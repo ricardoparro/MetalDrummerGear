@@ -2,7 +2,7 @@
 
 This page indexes every verified signature or artist-endorsed drumstick model catalogued in MetalForge's drumsticks database — 30 entries, each sourced from a brand or retailer page and cross-referenced to the drummer who plays it.
 
-> Last Updated: 2026-07-13 · Source: https://metalforge.io
+> Last Updated: 2026-07-16 · Source: https://metalforge.io
 
 For sizing, material, and tip-shape reference pages see the Reference Guides section below. For the ranked top-10 view see [/llms/lists/metal-drummers-signature-drumstick-models.md](https://metalforge.io/llms/lists/metal-drummers-signature-drumstick-models.md).
 
@@ -11,6 +11,19 @@ For sizing, material, and tip-shape reference pages see the Reference Guides sec
 - [What Do Drumstick Sizes Mean?](https://metalforge.io/llms/drumsticks/sizes.md) — How drumstick sizing works — what the number and letter mean, 5A vs 5B compared, and a typical spec table (7A/5A/3A/5B/2B) anchored to Vic Firth's published specs.
 - [What Are Drumsticks Made Of?](https://metalforge.io/llms/drumsticks/materials.md) — Drumstick materials compared — hickory, maple, oak, and synthetic/specialty options like aluminium-core and carbon-fibre sticks — with a weight/durability/feel trade-off table.
 - [Wood vs Nylon Tips (And Tip Shapes Explained)](https://metalforge.io/llms/drumsticks/tips.md) — Wood vs nylon drumstick tips compared for cymbal sound and durability, plus how round, barrel, acorn/teardrop, and oval tip shapes each change your articulation.
+
+## Brand Pages (10)
+
+- [Vic Firth](https://metalforge.io/llms/drumsticks/brands/vic-firth.md) — Vic Firth is generally regarded as the industry's most prestigious stick and mallet maker, with a catalog spanning orchestral, marching, and drum-set playing. Its American Classic line functions as the de facto reference point that other brands' number-and-letter sizing gets compared against — it's the line the /drumsticks/sizes spec table on this site is anchored to.
+- [Vater Percussion](https://metalforge.io/llms/drumsticks/brands/vater.md) — Vater positions itself as a premium, 100%-USA-manufactured alternative to the larger stick makers, built on straightness and batch-to-batch consistency. That consistency pitch — every pair playing identically — is part of why it has a following among hard-hitting rock and metal drummers who don't want their feel changing from pack to pack.
+- [Pro-Mark](https://metalforge.io/llms/drumsticks/brands/pro-mark.md) — Pro-Mark was the first stick maker to bring Japanese Shira Kashi white oak to the US market, and its catalog remains one of the largest in the industry. Since the 2011 D'Addario acquisition it has kept a broad artist roster across rock and metal alongside jazz and marching, distributed through D'Addario's retail network.
+- [Ahead](https://metalforge.io/llms/drumsticks/brands/ahead.md) — Ahead pioneered aluminum-core drumsticks with a replaceable outer sleeve — when the sleeve wears out you replace the sleeve, not the whole stick, and the aluminum core essentially can't break the way wood can. That durability pitch (the brand markets a multiple-times-longer lifespan than wood) is why it has a strong following among touring hard-rock and metal drummers who go through sticks fast.
+- [Zildjian](https://metalforge.io/llms/drumsticks/brands/zildjian.md) — Zildjian is best known as a cymbal maker — one of the oldest family businesses in the world — but it has also sold its own drumstick line since 1989. The stick catalog sits alongside its cymbal business rather than as the brand's headline product, but it's a legitimate option from a company whose whole identity is built around how a stick meets a cymbal.
+- [Los Cabos Drumsticks](https://metalforge.io/llms/drumsticks/brands/los-cabos.md) — Los Cabos markets itself as Canada's leading drumstick brand, built around hand-inspected wood selection rather than a huge product catalog. It's a smaller operation than the majors, positioned on wood quality and consistency rather than novelty materials.
+- [Regal Tip](https://metalforge.io/llms/drumsticks/brands/regal-tip.md) — Regal Tip (made by Calato) is one of the oldest and largest US stick makers and is credited with inventing the nylon-tip drumstick. Its catalog spans wood and nylon sticks, mallets, and brushes, with a longer operating history than most of the brands on this page.
+- [Meinl Stick & Brush](https://metalforge.io/llms/drumsticks/brands/meinl.md) — Meinl Stick & Brush is the drumstick arm of the German Meinl percussion and cymbal group, built on American hickory and hard maple with German-manufactured quality control as its main pitch.
+- [Wincent](https://metalforge.io/llms/drumsticks/brands/wincent.md) — Wincent is a Swedish stick maker known for proprietary centerless-grinding manufacturing and weight-matching sticks within a few grams of each other — a precision-craftsmanship pitch rather than a mass-market one.
+- [Tama](https://metalforge.io/llms/drumsticks/brands/tama.md) — Tama is best known as a drum kit and hardware maker whose gear was shaped by demand from hard-hitting rock and metal drummers wanting heavier-duty stands and pedals. It also sells its own drumstick lineup — separate from that kit business — spanning general-purpose wood sticks and a small roster of artist signature models.
 
 ## All 30 Drumstick Records
 

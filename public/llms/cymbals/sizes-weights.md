@@ -45,4 +45,4 @@ A: Generally yes — a heavier (thicker) cymbal resists cracking and wear at the
 - [Cymbals Guide](https://metalforge.io/llms/cymbals.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-13 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-16 · Source: [MetalForge.io](https://metalforge.io)*

@@ -2,7 +2,7 @@
 
 This page indexes every verified snare catalogued in MetalForge's snares database — 56 entries, each parsed from the drummer's roster gear record and cross-referenced to their profile.
 
-> Last Updated: 2026-07-13 · Source: https://metalforge.io
+> Last Updated: 2026-07-16 · Source: https://metalforge.io
 
 For shell material, size, and tuning reference pages see the Reference Guides section below. For a buying guide anchored on the verified signature snares see [https://metalforge.io/snares/best-for-metal](https://metalforge.io/snares/best-for-metal).
 
@@ -11,6 +11,15 @@ For shell material, size, and tuning reference pages see the Reference Guides se
 - [Snare Shells: Steel vs Maple (And Everything In Between)](https://metalforge.io/llms/snares/shells.md) — Steel, brass, bronze, and aluminium metal snare shells vs maple, birch, and walnut wood shells — how each affects crack, cut, and projection, plus cast vs rolled construction.
 - [Snare Drum Sizes: 13 vs 14, and What Depth Actually Changes](https://metalforge.io/llms/snares/sizes.md) — 14x6.5" as the metal workhorse size, 13" (Joey Jordison's signature) and piccolo depths, and how diameter and depth trade off crack against body.
 - [How to Tune a Snare Drum for Metal](https://metalforge.io/llms/snares/tuning-for-metal.md) — High-tension tuning, snare wire tension, and head choice for a tight, cutting metal snare sound — including the dry, clicky "typewriter" tone common in modern metal.
+
+## Brand Pages (6)
+
+- [Tama](https://metalforge.io/llms/snares/brands/tama.md) — Tama is the single most common snare brand across the verified metal roster, anchored by the modular S.L.P. (Sound Lab Project) series — which spans brass, steel, and maple shells and is by far the most common single line on this roster — alongside the Starclassic maple/bubinga shells and Lars Ulrich's own LU1465 signature model.
+- [Pearl](https://metalforge.io/llms/snares/brands/pearl.md) — Pearl's snare lineup splits into two verified-roster standards — the brass/steel Reference series for maximum cut, and the maple Masters series for a warmer tone — alongside multiple artist-signature models, including Joey Jordison's 13x6.5" and George Kollias's 14x6.5" snares.
+- [Ludwig](https://metalforge.io/llms/snares/brands/ludwig.md) — Ludwig is the oldest American drum company, and its snare identity on the verified metal roster rests on two of the most recorded shells in drumming history: the brass Black Beauty (Art Cruz) and the aluminium/steel Supraphonic (Bill Ward).
+- [Sonor](https://metalforge.io/llms/snares/brands/sonor.md) — Sonor is one of the oldest percussion manufacturers in the world, and on the verified metal roster its customizable maple SQ2 series is the most common single Sonor snare, used alongside artist-signature models built for Tomas Haake, Nicko McBrain, and Gavin Harrison.
+- [Mapex](https://metalforge.io/llms/snares/brands/mapex.md) — Mapex's snare presence on the verified metal roster covers both ends of its catalog: Chris Adler's walnut/maple signature model (Lamb of God) and the brass-shell Black Panther series played by Jason Bittner (Overkill, Shadows Fall).
+- [DW](https://metalforge.io/llms/snares/brands/dw.md) — DW's verified-roster snares split across its two core lines: the steel-shell Performance series (Navene Koperweis) for cut, and the maple-shell Collector's Series (Hannes Grossmann) for tonal body.
 
 ## All 56 Snare Records
 

@@ -46,4 +46,4 @@ A: No. A double pedal fires two beaters at one bass drum head through a single d
 - [Pedals Guide](https://metalforge.io/llms/pedals.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-16 · Source: [MetalForge.io](https://metalforge.io)*

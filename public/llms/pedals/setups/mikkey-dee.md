@@ -37,4 +37,4 @@ A: Mikkey Dee plays a Yamaha FP9 double pedal.
 
 ---
 
-*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-16 · Source: [MetalForge.io](https://metalforge.io)*

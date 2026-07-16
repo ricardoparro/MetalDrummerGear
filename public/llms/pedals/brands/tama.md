@@ -47,4 +47,4 @@ Source: [Tama — official site](https://www.tama.com).
 
 ---
 
-*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-16 · Source: [MetalForge.io](https://metalforge.io)*

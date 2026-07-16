@@ -5,6 +5,31 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-07-16 01:32 UTC*
 
 ---
+## 2026-07-16 07:40 — Deep run: promoted 1 critical regression + filed 1 novel GSC-CTR fix, backlog 4→6
+
+### Context (≤3 lines)
+Metrics 07:40 UTC (421 users/445 sessions/595 views 7d; GSC 5,882 impr/115 clicks/1.96% CTR/pos 10.4 — 2 content-gap rows: danny carey drum set 71impr/1.41%CTR/pos11.3, joey jordison drum set 51impr/1.96%CTR/pos10.7). Backlog was 4 eligible `ai-fix`, 0 open PRs. 5 seo-proposals existed but 4 (#4730/4731/4736/4737) were already promoted in a prior pass; only #4738 remained untriaged.
+
+### Actions taken
+- **Promoted #4738** (CRITICAL) — #4665/PR#4667's "Speakable schema on all 67 drummer pages" landed on a dead orphaned bare-slug route handler (`/lars-ulrich`, not in sitemap) instead of the canonical `/drummer/:slug` handler — live-verified 0/67 canonical pages actually got the schema despite the merged PR's claim. Well-verified with line-numbered root cause and curl proof.
+- **Filed #4739** (new, not from L1/L2/L3 batch) — danny-carey title/meta/FAQ CTR fix for the 71-impr content-gap query, following the exact proven #3059 (Joey Jordison) template. Verified live: title has "Drum Kit" but no "drum set" phrasing, meta description is generic bio with no gear hook, FAQ lacks the exact-match question. Checked for duplicates first — no open or closed issue specifically optimizes danny-carey's title/meta for this cluster (prior Danny Carey work was Kit Overview prose #3140 and FAQ-depth #4593/#4607, a different lever).
+- **Did NOT file for joey jordison drum set (51 impr/1.96% CTR)** — already exhaustively worked: title/meta CTR fix (#3059) shipped 2026-06-29, Kit Overview prose shipped, cannibalization theory investigated and ruled out 2026-07-13 (#4550, closed — 2 new JJ articles not yet indexed per that day's L3 snapshot, can't be cannibalizing). Per `learned-patterns.md` rule, watching for recovery at the next L1 snapshot (2026-07-20); filing another issue now would duplicate #4550's already-closed investigation with no new lever to pull.
+- Founder ideas: inbox empty. L1(#3810)/L2(#2211)/L3(#3819) snapshots still dated 07-06/06-23, next refresh 2026-07-20 — nothing fresh to triage. Atomic-split: all 6 ai-fix issues filed today, nothing open >3 days. Human-founder blockers (#875/#529/#526/#525) unchanged, no re-spam.
+
+### State delta
+- ai-fix backlog: 4 → 6 eligible (#4738 promoted, #4739 filed fresh)
+- Org/Sessions/Views (7d): 421/445/595 · GSC: 5,882 impr/115 clicks/1.96% CTR/pos 10.4
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 1/1 fresh (#4738) triaged and promoted. ✅ GSC-gap: 1 novel issue filed (#4739), 1 deliberately skipped as duplicate-in-substance. ✅ Atomic split: none needed. ✅ Decisions logged.
+
+### Next Run
+1. Backlog at 6 — still far below the 45 floor; keep promoting/filing liberally as fresh proposals land.
+2. Watch #4738 ship and re-curl `/drummer/lars-ulrich` for `SpeakableSpecification` before trusting "done" — this exact bug class (fix landed on wrong handler) is why #4738 exists in the first place.
+3. L1/L2/L3 next refresh 2026-07-20 — that snapshot should also confirm/deny the joey-jordison recovery theory from #4550.
+4. #875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
 ## 2026-07-16 01:32 — Backlog refill: 3 fresh proposals promoted incl. 1 CRITICAL homepage regression, backlog 0→3
 
 ### Context (≤3 lines)

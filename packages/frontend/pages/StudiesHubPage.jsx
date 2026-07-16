@@ -86,7 +86,7 @@ export function StudiesHubPage() {
             <Text style={[styles.studyTitle, { color: theme.text }]}>{study.title}</Text>
             <Text style={[styles.studyDescription, { color: theme.secondaryText }]}>{study.description}</Text>
             <Text style={[styles.studyMeta, { color: theme.mutedText || theme.secondaryText }]}>
-              Dataset: {study.datasetSize} drummers · Updated {study.dateModified}
+              Dataset: {study.datasetSize} {study.datasetUnit || 'drummers'} · Updated {study.dateModified}
             </Text>
           </Pressable>
         ))}

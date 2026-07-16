@@ -912,13 +912,21 @@ function getKitDrummersFromURL() {
   return { brandSlug: match[1].toLowerCase(), seriesSlug: match[2].toLowerCase() };
 }
 
-// Studies (Issue #4764, phase 1/3 of epic #4763) - /studies + /studies/<slug>.
-// Routed purely off the live URL, same convention as isKitDrummersPage()/
-// isGearSeriesPage() above — no new page-state flag threaded through every
-// navigation reset branch.
+// Studies (epic #4763; phase 1: issue #4764, phase 2: issue #4765) -
+// /studies + /studies/<slug>. Routed purely off the live URL, same convention
+// as isKitDrummersPage()/isGearSeriesPage() above — no new page-state flag
+// threaded through every navigation reset branch.
 const LazyStudiesHubPage = lazy(() => import('./pages/StudiesHubPage').then(m => ({ default: m.StudiesHubPage })));
 const LazyMostUsedGearBrandsStudyPage = lazy(() => import('./pages/MostUsedGearBrandsStudyPage').then(m => ({ default: m.MostUsedGearBrandsStudyPage })));
-const STUDY_SLUGS = new Set(['most-used-gear-brands-metal']);
+const LazyTempoBySubgenreStudyPage = lazy(() => import('./pages/TempoBySubgenreStudyPage').then(m => ({ default: m.TempoBySubgenreStudyPage })));
+const LazyDrumEndorsementLandscapeStudyPage = lazy(() => import('./pages/DrumEndorsementLandscapeStudyPage').then(m => ({ default: m.DrumEndorsementLandscapeStudyPage })));
+const LazyMetalKitConfigurationsStudyPage = lazy(() => import('./pages/MetalKitConfigurationsStudyPage').then(m => ({ default: m.MetalKitConfigurationsStudyPage })));
+const STUDY_SLUGS = new Set([
+  'most-used-gear-brands-metal',
+  'metal-tempo-by-subgenre',
+  'drum-endorsement-landscape',
+  'metal-kit-configurations',
+]);
 function isStudiesHubPage() {
   if (typeof window === 'undefined') return false;
   const pathname = window.location.pathname;
@@ -29601,13 +29609,34 @@ setShowList(false);
       );
     }
 
-    // Study page (Issue #4764, phase 1/3 of epic #4763) - /studies/<slug>
+    // Study page (epic #4763; phase 1: issue #4764, phase 2: issue #4765) - /studies/<slug>
     if (isStudyPage()) {
       const studySlug = getStudySlugFromURL();
       if (studySlug === 'most-used-gear-brands-metal') {
         return (
           <Suspense fallback={<PageLoadingSkeleton theme={theme} />}>
             <LazyMostUsedGearBrandsStudyPage />
+          </Suspense>
+        );
+      }
+      if (studySlug === 'metal-tempo-by-subgenre') {
+        return (
+          <Suspense fallback={<PageLoadingSkeleton theme={theme} />}>
+            <LazyTempoBySubgenreStudyPage />
+          </Suspense>
+        );
+      }
+      if (studySlug === 'drum-endorsement-landscape') {
+        return (
+          <Suspense fallback={<PageLoadingSkeleton theme={theme} />}>
+            <LazyDrumEndorsementLandscapeStudyPage />
+          </Suspense>
+        );
+      }
+      if (studySlug === 'metal-kit-configurations') {
+        return (
+          <Suspense fallback={<PageLoadingSkeleton theme={theme} />}>
+            <LazyMetalKitConfigurationsStudyPage />
           </Suspense>
         );
       }

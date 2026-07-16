@@ -1,72 +1,76 @@
-# Metallica — Drummer & Gear Profile | MetalForge
+# Metallica — Drummer & Band Profile | MetalForge
 
-> Per-band AI citation reference for Metallica. Covers drummer history, kit setup, and gear details.
-> Optimised for AI queries: 'who drums for Metallica', 'Lars Ulrich drum kit', 'Metallica drummer gear'.
+> Per-band AI citation reference for Metallica: verified drummer history, lineup, discography, and FAQ.
+> Optimised for queries like 'who is the drummer for Metallica', 'Lars Ulrich Metallica', 'Metallica band members'.
 
 ## Band Overview
 
-- **Drummer:** Lars Ulrich (1981–present)
+- **Drummer:** Lars Ulrich (1981-present)
 - **Genre:** Thrash Metal, Heavy Metal
-- **Active:** 1981–present
-- **Country:** United States (Los Angeles, California)
 - **Status:** Active
+- **Formed:** 1981
+- **Origin:** Los Angeles, California, USA
 
-## Drummer(s)
+## Summary
 
-**Lars Ulrich** — 1981–present (Co-founder)
-Lars Ulrich is the co-founder and sole drummer in Metallica's history. Born in Gentofte, Denmark on December 26, 1963, he moved to Los Angeles to pursue drumming and formed Metallica alongside vocalist/guitarist James Hetfield in 1981. Ulrich is widely credited with helping pioneer the thrash metal genre and is one of the most recognizable drummers in heavy metal history.
+Metallica, formed in 1981 in Los Angeles, is one of the most influential thrash metal bands.
+
+## Drummer History
+
+- **Lars Ulrich** — 1981-present (Co-founder; only drummer to ever record on a Metallica studio album. A one-off live exception occurred at the June 2004 Download Festival, where Ulrich was hospitalized and Dave Lombardo and Joey Jordison filled in for a single show.)
 
 [Lars Ulrich full profile →](https://metalforge.io/drummer/lars-ulrich) · [LLM markdown](https://metalforge.io/llms/drummers/lars-ulrich.md)
 
-## Kit Overview
+## Current Members
 
-Lars Ulrich's primary setup uses **Tama Starclassic Maple** shells paired with **Zildjian A Custom** cymbals. His signature snare is the **Tama LU1465 Lars Ulrich Signature 14×6.5"**. He plays with **Ahead Lars Ulrich Signature** drumsticks and uses **Remo** drumheads. For double-bass work, he relies on the **Tama Iron Cobra 900 Power Glide** double pedal.
+- **James Hetfield** — vocals, rhythm guitar — 1981-present (Co-founder)
+- **Lars Ulrich** — drums — 1981-present (Co-founder; placed the recruitment ad in The Recycler that led to the band's formation)
+- **Kirk Hammett** — lead guitar — 1983-present (Replaced Dave Mustaine)
+- **Robert Trujillo** — bass — 2003-present (Replaced Jason Newsted; first album St. Anger (2003))
 
-- **Drums:** Tama Starclassic Maple
-- **Snare:** Tama LU1465 Lars Ulrich Signature 14×6.5"
-- **Cymbals:** Zildjian A Custom Series (14" Dyno Beat Hi-Hats, 17" & 18" Rock Crashes, 22" Ride)
-- **Pedals:** Tama Iron Cobra 900 Power Glide Double Pedal
-- **Sticks:** Ahead Lars Ulrich Signature
+## Former Members
 
-## Signature Sound
+- **Ron McGovney** — bass — 1981-1982 (Founding bassist)
+- **Dave Mustaine** — lead guitar — 1981-1983 (Founding guitarist; departed and formed Megadeth)
+- **Cliff Burton** — bass — 1982-1986 (Replaced McGovney; died September 27, 1986 in a tour bus accident near Dorarp, Sweden)
+- **Jason Newsted** — bass — 1986-2001 (Replaced Burton; departed citing personal reasons)
 
-Metallica's drumming is defined by Lars Ulrich's aggressive, driving style. He employs galloping patterns that complement James Hetfield's rhythm guitar — most famously on "Master of Puppets" and "Battery". His fills are assertive rather than technical, and his groove locks tightly with the low-end thrash riff. His use of the ride cymbal as a primary rhythmic vehicle gives Metallica records their distinctive open, attacking feel. The double-bass patterns on albums like *Ride the Lightning* and *...And Justice for All* helped establish thrash metal's rhythmic template.
+## Discography
 
-## Albums
-
-| Album | Year | Drummer |
-|---|---|---|
-| Kill 'Em All | 1983 | Lars Ulrich |
-| Ride the Lightning | 1984 | Lars Ulrich |
-| Master of Puppets | 1986 | Lars Ulrich |
-| ...And Justice for All | 1988 | Lars Ulrich |
-| Metallica (Black Album) | 1991 | Lars Ulrich |
-| Load | 1996 | Lars Ulrich |
-| ReLoad | 1997 | Lars Ulrich |
-| St. Anger | 2003 | Lars Ulrich |
-| Death Magnetic | 2008 | Lars Ulrich |
-| Hardwired...to Self-Destruct | 2016 | Lars Ulrich |
-| 72 Seasons | 2023 | Lars Ulrich |
+| Album | Year | Drummer | Notes |
+|---|---|---|---|
+| Kill 'Em All | 1983 | Lars Ulrich | Debut album |
+| Ride the Lightning | 1984 | Lars Ulrich |  |
+| Master of Puppets | 1986 | Lars Ulrich | Last album with Cliff Burton |
+| ...And Justice for All | 1988 | Lars Ulrich | First album with Jason Newsted |
+| Metallica | 1991 | Lars Ulrich | The "Black Album" |
+| Load | 1996 | Lars Ulrich |  |
+| Reload | 1997 | Lars Ulrich |  |
+| St. Anger | 2003 | Lars Ulrich | First album with Robert Trujillo |
+| Death Magnetic | 2008 | Lars Ulrich |  |
+| Hardwired... to Self-Destruct | 2016 | Lars Ulrich |  |
+| 72 Seasons | 2023 | Lars Ulrich |  |
 
 ## FAQ
 
-**Q: Who plays drums in Metallica?**
-A: Lars Ulrich has been Metallica's drummer since the band's founding in 1981. He is a co-founder alongside James Hetfield and has appeared on all studio albums.
+**Q: Who is the drummer for Metallica?**
+A: Lars Ulrich has been Metallica's drummer since the band's founding in 1981. He is a co-founder who placed the original newspaper ad that led to the band's formation.
 
-**Q: What drum kit does Lars Ulrich use?**
-A: Lars Ulrich plays Tama Starclassic Maple drums with his signature LU1465 14×6.5" snare drum. He has been a longtime Tama endorser.
+**Q: Has Metallica ever used a different drummer on a studio album?**
+A: No. Lars Ulrich has drummed on every Metallica studio album, from Kill 'Em All (1983) through 72 Seasons (2023), including St. Anger (2003).
 
-**Q: What cymbals does Lars Ulrich use?**
-A: Lars Ulrich uses Zildjian A Custom cymbals, including 14" Dyno Beat Hi-Hats, 16"–18" Rock Crashes, and a 22" Ride.
+**Q: Did anyone ever fill in for Lars Ulrich?**
+A: Yes, but only once and only for a single live show: at the Download Festival in June 2004, Ulrich was hospitalized and Dave Lombardo (Slayer) and Joey Jordison (Slipknot) filled in on drums, with drum tech Flemming Larsen covering one song. No studio recordings were affected.
 
-**Q: Is Lars Ulrich in the Rock and Roll Hall of Fame?**
-A: Yes. Metallica was inducted into the Rock and Roll Hall of Fame in 2009, making Lars Ulrich the first Danish-born musician to receive the honour.
+**Q: Who are Metallica's founding members?**
+A: James Hetfield and Lars Ulrich founded Metallica in Los Angeles in 1981; the original lineup also included Dave Mustaine (guitar) and Ron McGovney (bass), both of whom later departed.
 
-**Q: What pedals does Lars Ulrich use?**
-A: Lars Ulrich plays the Tama Iron Cobra 900 Power Glide double bass drum pedal.
+## Sources
 
-**Q: What is Metallica's most famous drum part?**
-A: "Master of Puppets" (1986) is widely cited for its iconic galloping drum pattern, while the "One" intro features a machine-gun double-bass sequence that remains one of metal drumming's most recognisable moments.
+- https://en.wikipedia.org/wiki/Metallica
+- https://en.wikipedia.org/wiki/Lars_Ulrich
+- https://www.loudersound.com/features/what-happened-the-night-metallica-lars-ulrich-disappeared
+- https://en.wikipedia.org/wiki/Download_Festival
 
 ---
 
@@ -76,4 +80,4 @@ A: "Master of Puppets" (1986) is widely cited for its iconic galloping drum patt
 
 **More resources:** [All bands](https://metalforge.io/llms/bands.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-06-20 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-16 · Source: [MetalForge.io](https://metalforge.io)*

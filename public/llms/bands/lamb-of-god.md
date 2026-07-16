@@ -1,77 +1,80 @@
-# Lamb of God — Drummer & Gear Profile | MetalForge
+# Lamb of God — Drummer & Band Profile | MetalForge
 
-> Per-band AI citation reference for Lamb of God. Covers drummer history, kit setup, and gear details.
-> Optimised for AI queries: 'who drums for Lamb of God', 'Art Cruz drum kit', 'Lamb of God drummer gear'.
+> Per-band AI citation reference for Lamb of God: verified drummer history, lineup, discography, and FAQ.
+> Optimised for queries like 'who is the drummer for Lamb of God', 'Art Cruz Lamb of God', 'Lamb of God band members'.
 
 ## Band Overview
 
-- **Drummers:** Chris Adler (1994–2019, co-founder), Art Cruz (2019–present)
+- **Drummer:** Art Cruz (2019-present)
 - **Genre:** Groove Metal, Metalcore
-- **Active:** 1994–present
-- **Country:** United States (Richmond, Virginia)
 - **Status:** Active
+- **Formed:** 1994
+- **Origin:** Richmond, Virginia, USA
 
-## Drummer(s)
+## Summary
 
-**Chris Adler** — 1994–2019 (Co-founder)
-Chris Adler co-founded Lamb of God (originally Burn the Priest) in 1994 and became one of the most influential drummers in modern metal, known for his "pivot" hi-hat technique and powerful, groove-based patterns. He recorded the band's entire catalog through *VII: Sturm und Drang* (2015), and also joined Megadeth in 2015 to record the Grammy-winning *Dystopia*.
+Lamb of God, formed in 1994 in Richmond, Virginia, is one of the most influential groove metal bands of the 21st century.
 
-[Chris Adler full profile →](https://metalforge.io/drummer/chris-adler) · [LLM markdown](https://metalforge.io/llms/drummers/chris-adler.md)
+## Drummer History
 
-**Art Cruz** — 2019–present
-Art Cruz, previously of Winds of Plague and Prong, filled in for Chris Adler on Lamb of God's 2018 tour supporting Slayer's farewell run before being named the band's official drummer in 2019. He recorded Lamb of God's self-titled 2020 album and 2022's *Omens*, learning Adler's notoriously complex catalog while bringing his own energy to the band.
+- **Chris Adler** — 1994-2019 (Founding member and drummer on every album from Burn the Priest (1999) through VII: Sturm und Drang (2015))
+- **Art Cruz** — 2019-present (Filled in on tour in 2018-2019 before becoming the permanent drummer in July 2019; drummer on the self-titled 2020 album and Omens (2022))
 
 [Art Cruz full profile →](https://metalforge.io/drummer/art-cruz) · [LLM markdown](https://metalforge.io/llms/drummers/art-cruz.md)
 
-## Kit Overview
+## Current Members
 
-Art Cruz plays a **Ludwig** drum kit centered on his Ludwig 14×6.5" Black Beauty snare, driven by a Trick Pro 1-V double pedal — the setup he brought to Lamb of God after joining in 2019.
+- **Randy Blythe** — vocals — 1995-present
+- **Mark Morton** — lead guitar — 1994, 1997-present (Founding member)
+- **Willie Adler** — rhythm guitar — 1999-present
+- **John Campbell** — bass — 1994-present (Founding member)
+- **Art Cruz** — drums — 2019-present (Former Winds of Plague and Prong drummer)
 
-- **Drums (Cruz):** Ludwig
-- **Snare (Cruz):** Ludwig 14×6.5" Black Beauty
-- **Cymbals (Cruz):** Zildjian (A Custom Mastersound Hi-Hats, A Custom/K China crashes, A Zildjian Mega Bell Ride)
-- **Pedals (Cruz):** Trick Pro 1-V Bigfoot Double Pedal
-- **Drums (Adler):** Mapex Black Panther Velvetone Series
-- **Snare (Adler):** Mapex Chris Adler Signature Black Panther Warbird 12×5.5"
-- **Cymbals (Adler):** Meinl Byzance Series
+## Former Members
 
-## Signature Sound
+- **Chris Adler** — drums — 1994-2019 (Founding member and drummer; departed in 2019 amid a mix of cited creative differences and health issues)
+- **Matt Conner** — guitar — 1994 (Early/founding-era member)
+- **Abe Spear** — guitar — 1994-1999
 
-Lamb of God's drumming is built on relentless, syncopated groove metal precision. Chris Adler's playing on albums like *Ashes of the Wake* (2004) and *Sacrament* (2006) defined a generation of groove metal drummers, combining thrash-derived speed with deep pocket and creative dynamics. Art Cruz has carried that torch since 2019, matching Adler's technical demands on *Lamb of God* (2020) and *Omens* (2022) while bringing his own driving intensity.
+## Discography
 
-## Albums
-
-| Album | Year | Drummer |
-|---|---|---|
-| Ashes of the Wake | 2004 | Chris Adler |
-| Sacrament | 2006 | Chris Adler |
-| Wrath | 2009 | Chris Adler |
-| VII: Sturm und Drang | 2015 | Chris Adler |
-| Lamb of God | 2020 | Art Cruz |
-| Omens | 2022 | Art Cruz |
+| Album | Year | Drummer | Notes |
+|---|---|---|---|
+| Burn the Priest | 1999 | Chris Adler | Released under the band's original name, Burn the Priest, before renaming to Lamb of God |
+| New American Gospel | 2000 | Chris Adler | First album released as Lamb of God |
+| As the Palaces Burn | 2003 | Chris Adler |  |
+| Ashes of the Wake | 2004 | Chris Adler |  |
+| Sacrament | 2006 | Chris Adler |  |
+| Wrath | 2009 | Chris Adler |  |
+| Resolution | 2012 | Chris Adler |  |
+| VII: Sturm und Drang | 2015 | Chris Adler |  |
+| Lamb of God | 2020 | Art Cruz | First album with Art Cruz on drums |
+| Omens | 2022 | Art Cruz |  |
 
 ## FAQ
 
-**Q: Who plays drums in Lamb of God?**
-A: Art Cruz has been Lamb of God's drummer since 2019, succeeding co-founder Chris Adler, who drummed for the band from 1994 to 2019.
+**Q: Who is the drummer for Lamb of God?**
+A: Art Cruz, formerly of Winds of Plague and Prong, has been Lamb of God's drummer since 2019, and has recorded the self-titled Lamb of God (2020) and Omens (2022) albums with the band.
 
-**Q: What drum kit does Art Cruz use?**
-A: Art Cruz plays a Ludwig drum kit with a 14×6.5" Ludwig Black Beauty snare, Zildjian cymbals, and a Trick Pro 1-V double pedal.
+**Q: Why did Chris Adler leave Lamb of God?**
+A: Chris Adler, the band's founding drummer, departed in 2019. Accounts point to a mix of factors: Adler said he was not given a choice and described the situation as 'toxic,' while also citing physical/health complications (including musician's dystonia affecting his foot) after a 2017 motorcycle accident.
 
-**Q: How did Art Cruz join Lamb of God?**
-A: Art Cruz filled in for Chris Adler on Lamb of God's 2018 North American tour supporting Slayer's farewell run, a stint that led the band to make him their official drummer in 2019.
+**Q: Was there an interim drummer between Chris Adler and Art Cruz?**
+A: Art Cruz filled in on tour before formally becoming Lamb of God's permanent drummer in July 2019; no other drummer served as a separate interim member between Adler's exit and Cruz's appointment.
 
-**Q: What drum kit did Chris Adler use?**
-A: Chris Adler played a Mapex Black Panther Velvetone Series kit with his signature 12×5.5" Warbird snare and Meinl Byzance cymbals.
+**Q: Did Lamb of God exist under a different name?**
+A: Yes — the band formed in Richmond, Virginia in 1994 as Burn the Priest, releasing one self-titled album under that name in 1999 before renaming to Lamb of God and releasing New American Gospel in 2000.
 
-**Q: Did Chris Adler play with other bands?**
-A: Yes. Chris Adler briefly joined Megadeth in 2015 to record *Dystopia*, which won a Grammy for Best Metal Performance.
+## Sources
+
+- https://en.wikipedia.org/wiki/Lamb_of_God_(band)
+- https://consequence.net/2019/10/chris-adler-lamb-of-god-departure-statement/
 
 ---
 
 **Full band profile:** [Lamb of God on MetalForge](https://metalforge.io/bands/lamb-of-god)
 
-**Drummer LLM files:** [Chris Adler](https://metalforge.io/llms/drummers/chris-adler.md) · [Art Cruz](https://metalforge.io/llms/drummers/art-cruz.md)
+**Drummer LLM file:** [Art Cruz](https://metalforge.io/llms/drummers/art-cruz.md)
 
 **More resources:** [All bands](https://metalforge.io/llms/bands.md) · [Site index](https://metalforge.io/llms.txt)
 

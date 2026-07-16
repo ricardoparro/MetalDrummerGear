@@ -1,61 +1,64 @@
-# Cavalera Conspiracy — Drummer & Gear Profile | MetalForge
+# Cavalera Conspiracy — Drummer & Band Profile | MetalForge
 
-> Per-band AI citation reference for Cavalera Conspiracy. Covers drummer history, kit setup, and gear details.
-> Optimised for AI queries: 'who drums for Cavalera Conspiracy', 'Igor Cavalera drum kit', 'Cavalera Conspiracy drummer gear'.
+> Per-band AI citation reference for Cavalera Conspiracy: verified drummer history, lineup, discography, and FAQ.
+> Optimised for queries like 'who is the drummer for Cavalera Conspiracy', 'Igor Cavalera Cavalera Conspiracy', 'Cavalera Conspiracy band members'.
 
 ## Band Overview
 
-- **Drummer:** Igor Cavalera (2007–present, co-founder)
+- **Drummer:** Igor Cavalera (2007-present)
 - **Genre:** Thrash Metal, Groove Metal
-- **Active:** 2007–present
-- **Country:** United States (Phoenix, Arizona)
 - **Status:** Active
+- **Formed:** 2007
+- **Origin:** Phoenix, Arizona, USA
 
-## Drummer(s)
+## Summary
 
-**Igor Cavalera** — 2007–present (Co-founder)
-Igor Cavalera co-founded Cavalera Conspiracy in 2007, reuniting with his brother Max Cavalera after both departed Sepultura, the legendary Brazilian thrash band they founded together in 1984. Igor pioneered the fusion of Brazilian tribal percussion with extreme metal on Sepultura albums like *Arise* (1991), *Chaos A.D.* (1993), and *Roots* (1996) — a template that influenced groove metal and nu-metal alike. He brought that same polyrhythmic, tribal-influenced approach to Cavalera Conspiracy's debut *Inflikted* (2008).
+Cavalera Conspiracy, formed in 2007, reunited brothers Max and Igor Cavalera after their departures from Sepultura.
+
+## Drummer History
+
+- **Igor Cavalera** — 2007-present (Co-founder, former Sepultura drummer; has drummed on all four studio albums and remains the band's drummer)
 
 [Igor Cavalera full profile →](https://metalforge.io/drummer/igor-cavalera) · [LLM markdown](https://metalforge.io/llms/drummers/igor-cavalera.md)
 
-## Kit Overview
+## Current Members
 
-Igor Cavalera plays a **Tama Starclassic Maple** kit built around a Tama S.L.P. 14×6.5" G-Maple snare, paired with Paiste RUDE and 2002 Series cymbals for the harsh, cutting articulation his tribal groove metal rhythms demand.
+- **Max Cavalera** — vocals, rhythm guitar — 2007-present (Founding member; also of Soulfly and formerly Sepultura)
+- **Igor Cavalera** — drums — 2007-present (Founding member and co-founder; former Sepultura drummer; has remained the band's drummer continuously since founding)
+- **Igor Amadeus Cavalera** — bass — 2023-present (Son of Max Cavalera)
+- **Travis Stone** — lead guitar — 2023-present
 
-- **Drums:** Tama Starclassic Maple
-- **Snare:** Tama S.L.P. 14×6.5" G-Maple
-- **Cymbals:** Paiste RUDE and 2002 Series (14" RUDE Hi-Hats, 18"/19" RUDE Crashes, 22" RUDE Power Ride, 18" 2002 China)
-- **Pedals:** Tama Iron Cobra Double Pedal
-- **Additional percussion:** Traditional Brazilian percussion (atabaques, surdo, timbales)
+## Former Members
 
-## Signature Sound
+- **Marc Rizzo** — lead guitar — 2007-2021 (Also of Soulfly)
+- **Joe Duplantier** — bass — 2007-2008 (Also of Gojira)
+- **Johny Chow** — bass — 2008-2012, 2015-2016 (touring)
+- **Nate Newton** — bass — 2013-2015 (Also of Converge)
+- **Mike Leon** — bass — 2017-2019, 2022
 
-Cavalera Conspiracy carries forward the tribal groove metal fusion Igor Cavalera pioneered in Sepultura — polyrhythmic patterns blending Afro-Brazilian rhythms with thrash metal's speed and aggression. His incorporation of traditional Brazilian percussion instruments alongside a standard metal kit gives the band's material, including *Inflikted* (2008) and *Psychosis* (2017), a distinctive tribal texture that sets it apart from conventional groove metal and links directly back to Sepultura's genre-defining *Roots* (1996).
+## Discography
 
-## Albums
-
-| Album | Year | Drummer |
-|---|---|---|
-| Inflikted | 2008 | Igor Cavalera |
-| Blunt Force Trauma | 2011 | Igor Cavalera |
-| Psychosis | 2017 | Igor Cavalera |
+| Album | Year | Drummer | Notes |
+|---|---|---|---|
+| Inflikted | 2008 | Igor Cavalera |  |
+| Blunt Force Trauma | 2011 | Igor Cavalera |  |
+| Pandemonium | 2014 | Igor Cavalera |  |
+| Psychosis | 2017 | Igor Cavalera |  |
 
 ## FAQ
 
-**Q: Who plays drums in Cavalera Conspiracy?**
-A: Igor Cavalera has drummed for Cavalera Conspiracy since co-founding the band with his brother Max in 2007.
+**Q: Who is the drummer for Cavalera Conspiracy?**
+A: Igor Cavalera, co-founder of the band and former Sepultura drummer, has drummed for Cavalera Conspiracy continuously since it was founded in 2007 -- he has not left the band.
 
-**Q: What drum kit does Igor Cavalera use?**
-A: Igor Cavalera plays a Tama Starclassic Maple kit with a Tama S.L.P. 14×6.5" G-Maple snare, Paiste RUDE and 2002 Series cymbals, and a Tama Iron Cobra double pedal.
+**Q: How did Cavalera Conspiracy form?**
+A: Brothers Max and Igor Cavalera, who had been estranged since Igor's 2006 departure from Sepultura, reconciled after Igor joined Max on stage at a 2006 Soulfly concert commemorating Dana Wells. This reunion led to the formation of the band, initially called Inflikted, in 2007.
 
-**Q: Why did Igor Cavalera form Cavalera Conspiracy?**
-A: Igor Cavalera formed Cavalera Conspiracy in 2007 to reunite with his brother Max after both had departed Sepultura, the thrash metal band they co-founded together in 1984.
+**Q: Is Cavalera Conspiracy related to Sepultura?**
+A: Yes. Founders Max and Igor Cavalera are the brothers who co-founded Sepultura; Max left Sepultura in 1996 and Igor left in 2006, after which they formed Cavalera Conspiracy together to play a thrash sound reminiscent of classic Sepultura.
 
-**Q: Does Igor Cavalera use Brazilian percussion?**
-A: Yes. Beyond his standard Tama kit, Igor Cavalera incorporates traditional Brazilian percussion — atabaques, surdo, and timbales — continuing the tribal-metal fusion he pioneered on Sepultura's *Roots* (1996).
+## Sources
 
-**Q: Was Igor Cavalera in Sepultura?**
-A: Yes. Igor Cavalera co-founded Sepultura in 1984 and drummed for the band until 2006, before forming Cavalera Conspiracy with his brother Max the following year.
+- https://en.wikipedia.org/wiki/Cavalera_Conspiracy
 
 ---
 

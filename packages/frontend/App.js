@@ -13725,10 +13725,10 @@ function BandDetailPage({ bandSlug, drummers, onBack, onSelectDrummer, theme }) 
           "@type": "FAQPage",
           "mainEntity": band.faq.map(faqItem => ({
             "@type": "Question",
-            "name": faqItem.question,
+            "name": faqItem.q,
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": faqItem.answer
+              "text": faqItem.a
             }
           }))
         };

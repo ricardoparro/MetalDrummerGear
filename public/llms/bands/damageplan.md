@@ -1,59 +1,58 @@
-# Damageplan — Drummer & Gear Profile | MetalForge
+# Damageplan — Drummer & Band Profile | MetalForge
 
-> Per-band AI citation reference for Damageplan. Covers drummer history, kit setup, and gear details.
-> Optimised for AI queries: 'who drums for Damageplan', 'Vinnie Paul drum kit', 'Damageplan drummer gear'.
+> Per-band AI citation reference for Damageplan: verified drummer history, lineup, discography, and FAQ.
+> Optimised for queries like 'who is the drummer for Damageplan', 'Vinnie Paul Damageplan', 'Damageplan band members'.
 
 ## Band Overview
 
-- **Drummer:** Vinnie Paul (2003–2004, co-founder)
+- **Drummer:** Vinnie Paul (2003-2004)
 - **Genre:** Groove Metal
-- **Active:** 2003–2004
-- **Country:** United States (Dallas, Texas)
 - **Status:** Disbanded
+- **Formed:** 2003
+- **Origin:** Dallas, Texas, USA
 
-## Drummer(s)
+## Summary
 
-**Vinnie Paul** — 2003–2004 (Co-founder)
-Vinnie Paul (1964–2018) co-founded Damageplan in 2003 with his brother "Dimebag" Darrell Abbott after Pantera's breakup, carrying forward the powerful, groove-locked drumming style that had defined 1990s heavy metal on Pantera albums like *Cowboys from Hell* and *Vulgar Display of Power*. Damageplan released one album, *New Found Power* (2004), before disbanding following Dimebag's murder on stage on December 8, 2004.
+Damageplan, formed in 2003 by brothers Vinnie Paul and Dimebag Darrell Abbott after Pantera's breakup, disbanded following Dimebag's murder onstage in 2004.
+
+## Drummer History
+
+- **Vinnie Paul** — 2003-2004 (Co-founder with brother Dimebag Darrell; the band's only drummer)
 
 [Vinnie Paul full profile →](https://metalforge.io/drummer/vinnie-paul) · [LLM markdown](https://metalforge.io/llms/drummers/vinnie-paul.md)
 
-## Kit Overview
+## Former Members
 
-Vinnie Paul played a **ddrum Vinnie Paul Signature Series** kit engineered for maximum projection, powering the thunderous double kick that anchored his groove metal sound.
+- **Vinnie Paul** — drums — 2003-2004 (Co-founder with brother Dimebag Darrell; former Pantera drummer; band ended after Dimebag's death Dec 2004)
+- **Dimebag Darrell** — guitar, backing vocals — 2003-2004 (Co-founder; killed onstage Dec 8, 2004 at the Alrosa Villa in Columbus, Ohio)
+- **Patrick Lachman** — lead vocals — 2003-2004 (Formerly of Halford)
+- **Bob Zilla** — bass, backing vocals — 2003-2004 (Later joined Hellyeah with Vinnie Paul)
+- **Shawn Matthews** — bass, backing vocals — 2003 (Early bassist before Bob Zilla)
 
-- **Drums:** ddrum Vinnie Paul Signature Series
-- **Snare:** ddrum Vinnie Paul Signature 14×8"
-- **Cymbals:** Sabian AA and AAX Series (14" Hi-Hats, 18"/19" Crashes, 21" Ride, 18" China)
-- **Pedals:** ddrum Double Pedal
-- **Electronics:** ddrum and Roland triggers
+## Discography
 
-## Signature Sound
-
-Damageplan carried Vinnie Paul's signature groove metal foundation directly from Pantera — powerful, pocket-focused drumming perfectly locked in with his brother Dimebag Darrell's riffing, prioritizing feel over technical showmanship. *New Found Power* (2004) showed the Abbott brothers continuing the crushing, infectious groove that had made Pantera one of the defining metal bands of the 1990s, before the band's story was cut tragically short by Dimebag's murder on stage in Columbus, Ohio, in December 2004.
-
-## Albums
-
-| Album | Year | Drummer |
-|---|---|---|
-| New Found Power | 2004 | Vinnie Paul |
+| Album | Year | Drummer | Notes |
+|---|---|---|---|
+| New Found Power | 2004 | Vinnie Paul | Damageplan's only studio album, released Feb 10, 2004; features guest appearances from Corey Taylor, Jerry Cantrell, and Zakk Wylde |
 
 ## FAQ
 
-**Q: Who plays drums in Damageplan?**
-A: Vinnie Paul co-founded and drummed for Damageplan from 2003 until the band disbanded in 2004.
+**Q: Who is the drummer for Damageplan?**
+A: Vinnie Paul (former Pantera drummer) was Damageplan's only drummer, from the band's formation in 2003 until it ended in December 2004.
 
-**Q: What drum kit did Vinnie Paul use with Damageplan?**
-A: Vinnie Paul played a ddrum Vinnie Paul Signature Series kit with a 14×8" signature snare, Sabian AA/AAX cymbals, and a ddrum double pedal.
+**Q: Why did Damageplan break up?**
+A: The band effectively ended on December 8, 2004, when guitarist Dimebag Darrell was shot and killed onstage at the Alrosa Villa nightclub in Columbus, Ohio, along with three other people, by a gunman named Nathan Gale.
 
-**Q: Why did Damageplan disband?**
-A: Damageplan disbanded following the murder of guitarist "Dimebag" Darrell Abbott, who was shot on stage during a performance in Columbus, Ohio, on December 8, 2004.
+**Q: How many albums did Damageplan release?**
+A: Just one: New Found Power, released February 10, 2004, which debuted at number 38 on the Billboard 200.
 
-**Q: Was Damageplan related to Pantera?**
-A: Yes. Damageplan was formed in 2003 by brothers Vinnie Paul and Dimebag Darrell Abbott after Pantera's breakup, carrying forward much of that band's groove metal sound.
+**Q: Was Damageplan a continuation of Pantera?**
+A: Not officially — Damageplan was formed by brothers Vinnie Paul and Dimebag Darrell after Pantera's breakup, with new vocalist Patrick Lachman (ex-Halford) and bassist Bob Zilla, but it drew heavily on their groove-metal sound.
 
-**Q: What band did Vinnie Paul form after Damageplan?**
-A: After Dimebag's death, Vinnie Paul went on to found the groove metal supergroup Hellyeah in 2006, which became his final full-time band.
+## Sources
+
+- https://en.wikipedia.org/wiki/Damageplan
+- https://en.wikipedia.org/wiki/New_Found_Power
 
 ---
 

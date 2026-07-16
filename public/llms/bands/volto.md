@@ -1,59 +1,57 @@
-# Volto! — Drummer & Gear Profile | MetalForge
+# Volto! — Drummer & Band Profile | MetalForge
 
-> Per-band AI citation reference for Volto!. Covers drummer history, kit setup, and gear details.
-> Optimised for AI queries: 'who drums for Volto', 'Danny Carey drum kit', 'Volto drummer gear'.
+> Per-band AI citation reference for Volto!: verified drummer history, lineup, discography, and FAQ.
+> Optimised for queries like 'who is the drummer for Volto!', 'Danny Carey Volto!', 'Volto! band members'.
 
 ## Band Overview
 
-- **Drummer:** Danny Carey (2000–present)
+- **Drummer:** Danny Carey (early 2000s-present)
 - **Genre:** Progressive Rock, Jazz Fusion
-- **Active:** 2000–present
-- **Country:** United States (Los Angeles, California)
 - **Status:** Active
+- **Formed:** 2000
+- **Origin:** Los Angeles, California, USA
 
-## Drummer(s)
+## Summary
 
-**Danny Carey** — 2000–present
-Danny Carey, Tool's drummer since the band's 1990 formation, uses Volto! as an outlet for jazz-fusion and instrumental progressive rock, a stylistic counterpart to Tool's heavier, polyrhythmic metal. Widely regarded as one of the greatest rock drummers of all time, Carey brings the same complex polyrhythms and sacred-geometry-influenced compositional approach to Volto!'s instrumental material, including the album *Incitare* (2013).
+Volto!, formed in Los Angeles in the early 2000s, is an instrumental progressive rock/jazz-fusion project featuring Tool drummer Danny Carey.
+
+## Drummer History
+
+- **Danny Carey** — early 2000s-present (Sole drummer throughout the band's history; also drummer for Tool since 1990)
 
 [Danny Carey full profile →](https://metalforge.io/drummer/danny-carey) · [LLM markdown](https://metalforge.io/llms/drummers/danny-carey.md)
 
-## Kit Overview
+## Current Members
 
-Danny Carey plays his massive **Sonor SQ2 Heavy Beech** kit — the same setup he uses with Tool — built around his signature Sonor Danny Carey 14×8" bronze snare, with Mandala electronic pads for melodic and textural elements.
+- **Danny Carey** — drums — early 2000s-present (Also Tool's drummer since 1990; founding member of Volto!)
+- **John Ziegler** — guitars — early 2000s-present (Previously played with Carey in Pigmy Love Circus)
+- **Lance Morrison** — bass — early 2000s-present
+- **Matt Rohde** — keyboards — unknown-present
 
-- **Drums:** Sonor SQ2 Heavy Beech
-- **Snare:** Sonor Danny Carey Signature 14×8" Bronze
-- **Cymbals:** Paiste Signature Series (Sound Edge Hi-Hats, Power Crashes, Dry Heavy Ride, Chinas)
-- **Pedals:** Sonor Giant Step Twin Effect Double Pedal
-- **Electronics:** Mandala Drum electronic pads
+## Discography
 
-## Signature Sound
-
-Volto! lets Danny Carey stretch beyond Tool's structured, riff-anchored polyrhythms into freer jazz-fusion territory, while still drawing on the same complex time signatures and world-music-informed patterns that define his main band. Playing alongside guitarist Lance Morrison and other collaborators, Carey's work in Volto! showcases the improvisational, Elvin-Jones-and-Tony-Williams-influenced side of his playing that Tool's tightly composed material rarely allows room for.
-
-## Albums
-
-| Album | Year | Drummer |
-|---|---|---|
-| Incitare | 2013 | Danny Carey |
+| Album | Year | Drummer | Notes |
+|---|---|---|---|
+| Incitare | 2013 | Danny Carey | Volto!'s only studio album to date; recorded live in Carey's home studio |
 
 ## FAQ
 
-**Q: Who plays drums in Volto!?**
-A: Danny Carey, best known as Tool's drummer since 1990, has drummed for his instrumental side project Volto! since the early 2000s.
+**Q: Who is the drummer for Volto!?**
+A: Danny Carey, also known as the longtime drummer of Tool (since 1990), is Volto!'s drummer and a founding member.
 
-**Q: What drum kit does Danny Carey use in Volto!?**
-A: Danny Carey plays the same massive Sonor SQ2 Heavy Beech kit he uses with Tool, featuring his signature 14×8" bronze snare, Paiste Signature cymbals, and Mandala electronic pads.
+**Q: How did Volto! form?**
+A: Volto! grew out of prior musical relationships: Danny Carey and guitarist John Ziegler had previously played together in Pigmy Love Circus, and both jammed with bassist Lance Morrison at a jazz club in Southern California's San Fernando Valley.
+
+**Q: How many albums has Volto! released?**
+A: One studio album, Incitare, released July 23, 2013, recorded live in Danny Carey's home studio.
 
 **Q: What genre is Volto!?**
-A: Volto! plays instrumental progressive rock and jazz fusion, a stylistic departure from Danny Carey's main band Tool's heavier progressive metal.
+A: Volto! is classified as a rock jam band spanning rock, jazz fusion, jam band, and progressive rock.
 
-**Q: Is Danny Carey in the Modern Drummer Hall of Fame?**
-A: Yes. Danny Carey was inducted into the Modern Drummer Hall of Fame in 2016.
+## Sources
 
-**Q: What are Danny Carey's Mandala drums?**
-A: Mandala drums are electronic pads Danny Carey uses for triggering samples and melodic elements, integrated into both his Tool and Volto! setups.
+- https://en.wikipedia.org/wiki/Volto!
+- https://loudwire.com/danny-carey-debut-volto-album-how-music-differs-from-tool-more/
 
 ---
 

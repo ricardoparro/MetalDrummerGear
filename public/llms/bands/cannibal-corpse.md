@@ -1,74 +1,79 @@
-# Cannibal Corpse — Drummer & Gear Profile | MetalForge
+# Cannibal Corpse — Drummer & Band Profile | MetalForge
 
-> Per-band AI citation reference for Cannibal Corpse. Covers drummer history, kit setup, and gear details.
-> Optimised for AI queries: 'who drums for Cannibal Corpse', 'Paul Mazurkiewicz drum kit', 'Cannibal Corpse drummer gear'.
+> Per-band AI citation reference for Cannibal Corpse: verified drummer history, lineup, discography, and FAQ.
+> Optimised for queries like 'who is the drummer for Cannibal Corpse', 'Paul Mazurkiewicz Cannibal Corpse', 'Cannibal Corpse band members'.
 
 ## Band Overview
 
-- **Drummer:** Paul Mazurkiewicz (1988–present)
-- **Genre:** Death Metal, Brutal Death Metal
-- **Active:** 1988–present
-- **Country:** United States (Buffalo, New York)
+- **Drummer:** Paul Mazurkiewicz (1988-present)
+- **Genre:** Death Metal
 - **Status:** Active
+- **Formed:** 1988
+- **Origin:** Buffalo, New York, USA
 
-## Drummer(s)
+## Summary
 
-**Paul Mazurkiewicz** — 1988–present (Founding member)
-Paul Mazurkiewicz is a founding member of Cannibal Corpse and one of the most consistent presences in death metal. He has been with the band for their entire career, across 16 studio albums and over three decades of relentless touring. His drumming is characterised by precise blast beats, aggressive double-bass patterns, and technically demanding fills that underpin the band's brutal death metal compositions. Mazurkiewicz co-wrote many of the band's early albums.
+Cannibal Corpse, formed in 1988, is one of the best-selling and most influential death metal bands.
+
+## Drummer History
+
+- **Paul Mazurkiewicz** — 1988-present (Founding member; drummer on every Cannibal Corpse studio album with no gaps)
 
 [Paul Mazurkiewicz full profile →](https://metalforge.io/drummer/paul-mazurkiewicz) · [LLM markdown](https://metalforge.io/llms/drummers/paul-mazurkiewicz.md)
 
-## Kit Overview
+## Current Members
 
-Paul Mazurkiewicz plays **Pearl Masters Maple Complete** drums paired with **Sabian AAX Series** cymbals.
+- **George Fisher** — vocals — 1995-present (Replaced Chris Barnes)
+- **Alex Webster** — bass — 1988-present (Founding member)
+- **Paul Mazurkiewicz** — drums — 1988-present (Founding member; drummer on every studio album)
+- **Rob Barrett** — guitar — 1993-1997, 2005-present (Replaced founding guitarist Bob Rusay in 1993, left in 1997, rejoined in 2005)
+- **Erik Rutan** — guitar — 2005-present (Former Morbid Angel guitarist)
 
-- **Drums:** Pearl Masters Maple Complete
-- **Snare:** Pearl Masters 14×6.5" Maple
-- **Cymbals:** Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Raw Bell Dry Ride, 18" AAXtreme China)
-- **Pedals:** Pearl Demon Drive Double Pedal
-- **Heads:** Evans
+## Former Members
 
-## Signature Sound
+- **Chris Barnes** — vocals — 1988-1995 (Founding member; later formed Six Feet Under)
+- **Bob Rusay** — guitar — 1988-1993 (Founding member; fired in February 1993)
+- **Jack Owen** — guitar — 1988-2004 (Founding member)
+- **Pat O'Brien** — guitar — 1997-2018
 
-Cannibal Corpse's drumming is defined by Mazurkiewicz's relentless blast beats and the band's characteristic alternation between hyper-speed tremolo sections and slower, grooving breakdown passages. Unlike more technical death metal drummers who prioritise metre complexity, Mazurkiewicz focuses on brutalising impact — his bass drum patterns are a constant rhythmic assault, and his snare work locks tightly with the downtuned guitar riffs. Albums like *Tomb of the Mutilated* (1992), *The Bleeding* (1994), and *Kill* (2006) showcase his ability to sustain extreme intensity across full-length records. Cannibal Corpse is the best-selling death metal band of all time, with over two million albums sold globally.
+## Discography
 
-## Albums
-
-| Album | Year | Drummer |
-|---|---|---|
-| Eaten Back to Life | 1990 | Paul Mazurkiewicz |
-| Butchered at Birth | 1991 | Paul Mazurkiewicz |
-| Tomb of the Mutilated | 1992 | Paul Mazurkiewicz |
-| The Bleeding | 1994 | Paul Mazurkiewicz |
-| Vile | 1996 | Paul Mazurkiewicz |
-| Gallery of Suicide | 1998 | Paul Mazurkiewicz |
-| Bloodthirst | 1999 | Paul Mazurkiewicz |
-| Gore Obsessed | 2002 | Paul Mazurkiewicz |
-| The Wretched Spawn | 2004 | Paul Mazurkiewicz |
-| Kill | 2006 | Paul Mazurkiewicz |
-| Evisceration Plague | 2009 | Paul Mazurkiewicz |
-| Torture | 2012 | Paul Mazurkiewicz |
-| A Skeletal Domain | 2014 | Paul Mazurkiewicz |
-| Red Before Black | 2017 | Paul Mazurkiewicz |
-| Violence Unimagined | 2021 | Paul Mazurkiewicz |
-| Chaos Horrific | 2023 | Paul Mazurkiewicz |
+| Album | Year | Drummer | Notes |
+|---|---|---|---|
+| Eaten Back to Life | 1990 | Paul Mazurkiewicz | Debut album |
+| Butchered at Birth | 1991 | Paul Mazurkiewicz |  |
+| Tomb of the Mutilated | 1992 | Paul Mazurkiewicz |  |
+| The Bleeding | 1994 | Paul Mazurkiewicz |  |
+| Vile | 1996 | Paul Mazurkiewicz | First album with George Fisher on vocals |
+| Gallery of Suicide | 1998 | Paul Mazurkiewicz |  |
+| Bloodthirst | 1999 | Paul Mazurkiewicz |  |
+| Gore Obsessed | 2002 | Paul Mazurkiewicz |  |
+| The Wretched Spawn | 2004 | Paul Mazurkiewicz |  |
+| Kill | 2006 | Paul Mazurkiewicz |  |
+| Evisceration Plague | 2009 | Paul Mazurkiewicz |  |
+| Torture | 2012 | Paul Mazurkiewicz |  |
+| A Skeletal Domain | 2014 | Paul Mazurkiewicz |  |
+| Red Before Black | 2017 | Paul Mazurkiewicz |  |
+| Violence Unimagined | 2021 | Paul Mazurkiewicz |  |
+| Chaos Horrific | 2023 | Paul Mazurkiewicz |  |
 
 ## FAQ
 
-**Q: Who plays drums in Cannibal Corpse?**
-A: Paul Mazurkiewicz has been Cannibal Corpse's drummer since the band's founding in 1988. He is the only drummer in the band's entire history.
+**Q: Who is the drummer for Cannibal Corpse?**
+A: Paul Mazurkiewicz has been Cannibal Corpse's drummer since the band's founding in December 1988, and has drummed on every studio album the band has released.
 
-**Q: What drum kit does Paul Mazurkiewicz use?**
-A: Paul Mazurkiewicz plays Pearl Masters Maple Complete drums with a Pearl Masters 14×6.5" maple snare and Pearl Demon Drive double pedal.
+**Q: Has Cannibal Corpse ever changed drummers?**
+A: No — Paul Mazurkiewicz and bassist Alex Webster are the only two members who have been in Cannibal Corpse continuously since its 1988 formation, making the drum seat one of the most stable in death metal.
 
-**Q: What cymbals does Paul Mazurkiewicz use?**
-A: Paul Mazurkiewicz uses Sabian AAX Series cymbals including AAX Stage Hi-Hats, X-Plosion Crashes, Raw Bell Dry Ride, and AAXtreme China.
+**Q: Why did Cannibal Corpse change vocalists in 1995?**
+A: Founding vocalist Chris Barnes was fired in 1995 due to reported conflicts within the band; he was replaced by George 'Corpsegrinder' Fisher, who has remained the band's vocalist since.
 
-**Q: Is Cannibal Corpse the best-selling death metal band?**
-A: Yes. Cannibal Corpse is the best-selling death metal band of all time, with over two million records sold worldwide — a remarkable figure for an extreme metal band.
+**Q: How did Cannibal Corpse form?**
+A: Cannibal Corpse formed in Buffalo, New York in December 1988 when members of two recently disbanded local death metal bands, Beyond Death (Alex Webster, Jack Owen) and Tirant Sin (Paul Mazurkiewicz, Chris Barnes, Bob Rusay), began writing music together.
 
-**Q: What is Cannibal Corpse's most famous album?**
-A: *Tomb of the Mutilated* (1992) and *The Bleeding* (1994) are generally considered the band's most influential records. *The Bleeding* is often cited as their most accessible and is frequently recommended as an entry point for new listeners.
+## Sources
+
+- https://en.wikipedia.org/wiki/Cannibal_Corpse
 
 ---
 
@@ -78,4 +83,4 @@ A: *Tomb of the Mutilated* (1992) and *The Bleeding* (1994) are generally consid
 
 **More resources:** [All bands](https://metalforge.io/llms/bands.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-06-20 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-16 · Source: [MetalForge.io](https://metalforge.io)*

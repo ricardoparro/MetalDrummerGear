@@ -3370,6 +3370,12 @@ function getMetaForPath(pathname) {
           { name: 'Ranked Lists', url: `${BASE_URL}/lists` },
           { name: list.title, url: `${BASE_URL}/lists/${listSlug}` },
         ],
+        // Issue #4751: ssrLinks — rankedDrummers were only surfaced inside the
+        // ItemList JSON-LD url field, never rendered as bot-visible <a href> markup.
+        ssrLinks: rankedDrummers.slice(0, 10).map(d => ({
+          href: `/drummer/${d.name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '')}`,
+          label: d.name,
+        })),
       };
     }
   }

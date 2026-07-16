@@ -2202,13 +2202,21 @@ function getMetaForPath(pathname) {
           { name: album.title, url: `${BASE_URL}/articles/${articleSlug}` },
         ],
         faqSchema: Array.isArray(album.faq) && album.faq.length > 0 ? album.faq : null,
-        // Issue #1585: emit crawler-visible links to lick pages when relatedLicks is present
+        // Issue #1585: emit crawler-visible links to lick pages when relatedLicks is present.
+        // Issue #4749: 318 entries have no relatedLicks; most carry relatedDrummerSlug —
+        // fall back to a single drummer-profile link, but only when that slug resolves to
+        // a real roster entry (e.g. 'the-rev' has no /drummer page — deceased, no profile).
         ssrLinks: Array.isArray(album.relatedLicks) && album.relatedLicks.length > 0
           ? album.relatedLicks.map(l => ({
               href: `/drummers/${l.drummerSlug}/licks/${l.lickSlug}`,
               label: l.label,
             }))
-          : null,
+          : (album.relatedDrummerSlug && getDrummerBySlug(album.relatedDrummerSlug)
+              ? [{
+                  href: `/drummer/${album.relatedDrummerSlug}`,
+                  label: `${album.drummer || album.artist || 'Drummer'} — Complete Gear Setup`,
+                }]
+              : null),
         speakableSchema: true,
       };
     }

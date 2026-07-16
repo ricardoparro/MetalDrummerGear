@@ -1801,3 +1801,37 @@ This is a fresh vein (searched `gh issue list --state all --search "megadeth OR 
 - After the ~06:00 UTC 2026-07-16 batched deploy fires, re-check `/drummer/lars-ulrich` bot-UA curl for the Quick Facts `<table>` and `speakable` schema — should finally be live; if still absent post-deploy, that would be a genuine bug worth filing (unlike right now, which is expected pre-deploy lag).
 - The single-page-hub-gap vein (#4730/#4731) may have more instances beyond the 5 found — worth a follow-up sweep of any remaining hub-type routes in `api/meta/[...path].js` not yet checked for the ssrLinks+FAQPage combo.
 - Bank now at 8 (2 fresh + 3 already-promoted + 3 umbrella) — healthy, well under the 45 floor.
+
+---
+## 2026-07-16 (2-hourly run, ~05:xx) — Bank at 5, filed 2 fresh proposals (bank 5→7)
+
+**Bank check:** `gh issue list --state open --label seo-proposal` = 5 open at run start (#4730/#4731 from the 03:xx run + 3 standing umbrella trackers #2211/#3810/#3819). Well under the 45 floor, cleared to file up to 8.
+
+**Confirmed shipped since last entry:** #4727 (homepage schema regression), #4728 (16 bands llms mirrors + hub regen), #4729 (og:locale) all merged 04:04-04:13 UTC (PRs #4732-4734). `public/llms/bands/` now 35/35 files, hub header correct.
+
+**Audit:** `robots.txt` — all 8 AI crawlers explicitly allowed, ✅ healthy, no crawl-delay on AI bots. `public/llms/*.md` = 1,883+ files. Sitemap: `api/sitemap.js` references 1,883 entries in the relevant counter (grew from prior counts). Lighthouse CLI worked this run (`npx lighthouse` succeeded headless, unlike prior runs where it needed an install prompt) — ran full SEO-category audits against homepage, `/drummer/danny-carey`, and `/articles/master-of-puppets-drum-setup`: **100/100/100**, zero failing audits on all three. Live drummer-page Quick Facts `<table>` count still 0 and homepage schema check is ambiguous due to CDN caching (see below) — both consistent with expected pre-deploy lag (last batched deploy 2026-07-15T06:43:07Z, headSha predates all of today's and yesterday's merges; next fires ~06:00 UTC today).
+
+**Investigated and correctly resolved a loose thread flagged by the prior run:** the 03:xx entry above flagged "homepage bot-UA curl shows Organization/WebSite schema present, but no #4727 fix commit existed yet — flagging for next run to confirm." That fix (a40b8f8a) is now merged, and re-checking `git show 895adf51:api/meta/[...path].js` (the currently-*deployed* sha, predating the fix) confirms the homepage branch there genuinely lacks `articleSchema` — so the live cached response showing schema is most likely serving the static build-time `dist/index.html` injection (`inject-ga.cjs`, from #3727, always correct) rather than proof the dynamic bot-path fix is live. Not a new bug, no issue filed — just resolving the ambiguity: **the #4727 fix is merged but not yet deployed**, consistent with expected batched-deploy lag. Will re-check with a genuinely fresh cache-busted bot-UA curl after the ~06:00 UTC deploy.
+
+**Fresh gaps found (dispatched an Explore agent with the full mined-history exclusion list — ssrLinks across ~25 route families, FAQPage/Speakable/Quick Facts, stale counts, og:image/og:locale, bands/relatedBands, all already filed or shipped). One genuinely new vein surfaced and independently re-verified via direct `grep`/`sed`/`node` before filing — distinguishing it carefully from three superficially-similar closed issues (#4477, #4650, #4656) that cover *adjacent but different* pages:**
+- **#4736** — `ssrLinks` missing on the 4 gear-*brand* hub pages: `/drumsticks/brands` (L4383), `/cymbals/brands` (L4550), `/snares/brands` (L4724), `/pedals/brands` (L4875) — 31 child brand-detail pages (10+4+6+11) orphaned from their hub's bot-rendered HTML. Confirmed distinct from #4477 (fixed the brand-*detail* pages linking UP to the hub — verified live in code, `ssrLinks: [{ href: '/drumsticks/brands', ... }]` already present on the detail handler) and #4650 (fixed the top-level gear *pillar* hubs `/drumsticks`/`/cymbals`/`/snares`/`/pedals`, a different route entirely) — this is the missing hub→detail direction specifically for the brands sub-hubs, never covered by either.
+- **#4737** — companion finding on the static `.md` mirror layer: `public/llms/{drumsticks,cymbals,snares,pedals}.md` hub files link to 6 of 31 total per-brand `.md` files on disk (drumsticks 0/10, cymbals 0/4, snares 0/6, pedals 6/11 linked) — same "hub-mirror generator lag" bug class as #4700/#4728, verified via `grep -o "llms/<vertical>/brands/.*\.md"` counts against actual file listings.
+
+Searched `gh issue list --state all --search` for "brands ssrLinks", "drumsticks/brands", "llms brands.md orphaned" etc. before filing both — closest near-misses were #4477/#4650/#4656 (all confirmed different routes, read full issue bodies to verify no overlap) and various closed llms-mirror-generator issues for other verticals (none for this specific brands-hub angle).
+
+**Metrics** (`.agents/ceo/metrics.md`, refreshed 2026-07-16 05:01 UTC): 412 users/436 sessions/589 views 7d (organic search = 145/436 ≈ 33.3% of sessions, Direct still largest single channel). GSC: 4,748 impr/98 clicks/2.06% CTR/pos 9.5 — flat vs. last entry. No content-gap queries met the ≥50 impr/<2% CTR bar this week (explicitly confirmed empty in metrics.md).
+
+### Proposals filed this run
+1. #4736 — SEO batch: ssrLinks missing on 4 gear-brand hub pages (/drumsticks/brands, /cymbals/brands, /snares/brands, /pedals/brands) — 31 pages orphaned
+2. #4737 — SEO batch: 25 of 31 /llms/<vertical>/brands/<slug>.md files orphaned from their hub .md (drumsticks/cymbals/snares/pedals)
+
+### Open proposals waiting on CEO triage
+- #4736, #4737 (filed this run, 0d old)
+- #4730, #4731 (filed prior run, 0-2d old, still untriaged per bank check)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers, not real proposals, left as-is per established convention
+
+### Next run
+- Confirm #4736/#4737 don't overlap once #4730/#4731 ship (different routes, no dependency, but worth a quick re-verify).
+- After the ~06:00 UTC 2026-07-16 batched deploy fires: re-check `/drummer/lars-ulrich` for Quick Facts `<table>` + speakable (should finally be live), and re-verify the homepage schema question with a cache-busted curl now that the deployed sha will include #4727's actual fix — this resolves the ambiguity noted above for good.
+- The brands-hub-ssrLinks + brands-llms-mirror veins (#4736/#4737) may extend to `/brands` itself (the site-wide band-brand-adjacent hub, not to be confused with `/bands`) — worth a quick check next run whether that hub has the same gap, since it wasn't covered by this run's Explore sweep.
+- Bank now at 7 (2 fresh + 2 prior-run fresh + 3 umbrella) — healthy, well under the 45 floor.

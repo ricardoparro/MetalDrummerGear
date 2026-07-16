@@ -1183,6 +1183,17 @@ function getMetaForPath(pathname) {
       image: DEFAULT_IMAGE,
       type: 'website',
       url: `${BASE_URL}/gear`,
+      // Issue #4730: crawlable links to the gear category hubs and the
+      // budget/finder tools this page funnels into — this hub previously
+      // had zero outbound links from the bot-facing shell.
+      ssrLinks: _dedupeSsrLinksByHref([
+        { href: '/drumsticks', label: 'Drumsticks' },
+        { href: '/cymbals', label: 'Cymbals' },
+        { href: '/snares', label: 'Snares' },
+        { href: '/pedals', label: 'Pedals' },
+        { href: '/gear-by-budget', label: 'Gear by Budget' },
+        { href: '/gear-finder', label: 'Gear Finder' },
+      ]),
       articleSchema: JSON.stringify({
         '@context': 'https://schema.org',
         '@type': 'CollectionPage',
@@ -1270,6 +1281,15 @@ function getMetaForPath(pathname) {
       image: DEFAULT_IMAGE,
       type: 'website',
       url: `${BASE_URL}/news`,
+      // Issue #4730: crawlable links to the drummers/brands referenced by
+      // the gear and endorsement news this hub aggregates — same pattern
+      // as /gear-news and /endorsement-news's ssrLinks (#4656); this hub
+      // previously had zero outbound links from the bot-facing shell.
+      ssrLinks: _dedupeSsrLinksByHref([
+        ...GEAR_NEWS.filter(n => n.drummerSlug).map(n => ({ href: `/drummer/${n.drummerSlug}`, label: n.title })),
+        ...GEAR_NEWS.filter(n => n.brandSlug).map(n => ({ href: `/brands/${n.brandSlug}`, label: n.title })),
+        ...ENDORSEMENT_NEWS.filter(n => n.drummerSlug).map(n => ({ href: `/drummer/${n.drummerSlug}`, label: n.title })),
+      ]),
       articleSchema: JSON.stringify({
         '@context': 'https://schema.org',
         '@type': 'CollectionPage',
@@ -3784,6 +3804,15 @@ function getMetaForPath(pathname) {
       image: DEFAULT_IMAGE,
       type: 'website',
       url: `${BASE_URL}/quotes`,
+      // Issue #4730: crawlable links to every drummer with a quote on this
+      // hub — this hub previously had zero outbound links from the
+      // bot-facing shell.
+      ssrLinks: _dedupeSsrLinksByHref(
+        allQuotes.map(q => ({
+          href: `/drummer/${_normalizeDrummerSlug(q.drummer.name)}`,
+          label: q.drummer.name,
+        }))
+      ),
       articleSchema: JSON.stringify({
         '@context': 'https://schema.org',
         '@type': 'WebPage',

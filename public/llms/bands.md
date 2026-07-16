@@ -3,9 +3,23 @@
 > Structured reference for metal bands, their drummer history, discography, and gear.
 > Optimised for AI crawlers answering "who drums for <band>" queries.
 >
-> Last updated: 2026-06-17 · 19 bands
+> Last updated: 2026-07-16 · 35 bands
 
 ---
+## Animals as Leaders
+
+**Genre:** Progressive Metal, Djent · **Status:** Active · **Formed:** 2007 · **Origin:** Washington, D.C., USA
+
+Animals as Leaders, formed in 2007 in Washington D.C. by guitarist Tosin Abasi, is a leading instrumental progressive metal act known for its complex, technical compositions.
+
+**Drummer history:**
+- Navene Koperweis — 2010-2012 (Early drummer)
+- Matt Garstka — 2012-present (Current drummer)
+
+[Full profile](https://metalforge.io/bands/animals-as-leaders)
+
+---
+
 ## Anthrax
 
 **Genre:** Thrash Metal, Speed Metal · **Status:** Active · **Formed:** 1981 · **Origin:** New York City, USA
@@ -42,6 +56,45 @@ Cannibal Corpse, formed in 1988, is one of the best-selling and most influential
 - Paul Mazurkiewicz — 1988-present (Founding member)
 
 [Full profile](https://metalforge.io/bands/cannibal-corpse)
+
+---
+
+## Cavalera Conspiracy
+
+**Genre:** Thrash Metal, Groove Metal · **Status:** Active · **Formed:** 2007 · **Origin:** Phoenix, Arizona, USA
+
+Cavalera Conspiracy, formed in 2007, reunited brothers Max and Igor Cavalera after their departures from Sepultura.
+
+**Drummer history:**
+- Igor Cavalera — 2007-present (Co-founder, former Sepultura drummer)
+
+[Full profile](https://metalforge.io/bands/cavalera-conspiracy)
+
+---
+
+## Cynic
+
+**Genre:** Technical Death Metal, Progressive Metal · **Status:** Active · **Formed:** 1987 · **Origin:** Miami, Florida, USA
+
+Cynic, formed in 1987 in Miami, Florida, fused technical death metal with jazz fusion, most notably on their 1993 landmark album Focus.
+
+**Drummer history:**
+- Sean Reinert — 1987-1994, 2006-2017 (Co-founder, also known for Death's Human)
+
+[Full profile](https://metalforge.io/bands/cynic)
+
+---
+
+## Damageplan
+
+**Genre:** Groove Metal · **Status:** Disbanded · **Formed:** 2003 · **Origin:** Dallas, Texas, USA
+
+Damageplan, formed in 2003 by brothers Vinnie Paul and Dimebag Darrell Abbott after Pantera's breakup, disbanded following Dimebag's murder onstage in 2004.
+
+**Drummer history:**
+- Vinnie Paul — 2003-2004 (Co-founder with brother Dimebag Darrell)
+
+[Full profile](https://metalforge.io/bands/damageplan)
 
 ---
 
@@ -108,6 +161,19 @@ Gojira is a French progressive/technical death metal band formed in 1996 in Bayo
 
 ---
 
+## Hellyeah
+
+**Genre:** Groove Metal, Southern Metal · **Status:** Hiatus · **Formed:** 2006 · **Origin:** Dallas, Texas, USA
+
+Hellyeah, formed in 2006, was a groove metal supergroup featuring Pantera's Vinnie Paul on drums until his death in 2018.
+
+**Drummer history:**
+- Vinnie Paul — 2006-2018 (Founding member, final band before his death in 2018)
+
+[Full profile](https://metalforge.io/bands/hellyeah)
+
+---
+
 ## Korn
 
 **Genre:** Nu Metal, Alternative Metal · **Status:** Active · **Formed:** 1993 · **Origin:** Bakersfield, California, USA
@@ -143,6 +209,20 @@ Kublai Khan TX, formed in 2009 in Sherman, Texas, is a leading force in beatdown
 
 ---
 
+## Lamb of God
+
+**Genre:** Groove Metal, Metalcore · **Status:** Active · **Formed:** 1994 · **Origin:** Richmond, Virginia, USA
+
+Lamb of God, formed in 1994 in Richmond, Virginia, is one of the most influential groove metal bands of the 21st century.
+
+**Drummer history:**
+- Chris Adler — 1994-2019 (Co-founder)
+- Art Cruz — 2019-present (Former Winds of Plague and Prong drummer)
+
+[Full profile](https://metalforge.io/bands/lamb-of-god)
+
+---
+
 ## Limp Bizkit
 
 **Genre:** Nu Metal, Rap Metal · **Status:** Active · **Formed:** 1994 · **Origin:** Jacksonville, Florida, USA
@@ -153,6 +233,34 @@ Limp Bizkit, formed in 1994, fused rap and metal to become one of the biggest nu
 - John Otto — 1994-present (Founding member)
 
 [Full profile](https://metalforge.io/bands/limp-bizkit)
+
+---
+
+## Mastodon
+
+**Genre:** Progressive Metal, Sludge Metal · **Status:** Active · **Formed:** 2000 · **Origin:** Atlanta, Georgia, USA
+
+Mastodon, formed in 2000 in Atlanta, Georgia, blends sludge metal heaviness with progressive rock complexity.
+
+**Drummer history:**
+- Brann Dailor — 2000-present (Co-founder, also handles co-lead vocals)
+
+[Full profile](https://metalforge.io/bands/mastodon)
+
+---
+
+## Megadeth
+
+**Genre:** Thrash Metal · **Status:** Active · **Formed:** 1983 · **Origin:** Los Angeles, California, USA
+
+Megadeth, formed in 1983 in Los Angeles by Dave Mustaine, is one of the 'Big Four' of thrash metal alongside Metallica, Slayer, and Anthrax.
+
+**Drummer history:**
+- Nick Menza — 1989-1998, 2004 (Powered Rust in Peace and Countdown to Extinction)
+- Chris Adler — 2015-2016 (Session/touring drummer)
+- Dirk Verbeuren — 2016-present (Former Soilwork drummer, current Megadeth drummer)
+
+[Full profile](https://metalforge.io/bands/megadeth)
 
 ---
 
@@ -182,6 +290,33 @@ Metallica, formed in 1981 in Los Angeles, is one of the most influential thrash 
 
 ---
 
+## Morbid Angel
+
+**Genre:** Death Metal · **Status:** Active · **Formed:** 1983 · **Origin:** Tampa, Florida, USA
+
+Morbid Angel, formed in 1983 in Tampa, Florida, is one of the founding bands of death metal.
+
+**Drummer history:**
+- Pete Sandoval — 1988-2013 (Pioneer of the gravity blast technique)
+- Tim Yeung — 2004-2015 (Session/touring drummer alongside Sandoval)
+
+[Full profile](https://metalforge.io/bands/morbid-angel)
+
+---
+
+## Murderdolls
+
+**Genre:** Horror Punk, Heavy Metal · **Status:** Active · **Formed:** 2002 · **Origin:** Hollywood, California, USA
+
+Murderdolls, formed in 2002 in Hollywood, California, is a horror punk project co-founded by Wednesday 13 and Slipknot's Joey Jordison.
+
+**Drummer history:**
+- Joey Jordison — 2002-2011 (Co-founder; played guitar in Murderdolls rather than drums)
+
+[Full profile](https://metalforge.io/bands/murderdolls)
+
+---
+
 ## Nile
 
 **Genre:** Technical Death Metal, Brutal Death Metal · **Status:** Active · **Formed:** 1993 · **Origin:** Greenville, South Carolina, USA
@@ -192,6 +327,20 @@ Nile, formed in 1993, combines technical death metal with ancient Egyptian theme
 - George Kollias — 2004-present (Greek drummer known for extreme speed)
 
 [Full profile](https://metalforge.io/bands/nile)
+
+---
+
+## Opeth
+
+**Genre:** Progressive Death Metal, Progressive Rock · **Status:** Active · **Formed:** 1990 · **Origin:** Stockholm, Sweden
+
+Opeth, formed in 1990 in Stockholm, Sweden, pioneered a fusion of death metal and progressive rock across a genre-defying discography.
+
+**Drummer history:**
+- Martin Lopez — 1997-2006 (Played on classic albums including Blackwater Park)
+- Martin Axenrot — 2006-present (Succeeded Martin Lopez)
+
+[Full profile](https://metalforge.io/bands/opeth)
 
 ---
 
@@ -206,6 +355,20 @@ Pantera, formed in 1981, defined groove metal with Vinnie Paul's powerful drummi
 - Charlie Benante — 2022-present (Anthrax drummer filling in for reunion)
 
 [Full profile](https://metalforge.io/bands/pantera)
+
+---
+
+## Periphery
+
+**Genre:** Progressive Metal, Djent · **Status:** Active · **Formed:** 2005 · **Origin:** Washington, D.C., USA
+
+Periphery, formed in 2005 in the Washington D.C. area, helped pioneer the djent movement within progressive metal.
+
+**Drummer history:**
+- Travis Orbin — 2009-2012 (Founding drummer, played on the self-titled debut)
+- Matt Halpern — 2009-present (Current drummer, Berklee-trained)
+
+[Full profile](https://metalforge.io/bands/periphery)
 
 ---
 
@@ -258,6 +421,19 @@ Slipknot, formed in 1995 in Des Moines, pioneered the masked nu-metal movement.
 
 ---
 
+## Sons of Apollo
+
+**Genre:** Progressive Metal · **Status:** Hiatus · **Formed:** 2017 · **Origin:** United States
+
+Sons of Apollo, formed in 2017, is a progressive metal supergroup featuring Dream Theater drummer Mike Mangini alongside members of Journey, Mr. Big, and Guns N' Roses.
+
+**Drummer history:**
+- Mike Mangini — 2017-present (Dream Theater drummer)
+
+[Full profile](https://metalforge.io/bands/sons-of-apollo)
+
+---
+
 ## Suicidal Tendencies
 
 **Genre:** Crossover Thrash, Hardcore Punk, Thrash Metal · **Status:** Active · **Formed:** 1980 · **Origin:** Venice, California, USA
@@ -269,6 +445,21 @@ Suicidal Tendencies, formed in 1980, pioneered the crossover thrash genre.
 - Jay Weinberg — 2023-present (Former Slipknot drummer, touring)
 
 [Full profile](https://metalforge.io/bands/suicidal-tendencies)
+
+---
+
+## Testament
+
+**Genre:** Thrash Metal · **Status:** Active · **Formed:** 1983 · **Origin:** Berkeley, California, USA
+
+Testament, formed in 1983 in Berkeley, California, is one of the most enduring bands of the Bay Area thrash metal scene.
+
+**Drummer history:**
+- Jon Dette — 1997-1999, 2001-2012
+- Paul Bostaph — 1999-2001, 2024-present (Two separate stints, also known for Slayer)
+- Gene Hoglan — 2007-present (Nicknamed 'The Atomic Clock')
+
+[Full profile](https://metalforge.io/bands/testament)
 
 ---
 
@@ -292,3 +483,29 @@ Tool, formed in 1990 in Los Angeles, is one of the most influential progressive 
 - **Is Danny Carey in the Modern Drummer Hall of Fame?** Yes, Danny Carey was inducted into the Modern Drummer Hall of Fame in 2016.
 
 [Full profile](https://metalforge.io/bands/tool)
+
+---
+
+## Vader
+
+**Genre:** Death Metal, Thrash Metal · **Status:** Active · **Formed:** 1983 · **Origin:** Olsztyn, Poland
+
+Vader, formed in 1983 in Olsztyn, Poland, is one of the longest-running and most influential death metal bands in Europe.
+
+**Drummer history:**
+- Daray — 2006-2016 (Polish extreme metal drummer)
+
+[Full profile](https://metalforge.io/bands/vader)
+
+---
+
+## Volto!
+
+**Genre:** Progressive Rock, Jazz Fusion · **Status:** Active · **Formed:** 2000 · **Origin:** Los Angeles, California, USA
+
+Volto!, formed in Los Angeles in the early 2000s, is an instrumental progressive rock/jazz-fusion project featuring Tool drummer Danny Carey.
+
+**Drummer history:**
+- Danny Carey — 2000-present (Tool drummer's instrumental progressive rock side project)
+
+[Full profile](https://metalforge.io/bands/volto)

@@ -3292,9 +3292,12 @@ function getMetaForPath(pathname) {
                   name: drummer.band,
                 },
               } : {}),
-              sameAs: [
-                `https://en.wikipedia.org/wiki/${encodeURIComponent(drummer.name.replace(/ /g, '_'))}`,
-              ],
+              // Issue #4779: use the curated sameAs (drummer.sameAs) instead of guessing
+              // a Wikipedia URL from the display name — the guess resolves to the wrong
+              // entity or a dead link for one-word/ambiguous stage names.
+              sameAs: drummer.sameAs && drummer.sameAs.length
+                ? drummer.sameAs
+                : [`https://en.wikipedia.org/wiki/${encodeURIComponent(drummer.name.replace(/ /g, '_'))}`],
               knowsAbout: ['Drumming', 'Metal Music', 'Percussion'],
             },
             // Issue #4635: surface extendedBios career highlights + style/influences
@@ -4250,9 +4253,12 @@ function getMetaForPath(pathname) {
               url: `${BASE_URL}/drummer/${slug}`,
               image: `${BASE_URL}/api/card/${slug}?format=twitter`,
               ...(drummer.band ? { memberOf: { '@type': 'MusicGroup', name: drummer.band } } : {}),
-              sameAs: [
-                `https://en.wikipedia.org/wiki/${encodeURIComponent(drummer.name.replace(/ /g, '_'))}`,
-              ],
+              // Issue #4779: use the curated sameAs (drummer.sameAs) instead of guessing
+              // a Wikipedia URL from the display name — the guess resolves to the wrong
+              // entity or a dead link for one-word/ambiguous stage names.
+              sameAs: drummer.sameAs && drummer.sameAs.length
+                ? drummer.sameAs
+                : [`https://en.wikipedia.org/wiki/${encodeURIComponent(drummer.name.replace(/ /g, '_'))}`],
               knowsAbout: ['Drumming', 'Metal Music', 'Percussion'],
             },
             // Issue #4635: surface extendedBios career highlights + style/influences

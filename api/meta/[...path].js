@@ -2305,6 +2305,10 @@ function getMetaForPath(pathname) {
           { name: top10Article.title, url: `${BASE_URL}/articles/${articleSlug}` },
         ],
         speakableSchema: true,
+        ssrLinks: rankedDrummers.slice(0, 10).map(d => ({
+          href: `/drummer/${d.name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '')}`,
+          label: d.name,
+        })),
       };
     }
 

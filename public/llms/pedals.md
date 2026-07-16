@@ -38,8 +38,13 @@ The pedal itself only sets the ceiling; spring tension, beater material, and foo
 - **Pearl:** Demon Drive and Demon XR (direct drive) and Eliminator (chain) are the extreme-metal and technical-metal standard, from Hellhammer to George Kollias. [Full brand page](https://metalforge.io/llms/pedals/brands/pearl.md).
 - **DW:** 5000 and 9000 Series chain-drive pedals appear throughout the roster, prized for precision and touring reliability. [Full brand page](https://metalforge.io/llms/pedals/brands/dw.md).
 - **Axis:** The direct-drive specialist brand — no chain or belt at all — used by drummers who prioritize instant, zero-slack response above everything else. [Full brand page](https://metalforge.io/llms/pedals/brands/axis.md).
-- **Mapex:** The Falcon double pedal shows up across several roster drummers, including Chris Adler. [Full brand page](https://metalforge.io/llms/pedals/brands/mapex.md).
 - **Trick:** Boutique, CNC-machined direct-drive pedals (Pro1-V, Bigfoot) used by technically elite players who have outgrown production hardware. [Full brand page](https://metalforge.io/llms/pedals/brands/trick.md).
+- **Sonor:** Sonor is one of the oldest percussion manufacturers in the world, and on the verified metal roster its pedals follow the same distinct-from-Japan-and-America identity as its shells: the Perfect Balance is used by extreme and progressive-metal drummers including Gavin Harrison and Frost (Satyricon), while the Giant Step shows up on Morgan Agren's setup. [Full brand page](https://metalforge.io/llms/pedals/brands/sonor.md).
+- **Mapex:** The Falcon double pedal shows up across several roster drummers, including Chris Adler. [Full brand page](https://metalforge.io/llms/pedals/brands/mapex.md).
+- **Yamaha:** Yamaha entered the drum-hardware market in 1967, a division of the century-old Yamaha Corporation, and its FP9 double pedal is verified on the roster through Mikkey Dee's decades-long run with Motörhead and King Diamond. [Full brand page](https://metalforge.io/llms/pedals/brands/yamaha.md).
+- **Ludwig:** Ludwig is the oldest American drum company, founded in 1909 on a first product that was itself a practical bass drum pedal. Its modern Atlas Pro double pedal is verified on the roster through Bill Ward's Black Sabbath-era setup. [Full brand page](https://metalforge.io/llms/pedals/brands/ludwig.md).
+- **Gibraltar:** Gibraltar is a drum-hardware specialist now owned by DW, and its G Class pedal is verified on the roster through John Otto (Limp Bizkit). [Full brand page](https://metalforge.io/llms/pedals/brands/gibraltar.md).
+- **Czarcie Kopyto:** Czarcie Kopyto ("Devil's Hoof") is a Polish boutique pedal maker whose CNC-machined, hand-assembled pedals — nicknamed the "Polish Tank" for their durability — are verified on the roster through Inferno (Behemoth) and, under the Monolit model name, Adrian Erlandsson (At the Gates, The Haunted). [Full brand page](https://metalforge.io/llms/pedals/brands/czarcie-kopyto.md).
 
 ## Best for Metal
 
@@ -123,4 +128,4 @@ A: For most metal styles, yes. Blast beats and constant sixteenth-note kick patt
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 - [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-07-12 · 56 drummers, 3 reference guides · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-16 · 56 drummers, 3 reference guides · Source: [MetalForge.io](https://metalforge.io)*

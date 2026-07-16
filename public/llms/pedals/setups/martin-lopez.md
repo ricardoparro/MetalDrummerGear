@@ -38,4 +38,4 @@ A: Martin Lopez plays an Axis Percussion double pedal (direct-drive).
 
 ---
 
-*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-16 · Source: [MetalForge.io](https://metalforge.io)*

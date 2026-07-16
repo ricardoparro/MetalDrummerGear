@@ -38,4 +38,4 @@ A: Tomas Haake plays Tama Speed Cobra single pedals (x2) (chain-drive).
 
 ---
 
-*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-16 · Source: [MetalForge.io](https://metalforge.io)*

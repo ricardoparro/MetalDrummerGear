@@ -54,4 +54,4 @@ A: Most metal drummers use a 20"–22" ride, occasionally up to 24", chosen heav
 - [Cymbals Guide](https://metalforge.io/llms/cymbals.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-13 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-16 · Source: [MetalForge.io](https://metalforge.io)*

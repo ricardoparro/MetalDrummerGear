@@ -38,4 +38,4 @@ A: Ben Koller plays a Tama Iron Cobra 900 double pedal (chain-drive).
 
 ---
 
-*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-16 · Source: [MetalForge.io](https://metalforge.io)*

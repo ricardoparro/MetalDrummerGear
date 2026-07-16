@@ -34,4 +34,4 @@ Source: [Axis Percussion — About Axis](https://axispdc.com/pages/about-axis).
 
 ---
 
-*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-16 · Source: [MetalForge.io](https://metalforge.io)*

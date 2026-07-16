@@ -425,10 +425,14 @@ function buildHubMarkdown() {
 
   parts.push('## Pedal Brands on the Roster');
   parts.push('');
-  for (const brand of PILLAR_PAGE.brands) {
-    const brandPage = PEDAL_BRANDS.find((b) => b.name === brand.name);
-    const link = brandPage ? ` [Full brand page](${BASE}/llms/pedals/brands/${brandPage.slug}.md).` : '';
-    parts.push(`- **${brand.name}:** ${brand.note}${link}`);
+  // Issue #4737: iterate every PEDAL_BRANDS entry (not just the 6 curated in
+  // PILLAR_PAGE.brands) so all 11 /llms/pedals/brands/<slug>.md files are
+  // linked from this hub — falling back to the brand's own positioning copy
+  // when no curated PILLAR_PAGE note exists.
+  for (const brand of PEDAL_BRANDS) {
+    const curated = PILLAR_PAGE.brands.find((b) => b.name === brand.name);
+    const note = curated ? curated.note : brand.positioning;
+    parts.push(`- **${brand.name}:** ${note} [Full brand page](${BASE}/llms/pedals/brands/${brand.slug}.md).`);
   }
   parts.push('');
 

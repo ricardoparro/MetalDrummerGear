@@ -30,4 +30,4 @@ Source: [Gibraltar Hardware — Wikipedia](https://en.wikipedia.org/wiki/Gibralt
 
 ---
 
-*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-16 · Source: [MetalForge.io](https://metalforge.io)*

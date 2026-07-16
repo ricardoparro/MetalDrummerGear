@@ -37,4 +37,4 @@ A: Blake Richardson plays Tama Iron Cobra Power Glide single pedals (x2).
 
 ---
 
-*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-16 · Source: [MetalForge.io](https://metalforge.io)*

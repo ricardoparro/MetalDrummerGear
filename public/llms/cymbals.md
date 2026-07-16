@@ -2,7 +2,7 @@
 
 This page indexes every verified cymbal setup catalogued in MetalForge's cymbals database — 56 entries, each parsed from the drummer's roster gear record and cross-referenced to their profile.
 
-> Last Updated: 2026-07-13 · Source: https://metalforge.io
+> Last Updated: 2026-07-16 · Source: https://metalforge.io
 
 For types, alloys, and sizing/weight reference pages see the Reference Guides section below. For brand positioning and metal-relevant series see [https://metalforge.io/cymbals/brands](https://metalforge.io/cymbals/brands). For a buying guide by budget tier see [https://metalforge.io/cymbals/best-for-metal](https://metalforge.io/cymbals/best-for-metal).
 
@@ -11,6 +11,13 @@ For types, alloys, and sizing/weight reference pages see the Reference Guides se
 - [5 Types of Cymbals (And How Metal Drummers Use Them)](https://metalforge.io/llms/cymbals/types.md) — The 5 types of cymbals — hi-hat, crash, ride, china, and splash (plus cymbal stacks) — with typical sizes and how each is actually used in metal drumming.
 - [B20 vs B8 (And What a Cymbal Is Actually Made Of)](https://metalforge.io/llms/cymbals/alloys.md) — B20 vs B8 bronze cymbal alloys compared, plus brass and the B12 middle ground, and how cast vs sheet manufacturing shapes tone and durability under heavy playing.
 - [Cymbal Sizes & Weights: What Actually Changes the Sound](https://metalforge.io/llms/cymbals/sizes-weights.md) — How cymbal diameter and weight change pitch, attack, wash, and durability — and what sizes and weights hold up best for heavy-hitting metal drumming.
+
+## Brand Pages (4)
+
+- [Zildjian](https://metalforge.io/llms/cymbals/brands/zildjian.md) — Zildjian is the oldest cymbal maker in the world and one of the oldest family-run businesses of any kind, with a proprietary cast-bronze alloy and manufacturing process it has never publicly disclosed. In metal specifically, its A Custom and K Custom lines are a default reference point — A Custom for a brighter, more cutting attack, K Custom for a darker, more complex one — with Z Custom sitting above both as the loudest, most aggressive option in the catalog.
+- [Paiste](https://metalforge.io/llms/cymbals/brands/paiste.md) — Paiste is a Swiss cymbal maker whose RUDE and 2002 series were built specifically for the volume and abuse of loud rock and metal playing, rather than adapted from a jazz or orchestral line. RUDE in particular is marketed around an intentionally raw, unlathed or partially-lathed finish that trades refinement for maximum cut and durability under hard, sustained hitting.
+- [Sabian](https://metalforge.io/llms/cymbals/brands/sabian.md) — Sabian was founded by Robert Zildjian after the Zildjian company split between his and his sister's branches of the family, and it has since built its own identity around two flagship metal-relevant lines: AAX for a bright, fast, cutting sound, and HHX for a darker, more complex, hand-hammered one. Both show up extensively across thrash, groove, and progressive metal setups on this roster.
+- [Meinl](https://metalforge.io/llms/cymbals/brands/meinl.md) — Meinl is a German percussion and cymbal maker whose Byzance series — hand-hammered in Turkey using traditional B20 bronze — is a favorite among progressive, technical, and modern extreme metal drummers for its complex, darker overtones. Its dedicated Mb20 heavy-metal line and the more budget-tier Classics Custom Dark series extend that darker-toned identity across different price points.
 
 ## All 56 Cymbal Setup Records
 

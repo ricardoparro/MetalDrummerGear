@@ -30,4 +30,4 @@ Source: [Czarcie Kopyto — official site](https://www.czarciekopyto.com/en/).
 
 ---
 
-*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-16 · Source: [MetalForge.io](https://metalforge.io)*

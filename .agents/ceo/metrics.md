@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-15 23:19 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-16 00:23 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,61 +8,58 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 428 |
-| Sessions | 454 |
-| Page views | 615 |
-| Engagement rate | 31.72% |
-| Avg session (s) | 63 |
+| Active users | 404 |
+| Sessions | 428 |
+| Page views | 581 |
+| Engagement rate | 28.74% |
+| Avg session (s) | 60 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 114 | 78 |
+| / | 113 | 77 |
 | /drumsticks | 43 | 35 |
 | /drummer/lars-ulrich | 39 | 40 |
 | /cymbals | 34 | 34 |
 | /lists/fastest-metal-drummers | 22 | 22 |
 | /articles/master-of-puppets-drum-setup | 18 | 18 |
-| /drummer/matt-greiner | 14 | 10 |
 | /drummers | 14 | 2 |
+| /drummer/matt-greiner | 10 | 8 |
 | /drummer/danny-carey | 8 | 5 |
 | /gear/sticks | 8 | 1 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Direct | 278 | 270 |
-| Organic Search | 162 | 147 |
-| Unassigned | 29 | 26 |
-| Cross-network | 6 | 6 |
+| Direct | 275 | 267 |
+| Organic Search | 139 | 126 |
+| Unassigned | 29 | 27 |
+| Cross-network | 7 | 7 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 5,729 |
-| Clicks | 128 |
-| CTR | 2.23% |
-| Avg position | 9.3 |
+| Impressions | 4,748 |
+| Clicks | 98 |
+| CTR | 2.06% |
+| Avg position | 9.5 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| matt garstka drum kit | 15 | 2 | 13.33% | 6.6 |
-| matt greiner drum setup | 12 | 2 | 16.67% | 7.3 |
-| best death metal drummers | 8 | 1 | 12.50% | 5.0 |
+| matt garstka drum kit | 13 | 2 | 15.38% | 6.2 |
 | best heavy metal drummers of all time | 3 | 1 | 33.33% | 9.3 |
-| best metal drummers | 10 | 1 | 10.00% | 14.5 |
-| bill ward drum kit | 43 | 1 | 2.33% | 7.8 |
-| bill ward drum setup | 12 | 1 | 8.33% | 7.4 |
-| drum heads for metal | 2 | 1 | 50.00% | 10.0 |
-| eloy casagrande bill ward | 8 | 1 | 12.50% | 8.3 |
-| eloy casagrande kit | 2 | 1 | 50.00% | 6.5 |
+| best metal drummers | 8 | 1 | 12.50% | 16.1 |
+| bill ward drum kit | 38 | 1 | 2.63% | 7.7 |
+| bill ward drum setup | 9 | 1 | 11.11% | 6.1 |
+| drum heads for metal | 1 | 1 | 100.00% | 9.0 |
+| eloy casagrande bill ward | 7 | 1 | 14.29% | 8.4 |
+| fastest double bass | 4 | 1 | 25.00% | 6.3 |
+| joey jordison drum set | 47 | 1 | 2.13% | 10.7 |
+| limp bizkit drum set | 2 | 1 | 50.00% | 5.0 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
-| Query | Impr | CTR | Pos | Action |
-| --- | --- | --- | --- | --- |
-| joey jordison drum set | 52 | 1.92% | 10.5 | open issue to answer better |
-| mike portnoy drum set | 51 | 1.96% | 11.0 | open issue to answer better |
+_no significant gaps detected — all queries with traction have decent CTR_
 
 ---
 *Re-run manually: `node .agents/scripts/fetch-metrics.cjs`*

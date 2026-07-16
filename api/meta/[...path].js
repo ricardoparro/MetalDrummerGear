@@ -243,10 +243,14 @@ import { metalSongs } from '../../packages/frontend/data/metalSongsBpm.js';
 import { DRUMMER_GEAR, BRAND_SEO_DATA } from '../../packages/frontend/data/gearSearchData.js';
 // Issue #4764 (phase 1/3 of epic #4763): /studies hub + /studies/<slug> SSR meta.
 // STUDIES is the registry the hub, sitemap, and this handler all read from so
-// nothing is hand-listed in more than one place. MOST_USED_GEAR_BRANDS is the
-// generated stats file (scripts/compute-studies.cjs) backing the flagship study.
+// nothing is hand-listed in more than one place. The per-study data imports below
+// are the generated stats files (scripts/compute-studies.cjs) backing each study —
+// mostUsedGearBrands.js (phase 1, #4764), the other three (phase 2, #4765).
 import { STUDIES, getStudyBySlug } from '../../packages/frontend/data/studies/index.js';
 import { MOST_USED_GEAR_BRANDS } from '../../packages/frontend/data/studies/mostUsedGearBrands.js';
+import { TEMPO_BY_SUBGENRE } from '../../packages/frontend/data/studies/tempoBySubgenre.js';
+import { DRUM_ENDORSEMENT_LANDSCAPE } from '../../packages/frontend/data/studies/drumEndorsementLandscape.js';
+import { KIT_CONFIGURATIONS } from '../../packages/frontend/data/studies/kitConfigurations.js';
 
 const BASE_URL = 'https://metalforge.io';
 const SITE_NAME = 'MetalForge';
@@ -3470,9 +3474,8 @@ function getMetaForPath(pathname) {
     };
   }
 
-  // Issue #4764 (phase 1/3 of epic #4763): /studies/<slug> — individual study pages.
-  // Only one study exists so far (most-used-gear-brands-metal); phase 2/3 add more
-  // to the STUDIES registry and this branch grows alongside it.
+  // Issue #4764/#4765 (phases 1-2/3 of epic #4763): /studies/<slug> — individual
+  // study pages. One `if` branch per slug in the STUDIES registry.
   const studyMatch = path.match(/^\/studies\/([a-z0-9-]+)$/);
   if (studyMatch) {
     const studySlug = studyMatch[1];
@@ -3530,6 +3533,242 @@ function getMetaForPath(pathname) {
             '@type': 'Thing',
             name: `${categories[key].label} brand usage among metal drummers`,
           })),
+        },
+        breadcrumbSchema: [
+          { name: 'Home', url: BASE_URL },
+          { name: 'Studies', url: `${BASE_URL}/studies` },
+          { name: study.title, url: `${BASE_URL}/studies/${studySlug}` },
+        ],
+      };
+    }
+
+    // Issue #4765 (phase 2/3 of epic #4763): tempo by subgenre.
+    if (study && studySlug === 'metal-tempo-by-subgenre') {
+      const { genres, hallOfSpeed, totalSongs, generatedAt } = TEMPO_BY_SUBGENRE;
+
+      const tables = [
+        {
+          heading: 'Average Tempo by Subgenre',
+          headers: ['Rank', 'Subgenre', 'Songs', 'Avg BPM', 'Median BPM', 'Range'],
+          rows: genres.map((g, i) => [
+            String(i + 1),
+            g.label,
+            String(g.songCount),
+            String(g.avgBpm),
+            String(g.medianBpm),
+            `${g.minBpm}-${g.maxBpm}`,
+          ]),
+        },
+        {
+          heading: 'The 200+ BPM Club',
+          headers: ['Rank', 'Song', 'Band', 'BPM', 'Genre', 'Drummer'],
+          rows: hallOfSpeed.map((s, i) => [
+            String(i + 1),
+            `${s.song} (${s.year})`,
+            s.band,
+            String(s.bpm),
+            s.genreLabel,
+            s.drummer.name,
+          ]),
+        },
+      ];
+
+      const linkedDrummers = new Map();
+      for (const s of hallOfSpeed) {
+        if (s.drummer.inRoster && !linkedDrummers.has(s.drummer.slug)) {
+          linkedDrummers.set(s.drummer.slug, s.drummer);
+        }
+      }
+
+      return {
+        title: `${study.seoTitle} | ${SITE_NAME}`,
+        description: study.description,
+        image: DEFAULT_IMAGE,
+        type: 'article',
+        url: `${BASE_URL}/studies/${studySlug}`,
+        tables,
+        ssrLinks: [{ href: '/studies', label: 'All Studies' }],
+        ssrDrummerLinks: [...linkedDrummers.values()].map(d => ({
+          href: `/drummer/${d.slug}`,
+          label: d.name,
+        })),
+        articleSchema: {
+          headline: study.seoTitle,
+          description: study.description,
+          image: DEFAULT_IMAGE,
+          datePublished: generatedAt,
+          dateModified: generatedAt,
+          articleSection: 'Studies',
+          about: genres.slice(0, 8).map(g => ({ '@type': 'Thing', name: `${g.label} drumming tempo` })),
+        },
+        breadcrumbSchema: [
+          { name: 'Home', url: BASE_URL },
+          { name: 'Studies', url: `${BASE_URL}/studies` },
+          { name: study.title, url: `${BASE_URL}/studies/${studySlug}` },
+        ],
+      };
+    }
+
+    // Issue #4765 (phase 2/3 of epic #4763): drum endorsement landscape.
+    if (study && studySlug === 'drum-endorsement-landscape') {
+      const { brandReach, signatureModels, genreBrandMatrix, totalDrummers, generatedAt } = DRUM_ENDORSEMENT_LANDSCAPE;
+      const categoryLabels = { kits: 'Kits', snares: 'Snares', cymbals: 'Cymbals', sticks: 'Sticks', pedals: 'Pedals' };
+
+      const tables = [
+        {
+          heading: 'Brand Reach — Roster-Wide',
+          headers: ['Rank', 'Brand', 'Drummers', `% of ${totalDrummers}`, 'Categories'],
+          rows: brandReach.map((b, i) => [
+            String(i + 1),
+            b.brand,
+            String(b.count),
+            `${b.percent}%`,
+            b.categories.map(c => categoryLabels[c]).join(', '),
+          ]),
+        },
+        {
+          heading: 'Signature Drumsticks by Brand',
+          headers: ['Brand', 'Signature Models', 'Drummers'],
+          rows: signatureModels.sticks.signature.byBrand.map(b => [
+            b.brand,
+            String(b.modelCount),
+            b.drummers.map(d => d.name).join(', '),
+          ]),
+        },
+        {
+          heading: 'Signature Snares by Brand',
+          headers: ['Brand', 'Signature Models', 'Drummers'],
+          rows: signatureModels.snares.signature.byBrand.map(b => [
+            b.brand,
+            String(b.modelCount),
+            b.drummers.map(d => d.name).join(', '),
+          ]),
+        },
+        {
+          heading: 'Kit Brand by Genre',
+          headers: ['Genre', 'Drummers', 'Top Kit Brand', 'Full Breakdown'],
+          rows: genreBrandMatrix.buckets.map(g => [
+            g.genre,
+            String(g.totalDrummers),
+            `${g.topBrand} (${g.topBrandCount})`,
+            g.brands.map(b => `${b.brand} ${b.count}`).join(', '),
+          ]),
+        },
+      ];
+
+      const linkedDrummers = new Map();
+      for (const d of brandReach[0]?.drummers || []) {
+        if (!linkedDrummers.has(d.slug)) linkedDrummers.set(d.slug, d);
+      }
+
+      return {
+        title: `${study.seoTitle} | ${SITE_NAME}`,
+        description: study.description,
+        image: DEFAULT_IMAGE,
+        type: 'article',
+        url: `${BASE_URL}/studies/${studySlug}`,
+        tables,
+        ssrLinks: [{ href: '/studies', label: 'All Studies' }],
+        ssrDrummerLinks: [...linkedDrummers.values()].map(d => ({
+          href: `/drummer/${d.slug}`,
+          label: `${d.name} (${d.band})`,
+        })),
+        articleSchema: {
+          headline: study.seoTitle,
+          description: study.description,
+          image: DEFAULT_IMAGE,
+          datePublished: generatedAt,
+          dateModified: generatedAt,
+          articleSection: 'Studies',
+          about: brandReach.slice(0, 8).map(b => ({ '@type': 'Thing', name: `${b.brand} drummer endorsements` })),
+        },
+        breadcrumbSchema: [
+          { name: 'Home', url: BASE_URL },
+          { name: 'Studies', url: `${BASE_URL}/studies` },
+          { name: study.title, url: `${BASE_URL}/studies/${studySlug}` },
+        ],
+      };
+    }
+
+    // Issue #4765 (phase 2/3 of epic #4763): metal kit configurations.
+    if (study && studySlug === 'metal-kit-configurations') {
+      const { pedalConfig, cymbalSetupSize, explicitShellConfigs, totalDrummers, generatedAt } = KIT_CONFIGURATIONS;
+      const pedalLabels = {
+        doubleBass: 'Double Bass (twin kicks)',
+        twinSinglePedals: 'Twin Single Pedals',
+        doublePedal: 'Double Pedal',
+        singlePedal: 'Single Pedal',
+        unspecified: 'Unspecified',
+      };
+      const pedalOrder = ['doublePedal', 'doubleBass', 'twinSinglePedals', 'singlePedal', 'unspecified'];
+
+      const tables = [
+        {
+          heading: 'Bass Pedal Configuration',
+          headers: ['Configuration', 'Drummers', `% of ${totalDrummers}`],
+          rows: pedalOrder
+            .filter(key => pedalConfig.overall[key] > 0)
+            .map(key => [
+              pedalLabels[key],
+              String(pedalConfig.overall[key]),
+              `${Math.round((pedalConfig.overall[key] / totalDrummers) * 1000) / 10}%`,
+            ]),
+        },
+        {
+          heading: 'Pedal Configuration by Genre',
+          headers: ['Genre', 'Drummers', 'Double Pedal', 'Double Bass', 'Twin Single Pedals', 'Single Pedal', 'Unspecified'],
+          rows: pedalConfig.byGenre.map(g => [
+            g.genre,
+            String(g.totalDrummers),
+            String(g.doublePedal),
+            String(g.doubleBass),
+            String(g.twinSinglePedals),
+            String(g.singlePedal),
+            String(g.unspecified),
+          ]),
+        },
+        {
+          heading: 'Cymbal Setup Size by Genre',
+          headers: ['Genre', 'Drummers (verified)', 'Avg Pieces', 'Median Pieces'],
+          rows: cymbalSetupSize.byGenre.map(g => [g.genre, String(g.datasetSize), String(g.avgPieces), String(g.medianPieces)]),
+        },
+        {
+          heading: 'Full Shell Configurations (Documented Subset)',
+          headers: ['Drummer', 'Band', 'Bass Drums', 'Toms', 'Total Shells', 'Full Config'],
+          rows: explicitShellConfigs.map(c => [
+            c.drummerName,
+            c.band,
+            String(c.bassCount),
+            String(c.tomCount),
+            String(c.totalShells),
+            c.raw,
+          ]),
+        },
+      ];
+
+      return {
+        title: `${study.seoTitle} | ${SITE_NAME}`,
+        description: study.description,
+        image: DEFAULT_IMAGE,
+        type: 'article',
+        url: `${BASE_URL}/studies/${studySlug}`,
+        tables,
+        ssrLinks: [{ href: '/studies', label: 'All Studies' }],
+        ssrDrummerLinks: explicitShellConfigs.map(c => ({
+          href: `/drummer/${c.drummerSlug}`,
+          label: `${c.drummerName} (${c.band})`,
+        })),
+        articleSchema: {
+          headline: study.seoTitle,
+          description: study.description,
+          image: DEFAULT_IMAGE,
+          datePublished: generatedAt,
+          dateModified: generatedAt,
+          articleSection: 'Studies',
+          about: [
+            { '@type': 'Thing', name: 'Double bass vs double pedal drum kit configurations' },
+            { '@type': 'Thing', name: 'Metal drum cymbal setup size' },
+          ],
         },
         breadcrumbSchema: [
           { name: 'Home', url: BASE_URL },

@@ -3205,6 +3205,9 @@ function getMetaForPath(pathname) {
       // Issue #4614: hand-authored extendedBios metaTitle/metaDescription sit between
       // the query-tuned override and the generic template.
       const extBio = getExtendedBio(slug);
+      // Issue #4779: prefer the curated Wikipedia URL from extendedBios sources
+      // over guessing one from the display name (wrong/dead links for stage names).
+      const wikiSource = extBio?.sections?.sources?.items?.find(i => i.name?.startsWith('Wikipedia:'));
       // Issue #1163: question-led, query-matched description ("What drum kit does
       // X play?") — promotes Joey's hand-override pattern to the default template.
       const bandText = drummer.band ? `${drummer.band} ` : '';
@@ -3293,7 +3296,7 @@ function getMetaForPath(pathname) {
                 },
               } : {}),
               sameAs: [
-                `https://en.wikipedia.org/wiki/${encodeURIComponent(drummer.name.replace(/ /g, '_'))}`,
+                wikiSource?.url || `https://en.wikipedia.org/wiki/${encodeURIComponent(drummer.name.replace(/ /g, '_'))}`,
               ],
               knowsAbout: ['Drumming', 'Metal Music', 'Percussion'],
             },
@@ -4152,6 +4155,9 @@ function getMetaForPath(pathname) {
       // Issue #4614: hand-authored extendedBios metaTitle/metaDescription sit between
       // the query-tuned override and the generic template.
       const extBio = getExtendedBio(slug);
+      // Issue #4779: prefer the curated Wikipedia URL from extendedBios sources
+      // over guessing one from the display name (wrong/dead links for stage names).
+      const wikiSource = extBio?.sections?.sources?.items?.find(i => i.name?.startsWith('Wikipedia:'));
       const bandText = drummer.band ? `${drummer.band} ` : '';
       const allArticles = Object.values(ALBUM_ARTICLES);
       const relatedArticles = allArticles
@@ -4251,7 +4257,7 @@ function getMetaForPath(pathname) {
               image: `${BASE_URL}/api/card/${slug}?format=twitter`,
               ...(drummer.band ? { memberOf: { '@type': 'MusicGroup', name: drummer.band } } : {}),
               sameAs: [
-                `https://en.wikipedia.org/wiki/${encodeURIComponent(drummer.name.replace(/ /g, '_'))}`,
+                wikiSource?.url || `https://en.wikipedia.org/wiki/${encodeURIComponent(drummer.name.replace(/ /g, '_'))}`,
               ],
               knowsAbout: ['Drumming', 'Metal Music', 'Percussion'],
             },

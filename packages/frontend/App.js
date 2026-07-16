@@ -7368,6 +7368,11 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
   // their own /licks hub, leaving it discoverable only via the sitemap
   const [drummerLicks, setDrummerLicks] = useState([]);
 
+  // Issue #4768: Techniques chips - link into the technique pages this
+  // drummer is listed as a master of (derived from data/techniques.js, never
+  // hand-listed here).
+  const [drummerTechniques, setDrummerTechniques] = useState([]);
+
   useEffect(() => {
     let mounted = true;
     preloadExtendedBios().then(() => {
@@ -7390,6 +7395,10 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
     // Preload signature licks data and check if this drummer has any licks
     preloadSignatureLicks().then((mod) => {
       if (mounted) setDrummerLicks(mod.getLicksByDrummerSlug(drummerSlug));
+    });
+    // Issue #4768: Preload techniques data and find techniques this drummer masters
+    preloadTechniques().then((mod) => {
+      if (mounted) setDrummerTechniques(mod.getTechniquesForDrummer(drummerSlug));
     });
     // Issue #1357: Load album articles and build reverse lookup
     // Issue #3829: no cap here - every matching article must be linkable from
@@ -7632,6 +7641,61 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
               <Text style={styles.compareWithAnotherButtonText}>View Signature Licks →</Text>
             </TouchableOpacity>
           )}
+        </View>
+      )}
+
+      {/* Techniques chips - Issue #4768: link to technique pages this drummer masters */}
+      {drummerTechniques.length > 0 && (
+        <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border }]}>
+          <Text style={[styles.sectionTitle, { color: theme.text }]} accessibilityRole="header">Techniques</Text>
+          <View style={[styles.flexRowWrap, styles.gap2]}>
+            {drummerTechniques.map((technique) => {
+              const techniqueUrl = `/techniques/${technique.slug}`;
+              const handleTechniquePress = () => {
+                if (typeof window !== 'undefined') {
+                  window.history.pushState({}, '', techniqueUrl);
+                  window.dispatchEvent(new PopStateEvent('popstate'));
+                }
+              };
+              const chipStyle = {
+                backgroundColor: theme.primary + '20',
+                borderColor: theme.primary,
+                borderWidth: 1,
+                paddingHorizontal: 14,
+                paddingVertical: 10,
+                borderRadius: 8,
+              };
+              return Platform.OS === 'web' ? (
+                <a
+                  key={technique.slug}
+                  href={techniqueUrl}
+                  onClick={(e) => {
+                    e.preventDefault();
+                    handleTechniquePress();
+                  }}
+                  style={{ textDecoration: 'none' }}
+                >
+                  <View style={chipStyle}>
+                    <Text style={{ color: theme.primary, fontWeight: '600' }}>
+                      {technique.emoji} {technique.title}
+                    </Text>
+                  </View>
+                </a>
+              ) : (
+                <TouchableOpacity
+                  key={technique.slug}
+                  style={chipStyle}
+                  onPress={handleTechniquePress}
+                  accessibilityRole="link"
+                  accessibilityLabel={`${drummer.name}'s ${technique.title} technique page`}
+                >
+                  <Text style={{ color: theme.primary, fontWeight: '600' }}>
+                    {technique.emoji} {technique.title}
+                  </Text>
+                </TouchableOpacity>
+              );
+            })}
+          </View>
         </View>
       )}
 
@@ -14332,6 +14396,16 @@ function GearCategoryPage({ category, categoryData, loading, theme, onBack, onSe
 // GENRE LANDING PAGE (Issue #340)
 // ==========================================
 
+// Issue #4768: extreme-metal genre pages link the technique pages that define their sound.
+// Curated from each genre's own "Key Techniques" copy in data/genres.js (death/technical-death/
+// black are the only genres whose keywords/descriptions self-identify as "extreme metal").
+// Slugs are validated against getAllTechniqueSlugs() by scripts/validate-technique-genre-links.cjs.
+const EXTREME_GENRE_TECHNIQUE_SLUGS = {
+  death: ['blast-beat', 'gravity-blast'],
+  'technical-death': ['blast-beat', 'gravity-blast'],
+  black: ['blast-beat', 'd-beat'],
+};
+
 // Genre Landing Page - SEO-optimized pages for each metal subgenre
 function GenreLandingPage({ genreSlug, drummers, onBack, onSelectDrummer, onNavigateGenre, theme }) {
   const { width } = useWindowDimensions();
@@ -14344,6 +14418,22 @@ function GenreLandingPage({ genreSlug, drummers, onBack, onSelectDrummer, onNavi
     if (!genre || !drummers) return [];
     return getDrummersByGenre(genreSlug, drummers);
   }, [genreSlug, drummers, genre]);
+
+  // Issue #4768: signature techniques for extreme-metal genre pages
+  const [isTechniquesModuleLoaded, setIsTechniquesModuleLoaded] = useState(isTechniquesLoaded());
+  useEffect(() => {
+    if (!isTechniquesModuleLoaded) {
+      preloadTechniques();
+      const unsubscribe = onTechniquesLoaded(() => setIsTechniquesModuleLoaded(true));
+      return unsubscribe;
+    }
+  }, [isTechniquesModuleLoaded]);
+
+  const genreTechniques = useMemo(() => {
+    if (!isTechniquesModuleLoaded) return [];
+    const slugs = EXTREME_GENRE_TECHNIQUE_SLUGS[genreSlug] || [];
+    return slugs.map(slug => getTechniqueBySlug(slug)).filter(Boolean);
+  }, [genreSlug, isTechniquesModuleLoaded]);
 
   // Gear guides for this genre (Issue #3956: give guide pages an internal-link surface).
   // genreGearGuides.js uses "<genre>-metal" keys (e.g. "death-metal") while genres.js uses
@@ -14705,6 +14795,63 @@ function GenreLandingPage({ genreSlug, drummers, onBack, onSelectDrummer, onNavi
                       </Text>
                     </View>
                     <Text style={{ color: theme.accent, fontSize: 18 }}>→</Text>
+                  </TouchableOpacity>
+                );
+              })}
+            </View>
+          </View>
+        )}
+
+        {/* Signature Techniques for this Genre (Issue #4768) */}
+        {genreTechniques.length > 0 && (
+          <View style={[styles.genreSection, { backgroundColor: theme.card, borderColor: theme.border }]}>
+            <Text style={[styles.sectionTitle, { color: theme.text }]}>
+              Signature Techniques of {genre.name}
+            </Text>
+            <View style={[styles.flexRowWrap, styles.gap2]}>
+              {genreTechniques.map((technique) => {
+                const techniqueUrl = `/techniques/${technique.slug}`;
+                const handleTechniquePress = () => {
+                  if (typeof window !== 'undefined') {
+                    window.history.pushState({}, '', techniqueUrl);
+                    window.dispatchEvent(new PopStateEvent('popstate'));
+                  }
+                };
+                const chipStyle = {
+                  backgroundColor: theme.primary + '20',
+                  borderColor: theme.primary,
+                  borderWidth: 1,
+                  paddingHorizontal: 14,
+                  paddingVertical: 10,
+                  borderRadius: 8,
+                };
+                return Platform.OS === 'web' ? (
+                  <a
+                    key={technique.slug}
+                    href={techniqueUrl}
+                    onClick={(e) => {
+                      e.preventDefault();
+                      handleTechniquePress();
+                    }}
+                    style={{ textDecoration: 'none' }}
+                  >
+                    <View style={chipStyle}>
+                      <Text style={{ color: theme.primary, fontWeight: '600' }}>
+                        {technique.emoji} {technique.title}
+                      </Text>
+                    </View>
+                  </a>
+                ) : (
+                  <TouchableOpacity
+                    key={technique.slug}
+                    style={chipStyle}
+                    onPress={handleTechniquePress}
+                    accessibilityRole="link"
+                    accessibilityLabel={`${technique.title} technique page`}
+                  >
+                    <Text style={{ color: theme.primary, fontWeight: '600' }}>
+                      {technique.emoji} {technique.title}
+                    </Text>
                   </TouchableOpacity>
                 );
               })}

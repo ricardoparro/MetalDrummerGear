@@ -1163,6 +1163,19 @@ function getMetaForPath(pathname) {
       image: `${BASE_URL}/images/og/beginner-guide-preview.png`,
       type: 'article',
       url: `${BASE_URL}/beginner-guide`,
+      // Issue #4731: crawlable links to the budget hub, the four beginner-tier
+      // guide sub-pages, and the two drummers this guide's intro cites as
+      // proof that entry-level gear is no obstacle — this route previously
+      // had zero outbound links from the bot-facing shell.
+      ssrLinks: [
+        { href: '/gear-by-budget', label: 'Metal Drum Kits by Budget' },
+        { href: '/guides/beginner-metal-drummer-setup', label: 'Beginner Metal Drummer Setup Under $1000' },
+        { href: '/guides/budget-metal-drum-setup-500', label: 'Budget Metal Drum Setup Under $500' },
+        { href: '/guides/budget-metal-drum-setup-1000', label: 'Budget Metal Drum Setup Under $1000' },
+        { href: '/guides/budget-metal-drum-setup-2000', label: 'Budget Metal Drum Setup Under $2000' },
+        { href: '/drummer/joey-jordison', label: 'Joey Jordison Gear' },
+        { href: '/drummer/dave-lombardo', label: 'Dave Lombardo Gear' },
+      ],
       articleSchema: JSON.stringify({
         '@context': 'https://schema.org',
         '@type': 'Article',
@@ -1172,6 +1185,20 @@ function getMetaForPath(pathname) {
         image: `${BASE_URL}/images/og/beginner-guide-preview.png`,
         publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
       }),
+      faqSchema: [
+        {
+          question: 'What gear should a beginner metal drummer buy first?',
+          answer: 'Prioritize drum shells and cymbals over accessories — MetalForge\'s budget breakdown allocates 40% of a $1,000 starter budget to the shell pack and 30% to real bronze cymbals (B8 or B12 minimum), since cheap cymbals make even expensive drums sound thin. See the full breakdown at /guides/beginner-metal-drummer-setup.',
+        },
+        {
+          question: 'How much does a beginner metal drum kit cost?',
+          answer: 'A complete stage-ready beginner metal kit — shells, cymbals, double-braced hardware, and accessories — runs about $1,000, or as low as $500 using MetalForge\'s tiered guides at /guides/budget-metal-drum-setup-500 and /guides/beginner-metal-drummer-setup.',
+        },
+        {
+          question: 'What\'s the easiest metal drumming technique to learn first?',
+          answer: 'Start with single-pedal double bass patterns and basic blast beats before adding a second pedal — Joey Jordison (Slipknot) and Dave Lombardo (Slayer) both built their technique on entry-level gear before ever touching a pro kit.',
+        },
+      ],
     };
   }
 
@@ -1298,6 +1325,20 @@ function getMetaForPath(pathname) {
         url: `${BASE_URL}/news`,
         publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
       }),
+      faqSchema: [
+        {
+          question: 'How often is MetalForge news updated?',
+          answer: 'MetalForge tracks metal drummer and gear news continuously, aggregating gear changes, endorsement deals, and equipment releases from /gear-news and /endorsement-news into a single feed at /news.',
+        },
+        {
+          question: 'What kind of drummer news does MetalForge track?',
+          answer: 'The /news hub aggregates gear changes, brand endorsement deals, band lineup updates, and new equipment releases affecting the metal drummers tracked across MetalForge\'s 67-drummer database.',
+        },
+        {
+          question: 'Where can I find the latest gear endorsement changes?',
+          answer: 'Endorsement deals are tracked separately at /endorsement-news, which currently lists 6 confirmed brand endorsement changes, alongside 21 broader gear news entries at /gear-news.',
+        },
+      ],
     };
   }
 
@@ -3786,6 +3827,20 @@ function getMetaForPath(pathname) {
         url: `${BASE_URL}/spotlights`,
         publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
       }),
+      faqSchema: [
+        {
+          question: 'What is a MetalForge drummer spotlight?',
+          answer: 'A MetalForge spotlight is an in-depth feature on a single metal drummer covering their full gear evolution, career milestones, and signature setup — more detailed than a standard drummer profile.',
+        },
+        {
+          question: 'Which drummers have spotlight features?',
+          answer: 'MetalForge currently spotlights 4 drummers: Joey Jordison (Slipknot), Gene Hoglan (Death, Testament), Danny Carey (Tool), and Mario Duplantier (Gojira) — browse all spotlight profiles at /spotlights.',
+        },
+        {
+          question: 'How are spotlight drummers selected?',
+          answer: 'Spotlight drummers are chosen for their influence on metal drumming and the depth of documented gear history available, so each feature can break down their kit, cymbals, and gear changes across their whole career.',
+        },
+      ],
     };
   }
 
@@ -3837,6 +3892,20 @@ function getMetaForPath(pathname) {
           })),
         },
       }),
+      faqSchema: [
+        {
+          question: 'Who has the best drum quotes in metal?',
+          answer: 'MetalForge has curated 35 memorable quotes from legendary metal drummers, including Lars Ulrich (Metallica), Joey Jordison (Slipknot), and Tomas Haake (Meshuggah) — browse the full collection at /quotes.',
+        },
+        {
+          question: 'What do metal drummers say about their gear?',
+          answer: 'Metal drummers frequently discuss why they favor double-bass pedals, deep-shell snares, and heavy cymbal setups for aggressive genres — read their thoughts on gear, technique, and philosophy across MetalForge\'s quote collection.',
+        },
+        {
+          question: 'Where can I find quotes from Lars Ulrich?',
+          answer: 'Lars Ulrich quotes on drumming, gear, and Metallica are featured on the /quotes hub, with his full gear breakdown on his profile at /drummer/lars-ulrich.',
+        },
+      ],
     };
   }
 

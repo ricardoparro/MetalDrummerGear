@@ -557,6 +557,36 @@ function getMetaForPath(pathname) {
       image: DEFAULT_IMAGE,
       type: 'website',
       url: BASE_URL,
+      articleSchema: JSON.stringify([
+        {
+          '@context': 'https://schema.org',
+          '@type': 'WebSite',
+          '@id': `${BASE_URL}/#website`,
+          name: 'MetalForge',
+          alternateName: 'Metal Drummer Gear',
+          description: 'Explore the drum kits, cymbals, and gear used by legendary metal drummers including Lars Ulrich, Joey Jordison, Dave Lombardo and more.',
+          url: `${BASE_URL}/`,
+          publisher: { '@id': `${BASE_URL}/#organization` },
+          potentialAction: {
+            '@type': 'SearchAction',
+            target: {
+              '@type': 'EntryPoint',
+              urlTemplate: `${BASE_URL}/tools/gear-search?q={search_term_string}`,
+            },
+            'query-input': 'required name=search_term_string',
+          },
+        },
+        {
+          '@context': 'https://schema.org',
+          '@type': 'Organization',
+          '@id': `${BASE_URL}/#organization`,
+          name: 'MetalForge',
+          alternateName: 'Metal Drummer Gear',
+          url: `${BASE_URL}/`,
+          description: 'Definitive resource for metal drummer gear, signature licks and pro setups.',
+          logo: { '@type': 'ImageObject', url: `${BASE_URL}/logo.png` },
+        },
+      ]),
     };
   }
 

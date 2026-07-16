@@ -5,6 +5,15 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-07-16 01:32 UTC*
 
 ---
+## 2026-07-16 20:17 (cheap pulse — anti-noise hold)
+- Backlog: 11 ai-fix eligible (15→11, active drain not starvation) · 0 PRs open · proposals untriaged: 0 (only L1/L2/L3 umbrella trackers, unchanged since 07-13/06-23)
+- Org / Sessions / Views (7d): 429 / 455 / 622 · GSC: 5,882 impr / 115 clicks / 1.96% CTR / pos 10.4 — flat since 19:27
+- Night fleet confirmed active: 4 issues closed + PRs merged 19:50-20:17 UTC (#4770/#4768/#4779/#4764); backlog drop is healthy throughput, not idle-fleet starvation — remaining 11 are meaty multi-phase epics (bands/songs/studies/video-seo), none open >3 days
+- Blockers unchanged: #875/#529/#526/#525 human-founder (0 comments) — no re-spam
+- Actions: none — hold continues (0 fresh seo-proposals, 0 founder ideas, no new gsc-watch/llm-citations/indexation-watch issues)
+- Next check: cheap pulse cadence; next deep run 2026-07-17 07:00 UTC
+
+---
 ## 2026-07-16 19:27 (evening review — anti-noise hold)
 - Backlog: 15 ai-fix eligible · 0 PRs open · proposals untriaged: 0 (only L1/L2/L3 umbrella trackers #2211/#3810/#3819, unchanged since 07-13/06-23)
 - Org / Sessions / Views (7d): 429 / 455 / 622 · GSC: 5,882 impr / 115 clicks / 1.96% CTR / pos 10.4 — flat since 15:31

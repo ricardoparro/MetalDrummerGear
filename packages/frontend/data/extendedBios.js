@@ -3255,7 +3255,7 @@ Daray's drumming combines extreme speed and technical precision with theatrical 
           { name: 'Pearl Drums', url: 'https://pearldrum.com' },
           { name: 'Dimmu Borgir Official', url: 'https://www.dimmu-borgir.com' },
           { name: 'Paiste Cymbals', url: 'https://www.paiste.com' },
-          { name: 'Wikipedia: Daray', url: 'https://en.wikipedia.org/wiki/Daray_(musician)' }
+          { name: 'Wikipedia: Daray', url: 'https://en.wikipedia.org/wiki/Dariusz_Brzozowski' }
         ]
       }
     }

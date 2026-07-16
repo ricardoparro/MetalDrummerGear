@@ -3292,8 +3292,12 @@ function getMetaForPath(pathname) {
                   name: drummer.band,
                 },
               } : {}),
+              // Issue #4779: prefer the hand-curated Wikipedia URL from extendedBios'
+              // sources list — guessing from the display name misidentifies one-word
+              // stage names (e.g. "Frost" -> weather page) or 404s entirely.
               sameAs: [
-                `https://en.wikipedia.org/wiki/${encodeURIComponent(drummer.name.replace(/ /g, '_'))}`,
+                extBio?.sections?.sources?.items?.find(i => i.name?.startsWith('Wikipedia:') && !/\(band\)/i.test(i.url))?.url ||
+                  `https://en.wikipedia.org/wiki/${encodeURIComponent(drummer.name.replace(/ /g, '_'))}`,
               ],
               knowsAbout: ['Drumming', 'Metal Music', 'Percussion'],
             },
@@ -4250,8 +4254,12 @@ function getMetaForPath(pathname) {
               url: `${BASE_URL}/drummer/${slug}`,
               image: `${BASE_URL}/api/card/${slug}?format=twitter`,
               ...(drummer.band ? { memberOf: { '@type': 'MusicGroup', name: drummer.band } } : {}),
+              // Issue #4779: prefer the hand-curated Wikipedia URL from extendedBios'
+              // sources list — guessing from the display name misidentifies one-word
+              // stage names (e.g. "Frost" -> weather page) or 404s entirely.
               sameAs: [
-                `https://en.wikipedia.org/wiki/${encodeURIComponent(drummer.name.replace(/ /g, '_'))}`,
+                extBio?.sections?.sources?.items?.find(i => i.name?.startsWith('Wikipedia:') && !/\(band\)/i.test(i.url))?.url ||
+                  `https://en.wikipedia.org/wiki/${encodeURIComponent(drummer.name.replace(/ /g, '_'))}`,
               ],
               knowsAbout: ['Drumming', 'Metal Music', 'Percussion'],
             },

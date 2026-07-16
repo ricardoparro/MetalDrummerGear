@@ -5129,6 +5129,7 @@ function generateMetaHtml(meta, originalUrl) {
   <meta property="og:type" content="${meta.type}">
   <meta property="og:url" content="${meta.url}">
   <meta property="og:site_name" content="${SITE_NAME}">
+  <meta property="og:locale" content="en_US">
   <meta property="og:title" content="${meta.title}">
   <meta property="og:description" content="${meta.description}">
   <meta property="og:image" content="${meta.image}">

@@ -324,6 +324,13 @@ const DRUMMER_META_OVERRIDES = {
     description:
       "What drum set does Mike Portnoy play? The Dream Theater drummer's Tama Starclassic Maple/Birch drum set, Sabian HHX cymbals — full gear breakdown & prices.",
   },
+  // Issue #4739: "danny carey drum set" (71 impr, 1.41% CTR, pos 11.3) — extendedBios
+  // metaTitle/metaDescription said "Drum Kit" and generic bio copy, never "drum set".
+  'danny-carey': {
+    title: `Danny Carey Drum Kit & Drum Set — Tool's Gear Setup | ${SITE_NAME}`,
+    description:
+      "See Danny Carey's full drum set: Sonor SQ2 Heavy Beech kit, Paiste cymbals, Mandala electronic pads — Tool's polyrhythm-defining setup, piece by piece.",
+  },
 };
 
 // Article data for schema.org Article structured data (Issue #777)

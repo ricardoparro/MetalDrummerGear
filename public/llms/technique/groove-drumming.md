@@ -56,6 +56,12 @@ See all [Groove Metal Drumming drummers on MetalForge](https://metalforge.io/tec
 **Q: What is a groove metal drumming?**
 A: Groove metal drumming prioritizes feel, pocket, and heaviness over speed or technicality.
 
+**Q: How fast are groove metal drummings played?**
+A: Groove Metal Drumming is typically played around 90-150 BPM.
+
+**Q: Who is the best groove metal drumming drummer?**
+A: Vinnie Paul (Pantera) is among the most cited groove metal drumming drummers, alongside Chris Adler, Mario Duplantier, Eloy Casagrande.
+
 **Q: How do I learn groove metal drumming?**
 A: Start by mastering the fundamentals: Focus on the kick drum - it carries the groove; Practice playing behind the beat for heavy feel; Learn syncopated kick patterns (the "and" of beats). Practice consistently with a metronome and increase tempo gradually.
 
@@ -67,6 +73,12 @@ A: Groove Metal Drumming is rated **intermediate** difficulty and typically oper
 
 **Q: What techniques are related to groove metal drumming?**
 A: Closely related techniques include Double Bass, Odd Time Signatures. Mastering these complementary techniques will significantly accelerate your groove metal drumming development. Browse all [metal drumming techniques](https://metalforge.io/techniques) for a complete overview.
+
+## Sources
+
+- https://en.wikipedia.org/wiki/Groove_metal
+- https://en.wikipedia.org/wiki/Vinnie_Paul
+- https://www.moderndrummer.com/2018/06/vinnie-paul-the-king-of-thrash-metal-drumming/
 
 ## More Resources
 
@@ -81,4 +93,4 @@ A: Closely related techniques include Double Bass, Odd Time Signatures. Masterin
 
 ---
 
-*Last updated: 2026-07-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-16 · Source: [MetalForge.io](https://metalforge.io)*

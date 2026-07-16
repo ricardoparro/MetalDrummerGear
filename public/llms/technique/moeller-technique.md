@@ -52,6 +52,12 @@ See all [Moeller Technique drummers on MetalForge](https://metalforge.io/techniq
 **Q: What is a moeller technique?**
 A: The Moeller technique is a whip-like stroke method built around a down-up-tap motion sequence, using the arm, wrist, and fingers together to generate multiple strokes from a single arm movement.
 
+**Q: How fast are moeller techniques played?**
+A: Moeller Technique is typically played around Any.
+
+**Q: Who is the best moeller technique drummer?**
+A: Mike Mangini (Dream Theater) is among the most cited moeller technique drummers, alongside Inferno, Frost.
+
 **Q: How do I learn moeller technique?**
 A: Start by mastering the fundamentals: Start with a single downstroke - let the stick fall and strike the drum with a relaxed wrist; Add the "whip" - after the downstroke, let the stick rebound upward before the next motion, rather than lifting it manually; Practice the full down-up-tap sequence slowly: a full stroke, a rebounding upstroke, and a small tap, all from one arm motion. Practice consistently with a metronome and increase tempo gradually.
 
@@ -63,6 +69,11 @@ A: Moeller Technique is rated **intermediate** difficulty and typically operates
 
 **Q: What techniques are related to moeller technique?**
 A: Closely related techniques include Blast Beat, One Handed Roll, Hand Foot Independence. Mastering these complementary techniques will significantly accelerate your moeller technique development. Browse all [metal drumming techniques](https://metalforge.io/techniques) for a complete overview.
+
+## Sources
+
+- https://en.wikipedia.org/wiki/Moeller_method
+- https://en.wikipedia.org/wiki/Sanford_Moeller
 
 ## More Resources
 
@@ -78,4 +89,4 @@ A: Closely related techniques include Blast Beat, One Handed Roll, Hand Foot Ind
 
 ---
 
-*Last updated: 2026-07-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-16 · Source: [MetalForge.io](https://metalforge.io)*

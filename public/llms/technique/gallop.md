@@ -52,6 +52,12 @@ See all [Gallop Rhythm drummers on MetalForge](https://metalforge.io/technique/g
 **Q: What is a gallop rhythm?**
 A: The gallop is a rhythmic bass drum figure built from a repeating long-short-short grouping - most often voiced as an eighth note followed by two sixteenth notes - that mimics the cadence of a galloping horse.
 
+**Q: How fast are gallop rhythms played?**
+A: Gallop Rhythm is typically played around 120-220 BPM.
+
+**Q: Who is the best gallop rhythm drummer?**
+A: Nicko McBrain (Iron Maiden) is among the most cited gallop rhythm drummers, alongside Dave Lombardo, Charlie Benante.
+
 **Q: How do I learn gallop rhythm?**
 A: Start by mastering the fundamentals: Count the underlying long-short-short subdivision out loud before touching the pedal; Practice the pattern slowly on a single pedal, keeping the two short strokes even in volume; Isolate the pattern on a practice pad or unplugged pedal to build the uneven timing without worrying about volume. Practice consistently with a metronome and increase tempo gradually.
 
@@ -63,6 +69,11 @@ A: Gallop Rhythm is rated **intermediate** difficulty and typically operates at 
 
 **Q: What techniques are related to gallop rhythm?**
 A: Closely related techniques include Double Bass, Groove Drumming. Mastering these complementary techniques will significantly accelerate your gallop rhythm development. Browse all [metal drumming techniques](https://metalforge.io/techniques) for a complete overview.
+
+## Sources
+
+- https://en.wikipedia.org/wiki/Heavy_metal_gallop
+- https://drummagazine.com/analysis-of-nicko-mcbrains-iron-maiden-licks/
 
 ## More Resources
 
@@ -77,4 +88,4 @@ A: Closely related techniques include Double Bass, Groove Drumming. Mastering th
 
 ---
 
-*Last updated: 2026-07-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-16 · Source: [MetalForge.io](https://metalforge.io)*

@@ -52,6 +52,12 @@ See all [Ghost Notes drummers on MetalForge](https://metalforge.io/technique/gho
 **Q: What is a ghost notes?**
 A: Ghost notes are quiet, subtle snare drum hits played between the main backbeat accents, adding rhythmic complexity and groove without altering the overall volume dynamic of a pattern.
 
+**Q: How fast are ghost notess played?**
+A: Ghost Notes is typically played around Any.
+
+**Q: Who is the best ghost notes drummer?**
+A: Chris Turner (Oceans Ate Alaska) is among the most cited ghost notes drummers, alongside John Otto, Matt Halpern.
+
 **Q: How do I learn ghost notes?**
 A: Start by mastering the fundamentals: Start by playing a basic backbeat pattern (snare on 2 and 4) at a comfortable tempo; Add quiet snare hits on the 16th note subdivisions between the main backbeat, keeping them nearly silent; Practice with a metronome, focusing on dramatic dynamic contrast between accents and ghost notes. Practice consistently with a metronome and increase tempo gradually.
 
@@ -63,6 +69,11 @@ A: Ghost Notes is rated **intermediate** difficulty and typically operates at An
 
 **Q: What techniques are related to ghost notes?**
 A: Closely related techniques include Groove Drumming, Fill Techniques, Linear Drumming. Mastering these complementary techniques will significantly accelerate your ghost notes development. Browse all [metal drumming techniques](https://metalforge.io/techniques) for a complete overview.
+
+## Sources
+
+- https://en.wikipedia.org/wiki/Ghost_note
+- https://en.wikipedia.org/wiki/Clyde_Stubblefield
 
 ## More Resources
 
@@ -78,4 +89,4 @@ A: Closely related techniques include Groove Drumming, Fill Techniques, Linear D
 
 ---
 
-*Last updated: 2026-07-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-16 · Source: [MetalForge.io](https://metalforge.io)*

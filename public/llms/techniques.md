@@ -3,7 +3,7 @@
 > Educational reference for metal drumming techniques: how to play them, their history,
 > the drummers who define them, and recommended gear.
 >
-> Last updated: 2026-07-13 · 29 techniques
+> Last updated: 2026-07-16 · 29 techniques
 
 ---
 ## Blast Beat
@@ -54,6 +54,11 @@ The blast beat evolved in the mid-1980s from hardcore punk and thrash metal. Ban
 - **Sticks:** Vic Firth 5A — Balanced weight for endurance
 - **Sticks:** Ahead Lars Ulrich — Aluminum core reduces fatigue
 
+### Sources
+
+- https://en.wikipedia.org/wiki/Blast_beat
+- https://en.wikipedia.org/wiki/Pete_Sandoval
+
 ---
 
 ## Buzz Roll
@@ -93,6 +98,11 @@ The buzz roll's technical foundation goes back to military and concert snare dru
 - **Sticks:** Vic Firth American Classic 5A — Balanced weight and rebound make press-roll control easier to feel
 - **Sticks:** Practice sticks with rubber tips — Quiet, controlled bounce practice for isolating buzz pressure
 - **Practice:** Drum practice pad (Evans RealFeel) — Firm, consistent rebound ideal for dialing in buzz roll pressure
+
+### Sources
+
+- https://en.wikipedia.org/wiki/Drum_rudiment
+- https://www.pas.org/resources/rudiments
 
 ---
 
@@ -136,6 +146,11 @@ Discharge's UK anarcho-punk recordings of the early 1980s codified the pattern t
 - **Snares:** Pearl Sensitone Steel — Crisp response for sustained off-beat snare work
 - **Cymbals:** Trashy/washy crash-rides — A dirtier, less controlled cymbal wash matches the raw D-beat aesthetic
 - **Sticks:** Vic Firth 5B — Extra weight helps drive the pattern's relentless energy without excess fatigue
+
+### Sources
+
+- https://en.wikipedia.org/wiki/D-beat
+- https://en.wikipedia.org/wiki/Discharge_(band)
 
 ---
 
@@ -188,6 +203,11 @@ While double bass drums existed in jazz (Louie Bellson pioneered them in the 194
 - **Heads:** Evans EMAD — Built-in dampening for focused attack
 - **Heads:** Remo Powerstroke P3 — Clear attack with controlled sustain
 
+### Sources
+
+- https://en.wikipedia.org/wiki/Double_bass_drumming
+- https://en.wikipedia.org/wiki/Louie_Bellson
+
 ---
 
 ## Double Paradiddle
@@ -231,6 +251,11 @@ The double paradiddle is one of the 26 American Standard Rudiments codified by t
 - **Practice:** Drum practice pad (Evans RealFeel) — Consistent rebound for feeling the double-stroke portion of the longer pattern clearly
 - **Practice:** Metronome with subdivisions — Essential for hearing how the six-note phrase drifts against a steady four-beat pulse
 
+### Sources
+
+- https://en.wikipedia.org/wiki/Drum_rudiment
+- https://www.pas.org/resources/rudiments
+
 ---
 
 ## Double Stroke Roll
@@ -271,6 +296,11 @@ The double stroke roll is one of the two rudiments (alongside the single stroke 
 - **Sticks:** Vic Firth American Classic 5A — Balanced weight and rebound make the bounced second stroke easier to control
 - **Sticks:** Practice sticks with rubber tips — Quiet, controlled practice for isolating the double-stroke bounce
 - **Practice:** Drum practice pad (Evans RealFeel) — Lively, consistent rebound ideal for developing double-stroke control
+
+### Sources
+
+- https://en.wikipedia.org/wiki/Double_stroke_roll
+- https://www.pas.org/resources/rudiments
 
 ---
 
@@ -315,6 +345,11 @@ The drag is one of the original rudiments in the 26 American Standard Rudiments 
 - **Practice:** Drum practice pad (Evans RealFeel) — Sensitive, consistent rebound ideal for feeling the two-grace-note bounce distinctly
 - **Practice:** Metronome with subdivisions — Keeps the grace notes and accented main stroke locked to a consistent rhythmic relationship
 
+### Sources
+
+- https://en.wikipedia.org/wiki/Drum_rudiment
+- https://www.pas.org/resources/rudiments
+
 ---
 
 ## Five Stroke Roll
@@ -357,6 +392,11 @@ The five stroke roll is one of the original rudiments codified in the 26 America
 - **Sticks:** Practice sticks with rubber tips — Quiet repetition for isolating the bounce technique without excess noise
 - **Practice:** Drum practice pad (Evans RealFeel) — Consistent, lively rebound ideal for feeling the double-stroke bounce clearly
 - **Practice:** Metronome with subdivisions — Keeps the five-note figure locked to the beat as tempo increases
+
+### Sources
+
+- https://en.wikipedia.org/wiki/Drum_rudiment
+- https://www.pas.org/resources/rudiments
 
 ---
 
@@ -401,6 +441,11 @@ The flam tap is one of the 26 American Standard Rudiments codified by the Nation
 - **Practice:** Drum practice pad (Evans RealFeel) — Consistent rebound for hearing exactly how tight the flam lands before the tap
 - **Practice:** Metronome with subdivisions — Keeps the alternating flam-tap pulse locked to an even eighth-note grid as tempo increases
 
+### Sources
+
+- https://en.wikipedia.org/wiki/Drum_rudiment
+- https://www.pas.org/resources/rudiments
+
 ---
 
 ## Flams
@@ -440,6 +485,11 @@ Flams originated in military and rudimental drumming, where the technique's abil
 - **Sticks:** Vic Firth American Classic 5A — Balanced weight makes it easier to feel the grace-note/main-note volume contrast
 - **Sticks:** Practice sticks with rubber tips — Quiet, controlled practice for isolating flam spacing
 - **Practice:** Drum practice pad (Evans RealFeel) — Consistent bounce for hearing exactly how tight or wide a flam lands
+
+### Sources
+
+- https://en.wikipedia.org/wiki/Drum_rudiment
+- https://www.pas.org/resources/rudiments
 
 ---
 
@@ -484,6 +534,11 @@ The gallop rhythm became metal's signature triplet-adjacent groove through the N
 - **Practice:** Metronome with subdivisions — Essential for keeping the long-short-short cell locked to the beat rather than drifting into a straight triplet or straight 16th feel
 - **Practice:** Drum practice pad or unplugged pedal — Isolates the uneven timing without needing a full kit
 
+### Sources
+
+- https://en.wikipedia.org/wiki/Heavy_metal_gallop
+- https://drummagazine.com/analysis-of-nicko-mcbrains-iron-maiden-licks/
+
 ---
 
 ## Ghost Notes
@@ -527,6 +582,11 @@ Ghost notes trace their origin to funk and R&B drumming of the 1960s and 70s, wh
 - **Sticks:** Lighter sticks (5A or 7A) — Easier control for low-velocity finger strokes
 - **Heads:** Coated Ambassador — Sensitive to light touches without sacrificing backbeat crack
 
+### Sources
+
+- https://en.wikipedia.org/wiki/Ghost_note
+- https://en.wikipedia.org/wiki/Clyde_Stubblefield
+
 ---
 
 ## Gravity Blast
@@ -537,7 +597,7 @@ The gravity blast (also called one-handed roll or push-pull technique) uses grav
 
 ### History
 
-The gravity blast technique was popularized in the extreme metal scene during the early 2000s. Johnny Rabb is credited with developing the modern one-handed roll, though similar techniques existed in marching percussion. Derek Roddy (Hate Eternal, Nile) brought the technique to death metal prominence, and it has since been adopted by drummers like Flo Mounier (Cryptopsy) and many modern extreme metal drummers.
+The underlying one-handed roll has been traced to earlier jazz and marching-percussion players; Johnny Rabb helped bring it to wider attention in the 1990s under the name "Freehand Technique." The technical death metal band Origin is widely credited with introducing the gravity-blast application of that roll to extreme metal in the early 2000s. Derek Roddy (Hate Eternal, ex-Nile) brought the technique to broader death metal prominence, and it has since been adopted by drummers like Flo Mounier (Cryptopsy) and many modern extreme metal drummers.
 
 ### How to Learn
 
@@ -570,6 +630,11 @@ The gravity blast technique was popularized in the extreme metal scene during th
 - **Sticks:** Balanced sticks (Vic Firth 5A) — Proper fulcrum point for gravity technique
 - **Sticks:** Hickory or maple — Good bounce characteristics
 - **Cymbals:** Tight hi-hats — Provide consistent bounce surface for stick
+
+### Sources
+
+- https://en.wikipedia.org/wiki/Gravity_blast
+- https://en.wikipedia.org/wiki/Origin_(band)
 
 ---
 
@@ -618,6 +683,12 @@ Groove metal emerged in the early 1990s as bands like Pantera, Sepultura, and la
 - **Snares:** Deep snares (6.5"+) — Fat crack for groove accents
 - **Snares:** Tama S.L.P. G-Maple — Big sound with definition
 
+### Sources
+
+- https://en.wikipedia.org/wiki/Groove_metal
+- https://en.wikipedia.org/wiki/Vinnie_Paul
+- https://www.moderndrummer.com/2018/06/vinnie-paul-the-king-of-thrash-metal-drumming/
+
 ---
 
 ## Hand-Foot Independence
@@ -660,6 +731,11 @@ Independence training has roots in jazz drumming, where Elvin Jones and Tony Wil
 - **Electronics:** Loop pedal — Hold one independent pattern steady while practicing variations on another limb
 - **Drums:** Sonor SQ2 or DW Collector's — Clear tonal separation helps distinguish independent limb patterns
 
+### Sources
+
+- https://en.wikipedia.org/wiki/Tomas_Haake
+- https://en.wikipedia.org/wiki/Gary_Chester
+
 ---
 
 ## Heel-Toe Technique
@@ -701,6 +777,11 @@ Heel-toe pedal technique grew out of the same drum-corps and rudimental-percussi
 - **Pedals:** Pearl Demon XR — Co-designed with George Kollias specifically around heel-toe footboard demands
 - **Pedals:** Axis A Longboard — Extended footboard gives the heel room to rock without losing contact
 - **Pedals:** Tama Speed Cobra 910 — Longboard footboard suited to heel-toe and sliding technique
+
+### Sources
+
+- https://en.wikipedia.org/wiki/Heel-toe_technique
+- https://en.wikipedia.org/wiki/George_Kollias_(drummer)
 
 ---
 
@@ -745,6 +826,11 @@ Linear drumming became prominent through funk and fusion drummers like Gary Chaf
 - **Cymbals:** Stacked cymbals — Short sounds for rhythmic definition
 - **Drums:** Sonor SQ2 — Articulate attack for defined linear patterns
 - **Drums:** Well-muffled drums — Clear separation between notes
+
+### Sources
+
+- https://en.wikipedia.org/wiki/Linear_drumming
+- https://en.wikipedia.org/wiki/Matt_Garstka
 
 ---
 
@@ -793,6 +879,11 @@ Metal drum fills evolved from hard rock patterns of the 1970s. John Bonham's thu
 - **Sticks:** Vic Firth 5B — Extra weight for powerful tom strokes
 - **Sticks:** Hickory sticks — Durability for hard hitting
 
+### Sources
+
+- https://en.wikipedia.org/wiki/Drum_fill
+- https://en.wikipedia.org/wiki/John_Bonham
+
 ---
 
 ## Moeller Technique
@@ -835,6 +926,11 @@ The technique takes its name from Sanford "Gus" Moeller, who documented a whip-l
 - **Sticks:** Practice sticks with rubber tips — Quiet, controlled rebound practice for the down-up-tap motion
 - **Practice:** Drum practice pad (Evans RealFeel) — Consistent, realistic bounce for feeling the Moeller rebound
 - **Pedals:** Direct-drive double pedal — Responsive footboard supports an ankle-driven Moeller-style whip motion
+
+### Sources
+
+- https://en.wikipedia.org/wiki/Moeller_method
+- https://en.wikipedia.org/wiki/Sanford_Moeller
 
 ---
 
@@ -884,6 +980,11 @@ Odd meters entered rock through progressive bands like King Crimson, Yes, and Ru
 - **Cymbals:** Meinl Byzance — Complex harmonics complement complex rhythms
 - **Cymbals:** Sabian HHX — Articulate for defining odd time accents
 
+### Sources
+
+- https://en.wikipedia.org/wiki/Odd_time_signature
+- https://en.wikipedia.org/wiki/Danny_Carey
+
 ---
 
 ## One-Handed Roll
@@ -926,6 +1027,11 @@ The one-handed roll evolved from traditional rudimental techniques like the push
 - **Sticks:** Balanced sticks — Proper balance point for push-pull motion
 - **Sticks:** Medium weight (5A-5B) — Not too heavy for rapid motion
 - **Heads:** Coated ambassador — Good bounce response for technique
+
+### Sources
+
+- https://en.wikipedia.org/wiki/Gravity_blast
+- https://en.wikipedia.org/wiki/Drum_roll
 
 ---
 
@@ -970,6 +1076,11 @@ The paradiddle is one of the oldest documented rudiments, appearing in 19th-cent
 - **Practice:** Drum practice pad (Evans RealFeel) — Consistent rebound for feeling the double-stroke portion of the pattern clearly
 - **Practice:** Metronome with subdivisions — Keeps the rotating accent locked to the beat as tempo increases
 
+### Sources
+
+- https://en.wikipedia.org/wiki/Paradiddle
+- https://www.pas.org/resources/rudiments
+
 ---
 
 ## Paradiddle-Diddle
@@ -1012,6 +1123,11 @@ The paradiddle-diddle is one of the 40 International Drum Rudiments recognized b
 - **Sticks:** Practice sticks with rubber tips — Quiet repetition for isolating the two closing doubles without excess noise
 - **Practice:** Drum practice pad (Evans RealFeel) — Consistent rebound for feeling both double strokes clearly
 - **Practice:** Metronome with subdivisions — Keeps all six notes locked to the beat as tempo increases
+
+### Sources
+
+- https://en.wikipedia.org/wiki/Drum_rudiment
+- https://www.pas.org/resources/rudiments
 
 ---
 
@@ -1060,6 +1176,11 @@ While polyrhythms have roots in African and Indian classical music, they entered
 - **Drums:** Sonor SQ2 — Articulate sound helps distinguish overlapping patterns
 - **Drums:** DW Collector's — Clear tone separation for complex rhythms
 
+### Sources
+
+- https://en.wikipedia.org/wiki/Polyrhythm
+- https://en.wikipedia.org/wiki/Meshuggah
+
 ---
 
 ## Rudiments & Stick Control
@@ -1104,6 +1225,11 @@ Rudiments date back centuries to military drumming, where standardized patterns 
 - **Practice:** Drum practice pad (Evans RealFeel) — Realistic bounce for developing rudiment technique without a full kit
 - **Practice:** Metronome with subdivisions — Essential for building rudiments cleanly at any tempo
 
+### Sources
+
+- https://en.wikipedia.org/wiki/Drum_rudiment
+- https://www.pas.org/resources/rudiments
+
 ---
 
 ## Seven Stroke Roll
@@ -1146,6 +1272,11 @@ The seven stroke roll is one of the 26 American Standard Rudiments codified by t
 - **Sticks:** Practice sticks with rubber tips — Quiet repetition for isolating the extended bounce technique without excess noise
 - **Practice:** Drum practice pad (Evans RealFeel) — Consistent, lively rebound needed to sustain clean doubles across the longer seven-note phrase
 - **Practice:** Metronome with subdivisions — Keeps the extended seven-note figure locked to the beat and resolving on the intended downbeat
+
+### Sources
+
+- https://en.wikipedia.org/wiki/Drum_rudiment
+- https://www.pas.org/resources/rudiments
 
 ---
 
@@ -1190,6 +1321,11 @@ Along with the double stroke roll, the single stroke roll anchors the Percussive
 - **Practice:** Drum practice pad (Evans RealFeel) — Firm, consistent rebound ideal for isolating single-stroke evenness
 - **Practice:** Metronome with subdivisions — Essential for tracking incremental speed gains without rushing
 
+### Sources
+
+- https://en.wikipedia.org/wiki/Drum_rudiment
+- https://en.wikipedia.org/wiki/Pete_Sandoval
+
 ---
 
 ## Six Stroke Roll
@@ -1232,6 +1368,11 @@ The six stroke roll is one of the 26 American Standard Rudiments codified by the
 - **Sticks:** Practice sticks with rubber tips — Quiet repetition for isolating the transition points between single and double strokes
 - **Practice:** Drum practice pad (Evans RealFeel) — Consistent, lively rebound ideal for feeling the double-stroke bounce clearly within the mixed pattern
 - **Practice:** Metronome with subdivisions — Keeps the six-note figure locked to the beat as tempo increases
+
+### Sources
+
+- https://en.wikipedia.org/wiki/Drum_rudiment
+- https://www.pas.org/resources/rudiments
 
 ---
 
@@ -1282,3 +1423,8 @@ Electronic triggers emerged in the 1980s with pioneers like Bill Bruford and Nei
 - **Samples:** GetGood Drums — Premium metal drum samples
 - **Samples:** Superior Drummer 3 — Industry standard with Metal Foundry expansion
 - **Samples:** Steven Slate Drums — Punchy metal sounds
+
+### Sources
+
+- https://en.wikipedia.org/wiki/Trigger_(drums)
+- https://en.wikipedia.org/wiki/Meshuggah

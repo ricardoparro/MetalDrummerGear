@@ -53,6 +53,12 @@ See all [Rudiments & Stick Control drummers on MetalForge](https://metalforge.io
 **Q: What is a rudiments & stick control?**
 A: Rudiments are the standardized sticking patterns and combinations - single strokes, double strokes, paradiddles, flams, drags, and rolls - that form the alphabet of drumming technique.
 
+**Q: How fast are rudiments & stick controls played?**
+A: Rudiments & Stick Control is typically played around Any.
+
+**Q: Who is the best rudiments & stick control drummer?**
+A: Mike Mangini (Dream Theater) is among the most cited rudiments & stick control drummers, alongside Gavin Harrison, Matt Garstka.
+
 **Q: How do I learn rudiments & stick control?**
 A: Start by mastering the fundamentals: Master the single stroke roll first - alternating RLRL at a slow, controlled tempo; Learn the double stroke roll (RRLL) focusing on even volume between both strokes; Practice the paradiddle (RLRR LRLL) - the gateway rudiment connecting singles and doubles. Practice consistently with a metronome and increase tempo gradually.
 
@@ -64,6 +70,11 @@ A: Rudiments & Stick Control is rated **beginner** difficulty and typically oper
 
 **Q: What techniques are related to rudiments & stick control?**
 A: Closely related techniques include Single Stroke Roll, Double Stroke Roll, Paradiddle. Mastering these complementary techniques will significantly accelerate your rudiments & stick control development. Browse all [metal drumming techniques](https://metalforge.io/techniques) for a complete overview.
+
+## Sources
+
+- https://en.wikipedia.org/wiki/Drum_rudiment
+- https://www.pas.org/resources/rudiments
 
 ## More Resources
 
@@ -85,4 +96,4 @@ A: Closely related techniques include Single Stroke Roll, Double Stroke Roll, Pa
 
 ---
 
-*Last updated: 2026-07-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-16 · Source: [MetalForge.io](https://metalforge.io)*

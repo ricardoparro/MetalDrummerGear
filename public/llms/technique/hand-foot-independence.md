@@ -51,6 +51,12 @@ See all [Hand-Foot Independence drummers on MetalForge](https://metalforge.io/te
 **Q: What is a hand-foot independence?**
 A: Hand-foot independence is the ability to play rhythmically distinct patterns with the hands and feet simultaneously, without one limb's motion influencing another's.
 
+**Q: How fast are hand-foot independences played?**
+A: Hand-Foot Independence is typically played around Any.
+
+**Q: Who is the best hand-foot independence drummer?**
+A: Tomas Haake (Meshuggah) is among the most cited hand-foot independence drummers, alongside Danny Carey, Mike Portnoy.
+
 **Q: How do I learn hand-foot independence?**
 A: Start by mastering the fundamentals: Start with basic ostinatos - keep a simple repeating pattern on hi-hat while varying the snare; Practice one limb at a time until each pattern is completely automatic; Use Gary Chester's "New Breed" system for structured four-way coordination exercises. Practice consistently with a metronome and increase tempo gradually.
 
@@ -62,6 +68,11 @@ A: Hand-Foot Independence is rated **intermediate** difficulty and typically ope
 
 **Q: What techniques are related to hand-foot independence?**
 A: Closely related techniques include Linear Drumming, Polyrhythms, Double Bass. Mastering these complementary techniques will significantly accelerate your hand-foot independence development. Browse all [metal drumming techniques](https://metalforge.io/techniques) for a complete overview.
+
+## Sources
+
+- https://en.wikipedia.org/wiki/Tomas_Haake
+- https://en.wikipedia.org/wiki/Gary_Chester
 
 ## More Resources
 
@@ -77,4 +88,4 @@ A: Closely related techniques include Linear Drumming, Polyrhythms, Double Bass.
 
 ---
 
-*Last updated: 2026-07-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-16 · Source: [MetalForge.io](https://metalforge.io)*

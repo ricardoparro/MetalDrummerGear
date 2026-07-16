@@ -49,6 +49,12 @@ See all [Flams drummers on MetalForge](https://metalforge.io/technique/flams/dru
 **Q: What is a flams?**
 A: A flam is one of the Percussive Arts Society's 40 essential rudiments, built from a quiet grace note struck almost simultaneously with a louder main note on the opposite hand, producing a single fat, textured accent instead of two separate sounds.
 
+**Q: How fast are flamss played?**
+A: Flams is typically played around Any.
+
+**Q: Who is the best flams drummer?**
+A: Martin Lopez (Opeth / Soen) is among the most cited flams drummers, alongside Mike Mangini.
+
 **Q: How do I learn flams?**
 A: Start by mastering the fundamentals: Start by playing both hands together as a unison hit, then slightly stagger one hand earlier; Keep the grace note quiet and the main note loud - the volume contrast is what makes a flam sound "fat" instead of sloppy; Practice both flam directions (right-hand flam and left-hand flam) so the grace note can lead from either hand. Practice consistently with a metronome and increase tempo gradually.
 
@@ -60,6 +66,11 @@ A: Flams is rated **beginner** difficulty and typically operates at Any. Dedicat
 
 **Q: What techniques are related to flams?**
 A: Closely related techniques include Rudiments, Ghost Notes. Mastering these complementary techniques will significantly accelerate your flams development. Browse all [metal drumming techniques](https://metalforge.io/techniques) for a complete overview.
+
+## Sources
+
+- https://en.wikipedia.org/wiki/Drum_rudiment
+- https://www.pas.org/resources/rudiments
 
 ## More Resources
 
@@ -74,4 +85,4 @@ A: Closely related techniques include Rudiments, Ghost Notes. Mastering these co
 
 ---
 
-*Last updated: 2026-07-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-16 · Source: [MetalForge.io](https://metalforge.io)*

@@ -143,6 +143,22 @@ function buildMarkdown(t) {
   parts.push(`A: ${t.description.trim().split(/\.\s+/)[0].trim()}.`);
   parts.push('');
 
+  // How fast FAQ (Issue #4767 — one of the three questions every technique page answers)
+  parts.push(`**Q: How fast are ${title.toLowerCase()}s played?**`);
+  parts.push(t.bpmRange
+    ? `A: ${title} is typically played around ${t.bpmRange}.`
+    : `A: Tempo for ${title.toLowerCase()} varies widely depending on the song and subgenre.`);
+  parts.push('');
+
+  // Who is the best FAQ (Issue #4767 — hedged, answered strictly from t.masters)
+  if (Array.isArray(t.masters) && t.masters.length > 0) {
+    const best = t.masters[0];
+    const others = t.masters.slice(1, 4).map(m => m.name).join(', ');
+    parts.push(`**Q: Who is the best ${title.toLowerCase()} drummer?**`);
+    parts.push(`A: ${best.name}${best.band ? ` (${best.band})` : ''} is among the most cited ${title.toLowerCase()} drummers, alongside ${others || 'other masters of the technique'}.`);
+    parts.push('');
+  }
+
   // How to learn FAQ
   if (Array.isArray(t.howToLearn) && t.howToLearn.length > 0) {
     parts.push(`**Q: How do I learn ${title.toLowerCase()}?**`);
@@ -170,6 +186,14 @@ function buildMarkdown(t) {
     ).join(', ');
     parts.push(`**Q: What techniques are related to ${title.toLowerCase()}?**`);
     parts.push(`A: Closely related techniques include ${related}. Mastering these complementary techniques will significantly accelerate your ${title.toLowerCase()} development. Browse all [metal drumming techniques](${techniquesUrl}) for a complete overview.`);
+    parts.push('');
+  }
+
+  // Sources section (Issue #4767)
+  if (Array.isArray(t.sources) && t.sources.length > 0) {
+    parts.push('## Sources');
+    parts.push('');
+    for (const s of t.sources) parts.push(`- ${s}`);
     parts.push('');
   }
 

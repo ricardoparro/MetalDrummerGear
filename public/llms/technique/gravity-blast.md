@@ -10,7 +10,7 @@
 
 The gravity blast (also called one-handed roll or push-pull technique) uses gravity and surface bounce to achieve impossibly fast single-hand snare rolls. By letting the stick fall onto the snare and bounce off the hi-hat or rim, drummers can double their effective stroke rate, achieving speeds that would be impossible with traditional alternating strokes.
 
-The gravity blast technique was popularized in the extreme metal scene during the early 2000s. Johnny Rabb is credited with developing the modern one-handed roll, though similar techniques existed in marching percussion. Derek Roddy (Hate Eternal, Nile) brought the technique to death metal prominence, and it has since been adopted by drummers like Flo Mounier (Cryptopsy) and many modern extreme metal drummers.
+The underlying one-handed roll has been traced to earlier jazz and marching-percussion players; Johnny Rabb helped bring it to wider attention in the 1990s under the name "Freehand Technique." The technical death metal band Origin is widely credited with introducing the gravity-blast application of that roll to extreme metal in the early 2000s. Derek Roddy (Hate Eternal, ex-Nile) brought the technique to broader death metal prominence, and it has since been adopted by drummers like Flo Mounier (Cryptopsy) and many modern extreme metal drummers.
 
 ## How to Play Gravity Blast
 
@@ -32,7 +32,7 @@ The gravity blast technique was popularized in the extreme metal scene during th
 ## Drummers Who Define Gravity Blast
 
 - Johnny Rabb (Collective Soul) — Inventor of the modern technique
-- Derek Roddy (Hate Eternal) — Death metal gravity blast pioneer
+- [Derek Roddy](https://metalforge.io/drummer/derek-roddy) (Hate Eternal) — Death metal gravity blast pioneer
 - [George Kollias](https://metalforge.io/drummer/george-kollias) (Nile) — Combines gravity blasts with traditional techniques
 - [Inferno](https://metalforge.io/drummer/inferno) (Behemoth) — Uses gravity blasts in black/death metal context
 
@@ -53,6 +53,12 @@ See all [Gravity Blast drummers on MetalForge](https://metalforge.io/technique/g
 **Q: What is the gravity blast?**
 A: The gravity blast (also called one-handed roll or push-pull technique) uses gravity and surface bounce to achieve impossibly fast single-hand snare rolls.
 
+**Q: How fast are gravity blasts played?**
+A: Gravity Blast is typically played around 200-320+ BPM.
+
+**Q: Who is the best gravity blast drummer?**
+A: Johnny Rabb (Collective Soul) is among the most cited gravity blast drummers, alongside Derek Roddy, George Kollias, Inferno.
+
 **Q: How do I learn gravity blast?**
 A: Start by mastering the fundamentals: Understand the physics - use gravity and bounce, not muscle; Start by dropping the stick onto the snare and catching the bounce; Practice the push-pull motion slowly before adding speed. Practice consistently with a metronome and increase tempo gradually.
 
@@ -64,6 +70,11 @@ A: Gravity Blast is rated **expert** difficulty and typically operates at 200-32
 
 **Q: What techniques are related to gravity blast?**
 A: Closely related techniques include Blast Beat, One Handed Roll. Mastering these complementary techniques will significantly accelerate your gravity blast development. Browse all [metal drumming techniques](https://metalforge.io/techniques) for a complete overview.
+
+## Sources
+
+- https://en.wikipedia.org/wiki/Gravity_blast
+- https://en.wikipedia.org/wiki/Origin_(band)
 
 ## More Resources
 
@@ -78,4 +89,4 @@ A: Closely related techniques include Blast Beat, One Handed Roll. Mastering the
 
 ---
 
-*Last updated: 2026-07-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-16 · Source: [MetalForge.io](https://metalforge.io)*

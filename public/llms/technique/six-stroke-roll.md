@@ -52,6 +52,12 @@ See all [Six Stroke Roll drummers on MetalForge](https://metalforge.io/technique
 **Q: What is a six stroke roll?**
 A: The six stroke roll combines a single stroke, a double stroke, another double stroke, and a closing single stroke into one six-note figure - right, left-left, right-right, left (RLLRRL), or its mirror LRRLLR.
 
+**Q: How fast are six stroke rolls played?**
+A: Six Stroke Roll is typically played around Any.
+
+**Q: Who is the best six stroke roll drummer?**
+A: George Kollias (Nile) is among the most cited six stroke roll drummers, alongside Pete Sandoval, Gene Hoglan.
+
 **Q: How do I learn six stroke roll?**
 A: Start by mastering the fundamentals: Master the single stroke roll and double stroke roll separately first, since the six stroke roll alternates directly between the two techniques; Say the sticking aloud - "right left-left right-right left" - before picking up the sticks, to internalize where the singles and doubles fall; Practice the two double strokes in the middle of the phrase at a matched, even volume before worrying about the surrounding singles. Practice consistently with a metronome and increase tempo gradually.
 
@@ -63,6 +69,11 @@ A: Six Stroke Roll is rated **intermediate** difficulty and typically operates a
 
 **Q: What techniques are related to six stroke roll?**
 A: Closely related techniques include Five Stroke Roll, Seven Stroke Roll, Blast Beat. Mastering these complementary techniques will significantly accelerate your six stroke roll development. Browse all [metal drumming techniques](https://metalforge.io/techniques) for a complete overview.
+
+## Sources
+
+- https://en.wikipedia.org/wiki/Drum_rudiment
+- https://www.pas.org/resources/rudiments
 
 ## More Resources
 
@@ -78,4 +89,4 @@ A: Closely related techniques include Five Stroke Roll, Seven Stroke Roll, Blast
 
 ---
 
-*Last updated: 2026-07-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-16 · Source: [MetalForge.io](https://metalforge.io)*

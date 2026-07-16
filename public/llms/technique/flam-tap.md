@@ -52,6 +52,12 @@ See all [Flam Tap drummers on MetalForge](https://metalforge.io/technique/flam-t
 **Q: What is a flam tap?**
 A: The flam tap is one of the Percussive Arts Society's 40 essential rudiments, built by pairing a flam with a tap on the same hand before switching sides - a flammed right stroke followed by an unaccented right tap, then a flammed left stroke followed by an unaccented left tap, repeating in a steady eighth-note pulse.
 
+**Q: How fast are flam taps played?**
+A: Flam Tap is typically played around Any.
+
+**Q: Who is the best flam tap drummer?**
+A: Mike Mangini (Dream Theater) is among the most cited flam tap drummers, alongside Matt Garstka, Charlie Benante.
+
 **Q: How do I learn flam tap?**
 A: Start by mastering the fundamentals: Master the single flam first, since the flam tap is simply a flam immediately followed by a tap on the same hand; Practice one hand alone - flam, then a quiet unaccented tap, then switch to the other hand and repeat; Keep a clear volume gap between the accented flam and the softer tap that follows it, so the pattern reads as strong-weak rather than two equal notes. Practice consistently with a metronome and increase tempo gradually.
 
@@ -63,6 +69,11 @@ A: Flam Tap is rated **intermediate** difficulty and typically operates at Any. 
 
 **Q: What techniques are related to flam tap?**
 A: Closely related techniques include Flams, Paradiddle, Rudiments. Mastering these complementary techniques will significantly accelerate your flam tap development. Browse all [metal drumming techniques](https://metalforge.io/techniques) for a complete overview.
+
+## Sources
+
+- https://en.wikipedia.org/wiki/Drum_rudiment
+- https://www.pas.org/resources/rudiments
 
 ## More Resources
 
@@ -78,4 +89,4 @@ A: Closely related techniques include Flams, Paradiddle, Rudiments. Mastering th
 
 ---
 
-*Last updated: 2026-07-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-16 · Source: [MetalForge.io](https://metalforge.io)*

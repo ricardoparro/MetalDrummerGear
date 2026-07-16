@@ -60,6 +60,12 @@ See all [Double Bass Drumming drummers on MetalForge](https://metalforge.io/tech
 **Q: What is a double bass drumming?**
 A: Double bass drumming uses two bass drums or a double pedal to create rapid, sustained bass drum patterns that form the rhythmic foundation of heavy metal.
 
+**Q: How fast are double bass drummings played?**
+A: Double Bass Drumming is typically played around 120-260+ BPM.
+
+**Q: Who is the best double bass drumming drummer?**
+A: Dave Lombardo (Slayer) is among the most cited double bass drumming drummers, alongside George Kollias, Gene Hoglan, Joey Jordison.
+
 **Q: How do I learn double bass drumming?**
 A: Start by mastering the fundamentals: Master single-foot technique first - clean strokes at various dynamics; Practice heel-toe technique for efficient high-speed playing; Start with simple 8th note patterns at 80-100 BPM. Practice consistently with a metronome and increase tempo gradually.
 
@@ -71,6 +77,11 @@ A: Double Bass Drumming is rated **intermediate** difficulty and typically opera
 
 **Q: What techniques are related to double bass drumming?**
 A: Closely related techniques include Gallop, Blast Beat, Triggered Drums. Mastering these complementary techniques will significantly accelerate your double bass drumming development. Browse all [metal drumming techniques](https://metalforge.io/techniques) for a complete overview.
+
+## Sources
+
+- https://en.wikipedia.org/wiki/Double_bass_drumming
+- https://en.wikipedia.org/wiki/Louie_Bellson
 
 ## More Resources
 
@@ -87,4 +98,4 @@ A: Closely related techniques include Gallop, Blast Beat, Triggered Drums. Maste
 
 ---
 
-*Last updated: 2026-07-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-16 · Source: [MetalForge.io](https://metalforge.io)*

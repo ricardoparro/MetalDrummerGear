@@ -49,6 +49,12 @@ See all [Buzz Roll drummers on MetalForge](https://metalforge.io/technique/buzz-
 **Q: What is a buzz roll?**
 A: The buzz roll - also called the multiple-bounce roll or press roll - is produced by pressing the stick into the head just enough that it bounces several times per stroke instead of once, creating a sustained, blurred "buzz" of sound rather than distinct individual hits.
 
+**Q: How fast are buzz rolls played?**
+A: Buzz Roll is typically played around Any.
+
+**Q: Who is the best buzz roll drummer?**
+A: Mike Mangini (Dream Theater) is among the most cited buzz roll drummers, alongside Gavin Harrison.
+
 **Q: How do I learn buzz roll?**
 A: Start by mastering the fundamentals: Start with a single controlled stroke - let the stick fall and press slightly into the head rather than lifting immediately; Find the right pressure - too little produces a single clean hit, too much chokes the head and kills the bounce; Practice one buzz per hand slowly, focusing on getting 3-5 even bounces per stroke before speeding up. Practice consistently with a metronome and increase tempo gradually.
 
@@ -60,6 +66,11 @@ A: Buzz Roll is rated **beginner** difficulty and typically operates at Any. Ded
 
 **Q: What techniques are related to buzz roll?**
 A: Closely related techniques include One Handed Roll, Rudiments. Mastering these complementary techniques will significantly accelerate your buzz roll development. Browse all [metal drumming techniques](https://metalforge.io/techniques) for a complete overview.
+
+## Sources
+
+- https://en.wikipedia.org/wiki/Drum_rudiment
+- https://www.pas.org/resources/rudiments
 
 ## More Resources
 
@@ -74,4 +85,4 @@ A: Closely related techniques include One Handed Roll, Rudiments. Mastering thes
 
 ---
 
-*Last updated: 2026-07-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-16 · Source: [MetalForge.io](https://metalforge.io)*

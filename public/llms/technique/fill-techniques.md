@@ -56,6 +56,12 @@ See all [Metal Drum Fills drummers on MetalForge](https://metalforge.io/techniqu
 **Q: What is a metal drum fills?**
 A: Drum fills are the transitions that connect musical phrases, build intensity, and showcase a drummer's creativity.
 
+**Q: How fast are metal drum fillss played?**
+A: Metal Drum Fills is typically played around Any.
+
+**Q: Who is the best metal drum fills drummer?**
+A: Dave Lombardo (Slayer) is among the most cited metal drum fills drummers, alongside Brann Dailor, Mike Portnoy, Gene Hoglan.
+
 **Q: How do I learn metal drum fills?**
 A: Start by mastering the fundamentals: Start with basic 8th note tom patterns descending; Learn the "money fill" - 1 bar of 16th notes ending on beat 1; Practice fills that resolve strongly to the downbeat. Practice consistently with a metronome and increase tempo gradually.
 
@@ -67,6 +73,11 @@ A: Metal Drum Fills is rated **beginner** difficulty and typically operates at A
 
 **Q: What techniques are related to metal drum fills?**
 A: Closely related techniques include Linear Drumming, Blast Beat. Mastering these complementary techniques will significantly accelerate your metal drum fills development. Browse all [metal drumming techniques](https://metalforge.io/techniques) for a complete overview.
+
+## Sources
+
+- https://en.wikipedia.org/wiki/Drum_fill
+- https://en.wikipedia.org/wiki/John_Bonham
 
 ## More Resources
 
@@ -81,4 +92,4 @@ A: Closely related techniques include Linear Drumming, Blast Beat. Mastering the
 
 ---
 
-*Last updated: 2026-07-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-16 · Source: [MetalForge.io](https://metalforge.io)*

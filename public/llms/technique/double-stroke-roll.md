@@ -50,6 +50,12 @@ See all [Double Stroke Roll drummers on MetalForge](https://metalforge.io/techni
 **Q: What is a double stroke roll?**
 A: The double stroke roll - also called the "long roll" - alternates two controlled strokes per hand (RRLL RRLL...), with the second stroke of each pair generated from a bounce or rebound rather than a fresh muscular hit.
 
+**Q: How fast are double stroke rolls played?**
+A: Double Stroke Roll is typically played around Any.
+
+**Q: Who is the best double stroke roll drummer?**
+A: Mike Mangini (Dream Theater) is among the most cited double stroke roll drummers, alongside Gavin Harrison.
+
 **Q: How do I learn double stroke roll?**
 A: Start by mastering the fundamentals: Start with a single hand - play one stroke, then let the stick rebound naturally into a second, quieter stroke of matching volume; Practice the "down-up" motion slowly - a full stroke followed by a controlled bounce, not two separately muscled hits; Alternate hands (RRLL) only once each hand can produce two even-volume strokes per motion on its own. Practice consistently with a metronome and increase tempo gradually.
 
@@ -61,6 +67,11 @@ A: Double Stroke Roll is rated **beginner** difficulty and typically operates at
 
 **Q: What techniques are related to double stroke roll?**
 A: Closely related techniques include Buzz Roll, Rudiments. Mastering these complementary techniques will significantly accelerate your double stroke roll development. Browse all [metal drumming techniques](https://metalforge.io/techniques) for a complete overview.
+
+## Sources
+
+- https://en.wikipedia.org/wiki/Double_stroke_roll
+- https://www.pas.org/resources/rudiments
 
 ## More Resources
 
@@ -75,4 +86,4 @@ A: Closely related techniques include Buzz Roll, Rudiments. Mastering these comp
 
 ---
 
-*Last updated: 2026-07-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-16 · Source: [MetalForge.io](https://metalforge.io)*

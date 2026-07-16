@@ -59,6 +59,12 @@ See all [Blast Beat drummers on MetalForge](https://metalforge.io/technique/blas
 **Q: What is a blast beat?**
 A: The blast beat is the definitive extreme metal drumming technique, characterized by rapid alternating strokes between the snare drum and bass drum, typically played in unison with the hi-hat or ride cymbal.
 
+**Q: How fast are blast beats played?**
+A: Blast Beat is typically played around 180-280+ BPM.
+
+**Q: Who is the best blast beat drummer?**
+A: Pete Sandoval (Morbid Angel) is among the most cited blast beat drummers, alongside George Kollias, Inferno, Hellhammer.
+
 **Q: How do I learn blast beat?**
 A: Start by mastering the fundamentals: Start slow - practice at 60-80 BPM with a metronome; Focus on even strokes between snare and bass drum; Build stamina gradually - increase BPM by 5-10 after mastering current tempo. Practice consistently with a metronome and increase tempo gradually.
 
@@ -70,6 +76,11 @@ A: Blast Beat is rated **advanced** difficulty and typically operates at 180-280
 
 **Q: What techniques are related to blast beat?**
 A: Closely related techniques include Gravity Blast, Double Bass, Triggered Drums. Mastering these complementary techniques will significantly accelerate your blast beat development. Browse all [metal drumming techniques](https://metalforge.io/techniques) for a complete overview.
+
+## Sources
+
+- https://en.wikipedia.org/wiki/Blast_beat
+- https://en.wikipedia.org/wiki/Pete_Sandoval
 
 ## More Resources
 
@@ -85,4 +96,4 @@ A: Closely related techniques include Gravity Blast, Double Bass, Triggered Drum
 
 ---
 
-*Last updated: 2026-07-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-16 · Source: [MetalForge.io](https://metalforge.io)*

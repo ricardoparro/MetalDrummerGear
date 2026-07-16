@@ -52,6 +52,12 @@ See all [One-Handed Roll drummers on MetalForge](https://metalforge.io/technique
 **Q: What is a one-handed roll?**
 A: The one-handed roll allows drummers to play rapid consecutive strokes with a single hand, achieving speeds impossible with standard alternating technique.
 
+**Q: How fast are one-handed rolls played?**
+A: One-Handed Roll is typically played around 200+ notes per minute.
+
+**Q: Who is the best one-handed roll drummer?**
+A: Johnny Rabb (Various) is among the most cited one-handed roll drummers, alongside George Kollias, Jojo Mayer, Thomas Lang.
+
 **Q: How do I learn one-handed roll?**
 A: Start by mastering the fundamentals: Understand the motion: down stroke followed by an upward flick; Practice on a pillow first to develop muscle memory; Use finger control to bounce the stick for the second stroke. Practice consistently with a metronome and increase tempo gradually.
 
@@ -63,6 +69,11 @@ A: One-Handed Roll is rated **advanced** difficulty and typically operates at 20
 
 **Q: What techniques are related to one-handed roll?**
 A: Closely related techniques include Gravity Blast, Blast Beat. Mastering these complementary techniques will significantly accelerate your one-handed roll development. Browse all [metal drumming techniques](https://metalforge.io/techniques) for a complete overview.
+
+## Sources
+
+- https://en.wikipedia.org/wiki/Gravity_blast
+- https://en.wikipedia.org/wiki/Drum_roll
 
 ## More Resources
 
@@ -77,4 +88,4 @@ A: Closely related techniques include Gravity Blast, Blast Beat. Mastering these
 
 ---
 
-*Last updated: 2026-07-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-16 · Source: [MetalForge.io](https://metalforge.io)*

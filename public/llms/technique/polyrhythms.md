@@ -56,6 +56,12 @@ See all [Polyrhythms drummers on MetalForge](https://metalforge.io/technique/pol
 **Q: What is a polyrhythms?**
 A: Polyrhythms involve playing two or more conflicting rhythmic patterns simultaneously.
 
+**Q: How fast are polyrhythmss played?**
+A: Polyrhythms is typically played around Any.
+
+**Q: Who is the best polyrhythms drummer?**
+A: Tomas Haake (Meshuggah) is among the most cited polyrhythms drummers, alongside Danny Carey, Mario Duplantier, Matt Halpern.
+
 **Q: How do I learn polyrhythms?**
 A: Start by mastering the fundamentals: Start with 3:2 polyrhythm - say "pass the golden butter" (3) over a beat (2); Use a metronome with subdivisions to internalize the patterns; Practice each limb independently before combining. Practice consistently with a metronome and increase tempo gradually.
 
@@ -67,6 +73,11 @@ A: Polyrhythms is rated **advanced** difficulty and typically operates at Any. D
 
 **Q: What techniques are related to polyrhythms?**
 A: Closely related techniques include Odd Time Signatures, Double Bass. Mastering these complementary techniques will significantly accelerate your polyrhythms development. Browse all [metal drumming techniques](https://metalforge.io/techniques) for a complete overview.
+
+## Sources
+
+- https://en.wikipedia.org/wiki/Polyrhythm
+- https://en.wikipedia.org/wiki/Meshuggah
 
 ## More Resources
 
@@ -81,4 +92,4 @@ A: Closely related techniques include Odd Time Signatures, Double Bass. Masterin
 
 ---
 
-*Last updated: 2026-07-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-16 · Source: [MetalForge.io](https://metalforge.io)*

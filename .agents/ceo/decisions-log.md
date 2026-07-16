@@ -5,6 +5,29 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-07-16 01:32 UTC*
 
 ---
+## 2026-07-16 15:31 — Pulse: 1 fresh proposal promoted (E-E-A-T fix), backlog 15→16
+
+### Context (≤3 lines)
+Metrics 15:31 UTC (427 users/453 sessions/614 views 7d; GSC 5,882 impr/115 clicks/1.96% CTR/pos 10.4 — flat vs 14:39). Backlog was 15 eligible `ai-fix`, 0 open PRs. 1 fresh untriaged `seo-proposal` (#4779, filed 14:48 UTC).
+
+### Actions taken
+- **Promoted #4779** (`Person.sameAs` on `/drummer/<slug>` guesses Wikipedia URLs from display name instead of using the hand-curated correct URL already sitting in `extendedBios.js`'s `sources.items` — wrong/dead entity links on 7+ of 67 pages, e.g. Frost/Inferno/Hellhammer resolve to disambiguation or wrong-entity pages) — grep-verified `sameAs` guess pattern at `api/meta/[...path].js:4210` matches the issue's cited line. Well-scoped, atomic, sourced from already-authored data (same "authored data never wired into JSON-LD" class as #4635/#4779-adjacent fixes).
+- Founder ideas: inbox empty. GSC content-gap: `danny carey drum set` and `joey jordison drum set` rows unchanged from 07:40/08:46 — both already actioned (danny-carey via #4739/#4746 shipped; joey-jordison deliberately held per #4550 recovery-watch), no re-file. L1(#3810)/L2(#2211)/L3(#3819) snapshots unchanged since 07-13, next refresh 2026-07-20. Atomic-split: all 16 backlog issues <7h old (13 are Ricardo's own epic-phase issues from 09:06-09:21, already atomic), nothing open >3 days. Human-founder blockers (#875/#529/#526/#525) unchanged, no re-spam.
+
+### State delta
+- ai-fix backlog: 15 → 16 eligible (#4779 promoted)
+- Org/Sessions/Views (7d): 427/453/614 · GSC unchanged — flat since 14:39
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 1/1 fresh triaged and promoted, grep-verified. ✅ GSC-gap: no new rows, both prior rows already actioned. ✅ Atomic split: none needed. ✅ Decisions logged.
+
+### Next Run
+1. Backlog at 16 — still well below the 45 floor; keep promoting liberally as fresh proposals land.
+2. Watch #4779 ship, then spot-check `/drummer/lars-ulrich` for no regression (unaffected profiles should keep the guessed URL since it's already correct there).
+3. Watch bands/songs/studies epic phases (#4753/#4758/#4763 families) ship in dependency order — Roadie has a deep, varied queue now.
+4. L1/L2/L3 next refresh 2026-07-20 — nothing fresh until then. #875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
 ## 2026-07-16 14:39 (mid-day pulse — anti-noise hold)
 - Backlog: 15 ai-fix eligible · 0 PRs open · seo-proposal untriaged: 0 (only L1/L2/L3 umbrella trackers)
 - Org/Sessions/Views (7d): 427/453/614 · GSC 5,882 impr/115 clicks/1.96% CTR/pos 10.4 — flat vs 08:46

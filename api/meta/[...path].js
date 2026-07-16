@@ -241,6 +241,12 @@ import { metalSongs } from '../../packages/frontend/data/metalSongsBpm.js';
 // Issue #4669: /gear-finder ssrLinks — same DRUMMER_GEAR/BRAND_SEO_DATA maps
 // the live GearFinder search page reads from.
 import { DRUMMER_GEAR, BRAND_SEO_DATA } from '../../packages/frontend/data/gearSearchData.js';
+// Issue #4764 (phase 1/3 of epic #4763): /studies hub + /studies/<slug> SSR meta.
+// STUDIES is the registry the hub, sitemap, and this handler all read from so
+// nothing is hand-listed in more than one place. MOST_USED_GEAR_BRANDS is the
+// generated stats file (scripts/compute-studies.cjs) backing the flagship study.
+import { STUDIES, getStudyBySlug } from '../../packages/frontend/data/studies/index.js';
+import { MOST_USED_GEAR_BRANDS } from '../../packages/frontend/data/studies/mostUsedGearBrands.js';
 
 const BASE_URL = 'https://metalforge.io';
 const SITE_NAME = 'MetalForge';
@@ -3434,6 +3440,106 @@ function getMetaForPath(pathname) {
     }
   }
 
+  // Issue #4764 (phase 1/3 of epic #4763): /studies index
+  if (path === '/studies') {
+    return {
+      title: `Studies — Data-Driven Metal Drumming Analysis | ${SITE_NAME}`,
+      description: 'Data-driven studies analyzing gear, technique, and trends across MetalForge’s documented roster of metal drummers. Every number traces back to a build-time stats engine.',
+      image: DEFAULT_IMAGE,
+      type: 'website',
+      url: `${BASE_URL}/studies`,
+      ssrLinks: STUDIES.map(s => ({
+        href: `/studies/${s.slug}`,
+        label: s.title,
+      })),
+      articleSchema: JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'CollectionPage',
+        name: 'MetalForge Studies',
+        description: 'Data-driven studies analyzing gear, technique, and trends across MetalForge’s documented roster of metal drummers.',
+        url: `${BASE_URL}/studies`,
+        publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
+        hasPart: STUDIES.map(s => ({
+          '@type': 'Article',
+          name: s.seoTitle,
+          description: s.description,
+          url: `${BASE_URL}/studies/${s.slug}`,
+          dateModified: s.dateModified,
+        })),
+      }),
+    };
+  }
+
+  // Issue #4764 (phase 1/3 of epic #4763): /studies/<slug> — individual study pages.
+  // Only one study exists so far (most-used-gear-brands-metal); phase 2/3 add more
+  // to the STUDIES registry and this branch grows alongside it.
+  const studyMatch = path.match(/^\/studies\/([a-z0-9-]+)$/);
+  if (studyMatch) {
+    const studySlug = studyMatch[1];
+    const study = getStudyBySlug(studySlug);
+    if (study && studySlug === 'most-used-gear-brands-metal') {
+      const { categories, totalDrummers, generatedAt } = MOST_USED_GEAR_BRANDS;
+      const categoryOrder = ['kits', 'cymbals', 'snares', 'sticks', 'pedals'];
+
+      // Real <table> markup per category (rule: crawlable HTML tables, not images) —
+      // rendered by generateMetaHtml's `meta.tables` block below.
+      const tables = categoryOrder.map(key => {
+        const cat = categories[key];
+        return {
+          heading: `${cat.label} — Brand Usage`,
+          headers: ['Rank', 'Brand', 'Drummers', `% of ${totalDrummers}`, 'Who plays it'],
+          rows: cat.ranked.map((r, i) => [
+            String(i + 1),
+            r.brand,
+            String(r.count),
+            `${r.percent}%`,
+            r.drummers.map(d => d.name).join(', '),
+          ]),
+        };
+      });
+
+      // ssrDrummerLinks: every drummer counted in the study's top brand per category,
+      // deduped, so the bot-facing shell links out to real drummer profiles.
+      const linkedDrummers = new Map();
+      for (const key of categoryOrder) {
+        for (const d of categories[key].ranked[0]?.drummers || []) {
+          if (!linkedDrummers.has(d.slug)) linkedDrummers.set(d.slug, d);
+        }
+      }
+
+      return {
+        title: `${study.seoTitle} | ${SITE_NAME}`,
+        description: study.description,
+        image: DEFAULT_IMAGE,
+        type: 'article',
+        url: `${BASE_URL}/studies/${studySlug}`,
+        tables,
+        ssrLinks: [{ href: '/studies', label: 'All Studies' }],
+        ssrDrummerLinks: [...linkedDrummers.values()].map(d => ({
+          href: `/drummer/${d.slug}`,
+          label: `${d.name} (${d.band})`,
+        })),
+        articleSchema: {
+          headline: study.seoTitle,
+          description: study.description,
+          image: DEFAULT_IMAGE,
+          datePublished: generatedAt,
+          dateModified: generatedAt,
+          articleSection: 'Studies',
+          about: categoryOrder.map(key => ({
+            '@type': 'Thing',
+            name: `${categories[key].label} brand usage among metal drummers`,
+          })),
+        },
+        breadcrumbSchema: [
+          { name: 'Home', url: BASE_URL },
+          { name: 'Studies', url: `${BASE_URL}/studies` },
+          { name: study.title, url: `${BASE_URL}/studies/${studySlug}` },
+        ],
+      };
+    }
+  }
+
   // Issue #1210: /lists index
   if (path === '/lists') {
     return {
@@ -5518,6 +5624,18 @@ function generateMetaHtml(meta, originalUrl) {
         </tbody>
       </table>
     </section>` : ''}
+    ${meta.tables && meta.tables.length > 0 ? meta.tables.map(t => `
+    <section>
+      <h2>${escapeHtml(t.heading)}</h2>
+      <table>
+        <thead>
+          <tr>${t.headers.map(h => `<th scope="col">${escapeHtml(h)}</th>`).join('')}</tr>
+        </thead>
+        <tbody>
+          ${t.rows.map(row => `<tr>${row.map(cell => `<td>${escapeHtml(cell)}</td>`).join('')}</tr>`).join('')}
+        </tbody>
+      </table>
+    </section>`).join('') : ''}
     ${meta.ssrLinks && meta.ssrLinks.length > 0 ? `
     <nav aria-label="Gear Deep Dives &amp; Articles">
       <h2>Gear Deep Dives &amp; Articles</h2>

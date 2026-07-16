@@ -49,6 +49,9 @@ import { DRUMMERS_BY_KIT } from '../packages/frontend/data/drummersByKit.js';
 // Issue #2726: source top-10 list slugs from canonical data module so sitemap
 // stays in sync when new list pages ship.
 import { TOP_10_LISTS } from '../packages/frontend/data/top10Lists.js';
+// Issue #4764 (phase 1/3 of epic #4763): /studies registry — sitemap entries
+// derive from it so a new study only needs registering in one place.
+import { STUDIES } from '../packages/frontend/data/studies/index.js';
 // Issue #3661: source gear-history and sound-like-guide slugs from their
 // canonical data modules (same pattern as above) so the sitemap can never
 // drift out of sync with these two data files again.
@@ -481,6 +484,8 @@ export function buildSitemapXml() {
     { loc: '/quotes', priority: '0.9', changefreq: 'weekly' },
     { loc: '/facts', priority: '0.8', changefreq: 'monthly' }, // Issue #452: Quick Facts (FAQPage schema) — #1051 de-orphan
     { loc: '/lists', priority: '0.9', changefreq: 'weekly' },
+    // Issue #4764 (phase 1/3 of epic #4763): /studies hub — grows in phase 2/3.
+    { loc: '/studies', priority: '0.85', changefreq: 'weekly' },
     { loc: '/birthdays', priority: '0.9', changefreq: 'weekly' },
     // Issue #723: Metal Drummer Evolution Timeline (1970-2024)
     { loc: '/history', priority: '0.9', changefreq: 'monthly' },
@@ -533,6 +538,8 @@ export function buildSitemapXml() {
     })),
     ...gearCategories.map(c => ({ loc: `/gear/${c.slug}`, priority: '0.9', changefreq: 'weekly' })),
     ...top10Lists.map(l => ({ loc: `/lists/${l.slug}`, priority: '0.8', changefreq: 'monthly' })),
+    // Issue #4764: study pages, derived from the STUDIES registry (not hand-listed).
+    ...STUDIES.map(s => ({ loc: `/studies/${s.slug}`, lastmod: s.dateModified, priority: '0.85', changefreq: 'monthly' })),
     // Issue #1821: Articles hub (CollectionPage schema exists in api/meta/[...path].js)
     { loc: '/articles', priority: '0.9', changefreq: 'weekly' },
     // Issue #642: Article pages for SEO-optimized content

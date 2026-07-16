@@ -912,6 +912,29 @@ function getKitDrummersFromURL() {
   return { brandSlug: match[1].toLowerCase(), seriesSlug: match[2].toLowerCase() };
 }
 
+// Studies (Issue #4764, phase 1/3 of epic #4763) - /studies + /studies/<slug>.
+// Routed purely off the live URL, same convention as isKitDrummersPage()/
+// isGearSeriesPage() above — no new page-state flag threaded through every
+// navigation reset branch.
+const LazyStudiesHubPage = lazy(() => import('./pages/StudiesHubPage').then(m => ({ default: m.StudiesHubPage })));
+const LazyMostUsedGearBrandsStudyPage = lazy(() => import('./pages/MostUsedGearBrandsStudyPage').then(m => ({ default: m.MostUsedGearBrandsStudyPage })));
+const STUDY_SLUGS = new Set(['most-used-gear-brands-metal']);
+function isStudiesHubPage() {
+  if (typeof window === 'undefined') return false;
+  const pathname = window.location.pathname;
+  return pathname === '/studies' || pathname === '/studies/';
+}
+function isStudyPage() {
+  if (typeof window === 'undefined') return false;
+  const match = window.location.pathname.match(/^\/studies\/([a-z0-9-]+)\/?$/i);
+  return !!match && STUDY_SLUGS.has(match[1].toLowerCase());
+}
+function getStudySlugFromURL() {
+  if (typeof window === 'undefined') return null;
+  const match = window.location.pathname.match(/^\/studies\/([a-z0-9-]+)\/?$/i);
+  return match ? match[1].toLowerCase() : null;
+}
+
 // Signature Stick Pages (Issue #4138, phase 3/4 of epic #4135) - /drumsticks/signature/<drummer>
 // Targets "what sticks does <drummer> use". Only rendered for drummers with a confirmed
 // mapping in data/drumsticks.js (DRUMMER_STICKS) — an unmapped slug falls through to the
@@ -29567,6 +29590,27 @@ setShowList(false);
           />
         </Suspense>
       );
+    }
+
+    // Studies hub (Issue #4764, phase 1/3 of epic #4763) - /studies
+    if (isStudiesHubPage()) {
+      return (
+        <Suspense fallback={<PageLoadingSkeleton theme={theme} />}>
+          <LazyStudiesHubPage />
+        </Suspense>
+      );
+    }
+
+    // Study page (Issue #4764, phase 1/3 of epic #4763) - /studies/<slug>
+    if (isStudyPage()) {
+      const studySlug = getStudySlugFromURL();
+      if (studySlug === 'most-used-gear-brands-metal') {
+        return (
+          <Suspense fallback={<PageLoadingSkeleton theme={theme} />}>
+            <LazyMostUsedGearBrandsStudyPage />
+          </Suspense>
+        );
+      }
     }
 
     // Signature Stick Page (Issue #4138, phase 3/4 of epic #4135) - /drumsticks/signature/<drummer>

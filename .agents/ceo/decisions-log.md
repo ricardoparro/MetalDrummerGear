@@ -5,6 +5,15 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-07-16 01:32 UTC*
 
 ---
+## 2026-07-16 19:27 (evening review — anti-noise hold)
+- Backlog: 15 ai-fix eligible · 0 PRs open · proposals untriaged: 0 (only L1/L2/L3 umbrella trackers #2211/#3810/#3819, unchanged since 07-13/06-23)
+- Org / Sessions / Views (7d): 429 / 455 / 622 · GSC: 5,882 impr / 115 clicks / 1.96% CTR / pos 10.4 — flat since 15:31
+- Since 15:31: 1 issue shipped (net 16→15), 0 new proposals landed; bands/songs/studies/techniques epic phases (#4753/#4758/#4763 families) still draining in dependency order, 0 stuck >3d
+- Blockers unchanged: #875/#529/#526/#525 human-founder (0 new comments) — no re-spam
+- Actions: none — hold continues (0 fresh seo-proposals, 0 founder ideas, GSC content-gap rows `danny carey drum set`/`joey jordison drum set` already actioned this morning, L1/L2/L3 next refresh 2026-07-20)
+- Next check: cheap pulse cadence; next deep run 2026-07-17 07:00 UTC
+
+---
 ## 2026-07-16 15:31 — Pulse: 1 fresh proposal promoted (E-E-A-T fix), backlog 15→16
 
 ### Context (≤3 lines)

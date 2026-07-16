@@ -22,6 +22,12 @@ import { GEAR_INDEX, GEAR_INDEX_BRAND_LEVEL } from '../packages/frontend/data/ge
 // hand-maintaining two parallel arrays here. New lick batches add a per-drummer
 // file and auto-appear in the sitemap — no manual edit, no second conflict surface.
 import { SIGNATURE_LICKS } from '../packages/frontend/data/signatureLicks.js';
+// Issue #4771: video sitemap entries — resolved via the same single-source
+// helpers api/meta/[...path].js uses to decide the SSR iframe, so the
+// sitemap's <video:video> block, the crawlable iframe, and the VideoObject
+// JSON-LD can never disagree about which video represents a given page.
+import { resolveLickVideo, resolveTechniqueVideo, thumbnailUrlFor, embedUrlFor } from '../packages/frontend/data/videoSeo.js';
+import { getTechniqueBySlug } from '../packages/frontend/data/techniques.js';
 // Issue #1125: source the full drummer roster WITH gear records so the
 // /drummer/<slug>/<category> long-tail pages are declared for every drummer
 // that has real data in a category (not just 16 hardcoded names). Same module
@@ -302,10 +308,13 @@ const signatureGearPages = [
 
 // Issue #749 / #1056: Signature Licks pages — derived from SIGNATURE_LICKS so new
 // per-drummer lick modules auto-appear in the sitemap (no hand-maintained list).
+// Issue #4771: `video` carries the resolved video:video sitemap fields for the
+// licks that have one (video field, else tutorial field — see videoSeo.js).
 const signatureLicksPages = Object.values(SIGNATURE_LICKS).map(lick => ({
   drummerSlug: lick.drummerSlug,
   lickSlug: lick.slug,
   name: lick.name,
+  video: resolveLickVideo(lick),
 }));
 
 // Drummers with licks hub pages — distinct drummerSlugs in first-appearance order.
@@ -568,7 +577,10 @@ export function buildSitemapXml() {
     // Issue #1171: /bands index hub + all 19 band pages at the correct plural path.
     { loc: '/bands', priority: '0.9', changefreq: 'weekly' },
     ...bandPages.map(slug => ({ loc: `/bands/${slug}`, priority: '0.8', changefreq: 'monthly' })),
-    ...techniques.map(t => ({ loc: `/techniques/${t.slug}`, priority: '0.8', changefreq: 'monthly' })),
+    // Issue #4771: `video` carries the resolved video:video sitemap fields
+    // for the techniques that have a real YouTube video (polyrhythms,
+    // odd-time-signatures) — same resolver the SSR iframe/VideoObject use.
+    ...techniques.map(t => ({ loc: `/techniques/${t.slug}`, priority: '0.8', changefreq: 'monthly', video: resolveTechniqueVideo(getTechniqueBySlug(t.slug)) })),
     // Issue #870, #994: Technique → drummers SEO pages (/technique/<slug>/drummers)
     // Same priority/changefreq pattern as drummer pages.
     ...getAllTechniqueSlugs().map(slug => ({ loc: `/technique/${slug}/drummers`, priority: '0.8', changefreq: 'monthly' })),
@@ -607,7 +619,7 @@ export function buildSitemapXml() {
     ...signatureGearPages.map(sg => ({ loc: `/drummers/${sg.drummerSlug}/signature/${sg.gearSlug}`, priority: '0.85', changefreq: 'monthly' })),
     // Issue #749: Signature Licks Database pages
     ...drummerLicksHubs.map(d => ({ loc: `/drummers/${d.drummerSlug}/licks`, priority: '0.9', changefreq: 'weekly' })),
-    ...signatureLicksPages.map(sl => ({ loc: `/drummers/${sl.drummerSlug}/licks/${sl.lickSlug}`, priority: '0.85', changefreq: 'monthly' })),
+    ...signatureLicksPages.map(sl => ({ loc: `/drummers/${sl.drummerSlug}/licks/${sl.lickSlug}`, priority: '0.85', changefreq: 'monthly', video: sl.video })),
     // Issue #770: SEO Blitz - Drummer Gear Category Pages (long-tail keywords)
     ...drummerGearCategoryPages.map(dgc => ({ loc: `/drummer/${dgc.drummerSlug}/${dgc.category}`, priority: '0.85', changefreq: 'monthly' })),
     // Issue #802: Endorsement Tracker pages
@@ -971,7 +983,8 @@ export function buildSitemapXml() {
   ];
   const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 ${urls.map(url => `  <url>
     <loc>${xmlEscape(BASE_URL + url.loc)}</loc>
     <lastmod>${lastmodFor(url)}</lastmod>
@@ -979,9 +992,20 @@ ${urls.map(url => `  <url>
     <priority>${url.priority}</priority>${url.image ? `
     <image:image>
       <image:loc>${xmlEscape(url.image.loc)}</image:loc>
-      <image:title>${xmlEscape(url.image.title)}</image:title>
+      <!-- Issue #4771: Google's published sitemap-image/1.1 XSD orders
+           caption before title (loc, caption, geo_location, title, license)
+           — the reverse of what this used to emit, which failed strict XSD
+           validation. -->
       <image:caption>${xmlEscape(url.image.caption)}</image:caption>
-    </image:image>` : ''}
+      <image:title>${xmlEscape(url.image.title)}</image:title>
+    </image:image>` : ''}${url.video ? `
+    <video:video>
+      <video:thumbnail_loc>${xmlEscape(thumbnailUrlFor(url.video.youtubeId))}</video:thumbnail_loc>
+      <video:title>${xmlEscape(url.video.title)}</video:title>
+      <video:description>${xmlEscape(url.video.description)}</video:description>
+      <video:player_loc allow_embed="yes">${xmlEscape(embedUrlFor(url.video.youtubeId))}</video:player_loc>${url.video.durationSeconds ? `
+      <video:duration>${url.video.durationSeconds}</video:duration>` : ''}
+    </video:video>` : ''}
   </url>`).join('\n')}
 </urlset>`;
   return sitemap;

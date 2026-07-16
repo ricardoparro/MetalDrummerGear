@@ -8,7 +8,7 @@
 // hand-authored: any number referenced from that copy — those come from the
 // generated data file under data/studies/ (see dataModule/dataExport below).
 
-import { MOST_USED_GEAR_BRANDS } from './mostUsedGearBrands';
+import { MOST_USED_GEAR_BRANDS } from './mostUsedGearBrands.js';
 
 export const STUDIES = [
   {

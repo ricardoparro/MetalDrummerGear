@@ -247,6 +247,11 @@ import { DRUMMER_GEAR, BRAND_SEO_DATA } from '../../packages/frontend/data/gearS
 // generated stats file (scripts/compute-studies.cjs) backing the flagship study.
 import { STUDIES, getStudyBySlug } from '../../packages/frontend/data/studies/index.js';
 import { MOST_USED_GEAR_BRANDS } from '../../packages/frontend/data/studies/mostUsedGearBrands.js';
+// Issue #4771 (round 2 of #3698): single source of truth for "which YouTube
+// video is THE video for this page" — also consumed by api/sitemap.js's
+// video sitemap entries and scripts/audit-video-seo.mjs's coverage audit, so
+// the SSR iframe, the sitemap, and the audit can never drift out of sync.
+import { resolveLickVideo, resolveTechniqueVideo, thumbnailUrlFor, watchUrlFor, embedUrlFor } from '../../packages/frontend/data/videoSeo.js';
 
 const BASE_URL = 'https://metalforge.io';
 const SITE_NAME = 'MetalForge';
@@ -558,16 +563,12 @@ function escapeHtml(str) {
     .replace(/'/g, '&#039;');
 }
 
-// Helper: Extract an 11-char YouTube video ID from a watch/short URL (techniques.js
-// stores full URLs, unlike the lick data which stores youtubeId directly).
-function extractYouTubeId(url) {
-  if (!url) return null;
-  const match = url.match(/(?:youtube\.com\/watch\?v=|youtu\.be\/)([a-zA-Z0-9_-]{11})/);
-  return match ? match[1] : null;
-}
-
 // Generate meta tags for path
-function getMetaForPath(pathname) {
+// Issue #4771: exported (was module-private) so scripts/audit-video-seo.mjs
+// can render the real bot-facing SSR HTML for a given path and check it
+// against the video sitemap / oEmbed, instead of re-implementing this
+// routing logic a second time.
+export function getMetaForPath(pathname) {
   const path = pathname.toLowerCase();
   
   // Homepage
@@ -1395,7 +1396,7 @@ function getMetaForPath(pathname) {
       type: 'website',
       url: `${BASE_URL}/techniques`,
       ssrLinks: getAllTechniques().map(t => ({
-        href: `/technique/${t.slug}`,
+        href: `/techniques/${t.slug}`,
         label: t.title,
       })),
       articleSchema: JSON.stringify({
@@ -1408,7 +1409,12 @@ function getMetaForPath(pathname) {
         hasPart: getAllTechniques().map(t => ({
           '@type': 'Article',
           name: t.title,
-          url: `${BASE_URL}/technique/${t.slug}`,
+          // Issue #4771: was `/technique/<slug>` (singular) — a route the live
+          // frontend never actually links to or navigates by (it uses the
+          // plural /techniques/<slug>; see isTechniqueDetailPage in App.js).
+          // Bots following this link got a page with no vercel.json bot-rewrite
+          // and no sitemap entry, so it was never crawled as a "watch page".
+          url: `${BASE_URL}/techniques/${t.slug}`,
         })),
       }),
       breadcrumbSchema: [
@@ -1418,11 +1424,19 @@ function getMetaForPath(pathname) {
     };
   }
 
-  // Issue #1202: Individual technique page: /technique/<slug>
-  if (path.startsWith('/technique/') && !path.endsWith('/drummers')) {
-    const slug = path.replace('/technique/', '');
+  // Issue #1202: Individual technique page. The live frontend route is the
+  // PLURAL /techniques/<slug> (see isTechniqueDetailPage in App.js) — the
+  // singular /technique/<slug> below is a legacy alias that vercel.json still
+  // bot-rewrites here but that nothing on the site links to or lists in the
+  // sitemap. Issue #4771: match both, but always canonicalize to the plural
+  // URL so a bot that somehow reaches the alias is told the real page is
+  // elsewhere instead of indexing an orphaned duplicate.
+  const techniqueDetailMatch = path.match(/^\/techniques?\/([a-z0-9-]+)\/?$/);
+  if (techniqueDetailMatch && !path.endsWith('/drummers')) {
+    const slug = techniqueDetailMatch[1];
     const technique = getTechniqueBySlug(slug);
     if (technique) {
+      const canonicalUrl = `${BASE_URL}/techniques/${slug}`;
       const techMasters = technique.masters || [];
       // Issue #4767: hedge the "best" drummer question — module data can't support
       // a definitive superlative claim, so answer strictly from the masters list.
@@ -1430,24 +1444,25 @@ function getMetaForPath(pathname) {
       const bestAnswer = bestMaster
         ? `${bestMaster.name}${bestMaster.band ? ` (${bestMaster.band})` : ''} is among the most cited ${technique.title} drummers, alongside ${techMasters.slice(1, 4).map(m => m.name).join(', ') || 'other masters of the technique'}. See the full list on MetalForge.`
         : `See the complete list of metal drummers known for ${technique.title} on MetalForge.`;
-      // Issue #4767 (absorbing #4520): only emit a video graph node / iframe when
-      // the source URL actually resolves to a YouTube ID — never fabricate one.
-      const firstVideo = (technique.videos || []).find(v => extractYouTubeId(v.url));
-      const videoId = firstVideo ? extractYouTubeId(firstVideo.url) : null;
+      // Issue #4767 (absorbing #4520), #4771: only emit a video graph node /
+      // iframe when a real YouTube ID resolves — never fabricate one. Resolved
+      // via the shared resolver so this page, the video sitemap, and the
+      // audit script can never disagree about which video represents this page.
+      const video = resolveTechniqueVideo(technique);
       const graph = [
         {
           '@type': 'Article',
           headline: `${technique.title} — Metal Drumming Technique`,
           description: truncate(technique.description, 250),
-          url: `${BASE_URL}/technique/${slug}`,
+          url: canonicalUrl,
           publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
         },
         {
           '@type': 'DefinedTerm',
-          '@id': `${BASE_URL}/technique/${slug}#term`,
+          '@id': `${canonicalUrl}#term`,
           name: technique.title,
           description: truncate(technique.description, 250),
-          url: `${BASE_URL}/technique/${slug}`,
+          url: canonicalUrl,
           inDefinedTermSet: {
             '@type': 'DefinedTermSet',
             '@id': `${BASE_URL}/techniques#termset`,
@@ -1466,14 +1481,14 @@ function getMetaForPath(pathname) {
           })),
         },
       ];
-      if (videoId) {
+      if (video) {
         graph.push({
           '@type': 'VideoObject',
-          name: firstVideo.title,
-          description: `${firstVideo.title} — ${technique.title} demonstrated for metal drummers.`,
-          thumbnailUrl: `https://i.ytimg.com/vi/${videoId}/hqdefault.jpg`,
-          contentUrl: firstVideo.url,
-          embedUrl: `https://www.youtube.com/embed/${videoId}`,
+          name: video.title,
+          description: video.description,
+          thumbnailUrl: thumbnailUrlFor(video.youtubeId),
+          contentUrl: watchUrlFor(video.youtubeId),
+          embedUrl: embedUrlFor(video.youtubeId),
         });
       }
       return {
@@ -1481,10 +1496,10 @@ function getMetaForPath(pathname) {
         description: truncate(`Learn ${technique.title.toLowerCase()} in metal drumming: ${technique.description}. See who plays it and how.`, 160),
         image: `${BASE_URL}/images/og/techniques-preview.png`,
         type: 'article',
-        url: `${BASE_URL}/technique/${slug}`,
+        url: canonicalUrl,
         // Issue #4767 (#3698 pattern): real crawlable <iframe> in the SSR body
         // matching the VideoObject embedUrl above, not schema-only markup.
-        videoEmbed: videoId ? { youtubeId: videoId, title: firstVideo.title } : null,
+        videoEmbed: video ? { youtubeId: video.youtubeId, title: video.title } : null,
         articleSchema: JSON.stringify({
           '@context': 'https://schema.org',
           '@graph': graph,
@@ -1492,7 +1507,7 @@ function getMetaForPath(pathname) {
         breadcrumbSchema: [
           { name: 'Home', url: BASE_URL },
           { name: 'Techniques', url: `${BASE_URL}/techniques` },
-          { name: technique.title, url: `${BASE_URL}/technique/${slug}` },
+          { name: technique.title, url: canonicalUrl },
         ],
         // Issue #4767: SpeakableSpecification for voice search / AI assistants —
         // the generic SSR body only ever renders h1/h2/p, same as other routes.
@@ -1519,7 +1534,7 @@ function getMetaForPath(pathname) {
         ssrLinks: [
           { href: '/techniques', label: 'All Techniques' },
           ...getRelatedTechniques(slug).slice(0, 3).map(t => ({
-            href: `/technique/${t.slug}`,
+            href: `/techniques/${t.slug}`,
             label: t.title,
           })),
         ],
@@ -1578,7 +1593,9 @@ function getMetaForPath(pathname) {
         breadcrumbSchema: [
           { name: 'Home', url: BASE_URL },
           { name: 'Techniques', url: `${BASE_URL}/techniques` },
-          { name: technique.title, url: `${BASE_URL}/technique/${slug}` },
+          // Issue #4771: the parent technique page's canonical URL is the
+          // plural /techniques/<slug> — see the canonicalUrl fix above.
+          { name: technique.title, url: `${BASE_URL}/techniques/${slug}` },
           { name: 'Drummers', url: `${BASE_URL}/technique/${slug}/drummers` },
         ],
         // Issue #4767: SpeakableSpecification for voice search / AI assistants.
@@ -2949,6 +2966,10 @@ function getMetaForPath(pathname) {
     if (lick) {
       const lickUrl = `${BASE_URL}/drummers/${drummerSlug}/licks/${lickSlug}`;
       const thumbId = lick.video?.youtubeId || lick.tutorial?.youtubeId || null;
+      // Issue #4771: single-source resolver — see videoSeo.js for why this
+      // matters (194 lick pages that only have `lick.tutorial`, no
+      // `lick.video`, were emitting a VideoObject with NO matching iframe).
+      const primaryVideo = resolveLickVideo(lick);
 
       const graph = [
         // VideoObject — primary performance video if present
@@ -3012,12 +3033,15 @@ function getMetaForPath(pathname) {
         image: DEFAULT_IMAGE,
         type: 'article',
         url: lickUrl,
-        // Issue #3698: real crawlable <iframe> in the SSR body matching the
-        // primary performance VideoObject's embedUrl above, so bots see an
-        // actual watch page instead of schema-only markup.
-        videoEmbed: lick.video?.youtubeId ? {
-          youtubeId: lick.video.youtubeId,
-          title: lick.video.title || lick.name,
+        // Issue #3698 (fixed for tutorial-only licks by #4771): real crawlable
+        // <iframe> in the SSR body matching one of the VideoObjects in the
+        // graph above (primary performance video when present, else the
+        // tutorial), so bots see an actual watch page instead of schema-only
+        // markup — not just for the 15 licks with a primary video, but all
+        // 209 licks that carry either field.
+        videoEmbed: primaryVideo ? {
+          youtubeId: primaryVideo.youtubeId,
+          title: primaryVideo.title,
         } : null,
         articleSchema: JSON.stringify({ '@context': 'https://schema.org', '@graph': graph }),
         breadcrumbSchema: [
@@ -5518,7 +5542,8 @@ ${JSON.stringify(schema, null, 2)}
 }
 
 // Generate HTML with meta tags
-function generateMetaHtml(meta, originalUrl) {
+// Issue #4771: exported alongside getMetaForPath for the same reason.
+export function generateMetaHtml(meta, originalUrl) {
   const articleSchemaScript = generateArticleSchema(meta);
   const breadcrumbSchemaScript = generateBreadcrumbSchema(meta);
   const faqSchemaScript = generateFaqSchema(meta);

@@ -3,7 +3,7 @@
  * Searchable gear database for finding drummers by equipment brand/type
  */
 
-import { GEAR_INDEX_BRAND_LEVEL } from './gearIndex';
+import { GEAR_INDEX_BRAND_LEVEL } from './gearIndex.js';
 
 // ==========================================
 // GEAR DATABASE - All searchable gear items

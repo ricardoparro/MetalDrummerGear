@@ -7,7 +7,7 @@
 // with a confirmed setup get a page — callers should gate rendering on
 // getSetupForDrummer(slug) returning a setup (see CymbalSetupPage.jsx).
 
-import { getSetupForDrummer } from './cymbalSetups';
+import { getSetupForDrummer } from './cymbalSetups.js';
 
 const BASE_URL = 'https://metalforge.io';
 export const CYMBAL_SETUP_BASE_PATH = '/cymbals/setups';

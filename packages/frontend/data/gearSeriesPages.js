@@ -5,9 +5,9 @@
 // "drummers using <brand> <series>" SEO landing pages. Data layer (#995)
 // lives in data/gearIndex.js; this module turns it into page-ready content.
 
-import { GEAR_INDEX, GEAR_INDEX_BRAND_LEVEL } from './gearIndex';
-import { GEAR_PRICES, EUR_TO_USD, formatPrice } from '../gearPrices';
-import { getThomannLink, getSweetwaterLink } from '../affiliateLinks';
+import { GEAR_INDEX, GEAR_INDEX_BRAND_LEVEL } from './gearIndex.js';
+import { GEAR_PRICES, EUR_TO_USD, formatPrice } from '../gearPrices.js';
+import { getThomannLink, getSweetwaterLink } from '../affiliateLinks.js';
 
 const BASE_URL = 'https://metalforge.io';
 

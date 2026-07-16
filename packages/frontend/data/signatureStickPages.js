@@ -7,7 +7,7 @@
 // confirmed mapping get a page — callers should gate rendering on
 // getSticksForDrummer(slug) returning a stick (see SignatureStickPage.jsx).
 
-import { getSticksForDrummer } from './drumsticks';
+import { getSticksForDrummer } from './drumsticks.js';
 
 const BASE_URL = 'https://metalforge.io';
 export const SIGNATURE_STICK_BASE_PATH = '/drumsticks/signature';

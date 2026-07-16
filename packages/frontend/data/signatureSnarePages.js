@@ -8,7 +8,7 @@
 // gate rendering on getSnareForDrummer(slug)?.isSignature being true (see
 // SignatureSnarePage.jsx).
 
-import { getSnareForDrummer } from './snares';
+import { getSnareForDrummer } from './snares.js';
 
 const BASE_URL = 'https://metalforge.io';
 export const SIGNATURE_SNARE_BASE_PATH = '/snares/signature';

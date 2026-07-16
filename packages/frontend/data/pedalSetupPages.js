@@ -8,7 +8,7 @@
 // getPedalForDrummer(slug) returning a record (see PedalSetupPage.jsx),
 // mirroring the /cymbals/setups pattern shipped in #4306.
 
-import { getPedalForDrummer } from './pedals';
+import { getPedalForDrummer } from './pedals.js';
 
 const BASE_URL = 'https://metalforge.io';
 export const PEDAL_SETUP_BASE_PATH = '/pedals/setups';

@@ -1771,3 +1771,33 @@ This is a fresh vein (searched `gh issue list --state all --search "megadeth OR 
 - Watch #4728 ship, then re-verify `ls public/llms/bands/ | wc -l` → 35 and hub header → "35 bands".
 - The ssrLinks/FAQ-depth/stale-count veins are now fully mined out (confirmed clean this run) — future runs should keep leaning on fresh angles like regression-hunting (compare old "claimed fixed" issues against current live code) and aftercare sweeps on the most-recently-shipped batches, which is where this run's 3 findings came from.
 - Bank now at 6 (3 fresh + 3 umbrella) — healthy, well under the 45 floor.
+
+---
+## 2026-07-16 (2-hourly run) — Bank at 6 (3 real, already-promoted + 3 umbrella), filed 2 fresh proposals (bank 6→8)
+
+**Bank check:** `gh issue list --state open --label seo-proposal` = 6 at run start — #4727/#4728/#4729 (last run's filings, already promoted to `ai-fix` per decisions-log 01:32 entry, still carrying `seo-proposal` label) + 3 standing umbrella trackers. Zero genuinely untriaged. Well under the 45 floor — cleared to file up to 8.
+
+**Audit:** `robots.txt` (`api/robots.js`) — all 8 AI crawlers explicitly allowed, healthy ✅. `public/llms/*.md` = 1,867 files (67/67 drummer profiles + index/faq/gear-guide present, exceeds original 62-drummer target since roster grew to 67). Sitemap: 6,475 `<loc>` entries live. Homepage bot-UA curl (`ClaudeBot`) now shows Organization/WebSite/SearchAction/EntryPoint/ImageObject all present — #4727's regression appears already resolved live (no fix commit in `git log` yet, so likely was already correct in the last-deployed commit, not yet independently re-diagnosed this run; flagging for next run to confirm via `git log --grep=4727`).
+
+**Investigated and correctly ruled out (worth recording so it isn't re-chased):** live bot-UA curl of `/drummer/lars-ulrich` showed **zero** `<table>` (Quick Facts, #4688) and **zero** "speakable" (#4667) despite both merged to `main` hours ago. Traced root cause via `gh api repos/:owner/:repo/deployments` before treating this as a bug: production deploys are **intentionally batched once/day** (`.github/workflows/deploy-prod.yml`, cron `0 6 * * *`, `git.deploymentEnabled.main = false` in `vercel.json` — a deliberate change to stop a 55+ builds/day storm from saturating Vercel's queue). Last deploy was 2026-07-15T06:44:18Z; next fires ~06:00 UTC 2026-07-16. Confirmed via cache-bypassed curl (`x-vercel-cache: MISS`, `x-meta-handler: hit-v1`) that the currently-deployed function genuinely predates these merges — not a caching artifact. **No issue filed** — this is documented, by-design behavior, not a gap. Noting here so a future run doesn't waste an Explore sweep re-discovering the same non-bug.
+
+**Fresh gaps found (dispatched an Explore agent with a large exclusion list covering the full mined history — ssrLinks on ~20 route families, FAQPage/Speakable/Quick Facts, stale counts, og:image/og:locale, bands/relatedBands — all already filed or shipped). 5 single-page hub gaps surfaced, independently re-verified via direct `sed`/`grep` on `api/meta/[...path].js` before filing, then grouped into 2 atomic batches by fix-type (matching the established convention of separate ssrLinks-batch vs. FAQ-batch issues):**
+- **#4730** — `ssrLinks` missing entirely on `/quotes`, `/news`, `/gear` hubs (3 pages). Confirmed via direct read: `/quotes` (~L3744) has `ItemList` only, `/news` (~L1236) has `CollectionPage` only, `/gear` (~L1149) has `faqSchema` but no `ssrLinks` — its sibling `/gear-by-budget` immediately below it does. All 3 are bot-facing dead ends.
+- **#4731** — `FAQPage` schema missing on `/quotes`, `/news`, `/spotlights`, `/beginner-guide` (4 pages); `/beginner-guide` additionally has no `ssrLinks` either. Confirmed `/beginner-guide` is live, non-dead code (wired in `api/sitemap.js:507`, linked from `BeginnerGearGuide.js`/`SeoHead.js`), not a stale legacy route despite the "(legacy path)" code comment.
+
+**Metrics** (`.agents/ceo/metrics.md`, refreshed 2026-07-16 03:01 UTC): 409 users/433 sessions/584 views 7d (organic search = 141/433 ≈ 32.6% of sessions, Direct still largest single channel — same compression-not-decline pattern as recent entries). GSC: 4,748 impr/98 clicks/2.06% CTR/pos 9.5 (flat vs. last entry). No content-gap queries met the ≥50 impr/<2% CTR bar this week.
+
+### Proposals filed this run
+1. #4730 — SEO batch: ssrLinks missing on /quotes, /news, /gear hub pages (3 pages)
+2. #4731 — SEO batch: FAQPage schema missing on /quotes, /news, /spotlights, /beginner-guide hubs (4 pages)
+
+### Open proposals waiting on CEO triage
+- #4730, #4731 (filed this run, 0d old)
+- #4727, #4728, #4729 (filed last run, already promoted to `ai-fix` per decisions-log — in Roadie's queue, not stuck)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers, not real proposals, left as-is per established convention
+
+### Next run
+- Confirm #4730/#4731 ship, then re-verify `/quotes`, `/news`, `/gear`, `/spotlights`, `/beginner-guide` via bot-UA curl for non-empty `ssrLinks`/`FAQPage`.
+- After the ~06:00 UTC 2026-07-16 batched deploy fires, re-check `/drummer/lars-ulrich` bot-UA curl for the Quick Facts `<table>` and `speakable` schema — should finally be live; if still absent post-deploy, that would be a genuine bug worth filing (unlike right now, which is expected pre-deploy lag).
+- The single-page-hub-gap vein (#4730/#4731) may have more instances beyond the 5 found — worth a follow-up sweep of any remaining hub-type routes in `api/meta/[...path].js` not yet checked for the ssrLinks+FAQPage combo.
+- Bank now at 8 (2 fresh + 3 already-promoted + 3 umbrella) — healthy, well under the 45 floor.

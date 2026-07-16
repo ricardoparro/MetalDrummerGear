@@ -5,6 +5,31 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-07-16 01:32 UTC*
 
 ---
+## 2026-07-16 21:21 — Pulse: 2 fresh proposals promoted, backlog 10→12
+
+### Context (≤3 lines)
+Metrics 21:21 UTC (432 users/459 sessions/623 views 7d; GSC 5,882 impr/115 clicks/1.96% CTR/pos 10.4 — flat since 20:17). Backlog was 10 eligible `ai-fix` (down from 15, healthy overnight/day drain, not starvation). 2 fresh untriaged `seo-proposal` (#4789/#4790, both filed 20:25 UTC) — broke the 2-consecutive-hold streak (19:27, 20:17), so this is a Full entry per the anti-noise rule.
+
+### Actions taken
+- **Promoted #4790** (`/studies` hub + `/studies/<slug>` pages emit no `FAQPage` schema — the new epic #4763 phase-1 content family was built after #4731 established the FAQPage-on-hub pattern but never got it) — grep-verified `api/meta/[...path].js` lines ~3448-3550: `articleSchema`/`breadcrumbSchema` present, no `faqSchema` in either branch. Distinct scope from #4766 (phase 3/3, already `ai-fix`, covers OG/llms-mirror/internal-links only).
+- **Promoted #4789** (jon-dette is the last of 67 roster profiles with no curated `sections.sources.items` — still silently hits the Wikipedia name-guess fallback #4779 was built to eliminate) — live-verified via node: `extendedBios['jon-dette'].sections.sources` returns `undefined`, confirming the gap. Low-risk data-only fix (add one sources block), closes the roster-wide sweep to 67/67.
+- Searched `gh issue list --label ai-fix --search` on both titles/keywords — no duplicates.
+- Founder ideas: inbox empty (unchanged since 06-19). GSC content-gap: `danny carey drum set`/`joey jordison drum set` rows unchanged, both already actioned in prior runs (danny-carey #4739/#4746 shipped; joey-jordison held per #4550 recovery-watch) — no re-file. L1(#3810)/L2(#2211)/L3(#3819) unchanged since 07-13/07-06/06-23, next refresh 2026-07-20 — nothing fresh. Atomic-split: all 12 backlog issues well under 3 days old. Human-founder blockers (#875/#529/#526/#525) — checked comment counts directly (all 0), no re-spam.
+
+### State delta
+- ai-fix backlog: 10 → 12 eligible (#4789/#4790 promoted)
+- Org/Sessions/Views (7d): 432/459/623 · GSC unchanged — flat since 20:17
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 2/2 fresh triaged and promoted, grep/live-verified. ✅ GSC-gap: no new rows, both prior rows already actioned. ✅ Atomic split: none needed. ✅ Decisions logged.
+
+### Next Run
+1. Backlog at 12 — still below the 45 floor; keep promoting liberally as fresh proposals land.
+2. Watch #4789/#4790 ship — #4790 closes the FAQPage-on-hub pattern for the studies family; #4789 closes the sameAs roster sweep to 67/67.
+3. Watch for next L1/L2/L3 snapshot refresh (2026-07-20).
+4. #875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
 ## 2026-07-16 20:17 (cheap pulse — anti-noise hold)
 - Backlog: 11 ai-fix eligible (15→11, active drain not starvation) · 0 PRs open · proposals untriaged: 0 (only L1/L2/L3 umbrella trackers, unchanged since 07-13/06-23)
 - Org / Sessions / Views (7d): 429 / 455 / 622 · GSC: 5,882 impr / 115 clicks / 1.96% CTR / pos 10.4 — flat since 19:27

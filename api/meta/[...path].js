@@ -2367,11 +2367,41 @@ function getMetaForPath(pathname) {
     if (band) {
       const drummerMember = band.members?.find(m => /drum/i.test(m.role));
       const drummerName = drummerMember?.name;
+      // Issue #4755: drive the "who is the drummer" FAQ answer from the real
+      // drummerHistory timeline (phase 1, #4754) instead of the generic
+      // current-lineup member — the last entry is the final/current drummer,
+      // and a disbanded band gets a past-tense answer naming that last drummer.
+      const humanizeDrummerSlug = s => s.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+      const drummerHistory = band.drummerHistory || [];
+      const lastDrummerEntry = drummerHistory[drummerHistory.length - 1];
+      const lastDrummerName = lastDrummerEntry
+        ? (drummerSlugToName[lastDrummerEntry.drummer] || humanizeDrummerSlug(lastDrummerEntry.drummer))
+        : drummerName;
+      const drummerFaqItem = lastDrummerEntry
+        ? {
+            question: `Who is the drummer for ${band.name}?`,
+            answer: band.status === 'disbanded'
+              ? `${band.name}'s final drummer was ${lastDrummerName}, who played from ${lastDrummerEntry.period}.`
+              : `${lastDrummerName} has been ${band.name}'s drummer since ${lastDrummerEntry.period.split('-')[0]}.`,
+          }
+        : (drummerName ? {
+            question: `Who is the drummer for ${band.name}?`,
+            answer: `The drummer for ${band.name} is ${drummerName}. Visit MetalForge for their complete gear breakdown.`,
+          } : null);
+      // Issue #4755: 1-2 flagship-album FAQ entries (debut + most recent)
+      // sourced from the verified discography attributions added in #4754.
+      const discography = band.discography || [];
+      const flagshipAlbums = discography.length > 1
+        ? [discography[0], discography[discography.length - 1]]
+        : discography.slice(0, 1);
+      const albumFaqItems = flagshipAlbums
+        .filter(a => a?.drummer)
+        .map(a => ({
+          question: `Who played drums on ${band.name}'s "${a.title}"?`,
+          answer: `${drummerSlugToName[a.drummer] || humanizeDrummerSlug(a.drummer)} played drums on "${a.title}"${a.year ? ` (${a.year})` : ''}.`,
+        }));
       const faqItems = [
-        ...(drummerName ? [{
-          question: `Who is the drummer for ${band.name}?`,
-          answer: `The drummer for ${band.name} is ${drummerName}. Visit MetalForge for their complete gear breakdown.`,
-        }] : []),
+        ...(drummerFaqItem ? [drummerFaqItem] : []),
         {
           question: `What drum kit does ${band.name}'s drummer use?`,
           answer: `See the complete drum gear setup for ${band.name}'s drummer at MetalForge, including kit, cymbals, pedals, and sticks.`,
@@ -2380,8 +2410,20 @@ function getMetaForPath(pathname) {
           question: `What genre is ${band.name}?`,
           answer: `${band.name} plays ${band.genres?.join(', ') || 'metal'}.`,
         },
+        ...albumFaqItems,
       ];
       const slug = bandMatch[1];
+      // Issue #4755: crawlable drum-chair timeline links — only for drummers
+      // who resolve against the roster module (drummerSlugToName), per rule 4
+      // (no fabricated URLs).
+      const bandTimelineSsrLinks = _dedupeSsrLinksByHref(
+        drummerHistory
+          .filter(h => drummerSlugToName[h.drummer])
+          .map(h => ({
+            href: `/drummer/${h.drummer}`,
+            label: `${drummerSlugToName[h.drummer]} (${h.period})`,
+          }))
+      );
       return {
         title: band.metaTitle || `${band.name} — Drummer, Drum Kit & Gear | ${SITE_NAME}`,
         description: truncate(
@@ -2404,7 +2446,7 @@ function getMetaForPath(pathname) {
                 member: { '@type': 'Person', name: m.name },
                 roleName: m.role,
               }))
-            : (band.drummerHistory || []).map(h => ({
+            : drummerHistory.map(h => ({
                 '@type': 'OrganizationRole',
                 member: { '@type': 'Person', name: drummerSlugToName[h.drummer] || h.drummer },
                 roleName: 'Drums',
@@ -2418,6 +2460,7 @@ function getMetaForPath(pathname) {
           { name: band.name, url: `${BASE_URL}/bands/${slug}` },
         ],
         faqSchema: faqItems,
+        ...(bandTimelineSsrLinks.length > 0 ? { ssrLinks: bandTimelineSsrLinks } : {}),
       };
     }
   }

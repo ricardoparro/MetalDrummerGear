@@ -2878,3 +2878,31 @@ Metrics 23:19 UTC (428 users/454 sessions/615 views 7d; GSC 5,729 impr/128 click
 
 ---
 
+## 2026-07-16 07:00 — Deep run: 4 fresh proposals promoted, backlog 2→4 (fleet drained #4698-4708 overnight)
+
+### Context (≤3 lines)
+Metrics 06:46 UTC (417 users/441 sessions/593 views 7d; GSC 5,882 impr/115 clicks/1.96% CTR/pos 10.4). Backlog was 2 eligible `ai-fix` at run start (fleet cleared #4698-4708 overnight — all 11 shipped/closed, including #4728/#4729/#4727 same-vein follow-ons). 4 fresh untriaged `seo-proposal` (#4730/#4731/#4736/#4737, filed 03:06-05:07 UTC).
+
+### Actions taken
+- **Promoted #4730** (ssrLinks missing on `/quotes`, `/news`, `/gear` hubs) — grep-verified all 3 branches in `api/meta/[...path].js` lack `ssrLinks`, matches the established hub-link-gap class (#4355/#4650/#4656/#4689).
+- **Promoted #4731** (FAQPage schema missing on `/quotes`, `/news`, `/spotlights`, `/beginner-guide` hubs) — verified same 4 branches emit no `FAQPage`; `/beginner-guide` also confirmed live (wired in sitemap + components, not dead code).
+- **Promoted #4736** (ssrLinks missing on 4 gear-brand hub pages — 31 brand-detail pages one-directionally linked) — verified detail→hub link exists, hub→detail does not, across `/drumsticks/brands`, `/cymbals/brands`, `/snares/brands`, `/pedals/brands`.
+- **Promoted #4737** (25 of 31 `/llms/<vertical>/brands/<slug>.md` files orphaned from vertical hub `.md`) — verified counts per vertical (drumsticks 10/0, cymbals 4/0, snares 6/0, pedals 11/6) — distinct surface from #4736 (static `.md` mirrors vs. live bot-HTML shell).
+- Searched `gh issue list --label ai-fix --search` on all 4 titles/keywords — no duplicates (self-matches only).
+- Founder ideas: inbox empty. GSC content-gap: `danny carey drum set` (71 impr, 1.41% CTR, pos 11.3) and `joey jordison drum set` (51 impr, 1.96% CTR, pos 10.7) — checked L1's own `ctr-gap-opportunity` classification (position 3-10 band) and neither qualifies (danny-carey pos 11.3, joey-jordison pos 10.7, both just past the window); joey-jordison is the known query-variant-redistribution/recrawl-pending case from `learned-patterns.md:111/119` (fix #4559 already shipped, watching recrawl). Danny Carey already has heavy content investment (Kit Overview prose #3140, FAQ depth, comparisons, discography arc) — low CTR at pos 11.3 is a position problem, not a snippet-fixable gap. No re-file for either. L1(#3810)/L2(#2211)/L3(#3819) snapshots unchanged since 07-13/07-06/06-23, next refresh 2026-07-20 — nothing fresh. Atomic-split: all 4 backlog issues <2h old, nothing open >3 days. Human-founder blockers (#875/#529/#526/#525) — checked comment counts directly (all 0), no re-spam.
+
+### State delta
+- ai-fix backlog: 2 → 4 eligible (#4730/#4731/#4736/#4737 promoted; prior batch #4698-4708 all shipped/closed overnight)
+- Org/Sessions/Views (7d): 417/441/593 · GSC: 5,882 impr / 115 clicks / 1.96% CTR / pos 10.4 (impressions up from 5,729, CTR down slightly — position 10.4 vs 9.3 prior week, watch next L1 snapshot 07-20 for whether this is noise)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 4/4 fresh triaged and promoted, grep-verified. ✅ GSC-gap: both rows checked against L1's precise position-band rule, neither qualifies as snippet-fixable — no re-file, reasoning logged. ✅ Atomic split: none needed. ✅ Decisions logged.
+
+### Next Run
+1. Backlog at 4 — still well below the 45 floor; keep promoting liberally as fresh proposals land.
+2. Watch #4730/#4731 (hub ssrLinks+FAQ) and #4736/#4737 (brand-hub link graph, live HTML + `.md` mirror) ship.
+3. Watch for next L1/L2/L3 snapshot refresh (2026-07-20) — pos 10.4 vs 9.3 avg-position drift worth checking then.
+4. #875/#529/#526/#525 human-founder blockers unchanged (0 comments) — no re-spam.
+
+---
+

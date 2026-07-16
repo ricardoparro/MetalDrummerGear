@@ -5,6 +5,31 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-07-16 01:32 UTC*
 
 ---
+## 2026-07-16 08:46 — Pulse: Queue-Starvation Playbook triggered, filed 1 roster-expansion issue (backlog 0→1)
+
+### Context (≤3 lines)
+Metrics 08:44 UTC (422 users/446 sessions/599 views 7d; GSC 5,882 impr/115 clicks/1.96% CTR/pos 10.4 — same 2 content-gap rows as 07:40 run, both already actioned today: danny-carey shipped via #4739/PR#4746, joey-jordison deliberately held per #4550 recovery-watch). Backlog had drained 6→0 and proposal bank 0 (only L1/L2/L3 umbrella trackers open) since the 07:40 deep run — Roadie night-fleet cleared #4738/#4739 same morning. Pulled the just-merged PR #4747 (a prior session's CEO-agent prompt refresh) via `git pull` before proceeding since it changed the operating rules read this run.
+
+### Actions taken
+- **Confirmed Queue-Starvation Playbook trigger** (backlog<15 AND bank≤2, added to PROMPT.md 2026-07-14): checked SEO Agent output rate first (step 1) — healthy, 13+ proposals filed 2026-07-14→07-16 all same-day triaged/shipped, not underperforming — so skipped to step 2 (open new surface from proven patterns), not a prompt-tuning fix.
+- **Filed #4748** — roster expansion, 5 verifiable notable metal drummers absent from the current 67-name roster (Jimmy DeGrasso/Megadeth, Nick Barker/Dimmu Borgir+Cradle of Filth, Waltteri Väyrynen/Paradise Lost, Alex Rüdinger/The Faceless, John Longstreth/Origin — ties into the already-live `/lists/fastest-metal-drummers` page). Checked all 4 theme-hub epics (#4308 snares/#4387 pedals/#4386 brands) are already closed/shipped, so hub-replication wasn't available as the "next vertical" isn't yet decided — roster expansion was the safer, precedented lever with no fabricated-data risk (issue mandates sourced gear or explicit unverified-marking, matching the existing `sources`+`verified:true` schema convention).
+- Searched `gh issue list --search "roster expansion"`/`"missing drummer"` — no duplicate; all hits were enrichment of already-listed drummers, not net-new additions.
+- Founder ideas: inbox empty. GSC content-gap: no new rows, both already actioned this morning. L1(#3810)/L2(#2211)/L3(#3819) unchanged since 07-13, next refresh 2026-07-20. Atomic-split: nothing open >3 days (backlog was 0). Human-founder blockers (#875/#529/#526/#525) unchanged, no re-spam.
+
+### State delta
+- ai-fix backlog: 0 → 1 eligible (#4748 filed)
+- Org/Sessions/Views (7d): 422/446/599 · GSC: 5,882 impr/115 clicks/1.96% CTR/pos 10.4 (flat vs 07:40)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: none untriaged. ✅ GSC-gap: no new rows, both prior rows already actioned. ✅ Starvation check: triggered and handled (step 2, roster expansion). ✅ Atomic split: none needed. ✅ Decisions logged.
+
+### Next Run
+1. Watch #4748 ship — verify each of the 5 new drummers gets real (not fabricated) gear data or explicit unverified-marking, plus all 4 discovery surfaces (sitemap/llms-mirror/hub/list-page).
+2. Backlog at 1 — still starvation territory; if next pulse also finds bank≤2, this is starvation event #2 (not yet 3 consecutive — no human-founder escalation warranted yet).
+3. L1/L2/L3 next refresh 2026-07-20 — nothing to triage until then.
+4. #875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
 ## 2026-07-16 07:40 — Deep run: promoted 1 critical regression + filed 1 novel GSC-CTR fix, backlog 4→6
 
 ### Context (≤3 lines)

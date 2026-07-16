@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-16 07:40 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-16 08:44 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,32 +8,32 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 421 |
-| Sessions | 445 |
-| Page views | 595 |
-| Engagement rate | 27.64% |
-| Avg session (s) | 153 |
+| Active users | 422 |
+| Sessions | 446 |
+| Page views | 599 |
+| Engagement rate | 27.58% |
+| Avg session (s) | 152 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 115 | 80 |
+| / | 116 | 80 |
 | /drumsticks | 43 | 35 |
 | /drummer/lars-ulrich | 39 | 40 |
 | /cymbals | 34 | 34 |
 | /lists/fastest-metal-drummers | 22 | 22 |
 | /articles/master-of-puppets-drum-setup | 20 | 20 |
 | /drummers | 14 | 2 |
+| /drummer/danny-carey | 10 | 7 |
 | /drummer/matt-greiner | 10 | 8 |
-| /drummer/danny-carey | 9 | 7 |
 | /gear/sticks | 8 | 1 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Direct | 281 | 273 |
-| Organic Search | 146 | 133 |
-| Unassigned | 42 | 40 |
+| Direct | 283 | 275 |
+| Organic Search | 148 | 135 |
+| Unassigned | 43 | 41 |
 | Cross-network | 7 | 7 |
 
 ## Search Console — Search performance

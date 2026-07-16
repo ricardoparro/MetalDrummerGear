@@ -3520,15 +3520,19 @@ function getMetaForPath(pathname) {
   }
 
   // Issue #1383: /gear/<brand> — 8 brand landing pages
+  // Issue #4750: `drummers` slugs are cross-checked against each drummer's
+  // gear.drums/gear.cymbals field in api/drummers/index.js — not eyeballed
+  // from the tagline prose, which named a few drummers who don't actually
+  // play that brand (e.g. Tomas Haake plays Sonor drums, not Tama).
   const GEAR_BRAND_META = {
-    tama: { name: 'Tama', type: 'drum kits', tagline: 'Premier Japanese drum manufacturer used by Eloy Casagrande, Tomas Haake, and more.' },
-    pearl: { name: 'Pearl', type: 'drum kits', tagline: 'Pearl drums used by Joey Jordison, Gene Hoglan, and top metal drummers worldwide.' },
-    dw: { name: 'DW', type: 'drum kits', tagline: 'Drum Workshop (DW) kits used by Danny Carey, Mike Mangini, and legendary metal drummers.' },
-    ludwig: { name: 'Ludwig', type: 'drum kits', tagline: 'Ludwig drums — iconic brand used by John Bonham-influenced metal drummers.' },
-    zildjian: { name: 'Zildjian', type: 'cymbals', tagline: 'Zildjian cymbals used by Lars Ulrich, Matt Greiner, and top metal drummers for 400+ years.' },
-    paiste: { name: 'Paiste', type: 'cymbals', tagline: 'Paiste cymbals — Swiss precision used by Tomas Haake, Hellhammer, and extreme metal pros.' },
-    meinl: { name: 'Meinl', type: 'cymbals', tagline: 'Meinl cymbals used by Matt Halpern, Gavin Harrison, and progressive metal elite.' },
-    sabian: { name: 'Sabian', type: 'cymbals', tagline: 'Sabian cymbals used by Neil Peart, Charlie Benante, and leading metal drummers.' },
+    tama: { name: 'Tama', type: 'drum kits', tagline: 'Premier Japanese drum manufacturer used by Eloy Casagrande, Tomas Haake, and more.', drummers: ['eloy-casagrande', 'lars-ulrich'] },
+    pearl: { name: 'Pearl', type: 'drum kits', tagline: 'Pearl drums used by Joey Jordison, Gene Hoglan, and top metal drummers worldwide.', drummers: ['joey-jordison', 'gene-hoglan'] },
+    dw: { name: 'DW', type: 'drum kits', tagline: 'Drum Workshop (DW) kits used by Danny Carey, Mike Mangini, and legendary metal drummers.', drummers: ['navene-koperweis', 'hannes-grossmann'] },
+    ludwig: { name: 'Ludwig', type: 'drum kits', tagline: 'Ludwig drums — iconic brand used by John Bonham-influenced metal drummers.', drummers: ['bill-ward', 'art-cruz'] },
+    zildjian: { name: 'Zildjian', type: 'cymbals', tagline: 'Zildjian cymbals used by Lars Ulrich, Matt Greiner, and top metal drummers for 400+ years.', drummers: ['lars-ulrich', 'gavin-harrison'] },
+    paiste: { name: 'Paiste', type: 'cymbals', tagline: 'Paiste cymbals — Swiss precision used by Tomas Haake, Hellhammer, and extreme metal pros.', drummers: ['hellhammer', 'dave-lombardo'] },
+    meinl: { name: 'Meinl', type: 'cymbals', tagline: 'Meinl cymbals used by Matt Halpern, Gavin Harrison, and progressive metal elite.', drummers: ['matt-halpern', 'chris-adler'] },
+    sabian: { name: 'Sabian', type: 'cymbals', tagline: 'Sabian cymbals used by Neil Peart, Charlie Benante, and leading metal drummers.', drummers: ['gene-hoglan', 'tomas-haake'] },
   };
 
   const gearBrandMatch = path.match(/^\/gear\/([a-z]+)$/);
@@ -3542,6 +3546,24 @@ function getMetaForPath(pathname) {
         image: DEFAULT_IMAGE,
         type: 'website',
         url: `${BASE_URL}/gear/${brandSlug}`,
+        ssrLinks: [
+          { href: '/gear', label: 'All Gear' },
+          ...brand.drummers.map(slug => ({ href: `/drummer/${slug}`, label: `${drummerSlugToName[slug] || slug} Profile` })),
+        ],
+        faqSchema: [
+          {
+            question: `What metal drummers use ${brand.name}?`,
+            answer: `${brand.tagline}`,
+          },
+          {
+            question: `Is ${brand.name} good for metal drumming?`,
+            answer: `${brand.name} is a top choice among professional metal drummers for its ${brand.type === 'drum kits' ? 'durability and tone' : 'cutting power and projection'}.`,
+          },
+          {
+            question: `Where can I see ${brand.name} gear specs?`,
+            answer: `See individual drummer profiles on MetalForge for full ${brand.name} gear breakdowns, model numbers, and pricing.`,
+          },
+        ],
         articleSchema: JSON.stringify({
           '@context': 'https://schema.org',
           '@type': 'CollectionPage',

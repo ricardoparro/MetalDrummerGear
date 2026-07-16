@@ -71,6 +71,18 @@ For batch proposals, include:
 ### 4. Document
 Update `.agents/seo-plan.md` with what shipped this week + what's in proposal.
 
+## Drum-chair watch (weekly — first run each Monday)
+
+Drummer-change news (joins, departures, deaths, permanent touring stand-ins) creates a demand spike we otherwise catch late or never — see the Eloy Casagrande → Slipknot pattern in `.agents/seo/learned-patterns.md`. This is a **detection** task, separate from proposal filing; run it once, on the first run each Monday (check the date — if today isn't Monday, or a run already logged this week's sweep, skip this section entirely this run).
+
+1. **Rotate, don't scan the whole roster.** Read the band keys from `packages/frontend/data/bands.js`, sort alphabetically, and split into 4 roughly-equal groups (~9-10 bands each). Pick this week's group by `ISO week number % 4`. Search the web for each band in the group with a focused query (e.g. `"<band> new drummer"`, `"<band> drummer 2026"`) restricted to the last 14 days. Do **not** search all bands every week — that's the exact token-burn the bank cap discipline exists to prevent.
+2. **Verification bar before filing anything: 2+ independent reputable sources** (an official band/label statement, or major metal press — Blabbermouth, Loudwire, Metal Injection, Revolver, etc. — count; a single fan post, forum thread, or "reportedly"/"according to a source" story does not). If you can't find 2 independent sources, **log-and-skip** — note the rumor in the run notes so next week's rotation (or an out-of-band check) can revisit it, but file nothing.
+3. **Dedup before filing.** For each candidate change, search open AND closed issues for the band + both drummer names (`gh issue list --state all --search "<band> <old-drummer> <new-drummer>"`) — never re-file a change that's already been proposed or shipped.
+4. For each VERIFIED, non-duplicate change, file exactly **one** `seo-proposal`:
+   - Title: `Drum-chair change: <band> — <old drummer> → <new drummer> (<month year>)`
+   - Body must include: both source URLs (as binding fact anchors — no fact in the proposal may rest on an uncited claim), the exact `drummerHistory` edit (close the outgoing drummer's `period` with an end year, append the new drummer's entry), and the downstream touchpoints to update (band-page FAQ first answer, the `/bands/drum-chair-changes` timeline once it exists per #4769, and whether the incoming drummer warrants a full roster addition — file that as a **separate** proposal, don't bundle it in).
+5. **Log the sweep every week, even at zero changes** — one line in `.agents/seo-plan.md` run notes: which band group was checked (by name or index), how many candidates surfaced, how many cleared the 2-source bar, how many were deduped away. Anti-noise rules apply same as everywhere else — this is a status line, not a report.
+
 ## Priority Framework
 
 | Priority | Type | Examples this quarter |

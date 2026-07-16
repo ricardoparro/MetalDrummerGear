@@ -13522,7 +13522,7 @@ function DrummerBioPage({ theme, onBack, drummer, onSelectDrummer }) {
 /**
  * DrummerHistoryItem - Single drummer in the history timeline
  */
-function DrummerHistoryItem({ entry, drummer, onSelectDrummer, theme, isLast }) {
+function DrummerHistoryItem({ entry, drummer, albums, onSelectDrummer, theme, isLast }) {
   const { width } = useWindowDimensions();
   const isMobile = width < 768;
 
@@ -13564,6 +13564,16 @@ function DrummerHistoryItem({ entry, drummer, onSelectDrummer, theme, isLast }) 
             {entry.notes}
           </Text>
         )}
+        {albums && albums.length > 0 && (
+          <View style={styles.drummerHistoryAlbums}>
+            <Text style={[styles.drummerHistoryAlbumsLabel, { color: theme.secondaryText }]}>
+              Albums:
+            </Text>
+            <Text style={[styles.drummerHistoryAlbumsText, { color: theme.text }]}>
+              {albums.map(album => `${album.title} (${album.year})`).join(' • ')}
+            </Text>
+          </View>
+        )}
         {drummer && (
           <TouchableOpacity
             onPress={() => onSelectDrummer(drummer.id)}
@@ -13579,6 +13589,20 @@ function DrummerHistoryItem({ entry, drummer, onSelectDrummer, theme, isLast }) 
   );
 }
 
+// A drummer can hold the chair in two separate, non-contiguous stints (e.g.
+// Mike Portnoy in Dream Theater); matching albums by slug alone would show the
+// same album under both eras, so also require the album year to fall inside
+// this era's "start-end"/"start-present" period.
+function isYearInEraPeriod(year, period) {
+  if (!year || !period) return true;
+  const parts = period.split('-');
+  const start = parseInt(parts[0], 10);
+  // A bare single year (e.g. "2004", a brief touring-only stint) covers only
+  // that year; otherwise the second part is either an end year or "present".
+  const end = parts.length === 1 ? start : (parts[1] === 'present' ? Infinity : parseInt(parts[1], 10));
+  return year >= start && year <= end;
+}
+
 /**
  * DrummerHistorySection - Display the drummer history timeline for a band
  */
@@ -13590,13 +13614,17 @@ function DrummerHistorySection({ band, drummers, onSelectDrummer, theme }) {
     return null;
   }
 
-  // Map drummer slugs to actual drummer data
+  // Map drummer slugs to actual drummer data, and pull in the albums each
+  // era's drummer recorded (Issue #4755: drum-chair timeline + discography join).
   const resolvedHistory = band.drummerHistory.map(entry => {
-    const drummer = drummers.find(d => 
-      toSlug(d.name) === entry.drummer || 
+    const drummer = drummers.find(d =>
+      toSlug(d.name) === entry.drummer ||
       d.name.toLowerCase().replace(/\s+/g, '-') === entry.drummer
     );
-    return { entry, drummer };
+    const albums = (band.discography || []).filter(album =>
+      album.drummer === entry.drummer && isYearInEraPeriod(album.year, entry.period)
+    );
+    return { entry, drummer, albums };
   });
 
   return (
@@ -13617,11 +13645,12 @@ function DrummerHistorySection({ band, drummers, onSelectDrummer, theme }) {
         DRUMMER HISTORY
       </Text>
       <View style={styles.drummerHistoryList}>
-        {resolvedHistory.map(({ entry, drummer }, index) => (
+        {resolvedHistory.map(({ entry, drummer, albums }, index) => (
           <DrummerHistoryItem
             key={`${entry.drummer}-${entry.period}`}
             entry={entry}
             drummer={drummer}
+            albums={albums}
             onSelectDrummer={onSelectDrummer}
             theme={theme}
             isLast={index === resolvedHistory.length - 1}
@@ -31743,6 +31772,19 @@ const styles = StyleSheet.create({
     fontSize: fontSize.sm,
     fontStyle: 'italic',
     marginBottom: spacing[2],      // 8px
+  },
+  drummerHistoryAlbums: {
+    marginBottom: spacing[2],      // 8px
+  },
+  drummerHistoryAlbumsLabel: {
+    fontSize: fontSize.xs,
+    fontWeight: fontWeight.semibold,
+    letterSpacing: 0.5,
+    textTransform: 'uppercase',
+    marginBottom: spacing[1],      // 4px
+  },
+  drummerHistoryAlbumsText: {
+    fontSize: fontSize.sm,
   },
   drummerHistoryLink: {
     marginTop: spacing[1],         // 4px

@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-16 11:31 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-16 12:30 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -32,7 +32,7 @@
 | Channel | Sessions | Users |
 | --- | --- | --- |
 | Direct | 289 | 279 |
-| Organic Search | 159 | 145 |
+| Organic Search | 160 | 145 |
 | Unassigned | 19 | 18 |
 
 ## Search Console — Search performance

@@ -134,6 +134,24 @@
       "priority": "high"
     },
     {
+      "q": "what is a blast beat",
+      "intent": "fact-lookup",
+      "target_entity": "technique:blast-beat",
+      "priority": "high"
+    },
+    {
+      "q": "types of blast beats",
+      "intent": "fact-lookup",
+      "target_entity": "technique:blast-beat",
+      "priority": "medium"
+    },
+    {
+      "q": "what is a gravity blast",
+      "intent": "fact-lookup",
+      "target_entity": "technique:gravity-blast",
+      "priority": "medium"
+    },
+    {
       "q": "metalforge",
       "intent": "brand",
       "target_entity": "site:home",

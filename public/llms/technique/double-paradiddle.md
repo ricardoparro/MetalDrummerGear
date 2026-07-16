@@ -52,6 +52,12 @@ See all [Double Paradiddle drummers on MetalForge](https://metalforge.io/techniq
 **Q: What is a double paradiddle?**
 A: The double paradiddle extends the base paradiddle's four-note idea into a six-note sticking pattern - right, left, right, left, right, right, then left, right, left, right, left, left (RLRLRR LRLRLL) - adding an extra pair of single strokes before the closing double.
 
+**Q: How fast are double paradiddles played?**
+A: Double Paradiddle is typically played around Any.
+
+**Q: Who is the best double paradiddle drummer?**
+A: Mike Mangini (Dream Theater) is among the most cited double paradiddle drummers, alongside Matt Garstka, Danny Carey.
+
 **Q: How do I learn double paradiddle?**
 A: Start by mastering the fundamentals: Master the single paradiddle first, since the double paradiddle simply adds one extra pair of single strokes before the closing double; Say the sticking aloud - "right left right left right right, left right left right left left" - before picking up the sticks; Practice slowly on a pad, keeping all four single strokes even in volume before worrying about the double at the end. Practice consistently with a metronome and increase tempo gradually.
 
@@ -63,6 +69,11 @@ A: Double Paradiddle is rated **intermediate** difficulty and typically operates
 
 **Q: What techniques are related to double paradiddle?**
 A: Closely related techniques include Paradiddle, Paradiddle Diddle, Single Stroke Roll. Mastering these complementary techniques will significantly accelerate your double paradiddle development. Browse all [metal drumming techniques](https://metalforge.io/techniques) for a complete overview.
+
+## Sources
+
+- https://en.wikipedia.org/wiki/Drum_rudiment
+- https://www.pas.org/resources/rudiments
 
 ## More Resources
 
@@ -79,4 +90,4 @@ A: Closely related techniques include Paradiddle, Paradiddle Diddle, Single Stro
 
 ---
 
-*Last updated: 2026-07-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-16 · Source: [MetalForge.io](https://metalforge.io)*

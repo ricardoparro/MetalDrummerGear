@@ -52,6 +52,12 @@ See all [Seven Stroke Roll drummers on MetalForge](https://metalforge.io/techniq
 **Q: What is a seven stroke roll?**
 A: The seven stroke roll extends the same measured-roll logic as the five stroke roll one double further - three double strokes capped by a single accented stroke, RRLLRRL or its mirror LLRRLLR.
 
+**Q: How fast are seven stroke rolls played?**
+A: Seven Stroke Roll is typically played around Any.
+
+**Q: Who is the best seven stroke roll drummer?**
+A: Mike Mangini (Dream Theater) is among the most cited seven stroke roll drummers, alongside Thomas Lang, Gavin Harrison.
+
 **Q: How do I learn seven stroke roll?**
 A: Start by mastering the fundamentals: Confirm the five stroke roll is solid first, since the seven stroke roll is the same technique with one more double stroke added; Say the sticking aloud - "right right left left right right left" - before adding the sticks, to internalize the extra double; Practice all three double strokes at a matched, even volume before worrying about speed. Practice consistently with a metronome and increase tempo gradually.
 
@@ -63,6 +69,11 @@ A: Seven Stroke Roll is rated **beginner** difficulty and typically operates at 
 
 **Q: What techniques are related to seven stroke roll?**
 A: Closely related techniques include Five Stroke Roll, Double Stroke Roll, Rudiments. Mastering these complementary techniques will significantly accelerate your seven stroke roll development. Browse all [metal drumming techniques](https://metalforge.io/techniques) for a complete overview.
+
+## Sources
+
+- https://en.wikipedia.org/wiki/Drum_rudiment
+- https://www.pas.org/resources/rudiments
 
 ## More Resources
 
@@ -78,4 +89,4 @@ A: Closely related techniques include Five Stroke Roll, Double Stroke Roll, Rudi
 
 ---
 
-*Last updated: 2026-07-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-16 · Source: [MetalForge.io](https://metalforge.io)*

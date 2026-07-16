@@ -32,7 +32,7 @@ Linear drumming became prominent through funk and fusion drummers like Gary Chaf
 
 ## Drummers Who Define Linear Drumming
 
-- Matt Garstka (Animals as Leaders) — Modern linear drumming master
+- [Matt Garstka](https://metalforge.io/drummer/matt-garstka) (Animals as Leaders) — Modern linear drumming master
 - [Brann Dailor](https://metalforge.io/drummer/brann-dailor) (Mastodon) — Linear fills and progressive patterns
 - [Matt Halpern](https://metalforge.io/drummer/matt-halpern) (Periphery) — Djent-style linear grooves
 - [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier) (Gojira) — Linear elements in groove metal context
@@ -53,6 +53,12 @@ See all [Linear Drumming drummers on MetalForge](https://metalforge.io/technique
 **Q: What is a linear drumming?**
 A: Linear drumming is a technique where no two limbs strike simultaneously - each note is separated, creating a continuous stream of single attacks.
 
+**Q: How fast are linear drummings played?**
+A: Linear Drumming is typically played around Any.
+
+**Q: Who is the best linear drumming drummer?**
+A: Matt Garstka (Animals as Leaders) is among the most cited linear drumming drummers, alongside Brann Dailor, Matt Halpern, Mario Duplantier.
+
 **Q: How do I learn linear drumming?**
 A: Start by mastering the fundamentals: Start with simple 4-note patterns (kick-hat-snare-hat); Practice RLKH patterns (Right hand, Left hand, Kick, Hi-hat); Use Gary Chaffee's Linear Time Playing book. Practice consistently with a metronome and increase tempo gradually.
 
@@ -64,6 +70,11 @@ A: Linear Drumming is rated **intermediate** difficulty and typically operates a
 
 **Q: What techniques are related to linear drumming?**
 A: Closely related techniques include Polyrhythms, Groove Drumming. Mastering these complementary techniques will significantly accelerate your linear drumming development. Browse all [metal drumming techniques](https://metalforge.io/techniques) for a complete overview.
+
+## Sources
+
+- https://en.wikipedia.org/wiki/Linear_drumming
+- https://en.wikipedia.org/wiki/Matt_Garstka
 
 ## More Resources
 
@@ -78,4 +89,4 @@ A: Closely related techniques include Polyrhythms, Groove Drumming. Mastering th
 
 ---
 
-*Last updated: 2026-07-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-16 · Source: [MetalForge.io](https://metalforge.io)*

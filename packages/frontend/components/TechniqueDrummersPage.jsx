@@ -87,35 +87,38 @@ export function getTechniqueVideo(slug) {
 // CONTENT HELPERS (skeleton — #993 enriches)
 // ==========================================
 
-// Build a self-contained FAQ (≥3 Q&A) from technique data.
+// Build a self-contained FAQ (≥3 Q&A) from technique data. Issue #4767: every
+// technique page needs these three questions, answered strictly from module
+// fields — the "best drummer" question is hedged rather than a bare superlative
+// claim, since the module has no independent ranking to support one.
 export function buildTechniqueFaq(technique) {
   if (!technique) return [];
   const masters = technique.masters || [];
-  const originator = masters[0];
-  const inventedAnswer = originator
-    ? `${technique.title} was pioneered and popularized by drummers such as ${originator.name}${originator.band ? ` (${originator.band})` : ''}. See the full list of masters above.`
-    : `${technique.title} was developed by extreme and progressive metal drummers over decades of innovation.`;
+  const best = masters[0];
+  const bestAnswer = best
+    ? `${best.name}${best.band ? ` (${best.band})` : ''} is among the most cited ${technique.title} drummers, alongside ${masters.slice(1, 4).map(m => m.name).join(', ') || 'other masters of the technique'}. See the full list of masters above.`
+    : `See the complete list of metal drummers known for ${technique.title} on MetalForge.`;
   const howToAnswer = Array.isArray(technique.howToLearn) && technique.howToLearn.length > 0
     ? `Start slowly with a metronome and build up speed. ${technique.howToLearn[0]}`
     : `Practice slowly with a metronome and gradually increase tempo while staying relaxed.`;
   return [
     {
-      question: `What is the ${technique.title} drumming technique?`,
+      question: `What is ${/^[aeiou]/i.test(technique.title) ? 'an' : 'a'} ${technique.title}?`,
       answer: technique.description || `${technique.title} is a metal drumming technique.`,
     },
     {
-      question: `Who are the drummers known for ${technique.title}?`,
-      answer: inventedAnswer,
+      question: `How fast are ${technique.title.toLowerCase()}s played?`,
+      answer: technique.bpmRange
+        ? `${technique.title} is typically played around ${technique.bpmRange}.`
+        : `Tempo for ${technique.title.toLowerCase()} varies widely depending on the song and subgenre.`,
+    },
+    {
+      question: `Who is the best ${technique.title.toLowerCase()} drummer?`,
+      answer: bestAnswer,
     },
     {
       question: `How do you learn ${technique.title}?`,
       answer: howToAnswer,
-    },
-    {
-      question: `What BPM is ${technique.title} played at?`,
-      answer: technique.bpmRange
-        ? `${technique.title} is typically played around ${technique.bpmRange}.`
-        : `Tempo varies widely depending on the song and subgenre.`,
     },
   ];
 }
@@ -157,7 +160,19 @@ export function buildTechniqueDrummersSchema(technique, faq, video) {
     })),
   };
 
-  const schemas = [itemList, faqPage];
+  // Issue #4767: SpeakableSpecification for voice search / AI assistants.
+  const speakable = {
+    '@context': 'https://schema.org',
+    '@type': 'WebPage',
+    url,
+    name: `Drummers Known for ${technique.title}`,
+    speakable: {
+      '@type': 'SpeakableSpecification',
+      cssSelector: ['h1', 'h2', 'p'],
+    },
+  };
+
+  const schemas = [itemList, faqPage, speakable];
 
   if (Array.isArray(technique.howToLearn) && technique.howToLearn.length > 0) {
     schemas.push({

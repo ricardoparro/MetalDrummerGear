@@ -52,6 +52,12 @@ See all [D-Beat drummers on MetalForge](https://metalforge.io/technique/d-beat/d
 **Q: What is a d-beat?**
 A: The D-beat is the driving, syncopated punk drumbeat named after the pioneering UK hardcore band Discharge, built around a galloping bass-and-snare pulse under a steady, often washy hi-hat or crash-ride pattern.
 
+**Q: How fast are d-beats played?**
+A: D-Beat is typically played around 160-220+ BPM.
+
+**Q: Who is the best d-beat drummer?**
+A: Dave Lombardo (Slayer) is among the most cited d-beat drummers, alongside Charlie Benante, Igor Cavalera.
+
 **Q: How do I learn d-beat?**
 A: Start by mastering the fundamentals: Start with the core pattern: bass drum on every downbeat with the snare landing on the off-beats, creating a galloping feel; Keep the hi-hat or ride steady and driving underneath - the pattern lives or dies on consistent time; Practice at a moderate 120-140 BPM first, focusing on evenness before chasing speed. Practice consistently with a metronome and increase tempo gradually.
 
@@ -63,6 +69,11 @@ A: D-Beat is rated **beginner** difficulty and typically operates at 160-220+ BP
 
 **Q: What techniques are related to d-beat?**
 A: Closely related techniques include Blast Beat, Groove Drumming, Double Bass. Mastering these complementary techniques will significantly accelerate your d-beat development. Browse all [metal drumming techniques](https://metalforge.io/techniques) for a complete overview.
+
+## Sources
+
+- https://en.wikipedia.org/wiki/D-beat
+- https://en.wikipedia.org/wiki/Discharge_(band)
 
 ## More Resources
 
@@ -78,4 +89,4 @@ A: Closely related techniques include Blast Beat, Groove Drumming, Double Bass. 
 
 ---
 
-*Last updated: 2026-07-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-16 · Source: [MetalForge.io](https://metalforge.io)*

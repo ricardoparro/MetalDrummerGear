@@ -52,6 +52,12 @@ See all [Paradiddle drummers on MetalForge](https://metalforge.io/technique/para
 **Q: What is a paradiddle?**
 A: The paradiddle is a four-note sticking pattern - right, left, right, right, then left, right, left, left (RLRR LRLL) - that combines two single strokes with a double stroke on each hand.
 
+**Q: How fast are paradiddles played?**
+A: Paradiddle is typically played around Any.
+
+**Q: Who is the best paradiddle drummer?**
+A: Mike Mangini (Dream Theater) is among the most cited paradiddle drummers, alongside Matt Garstka, Gavin Harrison.
+
 **Q: How do I learn paradiddle?**
 A: Start by mastering the fundamentals: Say the sticking out loud first - "right left right right, left right left left" - before picking up the sticks; Practice slowly on a pad, keeping the two single strokes and the double stroke at even volume; Focus on the "diddle" (the double stroke) - it should sound like two clean, equal notes, not one loud hit and one weak bounce. Practice consistently with a metronome and increase tempo gradually.
 
@@ -63,6 +69,11 @@ A: Paradiddle is rated **beginner** difficulty and typically operates at Any. De
 
 **Q: What techniques are related to paradiddle?**
 A: Closely related techniques include Paradiddle Diddle, Rudiments, Hand Foot Independence. Mastering these complementary techniques will significantly accelerate your paradiddle development. Browse all [metal drumming techniques](https://metalforge.io/techniques) for a complete overview.
+
+## Sources
+
+- https://en.wikipedia.org/wiki/Paradiddle
+- https://www.pas.org/resources/rudiments
 
 ## More Resources
 
@@ -78,4 +89,4 @@ A: Closely related techniques include Paradiddle Diddle, Rudiments, Hand Foot In
 
 ---
 
-*Last updated: 2026-07-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-16 · Source: [MetalForge.io](https://metalforge.io)*

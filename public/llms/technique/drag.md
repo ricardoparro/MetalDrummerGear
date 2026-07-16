@@ -52,6 +52,12 @@ See all [Drag (Ruff) drummers on MetalForge](https://metalforge.io/technique/dra
 **Q: What is a drag (ruff)?**
 A: The drag, also called a ruff, is a rudiment built from two quiet grace notes played as a quick double-stroke bounce on one hand, immediately followed by a louder main stroke on the same or opposite hand.
 
+**Q: How fast are drag (ruff)s played?**
+A: Drag (Ruff) is typically played around Any.
+
+**Q: Who is the best drag (ruff) drummer?**
+A: Mike Mangini (Dream Theater) is among the most cited drag (ruff) drummers, alongside Gavin Harrison, Matt Garstka.
+
 **Q: How do I learn drag (ruff)?**
 A: Start by mastering the fundamentals: Isolate the two grace notes first - practice a quiet, quick double-stroke bounce on one hand alone until it sounds even and controlled; Add a single accented main stroke immediately after the grace notes, keeping a clear volume contrast between the soft drag and the loud accent; Practice the drag with the main stroke on the same hand that played the grace notes before trying the opposite-hand version. Practice consistently with a metronome and increase tempo gradually.
 
@@ -63,6 +69,11 @@ A: Drag (Ruff) is rated **beginner** difficulty and typically operates at Any. D
 
 **Q: What techniques are related to drag (ruff)?**
 A: Closely related techniques include Double Stroke Roll, Paradiddle, Rudiments. Mastering these complementary techniques will significantly accelerate your drag (ruff) development. Browse all [metal drumming techniques](https://metalforge.io/techniques) for a complete overview.
+
+## Sources
+
+- https://en.wikipedia.org/wiki/Drum_rudiment
+- https://www.pas.org/resources/rudiments
 
 ## More Resources
 
@@ -78,4 +89,4 @@ A: Closely related techniques include Double Stroke Roll, Paradiddle, Rudiments.
 
 ---
 
-*Last updated: 2026-07-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-16 · Source: [MetalForge.io](https://metalforge.io)*

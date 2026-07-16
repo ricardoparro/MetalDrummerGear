@@ -109,6 +109,13 @@ function renderTechnique(t) {
     parts.push('');
   }
 
+  if (Array.isArray(t.sources) && t.sources.length > 0) {
+    parts.push('### Sources');
+    parts.push('');
+    parts.push(bullet(t.sources));
+    parts.push('');
+  }
+
   return parts.join('\n');
 }
 

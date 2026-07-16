@@ -52,6 +52,12 @@ See all [Single Stroke Roll drummers on MetalForge](https://metalforge.io/techni
 **Q: What is a single stroke roll?**
 A: The single stroke roll is the simplest and most fundamental of all drumming rudiments: a continuous alternation between the right and left hand (RLRL...), with each stroke struck individually rather than bounced or combined with the opposite hand.
 
+**Q: How fast are single stroke rolls played?**
+A: Single Stroke Roll is typically played around Any.
+
+**Q: Who is the best single stroke roll drummer?**
+A: Pete Sandoval (Morbid Angel) is among the most cited single stroke roll drummers, alongside George Kollias, Mike Mangini.
+
 **Q: How do I learn single stroke roll?**
 A: Start by mastering the fundamentals: Start painfully slow - alternate right and left hand strokes on a pad at a tempo where every note is completely even; Focus on matching volume and tone between hands - most single-stroke problems come from a dominant hand overpowering the other; Keep strokes small and relaxed rather than lifting high and forcing power into every hit. Practice consistently with a metronome and increase tempo gradually.
 
@@ -63,6 +69,11 @@ A: Single Stroke Roll is rated **beginner** difficulty and typically operates at
 
 **Q: What techniques are related to single stroke roll?**
 A: Closely related techniques include Blast Beat, Gravity Blast, One Handed Roll. Mastering these complementary techniques will significantly accelerate your single stroke roll development. Browse all [metal drumming techniques](https://metalforge.io/techniques) for a complete overview.
+
+## Sources
+
+- https://en.wikipedia.org/wiki/Drum_rudiment
+- https://en.wikipedia.org/wiki/Pete_Sandoval
 
 ## More Resources
 
@@ -78,4 +89,4 @@ A: Closely related techniques include Blast Beat, Gravity Blast, One Handed Roll
 
 ---
 
-*Last updated: 2026-07-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-16 · Source: [MetalForge.io](https://metalforge.io)*

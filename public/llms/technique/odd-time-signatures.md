@@ -37,7 +37,7 @@ Odd meters entered rock through progressive bands like King Crimson, Yes, and Ru
 - [Danny Carey](https://metalforge.io/drummer/danny-carey) (Tool) — Makes odd times feel completely natural
 - [Mike Portnoy](https://metalforge.io/drummer/mike-portnoy) (Dream Theater) — Technical mastery of complex meters
 - [Brann Dailor](https://metalforge.io/drummer/brann-dailor) (Mastodon) — Progressive odd-time fills
-- Matt Garstka (Animals as Leaders) — Modern prog-metal odd time innovator
+- [Matt Garstka](https://metalforge.io/drummer/matt-garstka) (Animals as Leaders) — Modern prog-metal odd time innovator
 - [Tomas Haake](https://metalforge.io/drummer/tomas-haake) (Meshuggah) — Odd groupings over 4/4 foundation
 - [Chris Adler](https://metalforge.io/drummer/chris-adler) (Lamb of God) — Groove metal in complex meters
 
@@ -57,6 +57,12 @@ See all [Odd Time Signatures drummers on MetalForge](https://metalforge.io/techn
 **Q: What is a odd time signatures?**
 A: Odd time signatures move beyond the standard 4/4 meter that dominates rock and pop music.
 
+**Q: How fast are odd time signaturess played?**
+A: Odd Time Signatures is typically played around Any.
+
+**Q: Who is the best odd time signatures drummer?**
+A: Danny Carey (Tool) is among the most cited odd time signatures drummers, alongside Mike Portnoy, Brann Dailor, Matt Garstka.
+
 **Q: How do I learn odd time signatures?**
 A: Start by mastering the fundamentals: Feel odd meters as grouped beats (7/8 = 4+3 or 3+4); Tap your foot on the "1" of each measure while counting; Start with 5/4 - it's closest to 4/4 with an extra beat. Practice consistently with a metronome and increase tempo gradually.
 
@@ -68,6 +74,11 @@ A: Odd Time Signatures is rated **intermediate** difficulty and typically operat
 
 **Q: What techniques are related to odd time signatures?**
 A: Closely related techniques include Polyrhythms, Double Bass. Mastering these complementary techniques will significantly accelerate your odd time signatures development. Browse all [metal drumming techniques](https://metalforge.io/techniques) for a complete overview.
+
+## Sources
+
+- https://en.wikipedia.org/wiki/Odd_time_signature
+- https://en.wikipedia.org/wiki/Danny_Carey
 
 ## More Resources
 
@@ -82,4 +93,4 @@ A: Closely related techniques include Polyrhythms, Double Bass. Mastering these 
 
 ---
 
-*Last updated: 2026-07-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-16 · Source: [MetalForge.io](https://metalforge.io)*

@@ -52,6 +52,12 @@ See all [Five Stroke Roll drummers on MetalForge](https://metalforge.io/techniqu
 **Q: What is a five stroke roll?**
 A: The five stroke roll is a double-stroke-based rudiment built from two double strokes capped by a single accented stroke - RRLLR or its mirror, LLRRL.
 
+**Q: How fast are five stroke rolls played?**
+A: Five Stroke Roll is typically played around Any.
+
+**Q: Who is the best five stroke roll drummer?**
+A: Mike Mangini (Dream Theater) is among the most cited five stroke roll drummers, alongside Gavin Harrison, Thomas Lang.
+
 **Q: How do I learn five stroke roll?**
 A: Start by mastering the fundamentals: Master the double stroke roll first (RRLL) since the five stroke roll is simply two of those doubles capped by a single stroke; Say the sticking aloud - "right right left left right" - and isolate the final accented stroke before adding speed; Practice the two doubles at a controlled, even volume, then land the fifth stroke with a clear, distinct accent. Practice consistently with a metronome and increase tempo gradually.
 
@@ -63,6 +69,11 @@ A: Five Stroke Roll is rated **beginner** difficulty and typically operates at A
 
 **Q: What techniques are related to five stroke roll?**
 A: Closely related techniques include Double Stroke Roll, Seven Stroke Roll, Rudiments. Mastering these complementary techniques will significantly accelerate your five stroke roll development. Browse all [metal drumming techniques](https://metalforge.io/techniques) for a complete overview.
+
+## Sources
+
+- https://en.wikipedia.org/wiki/Drum_rudiment
+- https://www.pas.org/resources/rudiments
 
 ## More Resources
 
@@ -78,4 +89,4 @@ A: Closely related techniques include Double Stroke Roll, Seven Stroke Roll, Rud
 
 ---
 
-*Last updated: 2026-07-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-16 · Source: [MetalForge.io](https://metalforge.io)*

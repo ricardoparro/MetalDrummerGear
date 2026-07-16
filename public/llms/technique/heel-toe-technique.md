@@ -51,6 +51,12 @@ See all [Heel-Toe Technique drummers on MetalForge](https://metalforge.io/techni
 **Q: What is a heel-toe technique?**
 A: Heel-toe technique is a bass drum pedal method that produces two beater strokes from a single downward leg motion, using the ball of the foot for an initial toe stroke and a quick heel-drop rebound for a second stroke immediately after.
 
+**Q: How fast are heel-toe techniques played?**
+A: Heel-Toe Technique is typically played around Any.
+
+**Q: Who is the best heel-toe technique drummer?**
+A: George Kollias (Nile) is among the most cited heel-toe technique drummers, alongside Derek Roddy, Gene Hoglan.
+
 **Q: How do I learn heel-toe technique?**
 A: Start by mastering the fundamentals: Set your pedal up with a longboard or extended footboard - a short standard board makes the heel-drop hard to control; Place your whole foot flat on the footboard, with the ball resting near the beater pivot point; Press down with the ball of the foot for the first (toe) stroke. Practice consistently with a metronome and increase tempo gradually.
 
@@ -62,6 +68,11 @@ A: Heel-Toe Technique is rated **intermediate** difficulty and typically operate
 
 **Q: What techniques are related to heel-toe technique?**
 A: Closely related techniques include Double Bass, Hand Foot Independence. Mastering these complementary techniques will significantly accelerate your heel-toe technique development. Browse all [metal drumming techniques](https://metalforge.io/techniques) for a complete overview.
+
+## Sources
+
+- https://en.wikipedia.org/wiki/Heel-toe_technique
+- https://en.wikipedia.org/wiki/George_Kollias_(drummer)
 
 ## More Resources
 
@@ -76,4 +87,4 @@ A: Closely related techniques include Double Bass, Hand Foot Independence. Maste
 
 ---
 
-*Last updated: 2026-07-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-16 · Source: [MetalForge.io](https://metalforge.io)*

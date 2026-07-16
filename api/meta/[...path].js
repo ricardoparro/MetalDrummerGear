@@ -552,6 +552,14 @@ function escapeHtml(str) {
     .replace(/'/g, '&#039;');
 }
 
+// Helper: Extract an 11-char YouTube video ID from a watch/short URL (techniques.js
+// stores full URLs, unlike the lick data which stores youtubeId directly).
+function extractYouTubeId(url) {
+  if (!url) return null;
+  const match = url.match(/(?:youtube\.com\/watch\?v=|youtu\.be\/)([a-zA-Z0-9_-]{11})/);
+  return match ? match[1] : null;
+}
+
 // Generate meta tags for path
 function getMetaForPath(pathname) {
   const path = pathname.toLowerCase();
@@ -1409,51 +1417,98 @@ function getMetaForPath(pathname) {
     const slug = path.replace('/technique/', '');
     const technique = getTechniqueBySlug(slug);
     if (technique) {
+      const techMasters = technique.masters || [];
+      // Issue #4767: hedge the "best" drummer question — module data can't support
+      // a definitive superlative claim, so answer strictly from the masters list.
+      const bestMaster = techMasters[0];
+      const bestAnswer = bestMaster
+        ? `${bestMaster.name}${bestMaster.band ? ` (${bestMaster.band})` : ''} is among the most cited ${technique.title} drummers, alongside ${techMasters.slice(1, 4).map(m => m.name).join(', ') || 'other masters of the technique'}. See the full list on MetalForge.`
+        : `See the complete list of metal drummers known for ${technique.title} on MetalForge.`;
+      // Issue #4767 (absorbing #4520): only emit a video graph node / iframe when
+      // the source URL actually resolves to a YouTube ID — never fabricate one.
+      const firstVideo = (technique.videos || []).find(v => extractYouTubeId(v.url));
+      const videoId = firstVideo ? extractYouTubeId(firstVideo.url) : null;
+      const graph = [
+        {
+          '@type': 'Article',
+          headline: `${technique.title} — Metal Drumming Technique`,
+          description: truncate(technique.description, 250),
+          url: `${BASE_URL}/technique/${slug}`,
+          publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
+        },
+        {
+          '@type': 'DefinedTerm',
+          '@id': `${BASE_URL}/technique/${slug}#term`,
+          name: technique.title,
+          description: truncate(technique.description, 250),
+          url: `${BASE_URL}/technique/${slug}`,
+          inDefinedTermSet: {
+            '@type': 'DefinedTermSet',
+            '@id': `${BASE_URL}/techniques#termset`,
+            name: 'Metal Drumming Techniques Glossary',
+            url: `${BASE_URL}/techniques`,
+          },
+        },
+        {
+          '@type': 'HowTo',
+          name: `How to Play ${technique.title}`,
+          description: truncate(technique.description, 250),
+          step: technique.howToLearn.map((s, i) => ({
+            '@type': 'HowToStep',
+            position: i + 1,
+            text: s,
+          })),
+        },
+      ];
+      if (videoId) {
+        graph.push({
+          '@type': 'VideoObject',
+          name: firstVideo.title,
+          description: `${firstVideo.title} — ${technique.title} demonstrated for metal drummers.`,
+          thumbnailUrl: `https://i.ytimg.com/vi/${videoId}/hqdefault.jpg`,
+          contentUrl: firstVideo.url,
+          embedUrl: `https://www.youtube.com/embed/${videoId}`,
+        });
+      }
       return {
         title: `${technique.title} — Metal Drumming Technique | ${SITE_NAME}`,
         description: truncate(`Learn ${technique.title.toLowerCase()} in metal drumming: ${technique.description}. See who plays it and how.`, 160),
         image: `${BASE_URL}/images/og/techniques-preview.png`,
         type: 'article',
         url: `${BASE_URL}/technique/${slug}`,
+        // Issue #4767 (#3698 pattern): real crawlable <iframe> in the SSR body
+        // matching the VideoObject embedUrl above, not schema-only markup.
+        videoEmbed: videoId ? { youtubeId: videoId, title: firstVideo.title } : null,
         articleSchema: JSON.stringify({
           '@context': 'https://schema.org',
-          '@graph': [
-            {
-              '@type': 'Article',
-              headline: `${technique.title} — Metal Drumming Technique`,
-              description: truncate(technique.description, 250),
-              url: `${BASE_URL}/technique/${slug}`,
-              publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
-            },
-            {
-              '@type': 'DefinedTerm',
-              '@id': `${BASE_URL}/technique/${slug}#term`,
-              name: technique.title,
-              description: truncate(technique.description, 250),
-              url: `${BASE_URL}/technique/${slug}`,
-              inDefinedTermSet: {
-                '@type': 'DefinedTermSet',
-                '@id': `${BASE_URL}/techniques#termset`,
-                name: 'Metal Drumming Techniques Glossary',
-                url: `${BASE_URL}/techniques`,
-              },
-            },
-            {
-              '@type': 'HowTo',
-              name: `How to Play ${technique.title}`,
-              description: truncate(technique.description, 250),
-              step: technique.howToLearn.map((s, i) => ({
-                '@type': 'HowToStep',
-                position: i + 1,
-                text: s,
-              })),
-            },
-          ],
+          '@graph': graph,
         }),
         breadcrumbSchema: [
           { name: 'Home', url: BASE_URL },
           { name: 'Techniques', url: `${BASE_URL}/techniques` },
           { name: technique.title, url: `${BASE_URL}/technique/${slug}` },
+        ],
+        // Issue #4767: SpeakableSpecification for voice search / AI assistants —
+        // the generic SSR body only ever renders h1/h2/p, same as other routes.
+        speakableSchema: true,
+        speakableCssSelector: ['h1', 'h2', 'p'],
+        // Issue #4767: FAQPage JSON-LD answered strictly from module fields —
+        // what/how-fast/who-is-best, the three questions every technique page needs.
+        faqSchema: [
+          {
+            question: `What is ${technique.title}?`,
+            answer: technique.description,
+          },
+          {
+            question: `How fast are ${technique.title.toLowerCase()}s played?`,
+            answer: technique.bpmRange
+              ? `${technique.title} is typically played around ${technique.bpmRange}.`
+              : `Tempo for ${technique.title.toLowerCase()} varies widely depending on the song and subgenre.`,
+          },
+          {
+            question: `Who is the best ${technique.title.toLowerCase()} drummer?`,
+            answer: bestAnswer,
+          },
         ],
         ssrLinks: [
           { href: '/techniques', label: 'All Techniques' },
@@ -1520,16 +1575,26 @@ function getMetaForPath(pathname) {
           { name: technique.title, url: `${BASE_URL}/technique/${slug}` },
           { name: 'Drummers', url: `${BASE_URL}/technique/${slug}/drummers` },
         ],
-        // Issue #1310: FAQPage JSON-LD for PAA box eligibility on technique pages
+        // Issue #4767: SpeakableSpecification for voice search / AI assistants.
+        speakableSchema: true,
+        speakableCssSelector: ['h1', 'h2', 'p'],
+        // Issue #1310 (extended #4767): FAQPage JSON-LD for PAA box eligibility —
+        // what/how-fast/who-is-best answered strictly from module fields, plus gear.
         faqSchema: [
           {
             question: `What is ${technique.title}?`,
             answer: techniqueDesc,
           },
           {
-            question: `Which metal drummers are best known for ${technique.title}?`,
+            question: `How fast are ${technique.title.toLowerCase()}s played?`,
+            answer: technique.bpmRange
+              ? `${technique.title} is typically played around ${technique.bpmRange}.`
+              : `Tempo for ${technique.title.toLowerCase()} varies widely depending on the song and subgenre.`,
+          },
+          {
+            question: `Who is the best ${technique.title.toLowerCase()} drummer?`,
             answer: masters.length > 0
-              ? `${drummerNameList} are known for ${technique.title}.`
+              ? `${masters[0].name}${masters[0].band ? ` (${masters[0].band})` : ''} is among the most cited ${technique.title} drummers, alongside ${drummerNameList.split(', ').slice(1, 4).join(', ') || 'other masters of the technique'}.`
               : `See the complete list of metal drummers known for ${technique.title} on MetalForge.`,
           },
           {

@@ -59,6 +59,12 @@ See all [Triggered Drums drummers on MetalForge](https://metalforge.io/technique
 **Q: What is a triggered drums?**
 A: Drum triggers convert acoustic drum hits into electronic signals, allowing drummers to enhance, replace, or augment their acoustic sound with samples.
 
+**Q: How fast are triggered drumss played?**
+A: Triggered Drums is typically played around Any.
+
+**Q: Who is the best triggered drums drummer?**
+A: Tomas Haake (Meshuggah) is among the most cited triggered drums drummers, alongside Gene Hoglan, Joey Jordison, George Kollias.
+
 **Q: How do I learn triggered drums?**
 A: Start by mastering the fundamentals: Start with a quality trigger module (Roland TM-2, ddrum); Position triggers correctly on the drum head; Adjust sensitivity to avoid double-triggering. Practice consistently with a metronome and increase tempo gradually.
 
@@ -70,6 +76,11 @@ A: Triggered Drums is rated **intermediate** difficulty and typically operates a
 
 **Q: What techniques are related to triggered drums?**
 A: Closely related techniques include Blast Beat, Double Bass. Mastering these complementary techniques will significantly accelerate your triggered drums development. Browse all [metal drumming techniques](https://metalforge.io/techniques) for a complete overview.
+
+## Sources
+
+- https://en.wikipedia.org/wiki/Trigger_(drums)
+- https://en.wikipedia.org/wiki/Meshuggah
 
 ## More Resources
 
@@ -84,4 +95,4 @@ A: Closely related techniques include Blast Beat, Double Bass. Mastering these c
 
 ---
 
-*Last updated: 2026-07-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-16 · Source: [MetalForge.io](https://metalforge.io)*

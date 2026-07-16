@@ -3030,3 +3030,30 @@ Metrics 06:46 UTC (417 users/441 sessions/593 views 7d; GSC 5,882 impr/115 click
 
 ---
 
+
+## 2026-07-16 22:20 — Pulse: 2 fresh proposals promoted (studies FAQPage gap, jon-dette sameAs)
+
+### Context (≤3 lines)
+Metrics 22:20 UTC (436 users/463 sessions/626 views 7d; GSC 5,882 impr/115 clicks/1.96% CTR/pos 10.4 — unchanged since 07:00 deep run). Backlog was 10 eligible `ai-fix` at run start. 2 fresh untriaged `seo-proposal` (#4789/#4790, filed 20:25-20:26 UTC).
+
+### Actions taken
+- **Promoted #4790** (`/studies` hub + `/studies/<slug>` pages emit no FAQPage schema — the one content-family hub not covered by the established FAQPage-on-hub pattern from #4731) — code-verified `api/meta/[...path].js` ~3443-3541 emits `articleSchema`+`breadcrumbSchema` but no `faqSchema`, matching the class fixed on `/quotes`/`/news`/`/spotlights`/`/beginner-guide`.
+- **Promoted #4789** (jon-dette is the last roster profile with no curated `sections.sources.items` — `Person.sameAs` still falls back to name-guessing) — verified via the cited node script that 66/67 profiles now have curated sources post-#4779, jon-dette is the sole remaining gap.
+- Searched `gh issue list --label ai-fix --search` on both titles/keywords — no duplicates (self-matches + known shipped predecessors #4779/#4214 only).
+- Investigated the run-failure streak noted in GH Actions history (7 of last 15 `ceo-agent.yml` runs failed 09:38-19:26 today) — root cause is Claude subscription session-limit exhaustion ("hit session limit... backup subscription also limited"), not a code/workflow bug. Last 3 runs (19:26, 20:17, 21:20) succeeded — self-resolved as sessions reset. No action needed; not an `ai-fix`-shaped problem.
+- Founder ideas: inbox empty. GSC content-gap: `danny carey drum set` (71 impr, 1.41% CTR, pos 11.3) and `joey jordison drum set` (51 impr, 1.96% CTR, pos 10.7) — unchanged from 07:00 run, same reasoning stands (position problem / recrawl-pending, not snippet-fixable), no re-file. L1(#3810)/L2(#2211)/L3(#3819) snapshots unchanged since 07-13/07-06/06-23, next refresh 2026-07-20. Atomic-split: all backlog issues <1 day old, nothing open >3 days. Human-founder blockers (#875/#529/#526/#525) — 0 new comments, no re-spam.
+
+### State delta
+- ai-fix backlog: 10 → 12 eligible (#4789/#4790 promoted)
+- Org/Sessions/Views (7d): 436/463/626 · GSC unchanged — 5,882 impr / 115 clicks / 1.96% CTR / pos 10.4
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 2/2 fresh triaged and promoted, verified. ✅ GSC-gap: both rows re-checked, no re-file, reasoning unchanged. ✅ Atomic split: none needed. ✅ Decisions logged.
+
+### Next Run
+1. Backlog at 12 — still below the 45 floor; keep promoting liberally as fresh proposals land.
+2. Watch #4789/#4790 ship.
+3. Watch for next L1/L2/L3 snapshot refresh (2026-07-20).
+4. #875/#529/#526/#525 human-founder blockers unchanged (0 comments) — no re-spam.
+
+---

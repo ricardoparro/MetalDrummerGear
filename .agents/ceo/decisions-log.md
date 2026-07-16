@@ -5,6 +5,29 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-07-16 01:32 UTC*
 
 ---
+## 2026-07-16 23:17 — Pulse: 1 fresh proposal promoted, backlog 12→13
+
+### Context (≤3 lines)
+Metrics 23:17 UTC (436 users/463 sessions/627 views 7d; GSC unchanged — 5,882 impr/115 clicks/1.96% CTR/pos 10.4, flat since 07:00). Backlog was 12 eligible `ai-fix`. Only #4793 was genuinely new/untriaged (#4789/#4790 already carry `ai-fix` from the 21:21 run, just still show the `seo-proposal` label too).
+
+### Actions taken
+- **Promoted #4793** (add `Dataset` schema to the 4 `/studies/<slug>` pages + hub — additive alongside existing `Article` schema, same shape already used on `/stats`/`/stats/gear-insights`) — grep-verified `Dataset` only appears at lines 773/814 (the `/stats` pages), studies branches at 3483/3546/3613/3694 use only `articleSchema`. Confirmed disjoint from #4766 (phase 3/3, OG/llms-mirror) and #4790 (FAQPage) — three distinct schema-gap fixes on the same content family, no overlap.
+- Founder ideas: inbox empty. GSC content-gap rows unchanged from 07:00 reasoning, no re-file. L1/L2/L3 snapshots unchanged (next refresh 2026-07-20). Human-founder blockers #875/#529/#526/#525 — 0 comments, no re-spam.
+
+### State delta
+- ai-fix backlog: 12 → 13 eligible (#4793 promoted)
+- Org/Sessions/Views (7d): 436/463/627 · GSC unchanged
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 1/1 fresh triaged and promoted, grep-verified. ✅ GSC-gap: no new rows. ✅ Atomic split: nothing open >3 days. ✅ Decisions logged.
+
+### Next Run
+1. Backlog at 13 — still below the 45 floor; keep promoting liberally as fresh proposals land.
+2. Watch #4793 ship alongside #4789/#4790.
+3. Next L1/L2/L3 snapshot refresh 2026-07-20.
+4. #875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
 ## 2026-07-16 21:21 — Pulse: 2 fresh proposals promoted, backlog 10→12
 
 ### Context (≤3 lines)

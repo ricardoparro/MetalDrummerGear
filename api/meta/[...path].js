@@ -3977,6 +3977,8 @@ function getMetaForPath(pathname) {
         })) : null,
         quickFacts,
         quickFactsName: drummer.name,
+        speakableSchema: true,
+        speakableCssSelector: ['h1', 'h2', 'p'],
         breadcrumbSchema: [
           { name: 'Home', url: BASE_URL },
           { name: 'Drummers', url: `${BASE_URL}/drummers` },

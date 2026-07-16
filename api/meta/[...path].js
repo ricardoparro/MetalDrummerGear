@@ -1157,12 +1157,25 @@ function getMetaForPath(pathname) {
 
   // Beginner guide (legacy path)
   if (path === '/beginner-guide') {
+    // Issue #4731: crawlable links to the budget-tiered sub-guides and 3
+    // beginner-friendly drummers cited in the default guide's kit/technique
+    // recommendations — this route previously had zero outbound ssrLinks.
+    const beginnerGuideSsrLinks = _dedupeSsrLinksByHref([
+      { href: '/gear-by-budget', label: 'Metal Drum Kit by Budget' },
+      { href: '/guides/beginner-metal-drummer-setup', label: 'Beginner Metal Drummer Setup Under $1000' },
+      { href: '/guides/budget-metal-drum-setup-500', label: 'Budget Metal Drum Setup Under $500' },
+      ...['Joey Jordison', 'Gene Hoglan', 'Lars Ulrich']
+        .map(name => getDrummerBySlug(_normalizeDrummerSlug(name)))
+        .filter(Boolean)
+        .map(d => ({ href: `/drummer/${_normalizeDrummerSlug(d.name)}`, label: d.name })),
+    ]);
     return {
       title: `Metal Drumming Beginner's Guide | ${SITE_NAME}`,
       description: 'Start your metal drumming journey! Essential gear recommendations, technique basics, and tips from legendary drummers.',
       image: `${BASE_URL}/images/og/beginner-guide-preview.png`,
       type: 'article',
       url: `${BASE_URL}/beginner-guide`,
+      ssrLinks: beginnerGuideSsrLinks,
       articleSchema: JSON.stringify({
         '@context': 'https://schema.org',
         '@type': 'Article',
@@ -1172,6 +1185,20 @@ function getMetaForPath(pathname) {
         image: `${BASE_URL}/images/og/beginner-guide-preview.png`,
         publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
       }),
+      faqSchema: [
+        {
+          question: 'What gear should a beginner metal drummer buy first?',
+          answer: 'Start with a solid intermediate-quality drum kit and a basic crash/ride/hi-hat cymbal set before investing in specialty gear like double kick pedals or splash cymbals — MetalForge\'s beginner guide at /guides/beginner-metal-drummer-setup breaks down a complete kit, cymbals, and hardware for under $1000.',
+        },
+        {
+          question: 'How much does a beginner metal drum kit cost?',
+          answer: 'A complete beginner metal drum kit — including cymbals, hardware, and a double kick pedal — runs about $1000 per MetalForge\'s budget breakdown at /guides/beginner-metal-drummer-setup, with a leaner $500 setup covered at /guides/budget-metal-drum-setup-500.',
+        },
+        {
+          question: "What's the easiest metal drumming technique to learn first?",
+          answer: 'The single stroke roll (alternating RLRL strokes) is the foundational technique every metal drummer should master first — it builds the coordination needed for fast fills and, eventually, blast beats, and drummers like Dave Lombardo and Gene Hoglan built their speed on it.',
+        },
+      ],
     };
   }
 
@@ -1278,6 +1305,20 @@ function getMetaForPath(pathname) {
         url: `${BASE_URL}/news`,
         publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
       }),
+      faqSchema: [
+        {
+          question: 'How often is MetalForge news updated?',
+          answer: 'MetalForge\'s /news hub aggregates gear announcements and endorsement deals continuously as drummers change equipment or sign with new brands — see /gear-news and /endorsement-news for the full breakdown by category.',
+        },
+        {
+          question: 'What kind of drummer news does MetalForge track?',
+          answer: 'MetalForge tracks gear changes, endorsement deals, band lineup shifts, and equipment releases across 67 pro metal drummers — currently 21 gear-news entries at /gear-news and 6 endorsement announcements at /endorsement-news.',
+        },
+        {
+          question: 'Where can I find the latest gear endorsement changes?',
+          answer: 'The latest endorsement deals and brand sponsorship changes are tracked at /endorsement-news, with each entry cross-linked to the relevant drummer\'s gear profile.',
+        },
+      ],
     };
   }
 
@@ -3766,6 +3807,20 @@ function getMetaForPath(pathname) {
         url: `${BASE_URL}/spotlights`,
         publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
       }),
+      faqSchema: [
+        {
+          question: 'What is a MetalForge drummer spotlight?',
+          answer: 'A MetalForge spotlight is an in-depth feature on a metal drumming legend covering their gear evolution, career milestones, and equipment breakdown — browse the current spotlight roster at /spotlights.',
+        },
+        {
+          question: 'Which drummers have spotlight features?',
+          answer: `/spotlights currently features ${drummers.filter(d => d.spotlight).map(d => d.name).join(', ').replace(/,([^,]*)$/, ', and$1')}, with more spotlight profiles added regularly from MetalForge's roster of ${drummers.length} pro drummers.`,
+        },
+        {
+          question: 'How are spotlight drummers selected?',
+          answer: 'Spotlight drummers are selected for their influence on metal drumming technique and gear innovation — each spotlight links out to that drummer\'s full gear breakdown at /drummer/<slug>.',
+        },
+      ],
     };
   }
 
@@ -3808,6 +3863,20 @@ function getMetaForPath(pathname) {
           })),
         },
       }),
+      faqSchema: [
+        {
+          question: 'Who has the best drum quotes in metal?',
+          answer: `MetalForge's /quotes hub curates ${allQuotes.length} quotes from legendary metal drummers, including Lars Ulrich (Metallica), Dave Lombardo (Slayer), Joey Jordison, Gene Hoglan, and Tomas Haake (Meshuggah), spanning their thoughts on gear, technique, and the craft of drumming.`,
+        },
+        {
+          question: 'What do metal drummers say about their gear?',
+          answer: 'Metal drummers on MetalForge share candid takes on gear choices, from cymbal selection to double bass pedal setups — browse the full /quotes collection alongside each drummer\'s dedicated gear profile at /drummer/<slug>.',
+        },
+        {
+          question: 'Where can I find quotes from Lars Ulrich?',
+          answer: "Lars Ulrich's quotes on drumming, gear, and Metallica's evolution are featured on the /quotes hub, with his full gear breakdown available at /drummer/lars-ulrich.",
+        },
+      ],
     };
   }
 

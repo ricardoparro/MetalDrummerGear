@@ -4388,6 +4388,11 @@ function getMetaForPath(pathname) {
       image: DEFAULT_IMAGE,
       type: 'website',
       url,
+      // Issue #4736: link down to every brand-detail page (reverse of ssrLinks in drumstickBrandMatch below).
+      ssrLinks: DRUMSTICK_BRANDS.map((b) => ({
+        href: `/drumsticks/brands/${b.slug}`,
+        label: b.name,
+      })),
       articleSchema: JSON.stringify(generateBrandsHubSchema()),
     };
   }
@@ -4555,6 +4560,11 @@ function getMetaForPath(pathname) {
       image: DEFAULT_IMAGE,
       type: 'website',
       url,
+      // Issue #4736: link down to every brand-detail page.
+      ssrLinks: CYMBAL_BRANDS.map((b) => ({
+        href: `/cymbals/brands/${b.slug}`,
+        label: b.name,
+      })),
       articleSchema: JSON.stringify(generateCymbalBrandsHubSchema()),
     };
   }
@@ -4729,6 +4739,11 @@ function getMetaForPath(pathname) {
       image: DEFAULT_IMAGE,
       type: 'website',
       url,
+      // Issue #4736: link down to every brand-detail page.
+      ssrLinks: SNARE_BRANDS.map((b) => ({
+        href: `/snares/brands/${b.slug}`,
+        label: b.name,
+      })),
       articleSchema: JSON.stringify(generateSnareBrandsHubSchema()),
     };
   }
@@ -4880,6 +4895,11 @@ function getMetaForPath(pathname) {
       image: DEFAULT_IMAGE,
       type: 'website',
       url,
+      // Issue #4736: link down to every brand-detail page.
+      ssrLinks: PEDAL_BRANDS.map((b) => ({
+        href: `/pedals/brands/${b.slug}`,
+        label: b.name,
+      })),
       articleSchema: JSON.stringify(generatePedalBrandsHubSchema()),
     };
   }

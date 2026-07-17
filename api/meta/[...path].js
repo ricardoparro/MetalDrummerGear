@@ -5535,6 +5535,8 @@ export function getMetaForPath(pathname) {
           { name: 'Songs', url: `${BASE_URL}/songs` },
           { name: tier.label, url: `${BASE_URL}/songs/tempo/${tier.slug}` },
         ],
+        speakableSchema: true,
+        speakableCssSelector: ['h1', 'h2', 'p'],
       };
     }
     // Unknown tier slug falls through to the default 404 meta below.
@@ -5588,6 +5590,8 @@ export function getMetaForPath(pathname) {
           { name: 'Songs', url: `${BASE_URL}/songs` },
           { name: drummerName, url: `${BASE_URL}/songs/drummer/${drummerSlug}` },
         ],
+        speakableSchema: true,
+        speakableCssSelector: ['h1', 'h2', 'p'],
       };
     }
     // Unqualified slug (not a roster drummer, or fewer than 3 songs) falls
@@ -5665,6 +5669,8 @@ export function getMetaForPath(pathname) {
           { name: 'Songs', url: `${BASE_URL}/songs` },
           { name: song.song, url: songUrl },
         ],
+        speakableSchema: true,
+        speakableCssSelector: ['h1', 'h2', 'p'],
       };
     }
     // Nonexistent or under-gate slug falls through to the default 404 meta below.

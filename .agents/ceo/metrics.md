@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-17 15:26 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-17 16:25 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -10,28 +10,28 @@
 | --- | --- |
 | Active users | 421 |
 | Sessions | 446 |
-| Page views | 714 |
+| Page views | 732 |
 | Engagement rate | 31.84% |
-| Avg session (s) | 264 |
+| Avg session (s) | 284 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 136 | 88 |
-| /drummer/lars-ulrich | 47 | 42 |
+| / | 138 | 88 |
+| /drummer/lars-ulrich | 49 | 42 |
 | /drumsticks | 43 | 35 |
 | /cymbals | 34 | 34 |
 | /lists/fastest-metal-drummers | 22 | 23 |
 | /articles/master-of-puppets-drum-setup | 21 | 21 |
 | /drummers | 21 | 3 |
-| /tools | 12 | 2 |
-| /drummer/dave-lombardo | 10 | 2 |
+| /tools | 14 | 2 |
+| /drummer/dave-lombardo | 12 | 2 |
 | /drummer/bill-ward | 9 | 5 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Direct | 289 | 279 |
+| Direct | 290 | 280 |
 | Organic Search | 152 | 138 |
 | Unassigned | 9 | 8 |
 

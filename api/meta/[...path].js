@@ -3456,6 +3456,22 @@ function getMetaForPath(pathname) {
         href: `/studies/${s.slug}`,
         label: s.title,
       })),
+      // Issue #4790: FAQPage JSON-LD — /studies was the only hub-type page family
+      // (see #4731 for /quotes, /news, /spotlights, /beginner-guide) without one.
+      faqSchema: [
+        {
+          question: 'What are MetalForge’s data studies?',
+          answer: `MetalForge's studies are data-driven analyses of gear, technique, and tempo trends computed from the site's documented roster of metal drummers using a build-time stats engine. Currently ${STUDIES.length} studies are published, covering brand usage, tempo by subgenre, endorsements, and kit configurations.`,
+        },
+        {
+          question: 'How is the data verified?',
+          answer: 'Every number in a MetalForge study traces back to structured drummer and gear records maintained in the site’s dataset, not estimates. Each study page documents its methodology and dataset size so the underlying counts can be checked.',
+        },
+        {
+          question: 'How often are studies updated?',
+          answer: 'Studies are regenerated from the current dataset whenever the underlying drummer roster or gear records change, and each study page lists its last-updated date.',
+        },
+      ],
       articleSchema: JSON.stringify({
         '@context': 'https://schema.org',
         '@type': 'CollectionPage',
@@ -3522,6 +3538,14 @@ function getMetaForPath(pathname) {
           href: `/drummer/${d.slug}`,
           label: `${d.name} (${d.band})`,
         })),
+        // Issue #4790: FAQPage JSON-LD — headline stat pulled straight from the
+        // computed kits ranking, not generic filler.
+        faqSchema: [
+          {
+            question: 'Which drum brand is most used by metal drummers?',
+            answer: `${categories.kits.ranked[0].brand} is the most-used drum kit brand among metal drummers, played by ${categories.kits.ranked[0].count} of the ${totalDrummers} drummers documented on MetalForge (${categories.kits.ranked[0].percent}%).`,
+          },
+        ],
         articleSchema: {
           headline: study.seoTitle,
           description: study.description,
@@ -3592,6 +3616,14 @@ function getMetaForPath(pathname) {
           href: `/drummer/${d.slug}`,
           label: d.name,
         })),
+        // Issue #4790: FAQPage JSON-LD — cites the computed death-metal vs.
+        // all-genre average BPM, matching the study's own headline question.
+        faqSchema: [
+          {
+            question: 'How fast is death metal compared to other metal subgenres?',
+            answer: `Across the ${totalSongs} songs in MetalForge's tempo database, death metal averages ${genres.find(g => g.genre === 'death-metal')?.avgBpm ?? 'a high'} BPM (${genres.find(g => g.genre === 'death-metal')?.songCount ?? 0} songs analyzed), well above the all-genre average of ${TEMPO_BY_SUBGENRE.overall.avgBpm} BPM.`,
+          },
+        ],
         articleSchema: {
           headline: study.seoTitle,
           description: study.description,
@@ -3673,6 +3705,14 @@ function getMetaForPath(pathname) {
           href: `/drummer/${d.slug}`,
           label: `${d.name} (${d.band})`,
         })),
+        // Issue #4790: FAQPage JSON-LD — headline stat pulled from the computed
+        // brand-reach ranking.
+        faqSchema: [
+          {
+            question: 'Which brand endorses the most metal drummers?',
+            answer: `${brandReach[0].brand} reaches the most metal drummers of any brand tracked by MetalForge, endorsed by ${brandReach[0].count} of the ${totalDrummers} documented drummers (${brandReach[0].percent}%).`,
+          },
+        ],
         articleSchema: {
           headline: study.seoTitle,
           description: study.description,
@@ -3758,6 +3798,14 @@ function getMetaForPath(pathname) {
           href: `/drummer/${c.drummerSlug}`,
           label: `${c.drummerName} (${c.band})`,
         })),
+        // Issue #4790: FAQPage JSON-LD — headline stat pulled from the computed
+        // pedal-configuration breakdown.
+        faqSchema: [
+          {
+            question: 'Do most metal drummers use double bass or double pedal?',
+            answer: `Double pedal is by far the most common bass-drum configuration among metal drummers, used by ${pedalConfig.overall.doublePedal} of the ${totalDrummers} documented drummers on MetalForge (${Math.round((pedalConfig.overall.doublePedal / totalDrummers) * 1000) / 10}%), well ahead of true double bass (twin kicks) and single-pedal setups.`,
+          },
+        ],
         articleSchema: {
           headline: study.seoTitle,
           description: study.description,

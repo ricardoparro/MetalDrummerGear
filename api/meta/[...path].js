@@ -1141,6 +1141,9 @@ export function getMetaForPath(pathname) {
         articleSchema: howToSchema ? JSON.stringify(howToSchema) : null,
         // Issue #2202: FAQPage schema alongside HowTo for AI Overview + voice search unlock.
         faqSchema: guide?.faq?.length ? guide.faq : null,
+        // Issue #4833: SpeakableSpecification for voice search / AI assistants.
+        speakableSchema: true,
+        speakableCssSelector: ['h1', 'h2', 'p'],
         breadcrumbSchema: [
           { name: 'Home', url: BASE_URL },
           { name: 'Guides', url: `${BASE_URL}/guides` },
@@ -1169,6 +1172,9 @@ export function getMetaForPath(pathname) {
           '@graph': [howTo, faq].filter(Boolean),
         }),
         faqSchema: guide.faq || null,
+        // Issue #4833: SpeakableSpecification for voice search / AI assistants.
+        speakableSchema: true,
+        speakableCssSelector: ['h1', 'h2', 'p'],
         breadcrumbSchema: [
           { name: 'Home', url: BASE_URL },
           { name: 'Guides', url: `${BASE_URL}/guides` },
@@ -1222,6 +1228,9 @@ export function getMetaForPath(pathname) {
           { name: genreGuide.title, url: `${BASE_URL}/guides/${genreGuide.slug}` },
         ],
         faqSchema: genreGuide.faq || null,
+        // Issue #4833: SpeakableSpecification for voice search / AI assistants.
+        speakableSchema: true,
+        speakableCssSelector: ['h1', 'h2', 'p'],
       };
     }
     return {

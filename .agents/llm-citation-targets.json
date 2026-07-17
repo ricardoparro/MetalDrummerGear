@@ -234,6 +234,30 @@
       "intent": "fact-lookup",
       "target_entity": "studies:metal-kit-configurations",
       "priority": "medium"
+    },
+    {
+      "q": "what bpm is master of puppets",
+      "intent": "fact-lookup",
+      "target_entity": "song:master-of-puppets",
+      "priority": "high"
+    },
+    {
+      "q": "fastest metal song",
+      "intent": "comparative",
+      "target_entity": "lists:fastest-metal-songs",
+      "priority": "high"
+    },
+    {
+      "q": "what bpm is raining blood",
+      "intent": "fact-lookup",
+      "target_entity": "song:raining-blood",
+      "priority": "medium"
+    },
+    {
+      "q": "how fast is enter sandman",
+      "intent": "fact-lookup",
+      "target_entity": "song:enter-sandman",
+      "priority": "medium"
     }
   ]
 }

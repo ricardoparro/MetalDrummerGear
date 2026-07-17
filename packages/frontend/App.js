@@ -214,6 +214,57 @@ function getAlbumArticleBySlug(slug) { return _albumArticlesModule?.getAlbumArti
 function getAllAlbumArticles() { return _albumArticlesModule?.getAllAlbumArticles() || []; }
 function isAlbumArticleSlug(slug) { return _albumArticlesModule?.isAlbumArticleSlug(slug) || false; }
 
+// Metal Songs BPM database (songs epic #4758, phase 4/4, Issue #4762) - lazy
+// loaded like the modules above so its dataset never joins the main bundle;
+// data/metalSongsBpm.js's own header says it must only ever be imported from
+// lazy chunks. Used to link DrummerDetail, the album-article renderer
+// (TopListPage), and BpmTapPage into the /songs surface without re-deriving
+// the content-richness gate (getSongPageSlugs) anywhere else.
+let _metalSongsModule = null;
+let _metalSongsLoadPromise = null;
+let _songPageSlugByTitle = null; // Map<"band||song" normalized, slug> - qualifying songs only
+let _songPagesByDrummerAlbum = null; // Map<"drummer||album" normalized, {song,slug,bpm}[]>
+const loadMetalSongsBpm = () => import('./data/metalSongsBpm');
+const normalizeSongKey = (s) => (s || '').toLowerCase().replace(/[^a-z0-9]+/g, ' ').trim();
+
+function preloadMetalSongsBpm() {
+  if (!_metalSongsLoadPromise) {
+    _metalSongsLoadPromise = loadMetalSongsBpm().then(m => {
+      _metalSongsModule = m;
+      const qualifying = new Set(m.getSongPageSlugs());
+      _songPageSlugByTitle = new Map();
+      _songPagesByDrummerAlbum = new Map();
+      for (const s of m.metalSongs) {
+        if (!qualifying.has(s.slug)) continue;
+        _songPageSlugByTitle.set(`${normalizeSongKey(s.band)}||${normalizeSongKey(s.song)}`, s.slug);
+        const albumKey = `${s.drummer}||${normalizeSongKey(s.album)}`;
+        if (!_songPagesByDrummerAlbum.has(albumKey)) _songPagesByDrummerAlbum.set(albumKey, []);
+        _songPagesByDrummerAlbum.get(albumKey).push({ song: s.song, slug: s.slug, bpm: s.bpm });
+      }
+      return m;
+    });
+  }
+  return _metalSongsLoadPromise;
+}
+// Drummer -> their /songs/drummer/<slug> list page, only once they clear
+// DRUMMER_SONGS_MIN_COUNT (same bar SongsListPages.jsx's SongsByDrummerPage
+// itself is built around) - never link a drummer with just 1-2 songs.
+function getSongsDrummerPageInfo(drummerSlug) {
+  if (!_metalSongsModule) return null;
+  const entry = _metalSongsModule.getDrummersWithSongCounts().find(d => d.drummer === drummerSlug);
+  return entry ? { slug: drummerSlug, count: entry.count } : null;
+}
+// Looks up a qualifying /songs/<slug> for a (band, song title) pair - for
+// matching datasets that don't carry metalSongsBpm.js's own `slug` field
+// (BpmTapPage's separate METAL_SONGS_DATABASE).
+function getSongPageSlugForTitle(band, song) {
+  return _songPageSlugByTitle?.get(`${normalizeSongKey(band)}||${normalizeSongKey(song)}`) || null;
+}
+// Qualifying song pages for a given drummer+album, for album-article backlinks.
+function getSongPagesForDrummerAlbum(drummerSlug, albumTitle) {
+  return _songPagesByDrummerAlbum?.get(`${drummerSlug}||${normalizeSongKey(albumTitle)}`) || [];
+}
+
 // Quiz Share Buttons Component (Issue #678)
 import { QuizShareButtons, trackQuizShare } from './components/QuizShareButtons';
 
@@ -2955,6 +3006,9 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
   const [isLoading, setIsLoading] = useState(true);
   const [expandedDrummers, setExpandedDrummers] = useState({});
   const [isAlbumArticle, setIsAlbumArticle] = useState(false);
+  // Issue #4762 (songs epic #4758, phase 4/4): qualifying /songs/<slug> pages
+  // for songs from this album, keyed off the live metalSongsBpm.js gate.
+  const [relatedSongPages, setRelatedSongPages] = useState([]);
 
   // Load list data lazily - check album articles first, then top10 lists
   useEffect(() => {
@@ -2970,6 +3024,12 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
         setList(albumArticle);
         setIsAlbumArticle(true);
         setIsLoading(false);
+        // Issue #4762: link this album's songs to their /songs/<slug> pages, where they qualify
+        if (albumArticle.relatedDrummerSlug && albumArticle.albumTitle) {
+          preloadMetalSongsBpm().then(() => {
+            setRelatedSongPages(getSongPagesForDrummerAlbum(albumArticle.relatedDrummerSlug, albumArticle.albumTitle));
+          });
+        }
         return;
       }
       
@@ -4077,6 +4137,27 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
                 <Text style={styles.relatedContentEmoji}>💿</Text>
                 <Text style={[styles.relatedContentLinkText, { color: theme.text }]}>
                   {albumSlug.replace(/-drum-setup$/, '').replace(/-/g, ' ')}
+                </Text>
+              </TouchableOpacity>
+            ))}
+            {/* Songs from this album — Issue #4762 (songs epic #4758, phase 4/4):
+                only songs that clear the content-richness gate get linked. */}
+            {relatedSongPages.map((s) => (
+              <TouchableOpacity
+                key={s.slug}
+                style={[styles.relatedContentLink, { backgroundColor: theme.background, borderColor: theme.border }]}
+                onPress={() => {
+                  if (Platform.OS === 'web') {
+                    window.history.pushState({}, '', `/songs/${s.slug}`);
+                    window.dispatchEvent(new PopStateEvent('popstate'));
+                  }
+                }}
+                accessibilityRole="link"
+                accessibilityLabel={`View ${s.song} BPM & drummer page`}
+              >
+                <Text style={styles.relatedContentEmoji}>🎵</Text>
+                <Text style={[styles.relatedContentLinkText, { color: theme.text }]}>
+                  {s.song} ({s.bpm} BPM)
                 </Text>
               </TouchableOpacity>
             ))}
@@ -7529,6 +7610,11 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
   // hand-listed here).
   const [drummerTechniques, setDrummerTechniques] = useState([]);
 
+  // Issue #4762 (songs epic #4758, phase 4/4): Songs chip - link to this
+  // drummer's /songs/drummer/<slug> list page once they clear the
+  // qualifying-count bar in data/metalSongsBpm.js.
+  const [drummerSongsPage, setDrummerSongsPage] = useState(null);
+
   useEffect(() => {
     let mounted = true;
     preloadExtendedBios().then(() => {
@@ -7555,6 +7641,10 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
     // Issue #4768: Preload techniques data and find techniques this drummer masters
     preloadTechniques().then((mod) => {
       if (mounted) setDrummerTechniques(mod.getTechniquesForDrummer(drummerSlug));
+    });
+    // Issue #4762: Preload songs data and check for a qualifying /songs/drummer/<slug> page
+    preloadMetalSongsBpm().then(() => {
+      if (mounted) setDrummerSongsPage(getSongsDrummerPageInfo(drummerSlug));
     });
     // Issue #1357: Load album articles and build reverse lookup
     // Issue #3829: no cap here - every matching article must be linkable from
@@ -7851,6 +7941,61 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
                 </TouchableOpacity>
               );
             })}
+          </View>
+        </View>
+      )}
+
+      {/* Songs chip - Issue #4762 (songs epic #4758, phase 4/4): link to this
+          drummer's /songs/drummer/<slug> list page once they clear the
+          qualifying-count bar (getDrummersWithSongCounts) in data/metalSongsBpm.js. */}
+      {drummerSongsPage && (
+        <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border }]}>
+          <Text style={[styles.sectionTitle, { color: theme.text }]} accessibilityRole="header">Songs</Text>
+          <View style={[styles.flexRowWrap, styles.gap2]}>
+            {(() => {
+              const songsUrl = `/songs/drummer/${drummerSongsPage.slug}`;
+              const handleSongsPress = () => {
+                if (typeof window !== 'undefined') {
+                  window.history.pushState({}, '', songsUrl);
+                  window.dispatchEvent(new PopStateEvent('popstate'));
+                }
+              };
+              const chipStyle = {
+                backgroundColor: theme.primary + '20',
+                borderColor: theme.primary,
+                borderWidth: 1,
+                paddingHorizontal: 14,
+                paddingVertical: 10,
+                borderRadius: 8,
+              };
+              return Platform.OS === 'web' ? (
+                <a
+                  href={songsUrl}
+                  onClick={(e) => {
+                    e.preventDefault();
+                    handleSongsPress();
+                  }}
+                  style={{ textDecoration: 'none' }}
+                >
+                  <View style={chipStyle}>
+                    <Text style={{ color: theme.primary, fontWeight: '600' }}>
+                      🎵 {drummerSongsPage.count} Songs by BPM
+                    </Text>
+                  </View>
+                </a>
+              ) : (
+                <TouchableOpacity
+                  style={chipStyle}
+                  onPress={handleSongsPress}
+                  accessibilityRole="link"
+                  accessibilityLabel={`View ${drummer.name}'s songs by BPM`}
+                >
+                  <Text style={{ color: theme.primary, fontWeight: '600' }}>
+                    🎵 {drummerSongsPage.count} Songs by BPM
+                  </Text>
+                </TouchableOpacity>
+              );
+            })()}
           </View>
         </View>
       )}
@@ -12821,6 +12966,21 @@ function BpmTapPage({ theme, onBack, drummers, onSelectDrummer }) {
   const [selectedGenre, setSelectedGenre] = useState('');
   const [bpmRange, setBpmRange] = useState({ min: 0, max: 300 });
   const [sortBy, setSortBy] = useState('bpm');
+  // Issue #4762 (songs epic #4758, phase 4/4): once data/metalSongsBpm.js's
+  // qualifying-song index loads, matched rows below link to their /songs/<slug> page.
+  const [songPagesReady, setSongPagesReady] = useState(false);
+  useEffect(() => {
+    let mounted = true;
+    preloadMetalSongsBpm().then(() => { if (mounted) setSongPagesReady(true); });
+    return () => { mounted = false; };
+  }, []);
+  const handleSongPagePress = useCallback((slug, e) => {
+    if (e) e.stopPropagation();
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.history.pushState({}, '', `/songs/${slug}`);
+      window.dispatchEvent(new PopStateEvent('popstate'));
+    }
+  }, []);
   
   // Get unique genres from database
   const genres = useMemo(() => {
@@ -13075,26 +13235,49 @@ function BpmTapPage({ theme, onBack, drummers, onSelectDrummer }) {
           <Text style={[styles.bpmMatchingTitle, { color: theme.text }]}>
             🎯 Songs near {bpm} BPM
           </Text>
-          {matchingSongs.map((song, idx) => (
-            <TouchableOpacity
-              key={`${song.band}-${song.song}-${idx}`}
-              style={[styles.bpmSongCard, { borderColor: theme.border }]}
-              onPress={() => {
-                const drummer = drummers.find(d => d.name === song.drummer);
-                if (drummer) onSelectDrummer(drummer.id);
-              }}
-            >
-              <View style={styles.bpmSongInfo}>
-                <Text style={[styles.bpmSongName, { color: theme.text }]}>{song.song}</Text>
-                <Text style={[styles.bpmSongBand, { color: theme.secondaryText }]}>
-                  {song.band} • {song.drummer}
-                </Text>
-              </View>
-              <View style={[styles.bpmSongBpm, { backgroundColor: getBpmCategory(song.bpm).color }]}>
-                <Text style={styles.bpmSongBpmText}>{song.bpm}</Text>
-              </View>
-            </TouchableOpacity>
-          ))}
+          {matchingSongs.map((song, idx) => {
+            const songPageSlug = songPagesReady ? getSongPageSlugForTitle(song.band, song.song) : null;
+            return (
+              <TouchableOpacity
+                key={`${song.band}-${song.song}-${idx}`}
+                style={[styles.bpmSongCard, { borderColor: theme.border }]}
+                onPress={() => {
+                  const drummer = drummers.find(d => d.name === song.drummer);
+                  if (drummer) onSelectDrummer(drummer.id);
+                }}
+              >
+                <View style={styles.bpmSongInfo}>
+                  <Text style={[styles.bpmSongName, { color: theme.text }]}>{song.song}</Text>
+                  <Text style={[styles.bpmSongBand, { color: theme.secondaryText }]}>
+                    {song.band} • {song.drummer}
+                  </Text>
+                  {/* Issue #4762: matched song already has a /songs/<slug> page */}
+                  {songPageSlug && (
+                    Platform.OS === 'web' ? (
+                      <a
+                        href={`/songs/${songPageSlug}`}
+                        onClick={(e) => { e.preventDefault(); e.stopPropagation(); handleSongPagePress(songPageSlug); }}
+                        style={{ textDecoration: 'none' }}
+                      >
+                        <Text style={[styles.bpmSongPageLink, { color: theme.primary }]}>View song page →</Text>
+                      </a>
+                    ) : (
+                      <TouchableOpacity
+                        onPress={(e) => handleSongPagePress(songPageSlug, e)}
+                        accessibilityRole="link"
+                        accessibilityLabel={`View ${song.song} song page`}
+                      >
+                        <Text style={[styles.bpmSongPageLink, { color: theme.primary }]}>View song page →</Text>
+                      </TouchableOpacity>
+                    )
+                  )}
+                </View>
+                <View style={[styles.bpmSongBpm, { backgroundColor: getBpmCategory(song.bpm).color }]}>
+                  <Text style={styles.bpmSongBpmText}>{song.bpm}</Text>
+                </View>
+              </TouchableOpacity>
+            );
+          })}
         </View>
       )}
       
@@ -13199,13 +13382,14 @@ function BpmTapPage({ theme, onBack, drummers, onSelectDrummer }) {
           {filteredSongs.slice(0, 50).map((song, idx) => {
             const category = getBpmCategory(song.bpm);
             const drummer = drummers.find(d => d.name === song.drummer);
-            
+            const songPageSlug = songPagesReady ? getSongPageSlugForTitle(song.band, song.song) : null;
+
             return (
               <TouchableOpacity
                 key={`${song.band}-${song.song}-${idx}`}
-                style={[styles.bpmSongListItem, { 
-                  backgroundColor: theme.card, 
-                  borderColor: theme.border 
+                style={[styles.bpmSongListItem, {
+                  backgroundColor: theme.card,
+                  borderColor: theme.border
                 }]}
                 onPress={() => {
                   if (drummer) onSelectDrummer(drummer.id);
@@ -13225,6 +13409,26 @@ function BpmTapPage({ theme, onBack, drummers, onSelectDrummer }) {
                   <Text style={[styles.bpmSongDrummer, { color: theme.secondaryText }]} numberOfLines={1}>
                     🥁 {song.drummer}
                   </Text>
+                  {/* Issue #4762: matched song already has a /songs/<slug> page */}
+                  {songPageSlug && (
+                    Platform.OS === 'web' ? (
+                      <a
+                        href={`/songs/${songPageSlug}`}
+                        onClick={(e) => { e.preventDefault(); e.stopPropagation(); handleSongPagePress(songPageSlug); }}
+                        style={{ textDecoration: 'none' }}
+                      >
+                        <Text style={[styles.bpmSongPageLink, { color: theme.primary }]}>View song page →</Text>
+                      </a>
+                    ) : (
+                      <TouchableOpacity
+                        onPress={(e) => handleSongPagePress(songPageSlug, e)}
+                        accessibilityRole="link"
+                        accessibilityLabel={`View ${song.song} song page`}
+                      >
+                        <Text style={[styles.bpmSongPageLink, { color: theme.primary }]}>View song page →</Text>
+                      </TouchableOpacity>
+                    )
+                  )}
                 </View>
                 <View style={[styles.bpmSongGenreBadge, { backgroundColor: theme.background }]}>
                   <Text style={[styles.bpmSongGenreText, { color: theme.secondaryText }]}>
@@ -38248,6 +38452,11 @@ const styles = StyleSheet.create({
   bpmSongBand: {
     fontSize: 14,
     marginTop: 2,
+  },
+  bpmSongPageLink: {
+    fontSize: 13,
+    fontWeight: '600',
+    marginTop: 4,
   },
   bpmSongBpm: {
     paddingHorizontal: 12,

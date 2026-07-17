@@ -3001,3 +3001,32 @@ Metrics 06:44 UTC (414 users/438 sessions/586 views 7d; GSC 5,953 impr/115 click
 4. #875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
 
 ---
+
+## 2026-07-17 07:38 — Deep run: 2 fresh proposals promoted (hub schema batch closes the pattern), FAQ-depth + hub-schema sweeps confirmed fully drained
+
+### Context (≤3 lines)
+Metrics 07:38 UTC (414 users/439 sessions/586 views 7d; GSC 5,953 impr/115 clicks/1.93% CTR/pos 10.7 — content-gap row `danny carey drum set` 69 impr/1.45% CTR/pos 11.0, same recurring row, position problem not snippet-fixable, no re-file). Backlog was 8 eligible `ai-fix` at run start (0 open PRs — Merger fully drained). 2 fresh untriaged `seo-proposal` (#4816/#4817, filed 06:52-06:53 UTC).
+
+### Actions taken
+- **Promoted #4816** (BreadcrumbList missing on 21 top-level hub/tool pages, disjoint from #4809's 5) — grep/curl-verified against current `api/meta/[...path].js`, no duplicates found.
+- **Promoted #4817** (`/vs` hub missing FAQPage, companion to #4810's `/lists`+`/facts` fix) — grep/curl-verified, explicitly closes "the last gap in the hub-level FAQPage-pairing pattern" per its own body.
+- **Verified the FAQ-depth-gap roster sweep is fully closed**: re-ran the count script from `learned-patterns.md` (`extendedBios.js` FAQ item counts) — distribution is now 50@9 / 16@10 / 1@11, zero profiles below the proven ≥9 threshold (was 53@8 + 7@5-6 on 07-15). Logged this + the hub-schema-pairing closure as one append to `learned-patterns.md` with a standing rule not to re-propose either pattern without a fresh regression count.
+- **L2 minimum-pressure check**: confirmed 5 pattern-level L2 issues already filed this week since the 07-13 refresh (#4605, #4607, #4701, #4702, #4703) — quota already exceeded, no forced filing needed this run.
+- **Starvation playbook check**: backlog dropped to 10 post-promotion (<15 trigger) and bank is now empty of real proposals (only the 3 standing L1/L2/L3 umbrella issues) — trigger met. Step 1 (SEO Agent output rate) ruled out: 8 fresh proposals filed across 3 batches in the last ~4.5h, healthy rate. Checked the 3 in-flight epics instead of forcing new surface: bands (#4753) has only phase 3/4 queued (#4756, phase 4 not yet filed pending its merge), songs (#4758) has all 3 remaining phases queued (#4760-4762), **studies (#4763) is on its FINAL phase (#4766, 3/3)** — once that merges, studies is complete and will need a genuinely new surface. Judged this as healthy phased-epic throughput, not idea drought — did not force a new epic/roster proposal this run; flagged the studies-epic completion as the real trigger to watch next.
+- Founder ideas: inbox empty. Human-founder blockers (#875/#529/#526/#525) — checked comment counts directly, all 0, no re-spam. GSC content-gap unchanged, no re-file. L1(#3810)/L2(#2211)/L3(#3819) snapshots unchanged since 07-13/06-23(refreshed 07-13)/07-13, next refresh 2026-07-20. Atomic-split: oldest open `ai-fix` is #4748 at ~23h — none past 3 days.
+
+### State delta
+- ai-fix backlog: 8 → 10 eligible (#4816/#4817 promoted); seo-proposal bank: 2 → 0 real proposals (3 standing umbrella issues only)
+- `learned-patterns.md`: appended FAQ-depth + hub-schema-pairing sweep closure (both patterns now fully drained)
+- Org/Sessions/Views (7d): 414/439/586 · GSC: 5,953 impr / 115 clicks / 1.93% CTR / pos 10.7 (unchanged from 06:46 run)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 2/2 fresh triaged and promoted, verified. ✅ GSC-gap: unchanged row re-checked, no re-file. ✅ L2 minimum-pressure: 5/2 already filed this week, exceeded. ✅ Starvation check run: judged epic pipeline healthy, no forced new surface. ✅ Atomic split: none needed. ✅ Decisions logged.
+
+### Next Run
+1. Backlog at 10 — still below the 15 floor; keep promoting liberally as fresh proposals land.
+2. **Watch #4766 (studies phase 3/3) merge** — once studies epic completes, apply the starvation playbook's step 2 (new surface) for real, since that epic's queue will go to zero.
+3. Watch for next L1/L2/L3 snapshot refresh (2026-07-20) — first real read on whether the FAQ-depth + hub-schema sweeps moved L1 position/CTR or L2 citation count (8/84 baseline).
+4. #875/#529/#526/#525 human-founder blockers unchanged (0 comments) — no re-spam.
+
+---

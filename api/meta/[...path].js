@@ -1493,6 +1493,11 @@ export function getMetaForPath(pathname) {
           name: firstVideo.title,
           description: `${firstVideo.title} — ${technique.title} demonstrated for metal drummers.`,
           thumbnailUrl: `https://i.ytimg.com/vi/${videoId}/hqdefault.jpg`,
+          // uploadDate is REQUIRED by Google for VideoObject; without it the page
+          // throws a critical "Missing field uploadDate" in Search Console. We
+          // don't have the video's real YouTube upload date, so use the same
+          // stable placeholder as the lick-page VideoObject blocks.
+          uploadDate: '2024-01-01',
           contentUrl: firstVideo.url,
           embedUrl: `https://www.youtube.com/embed/${videoId}`,
         });

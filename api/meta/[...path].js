@@ -3497,6 +3497,35 @@ function getMetaForPath(pathname) {
           dateModified: s.dateModified,
         })),
       }),
+      // Issue #4793: additive Dataset block — union of all 4 studies' variables,
+      // hasPart referencing each study's URL (mirrors the CollectionPage hasPart above).
+      datasetSchema: {
+        name: 'MetalForge Studies',
+        description: 'Data-driven studies analyzing gear, technique, and trends across MetalForge’s documented roster of metal drummers.',
+        url: `${BASE_URL}/studies`,
+        dateModified: STUDIES.reduce((latest, s) => (s.dateModified > latest ? s.dateModified : latest), STUDIES[0].dateModified),
+        variableMeasured: [
+          'Drum kit brand usage %',
+          'Cymbal brand usage %',
+          'Snare brand usage %',
+          'Drumstick brand usage %',
+          'Pedal brand usage %',
+          'Average BPM by subgenre',
+          'Median BPM by subgenre',
+          'BPM range by subgenre',
+          'Brand reach % of roster',
+          'Signature model count by brand',
+          'Kit brand usage by genre',
+          'Bass pedal configuration %',
+          'Cymbal setup size distribution',
+          'Shell configuration frequency',
+        ],
+        hasPart: STUDIES.map(s => ({
+          '@type': 'Dataset',
+          name: s.seoTitle,
+          url: `${BASE_URL}/studies/${s.slug}`,
+        })),
+      },
     };
   }
 
@@ -3567,6 +3596,19 @@ function getMetaForPath(pathname) {
             '@type': 'Thing',
             name: `${categories[key].label} brand usage among metal drummers`,
           })),
+        },
+        datasetSchema: {
+          name: study.seoTitle,
+          description: study.description,
+          url: `${BASE_URL}/studies/${studySlug}`,
+          dateModified: generatedAt,
+          variableMeasured: [
+            'Drum kit brand usage %',
+            'Cymbal brand usage %',
+            'Snare brand usage %',
+            'Drumstick brand usage %',
+            'Pedal brand usage %',
+          ],
         },
         breadcrumbSchema: [
           { name: 'Home', url: BASE_URL },
@@ -3642,6 +3684,17 @@ function getMetaForPath(pathname) {
           dateModified: generatedAt,
           articleSection: 'Studies',
           about: genres.slice(0, 8).map(g => ({ '@type': 'Thing', name: `${g.label} drumming tempo` })),
+        },
+        datasetSchema: {
+          name: study.seoTitle,
+          description: study.description,
+          url: `${BASE_URL}/studies/${studySlug}`,
+          dateModified: generatedAt,
+          variableMeasured: [
+            'Average BPM by subgenre',
+            'Median BPM by subgenre',
+            'BPM range by subgenre',
+          ],
         },
         breadcrumbSchema: [
           { name: 'Home', url: BASE_URL },
@@ -3731,6 +3784,17 @@ function getMetaForPath(pathname) {
           dateModified: generatedAt,
           articleSection: 'Studies',
           about: brandReach.slice(0, 8).map(b => ({ '@type': 'Thing', name: `${b.brand} drummer endorsements` })),
+        },
+        datasetSchema: {
+          name: study.seoTitle,
+          description: study.description,
+          url: `${BASE_URL}/studies/${studySlug}`,
+          dateModified: generatedAt,
+          variableMeasured: [
+            'Brand reach % of roster',
+            'Signature model count by brand',
+            'Kit brand usage by genre',
+          ],
         },
         breadcrumbSchema: [
           { name: 'Home', url: BASE_URL },
@@ -3826,6 +3890,17 @@ function getMetaForPath(pathname) {
           about: [
             { '@type': 'Thing', name: 'Double bass vs double pedal drum kit configurations' },
             { '@type': 'Thing', name: 'Metal drum cymbal setup size' },
+          ],
+        },
+        datasetSchema: {
+          name: study.seoTitle,
+          description: study.description,
+          url: `${BASE_URL}/studies/${studySlug}`,
+          dateModified: generatedAt,
+          variableMeasured: [
+            'Bass pedal configuration %',
+            'Cymbal setup size distribution',
+            'Shell configuration frequency',
           ],
         },
         breadcrumbSchema: [
@@ -5805,6 +5880,32 @@ ${JSON.stringify(schema, null, 2)}
   </script>`;
 }
 
+// Generate Dataset JSON-LD (Issue #4793: /studies pages present tabulated
+// statistical data — Dataset is additive alongside the existing Article schema)
+function generateDatasetSchema(meta) {
+  if (!meta.datasetSchema) return '';
+
+  const schemas = (Array.isArray(meta.datasetSchema) ? meta.datasetSchema : [meta.datasetSchema]).map(ds => ({
+    '@context': 'https://schema.org',
+    '@type': 'Dataset',
+    name: ds.name,
+    description: ds.description,
+    url: ds.url,
+    creator: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
+    dateModified: ds.dateModified,
+    variableMeasured: ds.variableMeasured,
+    ...(ds.hasPart ? { hasPart: ds.hasPart } : {}),
+    spatialCoverage: 'Global',
+    temporalCoverage: '1980/..',
+  }));
+
+  return schemas.map(schema => `
+  <!-- Dataset Structured Data (Issue #4793) -->
+  <script type="application/ld+json">
+${JSON.stringify(schema)}
+  </script>`).join('');
+}
+
 // Generate Person JSON-LD for pages comparing/listing multiple drummers
 // (Issue #4462: /battles/<slug> head-to-head pages)
 function generatePersonSchema(meta) {
@@ -5834,6 +5935,7 @@ function generateMetaHtml(meta, originalUrl) {
   const faqSchemaScript = generateFaqSchema(meta);
   const personSchemaScript = generatePersonSchema(meta);
   const speakableSchemaScript = generateSpeakableSchema(meta);
+  const datasetSchemaScript = generateDatasetSchema(meta);
   
   return `<!DOCTYPE html>
 <html lang="en" prefix="og: https://ogp.me/ns#">
@@ -5895,6 +5997,7 @@ function generateMetaHtml(meta, originalUrl) {
   <!-- Theme Color -->
   <meta name="theme-color" content="#dc2626">
   ${articleSchemaScript}
+  ${datasetSchemaScript}
   ${breadcrumbSchemaScript}
   ${faqSchemaScript}
   ${personSchemaScript}

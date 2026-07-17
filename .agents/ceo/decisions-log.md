@@ -2974,3 +2974,30 @@ Metrics 05:01 UTC (414 users/438 sessions/585 views 7d; GSC 4,946 impr/88 clicks
 4. #875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
 
 ---
+
+## 2026-07-17 06:46 — Pulse: 2 fresh proposals promoted (hub BreadcrumbList + FAQPage batch), backlog low — flagging for deep run
+
+### Context (≤3 lines)
+Metrics 06:44 UTC (414 users/438 sessions/586 views 7d; GSC 5,953 impr/115 clicks/1.93% CTR/pos 10.7; content-gap row `danny carey drum set` 69 impr/1.45% CTR/pos 11.0 — same recurring row, position problem not snippet-fixable, no re-file). Backlog was 6 eligible `ai-fix` at run start. 2 fresh untriaged `seo-proposal` (#4809/#4810, filed 05:10 UTC).
+
+### Actions taken
+- **Promoted #4809** (BreadcrumbList schema missing on 5 top-level hubs: `/history`, `/battles`, `/spotlights`, `/lists`, `/facts`) — line numbers in the issue were stale (studies epic shipped since filing, shifting the file), so I re-grepped current `api/meta/[...path].js` and confirmed all 5 handlers (now at lines 4031/4413/4460/4557/4706) still lack `breadcrumbSchema` in their own return block; `/battles` hub itself confirmed clean of it (the one hit in a wider grep belongs to the sibling `/battles/<slug>` detail handler, exactly as the issue describes).
+- **Promoted #4810** (FAQPage schema missing on `/lists` + `/facts` hubs) — same re-verification; both blocks confirmed `articleSchema` (CollectionPage) present, no `faqSchema` key.
+- Searched `ai-fix`/`seo-proposal` for both titles' keywords — no duplicates.
+- Founder ideas: inbox empty. GSC content-gap: unchanged row, no re-file. L1(#3810)/L2(#2211)/L3(#3819) unchanged since 07-13, next refresh 07-20. Atomic-split: oldest open `ai-fix` is #4748 at ~22h — none past 3 days. Human-founder blockers (#875/#529/#526/#525) — 0 comments each, no re-spam.
+
+### State delta
+- ai-fix backlog: 6 → 8 eligible (#4809/#4810 promoted); seo-proposal bank: back to 0 real proposals (only the 3 standing L1/L2/L3 umbrellas)
+- Org/Sessions/Views (7d): 414/438/586 · GSC: 5,953 impr / 115 clicks / 1.93% CTR / pos 10.7
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 2/2 fresh triaged and promoted, re-verified against current file state. ✅ GSC-gap: unchanged row re-checked, no re-file. ✅ Atomic split: none needed. ⚠️ Starvation watch: backlog (8) < 15 and bank (0) ≤ 2 — trigger conditions met, but this is a pre-07:00 pulse, not the deep run the playbook is scoped to. Flagging for the imminent deep run rather than acting now.
+✅ Decisions logged.
+
+### Next Run
+1. This run is ~15 min before the 07:00 UTC deep-run boundary — the next run should treat backlog=8/bank=0 as the starvation trigger and run the Queue-Starvation Playbook (step 1: check SEO Agent output rate over last 3 runs before opening new surface myself) if still true then.
+2. Watch #4809/#4810 ship alongside the phased epics already in flight (#4756/#4760-4762/#4766, all <1 day old).
+3. Watch for next L1/L2/L3 snapshot refresh (2026-07-20).
+4. #875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---

@@ -3065,6 +3065,12 @@ export function getMetaForPath(pathname) {
           uploadDate: '2024-01-01',
           contentUrl: `https://www.youtube.com/watch?v=${lick.video.youtubeId}`,
           embedUrl: `https://www.youtube.com/embed/${lick.video.youtubeId}`,
+          // Issue #4797: duration is a recommended (not required) VideoObject
+          // property — only emit it when the source clip timestamps are both
+          // present, rather than fabricating/estimating one.
+          ...(typeof lick.video.startTime === 'number' && typeof lick.video.endTime === 'number'
+            ? { duration: `PT${lick.video.endTime - lick.video.startTime}S` }
+            : {}),
         }] : []),
         // HowTo — step-by-step breakdown
         {
@@ -3108,6 +3114,13 @@ export function getMetaForPath(pathname) {
           uploadDate: '2024-01-01',
           contentUrl: `https://www.youtube.com/watch?v=${lick.tutorial.youtubeId}`,
           embedUrl: `https://www.youtube.com/embed/${lick.tutorial.youtubeId}`,
+          // Issue #4797: same duration rule as the primary video above —
+          // none of the current tutorial entries have both fields (tutorials
+          // are full-song covers with only a startTime), so this is a no-op
+          // today but keeps the two VideoObject blocks consistent.
+          ...(typeof lick.tutorial.startTime === 'number' && typeof lick.tutorial.endTime === 'number'
+            ? { duration: `PT${lick.tutorial.endTime - lick.tutorial.startTime}S` }
+            : {}),
         }] : []),
       ];
 

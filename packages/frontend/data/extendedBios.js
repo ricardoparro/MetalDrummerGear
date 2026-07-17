@@ -1559,6 +1559,12 @@ Dette served as Slayer's touring drummer during 1996-1997, filling in when Paul 
           { q: 'What band is Jon Dette in?', a: 'Jon Dette was Slayer\'s touring drummer in 1996-1997, then drummed for Testament across two stints (1997-1999, 2001-2012), recording The Gathering (1999), The Formation of Damnation (2008), and Dark Roots of Earth (2012). He also filled in for Charlie Benante on a 2010 Anthrax tour.' },
           { q: 'How did Jon Dette join Slayer?', a: 'Jon Dette joined Slayer in 1996 as touring drummer, filling in when Paul Bostaph was temporarily unavailable, and left in 1997 when Bostaph returned to the band. He went on to become a longer-term member of Testament.' }
         ]
+      },
+      sources: {
+        title: 'Sources',
+        items: [
+          { name: 'Wikipedia: Jon Dette', url: 'https://en.wikipedia.org/wiki/Jon_Dette' }
+        ]
       }
     }
   },

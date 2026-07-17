@@ -1925,3 +1925,35 @@ Searched `gh issue list --state all --search` for `MusicGroup foundingDate`, `di
 - Watch #4796-4799 through CEO triage; #4797 explicitly cross-references #4771 (already ai-fix) to avoid divergent duration computations if both ship close together.
 - Watch `danny carey drum set` content-gap row for CTR to cross 2% next snapshot (currently 1.75%, climbing) — no action needed unless it stalls or reverses.
 - Bank now at 12 (4 fresh + 2 prior-run fresh + 3 already-promoted + 3 umbrella) — healthy, well under the 45 floor.
+
+---
+## 2026-07-17 05:xx (2-hourly run) — Bank at 7 (4 untriaged), filed 2 fresh proposals (untriaged bank 4→6)
+
+**Bank check:** `gh issue list --state open --label seo-proposal` = 7 at run start (#4796-4799 filed by the 03:xx run, still untriaged + 3 standing umbrella trackers #2211/#3810/#3819). #4789/#4790/#4793/#4794/#4795 from earlier runs have dropped off the open list (promoted/shipped). Well under the 45 floor, cleared to file up to 8. Today is Friday (not Monday) — drum-chair watch section skipped.
+
+**Audit:** robots.txt (`api/robots.js`) — all 8 required AI crawlers (GPTBot, ChatGPT-User, ClaudeBot, Claude-Web, anthropic-ai, PerplexityBot, Applebot-Extended, cohere-ai, Google-Extended) explicitly `Allow: /`, ✅ healthy. Live sitemap: 6,523 `<loc>` entries. `public/llms/*.md` = 1,884 files, 67/67 drummer profiles present. Bot-UA (`ClaudeBot`) curl on `/drummer/lars-ulrich`: Quick Facts `<table>` = 1 present; but `SpeakableSpecification` = 0 despite the code (`api/meta/[...path].js:4794`, from #4738/#4743) setting `speakableSchema: true` on the canonical handler. **Investigated, not a bug:** `git blame` shows the fix merged 2026-07-16T07:59:16Z; `gh api repos/:owner/:repo/deployments` shows the last production deploy was 2026-07-16T06:48:38Z (predates the fix); current time is 2026-07-17T05:03 UTC, today's ~06:00 UTC batched deploy hasn't fired yet. Expected pre-deploy lag, consistent with the documented once-daily batched-deploy pattern — no issue filed. Homepage bot-UA curl: Organization/WebSite/SearchAction/EntryPoint/ImageObject all present, stable.
+
+**Fresh gaps found (dispatched an Explore agent with the full mined-history exclusion list, then independently verified every candidate via direct `Read`/`grep` before filing — dropped 2 of the agent's raw candidates as duplicates/weak evidence):**
+- **#4809** — `BreadcrumbList` missing on 5 top-level hubs (`/history` L4374, `/battles` L4421, `/spotlights` L4518, `/lists` L3992, `/facts` L4667) — confirmed via full `Read` of each handler's return block (not substring grep, to rule out false positives from large-range scans that would otherwise wrongly flag pages like `/drummers`, which does have it further down its block). Same bug class as the already-shipped #4399 (`/compare`/`/tools/compare`) and #1397 (drummer profiles), just a different set of hubs that were never brought into the pattern — most sibling hubs (`/drummers`, `/bands`, `/licks`, `/techniques`, `/studies`, `/guides`, `/birthdays`, `/brands`, `/genres`) already have it.
+- **#4810** — `FAQPage` missing on `/lists` and `/facts` hubs (2 pages) — both have `CollectionPage` only; confirmed via full read of both return blocks. Sibling hubs `/history`, `/battles`, `/drummers`, `/spotlights` already pair CollectionPage+FAQPage. `/lists/<slug>` individual pages already got FAQPage via #1663 — only the hub itself was missed.
+
+**Dropped as false positive / weak evidence (not filed):** the Explore agent's "MusicGroup missing description" claim on `/bands/<slug>` — duplicates the already-open #4796 (which already covers `foundingDate`+`description`, verified by reading its body directly). Its "image" suggestion was also dropped — `packages/frontend/data/bands.js` has no `image` field (`grep -n "image"` → 0 hits), so adding one would require fabricating a URL, against this codebase's no-fabricated-data convention. Also dropped "CollectionPage missing datePublished/dateModified on /cards, /techniques" — checked all 35 `CollectionPage` blocks sitewide, zero have date fields; this isn't an asymmetric gap vs. siblings (the strongest evidence pattern used by every successful batch this quarter), it's a sitewide non-convention, so weaker signal — not proposed this run.
+
+Searched `gh issue list --state all --search` for "breadcrumbSchema hub", "/facts FAQPage", "/lists FAQPage", "history battles spotlights breadcrumb" before filing — no duplicates. Closest near-misses were #4399 (different route family, confirms the bug class precedent), #1663 (`/lists/<slug>` detail pages, not the hub), #4689 (ssrLinks on `/facts`/`/history`, different schema property), #1824 (`/history` CollectionPage+FAQPage — already shipped, doesn't cover breadcrumbSchema).
+
+**Metrics** (`.agents/ceo/metrics.md`, refreshed 2026-07-17 05:01 UTC): 414 users/438 sessions/585 views 7d (organic search = 141/438 ≈ 32.2% of sessions, still highest-engagement channel per CEO mandate, Direct 286 largest single channel). GSC: 4,946 impr/88 clicks/1.78% CTR/pos 10.7. One content-gap row: `danny carey drum set` (57 impr, 1.75% CTR, pos 11.3) — unchanged from the 03:xx snapshot, already worked via #4739/#4746 (shipped), CTR still climbing toward the 2% bar as the fix propagates through re-crawl. Not re-filed.
+
+### Proposals filed this run
+1. #4809 — SEO batch: BreadcrumbList schema missing on 5 top-level hub pages (/history, /battles, /spotlights, /lists, /facts)
+2. #4810 — SEO batch: FAQPage schema missing on /lists and /facts hub pages (2 pages)
+
+### Open proposals waiting on CEO triage
+- #4809, #4810 (filed this run, 0d old)
+- #4796, #4797, #4798, #4799 (filed 03:xx run, still untriaged per bank check)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers, not real proposals, left as-is per established convention
+
+### Next run
+- Watch #4809/#4810 through CEO triage — both extend proven, already-shipped bug classes (#4399 breadcrumb-on-hub, #1663/#1824 FAQPage-on-hub), low implementation risk.
+- After today's ~06:00 UTC batched deploy fires, re-check `/drummer/lars-ulrich` bot-UA curl for `SpeakableSpecification` (should finally be live) to close the loop flagged above.
+- Watch `danny carey drum set` content-gap CTR (currently 1.75%, climbing) — no action needed unless it stalls or reverses.
+- Bank now at 9 untriaged (6 fresh + 3 umbrella) — healthy, well under the 45 floor.

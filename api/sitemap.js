@@ -568,6 +568,10 @@ export function buildSitemapXml() {
     // Issue #1171: /bands index hub + all 19 band pages at the correct plural path.
     { loc: '/bands', priority: '0.9', changefreq: 'weekly' },
     ...bandPages.map(slug => ({ loc: `/bands/${slug}`, priority: '0.8', changefreq: 'monthly' })),
+    // Issue #4769 (epic #4753 extension): drum-chair-changes timeline, derived
+    // entirely from bands.js drummerHistory — changefreq weekly since it grows
+    // whenever any band's lineup changes.
+    { loc: '/bands/drum-chair-changes', priority: '0.8', changefreq: 'weekly' },
     ...techniques.map(t => ({ loc: `/techniques/${t.slug}`, priority: '0.8', changefreq: 'monthly' })),
     // Issue #870, #994: Technique → drummers SEO pages (/technique/<slug>/drummers)
     // Same priority/changefreq pattern as drummer pages.
@@ -692,6 +696,8 @@ export function buildSitemapXml() {
       priority: '0.5',
       changefreq: 'monthly',
     })),
+    // Issue #4769 (epic #4753 extension): drum-chair-changes timeline mirror.
+    { loc: '/llms/drum-chair-changes.md', priority: '0.5', changefreq: 'weekly' },
     // Issue #1309: gear price timeline data for Lars Ulrich, Joey Jordison, Dave Lombardo.
     { loc: '/llms/gear-history.md', priority: '0.5', changefreq: 'monthly' },
     // Issue #1782: per-drummer gear history LLM markdown

@@ -2264,4 +2264,56 @@ export function generateMemberOfFromDrummer(drummer) {
   });
 }
 
+/**
+ * Derive a band's current drummer from drummerHistory instead of storing a
+ * separate field that could drift out of sync (Issue #4769, epic #4753
+ * extension). The last entry in drummerHistory is always the most recent
+ * drummer, whether their period is still open-ended ("...-present") or the
+ * band has since disbanded and that entry was their final drummer.
+ * @param {Object} band - Band data object
+ * @returns {Object|null} The last drummerHistory entry, plus `isFinal` (true
+ *   when the band has disbanded and this was its last drummer)
+ */
+export function getCurrentDrummer(band) {
+  if (!band || !Array.isArray(band.drummerHistory) || band.drummerHistory.length === 0) {
+    return null;
+  }
+  const entry = band.drummerHistory[band.drummerHistory.length - 1];
+  return {
+    ...entry,
+    isFinal: band.status === 'disbanded',
+  };
+}
+
+/**
+ * Derive every drum-chair change (one drummer handing off to the next)
+ * across all bands, sourced entirely from each band's drummerHistory —
+ * Issue #4769. Grows automatically as bands.js gains history entries; no
+ * separately maintained list to fall out of sync.
+ * @returns {Array} Change records sorted by year, most recent first
+ */
+export function getDrumChairChanges() {
+  const changes = [];
+  for (const band of Object.values(bands)) {
+    const history = band.drummerHistory || [];
+    for (let i = 1; i < history.length; i++) {
+      const fromEntry = history[i - 1];
+      const toEntry = history[i];
+      const year = parseInt(String(toEntry.period).split('-')[0], 10);
+      if (!Number.isFinite(year)) continue;
+      changes.push({
+        bandSlug: band.slug,
+        bandName: band.name,
+        fromDrummer: fromEntry.drummer,
+        toDrummer: toEntry.drummer,
+        year,
+        period: toEntry.period,
+        notes: toEntry.notes || '',
+      });
+    }
+  }
+  changes.sort((a, b) => b.year - a.year);
+  return changes;
+}
+
 export default bands;

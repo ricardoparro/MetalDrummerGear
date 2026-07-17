@@ -2545,6 +2545,8 @@ export function getMetaForPath(pathname) {
           name: band.name,
           url: `${BASE_URL}/bands/${slug}`,
           genre: band.genres || [],
+          ...(band.formed ? { foundingDate: String(band.formed) } : {}),
+          ...(band.summary ? { description: band.summary } : {}),
           member: (band.members
             ? band.members.map(m => ({
                 '@type': 'OrganizationRole',

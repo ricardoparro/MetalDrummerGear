@@ -2348,10 +2348,20 @@ function getMetaForPath(pathname) {
       image: DEFAULT_IMAGE,
       type: 'website',
       url: `${BASE_URL}/articles`,
-      ssrLinks: Object.values(ALBUM_ARTICLES).map(a => ({
-        href: `/articles/${a.slug}`,
-        label: a.title,
-      })),
+      // Issue #4795: include the 12 TOP_10_LISTS entries flagged isArticle:true
+      // (served at /articles/:slug — see #3973) so the hub links to all live article pages.
+      ssrLinks: [
+        ...Object.values(ALBUM_ARTICLES).map(a => ({
+          href: `/articles/${a.slug}`,
+          label: a.title,
+        })),
+        ...Object.values(TOP_10_LISTS)
+          .filter(l => l.isArticle)
+          .map(l => ({
+            href: `/articles/${l.slug}`,
+            label: l.title,
+          })),
+      ],
       articleSchema: JSON.stringify({
         '@context': 'https://schema.org',
         '@type': 'CollectionPage',

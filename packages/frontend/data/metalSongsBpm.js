@@ -29,7 +29,24 @@
  * getFastestMetalSongs / getSongsByDrummerSlug / getDrummersWithSongCounts —
  * the read surface for the new /songs hub, tempo-tier, flagship, and
  * by-drummer list pages. Purely additive; nothing above changed.
+ *
+ * Issue #4761 (songs epic #4758, phase 3/4): added the content-richness gate
+ * (getSongPageGate / getSongPageSlugs / getSongPageData) that decides which
+ * songs earn a real /songs/<slug> page (binding rule 4 — the thin-page
+ * lesson from the bands epic). Unlike getDrummersWithSongCounts above, the
+ * gate DOES carry a roster dependency (packages/frontend/data/birthdays.js)
+ * plus album-article and signature-lick lookups, because "drummer is on the
+ * live roster" and "has technique content/a verified video" are exactly the
+ * two richness signals the gate has to check — pushing that back out to
+ * every caller would mean re-deriving the same gate three different ways in
+ * App.js, api/meta/[...path].js, and api/sitemap.js. This keeps rule 1 (ONE
+ * data module) intact: every consumer imports getSongPageSlugs() instead of
+ * reimplementing the criteria.
  */
+
+import { drummerBirthdays } from './birthdays.js';
+import { ALBUM_ARTICLES } from './albumArticles/index.js';
+import { SIGNATURE_LICKS } from './licks/index.js';
 
 // Tempo range definitions for metal
 export const TEMPO_RANGES = {
@@ -551,6 +568,128 @@ export function getDrummersWithSongCounts(minCount = DRUMMER_SONGS_MIN_COUNT) {
       songs: songs.slice().sort((a, b) => b.bpm - a.bpm),
     }))
     .sort((a, b) => b.count - a.count);
+}
+
+const _normalizeForMatch = (s) => (s || '').toLowerCase().replace(/[^a-z0-9]+/g, ' ').trim();
+
+const _songRosterSlugs = new Set(drummerBirthdays.map(d => d.slug));
+const _albumArticlesList = Object.values(ALBUM_ARTICLES);
+const _licksList = Object.values(SIGNATURE_LICKS);
+
+function _findAlbumArticleForSong(song) {
+  return _albumArticlesList.find(a =>
+    a.relatedDrummerSlug === song.drummer && _normalizeForMatch(a.albumTitle) === _normalizeForMatch(song.album)
+  ) || null;
+}
+
+function _findLickForSong(song) {
+  return _licksList.find(l =>
+    l.drummerSlug === song.drummer && _normalizeForMatch(l.song) === _normalizeForMatch(song.song)
+  ) || null;
+}
+
+/** Minimum number of richness criteria (of 4) a roster song must clear to earn a /songs/<slug> page. */
+export const SONG_PAGE_MIN_CRITERIA = 2;
+
+/**
+ * Content-richness gate for a single song (epic #4758 binding rule 4 /
+ * issue #4761): a song only qualifies for a /songs/<slug> page if its
+ * drummer is a live roster profile AND it clears at least
+ * SONG_PAGE_MIN_CRITERIA of 4 signals:
+ *   1. technique content — a `bpmNote` or a matching packages/frontend/data/licks/
+ *      entry (same drummer + normalized song title)
+ *   2. an existing album article (packages/frontend/data/albumArticles/) for
+ *      that drummer + album
+ *   3. a verified YouTube video — reused from that same lick's `video`/
+ *      `tutorial.youtubeId` (already embedded and oEmbed-verified elsewhere
+ *      in the app; no new IDs are introduced here)
+ *   4. a `notableFact` field with a `source` (not present in this dataset
+ *      yet — reserved for a future data pass)
+ * @param {object} song
+ * @returns {{inRoster: boolean, hasTechniqueContent: boolean, lick: object|null, albumArticle: object|null, video: {youtubeId: string, title: string}|null, notableFact: object|null, criteriaCount: number, qualifies: boolean}}
+ */
+export function getSongPageGate(song) {
+  const inRoster = _songRosterSlugs.has(song.drummer);
+  const lick = _findLickForSong(song);
+  const albumArticle = _findAlbumArticleForSong(song);
+  const video = lick
+    ? ((lick.video && lick.video.youtubeId)
+        ? { youtubeId: lick.video.youtubeId, title: lick.video.title }
+        : (lick.tutorial && lick.tutorial.youtubeId)
+          ? { youtubeId: lick.tutorial.youtubeId, title: lick.tutorial.title }
+          : null)
+    : null;
+  const notableFact = (song.notableFact && song.notableFact.source) ? song.notableFact : null;
+  const hasTechniqueContent = !!song.bpmNote || !!lick;
+  const criteriaCount =
+    (hasTechniqueContent ? 1 : 0) +
+    (albumArticle ? 1 : 0) +
+    (video ? 1 : 0) +
+    (notableFact ? 1 : 0);
+  return {
+    inRoster,
+    hasTechniqueContent,
+    lick,
+    albumArticle,
+    video,
+    notableFact,
+    criteriaCount,
+    qualifies: inRoster && criteriaCount >= SONG_PAGE_MIN_CRITERIA,
+  };
+}
+
+/**
+ * Slugs of songs that clear the content-richness gate — the single list
+ * App.js routing, api/meta/[...path].js SSR, api/sitemap.js, and the
+ * /llms/songs/<slug>.md generator all derive from. Under-gate songs are
+ * never linked to a /songs/<slug> URL; they stay list-only (hub, tempo-tier,
+ * flagship, and by-drummer tables).
+ * @returns {string[]}
+ */
+export function getSongPageSlugs() {
+  return metalSongs.filter(s => getSongPageGate(s).qualifies).map(s => s.slug);
+}
+
+/**
+ * Full page data for a qualifying /songs/<slug> page — BPM hero, tempo tier,
+ * album context, verified video, and up to 6 related songs (same band or
+ * same tempo tier, restricted to other qualifying slugs so every related-
+ * song link resolves to a real page). Returns null both when the slug
+ * doesn't exist and when it exists but doesn't clear the gate — callers
+ * should treat both cases identically (fall through to the normal 404/list
+ * experience, never render a thin template).
+ * @param {string} slug
+ * @returns {object|null}
+ */
+export function getSongPageData(slug) {
+  const song = getSongBySlug(slug);
+  if (!song) return null;
+  const gate = getSongPageGate(song);
+  if (!gate.qualifies) return null;
+
+  const range = getTempoRange(song.bpm);
+  const tier = { slug: TEMPO_TIER_SLUGS[Object.keys(TEMPO_RANGES).find(k => TEMPO_RANGES[k] === range)], ...range };
+  const qualifyingSlugs = new Set(getSongPageSlugs());
+  const relatedSongs = metalSongs
+    .filter(s => s.slug !== song.slug && qualifyingSlugs.has(s.slug) && (s.band === song.band || getTempoRange(s.bpm) === range))
+    .sort((a, b) => {
+      const aSameBand = a.band === song.band;
+      const bSameBand = b.band === song.band;
+      if (aSameBand !== bSameBand) return aSameBand ? -1 : 1;
+      return b.bpm - a.bpm;
+    })
+    .slice(0, 6);
+
+  return {
+    ...song,
+    tier,
+    drummerInRoster: gate.inRoster,
+    albumArticle: gate.albumArticle ? { slug: gate.albumArticle.slug, title: gate.albumArticle.title } : null,
+    video: gate.video,
+    techniqueSummary: gate.lick ? gate.lick.description || null : null,
+    notableFact: gate.notableFact,
+    relatedSongs,
+  };
 }
 
 export default metalSongs;

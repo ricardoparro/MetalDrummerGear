@@ -14,6 +14,7 @@ import {
   getAllBands,
   getTempoTiers,
   getFastestMetalSongs,
+  getSongPageSlugs,
   FASTEST_SONGS_MIN_BPM,
 } from '../data/metalSongsBpm';
 
@@ -92,6 +93,7 @@ export function SongsHubPage({ drummers = [] }) {
   const genres = useMemo(() => getAllGenres(), []);
   const bands = useMemo(() => getAllBands(), []);
   const fastestCount = useMemo(() => getFastestMetalSongs().length, []);
+  const qualifyingSlugs = useMemo(() => new Set(getSongPageSlugs()), []);
 
   const [genreFilter, setGenreFilter] = useState('');
   const [bandFilter, setBandFilter] = useState('');
@@ -213,7 +215,13 @@ export function SongsHubPage({ drummers = [] }) {
           return (
             <View key={s.slug} style={[styles.row, { backgroundColor: theme.card, borderColor: theme.border }]}>
               <View style={styles.rowMain}>
-                <Text style={[styles.songTitle, { color: theme.text }]}>{s.song}</Text>
+                {qualifyingSlugs.has(s.slug) ? (
+                  <WebLink href={`/songs/${s.slug}`} style={{ ...styles.songTitle, color: theme.text }}>
+                    {s.song}
+                  </WebLink>
+                ) : (
+                  <Text style={[styles.songTitle, { color: theme.text }]}>{s.song}</Text>
+                )}
                 <Text style={[styles.songMeta, { color: theme.secondaryText }]}>
                   {s.band} · {humanizeGenre(s.genre)} ({s.year})
                   {drummer ? (

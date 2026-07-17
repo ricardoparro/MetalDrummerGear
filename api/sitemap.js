@@ -57,7 +57,7 @@ import { STUDIES } from '../packages/frontend/data/studies/index.js';
 // Issue #4760 (songs epic #4758, phase 2/4): /songs hub + tempo/flagship/
 // drummer list pages — tempo tiers and drummer counts derive from the same
 // module the pages themselves read, so the sitemap can't drift out of sync.
-import { getTempoTiers, getDrummersWithSongCounts } from '../packages/frontend/data/metalSongsBpm.js';
+import { getTempoTiers, getDrummersWithSongCounts, getSongPageSlugs } from '../packages/frontend/data/metalSongsBpm.js';
 // Issue #3661: source gear-history and sound-like-guide slugs from their
 // canonical data modules (same pattern as above) so the sitemap can never
 // drift out of sync with these two data files again.
@@ -585,6 +585,10 @@ export function buildSitemapXml() {
     { loc: '/songs/fastest-metal-songs', priority: '0.9', changefreq: 'weekly' },
     ...getTempoTiers().map(t => ({ loc: `/songs/tempo/${t.slug}`, priority: '0.85', changefreq: 'monthly' })),
     ...songsQualifyingDrummers.map(d => ({ loc: `/songs/drummer/${d.drummer}`, priority: '0.7', changefreq: 'monthly' })),
+    // Issue #4761 (songs epic #4758, phase 3/4): per-song pages, gated by
+    // content-richness (getSongPageSlugs) — under-gate songs stay list-only
+    // and never get a sitemap entry.
+    ...getSongPageSlugs().map(slug => ({ loc: `/songs/${slug}`, priority: '0.75', changefreq: 'monthly' })),
     // Issue #4371: Gear Finder tool
     { loc: '/gear-finder', priority: '0.85', changefreq: 'weekly' },
     // Issue #4370: Metal Drumming Evolution Timeline (47 events, 1970-2024)

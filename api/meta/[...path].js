@@ -248,6 +248,7 @@ import {
   getFastestMetalSongs,
   getSongsByDrummerSlug,
   getDrummersWithSongCounts,
+  getSongPageData,
   FASTEST_SONGS_MIN_BPM,
   DRUMMER_SONGS_MIN_COUNT,
 } from '../../packages/frontend/data/metalSongsBpm.js';
@@ -5554,6 +5555,82 @@ export function getMetaForPath(pathname) {
     }
     // Unqualified slug (not a roster drummer, or fewer than 3 songs) falls
     // through to the default 404 meta below.
+  }
+
+  // Issue #4761 (songs epic #4758, phase 3/4): /songs/<slug> — per-song pages
+  // behind the content-richness gate in metalSongsBpm.js (getSongPageData
+  // returns null for both a nonexistent slug AND an under-gate one, so both
+  // cases fall through to the default 404 meta below, same convention as the
+  // /songs/drummer/<slug> gate above). MusicRecording + optional VideoObject
+  // JSON-LD, plus an FAQ answering "what BPM"/"who drummed" strictly from
+  // the song's own module fields (bpm, bpmNote, drummer, band, album, year).
+  const songDetailMatch = path.match(/^\/songs\/([a-z0-9-]+)$/);
+  if (songDetailMatch) {
+    const song = getSongPageData(songDetailMatch[1].toLowerCase());
+    if (song) {
+      const songUrl = `${BASE_URL}/songs/${song.slug}`;
+      const drummerName = drummerSlugToName[song.drummer] || humanizeSongDrummerSlug(song.drummer);
+
+      const graph = [
+        {
+          '@type': 'MusicRecording',
+          name: song.song,
+          byArtist: { '@type': 'MusicGroup', name: song.band },
+          inAlbum: { '@type': 'MusicAlbum', name: song.album },
+          datePublished: String(song.year),
+          genre: song.genre,
+          url: songUrl,
+          additionalProperty: { '@type': 'PropertyValue', name: 'BPM', value: song.bpm },
+        },
+        ...(song.video ? [{
+          '@type': 'VideoObject',
+          name: song.video.title,
+          description: `${drummerName} performing "${song.song}" by ${song.band}.`,
+          thumbnailUrl: `https://i.ytimg.com/vi/${song.video.youtubeId}/hqdefault.jpg`,
+          // uploadDate is REQUIRED by Google for VideoObject; we don't have this
+          // reused lick video's real upload date, so use the same stable
+          // placeholder as the lick-page VideoObject blocks (see #4797).
+          uploadDate: '2024-01-01',
+          contentUrl: `https://www.youtube.com/watch?v=${song.video.youtubeId}`,
+          embedUrl: `https://www.youtube.com/embed/${song.video.youtubeId}`,
+        }] : []),
+      ];
+
+      const bpmAnswer = song.bpmNote
+        ? `"${song.song}" by ${song.band} is ${song.bpm} BPM (${song.tier.label} tempo range). Note: ${song.bpmNote}.`
+        : `"${song.song}" by ${song.band} is ${song.bpm} BPM (${song.tier.label} tempo range, ${song.tier.min}-${song.tier.max} BPM).`;
+      const drummerAnswer = `${drummerName} played drums on "${song.song}" by ${song.band}, from the album ${song.album} (${song.year}).`;
+
+      const ssrLinks = _dedupeSsrLinksByHref([
+        { href: '/songs', label: 'All Songs' },
+        { href: `/songs/tempo/${song.tier.slug}`, label: `${song.tier.label} Metal Songs` },
+        ...(drummerSlugToName[song.drummer] ? [{ href: `/drummer/${song.drummer}`, label: `${drummerName} gear profile` }] : []),
+        ...(song.albumArticle ? [{ href: `/articles/${song.albumArticle.slug}`, label: song.albumArticle.title }] : []),
+        { href: `/bpm?bpm=${song.bpm}`, label: `Practice ${song.song} at ${song.bpm} BPM` },
+        ...song.relatedSongs.map(s => ({ href: `/songs/${s.slug}`, label: `${s.song} — ${s.band} (${s.bpm} BPM)` })),
+      ]);
+
+      return {
+        title: `"${song.song}" by ${song.band} — BPM, Drummer & Tempo | ${SITE_NAME}`,
+        description: `${song.song} by ${song.band} is ${song.bpm} BPM (${song.tier.label}), drummed by ${drummerName} on ${song.album} (${song.year}).${song.bpmNote ? ` ${song.bpmNote}.` : ''}`,
+        image: DEFAULT_IMAGE,
+        type: 'article',
+        url: songUrl,
+        ssrLinks,
+        videoEmbed: song.video ? { youtubeId: song.video.youtubeId, title: song.video.title } : null,
+        articleSchema: JSON.stringify({ '@context': 'https://schema.org', '@graph': graph }),
+        faqSchema: [
+          { question: `What BPM is ${song.song}?`, answer: bpmAnswer },
+          { question: `Who played drums on ${song.song}?`, answer: drummerAnswer },
+        ],
+        breadcrumbSchema: [
+          { name: 'Home', url: BASE_URL },
+          { name: 'Songs', url: `${BASE_URL}/songs` },
+          { name: song.song, url: songUrl },
+        ],
+      };
+    }
+    // Nonexistent or under-gate slug falls through to the default 404 meta below.
   }
 
   // Issue #1579: /bpm and /bpm-tap — BPM Tap Calculator + Metal Songs BPM Database

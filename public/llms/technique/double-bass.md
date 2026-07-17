@@ -88,7 +88,7 @@ A: Closely related techniques include Gallop, Blast Beat, Triggered Drums. Maste
 - [Double Bass Drumming Drummers on MetalForge](https://metalforge.io/technique/double-bass/drummers)
 - [All Metal Drumming Techniques](https://metalforge.io/techniques)
 - [Signature Licks featuring Double Bass Drumming](https://metalforge.io/licks)
-- [Double Bass Drumming Technique Page](https://metalforge.io/technique/double-bass)
+- [Double Bass Drumming Technique Page](https://metalforge.io/techniques/double-bass)
 
 ### Related Techniques
 - [Gallop](https://metalforge.io/techniques/gallop) — [Deep Dive](https://metalforge.io/llms/technique/gallop.md)
@@ -98,4 +98,4 @@ A: Closely related techniques include Gallop, Blast Beat, Triggered Drums. Maste
 
 ---
 
-*Last updated: 2026-07-16 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-17 · Source: [MetalForge.io](https://metalforge.io)*

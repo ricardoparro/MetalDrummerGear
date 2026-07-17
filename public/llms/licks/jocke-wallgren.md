@@ -26,7 +26,7 @@ Amon Amarth's signature live anthem demands thunderous double bass passages at 1
 - Build to 162 BPM in 5 BPM increments across multiple sessions; speed gains consolidated slowly are more durable than those chased quickly
 - Practice the ride cymbal and double bass independently first, then layer them together — the hands often lose their pattern quality when the feet first come in at full tempo
 
-**Core Techniques:** [Double Bass](https://metalforge.io/technique/double-bass), [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Ride Cymbal](https://metalforge.io/technique/ride-cymbal)
+**Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Ride Cymbal](https://metalforge.io/techniques/ride-cymbal)
 
 ## Runes to My Memory Melodic Death Groove
 
@@ -46,7 +46,7 @@ The melodic death metal main groove from this Amon Amarth live staple features a
 - Map the double bass placement points by listening to the guitar riff and identifying the specific accent beats where kick density increases
 - Practice the pre-chorus build as a standalone four-to-eight bar phrase: start at the verse kick density and escalate to the chorus density within the phrase
 
-**Core Techniques:** [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Double Bass](https://metalforge.io/technique/double-bass), [Dynamics](https://metalforge.io/technique/dynamics)
+**Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass), [Dynamics](https://metalforge.io/techniques/dynamics)
 
 ## Fafner's Gold Blast Beat Section
 
@@ -66,7 +66,7 @@ This blast beat passage from Amon Amarth's 2019 album Berserker shows how Wallgr
 - Practice blast entry from a groove: play 8 bars of a groove at the song tempo, then enter the blast on bar 9 — the entry should feel sudden, not gradual
 - Work on blast exit independently: run 8 bars of blast, then land a groove downbeat on bar 9 — the return to groove must be as clean as the blast itself
 
-**Core Techniques:** [Blast Beat](https://metalforge.io/technique/blast-beat), [Double Bass](https://metalforge.io/technique/double-bass), [Single Stroke Roll](https://metalforge.io/technique/single-stroke-roll)
+**Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Double Bass](https://metalforge.io/techniques/double-bass), [Single Stroke Roll](https://metalforge.io/techniques/single-stroke-roll)
 
 
 ## Teaching Points

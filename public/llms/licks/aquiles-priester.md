@@ -29,7 +29,7 @@ Aquiles Priester joined Angra for the Rebirth album in 2001 and immediately anno
 - Practise long endurance reps before raising the tempo
 - Let the double bass serve the melody — lock to the chord changes
 
-**Core Techniques:** [Double Bass](https://metalforge.io/technique/double-bass), [Blast Beat](https://metalforge.io/technique/blast-beat), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
+**Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Blast Beat](https://metalforge.io/techniques/blast-beat), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Heroes of Sand Progressive Prog Feel
 
@@ -52,7 +52,7 @@ Temple of Shadows (2004) is widely regarded as Angra's masterpiece and one of th
 - Focus on the transitions: that is where the musical work happens
 - Develop limb independence so the hands and feet can operate with some freedom
 
-**Core Techniques:** [Double Bass](https://metalforge.io/technique/double-bass), [Fill Techniques](https://metalforge.io/technique/fill-techniques), [Polyrhythms](https://metalforge.io/technique/polyrhythms)
+**Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Polyrhythms](https://metalforge.io/techniques/polyrhythms)
 
 ## Spread Your Fire Speed Groove
 
@@ -75,7 +75,7 @@ Temple of Shadows (2004) is widely regarded as Angra's masterpiece and one of th
 - Phrase the hi-hat and ride so the groove breathes rather than just churning
 - Aim to make the speed feel like a groove, not a sprint
 
-**Core Techniques:** [Double Bass](https://metalforge.io/technique/double-bass), [Blast Beat](https://metalforge.io/technique/blast-beat), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
+**Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Blast Beat](https://metalforge.io/techniques/blast-beat), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Teaching Points
 

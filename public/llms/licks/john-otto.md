@@ -26,7 +26,7 @@ The defining nu-metal groove from Limp Bizkit's breakthrough single places the k
 - Record yourself and listen to how open or closed your hi-hat sounds; an overly closed, rigid hi-hat removes the groove's breathing quality
 - Practice the snare alone at full dynamic level, letting it ring — controlling the ring (not dampening it) while keeping time is the skill to develop
 
-**Core Techniques:** [Syncopation](https://metalforge.io/technique/syncopation), [Hi-Hat Control](https://metalforge.io/technique/hi-hat-control), [Groove Drumming](https://metalforge.io/technique/groove-drumming)
+**Core Techniques:** [Syncopation](https://metalforge.io/techniques/syncopation), [Hi-Hat Control](https://metalforge.io/techniques/hi-hat-control), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## Rollin' Hip-Hop Metal Groove
 
@@ -46,7 +46,7 @@ The groove driving one of Limp Bizkit's biggest commercial hits draws directly f
 - Loop just the kick pattern and count the subdivisions carefully; the anticipatory placement feels wrong until the count is internalised
 - Practice the verse-to-chorus feel shift in isolation — play 8 bars of the angular groove, then drop into the bigger chorus pattern, focusing on making the transition feel purposeful
 
-**Core Techniques:** [Syncopation](https://metalforge.io/technique/syncopation), [Hi-Hat Control](https://metalforge.io/technique/hi-hat-control), [Dynamics](https://metalforge.io/technique/dynamics)
+**Core Techniques:** [Syncopation](https://metalforge.io/techniques/syncopation), [Hi-Hat Control](https://metalforge.io/techniques/hi-hat-control), [Dynamics](https://metalforge.io/techniques/dynamics)
 
 ## Nookie Signature Fill and Breakdown
 
@@ -66,7 +66,7 @@ The pre-chorus fills and breakdown hits in this Limp Bizkit track showcase Otto'
 - Practice the breakdown hit in isolation with a metronome: place a single snare hit against the beat and let the silence before and after it do the work
 - Build the pre-chorus escalation by starting at just hi-hat density increase, then add ghost notes in a second pass, then combine — layering the elements prevents rushing
 
-**Core Techniques:** [Ghost Notes](https://metalforge.io/technique/ghost-notes), [Dynamics](https://metalforge.io/technique/dynamics), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
+**Core Techniques:** [Ghost Notes](https://metalforge.io/techniques/ghost-notes), [Dynamics](https://metalforge.io/techniques/dynamics), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 
 ## Teaching Points

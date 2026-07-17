@@ -9,7 +9,9 @@ import { ALBUM_ARTICLES } from '../packages/frontend/data/albumArticles.js';
 // Issue #994 (split 3/3 of #870): source technique slugs for the new
 // /technique/<slug>/drummers pages directly from the data module so the
 // sitemap stays in sync as techniques are added.
-import { getAllTechniqueSlugs } from '../packages/frontend/data/techniques.js';
+// Issue #4771: getAllTechniques additionally sources each technique's real
+// (non-fabricated) video, for the video:video sitemap extension below.
+import { getAllTechniqueSlugs, getAllTechniques } from '../packages/frontend/data/techniques.js';
 // Issue #997 (split 3/4 of #871): source the /gear/<brand>/<series>/drummers-using
 // slugs from the generated gear index so the sitemap stays in sync with the
 // pages added in #996. We import the self-contained GEAR_INDEX data directly
@@ -308,6 +310,52 @@ const signatureLicksPages = Object.values(SIGNATURE_LICKS).map(lick => ({
   name: lick.name,
 }));
 
+// Issue #4771: video sitemap extension (<video:video>) — one entry per page
+// that carries a VideoObject in api/meta/[...path].js's JSON-LD, built from
+// the same data modules the meta layer reads (SIGNATURE_LICKS, techniques.js)
+// rather than a hand-maintained second video registry. The audit script
+// (scripts/audit-video-seo.mjs) cross-checks this against the meta layer's
+// real output so the two can't silently drift apart.
+function youtubeVideoEntry({ youtubeId, title, description, contentUrl }) {
+  return {
+    thumbnailLoc: `https://i.ytimg.com/vi/${youtubeId}/hqdefault.jpg`,
+    title,
+    description,
+    contentLoc: contentUrl || `https://www.youtube.com/watch?v=${youtubeId}`,
+    playerLoc: `https://www.youtube.com/embed/${youtubeId}`,
+  };
+}
+
+// Signature lick pages: primary performance video if present, else the
+// tutorial video — mirrors the fallback in api/meta/[...path].js's
+// lickPageMatch block (both the JSON-LD VideoObject and the #3698 SSR iframe
+// use this same fallback as of #4771).
+const lickVideoByLoc = {};
+for (const lick of Object.values(SIGNATURE_LICKS)) {
+  const source = lick.video?.youtubeId ? lick.video : (lick.tutorial?.youtubeId ? lick.tutorial : null);
+  if (!source) continue;
+  lickVideoByLoc[`/drummers/${lick.drummerSlug}/licks/${lick.slug}`] = youtubeVideoEntry({
+    youtubeId: source.youtubeId,
+    title: source.title || lick.name,
+    description: source.description || lick.description || `${lick.name} — ${lick.drummerName}`,
+  });
+}
+
+// Technique pages with a real (non-fabricated) YouTube URL — mirrors the
+// technique-page VideoObject block in api/meta/[...path].js (#4767/#4771).
+const techniqueVideoBySlug = {};
+for (const technique of getAllTechniques()) {
+  const firstVideo = (technique.videos || []).find(v => /(?:youtube\.com\/watch\?v=|youtu\.be\/)[a-zA-Z0-9_-]{11}/.test(v.url || ''));
+  if (!firstVideo) continue;
+  const youtubeId = firstVideo.url.match(/(?:youtube\.com\/watch\?v=|youtu\.be\/)([a-zA-Z0-9_-]{11})/)[1];
+  techniqueVideoBySlug[technique.slug] = youtubeVideoEntry({
+    youtubeId,
+    title: firstVideo.title,
+    description: `${firstVideo.title} — ${technique.title} demonstrated for metal drummers.`,
+    contentUrl: firstVideo.url,
+  });
+}
+
 // Drummers with licks hub pages — distinct drummerSlugs in first-appearance order.
 const drummerLicksHubs = Object.values(SIGNATURE_LICKS).reduce((hubs, lick) => {
   if (!hubs.some(h => h.drummerSlug === lick.drummerSlug)) {
@@ -572,7 +620,7 @@ export function buildSitemapXml() {
     // entirely from bands.js drummerHistory — changefreq weekly since it grows
     // whenever any band's lineup changes.
     { loc: '/bands/drum-chair-changes', priority: '0.8', changefreq: 'weekly' },
-    ...techniques.map(t => ({ loc: `/techniques/${t.slug}`, priority: '0.8', changefreq: 'monthly' })),
+    ...techniques.map(t => ({ loc: `/techniques/${t.slug}`, priority: '0.8', changefreq: 'monthly', video: techniqueVideoBySlug[t.slug] })),
     // Issue #870, #994: Technique → drummers SEO pages (/technique/<slug>/drummers)
     // Same priority/changefreq pattern as drummer pages.
     ...getAllTechniqueSlugs().map(slug => ({ loc: `/technique/${slug}/drummers`, priority: '0.8', changefreq: 'monthly' })),
@@ -611,7 +659,7 @@ export function buildSitemapXml() {
     ...signatureGearPages.map(sg => ({ loc: `/drummers/${sg.drummerSlug}/signature/${sg.gearSlug}`, priority: '0.85', changefreq: 'monthly' })),
     // Issue #749: Signature Licks Database pages
     ...drummerLicksHubs.map(d => ({ loc: `/drummers/${d.drummerSlug}/licks`, priority: '0.9', changefreq: 'weekly' })),
-    ...signatureLicksPages.map(sl => ({ loc: `/drummers/${sl.drummerSlug}/licks/${sl.lickSlug}`, priority: '0.85', changefreq: 'monthly' })),
+    ...signatureLicksPages.map(sl => ({ loc: `/drummers/${sl.drummerSlug}/licks/${sl.lickSlug}`, priority: '0.85', changefreq: 'monthly', video: lickVideoByLoc[`/drummers/${sl.drummerSlug}/licks/${sl.lickSlug}`] })),
     // Issue #770: SEO Blitz - Drummer Gear Category Pages (long-tail keywords)
     ...drummerGearCategoryPages.map(dgc => ({ loc: `/drummer/${dgc.drummerSlug}/${dgc.category}`, priority: '0.85', changefreq: 'monthly' })),
     // Issue #802: Endorsement Tracker pages
@@ -977,7 +1025,8 @@ export function buildSitemapXml() {
   ];
   const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 ${urls.map(url => `  <url>
     <loc>${xmlEscape(BASE_URL + url.loc)}</loc>
     <lastmod>${lastmodFor(url)}</lastmod>
@@ -987,7 +1036,14 @@ ${urls.map(url => `  <url>
       <image:loc>${xmlEscape(url.image.loc)}</image:loc>
       <image:title>${xmlEscape(url.image.title)}</image:title>
       <image:caption>${xmlEscape(url.image.caption)}</image:caption>
-    </image:image>` : ''}
+    </image:image>` : ''}${url.video ? `
+    <video:video>
+      <video:thumbnail_loc>${xmlEscape(url.video.thumbnailLoc)}</video:thumbnail_loc>
+      <video:title>${xmlEscape(url.video.title)}</video:title>
+      <video:description>${xmlEscape(url.video.description)}</video:description>
+      <video:content_loc>${xmlEscape(url.video.contentLoc)}</video:content_loc>
+      <video:player_loc>${xmlEscape(url.video.playerLoc)}</video:player_loc>
+    </video:video>` : ''}
   </url>`).join('\n')}
 </urlset>`;
   return sitemap;

@@ -29,7 +29,7 @@ Charlie Benante is one of Thrash Metal's most influential drummers, best known f
 - Loop the verse and chorus separately before stringing them together
 - Record yourself and check the kick lines up exactly with the riff
 
-**Core Techniques:** [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Double Bass](https://metalforge.io/technique/double-bass), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
+**Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Madhouse Thrash Groove
 
@@ -52,7 +52,7 @@ Charlie Benante is one of Thrash Metal's most influential drummers, best known f
 - Practise the tom fills separately, then place them back into the groove
 - Use a metronome to keep the syncopated accents from rushing
 
-**Core Techniques:** [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Double Bass](https://metalforge.io/technique/double-bass), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
+**Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Indians War Dance Breakdown
 
@@ -75,7 +75,7 @@ Charlie Benante is one of Thrash Metal's most influential drummers, best known f
 - Keep the half-time backbeat authoritative without rushing into the next bar
 - Loop the transition between the thrash sections and the breakdown
 
-**Core Techniques:** [Double Bass](https://metalforge.io/technique/double-bass), [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
+**Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Among the Living Thrash Groove
 
@@ -98,7 +98,7 @@ Charlie Benante is one of Thrash Metal's most influential drummers, best known f
 - Work on sustaining the groove across multiple minutes without losing the pocket or the power
 - Practise the fills in isolation, then re-insert them at the exact section changes where they belong
 
-**Core Techniques:** [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Double Bass](https://metalforge.io/technique/double-bass), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
+**Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Persistence of Time Blast Beat
 
@@ -121,7 +121,7 @@ Persistence of Time (1990) marks the point where Benante pushed Anthrax's drummi
 - Record and listen critically — Benante's blast is even and controlled, not ragged at the edges
 - Study the song's arrangement to know exactly when the blast arrives and what it should accomplish
 
-**Core Techniques:** [Blast Beat](https://metalforge.io/technique/blast-beat), [Double Bass](https://metalforge.io/technique/double-bass), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
+**Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## State of Euphoria Mid-Tempo Groove
 
@@ -144,7 +144,7 @@ Persistence of Time (1990) marks the point where Benante pushed Anthrax's drummi
 - Keep the hi-hat consistent: any rushing in the hi-hat will undermine the groove's swagger
 - Practise the tom fills separately and listen to how Benante places them — they land and resolve cleanly every time
 
-**Core Techniques:** [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Double Bass](https://metalforge.io/technique/double-bass), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
+**Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Teaching Points
 

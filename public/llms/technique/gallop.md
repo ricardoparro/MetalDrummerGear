@@ -80,7 +80,7 @@ A: Closely related techniques include Double Bass, Groove Drumming. Mastering th
 - [Gallop Rhythm Drummers on MetalForge](https://metalforge.io/technique/gallop/drummers)
 - [All Metal Drumming Techniques](https://metalforge.io/techniques)
 - [Signature Licks featuring Gallop Rhythm](https://metalforge.io/licks)
-- [Gallop Rhythm Technique Page](https://metalforge.io/technique/gallop)
+- [Gallop Rhythm Technique Page](https://metalforge.io/techniques/gallop)
 
 ### Related Techniques
 - [Double Bass](https://metalforge.io/techniques/double-bass) — [Deep Dive](https://metalforge.io/llms/technique/double-bass.md)
@@ -88,4 +88,4 @@ A: Closely related techniques include Double Bass, Groove Drumming. Mastering th
 
 ---
 
-*Last updated: 2026-07-16 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-17 · Source: [MetalForge.io](https://metalforge.io)*

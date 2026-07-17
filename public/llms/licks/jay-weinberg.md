@@ -29,7 +29,7 @@ When Jay Weinberg stepped into Slipknot, he brought a furious, physical, hardcor
 - Add ghost notes and accents last to capture his aggression
 - Stay relaxed enough to keep the intensity up for the whole song
 
-**Core Techniques:** [Double Bass](https://metalforge.io/technique/double-bass), [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
+**Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## The Devil in I Groove & Dynamics
 
@@ -52,7 +52,7 @@ When Jay Weinberg stepped into Slipknot, he brought a furious, physical, hardcor
 - Keep the chorus backbeat heavy but in time, not rushed
 - Place fills to signal section changes, not to fill every gap
 
-**Core Techniques:** [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Double Bass](https://metalforge.io/technique/double-bass), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
+**Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Duality Live Groove Powerhouse
 
@@ -75,7 +75,7 @@ When Jay Weinberg stepped into Slipknot, he brought a furious, physical, hardcor
 - Keep the tempo steady; the energy comes from feel, not rushing
 - Save the biggest fills for the chorus lifts
 
-**Core Techniques:** [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Double Bass](https://metalforge.io/technique/double-bass), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
+**Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Teaching Points
 

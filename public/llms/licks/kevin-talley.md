@@ -26,7 +26,7 @@ Kevin Talley's gravity blast technique from Killing on Adrenaline uses the stick
 - Keep a very loose grip — any tension in the hand prevents the rebound from doing its job
 - Start at a tempo where every stroke rebounds cleanly, not the fastest you can manage — build tempo only after the stroke mechanics are consistent
 
-**Core Techniques:** [Gravity Blast](https://metalforge.io/technique/blast-beat), [Double Bass](https://metalforge.io/technique/double-bass), [Wrist Technique](https://metalforge.io/technique/wrist-technique)
+**Core Techniques:** [Gravity Blast](https://metalforge.io/techniques/blast-beat), [Double Bass](https://metalforge.io/techniques/double-bass), [Wrist Technique](https://metalforge.io/techniques/wrist-technique)
 
 ## Killing on Adrenaline Two-Handed Blast
 
@@ -46,7 +46,7 @@ The title-track blast from this Dying Fetus classic pushes two-handed snare blas
 - Add the double bass only after both hands are even — the feet amplify any existing hand imbalance
 - Use a timer to build blast endurance in sets: 30 seconds on, 30 seconds rest, gradually extending the on-time
 
-**Core Techniques:** [Blast Beat](https://metalforge.io/technique/blast-beat), [Double Bass](https://metalforge.io/technique/double-bass), [Single Stroke Roll](https://metalforge.io/technique/single-stroke-roll)
+**Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Double Bass](https://metalforge.io/techniques/double-bass), [Single Stroke Roll](https://metalforge.io/techniques/single-stroke-roll)
 
 ## Destroy the Opposition Groove Breakdown
 
@@ -66,7 +66,7 @@ From Dying Fetus's 2000 album, this groove breakdown section shows Talley's abil
 - Record with a bass guitar backing track to check whether the kick genuinely locks with the bass line
 - Resist filling every gap — the discipline of leaving space is the defining characteristic of this style
 
-**Core Techniques:** [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Pocket Playing](https://metalforge.io/technique/pocket-playing), [Dynamics](https://metalforge.io/technique/dynamics)
+**Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Pocket Playing](https://metalforge.io/techniques/pocket-playing), [Dynamics](https://metalforge.io/techniques/dynamics)
 
 
 ## Teaching Points

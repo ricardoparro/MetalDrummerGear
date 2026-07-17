@@ -29,7 +29,7 @@ Art Cruz is one of Groove Metal's most influential drummers, best known for thei
 - Record yourself and count the bar divisions out loud to verify the cross-accents are landing where intended
 - Listen to the guitar riff and drum pattern simultaneously to hear how the polyrhythmic tension resolves at the bar line
 
-**Core Techniques:** [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Double Bass](https://metalforge.io/technique/double-bass), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
+**Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## New Colossal Hate Snare-Bass Interplay
 
@@ -52,7 +52,7 @@ Art Cruz is one of Groove Metal's most influential drummers, best known for thei
 - Lock to a guitar recording rather than a metronome alone to feel the riff-lock dimension of the groove
 - Record yourself and listen for whether the snare backbeats are consistently weighted — any thinness breaks the authority of the groove
 
-**Core Techniques:** [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Double Bass](https://metalforge.io/technique/double-bass), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
+**Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Gomorrah Blast-to-Groove Transition
 
@@ -75,7 +75,7 @@ Art Cruz is one of Groove Metal's most influential drummers, best known for thei
 - Use a metronome at full tempo and mark the transition beat so you can feel it approaching without watching a score
 - Record the full-speed run and zoom in on the transition point to check for any tempo fluctuation or hesitation
 
-**Core Techniques:** [Blast Technique](https://metalforge.io/technique/blast-technique), [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Double Bass](https://metalforge.io/technique/double-bass)
+**Core Techniques:** [Blast Technique](https://metalforge.io/techniques/blast-technique), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass)
 
 ## Ghost Walking — Live Groove Setup
 
@@ -98,7 +98,7 @@ Art Cruz is one of Groove Metal's most influential drummers, best known for thei
 - Listen to both Adler's studio version and Cruz's live performances to compare how the same arrangement sounds with different kit setups
 - Record yourself and compare the backbeat consistency — any variation in snare weight erodes the groove's authority
 
-**Core Techniques:** [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Double Bass](https://metalforge.io/technique/double-bass), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
+**Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Laid to Rest — Art Cruz Live Interpretation
 
@@ -121,7 +121,7 @@ Art Cruz is one of Groove Metal's most influential drummers, best known for thei
 - Work the double-bass pattern against just the click before integrating the guitar riff reference — internal stability first
 - Practise the full song at performance tempo regularly to build the endurance Cruz needs to deliver it night after night on tour
 
-**Core Techniques:** [Double Bass](https://metalforge.io/technique/double-bass), [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
+**Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## New Colossal Hate — Studio Debut Setup
 
@@ -144,7 +144,7 @@ Art Cruz is one of Groove Metal's most influential drummers, best known for thei
 - Tune your snare before the session and compare it to the recording — the dry, punchy attack is part of the groove's character
 - Record your playing and focus on the kick-riff lock point specifically — any looseness in that relationship is immediately audible
 
-**Core Techniques:** [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Double Bass](https://metalforge.io/technique/double-bass), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
+**Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Teaching Points
 

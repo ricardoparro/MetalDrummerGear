@@ -29,7 +29,7 @@ Daray (Daray Czajka) is one of Symphonic Black Metal's most technically accompli
 - Record your blast alongside the track and compare stroke weight consistency — unevenness is immediately audible against the orchestra
 - Study the orchestral parts alongside the drums to understand the ensemble context of each blast section
 
-**Core Techniques:** [Blast Beat](https://metalforge.io/technique/blast-beat), [Orchestral Metal](https://metalforge.io/technique/orchestral-metal), [Tempo Precision](https://metalforge.io/technique/tempo-precision)
+**Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Orchestral Metal](https://metalforge.io/techniques/orchestral-metal), [Tempo Precision](https://metalforge.io/techniques/tempo-precision)
 
 ## Progenies of the Great Apocalypse — Live Double Bass Command
 
@@ -52,7 +52,7 @@ Daray (Daray Czajka) is one of Symphonic Black Metal's most technically accompli
 - Study the Forces of the Northern Night recording closely to hear how the double bass matches the orchestral texture in climactic sections
 - Build endurance by practising the double bass pattern continuously for extended periods, not just in isolated short bursts
 
-**Core Techniques:** [Double Bass](https://metalforge.io/technique/double-bass), [Live Performance](https://metalforge.io/technique/live-performance), [Orchestral Metal](https://metalforge.io/technique/orchestral-metal)
+**Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Live Performance](https://metalforge.io/techniques/live-performance), [Orchestral Metal](https://metalforge.io/techniques/orchestral-metal)
 
 ## Council of Wolves and Snakes — Groove Architecture in Symphonic Metal
 
@@ -75,7 +75,7 @@ Daray (Daray Czajka) is one of Symphonic Black Metal's most technically accompli
 - Practice the snare accent placements against a recording of just the orchestral parts before adding the full band texture
 - Record yourself with the track and compare your groove placement to Daray's — orchestral interlocking requires precision most groove practice doesn't demand
 
-**Core Techniques:** [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Orchestral Metal](https://metalforge.io/technique/orchestral-metal), [Syncopation](https://metalforge.io/technique/syncopation)
+**Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Orchestral Metal](https://metalforge.io/techniques/orchestral-metal), [Syncopation](https://metalforge.io/techniques/syncopation)
 
 ## Teaching Points
 

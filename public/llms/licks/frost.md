@@ -29,7 +29,7 @@ Frost (Kjetil-Vidar Haraldstad) is one of Black Metal's most influential drummer
 - Record yourself and listen back — evenness that sounds present while playing often disappears on recording
 - Drill the groove sections independently before connecting them to the blast passages
 
-**Core Techniques:** [Blast Beat](https://metalforge.io/technique/blast-beat), [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Black Metal](https://metalforge.io/technique/black-metal)
+**Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Black Metal](https://metalforge.io/techniques/black-metal)
 
 ## K.I.N.G. — Signature Mid-Tempo Black Metal Groove
 
@@ -52,7 +52,7 @@ Frost (Kjetil-Vidar Haraldstad) is one of Black Metal's most influential drummer
 - Count out the kick syncopation relative to the snare until it is automatic before playing to the track
 - Record yourself and compare the kick placement to the recording — fractions of a beat of displacement will be audible
 
-**Core Techniques:** [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Mid-Tempo](https://metalforge.io/technique/mid-tempo), [Rhythmic Precision](https://metalforge.io/technique/rhythmic-precision)
+**Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Mid-Tempo](https://metalforge.io/techniques/mid-tempo), [Rhythmic Precision](https://metalforge.io/techniques/rhythmic-precision)
 
 ## Mother North — Classic Mid-Paced Black Metal Feel
 
@@ -75,7 +75,7 @@ Frost (Kjetil-Vidar Haraldstad) is one of Black Metal's most influential drummer
 - Practice the sparse intro sections separately to build the restraint needed before the full groove enters
 - Record at tempo and compare snare placement to the original recording — hear where the compositional tension lives
 
-**Core Techniques:** [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Compositional Drumming](https://metalforge.io/technique/compositional-drumming), [Black Metal](https://metalforge.io/technique/black-metal)
+**Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Compositional Drumming](https://metalforge.io/techniques/compositional-drumming), [Black Metal](https://metalforge.io/techniques/black-metal)
 
 ## Teaching Points
 

@@ -29,7 +29,7 @@ Blake Richardson is one of Progressive Metal's most influential drummers, best k
 - Practise the transition points between different time signatures in isolation, treating each transition as its own short exercise
 - Record yourself and compare against the original — in 7/8, timing errors are more audible than in 4/4 because the asymmetry makes displacement easy to hear
 
-**Core Techniques:** [Odd Time](https://metalforge.io/technique/odd-time), [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
+**Core Techniques:** [Odd Time](https://metalforge.io/techniques/odd-time), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Lay Your Ghosts to Rest — Double Bass Ostinato
 
@@ -52,7 +52,7 @@ Blake Richardson is one of Progressive Metal's most influential drummers, best k
 - Build endurance by practising the densest patterns in short bursts — two minutes at full tempo, rest, repeat — before attempting a full run
 - Use a mirror or camera to check that upper-body independence is genuine; hands and feet should look like separate conversations
 
-**Core Techniques:** [Double Bass](https://metalforge.io/technique/double-bass), [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Odd Time](https://metalforge.io/technique/odd-time)
+**Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Odd Time](https://metalforge.io/techniques/odd-time)
 
 ## Telos — Progressive Fill Architecture
 
@@ -75,7 +75,7 @@ Blake Richardson is one of Progressive Metal's most influential drummers, best k
 - Experiment with building each fill from a rhythmic seed in the preceding bar — the fill should feel like a natural extension of the groove
 - Watch the playthrough video for each section transition and note not just the fill pattern but the dynamics and the entry/exit points
 
-**Core Techniques:** [Fills](https://metalforge.io/technique/fills), [Odd Time](https://metalforge.io/technique/odd-time), [Groove Drumming](https://metalforge.io/technique/groove-drumming)
+**Core Techniques:** [Fills](https://metalforge.io/techniques/fills), [Odd Time](https://metalforge.io/techniques/odd-time), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## Teaching Points
 

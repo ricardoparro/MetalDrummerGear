@@ -26,7 +26,7 @@ Nick Augusto's main groove from Trivium's title track drives from the ride cymba
 - Add the snare second, focusing on consistent attack weight — metalcore snare tone must be forward and present in the mix
 - Introduce the kick last, mapping which beats correspond to burst vs continuous double bass in the song structure
 
-**Core Techniques:** [Ride Cymbal](https://metalforge.io/technique/ride-cymbal), [Double Bass](https://metalforge.io/technique/double-bass), [Groove Drumming](https://metalforge.io/technique/groove-drumming)
+**Core Techniques:** [Ride Cymbal](https://metalforge.io/techniques/ride-cymbal), [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## Built to Fall Metalcore Fill Sequence
 
@@ -46,7 +46,7 @@ Augusto's fill language in this Trivium track constructs phrases as two-to-four-
 - Practise the two-beat fill as a complete phrase at 100 BPM: four bars of groove, fill, crash landing, then repeat
 - Slow each fill to 80 BPM and count the kick displacement positions explicitly before raising tempo
 
-**Core Techniques:** [Tom Fill](https://metalforge.io/technique/tom-fill), [Double Bass](https://metalforge.io/technique/double-bass), [Dynamics](https://metalforge.io/technique/dynamics)
+**Core Techniques:** [Tom Fill](https://metalforge.io/techniques/tom-fill), [Double Bass](https://metalforge.io/techniques/double-bass), [Dynamics](https://metalforge.io/techniques/dynamics)
 
 ## Vengeance Falls Blast Beat and Drive
 
@@ -66,7 +66,7 @@ The blast beat usage in Vengeance Falls is strategic rather than constant — sh
 - Practise the China cymbal accent in the blast section separately to develop the arm-weight consistency before combining with the blast pattern
 - Use a metronome and check that the first snare hit after the blast arrives exactly on the two — rushing from blast momentum is the most common error
 
-**Core Techniques:** [Blast Beat](https://metalforge.io/technique/blast-beat), [China Cymbal](https://metalforge.io/technique/china-cymbal), [Groove Drumming](https://metalforge.io/technique/groove-drumming)
+**Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [China Cymbal](https://metalforge.io/techniques/china-cymbal), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 
 ## Teaching Points

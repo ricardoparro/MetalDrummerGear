@@ -29,7 +29,7 @@ Tornado of Souls is one of the most celebrated songs in the thrash metal canon, 
 - Work on fills at the exact transition points in the song structure before attempting full runs
 - Record yourself to check that snare hits maintain consistent authority across the full tempo
 
-**Core Techniques:** [Thrash Groove](https://metalforge.io/technique/thrash-groove), [Precise Fills](https://metalforge.io/technique/precise-fills), [High Velocity Control](https://metalforge.io/technique/high-velocity-control)
+**Core Techniques:** [Thrash Groove](https://metalforge.io/techniques/thrash-groove), [Precise Fills](https://metalforge.io/techniques/precise-fills), [High Velocity Control](https://metalforge.io/techniques/high-velocity-control)
 
 ## Holy Wars Intro Blast Pattern
 
@@ -52,7 +52,7 @@ Holy Wars...The Punishment Due opens Rust in Peace with one of the most celebrat
 - Map the song's riff changes and rehearse transitions before attempting full runs
 - Record the full song at target tempo to assess whether clarity holds across the entire duration
 
-**Core Techniques:** [Blast Beat](https://metalforge.io/technique/blast-beat), [Thrash Groove](https://metalforge.io/technique/thrash-groove), [Syncopated Fill](https://metalforge.io/technique/syncopated-fill)
+**Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Thrash Groove](https://metalforge.io/techniques/thrash-groove), [Syncopated Fill](https://metalforge.io/techniques/syncopated-fill)
 
 ## Hangar 18 Technical Fill Sequence
 
@@ -75,7 +75,7 @@ Hangar 18 from Rust in Peace (1990) is one of the most harmonically and structur
 - Map every structural section of the song — the arrangement is complex and requires active navigation
 - Record at tempo and review fill clarity — individual stroke distinctness is the quality marker here
 
-**Core Techniques:** [Rapid Fill Sequences](https://metalforge.io/technique/rapid-fill-sequences), [Polyrhythmic Independence](https://metalforge.io/technique/polyrhythmic-independence), [Tempo Control](https://metalforge.io/technique/tempo-control)
+**Core Techniques:** [Rapid Fill Sequences](https://metalforge.io/techniques/rapid-fill-sequences), [Polyrhythmic Independence](https://metalforge.io/techniques/polyrhythmic-independence), [Tempo Control](https://metalforge.io/techniques/tempo-control)
 
 ## Tornado of Souls Double-Bass Roll
 
@@ -98,7 +98,7 @@ The double-bass roll that launches each verse section of Tornado of Souls is one
 - Target the exact transition point where the roll ends and the groove begins — that arrival must land cleanly on the barline
 - Listen to Rust in Peace with headphones and focus exclusively on the kick drum to study Menza's dynamic approach to each roll
 
-**Core Techniques:** [Double Bass](https://metalforge.io/technique/double-bass), [Dynamic Shaping](https://metalforge.io/technique/dynamic-shaping), [Riff Lock](https://metalforge.io/technique/riff-lock)
+**Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Dynamic Shaping](https://metalforge.io/techniques/dynamic-shaping), [Riff Lock](https://metalforge.io/techniques/riff-lock)
 
 ## Holy Wars Gallop Groove
 
@@ -121,7 +121,7 @@ The gallop groove that drives the verse sections of Holy Wars...The Punishment D
 - Record at each tempo increment to catch triplet compression early before it solidifies into a habit
 - Build the full seven-minute stamina in practice — the gallop must maintain character at the end of the song as at the start
 
-**Core Techniques:** [Gallop Groove](https://metalforge.io/technique/gallop-groove), [Riff Lock](https://metalforge.io/technique/riff-lock), [Thrash Groove](https://metalforge.io/technique/thrash-groove)
+**Core Techniques:** [Gallop Groove](https://metalforge.io/techniques/gallop-groove), [Riff Lock](https://metalforge.io/techniques/riff-lock), [Thrash Groove](https://metalforge.io/techniques/thrash-groove)
 
 ## Sweating Bullets Tick-Tock Swing
 
@@ -144,7 +144,7 @@ Sweating Bullets from Megadeth's Countdown to Extinction (1992) contains the mos
 - Record yourself and compare directly to the recording — any stiffness in the swing timing is immediately audible in comparison
 - Explore jazz swing drumming briefly to understand the feel Menza draws on — the pattern makes more sense in that broader rhythmic context
 
-**Core Techniques:** [Swing Groove](https://metalforge.io/technique/swing-groove), [Hi Hat Control](https://metalforge.io/technique/hi-hat-control), [Groove Drumming](https://metalforge.io/technique/groove-drumming)
+**Core Techniques:** [Swing Groove](https://metalforge.io/techniques/swing-groove), [Hi Hat Control](https://metalforge.io/techniques/hi-hat-control), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## Teaching Points
 

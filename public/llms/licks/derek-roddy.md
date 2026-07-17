@@ -29,7 +29,7 @@ Hate Eternal's 2002 album King of All Kings is one of the defining records of mo
 - Practise the kick and snare hand together slowly to lock their alignment
 - Use a metronome and add 5 BPM at a time to build endurance without breaking down
 
-**Core Techniques:** [Blast Beat](https://metalforge.io/technique/blast-beat), [Double Bass](https://metalforge.io/technique/double-bass), [One Handed Roll](https://metalforge.io/technique/one-handed-roll)
+**Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Double Bass](https://metalforge.io/techniques/double-bass), [One Handed Roll](https://metalforge.io/techniques/one-handed-roll)
 
 ## I, Monarch Double-Bass Control
 
@@ -52,7 +52,7 @@ Derek Roddy is as celebrated for his feet as for his hands, and Hate Eternal's I
 - Loop short double-bass bursts under a steady snare before stringing them together
 - Add tempo in small increments so evenness never breaks down
 
-**Core Techniques:** [Double Bass](https://metalforge.io/technique/double-bass), [Blast Beat](https://metalforge.io/technique/blast-beat), [Linear Drumming](https://metalforge.io/technique/linear-drumming)
+**Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Blast Beat](https://metalforge.io/techniques/blast-beat), [Linear Drumming](https://metalforge.io/techniques/linear-drumming)
 
 ## Sons of Darkness Speed & Endurance Study
 
@@ -75,7 +75,7 @@ More than almost any drummer of his era, Derek Roddy is associated with the idea
 - Treat speed as a side effect of clean motion, not a goal in itself
 - Build stamina with longer reps at a comfortable tempo before pushing the ceiling
 
-**Core Techniques:** [Blast Beat](https://metalforge.io/technique/blast-beat), [Double Bass](https://metalforge.io/technique/double-bass), [Gravity Blast](https://metalforge.io/technique/gravity-blast)
+**Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Double Bass](https://metalforge.io/techniques/double-bass), [Gravity Blast](https://metalforge.io/techniques/gravity-blast)
 
 ## Gravity Blast Technique
 
@@ -98,7 +98,7 @@ The gravity blast is a technique where the stick is raised and dropped so gravit
 - Add the kick only once the gravity blast runs effortlessly for 30+ seconds alone
 - Build tempo in very small increments — the technique must be automatic before adding speed
 
-**Core Techniques:** [Blast Beat](https://metalforge.io/technique/blast-beat), [Gravity Blast](https://metalforge.io/technique/gravity-blast), [Double Bass](https://metalforge.io/technique/double-bass)
+**Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Gravity Blast](https://metalforge.io/techniques/gravity-blast), [Double Bass](https://metalforge.io/techniques/double-bass)
 
 ## Evilution Polyrhythmic Fill
 
@@ -121,7 +121,7 @@ Before Hate Eternal, Derek Roddy drummed on Monstrosity's Evilution (1996), one 
 - Record yourself to hear if the accents land cleanly and the fill resolves at the bar line
 - Practise transitions into and out of the fill with the blast beat around it
 
-**Core Techniques:** [Polyrhythms](https://metalforge.io/technique/polyrhythms), [Blast Beat](https://metalforge.io/technique/blast-beat), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
+**Core Techniques:** [Polyrhythms](https://metalforge.io/techniques/polyrhythms), [Blast Beat](https://metalforge.io/techniques/blast-beat), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Hate Eternal Descending Tom Fill
 
@@ -144,7 +144,7 @@ The descending tom fill is one of Roddy's most distinctive orchestral tools, app
 - Record yourself to check that each tom hit has the same volume through the descent
 - Raise tempo only once the fill sounds musical and even, not just technically completed
 
-**Core Techniques:** [Fill Techniques](https://metalforge.io/technique/fill-techniques), [Blast Beat](https://metalforge.io/technique/blast-beat), [Double Bass](https://metalforge.io/technique/double-bass)
+**Core Techniques:** [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Blast Beat](https://metalforge.io/techniques/blast-beat), [Double Bass](https://metalforge.io/techniques/double-bass)
 
 ## Teaching Points
 

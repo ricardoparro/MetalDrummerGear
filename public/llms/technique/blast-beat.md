@@ -87,7 +87,7 @@ A: Closely related techniques include Gravity Blast, Double Bass, Triggered Drum
 - [Blast Beat Drummers on MetalForge](https://metalforge.io/technique/blast-beat/drummers)
 - [All Metal Drumming Techniques](https://metalforge.io/techniques)
 - [Signature Licks featuring Blast Beat](https://metalforge.io/licks)
-- [Blast Beat Technique Page](https://metalforge.io/technique/blast-beat)
+- [Blast Beat Technique Page](https://metalforge.io/techniques/blast-beat)
 
 ### Related Techniques
 - [Gravity Blast](https://metalforge.io/techniques/gravity-blast) — [Deep Dive](https://metalforge.io/llms/technique/gravity-blast.md)
@@ -96,4 +96,4 @@ A: Closely related techniques include Gravity Blast, Double Bass, Triggered Drum
 
 ---
 
-*Last updated: 2026-07-16 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-17 · Source: [MetalForge.io](https://metalforge.io)*

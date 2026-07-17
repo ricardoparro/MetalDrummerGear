@@ -203,7 +203,10 @@ function buildMarkdown(drummer, licks) {
     if (Array.isArray(lick.techniques) && lick.techniques.length > 0) {
       const techLinks = lick.techniques.map(t => {
         const label = t.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
-        return `[${label}](${BASE}/technique/${t})`;
+        // Issue #4771: was '/technique/<slug>' (singular) — the real technique
+        // detail page is '/techniques/<slug>' (plural); see the identical fix
+        // in generate-llms-techniques-per-slug.cjs.
+        return `[${label}](${BASE}/techniques/${t})`;
       }).join(', ');
       parts.push(`**Core Techniques:** ${techLinks}`);
       parts.push('');

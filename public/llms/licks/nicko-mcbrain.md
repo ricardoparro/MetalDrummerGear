@@ -29,7 +29,7 @@ Nicko McBrain is one of Heavy Metal's most influential drummers, best known for 
 - Build hand stamina — the song's drive comes from the hands
 - Practise the tom fills as controlled bursts that resolve cleanly
 
-**Core Techniques:** [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Fill Techniques](https://metalforge.io/technique/fill-techniques), [Linear Drumming](https://metalforge.io/technique/linear-drumming)
+**Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Linear Drumming](https://metalforge.io/techniques/linear-drumming)
 
 ## Aces High Full-Throttle Drive
 
@@ -52,7 +52,7 @@ Nicko McBrain is one of Heavy Metal's most influential drummers, best known for 
 - Practise the fills until they snap back into the pocket every time
 - Focus on consistency — the drive comes from holding the pattern
 
-**Core Techniques:** [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Fill Techniques](https://metalforge.io/technique/fill-techniques), [Linear Drumming](https://metalforge.io/technique/linear-drumming)
+**Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Linear Drumming](https://metalforge.io/techniques/linear-drumming)
 
 ## The Number of the Beast Live Groove
 
@@ -75,7 +75,7 @@ Nicko McBrain is one of Heavy Metal's most influential drummers, best known for 
 - Keep the tempo steady — energy comes from drive, not rushing
 - Play with confidence; the anthem demands showmanship
 
-**Core Techniques:** [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Fill Techniques](https://metalforge.io/technique/fill-techniques), [Linear Drumming](https://metalforge.io/technique/linear-drumming)
+**Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Linear Drumming](https://metalforge.io/techniques/linear-drumming)
 
 ## Teaching Points
 

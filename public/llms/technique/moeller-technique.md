@@ -80,7 +80,7 @@ A: Closely related techniques include Blast Beat, One Handed Roll, Hand Foot Ind
 - [Moeller Technique Drummers on MetalForge](https://metalforge.io/technique/moeller-technique/drummers)
 - [All Metal Drumming Techniques](https://metalforge.io/techniques)
 - [Signature Licks featuring Moeller Technique](https://metalforge.io/licks)
-- [Moeller Technique Technique Page](https://metalforge.io/technique/moeller-technique)
+- [Moeller Technique Technique Page](https://metalforge.io/techniques/moeller-technique)
 
 ### Related Techniques
 - [Blast Beat](https://metalforge.io/techniques/blast-beat) — [Deep Dive](https://metalforge.io/llms/technique/blast-beat.md)
@@ -89,4 +89,4 @@ A: Closely related techniques include Blast Beat, One Handed Roll, Hand Foot Ind
 
 ---
 
-*Last updated: 2026-07-16 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-17 · Source: [MetalForge.io](https://metalforge.io)*

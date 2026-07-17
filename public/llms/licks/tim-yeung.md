@@ -26,7 +26,7 @@ Tim Yeung's blast beat from Divine Heresy's debut title track is driven by clean
 - Record yourself and listen for snare evenness; individual weak strokes show up clearly in recordings even at full speed
 - Practise the kick separately at blast tempo to verify both feet are producing identical tone before combining with hands
 
-**Core Techniques:** [Blast Beat](https://metalforge.io/technique/blast-beat), [Double Bass](https://metalforge.io/technique/double-bass), [Single Stroke Roll](https://metalforge.io/technique/single-stroke-roll)
+**Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Double Bass](https://metalforge.io/techniques/double-bass), [Single Stroke Roll](https://metalforge.io/techniques/single-stroke-roll)
 
 ## Inferno of Violence Double Bass Drive
 
@@ -46,7 +46,7 @@ The double bass drive section from this Divine Heresy track operates at ~195 BPM
 - Record the feet with a kick mic and compare left and right foot tone; match them before adding speed
 - Loop eight-bar double bass passages rather than one-bar bursts to build the endurance the song demands
 
-**Core Techniques:** [Double Bass](https://metalforge.io/technique/double-bass), [Heel-Up Technique](https://metalforge.io/technique/heel-up), [Independence](https://metalforge.io/technique/independence)
+**Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Heel-Up Technique](https://metalforge.io/techniques/heel-up), [Independence](https://metalforge.io/techniques/independence)
 
 ## Anarchists of the Underground Speed Groove
 
@@ -66,7 +66,7 @@ This track from Bleed the Fifth demonstrates Yeung's ability to create a groove 
 - Practise the kick-riff mirroring by listening to the guitar track alone and mapping which attack points the kick follows
 - Slow the full groove to 120 BPM and listen for ghost note audibility — only raise tempo once ghost notes remain present and consistent
 
-**Core Techniques:** [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Double Bass](https://metalforge.io/technique/double-bass), [Ghost Notes](https://metalforge.io/technique/ghost-notes)
+**Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass), [Ghost Notes](https://metalforge.io/techniques/ghost-notes)
 
 
 ## Teaching Points

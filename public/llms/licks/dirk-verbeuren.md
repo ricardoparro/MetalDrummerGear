@@ -29,7 +29,7 @@ Dirk Verbeuren brought a new level of extreme-metal precision to Megadeth when h
 - Practise the blast-to-groove transitions in isolation
 - Keep the playing relaxed so speed stays articulate
 
-**Core Techniques:** [Double Bass](https://metalforge.io/technique/double-bass), [Blast Beat](https://metalforge.io/technique/blast-beat), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
+**Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Blast Beat](https://metalforge.io/techniques/blast-beat), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Mechanix Thrash Speed Workout
 
@@ -52,7 +52,7 @@ Dirk Verbeuren brought a new level of extreme-metal precision to Megadeth when h
 - Focus on consistency over a full song, not short bursts
 - Lock the double bass to the riff for a tight feel
 
-**Core Techniques:** [Double Bass](https://metalforge.io/technique/double-bass), [Blast Beat](https://metalforge.io/technique/blast-beat), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
+**Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Blast Beat](https://metalforge.io/techniques/blast-beat), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## King of the Threshold Blast Masterclass
 
@@ -75,7 +75,7 @@ Before Megadeth, Dirk Verbeuren spent years as the drummer for Swedish melodic d
 - Lock the blasts and double bass to the riffs
 - Keep the blasting clean — aim for musical, not noisy
 
-**Core Techniques:** [Blast Beat](https://metalforge.io/technique/blast-beat), [Double Bass](https://metalforge.io/technique/double-bass), [Gravity Blast](https://metalforge.io/technique/gravity-blast)
+**Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Double Bass](https://metalforge.io/techniques/double-bass), [Gravity Blast](https://metalforge.io/techniques/gravity-blast)
 
 ## Teaching Points
 

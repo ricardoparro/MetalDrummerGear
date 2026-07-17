@@ -29,7 +29,7 @@ Bill Ward is one of Heavy Metal / Hard Rock's most influential drummers, best kn
 - Listen to the original recording and match the weight and looseness of the kick
 - Lock the kick and snare to Iommi's riff rather than the click alone
 
-**Core Techniques:** [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Ghost Notes](https://metalforge.io/technique/ghost-notes), [Jazz Feel](https://metalforge.io/technique/jazz-feel)
+**Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Ghost Notes](https://metalforge.io/techniques/ghost-notes), [Jazz Feel](https://metalforge.io/techniques/jazz-feel)
 
 ## Iron Man Intro & Verse Groove
 
@@ -52,7 +52,7 @@ Bill Ward is one of Heavy Metal / Hard Rock's most influential drummers, best kn
 - Lock the kick to the guitar riff, not just the click
 - Practise the simple groove until it feels authoritative before adding complexity
 
-**Core Techniques:** [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Dynamic Control](https://metalforge.io/technique/dynamic-control), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
+**Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Dynamic Control](https://metalforge.io/techniques/dynamic-control), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## N.I.B. Blues-Shuffle Feel
 
@@ -75,7 +75,7 @@ Bill Ward is one of Heavy Metal / Hard Rock's most influential drummers, best kn
 - Keep ghost notes very soft so they swing without cluttering
 - Let the kick follow the bass riff naturally rather than staying on a fixed pattern
 
-**Core Techniques:** [Shuffle Feel](https://metalforge.io/technique/shuffle-feel), [Ghost Notes](https://metalforge.io/technique/ghost-notes), [Groove Drumming](https://metalforge.io/technique/groove-drumming)
+**Core Techniques:** [Shuffle Feel](https://metalforge.io/techniques/shuffle-feel), [Ghost Notes](https://metalforge.io/techniques/ghost-notes), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## Teaching Points
 

@@ -29,7 +29,7 @@ Richard Christy is one of Technical Death Metal / Death Metal's most influential
 - Listen for where Christy shifts his snare accents — transcribe them before attempting to replicate
 - Record at incremental tempos (150, 170, 190, 210 BPM) and listen for when clarity degrades — that is your current ceiling
 
-**Core Techniques:** [Blast Beat](https://metalforge.io/technique/blast-beat), [Double Bass](https://metalforge.io/technique/double-bass), [Technical Death Metal](https://metalforge.io/technique/technical-death-metal)
+**Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Double Bass](https://metalforge.io/techniques/double-bass), [Technical Death Metal](https://metalforge.io/techniques/technical-death-metal)
 
 ## Flesh and the Power It Holds Progressive Fill
 
@@ -52,7 +52,7 @@ Richard Christy is one of Technical Death Metal / Death Metal's most influential
 - Record yourself across the full eight minutes and check that the fill intensity stays consistent from start to finish
 - Practise the meter change passages with a time signature map, counting out loud until the navigation is internal
 
-**Core Techniques:** [Fills](https://metalforge.io/technique/fills), [Polyrhythms](https://metalforge.io/technique/polyrhythms), [Technical Death Metal](https://metalforge.io/technique/technical-death-metal)
+**Core Techniques:** [Fills](https://metalforge.io/techniques/fills), [Polyrhythms](https://metalforge.io/techniques/polyrhythms), [Technical Death Metal](https://metalforge.io/techniques/technical-death-metal)
 
 ## Voice of the Soul Linear Pattern
 
@@ -75,7 +75,7 @@ Richard Christy is one of Technical Death Metal / Death Metal's most influential
 - Practise the kit voicing sequence as a melodic phrase — sing it before you play it to internalise the sound order
 - Record yourself and check that the drum part is supporting the guitar melody, not competing with it in volume or density
 
-**Core Techniques:** [Linear Drumming](https://metalforge.io/technique/linear-drumming), [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Fills](https://metalforge.io/technique/fills)
+**Core Techniques:** [Linear Drumming](https://metalforge.io/techniques/linear-drumming), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fills](https://metalforge.io/techniques/fills)
 
 ## Teaching Points
 

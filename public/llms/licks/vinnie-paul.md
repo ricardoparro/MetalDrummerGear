@@ -29,7 +29,7 @@ Vinnie Paul is one of Groove Metal / Thrash Metal's most influential drummers, b
 - Resist adding fills; practise leaving space deliberately
 - Play along with the track to internalise the swagger and weight
 
-**Core Techniques:** [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
+**Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Cowboys from Hell Driving Groove
 
@@ -52,7 +52,7 @@ Vinnie Paul is one of Groove Metal / Thrash Metal's most influential drummers, b
 - Practise the fills in isolation so they land tight at speed
 - Play along with the live drum cam to copy the feel and energy
 
-**Core Techniques:** [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Double Bass](https://metalforge.io/technique/double-bass), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
+**Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Domination Double-Bass Breakdown
 
@@ -75,7 +75,7 @@ Vinnie Paul is one of Groove Metal / Thrash Metal's most influential drummers, b
 - Use a metronome to keep the double-bass even and free of rushing
 - Study a charted version to map the foot patterns through the breakdown
 
-**Core Techniques:** [Double Bass](https://metalforge.io/technique/double-bass), [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
+**Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## VDoP Syncopated Groove Pocket
 
@@ -98,7 +98,7 @@ Vinnie Paul is one of Groove Metal / Thrash Metal's most influential drummers, b
 - Use a metronome and work up slowly — the groove has to swing, not just be technically correct
 - Listen to the isolated drum track to hear how the syncopation resolves into the pocket
 
-**Core Techniques:** [Syncopation](https://metalforge.io/technique/syncopation), [Groove Drumming](https://metalforge.io/technique/groove-drumming)
+**Core Techniques:** [Syncopation](https://metalforge.io/techniques/syncopation), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## Far Beyond Driven 16th-Note Double Bass
 
@@ -121,7 +121,7 @@ Far Beyond Driven is the heaviest Pantera album, and Paul's 16th-note double-bas
 - Use a metronome and build in 5 BPM increments from a comfortable starting point
 - Add the backbeat only once the kick pattern is clean and sustainable at tempo
 
-**Core Techniques:** [Double Bass](https://metalforge.io/technique/double-bass), [Groove Drumming](https://metalforge.io/technique/groove-drumming)
+**Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## Walk Signature Drum Groove
 
@@ -144,7 +144,7 @@ The core "Walk" drum pattern — slightly swung hi-hat, enormous backbeat on two
 - Swing the hi-hat feel very subtly — too straight loses the swagger, too much loses the power
 - Play along with the track and match the weight and attitude before worrying about precision
 
-**Core Techniques:** [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
+**Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Teaching Points
 

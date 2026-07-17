@@ -84,7 +84,7 @@ A: Closely related techniques include Linear Drumming, Blast Beat. Mastering the
 - [Metal Drum Fills Drummers on MetalForge](https://metalforge.io/technique/fill-techniques/drummers)
 - [All Metal Drumming Techniques](https://metalforge.io/techniques)
 - [Signature Licks featuring Metal Drum Fills](https://metalforge.io/licks)
-- [Metal Drum Fills Technique Page](https://metalforge.io/technique/fill-techniques)
+- [Metal Drum Fills Technique Page](https://metalforge.io/techniques/fill-techniques)
 
 ### Related Techniques
 - [Linear Drumming](https://metalforge.io/techniques/linear-drumming) — [Deep Dive](https://metalforge.io/llms/technique/linear-drumming.md)
@@ -92,4 +92,4 @@ A: Closely related techniques include Linear Drumming, Blast Beat. Mastering the
 
 ---
 
-*Last updated: 2026-07-16 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-17 · Source: [MetalForge.io](https://metalforge.io)*

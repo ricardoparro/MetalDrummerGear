@@ -77,7 +77,7 @@ A: Closely related techniques include Rudiments, Ghost Notes. Mastering these co
 - [Flams Drummers on MetalForge](https://metalforge.io/technique/flams/drummers)
 - [All Metal Drumming Techniques](https://metalforge.io/techniques)
 - [Signature Licks featuring Flams](https://metalforge.io/licks)
-- [Flams Technique Page](https://metalforge.io/technique/flams)
+- [Flams Technique Page](https://metalforge.io/techniques/flams)
 
 ### Related Techniques
 - [Rudiments](https://metalforge.io/techniques/rudiments) — [Deep Dive](https://metalforge.io/llms/technique/rudiments.md)
@@ -85,4 +85,4 @@ A: Closely related techniques include Rudiments, Ghost Notes. Mastering these co
 
 ---
 
-*Last updated: 2026-07-16 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-17 · Source: [MetalForge.io](https://metalforge.io)*

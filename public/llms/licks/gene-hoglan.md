@@ -29,7 +29,7 @@ Gene Hoglan's work on Dark Angel's Darkness Descends, released in 1986, is one o
 - Use a single kick pedal to develop this specific technique before switching to double bass
 - Record yourself to monitor stroke evenness — both hands should sound identical in volume
 
-**Core Techniques:** [Blast Beat](https://metalforge.io/technique/blast-beat), [Wrist Technique](https://metalforge.io/technique/wrist-technique), [Single Bass](https://metalforge.io/technique/single-bass)
+**Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Wrist Technique](https://metalforge.io/techniques/wrist-technique), [Single Bass](https://metalforge.io/techniques/single-bass)
 
 ## Symbolic Groove-to-Blast Switch
 
@@ -52,7 +52,7 @@ The Symbolic album (1995) represents the apex of Gene Hoglan's collaboration wit
 - Record the full passage to check that each section feels genuinely different in density and feel
 - Keep fills short and decisive — the transition should happen in two to four strokes maximum
 
-**Core Techniques:** [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Blast Beat](https://metalforge.io/technique/blast-beat), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
+**Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Blast Beat](https://metalforge.io/techniques/blast-beat), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## The Philosopher Groove
 
@@ -75,7 +75,7 @@ The Philosopher is a cornerstone of technical death metal drumming and one of Ge
 - Keep the hands relaxed in the half-time pocket
 - Take breaks - sustained fast double bass is physically demanding
 
-**Core Techniques:** [Double Bass](https://metalforge.io/technique/double-bass), [Fill Techniques](https://metalforge.io/technique/fill-techniques), [Groove Drumming](https://metalforge.io/technique/groove-drumming)
+**Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## Crystal Mountain Groove
 
@@ -98,7 +98,7 @@ Crystal Mountain, from Death's landmark Symbolic album, contains some of Gene Ho
 - Transcribe and isolate the famous climax fill
 - Listen closely to the recording to capture the feel between sections
 
-**Core Techniques:** [Double Bass](https://metalforge.io/technique/double-bass), [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
+**Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Zero Tolerance Groove
 
@@ -121,7 +121,7 @@ Zero Tolerance, the opening track of Death's Symbolic, is a showcase for Gene Ho
 - Focus on feel - the bridge should pocket and groove, not feel stiff
 - Use fills to clearly mark the transitions between sections
 
-**Core Techniques:** [Double Bass](https://metalforge.io/technique/double-bass), [Blast Beat](https://metalforge.io/technique/blast-beat), [Groove Drumming](https://metalforge.io/technique/groove-drumming)
+**Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Blast Beat](https://metalforge.io/techniques/blast-beat), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## Teaching Points
 

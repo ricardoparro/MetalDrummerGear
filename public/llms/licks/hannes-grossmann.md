@@ -29,7 +29,7 @@ Hannes Grossmann built his reputation as one of technical death metal's most pre
 - Isolate each rhythmic cell, then connect them one transition at a time
 - Keep the playing relaxed so complexity stays controlled at tempo
 
-**Core Techniques:** [Double Bass](https://metalforge.io/technique/double-bass), [Blast Beat](https://metalforge.io/technique/blast-beat), [Odd Time Signatures](https://metalforge.io/technique/odd-time-signatures)
+**Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Blast Beat](https://metalforge.io/techniques/blast-beat), [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures)
 
 ## In Turmoil's Swirling Reaches Polyrhythm Study
 
@@ -52,7 +52,7 @@ With Alkaloid, Hannes Grossmann pushes his playing into progressive, composition
 - Count the cross-rhythms out loud to internalise where they resolve
 - Keep the anchor limb steady so the groove survives the complexity
 
-**Core Techniques:** [Polyrhythms](https://metalforge.io/technique/polyrhythms), [Odd Time Signatures](https://metalforge.io/technique/odd-time-signatures), [Double Bass](https://metalforge.io/technique/double-bass)
+**Core Techniques:** [Polyrhythms](https://metalforge.io/techniques/polyrhythms), [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures), [Double Bass](https://metalforge.io/techniques/double-bass)
 
 ## Septuagint Odd-Time Mastery
 
@@ -75,7 +75,7 @@ Grossmann's tenure in Obscura produced some of the most acclaimed technical deat
 - Practise the accent pattern by clapping before playing it on the kit
 - Add the double bass only once the odd-time feel is solid
 
-**Core Techniques:** [Odd Time Signatures](https://metalforge.io/technique/odd-time-signatures), [Double Bass](https://metalforge.io/technique/double-bass), [Blast Beat](https://metalforge.io/technique/blast-beat)
+**Core Techniques:** [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures), [Double Bass](https://metalforge.io/techniques/double-bass), [Blast Beat](https://metalforge.io/techniques/blast-beat)
 
 ## Teaching Points
 

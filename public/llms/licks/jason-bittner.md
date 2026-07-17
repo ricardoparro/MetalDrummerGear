@@ -29,7 +29,7 @@ Jason Bittner is one of Groove Metal / Metalcore's most influential drummers, be
 - Focus on the verse's slightly-behind feel by practising to a metronome and consciously placing strokes just after the click
 - Slow the breakdown riff-unison section to 70% tempo and count the accent positions carefully before bringing it back to speed
 
-**Core Techniques:** [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Double Bass](https://metalforge.io/technique/double-bass), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
+**Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## What Drives the Weak Metalcore Fill Sequence
 
@@ -52,7 +52,7 @@ Jason Bittner is one of Groove Metal / Metalcore's most influential drummers, be
 - Practise the ghost-note verse build leading into each fill as a single continuous phrase — the fill quality depends on what precedes it
 - Record yourself and count whether your fills are landing on the right beat; small timing errors at 170 BPM are hard to hear in real-time but obvious in playback
 
-**Core Techniques:** [Fill Techniques](https://metalforge.io/technique/fill-techniques), [Double Bass](https://metalforge.io/technique/double-bass), [Groove Drumming](https://metalforge.io/technique/groove-drumming)
+**Core Techniques:** [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## Overkill Thrash Double Bass Run
 
@@ -75,7 +75,7 @@ Jason Bittner joined Overkill in 2017, taking the drum seat for one of thrash me
 - Build double bass runs gradually by starting at 130 BPM and increasing 5 BPM per session — evenness first, speed second
 - Record the full groove including ride and check whether your hi-hat accent pattern is audible above the double bass; if it disappears, the double bass is too loud dynamically
 
-**Core Techniques:** [Double Bass](https://metalforge.io/technique/double-bass), [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Blast Beat](https://metalforge.io/technique/blast-beat)
+**Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Blast Beat](https://metalforge.io/techniques/blast-beat)
 
 ## Teaching Points
 

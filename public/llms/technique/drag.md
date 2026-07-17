@@ -80,7 +80,7 @@ A: Closely related techniques include Double Stroke Roll, Paradiddle, Rudiments.
 - [Drag (Ruff) Drummers on MetalForge](https://metalforge.io/technique/drag/drummers)
 - [All Metal Drumming Techniques](https://metalforge.io/techniques)
 - [Signature Licks featuring Drag (Ruff)](https://metalforge.io/licks)
-- [Drag (Ruff) Technique Page](https://metalforge.io/technique/drag)
+- [Drag (Ruff) Technique Page](https://metalforge.io/techniques/drag)
 
 ### Related Techniques
 - [Double Stroke Roll](https://metalforge.io/techniques/double-stroke-roll) — [Deep Dive](https://metalforge.io/llms/technique/double-stroke-roll.md)
@@ -89,4 +89,4 @@ A: Closely related techniques include Double Stroke Roll, Paradiddle, Rudiments.
 
 ---
 
-*Last updated: 2026-07-16 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-17 · Source: [MetalForge.io](https://metalforge.io)*

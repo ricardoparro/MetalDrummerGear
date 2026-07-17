@@ -26,7 +26,7 @@ Jon Dette's mid-tempo thrash engine from Divine Intervention drives a steady 16t
 - Ghost notes are subtle — keep them at least 6 dB below the backbeat so they add texture without competing
 - Record yourself and listen for any rushing on the kick; 182 BPM demands even spacing throughout
 
-**Core Techniques:** [Double Bass](https://metalforge.io/technique/double-bass), [Ghost Notes](https://metalforge.io/technique/ghost-notes), [Thrash Groove](https://metalforge.io/technique/thrash-groove)
+**Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Ghost Notes](https://metalforge.io/techniques/ghost-notes), [Thrash Groove](https://metalforge.io/techniques/thrash-groove)
 
 ## Serenity in Fire Thrash Groove
 
@@ -46,7 +46,7 @@ This Slayer thrash groove from Divine Intervention features alternating bass dru
 - Keep the snare stroke height low and consistent to avoid fatigue during longer performance passages
 - Resist adding extra fills that aren't in the original — this groove is about power and consistency, not flash
 
-**Core Techniques:** [Double Bass](https://metalforge.io/technique/double-bass), [Thrash Groove](https://metalforge.io/technique/thrash-groove), [Ride Cymbal](https://metalforge.io/technique/ride-cymbal)
+**Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Thrash Groove](https://metalforge.io/techniques/thrash-groove), [Ride Cymbal](https://metalforge.io/techniques/ride-cymbal)
 
 ## Postmortem Precision Attack
 
@@ -66,7 +66,7 @@ The Reign in Blood classic pushes Dette's approach to 190 BPM, where the bass dr
 - Use a metronome and start at 150 BPM; add 5 BPM per session until 190 BPM feels relaxed and sustainable
 - Record and compare your version to the track — listen specifically for kick-snare alignment on the grid
 
-**Core Techniques:** [Double Bass](https://metalforge.io/technique/double-bass), [Thrash Groove](https://metalforge.io/technique/thrash-groove), [Single Stroke Roll](https://metalforge.io/technique/single-stroke-roll)
+**Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Thrash Groove](https://metalforge.io/techniques/thrash-groove), [Single Stroke Roll](https://metalforge.io/techniques/single-stroke-roll)
 
 
 ## Teaching Points

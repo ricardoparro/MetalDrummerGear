@@ -29,7 +29,7 @@ Raymond Herrera is one of Industrial Metal / Groove Metal's most influential dru
 - Add the snare accents only after the double bass pattern is stable at target tempo — layering too early builds bad habits
 - Record the kick through a trigger to objectively hear velocity consistency before attempting live performance
 
-**Core Techniques:** [Double Bass](https://metalforge.io/technique/double-bass), [Blast Technique](https://metalforge.io/technique/blast-technique), [Industrial Metal](https://metalforge.io/technique/industrial-metal)
+**Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Blast Technique](https://metalforge.io/techniques/blast-technique), [Industrial Metal](https://metalforge.io/techniques/industrial-metal)
 
 ## Edgecrusher Industrial Groove Pattern
 
@@ -52,7 +52,7 @@ Raymond Herrera is one of Industrial Metal / Groove Metal's most influential dru
 - Hold the pattern for two full minutes without fills before attempting section transitions
 - Compare recordings at half and full tempo to check that the syncopated placements stay clean as speed increases
 
-**Core Techniques:** [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Double Bass](https://metalforge.io/technique/double-bass), [Industrial Metal](https://metalforge.io/technique/industrial-metal)
+**Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass), [Industrial Metal](https://metalforge.io/techniques/industrial-metal)
 
 ## Linchpin Snare & Bass Interplay
 
@@ -75,7 +75,7 @@ Raymond Herrera is one of Industrial Metal / Groove Metal's most influential dru
 - Work the verse-to-chorus density shift in isolation: practise the transition back and forth until it is instant
 - Record both groove and fill sections and check that the machine-precise quality is audible at full speed
 
-**Core Techniques:** [Fills](https://metalforge.io/technique/fills), [Double Bass](https://metalforge.io/technique/double-bass), [Groove Drumming](https://metalforge.io/technique/groove-drumming)
+**Core Techniques:** [Fills](https://metalforge.io/techniques/fills), [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## Teaching Points
 

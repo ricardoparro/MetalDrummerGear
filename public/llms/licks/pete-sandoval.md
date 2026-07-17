@@ -29,7 +29,7 @@ Pete "Commando" Sandoval is one of the founding fathers of death metal drumming,
 - Practise the blast-to-groove transitions on their own
 - Stay relaxed — Sandoval's speed comes from control, not force
 
-**Core Techniques:** [Blast Beat](https://metalforge.io/technique/blast-beat), [Double Bass](https://metalforge.io/technique/double-bass), [Gravity Blast](https://metalforge.io/technique/gravity-blast)
+**Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Double Bass](https://metalforge.io/techniques/double-bass), [Gravity Blast](https://metalforge.io/techniques/gravity-blast)
 
 ## Immortal Rites Death-Metal Speed Study
 
@@ -52,7 +52,7 @@ Pete "Commando" Sandoval is one of the founding fathers of death metal drumming,
 - Keep motion efficient and repeatable to avoid breaking down
 - Treat speed as a product of relaxation, not force
 
-**Core Techniques:** [Blast Beat](https://metalforge.io/technique/blast-beat), [Double Bass](https://metalforge.io/technique/double-bass), [One Handed Roll](https://metalforge.io/technique/one-handed-roll)
+**Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Double Bass](https://metalforge.io/techniques/double-bass), [One Handed Roll](https://metalforge.io/techniques/one-handed-roll)
 
 ## Dominate Blast & Double-Bass Onslaught
 
@@ -75,7 +75,7 @@ By the time of 1995's Domination, Pete Sandoval had refined his extreme techniqu
 - Keep the limbs balanced and the motion economical to stay controlled
 - Anchor everything to the riff so the part stays tight at speed
 
-**Core Techniques:** [Blast Beat](https://metalforge.io/technique/blast-beat), [Double Bass](https://metalforge.io/technique/double-bass), [Gravity Blast](https://metalforge.io/technique/gravity-blast)
+**Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Double Bass](https://metalforge.io/techniques/double-bass), [Gravity Blast](https://metalforge.io/techniques/gravity-blast)
 
 ## Teaching Points
 

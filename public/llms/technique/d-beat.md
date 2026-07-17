@@ -80,7 +80,7 @@ A: Closely related techniques include Blast Beat, Groove Drumming, Double Bass. 
 - [D-Beat Drummers on MetalForge](https://metalforge.io/technique/d-beat/drummers)
 - [All Metal Drumming Techniques](https://metalforge.io/techniques)
 - [Signature Licks featuring D-Beat](https://metalforge.io/licks)
-- [D-Beat Technique Page](https://metalforge.io/technique/d-beat)
+- [D-Beat Technique Page](https://metalforge.io/techniques/d-beat)
 
 ### Related Techniques
 - [Blast Beat](https://metalforge.io/techniques/blast-beat) — [Deep Dive](https://metalforge.io/llms/technique/blast-beat.md)
@@ -89,4 +89,4 @@ A: Closely related techniques include Blast Beat, Groove Drumming, Double Bass. 
 
 ---
 
-*Last updated: 2026-07-16 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-17 · Source: [MetalForge.io](https://metalforge.io)*

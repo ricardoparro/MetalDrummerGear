@@ -29,7 +29,7 @@ The polyrhythmic grid underlying Bleed from Meshuggah's 2008 album obZen is one 
 - Keep the feet completely relaxed and even while focusing mental attention on the hand pattern
 - Study this polyrhythmic aspect alongside the endurance aspect — they are complementary, not the same skill
 
-**Core Techniques:** [Polyrhythms](https://metalforge.io/technique/polyrhythms), [Ostinato](https://metalforge.io/technique/ostinato), [Limb Independence](https://metalforge.io/technique/limb-independence)
+**Core Techniques:** [Polyrhythms](https://metalforge.io/techniques/polyrhythms), [Ostinato](https://metalforge.io/techniques/ostinato), [Limb Independence](https://metalforge.io/techniques/limb-independence)
 
 ## Koloss I Am Colossus Groove
 
@@ -52,7 +52,7 @@ I Am Colossus, the opening track from Meshuggah's 2012 album Koloss, presents wh
 - Learn I Am Colossus before New Millennium Cyanide Christ and before Bleed — build the vocabulary in order
 - Play along with the album recording to feel how the groove locks against the guitars in full context
 
-**Core Techniques:** [Polyrhythms](https://metalforge.io/technique/polyrhythms), [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Odd Time Signatures](https://metalforge.io/technique/odd-time-signatures)
+**Core Techniques:** [Polyrhythms](https://metalforge.io/techniques/polyrhythms), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures)
 
 ## Bleed Double Bass Groove
 
@@ -75,7 +75,7 @@ Bleed is widely regarded as one of the most physically demanding drum parts in m
 - Lock the hand accents to the feet at slow tempo first
 - Treat it as an endurance marathon, not a speed sprint
 
-**Core Techniques:** [Double Bass](https://metalforge.io/technique/double-bass), [Odd Time Signatures](https://metalforge.io/technique/odd-time-signatures), [Polyrhythms](https://metalforge.io/technique/polyrhythms)
+**Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures), [Polyrhythms](https://metalforge.io/techniques/polyrhythms)
 
 ## Clockworks Polymetric Groove
 
@@ -98,7 +98,7 @@ Clockworks, the opening track of The Violent Sleep of Reason, is a showcase of e
 - Drill the polymetric independence at very slow tempo first
 - Build double-bass evenness to match the guitar phrasing
 
-**Core Techniques:** [Polyrhythms](https://metalforge.io/technique/polyrhythms), [Odd Time Signatures](https://metalforge.io/technique/odd-time-signatures), [Double Bass](https://metalforge.io/technique/double-bass)
+**Core Techniques:** [Polyrhythms](https://metalforge.io/techniques/polyrhythms), [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures), [Double Bass](https://metalforge.io/techniques/double-bass)
 
 ## New Millennium Cyanide Christ Groove
 
@@ -121,7 +121,7 @@ New Millennium Cyanide Christ, from Meshuggah's ferocious Chaosphere album, is o
 - Practice slowly to internalise the polymetric independence
 - Use this track as your entry point into Meshuggah-style phrasing
 
-**Core Techniques:** [Polyrhythms](https://metalforge.io/technique/polyrhythms), [Odd Time Signatures](https://metalforge.io/technique/odd-time-signatures), [Groove Drumming](https://metalforge.io/technique/groove-drumming)
+**Core Techniques:** [Polyrhythms](https://metalforge.io/techniques/polyrhythms), [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## Teaching Points
 

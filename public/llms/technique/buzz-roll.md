@@ -77,7 +77,7 @@ A: Closely related techniques include One Handed Roll, Rudiments. Mastering thes
 - [Buzz Roll Drummers on MetalForge](https://metalforge.io/technique/buzz-roll/drummers)
 - [All Metal Drumming Techniques](https://metalforge.io/techniques)
 - [Signature Licks featuring Buzz Roll](https://metalforge.io/licks)
-- [Buzz Roll Technique Page](https://metalforge.io/technique/buzz-roll)
+- [Buzz Roll Technique Page](https://metalforge.io/techniques/buzz-roll)
 
 ### Related Techniques
 - [One Handed Roll](https://metalforge.io/techniques/one-handed-roll) — [Deep Dive](https://metalforge.io/llms/technique/one-handed-roll.md)
@@ -85,4 +85,4 @@ A: Closely related techniques include One Handed Roll, Rudiments. Mastering thes
 
 ---
 
-*Last updated: 2026-07-16 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-17 · Source: [MetalForge.io](https://metalforge.io)*

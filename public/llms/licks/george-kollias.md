@@ -29,7 +29,7 @@ George Kollias is widely regarded as one of the fastest and most technically sop
 - Watch slow-motion video of Kollias performing to study the wrist angle and forearm position before attempting at speed
 - Treat the gravity blast as a long-term project: it may take months to internalise the mechanics, but once it clicks it becomes reliable
 
-**Core Techniques:** [Gravity Blast](https://metalforge.io/technique/gravity-blast), [One Handed Roll](https://metalforge.io/technique/one-handed-roll), [Extreme Speed](https://metalforge.io/technique/extreme-speed)
+**Core Techniques:** [Gravity Blast](https://metalforge.io/techniques/gravity-blast), [One Handed Roll](https://metalforge.io/techniques/one-handed-roll), [Extreme Speed](https://metalforge.io/techniques/extreme-speed)
 
 ## Polyrhythmic Death Metal Pattern
 
@@ -52,7 +52,7 @@ George Kollias is widely regarded as one of the fastest and most technically sop
 - Add the foot pattern only once the hands are comfortable — isolate the combination of one hand plus one foot before adding the full kit
 - Use a polyrhythmic metronome app to hear both pulses simultaneously while you practise
 
-**Core Techniques:** [Polyrhythms](https://metalforge.io/technique/polyrhythms), [Independence](https://metalforge.io/technique/independence), [Odd Groupings](https://metalforge.io/technique/odd-groupings)
+**Core Techniques:** [Polyrhythms](https://metalforge.io/techniques/polyrhythms), [Independence](https://metalforge.io/techniques/independence), [Odd Groupings](https://metalforge.io/techniques/odd-groupings)
 
 ## Sustained 250+ BPM Blast
 
@@ -75,7 +75,7 @@ George Kollias is widely regarded as one of the fastest and most technically sop
 - Take regular breaks during practice sessions and stop immediately if you feel tension or pain — injury at these tempos is a long-term setback
 - Focus every session on relaxation rather than effort: if something feels hard it usually means tension, not weakness
 
-**Core Techniques:** [Blast Beat](https://metalforge.io/technique/blast-beat), [Stamina](https://metalforge.io/technique/stamina), [Double Bass](https://metalforge.io/technique/double-bass)
+**Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Stamina](https://metalforge.io/techniques/stamina), [Double Bass](https://metalforge.io/techniques/double-bass)
 
 ## Teaching Points
 

@@ -80,7 +80,7 @@ A: Closely related techniques include Blast Beat, Gravity Blast, One Handed Roll
 - [Single Stroke Roll Drummers on MetalForge](https://metalforge.io/technique/single-stroke-roll/drummers)
 - [All Metal Drumming Techniques](https://metalforge.io/techniques)
 - [Signature Licks featuring Single Stroke Roll](https://metalforge.io/licks)
-- [Single Stroke Roll Technique Page](https://metalforge.io/technique/single-stroke-roll)
+- [Single Stroke Roll Technique Page](https://metalforge.io/techniques/single-stroke-roll)
 
 ### Related Techniques
 - [Blast Beat](https://metalforge.io/techniques/blast-beat) — [Deep Dive](https://metalforge.io/llms/technique/blast-beat.md)
@@ -89,4 +89,4 @@ A: Closely related techniques include Blast Beat, Gravity Blast, One Handed Roll
 
 ---
 
-*Last updated: 2026-07-16 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-17 · Source: [MetalForge.io](https://metalforge.io)*

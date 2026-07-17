@@ -35,7 +35,7 @@ For students, "Chemical Flashback" is an advanced study in djent-influenced tech
 - Build foot evenness at 80 BPM before gradually raising to performance tempo
 - Use the MEINL playthrough in slow motion to map the exact relationship between kick and guitar
 
-**Core Techniques:** [Double Bass](https://metalforge.io/technique/double-bass), [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Polyrhythms](https://metalforge.io/technique/polyrhythms)
+**Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Polyrhythms](https://metalforge.io/techniques/polyrhythms)
 
 ## An End to Everything Technical Groove
 
@@ -64,7 +64,7 @@ For students, "An End to Everything" is an instructive study in how technical me
 - Work toward full one-take runs of the entire song before considering the piece learned
 - Listen to the one-take playthrough repeatedly before playing along to internalise the arrangement fully
 
-**Core Techniques:** [Double Bass](https://metalforge.io/technique/double-bass), [Fill Techniques](https://metalforge.io/technique/fill-techniques), [Groove Drumming](https://metalforge.io/technique/groove-drumming)
+**Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## The Interior Wilderness Math-Metal Pattern
 
@@ -93,7 +93,7 @@ For drummers, "The Interior Wilderness" is an expert-level study in math-metal p
 - Use the playthrough in slow motion to map where each polyrhythmic phrase begins and ends
 - Build tempo gradually with a metronome; polyrhythmic accuracy collapses under speed pressure until internalised
 
-**Core Techniques:** [Polyrhythms](https://metalforge.io/technique/polyrhythms), [Double Bass](https://metalforge.io/technique/double-bass), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
+**Core Techniques:** [Polyrhythms](https://metalforge.io/techniques/polyrhythms), [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Teaching Points
 

@@ -29,7 +29,7 @@ Alex Bent is one of Melodic Thrash / Metalcore's most influential drummers, best
 - Map the song structure before learning the drums — knowing where each section starts and ends makes the transitions easier
 - Build the half-time chorus groove independently so it is comfortable and powerful before adding the surrounding material
 
-**Core Techniques:** [Blast Beat](https://metalforge.io/technique/blast-beat), [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Double Bass](https://metalforge.io/technique/double-bass), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
+**Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Betrayer Modern Thrash Fill Sequence
 
@@ -52,7 +52,7 @@ Alex Bent is one of Melodic Thrash / Metalcore's most influential drummers, best
 - Focus on the resolution of each fill back to beat one — the landing defines whether the fill works
 - Watch the playthrough multiple times before playing along to map the fills' positions within the arrangement
 
-**Core Techniques:** [Double Bass](https://metalforge.io/technique/double-bass), [Fill Techniques](https://metalforge.io/technique/fill-techniques), [Linear Drumming](https://metalforge.io/technique/linear-drumming), [Groove Drumming](https://metalforge.io/technique/groove-drumming)
+**Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Linear Drumming](https://metalforge.io/techniques/linear-drumming), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## Beyond Oblivion Melodic Metal Groove
 
@@ -75,7 +75,7 @@ Alex Bent is one of Melodic Thrash / Metalcore's most influential drummers, best
 - Map the song structure on paper before learning the drums — knowing where sections change makes the fills obvious
 - Compare your recording to the playthrough and listen specifically to how soft the clean sections are in the original
 
-**Core Techniques:** [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Fill Techniques](https://metalforge.io/technique/fill-techniques), [Double Bass](https://metalforge.io/technique/double-bass)
+**Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Double Bass](https://metalforge.io/techniques/double-bass)
 
 ## Beyond Oblivion — Melodic Metal Drum Setup
 
@@ -98,7 +98,7 @@ Alex Bent is one of Melodic Thrash / Metalcore's most influential drummers, best
 - Listen to the arrangement with headphones to hear the dynamic relationship before playing
 - Practise the verse groove at a dynamic level that feels uncomfortably soft — the contrast makes the heavier sections hit harder
 
-**Core Techniques:** [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Fill Techniques](https://metalforge.io/technique/fill-techniques), [Double Bass](https://metalforge.io/technique/double-bass)
+**Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Double Bass](https://metalforge.io/techniques/double-bass)
 
 ## Seat of the Soul — Polyrhythmic Groove Setup
 
@@ -121,7 +121,7 @@ Alex Bent is one of Melodic Thrash / Metalcore's most influential drummers, best
 - Keep a bar-level count in your head while playing — the polyrhythmic tension resolves at the bar line and losing count causes drift
 - Record and zoom in on the transition points to verify the polyrhythmic pattern resolves cleanly before moving to the next bar
 
-**Core Techniques:** [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Double Bass](https://metalforge.io/technique/double-bass), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
+**Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## A Crisis of Revelation — Vic Firth Drum Setup
 
@@ -144,7 +144,7 @@ Alex Bent is one of Melodic Thrash / Metalcore's most influential drummers, best
 - Practise each blast-to-groove transition as an isolated exercise until it fires automatically
 - Build the half-time breakdown independently at full power before connecting it to the preceding material
 
-**Core Techniques:** [Blast Beat](https://metalforge.io/technique/blast-beat), [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Double Bass](https://metalforge.io/technique/double-bass), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
+**Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Teaching Points
 

@@ -1535,6 +1535,11 @@ export function getMetaForPath(pathname) {
           '@type': 'HowTo',
           name: `How to Play ${technique.title}`,
           description: truncate(technique.description, 250),
+          // `tips` is prose, not a gear list — exclude it (and any non-array field).
+          tool: Object.entries(technique.gearRecommendations || {})
+            .filter(([key, val]) => key !== 'tips' && Array.isArray(val))
+            .flatMap(([, val]) => val)
+            .map(g => ({ '@type': 'HowToTool', name: g.name })),
           step: technique.howToLearn.map((s, i) => ({
             '@type': 'HowToStep',
             position: i + 1,

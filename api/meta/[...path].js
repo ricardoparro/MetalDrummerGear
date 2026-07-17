@@ -5858,6 +5858,8 @@ export function getMetaForPath(pathname) {
             ],
           },
         ].filter(Boolean)),
+        speakableSchema: true,
+        speakableCssSelector: ['h1', 'h2', 'p'],
       };
     }
   }
@@ -6195,6 +6197,8 @@ export function getMetaForPath(pathname) {
         type: 'article',
         url: data.canonicalUrl,
         articleSchema: JSON.stringify((generateSignatureSnareSchema(data) || []).filter(Boolean)),
+        speakableSchema: true,
+        speakableCssSelector: ['h1', 'h2', 'p'],
       };
     }
   }

@@ -4743,12 +4743,19 @@ function getMetaForPath(pathname) {
       const nameList = brandDrummers.length > 1
         ? brandDrummers.slice(0, 8).map(d => d.name).join(', ')
         : firstDrummer;
+      const brandSsrDrummerLinks = brandDrummers.length > 0
+        ? brandDrummers.slice(0, 10).map(d => ({
+            href: d.slug ? `/drummer/${d.slug}` : null,
+            label: d.band ? `${d.name} (${d.band})` : d.name,
+          })).filter(l => l.href)
+        : null;
       return {
         title: `${brandDrummers.length} Drummers Who Use ${label} — Which Metal Drummers Play ${brandName}? | ${SITE_NAME}`,
         description: `See the ${brandDrummers.length} pro metal drummers who use ${label}, their exact head models where known, and where to buy. Featuring ${firstDrummer} and more.`,
         image: DEFAULT_IMAGE,
         type: 'website',
         url: `${BASE_URL}/gear/${brandSlug}/${BRAND_LEVEL_SERIES_SLUG}/drummers-using`,
+        ...(brandSsrDrummerLinks ? { ssrDrummerLinks: brandSsrDrummerLinks } : {}),
         articleSchema: JSON.stringify([
           {
             '@context': 'https://schema.org',
@@ -4842,10 +4849,15 @@ function getMetaForPath(pathname) {
         },
       },
     ];
+    let seriesSsrDrummerLinks = null;
     if (Array.isArray(seriesDrummers) && seriesDrummers.length > 0) {
       const nameList = seriesDrummers.length > 1
         ? seriesDrummers.slice(0, 8).map(d => d.name).join(', ')
         : seriesDrummers[0].name;
+      seriesSsrDrummerLinks = seriesDrummers.slice(0, 10).map(d => ({
+        href: d.slug ? `/drummer/${d.slug}` : null,
+        label: d.band ? `${d.name} (${d.band})` : d.name,
+      })).filter(l => l.href);
       graph.push(
         {
           '@type': 'Product',
@@ -4891,6 +4903,7 @@ function getMetaForPath(pathname) {
       image: DEFAULT_IMAGE,
       type: 'website',
       url: `${BASE_URL}/gear/${brandSlug}/${seriesSlug}/drummers-using`,
+      ...(seriesSsrDrummerLinks && seriesSsrDrummerLinks.length > 0 ? { ssrDrummerLinks: seriesSsrDrummerLinks } : {}),
       articleSchema: JSON.stringify({
         '@context': 'https://schema.org',
         '@graph': graph,

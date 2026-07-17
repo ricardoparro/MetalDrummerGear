@@ -5783,6 +5783,9 @@ export function getMetaForPath(pathname) {
           { href: '/drumsticks/best-for-metal', label: 'Best Drumsticks for Metal' },
         ],
         articleSchema: JSON.stringify(generateBrandSchema(brand, confirmedSticks)),
+        // Issue #4841: SpeakableSpecification for voice search / AI-citation.
+        speakableSchema: true,
+        speakableCssSelector: ['h1', 'h2', 'p'],
       };
     }
   }
@@ -5864,6 +5867,9 @@ export function getMetaForPath(pathname) {
           ],
         },
       ].filter(Boolean)),
+      // Issue #4841: SpeakableSpecification for voice search / AI-citation.
+      speakableSchema: true,
+      speakableCssSelector: ['h1', 'h2', 'p'],
     };
   }
 
@@ -5955,6 +5961,9 @@ export function getMetaForPath(pathname) {
           { href: '/cymbals/best-for-metal', label: 'Best Cymbals for Metal' },
         ],
         articleSchema: JSON.stringify(generateCymbalBrandSchema(brand, confirmedSetups)),
+        // Issue #4841: SpeakableSpecification for voice search / AI-citation.
+        speakableSchema: true,
+        speakableCssSelector: ['h1', 'h2', 'p'],
       };
     }
   }
@@ -5995,6 +6004,9 @@ export function getMetaForPath(pathname) {
         type: 'article',
         url: data.canonicalUrl,
         articleSchema: JSON.stringify(generateCymbalSetupSchema(data).filter(Boolean)),
+        // Issue #4841: SpeakableSpecification for voice search / AI-citation.
+        speakableSchema: true,
+        speakableCssSelector: ['h1', 'h2', 'p'],
       };
     }
   }
@@ -6025,6 +6037,9 @@ export function getMetaForPath(pathname) {
           ],
         },
       ].filter(Boolean)),
+      // Issue #4841: SpeakableSpecification for voice search / AI-citation.
+      speakableSchema: true,
+      speakableCssSelector: ['h1', 'h2', 'p'],
     };
   }
 
@@ -6132,6 +6147,9 @@ export function getMetaForPath(pathname) {
           { href: '/snares/best-for-metal', label: 'Best Snares for Metal' },
         ],
         articleSchema: JSON.stringify(generateSnareBrandSchema(brand, confirmedSnares)),
+        // Issue #4841: SpeakableSpecification for voice search / AI-citation.
+        speakableSchema: true,
+        speakableCssSelector: ['h1', 'h2', 'p'],
       };
     }
   }
@@ -6181,6 +6199,9 @@ export function getMetaForPath(pathname) {
           ],
         },
       ].filter(Boolean)),
+      // Issue #4841: SpeakableSpecification for voice search / AI-citation.
+      speakableSchema: true,
+      speakableCssSelector: ['h1', 'h2', 'p'],
     };
   }
 
@@ -6291,6 +6312,9 @@ export function getMetaForPath(pathname) {
           { href: '/pedals/best-for-metal', label: 'Best Bass Drum Pedals for Metal' },
         ],
         articleSchema: JSON.stringify(generatePedalBrandSchema(brand, confirmedPedals)),
+        // Issue #4841: SpeakableSpecification for voice search / AI-citation.
+        speakableSchema: true,
+        speakableCssSelector: ['h1', 'h2', 'p'],
       };
     }
   }
@@ -6312,6 +6336,9 @@ export function getMetaForPath(pathname) {
         type: 'article',
         url: data.canonicalUrl,
         articleSchema: JSON.stringify((generatePedalSetupSchema(data) || []).filter(Boolean)),
+        // Issue #4841: SpeakableSpecification for voice search / AI-citation.
+        speakableSchema: true,
+        speakableCssSelector: ['h1', 'h2', 'p'],
       };
     }
   }
@@ -6342,6 +6369,9 @@ export function getMetaForPath(pathname) {
           ],
         },
       ].filter(Boolean)),
+      // Issue #4841: SpeakableSpecification for voice search / AI-citation.
+      speakableSchema: true,
+      speakableCssSelector: ['h1', 'h2', 'p'],
     };
   }
 

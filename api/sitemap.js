@@ -567,6 +567,9 @@ export function buildSitemapXml() {
     ...getAllGenreSlugs().map(slug => ({ loc: `/genre/${slug}`, priority: '0.8', changefreq: 'monthly' })),
     // Issue #1171: /bands index hub + all 19 band pages at the correct plural path.
     { loc: '/bands', priority: '0.9', changefreq: 'weekly' },
+    // Issue #4769 (extension of epic #4753): drum-chair-changes timeline —
+    // derives entirely from bands.js drummerHistory, so it changes often.
+    { loc: '/bands/drum-chair-changes', priority: '0.85', changefreq: 'weekly' },
     ...bandPages.map(slug => ({ loc: `/bands/${slug}`, priority: '0.8', changefreq: 'monthly' })),
     ...techniques.map(t => ({ loc: `/techniques/${t.slug}`, priority: '0.8', changefreq: 'monthly' })),
     // Issue #870, #994: Technique → drummers SEO pages (/technique/<slug>/drummers)

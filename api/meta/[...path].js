@@ -16,7 +16,7 @@ import { getExtendedBio } from '../../packages/frontend/data/extendedBios.js';
 // corpus from the same data the sitemap uses (api/sitemap.js:8).
 import { ALBUM_ARTICLES } from '../../packages/frontend/data/albumArticles.js';
 // Issue #1172: band-specific SSR meta for /bands/<slug> and /bands index pages.
-import { bands as BAND_DATA } from '../../packages/frontend/data/bands.js';
+import { bands as BAND_DATA, getCurrentDrummer, getAllDrumChairChanges } from '../../packages/frontend/data/bands.js';
 // Issue #1202: individual technique page SSR meta for /technique/<slug> and /technique/<slug>/drummers.
 import { getTechniqueBySlug, getAllTechniques, getRelatedTechniques } from '../../packages/frontend/data/techniques.js';
 // Issue #1209: lick page SSR meta for /licks, /drummers/<slug>/licks, /drummers/<slug>/licks/<slug>.
@@ -2378,6 +2378,53 @@ function getMetaForPath(pathname) {
     };
   }
 
+  // Issue #4769 (extension of epic #4753): /bands/drum-chair-changes — timeline
+  // of drum-chair changes derived entirely from getAllDrumChairChanges(), which
+  // reads every band's drummerHistory. Checked ahead of bandMatch below so the
+  // literal path segment is never treated as a band slug lookup.
+  if (path === '/bands/drum-chair-changes') {
+    const changes = getAllDrumChairChanges();
+    const humanizeDrummerSlug = s => s.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+    const topChange = changes[0];
+    return {
+      title: `Metal Drum Chair Changes: Who Replaced Who | ${SITE_NAME}`,
+      description: `Timeline of ${changes.length} metal drummer lineup changes across MetalForge's tracked bands, newest first — who replaced who, and when.`,
+      image: DEFAULT_IMAGE,
+      type: 'website',
+      url: `${BASE_URL}/bands/drum-chair-changes`,
+      ssrLinks: _dedupeSsrLinksByHref(
+        changes.map(c => ({ href: `/bands/${c.bandSlug}`, label: `${c.bandName}: ${humanizeDrummerSlug(c.fromDrummerSlug)} → ${humanizeDrummerSlug(c.toDrummerSlug)}` }))
+      ),
+      articleSchema: JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'ItemList',
+        name: 'Metal Drum Chair Changes',
+        description: 'Timeline of metal drummer lineup changes — who replaced who, and when — derived from every band tracked on MetalForge.',
+        url: `${BASE_URL}/bands/drum-chair-changes`,
+        numberOfItems: changes.length,
+        itemListElement: changes.map((c, index) => ({
+          '@type': 'ListItem',
+          position: index + 1,
+          name: `${c.bandName}: ${humanizeDrummerSlug(c.fromDrummerSlug)} → ${humanizeDrummerSlug(c.toDrummerSlug)}${c.year ? ` (${c.year})` : ''}`,
+          url: `${BASE_URL}/bands/${c.bandSlug}`,
+        })),
+      }),
+      breadcrumbSchema: [
+        { name: 'Home', url: BASE_URL },
+        { name: 'Bands', url: `${BASE_URL}/bands` },
+        { name: 'Drum Chair Changes', url: `${BASE_URL}/bands/drum-chair-changes` },
+      ],
+      faqSchema: topChange ? [
+        {
+          question: 'What was the most recent metal drummer lineup change?',
+          answer: `${topChange.bandName}'s most recent drummer change: ${humanizeDrummerSlug(topChange.fromDrummerSlug)} was replaced by ${humanizeDrummerSlug(topChange.toDrummerSlug)}${topChange.year ? ` in ${topChange.year}` : ''}.`,
+        },
+      ] : null,
+      speakableSchema: true,
+      speakableCssSelector: ['h1', 'h2', 'p'],
+    };
+  }
+
   // Issue #1172: /bands/<slug> — band-specific SSR title + description
   // Issue #1307: FAQPage JSON-LD for band pages
   // Issue #1396: MusicGroup + BreadcrumbList JSON-LD for all 19 /bands/<slug> pages
@@ -2391,18 +2438,27 @@ function getMetaForPath(pathname) {
       // drummerHistory timeline (phase 1, #4754) instead of the generic
       // current-lineup member — the last entry is the final/current drummer,
       // and a disbanded band gets a past-tense answer naming that last drummer.
+      // Issue #4769: derivation now lives in getCurrentDrummer(band) so this
+      // handler and the client-side band page can't drift apart.
       const humanizeDrummerSlug = s => s.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
       const drummerHistory = band.drummerHistory || [];
-      const lastDrummerEntry = drummerHistory[drummerHistory.length - 1];
-      const lastDrummerName = lastDrummerEntry
-        ? (drummerSlugToName[lastDrummerEntry.drummer] || humanizeDrummerSlug(lastDrummerEntry.drummer))
+      const currentDrummer = getCurrentDrummer(band);
+      const lastDrummerName = currentDrummer
+        ? (drummerSlugToName[currentDrummer.drummerSlug] || humanizeDrummerSlug(currentDrummer.drummerSlug))
         : drummerName;
-      const drummerFaqItem = lastDrummerEntry
+      // Issue #4769: year-stamped question for active bands ("...in 2026?") so
+      // the FAQ visibly answers "now" — the year is read off the request date,
+      // never hardcoded. Disbanded bands ask the final-drummer question instead,
+      // since "now" framing doesn't fit a band that stopped touring.
+      const currentYear = new Date().getFullYear();
+      const drummerFaqItem = currentDrummer
         ? {
-            question: `Who is the drummer for ${band.name}?`,
-            answer: band.status === 'disbanded'
-              ? `${band.name}'s final drummer was ${lastDrummerName}, who played from ${lastDrummerEntry.period}.`
-              : `${lastDrummerName} has been ${band.name}'s drummer since ${lastDrummerEntry.period.split('-')[0]}.`,
+            question: currentDrummer.isFinal
+              ? `Who was ${band.name}'s final drummer?`
+              : `Who is the drummer for ${band.name} in ${currentYear}?`,
+            answer: currentDrummer.isFinal
+              ? `${band.name}'s final drummer was ${lastDrummerName}, who played from ${currentDrummer.period}.`
+              : `${lastDrummerName} has been ${band.name}'s drummer since ${currentDrummer.sinceYear || currentDrummer.period}.`,
           }
         : (drummerName ? {
             question: `Who is the drummer for ${band.name}?`,
@@ -2444,6 +2500,11 @@ function getMetaForPath(pathname) {
             label: `${drummerSlugToName[h.drummer]} (${h.period})`,
           }))
       );
+      // Issue #4769: build-date freshness signal on the MusicGroup JSON-LD
+      // (articleSchema is pre-serialized to a string for this route, so the
+      // generic og:modified_time pipeline — which only reads the object shape
+      // — doesn't apply here; this is read directly by structured-data parsers).
+      const today = new Date().toISOString().split('T')[0];
       return {
         title: band.metaTitle || `${band.name} — Drummer, Drum Kit & Gear | ${SITE_NAME}`,
         description: truncate(
@@ -2460,6 +2521,7 @@ function getMetaForPath(pathname) {
           name: band.name,
           url: `${BASE_URL}/bands/${slug}`,
           genre: band.genres || [],
+          dateModified: today,
           member: (band.members
             ? band.members.map(m => ({
                 '@type': 'OrganizationRole',
@@ -2480,6 +2542,8 @@ function getMetaForPath(pathname) {
           { name: band.name, url: `${BASE_URL}/bands/${slug}` },
         ],
         faqSchema: faqItems,
+        speakableSchema: true,
+        speakableCssSelector: ['h1', 'h2', 'p'],
         ...(bandTimelineSsrLinks.length > 0 ? { ssrLinks: bandTimelineSsrLinks } : {}),
       };
     }
@@ -2493,10 +2557,15 @@ function getMetaForPath(pathname) {
       image: DEFAULT_IMAGE,
       type: 'website',
       url: `${BASE_URL}/bands`,
-      ssrLinks: Object.values(BAND_DATA).map(b => ({
-        href: `/bands/${b.slug}`,
-        label: b.name,
-      })),
+      // Issue #4769: surface the drum-chair-changes timeline from the hub —
+      // a real, live route, not a fabricated URL.
+      ssrLinks: [
+        { href: '/bands/drum-chair-changes', label: 'Drum Chair Changes Timeline' },
+        ...Object.values(BAND_DATA).map(b => ({
+          href: `/bands/${b.slug}`,
+          label: b.name,
+        })),
+      ],
       articleSchema: JSON.stringify({
         '@context': 'https://schema.org',
         '@type': 'CollectionPage',

@@ -63,6 +63,25 @@ function renderBand(band) {
     parts.push('');
   }
 
+  // Issue #4769: explicit "current drummer" callout — derived from the last
+  // drummerHistory entry (same rule as getCurrentDrummer() in bands.js) so an
+  // LLM crawler answering "who drums for X now" doesn't have to infer which
+  // history entry is current from ordering alone.
+  if (Array.isArray(band.drummerHistory) && band.drummerHistory.length > 0) {
+    const last = band.drummerHistory[band.drummerHistory.length - 1];
+    const lastName = last.drummer
+      .split('-')
+      .map(w => w.charAt(0).toUpperCase() + w.slice(1))
+      .join(' ');
+    const sinceYear = String(last.period).split('-')[0];
+    if (band.status === 'disbanded') {
+      parts.push(`**Final drummer:** ${lastName} (${last.period})`);
+    } else {
+      parts.push(`**Current drummer (as of ${today}):** ${lastName}, since ${sinceYear}`);
+    }
+    parts.push('');
+  }
+
   // Drummer history
   if (Array.isArray(band.drummerHistory) && band.drummerHistory.length > 0) {
     parts.push('**Drummer history:**');

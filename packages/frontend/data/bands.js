@@ -2058,9 +2058,62 @@ export function getBandFaq(slug) { const band = bands[slug]; return band?.faq ||
  * @returns {Array} Array of band data objects
  */
 export function getBandsForDrummer(drummerSlug) {
-  return Object.values(bands).filter(band => 
+  return Object.values(bands).filter(band =>
     band.drummerHistory?.some(h => h.drummer === drummerSlug)
   );
+}
+
+/**
+ * Issue #4769: derive the band's current (or, for a disbanded band, final)
+ * drummer straight from the last drummerHistory entry — no separate stored
+ * field, so this can never drift from drummerHistory as it's edited.
+ * @param {Object} band - Band data object
+ * @returns {Object|null} { drummerSlug, period, sinceYear, isFinal, notes }
+ */
+export function getCurrentDrummer(band) {
+  if (!band || !Array.isArray(band.drummerHistory) || band.drummerHistory.length === 0) {
+    return null;
+  }
+  const entry = band.drummerHistory[band.drummerHistory.length - 1];
+  const sinceYear = parseInt(String(entry.period).split('-')[0], 10);
+  return {
+    drummerSlug: entry.drummer,
+    period: entry.period,
+    sinceYear: Number.isNaN(sinceYear) ? null : sinceYear,
+    isFinal: band.status === 'disbanded',
+    notes: entry.notes || null,
+  };
+}
+
+/**
+ * Issue #4769: derive every drum-chair change (one drummer replacing another)
+ * across all bands directly from each band's drummerHistory, sorted most
+ * recent first. Powers /bands/drum-chair-changes — the page grows on its own
+ * as bands gain drummerHistory entries, with no separate list to maintain.
+ * A band's first (founding) drummer is not a "change" and is excluded.
+ * @returns {Array} Array of { bandSlug, bandName, fromDrummerSlug, toDrummerSlug, year, period, notes }
+ */
+export function getAllDrumChairChanges() {
+  const changes = [];
+  for (const band of Object.values(bands)) {
+    const history = band.drummerHistory || [];
+    for (let i = 1; i < history.length; i++) {
+      const from = history[i - 1];
+      const to = history[i];
+      const year = parseInt(String(to.period).split('-')[0], 10);
+      changes.push({
+        bandSlug: band.slug,
+        bandName: band.name,
+        fromDrummerSlug: from.drummer,
+        toDrummerSlug: to.drummer,
+        year: Number.isNaN(year) ? null : year,
+        period: to.period,
+        notes: to.notes || null,
+      });
+    }
+  }
+  changes.sort((a, b) => (b.year || 0) - (a.year || 0));
+  return changes;
 }
 
 /**

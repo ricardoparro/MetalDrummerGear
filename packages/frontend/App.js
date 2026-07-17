@@ -943,6 +943,18 @@ function getStudySlugFromURL() {
   return match ? match[1].toLowerCase() : null;
 }
 
+// Drum Chair Changes timeline (Issue #4769, extension of epic #4753) -
+// /bands/drum-chair-changes. Routed purely off the live URL, same convention
+// as the Studies pages above; checked ahead of isBandDetailPage() in render
+// since that generic /bands/:slug matcher would otherwise treat this literal
+// path segment as an (unresolvable) band slug.
+const LazyBandDrumChairChangesPage = lazy(() => import('./pages/BandDrumChairChangesPage').then(m => ({ default: m.BandDrumChairChangesPage })));
+function isBandChangesPage() {
+  if (typeof window === 'undefined') return false;
+  const pathname = window.location.pathname;
+  return pathname === '/bands/drum-chair-changes' || pathname === '/bands/drum-chair-changes/';
+}
+
 // Signature Stick Pages (Issue #4138, phase 3/4 of epic #4135) - /drumsticks/signature/<drummer>
 // Targets "what sticks does <drummer> use". Only rendered for drummers with a confirmed
 // mapping in data/drumsticks.js (DRUMMER_STICKS) — an unmapped slug falls through to the
@@ -1095,6 +1107,9 @@ function getBandsForDrummer(drummerId) { return _bandsModule?.getBandsForDrummer
 function generateMusicGroupSchemaFromDrummer(drummer) { return _bandsModule?.generateMusicGroupSchemaFromDrummer(drummer) || null; }
 function generateAllMusicGroupSchemasFromDrummer(drummer) { return _bandsModule?.generateAllMusicGroupSchemasFromDrummer(drummer) || []; }
 function generateMemberOfFromDrummer(drummer) { return _bandsModule?.generateMemberOfFromDrummer(drummer) || []; }
+// Issue #4769: "who drums for X now" freshness — derived straight from
+// drummerHistory, never a separate stored field.
+function getCurrentDrummer(band) { return _bandsModule?.getCurrentDrummer(band) || null; }
 
 // Genre data for landing pages (Issue #340)
 // Lazy loaded for TBT optimization (#537)
@@ -13721,6 +13736,50 @@ function isYearInEraPeriod(year, period) {
 }
 
 /**
+ * CurrentDrummerBox - "who drums for X now" freshness answer box (Issue #4769).
+ * Derives the current/final drummer from getCurrentDrummer(band) — reads the
+ * last drummerHistory entry, never a separate stored field — so this can't
+ * drift out of sync with the timeline below it. The year in the heading comes
+ * from the build/render date, not a hardcoded string.
+ */
+function CurrentDrummerBox({ band, drummers, onSelectDrummer, theme }) {
+  const current = getCurrentDrummer(band);
+  if (!current) return null;
+
+  const drummer = drummers.find(d =>
+    toSlug(d.name) === current.drummerSlug ||
+    d.name.toLowerCase().replace(/\s+/g, '-') === current.drummerSlug
+  );
+  const name = drummer?.name || current.drummerSlug.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+  const year = new Date().getFullYear();
+  const label = current.isFinal ? 'FINAL DRUMMER' : `CURRENT DRUMMER (${year})`;
+  const body = current.isFinal
+    ? `${name} was ${band.name}'s final drummer${current.sinceYear ? `, since ${current.sinceYear}` : ''}.`
+    : `${name} has been ${band.name}'s drummer since ${current.sinceYear || current.period}.`;
+
+  return (
+    <View
+      style={[styles.currentDrummerBox, { backgroundColor: theme.card, borderColor: theme.primary }]}
+      accessibilityRole="region"
+      accessibilityLabel={label}
+    >
+      <Text style={[styles.currentDrummerLabel, { color: theme.primary }]}>{label}</Text>
+      <Text style={[styles.currentDrummerBody, { color: theme.text }]}>{body}</Text>
+      {drummer && (
+        <TouchableOpacity
+          onPress={() => onSelectDrummer(drummer.id)}
+          style={styles.drummerHistoryLink}
+          accessibilityRole="link"
+          accessibilityLabel={`View ${name}'s profile`}
+        >
+          <Text style={styles.drummerHistoryLinkText}>→ View {name}'s Profile</Text>
+        </TouchableOpacity>
+      )}
+    </View>
+  );
+}
+
+/**
  * DrummerHistorySection - Display the drummer history timeline for a band
  */
 function DrummerHistorySection({ band, drummers, onSelectDrummer, theme }) {
@@ -13987,6 +14046,9 @@ function BandDetailPage({ bandSlug, drummers, onBack, onSelectDrummer, theme }) 
             </View>
           </View>
         </View>
+
+        {/* Current Drummer Box - "who drums for X now" freshness (Issue #4769) */}
+        <CurrentDrummerBox band={band} drummers={drummers} onSelectDrummer={onSelectDrummer} theme={theme} />
 
         {/* Band Summary */}
         <View style={[styles.bandSummarySection, { backgroundColor: theme.card, borderColor: theme.border }]}>
@@ -20561,9 +20623,11 @@ function isBioPage() {
 // ==========================================
 
 // Check if we're on a band detail page (/bands/:slug)
+// Issue #4769: excludes /bands/drum-chair-changes, which is a standalone
+// hub page (isBandChangesPage()), not a band slug.
 function isBandDetailPage() {
   if (Platform.OS !== 'web' || typeof window === 'undefined') return false;
-  return /^\/bands\/[a-z0-9-]+$/i.test(window.location.pathname);
+  return /^\/bands\/[a-z0-9-]+$/i.test(window.location.pathname) && !isBandChangesPage();
 }
 
 // Get the band slug from URL
@@ -29622,6 +29686,26 @@ setShowList(false);
       );
     }
 
+    // Drum Chair Changes timeline (Issue #4769, extension of epic #4753) - /bands/drum-chair-changes
+    if (isBandChangesPage()) {
+      return (
+        <Suspense fallback={<PageLoadingSkeleton theme={theme} />}>
+          <LazyBandDrumChairChangesPage
+            drummers={drummers}
+            onNavigateToDrummer={(slug) => {
+              const drummer = drummers.find(d => toSlug(d.name) === slug);
+              if (drummer) {
+                handleSelectDrummer(drummer);
+              }
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', `/drummer/${slug}`);
+              }
+            }}
+          />
+        </Suspense>
+      );
+    }
+
     // Studies hub (Issue #4764, phase 1/3 of epic #4763) - /studies
     if (isStudiesHubPage()) {
       return (
@@ -31950,6 +32034,22 @@ const styles = StyleSheet.create({
     marginBottom: spacing[5],      // 20px
   },
   bandSummaryText: {
+    fontSize: fontSize.base,
+    lineHeight: lineHeight.lg,
+  },
+  currentDrummerBox: {
+    padding: spacing[5],           // 20px
+    borderRadius: spacing[3],      // 12px
+    borderWidth: 2,
+    marginBottom: spacing[5],      // 20px
+  },
+  currentDrummerLabel: {
+    fontSize: fontSize.sm,
+    fontWeight: fontWeight.bold,
+    letterSpacing: 0.5,
+    marginBottom: spacing[2],      // 8px
+  },
+  currentDrummerBody: {
     fontSize: fontSize.base,
     lineHeight: lineHeight.lg,
   },

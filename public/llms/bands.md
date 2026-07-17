@@ -3,7 +3,7 @@
 > Structured reference for metal bands, their drummer history, discography, and gear.
 > Optimised for AI crawlers answering "who drums for <band>" queries.
 >
-> Last updated: 2026-07-16 · 35 bands
+> Last updated: 2026-07-17 · 35 bands
 
 ---
 ## Animals as Leaders
@@ -11,6 +11,8 @@
 **Genre:** Progressive Metal, Djent · **Status:** Active · **Formed:** 2007 · **Origin:** Washington, D.C., USA
 
 Animals as Leaders, formed in 2007 in Washington D.C. by guitarist Tosin Abasi, is a leading instrumental progressive metal act known for its complex, technical compositions.
+
+**Current drummer (as of 2026-07-17):** Matt Garstka, since 2012
 
 **Drummer history:**
 - Navene Koperweis — 2009-2012 (First live drummer, joined 2009 (debut album drums were programmed, not performed by him); also drummer in Entheos)
@@ -32,6 +34,8 @@ Animals as Leaders, formed in 2007 in Washington D.C. by guitarist Tosin Abasi, 
 **Genre:** Thrash Metal, Speed Metal · **Status:** Active · **Formed:** 1981 · **Origin:** New York City, USA
 
 Anthrax, formed in 1981, is one of the Big Four of thrash metal.
+
+**Current drummer (as of 2026-07-17):** Charlie Benante, since 1983
 
 **Drummer history:**
 - Dave Weiss — 1980-1981 (Original drummer during the band's formation)
@@ -56,6 +60,8 @@ Anthrax, formed in 1981, is one of the Big Four of thrash metal.
 
 Behemoth, formed in 1991, evolved from black metal to become a leading blackened death metal band.
 
+**Current drummer (as of 2026-07-17):** Inferno, since 1997
+
 **Drummer history:**
 - Baal Ravenlock — 1991-1996 (Adam "Baal Ravenlock" Muraszko; original drummer during the band's early black metal era)
 - Inferno — 1997-1999, 2000-present (Zbigniew Promiński; briefly left around the release of Satanica (1999), returned early 2000; took paternity leave July 2017 with Jan "the Charn" Rice filling in on tour)
@@ -79,6 +85,8 @@ Behemoth, formed in 1991, evolved from black metal to become a leading blackened
 
 Cannibal Corpse, formed in 1988, is one of the best-selling and most influential death metal bands.
 
+**Current drummer (as of 2026-07-17):** Paul Mazurkiewicz, since 1988
+
 **Drummer history:**
 - Paul Mazurkiewicz — 1988-present (Founding member; drummer on every Cannibal Corpse studio album with no gaps)
 
@@ -100,6 +108,8 @@ Cannibal Corpse, formed in 1988, is one of the best-selling and most influential
 
 Cavalera Conspiracy, formed in 2007, reunited brothers Max and Igor Cavalera after their departures from Sepultura.
 
+**Current drummer (as of 2026-07-17):** Igor Cavalera, since 2007
+
 **Drummer history:**
 - Igor Cavalera — 2007-present (Co-founder, former Sepultura drummer; has drummed on all four studio albums and remains the band's drummer)
 
@@ -119,6 +129,8 @@ Cavalera Conspiracy, formed in 2007, reunited brothers Max and Igor Cavalera aft
 **Genre:** Technical Death Metal, Progressive Metal · **Status:** Active · **Formed:** 1987 · **Origin:** Miami, Florida, USA
 
 Cynic, formed in 1987 in Miami, Florida, fused technical death metal with jazz fusion, most notably on their 1993 landmark album Focus.
+
+**Current drummer (as of 2026-07-17):** Michel Belanger, since 2025
 
 **Drummer history:**
 - Sean Reinert — 1987-1994, 2006-2015 (Drummer and co-founder; died January 2020 at age 48)
@@ -143,6 +155,8 @@ Cynic, formed in 1987 in Miami, Florida, fused technical death metal with jazz f
 
 Damageplan, formed in 2003 by brothers Vinnie Paul and Dimebag Darrell Abbott after Pantera's breakup, disbanded following Dimebag's murder onstage in 2004.
 
+**Final drummer:** Vinnie Paul (2003-2004)
+
 **Drummer history:**
 - Vinnie Paul — 2003-2004 (Co-founder with brother Dimebag Darrell; the band's only drummer)
 
@@ -163,6 +177,8 @@ Damageplan, formed in 2003 by brothers Vinnie Paul and Dimebag Darrell Abbott af
 **Genre:** Death Metal, Progressive Death Metal · **Status:** Disbanded · **Formed:** 1984 · **Origin:** Altamonte Springs, Florida, USA
 
 Death, formed in 1984 by Chuck Schuldiner, is considered the pioneer of death metal.
+
+**Final drummer:** Richard Christy (1997-2001)
 
 **Drummer history:**
 - Kam Lee — 1983-1985 (Drummed/sang on pre-debut demos ('Death by Metal', 'Reign of Terror'); did not appear on a studio album)
@@ -190,6 +206,8 @@ Death, formed in 1984 by Chuck Schuldiner, is considered the pioneer of death me
 
 Deftones, formed in 1988 in Sacramento, blend heavy music with atmospheric, shoegaze textures.
 
+**Current drummer (as of 2026-07-17):** Abe Cunningham, since 1993
+
 **Drummer history:**
 - Abe Cunningham — 1988-1990 (Co-founder, before briefly leaving the band)
 - Dominic Garcia — 1990-1991 (Covered drums during Cunningham's absence, prior to any studio album)
@@ -214,6 +232,8 @@ Deftones, formed in 1988 in Sacramento, blend heavy music with atmospheric, shoe
 
 Dream Theater, formed in 1985, defined progressive metal with virtuosic musicianship.
 
+**Current drummer (as of 2026-07-17):** Mike Portnoy, since 2023
+
 **Drummer history:**
 - Mike Portnoy — 1985-2010 (Co-founder, played on all albums from When Dream and Day Unite (1989) through Black Clouds & Silver Linings (2009))
 - Mike Mangini — 2011-2023 (Selected via public 2010-2011 audition process; played on A Dramatic Turn of Events through A View from the Top of the World)
@@ -236,6 +256,8 @@ Dream Theater, formed in 1985, defined progressive metal with virtuosic musician
 **Genre:** Progressive Death Metal, Groove Metal, Technical Metal · **Status:** Active · **Formed:** 1996 · **Origin:** Bayonne, France
 
 Gojira is a French progressive/technical death metal band formed in 1996 in Bayonne by brothers Joe and Mario Duplantier. Originally named Godzilla, they changed to Gojira in 2001. Known for their environmentally-conscious lyrics, crushing grooves, and technical precision, Gojira has become one of the most influential metal bands of the 21st century. Albums like 'From Mars to Sirius' and 'Magma' have earned Grammy nominations and critical acclaim worldwide.
+
+**Current drummer (as of 2026-07-17):** Mario Duplantier, since 1996
 
 **Drummer history:**
 - Mario Duplantier — 1996-present (Co-founder with brother Joe, has been the only drummer in band history)
@@ -262,6 +284,8 @@ Gojira is a French progressive/technical death metal band formed in 1996 in Bayo
 
 Hellyeah, formed in 2006, was a groove metal supergroup featuring Pantera's Vinnie Paul on drums until his death in 2018.
 
+**Current drummer (as of 2026-07-17):** Roy Mayorga, since 2019
+
 **Drummer history:**
 - Vinnie Paul — 2006-2018 (Founding drummer; recorded on all studio albums through Welcome Home (2019), completing most of its tracks before his death in June 2018)
 - Roy Mayorga — 2019-2021 (Joined as touring/live drummer after Vinnie Paul's death; did not record studio drum tracks on any Hellyeah album; band went on hiatus circa 2021)
@@ -283,6 +307,8 @@ Hellyeah, formed in 2006, was a groove metal supergroup featuring Pantera's Vinn
 **Genre:** Nu Metal, Alternative Metal · **Status:** Active · **Formed:** 1993 · **Origin:** Bakersfield, California, USA
 
 Korn, formed in 1993 in Bakersfield, California, is credited with pioneering the nu-metal genre.
+
+**Current drummer (as of 2026-07-17):** Ray Luzier, since 2009
 
 **Drummer history:**
 - David Silveria — 1993-2006 (Founding member; played on all studio albums from Korn (1994) through See You on the Other Side (2005))
@@ -309,6 +335,8 @@ Korn, formed in 1993 in Bakersfield, California, is credited with pioneering the
 
 Kublai Khan TX, formed in 2009 in Sherman, Texas, is a leading force in beatdown hardcore and metalcore. Known for crushing breakdowns and socially conscious lyrics.
 
+**Current drummer (as of 2026-07-17):** Isaac Lamb, since 2009
+
 **Drummer history:**
 - Isaac Lamb — 2009-present (Founding member, only drummer in band history, no documented gaps)
 
@@ -332,6 +360,8 @@ Kublai Khan TX, formed in 2009 in Sherman, Texas, is a leading force in beatdown
 
 Lamb of God, formed in 1994 in Richmond, Virginia, is one of the most influential groove metal bands of the 21st century.
 
+**Current drummer (as of 2026-07-17):** Art Cruz, since 2019
+
 **Drummer history:**
 - Chris Adler — 1994-2019 (Founding member and drummer on every album from Burn the Priest (1999) through VII: Sturm und Drang (2015))
 - Art Cruz — 2019-present (Filled in on tour in 2018-2019 before becoming the permanent drummer in July 2019; drummer on the self-titled 2020 album and Omens (2022))
@@ -353,6 +383,8 @@ Lamb of God, formed in 1994 in Richmond, Virginia, is one of the most influentia
 **Genre:** Nu Metal, Rap Metal · **Status:** Active · **Formed:** 1994 · **Origin:** Jacksonville, Florida, USA
 
 Limp Bizkit, formed in 1994, fused rap and metal to become one of the biggest nu-metal bands.
+
+**Current drummer (as of 2026-07-17):** Sammy Siegler, since 2005
 
 **Drummer history:**
 - John Otto — 1994-present (Founding member; drummer on every studio album)
@@ -376,6 +408,8 @@ Limp Bizkit, formed in 1994, fused rap and metal to become one of the biggest nu
 
 Mastodon, formed in 2000 in Atlanta, Georgia, blends sludge metal heaviness with progressive rock complexity.
 
+**Current drummer (as of 2026-07-17):** Brann Dailor, since 2000
+
 **Drummer history:**
 - Brann Dailor — 2000-present (Founding member, sole drummer throughout the band's history; also handles vocals)
 
@@ -396,6 +430,8 @@ Mastodon, formed in 2000 in Atlanta, Georgia, blends sludge metal heaviness with
 **Genre:** Thrash Metal · **Status:** Active · **Formed:** 1983 · **Origin:** Los Angeles, California, USA
 
 Megadeth, formed in 1983 in Los Angeles by Dave Mustaine, is one of the 'Big Four' of thrash metal alongside Metallica, Slayer, and Anthrax.
+
+**Current drummer (as of 2026-07-17):** Dirk Verbeuren, since 2016
 
 **Drummer history:**
 - Dijon Carruthers — 1983 (Megadeth's first drummer)
@@ -427,6 +463,8 @@ Megadeth, formed in 1983 in Los Angeles by Dave Mustaine, is one of the 'Big Fou
 
 Meshuggah, formed in 1987 in Sweden, pioneered djent and polyrhythmic metal.
 
+**Current drummer (as of 2026-07-17):** Tomas Haake, since 1990
+
 **Drummer history:**
 - Niklas Lundgren — 1987-1990 (Original drummer; played on the band's 1989 self-titled EP (Psykisk Testbild) before being replaced by Tomas Haake in 1990)
 - Tomas Haake — 1990-present (Replaced founding drummer Niklas Lundgren in 1990; has recorded every Meshuggah studio album since the 1991 debut Contradictions Collapse)
@@ -448,6 +486,8 @@ Meshuggah, formed in 1987 in Sweden, pioneered djent and polyrhythmic metal.
 
 Metallica, formed in 1981 in Los Angeles, is one of the most influential thrash metal bands.
 
+**Current drummer (as of 2026-07-17):** Lars Ulrich, since 1981
+
 **Drummer history:**
 - Lars Ulrich — 1981-present (Co-founder; only drummer to ever record on a Metallica studio album. A one-off live exception occurred at the June 2004 Download Festival, where Ulrich was hospitalized and Dave Lombardo and Joey Jordison filled in for a single show.)
 
@@ -468,6 +508,8 @@ Metallica, formed in 1981 in Los Angeles, is one of the most influential thrash 
 **Genre:** Death Metal · **Status:** Active · **Formed:** 1983 · **Origin:** Tampa, Florida, USA
 
 Morbid Angel, formed in 1983 in Tampa, Florida, is one of the founding bands of death metal.
+
+**Current drummer (as of 2026-07-17):** Charlie Koryn, since 2023
 
 **Drummer history:**
 - Mike Browning — 1983-1986 (Co-founder; drums and vocals on demos and Abominations of Desolation (recorded 1986). Died July 13, 2026.)
@@ -495,6 +537,8 @@ Morbid Angel, formed in 1983 in Tampa, Florida, is one of the founding bands of 
 
 Murderdolls, formed in 2002 in Hollywood, California, is a horror punk project co-founded by Wednesday 13 and Slipknot's Joey Jordison.
 
+**Current drummer (as of 2026-07-17):** Joey Jordison, since 2002
+
 **Drummer history:**
 - Joey Jordison — 2002-2004, 2010-2011 (Recorded studio drums on both Murderdolls albums despite being billed/touring as guitarist; died 2021)
 
@@ -515,6 +559,8 @@ Murderdolls, formed in 2002 in Hollywood, California, is a horror punk project c
 **Genre:** Technical Death Metal, Brutal Death Metal · **Status:** Active · **Formed:** 1993 · **Origin:** Greenville, South Carolina, USA
 
 Nile, formed in 1993, combines technical death metal with ancient Egyptian themes.
+
+**Current drummer (as of 2026-07-17):** George Kollias, since 2004
 
 **Drummer history:**
 - Pete Hammoura — 1993-2000 (Original drummer; drummer on the band's debut album)
@@ -539,6 +585,8 @@ Nile, formed in 1993, combines technical death metal with ancient Egyptian theme
 **Genre:** Progressive Death Metal, Progressive Rock · **Status:** Active · **Formed:** 1990 · **Origin:** Stockholm, Sweden
 
 Opeth, formed in 1990 in Stockholm, Sweden, pioneered a fusion of death metal and progressive rock across a genre-defying discography.
+
+**Current drummer (as of 2026-07-17):** Waltteri Vayrynen, since 2022
 
 **Drummer history:**
 - Amirion Even — 1990 (Founding drummer of the original 1990 lineup; no album recordings, left before the band's rebuild)
@@ -565,6 +613,8 @@ Opeth, formed in 1990 in Stockholm, Sweden, pioneered a fusion of death metal an
 
 Pantera, formed in 1981, defined groove metal with Vinnie Paul's powerful drumming.
 
+**Current drummer (as of 2026-07-17):** Charlie Benante, since 2022
+
 **Drummer history:**
 - Vinnie Paul — 1981-2003 (Co-founder; played on all nine studio albums, Metal Magic (1983) through Reinventing the Steel (2000))
 - Charlie Benante — 2022-present (Anthrax's drummer, serving as a touring musician for the reunion lineup; no new studio album recorded as of 2026)
@@ -586,6 +636,8 @@ Pantera, formed in 1981, defined groove metal with Vinnie Paul's powerful drummi
 **Genre:** Progressive Metal, Djent · **Status:** Active · **Formed:** 2005 · **Origin:** Washington, D.C., USA
 
 Periphery, formed in 2005 in the Washington D.C. area, helped pioneer the djent movement within progressive metal.
+
+**Current drummer (as of 2026-07-17):** Matt Halpern, since 2009
 
 **Drummer history:**
 - Jason Berlin — 2005-2008 (Early drummer; departed to pursue interests in Los Angeles)
@@ -609,6 +661,8 @@ Periphery, formed in 2005 in the Washington D.C. area, helped pioneer the djent 
 **Genre:** Thrash Metal, Groove Metal, Death Metal · **Status:** Disbanded · **Formed:** 1984 · **Origin:** Belo Horizonte, Brazil
 
 Sepultura formed 1984, Brazilian thrash pioneers, disbanded 2024.
+
+**Final drummer:** Greyson Nekrutman (2024)
 
 **Drummer history:**
 - Igor Cavalera — 1984-2006 (Co-founder with brother Max)
@@ -636,6 +690,8 @@ Sepultura formed 1984, Brazilian thrash pioneers, disbanded 2024.
 
 Slayer, formed in 1981, defined extreme thrash metal with aggressive drumming.
 
+**Final drummer:** Jon Dette (1996-1997)
+
 **Drummer history:**
 - Dave Lombardo — 1981-1986, 1987-1992, 2001-2013 (Co-founder, pioneered extreme thrash drumming)
 - Paul Bostaph — 1992-1996, 1997-2001, 2013-2019 (Three separate stints; played Slayer's final show, November 30, 2019)
@@ -658,6 +714,8 @@ Slayer, formed in 1981, defined extreme thrash metal with aggressive drumming.
 **Genre:** Nu Metal, Alternative Metal, Heavy Metal · **Status:** Active · **Formed:** 1995 · **Origin:** Des Moines, Iowa, USA
 
 Slipknot, formed in 1995 in Des Moines, pioneered the masked nu-metal movement.
+
+**Current drummer (as of 2026-07-17):** Eloy Casagrande, since 2024
 
 **Drummer history:**
 - Joey Jordison — 1995-2013 (Founding member, iconic masked drummer; dismissed December 12, 2013)
@@ -682,6 +740,8 @@ Slipknot, formed in 1995 in Des Moines, pioneered the masked nu-metal movement.
 
 Sons of Apollo, formed in 2017, is a progressive metal supergroup featuring Dream Theater drummer Mike Mangini alongside members of Journey, Mr. Big, and Guns N' Roses.
 
+**Current drummer (as of 2026-07-17):** Mike Portnoy, since 2017
+
 **Drummer history:**
 - Mike Portnoy — 2017-2023 (Sole drummer for the band's entire active run; also Dream Theater co-founder, which he rejoined in Oct 2023)
 
@@ -702,6 +762,8 @@ Sons of Apollo, formed in 2017, is a progressive metal supergroup featuring Drea
 **Genre:** Crossover Thrash, Hardcore Punk, Thrash Metal · **Status:** Active · **Formed:** 1980 · **Origin:** Venice, California, USA
 
 Suicidal Tendencies, formed in 1980, pioneered the crossover thrash genre.
+
+**Current drummer (as of 2026-07-17):** Xavier Ware, since 2026
 
 **Drummer history:**
 - Carlos Egert — 1980-1981 (Founding drummer; left after the band's first demo)
@@ -739,6 +801,8 @@ Suicidal Tendencies, formed in 1980, pioneered the crossover thrash genre.
 
 Testament, formed in 1983 in Berkeley, California, is one of the most enduring bands of the Bay Area thrash metal scene.
 
+**Current drummer (as of 2026-07-17):** Chris Dovas, since 2023
+
 **Drummer history:**
 - Louie Clemente — 1983-1992 (Original/founding drummer; played on the first five studio albums)
 - Paul Bostaph — 1992-1993 (Interim touring drummer for The Ritual tour before John Tempesta joined; no studio album from this stint)
@@ -771,6 +835,8 @@ Testament, formed in 1983 in Berkeley, California, is one of the most enduring b
 
 Tool, formed in 1990 in Los Angeles, is one of the most influential progressive metal bands, known for complex polyrhythmic compositions, unusual time signatures, visual artistry, and philosophical lyrics. With four Grammy wins and five studio albums (including the 13-year-awaited Fear Inoculum), Tool has redefined the boundaries of heavy music.
 
+**Current drummer (as of 2026-07-17):** Danny Carey, since 1990
+
 **Drummer history:**
 - Danny Carey — 1990-present (Founding member, only drummer in band history)
 
@@ -795,6 +861,8 @@ Tool, formed in 1990 in Los Angeles, is one of the most influential progressive 
 **Genre:** Death Metal, Thrash Metal · **Status:** Active · **Formed:** 1983 · **Origin:** Olsztyn, Poland
 
 Vader, formed in 1983 in Olsztyn, Poland, is one of the longest-running and most influential death metal bands in Europe.
+
+**Current drummer (as of 2026-07-17):** Michal Andrzejczyk, since 2022
 
 **Drummer history:**
 - Daniel Markowski — 1983 (Original drummer, fired after a poor rehearsal; no recordings)
@@ -824,6 +892,8 @@ Vader, formed in 1983 in Olsztyn, Poland, is one of the longest-running and most
 **Genre:** Progressive Rock, Jazz Fusion · **Status:** Active · **Formed:** 2000 · **Origin:** Los Angeles, California, USA
 
 Volto!, formed in Los Angeles in the early 2000s, is an instrumental progressive rock/jazz-fusion project featuring Tool drummer Danny Carey.
+
+**Current drummer (as of 2026-07-17):** Danny Carey, since early 2000s
 
 **Drummer history:**
 - Danny Carey — early 2000s-present (Sole drummer throughout the band's history; also drummer for Tool since 1990)

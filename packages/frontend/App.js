@@ -214,6 +214,20 @@ function getAlbumArticleBySlug(slug) { return _albumArticlesModule?.getAlbumArti
 function getAllAlbumArticles() { return _albumArticlesModule?.getAllAlbumArticles() || []; }
 function isAlbumArticleSlug(slug) { return _albumArticlesModule?.isAlbumArticleSlug(slug) || false; }
 
+// Metal Songs BPM database (Issue #4762, songs epic #4758 phase 4/4): lazy
+// loaded so the drummer profile page can link to its /songs/drummer/<slug>
+// list page without adding metalSongsBpm.js to the main bundle.
+let _metalSongsBpmModule = null;
+let _metalSongsBpmLoadPromise = null;
+const loadMetalSongsBpm = () => import('./data/metalSongsBpm');
+
+function preloadMetalSongsBpm() {
+  if (!_metalSongsBpmLoadPromise) {
+    _metalSongsBpmLoadPromise = loadMetalSongsBpm().then(m => { _metalSongsBpmModule = m; return m; });
+  }
+  return _metalSongsBpmLoadPromise;
+}
+
 // Quiz Share Buttons Component (Issue #678)
 import { QuizShareButtons, trackQuizShare } from './components/QuizShareButtons';
 
@@ -2955,6 +2969,11 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
   const [isLoading, setIsLoading] = useState(true);
   const [expandedDrummers, setExpandedDrummers] = useState({});
   const [isAlbumArticle, setIsAlbumArticle] = useState(false);
+  // Issue #4762 (songs epic #4758, phase 4/4): track title -> qualifying
+  // /songs/<slug> page, so trackAnalysis entries can link out where a real
+  // song page exists. Matched by drummer + normalized album + track title;
+  // never links a slug that doesn't clear getSongPageSlugs()'s gate.
+  const [trackSongSlugs, setTrackSongSlugs] = useState({});
 
   // Load list data lazily - check album articles first, then top10 lists
   useEffect(() => {
@@ -2983,6 +3002,33 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
     
     loadData();
   }, [listSlug]);
+
+  // Issue #4762: for album articles, resolve each trackAnalysis entry to a
+  // qualifying /songs/<slug> page where one exists (match by this article's
+  // drummer + album against the songs database, then gate on getSongPageSlugs).
+  useEffect(() => {
+    if (!isAlbumArticle || !list?.trackAnalysis?.length) {
+      setTrackSongSlugs({});
+      return;
+    }
+    let mounted = true;
+    const normalize = (s) => (s || '').toLowerCase().replace(/[^a-z0-9]+/g, ' ').trim();
+    preloadMetalSongsBpm().then((mod) => {
+      if (!mounted) return;
+      const qualifyingSlugs = new Set(mod.getSongPageSlugs());
+      const map = {};
+      list.trackAnalysis.forEach((track) => {
+        const song = mod.metalSongs.find(s =>
+          s.drummer === list.relatedDrummerSlug &&
+          normalize(s.album) === normalize(list.albumTitle) &&
+          normalize(s.song) === normalize(track.track)
+        );
+        if (song && qualifyingSlugs.has(song.slug)) map[track.track] = song.slug;
+      });
+      setTrackSongSlugs(map);
+    });
+    return () => { mounted = false; };
+  }, [list, isAlbumArticle]);
 
   // Update document meta and inject Article schema for SEO (Issue #634)
   useEffect(() => {
@@ -3876,7 +3922,38 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
             {list.trackAnalysis.map((track, idx) => (
               <View key={idx} style={{ marginBottom: 20, paddingBottom: 16, borderBottomWidth: idx < list.trackAnalysis.length - 1 ? 1 : 0, borderBottomColor: theme.border }}>
                 <View style={styles.flexRowBetween}>
-                  <Text style={[styles.gearTitle, { color: theme.text }]}>{track.track}</Text>
+                  {trackSongSlugs[track.track] ? (
+                    Platform.OS === 'web' ? (
+                      <a
+                        href={`/songs/${trackSongSlugs[track.track]}`}
+                        onClick={(e) => {
+                          e.preventDefault();
+                          if (typeof window !== 'undefined') {
+                            window.history.pushState({}, '', `/songs/${trackSongSlugs[track.track]}`);
+                            window.dispatchEvent(new PopStateEvent('popstate'));
+                          }
+                        }}
+                        style={{ textDecoration: 'none' }}
+                      >
+                        <Text style={[styles.gearTitle, { color: theme.primary }]}>{track.track}</Text>
+                      </a>
+                    ) : (
+                      <TouchableOpacity
+                        onPress={() => {
+                          if (typeof window !== 'undefined') {
+                            window.history.pushState({}, '', `/songs/${trackSongSlugs[track.track]}`);
+                            window.dispatchEvent(new PopStateEvent('popstate'));
+                          }
+                        }}
+                        accessibilityRole="link"
+                        accessibilityLabel={`View ${track.track}'s BPM and drummer page`}
+                      >
+                        <Text style={[styles.gearTitle, { color: theme.primary }]}>{track.track}</Text>
+                      </TouchableOpacity>
+                    )
+                  ) : (
+                    <Text style={[styles.gearTitle, { color: theme.text }]}>{track.track}</Text>
+                  )}
                   <View style={[styles.bpmBadge, { backgroundColor: theme.primary }]}>
                     <Text style={styles.bpmBadgeText}>{track.bpm} BPM</Text>
                   </View>
@@ -7529,6 +7606,11 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
   // hand-listed here).
   const [drummerTechniques, setDrummerTechniques] = useState([]);
 
+  // Issue #4762 (songs epic #4758, phase 4/4): Songs CTA - link to this
+  // drummer's /songs/drummer/<slug> list page when they clear the same
+  // song-count threshold used to build that page (getDrummersWithSongCounts).
+  const [drummerSongCount, setDrummerSongCount] = useState(0);
+
   useEffect(() => {
     let mounted = true;
     preloadExtendedBios().then(() => {
@@ -7555,6 +7637,13 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
     // Issue #4768: Preload techniques data and find techniques this drummer masters
     preloadTechniques().then((mod) => {
       if (mounted) setDrummerTechniques(mod.getTechniquesForDrummer(drummerSlug));
+    });
+    // Issue #4762: Preload songs data and check this drummer's song count
+    preloadMetalSongsBpm().then((mod) => {
+      if (mounted) {
+        const entry = mod.getDrummersWithSongCounts().find(d => d.drummer === drummerSlug);
+        setDrummerSongCount(entry ? entry.count : 0);
+      }
     });
     // Issue #1357: Load album articles and build reverse lookup
     // Issue #3829: no cap here - every matching article must be linkable from
@@ -7795,6 +7884,48 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
               accessibilityLabel={`View ${drummer.name}'s signature licks`}
             >
               <Text style={styles.compareWithAnotherButtonText}>View Signature Licks →</Text>
+            </TouchableOpacity>
+          )}
+        </View>
+      )}
+
+      {/* Songs CTA - Issue #4762: link to this drummer's /songs/drummer/<slug> list page */}
+      {drummerSongCount > 0 && (
+        <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border }]}>
+          <Text style={[styles.sectionTitle, { color: theme.text }]}>🎵 Songs</Text>
+          <Text style={[styles.compareYourKitDescription, { color: theme.secondaryText }]}>
+            Browse {drummerSongCount} songs drummed by {drummer.name}, ranked fastest first by BPM.
+          </Text>
+          {Platform.OS === 'web' ? (
+            <a
+              href={`/songs/drummer/${drummerSlug}`}
+              onClick={(e) => {
+                e.preventDefault();
+                if (typeof window !== 'undefined') {
+                  window.history.pushState({}, '', `/songs/drummer/${drummerSlug}`);
+                  window.dispatchEvent(new PopStateEvent('popstate'));
+                }
+              }}
+              style={{ textDecoration: 'none', marginTop: 12 }}
+              data-testid="drummer-songs-link"
+            >
+              <View style={[styles.compareWithAnotherButton, { backgroundColor: theme.primary }]}>
+                <Text style={styles.compareWithAnotherButtonText}>View {drummer.name}'s Songs by BPM →</Text>
+              </View>
+            </a>
+          ) : (
+            <TouchableOpacity
+              onPress={() => {
+                if (typeof window !== 'undefined') {
+                  window.history.pushState({}, '', `/songs/drummer/${drummerSlug}`);
+                  window.dispatchEvent(new PopStateEvent('popstate'));
+                }
+              }}
+              style={[styles.compareWithAnotherButton, { backgroundColor: theme.primary, marginTop: 12 }]}
+              accessibilityRole="link"
+              accessibilityLabel={`View ${drummer.name}'s songs by BPM`}
+            >
+              <Text style={styles.compareWithAnotherButtonText}>View {drummer.name}'s Songs by BPM →</Text>
             </TouchableOpacity>
           )}
         </View>
@@ -12873,7 +13004,37 @@ function BpmTapPage({ theme, onBack, drummers, onSelectDrummer }) {
       .sort((a, b) => Math.abs(a.bpm - bpm) - Math.abs(b.bpm - bpm))
       .slice(0, 5);
   }, [bpm]);
-  
+
+  // Issue #4762 (songs epic #4758, phase 4/4): resolve METAL_SONGS_DATABASE
+  // entries (this tool's own legacy dataset — no slugs) to a qualifying
+  // /songs/<slug> page by matching band + normalized song title against
+  // data/metalSongsBpm.js, then gating on getSongPageSlugs(). Only songs
+  // that clear the gate get linked; everything else stays plain text.
+  const [songPageSlugs, setSongPageSlugs] = useState({});
+  useEffect(() => {
+    let mounted = true;
+    const normalize = (s) => (s || '').toLowerCase().replace(/[^a-z0-9]+/g, ' ').trim();
+    preloadMetalSongsBpm().then((mod) => {
+      if (!mounted) return;
+      const qualifyingSlugs = new Set(mod.getSongPageSlugs());
+      const map = {};
+      METAL_SONGS_DATABASE.forEach((s) => {
+        const key = `${normalize(s.band)}|${normalize(s.song)}`;
+        if (map[key]) return;
+        const match = mod.metalSongs.find(m =>
+          normalize(m.band) === normalize(s.band) && normalize(m.song) === normalize(s.song)
+        );
+        if (match && qualifyingSlugs.has(match.slug)) map[key] = match.slug;
+      });
+      setSongPageSlugs(map);
+    });
+    return () => { mounted = false; };
+  }, []);
+  const getSongPageSlugFor = useCallback((song) => {
+    const normalize = (s) => (s || '').toLowerCase().replace(/[^a-z0-9]+/g, ' ').trim();
+    return songPageSlugs[`${normalize(song.band)}|${normalize(song.song)}`] || null;
+  }, [songPageSlugs]);
+
   // Handle tap
   const handleTap = useCallback(() => {
     const now = Date.now();
@@ -13085,7 +13246,24 @@ function BpmTapPage({ theme, onBack, drummers, onSelectDrummer }) {
               }}
             >
               <View style={styles.bpmSongInfo}>
-                <Text style={[styles.bpmSongName, { color: theme.text }]}>{song.song}</Text>
+                {getSongPageSlugFor(song) && Platform.OS === 'web' ? (
+                  <a
+                    href={`/songs/${getSongPageSlugFor(song)}`}
+                    onClick={(e) => {
+                      e.preventDefault();
+                      e.stopPropagation();
+                      if (typeof window !== 'undefined') {
+                        window.history.pushState({}, '', `/songs/${getSongPageSlugFor(song)}`);
+                        window.dispatchEvent(new PopStateEvent('popstate'));
+                      }
+                    }}
+                    style={{ textDecoration: 'none' }}
+                  >
+                    <Text style={[styles.bpmSongName, { color: theme.primary }]}>{song.song}</Text>
+                  </a>
+                ) : (
+                  <Text style={[styles.bpmSongName, { color: theme.text }]}>{song.song}</Text>
+                )}
                 <Text style={[styles.bpmSongBand, { color: theme.secondaryText }]}>
                   {song.band} • {song.drummer}
                 </Text>
@@ -13097,7 +13275,7 @@ function BpmTapPage({ theme, onBack, drummers, onSelectDrummer }) {
           ))}
         </View>
       )}
-      
+
       {/* Song Database Section */}
       <View style={styles.bpmDatabaseSection}>
         <Text style={[styles.bpmDatabaseTitle, { color: theme.text }]}>
@@ -13216,9 +13394,28 @@ function BpmTapPage({ theme, onBack, drummers, onSelectDrummer }) {
                   <Text style={styles.bpmSongBpmBadgeUnit}>BPM</Text>
                 </View>
                 <View style={styles.bpmSongDetails}>
-                  <Text style={[styles.bpmSongTitle, { color: theme.text }]} numberOfLines={1}>
-                    {song.song}
-                  </Text>
+                  {getSongPageSlugFor(song) && Platform.OS === 'web' ? (
+                    <a
+                      href={`/songs/${getSongPageSlugFor(song)}`}
+                      onClick={(e) => {
+                        e.preventDefault();
+                        e.stopPropagation();
+                        if (typeof window !== 'undefined') {
+                          window.history.pushState({}, '', `/songs/${getSongPageSlugFor(song)}`);
+                          window.dispatchEvent(new PopStateEvent('popstate'));
+                        }
+                      }}
+                      style={{ textDecoration: 'none' }}
+                    >
+                      <Text style={[styles.bpmSongTitle, { color: theme.primary }]} numberOfLines={1}>
+                        {song.song}
+                      </Text>
+                    </a>
+                  ) : (
+                    <Text style={[styles.bpmSongTitle, { color: theme.text }]} numberOfLines={1}>
+                      {song.song}
+                    </Text>
+                  )}
                   <Text style={[styles.bpmSongMeta, { color: theme.secondaryText }]} numberOfLines={1}>
                     {song.band} • {song.album} ({song.year})
                   </Text>

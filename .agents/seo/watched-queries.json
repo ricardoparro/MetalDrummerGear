@@ -72,6 +72,138 @@
       "baseline_ctr": null,
       "source_issue": "#4766",
       "expected_uplift": "new query capture — /studies/metal-kit-configurations answers this with a computed pedal-configuration breakdown"
+    },
+    {
+      "q": "fastest metal songs",
+      "target_entity": "songs:fastest-metal-songs",
+      "added_at": "2026-07-17",
+      "baseline_window_days": 7,
+      "baseline_impressions": null,
+      "baseline_clicks": null,
+      "baseline_position": null,
+      "baseline_ctr": null,
+      "source_issue": "#4762",
+      "expected_uplift": "new query capture — /songs/fastest-metal-songs ranks every 200+ BPM song in the database, fastest first"
+    },
+    {
+      "q": "metal songs bpm",
+      "target_entity": "songs:hub",
+      "added_at": "2026-07-17",
+      "baseline_window_days": 7,
+      "baseline_impressions": null,
+      "baseline_clicks": null,
+      "baseline_position": null,
+      "baseline_ctr": null,
+      "source_issue": "#4762",
+      "expected_uplift": "new query capture — /songs hub browses the full metal songs database by tempo, genre, band, and drummer"
+    },
+    {
+      "q": "master of puppets bpm",
+      "target_entity": "songs:master-of-puppets",
+      "added_at": "2026-07-17",
+      "baseline_window_days": 7,
+      "baseline_impressions": null,
+      "baseline_clicks": null,
+      "baseline_position": null,
+      "baseline_ctr": null,
+      "source_issue": "#4762",
+      "expected_uplift": "new query capture — /songs/master-of-puppets answers this directly (212 BPM) with sourced verification"
+    },
+    {
+      "q": "raining blood bpm",
+      "target_entity": "songs:raining-blood",
+      "added_at": "2026-07-17",
+      "baseline_window_days": 7,
+      "baseline_impressions": null,
+      "baseline_clicks": null,
+      "baseline_position": null,
+      "baseline_ctr": null,
+      "source_issue": "#4762",
+      "expected_uplift": "new query capture — /songs/raining-blood answers this directly (216 BPM) with sourced verification"
+    },
+    {
+      "q": "one metallica bpm",
+      "target_entity": "songs:one",
+      "added_at": "2026-07-17",
+      "baseline_window_days": 7,
+      "baseline_impressions": null,
+      "baseline_clicks": null,
+      "baseline_position": null,
+      "baseline_ctr": null,
+      "source_issue": "#4762",
+      "expected_uplift": "new query capture — /songs/one answers this directly (108 BPM) with sourced verification"
+    },
+    {
+      "q": "enter sandman bpm",
+      "target_entity": "songs:enter-sandman",
+      "added_at": "2026-07-17",
+      "baseline_window_days": 7,
+      "baseline_impressions": null,
+      "baseline_clicks": null,
+      "baseline_position": null,
+      "baseline_ctr": null,
+      "source_issue": "#4762",
+      "expected_uplift": "new query capture — /songs/enter-sandman answers this directly (123 BPM) with sourced verification"
+    },
+    {
+      "q": "angel of death bpm",
+      "target_entity": "songs:angel-of-death",
+      "added_at": "2026-07-17",
+      "baseline_window_days": 7,
+      "baseline_impressions": null,
+      "baseline_clicks": null,
+      "baseline_position": null,
+      "baseline_ctr": null,
+      "source_issue": "#4762",
+      "expected_uplift": "new query capture — /songs/angel-of-death answers this directly (212 BPM) with sourced verification"
+    },
+    {
+      "q": "war pigs bpm",
+      "target_entity": "songs:war-pigs",
+      "added_at": "2026-07-17",
+      "baseline_window_days": 7,
+      "baseline_impressions": null,
+      "baseline_clicks": null,
+      "baseline_position": null,
+      "baseline_ctr": null,
+      "source_issue": "#4762",
+      "expected_uplift": "new query capture — /songs/war-pigs answers this directly (92 BPM) with sourced verification"
+    },
+    {
+      "q": "painkiller judas priest bpm",
+      "target_entity": "songs:painkiller",
+      "added_at": "2026-07-17",
+      "baseline_window_days": 7,
+      "baseline_impressions": null,
+      "baseline_clicks": null,
+      "baseline_position": null,
+      "baseline_ctr": null,
+      "source_issue": "#4762",
+      "expected_uplift": "new query capture — /songs/painkiller answers this directly (210 BPM) with sourced verification"
+    },
+    {
+      "q": "holy wars bpm",
+      "target_entity": "songs:holy-wars-the-punishment-due",
+      "added_at": "2026-07-17",
+      "baseline_window_days": 7,
+      "baseline_impressions": null,
+      "baseline_clicks": null,
+      "baseline_position": null,
+      "baseline_ctr": null,
+      "source_issue": "#4762",
+      "expected_uplift": "new query capture — /songs/holy-wars-the-punishment-due answers this directly (180 BPM) with sourced verification"
+    },
+    {
+      "q": "walk pantera bpm",
+      "target_entity": "songs:walk",
+      "added_at": "2026-07-17",
+      "baseline_window_days": 7,
+      "baseline_impressions": null,
+      "baseline_clicks": null,
+      "baseline_position": null,
+      "baseline_ctr": null,
+      "source_issue": "#4762",
+      "expected_uplift": "new query capture — /songs/walk answers this directly (114 BPM) with sourced verification"
     }
   ]
 }

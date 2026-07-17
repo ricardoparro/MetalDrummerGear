@@ -4054,6 +4054,10 @@ export function getMetaForPath(pathname) {
           url: `${BASE_URL}/lists/${list.slug}`,
         })),
       }),
+      breadcrumbSchema: [
+        { name: 'Home', url: BASE_URL },
+        { name: 'Top 10 Lists', url: `${BASE_URL}/lists` },
+      ],
     };
   }
 
@@ -4452,6 +4456,10 @@ export function getMetaForPath(pathname) {
           ],
         },
       ]),
+      breadcrumbSchema: [
+        { name: 'Home', url: BASE_URL },
+        { name: 'History', url: `${BASE_URL}/history` },
+      ],
     };
   }
 
@@ -4505,6 +4513,10 @@ export function getMetaForPath(pathname) {
           },
         ],
       }),
+      breadcrumbSchema: [
+        { name: 'Home', url: BASE_URL },
+        { name: 'Battles', url: `${BASE_URL}/battles` },
+      ],
     };
   }
 
@@ -4591,6 +4603,10 @@ export function getMetaForPath(pathname) {
           question: 'How are spotlight drummers selected?',
           answer: 'Spotlight drummers are chosen for their influence on metal drumming and the depth of documented gear history available, so each feature can break down their kit, cymbals, and gear changes across their whole career.',
         },
+      ],
+      breadcrumbSchema: [
+        { name: 'Home', url: BASE_URL },
+        { name: 'Spotlights', url: `${BASE_URL}/spotlights` },
       ],
     };
   }
@@ -4733,6 +4749,10 @@ export function getMetaForPath(pathname) {
         publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
         about: { '@type': 'Thing', name: 'Metal Drumming' },
       }),
+      breadcrumbSchema: [
+        { name: 'Home', url: BASE_URL },
+        { name: 'Quick Facts', url: `${BASE_URL}/facts` },
+      ],
     };
   }
 

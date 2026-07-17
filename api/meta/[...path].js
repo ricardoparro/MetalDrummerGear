@@ -3075,6 +3075,8 @@ export function getMetaForPath(pathname) {
         image: DEFAULT_IMAGE,
         type: 'website',
         url: hubUrl,
+        speakableSchema: true,
+        speakableCssSelector: ['h1', 'h2', 'p'],
         articleSchema: JSON.stringify({
           '@context': 'https://schema.org',
           '@graph': [
@@ -3137,6 +3139,8 @@ export function getMetaForPath(pathname) {
         image: DEFAULT_IMAGE,
         type: 'website',
         url: hubUrl,
+        speakableSchema: true,
+        speakableCssSelector: ['h1', 'h2', 'p'],
         articleSchema: JSON.stringify({
           '@context': 'https://schema.org',
           '@graph': [
@@ -3276,6 +3280,8 @@ export function getMetaForPath(pathname) {
         image: DEFAULT_IMAGE,
         type: 'article',
         url: lickUrl,
+        speakableSchema: true,
+        speakableCssSelector: ['h1', 'h2', 'p'],
         // Issue #3698 (round 2: #4771): real crawlable <iframe> in the SSR body
         // matching whichever VideoObject actually made it into the @graph above.
         // Previously this only checked lick.video, so the ~194 licks that only

@@ -943,6 +943,17 @@ function getStudySlugFromURL() {
   return match ? match[1].toLowerCase() : null;
 }
 
+// Drum Chair Changes timeline (Issue #4769, epic #4753 extension) -
+// /bands/drum-chair-changes. Nested under /bands/ but not a band slug, so
+// isBandDetailPage() explicitly excludes it (see RESERVED_BAND_SLUGS below).
+// Routed purely off the live URL, same convention as isStudiesHubPage().
+const LazyDrumChairChangesPage = lazy(() => import('./pages/DrumChairChangesPage').then(m => ({ default: m.DrumChairChangesPage })));
+function isDrumChairChangesPage() {
+  if (typeof window === 'undefined') return false;
+  const pathname = window.location.pathname;
+  return pathname === '/bands/drum-chair-changes' || pathname === '/bands/drum-chair-changes/';
+}
+
 // Signature Stick Pages (Issue #4138, phase 3/4 of epic #4135) - /drumsticks/signature/<drummer>
 // Targets "what sticks does <drummer> use". Only rendered for drummers with a confirmed
 // mapping in data/drumsticks.js (DRUMMER_STICKS) — an unmapped slug falls through to the
@@ -1092,6 +1103,7 @@ function getAllBands() { return _bandsModule?.getAllBands() || []; }
 function hasBand(slug) { return _bandsModule?.hasBand(slug) || false; }
 function getAllBandSlugs() { return _bandsModule?.getAllBandSlugs() || []; }
 function getBandsForDrummer(drummerId) { return _bandsModule?.getBandsForDrummer(drummerId) || []; }
+function getCurrentDrummer(band) { return _bandsModule?.getCurrentDrummer(band) || null; }
 function generateMusicGroupSchemaFromDrummer(drummer) { return _bandsModule?.generateMusicGroupSchemaFromDrummer(drummer) || null; }
 function generateAllMusicGroupSchemasFromDrummer(drummer) { return _bandsModule?.generateAllMusicGroupSchemasFromDrummer(drummer) || []; }
 function generateMemberOfFromDrummer(drummer) { return _bandsModule?.generateMemberOfFromDrummer(drummer) || []; }
@@ -13988,6 +14000,49 @@ function BandDetailPage({ bandSlug, drummers, onBack, onSelectDrummer, theme }) 
           </View>
         </View>
 
+        {/* Current Drummer Answer Box - Issue #4769: freshness signal answering
+            "who drums for <band> now" directly, derived from drummerHistory
+            (no separately stored field to drift out of sync). */}
+        {(() => {
+          const currentEntry = getCurrentDrummer(band);
+          if (!currentEntry) return null;
+          const resolvedDrummer = drummers.find(d =>
+            toSlug(d.name) === currentEntry.drummer ||
+            d.name.toLowerCase().replace(/\s+/g, '-') === currentEntry.drummer
+          );
+          const displayName = resolvedDrummer?.name ||
+            currentEntry.drummer.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+          const sinceYear = currentEntry.period ? currentEntry.period.split('-')[0] : null;
+          const year = new Date().getFullYear();
+          return (
+            <View
+              style={[styles.currentDrummerBox, { backgroundColor: theme.card, borderColor: theme.primary }]}
+              accessibilityRole="summary"
+              accessibilityLabel={currentEntry.isFinal ? `Final drummer: ${displayName}` : `Current drummer as of ${year}: ${displayName}`}
+            >
+              <Text style={[styles.currentDrummerLabel, { color: theme.secondaryText }]}>
+                {currentEntry.isFinal ? 'FINAL DRUMMER' : `CURRENT DRUMMER (${year})`}
+              </Text>
+              {resolvedDrummer ? (
+                <TouchableOpacity
+                  onPress={() => onSelectDrummer(resolvedDrummer.id)}
+                  accessibilityRole="link"
+                  accessibilityLabel={`View ${displayName}'s profile`}
+                >
+                  <Text style={[styles.currentDrummerName, { color: theme.primary }]}>{displayName}</Text>
+                </TouchableOpacity>
+              ) : (
+                <Text style={[styles.currentDrummerName, { color: theme.text }]}>{displayName}</Text>
+              )}
+              {sinceYear && (
+                <Text style={[styles.currentDrummerSince, { color: theme.secondaryText }]}>
+                  {currentEntry.isFinal ? `Played ${currentEntry.period}` : `Since ${sinceYear}`}
+                </Text>
+              )}
+            </View>
+          );
+        })()}
+
         {/* Band Summary */}
         <View style={[styles.bandSummarySection, { backgroundColor: theme.card, borderColor: theme.border }]}>
           <Text style={[styles.bandSummaryText, { color: theme.secondaryText }]}>
@@ -20560,17 +20615,24 @@ function isBioPage() {
 // BAND DETAIL ROUTING (Issue #349)
 // ==========================================
 
+// Slugs under /bands/<slug> that are reserved for non-band pages (Issue #4769:
+// /bands/drum-chair-changes is a curated timeline, not a band), so
+// isBandDetailPage()/getBandSlugFromURL() must not treat them as band slugs.
+const RESERVED_BAND_SLUGS = new Set(['drum-chair-changes']);
+
 // Check if we're on a band detail page (/bands/:slug)
 function isBandDetailPage() {
   if (Platform.OS !== 'web' || typeof window === 'undefined') return false;
-  return /^\/bands\/[a-z0-9-]+$/i.test(window.location.pathname);
+  const match = window.location.pathname.match(/^\/bands\/([a-z0-9-]+)$/i);
+  return !!match && !RESERVED_BAND_SLUGS.has(match[1].toLowerCase());
 }
 
 // Get the band slug from URL
 function getBandSlugFromURL() {
   if (Platform.OS !== 'web' || typeof window === 'undefined') return null;
   const match = window.location.pathname.match(/^\/bands\/([a-z0-9-]+)$/i);
-  return match ? match[1] : null;
+  if (!match || RESERVED_BAND_SLUGS.has(match[1].toLowerCase())) return null;
+  return match[1];
 }
 
 // Check if we're on the bands listing page (/bands)
@@ -29622,6 +29684,16 @@ setShowList(false);
       );
     }
 
+    // Drum Chair Changes timeline (Issue #4769, epic #4753 extension) -
+    // /bands/drum-chair-changes
+    if (isDrumChairChangesPage()) {
+      return (
+        <Suspense fallback={<PageLoadingSkeleton theme={theme} />}>
+          <LazyDrumChairChangesPage drummers={drummers} />
+        </Suspense>
+      );
+    }
+
     // Studies hub (Issue #4764, phase 1/3 of epic #4763) - /studies
     if (isStudiesHubPage()) {
       return (
@@ -31952,6 +32024,26 @@ const styles = StyleSheet.create({
   bandSummaryText: {
     fontSize: fontSize.base,
     lineHeight: lineHeight.lg,
+  },
+  currentDrummerBox: {
+    padding: spacing[5],           // 20px
+    borderRadius: spacing[3],      // 12px
+    borderWidth: 2,
+    marginBottom: spacing[5],      // 20px
+  },
+  currentDrummerLabel: {
+    fontSize: fontSize.xs,
+    fontWeight: fontWeight.bold,
+    letterSpacing: 0.5,
+    marginBottom: spacing[1],      // 4px
+  },
+  currentDrummerName: {
+    fontSize: fontSize.xl,
+    fontWeight: fontWeight.bold,
+    marginBottom: spacing[1],      // 4px
+  },
+  currentDrummerSince: {
+    fontSize: fontSize.sm,
   },
   drummerHistorySection: {
     padding: spacing[5],           // 20px

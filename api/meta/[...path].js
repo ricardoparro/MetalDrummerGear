@@ -4054,6 +4054,23 @@ export function getMetaForPath(pathname) {
           url: `${BASE_URL}/lists/${list.slug}`,
         })),
       }),
+      // Issue #4810: FAQPage JSON-LD — /lists is a sitemap priority 0.9 hub
+      // with no FAQPage pairing, unlike sibling hubs /history, /battles,
+      // /drummers, /spotlights.
+      faqSchema: [
+        {
+          question: 'What do the MetalForge Top 10 lists cover?',
+          answer: 'MetalForge\'s ranked lists cover metal drummers by speed, technique, genre (death metal, thrash, avant-garde, metalcore and more), gear budget, and other themes — each list ranks 10 drummers with a highlight and reason for their placement.',
+        },
+        {
+          question: 'How are the MetalForge Top 10 drummer rankings determined?',
+          answer: 'Each Top 10 list is curated by MetalForge editors based on technique, innovation, influence, and community recognition within the metal genre. Every ranked drummer includes a highlight and reason explaining their placement — see the full methodology on each individual list.',
+        },
+        {
+          question: 'How many Top 10 drummer lists does MetalForge have?',
+          answer: `MetalForge features ${Object.values(TOP_10_LISTS).length} ranked Top 10 lists covering different metal subgenres, playing styles, and gear categories.`,
+        },
+      ],
     };
   }
 
@@ -4733,6 +4750,23 @@ export function getMetaForPath(pathname) {
         publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
         about: { '@type': 'Thing', name: 'Metal Drumming' },
       }),
+      // Issue #4810: FAQPage JSON-LD — /facts is a records/trivia hub with no
+      // FAQPage pairing, unlike sibling hubs /history, /battles, /drummers,
+      // /spotlights.
+      faqSchema: [
+        {
+          question: 'What kind of metal drummer facts does MetalForge cover?',
+          answer: 'MetalForge\'s facts hub covers quick records, stats, and trivia about metal drummers — fastest blast beats, most expensive kits, career milestones, and gear stats drawn from 67 documented pros.',
+        },
+        {
+          question: 'What are some example metal drummer records on MetalForge?',
+          answer: 'Examples include George Kollias\' blast-beat speed records, Bill Ward\'s role originating heavy metal drumming with Black Sabbath, and Dave Lombardo\'s pioneering thrash/death metal double bass work — all documented with their full gear setups on MetalForge.',
+        },
+        {
+          question: 'How does MetalForge source and verify its drummer facts?',
+          answer: 'Facts and records are compiled from each drummer\'s documented career history, interviews, and gear setups already tracked on MetalForge, and are cross-referenced with the drummer\'s own profile page for verification.',
+        },
+      ],
     };
   }
 

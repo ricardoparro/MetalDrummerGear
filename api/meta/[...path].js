@@ -3332,6 +3332,8 @@ export function getMetaForPath(pathname) {
           { name: drummer.name, url: `${BASE_URL}/drummers/${slug}` },
           { name: 'Gear History', url: `${BASE_URL}/drummers/${slug}/gear-history` },
         ],
+        speakableSchema: true,
+        speakableCssSelector: ['h1', 'h2', 'p'],
         faqSchema,
       };
     }
@@ -3372,6 +3374,8 @@ export function getMetaForPath(pathname) {
           { href: `/drummers/${slug}`, label: `${drummer.name} Profile` },
           { href: `/drummers/${slug}/endorsements`, label: `${drummer.name} Endorsements` },
         ],
+        speakableSchema: true,
+        speakableCssSelector: ['h1', 'h2', 'p'],
       };
     }
   }
@@ -3404,6 +3408,8 @@ export function getMetaForPath(pathname) {
           { name: drummer.name, url: `${BASE_URL}/drummer/${slug}` },
           { name: 'Endorsements', url: `${BASE_URL}/drummers/${slug}/endorsements` },
         ],
+        speakableSchema: true,
+        speakableCssSelector: ['h1', 'h2', 'p'],
         faqSchema: [
           {
             question: `What brands does ${drummer.name} endorse?`,
@@ -3460,6 +3466,8 @@ export function getMetaForPath(pathname) {
           { href: `/drummers/${drummerSlug}`, label: `${drummer.name} Profile` },
           { href: `/drummers/${drummerSlug}/evolution`, label: `${drummer.name} Gear Evolution` },
         ]),
+        speakableSchema: true,
+        speakableCssSelector: ['h1', 'h2', 'p'],
       };
     }
   }

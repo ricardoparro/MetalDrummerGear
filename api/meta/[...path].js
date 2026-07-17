@@ -2907,6 +2907,8 @@ export function getMetaForPath(pathname) {
           { name: 'Gear Brands', url: `${BASE_URL}/brands` },
           { name: brand.name, url: `${BASE_URL}/brands/${brandSlug}` },
         ],
+        speakableSchema: true,
+        speakableCssSelector: ['h1', 'h2', 'p'],
       };
     }
   }

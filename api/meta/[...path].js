@@ -727,6 +727,10 @@ export function getMetaForPath(pathname) {
         url: `${BASE_URL}/timeline`,
         publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
       }),
+      breadcrumbSchema: [
+        { name: 'Home', url: BASE_URL },
+        { name: 'Timeline', url: `${BASE_URL}/timeline` },
+      ],
     };
   }
 
@@ -761,6 +765,10 @@ export function getMetaForPath(pathname) {
         url: `${BASE_URL}/gear-finder`,
         publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
       }),
+      breadcrumbSchema: [
+        { name: 'Home', url: BASE_URL },
+        { name: 'Gear Finder', url: `${BASE_URL}/gear-finder` },
+      ],
     };
   }
 
@@ -789,6 +797,10 @@ export function getMetaForPath(pathname) {
         spatialCoverage: 'Global',
         temporalCoverage: '1980/..',
       }),
+      breadcrumbSchema: [
+        { name: 'Home', url: BASE_URL },
+        { name: 'Stats', url: `${BASE_URL}/stats` },
+      ],
       faqSchema: [
         {
           question: 'What drum brand do most metal drummers use?',
@@ -825,6 +837,11 @@ export function getMetaForPath(pathname) {
         temporalCoverage: '1980/..',
         spatialCoverage: 'Global',
       }),
+      breadcrumbSchema: [
+        { name: 'Home', url: BASE_URL },
+        { name: 'Stats', url: `${BASE_URL}/stats` },
+        { name: 'Gear Insights', url: `${BASE_URL}/stats/gear-insights` },
+      ],
       faqSchema: [
         {
           question: 'What drum brand do most metal drummers use?',
@@ -1044,6 +1061,10 @@ export function getMetaForPath(pathname) {
           },
         ],
       }),
+      breadcrumbSchema: [
+        { name: 'Home', url: BASE_URL },
+        { name: 'Tools', url: `${BASE_URL}/tools` },
+      ],
     };
   }
 
@@ -1215,6 +1236,10 @@ export function getMetaForPath(pathname) {
         image: `${BASE_URL}/images/og/beginner-guide-preview.png`,
         publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
       }),
+      breadcrumbSchema: [
+        { name: 'Home', url: BASE_URL },
+        { name: 'Beginner Guide', url: `${BASE_URL}/beginner-guide` },
+      ],
       faqSchema: [
         {
           question: 'What gear should a beginner metal drummer buy first?',
@@ -1296,6 +1321,10 @@ export function getMetaForPath(pathname) {
         url: `${BASE_URL}/gear-by-budget`,
         publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
       }),
+      breadcrumbSchema: [
+        { name: 'Home', url: BASE_URL },
+        { name: 'Gear by Budget', url: `${BASE_URL}/gear-by-budget` },
+      ],
     };
   }
 
@@ -1327,6 +1356,10 @@ export function getMetaForPath(pathname) {
           target: `${BASE_URL}/gear-news`,
         },
       }),
+      breadcrumbSchema: [
+        { name: 'Home', url: BASE_URL },
+        { name: 'Gear News', url: `${BASE_URL}/gear-news` },
+      ],
     };
   }
 
@@ -1355,6 +1388,10 @@ export function getMetaForPath(pathname) {
         url: `${BASE_URL}/news`,
         publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
       }),
+      breadcrumbSchema: [
+        { name: 'Home', url: BASE_URL },
+        { name: 'News', url: `${BASE_URL}/news` },
+      ],
       faqSchema: [
         {
           question: 'How often is MetalForge news updated?',
@@ -1392,6 +1429,10 @@ export function getMetaForPath(pathname) {
         url: `${BASE_URL}/cards`,
         publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
       }),
+      breadcrumbSchema: [
+        { name: 'Home', url: BASE_URL },
+        { name: 'Cards', url: `${BASE_URL}/cards` },
+      ],
     };
   }
 
@@ -1831,6 +1872,10 @@ export function getMetaForPath(pathname) {
         url: `${BASE_URL}/kit-quiz`,
         operatingSystem: 'Any',
       }),
+      breadcrumbSchema: [
+        { name: 'Home', url: BASE_URL },
+        { name: 'Kit Quiz', url: `${BASE_URL}/kit-quiz` },
+      ],
     };
   }
 
@@ -1851,6 +1896,10 @@ export function getMetaForPath(pathname) {
         operatingSystem: 'Any',
         description: 'Build your dream metal drum kit piece by piece. Mix and match shells, cymbals, and hardware from legendary drummers.',
       }),
+      breadcrumbSchema: [
+        { name: 'Home', url: BASE_URL },
+        { name: 'Kit Builder', url: `${BASE_URL}/kit-builder` },
+      ],
     };
   }
 
@@ -1870,6 +1919,11 @@ export function getMetaForPath(pathname) {
         url: `${BASE_URL}/tools/gear-search`,
         operatingSystem: 'Any',
       }),
+      breadcrumbSchema: [
+        { name: 'Home', url: BASE_URL },
+        { name: 'Tools', url: `${BASE_URL}/tools` },
+        { name: 'Gear Search', url: `${BASE_URL}/tools/gear-search` },
+      ],
     };
   }
 
@@ -1888,6 +1942,11 @@ export function getMetaForPath(pathname) {
         applicationCategory: 'UtilitiesApplication',
         url: `${BASE_URL}/tools/dream-set-builder`,
       }),
+      breadcrumbSchema: [
+        { name: 'Home', url: BASE_URL },
+        { name: 'Tools', url: `${BASE_URL}/tools` },
+        { name: 'Dream Set Builder', url: `${BASE_URL}/tools/dream-set-builder` },
+      ],
     };
   }
 
@@ -1907,6 +1966,11 @@ export function getMetaForPath(pathname) {
         url: `${BASE_URL}/tools/setup-builder`,
         operatingSystem: 'Any',
       }),
+      breadcrumbSchema: [
+        { name: 'Home', url: BASE_URL },
+        { name: 'Tools', url: `${BASE_URL}/tools` },
+        { name: 'Setup Builder', url: `${BASE_URL}/tools/setup-builder` },
+      ],
     };
   }
 
@@ -1927,6 +1991,11 @@ export function getMetaForPath(pathname) {
         operatingSystem: 'Any',
         description: 'Create your own metal drummer tier list ranking S to D tier.',
       }),
+      breadcrumbSchema: [
+        { name: 'Home', url: BASE_URL },
+        { name: 'Tools', url: `${BASE_URL}/tools` },
+        { name: 'Tier List', url: `${BASE_URL}/tools/tier-list` },
+      ],
     };
   }
 
@@ -1946,6 +2015,11 @@ export function getMetaForPath(pathname) {
         url: `${BASE_URL}/tools/name-generator`,
         operatingSystem: 'Any',
       }),
+      breadcrumbSchema: [
+        { name: 'Home', url: BASE_URL },
+        { name: 'Tools', url: `${BASE_URL}/tools` },
+        { name: 'Name Generator', url: `${BASE_URL}/tools/name-generator` },
+      ],
     };
   }
 
@@ -1965,6 +2039,10 @@ export function getMetaForPath(pathname) {
         url: `${BASE_URL}/guess-the-kit`,
         operatingSystem: 'Any',
       }),
+      breadcrumbSchema: [
+        { name: 'Home', url: BASE_URL },
+        { name: 'Guess the Kit', url: `${BASE_URL}/guess-the-kit` },
+      ],
     };
   }
 
@@ -2101,6 +2179,10 @@ export function getMetaForPath(pathname) {
           ],
         },
       }),
+      breadcrumbSchema: [
+        { name: 'Home', url: BASE_URL },
+        { name: 'Birthdays', url: `${BASE_URL}/birthdays` },
+      ],
     };
   }
 
@@ -4659,6 +4741,10 @@ export function getMetaForPath(pathname) {
           })),
         },
       }),
+      breadcrumbSchema: [
+        { name: 'Home', url: BASE_URL },
+        { name: 'Quotes', url: `${BASE_URL}/quotes` },
+      ],
       faqSchema: [
         {
           question: 'Who has the best drum quotes in metal?',
@@ -4701,6 +4787,10 @@ export function getMetaForPath(pathname) {
         url: `${BASE_URL}/endorsement-news`,
         publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
       }),
+      breadcrumbSchema: [
+        { name: 'Home', url: BASE_URL },
+        { name: 'Endorsement News', url: `${BASE_URL}/endorsement-news` },
+      ],
       faqSchema: [
         {
           question: 'Which metal drummers are currently endorsed by Tama?',

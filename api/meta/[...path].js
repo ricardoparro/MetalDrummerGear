@@ -3684,6 +3684,10 @@ export function getMetaForPath(pathname) {
           href: `/drummer/${d.name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '')}`,
           label: d.name,
         })),
+        // Issue #4832: Speakable schema was never wired for /lists/<slug>, unlike
+        // drummer profiles (#4665/#4738), articles (#1403), techniques, and bands.
+        speakableSchema: true,
+        speakableCssSelector: ['h1', 'h2', 'p'],
       };
     }
   }

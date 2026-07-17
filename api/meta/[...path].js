@@ -994,6 +994,8 @@ export function getMetaForPath(pathname) {
           { href: `/drummer/${slug1}`, label: drummer1.name },
           { href: `/drummer/${slug2}`, label: drummer2.name },
         ],
+        speakableSchema: true,
+        speakableCssSelector: ['h1', 'h2', 'p'],
       };
     }
   }
@@ -1036,6 +1038,8 @@ export function getMetaForPath(pathname) {
           answer: `Yes — see the full side-by-side breakdown of Joey Jordison (Slipknot) vs Lars Ulrich (Metallica) at ${BASE_URL}/vs/lars-ulrich-vs-joey-jordison.`,
         },
       ],
+      speakableSchema: true,
+      speakableCssSelector: ['h1', 'h2', 'p'],
     };
   }
 
@@ -1091,6 +1095,8 @@ export function getMetaForPath(pathname) {
         { name: 'Home', url: BASE_URL },
         { name: 'Tools', url: `${BASE_URL}/tools` },
       ],
+      speakableSchema: true,
+      speakableCssSelector: ['h1', 'h2', 'p'],
     };
   }
 
@@ -1119,6 +1125,8 @@ export function getMetaForPath(pathname) {
         { name: 'Home', url: BASE_URL },
         { name: 'Drumming Guides', url: `${BASE_URL}/guides` },
       ],
+      speakableSchema: true,
+      speakableCssSelector: ['h1', 'h2', 'p'],
     };
   }
 

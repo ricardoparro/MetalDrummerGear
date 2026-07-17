@@ -2975,6 +2975,8 @@ export function getMetaForPath(pathname) {
             label: GENRES[s].name,
           })),
         ],
+        speakableSchema: true,
+        speakableCssSelector: ['h1', 'h2', 'p'],
       };
     }
   }
@@ -3855,6 +3857,8 @@ export function getMetaForPath(pathname) {
           { name: 'Studies', url: `${BASE_URL}/studies` },
           { name: study.title, url: `${BASE_URL}/studies/${studySlug}` },
         ],
+        speakableSchema: true,
+        speakableCssSelector: ['h1', 'h2', 'p'],
       };
     }
 
@@ -3942,6 +3946,8 @@ export function getMetaForPath(pathname) {
           { name: 'Studies', url: `${BASE_URL}/studies` },
           { name: study.title, url: `${BASE_URL}/studies/${studySlug}` },
         ],
+        speakableSchema: true,
+        speakableCssSelector: ['h1', 'h2', 'p'],
       };
     }
 
@@ -4043,6 +4049,8 @@ export function getMetaForPath(pathname) {
           { name: 'Studies', url: `${BASE_URL}/studies` },
           { name: study.title, url: `${BASE_URL}/studies/${studySlug}` },
         ],
+        speakableSchema: true,
+        speakableCssSelector: ['h1', 'h2', 'p'],
       };
     }
 
@@ -4151,6 +4159,8 @@ export function getMetaForPath(pathname) {
           { name: 'Studies', url: `${BASE_URL}/studies` },
           { name: study.title, url: `${BASE_URL}/studies/${studySlug}` },
         ],
+        speakableSchema: true,
+        speakableCssSelector: ['h1', 'h2', 'p'],
       };
     }
   }
@@ -4706,6 +4716,8 @@ export function getMetaForPath(pathname) {
           { href: `/drummer/${_battleDrummerSlug(d1.name)}`, label: d1.name },
           { href: `/drummer/${_battleDrummerSlug(d2.name)}`, label: d2.name },
         ],
+        speakableSchema: true,
+        speakableCssSelector: ['h1', 'h2', 'p'],
       };
     }
   }

@@ -2826,6 +2826,7 @@ export function getMetaForPath(pathname) {
             ...(allBrandDrummers.length > 0 ? [{
               '@type': 'ItemList',
               name: `Metal drummers using ${brand.name}`,
+              numberOfItems: allBrandDrummers.length,
               itemListElement: allBrandDrummers.map((d, i) => ({
                 '@type': 'ListItem',
                 position: i + 1,

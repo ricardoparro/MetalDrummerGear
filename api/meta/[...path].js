@@ -5875,6 +5875,7 @@ ${meta.articleSchema}
     headline: meta.articleSchema.headline,
     description: meta.articleSchema.description,
     image: [meta.articleSchema.image],
+    isAccessibleForFree: true,
     author: {
       '@type': 'Organization',
       name: meta.articleSchema.author || 'MetalForge',

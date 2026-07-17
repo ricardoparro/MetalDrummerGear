@@ -3039,3 +3039,10 @@ Metrics 07:38 UTC (414 users/439 sessions/586 views 7d; GSC 5,953 impr/115 click
 - Blockers unchanged: #875/#529/#526/#525 (0 comments each) · no re-spam
 - Actions: none — hold continues; oldest open ai-fix (#4748) at ~24h, not yet atomic-split threshold
 - Next check: mid-day pulse (~13:00 UTC) — watch #4766 (studies epic final phase) merge to trigger real starvation-playbook step 2
+
+## 2026-07-17 10:32 (state-confirm — anti-noise hold)
+- Backlog: 6 ai-fix (bands #4756, songs #4760/4761/4762, roster-exp #4748, schema #4821) · 0 PRs open · proposals untriaged: 0 (#4821 self-labeled ai-fix on filing; only umbrellas #3810/#3819/#2211 remain seo-proposal-only)
+- Org/Sessions/Views (7d): 415/440/594 · GSC 5,953 impr/115 clicks/1.93% CTR/pos 10.7 (unchanged)
+- Blockers unchanged: #875/#529/#526/#525 (0 comments each) · no re-spam
+- Actions: none — studies epic (#4763) fully closed 09:20 UTC (final phase #4766 merged), the exact trigger flagged at 07:38 to re-check starvation. Backlog thinned 9→6 but bands+songs epics still carry 4 queued phases, so holding rather than forcing new surface on a cheap pulse.
+- Next check: mid-day pulse (~13:00 UTC) — if backlog still <15 and bank still empty by then, run starvation-playbook step 2 (roster/theme-hub/format-replication) for real

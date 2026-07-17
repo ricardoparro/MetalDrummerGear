@@ -11,6 +11,7 @@ import {
   getTempoTierBySlug,
   getFastestMetalSongs,
   getSongsByDrummerSlug,
+  getSongPageSlugs,
   FASTEST_SONGS_MIN_BPM,
 } from '../data/metalSongsBpm';
 
@@ -124,8 +125,11 @@ function DrummerRef({ slug, drummerBySlug, theme }) {
 
 // Shared ranked-table renderer for tempo tier / flagship / by-drummer pages.
 // Each row links its drummer (when the slug resolves to a live roster
-// profile) and offers a "practice at this tempo" CTA into the /bpm tool.
-function RankedSongsTable({ songs, drummerBySlug, theme, showDrummerColumn = true }) {
+// profile) and offers a "practice at this tempo" CTA into the /bpm tool. Song
+// titles link to their own /songs/<slug> page when that song clears the
+// content-richness gate (Issue #4761) — under-gate songs stay plain text so
+// no link here ever points at a thin/404'd page.
+function RankedSongsTable({ songs, drummerBySlug, theme, showDrummerColumn = true, qualifyingSlugs }) {
   return (
     <View style={[styles.table, { borderColor: theme.border }]}>
       {songs.map((s, i) => (
@@ -139,7 +143,13 @@ function RankedSongsTable({ songs, drummerBySlug, theme, showDrummerColumn = tru
         >
           <Text style={[styles.rank, { color: theme.mutedText || theme.secondaryText }]}>#{i + 1}</Text>
           <View style={styles.rowMain}>
-            <Text style={[styles.songTitle, { color: theme.text }]}>{s.song}</Text>
+            {qualifyingSlugs && qualifyingSlugs.has(s.slug) ? (
+              <WebLink href={`/songs/${s.slug}`} style={{ ...styles.songTitle, color: theme.text }}>
+                {s.song}
+              </WebLink>
+            ) : (
+              <Text style={[styles.songTitle, { color: theme.text }]}>{s.song}</Text>
+            )}
             <Text style={[styles.songMeta, { color: theme.secondaryText }]}>
               {s.band} · {s.album} ({s.year})
               {showDrummerColumn ? (
@@ -202,6 +212,7 @@ export function FastestMetalSongsPage({ drummers = [] }) {
   const theme = useContext(ThemeContext);
   const songs = useMemo(() => getFastestMetalSongs(), []);
   const drummerBySlug = useDrummerLookup(drummers);
+  const qualifyingSlugs = useMemo(() => new Set(getSongPageSlugs()), []);
   const top = songs[0];
 
   useEffect(() => {
@@ -252,7 +263,7 @@ export function FastestMetalSongsPage({ drummers = [] }) {
           </Text>
         </View>
       ) : null}
-      <RankedSongsTable songs={songs} drummerBySlug={drummerBySlug} theme={theme} />
+      <RankedSongsTable songs={songs} drummerBySlug={drummerBySlug} theme={theme} qualifyingSlugs={qualifyingSlugs} />
     </ListPageShell>
   );
 }
@@ -262,6 +273,7 @@ export function SongsTempoTierPage({ tierSlug, drummers = [] }) {
   const theme = useContext(ThemeContext);
   const tier = useMemo(() => getTempoTierBySlug(tierSlug), [tierSlug]);
   const drummerBySlug = useDrummerLookup(drummers);
+  const qualifyingSlugs = useMemo(() => new Set(getSongPageSlugs()), []);
 
   useEffect(() => {
     if (Platform.OS !== 'web' || !tier) return;
@@ -300,7 +312,7 @@ export function SongsTempoTierPage({ tierSlug, drummers = [] }) {
       subtitle={`${tier.songs.length} metal songs in the ${tier.min}-${tier.max} BPM range, ranked fastest first. This is where ${tier.label.toLowerCase()} lives — tap "Practice at this tempo" to drill any of these in the BPM tool.`}
       breadcrumb={[{ name: 'Home', href: '/' }, { name: 'Songs', href: '/songs' }, { name: tier.label }]}
     >
-      <RankedSongsTable songs={tier.songs} drummerBySlug={drummerBySlug} theme={theme} />
+      <RankedSongsTable songs={tier.songs} drummerBySlug={drummerBySlug} theme={theme} qualifyingSlugs={qualifyingSlugs} />
     </ListPageShell>
   );
 }
@@ -314,6 +326,7 @@ export function SongsByDrummerPage({ drummerSlug, drummers = [] }) {
   const theme = useContext(ThemeContext);
   const songs = useMemo(() => getSongsByDrummerSlug(drummerSlug), [drummerSlug]);
   const drummerBySlug = useDrummerLookup(drummers);
+  const qualifyingSlugs = useMemo(() => new Set(getSongPageSlugs()), []);
   const drummer = drummerBySlug.get(drummerSlug);
   const displayName = drummer?.name || humanize(drummerSlug);
 
@@ -359,7 +372,7 @@ export function SongsByDrummerPage({ drummerSlug, drummers = [] }) {
           View {displayName}'s full gear profile →
         </WebLink>
       ) : null}
-      <RankedSongsTable songs={songs} drummerBySlug={drummerBySlug} theme={theme} showDrummerColumn={false} />
+      <RankedSongsTable songs={songs} drummerBySlug={drummerBySlug} theme={theme} showDrummerColumn={false} qualifyingSlugs={qualifyingSlugs} />
     </ListPageShell>
   );
 }

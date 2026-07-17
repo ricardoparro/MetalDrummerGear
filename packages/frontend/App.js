@@ -966,6 +966,15 @@ const LazySongsHubPage = lazy(() => import('./pages/SongsHubPage').then(m => ({ 
 const LazyFastestMetalSongsPage = lazy(() => import('./pages/SongsListPages').then(m => ({ default: m.FastestMetalSongsPage })));
 const LazySongsTempoTierPage = lazy(() => import('./pages/SongsListPages').then(m => ({ default: m.SongsTempoTierPage })));
 const LazySongsByDrummerPage = lazy(() => import('./pages/SongsListPages').then(m => ({ default: m.SongsByDrummerPage })));
+// Per-song pages (Issue #4761, phase 3/4 of epic #4758) - /songs/<slug>.
+// Only songs that clear the content-richness gate in data/metalSongsBpm.js
+// (getSongPageSlugs) get a real page; this route is matched purely off URL
+// shape (like the other /songs/* routes above), and the lazy-loaded
+// component itself renders "Song Not Found" for a slug that doesn't exist
+// OR doesn't clear the gate — same convention as SongsByDrummerPage's
+// "Drummer Not Found" fallback, so an under-gate slug never gets a thin page.
+const LazySongDetailPage = lazy(() => import('./pages/SongDetailPage').then(m => ({ default: m.SongDetailPage })));
+const SONGS_RESERVED_SLUGS = new Set(['fastest-metal-songs', 'tempo', 'drummer']);
 const SONGS_TEMPO_TIER_SLUGS = new Set(['doom', 'groove', 'thrash', 'extreme', 'blast']);
 function isSongsHubPage() {
   if (typeof window === 'undefined') return false;
@@ -994,6 +1003,16 @@ function isSongsByDrummerPage() {
 function getSongsDrummerSlugFromURL() {
   if (typeof window === 'undefined') return null;
   const match = window.location.pathname.match(/^\/songs\/drummer\/([a-z0-9-]+)\/?$/i);
+  return match ? match[1].toLowerCase() : null;
+}
+function isSongDetailPage() {
+  if (typeof window === 'undefined') return false;
+  const match = window.location.pathname.match(/^\/songs\/([a-z0-9-]+)\/?$/i);
+  return !!match && !SONGS_RESERVED_SLUGS.has(match[1].toLowerCase());
+}
+function getSongDetailSlugFromURL() {
+  if (typeof window === 'undefined') return null;
+  const match = window.location.pathname.match(/^\/songs\/([a-z0-9-]+)\/?$/i);
   return match ? match[1].toLowerCase() : null;
 }
 
@@ -29919,6 +29938,16 @@ setShowList(false);
       return (
         <Suspense fallback={<PageLoadingSkeleton theme={theme} />}>
           <LazySongsByDrummerPage drummerSlug={getSongsDrummerSlugFromURL()} drummers={drummers} />
+        </Suspense>
+      );
+    }
+
+    // Per-song pages (Issue #4761, phase 3/4 of epic #4758) - /songs/<slug>,
+    // gated by content-richness (getSongPageSlugs) inside the component itself.
+    if (isSongDetailPage()) {
+      return (
+        <Suspense fallback={<PageLoadingSkeleton theme={theme} />}>
+          <LazySongDetailPage slug={getSongDetailSlugFromURL()} drummers={drummers} />
         </Suspense>
       );
     }

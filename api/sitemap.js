@@ -54,6 +54,10 @@ import { TOP_10_LISTS } from '../packages/frontend/data/top10Lists.js';
 // Issue #4764 (phase 1/3 of epic #4763): /studies registry — sitemap entries
 // derive from it so a new study only needs registering in one place.
 import { STUDIES } from '../packages/frontend/data/studies/index.js';
+// Issue #4760 (songs epic #4758, phase 2/4): /songs hub + tempo/flagship/
+// drummer list pages — tempo tiers and drummer counts derive from the same
+// module the pages themselves read, so the sitemap can't drift out of sync.
+import { getTempoTiers, getDrummersWithSongCounts } from '../packages/frontend/data/metalSongsBpm.js';
 // Issue #3661: source gear-history and sound-like-guide slugs from their
 // canonical data modules (same pattern as above) so the sitemap can never
 // drift out of sync with these two data files again.
@@ -469,6 +473,13 @@ for (const d of DRUMMER_GEAR_DATA) {
   drummerBandBySlug[generateSlug(d.name)] = d.band || null;
 }
 
+// Issue #4760 (songs epic #4758, phase 2/4): /songs/drummer/<slug> pages only
+// exist for roster drummers (this file's own `drummers` array — the same set
+// that generates the /drummer/<slug> entries below) with >= 3 songs in
+// metalSongsBpm.js, matching the SongsByDrummerPage gate.
+const songRosterSlugs = new Set(drummers.map(d => generateSlug(d.name)));
+const songsQualifyingDrummers = getDrummersWithSongCounts().filter(d => songRosterSlugs.has(d.drummer));
+
 // Issue #997: gear/series "drummers-using" page URLs.
 // Mirrors slugifySeries + the dedupe rule in
 // packages/frontend/data/gearSeriesPages.js so these <loc>s match the
@@ -567,6 +578,13 @@ export function buildSitemapXml() {
     // Issue #1579: BPM Tap Calculator + Metal Songs BPM Database
     { loc: '/bpm', priority: '0.95', changefreq: 'weekly' },
     { loc: '/bpm-tap', priority: '0.9', changefreq: 'monthly' },
+    // Issue #4760 (songs epic #4758, phase 2/4): /songs hub + flagship + tempo
+    // tiers (derived from TEMPO_RANGES via getTempoTiers) + qualifying
+    // by-drummer pages (roster drummers with >= 3 songs) — nothing hand-listed.
+    { loc: '/songs', priority: '0.9', changefreq: 'weekly' },
+    { loc: '/songs/fastest-metal-songs', priority: '0.9', changefreq: 'weekly' },
+    ...getTempoTiers().map(t => ({ loc: `/songs/tempo/${t.slug}`, priority: '0.85', changefreq: 'monthly' })),
+    ...songsQualifyingDrummers.map(d => ({ loc: `/songs/drummer/${d.drummer}`, priority: '0.7', changefreq: 'monthly' })),
     // Issue #4371: Gear Finder tool
     { loc: '/gear-finder', priority: '0.85', changefreq: 'weekly' },
     // Issue #4370: Metal Drumming Evolution Timeline (47 events, 1970-2024)

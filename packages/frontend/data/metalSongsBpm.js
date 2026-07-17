@@ -23,6 +23,12 @@
  * are the module's public API — unchanged by this pass so existing
  * consumers (the /bpm tap tool's import surface, scripts/compute-studies.cjs)
  * keep working without modification.
+ *
+ * Issue #4760 (songs epic #4758, phase 2/4): added TEMPO_TIER_SLUGS plus
+ * getSongBySlug / getAllSongSlugs / getTempoTiers / getTempoTierBySlug /
+ * getFastestMetalSongs / getSongsByDrummerSlug / getDrummersWithSongCounts —
+ * the read surface for the new /songs hub, tempo-tier, flagship, and
+ * by-drummer list pages. Purely additive; nothing above changed.
  */
 
 // Tempo range definitions for metal
@@ -437,6 +443,114 @@ export function getDatabaseStats() {
       blast: getSongsByTempoCategory('blast').length,
     }
   };
+}
+
+/**
+ * Issue #4760: URL slugs for the /songs/tempo/<tier> pages, one per
+ * TEMPO_RANGES key. Named for each range's dominant subgenre rather than
+ * the internal slow/mid/fast/extreme/blast keys (e.g. `slow` -> `doom`).
+ */
+export const TEMPO_TIER_SLUGS = {
+  slow: 'doom',
+  mid: 'groove',
+  fast: 'thrash',
+  extreme: 'extreme',
+  blast: 'blast',
+};
+
+/**
+ * Look up a song by its stable slug.
+ * @param {string} slug
+ * @returns {object|null}
+ */
+export function getSongBySlug(slug) {
+  return metalSongs.find(s => s.slug === slug) || null;
+}
+
+/**
+ * @returns {string[]} every song's slug
+ */
+export function getAllSongSlugs() {
+  return metalSongs.map(s => s.slug);
+}
+
+/**
+ * All five tempo tiers with their URL slug and member songs (BPM descending).
+ * Powers the /songs hub's tempo-range browse section and the sitemap.
+ * @returns {object[]}
+ */
+export function getTempoTiers() {
+  return Object.keys(TEMPO_RANGES).map(rangeKey => ({
+    rangeKey,
+    slug: TEMPO_TIER_SLUGS[rangeKey],
+    ...TEMPO_RANGES[rangeKey],
+    songs: getSongsByTempoCategory(rangeKey).slice().sort((a, b) => b.bpm - a.bpm),
+  }));
+}
+
+/**
+ * Look up a single tempo tier by its /songs/tempo/<tier> URL slug.
+ * @param {string} slug
+ * @returns {object|null}
+ */
+export function getTempoTierBySlug(slug) {
+  const rangeKey = Object.keys(TEMPO_TIER_SLUGS).find(k => TEMPO_TIER_SLUGS[k] === slug);
+  if (!rangeKey) return null;
+  return {
+    rangeKey,
+    slug,
+    ...TEMPO_RANGES[rangeKey],
+    songs: getSongsByTempoCategory(rangeKey).slice().sort((a, b) => b.bpm - a.bpm),
+  };
+}
+
+/** Minimum BPM for the /songs/fastest-metal-songs flagship page. */
+export const FASTEST_SONGS_MIN_BPM = 200;
+
+/**
+ * Songs at or above minBpm, ranked fastest first. Powers the
+ * /songs/fastest-metal-songs flagship page.
+ * @param {number} [minBpm]
+ * @returns {object[]}
+ */
+export function getFastestMetalSongs(minBpm = FASTEST_SONGS_MIN_BPM) {
+  return metalSongs.filter(s => s.bpm >= minBpm).slice().sort((a, b) => b.bpm - a.bpm);
+}
+
+/**
+ * Every song attributed to a given drummer slug, ranked fastest first.
+ * @param {string} drummerSlug
+ * @returns {object[]}
+ */
+export function getSongsByDrummerSlug(drummerSlug) {
+  return metalSongs.filter(s => s.drummer === drummerSlug).slice().sort((a, b) => b.bpm - a.bpm);
+}
+
+/** Minimum song count for a drummer to qualify for a /songs/drummer/<slug> page. */
+export const DRUMMER_SONGS_MIN_COUNT = 3;
+
+/**
+ * Drummer slugs with at least minCount songs in the database, most songs
+ * first. Callers are responsible for filtering against the live drummer
+ * roster (this module has no roster dependency) before linking out.
+ * @param {number} [minCount]
+ * @returns {{drummer: string, count: number, songs: object[]}[]}
+ */
+export function getDrummersWithSongCounts(minCount = DRUMMER_SONGS_MIN_COUNT) {
+  const byDrummer = new Map();
+  for (const s of metalSongs) {
+    if (!s.drummer) continue;
+    if (!byDrummer.has(s.drummer)) byDrummer.set(s.drummer, []);
+    byDrummer.get(s.drummer).push(s);
+  }
+  return [...byDrummer.entries()]
+    .filter(([, songs]) => songs.length >= minCount)
+    .map(([drummer, songs]) => ({
+      drummer,
+      count: songs.length,
+      songs: songs.slice().sort((a, b) => b.bpm - a.bpm),
+    }))
+    .sort((a, b) => b.count - a.count);
 }
 
 export default metalSongs;

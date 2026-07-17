@@ -239,7 +239,18 @@ import {
 // Issue #4669: /bpm + /bpm-tap ssrLinks — every metalSongs entry already
 // carries a `drummer` slug field, previously never wired into the bot-facing
 // SSR shell (0 outbound links from a 150+-song database).
-import { metalSongs } from '../../packages/frontend/data/metalSongsBpm.js';
+// Issue #4760 (songs epic #4758, phase 2/4): /songs hub + tempo/flagship/
+// drummer list pages SSR meta — reads the same module's slug-lookup helpers.
+import {
+  metalSongs,
+  getTempoTiers,
+  getTempoTierBySlug,
+  getFastestMetalSongs,
+  getSongsByDrummerSlug,
+  getDrummersWithSongCounts,
+  FASTEST_SONGS_MIN_BPM,
+  DRUMMER_SONGS_MIN_COUNT,
+} from '../../packages/frontend/data/metalSongsBpm.js';
 // Issue #4669: /gear-finder ssrLinks — same DRUMMER_GEAR/BRAND_SEO_DATA maps
 // the live GearFinder search page reads from.
 import { DRUMMER_GEAR, BRAND_SEO_DATA } from '../../packages/frontend/data/gearSearchData.js';
@@ -5320,6 +5331,213 @@ export function getMetaForPath(pathname) {
         '@graph': graph,
       }),
     };
+  }
+
+  // Issue #4760 (songs epic #4758, phase 2/4): /songs hub + tempo/flagship/
+  // drummer list pages. Checked before /bpm below since both read the same
+  // metalSongsBpm.js module. humanizeSongDrummerSlug covers the rare
+  // non-roster `drummer` slug in a tempo-tier/flagship table (session or
+  // touring fill-ins not yet on the roster) so the row still reads as a name.
+  const humanizeSongDrummerSlug = (slug) =>
+    drummerSlugToName[slug] || slug.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+
+  if (path === '/songs') {
+    const tiers = getTempoTiers();
+    const fastest = getFastestMetalSongs();
+    const qualifyingDrummers = getDrummersWithSongCounts().filter(d => drummerSlugToName[d.drummer]);
+    const ssrLinks = _dedupeSsrLinksByHref([
+      { href: '/songs/fastest-metal-songs', label: `Fastest Metal Songs (${fastest.length} songs)` },
+      ...tiers.map(t => ({ href: `/songs/tempo/${t.slug}`, label: `${t.label} (${t.songs.length} songs)` })),
+      ...qualifyingDrummers.map(d => ({
+        href: `/songs/drummer/${d.drummer}`,
+        label: `${drummerSlugToName[d.drummer]} songs (${d.count})`,
+      })),
+    ]);
+    return {
+      title: `Metal Songs Database — Browse by Tempo, Genre & Drummer | ${SITE_NAME}`,
+      description: `Browse ${metalSongs.length} metal songs by tempo, genre, band, and drummer — every song has a verified BPM and its recording drummer.`,
+      image: DEFAULT_IMAGE,
+      type: 'website',
+      url: `${BASE_URL}/songs`,
+      ssrLinks,
+      articleSchema: JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'CollectionPage',
+        name: 'Metal Songs Database',
+        description: `Browse ${metalSongs.length} metal songs by tempo, genre, band, and drummer.`,
+        url: `${BASE_URL}/songs`,
+        hasPart: [
+          { '@type': 'ItemList', name: 'Fastest Metal Songs', url: `${BASE_URL}/songs/fastest-metal-songs` },
+          ...tiers.map(t => ({ '@type': 'ItemList', name: `${t.label} Metal Songs`, url: `${BASE_URL}/songs/tempo/${t.slug}` })),
+        ],
+      }),
+      breadcrumbSchema: [
+        { name: 'Home', url: BASE_URL },
+        { name: 'Songs', url: `${BASE_URL}/songs` },
+      ],
+    };
+  }
+
+  // Flagship: /songs/fastest-metal-songs — 200+ BPM ranked, FAQPage answering
+  // "what is the fastest metal song?" from the top-ranked entry's own source.
+  if (path === '/songs/fastest-metal-songs') {
+    const songs = getFastestMetalSongs();
+    const top = songs[0];
+    const ssrLinks = _dedupeSsrLinksByHref(
+      songs.filter(s => s.drummer && drummerSlugToName[s.drummer]).map(s => ({
+        href: `/drummer/${s.drummer}`,
+        label: `${s.song} — ${s.band} (${s.bpm} BPM)`,
+      }))
+    );
+    const faqAnswer = top
+      ? `The fastest metal song in MetalForge's database is "${top.song}" by ${top.band} at ${top.bpm} BPM, drummed by ${humanizeSongDrummerSlug(top.drummer)}. Source: ${top.source}. Note that BPM figures in this database aren't audio-metronome-measured for every entry — see each song's source for its specific verification method, and double-time passages can make a track feel considerably faster than its listed BPM.`
+      : null;
+    return {
+      title: `Fastest Metal Songs Ranked by BPM | ${SITE_NAME}`,
+      description: `${songs.length} metal songs at ${FASTEST_SONGS_MIN_BPM}+ BPM, ranked fastest first — from blast-beat grindcore down to the slowest song that still clears the bar.`,
+      image: DEFAULT_IMAGE,
+      type: 'website',
+      url: `${BASE_URL}/songs/fastest-metal-songs`,
+      ssrLinks,
+      tables: [{
+        heading: 'Fastest Metal Songs',
+        headers: ['Rank', 'Song', 'Band', 'BPM', 'Drummer'],
+        rows: songs.map((s, i) => [String(i + 1), s.song, s.band, String(s.bpm), humanizeSongDrummerSlug(s.drummer)]),
+      }],
+      faqSchema: faqAnswer ? [
+        { question: 'What is the fastest metal song?', answer: faqAnswer },
+      ] : null,
+      articleSchema: JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'ItemList',
+        name: 'Fastest Metal Songs',
+        description: `Metal songs at ${FASTEST_SONGS_MIN_BPM}+ BPM, ranked fastest first.`,
+        url: `${BASE_URL}/songs/fastest-metal-songs`,
+        numberOfItems: songs.length,
+        itemListOrder: 'https://schema.org/ItemListOrderDescending',
+        itemListElement: songs.map((s, i) => ({
+          '@type': 'ListItem',
+          position: i + 1,
+          item: {
+            '@type': 'MusicRecording',
+            name: s.song,
+            byArtist: { '@type': 'MusicGroup', name: s.band },
+            url: `${BASE_URL}/songs/fastest-metal-songs#${s.slug}`,
+          },
+        })),
+      }),
+      breadcrumbSchema: [
+        { name: 'Home', url: BASE_URL },
+        { name: 'Songs', url: `${BASE_URL}/songs` },
+        { name: 'Fastest Metal Songs', url: `${BASE_URL}/songs/fastest-metal-songs` },
+      ],
+    };
+  }
+
+  // /songs/tempo/<tier> — one page per TEMPO_RANGES tier (doom/groove/thrash/extreme/blast).
+  const songsTempoTierMatch = path.match(/^\/songs\/tempo\/([a-z0-9-]+)$/);
+  if (songsTempoTierMatch) {
+    const tier = getTempoTierBySlug(songsTempoTierMatch[1].toLowerCase());
+    if (tier) {
+      const ssrLinks = _dedupeSsrLinksByHref(
+        tier.songs.filter(s => s.drummer && drummerSlugToName[s.drummer]).map(s => ({
+          href: `/drummer/${s.drummer}`,
+          label: `${s.song} — ${s.band} (${s.bpm} BPM)`,
+        }))
+      );
+      return {
+        title: `${tier.label} Metal Songs (${tier.min}-${tier.max} BPM) | ${SITE_NAME}`,
+        description: `${tier.songs.length} metal songs in the ${tier.label} tempo range (${tier.min}-${tier.max} BPM), ranked fastest first.`,
+        image: DEFAULT_IMAGE,
+        type: 'website',
+        url: `${BASE_URL}/songs/tempo/${tier.slug}`,
+        ssrLinks,
+        tables: [{
+          heading: `${tier.label} Metal Songs`,
+          headers: ['Rank', 'Song', 'Band', 'BPM', 'Drummer'],
+          rows: tier.songs.map((s, i) => [String(i + 1), s.song, s.band, String(s.bpm), humanizeSongDrummerSlug(s.drummer)]),
+        }],
+        articleSchema: JSON.stringify({
+          '@context': 'https://schema.org',
+          '@type': 'ItemList',
+          name: `${tier.label} Metal Songs`,
+          description: `Metal songs in the ${tier.label} tempo range (${tier.min}-${tier.max} BPM), ranked fastest first.`,
+          url: `${BASE_URL}/songs/tempo/${tier.slug}`,
+          numberOfItems: tier.songs.length,
+          itemListOrder: 'https://schema.org/ItemListOrderDescending',
+          itemListElement: tier.songs.map((s, i) => ({
+            '@type': 'ListItem',
+            position: i + 1,
+            item: {
+              '@type': 'MusicRecording',
+              name: s.song,
+              byArtist: { '@type': 'MusicGroup', name: s.band },
+              url: `${BASE_URL}/songs/tempo/${tier.slug}#${s.slug}`,
+            },
+          })),
+        }),
+        breadcrumbSchema: [
+          { name: 'Home', url: BASE_URL },
+          { name: 'Songs', url: `${BASE_URL}/songs` },
+          { name: tier.label, url: `${BASE_URL}/songs/tempo/${tier.slug}` },
+        ],
+      };
+    }
+    // Unknown tier slug falls through to the default 404 meta below.
+  }
+
+  // /songs/drummer/<slug> — only for roster drummers with >= DRUMMER_SONGS_MIN_COUNT
+  // songs in the database (mirrors the SignatureStickPage convention: an
+  // unqualified slug falls through to the normal 404 instead of a thin page).
+  const songsDrummerMatch = path.match(/^\/songs\/drummer\/([a-z0-9-]+)$/);
+  if (songsDrummerMatch) {
+    const drummerSlug = songsDrummerMatch[1].toLowerCase();
+    const drummerName = drummerSlugToName[drummerSlug];
+    const songs = getSongsByDrummerSlug(drummerSlug);
+    if (drummerName && songs.length >= DRUMMER_SONGS_MIN_COUNT) {
+      return {
+        title: `${drummerName} Songs by BPM | ${SITE_NAME}`,
+        description: `${songs.length} songs in MetalForge's database drummed by ${drummerName}, ranked fastest first.`,
+        image: DEFAULT_IMAGE,
+        type: 'website',
+        url: `${BASE_URL}/songs/drummer/${drummerSlug}`,
+        ssrLinks: [
+          { href: '/songs', label: 'All Songs' },
+          { href: `/drummer/${drummerSlug}`, label: `${drummerName} gear profile` },
+        ],
+        tables: [{
+          heading: `${drummerName} — Songs by BPM`,
+          headers: ['Rank', 'Song', 'Band', 'Album', 'Year', 'BPM'],
+          rows: songs.map((s, i) => [String(i + 1), s.song, s.band, s.album, String(s.year), String(s.bpm)]),
+        }],
+        articleSchema: JSON.stringify({
+          '@context': 'https://schema.org',
+          '@type': 'ItemList',
+          name: `${drummerName} Songs by BPM`,
+          description: `Every song in MetalForge's database drummed by ${drummerName}, ranked fastest first.`,
+          url: `${BASE_URL}/songs/drummer/${drummerSlug}`,
+          numberOfItems: songs.length,
+          itemListOrder: 'https://schema.org/ItemListOrderDescending',
+          itemListElement: songs.map((s, i) => ({
+            '@type': 'ListItem',
+            position: i + 1,
+            item: {
+              '@type': 'MusicRecording',
+              name: s.song,
+              byArtist: { '@type': 'MusicGroup', name: s.band },
+              url: `${BASE_URL}/songs/drummer/${drummerSlug}#${s.slug}`,
+            },
+          })),
+        }),
+        breadcrumbSchema: [
+          { name: 'Home', url: BASE_URL },
+          { name: 'Songs', url: `${BASE_URL}/songs` },
+          { name: drummerName, url: `${BASE_URL}/songs/drummer/${drummerSlug}` },
+        ],
+      };
+    }
+    // Unqualified slug (not a roster drummer, or fewer than 3 songs) falls
+    // through to the default 404 meta below.
   }
 
   // Issue #1579: /bpm and /bpm-tap — BPM Tap Calculator + Metal Songs BPM Database

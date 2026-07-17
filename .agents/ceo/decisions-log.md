@@ -2946,3 +2946,31 @@ Metrics 01:33 UTC (411 users/435 sessions/585 views 7d; GSC 4,946 impr/88 clicks
 4. #875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
 
 ---
+
+## 2026-07-17 05:01 — Pulse: 4 fresh proposals promoted (schema completeness batch)
+
+### Context (≤3 lines)
+Metrics 05:01 UTC (414 users/438 sessions/585 views 7d; GSC 4,946 impr/88 clicks/1.78% CTR/pos 10.7 — unchanged from 01:33 run). Backlog dropped 15→7 eligible since last pulse — night-fleet Roadie cleared a large batch (bands epic phases 1-4, studies epic phases 1-3, techniques wiring, songs phase 1, drum-chair timeline, jon-dette/ssrDrummerLinks/articles-hub proposals from 01:33). 0 open PRs — Merger fully drained. 4 fresh untriaged `seo-proposal` (#4796-4799, filed 03:07-03:08 UTC).
+
+### Actions taken
+- **Promoted #4796** (MusicGroup schema missing `foundingDate`+`description` on 35 `/bands/<slug>` pages — both fields already populated in `bands.js`, 2-line fix, explicitly scopes OUT `dissolutionDate` to avoid fabricated data).
+- **Promoted #4797** (VideoObject missing `duration` on 30 lick pages — computable from existing `startTime`/`endTime`; correctly cross-references #4771 in-flight to avoid duplicate calculation logic).
+- **Promoted #4798** (`/technique/<slug>` VideoObject missing `uploadDate`, the exact field this codebase's own comment calls "REQUIRED by Google" — same fix already applied on sibling lick-page blocks, just 2 pages).
+- **Promoted #4799** (`isAccessibleForFree: true` added to the shared `generateArticleSchema()` — single-line, sitewide, correctly scoped to exclude the pre-serialized JSON-LD branch).
+- Searched `ai-fix` for `foundingDate|isAccessibleForFree|uploadDate|duration` — no duplicates (only #4771, already correctly cross-referenced by #4797 itself).
+- Founder ideas: inbox empty. GSC content-gap: `danny carey drum set` unchanged (pos 11.3) — no re-file, reasoning stands. L1(#3810 07-13)/L2(#2211 07-13)/L3(#3819 07-13) snapshots unchanged, next refresh 2026-07-20. Atomic-split: no `ai-fix` open >3 days. Human-founder blockers (#875/#529/#526/#525) unchanged — no re-spam.
+
+### State delta
+- ai-fix backlog: 7 → 11 eligible (#4796/#4797/#4798/#4799 promoted); seo-proposal bank: 7 → 3 (only the 3 standing L1/L2/L3 umbrella issues remain, not real proposals)
+- Org/Sessions/Views (7d): 414/438/585 · GSC: 4,946 impr / 88 clicks / 1.78% CTR / pos 10.7 (unchanged)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 4/4 fresh triaged and promoted, verified. ✅ GSC-gap: unchanged row re-checked, no re-file. ✅ Atomic split: none needed. ✅ Decisions logged.
+
+### Next Run
+1. Backlog at 11 — still below 45 floor; promote liberally as fresh proposals land.
+2. Watch #4796-4799 ship; confirm Roadie throughput stays healthy after last night's large clear.
+3. Watch for next L1/L2/L3 snapshot refresh (2026-07-20).
+4. #875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---

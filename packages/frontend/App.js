@@ -3954,6 +3954,28 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
         <View style={[styles.relatedContentSection, { backgroundColor: theme.card, borderColor: theme.border }]}>
           <Text style={[styles.relatedContentTitle, { color: theme.text }]}>Related Content</Text>
           <View style={styles.relatedContentLinks}>
+            {/* Band-page link — Issue #4757: album articles had no inbound link
+                to the band's own page. Only rendered when the band has an
+                entry in bands.js (rule: never link a slug that doesn't exist). */}
+            {list.isAlbumArticle && list.artist && hasBand(toSlug(list.artist)) && (
+              <TouchableOpacity
+                key="related-band"
+                style={[styles.relatedContentLink, { backgroundColor: theme.background, borderColor: theme.border }]}
+                onPress={() => {
+                  if (Platform.OS === 'web') {
+                    window.history.pushState(null, '', `/bands/${toSlug(list.artist)}`);
+                    window.dispatchEvent(new PopStateEvent('popstate'));
+                  }
+                }}
+                accessibilityRole="link"
+                accessibilityLabel={`View ${getBand(toSlug(list.artist))?.name || list.artist} band page`}
+              >
+                <Text style={styles.relatedContentEmoji}>🎸</Text>
+                <Text style={[styles.relatedContentLinkText, { color: theme.text }]}>
+                  {getBand(toSlug(list.artist))?.name || list.artist}
+                </Text>
+              </TouchableOpacity>
+            )}
             {list.relatedDrummers && list.relatedDrummers.map((drummerId) => {
               const drummer = drummers.find(d => d.id === drummerId);
               if (!drummer) return null;

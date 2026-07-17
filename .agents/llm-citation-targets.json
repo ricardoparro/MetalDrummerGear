@@ -186,6 +186,36 @@
       "intent": "long-tail-informational",
       "target_entity": "drummer:george-kollias",
       "priority": "high"
+    },
+    {
+      "q": "who is the drummer of slipknot",
+      "intent": "fact-lookup",
+      "target_entity": "band:slipknot",
+      "priority": "high"
+    },
+    {
+      "q": "who is the drummer of tool",
+      "intent": "fact-lookup",
+      "target_entity": "band:tool",
+      "priority": "high"
+    },
+    {
+      "q": "who is the drummer of gojira",
+      "intent": "fact-lookup",
+      "target_entity": "band:gojira",
+      "priority": "high"
+    },
+    {
+      "q": "who is the drummer of mastodon",
+      "intent": "fact-lookup",
+      "target_entity": "band:mastodon",
+      "priority": "medium"
+    },
+    {
+      "q": "who is the drummer of pantera",
+      "intent": "fact-lookup",
+      "target_entity": "band:pantera",
+      "priority": "medium"
     }
   ]
 }

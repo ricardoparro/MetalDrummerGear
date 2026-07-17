@@ -1010,6 +1010,20 @@ export function getMetaForPath(pathname) {
         { name: 'Home', url: BASE_URL },
         { name: 'Drummer Comparisons', url: `${BASE_URL}/vs` },
       ],
+      faqSchema: [
+        {
+          question: 'What does the MetalForge drummer comparison hub cover?',
+          answer: `MetalForge's /vs hub features ${Object.values(DRUMMER_COMPARISONS).length} side-by-side gear comparisons of metal drummers, covering 67 legends across genres from thrash to death metal.`,
+        },
+        {
+          question: 'What gets compared in a MetalForge drummer comparison?',
+          answer: "Each comparison breaks down drum kits and gear setups side by side — drums, cymbals, and hardware — so you can see exactly how two drummers' rigs differ.",
+        },
+        {
+          question: 'Can I compare Joey Jordison and Lars Ulrich\'s gear?',
+          answer: `Yes — see the full side-by-side breakdown of Joey Jordison (Slipknot) vs Lars Ulrich (Metallica) at ${BASE_URL}/vs/lars-ulrich-vs-joey-jordison.`,
+        },
+      ],
     };
   }
 

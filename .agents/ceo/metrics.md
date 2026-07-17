@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-17 18:20 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-17 19:25 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -10,14 +10,14 @@
 | --- | --- |
 | Active users | 422 |
 | Sessions | 447 |
-| Page views | 742 |
+| Page views | 743 |
 | Engagement rate | 31.77% |
 | Avg session (s) | 300 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 139 | 89 |
+| / | 140 | 89 |
 | /drummer/lars-ulrich | 50 | 42 |
 | /drumsticks | 43 | 35 |
 | /cymbals | 34 | 34 |

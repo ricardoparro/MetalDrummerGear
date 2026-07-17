@@ -29,7 +29,7 @@ Jaska Raatikainen is one of Melodic Death Metal's most influential drummers, bes
 - Keep your ankles relaxed — tension is what makes fast double bass fall apart
 - Learn the song in sections and join them once each part is comfortable
 
-**Core Techniques:** [Double Bass](https://metalforge.io/technique/double-bass), [Blast Beat](https://metalforge.io/technique/blast-beat), [Groove Drumming](https://metalforge.io/technique/groove-drumming)
+**Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Blast Beat](https://metalforge.io/techniques/blast-beat), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## Lake Bodom Driving Fills
 
@@ -52,7 +52,7 @@ Jaska Raatikainen is one of Melodic Death Metal's most influential drummers, bes
 - Keep the double-bass pulse steady underneath so the energy never drops
 - Watch the live drumcam to see how the fills are orchestrated across the kit
 
-**Core Techniques:** [Fill Techniques](https://metalforge.io/technique/fill-techniques), [Double Bass](https://metalforge.io/technique/double-bass), [Groove Drumming](https://metalforge.io/technique/groove-drumming)
+**Core Techniques:** [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## Hate Crew Deathroll Double-Bass Assault
 
@@ -75,7 +75,7 @@ The title track of Children of Bodom's 2003 album Hate Crew Deathroll is one of 
 - Practise the hand-and-foot coordination away from full tempo until it is automatic
 - Increase the metronome a few BPM at a time rather than jumping to full speed
 
-**Core Techniques:** [Double Bass](https://metalforge.io/technique/double-bass), [Blast Beat](https://metalforge.io/technique/blast-beat), [Odd Time Signatures](https://metalforge.io/technique/odd-time-signatures)
+**Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Blast Beat](https://metalforge.io/techniques/blast-beat), [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures)
 
 ## Hate Crew Deathroll Signature Fill — Needled 24/7
 
@@ -98,7 +98,7 @@ The title track of Children of Bodom's 2003 album Hate Crew Deathroll is one of 
 - Record the fills and listen back — accents that feel strong often sound weak on playback
 - Practise landing the fill's final stroke exactly on beat one with a metronome
 
-**Core Techniques:** [Fill Techniques](https://metalforge.io/technique/fill-techniques), [Double Bass](https://metalforge.io/technique/double-bass), [Groove Drumming](https://metalforge.io/technique/groove-drumming)
+**Core Techniques:** [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## Follow the Reaper Main Groove
 
@@ -121,7 +121,7 @@ The title track of Children of Bodom's third album Follow the Reaper (2000) is o
 - Keep the hi-hat as even and mechanical as possible — it is the clock of the groove
 - Listen to the guitar and keyboard melody while playing — your groove should support it, not fight it
 
-**Core Techniques:** [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Double Bass](https://metalforge.io/technique/double-bass), [Hi-Hat Control](https://metalforge.io/technique/hi-hat-control)
+**Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass), [Hi-Hat Control](https://metalforge.io/techniques/hi-hat-control)
 
 ## Hatebreeder Double-Bass Run — Warheart
 
@@ -144,7 +144,7 @@ The title track of Children of Bodom's third album Follow the Reaper (2000) is o
 - Add the snare back-beat before adding cymbal work — layer the complexity gradually
 - Record your kick pattern and zoom in on the waveform to check for timing irregularities
 
-**Core Techniques:** [Double Bass](https://metalforge.io/technique/double-bass), [Foot Independence](https://metalforge.io/technique/foot-independence), [Groove Drumming](https://metalforge.io/technique/groove-drumming)
+**Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Foot Independence](https://metalforge.io/techniques/foot-independence), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## Teaching Points
 

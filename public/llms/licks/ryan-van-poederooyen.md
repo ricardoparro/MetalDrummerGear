@@ -26,7 +26,7 @@ Ryan Van Poederooyen's main groove from this Devin Townsend Project track builds
 - Practice the ride cymbal groove in isolation before adding kick patterns that follow the guitar accents
 - The fills should feel unhurried even at tempo — tension comes from restraint, not speed
 
-**Core Techniques:** [Ride Cymbal](https://metalforge.io/technique/ride-cymbal), [Tom Fill](https://metalforge.io/technique/tom-fill), [Groove Drumming](https://metalforge.io/technique/groove-drumming)
+**Core Techniques:** [Ride Cymbal](https://metalforge.io/techniques/ride-cymbal), [Tom Fill](https://metalforge.io/techniques/tom-fill), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## Ziltoid Goes Home Odd-Meter Polyrhythm
 
@@ -46,7 +46,7 @@ The odd-meter section from this Devin Townsend Project epic operates in a 7/8 gr
 - Practice the hi-hat accent pattern alone until it feels automatic, then layer the bass drum
 - Record yourself and loop it — an uneven 7/8 groove becomes obvious against itself
 
-**Core Techniques:** [Odd Time](https://metalforge.io/technique/odd-time), [Hi-Hat Control](https://metalforge.io/technique/hi-hat-control), [Polyrhythm](https://metalforge.io/technique/polyrhythm)
+**Core Techniques:** [Odd Time](https://metalforge.io/techniques/odd-time), [Hi-Hat Control](https://metalforge.io/techniques/hi-hat-control), [Polyrhythm](https://metalforge.io/techniques/polyrhythm)
 
 ## Transcendence Studio Prog Fill
 
@@ -66,7 +66,7 @@ The studio prog fills in this Devin Townsend Project title track are constructed
 - Isolate the 2-note rhythmic cell from each fill and practice it at 80 BPM before combining cells into the full fill
 - Watch the studio footage for stick height cues — his technique translates directly to tone control
 
-**Core Techniques:** [Tom Fill](https://metalforge.io/technique/tom-fill), [Dynamics](https://metalforge.io/technique/dynamics), [Independence](https://metalforge.io/technique/independence)
+**Core Techniques:** [Tom Fill](https://metalforge.io/techniques/tom-fill), [Dynamics](https://metalforge.io/techniques/dynamics), [Independence](https://metalforge.io/techniques/independence)
 
 
 ## Teaching Points

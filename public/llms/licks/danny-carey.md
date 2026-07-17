@@ -29,7 +29,7 @@ Pneuma is one of the defining drum performances of Tool's comeback record Fear I
 - Add the kick pattern slowly with a metronome at half tempo
 - Prioritise space and dynamics over speed - this groove is about feel
 
-**Core Techniques:** [Odd Time Signatures](https://metalforge.io/technique/odd-time-signatures), [Polyrhythms](https://metalforge.io/technique/polyrhythms), [Groove Drumming](https://metalforge.io/technique/groove-drumming)
+**Core Techniques:** [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures), [Polyrhythms](https://metalforge.io/techniques/polyrhythms), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## Schism Intro Pattern
 
@@ -52,7 +52,7 @@ Schism is famous for containing dozens of time-signature changes, and the drum p
 - Slow the tempo to 60-70% until the transitions are seamless
 - Treat the changes as one flowing groove, not separate events
 
-**Core Techniques:** [Odd Time Signatures](https://metalforge.io/technique/odd-time-signatures), [Polyrhythms](https://metalforge.io/technique/polyrhythms), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
+**Core Techniques:** [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures), [Polyrhythms](https://metalforge.io/techniques/polyrhythms), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Forty Six & 2 Outro Solo
 
@@ -75,7 +75,7 @@ The climax of Forty Six & 2 is one of the most celebrated drum moments in progre
 - Keep the underlying pulse steady so the polyrhythms land cleanly
 - Focus on smooth hand-foot linear runs rather than maximum speed
 
-**Core Techniques:** [Fill Techniques](https://metalforge.io/technique/fill-techniques), [Polyrhythms](https://metalforge.io/technique/polyrhythms), [Groove Drumming](https://metalforge.io/technique/groove-drumming)
+**Core Techniques:** [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Polyrhythms](https://metalforge.io/techniques/polyrhythms), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## Schism Odd Meter Groove
 
@@ -98,7 +98,7 @@ The main body groove of Tool's Schism is one of the most searched drum patterns 
 - Slow to 60 BPM and count aloud before gradually building to 134 BPM
 - Treat the combined nine-beat cycle as one phrase, not two separate time signatures
 
-**Core Techniques:** [Odd Time Signatures](https://metalforge.io/technique/odd-time-signatures), [Polyrhythms](https://metalforge.io/technique/polyrhythms), [Groove Drumming](https://metalforge.io/technique/groove-drumming)
+**Core Techniques:** [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures), [Polyrhythms](https://metalforge.io/techniques/polyrhythms), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## Lateralus Fibonacci Polyrhythm
 
@@ -121,7 +121,7 @@ Lateralus represents the pinnacle of Tool's compositional ambition and Danny Car
 - Start at 50 BPM with just hi-hat, then add snare, then kick over several practice sessions
 - Record yourself and compare to the track — trust your ears over your count
 
-**Core Techniques:** [Odd Time Signatures](https://metalforge.io/technique/odd-time-signatures), [Polyrhythms](https://metalforge.io/technique/polyrhythms), [Groove Drumming](https://metalforge.io/technique/groove-drumming)
+**Core Techniques:** [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures), [Polyrhythms](https://metalforge.io/techniques/polyrhythms), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## Forty Six & 2 Steady Groove
 
@@ -144,7 +144,7 @@ While the drum solo outro is the moment that attracts most attention, it is the 
 - Record yourself to verify the kick lands at the same point each 13-beat cycle
 - Trust the groove's internal logic — stop thinking in 4/4 entirely while playing it
 
-**Core Techniques:** [Odd Time Signatures](https://metalforge.io/technique/odd-time-signatures), [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Polyrhythms](https://metalforge.io/technique/polyrhythms)
+**Core Techniques:** [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Polyrhythms](https://metalforge.io/techniques/polyrhythms)
 
 ## Teaching Points
 

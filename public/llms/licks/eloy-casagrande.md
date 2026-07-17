@@ -29,7 +29,7 @@ Eloy Casagrande is one of Groove Metal / Thrash Metal's most influential drummer
 - Work double-bass bursts slowly for evenness before using them as accents
 - Record yourself to confirm the pocket stays tight under the busier figures
 
-**Core Techniques:** [Double Bass](https://metalforge.io/technique/double-bass), [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
+**Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Isolation Blast & Double Bass
 
@@ -52,7 +52,7 @@ Eloy Casagrande is one of Groove Metal / Thrash Metal's most influential drummer
 - Practise the feel transitions in isolation so they stay tight in the full song
 - Keep every limb relaxed at speed — tension kills both speed and articulation
 
-**Core Techniques:** [Blast Beat](https://metalforge.io/technique/blast-beat), [Double Bass](https://metalforge.io/technique/double-bass), [Groove Drumming](https://metalforge.io/technique/groove-drumming)
+**Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## Arise Double Bass Drive
 
@@ -75,7 +75,7 @@ Eloy Casagrande is one of Groove Metal / Thrash Metal's most influential drummer
 - Drill the feel changes between half-time and double-time sections
 - Play along with both the original and the playthrough to compare feel and execution
 
-**Core Techniques:** [Double Bass](https://metalforge.io/technique/double-bass), [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
+**Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Teaching Points
 

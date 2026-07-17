@@ -52,7 +52,11 @@ function gearRecBullets(recs) {
 function buildMarkdown(t) {
   const slug = t.slug;
   const title = t.title;
-  const techniqueUrl = `${BASE}/technique/${slug}`;
+  // Issue #4771: was '/technique/<slug>' (singular) — no live route uses that
+  // shape (see App.js isTechniqueDetailPage / api/meta/[...path].js, both
+  // fixed to plural). AI crawlers following this "canonical page" link got a
+  // dead/unhydrated URL.
+  const techniqueUrl = `${BASE}/techniques/${slug}`;
   const drummersUrl = `${BASE}/technique/${slug}/drummers`;
   const licksUrl = `${BASE}/licks`;
   const techniquesUrl = `${BASE}/techniques`;

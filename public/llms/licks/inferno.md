@@ -29,7 +29,7 @@ Inferno is one of Black / Death Metal's most influential drummers, best known fo
 - Practice double bass runs with a click before adding blast strokes above
 - Record yourself to check that snare accents are landing on the correct beats
 
-**Core Techniques:** [Blast Beat](https://metalforge.io/technique/blast-beat), [Double Bass](https://metalforge.io/technique/double-bass), [Blackened Death Metal](https://metalforge.io/technique/blackened-death-metal)
+**Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Double Bass](https://metalforge.io/techniques/double-bass), [Blackened Death Metal](https://metalforge.io/techniques/blackened-death-metal)
 
 ## Blow Your Trumpets Gabriel — Dynamic Blast Architecture
 
@@ -52,7 +52,7 @@ Inferno is one of Black / Death Metal's most influential drummers, best known fo
 - Focus on the transition from the slow section into the blast; that moment is the emotional centre
 - Record at a slower tempo and listen back to check that the dynamic contrast is audible
 
-**Core Techniques:** [Blast Beat](https://metalforge.io/technique/blast-beat), [Dynamic Contrast](https://metalforge.io/technique/dynamic-contrast), [Atmospheric Drumming](https://metalforge.io/technique/atmospheric-drumming)
+**Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Dynamic Contrast](https://metalforge.io/techniques/dynamic-contrast), [Atmospheric Drumming](https://metalforge.io/techniques/atmospheric-drumming)
 
 ## The Satanist — Compositional Double Bass & Blast
 
@@ -75,7 +75,7 @@ The title track of Behemoth's most celebrated album The Satanist (2014) is a sev
 - Build the full-speed blast sections separately before connecting them to the slower passages
 - Listen for how the drum part changes as the song moves through its sections
 
-**Core Techniques:** [Double Bass](https://metalforge.io/technique/double-bass), [Blast Beat](https://metalforge.io/technique/blast-beat), [Compositional Drumming](https://metalforge.io/technique/compositional-drumming)
+**Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Blast Beat](https://metalforge.io/techniques/blast-beat), [Compositional Drumming](https://metalforge.io/techniques/compositional-drumming)
 
 ## Evangelion Blast Beat Sequence — Ov Fire and the Void
 
@@ -98,7 +98,7 @@ Behemoth's Evangelion (2009) arrived as the follow-up to the already monumental 
 - Drill the blast-to-groove transitions until each one snaps into place without hesitation
 - Listen at half-speed to hear the subtle dynamic variations Inferno uses between sequences
 
-**Core Techniques:** [Blast Beat](https://metalforge.io/technique/blast-beat), [Double Bass](https://metalforge.io/technique/double-bass), [Dynamic Contrast](https://metalforge.io/technique/dynamic-contrast)
+**Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Double Bass](https://metalforge.io/techniques/double-bass), [Dynamic Contrast](https://metalforge.io/techniques/dynamic-contrast)
 
 ## The Satanist Groove-Blast Hybrid — Ora Pro Nobis Lucifer
 
@@ -121,7 +121,7 @@ Behemoth's Evangelion (2009) arrived as the follow-up to the already monumental 
 - Practise just the four bars surrounding each transition until it is seamless
 - Listen for how the hi-hat serves the groove riff and try to replicate that relationship
 
-**Core Techniques:** [Blast Beat](https://metalforge.io/technique/blast-beat), [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Dynamic Contrast](https://metalforge.io/technique/dynamic-contrast)
+**Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Dynamic Contrast](https://metalforge.io/techniques/dynamic-contrast)
 
 ## Demigod Double-Kick Pattern — Sculpting the Throne ov Seth
 
@@ -144,7 +144,7 @@ Demigod (2004) is the album on which Behemoth completed their transformation fro
 - Drill the transition between gallop and blast-section kick patterns in isolation
 - Use a recording app to check that every double-bass stroke is audible and equally timed
 
-**Core Techniques:** [Double Bass](https://metalforge.io/technique/double-bass), [Blast Beat](https://metalforge.io/technique/blast-beat), [Foot Independence](https://metalforge.io/technique/foot-independence)
+**Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Blast Beat](https://metalforge.io/techniques/blast-beat), [Foot Independence](https://metalforge.io/techniques/foot-independence)
 
 ## Teaching Points
 

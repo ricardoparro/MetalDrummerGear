@@ -29,7 +29,7 @@ Mikkey Dee is one of Heavy Metal / Speed Metal's most influential drummers, best
 - Stay relaxed so the high tempo stays sustainable
 - Play fills as controlled bursts that drive the song
 
-**Core Techniques:** [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Double Bass](https://metalforge.io/technique/double-bass), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
+**Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Overkill Double-Bass Freight Train
 
@@ -52,7 +52,7 @@ Mikkey Dee is one of Heavy Metal / Speed Metal's most influential drummers, best
 - Practise the false-ending hits so they land tight
 - Keep the backbeat huge over the rumbling feet
 
-**Core Techniques:** [Double Bass](https://metalforge.io/technique/double-bass), [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
+**Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Killed by Death Groove & Stamina
 
@@ -75,7 +75,7 @@ Mikkey Dee is one of Heavy Metal / Speed Metal's most influential drummers, best
 - Place fills where the song lifts, not everywhere
 - Build stamina to hold the driving groove for the whole song
 
-**Core Techniques:** [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Fill Techniques](https://metalforge.io/technique/fill-techniques), [Double Bass](https://metalforge.io/technique/double-bass)
+**Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Double Bass](https://metalforge.io/techniques/double-bass)
 
 ## Bastards Motorik Drive
 
@@ -98,7 +98,7 @@ Bastards (1993) was Mikkey Dee's first full studio album with Motörhead, record
 - Stay relaxed in the grip; tension at speed kills the locomotive feel
 - Listen to Bastards closely and copy the weight and attitude of each stroke
 
-**Core Techniques:** [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Double Bass](https://metalforge.io/technique/double-bass)
+**Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass)
 
 ## Bomber Triplet Gallop
 
@@ -121,7 +121,7 @@ Bastards (1993) was Mikkey Dee's first full studio album with Motörhead, record
 - Apply the Motörhead intensity only once the subdivisions are completely natural
 - Listen to live recordings of Dee playing Bomber to absorb the weight and feel
 
-**Core Techniques:** [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
+**Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Overkill 8th-Note Double Bass
 
@@ -144,7 +144,7 @@ The Overkill double-bass pattern is one of the most influential drum parts in he
 - Listen critically for the weaker foot and work to match it to the stronger
 - Build 5 BPM at a time — only advance when the current tempo holds for a full minute
 
-**Core Techniques:** [Double Bass](https://metalforge.io/technique/double-bass), [Groove Drumming](https://metalforge.io/technique/groove-drumming)
+**Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## Teaching Points
 

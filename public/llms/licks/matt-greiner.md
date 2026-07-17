@@ -29,7 +29,7 @@ Matt Greiner is one of Metalcore's most influential drummers, best known for the
 - Loop one section with a metronome before stringing the parts together
 - Record yourself and check that the kick lines up exactly with the riff
 
-**Core Techniques:** [Odd Time Signatures](https://metalforge.io/technique/odd-time-signatures), [Double Bass](https://metalforge.io/technique/double-bass), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
+**Core Techniques:** [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures), [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Meridian Double-Bass Groove
 
@@ -52,7 +52,7 @@ Matt Greiner is one of Metalcore's most influential drummers, best known for the
 - Use cymbal changes deliberately to mark the sections as Greiner does
 - Practise the fills separately, then place them back into the groove
 
-**Core Techniques:** [Double Bass](https://metalforge.io/technique/double-bass), [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Blast Beat](https://metalforge.io/technique/blast-beat)
+**Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Blast Beat](https://metalforge.io/techniques/blast-beat)
 
 ## Sonic Salvation Metalcore Groove
 
@@ -75,7 +75,7 @@ Matt Greiner is one of Metalcore's most influential drummers, best known for the
 - Build double-bass endurance so the part holds up across the full song
 - Follow the official playthrough to learn the orchestration and sticking
 
-**Core Techniques:** [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Double Bass](https://metalforge.io/technique/double-bass), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
+**Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Messengers Blast-to-Groove Transition
 
@@ -98,7 +98,7 @@ The Messengers (2007) was August Burns Red's breakthrough second album, and the 
 - Record the riff on a loop and practise transitioning on every repeat to build pattern recognition
 - Focus the transition on the feet first — the hands follow once the kick pattern change is automatic
 
-**Core Techniques:** [Blast Beat](https://metalforge.io/technique/blast-beat), [Double Bass](https://metalforge.io/technique/double-bass), [Groove Drumming](https://metalforge.io/technique/groove-drumming)
+**Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## Constellations Polyrhythmic Pattern
 
@@ -121,7 +121,7 @@ By 2009's Constellations, Matt Greiner had developed a remarkable facility for p
 - Build up from one bar of the polyrhythm at a time until the full passage is secure
 - Practise the return to the main pulse at the end of each polyrhythmic phrase
 
-**Core Techniques:** [Odd Time Signatures](https://metalforge.io/technique/odd-time-signatures), [Double Bass](https://metalforge.io/technique/double-bass), [Groove Drumming](https://metalforge.io/technique/groove-drumming)
+**Core Techniques:** [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures), [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## Leveler Double-Bass Run
 
@@ -144,7 +144,7 @@ Released in 2011, August Burns Red's Leveler is widely regarded as the band's cr
 - Use a click track and record your playing — the waveform reveals unevenness between feet
 - Build endurance in 30-second blocks, then 60-second blocks, working toward the full song duration
 
-**Core Techniques:** [Double Bass](https://metalforge.io/technique/double-bass), [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
+**Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Constellations Blast Groove
 
@@ -167,7 +167,7 @@ While "Composure" and "Meridian" attract the most attention on Constellations, t
 - Use a loop of the guitar riff as your click so the blast stays locked to the band
 - Focus on consistency of each stroke rather than raw speed — evenness at 90% tempo beats ragged playing at full speed
 
-**Core Techniques:** [Blast Beat](https://metalforge.io/technique/blast-beat), [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Double Bass](https://metalforge.io/technique/double-bass)
+**Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass)
 
 ## Leveler 5-Over-4 Polyrhythm
 
@@ -190,7 +190,7 @@ Leveler (2011) pushed Greiner's rhythmic vocabulary into new territory, incorpor
 - Build from one bar of the polyrhythm at a time — two bars, then four — before attempting the full passage
 - Practise returning to the main pulse at the end of each cycle until re-entry feels completely automatic
 
-**Core Techniques:** [Odd Time Signatures](https://metalforge.io/technique/odd-time-signatures), [Double Bass](https://metalforge.io/technique/double-bass), [Groove Drumming](https://metalforge.io/technique/groove-drumming)
+**Core Techniques:** [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures), [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## Messengers Debut Intro Groove
 
@@ -213,7 +213,7 @@ Leveler (2011) pushed Greiner's rhythmic vocabulary into new territory, incorpor
 - Practise the fills in isolation, then place them back into the groove at tempo
 - Record yourself and check that the kick consistently lines up with the guitar riff throughout
 
-**Core Techniques:** [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Double Bass](https://metalforge.io/technique/double-bass), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
+**Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Teaching Points
 

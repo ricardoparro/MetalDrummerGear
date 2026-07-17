@@ -124,7 +124,7 @@
       ]
     },
     {
-      "source": "/technique/:slug",
+      "source": "/techniques/:slug",
       "headers": [
         {
           "key": "Vary",
@@ -541,7 +541,7 @@
     { "source": "/bands/:slug", "has": [{ "type": "header", "key": "user-agent", "value": ".*(Googlebot|Bingbot|GPTBot|ChatGPT-User|ClaudeBot|Claude-Web|anthropic-ai|PerplexityBot|Applebot-Extended|cohere-ai|Google-Extended).*" }], "destination": "/api/meta/[...path]?path=bands/:slug" },
     { "source": "/vs/:pair", "has": [{ "type": "header", "key": "user-agent", "value": ".*(Googlebot|Bingbot|GPTBot|ChatGPT-User|ClaudeBot|Claude-Web|anthropic-ai|PerplexityBot|Applebot-Extended|cohere-ai|Google-Extended).*" }], "destination": "/api/meta/[...path]?path=vs/:pair" },
     { "source": "/technique/:slug/drummers", "has": [{ "type": "header", "key": "user-agent", "value": ".*(Googlebot|Bingbot|GPTBot|ChatGPT-User|ClaudeBot|Claude-Web|anthropic-ai|PerplexityBot|Applebot-Extended|cohere-ai|Google-Extended).*" }], "destination": "/api/meta/[...path]?path=technique/:slug/drummers" },
-    { "source": "/technique/:slug", "has": [{ "type": "header", "key": "user-agent", "value": ".*(Googlebot|Bingbot|GPTBot|ChatGPT-User|ClaudeBot|Claude-Web|anthropic-ai|PerplexityBot|Applebot-Extended|cohere-ai|Google-Extended).*" }], "destination": "/api/meta/[...path]?path=technique/:slug" },
+    { "source": "/techniques/:slug", "has": [{ "type": "header", "key": "user-agent", "value": ".*(Googlebot|Bingbot|GPTBot|ChatGPT-User|ClaudeBot|Claude-Web|anthropic-ai|PerplexityBot|Applebot-Extended|cohere-ai|Google-Extended).*" }], "destination": "/api/meta/[...path]?path=techniques/:slug" },
     { "source": "/licks", "has": [{ "type": "header", "key": "user-agent", "value": ".*(Googlebot|Bingbot|GPTBot|ChatGPT-User|ClaudeBot|Claude-Web|anthropic-ai|PerplexityBot|Applebot-Extended|cohere-ai|Google-Extended).*" }], "destination": "/api/meta/[...path]?path=licks" },
     { "source": "/drummers/:slug/licks/:lickSlug", "has": [{ "type": "header", "key": "user-agent", "value": ".*(Googlebot|Bingbot|GPTBot|ChatGPT-User|ClaudeBot|Claude-Web|anthropic-ai|PerplexityBot|Applebot-Extended|cohere-ai|Google-Extended).*" }], "destination": "/api/meta/[...path]?path=drummers/:slug/licks/:lickSlug" },
     { "source": "/drummers/:slug/licks", "has": [{ "type": "header", "key": "user-agent", "value": ".*(Googlebot|Bingbot|GPTBot|ChatGPT-User|ClaudeBot|Claude-Web|anthropic-ai|PerplexityBot|Applebot-Extended|cohere-ai|Google-Extended).*" }], "destination": "/api/meta/[...path]?path=drummers/:slug/licks" },

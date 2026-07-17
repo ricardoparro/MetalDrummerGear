@@ -29,7 +29,7 @@ Travis Orbin is one of Progressive Metal / Djent's most influential drummers, be
 - Use a metronome locked to the underlying pulse and treat the polymetric accents as ornaments rather than the primary beat
 - Record yourself and compare with the playthrough video — misplaced accents are immediately audible in playback
 
-**Core Techniques:** [Polyrhythm](https://metalforge.io/technique/polyrhythm), [Double Bass](https://metalforge.io/technique/double-bass), [Groove Drumming](https://metalforge.io/technique/groove-drumming)
+**Core Techniques:** [Polyrhythm](https://metalforge.io/techniques/polyrhythm), [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## Insomnia Odd-Time Djent Groove
 
@@ -52,7 +52,7 @@ Travis Orbin is one of Progressive Metal / Djent's most influential drummers, be
 - Count aloud through the metric shifts during slow practice to build an automatic sense of the phrase shapes
 - Once patterns feel natural at slow tempo, build speed gradually — rushing the internalisation phase produces imprecise playing at full speed
 
-**Core Techniques:** [Odd Time](https://metalforge.io/technique/odd-time), [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Double Bass](https://metalforge.io/technique/double-bass)
+**Core Techniques:** [Odd Time](https://metalforge.io/techniques/odd-time), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass)
 
 ## The Walk Fill Cascade
 
@@ -75,7 +75,7 @@ Travis Orbin is one of Progressive Metal / Djent's most influential drummers, be
 - Practise the groove sections with a metronome and focus on ghost-note consistency before introducing fill passages
 - Record the full track and listen for where fills feel premature or hesitant — those are the transition points that need more slow-tempo drilling
 
-**Core Techniques:** [Fills](https://metalforge.io/technique/fills), [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Double Bass](https://metalforge.io/technique/double-bass)
+**Core Techniques:** [Fills](https://metalforge.io/techniques/fills), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass)
 
 ## Racecar Metric Modulation Engine
 
@@ -98,7 +98,7 @@ Travis Orbin is one of Progressive Metal / Djent's most influential drummers, be
 - Record the metric shift and listen back for whether the groove carries across or resets
 - Approach the full song in sections rather than a single thirteen-minute run until each section is independently solid
 
-**Core Techniques:** [Polyrhythm](https://metalforge.io/technique/polyrhythm), [Odd Time Signatures](https://metalforge.io/technique/odd-time-signatures), [Groove Drumming](https://metalforge.io/technique/groove-drumming)
+**Core Techniques:** [Polyrhythm](https://metalforge.io/techniques/polyrhythm), [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## Follow the Signs Controlled Blast Beat
 
@@ -121,7 +121,7 @@ The controlled blast beat is one of the most technically demanding techniques in
 - Record the blast and listen for flam-like inconsistencies — any timing drift is immediately audible in playback
 - Build wrist stamina with five-minute single-stroke roll sessions at moderate tempo before attempting extended blast passages
 
-**Core Techniques:** [Blast Beat](https://metalforge.io/technique/blast-beat), [Double Bass](https://metalforge.io/technique/double-bass), [Dynamic Control](https://metalforge.io/technique/dynamic-control)
+**Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Double Bass](https://metalforge.io/techniques/double-bass), [Dynamic Control](https://metalforge.io/techniques/dynamic-control)
 
 ## Singles and Doubles Hybrid Rudiment
 
@@ -144,7 +144,7 @@ Travis Orbin's YouTube channel is one of the most pedagogically valuable resourc
 - Once clean at slow tempo, increase by 5 BPM increments and repeat the recording check at each level
 - Apply the pattern inside a groove before using it as a fill — the musical context reveals timing issues isolated practice misses
 
-**Core Techniques:** [Rudiments](https://metalforge.io/technique/rudiments), [Fill Techniques](https://metalforge.io/technique/fill-techniques), [Groove Drumming](https://metalforge.io/technique/groove-drumming)
+**Core Techniques:** [Rudiments](https://metalforge.io/techniques/rudiments), [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## Teaching Points
 

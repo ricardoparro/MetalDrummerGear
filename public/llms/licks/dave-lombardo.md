@@ -29,7 +29,7 @@ Postmortem from Slayer's 1986 landmark Reign in Blood is the great underacknowle
 - Use the riff recording to develop lock — your kick should amplify the guitar's accent structure
 - Build stamina with short focused sets rather than long exhausted sessions
 
-**Core Techniques:** [Double Bass](https://metalforge.io/technique/double-bass), [Riff Lock](https://metalforge.io/technique/riff-lock), [Groove Drumming](https://metalforge.io/technique/groove-drumming)
+**Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Riff Lock](https://metalforge.io/techniques/riff-lock), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## Show No Mercy Speed Tom Cascade
 
@@ -52,7 +52,7 @@ Slayer's debut album Show No Mercy, released in 1983, caught Dave Lombardo at hi
 - Focus on the crash landing — the fill has no value if it misses the structural downbeat
 - Listen to Show No Mercy and Reign in Blood back to back to hear the evolution in control
 
-**Core Techniques:** [Fill Techniques](https://metalforge.io/technique/fill-techniques), [Tom Work](https://metalforge.io/technique/tom-work), [Groove Drumming](https://metalforge.io/technique/groove-drumming)
+**Core Techniques:** [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Tom Work](https://metalforge.io/techniques/tom-work), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## Angel of Death Opening
 
@@ -74,7 +74,7 @@ The opening that changed thrash metal forever. Dave's explosive entrance after T
 - Focus on the transition from opening into groove
 - Watch Dave's live performances for technique insights
 
-**Core Techniques:** [Blast Beat](https://metalforge.io/technique/blast-beat), [Double Bass](https://metalforge.io/technique/double-bass), [Fills](https://metalforge.io/technique/fills)
+**Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Double Bass](https://metalforge.io/techniques/double-bass), [Fills](https://metalforge.io/techniques/fills)
 
 ## Raining Blood Double Bass
 
@@ -96,7 +96,7 @@ After the thunderstorm intro comes one of metal's most recognizable double bass 
 - Work on stamina - this pattern is relentless
 - Use a practice pad for bass drum technique
 
-**Core Techniques:** [Double Bass](https://metalforge.io/technique/double-bass), [Groove](https://metalforge.io/technique/groove), [Dynamics](https://metalforge.io/technique/dynamics)
+**Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Groove](https://metalforge.io/techniques/groove), [Dynamics](https://metalforge.io/techniques/dynamics)
 
 ## Seasons in the Abyss Groove
 
@@ -118,7 +118,7 @@ A more groove-oriented approach from Dave, showing his versatility beyond pure s
 - Use dynamics to build tension
 - Great song for developing pocket and feel
 
-**Core Techniques:** [Groove](https://metalforge.io/technique/groove), [Dynamics](https://metalforge.io/technique/dynamics), [Hi Hat Control](https://metalforge.io/technique/hi-hat-control)
+**Core Techniques:** [Groove](https://metalforge.io/techniques/groove), [Dynamics](https://metalforge.io/techniques/dynamics), [Hi Hat Control](https://metalforge.io/techniques/hi-hat-control)
 
 ## Teaching Points
 

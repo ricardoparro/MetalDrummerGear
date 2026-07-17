@@ -80,7 +80,7 @@ A: Closely related techniques include Double Stroke Roll, Seven Stroke Roll, Rud
 - [Five Stroke Roll Drummers on MetalForge](https://metalforge.io/technique/five-stroke-roll/drummers)
 - [All Metal Drumming Techniques](https://metalforge.io/techniques)
 - [Signature Licks featuring Five Stroke Roll](https://metalforge.io/licks)
-- [Five Stroke Roll Technique Page](https://metalforge.io/technique/five-stroke-roll)
+- [Five Stroke Roll Technique Page](https://metalforge.io/techniques/five-stroke-roll)
 
 ### Related Techniques
 - [Double Stroke Roll](https://metalforge.io/techniques/double-stroke-roll) — [Deep Dive](https://metalforge.io/llms/technique/double-stroke-roll.md)
@@ -89,4 +89,4 @@ A: Closely related techniques include Double Stroke Roll, Seven Stroke Roll, Rud
 
 ---
 
-*Last updated: 2026-07-16 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-17 · Source: [MetalForge.io](https://metalforge.io)*

@@ -28,7 +28,7 @@ The haunting, militaristic snare pattern that opens Metallica's anti-war masterp
 - Work on smooth transitions between dynamic levels
 - Listen closely to how Lars builds tension
 
-**Core Techniques:** [Dynamics](https://metalforge.io/technique/dynamics), [Ghost Notes](https://metalforge.io/technique/ghost-notes), [Military Snare](https://metalforge.io/technique/military-snare)
+**Core Techniques:** [Dynamics](https://metalforge.io/techniques/dynamics), [Ghost Notes](https://metalforge.io/techniques/ghost-notes), [Military Snare](https://metalforge.io/techniques/military-snare)
 
 ## Enter Sandman Main Groove
 
@@ -50,7 +50,7 @@ The groove that launched a billion drummers. This straightforward but powerful p
 - Pay attention to the open hi-hat accents
 - Play along with the record to lock in with James's riff
 
-**Core Techniques:** [Groove](https://metalforge.io/technique/groove), [Hi Hat Control](https://metalforge.io/technique/hi-hat-control), [Dynamics](https://metalforge.io/technique/dynamics)
+**Core Techniques:** [Groove](https://metalforge.io/techniques/groove), [Hi Hat Control](https://metalforge.io/techniques/hi-hat-control), [Dynamics](https://metalforge.io/techniques/dynamics)
 
 ## Master of Puppets Gallop
 
@@ -72,7 +72,7 @@ The relentless thrash gallop that drives metal's greatest song. Lars's double ba
 - Build stamina gradually - this song is a workout
 - Focus on keeping the ride cymbal consistent
 
-**Core Techniques:** [Double Bass](https://metalforge.io/technique/double-bass), [Gallop](https://metalforge.io/technique/gallop), [Stamina](https://metalforge.io/technique/stamina)
+**Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Gallop](https://metalforge.io/techniques/gallop), [Stamina](https://metalforge.io/techniques/stamina)
 
 ## One Building Thrash Section
 
@@ -95,7 +95,7 @@ The mid-to-late section of Metallica's "One" represents one of the most dramatic
 - Work on double bass stamina separately before adding it to the full song context
 - Study how Lars uses cymbal choice (closed hi-hat vs open crash) to signal intensity changes
 
-**Core Techniques:** [Double Bass](https://metalforge.io/technique/double-bass), [Dynamics](https://metalforge.io/technique/dynamics), [Stamina](https://metalforge.io/technique/stamina)
+**Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Dynamics](https://metalforge.io/techniques/dynamics), [Stamina](https://metalforge.io/techniques/stamina)
 
 ## Blackened Open Hi-Hat Groove
 
@@ -118,7 +118,7 @@ The mid-to-late section of Metallica's "One" represents one of the most dramatic
 - Focus on the sizzling open hi-hat tone rather than tight, closed articulation
 - Listen to the record closely to internalise how the open hi-hat creates tension under the riff
 
-**Core Techniques:** [Hi Hat Control](https://metalforge.io/technique/hi-hat-control), [Groove](https://metalforge.io/technique/groove), [Stamina](https://metalforge.io/technique/stamina)
+**Core Techniques:** [Hi Hat Control](https://metalforge.io/techniques/hi-hat-control), [Groove](https://metalforge.io/techniques/groove), [Stamina](https://metalforge.io/techniques/stamina)
 
 ## Teaching Points
 

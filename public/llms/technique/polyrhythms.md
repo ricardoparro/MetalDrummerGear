@@ -84,7 +84,7 @@ A: Closely related techniques include Odd Time Signatures, Double Bass. Masterin
 - [Polyrhythms Drummers on MetalForge](https://metalforge.io/technique/polyrhythms/drummers)
 - [All Metal Drumming Techniques](https://metalforge.io/techniques)
 - [Signature Licks featuring Polyrhythms](https://metalforge.io/licks)
-- [Polyrhythms Technique Page](https://metalforge.io/technique/polyrhythms)
+- [Polyrhythms Technique Page](https://metalforge.io/techniques/polyrhythms)
 
 ### Related Techniques
 - [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures) — [Deep Dive](https://metalforge.io/llms/technique/odd-time-signatures.md)
@@ -92,4 +92,4 @@ A: Closely related techniques include Odd Time Signatures, Double Bass. Masterin
 
 ---
 
-*Last updated: 2026-07-16 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-17 · Source: [MetalForge.io](https://metalforge.io)*

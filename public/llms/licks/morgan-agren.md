@@ -26,7 +26,7 @@ Morgan Ågren's metric modulation work — demonstrated here through his contrib
 - Practise with a click set to the common subdivision, not the beat, so the click persists across time-signature changes
 - Tap the melodic line while practising the drum part to understand where the modulation points align with harmonic changes
 
-**Core Techniques:** [Metric Modulation](https://metalforge.io/technique/metric-modulation), [Odd Time](https://metalforge.io/technique/odd-time), [Hi-Hat Control](https://metalforge.io/technique/hi-hat-control)
+**Core Techniques:** [Metric Modulation](https://metalforge.io/techniques/metric-modulation), [Odd Time](https://metalforge.io/techniques/odd-time), [Hi-Hat Control](https://metalforge.io/techniques/hi-hat-control)
 
 ## Odd-Meter Improvisation Study
 
@@ -46,7 +46,7 @@ Morgan Ågren's metric modulation work — demonstrated here through his contrib
 - Set a metronome to the eighth-note subdivision and practise switching meters over it so the pulse never resets
 - Compose short one- or two-bar odd-meter ostinatos and improvise fills over them to build vocabulary before attempting free improvisation
 
-**Core Techniques:** [Odd Time](https://metalforge.io/technique/odd-time), [Metric Modulation](https://metalforge.io/technique/metric-modulation), [Improvisation](https://metalforge.io/technique/improvisation)
+**Core Techniques:** [Odd Time](https://metalforge.io/techniques/odd-time), [Metric Modulation](https://metalforge.io/techniques/metric-modulation), [Improvisation](https://metalforge.io/techniques/improvisation)
 
 ## Neyveli Prog Groove Performance
 
@@ -66,7 +66,7 @@ This ArtOfDrumming feature performance showcases Ågren's metric displacement ap
 - Start displacement exercises by moving snare hits one eighth-note late or early before attempting dotted-quarter displacements
 - Record and listen critically: if the pulse feels unstable when phrases displace, strengthen the pulse layer before increasing displacement complexity
 
-**Core Techniques:** [Metric Modulation](https://metalforge.io/technique/metric-modulation), [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Independence](https://metalforge.io/technique/independence)
+**Core Techniques:** [Metric Modulation](https://metalforge.io/techniques/metric-modulation), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Independence](https://metalforge.io/techniques/independence)
 
 
 ## Teaching Points

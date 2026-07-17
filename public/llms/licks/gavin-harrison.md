@@ -29,7 +29,7 @@ Gavin Harrison is one of the most revered progressive drummers alive, celebrated
 - Practise ghost-note dynamics to get the conversational feel
 - Treat fills as compositions — learn them note-for-note first
 
-**Core Techniques:** [Odd Time Signatures](https://metalforge.io/technique/odd-time-signatures), [Polyrhythms](https://metalforge.io/technique/polyrhythms), [Groove Drumming](https://metalforge.io/technique/groove-drumming)
+**Core Techniques:** [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures), [Polyrhythms](https://metalforge.io/techniques/polyrhythms), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## The Sound of Muzak 7/8 Groove
 
@@ -52,7 +52,7 @@ Gavin Harrison is one of the most revered progressive drummers alive, celebrated
 - Once it's solid, stop counting and let the groove flow
 - Keep the hi-hat relaxed so the odd meter feels natural
 
-**Core Techniques:** [Odd Time Signatures](https://metalforge.io/technique/odd-time-signatures), [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Polyrhythms](https://metalforge.io/technique/polyrhythms)
+**Core Techniques:** [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Polyrhythms](https://metalforge.io/techniques/polyrhythms)
 
 ## Harridan Displaced-Fill Study
 
@@ -75,7 +75,7 @@ Gavin Harrison is one of the most revered progressive drummers alive, celebrated
 - Practise resolving the phrase back onto the beat cleanly
 - Keep the verse groove steady so the displacement stands out
 
-**Core Techniques:** [Odd Time Signatures](https://metalforge.io/technique/odd-time-signatures), [Polyrhythms](https://metalforge.io/technique/polyrhythms), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
+**Core Techniques:** [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures), [Polyrhythms](https://metalforge.io/techniques/polyrhythms), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Teaching Points
 

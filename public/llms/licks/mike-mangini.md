@@ -29,7 +29,7 @@ When Mike Mangini joined Dream Theater for 2011's A Dramatic Turn of Events, he 
 - Use a metronome and build double bass evenly, not just quickly
 - Count the odd-time sections out loud until the pulse feels natural
 
-**Core Techniques:** [Double Bass](https://metalforge.io/technique/double-bass), [Odd Time Signatures](https://metalforge.io/technique/odd-time-signatures), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
+**Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## The Looking Glass Linear Fills & Coordination
 
@@ -52,7 +52,7 @@ When Mike Mangini joined Dream Theater for 2011's A Dramatic Turn of Events, he 
 - Practise dropping fills into a simple groove to keep them musical
 - Prioritise taste — let the song decide where the fills go
 
-**Core Techniques:** [Double Bass](https://metalforge.io/technique/double-bass), [Polyrhythms](https://metalforge.io/technique/polyrhythms), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
+**Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Polyrhythms](https://metalforge.io/techniques/polyrhythms), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Breaking All Illusions Odd-Time Mastery
 
@@ -75,7 +75,7 @@ The twelve-minute epic "Breaking All Illusions" is the most ambitious track on A
 - Practise each odd-time passage slowly until it's internalised
 - Build stamina with longer reps before chasing the full arrangement
 
-**Core Techniques:** [Odd Time Signatures](https://metalforge.io/technique/odd-time-signatures), [Double Bass](https://metalforge.io/technique/double-bass), [Polyrhythms](https://metalforge.io/technique/polyrhythms)
+**Core Techniques:** [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures), [Double Bass](https://metalforge.io/techniques/double-bass), [Polyrhythms](https://metalforge.io/techniques/polyrhythms)
 
 ## Constant Motion 7/8 Paradiddle Engine
 
@@ -98,7 +98,7 @@ The twelve-minute epic "Breaking All Illusions" is the most ambitious track on A
 - Use a mirror to watch both wrists — any asymmetry at slow tempo amplifies at speed
 - Increase tempo in 5 BPM increments and return to the previous level if evenness breaks down
 
-**Core Techniques:** [Paradiddles](https://metalforge.io/technique/paradiddles), [Odd Time Signatures](https://metalforge.io/technique/odd-time-signatures), [Double Bass](https://metalforge.io/technique/double-bass)
+**Core Techniques:** [Paradiddles](https://metalforge.io/techniques/paradiddles), [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures), [Double Bass](https://metalforge.io/techniques/double-bass)
 
 ## Bridges in the Sky 5-over-4 Polyrhythm
 
@@ -121,7 +121,7 @@ The twelve-minute epic "Breaking All Illusions" is the most ambitious track on A
 - Record yourself and listen for whether the accent on beat one of each five-note group is consistently audible
 - Practise the pattern in a musical context at half tempo before approaching the song's BPM
 
-**Core Techniques:** [Polyrhythms](https://metalforge.io/technique/polyrhythms), [Odd Time Signatures](https://metalforge.io/technique/odd-time-signatures), [Double Bass](https://metalforge.io/technique/double-bass)
+**Core Techniques:** [Polyrhythms](https://metalforge.io/techniques/polyrhythms), [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures), [Double Bass](https://metalforge.io/techniques/double-bass)
 
 ## Paralyzed 32nd-Note Fill Cascade
 
@@ -144,7 +144,7 @@ The twelve-minute epic "Breaking All Illusions" is the most ambitious track on A
 - Practise single-stroke rolls daily at various tempos to build the wrist endurance this fill demands
 - Learn the fill as a musical phrase — feel where it comes from and where it resolves
 
-**Core Techniques:** [Fill Techniques](https://metalforge.io/technique/fill-techniques), [Double Bass](https://metalforge.io/technique/double-bass), [Speed Technique](https://metalforge.io/technique/speed-technique)
+**Core Techniques:** [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Double Bass](https://metalforge.io/techniques/double-bass), [Speed Technique](https://metalforge.io/techniques/speed-technique)
 
 ## Teaching Points
 

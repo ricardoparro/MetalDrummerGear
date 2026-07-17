@@ -81,7 +81,7 @@ A: Closely related techniques include Single Stroke Roll, Double Stroke Roll, Pa
 - [Rudiments & Stick Control Drummers on MetalForge](https://metalforge.io/technique/rudiments/drummers)
 - [All Metal Drumming Techniques](https://metalforge.io/techniques)
 - [Signature Licks featuring Rudiments & Stick Control](https://metalforge.io/licks)
-- [Rudiments & Stick Control Technique Page](https://metalforge.io/technique/rudiments)
+- [Rudiments & Stick Control Technique Page](https://metalforge.io/techniques/rudiments)
 
 ### Related Techniques
 - [Single Stroke Roll](https://metalforge.io/techniques/single-stroke-roll) — [Deep Dive](https://metalforge.io/llms/technique/single-stroke-roll.md)
@@ -96,4 +96,4 @@ A: Closely related techniques include Single Stroke Roll, Double Stroke Roll, Pa
 
 ---
 
-*Last updated: 2026-07-16 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-17 · Source: [MetalForge.io](https://metalforge.io)*

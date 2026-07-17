@@ -80,7 +80,7 @@ A: Closely related techniques include Flams, Paradiddle, Rudiments. Mastering th
 - [Flam Tap Drummers on MetalForge](https://metalforge.io/technique/flam-tap/drummers)
 - [All Metal Drumming Techniques](https://metalforge.io/techniques)
 - [Signature Licks featuring Flam Tap](https://metalforge.io/licks)
-- [Flam Tap Technique Page](https://metalforge.io/technique/flam-tap)
+- [Flam Tap Technique Page](https://metalforge.io/techniques/flam-tap)
 
 ### Related Techniques
 - [Flams](https://metalforge.io/techniques/flams) — [Deep Dive](https://metalforge.io/llms/technique/flams.md)
@@ -89,4 +89,4 @@ A: Closely related techniques include Flams, Paradiddle, Rudiments. Mastering th
 
 ---
 
-*Last updated: 2026-07-16 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-17 · Source: [MetalForge.io](https://metalforge.io)*

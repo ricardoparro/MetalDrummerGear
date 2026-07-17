@@ -29,7 +29,7 @@ Matt Halpern is one of Progressive Metal / Djent's most influential drummers, be
 - Practise the polymetric sections in isolation, counting out loud
 - Keep the backbeat strong so the groove never loses its centre
 
-**Core Techniques:** [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Double Bass](https://metalforge.io/technique/double-bass), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
+**Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Marigold Melodic Groove
 
@@ -52,7 +52,7 @@ Matt Halpern is one of Progressive Metal / Djent's most influential drummers, be
 - Keep double-bass figures smooth and even rather than aggressive
 - Follow the official playthrough to copy the dynamic phrasing
 
-**Core Techniques:** [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Double Bass](https://metalforge.io/technique/double-bass), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
+**Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## The Bad Thing Double-Bass Assault
 
@@ -75,7 +75,7 @@ Matt Halpern is one of Progressive Metal / Djent's most influential drummers, be
 - Tap the riff to internalise the stop-start phrasing before playing along
 - Use the playthrough to map the foot patterns and section transitions
 
-**Core Techniques:** [Double Bass](https://metalforge.io/technique/double-bass), [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
+**Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Scarlet Syncopated Djent Groove
 
@@ -98,7 +98,7 @@ Matt Halpern is one of Progressive Metal / Djent's most influential drummers, be
 - Tap the guitar riff on your thigh while playing to internalise the riff-locking logic
 - Build the hi-hat reactive pattern in isolation before combining it with the full groove
 
-**Core Techniques:** [Ghost Notes](https://metalforge.io/technique/ghost-notes), [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Double Bass](https://metalforge.io/technique/double-bass)
+**Core Techniques:** [Ghost Notes](https://metalforge.io/techniques/ghost-notes), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass)
 
 ## Ragnarok Hybrid Blast Groove
 
@@ -121,7 +121,7 @@ Matt Halpern is one of Progressive Metal / Djent's most influential drummers, be
 - Use a drum-only track or isolation headphones to study Halpern's kick placement during the blast
 - Develop foot speed with short bursts at tempo rather than long sustained blasts to preserve technique
 
-**Core Techniques:** [Blast Beat](https://metalforge.io/technique/blast-beat), [Double Bass](https://metalforge.io/technique/double-bass), [Groove Drumming](https://metalforge.io/technique/groove-drumming)
+**Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## Masamune Ghost-Note Density Pattern
 
@@ -144,7 +144,7 @@ Matt Halpern is one of Progressive Metal / Djent's most influential drummers, be
 - Practise the ghost pattern with a metronome at 80 BPM to establish control before raising tempo
 - Separate right-hand hi-hat and left-hand ghost notes into a coordination exercise before adding kick
 
-**Core Techniques:** [Ghost Notes](https://metalforge.io/technique/ghost-notes), [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
+**Core Techniques:** [Ghost Notes](https://metalforge.io/techniques/ghost-notes), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Teaching Points
 

@@ -29,7 +29,7 @@ Scott Travis's debut with Judas Priest on 1990's Painkiller produced one of the 
 - Keep the backbeat heavy and in time under the fast feet
 - Stay relaxed — Travis's speed is built on control
 
-**Core Techniques:** [Double Bass](https://metalforge.io/technique/double-bass), [Blast Beat](https://metalforge.io/technique/blast-beat), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
+**Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Blast Beat](https://metalforge.io/techniques/blast-beat), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Breaking the Law Live Drive
 
@@ -52,7 +52,7 @@ Scott Travis's debut with Judas Priest on 1990's Painkiller produced one of the 
 - Keep fills simple and well-placed
 - Serve the song — power and feel beat flash here
 
-**Core Techniques:** [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Fill Techniques](https://metalforge.io/technique/fill-techniques), [Double Bass](https://metalforge.io/technique/double-bass)
+**Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Double Bass](https://metalforge.io/techniques/double-bass)
 
 ## Living After Midnight Backbeat Power
 
@@ -75,7 +75,7 @@ Scott Travis's debut with Judas Priest on 1990's Painkiller produced one of the 
 - Add only the fills and accents that lift the choruses
 - Leave space and let the groove breathe
 
-**Core Techniques:** [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Fill Techniques](https://metalforge.io/technique/fill-techniques), [Double Bass](https://metalforge.io/technique/double-bass)
+**Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Double Bass](https://metalforge.io/techniques/double-bass)
 
 ## Teaching Points
 

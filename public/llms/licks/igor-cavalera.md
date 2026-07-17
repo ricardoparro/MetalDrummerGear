@@ -29,7 +29,7 @@ Igor Cavalera is one of Groove Metal / Thrash Metal's most influential drummers,
 - Listen to Brazilian rhythmic music to understand the cultural inflection in the groove
 - Keep fills minimal and transitional — the groove is the statement
 
-**Core Techniques:** [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Dynamic Control](https://metalforge.io/technique/dynamic-control), [Tribal Influence](https://metalforge.io/technique/tribal-influence)
+**Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Dynamic Control](https://metalforge.io/techniques/dynamic-control), [Tribal Influence](https://metalforge.io/techniques/tribal-influence)
 
 ## Refuse/Resist Double-Bass Drive
 
@@ -52,7 +52,7 @@ Igor Cavalera is one of Groove Metal / Thrash Metal's most influential drummers,
 - Work with a bass guitarist or recording to feel the full groove impact
 - Focus on consistency across the whole song, not just isolated sections
 
-**Core Techniques:** [Double Bass](https://metalforge.io/technique/double-bass), [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Riff Lock](https://metalforge.io/technique/riff-lock)
+**Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Riff Lock](https://metalforge.io/techniques/riff-lock)
 
 ## Beneath the Remains Thrash-Blast Section
 
@@ -75,7 +75,7 @@ Igor Cavalera is one of Groove Metal / Thrash Metal's most influential drummers,
 - Work on dynamic contrast — practise going from full intensity to a controlled groove
 - Map the song's riff sections and practise fills at each transition point
 
-**Core Techniques:** [Blast Beat](https://metalforge.io/technique/blast-beat), [Double Bass](https://metalforge.io/technique/double-bass), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
+**Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Beneath the Remains Stampede Double Bass
 
@@ -98,7 +98,7 @@ Beneath the Remains (1989) contains two distinct drumming challenges: blast pass
 - Use ankle technique and pedal rebound — driving from the thigh alone causes early fatigue
 - Record 30-second bursts and check for evenness — any unevenness between feet is immediately audible
 
-**Core Techniques:** [Double Bass](https://metalforge.io/technique/double-bass), [Riff Lock](https://metalforge.io/technique/riff-lock), [Groove Drumming](https://metalforge.io/technique/groove-drumming)
+**Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Riff Lock](https://metalforge.io/techniques/riff-lock), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## Chaos A.D. Tribal Syncopated Groove
 
@@ -121,7 +121,7 @@ Beneath the Remains (1989) contains two distinct drumming challenges: blast pass
 - Isolate the kick pattern and feel how it phrases against the snare before combining the two
 - Record yourself playing along with the track and listen for any rushing in the syncopated figures
 
-**Core Techniques:** [Tribal Influence](https://metalforge.io/technique/tribal-influence), [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Dynamic Control](https://metalforge.io/technique/dynamic-control)
+**Core Techniques:** [Tribal Influence](https://metalforge.io/techniques/tribal-influence), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Dynamic Control](https://metalforge.io/techniques/dynamic-control)
 
 ## Schizophrenia Raw Blast Groove
 
@@ -144,7 +144,7 @@ Schizophrenia (1987) was Sepultura's third album and the recording where Igor Ca
 - Record yourself and check that urgency is present — a bland, measured blast misses the point
 - Study the Schizophrenia album to understand the musical context that informs how the blast serves the song
 
-**Core Techniques:** [Blast Beat](https://metalforge.io/technique/blast-beat), [Double Bass](https://metalforge.io/technique/double-bass), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
+**Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Teaching Points
 

@@ -29,7 +29,7 @@ Ben Koller is one of Metalcore / Hardcore's most influential drummers, best know
 - Tap the riff to internalise its stops and restarts before playing along
 - Focus on aggressive feel and energy, not robotic precision
 
-**Core Techniques:** [Blast Beat](https://metalforge.io/technique/blast-beat), [Fill Techniques](https://metalforge.io/technique/fill-techniques), [Double Bass](https://metalforge.io/technique/double-bass)
+**Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Double Bass](https://metalforge.io/techniques/double-bass)
 
 ## Dark Horse Driving Fills
 
@@ -52,7 +52,7 @@ Ben Koller is one of Metalcore / Hardcore's most influential drummers, best know
 - Use a metronome to land every fill precisely back on the beat
 - Focus on momentum and feel, not just executing the notes
 
-**Core Techniques:** [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Fill Techniques](https://metalforge.io/technique/fill-techniques), [Double Bass](https://metalforge.io/technique/double-bass)
+**Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Double Bass](https://metalforge.io/techniques/double-bass)
 
 ## Aimless Arrow Hardcore Drive
 
@@ -75,7 +75,7 @@ Ben Koller is one of Metalcore / Hardcore's most influential drummers, best know
 - Use dynamics deliberately — restraint makes the fast parts hit harder
 - Watch the drum-cam footage to see how much motion drives the intensity
 
-**Core Techniques:** [Blast Beat](https://metalforge.io/technique/blast-beat), [Fill Techniques](https://metalforge.io/technique/fill-techniques), [Groove Drumming](https://metalforge.io/technique/groove-drumming)
+**Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## Teaching Points
 

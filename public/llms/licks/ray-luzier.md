@@ -29,7 +29,7 @@ Ray Luzier is one of Nu Metal / Alternative Metal's most influential drummers, b
 - Practise the pre-chorus acceleration slowly, making the hi-hat subdivision tighten gradually
 - Listen for Luzier's ghost notes and left-foot hi-hat in the Vic Firth breakdown and layer them in last
 
-**Core Techniques:** [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Double Bass](https://metalforge.io/technique/double-bass), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
+**Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Got the Life Rock Groove
 
@@ -52,7 +52,7 @@ Ray Luzier is one of Nu Metal / Alternative Metal's most influential drummers, b
 - Practise the double-bass passages in isolation before dropping them into the full groove
 - Record yourself and check whether the groove leans slightly back — if it sounds rushed, slow down and feel the pocket
 
-**Core Techniques:** [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Double Bass](https://metalforge.io/technique/double-bass), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
+**Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Blind Open Hi-Hat Groove
 
@@ -75,7 +75,7 @@ Ray Luzier is one of Nu Metal / Alternative Metal's most influential drummers, b
 - Lock the kick to the guitar riff by listening for the guitar's attack, not just counting beats
 - Play the whole groove at lower volume first to find the pocket before committing to full power
 
-**Core Techniques:** [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Fill Techniques](https://metalforge.io/technique/fill-techniques), [Double Bass](https://metalforge.io/technique/double-bass)
+**Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Double Bass](https://metalforge.io/techniques/double-bass)
 
 ## Teaching Points
 

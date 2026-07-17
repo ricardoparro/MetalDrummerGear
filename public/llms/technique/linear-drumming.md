@@ -81,7 +81,7 @@ A: Closely related techniques include Polyrhythms, Groove Drumming. Mastering th
 - [Linear Drumming Drummers on MetalForge](https://metalforge.io/technique/linear-drumming/drummers)
 - [All Metal Drumming Techniques](https://metalforge.io/techniques)
 - [Signature Licks featuring Linear Drumming](https://metalforge.io/licks)
-- [Linear Drumming Technique Page](https://metalforge.io/technique/linear-drumming)
+- [Linear Drumming Technique Page](https://metalforge.io/techniques/linear-drumming)
 
 ### Related Techniques
 - [Polyrhythms](https://metalforge.io/techniques/polyrhythms) — [Deep Dive](https://metalforge.io/llms/technique/polyrhythms.md)
@@ -89,4 +89,4 @@ A: Closely related techniques include Polyrhythms, Groove Drumming. Mastering th
 
 ---
 
-*Last updated: 2026-07-16 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-17 · Source: [MetalForge.io](https://metalforge.io)*

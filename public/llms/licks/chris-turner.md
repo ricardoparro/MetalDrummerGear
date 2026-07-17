@@ -29,7 +29,7 @@ Chris Turner (born October 4, 1993, Birmingham, UK) is the founding drummer of p
 - Record yourself and listen back: the superimposed rhythm should remain audible as a distinct layer, not collapse into irregular kick noise
 - Use a metronome set to the polyrhythm's grouping note value to internalise the independent layer before combining with the hand pattern
 
-**Core Techniques:** [Polyrhythm](https://metalforge.io/technique/polyrhythm), [Double Bass](https://metalforge.io/technique/double-bass), [Blast Beat](https://metalforge.io/technique/blast-beat)
+**Core Techniques:** [Polyrhythm](https://metalforge.io/techniques/polyrhythm), [Double Bass](https://metalforge.io/techniques/double-bass), [Blast Beat](https://metalforge.io/techniques/blast-beat)
 
 ## Escapist — Technical Double-Bass Drive
 
@@ -52,7 +52,7 @@ Chris Turner (born October 4, 1993, Birmingham, UK) is the founding drummer of p
 - Record the double bass pattern isolated and compare both feet's volume and clarity — any disparity is immediately obvious
 - Build the hand pattern separately to automaticity before combining with the foot work at song tempo
 
-**Core Techniques:** [Double Bass](https://metalforge.io/technique/double-bass), [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Polyrhythm](https://metalforge.io/technique/polyrhythm)
+**Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Polyrhythm](https://metalforge.io/techniques/polyrhythm)
 
 ## Metamorph — Mathcore Odd-Time Precision
 
@@ -75,7 +75,7 @@ Chris Turner (born October 4, 1993, Birmingham, UK) is the founding drummer of p
 - Record the odd-time blast passages and verify that the blast phrasing resets correctly at the bar boundary
 - Tap the vocal line on your knee while playing the drum part to develop multi-tasking between melodic phrase and rhythmic grid
 
-**Core Techniques:** [Odd Time Signatures](https://metalforge.io/technique/odd-time-signatures), [Blast Beat](https://metalforge.io/technique/blast-beat), [Groove Drumming](https://metalforge.io/technique/groove-drumming)
+**Core Techniques:** [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures), [Blast Beat](https://metalforge.io/techniques/blast-beat), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## Teaching Points
 

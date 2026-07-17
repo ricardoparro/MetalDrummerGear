@@ -85,7 +85,7 @@ A: Closely related techniques include Double Bass, Odd Time Signatures. Masterin
 - [Groove Metal Drumming Drummers on MetalForge](https://metalforge.io/technique/groove-drumming/drummers)
 - [All Metal Drumming Techniques](https://metalforge.io/techniques)
 - [Signature Licks featuring Groove Metal Drumming](https://metalforge.io/licks)
-- [Groove Metal Drumming Technique Page](https://metalforge.io/technique/groove-drumming)
+- [Groove Metal Drumming Technique Page](https://metalforge.io/techniques/groove-drumming)
 
 ### Related Techniques
 - [Double Bass](https://metalforge.io/techniques/double-bass) — [Deep Dive](https://metalforge.io/llms/technique/double-bass.md)
@@ -93,4 +93,4 @@ A: Closely related techniques include Double Bass, Odd Time Signatures. Masterin
 
 ---
 
-*Last updated: 2026-07-16 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-17 · Source: [MetalForge.io](https://metalforge.io)*

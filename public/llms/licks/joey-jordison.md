@@ -28,7 +28,7 @@ The iconic opening drum fill that kicks off one of metal's most intense songs. J
 - Add the bass drum pattern once the hands are solid
 - Use a practice pad to build hand speed before moving to kit
 
-**Core Techniques:** [Blast Beat](https://metalforge.io/technique/blast-beat), [Double Bass](https://metalforge.io/technique/double-bass), [Snare Rolls](https://metalforge.io/technique/snare-rolls)
+**Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Double Bass](https://metalforge.io/techniques/double-bass), [Snare Rolls](https://metalforge.io/techniques/snare-rolls)
 
 ## Eyeless Blast Section
 
@@ -50,7 +50,7 @@ Joey's devastating blast beat section that showcases his extreme metal roots. Th
 - Use a metronome religiously
 - Take breaks to avoid injury - blast beats are physically demanding
 
-**Core Techniques:** [Blast Beat](https://metalforge.io/technique/blast-beat), [Single Stroke Roll](https://metalforge.io/technique/single-stroke-roll)
+**Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Single Stroke Roll](https://metalforge.io/techniques/single-stroke-roll)
 
 ## Disasterpiece Chaos Fill
 
@@ -72,7 +72,7 @@ The frantic fill that connects verses and choruses in one of Slipknot's most agg
 - Focus on the transitions between tom groups
 - Work on dynamics - Joey uses contrast for impact
 
-**Core Techniques:** [Tom Fill](https://metalforge.io/technique/tom-fill), [Double Bass](https://metalforge.io/technique/double-bass), [Dynamics](https://metalforge.io/technique/dynamics)
+**Core Techniques:** [Tom Fill](https://metalforge.io/techniques/tom-fill), [Double Bass](https://metalforge.io/techniques/double-bass), [Dynamics](https://metalforge.io/techniques/dynamics)
 
 ## Iowa Title-Track Double-Bass Pedal Work
 
@@ -95,7 +95,7 @@ The title track of Slipknot's Iowa (2001) is one of the most extreme drumming pe
 - Practise for gradually increasing durations — 2 minutes, then 5, building toward the full track length
 - Monitor your dynamics as fatigue sets in — if the kick softens, stop, rest, and restart at full intensity
 
-**Core Techniques:** [Double Bass](https://metalforge.io/technique/double-bass), [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Dynamics](https://metalforge.io/technique/dynamics)
+**Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Dynamics](https://metalforge.io/techniques/dynamics)
 
 ## (sic) Displaced Snare Pattern
 
@@ -118,7 +118,7 @@ The title track of Slipknot's Iowa (2001) is one of the most extreme drumming pe
 - Slow the passage to 80 BPM and count the displacement explicitly before building back up
 - Record and listen to confirm the displaced accent lands consistently in the intended rhythmic position
 
-**Core Techniques:** [Snare Displacement](https://metalforge.io/technique/snare-displacement), [Double Bass](https://metalforge.io/technique/double-bass), [Groove Drumming](https://metalforge.io/technique/groove-drumming)
+**Core Techniques:** [Snare Displacement](https://metalforge.io/techniques/snare-displacement), [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## The Heretic Anthem Blast-Beat Run
 
@@ -141,7 +141,7 @@ The title track of Slipknot's Iowa (2001) is one of the most extreme drumming pe
 - Keep the wrists relaxed even under maximum intensity — tension is the enemy of blast-beat stamina
 - Take regular rest breaks to prevent injury — this blast is among the most physically demanding in metal
 
-**Core Techniques:** [Blast Beat](https://metalforge.io/technique/blast-beat), [Double Bass](https://metalforge.io/technique/double-bass), [Single Stroke Roll](https://metalforge.io/technique/single-stroke-roll)
+**Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Double Bass](https://metalforge.io/techniques/double-bass), [Single Stroke Roll](https://metalforge.io/techniques/single-stroke-roll)
 
 ## Teaching Points
 

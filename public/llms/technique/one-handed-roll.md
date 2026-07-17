@@ -80,7 +80,7 @@ A: Closely related techniques include Gravity Blast, Blast Beat. Mastering these
 - [One-Handed Roll Drummers on MetalForge](https://metalforge.io/technique/one-handed-roll/drummers)
 - [All Metal Drumming Techniques](https://metalforge.io/techniques)
 - [Signature Licks featuring One-Handed Roll](https://metalforge.io/licks)
-- [One-Handed Roll Technique Page](https://metalforge.io/technique/one-handed-roll)
+- [One-Handed Roll Technique Page](https://metalforge.io/techniques/one-handed-roll)
 
 ### Related Techniques
 - [Gravity Blast](https://metalforge.io/techniques/gravity-blast) — [Deep Dive](https://metalforge.io/llms/technique/gravity-blast.md)
@@ -88,4 +88,4 @@ A: Closely related techniques include Gravity Blast, Blast Beat. Mastering these
 
 ---
 
-*Last updated: 2026-07-16 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-17 · Source: [MetalForge.io](https://metalforge.io)*

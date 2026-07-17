@@ -80,7 +80,7 @@ A: Closely related techniques include Paradiddle Diddle, Rudiments, Hand Foot In
 - [Paradiddle Drummers on MetalForge](https://metalforge.io/technique/paradiddle/drummers)
 - [All Metal Drumming Techniques](https://metalforge.io/techniques)
 - [Signature Licks featuring Paradiddle](https://metalforge.io/licks)
-- [Paradiddle Technique Page](https://metalforge.io/technique/paradiddle)
+- [Paradiddle Technique Page](https://metalforge.io/techniques/paradiddle)
 
 ### Related Techniques
 - [Paradiddle Diddle](https://metalforge.io/techniques/paradiddle-diddle) — [Deep Dive](https://metalforge.io/llms/technique/paradiddle-diddle.md)
@@ -89,4 +89,4 @@ A: Closely related techniques include Paradiddle Diddle, Rudiments, Hand Foot In
 
 ---
 
-*Last updated: 2026-07-16 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-17 · Source: [MetalForge.io](https://metalforge.io)*

@@ -29,7 +29,7 @@ Shannon Larkin is one of Hard Rock / Alternative Metal's most influential drumme
 - Practise the ghost note pre-chorus build-up in isolation before putting the full section together
 - Work the tribal tom mid-section slowly so every stroke rings out with equal tone
 
-**Core Techniques:** [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Fill Techniques](https://metalforge.io/technique/fill-techniques), [Double Bass](https://metalforge.io/technique/double-bass)
+**Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Double Bass](https://metalforge.io/techniques/double-bass)
 
 ## Keep Away Groove Lock & Fill Cascade
 
@@ -52,7 +52,7 @@ Shannon Larkin is one of Hard Rock / Alternative Metal's most influential drumme
 - Slow the fill cascade down to isolate each stroke, then build back to full tempo
 - Record yourself and listen for whether the groove sits behind, on, or ahead of the beat
 
-**Core Techniques:** [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Fill Techniques](https://metalforge.io/technique/fill-techniques), [Linear Drumming](https://metalforge.io/technique/linear-drumming)
+**Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Linear Drumming](https://metalforge.io/techniques/linear-drumming)
 
 ## Awake Tribal Tom Pattern
 
@@ -75,7 +75,7 @@ Shannon Larkin is one of Hard Rock / Alternative Metal's most influential drumme
 - Use even stroke weight across all toms so the descending pattern flows smoothly
 - Practise the verse-to-chorus fill slowly, then gradually close the gap to full tempo
 
-**Core Techniques:** [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Fill Techniques](https://metalforge.io/technique/fill-techniques), [Polyrhythms](https://metalforge.io/technique/polyrhythms)
+**Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Polyrhythms](https://metalforge.io/techniques/polyrhythms)
 
 ## Voodoo Thunderous Fill
 
@@ -98,7 +98,7 @@ Shannon Larkin is one of Hard Rock / Alternative Metal's most influential drumme
 - Work on the transition from fill back into groove so the return feels inevitable, not abrupt
 - Use a metronome at 68 BPM and practise sitting in the pocket until the slow tempo feels comfortable
 
-**Core Techniques:** [Fill Techniques](https://metalforge.io/technique/fill-techniques), [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Dynamic Control](https://metalforge.io/technique/dynamic-control)
+**Core Techniques:** [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Dynamic Control](https://metalforge.io/techniques/dynamic-control)
 
 ## 1000hp Double-Bass Gallop
 
@@ -121,7 +121,7 @@ Shannon Larkin is one of Hard Rock / Alternative Metal's most influential drumme
 - Record both feet and listen back to identify any unevenness between them
 - Work the transition from the gallop into fills and back — the re-entry is where most players stumble
 
-**Core Techniques:** [Double Bass](https://metalforge.io/technique/double-bass), [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Riff Lock](https://metalforge.io/technique/riff-lock)
+**Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Riff Lock](https://metalforge.io/techniques/riff-lock)
 
 ## Teaching Points
 

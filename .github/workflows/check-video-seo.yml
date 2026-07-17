@@ -1,0 +1,46 @@
+name: Check Video SEO
+
+# Pre-merge gate (#4771): every VideoObject api/meta/[...path].js emits must
+# have a matching SSR <iframe> (the #3698 pattern) and a <video:video> entry
+# in api/sitemap.js's sitemap — a mismatch is exactly what Google Search
+# Console flags as "Video isn't on a watch page". See
+# scripts/audit-video-seo.mjs for how the check works.
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main, 'claude/**', 'roadie/**', 'ralph/**']
+    paths:
+      - '.github/workflows/check-video-seo.yml'
+      - 'scripts/audit-video-seo.mjs'
+      - 'scripts/_ext-resolve-hook.mjs'
+      - 'api/sitemap.js'
+      - 'api/meta/**'
+      - 'packages/frontend/data/licks/**'
+      - 'packages/frontend/data/signatureLicks.js'
+      - 'packages/frontend/data/techniques.js'
+  pull_request:
+    paths:
+      - '.github/workflows/check-video-seo.yml'
+      - 'scripts/audit-video-seo.mjs'
+      - 'scripts/_ext-resolve-hook.mjs'
+      - 'api/sitemap.js'
+      - 'api/meta/**'
+      - 'packages/frontend/data/licks/**'
+      - 'packages/frontend/data/signatureLicks.js'
+      - 'packages/frontend/data/techniques.js'
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    name: Audit VideoObject / iframe / sitemap consistency
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Run video SEO audit
+        run: node scripts/audit-video-seo.mjs

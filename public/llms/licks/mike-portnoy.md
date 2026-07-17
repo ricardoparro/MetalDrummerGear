@@ -29,7 +29,7 @@ Mike Portnoy is one of Progressive Metal's most influential drummers, best known
 - Practise the double-bass sections hands-and-feet separately first
 - Be patient — this piece is learned over weeks, not in a single session
 
-**Core Techniques:** [Odd Time Signatures](https://metalforge.io/technique/odd-time-signatures), [Fill Techniques](https://metalforge.io/technique/fill-techniques), [Double Bass](https://metalforge.io/technique/double-bass)
+**Core Techniques:** [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures), [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Double Bass](https://metalforge.io/techniques/double-bass)
 
 ## Pull Me Under Groove & Fills
 
@@ -52,7 +52,7 @@ Mike Portnoy is one of Progressive Metal's most influential drummers, best known
 - Practise the odd-meter break slowly until the subdivisions feel natural
 - Play along with the record to internalise the song-serving phrasing
 
-**Core Techniques:** [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Fill Techniques](https://metalforge.io/technique/fill-techniques), [Odd Time Signatures](https://metalforge.io/technique/odd-time-signatures)
+**Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures)
 
 ## Panic Attack Double Bass Assault
 
@@ -75,7 +75,7 @@ Mike Portnoy is one of Progressive Metal's most influential drummers, best known
 - Use a metronome and only push the tempo when every kick note is even
 - Take breaks — sustained fast double bass is physically demanding on the legs
 
-**Core Techniques:** [Double Bass](https://metalforge.io/technique/double-bass), [Odd Time Signatures](https://metalforge.io/technique/odd-time-signatures), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
+**Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Pull Me Under Intro Fill
 
@@ -98,7 +98,7 @@ The introductory fill in Dream Theater's "Pull Me Under" is one of the most imme
 - Record yourself and compare to the original — the crash should feel slightly 'early' but sit confidently
 - Once the fill is solid, practise the transition into the main groove without stopping
 
-**Core Techniques:** [Fill Techniques](https://metalforge.io/technique/fill-techniques), [Odd Time Signatures](https://metalforge.io/technique/odd-time-signatures), [Groove Drumming](https://metalforge.io/technique/groove-drumming)
+**Core Techniques:** [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## In the Presence of Enemies Blast & Polyrhythm
 
@@ -121,7 +121,7 @@ The introductory fill in Dream Theater's "Pull Me Under" is one of the most imme
 - Build blast endurance at 150 BPM before pushing toward the 175 BPM target
 - Practise the modulation transitions in slow motion to feel the subdivision shift without losing momentum
 
-**Core Techniques:** [Blast Beat](https://metalforge.io/technique/blast-beat), [Odd Time Signatures](https://metalforge.io/technique/odd-time-signatures), [Double Bass](https://metalforge.io/technique/double-bass)
+**Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures), [Double Bass](https://metalforge.io/techniques/double-bass)
 
 ## The Dance of Eternity — Navigating 108 Meter Changes
 
@@ -144,7 +144,7 @@ The introductory fill in Dream Theater's "Pull Me Under" is one of the most imme
 - Accept that this piece is learned over months, not sessions — celebrate small section victories
 - Count out loud during every practice run until the phrase-feels replace the numbers automatically
 
-**Core Techniques:** [Odd Time Signatures](https://metalforge.io/technique/odd-time-signatures), [Polyrhythms](https://metalforge.io/technique/polyrhythms), [Double Bass](https://metalforge.io/technique/double-bass)
+**Core Techniques:** [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures), [Polyrhythms](https://metalforge.io/techniques/polyrhythms), [Double Bass](https://metalforge.io/techniques/double-bass)
 
 ## Teaching Points
 

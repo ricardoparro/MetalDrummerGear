@@ -29,7 +29,7 @@ Lack of Comprehension from Death's Human (1991) is one of the most technically a
 - Listen to jazz drumming — Bill Stewart, Jack DeJohnette — to internalise the ghost note voicing approach
 - Record slow runs and verify both rhythmic layers remain distinct under tempo pressure
 
-**Core Techniques:** [Polyrhythm](https://metalforge.io/technique/polyrhythm), [Metric Modulation](https://metalforge.io/technique/metric-modulation), [Jazz Inflection](https://metalforge.io/technique/jazz-inflection)
+**Core Techniques:** [Polyrhythm](https://metalforge.io/techniques/polyrhythm), [Metric Modulation](https://metalforge.io/techniques/metric-modulation), [Jazz Inflection](https://metalforge.io/techniques/jazz-inflection)
 
 ## Suicide Machine Groove Pattern
 
@@ -52,7 +52,7 @@ Suicide Machine opens Death's Human (1991) with one of the most deceptively comp
 - Play the groove with a bass guitarist or against the bass track to feel the full rhythmic interaction
 - Focus on the feel — the displaced quality should be internalised, not consciously calculated each bar
 
-**Core Techniques:** [Ghost Notes](https://metalforge.io/technique/ghost-notes), [Odd Time Feel](https://metalforge.io/technique/odd-time-feel), [Jazz Death Hybrid](https://metalforge.io/technique/jazz-death-hybrid)
+**Core Techniques:** [Ghost Notes](https://metalforge.io/techniques/ghost-notes), [Odd Time Feel](https://metalforge.io/techniques/odd-time-feel), [Jazz Death Hybrid](https://metalforge.io/techniques/jazz-death-hybrid)
 
 ## Flattening of Emotions Main Beat
 
@@ -75,7 +75,7 @@ Flattening of Emotions is the closing track of Death's Human (1991), and in many
 - Practice fills at the exact song positions before attempting full-song runs
 - Listen to the original recording repeatedly for the ghost note placement and dynamic nuance before playing
 
-**Core Techniques:** [Mid Paced Groove](https://metalforge.io/technique/mid-paced-groove), [Dynamic Control](https://metalforge.io/technique/dynamic-control), [Musical Fills](https://metalforge.io/technique/musical-fills)
+**Core Techniques:** [Mid Paced Groove](https://metalforge.io/techniques/mid-paced-groove), [Dynamic Control](https://metalforge.io/techniques/dynamic-control), [Musical Fills](https://metalforge.io/techniques/musical-fills)
 
 ## Teaching Points
 

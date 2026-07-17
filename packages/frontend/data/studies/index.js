@@ -8,10 +8,10 @@
 // hand-authored: any number referenced from that copy — those come from the
 // generated data file under data/studies/ (see dataModule/dataExport below).
 
-import { MOST_USED_GEAR_BRANDS } from './mostUsedGearBrands';
-import { TEMPO_BY_SUBGENRE } from './tempoBySubgenre';
-import { DRUM_ENDORSEMENT_LANDSCAPE } from './drumEndorsementLandscape';
-import { KIT_CONFIGURATIONS } from './kitConfigurations';
+import { MOST_USED_GEAR_BRANDS } from './mostUsedGearBrands.js';
+import { TEMPO_BY_SUBGENRE } from './tempoBySubgenre.js';
+import { DRUM_ENDORSEMENT_LANDSCAPE } from './drumEndorsementLandscape.js';
+import { KIT_CONFIGURATIONS } from './kitConfigurations.js';
 
 export const STUDIES = [
   {

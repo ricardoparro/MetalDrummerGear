@@ -29,7 +29,7 @@ Daniel Erlandsson has been the rhythmic backbone of Arch Enemy for decades, and 
 - Focus on a relaxed posture to keep stamina across the whole song
 - Practise the chorus groove until it feels punchy and steady
 
-**Core Techniques:** [Double Bass](https://metalforge.io/technique/double-bass), [Blast Beat](https://metalforge.io/technique/blast-beat), [Groove Drumming](https://metalforge.io/technique/groove-drumming)
+**Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Blast Beat](https://metalforge.io/techniques/blast-beat), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## Nemesis Galloping Double Bass
 
@@ -52,7 +52,7 @@ Daniel Erlandsson has been the rhythmic backbone of Arch Enemy for decades, and 
 - Stay relaxed so the energy lasts through the whole song
 - Keep fills tight and purposeful, matching the song's drive
 
-**Core Techniques:** [Double Bass](https://metalforge.io/technique/double-bass), [Blast Beat](https://metalforge.io/technique/blast-beat), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
+**Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Blast Beat](https://metalforge.io/techniques/blast-beat), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Avalanche Blast & Groove Attack
 
@@ -75,7 +75,7 @@ Daniel Erlandsson has been the rhythmic backbone of Arch Enemy for decades, and 
 - Keep the limbs balanced and relaxed to sustain the intensity
 - Anchor everything to the riff so the part stays musical at speed
 
-**Core Techniques:** [Double Bass](https://metalforge.io/technique/double-bass), [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Blast Beat](https://metalforge.io/technique/blast-beat)
+**Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Blast Beat](https://metalforge.io/techniques/blast-beat)
 
 ## Teaching Points
 

@@ -80,7 +80,7 @@ A: Closely related techniques include Five Stroke Roll, Seven Stroke Roll, Blast
 - [Six Stroke Roll Drummers on MetalForge](https://metalforge.io/technique/six-stroke-roll/drummers)
 - [All Metal Drumming Techniques](https://metalforge.io/techniques)
 - [Signature Licks featuring Six Stroke Roll](https://metalforge.io/licks)
-- [Six Stroke Roll Technique Page](https://metalforge.io/technique/six-stroke-roll)
+- [Six Stroke Roll Technique Page](https://metalforge.io/techniques/six-stroke-roll)
 
 ### Related Techniques
 - [Five Stroke Roll](https://metalforge.io/techniques/five-stroke-roll) — [Deep Dive](https://metalforge.io/llms/technique/five-stroke-roll.md)
@@ -89,4 +89,4 @@ A: Closely related techniques include Five Stroke Roll, Seven Stroke Roll, Blast
 
 ---
 
-*Last updated: 2026-07-16 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-17 · Source: [MetalForge.io](https://metalforge.io)*

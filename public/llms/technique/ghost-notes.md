@@ -80,7 +80,7 @@ A: Closely related techniques include Groove Drumming, Fill Techniques, Linear D
 - [Ghost Notes Drummers on MetalForge](https://metalforge.io/technique/ghost-notes/drummers)
 - [All Metal Drumming Techniques](https://metalforge.io/techniques)
 - [Signature Licks featuring Ghost Notes](https://metalforge.io/licks)
-- [Ghost Notes Technique Page](https://metalforge.io/technique/ghost-notes)
+- [Ghost Notes Technique Page](https://metalforge.io/techniques/ghost-notes)
 
 ### Related Techniques
 - [Groove Drumming](https://metalforge.io/techniques/groove-drumming) — [Deep Dive](https://metalforge.io/llms/technique/groove-drumming.md)
@@ -89,4 +89,4 @@ A: Closely related techniques include Groove Drumming, Fill Techniques, Linear D
 
 ---
 
-*Last updated: 2026-07-16 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-17 · Source: [MetalForge.io](https://metalforge.io)*

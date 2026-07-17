@@ -29,7 +29,7 @@ Martin Axenrot is one of Progressive Metal / Progressive Death Metal's most infl
 - Count the 7/8 bars out loud at first, then drop the counting once the phrase feels like a natural continuation rather than a math exercise
 - Record yourself through a full meter-change section and listen for any audible seam or rush at the transition point
 
-**Core Techniques:** [Odd Meter](https://metalforge.io/technique/odd-meter), [Dynamics](https://metalforge.io/technique/dynamics), [Groove Drumming](https://metalforge.io/technique/groove-drumming)
+**Core Techniques:** [Odd Meter](https://metalforge.io/techniques/odd-meter), [Dynamics](https://metalforge.io/techniques/dynamics), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## Sorceress — Heavy Riff-Lock and Live Dynamics
 
@@ -52,7 +52,7 @@ Martin Axenrot is one of Progressive Metal / Progressive Death Metal's most infl
 - Play the verse-to-chorus dynamic shift deliberately, pulling back to cymbal textures before building back into the heavy riff-lock groove
 - Record yourself at 140 BPM and check that your backbeat stays relaxed rather than rushing as the riff intensity increases
 
-**Core Techniques:** [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Dynamics](https://metalforge.io/technique/dynamics), [Riff Lock](https://metalforge.io/technique/riff-lock)
+**Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Dynamics](https://metalforge.io/techniques/dynamics), [Riff Lock](https://metalforge.io/techniques/riff-lock)
 
 ## Teaching Points
 

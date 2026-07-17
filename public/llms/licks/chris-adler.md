@@ -29,7 +29,7 @@ Chris Adler is one of Groove Metal's most influential drummers, best known for t
 - Keep the ride bell steady and even while the kick syncopates underneath
 - Practise the linear fills slowly, then place them back into the groove
 
-**Core Techniques:** [Double Bass](https://metalforge.io/technique/double-bass), [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
+**Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Walk with Me in Hell Half-Time Groove
 
@@ -52,7 +52,7 @@ Chris Adler is one of Groove Metal's most influential drummers, best known for t
 - Use the ride bell to keep forward momentum under the slow pocket
 - Practise the fills separately, then place them back to mark the transitions
 
-**Core Techniques:** [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Double Bass](https://metalforge.io/technique/double-bass), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
+**Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## 512 Groove & Fills
 
@@ -75,7 +75,7 @@ Chris Adler is one of Groove Metal's most influential drummers, best known for t
 - Map the song's dynamic shifts and rehearse pulling back then re-engaging
 - Build the linear fills slowly, then drop them back into the groove
 
-**Core Techniques:** [Double Bass](https://metalforge.io/technique/double-bass), [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
+**Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Walk with Me in Hell — Drum Setup & Pattern
 
@@ -98,7 +98,7 @@ Chris Adler is one of Groove Metal's most influential drummers, best known for t
 - Record yourself at the song's tempo and listen for kick unevenness — any wobble destroys the groove's authority
 - Add the China cymbal last after the main pattern is solid — placement timing is everything
 
-**Core Techniques:** [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Double Bass](https://metalforge.io/technique/double-bass), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
+**Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Redneck — Grammy Groove Setup
 
@@ -121,7 +121,7 @@ Chris Adler is one of Groove Metal's most influential drummers, best known for t
 - Work the breakdown in isolation first — the half-time feel must be fully confident before attaching it to the fast section
 - Record the full song and listen back specifically to the kick-riff lock in the verses to identify any loose spots
 
-**Core Techniques:** [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Double Bass](https://metalforge.io/technique/double-bass), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
+**Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## The Contractor — Polyrhythmic Setup
 
@@ -144,7 +144,7 @@ Chris Adler is one of Groove Metal's most influential drummers, best known for t
 - Keep a mental count of the bar divisions while playing — the cross-accent pattern resolves at the bar line
 - Record yourself and compare snare accent weights — any unevenness between straight backbeats and cross-accent placements reveals where the technique needs work
 
-**Core Techniques:** [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Double Bass](https://metalforge.io/technique/double-bass), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
+**Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Teaching Points
 

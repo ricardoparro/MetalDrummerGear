@@ -29,7 +29,7 @@ Paul Bostaph is one of Thrash Metal's most influential drummers, best known for 
 - Isolate just the double bass ostinato for 10-minute blocks before layering in the hands — both must be solid independently
 - Practice slow-motion at 80 BPM to perfect the heel-up motion and pedal rebound before chasing speed
 
-**Core Techniques:** [Double Bass](https://metalforge.io/technique/double-bass), [Blast Beat](https://metalforge.io/technique/blast-beat), [Groove Drumming](https://metalforge.io/technique/groove-drumming)
+**Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Blast Beat](https://metalforge.io/techniques/blast-beat), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## Disciple Thrash Speed Groove
 
@@ -52,7 +52,7 @@ Paul Bostaph is one of Thrash Metal's most influential drummers, best known for 
 - Keep fills very short and placement-precise; a fill one beat too long at this tempo causes a full rhythmic derailment
 - Work the half-time bridge section separately so the tempo feel switch is clean and deliberate when the full song is played through
 
-**Core Techniques:** [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Double Bass](https://metalforge.io/technique/double-bass), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
+**Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## War Ensemble Thrash Blast Pattern
 
@@ -75,7 +75,7 @@ Paul Bostaph is one of Thrash Metal's most influential drummers, best known for 
 - Develop rotational arm technique by focusing on the shoulder and forearm rather than just wrist snap — this is what allows sustained high-speed output
 - Record the outro and count whether your blast is still perfectly alternating at the end — stamina failure shows up first as rhythmic drift, not total breakdown
 
-**Core Techniques:** [Blast Beat](https://metalforge.io/technique/blast-beat), [Double Bass](https://metalforge.io/technique/double-bass), [Groove Drumming](https://metalforge.io/technique/groove-drumming)
+**Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## Teaching Points
 

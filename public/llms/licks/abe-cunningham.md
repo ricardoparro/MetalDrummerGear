@@ -29,7 +29,7 @@ Abe Cunningham is one of Alternative Metal's most influential drummers, best kno
 - Learn the cymbal swell by practising crescendo rolls from pianissimo to fortissimo in isolation
 - Map the song's dynamic arc on paper before playing — know exactly where each volume change lands
 
-**Core Techniques:** [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Linear Drumming](https://metalforge.io/technique/linear-drumming), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
+**Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Linear Drumming](https://metalforge.io/techniques/linear-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## My Own Summer Power Groove
 
@@ -52,7 +52,7 @@ Abe Cunningham is one of Alternative Metal's most influential drummers, best kno
 - Practise the kick-riff lock in isolation with a guitar recording to ensure they mesh cleanly
 - Record yourself at full song length and listen for where the groove starts to drift or lose punch
 
-**Core Techniques:** [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Fill Techniques](https://metalforge.io/technique/fill-techniques), [Double Bass](https://metalforge.io/technique/double-bass)
+**Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Double Bass](https://metalforge.io/techniques/double-bass)
 
 ## Change Minimalist Alt-Metal Groove
 
@@ -75,7 +75,7 @@ Abe Cunningham is one of Alternative Metal's most influential drummers, best kno
 - Record yourself and listen back at full volume to check that quiet sections are truly quiet
 - Resist the urge to add fills in the quiet sections — silence is the point
 
-**Core Techniques:** [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Linear Drumming](https://metalforge.io/technique/linear-drumming), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
+**Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Linear Drumming](https://metalforge.io/techniques/linear-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Passenger Atmospheric Ghost-Note Groove
 
@@ -98,7 +98,7 @@ Abe Cunningham is one of Alternative Metal's most influential drummers, best kno
 - Map every kick placement to a vocal or guitar event in the song — each one should have a reason, not a pattern
 - Sit with the song as a listener before playing it — understand the emotional arc so you know when the single heavy hit needs to land
 
-**Core Techniques:** [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Dynamic Control](https://metalforge.io/technique/dynamic-control), [Ghost Notes](https://metalforge.io/technique/ghost-notes)
+**Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Dynamic Control](https://metalforge.io/techniques/dynamic-control), [Ghost Notes](https://metalforge.io/techniques/ghost-notes)
 
 ## Diamond Eyes Rolling Tom Fill
 
@@ -121,7 +121,7 @@ Abe Cunningham is one of Alternative Metal's most influential drummers, best kno
 - Practise the transition from closed verse hi-hat to open chorus hi-hat in isolation until it is automatic
 - Record the full song and listen for whether fills feel premature or hesitant — those are the slow-tempo drilling points
 
-**Core Techniques:** [Fill Techniques](https://metalforge.io/technique/fill-techniques), [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Dynamic Control](https://metalforge.io/technique/dynamic-control)
+**Core Techniques:** [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Dynamic Control](https://metalforge.io/techniques/dynamic-control)
 
 ## Hole in the Earth Syncopated Hi-Hat Pattern
 
@@ -144,7 +144,7 @@ Saturday Night Wrist (2006) is one of Deftones' most underappreciated records, a
 - Compare your recording with the original to check accent placement — the syncopation is subtle and small differences change the feel significantly
 - Once the hi-hat pattern is solid, practise transitions to open hi-hat for chorus sections to integrate the full groove
 
-**Core Techniques:** [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Syncopation](https://metalforge.io/technique/syncopation), [Dynamic Control](https://metalforge.io/technique/dynamic-control)
+**Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Syncopation](https://metalforge.io/techniques/syncopation), [Dynamic Control](https://metalforge.io/techniques/dynamic-control)
 
 ## Teaching Points
 

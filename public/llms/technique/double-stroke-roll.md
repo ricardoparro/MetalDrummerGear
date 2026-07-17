@@ -78,7 +78,7 @@ A: Closely related techniques include Buzz Roll, Rudiments. Mastering these comp
 - [Double Stroke Roll Drummers on MetalForge](https://metalforge.io/technique/double-stroke-roll/drummers)
 - [All Metal Drumming Techniques](https://metalforge.io/techniques)
 - [Signature Licks featuring Double Stroke Roll](https://metalforge.io/licks)
-- [Double Stroke Roll Technique Page](https://metalforge.io/technique/double-stroke-roll)
+- [Double Stroke Roll Technique Page](https://metalforge.io/techniques/double-stroke-roll)
 
 ### Related Techniques
 - [Buzz Roll](https://metalforge.io/techniques/buzz-roll) — [Deep Dive](https://metalforge.io/llms/technique/buzz-roll.md)
@@ -86,4 +86,4 @@ A: Closely related techniques include Buzz Roll, Rudiments. Mastering these comp
 
 ---
 
-*Last updated: 2026-07-16 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-17 · Source: [MetalForge.io](https://metalforge.io)*

@@ -79,7 +79,7 @@ A: Closely related techniques include Double Bass, Hand Foot Independence. Maste
 - [Heel-Toe Technique Drummers on MetalForge](https://metalforge.io/technique/heel-toe-technique/drummers)
 - [All Metal Drumming Techniques](https://metalforge.io/techniques)
 - [Signature Licks featuring Heel-Toe Technique](https://metalforge.io/licks)
-- [Heel-Toe Technique Technique Page](https://metalforge.io/technique/heel-toe-technique)
+- [Heel-Toe Technique Technique Page](https://metalforge.io/techniques/heel-toe-technique)
 
 ### Related Techniques
 - [Double Bass](https://metalforge.io/techniques/double-bass) — [Deep Dive](https://metalforge.io/llms/technique/double-bass.md)
@@ -87,4 +87,4 @@ A: Closely related techniques include Double Bass, Hand Foot Independence. Maste
 
 ---
 
-*Last updated: 2026-07-16 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-17 · Source: [MetalForge.io](https://metalforge.io)*

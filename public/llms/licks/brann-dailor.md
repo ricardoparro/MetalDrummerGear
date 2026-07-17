@@ -29,7 +29,7 @@ Brann Dailor is one of Progressive / Sludge Metal's most influential drummers, b
 - Lock the kick to a metronome first, then layer the ornamentation on top
 - Count to beat one out loud so every fill resolves back in time
 
-**Core Techniques:** [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Fill Techniques](https://metalforge.io/technique/fill-techniques), [Linear Drumming](https://metalforge.io/technique/linear-drumming)
+**Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Linear Drumming](https://metalforge.io/techniques/linear-drumming)
 
 ## Hearts Alive Melodic Fills
 
@@ -52,7 +52,7 @@ Brann Dailor is one of Progressive / Sludge Metal's most influential drummers, b
 - Practise the melodic tom phrases slowly so each note speaks clearly
 - Work on dynamics — play the quiet sections genuinely quietly for contrast
 
-**Core Techniques:** [Fill Techniques](https://metalforge.io/technique/fill-techniques), [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Polyrhythms](https://metalforge.io/technique/polyrhythms)
+**Core Techniques:** [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Polyrhythms](https://metalforge.io/techniques/polyrhythms)
 
 ## Ghost of Karelia Prog Groove
 
@@ -75,7 +75,7 @@ Brann Dailor is one of Progressive / Sludge Metal's most influential drummers, b
 - Keep the ride/tom pattern relaxed and circular rather than stiff
 - Listen to the full song repeatedly so you internalise where the lifts belong
 
-**Core Techniques:** [Odd Time Signatures](https://metalforge.io/technique/odd-time-signatures), [Fill Techniques](https://metalforge.io/technique/fill-techniques), [Groove Drumming](https://metalforge.io/technique/groove-drumming)
+**Core Techniques:** [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures), [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## Blood and Thunder Swung Quasi-Blast
 
@@ -98,7 +98,7 @@ Within Blood and Thunder's runtime, Brann Dailor deploys a swung quasi-blast gro
 - Work on the kick gallop separately with a metronome before adding the swung hi-hat
 - Record yourself and compare to the track to gauge how much swing is correct
 
-**Core Techniques:** [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Linear Drumming](https://metalforge.io/technique/linear-drumming), [Stamina](https://metalforge.io/technique/stamina)
+**Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Linear Drumming](https://metalforge.io/techniques/linear-drumming), [Stamina](https://metalforge.io/techniques/stamina)
 
 ## Crack the Skye Melodic Fill
 
@@ -121,7 +121,7 @@ The title track of Mastodon's 2009 psychedelic prog opus contains some of Brann 
 - Work on hi-hat foot independence so the hands can roam freely over a steady foot pulse
 - Listen to the full album repeatedly to internalise the psychedelic atmosphere and phrasing
 
-**Core Techniques:** [Fill Techniques](https://metalforge.io/technique/fill-techniques), [Odd Time Signatures](https://metalforge.io/technique/odd-time-signatures), [Groove Drumming](https://metalforge.io/technique/groove-drumming)
+**Core Techniques:** [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## Colony of Birchmen Funky Groove
 
@@ -144,7 +144,7 @@ Colony of Birchmen reveals a side of Brann Dailor's playing that surprises liste
 - Work on hi-hat nuance with open and closed strokes to build the textured hi-hat surface
 - Record yourself and listen back — the groove should feel relaxed and elastic, not stiff
 
-**Core Techniques:** [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Ghost Notes](https://metalforge.io/technique/ghost-notes), [Hi Hat Control](https://metalforge.io/technique/hi-hat-control)
+**Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Ghost Notes](https://metalforge.io/techniques/ghost-notes), [Hi Hat Control](https://metalforge.io/techniques/hi-hat-control)
 
 ## Teaching Points
 

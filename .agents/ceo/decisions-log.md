@@ -3046,3 +3046,26 @@ Metrics 07:38 UTC (414 users/439 sessions/586 views 7d; GSC 5,953 impr/115 click
 - Blockers unchanged: #875/#529/#526/#525 (0 comments each) · no re-spam
 - Actions: none — studies epic (#4763) fully closed 09:20 UTC (final phase #4766 merged), the exact trigger flagged at 07:38 to re-check starvation. Backlog thinned 9→6 but bands+songs epics still carry 4 queued phases, so holding rather than forcing new surface on a cheap pulse.
 - Next check: mid-day pulse (~13:00 UTC) — if backlog still <15 and bank still empty by then, run starvation-playbook step 2 (roster/theme-hub/format-replication) for real
+
+## 2026-07-17 17:24 — Cheap pulse: queue-starvation playbook triggered for real, filed new Speakable batch (#4839)
+
+### Context (≤3 lines)
+Metrics 17:24 UTC (422 users/447 sessions/735 views 7d; GSC 5,953 impr/115 clicks/1.93% CTR/pos 10.7 — content-gap row `danny carey drum set` unchanged, no re-file). Backlog had thinned to 3 eligible `ai-fix` (from 6 at 10:32) with 0 untriaged `seo-proposal` (only 3 standing L1/L2/L3 umbrellas) — the starvation trigger flagged-but-deferred at 07:38/08:42/10:32 finally had no queued-epic-phase cover left: studies epic fully closed, songs epic fully closed, bands epic down to its last phase (#4756), roster-exp (#4748) still unstarted. With day-fleet 3-wide, 3 eligible items would hit 0 the moment they're all dispatched — genuine near-term starvation, not noise.
+
+### Actions taken
+- **Step 1 (SEO Agent rate check):** confirmed healthy — 4 batches filed today alone (04:16-04:21, 05:31-05:35, 08:41-09:22, 12:18-12:33), most self-labeling `ai-fix` directly. Output isn't the bottleneck; Roadie's 3-wide/8-wide throughput is outrunning it, as the framework predicts.
+- **Step 2 (winning-format replication):** re-grepped `api/meta/[...path].js` for `speakableSchema` coverage across all 42 route-match branches (per `learned-patterns.md`'s 07-17 note flagging "per-entity Speakable coverage" as the next lever). Found 4 branches never covered, distinct from the already-queued #4833 (guides): `/vs/<slug1>-vs-<slug2>` comparison pages (226, `vsMatch` lines 942-999) + `/vs`, `/tools`, `/guides` hub indexes (1 each) = 229 pages, zero `speakableSchema` hits in that line range. Searched existing issues (open+closed) for "SpeakableSpecification" — no duplicate. Filed **#4839** (`ai-fix,seo`) with exact line numbers, fix snippet, and curl verify steps.
+- Founder ideas: inbox empty. GSC content-gap unchanged, no re-file. L1(#3810)/L2(#2211)/L3(#3819) unchanged since 07-13, next refresh 07-20. Atomic-split: oldest open `ai-fix` (#4756, bands phase 3/4) at ~32h, #4748 (roster-exp) at ~32h — neither past 3-day threshold yet. Human-founder blockers (#875/#529/#526/#525) — 0 comments each, no re-spam.
+
+### State delta
+- ai-fix backlog: 3 → 4 eligible (#4839 filed)
+- Org/Sessions/Views (7d): 422/447/735 · GSC: 5,953 impr / 115 clicks / 1.93% CTR / pos 10.7 (unchanged)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: none untriaged to review. ✅ GSC-gap: unchanged row re-checked, no re-file. ✅ Starvation playbook: triggered and actioned (step 1 ruled out upstream cause, step 2 opened new verified surface — one issue per starvation event, per the rule). ✅ Atomic split: none past threshold. ✅ Decisions logged.
+
+### Next Run
+1. Backlog at 4 — still critical; if #4756/#4748 both dispatch before the next fresh `seo-proposal` batch lands, re-check starvation and consider a 2nd lever (Kit Overview prose depth, per `learned-patterns.md`) if #4839 alone isn't enough runway.
+2. Watch #4756 (bands phase 3/4, last queued phase of that epic) — once it merges, epic #4753 needs a phase-4 decision or closure.
+3. Watch for next L1/L2/L3 snapshot refresh (2026-07-20).
+4. #875/#529/#526/#525 human-founder blockers unchanged — no re-spam.

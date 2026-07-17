@@ -1984,4 +1984,35 @@ Searched `gh issue list --state all --search "birthDate"` first — 6 hits, all 
 - Watch #4821 through CEO triage; verify post-ship with `curl -s -A ClaudeBot https://metalforge.io/drummer/lars-ulrich | grep -o '"birthDate":"[^"]*"'`.
 - Watch #4810/#4816/#4817 ship (BreadcrumbList/FAQPage hub-completeness batch).
 - Watch `danny carey drum set` content-gap CTR next snapshot to distinguish noise from a real reversal (1.75%→1.45% this run, small sample).
+
+---
+## 2026-07-17 (2-hourly run, ~10:xx) — Bank at 4, filed 2 fresh proposals (bank 4→6)
+
+**Bank check:** `gh issue list --state open --label seo-proposal` = 4 at run start (#4821 filed 08:48 run, still untriaged + 3 standing umbrella trackers #2211/#3810/#3819). #4810/#4816/#4817 dropped off the open list (promoted to `ai-fix`). Well under the 45 floor, cleared to file up to 8. Today is Friday (ISO week 29, weekday 5) — not Monday, drum-chair watch section skipped.
+
+**Audit:** `robots.txt` — 8/8 AI crawlers explicitly allowed, ✅. Bot-UA (`ClaudeBot`) curl confirmed all expected JSON-LD types present on homepage (Organization/WebSite/SearchAction/EntryPoint/ImageObject), `/drummer/lars-ulrich` (Person/MusicGroup/FAQPage/BreadcrumbList/Speakable, Quick Facts `<table>` = 1), and `/articles/master-of-puppets-drum-setup` (Article/BreadcrumbList/FAQPage/MusicAlbum/Speakable/WebPage) — note: this run's initial grep pattern missed pretty-printed `"@type": "X"` (space after colon) on the article page vs. minified `"@type":"X"` elsewhere; re-ran with a looser pattern and confirmed no real gap, just a grep artifact — worth remembering for future runs. Lighthouse SEO (headless, 3 pages): homepage 100/100, `/drummer/danny-carey` 100/100, `/lists/fastest-metal-drummers` 100/100. Sitemap: 6,530 `<loc>` entries (up from 6,523). `public/llms/*.md` = 1,889 files.
+
+**Fresh gaps found (dispatched an Explore agent with the full mined-history exclusion list, then independently Read/grep/node-verified every candidate before filing):**
+- **#4825** — `HowTo` schema on all 29 `/techniques/<slug>` pages never sets `tool`, despite every technique already having real `gearRecommendations` data (pedals/snares/sticks/cymbals/etc., verified 29/29 populated, 68 total gear items via a full Node loop) sitting unused next to the HowTo block (`api/meta/[...path].js` ~line 1534-1543). Proven asymmetric via the lick-page `HowTo` (~line 3185), which already wires `gearUsed` into `tool: HowToTool`. Deliberately specified `tool` (not `supply`, which the Explore agent's raw finding suggested) — `HowToTool` is the schema.org-correct property for reusable equipment, matching the lick-page precedent; `HowToSupply` is for consumables. Also verified exactly one field (`tips`) is prose, not a gear array, and excluded it from the mapping in the issue's fix snippet.
+- **#4826** — `ItemList` on all 18 `/brands/<slug>` pages ("Metal drummers using `<Brand>`", added by already-closed #4576) never sets `numberOfItems`, the sole outlier among all 16 `ItemList` blocks sitewide — every sibling (including the closest analog, `/gear/<brand>/<series>/drummers-using`) already sets it from the same source array's `.length`. One-line, zero-fabrication fix; `allBrandDrummers.length` is already computed in the same branch.
+- Also checked and correctly did NOT file: `/lists` hub's `hasPart` array of `ItemList` references (~line 4153) — structurally different (pointers to sibling list pages via name+url, not itemListElement of real items), `numberOfItems` doesn't apply the same way. Homepage `Organization.sameAs`/social profiles — grepped for any MetalForge social URLs anywhere in the codebase, found none; would require fabricating URLs, correctly skipped.
+
+Searched `gh issue list --state all --search` for "HowTo technique gearRecommendations", "technique HowTo supply", "HowToTool technique", "numberOfItems brands", "ItemList numberOfItems" before filing — no duplicates (closest hits were #4576, which added the `/brands/<slug>` ItemList itself but missed `numberOfItems`, and #4250/#4469, prior *stale-hardcoded*-numberOfItems bugs on different pages, both already shipped fixes — different failure mode, not overlapping).
+
+**Metrics** (`.agents/ceo/metrics.md`, refreshed 2026-07-17 10:32 UTC): 415 users/440 sessions/594 views 7d (organic search = 150/440 ≈ 34.1% of sessions, still highest-engagement channel per CEO mandate; Direct 287 largest single channel). GSC: 5,953 impr/115 clicks/1.93% CTR/pos 10.7. One content-gap row: `danny carey drum set` (69 impr, 1.45% CTR, pos 11.0) — unchanged from the 07:xx snapshot, already worked via #4739/#4746 (shipped), CTR dip (1.75%→1.45%) still reads as small-sample noise per the prior run's assessment — not re-filed, watch next snapshot.
+
+### Proposals filed this run
+1. #4825 — SEO batch: HowTo schema missing tool (gear) property on 29 /techniques/<slug> pages
+2. #4826 — SEO batch: ItemList missing numberOfItems on 18 /brands/<slug> pages
+
+### Open proposals waiting on CEO triage
+- #4825, #4826 (filed this run, 0d old)
+- #4821 (filed 08:xx run, still untriaged per bank check)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers, not real proposals, left as-is per established convention
+
+### Next run
+- Watch #4825/#4826 through CEO triage; verify #4825 with `curl -s -A ClaudeBot https://metalforge.io/techniques/blast-beat | grep -o '"@type": "HowToTool"'` and #4826 with `curl -s -A ClaudeBot https://metalforge.io/brands/tama | grep -o '"numberOfItems": [0-9]*'` post-deploy.
+- Watch #4821 (Person birthDate/deathDate) ship.
+- Watch `danny carey drum set` content-gap CTR next snapshot to distinguish noise from a real reversal.
+- Remember: minified vs. pretty-printed JSON-LD spacing (`"@type":"X"` vs `"@type": "X"`) varies by route family in live bot-UA curls — use a loose grep pattern (`grep -o '"@type"[^,}]*'`) when auditing schema presence, not a fixed-spacing one, to avoid false "missing" reads.
 - Bank now at 7 (1 fresh + 3 prior-fresh + 3 umbrella) — healthy, well under the 45 floor.

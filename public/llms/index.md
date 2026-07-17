@@ -22,6 +22,7 @@ This index provides machine-readable links to all content optimized for LLM cons
 | API - Quotes | https://metalforge.io/api/quotes | Drummer quotes JSON |
 | Drummer Quotes | https://metalforge.io/llms/quotes.md | 36 attributed quotes from 12 metal drummers on technique, gear, and philosophy (Markdown) |
 | Bands | https://metalforge.io/llms/bands.md | Band & drummer-history reference (Markdown) |
+| Studies | https://metalforge.io/llms/studies.md | 4 computed data studies — brand usage, tempo by subgenre, endorsements, kit configurations (Markdown) |
 | Gear News | https://metalforge.io/llms/gear-news.md | Chronological feed of drummer gear additions, switches, and updates (Markdown) |
 | Endorsement News | https://metalforge.io/llms/endorsement-news.md | Brand endorsement changes for 67 tracked metal drummers — current deals, switches, signature gear (Markdown) |
 | Drummer Endorsements | https://metalforge.io/llms/endorsements.md | Official gear endorsements for 67 metal drummers with brand and contract details (Markdown) |

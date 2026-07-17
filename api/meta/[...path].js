@@ -3779,7 +3779,9 @@ export function getMetaForPath(pathname) {
       return {
         title: `${study.seoTitle} | ${SITE_NAME}`,
         description: study.description,
-        image: DEFAULT_IMAGE,
+        // Issue #4766 (phase 3/3): OG share card with the headline stat — extends
+        // the existing api/card/[slug].jsx generator (see STUDIES.headlineStat).
+        image: `${BASE_URL}/api/card/${studySlug}?format=twitter`,
         type: 'article',
         url: `${BASE_URL}/studies/${studySlug}`,
         tables,
@@ -3870,7 +3872,8 @@ export function getMetaForPath(pathname) {
       return {
         title: `${study.seoTitle} | ${SITE_NAME}`,
         description: study.description,
-        image: DEFAULT_IMAGE,
+        // Issue #4766 (phase 3/3): OG share card with the headline stat.
+        image: `${BASE_URL}/api/card/${studySlug}?format=twitter`,
         type: 'article',
         url: `${BASE_URL}/studies/${studySlug}`,
         tables,
@@ -3970,7 +3973,8 @@ export function getMetaForPath(pathname) {
       return {
         title: `${study.seoTitle} | ${SITE_NAME}`,
         description: study.description,
-        image: DEFAULT_IMAGE,
+        // Issue #4766 (phase 3/3): OG share card with the headline stat.
+        image: `${BASE_URL}/api/card/${studySlug}?format=twitter`,
         type: 'article',
         url: `${BASE_URL}/studies/${studySlug}`,
         tables,
@@ -4074,7 +4078,8 @@ export function getMetaForPath(pathname) {
       return {
         title: `${study.seoTitle} | ${SITE_NAME}`,
         description: study.description,
-        image: DEFAULT_IMAGE,
+        // Issue #4766 (phase 3/3): OG share card with the headline stat.
+        image: `${BASE_URL}/api/card/${studySlug}?format=twitter`,
         type: 'article',
         url: `${BASE_URL}/studies/${studySlug}`,
         tables,

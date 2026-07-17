@@ -1,6 +1,9 @@
 // Vercel Serverless Function - List all available Gear Cards
 // Issue #747: Gear Cards Gallery
 // Issue #764: Enhanced with proper API URLs and download support
+// Issue #4766: added the studies card family (headline-stat OG cards)
+
+import { STUDIES } from '../../packages/frontend/data/studies/index.js';
 
 export default function handler(req, res) {
   const baseUrl = process.env.VERCEL_URL 
@@ -62,26 +65,42 @@ export default function handler(req, res) {
     profileUrl: `${baseUrl}/drummer/${d.slug}`,
   }));
 
+  // Study cards — one headline-stat card per /studies/<slug> page (issue #4766).
+  const studyCards = STUDIES.map((s) => ({
+    slug: s.slug,
+    title: s.title,
+    headlineStat: s.headlineStat,
+    cardUrls: {
+      instagram: `${baseUrl}/api/card/${s.slug}`,
+      instagramDownload: `${baseUrl}/api/card/${s.slug}?download=true`,
+      twitter: `${baseUrl}/api/card/${s.slug}?format=twitter`,
+      twitterDownload: `${baseUrl}/api/card/${s.slug}?format=twitter&download=true`,
+    },
+    studyUrl: `${baseUrl}/studies/${s.slug}`,
+  }));
+
   // Set caching headers
   res.setHeader('Cache-Control', 'public, s-maxage=3600, stale-while-revalidate=86400');
-  
+
   res.status(200).json({
     total: cards.length,
     cards,
+    studies: studyCards,
     formats: {
-      instagram: { 
-        dimensions: '1080x1080', 
-        description: 'Square format for Instagram feed posts' 
+      instagram: {
+        dimensions: '1080x1080',
+        description: 'Square format for Instagram feed posts'
       },
-      twitter: { 
-        dimensions: '1200x675', 
-        description: 'Landscape format for Twitter/X cards' 
+      twitter: {
+        dimensions: '1200x675',
+        description: 'Landscape format for Twitter/X cards'
       },
     },
     types: {
       full: 'Complete gear list with drummer info - best for social sharing',
       stats: 'Key statistics (pieces count, total cost) - great for quick sharing',
       spotlight: 'Focus on signature gear - ideal for brand highlights',
+      study: 'Headline stat from a /studies page - the study\'s single most citable number',
     },
     usage: {
       download: 'Add ?download=true to any card URL to trigger a file download',

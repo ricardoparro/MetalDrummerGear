@@ -260,6 +260,9 @@ import { recordRecentlyViewed } from './utils/recentlyViewed';
 // Shared-Gear Drummers internal-linking block (Issue #1006, split 2/3 of #874)
 // Stub-tested on the Lars Ulrich page here; #1007 rolls it out everywhere.
 import SharedGearDrummersBlock from './components/SharedGearDrummersBlock';
+// Studies internal-linking block (Issue #4766, phase 3/3 of epic #4763) -
+// links a drummer profile / genre page to any /studies page that counted it.
+import { getDrummerStudyLinks, getGenreStudyLinks } from './data/studies/index.js';
 
 // Drummer Battle - Weekly Voting Feature (Issue #689)
 // Lazy loaded for performance optimization (#708) - 10KB module
@@ -4556,6 +4559,35 @@ function ArticlesIndexPage({ theme, onBack, onSelectArticle }) {
         </View>
       )}
 
+      {/* Data Studies (Issue #4766, phase 3/3 of epic #4763) */}
+      <View style={{ marginTop: 32, paddingHorizontal: 20 }}>
+        <Text style={[styles.sectionTitle, { color: theme.text, marginBottom: 16 }]}>
+          📊 Data Studies
+        </Text>
+        <Text style={[styles.textSm, { color: theme.secondaryText, marginBottom: 16 }]}>
+          Computed analyses of gear, tempo, and technique trends across our documented drummer roster.
+        </Text>
+        <TouchableOpacity
+          style={[styles.articleListItem, { backgroundColor: theme.card, borderColor: theme.border }]}
+          onPress={() => {
+            if (Platform.OS === 'web' && typeof window !== 'undefined') {
+              window.history.pushState({}, '', '/studies');
+              window.dispatchEvent(new PopStateEvent('popstate'));
+            }
+          }}
+          accessibilityRole="link"
+          href="/studies"
+        >
+          <View style={{ flex: 1 }}>
+            <Text style={[styles.articleListTitle, { color: theme.text }]}>All MetalForge Studies</Text>
+            <Text style={[styles.articleListMeta, { color: theme.secondaryText }]}>
+              Brand usage, tempo by subgenre, endorsements, and kit configurations
+            </Text>
+          </View>
+          <Text style={{ color: theme.secondaryText, fontSize: 20 }}>→</Text>
+        </TouchableOpacity>
+      </View>
+
       {/* Coming Soon / More Content */}
       <View style={{ marginTop: 32, marginBottom: 40, paddingHorizontal: 20 }}>
         <View style={[styles.comingSoonCard, { backgroundColor: theme.card, borderColor: theme.border }]}>
@@ -8299,6 +8331,56 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
           Wired into every drummer page by #1007 (split 3/3). Self-gates: renders
           null when the drummer shares no gear series with other pros. */}
       <SharedGearDrummersBlock drummer={drummer} theme={theme} />
+
+      {/* Studies internal-linking block - Issue #4766 (phase 3/3 of epic #4763).
+          Self-gates: renders null when this drummer isn't counted in a study's
+          top-ranked brand or reach list. */}
+      {getDrummerStudyLinks(drummerSlug).length > 0 && (
+        <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border }]}>
+          <Text style={[styles.sectionTitle, { color: theme.text }]} accessibilityRole="header">
+            Featured in MetalForge Studies
+          </Text>
+          {getDrummerStudyLinks(drummerSlug).map((link) => (
+            Platform.OS === 'web' ? (
+              <a
+                key={link.studySlug}
+                href={`/studies/${link.studySlug}`}
+                onClick={(e) => {
+                  e.preventDefault();
+                  if (typeof window !== 'undefined') {
+                    window.history.pushState({}, '', `/studies/${link.studySlug}`);
+                    window.dispatchEvent(new PopStateEvent('popstate'));
+                  }
+                }}
+                style={{ textDecoration: 'none', display: 'block', marginBottom: 12 }}
+              >
+                <Text style={[styles.bioMoreLink, { color: theme.primary }]}>📊 {link.studyTitle} →</Text>
+                <Text style={[styles.bioText, { color: theme.secondaryText, marginTop: 2 }]} numberOfLines={2}>
+                  {link.sentence}
+                </Text>
+              </a>
+            ) : (
+              <TouchableOpacity
+                key={link.studySlug}
+                onPress={() => {
+                  if (typeof window !== 'undefined') {
+                    window.history.pushState({}, '', `/studies/${link.studySlug}`);
+                    window.dispatchEvent(new PopStateEvent('popstate'));
+                  }
+                }}
+                accessibilityRole="link"
+                accessibilityLabel={`View study: ${link.studyTitle}`}
+                style={{ marginBottom: 12 }}
+              >
+                <Text style={[styles.bioMoreLink, { color: theme.primary }]}>📊 {link.studyTitle} →</Text>
+                <Text style={[styles.bioText, { color: theme.secondaryText, marginTop: 2 }]} numberOfLines={2}>
+                  {link.sentence}
+                </Text>
+              </TouchableOpacity>
+            )
+          ))}
+        </View>
+      )}
 
       {/* How to Sound Like [Drummer] Guide CTA - Issue #3845 */}
       <SoundLikeGuideCTA
@@ -14551,6 +14633,14 @@ function GenreLandingPage({ genreSlug, drummers, onBack, onSelectDrummer, onNavi
     return Object.values(GENRE_GEAR_GUIDES_SUMMARY).filter(g => candidateKeys.has(g.genre));
   }, [genreSlug]);
 
+  // Studies for this genre (Issue #4766) — matched by the genre's full display
+  // name ("Death Metal"), which is how both study data modules key their
+  // per-genre breakdowns.
+  const genreStudyLinks = useMemo(() => {
+    if (!genre) return [];
+    return getGenreStudyLinks(genre.name);
+  }, [genre]);
+
   // Update SEO meta tags for genre page with complete OG tags (Issue #672)
   useEffect(() => {
     if (Platform.OS === 'web' && typeof document !== 'undefined' && genre) {
@@ -14903,6 +14993,69 @@ function GenreLandingPage({ genreSlug, drummers, onBack, onSelectDrummer, onNavi
                       </Text>
                     </View>
                     <Text style={{ color: theme.accent, fontSize: 18 }}>→</Text>
+                  </TouchableOpacity>
+                );
+              })}
+            </View>
+          </View>
+        )}
+
+        {/* Studies for this Genre (Issue #4766, phase 3/3 of epic #4763) */}
+        {genreStudyLinks.length > 0 && (
+          <View style={[styles.genreSection, { backgroundColor: theme.card, borderColor: theme.border }]}>
+            <Text style={[styles.sectionTitle, { color: theme.text }]}>
+              {genre.name} in Our Studies
+            </Text>
+            <View style={styles.gappedLayout1}>
+              {genreStudyLinks.map((link) => {
+                const studyUrl = `/studies/${link.studySlug}`;
+                const handleStudyPress = () => {
+                  if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                    window.history.pushState({}, '', studyUrl);
+                    window.dispatchEvent(new PopStateEvent('popstate'));
+                  }
+                };
+                const studyRowStyle = [{
+                  backgroundColor: theme.background,
+                  borderColor: theme.border,
+                  borderWidth: 1,
+                  borderRadius: 8,
+                  padding: 12,
+                }];
+
+                return Platform.OS === 'web' ? (
+                  <a
+                    key={link.studySlug}
+                    href={studyUrl}
+                    onClick={(e) => {
+                      e.preventDefault();
+                      handleStudyPress();
+                    }}
+                    style={{ textDecoration: 'none', display: 'block', marginBottom: 8 }}
+                  >
+                    <View style={studyRowStyle}>
+                      <Text style={[styles.drummerName, { color: theme.text, fontSize: 16 }]}>
+                        📊 {link.studyTitle} →
+                      </Text>
+                      <Text style={[styles.bioText, { color: theme.secondaryText, marginTop: 4 }]}>
+                        {link.sentence}
+                      </Text>
+                    </View>
+                  </a>
+                ) : (
+                  <TouchableOpacity
+                    key={link.studySlug}
+                    style={[...studyRowStyle, { marginBottom: 8 }]}
+                    onPress={handleStudyPress}
+                    accessibilityRole="link"
+                    accessibilityLabel={`View study: ${link.studyTitle}`}
+                  >
+                    <Text style={[styles.drummerName, { color: theme.text, fontSize: 16 }]}>
+                      📊 {link.studyTitle} →
+                    </Text>
+                    <Text style={[styles.bioText, { color: theme.secondaryText, marginTop: 4 }]}>
+                      {link.sentence}
+                    </Text>
                   </TouchableOpacity>
                 );
               })}

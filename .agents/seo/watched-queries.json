@@ -1,0 +1,77 @@
+{
+  "_description": "GSC-watched queries — L1 baseline seeds. Superseded as the mechanized L1 loop's input by the v2 scan-all model (.agents/scripts/check-gsc-watched-queries.cjs, see docs/gsc-watch-loop.md) — GSC itself is now the source of truth week over week, so this file is not read by any workflow. It is kept as a manual baseline record for newly-launched content families: each entry captures the query, its target page, and the GSC numbers as of added_at, so a human (or the CEO agent) can eyeball whether a new surface is gaining organic traction without waiting for it to show up unprompted in the scan-all snapshot. To add a new query: copy any entry, fill baseline_* with the numbers as of TODAY (run `node .agents/scripts/check-gsc-watched-queries.cjs --query 'your query' --baseline` to print them — null if not yet available), set added_at to today.",
+  "watches": [
+    {
+      "q": "most used cymbals metal",
+      "target_entity": "studies:most-used-gear-brands-metal",
+      "added_at": "2026-07-17",
+      "baseline_window_days": 7,
+      "baseline_impressions": null,
+      "baseline_clicks": null,
+      "baseline_position": null,
+      "baseline_ctr": null,
+      "source_issue": "#4766",
+      "expected_uplift": "new query capture — /studies/most-used-gear-brands-metal now answers this with a computed brand ranking"
+    },
+    {
+      "q": "average bpm death metal",
+      "target_entity": "studies:metal-tempo-by-subgenre",
+      "added_at": "2026-07-17",
+      "baseline_window_days": 7,
+      "baseline_impressions": null,
+      "baseline_clicks": null,
+      "baseline_position": null,
+      "baseline_ctr": null,
+      "source_issue": "#4766",
+      "expected_uplift": "new query capture — /studies/metal-tempo-by-subgenre now answers this with a computed average BPM"
+    },
+    {
+      "q": "fastest metal genre",
+      "target_entity": "studies:metal-tempo-by-subgenre",
+      "added_at": "2026-07-17",
+      "baseline_window_days": 7,
+      "baseline_impressions": null,
+      "baseline_clicks": null,
+      "baseline_position": null,
+      "baseline_ctr": null,
+      "source_issue": "#4766",
+      "expected_uplift": "new query capture — /studies/metal-tempo-by-subgenre ranks all 16 subgenres by average tempo"
+    },
+    {
+      "q": "most popular drum brand metal",
+      "target_entity": "studies:most-used-gear-brands-metal",
+      "added_at": "2026-07-17",
+      "baseline_window_days": 7,
+      "baseline_impressions": null,
+      "baseline_clicks": null,
+      "baseline_position": null,
+      "baseline_ctr": null,
+      "source_issue": "#4766",
+      "expected_uplift": "new query capture — /studies/most-used-gear-brands-metal answers this with a computed kit-brand ranking"
+    },
+    {
+      "q": "which brand endorses the most metal drummers",
+      "target_entity": "studies:drum-endorsement-landscape",
+      "added_at": "2026-07-17",
+      "baseline_window_days": 7,
+      "baseline_impressions": null,
+      "baseline_clicks": null,
+      "baseline_position": null,
+      "baseline_ctr": null,
+      "source_issue": "#4766",
+      "expected_uplift": "new query capture — /studies/drum-endorsement-landscape ranks brands by roster-wide reach"
+    },
+    {
+      "q": "double bass vs double pedal metal drummers",
+      "target_entity": "studies:metal-kit-configurations",
+      "added_at": "2026-07-17",
+      "baseline_window_days": 7,
+      "baseline_impressions": null,
+      "baseline_clicks": null,
+      "baseline_position": null,
+      "baseline_ctr": null,
+      "source_issue": "#4766",
+      "expected_uplift": "new query capture — /studies/metal-kit-configurations answers this with a computed pedal-configuration breakdown"
+    }
+  ]
+}

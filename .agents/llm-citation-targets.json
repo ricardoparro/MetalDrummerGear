@@ -216,6 +216,24 @@
       "intent": "fact-lookup",
       "target_entity": "band:pantera",
       "priority": "medium"
+    },
+    {
+      "q": "most used drum brand in metal",
+      "intent": "fact-lookup",
+      "target_entity": "studies:most-used-gear-brands-metal",
+      "priority": "high"
+    },
+    {
+      "q": "how fast is death metal bpm",
+      "intent": "fact-lookup",
+      "target_entity": "studies:metal-tempo-by-subgenre",
+      "priority": "high"
+    },
+    {
+      "q": "do metal drummers use double bass or double pedal",
+      "intent": "fact-lookup",
+      "target_entity": "studies:metal-kit-configurations",
+      "priority": "medium"
     }
   ]
 }

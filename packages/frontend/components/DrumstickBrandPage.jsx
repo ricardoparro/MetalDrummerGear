@@ -17,6 +17,7 @@ import {
   generateBrandSchema,
 } from '../data/drumstickBrands';
 import { hasBrand as hasFullBrandPage } from '../data/brands';
+import { getBrandStudyLinks } from '../data/studies/index.js';
 
 function injectSchema(id, schema) {
   if (Platform.OS !== 'web' || typeof document === 'undefined' || !schema) return;
@@ -87,6 +88,7 @@ export function DrumstickBrandPage({
   const theme = themeProp || themes.dark;
   const brand = getBrand(brandSlug);
   const confirmedSticks = brand ? getConfirmedSticksForBrand(brand) : [];
+  const studyLinks = brand ? getBrandStudyLinks(brand.name) : [];
 
   useEffect(() => {
     if (!brand) return;
@@ -198,6 +200,24 @@ export function DrumstickBrandPage({
           </View>
         </CrawlableLink>
       )}
+
+      {studyLinks.map((link) => (
+        <CrawlableLink
+          key={link.studySlug}
+          href={`/studies/${link.studySlug}`}
+          onPress={() => {
+            if (Platform.OS === 'web' && typeof window !== 'undefined') {
+              window.history.pushState({}, '', `/studies/${link.studySlug}`);
+              window.dispatchEvent(new PopStateEvent('popstate'));
+            }
+          }}
+          style={{ marginTop: 12 }}
+        >
+          <View style={[styles.linkCard, { backgroundColor: theme.cardBg || theme.background, borderColor: theme.border }]}>
+            <Text style={[styles.linkCardText, { color: theme.text }]}>📊 {link.sentence}</Text>
+          </View>
+        </CrawlableLink>
+      ))}
 
       <CrawlableLink href="/drumsticks/brands" onPress={onNavigateBrandsHub} style={{ marginTop: 12 }}>
         <View style={[styles.linkCard, { backgroundColor: theme.cardBg || theme.background, borderColor: theme.border }]}>

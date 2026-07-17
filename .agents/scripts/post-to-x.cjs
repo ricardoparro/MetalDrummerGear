@@ -13,9 +13,15 @@
  *      the Event Scanner uses for pages. Links only to KNOWN-GOOD URL shapes:
  *      the event's pageUrl, or /drummer/<slug> for drummer events; album events
  *      without a pageUrl link to the site root (never guess an article URL).
- *   2. Gear spotlight fallback — day-of-year rotation over the verified
- *      drumsticks module (packages/frontend/data/drumsticks.js), linking to the
- *      drummer's page.
+ *   2. Fallback pool — day-of-year rotation between two deterministic
+ *      templates, alternating by day parity:
+ *        - Gear spotlight: rotation over the verified drumsticks module
+ *          (packages/frontend/data/drumsticks.js), linking to the drummer's page.
+ *        - Data drop (issue #4766): rotation over the /studies registry
+ *          (packages/frontend/data/studies/index.js) — one computed headline
+ *          stat + a link to the study, read at runtime from the same
+ *          generator-produced numbers the study pages themselves render
+ *          (never hand-typed here).
  *
  * Env: X_API_KEY, X_API_SECRET, X_ACCESS_TOKEN, X_ACCESS_SECRET (repo secrets).
  *      Missing secrets → exit 0 with a NOT CONFIGURED notice, so the loop stays
@@ -32,6 +38,7 @@ const { nextOccurrence } = require('./scan-events.cjs');
 const SITE = 'https://metalforge.io';
 const CALENDAR_PATH = path.join(__dirname, '..', 'events-calendar.json');
 const STICKS_PATH = path.join(__dirname, '..', '..', 'packages', 'frontend', 'data', 'drumsticks.js');
+const STUDIES_PATH = path.join(__dirname, '..', '..', 'packages', 'frontend', 'data', 'studies', 'index.js');
 
 // RFC 3986 percent-encoding (encodeURIComponent misses !*'())
 const pct = (s) => encodeURIComponent(s).replace(/[!*'()]/g, (c) => '%' + c.charCodeAt(0).toString(16).toUpperCase());
@@ -120,6 +127,31 @@ async function composeSpotlight(now) {
   return tweetLen(text) <= 280 ? text : `⚙️ Gear check: ${name} plays the ${s.brand} ${s.model}.\n\n${SITE}/drummer/${s.drummerSlug}\n\n#DrumGear #MetalDrumming`;
 }
 
+// Issue #4766 (phase 3/3 of the studies epic, #4763): "data drop" fallback —
+// one computed headline stat per study, day-of-year rotation over the
+// /studies registry. The stat text (value/label/sentence) is read at runtime
+// from packages/frontend/data/studies/index.js, which itself computes it from
+// the studies stats engine (scripts/compute-studies.cjs) — never hand-typed
+// here, same rule composeSpotlight already follows for gear facts.
+async function composeDataDrop(now) {
+  const mod = await import(pathToFileURL(STUDIES_PATH).href);
+  const studies = mod.STUDIES;
+  if (!studies || !studies.length) return null;
+  const dayIndex = Math.floor(Date.UTC(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate()) / 86400000);
+  const study = studies[dayIndex % studies.length];
+  const { value, label, sentence } = study.headlineStat;
+  const url = `${SITE}/studies/${study.slug}`;
+  const text = `📊 Data drop: ${value} — ${label}\n\n${sentence}\n\nFull study → ${url}\n\n#MetalDrumming #DataDrop`;
+  return tweetLen(text) <= 280 ? text : `📊 Data drop: ${value} — ${label}\n\n${url}\n\n#MetalDrumming #DataDrop`;
+}
+
+// Fallback pool (issue #4766): alternates gear spotlight and studies data drop
+// by day parity so the same template doesn't post every single day.
+async function composeFallback(now) {
+  const dayIndex = Math.floor(Date.UTC(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate()) / 86400000);
+  return dayIndex % 2 === 0 ? composeSpotlight(now) : composeDataDrop(now);
+}
+
 function stepSummary(line) {
   if (process.env.GITHUB_STEP_SUMMARY) fs.appendFileSync(process.env.GITHUB_STEP_SUMMARY, line + '\n');
 }
@@ -136,10 +168,11 @@ async function main() {
   const kindOrder = { 'death-anniversary': 0, 'album-release': 1, 'brand-founded': 2, birth: 3 };
   todays.sort((a, b) => (kindOrder[a.ev.kind] ?? 9) - (kindOrder[b.ev.kind] ?? 9));
 
-  const text = todays.length ? composeEventPost(todays[0].ev, todays[0].occ) : await composeSpotlight(now);
+  const text = todays.length ? composeEventPost(todays[0].ev, todays[0].occ) : await composeFallback(now);
   if (!text) { console.log('[x-agent] nothing to post today'); return; }
 
-  console.log(`[x-agent] composed (${tweetLen(text)}/280 chars${todays.length ? `, event: ${todays[0].ev.id}` : ', spotlight'}):\n---\n${text}\n---`);
+  const source = todays.length ? `event: ${todays[0].ev.id}` : (text.startsWith('📊') ? 'data drop' : 'spotlight');
+  console.log(`[x-agent] composed (${tweetLen(text)}/280 chars, ${source}):\n---\n${text}\n---`);
   if (dryRun) { console.log('[x-agent] dry-run — not posting'); return; }
 
   const creds = {
@@ -159,7 +192,7 @@ async function main() {
   stepSummary(`## 📱 X Agent\nPosted: https://x.com/MetalDrumGear/status/${id}\n\n> ${text.replace(/\n/g, '\n> ')}`);
 }
 
-module.exports = { composeEventPost, composeSpotlight, pickFact, tweetLen, oauthHeader };
+module.exports = { composeEventPost, composeSpotlight, composeDataDrop, composeFallback, pickFact, tweetLen, oauthHeader };
 
 if (require.main === module) {
   main().catch((e) => { console.error(`FATAL: ${e.stack || e.message}`); process.exit(1); });

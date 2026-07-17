@@ -8,6 +8,7 @@
 //   /api/card/lars-ulrich?type=spotlight    → Signature gear spotlight
 
 import { ImageResponse } from '@vercel/og';
+import { STUDIES } from '../../packages/frontend/data/studies/index.js';
 
 export const config = {
   runtime: 'edge',
@@ -401,26 +402,32 @@ export default async function handler(req) {
     const download = url.searchParams.get('download') === 'true';
     
     const drummer = drummers[slug];
-    
-    if (!drummer) {
-      return new Response(JSON.stringify({ 
-        error: 'Drummer not found', 
+    const study = !drummer ? STUDIES.find((s) => s.slug === slug) : null;
+
+    if (!drummer && !study) {
+      return new Response(JSON.stringify({
+        error: 'Card not found',
         slug,
-        available: Object.keys(drummers) 
-      }), { 
+        available: Object.keys(drummers),
+        availableStudies: STUDIES.map((s) => s.slug),
+      }), {
         status: 404,
         headers: { 'Content-Type': 'application/json' }
       });
     }
-    
+
     // Dimensions based on format
-    const dimensions = format === 'twitter' 
+    const dimensions = format === 'twitter'
       ? { width: 1200, height: 675 }
       : { width: 1080, height: 1080 };
 
     // Generate the appropriate card type
     let imageResponse;
-    if (type === 'stats') {
+    if (study) {
+      // Studies get one card style — the headline stat is the whole point of
+      // sharing a study, so there's no full/stats/spotlight split here.
+      imageResponse = generateStudyCard(study, dimensions);
+    } else if (type === 'stats') {
       imageResponse = generateStatsCard(drummer, dimensions);
     } else if (type === 'spotlight') {
       imageResponse = generateSpotlightCard(drummer, dimensions);
@@ -431,21 +438,22 @@ export default async function handler(req) {
     // Add caching and download headers
     const response = await imageResponse;
     const headers = new Headers(response.headers);
-    
+
     // Cache for 1 hour on CDN, allow stale for 24 hours while revalidating
     headers.set('Cache-Control', 'public, s-maxage=3600, stale-while-revalidate=86400');
-    
+
     // Add Content-Disposition for downloads
     if (download) {
-      const filename = `${drummer.name.toLowerCase().replace(/\s+/g, '-')}-gear-card-${format}.png`;
+      const filenameBase = study ? study.slug : drummer.name.toLowerCase().replace(/\s+/g, '-');
+      const filename = `${filenameBase}-${study ? 'study' : 'gear'}-card-${format}.png`;
       headers.set('Content-Disposition', `attachment; filename="${filename}"`);
     }
-    
+
     // Add meta headers for tracking
-    headers.set('X-Drummer-Slug', slug);
+    headers.set(study ? 'X-Study-Slug' : 'X-Drummer-Slug', slug);
     headers.set('X-Card-Format', format);
-    headers.set('X-Card-Type', type);
-    
+    headers.set('X-Card-Type', study ? 'study' : type);
+
     return new Response(response.body, {
       status: 200,
       headers,
@@ -931,7 +939,141 @@ function generateSpotlightCard(drummer, dimensions) {
             💰 {formatCurrency(drummer.stats.totalCost)} Total Setup
           </span>
         </div>
-        
+
+        {/* MetalForge branding */}
+        <div
+          style={{
+            position: 'absolute',
+            bottom: 36,
+            display: 'flex',
+            alignItems: 'center',
+          }}
+        >
+          <span style={{ fontSize: 28, fontWeight: 'bold', color: BRAND.primary }}>
+            🔥 MetalForge.io
+          </span>
+        </div>
+      </div>
+    ),
+    dimensions
+  );
+}
+
+// Study Card — headline stat from a /studies page, for Reddit/X/Discord shares.
+// The stat (value/label/sentence) comes from packages/frontend/data/studies/index.js,
+// which computes it from the studies stats engine (scripts/compute-studies.cjs) —
+// never hand-typed here.
+function generateStudyCard(study, dimensions) {
+  const { width, height } = dimensions;
+  const isSquare = width === height;
+  const { headlineStat } = study;
+
+  return new ImageResponse(
+    (
+      <div
+        style={{
+          height: '100%',
+          width: '100%',
+          display: 'flex',
+          flexDirection: 'column',
+          alignItems: 'center',
+          justifyContent: 'center',
+          backgroundColor: BRAND.background,
+          backgroundImage: `linear-gradient(135deg, ${BRAND.gradient1} 0%, ${BRAND.background} 50%, ${BRAND.gradient2} 100%)`,
+          fontFamily: 'system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif',
+        }}
+      >
+        {/* Decorative circles */}
+        <div
+          style={{
+            position: 'absolute',
+            top: -100,
+            right: -100,
+            width: 300,
+            height: 300,
+            borderRadius: '50%',
+            background: `${BRAND.primary}10`,
+            display: 'flex',
+          }}
+        />
+        <div
+          style={{
+            position: 'absolute',
+            bottom: -50,
+            left: -50,
+            width: 200,
+            height: 200,
+            borderRadius: '50%',
+            background: `${BRAND.secondary}10`,
+            display: 'flex',
+          }}
+        />
+
+        {/* Eyebrow */}
+        <div
+          style={{
+            display: 'flex',
+            marginBottom: 24,
+            padding: '10px 24px',
+            backgroundColor: 'rgba(255, 255, 255, 0.05)',
+            borderRadius: 50,
+          }}
+        >
+          <span style={{ fontSize: 20, color: BRAND.textMuted, textTransform: 'uppercase', letterSpacing: 2 }}>
+            📊 MetalForge Study
+          </span>
+        </div>
+
+        {/* Headline stat — the whole point of the share */}
+        <span
+          style={{
+            fontSize: isSquare ? 140 : 120,
+            fontWeight: 'bold',
+            color: BRAND.primary,
+            textAlign: 'center',
+            lineHeight: 1,
+            marginBottom: 20,
+            letterSpacing: '-2px',
+          }}
+        >
+          {headlineStat.value}
+        </span>
+
+        {/* Stat label */}
+        <span
+          style={{
+            fontSize: isSquare ? 34 : 30,
+            color: BRAND.text,
+            fontWeight: '600',
+            textAlign: 'center',
+            marginBottom: 40,
+            maxWidth: isSquare ? 820 : 980,
+          }}
+        >
+          {headlineStat.label}
+        </span>
+
+        {/* Study title badge */}
+        <div
+          style={{
+            display: 'flex',
+            padding: '16px 36px',
+            backgroundColor: `${BRAND.secondary}15`,
+            borderRadius: 24,
+            border: `2px solid ${BRAND.secondary}40`,
+            maxWidth: isSquare ? 780 : 940,
+          }}
+        >
+          <span style={{ fontSize: isSquare ? 22 : 20, color: BRAND.secondary, textAlign: 'center', fontWeight: '600' }}>
+            {study.title}
+          </span>
+        </div>
+
+        {/* Dataset size */}
+        <span style={{ fontSize: 18, color: BRAND.textMuted, marginTop: 20 }}>
+          Across {study.datasetSize} {study.datasetUnit} — MetalForge.io/studies
+        </span>
+
         {/* MetalForge branding */}
         <div
           style={{

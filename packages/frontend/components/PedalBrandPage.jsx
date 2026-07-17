@@ -17,6 +17,7 @@ import {
   generateBrandSchema,
 } from '../data/pedalBrands';
 import { hasBrand as hasFullBrandPage } from '../data/brands';
+import { getBrandStudyLinks } from '../data/studies/index.js';
 
 function injectSchema(id, schema) {
   if (Platform.OS !== 'web' || typeof document === 'undefined' || !schema) return;
@@ -86,6 +87,7 @@ export function PedalBrandPage({
   const theme = themeProp || themes.dark;
   const brand = getBrand(brandSlug);
   const confirmedPedals = brand ? getPedalsForBrand(brand) : [];
+  const studyLinks = brand ? getBrandStudyLinks(brand.name) : [];
 
   useEffect(() => {
     if (!brand) return;
@@ -193,6 +195,24 @@ export function PedalBrandPage({
           </View>
         </CrawlableLink>
       )}
+
+      {studyLinks.map((link) => (
+        <CrawlableLink
+          key={link.studySlug}
+          href={`/studies/${link.studySlug}`}
+          onPress={() => {
+            if (Platform.OS === 'web' && typeof window !== 'undefined') {
+              window.history.pushState({}, '', `/studies/${link.studySlug}`);
+              window.dispatchEvent(new PopStateEvent('popstate'));
+            }
+          }}
+          style={{ marginTop: 10 }}
+        >
+          <View style={[styles.linkCard, { backgroundColor: theme.cardBg || theme.background, borderColor: theme.border }]}>
+            <Text style={[styles.linkCardText, { color: theme.text }]}>📊 {link.sentence}</Text>
+          </View>
+        </CrawlableLink>
+      ))}
 
       <CrawlableLink href="/pedals/best-for-metal" onPress={onNavigateBestForMetal} style={{ marginTop: 10 }}>
         <View style={[styles.linkCard, { backgroundColor: theme.cardBg || theme.background, borderColor: theme.border }]}>

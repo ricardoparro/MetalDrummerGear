@@ -3439,6 +3439,9 @@ export function getMetaForPath(pathname) {
       // Issue #4779: prefer the curated Wikipedia URL from extendedBios sources
       // over guessing one from the display name (wrong/dead links for stage names).
       const wikiSource = extBio?.sections?.sources?.items?.find(i => i.name?.startsWith('Wikipedia:'));
+      // Issue #4821: hand-curated birthDate/deathDate already imported for the
+      // /birthdays hub — never wired into this page's Person JSON-LD.
+      const birthdayEntry = drummerBirthdays.find(b => b.slug === slug);
       // Issue #1163: question-led, query-matched description ("What drum kit does
       // X play?") — promotes Joey's hand-override pattern to the default template.
       const bandText = drummer.band ? `${drummer.band} ` : '';
@@ -3520,6 +3523,8 @@ export function getMetaForPath(pathname) {
                 : undefined,
               url: `${BASE_URL}/drummer/${slug}`,
               image: `${BASE_URL}/api/card/${slug}?format=twitter`,
+              ...(birthdayEntry?.birthDate ? { birthDate: birthdayEntry.birthDate } : {}),
+              ...(birthdayEntry?.deathDate ? { deathDate: birthdayEntry.deathDate } : {}),
               ...(drummer.band ? {
                 memberOf: {
                   '@type': 'MusicGroup',
@@ -4963,6 +4968,9 @@ export function getMetaForPath(pathname) {
           ];
       // Issue #4687: bot-facing Quick Facts table — mirrors the fields already
       // surfaced in public/llms/drummers/<slug>.md, missing from this SSR shell.
+      // Issue #4821: hand-curated birthDate/deathDate already imported for the
+      // /birthdays hub — never wired into this page's Person JSON-LD.
+      const birthdayEntry = drummerBirthdays.find(b => b.slug === slug);
       const quickFacts = [
         { label: 'Band', value: drummer.band },
         drummer.bands?.length > 1
@@ -5011,6 +5019,8 @@ export function getMetaForPath(pathname) {
                 : undefined,
               url: `${BASE_URL}/drummer/${slug}`,
               image: `${BASE_URL}/api/card/${slug}?format=twitter`,
+              ...(birthdayEntry?.birthDate ? { birthDate: birthdayEntry.birthDate } : {}),
+              ...(birthdayEntry?.deathDate ? { deathDate: birthdayEntry.deathDate } : {}),
               ...(drummer.band ? { memberOf: { '@type': 'MusicGroup', name: drummer.band } } : {}),
               sameAs: [
                 wikiSource?.url || `https://en.wikipedia.org/wiki/${encodeURIComponent(drummer.name.replace(/ /g, '_'))}`,

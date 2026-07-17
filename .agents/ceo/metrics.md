@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-16 23:17 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-17 00:23 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,61 +8,60 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 436 |
-| Sessions | 463 |
-| Page views | 627 |
-| Engagement rate | 30.89% |
-| Avg session (s) | 143 |
+| Active users | 411 |
+| Sessions | 435 |
+| Page views | 584 |
+| Engagement rate | 27.82% |
+| Avg session (s) | 156 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 122 | 82 |
+| / | 123 | 84 |
 | /drumsticks | 43 | 35 |
 | /drummer/lars-ulrich | 40 | 40 |
 | /cymbals | 34 | 34 |
 | /lists/fastest-metal-drummers | 22 | 22 |
 | /articles/master-of-puppets-drum-setup | 21 | 21 |
 | /drummers | 14 | 2 |
-| /drummer/danny-carey | 10 | 8 |
-| /drummer/matt-greiner | 10 | 8 |
 | /gear/sticks | 8 | 1 |
+| /drummer/jay-weinberg | 7 | 2 |
+| /drummer/matt-greiner | 7 | 6 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Direct | 291 | 281 |
-| Organic Search | 164 | 149 |
-| Unassigned | 30 | 28 |
+| Direct | 285 | 275 |
+| Organic Search | 141 | 129 |
+| Unassigned | 31 | 29 |
 | Cross-network | 1 | 1 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 5,882 |
-| Clicks | 115 |
-| CTR | 1.96% |
-| Avg position | 10.4 |
+| Impressions | 4,946 |
+| Clicks | 88 |
+| CTR | 1.78% |
+| Avg position | 10.7 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| bill ward drum kit | 43 | 2 | 4.65% | 8.1 |
-| matt garstka drum kit | 17 | 2 | 11.76% | 7.0 |
 | best heavy metal drummers of all time | 3 | 1 | 33.33% | 9.3 |
 | best metal drummers | 9 | 1 | 11.11% | 17.7 |
-| bill ward drum setup | 9 | 1 | 11.11% | 6.1 |
-| danny carey drum set | 71 | 1 | 1.41% | 11.3 |
-| drum heads for metal | 3 | 1 | 33.33% | 28.3 |
-| eloy casagrande bill ward | 7 | 1 | 14.29% | 8.4 |
-| fastest double bass | 4 | 1 | 25.00% | 6.3 |
+| bill ward drum kit | 21 | 1 | 4.76% | 9.0 |
+| danny carey drum set | 57 | 1 | 1.75% | 11.3 |
+| fastest double bass | 3 | 1 | 33.33% | 6.0 |
 | inferno drum kit | 1 | 1 | 100.00% | 6.0 |
+| joey jordison drum set | 33 | 1 | 3.03% | 11.7 |
+| limp bizkit drum set | 2 | 1 | 50.00% | 5.0 |
+| matt greiner drum setup | 11 | 1 | 9.09% | 7.4 |
+| portnoy kit | 2 | 1 | 50.00% | 12.0 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 | Query | Impr | CTR | Pos | Action |
 | --- | --- | --- | --- | --- |
-| danny carey drum set | 71 | 1.41% | 11.3 | open issue to answer better |
-| joey jordison drum set | 51 | 1.96% | 10.7 | open issue to answer better |
+| danny carey drum set | 57 | 1.75% | 11.3 | open issue to answer better |
 
 ---
 *Re-run manually: `node .agents/scripts/fetch-metrics.cjs`*

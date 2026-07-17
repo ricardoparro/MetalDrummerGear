@@ -4150,6 +4150,23 @@ export function getMetaForPath(pathname) {
           url: `${BASE_URL}/lists/${list.slug}`,
         })),
       }),
+      // Issue #4810: FAQPage JSON-LD — /lists is sitemap priority 0.9 and was
+      // the last major hub missing the CollectionPage + FAQPage pairing
+      // already applied to /history, /battles, /drummers, and /spotlights.
+      faqSchema: [
+        {
+          question: 'What do the Top 10 Metal Drummer Lists cover?',
+          answer: 'MetalForge\'s Top 10 lists rank the best metal drummers by speed, technique, and genre — including fastest blast beats, best double bass work, and most innovative playing.',
+        },
+        {
+          question: 'How are the drummer rankings determined?',
+          answer: 'Each list is ranked using its own documented methodology and criteria, detailed on that list\'s page — covering factors like recorded tempo, technical complexity, and genre influence.',
+        },
+        {
+          question: 'How many Top 10 drummer lists does MetalForge have?',
+          answer: `MetalForge currently publishes ${Object.values(TOP_10_LISTS).length} Top 10 metal drummer lists, each ranking drummers across a different speed, technique, or genre category.`,
+        },
+      ],
       breadcrumbSchema: [
         { name: 'Home', url: BASE_URL },
         { name: 'Top 10 Lists', url: `${BASE_URL}/lists` },
@@ -4853,6 +4870,23 @@ export function getMetaForPath(pathname) {
         publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
         about: { '@type': 'Thing', name: 'Metal Drumming' },
       }),
+      // Issue #4810: FAQPage JSON-LD — /facts was the last hub missing the
+      // CollectionPage + FAQPage pairing already applied to /history,
+      // /battles, /drummers, and /spotlights.
+      faqSchema: [
+        {
+          question: 'What kind of metal drummer facts does MetalForge cover?',
+          answer: 'MetalForge\'s quick facts hub covers records, stats, and trivia about metal drummers — fastest blast beats, most expensive kits, career milestones, and gear stats from 67 pros.',
+        },
+        {
+          question: 'What are some notable metal drumming records?',
+          answer: 'Notable records include George Kollias\'s blast beat speed, Bill Ward\'s role as one of the earliest heavy metal drummers, and Dave Lombardo\'s influence on thrash metal drumming — see full profiles at /drummer/george-kollias, /drummer/bill-ward, and /drummer/dave-lombardo.',
+        },
+        {
+          question: 'How does MetalForge source and verify its drummer facts?',
+          answer: 'MetalForge\'s facts and records are drawn from documented gear setups, career histories, and public interviews tied to each drummer\'s full profile, cross-referenced across the site\'s drummer database.',
+        },
+      ],
       breadcrumbSchema: [
         { name: 'Home', url: BASE_URL },
         { name: 'Quick Facts', url: `${BASE_URL}/facts` },

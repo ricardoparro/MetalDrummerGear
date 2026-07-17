@@ -1778,6 +1778,8 @@ export function getMetaForPath(pathname) {
           { question: `What drum kit does ${d2.name} use?`, answer: `${d2.name} uses ${d2.gear?.drums || 'a custom drum kit'} with ${d2.gear?.cymbals || 'cymbal setup'}.` },
           { question: `Which is better, ${d1.name} or ${d2.name}?`, answer: `Both ${d1.name} (${d1.band}) and ${d2.name} (${d2.band}) are legendary metal drummers. Compare their complete gear setups on MetalForge.` },
         ],
+        speakableSchema: true,
+        speakableCssSelector: ['h1', 'h2', 'p'],
       };
     }
   }
@@ -1848,6 +1850,8 @@ export function getMetaForPath(pathname) {
           },
         ],
       }),
+      speakableSchema: true,
+      speakableCssSelector: ['h1', 'h2', 'p'],
     };
   }
 

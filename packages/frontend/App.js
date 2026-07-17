@@ -957,6 +957,46 @@ function isDrumChairChangesPage() {
   return pathname === '/bands/drum-chair-changes' || pathname === '/bands/drum-chair-changes/';
 }
 
+// Songs hub + tempo/drummer list pages (Issue #4760, phase 2/4 of epic #4758) -
+// /songs, /songs/fastest-metal-songs, /songs/tempo/<tier>, /songs/drummer/<slug>.
+// Routed purely off the live URL, same convention as isStudiesHubPage() above.
+// data/metalSongsBpm.js is only ever imported from these lazy chunks, never
+// from App.js's top level, so it never loads on the homepage bundle.
+const LazySongsHubPage = lazy(() => import('./pages/SongsHubPage').then(m => ({ default: m.SongsHubPage })));
+const LazyFastestMetalSongsPage = lazy(() => import('./pages/SongsListPages').then(m => ({ default: m.FastestMetalSongsPage })));
+const LazySongsTempoTierPage = lazy(() => import('./pages/SongsListPages').then(m => ({ default: m.SongsTempoTierPage })));
+const LazySongsByDrummerPage = lazy(() => import('./pages/SongsListPages').then(m => ({ default: m.SongsByDrummerPage })));
+const SONGS_TEMPO_TIER_SLUGS = new Set(['doom', 'groove', 'thrash', 'extreme', 'blast']);
+function isSongsHubPage() {
+  if (typeof window === 'undefined') return false;
+  const pathname = window.location.pathname;
+  return pathname === '/songs' || pathname === '/songs/';
+}
+function isFastestMetalSongsPage() {
+  if (typeof window === 'undefined') return false;
+  const pathname = window.location.pathname;
+  return pathname === '/songs/fastest-metal-songs' || pathname === '/songs/fastest-metal-songs/';
+}
+function isSongsTempoTierPage() {
+  if (typeof window === 'undefined') return false;
+  const match = window.location.pathname.match(/^\/songs\/tempo\/([a-z0-9-]+)\/?$/i);
+  return !!match && SONGS_TEMPO_TIER_SLUGS.has(match[1].toLowerCase());
+}
+function getSongsTempoTierSlugFromURL() {
+  if (typeof window === 'undefined') return null;
+  const match = window.location.pathname.match(/^\/songs\/tempo\/([a-z0-9-]+)\/?$/i);
+  return match ? match[1].toLowerCase() : null;
+}
+function isSongsByDrummerPage() {
+  if (typeof window === 'undefined') return false;
+  return /^\/songs\/drummer\/[a-z0-9-]+\/?$/i.test(window.location.pathname);
+}
+function getSongsDrummerSlugFromURL() {
+  if (typeof window === 'undefined') return null;
+  const match = window.location.pathname.match(/^\/songs\/drummer\/([a-z0-9-]+)\/?$/i);
+  return match ? match[1].toLowerCase() : null;
+}
+
 // Signature Stick Pages (Issue #4138, phase 3/4 of epic #4135) - /drumsticks/signature/<drummer>
 // Targets "what sticks does <drummer> use". Only rendered for drummers with a confirmed
 // mapping in data/drumsticks.js (DRUMMER_STICKS) — an unmapped slug falls through to the
@@ -29843,6 +29883,42 @@ setShowList(false);
       return (
         <Suspense fallback={<PageLoadingSkeleton theme={theme} />}>
           <LazyDrumChairChangesPage drummers={drummers} />
+        </Suspense>
+      );
+    }
+
+    // Songs hub (Issue #4760, phase 2/4 of epic #4758) - /songs
+    if (isSongsHubPage()) {
+      return (
+        <Suspense fallback={<PageLoadingSkeleton theme={theme} />}>
+          <LazySongsHubPage drummers={drummers} />
+        </Suspense>
+      );
+    }
+
+    // Fastest metal songs flagship (Issue #4760) - /songs/fastest-metal-songs
+    if (isFastestMetalSongsPage()) {
+      return (
+        <Suspense fallback={<PageLoadingSkeleton theme={theme} />}>
+          <LazyFastestMetalSongsPage drummers={drummers} />
+        </Suspense>
+      );
+    }
+
+    // Tempo tier pages (Issue #4760) - /songs/tempo/<tier>
+    if (isSongsTempoTierPage()) {
+      return (
+        <Suspense fallback={<PageLoadingSkeleton theme={theme} />}>
+          <LazySongsTempoTierPage tierSlug={getSongsTempoTierSlugFromURL()} drummers={drummers} />
+        </Suspense>
+      );
+    }
+
+    // By-drummer song list pages (Issue #4760) - /songs/drummer/<slug>
+    if (isSongsByDrummerPage()) {
+      return (
+        <Suspense fallback={<PageLoadingSkeleton theme={theme} />}>
+          <LazySongsByDrummerPage drummerSlug={getSongsDrummerSlugFromURL()} drummers={drummers} />
         </Suspense>
       );
     }

@@ -1889,3 +1889,39 @@ Searched `gh issue list --state all --search` for "brands ssrLinks", "drumsticks
 - Watch #4766 (studies phase 3/3: llms mirrors, OG cards, internal links) and #4790 (studies FAQPage) ship — once both land plus #4793, the `/studies` family reaches full completeness parity with older content families (only remaining gap class found this run, and it's now fully covered by 3 non-overlapping issues).
 - The site remains extremely deeply mined outside of the newest `/studies` family — future runs should keep prioritizing first-principles schema-property spot-checks and regression-hunting over broad sweeps, per the established pattern.
 - Bank now at 6 (1 fresh + 2 already-promoted + 3 umbrella) — healthy, well under the 45 floor.
+
+---
+## 2026-07-17 03:xx (2-hourly run) — Bank at 8, filed 4 fresh property-completeness proposals (bank 8→12)
+
+**Bank check:** `gh issue list --state open --label seo-proposal` = 8 at run start (#4789/#4790/#4793 already promoted to `ai-fix` per prior decisions-log entries + #4794/#4795 filed 00:32-00:33 UTC by the prior run + 3 standing umbrella trackers #2211/#3810/#3819). Zero genuinely untriaged. Well under the 45 floor, cleared to file up to 8. Today is Friday (not Monday) — drum-chair watch section skipped.
+
+**Audit:** robots.txt 8/8 AI crawlers explicitly allowed. Sitemap 6,523 `<loc>` entries live. `public/llms/*.md` = 1,883 files, index/faq/gear-guide all present. Bot-UA (`ClaudeBot`) curl on homepage/`/drummer/lars-ulrich`/an article page: all 200, correct JSON-LD (Organization/WebSite/SearchAction on homepage; Person/MusicGroup/FAQPage/BreadcrumbList + 1 Quick Facts `<table>` on the drummer page; Article/FAQPage/Speakable on the article). Lighthouse SEO (headless): homepage 100/100, drummer page 100/100. No regressions found.
+
+**Metrics** (refreshed 2026-07-17 03:01 UTC): 411 users/435 sessions/585 views 7d (organic = 141/435 ≈ 32.4%, still highest-engagement channel per CEO mandate). GSC: 4,946 impr/88 clicks/1.78% CTR/pos 10.7. One content-gap row: `danny carey drum set` (57 impr, 1.75% CTR, pos 11.3) — already worked via #4739/#4746 (shipped); CTR has been climbing (1.41%→1.75% across the last 2 snapshots) as the fix propagates through re-crawl, just not yet over the 2% bar. Not re-filed — this is convergence-in-progress, not a fresh gap; watch next snapshot for it to clear.
+
+**Fresh gaps found (dispatched an Explore agent with the full mined-history exclusion list, then independently grep/node-verified every candidate before filing — 2 of the agent's 6 raw candidates were dropped as false positives/non-gaps on verification):**
+- **#4796** — `MusicGroup` JSON-LD on all 35 `/bands/<slug>` pages never sets `foundingDate`/`description`, despite every entry in `bands.js` already having `formed`/`summary` populated (grep-confirmed 35/35). Deliberately scoped out `dissolutionDate` — only 2 of the 4 `status: "disbanded"` bands (Sepultura, Damageplan) have an explicit end year stated in prose; guessing the other 2 (Slayer, Death) would be fabricated data, so the issue explicitly tells the implementer to omit rather than invent.
+- **#4797** — `VideoObject` on lick pages never sets `duration`, despite 30 of 580 lick entries (verified via a full Node loop over all 68 per-drummer files, not a sample) already having real `video.startTime`/`endTime` clip timestamps that convert directly to an ISO 8601 duration. Cross-referenced already-open #4771 (video sitemap `<video:video><duration>` extension) so whichever lands first, the other reuses the same computation instead of diverging.
+- **#4798** — `/technique/<slug>` `VideoObject` (only 2 of 29 techniques have a video, verified via node) never sets `uploadDate` — this exact codebase already has a comment on the sibling lick-page `VideoObject` block calling this field "REQUIRED by Google for VideoObject" and citing the Search-Console-critical-error class it causes; the technique-page block was written without it, missing the same lesson already documented elsewhere in the same file.
+- **#4799** — `isAccessibleForFree` is absent sitewide (`grep -c` → 0) from the one shared `generateArticleSchema()` function that renders every object-literal `Article`-typed page (~200+ pages: drummer profiles, articles, genre guides, top-10 lists, etc.) — a single-line, zero-risk addition since the site has no paywalled content.
+
+**Dropped as false positives on verification (not filed):** the Explore agent's "studies Article schema missing author/byline" claim — checked `generateArticleSchema()`'s fallback (`meta.articleSchema.author || 'MetalForge'` wrapped as Organization) and confirmed this is the same standard fallback every other data-driven content type (genre guides, top-10 lists) already uses when no named author override exists; not a studies-specific gap, just the expected shared behavior. Also dropped "VideoObject transcript" — would require synthesizing prose from unrelated fields (`steps`/`gearUsed`), which reads as fabricating a transcript rather than surfacing existing data; not proposed.
+
+Searched `gh issue list --state all --search` for `MusicGroup foundingDate`, `dissolutionDate`, `VideoObject duration`, `uploadDate technique`, `isAccessibleForFree` before filing — no duplicates; only near-miss was #4771 (distinct scope, cross-referenced in #4797).
+
+### Proposals filed this run
+1. #4796 — SEO batch: MusicGroup schema on /bands/<slug> missing foundingDate + description (35 pages)
+2. #4797 — SEO batch: VideoObject missing duration property on 30 lick pages with real clip timestamps
+3. #4798 — SEO: /technique/<slug> VideoObject missing required uploadDate field (2 pages)
+4. #4799 — SEO: add isAccessibleForFree to shared generateArticleSchema() (sitewide, single-line)
+
+### Open proposals waiting on CEO triage
+- #4796, #4797, #4798, #4799 (filed this run, 0d old)
+- #4794, #4795 (filed prior run, 0d old, still untriaged per bank check)
+- #4789, #4790, #4793 (already promoted to `ai-fix` — in Roadie's queue, not stuck)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers, not real proposals, left as-is per established convention
+
+### Next run
+- Watch #4796-4799 through CEO triage; #4797 explicitly cross-references #4771 (already ai-fix) to avoid divergent duration computations if both ship close together.
+- Watch `danny carey drum set` content-gap row for CTR to cross 2% next snapshot (currently 1.75%, climbing) — no action needed unless it stalls or reverses.
+- Bank now at 12 (4 fresh + 2 prior-run fresh + 3 already-promoted + 3 umbrella) — healthy, well under the 45 floor.

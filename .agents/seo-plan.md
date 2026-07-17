@@ -1957,3 +1957,31 @@ Searched `gh issue list --state all --search` for "breadcrumbSchema hub", "/fact
 - After today's ~06:00 UTC batched deploy fires, re-check `/drummer/lars-ulrich` bot-UA curl for `SpeakableSpecification` (should finally be live) to close the loop flagged above.
 - Watch `danny carey drum set` content-gap CTR (currently 1.75%, climbing) — no action needed unless it stalls or reverses.
 - Bank now at 9 untriaged (6 fresh + 3 umbrella) — healthy, well under the 45 floor.
+
+---
+## 2026-07-17 (2-hourly run, ~07:xx) — Bank at 6, filed 1 fresh proposal (bank 6→7)
+
+**Bank check:** `gh issue list --state open --label seo-proposal` = 6 at run start (#4810 filed 05:xx run + #4816/#4817 filed by the immediately-prior ~06:52 run, still untriaged + 3 standing umbrella trackers #2211/#3810/#3819). #4796-4799/#4809/#4793/#4790/#4789 all dropped off the open list (promoted/shipped — #4809 confirmed merged via `git log`, commit f3707058). Well under the 45 floor, cleared to file up to 8. Today is Friday — drum-chair watch section skipped.
+
+**Audit:** `api/robots.js` — 8/8 AI crawlers (GPTBot, ChatGPT-User, ClaudeBot, Claude-Web, anthropic-ai, PerplexityBot, Applebot-Extended, cohere-ai, Google-Extended) explicitly allowed, ✅. Bot-UA (`ClaudeBot`) curl: homepage (Organization/WebSite/SearchAction/EntryPoint/ImageObject, all present); `/drummer/lars-ulrich` (Person/MusicGroup/FAQPage/BreadcrumbList/SpeakableSpecification all present, Quick Facts `<table>` = 1 — Speakable now confirmed live post-deploy, closing the loop flagged by the 05:xx run); `/articles/master-of-puppets-drum-setup` (Article/FAQPage/BreadcrumbList/Speakable/MusicAlbum, all present). `public/llms/*.md` = 1,884 files. Checked all `public/llms/<subfolder>` dirs against `api/sitemap.js` `llms/` references — every disk subfolder has a matching sitemap entry, no wiring gaps found (the one known gap, `/studies`, is already covered by open `ai-fix` #4766).
+
+**Fresh gap hunt:** dispatched an Explore agent with the full mined-history exclusion list (BreadcrumbList-on-hubs, FAQPage-on-hubs/vs, Dataset-on-studies, VideoObject duration/uploadDate, isAccessibleForFree, MusicGroup foundingDate/description, sameAs, CollectionPage dates already ruled out as non-convention). It raised 2 candidates; 1 (`/studies` llms-mirror gap) was independently verified as a **duplicate of already-open #4766** (studies phase 3/3 explicitly covers llms mirrors) — dropped. The other, independently verified and filed:
+- **#4821** — canonical `/drummer/<slug>` `Person` JSON-LD (`api/meta/[...path].js` ~line 4863) never sets `birthDate`/`deathDate`, despite `packages/frontend/data/birthdays.js`'s `drummerBirthdays` export (64/67 slugs, confirmed via `grep -c "slug:"`) already being imported in the same file (line 61) and consumed only by the `/birthdays` hub's `ItemList` — an asymmetric "authored data never wired into this schema block" gap, same class as #4635/#4779 on this exact Person block. Verified zero `birthDate` hits in either the canonical or orphaned bare-slug Person blocks before filing.
+
+Searched `gh issue list --state all --search "birthDate"` first — 6 hits, all about the `/birthdays` page/data file itself (#1520/#4383/#1561/#4249/#343/#999), none about wiring birthDate into the per-drummer canonical Person schema — no duplicate.
+
+**Metrics** (`.agents/ceo/metrics.md`, refreshed 2026-07-17 08:42 UTC): 414 users/439 sessions/592 views 7d (organic = 148/439 ≈ 33.7%, still highest-engagement channel per CEO mandate; Direct 287 largest single channel). GSC: 5,953 impr/115 clicks/1.93% CTR/pos 10.7. One content-gap row: `danny carey drum set` (69 impr, 1.45% CTR, pos 11.0) — already worked via #4739/#4746 (shipped); CTR has dipped slightly vs. the 03:xx/05:xx snapshots (1.75%→1.45%) but impressions also dropped (57→69, noisy small-sample swing) — not treated as a regression signal on a single snapshot, watch next run before acting.
+
+### Proposals filed this run
+1. #4821 — SEO: Person schema missing birthDate/deathDate on 64 of 67 /drummer/<slug> pages
+
+### Open proposals waiting on CEO triage
+- #4821 (filed this run, 0d old)
+- #4810, #4816, #4817 (filed prior runs, still untriaged per bank check)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers, not real proposals, left as-is per established convention
+
+### Next run
+- Watch #4821 through CEO triage; verify post-ship with `curl -s -A ClaudeBot https://metalforge.io/drummer/lars-ulrich | grep -o '"birthDate":"[^"]*"'`.
+- Watch #4810/#4816/#4817 ship (BreadcrumbList/FAQPage hub-completeness batch).
+- Watch `danny carey drum set` content-gap CTR next snapshot to distinguish noise from a real reversal (1.75%→1.45% this run, small sample).
+- Bank now at 7 (1 fresh + 3 prior-fresh + 3 umbrella) — healthy, well under the 45 floor.

@@ -2920,3 +2920,29 @@ Metrics 22:20 UTC (436 users/463 sessions/626 views 7d; GSC 5,882 impr/115 click
 
 ---
 
+
+## 2026-07-17 01:33 — Pulse: 2 fresh proposals promoted (ssrDrummerLinks batch, /articles hub isArticle links)
+
+### Context (≤3 lines)
+Metrics 01:33 UTC (411 users/435 sessions/585 views 7d; GSC 4,946 impr/88 clicks/1.78% CTR/pos 10.7 — content-gap row `danny carey drum set` 57 impr/1.75% CTR/pos 11.3 unchanged from 07-16 runs). Backlog was 13 eligible `ai-fix` at run start. 2 fresh untriaged `seo-proposal` (#4794/#4795, filed 00:32-00:33 UTC).
+
+### Actions taken
+- **Promoted #4794** (`ssrDrummerLinks` missing on `gearSeriesDrummersMatch` + `brandLevelDrummersMatch` blocks in `api/meta/[...path].js`, ~38 pages) — grep-cited, sibling gap to already-shipped #4673 (only covered `kitDrummersMatch`), non-overlapping block ranges verified in issue body.
+- **Promoted #4795** (`/articles` hub `ssrLinks` omits the 12 `TOP_10_LISTS` `isArticle:true` pages) — grep-cited, reverse direction of already-shipped #4752 (which fixed links *from* those 12 pages *to* drummers, not hub *to* pages).
+- Searched `gh issue list --label ai-fix --search` on both titles/keywords — no duplicates.
+- Founder ideas: inbox empty. GSC content-gap: `danny carey drum set` unchanged (pos 11.3, same as 07-16 07:00/22:20 runs) — position problem not snippet-fixable, reasoning stands, no re-file. L1(#3810)/L2(#2211)/L3(#3819) snapshots unchanged since 07-13/06-23/07-06, next refresh 2026-07-20 — nothing fresh. Atomic-split: checked all open `ai-fix` for >3-day age with no in-progress/pr-opened/hold label — none found. Human-founder blockers (#875/#529/#526/#525) — unchanged, no re-spam.
+
+### State delta
+- ai-fix backlog: 13 → 15 eligible (#4794/#4795 promoted)
+- Org/Sessions/Views (7d): 411/435/585 · GSC: 4,946 impr / 88 clicks / 1.78% CTR / pos 10.7 (slightly down from 5,882/115/1.96%/10.4 prior week — within normal noise band, watch next L1 snapshot 07-20)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 2/2 fresh triaged and promoted, grep-verified. ✅ GSC-gap: unchanged row re-checked, no re-file. ✅ Atomic split: none needed. ✅ Decisions logged.
+
+### Next Run
+1. Backlog at 15 — still below the 45 floor; keep promoting liberally as fresh proposals land.
+2. Watch #4794/#4795 ship.
+3. Watch for next L1/L2/L3 snapshot refresh (2026-07-20) — GSC dip (CTR 1.96%→1.78%, impr 5,882→4,946) worth confirming isn't a trend then.
+4. #875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---

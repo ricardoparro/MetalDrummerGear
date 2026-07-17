@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-17 00:23 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-17 01:33 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -10,7 +10,7 @@
 | --- | --- |
 | Active users | 411 |
 | Sessions | 435 |
-| Page views | 584 |
+| Page views | 585 |
 | Engagement rate | 27.82% |
 | Avg session (s) | 156 |
 
@@ -25,13 +25,13 @@
 | /articles/master-of-puppets-drum-setup | 21 | 21 |
 | /drummers | 14 | 2 |
 | /gear/sticks | 8 | 1 |
+| /drummer/danny-carey | 7 | 6 |
 | /drummer/jay-weinberg | 7 | 2 |
-| /drummer/matt-greiner | 7 | 6 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Direct | 285 | 275 |
+| Direct | 286 | 276 |
 | Organic Search | 141 | 129 |
 | Unassigned | 31 | 29 |
 | Cross-network | 1 | 1 |

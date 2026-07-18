@@ -629,6 +629,9 @@ export function getMetaForPath(pathname) {
           logo: { '@type': 'ImageObject', url: `${BASE_URL}/logo.png` },
         },
       ]),
+      // Issue #4863: SpeakableSpecification for voice search / AI assistants.
+      speakableSchema: true,
+      speakableCssSelector: ['h1', 'h2', 'p'],
     };
   }
 
@@ -934,6 +937,9 @@ export function getMetaForPath(pathname) {
         { name: 'Home', url: BASE_URL },
         { name: 'Drummers', url: `${BASE_URL}/drummers` },
       ],
+      // Issue #4863: SpeakableSpecification for voice search / AI assistants.
+      speakableSchema: true,
+      speakableCssSelector: ['h1', 'h2', 'p'],
     };
   }
 
@@ -1512,6 +1518,9 @@ export function getMetaForPath(pathname) {
         { name: 'Home', url: BASE_URL },
         { name: 'Techniques', url: `${BASE_URL}/techniques` },
       ],
+      // Issue #4863: SpeakableSpecification for voice search / AI assistants.
+      speakableSchema: true,
+      speakableCssSelector: ['h1', 'h2', 'p'],
     };
   }
 
@@ -1752,6 +1761,9 @@ export function getMetaForPath(pathname) {
         { question: 'Who has a bigger drum kit, Lars Ulrich or Joey Jordison?', answer: 'Compare Lars Ulrich vs Joey Jordison on MetalForge. Both use large format kits with double bass; see the complete side-by-side on /tools/compare/lars-ulrich-vs-joey-jordison.' },
         { question: 'Which metal drummer uses more cymbals?', answer: 'Mike Portnoy and Danny Carey are known for having the largest cymbal configurations among metal drummers. Compare any two drummers cymbal setups on MetalForge.' },
       ],
+      // Issue #4863: SpeakableSpecification for voice search / AI assistants.
+      speakableSchema: true,
+      speakableCssSelector: ['h1', 'h2', 'p'],
     };
   }
 
@@ -1880,6 +1892,9 @@ export function getMetaForPath(pathname) {
         { question: 'Who has a bigger drum kit, Lars Ulrich or Joey Jordison?', answer: 'Compare Lars Ulrich vs Joey Jordison on MetalForge. Both use large format kits with double bass; see the complete side-by-side on /compare.' },
         { question: 'Which metal drummer uses more cymbals?', answer: 'Mike Portnoy and Danny Carey are known for having the largest cymbal configurations among metal drummers. Compare any two drummers cymbal setups on MetalForge.' },
       ],
+      // Issue #4863: SpeakableSpecification for voice search / AI assistants.
+      speakableSchema: true,
+      speakableCssSelector: ['h1', 'h2', 'p'],
     };
   }
 
@@ -2095,6 +2110,9 @@ export function getMetaForPath(pathname) {
         { name: 'Home', url: BASE_URL },
         { name: 'Guess the Kit', url: `${BASE_URL}/guess-the-kit` },
       ],
+      // Issue #4863: SpeakableSpecification for voice search / AI assistants.
+      speakableSchema: true,
+      speakableCssSelector: ['h1', 'h2', 'p'],
     };
   }
 
@@ -2235,6 +2253,9 @@ export function getMetaForPath(pathname) {
         { name: 'Home', url: BASE_URL },
         { name: 'Birthdays', url: `${BASE_URL}/birthdays` },
       ],
+      // Issue #4863: SpeakableSpecification for voice search / AI assistants.
+      speakableSchema: true,
+      speakableCssSelector: ['h1', 'h2', 'p'],
     };
   }
 
@@ -2531,6 +2552,9 @@ export function getMetaForPath(pathname) {
           url: `${BASE_URL}/articles/${a.slug}`,
         })),
       }),
+      // Issue #4863: SpeakableSpecification for voice search / AI assistants.
+      speakableSchema: true,
+      speakableCssSelector: ['h1', 'h2', 'p'],
     };
   }
 
@@ -2945,6 +2969,9 @@ export function getMetaForPath(pathname) {
         { name: 'Home', url: BASE_URL },
         { name: 'Genres', url: `${BASE_URL}/genres` },
       ],
+      // Issue #4863: SpeakableSpecification for voice search / AI assistants.
+      speakableSchema: true,
+      speakableCssSelector: ['h1', 'h2', 'p'],
     };
   }
 
@@ -4250,6 +4277,9 @@ export function getMetaForPath(pathname) {
         { name: 'Home', url: BASE_URL },
         { name: 'Top 10 Lists', url: `${BASE_URL}/lists` },
       ],
+      // Issue #4863: SpeakableSpecification for voice search / AI assistants.
+      speakableSchema: true,
+      speakableCssSelector: ['h1', 'h2', 'p'],
     };
   }
 
@@ -4652,6 +4682,9 @@ export function getMetaForPath(pathname) {
         { name: 'Home', url: BASE_URL },
         { name: 'History', url: `${BASE_URL}/history` },
       ],
+      // Issue #4863: SpeakableSpecification for voice search / AI assistants.
+      speakableSchema: true,
+      speakableCssSelector: ['h1', 'h2', 'p'],
     };
   }
 
@@ -4802,6 +4835,9 @@ export function getMetaForPath(pathname) {
         { name: 'Home', url: BASE_URL },
         { name: 'Spotlights', url: `${BASE_URL}/spotlights` },
       ],
+      // Issue #4863: SpeakableSpecification for voice search / AI assistants.
+      speakableSchema: true,
+      speakableCssSelector: ['h1', 'h2', 'p'],
     };
   }
 
@@ -4972,6 +5008,9 @@ export function getMetaForPath(pathname) {
         { name: 'Home', url: BASE_URL },
         { name: 'Quick Facts', url: `${BASE_URL}/facts` },
       ],
+      // Issue #4863: SpeakableSpecification for voice search / AI assistants.
+      speakableSchema: true,
+      speakableCssSelector: ['h1', 'h2', 'p'],
     };
   }
 
@@ -5726,6 +5765,9 @@ export function getMetaForPath(pathname) {
         { name: 'Home', url: BASE_URL },
         { name: 'BPM Calculator', url: `${BASE_URL}/bpm` },
       ],
+      // Issue #4863: SpeakableSpecification for voice search / AI assistants.
+      speakableSchema: true,
+      speakableCssSelector: ['h1', 'h2', 'p'],
     };
   }
 

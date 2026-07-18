@@ -5599,7 +5599,10 @@ export function getMetaForPath(pathname) {
           datePublished: String(song.year),
           genre: song.genre,
           url: songUrl,
-          additionalProperty: { '@type': 'PropertyValue', name: 'BPM', value: song.bpm },
+          additionalProperty: [
+            { '@type': 'PropertyValue', name: 'BPM', value: song.bpm },
+            { '@type': 'PropertyValue', name: 'BPM Source', value: song.source },
+          ],
         },
         ...(song.video ? [{
           '@type': 'VideoObject',

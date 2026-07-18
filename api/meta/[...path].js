@@ -2099,7 +2099,21 @@ export function getMetaForPath(pathname) {
   }
 
   // Birthdays Calendar - Issue #799
+  // Issue #4250: this curated 10-entry sample (not the full 67) is intentional — do not expand/change.
   if (path === '/birthdays') {
+    const CURATED_BIRTHDAY_SAMPLE = [
+      { slug: 'lars-ulrich', name: 'Lars Ulrich', birthDate: '1963-12-26', band: 'Metallica' },
+      { slug: 'joey-jordison', name: 'Joey Jordison', birthDate: '1975-04-26', band: 'Slipknot' },
+      { slug: 'dave-lombardo', name: 'Dave Lombardo', birthDate: '1965-02-16', band: 'Slayer' },
+      { slug: 'gene-hoglan', name: 'Gene Hoglan', birthDate: '1967-09-26', band: 'Death' },
+      { slug: 'danny-carey', name: 'Danny Carey', birthDate: '1961-05-10', band: 'Tool' },
+      { slug: 'mike-portnoy', name: 'Mike Portnoy', birthDate: '1967-04-20', band: 'Dream Theater' },
+      { slug: 'charlie-benante', name: 'Charlie Benante', birthDate: '1962-11-27', band: 'Anthrax' },
+      { slug: 'vinnie-paul', name: 'Vinnie Paul', birthDate: '1964-03-11', band: 'Pantera' },
+      { slug: 'inferno', name: 'Inferno', birthDate: '1978-08-14', band: 'Behemoth' },
+      { slug: 'george-kollias', name: 'George Kollias', birthDate: '1977-10-17', band: 'Nile' },
+    ];
+
     return {
       title: `Metal Drummer Birthday Calendar | ${SITE_NAME}`,
       description: 'Never miss a metal drummer birthday! Browse our complete calendar of legendary drummers\' birthdays. Share and celebrate with the metal community.',
@@ -2117,118 +2131,22 @@ export function getMetaForPath(pathname) {
           name: 'Metal Drummer Birthdays',
           description: 'Birthdays of 67 professional metal drummers',
           numberOfItems: drummerBirthdays.length,
-          itemListElement: [
-            {
+          itemListElement: CURATED_BIRTHDAY_SAMPLE.map((entry, index) => {
+            const bd = drummerBirthdays.find(d => d.slug === entry.slug);
+            return {
               '@type': 'ListItem',
-              position: 1,
+              position: index + 1,
               item: {
                 '@type': 'Person',
-                name: 'Lars Ulrich',
-                birthDate: '1963-12-26',
-                url: `${BASE_URL}/drummer/lars-ulrich`,
-                memberOf: { '@type': 'MusicGroup', name: 'Metallica' },
+                name: entry.name,
+                birthDate: entry.birthDate,
+                ...(bd?.birthPlace ? { birthPlace: { '@type': 'Place', name: bd.birthPlace } } : {}),
+                ...(bd?.image ? { image: `${BASE_URL}${bd.image}` } : {}),
+                url: `${BASE_URL}/drummer/${entry.slug}`,
+                memberOf: { '@type': 'MusicGroup', name: entry.band },
               },
-            },
-            {
-              '@type': 'ListItem',
-              position: 2,
-              item: {
-                '@type': 'Person',
-                name: 'Joey Jordison',
-                birthDate: '1975-04-26',
-                url: `${BASE_URL}/drummer/joey-jordison`,
-                memberOf: { '@type': 'MusicGroup', name: 'Slipknot' },
-              },
-            },
-            {
-              '@type': 'ListItem',
-              position: 3,
-              item: {
-                '@type': 'Person',
-                name: 'Dave Lombardo',
-                birthDate: '1965-02-16',
-                url: `${BASE_URL}/drummer/dave-lombardo`,
-                memberOf: { '@type': 'MusicGroup', name: 'Slayer' },
-              },
-            },
-            {
-              '@type': 'ListItem',
-              position: 4,
-              item: {
-                '@type': 'Person',
-                name: 'Gene Hoglan',
-                birthDate: '1967-09-26',
-                url: `${BASE_URL}/drummer/gene-hoglan`,
-                memberOf: { '@type': 'MusicGroup', name: 'Death' },
-              },
-            },
-            {
-              '@type': 'ListItem',
-              position: 5,
-              item: {
-                '@type': 'Person',
-                name: 'Danny Carey',
-                birthDate: '1961-05-10',
-                url: `${BASE_URL}/drummer/danny-carey`,
-                memberOf: { '@type': 'MusicGroup', name: 'Tool' },
-              },
-            },
-            {
-              '@type': 'ListItem',
-              position: 6,
-              item: {
-                '@type': 'Person',
-                name: 'Mike Portnoy',
-                birthDate: '1967-04-20',
-                url: `${BASE_URL}/drummer/mike-portnoy`,
-                memberOf: { '@type': 'MusicGroup', name: 'Dream Theater' },
-              },
-            },
-            {
-              '@type': 'ListItem',
-              position: 7,
-              item: {
-                '@type': 'Person',
-                name: 'Charlie Benante',
-                birthDate: '1962-11-27',
-                url: `${BASE_URL}/drummer/charlie-benante`,
-                memberOf: { '@type': 'MusicGroup', name: 'Anthrax' },
-              },
-            },
-            {
-              '@type': 'ListItem',
-              position: 8,
-              item: {
-                '@type': 'Person',
-                name: 'Vinnie Paul',
-                birthDate: '1964-03-11',
-                url: `${BASE_URL}/drummer/vinnie-paul`,
-                memberOf: { '@type': 'MusicGroup', name: 'Pantera' },
-              },
-            },
-            {
-              '@type': 'ListItem',
-              position: 9,
-              item: {
-                '@type': 'Person',
-                name: 'Inferno',
-                birthDate: '1978-08-14',
-                url: `${BASE_URL}/drummer/inferno`,
-                memberOf: { '@type': 'MusicGroup', name: 'Behemoth' },
-              },
-            },
-            {
-              '@type': 'ListItem',
-              position: 10,
-              item: {
-                '@type': 'Person',
-                name: 'George Kollias',
-                birthDate: '1977-10-17',
-                url: `${BASE_URL}/drummer/george-kollias`,
-                memberOf: { '@type': 'MusicGroup', name: 'Nile' },
-              },
-            },
-          ],
+            };
+          }),
         },
       }),
       breadcrumbSchema: [

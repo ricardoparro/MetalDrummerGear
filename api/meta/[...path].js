@@ -1777,6 +1777,9 @@ export function getMetaForPath(pathname) {
     const d1 = getDrummerBySlug(slug1);
     const d2 = getDrummerBySlug(slug2);
     if (d1 && d2) {
+      // Issue #4885: use curated verdict/gear content when this pair has one of the
+      // 226 authored drummerComparisons.js entries, instead of generic boilerplate.
+      const curated = DRUMMER_COMPARISONS[`${slug1}-vs-${slug2}`] || DRUMMER_COMPARISONS[`${slug2}-vs-${slug1}`];
       return {
         title: `${d1.name} vs ${d2.name} — Drum Gear Comparison | ${SITE_NAME}`,
         description: `Side-by-side gear: ${d1.name} (${d1.band}) vs ${d2.name} (${d2.band}). Kits, cymbals, pedals, sticks — compare specs and prices.`,
@@ -1789,9 +1792,9 @@ export function getMetaForPath(pathname) {
           { name: `${d1.name} vs ${d2.name}`, url: `${BASE_URL}/tools/compare/${slug1}-vs-${slug2}` },
         ],
         faqSchema: [
-          { question: `What drum kit does ${d1.name} use?`, answer: `${d1.name} uses ${d1.gear?.drums || 'a custom drum kit'} with ${d1.gear?.cymbals || 'cymbal setup'}.` },
-          { question: `What drum kit does ${d2.name} use?`, answer: `${d2.name} uses ${d2.gear?.drums || 'a custom drum kit'} with ${d2.gear?.cymbals || 'cymbal setup'}.` },
-          { question: `Which is better, ${d1.name} or ${d2.name}?`, answer: `Both ${d1.name} (${d1.band}) and ${d2.name} (${d2.band}) are legendary metal drummers. Compare their complete gear setups on MetalForge.` },
+          { question: `What drum kit does ${d1.name} use?`, answer: curated?.comparison?.gear ? `${d1.name} uses ${d1.gear?.drums || 'a custom drum kit'} with ${d1.gear?.cymbals || 'cymbal setup'}. ${curated.comparison.gear}` : `${d1.name} uses ${d1.gear?.drums || 'a custom drum kit'} with ${d1.gear?.cymbals || 'cymbal setup'}.` },
+          { question: `What drum kit does ${d2.name} use?`, answer: curated?.comparison?.gear ? `${d2.name} uses ${d2.gear?.drums || 'a custom drum kit'} with ${d2.gear?.cymbals || 'cymbal setup'}. ${curated.comparison.gear}` : `${d2.name} uses ${d2.gear?.drums || 'a custom drum kit'} with ${d2.gear?.cymbals || 'cymbal setup'}.` },
+          { question: `Which is better, ${d1.name} or ${d2.name}?`, answer: curated?.verdict || `Both ${d1.name} (${d1.band}) and ${d2.name} (${d2.band}) are legendary metal drummers. Compare their complete gear setups on MetalForge.` },
         ],
         speakableSchema: true,
         speakableCssSelector: ['h1', 'h2', 'p'],

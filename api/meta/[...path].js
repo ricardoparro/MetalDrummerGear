@@ -1661,6 +1661,8 @@ export function getMetaForPath(pathname) {
           item: {
             '@type': 'Person',
             name: m.name,
+            jobTitle: 'Drummer',
+            ...(m.note ? { description: m.note } : {}),
             url: m.slug ? `${BASE_URL}/drummer/${m.slug}` : undefined,
             ...(m.band ? { memberOf: { '@type': 'MusicGroup', name: m.band } } : {}),
           },

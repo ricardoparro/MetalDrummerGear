@@ -373,7 +373,7 @@ function buildMarkdown(gh, metrics, decisions) {
     if (loops.l3) {
       const p = loops.l3prev;
       const pct = loops.l3.inspected ? Math.round((loops.l3.indexed / loops.l3.inspected) * 100) : '?';
-      lines.push(`| **L3 indexation** (${loops.l3.inspected} sampled of ${loops.l3.sitemap}) | ${loops.l3.indexed} indexed (${pct}%) · ${loops.l3.crawledNot} crawled-not-idx · ${loops.l3.discoveredNot} discovered-not-idx | indexed${dlt(loops.l3.indexed, p && p.indexed)} |`);
+      lines.push(`| **L3 indexation** (top-${loops.l3.inspected} priority URLs — a sample, NOT the whole ${loops.l3.sitemap}-URL sitemap) | ${loops.l3.indexed} of ${loops.l3.inspected} indexed (${pct}%) · ${loops.l3.crawledNot} rejected-quality · ${loops.l3.discoveredNot} never-crawled | indexed${dlt(loops.l3.indexed, p && p.indexed)} |`);
     }
     if (loops.l4) {
       const p = loops.l4prev;
@@ -490,9 +490,9 @@ function buildTelegramText(gh, metrics, fullUrl) {
   const loops = improvementLoops(gh);
   if (loops.l1 || loops.l2 || loops.l3 || loops.l4) {
     lines.push(`<b>🔬 Loops (KPI trend)</b>`);
-    if (loops.l1) lines.push(`• L1: ${loops.l1.clicks} clk${dlt(loops.l1.clicks, loops.l1prev && loops.l1prev.clicks)} · pos ${loops.l1.avgPos.toFixed(1)}${dlt(loops.l1.avgPos, loops.l1prev && loops.l1prev.avgPos, 1)}`);
-    if (loops.l2) lines.push(`• L2: ${loops.l2.cited}/${loops.l2.total} cite us`);
-    if (loops.l3) lines.push(`• L3: ${loops.l3.indexed}/${loops.l3.inspected} indexed${dlt(loops.l3.indexed, loops.l3prev && loops.l3prev.indexed)}`);
+    if (loops.l1) lines.push(`• L1 Google: ${loops.l1.clicks} cliques/sem${dlt(loops.l1.clicks, loops.l1prev && loops.l1prev.clicks)} · posição média ${loops.l1.avgPos.toFixed(1)}${dlt(loops.l1.avgPos, loops.l1prev && loops.l1prev.avgPos, 1)} (menor = melhor)`);
+    if (loops.l2) lines.push(`• L2 IA: ${loops.l2.cited} de ${loops.l2.total} perguntas citam o site (só Perplexity)`);
+    if (loops.l3) lines.push(`• L3 indexação: ${loops.l3.indexed}/${loops.l3.inspected} das páginas prioritárias${dlt(loops.l3.indexed, loops.l3prev && loops.l3prev.indexed)} — amostra top-${loops.l3.inspected}, sitemap tem ${loops.l3.sitemap} URLs`);
     if (loops.l4) lines.push(`• L4: perf ${loops.l4.homepageScore ?? '?'}${dlt(loops.l4.homepageScore, loops.l4prev && loops.l4prev.homepageScore)} · TBT ${loops.l4.homepageTbt != null ? Math.round(loops.l4.homepageTbt) : '?'}ms`);
     lines.push('');
   }

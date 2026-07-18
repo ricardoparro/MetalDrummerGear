@@ -3646,32 +3646,41 @@ export function getMetaForPath(pathname) {
             },
             {
               '@type': 'FAQPage',
-              mainEntity: [
-                {
-                  '@type': 'Question',
-                  name: `Who tops the ${list.title}?`,
-                  acceptedAnswer: {
-                    '@type': 'Answer',
-                    text: `The #1 ranked entry in ${list.title} on MetalForge is ${rankedDrummers[0]?.name || 'featured on the MetalForge ranked list'}. See the full ranked list at metalforge.io/lists/${listSlug}.`,
-                  },
-                },
-                {
-                  '@type': 'Question',
-                  name: `How is the ${list.title} determined?`,
-                  acceptedAnswer: {
-                    '@type': 'Answer',
-                    text: `The ${list.title} is curated by MetalForge editors based on technique, innovation, influence, and community recognition within the metal genre.`,
-                  },
-                },
-                {
-                  '@type': 'Question',
-                  name: `How many drummers are on the ${list.title}?`,
-                  acceptedAnswer: {
-                    '@type': 'Answer',
-                    text: `The ${list.title} features ${rankedDrummers.length} professional metal drummers ranked by MetalForge.`,
-                  },
-                },
-              ],
+              // Issue #4886: 85/98 lists have hand-authored `list.faq` Q&A content
+              // that was never wired in; keep the generic 3-Q template as fallback
+              // for the remaining 13 lists so no page regresses to an empty FAQPage.
+              mainEntity: (list.faq && list.faq.length > 0
+                ? list.faq.map(f => ({
+                    '@type': 'Question',
+                    name: f.question,
+                    acceptedAnswer: { '@type': 'Answer', text: f.answer },
+                  }))
+                : [
+                    {
+                      '@type': 'Question',
+                      name: `Who tops the ${list.title}?`,
+                      acceptedAnswer: {
+                        '@type': 'Answer',
+                        text: `The #1 ranked entry in ${list.title} on MetalForge is ${rankedDrummers[0]?.name || 'featured on the MetalForge ranked list'}. See the full ranked list at metalforge.io/lists/${listSlug}.`,
+                      },
+                    },
+                    {
+                      '@type': 'Question',
+                      name: `How is the ${list.title} determined?`,
+                      acceptedAnswer: {
+                        '@type': 'Answer',
+                        text: `The ${list.title} is curated by MetalForge editors based on technique, innovation, influence, and community recognition within the metal genre.`,
+                      },
+                    },
+                    {
+                      '@type': 'Question',
+                      name: `How many drummers are on the ${list.title}?`,
+                      acceptedAnswer: {
+                        '@type': 'Answer',
+                        text: `The ${list.title} features ${rankedDrummers.length} professional metal drummers ranked by MetalForge.`,
+                      },
+                    },
+                  ]),
             },
           ],
         }),

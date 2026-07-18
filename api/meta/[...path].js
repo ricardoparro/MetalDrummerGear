@@ -193,7 +193,7 @@ import { EVOLUTION_TIMELINE } from '../../packages/frontend/data/evolutionTimeli
 // for the "1623 -> today" brand-history timeline upgrade.
 // Issue #4477: getDrummersByBrand powers /brands/<slug> ssrLinks — the same
 // function the live BrandLandingPage component uses to compute brandDrummers.
-import { getBrandsTimeline, getDrummersByBrand } from '../../packages/frontend/data/brands.js';
+import { brands as BRAND_DATA, getBrandsTimeline, getDrummersByBrand } from '../../packages/frontend/data/brands.js';
 // Issue #4430: SSR meta + JSON-LD for the /pedals* route family (epic #4387,
 // phases #4391-#4393) — 60 sitemap-listed pages (hub, 3 reference pages, 56
 // per-drummer setups) had zero bot-facing SSR meta despite being fully built
@@ -537,8 +537,8 @@ const CARD_DRUMMERS = [
 // correction map for the two BRAND_SEO_DATA slugs (gearSearchData.js) that
 // don't match their live route slug (vicfirth/promark vs. the hyphenated
 // vic-firth/pro-mark used by the /brands/<slug> handler below). Mirrors the
-// BRAND_META whitelist further down this file, the source of truth for which
-// gear-brand slugs actually resolve to a live page.
+// BRAND_DATA (brands.js) whitelist further down this file, the source of
+// truth for which gear-brand slugs actually resolve to a live page.
 const LIVE_BRAND_SLUGS = new Set([
   'tama', 'pearl', 'dw', 'ludwig', 'zildjian', 'paiste', 'meinl', 'sabian',
   'evans', 'remo', 'sonor', 'mapex', 'vic-firth', 'pro-mark', 'vater', 'ahead', 'wincent', 'axis',
@@ -2745,26 +2745,8 @@ export function getMetaForPath(pathname) {
   }
 
   // Issue #1408: /brands/<slug> individual brand pages
-  const BRAND_META = {
-    tama: { name: 'Tama', type: 'drums' },
-    pearl: { name: 'Pearl', type: 'drums' },
-    dw: { name: 'DW (Drum Workshop)', type: 'drums' },
-    ludwig: { name: 'Ludwig', type: 'drums' },
-    zildjian: { name: 'Zildjian', type: 'cymbals' },
-    paiste: { name: 'Paiste', type: 'cymbals' },
-    meinl: { name: 'Meinl', type: 'cymbals' },
-    sabian: { name: 'Sabian', type: 'cymbals' },
-    evans: { name: 'Evans', type: 'drumheads' },
-    remo: { name: 'Remo', type: 'drumheads' },
-    sonor: { name: 'Sonor', type: 'drums' },
-    mapex: { name: 'Mapex', type: 'drums' },
-    'vic-firth': { name: 'Vic Firth', type: 'drumsticks' },
-    'pro-mark': { name: 'Pro-Mark', type: 'drumsticks' },
-    vater: { name: 'Vater', type: 'drumsticks' },
-    ahead: { name: 'Ahead', type: 'drumsticks' },
-    wincent: { name: 'Wincent', type: 'drumsticks' },
-    axis: { name: 'Axis', type: 'pedals' },
-  };
+  // Issue #4887: brand name/type/FAQ now sourced from brands.js (BRAND_DATA)
+  // instead of a duplicate hardcoded object — see CLAUDE.md rule #1.
   // Issue #4477: parent-category buying guide to link from a /brands/<slug>
   // page — only set for the gear types that actually have a best-for-metal
   // guide (drums/drumheads have no such page, so those brand.type values are
@@ -2777,7 +2759,7 @@ export function getMetaForPath(pathname) {
   const brandPageMatch = path.match(/^\/brands\/([a-z0-9-]+)$/);
   if (brandPageMatch) {
     const brandSlug = brandPageMatch[1];
-    const brand = BRAND_META[brandSlug];
+    const brand = BRAND_DATA[brandSlug];
     if (brand) {
       // Issue #4477: same getDrummersByBrand() call the live BrandLandingPage
       // component uses to render its own "Metal Drummers Using <brand>"
@@ -2825,32 +2807,40 @@ export function getMetaForPath(pathname) {
             }] : []),
             {
               '@type': 'FAQPage',
-              mainEntity: [
-                {
-                  '@type': 'Question',
-                  name: `Which metal drummers use ${brand.name}?`,
-                  acceptedAnswer: {
-                    '@type': 'Answer',
-                    text: `Many professional metal drummers use ${brand.name} ${brand.type}. See the full list with gear specs on MetalForge.`,
-                  },
-                },
-                {
-                  '@type': 'Question',
-                  name: `Is ${brand.name} good for metal drumming?`,
-                  acceptedAnswer: {
-                    '@type': 'Answer',
-                    text: `${brand.name} is one of the most popular brands among professional metal drummers. Many touring pros endorse and play ${brand.name} gear.`,
-                  },
-                },
-                {
-                  '@type': 'Question',
-                  name: `What ${brand.name} ${brand.type} do pro metal drummers use?`,
-                  acceptedAnswer: {
-                    '@type': 'Answer',
-                    text: `Professional metal drummers use a range of ${brand.name} ${brand.type} models. Browse the MetalForge ${brand.name} page to see every pro and their specific gear.`,
-                  },
-                },
-              ],
+              // Issue #4887: curated FAQ from brands.js (18/18 brands populated) —
+              // the 3 generic questions below are an unreachable fallback only.
+              mainEntity: (brand.faq && brand.faq.length > 0
+                ? brand.faq.map(f => ({
+                    '@type': 'Question',
+                    name: f.question,
+                    acceptedAnswer: { '@type': 'Answer', text: f.answer },
+                  }))
+                : [
+                    {
+                      '@type': 'Question',
+                      name: `Which metal drummers use ${brand.name}?`,
+                      acceptedAnswer: {
+                        '@type': 'Answer',
+                        text: `Many professional metal drummers use ${brand.name} ${brand.type}. See the full list with gear specs on MetalForge.`,
+                      },
+                    },
+                    {
+                      '@type': 'Question',
+                      name: `Is ${brand.name} good for metal drumming?`,
+                      acceptedAnswer: {
+                        '@type': 'Answer',
+                        text: `${brand.name} is one of the most popular brands among professional metal drummers. Many touring pros endorse and play ${brand.name} gear.`,
+                      },
+                    },
+                    {
+                      '@type': 'Question',
+                      name: `What ${brand.name} ${brand.type} do pro metal drummers use?`,
+                      acceptedAnswer: {
+                        '@type': 'Answer',
+                        text: `Professional metal drummers use a range of ${brand.name} ${brand.type} models. Browse the MetalForge ${brand.name} page to see every pro and their specific gear.`,
+                      },
+                    },
+                  ]),
             },
           ],
         }),

@@ -317,6 +317,26 @@ const top20GearComparisons = [
   { d1: 'mike-portnoy', d2: 'mike-mangini' },
 ];
 
+// Issue #4889: drummerComparisons.js has 226 hand-curated pairs with real
+// verdict/pros/cons content (same data #4885 wired into the FAQ schema), but
+// the sitemap only ever declared the 20 above, leaving 206 live, crawlable
+// pages with zero discovery path. Union rather than replace: 7 of the top20
+// pairs above aren't in the 226 curated set at all (they render the route's
+// generic fallback content, not a curated verdict) and 2 more only match the
+// curated set in REVERSED slug order — replacing top20GearComparisons
+// wholesale would silently swap already-indexed URLs, which URLs-immutable
+// forbids. So every top20 URL is kept exactly as shipped, and curated slugs
+// are added only for pairs not already covered by a top20 URL in either order.
+const top20SlugPairs = new Set();
+top20GearComparisons.forEach(c => {
+  top20SlugPairs.add(`${c.d1}-vs-${c.d2}`);
+  top20SlugPairs.add(`${c.d2}-vs-${c.d1}`);
+});
+const curatedToolsCompareSlugs = [
+  ...top20GearComparisons.map(c => `${c.d1}-vs-${c.d2}`),
+  ...getAllDrummerComparisonSlugs().filter(slug => !top20SlugPairs.has(slug)),
+];
+
 // Issue #739: Signature Gear Spotlight pages
 const signatureGearPages = [
   { drummerSlug: 'joey-jordison', gearSlug: 'joey-jordison-pearl-signature-snare', name: 'Pearl Joey Jordison Signature Snare' },
@@ -623,10 +643,10 @@ export function buildSitemapXml() {
     { loc: '/tools/setup-builder', priority: '0.85', changefreq: 'monthly' },
     // Issue #721, #732: Gear Comparison Tool + Top 20 SEO comparisons
     { loc: '/tools/compare', priority: '0.95', changefreq: 'weekly' },
-    ...top20GearComparisons.map(c => ({ 
-      loc: `/tools/compare/${c.d1}-vs-${c.d2}`, 
-      priority: '0.9', 
-      changefreq: 'weekly' 
+    ...curatedToolsCompareSlugs.map(slug => ({
+      loc: `/tools/compare/${slug}`,
+      priority: '0.85',
+      changefreq: 'monthly',
     })),
     ...gearCategories.map(c => ({ loc: `/gear/${c.slug}`, priority: '0.9', changefreq: 'weekly' })),
     ...top10Lists.map(l => ({ loc: `/lists/${l.slug}`, priority: '0.8', changefreq: 'monthly' })),

@@ -3598,6 +3598,7 @@ export function getMetaForPath(pathname) {
             ...(extBio ? [{
               '@type': 'Article',
               headline: `${drummer.name} — Career & Drumming Style`,
+              author: { '@type': 'Organization', name: 'MetalForge' },
               about: { '@type': 'Person', name: drummer.name },
               articleBody: [
                 extBio.sections.careerHighlights?.items?.length
@@ -5103,6 +5104,7 @@ export function getMetaForPath(pathname) {
             ...(extBio ? [{
               '@type': 'Article',
               headline: `${drummer.name} — Career & Drumming Style`,
+              author: { '@type': 'Organization', name: 'MetalForge' },
               about: { '@type': 'Person', name: drummer.name },
               articleBody: [
                 extBio.sections.careerHighlights?.items?.length

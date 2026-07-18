@@ -193,7 +193,17 @@ function summariseIdx(snap) {
   if (!snap || !snap.byUrl) return null;
   const vals = Object.values(snap.byUrl);
   const c = (k) => vals.filter(v => v.class === k).length;
-  return { inspected: vals.length, sitemap: snap.sitemapUrlCount, indexed: c('indexed'), crawledNot: c('crawled-not-indexed'), discoveredNot: c('discovered-not-indexed'), unknown: c('unknown') };
+  // Post-rotation snapshots tag each URL sentinel/rotating; the sentinel subset
+  // is the only WoW-comparable trend. Pre-rotation snapshots have no groups.
+  const sent = vals.filter(v => v.group === 'sentinel');
+  return {
+    inspected: vals.length, sitemap: snap.sitemapUrlCount,
+    indexed: c('indexed'), crawledNot: c('crawled-not-indexed'), discoveredNot: c('discovered-not-indexed'), unknown: c('unknown'),
+    sentInspected: sent.length || null,
+    sentIndexed: sent.length ? sent.filter(v => v.class === 'indexed').length : null,
+    earning: snap.earningPages ? snap.earningPages.inSitemap : null,
+    earningWindow: snap.earningPages ? snap.earningPages.windowDays : null,
+  };
 }
 function summarisePerf(snap) {
   if (!snap || !snap.byUrl) return null;
@@ -373,7 +383,12 @@ function buildMarkdown(gh, metrics, decisions) {
     if (loops.l3) {
       const p = loops.l3prev;
       const pct = loops.l3.inspected ? Math.round((loops.l3.indexed / loops.l3.inspected) * 100) : '?';
-      lines.push(`| **L3 indexation** (top-${loops.l3.inspected} priority URLs — a sample, NOT the whole ${loops.l3.sitemap}-URL sitemap) | ${loops.l3.indexed} of ${loops.l3.inspected} indexed (${pct}%) · ${loops.l3.crawledNot} rejected-quality · ${loops.l3.discoveredNot} never-crawled | indexed${dlt(loops.l3.indexed, p && p.indexed)} |`);
+      if (loops.l3.sentInspected) {
+        const full = loops.l3.earning != null ? ` · **full site: ${loops.l3.earning} of ${loops.l3.sitemap} sitemap URLs earned impressions (${loops.l3.earningWindow}d)**` : '';
+        lines.push(`| **L3 indexation** | sentinels (fixed top-${loops.l3.sentInspected}, trend-comparable): ${loops.l3.sentIndexed}/${loops.l3.sentInspected} indexed${dlt(loops.l3.sentIndexed, p && p.sentIndexed)} · rotating sample: ${loops.l3.indexed - loops.l3.sentIndexed}/${loops.l3.inspected - loops.l3.sentInspected} indexed${full} | ${loops.l3.crawledNot} rejected-quality · ${loops.l3.discoveredNot} never-crawled |`);
+      } else {
+        lines.push(`| **L3 indexation** (top-${loops.l3.inspected} priority URLs — a sample, NOT the whole ${loops.l3.sitemap}-URL sitemap) | ${loops.l3.indexed} of ${loops.l3.inspected} indexed (${pct}%) · ${loops.l3.crawledNot} rejected-quality · ${loops.l3.discoveredNot} never-crawled | indexed${dlt(loops.l3.indexed, p && p.indexed)} |`);
+      }
     }
     if (loops.l4) {
       const p = loops.l4prev;
@@ -492,7 +507,14 @@ function buildTelegramText(gh, metrics, fullUrl) {
     lines.push(`<b>🔬 Loops (KPI trend)</b>`);
     if (loops.l1) lines.push(`• L1 Google: ${loops.l1.clicks} cliques/sem${dlt(loops.l1.clicks, loops.l1prev && loops.l1prev.clicks)} · posição média ${loops.l1.avgPos.toFixed(1)}${dlt(loops.l1.avgPos, loops.l1prev && loops.l1prev.avgPos, 1)} (menor = melhor)`);
     if (loops.l2) lines.push(`• L2 IA: ${loops.l2.cited} de ${loops.l2.total} perguntas citam o site (só Perplexity)`);
-    if (loops.l3) lines.push(`• L3 indexação: ${loops.l3.indexed}/${loops.l3.inspected} das páginas prioritárias${dlt(loops.l3.indexed, loops.l3prev && loops.l3prev.indexed)} — amostra top-${loops.l3.inspected}, sitemap tem ${loops.l3.sitemap} URLs`);
+    if (loops.l3) {
+      if (loops.l3.sentInspected) {
+        const full = loops.l3.earning != null ? ` · site inteiro: ${loops.l3.earning} de ${loops.l3.sitemap} URLs visíveis no Google (${loops.l3.earningWindow}d)` : '';
+        lines.push(`• L3 indexação: ${loops.l3.sentIndexed}/${loops.l3.sentInspected} páginas-sentinela${dlt(loops.l3.sentIndexed, loops.l3prev && loops.l3prev.sentIndexed)}${full}`);
+      } else {
+        lines.push(`• L3 indexação: ${loops.l3.indexed}/${loops.l3.inspected} das páginas prioritárias${dlt(loops.l3.indexed, loops.l3prev && loops.l3prev.indexed)} — amostra top-${loops.l3.inspected}, sitemap tem ${loops.l3.sitemap} URLs`);
+      }
+    }
     if (loops.l4) lines.push(`• L4: perf ${loops.l4.homepageScore ?? '?'}${dlt(loops.l4.homepageScore, loops.l4prev && loops.l4prev.homepageScore)} · TBT ${loops.l4.homepageTbt != null ? Math.round(loops.l4.homepageTbt) : '?'}ms`);
     lines.push('');
   }

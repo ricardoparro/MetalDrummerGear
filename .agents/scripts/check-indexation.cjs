@@ -46,6 +46,9 @@ function argv(name, fallback) {
 const HISTORY_DIR = argv('history-dir', '.agents/seo/indexation-history');
 const OUT = argv('out', '/tmp/indexation.json');
 const MAX_URLS = parseInt(argv('max-urls', '500'), 10);
+// Fixed high-priority set inspected EVERY run (WoW-comparable trend); the rest
+// of the budget rotates through the remaining sitemap (full coverage over time).
+const SENTINEL_COUNT = parseInt(argv('sentinels', '250'), 10);
 const SITEMAP_URL = argv('sitemap', 'https://metalforge.io/sitemap.xml');
 const CONCURRENCY = parseInt(argv('concurrency', '4'), 10);
 const PER_REQUEST_TIMEOUT_MS = parseInt(argv('timeout', '30000'), 10);
@@ -176,16 +179,66 @@ async function pool(items, n, worker) {
   }
   log(`sitemap: ${urls.length} URLs`);
 
-  // Slice: highest priority first, then stable order.
+  // Selection = 250 fixed SENTINELS (highest priority, same set every run so
+  // week-over-week deltas stay apples-to-apples) + the remaining budget
+  // ROTATING through the rest of the sitemap, cursor persisted in the newest
+  // history JSON, so every URL gets inspected at least once per cycle.
+  // (The original implementation promised rotation in its header comment but
+  // shipped a fixed top-500 slice — 90%+ of the sitemap was never inspected.)
   urls.sort((a, b) => b.priority - a.priority || a.url.localeCompare(b.url));
-  const slice = urls.slice(0, MAX_URLS);
-  log(`inspecting top ${slice.length} URLs (priority desc)`);
+  const sentinels = urls.slice(0, Math.min(SENTINEL_COUNT, MAX_URLS));
+  const rest = urls.slice(sentinels.length);
+  const rotBudget = Math.max(0, MAX_URLS - sentinels.length);
+  let cursor = 0;
+  try {
+    const hist = fs.readdirSync(HISTORY_DIR).filter(f => /^\d{4}-\d{2}-\d{2}\.json$/.test(f)).sort();
+    if (hist.length) cursor = JSON.parse(fs.readFileSync(path.join(HISTORY_DIR, hist[hist.length - 1]), 'utf8')).rotationCursor || 0;
+  } catch { /* first run / unreadable history — start at 0 */ }
+  cursor = rest.length ? cursor % rest.length : 0;
+  const rotating = [];
+  for (let k = 0; k < Math.min(rotBudget, rest.length); k++) rotating.push(rest[(cursor + k) % rest.length]);
+  const nextCursor = rest.length ? (cursor + rotating.length) % rest.length : 0;
+  const cycleWeeks = rotating.length ? Math.ceil(rest.length / rotating.length) : 0;
+  const slice = [
+    ...sentinels.map(u => ({ ...u, group: 'sentinel' })),
+    ...rotating.map(u => ({ ...u, group: 'rotating' })),
+  ];
+  log(`inspecting ${sentinels.length} sentinels + ${rotating.length} rotating (cursor ${cursor}→${nextCursor} of ${rest.length}; full cycle ≈ ${cycleWeeks} runs)`);
 
-  const results = await pool(slice, CONCURRENCY, async ({ url, priority }) => {
+  const results = await pool(slice, CONCURRENCY, async ({ url, priority, group }) => {
     const ins = await inspect(gsc, url);
     const cls = classifyCoverage(ins.verdict, ins.coverageState);
-    return { url, priority, ...ins, class: cls };
+    return { url, priority, group, ...ins, class: cls };
   });
+
+  // Full-site indexation proxy (no inspection quota): every page that earned
+  // ≥1 impression in the last 90 days is, by definition, indexed. This is the
+  // whole-sitemap "score" the 500-URL inspection sample cannot give; the
+  // inspection classes above remain the per-URL DIAGNOSIS.
+  let earningPages = null;
+  try {
+    const iso = (d) => d.toISOString().split('T')[0];
+    const end = new Date(); const start = new Date(end.getTime() - 90 * 86400000);
+    const pages = new Set();
+    let startRow = 0;
+    for (;;) {
+      const r = await gsc.searchconsole.searchanalytics.query({
+        siteUrl: gsc.site,
+        requestBody: { startDate: iso(start), endDate: iso(end), dimensions: ['page'], rowLimit: 25000, startRow },
+      });
+      const rows = r?.data?.rows || [];
+      for (const row of rows) pages.add((row.keys?.[0] || '').split('#')[0].split('?')[0]);
+      if (rows.length < 25000) break;
+      startRow += rows.length;
+    }
+    const sitemapSet = new Set(urls.map(u => u.url));
+    let inSitemap = 0;
+    for (const p of pages) if (sitemapSet.has(p)) inSitemap++;
+    earningPages = { windowDays: 90, totalPages: pages.size, inSitemap, sitemapUrlCount: urls.length };
+    log(`earning pages (90d): ${pages.size} total, ${inSitemap} of ${urls.length} sitemap URLs`);
+  } catch (e) {
+    log(`earning-pages query failed (non-fatal): ${e.message}`);
+  }
 
   // Normalize errors: ones with _error retain that.
   const counts = {};
@@ -202,11 +255,14 @@ async function pool(items, n, worker) {
     site: process.env.GSC_SITE,
     sitemapUrlCount: urls.length,
     inspectedCount: slice.length,
+    sentinelCount: sentinels.length,
+    rotationCursor: nextCursor,
+    earningPages,
     byUrl: {},
   };
   for (const r of results) {
     if (r._error) continue;
-    historyShape.byUrl[r.url] = { class: r.class, verdict: r.verdict, coverageState: r.coverageState, lastCrawlTime: r.lastCrawlTime };
+    historyShape.byUrl[r.url] = { class: r.class, verdict: r.verdict, coverageState: r.coverageState, lastCrawlTime: r.lastCrawlTime, group: r.group };
   }
   fs.writeFileSync(historyFile, JSON.stringify(historyShape, null, 2));
   log(`wrote ${historyFile}`);
@@ -228,6 +284,12 @@ async function pool(items, n, worker) {
     log(`compared against ${prevFile}: ${regressions.length} regressions (was indexed -> now not)`);
   }
 
+  const sentinelCounts = {};
+  for (const r of results) {
+    if (r._error || r.group !== 'sentinel') continue;
+    sentinelCounts[r.class] = (sentinelCounts[r.class] || 0) + 1;
+  }
+
   const report = {
     generatedAt: new Date().toISOString(),
     site: process.env.GSC_SITE,
@@ -235,8 +297,14 @@ async function pool(items, n, worker) {
     sitemapUrlCount: urls.length,
     inspectedCount: slice.length,
     inspectionCap: MAX_URLS,
+    sentinelCount: sentinels.length,
+    rotatingCount: rotating.length,
+    rotationCursor: nextCursor,
+    rotationCycleRuns: cycleWeeks,
+    earningPages,
     prevHistoryFile: prevFiles.length > 0 ? prevFiles[prevFiles.length - 1] : null,
     counts,
+    sentinelCounts,
     regressions,
     results,
   };

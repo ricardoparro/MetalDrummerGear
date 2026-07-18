@@ -57,6 +57,9 @@ function header(lines) {
   lines.push(`**Generated:** ${report.generatedAt}`);
   lines.push(`**Site:** ${report.site || '—'}`);
   lines.push(`**Sitemap URLs total:** ${report.sitemapUrlCount} · **Inspected this run:** ${report.inspectedCount} (cap ${report.inspectionCap})`);
+  if (report.sentinelCount) {
+    lines.push(`**Selection:** ${report.sentinelCount} fixed sentinels (top priority, same every run — trend-comparable) + ${report.rotatingCount} rotating (full sitemap covered every ~${report.rotationCycleRuns} runs; cursor now ${report.rotationCursor})`);
+  }
   lines.push(`**Compared against:** ${report.prevHistoryFile || '_(first run — no prior week, no regressions detected yet)_'}`);
   lines.push('');
   lines.push('**Counts:** ' + Object.entries(report.counts || {}).map(([k, v]) => `\`${k}\`=${v}`).join(' · '));
@@ -64,7 +67,14 @@ function header(lines) {
   if (results.length > 0) {
     const indexedCount = (report.counts.indexed || 0) + (report.counts['indexed-with-issues'] || 0) + (report.counts['indexed-not-in-sitemap'] || 0);
     const pct = (100 * indexedCount / results.length).toFixed(1);
-    lines.push(`**Indexed share:** ${indexedCount} / ${results.length} = **${pct}%**`);
+    lines.push(`**Indexed share (this run's sample):** ${indexedCount} / ${results.length} = **${pct}%**`);
+    if (report.sentinelCounts && report.sentinelCount) {
+      const si = (report.sentinelCounts.indexed || 0) + (report.sentinelCounts['indexed-with-issues'] || 0) + (report.sentinelCounts['indexed-not-in-sitemap'] || 0);
+      lines.push(`**Sentinel indexed share (week-over-week comparable):** ${si} / ${report.sentinelCount} = **${(100 * si / report.sentinelCount).toFixed(1)}%**`);
+    }
+    if (report.earningPages) {
+      lines.push(`**Full-site proxy:** ${report.earningPages.inSitemap} of ${report.earningPages.sitemapUrlCount} sitemap URLs earned ≥1 Google impression in the last ${report.earningPages.windowDays}d (a page with impressions is indexed by definition; the inverse is not guaranteed)`);
+    }
     lines.push('');
   }
 }

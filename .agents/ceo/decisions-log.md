@@ -2767,3 +2767,30 @@ Metrics 17:24 UTC (422 users/447 sessions/735 views 7d; GSC 5,953 impr/115 click
 
 ---
 
+
+## 2026-07-18 01:32 — Cheap pulse: 3 fresh proposals promoted (birthPlace/image, Article author, technique-drummers jobTitle+description)
+
+### Context (≤3 lines)
+Metrics 01:32 UTC (405 users/428 sessions/703 views 7d; GSC 5,019 impr/102 clicks/2.03% CTR/pos 11.1 — content-gap row `danny carey drum set` 56 impr/1.79% CTR/pos 10.9, same recurring row, position problem not snippet-fixable, no re-file). Backlog was 3 eligible `ai-fix` at run start (0 open PRs). 3 fresh untriaged `seo-proposal` (#4864/#4865/#4866, filed 00:30 UTC).
+
+### Actions taken
+- **Promoted #4864** (`/birthdays` curated ItemList Person entries missing `birthPlace`+`image`, 10 entries, data already imported from `birthdays.js`) — grep/curl-verified, explicitly respects the #4250 "don't change the curated 10" ruling.
+- **Promoted #4865** (drummer-profile "Career & Drumming Style" Article block missing `author`, 67 profiles × 2 route occurrences) — verified against all 14 sibling `Article` blocks in the file, only this one lacks `author`.
+- **Promoted #4866** (`/technique/<slug>/drummers` ItemList Person entries missing `jobTitle`+`description`, 29 pages/105 masters entries, single shared `.map()` fix) — verified 105/105 `masters` entries have `note` populated, zero fabrication risk.
+- Searched open+closed issues for all three (`birthPlace birthdays`, `Career Drumming Style author`, `technique drummers jobTitle`) — found related-but-distinct closed issues (#4249, #4635, #1659), no duplicates.
+- Founder ideas: inbox empty. GSC content-gap unchanged, no re-file. L1(#3810)/L2(#2211)/L3(#3819) unchanged since 07-13, next refresh 07-20. Atomic-split: oldest open `ai-fix` (#4756 bands phase 3/4, #4748 roster-exp) both ~1.75 days old, below 3-day threshold. Human-founder blockers (#875/#529/#526/#525) unchanged — no re-spam.
+
+### State delta
+- ai-fix backlog: 3 → 6 eligible (#4864/#4865/#4866 promoted)
+- Org/Sessions/Views (7d): 405/428/703 · GSC: 5,019 impr / 102 clicks / 2.03% CTR / pos 11.1
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 3/3 fresh triaged and promoted, verified, no duplicates. ✅ GSC-gap: unchanged row re-checked, no re-file. ✅ Starvation check: bank was 3 (>2), trigger not met. ✅ Atomic split: none past threshold. ✅ Decisions logged.
+
+### Next Run
+1. Backlog at 6 — still thin; keep promoting liberally as fresh proposals land, watch for starvation trigger (backlog<15 AND bank≤2) if #4863/#4756/#4748/#4864-4866 all dispatch before next batch.
+2. Watch #4756 (bands phase 3/4, last queued phase) — once merged, epic #4753 needs phase-4 decision or closure.
+3. Watch for next L1/L2/L3 snapshot refresh (2026-07-20).
+4. #875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---

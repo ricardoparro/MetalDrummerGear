@@ -3465,6 +3465,17 @@ export function getMetaForPath(pathname) {
                 { '@type': 'ListItem', position: 3, name: gear.name, item: `${BASE_URL}/drummers/${drummerSlug}/signature/${gearSlug}` },
               ],
             },
+            // Issue #4888: curated FAQ (5 of 7 entries) had no FAQPage schema at all.
+            ...(gear.faq && gear.faq.length > 0
+              ? [{
+                  '@type': 'FAQPage',
+                  mainEntity: gear.faq.map(f => ({
+                    '@type': 'Question',
+                    name: f.question,
+                    acceptedAnswer: { '@type': 'Answer', text: f.answer },
+                  })),
+                }]
+              : []),
           ],
         }),
         // Issue #4699: bot-facing SSR shell had zero internal links.

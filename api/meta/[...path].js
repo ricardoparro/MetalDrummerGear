@@ -12,6 +12,10 @@ import { drummers } from '../drummers/index.js';
 // real per-drummer FAQ depth authored in extendedBios.js, not a hardcoded
 // 3-question template — otherwise L2 FAQ-depth fixes never reach the crawl.
 import { getExtendedBio } from '../../packages/frontend/data/extendedBios.js';
+// Issue #4883: /drummer/:slug/:category SSR shell had no faqSchema — the frontend
+// already renders real per-category FAQs via this module (App.js:150-156), the
+// bot-facing shell just never read them.
+import { isValidCategory as isValidGearCategory, generateFAQItems as generateGearCategoryFAQItems } from '../../packages/frontend/data/gearCategoryPages.js';
 // Issue #1064: source unique meta + Article schema for the full album/kit article
 // corpus from the same data the sitemap uses (api/sitemap.js:8).
 import { ALBUM_ARTICLES } from '../../packages/frontend/data/albumArticles.js';
@@ -4537,6 +4541,7 @@ export function getMetaForPath(pathname) {
     const drummer = getDrummerBySlug(drummerSlug);
     if (drummer) {
       const categoryLabel = category.charAt(0).toUpperCase() + category.slice(1);
+      const categoryFaqs = isValidGearCategory(category) ? generateGearCategoryFAQItems(drummer, category) : [];
       return {
         title: `${drummer.name} ${categoryLabel} — Drum Gear & Setup | ${SITE_NAME}`,
         description: `See what ${categoryLabel.toLowerCase()} ${drummer.name} uses. Complete ${drummer.band} drummer gear list with specs and prices.`,
@@ -4556,6 +4561,9 @@ export function getMetaForPath(pathname) {
           { name: drummer.name, url: `${BASE_URL}/drummer/${drummerSlug}` },
           { name: categoryLabel, url: `${BASE_URL}/drummer/${drummerSlug}/${category}` },
         ],
+        // Issue #4883: real per-category FAQ Q&A from gearCategoryPages.js —
+        // the same content already rendered client-side, now surfaced to bots.
+        faqSchema: categoryFaqs.length > 0 ? categoryFaqs : null,
         // Issue #4699: bot-facing SSR shell had zero internal links — nav dead
         // end for crawlers that don't execute JS. Evolution link only added
         // when DRUMMER_EVOLUTION has data for this drummer, since not every

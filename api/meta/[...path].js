@@ -2912,6 +2912,12 @@ export function getMetaForPath(pathname) {
           url: `${BASE_URL}/genre/${genreSlug}`,
           description: `Explore ${genreName.toLowerCase()} drummers and their complete gear setups on MetalForge.`,
           publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
+          ...(genreData.pioneers?.length
+            ? { mentions: genreData.pioneers.map(name => ({ '@type': 'Person', name })) }
+            : {}),
+          ...(genreData.characteristics?.length
+            ? { keywords: genreData.characteristics.join(', ') }
+            : {}),
         },
       ];
       if (faqItems.length > 0) {

@@ -2045,3 +2045,40 @@ Skipped — today is Friday, not Monday; no sweep due this run.
 - Watch #4831/#4832/#4833 through CEO triage and ship; verify with bot-UA curls per each issue's `## Verify` section (past bug class: schema landing on wrong/dead route handler, per #4738 — confirm roster-wide, not one sample).
 - Bank at 3 real (6 counting umbrella trackers) — still far below the 80 cap; keep filing as fresh gaps surface.
 - `danny carey drum set` content-gap row still open — watch next snapshot for CTR movement before considering further action.
+
+---
+## 2026-07-18 (Saturday, 2-hourly run) — Bank at 3, filed 3 fresh proposals (bank 3→6)
+
+### Context
+Bank check: 3 open `seo-proposal` at run start (all 3 standing L1/L2/L3 umbrella trackers #2211/#3810/#3819 — real proposal bank was 0; the #4843-4849 Speakable batch from the prior 22:15 run had already been promoted/shipped per `.agents/ceo/decisions-log.md`). ai-fix backlog was only 2 (near starvation territory per the CEO's most recent log entry). Well under the 45 floor → cleared to file up to 8. Today is Saturday (ISO week 29) — not Monday, drum-chair watch section skipped.
+
+Metrics (`.agents/ceo/metrics.md`, refreshed 2026-07-18 04:57 UTC): 412 users/434 sessions/710 views 7d, organic 142/434 sessions (32.7%), still second-largest channel behind Direct. GSC 5,941 impr/120 clicks/2.02% CTR/pos 11.0. One content-gap row: `danny carey drum set` (81 impr, 1.23% CTR) — already worked via #4739/#4746 (shipped repeatedly across recent runs); not re-filed, watching CTR trend.
+
+### Audit
+robots.txt: 10 explicit `Allow: /` directives (8 AI crawlers + wildcard), ✅ healthy. Live bot-UA (ClaudeBot) curl on homepage (200) and `/drummer/lars-ulrich` (200): BreadcrumbList/SpeakableSpecification/FAQPage/MusicGroup/Person/Article all present, Quick Facts `<table>` = 1. `public/llms/*.md` = 1,975 files on disk.
+
+### Fresh gap hunt
+Given how heavily this site's JSON-LD surface has already been swept this quarter (Speakable, BreadcrumbList, FAQPage-on-hubs, HowTo tool, ItemList numberOfItems, MusicGroup foundingDate/description, VideoObject duration/uploadDate, isAccessibleForFree, Person birthDate/sameAs, Dataset, CollectionPage pioneers/characteristics, ItemListElement description, MusicRecording BPM-source, technique/drummers jobTitle+description, Article author, birthdays birthPlace+image — all shipped/closed), dispatched an Explore agent with this full exclusion list to hunt specifically for NEW asymmetric "data exists but never wired into bot-facing schema" gaps outside all of those families. It surfaced 8 raw candidates; independently verified each with direct `Read`/`grep`/`node` before filing. Dropped one immediately as **unsafe to ship**:
+
+- **Dropped (binding-rule violation):** the agent's top pick — wiring `gearSeriesPages.js`'s `generateGearSeriesSchema()` (Product + `AggregateOffer` with Thomann/Sweetwater "affiliate" links) into `/gear/<brand>/<series>/drummers-using`. Verified `packages/frontend/affiliateLinks.js` uses a placeholder affiliate ID (`'metaldrummergear'`, literal string, comment says "Replace with actual affiliate IDs when obtained") on generic search-redirect URLs — not real retailer offers. CLAUDE.md's binding rule #3 explicitly requires `retailerUrls` stay empty until affiliates exist. Surfacing fake `AggregateOffer` schema would misrepresent non-existent commerce data to search engines. **Not filed, not proposed — flagging here so a future run doesn't re-surface it without first checking whether affiliates have gone live.**
+
+Filed the 3 candidates that verified clean and are genuinely new:
+- **#4883** — `/drummer/<slug>/<category>` pages (~90 pages, 6 categories × drummers with real gear data) get only a bare `CollectionPage` in `api/meta/[...path].js:4533-4568`, while `packages/frontend/data/gearCategoryPages.js` already has a working `generateFAQItems()`/`generateSchema()` pair (real per-category FAQ content, already consumed by the frontend at `App.js:150-156`) never imported into the bot-facing handler. Flagged a naming collision in the issue: a second, unrelated file `drummerGearCategoryPages.js` also exports `CATEGORY_META` but is UI-chrome-only (emoji/color/icon) — implementer must import the right one.
+- **#4884** — `/compare/<slug>` (12 brand-vs-brand pages) FAQ answers are 100% templated boilerplate reworded per brand pair; `gearComparisons.js` has real `pros`/`cons`/`specs`/`usedBy`/`bestFor`/`verdict` per pair, imported by the frontend (`App.js:1233-1266`) but never by `api/meta/[...path].js` (zero matches). Explicitly excluded the `rating` field from scope — it's an editorial score, not real reviews, and `AggregateRating` is gated on an actual reviews feature per this repo's own priority framework.
+- **#4885** — `/tools/compare/<d1>-vs-<d2>` pages: the "which is better" FAQ answer is generic boilerplate for every pair, but `drummerComparisons.js` has 226 curated `verdict` entries (real editorial conclusions per pair) — and `api/meta/[...path].js:30` already imports this exact module (used elsewhere in the same file for `ssrLinks`/hub FAQ count) but never looks it up in the `toolsCompareMatch` block. Noted a related-but-out-of-scope sitemap gap: only 20 of the 226 curated pairs are currently sitemap-declared (`top20GearComparisons` in `api/sitemap.js:297-317`) — did not bundle a sitemap fix into this proposal, kept atomic.
+
+Searched `gh issue list --state all --search` for `gearCategoryPages`, `gearComparisons`, `tools/compare verdict`, `drummerComparisons verdict`, and related keyword variants before filing all 3 — no duplicates. Closest near-misses were dozens of closed issues about *adding new* curated comparison pairs (data authoring), none about wiring the already-authored curated fields into the bot-facing schema.
+
+### Proposals filed this run
+1. #4883 — SEO batch: /drummer/<slug>/<category> pages ignore curated FAQ/schema module (~90 pages)
+2. #4884 — SEO: /compare/<slug> gear comparison pages ignore real editorial data (12 pages, boilerplate FAQ)
+3. #4885 — SEO: /tools/compare/<d1>-vs-<d2> pages ignore curated verdict/comparison content (226 pairs authored, FAQ still boilerplate)
+
+### Drum-chair watch
+Skipped — today is Saturday, not Monday; no sweep due this run.
+
+### Next run
+- Watch #4883/#4884/#4885 through CEO triage; verify each with the bot-UA curls in their `## Verify` sections post-deploy.
+- Do NOT re-surface the gearSeriesPages/AggregateOffer idea unless affiliates have actually gone live — check `packages/frontend/affiliateLinks.js` for a real (non-placeholder) affiliate ID first.
+- Consider a future, separate proposal for the `top20GearComparisons` sitemap-coverage gap (20 of 226 curated pairs indexable) — deliberately not bundled into #4885.
+- Bank now at 6 (3 fresh + 3 umbrella) — still far below the 80 cap; ai-fix backlog was only 2 at run start, close to starvation — this run's 3 fresh proposals should help refill it once CEO triages.

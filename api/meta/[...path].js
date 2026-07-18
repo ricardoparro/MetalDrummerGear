@@ -28,6 +28,7 @@ import { TOP_10_LISTS } from '../../packages/frontend/data/top10Lists.js';
 // Issue #4355: /vs hub bot-shell links — same curated comparison set the
 // frontend /vs hub page itself renders (getAllDrummerComparisons()).
 import { drummerComparisons as DRUMMER_COMPARISONS } from '../../packages/frontend/data/drummerComparisons.js';
+import { getGearComparisonBySlug } from '../../packages/frontend/data/gearComparisons.js';
 // Issue #1379: /gear/<brand>/<series>/drummers-using SSR meta (~40 pages).
 // Issue #3714: GEAR_INDEX_BRAND_LEVEL adds brand-only "drummers using" pages
 // (Evans, Remo drumheads) at the reserved series slug (see BRAND_LEVEL_SERIES_SLUG).
@@ -1814,6 +1815,31 @@ export function getMetaForPath(pathname) {
       b.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ')
     );
     const title = `${brand1} vs ${brand2}`;
+
+    // Issue #4884: use curated pros/cons/usedBy/bestFor/verdict content from
+    // gearComparisons.js when this slug has one of the 12 authored entries,
+    // instead of reconstructing generic boilerplate from the URL slug string.
+    // Deliberately excludes the `rating` field — no AggregateRating/Review schema.
+    const curated = getGearComparisonBySlug(slug);
+    const curatedItems = curated?.items || [];
+    const usedByLine = curatedItems
+      .map(item => {
+        const names = (item.usedBy || []).map(u => (typeof u === 'string' ? u : u?.name)).filter(Boolean);
+        if (!names.length) return null;
+        return `${item.brand} is used by ${names.join(', ')}${item.bestFor ? ` (best for ${item.bestFor})` : ''}`;
+      })
+      .filter(Boolean)
+      .join('. ');
+    const verdictText = curated?.verdict
+      ? (typeof curated.verdict === 'string'
+        ? curated.verdict
+        : curated.verdict.content?.split('\n\n')[0]?.trim() || curated.verdict.title)
+      : null;
+    const priceLine = curatedItems
+      .map(item => (item.priceRange ? `${item.brand} (${item.priceRange})${item.bestFor ? ` for ${item.bestFor}` : ''}` : null))
+      .filter(Boolean)
+      .join('. ');
+
     return {
       title: `${title} — Drum Gear Comparison | ${SITE_NAME}`,
       description: `Compare ${title} for metal drumming: specs, pro endorsements, price points, and which metal legends use each. Side-by-side gear breakdown.`,
@@ -1831,7 +1857,7 @@ export function getMetaForPath(pathname) {
           {
             '@type': 'Article',
             headline: `${brand1} vs ${brand2} — Drum Gear Comparison`,
-            description: `Side-by-side comparison of ${brand1} and ${brand2} for metal drumming.`,
+            description: verdictText || `Side-by-side comparison of ${brand1} and ${brand2} for metal drumming.`,
             url: `${BASE_URL}/compare/${slug}`,
             publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
             author: { '@type': 'Organization', name: 'MetalForge' },
@@ -1848,7 +1874,7 @@ export function getMetaForPath(pathname) {
                 name: `Is ${brand1} or ${brand2} better for metal drumming?`,
                 acceptedAnswer: {
                   '@type': 'Answer',
-                  text: `Both ${brand1} and ${brand2} are used by professional metal drummers. The choice depends on playing style, budget, and personal preference. See our full comparison at metalforge.io/compare/${slug}.`,
+                  text: verdictText || `Both ${brand1} and ${brand2} are used by professional metal drummers. The choice depends on playing style, budget, and personal preference. See our full comparison at metalforge.io/compare/${slug}.`,
                 },
               },
               {
@@ -1856,7 +1882,9 @@ export function getMetaForPath(pathname) {
                 name: `Which pro metal drummers use ${brand1} vs ${brand2}?`,
                 acceptedAnswer: {
                   '@type': 'Answer',
-                  text: `Many top metal drummers prefer ${brand1} while others choose ${brand2}. MetalForge tracks gear used by ${drummers.length} pro metal drummers — see the full breakdown at metalforge.io/compare/${slug}.`,
+                  text: usedByLine
+                    ? `${usedByLine}. See the full breakdown at metalforge.io/compare/${slug}.`
+                    : `Many top metal drummers prefer ${brand1} while others choose ${brand2}. MetalForge tracks gear used by ${drummers.length} pro metal drummers — see the full breakdown at metalforge.io/compare/${slug}.`,
                 },
               },
               {
@@ -1864,7 +1892,9 @@ export function getMetaForPath(pathname) {
                 name: `What is the price difference between ${brand1} and ${brand2}?`,
                 acceptedAnswer: {
                   '@type': 'Answer',
-                  text: `Prices vary by product line and configuration. MetalForge's ${brand1} vs ${brand2} comparison page shows current pricing and pro-endorsed models side by side.`,
+                  text: priceLine
+                    ? `${priceLine}. See the full spec breakdown at metalforge.io/compare/${slug}.`
+                    : `Prices vary by product line and configuration. MetalForge's ${brand1} vs ${brand2} comparison page shows current pricing and pro-endorsed models side by side.`,
                 },
               },
             ],

@@ -2,6 +2,16 @@
 
 Weekly automated check on how many of our sitemap URLs Google actually indexes — and which ones got rejected, broke, or regressed. Closes the most expensive gap in the SEO pipeline: pages that ship but never reach the index.
 
+> **2026-07-16 overhaul (PR #4868)** — the original implementation inspected the same
+> fixed top-500 slice every week (rotation was promised but never implemented; 90%+ of
+> the sitemap was never inspected). Now: **250 fixed sentinels** (top-priority, the
+> only week-over-week-comparable trend) + **250 rotating** through the rest, cursor
+> persisted as `rotationCursor` in the history JSON (full cycle ≈ 11 runs), plus the
+> **earning-pages full-site proxy** — GSC Search Analytics by `page` (90d window):
+> pages with ≥1 impression are indexed by definition, with zero inspection quota.
+> Same date, the sitemap itself was cut 6,523 → ~2,800 URLs (PR #4867). Full analysis
+> and verification expectations: [`seo-l2-l3-recovery.md`](seo-l2-l3-recovery.md).
+
 ## Why this exists
 
 Every URL in `sitemap.xml` was paid for in Ralph minutes + Claude tokens. Google typically indexes 40–60% of declared sitemap URLs for a site of MetalForge's authority. The rest sit in two purgatories:

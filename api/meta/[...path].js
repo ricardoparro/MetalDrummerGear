@@ -46,6 +46,9 @@ import { DRUMMER_EVOLUTION } from '../../packages/frontend/data/drummerEvolution
 import { CURATED_MATCHUPS } from '../../packages/frontend/data/battles.js';
 // Issue #1474: /drummers/<slug>/signature/<gearSlug> pages — Product + BreadcrumbList JSON-LD.
 import { SIGNATURE_GEAR } from '../../packages/frontend/data/signatureGear.js';
+// Issue #4883: /drummer/<slug>/<category> pages — curated FAQ/schema module the
+// frontend (App.js) already renders for real visitors; bot-facing SSR shell was missing it.
+import { generateFAQItems, isValidCategory } from '../../packages/frontend/data/gearCategoryPages.js';
 // Issue #1522: Quotation + ItemList JSON-LD for /quotes page.
 import { getAllQuotes } from '../quotes-data.js';
 // Issue #1794: genre gear guide pages — /guides/best-[gear]-for-[genre]
@@ -4537,6 +4540,12 @@ export function getMetaForPath(pathname) {
     const drummer = getDrummerBySlug(drummerSlug);
     if (drummer) {
       const categoryLabel = category.charAt(0).toUpperCase() + category.slice(1);
+      // Issue #4883: reuse the curated per-category FAQ/schema module App.js
+      // already imports for real visitors (generateFAQItems/CATEGORY_META in
+      // gearCategoryPages.js) so the bot-facing SSR shell isn't FAQ-less.
+      // `heads` has no CATEGORY_META entry — isValidCategory keeps it on the
+      // generic fallback below rather than fabricating editorialIntro copy.
+      const hasCategoryFaqs = isValidCategory(category);
       return {
         title: `${drummer.name} ${categoryLabel} — Drum Gear & Setup | ${SITE_NAME}`,
         description: `See what ${categoryLabel.toLowerCase()} ${drummer.name} uses. Complete ${drummer.band} drummer gear list with specs and prices.`,
@@ -4556,6 +4565,7 @@ export function getMetaForPath(pathname) {
           { name: drummer.name, url: `${BASE_URL}/drummer/${drummerSlug}` },
           { name: categoryLabel, url: `${BASE_URL}/drummer/${drummerSlug}/${category}` },
         ],
+        faqSchema: hasCategoryFaqs ? generateFAQItems(drummer, category) : null,
         // Issue #4699: bot-facing SSR shell had zero internal links — nav dead
         // end for crawlers that don't execute JS. Evolution link only added
         // when DRUMMER_EVOLUTION has data for this drummer, since not every

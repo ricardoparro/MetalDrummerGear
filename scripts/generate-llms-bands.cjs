@@ -82,7 +82,7 @@ function renderBand(band) {
   if (Array.isArray(band.discography) && band.discography.length > 0) {
     const releases = band.discography
       .map(r => {
-        const title = r.name || r.album || '';
+        const title = r.title || r.name || r.album || '';
         const year = r.year ? ` (${r.year})` : '';
         const note = r.note ? ` — ${r.note}` : '';
         return `${title}${year}${note}`;

@@ -3,7 +3,7 @@
 > Structured reference for metal bands, their drummer history, discography, and gear.
 > Optimised for AI crawlers answering "who drums for <band>" queries.
 >
-> Last updated: 2026-07-16 · 35 bands
+> Last updated: 2026-07-18 · 35 bands
 
 ---
 ## Animals as Leaders
@@ -16,7 +16,7 @@ Animals as Leaders, formed in 2007 in Washington D.C. by guitarist Tosin Abasi, 
 - Navene Koperweis — 2009-2012 (First live drummer, joined 2009 (debut album drums were programmed, not performed by him); also drummer in Entheos)
 - Matt Garstka — 2012-present (Known for jazz-fusion approach and polyrhythmic mastery)
 
-**Key releases:**  (2009),  (2011),  (2014),  (2016),  (2022)
+**Key releases:** Animals as Leaders (2009), Weightless (2011), The Joy of Motion (2014), The Madness of Many (2016), Parrhesia (2022)
 
 **FAQ:**
 - **Who is the drummer for Animals as Leaders?** Matt Garstka has been the band's drummer since March 2012, when he replaced Navene Koperweis. He is known for a jazz-fusion approach and polyrhythmic mastery.
@@ -38,7 +38,7 @@ Anthrax, formed in 1981, is one of the Big Four of thrash metal.
 - Greg Dangelo — 1982-1983 (Appeared on the 'Soldiers of Metal' single)
 - Charlie Benante — 1983-present (Joined September 1983; drummer on all studio albums from Fistful of Metal (1984) onward, with no documented tenure gaps)
 
-**Key releases:**  (1984),  (1985),  (1987),  (1988),  (1990),  (1993),  (1995),  (1998),  (2003),  (2011),  (2016)
+**Key releases:** Fistful of Metal (1984), Spreading the Disease (1985), Among the Living (1987), State of Euphoria (1988), Persistence of Time (1990), Sound of White Noise (1993), Stomp 442 (1995), Volume 8: The Threat Is Real (1998), We've Come for You All (2003), Worship Music (2011), For All Kings (2016)
 
 **FAQ:**
 - **Who is the drummer for Anthrax?** Charlie Benante has been Anthrax's drummer since September 1983, appearing on every album from Fistful of Metal (1984) to the present, including the upcoming Cursum Perficio (2026).
@@ -60,7 +60,7 @@ Behemoth, formed in 1991, evolved from black metal to become a leading blackened
 - Baal Ravenlock — 1991-1996 (Adam "Baal Ravenlock" Muraszko; original drummer during the band's early black metal era)
 - Inferno — 1997-1999, 2000-present (Zbigniew Promiński; briefly left around the release of Satanica (1999), returned early 2000; took paternity leave July 2017 with Jan "the Charn" Rice filling in on tour)
 
-**Key releases:**  (1995),  (1996),  (1998),  (1999),  (2000),  (2002),  (2004),  (2007),  (2009),  (2014),  (2018),  (2022)
+**Key releases:** Sventevith (Storming Near the Baltic) (1995), Grom (1996), Pandemonic Incantations (1998), Satanica (1999), Thelema.6 (2000), Zos Kia Cultus (Here and Beyond) (2002), Demigod (2004), The Apostasy (2007), Evangelion (2009), The Satanist (2014), I Loved You at Your Darkest (2018), Opvs Contra Natvram (2022)
 
 **FAQ:**
 - **Who is the drummer for Behemoth?** Zbigniew "Inferno" Promiński has been Behemoth's drummer since 1997 (with a brief gap around 1999-2000), making him the band's longest-serving drummer by far.
@@ -82,7 +82,7 @@ Cannibal Corpse, formed in 1988, is one of the best-selling and most influential
 **Drummer history:**
 - Paul Mazurkiewicz — 1988-present (Founding member; drummer on every Cannibal Corpse studio album with no gaps)
 
-**Key releases:**  (1990),  (1991),  (1992),  (1994),  (1996),  (1998),  (1999),  (2002),  (2004),  (2006),  (2009),  (2012),  (2014),  (2017),  (2021),  (2023)
+**Key releases:** Eaten Back to Life (1990), Butchered at Birth (1991), Tomb of the Mutilated (1992), The Bleeding (1994), Vile (1996), Gallery of Suicide (1998), Bloodthirst (1999), Gore Obsessed (2002), The Wretched Spawn (2004), Kill (2006), Evisceration Plague (2009), Torture (2012), A Skeletal Domain (2014), Red Before Black (2017), Violence Unimagined (2021), Chaos Horrific (2023)
 
 **FAQ:**
 - **Who is the drummer for Cannibal Corpse?** Paul Mazurkiewicz has been Cannibal Corpse's drummer since the band's founding in December 1988, and has drummed on every studio album the band has released.
@@ -103,7 +103,7 @@ Cavalera Conspiracy, formed in 2007, reunited brothers Max and Igor Cavalera aft
 **Drummer history:**
 - Igor Cavalera — 2007-present (Co-founder, former Sepultura drummer; has drummed on all four studio albums and remains the band's drummer)
 
-**Key releases:**  (2008),  (2011),  (2014),  (2017)
+**Key releases:** Inflikted (2008), Blunt Force Trauma (2011), Pandemonium (2014), Psychosis (2017)
 
 **FAQ:**
 - **Who is the drummer for Cavalera Conspiracy?** Igor Cavalera, co-founder of the band and former Sepultura drummer, has drummed for Cavalera Conspiracy continuously since it was founded in 2007 -- he has not left the band.
@@ -125,7 +125,7 @@ Cynic, formed in 1987 in Miami, Florida, fused technical death metal with jazz f
 - Matt Lynch — 2015-2025 (Joined September 2015, recorded Ascension Codes; left May 2025 after 10 years)
 - Michel Belanger — 2025-present (Also drummer for Gorguts; joined May 2025)
 
-**Key releases:**  (1993),  (2008),  (2014),  (2021)
+**Key releases:** Focus (1993), Traced in Air (2008), Kindly Bent to Free Us (2014), Ascension Codes (2021)
 
 **FAQ:**
 - **Who is the drummer for Cynic?** Michel Bélanger, also known as the drummer for Gorguts, has drummed for Cynic since May 2025, when he replaced Matt Lynch.
@@ -146,7 +146,7 @@ Damageplan, formed in 2003 by brothers Vinnie Paul and Dimebag Darrell Abbott af
 **Drummer history:**
 - Vinnie Paul — 2003-2004 (Co-founder with brother Dimebag Darrell; the band's only drummer)
 
-**Key releases:**  (2004)
+**Key releases:** New Found Power (2004)
 
 **FAQ:**
 - **Who is the drummer for Damageplan?** Vinnie Paul (former Pantera drummer) was Damageplan's only drummer, from the band's formation in 2003 until it ended in December 2004.
@@ -172,7 +172,7 @@ Death, formed in 1984 by Chuck Schuldiner, is considered the pioneer of death me
 - Gene Hoglan — 1992-1995 (Joined December 1992; recorded Individual Thought Patterns (1993) and Symbolic (1995))
 - Richard Christy — 1997-2001 (Recorded The Sound of Perseverance (1998); remained until the band's dissolution)
 
-**Key releases:**  (1987),  (1988),  (1990),  (1991),  (1993),  (1995),  (1998)
+**Key releases:** Scream Bloody Gore (1987), Leprosy (1988), Spiritual Healing (1990), Human (1991), Individual Thought Patterns (1993), Symbolic (1995), The Sound of Perseverance (1998)
 
 **FAQ:**
 - **Who is the drummer for Death?** Richard Christy was Death's final drummer, joining in 1997 and recording the band's last album, The Sound of Perseverance (1998), remaining until the band's dissolution following founder Chuck Schuldiner's death in December 2001.
@@ -196,7 +196,7 @@ Deftones, formed in 1988 in Sacramento, blend heavy music with atmospheric, shoe
 - John Taylor — 1991-1993 (Covered drums during Cunningham's absence, prior to any studio album)
 - Abe Cunningham — 1993-present (Returned in 1993; has drummed on every studio album from Adrenaline (1995) onward with no further gaps)
 
-**Key releases:**  (1995),  (1997),  (2000),  (2003),  (2006),  (2010),  (2012),  (2016),  (2020),  (2025)
+**Key releases:** Adrenaline (1995), Around the Fur (1997), White Pony (2000), Deftones (2003), Saturday Night Wrist (2006), Diamond Eyes (2010), Koi No Yokan (2012), Gore (2016), Ohms (2020), Private Music (2025)
 
 **FAQ:**
 - **Who is the drummer for Deftones?** Abe Cunningham has been Deftones' drummer since co-founding the band in 1988, aside from a brief 1990-1993 absence before the band's first studio album, and has played on every Deftones studio album since Adrenaline (1995).
@@ -219,7 +219,7 @@ Dream Theater, formed in 1985, defined progressive metal with virtuosic musician
 - Mike Mangini — 2011-2023 (Selected via public 2010-2011 audition process; played on A Dramatic Turn of Events through A View from the Top of the World)
 - Mike Portnoy — 2023-present (Rejoined the band October 2023; returned to the studio for Parasomnia (2025))
 
-**Key releases:**  (1989),  (1992),  (1994),  (1997),  (1999),  (2002),  (2003),  (2005),  (2007),  (2009),  (2011),  (2013),  (2016),  (2019),  (2021),  (2025)
+**Key releases:** When Dream and Day Unite (1989), Images and Words (1992), Awake (1994), Falling into Infinity (1997), Metropolis Pt. 2: Scenes from a Memory (1999), Six Degrees of Inner Turbulence (2002), Train of Thought (2003), Octavarium (2005), Systematic Chaos (2007), Black Clouds & Silver Linings (2009), A Dramatic Turn of Events (2011), Dream Theater (2013), The Astonishing (2016), Distance Over Time (2019), A View from the Top of the World (2021), Parasomnia (2025)
 
 **FAQ:**
 - **Who is the drummer for Dream Theater?** Mike Portnoy is Dream Theater's drummer. He co-founded the band in 1985, played on every album through Black Clouds & Silver Linings (2009), left in 2010, and rejoined in October 2023, returning to the studio for Parasomnia (2025).
@@ -240,7 +240,7 @@ Gojira is a French progressive/technical death metal band formed in 1996 in Bayo
 **Drummer history:**
 - Mario Duplantier — 1996-present (Co-founder with brother Joe, has been the only drummer in band history)
 
-**Key releases:**  (2001),  (2003),  (2005),  (2008),  (2012),  (2016),  (2021)
+**Key releases:** Terra Incognita (2001), The Link (2003), From Mars to Sirius (2005), The Way of All Flesh (2008), L'Enfant Sauvage (2012), Magma (2016), Fortitude (2021)
 
 **FAQ:**
 - **Who is the drummer for Gojira?** Mario Duplantier has been Gojira's drummer since the band's founding in 1996, making him the only drummer in the band's history.
@@ -266,7 +266,7 @@ Hellyeah, formed in 2006, was a groove metal supergroup featuring Pantera's Vinn
 - Vinnie Paul — 2006-2018 (Founding drummer; recorded on all studio albums through Welcome Home (2019), completing most of its tracks before his death in June 2018)
 - Roy Mayorga — 2019-2021 (Joined as touring/live drummer after Vinnie Paul's death; did not record studio drum tracks on any Hellyeah album; band went on hiatus circa 2021)
 
-**Key releases:**  (2007),  (2010),  (2012),  (2014),  (2016),  (2019)
+**Key releases:** Hellyeah (2007), Stampede (2010), Band of Brothers (2012), Blood for Blood (2014), Unden!able (2016), Welcome Home (2019)
 
 **FAQ:**
 - **Who is the drummer for Hellyeah?** Roy Mayorga (also of Stone Sour) is Hellyeah's most recent drummer, joining in 2019 to tour behind the Welcome Home album and continuing until the band went on hiatus around 2021. Founding drummer Vinnie Paul recorded with the band from 2006 until his death in June 2018.
@@ -291,7 +291,7 @@ Korn, formed in 1993 in Bakersfield, California, is credited with pioneering the
 - Joey Jordison — 2007-2008 (Slipknot drummer, filled in for live shows before Ray Luzier's hiring)
 - Ray Luzier — 2009-present (Became full-time official member in 2009; first studio album Korn III: Remember Who You Are (2010))
 
-**Key releases:**  (1994),  (1996),  (1998),  (1999),  (2002),  (2003),  (2005),  (2007),  (2010),  (2011),  (2013),  (2016),  (2019),  (2022)
+**Key releases:** Korn (1994), Life Is Peachy (1996), Follow the Leader (1998), Issues (1999), Untouchables (2002), Take a Look in the Mirror (2003), See You on the Other Side (2005), Untitled album (2007), Korn III: Remember Who You Are (2010), The Path of Totality (2011), The Paradigm Shift (2013), The Serenity of Suffering (2016), The Nothing (2019), Requiem (2022)
 
 **FAQ:**
 - **Who is the drummer for Korn?** Ray Luzier has been Korn's drummer since 2007, becoming a full-time official member in 2009. His first studio album with the band was Korn III: Remember Who You Are (2010).
@@ -312,7 +312,7 @@ Kublai Khan TX, formed in 2009 in Sherman, Texas, is a leading force in beatdown
 **Drummer history:**
 - Isaac Lamb — 2009-present (Founding member, only drummer in band history, no documented gaps)
 
-**Key releases:**  (2010),  (2014),  (2015),  (2017),  (2019),  (2022),  (2024)
+**Key releases:** Youth War (2010), Balancing Survival and Happiness (2014), New Strength (2015), Nomad (2017), Absolute (2019), Lowest Form of Animal (2022), Exhibition of Prowess (2024)
 
 **FAQ:**
 - **Who is the drummer for Kublai Khan TX?** Isaac Lamb has been Kublai Khan TX's drummer since the band's founding in 2009 — he is the only drummer in the band's entire history.
@@ -336,7 +336,7 @@ Lamb of God, formed in 1994 in Richmond, Virginia, is one of the most influentia
 - Chris Adler — 1994-2019 (Founding member and drummer on every album from Burn the Priest (1999) through VII: Sturm und Drang (2015))
 - Art Cruz — 2019-present (Filled in on tour in 2018-2019 before becoming the permanent drummer in July 2019; drummer on the self-titled 2020 album and Omens (2022))
 
-**Key releases:**  (1999),  (2000),  (2003),  (2004),  (2006),  (2009),  (2012),  (2015),  (2020),  (2022)
+**Key releases:** Burn the Priest (1999), New American Gospel (2000), As the Palaces Burn (2003), Ashes of the Wake (2004), Sacrament (2006), Wrath (2009), Resolution (2012), VII: Sturm und Drang (2015), Lamb of God (2020), Omens (2022)
 
 **FAQ:**
 - **Who is the drummer for Lamb of God?** Art Cruz, formerly of Winds of Plague and Prong, has been Lamb of God's drummer since 2019, and has recorded the self-titled Lamb of God (2020) and Omens (2022) albums with the band.
@@ -358,7 +358,7 @@ Limp Bizkit, formed in 1994, fused rap and metal to become one of the biggest nu
 - John Otto — 1994-present (Founding member; drummer on every studio album)
 - Sammy Siegler — 2005 (Session fill-in for much of The Unquestionable Truth (Part 1) EP only, not a full member)
 
-**Key releases:**  (1997),  (1999),  (2000),  (2003),  (2011),  (2021)
+**Key releases:** Three Dollar Bill, Y'all (1997), Significant Other (1999), Chocolate Starfish and the Hot Dog Flavored Water (2000), Results May Vary (2003), Gold Cobra (2011), Still Sucks (2021)
 
 **FAQ:**
 - **Who is the drummer for Limp Bizkit?** John Otto has been Limp Bizkit's drummer since the band's founding in 1994. He is one of four founding members alongside Fred Durst, Wes Borland, and DJ Lethal.
@@ -379,7 +379,7 @@ Mastodon, formed in 2000 in Atlanta, Georgia, blends sludge metal heaviness with
 **Drummer history:**
 - Brann Dailor — 2000-present (Founding member, sole drummer throughout the band's history; also handles vocals)
 
-**Key releases:**  (2002),  (2004),  (2006),  (2009),  (2011),  (2014),  (2017),  (2021),  (2026)
+**Key releases:** Remission (2002), Leviathan (2004), Blood Mountain (2006), Crack the Skye (2009), The Hunter (2011), Once More 'Round the Sun (2014), Emperor of Sand (2017), Hushed and Grim (2021), Marrow Deep (2026)
 
 **FAQ:**
 - **Who is the drummer for Mastodon?** Brann Dailor has been Mastodon's sole drummer since the band's formation in January 2000; he also contributes lead and backing vocals.
@@ -409,7 +409,7 @@ Megadeth, formed in 1983 in Los Angeles by Dave Mustaine, is one of the 'Big Fou
 - Chris Adler — 2015-2016 (Recorded Dystopia but did not tour with the band)
 - Dirk Verbeuren — 2016-present (Former Soilwork drummer; took over touring duties in 2016 and was made permanent)
 
-**Key releases:**  (1985),  (1986),  (1988),  (1990),  (1992),  (1994),  (1997),  (1999),  (2001),  (2004),  (2007),  (2009),  (2011),  (2013),  (2016),  (2022)
+**Key releases:** Killing Is My Business...and Business Is Good! (1985), Peace Sells...but Who's Buying? (1986), So Far, So Good...So What! (1988), Rust in Peace (1990), Countdown to Extinction (1992), Youthanasia (1994), Cryptic Writings (1997), Risk (1999), The World Needs a Hero (2001), The System Has Failed (2004), United Abominations (2007), Endgame (2009), Th1rt3en (2011), Super Collider (2013), Dystopia (2016), The Sick, the Dying...and the Dead! (2022)
 
 **FAQ:**
 - **Who is the drummer for Megadeth?** Dirk Verbeuren, formerly of Soilwork, has been Megadeth's drummer since 2016, and recorded The Sick, the Dying...and the Dead! (2022).
@@ -431,7 +431,7 @@ Meshuggah, formed in 1987 in Sweden, pioneered djent and polyrhythmic metal.
 - Niklas Lundgren — 1987-1990 (Original drummer; played on the band's 1989 self-titled EP (Psykisk Testbild) before being replaced by Tomas Haake in 1990)
 - Tomas Haake — 1990-present (Replaced founding drummer Niklas Lundgren in 1990; has recorded every Meshuggah studio album since the 1991 debut Contradictions Collapse)
 
-**Key releases:**  (1991),  (1995),  (1998),  (2002),  (2005),  (2008),  (2012),  (2016),  (2022)
+**Key releases:** Contradictions Collapse (1991), Destroy Erase Improve (1995), Chaosphere (1998), Nothing (2002), Catch Thirtythree (2005), obZen (2008), Koloss (2012), The Violent Sleep of Reason (2016), Immutable (2022)
 
 **FAQ:**
 - **Who is the drummer for Meshuggah?** Tomas Haake has been Meshuggah's drummer since 1990 and has recorded every studio album from Contradictions Collapse (1991) through Immutable (2022).
@@ -451,7 +451,7 @@ Metallica, formed in 1981 in Los Angeles, is one of the most influential thrash 
 **Drummer history:**
 - Lars Ulrich — 1981-present (Co-founder; only drummer to ever record on a Metallica studio album. A one-off live exception occurred at the June 2004 Download Festival, where Ulrich was hospitalized and Dave Lombardo and Joey Jordison filled in for a single show.)
 
-**Key releases:**  (1983),  (1984),  (1986),  (1988),  (1991),  (1996),  (1997),  (2003),  (2008),  (2016),  (2023)
+**Key releases:** Kill 'Em All (1983), Ride the Lightning (1984), Master of Puppets (1986), ...And Justice for All (1988), Metallica (1991), Load (1996), Reload (1997), St. Anger (2003), Death Magnetic (2008), Hardwired... to Self-Destruct (2016), 72 Seasons (2023)
 
 **FAQ:**
 - **Who is the drummer for Metallica?** Lars Ulrich has been Metallica's drummer since the band's founding in 1981. He is a co-founder who placed the original newspaper ad that led to the band's formation.
@@ -477,7 +477,7 @@ Morbid Angel, formed in 1983 in Tampa, Florida, is one of the founding bands of 
 - Scott Fuller — 2017-2023 (Recorded Kingdoms Disdained)
 - Charlie Koryn — 2023-present (Joined for 2023 spring American tour)
 
-**Key releases:**  (1989),  (1991),  (1993),  (1995),  (1998),  (2000),  (2003),  (2011),  (2017)
+**Key releases:** Altars of Madness (1989), Blessed Are the Sick (1991), Covenant (1993), Domination (1995), Formulas Fatal to the Flesh (1998), Gateways to Annihilation (2000), Heretic (2003), Illud Divinum Insanus (2011), Kingdoms Disdained (2017)
 
 **FAQ:**
 - **Who is the drummer for Morbid Angel?** Charlie Koryn has drummed with Morbid Angel since joining for their 2023 spring American tour, following Scott Fuller's departure.
@@ -498,7 +498,7 @@ Murderdolls, formed in 2002 in Hollywood, California, is a horror punk project c
 **Drummer history:**
 - Joey Jordison — 2002-2004, 2010-2011 (Recorded studio drums on both Murderdolls albums despite being billed/touring as guitarist; died 2021)
 
-**Key releases:**  (2002),  (2010)
+**Key releases:** Beyond the Valley of the Murderdolls (2002), Women and Children Last (2010)
 
 **FAQ:**
 - **Who is the drummer for Murderdolls?** Joey Jordison (better known as Slipknot's original drummer) played guitar in Murderdolls' touring lineup but actually recorded the studio drum tracks on both Murderdolls albums himself. Ben Graves (2002-2004) and Racci Shay (2010-2011) were touring-only drummers who did not play on the studio recordings.
@@ -522,7 +522,7 @@ Nile, formed in 1993, combines technical death metal with ancient Egyptian theme
 - Tony Laureano — 2000-2004 (Drummer on In Their Darkened Shrines)
 - George Kollias — 2004-present (Joined before Annihilation of the Wicked; drummer on all Nile albums since 2005)
 
-**Key releases:**  (1998),  (2000),  (2002),  (2005),  (2007),  (2009),  (2012),  (2015),  (2019),  (2024)
+**Key releases:** Amongst the Catacombs of Nephren-Ka (1998), Black Seeds of Vengeance (2000), In Their Darkened Shrines (2002), Annihilation of the Wicked (2005), Ithyphallic (2007), Those Whom the Gods Detest (2009), At the Gate of Sethu (2012), What Should Not Be Unearthed (2015), Vile Nilotic Rites (2019), The Underworld Awaits Us All (2024)
 
 **FAQ:**
 - **Who is the drummer for Nile?** George Kollias has been Nile's drummer since 2004, first recording on Annihilation of the Wicked (2005). He is known for his extreme speed and endurance and has also released instructional drumming material.
@@ -547,7 +547,7 @@ Opeth, formed in 1990 in Stockholm, Sweden, pioneered a fusion of death metal an
 - Martin Axenrot — 2006-2021 (Also plays in Bloodbath; left November 2021 over vaccination conflict)
 - Waltteri Vayrynen — 2022-present (Formerly of Paradise Lost and Bodom After Midnight)
 
-**Key releases:**  (1995),  (1996),  (1998),  (1999),  (2001),  (2002),  (2003),  (2005),  (2008),  (2011),  (2014),  (2016),  (2019),  (2024)
+**Key releases:** Orchid (1995), Morningrise (1996), My Arms, Your Hearse (1998), Still Life (1999), Blackwater Park (2001), Deliverance (2002), Damnation (2003), Ghost Reveries (2005), Watershed (2008), Heritage (2011), Pale Communion (2014), Sorceress (2016), In Cauda Venenum (2019), The Last Will and Testament (2024)
 
 **FAQ:**
 - **Who is the drummer for Opeth?** Waltteri Väyrynen has been Opeth's drummer since September 2022, when he was announced as the replacement for Martin Axenrot. Väyrynen previously drummed for Paradise Lost and Alexi Laiho's Bodom After Midnight.
@@ -569,7 +569,7 @@ Pantera, formed in 1981, defined groove metal with Vinnie Paul's powerful drummi
 - Vinnie Paul — 1981-2003 (Co-founder; played on all nine studio albums, Metal Magic (1983) through Reinventing the Steel (2000))
 - Charlie Benante — 2022-present (Anthrax's drummer, serving as a touring musician for the reunion lineup; no new studio album recorded as of 2026)
 
-**Key releases:**  (1983),  (1984),  (1985),  (1988),  (1990),  (1992),  (1994),  (1996),  (2000)
+**Key releases:** Metal Magic (1983), Projects in the Jungle (1984), I Am the Night (1985), Power Metal (1988), Cowboys from Hell (1990), Vulgar Display of Power (1992), Far Beyond Driven (1994), The Great Southern Trendkill (1996), Reinventing the Steel (2000)
 
 **FAQ:**
 - **Who is the drummer for Pantera?** Vinnie Paul Abbott was Pantera's drummer and co-founder from 1981 until the band's 2003 breakup, playing on every studio album. He died in 2018. Since the band's 2022 reunion tour, Anthrax drummer Charlie Benante has filled the drum seat as a touring musician.
@@ -592,7 +592,7 @@ Periphery, formed in 2005 in the Washington D.C. area, helped pioneer the djent 
 - Travis Orbin — 2008-2009 (Replaced Berlin; left in 2009 to join Sky Eats Airplane)
 - Matt Halpern — 2009-present (One of the architects of the djent movement)
 
-**Key releases:**  (2010),  (2012),  (2015),  (2015),  (2016),  (2019),  (2023)
+**Key releases:** Periphery (2010), Periphery II: This Time It's Personal (2012), Juggernaut: Alpha (2015), Juggernaut: Omega (2015), Periphery III: Select Difficulty (2016), Periphery IV: Hail Stan (2019), Periphery V: Djent Is Not a Genre (2023)
 
 **FAQ:**
 - **Who is the drummer for Periphery?** Matt Halpern has been Periphery's drummer since 2009, when he replaced Travis Orbin. He was scouted by founder Misha Mansoor while playing in a local pop band, and is regarded as one of the architects of the djent movement.
@@ -616,7 +616,7 @@ Sepultura formed 1984, Brazilian thrash pioneers, disbanded 2024.
 - Eloy Casagrande — 2011-2024 (Joined November 2011, departed February 2024 to join Slipknot; drummed Mediator (2013), Machine Messiah (2017), Quadra (2020))
 - Greyson Nekrutman — 2024 (Joined on short notice after Casagrande's departure for the band's farewell-tour era)
 
-**Key releases:**  (1986),  (1987),  (1989),  (1991),  (1993),  (1996),  (1998),  (2001),  (2003),  (2006),  (2009),  (2011),  (2013),  (2017),  (2020)
+**Key releases:** Morbid Visions (1986), Schizophrenia (1987), Beneath the Remains (1989), Arise (1991), Chaos A.D. (1993), Roots (1996), Against (1998), Nation (2001), Roorback (2003), Dante XXI (2006), A-Lex (2009), Kairos (2011), The Mediator Between Head and Hands Must Be the Heart (2013), Machine Messiah (2017), Quadra (2020)
 
 **FAQ:**
 - **Who is the drummer for Sepultura?** Sepultura's final drummer was Greyson Nekrutman, who joined in February 2024 after Eloy Casagrande's abrupt departure to join Slipknot. Nekrutman drummed the band's farewell-era output before Sepultura's retirement from touring.
@@ -641,7 +641,7 @@ Slayer, formed in 1981, defined extreme thrash metal with aggressive drumming.
 - Paul Bostaph — 1992-1996, 1997-2001, 2013-2019 (Three separate stints; played Slayer's final show, November 30, 2019)
 - Jon Dette — 1996-1997 (Ex-Testament; filled in between Bostaph's first and second stints. No verified fill-in drummer exists for the 1992 Lombardo-to-Bostaph transition or for the 2019 farewell-tour finale; Bostaph played through to the band's last show.)
 
-**Key releases:**  (1983),  (1985),  (1986),  (1988),  (1990),  (1994),  (1996),  (1998),  (2001),  (2006),  (2009),  (2015)
+**Key releases:** Show No Mercy (1983), Hell Awaits (1985), Reign in Blood (1986), South of Heaven (1988), Seasons in the Abyss (1990), Divine Intervention (1994), Undisputed Attitude (1996), Diabolus in Musica (1998), God Hates Us All (2001), Christ Illusion (2006), World Painted Blood (2009), Repentless (2015)
 
 **FAQ:**
 - **Who is the drummer for Slayer?** Slayer's last drummer before the band stopped touring was Paul Bostaph (2013-2019), who played the final show on November 30, 2019, at The Forum in Los Angeles. Founding drummer Dave Lombardo had departed in 2013.
@@ -664,7 +664,7 @@ Slipknot, formed in 1995 in Des Moines, pioneered the masked nu-metal movement.
 - Jay Weinberg — 2014-2023 (Son of Max Weinberg; joined 2014, parted ways with band November 5, 2023)
 - Eloy Casagrande — 2024-present (Former Sepultura drummer; joined 2024, first live show April 25, 2024. No documented interim/stand-in drummer filled the Nov 2023-Apr 2024 gap. Has not yet recorded a Slipknot studio album.)
 
-**Key releases:**  (1999),  (2001),  (2004),  (2008),  (2014),  (2019),  (2022)
+**Key releases:** Slipknot (1999), Iowa (2001), Vol. 3: (The Subliminal Verses) (2004), All Hope Is Gone (2008), .5: The Gray Chapter (2014), We Are Not Your Kind (2019), The End, So Far (2022)
 
 **FAQ:**
 - **Who is the drummer for Slipknot?** As of 2024, Slipknot's drummer is Eloy Casagrande, the former Sepultura drummer who officially joined the band, first performing live on April 25, 2024. As of this writing he has not yet appeared on a released Slipknot studio album; the band's most recent album, The End, So Far (2022), was recorded by previous drummer Jay Weinberg.
@@ -685,7 +685,7 @@ Sons of Apollo, formed in 2017, is a progressive metal supergroup featuring Drea
 **Drummer history:**
 - Mike Portnoy — 2017-2023 (Sole drummer for the band's entire active run; also Dream Theater co-founder, which he rejoined in Oct 2023)
 
-**Key releases:**  (2017),  (2020)
+**Key releases:** Psychotic Symphony (2017), MMXX (2020)
 
 **FAQ:**
 - **Who is the drummer for Sons of Apollo?** Mike Portnoy (also known for Dream Theater) was Sons of Apollo's drummer for the band's entire run, from its 2017 formation until it disbanded around 2023.
@@ -721,7 +721,7 @@ Suicidal Tendencies, formed in 1980, pioneered the crossover thrash genre.
 - Jay Weinberg — 2024-2026 (Former Slipknot drummer; departed January 2026)
 - Xavier Ware — 2026-present (Announced as new drummer January 2026)
 
-**Key releases:**  (1983),  (1987),  (1988),  (1989),  (1990),  (1992),  (1994),  (1999),  (2000),  (2010),  (2013),  (2016)
+**Key releases:** Suicidal Tendencies (1983), Join the Army (1987), How Will I Laugh Tomorrow When I Can't Even Smile Today (1988), Controlled by Hatred/Feel Like Shit...Deja Vu (1989), Lights...Camera...Revolution! (1990), The Art of Rebellion (1992), Suicidal for Life (1994), Freedumb (1999), Free Your Soul and Save My Mind (2000), No Mercy Fool!/The Suicidal Family (2010), 13 (2013), World Gone Mad (2016)
 
 **FAQ:**
 - **Who is the drummer for Suicidal Tendencies?** Xavier Ware became Suicidal Tendencies' drummer in January 2026, replacing Jay Weinberg. Ware also played drums on frontman Mike Muir's Cyco Miko solo album.
@@ -753,7 +753,7 @@ Testament, formed in 1983 in Berkeley, California, is one of the most enduring b
 - Dave Lombardo — 2022-2023 (Brief second stint after Hoglan's departure; no studio album)
 - Chris Dovas — 2023-present (Current drummer; recorded Para Bellum)
 
-**Key releases:**  (1987),  (1988),  (1989),  (1990),  (1992),  (1994),  (1997),  (1999),  (2008),  (2012),  (2016),  (2020),  (2025)
+**Key releases:** The Legacy (1987), The New Order (1988), Practice What You Preach (1989), Souls of Black (1990), The Ritual (1992), Low (1994), Demonic (1997), The Gathering (1999), The Formation of Damnation (2008), Dark Roots of Earth (2012), Brotherhood of the Snake (2016), Titans of Creation (2020), Para Bellum (2025)
 
 **FAQ:**
 - **Who is the drummer for Testament?** Chris Dovas, formerly of Seven Spires, has been Testament's drummer since April 2023, and recorded the band's Para Bellum (2025) album.
@@ -774,7 +774,7 @@ Tool, formed in 1990 in Los Angeles, is one of the most influential progressive 
 **Drummer history:**
 - Danny Carey — 1990-present (Founding member, only drummer in band history)
 
-**Key releases:**  (1992),  (1993),  (1996),  (2001),  (2006),  (2019)
+**Key releases:** Opiate (1992), Undertow (1993), Ænima (1996), Lateralus (2001), 10,000 Days (2006), Fear Inoculum (2019)
 
 **FAQ:**
 - **Who is the drummer for Tool?** Danny Carey has been Tool's drummer since the band's founding in 1990 and is the only drummer in the band's history, having recorded all five studio albums.
@@ -807,7 +807,7 @@ Vader, formed in 1983 in Olsztyn, Poland, is one of the longest-running and most
 - James Stewart — 2011-2022 (Recorded Tibi et Igni, The Empire, and Solitude in Madness; departed Feb 2022)
 - Michal Andrzejczyk — 2022-present (Current drummer since Feb 2022)
 
-**Key releases:**  (1992),  (1995),  (1997),  (2000),  (2002),  (2004),  (2006),  (2009),  (2011),  (2014),  (2016),  (2020)
+**Key releases:** The Ultimate Incantation (1992), De Profundis (1995), Black to the Blind (1997), Litany (2000), Revelations (2002), The Beast (2004), Impressions in Blood (2006), Necropolis (2009), Welcome to the Morbid Reich (2011), Tibi et Igni (2014), The Empire (2016), Solitude in Madness (2020)
 
 **FAQ:**
 - **Who is the drummer for Vader?** Michał Andrzejczyk has been Vader's drummer since February 2022, when he replaced James Stewart (who had drummed for the band since 2011).
@@ -828,7 +828,7 @@ Volto!, formed in Los Angeles in the early 2000s, is an instrumental progressive
 **Drummer history:**
 - Danny Carey — early 2000s-present (Sole drummer throughout the band's history; also drummer for Tool since 1990)
 
-**Key releases:**  (2013)
+**Key releases:** Incitare (2013)
 
 **FAQ:**
 - **Who is the drummer for Volto!?** Danny Carey, also known as the longtime drummer of Tool (since 1990), is Volto!'s drummer and a founding member.

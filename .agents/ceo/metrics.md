@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-18 15:19 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-18 16:17 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,32 +8,32 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 421 |
-| Sessions | 444 |
-| Page views | 722 |
-| Engagement rate | 27.93% |
-| Avg session (s) | 296 |
+| Active users | 423 |
+| Sessions | 446 |
+| Page views | 742 |
+| Engagement rate | 30.04% |
+| Avg session (s) | 157 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 136 | 87 |
-| /drummer/lars-ulrich | 50 | 42 |
+| / | 138 | 87 |
+| /drummer/lars-ulrich | 51 | 42 |
 | /drumsticks | 43 | 35 |
 | /cymbals | 34 | 34 |
-| /lists/fastest-metal-drummers | 22 | 23 |
+| /lists/fastest-metal-drummers | 23 | 23 |
 | /articles/master-of-puppets-drum-setup | 21 | 21 |
 | /drummers | 18 | 2 |
-| /tools | 14 | 2 |
-| /drummer/dave-lombardo | 13 | 2 |
-| /drummer/bill-ward | 9 | 4 |
+| /tools | 17 | 2 |
+| /drummer/dave-lombardo | 14 | 2 |
+| /drummer/danny-carey | 8 | 7 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Direct | 286 | 278 |
-| Organic Search | 151 | 137 |
-| Unassigned | 29 | 26 |
+| Direct | 289 | 281 |
+| Organic Search | 154 | 140 |
+| Unassigned | 16 | 13 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |

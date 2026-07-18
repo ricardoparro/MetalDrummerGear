@@ -6,6 +6,34 @@
 
 ---
 
+## 2026-07-18 21:16 — Cheap pulse: root-caused the 17h zero-merge gap — backup Claude subscription hit a WEEKLY limit, filed human-founder capacity alert (#4892)
+
+### Context (≤3 lines)
+Metrics 21:16 UTC (428 users/452 sessions/752 views 7d; GSC 5,941 impr/120 clicks/2.02% CTR/pos 11.0 — content-gap row `danny carey drum set` 81 impr/1.23% CTR/pos 10.7, same recurring row, already actioned in prior runs, no re-file). Backlog was 10 eligible `ai-fix` (healthy — 8 of the 10 self-filed by SEO Agent today), 0 untriaged `seo-proposal`, 0 open PRs. Last PR merged 2026-07-18T04:30 UTC — a 17h gap that doesn't match the healthy backlog, so investigated instead of logging a routine hold.
+
+### Actions taken
+- Pulled every `roadie.yml`/`roadie-night-fleet.yml` run since 04:30 UTC: all 3 lanes on every run since ~11:30 UTC show every issue "produced no commits (rc=1)" in 2-8s — the exact throttle signature `.roadie/drain.sh`'s own `looks_rate_limited`/`dt<30` check exists to detect. `ceo-agent.yml` (29659311402, 20:14 UTC) and `seo-agent.yml` runs show the literal cause: primary token `You've hit your session limit · resets 8:30pm (UTC)`, failed over, then backup: `You've hit your weekly limit · resets Jul 23, 10am (UTC)`. Both tokens dead since ~11:30 UTC.
+- Checked `.agents/ceo/decisions-log.md` for precedent: 2026-07-16 22:20 logged the same session-limit signature on both tokens and correctly called it "no action needed, self-resolves in hours." This time is materially different — the backup is on a **weekly** cap (5 days, not hours), so once primary session-limits again (near-certain given 8-wide night fleet at 19:00/23:00/03:00 UTC), there's zero failover until 2026-07-23. That crosses from "self-healing noise" to a real capacity risk worth Ricardo knowing about.
+- Filed **#4892** (`human-founder`) — not `ai-fix`-shaped (billing/capacity decision), gave 3 concrete options (accept the stalls / add a 3rd token / temporarily throttle the night fleet) and explicitly said no action is needed from him right now, just visibility.
+- Did **not** treat backlog=10 as starvation — supply is fine (8 fresh SEO-filed batches today alone); the bottleneck is implementation capacity being offline, which starvation-playbook surface-generation would not fix and would waste cycles on.
+- Founder ideas: inbox empty. Atomic-split: #4748/#4756 both ~60h old (created 07-16 08:50/09:06), approaching but not yet past the 72h threshold — will cross it around 07-19 08:50-09:06 UTC, flagging for the next couple of runs. Human-founder blockers (#875/#529/#526/#525) — 0 comments each, no re-spam. L1(#3810)/L2(#2211)/L3(#3819) unchanged since 07-13, next refresh 07-20.
+
+### State delta
+- ai-fix backlog: unchanged at 10 (no promotions needed — no untriaged proposals)
+- New: `human-founder` issue #4892 (Claude subscription capacity)
+- Org/Sessions/Views (7d): 428/452/752 · GSC: 5,941 impr / 120 clicks / 2.02% CTR / pos 11.0
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: none untriaged. ✅ GSC-gap: unchanged row re-checked, no re-file. ✅ Starvation check: backlog<15 trigger technically met but supply-side is healthy — root cause is the outage, correctly not actioned as starvation. ✅ Atomic split: none past threshold yet, watching #4748/#4756 approach it. ✅ Decisions logged.
+
+### Next Run
+1. **Watch #4748/#4756 cross the 72h atomic-split threshold ~07-19 08:50-09:06 UTC** — split if still open and un-dispatched then.
+2. Watch whether Roadie/SEO/CEO runs recover post-20:30 UTC primary reset — none had run yet as of this entry (this CEO run itself succeeded, suggesting recovery is underway) — confirm on next Roadie/night-fleet firing (23:00 UTC).
+3. If the pipeline stalls again before 2026-07-23 with no PR activity, do not re-file a duplicate human-founder issue — #4892 already covers it; just note the recurrence in the next log entry.
+4. #875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+
 ## 2026-07-18 00:21 — Cheap pulse: queue-starvation playbook triggered, filed new Speakable hub-gap issue (backlog 2→3)
 
 ### Context (≤3 lines)

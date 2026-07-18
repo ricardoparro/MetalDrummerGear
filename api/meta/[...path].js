@@ -2589,7 +2589,21 @@ export function getMetaForPath(pathname) {
           question: `Who played drums on ${band.name}'s "${a.title}"?`,
           answer: `${drummerSlugToName[a.drummer] || humanizeDrummerSlug(a.drummer)} played drums on "${a.title}"${a.year ? ` (${a.year})` : ''}.`,
         }));
-      const faqItems = [
+      // Issue #4890: prefer the hand-curated FAQ (band.faq, {q, a} shape) over
+      // the generic templated items below — it's the same source the
+      // client-side FAQPage schema already renders (App.js, Issue #363), with
+      // real editorial facts the templates can't produce. Album FAQ items are
+      // still appended when they cover ground (a specific flagship album) the
+      // curated set doesn't mention.
+      const curatedFaqItems = Array.isArray(band.faq)
+        ? band.faq.map(item => ({ question: item.q, answer: item.a }))
+        : [];
+      const curatedMentionsTitle = title =>
+        (band.faq || []).some(item => item.a.includes(`"${title}"`) || item.q.includes(`"${title}"`));
+      const uncoveredAlbumFaqItems = albumFaqItems.filter(
+        (item, i) => !curatedMentionsTitle(flagshipAlbums.filter(a => a?.drummer)[i]?.title)
+      );
+      const templatedFaqItems = [
         ...(drummerFaqItem ? [drummerFaqItem] : []),
         {
           question: `What drum kit does ${band.name}'s drummer use?`,
@@ -2601,6 +2615,9 @@ export function getMetaForPath(pathname) {
         },
         ...albumFaqItems,
       ];
+      const faqItems = curatedFaqItems.length > 0
+        ? [...curatedFaqItems, ...uncoveredAlbumFaqItems]
+        : templatedFaqItems;
       const slug = bandMatch[1];
       // Issue #4755: crawlable drum-chair timeline links — only for drummers
       // who resolve against the roster module (drummerSlugToName), per rule 4

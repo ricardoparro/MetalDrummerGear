@@ -317,6 +317,22 @@ const top20GearComparisons = [
   { d1: 'mike-portnoy', d2: 'mike-mangini' },
 ];
 
+// Issue #4889: the 226-entry curated set in drummerComparisons.js (getAllDrummerComparisonSlugs,
+// imported above for /llms/vs/) has real hand-authored verdict/pros/cons content per pair (#4885)
+// and the /tools/compare/<d1>-vs-<d2> route already serves any two drummer slugs dynamically —
+// but only the 20 pairs above were ever declared in the sitemap. 7 of those 20 predate
+// drummerComparisons.js and aren't part of its curated set (checked both slug directions); keep
+// them listed per the "URLs immutable once shipped" rule while adding the full curated 226.
+const curatedToolsCompareSlugs = getAllDrummerComparisonSlugs();
+const curatedToolsCompareSlugSet = new Set(curatedToolsCompareSlugs);
+const legacyTop20OnlySlugs = top20GearComparisons
+  .map(c => `${c.d1}-vs-${c.d2}`)
+  .filter(slug => {
+    const [d1, d2] = slug.split('-vs-');
+    return !curatedToolsCompareSlugSet.has(slug) && !curatedToolsCompareSlugSet.has(`${d2}-vs-${d1}`);
+  });
+const toolsCompareSitemapSlugs = [...curatedToolsCompareSlugs, ...legacyTop20OnlySlugs];
+
 // Issue #739: Signature Gear Spotlight pages
 const signatureGearPages = [
   { drummerSlug: 'joey-jordison', gearSlug: 'joey-jordison-pearl-signature-snare', name: 'Pearl Joey Jordison Signature Snare' },
@@ -621,12 +637,13 @@ export function buildSitemapXml() {
     ...toolPages.map(t => ({ loc: `/tools/${t.slug}`, priority: '0.95', changefreq: 'weekly' })),
     // Issue #4443: Dream Setup Builder (flagship isNew:true tool)
     { loc: '/tools/setup-builder', priority: '0.85', changefreq: 'monthly' },
-    // Issue #721, #732: Gear Comparison Tool + Top 20 SEO comparisons
+    // Issue #721, #732, #4889: Gear Comparison Tool + curated drummer-comparison pairs
+    // (226 from drummerComparisons.js + the handful of legacy top-20 pairs not in that set)
     { loc: '/tools/compare', priority: '0.95', changefreq: 'weekly' },
-    ...top20GearComparisons.map(c => ({ 
-      loc: `/tools/compare/${c.d1}-vs-${c.d2}`, 
-      priority: '0.9', 
-      changefreq: 'weekly' 
+    ...toolsCompareSitemapSlugs.map(slug => ({
+      loc: `/tools/compare/${slug}`,
+      priority: '0.85',
+      changefreq: 'monthly',
     })),
     ...gearCategories.map(c => ({ loc: `/gear/${c.slug}`, priority: '0.9', changefreq: 'weekly' })),
     ...top10Lists.map(l => ({ loc: `/lists/${l.slug}`, priority: '0.8', changefreq: 'monthly' })),

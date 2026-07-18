@@ -240,6 +240,28 @@ function generateAllDrummerComparisons(drummerList) {
 }
 const drummerComparisons = generateAllDrummerComparisons(drummers);
 
+// SITEMAP DIET (founder-approved 2026-07-16): the all-pairs /vs/ matrix above
+// (67 drummers → 2,211 pages) shows ~zero search demand — 2 of 335 queries
+// with impressions in the 2026-07-13 GSC snapshot. Listing all of them told
+// Google two-thirds of our site is thin combinatorial content, diluting crawl
+// budget for the pages that earn traffic. Only pairs where BOTH drummers are
+// demand-evidenced entities (earning GSC impressions on their own head terms)
+// stay in the sitemap. The other /vs/ pages REMAIN LIVE and reachable — they
+// are just no longer flagged to Google as index-worthy. Update this set from
+// GSC evidence, not intuition; removing a slug here is reversible.
+const VS_DEMAND_DRUMMERS = new Set([
+  'joey-jordison', 'eloy-casagrande', 'mario-duplantier', 'bill-ward',
+  'john-otto', 'shannon-larkin', 'matt-greiner', 'jay-weinberg',
+  'dirk-verbeuren', 'nick-menza', 'aquiles-priester', 'igor-cavalera',
+  'nicko-mcbrain', 'mike-portnoy', 'tomas-haake', 'gene-hoglan',
+  'george-kollias', 'danny-carey', 'dave-lombardo', 'lars-ulrich',
+  'hellhammer', 'jocke-wallgren', 'nick-augusto', 'ray-luzier',
+]);
+const sitemapDrummerComparisons = drummerComparisons.filter(c => {
+  const [a, b] = c.slug.split('-vs-');
+  return VS_DEMAND_DRUMMERS.has(a) && VS_DEMAND_DRUMMERS.has(b);
+});
+
 // Issue #685 / #3661: "How to Sound Like" guides - SEO content hub, sourced
 // directly from the canonical data module so the sitemap stays in sync as
 // new guides ship (no hand-maintained duplicate list to drift).
@@ -654,7 +676,8 @@ export function buildSitemapXml() {
     ...gearComparisons.map(c => ({ loc: `/compare/${c.slug}`, priority: '0.8', changefreq: 'monthly' })),
     // Issue #558, #691: Drummer vs Drummer comparison pages (SEO play)
     { loc: '/vs', priority: '0.9', changefreq: 'weekly' },
-    ...drummerComparisons.map(c => ({ loc: `/vs/${c.slug}`, priority: '0.7', changefreq: 'monthly' })),
+    // Gated by VS_DEMAND_DRUMMERS (sitemap diet) — see the filter definition above.
+    ...sitemapDrummerComparisons.map(c => ({ loc: `/vs/${c.slug}`, priority: '0.7', changefreq: 'monthly' })),
     // Issue #2389: curated /vs/ pages whose canonical slug the all-pairs generator above
     // doesn't produce — either because a drummer (e.g. Sean Reinert) isn't in the `drummers`
     // list, or because the generator always alphabetizes the pair while the curated slug
@@ -1045,11 +1068,18 @@ export function buildSitemapXml() {
     // Issue #1800: genre LLM citation surface — 8 genre pages
     ...getAllGenreSlugs().map(slug => ({ loc: `/llms/genres/${slug}.md`, priority: '0.5', changefreq: 'monthly' })),
   ];
+  // SITEMAP DIET (founder-approved 2026-07-16), part 2: /llms/**.md mirrors are
+  // built FOR AI crawlers, which discover them via llms.txt — not this sitemap.
+  // Listing ~1.9K of them here invited Google to spend crawl budget on
+  // near-duplicate markdown copies of the HTML pages. Excluded wholesale at
+  // render time (the generation blocks above are intentionally left in place —
+  // smallest reversible diff). The .md files stay live; llms.txt still links them.
+  const googleUrls = urls.filter(u => !u.loc.startsWith('/llms/'));
   const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
         xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-${urls.map(url => `  <url>
+${googleUrls.map(url => `  <url>
     <loc>${xmlEscape(BASE_URL + url.loc)}</loc>
     <lastmod>${lastmodFor(url)}</lastmod>
     <changefreq>${url.changefreq}</changefreq>

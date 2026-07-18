@@ -3623,12 +3623,20 @@ export function getMetaForPath(pathname) {
               url: `${BASE_URL}/lists/${listSlug}`,
               numberOfItems: rankedDrummers.length,
               publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
-              itemListElement: rankedDrummers.slice(0, 10).map((d, i) => ({
-                '@type': 'ListItem',
-                position: i + 1,
-                name: d.name,
-                url: `${BASE_URL}/drummer/${d.name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '')}`,
-              })),
+              // Issue #4871: description sourced from list.rankings[d.id].highlight/reason —
+              // curated "why this ranking" text that was previously never wired into JSON-LD.
+              itemListElement: rankedDrummers.slice(0, 10).map((d, i) => {
+                const ranking = list.rankings?.[d.id];
+                return {
+                  '@type': 'ListItem',
+                  position: i + 1,
+                  name: d.name,
+                  url: `${BASE_URL}/drummer/${d.name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '')}`,
+                  ...(ranking?.highlight || ranking?.reason
+                    ? { description: [ranking.highlight, ranking.reason].filter(Boolean).join('. ') }
+                    : {}),
+                };
+              }),
             },
             {
               '@type': 'FAQPage',

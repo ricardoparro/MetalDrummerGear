@@ -2411,3 +2411,32 @@ Metrics 01:32 UTC (405 users/428 sessions/703 views 7d; GSC 5,019 impr/102 click
 
 ---
 
+
+## 2026-07-19 08:46 — Deep run: 2 fresh proposals promoted; confirmed active Claude-capacity stall (#4892) explains thin backlog, held off forcing new surface
+
+### Context (≤3 lines)
+Metrics 08:45 UTC (429 users/448 sessions/661 views 7d; GSC 5,908 impr/118 clicks/2.00% CTR/pos 11.0 — content-gap row `danny carey drum set` 77 impr/1.30% CTR/pos 10.7, same recurring row last actioned by #4739 (closed 07-16, re-verified reasoning: position problem, not snippet-fixable, no re-file). Backlog was **2** eligible `ai-fix` at run start (0 open PRs), 2 fresh untriaged `seo-proposal` (#4912/#4913, filed 03:10 UTC) — starvation trigger (backlog<15 AND bank≤2) technically met.
+
+### Actions taken
+- **Promoted #4912** (bot-facing `Article` schema on `/drummer/<slug>` omits `gearHighlights` prose, 67 profiles, 2 route occurrences in `api/meta/[...path].js`) — additive fix alongside existing `careerHighlights`/`styleAndInfluences`, verified 67/67 profiles have real non-empty content, no dupes found.
+- **Promoted #4913** (`/gear/<brand>/<series>/drummers-using` FAQ ignores curated `buildFAQ()`, 38 pages) — issue explicitly scopes itself away from the sibling `Product`/`AggregateOffer` schema (placeholder affiliate IDs per binding rule #3), FAQ-only change, no dupes found.
+- **Investigated the queue-starvation trigger before acting on it, per the playbook's step 1** — pulled the last 2 `roadie.yml` runs' raw logs directly: every run since ~11:30 UTC yesterday shows `preferred Claude token looks limited... failing over to backup token` immediately followed by every dispatched issue (#4748/#4753/#4756/#4758/#4914) producing `no commits (rc=1)`. This is **not** an idea-supply problem (SEO Agent filed 15 proposals across 07-18 alone, healthy rate) — it's the exact capacity stall Ricardo was already asked about in **#4892** (backup token hit its *weekly* limit, no failover until 2026-07-23). Confirmed the fresh Watchdog umbrella **#4914** (07:45 UTC) independently corroborates this — both the SEO Agent (06:49 run) and this CEO Agent's own prior hourly run (07:41 run) failed for the same reason. **Decision: did not run starvation-playbook step 2 (forcing new roster/hub/format surface).** Manufacturing more `ai-fix` issues right now wouldn't unblock anything — Roadie can't execute regardless of queue depth until the token situation resolves — and would just bloat a backlog nobody can drain. Promoting the 2 real proposals already gives Roadie ready work for whenever capacity returns.
+- **Atomic-split check:** #4748 (roster-exp, created 07-16 08:50) and #4756 (bands phase 3/4, created 07-16 09:06) are both at ~72h, crossing the nominal 3-day trigger — but per the #4205/#4267/#4276 precedent (pending-issues.md, 2026-07-13), they're not stuck from size/ambiguity (the condition the rule targets), they're stuck from the same known, already-escalated capacity issue. Splitting them would produce more capacity-blocked fragments, not progress. Held.
+- Founder ideas: inbox empty. L1(#3810)/L2(#2211)/L3(#3819) snapshots unchanged since 07-13, next refresh due 2026-07-20. Human-founder blockers #875/#529/#526/#525 unchanged (0 comments) — no re-spam. **#4892 needs no new action from CEO** — it's a founder billing/capacity decision (do nothing / add a 3rd seat / throttle night fleet), correctly awaiting Ricardo, re-confirmed still accurate and current, not stale.
+
+### State delta
+- ai-fix backlog: 2 → 4 eligible (#4912/#4913 promoted)
+- Org/Sessions/Views (7d): 429/448/661 · GSC: 5,908 impr / 118 clicks / 2.00% CTR / pos 11.0
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 2/2 fresh triaged and promoted, verified, no duplicates. ✅ GSC-gap: unchanged recurring row re-checked, no re-file. ✅ Starvation playbook: triggered, investigated, root-caused to the known capacity stall — deliberately did not force new surface (see reasoning above). ✅ Atomic split: 2 issues crossed the time threshold but held per infra-block precedent. ✅ Decisions logged.
+
+### Next Run
+1. **Watch #4892 for Ricardo's decision** (do nothing / 3rd token seat / throttle night fleet) — this is the actual constraint on throughput right now, not idea supply. Backup token resets 2026-07-23 regardless.
+2. Backlog at 4 (critically thin) — but do not force-fill further until either capacity returns or the SEO Agent's normal cadence tops it up; re-run the starvation playbook's step 2 only if the bank is also empty AND #4892 is resolved/expired with no throughput recovery.
+3. Watch for next L1/L2/L3 snapshot refresh (2026-07-20) — first real read on whether the FAQ-depth/hub-schema/Speakable sweeps moved L1 position or L2 citation count.
+4. #875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+
+---

@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-19 07:42 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-19 08:45 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 428 |
-| Sessions | 447 |
-| Page views | 659 |
-| Engagement rate | 26.40% |
-| Avg session (s) | 150 |
+| Active users | 429 |
+| Sessions | 448 |
+| Page views | 661 |
+| Engagement rate | 31.25% |
+| Avg session (s) | 149 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -31,9 +31,9 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Direct | 284 | 280 |
-| Organic Search | 158 | 144 |
-| Unassigned | 31 | 26 |
+| Direct | 285 | 281 |
+| Organic Search | 161 | 147 |
+| Unassigned | 5 | 5 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |

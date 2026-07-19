@@ -2,10 +2,9 @@
 
 *Record of strategic decisions and reasoning. Hot log: last 7 days. Older entries archived monthly under `.agents/ceo/decisions-history/`.*
 
-*Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-07-18 00:21 UTC*
+*Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-07-19 00:22 UTC*
 
 ---
-
 ## 2026-07-18 21:16 — Cheap pulse: root-caused the 17h zero-merge gap — backup Claude subscription hit a WEEKLY limit, filed human-founder capacity alert (#4892)
 
 ### Context (≤3 lines)
@@ -31,6 +30,8 @@ Metrics 21:16 UTC (428 users/452 sessions/752 views 7d; GSC 5,941 impr/120 click
 2. Watch whether Roadie/SEO/CEO runs recover post-20:30 UTC primary reset — none had run yet as of this entry (this CEO run itself succeeded, suggesting recovery is underway) — confirm on next Roadie/night-fleet firing (23:00 UTC).
 3. If the pipeline stalls again before 2026-07-23 with no PR activity, do not re-file a duplicate human-founder issue — #4892 already covers it; just note the recurrence in the next log entry.
 4. #875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
 
 ---
 
@@ -60,12 +61,17 @@ Metrics 00:21 UTC (404 users/426 sessions/703 views 7d; GSC 5,019 impr/102 click
 4. #875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
 
 ---
+
+---
+
 ## 2026-07-17 00:23 (state-confirm — anti-noise hold)
 - Backlog: 13 ai-fix · 0 PRs open · proposals untriaged: 0 (only umbrella trackers #2211/#3810/#3819)
 - Org / Sessions / Views (7d): 411 / 435 / 584 — dip vs 23:17 (436/463/627) is a 7-day-window rollover artifact (GSC lag), not a real drop
 - Blockers unchanged: #875/#529/#526/#525 — no re-spam
 - Actions: none — hold continues (0 fresh proposals, 0 founder ideas, 0 new closed issues since 23:18)
 - Next check: next hourly pulse; 07:00 UTC deep run will re-verify the metrics dip against a fuller data window
+
+---
 
 ---
 
@@ -92,6 +98,8 @@ Metrics 23:17 UTC (436 users/463 sessions/627 views 7d; GSC unchanged — 5,882 
 2. Watch #4793 ship alongside #4789/#4790.
 3. Next L1/L2/L3 snapshot refresh 2026-07-20.
 4. #875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
 
 ---
 
@@ -129,6 +137,8 @@ Metrics 21:21 UTC (432 users/459 sessions/623 views 7d; GSC 5,882 impr/115 click
 
 ---
 
+---
+
 ## 2026-07-16 20:17 (cheap pulse — anti-noise hold)
 - Backlog: 11 ai-fix eligible (15→11, active drain not starvation) · 0 PRs open · proposals untriaged: 0 (only L1/L2/L3 umbrella trackers, unchanged since 07-13/06-23)
 - Org / Sessions / Views (7d): 429 / 455 / 622 · GSC: 5,882 impr / 115 clicks / 1.96% CTR / pos 10.4 — flat since 19:27
@@ -143,6 +153,8 @@ Metrics 21:21 UTC (432 users/459 sessions/623 views 7d; GSC 5,882 impr/115 click
 
 ---
 
+---
+
 ## 2026-07-16 19:27 (evening review — anti-noise hold)
 - Backlog: 15 ai-fix eligible · 0 PRs open · proposals untriaged: 0 (only L1/L2/L3 umbrella trackers #2211/#3810/#3819, unchanged since 07-13/06-23)
 - Org / Sessions / Views (7d): 429 / 455 / 622 · GSC: 5,882 impr / 115 clicks / 1.96% CTR / pos 10.4 — flat since 15:31
@@ -150,6 +162,8 @@ Metrics 21:21 UTC (432 users/459 sessions/623 views 7d; GSC 5,882 impr/115 click
 - Blockers unchanged: #875/#529/#526/#525 human-founder (0 new comments) — no re-spam
 - Actions: none — hold continues (0 fresh seo-proposals, 0 founder ideas, GSC content-gap rows `danny carey drum set`/`joey jordison drum set` already actioned this morning, L1/L2/L3 next refresh 2026-07-20)
 - Next check: cheap pulse cadence; next deep run 2026-07-17 07:00 UTC
+
+---
 
 ---
 
@@ -185,12 +199,16 @@ Metrics 15:31 UTC (427 users/453 sessions/614 views 7d; GSC 5,882 impr/115 click
 
 ---
 
+---
+
 ## 2026-07-16 14:39 (mid-day pulse — anti-noise hold)
 - Backlog: 15 ai-fix eligible · 0 PRs open · seo-proposal untriaged: 0 (only L1/L2/L3 umbrella trackers)
 - Org/Sessions/Views (7d): 427/453/614 · GSC 5,882 impr/115 clicks/1.96% CTR/pos 10.4 — flat vs 08:46
 - Blockers unchanged: #875/#529/#526/#525 · no re-spam
 - Actions: none — Ricardo filed 13 epic-phase issues directly (#4753/#4755-4757 bands, #4758-4762 songs, #4763-4766 studies, #4768-4771) 09:06-09:21 UTC, already atomic + `ai-fix` labeled by him; Roadie shipped 11 issues since 07:00, 0 stuck >3d
 - Next check: mid-day cadence; watch bands/songs/studies epic phases ship in dependency order
+
+---
 
 ---
 
@@ -228,6 +246,8 @@ Metrics 08:44 UTC (422 users/446 sessions/599 views 7d; GSC 5,882 impr/115 click
 
 ---
 
+---
+
 ## 2026-07-16 07:40 — Deep run: promoted 1 critical regression + filed 1 novel GSC-CTR fix, backlog 4→6
 
 ### Context (≤3 lines)
@@ -258,6 +278,8 @@ Metrics 07:40 UTC (421 users/445 sessions/595 views 7d; GSC 5,882 impr/115 click
 
 ---
 
+---
+
 ## 2026-07-16 01:32 — Backlog refill: 3 fresh proposals promoted incl. 1 CRITICAL homepage regression, backlog 0→3
 
 ### Context (≤3 lines)
@@ -281,6 +303,8 @@ Metrics 01:32 UTC (405 users/429 sessions/582 views 7d; GSC 4,748 impr/98 clicks
 2. Backlog at 3 — still far below the 45 floor; keep promoting liberally as fresh proposals land.
 3. L1/L2/L3 next refresh 2026-07-20 — nothing to triage until then.
 4. #875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
 
 ---
 
@@ -321,6 +345,8 @@ Metrics 04:06 UTC (400 users/426 sessions/582 views 7d; GSC 4,730 impr/109 click
 
 ---
 
+---
+
 ## 2026-07-15 07:00 — Deep run: 1 fresh proposal promoted, backlog refilled 0→1
 
 ### Context (≤3 lines)
@@ -343,6 +369,8 @@ Metrics 01:32 UTC (393 users/418 sessions/574 views 7d; GSC 4,730 impr/109 click
 2. Confirm the GA4/GSC 7d dip (393/418/574 · 4,730/109/2.30%/9.2) is a rolling-window artifact, not a real traffic drop — recheck at 13:00 UTC pulse.
 3. Watch #4644 ship and verify with a bot-UA curl that the 5 files finally return `text/markdown` (this bug class has silently failed 4 times before).
 4. #875/#529/#526/#525 human-founder blockers unchanged — no re-spam. L1/L2/L3 next refresh 2026-07-20.
+
+---
 
 ---
 
@@ -389,6 +417,8 @@ Metrics 21:19 UTC (415 users/442 sessions/654 views 7d; GSC 5,569 impr/134 click
 
 ---
 
+---
+
 ## 2026-07-14 16:26 — Self-correction: filed 3 ai-fix issues against L1/L3 findings already investigated and held today; closed all 3, fixed the memory-file pollution
 
 ### Context (≤3 lines)
@@ -413,6 +443,8 @@ Metrics 16:26 UTC (412 users/439 sessions/652 views 7d; GSC 5,569 impr/134 click
 2. Backlog at 0 — floor is 45, but nothing fresh/eligible to promote (no real seo-proposals waiting, all known L1/L3 findings already correctly held). Wait for either a fresh SEO Agent proposal or the 2026-07-20 snapshot refresh.
 3. Watch 2026-07-20 L1/L3 snapshots for: joey-jordison recovery, Shannon Larkin repeat, navene-koperweis cluster clearing, dance-of-death staying fixed.
 4. #4440 (infra) and human-founder blockers (#875/#529/#526/#525) unchanged — no re-spam.
+
+---
 
 ---
 
@@ -457,6 +489,8 @@ Metrics 15:29 UTC (412 users/439 sessions/652 views 7d; GSC 5,569 impr/134 click
 
 ---
 
+---
+
 ## 2026-07-14 11:29 — Pulse: promoted 1 fresh proposal (sitemap gap, 4 llms/*.md hub files), confirmed SEO Agent's own auto-filed ai-fix is sound
 
 ### Context (≤3 lines)
@@ -478,6 +512,8 @@ Metrics 11:29 UTC (407 users/434 sessions/647 views 7d; GSC unchanged: 5,569 imp
 1. Backlog at 2 — thin, keep promoting liberally toward the 80 target band if bank refills.
 2. Watch #4607/#4608 land, then re-check L1/L2 snapshots for the 8 profiles and the 4 llms hub files.
 3. Mid-day 13:00 UTC pulse: check Ralph's progress on #4607/#4608.
+
+---
 
 ---
 
@@ -527,12 +563,16 @@ Metrics 08:42 UTC (404 users/431 sessions/642 views 7d; GSC 5,569 impr/134 click
 
 ---
 
+---
+
 ## 2026-07-13 05:20 (state-confirm — anti-noise hold)
 - Backlog: 5 ai-fix (all 5 = stuck CI-workflow issues blocked on #4498, no other ai-fix exists) · 0 PRs open · proposals untriaged: 0
 - Org/Sessions/Views (7d): 379/408/594 · GSC 4,418 impr/119 clicks/2.69% CTR/pos 8.5 (no content-gap)
 - Bank dry + real backlog effectively 0 (Roadie can't touch the 5), so sourced fresh gaps via Explore agent: both candidates (sitemap.js missing signatureStickPages/signatureSnarePages imports) were **false positives** — grep-verified sitemap already derives those URLs from drumsticks.js/snares.js directly, and signature-stick content already lives inside per-drummer llms.md pages. Also confirmed CEO-024 (scale lick pages 5→62 drummers) is fully shipped (68 files in data/licks/) — stale idea, no action needed. The drumsticks/cymbals/snares/pedals brand-parity bug class is now fully mined, stop spending Explore cycles there absent a new data file.
 - Blockers unchanged: #4498 (workflow-permissions, 0 comments) · #4440/#875/#529/#526/#525 — no re-spam
 - Next check: L1/L2/L3 weekly refresh due 08:00 UTC today (check-gsc-watched-queries.yml / check-indexation.yml); watch #4498 for Ricardo response; if backlog stays at 5 with bank dry through the 07:00 deep run, escalate by widening the gap search beyond the brand-parity class (e.g. genreGearGuides.js / gearSeriesPages.js coverage audit)
+
+---
 
 ---
 
@@ -583,12 +623,16 @@ Metrics 01:33 UTC (348 users/377 sessions/563 views 7d; GSC 4,418 impr/119 click
 
 ---
 
+---
+
 ## 2026-07-12 22:17 (state-confirm — anti-noise hold)
 - Backlog: 6 ai-fix · 0 PRs open · proposals untriaged: 0 (only 3 standing L1/L2/L3 umbrella issues remain in the seo-proposal label)
 - Org/Sessions/Views (7d): 343/382/606 · GSC 5,154 impr/140 clicks/2.72% CTR/pos 8.5 (unchanged, no content-gap)
 - Blockers unchanged: #4440 dispatcher-race · #875/#529/#526/#525 — no re-spam
 - Actions: none — hold continues, nothing changed since 21:24 entry
 - Next check: #4205 crosses 72h atomic-split threshold ~00:37 UTC 07-13; L1/L2/L3 snapshots due 07:00 UTC 07-13 deep run
+
+---
 
 ---
 
@@ -624,6 +668,8 @@ Metrics 21:16 UTC (339 users/378 sessions/599 views 7d; GSC unchanged: 5,154 imp
 2. Backlog at 6 — still well below the 45 floor; keep promoting liberally, source own gaps if the proposal bank runs dry again.
 3. **L1/L2/L3 snapshots due 2026-07-13 07:00 deep run** — first real test of meta-shell-saga recovery; check jay-weinberg/brann-dailor/danny-carey big-losses and the 57 duplicate-canonical-to-jay-weinberg URLs for self-healing.
 4. Watch #4440 — no 5th dispatcher-race instance this run; keep monitoring.
+
+---
 
 ---
 
@@ -674,6 +720,8 @@ Metrics 20:15 UTC (323 users/361 sessions/586 views 7d; GSC unchanged: 5,154 imp
 
 ---
 
+---
+
 ## 2026-07-12 19:30 — Evening pulse: 2 fresh proposals grep-verified and promoted, #4476 confirmed merged
 
 ### Context (≤3 lines)
@@ -697,6 +745,8 @@ Metrics 19:24 UTC (323 users/361 sessions/586 views 7d; GSC unchanged: 5,154 imp
 2. Backlog at 7 — still well below the 45 floor; keep promoting liberally toward the ~80 target band.
 3. Watch #4440 — 4 dispatcher-race instances logged, still no Ricardo response; escalate further if a 5th occurs.
 4. Nothing blocking — queue is thin but healthy, no stuck PRs.
+
+---
 
 ---
 
@@ -747,12 +797,16 @@ Metrics 18:17 UTC (322 users/360 sessions/584 views 7d; GSC unchanged: 5,154 imp
 
 ---
 
+---
+
 ## 2026-07-12 16:18 (state-confirm — anti-noise hold)
 - Backlog: 8 ai-fix · 0 PRs open · proposals untriaged: 0 (bank has only umbrella trackers #3810/#3819/#2211)
 - Org / Sessions / Views (7d): 321/358/583 · GSC: 5,154 impr / 140 clicks / 2.72% CTR / pos 8.5 — no content-gap rows
 - Blockers unchanged: #875 #529 #526 #525 (human-founder) · no re-spam. Live-reverified the L3 duplicate-canonical (jay-weinberg) + 5 error-404 rows from the 07-06 snapshot: all now correct/200 in production — confirms `pending-issues.md`'s "self-heal on next re-crawl" call, no new ai-fix needed
 - Actions: none — standing deferral holds until 2026-07-13 L1/L3 snapshot refresh
 - Next check: 2026-07-13 L1/L3 snapshot is the real test of the meta-shell-saga recovery; evening run
+
+---
 
 ---
 
@@ -789,6 +843,8 @@ Metrics 17:21 UTC (321 users/359 sessions/584 views 7d; GSC 5,154 impr/140 click
 2. Watch #4440 — now has 4 independent instances of the duplicate-PR race; consider whether this needs stronger escalation if a 5th instance appears.
 3. Backlog at 6 — still well below the 45 floor; keep promoting liberally toward the ~80 target band.
 4. Next L1/L2/L3 snapshots due 2026-07-13 — first fresh check since the meta-shell saga closed.
+
+---
 
 ---
 
@@ -841,6 +897,8 @@ Metrics refreshed 13:29 UTC (282 users/319 sessions/545 views 7d; GSC 5,154 impr
 
 ---
 
+---
+
 ## 2026-07-12 00:26 (state-confirm — anti-noise hold)
 - Backlog: 4 ai-fix (#4205, #4267, #4276, #4370 — all CI-check/root-cause items) · 0 PRs open · proposals untriaged: 0 (bank empty except umbrella trackers #3810/#3819/#2211)
 - Org / Sessions / Views (7d): 173/208/416 · GSC: 4,220 impr / 127 clicks / 3.01% CTR / pos 8.5 — no content-gap rows
@@ -849,626 +907,6 @@ Metrics refreshed 13:29 UTC (282 users/319 sessions/545 views 7d; GSC 5,154 impr
 - Next check: next pulse — watch the 00:24 SEO Agent run for a fresh batch to refill the backlog; L1/L2/L3 snapshot due 2026-07-13
 
 ---
-
----
-
----
-
----
-
----
-
----
-
----
-
-## 2026-07-11 07:32 — Deep run: 4 more llms-hub-drift proposals verified and promoted, backlog 7→11
-
-### Context (≤3 lines)
-Metrics refreshed 07:32 UTC (177 users/215 sessions/402 views 7d; GSC 5,124 impr/154 clicks/3.01% CTR/pos 8.6 — no content-gap rows). Backlog was 7 eligible `ai-fix`, 1 open PR (#4301, mergeable, drumsticks content). 4 fresh untriaged `seo-proposal` landed 06:50 UTC (#4295-4298), same bug class as this morning's #4290-4293 batch: `/llms/*.md` hub files drifted stale vs. source data/generators.
-
-### Actions taken
-- Verified all 4 against source before promoting. **#4295** (comparisons.md): `getAllDrummerComparisonSlugs()` returns 226 total pairs vs `public/llms/comparisons.md` (28 sections) and `public/llms/comparisons/` dir (26 files) — confirmed far short. **#4296** (guides.md): no `how-to-sound-like-adrian-erlandsson` file found on disk while guides.md references 66 unique slugs vs a 67-guide roster — confirmed the gap. **#4297** (endorsement-news.md): grepped the file directly — literal text reads "50 drummers tracked · 30 brands", confirmed stale against the current 67-drummer roster. **#4298** (llms/index.md): confirmed "24 files" label present alongside the 226-total comparison count mismatch, same root cause as #4295. All 4 match the established `generator-level LLM surface gap` ✅ Promote pattern (`learned-patterns.md` line 45) — no new pattern entry needed, this is now routine coverage of that pattern. Promoted all 4 to `ai-fix`.
-- Founder ideas: inbox empty. GSC content-gap (impr≥50, CTR<2%): none per fresh metrics.md. Atomic-split sweep: oldest open `ai-fix` is #4205 (~1.5 days old) — under the 3-day trigger, no split needed. Human-founder blockers (#875, #529, #526, #525) unchanged, no re-spam. L1 (#3810)/L2 (#2211)/L3 (#3819): still dated 2026-07-06, next due 2026-07-13, standing deferral holds. PR #4301 (drumsticks face-crop fix) is mergeable, non-ai-fix, no blocker.
-
-### State delta
-- ai-fix backlog: 7 → 11 eligible (#4295, #4296, #4297, #4298 promoted)
-- seo-proposal bank: 4 fresh untriaged → 0 (remaining open seo-proposal issues are umbrella trackers #3810/#3819/#2211 only)
-- Org/Sessions/Views (7d): 177/215/402 · GSC: 5,124 impr / 154 clicks / 3.01% CTR / pos 8.6
-
-### Quota check
-✅ Founder ideas: inbox empty. ✅ SEO proposals: 4/4 triaged with independent source verification, all promoted. ✅ GSC-gap: none this week. ✅ Atomic split: none needed. ✅ Decisions logged.
-
-### Next Run
-1. Backlog at 11 — still well below the 45 floor; keep promoting fresh proposals liberally toward the ~80 target band.
-2. Once #4295-4298 ship, spot-check `/llms/comparisons.md`, `/llms/guides.md`, `/llms/endorsement-news.md`, `/llms/index.md` against source counts post-deploy.
-3. Human-founder blockers (#875, #529, #526, #525) unchanged, no re-spam.
-4. Next L1/L2/L3 snapshots due 2026-07-13.
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
-## 2026-07-11 — Pulse: 4 fresh llms-hub-drift proposals verified and promoted, backlog 3→7
-
-### Context (≤3 lines)
-Metrics refreshed 05:51 UTC (177 users/213 sessions/386 views 7d; GSC 4,188 impr/127 clicks/3.03% CTR/pos 8.6 — no content-gap rows). Backlog was 3 eligible `ai-fix` (#4205, #4267, #4276 — all pre-existing CI-check proposals), 0 open PRs. 4 fresh untriaged `seo-proposal` (#4290-4293, 05:10-05:11 UTC), all the same bug class: `/llms/*.md` aggregation hubs drifted stale vs. their per-entity source files.
-
-### Actions taken
-- Verified all 4 directly against source before promoting (not just trusting the issue body). **#4290** (gear-history hub): `grep -c "^## " public/llms/gear-history.md` = 7 vs `ls public/llms/gear-history/*.md` = 66 files, no generator script exists yet. **#4291** (techniques hub): hub has 13 sections vs 29 technique keys/29 per-slug files — generator exists, just needs re-run. **#4292** (lists hub): 95 sections in hub vs 98 files on disk (the 3 from #4256's goregrind/rap-metal/polyrhythmic batch never got folded in). **#4293** (gear-news hub): header says "21 total events" vs 22 `date:` entries in the data module. All 4 confirmed true, atomic, low-risk (regen-or-write-one-generator + commit), and match the already-established "generator-level LLM surface gap" promote pattern (`learned-patterns.md` line 46). Promoted all 4 to `ai-fix`.
-- Founder ideas: inbox empty. GSC content-gap (impr≥50, CTR<2%): none per fresh metrics.md. Atomic-split sweep: oldest open `ai-fix` is #4205 (~1 day old) — under the 3-day trigger, no split needed; all 7 open ai-fix issues are single-deliverable regens/CI-checks anyway. Human-founder blockers (#875, #529, #526, #525) unchanged, no re-spam. L1 (#3810)/L2 (#2211)/L3 (#3819): still dated 2026-07-06 — next due 2026-07-13, standing deferral holds.
-
-### State delta
-- ai-fix backlog: 3 → 7 eligible (#4290, #4291, #4292, #4293 promoted)
-- seo-proposal bank: 4 fresh untriaged → 0 (remaining open seo-proposal issues are umbrella trackers #3810/#3819/#2211 only)
-- Org/Sessions/Views (7d): 177/213/386 · GSC unchanged: 4,188 impr / 127 clicks / 3.03% CTR / pos 8.6
-
-### Quota check
-✅ Founder ideas: inbox empty. ✅ SEO proposals: 4/4 triaged with independent source verification, all promoted. ✅ GSC-gap: none this week. ✅ Atomic split: none needed. ✅ Decisions logged.
-
-### Next Run
-1. Backlog at 7 — still well below the 45 floor; keep promoting fresh proposals liberally toward the ~80 target band.
-2. Watch #4290-4293 ship, then spot-check the regenerated hub files against `curl https://metalforge.io/llms/<hub>.md` post-deploy.
-3. Human-founder blockers (#875, #529, #526, #525) unchanged, no re-spam.
-4. Next L1/L2/L3 snapshots due 2026-07-13.
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
-## 2026-07-11 13:00 (state-confirm — anti-noise hold)
-- Backlog: 6 ai-fix (#4205, #4267, #4273, #4274, #4275, #4276 — all promoted at 09:10, unchanged) · 1 PR open (#4280, CLEAN, drumsticks content — non-ai-fix) · proposals untriaged: 0 (bank empty except umbrella trackers #3810/#3819/#2211)
-- Org / Sessions / Views (7d): 177/213/357 · GSC: 4,188 impr / 127 clicks / 3.03% CTR / pos 8.6 — no content-gap rows
-- Blockers unchanged: #875 #529 #526 #525 (human-founder) · no re-spam · L1/L2/L3 snapshots still dated 07-06, next due 2026-07-13
-- Actions: none — #4277 merged since the 09:10 entry (healthy throughput), no fresh seo-proposal, founder-ideas inbox empty, backlog at 6 (well below 45 floor) with nothing untriaged to promote
-- Next check: 19:00 UTC evening pulse — watch for fresh SEO Agent proposals to promote toward the 45-80 floor (currently 6); L1/L2/L3 due 2026-07-13
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
-## 2026-07-11 09:10 — Pulse: 4 fresh sitemap-drift proposals promoted, backlog 2→6
-
-### Context (≤3 lines)
-Metrics dated 01:32 UTC (177 users/212 sessions/356 views 7d; GSC 4,188 impr/127 clicks/3.03% CTR/pos 8.6 — no content-gap rows). Backlog was 2 eligible `ai-fix`, 1 open PR (#4277, mergeable). 4 fresh untriaged `seo-proposal` landed at 00:29-00:30 UTC (#4273-4276), all same bug class: hand-maintained drummer-slug arrays in `api/sitemap.js` drifting from the 67-drummer roster.
-
-### Actions taken
-- Independently re-verified all 4 against source before promoting (not just trusting the issue body): **#4273** — grepped `llmsDrummerSlugs` (api/sitemap.js:350-367), confirmed 61 entries vs 67 files on disk in `public/llms/drummers/`, missing exactly the 6 claimed (martin-axenrot, paul-bostaph, sean-reinert, nick-menza, adrian-erlandsson, jon-dette). **#4274** — confirmed `ENDORSEMENT_TIMELINE` has 67 keys vs `endorsementDrummers` array (api/sitemap.js:289-303) with only 38, root-cause fix (derive via `Object.keys`) is sound. **#4275** — confirmed lick sitemap array (api/sitemap.js:~717-734) has 63 vs 67, missing exactly the 4 claimed; confirmed on disk that adrian-erlandsson.md/martin-axenrot.md/sean-reinert.md exist but nick-menza.md is genuinely absent (only nick-menza-licks.md exists, a different file). **#4276** — meta CI-check issue following the same pattern as #4205/#4267, no overlap in scope (this one targets sitemap.js slug-array drift specifically). All 4 promoted to `ai-fix`.
-- Founder ideas: inbox empty. GSC content-gap (impr≥50, CTR<2%): none per metrics.md. Atomic-split sweep: all 6 open `ai-fix` issues (#4205, #4267, #4273-4276) are ≤1 day old — no split needed. Human-founder blockers (#875, #529, #526, #525) unchanged, no re-spam. L1 (#3810)/L2 (#2211)/L3 (#3819) snapshots still dated 2026-07-06, next due 2026-07-13 — standing deferral holds. PR #4277 (drumsticks) is mergeable, no blocker.
-
-### State delta
-- ai-fix backlog: 2 → 6 eligible (#4273, #4274, #4275, #4276 promoted)
-- seo-proposal bank: 4 fresh untriaged → 0 (remaining open seo-proposal issues are umbrella trackers #3810/#3819/#2211 only)
-- Org/Sessions/Views (7d): 177/212/356 · GSC: 4,188 impr / 127 clicks / 3.03% CTR / pos 8.6
-
-### Quota check
-✅ Founder ideas: inbox empty. ✅ SEO proposals: 4/4 triaged with independent source verification, all promoted. ✅ GSC-gap: none this week. ✅ Atomic split: none needed. ✅ Decisions logged.
-
-### Next Run
-1. Backlog at 6 — still well below the 45 floor; keep promoting fresh proposals liberally toward the ~80 target band.
-2. Once #4273/#4274/#4275 ship, spot-check sitemap.xml counts (llms/drummers 67, endorsements 67×2, llms/licks 67) and confirm #4275's nick-menza.md gets generated (not just the sitemap entry added).
-3. Human-founder blockers (#875, #529, #526, #525) unchanged, no re-spam.
-4. Next L1/L2/L3 snapshots due 2026-07-13.
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
-## 2026-07-11 07:05 (state-confirm — anti-noise hold)
-- Backlog: 2 ai-fix (#4205, #4267) · 0 PRs open · proposals untriaged: 0 (bank empty except umbrella trackers #3810/#3819/#2211)
-- Org / Sessions / Views (7d): 177/212/356 · GSC: 4,188 impr / 127 clicks / 3.03% CTR / pos 8.6 — no content-gap rows
-- Blockers unchanged: #875 #529 #526 #525 (human-founder) · no re-spam · L1/L2/L3 snapshots still dated 07-06, next due 2026-07-13
-- Actions: none — #4266/#4268/#4269 shipped via bot auto-promotion + Ralph since the 22:25 entry (healthy throughput, no CEO action needed); no founder ideas, no fresh proposals, no GSC-gap rows this run
-- Next check: 13:00 UTC mid-day pulse — watch for fresh SEO Agent proposals to promote toward the 45-80 floor (currently 2); L1/L2/L3 due 2026-07-13
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
-## 2026-07-11 — Pulse: 3 fresh drumsticks proposals verified and promoted, backlog 6→9
-
-### Context (≤3 lines)
-Metrics refreshed 04:08 UTC (177 users/213 sessions/384 views 7d; GSC 4,188 impr/127 clicks/3.03% CTR/pos 8.6 — no content-gap rows). Backlog was 6 eligible `ai-fix`, well below the 45 floor. 3 fresh untriaged `seo-proposal` (#4281-4283, 03:04-03:05 UTC) — a drumsticks-module cluster following the recent batch-2 stick data merge (#4280).
-
-### Actions taken
-- Verified all 3 against source before promoting. **#4281** (Verbeuren/Priester `gear.sticks` + `kitOverview` prose in `api/drummers/index.js` contradict verified `drumsticks.js` records): confirmed `packages/frontend/data/drumsticks.js` has Verbeuren's O-DVM2 Tama entry, while `api/drummers/index.js:2601` still reads "Promark Shira Kashi Oak 5B" and `:2840` still reads "Vic Firth Aquiles Priester Signature" (a model the batch-2 commit disproved). **#4282** (zero `/drumsticks*` route handling in `api/meta/[...path].js` despite epic #4135 shipping ~90 sitemap-listed pages): grepped the handler file — only the older, separate `/gear/sticks` category page has schema; no `/drumsticks` match at all. **#4283** (no `/llms/drumsticks.md` hub despite ~23 sourced records in `drumsticks.js`): confirmed no such file and no generator script exist. All 3 are atomic, root-cause-verified, consistent with the established "new module ships without llms/ + meta coverage" gap class (same as #4230/#4231 licks/endorsements). Promoted all 3 to `ai-fix`.
-- Founder ideas: inbox empty. GSC content-gap (impr≥50, CTR<2%): none per fresh metrics.md. Atomic-split sweep: newest open `ai-fix` issue is #4205 (2026-07-10T00:37) — under 3 days, no split needed. Human-founder blockers (#875, #529, #526, #525) unchanged, no re-spam. L1 (#3810)/L2 (#2211)/L3 (#3819): snapshot `Generated:` timestamps still 2026-07-06 — next due 2026-07-13, standing deferral holds, no re-litigation.
-- 3 open PRs (#4284-4286, sitemap-array fixes) show `UNSTABLE` mergeStateStatus but all named checks report `SUCCESS`/pending-null (Vercel preview comment done, 2 checks not yet reported) — reads as in-flight CI, not a real conflict; no action needed.
-
-### State delta
-- ai-fix backlog: 6 → 9 eligible (#4281, #4282, #4283 promoted)
-- seo-proposal bank: 3 fresh untriaged → 0 (remaining open seo-proposal issues are umbrella trackers #3810/#3819/#2211 only)
-- Org/Sessions/Views (7d): 177/213/384 · GSC: 4,188 impr / 127 clicks / 3.03% CTR / pos 8.6
-
-### Quota check
-✅ Founder ideas: inbox empty. ✅ SEO proposals: 3/3 triaged with independent source verification, all promoted. ✅ GSC-gap: none this week. ✅ Atomic split: none needed. ✅ Decisions logged.
-
-### Next Run
-1. Backlog at 9 — still well below the 45 floor; keep promoting fresh proposals liberally toward the ~80 target band.
-2. Watch #4284-4286 (UNSTABLE PRs) — confirm they clear to MERGEABLE/merge on the next check rather than staying stuck.
-3. Human-founder blockers (#875, #529, #526, #525) unchanged, no re-spam.
-4. Next L1/L2/L3 snapshots due 2026-07-13.
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
-## 2026-07-11 07:00 (state-confirm — anti-noise hold)
-- Backlog: 7 ai-fix (#4205, #4267, #4276, #4290-4293) · 0 PRs open · proposals untriaged: 0 (bank empty except umbrella trackers #3810/#3819/#2211)
-- Org / Sessions / Views (7d): 177/215/386 · GSC: 5,124 impr / 154 clicks / 3.01% CTR / pos 8.6 — no content-gap rows
-- Blockers unchanged: #875 #529 #526 #525 (human-founder) · no re-spam · L1/L2/L3 snapshots still dated 07-06, next due 2026-07-13
-- Actions: none — founder-ideas inbox empty, #4290-4293 (4 fresh drumsticks/llms-hub batches) already promoted to ai-fix before this run (healthy SEO Agent throughput), all 7 open ai-fix issues same-day, no split needed
-- Next check: mid-day pulse — watch for fresh seo-proposal output and next L1/L2/L3 snapshot due 2026-07-13
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
-## 2026-07-11 08:35 — Mid-day pulse: 6 fresh proposals promoted (cymbals+snares phases), 2 duplicate-run PRs + 1 stale issue closed
-
-### Context (≤3 lines)
-Metrics refreshed 08:33 UTC (178 users/216 sessions/409 views 7d; GSC 5,124 impr/154 clicks/3.01% CTR/pos 8.6 — no content-gap rows). Backlog was 5 eligible `ai-fix`. 6 fresh untriaged `seo-proposal` (#4305-4307 cymbals phases 2-4, #4310-4312 snares phases 2-4, all 07:37-07:55 UTC).
-
-### Actions taken
-- Verified all 6 against source before promoting. Cymbals phase-1 data module (`cymbalSetups.js`) already merged (PR #4322, commit d7b225e, closing epic #4303) — confirmed 56 records/56 unique slugs via direct `node -e` load, so **#4305/#4306/#4307 are fully unblocked**. Snares phase-1 (`snares.js`) not yet merged (PR #4324 open, UNSTABLE) — **#4310/#4311/#4312 gate on it**, per each issue's own "Depends on phase 1 — build after it merges" note (same self-gating pattern that worked for drumsticks/cymbals). All 6 promoted to `ai-fix`.
-- **Found & cleaned up 2 duplicate-run PRs + 1 stale issue**, all from the same Roadie run ID #29144799629 racing itself: (1) issue **#4304** (cymbals phase-1 tracking issue) was still open despite its deliverable already merged under epic #4303's number — closed as already-implemented after re-verifying the file. (2) PR **#4323** recreated the identical `cymbalSetups.js` (849 additions, 0 deletions) — DIRTY because main already had it from #4322 — closed as duplicate. (3) PR **#4320** recreated `public/llms/index.md` + `scripts/generate-llms-index.cjs`, identical to already-merged PR #4321 (same run ID) — DIRTY for the same reason — closed as duplicate. Net effect: both DIRTY PRs are gone, only #4324 (UNSTABLE, likely just pending checks) remains open.
-- Founder ideas: inbox empty. GSC content-gap (impr≥50, CTR<2%): none. Atomic-split sweep: all 10 open `ai-fix` issues are same-day (2026-07-10/11) — no split needed. Human-founder blockers (#875, #529, #526, #525) unchanged, no re-spam. L1 (#3810)/L2 (#2211)/L3 (#3819) snapshots still dated 2026-07-06 — next due 2026-07-13, standing deferral holds.
-
-### State delta
-- ai-fix backlog: 5 → 10 eligible (#4305-4307, #4310-4312 promoted; #4304 closed as stale duplicate)
-- seo-proposal bank: 6 fresh untriaged → 0 (remaining open seo-proposal issues are umbrella trackers #3810/#3819/#2211 only)
-- Open PRs: 3 → 1 (#4323, #4320 closed as duplicates of already-merged work; #4324 remains, UNSTABLE)
-- Org/Sessions/Views (7d): 178/216/409 · GSC: 5,124 impr / 154 clicks / 3.01% CTR / pos 8.6
-
-### Quota check
-✅ Founder ideas: inbox empty. ✅ SEO proposals: 6/6 triaged with independent source verification, all promoted. ✅ GSC-gap: none this week. ✅ Atomic split: none needed. ✅ Decisions logged.
-
-### Next Run
-1. Backlog at 10 — still well below the 45 floor; keep promoting fresh proposals liberally toward the ~80 target band.
-2. Watch #4324 (snares phase-1) — once merged, #4310/#4311/#4312 unblock; also re-check #4309 (snares phase-1 tracking issue) for the same staleness pattern seen on #4304 once #4324 merges.
-3. If duplicate-run PRs from the same Roadie run ID recur, note it as a systemic pattern worth flagging (not a CEO-side fix, but worth watching frequency).
-4. Human-founder blockers (#875, #529, #526, #525) unchanged, no re-spam.
-5. Next L1/L2/L3 snapshots due 2026-07-13.
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
-## 2026-07-11 09:35 — Pulse: 3 fresh proposals promoted (335-URL crawler-shell gap, real pedals 404 bug, 55-URL heads sitemap gap), 1 duplicate-run cleanup
-
-### Context (≤3 lines)
-Metrics refreshed 09:30 UTC (178 users/217 sessions/412 views 7d; GSC 5,124 impr/154 clicks/3.01% CTR/pos 8.6 — no content-gap rows). Backlog was 9 eligible `ai-fix`. 3 fresh untriaged `seo-proposal` (#4326-4328, 08:43 UTC).
-
-### Actions taken
-- Verified all 3 against source before promoting. **#4326** (`/drummer/:slug/:category` — 335 sitemap-declared URLs never wired into `vercel.json`'s bot-UA rewrite): confirmed via curl (`GPTBot` UA on `/drummer/lars-ulrich/cymbals` returns the generic homepage shell title, while `/drummer/lars-ulrich` correctly returns the per-drummer title) and via `grep -n '"source": "/drummer'` on `vercel.json` — no entry for the singular `/drummer/:slug/:category` pattern exists, only unrelated plural `/drummers/:slug/*` entries. Largest single instance of the crawler-shell bug class found to date. **#4327** (`/drummer/:slug/pedals` 404s for all 67 drummers, real user-facing bug not just SEO): confirmed `curl /api/gear/lars-ulrich/pedals` 404s despite Lars's `hardware` field clearly containing pedal gear — root cause is a raw `drummer.gear?.pedals` field lookup when no drummer record has that field; pedal data only exists as free text inside `.hardware`. A working extraction helper already exists in an unused sibling module. **#4328** (`heads` category has full working API + data for 55/67 drummers but was never added to `api/sitemap.js`'s `GEAR_CATEGORIES` array): confirmed via curl (`/api/gear/lars-ulrich/heads` returns full valid JSON) vs. sitemap grep (0 `/heads` URLs present). Pure one-line sitemap-array fix, ~55 new URLs. All 3 atomic, root-cause-verified, high-confidence. Promoted all 3 to `ai-fix`.
-- **Found & cleaned up 1 duplicate-run artifact**: issue **#4309** ("snares phase 1 data module") duplicated already-closed epic **#4308**, whose phase-1 deliverable (`packages/frontend/data/snares.js`, 795 lines) was already merged via PR #4324. PR **#4325** (from #4309) recreated the identical file and was CONFLICTING as a result — closed both the PR (duplicate) and the issue (not planned). Same duplicate-run pattern as the #4304/#4323/#4320 cleanup at the 08:35 pulse — worth flagging as a recurring systemic issue if frequency increases, but not a CEO-side code fix.
-- **PR #4330** (issue #4306, cymbals/setups pages) is also DIRTY/CONFLICTING but NOT a duplicate — `cymbalSetupPages.js` doesn't exist in main yet, it's a stale branch that fell behind after several other cymbals-phase PRs merged underneath it (touches `App.js`, `api/sitemap.js`, ~60 `llms/drummers/*.md` files). Left open to self-heal via rebase/re-run — watch item, not an action item.
-- Founder ideas: inbox empty. GSC content-gap (impr≥50, CTR<2%): none. Atomic-split sweep: all open `ai-fix` issues same-day, no split needed. Human-founder blockers (#875, #529, #526, #525) unchanged, no re-spam. L1 (#3810)/L2 (#2211)/L3 (#3819) snapshots still dated 2026-07-06 — next due 2026-07-13, standing deferral holds.
-
-### State delta
-- ai-fix backlog: 9 → 11 eligible (#4326-4328 promoted; net of other pipeline movement)
-- seo-proposal bank: 3 fresh untriaged → 0 (remaining open seo-proposal issues are umbrella trackers #3810/#3819/#2211 only)
-- Cleanup: #4309 (duplicate issue) + PR #4325 (duplicate/conflicting) closed
-- Org/Sessions/Views (7d): 178/217/412 · GSC: 5,124 impr / 154 clicks / 3.01% CTR / pos 8.6
-
-### Quota check
-✅ Founder ideas: inbox empty. ✅ SEO proposals: 3/3 triaged with independent source verification, all promoted. ✅ GSC-gap: none this week. ✅ Atomic split: none needed. ✅ Decisions logged.
-
-### Next Run
-1. Backlog at 11 — still well below the 45 floor; keep promoting fresh proposals liberally toward the ~80 target band.
-2. Watch PR #4330 (cymbals/setups, DIRTY/CONFLICTING) — confirm it self-heals via rebase; if it stalls past a few checks, treat like the #4304 pattern.
-3. Duplicate-run PRs recurring twice now (#4304/#4323/#4320 batch, then #4309/#4325) — worth a closer look if a 3rd instance appears this week.
-4. Human-founder blockers (#875, #529, #526, #525) unchanged, no re-spam.
-5. Next L1/L2/L3 snapshots due 2026-07-13.
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
-## 2026-07-11 10:25 (state-confirm — anti-noise hold)
-- Backlog: 8 ai-fix · 4 PRs open (#4330 DIRTY, #4332 DIRTY, #4336 DIRTY, #4337 UNSTABLE) · proposals untriaged: 0 (bank empty except umbrella trackers #3810/#3819/#2211)
-- Org / Sessions / Views (7d): 178/217/436 · GSC: 5,124 impr / 154 clicks / 3.01% CTR / pos 8.6 — no content-gap rows
-- Blockers unchanged: #875 #529 #526 #525 (human-founder) · no re-spam · L1/L2/L3 snapshots still dated 07-06, next due 2026-07-13
-- Actions: none — founder-ideas inbox empty, no fresh seo-proposal since 09:35 entry, backlog at 8 (well below 45 floor) with nothing fresh to promote; DIRTY PRs (#4332/#4336, both <1hr old, api/sitemap.js conflicts — same recurring class already covered by open CI-check issues #4267/#4276) too fresh to intervene on
-- Next check: mid-day pulse (13:00 UTC) — watch #4332/#4336/#4337 for self-heal, next L1/L2/L3 snapshot due 2026-07-13
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
-## 2026-07-11 11:25 — Pulse: 4 fresh /llms/ staleness proposals verified and promoted, backlog 6→10; DIRTY-PR churn from 10:25 self-resolved
-
-### Context (≤3 lines)
-Metrics refreshed 11:21 UTC (180 users/219 sessions/437 views 7d; GSC 5,124 impr/154 clicks/3.01% CTR/pos 8.6 — no content-gap rows). The 4 DIRTY PRs flagged at 10:25 (#4330, #4332, #4336, #4337) are gone: #4332 (#4307 cymbals brand pages) and #4337 (#4311 snares signature pages) merged clean by 11:01; #4330 (#4306 cymbals/setups) and #4336 (#4328 heads sitemap) closed as stale/DIRTY, but both source issues remain open `ai-fix` for natural re-dispatch — #4328 already has a fresh PR (#4344, UNSTABLE, <30 min old). Backlog was 6 eligible `ai-fix`. 4 fresh untriaged `seo-proposal` (#4339-4342, 10:32-10:33 UTC).
-
-### Actions taken
-- Verified all 4 against source before promoting. **#4339** (3 missing `/llms/evolution/*.md` files — ben-koller, mikkey-dee, pete-sandoval — despite `drummerEvolution.js` having all 67 entries): reran the issue's own diff command, confirmed exactly those 3 missing on disk. **#4340** (missing `public/llms/gear-history/adrian-erlandsson.md` despite source data present): confirmed file absent, `gearPriceHistory.js` has the entry. **#4341** (6 orphaned stale-duplicate `/llms/licks/*-licks.md` files, 3 still linked from `api/sitemap.js`): confirmed all 6 files exist on disk and the sitemap still references the jay-weinberg/nicko-mcbrain/pete-sandoval variants. **#4342** (3 more stale drummer-count lines in `public/llms/index.md` beyond the table #4298 already fixed): confirmed lines 63/68/136/408/517 still read "63 total"/"15 files" against the live 67-drummer roster. All 4 atomic, root-cause-verified, same generator-drift/backfill-gap class as this week's other `/llms/` fixes. Promoted all 4 to `ai-fix`.
-- Founder ideas: inbox empty. GSC content-gap (impr≥50, CTR<2%): none per fresh metrics.md. Atomic-split sweep: oldest open `ai-fix` is #4205 (2026-07-10T00:37, ~35h old) — under 3 days, no split needed; none of the 10 open issues list ≥4 distinct deliverables. Human-founder blockers (#875, #529, #526, #525) unchanged, no re-spam. L1 (#3810)/L2 (#2211)/L3 (#3819) snapshots still dated 2026-07-06 — next due 2026-07-13, standing deferral holds.
-
-### State delta
-- ai-fix backlog: 6 → 10 eligible (#4339-4342 promoted)
-- seo-proposal bank: 4 fresh untriaged → 0 (remaining open seo-proposal issues are umbrella trackers #3810/#3819/#2211 only)
-- Open PRs: 4 (all DIRTY/UNSTABLE at 10:25) → 1 (#4344, UNSTABLE, fresh)
-- Org/Sessions/Views (7d): 180/219/437 · GSC: 5,124 impr / 154 clicks / 3.01% CTR / pos 8.6
-
-### Quota check
-✅ Founder ideas: inbox empty. ✅ SEO proposals: 4/4 triaged with independent source verification, all promoted. ✅ GSC-gap: none this week. ✅ Atomic split: none needed. ✅ Decisions logged.
-
-### Next Run
-1. Backlog at 10 — still well below the 45 floor; keep promoting fresh proposals liberally toward the ~80 target band.
-2. Watch #4306 and #4312 (both lost their PR to a DIRTY close, still open `ai-fix`) — confirm a fresh PR lands rather than stalling unattempted.
-3. Watch PR #4344 (#4328 heads sitemap fix) for clean merge.
-4. Human-founder blockers (#875, #529, #526, #525) unchanged, no re-spam.
-5. Next L1/L2/L3 snapshots due 2026-07-13.
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
-## 2026-07-11 13:30 — Pulse: backlog critically drained (3→4 eligible), Roadie fully caught up with 0 open PRs
-
-### Context (≤3 lines)
-Metrics refreshed 13:29 UTC (182 users/222 sessions/439 views 7d; GSC 5,124 impr/154 clicks/3.01% CTR/pos 8.6 — no content-gap rows). Roadie merged 10 PRs since the 11:25 entry (last merge #4350 at 12:28 UTC) and drained the `ai-fix` backlog to just 3 eligible issues with 0 open PRs — first time this week the fleet has run dry rather than the queue overflowing.
-
-### Actions taken
-- Only 1 fresh untriaged `seo-proposal` existed (#4351, filed 12:20 UTC). Verified independently: `grep -o "slug: '[a-z-]*'" packages/frontend/data/gearComparisons.js` confirms all 12 comparison slugs; `ls public/llms/gear-comparison/` confirms exactly the 5 claimed slugs (`dw-vs-tama`, `mapex-vs-pearl`, `sabian-vs-meinl`, `ludwig-vs-tama`, `ludwig-vs-dw`) are missing on disk despite being sitemapped — pure regeneration task, same generator-drift class as this week's other `/llms/` fixes. Promoted to `ai-fix`.
-- Founder ideas: inbox empty. GSC content-gap (impr≥50, CTR<2%): none. Atomic-split sweep: oldest open `ai-fix` is #4205 (~37h old) — under 3 days, no split needed. Human-founder blockers (#875, #529, #526, #525) unchanged, no re-spam. L1 (#3810)/L2 (#2211)/L3 (#3819) snapshots still dated 2026-07-06 — next due 2026-07-13, standing deferral holds.
-
-### State delta
-- ai-fix backlog: 3 → 4 eligible (#4351 promoted) — still far below the 45 floor, with 0 open PRs (Roadie idle, not just under-target)
-- seo-proposal bank: 1 fresh untriaged → 0 (remaining open seo-proposal issues are the 3 already-promoted CI-check items + umbrella trackers #3810/#3819/#2211)
-- Org/Sessions/Views (7d): 182/222/439 · GSC: 5,124 impr / 154 clicks / 3.01% CTR / pos 8.6
-
-### Quota check
-✅ Founder ideas: inbox empty. ✅ SEO proposals: 1/1 triaged with independent source verification, promoted. ✅ GSC-gap: none this week. ✅ Atomic split: none needed. ✅ Decisions logged.
-
-### Next Run
-1. Backlog at 4 with 0 open PRs — this is a supply problem, not a promotion-discipline problem: the SEO Agent needs to surface more proposals faster than its recent cadence. If the next run still finds an empty proposal bank, that's worth flagging as a standing concern rather than repeating this note silently.
-2. Nothing to promote beyond #4351 this run — watch for the SEO Agent's next batch.
-3. Human-founder blockers (#875, #529, #526, #525) unchanged, no re-spam.
-4. Next L1/L2/L3 snapshots due 2026-07-13.
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
-## 2026-07-11 14:26 (state-confirm — anti-noise hold)
-- Backlog: 3 ai-fix · 0 PRs open · proposals untriaged: 0 (bank empty except umbrella trackers #3810/#3819/#2211)
-- Org / Sessions / Views (7d): 182/222/443 · GSC: 5,124 impr / 154 clicks / 3.01% CTR / pos 8.6 — no content-gap rows
-- Blockers unchanged: #875 #529 #526 #525 (human-founder) · no re-spam · L1/L2/L3 snapshots still dated 07-06, next due 2026-07-13
-- Actions: investigated the "empty proposal bank" concern flagged at 13:30 — checked SEO Agent workflow runs directly (`gh run list`), confirmed it's healthy on its normal ~2h cadence (last completed 12:16 UTC produced #4351, already triaged; next run was `in_progress` at 14:26:10, same moment as this check). Not a stalled pipeline — just cadence timing between CEO's hourly pulses and the SEO Agent's 2h cycle. No promotions needed, nothing fresh to act on.
-- Next check: 19:00 UTC evening review — expect the SEO Agent's 14:26 run to have landed a fresh batch by then; also watch whether Roadie dispatches against the 3 remaining backlog issues.
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
-## 2026-07-11 16:16 (state-confirm — anti-noise hold)
-- Backlog: 3 ai-fix (all CI-check/root-cause issues #4205/#4267/#4276) · 0 PRs open · proposals untriaged: 0 (bank empty except umbrella trackers #3810/#3819/#2211)
-- Org / Sessions / Views (7d): 183/223/443 · GSC: 5,124 impr / 154 clicks / 3.01% CTR / pos 8.6 — no content-gap rows
-- Blockers unchanged: #875 #529 #526 #525 (human-founder) · no re-spam · L1/L2/L3 snapshots still dated 07-06, next due 2026-07-13
-- Actions: none — founder-ideas inbox empty, no fresh seo-proposal since 14:26. Noted (not an action): #4355 (ssrLinks gap on 9 hub pages) was self-filed ai-fix by SEO Agent at 14:33 and merged by Roadie at 16:11 without CEO promotion — pipeline healthy.
-- Next check: 19:00 UTC evening review — per anti-noise rule, if still unchanged this is the 2nd consecutive Quick entry; a 3rd identical run should skip logging.
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
-## 2026-07-11 17:25 — Pulse: promoted #4357 (extendedBios.js 15 duplicate keys, 5 with real content loss)
-
-### Context (≤3 lines)
-Metrics refreshed 17:20 UTC (184 users/224 sessions/445 views 7d; GSC 5,124 impr/154 clicks/3.01% CTR/pos 8.6 — no content-gap rows). Backlog was 3 eligible `ai-fix`, 0 open PRs (Roadie idle). One fresh untriaged `seo-proposal` (#4357, filed 16:28 UTC).
-
-### Actions taken
-- Verified #4357 independently before promoting: `grep -oE "'[a-z0-9-]+':" packages/frontend/data/extendedBios.js | sort | uniq -c | awk '$1>1'` confirms all 15 duplicate keys claimed (10 cosmetic-only, 5 — brann-dailor/chris-adler/matt-halpern/inferno/hellhammer — with genuinely conflicting bio content where JS object-literal semantics silently discard the first block). Brann Dailor is an active top-10 GSC/GA4 entity and this data feeds the `/llms/` generator surface (primary LLM-citation content), so the fix directly serves the L2 KPI. Atomic, root-cause, high-confidence. Promoted to `ai-fix`.
-- Founder ideas: inbox empty. GSC content-gap (impr≥50, CTR<2%): none. Atomic-split sweep: oldest open `ai-fix` is #4205 (~41h old) — under the 72h trigger, no split needed. Human-founder blockers (#875, #529, #526, #525) unchanged, no re-spam. L1 (#3810)/L2 (#2211)/L3 (#3819) snapshots still dated 2026-07-06 — next due 2026-07-13, standing deferral holds.
-
-### State delta
-- ai-fix backlog: 3 → 4 eligible (#4357 promoted)
-- seo-proposal bank: 1 fresh untriaged → 0 (remaining open seo-proposal issues are the 3 already-promoted CI-check items + umbrella trackers #3810/#3819/#2211)
-- Org/Sessions/Views (7d): 184/224/445 · GSC: 5,124 impr / 154 clicks / 3.01% CTR / pos 8.6
-
-### Quota check
-✅ Founder ideas: inbox empty. ✅ SEO proposals: 1/1 triaged with independent source verification, promoted. ✅ GSC-gap: none this week. ✅ Atomic split: none needed. ✅ Decisions logged.
-
-### Next Run
-1. Backlog at 4 with 0 open PRs — still a supply problem more than a promotion-discipline one; keep promoting fresh proposals the moment they land.
-2. Watch whether Roadie picks up #4357 alongside the 3 CI-check issues now that the queue has depth again.
-3. Human-founder blockers (#875, #529, #526, #525) unchanged, no re-spam.
-4. Next L1/L2/L3 snapshots due 2026-07-13.
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
-## 2026-07-11 19:00 (state-confirm — anti-noise hold)
-- Backlog: 3 ai-fix (all CI-check root-cause items #4205/#4267/#4276) · 0 PRs open · proposals untriaged: 0 (bank empty except umbrella trackers #3810/#3819/#2211)
-- Org / Sessions / Views (7d): 184/224/445 · GSC: 5,124 impr / 154 clicks / 3.01% CTR / pos 8.6 — no content-gap rows
-- Blockers unchanged: #875 #529 #526 #525 (human-founder) · no re-spam · L1/L2/L3 snapshots still dated 07-06, next due 2026-07-13
-- Actions: none — evening review: ~34 PRs merged today (drumsticks module buildout #4277-4302, cymbals/snares hub epics #4322-4350, /llms/ freshness batch, meta-shell ssrLinks fix #4356, extendedBios 15-duplicate-key dedup #4358); no fresh seo-proposal or founder idea since the 17:25 entry
-- Next check: 2026-07-12 07:00 UTC deep run — pull fresh GA4/GSC, refill backlog toward the ~80 target if proposals land overnight, next L1/L2/L3 snapshot due 2026-07-13
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
-## 2026-07-11 19:30 — Pulse: promoted 4 fresh schema/ssrLinks proposals; live-verified L1/L3 stale items are already resolved (not new work)
-
-### Context (≤3 lines)
-Metrics refreshed 19:24 UTC (185 users/226 sessions/446 views 7d; GSC 5,124 impr/154 clicks/3.01% CTR/pos 8.6 — no content-gap rows). Backlog was 3 eligible `ai-fix`, 0 open PRs (Roadie idle). 4 fresh untriaged `seo-proposal` (#4359-4362, 18:25-18:27 UTC).
-
-### Actions taken
-- Verified all 4 against source before promoting. **#4359** (`/lists` hub missing `CollectionPage` schema): confirmed via direct read of `api/meta/[...path].js:2580-2592` — no `articleSchema` key, sibling hubs have one. **#4360** (`/kit-builder` missing `WebApplication` schema, sibling `/kit-quiz` has it): confirmed both handlers at lines 1206-1233, `/kit-quiz` has the schema block, `/kit-builder` doesn't. **#4361** (7 `/gear/<brand>/<series>/drummers-using` pages sitemapped with empty `[]` drummer arrays): reran a `node -e` eval of `DRUMMERS_BY_KIT`, confirmed exactly the 7 claimed empty keys (tama/star-classic-bubinga, tama/star-classic-walnut-birch, pearl/masters-custom-maple, pearl/reference-masters-maple, sonor/sq2-heavy-maple, mapex/orion, pdp/concept-maple). **#4362** (`/technique/:slug` ×29 + `/genre/:slug` ×9 detail pages missing `ssrLinks`, same class as #4355 but one level down from hubs): spot-checked the cited line ranges, both handlers have `articleSchema`/`breadcrumbSchema` but no `ssrLinks` key. All 4 atomic, root-cause-verified, high-confidence. Promoted all 4 to `ai-fix`.
-- **Live-verified 3 items from the stale 2026-07-06 L1/L3 snapshots instead of re-filing against them** (backlog was starved enough to be worth mining, but wanted to confirm they're not already fixed first): (1) the 5 L3 `error-404` article URLs (abr-phantom-anthem, cowboys-from-hell, dance-of-death, spiritual-healing, the-satanist drum-setup) all curl `200` live now — stale, no action. (2) the 57 L3 `duplicate-without-canonical → jay-weinberg` rows — curled 3 sample URLs (`/bpm`, a guide, an article) with Googlebot UA, each self-canonicalizes correctly with its own title — stale, no action (both classes were symptoms of the meta-shell saga, resolved 2026-07-09 per pending-issues.md). (3) The `/drummers` `crawled-not-indexed` flag — curled it fresh and found **zero** `<li>` links despite #4356 (the #4355 ssrLinks fix) merging at 16:11 UTC today; root-caused via `gh run list --workflow=deploy-prod.yml` — last successful deploy was 07:10 UTC, **before** #4356 merged, so this is deploy-cadence lag (once/day batching), not a regression. No new issue — will self-heal on tomorrow's ~07:00 UTC deploy; re-verify then.
-- Founder ideas: inbox empty. GSC content-gap (impr≥50, CTR<2%): none. Atomic-split sweep: oldest open `ai-fix` is #4205 (~43h old) — under the 72h trigger, no split needed. Human-founder blockers (#875, #529, #526, #525) unchanged, no re-spam. L1 (#3810)/L2 (#2211)/L3 (#3819) snapshots still dated 2026-07-06 — next due 2026-07-13, standing deferral holds (now with live spot-check confirming the deferral isn't just laziness — the actionable rows checked really are stale/self-healing).
-
-### State delta
-- ai-fix backlog: 3 → 7 eligible (#4359-4362 promoted)
-- seo-proposal bank: 4 fresh untriaged → 0 (remaining open seo-proposal issues are the 3 already-promoted CI-check items + umbrella trackers #3810/#3819/#2211)
-- Org/Sessions/Views (7d): 185/226/446 · GSC: 5,124 impr / 154 clicks / 3.01% CTR / pos 8.6
-
-### Quota check
-✅ Founder ideas: inbox empty. ✅ SEO proposals: 4/4 triaged with independent source verification, all promoted. ✅ GSC-gap: none this week. ✅ Atomic split: none needed. ✅ Decisions logged.
-
-### Next Run
-1. Backlog at 7 — still well below the 45 floor; keep promoting fresh proposals liberally toward the ~80 target band.
-2. Re-verify `/drummers` bot shell after tomorrow's ~07:00 UTC deploy — should show 67 `<li>` links once #4356 goes live; if still zero, that's a real regression worth an issue.
-3. Human-founder blockers (#875, #529, #526, #525) unchanged, no re-spam.
-4. Next L1/L2/L3 snapshots due 2026-07-13.
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
-## 2026-07-11 20:18 — Pulse: closed duplicate PR #4367 (3rd occurrence of duplicate-run pattern this week)
-
-### Context (≤3 lines)
-Metrics refreshed 20:16 UTC (185 users/226 sessions/447 views 7d; GSC 5,124 impr/154 clicks/3.01% CTR/pos 8.6 — no content-gap rows). Backlog was 3 eligible `ai-fix`, 1 open PR (#4367, CONFLICTING). 0 fresh untriaged `seo-proposal`.
-
-### Actions taken
-- Investigated PR #4367 (CONFLICTING, ~47 min old) instead of leaving it to self-heal: `gh issue view 4361` showed the source issue already **CLOSED** at 19:47:31 UTC via PR #4366 (merged same second), which implements the identical fix (exclude 7 zero-drummer `/gear/<brand>/<series>/drummers-using` sitemap entries). #4367 started 16 seconds before #4366 merged and is now redundant + conflicting against main. Closed #4367 with a comment linking #4366. This is the **3rd instance** of the duplicate-run PR pattern this week (after #4304/#4323/#4320 and #4309/#4325) — worth flagging to Ricardo/Roadie maintainers as a systemic dispatch-race issue if a 4th instance appears (two Roadie runs picking up the same issue before the first one's merge is visible to the second).
-- Founder ideas: inbox empty. GSC content-gap (impr≥50, CTR<2%): none. Atomic-split sweep: oldest open `ai-fix` is #4205 (~44h old) — under the 72h trigger, no split needed. Human-founder blockers (#875, #529, #526, #525) unchanged, no re-spam. L1 (#3810)/L2 (#2211)/L3 (#3819) snapshots still dated 2026-07-06 — next due 2026-07-13, standing deferral holds.
-
-### State delta
-- Open PRs: 1 (CONFLICTING) → 0
-- ai-fix backlog: 3 (unchanged, no new promotions this run)
-- Org/Sessions/Views (7d): 185/226/447 · GSC: 5,124 impr / 154 clicks / 3.01% CTR / pos 8.6
-
-### Quota check
-✅ Founder ideas: inbox empty. ✅ SEO proposals: none fresh to triage. ✅ GSC-gap: none this week. ✅ Atomic split: none needed. ✅ Decisions logged.
-
-### Next Run
-1. Backlog at 3 with 0 open PRs — watch for Roadie to pick up the 3 remaining CI-check issues (#4205/#4267/#4276) and for the SEO Agent's next proposal batch.
-2. If a 4th duplicate-run PR instance appears this week, escalate the dispatch-race pattern as a `human-founder`/infra concern rather than continuing to clean up silently.
-3. Human-founder blockers (#875, #529, #526, #525) unchanged, no re-spam.
-4. Next L1/L2/L3 snapshots due 2026-07-13.
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
-## 2026-07-11 21:20 — Pulse: promoted #4368/#4369/#4370 (homepage bot-shell, toSlug diacritic bug, /timeline gap)
-
-### Context (≤3 lines)
-Metrics refreshed 21:16 UTC (186 users/227 sessions/447 views 7d; GSC 5,124 impr/154 clicks/3.01% CTR/pos 8.6 — no content-gap rows). Backlog was 3 eligible `ai-fix` (the CI-check trio #4205/#4267/#4276), 0 open PRs. 3 fresh untriaged `seo-proposal` (#4368-4370, filed 20:25-20:26 UTC).
-
-### Actions taken
-- Verified all 3 against live source before promoting. **#4368** (homepage never rewritten to dynamic meta pipeline for bots): confirmed live via `curl -A Googlebot https://metalforge.io/` — zero canonical tag, served the static `index.html` shell with stale "50+ pro drummers" description (repo's `index.html` already reads "60+... and more" — live is a deploy-lag artifact, immaterial to the core bug). Confirmed `vercel.json` line 21 `"source": "/"` is the unrelated `headers` preconnect block, not a bot-UA `rewrites` entry — no rewrite for `/` exists, matching the claim exactly. Homepage is the single highest-authority URL on the site; promoted.
-- **#4369** (toSlug diacritic bug, 4 files, breaks Morgan Ågren links to a 404): read all 4 files directly — `RelatedDrummersBlock.jsx:20-22`, `SharedGearDrummersBlock.jsx:23-25`, `urlHelpers.js:5-10`, `bands.js:630-635` all confirmed to strip non-ASCII chars with no transliteration, matching the claimed `toSlug("Morgan Ågren") → "morgan-gren"` bug exactly. Promoted.
-- **#4370** (`/timeline`, 47-event real page, missing sitemap entry + generic bot shell): confirmed `grep "'/timeline'" api/sitemap.js` and `api/meta/[...path].js` both return zero matches — no sitemap entry, no meta handler branch. Promoted.
-- Founder ideas: inbox empty. GSC content-gap (impr≥50, CTR<2%): none. Atomic-split sweep: oldest open `ai-fix` is #4205 (~45h old) — under the 72h trigger, no split needed. Human-founder blockers (#875, #529, #526, #525) unchanged (last updated 2026-03/06-03), no re-spam. L1 (#3810)/L2 (#2211)/L3 (#3819) snapshots confirmed still dated 2026-07-06 (checked file content, not just mtime — checkout refreshes mtime but `Generated:` timestamp inside is unchanged), next due 2026-07-13, standing deferral holds.
-
-### State delta
-- ai-fix backlog: 3 → 6 eligible (#4368-4370 promoted)
-- seo-proposal bank: 3 fresh untriaged → 0 (remaining open seo-proposal issues are the 3 already-promoted CI-check items + umbrella trackers #3810/#3819/#2211)
-- Org/Sessions/Views (7d): 186/227/447 · GSC: 5,124 impr / 154 clicks / 3.01% CTR / pos 8.6
-
-### Quota check
-✅ Founder ideas: inbox empty. ✅ SEO proposals: 3/3 triaged with independent source verification, all promoted. ✅ GSC-gap: none this week. ✅ Atomic split: none needed. ✅ Decisions logged.
-
-### Next Run
-1. Backlog at 6 — still well below the 45 floor; keep promoting fresh proposals liberally toward the ~80 target band.
-2. Watch for Roadie to pick up #4368 (homepage) first — highest-authority URL, quickest KPI signal once deployed.
-3. Human-founder blockers (#875, #529, #526, #525) unchanged, no re-spam.
-4. Next L1/L2/L3 snapshots due 2026-07-13.
 
 ---
 
@@ -1521,12 +959,16 @@ Metrics refreshed 01:32 UTC (175 users/211 sessions/424 views 7d; GSC 4,220 impr
 
 ---
 
+---
+
 ## 2026-07-12 03:02 (state-confirm — anti-noise hold)
 - Backlog: 9 ai-fix (4205/4267/4276/4370/4381-4385) · 0 PRs open · proposals untriaged: 0 (bank empty except umbrella trackers #3810/#3819/#2211)
 - Org / Sessions / Views (7d): 177/214/430 · GSC: 4,220 impr / 127 clicks / 3.01% CTR / pos 8.5 (GSC identical to 01:45 entry) — no content-gap rows
 - Blockers unchanged: #875 #529 #526 #525 (human-founder) · no re-spam · L1/L2/L3 snapshots still dated 07-06, next due 2026-07-13
 - Actions: none — founder-ideas inbox empty, no fresh seo-proposal landed yet (SEO Agent's 03:01 run still in_progress), oldest ai-fix #4205 ~50h old (under 72h split trigger)
 - Next check: watch for SEO Agent's 03:01 run to land proposals; backlog at 9 is below the 45 floor, promote liberally once fresh proposals arrive
+
+---
 
 ---
 
@@ -1579,6 +1021,8 @@ Metrics refreshed 05:03 UTC (178 users/215 sessions/431 views 7d; GSC 4,220 impr
 
 ---
 
+---
+
 ## 2026-07-12 06:55 — Pulse: promoted #4389 (brands phase 2) — #4388 had actually merged before the prior run closed
 
 ### Context (≤3 lines)
@@ -1602,6 +1046,8 @@ Metrics refreshed 06:51 UTC (220 users/257 sessions/468 views 7d; GSC 5,154 impr
 2. Backlog at 8 — still well below the 45 floor; keep promoting liberally.
 3. Re-check #4392/#4393 (pedals hub, PR #4426 CONFLICTING) and #4408 (perf phase 1, PR #4429) — promote #4394/#4390/#4409/#4410 once their prerequisites actually merge.
 4. Next L1/L2/L3 snapshots due 2026-07-13.
+
+---
 
 ---
 
@@ -1658,6 +1104,8 @@ Metrics refreshed 07:43 UTC (226 users/263 sessions/471 views 7d; GSC 5,154 impr
 
 ---
 
+---
+
 ## 2026-07-12 08:50 — Pulse: closed 2 duplicate-race PRs, salvaged a real gap from one into #4439, filed infra escalation #4440, promoted #4390
 
 ### Context (≤3 lines)
@@ -1684,6 +1132,8 @@ Metrics refreshed 08:43 UTC (236 users/273 sessions/500 views 7d; GSC 5,154 impr
 3. Backlog at 13 — still well below the 45 floor; keep promoting liberally toward the ~80 target band.
 4. Promote #4410 (perf phase 3) once #4409 actually merges (PR #4437 currently UNSTABLE, not yet merged).
 5. Next L1/L2/L3 snapshots due 2026-07-13 (tomorrow) — first fresh run since the meta-shell saga closed.
+
+---
 
 ---
 
@@ -1734,12 +1184,16 @@ Metrics refreshed 09:33 UTC (248 users/285 sessions/508 views 7d; GSC 5,154 impr
 
 ---
 
+---
+
 ## 2026-07-12 10:31 (state-confirm — anti-noise hold)
 - Backlog: 10 ai-fix · 3 PRs open (#4451, #4450, #4447, all MERGEABLE) · proposals untriaged: 0
 - Org / Sessions / Views (7d): 256 / 293 / 520 · GSC: 5,154 impr / 140 clicks / 2.72% CTR / pos 8.5
 - Blockers unchanged: #4424 (Joey Jordison, ~5h old, Jul 26 deadline, not yet at 13:00 UTC escalation checkpoint) · #4440 (infra, 0 comments) · #875/#529/#526/#525 · no re-spam
 - Actions: none — hold continues (0 fresh seo-proposals, 0 founder ideas, no GSC content-gap, no atomic-split trigger; Roadie shipped 6 issues since the 09:33 pulse, backlog 13→10, still well under the 45 floor)
 - Next check: 13:00 UTC mid-day pulse — escalate #4424 if still unpicked; L1/L2/L3 snapshots due 2026-07-13
+
+---
 
 ---
 
@@ -1789,12 +1243,16 @@ Metrics 11:24 UTC (256 users/293 sessions/520 views 7d; GSC 5,154 impr/140 click
 
 ---
 
+---
+
 ## 2026-07-12 12:16 (state-confirm — anti-noise hold)
 - Backlog: 6 ai-fix · 0 PRs open · proposals untriaged: 0 (all seo-proposal items without ai-fix are the L1/L2/L3 umbrella trackers, correctly never promoted)
 - Org / Sessions / Views (7d): 268 / 305 / 533 · GSC: 5,154 impr / 140 clicks / 2.72% CTR / pos 8.5
 - Blockers unchanged: #4424 (Joey Jordison, ~6.7h old, Jul 26 deadline, not yet at 13:00 UTC escalation checkpoint) · #4440 (infra, no new instance) · #875/#529/#526/#525 · no re-spam
 - Actions: re-confirmed #4410/#4276/#4267/#4205 already carry `ai-fix` from earlier runs today (label-add was a no-op); reviewed #4411 (L4 perf verifier, founder-approved) against the atomic-split trigger — held as one issue, deliverables are tightly coupled (script + its own workflow + trivial doc/config touches), same shape as existing L1-L3 loops
 - Next check: 13:00 UTC mid-day pulse — escalate #4424 if still unpicked; L1/L2/L3 snapshots due 2026-07-13
+
+---
 
 ---
 
@@ -1832,6 +1290,8 @@ Metrics refreshed 15:21 UTC (294 users/331 sessions/555 views 7d; GSC 5,154 impr
 2. Watch #4440 for Ricardo's response — the dispatcher-exclusion hypothesis is now backed by two independent instances (duplicate-PR race + human-founder-label stall).
 3. Backlog at 7 — still well below the 45 floor; keep promoting liberally toward the ~80 target band.
 4. Next L1/L2/L3 snapshots due 2026-07-13 — first fresh run since the meta-shell saga closed.
+
+---
 
 ---
 
@@ -1885,12 +1345,16 @@ Metrics refreshed 23:16 UTC (343 users/382 sessions/606 views 7d; GSC 5,154 impr
 
 ---
 
+---
+
 ## 2026-07-13 03:13 (state-confirm — anti-noise hold)
 - Backlog: 10 ai-fix (5 stuck on #4498 workflows:write gap; #4502-4506 event issues, 4 with PRs already open) · 4 PRs open (all UNSTABLE/fresh, <5min old) · proposals untriaged: 0
 - Org / Sessions / Views (7d): 348 / 377 / 565 · GSC: 4,418 impr / 119 clicks / 2.69% CTR / pos 8.5
 - Blockers unchanged: #4498 (workflows:write, filed 01:37 UTC, 0 comments) · #4440 (infra) · #875/#529/#526/#525 · no re-spam
 - Actions: none — hold continues (0 fresh seo-proposals, 0 founder ideas, no GSC content-gap; L1/L2/L3 snapshots still dated 2026-07-06, next scheduled run 08:00 UTC today)
 - Next check: 07:00 UTC deep run — re-check L1/L2/L3 freshness and #4506 (no PR yet, ~1h old, not yet concerning)
+
+---
 
 ---
 
@@ -1939,6 +1403,8 @@ Metrics refreshed 07:02 UTC (388 users/418 sessions/610 views 7d; GSC 4,418 impr
 
 ---
 
+---
+
 ## 2026-07-13 09:10 — Deep run: backlog drained to 0 by Roadie, refilled with 4 grep-verified proposals
 
 ### Context (≤3 lines)
@@ -1965,6 +1431,8 @@ Metrics refreshed 09:02 UTC (390 users/419 sessions/626 views 7d; GSC 4,418 impr
 2. L1/L3 snapshots still dated 2026-07-06 — check again at the 13:00 UTC pulse; expect same-day refresh given the ~1-1.5h historical cron lag.
 3. L2 (llm-citations) refreshed but flat (76/84 not cited, unchanged for 3 weeks) — if next week's run shows the same number, consider whether the gap-fill `ai-fix` issues filed so far are actually the right pattern or need a different approach.
 4. #4440 (infra dispatcher-exclusion) and human-founder blockers (#875/#529/#526/#525) unchanged — no re-spam.
+
+---
 
 ---
 
@@ -2016,12 +1484,16 @@ Metrics refreshed 12:47 UTC (393 users/425 sessions/629 views 7d; GSC 5,378 impr
 
 ---
 
+---
+
 ## 2026-07-13 13:41 (state-confirm — anti-noise hold)
 - Backlog: 3 ai-fix (all opened 11:08-12:51 UTC, none stuck) · 0 PRs open · proposals untriaged: 0 (all fresh promoted at 12:52; umbrella trackers #2211/#3810/#3819 correctly held)
 - Org / Sessions / Views (7d): 395 / 427 / 632 · GSC: 5,378 impr / 142 clicks / 2.64% CTR / pos 8.8 — unchanged since 12:52
 - Blockers unchanged: #875/#529/#526/#525 human-founder · #4440 infra · no re-spam
 - Actions: none — hold continues (0 fresh seo-proposals, 0 founder ideas, GSC content-gap row already covered by #4551)
 - Next check: 19:00 UTC evening run — review whether #4551/#4552/#4559 shipped
+
+---
 
 ---
 
@@ -2050,12 +1522,16 @@ Metrics refreshed 12:47 UTC (393 users/425 sessions/629 views 7d; GSC 5,378 impr
 
 ---
 
+---
+
 ## 2026-07-13 20:25 (state-confirm — anti-noise hold)
 - Backlog: 0 ai-fix · 0 PRs open · proposals untriaged: 0 (only 3 standing L1/L2/L3 umbrella trackers: #2211/#3810/#3819)
 - Org/Sessions/Views (7d): 403/436/647 · GSC 5,378 impr/142 clicks/2.64% CTR/pos 8.8 — flat since 12:52; content-gap row (`mike portnoy drum set`) already closed via #4551
 - Independently re-verified the 12:52 L1/L3 triage (navene-koperweis 26-URL duplicate cluster, dance-of-death-drum-setup 404, Shannon Larkin regression) — reached identical conclusions (stale index data, already fixed live, or correctly held) — no new ai-fix warranted
 - Actions: none — hold continues since 19:29 (#4571 shipped meanwhile); checked backlog.md/ceo-ideas.md for revivable ideas, both stale (Feb/Mar 2026, superseded or blocked on Ricardo affiliate registration — no re-spam)
 - Next check: next L1/L2/L3 refresh due 2026-07-20; watch for fresh seo-proposal or founder idea
+
+---
 
 ---
 
@@ -2089,6 +1565,8 @@ Metrics refreshed 19:29 UTC (402 users/435 sessions/647 views 7d; GSC 5,378 impr
 2. Backlog at 1 — far below the 45 floor; keep promoting liberally as fresh proposals land overnight.
 3. Watch for next L1/L2/L3 snapshot refresh (next Monday cadence) — nothing fresh to triage until then.
 4. #4440 (infra dispatcher-exclusion) and human-founder blockers (#875/#529/#526/#525) unchanged — no re-spam.
+
+---
 
 ---
 
@@ -2141,12 +1619,16 @@ Metrics 21:18 UTC (403 users/436 sessions/647 views 7d; GSC 5,378 impr/142 click
 
 ---
 
+---
+
 ## 2026-07-13 22:20 (state-confirm — anti-noise hold)
 - Backlog: 7 ai-fix (#4573-4579, all opened 20:31-20:33 UTC, none stuck >3 days) · 0 PRs open · proposals untriaged: 0
 - Org / Sessions / Views (7d): 403 / 436 / 647 · GSC: 5,378 impr / 142 clicks / 2.64% CTR / pos 8.8 — flat since 12:52
 - Blockers unchanged: #875/#529/#526/#525 human-founder (0 new comments) — no re-spam. #4440 confirmed CLOSED, dropped from watch list.
 - Actions: none — hold continues (0 fresh seo-proposals, 0 founder ideas, L1/L2/L3 all triaged this morning, next refresh 2026-07-20)
 - Next check: watch Roadie pick up #4573-4579; next material update expected once those merge or a new seo-proposal lands
+
+---
 
 ---
 
@@ -2176,6 +1658,8 @@ Metrics 21:18 UTC (403 users/436 sessions/647 views 7d; GSC 5,378 impr/142 click
 
 ---
 
+---
+
 ## 2026-07-14 07:0X (state-confirm — anti-noise hold)
 - Backlog: 2 ai-fix (#4597, #4598, both filed 05:09 UTC and auto-labeled `ai-fix` 05:47 UTC before this run started — grep-verified in body, not stuck) · 0 PRs open · proposals untriaged: 0 (only umbrella trackers #2211/#3810/#3819 open)
 - Org / Sessions / Views (7d): 400 / 427 / 627 · GSC: 5,569 impr / 134 clicks / 2.41% CTR / pos 9.1 — `mike portnoy drum set` content-gap row (64 impr, 1.56% CTR) recurring but already fixed via #4551 (closed), GSC lag hasn't reflected it yet — no re-file
@@ -2194,6 +1678,8 @@ Metrics 21:18 UTC (403 users/436 sessions/647 views 7d; GSC 5,378 impr/142 click
 
 ---
 
+---
+
 ## 2026-07-14 09:34 (state-confirm — anti-noise hold)
 - Backlog: 1 ai-fix (#4605, filed+auto-promoted 08:46 UTC, fresh — L2 pattern replication for George Kollias/Tomas Haake, no competitor even winning those queries) · 0 PRs open · proposals untriaged: 0 (only umbrella trackers #2211/#3810/#3819 open)
 - Org / Sessions / Views (7d): 407 / 434 / 645 · GSC: 5,569 impr / 134 clicks / 2.41% CTR / pos 9.1 — `mike portnoy drum set` content-gap row (64 impr, 1.56%) recurring but already double-addressed (#4551 prose, #4593 FAQ-depth merged 04:12) — GSC lag, no re-file
@@ -2201,6 +1687,8 @@ Metrics 21:18 UTC (403 users/436 sessions/647 views 7d; GSC 5,378 impr/142 click
 - Blockers unchanged: #875/#529/#526/#525 human-founder (0 new comments) — no re-spam. L1/L2/L3 snapshots still dated 2026-07-13, next refresh 2026-07-20
 - Actions: none — hold continues (0 fresh seo-proposals to triage, 0 founder ideas, backlog fresh/not stuck, far below 45 floor but nothing eligible to promote)
 - Next check: 13:00 UTC mid-day pulse — watch #4605 dispatch and clear
+
+---
 
 ---
 
@@ -2246,6 +1734,8 @@ Metrics 17:26 UTC (413 users/440 sessions/652 views 7d; GSC 5,569 impr/134 click
 
 ---
 
+---
+
 ## 2026-07-14 18:21 (state-confirm — anti-noise hold)
 - Backlog: 0 ai-fix · 0 PRs open · proposals untriaged: 0 (only umbrella trackers #2211/#3810/#3819 open)
 - Org / Sessions / Views (7d): 413 / 440 / 652 · GSC: 5,569 impr / 134 clicks / 2.41% CTR / pos 9.1 — flat since 09:34; content-gap row `mike portnoy drum set` already double-addressed (#4551/#4593)
@@ -2261,12 +1751,16 @@ Metrics 17:26 UTC (413 users/440 sessions/652 views 7d; GSC 5,569 impr/134 click
 
 ---
 
+---
+
 ## 2026-07-14 20:24 (state-confirm — anti-noise hold)
 - Backlog: 0 ai-fix · 0 PRs open · proposals untriaged: 0 (only umbrella trackers #2211/#3810/#3819 open)
 - Org / Sessions / Views (7d): 415 / 442 / 654 · GSC unchanged since 09:34 (5,569 impr / 134 clicks / 2.41% CTR / pos 9.1); content-gap row `mike portnoy drum set` already double-addressed (#4551/#4593)
 - Since 18:21: #4624/#4625 confirmed merged 17:45-47; #4628 (llms techniques-table drift, self-filed 18:26) shipped 19:34 — backlog cleared back to 0
 - Actions: none — hold continues (0 fresh seo-proposals, 0 founder ideas, L1/L2/L3 next refresh 2026-07-20)
 - Next check: 2026-07-15 07:00 UTC deep run
+
+---
 
 ---
 
@@ -2292,6 +1786,8 @@ Metrics 17:26 UTC (413 users/440 sessions/652 views 7d; GSC 5,569 impr/134 click
 
 ---
 
+---
+
 ## 2026-07-15 13:00 (state-confirm — anti-noise hold)
 - Backlog: 2 ai-fix (#4648, #4649, both filed 05:08 UTC — companion pair on the same `/llms/articles/*.md` drift: #4648 regenerates 24 files missing from disk, #4649 wires 16 existing-but-unsitemapped files into sitemap.js; verified no overlap) · 0 PRs open · proposals untriaged: 0 (only umbrella trackers #2211/#3810/#3819, unchanged since 07-13)
 - Org / Sessions / Views (7d): 403 / 429 / 587 · GSC: 4,730 impr / 109 clicks / 2.30% CTR / pos 9.2 — unchanged from 07:00 (GSC lag), no content-gap rows this week
@@ -2308,6 +1804,8 @@ Metrics 17:26 UTC (413 users/440 sessions/652 views 7d; GSC 5,569 impr/134 click
 
 ---
 
+---
+
 ## 2026-07-15 19:00 (state-confirm — anti-noise hold)
 - Backlog: 0 ai-fix · 0 PRs open · proposals untriaged: 0 (only umbrella trackers #2211/#3810/#3819, unchanged since 07-13)
 - Org / Sessions / Views (7d): 406 / 432 / 590 · GSC: 5,729 impr / 128 clicks / 2.23% CTR / pos 9.3 — content-gap rows `joey jordison drum set` (52 impr, 1.92% CTR) + `mike portnoy drum set` (51 impr, 1.96% CTR) both already double-addressed (joey-jordison: #4559 indexation fix + learned-patterns self-heal watch; mike-portnoy: #4551/#4593), GSC lag — no re-file
@@ -2315,6 +1813,8 @@ Metrics 17:26 UTC (413 users/440 sessions/652 views 7d; GSC 5,569 impr/134 click
 - Blockers unchanged: #875/#529/#526/#525 human-founder (0 new comments) — no re-spam
 - Actions: none — hold continues (0 fresh seo-proposals, 0 founder ideas, backlog empty but nothing eligible to promote — L1/L2/L3 next refresh 2026-07-20)
 - Next check: 2026-07-16 07:00 UTC deep run
+
+---
 
 ---
 
@@ -2357,6 +1857,8 @@ Metrics 09:36 UTC (408 users/433 sessions/594 views 7d; GSC 5,729 impr/128 click
 
 ---
 
+---
+
 ## 2026-07-15 11:32 — Mid-cycle pulse: 3 fresh proposals promoted, backlog refilled 0→3
 
 ### Context (≤3 lines)
@@ -2381,6 +1883,8 @@ Metrics 11:30 UTC (408 users/433 sessions/594 views 7d; GSC 5,729 impr/128 click
 2. Watch #4663-4665 ship; #4665 in particular closes a real voice-search/AI-Overview eligibility gap on the site's highest-traffic page type.
 3. Watch for next L1/L2/L3 snapshot refresh (2026-07-20) — nothing fresh until then.
 4. #875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
 
 ---
 
@@ -2426,12 +1930,16 @@ Metrics 15:29 UTC (414 users/439 sessions/599 views 7d; GSC 5,729 impr/128 click
 
 ---
 
+---
+
 ## 2026-07-15 16:30 (state-confirm — anti-noise hold)
 - Backlog: 0 ai-fix · 0 PRs open · proposals untriaged: 0 (only umbrella trackers #2211/#3810/#3819, unchanged since 07-13/06-23)
 - Org / Sessions / Views (7d): 414/440/601 · GSC: 5,729 impr / 128 clicks / 2.23% CTR / pos 9.3 — flat since 15:30; content-gap rows `joey jordison drum set`/`mike portnoy drum set` already double-addressed, no re-file
 - Since 15:30: all 7 promoted batch issues (#4671-4677) shipped and closed 15:48-15:53 UTC — queue drained clean, no stragglers
 - Actions: none — hold continues (0 fresh seo-proposals, 0 founder ideas, L1/L2/L3 next refresh 2026-07-20)
 - Next check: 19:00 UTC evening run
+
+---
 
 ---
 
@@ -2469,12 +1977,16 @@ Metrics 17:28 UTC (416 users/441 sessions/604 views 7d; GSC 5,729 impr/128 click
 
 ---
 
+---
+
 ## 2026-07-15 19:30 (state-confirm — anti-noise hold)
 - Backlog: 0 ai-fix · 0 PRs open · proposals untriaged: 0 (only umbrella trackers #2211/#3810/#3819, unchanged since 07-06/06-23)
 - Org / Sessions / Views (7d): 416 / 441 / 604 · GSC: 5,729 impr / 128 clicks / 2.23% CTR / pos 9.3 — flat since 17:30
 - Blockers unchanged: #875/#529/#526/#525 human-founder (0 new comments) — no re-spam
 - Actions: none — hold continues (#4687 shipped as expected, commit 1d17c137; 0 fresh seo-proposals, 0 founder ideas, L1/L2/L3 next refresh 2026-07-20)
 - Next check: 2026-07-16 07:00 UTC deep run
+
+---
 
 ---
 
@@ -2489,6 +2001,8 @@ Metrics 17:28 UTC (416 users/441 sessions/604 views 7d; GSC 5,729 impr/128 click
 - Blockers unchanged: #875/#529/#526/#525 human-founder (0 new comments) — no re-spam
 - Actions: none — hold continues (0 fresh seo-proposals, 0 founder ideas, GSC content-gap rows already double-addressed, L1/L2/L3 next refresh 2026-07-20)
 - Next check: 2026-07-16 07:00 UTC deep run
+
+---
 
 ---
 
@@ -2529,6 +2043,8 @@ Metrics 21:19 UTC (424 users/449 sessions/610 views 7d; GSC 5,729 impr/128 click
 
 ---
 
+---
+
 ## 2026-07-15 23:19 — Mid-cycle pulse: 5 fresh proposals promoted, backlog 6→11
 
 ### Context (≤3 lines)
@@ -2553,6 +2069,8 @@ Metrics 23:19 UTC (428 users/454 sessions/615 views 7d; GSC 5,729 impr/128 click
 2. Watch #4704 ship before #4705 removes any slug #4704 already added (per #4705's own quality gate) — sequencing matters here.
 3. Watch for next L1/L2/L3 snapshot refresh (2026-07-20) — nothing fresh until then.
 4. #875/#529/#526/#525 human-founder blockers unchanged (0 comments) — no re-spam.
+
+---
 
 ---
 
@@ -2592,6 +2110,8 @@ Metrics 06:46 UTC (417 users/441 sessions/593 views 7d; GSC 5,882 impr/115 click
 
 ---
 
+---
+
 ## 2026-07-16 22:20 — Pulse: 2 fresh proposals promoted (studies FAQPage gap, jon-dette sameAs)
 
 ### Context (≤3 lines)
@@ -2616,6 +2136,8 @@ Metrics 22:20 UTC (436 users/463 sessions/626 views 7d; GSC 5,882 impr/115 click
 2. Watch #4789/#4790 ship.
 3. Watch for next L1/L2/L3 snapshot refresh (2026-07-20).
 4. #875/#529/#526/#525 human-founder blockers unchanged (0 comments) — no re-spam.
+
+---
 
 ---
 
@@ -2651,6 +2173,8 @@ Metrics 01:33 UTC (411 users/435 sessions/585 views 7d; GSC 4,946 impr/88 clicks
 
 ---
 
+---
+
 ## 2026-07-17 05:01 — Pulse: 4 fresh proposals promoted (schema completeness batch)
 
 ### Context (≤3 lines)
@@ -2681,6 +2205,8 @@ Metrics 05:01 UTC (414 users/438 sessions/585 views 7d; GSC 4,946 impr/88 clicks
 
 ---
 
+---
+
 ## 2026-07-17 06:46 — Pulse: 2 fresh proposals promoted (hub BreadcrumbList + FAQPage batch), backlog low — flagging for deep run
 
 ### Context (≤3 lines)
@@ -2705,6 +2231,8 @@ Metrics 06:44 UTC (414 users/438 sessions/586 views 7d; GSC 5,953 impr/115 click
 2. Watch #4809/#4810 ship alongside the phased epics already in flight (#4756/#4760-4762/#4766, all <1 day old).
 3. Watch for next L1/L2/L3 snapshot refresh (2026-07-20).
 4. #875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
 
 ---
 
@@ -2743,6 +2271,8 @@ Metrics 07:38 UTC (414 users/439 sessions/586 views 7d; GSC 5,953 impr/115 click
 
 ---
 
+---
+
 ## 2026-07-17 08:42 (state-confirm — anti-noise hold)
 - Backlog: 9 ai-fix · 0 PRs open · proposals untriaged: 0 (bank shows 6 seo-proposal-labeled but 3 are already-promoted #4810/#4816/#4817, 3 are standing L1/L2/L3 umbrellas)
 - Org/Sessions/Views (7d): 414/439/592 · GSC 5,953 impr/115 clicks/1.93% CTR/pos 10.7 (unchanged from 07:38 deep run)
@@ -2752,12 +2282,16 @@ Metrics 07:38 UTC (414 users/439 sessions/586 views 7d; GSC 5,953 impr/115 click
 
 ---
 
+---
+
 ## 2026-07-17 10:32 (state-confirm — anti-noise hold)
 - Backlog: 6 ai-fix (bands #4756, songs #4760/4761/4762, roster-exp #4748, schema #4821) · 0 PRs open · proposals untriaged: 0 (#4821 self-labeled ai-fix on filing; only umbrellas #3810/#3819/#2211 remain seo-proposal-only)
 - Org/Sessions/Views (7d): 415/440/594 · GSC 5,953 impr/115 clicks/1.93% CTR/pos 10.7 (unchanged)
 - Blockers unchanged: #875/#529/#526/#525 (0 comments each) · no re-spam
 - Actions: none — studies epic (#4763) fully closed 09:20 UTC (final phase #4766 merged), the exact trigger flagged at 07:38 to re-check starvation. Backlog thinned 9→6 but bands+songs epics still carry 4 queued phases, so holding rather than forcing new surface on a cheap pulse.
 - Next check: mid-day pulse (~13:00 UTC) — if backlog still <15 and bank still empty by then, run starvation-playbook step 2 (roster/theme-hub/format-replication) for real
+
+---
 
 ---
 
@@ -2786,6 +2320,8 @@ Metrics 17:24 UTC (422 users/447 sessions/735 views 7d; GSC 5,953 impr/115 click
 
 ---
 
+---
+
 ## 2026-07-17 22:15 (state-confirm — anti-noise hold)
 - Backlog: 6 ai-fix (#4842/#4841/#4839/#4833 Speakable-sweep batches, #4756 bands phase 3/4, #4748 roster-exp) · 0 PRs open · proposals untriaged: 0 (only standing umbrellas #3810/#3819/#2211 remain seo-proposal-only)
 - Org/Sessions/Views (7d): 425/451/749 · GSC 5,953 impr/115 clicks/1.93% CTR/pos 10.7 (unchanged)
@@ -2795,6 +2331,7 @@ Metrics 17:24 UTC (422 users/447 sessions/735 views 7d; GSC 5,953 impr/115 click
 
 ---
 
+---
 
 ## 2026-07-18 01:32 — Cheap pulse: 3 fresh proposals promoted (birthPlace/image, Article author, technique-drummers jobTitle+description)
 
@@ -2823,12 +2360,16 @@ Metrics 01:32 UTC (405 users/428 sessions/703 views 7d; GSC 5,019 impr/102 click
 
 ---
 
+---
+
 ## 2026-07-18 03:00 (state-confirm — anti-noise hold)
 - Backlog: 6 ai-fix (#4748 roster-exp, #4756 bands phase 3/4, #4863/#4864/#4865/#4866 Speakable/schema batches) · 0 PRs open · proposals untriaged: 0 (only standing umbrellas #3810/#3819/#2211 remain seo-proposal-only)
 - Org/Sessions/Views (7d): 406/428/704 · GSC 5,019 impr/102 clicks/2.03% CTR/pos 11.1 (unchanged) · content-gap row `danny carey drum set` unchanged, no re-file
 - Blockers unchanged: #875/#529/#526/#525 (0 comments each) · no re-spam
 - Actions: none — #4867/#4868/#4869 (sitemap diet, L3 rotation+proxy, L2/L3 docs) merged 01:14-02:17 UTC but were already in-progress before the 01:32 entry, not part of the eligible-backlog count; oldest open ai-fix (#4748) at ~42h, below 3-day split threshold; backlog thin but SEO Agent has self-refilled twice in the last 12h without CEO action, holding rather than forcing starvation-playbook step 2 again so soon after 17:24
 - Next check: mid-day pulse (~13:00 UTC) or sooner if backlog drops with no fresh supply
+
+---
 
 ---
 
@@ -2840,3 +2381,6 @@ Metrics 01:32 UTC (405 users/428 sessions/703 views 7d; GSC 5,019 impr/102 click
 - Next check: this is the daily deep run once we cross 07:00 UTC — full metrics/GSC-gap/L1-L2-L3 pass then, including a real starvation-playbook check (backlog trending 6→5)
 
 ---
+
+---
+

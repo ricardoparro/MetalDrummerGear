@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-19 05:02 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-19 06:49 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 425 |
-| Sessions | 442 |
-| Page views | 655 |
-| Engagement rate | 26.70% |
-| Avg session (s) | 151 |
+| Active users | 428 |
+| Sessions | 446 |
+| Page views | 657 |
+| Engagement rate | 26.46% |
+| Avg session (s) | 150 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -32,35 +32,35 @@
 | Channel | Sessions | Users |
 | --- | --- | --- |
 | Direct | 284 | 280 |
-| Organic Search | 154 | 142 |
-| Unassigned | 28 | 23 |
+| Organic Search | 156 | 143 |
+| Unassigned | 31 | 26 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 4,981 |
-| Clicks | 97 |
-| CTR | 1.95% |
-| Avg position | 11.1 |
+| Impressions | 5,908 |
+| Clicks | 118 |
+| CTR | 2.00% |
+| Avg position | 11.0 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
+| jay weinberg cymbals | 5 | 2 | 40.00% | 7.6 |
 | abe cunningham cymbals | 3 | 1 | 33.33% | 8.7 |
+| best death metal drummers of all time | 3 | 1 | 33.33% | 6.3 |
 | best heavy metal drummers of all time | 2 | 1 | 50.00% | 9.0 |
-| bill ward drum kit | 14 | 1 | 7.14% | 9.2 |
+| bill ward drum kit | 17 | 1 | 5.88% | 8.9 |
 | bill ward drum setup | 8 | 1 | 12.50% | 10.6 |
 | charlie benante drum setup | 5 | 1 | 20.00% | 7.6 |
-| danny carey drum set | 72 | 1 | 1.39% | 10.7 |
+| danny carey drum set | 77 | 1 | 1.30% | 10.7 |
 | inferno drum kit | 3 | 1 | 33.33% | 8.3 |
-| joey jordison drum set | 35 | 1 | 2.86% | 11.6 |
-| matt greiner cymbal setup | 5 | 1 | 20.00% | 8.6 |
-| matt greiner drum setup | 13 | 1 | 7.69% | 7.8 |
+| jaska raatikainen drum set | 2 | 1 | 50.00% | 8.0 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 | Query | Impr | CTR | Pos | Action |
 | --- | --- | --- | --- | --- |
-| danny carey drum set | 72 | 1.39% | 10.7 | open issue to answer better |
+| danny carey drum set | 77 | 1.30% | 10.7 | open issue to answer better |
 
 ---
 *Re-run manually: `node .agents/scripts/fetch-metrics.cjs`*

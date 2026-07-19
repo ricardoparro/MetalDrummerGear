@@ -5,6 +5,33 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-07-19 00:22 UTC*
 
 ---
+## 2026-07-19 03:01 — Cheap pulse: starvation trigger met but root-caused to the known capacity outage (#4892), held rather than forced new surface
+
+### Context (≤3 lines)
+Metrics 03:01 UTC (424 users/441 sessions/654 views 7d; GSC 4,981 impr/97 clicks/1.95% CTR/pos 11.1 — content-gap row `danny carey drum set` 72 impr/1.39% CTR/pos 10.7, same recurring row already actioned in prior runs, no re-file). Eligible `ai-fix` backlog is critically thin at **2** (#4748 roster-expansion, #4756 bands phase 3/4, both ~66h old) and untriaged `seo-proposal` bank is **0** (only the 3 standing L1/L2/L3 umbrellas) — the starvation trigger (backlog<15 AND bank≤2) is met.
+
+### Actions taken
+- **Step 1 of the starvation playbook (check SEO Agent output rate) before doing its job for it:** `seo-agent.yml` failed 7 of its last 8 runs (12:16→00:24 UTC) with the identical signature already diagnosed in #4892 — primary `You've hit your session limit`, backup `You've hit your weekly limit · resets Jul 23`. The one run that got a window (22:15 UTC) **did** file 2 fresh, well-scoped proposals (#4893/#4894) — both promoted and merged within the hour (#4905/#4911). This confirms the Agent itself is healthy and not underperforming on a prompt/quota level; the backlog thinness is 100% the capacity outage already escalated in #4892, not an idea drought.
+- Per the precedent set 2026-07-18 21:16 (same root cause, judged "no action needed beyond what #4892 already covers"), did **not** file a duplicate human-founder issue and did **not** force Queue-Starvation Playbook step 2 (new surface) — the anti-pattern warning is about manufacturing work when the well is dry; here the well (SEO Agent + 2 substantial queued epics) is fine, only the tap (Claude capacity) is throttled. Forcing a 3rd backlog item wouldn't get consumed any faster than #4748/#4756 while Roadie is capacity-gated too.
+- Confirmed PR merger did recover overnight regardless (5 PRs merged 23:26-23:29 UTC via a primary-token reset window), consistent with the self-healing pattern #4892 predicted, just with the backup still dead until 07-23.
+- Founder ideas: inbox empty. Atomic-split: #4748/#4756 at ~66h, still short of the 72h threshold (crosses ~08:50-09:06 UTC today) — not yet actionable, flagging for the imminent 07:00 deep run. Human-founder blockers #875/#529/#526/#525/#4892 — 0 new comments on any, no re-spam.
+
+### State delta
+- ai-fix backlog: unchanged at 2 (no promotions — nothing untriaged to promote)
+- Org/Sessions/Views (7d): 424/441/654 · GSC 4,981/97/1.95%/11.1 (softer than 21:16 snapshot — 7-day window rollover, not investigated further)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: none untriaged. ✅ GSC-gap: unchanged row re-checked, no re-file. ✅ Starvation check: triggered, root-caused to the already-escalated capacity outage (not a fresh SEO-Agent or idea-supply problem), correctly held rather than manufacturing work. ✅ Atomic split: #4748/#4756 not yet past 72h, watching. ✅ Decisions logged.
+
+### Next Run
+1. **The 07:00 UTC deep run should re-check #4748/#4756 against the 72h atomic-split threshold** (crosses ~08:50-09:06 UTC) — split if still open/undispatched then.
+2. **If backlog is still ≤2 AND Roadie has regained capacity (PRs merging normally) by the next run, treat that as genuine starvation and run playbook step 2 for real** — the capacity excuse only covers thinness caused by an idle Roadie, not thinness with a healthy fleet.
+3. Backup token dead until 2026-07-23 10:00 UTC per #4892 — no further action needed from Ricardo, just watch for recurrence.
+4. #875/#529/#526/#525/#4892 human-founder blockers unchanged — no re-spam.
+
+---
+
+---
 ## 2026-07-18 21:16 — Cheap pulse: root-caused the 17h zero-merge gap — backup Claude subscription hit a WEEKLY limit, filed human-founder capacity alert (#4892)
 
 ### Context (≤3 lines)

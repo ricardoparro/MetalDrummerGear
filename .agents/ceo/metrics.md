@@ -38,29 +38,29 @@
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 4,989 |
-| Clicks | 102 |
-| CTR | 2.04% |
-| Avg position | 11.1 |
+| Impressions | 5,987 |
+| Clicks | 127 |
+| CTR | 2.12% |
+| Avg position | 10.8 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| jay weinberg cymbals | 4 | 2 | 50.00% | 6.5 |
+| jay weinberg cymbals | 7 | 2 | 28.57% | 10.3 |
 | abe cunningham cymbals | 3 | 1 | 33.33% | 8.7 |
-| best death metal drummers of all time | 2 | 1 | 50.00% | 5.0 |
-| bill ward drum kit | 15 | 1 | 6.67% | 9.1 |
-| bill ward drum setup | 6 | 1 | 16.67% | 12.3 |
+| best death metal drummers of all time | 3 | 1 | 33.33% | 4.3 |
+| bill ward drum kit | 19 | 1 | 5.26% | 8.8 |
+| bill ward drum setup | 9 | 1 | 11.11% | 11.2 |
 | charlie benante drum setup | 5 | 1 | 20.00% | 7.6 |
-| danny carey drum set | 67 | 1 | 1.49% | 10.6 |
+| danny carey drum set | 70 | 1 | 1.43% | 10.5 |
 | inferno drum kit | 3 | 1 | 33.33% | 8.3 |
-| jaska raatikainen drum set | 2 | 1 | 50.00% | 8.0 |
+| jaska raatikainen drum set | 4 | 1 | 25.00% | 6.3 |
 | matt greiner cymbal setup | 2 | 1 | 50.00% | 9.0 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 | Query | Impr | CTR | Pos | Action |
 | --- | --- | --- | --- | --- |
-| danny carey drum set | 67 | 1.49% | 10.6 | open issue to answer better |
+| danny carey drum set | 70 | 1.43% | 10.5 | open issue to answer better |
 
 ---
 *Re-run manually: `node .agents/scripts/fetch-metrics.cjs`*

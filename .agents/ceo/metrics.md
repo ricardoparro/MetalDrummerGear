@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-20 03:01 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-20 03:33 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -10,7 +10,7 @@
 | --- | --- |
 | Active users | 275 |
 | Sessions | 302 |
-| Page views | 503 |
+| Page views | 504 |
 | Engagement rate | 34.11% |
 | Avg session (s) | 215 |
 
@@ -24,14 +24,14 @@
 | /drummer/dave-lombardo | 13 | 1 |
 | /cymbals | 12 | 12 |
 | /drumsticks | 12 | 12 |
-| /drummer/danny-carey | 9 | 9 |
+| /drummer/danny-carey | 10 | 9 |
 | /lists/fastest-metal-drummers | 9 | 9 |
 | /drummer/jaska-raatikainen/bio | 8 | 1 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 162 | 140 |
+| Organic Search | 163 | 141 |
 | Direct | 137 | 133 |
 | Unassigned | 23 | 20 |
 

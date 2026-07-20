@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-19 23:18 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-20 00:24 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,59 +8,59 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 442 |
-| Sessions | 471 |
-| Page views | 688 |
-| Engagement rate | 29.72% |
-| Avg session (s) | 143 |
+| Active users | 270 |
+| Sessions | 297 |
+| Page views | 498 |
+| Engagement rate | 34.68% |
+| Avg session (s) | 213 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 114 | 86 |
-| /drummer/lars-ulrich | 51 | 42 |
-| /cymbals | 34 | 34 |
-| /drumsticks | 34 | 34 |
-| /lists/fastest-metal-drummers | 23 | 23 |
-| /articles/master-of-puppets-drum-setup | 21 | 21 |
+| / | 67 | 45 |
+| /drummer/lars-ulrich | 28 | 19 |
+| /articles/master-of-puppets-drum-setup | 15 | 15 |
 | /tools | 15 | 1 |
 | /drummer/dave-lombardo | 13 | 1 |
+| /cymbals | 12 | 12 |
+| /drumsticks | 12 | 12 |
 | /drummer/danny-carey | 9 | 8 |
+| /lists/fastest-metal-drummers | 9 | 9 |
 | /drummer/jaska-raatikainen/bio | 8 | 1 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Direct | 286 | 281 |
-| Organic Search | 183 | 161 |
+| Organic Search | 159 | 137 |
+| Direct | 137 | 133 |
 | Unassigned | 19 | 16 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 5,908 |
-| Clicks | 118 |
-| CTR | 2.00% |
-| Avg position | 11.0 |
+| Impressions | 4,989 |
+| Clicks | 102 |
+| CTR | 2.04% |
+| Avg position | 11.1 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| jay weinberg cymbals | 5 | 2 | 40.00% | 7.6 |
+| jay weinberg cymbals | 4 | 2 | 50.00% | 6.5 |
 | abe cunningham cymbals | 3 | 1 | 33.33% | 8.7 |
-| best death metal drummers of all time | 3 | 1 | 33.33% | 6.3 |
-| best heavy metal drummers of all time | 2 | 1 | 50.00% | 9.0 |
-| bill ward drum kit | 17 | 1 | 5.88% | 8.9 |
-| bill ward drum setup | 8 | 1 | 12.50% | 10.6 |
+| best death metal drummers of all time | 2 | 1 | 50.00% | 5.0 |
+| bill ward drum kit | 15 | 1 | 6.67% | 9.1 |
+| bill ward drum setup | 6 | 1 | 16.67% | 12.3 |
 | charlie benante drum setup | 5 | 1 | 20.00% | 7.6 |
-| danny carey drum set | 77 | 1 | 1.30% | 10.7 |
+| danny carey drum set | 67 | 1 | 1.49% | 10.6 |
 | inferno drum kit | 3 | 1 | 33.33% | 8.3 |
 | jaska raatikainen drum set | 2 | 1 | 50.00% | 8.0 |
+| matt greiner cymbal setup | 2 | 1 | 50.00% | 9.0 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 | Query | Impr | CTR | Pos | Action |
 | --- | --- | --- | --- | --- |
-| danny carey drum set | 77 | 1.30% | 10.7 | open issue to answer better |
+| danny carey drum set | 67 | 1.49% | 10.6 | open issue to answer better |
 
 ---
 *Re-run manually: `node .agents/scripts/fetch-metrics.cjs`*

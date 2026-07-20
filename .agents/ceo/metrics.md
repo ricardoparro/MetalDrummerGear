@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-20 14:43 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-20 15:35 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -9,9 +9,9 @@
 | Metric | Last 7d |
 | --- | --- |
 | Active users | 292 |
-| Sessions | 322 |
-| Page views | 523 |
-| Engagement rate | 32.30% |
+| Sessions | 323 |
+| Page views | 528 |
+| Engagement rate | 32.20% |
 | Avg session (s) | 208 |
 
 ### Top pages (by page views, last 7d)
@@ -25,13 +25,13 @@
 | /cymbals | 12 | 12 |
 | /drumsticks | 12 | 12 |
 | /drummer/danny-carey | 10 | 9 |
-| /drummer/jaska-raatikainen/bio | 9 | 1 |
+| /drummer/jaska-raatikainen/bio | 10 | 1 |
 | /lists/fastest-metal-drummers | 9 | 9 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 175 | 151 |
+| Organic Search | 177 | 151 |
 | Direct | 142 | 138 |
 | Unassigned | 37 | 33 |
 

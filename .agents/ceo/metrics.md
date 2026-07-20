@@ -33,7 +33,7 @@
 | --- | --- | --- |
 | Organic Search | 169 | 145 |
 | Direct | 137 | 133 |
-| Unassigned | 29 | 25 |
+| Unassigned | 30 | 26 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |

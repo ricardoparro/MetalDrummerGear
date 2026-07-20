@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-20 05:12 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-20 07:00 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 275 |
-| Sessions | 304 |
-| Page views | 507 |
-| Engagement rate | 33.88% |
-| Avg session (s) | 214 |
+| Active users | 278 |
+| Sessions | 307 |
+| Page views | 510 |
+| Engagement rate | 33.55% |
+| Avg session (s) | 213 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -31,36 +31,36 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 165 | 141 |
+| Organic Search | 168 | 144 |
 | Direct | 137 | 133 |
-| Unassigned | 24 | 20 |
+| Unassigned | 27 | 23 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 5,987 |
-| Clicks | 127 |
-| CTR | 2.12% |
-| Avg position | 10.8 |
+| Impressions | 4,989 |
+| Clicks | 102 |
+| CTR | 2.04% |
+| Avg position | 11.1 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| jay weinberg cymbals | 7 | 2 | 28.57% | 10.3 |
+| jay weinberg cymbals | 4 | 2 | 50.00% | 6.5 |
 | abe cunningham cymbals | 3 | 1 | 33.33% | 8.7 |
-| best death metal drummers of all time | 3 | 1 | 33.33% | 4.3 |
-| bill ward drum kit | 19 | 1 | 5.26% | 8.8 |
-| bill ward drum setup | 9 | 1 | 11.11% | 11.2 |
+| best death metal drummers of all time | 2 | 1 | 50.00% | 5.0 |
+| bill ward drum kit | 15 | 1 | 6.67% | 9.1 |
+| bill ward drum setup | 6 | 1 | 16.67% | 12.3 |
 | charlie benante drum setup | 5 | 1 | 20.00% | 7.6 |
-| danny carey drum set | 70 | 1 | 1.43% | 10.5 |
+| danny carey drum set | 67 | 1 | 1.49% | 10.6 |
 | inferno drum kit | 3 | 1 | 33.33% | 8.3 |
-| jaska raatikainen drum set | 4 | 1 | 25.00% | 6.3 |
+| jaska raatikainen drum set | 2 | 1 | 50.00% | 8.0 |
 | matt greiner cymbal setup | 2 | 1 | 50.00% | 9.0 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 | Query | Impr | CTR | Pos | Action |
 | --- | --- | --- | --- | --- |
-| danny carey drum set | 70 | 1.43% | 10.5 | open issue to answer better |
+| danny carey drum set | 67 | 1.49% | 10.6 | open issue to answer better |
 
 ---
 *Re-run manually: `node .agents/scripts/fetch-metrics.cjs`*

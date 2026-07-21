@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-21 10:42 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-21 11:34 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,16 +8,16 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 222 |
-| Sessions | 254 |
-| Page views | 475 |
-| Engagement rate | 50.39% |
-| Avg session (s) | 295 |
+| Active users | 224 |
+| Sessions | 256 |
+| Page views | 477 |
+| Engagement rate | 50.00% |
+| Avg session (s) | 293 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 40 | 25 |
+| / | 42 | 26 |
 | /drummer/lars-ulrich | 19 | 9 |
 | /tools | 18 | 2 |
 | /drummer/dave-lombardo | 13 | 1 |
@@ -32,8 +32,8 @@
 | Channel | Sessions | Users |
 | --- | --- | --- |
 | Organic Search | 188 | 158 |
-| Direct | 63 | 61 |
-| Unassigned | 13 | 13 |
+| Direct | 65 | 63 |
+| Unassigned | 14 | 14 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |

@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-20 23:20 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-21 00:23 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,51 +8,51 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 303 |
-| Sessions | 336 |
-| Page views | 544 |
-| Engagement rate | 36.31% |
-| Avg session (s) | 202 |
+| Active users | 208 |
+| Sessions | 237 |
+| Page views | 435 |
+| Engagement rate | 43.04% |
+| Avg session (s) | 280 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 68 | 47 |
-| /drummer/lars-ulrich | 28 | 19 |
-| /articles/master-of-puppets-drum-setup | 15 | 15 |
+| / | 40 | 24 |
+| /drummer/lars-ulrich | 17 | 8 |
 | /tools | 15 | 1 |
 | /drummer/dave-lombardo | 13 | 1 |
-| /cymbals | 12 | 12 |
-| /drumsticks | 12 | 12 |
 | /drummer/danny-carey | 10 | 9 |
 | /drummer/jaska-raatikainen/bio | 10 | 1 |
-| /lists/fastest-metal-drummers | 9 | 9 |
+| /articles/master-of-puppets-drum-setup | 9 | 9 |
+| /drummers | 8 | 1 |
+| /drummers/bill-ward/licks | 8 | 1 |
+| /drummers/mike-portnoy/evolution | 8 | 2 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 190 | 161 |
-| Direct | 142 | 138 |
+| Organic Search | 175 | 147 |
+| Direct | 59 | 57 |
 | Unassigned | 27 | 25 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 5,987 |
-| Clicks | 127 |
-| CTR | 2.12% |
-| Avg position | 10.8 |
+| Impressions | 4,988 |
+| Clicks | 108 |
+| CTR | 2.17% |
+| Avg position | 10.9 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| jay weinberg cymbals | 7 | 2 | 28.57% | 10.3 |
+| jay weinberg cymbals | 5 | 2 | 40.00% | 10.8 |
 | abe cunningham cymbals | 3 | 1 | 33.33% | 8.7 |
 | best death metal drummers of all time | 3 | 1 | 33.33% | 4.3 |
-| bill ward drum kit | 19 | 1 | 5.26% | 8.8 |
+| bill ward drum kit | 15 | 1 | 6.67% | 8.5 |
 | bill ward drum setup | 9 | 1 | 11.11% | 11.2 |
-| charlie benante drum setup | 5 | 1 | 20.00% | 7.6 |
-| danny carey drum set | 70 | 1 | 1.43% | 10.5 |
+| charlie benante drum setup | 3 | 1 | 33.33% | 7.0 |
+| danny carey drum set | 59 | 1 | 1.69% | 10.3 |
 | inferno drum kit | 3 | 1 | 33.33% | 8.3 |
 | jaska raatikainen drum set | 4 | 1 | 25.00% | 6.3 |
 | matt greiner cymbal setup | 2 | 1 | 50.00% | 9.0 |
@@ -60,7 +60,7 @@
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 | Query | Impr | CTR | Pos | Action |
 | --- | --- | --- | --- | --- |
-| danny carey drum set | 70 | 1.43% | 10.5 | open issue to answer better |
+| danny carey drum set | 59 | 1.69% | 10.3 | open issue to answer better |
 
 ---
 *Re-run manually: `node .agents/scripts/fetch-metrics.cjs`*

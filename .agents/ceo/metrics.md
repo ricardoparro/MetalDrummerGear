@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-21 05:02 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-21 06:49 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 213 |
-| Sessions | 243 |
-| Page views | 454 |
-| Engagement rate | 41.98% |
-| Avg session (s) | 281 |
+| Active users | 217 |
+| Sessions | 248 |
+| Page views | 458 |
+| Engagement rate | 41.13% |
+| Avg session (s) | 276 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -31,36 +31,36 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 180 | 151 |
-| Direct | 60 | 58 |
-| Unassigned | 32 | 30 |
+| Organic Search | 183 | 153 |
+| Direct | 61 | 59 |
+| Unassigned | 33 | 31 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 4,988 |
-| Clicks | 108 |
-| CTR | 2.17% |
-| Avg position | 10.9 |
+| Impressions | 5,949 |
+| Clicks | 133 |
+| CTR | 2.24% |
+| Avg position | 10.8 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| jay weinberg cymbals | 5 | 2 | 40.00% | 10.8 |
-| abe cunningham cymbals | 3 | 1 | 33.33% | 8.7 |
+| jay weinberg cymbals | 6 | 2 | 33.33% | 10.2 |
+| abe cunningham cymbals | 5 | 1 | 20.00% | 8.4 |
 | best death metal drummers of all time | 3 | 1 | 33.33% | 4.3 |
-| bill ward drum kit | 15 | 1 | 6.67% | 8.5 |
-| bill ward drum setup | 9 | 1 | 11.11% | 11.2 |
+| bill ward drum kit | 19 | 1 | 5.26% | 8.4 |
+| bill ward drum setup | 10 | 1 | 10.00% | 11.1 |
 | charlie benante drum setup | 3 | 1 | 33.33% | 7.0 |
-| danny carey drum set | 59 | 1 | 1.69% | 10.3 |
-| inferno drum kit | 3 | 1 | 33.33% | 8.3 |
-| jaska raatikainen drum set | 4 | 1 | 25.00% | 6.3 |
-| matt greiner cymbal setup | 2 | 1 | 50.00% | 9.0 |
+| danny carey drum kit setup | 2 | 1 | 50.00% | 6.0 |
+| danny carey drum set | 61 | 1 | 1.64% | 10.5 |
+| famous left handed drummers | 5 | 1 | 20.00% | 27.6 |
+| inferno drum kit | 4 | 1 | 25.00% | 7.8 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 | Query | Impr | CTR | Pos | Action |
 | --- | --- | --- | --- | --- |
-| danny carey drum set | 59 | 1.69% | 10.3 | open issue to answer better |
+| danny carey drum set | 61 | 1.64% | 10.5 | open issue to answer better |
 
 ---
 *Re-run manually: `node .agents/scripts/fetch-metrics.cjs`*

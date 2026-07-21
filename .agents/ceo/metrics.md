@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-21 06:49 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-21 07:47 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -9,31 +9,31 @@
 | Metric | Last 7d |
 | --- | --- |
 | Active users | 217 |
-| Sessions | 248 |
-| Page views | 458 |
-| Engagement rate | 41.13% |
-| Avg session (s) | 276 |
+| Sessions | 249 |
+| Page views | 465 |
+| Engagement rate | 40.96% |
+| Avg session (s) | 290 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
 | / | 40 | 24 |
-| /drummer/lars-ulrich | 17 | 8 |
+| /drummer/lars-ulrich | 19 | 9 |
 | /tools | 15 | 1 |
 | /drummer/dave-lombardo | 13 | 1 |
 | /drummer/danny-carey | 10 | 9 |
 | /drummer/jaska-raatikainen/bio | 10 | 1 |
 | /articles/master-of-puppets-drum-setup | 9 | 9 |
+| /drummers/lars-ulrich/evolution | 9 | 2 |
 | /drummers | 8 | 1 |
 | /drummers/bill-ward/licks | 8 | 1 |
-| /drummers/mike-portnoy/evolution | 8 | 2 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 183 | 153 |
+| Organic Search | 184 | 153 |
 | Direct | 61 | 59 |
-| Unassigned | 33 | 31 |
+| Unassigned | 34 | 32 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |

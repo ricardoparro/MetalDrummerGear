@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-22 18:25 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-22 19:29 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 228 |
-| Sessions | 262 |
-| Page views | 572 |
-| Engagement rate | 57.25% |
-| Avg session (s) | 362 |
+| Active users | 230 |
+| Sessions | 264 |
+| Page views | 573 |
+| Engagement rate | 56.82% |
+| Avg session (s) | 361 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -26,14 +26,14 @@
 | /drummer/pete-sandoval | 9 | 1 |
 | /drummers/lars-ulrich/evolution | 9 | 2 |
 | /articles/slipknot-self-titled-drum-setup | 8 | 5 |
-| /drummer/danny-carey | 8 | 7 |
+| /drummer/danny-carey | 8 | 8 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 206 | 177 |
+| Organic Search | 207 | 178 |
 | Direct | 50 | 46 |
-| Unassigned | 17 | 17 |
+| Unassigned | 18 | 18 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |

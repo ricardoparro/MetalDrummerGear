@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-22 16:29 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-22 17:29 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,32 +8,32 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 224 |
-| Sessions | 257 |
-| Page views | 501 |
-| Engagement rate | 57.59% |
+| Active users | 225 |
+| Sessions | 258 |
+| Page views | 514 |
+| Engagement rate | 57.36% |
 | Avg session (s) | 286 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 42 | 22 |
+| / | 44 | 23 |
 | /tools | 17 | 2 |
 | /drummer/lars-ulrich | 15 | 5 |
 | /drummer/dave-lombardo | 13 | 1 |
+| /drummers | 13 | 2 |
 | /drummer/jaska-raatikainen/bio | 11 | 1 |
 | /drummers/lars-ulrich/evolution | 9 | 2 |
 | /drummer/danny-carey | 8 | 7 |
-| /drummers | 8 | 1 |
 | /drummers/bill-ward/licks | 8 | 1 |
 | /drummers/mike-portnoy/evolution | 8 | 2 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 201 | 172 |
+| Organic Search | 202 | 173 |
 | Direct | 50 | 46 |
-| Unassigned | 13 | 13 |
+| Unassigned | 14 | 14 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |

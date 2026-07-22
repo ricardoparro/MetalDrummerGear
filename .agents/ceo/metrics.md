@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-22 11:34 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-22 12:31 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -38,24 +38,24 @@
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 4,815 |
-| Clicks | 116 |
-| CTR | 2.41% |
-| Avg position | 10.1 |
+| Impressions | 5,804 |
+| Clicks | 149 |
+| CTR | 2.57% |
+| Avg position | 10.2 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| jay weinberg cymbals | 6 | 2 | 33.33% | 10.2 |
+| jay weinberg cymbals | 7 | 3 | 42.86% | 9.9 |
+| jaska raatikainen drum set | 6 | 2 | 33.33% | 5.5 |
 | abe cunningham cymbals | 4 | 1 | 25.00% | 8.3 |
-| best death metal drummers of all time | 3 | 1 | 33.33% | 4.3 |
+| best death metal drummers of all time | 4 | 1 | 25.00% | 3.5 |
+| best metal drummers | 14 | 1 | 7.14% | 15.8 |
 | bill ward drum setup | 10 | 1 | 10.00% | 11.1 |
-| charlie benante drum setup | 1 | 1 | 100.00% | 5.0 |
-| danny carey drum kit setup | 2 | 1 | 50.00% | 6.0 |
+| charlie benante drum setup | 2 | 1 | 50.00% | 13.0 |
+| danny carey drum kit setup | 3 | 1 | 33.33% | 6.7 |
 | famous left handed drummers | 5 | 1 | 20.00% | 27.6 |
-| jaska raatikainen drum set | 4 | 1 | 25.00% | 6.3 |
-| matt greiner cymbal setup | 2 | 1 | 50.00% | 10.5 |
-| mike mangini dream theater kit | 7 | 1 | 14.29% | 8.7 |
+| joey jordison drum kit | 16 | 1 | 6.25% | 9.5 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 _no significant gaps detected — all queries with traction have decent CTR_

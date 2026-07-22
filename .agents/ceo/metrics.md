@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-22 17:29 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-22 18:24 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,32 +8,32 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 225 |
-| Sessions | 258 |
-| Page views | 514 |
-| Engagement rate | 57.36% |
-| Avg session (s) | 286 |
+| Active users | 228 |
+| Sessions | 262 |
+| Page views | 572 |
+| Engagement rate | 57.25% |
+| Avg session (s) | 362 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 44 | 23 |
+| / | 55 | 24 |
 | /tools | 17 | 2 |
+| /drummers | 16 | 3 |
 | /drummer/lars-ulrich | 15 | 5 |
 | /drummer/dave-lombardo | 13 | 1 |
-| /drummers | 13 | 2 |
 | /drummer/jaska-raatikainen/bio | 11 | 1 |
+| /drummer/pete-sandoval | 9 | 1 |
 | /drummers/lars-ulrich/evolution | 9 | 2 |
+| /articles/slipknot-self-titled-drum-setup | 8 | 5 |
 | /drummer/danny-carey | 8 | 7 |
-| /drummers/bill-ward/licks | 8 | 1 |
-| /drummers/mike-portnoy/evolution | 8 | 2 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 202 | 173 |
+| Organic Search | 206 | 177 |
 | Direct | 50 | 46 |
-| Unassigned | 14 | 14 |
+| Unassigned | 17 | 17 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |

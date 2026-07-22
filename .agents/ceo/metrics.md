@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-21 23:18 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-22 00:21 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,59 +8,57 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 241 |
-| Sessions | 276 |
-| Page views | 514 |
-| Engagement rate | 46.38% |
-| Avg session (s) | 279 |
+| Active users | 212 |
+| Sessions | 244 |
+| Page views | 481 |
+| Engagement rate | 48.77% |
+| Avg session (s) | 311 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 46 | 28 |
-| /drummer/lars-ulrich | 19 | 9 |
+| / | 40 | 22 |
 | /tools | 18 | 2 |
+| /drummer/lars-ulrich | 15 | 5 |
 | /drummer/dave-lombardo | 13 | 1 |
 | /drummer/jaska-raatikainen/bio | 11 | 1 |
-| /drummer/danny-carey | 10 | 9 |
-| /articles/master-of-puppets-drum-setup | 9 | 9 |
 | /drummers/lars-ulrich/evolution | 9 | 2 |
+| /drummer/danny-carey | 8 | 7 |
 | /drummers | 8 | 1 |
 | /drummers/bill-ward/licks | 8 | 1 |
+| /drummers/mike-portnoy/evolution | 8 | 2 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 206 | 173 |
-| Direct | 66 | 63 |
-| Unassigned | 27 | 25 |
+| Organic Search | 191 | 161 |
+| Direct | 49 | 46 |
+| Unassigned | 28 | 26 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 5,949 |
-| Clicks | 133 |
-| CTR | 2.24% |
-| Avg position | 10.8 |
+| Impressions | 4,815 |
+| Clicks | 116 |
+| CTR | 2.41% |
+| Avg position | 10.1 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
 | jay weinberg cymbals | 6 | 2 | 33.33% | 10.2 |
-| abe cunningham cymbals | 5 | 1 | 20.00% | 8.4 |
+| abe cunningham cymbals | 4 | 1 | 25.00% | 8.3 |
 | best death metal drummers of all time | 3 | 1 | 33.33% | 4.3 |
-| bill ward drum kit | 19 | 1 | 5.26% | 8.4 |
 | bill ward drum setup | 10 | 1 | 10.00% | 11.1 |
-| charlie benante drum setup | 3 | 1 | 33.33% | 7.0 |
+| charlie benante drum setup | 1 | 1 | 100.00% | 5.0 |
 | danny carey drum kit setup | 2 | 1 | 50.00% | 6.0 |
-| danny carey drum set | 61 | 1 | 1.64% | 10.5 |
 | famous left handed drummers | 5 | 1 | 20.00% | 27.6 |
-| inferno drum kit | 4 | 1 | 25.00% | 7.8 |
+| jaska raatikainen drum set | 4 | 1 | 25.00% | 6.3 |
+| matt greiner cymbal setup | 2 | 1 | 50.00% | 10.5 |
+| mike mangini dream theater kit | 7 | 1 | 14.29% | 8.7 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
-| Query | Impr | CTR | Pos | Action |
-| --- | --- | --- | --- | --- |
-| danny carey drum set | 61 | 1.64% | 10.5 | open issue to answer better |
+_no significant gaps detected — all queries with traction have decent CTR_
 
 ---
 *Re-run manually: `node .agents/scripts/fetch-metrics.cjs`*

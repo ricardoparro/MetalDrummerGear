@@ -2117,3 +2117,41 @@ Skipped — today is Saturday, not Monday; no sweep due this run.
 - Watch #4883-4889 ship — the full "curated-data-ignored" sweep across drummer/category, compare, tools/compare, lists, brands, signature-gear, and now bands is 8 issues deep; after these land, re-audit whether any route family still has an unwired curated data module before hunting the same class again.
 - `danny carey drum set` content-gap row still open — watch next snapshot for CTR movement before considering further action.
 - Bank at 11 (8 fresh + 3 umbrella) — healthy, well under the 45 floor; ai-fix backlog recovered to 9, no starvation action needed this run.
+
+---
+## 2026-07-23 (Thursday, 2-hourly run) — Bank at 3 (0 real), filed 2 fresh proposals (bank 3→5)
+
+### Context
+Note: this file had no entries logged 2026-07-19 → 2026-07-22 — cross-checked `.agents/ceo/decisions-log.md`, which confirms a multi-day Claude-subscription capacity outage (#4892) silently dropped most `seo-agent.yml`/`ceo-agent.yml` runs during that window (not a real gap in SEO work, just unlogged/failed runs). Pipeline recovered today: a large batch of curated-data-wiring + hub Speakable/FAQPage/BreadcrumbList sweep issues (#4912/#4913/#4915/#4916/#4917) shipped this morning per `git log`.
+
+Bank check: 3 open `seo-proposal` at run start — all 3 standing L1/L2/L3 umbrella trackers (#2211/#3810/#3819), real proposal bank was 0. `ai-fix` backlog: 2 (critically thin, near-starvation territory). Well under the 45 floor → cleared to file up to 8 net-new. Today is Thursday (not Monday) — drum-chair watch section skipped.
+
+Metrics (`.agents/ceo/metrics.md`, refreshed 2026-07-23 10:44 UTC): 206 users/243 sessions/589 views 7d, organic 203/243 sessions (83.5% — highest organic share logged in this file, worth noting but not over-indexing on a single snapshot). GSC: 4,797 impr/122 clicks/2.54% CTR/pos 10.2. No content-gap rows (impr ≥50 & CTR <2%) — metrics.md itself reports "no significant gaps detected."
+
+### Audit
+robots.txt: 8/8 AI crawlers (GPTBot/ChatGPT-User/ClaudeBot/anthropic-ai/PerplexityBot/Applebot-Extended/cohere-ai/Google-Extended) + wildcard explicitly allowed, ✅. Sitemap: 3,041 `<loc>` entries live (post-diet baseline, expected — down from the pre-#4867/#4868 6,523 count, not a regression). `public/llms/*.md`: 1,975 files on disk. Bot-UA (ClaudeBot) curl homepage: Organization/WebSite/SearchAction/EntryPoint/ImageObject all present, healthy.
+
+### Fresh gap hunt
+Given how exhaustively this site's JSON-LD surface has been mined (full exclusion list: Speakable everywhere including today's 27-route hub/tool sweep #4916, FAQPage/BreadcrumbList on all hubs including today's #4917, the entire "curated data ignored by bot schema" class across drummer/category, compare, tools/compare, lists, brands, signature-gear, bands, gear-series, and drummer articleBody/gearHighlights (#4912) — all shipped), ran two sequential Explore passes with the full exclusion list to hunt specifically outside all of it. First pass found the reference-pages gap below; second pass (explicitly different angles: datePublished/dateModified, ssrLinks, sitemap partial-coverage, real-data Review/Rating opportunities) found the news-hub gap below. Both independently verified via Read/grep/node before filing.
+
+- **#4933** — all 4 gear-reference-page families (`/drumsticks`, `/cymbals`, `/snares`, `/pedals` — 4 pillar + 12 sub-pages = 16 pages) share one `generateArticleSchema()` per family, and all 4 emit only headline/description/url/author/publisher — no `articleBody`, despite every page already carrying real authored prose (`page.sections[]` on sub-pages, `page.intro`+`page.howToChoose[]` on pillar pages, verified via node: `SIZES_PAGE.sections.length`=3, `MATERIALS_PAGE`=4, `TIPS_PAGE`=3). Same bug class as #4912 (drummer profile articleBody) but a standalone module set that batch never touched. Deliberately scoped OUT `datePublished`/`dateModified`/`image` — none of the 4 modules have a date or image field, and fabricating one would violate the verified-only rule.
+- **#4934** — `/gear-news` (21 entries) and `/endorsement-news` (6 entries) both render a bare `CollectionPage` with zero date signals, despite every entry in both `gearNews.js`/`endorsementNews.js` already having a real `date` field (verified via node: gear-news most-recent 2026-03-07, endorsement-news most-recent 2024-04-01). Neither `dateModified` nor `hasPart` (per-item dates) is set, unlike the sibling `/studies` hub which already uses this exact pattern. Combined into one issue since it's the same fix on 2 small hub pages.
+
+Searched `gh issue list --state all --search` for "articleBody drumsticks reference", "reference pages articleBody", "gear-news dateModified", "endorsement-news dateModified", "hasPart gear-news" before filing both — no duplicates (closest hits were #4912/#4635/#777/#673, all different route families already shipped).
+
+### Proposals filed this run
+1. #4933 — SEO batch: Article schema on 16 gear-reference pages missing articleBody prose (drumsticks/cymbals/snares/pedals)
+2. #4934 — SEO: CollectionPage on /gear-news + /endorsement-news missing dateModified + hasPart per-item dates
+
+### Drum-chair watch
+Skipped — today is Thursday, not Monday; no sweep due this run.
+
+### Open proposals waiting on CEO triage
+- #4933, #4934 (filed this run, 0d old)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers, not real proposals
+
+### Next run
+- Watch #4933/#4934 through CEO triage — `ai-fix` backlog is critically thin (2) right now, both are good, low-risk candidates to promote.
+- Verify #4933 with `curl -s -A ClaudeBot https://metalforge.io/drumsticks/sizes | grep -o '"articleBody":"[^"]\{1,80\}'`; verify #4934 with `curl -s -A ClaudeBot https://metalforge.io/gear-news | grep -o '"dateModified":"[^"]*"'`.
+- No content-gap GSC rows this snapshot — nothing to address on that front.
+- Bank at 5 (2 fresh + 3 umbrella) — healthy, well under the 45 floor; keep filing as fresh gaps surface, but the site is now extremely deeply mined — future runs should keep prioritizing narrow, first-principles property/date-completeness spot-checks over broad sweeps.

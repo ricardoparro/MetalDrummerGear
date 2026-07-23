@@ -1,6 +1,6 @@
 # Top 10 Fastest Metal Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-07-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/fastest-metal-drummers)
+> **Last updated:** 2026-07-23 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/fastest-metal-drummers)
 
 ---
 
@@ -116,6 +116,16 @@ Art Cruz (Lamb of God) earns rank #10 for: thrash revival speed. Lamb of God's n
 
 Full drummer profile: [Art Cruz on MetalForge](https://metalforge.io/drummer/art-cruz)
 
+### 11. John Longstreth
+
+**Band:** Origin
+**Highlight:** Pioneered double-stroke bass drum technique
+**Why ranked here:** Origin/Angelcorpse speed specialist credited with the one-handed drum roll
+
+John Longstreth (Origin) earns rank #11 for: pioneered double-stroke bass drum technique. Origin/Angelcorpse speed specialist credited with the one-handed drum roll.
+
+Full drummer profile: [John Longstreth on MetalForge](https://metalforge.io/drummer/john-longstreth)
+
 ---
 
 ## Frequently Asked Questions
@@ -143,4 +153,4 @@ A: Most top-speed drummers rely on lightweight double-bass pedals (Pearl Demon D
 
 ---
 
-*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-23 · Source: [MetalForge.io](https://metalforge.io)*

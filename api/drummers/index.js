@@ -3678,6 +3678,56 @@ const drummers = [
       { title: 'Alex Rüdinger | Intronaut "Cubensis" (DRUM PLAYTHROUGH)', youtubeId: 'D4bO3EMMShU', year: 2020 },
       { title: 'Alex Rudinger - TRIVIUM - "CATASTROPHIST"', youtubeId: '8O92AS-Drhk', year: 2026 }
     ]
+  },
+  {
+    id: 71,
+    name: 'John Longstreth',
+    band: 'Origin',
+    bands: [
+      { name: 'Angelcorpse', period: '1995–1998, 2006–2007', current: false },
+      { name: 'Origin', period: '1999–2003, 2006–present', current: true },
+      { name: 'Skinless', period: '2003', current: false },
+      { name: 'Hate Eternal', period: '2018 (touring fill-in)', current: false }
+    ],
+    genre: 'Technical Death Metal / Brutal Death Metal',
+    country: 'USA',
+    image: '/images/drummers/john-longstreth.webp',
+    bio: "John Longstreth is an American drummer widely regarded as one of extreme metal's fastest and most technically accomplished, known for his work with Origin, Angelcorpse, and Skinless. A Kansas City, Missouri native now based in New York City, he grew up around jazz drumming — his father was a Kansas City jazz musician for fifty years, exposing John early on to Buddy Rich, Miles Davis, and John Coltrane — before early thrash bands like Slayer pulled him toward extreme metal. He co-founded Angelcorpse in 1995, recording Hammer of Gods (1996) and Exterminate (1998) before departing; he rejoined for the band's 2006–2007 reunion. Since 1999 he has been the driving force behind technical death metal band Origin (with a 2003–2006 hiatus), recording Informis Infinitas Inhumanitas (2002), Antithesis (2008), Entity (2011), Omnipresent (2014), Unparalleled Universe (2017), and Chaosmos (2022). He also drummed for Skinless in 2003, and has done extensive session and touring work for Dying Fetus, Dim Mak, Gorguts, Unmerciful, Codex Ritual, Exhumed, and The Red Chord — including filling in for regular drummer Hannes Grossmann on Hate Eternal's November 2018 US tour. Longstreth is credited with pioneering double-stroke bass drum technique and the one-handed drum roll within extreme metal, and released his own instructional DVD, Drumming of a Madman.",
+    kitOverview: "John Longstreth is an endorsed Pearl Drums artist, though Pearl's own artist specification page could not be independently accessed for this profile (it blocks automated requests) — so specific shell sizes and finish are omitted rather than guessed. His documented cymbal setup, per Meinl Cymbals' own artist page, uses the Classics Custom Dark series — an 8\" Dark Splash, 14\" Dark Hihats, and 18\" Dark China — alongside a Generation X 12\"/14\" Trash Hat for the metallic, choked accents heard across his Origin blast-beat patterns.\n\nHe plays Scorpion Percussion's \"Wee Heavy\" signature drumsticks, and drives his kick pedals with ACD Unlimited hardware paired with FootBlaster triggers — a rig built around sustaining the high-speed, high-endurance blast beats and double-bass patterns that define his reputation as one of death metal's fastest drummers.",
+    sameAs: [
+      'https://www.wikidata.org/wiki/Q11727929',
+      'https://www.instagram.com/longstrethjohn/',
+      'https://www.discogs.com/artist/474966-John-Longstreth',
+      'https://www.allmusic.com/artist/john-longstreth-mn0001899210'
+    ],
+    gear: {
+      drums: 'Pearl (endorsement confirmed via his own Scorpion Percussion artist bio; specific kit model/shell sizes not independently documented — omitted rather than guessed)',
+      cymbals: 'Meinl Classics Custom Dark Series (8" Dark Splash, 14" Dark Hihat, 18" Dark China) + Meinl Generation X 12"/14" Trash Hat',
+      hardware: 'ACD Unlimited Bass Drum Pedals, FootBlaster Triggers',
+      sticks: 'Scorpion Percussion "Wee Heavy" Signature Drumsticks',
+      verified: true,
+      verifiedAt: '2026-07-23',
+      sources: ['https://scorpionpercussion.com/pages/john-longstreth-signature-artist', 'https://meinlcymbals.com/en/artists/john-longstreth-a12223.html']
+    },
+    photos: [
+      '/images/drummers/john-longstreth.webp' // Original: https://upload.wikimedia.org/wikipedia/commons/3/35/John_Longstreth.png (CC BY 3.0, Duude125; live-performance screenshot, Hate Eternal set, Anthology, Rochester NY, Nov 10 2018 — the tour where Longstreth filled in on drums)
+    ],
+    endorsements: [
+      { name: 'Pearl Drums', url: 'https://pearldrum.com' },
+      { name: 'Meinl Cymbals', url: 'https://meinlcymbals.com' },
+      { name: 'Scorpion Percussion', url: 'https://scorpionpercussion.com' },
+      { name: 'ACD Unlimited', url: 'https://www.acd-unlimited.at' },
+      { name: 'FootBlaster', url: 'https://footblaster.com' }
+    ],
+    videos: [
+      { title: 'Origin-John Longstreth Drum Cam at M.O.D 2010- Staring from the Abyss', youtubeId: 'KuxQtRN9wG0', year: 2010 },
+      { title: 'Origin - John Longstreth DRUM CAM Summer Slaughter 8/11/17 The Grove Of Anaheim, CA', youtubeId: 'zEeDn_ITQag', year: 2017 },
+      { title: 'ORIGIN - Disease Called Man - John Longstreth. Live in Germany 2024 (Drum Cam)', youtubeId: 'UIXrlasrFtk', year: 2024 }
+    ],
+    quotes: [
+      { text: "Embrace the art! Whether it's two-foot blasting, double strokes, one-handed rolls, triggers, etc., if it makes you feel good as a player, USE IT!", source: "Modern Drummer", year: 2011 },
+      { text: "They have to write sensibly, not only to keep it interesting for the listener, but to keep it playable for the damn drummer.", source: "Exclaim!", year: 2008 }
+    ]
   }
 ];
 

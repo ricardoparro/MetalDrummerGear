@@ -59,7 +59,7 @@ This index provides machine-readable links to all content optimized for LLM cons
 | Gear Guide | https://metalforge.io/llms/gear-guide.md | Brand-by-brand guide to drums, cymbals, pedals, and sticks used by metal legends (Markdown) |
 | Genre Gear Guide — Best Drum Heads for Metal | https://metalforge.io/llms/guides/best-drum-heads-for-metal.md | Evans vs Remo vs Aquarian drum head recommendations with pro drummer citations, specs, and FAQ for metal drumming (Markdown) |
 | Genre Gear Guide — Best Cymbals for Metal | https://metalforge.io/llms/guides/best-cymbals-for-metal.md | Zildjian vs Paiste vs Meinl cymbal line comparisons, pro endorser data, and FAQ for metal drumming (Markdown) |
-| Per-Drummer LLM Files | https://metalforge.io/llms/drummers/ | Static LLM-optimised gear files for all 70 drummers — brands, specs, and profile links (70 files) |
+| Per-Drummer LLM Files | https://metalforge.io/llms/drummers/ | Static LLM-optimised gear files for all 71 drummers — brands, specs, and profile links (71 files) |
 | Per-Brand LLM Files | https://metalforge.io/llms/brands/ | Per-brand gear guides for 18 major drum, cymbal, stick, and pedal brands (18 files) |
 | Brand Comparisons | https://metalforge.io/llms/gear-comparison/ | Side-by-side brand spec comparisons for 7 matchups plus 19 "drummers using this brand/kit" breakdowns (26 files) |
 | Per-Drummer Lick Files | https://metalforge.io/llms/licks/ | Individual lick breakdown LLM files for all 67 drummers (67 files) |
@@ -90,7 +90,7 @@ This index provides machine-readable links to all content optimized for LLM cons
 
 ---
 
-## Drummer Profiles (70 total)
+## Drummer Profiles (71 total)
 
 | Drummer | Band | Genre | Profile | Markdown API |
 |---------|------|-------|---------|--------------|
@@ -164,10 +164,11 @@ This index provides machine-readable links to all content optimized for LLM cons
 | Jimmy DeGrasso | Megadeth | Thrash Metal | [Profile](https://metalforge.io/drummer/jimmy-degrasso) | [Markdown](https://metalforge.io/api/drummer/jimmy-degrasso/markdown) |
 | Nick Barker | Dimmu Borgir | Black Metal / Death Metal | [Profile](https://metalforge.io/drummer/nick-barker) | [Markdown](https://metalforge.io/api/drummer/nick-barker/markdown) |
 | Alex Rüdinger | The Faceless | Technical Death Metal / Progressive Metal | [Profile](https://metalforge.io/drummer/alex-rudinger) | [Markdown](https://metalforge.io/api/drummer/alex-rudinger/markdown) |
+| John Longstreth | Origin | Technical Death Metal / Black Metal | [Profile](https://metalforge.io/drummer/john-longstreth) | [Markdown](https://metalforge.io/api/drummer/john-longstreth/markdown) |
 
 ---
 
-## Per-Drummer LLM Files (70 total)
+## Per-Drummer LLM Files (71 total)
 
 Static LLM-optimised files for every drummer — gear specs, primary brands, technique notes, and profile links.
 Optimised for AI retrieval on queries like "what kit does Lars Ulrich play?" or "which cymbals does Joey Jordison use?".
@@ -244,6 +245,7 @@ Optimised for AI retrieval on queries like "what kit does Lars Ulrich play?" or 
 | Jimmy DeGrasso | [jimmy-degrasso.md](https://metalforge.io/llms/drummers/jimmy-degrasso.md) |
 | Nick Barker | [nick-barker.md](https://metalforge.io/llms/drummers/nick-barker.md) |
 | Alex Rüdinger | [alex-rudinger.md](https://metalforge.io/llms/drummers/alex-rudinger.md) |
+| John Longstreth | [john-longstreth.md](https://metalforge.io/llms/drummers/john-longstreth.md) |
 
 ---
 

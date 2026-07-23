@@ -3678,6 +3678,63 @@ const drummers = [
       { title: 'Alex Rüdinger | Intronaut "Cubensis" (DRUM PLAYTHROUGH)', youtubeId: 'D4bO3EMMShU', year: 2020 },
       { title: 'Alex Rudinger - TRIVIUM - "CATASTROPHIST"', youtubeId: '8O92AS-Drhk', year: 2026 }
     ]
+  },
+  {
+    id: 71,
+    name: 'John Longstreth',
+    band: 'Origin',
+    bands: [
+      { name: 'Origin', period: '1999–2003, 2006–present', current: true },
+      { name: 'Angelcorpse', period: '1995–1998, 2006–2007', current: false },
+      { name: 'Skinless', period: '2003', current: false }
+    ],
+    genre: 'Technical Death Metal / Black Metal',
+    country: 'USA',
+    image: '/images/drummers/john-longstreth.webp',
+    bio: "John Longstreth (born February 26, 1976, in Burlington, Wisconsin) is an American extreme metal drummer widely regarded as one of the fastest drummers in death metal, credited with popularizing the one-handed roll as a blast-beat technique. He was the original drummer for blackened death metal band Angelcorpse from 1995 to 1998, recording Hammer of Gods (1996), the Nuclear Hell EP (1997), and Exterminate (1998), and rejoined the band for its 2006–2007 reunion, recording Of Lucifer and Lightning (2007). Longstreth joined technical death metal band Origin in February 1999, recording Origin (2000) and Informis Infinitas Inhumanitas (2002) before departing in January 2003. He rejoined Origin in 2006 and has remained its drummer since, recording Antithesis (2008), Entity (2011), Omnipresent (2014), Unparalleled Universe (2017), and Chaosmos (2022). During a gap between Origin stints, he recorded Skinless's From Sacrifice to Survival (2003, Relapse Records). He has also done session and touring work with Gorguts, Hate Eternal, Dying Fetus, Exhumed, and The Red Chord, among others, and leads the project Crator.",
+    kitOverview: "John Longstreth is an official Pearl Drums artist, playing a Pearl Reference Series kit in a Piano Black finish. Pearl's own artist materials list 8x7\" and 10x8\" rack toms, 12x8\" and 14x14\" floor toms, a 20x18\" bass drum, and two snares — 14x5\" and 10x6\" — a dual-snare setup suited to his rapid one-handed rolls and blast-beat technique.\n\nHe is also an official Meinl Cymbals artist: Meinl's artist page lists his setup as an 8\" Classics Custom Dark Splash (CC8DAS), a 14\" Classics Custom Dark Hi-Hat (CC14DAH), an 18\" Classics Custom Dark China (CC18DACH), and a 12\"/14\" Generation X Trash Hat — B12 bronze alloy cymbals engineered for a dark, cutting attack at speed.\n\nLongstreth's pedals come from Austrian hardware builder ACD Unlimited, and he plays Scorpion Percussion's \"Wee Heavy\" signature drumsticks. He additionally endorses FootBlaster bass drum triggers, built for accuracy at speeds beyond 300 BPM — a direct fit for a drummer whose reputation rests on blast-beat speed and endurance. Drumhead brand is not independently documented, so this profile omits it rather than guessing.",
+    sameAs: [
+      'https://pl.wikipedia.org/wiki/John_Longstreth',
+      'https://www.metal-archives.com/artists/John_Longstreth/580',
+      'https://www.discogs.com/artist/474966-John-Longstreth',
+      'https://www.allmusic.com/artist/john-longstreth-mn0001899210'
+    ],
+    gear: {
+      drums: 'Pearl Reference Series (Piano Black)',
+      snare: 'Pearl Reference 14x5" and 10x6" (dual snare setup)',
+      cymbals: 'Meinl Classics Custom Dark Series (8" Splash CC8DAS, 14" Hi-Hat CC14DAH, 18" China CC18DACH), Generation X 12"/14" Trash Hat',
+      hardware: 'ACD Unlimited Pedals, FootBlaster Bass Drum Triggers',
+      sticks: 'Scorpion Percussion "Wee Heavy" Signature Sticks',
+      verified: true,
+      verifiedAt: '2026-07-23',
+      notes: 'Drumhead brand not independently documented — omitted rather than guessed.',
+      sources: [
+        'https://pearldrum.com/en/artist/john-longstreth',
+        'https://meinlcymbals.com/en/artists/john-longstreth-a12223.html',
+        'https://scorpionpercussion.com/pages/john-longstreth-signature-artist',
+        'https://www.acd-unlimited.at/english/musicians/',
+        'https://footblaster.com/'
+      ]
+    },
+    photos: [
+      '/images/drummers/john-longstreth.webp' // Original: https://commons.wikimedia.org/wiki/File:Origin_au_Grillen.jpg (CC BY-SA 4.0, AlpoH) — cropped from Origin's 2014-12-15 live show at Le Grillen, Colmar
+    ],
+    endorsements: [
+      { name: 'Pearl Drums', url: 'https://pearldrum.com' },
+      { name: 'Meinl Cymbals', url: 'https://meinlcymbals.com' },
+      { name: 'Scorpion Percussion', url: 'https://scorpionpercussion.com' },
+      { name: 'ACD Unlimited', url: 'https://www.acd-unlimited.at' },
+      { name: 'FootBlaster Triggers', url: 'https://footblaster.com' }
+    ],
+    videos: [
+      { title: 'John Longstreth: High Speed Metal - Origin Live', youtubeId: 'YX8N0Lj7VC4' },
+      { title: 'Meinl Cymbals - John Longstreth - "Decolonizer" Foot Angle (Origin)', youtubeId: 'VPGcYyq6qAY', year: 2022 },
+      { title: 'Meinl Cymbals - John Longstreth - "Saligia" by Origin', youtubeId: 'Dwq4kYfcrbU', year: 2011 }
+    ],
+    quotes: [
+      { text: "Whether it's two-foot blasting, double strokes, one-handed rolls, triggers, etc., if it makes you feel good as a player, USE IT!", source: 'Modern Drummer', year: 2011 },
+      { text: "I'm never going to master it. I'm never going to be a master drummer.", source: 'Fueled By Death Cast (Death Wish Coffee)', year: 2017 }
+    ]
   }
 ];
 

@@ -137,6 +137,8 @@ const drummers = [
   { id: 69, name: 'Nick Barker' },
   // Issue #4929 (split 4/5 of #4748): Alex Rüdinger (The Faceless) — technical/prog death roster gap.
   { id: 70, name: 'Alex Rüdinger' },
+  // Issue #4930 (split 5/5 of #4748): John Longstreth (Origin/Angelcorpse/Skinless) — extreme-metal speed-record tie-in.
+  { id: 71, name: 'John Longstreth' },
 ];
 
 const gearItems = [

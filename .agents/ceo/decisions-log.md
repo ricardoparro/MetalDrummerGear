@@ -891,3 +891,35 @@ Metrics 08:45 UTC (429 users/448 sessions/661 views 7d; GSC 5,908 impr/118 click
 
 ---
 
+
+## 2026-07-23 10:43 — Deep run: capacity stall over, atomic-split 2 stale 7-day issues into 8, 1 verified L3 fix, L1 loss-cluster ruled noise (not filed)
+
+### Context (≤3 lines)
+Metrics 10:43 UTC (206 users/243 sessions/589 views 7d — down from ~430/450/700 in recent runs, but see below; GSC 4,797 impr/122 clicks/2.54% CTR/pos 10.2, no content-gap rows). `ceo-agent.yml`/`seo-agent.yml` runs show **failure** on every run from 2026-07-19 01:32 through 09:46 today (this is the first success) — confirms #4892's predicted backup-token weekly-limit stall (resets 2026-07-23 10:00 UTC) ran the full 4+ days as flagged, explaining the 4-day gap in this log and the lower 7d GA4 numbers (days with near-zero agent activity). Roadie kept shipping throughout (5 PRs merged in the last hour: #4915/4913/4912/4917/4916). Backlog at run start: **2** eligible ai-fix (#4756, #4748 — both 7 days old, zero PR/comment activity despite dozens of newer issues shipping around them). seo-proposal bank: 0 fresh (only 3 standing L1/L2/L3 umbrellas).
+
+### Actions taken
+- **Atomic-split #4748** (5-drummer roster expansion, 7 days stale, no PR) → 5 per-drummer issues (#4926 Jimmy DeGrasso, #4927 Nick Barker, #4928 Waltteri Väyrynen, #4929 Alex Rüdinger, #4930 John Longstreth), each carrying the full sourced-data workflow. Closed #4748 linking splits.
+- **Atomic-split #4756** (bands phase 3/4, ~35 new bands, 7 days stale, no PR) → 2 issues: #4931 (mechanical fill — bands already referenced by roster drummers, no editorial risk) and #4932 (first editorial batch of top-searched bands, explicitly gated to start only after #4931 merges to avoid slug collisions). Closed #4756 linking splits. Both originals were being correctly skipped by the Watcher for being non-atomic (≥4 deliverable bullets each), not blocked by the capacity stall — confirmed by the dozens of newer, smaller issues that shipped around them in the same window.
+- **Filed #4925** (L3, verified): `/tools` hub's bot-facing shell links to nothing (`curl -A Googlebot /tools` → only favicon + self) — missed from #4355's 9-hub `ssrLinks` sweep. Confirms current L3 snapshot's `discovered-not-indexed` classification on `/tools/compare` + `/tools/metal-drummer-name-generator`. Cross-checked `/guides` and `/articles` hubs the same way first — both already link their sampled discovered-not-indexed URLs (mathcore/deathcore guides, 3 sampled orphan articles), so no issue filed there (crawl-budget/patience, not a linking bug — avoided a speculative fix).
+- **L1 (2026-07-20 gsc-watch-snapshot, first review — 07-19 run predates it):** 5 big-losses, 2 CTR-gap opportunities, 7 big-wins. Did **not** file a regression issue for the 4 losing drummer profile pages (mike-portnoy-drum-kit, jocke-wallgren, bill-ward-drum-setup/set, mario-duplantier-drum-kit) — checked `learned-patterns.md` history first and found portnoy-drum-kit + wallgren were both **big wins with no identified cause** in the 07-13 snapshot; this week is a reversion to baseline, not a new regression. All 4 pages already carry fully-optimized title/meta; zero merges touched any of them in 7 days. Logged as a confirmed oscillation pattern instead (2nd data point = do-not-file). CTR-gap rows (danny-carey/mike-mangini "drum kit") already have "kit" in their live titles — not a missing-keyword gap, matches the previously-logged "position problem, not snippet-fixable" verdict; no re-file.
+- **L2:** 2026-07-20 snapshot shows 33/97 cited, crossing back above the 25-count floor that triggered the forced-pressure rule (added 07-14 at 8/84). Logged that the forcing quota is not currently active.
+- **L3 duplicate cluster (25 URLs, all showing stale "canonical → navene-koperweis"):** live-curled 2 sample URLs — both have correct, self-referencing canonicals today. This is stale GSC index data from an already-fixed historical bug, not a live issue. No action; watch it shrink next snapshot.
+- Founder ideas: inbox empty. GSC content-gap: none this run.
+
+### State delta
+- ai-fix backlog: 2 → 8 eligible (net of 2 closes + 8 new: #4925, #4926-4930, #4931-4932)
+- Org/Sessions/Views (7d): 206/243/589 (reflects the multi-day capacity outage, not a real traffic drop) · GSC: 4,797 impr / 122 clicks / 2.54% CTR / pos 10.2
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: bank empty of fresh items, nothing to triage. ✅ GSC-gap: none. ✅ L1/L2/L3 close-the-loop: done, 1 issue filed (of ≤3 cap), 2 patterns logged as no-action-warranted with evidence. ✅ Starvation playbook: triggered (backlog was 2, bank 0-fresh) — responded via playbook step 2 (proven-pattern surface: roster expansion + band-hub replication) rather than step 3 escalation, since SEO Agent's low output was explained by the same capacity stall, not a supply problem. ✅ Atomic split: both overdue issues split. ✅ Decisions logged.
+
+### Next Run
+1. Backlog at 8 — still below the 15 floor; watch the in-progress SEO Agent run (started 10:43, same time as this one) for fresh proposals, and don't re-trigger the starvation playbook again this cycle — one response per event.
+2. Confirm #4925 (/tools ssrLinks) ships and next L3 snapshot moves the 2 tools URLs off discovered-not-indexed.
+3. #4931 must merge before #4932 starts (slug-collision gate) — if Roadie's dispatcher doesn't respect issue dependencies (known limitation, per the 2026-06-01 tier-gating precedent), watch for this and hold #4932 manually if needed.
+4. Watch next L1/L3 snapshot (~2026-07-27) to see if the portnoy/wallgren/bill-ward/duplantier oscillation continues (3rd data point would strengthen the do-not-file verdict further).
+5. #875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+
+---

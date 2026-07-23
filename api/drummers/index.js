@@ -3556,6 +3556,64 @@ const drummers = [
     videos: [
       { title: 'Slayer - Killing Fields (Drum Playthrough by Former Slayer Drummer Jon Dette)', youtubeId: 'jbvzXH__12k', year: 2022 }
     ]
+  },
+  {
+    id: 68,
+    name: 'Jimmy DeGrasso',
+    band: 'Megadeth',
+    bands: [
+      { name: 'Megadeth', period: '1998–2002', current: false },
+      { name: 'Y&T', period: '1987–1991, 1995–1997', current: false },
+      { name: 'Suicidal Tendencies', period: '1992–1995', current: false },
+      { name: 'Alice Cooper', period: '1994–1998, 2008–2010', current: false },
+      { name: 'Black Star Riders', period: '2012–2017', current: false },
+      { name: 'Ratt', period: '2014, 2016–2018', current: false }
+    ],
+    genre: 'Thrash Metal',
+    country: 'USA',
+    image: '/images/drummers/jimmy-degrasso.webp',
+    bio: 'Jimmy DeGrasso, born March 16, 1963, in Bethlehem, Pennsylvania, is an American drummer best known for his 1998–2002 tenure behind the kit for Megadeth, recording and touring behind Risk (1999–2000) and The World Needs a Hero (2000–2001), and appearing on the band\'s first live CD/DVD release, Rude Awakening (2002). Before Megadeth, he spent three years with veteran metal band Y&T (1987–1991, replacing original drummer Leonard Haze) and drummed for Suicidal Tendencies (1992–1995), recording Suicidal for Life (1994). He also played for Alice Cooper across two stints (1994–1998, 2008–2010) and later joined Thin Lizzy spin-off Black Star Riders (2012–2017) and Ratt (2014, 2016–2018). Early in his career he auditioned for Ozzy Osbourne and played on demos for The Ultimate Sin before Osbourne overhauled the band\'s lineup.',
+    kitOverview: 'Jimmy DeGrasso\'s gear history spans several separately-documented endorsement relationships rather than one continuous, fully itemized rig. He is a confirmed SABIAN cymbal artist (listed as an independent affiliate on the brand\'s own artist page), though SABIAN does not publish a specific series or size breakdown for his setup. His signature snare is the Pearl JD1455 — a 14x5.5" hammered brass shell bearing his name, sold as a standing Pearl catalog item. He also holds a signature stick deal with Innovative Percussion: the JD-1, a hickory model with an acorn tip built for his heavy-hitting rock and metal attack, updated in 2016 with a rubber-dipped grip section.\n\nA 2014 photo of DeGrasso performing with Black Star Riders at Wacken Open Air shows him playing a kit badged DW (Drum Workshop) — a different shell brand than the one tied to his Pearl signature snare deal. Drummers commonly keep a signature snare relationship with one company while touring on another brand\'s shells, and no interview or press source ties a specific drum-shell brand to his Megadeth-era (1998–2002) recordings specifically. Hardware and drumhead brands are not publicly documented for any era of his career and are omitted here rather than guessed.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Jimmy_DeGrasso',
+      'https://www.discogs.com/artist/410710-Jimmy-DeGrasso',
+      'https://www.allmusic.com/artist/jimmy-degrasso-mn0000852551'
+    ],
+    gear: {
+      drums: 'DW (Drum Workshop) — as photographed with Black Star Riders, 2014',
+      snare: 'Pearl JD1455 Jimmy DeGrasso Signature 14x5.5" Hammered Brass',
+      cymbals: 'SABIAN (independent artist; no specific series/models publicly documented)',
+      hardware: 'Unverified — no confirmed hardware brand/model documented',
+      sticks: 'Innovative Percussion JD-1 Jimmy DeGrasso Signature',
+      heads: 'Unverified — no confirmed drumhead brand documented',
+      verified: false,
+      notes: 'Signature snare (Pearl JD1455) and signature sticks (Innovative Percussion JD-1) are officially confirmed products; SABIAN cymbal endorsement confirmed via official artist page. Drum shell brand (DW) confirmed via a 2014 Black Star Riders tour photo — an earlier/separate Pearl endorsement is also documented, so the shell brand may differ by era. Hardware and heads are not publicly documented.',
+      sources: [
+        'https://en.wikipedia.org/wiki/Jimmy_DeGrasso',
+        'https://sabian.com/artist/jimmy-degrasso/',
+        'https://www.innovativepercussion.com/artists/jimmy_degrasso',
+        'https://commons.wikimedia.org/wiki/File:Black_Star_Riders_%E2%80%93_Wacken_Open_Air_2014_17.jpg',
+        'https://pearldrum.com/news-events/artist-news/jimmy-degrasso-joins-dokken'
+      ]
+    },
+    photos: [
+      '/images/drummers/jimmy-degrasso.webp' // Original: https://upload.wikimedia.org/wikipedia/commons/9/9a/Black_Star_Riders_%E2%80%93_Wacken_Open_Air_2014_17.jpg
+    ],
+    endorsements: [
+      { name: 'SABIAN Cymbals', url: 'https://sabian.com/artist/jimmy-degrasso/' },
+      { name: 'Innovative Percussion', url: 'https://www.innovativepercussion.com/artists/jimmy_degrasso' },
+      { name: 'Pearl Drums', url: 'https://pearldrum.com' }
+    ],
+    videos: [
+      { title: 'Jimmy DeGrasso (Megadeth) Interview with Jason Saulnier', youtubeId: 'nTduRvhytiY', year: 2012 },
+      { title: 'Jimmy DeGrasso Drum Solo - LIVE Maifest, Vienna, Austria', youtubeId: 'F6bvNyWOIMg', year: 2009 },
+      { title: 'Jimmy DeGrasso (ex-Megadeth) - Drum Solo', youtubeId: 'LdU5RXKKz_M', year: 2016 }
+    ],
+    quotes: [
+      { text: "Yeah, it's a weird record. It's a good record, but it was a different record.", source: 'Metal-Rules.com interview, via Blabbermouth.net', year: 2010 },
+      { text: "I wanted to do, like, a full-on metal/thrash record and everybody knew it.", source: 'Metal-Rules.com interview, via Blabbermouth.net', year: 2010 },
+      { text: "A band is like a marriage, you know? Sometimes it just doesn't stay together forever.", source: 'Metal-Rules.com interview, via Blabbermouth.net', year: 2010 }
+    ]
   }
 ];
 

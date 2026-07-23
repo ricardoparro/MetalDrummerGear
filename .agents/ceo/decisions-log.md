@@ -923,3 +923,29 @@ Metrics 10:43 UTC (206 users/243 sessions/589 views 7d — down from ~430/450/70
 ---
 
 ---
+
+## 2026-07-23 11:36 — Cheap pulse: 2 fresh proposals promoted (gear-reference articleBody, gear-news/endorsement-news dateModified+hasPart)
+
+### Context (≤3 lines)
+Metrics 11:36 UTC (206 users/243 sessions/589 views 7d — same capacity-outage-affected week as the 10:43 deep run; GSC 4,797 impr/122 clicks/2.54% CTR/pos 10.2, no content-gap rows). Backlog was 8 eligible ai-fix at run start (0 open PRs, all fresh from the 10:43 deep run's splits). 2 fresh untriaged seo-proposals (#4933/#4934, filed 10:52-10:53 UTC, right after the deep run closed out).
+
+### Actions taken
+- **Promoted #4933** (Article schema on all 16 gear-reference pages — drumsticks/cymbals/snares/pedals pillars+sub-pages — missing `articleBody`, same bug class as #4912 for drummer profiles) — verified prose already exists in `page.sections`/`page.intro`+`howToChoose`, explicitly declines to fabricate date/image fields it doesn't have data for.
+- **Promoted #4934** (`/gear-news` + `/endorsement-news` CollectionPage missing `dateModified`+`hasPart`, following the established `/studies` hub pattern) — verified real `date` fields exist on every entry in both data arrays, flags its own sort-order risk (compute max via reduce, don't assume `[0]`) rather than assuming.
+- Searched open+closed issues for both (`articleBody drumsticks cymbals`, `dateModified gear-news`/`hasPart endorsement-news`) — no duplicates, only the related-but-distinct #4912/#4635/#777.
+- Founder ideas: inbox empty. GSC content-gap: none (metrics.md confirms). Backlog composition check: all 10 eligible ai-fix items are <1h old (from the 10:43 deep run's atomic splits + this pulse) — no atomic-split candidates.
+
+### State delta
+- ai-fix backlog: 8 → 10 eligible (#4933/#4934 promoted)
+- Org/Sessions/Views (7d): 206/243/589 (unchanged since 10:43 — same outage week) · GSC: 4,797 impr / 122 clicks / 2.54% CTR / pos 10.2
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 2/2 fresh triaged and promoted, verified, no duplicates. ✅ GSC-gap: none. ✅ Starvation check: backlog at 10 (<15) but bank replenishing normally post-outage, not forcing playbook step 2 again this soon after the 10:43 trigger/response. ✅ Atomic split: none eligible, all items fresh. ✅ Decisions logged.
+
+### Next Run
+1. Backlog at 10 — still below the 15 floor; watch whether SEO Agent's normal cadence tops it up before re-running starvation playbook.
+2. Confirm #4925 (/tools ssrLinks) ships and next L3 snapshot moves the 2 tools URLs off discovered-not-indexed.
+3. #4931 must merge before #4932 starts (slug-collision gate) — watch for this if Roadie doesn't respect issue dependencies.
+4. #875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---

@@ -3632,6 +3632,52 @@ const drummers = [
       { title: 'LOCK UP - Accelerated Mutation - Nicholas Barker - Live in Poland (Drum Cam)', youtubeId: 'm1VxJvAR6NU', year: 2017 },
       { title: 'Czarcie Kopyto Drum Cam - Nicholas Barker (Lock Up) - Brethren of the Pentagram, Krakow', youtubeId: 'PMaxFEL5zbo', year: 2017 }
     ]
+  },
+  {
+    id: 70,
+    name: 'Alex Rüdinger',
+    band: 'Trivium / ex-Whitechapel',
+    bands: [
+      { name: 'Trivium', period: '2025–present', current: true },
+      { name: 'Whitechapel', period: '2019–2021', current: false },
+      { name: 'Conquering Dystopia', period: '2013–present', current: true },
+      { name: 'The Faceless', period: '2013–2014', current: false }
+    ],
+    genre: 'Progressive Metal / Djent / Technical Death Metal',
+    country: 'USA',
+    image: '/images/drummers/alex-rudinger.webp',
+    bio: "Alex Rüdinger (born November 18, 1991, in Frederick, Maryland) is an American drummer known for his technical precision across progressive, technical death, and metalcore projects. He started playing drums at age 13 and built an early following posting drum videos to YouTube from 2006 onward. His first professional break came filling in for Canadian metalcore band Threat Signal (2010, then again 2011–2012), followed by a stint in The HAARP Machine (2012–2013). He joined death metal band The Faceless as touring drummer in early 2013, performing the band's Autotheism-era material live before departing alongside bassist Evan Brewer in October 2014. The same year he joined The Faceless, Rüdinger co-founded the technical/progressive metal side project Conquering Dystopia with Jeff Loomis (Nevermore, Arch Enemy), Alex Webster (Cannibal Corpse), and Keith Merrow, recording the band's self-titled 2014 album. He went on to drum for UK progressive metalcore act Good Tiger (2015–2018). Rüdinger served as Whitechapel's touring drummer starting in 2019, recorded the band's Kin (2021), and was briefly announced as an official member that September before parting ways with the band weeks later. In October 2025, Trivium recruited Rüdinger as their touring drummer for the band's fall North American tour, and he has since joined the band's writing sessions for its next studio album.",
+    kitOverview: "Alex Rüdinger is an official Tama artist, playing a Tama Starclassic Performer B/B kit anchored by a Tama Starphonic Brass 14x6\" snare — a setup Tama's own artist page credits him for across his touring career with The Faceless, Conquering Dystopia, Whitechapel, and now Trivium. Tama's Speed Cobra double pedal and Speed Cobra hi-hat stand drive his fast, technical footwork, mounted on Tama Roadpro stands and a 1st Chair Ergo-Rider throne. Tama also produces his own HRUDI signature drumstick, a hickory model with a short taper and acorn-shaped tip built for a full-bodied metal tone.\n\nRüdinger is also an endorsed Meinl Cymbals artist — confirmed via Meinl's own \"Alex Rudinger\" YouTube artist playlist — though Meinl does not publish a specific series/size breakdown for his setup, so this profile omits exact cymbal models rather than guessing. Evans drumheads complete the rig: D'Addario's official Evans artist page lists his head selection as a UV EQ4 Coated bass batter, G2 Clear tom batters, an HD Dry snare batter with a PureSound Super 30 snare wire, and G1 Clear/EQ3-NP Black bass resonant heads.",
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Alex_R%C3%BCdinger',
+      'https://www.instagram.com/alexrudinger/',
+      'https://www.discogs.com/artist/3482371-Alex-R%C3%BCdinger',
+      'https://alexrudinger.com'
+    ],
+    gear: {
+      drums: 'Tama Starclassic Performer B/B',
+      snare: 'Tama Starphonic Brass 14x6"',
+      cymbals: 'Meinl Cymbals',
+      hardware: 'Tama Speed Cobra Double Pedal, Tama Speed Cobra Hi-Hat Stand, Tama Roadpro Stands, Tama 1st Chair Ergo-Rider Throne',
+      sticks: 'Tama Alex Rüdinger Signature Drumsticks (HRUDI)',
+      heads: 'Evans (UV EQ4 Coated Bass Batter, G2 Clear Tom Batter, HD Dry Snare Batter, PureSound Super 30 Snare Wire)',
+      verified: true,
+      notes: 'Meinl cymbal endorsement confirmed via Meinl\'s own artist YouTube playlist; specific cymbal series/sizes are not officially published, so exact models are omitted rather than guessed.',
+      sources: ['https://www.tama.com/usa/artists/detail/975.html', 'https://daddario.com/artists/evans-drumheads/alex_rudinger', 'https://www.youtube.com/playlist?list=PL-SRUVfomE1C2Tx4_WscXkeDaNK1AMKTs', 'https://en.wikipedia.org/wiki/Alex_R%C3%BCdinger']
+    },
+    photos: [
+      '/images/drummers/alex-rudinger.webp' // Original: https://upload.wikimedia.org/wikipedia/commons/d/da/Whitechapel_Full_Force_2019_07.jpg (CC BY, Stefan Bollmann) — Rüdinger performing live with Whitechapel, Full Force festival 2019
+    ],
+    endorsements: [
+      { name: 'Tama Drums', url: 'https://www.tama.com' },
+      { name: 'Meinl Cymbals', url: 'https://meinlcymbals.com' },
+      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
+    ],
+    videos: [
+      { title: 'Alex Rudinger - Whitechapel - "Our Endless War" - Drum Playthrough', youtubeId: 'TcYDrSQ7j4A', year: 2019 },
+      { title: 'Alex Rudinger - Whitechapel - "Mark Of The Blade" - Drum Playthrough', youtubeId: 'TG9I2KJMzxo', year: 2020 },
+      { title: 'Alex Rudinger - TRIVIUM - "STRUCK DEAD" - Drum Playthrough', youtubeId: 'sgXFBD24prk', year: 2026 }
+    ]
   }
 ];
 

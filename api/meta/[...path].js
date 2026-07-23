@@ -699,6 +699,8 @@ export function getMetaForPath(pathname) {
           },
         ],
       }),
+      speakableSchema: true,
+      speakableCssSelector: ['h1', 'h2', 'p'],
     };
   }
 
@@ -752,6 +754,8 @@ export function getMetaForPath(pathname) {
         { name: 'Home', url: BASE_URL },
         { name: 'Timeline', url: `${BASE_URL}/timeline` },
       ],
+      speakableSchema: true,
+      speakableCssSelector: ['h1', 'h2', 'p'],
     };
   }
 
@@ -790,6 +794,8 @@ export function getMetaForPath(pathname) {
         { name: 'Home', url: BASE_URL },
         { name: 'Gear Finder', url: `${BASE_URL}/gear-finder` },
       ],
+      speakableSchema: true,
+      speakableCssSelector: ['h1', 'h2', 'p'],
     };
   }
 
@@ -836,6 +842,8 @@ export function getMetaForPath(pathname) {
           answer: 'DW 9000 and Tama Iron Cobra are the most commonly used double bass pedals among the metal drummers profiled on MetalForge.',
         },
       ],
+      speakableSchema: true,
+      speakableCssSelector: ['h1', 'h2', 'p'],
     };
   }
 
@@ -877,6 +885,8 @@ export function getMetaForPath(pathname) {
           answer: 'DW 9000 and Tama Iron Cobra are the most commonly used double bass pedals among the metal drummers profiled on MetalForge.',
         },
       ],
+      speakableSchema: true,
+      speakableCssSelector: ['h1', 'h2', 'p'],
     };
   }
 
@@ -1309,6 +1319,8 @@ export function getMetaForPath(pathname) {
           answer: 'Start with single-pedal double bass patterns and basic blast beats before adding a second pedal — Joey Jordison (Slipknot) and Dave Lombardo (Slayer) both built their technique on entry-level gear before ever touching a pro kit.',
         },
       ],
+      speakableSchema: true,
+      speakableCssSelector: ['h1', 'h2', 'p'],
     };
   }
 
@@ -1344,6 +1356,8 @@ export function getMetaForPath(pathname) {
         { question: 'Can I shop for drum gear by brand?', answer: 'Yes — the MetalForge gear hub lets you filter by brand (Tama, Pearl, Mapex, Zildjian, Meinl, and more) to see every pro metal drummer endorsing that brand and the exact gear they use.' },
         { question: 'Can I find drum gear by genre or budget?', answer: 'Yes — filter the /gear hub by genre (thrash, death, black, prog metal) or browse /gear-by-budget for setups curated under $500, $1000, and $2000.' },
       ],
+      speakableSchema: true,
+      speakableCssSelector: ['h1', 'h2', 'p'],
     };
   }
 
@@ -1380,6 +1394,8 @@ export function getMetaForPath(pathname) {
         { name: 'Home', url: BASE_URL },
         { name: 'Gear by Budget', url: `${BASE_URL}/gear-by-budget` },
       ],
+      speakableSchema: true,
+      speakableCssSelector: ['h1', 'h2', 'p'],
     };
   }
 
@@ -1415,6 +1431,8 @@ export function getMetaForPath(pathname) {
         { name: 'Home', url: BASE_URL },
         { name: 'Gear News', url: `${BASE_URL}/gear-news` },
       ],
+      speakableSchema: true,
+      speakableCssSelector: ['h1', 'h2', 'p'],
     };
   }
 
@@ -1461,6 +1479,8 @@ export function getMetaForPath(pathname) {
           answer: 'Endorsement deals are tracked separately at /endorsement-news, which currently lists 6 confirmed brand endorsement changes, alongside 21 broader gear news entries at /gear-news.',
         },
       ],
+      speakableSchema: true,
+      speakableCssSelector: ['h1', 'h2', 'p'],
     };
   }
 
@@ -1488,6 +1508,8 @@ export function getMetaForPath(pathname) {
         { name: 'Home', url: BASE_URL },
         { name: 'Cards', url: `${BASE_URL}/cards` },
       ],
+      speakableSchema: true,
+      speakableCssSelector: ['h1', 'h2', 'p'],
     };
   }
 
@@ -1985,6 +2007,8 @@ export function getMetaForPath(pathname) {
         { name: 'Home', url: BASE_URL },
         { name: 'Kit Quiz', url: `${BASE_URL}/kit-quiz` },
       ],
+      speakableSchema: true,
+      speakableCssSelector: ['h1', 'h2', 'p'],
     };
   }
 
@@ -2009,6 +2033,8 @@ export function getMetaForPath(pathname) {
         { name: 'Home', url: BASE_URL },
         { name: 'Kit Builder', url: `${BASE_URL}/kit-builder` },
       ],
+      speakableSchema: true,
+      speakableCssSelector: ['h1', 'h2', 'p'],
     };
   }
 
@@ -2033,6 +2059,8 @@ export function getMetaForPath(pathname) {
         { name: 'Tools', url: `${BASE_URL}/tools` },
         { name: 'Gear Search', url: `${BASE_URL}/tools/gear-search` },
       ],
+      speakableSchema: true,
+      speakableCssSelector: ['h1', 'h2', 'p'],
     };
   }
 
@@ -2056,6 +2084,8 @@ export function getMetaForPath(pathname) {
         { name: 'Tools', url: `${BASE_URL}/tools` },
         { name: 'Dream Set Builder', url: `${BASE_URL}/tools/dream-set-builder` },
       ],
+      speakableSchema: true,
+      speakableCssSelector: ['h1', 'h2', 'p'],
     };
   }
 
@@ -2080,6 +2110,8 @@ export function getMetaForPath(pathname) {
         { name: 'Tools', url: `${BASE_URL}/tools` },
         { name: 'Setup Builder', url: `${BASE_URL}/tools/setup-builder` },
       ],
+      speakableSchema: true,
+      speakableCssSelector: ['h1', 'h2', 'p'],
     };
   }
 
@@ -2105,6 +2137,8 @@ export function getMetaForPath(pathname) {
         { name: 'Tools', url: `${BASE_URL}/tools` },
         { name: 'Tier List', url: `${BASE_URL}/tools/tier-list` },
       ],
+      speakableSchema: true,
+      speakableCssSelector: ['h1', 'h2', 'p'],
     };
   }
 
@@ -2747,6 +2781,8 @@ export function getMetaForPath(pathname) {
         { name: 'Home', url: BASE_URL },
         { name: 'Bands', url: `${BASE_URL}/bands` },
       ],
+      speakableSchema: true,
+      speakableCssSelector: ['h1', 'h2', 'p'],
     };
   }
 
@@ -4916,6 +4952,8 @@ export function getMetaForPath(pathname) {
           answer: 'Lars Ulrich quotes on drumming, gear, and Metallica are featured on the /quotes hub, with his full gear breakdown on his profile at /drummer/lars-ulrich.',
         },
       ],
+      speakableSchema: true,
+      speakableCssSelector: ['h1', 'h2', 'p'],
     };
   }
 
@@ -4962,6 +5000,8 @@ export function getMetaForPath(pathname) {
           answer: 'Tama and DW Drums lead metal drummer endorsements in the MetalForge database, followed by Pearl, Ludwig, Zildjian, and Meinl for cymbals.',
         },
       ],
+      speakableSchema: true,
+      speakableCssSelector: ['h1', 'h2', 'p'],
     };
   }
 
@@ -5494,6 +5534,8 @@ export function getMetaForPath(pathname) {
         { name: 'Home', url: BASE_URL },
         { name: 'Songs', url: `${BASE_URL}/songs` },
       ],
+      speakableSchema: true,
+      speakableCssSelector: ['h1', 'h2', 'p'],
     };
   }
 
@@ -5831,6 +5873,8 @@ export function getMetaForPath(pathname) {
           ],
         },
       ].filter(Boolean)),
+      speakableSchema: true,
+      speakableCssSelector: ['h1', 'h2', 'p'],
     };
   }
 
@@ -6013,6 +6057,8 @@ export function getMetaForPath(pathname) {
           ],
         },
       ].filter(Boolean)),
+      speakableSchema: true,
+      speakableCssSelector: ['h1', 'h2', 'p'],
     };
   }
 
@@ -6185,6 +6231,8 @@ export function getMetaForPath(pathname) {
           ],
         },
       ].filter(Boolean)),
+      speakableSchema: true,
+      speakableCssSelector: ['h1', 'h2', 'p'],
     };
   }
 
@@ -6204,6 +6252,8 @@ export function getMetaForPath(pathname) {
         generateSnareBestForMetalFaqSchema(),
         generateSnareBestForMetalBreadcrumbSchema(),
       ].filter(Boolean)),
+      speakableSchema: true,
+      speakableCssSelector: ['h1', 'h2', 'p'],
     };
   }
 
@@ -6351,6 +6401,8 @@ export function getMetaForPath(pathname) {
           ],
         },
       ].filter(Boolean)),
+      speakableSchema: true,
+      speakableCssSelector: ['h1', 'h2', 'p'],
     };
   }
 
@@ -6370,6 +6422,8 @@ export function getMetaForPath(pathname) {
         generatePedalBestForMetalFaqSchema(),
         generatePedalBestForMetalBreadcrumbSchema(),
       ].filter(Boolean)),
+      speakableSchema: true,
+      speakableCssSelector: ['h1', 'h2', 'p'],
     };
   }
 

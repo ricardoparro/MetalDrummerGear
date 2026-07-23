@@ -3556,6 +3556,48 @@ const drummers = [
     videos: [
       { title: 'Slayer - Killing Fields (Drum Playthrough by Former Slayer Drummer Jon Dette)', youtubeId: 'jbvzXH__12k', year: 2022 }
     ]
+  },
+  {
+    id: 68,
+    name: 'Jimmy DeGrasso',
+    band: 'Megadeth',
+    bands: [
+      { name: 'Megadeth', period: '1998–2002', current: false },
+      { name: 'Y&T', period: '1987–1991, 1995–1997', current: false },
+      { name: 'Suicidal Tendencies', period: '1992–1995', current: false },
+      { name: 'Alice Cooper', period: '1994–1998, 2008–2010', current: false }
+    ],
+    genre: 'Thrash Metal',
+    country: 'USA',
+    image: '/images/drummers/jimmy-degrasso.webp',
+    bio: "Jimmy DeGrasso (born March 16, 1963, in Bethlehem, Pennsylvania) is an American drummer best known for his 1998–2002 tenure in Megadeth, recording Risk (1999), The World Needs a Hero (2001), and the band's first live release, Rude Awakening (2002). He relocated to Los Angeles in the 1980s and played on pre-production demos for Ozzy Osbourne's The Ultimate Sin, though he was replaced by Randy Castillo before recording began. He went on to touring/recording stints with Y&T, Suicidal Tendencies, and Alice Cooper, and later drummed for Dokken, Black Star Riders, and Ratt.",
+    kitOverview: "Jimmy DeGrasso's Megadeth-era rig centered on a Pearl drum kit paired with his own Pearl JD1455 signature snare — a 14x5.5\" hammered brass shell with gold-plated hardware that Pearl unveiled at the 2008 NAMM Show, built for the cut and authority loud, amplified thrash metal demands. Sabian cymbals rounded out the setup, a relationship DeGrasso has maintained across his touring career with Megadeth, Alice Cooper, and other hard rock acts.\n\nPromark drumsticks and Evans drumheads completed the rig DeGrasso used through Megadeth's Risk (1999) and The World Needs a Hero (2001) sessions and the Rude Awakening (2002) live recording — his highest-profile tenure after joining the band with only days of notice to learn its full back catalogue.",
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Jimmy_DeGrasso',
+      'https://sabian.com/artist/jimmy-degrasso/'
+    ],
+    gear: {
+      drums: 'Pearl',
+      snare: 'Pearl JD1455 Jimmy DeGrasso Signature 14x5.5" Hammered Brass',
+      cymbals: 'Sabian',
+      sticks: 'Promark',
+      heads: 'Evans',
+      verified: true,
+      notes: 'Hardware/pedal brand not independently confirmed — omitted rather than guessed.',
+      sources: ['https://sabian.com/artist/jimmy-degrasso/', 'https://www.musicradar.com/news/drums/namm-2008-megadeth-drummer-reveals-pearl-signature-snare-126963', 'https://www.sweetwater.com/store/detail/JD1455--pearl-jimmy-degrasso-signature-snare']
+    },
+    photos: [
+      '/images/drummers/jimmy-degrasso.webp' // Original: https://upload.wikimedia.org/wikipedia/commons/7/7e/Jimmy_DeGrasso_by_bigdrumthump.jpg (CC BY 2.0, bigdrumthump)
+    ],
+    endorsements: [
+      { name: 'Pearl Drums', url: 'https://pearldrum.com' },
+      { name: 'Sabian Cymbals', url: 'https://sabian.com' },
+      { name: 'Promark Sticks', url: 'https://www.daddario.com/promark' },
+      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
+    ],
+    videos: [
+      { title: 'Jimmy DeGrasso (Megadeth) Interview with Jason Saulnier', youtubeId: 'nTduRvhytiY', year: 2012 }
+    ]
   }
 ];
 

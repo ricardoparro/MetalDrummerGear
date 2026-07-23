@@ -126,12 +126,28 @@ reclaim_orphans() {
 # seo-proposal label lingers.
 next_issue() {
   local n; local -a claimable=()
-  for n in $(gh issue list --repo "$REPO" --state open --limit 300 \
+  # Fetch first, into a variable, so a failed `gh issue list` (network blip, API
+  # hiccup, transient auth error) is distinguishable from a genuinely empty
+  # eligible list. Previously stderr was swallowed with 2>/dev/null directly in
+  # the for-loop's command substitution, so a failed call and an empty queue
+  # both looked like "0 claimable" — an entire 8-wide fleet run went idle on a
+  # transient gh failure with no diagnostic trail (#4962).
+  local issue_nums gh_rc
+  issue_nums=$(gh issue list --repo "$REPO" --state open --limit 300 \
       --json number,labels \
       --jq '[.[] | select(
               (([.labels[].name] - ["human","human-founder","needs-human","in-progress","pr-opened","wontfix","invalid","duplicate","question","do-not-merge","hold","wip","blocked"]) == [.labels[].name])
               and (([.labels[].name] | index("seo-proposal") | not) or ([.labels[].name] | index("ai-fix")))
-            )] | sort_by(.number) | .[].number' 2>/dev/null); do
+            )] | sort_by(.number) | .[].number' 2>/dev/null)
+  gh_rc=$?
+  if (( gh_rc != 0 )); then
+    # next_issue's stdout is captured via `ISSUE=$(next_issue)` by the caller, so
+    # this diagnostic must go to stderr — on stdout it would silently become
+    # part of $ISSUE instead of reaching the run log.
+    log "gh issue list failed (rc=$gh_rc) — treating as fetch error, not drained" >&2
+    return 2
+  fi
+  for n in $issue_nums; do
     [ -n "${TRIED[$n]:-}" ] && continue   # already attempted this run — don't loop on it
     open_pr_for "$n" && continue
     branch_exists_for "$n" && continue
@@ -253,7 +269,17 @@ while :; do
     log "Wall-clock guard (${WALL_CAP}s) hit — exiting cleanly; next run resumes the drain."
     break
   fi
-  ISSUE=$(next_issue) || { log "No eligible issues remain — queue drained."; break; }
+  ISSUE=$(next_issue); rc=$?
+  if (( rc == 2 )); then
+    log "Backing off 15s before retrying the issue fetch once..."
+    sleep 15
+    ISSUE=$(next_issue); rc=$?
+  fi
+  if (( rc == 2 )); then
+    log "gh issue list failed again after retry — bailing this run without concluding the queue is drained; next run resumes."
+    break
+  fi
+  (( rc != 0 )) && { log "No eligible issues remain — queue drained."; break; }
   implement_issue "$ISSUE"
   if (( CONSEC_FAIL >= NOOP_CIRCUIT )); then
     log "Circuit breaker: ${CONSEC_FAIL} consecutive no-ops/errors — likely Claude rate-limit or auth; bailing so we don't grind the queue or burn the GitHub API. Next run resumes."

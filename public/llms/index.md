@@ -90,7 +90,7 @@ This index provides machine-readable links to all content optimized for LLM cons
 
 ---
 
-## Drummer Profiles (67 total)
+## Drummer Profiles (68 total)
 
 | Drummer | Band | Genre | Profile | Markdown API |
 |---------|------|-------|---------|--------------|
@@ -161,10 +161,11 @@ This index provides machine-readable links to all content optimized for LLM cons
 | Nick Menza | Megadeth | Thrash Metal | [Profile](https://metalforge.io/drummer/nick-menza) | [Markdown](https://metalforge.io/api/drummer/nick-menza/markdown) |
 | Adrian Erlandsson | At the Gates | Melodic Death Metal | [Profile](https://metalforge.io/drummer/adrian-erlandsson) | [Markdown](https://metalforge.io/api/drummer/adrian-erlandsson/markdown) |
 | Jon Dette | Slayer | Thrash Metal | [Profile](https://metalforge.io/drummer/jon-dette) | [Markdown](https://metalforge.io/api/drummer/jon-dette/markdown) |
+| Jimmy DeGrasso | Megadeth | Thrash Metal | [Profile](https://metalforge.io/drummer/jimmy-degrasso) | [Markdown](https://metalforge.io/api/drummer/jimmy-degrasso/markdown) |
 
 ---
 
-## Per-Drummer LLM Files (67 total)
+## Per-Drummer LLM Files (68 total)
 
 Static LLM-optimised files for every drummer — gear specs, primary brands, technique notes, and profile links.
 Optimised for AI retrieval on queries like "what kit does Lars Ulrich play?" or "which cymbals does Joey Jordison use?".

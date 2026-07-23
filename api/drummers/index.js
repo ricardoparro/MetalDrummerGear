@@ -3556,6 +3556,58 @@ const drummers = [
     videos: [
       { title: 'Slayer - Killing Fields (Drum Playthrough by Former Slayer Drummer Jon Dette)', youtubeId: 'jbvzXH__12k', year: 2022 }
     ]
+  },
+  {
+    // Issue #4926 (split 1/5 of #4748 roster expansion): thrash metal roster
+    // gap — Megadeth's Risk/World Needs a Hero/Rude Awakening-era drummer.
+    id: 68,
+    name: 'Jimmy DeGrasso',
+    band: 'Megadeth',
+    bands: [
+      { name: 'Ozzy Osbourne', period: '1986', current: false },
+      { name: 'Y&T', period: '1987–1990', current: false },
+      { name: 'Suicidal Tendencies', period: '1992–1995', current: false },
+      { name: 'Alice Cooper', period: '1995–1997', current: false },
+      { name: 'Megadeth', period: '1998–2002', current: false },
+      { name: 'Black Star Riders', period: '2012–2017', current: false }
+    ],
+    genre: 'Thrash Metal',
+    country: 'USA',
+    image: '/images/drummers/jimmy-degrasso.webp',
+    bio: 'Jimmy DeGrasso (born March 16, 1963, in Pennsylvania) is an American heavy metal drummer best known for his 1998–2002 tenure with Megadeth, recording Risk (1999) and The World Needs a Hero (2001) and appearing on the band\'s first live album, Rude Awakening (2002). Before Megadeth, DeGrasso built a touring and session résumé spanning Ozzy Osbourne (The Ultimate Sin, 1986), Y&T (1987–1990), Suicidal Tendencies (1992–1995), and Alice Cooper (1995–1997), and he later drummed for Black Star Riders (2012–2017).',
+    kitOverview: 'Jimmy DeGrasso\'s drum kit centers on a long-running DW Drums endorsement, confirmed on DW\'s own artist page alongside his Suicidal Tendencies, Megadeth, Alice Cooper, and Ratt credits. His cymbal setup has been built around SABIAN throughout the Megadeth and Alice Cooper years — SABIAN\'s own artist profile confirms the relationship, and in 2008 the company issued DeGrasso a limited-edition 23" OverRide ride cymbal: a hand-hammered B20 bronze model with an 8" power bell and Brilliant finish, built in a run of just 200. That same year, DeGrasso toured drum clinics worldwide endorsing SABIAN cymbals, Evans drumheads, and Promark sticks — the combination associated with his Megadeth-era and post-Megadeth drum set. Specific snare and hardware models from his Megadeth tenure are not publicly documented, so they are omitted here rather than guessed.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Jimmy_DeGrasso',
+      'https://drummerszone.com/artists/jimmy-degrasso/815/profile/'
+    ],
+    gear: {
+      drums: 'DW (Drum Workshop)',
+      cymbals: 'SABIAN (signature 23" OverRide Ride, 2008 limited edition of 200)',
+      sticks: 'Promark',
+      heads: 'Evans',
+      verified: true,
+      sources: [
+        'https://www.dwdrums.com/artists/jimmy-degrasso/',
+        'https://sabian.com/artist/jimmy-degrasso/',
+        'https://www.musicradar.com/news/drums/sabian-releases-hard-rock-override-cymbal-126088'
+      ]
+    },
+    photos: [
+      '/images/drummers/jimmy-degrasso.webp' // Original: https://commons.wikimedia.org/wiki/File:Jimmy_DeGrasso_by_bigdrumthump.jpg (CC BY 2.0)
+    ],
+    endorsements: [
+      { name: 'DW Drums', url: 'https://www.dwdrums.com' },
+      { name: 'Sabian Cymbals', url: 'https://sabian.com' },
+      { name: 'Promark Sticks', url: 'https://www.daddario.com/promark' },
+      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
+    ],
+    videos: [
+      { title: 'Jimmy DeGrasso Drum Solo — LIVE Maifest, Vienna, Austria', youtubeId: 'F6bvNyWOIMg', year: 2009 },
+      { title: 'Jimmy DeGrasso at NAMM', youtubeId: 'ZVSyc7YHdr4', year: 2018 }
+    ],
+    quotes: [
+      { text: 'Now we do the double kick a little differently. We do broken phrases, not so much digga-digga-digga-digga. It\'s more groove-oriented.', source: 'LA Weekly (via MetalJazz)', year: 2001 }
+    ]
   }
 ];
 

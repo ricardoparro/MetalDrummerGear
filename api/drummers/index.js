@@ -3728,6 +3728,53 @@ const drummers = [
       { text: "Embrace the art! Whether it's two-foot blasting, double strokes, one-handed rolls, triggers, etc., if it makes you feel good as a player, USE IT!", source: "Modern Drummer", year: 2011 },
       { text: "They have to write sensibly, not only to keep it interesting for the listener, but to keep it playable for the damn drummer.", source: "Exclaim!", year: 2008 }
     ]
+  },
+  {
+    id: 72,
+    name: 'Waltteri Väyrynen',
+    band: 'Opeth',
+    bands: [
+      { name: 'Paradise Lost', period: '2015–2022 (session 2015–2016, official from 2016)', current: false },
+      { name: 'Bodom After Midnight', period: '2020–2021', current: false },
+      { name: 'Abhorrence', period: '2016–present', current: true },
+      { name: 'Opeth', period: '2022–present', current: true }
+    ],
+    genre: 'Progressive Metal / Gothic Doom Metal',
+    country: 'Finland',
+    image: '/images/drummers/waltteri-vayrynen.webp',
+    bio: "Waltteri Väyrynen is a Finnish drummer born July 5, 1994, in Puolanka, Finland, now based in Helsinki. He first appeared as a session drummer for British gothic doom metal band Paradise Lost in 2015, became an official member in 2016, and recorded the albums Medusa (2017) and Obsidian (2020) with the band before departing in September 2022. In 2020, while still in Paradise Lost, he joined Bodom After Midnight — the project former Children of Bodom frontman Alexi Laiho formed after that band's 2019 split — tracking material later released posthumously as the Paint the Sky with Blood EP (2021) following Laiho's death in December 2020. Väyrynen has also drummed for Finnish death metal band Abhorrence since 2016 and performed live with Bloodbath. In September 2022 he joined Swedish progressive metal band Opeth, replacing longtime drummer Martin Axenrot, and recorded his first album with the band, The Last Will and Testament (2024). His stated influences include Dirk Verbeuren, Kai Hahto, and Daniel Erlandsson.",
+    kitOverview: "Waltteri Väyrynen is an endorsed Pearl Drums artist — the relationship is confirmed via Pearl's own artist roster, though that page blocks automated access, so specific shell sizes and finish are omitted rather than guessed; Antelope Audio's writeup of his 2020 studio session at Orgone Studios independently corroborates the Pearl (and Sabian) gear. His Sabian cymbal endorsement is documented on Sabian's own artist page, which names a 22\" HH Power Bell Ride as his favourite piece in the setup — the rest of his cymbal lineup isn't itemized there, so only that confirmed piece is listed here.\n\nHe plays Wincent's W-5BXL signature stick model, announced through Wincent's artist roster in December 2022.",
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Waltteri_V%C3%A4yrynen',
+      'https://www.wikidata.org/wiki/Q33524365',
+      'https://www.instagram.com/waltsunfyre/',
+      'https://www.discogs.com/artist/5371255-Waltteri-V%C3%A4yrynen',
+      'https://www.allmusic.com/artist/waltteri-v%C3%A4yrynen-mn0003667066'
+    ],
+    gear: {
+      drums: "Pearl (endorsement confirmed via Pearl's own artist roster and corroborated by Antelope Audio's 2020 studio-session writeup; specific kit model/shell sizes not independently documented — omitted rather than guessed)",
+      cymbals: 'Sabian (endorsed artist; confirmed favourite piece per Sabian\'s own artist page: 22" HH Power Bell Ride — full setup not itemized there, so omitted rather than guessed)',
+      sticks: 'Wincent W-5BXL',
+      verified: true,
+      verifiedAt: '2026-07-23',
+      sources: ['https://sabian.com/artist/waltteri-vayrynen/', 'https://www.drummingnewsnetwork.com/?p=11605', 'https://en.antelopeaudio.com/2020/05/recording-drums-with-waltteri-vayrynen/']
+    },
+    photos: [
+      '/images/drummers/waltteri-vayrynen.webp' // Original: https://upload.wikimedia.org/wikipedia/commons/a/a4/Paradise_Lost_Rockharz_2018_03.jpg (CC BY, Stefan Bollmann; Paradise Lost live at Rockharz Open Air 2018, Ballenstedt, Germany)
+    ],
+    endorsements: [
+      { name: 'Pearl Drums', url: 'https://pearldrum.com' },
+      { name: 'Sabian Cymbals', url: 'https://sabian.com' },
+      { name: 'Wincent Drumsticks', url: 'https://www.wincentdrumsticks.com' }
+    ],
+    videos: [
+      { title: "Waltteri Väyrynen: Paradise Lost - Forsaken (live drum cam, Athens '22)", youtubeId: 'sCHoc7OO9TE', year: 2022 },
+      { title: 'Waltteri Väyrynen: Paradise Lost - Serenity (drum cam from Electric Ballroom, London 2022)', youtubeId: 'J4lvVPr7ENg', year: 2022 },
+      { title: 'Waltteri Väyrynen - Opeth - Paragraph 7 (§7) - live drum cam', youtubeId: 'mfpiRNoNONU', year: 2026 }
+    ],
+    quotes: [
+      { text: "I realized I never posted publicly this video that eventually got me the gig in Opeth.", source: "Blabbermouth.net", year: 2025 }
+    ]
   }
 ];
 

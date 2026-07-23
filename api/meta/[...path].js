@@ -752,6 +752,10 @@ export function getMetaForPath(pathname) {
         { name: 'Home', url: BASE_URL },
         { name: 'Timeline', url: `${BASE_URL}/timeline` },
       ],
+      faqSchema: [
+        { question: 'What does the MetalForge drumming evolution timeline cover?', answer: `The timeline tracks ${eventCount} milestone events in metal drumming from ${firstYear} to ${lastYear}, spanning genre-defining techniques, gear innovations, and lineup changes.` },
+        { question: 'Is the timeline updated with new milestones?', answer: 'Yes — new entries are added as significant metal drumming milestones (technique breakthroughs, gear releases, band lineup changes) occur.' },
+      ],
     };
   }
 
@@ -789,6 +793,10 @@ export function getMetaForPath(pathname) {
       breadcrumbSchema: [
         { name: 'Home', url: BASE_URL },
         { name: 'Gear Finder', url: `${BASE_URL}/gear-finder` },
+      ],
+      faqSchema: [
+        { question: 'How many drummers can I search gear for on the Gear Finder?', answer: `The Gear Finder indexes gear for ${Object.keys(DRUMMER_GEAR).length} pro metal drummers — filter by drummer, brand, or equipment type to find exactly what kit, cymbals, or hardware they use.` },
+        { question: 'Can I filter gear by brand on the Gear Finder?', answer: `Yes — the Gear Finder covers ${Object.values(BRAND_SEO_DATA).length} gear brands, letting you filter by brand alongside drummer and equipment type.` },
       ],
     };
   }
@@ -1339,6 +1347,10 @@ export function getMetaForPath(pathname) {
         url: `${BASE_URL}/gear`,
         publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
       }),
+      breadcrumbSchema: [
+        { name: 'Home', url: BASE_URL },
+        { name: 'Gear', url: `${BASE_URL}/gear` },
+      ],
       faqSchema: [
         { question: 'What gear do metal drummers use?', answer: 'MetalForge tracks the drum kits, cymbals, snares, pedals, sticks, and hardware used by 67 pro metal drummers — browse the full gear hub at /gear to see exactly what your favorite drummers play.' },
         { question: 'Can I shop for drum gear by brand?', answer: 'Yes — the MetalForge gear hub lets you filter by brand (Tama, Pearl, Mapex, Zildjian, Meinl, and more) to see every pro metal drummer endorsing that brand and the exact gear they use.' },
@@ -1380,6 +1392,10 @@ export function getMetaForPath(pathname) {
         { name: 'Home', url: BASE_URL },
         { name: 'Gear by Budget', url: `${BASE_URL}/gear-by-budget` },
       ],
+      faqSchema: [
+        { question: 'How many budget tiers does MetalForge offer for drum gear?', answer: `MetalForge curates drum kit recommendations across ${Object.values(BUDGET_TIERS).length} budget tiers — ${Object.values(BUDGET_TIERS).map(t => t.label).join(', ')} — each matched against gear used by 67 pro metal drummers.` },
+        { question: 'What can I get with an entry-level metal drum kit budget?', answer: `MetalForge's ${BUDGET_TIERS.entry.label} tier covers setups under $${BUDGET_TIERS.entry.maxPrice.toLocaleString()} — ${BUDGET_TIERS.entry.description.toLowerCase()}.` },
+      ],
     };
   }
 
@@ -1414,6 +1430,10 @@ export function getMetaForPath(pathname) {
       breadcrumbSchema: [
         { name: 'Home', url: BASE_URL },
         { name: 'Gear News', url: `${BASE_URL}/gear-news` },
+      ],
+      faqSchema: [
+        { question: 'What kind of gear news does MetalForge track?', answer: `The /gear-news hub tracks ${GEAR_NEWS.length} entries covering new product releases, artist gear announcements, and industry updates for metal drumming equipment.` },
+        { question: 'How often is MetalForge gear news updated?', answer: 'MetalForge adds new entries to /gear-news as metal drumming gear releases, artist announcements, and industry updates happen.' },
       ],
     };
   }
@@ -1487,6 +1507,10 @@ export function getMetaForPath(pathname) {
       breadcrumbSchema: [
         { name: 'Home', url: BASE_URL },
         { name: 'Cards', url: `${BASE_URL}/cards` },
+      ],
+      faqSchema: [
+        { question: 'How many drummer gear cards are available?', answer: `MetalForge offers shareable gear cards for ${CARD_DRUMMERS.length} drummers — each summarizing their kit, cymbals, and hardware in a downloadable image.` },
+        { question: 'Are the gear cards free to download and share?', answer: 'Yes — every gear card on /cards is free to download and share on Instagram, Twitter, and other platforms.' },
       ],
     };
   }
@@ -1985,6 +2009,10 @@ export function getMetaForPath(pathname) {
         { name: 'Home', url: BASE_URL },
         { name: 'Kit Quiz', url: `${BASE_URL}/kit-quiz` },
       ],
+      faqSchema: [
+        { question: 'Is the Metal Drummer Kit Quiz free to use?', answer: 'Yes — the Kit Quiz is a free tool that recommends the perfect drum kit for your playing style based on your preferences and budget.' },
+        { question: 'How does the Kit Quiz work?', answer: 'Take the quiz to get personalized drum kit recommendations based on your playing style, preferences, and budget.' },
+      ],
     };
   }
 
@@ -2008,6 +2036,10 @@ export function getMetaForPath(pathname) {
       breadcrumbSchema: [
         { name: 'Home', url: BASE_URL },
         { name: 'Kit Builder', url: `${BASE_URL}/kit-builder` },
+      ],
+      faqSchema: [
+        { question: 'Is the Virtual Drum Kit Builder free to use?', answer: 'Yes — the Kit Builder is a free tool for building your dream metal drum kit piece by piece, with price estimates and affiliate links.' },
+        { question: 'How does the Kit Builder work?', answer: 'Mix and match shells, cymbals, and hardware from legendary drummers to build your dream setup, and get price estimates as you go.' },
       ],
     };
   }
@@ -2033,6 +2065,10 @@ export function getMetaForPath(pathname) {
         { name: 'Tools', url: `${BASE_URL}/tools` },
         { name: 'Gear Search', url: `${BASE_URL}/tools/gear-search` },
       ],
+      faqSchema: [
+        { question: 'Is the Gear Search tool free to use?', answer: 'Yes — Gear Search is a free tool for searching and filtering drum gear used by 67 metal legends by brand, price, or drummer.' },
+        { question: 'How does the Gear Search tool work?', answer: 'Search and filter kits, cymbals, pedals, and sticks used by 67 metal legends by brand, price, or drummer to find exactly what you need.' },
+      ],
     };
   }
 
@@ -2055,6 +2091,10 @@ export function getMetaForPath(pathname) {
         { name: 'Home', url: BASE_URL },
         { name: 'Tools', url: `${BASE_URL}/tools` },
         { name: 'Dream Set Builder', url: `${BASE_URL}/tools/dream-set-builder` },
+      ],
+      faqSchema: [
+        { question: 'Is the Dream Set Builder free to use?', answer: 'Yes — the Dream Set Builder is a free tool for building your ultimate metal drum kit by combining gear from your favourite drummers.' },
+        { question: 'How does the Dream Set Builder work?', answer: 'Mix gear from different drummers — like Lars Ulrich shells with George Kollias cymbals — to build your ultimate metal drum kit.' },
       ],
     };
   }
@@ -2080,6 +2120,10 @@ export function getMetaForPath(pathname) {
         { name: 'Tools', url: `${BASE_URL}/tools` },
         { name: 'Setup Builder', url: `${BASE_URL}/tools/setup-builder` },
       ],
+      faqSchema: [
+        { question: 'Is the Dream Setup Builder free to use?', answer: 'Yes — the Setup Builder is a free guided wizard that recommends a metal drum kit setup matched against real pro drummer setups.' },
+        { question: 'How does the Setup Builder work?', answer: 'Answer a few questions about your budget, genre, and skill level to get a personalized metal drum kit recommendation, matched against real pro drummer setups.' },
+      ],
     };
   }
 
@@ -2104,6 +2148,10 @@ export function getMetaForPath(pathname) {
         { name: 'Home', url: BASE_URL },
         { name: 'Tools', url: `${BASE_URL}/tools` },
         { name: 'Tier List', url: `${BASE_URL}/tools/tier-list` },
+      ],
+      faqSchema: [
+        { question: 'Is the Metal Drummer Tier List free to use?', answer: 'Yes — the Tier List tool is free and lets you create your own ranking of metal drummers from S to D tier.' },
+        { question: 'How does the Metal Drummer Tier List work?', answer: 'Rank legends like Joey Jordison, Dave Lombardo, and George Kollias from S to D tier to build your own tier list.' },
       ],
     };
   }
@@ -2746,6 +2794,10 @@ export function getMetaForPath(pathname) {
       breadcrumbSchema: [
         { name: 'Home', url: BASE_URL },
         { name: 'Bands', url: `${BASE_URL}/bands` },
+      ],
+      faqSchema: [
+        { question: 'How many bands does MetalForge track drummers for?', answer: `MetalForge covers ${Object.values(BAND_DATA).length} metal bands, tracking each band's current and former drummers, lineup history, and gear.` },
+        { question: 'Does MetalForge track band lineup changes?', answer: 'Yes — every band page includes drummer tenure history (join/departure years) alongside gear and discography details.' },
       ],
     };
   }
@@ -5493,6 +5545,10 @@ export function getMetaForPath(pathname) {
       breadcrumbSchema: [
         { name: 'Home', url: BASE_URL },
         { name: 'Songs', url: `${BASE_URL}/songs` },
+      ],
+      faqSchema: [
+        { question: 'How many metal songs does MetalForge track BPM for?', answer: `MetalForge's songs database covers ${metalSongs.length} metal songs across ${tiers.length} tempo tiers, each with a verified BPM and its recording drummer.` },
+        { question: 'What is the fastest metal song in the database?', answer: `The /songs/fastest-metal-songs page ranks ${fastest.length} songs at 200+ BPM, sourced from the same verified-BPM database as the rest of /songs.` },
       ],
     };
   }

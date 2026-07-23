@@ -8,7 +8,7 @@ export const TOP_10_LISTS = {
     emoji: '⚡',
     description: 'The speed demons of metal drumming. These drummers are known for their incredible blast beats, rapid double bass, and blistering tempos that push the boundaries of human capability.',
     seoDescription: 'Discover the fastest metal drummers in the world. From blast beat masters to double bass legends, these drummers define speed in heavy metal.',
-    drummerIds: [6, 19, 21, 5, 15, 7, 17, 20, 25, 22],
+    drummerIds: [6, 19, 21, 5, 15, 7, 17, 20, 25, 70],
     rankings: {
       6: { rank: 1, highlight: 'Legendary for 280+ BPM blast beats', reason: 'The fastest feet in death metal with unmatched endurance' },
       19: { rank: 2, highlight: 'Extreme precision at insane speeds', reason: 'Behemoth\'s relentless blast beat fury' },
@@ -19,7 +19,7 @@ export const TOP_10_LISTS = {
       17: { rank: 7, highlight: 'Technical death metal precision', reason: 'Lamb of God\'s groove with bursts of speed' },
       20: { rank: 8, highlight: 'Black metal velocity', reason: 'Mayhem\'s legendary extreme metal pioneer' },
       25: { rank: 9, highlight: 'Progressive speed machine', reason: 'Trivium\'s technical prowess and speed' },
-      22: { rank: 10, highlight: 'Thrash revival speed', reason: 'Lamb of God\'s new generation speedster' },
+      70: { rank: 10, highlight: 'Pioneered extreme double-bass and one-handed roll technique', reason: 'Origin\'s speed-record drummer, built for 280+ BPM technical death metal' },
     },
   },
   'death-metal-drummers': {

@@ -3632,6 +3632,55 @@ const drummers = [
       { title: 'LOCK UP - Accelerated Mutation - Nicholas Barker - Live in Poland (Drum Cam)', youtubeId: 'm1VxJvAR6NU', year: 2017 },
       { title: 'Czarcie Kopyto Drum Cam - Nicholas Barker (Lock Up) - Brethren of the Pentagram, Krakow', youtubeId: 'PMaxFEL5zbo', year: 2017 }
     ]
+  },
+  {
+    id: 70,
+    name: 'John Longstreth',
+    band: 'Origin',
+    bands: [
+      { name: 'Angelcorpse', period: '1996–1998, 2006–2007', current: false },
+      { name: 'Origin', period: '1999–2003, 2006–present', current: true },
+      { name: 'Skinless', period: '2003', current: false }
+    ],
+    genre: 'Technical Death Metal / Brutal Death Metal',
+    country: 'USA',
+    image: '/images/drummers/john-longstreth.webp',
+    bio: "John Longstreth (born February 26, 1976, in Burlington, Wisconsin) is an American extreme metal drummer widely regarded as one of the fastest and most technically proficient drummers in death metal, credited with pioneering extreme double-bass and one-handed drum roll techniques that have since spread through the genre. He joined Angelcorpse in 1996, recording Hammer of Gods (1996) and Exterminate (1998) before the band's split, then rejoined for its 2006–2007 reunion. In February 1999 he joined Kansas City technical death metal pioneers Origin, appearing on their self-titled debut (2000) and Informis Infinitas Inhumanitas (2002); after resigning in 2003 he rejoined in April 2006 and has remained Origin's drummer since, recording Echoes of Decimation (2005) through Chaosmos (2022). In January 2003 he joined Skinless to record From Sacrifice to Survival and tour behind it. He also drummed for Gorguts from 2009 to 2014, and filled in for Hate Eternal on their November 2018 North American tour with Cannibal Corpse. Longstreth now teaches drumming at The Collective in New York City.",
+    kitOverview: "John Longstreth's current kit is built around Pearl — \"Everything is Pearl as far as the drums are concerned,\" he has said, and Pearl Drums lists him as an active artist. His most detailed documented setup (Sick Drummer Magazine's Killer Kits feature, from Origin's Antithesis era) was a Pearl Reference kit in piano black finish: 8x7\" and 10x8\" toms, 12x8\" and 14x14\" floor toms, and a 20x18\" kick, paired with a 14x5\" Pearl Reference snare and a 10x6\" Pearl Mike Mangini Signature snare, driven through an Axis A Longboard double pedal with Marksman beaters and a custom heel block.\n\nHis cymbal endorsement has since moved to Meinl: the brand's artist page lists him on the Classics Custom Dark series — an 8\" Dark Splash (CC8DAS), 14\" Dark Hihats (CC14DAH), and 18\" Dark China (CC18DACH) — plus a 12\"/14\" Generation X Trash Hat. He also endorses Scorpion Percussion's stick line with his own signature model, the \"Wee Heavy\": \"I love Scorpion. Check out my 'WEE HEAVY' Signature sticks!\"",
+    sameAs: [
+      'https://pl.wikipedia.org/wiki/John_Longstreth',
+      'https://www.wikidata.org/wiki/Q11727929',
+      'https://www.metal-archives.com/artists/John_Longstreth/580',
+      'https://www.instagram.com/longstrethjohn/'
+    ],
+    gear: {
+      drums: 'Pearl Reference Series, Piano Black finish',
+      snare: 'Pearl Reference 14x5", Pearl Mike Mangini Signature 10x6"',
+      cymbals: 'Meinl Classics Custom Dark Series (8" Dark Splash CC8DAS, 14" Dark Hihats CC14DAH, 18" Dark China CC18DACH), Meinl Generation X 12"/14" Trash Hat',
+      hardware: 'Axis A Longboard Double Pedal (Marksman beaters, custom heel block)',
+      sticks: 'Scorpion Percussion "Wee Heavy" Signature Drumsticks',
+      heads: 'Remo Clear Ambassador (toms), Remo Clear Power Stroke 2 (kick)',
+      verified: true,
+      notes: 'Drum/snare/hardware/head specs per Sick Drummer Magazine\'s Killer Kits feature (Origin, Antithesis era); cymbals and sticks reflect his current Meinl and Scorpion Percussion artist-page endorsements.',
+      sources: [
+        'https://sickdrummermagazine.com/news/killer-kits-studio/john-longstreth-origin-antithesis/',
+        'https://meinlcymbals.com/en/artists/john-longstreth-a12223.html',
+        'https://scorpionpercussion.com/pages/john-longstreth-signature-artist'
+      ]
+    },
+    photos: [
+      '/images/drummers/john-longstreth.webp' // Original: https://upload.wikimedia.org/wikipedia/commons/3/35/John_Longstreth.png (CC BY 3.0, Duude125) - his kit onstage with Hate Eternal, Rochester NY, Nov 10 2018
+    ],
+    endorsements: [
+      { name: 'Pearl Drums', url: 'https://pearldrum.com' },
+      { name: 'Meinl Cymbals', url: 'https://meinlcymbals.com' },
+      { name: 'Scorpion Percussion', url: 'https://scorpionpercussion.com' }
+    ],
+    videos: [
+      { title: 'Origin - John Longstreth Drum Cam at M.O.D 2010 (Staring From the Abyss)', youtubeId: 'KuxQtRN9wG0', year: 2010 },
+      { title: 'Origin - John Longstreth Drum Cam, Summer Slaughter (The Grove of Anaheim)', youtubeId: 'zEeDn_ITQag', year: 2017 },
+      { title: 'Origin - "Disease Called Man" John Longstreth Drum Cam, Live in Germany', youtubeId: 'UIXrlasrFtk', year: 2024 }
+    ]
   }
 ];
 

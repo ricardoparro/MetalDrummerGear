@@ -135,6 +135,8 @@ const drummers = [
   { id: 68, name: 'Jimmy DeGrasso' },
   // Issue #4927 (split 2/5 of #4748): Nick Barker (Dimmu Borgir/Cradle of Filth) — extreme/black metal roster gap.
   { id: 69, name: 'Nick Barker' },
+  // Issue #4930 (split 5/5 of #4748): John Longstreth (Origin/Angelcorpse/Skinless) — extreme-metal speed-record tie-in.
+  { id: 70, name: 'John Longstreth' },
 ];
 
 const gearItems = [

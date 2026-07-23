@@ -34,6 +34,11 @@ import { getGearComparisonBySlug } from '../../packages/frontend/data/gearCompar
 // Issue #3714: GEAR_INDEX_BRAND_LEVEL adds brand-only "drummers using" pages
 // (Evans, Remo drumheads) at the reserved series slug (see BRAND_LEVEL_SERIES_SLUG).
 import { GEAR_INDEX, GEAR_INDEX_BRAND_LEVEL } from '../../packages/frontend/data/gearIndex.js';
+// Issue #4913: reuse the curated buildFAQ() (pricing + related-series questions)
+// for this page family's bot-facing FAQPage instead of a hand-rolled 2-question
+// array. Only `.faq` is read from the result — never `.schema` (that bundles a
+// Product/AggregateOffer pointing at placeholder affiliate links; see affiliateLinks.js).
+import { getGearSeriesData } from '../../packages/frontend/data/gearSeriesPages.js';
 // Issue #1387: gear item drummer links — authoritative drummerIds live in the gear API.
 import { gearItems } from '../gear/[slug].js';
 // Issue #4689: /gear-by-budget ssrLinks — cross-references gearItems' priceUsd
@@ -5414,6 +5419,29 @@ export function getMetaForPath(pathname) {
             label: d.band ? `${d.name} (${d.band})` : d.name,
           })).filter(l => l.href)
         : null;
+      // Issue #4913: same buildFAQ()-via-getGearSeriesData reuse as the generic
+      // series handler below — richer FAQ (adds the "other drumhead brands"
+      // question for brand-level pages); falls back to the 2-question set if
+      // the slug lookup misses.
+      const brandFaqData = getGearSeriesData(brandSlug, BRAND_LEVEL_SERIES_SLUG, []);
+      const brandFaqMainEntity = brandFaqData?.faq?.length
+        ? brandFaqData.faq.map(f => ({
+            '@type': 'Question',
+            name: f.question,
+            acceptedAnswer: { '@type': 'Answer', text: f.answer },
+          }))
+        : [
+            {
+              '@type': 'Question',
+              name: `Which metal drummers use ${label}?`,
+              acceptedAnswer: { '@type': 'Answer', text: `${brandDrummers.length} metal drummers in the MetalForge database play ${label}, including ${nameList}.` },
+            },
+            {
+              '@type': 'Question',
+              name: `Is ${label} good for metal drumming?`,
+              acceptedAnswer: { '@type': 'Answer', text: `Yes — ${label} are a proven choice in the metal scene, used by ${brandDrummers.length} of the drummers we track.` },
+            },
+          ];
       return {
         title: `${brandDrummers.length} Drummers Who Use ${label} — Which Metal Drummers Play ${brandName}? | ${SITE_NAME}`,
         description: `See the ${brandDrummers.length} pro metal drummers who use ${label}, their exact head models where known, and where to buy. Featuring ${firstDrummer} and more.`,
@@ -5448,18 +5476,7 @@ export function getMetaForPath(pathname) {
           {
             '@context': 'https://schema.org',
             '@type': 'FAQPage',
-            mainEntity: [
-              {
-                '@type': 'Question',
-                name: `Which metal drummers use ${label}?`,
-                acceptedAnswer: { '@type': 'Answer', text: `${brandDrummers.length} metal drummers in the MetalForge database play ${label}, including ${nameList}.` },
-              },
-              {
-                '@type': 'Question',
-                name: `Is ${label} good for metal drumming?`,
-                acceptedAnswer: { '@type': 'Answer', text: `Yes — ${label} are a proven choice in the metal scene, used by ${brandDrummers.length} of the drummers we track.` },
-              },
-            ],
+            mainEntity: brandFaqMainEntity,
           },
           {
             '@context': 'https://schema.org',
@@ -5523,6 +5540,31 @@ export function getMetaForPath(pathname) {
         href: d.slug ? `/drummer/${d.slug}` : null,
         label: d.band ? `${d.name} (${d.band})` : d.name,
       })).filter(l => l.href);
+      // Issue #4913: prefer the curated buildFAQ() (adds pricing + related-series
+      // questions) via getGearSeriesData(); only its `.faq` array is read — never
+      // `.schema`, which bundles a Product/AggregateOffer we don't want here (see
+      // import comment above). Falls back to the old 2-question set if the slug
+      // lookup misses (e.g. a series with <2 drummers matched only by the loose
+      // loop above).
+      const seriesFaqData = getGearSeriesData(brandSlug, seriesSlug, []);
+      const faqMainEntity = seriesFaqData?.faq?.length
+        ? seriesFaqData.faq.map(f => ({
+            '@type': 'Question',
+            name: f.question,
+            acceptedAnswer: { '@type': 'Answer', text: f.answer },
+          }))
+        : [
+            {
+              '@type': 'Question',
+              name: `Which metal drummers use ${brandName} ${seriesName}?`,
+              acceptedAnswer: { '@type': 'Answer', text: `${seriesDrummers.length} metal drummers in the MetalForge database play ${brandName} ${seriesName}, including ${nameList}.` },
+            },
+            {
+              '@type': 'Question',
+              name: `Is ${brandName} ${seriesName} good for metal drumming?`,
+              acceptedAnswer: { '@type': 'Answer', text: `Yes — ${brandName} ${seriesName} is a proven choice in the metal scene, used by ${seriesDrummers.length} of the drummers we track.` },
+            },
+          ];
       graph.push(
         {
           '@type': 'Product',
@@ -5547,18 +5589,7 @@ export function getMetaForPath(pathname) {
         },
         {
           '@type': 'FAQPage',
-          mainEntity: [
-            {
-              '@type': 'Question',
-              name: `Which metal drummers use ${brandName} ${seriesName}?`,
-              acceptedAnswer: { '@type': 'Answer', text: `${seriesDrummers.length} metal drummers in the MetalForge database play ${brandName} ${seriesName}, including ${nameList}.` },
-            },
-            {
-              '@type': 'Question',
-              name: `Is ${brandName} ${seriesName} good for metal drumming?`,
-              acceptedAnswer: { '@type': 'Answer', text: `Yes — ${brandName} ${seriesName} is a proven choice in the metal scene, used by ${seriesDrummers.length} of the drummers we track.` },
-            },
-          ],
+          mainEntity: faqMainEntity,
         },
       );
     }

@@ -135,6 +135,8 @@ const drummers = [
   { id: 68, name: 'Jimmy DeGrasso' },
   // Issue #4927 (split 2/5 of #4748): Nick Barker (Dimmu Borgir/Cradle of Filth) — extreme/black metal roster gap.
   { id: 69, name: 'Nick Barker' },
+  // Issue #4929 (split 4/5 of #4748): Alex Rüdinger (The Faceless) — technical/prog death roster gap.
+  { id: 70, name: 'Alex Rüdinger' },
 ];
 
 const gearItems = [

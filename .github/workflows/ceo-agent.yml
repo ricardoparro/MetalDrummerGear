@@ -3,12 +3,12 @@ name: CEO Agent
 on:
   workflow_dispatch:
   schedule:
-    # Hourly, 24/7 (24 runs/day, up from 14) — increased rotation so the CEO
-    # triages proposals, processes L1/L2/L3 verifier outputs, and tops up the
-    # ai-fix queue toward its cap more aggressively. The backlog cap in PROMPT.md
-    # still bounds how much it promotes, so more runs refill faster without
-    # overflowing Roadie's queue. Timezone-agnostic (every hour), so no DST edit.
-    - cron: '0 * * * *'
+    # Every 3h (8 runs/day) — throttled from hourly on 2026-07-23 to cut weekly
+    # Claude subscription burn. Each run is a full Claude invocation even when it
+    # only holds; hourly was justified when aggressively refilling the ai-fix
+    # queue, but with a deep queue the CEO doesn't need to top up every hour.
+    # Restore to '0 * * * *' when quota allows. Timezone-agnostic, no DST edit.
+    - cron: '0 */3 * * *'
 
 permissions:
   contents: write

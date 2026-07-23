@@ -115,6 +115,16 @@ Agent reads on its next run.
 
 ## Conventions shared across loops
 
+- **Token budget (Claude subscription):** ~all Claude-subscription burn is the
+  agentic implementers, not the verifiers. Order of spend: Roadie night fleet
+  (parallel width × 12h) ≫ Roadie day fleet ≫ CEO (a full invocation every run,
+  even a hold) ≫ SEO Agent. The verifier loops (L1/L3/L4), digest, watchdog,
+  event scanner, and X agent are deterministic Node — **zero Claude tokens**
+  (L2 uses Perplexity, not the subscription). To cut weekly burn, throttle in
+  that order: night-fleet `max-parallel` first, then CEO cron, then day-fleet
+  width. Throttled 2026-07-23 (fleet 8→4, CEO hourly→3h, day 3→2) after the
+  16-issue epic wave (bands/songs/studies/techniques) exhausted both
+  subscriptions mid-week; restore when quota allows and the queue is deep.
 - **Branch prefixes:** `roadie/*` = the implementer (auto-reaped if DIRTY);
   `ralph/*` = legacy, still reaped during transition; `claude/*` = ad-hoc
   human/assistant branches.

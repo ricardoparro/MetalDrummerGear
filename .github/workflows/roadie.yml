@@ -47,9 +47,9 @@ jobs:
     # no overlap with the night fleet.
     strategy:
       fail-fast: false     # one worker dying must not cancel the others
-      max-parallel: 3
+      max-parallel: 2      # throttled 3→2 (2026-07-23) to cut weekly Claude burn.
       matrix:
-        worker: [0, 1, 2]
+        worker: [0, 1]
     steps:
       - uses: actions/checkout@v4
         with:

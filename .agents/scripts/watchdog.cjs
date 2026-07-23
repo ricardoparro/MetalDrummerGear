@@ -58,7 +58,9 @@ const CRITICAL_WORKFLOWS = [
   { file: 'roadie.yml', name: 'Roadie', intervalH: 14 },
   { file: 'roadie-night-fleet.yml', name: 'Roadie Night Fleet', intervalH: 24 },
   { file: 'pr-merger.yml', name: 'PR Merger', intervalH: 1 },
-  { file: 'ceo-agent.yml', name: 'CEO Agent', intervalH: 3 },
+  // CEO cron throttled to every 3h (2026-07-23); use 4h so a single skipped
+  // run (e.g. a subscription-limit window) doesn't trip the stale check.
+  { file: 'ceo-agent.yml', name: 'CEO Agent', intervalH: 4 },
   // SEO Agent's cron is '0 7,13,19 * * *' — daytime slots are 6h apart, but
   // 19:00 → 07:00 next day is a 12h overnight gap. Use 12h (not the 6h
   // daytime cadence) so that normal overnight gap never trips the stale check.

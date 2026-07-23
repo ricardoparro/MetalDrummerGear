@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-22 23:20 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-23 00:23 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,39 +8,39 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 233 |
-| Sessions | 270 |
-| Page views | 579 |
+| Active users | 198 |
+| Sessions | 234 |
+| Page views | 540 |
 | Engagement rate | 55.56% |
-| Avg session (s) | 354 |
+| Avg session (s) | 212 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 55 | 24 |
+| / | 53 | 22 |
 | /tools | 17 | 2 |
 | /drummers | 16 | 3 |
-| /drummer/lars-ulrich | 15 | 5 |
 | /drummer/dave-lombardo | 13 | 1 |
+| /drummer/lars-ulrich | 13 | 3 |
 | /drummer/jaska-raatikainen/bio | 11 | 1 |
-| /drummer/danny-carey | 9 | 8 |
 | /drummer/pete-sandoval | 9 | 1 |
 | /drummers/lars-ulrich/evolution | 9 | 2 |
-| /articles/slipknot-self-titled-drum-setup | 8 | 5 |
+| /drummer/jaska-raatikainen | 8 | 2 |
+| /drummers/bill-ward/licks | 8 | 1 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 212 | 181 |
-| Direct | 50 | 46 |
-| Unassigned | 23 | 22 |
+| Organic Search | 186 | 155 |
+| Direct | 39 | 35 |
+| Unassigned | 26 | 24 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 5,804 |
-| Clicks | 149 |
-| CTR | 2.57% |
+| Impressions | 4,797 |
+| Clicks | 122 |
+| CTR | 2.54% |
 | Avg position | 10.2 |
 
 ### Top queries
@@ -48,14 +48,14 @@
 | --- | --- | --- | --- | --- |
 | jay weinberg cymbals | 7 | 3 | 42.86% | 9.9 |
 | jaska raatikainen drum set | 6 | 2 | 33.33% | 5.5 |
-| abe cunningham cymbals | 4 | 1 | 25.00% | 8.3 |
 | best death metal drummers of all time | 4 | 1 | 25.00% | 3.5 |
-| best metal drummers | 14 | 1 | 7.14% | 15.8 |
-| bill ward drum setup | 10 | 1 | 10.00% | 11.1 |
-| charlie benante drum setup | 2 | 1 | 50.00% | 13.0 |
+| best metal drummers | 13 | 1 | 7.69% | 15.8 |
 | danny carey drum kit setup | 3 | 1 | 33.33% | 6.7 |
 | famous left handed drummers | 5 | 1 | 20.00% | 27.6 |
-| joey jordison drum kit | 16 | 1 | 6.25% | 9.5 |
+| joey jordison drum kit | 15 | 1 | 6.67% | 9.3 |
+| john otto drum kit | 13 | 1 | 7.69% | 7.0 |
+| john otto drum set | 2 | 1 | 50.00% | 7.0 |
+| mario duplantier signature sticks | 4 | 1 | 25.00% | 7.5 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 _no significant gaps detected — all queries with traction have decent CTR_

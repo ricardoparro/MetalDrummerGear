@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-23 14:44 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-23 14:45 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -38,9 +38,9 @@
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 4,797 |
-| Clicks | 122 |
-| CTR | 2.54% |
+| Impressions | 5,688 |
+| Clicks | 150 |
+| CTR | 2.64% |
 | Avg position | 10.2 |
 
 ### Top queries
@@ -48,14 +48,14 @@
 | --- | --- | --- | --- | --- |
 | jay weinberg cymbals | 7 | 3 | 42.86% | 9.9 |
 | jaska raatikainen drum set | 6 | 2 | 33.33% | 5.5 |
+| john otto drum kit | 15 | 2 | 13.33% | 6.9 |
+| best death metal drummers | 4 | 1 | 25.00% | 8.0 |
 | best death metal drummers of all time | 4 | 1 | 25.00% | 3.5 |
-| best metal drummers | 13 | 1 | 7.69% | 15.8 |
-| danny carey drum kit setup | 3 | 1 | 33.33% | 6.7 |
+| best drummers of the 2000s | 1 | 1 | 100.00% | 5.0 |
+| best metal drummers | 14 | 1 | 7.14% | 14.7 |
+| brann dailor kit | 6 | 1 | 16.67% | 7.2 |
+| danny carey drum kit setup | 4 | 1 | 25.00% | 6.3 |
 | famous left handed drummers | 5 | 1 | 20.00% | 27.6 |
-| joey jordison drum kit | 15 | 1 | 6.67% | 9.3 |
-| john otto drum kit | 13 | 1 | 7.69% | 7.0 |
-| john otto drum set | 2 | 1 | 50.00% | 7.0 |
-| mario duplantier signature sticks | 4 | 1 | 25.00% | 7.5 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 _no significant gaps detected — all queries with traction have decent CTR_

@@ -292,11 +292,15 @@ export function generateFaqSchema(faq) {
 
 // Article schema shared by the pillar page and every reference page.
 export function generateArticleSchema(page, url) {
+  const articleBody = page.sections
+    ? page.sections.map(s => `${s.heading}\n\n${s.body}`).join('\n\n')
+    : [page.intro, ...(page.howToChoose || []).map(s => `${s.heading}\n\n${s.body}`)].filter(Boolean).join('\n\n');
   return {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: page.h1,
     description: page.description,
+    articleBody,
     url,
     author: { '@type': 'Organization', name: 'MetalForge Editorial' },
     publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },

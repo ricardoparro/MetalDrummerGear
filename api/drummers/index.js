@@ -3598,6 +3598,44 @@ const drummers = [
     videos: [
       { title: 'Jimmy DeGrasso (Megadeth) Interview with Jason Saulnier', youtubeId: 'nTduRvhytiY', year: 2012 }
     ]
+  },
+  {
+    id: 69,
+    name: 'Waltteri Väyrynen',
+    band: 'Paradise Lost',
+    bands: [
+      { name: 'Paradise Lost', period: '2015–2022', current: false },
+      { name: 'Bodom After Midnight', period: '2020–2021', current: false },
+      { name: 'Opeth', period: '2022–present', current: true }
+    ],
+    genre: 'Gothic/Doom Metal',
+    country: 'Finland',
+    image: '/images/drummers/waltteri-vayrynen.webp',
+    bio: "Waltteri Väyrynen (born July 5, 1994, in Puolanka, Finland) is a Finnish drummer who joined gothic/doom pioneers Paradise Lost as a session player in 2015, becoming a full member in 2016. He recorded Medusa (2017) and Obsidian (2020) with the band before departing in September 2022. In 2020 he also joined Bodom After Midnight, the band Alexi Laiho and Daniel Freyberg formed after Children of Bodom's split; Laiho's death that December cut the project short, and its sole EP, Paint the Sky with Blood, was released posthumously in 2021. Väyrynen has additionally recorded with Gregor Mackintosh's Vallenfyre and Finnish death metal act Abhorrence, and played live with Bloodbath. He joined Swedish progressive metal band Opeth in September 2022, replacing Martin Axenrot, and recorded The Last Will and Testament (2024).",
+    kitOverview: "Väyrynen's Paradise Lost-era rig was built on a Pearl drum kit paired with Sabian cymbals — his own SABIAN artist page lists a 22\" HH Power Bell Ride as his go-to. Wincent signed him as a stick endorser in December 2022, shortly after he joined Opeth, and he plays the brand's W-5BXL model.\n\nNo snare, hardware, pedal, or drumhead brand has been independently confirmed for his setup, so those fields are omitted rather than guessed.",
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Waltteri_Väyrynen',
+      'https://sabian.com/artist/waltteri-vayrynen/'
+    ],
+    gear: {
+      drums: 'Pearl',
+      cymbals: 'Sabian',
+      sticks: 'Wincent W-5BXL',
+      verified: true,
+      notes: 'Snare/hardware/pedal/head brands not independently confirmed — omitted rather than guessed.',
+      sources: ['https://sabian.com/artist/waltteri-vayrynen/', 'https://pearldrum.com/en/artist/waltteri-vayrynen/14246', 'https://www.drummingnewsnetwork.com/wincent-drumsticks-welcome-waltteri-vayrynen-opeth-abhorrence-to-their-artist-family/']
+    },
+    photos: [
+      '/images/drummers/waltteri-vayrynen.webp' // Original: https://upload.wikimedia.org/wikipedia/commons/d/d8/Paradise_Lost_Rockharz_2018_04.jpg (Attribution license, S. Bollmann), cropped
+    ],
+    endorsements: [
+      { name: 'Pearl Drums', url: 'https://pearldrum.com' },
+      { name: 'Sabian Cymbals', url: 'https://sabian.com' },
+      { name: 'Wincent Drumsticks', url: 'https://www.wincent.com' }
+    ],
+    videos: [
+      { title: "Waltteri Väyrynen: Paradise Lost - Forsaken (live drum cam, Athens '22)", youtubeId: 'sCHoc7OO9TE', year: 2022 }
+    ]
   }
 ];
 

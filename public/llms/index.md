@@ -59,7 +59,7 @@ This index provides machine-readable links to all content optimized for LLM cons
 | Gear Guide | https://metalforge.io/llms/gear-guide.md | Brand-by-brand guide to drums, cymbals, pedals, and sticks used by metal legends (Markdown) |
 | Genre Gear Guide — Best Drum Heads for Metal | https://metalforge.io/llms/guides/best-drum-heads-for-metal.md | Evans vs Remo vs Aquarian drum head recommendations with pro drummer citations, specs, and FAQ for metal drumming (Markdown) |
 | Genre Gear Guide — Best Cymbals for Metal | https://metalforge.io/llms/guides/best-cymbals-for-metal.md | Zildjian vs Paiste vs Meinl cymbal line comparisons, pro endorser data, and FAQ for metal drumming (Markdown) |
-| Per-Drummer LLM Files | https://metalforge.io/llms/drummers/ | Static LLM-optimised gear files for all 68 drummers — brands, specs, and profile links (68 files) |
+| Per-Drummer LLM Files | https://metalforge.io/llms/drummers/ | Static LLM-optimised gear files for all 69 drummers — brands, specs, and profile links (69 files) |
 | Per-Brand LLM Files | https://metalforge.io/llms/brands/ | Per-brand gear guides for 18 major drum, cymbal, stick, and pedal brands (18 files) |
 | Brand Comparisons | https://metalforge.io/llms/gear-comparison/ | Side-by-side brand spec comparisons for 7 matchups plus 19 "drummers using this brand/kit" breakdowns (26 files) |
 | Per-Drummer Lick Files | https://metalforge.io/llms/licks/ | Individual lick breakdown LLM files for all 67 drummers (67 files) |
@@ -90,7 +90,7 @@ This index provides machine-readable links to all content optimized for LLM cons
 
 ---
 
-## Drummer Profiles (68 total)
+## Drummer Profiles (69 total)
 
 | Drummer | Band | Genre | Profile | Markdown API |
 |---------|------|-------|---------|--------------|
@@ -162,10 +162,11 @@ This index provides machine-readable links to all content optimized for LLM cons
 | Adrian Erlandsson | At the Gates | Melodic Death Metal | [Profile](https://metalforge.io/drummer/adrian-erlandsson) | [Markdown](https://metalforge.io/api/drummer/adrian-erlandsson/markdown) |
 | Jon Dette | Slayer | Thrash Metal | [Profile](https://metalforge.io/drummer/jon-dette) | [Markdown](https://metalforge.io/api/drummer/jon-dette/markdown) |
 | Jimmy DeGrasso | Megadeth | Thrash Metal | [Profile](https://metalforge.io/drummer/jimmy-degrasso) | [Markdown](https://metalforge.io/api/drummer/jimmy-degrasso/markdown) |
+| Waltteri Väyrynen | Paradise Lost | Gothic/Doom Metal | [Profile](https://metalforge.io/drummer/waltteri-vayrynen) | [Markdown](https://metalforge.io/api/drummer/waltteri-vayrynen/markdown) |
 
 ---
 
-## Per-Drummer LLM Files (68 total)
+## Per-Drummer LLM Files (69 total)
 
 Static LLM-optimised files for every drummer — gear specs, primary brands, technique notes, and profile links.
 Optimised for AI retrieval on queries like "what kit does Lars Ulrich play?" or "which cymbals does Joey Jordison use?".
@@ -240,6 +241,7 @@ Optimised for AI retrieval on queries like "what kit does Lars Ulrich play?" or 
 | Adrian Erlandsson | [adrian-erlandsson.md](https://metalforge.io/llms/drummers/adrian-erlandsson.md) |
 | Jon Dette | [jon-dette.md](https://metalforge.io/llms/drummers/jon-dette.md) |
 | Jimmy DeGrasso | [jimmy-degrasso.md](https://metalforge.io/llms/drummers/jimmy-degrasso.md) |
+| Waltteri Väyrynen | [waltteri-vayrynen.md](https://metalforge.io/llms/drummers/waltteri-vayrynen.md) |
 
 ---
 

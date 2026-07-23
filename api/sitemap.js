@@ -133,6 +133,8 @@ const drummers = [
   { id: 66, name: 'Adrian Erlandsson' }, { id: 67, name: 'Jon Dette' },
   // Issue #4926 (split 1/5 of #4748): Jimmy DeGrasso (Megadeth) — thrash metal roster gap.
   { id: 68, name: 'Jimmy DeGrasso' },
+  // Issue #4928 (split 3/5 of #4748): Waltteri Väyrynen (Paradise Lost) — gothic/doom roster gap.
+  { id: 69, name: 'Waltteri Väyrynen' },
 ];
 
 const gearItems = [

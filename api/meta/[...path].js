@@ -1462,12 +1462,21 @@ export function getMetaForPath(pathname) {
         name: 'Metal Drum Gear News & Updates',
         description: 'Latest news about metal drumming gear: new product releases, artist announcements, and industry updates.',
         url: `${BASE_URL}/gear-news`,
+        // Issue #4934: freshness signal — computed from the data array, not a
+        // fabricated/current-date stamp.
+        dateModified: GEAR_NEWS.reduce((latest, n) => (n.date > latest ? n.date : latest), GEAR_NEWS[0].date),
         publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
         about: { '@type': 'Thing', name: 'Drum Gear News' },
         potentialAction: {
           '@type': 'ReadAction',
           target: `${BASE_URL}/gear-news`,
         },
+        hasPart: GEAR_NEWS.map(n => ({
+          '@type': 'NewsArticle',
+          headline: n.title,
+          datePublished: n.date,
+          url: `${BASE_URL}/gear-news`,
+        })),
       }),
       breadcrumbSchema: [
         { name: 'Home', url: BASE_URL },
@@ -5079,7 +5088,16 @@ export function getMetaForPath(pathname) {
         name: 'Metal Drummer Endorsement News',
         description: 'Latest endorsement deals and brand sponsorships in metal drumming. Track which drum brands are signing which metal drummers.',
         url: `${BASE_URL}/endorsement-news`,
+        // Issue #4934: freshness signal — ENDORSEMENT_NEWS is not authored
+        // newest-first, so compute rather than assume [0] is the latest.
+        dateModified: ENDORSEMENT_NEWS.reduce((latest, n) => (n.date > latest ? n.date : latest), ENDORSEMENT_NEWS[0].date),
         publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
+        hasPart: ENDORSEMENT_NEWS.map(n => ({
+          '@type': 'NewsArticle',
+          headline: n.title,
+          datePublished: n.date,
+          url: `${BASE_URL}/endorsement-news`,
+        })),
       }),
       breadcrumbSchema: [
         { name: 'Home', url: BASE_URL },

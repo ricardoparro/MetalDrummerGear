@@ -17254,6 +17254,8 @@ export function generateGuideSchema(guide) {
     "description": guide.description,
     "image": `https://metalforge.io${guide.ogImage}`,
     "totalTime": `PT${guide.readingTime?.replace(' min', 'M') || '10M'}`,
+    "datePublished": guide.datePublished,
+    "dateModified": guide.dateModified,
     "supply": supply,
     "tool": tools,
     "step": steps,

@@ -3632,6 +3632,52 @@ const drummers = [
       { title: 'LOCK UP - Accelerated Mutation - Nicholas Barker - Live in Poland (Drum Cam)', youtubeId: 'm1VxJvAR6NU', year: 2017 },
       { title: 'Czarcie Kopyto Drum Cam - Nicholas Barker (Lock Up) - Brethren of the Pentagram, Krakow', youtubeId: 'PMaxFEL5zbo', year: 2017 }
     ]
+  },
+  {
+    id: 70,
+    name: 'Alex Rüdinger',
+    band: 'The Faceless',
+    bands: [
+      { name: 'Threat Signal', period: '2010–2012', current: false },
+      { name: 'The HAARP Machine', period: '2012–2013', current: false },
+      { name: 'The Faceless', period: '2013–2014', current: false },
+      { name: 'Conquering Dystopia', period: '2013–present', current: true },
+      { name: 'Good Tiger', period: '2015–2018', current: false },
+      { name: '7 Horns 7 Eyes', period: '2018–present', current: true },
+      { name: 'Trivium', period: '2025–present', current: true }
+    ],
+    genre: 'Technical Death Metal / Progressive Metal',
+    country: 'USA',
+    image: '/images/drummers/alex-rudinger.webp',
+    bio: "Alex Rüdinger (born November 18, 1991, in Frederick, Maryland) is an American drummer known for his technical, high-precision playing across progressive and technical death metal. He received his first drum kit at age 12 and began his professional career at 18, filling in for Threat Signal and appearing on the band's self-titled album (2011) before departing in late 2011. He went on to join The HAARP Machine (2012–2013) and technical death metal band The Faceless (2013–2014), and has been a member of the instrumental project Conquering Dystopia since 2013 and progressive band 7 Horns 7 Eyes since 2018. He also drummed in the progressive metalcore band Good Tiger from 2015 to 2018. Beyond his studio bands, Rüdinger has done extensive session and touring work, including studio credits with Whitechapel (Kin, 2021), Nonvector (Ashen Time, 2024), Cognizance, Monuments, Revocation, and Intronaut, and live touring with Whitechapel (2019–2021) and Light the Torch (2021). In 2025 he became the touring/studio drummer for Trivium.",
+    kitOverview: "Alex Rüdinger is an official Tama Drums artist, playing a Tama Starclassic Performer B/B kit — Tama's own artist page lists a 20x16\" bass drum and 14x6\" STARPHONIC Brass snare (with an SLP Black Brass snare as an alternate), 8x7\" and 10x7\" rack toms, and 14x12\" and 16x14\" floor toms, driven by Tama Speed Cobra bass drum pedals and hi-hat stands on Tama Roadpro stands and a 1st Chair Ergo-Rider throne.\n\nRüdinger is also a D'Addario/Evans artist: Evans' own artist page credits him with a UV EQ4 Coated bass batter, G2 Clear tom batters, an HD Dry snare batter with a Snare Side 300 reso and PureSound Super 30 snare wires, and a G1 Clear/EQ3-NP Black bass reso combination. He is additionally a longtime Meinl Cymbals artist, endorsing Meinl's Byzance and MB20 cymbal lines, though Meinl does not publish a component-level spec sheet as detailed as Tama's and Evans', so this profile omits a specific cymbal-by-cymbal breakdown rather than guessing model sizes.",
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Alex_R%C3%BCdinger',
+      'https://www.instagram.com/alexrudinger/'
+    ],
+    gear: {
+      drums: 'Tama Starclassic Performer B/B',
+      snare: 'Tama STARPHONIC Brass 14x6" (or SLP Black Brass alternate)',
+      hardware: 'Tama Speed Cobra Bass Drum Pedals, Tama Speed Cobra Hi-Hat Stand, Tama Roadpro Stands, Tama 1st Chair Ergo-Rider Throne',
+      heads: "Evans (UV EQ4 Coated bass batter, G2 Clear tom batters, HD Dry snare batter, Snare Side 300, G1 Clear/EQ3-NP Black bass reso)",
+      cymbals: 'Meinl Cymbals (Byzance and MB20 series; specific models not independently documented — omitted rather than guessed)',
+      verified: true,
+      verifiedAt: '2026-07-23',
+      sources: ['https://www.tama.com/usa/artists/detail/975.html', 'https://www.daddario.com/artists/evans-drumheads/alex_rudinger/']
+    },
+    photos: [
+      '/images/drummers/alex-rudinger.webp' // Original: https://upload.wikimedia.org/wikipedia/commons/7/75/Whitechapel_Full_Force_2019_07_%28cropped%29.jpg (used as Alex Rüdinger's photo on his English Wikipedia infobox)
+    ],
+    endorsements: [
+      { name: 'Tama Drums', url: 'https://www.tama.com' },
+      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' },
+      { name: 'Meinl Cymbals', url: 'https://www.meinlcymbals.com' }
+    ],
+    videos: [
+      { title: 'Alex Rudinger (Drum Playthrough) - Cause For Concern', youtubeId: '6WHuhqN9WSk', year: 2013 },
+      { title: 'Alex Rüdinger | Intronaut "Cubensis" (DRUM PLAYTHROUGH)', youtubeId: 'D4bO3EMMShU', year: 2020 },
+      { title: 'Alex Rudinger - TRIVIUM - "CATASTROPHIST"', youtubeId: '8O92AS-Drhk', year: 2026 }
+    ]
   }
 ];
 

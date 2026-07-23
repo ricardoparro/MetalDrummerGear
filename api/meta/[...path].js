@@ -3726,7 +3726,7 @@ export function getMetaForPath(pathname) {
             // prose — authored content that was never wired into bot-facing JSON-LD.
             ...(extBio ? [{
               '@type': 'Article',
-              headline: `${drummer.name} — Career & Drumming Style`,
+              headline: `${drummer.name} — Career, Style & Gear`,
               author: { '@type': 'Organization', name: 'MetalForge' },
               about: { '@type': 'Person', name: drummer.name },
               articleBody: [
@@ -3734,6 +3734,7 @@ export function getMetaForPath(pathname) {
                   ? extBio.sections.careerHighlights.items.map(i => `${i.year}: ${i.event}`).join(' ')
                   : null,
                 extBio.sections.styleAndInfluences?.content?.replace(/\n+/g, ' '),
+                extBio.sections.gearHighlights?.content?.replace(/\*\*/g, '').replace(/\n+/g, ' '),
               ].filter(Boolean).join(' '),
             }] : []),
             {
@@ -5274,7 +5275,7 @@ export function getMetaForPath(pathname) {
             // prose — authored content that was never wired into bot-facing JSON-LD.
             ...(extBio ? [{
               '@type': 'Article',
-              headline: `${drummer.name} — Career & Drumming Style`,
+              headline: `${drummer.name} — Career, Style & Gear`,
               author: { '@type': 'Organization', name: 'MetalForge' },
               about: { '@type': 'Person', name: drummer.name },
               articleBody: [
@@ -5282,6 +5283,7 @@ export function getMetaForPath(pathname) {
                   ? extBio.sections.careerHighlights.items.map(i => `${i.year}: ${i.event}`).join(' ')
                   : null,
                 extBio.sections.styleAndInfluences?.content?.replace(/\n+/g, ' '),
+                extBio.sections.gearHighlights?.content?.replace(/\*\*/g, '').replace(/\n+/g, ' '),
               ].filter(Boolean).join(' '),
             }] : []),
             {

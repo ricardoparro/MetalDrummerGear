@@ -1093,6 +1093,16 @@ export function getMetaForPath(pathname) {
       image: `${BASE_URL}/images/og/tools-preview.png`,
       type: 'website',
       url: `${BASE_URL}/tools`,
+      // Issue #4925: crawlable links to every tool sub-page — missed from
+      // #4355's 9-hub ssrLinks sweep, leaving /tools with a bare bot-facing shell.
+      ssrLinks: [
+        { href: '/tools/compare', label: 'Compare Drummer Gear Setups' },
+        { href: '/tools/setup-builder', label: 'Build Your Kit' },
+        { href: '/tools/metal-drummer-name-generator', label: 'Metal Drummer Name Generator' },
+        { href: '/tools/tier-list', label: 'Gear Tier List' },
+        { href: '/tools/gear-search', label: 'Gear Search' },
+        { href: '/tools/kit-builder', label: 'Kit Builder' },
+      ],
       articleSchema: JSON.stringify({
         '@context': 'https://schema.org',
         '@graph': [

@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-23 06:49 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-23 07:47 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -17,23 +17,23 @@
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 53 | 22 |
+| / | 61 | 22 |
 | /tools | 17 | 2 |
 | /drummers | 16 | 3 |
 | /drummer/dave-lombardo | 13 | 1 |
 | /drummer/lars-ulrich | 13 | 3 |
+| /drummer/pete-sandoval | 13 | 1 |
 | /drummer/jaska-raatikainen/bio | 12 | 1 |
-| /drummer/pete-sandoval | 9 | 1 |
+| /drummer/jaska-raatikainen | 10 | 2 |
 | /drummers/lars-ulrich/evolution | 9 | 2 |
-| /drummer/jaska-raatikainen | 8 | 2 |
-| /drummers/bill-ward/licks | 8 | 1 |
+| /articles/slipknot-self-titled-drum-setup | 8 | 4 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 194 | 162 |
+| Organic Search | 202 | 169 |
 | Direct | 39 | 35 |
-| Unassigned | 33 | 31 |
+| Unassigned | 8 | 8 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |

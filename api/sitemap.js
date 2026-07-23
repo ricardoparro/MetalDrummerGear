@@ -139,6 +139,8 @@ const drummers = [
   { id: 70, name: 'Alex Rüdinger' },
   // Issue #4930 (split 5/5 of #4748): John Longstreth (Origin/Angelcorpse/Skinless) — extreme metal speed-record tie-in.
   { id: 71, name: 'John Longstreth' },
+  // Issue #4928 (split 3/5 of #4748): Waltteri Väyrynen (Paradise Lost/Opeth) — gothic/doom roster gap.
+  { id: 72, name: 'Waltteri Väyrynen' },
 ];
 
 const gearItems = [

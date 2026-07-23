@@ -131,6 +131,8 @@ const drummers = [
   // Issue #4214: 2 orphan drummers with deep existing content (comparisons, licks,
   // gear history, album articles) added to the roster to stop soft-404s.
   { id: 66, name: 'Adrian Erlandsson' }, { id: 67, name: 'Jon Dette' },
+  // Issue #4927 (split 2/5 of #4748): Nick Barker (Dimmu Borgir, Cradle of Filth) — extreme/black metal roster gap.
+  { id: 68, name: 'Nick Barker' },
 ];
 
 const gearItems = [

@@ -3640,6 +3640,11 @@ export function getMetaForPath(pathname) {
       // Issue #4779: prefer the curated Wikipedia URL from extendedBios sources
       // over guessing one from the display name (wrong/dead links for stage names).
       const wikiSource = extBio?.sections?.sources?.items?.find(i => i.name?.startsWith('Wikipedia:'));
+      // Issue #4927: fall back to the roster's own curated sameAs (api/drummers)
+      // before guessing a slug — catches disambiguation-page collisions (e.g. a
+      // common name with multiple Wikipedia articles) for drummers with no
+      // extendedBios entry yet.
+      const wikiSameAs = drummer.sameAs?.find(u => u.includes('wikipedia.org'));
       // Issue #4821: hand-curated birthDate/deathDate already imported for the
       // /birthdays hub — never wired into this page's Person JSON-LD.
       const birthdayEntry = drummerBirthdays.find(b => b.slug === slug);
@@ -3733,7 +3738,7 @@ export function getMetaForPath(pathname) {
                 },
               } : {}),
               sameAs: [
-                wikiSource?.url || `https://en.wikipedia.org/wiki/${encodeURIComponent(drummer.name.replace(/ /g, '_'))}`,
+                wikiSource?.url || wikiSameAs || `https://en.wikipedia.org/wiki/${encodeURIComponent(drummer.name.replace(/ /g, '_'))}`,
               ],
               knowsAbout: ['Drumming', 'Metal Music', 'Percussion'],
             },
@@ -5178,6 +5183,8 @@ export function getMetaForPath(pathname) {
       // Issue #4779: prefer the curated Wikipedia URL from extendedBios sources
       // over guessing one from the display name (wrong/dead links for stage names).
       const wikiSource = extBio?.sections?.sources?.items?.find(i => i.name?.startsWith('Wikipedia:'));
+      // Issue #4927: see matching comment above — same disambiguation-collision fallback.
+      const wikiSameAs = drummer.sameAs?.find(u => u.includes('wikipedia.org'));
       const bandText = drummer.band ? `${drummer.band} ` : '';
       const allArticles = Object.values(ALBUM_ARTICLES);
       const relatedArticles = allArticles
@@ -5282,7 +5289,7 @@ export function getMetaForPath(pathname) {
               ...(birthdayEntry?.deathDate ? { deathDate: birthdayEntry.deathDate } : {}),
               ...(drummer.band ? { memberOf: { '@type': 'MusicGroup', name: drummer.band } } : {}),
               sameAs: [
-                wikiSource?.url || `https://en.wikipedia.org/wiki/${encodeURIComponent(drummer.name.replace(/ /g, '_'))}`,
+                wikiSource?.url || wikiSameAs || `https://en.wikipedia.org/wiki/${encodeURIComponent(drummer.name.replace(/ /g, '_'))}`,
               ],
               knowsAbout: ['Drumming', 'Metal Music', 'Percussion'],
             },

@@ -3556,6 +3556,51 @@ const drummers = [
     videos: [
       { title: 'Slayer - Killing Fields (Drum Playthrough by Former Slayer Drummer Jon Dette)', youtubeId: 'jbvzXH__12k', year: 2022 }
     ]
+  },
+  {
+    id: 68,
+    name: 'Nick Barker',
+    band: 'Dimmu Borgir / Cradle of Filth',
+    bands: [
+      { name: 'Dimmu Borgir', period: '1999–2004', current: false },
+      { name: 'Cradle of Filth', period: '1993–1999', current: false },
+      { name: 'Lock Up', period: '1999–2017', current: false },
+      { name: 'Brujeria', period: '2003–2005, 2016–2022', current: false },
+      { name: 'Shining', period: '2022–2023', current: false }
+    ],
+    genre: 'Black Metal / Death Metal',
+    country: 'UK',
+    image: '/images/drummers/nick-barker.webp',
+    bio: "Nicholas \"Nick\" Barker (born April 25, 1973, in Chesterfield, Derbyshire, England) is a British extreme metal drummer who turned professional in 1993, joining Cradle of Filth as a founding-lineup member and recording four albums with the band — The Principle of Evil Made Flesh (1994), V Empire or Dark Faerytales in Phallustein (1996), Dusk... and Her Embrace (1996), and Cruelty and the Beast (1998) — before departing in 1999. He joined Norwegian symphonic black metal band Dimmu Borgir the same year, drumming on Puritanical Euphoric Misanthropia (2001) and Death Cult Armageddon (2003) through his departure in January 2004. Barker has also been the long-running drummer of death metal/grindcore supergroup Lock Up since 1999, and has recorded or toured with Brujeria, Old Man's Child, and Shining, plus session/live work for Testament and Exodus.",
+    kitOverview: 'Nick Barker\'s most thoroughly documented drum kit dates to his 1999–2004 tenure in Dimmu Borgir: a custom all-black Pearl Masterworks 10-ply maple shell pack paired with special-order black Paiste cymbals and a Pearl Icon curved rack — the rig used on Dimmu Borgir\'s 2003 European tour, featured in the "Progenies of the Great Apocalypse" music video, and later put up for sale after years in storage.\n\nBarker currently endorses Sonor drums, per the company\'s official artist roster, though his present touring kit specs are not independently documented beyond that relationship. His broader career endorsements, per his Drummerszone artist profile, also include Premier and Trick drums, Axis pedals, Gibraltar and Roc-n-Soc hardware, and Vic Firth sticks — exact models and the eras in which he used each are not confirmed.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Nick_Barker_(drummer)',
+      'https://www.instagram.com/officialnicholasbarkerdrummer/'
+    ],
+    gear: {
+      drums: 'Pearl Masterworks (custom all-black, 10-ply maple)',
+      cymbals: 'Paiste (custom black finish, special order)',
+      hardware: 'Pearl Icon Curved Rack',
+      verified: true,
+      notes: 'Kit documented from Barker\'s 1999–2004 Dimmu Borgir touring rig, used on the 2003 European tour and in the "Progenies of the Great Apocalypse" video; snare, pedal, stick, and head models not independently confirmed. Barker currently endorses Sonor drums, and has listed Paiste and Vic Firth among his career endorsements.',
+      sources: [
+        'https://drummerszone.com/news/bid-on-nick-barkers-one-of-a-kind-touring-drum-kit/artist-news-1-7185/article/',
+        'https://www.sonor.com/drums/artists/artists-detail/nick-barker',
+        'https://drummerszone.com/artists/nick-barker/4290/profile/'
+      ]
+    },
+    photos: [
+      '/images/drummers/nick-barker.webp' // Original: https://upload.wikimedia.org/wikipedia/commons/2/29/Nick_Barker_%282013%29.jpg (CC BY 2.0, Florian Stangl)
+    ],
+    endorsements: [
+      { name: 'Sonor Drums', url: 'https://www.sonor.com' },
+      { name: 'Paiste Cymbals', url: 'https://www.paiste.com' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' }
+    ],
+    videos: [
+      { title: 'Nick Barker On His Health Struggles, Cradle Of Filth, Dimmu Borgir, 30-Year Career (Into The Necrosphere)', youtubeId: 'pPPk8QGPu5M', year: 2026 },
+      { title: 'Dimmu Borgir - "Progenies of the Great Apocalypse" - Drums Only', youtubeId: 'AxHT3GTKHnQ', year: 2003 }
+    ]
   }
 ];
 

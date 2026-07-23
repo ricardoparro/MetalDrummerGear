@@ -755,6 +755,11 @@ export function getMetaForPath(pathname) {
         { name: 'Home', url: BASE_URL },
         { name: 'Timeline', url: `${BASE_URL}/timeline` },
       ],
+      // Issue #4917: FAQPage — hub/tool route sweep gap.
+      faqSchema: [
+        { question: 'What does the MetalForge drumming evolution timeline cover?', answer: `The timeline tracks ${eventCount} milestone events in metal drumming from ${firstYear} to ${lastYear}, spanning genre-defining techniques, gear innovations, and lineup changes.` },
+        { question: 'Is the timeline updated with new milestones?', answer: 'Yes — new entries are added as significant metal drumming milestones (technique breakthroughs, gear releases, band lineup changes) occur.' },
+      ],
       // Issue #4916: SpeakableSpecification — hub/tool route sweep gap.
       speakableSchema: true,
       speakableCssSelector: ['h1', 'h2', 'p'],
@@ -795,6 +800,11 @@ export function getMetaForPath(pathname) {
       breadcrumbSchema: [
         { name: 'Home', url: BASE_URL },
         { name: 'Gear Finder', url: `${BASE_URL}/gear-finder` },
+      ],
+      // Issue #4917: FAQPage — hub/tool route sweep gap.
+      faqSchema: [
+        { question: 'How does the MetalForge gear finder work?', answer: `Filter by brand, drummer, or equipment type across ${Object.keys(DRUMMER_GEAR).length} pro metal drummers and ${Object.values(BRAND_SEO_DATA).length} gear brands to find exactly what kit, cymbals, or hardware your favorite pro uses.` },
+        { question: 'Is the gear finder free to use?', answer: 'Yes — the MetalForge gear finder is a free search tool with no signup required.' },
       ],
       // Issue #4916: SpeakableSpecification — hub/tool route sweep gap.
       speakableSchema: true,
@@ -1362,6 +1372,10 @@ export function getMetaForPath(pathname) {
         { question: 'Can I shop for drum gear by brand?', answer: 'Yes — the MetalForge gear hub lets you filter by brand (Tama, Pearl, Mapex, Zildjian, Meinl, and more) to see every pro metal drummer endorsing that brand and the exact gear they use.' },
         { question: 'Can I find drum gear by genre or budget?', answer: 'Yes — filter the /gear hub by genre (thrash, death, black, prog metal) or browse /gear-by-budget for setups curated under $500, $1000, and $2000.' },
       ],
+      breadcrumbSchema: [
+        { name: 'Home', url: BASE_URL },
+        { name: 'Gear', url: `${BASE_URL}/gear` },
+      ],
       // Issue #4916: SpeakableSpecification — hub/tool route sweep gap.
       speakableSchema: true,
       speakableCssSelector: ['h1', 'h2', 'p'],
@@ -1401,6 +1415,11 @@ export function getMetaForPath(pathname) {
         { name: 'Home', url: BASE_URL },
         { name: 'Gear by Budget', url: `${BASE_URL}/gear-by-budget` },
       ],
+      // Issue #4917: FAQPage — hub/tool route sweep gap.
+      faqSchema: [
+        { question: 'What budget tiers does MetalForge cover?', answer: `MetalForge breaks down metal drum gear into ${Object.values(BUDGET_TIERS).length} budget tiers — ${Object.values(BUDGET_TIERS).map(t => t.label).join(', ')} — curated from gear used by 67 pro metal drummers.` },
+        { question: 'What\'s a good starter budget for a metal drum kit?', answer: `The Entry Level tier covers setups from $${BUDGET_TIERS.entry.minPrice.toLocaleString()} to $${BUDGET_TIERS.entry.maxPrice.toLocaleString()} — great for beginners and budget-conscious drummers.` },
+      ],
       // Issue #4916: SpeakableSpecification — hub/tool route sweep gap.
       speakableSchema: true,
       speakableCssSelector: ['h1', 'h2', 'p'],
@@ -1438,6 +1457,11 @@ export function getMetaForPath(pathname) {
       breadcrumbSchema: [
         { name: 'Home', url: BASE_URL },
         { name: 'Gear News', url: `${BASE_URL}/gear-news` },
+      ],
+      // Issue #4917: FAQPage — hub/tool route sweep gap.
+      faqSchema: [
+        { question: 'What kind of metal drum gear news does MetalForge cover?', answer: `MetalForge tracks ${GEAR_NEWS.length} gear news entries — new product releases, artist gear changes, and industry updates for metal drummers.` },
+        { question: 'How often is the gear news page updated?', answer: 'The /gear-news hub is updated as new product releases and drummer gear changes are confirmed.' },
       ],
       // Issue #4916: SpeakableSpecification — hub/tool route sweep gap.
       speakableSchema: true,
@@ -1517,6 +1541,11 @@ export function getMetaForPath(pathname) {
       breadcrumbSchema: [
         { name: 'Home', url: BASE_URL },
         { name: 'Cards', url: `${BASE_URL}/cards` },
+      ],
+      // Issue #4917: FAQPage — hub/tool route sweep gap.
+      faqSchema: [
+        { question: 'How many drummer gear cards does MetalForge have?', answer: `MetalForge's card gallery has shareable gear cards for ${CARD_DRUMMERS.length} drummers.` },
+        { question: 'Can I share MetalForge gear cards on social media?', answer: 'Yes — every gear card is downloadable and ready to share on Instagram, Twitter, and other platforms.' },
       ],
       // Issue #4916: SpeakableSpecification — hub/tool route sweep gap.
       speakableSchema: true,
@@ -2018,6 +2047,11 @@ export function getMetaForPath(pathname) {
         { name: 'Home', url: BASE_URL },
         { name: 'Kit Quiz', url: `${BASE_URL}/kit-quiz` },
       ],
+      // Issue #4917: FAQPage — hub/tool route sweep gap.
+      faqSchema: [
+        { question: 'Is the MetalForge kit quiz free to use?', answer: 'Yes — the kit quiz is a free tool that recommends a drum kit based on your playing style, no signup required.' },
+        { question: 'How does the kit quiz work?', answer: 'Take the quiz to find the perfect drum kit for your playing style — you get personalized recommendations based on your preferences and budget.' },
+      ],
       // Issue #4916: SpeakableSpecification — hub/tool route sweep gap.
       speakableSchema: true,
       speakableCssSelector: ['h1', 'h2', 'p'],
@@ -2044,6 +2078,11 @@ export function getMetaForPath(pathname) {
       breadcrumbSchema: [
         { name: 'Home', url: BASE_URL },
         { name: 'Kit Builder', url: `${BASE_URL}/kit-builder` },
+      ],
+      // Issue #4917: FAQPage — hub/tool route sweep gap.
+      faqSchema: [
+        { question: 'Is the drum kit builder free to use?', answer: 'Yes — the virtual drum kit builder is a free tool, no signup required.' },
+        { question: 'How does the drum kit builder work?', answer: 'Build your dream metal drum kit piece by piece, mixing and matching shells, cymbals, and hardware from legendary drummers, with price estimates and affiliate links.' },
       ],
       // Issue #4916: SpeakableSpecification — hub/tool route sweep gap.
       speakableSchema: true,
@@ -2072,6 +2111,11 @@ export function getMetaForPath(pathname) {
         { name: 'Tools', url: `${BASE_URL}/tools` },
         { name: 'Gear Search', url: `${BASE_URL}/tools/gear-search` },
       ],
+      // Issue #4917: FAQPage — hub/tool route sweep gap.
+      faqSchema: [
+        { question: 'Is the metal drummer gear search free to use?', answer: 'Yes — gear search is a free tool, no signup required.' },
+        { question: 'What can I search for with the gear search tool?', answer: 'Search and filter drum gear used by 67 metal legends — find kits, cymbals, pedals, and sticks by brand, price, or drummer.' },
+      ],
       // Issue #4916: SpeakableSpecification — hub/tool route sweep gap.
       speakableSchema: true,
       speakableCssSelector: ['h1', 'h2', 'p'],
@@ -2097,6 +2141,11 @@ export function getMetaForPath(pathname) {
         { name: 'Home', url: BASE_URL },
         { name: 'Tools', url: `${BASE_URL}/tools` },
         { name: 'Dream Set Builder', url: `${BASE_URL}/tools/dream-set-builder` },
+      ],
+      // Issue #4917: FAQPage — hub/tool route sweep gap.
+      faqSchema: [
+        { question: 'Is the dream set builder free to use?', answer: 'Yes — the dream set builder is a free tool, no signup required.' },
+        { question: 'How does the dream set builder work?', answer: 'Build your ultimate metal drum kit by combining gear from your favourite drummers — for example, mix Lars Ulrich shells with George Kollias cymbals.' },
       ],
       // Issue #4916: SpeakableSpecification — hub/tool route sweep gap.
       speakableSchema: true,
@@ -2125,6 +2174,11 @@ export function getMetaForPath(pathname) {
         { name: 'Tools', url: `${BASE_URL}/tools` },
         { name: 'Setup Builder', url: `${BASE_URL}/tools/setup-builder` },
       ],
+      // Issue #4917: FAQPage — hub/tool route sweep gap.
+      faqSchema: [
+        { question: 'Is the dream setup builder free to use?', answer: 'Yes — the setup builder is a free guided wizard, no signup required.' },
+        { question: 'How does the dream setup builder work?', answer: 'Answer a few questions about your budget, genre, and skill level to get a personalized metal drum kit recommendation, matched against real pro drummer setups.' },
+      ],
       // Issue #4916: SpeakableSpecification — hub/tool route sweep gap.
       speakableSchema: true,
       speakableCssSelector: ['h1', 'h2', 'p'],
@@ -2152,6 +2206,11 @@ export function getMetaForPath(pathname) {
         { name: 'Home', url: BASE_URL },
         { name: 'Tools', url: `${BASE_URL}/tools` },
         { name: 'Tier List', url: `${BASE_URL}/tools/tier-list` },
+      ],
+      // Issue #4917: FAQPage — hub/tool route sweep gap.
+      faqSchema: [
+        { question: 'Is the metal drummer tier list free to use?', answer: 'Yes — the tier list tool is free to use, no signup required.' },
+        { question: 'How does the tier list tool work?', answer: 'Create your own metal drummer tier list, ranking legends like Joey Jordison, Dave Lombardo, and George Kollias from S to D tier.' },
       ],
       // Issue #4916: SpeakableSpecification — hub/tool route sweep gap.
       speakableSchema: true,
@@ -2797,6 +2856,11 @@ export function getMetaForPath(pathname) {
       breadcrumbSchema: [
         { name: 'Home', url: BASE_URL },
         { name: 'Bands', url: `${BASE_URL}/bands` },
+      ],
+      // Issue #4917: FAQPage — hub/tool route sweep gap.
+      faqSchema: [
+        { question: 'How many bands does MetalForge track drummers for?', answer: `MetalForge covers ${Object.values(BAND_DATA).length} metal bands, tracking each band's current and former drummers, lineup history, and gear.` },
+        { question: 'Does MetalForge track band lineup changes?', answer: 'Yes — every band page includes drummer tenure history (join/departure years) alongside gear and discography details.' },
       ],
       // Issue #4916: SpeakableSpecification — hub/tool route sweep gap.
       speakableSchema: true,
@@ -5553,6 +5617,11 @@ export function getMetaForPath(pathname) {
       breadcrumbSchema: [
         { name: 'Home', url: BASE_URL },
         { name: 'Songs', url: `${BASE_URL}/songs` },
+      ],
+      // Issue #4917: FAQPage — hub/tool route sweep gap.
+      faqSchema: [
+        { question: 'How many metal songs does MetalForge track?', answer: `MetalForge's songs database covers ${metalSongs.length} metal songs, each with a verified BPM and its recording drummer.` },
+        { question: 'Can I browse metal songs by tempo?', answer: `Yes — songs are grouped into ${tiers.length} tempo tiers, plus a dedicated fastest-songs ranking of ${fastest.length} tracks at 200+ BPM.` },
       ],
       // Issue #4916: SpeakableSpecification — hub/tool route sweep gap.
       speakableSchema: true,

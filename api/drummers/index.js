@@ -3632,6 +3632,56 @@ const drummers = [
       { title: 'LOCK UP - Accelerated Mutation - Nicholas Barker - Live in Poland (Drum Cam)', youtubeId: 'm1VxJvAR6NU', year: 2017 },
       { title: 'Czarcie Kopyto Drum Cam - Nicholas Barker (Lock Up) - Brethren of the Pentagram, Krakow', youtubeId: 'PMaxFEL5zbo', year: 2017 }
     ]
+  },
+  {
+    // Issue #4928 (split 3/5 of #4748): Waltteri Väyrynen (Paradise Lost, Bodom
+    // After Midnight) — gothic/doom metal roster gap. Note: he left Paradise Lost
+    // in Sept 2022 and is now Opeth's drummer (verified via Wikipedia, Pearl and
+    // Sabian's own artist pages, and Blabbermouth's Sept 2022 report) — the
+    // original proposal's "current" framing was stale; bio/bands reflect the
+    // verified timeline rather than the issue's premise.
+    id: 70,
+    name: 'Waltteri Väyrynen',
+    band: 'Paradise Lost',
+    bands: [
+      { name: 'Vallenfyre', period: '2014–2018', current: false },
+      { name: 'Paradise Lost', period: '2016–2022', current: false },
+      { name: 'Abhorrence', period: '2018–present', current: true },
+      { name: 'Bodom After Midnight', period: '2020–2021', current: false },
+      { name: 'Bloodbath', period: '2021–present', current: true },
+      { name: 'Opeth', period: '2022–present', current: true }
+    ],
+    genre: 'Gothic Metal / Doom Metal',
+    country: 'Finland',
+    image: '/images/drummers/waltteri-vayrynen.webp',
+    bio: "Waltteri Väyrynen (born July 5, 1994) is a Finnish extreme and progressive metal drummer. He joined Vallenfyre in 2014, succeeding original drummer Adrian Erlandsson, and recorded Fear Those Who Fear Him (2017) before the band split in 2018. In 2016 he became the drummer for English gothic doom metal pioneers Paradise Lost, recording Medusa (2017) and Obsidian (2020) across a tenure that ended in September 2022. He has also drummed for Finnish death metal band Abhorrence since 2018 and joined Bodom After Midnight — the tribute act formed by Children of Bodom alumni following guitarist Alexi Laiho's death — recording the Paint the Sky with Blood EP (2021). Since September 2022 Väyrynen has been the full-time drummer for Swedish progressive metal band Opeth, replacing longtime member Martin \"Axe\" Axenrot and recording The Last Will and Testament (2024); he has also toured as Bloodbath's drummer.",
+    kitOverview: "Waltteri Väyrynen is an official Pearl and Sabian artist. Pearl's artist page lists his configuration as a double bass-drum setup built around two 22x18\" kick drums with 10x8\", 12x9\", 14x14\", 16x16\", and 18x16\" toms plus a 20x14\" gong drum, driven by Pearl's Demon Drive P3002 double pedal. His listed snare options are the Pearl Reference Series 14x6.5\" in Steel, Brass, or Pure shell configurations.\n\nSabian's artist page names the 22\" HH Power Bell Ride as his favorite cymbal, and Väyrynen has cited joining Paradise Lost, earning his Sabian endorsement, and playing drums for a living among his career highlights. Sticks and drumhead brand are not independently documented on either artist page, so this profile omits those fields rather than guessing.",
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Waltteri_Väyrynen',
+      'https://sabian.com/artist/waltteri-vayrynen/',
+      'https://pearldrum.com/en/artist/waltteri-vayrynen/14246'
+    ],
+    gear: {
+      drums: 'Pearl Reference Series (double kick configuration)',
+      snare: 'Pearl Reference Series 14x6.5" (Steel/Brass/Pure)',
+      cymbals: 'Sabian (22" HH Power Bell Ride)',
+      hardware: 'Pearl Demon Drive P3002 Double Pedal',
+      verified: true,
+      notes: 'Sticks and drumhead brand not independently documented on Pearl or Sabian\'s artist pages — omitted rather than guessed.',
+      sources: ['https://pearldrum.com/en/artist/waltteri-vayrynen/14246', 'https://sabian.com/artist/waltteri-vayrynen/']
+    },
+    photos: [
+      '/images/drummers/waltteri-vayrynen.webp' // Original: https://upload.wikimedia.org/wikipedia/commons/0/07/Opeth_live_at_Hammersmith_Odeon_181122_-_52509618142.jpg (CC BY 2.0, kitmasterbloke)
+    ],
+    endorsements: [
+      { name: 'Pearl Drums', url: 'https://pearldrum.com' },
+      { name: 'Sabian Cymbals', url: 'https://sabian.com' }
+    ],
+    videos: [
+      { title: 'Opeth - "Paragraph One" - Waltteri Väyrynen Drum Playthrough Video', youtubeId: 'gxJRxxNqkmA', year: 2024 },
+      { title: "Waltteri Väyrynen: Opeth - The Devil's Orchard (audition video for the band)", youtubeId: 'OkgXtJqOahA', year: 2022 },
+      { title: 'PARADISE LOST@Requiem-Waltteri Väyrynen-Live at Brutal Assault 2018 (Drum Cam)', youtubeId: 'wUKQDRrDAJU', year: 2018 }
+    ]
   }
 ];
 

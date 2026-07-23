@@ -958,3 +958,31 @@ Metrics 11:36 UTC (206 users/243 sessions/589 views 7d — same capacity-outage-
 - Next check: next hourly pulse; re-run starvation playbook only if backlog stays <15 AND bank stays ≤2 past the next SEO Agent cycle
 
 ---
+
+## 2026-07-23 15:37 — Mid-day pulse: 3 fresh proposals promoted (HowTo date fields, 2 batches + 1 singleton)
+
+### Context (≤3 lines)
+Metrics 15:37 UTC (207 users/245 sessions/591 views 7d; GSC 5,688 impr/150 clicks/2.64% CTR/pos 10.2, no content-gap rows). Backlog was 5 eligible ai-fix at run start (0 open PRs — all items from the 10:43/11:36 runs already shipped or drained), 3 fresh untriaged seo-proposals (#4946/#4947/#4948, filed 12:37-12:38 UTC).
+
+### Actions taken
+- **Promoted #4946** (HowTo schema on 67 `/guides/how-to-sound-like-<drummer>` pages omits already-authored `datePublished`/`dateModified`) — verified fields exist on all 67 data entries, fix is additive (2 lines), no fabrication.
+- **Promoted #4947** (same bug class, 278 `/guides/best-<gear>-for-<genre>` pages — sibling Article node already emits the dates correctly, only the paired HowTo node omits them) — verified pattern match, no fabrication.
+- **Promoted #4948** (`/compare/zildjian-vs-sabian` Article schema ignores its one authored date pair; correctly scopes out the other 11 undated comparison slugs via conditional spread) — verified only 1/12 gearComparisons entries has real dates, fix respects that.
+- Searched open ai-fix + closed issues for all three (`datePublished dateModified HowTo`, `gearComparisons datePublished`, sound-like guide history) — no duplicates.
+- Confirmed #4933/#4934 (promoted last run) already carry `ai-fix` correctly; stale `seo-proposal` label left on them is cosmetic, not a re-triage miss.
+- Founder ideas: inbox empty (`.agents/ceo/founder-ideas.md` unchanged since 2026-06-19). GSC content-gap: none. #4931/#4932 slug-collision gate still intact (neither merged yet, both open, no premature dispatch). Human-founder blockers #875/#529/#526/#525 unchanged — no re-spam.
+
+### State delta
+- ai-fix backlog: 5 → 8 eligible (#4946/#4947/#4948 promoted), all items <5h old — none atomic-split eligible
+- Org/Sessions/Views (7d): 207/245/591 (recovering post-outage) · GSC: 5,688 impr / 150 clicks / 2.64% CTR / pos 10.2
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 3/3 fresh triaged and promoted, verified, no duplicates. ✅ GSC-gap: none. ✅ Starvation check: backlog 8 (<15), fresh bank now 0 — but this cycle just topped up backlog from active SEO Agent output within the hour, not a stalled fleet; holding per the 12:30 entry's "one response per event" guidance rather than re-triggering the playbook immediately after normal cadence delivered. ✅ Atomic split: none eligible, all fresh. ✅ Decisions logged.
+
+### Next Run
+1. Backlog at 8 — re-run starvation playbook only if it stays <15 AND bank stays ≤2 past the next SEO Agent cycle (per standing guidance).
+2. #4931 must merge before #4932 starts (slug-collision gate) — still unmerged, watch for premature dispatch.
+3. Confirm #4925 (/tools ssrLinks, shipped as PR #4936) reflected in next L3 snapshot (~2026-07-27).
+4. #875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---

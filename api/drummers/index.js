@@ -3598,6 +3598,50 @@ const drummers = [
     videos: [
       { title: 'Jimmy DeGrasso (Megadeth) Interview with Jason Saulnier', youtubeId: 'nTduRvhytiY', year: 2012 }
     ]
+  },
+  {
+    id: 69,
+    name: 'Nick Barker',
+    band: 'Dimmu Borgir / Cradle of Filth',
+    bands: [
+      { name: 'Cradle of Filth', period: '1993–1999', current: false },
+      { name: 'Dimmu Borgir', period: '1999–2004', current: false },
+      { name: 'Lock Up', period: '1998–2020', current: false },
+      { name: 'Testament', period: '2007', current: false }
+    ],
+    genre: 'Black Metal / Death Metal',
+    country: 'UK',
+    image: '/images/drummers/nick-barker.webp',
+    bio: 'Nicholas Howard Barker (born April 25, 1973) is an English extreme metal drummer known for his 1993–1999 tenure in Cradle of Filth, recording the band\'s formative albums The Principle of Evil Made Flesh (1994), Dusk... and Her Embrace (1996), and Cruelty and the Beast (1998). He joined Norwegian symphonic black metal band Dimmu Borgir in 1999, recording Puritanical Euphoric Misanthropia (2001) and Death Cult Armageddon (2003) before departing in early 2004. Barker also drummed for the international death metal/grindcore supergroup Lock Up from 1998 to 2020, alongside members of Napalm Death, Morbid Angel, and At the Gates, and briefly toured with Testament in 2007. Known for extremely fast double-bass work, precise blast beats, and odd-time multi-tom fills, he has also recorded or toured with Brujeria, Old Man\'s Child, and Shining.',
+    kitOverview: 'Nick Barker\'s most extensively documented rig is the custom all-black Pearl Masterworks kit he used during Dimmu Borgir\'s Death Cult Armageddon era (2003–2005) — a 10-ply maple shell pack built around a 14x3.5" maple snare, paired with black Paiste cymbals including a 24" Dimensions Mega Power Bell Ride. Remo Emperor X coated heads covered the snare, with Remo Emperor Clear heads on the toms. The kit, later put up for sale by Barker himself, appeared in Dimmu Borgir\'s "Progenies of the Great Apocalypse" promotional video and at Anaal Nathrakh\'s 2005 BBC Radio 1 Maida Vale session.\n\nBarker is listed as a current artist on Sonor\'s official roster, though no specific current kit model or configuration has been published; his present sticks, pedal, and hardware brands are not independently confirmed.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Nick_Barker_(drummer)',
+      'https://www.metal-archives.com/artists/Nicholas_Barker/1759',
+      'https://drummerszone.com/artists/nick-barker/4290/profile/'
+    ],
+    gear: {
+      drums: 'Pearl Masterworks (10-ply maple, custom black finish)',
+      snare: 'Pearl Masterworks 14x3.5" Maple (custom black finish)',
+      cymbals: 'Paiste (black finish, incl. 24" Dimensions Mega Power Bell Ride)',
+      heads: 'Remo Emperor X (coated, snare), Remo Emperor Clear (toms)',
+      verified: true,
+      notes: 'Documented from Barker\'s 2003–2005 Dimmu Borgir touring kit (Death Cult Armageddon era). Hardware, pedal, and stick brands from that era are not independently confirmed and are omitted rather than guessed. He is listed as a current Sonor artist, but no specific current kit has been published.',
+      sources: ['https://sickdrummermagazine.com/news/latest-news/nick-barker-original-pearl-masterworks-kit-for-sale/', 'https://blabbermouth.net/news/ex-dimmu-borgir-drummer-auctioning-death-cult-armagedon-touring-kit', 'https://www.sonor.com/drums/artists/artists-detail/nick-barker']
+    },
+    photos: [
+      '/images/drummers/nick-barker.webp' // Original: https://upload.wikimedia.org/wikipedia/commons/2/29/Nick_Barker_%282013%29.jpg (CC BY 2.0, Florian Stangl)
+    ],
+    endorsements: [
+      { name: 'Sonor Drums', url: 'https://www.sonor.com' },
+      { name: 'Pearl Drums (2003–2005 touring kit)', url: 'https://pearldrum.com' },
+      { name: 'Paiste Cymbals (2003–2005 touring kit)', url: 'https://www.paiste.com' },
+      { name: 'Remo Drumheads (2003–2005 touring kit)', url: 'https://remo.com' }
+    ],
+    videos: [
+      { title: 'LOCK UP - Accelerated Mutation (Drum Cam, Live in Poland 2017)', youtubeId: 'm1VxJvAR6NU', year: 2017 },
+      { title: 'Nick Barker | My Time With Dimmu Borgir | Good Memories, No Regrets', youtubeId: 'g-QCGS-DoLo', year: 2026 },
+      { title: 'Nick Barker | Why I Quit Cradle of Filth', youtubeId: 'a_4IMca_Hew', year: 2026 }
+    ]
   }
 ];
 

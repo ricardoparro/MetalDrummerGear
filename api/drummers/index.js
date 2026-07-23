@@ -3598,6 +3598,40 @@ const drummers = [
     videos: [
       { title: 'Jimmy DeGrasso (Megadeth) Interview with Jason Saulnier', youtubeId: 'nTduRvhytiY', year: 2012 }
     ]
+  },
+  {
+    id: 69,
+    name: 'Nick Barker',
+    band: 'Dimmu Borgir',
+    bands: [
+      { name: 'Cradle of Filth', period: '1993–1999', current: false },
+      { name: 'Dimmu Borgir', period: '1999–2004', current: false },
+      { name: 'Lock Up', period: '1998–2020', current: false }
+    ],
+    genre: 'Black Metal / Death Metal',
+    country: 'UK',
+    image: '/images/drummers/nick-barker.webp',
+    bio: "Nicholas Howard Barker (born April 25, 1973, in Chesterfield, Derbyshire, England) is a British extreme metal drummer. He joined Cradle of Filth in 1993, recording The Principle of Evil Made Flesh (1994), Vempire or Dark Faerytales in Phallustein (1996), Dusk... and Her Embrace (1996), Cruelty and the Beast (1998), and From the Cradle to Enslave (1999) before departing in 1999. He then joined Norwegian symphonic black metal band Dimmu Borgir, recording Puritanical Euphoric Misanthropia (2001) and Death Cult Armageddon (2003) during his 1999–2004 tenure. In 1998 he co-founded the grindcore supergroup Lock Up with Napalm Death's Shane Embury, recording Pleasures Pave Sewers (1999), Hate Breeds Suffering (2002), and Demonization (2017) before leaving the band in 2020. He has also done session and touring work for Testament, Old Man's Child, Exodus, Brujeria, Gorgoroth/God Seed, Anaal Nathrakh, and Benediction.",
+    kitOverview: "Nick Barker is an official Sonor artist, endorsed by the German drum manufacturer across his touring and session career in extreme metal. Sonor's own artist page credits him for his work with Cradle of Filth (1993–1999) and Dimmu Borgir (1999–2004), alongside his ongoing role in the grindcore supergroup Lock Up and session credits for Testament, Old Man's Child, and Exodus, among others.\n\nSonor's artist materials do not publish a specific kit model, snare spec, cymbal brand, or drumhead endorsement for Barker, so this profile omits those fields rather than guessing — a Nick Barker drum kit breakdown at the same component-level detail as many of his peers isn't independently documented as of this writing.",
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Nick_Barker_(drummer)'
+    ],
+    gear: {
+      drums: 'Sonor',
+      verified: true,
+      notes: 'Official Sonor artist endorsement confirmed; specific kit model, snare, cymbals, sticks, and heads are not publicly documented — omitted rather than guessed.',
+      sources: ['https://www.sonor.com/drums/artists/artists-detail/nick-barker']
+    },
+    photos: [
+      '/images/drummers/nick-barker.webp' // Original: https://upload.wikimedia.org/wikipedia/commons/2/29/Nick_Barker_%282013%29.jpg (CC BY 2.0, Florian Stangl)
+    ],
+    endorsements: [
+      { name: 'Sonor Drums', url: 'https://www.sonor.com' }
+    ],
+    videos: [
+      { title: 'LOCK UP - Accelerated Mutation - Nicholas Barker - Live in Poland (Drum Cam)', youtubeId: 'm1VxJvAR6NU', year: 2017 },
+      { title: 'Czarcie Kopyto Drum Cam - Nicholas Barker (Lock Up) - Brethren of the Pentagram, Krakow', youtubeId: 'PMaxFEL5zbo', year: 2017 }
+    ]
   }
 ];
 

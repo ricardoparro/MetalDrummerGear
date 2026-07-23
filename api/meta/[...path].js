@@ -1952,6 +1952,8 @@ export function getMetaForPath(pathname) {
             headline: `${brand1} vs ${brand2} — Drum Gear Comparison`,
             description: verdictAnswer || `Side-by-side comparison of ${brand1} and ${brand2} for metal drumming.`,
             url: `${BASE_URL}/compare/${slug}`,
+            ...(gearComparison?.datePublished ? { datePublished: gearComparison.datePublished } : {}),
+            ...(gearComparison?.dateModified ? { dateModified: gearComparison.dateModified } : {}),
             publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
             author: { '@type': 'Organization', name: 'MetalForge' },
             about: [

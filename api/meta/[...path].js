@@ -4794,6 +4794,160 @@ export function getMetaForPath(pathname) {
     }
   }
 
+  // Issue #4982: /drummer/<slug>/gear-history, /evolution, /endorsements —
+  // same regex-collision class as #4963 (bio). These three real, already-built
+  // sub-routes were falling through to the generic drummerCategoryMatch shell
+  // below (which serves "Gear-history — Drum Gear & Setup" nonsense) because
+  // that catch-all has no guard against them. Mirrors the /drummers/<slug>/...
+  // (plural) handlers above so the singular path serves the same real content.
+  const drummerGearHistoryMatch = path.match(/^\/drummer\/([a-z0-9-]+)\/gear-history$/);
+  if (drummerGearHistoryMatch) {
+    const [, slug] = drummerGearHistoryMatch;
+    const drummer = getDrummerBySlug(slug);
+    if (drummer) {
+      const priceHistory = getGearPriceHistory(slug);
+      const faqSchema = priceHistory ? [
+        {
+          question: `How much does ${drummer.name}'s drum kit cost?`,
+          answer: `${drummer.name}'s ${priceHistory.era || `${priceHistory.iconicYear} era`} setup cost approximately ${formatHistoryPrice(priceHistory.totals.originalTotal)} when purchased in ${priceHistory.iconicYear}, equivalent to roughly ${formatHistoryPrice(priceHistory.totals.inflationAdjusted2026)} in today's dollars.`,
+        },
+        {
+          question: `What brand does ${drummer.name} use?`,
+          answer: `${drummer.name} plays a ${priceHistory.setup?.drums?.item || 'drum kit'} with ${priceHistory.setup?.cymbals?.item || 'signature cymbals'}. See the full component-by-component gear breakdown on MetalForge.`,
+        },
+        {
+          question: `Is ${drummer.name}'s setup affordable?`,
+          answer: `A modern equivalent of ${drummer.name}'s setup costs around ${formatHistoryPrice(priceHistory.totals.modernEquivalentTotal)} today, comparable to a professional-tier kit. See MetalForge for the full price breakdown by component.`,
+        },
+      ] : null;
+      return {
+        title: `${drummer.name} Drum Kit Evolution — Gear History & Price Timeline | ${SITE_NAME}`,
+        description: `How ${drummer.name}'s drum kit and gear changed over the years. Era-by-era breakdown of kits, cymbals, and signature equipment with prices.`,
+        image: `${BASE_URL}/api/card/${slug}?format=twitter`,
+        type: 'article',
+        url: `${BASE_URL}/drummer/${slug}/gear-history`,
+        breadcrumbSchema: [
+          { name: 'Home', url: BASE_URL },
+          { name: drummer.name, url: `${BASE_URL}/drummer/${slug}` },
+          { name: 'Gear History', url: `${BASE_URL}/drummer/${slug}/gear-history` },
+        ],
+        speakableSchema: true,
+        speakableCssSelector: ['h1', 'h2', 'p'],
+        faqSchema,
+      };
+    }
+  }
+
+  const drummerEvolutionMatch = path.match(/^\/drummer\/([a-z0-9-]+)\/evolution$/);
+  if (drummerEvolutionMatch) {
+    const [, slug] = drummerEvolutionMatch;
+    const drummer = getDrummerBySlug(slug);
+    const evolution = DRUMMER_EVOLUTION[slug];
+    if (drummer && evolution) {
+      const graph = [
+        {
+          '@type': 'Article',
+          headline: `${drummer.name} Drum Kit Evolution`,
+          author: { '@type': 'Organization', name: 'MetalForge' },
+        },
+        {
+          '@type': 'BreadcrumbList',
+          itemListElement: [
+            { '@type': 'ListItem', position: 1, name: 'Home', item: BASE_URL },
+            { '@type': 'ListItem', position: 2, name: drummer.name, item: `${BASE_URL}/drummer/${slug}` },
+            { '@type': 'ListItem', position: 3, name: 'Gear Evolution', item: `${BASE_URL}/drummer/${slug}/evolution` },
+          ],
+        },
+      ];
+      // evolution.faqs is real, verified per-drummer Q&A data already present
+      // in drummerEvolution.js but not yet surfaced by the plural handler.
+      if (evolution.faqs && evolution.faqs.length > 0) {
+        graph.push({
+          '@type': 'FAQPage',
+          mainEntity: evolution.faqs.map(f => ({
+            '@type': 'Question',
+            name: f.q,
+            acceptedAnswer: { '@type': 'Answer', text: f.a },
+          })),
+        });
+      }
+      return {
+        title: `${drummer.name} Drum Kit Evolution — Complete Gear History | ${SITE_NAME}`,
+        description: `How ${drummer.name}'s drum setup evolved from ${evolution.eras?.[0]?.year || evolution.eras?.[0]?.startYear || 'early career'} to today. Every kit change across ${drummer.band}'s discography.`,
+        image: drummer.image || `${BASE_URL}/images/og/default.png`,
+        type: 'article',
+        url: `${BASE_URL}/drummer/${slug}/evolution`,
+        articleSchema: JSON.stringify({
+          '@context': 'https://schema.org',
+          '@graph': graph,
+        }),
+        ssrLinks: [
+          { href: `/drummer/${slug}`, label: `${drummer.name} Profile` },
+          { href: `/drummer/${slug}/endorsements`, label: `${drummer.name} Endorsements` },
+        ],
+        speakableSchema: true,
+        speakableCssSelector: ['h1', 'h2', 'p'],
+      };
+    }
+  }
+
+  const drummerEndorsementsMatch = path.match(/^\/drummer\/([a-z0-9-]+)\/endorsements$/);
+  if (drummerEndorsementsMatch) {
+    const [, slug] = drummerEndorsementsMatch;
+    const drummer = getDrummerBySlug(slug);
+    if (drummer) {
+      const endorsements = drummer.endorsements || [];
+      const endorsementNames = endorsements.map(e => e.name);
+      const drumsEndorsement = endorsements.find(e => /drum/i.test(e.name) && !/drumstick|drumhead/i.test(e.name));
+      const cymbalEndorsement = endorsements.find(e => /cymbal/i.test(e.name));
+      const primaryKit = drumsEndorsement ? drumsEndorsement.name : (drummer.gear?.drums || 'a custom drum kit');
+      const cymbalBrand = cymbalEndorsement ? cymbalEndorsement.name : (drummer.gear?.cymbals || 'cymbals');
+      const endorsementList = endorsementNames.length > 0
+        ? endorsementNames.join(', ')
+        : (drummer.gear ? [drummer.gear.drums, drummer.gear.cymbals].filter(Boolean).join(', ') : 'various gear brands');
+      const endorsementsUrl = `${BASE_URL}/drummer/${slug}/endorsements`;
+      return {
+        title: `${drummer.name} Endorsements & Gear Sponsors | ${SITE_NAME}`,
+        description: `Official gear endorsements for ${drummer.name} (${drummer.band}): drum brands, cymbal sponsors, stick deals, and hardware partnerships.`,
+        image: drummer.image || `${BASE_URL}/images/og/default.png`,
+        type: 'article',
+        url: endorsementsUrl,
+        articleSchema: JSON.stringify({
+          '@context': 'https://schema.org',
+          '@type': 'Article',
+          headline: `${drummer.name} Endorsements & Gear Sponsors`,
+          description: `Official gear endorsements for ${drummer.name} (${drummer.band}): drum brands, cymbal sponsors, stick deals, and hardware partnerships.`,
+          image: drummer.image || `${BASE_URL}/images/og/default.png`,
+          author: { '@type': 'Organization', name: 'MetalForge' },
+          publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
+          mainEntityOfPage: { '@type': 'WebPage', '@id': endorsementsUrl },
+        }),
+        breadcrumbSchema: [
+          { name: 'Home', url: BASE_URL },
+          { name: 'Drummers', url: `${BASE_URL}/drummers` },
+          { name: drummer.name, url: `${BASE_URL}/drummer/${slug}` },
+          { name: 'Endorsements', url: endorsementsUrl },
+        ],
+        speakableSchema: true,
+        speakableCssSelector: ['h1', 'h2', 'p'],
+        faqSchema: [
+          {
+            question: `What brands does ${drummer.name} endorse?`,
+            answer: `${drummer.name} endorses ${endorsementList}. Visit MetalForge for the full breakdown of their gear sponsors and partnerships.`,
+          },
+          {
+            question: `What drum kit does ${drummer.name} endorse?`,
+            answer: `${drummer.name}'s main drum endorsement is ${primaryKit}. See the complete kit specs on MetalForge.`,
+          },
+          {
+            question: `Does ${drummer.name} endorse cymbals?`,
+            answer: `${drummer.name} endorses ${cymbalBrand}. Full cymbal setup and endorsement details are available on MetalForge.`,
+          },
+        ],
+      };
+    }
+  }
+
   // Issue #1266: /drummer/<slug>/<category> gear category pages (~90 pages)
   const drummerCategoryMatch = path.match(/^\/drummer\/([a-z0-9-]+)\/([a-z0-9-]+)$/);
   if (drummerCategoryMatch) {

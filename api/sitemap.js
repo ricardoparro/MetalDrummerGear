@@ -6,6 +6,9 @@
 // Issue #785: Import albumArticles dynamically from data source
 
 import { ALBUM_ARTICLES } from '../packages/frontend/data/albumArticles.js';
+// Issue #4964: /drummer/<slug>/bio pages exist (self-canonical, real content
+// per extendedBios.js) but were never sitemap-declared.
+import { getAllExtendedBioSlugs } from '../packages/frontend/data/extendedBios.js';
 // Issue #994 (split 3/3 of #870): source technique slugs for the new
 // /technique/<slug>/drummers pages directly from the data module so the
 // sitemap stays in sync as techniques are added.
@@ -683,6 +686,14 @@ export function buildSitemapXml() {
         },
       };
     }),
+    // Issue #4964: /drummer/<slug>/bio pages exist (self-canonical, real content
+    // per extendedBios.js) but were never sitemap-declared — crawl discovery relied
+    // solely on an internal link from the parent profile page.
+    ...getAllExtendedBioSlugs().map(slug => ({
+      loc: `/drummer/${slug}/bio`,
+      priority: '0.75',
+      changefreq: 'monthly',
+    })),
     ...gearItems.map(g => ({ loc: `/gear/item/${g.slug}`, priority: '0.7', changefreq: 'monthly' })),
     // Issue #1799: Genre hub (/genres) + 8 genre landing pages (/genre/<slug>)
     { loc: '/genres', priority: '0.9', changefreq: 'weekly' },

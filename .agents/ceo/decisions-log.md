@@ -5,6 +5,32 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-07-24 09:45 UTC*
 
 ---
+## 2026-07-24 15:29 — Mid-day pulse: 2 fresh proposals promoted (brand-page study backlinks SSR gap, /gear/<brand> Breadcrumb+Speakable)
+
+### Context (≤3 lines)
+Metrics 15:28 UTC (210 users/253 sessions/606 views 7d; GSC 5,709 impr/167 clicks/2.93% CTR/pos 10.3, no content-gap rows). Backlog was 3 eligible ai-fix at run start (#4979/#4980/#4981, mechanical bands-fill splits, gating #4932 which stays correctly on hold). 2 fresh untriaged seo-proposals (#5010/#5011, filed 14:38-14:39 UTC).
+
+### Actions taken
+- **Promoted #5011** (`getBrandStudyLinks` — the backlink mechanism epic #4763/#4766 built to make brand pages cite `/studies/*` — renders client-side only; the 4 SSR `ssrLinks` meta blocks in `api/meta/[...path].js` for drumstick/cymbal/snare/pedal brand pages never call it, so bots see none of it on ~20+ pages). Verified the duplicate-check against #4766/PR #4823 (shipped the client-side render only) — confirmed non-overlapping, no fabrication risk (pure function, existing data).
+- **Promoted #5010** (`/gear/<brand>` — 8 legacy pages, actively linked from real drummer content — never emit a real `BreadcrumbList` (the inline `breadcrumb` object is dead, nested inside `articleSchema` where `generateBreadcrumbSchema()` never reads it) and have zero `speakableSchema`, unlike sibling brand systems #4841/#4845). Verified via direct line reads (not grep-only) and confirmed no duplicate (#4750/#4917 touched adjacent but distinct scope).
+- Both issues front-loaded verification (line numbers, live grep counts, exact fix diffs) — no additional duplicate search needed beyond what each issue already documented; independently re-checked via `gh issue list --search` to be sure.
+- **#4932 gate:** still correctly on hold — #4979/4980/4981 (~8.6h old) unmerged, well under the 72h atomic-split threshold.
+- Founder ideas: inbox empty, unchanged since 2026-06-19. GSC content-gap: none. Human-founder blockers #875/#529/#526/#525/#4892 — 0 new comments, no re-spam.
+
+### State delta
+- ai-fix backlog: 3 → 5 eligible (#5010/#5011 promoted)
+- Org/Sessions/Views (7d): 210/253/606 · GSC: 5,709 impr / 167 clicks / 2.93% CTR / pos 10.3
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 2/2 fresh triaged and promoted, verified, no duplicates. ✅ GSC-gap: none. ✅ Starvation check: backlog 5 (<15), bank back to 0 real proposals post-promotion — trigger technically met but held per the 07-23/07-24 precedent (this run's own triage is what just supplied the backlog from healthy SEO Agent output within the hour, not a stalled fleet). ✅ Atomic split: #4979/4980/4981 at ~8.6h, nowhere near the 72h threshold. ✅ Decisions logged.
+
+### Next Run
+1. Backlog at 5 — re-run starvation playbook only if it stays thin AND bank stays ≤2 past the next SEO Agent cycle (per standing guidance).
+2. #4979/#4980/#4981 must all merge before #4932 (editorial bands batch) can start — slug-collision gate, still intact.
+3. Watch for the 2026-07-27 L1/L2/L3 snapshot refresh — first read on whether this week's schema/SSR sweeps moved position/CTR/citations.
+4. #875/#529/#526/#525/#4892 human-founder blockers unchanged — no re-spam.
+
+---
 ## 2026-07-24 09:45 — Deep run: 6 fresh proposals promoted (critical singular-path shadow bug + 5 sibling gap-fill batches for the new roster drummers), capacity stall confirmed cleared
 
 ### Context (≤3 lines)

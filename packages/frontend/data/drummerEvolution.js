@@ -21354,6 +21354,583 @@ export const DRUMMER_EVOLUTION = {
     metaTitle: 'Adrian Erlandsson Gear Evolution Timeline | At the Gates Drum Kit History',
     metaDescription: 'Explore Adrian Erlandsson\'s complete drum gear evolution: the budget Pearl-era kit behind At the Gates\' Slaughter of the Soul (1995), the Tama Starclassic relationship built across The Haunted and Cradle of Filth, and the Tama Starclassic Bubinga / Sabian / Czarcie Kopyto rig from his Paradise Lost years that defines his current At the Gates setup.',
   },
+
+  // ==========================================
+  // Jimmy DeGrasso - Megadeth
+  // ==========================================
+  'jimmy-degrasso': {
+    slug: 'jimmy-degrasso',
+    name: 'Jimmy DeGrasso',
+    band: 'Megadeth',
+    totalYearsActive: '1987-Present',
+    profileImage: '/images/drummers/jimmy-degrasso.webp',
+    summary: 'Jimmy DeGrasso built a three-decade touring and recording career across Y&T, Suicidal Tendencies, and Alice Cooper before landing his highest-profile chair in Megadeth from 1998-2002, then saw Pearl release his own JD1455 signature snare in 2008 — a rig anchored throughout by Pearl drums and Sabian cymbals.',
+
+    eras: [
+      {
+        id: 'jimmy-degrasso-1987-touring-years',
+        era: 'Y&T, Suicidal Tendencies & Megadeth Years',
+        years: '1987-2002',
+        startYear: 1987,
+        endYear: 2002,
+        description: 'DeGrasso built his career as a touring and recording drummer across Y&T (1987-1991, 1995-1997), Suicidal Tendencies (1992-1995), and Alice Cooper (1994-1998), before landing his highest-profile chair in Megadeth from 1998-2002, recording Risk (1999), The World Needs a Hero (2001), and the band\'s first live release, Rude Awakening (2002).',
+        albums: ['Megadeth - Risk (1999)', 'Megadeth - The World Needs a Hero (2001)', 'Megadeth - Rude Awakening (2002, live)'],
+        tours: ['Y&T, Suicidal Tendencies & Alice Cooper Touring 1987-1998', 'Megadeth World Touring 1998-2002'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl',
+            details: 'Standard Pearl kit (specific model not independently documented for this period)',
+            notes: 'DeGrasso maintained his Pearl endorsement through this run; his own signature snare wouldn\'t arrive until 2008.',
+            change: CHANGE_TYPES.NEW,
+          },
+          cymbals: {
+            item: 'Sabian',
+            details: 'Standard Sabian setup (specific models not independently documented for this period)',
+            notes: 'Sabian\'s own artist materials describe the endorsement as maintained across his touring career with Megadeth, Alice Cooper, and other hard rock acts.',
+            change: CHANGE_TYPES.NEW,
+          },
+          sticks: {
+            item: 'Promark',
+            details: 'Standard hickory',
+            notes: 'Completed the rig DeGrasso used through the Risk and The World Needs a Hero sessions and the Rude Awakening live recording.',
+            change: CHANGE_TYPES.NEW,
+          },
+          heads: {
+            item: 'Evans',
+            details: 'Standard heads',
+            notes: 'Paired with Promark sticks across the same Megadeth-era sessions.',
+            change: CHANGE_TYPES.NEW,
+          },
+        },
+
+        estimatedCost: {
+          original: 2800,
+          inflationAdjusted: 5200,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Toured and recorded with Y&T, Suicidal Tendencies, and Alice Cooper through the late 1980s and 1990s',
+          'Joined Megadeth in 1998, recording Risk (1999) and The World Needs a Hero (2001)',
+          'Played on Megadeth\'s first live release, Rude Awakening (2002)',
+        ],
+
+        videos: [],
+      },
+
+      {
+        id: 'jimmy-degrasso-2008-signature-snare',
+        era: 'Pearl JD1455 Signature Snare Era',
+        years: '2008-Present',
+        startYear: 2008,
+        endYear: 2026,
+        description: 'Pearl unveiled DeGrasso\'s own JD1455 signature snare — a 14"x5.5" hammered brass shell with gold-plated hardware — at the 2008 NAMM Show, built for the cut and authority loud, amplified thrash and hard rock demands of his touring career. He continued playing and recording with Alice Cooper (2008-2010) and went on to further stints with Dokken, Black Star Riders, and Ratt.',
+        albums: [],
+        tours: ['Alice Cooper Touring 2008-2010'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl',
+            details: 'Standard Pearl kit, unchanged brand relationship',
+            notes: 'Continued the Pearl endorsement carried from his Megadeth years.',
+            change: null,
+          },
+          snare: {
+            item: 'Pearl JD1455 Jimmy DeGrasso Signature 14"x5.5" Hammered Brass',
+            details: 'Hammered brass shell, gold-plated hardware',
+            notes: 'Unveiled by Pearl at the 2008 NAMM Show — his first and only signature snare model.',
+            change: CHANGE_TYPES.SIGNATURE,
+          },
+          cymbals: {
+            item: 'Sabian',
+            details: 'Standard Sabian setup (specific models not independently documented)',
+            notes: 'Endorsement relationship unchanged from his earlier touring years.',
+            change: null,
+          },
+          sticks: {
+            item: 'Promark',
+            details: 'Standard hickory',
+            notes: 'Unchanged from his Megadeth-era rig.',
+            change: null,
+          },
+          heads: {
+            item: 'Evans',
+            details: 'Standard heads',
+            notes: 'Unchanged from his Megadeth-era rig.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 3400,
+          inflationAdjusted: 4900,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Pearl released the JD1455 Jimmy DeGrasso Signature Snare at the 2008 NAMM Show',
+          'Rejoined Alice Cooper for a second touring stint (2008-2010)',
+          'Went on to further stints with Dokken, Black Star Riders, and Ratt',
+        ],
+
+        videos: [],
+      },
+    ],
+
+    metaTitle: 'Jimmy DeGrasso Gear Evolution Timeline | Megadeth Drum Kit History',
+    metaDescription: 'Explore Jimmy DeGrasso\'s gear evolution from Y&T and Suicidal Tendencies to his 1998-2002 Megadeth tenure and the 2008 Pearl JD1455 signature snare that followed it.',
+  },
+
+  // ==========================================
+  // Nick Barker - Dimmu Borgir / Cradle of Filth
+  // ==========================================
+  'nick-barker': {
+    slug: 'nick-barker',
+    name: 'Nick Barker',
+    band: 'Dimmu Borgir',
+    totalYearsActive: '1993-2020',
+    profileImage: '/images/drummers/nick-barker.webp',
+    summary: 'Nick Barker built his reputation across two of extreme metal\'s most influential outfits — Cradle of Filth (1993-1999) and Dimmu Borgir (1999-2004) — before anchoring the grindcore supergroup Lock Up from 1998 to 2020, all as a longtime Sonor-endorsed artist.',
+
+    eras: [
+      {
+        id: 'nick-barker-1993-cradle-dimmu-years',
+        era: 'Cradle of Filth & Dimmu Borgir Years',
+        years: '1993-2004',
+        startYear: 1993,
+        endYear: 2004,
+        description: 'Barker joined Cradle of Filth in 1993, recording The Principle of Evil Made Flesh (1994), Vempire or Dark Faerytales in Phallustein (1996), Dusk... and Her Embrace (1996), Cruelty and the Beast (1998), and From the Cradle to Enslave (1999) before departing in 1999. He then joined Norwegian symphonic black metal band Dimmu Borgir, recording Puritanical Euphoric Misanthropia (2001) and Death Cult Armageddon (2003) during his 1999-2004 tenure.',
+        albums: ['Cradle of Filth - The Principle of Evil Made Flesh (1994)', 'Cradle of Filth - Dusk... and Her Embrace (1996)', 'Cradle of Filth - Cruelty and the Beast (1998)', 'Dimmu Borgir - Puritanical Euphoric Misanthropia (2001)', 'Dimmu Borgir - Death Cult Armageddon (2003)'],
+        tours: ['Cradle of Filth Touring 1993-1999', 'Dimmu Borgir Touring 1999-2004'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Sonor',
+            details: 'Specific kit model not publicly documented',
+            notes: 'Sonor\'s own artist page credits Barker for his work with Cradle of Filth (1993-1999) and Dimmu Borgir (1999-2004), though it does not publish shell sizes, finish, or a component-level spec for this period.',
+            change: CHANGE_TYPES.NEW,
+          },
+        },
+
+        estimatedCost: {
+          original: 1800,
+          inflationAdjusted: 3600,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Joined Cradle of Filth in 1993, recording five albums including Dusk... and Her Embrace (1996) and Cruelty and the Beast (1998)',
+          'Departed Cradle of Filth in 1999 to join Dimmu Borgir',
+          'Recorded Puritanical Euphoric Misanthropia (2001) and Death Cult Armageddon (2003) with Dimmu Borgir',
+        ],
+
+        videos: [],
+      },
+
+      {
+        id: 'nick-barker-1998-lock-up-session-years',
+        era: 'Lock Up & Extreme Metal Session Years',
+        years: '1998-2020',
+        startYear: 1998,
+        endYear: 2020,
+        description: 'In 1998, while still in Cradle of Filth, Barker co-founded the grindcore supergroup Lock Up with Napalm Death\'s Shane Embury, recording Pleasures Pave Sewers (1999), Hate Breeds Suffering (2002), and Demonization (2017) before leaving the band in 2020. Across the same span he did extensive session and touring work for Testament, Old Man\'s Child, Exodus, Brujeria, Gorgoroth/God Seed, Anaal Nathrakh, and Benediction.',
+        albums: ['Lock Up - Pleasures Pave Sewers (1999)', 'Lock Up - Hate Breeds Suffering (2002)', 'Lock Up - Demonization (2017)'],
+        tours: ['Lock Up Touring 1998-2020'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Sonor',
+            details: 'Specific kit model not publicly documented',
+            notes: 'Sonor\'s artist page names Lock Up alongside his Cradle of Filth and Dimmu Borgir credits — the same endorsed relationship carried across this era, with no documented gear switch.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 2000,
+          inflationAdjusted: 3000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Co-founded grindcore supergroup Lock Up in 1998 with Napalm Death\'s Shane Embury',
+          'Recorded three Lock Up albums across two decades, including the long-delayed Demonization (2017)',
+          'Extensive session/touring work for Testament, Old Man\'s Child, Exodus, Brujeria, Gorgoroth/God Seed, Anaal Nathrakh, and Benediction',
+          'Left Lock Up in 2020',
+        ],
+
+        videos: [],
+      },
+    ],
+
+    metaTitle: 'Nick Barker Gear Evolution Timeline | Cradle of Filth & Dimmu Borgir Drum Kit History',
+    metaDescription: 'Trace Nick Barker\'s drumming career from Cradle of Filth (1993-1999) through Dimmu Borgir (1999-2004) to the grindcore supergroup Lock Up (1998-2020), and his longtime Sonor drums endorsement.',
+  },
+
+  // ==========================================
+  // Alex Rüdinger - The Faceless / Trivium
+  // ==========================================
+  'alex-rudinger': {
+    slug: 'alex-rudinger',
+    name: 'Alex Rüdinger',
+    band: 'The Faceless',
+    totalYearsActive: '2010-Present',
+    profileImage: '/images/drummers/alex-rudinger.webp',
+    summary: 'Alex Rüdinger built his name through technical death metal and progressive touring stints — Threat Signal, The HAARP Machine, The Faceless, Conquering Dystopia, Good Tiger, and 7 Horns 7 Eyes — before a session-heavy run culminated in his 2025 tenure as Trivium\'s drummer, playing a Tama Starclassic Performer B/B rig that earned him his own signature drumstick model.',
+
+    eras: [
+      {
+        id: 'alex-rudinger-2018-session-breakout-years',
+        era: '7 Horns 7 Eyes, Whitechapel & Session Breakout Years',
+        years: '2018-2024',
+        startYear: 2018,
+        endYear: 2024,
+        description: 'Rüdinger joined the progressive band 7 Horns 7 Eyes in 2018 while ramping up extensive session and touring work — recording on Whitechapel\'s Kin (2021) and touring with the band from 2019-2021, joining Light the Torch\'s 2021 touring lineup, and contributing to Nonvector\'s Ashen Time (2024) alongside studio credits with Cognizance, Monuments, Revocation, and Intronaut. This session-heavy stretch is the period his Tama Starclassic Performer B/B, Evans, and Meinl Cymbals setup is documented by each brand\'s own artist pages.',
+        albums: ['Whitechapel - Kin (2021)', 'Nonvector - Ashen Time (2024)'],
+        tours: ['Whitechapel Touring 2019-2021', 'Light the Torch Touring 2021'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Tama Starclassic Performer B/B',
+            details: '20"x16" bass drum, 8"x7"/10"x7" rack toms, 14"x12"/16"x14" floor toms',
+            notes: 'Documented on Tama\'s own artist page; the page does not date when the endorsement began, so it is presented here as his documented setup for this session-heavy stretch rather than his earlier 2010s touring years.',
+            change: CHANGE_TYPES.NEW,
+          },
+          snare: {
+            item: 'Tama STARPHONIC Brass 14"x6" (or SLP Black Brass alternate)',
+            details: 'Brass shell, with an SLP Black Brass snare as a documented alternate',
+            notes: 'Per Tama\'s own artist listing.',
+            change: CHANGE_TYPES.NEW,
+          },
+          hardware: {
+            item: 'Tama Speed Cobra Bass Drum Pedals & Hi-Hat Stand',
+            details: 'Paired with Tama Roadpro stands and a 1st Chair Ergo-Rider throne',
+            notes: 'Full hardware setup per Tama\'s artist page.',
+            change: CHANGE_TYPES.NEW,
+          },
+          heads: {
+            item: 'Evans',
+            details: 'UV EQ4 Coated bass batter, G2 Clear tom batters, HD Dry snare batter, Snare Side 300, G1 Clear/EQ3-NP Black bass reso',
+            notes: 'Documented on Evans\' own artist page as an official D\'Addario/Evans artist.',
+            change: CHANGE_TYPES.NEW,
+          },
+          cymbals: {
+            item: 'Meinl Cymbals',
+            details: 'Byzance and MB20 series (specific models not independently documented)',
+            notes: 'Longtime Meinl Cymbals artist; Meinl does not publish a component-level spec sheet as detailed as Tama\'s and Evans\', so a cymbal-by-cymbal breakdown is omitted rather than guessed.',
+            change: CHANGE_TYPES.NEW,
+          },
+        },
+
+        estimatedCost: {
+          original: 3800,
+          inflationAdjusted: 4400,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Joined progressive band 7 Horns 7 Eyes in 2018',
+          'Recorded Whitechapel\'s Kin (2021) and toured with the band 2019-2021',
+          'Joined Light the Torch\'s 2021 touring lineup',
+          'Contributed to Nonvector\'s Ashen Time (2024) and session credits with Cognizance, Monuments, Revocation, and Intronaut',
+        ],
+
+        videos: [],
+      },
+
+      {
+        id: 'alex-rudinger-2025-trivium-era',
+        era: 'Trivium Era & Tama Signature Sticks',
+        years: '2025-Present',
+        startYear: 2025,
+        endYear: 2026,
+        description: 'In 2025 Rüdinger became the touring and studio drummer for Trivium, his highest-profile placement to date, debuting on the single "Catastrophist." Tama marked the milestone with his own HRUDI signature drumstick model — his first signature product — while the rest of his Tama Starclassic Performer B/B, Evans, and Meinl rig carried over unchanged.',
+        albums: [],
+        tours: ['Trivium Touring 2025-Present'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Tama Starclassic Performer B/B',
+            details: '20"x16" bass drum, 8"x7"/10"x7" rack toms, 14"x12"/16"x14" floor toms',
+            notes: 'Unchanged from his session-breakout years.',
+            change: null,
+          },
+          snare: {
+            item: 'Tama STARPHONIC Brass 14"x6" (or SLP Black Brass alternate)',
+            details: 'Brass shell, with an SLP Black Brass snare as a documented alternate',
+            notes: 'Unchanged from his session-breakout years.',
+            change: null,
+          },
+          hardware: {
+            item: 'Tama Speed Cobra Bass Drum Pedals & Hi-Hat Stand',
+            details: 'Paired with Tama Roadpro stands and a 1st Chair Ergo-Rider throne',
+            notes: 'Unchanged from his session-breakout years.',
+            change: null,
+          },
+          heads: {
+            item: 'Evans',
+            details: 'UV EQ4 Coated bass batter, G2 Clear tom batters, HD Dry snare batter, Snare Side 300, G1 Clear/EQ3-NP Black bass reso',
+            notes: 'Unchanged from his session-breakout years.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Meinl Cymbals',
+            details: 'Byzance and MB20 series (specific models not independently documented)',
+            notes: 'Unchanged from his session-breakout years.',
+            change: null,
+          },
+          sticks: {
+            item: 'Tama HRUDI Alex Rudinger Signature Drumsticks',
+            details: 'Hickory, 0.625" diameter, 16.5" length',
+            notes: 'Tama designed the signature stick to Rüdinger\'s own specifications — his first signature product.',
+            change: CHANGE_TYPES.SIGNATURE,
+          },
+        },
+
+        estimatedCost: {
+          original: 3900,
+          inflationAdjusted: 4200,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Became the touring and studio drummer for Trivium in 2025',
+          'Debuted with Trivium on the single "Catastrophist"',
+          'Tama released the HRUDI Alex Rudinger Signature Drumsticks, his first signature product',
+        ],
+
+        videos: [],
+      },
+    ],
+
+    metaTitle: 'Alex Rüdinger Gear Evolution Timeline | Technical Death Metal Drum Kit History',
+    metaDescription: 'Explore Alex Rüdinger\'s gear evolution from his 7 Horns 7 Eyes and Whitechapel session years to his 2025 Trivium tenure — Tama Starclassic, Evans, Meinl, and his own signature drumsticks.',
+  },
+
+  // ==========================================
+  // John Longstreth - Origin
+  // ==========================================
+  'john-longstreth': {
+    slug: 'john-longstreth',
+    name: 'John Longstreth',
+    band: 'Origin',
+    totalYearsActive: '1995-Present',
+    profileImage: '/images/drummers/john-longstreth.webp',
+    summary: 'Widely regarded as one of extreme metal\'s fastest and most technically accomplished drummers, John Longstreth co-founded Angelcorpse in 1995 and has driven Origin since 1999, building a rig around Pearl drums, Meinl\'s Classics Custom Dark cymbal series, and an ACD Unlimited/FootBlaster pedal setup engineered to sustain his high-speed blast beats.',
+
+    eras: [
+      {
+        id: 'john-longstreth-1995-angelcorpse-founding',
+        era: 'Angelcorpse Founding & Origin Debut Years',
+        years: '1995-2003',
+        startYear: 1995,
+        endYear: 2003,
+        description: 'Longstreth co-founded Angelcorpse in 1995, recording Hammer of Gods (1996) and Exterminate (1998) before departing. He was then introduced to Origin, joining in 1999 and recording the band\'s debut Informis Infinitas Inhumanitas (2002); he also drummed for Skinless in 2003 before Origin went on hiatus later that year.',
+        albums: ['Angelcorpse - Hammer of Gods (1996)', 'Angelcorpse - Exterminate (1998)', 'Origin - Informis Infinitas Inhumanitas (2002)'],
+        tours: ['Angelcorpse European Touring 1995-1998', 'Origin Touring 1999-2003'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl',
+            details: 'Specific kit model/shell sizes not independently documented for this period',
+            notes: 'Pearl is the only drum brand ever documented for Longstreth, though his own artist specification page could not be independently accessed to confirm exactly when the relationship began.',
+            change: CHANGE_TYPES.NEW,
+          },
+        },
+
+        estimatedCost: {
+          original: 1600,
+          inflationAdjusted: 3300,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Co-founded Angelcorpse in 1995, recording Hammer of Gods (1996) and Exterminate (1998)',
+          'Joined Origin in 1999, recording the band\'s debut Informis Infinitas Inhumanitas (2002)',
+          'Drummed for Skinless in 2003 before Origin went on hiatus',
+        ],
+
+        videos: [],
+      },
+
+      {
+        id: 'john-longstreth-2006-origin-modern-years',
+        era: 'Origin, Angelcorpse Reunion & Modern Extreme Metal Years',
+        years: '2006-Present',
+        startYear: 2006,
+        endYear: 2026,
+        description: 'Origin returned from hiatus in 2006, with Longstreth recording Antithesis (2008), Entity (2011), Omnipresent (2014), Unparalleled Universe (2017), and Chaosmos (2022) — a run that cemented his reputation for pioneering the double-stroke bass drum technique and one-handed drum roll within extreme metal. He also rejoined Angelcorpse for its 2006-2007 reunion and filled in on Hate Eternal\'s November 2018 US tour for regular drummer Hannes Grossmann. This is the era his Pearl kit, Meinl Classics Custom Dark cymbal series, ACD Unlimited/FootBlaster pedal setup, and Scorpion Percussion "Wee Heavy" signature sticks are documented via each brand\'s own artist pages.',
+        albums: ['Origin - Antithesis (2008)', 'Origin - Entity (2011)', 'Origin - Omnipresent (2014)', 'Origin - Unparalleled Universe (2017)', 'Origin - Chaosmos (2022)'],
+        tours: ['Origin World Touring 2006-Present', 'Angelcorpse Reunion Touring 2006-2007', 'Hate Eternal Touring Fill-In 2018'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl',
+            details: 'Specific kit model/shell sizes not independently documented',
+            notes: 'Endorsement confirmed via his own Scorpion Percussion artist bio; Pearl\'s own artist specification page blocks automated access.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Meinl Classics Custom Dark Series',
+            details: '8" Dark Splash, 14" Dark Hihat, 18" Dark China, plus a Generation X 12"/14" Trash Hat',
+            notes: 'Documented on Meinl\'s own artist page — the metallic, choked accents heard across his Origin blast-beat patterns.',
+            change: CHANGE_TYPES.NEW,
+          },
+          hardware: {
+            item: 'ACD Unlimited Bass Drum Pedals + FootBlaster Triggers',
+            details: 'Pedal and trigger combination built for sustained high-speed blast beats',
+            notes: 'A rig built around sustaining the high-speed, high-endurance blast beats and double-bass patterns that define his reputation as one of death metal\'s fastest drummers.',
+            change: CHANGE_TYPES.NEW,
+          },
+          sticks: {
+            item: 'Scorpion Percussion "Wee Heavy" Signature Drumsticks',
+            details: 'Signature stick model',
+            notes: 'His own signature model, per Scorpion Percussion\'s artist page.',
+            change: CHANGE_TYPES.SIGNATURE,
+          },
+        },
+
+        estimatedCost: {
+          original: 3000,
+          inflationAdjusted: 3600,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Origin returned from hiatus in 2006; recorded five albums through Chaosmos (2022)',
+          'Rejoined Angelcorpse for its 2006-2007 reunion',
+          'Filled in on Hate Eternal\'s November 2018 US tour',
+          'Added Meinl Classics Custom Dark cymbals, an ACD Unlimited/FootBlaster pedal setup, and his own Scorpion Percussion signature sticks',
+        ],
+
+        quote: {
+          text: "Embrace the art! Whether it's two-foot blasting, double strokes, one-handed rolls, triggers, etc., if it makes you feel good as a player, USE IT!",
+          source: 'Modern Drummer',
+          year: 2011,
+        },
+
+        videos: [],
+      },
+    ],
+
+    metaTitle: 'John Longstreth Gear Evolution Timeline | Origin Drum Kit History',
+    metaDescription: 'Explore John Longstreth\'s gear evolution from Angelcorpse\'s founding years to the Pearl, Meinl, ACD Unlimited, and Scorpion Percussion signature-stick rig built for extreme metal\'s fastest blast beats.',
+  },
+
+  // ==========================================
+  // Waltteri Väyrynen - Opeth / Paradise Lost
+  // ==========================================
+  'waltteri-vayrynen': {
+    slug: 'waltteri-vayrynen',
+    name: 'Waltteri Väyrynen',
+    band: 'Opeth',
+    totalYearsActive: '2015-Present',
+    profileImage: '/images/drummers/waltteri-vayrynen.webp',
+    summary: 'Waltteri Väyrynen went from session drummer to full member of British gothic doom pioneers Paradise Lost (2015-2022), squeezing in a stint with Alexi Laiho\'s Bodom After Midnight along the way, before joining Swedish progressive metal band Opeth in 2022 — a move that came with his own Wincent W-5BXL signature drumstick.',
+
+    eras: [
+      {
+        id: 'waltteri-vayrynen-2015-paradise-lost-years',
+        era: 'Paradise Lost & Bodom After Midnight Years',
+        years: '2015-2022',
+        startYear: 2015,
+        endYear: 2022,
+        description: 'Väyrynen first appeared as a session drummer for Paradise Lost in 2015, became an official member in 2016, and recorded Medusa (2017) and Obsidian (2020) with the band before departing in September 2022. In 2020, while still in Paradise Lost, he joined Bodom After Midnight, tracking material later released posthumously as the Paint the Sky with Blood EP (2021) following Alexi Laiho\'s death in December 2020.',
+        albums: ['Paradise Lost - Medusa (2017)', 'Paradise Lost - Obsidian (2020)', 'Bodom After Midnight - Paint the Sky with Blood EP (2021)'],
+        tours: ['Paradise Lost World Touring 2015-2022'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl',
+            details: 'Specific kit model/shell sizes not independently documented',
+            notes: 'Endorsement confirmed via Pearl\'s own artist roster and independently corroborated by Antelope Audio\'s writeup of his 2020 studio session at Orgone Studios — squarely within this Paradise Lost era.',
+            change: CHANGE_TYPES.NEW,
+          },
+          cymbals: {
+            item: 'Sabian',
+            details: 'Confirmed favourite piece: 22" HH Power Bell Ride',
+            notes: 'Documented on Sabian\'s own artist page, which names the 22" HH Power Bell Ride as his favourite piece; the rest of his cymbal lineup isn\'t itemized there, so only that confirmed piece is listed.',
+            change: CHANGE_TYPES.NEW,
+          },
+        },
+
+        estimatedCost: {
+          original: 2400,
+          inflationAdjusted: 2900,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Session drummer for Paradise Lost from 2015, official member from 2016',
+          'Recorded Medusa (2017) and Obsidian (2020) with Paradise Lost',
+          'Joined Bodom After Midnight in 2020, recording the posthumous Paint the Sky with Blood EP (2021)',
+          'Departed Paradise Lost in September 2022',
+        ],
+
+        videos: [],
+      },
+
+      {
+        id: 'waltteri-vayrynen-2022-opeth-era',
+        era: 'Opeth Era & Wincent Signature Sticks',
+        years: '2022-Present',
+        startYear: 2022,
+        endYear: 2026,
+        description: 'In September 2022, Väyrynen joined Swedish progressive metal band Opeth, replacing longtime drummer Martin Axenrot, and recorded his first album with the band, The Last Will and Testament (2024). Wincent announced his W-5BXL signature stick model through its artist roster in December 2022, shortly after the Opeth move.',
+        albums: ['Opeth - The Last Will and Testament (2024)'],
+        tours: ['Opeth World Touring 2022-Present'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl',
+            details: 'Specific kit model/shell sizes not independently documented',
+            notes: 'Unchanged endorsement carried from his Paradise Lost years.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Sabian',
+            details: 'Confirmed favourite piece: 22" HH Power Bell Ride',
+            notes: 'Unchanged from his Paradise Lost years.',
+            change: null,
+          },
+          sticks: {
+            item: 'Wincent W-5BXL',
+            details: 'Signature stick model',
+            notes: 'Announced through Wincent\'s artist roster in December 2022, shortly after he joined Opeth.',
+            change: CHANGE_TYPES.SIGNATURE,
+          },
+        },
+
+        estimatedCost: {
+          original: 2600,
+          inflationAdjusted: 2900,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Joined Opeth in September 2022, replacing Martin Axenrot',
+          'Recorded The Last Will and Testament (2024), his first album with Opeth',
+          'Gained a Wincent W-5BXL signature drumstick model in December 2022',
+        ],
+
+        videos: [],
+      },
+    ],
+
+    metaTitle: 'Waltteri Väyrynen Gear Evolution Timeline | Opeth Drum Kit History',
+    metaDescription: 'Explore Waltteri Väyrynen\'s gear evolution from his Paradise Lost and Bodom After Midnight years to his 2022 Opeth tenure and Wincent W-5BXL signature drumsticks.',
+  },
 };
 
 /**

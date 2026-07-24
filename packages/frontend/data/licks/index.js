@@ -68,6 +68,11 @@ import nickMenzaLicks from './nick-menza.js';
 import seanReinertLicks from './sean-reinert.js';
 import martinAxenrotLicks from './martin-axenrot.js';
 import adrianErlandssonLicks from './adrian-erlandsson.js';
+import jimmyDegrassoLicks from './jimmy-degrasso.js';
+import nickBarkerLicks from './nick-barker.js';
+import alexRudingerLicks from './alex-rudinger.js';
+import johnLongstrethLicks from './john-longstreth.js';
+import waltteriVayrynenLicks from './waltteri-vayrynen.js';
 
 export const SIGNATURE_LICKS = {
   ...mattGreinerLicks,
@@ -137,6 +142,11 @@ export const SIGNATURE_LICKS = {
   ...seanReinertLicks,
   ...martinAxenrotLicks,
   ...adrianErlandssonLicks,
+  ...jimmyDegrassoLicks,
+  ...nickBarkerLicks,
+  ...alexRudingerLicks,
+  ...johnLongstrethLicks,
+  ...waltteriVayrynenLicks,
 };
 
 export default SIGNATURE_LICKS;

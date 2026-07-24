@@ -2529,3 +2529,38 @@ Skipped — Friday, already logged skipped multiple times today.
 - Watch #5016 through CEO triage first still — highest-impact/oldest untriaged (~238 pages).
 - Bank at 11 (8 real + 3 umbrella) — healthy, well under the 45 floor.
 - If the bank stays this size or CEO promotes most of it, next run's gap hunt should look at a genuinely different lever (e.g. Speakable coverage on newer route families added since the last full sweep, or a fresh FAQ-depth spot-check) rather than re-running the same vercel.json/ssrLinks cross-reference method a 3rd time this week — it's found 8 real gaps in 2 runs, diminishing returns are plausible soon.
+
+---
+## 2026-07-24 (Friday, 2-hourly run, ~22:28 UTC) — Bank at 11 (8 real, all from 16:xx/20:xx runs), filed 2 fresh proposals via a new lever (bank 11→13)
+
+### Context
+Bank check: 11 open `seo-proposal` at run start — 8 real (#5016-#5020, #5022-#5024, none yet triaged) + 3 standing L1/L2/L3 umbrellas. `ai-fix` backlog: 12, 0 open PRs. Well under the 45 floor → cleared to file up to 8 net-new, but per the prior run's own flag, avoided repeating the vercel.json/ssrLinks cross-reference method a 3rd/4th time this week (diminishing returns). Metrics (22:22 UTC refresh): 216 users/259 sessions/610 views 7d, organic 218/259 (84.2%). GSC 5,709 impr/167 clicks/2.93% CTR/pos 10.3. No content-gap rows (impr≥50 & CTR<2%). Friday — drum-chair watch skipped (already logged skipped multiple times today).
+
+### Audit
+robots.txt (`api/robots.js`): 8/8 AI crawlers explicitly allowed, confirmed via direct read. `public/llms/drummers/*.md`: 72 files, exact match to live 72-drummer roster (grown from 67 this week) — no drift. `public/llms/*.md` total: 1,980 files.
+
+### Fresh gap hunt — new lever: schema/data gaps on route families added *after* the 07-17 Speakable sweep, plus the generator/exporter-drift class (per #3651/#4593 precedent), instead of another vercel.json rewrite-gap crossref
+Delegated an agent with an explicit exclusion list covering all 10 real proposals filed today (#5010/#5011/#5016-5020/#5022-5024), the closed FAQ-depth and hub-schema sweeps, and an instruction to avoid the vercel.json-crossref method entirely this run. It returned 2 candidates; both independently re-verified via direct file reads (not trusting the agent's report alone) before filing:
+
+1. **#5025** — `/songs/<slug>` VideoObject (72 of 86 song pages) can never emit `duration`: `getSongPageGate()` (`metalSongsBpm.js:615-621`) rebuilds `video` as only `{youtubeId, title}`, discarding `lick.video.startTime`/`endTime` even though the sibling lick-page handler (`api/meta/[...path].js:3355-3369`, fixed under #4797) already has the exact conditional-duration pattern proven correct — the songs route (built later under epic #4758) never carried the fix over. Verified both blocks directly, verified 72/86 page count via a live `getSongPageData()` call, confirmed no fabrication risk (timestamps already exist on the source lick, same fields #4797 validated).
+2. **#5026** — `/studies/*` Dataset schema + FAQ facts (4 study pages + hub) are baked from a 2026-07-16 snapshot at 67 drummers (`scripts/compute-studies.cjs:37` hardcoded `SNAPSHOT_DATE`, `totalDrummers: 67` baked into `mostUsedGearBrands.js` and 3 sibling files) — roster has since grown to **72** (verified live: `api/drummers/index.js` roster length = 72, 5 additions this week per #4926-4930). Both the `dateModified` freshness signal and the cited `totalDrummers` fact in FAQ answers are now stale/wrong on a verified-facts site. Fix is a mechanical re-run of the existing `compute-studies.cjs` script — no new code, no fabrication risk.
+
+Both are the "generator/exporter silently drops or ages out a field" class from `learned-patterns.md` (#3651/#4593), not more missing-schema-field findings — a genuinely different gap type from today's earlier 8 proposals. Searched `gh issue list --state all --search` for both (song VideoObject duration, studies stale roster/totalDrummers/compute-studies) — only hit the closed studies-epic issues (#4763-4766/#4790/#4793) and closed #4797/#4978, all confirmed non-overlapping.
+
+### Proposals filed this run
+1. #5025 — SEO: /songs/<slug> VideoObject missing duration (72 pages)
+2. #5026 — SEO: /studies/* Dataset schema + FAQ facts stale (67→72 drummer roster drift)
+
+### Drum-chair watch
+Skipped — Friday, already logged skipped multiple times today.
+
+### Open proposals waiting on CEO triage
+- #5016 (CRITICAL, oldest untriaged, ~6h old), #5017, #5018, #5019, #5020 (from 16:xx run)
+- #5022, #5023, #5024 (from 20:xx run)
+- #5025, #5026 (filed this run, 0d old, file:line + live-data verified)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers, not real proposals
+
+### Next run
+- Bank at 13 (10 real + 3 umbrella) — healthy, well under the 45 floor; `ai-fix` backlog at 12, also healthy — no urgency to force volume next run.
+- Watch #5016 through CEO triage first still — oldest untriaged, highest page count (~238 pages).
+- The studies-roster-drift bug (#5026) suggests checking whether other roster-derived static/generated files (beyond the 4 studies files + the already-fixed #5023 licks generator) have the same "baked count that ages out on roster growth" pattern — worth a targeted check next time the roster grows again, not urgent now.

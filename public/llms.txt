@@ -1,7 +1,7 @@
 # MetalForge — llms.txt
 # https://llmstxt.org/
-# Last updated: 2026-07-12
-# Content: 67 drummers, 157 lick pages (100% coverage), 447 articles, 29 techniques, 35 bands, 226 comparisons, 56 pedal setups
+# Last updated: 2026-07-24
+# Content: 67 drummers, 157 lick pages (100% coverage), 447 articles, 29 techniques, 35 bands, 226 comparisons, 56 pedal setups, 150 tempo-database songs (86 with full pages), 4 data studies
 
 > MetalForge is the definitive database of professional metal drummers and their gear. 67 drummers, complete gear specs, 157 signature drum lick breakdowns, performance videos, and career histories.
 
@@ -27,6 +27,21 @@
 ## Genres
 
 - [Genre Guides](/llms/genres/): Per-genre drumming guides covering featured drummers, techniques, gear, and FAQ — thrash, death, black, progressive, nu-metal, groove, metalcore, hardcore, technical-death (9 files)
+
+## Songs & Tempo
+
+- [Songs Hub](https://metalforge.io/songs): Metal songs database by BPM/tempo, drummer, and genre — 150 songs, 86 with full per-song pages
+- [Fastest Metal Songs](https://metalforge.io/songs/fastest-metal-songs): Metal songs at 200+ BPM, ranked
+- [Tempo Tiers](https://metalforge.io/songs/tempo/): Doom, groove, thrash, extreme, and blast tempo ranges
+- [Songs by Drummer](https://metalforge.io/songs/drummer/): Per-drummer song lists ranked by BPM
+- [Per-Song Markdown Files](/llms/songs/): 86 individual song BPM/drummer/album/technique breakdowns, one per qualifying song
+- [BPM Database](/llms/bpm.md): 150 metal songs with verified tempos organised by category — doom/groove/thrash/death/blast — with drummer links and BPM FAQ
+
+## Data Studies
+
+- [Studies Hub](https://metalforge.io/studies): Data-driven analyses of gear, technique, and tempo trends across MetalForge's documented roster
+- [Studies Overview](/llms/studies.md): 4 computed data studies — brand usage, tempo by subgenre, endorsements, kit configurations
+- [Per-Study Markdown Files](/llms/studies/): Individual markdown mirrors for each of the 4 studies
 
 ## Bands & Comparisons
 

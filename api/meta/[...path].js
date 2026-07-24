@@ -271,7 +271,7 @@ import { DRUMMER_GEAR, BRAND_SEO_DATA } from '../../packages/frontend/data/gearS
 // nothing is hand-listed in more than one place. The per-study data imports below
 // are the generated stats files (scripts/compute-studies.cjs) backing each study —
 // mostUsedGearBrands.js (phase 1, #4764), the other three (phase 2, #4765).
-import { STUDIES, getStudyBySlug } from '../../packages/frontend/data/studies/index.js';
+import { STUDIES, getStudyBySlug, getBrandStudyLinks } from '../../packages/frontend/data/studies/index.js';
 import { MOST_USED_GEAR_BRANDS } from '../../packages/frontend/data/studies/mostUsedGearBrands.js';
 import { TEMPO_BY_SUBGENRE } from '../../packages/frontend/data/studies/tempoBySubgenre.js';
 import { DRUM_ENDORSEMENT_LANDSCAPE } from '../../packages/frontend/data/studies/drumEndorsementLandscape.js';
@@ -6393,6 +6393,7 @@ export function getMetaForPath(pathname) {
     const brand = getBrand(drumstickBrandMatch[1]);
     if (brand) {
       const confirmedSticks = getConfirmedSticksForBrand(brand);
+      const studyLinks = getBrandStudyLinks(brand.name);
       return {
         title: generateBrandTitle(brand),
         description: truncate(generateBrandDescription(brand, confirmedSticks), 160),
@@ -6405,6 +6406,9 @@ export function getMetaForPath(pathname) {
           { href: '/drumsticks/brands', label: 'Drumstick Brands' },
           ..._brandConfirmedDrummerLinks(confirmedSticks, '/drumsticks/signature'),
           { href: '/drumsticks/best-for-metal', label: 'Best Drumsticks for Metal' },
+          // Issue #5011: study-citation backlinks (getBrandStudyLinks) rendered
+          // client-side only via #4766 but were never added to SSR ssrLinks.
+          ...studyLinks.map((l) => ({ href: `/studies/${l.studySlug}`, label: l.studyTitle })),
         ],
         articleSchema: JSON.stringify(generateBrandSchema(brand, confirmedSticks)),
         // Issue #4841: SpeakableSpecification was never wired for the gear-theme
@@ -6578,6 +6582,7 @@ export function getMetaForPath(pathname) {
     const brand = getCymbalBrand(cymbalBrandMatch[1]);
     if (brand) {
       const confirmedSetups = getConfirmedSetupsForBrand(brand);
+      const studyLinks = getBrandStudyLinks(brand.name);
       return {
         title: generateCymbalBrandTitle(brand),
         description: truncate(generateCymbalBrandDescription(brand, confirmedSetups), 160),
@@ -6590,6 +6595,9 @@ export function getMetaForPath(pathname) {
           { href: '/cymbals/brands', label: 'Cymbal Brands' },
           ..._brandConfirmedDrummerLinks(confirmedSetups, '/cymbals/setups'),
           { href: '/cymbals/best-for-metal', label: 'Best Cymbals for Metal' },
+          // Issue #5011: study-citation backlinks (getBrandStudyLinks) rendered
+          // client-side only via #4766 but were never added to SSR ssrLinks.
+          ...studyLinks.map((l) => ({ href: `/studies/${l.studySlug}`, label: l.studyTitle })),
         ],
         articleSchema: JSON.stringify(generateCymbalBrandSchema(brand, confirmedSetups)),
         // Issue #4841: SpeakableSpecification was never wired for the gear-theme
@@ -6775,6 +6783,7 @@ export function getMetaForPath(pathname) {
     const brand = getSnareBrand(snareBrandMatch[1]);
     if (brand) {
       const confirmedSnares = getSnaresForBrand(brand);
+      const studyLinks = getBrandStudyLinks(brand.name);
       return {
         title: generateSnareBrandTitle(brand),
         description: truncate(generateSnareBrandDescription(brand, confirmedSnares), 160),
@@ -6785,6 +6794,9 @@ export function getMetaForPath(pathname) {
           { href: '/snares/brands', label: 'Snare Brands' },
           ..._brandConfirmedDrummerLinks(confirmedSnares, '/drummer'),
           { href: '/snares/best-for-metal', label: 'Best Snares for Metal' },
+          // Issue #5011: study-citation backlinks (getBrandStudyLinks) rendered
+          // client-side only via #4766 but were never added to SSR ssrLinks.
+          ...studyLinks.map((l) => ({ href: `/studies/${l.studySlug}`, label: l.studyTitle })),
         ],
         articleSchema: JSON.stringify(generateSnareBrandSchema(brand, confirmedSnares)),
         // Issue #4841: SpeakableSpecification was never wired for the gear-theme
@@ -6948,6 +6960,7 @@ export function getMetaForPath(pathname) {
     const brand = getPedalBrand(pedalBrandMatch[1]);
     if (brand) {
       const confirmedPedals = getPedalsForBrand(brand);
+      const studyLinks = getBrandStudyLinks(brand.name);
       return {
         title: generatePedalBrandTitle(brand),
         description: truncate(generatePedalBrandDescription(brand, confirmedPedals), 160),
@@ -6960,6 +6973,9 @@ export function getMetaForPath(pathname) {
           { href: '/pedals/brands', label: 'Pedal Brands' },
           ..._brandConfirmedDrummerLinks(confirmedPedals, '/pedals/setups'),
           { href: '/pedals/best-for-metal', label: 'Best Bass Drum Pedals for Metal' },
+          // Issue #5011: study-citation backlinks (getBrandStudyLinks) rendered
+          // client-side only via #4766 but were never added to SSR ssrLinks.
+          ...studyLinks.map((l) => ({ href: `/studies/${l.studySlug}`, label: l.studyTitle })),
         ],
         articleSchema: JSON.stringify(generatePedalBrandSchema(brand, confirmedPedals)),
         // Issue #4841: SpeakableSpecification was never wired for the gear-theme

@@ -2232,3 +2232,41 @@ Skipped — today is Friday, not Monday; no sweep due this run.
 - `ai-fix` backlog at 4 — thin, watch for starvation trigger (backlog<15 AND bank≤2) next run; bank itself is healthy (6) so likely a Roadie-throughput question, not a supply problem.
 - Re-verify #4963/#4964 (bio regex + sitemap) once the 07-24 06:00 UTC deploy lands — both PRs merged before this run started per commit history (79c84f3e/f92bb7ca were unrelated fixes, #4963/#4964 still show open+ai-fix, not yet shipped).
 - Bank at 6 (3 real + 3 umbrella) — healthy, well under the 45 floor.
+
+---
+## 2026-07-24 (Friday, 2-hourly run, ~03:xx UTC) — Bank at 6 (3 real), filed 1 CRITICAL fresh proposal (bank 6→7)
+
+### Context
+Bank check: 6 open `seo-proposal` at run start — #4968 (extendedBios batch, filed prior run this morning) + #4963/#4964 (bio regex + sitemap, both already `ai-fix`-labeled, promoted, no PR yet) + 3 standing L1/L2/L3 umbrella trackers. Well under the 45 floor → cleared to file up to 8 net-new. `ai-fix` backlog: 4 (thin, CEO's concern not mine this run). Today is Friday — drum-chair watch skipped (Monday-only; already logged skipped once today).
+
+### Audit
+robots.txt: 8/8 AI crawlers explicitly allowed, ✅. Sitemap: 3,041 `<loc>` entries — unchanged (bio-page fix #4964 not yet deployed, expected: last deploy 2026-07-23 06:48 UTC, next ~07-24 06:48-07:00 UTC, ~3.5h out from this run). `public/llms/*.md`: 1,980 files on disk. Homepage bot-UA curl: Organization/WebSite/SearchAction/EntryPoint/ImageObject present, healthy. Re-verified #4963 (bio title still broken live) and #4964 (bio pages still 0 in sitemap) — both confirmed NOT a new regression, just pre-deploy lag; no PR open yet for either (Roadie hasn't picked them up), noted for CEO/starvation-watch context but not actioned here (not this agent's lever).
+
+### Fresh gap hunt — new angle: bot-UA curl unfamiliar route families directly, diff against known-good siblings
+Given the exhaustively-mined schema surface (full exclusion list per recent entries: Speakable/FAQPage/BreadcrumbList sweeps, HowTo dates, ItemList, MusicGroup, VideoObject, Person, Dataset, CollectionPage, the entire curated-data-ignored class across 8+ route families, gear-reference articleBody, compare-page dates, isAccessibleForFree, ssrLinks sweeps, og:locale, bio-route regex+sitemap, extendedBios roster gap), delegated a general-purpose agent to bot-UA curl unfamiliar routes and diff against siblings — the same technique that found #4963 last run.
+
+Found a genuine, high-value **CRITICAL** gap, different in kind from recent findings — not a missing-property gap but a **routing-shadow bug**:
+
+- **#4969** — `vercel.json:517`'s `/facts` rewrite is the *only* hub-page rule in the whole file with no bot-UA `has` condition (every sibling — `/history`, `/kit-quiz`, `/quiz`, `/spotlights`, `/cards` — has one). Every request, including crawlers, is routed to the standalone `api/facts.js` handler instead of the fully-built `path === '/facts'` branch in `api/meta/[...path].js:5129-5184`. That branch's comments cite **4 issues closed as shipped** — #4689 (ssrLinks), #4810 (FAQPage), #4863 (Speakable), plus the original #1407/#1665 — none of which ever actually reached production. Live-verified independently (not just trusting the subagent): `curl -A ClaudeBot .../facts` shows the old title, a single bare `FAQPage` JSON-LD block (no BreadcrumbList/CollectionPage/Speakable), zero `ssrLinks` hrefs in the HTML, and **zero `og:image` tag** (api/facts.js never emits one — bad for social/LLM citation cards). Same bug class as `#4915` (signature-licks routing fix, merged 2026-07-23) — a recognized recurring failure mode.
+- Scope-checked via a node script enumerating every `vercel.json` rewrite to `/api/*` lacking a `has` condition: `/facts` is the only one that shadows a competing `api/meta` branch — every other unconditional entry (robots.txt, sitemaps, api-catalog, embed routes, JSON api endpoints) is a legitimately standalone destination. Confirmed this is a 1-page fix, not a sweep — filed as a single atomic issue, not a batch.
+
+Searched `gh issue list --state all --search "facts vercel.json rewrite"` / `"api/facts shadow"` / `"/facts hub"` before filing — no duplicate (closest hits are the 4 original now-shadowed fixes themselves, which #4969 explains were never actually effective).
+
+### Proposals filed this run
+1. #4969 — SEO CRITICAL: /facts vercel.json rewrite shadows api/meta/[...path].js — 4 "shipped" fixes never reached production
+
+### Drum-chair watch
+Skipped — today is Friday, not Monday; no sweep due this run (already logged skipped once earlier today).
+
+### Open proposals waiting on CEO triage
+- #4969 (filed this run, 0d old) — CRITICAL, recommend fast-track (invalidates 4 previously-trusted "done" fixes, 1-line vercel.json change, low risk)
+- #4968 (filed earlier today, extendedBios batch)
+- #4963, #4964 (already `ai-fix`-labeled, promoted, awaiting Roadie pickup — no PR yet, watch for starvation if this persists)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers, not real proposals
+
+### Next run
+- Watch #4969 through CEO triage first (CRITICAL, 1-line fix, unblocks trust in the "closed = shipped" assumption for 4 other issues) — verify with `curl -s -A ClaudeBot https://metalforge.io/facts | grep -o '"@type":"CollectionPage"'` and `grep -c 'og:image'`.
+- Also re-verify `/facts` still serves a working page to **non-bot** traffic after the fix (the issue explicitly warns against deleting `api/facts.js` without confirming the human page doesn't depend on it).
+- Watch #4963/#4964/#4968 ship through the 07-24 ~06:48-07:00 UTC deploy — re-curl all 3 after that window.
+- New technique reinforced twice now (#4963, #4969): when hunting for fresh gaps on a heavily-mined site, bot-UA curl diffing against sibling routes outperforms re-scanning schema-type checklists. Consider making this the default first move for future gap hunts before falling back to checklist sweeps.
+- Bank at 7 (4 real + 3 umbrella) — healthy, well under the 45 floor.

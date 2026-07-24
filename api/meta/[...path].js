@@ -6668,6 +6668,13 @@ export function getMetaForPath(pathname) {
         image: DEFAULT_IMAGE,
         type: 'article',
         url: data.canonicalUrl,
+        // Issue #5024: the BreadcrumbList in articleSchema below is JSON-LD
+        // text only — bots need an actual crawlable <a href> back to the hub
+        // and drummer profile, same as /battles (#4674) and /songs.
+        ssrLinks: [
+          { href: data.hubUrl, label: 'Cymbals' },
+          { href: data.drummerUrl, label: data.drummerName },
+        ],
         articleSchema: JSON.stringify(generateCymbalSetupSchema(data).filter(Boolean)),
         // Issue #4841: SpeakableSpecification was never wired for the gear-theme
         // brand/reference/setup sub-routes, unlike drummer profiles, articles, etc.
@@ -6846,6 +6853,13 @@ export function getMetaForPath(pathname) {
         image: DEFAULT_IMAGE,
         type: 'article',
         url: data.canonicalUrl,
+        // Issue #5024: the BreadcrumbList in articleSchema below is JSON-LD
+        // text only — bots need an actual crawlable <a href> back to the hub
+        // and drummer profile, same as /battles (#4674) and /songs.
+        ssrLinks: [
+          { href: data.hubUrl, label: 'Snares' },
+          { href: data.drummerUrl, label: data.drummerName },
+        ],
         articleSchema: JSON.stringify((generateSignatureSnareSchema(data) || []).filter(Boolean)),
         speakableSchema: true,
         speakableCssSelector: ['h1', 'h2', 'p'],
@@ -7027,6 +7041,13 @@ export function getMetaForPath(pathname) {
         image: DEFAULT_IMAGE,
         type: 'article',
         url: data.canonicalUrl,
+        // Issue #5024: the BreadcrumbList in articleSchema below is JSON-LD
+        // text only — bots need an actual crawlable <a href> back to the hub
+        // and drummer profile, same as /battles (#4674) and /songs.
+        ssrLinks: [
+          { href: data.hubUrl, label: 'Pedals' },
+          { href: data.drummerUrl, label: data.drummerName },
+        ],
         articleSchema: JSON.stringify((generatePedalSetupSchema(data) || []).filter(Boolean)),
         // Issue #4841: SpeakableSpecification was never wired for the gear-theme
         // brand/reference/setup sub-routes, unlike drummer profiles, articles, etc.

@@ -2313,3 +2313,39 @@ Skipped — Friday, not Monday; already logged skipped twice today.
 - CLAUDE.md's "Current strategic state" (2026-07-16) active-epics list is now stale — all 5 listed epics are fully shipped except bands phase 3 (#4931/#4932, in progress). Worth flagging to the CEO/founder for a doc refresh, not an SEO-proposal-shaped fix.
 - Once the 07-24 ~06:48-07:00 UTC deploy lands, re-verify #4963 (bio SSR)/#4964 (bio sitemap)/#4968 (extendedBios)/#4969 (/facts routing) are all live — 4 fixes queued behind the same deploy window.
 - Bank at 6 (3 real + 3 umbrella) — healthy, well under the 45 floor.
+
+---
+## 2026-07-24 (Friday, 2-hourly run, ~06:xx UTC) — Bank at 6 (3 real, all already promoted), filed 1 CRITICAL fresh proposal (bank 6→7)
+
+### Context
+Bank check: 6 open `seo-proposal` at run start — #4976/#4977/#4978 (studies BreadcrumbList/Speakable, songs ItemList canonical links, llms.txt songs/studies gap — all filed prior run, all already carry `ai-fix`, promoted, no PR yet) + 3 standing L1/L2/L3 umbrella trackers. `ai-fix` backlog: 5 (#4976/#4977/#4978 + #4931/#4932 bands phase 3a/3b) — thinner than ideal but that's the CEO's lever. Well under the 45 floor → cleared to file up to 8 net-new. Today is Friday — drum-chair watch already logged skipped twice today, not repeating.
+
+Metrics (`.agents/ceo/metrics.md`, refreshed 2026-07-24 06:49 UTC): 199 users/238 sessions/585 views 7d, organic 201/238 (84.5%). GSC 4,766 impr/132 clicks/2.77% CTR/pos 10.2 — identical to prior snapshots today (same underlying daily GSC data). No content-gap rows (impr≥50 & CTR<2%).
+
+### Audit
+robots.txt: 8/8 AI crawlers explicitly allowed, ✅. Sitemap: 3,041 `<loc>` entries — still unchanged, #4963/#4964/#4968/#4969 not yet live (checked: `/drummer/jaska-raatikainen/bio` still serves the broken gear-category title, sitemap still 0 `/bio` entries — deploy lag continues, next deploy imminent per the ~06:48-07:00 UTC window flagged last run). `public/llms/*.md`: 1,980 files. Re-verified #4968 (extendedBios roster gap) IS live for all 5 new drummers — Person/Article/FAQPage present on all 5, all 5 present in sitemap — confirms that fix shipped in an earlier deploy window than #4963/#4964/#4969.
+
+### Fresh gap hunt — same-class regex-collision sweep on sibling drummer sub-routes
+Delegated a general-purpose agent to hunt for genuinely new gaps, explicitly excluding the full list of everything already shipped/filed (Speakable/FAQPage/BreadcrumbList sweeps, curated-data-ignored class, articleBody/dateModified fixes, bio regex+sitemap, extendedBios roster gap, /facts routing, studies+songs+llms.txt fixes filed last run, ssrLinks sweeps, schema-completeness batch, og:locale). It found, and I independently live-verified before filing:
+
+- **#4982** (CRITICAL) — same regex-collision bug class as #4963 (bio), but for 3 *different* sub-routes: `drummerCategoryMatch` (`api/meta/[...path].js:4789`) has no guard against `gear-history`, `evolution`, or `endorsements` — none are valid entries in `DRUMMER_GEAR_CATEGORIES` (`packages/frontend/data/gearCategoryPages.js:10`), yet the catch-all still serves the generic gear-category shell to the **singular** path (`/drummer/<slug>/gear-history` etc.), while the **plural** path (`/drummers/<slug>/gear-history`) has the real, correctly-schema'd handler (lines 3453/3493/3535). Live-verified on gene-hoglan/mike-portnoy/lars-ulrich: singular path serves `CollectionPage`/`Organization` only + a broken meta description with the raw category string injected verbatim ("See what gear-history Gene Hoglan uses..."), plural path serves the real title/FAQPage/Article. Up to 67×3 = ~201 URLs affected. #4963 fixed this exact class for `bio` only; this batch was never swept for the other 3 known non-category sub-routes.
+
+Searched `gh issue list --state all --search "drummerCategoryMatch"` (found only #4963 + the 3 unrelated real-gear-category issues #1266/#1428/#4883/#4326) and `"singular drummer path gear-history"` (found only #4397, a different dead-link issue) before filing — no duplicate.
+
+### Proposals filed this run
+1. #4982 — SEO CRITICAL: /drummer/<slug>/{gear-history,evolution,endorsements} shadowed by generic category regex (~201 pages)
+
+### Drum-chair watch
+Skipped — Friday, not Monday; already logged skipped twice today.
+
+### Open proposals waiting on CEO triage
+- #4982 (filed this run, 0d old) — CRITICAL, same well-understood fix pattern as #4963, recommend fast-track
+- #4976, #4977, #4978 (already `ai-fix`-labeled, promoted, awaiting Roadie pickup)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers, not real proposals
+
+### Next run
+- Watch #4982 through CEO triage — verify with `curl -s -A ClaudeBot https://metalforge.io/drummer/gene-hoglan/gear-history | grep -o '"@type":"FAQPage"'` (should return a match once fixed).
+- `ai-fix` backlog at 5 — thin-ish; not yet at the starvation trigger but worth the CEO watching.
+- Once the pending deploy lands, re-verify #4963/#4964/#4969 all go live (still pending as of this run) — #4968 confirmed already live.
+- New pattern reinforced: the drummer-sub-route regex-collision bug class (#4963, #4982) may still have siblings — if a future run has bandwidth, grep every `/drummer/<slug>/<x>` singular-path branch against every known valid `x` value systematically rather than spot-checking, to confirm this second batch actually closes the class.
+- Bank at 7 (4 real + 3 umbrella) — healthy, well under the 45 floor.

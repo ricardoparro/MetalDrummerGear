@@ -2270,3 +2270,46 @@ Skipped — today is Friday, not Monday; no sweep due this run (already logged s
 - Watch #4963/#4964/#4968 ship through the 07-24 ~06:48-07:00 UTC deploy — re-curl all 3 after that window.
 - New technique reinforced twice now (#4963, #4969): when hunting for fresh gaps on a heavily-mined site, bot-UA curl diffing against sibling routes outperforms re-scanning schema-type checklists. Consider making this the default first move for future gap hunts before falling back to checklist sweeps.
 - Bank at 7 (4 real + 3 umbrella) — healthy, well under the 45 floor.
+
+---
+## 2026-07-24 (Friday, 2-hourly run, ~09:xx UTC) — Bank at 3 (0 real, all 4 prior finds shipped), filed 3 fresh proposals (bank 3→6)
+
+### Context
+Bank check: 3 open `seo-proposal` at run start — all 3 are the standing L1/L2/L3 umbrella trackers (#3810/#3819/#2211). All 4 real proposals from the last two runs (#4963, #4964, #4968, #4969) shipped and merged (confirmed via `git log`: 89e44cb2/2ce74c58/e36dec23/b3d49c66) — clean drain, no starvation-adjacent signal on the SEO side. `ai-fix` backlog is thin (2 open: #4931/#4932, bands phase 3a/3b) but that's the CEO's lever, not mine. Well under the 45 floor → cleared to file up to 8 net-new. Today is Friday — drum-chair watch already logged skipped twice today, not repeating.
+
+Metrics (`.agents/ceo/metrics.md`, refreshed 2026-07-24 05:03 UTC): 197 users/235 sessions/567 views 7d, organic 198/235 (84.3%). GSC 4,766 impr/132 clicks/2.77% CTR/pos 10.2 — identical to the 00:23 snapshot (same underlying daily GSC data, not a fresh signal). No content-gap rows (impr≥50 & CTR<2%).
+
+### Audit
+robots.txt: 8/8 AI crawlers explicitly allowed, ✅. Sitemap: 3,041 `<loc>` entries — unchanged, consistent with pre-deploy lag (last prod deploy 2026-07-23 06:48:38Z per `gh run list --workflow=deploy-prod.yml`; #4963/#4964/#4968/#4969 all merged after that, none live yet — expected, not a bug, matches the documented once-daily batched-deploy pattern). `public/llms/*.md`: 1,980 files on disk. Verified `/facts` fix (#4969) is correctly implemented in source (two ordered `vercel.json` rules — bot-UA `has` rule first to `api/meta`, unconditional fallback second to `api/facts` for human traffic) — my first pass misread the fallback rule as a regression via a naive "no `has` condition" grep; re-checked with `git show 2ce74c58` before concluding anything, confirmed correct, no issue needed.
+
+### Fresh gap hunt — epic-completion audit + new-surface sweep
+Checked epic tracker states directly (`gh issue view` on #4753/#4758/#4763/#4767-71 and all their phase sub-issues): **all 5 epics flagged "active" in CLAUDE.md's 2026-07-16 strategic-state section are now fully shipped** (bands #4754-4757, songs #4759-4762, studies #4764-4766, techniques #4767-4768, drum-chair-freshness/video-round-2 #4769-4771 — all CLOSED). Only exception: bands phase 3 roster expansion (35→~70) was split into #4931/#4932, both still open/unshipped — not a bug, just WIP, explains why `bands.js` is still 35 entries live (checked to rule out a stale-count false positive before proposing anything there).
+
+Given the older page families (drummer/article/gear) are exhaustively mined, delegated a general-purpose agent to bot-UA-curl-diff the newest, least-audited surfaces (`/bands/drum-chair-changes`, `/songs/*`, `/studies/*`, `/technique/<slug>`) against known-good siblings — same technique reinforced twice last run. Independently re-verified every finding against source before filing (not just trusting the subagent, per standing practice):
+
+1. **#4976** — `/studies` hub (`api/meta/[...path].js:3910-3980`) has no `breadcrumbSchema` or `speakableSchema` key at all, confirmed by reading the full return object directly (not just grep, which initially gave a false read by bleeding into the adjacent `/lists/<slug>` block above it). Every `/studies/<slug>` child page has both; the hub was skipped by all 3 prior sweeps that plausibly could've covered it (#4790 FAQPage, #4831 Speakable scoped to sub-branches only, #4816 BreadcrumbList batch which wrongly assumed the hub already had one).
+2. **#4977** — 3 songs `ItemList` JSON-LD blocks (lines ~5783/5833/5888) link `item.url` to a `#slug` fragment on the listing page unconditionally, even for the subset of songs that clear the content-richness gate and have a real `/songs/<slug>` canonical page. `metalSongsBpm.js` already exports `getSongPageSlugs()` for exactly this check (its own doc comment says every other consumer — routing, SSR 404 logic, sitemap, llms generator — derives from it); these 3 ItemList blocks just never call it.
+3. **#4978** — `public/llms.txt` (last updated 2026-07-12) has zero mentions of `songs`, `bpm`, `studies`, or `dataset` — confirmed via direct grep. Both epics are fully shipped (86 song pages + hub/tempo/drummer lists; 4 study pages + hub, all schema'd) but invisible to any crawler discovering the site via the `llms.txt`-first convention.
+
+No genuine gaps found on `/bands/drum-chair-changes`, `/bands/<slug>`, or `/technique/<slug>` — all three confirmed fully schema'd and correctly live.
+
+Searched `gh issue list --state all --search` on all 3 topics before filing (breadcrumb/speakable studies, songs ItemList canonical, llms.txt songs/studies) — no duplicates.
+
+### Proposals filed this run
+1. #4976 — SEO: /studies hub missing BreadcrumbList + Speakable schema
+2. #4977 — SEO: songs ItemList JSON-LD links to list-page fragments instead of canonical /songs/<slug> URLs
+3. #4978 — SEO: public/llms.txt has zero entries for the entire /songs and /studies surfaces
+
+### Drum-chair watch
+Skipped — Friday, not Monday; already logged skipped twice today.
+
+### Open proposals waiting on CEO triage
+- #4976, #4977, #4978 (filed this run, 0d old)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers, not real proposals
+
+### Next run
+- Watch #4976/#4977/#4978 through CEO triage — all 3 are atomic, file-and-line-cited, low-risk.
+- `ai-fix` backlog at 2 (only #4931/#4932) — genuinely thin now that the SEO-side bank has fresh supply; if next run also finds backlog<15, that's the CEO's starvation trigger, not mine to action, but worth noting for continuity.
+- CLAUDE.md's "Current strategic state" (2026-07-16) active-epics list is now stale — all 5 listed epics are fully shipped except bands phase 3 (#4931/#4932, in progress). Worth flagging to the CEO/founder for a doc refresh, not an SEO-proposal-shaped fix.
+- Once the 07-24 ~06:48-07:00 UTC deploy lands, re-verify #4963 (bio SSR)/#4964 (bio sitemap)/#4968 (extendedBios)/#4969 (/facts routing) are all live — 4 fixes queued behind the same deploy window.
+- Bank at 6 (3 real + 3 umbrella) — healthy, well under the 45 floor.

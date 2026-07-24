@@ -898,6 +898,62 @@ export const drummerBirthdays = [
     deathDate: '2016-05-21',
     image: '/images/drummers/nick-menza.webp',
     isLiving: false
+  },
+  // Megadeth
+  {
+    slug: 'jimmy-degrasso',
+    name: 'Jimmy DeGrasso',
+    band: 'Megadeth',
+    birthDate: '1963-03-16',
+    birthMonth: 3,
+    birthDay: 16,
+    birthYear: 1963,
+    birthPlace: 'Bethlehem, Pennsylvania, USA',
+    deathDate: null,
+    image: '/images/drummers/jimmy-degrasso.webp',
+    isLiving: true
+  },
+  // Dimmu Borgir
+  {
+    slug: 'nick-barker',
+    name: 'Nick Barker',
+    band: 'Dimmu Borgir',
+    birthDate: '1973-04-25',
+    birthMonth: 4,
+    birthDay: 25,
+    birthYear: 1973,
+    birthPlace: 'Chesterfield, Derbyshire, England',
+    deathDate: null,
+    image: '/images/drummers/nick-barker.webp',
+    isLiving: true
+  },
+  // The Faceless
+  {
+    slug: 'alex-rudinger',
+    name: 'Alex Rüdinger',
+    band: 'The Faceless',
+    birthDate: '1991-11-18',
+    birthMonth: 11,
+    birthDay: 18,
+    birthYear: 1991,
+    birthPlace: 'Frederick, Maryland, USA',
+    deathDate: null,
+    image: '/images/drummers/alex-rudinger.webp',
+    isLiving: true
+  },
+  // Opeth
+  {
+    slug: 'waltteri-vayrynen',
+    name: 'Waltteri Väyrynen',
+    band: 'Opeth',
+    birthDate: '1994-07-05',
+    birthMonth: 7,
+    birthDay: 5,
+    birthYear: 1994,
+    birthPlace: 'Puolanka, Finland',
+    deathDate: null,
+    image: '/images/drummers/waltteri-vayrynen.webp',
+    isLiving: true
   }
 ];
 

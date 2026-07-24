@@ -3220,6 +3220,10 @@ export function getMetaForPath(pathname) {
         image: DEFAULT_IMAGE,
         type: 'website',
         url: hubUrl,
+        ssrLinks: [
+          { href: `/drummers/${drummerSlug}`, label: `${drummerName} Profile` },
+          { href: `/drummers/${drummerSlug}/evolution`, label: `${drummerName} Gear Evolution` },
+        ],
         speakableSchema: true,
         speakableCssSelector: ['h1', 'h2', 'p'],
         articleSchema: JSON.stringify({
@@ -3284,6 +3288,10 @@ export function getMetaForPath(pathname) {
         image: DEFAULT_IMAGE,
         type: 'website',
         url: hubUrl,
+        ssrLinks: [
+          { href: `/drummers/${drummerSlug}`, label: `${drummerForHub.name} Profile` },
+          { href: `/drummers/${drummerSlug}/evolution`, label: `${drummerForHub.name} Gear Evolution` },
+        ],
         speakableSchema: true,
         speakableCssSelector: ['h1', 'h2', 'p'],
         articleSchema: JSON.stringify({
@@ -3483,6 +3491,11 @@ export function getMetaForPath(pathname) {
           { name: drummer.name, url: `${BASE_URL}/drummers/${slug}` },
           { name: 'Gear History', url: `${BASE_URL}/drummers/${slug}/gear-history` },
         ],
+        ssrLinks: [
+          { href: `/drummers/${slug}`, label: `${drummer.name} Profile` },
+          { href: `/drummers/${slug}/evolution`, label: `${drummer.name} Gear Evolution` },
+          { href: `/drummers/${slug}/endorsements`, label: `${drummer.name} Endorsements` },
+        ],
         speakableSchema: true,
         speakableCssSelector: ['h1', 'h2', 'p'],
         faqSchema,
@@ -3558,6 +3571,11 @@ export function getMetaForPath(pathname) {
           { name: 'Drummers', url: `${BASE_URL}/drummers` },
           { name: drummer.name, url: `${BASE_URL}/drummer/${slug}` },
           { name: 'Endorsements', url: `${BASE_URL}/drummers/${slug}/endorsements` },
+        ],
+        ssrLinks: [
+          { href: `/drummers/${slug}`, label: `${drummer.name} Profile` },
+          { href: `/drummers/${slug}/gear-history`, label: `${drummer.name} Gear History` },
+          { href: `/drummers/${slug}/evolution`, label: `${drummer.name} Gear Evolution` },
         ],
         speakableSchema: true,
         speakableCssSelector: ['h1', 'h2', 'p'],

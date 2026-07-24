@@ -9430,6 +9430,445 @@ export const GEAR_PRICE_HISTORY = {
       keywords: ['sean reinert drum setup cost', 'sean reinert drum kit price', 'death human drum kit cost', 'sean reinert tama artstar', 'sean reinert gear cost today', 'cynic drummer gear cost'],
     },
   },
+
+  // ==========================================
+  // JIMMY DEGRASSO - 2008 Signature Snare Era
+  // Pearl JD1455 Signature Snare
+  // Issue #4989 (roster batch #4748)
+  // ==========================================
+  'jimmy-degrasso': {
+    slug: 'jimmy-degrasso',
+    name: 'Jimmy DeGrasso',
+    band: 'Megadeth',
+    iconicYear: 2008,
+    era: 'Signature Snare Era',
+    albumReference: 'Pearl JD1455 Signature Snare Launch (2008 NAMM)',
+    profileImage: '/images/drummers/jimmy-degrasso.webp',
+
+    summary: "Jimmy DeGrasso's most identifiable piece of gear is his own Pearl JD1455 signature snare — a 14\"x5.5\" hammered brass shell with gold-plated hardware that Pearl unveiled at the 2008 NAMM Show. DeGrasso, best known for his 1998-2002 tenure behind Megadeth's kit on Risk and The World Needs a Hero, built the snare's spec around the cut and authority he needed for loud, amplified thrash and hard rock stages across a touring career spanning Y&T, Suicidal Tendencies, and Alice Cooper. Pearl's own catalog priced the JD1455 at roughly $899 at launch; the model has since left Pearl's active lineup, and surviving units now trade on the secondary market in the $450-$700 range depending on condition.\n\nOnly the snare is documented here at the component level — DeGrasso's drum, cymbal, stick, and drumhead brands (Pearl, Sabian, Promark, and Evans respectively) are independently confirmed through his artist relationships, but no specific kit model, cymbal lineup, or stick model tied to a particular era has surfaced in interviews or manufacturer materials, so this profile omits those categories rather than guessing at pricing.",
+
+    setup: {
+      snare: {
+        item: 'Pearl JD1455 Jimmy DeGrasso Signature',
+        model: '14"x5.5" hammered brass, gold-plated hardware',
+        specs: '1mm beaded hammered brass shell, SuperHoop II gold-plated hoops, CL-55G lugs, SR-017G strainer',
+        originalPrice: 899,
+        year: 2008,
+        source: 'Pearl JD1455 catalog MSRP; unveiled at the 2008 NAMM Show (MusicRadar)',
+        notes: 'Hammered brass shell and gold-plated hardware built for cut and authority over loud, amplified thrash and hard rock stages.',
+        vintageValue2026: 650,
+        modernEquivalent: {
+          item: 'Pearl George Kollias Signature 14"x6.5" (current catalog equivalent)',
+          price: 520,
+          link: 'pearl-kollias',
+        },
+      },
+    },
+
+    totals: {
+      originalTotal: 899,
+      inflationAdjusted2026: null,
+      vintageTotal2026: 650,
+      modernEquivalentTotal: 520,
+    },
+
+    priceEvolution: [
+      { year: 2008, price: 899, label: 'Original Purchase', event: 'Pearl unveils the JD1455 signature snare at NAMM 2008' },
+      { year: 2010, price: 850, label: 'Alice Cooper Era', event: "DeGrasso's second Alice Cooper touring stint" },
+      { year: 2020, price: 900, label: 'Legacy value', event: 'Model exits Pearl\'s active catalog; collector interest builds' },
+      { year: 2026, price: 1341, label: 'Current adjusted', event: 'Inflation + legacy value' },
+    ],
+
+    sources: [
+      { title: 'Wikipedia: Jimmy DeGrasso', year: 2026, type: 'reference' },
+      { title: 'MusicRadar — NAMM 2008: Megadeth Drummer Reveals Pearl Signature Snare', year: 2008, type: 'news' },
+      { title: 'Sweetwater — Pearl JD1455 Jimmy DeGrasso Signature Snare', year: 2026, type: 'retailer' },
+      { title: 'Sabian Artist Page — Jimmy DeGrasso', year: 2026, type: 'manufacturer' },
+    ],
+
+    meta: {
+      title: 'Jimmy DeGrasso Signature Snare Cost | Megadeth Gear Price History',
+      description: "How much is Jimmy DeGrasso's Pearl JD1455 signature snare worth? Original $899 at its 2008 NAMM launch, now valued near $650-$900 on the secondary market. Megadeth drummer gear price history.",
+      keywords: ['jimmy degrasso drum setup cost', 'pearl jd1455 price', 'jimmy degrasso signature snare cost', 'megadeth drummer gear cost', 'jimmy degrasso gear cost today'],
+    },
+  },
+
+  // ==========================================
+  // NICK BARKER - 2003 Death Cult Armageddon Era
+  // Pearl Masterworks Custom Black / Paiste Setup
+  // Issue #4989 (roster batch #4748)
+  // ==========================================
+  'nick-barker': {
+    slug: 'nick-barker',
+    name: 'Nick Barker',
+    band: 'Dimmu Borgir',
+    iconicYear: 2003,
+    era: 'Death Cult Armageddon Era',
+    albumReference: 'Death Cult Armageddon (2003)',
+    profileImage: '/images/drummers/nick-barker.webp',
+
+    summary: "Nick Barker's Dimmu Borgir-era rig centered on a special-order, all-black Pearl Masterworks kit — a 10-ply (12.5mm) 100% maple shell pack built to a 2003 custom order, the same year he recorded Death Cult Armageddon with the Prague Philharmonic Orchestra. The kit paired 20\"x18\" double bass drums, four rack toms, and a 16\" floor tom with a matching maple piccolo snare, driven by an equally custom-ordered all-black Paiste cymbal set anchored by a 24\" Dimensions Mega Bell Ride and 22\" Signature Power Ride. The full rig — drums, snare, and 16-piece Paiste cymbal set — represented a serious professional investment even before the custom black finish premium.\n\nBarker's more recent endorsement is with Sonor, credited on Sonor's own artist page for his Cradle of Filth and Dimmu Borgir tenures, but Sonor does not publish a specific kit model or component spec for him, so this profile documents the independently-sourced, era-specific Pearl/Paiste rig rather than guessing at Sonor pricing.",
+
+    setup: {
+      drums: {
+        item: 'Pearl Masterworks Custom',
+        model: '10-ply 100% maple, special-order all-black finish (2003)',
+        specs: '20"x18" bass drums (x2), 10"/12"/13"/14" rack toms, 16" floor tom, 45-degree bearing edges',
+        originalPrice: 4200,
+        year: 2003,
+        source: 'Pearl Masterworks Stadium Custom series catalog-era pricing (custom 10-ply maple, special-order finish, 2003)',
+        notes: 'Special-order all-black finish and 10-ply maple shells built for a dense, powerful tone under symphonic black metal orchestration.',
+        vintageValue2026: 5500,
+        modernEquivalent: {
+          item: 'Pearl Masterworks Stadium Exotic (current)',
+          price: 4800,
+          link: 'pearl-masterworks',
+        },
+      },
+      snare: {
+        item: 'Pearl Masterworks Custom Piccolo',
+        model: '14"x3.5" maple, special-order all-black finish',
+        specs: '14"x3.5" maple shell, matched to the Masterworks kit\'s custom black hardware',
+        originalPrice: 450,
+        year: 2003,
+        source: 'Pearl Masterworks custom snare catalog-era pricing (2003)',
+        notes: 'Piccolo depth chosen for a sharp, cutting crack to cut through dense, orchestrated black metal arrangements.',
+        vintageValue2026: 600,
+        modernEquivalent: {
+          item: 'Pearl Sensitone Elite 14"x5" (current)',
+          price: 400,
+          link: 'pearl-sensitone',
+        },
+      },
+      cymbals: {
+        item: 'Paiste Custom Black Set',
+        model: 'Special-order all-black 16-piece configuration',
+        specs: '24" Dimensions Mega Bell Ride, 22" Signature Power Ride, 21" RUDE China, 20"/18" 2002 Novo Chinas, 18" 2002 Medium Crash, 17" Signature Power Crash, 16" Visions Crash, 15" 2002 Crash, 14"/13" Signature Power Hi-Hats, splash cymbals',
+        originalPrice: 2600,
+        year: 2003,
+        source: 'Paiste Signature/2002/RUDE series catalog-era pricing (custom black special-order 16-piece set, 2003)',
+        notes: 'Custom black finish and a bell-heavy ride selection built for cutting through Dimmu Borgir\'s dense orchestral arrangements.',
+        vintageValue2026: 3200,
+        modernEquivalent: {
+          item: 'Paiste Signature Series (current)',
+          price: 2800,
+          link: 'paiste-signature',
+        },
+      },
+    },
+
+    totals: {
+      originalTotal: 7250,
+      inflationAdjusted2026: null,
+      vintageTotal2026: 9300,
+      modernEquivalentTotal: 8000,
+    },
+
+    priceEvolution: [
+      { year: 2001, price: 6200, label: 'Puritanical Euphoric Misanthropia Era', event: 'Barker\'s Dimmu Borgir studio debut' },
+      { year: 2003, price: 7250, label: 'Original Purchase', event: 'Special-order all-black Masterworks kit built for Death Cult Armageddon' },
+      { year: 2004, price: 7400, label: 'Dimmu Borgir departure', event: 'Barker leaves Dimmu Borgir' },
+      { year: 2026, price: 10995, label: 'Current adjusted', event: 'Inflation-adjusted value of the 2003 Death Cult Armageddon-era setup' },
+    ],
+
+    sources: [
+      { title: 'Wikipedia: Nick Barker (drummer)', year: 2026, type: 'reference' },
+      { title: 'Sick Drummer Magazine — Nick Barker Original Pearl Masterworks Kit', year: 2026, type: 'news' },
+      { title: 'Sonor Artist Page — Nick Barker', year: 2026, type: 'manufacturer' },
+    ],
+
+    meta: {
+      title: 'Nick Barker 2003 Death Cult Armageddon Drum Setup Cost | Dimmu Borgir Gear Prices',
+      description: "How much did Nick Barker's 2003 Death Cult Armageddon-era Pearl Masterworks kit cost? Original ~$7,250, inflation-adjusted to ~$10,995 today. Complete Dimmu Borgir gear breakdown.",
+      keywords: ['nick barker drum setup cost', 'dimmu borgir drummer gear', 'pearl masterworks price', 'nick barker drum kit cost', 'death cult armageddon drums'],
+    },
+  },
+
+  // ==========================================
+  // ALEX RÜDINGER - 2025 Trivium Touring Era
+  // Tama Starclassic Performer B/B Setup
+  // Issue #4989 (roster batch #4748)
+  // ==========================================
+  'alex-rudinger': {
+    slug: 'alex-rudinger',
+    name: 'Alex Rüdinger',
+    band: 'Trivium',
+    iconicYear: 2025,
+    era: 'Trivium Touring Era',
+    albumReference: 'Trivium Touring/Studio Era (2025-present)',
+    profileImage: '/images/drummers/alex-rudinger.webp',
+
+    summary: "Alex Rüdinger's current rig, documented in detail on Tama's own artist page, centers on a Tama Starclassic Performer B/B kit — a 20\"x16\" bass drum with 8\"x7\"/10\"x7\" rack toms and 14\"x12\"/16\"x14\" floor toms — paired with a Tama STARPHONIC Brass 14\"x6\" snare (SLP Black Brass alternate). Rüdinger built his reputation on technical precision across The Faceless and Conquering Dystopia before becoming Trivium's touring/studio drummer in 2025, and his gear reflects that technical-death-metal pedigree: Tama Speed Cobra pedals and hi-hat stand for fast, consistent double-bass response, Meinl Byzance and MB20 cymbals, and a D'Addario/Evans drumhead combination (UV EQ4 Coated bass batter, G2 Clear tom batters, HD Dry snare batter).\n\nMeinl does not publish a component-level spec sheet as detailed as Tama's and Evans', so this profile omits a cymbal-by-cymbal size breakdown rather than guessing, and no stick brand is independently documented for Rüdinger.",
+
+    setup: {
+      drums: {
+        item: 'Tama Starclassic Performer B/B',
+        model: 'Birch/bubinga hybrid, 20"x16" bass drum configuration',
+        specs: '20"x16" bass drum, 8"x7"/10"x7" rack toms, 14"x12"/16"x14" floor toms',
+        originalPrice: 3200,
+        year: 2025,
+        source: 'Tama Starclassic Performer B/B series retail pricing (5-6 piece configurations, 2025 retailer listings); confirmed setup per Tama\'s own artist page',
+        notes: 'Birch/bubinga hybrid shells chosen for the attack clarity and warmth technical death metal and progressive arrangements demand.',
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Tama Starclassic Bubinga (current)',
+          price: 4200,
+          link: 'tama-starclassic-bubinga',
+        },
+      },
+      snare: {
+        item: 'Tama STARPHONIC Brass',
+        model: '14"x6" brass shell (SLP Black Brass alternate)',
+        specs: '14"x6" brass shell',
+        originalPrice: 649,
+        year: 2025,
+        source: 'Tama STARPHONIC Brass 14x6 retail pricing (Sweetwater PBR146 listing); confirmed per Tama\'s own artist page',
+        notes: 'Brass shell chosen for bright, cutting projection needed for high-speed technical death metal fills.',
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Tama Bell Brass 14"x5.5" (current)',
+          price: 800,
+          link: 'tama-bell-brass',
+        },
+      },
+      cymbals: {
+        item: 'Meinl Byzance and MB20 Series',
+        model: 'Byzance and MB20 lineup (component sizes not itemized by Meinl)',
+        specs: 'Meinl Byzance and MB20-series cymbals, per Meinl\'s own artist roster',
+        originalPrice: 2400,
+        year: 2025,
+        source: 'Meinl Byzance Series catalog retail pricing; brand confirmed via Meinl\'s artist roster, component sizes not itemized',
+        notes: 'Meinl does not publish a size-by-size breakdown for Rüdinger, so this reflects the Byzance line\'s catalog pricing rather than a guessed cymbal-by-cymbal total.',
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Meinl Byzance Series (current)',
+          price: 2400,
+          link: 'meinl-byzance',
+        },
+      },
+      hardware: {
+        item: 'Tama Speed Cobra',
+        model: 'Speed Cobra 910 double pedal + hi-hat stand',
+        specs: 'Tama Speed Cobra bass drum pedal and hi-hat stand, Tama Roadpro stands, Tama 1st Chair Ergo-Rider throne',
+        originalPrice: 500,
+        year: 2025,
+        source: 'Tama Speed Cobra 910 double pedal retail pricing; confirmed per Tama\'s own artist page',
+        notes: 'Speed Cobra drive chosen for the fast, consistent double-bass response technical death metal patterns require.',
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Tama Speed Cobra 910 (current)',
+          price: 500,
+          link: 'tama-speed-cobra',
+        },
+      },
+      heads: {
+        item: 'Evans UV EQ4 / G2 / HD Dry',
+        model: 'UV EQ4 Coated bass batter, G2 Clear tom batters, HD Dry snare batter',
+        specs: 'UV EQ4 Coated bass batter, G2 Clear tom batters, HD Dry snare batter, Snare Side 300, G1 Clear/EQ3-NP Black bass reso',
+        originalPrice: 184,
+        year: 2025,
+        source: 'Evans/D\'Addario individual drumhead retail pricing (component estimate); confirmed per D\'Addario\'s Evans artist page',
+        notes: 'Coated bass batter and dry snare batter chosen for a focused, controlled attack suited to fast technical passages.',
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Evans UV1 Coated (current equivalent)',
+          price: 25,
+          link: 'evans-uv1-coated',
+        },
+      },
+    },
+
+    totals: {
+      originalTotal: 6933,
+      inflationAdjusted2026: null,
+      vintageTotal2026: null,
+      modernEquivalentTotal: 7925,
+    },
+
+    priceEvolution: [
+      { year: 2025, price: 6933, label: 'Original Purchase', event: "Documented Tama/Meinl/Evans rig as Trivium's touring/studio drummer" },
+      { year: 2026, price: 7133, label: 'Current adjusted', event: 'Inflation-adjusted value of the current setup' },
+    ],
+
+    sources: [
+      { title: 'Wikipedia: Alex Rüdinger', year: 2026, type: 'reference' },
+      { title: 'Tama Drums Artist Page — Alex Rüdinger', year: 2026, type: 'manufacturer' },
+      { title: "D'Addario Artist Page — Alex Rüdinger (Evans Drumheads)", year: 2026, type: 'manufacturer' },
+    ],
+
+    meta: {
+      title: 'Alex Rüdinger Drum Setup Cost | The Faceless & Trivium Gear Price History',
+      description: "How much is Alex Rüdinger's Tama Starclassic Performer B/B setup worth? Roughly $6,933 at current retail. Complete gear breakdown of Trivium's touring/studio drummer.",
+      keywords: ['alex rudinger drum setup cost', 'tama starclassic performer bb price', 'alex rudinger gear cost', 'trivium drummer gear cost', 'the faceless drummer setup'],
+    },
+  },
+
+  // ==========================================
+  // JOHN LONGSTRETH - Origin Era
+  // Meinl Classics Custom Dark / ACD Unlimited Setup
+  // Issue #4989 (roster batch #4748)
+  // ==========================================
+  'john-longstreth': {
+    slug: 'john-longstreth',
+    name: 'John Longstreth',
+    band: 'Origin',
+    iconicYear: 2022,
+    era: 'Chaosmos Era',
+    albumReference: 'Chaosmos (2022)',
+    profileImage: '/images/drummers/john-longstreth.webp',
+
+    summary: "John Longstreth's documented rig centers on two independently-sourced components: a Meinl Classics Custom Dark cymbal setup (8\" Dark Splash, 14\" Dark Hihats, 18\" Dark China, plus a Generation X 12\"/14\" Trash Hat for choked metallic accents) confirmed via Meinl's own artist page, and an ACD Unlimited Darwin FTW double pedal paired with FootBlaster kick triggers — boutique, hand-built hardware built to sustain the high-speed, high-endurance blast beats and double-bass patterns that define his reputation as one of death metal's fastest drummers.\n\nLongstreth is an endorsed Pearl Drums artist, but Pearl's artist specification page blocks automated access and no independent source documents a specific kit model or shell size for him, so this profile omits the drum category rather than guessing. His Scorpion Percussion \"Wee Heavy\" signature drumsticks are also confirmed by name via Scorpion's own artist page, but no retail price for that specific model could be independently verified, so the sticks category is omitted as well.",
+
+    setup: {
+      cymbals: {
+        item: 'Meinl Classics Custom Dark + Generation X Trash Hat',
+        model: 'Classics Custom Dark series + Generation X 12"/14" Trash Hat',
+        specs: '8" Dark Splash, 14" Dark Hihats, 18" Dark China, 12"/14" Generation X Trash Hat',
+        originalPrice: 1450,
+        year: 2022,
+        source: 'Meinl Classics Custom Dark series retail pricing + Generation X Trash Hat; confirmed setup per Meinl\'s own artist page',
+        notes: 'Dark, choked tones chosen for metallic accents that cut through relentless blast-beat patterns without washing out.',
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Meinl Classics Custom (current)',
+          price: 1200,
+          link: 'meinl-classics',
+        },
+      },
+      hardware: {
+        item: 'ACD Unlimited Darwin FTW + FootBlaster',
+        model: 'Darwin FTW double pedal + FootBlaster Kickpad triggers',
+        specs: 'ACD Unlimited Darwin FTW direct-drive double bass pedal, FootBlaster kick triggers',
+        originalPrice: 950,
+        year: 2022,
+        source: 'ACD Unlimited Darwin FTW retail pricing (~EUR700, ACD Unlimited online store) + FootBlaster Kickpad retail pricing (~EUR185, footblaster.com)',
+        notes: 'Boutique, hand-built direct-drive pedal and trigger combination built to sustain his high-speed, high-endurance blast-beat technique.',
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Axis A Series Longboard Double Pedal (mainstream direct-drive equivalent)',
+          price: 800,
+          link: 'axis-a',
+        },
+      },
+    },
+
+    totals: {
+      originalTotal: 2400,
+      inflationAdjusted2026: null,
+      vintageTotal2026: null,
+      modernEquivalentTotal: 2000,
+    },
+
+    priceEvolution: [
+      { year: 2022, price: 2400, label: 'Original Purchase', event: 'Documented Meinl/ACD Unlimited rig around Chaosmos' },
+      { year: 2026, price: 2650, label: 'Current adjusted', event: 'Inflation-adjusted value of the current setup' },
+    ],
+
+    sources: [
+      { title: 'Wikidata: John Longstreth', year: 2026, type: 'reference' },
+      { title: 'Meinl Cymbals Artist Page — John Longstreth', year: 2026, type: 'manufacturer' },
+      { title: 'Scorpion Percussion Artist Page — John Longstreth', year: 2026, type: 'manufacturer' },
+      { title: 'ACD Unlimited — Darwin FTW Configurator', year: 2026, type: 'manufacturer' },
+      { title: 'FootBlaster — Kickpad Shop', year: 2026, type: 'manufacturer' },
+    ],
+
+    meta: {
+      title: 'John Longstreth Drum Setup Cost | Origin Gear Price History',
+      description: "How much does John Longstreth's Meinl Classics Custom Dark and ACD Unlimited Darwin FTW rig cost? Roughly $2,400 at current retail. Complete Origin drummer gear breakdown.",
+      keywords: ['john longstreth drum setup cost', 'meinl classics custom dark price', 'acd unlimited darwin ftw price', 'origin drummer gear cost', 'john longstreth gear cost today'],
+    },
+  },
+
+  // ==========================================
+  // WALTTERI VÄYRYNEN - 2024 The Last Will and Testament Era
+  // Pearl Reference Pure / Sabian HH Setup
+  // Issue #4989 (roster batch #4748)
+  // ==========================================
+  'waltteri-vayrynen': {
+    slug: 'waltteri-vayrynen',
+    name: 'Waltteri Väyrynen',
+    band: 'Opeth',
+    iconicYear: 2024,
+    era: 'The Last Will and Testament Era',
+    albumReference: 'The Last Will and Testament (2024)',
+    profileImage: '/images/drummers/waltteri-vayrynen.webp',
+
+    summary: "Waltteri Väyrynen's kit for Opeth's The Last Will and Testament (2024) — his studio debut with the band after replacing longtime drummer Martin Axenrot in September 2022 — is a Pearl Reference Pure, independently confirmed via XLN Audio's Addictive Drums 2 Progressive Metal ADpak, which was recorded on Väyrynen's own kit. His cymbal setup is Sabian, with a 22\" HH Power Bell Ride confirmed as his favourite piece on Sabian's own artist page, and he plays the Wincent W-5BXL, his own signature stick model announced through Wincent's artist roster in December 2022.\n\nPearl's artist roster confirms the brand relationship but blocks automated access to shell-size specifics, and Sabian's artist page does not itemize Väyrynen's full cymbal lineup beyond the 22\" ride, so this profile documents only the independently-verified components rather than guessing at a complete kit breakdown.",
+
+    setup: {
+      drums: {
+        item: 'Pearl Reference Pure',
+        model: 'Pure maple shell kit',
+        specs: 'Pearl Reference Pure maple shell configuration',
+        originalPrice: 3500,
+        year: 2024,
+        source: 'Pearl Reference Pure series retail pricing; confirmed as Väyrynen\'s kit via XLN Audio\'s Addictive Drums 2 Progressive Metal ADpak product description',
+        notes: 'Pure maple shells chosen for the warm, resonant tone suited to Opeth\'s progressive metal dynamic range.',
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Pearl Reference Pure (current)',
+          price: 3500,
+          link: 'pearl-reference-pure',
+        },
+      },
+      cymbals: {
+        item: 'Sabian HH Power Bell Ride',
+        model: '22" Hand Hammered Power Bell Ride',
+        specs: '22" HH Power Bell Ride — confirmed as favourite piece per Sabian\'s artist page',
+        originalPrice: 700,
+        year: 2024,
+        source: 'Sabian 22" HH Power Bell Ride retail pricing (Sweetwater/Musician\'s Friend); confirmed via Sabian\'s own artist page',
+        notes: 'Power Bell Ride chosen for a bold, cutting bell sound that anchors Opeth\'s progressive arrangements.',
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Sabian HHX Series (current evolution equivalent)',
+          price: 750,
+          link: 'sabian-hhx',
+        },
+      },
+      sticks: {
+        item: 'Wincent W-5BXL',
+        model: 'Signature hickory model',
+        specs: 'Wincent W-5BXL signature drumstick',
+        originalPrice: 13,
+        year: 2022,
+        source: 'Wincent W-5BXL retail pricing (Amazon); Väyrynen\'s signature model per Wincent\'s artist roster, announced December 2022',
+        notes: "Väyrynen's own signature stick model, announced through Wincent's artist roster.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Wincent Rock/Metal Series (current)',
+          price: 13,
+          link: 'wincent-metal',
+        },
+      },
+    },
+
+    totals: {
+      originalTotal: 4213,
+      inflationAdjusted2026: null,
+      vintageTotal2026: null,
+      modernEquivalentTotal: 4263,
+    },
+
+    priceEvolution: [
+      { year: 2022, price: 3513, label: 'Wincent Signature Launch', event: "W-5BXL signature model announced through Wincent's artist roster" },
+      { year: 2024, price: 4213, label: 'Original Purchase', event: 'The Last Will and Testament recorded — Opeth studio debut' },
+      { year: 2026, price: 4380, label: 'Current adjusted', event: 'Inflation-adjusted value of the current setup' },
+    ],
+
+    sources: [
+      { title: 'Wikipedia: Waltteri Väyrynen', year: 2026, type: 'reference' },
+      { title: 'Antelope Audio — Recording Drums with Waltteri Väyrynen', year: 2020, type: 'interview' },
+      { title: 'Sabian Artist Page — Waltteri Väyrynen', year: 2026, type: 'manufacturer' },
+      { title: 'XLN Audio — Addictive Drums 2 Progressive Metal ADpak', year: 2026, type: 'manufacturer' },
+    ],
+
+    meta: {
+      title: 'Waltteri Väyrynen Drum Setup Cost | Opeth Gear Price History',
+      description: "How much does Waltteri Väyrynen's Pearl Reference Pure and Sabian HH setup cost? Roughly $4,213 at current retail. Complete Opeth drummer gear breakdown.",
+      keywords: ['waltteri vayrynen drum setup cost', 'pearl reference pure price', 'sabian hh power bell ride price', 'opeth drummer gear cost', 'waltteri vayrynen gear cost today'],
+    },
+  },
 };
 
 // ==========================================

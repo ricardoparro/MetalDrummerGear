@@ -3977,6 +3977,14 @@ export function getMetaForPath(pathname) {
           url: `${BASE_URL}/studies/${s.slug}`,
         })),
       },
+      // Issue #4976: /studies hub was missing BreadcrumbList + Speakable, unlike
+      // every /studies/<slug> child page and /lists/<slug> (#4832).
+      breadcrumbSchema: [
+        { name: 'Home', url: BASE_URL },
+        { name: 'Studies', url: `${BASE_URL}/studies` },
+      ],
+      speakableSchema: true,
+      speakableCssSelector: ['h1', 'h2', 'p'],
     };
   }
 

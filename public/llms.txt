@@ -1,7 +1,7 @@
 # MetalForge — llms.txt
 # https://llmstxt.org/
-# Last updated: 2026-07-12
-# Content: 67 drummers, 157 lick pages (100% coverage), 447 articles, 29 techniques, 35 bands, 226 comparisons, 56 pedal setups
+# Last updated: 2026-07-24
+# Content: 67 drummers, 157 lick pages (100% coverage), 447 articles, 29 techniques, 35 bands, 226 comparisons, 56 pedal setups, 86 song BPM pages, 4 data studies
 
 > MetalForge is the definitive database of professional metal drummers and their gear. 67 drummers, complete gear specs, 157 signature drum lick breakdowns, performance videos, and career histories.
 
@@ -34,6 +34,21 @@
 - [Comparisons Overview](/llms/comparisons.md): Side-by-side drummer gear comparisons
 - [Per-Comparison Pages](/llms/vs/): 226 individual drummer-vs-drummer comparisons
 - [Comparison Q&A Pages](/llms/comparisons/): 26 structured Q&A drummer comparison pages
+
+## Songs & Tempo
+
+- [Songs Database](https://metalforge.io/songs): Metal songs by BPM, tempo tier, and drummer — hub for the full songs database
+- [Fastest Metal Songs](https://metalforge.io/songs/fastest-metal-songs): Metal songs at 200+ BPM, ranked
+- [Tempo Tiers](https://metalforge.io/songs/tempo/): Doom, groove, thrash, extreme, and blast tempo ranges
+- [Songs by Drummer](https://metalforge.io/songs/drummer/): Every drummer's songs ranked by BPM
+- [Per-Song Pages](/llms/songs/): 86 individual song BPM/drummer/album breakdowns
+- [BPM Practice Tool](/llms/bpm.md): 150-song BPM database and tap-tempo practice reference
+
+## Data Studies
+
+- [Studies Hub](https://metalforge.io/studies): Data-driven analyses of gear, technique, and tempo trends across MetalForge's roster
+- [Studies Index](/llms/studies.md): AI-readable index of all 4 computed studies
+- [Per-Study Pages](/llms/studies/): 4 computed studies (brand usage, tempo by subgenre, endorsements, kit configurations)
 
 ## Content Articles
 

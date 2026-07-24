@@ -8656,6 +8656,589 @@ Erlandsson is the brother of Arch Enemy's Daniel Erlandsson; both are prominent 
         ]
       }
     }
+  },
+
+  // Jimmy DeGrasso - Megadeth (Issue #4968)
+  'jimmy-degrasso': {
+    slug: 'jimmy-degrasso',
+    drummerId: 68,
+    name: 'Jimmy DeGrasso',
+    bands: [
+      { slug: 'megadeth', period: '1998-2002', role: 'Drummer' },
+      { slug: 'y-and-t', period: '1987-1991, 1995-1997', role: 'Drummer' },
+      { slug: 'suicidal-tendencies', period: '1992-1995', role: 'Drummer' },
+      { slug: 'alice-cooper', period: '1994-1998, 2008-2010', role: 'Drummer' }
+    ],
+    metaTitle: 'Jimmy DeGrasso Drum Kit & Gear Setup — Megadeth Drummer | MetalForge',
+    metaDescription: 'Complete biography of Jimmy DeGrasso, Megadeth\'s drummer from 1998-2002. Explore his Risk and The World Needs a Hero-era Pearl drum kit, signature JD1455 snare, and career across Y&T, Suicidal Tendencies, and Alice Cooper.',
+    ogImage: '/images/drummers/jimmy-degrasso.webp',
+    keywords: ['thrash metal', 'megadeth', 'pearl drums', 'jimmy degrasso drum kit', 'jd1455 snare', 'alice cooper', 'suicidal tendencies'],
+    relatedDrummers: ['dave-lombardo', 'charlie-benante', 'nick-menza', 'gene-hoglan'],
+    summary: 'Jimmy DeGrasso, Megadeth\'s drummer from 1998-2002 on Risk and The World Needs a Hero, built a career-spanning Pearl signature snare and stints with Y&T, Suicidal Tendencies, and Alice Cooper.',
+    lastUpdated: '2026-07-24',
+    imageAlt: 'Jimmy DeGrasso playing drums live',
+    schemaType: 'Person',
+    sections: {
+      overview: {
+        title: 'Overview',
+        content: `Jimmy DeGrasso (born March 16, 1963, in Bethlehem, Pennsylvania) is an American drummer best known for his 1998-2002 tenure in Megadeth, where he recorded Risk (1999) and The World Needs a Hero (2001) and appeared on the band's first live release, Rude Awakening (2002). He joined Megadeth on short notice and had to learn the band's entire back catalogue quickly for touring, a testament to the versatility that has defined his career across thrash, hard rock, and shock rock.
+
+DeGrasso relocated to Los Angeles in the 1980s and played on pre-production demos for Ozzy Osbourne's The Ultimate Sin, though he was replaced by Randy Castillo before the album was recorded. He went on to hold touring and recording drum kit chairs in Y&T (1987-1991, 1995-1997), Suicidal Tendencies (1992-1995), and Alice Cooper (1994-1998, 2008-2010), later also drumming for Dokken, Black Star Riders, and Ratt. Across every band, DeGrasso's drum set work is defined by a hard-hitting, pocket-focused approach built to serve arena-scale hard rock and thrash arrangements rather than technical showmanship for its own sake.`
+      },
+      careerHighlights: {
+        title: 'Career Highlights',
+        items: [
+          { year: '1987', event: 'Joined Y&T as drummer for the first of two tenures (1987-1991)' },
+          { year: '1992', event: 'Joined Suicidal Tendencies, drumming through 1995' },
+          { year: '1994', event: 'Joined Alice Cooper\'s touring/recording band for the first of two stints (1994-1998)' },
+          { year: '1998', event: 'Joined Megadeth as drummer, learning the band\'s full catalogue on short notice' },
+          { year: '1999', event: 'Recorded Risk, his first studio album with Megadeth' },
+          { year: '2001', event: 'Recorded The World Needs a Hero with Megadeth' },
+          { year: '2002', event: 'Appeared on Rude Awakening, Megadeth\'s first live album, before departing the band' },
+          { year: '2008', event: 'Rejoined Alice Cooper\'s band for a second stint (2008-2010)' }
+        ]
+      },
+      styleAndInfluences: {
+        title: 'Style & Influences',
+        content: `Jimmy DeGrasso's drumming prioritizes pocket, power, and reliability over technical flash — the qualities that made him a first-call drummer for major hard rock and thrash acts across four decades. His playing adapts to each band's demands, from Y&T's melodic hard rock to Suicidal Tendencies' crossover thrash-funk to Megadeth's precision-driven Big Four thrash metal.
+
+**Key Influences:**
+- **Arena hard rock drumming**: Shaped his pocket-first, song-serving approach across Y&T and Alice Cooper
+- **Thrash metal contemporaries**: Informed his tighter, more aggressive attack during his Megadeth tenure
+
+**Signature Techniques:**
+- Hard-hitting, high-energy backbeat built for large-venue hard rock and thrash
+- Fast adaptation to a new band's existing catalogue, demonstrated when he joined Megadeth on short notice
+- Consistent, powerful double-bass work across Risk and The World Needs a Hero`
+      },
+      notableRecordings: {
+        title: 'Notable Recordings & Tours',
+        albums: [
+          { name: 'Megadeth - Risk', year: 1999, label: 'Capitol Records', note: 'DeGrasso\'s first studio album with Megadeth' },
+          { name: 'Megadeth - The World Needs a Hero', year: 2001, label: 'Sanctuary Records', note: 'Return to a heavier Megadeth sound' },
+          { name: 'Megadeth - Rude Awakening', year: 2002, label: 'Sanctuary Records', note: 'Megadeth\'s first live album' }
+        ],
+        tours: [
+          { name: 'Megadeth World Tours', year: '1998-2002', note: 'Touring cycles for Risk and The World Needs a Hero' },
+          { name: 'Alice Cooper Touring', year: '1994-1998, 2008-2010', note: 'Two separate touring/recording stints' }
+        ]
+      },
+      gearHighlights: {
+        title: 'Gear Highlights',
+        content: `Jimmy DeGrasso's Megadeth-era rig centered on a Pearl drum kit paired with his own Pearl JD1455 signature snare — a 14"x5.5" hammered brass shell with gold-plated hardware that Pearl unveiled at the 2008 NAMM Show, built for the cut and authority loud, amplified thrash metal demands. Sabian cymbals rounded out the setup, a relationship DeGrasso has maintained across his touring career with Megadeth, Alice Cooper, and other hard rock acts.
+
+**Documented Setup:**
+- **Drums**: Pearl
+- **Snare**: Pearl JD1455 signature 14"x5.5" hammered brass, gold-plated hardware
+- **Cymbals**: Sabian
+- **Sticks**: Promark
+- **Heads**: Evans
+
+Hardware and pedal brand are not independently confirmed and are omitted rather than guessed. Promark drumsticks and Evans drumheads completed the rig DeGrasso used through Megadeth's Risk (1999) and The World Needs a Hero (2001) sessions and the Rude Awakening (2002) live recording.`
+      },
+      trivia: {
+        title: 'Trivia & Notes',
+        items: [
+          'Joined Megadeth in 1998 with only days of notice to learn the band\'s full back catalogue for touring',
+          'Played on pre-production demos for Ozzy Osbourne\'s The Ultimate Sin before being replaced by Randy Castillo',
+          'Has his own Pearl signature snare drum, the JD1455, unveiled at the 2008 NAMM Show',
+          'Held two separate tenures each in Y&T and Alice Cooper\'s band',
+          'Also drummed for Dokken, Black Star Riders, and Ratt later in his career'
+        ]
+      },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'What drum kit does Jimmy DeGrasso use?', a: 'Jimmy DeGrasso\'s Megadeth-era drum kit was a Pearl setup built around his own Pearl JD1455 signature snare, a 14"x5.5" hammered brass shell with gold-plated hardware that Pearl unveiled at the 2008 NAMM Show.' },
+          { q: 'What drum set did Jimmy DeGrasso use with Megadeth?', a: 'Jimmy DeGrasso\'s Megadeth drum set paired a Pearl shell pack with Sabian cymbals, Promark sticks, and Evans drumheads through the Risk (1999) and The World Needs a Hero (2001) album cycles.' },
+          { q: 'What snare drum does Jimmy DeGrasso use?', a: 'Jimmy DeGrasso plays his own Pearl JD1455 signature snare, a 14"x5.5" hammered brass shell with gold-plated hardware unveiled at the 2008 NAMM Show.' },
+          { q: 'What cymbals does Jimmy DeGrasso play?', a: 'Jimmy DeGrasso plays Sabian cymbals, a relationship he has maintained across his touring career with Megadeth, Alice Cooper, and other hard rock acts.' },
+          { q: 'What sticks does Jimmy DeGrasso use?', a: 'Jimmy DeGrasso uses Promark drumsticks.' },
+          { q: 'What drumheads does Jimmy DeGrasso use?', a: 'Jimmy DeGrasso uses Evans drumheads.' },
+          { q: 'What albums did Jimmy DeGrasso record with Megadeth?', a: 'Jimmy DeGrasso recorded Risk (1999) and The World Needs a Hero (2001) with Megadeth, plus the band\'s first live release, Rude Awakening (2002).' },
+          { q: 'What bands has Jimmy DeGrasso played drums for?', a: 'Jimmy DeGrasso has drummed for Megadeth (1998-2002), Y&T (1987-1991, 1995-1997), Suicidal Tendencies (1992-1995), and Alice Cooper (1994-1998, 2008-2010), with later stints in Dokken, Black Star Riders, and Ratt.' },
+          { q: 'Did Jimmy DeGrasso play with Ozzy Osbourne?', a: 'Jimmy DeGrasso played on pre-production demos for Ozzy Osbourne\'s The Ultimate Sin, but was replaced by Randy Castillo before the album was recorded.' },
+          { q: 'How did Jimmy DeGrasso join Megadeth?', a: 'Jimmy DeGrasso joined Megadeth in 1998 with only days of notice, learning the band\'s full back catalogue quickly to begin touring.' }
+        ]
+      },
+      sources: {
+        title: 'Sources',
+        items: [
+          { name: 'Wikipedia: Jimmy DeGrasso', url: 'https://en.wikipedia.org/wiki/Jimmy_DeGrasso' },
+          { name: 'Sabian Artist Page — Jimmy DeGrasso', url: 'https://sabian.com/artist/jimmy-degrasso/' },
+          { name: 'MusicRadar — Megadeth Drummer Reveals Pearl Signature Snare', url: 'https://www.musicradar.com/news/drums/namm-2008-megadeth-drummer-reveals-pearl-signature-snare-126963' },
+          { name: 'Sweetwater — Pearl JD1455 Jimmy DeGrasso Signature Snare', url: 'https://www.sweetwater.com/store/detail/JD1455--pearl-jimmy-degrasso-signature-snare' }
+        ]
+      }
+    }
+  },
+
+  // Nick Barker - Dimmu Borgir (Issue #4968)
+  'nick-barker': {
+    slug: 'nick-barker',
+    drummerId: 69,
+    name: 'Nick Barker',
+    bands: [
+      { slug: 'cradle-of-filth', period: '1993-1999', role: 'Drummer' },
+      { slug: 'dimmu-borgir', period: '1999-2004', role: 'Drummer' },
+      { slug: 'lock-up', period: '1998-2020', role: 'Drummer, co-founder' }
+    ],
+    metaTitle: 'Nick Barker Drum Kit & Gear Setup — Dimmu Borgir Drummer | MetalForge',
+    metaDescription: 'Complete biography of Nick Barker, drummer for Dimmu Borgir (1999-2004) and Cradle of Filth (1993-1999). Explore his Sonor drum kit endorsement, grindcore work in Lock Up, and career across extreme metal.',
+    ogImage: '/images/drummers/nick-barker.webp',
+    keywords: ['black metal', 'dimmu borgir', 'cradle of filth', 'sonor drums', 'nick barker drum kit', 'lock up', 'grindcore'],
+    relatedDrummers: ['hellhammer', 'frost', 'inferno', 'dirk-verbeuren'],
+    summary: 'Nick Barker, Cradle of Filth\'s drummer from 1993-1999 and Dimmu Borgir\'s from 1999-2004, is a Sonor-endorsed extreme metal drummer also known for the grindcore supergroup Lock Up.',
+    lastUpdated: '2026-07-24',
+    imageAlt: 'Nick Barker performing live drums',
+    schemaType: 'Person',
+    sections: {
+      overview: {
+        title: 'Overview',
+        content: `Nicholas Howard Barker (born April 25, 1973, in Chesterfield, Derbyshire, England) is a British extreme metal drummer who spent the 1990s and 2000s behind the drum kit for two of black metal's most prominent bands. He joined Cradle of Filth in 1993, recording The Principle of Evil Made Flesh (1994), Vempire or Dark Faerytales in Phallustein (1996), Dusk... and Her Embrace (1996), Cruelty and the Beast (1998), and From the Cradle to Enslave (1999) before departing in 1999.
+
+Barker then joined Norwegian symphonic black metal band Dimmu Borgir, recording Puritanical Euphoric Misanthropia (2001) and Death Cult Armageddon (2003) during his 1999-2004 tenure — two albums that helped push Dimmu Borgir's symphonic black metal drum set work to a wider international audience. In 1998 he co-founded the grindcore supergroup Lock Up with Napalm Death's Shane Embury, recording Pleasures Pave Sewers (1999), Hate Breeds Suffering (2002), and Demonization (2017) before leaving the band in 2020. He has also done session and touring work for Testament, Old Man's Child, Exodus, Brujeria, Gorgoroth/God Seed, Anaal Nathrakh, and Benediction.`
+      },
+      careerHighlights: {
+        title: 'Career Highlights',
+        items: [
+          { year: '1993', event: 'Joined Cradle of Filth as drummer' },
+          { year: '1994', event: 'Recorded The Principle of Evil Made Flesh, Cradle of Filth\'s debut album' },
+          { year: '1998', event: 'Recorded Cruelty and the Beast with Cradle of Filth; co-founded grindcore supergroup Lock Up with Shane Embury' },
+          { year: '1999', event: 'Recorded From the Cradle to Enslave EP, his final Cradle of Filth release, before departing; joined Dimmu Borgir; released Lock Up\'s debut Pleasures Pave Sewers' },
+          { year: '2001', event: 'Recorded Puritanical Euphoric Misanthropia with Dimmu Borgir' },
+          { year: '2003', event: 'Recorded Death Cult Armageddon with Dimmu Borgir' },
+          { year: '2004', event: 'Departed Dimmu Borgir' },
+          { year: '2017', event: 'Recorded Demonization with Lock Up' },
+          { year: '2020', event: 'Left Lock Up after more than two decades with the band' }
+        ]
+      },
+      styleAndInfluences: {
+        title: 'Style & Influences',
+        content: `Nick Barker's drumming spans the symphonic, blast-beat-driven vocabulary of black metal and the raw, high-velocity attack of grindcore, a range built over tenures in Cradle of Filth, Dimmu Borgir, and Lock Up. His playing serves each band's distinct demands — sustaining relentless blast beats beneath Cradle of Filth's and Dimmu Borgir's orchestral arrangements, and delivering the stripped-down speed grindcore requires in Lock Up.
+
+**Key Influences:**
+- **Extreme metal blast-beat drumming**: The foundation of his work across Cradle of Filth and Dimmu Borgir
+- **Grindcore drumming**: Shaped his high-velocity, stripped-down playing in Lock Up
+
+**Signature Techniques:**
+- Sustained blast beats supporting symphonic black metal orchestration
+- High-speed grindcore drumming distinct from his black metal work
+- Session versatility across extreme metal subgenres, from thrash (Testament, Exodus) to black metal (Gorgoroth/God Seed) to grindcore (Anaal Nathrakh, Benediction)`
+      },
+      notableRecordings: {
+        title: 'Notable Recordings & Tours',
+        albums: [
+          { name: 'Cradle of Filth - The Principle of Evil Made Flesh', year: 1994, label: 'Cacophonous Records', note: 'Cradle of Filth\'s debut album' },
+          { name: 'Cradle of Filth - Cruelty and the Beast', year: 1998, label: 'Music for Nations', note: 'Concept album on Elizabeth Báthory' },
+          { name: 'Dimmu Borgir - Puritanical Euphoric Misanthropia', year: 2001, label: 'Nuclear Blast', note: 'Barker\'s Dimmu Borgir studio debut' },
+          { name: 'Dimmu Borgir - Death Cult Armageddon', year: 2003, label: 'Nuclear Blast', note: 'Recorded with the Prague Philharmonic Orchestra' },
+          { name: 'Lock Up - Demonization', year: 2017, label: 'Nuclear Blast', note: 'Grindcore supergroup with Napalm Death\'s Shane Embury' }
+        ],
+        tours: [
+          { name: 'Cradle of Filth World Touring', year: '1993-1999', note: 'Touring across five studio releases' },
+          { name: 'Dimmu Borgir World Touring', year: '1999-2004', note: 'Touring the Puritanical Euphoric Misanthropia and Death Cult Armageddon cycles' }
+        ]
+      },
+      gearHighlights: {
+        title: 'Gear Highlights',
+        content: `Nick Barker is an official Sonor artist, endorsed by the German drum manufacturer across his touring and session career in extreme metal. Sonor's own artist page credits him for his work with Cradle of Filth (1993-1999) and Dimmu Borgir (1999-2004), alongside his ongoing role in the grindcore supergroup Lock Up and session credits for Testament, Old Man's Child, and Exodus, among others.
+
+**Documented Setup:**
+- **Drums**: Sonor
+
+Sonor's artist materials do not publish a specific kit model, snare spec, cymbal brand, or drumhead endorsement for Barker, so this profile omits those fields rather than guessing — a Nick Barker drum set breakdown at the same component-level detail as many of his peers isn't independently documented as of this writing.`
+      },
+      trivia: {
+        title: 'Trivia & Notes',
+        items: [
+          'Recorded five Cradle of Filth releases between 1994 and 1999, including the band\'s debut The Principle of Evil Made Flesh',
+          'Recorded Dimmu Borgir\'s Death Cult Armageddon (2003) with the Prague Philharmonic Orchestra',
+          'Co-founded grindcore supergroup Lock Up in 1998 with Napalm Death bassist Shane Embury, staying with the band until 2020',
+          'Has done extensive session/touring work across thrash (Testament, Exodus), black metal (Old Man\'s Child, Gorgoroth/God Seed), and grindcore (Anaal Nathrakh, Benediction)',
+          '"Nick Barker" is a common name — his Wikipedia entry is disambiguated as "Nick Barker (drummer)"'
+        ]
+      },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'What drum kit does Nick Barker play?', a: 'Nick Barker is an official Sonor artist, endorsed by the German drum manufacturer across his career in Cradle of Filth, Dimmu Borgir, and Lock Up. Sonor does not publish a specific kit model or shell spec for him, so this profile omits that detail rather than guessing.' },
+          { q: 'What drum set did Nick Barker use with Dimmu Borgir?', a: 'Nick Barker played a Sonor drum set during his 1999-2004 Dimmu Borgir tenure — Sonor\'s own artist page confirms the endorsement, though specific kit and snare specs aren\'t independently documented.' },
+          { q: 'What cymbals does Nick Barker use?', a: 'Nick Barker\'s cymbal brand is not publicly documented; this profile omits that detail rather than guessing.' },
+          { q: 'What bands has Nick Barker played drums for?', a: 'Nick Barker drummed for Cradle of Filth (1993-1999) and Dimmu Borgir (1999-2004), co-founded grindcore supergroup Lock Up (1998-2020), and has done session/touring work for Testament, Old Man\'s Child, Exodus, Brujeria, Gorgoroth/God Seed, Anaal Nathrakh, and Benediction.' },
+          { q: 'What albums did Nick Barker record with Cradle of Filth?', a: 'Nick Barker recorded The Principle of Evil Made Flesh (1994), Vempire or Dark Faerytales in Phallustein (1996), Dusk... and Her Embrace (1996), Cruelty and the Beast (1998), and From the Cradle to Enslave (1999) with Cradle of Filth.' },
+          { q: 'What albums did Nick Barker record with Dimmu Borgir?', a: 'Nick Barker recorded Puritanical Euphoric Misanthropia (2001) and Death Cult Armageddon (2003) with Dimmu Borgir.' },
+          { q: 'Is Nick Barker still in Dimmu Borgir?', a: 'No. Nick Barker drummed for Dimmu Borgir from 1999 to 2004, then departed the band.' },
+          { q: 'What is Nick Barker\'s drum endorsement?', a: 'Nick Barker is an official Sonor artist, a relationship confirmed on Sonor\'s own artist roster page.' },
+          { q: 'What is Lock Up, the band Nick Barker plays in?', a: 'Lock Up is a grindcore supergroup Nick Barker co-founded in 1998 with Napalm Death bassist Shane Embury, releasing Pleasures Pave Sewers (1999), Hate Breeds Suffering (2002), and Demonization (2017) before Barker left the band in 2020.' }
+        ]
+      },
+      sources: {
+        title: 'Sources',
+        items: [
+          { name: 'Wikipedia: Nick Barker (drummer)', url: 'https://en.wikipedia.org/wiki/Nick_Barker_(drummer)' },
+          { name: 'Sonor Artist Page — Nick Barker', url: 'https://www.sonor.com/drums/artists/artists-detail/nick-barker' }
+        ]
+      }
+    }
+  },
+
+  // Alex Rüdinger - The Faceless (Issue #4968)
+  'alex-rudinger': {
+    slug: 'alex-rudinger',
+    drummerId: 70,
+    name: 'Alex Rüdinger',
+    bands: [
+      { slug: 'threat-signal', period: '2010-2012', role: 'Drummer' },
+      { slug: 'the-haarp-machine', period: '2012-2013', role: 'Drummer' },
+      { slug: 'the-faceless', period: '2013-2014', role: 'Drummer' },
+      { slug: 'conquering-dystopia', period: '2013-present', role: 'Drummer' },
+      { slug: 'good-tiger', period: '2015-2018', role: 'Drummer' },
+      { slug: '7-horns-7-eyes', period: '2018-present', role: 'Drummer' },
+      { slug: 'whitechapel', period: '2019-2021', role: 'Touring drummer' },
+      { slug: 'trivium', period: '2025-present', role: 'Touring/studio drummer' }
+    ],
+    metaTitle: 'Alex Rüdinger Drum Kit & Gear Setup — The Faceless & Trivium Drummer | MetalForge',
+    metaDescription: 'Complete biography of Alex Rüdinger, technical death metal drummer for The Faceless and touring/studio drummer for Trivium since 2025. Explore his Tama Starclassic drum kit, Evans heads, and Meinl cymbal setup.',
+    ogImage: '/images/drummers/alex-rudinger.webp',
+    keywords: ['technical death metal', 'progressive metal', 'the faceless', 'trivium', 'tama starclassic', 'alex rudinger drum kit', 'evans drumheads'],
+    relatedDrummers: ['flo-mounier', 'hannes-grossmann', 'george-kollias', 'navene-koperweis'],
+    summary: 'Alex Rüdinger built his reputation in technical death metal with The Faceless and progressive project Conquering Dystopia before becoming Trivium\'s touring/studio drummer in 2025, playing a Tama Starclassic kit.',
+    lastUpdated: '2026-07-24',
+    imageAlt: 'Alex Rüdinger performing live drums',
+    schemaType: 'Person',
+    sections: {
+      overview: {
+        title: 'Overview',
+        content: `Alex Rüdinger (born November 18, 1991, in Frederick, Maryland) is an American drummer known for his technical, high-precision playing across progressive and technical death metal. He received his first drum kit at age 12 and began his professional career at 18, filling in for Threat Signal and appearing on the band's self-titled album (2011) before departing in late 2011.
+
+He went on to join The HAARP Machine (2012-2013) and technical death metal band The Faceless (2013-2014), and has been a member of the instrumental project Conquering Dystopia since 2013 and progressive band 7 Horns 7 Eyes since 2018. He also drummed in the progressive metalcore band Good Tiger from 2015 to 2018. Beyond his studio bands, Rüdinger has done extensive session and touring work, including studio credits with Whitechapel (Kin, 2021), Nonvector (Ashen Time, 2024), Cognizance, Monuments, Revocation, and Intronaut, and live touring with Whitechapel (2019-2021) and Light the Torch (2021). In 2025 he became the touring/studio drummer for Trivium, bringing his technical drum set vocabulary to one of modern metal's most prominent bands.`
+      },
+      careerHighlights: {
+        title: 'Career Highlights',
+        items: [
+          { year: '2010', event: 'Began professional career at age 18, filling in for Threat Signal' },
+          { year: '2011', event: 'Appeared on Threat Signal\'s self-titled album before departing the band' },
+          { year: '2012', event: 'Joined The HAARP Machine' },
+          { year: '2013', event: 'Joined technical death metal band The Faceless and co-founded instrumental project Conquering Dystopia' },
+          { year: '2015', event: 'Joined progressive metalcore band Good Tiger' },
+          { year: '2018', event: 'Joined progressive band 7 Horns 7 Eyes' },
+          { year: '2019', event: 'Began touring with Whitechapel' },
+          { year: '2021', event: 'Recorded Kin with Whitechapel; toured with Light the Torch' },
+          { year: '2024', event: 'Recorded Ashen Time with Nonvector' },
+          { year: '2025', event: 'Became touring/studio drummer for Trivium' }
+        ]
+      },
+      styleAndInfluences: {
+        title: 'Style & Influences',
+        content: `Alex Rüdinger's drumming is defined by technical precision and rhythmic complexity, honed across a career built on progressive and technical death metal projects rather than a single long-term band. His session and touring resume — spanning The Faceless, Conquering Dystopia, Whitechapel, Intronaut, and now Trivium — reflects a drummer capable of adapting a highly technical vocabulary to a wide range of subgenres within modern metal.
+
+**Key Influences:**
+- **Technical death metal drumming**: The foundation of his work with The Faceless and Conquering Dystopia
+- **Progressive metal drumming**: Shaped his playing in 7 Horns 7 Eyes and Good Tiger
+
+**Signature Techniques:**
+- High-precision, technically demanding fills built for progressive and technical death metal arrangements
+- Fast stylistic adaptation across a broad session/touring resume
+- Sustained double-bass and blast-beat work suited to technical death metal's tempo and complexity demands`
+      },
+      notableRecordings: {
+        title: 'Notable Recordings & Tours',
+        albums: [
+          { name: 'Threat Signal - Threat Signal', year: 2011, label: 'Independent', note: 'Rüdinger\'s recording debut' },
+          { name: 'Whitechapel - Kin', year: 2021, label: 'Metal Blade Records', note: 'Studio session credit' },
+          { name: 'Nonvector - Ashen Time', year: 2024, label: 'Independent', note: 'Studio session credit' }
+        ],
+        tours: [
+          { name: 'Whitechapel Touring', year: '2019-2021', note: 'Live touring drummer' },
+          { name: 'Light the Torch Touring', year: '2021', note: 'Touring drummer' },
+          { name: 'Trivium Touring', year: '2025-present', note: 'Touring/studio drummer' }
+        ]
+      },
+      gearHighlights: {
+        title: 'Gear Highlights',
+        content: `Alex Rüdinger is an official Tama Drums artist, playing a Tama Starclassic Performer B/B kit — Tama's own artist page lists a 20"x16" bass drum and 14"x6" STARPHONIC Brass snare (with an SLP Black Brass snare as an alternate), 8"x7" and 10"x7" rack toms, and 14"x12" and 16"x14" floor toms, driven by Tama Speed Cobra bass drum pedals and hi-hat stands on Tama Roadpro stands and a 1st Chair Ergo-Rider throne.
+
+**Documented Setup:**
+- **Drums**: Tama Starclassic Performer B/B (20"x16" kick, 8"x7"/10"x7" racks, 14"x12"/16"x14" floors)
+- **Snare**: Tama STARPHONIC Brass 14"x6" (SLP Black Brass alternate)
+- **Hardware**: Tama Speed Cobra bass drum pedals and hi-hat stand, Tama Roadpro stands, Tama 1st Chair Ergo-Rider throne
+- **Heads**: Evans (UV EQ4 Coated bass batter, G2 Clear tom batters, HD Dry snare batter, Snare Side 300, G1 Clear/EQ3-NP Black bass reso)
+- **Cymbals**: Meinl Byzance and MB20 series
+
+Rüdinger is also a D'Addario/Evans artist and a longtime Meinl Cymbals artist; Meinl does not publish a component-level spec sheet as detailed as Tama's and Evans', so this profile omits a specific cymbal-by-cymbal breakdown rather than guessing model sizes.`
+      },
+      trivia: {
+        title: 'Trivia & Notes',
+        items: [
+          'Received his first drum kit at age 12 and began his professional career at 18',
+          'Recorded studio sessions for Whitechapel, Nonvector, Cognizance, Monuments, Revocation, and Intronaut',
+          'Co-founded instrumental project Conquering Dystopia in 2013, still active as of this writing',
+          'Became Trivium\'s touring/studio drummer in 2025',
+          'Is an official Tama, Evans, and Meinl endorsed artist'
+        ]
+      },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'What drum kit does Alex Rüdinger play?', a: 'Alex Rüdinger plays a Tama Starclassic Performer B/B kit — a 20"x16" bass drum, 8"x7" and 10"x7" rack toms, and 14"x12" and 16"x14" floor toms, per Tama\'s own artist page.' },
+          { q: 'What drum set does Alex Rüdinger use?', a: 'Alex Rüdinger\'s drum set pairs his Tama Starclassic Performer B/B shells with a Tama STARPHONIC Brass 14"x6" snare (SLP Black Brass alternate), driven by Tama Speed Cobra pedals and hardware.' },
+          { q: 'What snare does Alex Rüdinger use?', a: 'Alex Rüdinger\'s primary snare is a Tama STARPHONIC Brass 14"x6", with a Tama SLP Black Brass snare as a documented alternate.' },
+          { q: 'What cymbals does Alex Rüdinger play?', a: 'Alex Rüdinger is a longtime Meinl Cymbals artist, endorsing Meinl\'s Byzance and MB20 lines; Meinl does not publish a component-level spec sheet, so specific model sizes are omitted rather than guessed.' },
+          { q: 'What drumheads does Alex Rüdinger use?', a: 'Alex Rüdinger is a D\'Addario/Evans artist using a UV EQ4 Coated bass batter, G2 Clear tom batters, an HD Dry snare batter with a Snare Side 300 reso, and a G1 Clear/EQ3-NP Black bass reso combination.' },
+          { q: 'What pedals does Alex Rüdinger use?', a: 'Alex Rüdinger drives his kit with Tama Speed Cobra bass drum pedals and a Tama Speed Cobra hi-hat stand.' },
+          { q: 'Is Alex Rüdinger the drummer for Trivium?', a: 'Alex Rüdinger became Trivium\'s touring/studio drummer in 2025.' },
+          { q: 'What bands has Alex Rüdinger played drums for?', a: 'Alex Rüdinger has drummed for Threat Signal (2010-2012), The HAARP Machine (2012-2013), The Faceless (2013-2014), Conquering Dystopia (2013-present), Good Tiger (2015-2018), 7 Horns 7 Eyes (2018-present), and Trivium (2025-present), plus touring/session work for Whitechapel, Light the Torch, and others.' },
+          { q: 'Was Alex Rüdinger in The Faceless?', a: 'Yes, Alex Rüdinger was The Faceless\'s drummer from 2013 to 2014.' },
+          { q: 'What throne and stands does Alex Rüdinger use?', a: 'Alex Rüdinger uses Tama Roadpro stands and a Tama 1st Chair Ergo-Rider drum throne.' }
+        ]
+      },
+      sources: {
+        title: 'Sources',
+        items: [
+          { name: 'Wikipedia: Alex Rüdinger', url: 'https://en.wikipedia.org/wiki/Alex_R%C3%BCdinger' },
+          { name: 'Tama Drums Artist Page — Alex Rüdinger', url: 'https://www.tama.com/usa/artists/detail/975.html' },
+          { name: "D'Addario Artist Page — Alex Rüdinger (Evans Drumheads)", url: 'https://www.daddario.com/artists/evans-drumheads/alex_rudinger/' }
+        ]
+      }
+    }
+  },
+
+  // John Longstreth - Origin (Issue #4968)
+  'john-longstreth': {
+    slug: 'john-longstreth',
+    drummerId: 71,
+    name: 'John Longstreth',
+    bands: [
+      { slug: 'angelcorpse', period: '1995-1998, 2006-2007', role: 'Drummer, co-founder' },
+      { slug: 'origin', period: '1999-2003, 2006-present', role: 'Drummer' },
+      { slug: 'skinless', period: '2003', role: 'Drummer' },
+      { slug: 'hate-eternal', period: '2018', role: 'Touring drummer (fill-in)' }
+    ],
+    metaTitle: 'John Longstreth Drum Kit & Gear Setup — Origin Drummer | MetalForge',
+    metaDescription: 'Complete biography of John Longstreth, Origin\'s drummer since 1999 and one of technical death metal\'s fastest players. Explore his Pearl drum kit, Meinl cymbal setup, and pioneering double-stroke bass drum technique.',
+    ogImage: '/images/drummers/john-longstreth.webp',
+    keywords: ['technical death metal', 'brutal death metal', 'origin', 'pearl drums', 'john longstreth drum kit', 'blast beats', 'angelcorpse'],
+    relatedDrummers: ['george-kollias', 'flo-mounier', 'hannes-grossmann', 'kevin-talley'],
+    summary: 'John Longstreth, Origin\'s drummer since 1999 and a founding member of Angelcorpse, is widely regarded as one of extreme metal\'s fastest and most technically accomplished drummers.',
+    lastUpdated: '2026-07-24',
+    imageAlt: 'John Longstreth performing live drums with Origin',
+    schemaType: 'Person',
+    sections: {
+      overview: {
+        title: 'Overview',
+        content: `John Longstreth is an American drummer widely regarded as one of extreme metal's fastest and most technically accomplished, known for his work with Origin, Angelcorpse, and Skinless. A Kansas City, Missouri native now based in New York City, he grew up around jazz drumming — his father was a Kansas City jazz musician for fifty years, exposing John early on to Buddy Rich, Miles Davis, and John Coltrane — before early thrash bands like Slayer pulled him toward extreme metal.
+
+He co-founded Angelcorpse in 1995, recording Hammer of Gods (1996) and Exterminate (1998) before departing; he rejoined for the band's 2006-2007 reunion. Since 1999 he has been the driving force behind technical death metal band Origin (with a 2003-2006 hiatus), recording Informis Infinitas Inhumanitas (2002), Antithesis (2008), Entity (2011), Omnipresent (2014), Unparalleled Universe (2017), and Chaosmos (2022) on his Pearl drum kit. He also drummed for Skinless in 2003, and has done extensive session and touring work for Dying Fetus, Dim Mak, Gorguts, Unmerciful, Codex Ritual, Exhumed, and The Red Chord — including filling in for regular drummer Hannes Grossmann on Hate Eternal's November 2018 US tour behind the drum set. Longstreth is credited with pioneering double-stroke bass drum technique and the one-handed drum roll within extreme metal, and released his own instructional DVD, Drumming of a Madman.`
+      },
+      careerHighlights: {
+        title: 'Career Highlights',
+        items: [
+          { year: '1995', event: 'Co-founded Angelcorpse' },
+          { year: '1996', event: 'Recorded Hammer of Gods, Angelcorpse\'s debut album' },
+          { year: '1998', event: 'Recorded Exterminate with Angelcorpse before departing the band' },
+          { year: '1999', event: 'Joined technical death metal band Origin' },
+          { year: '2002', event: 'Recorded Informis Infinitas Inhumanitas, his first studio album with Origin' },
+          { year: '2003', event: 'Drummed for Skinless; began a hiatus from Origin lasting until 2006' },
+          { year: '2006', event: 'Rejoined Origin and Angelcorpse for its 2006-2007 reunion' },
+          { year: '2011', event: 'Recorded Entity with Origin' },
+          { year: '2017', event: 'Recorded Unparalleled Universe with Origin' },
+          { year: '2018', event: 'Filled in for Hannes Grossmann on Hate Eternal\'s November 2018 US tour' },
+          { year: '2022', event: 'Recorded Chaosmos with Origin' }
+        ]
+      },
+      styleAndInfluences: {
+        title: 'Style & Influences',
+        content: `John Longstreth's drumming is built around raw speed and technical endurance, credited with pioneering double-stroke bass drum technique and the one-handed drum roll within extreme metal. His jazz-influenced upbringing — his father was a professional Kansas City jazz musician — gave him an early foundation in Buddy Rich, Miles Davis, and John Coltrane before thrash bands like Slayer redirected him toward extreme metal.
+
+**Key Influences:**
+- **Buddy Rich, Miles Davis, John Coltrane**: Jazz drumming foundation from his father's fifty-year career as a Kansas City jazz musician
+- **Slayer and early thrash metal**: Pulled Longstreth from jazz toward extreme metal
+
+**Signature Techniques:**
+- Pioneered double-stroke bass drum technique in extreme metal
+- Credited with pioneering the one-handed drum roll within the genre
+- Sustained high-speed blast beats and double-bass patterns built for endurance across full-length technical death metal sets
+- Released an instructional DVD, Drumming of a Madman, documenting his technique`
+      },
+      notableRecordings: {
+        title: 'Notable Recordings & Tours',
+        albums: [
+          { name: 'Angelcorpse - Hammer of Gods', year: 1996, label: 'Osmose Productions', note: 'Angelcorpse\'s debut album' },
+          { name: 'Origin - Informis Infinitas Inhumanitas', year: 2002, label: 'Relapse Records', note: 'Longstreth\'s Origin studio debut' },
+          { name: 'Origin - Entity', year: 2011, label: 'Nuclear Blast', note: 'Widely acclaimed technical death metal album' },
+          { name: 'Origin - Unparalleled Universe', year: 2017, label: 'Agonia Records', note: 'Featured guest vocals from Trevor Strnad' },
+          { name: 'Origin - Chaosmos', year: 2022, label: 'Agonia Records', note: 'Most recent Origin studio album' }
+        ],
+        tours: [
+          { name: 'Origin World Touring', year: '1999-present', note: 'Touring across the band\'s full discography' },
+          { name: 'Hate Eternal US Tour', year: '2018', note: 'Filled in for regular drummer Hannes Grossmann' }
+        ]
+      },
+      gearHighlights: {
+        title: 'Gear Highlights',
+        content: `John Longstreth is an endorsed Pearl Drums artist, though Pearl's own artist specification page could not be independently accessed for this profile (it blocks automated requests) — so specific shell sizes and finish are omitted rather than guessed. His documented cymbal setup, per Meinl Cymbals' own artist page, uses the Classics Custom Dark series — an 8" Dark Splash, 14" Dark Hihats, and 18" Dark China — alongside a Generation X 12"/14" Trash Hat for the metallic, choked accents heard across his Origin blast-beat patterns.
+
+**Documented Setup:**
+- **Drums**: Pearl (specific kit model/shell sizes not independently documented)
+- **Cymbals**: Meinl Classics Custom Dark series (8" Dark Splash, 14" Dark Hihat, 18" Dark China) + Meinl Generation X 12"/14" Trash Hat
+- **Hardware**: ACD Unlimited bass drum pedals, FootBlaster triggers
+- **Sticks**: Scorpion Percussion "Wee Heavy" signature drumsticks
+
+He drives his kick pedals with ACD Unlimited hardware paired with FootBlaster triggers — a rig built around sustaining the high-speed, high-endurance blast beats and double-bass patterns that define his reputation as one of death metal's fastest drummers.`
+      },
+      trivia: {
+        title: 'Trivia & Notes',
+        items: [
+          'Grew up around jazz drumming; his father was a Kansas City jazz musician for fifty years',
+          'Credited with pioneering double-stroke bass drum technique and the one-handed drum roll within extreme metal',
+          'Filled in for regular drummer Hannes Grossmann on Hate Eternal\'s November 2018 US tour',
+          'Released his own instructional DVD, Drumming of a Madman',
+          'Co-founded Angelcorpse in 1995 and later rejoined for its 2006-2007 reunion',
+          'Has an English Wikipedia article; identifiable via Wikidata (Q11727929) rather than a dedicated English Wikipedia page as of this writing'
+        ]
+      },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'What drum kit does John Longstreth play?', a: 'John Longstreth is an endorsed Pearl Drums artist. Pearl\'s artist specification page blocks automated access, so specific shell sizes and finish are not independently documented and are omitted rather than guessed.' },
+          { q: 'What drum set does John Longstreth use with Origin?', a: 'John Longstreth\'s Origin drum set is built on a Pearl kit paired with Meinl Classics Custom Dark cymbals, ACD Unlimited bass drum pedals with FootBlaster triggers, and Scorpion Percussion "Wee Heavy" signature sticks.' },
+          { q: 'What cymbals does John Longstreth use?', a: 'John Longstreth uses Meinl Classics Custom Dark series cymbals — an 8" Dark Splash, 14" Dark Hihats, and 18" Dark China — plus a Meinl Generation X 12"/14" Trash Hat for choked metallic accents.' },
+          { q: 'What pedals does John Longstreth use?', a: 'John Longstreth drives his bass drums with ACD Unlimited pedals paired with FootBlaster triggers, built to sustain his high-speed, high-endurance blast beats.' },
+          { q: 'What sticks does John Longstreth use?', a: 'John Longstreth plays Scorpion Percussion\'s "Wee Heavy" signature drumsticks.' },
+          { q: 'What technique is John Longstreth known for pioneering?', a: 'John Longstreth is credited with pioneering double-stroke bass drum technique and the one-handed drum roll within extreme metal.' },
+          { q: 'What bands has John Longstreth played drums for?', a: 'John Longstreth co-founded Angelcorpse (1995-1998, 2006-2007), has been Origin\'s drummer since 1999 (with a 2003-2006 hiatus), drummed for Skinless in 2003, and filled in for Hate Eternal on tour in 2018.' },
+          { q: 'What albums did John Longstreth record with Origin?', a: 'John Longstreth recorded Informis Infinitas Inhumanitas (2002), Antithesis (2008), Entity (2011), Omnipresent (2014), Unparalleled Universe (2017), and Chaosmos (2022) with Origin.' },
+          { q: 'Did John Longstreth tour with Hate Eternal?', a: 'Yes — John Longstreth filled in for regular drummer Hannes Grossmann on Hate Eternal\'s November 2018 US tour.' },
+          { q: 'Is John Longstreth still in Origin?', a: 'Yes, John Longstreth has been Origin\'s drummer since 1999, aside from a 2003-2006 hiatus, and remains the band\'s drummer as of this writing.' }
+        ]
+      },
+      sources: {
+        title: 'Sources',
+        items: [
+          { name: 'Wikidata: John Longstreth', url: 'https://www.wikidata.org/wiki/Q11727929' },
+          { name: 'Scorpion Percussion Artist Page — John Longstreth', url: 'https://scorpionpercussion.com/pages/john-longstreth-signature-artist' },
+          { name: 'Meinl Cymbals Artist Page — John Longstreth', url: 'https://meinlcymbals.com/en/artists/john-longstreth-a12223.html' },
+          { name: 'AllMusic: John Longstreth', url: 'https://www.allmusic.com/artist/john-longstreth-mn0001899210' },
+          { name: 'Discogs: John Longstreth', url: 'https://www.discogs.com/artist/474966-John-Longstreth' }
+        ]
+      }
+    }
+  },
+
+  // Waltteri Väyrynen - Opeth (Issue #4968)
+  'waltteri-vayrynen': {
+    slug: 'waltteri-vayrynen',
+    drummerId: 72,
+    name: 'Waltteri Väyrynen',
+    bands: [
+      { slug: 'paradise-lost', period: '2015-2022 (session 2015-2016, official from 2016)', role: 'Drummer' },
+      { slug: 'bodom-after-midnight', period: '2020-2021', role: 'Drummer' },
+      { slug: 'abhorrence', period: '2016-present', role: 'Drummer' },
+      { slug: 'opeth', period: '2022-present', role: 'Drummer' }
+    ],
+    metaTitle: 'Waltteri Väyrynen Drum Kit & Gear Setup — Opeth Drummer | MetalForge',
+    metaDescription: 'Complete biography of Waltteri Väyrynen, Opeth\'s drummer since 2022 and formerly Paradise Lost\'s drummer from 2015-2022. Explore his Pearl drum kit, Sabian cymbal setup, and career across progressive and gothic doom metal.',
+    ogImage: '/images/drummers/waltteri-vayrynen.webp',
+    keywords: ['progressive metal', 'gothic doom metal', 'opeth', 'paradise lost', 'pearl drums', 'waltteri vayrynen drum kit', 'sabian cymbals'],
+    relatedDrummers: ['martin-axenrot', 'martin-lopez', 'daniel-erlandsson', 'jocke-wallgren'],
+    summary: 'Waltteri Väyrynen, Paradise Lost\'s drummer from 2015-2022 and Opeth\'s drummer since 2022, is a Pearl- and Sabian-endorsed Finnish drummer who recorded The Last Will and Testament (2024) with Opeth.',
+    lastUpdated: '2026-07-24',
+    imageAlt: 'Waltteri Väyrynen performing live drums',
+    schemaType: 'Person',
+    sections: {
+      overview: {
+        title: 'Overview',
+        content: `Waltteri Väyrynen is a Finnish drummer born July 5, 1994, in Puolanka, Finland, now based in Helsinki. He first appeared as a session drummer for British gothic doom metal band Paradise Lost in 2015, became an official member in 2016, and recorded the albums Medusa (2017) and Obsidian (2020) with the band before departing in September 2022.
+
+In 2020, while still in Paradise Lost, he joined Bodom After Midnight — the project former Children of Bodom frontman Alexi Laiho formed after that band's 2019 split — tracking material later released posthumously as the Paint the Sky with Blood EP (2021) following Laiho's death in December 2020. Väyrynen has also drummed for Finnish death metal band Abhorrence since 2016 and performed live with Bloodbath. In September 2022 he joined Swedish progressive metal band Opeth, replacing longtime drummer Martin Axenrot behind the drum kit, and recorded his first album with the band, The Last Will and Testament (2024), bringing his own drum set vocabulary to Opeth's progressive metal catalogue. His stated influences include Dirk Verbeuren, Kai Hahto, and Daniel Erlandsson.`
+      },
+      careerHighlights: {
+        title: 'Career Highlights',
+        items: [
+          { year: '2015', event: 'Began as a session drummer for Paradise Lost' },
+          { year: '2016', event: 'Became an official member of Paradise Lost; joined Finnish death metal band Abhorrence' },
+          { year: '2017', event: 'Recorded Medusa, his first Paradise Lost studio album' },
+          { year: '2020', event: 'Recorded Obsidian with Paradise Lost; joined Bodom After Midnight' },
+          { year: '2021', event: 'Bodom After Midnight released the posthumous Paint the Sky with Blood EP' },
+          { year: '2022', event: 'Departed Paradise Lost in September; joined Opeth, replacing Martin Axenrot' },
+          { year: '2024', event: 'Recorded The Last Will and Testament, his first studio album with Opeth' }
+        ]
+      },
+      styleAndInfluences: {
+        title: 'Style & Influences',
+        content: `Waltteri Väyrynen's drumming bridges gothic doom metal's atmospheric weight and progressive metal's technical demands, a range built across his tenures in Paradise Lost and Opeth. He has cited Dirk Verbeuren (Megadeth, ex-Soilwork), Kai Hahto (Nightwish, ex-Wintersun), and Daniel Erlandsson (Arch Enemy) as influences, all drummers known for combining technical precision with heavy, riff-driven metal.
+
+**Key Influences:**
+- **Dirk Verbeuren**: Cited influence known for precision drumming in Megadeth and Soilwork
+- **Kai Hahto**: Cited influence from Nightwish and Wintersun
+- **Daniel Erlandsson**: Cited influence from Arch Enemy
+
+**Signature Techniques:**
+- Atmospheric, dynamically controlled playing suited to Paradise Lost's gothic doom material
+- Technical adaptation to Opeth's progressive metal songwriting following the 2022 lineup change
+- Session versatility demonstrated across Bodom After Midnight and Abhorrence`
+      },
+      notableRecordings: {
+        title: 'Notable Recordings & Tours',
+        albums: [
+          { name: 'Paradise Lost - Medusa', year: 2017, label: 'Nuclear Blast', note: 'Väyrynen\'s first studio album with Paradise Lost' },
+          { name: 'Paradise Lost - Obsidian', year: 2020, label: 'Nuclear Blast', note: 'Final Paradise Lost album with Väyrynen' },
+          { name: 'Bodom After Midnight - Paint the Sky with Blood', year: 2021, label: 'Napalm Records', note: 'Posthumous EP following Alexi Laiho\'s death' },
+          { name: 'Opeth - The Last Will and Testament', year: 2024, label: 'Moderbolaget/Reigning Phoenix Music', note: 'Väyrynen\'s Opeth studio debut' }
+        ],
+        tours: [
+          { name: 'Paradise Lost World Touring', year: '2015-2022', note: 'Touring the Medusa and Obsidian cycles' },
+          { name: 'Opeth World Touring', year: '2022-present', note: 'Touring since replacing Martin Axenrot' }
+        ]
+      },
+      gearHighlights: {
+        title: 'Gear Highlights',
+        content: `Waltteri Väyrynen is an endorsed Pearl Drums artist — the relationship is confirmed via Pearl's own artist roster, though that page blocks automated access, so specific shell sizes and finish are omitted rather than guessed; Antelope Audio's writeup of his 2020 studio session at Orgone Studios independently corroborates the Pearl (and Sabian) gear. His Sabian cymbal endorsement is documented on Sabian's own artist page, which names a 22" HH Power Bell Ride as his favourite piece in the setup.
+
+**Documented Setup:**
+- **Drums**: Pearl (specific kit model/shell sizes not independently documented)
+- **Cymbals**: Sabian, including a confirmed 22" HH Power Bell Ride
+- **Sticks**: Wincent W-5BXL signature model
+
+He plays Wincent's W-5BXL signature stick model, announced through Wincent's artist roster in December 2022. The rest of his cymbal lineup isn't itemized on Sabian's artist page, so only the confirmed 22" ride is listed here rather than guessing a full setup.`
+      },
+      trivia: {
+        title: 'Trivia & Notes',
+        items: [
+          'Joined Paradise Lost as a session drummer in 2015 before becoming an official member in 2016',
+          'Also drums for Finnish death metal band Abhorrence since 2016 and has performed live with Bloodbath',
+          'Recorded posthumously-released material with Bodom After Midnight, the project Alexi Laiho formed shortly before his December 2020 death',
+          'Replaced Martin Axenrot as Opeth\'s drummer in September 2022',
+          'Has his own Wincent W-5BXL signature drumstick model',
+          'Cites Dirk Verbeuren, Kai Hahto, and Daniel Erlandsson as influences'
+        ]
+      },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'What drum kit does Waltteri Väyrynen play?', a: 'Waltteri Väyrynen is an endorsed Pearl Drums artist, a relationship confirmed via Pearl\'s own artist roster and corroborated by Antelope Audio\'s 2020 studio-session writeup; specific kit model and shell sizes are not independently documented and are omitted rather than guessed.' },
+          { q: 'What drum set does Waltteri Väyrynen use with Opeth?', a: 'Waltteri Väyrynen\'s Opeth-era drum set pairs his Pearl kit with Sabian cymbals — including a confirmed 22" HH Power Bell Ride — and his own Wincent W-5BXL signature drumsticks.' },
+          { q: 'What cymbals does Waltteri Väyrynen use?', a: 'Waltteri Väyrynen is a Sabian-endorsed artist; Sabian\'s own artist page confirms a 22" HH Power Bell Ride as his favourite piece, though the full cymbal lineup isn\'t itemized there.' },
+          { q: 'What sticks does Waltteri Väyrynen use?', a: 'Waltteri Väyrynen plays the Wincent W-5BXL, his own signature stick model announced through Wincent\'s artist roster in December 2022.' },
+          { q: 'Who did Waltteri Väyrynen replace in Opeth?', a: 'Waltteri Väyrynen replaced longtime drummer Martin Axenrot when he joined Opeth in September 2022.' },
+          { q: 'What albums did Waltteri Väyrynen record with Paradise Lost?', a: 'Waltteri Väyrynen recorded Medusa (2017) and Obsidian (2020) with Paradise Lost during his 2015-2022 tenure.' },
+          { q: 'What album did Waltteri Väyrynen record with Opeth?', a: 'Waltteri Väyrynen recorded The Last Will and Testament (2024), his first studio album with Opeth.' },
+          { q: 'What bands has Waltteri Väyrynen played drums for?', a: 'Waltteri Väyrynen has drummed for Paradise Lost (2015-2022), Bodom After Midnight (2020-2021), Abhorrence (2016-present), and Opeth (2022-present).' },
+          { q: 'Who are Waltteri Väyrynen\'s drumming influences?', a: 'Waltteri Väyrynen has cited Dirk Verbeuren (Megadeth, ex-Soilwork), Kai Hahto (Nightwish, ex-Wintersun), and Daniel Erlandsson (Arch Enemy) as influences.' },
+          { q: 'Is Waltteri Väyrynen the current Opeth drummer?', a: 'Yes, Waltteri Väyrynen has been Opeth\'s drummer since September 2022, when he replaced Martin Axenrot.' }
+        ]
+      },
+      sources: {
+        title: 'Sources',
+        items: [
+          { name: 'Wikipedia: Waltteri Väyrynen', url: 'https://en.wikipedia.org/wiki/Waltteri_V%C3%A4yrynen' },
+          { name: 'Sabian Artist Page — Waltteri Väyrynen', url: 'https://sabian.com/artist/waltteri-vayrynen/' },
+          { name: 'Antelope Audio — Recording Drums with Waltteri Väyrynen', url: 'https://en.antelopeaudio.com/2020/05/recording-drums-with-waltteri-vayrynen/' },
+          { name: 'Drumming News Network', url: 'https://www.drummingnewsnetwork.com/?p=11605' }
+        ]
+      }
+    }
   }
 };
 

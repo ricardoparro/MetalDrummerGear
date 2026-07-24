@@ -3160,6 +3160,149 @@ export const ENDORSEMENT_TIMELINE = {
       },
     ],
   },
+  'jimmy-degrasso': {
+    slug: 'jimmy-degrasso',
+    name: 'Jimmy DeGrasso',
+    band: 'Megadeth',
+    currentEndorsements: {
+      drums: { brand: 'Pearl', model: 'JD1455 Signature Snare', since: '2008' },
+      cymbals: { brand: 'Sabian', since: '1990s' },
+    },
+    timeline: [
+      {
+        year: 1998,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
+        category: ENDORSEMENT_CATEGORIES.DRUMS,
+        from: null,
+        to: 'Pearl',
+        notes: 'Played a Pearl kit through his 1998–2002 tenure in Megadeth, recording Risk (1999) and The World Needs a Hero (2001)',
+      },
+      {
+        year: 1998,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
+        category: ENDORSEMENT_CATEGORIES.CYMBALS,
+        from: null,
+        to: 'Sabian',
+        notes: 'Sabian cymbal relationship documented on his Megadeth-era rig, maintained across his later touring work with Alice Cooper and other hard rock acts',
+      },
+      {
+        year: 2008,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNATURE,
+        category: ENDORSEMENT_CATEGORIES.DRUMS,
+        brand: 'Pearl',
+        product: 'JD1455 Signature Snare',
+        notes: 'Pearl unveiled DeGrasso\'s 14x5.5" hammered brass signature snare at the 2008 NAMM Show',
+      },
+    ],
+  },
+  'nick-barker': {
+    slug: 'nick-barker',
+    name: 'Nick Barker',
+    band: 'Dimmu Borgir',
+    currentEndorsements: {
+      drums: { brand: 'Sonor', since: '1993' },
+    },
+    timeline: [
+      {
+        year: 1993,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
+        category: ENDORSEMENT_CATEGORIES.DRUMS,
+        from: null,
+        to: 'Sonor',
+        notes: 'Sonor\'s own artist page credits Barker\'s endorsement back to his 1993 arrival in Cradle of Filth, spanning through his 1999–2004 Dimmu Borgir tenure',
+      },
+    ],
+  },
+  'alex-rudinger': {
+    slug: 'alex-rudinger',
+    name: 'Alex Rüdinger',
+    band: 'The Faceless',
+    currentEndorsements: {
+      drums: { brand: 'Tama', model: 'Starclassic Performer B/B', since: '2010s' },
+      heads: { brand: 'Evans', since: '2010s' },
+    },
+    timeline: [
+      {
+        year: 2013,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
+        category: ENDORSEMENT_CATEGORIES.DRUMS,
+        from: null,
+        to: 'Tama',
+        notes: 'Tama-endorsed Starclassic Performer B/B kit documented via Tama\'s own artist page, spanning his work in The Faceless, Conquering Dystopia, and 7 Horns 7 Eyes',
+      },
+      {
+        year: 2013,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
+        category: ENDORSEMENT_CATEGORIES.HEADS,
+        from: null,
+        to: 'Evans',
+        notes: 'Evans\' own artist page credits Rüdinger\'s head setup (UV EQ4 Coated batter, G2 Clear toms, HD Dry snare) alongside his Tama kit',
+      },
+    ],
+  },
+  'john-longstreth': {
+    slug: 'john-longstreth',
+    name: 'John Longstreth',
+    band: 'Origin',
+    currentEndorsements: {
+      drums: { brand: 'Pearl', since: '1990s' },
+      cymbals: { brand: 'Meinl', model: 'Classics Custom Dark Series', since: '2010s' },
+    },
+    timeline: [
+      {
+        year: 1999,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
+        category: ENDORSEMENT_CATEGORIES.DRUMS,
+        from: null,
+        to: 'Pearl',
+        notes: 'Pearl endorsement documented via his Scorpion Percussion signature-artist bio, spanning Origin\'s 1999 formation through the band\'s technical death metal catalog',
+      },
+      {
+        year: 2017,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
+        category: ENDORSEMENT_CATEGORIES.CYMBALS,
+        from: null,
+        to: 'Meinl',
+        notes: 'Meinl\'s own artist page credits his Classics Custom Dark Series setup (8" splash, 14" hi-hats, 18" china) plus a Generation X 12"/14" trash hat, documented across Origin\'s Unparalleled Universe (2017) and Chaosmos (2022) era',
+      },
+    ],
+  },
+  'waltteri-vayrynen': {
+    slug: 'waltteri-vayrynen',
+    name: 'Waltteri Väyrynen',
+    band: 'Opeth',
+    currentEndorsements: {
+      drums: { brand: 'Pearl', since: '2020' },
+      cymbals: { brand: 'Sabian', model: '22" HH Power Bell Ride', since: '2020' },
+      sticks: { brand: 'Wincent', model: 'W-5BXL', since: '2022' },
+    },
+    timeline: [
+      {
+        year: 2020,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
+        category: ENDORSEMENT_CATEGORIES.DRUMS,
+        from: null,
+        to: 'Pearl',
+        notes: 'Antelope Audio\'s writeup of his 2020 studio session at Orgone Studios documents his Pearl kit, corroborating Pearl\'s own artist roster listing',
+      },
+      {
+        year: 2020,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
+        category: ENDORSEMENT_CATEGORIES.CYMBALS,
+        from: null,
+        to: 'Sabian',
+        notes: 'Sabian\'s own artist page names a 22" HH Power Bell Ride as his favourite piece, the only itemized component of his confirmed cymbal setup',
+      },
+      {
+        year: 2022,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNATURE,
+        category: ENDORSEMENT_CATEGORIES.STICKS,
+        brand: 'Wincent',
+        product: 'W-5BXL Signature Sticks',
+        notes: 'Wincent announced Väyrynen\'s W-5BXL signature stick model via its artist roster in December 2022',
+      },
+    ],
+  },
 };
 
 /**

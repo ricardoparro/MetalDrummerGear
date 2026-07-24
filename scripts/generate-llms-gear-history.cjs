@@ -186,6 +186,17 @@ function renderDrummer(entry) {
     parts.push('');
   });
 
+  if (Array.isArray(entry.sources) && entry.sources.length) {
+    parts.push('**Sources:**');
+    entry.sources.forEach(s => {
+      const label = typeof s === 'string'
+        ? s
+        : [s.title, s.year ? `(${s.year})` : null].filter(Boolean).join(' ');
+      parts.push(`- ${label}`);
+    });
+    parts.push('');
+  }
+
   parts.push(`[Full gear profile](https://metalforge.io/drummers/${slug}/gear-history)`);
 
   return parts.join('\n');

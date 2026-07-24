@@ -14,67 +14,116 @@ const path = require('path');
 const BASE = 'https://metalforge.io';
 const today = new Date().toISOString().split('T')[0];
 
-// All 51 drummers with lick data (issue #1244 expanded from original 20 in #1218)
-const TARGET_DRUMMERS = [
-  { slug: 'joey-jordison',      name: 'Joey Jordison',      band: 'Slipknot',                    genre: 'Nu Metal / Death Metal' },
-  { slug: 'lars-ulrich',        name: 'Lars Ulrich',        band: 'Metallica',                   genre: 'Thrash Metal' },
-  { slug: 'dave-lombardo',      name: 'Dave Lombardo',      band: 'Slayer',                      genre: 'Thrash Metal' },
-  { slug: 'george-kollias',     name: 'George Kollias',     band: 'Nile',                        genre: 'Technical Death Metal' },
-  { slug: 'tomas-haake',        name: 'Tomas Haake',        band: 'Meshuggah',                   genre: 'Progressive Metal / Djent' },
-  { slug: 'matt-greiner',       name: 'Matt Greiner',       band: 'August Burns Red',            genre: 'Metalcore' },
-  { slug: 'gene-hoglan',        name: 'Gene Hoglan',        band: 'Death / Testament',           genre: 'Death Metal / Thrash Metal' },
-  { slug: 'pete-sandoval',      name: 'Pete Sandoval',      band: 'Morbid Angel',                genre: 'Death Metal' },
-  { slug: 'derek-roddy',        name: 'Derek Roddy',        band: 'Hate Eternal / Nile',         genre: 'Death Metal / Technical Death Metal' },
-  { slug: 'brann-dailor',       name: 'Brann Dailor',       band: 'Mastodon',                    genre: 'Progressive / Sludge Metal' },
-  { slug: 'mike-portnoy',       name: 'Mike Portnoy',       band: 'Dream Theater',               genre: 'Progressive Metal' },
-  { slug: 'matt-garstka',       name: 'Matt Garstka',       band: 'Animals as Leaders',          genre: 'Progressive Metal / Djent' },
-  { slug: 'inferno',            name: 'Inferno',            band: 'Behemoth',                    genre: 'Black / Death Metal' },
-  { slug: 'hellhammer',         name: 'Hellhammer',         band: 'Mayhem',                      genre: 'Black Metal' },
-  { slug: 'bill-ward',          name: 'Bill Ward',          band: 'Black Sabbath',               genre: 'Heavy Metal / Hard Rock' },
-  { slug: 'charlie-benante',    name: 'Charlie Benante',    band: 'Anthrax',                     genre: 'Thrash Metal' },
-  { slug: 'mario-duplantier',   name: 'Mario Duplantier',   band: 'Gojira',                      genre: 'Progressive Death Metal' },
-  { slug: 'chris-adler',        name: 'Chris Adler',        band: 'Lamb of God',                 genre: 'Groove Metal' },
-  { slug: 'ben-koller',         name: 'Ben Koller',         band: 'Converge',                    genre: 'Metalcore / Hardcore' },
-  { slug: 'flo-mounier',        name: 'Flo Mounier',        band: 'Cryptopsy',                   genre: 'Technical Death Metal / Brutal Death Metal' },
+// name/band/genre metadata isn't derivable from any single live source (band/genre
+// here are hand-curated summaries, not the per-lick `band` field) so this map still
+// needs updating per drummer — but WHICH drummers get a page is now derived below
+// from the live packages/frontend/data/licks/index.js composition, so a new lick
+// module can no longer silently fail to produce a page the way #5023 found 5
+// missing (same drift bug class already fixed once in generate-llms-endorsements.cjs,
+// see #4232).
+const TARGET_DRUMMER_META = {
+  'joey-jordison':      { name: 'Joey Jordison',      band: 'Slipknot',                    genre: 'Nu Metal / Death Metal' },
+  'lars-ulrich':        { name: 'Lars Ulrich',        band: 'Metallica',                   genre: 'Thrash Metal' },
+  'dave-lombardo':      { name: 'Dave Lombardo',      band: 'Slayer',                      genre: 'Thrash Metal' },
+  'george-kollias':     { name: 'George Kollias',     band: 'Nile',                        genre: 'Technical Death Metal' },
+  'tomas-haake':        { name: 'Tomas Haake',        band: 'Meshuggah',                   genre: 'Progressive Metal / Djent' },
+  'matt-greiner':       { name: 'Matt Greiner',       band: 'August Burns Red',            genre: 'Metalcore' },
+  'gene-hoglan':        { name: 'Gene Hoglan',        band: 'Death / Testament',           genre: 'Death Metal / Thrash Metal' },
+  'pete-sandoval':      { name: 'Pete Sandoval',      band: 'Morbid Angel',                genre: 'Death Metal' },
+  'derek-roddy':        { name: 'Derek Roddy',        band: 'Hate Eternal / Nile',         genre: 'Death Metal / Technical Death Metal' },
+  'brann-dailor':       { name: 'Brann Dailor',       band: 'Mastodon',                    genre: 'Progressive / Sludge Metal' },
+  'mike-portnoy':       { name: 'Mike Portnoy',       band: 'Dream Theater',               genre: 'Progressive Metal' },
+  'matt-garstka':       { name: 'Matt Garstka',       band: 'Animals as Leaders',          genre: 'Progressive Metal / Djent' },
+  'inferno':            { name: 'Inferno',            band: 'Behemoth',                    genre: 'Black / Death Metal' },
+  'hellhammer':         { name: 'Hellhammer',         band: 'Mayhem',                      genre: 'Black Metal' },
+  'bill-ward':          { name: 'Bill Ward',          band: 'Black Sabbath',               genre: 'Heavy Metal / Hard Rock' },
+  'charlie-benante':    { name: 'Charlie Benante',    band: 'Anthrax',                     genre: 'Thrash Metal' },
+  'mario-duplantier':   { name: 'Mario Duplantier',   band: 'Gojira',                      genre: 'Progressive Death Metal' },
+  'chris-adler':        { name: 'Chris Adler',        band: 'Lamb of God',                 genre: 'Groove Metal' },
+  'ben-koller':         { name: 'Ben Koller',         band: 'Converge',                    genre: 'Metalcore / Hardcore' },
+  'flo-mounier':        { name: 'Flo Mounier',        band: 'Cryptopsy',                   genre: 'Technical Death Metal / Brutal Death Metal' },
   // Issue #1244: 31 additional drummers
-  { slug: 'abe-cunningham',     name: 'Abe Cunningham',     band: 'Deftones',                    genre: 'Alternative Metal' },
-  { slug: 'alex-bent',          name: 'Alex Bent',          band: 'Trivium',                     genre: 'Melodic Thrash / Metalcore' },
-  { slug: 'aquiles-priester',   name: 'Aquiles Priester',   band: 'Angra',                       genre: 'Power Metal' },
-  { slug: 'arin-ilejay',        name: 'Arin Ilejay',        band: 'Avenged Sevenfold',           genre: 'Heavy Metal' },
-  { slug: 'art-cruz',           name: 'Art Cruz',           band: 'Lamb of God',                 genre: 'Groove Metal' },
-  { slug: 'blake-richardson',   name: 'Blake Richardson',   band: 'Between the Buried and Me',   genre: 'Progressive Metal' },
-  { slug: 'daniel-erlandsson',  name: 'Daniel Erlandsson',  band: 'Arch Enemy',                  genre: 'Melodic Death Metal' },
-  { slug: 'danny-carey',        name: 'Danny Carey',        band: 'Tool',                        genre: 'Progressive Metal / Art Rock' },
-  { slug: 'dirk-verbeuren',     name: 'Dirk Verbeuren',     band: 'Megadeth',                    genre: 'Thrash Metal' },
-  { slug: 'eloy-casagrande',    name: 'Eloy Casagrande',    band: 'Sepultura',                   genre: 'Groove Metal / Thrash Metal' },
-  { slug: 'gavin-harrison',     name: 'Gavin Harrison',     band: 'Porcupine Tree',              genre: 'Progressive Rock / Art Rock' },
-  { slug: 'hannes-grossmann',   name: 'Hannes Grossmann',   band: 'Alkaloid / Obscura',          genre: 'Technical Death Metal' },
-  { slug: 'igor-cavalera',      name: 'Igor Cavalera',      band: 'Sepultura',                   genre: 'Groove Metal / Thrash Metal' },
-  { slug: 'jaska-raatikainen',  name: 'Jaska Raatikainen',  band: 'Children of Bodom',           genre: 'Melodic Death Metal' },
-  { slug: 'jason-bittner',      name: 'Jason Bittner',      band: 'Shadows Fall',                genre: 'Groove Metal / Metalcore' },
-  { slug: 'jay-weinberg',       name: 'Jay Weinberg',       band: 'Slipknot',                    genre: 'Nu Metal' },
-  { slug: 'martin-axenrot',     name: 'Martin Axenrot',     band: 'Opeth',                       genre: 'Progressive Metal / Progressive Death Metal' },
-  { slug: 'martin-lopez',       name: 'Martin Lopez',       band: 'Opeth',                       genre: 'Progressive Metal' },
-  { slug: 'matt-halpern',       name: 'Matt Halpern',       band: 'Periphery',                   genre: 'Progressive Metal / Djent' },
-  { slug: 'mike-mangini',       name: 'Mike Mangini',       band: 'Dream Theater',               genre: 'Progressive Metal' },
-  { slug: 'mikkey-dee',         name: 'Mikkey Dee',         band: 'Motörhead',                   genre: 'Heavy Metal / Speed Metal' },
-  { slug: 'navene-koperweis',   name: 'Navene Koperweis',   band: 'Entheos',                     genre: 'Progressive Metal / Djent' },
-  { slug: 'nicko-mcbrain',      name: 'Nicko McBrain',      band: 'Iron Maiden',                 genre: 'Heavy Metal' },
-  { slug: 'paul-bostaph',       name: 'Paul Bostaph',       band: 'Slayer',                      genre: 'Thrash Metal' },
-  { slug: 'paul-mazurkiewicz',  name: 'Paul Mazurkiewicz',  band: 'Cannibal Corpse',             genre: 'Death Metal / Brutal Death Metal' },
-  { slug: 'ray-luzier',         name: 'Ray Luzier',         band: 'Korn',                        genre: 'Nu Metal / Alternative Metal' },
-  { slug: 'raymond-herrera',    name: 'Raymond Herrera',    band: 'Fear Factory',                genre: 'Industrial Metal / Groove Metal' },
-  { slug: 'richard-christy',    name: 'Richard Christy',    band: 'Death',                       genre: 'Technical Death Metal / Death Metal' },
-  { slug: 'scott-travis',       name: 'Scott Travis',       band: 'Judas Priest',                genre: 'Heavy Metal / Power Metal' },
-  { slug: 'shannon-larkin',     name: 'Shannon Larkin',     band: 'Godsmack',                    genre: 'Hard Rock / Alternative Metal' },
-  { slug: 'travis-orbin',       name: 'Travis Orbin',       band: 'Periphery',                   genre: 'Progressive Metal / Djent' },
-  { slug: 'vinnie-paul',        name: 'Vinnie Paul',        band: 'Pantera',                     genre: 'Groove Metal / Thrash Metal' },
+  'abe-cunningham':     { name: 'Abe Cunningham',     band: 'Deftones',                    genre: 'Alternative Metal' },
+  'alex-bent':          { name: 'Alex Bent',          band: 'Trivium',                     genre: 'Melodic Thrash / Metalcore' },
+  'aquiles-priester':   { name: 'Aquiles Priester',   band: 'Angra',                       genre: 'Power Metal' },
+  'arin-ilejay':        { name: 'Arin Ilejay',        band: 'Avenged Sevenfold',           genre: 'Heavy Metal' },
+  'art-cruz':           { name: 'Art Cruz',           band: 'Lamb of God',                 genre: 'Groove Metal' },
+  'blake-richardson':   { name: 'Blake Richardson',   band: 'Between the Buried and Me',   genre: 'Progressive Metal' },
+  'daniel-erlandsson':  { name: 'Daniel Erlandsson',  band: 'Arch Enemy',                  genre: 'Melodic Death Metal' },
+  'danny-carey':        { name: 'Danny Carey',        band: 'Tool',                        genre: 'Progressive Metal / Art Rock' },
+  'dirk-verbeuren':     { name: 'Dirk Verbeuren',     band: 'Megadeth',                    genre: 'Thrash Metal' },
+  'eloy-casagrande':    { name: 'Eloy Casagrande',    band: 'Sepultura',                   genre: 'Groove Metal / Thrash Metal' },
+  'gavin-harrison':     { name: 'Gavin Harrison',     band: 'Porcupine Tree',              genre: 'Progressive Rock / Art Rock' },
+  'hannes-grossmann':   { name: 'Hannes Grossmann',   band: 'Alkaloid / Obscura',          genre: 'Technical Death Metal' },
+  'igor-cavalera':      { name: 'Igor Cavalera',      band: 'Sepultura',                   genre: 'Groove Metal / Thrash Metal' },
+  'jaska-raatikainen':  { name: 'Jaska Raatikainen',  band: 'Children of Bodom',           genre: 'Melodic Death Metal' },
+  'jason-bittner':      { name: 'Jason Bittner',      band: 'Shadows Fall',                genre: 'Groove Metal / Metalcore' },
+  'jay-weinberg':       { name: 'Jay Weinberg',       band: 'Slipknot',                    genre: 'Nu Metal' },
+  'martin-axenrot':     { name: 'Martin Axenrot',     band: 'Opeth',                       genre: 'Progressive Metal / Progressive Death Metal' },
+  'martin-lopez':       { name: 'Martin Lopez',       band: 'Opeth',                       genre: 'Progressive Metal' },
+  'matt-halpern':       { name: 'Matt Halpern',       band: 'Periphery',                   genre: 'Progressive Metal / Djent' },
+  'mike-mangini':       { name: 'Mike Mangini',       band: 'Dream Theater',               genre: 'Progressive Metal' },
+  'mikkey-dee':         { name: 'Mikkey Dee',         band: 'Motörhead',                   genre: 'Heavy Metal / Speed Metal' },
+  'navene-koperweis':   { name: 'Navene Koperweis',   band: 'Entheos',                     genre: 'Progressive Metal / Djent' },
+  'nicko-mcbrain':      { name: 'Nicko McBrain',      band: 'Iron Maiden',                 genre: 'Heavy Metal' },
+  'paul-bostaph':       { name: 'Paul Bostaph',       band: 'Slayer',                      genre: 'Thrash Metal' },
+  'paul-mazurkiewicz':  { name: 'Paul Mazurkiewicz',  band: 'Cannibal Corpse',             genre: 'Death Metal / Brutal Death Metal' },
+  'ray-luzier':         { name: 'Ray Luzier',         band: 'Korn',                        genre: 'Nu Metal / Alternative Metal' },
+  'raymond-herrera':    { name: 'Raymond Herrera',    band: 'Fear Factory',                genre: 'Industrial Metal / Groove Metal' },
+  'richard-christy':    { name: 'Richard Christy',    band: 'Death',                       genre: 'Technical Death Metal / Death Metal' },
+  'scott-travis':       { name: 'Scott Travis',       band: 'Judas Priest',                genre: 'Heavy Metal / Power Metal' },
+  'shannon-larkin':     { name: 'Shannon Larkin',     band: 'Godsmack',                    genre: 'Hard Rock / Alternative Metal' },
+  'travis-orbin':       { name: 'Travis Orbin',       band: 'Periphery',                   genre: 'Progressive Metal / Djent' },
+  'vinnie-paul':        { name: 'Vinnie Paul',        band: 'Pantera',                     genre: 'Groove Metal / Thrash Metal' },
   // Issue #4230: 2 drummers with lick data missing from this list (added in #4114/#2219)
-  { slug: 'adrian-erlandsson',  name: 'Adrian Erlandsson',  band: 'At the Gates',                genre: 'Melodic Death Metal' },
-  { slug: 'sean-reinert',       name: 'Sean Reinert',       band: 'Death / Cynic',               genre: 'Progressive Death Metal / Technical Death Metal' },
+  'adrian-erlandsson':  { name: 'Adrian Erlandsson',  band: 'At the Gates',                genre: 'Melodic Death Metal' },
+  'sean-reinert':       { name: 'Sean Reinert',       band: 'Death / Cynic',               genre: 'Progressive Death Metal / Technical Death Metal' },
   // Issue #4275: nick-menza had lick data (#2219) but was missing from this generator's list
-  { slug: 'nick-menza',         name: 'Nick Menza',         band: 'Megadeth',                    genre: 'Thrash Metal' },
-];
+  'nick-menza':         { name: 'Nick Menza',         band: 'Megadeth',                    genre: 'Thrash Metal' },
+  // Issue #5023: 5 newest roster drummers (#4748 batch, licks/ modules added in #4992)
+  // were missing from this list. name/band/genre verified against the live drummer
+  // roster (api/drummers/index.js).
+  'jimmy-degrasso':     { name: 'Jimmy DeGrasso',     band: 'Megadeth',                    genre: 'Thrash Metal' },
+  'nick-barker':        { name: 'Nick Barker',        band: 'Dimmu Borgir',                genre: 'Black Metal / Death Metal' },
+  'alex-rudinger':      { name: 'Alex Rüdinger',      band: 'The Faceless',                genre: 'Technical Death Metal / Progressive Metal' },
+  'john-longstreth':    { name: 'John Longstreth',    band: 'Origin',                      genre: 'Technical Death Metal / Brutal Death Metal' },
+  'waltteri-vayrynen':  { name: 'Waltteri Väyrynen',  band: 'Opeth',                       genre: 'Progressive Metal / Gothic Doom Metal' },
+  // These 12 already had licks/ modules and public/llms/licks/*.md files on disk but
+  // were ALSO missing from the old hardcoded TARGET_DRUMMERS array (found while
+  // fixing #5023 — the derivation below now makes this class of gap impossible to
+  // reintroduce silently). name/band/genre recovered from their existing generated files.
+  'john-otto':          { name: 'John Otto',          band: 'Limp Bizkit',                 genre: 'Nu Metal' },
+  'jocke-wallgren':     { name: 'Jocke Wallgren',      band: 'Amon Amarth',                 genre: 'Melodic Death Metal' },
+  'frost':              { name: 'Frost',               band: 'Satyricon / 1349',            genre: 'Black Metal' },
+  'daray':              { name: 'Daray',                band: 'Dimmu Borgir',                genre: 'Symphonic Black Metal' },
+  'tim-yeung':          { name: 'Tim Yeung',           band: 'Divine Heresy',               genre: 'Death Metal' },
+  'nick-augusto':       { name: 'Nick Augusto',        band: 'Trivium',                     genre: 'Metalcore' },
+  'jon-dette':          { name: 'Jon Dette',           band: 'Slayer',                      genre: 'Thrash Metal' },
+  'ryan-van-poederooyen': { name: 'Ryan Van Poederooyen', band: 'Devin Townsend Project',   genre: 'Progressive Metal' },
+  'kevin-talley':       { name: 'Kevin Talley',        band: 'Dying Fetus',                 genre: 'Death Metal' },
+  'morgan-agren':       { name: 'Morgan Ågren',        band: 'Mats/Morgan Band',            genre: 'Progressive Metal' },
+  'chris-turner':       { name: 'Chris Turner',        band: 'Oceans Ate Alaska',           genre: 'Progressive Metalcore' },
+  'isaac-lamb':         { name: 'Isaac Lamb',          band: 'Kublai Khan TX',              genre: 'Metalcore / Beatdown Hardcore' },
+};
+
+// Derived from the live composed licks index so the generator can never again
+// silently drop a drummer with a lick module (the #5023 bug class).
+const licksIndexPath = path.join(__dirname, '../packages/frontend/data/licks/index.js');
+const licksIndexContent = fs.readFileSync(licksIndexPath, 'utf-8');
+const DRUMMER_SLUGS = [...licksIndexContent.matchAll(/^import \S+ from '\.\/([a-z0-9-]+)\.js';$/gm)]
+  .map(m => m[1]);
+
+if (DRUMMER_SLUGS.length === 0) {
+  throw new Error(`Could not extract any drummer slugs from ${licksIndexPath}`);
+}
+
+const TARGET_DRUMMERS = DRUMMER_SLUGS.map(slug => {
+  const meta = TARGET_DRUMMER_META[slug];
+  if (!meta) {
+    throw new Error(`Missing TARGET_DRUMMER_META entry for "${slug}" — add its name/band/genre in generate-llms-licks-per-drummer.cjs`);
+  }
+  return { slug, ...meta };
+});
 
 function loadDrummerLicks(slug) {
   const filePath = path.join(__dirname, '../packages/frontend/data/licks', `${slug}.js`);

@@ -46,7 +46,7 @@ import { gearItems } from '../gear/[slug].js';
 import { BUDGET_TIERS } from '../../packages/frontend/data/budgetTiers.js';
 // Issue #1451: HowTo JSON-LD + Article schema for /guides/how-to-sound-like-<slug> pages.
 // Issue #2202: FAQPage JSON-LD alongside HowTo for AI Overview + voice search eligibility.
-import { SOUND_LIKE_GUIDES, generateGuideSchema } from '../../packages/frontend/data/soundLikeGuides.js';
+import { SOUND_LIKE_GUIDES, generateGuideSchema, getRelatedGuides } from '../../packages/frontend/data/soundLikeGuides.js';
 // Issue #1475: drummer gear evolution pages SSR meta.
 import { DRUMMER_EVOLUTION } from '../../packages/frontend/data/drummerEvolution.js';
 // Issue #1473: /battles/<slug> individual pages — FAQPage + BreadcrumbList JSON-LD.
@@ -1209,6 +1209,14 @@ export function getMetaForPath(pathname) {
           { name: 'Home', url: BASE_URL },
           { name: 'Guides', url: `${BASE_URL}/guides` },
           { name: `How to Sound Like ${drummer.name}`, url: guideUrl },
+        ],
+        // Issue #5019: getRelatedGuides() existed but was never called — bots
+        // had zero crawlable path from a sound-like guide back to the hub or
+        // to related guides.
+        ssrLinks: [
+          { href: '/guides', label: 'All Guides' },
+          { href: `/drummer/${drummerSlug}`, label: `${drummer.name} Profile` },
+          ...getRelatedGuides(guideSlug, 3).map(g => ({ href: `/guides/${g.slug}`, label: g.title || g.name })),
         ],
       };
     }

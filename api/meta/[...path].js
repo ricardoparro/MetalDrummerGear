@@ -259,6 +259,7 @@ import {
   getSongsByDrummerSlug,
   getDrummersWithSongCounts,
   getSongPageData,
+  getSongPageSlugs,
   FASTEST_SONGS_MIN_BPM,
   DRUMMER_SONGS_MIN_COUNT,
 } from '../../packages/frontend/data/metalSongsBpm.js';
@@ -5748,6 +5749,7 @@ export function getMetaForPath(pathname) {
   // "what is the fastest metal song?" from the top-ranked entry's own source.
   if (path === '/songs/fastest-metal-songs') {
     const songs = getFastestMetalSongs();
+    const songPageSlugs = new Set(getSongPageSlugs());
     const top = songs[0];
     const ssrLinks = _dedupeSsrLinksByHref(
       songs.filter(s => s.drummer && drummerSlugToName[s.drummer]).map(s => ({
@@ -5788,7 +5790,9 @@ export function getMetaForPath(pathname) {
             '@type': 'MusicRecording',
             name: s.song,
             byArtist: { '@type': 'MusicGroup', name: s.band },
-            url: `${BASE_URL}/songs/fastest-metal-songs#${s.slug}`,
+            url: songPageSlugs.has(s.slug)
+              ? `${BASE_URL}/songs/${s.slug}`
+              : `${BASE_URL}/songs/fastest-metal-songs#${s.slug}`,
           },
         })),
       }),
@@ -5805,6 +5809,7 @@ export function getMetaForPath(pathname) {
   if (songsTempoTierMatch) {
     const tier = getTempoTierBySlug(songsTempoTierMatch[1].toLowerCase());
     if (tier) {
+      const songPageSlugs = new Set(getSongPageSlugs());
       const ssrLinks = _dedupeSsrLinksByHref(
         tier.songs.filter(s => s.drummer && drummerSlugToName[s.drummer]).map(s => ({
           href: `/drummer/${s.drummer}`,
@@ -5838,7 +5843,9 @@ export function getMetaForPath(pathname) {
               '@type': 'MusicRecording',
               name: s.song,
               byArtist: { '@type': 'MusicGroup', name: s.band },
-              url: `${BASE_URL}/songs/tempo/${tier.slug}#${s.slug}`,
+              url: songPageSlugs.has(s.slug)
+                ? `${BASE_URL}/songs/${s.slug}`
+                : `${BASE_URL}/songs/tempo/${tier.slug}#${s.slug}`,
             },
           })),
         }),
@@ -5863,6 +5870,7 @@ export function getMetaForPath(pathname) {
     const drummerName = drummerSlugToName[drummerSlug];
     const songs = getSongsByDrummerSlug(drummerSlug);
     if (drummerName && songs.length >= DRUMMER_SONGS_MIN_COUNT) {
+      const songPageSlugs = new Set(getSongPageSlugs());
       return {
         title: `${drummerName} Songs by BPM | ${SITE_NAME}`,
         description: `${songs.length} songs in MetalForge's database drummed by ${drummerName}, ranked fastest first.`,
@@ -5893,7 +5901,9 @@ export function getMetaForPath(pathname) {
               '@type': 'MusicRecording',
               name: s.song,
               byArtist: { '@type': 'MusicGroup', name: s.band },
-              url: `${BASE_URL}/songs/drummer/${drummerSlug}#${s.slug}`,
+              url: songPageSlugs.has(s.slug)
+                ? `${BASE_URL}/songs/${s.slug}`
+                : `${BASE_URL}/songs/drummer/${drummerSlug}#${s.slug}`,
             },
           })),
         }),

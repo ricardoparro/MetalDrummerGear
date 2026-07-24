@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-24 10:40 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-24 12:29 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,16 +8,16 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 200 |
-| Sessions | 242 |
-| Page views | 596 |
-| Engagement rate | 64.46% |
-| Avg session (s) | 125 |
+| Active users | 203 |
+| Sessions | 245 |
+| Page views | 599 |
+| Engagement rate | 63.67% |
+| Avg session (s) | 123 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 54 | 16 |
+| / | 55 | 17 |
 | /drummers | 32 | 4 |
 | /tools | 17 | 2 |
 | /drummer/jaska-raatikainen/bio | 15 | 1 |
@@ -31,9 +31,9 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 208 | 169 |
-| Direct | 30 | 27 |
-| Unassigned | 11 | 10 |
+| Organic Search | 209 | 170 |
+| Direct | 32 | 29 |
+| Unassigned | 12 | 11 |
 | AI Assistant | 1 | 1 |
 
 ## Search Console — Search performance

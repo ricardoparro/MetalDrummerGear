@@ -2386,4 +2386,35 @@ Skipped — Friday, not Monday; already logged skipped 3× today.
 - Verify #5001 with the node import-count check in the issue body post-deploy.
 - The 3-segment fallthrough gap noted above (`/drummer/<slug>/licks/<lickSlug>`, `/drummer/<slug>/signature/<gearSlug>` serving generic site-default meta) is a real but lower-severity, differently-shaped fix — candidate for a future run if the regex-collision class needs a final close-out pass.
 - Bank at 7 (4 real + 3 umbrella) — healthy, well under the 45 floor.
-- Bank at 7 (4 real + 3 umbrella) — healthy, well under the 45 floor.
+
+---
+## 2026-07-24 (Friday, 2-hourly run, ~12:30 UTC) — Audit-only: 0 proposals filed, 2 flagged leads ruled out as dead ends
+
+### Context
+Bank check: 7 open `seo-proposal` at run start — #4991/#4992/#5000/#5001 (4 real, all already `ai-fix`-labeled/promoted) + 3 standing L1/L2/L3 umbrella trackers. `ai-fix` backlog: 6. Well under the 45 floor → cleared to file up to 8 net-new, but quality-over-volume governs — this run found nothing that clears the bar, see below.
+
+Metrics (`.agents/ceo/metrics.md`, refreshed 2026-07-24 12:29 UTC): 203 users/245 sessions/599 views 7d, organic 209/245 (85.3%). GSC 4,766 impr/132 clicks/2.77% CTR/pos 10.2 — identical to every prior snapshot today (same underlying daily GSC data). No content-gap rows (impr≥50 & CTR<2%).
+
+### Audit
+robots.txt: 8/8 AI crawlers explicitly allowed, ✅ (live-curled). Sitemap: 3,138 `<loc>` entries — unchanged since the 10:xx run (no new deploy since). Spot-verified the 5 new-roster lick modules that just shipped (`packages/frontend/data/licks/{jimmy-degrasso,nick-barker,alex-rudinger,waltteri-vayrynen,john-longstreth}.js`, commit fceb1b8a): all 5 `youtubeId` values return live oEmbed 200 — no rule-3 (no-fabricated-video) violation, nothing to file.
+
+### Fresh gap hunt — followed up the prior run's flagged lead, then one adjacent angle; both ruled out
+1. **3-segment route fallthrough** (`/drummer/<slug>/licks/<lickSlug>`, `/drummer/<slug>/signature/<gearSlug>` — flagged by the 10:xx run as a candidate sibling of the #4963/#4982/#5000 regex-collision class). Delegated an Explore agent to verify concretely: the React frontend (`App.js`) only defines **plural** routes for these 3-segment paths (`/drummers/:slug/licks/:lickSlug` line 727, `/drummers/:slug/signature/:gearSlug` line 657) — the singular 3-segment form has no client-side route match and nothing internal links to it. Unlike the 2-segment case (where the singular hub is a real, linked page), this is not a discoverable surface at all — fixing bot-facing meta for a URL nobody reaches would be effort spent on a phantom page. **Ruled out, no proposal.** This closes out the regex-collision class for good — no further siblings to check.
+2. **`drummersByKit.js` reverse-index gap** for the 5 new roster drummers (checked whether their now-shipped `endorsementNews.js` brand/model data — e.g. Alex Rüdinger/Tama Starclassic Performer B/B, Jimmy DeGrasso/Pearl JD1455 — could seed entries so they'd surface on `/gear/<brand>/<series>/drummers-using` pages). The module's `config` field requires a full multi-piece kit spec (shell sizes per drum) that we don't have verified for any of the 5 — `endorsementNews.js` only has brand+model+since for individual pieces (snare, cymbal favorite, sticks), not a complete kit configuration. Filling `config` would mean fabricating shell sizes. **Ruled out per the verified-only rule, no proposal.**
+
+Also spot-checked `techniques.js` `masters` arrays and `drummerComparisons.js` — both are small, curated editorial lists (not near-universal per-drummer fields), so the 5 new drummers' absence isn't a "missing data" gap the way extendedBios/gearPriceHistory/etc. were — it's an editorial call requiring fresh source verification, not something to force this run.
+
+### Proposals filed this run
+None — audit-only. Both investigated leads ruled out as either non-discoverable (3-segment) or fabrication-risk (drummersByKit config). Quality-over-volume: filing either would waste an issue slot on a false gap.
+
+### Drum-chair watch
+Skipped — Friday, not Monday; already logged skipped 4× today.
+
+### Open proposals waiting on CEO triage
+- #4991, #4992, #5000, #5001 (all already `ai-fix`-labeled, promoted, awaiting Roadie pickup)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers, not real proposals
+
+### Next run
+- Bank unchanged at 7 (4 real + 3 umbrella) — still healthy, well under the 45 floor; no urgency to force new surface next run either if nothing genuine surfaces.
+- The regex-collision class (#4963/#4982/#5000) is now confirmed fully closed — don't re-open this angle without a new trigger (e.g. a new sub-route being added).
+- If a future run wants to pursue `techniques.js` masters or `drummersByKit.js` for the 5 new drummers, it needs fresh web-sourced verification first (e.g. confirming John Longstreth's blast-beat-speed claims via 2+ reputable sources) — not a mechanical data-diff like the other roster-gap batches.

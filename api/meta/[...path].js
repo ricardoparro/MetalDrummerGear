@@ -4581,6 +4581,13 @@ export function getMetaForPath(pathname) {
         image: DEFAULT_IMAGE,
         type: 'website',
         url: `${BASE_URL}/gear/${brandSlug}`,
+        breadcrumbSchema: [
+          { name: 'Home', url: BASE_URL },
+          { name: 'Gear', url: `${BASE_URL}/gear` },
+          { name: brand.name, url: `${BASE_URL}/gear/${brandSlug}` },
+        ],
+        speakableSchema: true,
+        speakableCssSelector: ['h1', 'h2', 'p'],
         ssrLinks: [
           { href: '/gear', label: 'All Gear' },
           ...brand.drummers.map(slug => ({ href: `/drummer/${slug}`, label: `${drummerSlugToName[slug] || slug} Profile` })),
@@ -4605,14 +4612,6 @@ export function getMetaForPath(pathname) {
           name: `Metal Drummers Who Use ${brand.name}`,
           description: brand.tagline,
           url: `${BASE_URL}/gear/${brandSlug}`,
-          breadcrumb: {
-            '@type': 'BreadcrumbList',
-            itemListElement: [
-              { '@type': 'ListItem', position: 1, name: 'Home', item: BASE_URL },
-              { '@type': 'ListItem', position: 2, name: 'Gear', item: `${BASE_URL}/gear` },
-              { '@type': 'ListItem', position: 3, name: brand.name, item: `${BASE_URL}/gear/${brandSlug}` },
-            ],
-          },
         }),
       };
     }

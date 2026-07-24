@@ -4741,6 +4741,50 @@ export function getMetaForPath(pathname) {
     }
   }
 
+  // Issue #4963: /drummer/<slug>/bio — dedicated biography route, was
+  // falling through to the generic gear-category regex below and serving
+  // "Bio — Drum Gear & Setup" / "See what bio X uses" nonsense to crawlers.
+  const drummerBioMatch = path.match(/^\/drummer\/([a-z0-9-]+)\/bio\/?$/);
+  if (drummerBioMatch) {
+    const [, slug] = drummerBioMatch;
+    const drummer = getDrummerBySlug(slug);
+    const extBio = getExtendedBio(slug);
+    if (drummer && extBio) {
+      const bioUrl = `${BASE_URL}/drummer/${slug}/bio`;
+      return {
+        title: extBio.metaTitle,
+        description: extBio.metaDescription,
+        image: extBio.ogImage ? `${BASE_URL}${extBio.ogImage}` : (drummer.image || DEFAULT_IMAGE),
+        type: 'article',
+        url: bioUrl,
+        articleSchema: JSON.stringify({
+          '@context': 'https://schema.org',
+          '@type': 'Article',
+          headline: extBio.metaTitle,
+          description: extBio.metaDescription,
+          image: extBio.ogImage ? `${BASE_URL}${extBio.ogImage}` : drummer.image,
+          author: { '@type': 'Organization', name: 'MetalForge' },
+          publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
+          mainEntityOfPage: { '@type': 'WebPage', '@id': bioUrl },
+          about: {
+            '@type': 'Person',
+            name: drummer.name,
+            description: extBio.sections?.overview?.content || drummer.bio,
+            sameAs: drummer.sameAs || [],
+          },
+        }),
+        breadcrumbSchema: [
+          { name: 'Home', url: BASE_URL },
+          { name: drummer.name, url: `${BASE_URL}/drummer/${slug}` },
+          { name: 'Biography', url: bioUrl },
+        ],
+        ssrLinks: [
+          { href: `/drummer/${slug}`, label: `${drummer.name} Profile` },
+        ],
+      };
+    }
+  }
+
   // Issue #1266: /drummer/<slug>/<category> gear category pages (~90 pages)
   const drummerCategoryMatch = path.match(/^\/drummer\/([a-z0-9-]+)\/([a-z0-9-]+)$/);
   if (drummerCategoryMatch) {

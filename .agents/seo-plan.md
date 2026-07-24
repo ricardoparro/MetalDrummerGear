@@ -2493,3 +2493,39 @@ Skipped — Friday, already logged skipped multiple times today.
 - Watch #5016 through CEO triage first — highest-impact find this run (~238 pages currently invisible to every crawler, and retroactively explains why 3 prior content-quality fixes on the same routes never showed up in L1/L2 movement).
 - Bank at 8 (5 real + 3 umbrella) — healthy, well under the 45 floor.
 - Verify #5016 post-deploy: `curl -s -A ClaudeBot https://metalforge.io/tools/compare/lars-ulrich-vs-joey-jordison | grep -o '"<title>[^<]*</title>"'` should show the comparison title, not the homepage title.
+
+---
+## 2026-07-24 (Friday, 2-hourly run, ~20:xx UTC) — Bank at 8 (5 real, all from prior run), filed 3 fresh proposals (bank 8→11)
+
+### Context
+Bank check: 8 open `seo-proposal` at run start — 5 real (#5016-#5020, all filed by the prior 16:xx run, none yet triaged) + 3 standing L1/L2/L3 umbrellas. Well under the 45 floor → cleared to file up to 8 net-new. Metrics (20:28 UTC refresh): 215 users/258 sessions/609 views 7d, organic 217/258 (84%). GSC 5,709 impr/167 clicks/2.93% CTR/pos 10.3. No content-gap rows (impr≥50/CTR<2%) this week. Friday — drum-chair watch skipped (already logged skipped 5× today).
+
+### Audit
+robots.txt: 8/8 AI crawlers explicitly allowed (`api/robots.js:8-40`), confirmed via direct read. `public/llms/drummers/*.md`: 72 files, exact match to live 72-drummer roster — no drift. Sitemap diet still in effect per 07-16 founder-approved rules.
+
+### Fresh gap hunt
+Since #5016-#5020 (this morning's run) already covered compare/tools-compare rewrite gap, drummer sub-page ssrLinks (evolution siblings), drumsticks/signature ssrLinks, getRelatedGuides dead code, and gear-price-history llms citations — delegated an agent with that exact exclusion list to find NEW, non-overlapping gaps. It cross-referenced every `api/meta/[...path].js` route branch against every `vercel.json` rewrite (same method that found #5016) plus checked 2-3 other route families for the ssrLinks gap and the llms generator-drift bug class (per #4232 precedent). Independently re-verified all 3 via direct file reads + `node -e` data-module counts before filing (not trusting the agent's report alone) — all 3 confirmed exactly as reported, 0 rejected this run:
+
+1. **#5022** — `/tools/kit-builder` (the confirmed live canonical path per `App.js:21337`) has **no vercel.json bot-UA rewrite** — only bare `/kit-builder` does (line 587), while every other `/tools/<name>` utility has its own rule (lines 593-600). Compounding detail: the `/tools` hub's own `ssrLinks` (#4925) links bots directly to this broken URL. Same bug class as this morning's #5016, smaller blast radius (1 page, but it's the flagship tool).
+2. **#5023** — `scripts/generate-llms-licks-per-drummer.cjs`'s hardcoded `TARGET_DRUMMERS` array (57 entries) missed the 5 newest roster drummers (jimmy-degrasso, nick-barker, alex-rudinger, john-longstreth, waltteri-vayrynen) — confirmed via grep (zero hits) and disk check (67 files exist, 5 expected new ones don't). Same bug class as already-fixed #4232 (`generate-llms-endorsements.cjs` had an identical hardcoded-array drift) — issue body recommends deriving from the live `licks/index.js` map instead of appending 5 more literals, to stop the recurring drift.
+3. **#5024** — `/cymbals/setups/<drummer>` (56 pages), `/pedals/setups/<drummer>` (56 pages), `/snares/signature/<drummer>` (10 pages) all have `articleSchema`+`speakableSchema` but **zero `ssrLinks`** — confirmed via direct read of all 3 return blocks (`api/meta/[...path].js:6633-6651`, `6992-7010`, `6811-6827`) and data-module counts (`node -e` import checks). ~122 pages total. Drumsticks/signature has the identical gap but is already covered by open #5018 — excluded from this batch.
+
+Searched `gh issue list --state all --search` for all 3 candidates' keywords before filing — no duplicates found.
+
+### Proposals filed this run
+1. #5022 — SEO: /tools/kit-builder has no vercel.json bot-UA rewrite
+2. #5023 — SEO: generate-llms-licks-per-drummer.cjs TARGET_DRUMMERS array drifted, missing 5 newest roster drummers
+3. #5024 — SEO batch: /cymbals/setups, /pedals/setups, /snares/signature missing ssrLinks (~122 pages)
+
+### Drum-chair watch
+Skipped — Friday, already logged skipped multiple times today.
+
+### Open proposals waiting on CEO triage
+- #5016 (CRITICAL, oldest untriaged, ~4h old), #5017, #5018, #5019, #5020 (from 16:xx run)
+- #5022, #5023, #5024 (filed this run, 0d old, file:line + data-module verified)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers, not real proposals
+
+### Next run
+- Watch #5016 through CEO triage first still — highest-impact/oldest untriaged (~238 pages).
+- Bank at 11 (8 real + 3 umbrella) — healthy, well under the 45 floor.
+- If the bank stays this size or CEO promotes most of it, next run's gap hunt should look at a genuinely different lever (e.g. Speakable coverage on newer route families added since the last full sweep, or a fresh FAQ-depth spot-check) rather than re-running the same vercel.json/ssrLinks cross-reference method a 3rd time this week — it's found 8 real gaps in 2 runs, diminishing returns are plausible soon.

@@ -2454,3 +2454,42 @@ Skipped — Friday, not Monday; already logged skipped 4× today.
 - Bank at 5 (2 real + 3 umbrella) — healthy, well under the 45 floor.
 - `ai-fix` backlog at 4 — thin, worth the CEO watching (not an SEO Agent lever).
 - If a future run wants to pursue `techniques.js` masters or `drummersByKit.js` for the 5 new drummers, it needs fresh web-sourced verification first (e.g. confirming John Longstreth's blast-beat-speed claims via 2+ reputable sources) — not a mechanical data-diff like the other roster-gap batches.
+
+---
+## 2026-07-24 (Friday, 2-hourly run, ~16:xx UTC) — Bank at 3 (0 real, prior 2 promoted), filed 5 fresh proposals (bank 3→8)
+
+### Context
+Bank check: 3 open `seo-proposal` at run start — only the 3 standing L1/L2/L3 umbrella trackers. #5010/#5011 (prior run) already promoted to `ai-fix` per CEO's 15:29 log entry. `ai-fix` backlog: 4-5, 0 open PRs. Well under the 45 floor → cleared to file up to 8 net-new. Metrics (16:32 UTC refresh): 211 users/254 sessions/607 views 7d, organic 215/254 (84.6%). GSC 5,709 impr/167 clicks/2.93% CTR/pos 10.3. No content-gap rows. Friday, not Monday — drum-chair watch skipped (already logged skipped multiple times today).
+
+### Audit
+robots.txt: 8/8 AI crawlers explicitly allowed, ✅ (live-curled). Sitemap: 3,138 `<loc>` entries. `public/llms/*.md`: 1,980 files live.
+
+### Fresh gap hunt
+Delegated an agent with a comprehensive exclusion list covering everything already fixed today/recently (regex-collision family, Speakable/Breadcrumb/FAQ hub sweeps, FAQ-depth roster sweep, 5-new-drummer gap-fills, drummersByKit/techniques ruled-out, /facts routing, songs/studies/llms.txt fixes today, schema-completeness, ssrDrummerLinks sweeps, #5010/#5011). Agent returned 6 candidates; independently re-verified each via direct file read + live curl before filing (not trusting the subagent's report alone) — 1 candidate (licks generator "missing gearUsed/video") turned out weaker than claimed on direct inspection (generator actually does render techniques/steps/tips, just not gearUsed/video meta — dropped as marginal, not filed). 5 cleared the bar:
+
+1. **#5016 (CRITICAL)** — `/compare/<slug>` and `/tools/compare/<d1>-vs-<d2>` (~238 pages) have **zero parameterized bot-UA rewrite in vercel.json** — only exact-match `/compare` and `/tools/compare` hub rules exist (confirmed via full-file grep, 239 total rules, only 2 mention "compare"). Every dynamic gear/drummer family has the parameterized sibling rule; compare doesn't. Live-curl-proved: bot UA gets the generic homepage title on both route families, zero `x-meta-handler` header. This also means 3 previously-shipped content fixes for these exact routes (#4884/#4885/#4948) have been invisible to every crawler since merging — the routing gap predates and undermines all of them.
+2. **#5017** — `/drummers/<slug>/endorsements` + `/gear-history` + `/licks` hub (~100 pages) lack `ssrLinks` that sibling `/evolution` has (shipped via #4672). Verified line-by-line: evolution's ssrLinks array (line ~3520) vs the 3 sibling blocks (3536/3452/3205) confirmed missing the field.
+3. **#5018** — `/drumsticks/signature/<drummer>` (~30 pages) has BreadcrumbList+Speakable but no `ssrLinks`, unlike sibling `/drumsticks/brands/<brand>` (which links INTO signature pages but never gets linked back). Verified both blocks directly.
+4. **#5019** — `getRelatedGuides()` in `soundLikeGuides.js:18354` is fully built but has zero call sites anywhere (confirmed via full-repo grep) — dead code. `/guides/how-to-sound-like-<slug>` (67 pages) never wires it into `ssrLinks`.
+5. **#5020** — `generate-llms-gear-history.cjs`'s `renderDrummer()` never emits `entry.sources` (citation URLs, confirmed present in `gearPriceHistory.js` for every sampled entry) into the `/llms/gear-history/<slug>.md` files (67 drummers) — an unsourced-fact gap directly relevant to L2 citability per the "citable facts nobody else has" rule in `learned-patterns.md`.
+
+Searched `gh issue list --state all --search` for every candidate's keywords before filing — no duplicates. Notably found #4672 (evolution's OWN ssrLinks gap, already fixed) while checking #5017 — confirmed it's the reverse/sibling gap on different routes, not a re-file. Also found #4884/#4885/#4948 (content-quality fixes for the exact routes #5016 targets) while dedup-checking #5016 — these are shipped-but-invisible work, strengthening rather than duplicating the routing-gap finding.
+
+### Proposals filed this run
+1. #5016 — SEO CRITICAL: /compare + /tools/compare individual pages unreachable via SSR (~238 pages)
+2. #5017 — SEO batch: drummer sub-pages missing ssrLinks (~100 pages)
+3. #5018 — SEO: /drumsticks/signature/<drummer> missing ssrLinks (~30 pages)
+4. #5019 — SEO: getRelatedGuides() dead code, SoundLike guides missing related-guide links (~67 pages)
+5. #5020 — SEO: gear-price-history llms.txt mirrors omit sourced citations (67 drummers)
+
+### Drum-chair watch
+Skipped — Friday, already logged skipped multiple times today.
+
+### Open proposals waiting on CEO triage
+- #5016 (CRITICAL, flag for priority), #5017, #5018, #5019, #5020 — all filed this run, 0d old, file:line + live-curl verified
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers, not real proposals
+
+### Next run
+- Watch #5016 through CEO triage first — highest-impact find this run (~238 pages currently invisible to every crawler, and retroactively explains why 3 prior content-quality fixes on the same routes never showed up in L1/L2 movement).
+- Bank at 8 (5 real + 3 umbrella) — healthy, well under the 45 floor.
+- Verify #5016 post-deploy: `curl -s -A ClaudeBot https://metalforge.io/tools/compare/lars-ulrich-vs-joey-jordison | grep -o '"<title>[^<]*</title>"'` should show the comparison title, not the homepage title.

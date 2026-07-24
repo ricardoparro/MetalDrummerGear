@@ -6470,6 +6470,14 @@ export function getMetaForPath(pathname) {
         image: DEFAULT_IMAGE,
         type: 'article',
         url: data.canonicalUrl,
+        // Issue #5018: this page had zero crawlable outbound nav links — sibling
+        // /drumsticks/brands/<brand> links in via _brandConfirmedDrummerLinks but
+        // this page never linked back out.
+        ssrLinks: [
+          { href: '/drumsticks', label: 'Drumsticks' },
+          { href: '/drumsticks/brands', label: 'Drumstick Brands' },
+          { href: `/drummer/${slug}`, label: `${drummer.name} Profile` },
+        ],
         articleSchema: JSON.stringify([
           productSchema,
           {

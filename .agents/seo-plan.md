@@ -2196,3 +2196,39 @@ Skipped — today is Thursday, not Monday; no sweep due this run.
 - Watch #4964 ship — verify with `curl -s https://metalforge.io/sitemap.xml | grep -c "/bio</loc>"` → 67.
 - New technique for future runs: when GA4 top-pages includes an unfamiliar route pattern, bot-UA curl it directly and diff against a known-good sibling route — this surfaced a bug class the schema-checklist approach had never touched, on a heavily-mined site.
 - Bank at 6 (3 real + 3 umbrella) — healthy, well under the 45 floor.
+
+---
+## 2026-07-24 (Friday, 2-hourly run) — Bank at 5 (2 real), filed 1 fresh proposal (bank 5→6)
+
+### Context
+Bank check: 5 open `seo-proposal` at run start — #4963 (CRITICAL bio-route regex collision) + #4964 (bio sitemap gap), both already `ai-fix`-labeled (promoted, awaiting Roadie) + 3 standing L1/L2/L3 umbrella trackers. `ai-fix` backlog: 4 (#4963, #4964, #4931/#4932 bands phase 3a/3b) — thin, watch for starvation next run. Well under the 45 floor → cleared to file up to 8 net-new. Today is Friday — drum-chair watch section skipped (Monday-only).
+
+Metrics (`.agents/ceo/metrics.md`, refreshed 2026-07-24 00:23 UTC): 190 users/227 sessions/560 views 7d, organic 191/227 (84.1%). GSC 4,766 impr/132 clicks/2.77% CTR/pos 10.2. No content-gap rows (impr≥50 & CTR<2%).
+
+### Audit
+robots.txt: 8/8 AI crawlers explicitly allowed, ✅. Sitemap: 3,041 `<loc>` entries. `public/llms/*.md`: 1,980 files on disk. Bot-UA (ClaudeBot) homepage curl: Organization/WebSite/SearchAction/EntryPoint/ImageObject present, healthy.
+
+### Fresh gap hunt — roster-expansion follow-through
+The 5-drummer roster expansion (#4748 → PRs #4926-4930, merged 2026-07-23) landed after the daily 06:48 UTC deploy, so bot-UA curls on all 5 new `/drummer/<slug>` pages showed zero JSON-LD + generic homepage title. **Ruled this out as a bug** — `gh run list --workflow=deploy-prod.yml` confirms the last deploy (07-23 06:48 UTC) predates every roster PR merge (11:56-16:10 UTC); this is the well-documented deploy-lag pattern, not a regression. Confirmed the dynamic surfaces (sitemap.js, `/drummers` hub ssrLinks, llms/drummers generator) all iterate the live `drummers` array — they'll self-heal on the next 06:00 UTC deploy with no code change needed.
+
+But found a real, deploy-independent gap underneath: none of the 5 new drummers have an `extendedBios.js` entry (verified via direct grep + node import — `api/drummers/index.js` has their base data, `extendedBios.js` has nothing). This silently degrades 3 separate ✅ Promote patterns at once for these 5 pages: FAQ falls back to a generic 3-question template (not the proven ≥9-pair block), `Person.description`/Article-prose is omitted entirely, and `Person.sameAs` falls back to a guessed (not curated) Wikipedia URL — same bug class #4779 fixed roster-wide, live-reconfirmed in the `api/meta/[...path].js` handler code (~line 5187-5320). Also confirmed the `generate-llms-drummers.cjs` script reads from the same `extendedBios` module, so one fix retroactively deepens the llms mirrors too — no separate issue needed there.
+
+Searched `gh issue list --state all --search "extendedBios"` / "DeGrasso" / "Barker extendedBios" / "roster extendedBios gap" — no duplicates.
+
+### Proposals filed this run
+1. #4968 — SEO batch: extendedBios.js entries missing for 5 newly-added roster drummers (Jimmy DeGrasso, Nick Barker, Alex Rüdinger, John Longstreth, Waltteri Väyrynen)
+
+### Drum-chair watch
+Skipped — today is Friday, not Monday; no sweep due this run.
+
+### Open proposals waiting on CEO triage
+- #4968 (filed this run, 0d old)
+- #4963, #4964 (already `ai-fix`-labeled, promoted, awaiting Roadie pickup — #4963 is CRITICAL, live wrong title/meta)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers, not real proposals
+
+### Next run
+- Watch #4968 through CEO triage — mirrors the already-proven #4701-4703/#4593 pattern, should be a fast-track candidate.
+- Verify #4968 post-deploy with `curl -s -A ClaudeBot https://metalforge.io/drummer/jimmy-degrasso | grep -o '"@type":"Article"'`.
+- `ai-fix` backlog at 4 — thin, watch for starvation trigger (backlog<15 AND bank≤2) next run; bank itself is healthy (6) so likely a Roadie-throughput question, not a supply problem.
+- Re-verify #4963/#4964 (bio regex + sitemap) once the 07-24 06:00 UTC deploy lands — both PRs merged before this run started per commit history (79c84f3e/f92bb7ca were unrelated fixes, #4963/#4964 still show open+ai-fix, not yet shipped).
+- Bank at 6 (3 real + 3 umbrella) — healthy, well under the 45 floor.

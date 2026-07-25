@@ -2694,4 +2694,33 @@ Skipped — Saturday, not Monday.
 ### Next run
 - Bank at 4 real + 3 umbrella — healthy, well under the 45 floor; no urgency to force volume next run.
 - The alt-text/canonical/heading-hierarchy lever is now exhausted (clean on first real pass) — don't re-run it without a specific new trigger (e.g. a fresh route family shipping).
+
+---
+## 2026-07-25 (Saturday, 2-hourly run, 08:40 UTC) — Bank at 3 real (#5039 shipped), filed 1 fresh via Person schema lever (bank 3→4)
+
+### Context
+Bank check: 6 open `seo-proposal` at run start — 3 real untriaged (#5060, #5061, #5062) + 3 standing L1/L2/L3 umbrellas. #5039 confirmed shipped (commit c83d96da, drummer-count strings now derive from `drummers.length`). Well under the 45 floor → cleared to file up to 8 net-new. Metrics (08:40 UTC refresh): 214 users/258 sessions/465 views 7d, organic 224/258 (86.8%). GSC 4,782 impr/146 clicks/3.05% CTR/pos 10.3. No content-gap rows (impr≥50 & CTR<2%). Saturday — drum-chair watch skipped (not Monday).
+
+### Audit
+robots.txt (`api/robots.js`): 8/8 AI crawlers explicitly allowed (GPTBot, ChatGPT-User, ClaudeBot, anthropic-ai, PerplexityBot, Applebot-Extended, cohere-ai, Google-Extended), confirmed via direct grep. `public/llms/drummers/*.md`: 72 files, matches live 72-drummer roster. `public/llms/*.md` total: 1,996 files. Sitemap: 3,168 `<loc>` entries, unchanged since last run. Checked sitemap `lastmod` accuracy as a candidate new lever — already correctly guarded by #1072's `lastmodFor()` (per-entry dates, no site-wide today-stamping); not a gap, no re-file.
+
+### Fresh gap hunt — new lever: Person schema completeness (sameAs/knowsAbout/imageObject) on canonical drummer routes, not yet tried this week
+Delegated an agent with the full exclusion list of everything filed/shipped this week (vercel.json crossref, ssrLinks crossref, schema-field batches already done, roster-drift/stale-count class, singular-path shadows, getRelatedGuides/inbound-crosslinks, FAQ-depth, alt-text/canonical/heading-hierarchy exhausted, og:image relative-URL fix). It surfaced 1 fully-verified candidate (explicitly declined to pad the report with partially-explored leads — AggregateRating/Review, VideoObject thumbnailUrl, MusicAlbum schema were checked but not confirmed to the full verification bar, correctly omitted rather than reported speculatively):
+
+1. **#5065** — `Person.sameAs` on the two canonical drummer-profile route forms (`/<slug>` at `api/meta/[...path].js:3773-3775`, `/drummer/<slug>` at `:5657-5659`) is hardcoded to a single Wikipedia URL, discarding the richer curated `drummer.sameAs` array that already exists in `api/drummers/index.js` (verified live: 69 of 72 drummers have `sameAs.length > 1`, e.g. lars-ulrich has 4 URLs — Wikipedia/Instagram/Discogs/AllMusic). The `/drummer/<slug>/bio` route (line 4807) already does this correctly (`sameAs: drummer.sameAs || []`), proving the fix pattern. Independently re-verified myself via direct file reads (both line ranges) + a live `node -e` count against the data module before filing — not trusting the agent's report alone. Searched `gh issue list --state all --search "sameAs"` — only #4779/#4789 (closed) exist, both fixing wrong-guessed Wikipedia URLs, not this array-truncation bug. Confirmed non-duplicate.
+
+### Proposals filed this run
+1. #5065 — SEO: Person schema sameAs truncated to 1 URL on canonical drummer profiles (69 of 72 pages × 2 route forms)
+
+### Drum-chair watch
+Skipped — Saturday, not Monday.
+
+### Open proposals waiting on CEO triage
+- #5060, #5061, #5062 (from earlier runs today, still untriaged)
+- #5065 (filed this run, 0d old, file:line + live-data verified)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers, not real proposals
+
+### Next run
+- Bank at 4 real + 3 umbrella — healthy, well under the 45 floor; no urgency to force volume next run.
+- Only 1 proposal filed this run (not the full up-to-8) — the gap-hunt agent explicitly declined to pad with partially-verified leads (AggregateRating/Review schema, VideoObject thumbnailUrl/uploadDate, MusicAlbum schema on album-article pages). These 3 are worth a dedicated, fully-verified pass next time the bank needs topping up — don't re-delegate the identical broad prompt, narrow to one schema type at a time.
 - If the bank stays thin, try: og:type correctness across page families (article vs website), twitter:card type declaration, or a fresh GSC top-query re-read — all untried this week.

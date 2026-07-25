@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-25 06:45 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-25 08:40 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 212 |
-| Sessions | 256 |
-| Page views | 456 |
-| Engagement rate | 56.64% |
-| Avg session (s) | 103 |
+| Active users | 214 |
+| Sessions | 258 |
+| Page views | 465 |
+| Engagement rate | 64.73% |
+| Avg session (s) | 101 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -21,9 +21,9 @@
 | /drummers | 27 | 4 |
 | /drummer/jaska-raatikainen/bio | 17 | 1 |
 | /drummer/pete-sandoval | 13 | 1 |
-| /articles/arise-drum-setup | 10 | 9 |
+| /articles/arise-drum-setup | 11 | 9 |
 | /drummer/jaska-raatikainen | 10 | 2 |
-| /articles/slipknot-self-titled-drum-setup | 8 | 5 |
+| /articles/slipknot-self-titled-drum-setup | 9 | 5 |
 | /drummers/pete-sandoval/evolution | 8 | 1 |
 | /drummers/jay-weinberg/licks/jay-weinberg-the-devil-in-i | 7 | 1 |
 | /articles/john-otto-drum-setup | 6 | 5 |
@@ -31,9 +31,9 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 216 | 176 |
-| Unassigned | 33 | 31 |
-| Direct | 30 | 27 |
+| Organic Search | 224 | 184 |
+| Direct | 31 | 27 |
+| Unassigned | 11 | 10 |
 | AI Assistant | 1 | 1 |
 
 ## Search Console — Search performance

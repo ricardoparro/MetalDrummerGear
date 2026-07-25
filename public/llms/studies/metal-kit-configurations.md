@@ -12,19 +12,19 @@ How MetalForge’s 67 documented metal drummers set up double-kick sound — phy
 
 ## Headline Finding
 
-Double pedal is by far the most common bass-drum configuration among metal drummers, used by 59 of the 67 documented drummers on MetalForge (88.1%).
+Double pedal is by far the most common bass-drum configuration among metal drummers, used by 59 of the 72 documented drummers on MetalForge (81.9%).
 
 ## Key Tables
 
 ### Bass Pedal Configuration
 
-| Configuration | Drummers | % of 67 |
+| Configuration | Drummers | % of 72 |
 | --- | --- | --- |
-| Double Pedal | 59 | 88.1% |
-| Double Bass (twin kicks) | 2 | 3% |
-| Twin Single Pedals | 2 | 3% |
-| Single Pedal | 1 | 1.5% |
-| Unspecified | 3 | 4.5% |
+| Double Pedal | 59 | 81.9% |
+| Double Bass (twin kicks) | 2 | 2.8% |
+| Twin Single Pedals | 2 | 2.8% |
+| Single Pedal | 1 | 1.4% |
+| Unspecified | 8 | 11.1% |
 
 ### Cymbal Setup Size by Genre
 
@@ -52,7 +52,7 @@ Double pedal is by far the most common bass-drum configuration among metal drumm
 
 ## Methodology
 
-Dataset: 67 documented drummers, snapshot dated 2026-07-16. Pedal-configuration classification is text-pattern based against each drummer's literal drums/hardware fields — "unspecified" means neither field contained an unambiguous single/double-pedal marker, not that the drummer has no pedal. Cymbal-setup size covers only the 56 of 67 drummers with a verified, fully parsed cymbal setup. Genre breakdowns only include genre buckets with 2 or more drummers.
+Dataset: 72 documented drummers, snapshot dated 2026-07-25. Pedal-configuration classification is text-pattern based against each drummer's literal drums/hardware fields — "unspecified" means neither field contained an unambiguous single/double-pedal marker, not that the drummer has no pedal. Cymbal-setup size covers only the 56 of 72 drummers with a verified, fully parsed cymbal setup. Genre breakdowns only include genre buckets with 2 or more drummers.
 
 ---
 

@@ -12,62 +12,62 @@ A data-driven breakdown of which drum, cymbal, snare, stick, and pedal brands me
 
 ## Headline Finding
 
-Tama is the most-used drum kit brand in metal, played by 20 of the 67 drummers documented on MetalForge (29.9%).
+Pearl is the most-used drum kit brand in metal, played by 22 of the 72 drummers documented on MetalForge (30.6%).
 
 ## Key Tables
 
 ### Drum Kits — Brand Usage
 
-| Rank | Brand | Drummers | % of 67 | Example |
+| Rank | Brand | Drummers | % of 72 | Example |
 | --- | --- | --- | --- | --- |
-| 1 | Tama | 20 | 29.9% | Lars Ulrich |
-| 2 | Pearl | 19 | 28.4% | Joey Jordison |
-| 3 | Sonor | 8 | 11.9% | Tomas Haake |
-| 4 | ddrum | 4 | 6% | Vinnie Paul |
-| 5 | Mapex | 4 | 6% | Chris Adler |
+| 1 | Pearl | 22 | 30.6% | Joey Jordison |
+| 2 | Tama | 21 | 29.2% | Lars Ulrich |
+| 3 | Sonor | 9 | 12.5% | Tomas Haake |
+| 4 | ddrum | 4 | 5.6% | Vinnie Paul |
+| 5 | Mapex | 4 | 5.6% | Chris Adler |
 
 ### Cymbals — Brand Usage
 
-| Rank | Brand | Drummers | % of 67 | Example |
+| Rank | Brand | Drummers | % of 72 | Example |
 | --- | --- | --- | --- | --- |
-| 1 | Zildjian | 23 | 34.3% | Lars Ulrich |
-| 2 | Sabian | 20 | 29.9% | Gene Hoglan |
-| 3 | Paiste | 15 | 22.4% | Joey Jordison |
-| 4 | Meinl | 10 | 14.9% | Brann Dailor |
+| 1 | Zildjian | 23 | 31.9% | Lars Ulrich |
+| 2 | Sabian | 22 | 30.6% | Gene Hoglan |
+| 3 | Paiste | 15 | 20.8% | Joey Jordison |
+| 4 | Meinl | 12 | 16.7% | Brann Dailor |
 
 ### Snares — Brand Usage
 
-| Rank | Brand | Drummers | % of 67 | Example |
+| Rank | Brand | Drummers | % of 72 | Example |
 | --- | --- | --- | --- | --- |
-| 1 | Tama | 20 | 29.9% | Lars Ulrich |
-| 2 | Pearl | 19 | 28.4% | Joey Jordison |
-| 3 | Sonor | 8 | 11.9% | Tomas Haake |
-| 4 | ddrum | 4 | 6% | Vinnie Paul |
-| 5 | Mapex | 4 | 6% | Chris Adler |
+| 1 | Tama | 21 | 29.2% | Lars Ulrich |
+| 2 | Pearl | 20 | 27.8% | Joey Jordison |
+| 3 | Sonor | 8 | 11.1% | Tomas Haake |
+| 4 | ddrum | 4 | 5.6% | Vinnie Paul |
+| 5 | Mapex | 4 | 5.6% | Chris Adler |
 
 ### Sticks — Brand Usage
 
-| Rank | Brand | Drummers | % of 67 | Example |
+| Rank | Brand | Drummers | % of 72 | Example |
 | --- | --- | --- | --- | --- |
-| 1 | Vic Firth | 44 | 65.7% | George Kollias |
-| 2 | Promark | 12 | 17.9% | Joey Jordison |
-| 3 | Vater | 6 | 9% | Jay Weinberg |
-| 4 | Tama | 2 | 3% | Mario Duplantier |
-| 5 | Wincent | 2 | 3% | Tomas Haake |
+| 1 | Vic Firth | 44 | 61.1% | George Kollias |
+| 2 | Promark | 13 | 18.1% | Joey Jordison |
+| 3 | Vater | 6 | 8.3% | Jay Weinberg |
+| 4 | Wincent | 3 | 4.2% | Tomas Haake |
+| 5 | Tama | 2 | 2.8% | Mario Duplantier |
 
 ### Pedals — Brand Usage
 
-| Rank | Brand | Drummers | % of 67 | Example |
+| Rank | Brand | Drummers | % of 72 | Example |
 | --- | --- | --- | --- | --- |
-| 1 | Tama | 19 | 28.4% | Lars Ulrich |
-| 2 | Pearl | 16 | 23.9% | Joey Jordison |
-| 3 | DW | 14 | 20.9% | Ray Luzier |
-| 4 | Sonor | 4 | 6% | Danny Carey |
-| 5 | Axis | 3 | 4.5% | Hellhammer |
+| 1 | Tama | 20 | 27.8% | Lars Ulrich |
+| 2 | Pearl | 16 | 22.2% | Joey Jordison |
+| 3 | DW | 14 | 19.4% | Ray Luzier |
+| 4 | Sonor | 4 | 5.6% | Danny Carey |
+| 5 | Axis | 3 | 4.2% | Hellhammer |
 
 ## Methodology
 
-Dataset: 67 verified drummer profiles documented on MetalForge, snapshot dated 2026-07-16. A drummer counts once per brand per category — a dual-brand cymbal setup (e.g. "Sabian AAX / Zildjian A Series") credits both brands. Percentages are of the full 67-drummer roster, so a category's percentages can sum past 100% when multi-brand setups are common. Only current gear fields are counted; historical gear-timeline entries are excluded. This reflects the roster MetalForge has documented, not the entire population of professional metal drummers — a roster-composition bias, not a random sample.
+Dataset: 72 verified drummer profiles documented on MetalForge, snapshot dated 2026-07-25. A drummer counts once per brand per category — a dual-brand cymbal setup (e.g. "Sabian AAX / Zildjian A Series") credits both brands. Percentages are of the full 72-drummer roster, so a category's percentages can sum past 100% when multi-brand setups are common. Only current gear fields are counted; historical gear-timeline entries are excluded. This reflects the roster MetalForge has documented, not the entire population of professional metal drummers — a roster-composition bias, not a random sample.
 
 ---
 

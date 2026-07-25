@@ -6259,6 +6259,13 @@ export function getMetaForPath(pathname) {
           uploadDate: '2024-01-01',
           contentUrl: `https://www.youtube.com/watch?v=${song.video.youtubeId}`,
           embedUrl: `https://www.youtube.com/embed/${song.video.youtubeId}`,
+          // Issue #5025: duration is a recommended (not required) VideoObject
+          // property — only emit it when the source clip timestamps are both
+          // present, rather than fabricating/estimating one (same pattern as
+          // the lick-page VideoObject block, #4797).
+          ...(typeof song.video.startTime === 'number' && typeof song.video.endTime === 'number'
+            ? { duration: `PT${song.video.endTime - song.video.startTime}S` }
+            : {}),
         }] : []),
       ];
 

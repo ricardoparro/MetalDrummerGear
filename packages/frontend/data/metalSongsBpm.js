@@ -606,7 +606,7 @@ export const SONG_PAGE_MIN_CRITERIA = 2;
  *   4. a `notableFact` field with a `source` (not present in this dataset
  *      yet — reserved for a future data pass)
  * @param {object} song
- * @returns {{inRoster: boolean, hasTechniqueContent: boolean, lick: object|null, albumArticle: object|null, video: {youtubeId: string, title: string}|null, notableFact: object|null, criteriaCount: number, qualifies: boolean}}
+ * @returns {{inRoster: boolean, hasTechniqueContent: boolean, lick: object|null, albumArticle: object|null, video: {youtubeId: string, title: string, startTime: number|undefined, endTime: number|undefined}|null, notableFact: object|null, criteriaCount: number, qualifies: boolean}}
  */
 export function getSongPageGate(song) {
   const inRoster = _songRosterSlugs.has(song.drummer);
@@ -614,9 +614,9 @@ export function getSongPageGate(song) {
   const albumArticle = _findAlbumArticleForSong(song);
   const video = lick
     ? ((lick.video && lick.video.youtubeId)
-        ? { youtubeId: lick.video.youtubeId, title: lick.video.title }
+        ? { youtubeId: lick.video.youtubeId, title: lick.video.title, startTime: lick.video.startTime, endTime: lick.video.endTime }
         : (lick.tutorial && lick.tutorial.youtubeId)
-          ? { youtubeId: lick.tutorial.youtubeId, title: lick.tutorial.title }
+          ? { youtubeId: lick.tutorial.youtubeId, title: lick.tutorial.title, startTime: lick.tutorial.startTime, endTime: lick.tutorial.endTime }
           : null)
     : null;
   const notableFact = (song.notableFact && song.notableFact.source) ? song.notableFact : null;

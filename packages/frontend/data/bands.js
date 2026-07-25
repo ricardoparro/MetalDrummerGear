@@ -2044,6 +2044,374 @@ export const bands = {
       "https://en.wikipedia.org/wiki/Zbigniew_Robert_Promi%C5%84ski"
     ],
   },
+  "amon-amarth": {
+    slug: "amon-amarth",
+    name: "Amon Amarth",
+    formed: 1992,
+    origin: "Tumba, Stockholm County, Sweden",
+    genres: ["melodic-death-metal", "viking-metal"],
+    status: "active",
+    metaTitle: "Amon Amarth - Jocke Wallgren Drummer Profile & Gear | MetalForge",
+    metaDescription: "Explore Amon Amarth's Viking metal drumming legacy from Niko Kaukinen to current drummer Jocke Wallgren.",
+    summary: "Amon Amarth, formed in 1992 in Tumba, Sweden, is one of the most successful melodic death metal bands, known for Viking-themed lyrics and driving double-bass grooves.",
+    keywords: ["amon amarth", "jocke wallgren", "viking metal", "melodic death metal", "swedish metal", "drummer gear"],
+    members: [
+      { name: "Johan Hegg", role: "vocals", period: "1992-present", notes: "Founding member" },
+      { name: "Olavi Mikkonen", role: "lead guitar", period: "1992-present", notes: "Founding member" },
+      { name: "Ted Lundström", role: "bass", period: "1992-present", notes: "Founding member" },
+      { name: "Johan Söderberg", role: "rhythm guitar", period: "1998-present", notes: "Replaced Anders Hansson" },
+      { name: "Jocke Wallgren", role: "drums", period: "2016-present", notes: "Joined as touring drummer in 2016, made a permanent member that September" }
+    ],
+    formerMembers: [
+      { name: "Anders Hansson", role: "rhythm guitar", period: "1992-1998", notes: "" },
+      { name: "Niko Kaukinen", role: "drums", period: "1992-1996", notes: "Founding drummer" },
+      { name: "Martin Lopez", role: "drums", period: "1996-1998", notes: "Recorded debut album Once Sent from the Golden Hall (1998); left to join Opeth" },
+      { name: "Fredrik Andersson", role: "drums", period: "1998-2015", notes: "Longest-serving drummer; recorded eight studio albums; parted ways with the band in March 2015" },
+      { name: "Tobias Gustafsson", role: "drums (session)", period: "2015-2016", notes: "Session drummer of Vomitory/Cut Up; recorded Jomsviking (2016) but never toured or became a full member" }
+    ],
+    drummerHistory: [
+      { drummer: "niko-kaukinen", period: "1992-1996", notes: "Founding drummer" },
+      { drummer: "martin-lopez", period: "1996-1998", notes: "Recorded debut album Once Sent from the Golden Hall (1998); left to join Opeth" },
+      { drummer: "fredrik-andersson", period: "1998-2015", notes: "Recorded eight studio albums; parted ways with the band in March 2015" },
+      { drummer: "tobias-gustafsson", period: "2015-2016", notes: "Session drummer only; recorded Jomsviking (2016) but never became a full member" },
+      { drummer: "jocke-wallgren", period: "2016-present", notes: "Joined as touring drummer in 2016, made a permanent member that September" }
+    ],
+    discography: [
+      { title: "Once Sent from the Golden Hall", year: 1998, drummer: "martin-lopez", notes: "Debut album" },
+      { title: "The Avenger", year: 1999, drummer: "fredrik-andersson" },
+      { title: "The Crusher", year: 2001, drummer: "fredrik-andersson" },
+      { title: "Versus the World", year: 2002, drummer: "fredrik-andersson" },
+      { title: "Fate of Norns", year: 2004, drummer: "fredrik-andersson" },
+      { title: "With Oden on Our Side", year: 2006, drummer: "fredrik-andersson" },
+      { title: "Twilight of the Thunder God", year: 2008, drummer: "fredrik-andersson" },
+      { title: "Surtur Rising", year: 2011, drummer: "fredrik-andersson" },
+      { title: "Deceiver of the Gods", year: 2013, drummer: "fredrik-andersson" },
+      { title: "Jomsviking", year: 2016, drummer: "tobias-gustafsson", notes: "Session drummer; Andersson had departed and Wallgren had not yet joined" },
+      { title: "Berserker", year: 2019, drummer: "jocke-wallgren" },
+      { title: "The Great Heathen Army", year: 2022, drummer: "jocke-wallgren" }
+    ],
+    relatedBands: ["opeth"],
+    sameAs: [
+      "https://en.wikipedia.org/wiki/Amon_Amarth",
+      "https://musicbrainz.org/artist/5b687684-ad34-4a9f-b425-0e7aa81fbd38",
+      "https://www.wikidata.org/wiki/Q192863"
+    ],
+    faq: [
+      { q: "Who is the drummer for Amon Amarth?", a: "Jocke Wallgren has been Amon Amarth's drummer since 2016, becoming a permanent member that September." },
+      { q: "Who drummed on Amon Amarth's early albums?", a: "Martin Lopez recorded the 1998 debut, Once Sent from the Golden Hall, before leaving to join Opeth. Fredrik Andersson then drummed on eight studio albums from The Avenger (1999) through Deceiver of the Gods (2013)." },
+      { q: "Why isn't Fredrik Andersson credited on Jomsviking?", a: "Andersson parted ways with the band in March 2015. Session drummer Tobias Gustafsson (Vomitory/Cut Up) recorded Jomsviking (2016) before Jocke Wallgren joined as permanent drummer later that year." },
+      { q: "What genre is Amon Amarth?", a: "Melodic death metal, popularly labeled Viking metal for the band's Norse-mythology lyrical themes." }
+    ],
+    sources: [
+      "https://en.wikipedia.org/wiki/Amon_Amarth",
+      "https://en.wikipedia.org/wiki/Amon_Amarth_discography",
+      "https://en.wikipedia.org/wiki/Martin_Lopez",
+      "https://en.wikipedia.org/wiki/Jomsviking_(album)"
+    ],
+  },
+  angra: {
+    slug: "angra",
+    name: "Angra",
+    formed: 1991,
+    origin: "São Paulo, Brazil",
+    genres: ["power-metal", "progressive-metal"],
+    status: "active",
+    metaTitle: "Angra - Drummer History & Gear | MetalForge",
+    metaDescription: "Explore Brazilian power metal band Angra's drummer lineage from Ricardo Confessori to current drummer Bruno Valverde.",
+    summary: "Angra, formed in 1991 in São Paulo, is Brazil's leading power/progressive metal band, blending neoclassical melodies with Brazilian rhythmic influences.",
+    keywords: ["angra", "bruno valverde", "aquiles priester", "power metal", "brazilian metal", "drummer gear"],
+    members: [
+      { name: "Rafael Bittencourt", role: "guitars, keyboards", period: "1991-present", notes: "Founding member; the band's only continuously-present original member" },
+      { name: "Felipe Andreoli", role: "bass, keyboards", period: "2001-present", notes: "" },
+      { name: "Bruno Valverde", role: "drums", period: "2014-present", notes: "" },
+      { name: "Marcelo Barbosa", role: "guitars", period: "2015-present", notes: "" },
+      { name: "Alírio Netto", role: "vocals", period: "2026-present", notes: "Joined April 2026, replacing Fabio Lione; debuted at the Bangers Open Air reunion show" }
+    ],
+    formerMembers: [
+      { name: "André Matos", role: "vocals, keyboards", period: "1991-2000", notes: "Founding vocalist; left in 2000 with Confessori and Mariutti to form Shaman; died 2019" },
+      { name: "Luís Mariutti", role: "bass", period: "1991-2000", notes: "Left in the 2000 exodus to form Shaman" },
+      { name: "Kiko Loureiro", role: "guitars, keyboards", period: "1992-2015", notes: "Left to join Megadeth" },
+      { name: "Edu Falaschi", role: "vocals", period: "2001-2012", notes: "" },
+      { name: "Fabio Lione", role: "vocals", period: "2013-2025", notes: "Departed after 13 years; farewell show April 2026" }
+    ],
+    drummerHistory: [
+      { drummer: "marco-antunes", period: "1991-1993", notes: "Founding drummer; departed during the recording of debut album Angels Cry" },
+      { drummer: "ricardo-confessori", period: "1993-2000", notes: "First stint; recorded Holy Land (1996) and Fireworks (1998); left in 2000 with André Matos and Luís Mariutti to form Shaman" },
+      { drummer: "aquiles-priester", period: "2001-2008", notes: "Recorded Rebirth (2001), Temple of Shadows (2004), and Aurora Consurgens (2006); departed to focus on his own band, Hangar" },
+      { drummer: "ricardo-confessori", period: "2009-2014", notes: "Second stint; returned in March 2009 after a nine-year gap, recorded Aqua (2010); departed again in 2014" },
+      { drummer: "bruno-valverde", period: "2014-present", notes: "Joined in 2014, replacing Confessori; recorded Secret Garden (2014/2015), Ømni (2018), and Cycles of Pain (2023)" }
+    ],
+    discography: [
+      { title: "Angels Cry", year: 1993, drummer: "alex-holzwarth", notes: "Session drummer (later of Rhapsody of Fire); founding drummer Marco Antunes departed mid-recording and Ricardo Confessori had not yet joined the band" },
+      { title: "Holy Land", year: 1996, drummer: "ricardo-confessori" },
+      { title: "Fireworks", year: 1998, drummer: "ricardo-confessori" },
+      { title: "Rebirth", year: 2001, drummer: "aquiles-priester" },
+      { title: "Temple of Shadows", year: 2004, drummer: "aquiles-priester" },
+      { title: "Aurora Consurgens", year: 2006, drummer: "aquiles-priester" },
+      { title: "Aqua", year: 2010, drummer: "ricardo-confessori", notes: "Confessori's second stint (2009-2014)" },
+      { title: "Secret Garden", year: 2014, drummer: "bruno-valverde", notes: "Released December 2014 in Japan, January 2015 elsewhere; Valverde's studio debut with the band" },
+      { title: "Ømni", year: 2018, drummer: "bruno-valverde" },
+      { title: "Cycles of Pain", year: 2023, drummer: "bruno-valverde" }
+    ],
+    relatedBands: ["megadeth"],
+    sameAs: [
+      "https://en.wikipedia.org/wiki/Angra_(band)",
+      "https://musicbrainz.org/artist/b0fe8ef0-d59b-4d41-afee-2d21b59112ab",
+      "https://www.wikidata.org/wiki/Q542745"
+    ],
+    faq: [
+      { q: "Who is the drummer for Angra?", a: "Bruno Valverde has been Angra's drummer since 2014." },
+      { q: "Did Ricardo Confessori drum on Angra's entire discography?", a: "No. Confessori had two separate tenures (1993-2000 and 2009-2014), covering Holy Land, Fireworks, and Aqua. He did not play on the 1993 debut Angels Cry (session drummer Alex Holzwarth did), the 2001-2006 albums (Aquiles Priester), or anything from 2014 onward (Bruno Valverde)." },
+      { q: "Who played drums on Angra's debut album, Angels Cry?", a: "Session drummer Alex Holzwarth (later of Rhapsody of Fire), not Ricardo Confessori. Founding drummer Marco Antunes departed mid-recording, and Confessori had not yet joined the band when the album was completed." },
+      { q: "Who is Angra's longest-tenured member?", a: "Guitarist Rafael Bittencourt is the band's only continuously-present original member, in the lineup since its 1991 founding." }
+    ],
+    sources: [
+      "https://en.wikipedia.org/wiki/Angra_(band)",
+      "https://en.wikipedia.org/wiki/Ricardo_Confessori",
+      "https://en.wikipedia.org/wiki/Aquiles_Priester",
+      "https://en.wikipedia.org/wiki/Secret_Garden_(album)",
+      "https://en.wikipedia.org/wiki/Aqua_(Angra_album)"
+    ],
+  },
+  "arch-enemy": {
+    slug: "arch-enemy",
+    name: "Arch Enemy",
+    formed: 1995,
+    origin: "Halmstad, Sweden",
+    genres: ["melodic-death-metal"],
+    status: "active",
+    metaTitle: "Arch Enemy - Daniel Erlandsson Drummer Profile & Gear | MetalForge",
+    metaDescription: "Explore Arch Enemy's melodic death metal drumming legacy with longtime drummer Daniel Erlandsson.",
+    summary: "Arch Enemy, formed in 1995 in Halmstad, Sweden, is a leading melodic death metal band known for its dual-guitar attack and Daniel Erlandsson's precise, powerful drumming.",
+    keywords: ["arch enemy", "daniel erlandsson", "melodic death metal", "swedish metal", "drummer gear"],
+    members: [
+      { name: "Michael Amott", role: "guitars, backing vocals", period: "1995-present", notes: "Founding member; ex-Carcass" },
+      { name: "Daniel Erlandsson", role: "drums, keyboards", period: "1995-1997, 1998-present", notes: "Founding drummer" },
+      { name: "Sharlee D'Angelo", role: "bass", period: "1999-present", notes: "" },
+      { name: "Joey Concepcion", role: "guitars, backing vocals", period: "2023-present", notes: "" }
+    ],
+    formerMembers: [
+      { name: "Johan Liiva", role: "vocals", period: "1995-2000", notes: "Founding vocalist; fired via letter in November 2000" },
+      { name: "Angela Gossow", role: "vocals", period: "2000-2014", notes: "Stepped down as vocalist in March 2014 to become the band's manager" },
+      { name: "Alissa White-Gluz", role: "vocals", period: "2014-2025", notes: "Departed November 2025 to pursue a solo career; no permanent replacement had been confirmed as of the most recent sourcing" },
+      { name: "Christopher Amott", role: "guitars", period: "1996-2005, 2007-2012", notes: "Michael Amott's brother; co-founder" },
+      { name: "Peter Wildoer", role: "drums", period: "1997-1998", notes: "Filled in during Daniel Erlandsson's absence (main band: Darkane); primary drummer credited on Stigmata (1998)" }
+    ],
+    drummerHistory: [
+      { drummer: "daniel-erlandsson", period: "1995-1997", notes: "Founding drummer; drummed on debut album Black Earth (1996)" },
+      { drummer: "peter-wildoer", period: "1997-1998", notes: "Filled in during Erlandsson's absence; primary drummer credited on Stigmata (1998)" },
+      { drummer: "daniel-erlandsson", period: "1998-present", notes: "Returned in 1998; has drummed on every album since Burning Bridges (1999) through Blood Dynasty (2025)" }
+    ],
+    discography: [
+      { title: "Black Earth", year: 1996, drummer: "daniel-erlandsson", notes: "Debut album" },
+      { title: "Stigmata", year: 1998, drummer: "peter-wildoer", notes: "Recorded primarily by Peter Wildoer (Darkane) during Erlandsson's absence" },
+      { title: "Burning Bridges", year: 1999, drummer: "daniel-erlandsson" },
+      { title: "Wages of Sin", year: 2001, drummer: "daniel-erlandsson" },
+      { title: "Anthems of Rebellion", year: 2003, drummer: "daniel-erlandsson" },
+      { title: "Doomsday Machine", year: 2005, drummer: "daniel-erlandsson" },
+      { title: "Rise of the Tyrant", year: 2007, drummer: "daniel-erlandsson" },
+      { title: "Khaos Legions", year: 2011, drummer: "daniel-erlandsson" },
+      { title: "War Eternal", year: 2014, drummer: "daniel-erlandsson" },
+      { title: "Will to Power", year: 2017, drummer: "daniel-erlandsson" },
+      { title: "Deceivers", year: 2022, drummer: "daniel-erlandsson" },
+      { title: "Blood Dynasty", year: 2025, drummer: "daniel-erlandsson" }
+    ],
+    relatedBands: ["opeth", "at-the-gates"],
+    sameAs: [
+      "https://en.wikipedia.org/wiki/Arch_Enemy",
+      "https://musicbrainz.org/artist/e631bb92-3e2b-43e3-a2cb-b605e2fb53bd",
+      "https://www.wikidata.org/wiki/Q163989"
+    ],
+    faq: [
+      { q: "Who is the drummer for Arch Enemy?", a: "Daniel Erlandsson has been Arch Enemy's drummer since the band's founding in 1995, aside from a brief 1997-1998 gap." },
+      { q: "Has Arch Enemy ever had a different drummer besides Daniel Erlandsson?", a: "Yes. Peter Wildoer of Darkane filled in during 1997-1998 and is the primary drummer credited on the album Stigmata (1998)." },
+      { q: "Who are Arch Enemy's vocalists?", a: "Johan Liiva (1995-2000, founding vocalist), Angela Gossow (2000-2014, who then became the band's manager), and Alissa White-Gluz (2014-2025). No permanent replacement had been confirmed as of White-Gluz's November 2025 departure." },
+      { q: "Who founded Arch Enemy?", a: "Guitarist Michael Amott (ex-Carcass) and vocalist Johan Liiva founded the band in Halmstad, Sweden, in 1995." }
+    ],
+    sources: [
+      "https://en.wikipedia.org/wiki/Arch_Enemy",
+      "https://en.wikipedia.org/wiki/Stigmata_(Arch_Enemy_album)",
+      "https://en.wikipedia.org/wiki/Peter_Wildoer",
+      "https://en.wikipedia.org/wiki/List_of_Arch_Enemy_band_members"
+    ],
+  },
+  "at-the-gates": {
+    slug: "at-the-gates",
+    name: "At the Gates",
+    formed: 1990,
+    origin: "Gothenburg, Sweden",
+    genres: ["melodic-death-metal", "death-metal"],
+    status: "hiatus",
+    metaTitle: "At the Gates - Adrian Erlandsson Drummer Profile & Gear | MetalForge",
+    metaDescription: "Explore At the Gates' influential melodic death metal drumming with founding drummer Adrian Erlandsson.",
+    summary: "At the Gates, formed in 1990 in Gothenburg, Sweden, pioneered the melodic death metal sound that defined the Gothenburg scene, most famously on 1995's Slaughter of the Soul.",
+    keywords: ["at the gates", "adrian erlandsson", "melodic death metal", "gothenburg sound", "swedish metal", "drummer gear"],
+    members: [
+      { name: "Anders Björler", role: "lead guitar", period: "1990-1996, 2007-2008, 2010-2017, 2022-present", notes: "" },
+      { name: "Jonas Björler", role: "bass, keyboards", period: "1990-1996, 2007-2008, 2010-present", notes: "" },
+      { name: "Adrian Erlandsson", role: "drums", period: "1990-1996, 2007-2008, 2010-present", notes: "Founding member; brother of Arch Enemy drummer Daniel Erlandsson" },
+      { name: "Martin Larsson", role: "rhythm guitar", period: "1993-1996, 2007-2008, 2010-present", notes: "" }
+    ],
+    formerMembers: [
+      { name: "Tomas Lindberg", role: "lead vocals", period: "1990-1996, 2007-2008, 2010-2025", notes: "Co-founder; died September 16, 2025, following a battle with cancer; his last recorded vocals appear on the band's 2026 album, The Ghost of a Future Dead" },
+      { name: "Alf Svensson", role: "rhythm guitar", period: "1990-1993", notes: "Founding member; left to pursue tattoo art and his own project, Oxiplegatz" },
+      { name: "Jonas Stålhammar", role: "lead guitar, keyboards, backing vocals", period: "2017-2022", notes: "Joined after Anders Björler stepped back; parted ways in 2022 when Björler returned" }
+    ],
+    drummerHistory: [
+      { drummer: "adrian-erlandsson", period: "1990-1996, 2007-2008, 2010-present", notes: "Founding member; drummed through the band's original run and 1996 breakup, then rejoined for the 2007 reunion and the 2010 reactivation. Sole drummer across all eight studio albums." }
+    ],
+    discography: [
+      { title: "The Red in the Sky Is Ours", year: 1992, drummer: "adrian-erlandsson", notes: "Debut album" },
+      { title: "With Fear I Kiss the Burning Darkness", year: 1993, drummer: "adrian-erlandsson" },
+      { title: "Terminal Spirit Disease", year: 1994, drummer: "adrian-erlandsson" },
+      { title: "Slaughter of the Soul", year: 1995, drummer: "adrian-erlandsson", notes: "Landmark album that defined the Gothenburg melodic death metal sound" },
+      { title: "At War with Reality", year: 2014, drummer: "adrian-erlandsson", notes: "First album of the band's post-2010 reactivation" },
+      { title: "To Drink from the Night Itself", year: 2018, drummer: "adrian-erlandsson" },
+      { title: "The Nightmare of Being", year: 2021, drummer: "adrian-erlandsson" },
+      { title: "The Ghost of a Future Dead", year: 2026, drummer: "adrian-erlandsson", notes: "Built around vocals Tomas Lindberg recorded shortly before his September 2025 death; widely regarded by press as the band's final album" }
+    ],
+    relatedBands: ["arch-enemy"],
+    sameAs: [
+      "https://en.wikipedia.org/wiki/At_the_Gates",
+      "https://musicbrainz.org/artist/35f92c4a-69d0-4ed1-ab9e-05259db89d14",
+      "https://www.wikidata.org/wiki/Q540368"
+    ],
+    faq: [
+      { q: "Who is the drummer for At the Gates?", a: "Adrian Erlandsson has been the band's only drummer since its 1990 founding, drumming on all eight studio albums through 2026's The Ghost of a Future Dead." },
+      { q: "Is At the Gates still active?", a: "The band's future is uncertain following founding vocalist Tomas Lindberg's death in September 2025. Their eighth album, The Ghost of a Future Dead, released April 2026, is widely regarded by press as their final release." },
+      { q: "When did At the Gates break up and reform?", a: "They broke up in 1996 following Slaughter of the Soul, reunited for festival shows in 2007-2008, and became fully active again from 2010 onward." },
+      { q: "Did At the Gates ever have a different drummer than Adrian Erlandsson?", a: "No. Erlandsson is the only drummer credited on any At the Gates studio album, across the band's entire history." }
+    ],
+    sources: [
+      "https://en.wikipedia.org/wiki/At_the_Gates",
+      "https://en.wikipedia.org/wiki/Tomas_Lindberg",
+      "https://en.wikipedia.org/wiki/The_Ghost_of_a_Future_Dead",
+      "https://en.wikipedia.org/wiki/Adrian_Erlandsson"
+    ],
+  },
+  "august-burns-red": {
+    slug: "august-burns-red",
+    name: "August Burns Red",
+    formed: 2003,
+    origin: "Manheim, Pennsylvania, USA",
+    genres: ["metalcore", "christian-metal"],
+    status: "active",
+    metaTitle: "August Burns Red - Matt Greiner Drummer Profile & Gear | MetalForge",
+    metaDescription: "Explore August Burns Red's technical metalcore drumming with founding drummer Matt Greiner.",
+    summary: "August Burns Red, formed in 2003 in Manheim, Pennsylvania, is a Grammy-nominated metalcore band known for founding drummer Matt Greiner's technical, dynamic playing.",
+    keywords: ["august burns red", "matt greiner", "metalcore", "christian metal", "drummer gear"],
+    members: [
+      { name: "JB Brubaker", role: "lead guitar", period: "2003-present", notes: "Founding member" },
+      { name: "Brent Rambler", role: "rhythm guitar", period: "2003-present", notes: "Founding member" },
+      { name: "Matt Greiner", role: "drums, piano", period: "2003-present", notes: "Founding member" },
+      { name: "Jake Luhrs", role: "lead vocals", period: "2006-present", notes: "" },
+      { name: "Dustin Davidson", role: "bass, backing vocals", period: "2006-present", notes: "" }
+    ],
+    formerMembers: [
+      { name: "Jon Hershey", role: "lead vocals", period: "2003-2004", notes: "" },
+      { name: "Josh McManness", role: "lead vocals", period: "2004-2006", notes: "" },
+      { name: "Jordan Tuscan", role: "bass", period: "2003-2006", notes: "" }
+    ],
+    drummerHistory: [
+      { drummer: "matt-greiner", period: "2003-present", notes: "Founding member and the band's only drummer across all ten studio albums" }
+    ],
+    discography: [
+      { title: "Thrill Seeker", year: 2005, drummer: "matt-greiner", notes: "Debut album" },
+      { title: "Messengers", year: 2007, drummer: "matt-greiner" },
+      { title: "Constellations", year: 2009, drummer: "matt-greiner" },
+      { title: "Leveler", year: 2011, drummer: "matt-greiner" },
+      { title: "Rescue & Restore", year: 2013, drummer: "matt-greiner" },
+      { title: "Found in Far Away Places", year: 2015, drummer: "matt-greiner" },
+      { title: "Phantom Anthem", year: 2017, drummer: "matt-greiner" },
+      { title: "Guardians", year: 2020, drummer: "matt-greiner" },
+      { title: "Death Below", year: 2023, drummer: "matt-greiner" },
+      { title: "Season of Surrender", year: 2026, drummer: "matt-greiner", notes: "Tenth studio album" }
+    ],
+    relatedBands: [],
+    sameAs: [
+      "https://en.wikipedia.org/wiki/August_Burns_Red",
+      "https://musicbrainz.org/artist/5bac9b4f-2f1c-4d39-8d11-231d5b6650ce",
+      "https://www.wikidata.org/wiki/Q537954"
+    ],
+    faq: [
+      { q: "Who is the drummer for August Burns Red?", a: "Matt Greiner, a founding member and the band's only drummer since 2003." },
+      { q: "Where is August Burns Red from?", a: "Manheim, Pennsylvania (Lancaster County), USA; the band started out rehearsing in Greiner's basement in 2003." },
+      { q: "Is August Burns Red a Christian band?", a: "The band's members are Christian and their lyrics often reflect that, alongside their core metalcore sound." },
+      { q: "How many studio albums has August Burns Red released?", a: "Ten, from Thrill Seeker (2005) through Season of Surrender (2026), all with Matt Greiner on drums." }
+    ],
+    sources: [
+      "https://en.wikipedia.org/wiki/August_Burns_Red",
+      "https://en.wikipedia.org/wiki/Season_of_Surrender"
+    ],
+  },
+  "between-the-buried-and-me": {
+    slug: "between-the-buried-and-me",
+    name: "Between the Buried and Me",
+    formed: 2000,
+    origin: "Raleigh, North Carolina, USA",
+    genres: ["progressive-metal", "technical-death-metal", "metalcore"],
+    status: "active",
+    metaTitle: "Between the Buried and Me - Blake Richardson Drummer Profile & Gear | MetalForge",
+    metaDescription: "Explore Between the Buried and Me's progressive metal drumming with longtime drummer Blake Richardson.",
+    summary: "Between the Buried and Me, formed in 2000 in Raleigh, North Carolina, is a genre-defying progressive metal band known for Blake Richardson's jazz-influenced technical drumming.",
+    keywords: ["between the buried and me", "blake richardson", "progressive metal", "technical death metal", "btbam", "drummer gear"],
+    members: [
+      { name: "Tommy Giles Rogers Jr.", role: "lead vocals, keyboards", period: "2000-present", notes: "Founding member" },
+      { name: "Paul Waggoner", role: "lead guitar, backing vocals", period: "2000-present", notes: "Founding member; also rhythm guitar since 2023" },
+      { name: "Dan Briggs", role: "bass, keyboards", period: "2005-present", notes: "" },
+      { name: "Blake Richardson", role: "drums, backing vocals", period: "2005-present", notes: "" }
+    ],
+    formerMembers: [
+      { name: "Jason Schofield King", role: "bass", period: "2000-2004", notes: "" },
+      { name: "Will Goodyear", role: "drums, clean vocals", period: "2000-2002", notes: "Founding drummer" },
+      { name: "Marc Duncan", role: "rhythm guitar", period: "2000", notes: "" },
+      { name: "Nicholas Shawn Fletcher", role: "rhythm guitar", period: "2000-2003", notes: "" },
+      { name: "Michael Howard Reig", role: "drums", period: "2002-2003", notes: "" },
+      { name: "Mark Castillo", role: "drums", period: "2003-2004", notes: "Recorded The Silent Circus (2003), his only album with the band" },
+      { name: "Shane Blay", role: "rhythm guitar", period: "2004", notes: "" },
+      { name: "Jason Roe", role: "drums", period: "2004-2005", notes: "" },
+      { name: "Kevin Falk", role: "bass", period: "2004-2005", notes: "" },
+      { name: "Dustie Waring", role: "rhythm guitar", period: "2005-2023", notes: "Departed amid a contested separation; exit finalized in 2025" }
+    ],
+    drummerHistory: [
+      { drummer: "will-goodyear", period: "2000-2002", notes: "Founding drummer; recorded the 2002 self-titled debut album" },
+      { drummer: "michael-howard-reig", period: "2002-2003", notes: "No studio album recorded during this tenure" },
+      { drummer: "mark-castillo", period: "2003-2004", notes: "Recorded The Silent Circus (2003), his only album with the band" },
+      { drummer: "jason-roe", period: "2004-2005", notes: "No studio album recorded during this tenure" },
+      { drummer: "blake-richardson", period: "2005-present", notes: "Joined early 2005, replacing Jason Roe; has recorded every studio album since Alaska (2005)" }
+    ],
+    discography: [
+      { title: "Between the Buried and Me", year: 2002, drummer: "will-goodyear", notes: "Self-titled debut" },
+      { title: "The Silent Circus", year: 2003, drummer: "mark-castillo", notes: "Castillo's only album with the band" },
+      { title: "Alaska", year: 2005, drummer: "blake-richardson", notes: "Richardson's first album with the band" },
+      { title: "Colors", year: 2007, drummer: "blake-richardson" },
+      { title: "The Great Misdirect", year: 2009, drummer: "blake-richardson" },
+      { title: "The Parallax II: Future Sequence", year: 2012, drummer: "blake-richardson" },
+      { title: "Coma Ecliptic", year: 2015, drummer: "blake-richardson" },
+      { title: "Automata I", year: 2018, drummer: "blake-richardson" },
+      { title: "Automata II", year: 2018, drummer: "blake-richardson" },
+      { title: "Colors II", year: 2021, drummer: "blake-richardson" },
+      { title: "The Blue Nowhere", year: 2025, drummer: "blake-richardson" }
+    ],
+    relatedBands: [],
+    sameAs: [
+      "https://en.wikipedia.org/wiki/Between_the_Buried_and_Me",
+      "https://musicbrainz.org/artist/1870fb43-50f1-4660-a879-bb596d1519b6",
+      "https://www.wikidata.org/wiki/Q850616"
+    ],
+    faq: [
+      { q: "Who is the drummer for Between the Buried and Me?", a: "Blake Richardson, since 2005." },
+      { q: "Did Between the Buried and Me have other drummers before Blake Richardson?", a: "Yes: founding drummer Will Goodyear (2000-2002, recorded the 2002 self-titled debut), Michael Howard Reig (2002-2003), Mark Castillo (2003-2004, recorded The Silent Circus), and Jason Roe (2004-2005) all preceded Richardson." },
+      { q: "What genres does Between the Buried and Me play?", a: "A blend of progressive metal, metalcore, technical death metal, and avant-garde metal, with the band's sound evolving significantly across their catalog." },
+      { q: "Where is Between the Buried and Me from?", a: "Raleigh, North Carolina, USA, where the band formed in 2000." }
+    ],
+    sources: [
+      "https://en.wikipedia.org/wiki/Between_the_Buried_and_Me",
+      "https://en.wikipedia.org/wiki/The_Silent_Circus",
+      "https://en.wikipedia.org/wiki/Alaska_(Between_the_Buried_and_Me_album)",
+      "https://en.wikipedia.org/wiki/Blake_Richardson_(drummer)"
+    ],
+  },
 };
 export function getBand(slug) { return bands[slug] || null; }
 export function getAllBandSlugs() { return Object.keys(bands); }

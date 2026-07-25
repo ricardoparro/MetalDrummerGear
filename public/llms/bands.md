@@ -3,9 +3,59 @@
 > Structured reference for metal bands, their drummer history, discography, and gear.
 > Optimised for AI crawlers answering "who drums for <band>" queries.
 >
-> Last updated: 2026-07-25 · 35 bands
+> Last updated: 2026-07-25 · 41 bands
 
 ---
+## Amon Amarth
+
+**Genre:** Melodic Death Metal, Viking Metal · **Status:** Active · **Formed:** 1992 · **Origin:** Tumba, Stockholm County, Sweden
+
+Amon Amarth, formed in 1992 in Tumba, Sweden, is one of the most successful melodic death metal bands, known for Viking-themed lyrics and driving double-bass grooves.
+
+**Drummer history:**
+- Niko Kaukinen — 1992-1996 (Founding drummer)
+- Martin Lopez — 1996-1998 (Recorded debut album Once Sent from the Golden Hall (1998); left to join Opeth)
+- Fredrik Andersson — 1998-2015 (Recorded eight studio albums; parted ways with the band in March 2015)
+- Tobias Gustafsson — 2015-2016 (Session drummer only; recorded Jomsviking (2016) but never became a full member)
+- Jocke Wallgren — 2016-present (Joined as touring drummer in 2016, made a permanent member that September)
+
+**Key releases:** Once Sent from the Golden Hall (1998), The Avenger (1999), The Crusher (2001), Versus the World (2002), Fate of Norns (2004), With Oden on Our Side (2006), Twilight of the Thunder God (2008), Surtur Rising (2011), Deceiver of the Gods (2013), Jomsviking (2016), Berserker (2019), The Great Heathen Army (2022)
+
+**FAQ:**
+- **Who is the drummer for Amon Amarth?** Jocke Wallgren has been Amon Amarth's drummer since 2016, becoming a permanent member that September.
+- **Who drummed on Amon Amarth's early albums?** Martin Lopez recorded the 1998 debut, Once Sent from the Golden Hall, before leaving to join Opeth. Fredrik Andersson then drummed on eight studio albums from The Avenger (1999) through Deceiver of the Gods (2013).
+- **Why isn't Fredrik Andersson credited on Jomsviking?** Andersson parted ways with the band in March 2015. Session drummer Tobias Gustafsson (Vomitory/Cut Up) recorded Jomsviking (2016) before Jocke Wallgren joined as permanent drummer later that year.
+- **What genre is Amon Amarth?** Melodic death metal, popularly labeled Viking metal for the band's Norse-mythology lyrical themes.
+
+[Full profile](https://metalforge.io/bands/amon-amarth)
+
+---
+
+## Angra
+
+**Genre:** Power Metal, Progressive Metal · **Status:** Active · **Formed:** 1991 · **Origin:** São Paulo, Brazil
+
+Angra, formed in 1991 in São Paulo, is Brazil's leading power/progressive metal band, blending neoclassical melodies with Brazilian rhythmic influences.
+
+**Drummer history:**
+- Marco Antunes — 1991-1993 (Founding drummer; departed during the recording of debut album Angels Cry)
+- Ricardo Confessori — 1993-2000 (First stint; recorded Holy Land (1996) and Fireworks (1998); left in 2000 with André Matos and Luís Mariutti to form Shaman)
+- Aquiles Priester — 2001-2008 (Recorded Rebirth (2001), Temple of Shadows (2004), and Aurora Consurgens (2006); departed to focus on his own band, Hangar)
+- Ricardo Confessori — 2009-2014 (Second stint; returned in March 2009 after a nine-year gap, recorded Aqua (2010); departed again in 2014)
+- Bruno Valverde — 2014-present (Joined in 2014, replacing Confessori; recorded Secret Garden (2014/2015), Ømni (2018), and Cycles of Pain (2023))
+
+**Key releases:** Angels Cry (1993), Holy Land (1996), Fireworks (1998), Rebirth (2001), Temple of Shadows (2004), Aurora Consurgens (2006), Aqua (2010), Secret Garden (2014), Ømni (2018), Cycles of Pain (2023)
+
+**FAQ:**
+- **Who is the drummer for Angra?** Bruno Valverde has been Angra's drummer since 2014.
+- **Did Ricardo Confessori drum on Angra's entire discography?** No. Confessori had two separate tenures (1993-2000 and 2009-2014), covering Holy Land, Fireworks, and Aqua. He did not play on the 1993 debut Angels Cry (session drummer Alex Holzwarth did), the 2001-2006 albums (Aquiles Priester), or anything from 2014 onward (Bruno Valverde).
+- **Who played drums on Angra's debut album, Angels Cry?** Session drummer Alex Holzwarth (later of Rhapsody of Fire), not Ricardo Confessori. Founding drummer Marco Antunes departed mid-recording, and Confessori had not yet joined the band when the album was completed.
+- **Who is Angra's longest-tenured member?** Guitarist Rafael Bittencourt is the band's only continuously-present original member, in the lineup since its 1991 founding.
+
+[Full profile](https://metalforge.io/bands/angra)
+
+---
+
 ## Animals as Leaders
 
 **Genre:** Progressive Metal, Djent · **Status:** Active · **Formed:** 2007 · **Origin:** Washington, D.C., USA
@@ -50,6 +100,71 @@ Anthrax, formed in 1981, is one of the Big Four of thrash metal.
 
 ---
 
+## Arch Enemy
+
+**Genre:** Melodic Death Metal · **Status:** Active · **Formed:** 1995 · **Origin:** Halmstad, Sweden
+
+Arch Enemy, formed in 1995 in Halmstad, Sweden, is a leading melodic death metal band known for its dual-guitar attack and Daniel Erlandsson's precise, powerful drumming.
+
+**Drummer history:**
+- Daniel Erlandsson — 1995-1997 (Founding drummer; drummed on debut album Black Earth (1996))
+- Peter Wildoer — 1997-1998 (Filled in during Erlandsson's absence; primary drummer credited on Stigmata (1998))
+- Daniel Erlandsson — 1998-present (Returned in 1998; has drummed on every album since Burning Bridges (1999) through Blood Dynasty (2025))
+
+**Key releases:** Black Earth (1996), Stigmata (1998), Burning Bridges (1999), Wages of Sin (2001), Anthems of Rebellion (2003), Doomsday Machine (2005), Rise of the Tyrant (2007), Khaos Legions (2011), War Eternal (2014), Will to Power (2017), Deceivers (2022), Blood Dynasty (2025)
+
+**FAQ:**
+- **Who is the drummer for Arch Enemy?** Daniel Erlandsson has been Arch Enemy's drummer since the band's founding in 1995, aside from a brief 1997-1998 gap.
+- **Has Arch Enemy ever had a different drummer besides Daniel Erlandsson?** Yes. Peter Wildoer of Darkane filled in during 1997-1998 and is the primary drummer credited on the album Stigmata (1998).
+- **Who are Arch Enemy's vocalists?** Johan Liiva (1995-2000, founding vocalist), Angela Gossow (2000-2014, who then became the band's manager), and Alissa White-Gluz (2014-2025). No permanent replacement had been confirmed as of White-Gluz's November 2025 departure.
+- **Who founded Arch Enemy?** Guitarist Michael Amott (ex-Carcass) and vocalist Johan Liiva founded the band in Halmstad, Sweden, in 1995.
+
+[Full profile](https://metalforge.io/bands/arch-enemy)
+
+---
+
+## At the Gates
+
+**Genre:** Melodic Death Metal, Death Metal · **Status:** Hiatus · **Formed:** 1990 · **Origin:** Gothenburg, Sweden
+
+At the Gates, formed in 1990 in Gothenburg, Sweden, pioneered the melodic death metal sound that defined the Gothenburg scene, most famously on 1995's Slaughter of the Soul.
+
+**Drummer history:**
+- Adrian Erlandsson — 1990-1996, 2007-2008, 2010-present (Founding member; drummed through the band's original run and 1996 breakup, then rejoined for the 2007 reunion and the 2010 reactivation. Sole drummer across all eight studio albums.)
+
+**Key releases:** The Red in the Sky Is Ours (1992), With Fear I Kiss the Burning Darkness (1993), Terminal Spirit Disease (1994), Slaughter of the Soul (1995), At War with Reality (2014), To Drink from the Night Itself (2018), The Nightmare of Being (2021), The Ghost of a Future Dead (2026)
+
+**FAQ:**
+- **Who is the drummer for At the Gates?** Adrian Erlandsson has been the band's only drummer since its 1990 founding, drumming on all eight studio albums through 2026's The Ghost of a Future Dead.
+- **Is At the Gates still active?** The band's future is uncertain following founding vocalist Tomas Lindberg's death in September 2025. Their eighth album, The Ghost of a Future Dead, released April 2026, is widely regarded by press as their final release.
+- **When did At the Gates break up and reform?** They broke up in 1996 following Slaughter of the Soul, reunited for festival shows in 2007-2008, and became fully active again from 2010 onward.
+- **Did At the Gates ever have a different drummer than Adrian Erlandsson?** No. Erlandsson is the only drummer credited on any At the Gates studio album, across the band's entire history.
+
+[Full profile](https://metalforge.io/bands/at-the-gates)
+
+---
+
+## August Burns Red
+
+**Genre:** Metalcore, Christian Metal · **Status:** Active · **Formed:** 2003 · **Origin:** Manheim, Pennsylvania, USA
+
+August Burns Red, formed in 2003 in Manheim, Pennsylvania, is a Grammy-nominated metalcore band known for founding drummer Matt Greiner's technical, dynamic playing.
+
+**Drummer history:**
+- Matt Greiner — 2003-present (Founding member and the band's only drummer across all ten studio albums)
+
+**Key releases:** Thrill Seeker (2005), Messengers (2007), Constellations (2009), Leveler (2011), Rescue & Restore (2013), Found in Far Away Places (2015), Phantom Anthem (2017), Guardians (2020), Death Below (2023), Season of Surrender (2026)
+
+**FAQ:**
+- **Who is the drummer for August Burns Red?** Matt Greiner, a founding member and the band's only drummer since 2003.
+- **Where is August Burns Red from?** Manheim, Pennsylvania (Lancaster County), USA; the band started out rehearsing in Greiner's basement in 2003.
+- **Is August Burns Red a Christian band?** The band's members are Christian and their lyrics often reflect that, alongside their core metalcore sound.
+- **How many studio albums has August Burns Red released?** Ten, from Thrill Seeker (2005) through Season of Surrender (2026), all with Matt Greiner on drums.
+
+[Full profile](https://metalforge.io/bands/august-burns-red)
+
+---
+
 ## Behemoth
 
 **Genre:** Blackened Death Metal, Death Metal · **Status:** Active · **Formed:** 1991 · **Origin:** Gdańsk, Poland
@@ -70,6 +185,31 @@ Behemoth, formed in 1991, evolved from black metal to become a leading blackened
 - **Where does the name Behemoth come from?** The band's name derives from the biblical creature referenced in the Book of Job.
 
 [Full profile](https://metalforge.io/bands/behemoth)
+
+---
+
+## Between the Buried and Me
+
+**Genre:** Progressive Metal, Technical Death Metal, Metalcore · **Status:** Active · **Formed:** 2000 · **Origin:** Raleigh, North Carolina, USA
+
+Between the Buried and Me, formed in 2000 in Raleigh, North Carolina, is a genre-defying progressive metal band known for Blake Richardson's jazz-influenced technical drumming.
+
+**Drummer history:**
+- Will Goodyear — 2000-2002 (Founding drummer; recorded the 2002 self-titled debut album)
+- Michael Howard Reig — 2002-2003 (No studio album recorded during this tenure)
+- Mark Castillo — 2003-2004 (Recorded The Silent Circus (2003), his only album with the band)
+- Jason Roe — 2004-2005 (No studio album recorded during this tenure)
+- Blake Richardson — 2005-present (Joined early 2005, replacing Jason Roe; has recorded every studio album since Alaska (2005))
+
+**Key releases:** Between the Buried and Me (2002), The Silent Circus (2003), Alaska (2005), Colors (2007), The Great Misdirect (2009), The Parallax II: Future Sequence (2012), Coma Ecliptic (2015), Automata I (2018), Automata II (2018), Colors II (2021), The Blue Nowhere (2025)
+
+**FAQ:**
+- **Who is the drummer for Between the Buried and Me?** Blake Richardson, since 2005.
+- **Did Between the Buried and Me have other drummers before Blake Richardson?** Yes: founding drummer Will Goodyear (2000-2002, recorded the 2002 self-titled debut), Michael Howard Reig (2002-2003), Mark Castillo (2003-2004, recorded The Silent Circus), and Jason Roe (2004-2005) all preceded Richardson.
+- **What genres does Between the Buried and Me play?** A blend of progressive metal, metalcore, technical death metal, and avant-garde metal, with the band's sound evolving significantly across their catalog.
+- **Where is Between the Buried and Me from?** Raleigh, North Carolina, USA, where the band formed in 2000.
+
+[Full profile](https://metalforge.io/bands/between-the-buried-and-me)
 
 ---
 

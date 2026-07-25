@@ -2840,6 +2840,7 @@ export function getMetaForPath(pathname) {
           url: `${BASE_URL}/bands/${slug}`,
           genre: band.genres || [],
           ...(band.formed ? { foundingDate: String(band.formed) } : {}),
+          ...(band.origin ? { foundingLocation: { '@type': 'Place', name: band.origin } } : {}),
           ...(band.summary ? { description: band.summary } : {}),
           member: (band.members
             ? band.members.map(m => ({

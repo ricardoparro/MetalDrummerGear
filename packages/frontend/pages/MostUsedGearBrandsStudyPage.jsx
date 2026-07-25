@@ -153,7 +153,7 @@ function CategoryBarChart({ ranked, theme, maxBars = 6 }) {
   );
 }
 
-function CategoryTable({ categoryKey, data, theme }) {
+function CategoryTable({ categoryKey, data, theme, totalDrummers }) {
   if (Platform.OS !== 'web') {
     return (
       <View>
@@ -179,7 +179,7 @@ function CategoryTable({ categoryKey, data, theme }) {
             <th scope="col" style={tableHeadStyle(theme)}>Rank</th>
             <th scope="col" style={tableHeadStyle(theme)}>Brand</th>
             <th scope="col" style={tableHeadStyle(theme)}>Drummers</th>
-            <th scope="col" style={tableHeadStyle(theme)}>% of 67</th>
+            <th scope="col" style={tableHeadStyle(theme)}>% of {totalDrummers}</th>
             <th scope="col" style={tableHeadStyle(theme)}>Who plays it</th>
           </tr>
         </thead>
@@ -278,7 +278,7 @@ export function MostUsedGearBrandsStudyPage() {
             <View style={[styles.chartBox, { backgroundColor: theme.card, borderColor: theme.border }]}>
               <CategoryBarChart ranked={cat.ranked} theme={theme} />
             </View>
-            <CategoryTable categoryKey={key} data={cat} theme={theme} />
+            <CategoryTable categoryKey={key} data={cat} theme={theme} totalDrummers={totalDrummers} />
           </View>
         );
       })}

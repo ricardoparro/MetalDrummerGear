@@ -1,6 +1,6 @@
 /**
  * Kit Configurations study — bass-pedal setup (double bass / twin single pedals /
- * double pedal / single pedal) across all 67 roster drummers, and
+ * double pedal / single pedal) across all 72 roster drummers, and
  * cymbal-setup size (piece count) across cymbalSetups.js's verified
  * 56-drummer subset, both broken down by primary genre.
  *
@@ -8,7 +8,7 @@
  * Regenerate with: node scripts/compute-studies.cjs
  *
  * Source of truth: api/drummers/index.js (gear.drums + gear.hardware, current gear
- * only) and packages/frontend/data/cymbalSetups.js. Dataset snapshot date: 2026-07-16.
+ * only) and packages/frontend/data/cymbalSetups.js. Dataset snapshot date: 2026-07-25.
  *
  * Methodology: pedalConfig classification is text-pattern based against the literal
  * drums/hardware strings (see classifyPedalSetup in scripts/compute-studies.cjs) —
@@ -18,7 +18,7 @@
  * possible from this data; explicitShellConfigs instead lists the 3
  * roster entries whose drums field does spell out every shell size, verbatim, as a
  * small supplementary table rather than a genre-wide claim. cymbalSetupSize covers
- * only the 56 of 67 drummers cymbalSetups.js has parsed
+ * only the 56 of 72 drummers cymbalSetups.js has parsed
  * (gear.verified: true subset) — see that module's own header for the excluded list.
  * byGenre breakdowns only include genre buckets with >= 2 drummers.
  *
@@ -27,35 +27,35 @@
  */
 
 export const KIT_CONFIGURATIONS = {
-  "generatedAt": "2026-07-16",
-  "totalDrummers": 67,
+  "generatedAt": "2026-07-25",
+  "totalDrummers": 72,
   "pedalConfig": {
     "overall": {
       "doubleBass": 2,
       "twinSinglePedals": 2,
       "doublePedal": 59,
       "singlePedal": 1,
-      "unspecified": 3
+      "unspecified": 8
     },
     "bucketMinDrummers": 2,
     "byGenre": [
       {
         "genre": "Progressive Metal",
-        "totalDrummers": 11,
+        "totalDrummers": 12,
         "doubleBass": 0,
         "twinSinglePedals": 2,
         "doublePedal": 8,
         "singlePedal": 0,
-        "unspecified": 1
+        "unspecified": 2
       },
       {
         "genre": "Thrash Metal",
-        "totalDrummers": 10,
+        "totalDrummers": 11,
         "doubleBass": 0,
         "twinSinglePedals": 0,
         "doublePedal": 10,
         "singlePedal": 0,
-        "unspecified": 0
+        "unspecified": 1
       },
       {
         "genre": "Death Metal",
@@ -74,6 +74,24 @@ export const KIT_CONFIGURATIONS = {
         "doublePedal": 5,
         "singlePedal": 1,
         "unspecified": 0
+      },
+      {
+        "genre": "Technical Death Metal",
+        "totalDrummers": 5,
+        "doubleBass": 0,
+        "twinSinglePedals": 0,
+        "doublePedal": 3,
+        "singlePedal": 0,
+        "unspecified": 2
+      },
+      {
+        "genre": "Black Metal",
+        "totalDrummers": 4,
+        "doubleBass": 0,
+        "twinSinglePedals": 0,
+        "doublePedal": 2,
+        "singlePedal": 0,
+        "unspecified": 2
       },
       {
         "genre": "Melodic Death Metal",
@@ -103,25 +121,7 @@ export const KIT_CONFIGURATIONS = {
         "unspecified": 1
       },
       {
-        "genre": "Black Metal",
-        "totalDrummers": 3,
-        "doubleBass": 0,
-        "twinSinglePedals": 0,
-        "doublePedal": 2,
-        "singlePedal": 0,
-        "unspecified": 1
-      },
-      {
         "genre": "Groove Metal",
-        "totalDrummers": 3,
-        "doubleBass": 0,
-        "twinSinglePedals": 0,
-        "doublePedal": 3,
-        "singlePedal": 0,
-        "unspecified": 0
-      },
-      {
-        "genre": "Technical Death Metal",
         "totalDrummers": 3,
         "doubleBass": 0,
         "twinSinglePedals": 0,

@@ -1619,6 +1619,11 @@ export function getMetaForPath(pathname) {
         { name: 'Home', url: BASE_URL },
         { name: 'Techniques', url: `${BASE_URL}/techniques` },
       ],
+      // Issue #5083: FAQPage — hub-FAQ pattern sweep gap.
+      faqSchema: [
+        { question: 'How many drumming techniques does MetalForge cover?', answer: `MetalForge covers ${getAllTechniques().length} essential metal drumming techniques, from blast beats to polyrhythms, each with tempo ranges and the drummers who master them.` },
+        { question: 'Are these techniques ranked by difficulty?', answer: 'No — each technique page includes its own BPM range and a list of drummers known for mastering it, rather than a single difficulty ranking.' },
+      ],
       // Issue #4863: SpeakableSpecification — sweep gap on hub/utility pages.
       speakableSchema: true,
       speakableCssSelector: ['h1', 'h2', 'p'],
@@ -3092,6 +3097,11 @@ export function getMetaForPath(pathname) {
       breadcrumbSchema: [
         { name: 'Home', url: BASE_URL },
         { name: 'Genres', url: `${BASE_URL}/genres` },
+      ],
+      // Issue #5083: FAQPage — hub-FAQ pattern sweep gap.
+      faqSchema: [
+        { question: 'What metal genres does MetalForge cover?', answer: `MetalForge explores drumming across ${getAllGenreSlugs().length} metal genres — from thrash and death to progressive and metalcore — with the drummers and gear that define each style.` },
+        { question: 'Does each genre page list specific drummers?', answer: 'Yes — every genre page lists pioneering and modern drummers associated with that style, along with their gear.' },
       ],
       // Issue #4863: SpeakableSpecification — sweep gap on hub/utility pages.
       speakableSchema: true,

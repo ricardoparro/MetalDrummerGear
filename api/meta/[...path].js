@@ -3770,9 +3770,9 @@ export function getMetaForPath(pathname) {
                   name: drummer.band,
                 },
               } : {}),
-              sameAs: [
-                wikiSource?.url || `https://en.wikipedia.org/wiki/${encodeURIComponent(drummer.name.replace(/ /g, '_'))}`,
-              ],
+              sameAs: drummer.sameAs && drummer.sameAs.length > 0
+                ? drummer.sameAs
+                : [wikiSource?.url || `https://en.wikipedia.org/wiki/${encodeURIComponent(drummer.name.replace(/ /g, '_'))}`],
               knowsAbout: ['Drumming', 'Metal Music', 'Percussion'],
             },
             // Issue #4635: surface extendedBios career highlights + style/influences
@@ -5664,9 +5664,9 @@ export function getMetaForPath(pathname) {
               ...(birthdayEntry?.birthDate ? { birthDate: birthdayEntry.birthDate } : {}),
               ...(birthdayEntry?.deathDate ? { deathDate: birthdayEntry.deathDate } : {}),
               ...(drummer.band ? { memberOf: { '@type': 'MusicGroup', name: drummer.band } } : {}),
-              sameAs: [
-                wikiSource?.url || `https://en.wikipedia.org/wiki/${encodeURIComponent(drummer.name.replace(/ /g, '_'))}`,
-              ],
+              sameAs: drummer.sameAs && drummer.sameAs.length > 0
+                ? drummer.sameAs
+                : [wikiSource?.url || `https://en.wikipedia.org/wiki/${encodeURIComponent(drummer.name.replace(/ /g, '_'))}`],
               knowsAbout: ['Drumming', 'Metal Music', 'Percussion'],
             },
             // Issue #4635: surface extendedBios career highlights + style/influences

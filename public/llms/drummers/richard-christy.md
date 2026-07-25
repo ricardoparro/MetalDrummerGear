@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/richard-christy"
 source: "https://metalforge.io"
-last_updated: "2026-07-14"
+last_updated: "2026-07-25"
 ---
 
 # Richard Christy — Drum Kit & Gear Setup
@@ -98,6 +98,10 @@ A: Richard Christy uses Evans drumheads.
 
 A: Richard Christy recorded with Death from 1996-1999, played with Iced Earth from 2003-2004, and has drummed for his own band, Charred Walls of the Damned, since 2009.
 
+**Q: What hi-hats does Richard Christy use?**
+
+A: Richard Christy plays 14" Sabian AAX Stage Hi-Hats, part of the AAX and HHX cymbal setup he used on Death's The Sound of Perseverance and with Iced Earth.
+
 ## Quotes
 
 > "Playing with Chuck Schuldiner was the greatest musical experience of my life."
@@ -148,4 +152,4 @@ Full breakdown: [Richard Christy's pedal setup](https://metalforge.io/pedals/set
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

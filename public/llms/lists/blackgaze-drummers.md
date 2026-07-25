@@ -1,6 +1,6 @@
 # Top 10 Blackgaze Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-07-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/blackgaze-drummers)
+> **Last updated:** 2026-07-25 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/blackgaze-drummers)
 
 ---
 
@@ -148,4 +148,4 @@ A: Alcest is widely credited as blackgaze's founding band, pioneering the fusion
 
 ---
 
-*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

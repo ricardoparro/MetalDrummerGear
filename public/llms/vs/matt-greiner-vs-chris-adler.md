@@ -10,11 +10,11 @@ August Burns Red's Matt Greiner vs ex-Lamb of God's Chris Adler — jazz-informe
 
 ## Matt Greiner Setup
 
-- **Drums:** Meinl Drum Festival Kit / Greiner & Kilmer Custom
-- **Cymbals:** Meinl Byzance Series (15" Dual Hi-Hats, 18" & 19" Dual Crashes, 21" Transition Ride, 18" Extra Dry China, 10" & 12" Splashes)
-- **Snare:** Greiner & Kilmer Custom 14x6.5" Maple
+- **Drums:** Mapex Black Panther Design Lab
+- **Cymbals:** Paiste Formula 602 (14" Hi-Hats, 16"/17"/18" Crashes, 22" Ride, 18" China, 10" Splash)
+- **Snare:** Mapex Black Panther 14x5.5" Maple
 - **Pedals/Hardware:** DW 9000 Series Double Pedal, DW 9100 Throne
-- **Sticks:** Vic Firth American Classic 5A
+- **Sticks:** Vic Firth Matt Greiner Signature
 
 ## Chris Adler Setup
 
@@ -47,16 +47,16 @@ Matt Greiner and Chris Adler represent two distinct technical schools within mod
 ## FAQ
 
 **Q: What are the main differences between Matt Greiner's and Chris Adler's drum kits?**
-A: Matt Greiner plays Meinl Drum Festival Kit / Greiner & Kilmer Custom with Meinl cymbals, while Chris Adler uses Mapex Black Panther Design Lab with Meinl cymbals. Matt Greiner plays a Pearl Reference Pure kit with his own Pearl Matt Greiner Signature 14x6" Steel snare and Meinl Byzance Series cymbals (15" Dual Hi-Hats, 18" & 19" Extra Dry Medium Crashes, 21" Transition Ride, 18" Extra Dry China), driven by a Pearl Demon Drive double pedal and his own Vic Firth Matt Greiner Signature sticks. Chris Adler played a Mapex Black Panther Design Lab kit with his Mapex Chris Adler Signature 14x5.5" Walnut/Maple snare and Meinl Byzance Series cymbals, including the Extra Dry China that became a Lamb of God sonic signature, driven by a Mapex Falcon double pedal and Promark TX5AXW Chris Adler Signature sticks.
+A: Matt Greiner plays Mapex Black Panther Design Lab with Paiste cymbals, while Chris Adler uses Mapex Black Panther Design Lab with Meinl cymbals. Matt Greiner plays a Pearl Reference Pure kit with his own Pearl Matt Greiner Signature 14x6" Steel snare and Meinl Byzance Series cymbals (15" Dual Hi-Hats, 18" & 19" Extra Dry Medium Crashes, 21" Transition Ride, 18" Extra Dry China), driven by a Pearl Demon Drive double pedal and his own Vic Firth Matt Greiner Signature sticks. Chris Adler played a Mapex Black Panther Design Lab kit with his Mapex Chris Adler Signature 14x5.5" Walnut/Maple snare and Meinl Byzance Series cymbals, including the Extra Dry China that became a Lamb of God sonic signature, driven by a Mapex Falcon double pedal and Promark TX5AXW Chris Adler Signature sticks.
 
 **Q: What drums does Matt Greiner play vs Chris Adler?**
-A: Matt Greiner plays Meinl Drum Festival Kit / Greiner & Kilmer Custom. Chris Adler plays Mapex Black Panther Design Lab.
+A: Matt Greiner plays Mapex Black Panther Design Lab. Chris Adler plays Mapex Black Panther Design Lab.
 
 **Q: Who is the better alternative / nu-metal drummer, Matt Greiner or Chris Adler?**
 A: Both are legends in their own right. Matt Greiner and Chris Adler represent two distinct technical schools within modern American heavy metal. See the full analysis at [metalforge.io/vs/matt-greiner-vs-chris-adler](https://metalforge.io/vs/matt-greiner-vs-chris-adler).
 
 **Q: What cymbals do Matt Greiner and Chris Adler use?**
-A: Matt Greiner uses Meinl Byzance Series (15" Dual Hi-Hats, 18" & 19" Dual Crashes, 21" Transition Ride, 18" Extra Dry China, 10" & 12" Splashes). Chris Adler uses Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Dark Crashes, 21" Transition Ride, 18" Extra Dry China).
+A: Matt Greiner uses Paiste Formula 602 (14" Hi-Hats, 16"/17"/18" Crashes, 22" Ride, 18" China, 10" Splash). Chris Adler uses Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Dark Crashes, 21" Transition Ride, 18" Extra Dry China).
 
 ---
 
@@ -67,4 +67,4 @@ A: Matt Greiner uses Meinl Byzance Series (15" Dual Hi-Hats, 18" & 19" Dual Cras
 
 ---
 
-*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

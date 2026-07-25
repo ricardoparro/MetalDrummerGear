@@ -6,7 +6,7 @@ country: "UK"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/chris-turner"
 source: "https://metalforge.io"
-last_updated: "2026-07-15"
+last_updated: "2026-07-25"
 ---
 
 # Chris Turner — Drum Kit & Gear Setup
@@ -73,6 +73,10 @@ A: Chris Turner is known for his extreme technical precision, viral drumming vid
 
 A: Chris Turner plays a Tama Starclassic Maple/Birch drum kit, the setup behind Oceans Ate Alaska's technical, polyrhythmic metalcore on albums like "Hikari" (2017).
 
+**Q: What drum set does Chris Turner use?**
+
+A: Chris Turner's drum set pairs his Tama Starclassic shells and S.L.P. 14"x5.5" G-Maple snare with a Tama Speed Cobra 910 double pedal mounted on a Tama 1st Chair Throne, giving him the rapid footwork response his polyrhythmic patterns demand.
+
 **Q: What snare does Chris Turner use?**
 
 A: Turner's snare is a Tama S.L.P. 14"x5.5" G-Maple, chosen for a fast, articulate attack that keeps pace with his complex time signatures.
@@ -137,4 +141,4 @@ Full breakdown: [Chris Turner's pedal setup](https://metalforge.io/pedals/setups
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

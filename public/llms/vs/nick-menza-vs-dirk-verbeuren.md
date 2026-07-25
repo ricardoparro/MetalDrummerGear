@@ -22,7 +22,7 @@ Megadeth's Nick Menza (Rust in Peace era) vs Dirk Verbeuren (The Sick, the Dying
 - **Cymbals:** Zildjian A Custom & K Custom Series (14" A Custom Hi-Hats, 17", 18", 19" A Custom Crashes, 21" K Custom Hybrid Ride, 18" K China)
 - **Snare:** Tama S.L.P. Big Black Steel 14x6.5"
 - **Pedals/Hardware:** Tama Speed Cobra 910 Double Pedal, Tama Iron Cobra Hi-Hat Stand
-- **Sticks:** Promark Shira Kashi Oak 5B
+- **Sticks:** Tama O-DVM2 Dirk Verbeuren Signature
 
 ## Playing Style
 
@@ -67,4 +67,4 @@ A: Nick Menza uses Zildjian A Series (14" A Hi-Hats, 16" & 18" A Crash, 20" A Ri
 
 ---
 
-*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

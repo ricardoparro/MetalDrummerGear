@@ -1,6 +1,6 @@
 # Top 10 Left-Handed & Open-Handed Metal Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-07-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-left-handed-metal-drummers)
+> **Last updated:** 2026-07-25 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-left-handed-metal-drummers)
 
 ---
 
@@ -150,4 +150,4 @@ A: Left-handed means a drummer's natural dominant hand is the left — Bill Ward
 
 ---
 
-*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

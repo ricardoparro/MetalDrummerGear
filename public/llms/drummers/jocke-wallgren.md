@@ -6,7 +6,7 @@ country: "Sweden"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/jocke-wallgren"
 source: "https://metalforge.io"
-last_updated: "2026-07-14"
+last_updated: "2026-07-25"
 ---
 
 # Jocke Wallgren — Drum Kit & Gear Setup
@@ -93,6 +93,10 @@ A: Jocke Wallgren uses Vic Firth American Classic 5B drumsticks.
 
 A: Jocke Wallgren uses Evans drumheads across his Pearl Reference Pure kit.
 
+**Q: Who did Jocke Wallgren replace in Amon Amarth?**
+
+A: Jocke Wallgren joined Amon Amarth in 2016, replacing longtime drummer Fredrik Andersson, and made his studio debut on Jomsviking (2016) before recording Berserker (2019) and The Great Heathen Army (2022).
+
 ## Gear Evolution Timeline
 
 Jocke Wallgren's complete drum gear evolution — from the undocumented Swedish underground and Valkyria years through the Pearl Reference Pure / Zildjian A Custom & K Custom rig behind Amon Amarth's "Jomsviking" (2016), "Berserker" (2019), and "The Great Heathen Army" (2022) — is tracked era-by-era: [Jocke Wallgren Gear Evolution Timeline](https://metalforge.io/drummers/jocke-wallgren/evolution) ([markdown version](/llms/evolution/jocke-wallgren.md)).
@@ -136,4 +140,4 @@ Full breakdown: [Jocke Wallgren's pedal setup](https://metalforge.io/pedals/setu
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

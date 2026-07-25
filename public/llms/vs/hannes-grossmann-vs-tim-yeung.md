@@ -67,4 +67,4 @@ A: Hannes Grossmann uses Meinl Byzance Series (14" Byzance Traditional Hi-Hats, 
 
 ---
 
-*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

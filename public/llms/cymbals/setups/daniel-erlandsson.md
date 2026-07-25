@@ -39,4 +39,4 @@ A: Daniel Erlandsson plays Paiste cymbals: 14" RUDE Hi-Hats, 18" RUDE Crash, 19"
 
 ---
 
-*Last updated: 2026-07-13 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

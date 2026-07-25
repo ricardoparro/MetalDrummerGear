@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "DW"
 profile_url: "https://metalforge.io/drummer/navene-koperweis"
 source: "https://metalforge.io"
-last_updated: "2026-07-14"
+last_updated: "2026-07-25"
 ---
 
 # Navene Koperweis — Drum Kit & Gear Setup
@@ -97,6 +97,10 @@ A: Navene Koperweis uses Evans drumheads across his DW Performance kit.
 
 A: Navene Koperweis founded Entheos in 2015 and previously drummed for Animals as Leaders (2010-2012) and Animosity (2003-2008). He has also served as a session drummer for Machine Head since 2021.
 
+**Q: What other projects has Navene Koperweis worked on?**
+
+A: Beyond Entheos and Animals as Leaders, Navene Koperweis runs his own technical death metal project Fleshwrought, playing every instrument himself, produces electronic music under the name "Navene K," and has served as a session drummer for Machine Head since 2021.
+
 ## Signature Licks on MetalForge
 
 MetalForge has 3 signature lick tutorial(s) for Navene Koperweis:
@@ -138,4 +142,4 @@ Full breakdown: [Navene Koperweis's pedal setup](https://metalforge.io/pedals/se
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

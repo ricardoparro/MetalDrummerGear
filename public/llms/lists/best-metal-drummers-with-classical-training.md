@@ -1,6 +1,6 @@
 # Top 10 Metal Drummers with Classical & Formal Music Training — Complete Ranked Guide
 
-> **Last updated:** 2026-07-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-metal-drummers-with-classical-training)
+> **Last updated:** 2026-07-25 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-metal-drummers-with-classical-training)
 
 ---
 
@@ -150,4 +150,4 @@ A: Berklee College of Music, a leading American music school, has produced or em
 
 ---
 
-*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

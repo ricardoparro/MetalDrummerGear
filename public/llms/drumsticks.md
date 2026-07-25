@@ -2,7 +2,7 @@
 
 This page indexes every verified signature or artist-endorsed drumstick model catalogued in MetalForge's drumsticks database — 30 entries, each sourced from a brand or retailer page and cross-referenced to the drummer who plays it.
 
-> Last Updated: 2026-07-16 · Source: https://metalforge.io
+> Last Updated: 2026-07-25 · Source: https://metalforge.io
 
 For sizing, material, and tip-shape reference pages see the Reference Guides section below. For the ranked top-10 view see [/llms/lists/metal-drummers-signature-drumstick-models.md](https://metalforge.io/llms/lists/metal-drummers-signature-drumstick-models.md).
 

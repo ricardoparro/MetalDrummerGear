@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Mapex"
 profile_url: "https://metalforge.io/drummer/jason-bittner"
 source: "https://metalforge.io"
-last_updated: "2026-07-14"
+last_updated: "2026-07-25"
 ---
 
 # Jason Bittner — Drum Kit & Gear Setup
@@ -96,6 +96,10 @@ A: Jason Bittner uses Evans drumheads across his Mapex Saturn V kit.
 
 A: Jason Bittner has drummed for Overkill since 2017, and previously drummed for Shadows Fall (1999-2015) and Flotsam and Jetsam (2013-2017).
 
+**Q: What hi-hats does Jason Bittner use?**
+
+A: Jason Bittner plays 14" Zildjian K Hi-Hats, part of the K and A Custom cymbal setup he has used across Shadows Fall's The War Within and his ongoing tenure with Overkill.
+
 ## Quotes
 
 > "Berklee taught me discipline, but the road taught me how to play metal."
@@ -146,4 +150,4 @@ Full breakdown: [Jason Bittner's pedal setup](https://metalforge.io/pedals/setup
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

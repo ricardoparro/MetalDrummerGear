@@ -10,11 +10,11 @@ August Burns Red's Matt Greiner vs Nile's George Kollias — jazz-informed metal
 
 ## Matt Greiner Setup
 
-- **Drums:** Meinl Drum Festival Kit / Greiner & Kilmer Custom
-- **Cymbals:** Meinl Byzance Series (15" Dual Hi-Hats, 18" & 19" Dual Crashes, 21" Transition Ride, 18" Extra Dry China, 10" & 12" Splashes)
-- **Snare:** Greiner & Kilmer Custom 14x6.5" Maple
+- **Drums:** Mapex Black Panther Design Lab
+- **Cymbals:** Paiste Formula 602 (14" Hi-Hats, 16"/17"/18" Crashes, 22" Ride, 18" China, 10" Splash)
+- **Snare:** Mapex Black Panther 14x5.5" Maple
 - **Pedals/Hardware:** DW 9000 Series Double Pedal, DW 9100 Throne
-- **Sticks:** Vic Firth American Classic 5A
+- **Sticks:** Vic Firth Matt Greiner Signature
 
 ## George Kollias Setup
 
@@ -47,16 +47,16 @@ Matt Greiner and George Kollias push different extremes of technical drumming. G
 ## FAQ
 
 **Q: What are the main differences between Matt Greiner's and George Kollias's drum kits?**
-A: Matt Greiner plays Meinl Drum Festival Kit / Greiner & Kilmer Custom with Meinl cymbals, while George Kollias uses Pearl Masterworks Stadium Exotic (Piano Black with Gold Hardware) with Zildjian cymbals. Matt Greiner plays a Pearl Reference Pure kit with his own Pearl Matt Greiner Signature 14x6" Steel snare and Meinl Byzance Series cymbals (15" Dual Hi-Hats, 18" & 19" Extra Dry Medium Crashes, 21" Transition Ride, 18" Extra Dry China), driven by a Pearl Demon Drive double pedal and his own Vic Firth Matt Greiner Signature sticks. George Kollias plays a Pearl Masterworks Stadium Exotic kit finished in Piano Black with Gold Hardware, anchored by his 14x6.5" Pearl George Kollias Signature snare and Zildjian cymbals (14" K Mastersound Hi-Hats, 17" & 18" K Custom Dark Crashes, 21" A Custom Mega Bell Ride, 18" China), powered by the Pearl Demon XR double pedal he co-designed and his own Vic Firth George Kollias Signature SGK sticks.
+A: Matt Greiner plays Mapex Black Panther Design Lab with Paiste cymbals, while George Kollias uses Pearl Masterworks Stadium Exotic (Piano Black with Gold Hardware) with Zildjian cymbals. Matt Greiner plays a Pearl Reference Pure kit with his own Pearl Matt Greiner Signature 14x6" Steel snare and Meinl Byzance Series cymbals (15" Dual Hi-Hats, 18" & 19" Extra Dry Medium Crashes, 21" Transition Ride, 18" Extra Dry China), driven by a Pearl Demon Drive double pedal and his own Vic Firth Matt Greiner Signature sticks. George Kollias plays a Pearl Masterworks Stadium Exotic kit finished in Piano Black with Gold Hardware, anchored by his 14x6.5" Pearl George Kollias Signature snare and Zildjian cymbals (14" K Mastersound Hi-Hats, 17" & 18" K Custom Dark Crashes, 21" A Custom Mega Bell Ride, 18" China), powered by the Pearl Demon XR double pedal he co-designed and his own Vic Firth George Kollias Signature SGK sticks.
 
 **Q: What drums does Matt Greiner play vs George Kollias?**
-A: Matt Greiner plays Meinl Drum Festival Kit / Greiner & Kilmer Custom. George Kollias plays Pearl Masterworks Stadium Exotic (Piano Black with Gold Hardware).
+A: Matt Greiner plays Mapex Black Panther Design Lab. George Kollias plays Pearl Masterworks Stadium Exotic (Piano Black with Gold Hardware).
 
 **Q: Who is the better extreme / death / black metal drummer, Matt Greiner or George Kollias?**
 A: Both are legends in their own right. Matt Greiner and George Kollias push different extremes of technical drumming. See the full analysis at [metalforge.io/vs/matt-greiner-vs-george-kollias](https://metalforge.io/vs/matt-greiner-vs-george-kollias).
 
 **Q: What cymbals do Matt Greiner and George Kollias use?**
-A: Matt Greiner uses Meinl Byzance Series (15" Dual Hi-Hats, 18" & 19" Dual Crashes, 21" Transition Ride, 18" Extra Dry China, 10" & 12" Splashes). George Kollias uses Zildjian (14" K Mastersound Hi-Hats, 17" & 18" K Custom Dark Crashes, 21" A Custom Mega Bell Ride, 18" China).
+A: Matt Greiner uses Paiste Formula 602 (14" Hi-Hats, 16"/17"/18" Crashes, 22" Ride, 18" China, 10" Splash). George Kollias uses Zildjian (14" K Mastersound Hi-Hats, 17" & 18" K Custom Dark Crashes, 21" A Custom Mega Bell Ride, 18" China).
 
 ---
 
@@ -67,4 +67,4 @@ A: Matt Greiner uses Meinl Byzance Series (15" Dual Hi-Hats, 18" & 19" Dual Cras
 
 ---
 
-*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

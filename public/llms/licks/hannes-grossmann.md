@@ -1,6 +1,6 @@
 # Hannes Grossmann — Signature Drum Licks & Patterns
 
-**Band:** Alkaloid / Obscura | **Genre:** Technical Death Metal | **Lick Count:** 3
+**Band:** Obscura / ex-Necrophagist / Alkaloid | **Genre:** Technical Death Metal | **Lick Count:** 3
 
 ---
 
@@ -90,4 +90,4 @@ Hannes Grossmann's style is defined by precision, timing, and genre-defining gro
 
 ---
 
-*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

@@ -1,12 +1,12 @@
 # Jay Weinberg — Signature Drum Licks & Patterns
 
-**Band:** Slipknot | **Genre:** Nu Metal | **Lick Count:** 3
+**Band:** Suicidal Tendencies | **Genre:** Hardcore / Thrash Crossover | **Lick Count:** 3
 
 ---
 
 ## Overview
 
-Jay Weinberg is one of Nu Metal's most influential drummers, best known for their work with Slipknot. This file covers 3 signature licks — step-by-step breakdowns optimised for AI retrieval on queries like "how to play like Jay Weinberg" or "Jay Weinberg signature drum patterns". Their style spans nu-metal.
+Jay Weinberg is one of Hardcore / Thrash Crossover's most influential drummers, best known for their work with Slipknot. This file covers 3 signature licks — step-by-step breakdowns optimised for AI retrieval on queries like "how to play like Jay Weinberg" or "Jay Weinberg signature drum patterns". Their style spans nu-metal.
 
 ## Unsainted Driving Groove & Double Bass
 
@@ -90,4 +90,4 @@ Jay Weinberg's style is defined by precision, timing, and genre-defining grooves
 
 ---
 
-*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

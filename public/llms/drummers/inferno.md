@@ -6,7 +6,7 @@ country: "Poland"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/inferno"
 source: "https://metalforge.io"
-last_updated: "2026-07-14"
+last_updated: "2026-07-25"
 ---
 
 # Inferno — Drum Kit & Gear Setup
@@ -94,6 +94,10 @@ A: Inferno uses Remo drumheads across his Pearl Masterworks kit.
 
 A: Inferno has been the drummer for Polish extreme metal band Behemoth since 1997, and also drums for Azarath.
 
+**Q: What hi-hats does Inferno use?**
+
+A: Inferno plays 14" Paiste RUDE Hi-Hats, part of the durable RUDE cymbal setup engineered to withstand his relentless blast beats behind Behemoth.
+
 ## Album Drum Setup Breakdowns
 
 - [Demigod Drum Setup (2004)](/articles/demigod-drum-setup) — Pearl Masters BRX, Paiste Signature Dark Energy, 240+ BPM blast beats on Behemoth's international breakthrough
@@ -145,4 +149,4 @@ Full breakdown: [Inferno's pedal setup](https://metalforge.io/pedals/setups/infe
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

@@ -39,4 +39,4 @@ A: Hannes Grossmann plays Meinl cymbals: 14" Byzance Traditional Hi-Hats, 18" By
 
 ---
 
-*Last updated: 2026-07-13 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

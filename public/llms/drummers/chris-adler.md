@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Mapex"
 profile_url: "https://metalforge.io/drummer/chris-adler"
 source: "https://metalforge.io"
-last_updated: "2026-07-14"
+last_updated: "2026-07-25"
 ---
 
 # Chris Adler — Drum Kit & Gear Setup
@@ -95,6 +95,10 @@ A: Chris Adler uses Evans drumheads.
 
 A: Chris Adler was co-founder and drummer of Lamb of God from 1994-2019, briefly played with Megadeth (2015-2016), and now drums for Firstborne, formed in 2020.
 
+**Q: What hi-hats does Chris Adler use?**
+
+A: Chris Adler plays 14" Meinl Byzance Dark Hi-Hats, part of the Byzance cymbal setup he used throughout Lamb of God's Ashes of the Wake, Sacrament, and Wrath era.
+
 ## Signature Licks on MetalForge
 
 MetalForge has 6 signature lick tutorial(s) for Chris Adler:
@@ -138,4 +142,4 @@ Full breakdown: [Chris Adler's pedal setup](https://metalforge.io/pedals/setups/
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

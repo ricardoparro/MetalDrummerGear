@@ -1,6 +1,6 @@
 # Adrian Erlandsson vs Martin Axenrot — Drum Kit Comparison
 
-> Side-by-side gear comparison between Adrian Erlandsson and Martin Axenrot (Opeth).
+> Side-by-side gear comparison between Adrian Erlandsson (At the Gates) and Martin Axenrot (Opeth).
 
 **Category:** Extreme / Death / Black Metal · **URL:** https://metalforge.io/vs/adrian-erlandsson-vs-martin-axenrot
 
@@ -10,7 +10,11 @@ At the Gates' Adrian Erlandsson vs Opeth's Martin Axenrot — Gothenburg melodic
 
 ## Adrian Erlandsson Setup
 
-- **Drums:** See [Adrian Erlandsson profile](https://metalforge.io/drummer/adrian-erlandsson)
+- **Drums:** Tama Starclassic Bubinga
+- **Cymbals:** Sabian AAX/HHX Series (15" HHX Xcelerator Hi-Hats, 20" AAX Iso Crash, 19" AAX Paragon China)
+- **Snare:** Tama Starclassic Bubinga 14x6.5"
+- **Pedals/Hardware:** Monolit Czarcie Kopyto Double Pedal
+- **Sticks:** Vic Firth American Classic Rock Nylon Tip (ROCKN)
 
 ## Martin Axenrot Setup
 
@@ -43,10 +47,16 @@ Adrian Erlandsson and Martin Axenrot represent Swedish extreme metal drumming fr
 ## FAQ
 
 **Q: What are the main differences between Adrian Erlandsson's and Martin Axenrot's drum kits?**
-A: Adrian Erlandsson plays custom drums with signature cymbals cymbals, while Martin Axenrot uses Sonor SQ2 Series with Meinl cymbals. Adrian Erlandsson tracked "Slaughter of the Soul" on a budget Pearl Export-style birch kit with Zildjian A-Series cymbals anchored by an 18" China, and now plays a Tama Starclassic Bubinga kit with a Tama Starclassic Bubinga 14x6.5" snare and Sabian AAX/HHX Series cymbals, driven by a Monolit Czarcie Kopyto double pedal and his own Vic Firth Adrian Erlandsson Signature sticks. Martin Axenrot plays a Sonor SQ2 Series kit built around twin 22"x18" bass drums and a Sonor SQ2 14"x5.75" Maple snare, with Meinl Byzance cymbals (14" Traditional Medium Hi-Hats, 16"/18"/19" Crashes, 22" Traditional Ride, 18" China), a Tama Iron Cobra double pedal, and Vic Firth American Classic 5B sticks.
+A: Adrian Erlandsson plays Tama Starclassic Bubinga with Sabian cymbals, while Martin Axenrot uses Sonor SQ2 Series with Meinl cymbals. Adrian Erlandsson tracked "Slaughter of the Soul" on a budget Pearl Export-style birch kit with Zildjian A-Series cymbals anchored by an 18" China, and now plays a Tama Starclassic Bubinga kit with a Tama Starclassic Bubinga 14x6.5" snare and Sabian AAX/HHX Series cymbals, driven by a Monolit Czarcie Kopyto double pedal and his own Vic Firth Adrian Erlandsson Signature sticks. Martin Axenrot plays a Sonor SQ2 Series kit built around twin 22"x18" bass drums and a Sonor SQ2 14"x5.75" Maple snare, with Meinl Byzance cymbals (14" Traditional Medium Hi-Hats, 16"/18"/19" Crashes, 22" Traditional Ride, 18" China), a Tama Iron Cobra double pedal, and Vic Firth American Classic 5B sticks.
+
+**Q: What drums does Adrian Erlandsson play vs Martin Axenrot?**
+A: Adrian Erlandsson plays Tama Starclassic Bubinga. Martin Axenrot plays Sonor SQ2 Series.
 
 **Q: Who is the better extreme / death / black metal drummer, Adrian Erlandsson or Martin Axenrot?**
 A: Both are legends in their own right. Adrian Erlandsson and Martin Axenrot represent Swedish extreme metal drumming from two generations and two philosophies. See the full analysis at [metalforge.io/vs/adrian-erlandsson-vs-martin-axenrot](https://metalforge.io/vs/adrian-erlandsson-vs-martin-axenrot).
+
+**Q: What cymbals do Adrian Erlandsson and Martin Axenrot use?**
+A: Adrian Erlandsson uses Sabian AAX/HHX Series (15" HHX Xcelerator Hi-Hats, 20" AAX Iso Crash, 19" AAX Paragon China). Martin Axenrot uses Meinl Byzance Series (14" Traditional Medium Hi-Hats, 16" & 18" & 19" Crashes, 22" Traditional Ride, 18" China).
 
 ---
 
@@ -57,4 +67,4 @@ A: Both are legends in their own right. Adrian Erlandsson and Martin Axenrot rep
 
 ---
 
-*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

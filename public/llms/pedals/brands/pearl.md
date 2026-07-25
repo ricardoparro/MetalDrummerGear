@@ -46,4 +46,4 @@ Source: [Pearl Drums — Wikipedia (company history)](https://en.wikipedia.org/w
 
 ---
 
-*Last updated: 2026-07-16 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

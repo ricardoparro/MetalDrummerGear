@@ -1,6 +1,6 @@
 # Top 10 Jazz Fusion Metal Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-07-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/jazz-fusion-metal-drummers)
+> **Last updated:** 2026-07-25 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/jazz-fusion-metal-drummers)
 
 ---
 
@@ -148,4 +148,4 @@ A: Cynic is widely credited as jazz fusion metal's defining band, Sean Reinert's
 
 ---
 
-*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/sean-reinert"
 source: "https://metalforge.io"
-last_updated: "2026-07-14"
+last_updated: "2026-07-25"
 ---
 
 # Sean Reinert — Drum Kit & Gear Setup
@@ -75,6 +75,22 @@ A: Sean Reinert co-founded Cynic in 1987 with guitarist/vocalist Paul Masvidal i
 
 A: Sean Reinert passed away on January 24, 2020, one day after his 49th birthday.
 
+**Q: What drum set did Sean Reinert use?**
+
+A: Sean Reinert's Human/Focus-era drum set was a DW Collector's Series maple shell pack — a 22" kick and 10"/12"/13"/14"/16" toms — built around a DW Collector's 14"x5.5" maple snare with die-cast hoops. He upgraded to a DW Collector's maple shell pack and Zildjian K Custom cymbals for Cynic's 2008 reunion album, Traced in Air.
+
+**Q: What cymbals did Sean Reinert use?**
+
+A: Sean Reinert used Zildjian A Series cymbals on Death's Human (1991), then switched to the darker Zildjian K Series for Cynic's Focus (1993), before upgrading to Zildjian K Custom cymbals for Cynic's 2008 reunion album, Traced in Air.
+
+**Q: What snare drum did Sean Reinert use?**
+
+A: Sean Reinert played a DW Collector's 14"x5.5" maple snare with die-cast hoops, tuned higher and more open for Cynic's Focus to suit the album's jazz-fusion textures.
+
+**Q: What bass drum pedal did Sean Reinert use?**
+
+A: Sean Reinert used a DW 5000 single-chain double pedal, applying a fluid, fusion-informed double-bass technique rather than the brute-force approach common among his death metal peers.
+
 ## Signature Licks on MetalForge
 
 MetalForge has 3 signature lick tutorial(s) for Sean Reinert:
@@ -116,4 +132,4 @@ Full breakdown: [Sean Reinert's pedal setup](https://metalforge.io/pedals/setups
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

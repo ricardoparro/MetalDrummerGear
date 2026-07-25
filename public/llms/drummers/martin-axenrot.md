@@ -6,7 +6,7 @@ country: "Sweden"
 primary_brand: "Sonor"
 profile_url: "https://metalforge.io/drummer/martin-axenrot"
 source: "https://metalforge.io"
-last_updated: "2026-07-14"
+last_updated: "2026-07-25"
 ---
 
 # Martin Axenrot — Drum Kit & Gear Setup
@@ -78,6 +78,22 @@ A: Martin Axenrot drums for Opeth (since 2006) and death metal supergroup Bloodb
 
 A: Martin Axenrot joined Opeth in 2006, replacing Martin Lopez, and made his studio debut with the band on Watershed (2008).
 
+**Q: What drum set does Martin Axenrot use?**
+
+A: Martin Axenrot's drum set is a Sonor SQ2 Series build with twin 22"x18" bass drums — a departure from Martin Lopez's single-kick rig — anchored by a Sonor SQ2 14"x5.75" maple snare and Meinl Byzance Series cymbals.
+
+**Q: What snare drum does Martin Axenrot use?**
+
+A: Martin Axenrot plays a Sonor SQ2 14"x5.75" maple snare drum.
+
+**Q: What pedals does Martin Axenrot use?**
+
+A: Martin Axenrot drives his twin-bass-drum Sonor SQ2 kit with a Tama Iron Cobra double pedal.
+
+**Q: What sticks does Martin Axenrot use?**
+
+A: Martin Axenrot plays Vic Firth American Classic 5B drumsticks.
+
 ## Album Drum Setup Articles
 
 MetalForge has detailed drum setup breakdowns for Martin Axenrot's Opeth recordings:
@@ -127,4 +143,4 @@ Full breakdown: [Martin Axenrot's pedal setup](https://metalforge.io/pedals/setu
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

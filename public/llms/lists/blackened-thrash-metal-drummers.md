@@ -1,6 +1,6 @@
 # Top 10 Blackened Thrash Metal Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-07-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/blackened-thrash-metal-drummers)
+> **Last updated:** 2026-07-25 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/blackened-thrash-metal-drummers)
 
 ---
 
@@ -150,4 +150,4 @@ A: Venom is universally credited as blackened thrash's founding band, its 1982 a
 
 ---
 
-*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

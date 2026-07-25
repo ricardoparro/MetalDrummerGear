@@ -1,12 +1,12 @@
 # Scott Travis — Signature Drum Licks & Patterns
 
-**Band:** Judas Priest | **Genre:** Heavy Metal / Power Metal | **Lick Count:** 3
+**Band:** Judas Priest | **Genre:** Heavy Metal / Thrash Metal | **Lick Count:** 3
 
 ---
 
 ## Overview
 
-Scott Travis is one of Heavy Metal / Power Metal's most influential drummers, best known for their work with Judas Priest. This file covers 3 signature licks — step-by-step breakdowns optimised for AI retrieval on queries like "how to play like Scott Travis" or "Scott Travis signature drum patterns". Their style spans heavy-metal.
+Scott Travis is one of Heavy Metal / Thrash Metal's most influential drummers, best known for their work with Judas Priest. This file covers 3 signature licks — step-by-step breakdowns optimised for AI retrieval on queries like "how to play like Scott Travis" or "Scott Travis signature drum patterns". Their style spans heavy-metal.
 
 ## Painkiller Double-Bass Intro & Assault
 
@@ -90,4 +90,4 @@ Scott Travis's style is defined by precision, timing, and genre-defining grooves
 
 ---
 
-*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

@@ -1,6 +1,6 @@
 # Daniel Erlandsson vs Adrian Erlandsson — Drum Kit Comparison
 
-> Side-by-side gear comparison between Daniel Erlandsson (Arch Enemy) and Adrian Erlandsson.
+> Side-by-side gear comparison between Daniel Erlandsson (Arch Enemy) and Adrian Erlandsson (At the Gates).
 
 **Category:** Extreme / Death / Black Metal · **URL:** https://metalforge.io/vs/daniel-erlandsson-vs-adrian-erlandsson
 
@@ -18,7 +18,11 @@ Arch Enemy's Daniel Erlandsson vs At the Gates/The Haunted's Adrian Erlandsson. 
 
 ## Adrian Erlandsson Setup
 
-- **Drums:** See [Adrian Erlandsson profile](https://metalforge.io/drummer/adrian-erlandsson)
+- **Drums:** Tama Starclassic Bubinga
+- **Cymbals:** Sabian AAX/HHX Series (15" HHX Xcelerator Hi-Hats, 20" AAX Iso Crash, 19" AAX Paragon China)
+- **Snare:** Tama Starclassic Bubinga 14x6.5"
+- **Pedals/Hardware:** Monolit Czarcie Kopyto Double Pedal
+- **Sticks:** Vic Firth American Classic Rock Nylon Tip (ROCKN)
 
 ## Playing Style
 
@@ -43,10 +47,16 @@ The Erlandsson brothers represent Swedish melodic death metal from two distinct 
 ## FAQ
 
 **Q: What are the main differences between Daniel Erlandsson's and Adrian Erlandsson's drum kits?**
-A: Daniel Erlandsson plays Pearl Reference Pure with Paiste cymbals, while Adrian Erlandsson uses custom drums with signature cymbals cymbals. Daniel Erlandsson endorses Pearl drums, playing Pearl Reference Series or Masters Maple with Zildjian cymbals — a clean, articulate setup that serves Arch Enemy's high-production recording and global touring demands. His double pedal setup emphasizes consistency and power across extended live sets. Adrian Erlandsson has endorsed various setups throughout his career, including Tama drums with Zildjian cymbals during his At the Gates and Haunted years — a setup that prioritized raw attack and aggressive projection suited to the more punk-inflected energy of Gothenburg's earliest wave.
+A: Daniel Erlandsson plays Pearl Reference Pure with Paiste cymbals, while Adrian Erlandsson uses Tama Starclassic Bubinga with Sabian cymbals. Daniel Erlandsson endorses Pearl drums, playing Pearl Reference Series or Masters Maple with Zildjian cymbals — a clean, articulate setup that serves Arch Enemy's high-production recording and global touring demands. His double pedal setup emphasizes consistency and power across extended live sets. Adrian Erlandsson has endorsed various setups throughout his career, including Tama drums with Zildjian cymbals during his At the Gates and Haunted years — a setup that prioritized raw attack and aggressive projection suited to the more punk-inflected energy of Gothenburg's earliest wave.
+
+**Q: What drums does Daniel Erlandsson play vs Adrian Erlandsson?**
+A: Daniel Erlandsson plays Pearl Reference Pure. Adrian Erlandsson plays Tama Starclassic Bubinga.
 
 **Q: Who is the better extreme / death / black metal drummer, Daniel Erlandsson or Adrian Erlandsson?**
 A: Both are legends in their own right. The Erlandsson brothers represent Swedish melodic death metal from two distinct but complementary perspectives. See the full analysis at [metalforge.io/vs/daniel-erlandsson-vs-adrian-erlandsson](https://metalforge.io/vs/daniel-erlandsson-vs-adrian-erlandsson).
+
+**Q: What cymbals do Daniel Erlandsson and Adrian Erlandsson use?**
+A: Daniel Erlandsson uses Paiste RUDE & 2002 Series (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 22" RUDE Power Ride). Adrian Erlandsson uses Sabian AAX/HHX Series (15" HHX Xcelerator Hi-Hats, 20" AAX Iso Crash, 19" AAX Paragon China).
 
 ---
 
@@ -57,4 +67,4 @@ A: Both are legends in their own right. The Erlandsson brothers represent Swedis
 
 ---
 
-*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

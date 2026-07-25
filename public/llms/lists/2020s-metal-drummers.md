@@ -1,6 +1,6 @@
 # Top 10 Metal Drummers of the 2020s — Complete Ranked Guide
 
-> **Last updated:** 2026-07-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/2020s-metal-drummers)
+> **Last updated:** 2026-07-25 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/2020s-metal-drummers)
 
 ---
 
@@ -145,4 +145,4 @@ A: The most notable 2020s metal drumming releases so far include Megadeth's "The
 
 ---
 
-*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

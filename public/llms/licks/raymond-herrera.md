@@ -1,12 +1,12 @@
 # Raymond Herrera — Signature Drum Licks & Patterns
 
-**Band:** Fear Factory | **Genre:** Industrial Metal / Groove Metal | **Lick Count:** 3
+**Band:** Fear Factory / Arkaea / Brujeria | **Genre:** Industrial Metal / Death Metal | **Lick Count:** 3
 
 ---
 
 ## Overview
 
-Raymond Herrera is one of Industrial Metal / Groove Metal's most influential drummers, best known for their work with Fear Factory. This file covers 3 signature licks — step-by-step breakdowns optimised for AI retrieval on queries like "how to play like Raymond Herrera" or "Raymond Herrera signature drum patterns". Their style spans industrial-metal.
+Raymond Herrera is one of Industrial Metal / Death Metal's most influential drummers, best known for their work with Fear Factory. This file covers 3 signature licks — step-by-step breakdowns optimised for AI retrieval on queries like "how to play like Raymond Herrera" or "Raymond Herrera signature drum patterns". Their style spans industrial-metal.
 
 ## Replica Machine-Gun Double Bass
 
@@ -90,4 +90,4 @@ Raymond Herrera's style is defined by precision, timing, and genre-defining groo
 
 ---
 
-*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

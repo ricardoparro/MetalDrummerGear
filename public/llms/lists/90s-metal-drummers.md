@@ -1,6 +1,6 @@
 # Top 10 Metal Drummers of the 1990s — Complete Ranked Guide
 
-> **Last updated:** 2026-07-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/90s-metal-drummers)
+> **Last updated:** 2026-07-25 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/90s-metal-drummers)
 
 ---
 
@@ -141,4 +141,4 @@ A: The defining 90s metal drumming albums include: Morbid Angel's Covenant (1993
 
 ---
 
-*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

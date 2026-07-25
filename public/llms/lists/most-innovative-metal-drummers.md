@@ -1,6 +1,6 @@
 # 10 Most Innovative Metal Drummers of All Time — Complete Ranked Guide
 
-> **Last updated:** 2026-07-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/most-innovative-metal-drummers)
+> **Last updated:** 2026-07-25 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/most-innovative-metal-drummers)
 
 ---
 
@@ -173,4 +173,4 @@ A: Neil Peart's influence on metal drumming — particularly progressive metal �
 
 ---
 
-*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

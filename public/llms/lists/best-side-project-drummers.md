@@ -1,6 +1,6 @@
 # Top 10 Metal Drummers with the Best Side Projects — Complete Ranked Guide
 
-> **Last updated:** 2026-07-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-side-project-drummers)
+> **Last updated:** 2026-07-25 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-side-project-drummers)
 
 ---
 
@@ -150,4 +150,4 @@ A: Side projects let drummers explore sounds, genres, or creative relationships 
 
 ---
 
-*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

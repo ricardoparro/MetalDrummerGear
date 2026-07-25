@@ -14,7 +14,7 @@ Aquiles Priester (Angra) vs Blake Richardson (Between the Buried and Me): Brazil
 - **Cymbals:** Sabian HHX & AAX Series (14" HHX Evolution Hi-Hats, 18" & 19" HHX X-Plosion Crashes, 21" HHX Groove Ride, 18" AAX Chinese)
 - **Snare:** Pearl Reference 14x6.5" Brass
 - **Pedals/Hardware:** Pearl Demon Drive Double Pedal, Pearl Icon Rack System
-- **Sticks:** Vic Firth Aquiles Priester Signature
+- **Sticks:** Promark TX419W Aquiles Priester Autograph
 
 ## Blake Richardson Setup
 
@@ -67,4 +67,4 @@ A: Aquiles Priester uses Sabian HHX & AAX Series (14" HHX Evolution Hi-Hats, 18"
 
 ---
 
-*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

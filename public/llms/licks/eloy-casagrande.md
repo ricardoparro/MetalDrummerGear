@@ -1,12 +1,12 @@
 # Eloy Casagrande — Signature Drum Licks & Patterns
 
-**Band:** Sepultura | **Genre:** Groove Metal / Thrash Metal | **Lick Count:** 3
+**Band:** Slipknot | **Genre:** Nu Metal / Thrash Metal | **Lick Count:** 3
 
 ---
 
 ## Overview
 
-Eloy Casagrande is one of Groove Metal / Thrash Metal's most influential drummers, best known for their work with Sepultura. This file covers 3 signature licks — step-by-step breakdowns optimised for AI retrieval on queries like "how to play like Eloy Casagrande" or "Eloy Casagrande signature drum patterns". Their style spans groove-metal, thrash-metal.
+Eloy Casagrande is one of Nu Metal / Thrash Metal's most influential drummers, best known for their work with Sepultura. This file covers 3 signature licks — step-by-step breakdowns optimised for AI retrieval on queries like "how to play like Eloy Casagrande" or "Eloy Casagrande signature drum patterns". Their style spans groove-metal, thrash-metal.
 
 ## Means To An End Groove
 
@@ -90,4 +90,4 @@ Eloy Casagrande's style is defined by precision, timing, and genre-defining groo
 
 ---
 
-*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

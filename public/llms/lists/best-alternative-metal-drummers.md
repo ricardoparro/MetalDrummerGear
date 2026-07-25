@@ -1,6 +1,6 @@
 # 10 Best Alternative Metal Drummers of All Time — Complete Ranked Guide
 
-> **Last updated:** 2026-07-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-alternative-metal-drummers)
+> **Last updated:** 2026-07-25 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-alternative-metal-drummers)
 
 ---
 
@@ -170,4 +170,4 @@ A: Alternative metal drummers favor versatile, road-tested kits built for both h
 
 ---
 
-*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

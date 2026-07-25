@@ -1,6 +1,6 @@
 # Top 10 Metal Drummers of the 2010s — Complete Ranked Guide
 
-> **Last updated:** 2026-07-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/2010s-metal-drummers)
+> **Last updated:** 2026-07-25 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/2010s-metal-drummers)
 
 ---
 
@@ -145,4 +145,4 @@ A: The most influential 2010s metal drumming albums include: Animals as Leaders'
 
 ---
 
-*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/raymond-herrera"
 source: "https://metalforge.io"
-last_updated: "2026-07-14"
+last_updated: "2026-07-25"
 ---
 
 # Raymond Herrera — Drum Kit & Gear Setup
@@ -90,6 +90,10 @@ A: Raymond Herrera uses Attack Drumheads across his Tama Starclassic kit.
 
 A: Raymond Herrera co-founded and drummed for Fear Factory from 1990 to 2009. He also drums for Brujeria and formed Arkaea after Fear Factory's split.
 
+**Q: Does Raymond Herrera use electronic drum triggers?**
+
+A: Raymond Herrera uses ddrum and Roland electronic triggers throughout his kit, a technical setup central to the mechanically precise, processed drum sound he pioneered on Fear Factory albums like Demanufacture (1995) and Obsolete (1998).
+
 ## Signature Licks on MetalForge
 
 MetalForge has 3 signature lick tutorial(s) for Raymond Herrera:
@@ -130,4 +134,4 @@ Full breakdown: [Raymond Herrera's pedal setup](https://metalforge.io/pedals/set
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

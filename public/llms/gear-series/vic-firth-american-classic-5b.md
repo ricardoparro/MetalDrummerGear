@@ -21,8 +21,8 @@
 - **[Igor Cavalera](https://metalforge.io/drummer/igor-cavalera)** (Sepultura / Cavalera Conspiracy / Soulwax) — standard configuration
 - **[Nick Augusto](https://metalforge.io/drummer/nick-augusto)** (ex-Trivium) — standard configuration
 - **[Ben Koller](https://metalforge.io/drummer/ben-koller)** (Converge / Mutoid Man / Killer Be Killed) — standard configuration
-- **[Travis Orbin](https://metalforge.io/drummer/travis-orbin)** (Darkest Hour / ex-Periphery) — standard configuration
 - **[Ryan Van Poederooyen](https://metalforge.io/drummer/ryan-van-poederooyen)** (Devin Townsend Project) — standard configuration
+- **[Travis Orbin](https://metalforge.io/drummer/travis-orbin)** (Darkest Hour / ex-Periphery) — standard configuration
 - **[Scott Travis](https://metalforge.io/drummer/scott-travis)** (Judas Priest) — standard configuration
 - **[Paul Mazurkiewicz](https://metalforge.io/drummer/paul-mazurkiewicz)** (Cannibal Corpse) — standard configuration
 - **[Daniel Erlandsson](https://metalforge.io/drummer/daniel-erlandsson)** (Arch Enemy) — standard configuration
@@ -46,7 +46,7 @@ The Vic Firth American Classic 5B is a staple for metal drummers who need durabi
 ## Frequently Asked Questions
 
 **Q: Which metal drummers use the Vic Firth American Classic 5B?**
-A: 18 metal drummers in the MetalForge database play the Vic Firth American Classic 5B: Vinnie Paul, Hellhammer, Art Cruz, Navene Koperweis, Alex Bent, Shannon Larkin, Igor Cavalera, Nick Augusto, Ben Koller, Travis Orbin, Ryan Van Poederooyen, Scott Travis, Paul Mazurkiewicz, Daniel Erlandsson, Hannes Grossmann, Jocke Wallgren, Kevin Talley, and Martin Axenrot. Each profile includes their exact setup and full kit configuration.
+A: 18 metal drummers in the MetalForge database play the Vic Firth American Classic 5B: Vinnie Paul, Hellhammer, Art Cruz, Navene Koperweis, Alex Bent, Shannon Larkin, Igor Cavalera, Nick Augusto, Ben Koller, Ryan Van Poederooyen, Travis Orbin, Scott Travis, Paul Mazurkiewicz, Daniel Erlandsson, Hannes Grossmann, Jocke Wallgren, Kevin Talley, and Martin Axenrot. Each profile includes their exact setup and full kit configuration.
 
 **Q: Is the Vic Firth American Classic 5B good for metal drumming?**
 A: Yes — the Vic Firth American Classic 5B is a proven metal choice, endorsed by 18 professional drummers across death, thrash, progressive, and groove metal. Vinnie Paul of Pantera / Damageplan / Hellyeah is among the signature players relying on this drumsticks for high-intensity performance.
@@ -59,4 +59,4 @@ A: MetalForge tracks all Vic Firth series used by professional metal drummers. V
 
 ---
 
-*Source: [metalforge.io/gear/vic-firth/american-classic-5b/drummers-using](https://metalforge.io/gear/vic-firth/american-classic-5b/drummers-using) · Last updated: 2026-07-03*
+*Source: [metalforge.io/gear/vic-firth/american-classic-5b/drummers-using](https://metalforge.io/gear/vic-firth/american-classic-5b/drummers-using) · Last updated: 2026-07-25*

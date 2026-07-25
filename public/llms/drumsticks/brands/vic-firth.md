@@ -69,4 +69,4 @@ MetalForge tracks 10 drumstick brands relevant to metal drummers. Besides Vic Fi
 
 ---
 
-*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

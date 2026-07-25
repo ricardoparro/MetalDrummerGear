@@ -43,4 +43,4 @@ A: Shannon Larkin plays Sabian cymbals: 14" AAX Stage Hi-Hats, 18" AAX X-Plosion
 
 ---
 
-*Last updated: 2026-07-13 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

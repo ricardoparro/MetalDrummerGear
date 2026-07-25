@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Ludwig"
 profile_url: "https://metalforge.io/drummer/art-cruz"
 source: "https://metalforge.io"
-last_updated: "2026-07-14"
+last_updated: "2026-07-25"
 ---
 
 # Art Cruz — Drum Kit & Gear Setup
@@ -90,6 +90,10 @@ A: Art Cruz uses Evans drumheads.
 
 A: Art Cruz has been the drummer for Lamb of God since 2019, replacing Chris Adler; he previously played with Prong (2012-2019) and Winds of Plague (2010-2012).
 
+**Q: How did Art Cruz join Lamb of God?**
+
+A: Art Cruz filled in for Chris Adler on Lamb of God's 2018 North American tour supporting Slayer's farewell run, a stint that led the band to make him their official drummer in 2019 after he learned Adler's notoriously complex catalog.
+
 ## Signature Licks on MetalForge
 
 MetalForge has 6 signature lick tutorial(s) for Art Cruz:
@@ -137,4 +141,4 @@ Full breakdown: [Art Cruz's pedal setup](https://metalforge.io/pedals/setups/art
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

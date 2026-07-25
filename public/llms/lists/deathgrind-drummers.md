@@ -1,6 +1,6 @@
 # Top 10 Deathgrind Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-07-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/deathgrind-drummers)
+> **Last updated:** 2026-07-25 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/deathgrind-drummers)
 
 ---
 
@@ -144,4 +144,4 @@ A: Deathgrind drumming's gear requirements prioritize extreme speed and enduranc
 
 ---
 
-*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

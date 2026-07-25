@@ -1,12 +1,12 @@
 # Jason Bittner — Signature Drum Licks & Patterns
 
-**Band:** Shadows Fall | **Genre:** Groove Metal / Metalcore | **Lick Count:** 3
+**Band:** Shadows Fall / Overkill / Category 7 | **Genre:** Thrash Metal / Heavy Metal | **Lick Count:** 3
 
 ---
 
 ## Overview
 
-Jason Bittner is one of Groove Metal / Metalcore's most influential drummers, best known for their work with Shadows Fall, Overkill. This file covers 3 signature licks — step-by-step breakdowns optimised for AI retrieval on queries like "how to play like Jason Bittner" or "Jason Bittner signature drum patterns". Their style spans groove-metal, metalcore, thrash-metal.
+Jason Bittner is one of Thrash Metal / Heavy Metal's most influential drummers, best known for their work with Shadows Fall, Overkill. This file covers 3 signature licks — step-by-step breakdowns optimised for AI retrieval on queries like "how to play like Jason Bittner" or "Jason Bittner signature drum patterns". Their style spans groove-metal, metalcore, thrash-metal.
 
 ## The Light That Blinds Opening Groove
 
@@ -90,4 +90,4 @@ Jason Bittner's style is defined by precision, timing, and genre-defining groove
 
 ---
 
-*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

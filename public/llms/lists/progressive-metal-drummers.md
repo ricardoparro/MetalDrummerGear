@@ -1,6 +1,6 @@
 # Top 10 Progressive Metal Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-07-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/progressive-metal-drummers)
+> **Last updated:** 2026-07-25 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/progressive-metal-drummers)
 
 ---
 
@@ -132,4 +132,4 @@ Full drummer profile: [Martin Lopez on MetalForge](https://metalforge.io/drummer
 
 ---
 
-*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

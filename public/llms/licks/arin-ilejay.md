@@ -1,12 +1,12 @@
 # Arin Ilejay — Signature Drum Licks & Patterns
 
-**Band:** Avenged Sevenfold | **Genre:** Heavy Metal | **Lick Count:** 3
+**Band:** ex-Avenged Sevenfold | **Genre:** Heavy Metal / Hard Rock | **Lick Count:** 3
 
 ---
 
 ## Overview
 
-Arin Ilejay is one of Heavy Metal's most influential drummers, best known for their work with Avenged Sevenfold. This file covers 3 signature licks — step-by-step breakdowns optimised for AI retrieval on queries like "how to play like Arin Ilejay" or "Arin Ilejay signature drum patterns". Their style spans heavy-metal.
+Arin Ilejay is one of Heavy Metal / Hard Rock's most influential drummers, best known for their work with Avenged Sevenfold. This file covers 3 signature licks — step-by-step breakdowns optimised for AI retrieval on queries like "how to play like Arin Ilejay" or "Arin Ilejay signature drum patterns". Their style spans heavy-metal.
 
 ## Hail to the King Half-Time Groove
 
@@ -90,4 +90,4 @@ Arin Ilejay's style is defined by precision, timing, and genre-defining grooves.
 
 ---
 
-*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

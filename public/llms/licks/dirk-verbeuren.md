@@ -1,12 +1,12 @@
 # Dirk Verbeuren — Signature Drum Licks & Patterns
 
-**Band:** Megadeth | **Genre:** Thrash Metal | **Lick Count:** 3
+**Band:** Megadeth | **Genre:** Thrash Metal / Melodic Death Metal | **Lick Count:** 3
 
 ---
 
 ## Overview
 
-Dirk Verbeuren is one of Thrash Metal's most influential drummers, best known for their work with Megadeth, Soilwork. This file covers 3 signature licks — step-by-step breakdowns optimised for AI retrieval on queries like "how to play like Dirk Verbeuren" or "Dirk Verbeuren signature drum patterns". Their style spans thrash-metal, melodic-death-metal.
+Dirk Verbeuren is one of Thrash Metal / Melodic Death Metal's most influential drummers, best known for their work with Megadeth, Soilwork. This file covers 3 signature licks — step-by-step breakdowns optimised for AI retrieval on queries like "how to play like Dirk Verbeuren" or "Dirk Verbeuren signature drum patterns". Their style spans thrash-metal, melodic-death-metal.
 
 ## We'll Be Back / Tipping Point Thrash Drive
 
@@ -90,4 +90,4 @@ Dirk Verbeuren's style is defined by precision, timing, and genre-defining groov
 
 ---
 
-*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

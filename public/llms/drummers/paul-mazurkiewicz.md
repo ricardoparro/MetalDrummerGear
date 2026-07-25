@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/paul-mazurkiewicz"
 source: "https://metalforge.io"
-last_updated: "2026-07-14"
+last_updated: "2026-07-25"
 ---
 
 # Paul Mazurkiewicz — Drum Kit & Gear Setup
@@ -91,6 +91,10 @@ A: Paul Mazurkiewicz uses Evans drumheads across his Pearl Masters kit.
 
 A: Paul Mazurkiewicz co-founded and has drummed for death metal band Cannibal Corpse since 1988, appearing on every album since their 1990 debut Eaten Back to Life.
 
+**Q: How many Cannibal Corpse albums has Paul Mazurkiewicz played on?**
+
+A: Paul Mazurkiewicz has appeared on every Cannibal Corpse album since the band's 1990 debut Eaten Back to Life — the only member besides bassist Alex Webster with that distinction — across more than a dozen studio releases including Tomb of the Mutilated (1992) and Violence Unimagined (2021).
+
 ## Signature Licks on MetalForge
 
 MetalForge has 3 signature lick tutorial(s) for Paul Mazurkiewicz:
@@ -131,4 +135,4 @@ Full breakdown: [Paul Mazurkiewicz's pedal setup](https://metalforge.io/pedals/s
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

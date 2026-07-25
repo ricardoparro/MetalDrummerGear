@@ -10,11 +10,11 @@ August Burns Red's Matt Greiner vs Periphery's Matt Halpern. Metalcore vs djent:
 
 ## Matt Greiner Setup
 
-- **Drums:** Meinl Drum Festival Kit / Greiner & Kilmer Custom
-- **Cymbals:** Meinl Byzance Series (15" Dual Hi-Hats, 18" & 19" Dual Crashes, 21" Transition Ride, 18" Extra Dry China, 10" & 12" Splashes)
-- **Snare:** Greiner & Kilmer Custom 14x6.5" Maple
+- **Drums:** Mapex Black Panther Design Lab
+- **Cymbals:** Paiste Formula 602 (14" Hi-Hats, 16"/17"/18" Crashes, 22" Ride, 18" China, 10" Splash)
+- **Snare:** Mapex Black Panther 14x5.5" Maple
 - **Pedals/Hardware:** DW 9000 Series Double Pedal, DW 9100 Throne
-- **Sticks:** Vic Firth American Classic 5A
+- **Sticks:** Vic Firth Matt Greiner Signature
 
 ## Matt Halpern Setup
 
@@ -47,16 +47,16 @@ Matt Greiner and Matt Halpern represent two defining faces of modern heavy music
 ## FAQ
 
 **Q: What are the main differences between Matt Greiner's and Matt Halpern's drum kits?**
-A: Matt Greiner plays Meinl Drum Festival Kit / Greiner & Kilmer Custom with Meinl cymbals, while Matt Halpern uses Pearl Reference Series with Meinl cymbals. Greiner plays Pearl Masters Maple Reserve with Sabian AAX/HHX cymbals and a Pearl Demon Drive double pedal. Halpern uses Pearl Reference Series with Meinl Byzance cymbals and a Pearl Demon Drive double pedal — both Pearl endorsers with contrasting cymbal philosophies.
+A: Matt Greiner plays Mapex Black Panther Design Lab with Paiste cymbals, while Matt Halpern uses Pearl Reference Series with Meinl cymbals. Greiner plays Pearl Masters Maple Reserve with Sabian AAX/HHX cymbals and a Pearl Demon Drive double pedal. Halpern uses Pearl Reference Series with Meinl Byzance cymbals and a Pearl Demon Drive double pedal — both Pearl endorsers with contrasting cymbal philosophies.
 
 **Q: What drums does Matt Greiner play vs Matt Halpern?**
-A: Matt Greiner plays Meinl Drum Festival Kit / Greiner & Kilmer Custom. Matt Halpern plays Pearl Reference Series.
+A: Matt Greiner plays Mapex Black Panther Design Lab. Matt Halpern plays Pearl Reference Series.
 
 **Q: Who is the better progressive metal drummer, Matt Greiner or Matt Halpern?**
 A: Both are legends in their own right. Matt Greiner and Matt Halpern represent two defining faces of modern heavy music drumming — Greiner's jazz-infused metalcore and Halpern's polyrhythmic djent. See the full analysis at [metalforge.io/vs/matt-greiner-vs-matt-halpern](https://metalforge.io/vs/matt-greiner-vs-matt-halpern).
 
 **Q: What cymbals do Matt Greiner and Matt Halpern use?**
-A: Matt Greiner uses Meinl Byzance Series (15" Dual Hi-Hats, 18" & 19" Dual Crashes, 21" Transition Ride, 18" Extra Dry China, 10" & 12" Splashes). Matt Halpern uses Meinl Byzance Series (15" Dark Hi-Hats, 18" & 20" Extra Dry Medium Crashes, 22" Transition Ride, 18" Extra Dry China).
+A: Matt Greiner uses Paiste Formula 602 (14" Hi-Hats, 16"/17"/18" Crashes, 22" Ride, 18" China, 10" Splash). Matt Halpern uses Meinl Byzance Series (15" Dark Hi-Hats, 18" & 20" Extra Dry Medium Crashes, 22" Transition Ride, 18" Extra Dry China).
 
 ---
 
@@ -67,4 +67,4 @@ A: Matt Greiner uses Meinl Byzance Series (15" Dual Hi-Hats, 18" & 19" Dual Cras
 
 ---
 
-*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

@@ -1,12 +1,12 @@
 # Jaska Raatikainen — Signature Drum Licks & Patterns
 
-**Band:** Children of Bodom | **Genre:** Melodic Death Metal | **Lick Count:** 6
+**Band:** Children of Bodom | **Genre:** Melodic Death Metal / Power Metal | **Lick Count:** 6
 
 ---
 
 ## Overview
 
-Jaska Raatikainen is one of Melodic Death Metal's most influential drummers, best known for their work with Children of Bodom. This file covers 6 signature licks — step-by-step breakdowns optimised for AI retrieval on queries like "how to play like Jaska Raatikainen" or "Jaska Raatikainen signature drum patterns". Their style spans melodic-death-metal.
+Jaska Raatikainen is one of Melodic Death Metal / Power Metal's most influential drummers, best known for their work with Children of Bodom. This file covers 6 signature licks — step-by-step breakdowns optimised for AI retrieval on queries like "how to play like Jaska Raatikainen" or "Jaska Raatikainen signature drum patterns". Their style spans melodic-death-metal.
 
 ## Sixpounder Double Bass Drive
 
@@ -54,29 +54,6 @@ Jaska Raatikainen is one of Melodic Death Metal's most influential drummers, bes
 
 **Core Techniques:** [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
-## Hate Crew Deathroll Double-Bass Assault
-
-**Song:** Hate Crew Deathroll | **Album:** Hate Crew Deathroll (2003) | **BPM:** ~190 BPM | **Technique:** signature pattern | **Difficulty:** advanced
-
-The title track of Children of Bodom's 2003 album Hate Crew Deathroll is one of Jaska Raatikainen's most aggressive recorded performances and a high point of the band's heaviest, most double-bass-driven era. Where earlier Bodom records leaned on neoclassical flash, Hate Crew Deathroll pushed the rhythm section to the front, and this song is built on relentless, machine-gun double-kick passages that power the verses and choruses alike. Raatikainen drives the track with sustained double-bass runs, sharp blast-influenced sections, and tightly controlled snare work that cuts through the dense guitar-and-keyboard arrangement. The challenge for any drummer attempting it is endurance and evenness: the double-bass figures are fast and long, and they have to stay perfectly consistent while the hands keep the backbeat and accents locked to the riff. It is a song that punishes tension and rewards relaxed, efficient foot technique — the only way to sustain the kick patterns at tempo is to let the pedals do the work rather than fighting them. Musically, it captures the more brutal, hardcore-influenced direction the band took in the mid-2000s, with Raatikainen acting as the relentless engine behind Alexi Laiho's vocals and leads. For advancing players it is a complete double-bass workout that also demands coordination, because the feet never really stop while the hands move between ride, hi-hat, snare and crashes. Working through it slowly and building tempo gradually develops the stamina, evenness and coordination that define extreme-metal drumming, and it pairs naturally with the band's other Hate Crew Deathroll material as a study in how to drive a fast, melody-rich metal song without ever losing the groove. It is a fitting signature for one of melodic death metal's foundational drummers. Master it and you will have one of the most demanding double-bass workouts in the genre sitting comfortably under your feet, ready to carry over into faster, more brutal material whenever you need it.
-
-### How to Play
-
-- Sustain long, even double-bass runs without letting the tempo drift
-- Keep the hands locked to the riff with tight snare and accent work
-- Stay relaxed and let the pedals rebound — tension kills speed and stamina
-- Coordinate ride, hi-hat and crash moves over the constant kick pulse
-- Build tempo gradually from a slow, even base to develop real endurance
-
-### Key Elements
-
-- Develop double-bass endurance with long, slow, even foot exercises first
-- Keep your legs and ankles relaxed so the pedals rebound on their own
-- Practise the hand-and-foot coordination away from full tempo until it is automatic
-- Increase the metronome a few BPM at a time rather than jumping to full speed
-
-**Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Blast Beat](https://metalforge.io/techniques/blast-beat), [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures)
-
 ## Hate Crew Deathroll Signature Fill — Needled 24/7
 
 **Song:** Needled 24/7 | **Album:** Hate Crew Deathroll (2003) | **BPM:** ~200 BPM | **Technique:** fill | **Difficulty:** advanced
@@ -121,7 +98,7 @@ The title track of Children of Bodom's third album Follow the Reaper (2000) is o
 - Keep the hi-hat as even and mechanical as possible — it is the clock of the groove
 - Listen to the guitar and keyboard melody while playing — your groove should support it, not fight it
 
-**Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass), [Hi-Hat Control](https://metalforge.io/techniques/hi-hat-control)
+**Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass), [Hi Hat Control](https://metalforge.io/techniques/hi-hat-control)
 
 ## Hatebreeder Double-Bass Run — Warheart
 
@@ -146,6 +123,29 @@ The title track of Children of Bodom's third album Follow the Reaper (2000) is o
 
 **Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Foot Independence](https://metalforge.io/techniques/foot-independence), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
+## Hate Crew Deathroll Double-Bass Assault
+
+**Song:** Hate Crew Deathroll | **Album:** Hate Crew Deathroll (2003) | **BPM:** ~190 BPM | **Technique:** signature pattern | **Difficulty:** advanced
+
+The title track of Children of Bodom's 2003 album Hate Crew Deathroll is one of Jaska Raatikainen's most aggressive recorded performances and a high point of the band's heaviest, most double-bass-driven era. Where earlier Bodom records leaned on neoclassical flash, Hate Crew Deathroll pushed the rhythm section to the front, and this song is built on relentless, machine-gun double-kick passages that power the verses and choruses alike. Raatikainen drives the track with sustained double-bass runs, sharp blast-influenced sections, and tightly controlled snare work that cuts through the dense guitar-and-keyboard arrangement. The challenge for any drummer attempting it is endurance and evenness: the double-bass figures are fast and long, and they have to stay perfectly consistent while the hands keep the backbeat and accents locked to the riff. It is a song that punishes tension and rewards relaxed, efficient foot technique — the only way to sustain the kick patterns at tempo is to let the pedals do the work rather than fighting them. Musically, it captures the more brutal, hardcore-influenced direction the band took in the mid-2000s, with Raatikainen acting as the relentless engine behind Alexi Laiho's vocals and leads. For advancing players it is a complete double-bass workout that also demands coordination, because the feet never really stop while the hands move between ride, hi-hat, snare and crashes. Working through it slowly and building tempo gradually develops the stamina, evenness and coordination that define extreme-metal drumming, and it pairs naturally with the band's other Hate Crew Deathroll material as a study in how to drive a fast, melody-rich metal song without ever losing the groove. It is a fitting signature for one of melodic death metal's foundational drummers. Master it and you will have one of the most demanding double-bass workouts in the genre sitting comfortably under your feet, ready to carry over into faster, more brutal material whenever you need it.
+
+### How to Play
+
+- Sustain long, even double-bass runs without letting the tempo drift
+- Keep the hands locked to the riff with tight snare and accent work
+- Stay relaxed and let the pedals rebound — tension kills speed and stamina
+- Coordinate ride, hi-hat and crash moves over the constant kick pulse
+- Build tempo gradually from a slow, even base to develop real endurance
+
+### Key Elements
+
+- Develop double-bass endurance with long, slow, even foot exercises first
+- Keep your legs and ankles relaxed so the pedals rebound on their own
+- Practise the hand-and-foot coordination away from full tempo until it is automatic
+- Increase the metronome a few BPM at a time rather than jumping to full speed
+
+**Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Blast Beat](https://metalforge.io/techniques/blast-beat), [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures)
+
 ## Teaching Points
 
 Jaska Raatikainen's style is defined by precision, timing, and genre-defining grooves. Key practice principles across all their licks: Practise the double-bass pattern slowly with a metronome until both feet are perfectly even; Build endurance by looping the verse groove for several minutes without stopping; Keep your ankles relaxed — tension is what makes fast double bass fall apart. Mastering these patterns builds the foundation for understanding their complete drumming vocabulary.
@@ -154,10 +154,9 @@ Jaska Raatikainen's style is defined by precision, timing, and genre-defining gr
 
 - [Jaska Raatikainen Profile on MetalForge](https://metalforge.io/drummer/jaska-raatikainen)
 - [Jaska Raatikainen All Licks](https://metalforge.io/drummers/jaska-raatikainen/licks)
-- [Hate Crew Deathroll Drum Setup](https://metalforge.io/hate-crew-deathroll-drum-setup)
 - [Signature Licks Database](https://metalforge.io/licks)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
 ---
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

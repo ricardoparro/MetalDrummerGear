@@ -14,7 +14,7 @@ Dream Theater's Mike Mangini vs Animals as Leaders' Matt Garstka — the two mos
 - **Cymbals:** Sabian HHX & AAX Series (14" HHX Evolution Hi-Hats, 17", 18", 19" HHX Evolution Crashes, 21" HHX Raw Bell Dry Ride)
 - **Snare:** Pearl Reference 14x5" & 14x6.5" Brass
 - **Pedals/Hardware:** Pearl Demon Drive Double Pedal, Roland SPD-SX Sampling Pad
-- **Sticks:** Vic Firth Mike Mangini Signature
+- **Sticks:** Vater Mike Mangini Wicked Piston (VHMMWP)
 
 ## Matt Garstka Setup
 
@@ -67,4 +67,4 @@ A: Mike Mangini uses Sabian HHX & AAX Series (14" HHX Evolution Hi-Hats, 17", 18
 
 ---
 
-*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

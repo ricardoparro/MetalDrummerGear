@@ -1,6 +1,6 @@
 # Top 10 Metal Drummers Who Use Electronic Triggers — Complete Ranked Guide
 
-> **Last updated:** 2026-07-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/metal-drummers-who-use-electronic-triggers)
+> **Last updated:** 2026-07-25 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/metal-drummers-who-use-electronic-triggers)
 
 ---
 
@@ -151,4 +151,4 @@ A: A trigger is a clip-on sensor — typically a piezo pickup — mounted to an 
 
 ---
 
-*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

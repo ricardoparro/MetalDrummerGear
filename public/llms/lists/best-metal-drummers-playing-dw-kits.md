@@ -1,6 +1,6 @@
 # Top 7 Metal Drummers Playing DW Kits — Complete Ranked Guide
 
-> **Last updated:** 2026-07-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-metal-drummers-playing-dw-kits)
+> **Last updated:** 2026-07-25 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-metal-drummers-playing-dw-kits)
 
 ---
 
@@ -115,4 +115,4 @@ A: Yes — DW is often a mid-career chapter rather than a lifelong brand in Meta
 
 ---
 
-*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

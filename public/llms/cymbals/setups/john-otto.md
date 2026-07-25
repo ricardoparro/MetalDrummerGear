@@ -39,4 +39,4 @@ A: John Otto plays Zildjian cymbals: 13" A Custom Mastersound Hi-Hats, 16" A Cus
 
 ---
 
-*Last updated: 2026-07-13 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

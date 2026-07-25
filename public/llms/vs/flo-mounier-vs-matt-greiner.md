@@ -18,11 +18,11 @@ Cryptopsy's Flo Mounier vs August Burns Red's Matt Greiner — hyper-technical d
 
 ## Matt Greiner Setup
 
-- **Drums:** Meinl Drum Festival Kit / Greiner & Kilmer Custom
-- **Cymbals:** Meinl Byzance Series (15" Dual Hi-Hats, 18" & 19" Dual Crashes, 21" Transition Ride, 18" Extra Dry China, 10" & 12" Splashes)
-- **Snare:** Greiner & Kilmer Custom 14x6.5" Maple
+- **Drums:** Mapex Black Panther Design Lab
+- **Cymbals:** Paiste Formula 602 (14" Hi-Hats, 16"/17"/18" Crashes, 22" Ride, 18" China, 10" Splash)
+- **Snare:** Mapex Black Panther 14x5.5" Maple
 - **Pedals/Hardware:** DW 9000 Series Double Pedal, DW 9100 Throne
-- **Sticks:** Vic Firth American Classic 5A
+- **Sticks:** Vic Firth Matt Greiner Signature
 
 ## Playing Style
 
@@ -47,16 +47,16 @@ Flo Mounier and Matt Greiner both prove that extreme technical drumming doesn't 
 ## FAQ
 
 **Q: What are the main differences between Flo Mounier's and Matt Greiner's drum kits?**
-A: Flo Mounier plays Pearl Masters Maple Complete with Sabian cymbals, while Matt Greiner uses Meinl Drum Festival Kit / Greiner & Kilmer Custom with Meinl cymbals. Flo Mounier plays a Tama Starclassic Maple kit in Dark Mocha Fade with a Tama S.L.P. Classic Dry Aluminum 14x5.5" snare and Sabian AAX & HHX Series cymbals (14" AAX X-Celerator Hi-Hats, 16" & 18" AAX X-Plosion Crashes, 19" HHX X-Plosion Crash, 20" AAX Metal Ride, 18" AAX X-Treme Chinese), driven by a Tama Speed Cobra 910 Twin Pedal. Matt Greiner plays a Pearl Reference Pure kit in Piano Black with dual 22"x18" bass drums, a Pearl Matt Greiner Signature 14"x6" steel snare, and Meinl Byzance Series cymbals (15" Dual Hi-Hats, 18" & 19" Extra Dry Medium Crashes, 21" Transition Ride, 18" Extra Dry China, 10" & 12" Splash), driven by a Pearl Demon Drive double pedal and Vic Firth Matt Greiner signature sticks.
+A: Flo Mounier plays Pearl Masters Maple Complete with Sabian cymbals, while Matt Greiner uses Mapex Black Panther Design Lab with Paiste cymbals. Flo Mounier plays a Tama Starclassic Maple kit in Dark Mocha Fade with a Tama S.L.P. Classic Dry Aluminum 14x5.5" snare and Sabian AAX & HHX Series cymbals (14" AAX X-Celerator Hi-Hats, 16" & 18" AAX X-Plosion Crashes, 19" HHX X-Plosion Crash, 20" AAX Metal Ride, 18" AAX X-Treme Chinese), driven by a Tama Speed Cobra 910 Twin Pedal. Matt Greiner plays a Pearl Reference Pure kit in Piano Black with dual 22"x18" bass drums, a Pearl Matt Greiner Signature 14"x6" steel snare, and Meinl Byzance Series cymbals (15" Dual Hi-Hats, 18" & 19" Extra Dry Medium Crashes, 21" Transition Ride, 18" Extra Dry China, 10" & 12" Splash), driven by a Pearl Demon Drive double pedal and Vic Firth Matt Greiner signature sticks.
 
 **Q: What drums does Flo Mounier play vs Matt Greiner?**
-A: Flo Mounier plays Pearl Masters Maple Complete. Matt Greiner plays Meinl Drum Festival Kit / Greiner & Kilmer Custom.
+A: Flo Mounier plays Pearl Masters Maple Complete. Matt Greiner plays Mapex Black Panther Design Lab.
 
 **Q: Who is the better extreme / death / black metal drummer, Flo Mounier or Matt Greiner?**
 A: Both are legends in their own right. Flo Mounier and Matt Greiner both prove that extreme technical drumming doesn't have to sacrifice musicality — they just arrived at that balance from different subgenres and generations. See the full analysis at [metalforge.io/vs/flo-mounier-vs-matt-greiner](https://metalforge.io/vs/flo-mounier-vs-matt-greiner).
 
 **Q: What cymbals do Flo Mounier and Matt Greiner use?**
-A: Flo Mounier uses Sabian AAX & HHX Series (14" HHX Stage Hi-Hats, 17" & 18" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 18" AAXtreme China). Matt Greiner uses Meinl Byzance Series (15" Dual Hi-Hats, 18" & 19" Dual Crashes, 21" Transition Ride, 18" Extra Dry China, 10" & 12" Splashes).
+A: Flo Mounier uses Sabian AAX & HHX Series (14" HHX Stage Hi-Hats, 17" & 18" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 18" AAXtreme China). Matt Greiner uses Paiste Formula 602 (14" Hi-Hats, 16"/17"/18" Crashes, 22" Ride, 18" China, 10" Splash).
 
 ---
 
@@ -67,4 +67,4 @@ A: Flo Mounier uses Sabian AAX & HHX Series (14" HHX Stage Hi-Hats, 17" & 18" AA
 
 ---
 
-*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

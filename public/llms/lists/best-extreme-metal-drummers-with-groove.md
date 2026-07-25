@@ -1,6 +1,6 @@
 # Top 10 Extreme Metal Drummers with the Best Groove — Complete Ranked Guide
 
-> **Last updated:** 2026-07-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-extreme-metal-drummers-with-groove)
+> **Last updated:** 2026-07-25 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-extreme-metal-drummers-with-groove)
 
 ---
 
@@ -148,4 +148,4 @@ A: Gojira is the clearest modern example, fusing progressive death metal technic
 
 ---
 
-*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

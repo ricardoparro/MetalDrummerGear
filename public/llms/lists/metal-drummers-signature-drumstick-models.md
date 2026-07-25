@@ -1,6 +1,6 @@
 # Top 10 Metal Drummers' Signature Drumstick Models — Complete Ranked Guide
 
-> **Last updated:** 2026-07-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/metal-drummers-signature-drumstick-models)
+> **Last updated:** 2026-07-25 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/metal-drummers-signature-drumstick-models)
 
 ---
 
@@ -150,4 +150,4 @@ A: No — Tomas Haake's signature stick comes from Wincent, a Swedish boutique p
 
 ---
 
-*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

@@ -67,4 +67,4 @@ A: Sean Reinert uses Zildjian A/K Series (14" A Quick Beat Hi-Hats, 16" & 18" A 
 
 ---
 
-*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

@@ -41,4 +41,4 @@ A: Jon Dette plays Sabian & Zildjian cymbals: 14" Hi-Hats, 16" Crash, 18" Crash,
 
 ---
 
-*Last updated: 2026-07-13 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

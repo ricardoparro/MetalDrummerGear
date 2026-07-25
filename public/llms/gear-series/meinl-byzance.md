@@ -17,7 +17,7 @@
 - **[Matt Halpern](https://metalforge.io/drummer/matt-halpern)** (Periphery) — 15" Dark Hi-Hats, 18" & 20" Extra Dry Medium Crashes, 22" Transition Ride, 18" Extra Dry China
 - **[Navene Koperweis](https://metalforge.io/drummer/navene-koperweis)** (Entheos / ex-Animals as Leaders) — 15" Dual Hi-Hats, 18" & 19" Extra Dry Medium Crashes, 21" Transition Ride, 18" Extra Dry China, 10" Splash
 - **[Matt Greiner](https://metalforge.io/drummer/matt-greiner)** (August Burns Red) — 15" Dual Hi-Hats, 18" & 19" Dual Crashes, 21" Transition Ride, 18" Extra Dry China, 10" & 12" Splashes
-- **[Chris Turner](https://metalforge.io/drummer/chris-turner)** (Devin Townsend Project) — 15" Dual Hi-Hats, 18" & 20" Extra Dry Medium Crashes, 22" Dual Ride, 18" Extra Dry China
+- **[Chris Turner](https://metalforge.io/drummer/chris-turner)** (Oceans Ate Alaska) — 15" Dual Hi-Hats, 18" & 20" Extra Dry Medium Crashes, 22" Dual Ride, 18" Extra Dry China
 - **[Matt Garstka](https://metalforge.io/drummer/matt-garstka)** (Animals as Leaders) — 15" Dual Hi-Hats, 18" & 20" Extra Dry Medium Crashes, 22" Dual Ride
 - **[Hannes Grossmann](https://metalforge.io/drummer/hannes-grossmann)** (Obscura / ex-Necrophagist / Alkaloid) — 14" Byzance Traditional Hi-Hats, 18" & 19" Byzance Brilliant Crashes, 21" Byzance Traditional Ride
 - **[Martin Axenrot](https://metalforge.io/drummer/martin-axenrot)** (Opeth) — 14" Traditional Medium Hi-Hats, 16" & 18" & 19" Crashes, 22" Traditional Ride, 18" China
@@ -50,4 +50,4 @@ A: MetalForge tracks all Meinl series used by professional metal drummers. Visit
 
 ---
 
-*Source: [metalforge.io/gear/meinl/byzance/drummers-using](https://metalforge.io/gear/meinl/byzance/drummers-using) · Last updated: 2026-07-03*
+*Source: [metalforge.io/gear/meinl/byzance/drummers-using](https://metalforge.io/gear/meinl/byzance/drummers-using) · Last updated: 2026-07-25*

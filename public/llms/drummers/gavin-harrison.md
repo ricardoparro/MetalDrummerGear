@@ -6,7 +6,7 @@ country: "UK"
 primary_brand: "Sonor"
 profile_url: "https://metalforge.io/drummer/gavin-harrison"
 source: "https://metalforge.io"
-last_updated: "2026-07-14"
+last_updated: "2026-07-25"
 ---
 
 # Gavin Harrison — Drum Kit & Gear Setup
@@ -97,6 +97,10 @@ A: Gavin Harrison plays a Sonor Perfect Balance pedal on Sonor 600 Series hardwa
 
 A: Gavin Harrison plays his own signature Vic Firth Gavin Harrison Signature drumsticks.
 
+**Q: What drumheads does Gavin Harrison use?**
+
+A: Gavin Harrison uses Remo Ambassador drumheads across his Sonor SQ2 Series drum kit, giving him the sensitivity and articulation his ghost-note-heavy, polyrhythmic playing requires.
+
 ## Quotes
 
 > "Groove is everything. Without groove, all the chops in the world mean nothing."
@@ -147,4 +151,4 @@ Full breakdown: [Gavin Harrison's pedal setup](https://metalforge.io/pedals/setu
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "ddrum"
 profile_url: "https://metalforge.io/drummer/pete-sandoval"
 source: "https://metalforge.io"
-last_updated: "2026-07-14"
+last_updated: "2026-07-25"
 ---
 
 # Pete Sandoval — Drum Kit & Gear Setup
@@ -96,6 +96,10 @@ A: Pete Sandoval drives his pioneering blast beat technique with a ddrum Mercury
 
 A: Pete Sandoval is widely regarded as one of the most influential figures in extreme metal, pioneering blast beat and double bass techniques whose speed and endurance set new standards for death metal drumming.
 
+**Q: What is Pete Sandoval's gravity blast technique?**
+
+A: Pete Sandoval pioneered the gravity blast, a one-handed blast beat technique that uses the rebound of the stick off the drumhead to generate extreme speed, a signature approach that set the template for death metal drumming after his work on Morbid Angel's "Altars of Madness" (1989).
+
 ## Signature Licks on MetalForge
 
 MetalForge has 3 signature lick tutorial(s) for Pete Sandoval:
@@ -112,4 +116,4 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

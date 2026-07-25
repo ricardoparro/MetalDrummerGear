@@ -41,4 +41,4 @@ A: Bill Ward plays Paiste cymbals: 15" Giant Beat Hi-Hats, 18" 2002 Crash, 20" 2
 
 ---
 
-*Last updated: 2026-07-13 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

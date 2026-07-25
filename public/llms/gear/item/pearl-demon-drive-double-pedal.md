@@ -40,4 +40,4 @@ A: Joey Jordison, Dave Lombardo, Matt Halpern, Inferno use the Pearl Demon Drive
 
 ---
 
-*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

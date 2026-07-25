@@ -41,4 +41,4 @@ A: Aquiles Priester plays Sabian cymbals: 14" HHX Evolution Hi-Hats, 18" HHX X-P
 
 ---
 
-*Last updated: 2026-07-13 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

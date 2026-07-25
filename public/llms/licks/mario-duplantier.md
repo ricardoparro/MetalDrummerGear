@@ -52,33 +52,11 @@ Mario's blast beats are distinctive - they serve the song's groove while maintai
 
 **Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Dynamics](https://metalforge.io/techniques/dynamics), [Accents](https://metalforge.io/techniques/accents)
 
-## Backbone Main Groove
-
-**Song:** Backbone | **Album:** From Mars to Sirius (2005) | **BPM:** 92 BPM | **Technique:** main groove | **Difficulty:** intermediate
-
-One of Gojira's grooviest tracks showcases Mario's pocket and feel. The slow, heavy groove is deceptively simple but requires excellent timing and dynamics.
-
-### How to Play
-
-- Heavy emphasis on the "and" of beats
-- Powerful snare hits with space between
-- Bass drum locks with guitar chug
-- Ride cymbal provides wash and texture
-
-### Key Elements
-
-- Play this slower than you think - sit in the pocket
-- Leave space between notes
-- Focus on the bass drum relationship with guitar
-- Great song for developing feel and timing
-
-**Core Techniques:** [Groove](https://metalforge.io/techniques/groove), [Pocket](https://metalforge.io/techniques/pocket), [Dynamics](https://metalforge.io/techniques/dynamics)
-
 ## Silvera Tribal Polyrhythm
 
 **Song:** Silvera | **Album:** Magma (2016) | **BPM:** ~84 BPM | **Technique:** main groove | **Difficulty:** advanced
 
-"Silvera" from Gojira's 2016 album Magma is one of the band's most propulsive tracks, and its main groove section is a concentrated study in how Mario Duplantier uses tribal-influenced polyrhythm as a groove engine. Before the song's blast passages arrive, Duplantier establishes a driving, hypnotic groove that draws on the same tribal percussion sensibility woven through Gojira's music since From Mars to Sirius — a repeating, slightly displaced kick pattern layered beneath a hi-hat and snare framework that sits differently against the guitar riff than a conventional backbeat would. The effect is of constant forward motion with a slight rhythmic lean at the end of each phrase, as though the groove is perpetually falling into the next bar. Duplantier builds the tribal quality not through a single obvious technique but through accumulated small choices: a snare accent slightly earlier than expected, a kick that falls on a displaced subdivision, a China cymbal accent that arrives like punctuation at the end of a sentence. The groove functions like a repeated mantra — the same pattern loops with enough regularity to be hypnotic, but the way each kit element relates to the riff creates a sense of rhythmic depth that keeps the pattern from feeling mechanical.
+"Silvera" from Gojira's 2016 album Magma is one of the band's most propulsive and arresting tracks, and its main groove section is a concentrated study in how Mario Duplantier uses tribal-influenced polyrhythm as a groove engine. Before the song's blast passages arrive, Duplantier establishes a driving, hypnotic groove that draws on the same tribal percussion sensibility Gojira have woven through their music since From Mars to Sirius — a repeating, slightly displaced kick pattern layered beneath a hi-hat and snare framework that sits differently against the guitar riff than a conventional backbeat would. The effect is of constant forward motion with a slight rhythmic lean at the end of each phrase, as though the groove is perpetually falling into the next bar. Duplantier builds the tribal quality not through a single obvious technique but through the accumulation of small choices: a snare accent slightly earlier than expected, a kick that falls on a subdivision the guitar riff displaces, an accent on the China cymbal that arrives like punctuation at the end of a sentence. The groove functions like a repeated mantra — the same pattern loops with enough regularity to be hypnotic, but the way each kit element relates to the riff creates a sense of rhythmic depth that keeps the pattern from feeling mechanical. What distinguishes this groove from his other Magma performances is its combination of tribal feel and directness: it is heavier and more immediate than his more technically demanding polyrhythmic pieces, making it an excellent entry point into understanding how Duplantier's tribal influences operate within the Gojira sound. For drummers, the "Silvera" tribal groove is a study in how feel and displacement can make a mid-tempo pattern sound more complex than its individual components suggest, and how to sustain rhythmic tension across a looped groove without losing the physicality that makes it work as metal drumming. Practising it builds your ability to place kick displacements precisely and to let a groove accumulate its own weight through repetition.
 
 ### How to Play
 
@@ -101,7 +79,7 @@ One of Gojira's grooviest tracks showcases Mario's pocket and feel. The slow, he
 
 **Song:** Stranded | **Album:** Magma (2016) | **BPM:** ~105 BPM | **Technique:** intro fill | **Difficulty:** advanced
 
-"Stranded" is one of the standout tracks from Gojira's 2016 album Magma, and its opening section contains one of Mario Duplantier's most memorable fill and blast patterns in the band's recent catalogue. The intro — a multi-bar rhythmic statement that sets up the song's main groove with blast energy, dynamic restraint, and precision accenting — functions as both a drum showcase and an architectural element of the track's opening. Duplantier does not simply play a fill to get to the groove; he plays a complete rhythmic introduction that tells the listener what kind of piece they are about to hear. The pattern begins with a controlled, restrained setup section where the drums play around the guitar entry, then escalates through precisely placed accents and rhythmic figures that use the snare and bass drum to imply the groove before it fully arrives. What makes this fill particularly instructive is the way it handles multiple time feels simultaneously — the fill implies the song's main rhythmic language before the groove is fully stated, so the listener hears the destination before they arrive. This is an advanced compositional skill: drumming that sets up the musical context rather than merely counting in the band.
+"Stranded" is one of the standout tracks from Gojira's 2016 album Magma, and its opening section contains one of Mario Duplantier's most memorable fill and blast patterns in the band's recent catalogue. The intro — a multi-bar rhythmic statement that sets up the song's main groove with a combination of blast energy, dynamic restraint, and precision accenting — functions as both a drum showcase and an architectural element of the track's opening argument. Duplantier does not simply play a fill to get to the groove; he plays a complete rhythmic introduction that tells the listener what kind of piece they are about to hear. The pattern begins with a controlled, restrained setup section where the drums play around the guitar entry, then escalates through a series of precisely placed accents and rhythmic figures that use the snare and bass drum to imply the groove before it fully arrives. The explosion that signals the transition into the main section is a model of timing and dynamics: Duplantier builds the intensity with a fill that reaches maximum density exactly at the downbeat where the full band locks in, and the transition is seamless, as though the intro and the groove have always been the same thing. What makes this fill particularly instructive is the way it handles multiple time feels simultaneously — the fill implies the song's main rhythmic language before the groove is fully stated, so the listener hears the destination before they arrive. This is an advanced compositional skill: drumming that sets up the musical context rather than merely counting in the band. For drummers, the "Stranded" intro fill develops your ability to play fills that serve the structure of the arrangement — fills that build narrative tension and resolve into a landing point rather than simply adding notes between sections. It is also a study in dynamic escalation and the precise placement of a peak intensity moment, which is the foundation of Gojira's compositional approach to percussion.
 
 ### How to Play
 
@@ -114,7 +92,7 @@ One of Gojira's grooviest tracks showcases Mario's pocket and feel. The slow, he
 ### Key Elements
 
 - Listen to the intro repeatedly and map out the structural arc of the fill before learning the notes
-- Practise the build-up section in isolation, focusing on the dynamic escalation
+- Practise the build-up section in isolation, focusing on the dynamic escalation from quiet to full intensity
 - Work the landing point carefully — the transition from fill to groove is the critical moment
 - Sing the guitar riff while playing the fill to keep the harmonic context clear in your mind
 
@@ -124,7 +102,7 @@ One of Gojira's grooviest tracks showcases Mario's pocket and feel. The slow, he
 
 **Song:** Flying Whales | **Album:** From Mars to Sirius (2005) | **BPM:** ~132 BPM | **Technique:** main groove | **Difficulty:** advanced
 
-"Flying Whales" is the opening track from Gojira's 2005 album From Mars to Sirius and one of the most recognisable songs in the band's catalogue — a piece that defined the Gojira sound at the moment the world started to notice them. Mario Duplantier's drum performance on the track is a complete statement of his approach: raw power, tribal-influenced groove, and the slow, lumbering physicality that has become the signature feel of that album. The main groove runs at approximately 132 BPM with a feel that is simultaneously propulsive and weighty — the tempo is fast enough to demand sustained energy but slow enough to allow each stroke to carry genuine physical mass. The kick pattern is tight and direct, locking to the enormous guitar chug with surgical precision, and the snare sits wide and powerful on the backbeat, giving the groove an almost tribal authority. What makes the performance instructive is the tension between restraint and power: Duplantier does not fill frequently, letting the main groove accumulate weight across repeated bars before unleashing a fill that resets the energy. "Flying Whales" is a study in how to play a fast groove with genuine weight, how to sustain energy across a long arrangement without constant fills, and how to make the transition from groove to fill feel inevitable rather than arbitrary.
+"Flying Whales" is the opening track from Gojira's 2005 album From Mars to Sirius and one of the most recognisable songs in the band's catalogue — a piece that defined the Gojira sound at the moment the world started to notice them. Mario Duplantier's drum performance on the track is a complete statement of his approach: a combination of raw power, tribal-influenced groove, and the slow, lumbering physicality that has become the signature feel of that album. The main groove runs at approximately 132 BPM with a feel that is simultaneously propulsive and weighty — the tempo is fast enough to demand sustained energy but slow enough to allow each stroke to carry genuine physical mass, and Duplantier plays it with the authority that makes the riff sound heavier than it already is. The kick pattern is tight and direct, locking to the enormous guitar chug with surgical precision, and the snare sits wide and powerful on the backbeat, giving the groove an almost tribal authority. The hi-hat rides in tight, clipped strokes that keep the sixteenth-note grid clean while the groove pushes forward. What makes the performance instructive is the tension between restraint and power: Duplantier does not fill frequently, letting the main groove accumulate weight across repeated bars before unleashing a fill that resets the energy. His fills on this track are among his most physical — big, sweeping tom rolls and snare combinations that arrive with the force of a wave and resolve back into the pocket with equal inevitability. The dynamic arc of the song is also instructive: he builds intensity organically across the arrangement, deploying heavier hi-hat and cymbal work as the track escalates and pulling back to the locked-in pocket groove whenever the song needs to breathe. For drummers, "Flying Whales" is a study in how to play a fast groove with genuine weight, how to sustain energy across a long arrangement without constant fills, and how to make the transition from groove to fill feel inevitable rather than arbitrary. It is also an education in the Gojira aesthetic — where heaviness is a product of physicality, discipline, and groove commitment rather than speed or complexity alone.
 
 ### How to Play
 
@@ -143,6 +121,28 @@ One of Gojira's grooviest tracks showcases Mario's pocket and feel. The slow, he
 
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Riff Lock](https://metalforge.io/techniques/riff-lock), [Dynamic Control](https://metalforge.io/techniques/dynamic-control)
 
+## Backbone Main Groove
+
+**Song:** Backbone | **Album:** From Mars to Sirius (2005) | **BPM:** 92 BPM | **Technique:** main groove | **Difficulty:** intermediate
+
+One of Gojira's grooviest tracks showcases Mario's pocket and feel. The slow, heavy groove is deceptively simple but requires excellent timing and dynamics.
+
+### How to Play
+
+- Heavy emphasis on the "and" of beats
+- Powerful snare hits with space between
+- Bass drum locks with guitar chug
+- Ride cymbal provides wash and texture
+
+### Key Elements
+
+- Play this slower than you think - sit in the pocket
+- Leave space between notes
+- Focus on the bass drum relationship with guitar
+- Great song for developing feel and timing
+
+**Core Techniques:** [Groove](https://metalforge.io/techniques/groove), [Pocket](https://metalforge.io/techniques/pocket), [Dynamics](https://metalforge.io/techniques/dynamics)
+
 ## Teaching Points
 
 Mario Duplantier's style is defined by precision, timing, and genre-defining grooves. Key practice principles across all their licks: Count the 3 over 4 pattern out loud first; Start extremely slow - 50 BPM; Feel the "resolution point" every 12 beats. Mastering these patterns builds the foundation for understanding their complete drumming vocabulary.
@@ -156,4 +156,4 @@ Mario Duplantier's style is defined by precision, timing, and genre-defining gro
 
 ---
 
-*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

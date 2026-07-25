@@ -1790,7 +1790,7 @@ At 6'3" and over 250 pounds, Gene's physical presence translates to a massive dr
     related: {
       drummerProfile: '/drummer/gene-hoglan',
       similarDrummers: ['Dave Lombardo', 'Pete Sandoval', 'Derek Roddy'],
-      relatedGuides: ['how-to-sound-like-dave-lombardo', 'how-to-sound-like-joey-jordison'],
+      relatedGuides: ['how-to-sound-like-dave-lombardo', 'how-to-sound-like-joey-jordison', 'how-to-sound-like-jimmy-degrasso'],
       gearPages: ['/gear/drums', '/brands/tama', '/brands/zildjian']
     },
     licksUrl: '/drummers/gene-hoglan/licks',
@@ -2542,7 +2542,7 @@ This guide explores how to capture Chris's powerful groove metal style.`,
     related: {
       drummerProfile: '/drummer/chris-adler',
       similarDrummers: ['Art Cruz', 'Dave Lombardo', 'Vinnie Paul'],
-      relatedGuides: ['how-to-sound-like-dave-lombardo', 'how-to-sound-like-joey-jordison'],
+      relatedGuides: ['how-to-sound-like-dave-lombardo', 'how-to-sound-like-joey-jordison', 'how-to-sound-like-jimmy-degrasso'],
       gearPages: ['/gear/drums', '/brands/mapex', '/brands/meinl']
     },
     licksUrl: '/drummers/chris-adler/licks',
@@ -3063,7 +3063,7 @@ This guide breaks down Kollias's technique, the endurance training behind his st
     related: {
       drummerProfile: '/drummer/george-kollias',
       similarDrummers: ['Flo Mounier', 'Pete Sandoval', 'Derek Roddy'],
-      relatedGuides: ['how-to-sound-like-flo-mounier', 'how-to-sound-like-dave-lombardo'],
+      relatedGuides: ['how-to-sound-like-flo-mounier', 'how-to-sound-like-dave-lombardo', 'how-to-sound-like-alex-rudinger', 'how-to-sound-like-john-longstreth'],
       gearPages: ['/gear/pedals', '/brands/pearl', '/brands/meinl']
     },
     licksUrl: '/drummers/george-kollias/licks',
@@ -4637,7 +4637,7 @@ This guide covers the core techniques, Sonor gear setup, and practice approach t
     related: {
       drummerProfile: '/drummer/nick-menza',
       similarDrummers: ['Dave Lombardo', 'Lars Ulrich', 'Igor Cavalera'],
-      relatedGuides: ['how-to-sound-like-dave-lombardo', 'how-to-sound-like-lars-ulrich'],
+      relatedGuides: ['how-to-sound-like-dave-lombardo', 'how-to-sound-like-lars-ulrich', 'how-to-sound-like-jimmy-degrasso'],
       gearPages: ['/gear/pedals', '/brands/sonor', '/brands/zildjian']
     },
     licksUrl: '/drummers/nick-menza/licks',
@@ -7045,7 +7045,7 @@ This guide covers Daniel's technique across Arch Enemy's melodic death metal cat
     related: {
       drummerProfile: '/drummer/daniel-erlandsson',
       similarDrummers: ['Chris Adler', 'Eloy Casagrande', 'Jaska Raatikainen'],
-      relatedGuides: ['how-to-sound-like-chris-adler', 'how-to-sound-like-eloy-casagrande'],
+      relatedGuides: ['how-to-sound-like-chris-adler', 'how-to-sound-like-eloy-casagrande', 'how-to-sound-like-waltteri-vayrynen'],
       gearPages: ['/gear/pedals', '/brands/pearl', '/brands/paiste']
     },
     licksUrl: '/drummers/daniel-erlandsson/licks',
@@ -7836,7 +7836,7 @@ This guide covers Grossmann's technique in depth — classical influences, open-
     related: {
       drummerProfile: '/drummer/hannes-grossmann',
       similarDrummers: ['Sean Reinert', 'Matt Garstka', 'Flo Mounier'],
-      relatedGuides: ['how-to-sound-like-sean-reinert', 'how-to-sound-like-flo-mounier'],
+      relatedGuides: ['how-to-sound-like-sean-reinert', 'how-to-sound-like-flo-mounier', 'how-to-sound-like-alex-rudinger'],
       gearPages: ['/gear/pedals', '/brands/dw', '/brands/meinl']
     },
     licksUrl: '/drummers/hannes-grossmann/licks',
@@ -8890,7 +8890,7 @@ This guide breaks down exactly how Inferno achieves his signature sound: his Pea
     related: {
       drummerProfile: '/drummer/inferno',
       similarDrummers: ['George Kollias', 'Pete Sandoval', 'Flo Mounier'],
-      relatedGuides: ['how-to-sound-like-george-kollias', 'how-to-sound-like-pete-sandoval', 'how-to-sound-like-flo-mounier'],
+      relatedGuides: ['how-to-sound-like-george-kollias', 'how-to-sound-like-pete-sandoval', 'how-to-sound-like-flo-mounier', 'how-to-sound-like-nick-barker'],
       gearPages: ['/gear/pedals', '/brands/pearl', '/brands/paiste']
     },
     licksUrl: '/drummers/inferno/licks',
@@ -9147,7 +9147,7 @@ This guide breaks down the technique, gear, and practice approach that built one
     related: {
       drummerProfile: '/drummer/pete-sandoval',
       similarDrummers: ['George Kollias', 'Inferno', 'Flo Mounier'],
-      relatedGuides: ['how-to-sound-like-george-kollias', 'how-to-sound-like-inferno', 'how-to-sound-like-flo-mounier'],
+      relatedGuides: ['how-to-sound-like-george-kollias', 'how-to-sound-like-inferno', 'how-to-sound-like-flo-mounier', 'how-to-sound-like-john-longstreth'],
       gearPages: ['/gear/pedals', '/brands/pearl', '/brands/zildjian']
     },
     licksUrl: '/drummers/pete-sandoval/licks',
@@ -9652,7 +9652,7 @@ This guide breaks down the technique, gear, and practice approach behind Hellham
     related: {
       drummerProfile: '/drummer/hellhammer',
       similarDrummers: ['Frost', 'Nicholas Barker', 'Trym Torson'],
-      relatedGuides: ['how-to-sound-like-pete-sandoval', 'how-to-sound-like-george-kollias'],
+      relatedGuides: ['how-to-sound-like-pete-sandoval', 'how-to-sound-like-george-kollias', 'how-to-sound-like-nick-barker'],
       gearPages: ['/gear/pedals', '/brands/sonor', '/brands/paiste']
     },
     licksUrl: '/drummers/hellhammer/licks',
@@ -11624,7 +11624,7 @@ This guide breaks down the technique, gear, and practice approach behind Frost's
     related: {
       drummerProfile: '/drummer/frost',
       similarDrummers: ['Hellhammer', 'Inferno', 'Pete Sandoval'],
-      relatedGuides: ['how-to-sound-like-hellhammer', 'how-to-sound-like-inferno'],
+      relatedGuides: ['how-to-sound-like-hellhammer', 'how-to-sound-like-inferno', 'how-to-sound-like-nick-barker'],
       gearPages: ['/gear/drums', '/brands/pearl', '/brands/zildjian']
     },
     licksUrl: '/drummers/frost/licks',
@@ -12601,7 +12601,7 @@ This guide breaks down the technique, gear, and practice approach behind Lopez's
     related: {
       drummerProfile: '/drummer/martin-lopez',
       similarDrummers: ['Mike Portnoy', 'Hannes Grossmann', 'Morgan Ågren'],
-      relatedGuides: ['how-to-sound-like-mike-portnoy', 'how-to-sound-like-hannes-grossmann'],
+      relatedGuides: ['how-to-sound-like-mike-portnoy', 'how-to-sound-like-hannes-grossmann', 'how-to-sound-like-waltteri-vayrynen'],
       gearPages: ['/gear/drums', '/brands/zildjian', '/gear/pedals']
     },
     licksUrl: '/drummers/martin-lopez/licks',
@@ -12846,7 +12846,7 @@ This guide breaks down the technique, gear, and practice approach behind Roddy's
     related: {
       drummerProfile: '/drummer/derek-roddy',
       similarDrummers: ['Pete Sandoval', 'George Kollias', 'Flo Mounier'],
-      relatedGuides: ['how-to-sound-like-pete-sandoval', 'how-to-sound-like-george-kollias'],
+      relatedGuides: ['how-to-sound-like-pete-sandoval', 'how-to-sound-like-george-kollias', 'how-to-sound-like-john-longstreth'],
       gearPages: ['/gear/drums', '/brands/tama', '/brands/paiste']
     },
     licksUrl: '/drummers/derek-roddy/licks',
@@ -14814,7 +14814,7 @@ This guide breaks down the technique, gear, and practice approach behind Koperwe
     related: {
       drummerProfile: '/drummer/navene-koperweis',
       similarDrummers: ['Matt Garstka', 'Matt Halpern', 'Travis Orbin'],
-      relatedGuides: ['how-to-sound-like-matt-garstka', 'how-to-sound-like-matt-halpern'],
+      relatedGuides: ['how-to-sound-like-matt-garstka', 'how-to-sound-like-matt-halpern', 'how-to-sound-like-alex-rudinger'],
       gearPages: ['/gear/drums', '/brands/dw', '/brands/meinl']
     },
     licksUrl: '/drummers/navene-koperweis/licks',
@@ -17125,7 +17125,7 @@ This guide breaks down Axenrot's playing across both sides of that range — the
     related: {
       drummerProfile: '/drummer/martin-axenrot',
       similarDrummers: ['Martin Lopez', 'Tomas Haake', 'Mario Duplantier'],
-      relatedGuides: ['how-to-sound-like-tomas-haake', 'how-to-sound-like-mario-duplantier'],
+      relatedGuides: ['how-to-sound-like-tomas-haake', 'how-to-sound-like-mario-duplantier', 'how-to-sound-like-waltteri-vayrynen'],
       gearPages: ['/gear/cymbals', '/brands/meinl', '/brands/sonor']
     },
     licksUrl: '/drummers/martin-axenrot/licks',

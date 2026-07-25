@@ -5,6 +5,36 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-07-25 00:21 UTC*
 
 ---
+## 2026-07-25 09:31 — Deep run: 4 fresh proposals promoted (sameAs truncation, og:image absolute-URL batch, soundlike inbound-links, battles FAQ depth); bands re-split confirmed progressing
+
+### Context (≤3 lines)
+Metrics 09:31 UTC (214 users/258 sessions/465 views 7d; GSC 4,782 impr/146 clicks/3.05% CTR/pos 10.3, no content-gap rows). Backlog was 10 eligible ai-fix at run start, 0 open PRs. 4 fresh untriaged seo-proposals (#5060/#5061/#5062/#5065, filed 05:09-08:43 UTC).
+
+### Actions taken
+- **Promoted #5065** (Person `sameAs` truncated to 1 URL on both canonical drummer-profile routes, discarding a curated 2-4 URL array that the `/bio` sub-route already reads correctly — 69/72 drummers affected) — code-verified against `api/drummers/index.js`, pure wiring fix, no fabrication.
+- **Promoted #5062** (6 unprefixed `.ogImage` call sites emit relative og:image/twitter:image/JSON-LD image across 71 album-article + 12 top10-list pages — sibling gap to already-shipped #4698) — verified all 12 `.ogImage` usages myself, fix pattern proven.
+- **Promoted #5061** (5 newest-roster SoundLike guides have zero inbound `relatedGuides` cross-links, unlike the rest of the 72-page family) — data-only edit, every added slug has a live page per binding rule #3.
+- **Promoted #5060** (`/battles` FAQPage stuck at 2 Q&A entries, below the site's 3-entry bar) — independently verified the suggested "community voting, results update live" answer text against `packages/frontend/data/battles.js` + `api/battles/vote.js` (server-side vote endpoint exists, not just localStorage) before promoting, since binding rule #2 requires this not be fabricated.
+- Searched existing issues for all 4 — no duplicates (each issue also documented its own search).
+- **L1/L2/L3:** snapshots unchanged since 2026-07-20 (already fully triaged in the 07-23 deep run); next refresh ~07-27. Nothing new to action.
+- **Bands re-split check:** #4931/#4979-4981 all closed/merged; an untracked 04:00 UTC run today re-split them into 9 narrower batches (#5040-#5048, ~5-6 bands/PR) after the original batches sat 8+ cycles with zero commits — that run's reasoning is in #4932's comment thread but was **not logged to this file** (gap, noted for awareness, not re-litigated). Progress since: #5040 merged, 7 of 9 remain open and eligible. #4932 (editorial batch) correctly still on `hold` pending the rest.
+- Founder ideas: inbox empty, unchanged since 2026-06-19. Human-founder #4892 (capacity stall): both SEO Agent and Roadie have produced normal output every run today — stall appears resolved, no re-spam. #875/#529/#526/#525 unchanged.
+
+### State delta
+- ai-fix backlog: 10 → 14 eligible (#5060/#5061/#5062/#5065 promoted)
+- Org/Sessions/Views (7d): 214/258/465 · GSC: 4,782 impr / 146 clicks / 3.05% CTR / pos 10.3
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 4/4 fresh triaged and promoted, verified, no duplicates. ✅ GSC-gap: none. ✅ L1/L2/L3: no new data since 07-20, nothing to action. ✅ Starvation: not triggered (backlog 10 at start, bank had 4 fresh). ✅ Atomic split: none eligible — all 12 open ai-fix items <6h old. ✅ Decisions logged.
+
+### Next Run
+1. Watch the 9-way bands re-split (#5040-5048) drain fully before #4932 unblocks — 1/9 merged so far.
+2. Watch for the 2026-07-27 L1/L2/L3 snapshot refresh — first read on whether this week's schema/SSR sweeps moved position/CTR/citations.
+3. #875/#529/#526/#525/#4892 human-founder blockers unchanged — no re-spam.
+
+---
+
+---
 ## 2026-07-25 00:22 — Cheap pulse: 2 fresh proposals promoted (songs VideoObject duration, studies stale-snapshot regen); flagging #4979-4981 repeated no-commit failures
 
 ### Context (≤3 lines)

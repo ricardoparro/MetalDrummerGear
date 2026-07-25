@@ -85,6 +85,18 @@ const STALE_BUFFER_H = 1; // small grace on top of the 2× multiplier
 const DROUGHT_WINDOW_H = 24;
 const SNAPSHOT_STALE_DAYS = 8;
 
+// Marker prefix for "the loop failed only because both Claude subscriptions
+// were out of quota" alerts. The message builders partition on it, so quota
+// pauses are reported in their own section instead of reading as breakage.
+const QUOTA_PREFIX = '⏳ ';
+// Signatures printed by run-claude.sh / .roadie/drain.sh when the primary AND
+// backup subscriptions are both limited. Kept in sync with those scripts.
+const QUOTA_LOG_RE = /(hit your (?:session|weekly|usage) limit|Backup subscription is also limited|Primary limited and no CLAUDE_CODE_OAUTH_TOKEN_2)/i;
+// "You've hit your session limit · resets 8pm (UTC)" → scope + reset time.
+const QUOTA_DETAIL_RE = /hit your (session|weekly|usage) limit\s*(?:·|\.|-)?\s*resets\s+([^\n\r]{1,40})/i;
+// Cap on log bytes pulled per failed job — we only need the tail signatures.
+const QUOTA_LOG_MAX_BYTES = 512 * 1024;
+
 // ===========================================================================
 // GitHub REST helper — same style as generate-digest.cjs collectGitHubData().
 // ===========================================================================
@@ -204,11 +216,25 @@ function postToTelegram(text) {
 /**
  * #1 — Critical-workflow failure. Given a workflow descriptor and its most
  * recent run object, alert if that run's conclusion is a hard failure.
+ *
+ * Quota-aware (2026-07-25): agentic loops (CEO / SEO / Roadie) legitimately
+ * fail when BOTH Claude subscriptions are inside a usage-limit window — the
+ * failover in run-claude.sh / drain.sh worked, there was simply no quota to
+ * spend. That is self-healing and needs no action, but it looked identical to
+ * a real crash in the alert text. The live path attaches `run.quotaInfo`
+ * (see classifyFailure) and we render those with a distinct ⏳ prefix, which
+ * the message builders group into their own section. Still reported — the
+ * founder wants to know when quota ran out — just never mistaken for a bug.
  */
 function evalWorkflowFailure(wf, run) {
   if (!run) return [];
   if (run.status && run.status !== 'completed') return []; // still running — don't judge
   if (FAILED_CONCLUSIONS.has(run.conclusion)) {
+    if (run.quotaInfo && run.quotaInfo.quota) {
+      const reset = run.quotaInfo.resets ? `, resets ${run.quotaInfo.resets}` : '';
+      const scope = run.quotaInfo.scope || 'usage';
+      return [`${QUOTA_PREFIX}${wf.name} (${wf.file}) — both Claude subscriptions hit their ${scope} limit${reset} — self-healing, no action needed (${run.created_at})`];
+    }
     return [`${wf.name} (${wf.file}) last run ${run.conclusion} — ${run.created_at}`];
   }
   return [];
@@ -309,12 +335,37 @@ function actionsUrl() {
   return `https://github.com/${REPO}/actions`;
 }
 
+// Split alerts into quota pauses (⏳-prefixed) and everything else, so both
+// the Telegram message and the umbrella issue can say WHICH kind of trouble
+// this is at a glance instead of lumping a self-healing quota window in with
+// a genuine breakage.
+function partitionAlerts(alerts) {
+  const quota = [], real = [];
+  for (const a of alerts) (a.startsWith(QUOTA_PREFIX) ? quota : real).push(a);
+  return { quota, real };
+}
+const stripPrefix = (a) => a.startsWith(QUOTA_PREFIX) ? a.slice(QUOTA_PREFIX.length) : a;
+
 function buildTelegramText(alerts, now = new Date()) {
+  const { quota, real } = partitionAlerts(alerts);
   const lines = [];
-  lines.push('🚨 <b>Loop Watchdog</b>');
-  lines.push(`<i>${now.toISOString().slice(0, 16).replace('T', ' ')} UTC · ${alerts.length} alert${alerts.length === 1 ? '' : 's'}</i>`);
-  lines.push('');
-  for (const a of alerts) lines.push(`• ${esc(a)}`);
+  // Headline reflects the WORST class present: a quota-only cycle is a pause,
+  // not an incident, and the founder should see that from the notification.
+  lines.push(real.length > 0 ? '🚨 <b>Loop Watchdog</b>' : '⏳ <b>Loop Watchdog</b> — subscription limit');
+  const counts = [];
+  if (real.length) counts.push(`${real.length} alert${real.length === 1 ? '' : 's'}`);
+  if (quota.length) counts.push(`${quota.length} quota pause${quota.length === 1 ? '' : 's'}`);
+  lines.push(`<i>${now.toISOString().slice(0, 16).replace('T', ' ')} UTC · ${counts.join(' · ')}</i>`);
+  if (real.length) {
+    lines.push('');
+    lines.push('<b>🚨 Needs attention</b>');
+    for (const a of real) lines.push(`• ${esc(a)}`);
+  }
+  if (quota.length) {
+    lines.push('');
+    lines.push('<b>⏳ Claude subscription limit</b> <i>(expected, recovers by itself)</i>');
+    for (const a of quota) lines.push(`• ${esc(stripPrefix(a))}`);
+  }
   lines.push('');
   lines.push(`<a href="${actionsUrl()}">Actions tab →</a>`);
   return lines.join('\n');
@@ -336,10 +387,26 @@ function buildIssueBody(alerts, now = new Date()) {
   lines.push('');
   lines.push(`_Auto-maintained by \`.agents/scripts/watchdog.cjs\`. Last checked ${now.toISOString().slice(0, 16).replace('T', ' ')} UTC._`);
   lines.push('');
-  lines.push(`## 🚨 ${alerts.length} active alert${alerts.length === 1 ? '' : 's'}`);
+  const { quota, real } = partitionAlerts(alerts);
+  const counts = [];
+  if (real.length) counts.push(`${real.length} active alert${real.length === 1 ? '' : 's'}`);
+  if (quota.length) counts.push(`${quota.length} quota pause${quota.length === 1 ? '' : 's'}`);
+  lines.push(`## ${real.length > 0 ? '🚨' : '⏳'} ${counts.join(' · ')}`);
   lines.push('');
-  for (const a of alerts) lines.push(`- ${a}`);
-  lines.push('');
+  if (real.length) {
+    lines.push('### 🚨 Needs attention');
+    lines.push('');
+    for (const a of real) lines.push(`- ${a}`);
+    lines.push('');
+  }
+  if (quota.length) {
+    lines.push('### ⏳ Claude subscription limit — expected, recovers by itself');
+    lines.push('');
+    lines.push('_Both the primary and backup subscriptions were inside a usage-limit window, so the run had no quota to spend. The failover in `run-claude.sh` / `.roadie/drain.sh` worked as designed; the next scheduled run picks up once the window resets. Recurring often ⇒ throttle loop cadence/width (see the token-budget note in `docs/loops.md`)._');
+    lines.push('');
+    for (const a of quota) lines.push(`- ${stripPrefix(a)}`);
+    lines.push('');
+  }
   lines.push(`[Actions tab →](${actionsUrl()})`);
   lines.push('');
   lines.push('This issue closes automatically once all checks pass.');
@@ -369,6 +436,72 @@ async function latestRun(wf) {
       return null;
     }
     throw e;
+  }
+}
+
+/**
+ * Fetch a job's plain-text log. The GitHub logs endpoint answers 302 with a
+ * signed storage URL; the signature IS the auth, so the redirect must be
+ * followed WITHOUT the Authorization header (sending it can 400 on the CDN).
+ * Truncated to QUOTA_LOG_MAX_BYTES — we only match tail signatures.
+ */
+function fetchJobLog(jobId) {
+  const token = process.env.GITHUB_TOKEN;
+  if (!token) return Promise.resolve('');
+  const get = (options, withAuth) => new Promise((resolve, reject) => {
+    const headers = {
+      'Accept': 'application/vnd.github+json',
+      'User-Agent': 'metalforge-watchdog/1.0',
+    };
+    if (withAuth) headers['Authorization'] = `Bearer ${token}`;
+    const req = https.request({ ...options, method: 'GET', headers }, (res) => {
+      if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
+        res.resume();
+        const u = new URL(res.headers.location);
+        // Redirect target is pre-signed: do NOT forward the token.
+        resolve(get({ hostname: u.hostname, path: u.pathname + u.search }, false));
+        return;
+      }
+      if (res.statusCode < 200 || res.statusCode >= 300) {
+        res.resume();
+        reject(new Error(`log fetch → ${res.statusCode}`));
+        return;
+      }
+      let body = '';
+      res.on('data', (c) => {
+        if (body.length < QUOTA_LOG_MAX_BYTES) body += c;
+      });
+      res.on('end', () => resolve(body));
+    });
+    req.on('error', reject);
+    req.end();
+  });
+  return get({ hostname: 'api.github.com', path: `/repos/${REPO}/actions/jobs/${jobId}/logs` }, true);
+}
+
+/**
+ * Decide WHY a failed run failed: an exhausted Claude subscription (expected,
+ * self-healing) or something that needs a human. Reads the failed jobs' logs
+ * and matches the failover scripts' own signatures.
+ *
+ * Degrades to `{ quota: false }` on any error — an unclassifiable failure must
+ * still alert loudly rather than be silently downgraded.
+ */
+async function classifyFailure(run) {
+  try {
+    const data = await ghRequest('GET', `/repos/${REPO}/actions/runs/${run.id}/jobs?per_page=30`);
+    const failed = ((data && data.jobs) || []).filter(j => FAILED_CONCLUSIONS.has(j.conclusion));
+    for (const job of failed) {
+      let log = '';
+      try { log = await fetchJobLog(job.id); } catch { continue; }
+      if (!QUOTA_LOG_RE.test(log)) continue;
+      const m = log.match(QUOTA_DETAIL_RE);
+      return { quota: true, scope: m ? m[1].toLowerCase() : 'usage', resets: m ? m[2].trim() : null };
+    }
+    return { quota: false };
+  } catch (e) {
+    process.stderr.write(`  couldn't classify failure of run ${run.id}: ${e.message}\n`);
+    return { quota: false };
   }
 }
 
@@ -547,6 +680,29 @@ function selfTest() {
   check('in-progress workflow → 0 alerts',
     evalWorkflowFailure(wf, { status: 'in_progress', conclusion: null, created_at: now.toISOString() }).length, 0);
 
+  // Fixture A2: a failure caused purely by both Claude subscriptions being out
+  // of quota still alerts (the founder wants to know), but as a ⏳ quota pause
+  // routed to its own section — never mistaken for breakage.
+  const quotaRun = {
+    status: 'completed', conclusion: 'failure', created_at: now.toISOString(),
+    quotaInfo: { quota: true, scope: 'session', resets: '8pm (UTC)' },
+  };
+  const quotaAlerts = evalWorkflowFailure(wf, quotaRun);
+  check('quota-limited failure → 1 alert', quotaAlerts.length, 1);
+  check('quota alert carries the ⏳ prefix', quotaAlerts[0].startsWith(QUOTA_PREFIX), true);
+  check('quota alert names the reset time', /resets 8pm \(UTC\)/.test(quotaAlerts[0]), true);
+  // An unclassifiable failure must NOT be downgraded.
+  check('failure with quota:false stays a hard alert',
+    evalWorkflowFailure(wf, { ...failedRun, quotaInfo: { quota: false } })[0].startsWith(QUOTA_PREFIX), false);
+  // Builders route the two classes into distinct sections/headlines.
+  const mixed = [...quotaAlerts, 'SEO Agent (seo-agent.yml) last run failure — x'];
+  check('telegram: mixed → incident headline', buildTelegramText(mixed, now).startsWith('🚨'), true);
+  check('telegram: quota-only → pause headline', buildTelegramText(quotaAlerts, now).startsWith('⏳'), true);
+  check('issue body: quota-only → no "Needs attention" section',
+    /Needs attention/.test(buildIssueBody(quotaAlerts, now)), false);
+  check('issue body: mixed → has both sections',
+    /Needs attention/.test(buildIssueBody(mixed, now)) && /subscription limit/i.test(buildIssueBody(mixed, now)), true);
+
   // Fixture B: a healthy, recent success → 0 alerts (failure + stale both clear).
   const healthyRun = {
     status: 'completed', conclusion: 'success',
@@ -627,6 +783,14 @@ async function run({ dryRun }) {
   for (const wf of CRITICAL_WORKFLOWS) {
     const runObj = await latestRun(wf);
     const createdAt = runObj ? null : await workflowCreatedAt(wf);
+    // Only classify actual failures — one extra API round-trip per broken run,
+    // never on the healthy path.
+    if (runObj && runObj.status === 'completed' && FAILED_CONCLUSIONS.has(runObj.conclusion)) {
+      runObj.quotaInfo = await classifyFailure(runObj);
+      if (runObj.quotaInfo.quota) {
+        process.stderr.write(`  ${wf.file}: failure is a Claude ${runObj.quotaInfo.scope}-limit pause (resets ${runObj.quotaInfo.resets || '?'}).\n`);
+      }
+    }
     workflows.push({ wf, run: runObj, createdAt });
   }
   const roadie = await collectRoadie();

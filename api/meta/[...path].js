@@ -281,7 +281,7 @@ const BASE_URL = 'https://metalforge.io';
 const SITE_NAME = 'MetalForge';
 const TWITTER_HANDLE = '@MetalDrumGear';
 const DEFAULT_IMAGE = `${BASE_URL}/og-image.png`;
-const DEFAULT_DESCRIPTION = 'Explore the drum kits, cymbals, and gear used by legendary metal drummers. Discover what Lars Ulrich, Joey Jordison, Dave Lombardo and 67 pro drummers play.';
+const DEFAULT_DESCRIPTION = `Explore the drum kits, cymbals, and gear used by legendary metal drummers. Discover what Lars Ulrich, Joey Jordison, Dave Lombardo and ${drummers.length} pro drummers play.`;
 
 // Issue #4373: fallback dates for TOP_10_LISTS entries that predate the
 // per-entry datePublished/dateModified fields (only the 12 isArticle:true
@@ -683,7 +683,7 @@ export function getMetaForPath(pathname) {
                 name: 'How many metal drummers are in the quiz?',
                 acceptedAnswer: {
                   '@type': 'Answer',
-                  text: 'The quiz can match you to 67 legendary metal drummers in the MetalForge database, from Lars Ulrich and Joey Jordison to George Kollias and Tomas Haake.',
+                  text: `The quiz can match you to ${drummers.length} legendary metal drummers in the MetalForge database, from Lars Ulrich and Joey Jordison to George Kollias and Tomas Haake.`,
                 },
               },
               {
@@ -822,7 +822,7 @@ export function getMetaForPath(pathname) {
   if (path === '/stats') {
     return {
       title: `Metal Drummer Gear Statistics — Data-Driven Insights | ${SITE_NAME}`,
-      description: 'Most popular cymbals, drums, and gear among 67 legendary metal drummers. See what the pros actually use (with real stats).',
+      description: `Most popular cymbals, drums, and gear among ${drummers.length} legendary metal drummers. See what the pros actually use (with real stats).`,
       image: `${BASE_URL}/images/og/stats-preview.png`,
       type: 'website',
       url: `${BASE_URL}/stats`,
@@ -831,7 +831,7 @@ export function getMetaForPath(pathname) {
         '@context': 'https://schema.org',
         '@type': 'Dataset',
         name: 'Metal Drummer Gear Statistics',
-        description: 'Most popular cymbals, drums, and hardware among 67 legendary metal drummers — sourced from MetalForge gear database.',
+        description: `Most popular cymbals, drums, and hardware among ${drummers.length} legendary metal drummers — sourced from MetalForge gear database.`,
         url: `${BASE_URL}/stats`,
         creator: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
         variableMeasured: [
@@ -850,7 +850,7 @@ export function getMetaForPath(pathname) {
       faqSchema: [
         {
           question: 'What drum brand do most metal drummers use?',
-          answer: 'Tama is the most popular drum brand among metal drummers on MetalForge, used by a significant percentage of the 67 pros in the database. DW, Pearl, and Ludwig are also widely represented.',
+          answer: `Tama is the most popular drum brand among metal drummers on MetalForge, used by a significant percentage of the ${drummers.length} pros in the database. DW, Pearl, and Ludwig are also widely represented.`,
         },
         {
           question: 'Which cymbal brand is most popular with metal drummers?',
@@ -870,7 +870,7 @@ export function getMetaForPath(pathname) {
   if (path === '/stats/gear-insights') {
     return {
       title: `Metal Drummer Gear Stats & Insights — Brand Usage Data | ${SITE_NAME}`,
-      description: 'Real data: which drum brands, cymbals, and pedals are most popular among 67 pro metal drummers. Usage percentages, trends, and brand breakdowns.',
+      description: `Real data: which drum brands, cymbals, and pedals are most popular among ${drummers.length} pro metal drummers. Usage percentages, trends, and brand breakdowns.`,
       image: `${BASE_URL}/images/og/stats-preview.png`,
       type: 'website',
       url: `${BASE_URL}/stats/gear-insights`,
@@ -879,7 +879,7 @@ export function getMetaForPath(pathname) {
         '@context': 'https://schema.org',
         '@type': 'Dataset',
         name: 'Metal Drummer Gear Brand Usage Statistics',
-        description: 'Brand-by-brand usage percentages across 67 pro metal drummers — drum kits, cymbals, pedals, sticks.',
+        description: `Brand-by-brand usage percentages across ${drummers.length} pro metal drummers — drum kits, cymbals, pedals, sticks.`,
         url: BASE_URL + '/stats/gear-insights',
         creator: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
         variableMeasured: ['Drum kit brand market share', 'Cymbal brand usage %', 'Pedal brand usage %', 'Stick brand usage %'],
@@ -894,7 +894,7 @@ export function getMetaForPath(pathname) {
       faqSchema: [
         {
           question: 'What drum brand do most metal drummers use?',
-          answer: 'Tama is the most popular drum brand among metal drummers on MetalForge, used by a significant percentage of the 67 pros in the database. DW, Pearl, and Ludwig are also widely represented.',
+          answer: `Tama is the most popular drum brand among metal drummers on MetalForge, used by a significant percentage of the ${drummers.length} pros in the database. DW, Pearl, and Ludwig are also widely represented.`,
         },
         {
           question: 'Which cymbal brand is most popular with metal drummers?',
@@ -1047,7 +1047,7 @@ export function getMetaForPath(pathname) {
   if (path === '/vs') {
     return {
       title: `Metal Drummer Gear Comparisons — Side-by-Side Kit & Setup | ${SITE_NAME}`,
-      description: 'Compare drum kits and gear setups of 67 metal legends side by side. Joey Jordison vs Lars Ulrich, George Kollias vs Flo Mounier, and more.',
+      description: `Compare drum kits and gear setups of ${drummers.length} metal legends side by side. Joey Jordison vs Lars Ulrich, George Kollias vs Flo Mounier, and more.`,
       image: `${BASE_URL}/images/og/compare-preview.png`,
       type: 'website',
       url: `${BASE_URL}/vs`,
@@ -1059,7 +1059,7 @@ export function getMetaForPath(pathname) {
         '@context': 'https://schema.org',
         '@type': 'CollectionPage',
         name: 'Metal Drummer Gear Comparisons',
-        description: 'Side-by-side comparisons of drum kits and gear setups for 67 professional metal drummers',
+        description: `Side-by-side comparisons of drum kits and gear setups for ${drummers.length} professional metal drummers`,
         url: `${BASE_URL}/vs`,
         publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
       }),
@@ -1070,7 +1070,7 @@ export function getMetaForPath(pathname) {
       faqSchema: [
         {
           question: 'What does the MetalForge drummer comparison hub cover?',
-          answer: `MetalForge's /vs hub features ${Object.values(DRUMMER_COMPARISONS).length} side-by-side gear comparisons of metal drummers, covering 67 legends across genres from thrash to death metal.`,
+          answer: `MetalForge's /vs hub features ${Object.values(DRUMMER_COMPARISONS).length} side-by-side gear comparisons of metal drummers, covering ${drummers.length} legends across genres from thrash to death metal.`,
         },
         {
           question: 'What gets compared in a MetalForge drummer comparison?',
@@ -1368,7 +1368,7 @@ export function getMetaForPath(pathname) {
   if (path === '/gear') {
     return {
       title: `Pro Metal Drum Gear — Kits, Cymbals & Equipment | ${SITE_NAME}`,
-      description: 'Browse drum gear used by 67 metal legends. Shop cymbals, kits, snares, pedals, sticks, and hardware — filtered by genre, brand, and price.',
+      description: `Browse drum gear used by ${drummers.length} metal legends. Shop cymbals, kits, snares, pedals, sticks, and hardware — filtered by genre, brand, and price.`,
       image: DEFAULT_IMAGE,
       type: 'website',
       url: `${BASE_URL}/gear`,
@@ -1387,12 +1387,12 @@ export function getMetaForPath(pathname) {
         '@context': 'https://schema.org',
         '@type': 'CollectionPage',
         name: 'Pro Metal Drum Gear',
-        description: 'Browse drum gear used by 67 metal legends. Shop cymbals, kits, snares, pedals, sticks, and hardware — filtered by genre, brand, and price.',
+        description: `Browse drum gear used by ${drummers.length} metal legends. Shop cymbals, kits, snares, pedals, sticks, and hardware — filtered by genre, brand, and price.`,
         url: `${BASE_URL}/gear`,
         publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
       }),
       faqSchema: [
-        { question: 'What gear do metal drummers use?', answer: 'MetalForge tracks the drum kits, cymbals, snares, pedals, sticks, and hardware used by 67 pro metal drummers — browse the full gear hub at /gear to see exactly what your favorite drummers play.' },
+        { question: 'What gear do metal drummers use?', answer: `MetalForge tracks the drum kits, cymbals, snares, pedals, sticks, and hardware used by ${drummers.length} pro metal drummers — browse the full gear hub at /gear to see exactly what your favorite drummers play.` },
         { question: 'Can I shop for drum gear by brand?', answer: 'Yes — the MetalForge gear hub lets you filter by brand (Tama, Pearl, Mapex, Zildjian, Meinl, and more) to see every pro metal drummer endorsing that brand and the exact gear they use.' },
         { question: 'Can I find drum gear by genre or budget?', answer: 'Yes — filter the /gear hub by genre (thrash, death, black, prog metal) or browse /gear-by-budget for setups curated under $500, $1000, and $2000.' },
       ],
@@ -1422,7 +1422,7 @@ export function getMetaForPath(pathname) {
     );
     return {
       title: `Metal Drum Kit by Budget — Best Setups Under $500, $1000, $2000 | ${SITE_NAME}`,
-      description: 'Find the perfect metal drum kit for your budget. Browse professional-grade setups under $500, $1000, and $2000 — curated from gear used by 67 pro metal drummers.',
+      description: `Find the perfect metal drum kit for your budget. Browse professional-grade setups under $500, $1000, and $2000 — curated from gear used by ${drummers.length} pro metal drummers.`,
       image: DEFAULT_IMAGE,
       type: 'website',
       url: `${BASE_URL}/gear-by-budget`,
@@ -1431,7 +1431,7 @@ export function getMetaForPath(pathname) {
         '@context': 'https://schema.org',
         '@type': 'CollectionPage',
         name: 'Metal Drum Kits by Budget',
-        description: 'Budget-tiered metal drum kit recommendations based on what 67 pro metal drummers use.',
+        description: `Budget-tiered metal drum kit recommendations based on what ${drummers.length} pro metal drummers use.`,
         url: `${BASE_URL}/gear-by-budget`,
         publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
       }),
@@ -1441,7 +1441,7 @@ export function getMetaForPath(pathname) {
       ],
       // Issue #4917: FAQPage — hub/tool route sweep gap.
       faqSchema: [
-        { question: 'What budget tiers does MetalForge cover?', answer: `MetalForge breaks down metal drum gear into ${Object.values(BUDGET_TIERS).length} budget tiers — ${Object.values(BUDGET_TIERS).map(t => t.label).join(', ')} — curated from gear used by 67 pro metal drummers.` },
+        { question: 'What budget tiers does MetalForge cover?', answer: `MetalForge breaks down metal drum gear into ${Object.values(BUDGET_TIERS).length} budget tiers — ${Object.values(BUDGET_TIERS).map(t => t.label).join(', ')} — curated from gear used by ${drummers.length} pro metal drummers.` },
         { question: 'What\'s a good starter budget for a metal drum kit?', answer: `The Entry Level tier covers setups from $${BUDGET_TIERS.entry.minPrice.toLocaleString()} to $${BUDGET_TIERS.entry.maxPrice.toLocaleString()} — great for beginners and budget-conscious drummers.` },
       ],
       // Issue #4916: SpeakableSpecification — hub/tool route sweep gap.
@@ -1538,7 +1538,7 @@ export function getMetaForPath(pathname) {
         },
         {
           question: 'What kind of drummer news does MetalForge track?',
-          answer: 'The /news hub aggregates gear changes, brand endorsement deals, band lineup updates, and new equipment releases affecting the metal drummers tracked across MetalForge\'s 67-drummer database.',
+          answer: `The /news hub aggregates gear changes, brand endorsement deals, band lineup updates, and new equipment releases affecting the metal drummers tracked across MetalForge's ${drummers.length}-drummer database.`,
         },
         {
           question: 'Where can I find the latest gear endorsement changes?',
@@ -1860,7 +1860,7 @@ export function getMetaForPath(pathname) {
         { name: 'Compare Tool', url: `${BASE_URL}/tools/compare` },
       ],
       faqSchema: [
-        { question: 'How can I compare two metal drummers gear?', answer: 'Use MetalForge Compare Tool at /tools/compare — select any two of 67 metal drummers to see their kits, cymbals, pedals, and hardware side-by-side with full spec breakdowns.' },
+        { question: 'How can I compare two metal drummers gear?', answer: `Use MetalForge Compare Tool at /tools/compare — select any two of ${drummers.length} metal drummers to see their kits, cymbals, pedals, and hardware side-by-side with full spec breakdowns.` },
         { question: 'Who has a bigger drum kit, Lars Ulrich or Joey Jordison?', answer: 'Compare Lars Ulrich vs Joey Jordison on MetalForge. Both use large format kits with double bass; see the complete side-by-side on /tools/compare/lars-ulrich-vs-joey-jordison.' },
         { question: 'Which metal drummer uses more cymbals?', answer: 'Mike Portnoy and Danny Carey are known for having the largest cymbal configurations among metal drummers. Compare any two drummers cymbal setups on MetalForge.' },
       ],
@@ -2027,7 +2027,7 @@ export function getMetaForPath(pathname) {
         { name: 'Compare', url: `${BASE_URL}/compare` },
       ],
       faqSchema: [
-        { question: 'How can I compare two metal drummers gear?', answer: 'Use MetalForge Compare at /compare — select any two of 67 metal drummers to see their kits, cymbals, pedals, and hardware side-by-side with full spec breakdowns.' },
+        { question: 'How can I compare two metal drummers gear?', answer: `Use MetalForge Compare at /compare — select any two of ${drummers.length} metal drummers to see their kits, cymbals, pedals, and hardware side-by-side with full spec breakdowns.` },
         { question: 'Who has a bigger drum kit, Lars Ulrich or Joey Jordison?', answer: 'Compare Lars Ulrich vs Joey Jordison on MetalForge. Both use large format kits with double bass; see the complete side-by-side on /compare.' },
         { question: 'Which metal drummer uses more cymbals?', answer: 'Mike Portnoy and Danny Carey are known for having the largest cymbal configurations among metal drummers. Compare any two drummers cymbal setups on MetalForge.' },
       ],
@@ -2129,7 +2129,7 @@ export function getMetaForPath(pathname) {
   if (path === '/tools/gear-search' || path === '/tools/gear-finder') {
     return {
       title: `Metal Drummer Gear Search — Find Drums & Cymbals by Spec | ${SITE_NAME}`,
-      description: 'Search and filter drum gear used by 67 metal legends. Find kits, cymbals, pedals, and sticks by brand, price, or drummer.',
+      description: `Search and filter drum gear used by ${drummers.length} metal legends. Find kits, cymbals, pedals, and sticks by brand, price, or drummer.`,
       image: `${BASE_URL}/images/og/default.png`,
       type: 'website',
       url: `${BASE_URL}/tools/gear-search`,
@@ -2149,7 +2149,7 @@ export function getMetaForPath(pathname) {
       // Issue #4917: FAQPage — hub/tool route sweep gap.
       faqSchema: [
         { question: 'Is the metal drummer gear search free to use?', answer: 'Yes — gear search is a free tool, no signup required.' },
-        { question: 'What can I search for with the gear search tool?', answer: 'Search and filter drum gear used by 67 metal legends — find kits, cymbals, pedals, and sticks by brand, price, or drummer.' },
+        { question: 'What can I search for with the gear search tool?', answer: `Search and filter drum gear used by ${drummers.length} metal legends — find kits, cymbals, pedals, and sticks by brand, price, or drummer.` },
       ],
       // Issue #4916: SpeakableSpecification — hub/tool route sweep gap.
       speakableSchema: true,
@@ -2334,7 +2334,7 @@ export function getMetaForPath(pathname) {
         mainEntity: {
           '@type': 'ItemList',
           name: 'Metal Drummer Birthdays',
-          description: 'Birthdays of 67 professional metal drummers',
+          description: `Birthdays of ${drummers.length} professional metal drummers`,
           numberOfItems: drummerBirthdays.length,
           itemListElement: CURATED_BIRTHDAY_SAMPLE.map((entry, index) => {
             const bd = drummerBirthdays.find(d => d.slug === entry.slug);
@@ -3161,7 +3161,7 @@ export function getMetaForPath(pathname) {
   if (path === '/licks') {
     return {
       title: `Signature Metal Drum Licks — Learn from the Legends | ${SITE_NAME}`,
-      description: 'Master the signature drum licks of 67 metal legends. Step-by-step breakdowns of blast beats, double bass patterns, and iconic fills from George Kollias, Joey Jordison, and more.',
+      description: `Master the signature drum licks of ${drummers.length} metal legends. Step-by-step breakdowns of blast beats, double bass patterns, and iconic fills from George Kollias, Joey Jordison, and more.`,
       image: DEFAULT_IMAGE,
       type: 'website',
       url: `${BASE_URL}/licks`,
@@ -3177,7 +3177,7 @@ export function getMetaForPath(pathname) {
           {
             '@type': 'CollectionPage',
             name: 'Signature Metal Drum Licks',
-            description: 'Master the signature drum licks of 67 metal legends. Step-by-step breakdowns of blast beats, double bass patterns, and iconic fills from George Kollias, Joey Jordison, and more.',
+            description: `Master the signature drum licks of ${drummers.length} metal legends. Step-by-step breakdowns of blast beats, double bass patterns, and iconic fills from George Kollias, Joey Jordison, and more.`,
             url: `${BASE_URL}/licks`,
             publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
           },
@@ -4469,7 +4469,7 @@ export function getMetaForPath(pathname) {
   if (path === '/gear') {
     return {
       title: `Pro Metal Drum Gear — Kits, Cymbals & Equipment | ${SITE_NAME}`,
-      description: 'Browse drum gear used by 67 metal legends. Shop cymbals, kits, snares, pedals, sticks, and hardware — filtered by genre, brand, and price.',
+      description: `Browse drum gear used by ${drummers.length} metal legends. Shop cymbals, kits, snares, pedals, sticks, and hardware — filtered by genre, brand, and price.`,
       image: DEFAULT_IMAGE,
       type: 'website',
       url: `${BASE_URL}/gear`,
@@ -4647,7 +4647,7 @@ export function getMetaForPath(pathname) {
   const GEAR_CATEGORY_META = {
     cymbals: {
       name: 'Metal Cymbals',
-      description: 'Cymbals used by 67 metal legends — Zildjian, Paiste, Meinl, Sabian. Filter by brand, price, and drummer.',
+      description: `Cymbals used by ${drummers.length} metal legends — Zildjian, Paiste, Meinl, Sabian. Filter by brand, price, and drummer.`,
     },
     snares: {
       name: 'Metal Snare Drums',
@@ -5200,7 +5200,7 @@ export function getMetaForPath(pathname) {
   if (path === '/battles') {
     return {
       title: `Metal Drummer Battles — Vote for the Best | ${SITE_NAME}`,
-      description: 'Vote in head-to-head metal drummer battles. Who has the better kit? Compare setups and cast your vote for 67 legendary drummers.',
+      description: `Vote in head-to-head metal drummer battles. Who has the better kit? Compare setups and cast your vote for ${drummers.length} legendary drummers.`,
       image: DEFAULT_IMAGE,
       type: 'website',
       url: `${BASE_URL}/battles`,
@@ -5303,7 +5303,7 @@ export function getMetaForPath(pathname) {
   if (path === '/spotlights') {
     return {
       title: `Metal Drummer Spotlights — Featured Profiles & Stories | ${SITE_NAME}`,
-      description: 'Deep-dive spotlight features on metal drumming legends. Equipment breakdowns, career milestones, and gear stories for 67 pro drummers.',
+      description: `Deep-dive spotlight features on metal drumming legends. Equipment breakdowns, career milestones, and gear stories for ${drummers.length} pro drummers.`,
       image: DEFAULT_IMAGE,
       type: 'website',
       url: `${BASE_URL}/spotlights`,
@@ -5359,7 +5359,7 @@ export function getMetaForPath(pathname) {
       .slice(0, 5);
     return {
       title: `Metal Drummer Quotes — Insights on Gear & Technique | ${SITE_NAME}`,
-      description: "Memorable quotes from the world's greatest metal drummers on gear, technique, and the craft. From Lars Ulrich, Joey Jordison, Tomas Haake, and 67 legends.",
+      description: `Memorable quotes from the world's greatest metal drummers on gear, technique, and the craft. From Lars Ulrich, Joey Jordison, Tomas Haake, and ${drummers.length} legends.`,
       image: DEFAULT_IMAGE,
       type: 'website',
       url: `${BASE_URL}/quotes`,
@@ -5461,7 +5461,7 @@ export function getMetaForPath(pathname) {
       faqSchema: [
         {
           question: 'Which metal drummers are currently endorsed by Tama?',
-          answer: 'MetalForge tracks Tama endorsements across 67 metal drummers. Visit /endorsement-news or browse individual drummer profiles to see current Tama endorsement deals.',
+          answer: `MetalForge tracks Tama endorsements across ${drummers.length} metal drummers. Visit /endorsement-news or browse individual drummer profiles to see current Tama endorsement deals.`,
         },
         {
           question: 'What does it mean for a drummer to be endorsed by a brand?',
@@ -5495,7 +5495,7 @@ export function getMetaForPath(pathname) {
     );
     return {
       title: `Metal Drummer Quick Facts — Records, Stats & Trivia | ${SITE_NAME}`,
-      description: 'Quick facts, records, and trivia about metal drummers. Fastest blast beats, most expensive kits, career milestones, and gear stats from 67 pros.',
+      description: `Quick facts, records, and trivia about metal drummers. Fastest blast beats, most expensive kits, career milestones, and gear stats from ${drummers.length} pros.`,
       image: DEFAULT_IMAGE,
       type: 'website',
       url: `${BASE_URL}/facts`,
@@ -5504,7 +5504,7 @@ export function getMetaForPath(pathname) {
         '@context': 'https://schema.org',
         '@type': 'CollectionPage',
         name: 'Metal Drummer Quick Facts',
-        description: 'Quick facts, records, and trivia about metal drummers. Fastest blast beats, most expensive kits, career milestones, and gear stats from 67 pros.',
+        description: `Quick facts, records, and trivia about metal drummers. Fastest blast beats, most expensive kits, career milestones, and gear stats from ${drummers.length} pros.`,
         url: `${BASE_URL}/facts`,
         publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
         about: { '@type': 'Thing', name: 'Metal Drumming' },
@@ -5515,7 +5515,7 @@ export function getMetaForPath(pathname) {
       faqSchema: [
         {
           question: 'What kind of metal drummer facts does MetalForge cover?',
-          answer: 'MetalForge\'s quick facts hub covers records, stats, and trivia about metal drummers — fastest blast beats, most expensive kits, career milestones, and gear stats from 67 pros.',
+          answer: `MetalForge's quick facts hub covers records, stats, and trivia about metal drummers — fastest blast beats, most expensive kits, career milestones, and gear stats from ${drummers.length} pros.`,
         },
         {
           question: 'What are some notable metal drumming records?',

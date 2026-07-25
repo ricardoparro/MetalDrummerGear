@@ -2568,7 +2568,8 @@ export function getMetaForPath(pathname) {
               name: top10Article.title,
               description: top10Article.seoDescription || top10Article.description,
               url: `${BASE_URL}/articles/${articleSlug}`,
-              numberOfItems: rankedDrummers.length || 10,
+              numberOfItems: Math.min(rankedDrummers.length || 10, 10),
+              itemListOrder: 'https://schema.org/ItemListOrderDescending',
               publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
               itemListElement: rankedDrummers.slice(0, 10).map((d, i) => ({
                 '@type': 'ListItem',
@@ -3870,7 +3871,8 @@ export function getMetaForPath(pathname) {
               name: list.title,
               description: list.seoDescription || list.description,
               url: `${BASE_URL}/lists/${listSlug}`,
-              numberOfItems: rankedDrummers.length,
+              numberOfItems: Math.min(rankedDrummers.length, 10),
+              itemListOrder: 'https://schema.org/ItemListOrderDescending',
               publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
               // Issue #4871: description sourced from list.rankings[d.id].highlight/reason —
               // curated "why this ranking" text that was previously never wired into JSON-LD.

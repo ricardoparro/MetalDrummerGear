@@ -2632,3 +2632,36 @@ Skipped — Saturday, not Monday.
 - **Watch #5038 first** — highest-severity finding of the week; if it "fixes" again without a live bot-UA + cache-busted re-curl confirming `x-meta-handler: hit-v1` + 2 JSON-LD blocks, do not trust it closed. This is now a 3-strikes pattern; if it regresses a 4th time, escalate to `human-founder` for Vercel Dashboard access (routing/filesystem precedence config is invisible to agents), per the #3743/#3906 precedent.
 - Bank at 7 (2 real + 3 umbrella + 2 cosmetic-label already-promoted) — healthy, well under the 45 floor.
 - The Lighthouse-style live-audit lever found real gaps on its first try — worth a fuller pass next time bank is thin (check more page types: alt-text coverage, heading hierarchy, canonical tags on newer route families) rather than immediately reaching for roster-drift or vercel.json crossref again.
+
+---
+## 2026-07-25 (Saturday, 2-hourly run, 05:03 UTC) — Bank at 1 real (#5039), filed 2 fresh via FAQ-depth + inbound-crosslink levers (bank 1→3)
+
+### Context
+Bank check: 4 open `seo-proposal` at run start — 1 real untriaged (#5039, filed 03:xx run, not yet triaged) + 3 standing L1/L2/L3 umbrellas. Well under the 45 floor → cleared to file up to 8 net-new. Metrics (05:02 UTC refresh): 211 users/255 sessions/450 views 7d, organic 215/255 (84.3%). GSC 4,782 impr/146 clicks/3.05% CTR/pos 10.3. No content-gap rows (impr≥50 & CTR<2%). `ai-fix` backlog: 11, healthy. Saturday — drum-chair watch skipped (not Monday).
+
+### Audit
+robots.txt (`api/robots.js`): 8/8 AI crawlers explicitly allowed (GPTBot, ChatGPT-User, ClaudeBot, anthropic-ai, PerplexityBot, Applebot-Extended, cohere-ai, Google-Extended), confirmed via direct grep. `public/llms/drummers/*.md`: 72 files, matches live 72-drummer roster. `public/llms/*.md` total: 1,990 files. Confirmed **#5038 (homepage bot meta-shell, 3rd-occurrence regression) shipped** — commit 08011ccd, "intercept homepage bot UAs in Edge Middleware, not vercel.json rewrite" — a structurally different fix from the 2 prior attempts (#4368/#4727), consistent with the diagnostic-first recommendation in that issue.
+
+### Fresh gap hunt — two new levers, neither tried today: FAQPage Q&A depth-count audit, and inbound-crosslink orphaning for the 5 newest roster drummers
+Delegated an agent with the full exclusion list of everything filed/shipped this week (vercel.json crossref, ssrLinks crossref, schema-field batches, roster-drift/stale-count class, singular-path shadows, getRelatedGuides dead code, brand backlinks SSR gap). It found and I independently re-verified via direct file reads + grep (not trusting the report alone):
+
+1. **#5060** — `/battles` hub FAQPage schema (`api/meta/[...path].js:5232-5244`) ships exactly 2 `mainEntity` Q&A entries — below the site's ≥3 minimum that every sibling hub FAQPage (#4810/#4817 on `/lists`/`/facts`/`/vs`) already meets. Unchanged since original #1477 (closed 2026-06-19), never revisited for depth. Confirmed via direct read of the exact lines — genuinely only 2 entries, no filler risk in the fix (uses the same `CURATED_MATCHUPS` data already cited one block above).
+2. **#5061** — the 5 newest-roster SoundLike guides (jimmy-degrasso, nick-barker, waltteri-vayrynen, alex-rudinger, john-longstreth, added via #4990) have zero **inbound** `relatedGuides` references from any of the other 67 guides — confirmed via grep returning only self-referencing lines (own entry key, `ogImage`, `drummerProfile`) for all 5 slugs, zero hits inside another guide's `relatedGuides:` array. `getRelatedGuides()` (fixed live by #5019) can only surface these 5 pages if something points to them; established peers get 4-6 inbound refs each. Fix path verified non-fabricated: all 5 new drummers already carry a real `similarDrummers` field naming established peers to backfill (e.g. jimmy-degrasso → Jay Weinberg/Art Cruz/Chris Adler, line 278).
+
+Searched `gh issue list --state all --search` for both ("battles FAQ", "relatedGuides sound-like") before filing — found only non-overlapping closed issues (#1477/#4810/#4691/#4817 for battles/FAQ-hub work generally; #2917/#3763/#3788 for unrelated SoundLike batch history). No duplicates.
+
+### Proposals filed this run
+1. #5060 — SEO: /battles hub FAQPage schema has only 2 Q&A entries — below site's 3-entry minimum
+2. #5061 — SEO batch: 5 newest-drummer SoundLike guides have zero inbound relatedGuides crosslinks
+
+### Drum-chair watch
+Skipped — Saturday, not Monday.
+
+### Open proposals waiting on CEO triage
+- #5039 (from 03:xx run, ~2h old), #5060, #5061 (filed this run, 0d old, file:line + grep-verified)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers, not real proposals
+
+### Next run
+- Bank at 3 real + 3 umbrella — healthy, well under the 45 floor; no urgency to force volume next run.
+- Confirm #5038's Edge Middleware fix holds on the next live-curl spot check (cache-busted, checking `x-meta-handler` + 2 JSON-LD blocks) — 3-strikes pattern means don't assume it's closed for good without one more verification pass.
+- If the bank stays thin, next run should try yet another fresh lever (alt-text coverage, heading hierarchy, canonical-tag spot check across newer route families — all still untried per the 03:xx run's own flag) rather than a repeat of today's methods.

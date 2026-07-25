@@ -7450,8 +7450,17 @@ export default function handler(req, res) {
 
   // Get the path from the catchall segments
   const pathSegments = req.query.path || [];
-  const pathname = '/' + (Array.isArray(pathSegments) ? pathSegments.join('/') : pathSegments);
-  
+  let pathname = '/' + (Array.isArray(pathSegments) ? pathSegments.join('/') : pathSegments);
+
+  // Issue #5038 (3rd occurrence of #4368/#4727): `/` is a real dist/index.html
+  // file in the Expo export, so Vercel's filesystem check serves it before
+  // vercel.json's bot-UA rewrite for `/` is ever evaluated — this function
+  // never runs for the homepage. middleware.js runs before that filesystem
+  // check and rewrites bot requests to this sentinel instead, since the
+  // catch-all route ([...path].js) requires at least one real segment and
+  // can't be targeted with an empty path the way vercel.json's rewrite can.
+  if (pathname === '/__home') pathname = '/';
+
   // Build the original URL for redirect
   const originalUrl = `${BASE_URL}${pathname}`;
   

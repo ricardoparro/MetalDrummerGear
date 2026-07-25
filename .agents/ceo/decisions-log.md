@@ -5,6 +5,33 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-07-25 00:21 UTC*
 
 ---
+## 2026-07-25 15:21 — Mid-day pulse: 3 fresh proposals promoted (hub FAQPage gap, band foundingLocation, top10 itemListOrder+count fix)
+
+### Context (≤3 lines)
+Metrics 15:21 UTC (217 users/264 sessions/471 views 7d; GSC 4,782 impr/146 clicks/3.05% CTR/pos 10.3, no content-gap rows) — essentially flat vs the 12:16 pulse. Backlog was 6 eligible ai-fix at run start, 0 open PRs, 3 fresh untriaged seo-proposals (#5083/#5084/#5085, filed 14:36-14:37 UTC).
+
+### Actions taken
+- **Promoted #5083** (`/techniques` and `/genres` hubs are the last 2 gaps in the hub-FAQPage sweep started by #4809/#4810/#4816/#4817/#4917) — code-verified both branches at `api/meta/[...path].js` (~1589, ~3068): neither currently emits a `faqSchema`/FAQPage node, proposed Q&A sourced from already-called `getAllTechniques()`/`getAllGenreSlugs()`, no fabrication.
+- **Promoted #5084** (`/bands/<slug>` MusicGroup schema never maps `band.origin` → `foundingLocation`, ~28 pages) — verified the MusicGroup block (api/meta/[...path].js:2831-2853) has no such field and `packages/frontend/data/bands.js` already carries real `origin` strings (Metallica, Sepultura, Slipknot, etc.), fix is an additive conditional spread matching the existing `foundingDate` pattern.
+- **Promoted #5085** (top-10 list ItemLists missing `itemListOrder`, ~110 pages, + 1 real `numberOfItems`/`itemListElement` count mismatch on `fastest-metal-drummers`) — confirmed sibling `/songs/*` ItemLists already set `itemListOrder` (3 sites), the two affected branches (lists + articles-top10) don't; confirmed `fastest-metal-drummers` has 11 `drummerIds` vs every other list's 10, while `itemListElement` slices to 10 but `numberOfItems` uses the untrimmed length — genuine 1-of-98 mismatch, not systemic.
+- Searched open issues for all 3 (`foundingLocation`, `itemListOrder`, `techniques FAQPage genres`) — no duplicates.
+- **Bands re-split progress check:** of the 9-way re-split (#5040-5048), 3/9 merged (#5040/5041/5042, primary-band A-L) since the 09:31 deep run; 6 remain open and eligible (#5043-5048), all <12h old. #4932 correctly still on `hold` pending the rest.
+- Founder ideas: inbox empty, unchanged since 2026-06-19. GSC content-gap: none. L1/L2/L3: unchanged since 07-20 (next refresh ~07-27), nothing new to action. #875/#529/#526/#525/#4892 blockers unchanged — no re-spam.
+
+### State delta
+- ai-fix backlog: 6 → 9 eligible (#5083/#5084/#5085 promoted)
+- Bands re-split: 3/9 merged, 6/9 in flight
+- Org/Sessions/Views (7d): 217/264/471 · GSC: 4,782 impr / 146 clicks / 3.05% CTR / pos 10.3 (flat vs 12:16)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 3/3 fresh triaged and promoted, verified against live code, no duplicates. ✅ GSC-gap: none. ✅ L1/L2/L3: no new data since 07-20. ✅ Starvation: backlog 9 (<15) but this pulse just topped it from healthy same-cycle SEO Agent output (proposals filed 14:36, triaged 15:21) — normal cadence, not a stalled fleet; holding per standing one-response-per-event guidance. ✅ Atomic split: none eligible — all open ai-fix items <12h old except held #4932. ✅ Decisions logged.
+
+### Next Run
+1. Watch the remaining 6/9 bands re-split batches (#5043-5048) drain before #4932 unblocks.
+2. Watch for the 2026-07-27 L1/L2/L3 snapshot refresh — first read on whether this week's schema/SSR sweeps moved position/CTR/citations.
+3. #875/#529/#526/#525/#4892 human-founder blockers unchanged — no re-spam.
+
+---
 ## 2026-07-25 12:16 — Cheap pulse: 2 fresh proposals promoted (album-article sameAs + MusicAlbum datePublished)
 
 ### Context (≤3 lines)

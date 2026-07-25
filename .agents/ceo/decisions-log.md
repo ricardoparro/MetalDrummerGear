@@ -2,7 +2,34 @@
 
 *Record of strategic decisions and reasoning. Hot log: last 7 days. Older entries archived monthly under `.agents/ceo/decisions-history/`.*
 
-*Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-07-24 09:45 UTC*
+*Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-07-25 00:21 UTC*
+
+---
+## 2026-07-25 00:22 — Cheap pulse: 2 fresh proposals promoted (songs VideoObject duration, studies stale-snapshot regen); flagging #4979-4981 repeated no-commit failures
+
+### Context (≤3 lines)
+Metrics 00:21 UTC (204 users/247 sessions/441 views 7d; GSC 4,782 impr/146 clicks/3.05% CTR/pos 10.3, no content-gap rows). Backlog was 3 eligible ai-fix at run start (#4979/#4980/#4981, gating #4932 on hold). 2 fresh untriaged seo-proposals (#5025/#5026, filed 22:28 UTC).
+
+### Actions taken
+- **Promoted #5025** (`/songs/<slug>` VideoObject missing `duration` on 72 pages — exporter drops lick `startTime`/`endTime` before it reaches the schema, same class as already-shipped #4797 lick-page fix) — grep/code-verified, no fabrication risk.
+- **Promoted #5026** (`/studies/*` Dataset schema + FAQ facts baked against a stale 67-drummer snapshot, roster now 72 post #4926-4930) — mechanical regen via the existing audited `compute-studies.cjs`; corrects a live accuracy violation (binding rule #5, computed-stats/verified-only), not just an SEO nicety.
+- Searched `ai-fix` for both keyword sets — no duplicates. Founder ideas: inbox empty, unchanged since 06-19. Human-founder blockers #875/#529/#526/#525/#4892 — 0 new comments, no re-spam.
+- **Flagging, not acting on yet:** #4979/#4980/#4981 (bands mechanical-fill splits, gating #4932) failed to produce a single commit across 2 full night-fleet cycles (19:31 and 23:23 UTC) and every worker slot — mix of `rc=1` "no commits" and one 1500s timeout. The "mechanical" framing likely underestimates the verification cost (sourced discography/sameAs/FAQ depth for ~16 bands each). Still <24h old, under the 3-day atomic-split threshold — holding this cycle. If the next drain cycle also nets zero commits, this needs a real re-split (narrower per-PR scope, e.g. 5-6 bands/batch) rather than another retry.
+
+### State delta
+- ai-fix backlog: 3 → 5 eligible (#5025/#5026 promoted)
+- Org/Sessions/Views (7d): 204/247/441 · GSC: 4,782 impr / 146 clicks / 3.05% CTR / pos 10.3
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 2/2 fresh triaged and promoted, verified, no duplicates. ✅ GSC-gap: none. ✅ Starvation check: backlog 5 (<15) but this cycle just refilled it from healthy SEO Agent output, not a stalled fleet — holding per standing precedent. ✅ Atomic split: #4979-4981 flagged but under the 3-day threshold, no action yet. ✅ Decisions logged.
+
+### Next Run
+1. If #4979/#4980/#4981 fail a 3rd consecutive drain cycle with zero commits, re-split into smaller batches (5-6 bands each) instead of retrying as-is.
+2. #4932 stays correctly gated until #4979-4981 clear.
+3. Watch for the 2026-07-27 L1/L2/L3 snapshot refresh.
+4. #875/#529/#526/#525/#4892 human-founder blockers unchanged — no re-spam.
+
+---
 
 ---
 ## 2026-07-24 15:29 — Mid-day pulse: 2 fresh proposals promoted (brand-page study backlinks SSR gap, /gear/<brand> Breadcrumb+Speakable)
@@ -31,6 +58,9 @@ Metrics 15:28 UTC (210 users/253 sessions/606 views 7d; GSC 5,709 impr/167 click
 4. #875/#529/#526/#525/#4892 human-founder blockers unchanged — no re-spam.
 
 ---
+
+---
+
 ## 2026-07-24 09:45 — Deep run: 6 fresh proposals promoted (critical singular-path shadow bug + 5 sibling gap-fill batches for the new roster drummers), capacity stall confirmed cleared
 
 ### Context (≤3 lines)
@@ -62,6 +92,9 @@ Metrics 09:45 UTC (200 users/242 sessions/596 views 7d; GSC 4,766 impr/132 click
 ---
 
 ---
+
+---
+
 ## 2026-07-19 03:01 — Cheap pulse: starvation trigger met but root-caused to the known capacity outage (#4892), held rather than forced new surface
 
 ### Context (≤3 lines)
@@ -85,6 +118,8 @@ Metrics 03:01 UTC (424 users/441 sessions/654 views 7d; GSC 4,981 impr/97 clicks
 2. **If backlog is still ≤2 AND Roadie has regained capacity (PRs merging normally) by the next run, treat that as genuine starvation and run playbook step 2 for real** — the capacity excuse only covers thinness caused by an idle Roadie, not thinness with a healthy fleet.
 3. Backup token dead until 2026-07-23 10:00 UTC per #4892 — no further action needed from Ricardo, just watch for recurrence.
 4. #875/#529/#526/#525/#4892 human-founder blockers unchanged — no re-spam.
+
+---
 
 ---
 
@@ -140,6 +175,8 @@ Metrics 21:16 UTC (428 users/452 sessions/752 views 7d; GSC 5,941 impr/120 click
 
 ---
 
+---
+
 ## 2026-07-18 00:21 — Cheap pulse: queue-starvation playbook triggered, filed new Speakable hub-gap issue (backlog 2→3)
 
 ### Context (≤3 lines)
@@ -166,295 +203,6 @@ Metrics 00:21 UTC (404 users/426 sessions/703 views 7d; GSC 5,019 impr/102 click
 4. #875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
 
 ---
-
----
-
----
-
----
-
----
-
----
-
----
-
-## 2026-07-17 00:23 (state-confirm — anti-noise hold)
-- Backlog: 13 ai-fix · 0 PRs open · proposals untriaged: 0 (only umbrella trackers #2211/#3810/#3819)
-- Org / Sessions / Views (7d): 411 / 435 / 584 — dip vs 23:17 (436/463/627) is a 7-day-window rollover artifact (GSC lag), not a real drop
-- Blockers unchanged: #875/#529/#526/#525 — no re-spam
-- Actions: none — hold continues (0 fresh proposals, 0 founder ideas, 0 new closed issues since 23:18)
-- Next check: next hourly pulse; 07:00 UTC deep run will re-verify the metrics dip against a fuller data window
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
-## 2026-07-17 01:33 — Pulse: 2 fresh proposals promoted (ssrDrummerLinks batch, /articles hub isArticle links)
-
-### Context (≤3 lines)
-Metrics 01:33 UTC (411 users/435 sessions/585 views 7d; GSC 4,946 impr/88 clicks/1.78% CTR/pos 10.7 — content-gap row `danny carey drum set` 57 impr/1.75% CTR/pos 11.3 unchanged from 07-16 runs). Backlog was 13 eligible `ai-fix` at run start. 2 fresh untriaged `seo-proposal` (#4794/#4795, filed 00:32-00:33 UTC).
-
-### Actions taken
-- **Promoted #4794** (`ssrDrummerLinks` missing on `gearSeriesDrummersMatch` + `brandLevelDrummersMatch` blocks in `api/meta/[...path].js`, ~38 pages) — grep-cited, sibling gap to already-shipped #4673 (only covered `kitDrummersMatch`), non-overlapping block ranges verified in issue body.
-- **Promoted #4795** (`/articles` hub `ssrLinks` omits the 12 `TOP_10_LISTS` `isArticle:true` pages) — grep-cited, reverse direction of already-shipped #4752 (which fixed links *from* those 12 pages *to* drummers, not hub *to* pages).
-- Searched `gh issue list --label ai-fix --search` on both titles/keywords — no duplicates.
-- Founder ideas: inbox empty. GSC content-gap: `danny carey drum set` unchanged (pos 11.3, same as 07-16 07:00/22:20 runs) — position problem not snippet-fixable, reasoning stands, no re-file. L1(#3810)/L2(#2211)/L3(#3819) snapshots unchanged since 07-13/06-23/07-06, next refresh 2026-07-20 — nothing fresh. Atomic-split: checked all open `ai-fix` for >3-day age with no in-progress/pr-opened/hold label — none found. Human-founder blockers (#875/#529/#526/#525) — unchanged, no re-spam.
-
-### State delta
-- ai-fix backlog: 13 → 15 eligible (#4794/#4795 promoted)
-- Org/Sessions/Views (7d): 411/435/585 · GSC: 4,946 impr / 88 clicks / 1.78% CTR / pos 10.7 (slightly down from 5,882/115/1.96%/10.4 prior week — within normal noise band, watch next L1 snapshot 07-20)
-
-### Quota check
-✅ Founder ideas: inbox empty. ✅ SEO proposals: 2/2 fresh triaged and promoted, grep-verified. ✅ GSC-gap: unchanged row re-checked, no re-file. ✅ Atomic split: none needed. ✅ Decisions logged.
-
-### Next Run
-1. Backlog at 15 — still below the 45 floor; keep promoting liberally as fresh proposals land.
-2. Watch #4794/#4795 ship.
-3. Watch for next L1/L2/L3 snapshot refresh (2026-07-20) — GSC dip (CTR 1.96%→1.78%, impr 5,882→4,946) worth confirming isn't a trend then.
-4. #875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
-## 2026-07-17 05:01 — Pulse: 4 fresh proposals promoted (schema completeness batch)
-
-### Context (≤3 lines)
-Metrics 05:01 UTC (414 users/438 sessions/585 views 7d; GSC 4,946 impr/88 clicks/1.78% CTR/pos 10.7 — unchanged from 01:33 run). Backlog dropped 15→7 eligible since last pulse — night-fleet Roadie cleared a large batch (bands epic phases 1-4, studies epic phases 1-3, techniques wiring, songs phase 1, drum-chair timeline, jon-dette/ssrDrummerLinks/articles-hub proposals from 01:33). 0 open PRs — Merger fully drained. 4 fresh untriaged `seo-proposal` (#4796-4799, filed 03:07-03:08 UTC).
-
-### Actions taken
-- **Promoted #4796** (MusicGroup schema missing `foundingDate`+`description` on 35 `/bands/<slug>` pages — both fields already populated in `bands.js`, 2-line fix, explicitly scopes OUT `dissolutionDate` to avoid fabricated data).
-- **Promoted #4797** (VideoObject missing `duration` on 30 lick pages — computable from existing `startTime`/`endTime`; correctly cross-references #4771 in-flight to avoid duplicate calculation logic).
-- **Promoted #4798** (`/technique/<slug>` VideoObject missing `uploadDate`, the exact field this codebase's own comment calls "REQUIRED by Google" — same fix already applied on sibling lick-page blocks, just 2 pages).
-- **Promoted #4799** (`isAccessibleForFree: true` added to the shared `generateArticleSchema()` — single-line, sitewide, correctly scoped to exclude the pre-serialized JSON-LD branch).
-- Searched `ai-fix` for `foundingDate|isAccessibleForFree|uploadDate|duration` — no duplicates (only #4771, already correctly cross-referenced by #4797 itself).
-- Founder ideas: inbox empty. GSC content-gap: `danny carey drum set` unchanged (pos 11.3) — no re-file, reasoning stands. L1(#3810 07-13)/L2(#2211 07-13)/L3(#3819 07-13) snapshots unchanged, next refresh 2026-07-20. Atomic-split: no `ai-fix` open >3 days. Human-founder blockers (#875/#529/#526/#525) unchanged — no re-spam.
-
-### State delta
-- ai-fix backlog: 7 → 11 eligible (#4796/#4797/#4798/#4799 promoted); seo-proposal bank: 7 → 3 (only the 3 standing L1/L2/L3 umbrella issues remain, not real proposals)
-- Org/Sessions/Views (7d): 414/438/585 · GSC: 4,946 impr / 88 clicks / 1.78% CTR / pos 10.7 (unchanged)
-
-### Quota check
-✅ Founder ideas: inbox empty. ✅ SEO proposals: 4/4 fresh triaged and promoted, verified. ✅ GSC-gap: unchanged row re-checked, no re-file. ✅ Atomic split: none needed. ✅ Decisions logged.
-
-### Next Run
-1. Backlog at 11 — still below 45 floor; promote liberally as fresh proposals land.
-2. Watch #4796-4799 ship; confirm Roadie throughput stays healthy after last night's large clear.
-3. Watch for next L1/L2/L3 snapshot refresh (2026-07-20).
-4. #875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
-## 2026-07-17 06:46 — Pulse: 2 fresh proposals promoted (hub BreadcrumbList + FAQPage batch), backlog low — flagging for deep run
-
-### Context (≤3 lines)
-Metrics 06:44 UTC (414 users/438 sessions/586 views 7d; GSC 5,953 impr/115 clicks/1.93% CTR/pos 10.7; content-gap row `danny carey drum set` 69 impr/1.45% CTR/pos 11.0 — same recurring row, position problem not snippet-fixable, no re-file). Backlog was 6 eligible `ai-fix` at run start. 2 fresh untriaged `seo-proposal` (#4809/#4810, filed 05:10 UTC).
-
-### Actions taken
-- **Promoted #4809** (BreadcrumbList schema missing on 5 top-level hubs: `/history`, `/battles`, `/spotlights`, `/lists`, `/facts`) — line numbers in the issue were stale (studies epic shipped since filing, shifting the file), so I re-grepped current `api/meta/[...path].js` and confirmed all 5 handlers (now at lines 4031/4413/4460/4557/4706) still lack `breadcrumbSchema` in their own return block; `/battles` hub itself confirmed clean of it (the one hit in a wider grep belongs to the sibling `/battles/<slug>` detail handler, exactly as the issue describes).
-- **Promoted #4810** (FAQPage schema missing on `/lists` + `/facts` hubs) — same re-verification; both blocks confirmed `articleSchema` (CollectionPage) present, no `faqSchema` key.
-- Searched `ai-fix`/`seo-proposal` for both titles' keywords — no duplicates.
-- Founder ideas: inbox empty. GSC content-gap: unchanged row, no re-file. L1(#3810)/L2(#2211)/L3(#3819) unchanged since 07-13, next refresh 07-20. Atomic-split: oldest open `ai-fix` is #4748 at ~22h — none past 3 days. Human-founder blockers (#875/#529/#526/#525) — 0 comments each, no re-spam.
-
-### State delta
-- ai-fix backlog: 6 → 8 eligible (#4809/#4810 promoted); seo-proposal bank: back to 0 real proposals (only the 3 standing L1/L2/L3 umbrellas)
-- Org/Sessions/Views (7d): 414/438/586 · GSC: 5,953 impr / 115 clicks / 1.93% CTR / pos 10.7
-
-### Quota check
-✅ Founder ideas: inbox empty. ✅ SEO proposals: 2/2 fresh triaged and promoted, re-verified against current file state. ✅ GSC-gap: unchanged row re-checked, no re-file. ✅ Atomic split: none needed. ⚠️ Starvation watch: backlog (8) < 15 and bank (0) ≤ 2 — trigger conditions met, but this is a pre-07:00 pulse, not the deep run the playbook is scoped to. Flagging for the imminent deep run rather than acting now.
-✅ Decisions logged.
-
-### Next Run
-1. This run is ~15 min before the 07:00 UTC deep-run boundary — the next run should treat backlog=8/bank=0 as the starvation trigger and run the Queue-Starvation Playbook (step 1: check SEO Agent output rate over last 3 runs before opening new surface myself) if still true then.
-2. Watch #4809/#4810 ship alongside the phased epics already in flight (#4756/#4760-4762/#4766, all <1 day old).
-3. Watch for next L1/L2/L3 snapshot refresh (2026-07-20).
-4. #875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
-## 2026-07-17 07:38 — Deep run: 2 fresh proposals promoted (hub schema batch closes the pattern), FAQ-depth + hub-schema sweeps confirmed fully drained
-
-### Context (≤3 lines)
-Metrics 07:38 UTC (414 users/439 sessions/586 views 7d; GSC 5,953 impr/115 clicks/1.93% CTR/pos 10.7 — content-gap row `danny carey drum set` 69 impr/1.45% CTR/pos 11.0, same recurring row, position problem not snippet-fixable, no re-file). Backlog was 8 eligible `ai-fix` at run start (0 open PRs — Merger fully drained). 2 fresh untriaged `seo-proposal` (#4816/#4817, filed 06:52-06:53 UTC).
-
-### Actions taken
-- **Promoted #4816** (BreadcrumbList missing on 21 top-level hub/tool pages, disjoint from #4809's 5) — grep/curl-verified against current `api/meta/[...path].js`, no duplicates found.
-- **Promoted #4817** (`/vs` hub missing FAQPage, companion to #4810's `/lists`+`/facts` fix) — grep/curl-verified, explicitly closes "the last gap in the hub-level FAQPage-pairing pattern" per its own body.
-- **Verified the FAQ-depth-gap roster sweep is fully closed**: re-ran the count script from `learned-patterns.md` (`extendedBios.js` FAQ item counts) — distribution is now 50@9 / 16@10 / 1@11, zero profiles below the proven ≥9 threshold (was 53@8 + 7@5-6 on 07-15). Logged this + the hub-schema-pairing closure as one append to `learned-patterns.md` with a standing rule not to re-propose either pattern without a fresh regression count.
-- **L2 minimum-pressure check**: confirmed 5 pattern-level L2 issues already filed this week since the 07-13 refresh (#4605, #4607, #4701, #4702, #4703) — quota already exceeded, no forced filing needed this run.
-- **Starvation playbook check**: backlog dropped to 10 post-promotion (<15 trigger) and bank is now empty of real proposals (only the 3 standing L1/L2/L3 umbrella issues) — trigger met. Step 1 (SEO Agent output rate) ruled out: 8 fresh proposals filed across 3 batches in the last ~4.5h, healthy rate. Checked the 3 in-flight epics instead of forcing new surface: bands (#4753) has only phase 3/4 queued (#4756, phase 4 not yet filed pending its merge), songs (#4758) has all 3 remaining phases queued (#4760-4762), **studies (#4763) is on its FINAL phase (#4766, 3/3)** — once that merges, studies is complete and will need a genuinely new surface. Judged this as healthy phased-epic throughput, not idea drought — did not force a new epic/roster proposal this run; flagged the studies-epic completion as the real trigger to watch next.
-- Founder ideas: inbox empty. Human-founder blockers (#875/#529/#526/#525) — checked comment counts directly, all 0, no re-spam. GSC content-gap unchanged, no re-file. L1(#3810)/L2(#2211)/L3(#3819) snapshots unchanged since 07-13/06-23(refreshed 07-13)/07-13, next refresh 2026-07-20. Atomic-split: oldest open `ai-fix` is #4748 at ~23h — none past 3 days.
-
-### State delta
-- ai-fix backlog: 8 → 10 eligible (#4816/#4817 promoted); seo-proposal bank: 2 → 0 real proposals (3 standing umbrella issues only)
-- `learned-patterns.md`: appended FAQ-depth + hub-schema-pairing sweep closure (both patterns now fully drained)
-- Org/Sessions/Views (7d): 414/439/586 · GSC: 5,953 impr / 115 clicks / 1.93% CTR / pos 10.7 (unchanged from 06:46 run)
-
-### Quota check
-✅ Founder ideas: inbox empty. ✅ SEO proposals: 2/2 fresh triaged and promoted, verified. ✅ GSC-gap: unchanged row re-checked, no re-file. ✅ L2 minimum-pressure: 5/2 already filed this week, exceeded. ✅ Starvation check run: judged epic pipeline healthy, no forced new surface. ✅ Atomic split: none needed. ✅ Decisions logged.
-
-### Next Run
-1. Backlog at 10 — still below the 15 floor; keep promoting liberally as fresh proposals land.
-2. **Watch #4766 (studies phase 3/3) merge** — once studies epic completes, apply the starvation playbook's step 2 (new surface) for real, since that epic's queue will go to zero.
-3. Watch for next L1/L2/L3 snapshot refresh (2026-07-20) — first real read on whether the FAQ-depth + hub-schema sweeps moved L1 position/CTR or L2 citation count (8/84 baseline).
-4. #875/#529/#526/#525 human-founder blockers unchanged (0 comments) — no re-spam.
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
-## 2026-07-17 08:42 (state-confirm — anti-noise hold)
-- Backlog: 9 ai-fix · 0 PRs open · proposals untriaged: 0 (bank shows 6 seo-proposal-labeled but 3 are already-promoted #4810/#4816/#4817, 3 are standing L1/L2/L3 umbrellas)
-- Org/Sessions/Views (7d): 414/439/592 · GSC 5,953 impr/115 clicks/1.93% CTR/pos 10.7 (unchanged from 07:38 deep run)
-- Blockers unchanged: #875/#529/#526/#525 (0 comments each) · no re-spam
-- Actions: none — hold continues; oldest open ai-fix (#4748) at ~24h, not yet atomic-split threshold
-- Next check: mid-day pulse (~13:00 UTC) — watch #4766 (studies epic final phase) merge to trigger real starvation-playbook step 2
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
-## 2026-07-17 10:32 (state-confirm — anti-noise hold)
-- Backlog: 6 ai-fix (bands #4756, songs #4760/4761/4762, roster-exp #4748, schema #4821) · 0 PRs open · proposals untriaged: 0 (#4821 self-labeled ai-fix on filing; only umbrellas #3810/#3819/#2211 remain seo-proposal-only)
-- Org/Sessions/Views (7d): 415/440/594 · GSC 5,953 impr/115 clicks/1.93% CTR/pos 10.7 (unchanged)
-- Blockers unchanged: #875/#529/#526/#525 (0 comments each) · no re-spam
-- Actions: none — studies epic (#4763) fully closed 09:20 UTC (final phase #4766 merged), the exact trigger flagged at 07:38 to re-check starvation. Backlog thinned 9→6 but bands+songs epics still carry 4 queued phases, so holding rather than forcing new surface on a cheap pulse.
-- Next check: mid-day pulse (~13:00 UTC) — if backlog still <15 and bank still empty by then, run starvation-playbook step 2 (roster/theme-hub/format-replication) for real
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
-## 2026-07-17 17:24 — Cheap pulse: queue-starvation playbook triggered for real, filed new Speakable batch (#4839)
-
-### Context (≤3 lines)
-Metrics 17:24 UTC (422 users/447 sessions/735 views 7d; GSC 5,953 impr/115 clicks/1.93% CTR/pos 10.7 — content-gap row `danny carey drum set` unchanged, no re-file). Backlog had thinned to 3 eligible `ai-fix` (from 6 at 10:32) with 0 untriaged `seo-proposal` (only 3 standing L1/L2/L3 umbrellas) — the starvation trigger flagged-but-deferred at 07:38/08:42/10:32 finally had no queued-epic-phase cover left: studies epic fully closed, songs epic fully closed, bands epic down to its last phase (#4756), roster-exp (#4748) still unstarted. With day-fleet 3-wide, 3 eligible items would hit 0 the moment they're all dispatched — genuine near-term starvation, not noise.
-
-### Actions taken
-- **Step 1 (SEO Agent rate check):** confirmed healthy — 4 batches filed today alone (04:16-04:21, 05:31-05:35, 08:41-09:22, 12:18-12:33), most self-labeling `ai-fix` directly. Output isn't the bottleneck; Roadie's 3-wide/8-wide throughput is outrunning it, as the framework predicts.
-- **Step 2 (winning-format replication):** re-grepped `api/meta/[...path].js` for `speakableSchema` coverage across all 42 route-match branches (per `learned-patterns.md`'s 07-17 note flagging "per-entity Speakable coverage" as the next lever). Found 4 branches never covered, distinct from the already-queued #4833 (guides): `/vs/<slug1>-vs-<slug2>` comparison pages (226, `vsMatch` lines 942-999) + `/vs`, `/tools`, `/guides` hub indexes (1 each) = 229 pages, zero `speakableSchema` hits in that line range. Searched existing issues (open+closed) for "SpeakableSpecification" — no duplicate. Filed **#4839** (`ai-fix,seo`) with exact line numbers, fix snippet, and curl verify steps.
-- Founder ideas: inbox empty. GSC content-gap unchanged, no re-file. L1(#3810)/L2(#2211)/L3(#3819) unchanged since 07-13, next refresh 07-20. Atomic-split: oldest open `ai-fix` (#4756, bands phase 3/4) at ~32h, #4748 (roster-exp) at ~32h — neither past 3-day threshold yet. Human-founder blockers (#875/#529/#526/#525) — 0 comments each, no re-spam.
-
-### State delta
-- ai-fix backlog: 3 → 4 eligible (#4839 filed)
-- Org/Sessions/Views (7d): 422/447/735 · GSC: 5,953 impr / 115 clicks / 1.93% CTR / pos 10.7 (unchanged)
-
-### Quota check
-✅ Founder ideas: inbox empty. ✅ SEO proposals: none untriaged to review. ✅ GSC-gap: unchanged row re-checked, no re-file. ✅ Starvation playbook: triggered and actioned (step 1 ruled out upstream cause, step 2 opened new verified surface — one issue per starvation event, per the rule). ✅ Atomic split: none past threshold. ✅ Decisions logged.
-
-### Next Run
-1. Backlog at 4 — still critical; if #4756/#4748 both dispatch before the next fresh `seo-proposal` batch lands, re-check starvation and consider a 2nd lever (Kit Overview prose depth, per `learned-patterns.md`) if #4839 alone isn't enough runway.
-2. Watch #4756 (bands phase 3/4, last queued phase of that epic) — once it merges, epic #4753 needs a phase-4 decision or closure.
-3. Watch for next L1/L2/L3 snapshot refresh (2026-07-20).
-4. #875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
-## 2026-07-17 22:15 (state-confirm — anti-noise hold)
-- Backlog: 6 ai-fix (#4842/#4841/#4839/#4833 Speakable-sweep batches, #4756 bands phase 3/4, #4748 roster-exp) · 0 PRs open · proposals untriaged: 0 (only standing umbrellas #3810/#3819/#2211 remain seo-proposal-only)
-- Org/Sessions/Views (7d): 425/451/749 · GSC 5,953 impr/115 clicks/1.93% CTR/pos 10.7 (unchanged)
-- Blockers unchanged: #875/#529/#526/#525 (0 comments each) · no re-spam
-- Actions: none — starvation self-resolved since 17:24: SEO Agent auto-filed and self-labeled 2 more Speakable-sweep batches (#4841/#4842, 21:20 UTC) covering drumstick/cymbal/snare/pedal brand+reference+setup+signature pages, refilling backlog 4→6 without CEO action
-- Next check: next hourly pulse; re-run starvation check if backlog drops below 15 again with no fresh supply
 
 ---
 
@@ -509,6 +257,8 @@ Metrics 01:32 UTC (405 users/428 sessions/703 views 7d; GSC 5,019 impr/102 click
 
 ---
 
+---
+
 ## 2026-07-18 03:00 (state-confirm — anti-noise hold)
 - Backlog: 6 ai-fix (#4748 roster-exp, #4756 bands phase 3/4, #4863/#4864/#4865/#4866 Speakable/schema batches) · 0 PRs open · proposals untriaged: 0 (only standing umbrellas #3810/#3819/#2211 remain seo-proposal-only)
 - Org/Sessions/Views (7d): 406/428/704 · GSC 5,019 impr/102 clicks/2.03% CTR/pos 11.1 (unchanged) · content-gap row `danny carey drum set` unchanged, no re-file
@@ -530,12 +280,16 @@ Metrics 01:32 UTC (405 users/428 sessions/703 views 7d; GSC 5,019 impr/102 click
 
 ---
 
+---
+
 ## 2026-07-18 06:36 (state-confirm — anti-noise hold)
 - Backlog: 5 ai-fix (#4885/#4884/#4883 fresh Speakable/curated-content batches self-labeled by SEO Agent ~05:05 UTC, #4756 bands phase 3/4, #4748 roster-exp) · 0 PRs open · proposals untriaged: 0 (only standing umbrellas #3810/#3819/#2211)
 - Org/Sessions/Views (7d): 413/435/714 · GSC 5,019 impr/102 clicks/2.03% CTR/pos 11.1 (unchanged) · content-gap row `danny carey drum set` unchanged, no re-file
 - Blockers unchanged: #875/#529/#526/#525 (0 comments each) · no re-spam
 - Actions: none — backlog composition turned over (#4863/#4864/#4865/#4866 dispatched, #4883-4885 self-filed) but count held near prior run; none of the 5 open items past 3-day atomic-split threshold (#4756/#4748 ~2 days old)
 - Next check: this is the daily deep run once we cross 07:00 UTC — full metrics/GSC-gap/L1-L2-L3 pass then, including a real starvation-playbook check (backlog trending 6→5)
+
+---
 
 ---
 
@@ -590,6 +344,8 @@ Metrics 08:45 UTC (429 users/448 sessions/661 views 7d; GSC 5,908 impr/118 click
 
 ---
 
+---
+
 ## 2026-07-23 10:43 — Deep run: capacity stall over, atomic-split 2 stale 7-day issues into 8, 1 verified L3 fix, L1 loss-cluster ruled noise (not filed)
 
 ### Context (≤3 lines)
@@ -617,6 +373,8 @@ Metrics 10:43 UTC (206 users/243 sessions/589 views 7d — down from ~430/450/70
 3. #4931 must merge before #4932 starts (slug-collision gate) — if Roadie's dispatcher doesn't respect issue dependencies (known limitation, per the 2026-06-01 tier-gating precedent), watch for this and hold #4932 manually if needed.
 4. Watch next L1/L3 snapshot (~2026-07-27) to see if the portnoy/wallgren/bill-ward/duplantier oscillation continues (3rd data point would strengthen the do-not-file verdict further).
 5. #875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
 
 ---
 
@@ -652,12 +410,16 @@ Metrics 11:36 UTC (206 users/243 sessions/589 views 7d — same capacity-outage-
 
 ---
 
+---
+
 ## 2026-07-23 12:30 (state-confirm — anti-noise hold)
 - Backlog: 7 ai-fix (all <2h old, none atomic-split eligible) · 0 PRs open · proposals untriaged: 0 (only umbrellas #2211/#3810/#3819)
 - Org/Sessions/Views (7d): 206/243/589 · GSC 4,797/122/2.54%/10.2 — unchanged, no content-gap rows
 - Blockers unchanged: #875/#529/#526/#525 — no re-spam; #4925 shipped (PR #4936), #4926/#4927 shipped, #4931/#4932 gate still intact (neither merged yet)
 - Actions: none — 5 PRs merged since 11:36 (normal fast drainage, not a new starvation event; per 10:43/11:36 guidance, holding on re-triggering the playbook this cycle)
 - Next check: next hourly pulse; re-run starvation playbook only if backlog stays <15 AND bank stays ≤2 past the next SEO Agent cycle
+
+---
 
 ---
 
@@ -693,6 +455,8 @@ Metrics 15:37 UTC (207 users/245 sessions/591 views 7d; GSC 5,688 impr/150 click
 
 ---
 
+---
+
 ## 2026-07-23 21:23 — Evening review: 14 PRs shipped today (strong day), both active epics (bands #4753, songs #4758) now fully phased/closed; capacity stall recurred with roles reversed, held on new surface
 
 ### Context (≤3 lines)
@@ -718,6 +482,8 @@ Metrics 21:23 UTC (218 users/257 sessions/599 views 7d; GSC 5,688 impr/150 click
 2. Watch primary token reset (~03:00 UTC 2026-07-24) and confirm SEO Agent resumes normal 3x/day cadence.
 3. #4931 must merge before #4932 starts (slug-collision gate) — still unmerged, watch for premature dispatch.
 4. #875/#529/#526/#525 human-founder blockers unchanged — no re-spam. #4892 updated with tonight's accurate signature, still no action needed from Ricardo beyond the standing 3-option ask.
+
+---
 
 ---
 

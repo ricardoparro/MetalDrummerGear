@@ -2642,6 +2642,151 @@ export const bands = {
       "https://blabbermouth.net/news/erik-rutan-will-continue-with-hate-eternal-despite-joining-cannibal-corpse-as-an-official-member"
     ],
   },
+  "iron-maiden": {
+    slug: "iron-maiden",
+    name: "Iron Maiden",
+    formed: 1975,
+    origin: "Leyton, East London, England",
+    genres: ["heavy-metal", "nwobhm"],
+    status: "active",
+    metaTitle: "Iron Maiden - Nicko McBrain Drummer History & Gear | MetalForge",
+    metaDescription: "Explore Iron Maiden's drumming legacy, from Clive Burr's classic-era fills to Nicko McBrain's four-decade tenure and 2025 touring successor Simon Dawson.",
+    summary: "Iron Maiden, formed in Leyton, East London in 1975 by bassist Steve Harris, became one of the most influential heavy metal bands in history, pairing multi-guitar harmonies with a series of celebrated drummers headlined by Nicko McBrain's four-decade tenure.",
+    keywords: ["iron maiden", "nicko mcbrain", "clive burr", "simon dawson", "heavy metal", "nwobhm", "drummer gear"],
+    members: [
+      { name: "Steve Harris", role: "bass", period: "1975-present", notes: "Founding member and primary songwriter" },
+      { name: "Dave Murray", role: "guitar", period: "1976-present", notes: "Longest-tenured guitarist" },
+      { name: "Bruce Dickinson", role: "lead vocals", period: "1981-1993, 1999-present", notes: "" },
+      { name: "Adrian Smith", role: "guitar", period: "1980-1990, 1999-present", notes: "" },
+      { name: "Nicko McBrain", role: "drums", period: "1982-present", notes: "Official/studio member; retired from touring in December 2024 after a 2023 stroke, see drummerHistory" },
+      { name: "Janick Gers", role: "guitar", period: "1990-present", notes: "" },
+      { name: "Simon Dawson", role: "drums (touring)", period: "2025-present", notes: "Touring-only replacement for McBrain's live shows; also Steve Harris's rhythm-section partner in side project British Lion since 2012" }
+    ],
+    formerMembers: [
+      { name: "Paul Di'Anno", role: "lead vocals", period: "1978-1981", notes: "" },
+      { name: "Dennis Stratton", role: "guitar", period: "1979-1980", notes: "" },
+      { name: "Blaze Bayley", role: "lead vocals", period: "1994-1999", notes: "" },
+      { name: "Doug Sampson", role: "drums", period: "1978-1979", notes: "See drummerHistory" },
+      { name: "Clive Burr", role: "drums", period: "1979-1982", notes: "See drummerHistory" }
+    ],
+    drummerHistory: [
+      { drummer: "doug-sampson", period: "1978-1979", notes: "Played on The Soundhouse Tapes (1979) demo; fell ill and was replaced before the debut album was recorded" },
+      { drummer: "clive-burr", period: "1979-1982", notes: "Recorded the band's first three studio albums; fired during The Beast on the Road tour after touring commitments for The Number of the Beast concluded" },
+      { drummer: "nicko-mcbrain", period: "1982-present", notes: "Recorded every studio album from Piece of Mind (1983) through Senjutsu (2021); retired from touring in December 2024 following a 2023 stroke but remains an official/studio member" },
+      { drummer: "simon-dawson", period: "2025-present", notes: "Touring-only successor to McBrain, not a formal lineup change" }
+    ],
+    discography: [
+      { title: "Iron Maiden", year: 1980, drummer: "clive-burr", notes: "Debut album" },
+      { title: "Killers", year: 1981, drummer: "clive-burr" },
+      { title: "The Number of the Beast", year: 1982, drummer: "clive-burr" },
+      { title: "Piece of Mind", year: 1983, drummer: "nicko-mcbrain", notes: "McBrain's studio debut with the band" },
+      { title: "Powerslave", year: 1984, drummer: "nicko-mcbrain" },
+      { title: "Somewhere in Time", year: 1986, drummer: "nicko-mcbrain" },
+      { title: "Seventh Son of a Seventh Son", year: 1988, drummer: "nicko-mcbrain" },
+      { title: "No Prayer for the Dying", year: 1990, drummer: "nicko-mcbrain" },
+      { title: "Fear of the Dark", year: 1992, drummer: "nicko-mcbrain" },
+      { title: "The X Factor", year: 1995, drummer: "nicko-mcbrain" },
+      { title: "Virtual XI", year: 1998, drummer: "nicko-mcbrain" },
+      { title: "Brave New World", year: 2000, drummer: "nicko-mcbrain" },
+      { title: "Dance of Death", year: 2003, drummer: "nicko-mcbrain" },
+      { title: "A Matter of Life and Death", year: 2006, drummer: "nicko-mcbrain" },
+      { title: "The Final Frontier", year: 2010, drummer: "nicko-mcbrain" },
+      { title: "The Book of Souls", year: 2015, drummer: "nicko-mcbrain" },
+      { title: "Senjutsu", year: 2021, drummer: "nicko-mcbrain", notes: "Most recent studio album as of mid-2026" }
+    ],
+    relatedBands: [],
+    sameAs: [
+      "https://en.wikipedia.org/wiki/Iron_Maiden",
+      "https://www.wikidata.org/wiki/Q42482",
+      "https://musicbrainz.org/artist/ca891d65-d9b0-4258-89f7-e6ba29d83767"
+    ],
+    faq: [
+      { q: "Who is the drummer for Iron Maiden?", a: "Nicko McBrain has been the band's official drummer since 1982, but he retired from touring in December 2024 after a 2023 stroke. Simon Dawson (of Steve Harris's side project British Lion) has stepped in as touring-only drummer since 2025." },
+      { q: "Did Nicko McBrain play on Iron Maiden's early albums?", a: "No. McBrain joined in 1982 and made his studio debut on Piece of Mind (1983). The first three albums — Iron Maiden (1980), Killers (1981), and The Number of the Beast (1982) — were recorded by original-era drummer Clive Burr." },
+      { q: "Why was Clive Burr fired from Iron Maiden?", a: "Burr was let go in 1982 during The Beast on the Road tour, following tensions that came to a head after he left the tour partway through to attend his father's funeral. He had recorded the band's first three studio albums." },
+      { q: "Is Nicko McBrain still an official member of Iron Maiden?", a: "Yes. Despite stepping back from touring, McBrain has said he remains a member of the band and expects to play on the next studio album." }
+    ],
+    sources: [
+      "https://en.wikipedia.org/wiki/Iron_Maiden",
+      "https://en.wikipedia.org/wiki/Iron_Maiden_discography",
+      "https://en.wikipedia.org/wiki/Clive_Burr",
+      "https://www.spokesman.com/stories/2024/dec/10/iron-maiden-drummer-nicko-mcbrain-retires-after-fi/",
+      "https://americansongwriter.com/iron-maiden-announce-new-touring-drummer-replacing-nicko-mcbrain/"
+    ],
+  },
+  "judas-priest": {
+    slug: "judas-priest",
+    name: "Judas Priest",
+    formed: 1969,
+    origin: "Birmingham, England",
+    genres: ["heavy-metal", "speed-metal"],
+    status: "active",
+    metaTitle: "Judas Priest - Scott Travis Drummer History & Gear | MetalForge",
+    metaDescription: "Explore Judas Priest's drumming lineage, from founding-era drummers John Hinch and Les Binks to Scott Travis's three-decade-plus tenure since Painkiller.",
+    summary: "Judas Priest, formed in Birmingham, England in 1969, is a pioneering heavy metal band whose twin-guitar attack and leather-and-studs image helped define the genre, cycling through five drummers before Scott Travis anchored the band from 1989 onward.",
+    keywords: ["judas priest", "scott travis", "dave holland", "les binks", "heavy metal", "speed metal", "drummer gear"],
+    members: [
+      { name: "Rob Halford", role: "lead vocals", period: "1973-1992, 2003-present", notes: "Replaced by Tim \"Ripper\" Owens during his absence" },
+      { name: "Ian Hill", role: "bass", period: "1969-present", notes: "Founding member; sole constant presence throughout the band's history" },
+      { name: "Glenn Tipton", role: "guitar", period: "1974-present", notes: "Stepped back from touring in 2018 due to Parkinson's disease but retains official status and studio/songwriting involvement" },
+      { name: "Scott Travis", role: "drums", period: "1989-present", notes: "See drummerHistory" },
+      { name: "Richie Faulkner", role: "guitar", period: "2011-present", notes: "Replaced K.K. Downing" },
+      { name: "Andy Sneap", role: "guitar (touring)", period: "2018-present", notes: "Touring stand-in for Tipton; also produced Firepower (2018) and Invincible Shield (2024)" }
+    ],
+    formerMembers: [
+      { name: "Al Atkins", role: "lead vocals", period: "1969-1973", notes: "Founding vocalist" },
+      { name: "K.K. Downing", role: "guitar", period: "1970-2011", notes: "Co-founding-era guitarist; retired, replaced by Richie Faulkner" },
+      { name: "Tim \"Ripper\" Owens", role: "lead vocals", period: "1996-2003", notes: "Recorded Jugulator (1997) and Demolition (2001) during Halford's absence" }
+    ],
+    drummerHistory: [
+      { drummer: "john-hinch", period: "1973-1975", notes: "Recorded the band's debut, Rocka Rolla (1974)" },
+      { drummer: "alan-moore", period: "1971-1972, 1975-1977", notes: "Recorded Sad Wings of Destiny (1976)" },
+      { drummer: "simon-phillips", period: "1977", notes: "Session-only drummer brought in by producer Roger Glover; recorded Sin After Sin (1977) but did not join full-time" },
+      { drummer: "les-binks", period: "1977-1979", notes: "Recorded Stained Class (1978), Killing Machine (1978), and the live album Unleashed in the East (1979)" },
+      { drummer: "dave-holland", period: "1979-1989", notes: "Recorded every studio album from British Steel (1980) through Ram It Down (1988)" },
+      { drummer: "scott-travis", period: "1989-present", notes: "Recorded every studio album from Painkiller (1990) onward; joined after a November 1989 audition in Spain" }
+    ],
+    discography: [
+      { title: "Rocka Rolla", year: 1974, drummer: "john-hinch" },
+      { title: "Sad Wings of Destiny", year: 1976, drummer: "alan-moore" },
+      { title: "Sin After Sin", year: 1977, drummer: "simon-phillips", notes: "Session drummer only; Phillips did not join the band" },
+      { title: "Stained Class", year: 1978, drummer: "les-binks" },
+      { title: "Killing Machine", year: 1978, drummer: "les-binks", notes: "Released in the US as Hell Bent for Leather" },
+      { title: "British Steel", year: 1980, drummer: "dave-holland" },
+      { title: "Point of Entry", year: 1981, drummer: "dave-holland" },
+      { title: "Screaming for Vengeance", year: 1982, drummer: "dave-holland" },
+      { title: "Defenders of the Faith", year: 1984, drummer: "dave-holland" },
+      { title: "Turbo", year: 1986, drummer: "dave-holland" },
+      { title: "Ram It Down", year: 1988, drummer: "dave-holland" },
+      { title: "Painkiller", year: 1990, drummer: "scott-travis", notes: "Travis's studio debut with the band" },
+      { title: "Jugulator", year: 1997, drummer: "scott-travis" },
+      { title: "Demolition", year: 2001, drummer: "scott-travis" },
+      { title: "Angel of Retribution", year: 2005, drummer: "scott-travis" },
+      { title: "Nostradamus", year: 2008, drummer: "scott-travis" },
+      { title: "Redeemer of Souls", year: 2014, drummer: "scott-travis" },
+      { title: "Firepower", year: 2018, drummer: "scott-travis" },
+      { title: "Invincible Shield", year: 2024, drummer: "scott-travis", notes: "Most recent studio album as of mid-2026" }
+    ],
+    relatedBands: [],
+    sameAs: [
+      "https://en.wikipedia.org/wiki/Judas_Priest",
+      "https://www.wikidata.org/wiki/Q83468",
+      "https://musicbrainz.org/artist/6b335658-22c8-485d-93de-0bc29a1d0349"
+    ],
+    faq: [
+      { q: "Who is the drummer for Judas Priest?", a: "Scott Travis has been the band's drummer since 1989, joining after auditioning in Spain and making his studio debut on Painkiller (1990)." },
+      { q: "Who drummed for Judas Priest before Scott Travis?", a: "Dave Holland held the drum chair from 1979 to 1989, recording every studio album from British Steel (1980) through Ram It Down (1988). Earlier drummers included John Hinch, Alan Moore, session player Simon Phillips, and Les Binks." },
+      { q: "Did the same drummer play on every classic-era Judas Priest album?", a: "No. The band cycled through five different drummers across its first six studio albums (1974-1979) before Dave Holland brought stability starting with British Steel (1980)." },
+      { q: "Is Judas Priest still active?", a: "Yes. The band released Invincible Shield in 2024 and continues to tour with Rob Halford, Ian Hill, Scott Travis, Richie Faulkner, and touring guitarist Andy Sneap." }
+    ],
+    sources: [
+      "https://en.wikipedia.org/wiki/Judas_Priest",
+      "https://en.wikipedia.org/wiki/List_of_Judas_Priest_band_members",
+      "https://en.wikipedia.org/wiki/Sin_After_Sin",
+      "https://blabbermouth.net/news/scott-travis-says-judas-priest-needed-a-definite-extra-kick-in-the-a-before-his-addition-to-the-band",
+      "https://www.ultimate-guitar.com/news/general_music_news/rob_halford_confirms_andy_sneap_will_remain_a_touring_member_for_judas_priest.html"
+    ],
+  },
 };
 export function getBand(slug) { return bands[slug] || null; }
 export function getAllBandSlugs() { return Object.keys(bands); }

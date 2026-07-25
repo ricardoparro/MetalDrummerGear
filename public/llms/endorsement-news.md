@@ -2,11 +2,15 @@
 
 Brand endorsement changes for professional metal drummers. See https://metalforge.io/endorsement-news
 
-> Last updated: 2026-07-11 · 67 drummers tracked · 35 brands
+> Last updated: 2026-07-25 · 72 drummers tracked · 37 brands
 
 ---
 
 ## Current Endorsements by Brand
+
+### ACD Unlimited
+
+- John Longstreth (Origin) — Hardware/Pedals — since 2010s — /drummer/john-longstreth
 
 ### Ahead
 
@@ -77,6 +81,8 @@ Brand endorsement changes for professional metal drummers. See https://metalforg
 - Ray Luzier (Korn) — Drumheads — since 2010 — /drummer/ray-luzier
 - Art Cruz (Lamb of God) — Drumheads — since 2019 — /drummer/art-cruz
 - Adrian Erlandsson (At the Gates) — Drumheads — since 2014 — /drummer/adrian-erlandsson
+- Jimmy DeGrasso (Megadeth) — Drumheads — since 1998 — /drummer/jimmy-degrasso
+- Alex Rüdinger (The Faceless) — Drumheads — since 2010s — /drummer/alex-rudinger
 
 ### Evans / Remo
 
@@ -120,6 +126,8 @@ Brand endorsement changes for professional metal drummers. See https://metalforg
 - Paul Mazurkiewicz (Cannibal Corpse) — Cymbals — since 1990s — /drummer/paul-mazurkiewicz
 - Martin Axenrot (Opeth) — Cymbals — since 2008 — /drummer/martin-axenrot
 - Matt Garstka (Animals as Leaders) — Cymbals — since 2012 — /drummer/matt-garstka
+- Alex Rüdinger (The Faceless) — Cymbals — since 2010s — /drummer/alex-rudinger
+- John Longstreth (Origin) — Cymbals — since 2000s — /drummer/john-longstreth
 
 ### Monolit
 
@@ -186,6 +194,9 @@ Brand endorsement changes for professional metal drummers. See https://metalforg
 - Matt Garstka (Animals as Leaders) — Drums — since 2012 — /drummer/matt-garstka
 - Matt Garstka (Animals as Leaders) — Hardware/Pedals — since 2012 — /drummer/matt-garstka
 - Alex Bent (ex-Trivium / Arkaik / Dragonlord) — Drums — since 2016 — /drummer/alex-bent
+- Jimmy DeGrasso (Megadeth) — Drums — since 2008 — /drummer/jimmy-degrasso
+- John Longstreth (Origin) — Drums — since 1990s — /drummer/john-longstreth
+- Waltteri Väyrynen (Opeth) — Drums — since 2010s — /drummer/waltteri-vayrynen
 
 ### Pro-Mark
 
@@ -205,6 +216,7 @@ Brand endorsement changes for professional metal drummers. See https://metalforg
 - Nick Augusto (ex-Trivium) — Drumsticks — since 2011 — /drummer/nick-augusto
 - Ray Luzier (Korn) — Drumsticks — since 2013 — /drummer/ray-luzier
 - Daray (Dimmu Borgir) — Drumsticks — since 2008 — /drummer/daray
+- Jimmy DeGrasso (Megadeth) — Drumsticks — since 1998 — /drummer/jimmy-degrasso
 
 ### Promark / Vater
 
@@ -278,10 +290,16 @@ Brand endorsement changes for professional metal drummers. See https://metalforg
 - Tim Yeung (Morbid Angel) — Cymbals — since 2005 — /drummer/tim-yeung
 - Nick Menza (Megadeth) — Cymbals — since 1997 — /drummer/nick-menza
 - Adrian Erlandsson (At the Gates) — Cymbals — since 2014 — /drummer/adrian-erlandsson
+- Jimmy DeGrasso (Megadeth) — Cymbals — since 1998 — /drummer/jimmy-degrasso
+- Waltteri Väyrynen (Opeth) — Cymbals — since 2010s — /drummer/waltteri-vayrynen
 
 ### Sabian / Zildjian
 
 - Jon Dette (Slayer) — Cymbals — since 1996 — /drummer/jon-dette
+
+### Scorpion Percussion
+
+- John Longstreth (Origin) — Drumsticks — since 2010s — /drummer/john-longstreth
 
 ### Sonor
 
@@ -294,6 +312,7 @@ Brand endorsement changes for professional metal drummers. See https://metalforg
 - Martin Axenrot (Opeth) — Drums — since 2008 — /drummer/martin-axenrot
 - Martin Axenrot (Opeth) — Hardware/Pedals — since 2008 — /drummer/martin-axenrot
 - Martin Lopez (Soen) — Drums — since 2010 — /drummer/martin-lopez
+- Nick Barker (Dimmu Borgir) — Drums — since 1990s — /drummer/nick-barker
 
 ### Tama
 
@@ -328,6 +347,7 @@ Brand endorsement changes for professional metal drummers. See https://metalforg
 - Nick Menza (Megadeth) — Drums — since 1990 — /drummer/nick-menza
 - Nick Menza (Megadeth) — Hardware/Pedals — since 1997 — /drummer/nick-menza
 - Adrian Erlandsson (At the Gates) — Drums — since 2014 — /drummer/adrian-erlandsson
+- Alex Rüdinger (The Faceless) — Drums — since 2010s — /drummer/alex-rudinger
 
 ### Trick
 
@@ -403,6 +423,7 @@ Brand endorsement changes for professional metal drummers. See https://metalforg
 ### Wincent
 
 - Tomas Haake (Meshuggah) — Drumsticks — since 2010 (signature model) — /drummer/tomas-haake
+- Waltteri Väyrynen (Opeth) — Drumsticks — since 2022 — /drummer/waltteri-vayrynen
 
 ### Yamaha
 
@@ -1023,6 +1044,40 @@ After several drummer changes, Trivium finds stability with Alex Bent. He brings
 - **1997** (Drums): Renewed Ludwig deal — Carried the same Ludwig Classic Maple setup into his first stint with Testament (1997–1999), recording "The Gathering" (1999) alongside guitarist Alex Skolnick's progressive arrangements
 - Profile: https://metalforge.io/drummer/jon-dette
 
+### Jimmy DeGrasso (Megadeth)
+
+- **1998** (Drums): Signed with Pearl — Played a Pearl kit through his 1998–2002 Megadeth tenure, recording "Risk" (1999) and "The World Needs a Hero" (2001)
+- **1998** (Cymbals): Signed with Sabian — Ran Sabian cymbals through his Megadeth tenure and into subsequent touring work with Alice Cooper and other hard rock acts
+- **2008** (Drums): Signature product: Pearl JD1455 Signature Snare — Pearl unveiled his 14x5.5" hammered brass, gold-plated-hardware signature snare at the 2008 NAMM Show
+- Profile: https://metalforge.io/drummer/jimmy-degrasso
+
+### Nick Barker (Dimmu Borgir)
+
+- **1993** (Drums): Signed with Sonor — Sonor's own artist page credits his Sonor endorsement back through his 1993–1999 tenure in Cradle of Filth, recording "The Principle of Evil Made Flesh" (1994) and "Cruelty and the Beast" (1998)
+- **1999** (Drums): Renewed Sonor deal — Continued on Sonor through his 1999–2004 run in Dimmu Borgir, recording "Puritanical Euphoric Misanthropia" (2001) and "Death Cult Armageddon" (2003)
+- Profile: https://metalforge.io/drummer/nick-barker
+
+### Alex Rüdinger (The Faceless)
+
+- **2013** (Drums): Signed with Tama — Became a Tama Drums artist around his tenure in The Faceless and the launch of Conquering Dystopia, playing the Starclassic Performer B/B kit listed on Tama's own artist page
+- **2013** (Drumheads): Signed with Evans — Evans' own artist page credits his head setup — a UV EQ4 Coated bass batter, G2 Clear tom batters, and an HD Dry snare batter
+- **2015** (Cymbals): Signed with Meinl — Signed with Meinl Cymbals, running the Byzance and MB20 lines through touring work including Good Tiger and studio credits such as Whitechapel's "Kin" (2021)
+- Profile: https://metalforge.io/drummer/alex-rudinger
+
+### John Longstreth (Origin)
+
+- **1995** (Drums): Signed with Pearl — Played Pearl drums from Angelcorpse's 1995 formation through his ongoing tenure in Origin, recording "Informis Infinitas Inhumanitas" (2002) and "Chaosmos" (2022)
+- **2010** (Cymbals): Signed with Meinl — Signed with Meinl Cymbals, per the brand's own artist page — Classics Custom Dark series (8" Splash, 14" Hi-Hats, 18" China) plus a Generation X 12"/14" Trash Hat
+- **2010** (Drumsticks): Signature product: Scorpion Percussion "Wee Heavy" Signature Drumsticks — Scorpion Percussion credits him as a signature artist for its "Wee Heavy" stick model on the brand's own artist page
+- Profile: https://metalforge.io/drummer/john-longstreth
+
+### Waltteri Väyrynen (Opeth)
+
+- **2015** (Drums): Signed with Pearl — Played Pearl drums from his 2015 session work with Paradise Lost, corroborated by Antelope Audio's writeup of his 2020 studio session at Orgone Studios
+- **2017** (Cymbals): Signed with Sabian — Sabian's own artist page credits him as an endorsed artist, naming a 22" HH Power Bell Ride as his favourite piece in the setup
+- **2022** (Drumsticks): Signature product: Wincent W-5BXL Signature Model — Wincent announced his W-5BXL signature stick model through the brand's artist roster in December 2022
+- Profile: https://metalforge.io/drummer/waltteri-vayrynen
+
 ---
 
 ## More Resources
@@ -1032,4 +1087,4 @@ After several drummer changes, Trivium finds stability with Alex Bent. He brings
 - [Gear News](https://metalforge.io/llms/gear-news.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-11 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

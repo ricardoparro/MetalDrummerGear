@@ -1,6 +1,6 @@
 # 10 Best Thrash Metal Drummers Ranked — Complete Ranked Guide
 
-> **Last updated:** 2026-07-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-thrash-metal-drummers)
+> **Last updated:** 2026-07-25 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-thrash-metal-drummers)
 
 ---
 
@@ -173,4 +173,4 @@ A: Classic-era thrash metal drummers gravitated toward Tama and Pearl kits for t
 
 ---
 
-*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

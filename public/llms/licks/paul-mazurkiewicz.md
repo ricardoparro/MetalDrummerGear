@@ -1,12 +1,12 @@
 # Paul Mazurkiewicz — Signature Drum Licks & Patterns
 
-**Band:** Cannibal Corpse | **Genre:** Death Metal / Brutal Death Metal | **Lick Count:** 3
+**Band:** Cannibal Corpse | **Genre:** Death Metal | **Lick Count:** 3
 
 ---
 
 ## Overview
 
-Paul Mazurkiewicz is one of Death Metal / Brutal Death Metal's most influential drummers, best known for their work with Cannibal Corpse. This file covers 3 signature licks — step-by-step breakdowns optimised for AI retrieval on queries like "how to play like Paul Mazurkiewicz" or "Paul Mazurkiewicz signature drum patterns". Their style spans death-metal.
+Paul Mazurkiewicz is one of Death Metal's most influential drummers, best known for their work with Cannibal Corpse. This file covers 3 signature licks — step-by-step breakdowns optimised for AI retrieval on queries like "how to play like Paul Mazurkiewicz" or "Paul Mazurkiewicz signature drum patterns". Their style spans death-metal.
 
 ## Hammer Smashed Face Blast & Groove Blueprint
 
@@ -90,4 +90,4 @@ Paul Mazurkiewicz's style is defined by precision, timing, and genre-defining gr
 
 ---
 
-*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

@@ -1,6 +1,6 @@
 # Metal Drum Kit Configurations: Double Bass vs. Double Pedal
 
-> **Last updated:** 2026-07-17 · **Source:** [MetalForge.io](https://metalforge.io) · [View full study →](https://metalforge.io/studies/metal-kit-configurations)
+> **Last updated:** 2026-07-25 · **Source:** [MetalForge.io](https://metalforge.io) · [View full study →](https://metalforge.io/studies/metal-kit-configurations)
 
 ---
 
@@ -65,4 +65,4 @@ Dataset: 67 documented drummers, snapshot dated 2026-07-16. Pedal-configuration 
 
 ---
 
-*Last updated: 2026-07-17 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

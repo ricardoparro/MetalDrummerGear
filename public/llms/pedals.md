@@ -128,4 +128,4 @@ A: For most metal styles, yes. Blast beats and constant sixteenth-note kick patt
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 - [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-07-16 · 56 drummers, 3 reference guides · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · 56 drummers, 3 reference guides · Source: [MetalForge.io](https://metalforge.io)*

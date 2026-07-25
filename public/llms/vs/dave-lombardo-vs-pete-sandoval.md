@@ -22,7 +22,7 @@ Slayer's Dave Lombardo vs Morbid Angel's Pete Sandoval. Groove-based double kick
 - **Cymbals:** Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 20" Stage Ride, 18" Chinese)
 - **Snare:** ddrum Dios 14x6.5" Maple
 - **Pedals/Hardware:** ddrum Mercury Double Pedal, ddrum Throne
-- **Sticks:** Ahead Lars Ulrich Signature
+- **Sticks:** Pro-Mark (historical endorsement — current sticks unverified)
 
 ## Playing Style
 
@@ -67,4 +67,4 @@ A: Dave Lombardo uses Paiste RUDE & 2002 Series (15" Sound Edge Hi-Hats, 18" & 1
 
 ---
 
-*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

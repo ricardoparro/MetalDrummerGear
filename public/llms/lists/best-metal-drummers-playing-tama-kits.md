@@ -1,6 +1,6 @@
 # Top 10 Metal Drummers Playing Tama Kits — Complete Ranked Guide
 
-> **Last updated:** 2026-07-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-metal-drummers-playing-tama-kits)
+> **Last updated:** 2026-07-25 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-metal-drummers-playing-tama-kits)
 
 ---
 
@@ -148,4 +148,4 @@ A: Yes. Mike Portnoy played a Tama Artstar II early in Dream Theater's career, s
 
 ---
 
-*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

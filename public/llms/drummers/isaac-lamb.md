@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "SJC"
 profile_url: "https://metalforge.io/drummer/isaac-lamb"
 source: "https://metalforge.io"
-last_updated: "2026-07-14"
+last_updated: "2026-07-25"
 ---
 
 # Isaac Lamb — Drum Kit & Gear Setup
@@ -79,6 +79,26 @@ A: Isaac Lamb has been Kublai Khan TX's drummer since the band formed in 2009—
 
 A: Songs like "The Hammer," "Belligerent," "Swan Song," and "Theory of Mind" are among their most popular tracks.
 
+**Q: What drum set does Isaac Lamb use?**
+
+A: Isaac Lamb's drum set is a boutique SJC Custom Drums kit in American maple — a 22" bass drum, 10"/12" rack toms, and 14"/16" floor toms — paired with an SJC Custom 14"x6.5" maple snare. The tight bearing edges give his kick-snare relationship the focused attack that cuts through Kublai Khan TX's heavily downtuned 7-string guitars.
+
+**Q: What drum kit does Isaac Lamb use?**
+
+A: Isaac Lamb's drum kit centers on SJC Custom Drums American maple shells, an SJC Custom 14"x6.5" maple snare, and a complete Meinl Classics Custom Dark cymbal setup, driven by a DW 9000 Series double pedal — the setup he established for Nomad (2017) and carried through Absolute (2019) and Lowest Form of Animal (2022).
+
+**Q: What cymbals does Isaac Lamb use?**
+
+A: Isaac Lamb uses a complete Meinl Classics Custom Dark Series setup: 14" Dark hi-hats, 18"/20" Dark crashes, a 21" Dark ride, and an 18" Dark China, chosen for their controlled decay so cymbal wash doesn't ring into Kublai Khan TX's breakdowns.
+
+**Q: What snare drum does Isaac Lamb use?**
+
+A: Isaac Lamb plays an SJC Custom 14"x6.5" American maple snare drum, its 6.5" depth chosen for the body and backbeat authority that locks with the kick in his groove-first approach.
+
+**Q: What pedals does Isaac Lamb use?**
+
+A: Isaac Lamb drives his kick patterns with a DW 9000 Series double pedal, whose floating rotor and adjustable cam give him the versatility to move between mid-tempo grooves, blast beats, and weighted breakdown strokes.
+
 ## Gear Evolution Timeline
 
 Isaac Lamb's complete drum gear evolution — from the undocumented Sherman, Texas DIY years through the SJC Custom Drums / Meinl Classics Custom Dark rig behind Kublai Khan TX's Rise Records releases through 2024's "Exhibition of Prowess" — is tracked era-by-era: [Isaac Lamb Gear Evolution Timeline](https://metalforge.io/drummers/isaac-lamb/evolution) ([markdown version](/llms/evolution/isaac-lamb.md)).
@@ -99,4 +119,4 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

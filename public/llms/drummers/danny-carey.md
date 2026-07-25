@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Sonor"
 profile_url: "https://metalforge.io/drummer/danny-carey"
 source: "https://metalforge.io"
-last_updated: "2026-07-14"
+last_updated: "2026-07-25"
 ---
 
 # Danny Carey — Drum Kit & Gear Setup
@@ -89,6 +89,10 @@ A: Yes, Danny was inducted into the Modern Drummer Hall of Fame in 2016.
 
 A: Danny Carey's drum kit is a massive Sonor SQ2 Heavy Beech configuration with multiple toms, built around his signature Sonor Danny Carey 14"x8" bronze snare drum. The kit is fitted with Paiste Signature cymbals — Sound Edge hi-hats, Power crashes, a Dry Heavy Ride, and chinas — plus Mandala electronic pads and a Sonor Giant Step Twin Effect double pedal.
 
+**Q: What drum set did Danny Carey use?**
+
+A: Danny Carey's drum set is a massive Sonor SQ2 Heavy Beech configuration with multiple toms, built around his signature Sonor Danny Carey 14"x8" bronze snare drum. The drum set is fitted with Paiste Signature cymbals — Sound Edge hi-hats, Power crashes, a Dry Heavy Ride, and chinas — plus Mandala electronic pads and a Sonor Giant Step Twin Effect double pedal.
+
 **Q: What drum set does Danny Carey use?**
 
 A: Danny Carey's drum set is Sonor SQ2 Heavy Beech, anchored by his signature Sonor Danny Carey 14"x8" bronze snare drum. Paiste Signature series cymbals — Sound Edge hi-hats, Power crashes, a Dry Heavy Ride, and chinas — complete the drum set, along with Mandala Drum electronic pads for melodic textures and a Sonor Giant Step Twin Effect double pedal.
@@ -138,4 +142,4 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

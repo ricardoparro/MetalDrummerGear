@@ -1,6 +1,6 @@
 # Top 10 Death-Doom Metal Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-07-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/death-doom-metal-drummers)
+> **Last updated:** 2026-07-25 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/death-doom-metal-drummers)
 
 ---
 
@@ -150,4 +150,4 @@ A: Paradise Lost's "Gothic" (1991) and My Dying Bride's "Turn Loose the Swans" (
 
 ---
 
-*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

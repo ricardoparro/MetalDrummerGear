@@ -1,12 +1,12 @@
 # Alex Bent — Signature Drum Licks & Patterns
 
-**Band:** Trivium | **Genre:** Melodic Thrash / Metalcore | **Lick Count:** 6
+**Band:** ex-Trivium / Arkaik / Dragonlord | **Genre:** Heavy Metal / Thrash Metal / Technical Death Metal | **Lick Count:** 6
 
 ---
 
 ## Overview
 
-Alex Bent is one of Melodic Thrash / Metalcore's most influential drummers, best known for their work with Trivium. This file covers 6 signature licks — step-by-step breakdowns optimised for AI retrieval on queries like "how to play like Alex Bent" or "Alex Bent signature drum patterns". Their style spans melodic-thrash, melodic-metal.
+Alex Bent is one of Heavy Metal / Thrash Metal / Technical Death Metal's most influential drummers, best known for their work with Trivium. This file covers 6 signature licks — step-by-step breakdowns optimised for AI retrieval on queries like "how to play like Alex Bent" or "Alex Bent signature drum patterns". Their style spans melodic-thrash, melodic-metal.
 
 ## The Sin and the Sentence Blast+Groove Hybrid
 
@@ -81,21 +81,21 @@ Alex Bent is one of Melodic Thrash / Metalcore's most influential drummers, best
 
 **Song:** Beyond Oblivion | **Album:** Silence in the Snow (2015) | **BPM:** ~132 BPM | **Technique:** main groove | **Difficulty:** advanced
 
-"Beyond Oblivion" from Trivium's 2015 album Silence in the Snow demonstrates a dimension of Alex Bent's drumming that his technical death metal work rarely puts on display: the ability to build a melodic metal drum setup that serves the song's emotional landscape without imposing his technical range on arrangements that call for restraint. Bent's Pearl Reference Pure Series kit is tuned for warm, controlled tone in the melodic passages. The snare sits at a medium pitch that projects clearly in the mix without overwhelming the clean guitar lines, and his Vic Firth 5B sticks provide enough weight for authority on the heavier hits without becoming unwieldy in delicate verse passages. The Axis A Longboard configuration is optimised for control at moderate tempo: lighter spring tension and a more responsive beater angle than his blast-beat setup. His Zildjian K Custom Hybrid cymbals bring a warm, slightly dark tone that complements the song's melodic character. For drummers, the setup and approach reveal how a technically elite drummer configures their equipment to serve a song's emotional requirements — a skill as important as any technical capability.
+"Beyond Oblivion" from Trivium's 2015 album Silence in the Snow demonstrates a dimension of Alex Bent's drumming that his work with technical death metal outfits like Brain Drill rarely puts on display: the ability to build a melodic metal drum setup that serves the song's emotional landscape without imposing the drummer's technical range on arrangements that call for restraint. Bent's Pearl Reference Pure Series kit is one of the most versatile tools in modern metal drumming, capable of producing both the explosive attack needed for blast beats and the warm, controlled tone required for melodic passages — and "Beyond Oblivion" leans heavily into the latter. The snare tuning for this song sits at a medium pitch that projects clearly in the mix without overwhelming the clean guitar lines, and Bent's stick choice — Vic Firth 5B — provides enough weight for authority on the heavier hits without becoming unwieldy in the delicate verse passages. The Axis A Longboard double pedal configuration is optimised for control at moderate tempo: the spring tension and beater angle are set for a lighter, more responsive touch than the heavy, planted approach used in blast beat contexts, allowing Bent to produce even, measured kick strokes that add weight beneath the melody without cluttering the low-end space. His Zildjian K Custom Hybrid cymbals bring a warm, slightly dark tone to the arrangement that complements the song's melodic character — the ride has enough wash to smooth out the pulse, and the crash cymbals decay quickly enough that they mark phrase ends without ringing into the next section. The setup and approach together reveal how a technically elite drummer configures their equipment and adjusts their physical approach to serve a song's emotional requirements — a skill as important as any technical capability in a drummer's development.
 
 ### How to Play
 
 - Tune the snare to a medium pitch that projects in the mix without competing with the melodic guitar lines
-- Reduce the double pedal spring tension for the melodic context — lighter, more responsive strokes serve the arrangement better
-- Use the Zildjian K Custom Hybrid ride's warmth to smooth the pulse in the melodic verses
+- Reduce the double pedal spring tension for the melodic context — lighter, more responsive strokes serve the arrangement better than planted, heavy attacks
+- Use the Zildjian K Custom Hybrid ride's warmth to smooth the pulse in the melodic verses without the brightness that cuts through heavy passages
 - Choose economical, purposeful fills that serve the structure — melodic metal fill placement is about architectural clarity, not technical display
-- Adjust your stick height in the melodic sections — a lower playing position produces quieter, more controlled strokes
+- Adjust your stick height in the melodic sections — a lower playing position produces quieter, more controlled strokes that let the melody breathe
 
 ### Key Elements
 
-- Experiment with snare tuning before the session — a medium pitch that clears the guitar mix is essential
-- Reduce your double pedal spring tension from your blast-beat setting and feel the difference in touch responsiveness
-- Listen to the arrangement with headphones to hear the dynamic relationship before playing
+- Experiment with snare tuning before the session — a medium pitch that clears the guitar mix is essential for this arrangement to breathe
+- Reduce your double pedal spring tension from your blast-beat setting and feel the difference in touch responsiveness at moderate tempo
+- Listen to the arrangement with headphones to hear the dynamic relationship between the drums and the melodic guitars before playing
 - Practise the verse groove at a dynamic level that feels uncomfortably soft — the contrast makes the heavier sections hit harder
 
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Double Bass](https://metalforge.io/techniques/double-bass)
@@ -104,22 +104,22 @@ Alex Bent is one of Melodic Thrash / Metalcore's most influential drummers, best
 
 **Song:** Seat of the Soul | **Album:** What the Dead Men Say (2020) | **BPM:** ~175 BPM | **Technique:** signature pattern | **Difficulty:** advanced
 
-"Seat of the Soul" from Trivium's 2020 album What the Dead Men Say represents Alex Bent's most complete exploration of polyrhythmic groove architecture in the melodic thrash context — a track that applies the rhythmic sophistication of his technical death metal background to Trivium's accessible, song-focused format. The drum setup for this track is configured for sustained polyrhythmic playing at a pace that sits at the boundary between thrash aggression and groove control: the Pearl Reference Pure Series shells are tuned for articulate attack that preserves each individual stroke's clarity even in dense kick-snare passages. The Axis A Longboard pedal setup is critical for the kick pattern's polyrhythmic function — the pedal's exceptionally responsive feel allows Bent to vary foot pressure and velocity with precision, shaping the kick accent points against the snare's pattern in a way that creates the cross-rhythmic tension at the core of the track's groove. The Zildjian K Custom Hybrid ride keeps the pulse anchored while the kick and snare work their polyrhythmic relationship beneath it, providing the listener with a fixed reference point. For drummers, this track develops the ability to maintain a stable hand pattern above a polyrhythmic kick-snare relationship — one of the most demanding and productive skills in modern metal drumming.
+"Seat of the Soul" from Trivium's 2020 album What the Dead Men Say represents Alex Bent's most complete exploration of polyrhythmic groove architecture in the melodic thrash context — a track that applies the rhythmic sophistication of his technical death metal background to Trivium's accessible, song-focused format. The drum setup for this track is configured for the specific demands of sustained polyrhythmic playing at a pace that sits at the boundary between thrash aggression and groove control: the Pearl Reference Pure Series shells are tuned for articulate attack that preserves each individual stroke's clarity even in dense kick-snare passages, ensuring that the polyrhythmic interplay remains audible as distinct rhythmic voices rather than blurring into undifferentiated density. The Axis A Longboard pedal setup is critical for the kick pattern's polyrhythmic function: the pedal's exceptionally responsive feel allows Bent to vary foot pressure and velocity with precision, shaping the kick accent points against the snare's pattern in a way that creates the cross-rhythmic tension at the core of the track's groove. His snare placement creates a cross-accent pattern that generates a polyrhythmic relationship with the guitar riff's emphasis cycle — the snare's accent grid operates in a different rhythmic cycle from the guitar's main accent points, and the tension between these two cycles gives the groove its driving, restless energy. The Zildjian K Custom Hybrid ride keeps the pulse anchored while the kick and snare work their polyrhythmic relationship beneath it, providing the listener with a fixed reference point that prevents the complexity from becoming disorienting. For drummers, this track develops the ability to maintain a stable hand pattern above a polyrhythmic kick-snare relationship — one of the most technically demanding and musically productive skills in modern metal drumming, and the foundation of Bent's distinctive rhythmic identity. Practise the kick-snare polyrhythm in isolation against a click before adding the hand pattern above it.
 
 ### How to Play
 
-- Set the Axis A Longboard spring tension for precise foot control — the polyrhythmic kick pattern requires variable velocity
-- Tune the snare for articulate attack so each stroke in the cross-accent pattern speaks clearly
-- Keep the ride bell as a fixed, straight-eighth anchor so the listener has a reference point
-- Build the kick-snare polyrhythm in isolation before adding the ride — the two voices need to be internalised first
+- Set the Axis A Longboard spring tension for precise foot control — the polyrhythmic kick pattern requires variable velocity to shape the accent points
+- Tune the snare for articulate attack so each stroke in the cross-accent pattern speaks clearly, even in the densest passages
+- Keep the ride bell as a fixed, straight-eighth anchor so the listener has a reference point while the kick-snare work their polyrhythmic relationship
+- Build the kick-snare polyrhythm in isolation before adding the ride — the two voices need to be internalised before layering the hands
 - Listen to the guitar riff and the kick-snare pattern simultaneously to feel how the cross-rhythmic tension resolves at the bar line
 
 ### Key Elements
 
 - Transcribe the kick-snare polyrhythmic pattern on paper before attempting to play it — understanding the cross-accent logic visually makes it physically accessible
 - Practise the kick-snare pattern alone against a click at half tempo, building until the polyrhythmic relationship feels natural at full speed
-- Keep a bar-level count in your head while playing — the polyrhythmic tension resolves at the bar line and losing count causes drift
-- Record and zoom in on the transition points to verify the polyrhythmic pattern resolves cleanly before moving to the next bar
+- Keep a bar-level count in your head while playing — the polyrhythmic tension resolves at the bar line and losing count of that reference causes drift
+- Record and zoom in on the transition points between sections to verify that the polyrhythmic pattern resolves cleanly before moving to the next bar
 
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
@@ -127,28 +127,28 @@ Alex Bent is one of Melodic Thrash / Metalcore's most influential drummers, best
 
 **Song:** A Crisis of Revelation | **Album:** In the Court of the Dragon (2021) | **BPM:** ~165 BPM | **Technique:** signature pattern | **Difficulty:** expert
 
-"A Crisis of Revelation" from Trivium's 2021 album In the Court of the Dragon is among the most technically complete drum performances Alex Bent has committed to record, and the Vic Firth drum-cam session documenting his studio approach provides one of the clearest windows into how an elite-level drummer configures their setup for demanding modern metal material. The track operates at approximately 165 BPM with a rhythmic complexity that demands total four-way independence: blast beat passages where the kick and snare operate at extreme density, melodic sections where the groove pulls back to a driving thrash feel, and breakdown passages where the energy concentrates into a crushing half-time pocket. Bent's Pearl Reference Pure Series kit is configured for the widest possible dynamic range — shells tuned to deliver a bright, punchy attack in extreme passages and a warm, full-bodied tone in the melodic sections. The Axis A Longboard is set for maximum responsiveness — Bent's heel-up technique allows him to produce even, defined strokes at blast beat density without any loss of kick clarity. The Vic Firth drum-cam documents every technical choice in high-quality video, making it one of the most instructive performance documents in modern thrash drumming.
+"A Crisis of Revelation" from Trivium's 2021 album In the Court of the Dragon is among the most technically complete drum performances Alex Bent has committed to record, and the Vic Firth drum-cam session documenting his studio approach to the track provides one of the clearest available windows into how an elite-level drummer configures and uses their setup for demanding modern metal material. The track operates at approximately 165 BPM with a rhythmic complexity that demands total four-way independence: blast beat passages where the kick and snare operate at extreme density, melodic sections where the groove pulls back to a driving thrash feel with precise accent placement, and breakdown passages where the energy concentrates into a crushing half-time pocket that makes the heaviest moments of the arrangement absolutely conclusive. Bent's Pearl Reference Pure Series kit is configured for the widest possible dynamic range across these contrasting sections: the shells are tuned to deliver a bright, punchy attack in the extreme passages and a warm, full-bodied tone in the melodic sections, a balance that requires careful tuning attention and an understanding of how the drum voices interact with the arrangement at different dynamic levels. The Axis A Longboard double pedal is set for maximum responsiveness — Bent's heel-up technique, refined through years of technical death metal playing, allows him to produce even, defined strokes at blast beat density without any loss of kick clarity. The Zildjian K Custom Hybrid cymbals provide the smooth, warm crashes that mark the song's major section changes without overshadowing the melodic elements, and the ride bell's clarity keeps the pulse present throughout the most complex rhythmic passages. The Vic Firth drum-cam session documents every technical choice in high-quality video, making it one of the most instructive performance documents in modern thrash drumming. For drummers, "A Crisis of Revelation" is the definitive Alex Bent study piece for the ICTOTD era.
 
 ### How to Play
 
 - Configure the Axis A Longboard for maximum responsiveness — the spring tension and beater angle must support heel-up blast beat density without fatigue
 - Tune the Pearl Reference Pure for a wide dynamic range — bright attack in the blast passages, warm resonance in the melodic sections
-- Execute the blast-to-groove transitions with total four-way independence — the body must shift rhythmic modes instantaneously
-- Use the K Custom Hybrid crashes to mark major section changes — their warm decay complements the melodic guitar lines
-- Approach the half-time breakdown with maximum backbeat authority — the contrast with the blast passages makes the downshift hit harder
+- Execute the blast-to-groove transitions with total four-way independence — the body must be able to shift rhythmic modes instantaneously on the intended beat
+- Use the K Custom Hybrid crashes to mark major section changes — their warm decay complements the melodic guitar lines without clashing in the mix
+- Approach the half-time breakdown with maximum backbeat authority — the contrast with the blast passages makes the downshift hit with extra physical impact
 
 ### Key Elements
 
-- Watch the Vic Firth drum-cam multiple times before attempting the part — map the full arrangement structure before picking up sticks
-- Isolate the blast beat passages and build them at 50% tempo — blast beat density at 165 BPM requires long-term endurance development
-- Practise each blast-to-groove transition as an isolated exercise until it fires automatically
-- Build the half-time breakdown independently at full power before connecting it to the preceding material
+- Watch the Vic Firth drum-cam multiple times before attempting the part — map the full arrangement structure and every major section transition before picking up sticks
+- Isolate the blast beat passages and build them at 50% tempo, gradually increasing — blast beat density at 165 BPM requires long-term endurance development
+- Practise each blast-to-groove transition as an isolated exercise until it fires automatically — the transition must be instantaneous and fully committed
+- Build the half-time breakdown independently at full power before connecting it to the preceding material — authority in that section depends on comfort at full energy
 
 **Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Teaching Points
 
-Alex Bent's style is defined by precision, timing, and genre-defining grooves. Key practice principles across all their licks: Slow the blast sections way down and build tempo gradually — evenness is more important than speed; Practise the blast-to-groove transition as an isolated exercise before dropping it into the full song context; Map the song structure before learning the drums — knowing where each section starts and ends makes the transitions easier. For the melodic material (Beyond Oblivion), reduce pedal spring tension and lower your playing height to serve the arrangement's emotional landscape. For the polyrhythmic material (Seat of the Soul, A Crisis of Revelation), transcribe the kick pattern before playing and build the foot pattern independently before adding the hands. Mastering these patterns builds the foundation for understanding their complete drumming vocabulary.
+Alex Bent's style is defined by precision, timing, and genre-defining grooves. Key practice principles across all their licks: Slow the blast sections way down and build tempo gradually — evenness is more important than speed; Practise the blast-to-groove transition as an isolated exercise before dropping it into the full song context; Map the song structure before learning the drums — knowing where each section starts and ends makes the transitions easier. Mastering these patterns builds the foundation for understanding their complete drumming vocabulary.
 
 ## More Resources
 
@@ -159,4 +159,4 @@ Alex Bent's style is defined by precision, timing, and genre-defining grooves. K
 
 ---
 
-*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

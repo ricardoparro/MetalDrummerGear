@@ -1,6 +1,6 @@
 # Top 7 Metal Drummers Playing Zildjian Cymbals — Complete Ranked Guide
 
-> **Last updated:** 2026-07-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-metal-drummers-playing-zildjian-cymbals)
+> **Last updated:** 2026-07-25 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-metal-drummers-playing-zildjian-cymbals)
 
 ---
 
@@ -117,4 +117,4 @@ A: Every entry on this list requires a Zildjian relationship that's independentl
 
 ---
 
-*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

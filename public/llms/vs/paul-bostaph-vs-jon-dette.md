@@ -1,6 +1,6 @@
 # Paul Bostaph vs Jon Dette — Drum Kit Comparison
 
-> Side-by-side gear comparison between Paul Bostaph (Slayer) and Jon Dette.
+> Side-by-side gear comparison between Paul Bostaph (Slayer) and Jon Dette (Slayer).
 
 **Category:** Thrash Metal · **URL:** https://metalforge.io/vs/paul-bostaph-vs-jon-dette
 
@@ -18,7 +18,11 @@ Paul Bostaph vs Jon Dette: the two drummers who replaced Dave Lombardo in Slayer
 
 ## Jon Dette Setup
 
-- **Drums:** See [Jon Dette profile](https://metalforge.io/drummer/jon-dette)
+- **Drums:** Ludwig Classic Maple
+- **Cymbals:** Sabian AAX / Zildjian A Series (14" Hi-Hats, 16" & 18" Crash, 20" Ride, 18" China)
+- **Snare:** 14x6.5" Metal or Maple Snare
+- **Pedals/Hardware:** DW 9000 or Tama Iron Cobra Double Pedal
+- **Sticks:** Promark / Vater 5B
 
 ## Playing Style
 
@@ -43,10 +47,16 @@ Paul Bostaph and Jon Dette are united by their shared role in one of metal's gre
 ## FAQ
 
 **Q: What are the main differences between Paul Bostaph's and Jon Dette's drum kits?**
-A: Paul Bostaph plays Pearl Masters Maple Complete (MCX) with Sabian cymbals, while Jon Dette uses custom drums with signature cymbals cymbals. Paul Bostaph's final Slayer setup used DW Collector's Series Maple/Mahogany drums with Paiste RUDE cymbals, DW 9000 Series double pedal, and Vater Power 5B sticks — a powerful, punchy configuration designed for arena-scale thrash. Jon Dette used various setups across his career including Pearl, Tama, and DW drums, with Sabian or Zildjian cymbals and DW 9000 or Tama Iron Cobra double pedals — versatile rigs suited to rapid deployment across multiple bands' requirements.
+A: Paul Bostaph plays Pearl Masters Maple Complete (MCX) with Sabian cymbals, while Jon Dette uses Ludwig Classic Maple with Sabian cymbals. Paul Bostaph's final Slayer setup used DW Collector's Series Maple/Mahogany drums with Paiste RUDE cymbals, DW 9000 Series double pedal, and Vater Power 5B sticks — a powerful, punchy configuration designed for arena-scale thrash. Jon Dette used various setups across his career including Pearl, Tama, and DW drums, with Sabian or Zildjian cymbals and DW 9000 or Tama Iron Cobra double pedals — versatile rigs suited to rapid deployment across multiple bands' requirements.
+
+**Q: What drums does Paul Bostaph play vs Jon Dette?**
+A: Paul Bostaph plays Pearl Masters Maple Complete (MCX). Jon Dette plays Ludwig Classic Maple.
 
 **Q: Who is the better thrash metal drummer, Paul Bostaph or Jon Dette?**
 A: Both are legends in their own right. Paul Bostaph and Jon Dette are united by their shared role in one of metal's greatest succession stories — both filled the massive void left by Dave Lombardo in Slayer while carving out respected careers in their own right. See the full analysis at [metalforge.io/vs/paul-bostaph-vs-jon-dette](https://metalforge.io/vs/paul-bostaph-vs-jon-dette).
+
+**Q: What cymbals do Paul Bostaph and Jon Dette use?**
+A: Paul Bostaph uses Sabian AAX Series (14" AAX Stage Hi-Hats, 17" & 19" AAX X-Plosion Crashes, 21" AAX Stage Ride, 18" AAXtreme China). Jon Dette uses Sabian AAX / Zildjian A Series (14" Hi-Hats, 16" & 18" Crash, 20" Ride, 18" China).
 
 ---
 
@@ -57,4 +67,4 @@ A: Both are legends in their own right. Paul Bostaph and Jon Dette are united by
 
 ---
 
-*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

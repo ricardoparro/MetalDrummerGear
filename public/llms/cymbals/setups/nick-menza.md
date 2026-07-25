@@ -39,4 +39,4 @@ A: Nick Menza plays Zildjian cymbals: 14" A Hi-Hats, 16" A Crash, 18" A Crash, 2
 
 ---
 
-*Last updated: 2026-07-13 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

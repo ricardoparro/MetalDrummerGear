@@ -1,6 +1,6 @@
 # Top 10 Best 2000s Metalcore Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-07-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-2000s-metalcore-drummers)
+> **Last updated:** 2026-07-25 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-2000s-metalcore-drummers)
 
 ---
 
@@ -148,4 +148,4 @@ A: Several drummers who built their reputations in the 2000s carried metalcore's
 
 ---
 
-*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

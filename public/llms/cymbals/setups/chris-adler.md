@@ -41,4 +41,4 @@ A: Chris Adler plays Meinl cymbals: 14" Byzance Dark Hi-Hats, 18" Byzance Dark C
 
 ---
 
-*Last updated: 2026-07-13 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

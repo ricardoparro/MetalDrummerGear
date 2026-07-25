@@ -46,4 +46,4 @@ A: Art Cruz plays Zildjian cymbals: 14" A Custom Mastersound Hi-Hats, 18" A Cust
 
 ---
 
-*Last updated: 2026-07-13 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

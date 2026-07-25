@@ -44,4 +44,4 @@ A: Joey Jordison plays Paiste cymbals: 14" RUDE & 2002 Wild Hi-Hats, 16" RUDE & 
 
 ---
 
-*Last updated: 2026-07-13 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

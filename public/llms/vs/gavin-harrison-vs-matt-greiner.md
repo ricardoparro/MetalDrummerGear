@@ -18,11 +18,11 @@ Porcupine Tree/King Crimson's Gavin Harrison vs August Burns Red's Matt Greiner 
 
 ## Matt Greiner Setup
 
-- **Drums:** Meinl Drum Festival Kit / Greiner & Kilmer Custom
-- **Cymbals:** Meinl Byzance Series (15" Dual Hi-Hats, 18" & 19" Dual Crashes, 21" Transition Ride, 18" Extra Dry China, 10" & 12" Splashes)
-- **Snare:** Greiner & Kilmer Custom 14x6.5" Maple
+- **Drums:** Mapex Black Panther Design Lab
+- **Cymbals:** Paiste Formula 602 (14" Hi-Hats, 16"/17"/18" Crashes, 22" Ride, 18" China, 10" Splash)
+- **Snare:** Mapex Black Panther 14x5.5" Maple
 - **Pedals/Hardware:** DW 9000 Series Double Pedal, DW 9100 Throne
-- **Sticks:** Vic Firth American Classic 5A
+- **Sticks:** Vic Firth Matt Greiner Signature
 
 ## Playing Style
 
@@ -47,16 +47,16 @@ Gavin Harrison and Matt Greiner occupy different corners of progressive-leaning 
 ## FAQ
 
 **Q: What are the main differences between Gavin Harrison's and Matt Greiner's drum kits?**
-A: Gavin Harrison plays Sonor SQ2 Series with Zildjian cymbals, while Matt Greiner uses Meinl Drum Festival Kit / Greiner & Kilmer Custom with Meinl cymbals. Harrison plays a Sonor SQ2 kit with thin maple shells (22"x17" bass drum, 10"/12" rack toms, 14"/16" floor toms), Sonor Gavin Harrison Signature snares (14"x5.25" brass primary, 12"x5" Protean), and Zildjian K Custom Special Dry cymbals developed in direct collaboration with him, anchored by a 21" Special Dry Ride, plus Vic Firth signature sticks. Greiner plays a Pearl Reference Pure kit with dual 22"x18" bass drums, a Pearl Matt Greiner Signature snare, and Meinl Byzance cymbals (18"/19" Extra Dry Medium crashes, 21" Transition Ride), driven by a Pearl Demon Drive double pedal and Vic Firth Matt Greiner signature sticks.
+A: Gavin Harrison plays Sonor SQ2 Series with Zildjian cymbals, while Matt Greiner uses Mapex Black Panther Design Lab with Paiste cymbals. Harrison plays a Sonor SQ2 kit with thin maple shells (22"x17" bass drum, 10"/12" rack toms, 14"/16" floor toms), Sonor Gavin Harrison Signature snares (14"x5.25" brass primary, 12"x5" Protean), and Zildjian K Custom Special Dry cymbals developed in direct collaboration with him, anchored by a 21" Special Dry Ride, plus Vic Firth signature sticks. Greiner plays a Pearl Reference Pure kit with dual 22"x18" bass drums, a Pearl Matt Greiner Signature snare, and Meinl Byzance cymbals (18"/19" Extra Dry Medium crashes, 21" Transition Ride), driven by a Pearl Demon Drive double pedal and Vic Firth Matt Greiner signature sticks.
 
 **Q: What drums does Gavin Harrison play vs Matt Greiner?**
-A: Gavin Harrison plays Sonor SQ2 Series. Matt Greiner plays Meinl Drum Festival Kit / Greiner & Kilmer Custom.
+A: Gavin Harrison plays Sonor SQ2 Series. Matt Greiner plays Mapex Black Panther Design Lab.
 
 **Q: Who is the better progressive metal drummer, Gavin Harrison or Matt Greiner?**
 A: Both are legends in their own right. Gavin Harrison and Matt Greiner occupy different corners of progressive-leaning metal, but both reject the idea that technical drumming has to mean constant aggression. See the full analysis at [metalforge.io/vs/gavin-harrison-vs-matt-greiner](https://metalforge.io/vs/gavin-harrison-vs-matt-greiner).
 
 **Q: What cymbals do Gavin Harrison and Matt Greiner use?**
-A: Gavin Harrison uses Zildjian K Custom Special Dry Series (14" Hi-Hats, 16" & 18" Crashes, 21" Special Dry Ride, 18" Trash China). Matt Greiner uses Meinl Byzance Series (15" Dual Hi-Hats, 18" & 19" Dual Crashes, 21" Transition Ride, 18" Extra Dry China, 10" & 12" Splashes).
+A: Gavin Harrison uses Zildjian K Custom Special Dry Series (14" Hi-Hats, 16" & 18" Crashes, 21" Special Dry Ride, 18" Trash China). Matt Greiner uses Paiste Formula 602 (14" Hi-Hats, 16"/17"/18" Crashes, 22" Ride, 18" China, 10" Splash).
 
 ---
 
@@ -67,4 +67,4 @@ A: Gavin Harrison uses Zildjian K Custom Special Dry Series (14" Hi-Hats, 16" & 
 
 ---
 
-*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

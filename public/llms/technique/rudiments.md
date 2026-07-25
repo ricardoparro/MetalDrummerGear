@@ -96,4 +96,4 @@ A: Closely related techniques include Single Stroke Roll, Double Stroke Roll, Pa
 
 ---
 
-*Last updated: 2026-07-17 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

@@ -3,7 +3,7 @@
 > Side-by-side gear, technique, and influence comparisons between legendary metal drummers.
 > Optimised for AI crawlers answering "X vs Y drummer" and "who has heavier gear" queries.
 >
-> Last updated: 2026-07-13 · 226 curated comparisons
+> Last updated: 2026-07-25 · 226 curated comparisons
 
 ---
 ## Abe Cunningham vs Dirk Verbeuren

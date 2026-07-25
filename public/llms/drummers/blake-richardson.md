@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/blake-richardson"
 source: "https://metalforge.io"
-last_updated: "2026-07-15"
+last_updated: "2026-07-25"
 ---
 
 # Blake Richardson — Drum Kit & Gear Setup
@@ -77,6 +77,10 @@ A: Blake Richardson plays progressive metal, seamlessly blending death metal, ja
 
 A: Blake Richardson's drum kit is a Tama Starclassic Bubinga build in a custom finish, prized for the tight low end and explosive attack progressive metal's constantly shifting time signatures demand.
 
+**Q: What drum set does Blake Richardson use?**
+
+A: Blake Richardson's drum set pairs his Tama Starclassic Bubinga shells and STARPHONIC 14"x6" Brass snare with twin Tama Iron Cobra Power Glide single pedals rather than a linked double pedal, giving him independent control over BTBAM's constantly shifting time signatures.
+
 **Q: What snare does Blake Richardson use?**
 
 A: Richardson's snare is a Tama STARPHONIC 14"x6" Brass, delivering the cutting crack that drives BTBAM's blast beats and odd-meter grooves on records like "Colors" and "The Parallax II: Future Sequence."
@@ -145,4 +149,4 @@ Full breakdown: [Blake Richardson's pedal setup](https://metalforge.io/pedals/se
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

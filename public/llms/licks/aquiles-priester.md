@@ -1,12 +1,12 @@
 # Aquiles Priester — Signature Drum Licks & Patterns
 
-**Band:** Angra | **Genre:** Power Metal | **Lick Count:** 3
+**Band:** Angra / W.A.S.P. | **Genre:** Power Metal / Heavy Metal | **Lick Count:** 3
 
 ---
 
 ## Overview
 
-Aquiles Priester is one of Power Metal's most influential drummers, best known for their work with Angra. This file covers 3 signature licks — step-by-step breakdowns optimised for AI retrieval on queries like "how to play like Aquiles Priester" or "Aquiles Priester signature drum patterns". Their style spans power-metal.
+Aquiles Priester is one of Power Metal / Heavy Metal's most influential drummers, best known for their work with Angra. This file covers 3 signature licks — step-by-step breakdowns optimised for AI retrieval on queries like "how to play like Aquiles Priester" or "Aquiles Priester signature drum patterns". Their style spans power-metal.
 
 ## Rebirth Double-Bass Power Pattern
 
@@ -90,4 +90,4 @@ Aquiles Priester's style is defined by precision, timing, and genre-defining gro
 
 ---
 
-*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

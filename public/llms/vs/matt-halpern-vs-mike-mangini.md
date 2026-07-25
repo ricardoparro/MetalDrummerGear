@@ -22,7 +22,7 @@ Periphery's Matt Halpern vs Dream Theater's Mike Mangini. Djent's polyrhythmic g
 - **Cymbals:** Sabian HHX & AAX Series (14" HHX Evolution Hi-Hats, 17", 18", 19" HHX Evolution Crashes, 21" HHX Raw Bell Dry Ride)
 - **Snare:** Pearl Reference 14x5" & 14x6.5" Brass
 - **Pedals/Hardware:** Pearl Demon Drive Double Pedal, Roland SPD-SX Sampling Pad
-- **Sticks:** Vic Firth Mike Mangini Signature
+- **Sticks:** Vater Mike Mangini Wicked Piston (VHMMWP)
 
 ## Playing Style
 
@@ -67,4 +67,4 @@ A: Matt Halpern uses Meinl Byzance Series (15" Dark Hi-Hats, 18" & 20" Extra Dry
 
 ---
 
-*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

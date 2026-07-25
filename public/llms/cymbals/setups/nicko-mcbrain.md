@@ -41,4 +41,4 @@ A: Nicko McBrain plays Paiste cymbals: 14" 2002 & Signature Sound Edge Hi-Hats, 
 
 ---
 
-*Last updated: 2026-07-13 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

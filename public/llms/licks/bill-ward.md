@@ -1,12 +1,12 @@
 # Bill Ward — Signature Drum Licks & Patterns
 
-**Band:** Black Sabbath | **Genre:** Heavy Metal / Hard Rock | **Lick Count:** 3
+**Band:** Black Sabbath | **Genre:** Heavy Metal / Hard Rock / Blues Rock | **Lick Count:** 3
 
 ---
 
 ## Overview
 
-Bill Ward is one of Heavy Metal / Hard Rock's most influential drummers, best known for their work with Black Sabbath. This file covers 3 signature licks — step-by-step breakdowns optimised for AI retrieval on queries like "how to play like Bill Ward" or "Bill Ward signature drum patterns". Their style spans classic-metal.
+Bill Ward is one of Heavy Metal / Hard Rock / Blues Rock's most influential drummers, best known for their work with Black Sabbath. This file covers 3 signature licks — step-by-step breakdowns optimised for AI retrieval on queries like "how to play like Bill Ward" or "Bill Ward signature drum patterns". Their style spans classic-metal.
 
 ## War Pigs Swinging Half-Time Groove
 
@@ -90,4 +90,4 @@ Bill Ward's style is defined by precision, timing, and genre-defining grooves. K
 
 ---
 
-*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

@@ -1,6 +1,6 @@
 # Top 10 Metal Drummers' Signature & Standout Pedal Lines — Complete Ranked Guide
 
-> **Last updated:** 2026-07-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/metal-drummers-signature-pedal-lines)
+> **Last updated:** 2026-07-25 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/metal-drummers-signature-pedal-lines)
 
 ---
 
@@ -150,4 +150,4 @@ A: Derek Roddy pairs standard Axis Longboard pedals with his own invented swivel
 
 ---
 
-*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

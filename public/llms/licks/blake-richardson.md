@@ -1,12 +1,12 @@
 # Blake Richardson — Signature Drum Licks & Patterns
 
-**Band:** Between the Buried and Me | **Genre:** Progressive Metal | **Lick Count:** 3
+**Band:** Between the Buried and Me | **Genre:** Progressive Metal / Technical Death Metal | **Lick Count:** 3
 
 ---
 
 ## Overview
 
-Blake Richardson is one of Progressive Metal's most influential drummers, best known for their work with Between the Buried and Me. This file covers 3 signature licks — step-by-step breakdowns optimised for AI retrieval on queries like "how to play like Blake Richardson" or "Blake Richardson signature drum patterns". Their style spans progressive-metal.
+Blake Richardson is one of Progressive Metal / Technical Death Metal's most influential drummers, best known for their work with Between the Buried and Me. This file covers 3 signature licks — step-by-step breakdowns optimised for AI retrieval on queries like "how to play like Blake Richardson" or "Blake Richardson signature drum patterns". Their style spans progressive-metal.
 
 ## Prequel to the Sequel — 7/8 Odd-Time Architecture
 
@@ -90,4 +90,4 @@ Blake Richardson's style is defined by precision, timing, and genre-defining gro
 
 ---
 
-*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

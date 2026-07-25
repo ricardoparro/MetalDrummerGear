@@ -6,7 +6,7 @@ country: "France"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/mario-duplantier"
 source: "https://metalforge.io"
-last_updated: "2026-07-14"
+last_updated: "2026-07-25"
 ---
 
 # Mario Duplantier — Drum Kit & Gear Setup
@@ -81,6 +81,26 @@ A: Mario was born in Ondres, France and grew up in the Basque region.
 
 A: "Flying Whales" features some of Mario's most recognized and celebrated drum work.
 
+**Q: What drum set does Mario Duplantier use?**
+
+A: Mario Duplantier's drum set is a Tama Starclassic Bubinga configuration with dual 22"x18" bass drums, chosen for both visual impact and tonal weight rather than a single kick with double pedal. It's built around a Tama S.L.P. 14"x6.5" G-Maple snare and Zildjian cymbals, played from a Tama 1st Chair Ergo-Rider throne.
+
+**Q: What drum kit does Mario Duplantier use?**
+
+A: Mario Duplantier's drum kit is a Tama Starclassic Bubinga setup with dual 22"x18" bass drums and a Tama S.L.P. 14"x6.5" G-Maple snare, driven by a Tama Iron Cobra 900 Power Glide double pedal. Zildjian cymbals and Remo heads complete the kit he uses across Gojira's catalog.
+
+**Q: What cymbals does Mario Duplantier use?**
+
+A: Mario Duplantier uses Zildjian cymbals: 14" K Sweet Hi-Hats, various K Custom and A Custom crashes, and a 21" Z Custom Mega Bell Ride.
+
+**Q: What snare drum does Mario Duplantier use?**
+
+A: Mario Duplantier plays a Tama S.L.P. 14"x6.5" G-Maple snare drum.
+
+**Q: What pedals does Mario Duplantier use?**
+
+A: Mario Duplantier drives his dual-bass-drum setup with a Tama Iron Cobra 900 Power Glide double pedal.
+
 ## Quotes
 
 > "The most important thing for me is to serve the song. Everything I play has to enhance the music, not show off."
@@ -141,4 +161,4 @@ Full breakdown: [Mario Duplantier's pedal setup](https://metalforge.io/pedals/se
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

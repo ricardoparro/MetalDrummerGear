@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "SJC"
 profile_url: "https://metalforge.io/drummer/travis-orbin"
 source: "https://metalforge.io"
-last_updated: "2026-07-14"
+last_updated: "2026-07-25"
 ---
 
 # Travis Orbin — Drum Kit & Gear Setup
@@ -94,6 +94,10 @@ A: Travis Orbin uses Evans drumheads across his SJC Custom kit.
 
 A: Travis Orbin was the founding studio drummer for Periphery (2009-2012) and has drummed for Darkest Hour (2013-2015) and Sky Harbor (since 2012).
 
+**Q: What hi-hats does Travis Orbin use?**
+
+A: Travis Orbin plays 14" Zildjian K Custom Dark Hi-Hats, part of the K Custom cymbal setup behind his genre-defining work on Periphery's self-titled debut (2010).
+
 ## Signature Licks on MetalForge
 
 MetalForge has 6 signature lick tutorial(s) for Travis Orbin:
@@ -137,4 +141,4 @@ Full breakdown: [Travis Orbin's pedal setup](https://metalforge.io/pedals/setups
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

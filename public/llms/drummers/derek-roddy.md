@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/derek-roddy"
 source: "https://metalforge.io"
-last_updated: "2026-07-14"
+last_updated: "2026-07-25"
 ---
 
 # Derek Roddy — Drum Kit & Gear Setup
@@ -98,6 +98,10 @@ A: Derek Roddy uses Evans drumheads.
 
 A: Derek Roddy has drummed for Hate Eternal (2000-2002, 2004-2005), Nile (2000-2002), and Malevolent Creation (1996-1999).
 
+**Q: What hi-hats does Derek Roddy use?**
+
+A: Derek Roddy plays 14" Meinl Byzance Heavy Hi-Hats, chosen for the cutting articulation needed to keep pace with his sustained one-footed blast beat technique.
+
 ## Quotes
 
 > "Speed means nothing without control and musicality. Anyone can play fast, but can you play music?"
@@ -151,4 +155,4 @@ Full breakdown: [Derek Roddy's pedal setup](https://metalforge.io/pedals/setups/
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

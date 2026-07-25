@@ -1,12 +1,12 @@
 # Ben Koller — Signature Drum Licks & Patterns
 
-**Band:** Converge | **Genre:** Metalcore / Hardcore | **Lick Count:** 3
+**Band:** Converge / Mutoid Man / Killer Be Killed | **Genre:** Metalcore / Hardcore Punk / Grindcore | **Lick Count:** 3
 
 ---
 
 ## Overview
 
-Ben Koller is one of Metalcore / Hardcore's most influential drummers, best known for their work with Converge. This file covers 3 signature licks — step-by-step breakdowns optimised for AI retrieval on queries like "how to play like Ben Koller" or "Ben Koller signature drum patterns". Their style spans mathcore.
+Ben Koller is one of Metalcore / Hardcore Punk / Grindcore's most influential drummers, best known for their work with Converge. This file covers 3 signature licks — step-by-step breakdowns optimised for AI retrieval on queries like "how to play like Ben Koller" or "Ben Koller signature drum patterns". Their style spans mathcore.
 
 ## Concubine Grind Assault
 
@@ -90,4 +90,4 @@ Ben Koller's style is defined by precision, timing, and genre-defining grooves. 
 
 ---
 
-*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

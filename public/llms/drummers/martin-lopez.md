@@ -6,7 +6,7 @@ country: "Sweden"
 primary_brand: "Noble"
 profile_url: "https://metalforge.io/drummer/martin-lopez"
 source: "https://metalforge.io"
-last_updated: "2026-07-14"
+last_updated: "2026-07-25"
 ---
 
 # Martin Lopez — Drum Kit & Gear Setup
@@ -97,6 +97,10 @@ A: Martin Lopez plays an Axis Percussion double pedal, seated on a DW 9100 thron
 
 A: Martin Lopez plays Vic Firth American Classic 5A drumsticks.
 
+**Q: What drumheads does Martin Lopez use?**
+
+A: Martin Lopez uses Remo drumheads across his Noble & Cooley Walnut drum kit, favoring the warm, musical tone that suits Soen's dynamic shifts between delicate and heavy passages.
+
 ## Quotes
 
 > "Less is more. The spaces between the notes are just as important as the notes themselves."
@@ -150,4 +154,4 @@ Full breakdown: [Martin Lopez's pedal setup](https://metalforge.io/pedals/setups
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

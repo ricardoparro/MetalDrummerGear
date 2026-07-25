@@ -6,7 +6,7 @@ country: "Canada"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/flo-mounier"
 source: "https://metalforge.io"
-last_updated: "2026-07-14"
+last_updated: "2026-07-25"
 ---
 
 # Flo Mounier — Drum Kit & Gear Setup
@@ -93,6 +93,10 @@ A: Flo Mounier uses Vic Firth American Classic 5A drumsticks.
 
 A: Flo Mounier uses Evans drumheads across his Pearl Masters Maple Complete kit.
 
+**Q: What hi-hats does Flo Mounier use?**
+
+A: Flo Mounier plays 14" Sabian HHX Stage Hi-Hats, chosen for the rapid response his gravity blast technique demands on tracks like Cryptopsy's "Phobophile."
+
 ## Quotes
 
 > "Speed means nothing without control. I practice slow to play fast."
@@ -146,4 +150,4 @@ Full breakdown: [Flo Mounier's pedal setup](https://metalforge.io/pedals/setups/
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

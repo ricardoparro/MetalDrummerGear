@@ -6,7 +6,7 @@ country: "Brazil"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/eloy-casagrande"
 source: "https://metalforge.io"
-last_updated: "2026-07-14"
+last_updated: "2026-07-25"
 ---
 
 # Eloy Casagrande — Drum Kit & Gear Setup
@@ -83,6 +83,26 @@ A: Eloy was born on August 25, 1991, in São Paulo, Brazil.
 
 A: Eloy was named #1 metal drummer in the Modern Drummer 2024 Readers' Poll.
 
+**Q: What drum set does Eloy Casagrande use?**
+
+A: Eloy Casagrande's drum set is a Tama Starclassic Bubinga configuration with dual bass drums — a 22"x16" and a 24"x14" — rather than a single kick with double pedal. It's paired with a Tama Bell Brass 14"x5.5" (BB146) snare, Paiste cymbals, and Yamaha DTX electronic pads for Slipknot's hybrid electronic-acoustic sound.
+
+**Q: What drum kit does Eloy Casagrande use?**
+
+A: Eloy Casagrande's drum kit centers on Tama Starclassic Bubinga shells with dual 22"x16" and 24"x14" bass drums, a Tama Bell Brass 14"x5.5" snare, and a Tama Iron Cobra double pedal. Paiste cymbals and Yamaha DTX electronic pads round out the setup he uses across both Sepultura and Slipknot material.
+
+**Q: What cymbals does Eloy Casagrande use?**
+
+A: Eloy Casagrande uses Paiste cymbals: 15" Masters Dark Hi-Hats, 602 and 2002 series crashes, and a Paiste Masters Dark Ride.
+
+**Q: What snare drum does Eloy Casagrande use?**
+
+A: Eloy Casagrande plays a Tama Bell Brass 14"x5.5" snare (model BB146), chosen for its bright, cutting crack on Slipknot and Sepultura's dense guitar arrangements.
+
+**Q: What pedals does Eloy Casagrande use?**
+
+A: Eloy Casagrande drives his dual-bass-drum setup with a Tama Iron Cobra double pedal.
+
 ## Signature Licks on MetalForge
 
 MetalForge has 3 signature lick tutorial(s) for Eloy Casagrande:
@@ -127,4 +147,4 @@ Full breakdown: [Eloy Casagrande's pedal setup](https://metalforge.io/pedals/set
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

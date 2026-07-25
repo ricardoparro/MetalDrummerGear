@@ -6,7 +6,7 @@ country: "Poland"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/daray"
 source: "https://metalforge.io"
-last_updated: "2026-07-14"
+last_updated: "2026-07-25"
 ---
 
 # Daray — Drum Kit & Gear Setup
@@ -93,6 +93,10 @@ A: Daray uses Evans drumheads across his Pearl Masterworks kit.
 
 A: Daray (Dariusz Brzozowski) has drummed for Dimmu Borgir since 2008 and previously drummed for Vader (2006-2016) and Vesania (since 2003).
 
+**Q: Does Daray use trigger-assisted drums?**
+
+A: Daray uses trigger-assisted drums live to maintain consistency at the extreme tempos Dimmu Borgir's symphonic productions demand, and relies on in-ear monitoring to stay synchronized with orchestral arrangements during performances.
+
 ## Gear Evolution Timeline
 
 Daray's complete drum gear evolution — from the undocumented Vader years (2004–2008) through the Pearl Masterworks Stadium Exotic / Paiste RUDE rig behind Dimmu Borgir's "Abrahadabra" (2010), "Eonian" (2018), and 2026's "Grand Serpent Rising" — is tracked era-by-era: [Daray Gear Evolution Timeline](https://metalforge.io/drummers/daray/evolution) ([markdown version](/llms/evolution/daray.md)).
@@ -136,4 +140,4 @@ Full breakdown: [Daray's pedal setup](https://metalforge.io/pedals/setups/daray)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

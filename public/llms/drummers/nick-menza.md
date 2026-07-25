@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/nick-menza"
 source: "https://metalforge.io"
-last_updated: "2026-07-14"
+last_updated: "2026-07-25"
 ---
 
 # Nick Menza — Drum Kit & Gear Setup
@@ -79,6 +79,22 @@ A: Nick Menza joined Megadeth in 1989, initially working as a drum technician be
 
 A: Nick Menza was born on July 23, 1964, and would have turned 62 on July 23, 2026.
 
+**Q: What drum set did Nick Menza use?**
+
+A: Nick Menza's Rust in Peace-era drum set was a Tama Swingstar 5-piece kit with poplar shells (22"x16" kick, 12"x10"/13"x11" racks, 16"x16" floor) and a Tama Steel 14"x5.5" 8-lug snare — a mid-range, working drummer's kit rather than a prestige endorsement. He upgraded to Pearl Masters for Countdown to Extinction (1992), Pearl Masterworks for Youthanasia (1994), and Pearl Reference Custom for Cryptic Writings (1997).
+
+**Q: What cymbals did Nick Menza use?**
+
+A: Nick Menza used Zildjian A Series cymbals on Rust in Peace: 14" hi-hats, 16" and 18" crashes, and a 20" ride.
+
+**Q: What snare drum did Nick Menza use?**
+
+A: Nick Menza played a Tama Steel 14"x5.5" 8-lug snare during the Rust in Peace era, tuned tight for the sharp, high-pitched rimshot crack that punched through Megadeth's layered guitar attack.
+
+**Q: What bass drum pedal did Nick Menza use?**
+
+A: Nick Menza drove his surgical double-bass patterns with a DW 5000 double pedal, maintaining clean, articulate kick work at 180-200 BPM.
+
 ## Signature Licks on MetalForge
 
 MetalForge has 6 signature lick tutorial(s) for Nick Menza:
@@ -121,4 +137,4 @@ Full breakdown: [Nick Menza's pedal setup](https://metalforge.io/pedals/setups/n
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

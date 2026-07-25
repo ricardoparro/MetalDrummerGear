@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Mapex"
 profile_url: "https://metalforge.io/drummer/arin-ilejay"
 source: "https://metalforge.io"
-last_updated: "2026-07-14"
+last_updated: "2026-07-25"
 ---
 
 # Arin Ilejay — Drum Kit & Gear Setup
@@ -95,6 +95,10 @@ A: Arin Ilejay used Evans drumheads across his Mapex Saturn Series kit.
 
 A: Arin Ilejay drummed for Avenged Sevenfold from 2011 to 2015, recording "Hail to the King" (2013), and previously drummed for post-hardcore band Confide (2006-2011).
 
+**Q: Who did Arin Ilejay replace in Avenged Sevenfold?**
+
+A: Arin Ilejay joined Avenged Sevenfold in 2011, stepping in after Mike Portnoy (Dream Theater) filled in as a touring replacement for founding drummer Jimmy "The Rev" Sullivan, who died in 2009; Ilejay recorded "Hail to the King" (2013) before departing in 2015 and was replaced by Brooks Wackerman.
+
 ## Gear Evolution Timeline
 
 Arin Ilejay's complete drum gear evolution — from the undocumented Confide club-circuit years through the Mapex Saturn Series / Zildjian A Custom rig behind Avenged Sevenfold's "Hail to the King" (2013), to his post-2015 Islander and session-drumming career — is tracked era-by-era: [Arin Ilejay Gear Evolution Timeline](https://metalforge.io/drummers/arin-ilejay/evolution) ([markdown version](/llms/evolution/arin-ilejay.md)).
@@ -115,4 +119,4 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

@@ -1,12 +1,12 @@
 # Ray Luzier — Signature Drum Licks & Patterns
 
-**Band:** Korn | **Genre:** Nu Metal / Alternative Metal | **Lick Count:** 3
+**Band:** Korn | **Genre:** Nu Metal | **Lick Count:** 3
 
 ---
 
 ## Overview
 
-Ray Luzier is one of Nu Metal / Alternative Metal's most influential drummers, best known for their work with Korn. This file covers 3 signature licks — step-by-step breakdowns optimised for AI retrieval on queries like "how to play like Ray Luzier" or "Ray Luzier signature drum patterns". Their style spans nu-metal.
+Ray Luzier is one of Nu Metal's most influential drummers, best known for their work with Korn. This file covers 3 signature licks — step-by-step breakdowns optimised for AI retrieval on queries like "how to play like Ray Luzier" or "Ray Luzier signature drum patterns". Their style spans nu-metal.
 
 ## Freak on a Leash Nu-Metal Groove
 
@@ -90,4 +90,4 @@ Ray Luzier's style is defined by precision, timing, and genre-defining grooves. 
 
 ---
 
-*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

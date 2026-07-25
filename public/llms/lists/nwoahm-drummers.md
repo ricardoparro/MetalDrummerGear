@@ -1,6 +1,6 @@
 # Top 10 NWOAHM Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-07-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/nwoahm-drummers)
+> **Last updated:** 2026-07-25 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/nwoahm-drummers)
 
 ---
 
@@ -144,4 +144,4 @@ A: NWOAHM drumming leans more heavily on thrash metal speed and groove metal wei
 
 ---
 
-*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

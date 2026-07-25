@@ -2467,11 +2467,14 @@ export function getMetaForPath(pathname) {
           about: (() => {
             const entities = [];
             if (album.relatedDrummerSlug) {
+              const relatedDrummer = getDrummerBySlug(album.relatedDrummerSlug);
               entities.push({
                 '@type': 'Person',
                 name: album.drummer || album.relatedDrummerSlug,
                 url: `${BASE_URL}/drummer/${album.relatedDrummerSlug}`,
-                sameAs: `https://en.wikipedia.org/wiki/${encodeURIComponent((album.drummer || '').replace(/ /g, '_'))}`,
+                sameAs: relatedDrummer?.sameAs?.length > 0
+                  ? relatedDrummer.sameAs
+                  : [`https://en.wikipedia.org/wiki/${encodeURIComponent((album.drummer || '').replace(/ /g, '_'))}`],
               });
             }
             if (album.albumTitle) {

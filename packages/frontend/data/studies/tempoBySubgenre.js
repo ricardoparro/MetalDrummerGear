@@ -1,6 +1,6 @@
 /**
  * Tempo by Subgenre study — average/median/max BPM per subgenre across the
- * 150-song curated database, tempo-range distribution, and the
+ * 254-song curated database, tempo-range distribution, and the
  * 200+ BPM "hall of speed."
  *
  * GENERATED FILE — do not edit by hand.
@@ -11,74 +11,90 @@
  * audio analysis (see its own header comment). The songs epic's verified-BPM
  * phase (issue #4759) has not merged as of this snapshot (bpmVerified: false
  * below); once it has, re-run this script and flip SONGS_BPM_VERIFIED in
- * scripts/compute-studies.cjs. Dataset snapshot date: 2026-07-16.
+ * scripts/compute-studies.cjs. Dataset snapshot date: 2026-07-25.
  *
  * Consumed by: /studies/metal-tempo-by-subgenre (packages/frontend/pages) and
  * the bot-facing SSR handler (api/meta/[...path].js).
  */
 
 export const TEMPO_BY_SUBGENRE = {
-  "generatedAt": "2026-07-16",
-  "totalSongs": 150,
+  "generatedAt": "2026-07-25",
+  "totalSongs": 254,
   "bpmVerified": false,
   "overall": {
-    "avgBpm": 132.5,
-    "medianBpm": 127.5,
+    "avgBpm": 141.1,
+    "medianBpm": 140,
     "minBpm": 55,
-    "maxBpm": 245,
+    "maxBpm": 271,
     "tempoDistribution": {
-      "slow": 14,
-      "mid": 64,
-      "fast": 48,
-      "extreme": 24,
-      "blast": 0
+      "slow": 18,
+      "mid": 84,
+      "fast": 94,
+      "extreme": 55,
+      "blast": 3
     }
   },
   "genres": [
     {
       "genre": "thrash-metal",
       "label": "Thrash Metal",
-      "songCount": 22,
-      "avgBpm": 164.9,
-      "medianBpm": 170,
+      "songCount": 37,
+      "avgBpm": 166.9,
+      "medianBpm": 175,
       "minBpm": 80,
       "maxBpm": 230,
       "tempoDistribution": {
-        "slow": 1,
-        "mid": 5,
-        "fast": 5,
-        "extreme": 11,
+        "slow": 2,
+        "mid": 6,
+        "fast": 9,
+        "extreme": 20,
         "blast": 0
       }
     },
     {
       "genre": "heavy-metal",
       "label": "Heavy Metal",
-      "songCount": 20,
-      "avgBpm": 129.9,
-      "medianBpm": 125.5,
+      "songCount": 32,
+      "avgBpm": 131.5,
+      "medianBpm": 130,
       "minBpm": 76,
-      "maxBpm": 180,
+      "maxBpm": 210,
       "tempoDistribution": {
         "slow": 2,
-        "mid": 9,
-        "fast": 6,
+        "mid": 13,
+        "fast": 14,
         "extreme": 3,
         "blast": 0
       }
     },
     {
+      "genre": "death-metal",
+      "label": "Death Metal",
+      "songCount": 27,
+      "avgBpm": 176.9,
+      "medianBpm": 165,
+      "minBpm": 90,
+      "maxBpm": 271,
+      "tempoDistribution": {
+        "slow": 0,
+        "mid": 4,
+        "fast": 10,
+        "extreme": 10,
+        "blast": 3
+      }
+    },
+    {
       "genre": "groove-metal",
       "label": "Groove Metal",
-      "songCount": 16,
-      "avgBpm": 117.9,
-      "medianBpm": 119,
-      "minBpm": 82,
+      "songCount": 25,
+      "avgBpm": 117.8,
+      "medianBpm": 120,
+      "minBpm": 76,
       "maxBpm": 148,
       "tempoDistribution": {
-        "slow": 1,
-        "mid": 11,
-        "fast": 4,
+        "slow": 2,
+        "mid": 14,
+        "fast": 9,
         "extreme": 0,
         "blast": 0
       }
@@ -86,15 +102,15 @@ export const TEMPO_BY_SUBGENRE = {
     {
       "genre": "progressive-metal",
       "label": "Progressive Metal",
-      "songCount": 16,
-      "avgBpm": 121.3,
-      "medianBpm": 117.5,
+      "songCount": 25,
+      "avgBpm": 127.2,
+      "medianBpm": 128,
       "minBpm": 91,
       "maxBpm": 170,
       "tempoDistribution": {
         "slow": 0,
-        "mid": 10,
-        "fast": 5,
+        "mid": 13,
+        "fast": 11,
         "extreme": 1,
         "blast": 0
       }
@@ -102,127 +118,111 @@ export const TEMPO_BY_SUBGENRE = {
     {
       "genre": "nu-metal",
       "label": "Nu Metal",
-      "songCount": 15,
-      "avgBpm": 123.3,
-      "medianBpm": 127,
+      "songCount": 22,
+      "avgBpm": 121.8,
+      "medianBpm": 123.5,
       "minBpm": 75,
       "maxBpm": 165,
       "tempoDistribution": {
         "slow": 1,
-        "mid": 8,
-        "fast": 6,
+        "mid": 12,
+        "fast": 9,
         "extreme": 0,
-        "blast": 0
-      }
-    },
-    {
-      "genre": "death-metal",
-      "label": "Death Metal",
-      "songCount": 14,
-      "avgBpm": 163.5,
-      "medianBpm": 152,
-      "minBpm": 95,
-      "maxBpm": 245,
-      "tempoDistribution": {
-        "slow": 0,
-        "mid": 3,
-        "fast": 6,
-        "extreme": 5,
         "blast": 0
       }
     },
     {
       "genre": "metalcore",
       "label": "Metalcore",
-      "songCount": 11,
-      "avgBpm": 135.6,
-      "medianBpm": 132,
+      "songCount": 20,
+      "avgBpm": 147.8,
+      "medianBpm": 147.5,
       "minBpm": 95,
-      "maxBpm": 165,
+      "maxBpm": 190,
       "tempoDistribution": {
         "slow": 0,
         "mid": 4,
-        "fast": 7,
-        "extreme": 0,
+        "fast": 12,
+        "extreme": 4,
         "blast": 0
       }
     },
     {
       "genre": "djent",
       "label": "Djent",
-      "songCount": 9,
-      "avgBpm": 111.9,
-      "medianBpm": 115,
+      "songCount": 13,
+      "avgBpm": 126.7,
+      "medianBpm": 132,
       "minBpm": 78,
-      "maxBpm": 140,
+      "maxBpm": 175,
       "tempoDistribution": {
         "slow": 1,
         "mid": 5,
-        "fast": 3,
-        "extreme": 0,
+        "fast": 5,
+        "extreme": 2,
         "blast": 0
       }
     },
     {
       "genre": "progressive-death-metal",
       "label": "Progressive Death Metal",
-      "songCount": 6,
-      "avgBpm": 105.5,
-      "medianBpm": 92.5,
+      "songCount": 9,
+      "avgBpm": 117,
+      "medianBpm": 100,
       "minBpm": 75,
-      "maxBpm": 150,
+      "maxBpm": 175,
       "tempoDistribution": {
         "slow": 3,
-        "mid": 1,
-        "fast": 2,
-        "extreme": 0,
-        "blast": 0
-      }
-    },
-    {
-      "genre": "doom-metal",
-      "label": "Doom Metal",
-      "songCount": 5,
-      "avgBpm": 59.4,
-      "medianBpm": 60,
-      "minBpm": 55,
-      "maxBpm": 65,
-      "tempoDistribution": {
-        "slow": 5,
-        "mid": 0,
-        "fast": 0,
-        "extreme": 0,
+        "mid": 2,
+        "fast": 3,
+        "extreme": 1,
         "blast": 0
       }
     },
     {
       "genre": "black-metal",
       "label": "Black Metal",
-      "songCount": 4,
-      "avgBpm": 178.8,
-      "medianBpm": 182.5,
-      "minBpm": 150,
+      "songCount": 8,
+      "avgBpm": 169.4,
+      "medianBpm": 177.5,
+      "minBpm": 116,
       "maxBpm": 200,
       "tempoDistribution": {
         "slow": 0,
+        "mid": 1,
+        "fast": 2,
+        "extreme": 5,
+        "blast": 0
+      }
+    },
+    {
+      "genre": "doom-metal",
+      "label": "Doom Metal",
+      "songCount": 7,
+      "avgBpm": 60.3,
+      "medianBpm": 60,
+      "minBpm": 55,
+      "maxBpm": 65,
+      "tempoDistribution": {
+        "slow": 7,
         "mid": 0,
-        "fast": 1,
-        "extreme": 3,
+        "fast": 0,
+        "extreme": 0,
         "blast": 0
       }
     },
     {
       "genre": "alternative-metal",
       "label": "Alternative Metal",
-      "songCount": 3,
-      "avgBpm": 101,
-      "medianBpm": 98,
+      "songCount": 5,
+      "avgBpm": 107.6,
+      "medianBpm": 105,
       "minBpm": 95,
-      "maxBpm": 110,
+      "maxBpm": 130,
       "tempoDistribution": {
         "slow": 0,
-        "mid": 3,
-        "fast": 0,
+        "mid": 4,
+        "fast": 1,
         "extreme": 0,
         "blast": 0
       }
@@ -230,32 +230,80 @@ export const TEMPO_BY_SUBGENRE = {
     {
       "genre": "blackened-death-metal",
       "label": "Blackened Death Metal",
-      "songCount": 3,
-      "avgBpm": 150,
+      "songCount": 5,
+      "avgBpm": 153,
       "medianBpm": 160,
       "minBpm": 115,
       "maxBpm": 175,
       "tempoDistribution": {
         "slow": 0,
         "mid": 1,
-        "fast": 1,
+        "fast": 3,
         "extreme": 1,
+        "blast": 0
+      }
+    },
+    {
+      "genre": "melodic-death-metal",
+      "label": "Melodic Death Metal",
+      "songCount": 5,
+      "avgBpm": 187.8,
+      "medianBpm": 192,
+      "minBpm": 149,
+      "maxBpm": 250,
+      "tempoDistribution": {
+        "slow": 0,
+        "mid": 0,
+        "fast": 2,
+        "extreme": 3,
         "blast": 0
       }
     },
     {
       "genre": "deathcore",
       "label": "Deathcore",
-      "songCount": 2,
-      "avgBpm": 117.5,
-      "medianBpm": 117.5,
+      "songCount": 3,
+      "avgBpm": 121.7,
+      "medianBpm": 125,
       "minBpm": 110,
-      "maxBpm": 125,
+      "maxBpm": 130,
       "tempoDistribution": {
         "slow": 0,
         "mid": 2,
-        "fast": 0,
+        "fast": 1,
         "extreme": 0,
+        "blast": 0
+      }
+    },
+    {
+      "genre": "symphonic-black-metal",
+      "label": "Symphonic Black Metal",
+      "songCount": 3,
+      "avgBpm": 165,
+      "medianBpm": 165,
+      "minBpm": 155,
+      "maxBpm": 175,
+      "tempoDistribution": {
+        "slow": 0,
+        "mid": 0,
+        "fast": 2,
+        "extreme": 1,
+        "blast": 0
+      }
+    },
+    {
+      "genre": "technical-death-metal",
+      "label": "Technical Death Metal",
+      "songCount": 3,
+      "avgBpm": 219.3,
+      "medianBpm": 218,
+      "minBpm": 210,
+      "maxBpm": 230,
+      "tempoDistribution": {
+        "slow": 0,
+        "mid": 0,
+        "fast": 0,
+        "extreme": 3,
         "blast": 0
       }
     },
@@ -276,23 +324,111 @@ export const TEMPO_BY_SUBGENRE = {
       }
     },
     {
-      "genre": "symphonic-black-metal",
-      "label": "Symphonic Black Metal",
-      "songCount": 2,
-      "avgBpm": 160,
-      "medianBpm": 160,
-      "minBpm": 155,
-      "maxBpm": 165,
+      "genre": "industrial-metal",
+      "label": "Industrial Metal",
+      "songCount": 1,
+      "avgBpm": 112,
+      "medianBpm": 112,
+      "minBpm": 112,
+      "maxBpm": 112,
+      "tempoDistribution": {
+        "slow": 0,
+        "mid": 1,
+        "fast": 0,
+        "extreme": 0,
+        "blast": 0
+      }
+    },
+    {
+      "genre": "mathcore",
+      "label": "Mathcore",
+      "songCount": 1,
+      "avgBpm": 168,
+      "medianBpm": 168,
+      "minBpm": 168,
+      "maxBpm": 168,
       "tempoDistribution": {
         "slow": 0,
         "mid": 0,
-        "fast": 2,
+        "fast": 1,
         "extreme": 0,
+        "blast": 0
+      }
+    },
+    {
+      "genre": "power-metal",
+      "label": "Power Metal",
+      "songCount": 1,
+      "avgBpm": 170,
+      "medianBpm": 170,
+      "minBpm": 170,
+      "maxBpm": 170,
+      "tempoDistribution": {
+        "slow": 0,
+        "mid": 0,
+        "fast": 0,
+        "extreme": 1,
         "blast": 0
       }
     }
   ],
   "hallOfSpeed": [
+    {
+      "id": 153,
+      "song": "Papyrus Containing the Spell to Preserve its Possessor Against Attacks From He Who is In the Water",
+      "band": "Nile",
+      "year": 2007,
+      "bpm": 271,
+      "genre": "death-metal",
+      "genreLabel": "Death Metal",
+      "drummer": {
+        "slug": "george-kollias",
+        "name": "George Kollias",
+        "inRoster": true
+      }
+    },
+    {
+      "id": 154,
+      "song": "I, Monarch",
+      "band": "Hate Eternal",
+      "year": 2005,
+      "bpm": 270,
+      "genre": "death-metal",
+      "genreLabel": "Death Metal",
+      "drummer": {
+        "slug": "derek-roddy",
+        "name": "Derek Roddy",
+        "inRoster": true
+      }
+    },
+    {
+      "id": 82,
+      "song": "Sacrifice Unto Sebek",
+      "band": "Nile",
+      "year": 2005,
+      "bpm": 265,
+      "genre": "death-metal",
+      "genreLabel": "Death Metal",
+      "drummer": {
+        "slug": "george-kollias",
+        "name": "George Kollias",
+        "inRoster": true
+      }
+    },
+    {
+      "id": 152,
+      "song": "Blinded by Fear",
+      "band": "At the Gates",
+      "year": 1995,
+      "bpm": 250,
+      "genre": "melodic-death-metal",
+      "genreLabel": "Melodic Death Metal",
+      "drummer": {
+        "slug": "adrian-erlandsson",
+        "name": "Adrian Erlandsson",
+        "inRoster": true
+      }
+    },
     {
       "id": 84,
       "song": "Kafir!",
@@ -322,6 +458,20 @@ export const TEMPO_BY_SUBGENRE = {
       }
     },
     {
+      "id": 156,
+      "song": "Septuagint",
+      "band": "Obscura",
+      "year": 2011,
+      "bpm": 230,
+      "genre": "technical-death-metal",
+      "genreLabel": "Technical Death Metal",
+      "drummer": {
+        "slug": "hannes-grossmann",
+        "name": "Hannes Grossmann",
+        "inRoster": true
+      }
+    },
+    {
       "id": 13,
       "song": "War Ensemble",
       "band": "Slayer",
@@ -336,31 +486,87 @@ export const TEMPO_BY_SUBGENRE = {
       }
     },
     {
+      "id": 151,
+      "song": "Divine Intervention",
+      "band": "Slayer",
+      "year": 1994,
+      "bpm": 220,
+      "genre": "thrash-metal",
+      "genreLabel": "Thrash Metal",
+      "drummer": {
+        "slug": "paul-bostaph",
+        "name": "Paul Bostaph",
+        "inRoster": true
+      }
+    },
+    {
+      "id": 184,
+      "song": "Dyers Eve",
+      "band": "Metallica",
+      "year": 1988,
+      "bpm": 220,
+      "genre": "thrash-metal",
+      "genreLabel": "Thrash Metal",
+      "drummer": {
+        "slug": "lars-ulrich",
+        "name": "Lars Ulrich",
+        "inRoster": true
+      }
+    },
+    {
+      "id": 170,
+      "song": "Liege of Inveracity",
+      "band": "Suffocation",
+      "year": 1991,
+      "bpm": 220,
+      "genre": "death-metal",
+      "genreLabel": "Death Metal",
+      "drummer": {
+        "slug": "mike-smith-suffocation",
+        "name": "Mike Smith Suffocation",
+        "inRoster": false
+      }
+    },
+    {
+      "id": 191,
+      "song": "Trapped Under Ice",
+      "band": "Metallica",
+      "year": 1984,
+      "bpm": 220,
+      "genre": "thrash-metal",
+      "genreLabel": "Thrash Metal",
+      "drummer": {
+        "slug": "lars-ulrich",
+        "name": "Lars Ulrich",
+        "inRoster": true
+      }
+    },
+    {
+      "id": 179,
+      "song": "Slit Your Guts",
+      "band": "Cryptopsy",
+      "year": 1996,
+      "bpm": 218,
+      "genre": "technical-death-metal",
+      "genreLabel": "Technical Death Metal",
+      "drummer": {
+        "slug": "flo-mounier",
+        "name": "Flo Mounier",
+        "inRoster": true
+      }
+    },
+    {
       "id": 9,
       "song": "Raining Blood",
       "band": "Slayer",
       "year": 1986,
-      "bpm": 225,
+      "bpm": 216,
       "genre": "thrash-metal",
       "genreLabel": "Thrash Metal",
       "drummer": {
         "slug": "dave-lombardo",
         "name": "Dave Lombardo",
         "inRoster": true
-      }
-    },
-    {
-      "id": 82,
-      "song": "Sacrifice Unto Sebek",
-      "band": "Nile",
-      "year": 2002,
-      "bpm": 220,
-      "genre": "death-metal",
-      "genreLabel": "Death Metal",
-      "drummer": {
-        "slug": "tony-laureano",
-        "name": "Tony Laureano",
-        "inRoster": false
       }
     },
     {
@@ -388,6 +594,76 @@ export const TEMPO_BY_SUBGENRE = {
       "drummer": {
         "slug": "lars-ulrich",
         "name": "Lars Ulrich",
+        "inRoster": true
+      }
+    },
+    {
+      "id": 210,
+      "song": "Black Seeds of Vengeance",
+      "band": "Nile",
+      "year": 2000,
+      "bpm": 210,
+      "genre": "death-metal",
+      "genreLabel": "Death Metal",
+      "drummer": {
+        "slug": "pat-harrington",
+        "name": "Pat Harrington",
+        "inRoster": false
+      }
+    },
+    {
+      "id": 174,
+      "song": "Flattening of Emotions",
+      "band": "Death",
+      "year": 1991,
+      "bpm": 210,
+      "genre": "technical-death-metal",
+      "genreLabel": "Technical Death Metal",
+      "drummer": {
+        "slug": "sean-reinert",
+        "name": "Sean Reinert",
+        "inRoster": true
+      }
+    },
+    {
+      "id": 187,
+      "song": "Necrophobic",
+      "band": "Slayer",
+      "year": 1986,
+      "bpm": 210,
+      "genre": "thrash-metal",
+      "genreLabel": "Thrash Metal",
+      "drummer": {
+        "slug": "dave-lombardo",
+        "name": "Dave Lombardo",
+        "inRoster": true
+      }
+    },
+    {
+      "id": 71,
+      "song": "Painkiller",
+      "band": "Judas Priest",
+      "year": 1990,
+      "bpm": 210,
+      "genre": "heavy-metal",
+      "genreLabel": "Heavy Metal",
+      "drummer": {
+        "slug": "scott-travis",
+        "name": "Scott Travis",
+        "inRoster": true
+      }
+    },
+    {
+      "id": 219,
+      "song": "Beneath the Remains",
+      "band": "Sepultura",
+      "year": 1989,
+      "bpm": 200,
+      "genre": "thrash-metal",
+      "genreLabel": "Thrash Metal",
+      "drummer": {
+        "slug": "igor-cavalera",
+        "name": "Igor Cavalera",
         "inRoster": true
       }
     },

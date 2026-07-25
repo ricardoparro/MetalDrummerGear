@@ -1,17 +1,17 @@
 /**
  * Most-Used Gear Brands study — brand-frequency counts across the current
- * 67-drummer roster, split by kits/snares/cymbals/sticks/pedals.
+ * 72-drummer roster, split by kits/snares/cymbals/sticks/pedals.
  *
  * GENERATED FILE — do not edit by hand.
  * Regenerate with: node scripts/compute-studies.cjs
  *
  * Source of truth: api/drummers/index.js (current gear fields only — gearTimeline
  * historical entries are intentionally excluded, same convention as
- * scripts/build-gear-index.cjs). Dataset snapshot date: 2026-07-16.
+ * scripts/build-gear-index.cjs). Dataset snapshot date: 2026-07-25.
  *
  * Methodology: a drummer counts once per brand per category (a dual-brand cymbal
  * setup like "Sabian / Zildjian" credits both). Percentages are of the full
- * 67-drummer roster, so a category's percentages can sum past 100%
+ * 72-drummer roster, so a category's percentages can sum past 100%
  * when multi-brand setups are common (see "pedals", parsed only from hardware-field
  * segments that mention "pedal", to avoid crediting throne/rack brands).
  *
@@ -20,16 +20,177 @@
  */
 
 export const MOST_USED_GEAR_BRANDS = {
-  "generatedAt": "2026-07-16",
-  "totalDrummers": 67,
+  "generatedAt": "2026-07-25",
+  "totalDrummers": 72,
   "categories": {
     "kits": {
       "label": "Drum Kits",
       "ranked": [
         {
+          "brand": "Pearl",
+          "count": 22,
+          "percent": 30.6,
+          "drummers": [
+            {
+              "id": 2,
+              "name": "Joey Jordison",
+              "slug": "joey-jordison",
+              "band": "Slipknot",
+              "configString": "Pearl Reference Series"
+            },
+            {
+              "id": 3,
+              "name": "Gene Hoglan",
+              "slug": "gene-hoglan",
+              "band": "Death / Testament / Dethklok",
+              "configString": "Pearl Reference Pure"
+            },
+            {
+              "id": 6,
+              "name": "George Kollias",
+              "slug": "george-kollias",
+              "band": "Nile",
+              "configString": "Pearl Masterworks Stadium Exotic (Piano Black with Gold Hardware)"
+            },
+            {
+              "id": 8,
+              "name": "Ray Luzier",
+              "slug": "ray-luzier",
+              "band": "Korn",
+              "configString": "Pearl Reference Series"
+            },
+            {
+              "id": 18,
+              "name": "Matt Halpern",
+              "slug": "matt-halpern",
+              "band": "Periphery",
+              "configString": "Pearl Reference Series"
+            },
+            {
+              "id": 19,
+              "name": "Inferno",
+              "slug": "inferno",
+              "band": "Behemoth",
+              "configString": "Pearl Masterworks"
+            },
+            {
+              "id": 25,
+              "name": "Alex Bent",
+              "slug": "alex-bent",
+              "band": "ex-Trivium / Arkaik / Dragonlord",
+              "configString": "Pearl Reference Pure Series"
+            },
+            {
+              "id": 31,
+              "name": "Nick Augusto",
+              "slug": "nick-augusto",
+              "band": "ex-Trivium",
+              "configString": "Pearl Reference Pure"
+            },
+            {
+              "id": 35,
+              "name": "Flo Mounier",
+              "slug": "flo-mounier",
+              "band": "Cryptopsy",
+              "configString": "Pearl Masters Maple Complete"
+            },
+            {
+              "id": 36,
+              "name": "Ryan Van Poederooyen",
+              "slug": "ryan-van-poederooyen",
+              "band": "Devin Townsend Project",
+              "configString": "Pearl Reference Series"
+            },
+            {
+              "id": 50,
+              "name": "Aquiles Priester",
+              "slug": "aquiles-priester",
+              "band": "Angra / W.A.S.P.",
+              "configString": "Pearl Reference Series"
+            },
+            {
+              "id": 51,
+              "name": "Paul Mazurkiewicz",
+              "slug": "paul-mazurkiewicz",
+              "band": "Cannibal Corpse",
+              "configString": "Pearl Masters Maple Complete"
+            },
+            {
+              "id": 52,
+              "name": "Mike Mangini",
+              "slug": "mike-mangini",
+              "band": "Dream Theater",
+              "configString": "Pearl Reference Series"
+            },
+            {
+              "id": 54,
+              "name": "Daniel Erlandsson",
+              "slug": "daniel-erlandsson",
+              "band": "Arch Enemy",
+              "configString": "Pearl Reference Pure"
+            },
+            {
+              "id": 55,
+              "name": "Jaska Raatikainen",
+              "slug": "jaska-raatikainen",
+              "band": "Children of Bodom",
+              "configString": "Pearl Masters Premium Maple"
+            },
+            {
+              "id": 57,
+              "name": "Daray",
+              "slug": "daray",
+              "band": "Dimmu Borgir / Vader",
+              "configString": "Pearl Masterworks Stadium Exotic"
+            },
+            {
+              "id": 58,
+              "name": "Jocke Wallgren",
+              "slug": "jocke-wallgren",
+              "band": "Amon Amarth",
+              "configString": "Pearl Reference Pure"
+            },
+            {
+              "id": 60,
+              "name": "Kevin Talley",
+              "slug": "kevin-talley",
+              "band": "Dying Fetus / Misery Index / Six Feet Under",
+              "configString": "Pearl Masters Premium Legend"
+            },
+            {
+              "id": 63,
+              "name": "Paul Bostaph",
+              "slug": "paul-bostaph",
+              "band": "Slayer",
+              "configString": "Pearl Masters Maple Complete (MCX)"
+            },
+            {
+              "id": 68,
+              "name": "Jimmy DeGrasso",
+              "slug": "jimmy-degrasso",
+              "band": "Megadeth",
+              "configString": "Pearl"
+            },
+            {
+              "id": 71,
+              "name": "John Longstreth",
+              "slug": "john-longstreth",
+              "band": "Origin",
+              "configString": "Pearl (endorsement confirmed via his own Scorpion Percussion artist bio; specific kit model/shell sizes not independently documented — omitted rather than guessed)"
+            },
+            {
+              "id": 72,
+              "name": "Waltteri Väyrynen",
+              "slug": "waltteri-vayrynen",
+              "band": "Opeth",
+              "configString": "Pearl (endorsement confirmed via Pearl's own artist roster and corroborated by Antelope Audio's 2020 studio-session writeup; specific kit model/shell sizes not independently documented — omitted rather than guessed)"
+            }
+          ]
+        },
+        {
           "brand": "Tama",
-          "count": 20,
-          "percent": 29.9,
+          "count": 21,
+          "percent": 29.2,
           "drummers": [
             {
               "id": 1,
@@ -170,153 +331,20 @@ export const MOST_USED_GEAR_BRANDS = {
               "slug": "adrian-erlandsson",
               "band": "At the Gates",
               "configString": "Tama Starclassic Bubinga"
-            }
-          ]
-        },
-        {
-          "brand": "Pearl",
-          "count": 19,
-          "percent": 28.4,
-          "drummers": [
-            {
-              "id": 2,
-              "name": "Joey Jordison",
-              "slug": "joey-jordison",
-              "band": "Slipknot",
-              "configString": "Pearl Reference Series"
             },
             {
-              "id": 3,
-              "name": "Gene Hoglan",
-              "slug": "gene-hoglan",
-              "band": "Death / Testament / Dethklok",
-              "configString": "Pearl Reference Pure"
-            },
-            {
-              "id": 6,
-              "name": "George Kollias",
-              "slug": "george-kollias",
-              "band": "Nile",
-              "configString": "Pearl Masterworks Stadium Exotic (Piano Black with Gold Hardware)"
-            },
-            {
-              "id": 8,
-              "name": "Ray Luzier",
-              "slug": "ray-luzier",
-              "band": "Korn",
-              "configString": "Pearl Reference Series"
-            },
-            {
-              "id": 18,
-              "name": "Matt Halpern",
-              "slug": "matt-halpern",
-              "band": "Periphery",
-              "configString": "Pearl Reference Series"
-            },
-            {
-              "id": 19,
-              "name": "Inferno",
-              "slug": "inferno",
-              "band": "Behemoth",
-              "configString": "Pearl Masterworks"
-            },
-            {
-              "id": 25,
-              "name": "Alex Bent",
-              "slug": "alex-bent",
-              "band": "ex-Trivium / Arkaik / Dragonlord",
-              "configString": "Pearl Reference Pure Series"
-            },
-            {
-              "id": 31,
-              "name": "Nick Augusto",
-              "slug": "nick-augusto",
-              "band": "ex-Trivium",
-              "configString": "Pearl Reference Pure"
-            },
-            {
-              "id": 35,
-              "name": "Flo Mounier",
-              "slug": "flo-mounier",
-              "band": "Cryptopsy",
-              "configString": "Pearl Masters Maple Complete"
-            },
-            {
-              "id": 36,
-              "name": "Ryan Van Poederooyen",
-              "slug": "ryan-van-poederooyen",
-              "band": "Devin Townsend Project",
-              "configString": "Pearl Reference Series"
-            },
-            {
-              "id": 50,
-              "name": "Aquiles Priester",
-              "slug": "aquiles-priester",
-              "band": "Angra / W.A.S.P.",
-              "configString": "Pearl Reference Series"
-            },
-            {
-              "id": 51,
-              "name": "Paul Mazurkiewicz",
-              "slug": "paul-mazurkiewicz",
-              "band": "Cannibal Corpse",
-              "configString": "Pearl Masters Maple Complete"
-            },
-            {
-              "id": 52,
-              "name": "Mike Mangini",
-              "slug": "mike-mangini",
-              "band": "Dream Theater",
-              "configString": "Pearl Reference Series"
-            },
-            {
-              "id": 54,
-              "name": "Daniel Erlandsson",
-              "slug": "daniel-erlandsson",
-              "band": "Arch Enemy",
-              "configString": "Pearl Reference Pure"
-            },
-            {
-              "id": 55,
-              "name": "Jaska Raatikainen",
-              "slug": "jaska-raatikainen",
-              "band": "Children of Bodom",
-              "configString": "Pearl Masters Premium Maple"
-            },
-            {
-              "id": 57,
-              "name": "Daray",
-              "slug": "daray",
-              "band": "Dimmu Borgir / Vader",
-              "configString": "Pearl Masterworks Stadium Exotic"
-            },
-            {
-              "id": 58,
-              "name": "Jocke Wallgren",
-              "slug": "jocke-wallgren",
-              "band": "Amon Amarth",
-              "configString": "Pearl Reference Pure"
-            },
-            {
-              "id": 60,
-              "name": "Kevin Talley",
-              "slug": "kevin-talley",
-              "band": "Dying Fetus / Misery Index / Six Feet Under",
-              "configString": "Pearl Masters Premium Legend"
-            },
-            {
-              "id": 63,
-              "name": "Paul Bostaph",
-              "slug": "paul-bostaph",
-              "band": "Slayer",
-              "configString": "Pearl Masters Maple Complete (MCX)"
+              "id": 70,
+              "name": "Alex Rüdinger",
+              "slug": "alex-rudinger",
+              "band": "The Faceless",
+              "configString": "Tama Starclassic Performer B/B"
             }
           ]
         },
         {
           "brand": "Sonor",
-          "count": 8,
-          "percent": 11.9,
+          "count": 9,
+          "percent": 12.5,
           "drummers": [
             {
               "id": 5,
@@ -373,13 +401,20 @@ export const MOST_USED_GEAR_BRANDS = {
               "slug": "martin-axenrot",
               "band": "Opeth",
               "configString": "Sonor SQ2 Series"
+            },
+            {
+              "id": 69,
+              "name": "Nick Barker",
+              "slug": "nick-barker",
+              "band": "Dimmu Borgir",
+              "configString": "Sonor"
             }
           ]
         },
         {
           "brand": "ddrum",
           "count": 4,
-          "percent": 6,
+          "percent": 5.6,
           "drummers": [
             {
               "id": 11,
@@ -414,7 +449,7 @@ export const MOST_USED_GEAR_BRANDS = {
         {
           "brand": "Mapex",
           "count": 4,
-          "percent": 6,
+          "percent": 5.6,
           "drummers": [
             {
               "id": 17,
@@ -449,7 +484,7 @@ export const MOST_USED_GEAR_BRANDS = {
         {
           "brand": "SJC",
           "count": 4,
-          "percent": 6,
+          "percent": 5.6,
           "drummers": [
             {
               "id": 10,
@@ -484,7 +519,7 @@ export const MOST_USED_GEAR_BRANDS = {
         {
           "brand": "Ludwig",
           "count": 3,
-          "percent": 4.5,
+          "percent": 4.2,
           "drummers": [
             {
               "id": 22,
@@ -512,7 +547,7 @@ export const MOST_USED_GEAR_BRANDS = {
         {
           "brand": "DW",
           "count": 2,
-          "percent": 3,
+          "percent": 2.8,
           "drummers": [
             {
               "id": 24,
@@ -533,7 +568,7 @@ export const MOST_USED_GEAR_BRANDS = {
         {
           "brand": "Noble & Cooley",
           "count": 1,
-          "percent": 1.5,
+          "percent": 1.4,
           "drummers": [
             {
               "id": 38,
@@ -547,7 +582,7 @@ export const MOST_USED_GEAR_BRANDS = {
         {
           "brand": "OCDP",
           "count": 1,
-          "percent": 1.5,
+          "percent": 1.4,
           "drummers": [
             {
               "id": 9,
@@ -561,7 +596,7 @@ export const MOST_USED_GEAR_BRANDS = {
         {
           "brand": "Yamaha",
           "count": 1,
-          "percent": 1.5,
+          "percent": 1.4,
           "drummers": [
             {
               "id": 43,
@@ -581,8 +616,8 @@ export const MOST_USED_GEAR_BRANDS = {
       "ranked": [
         {
           "brand": "Tama",
-          "count": 20,
-          "percent": 29.9,
+          "count": 21,
+          "percent": 29.2,
           "drummers": [
             {
               "id": 1,
@@ -723,13 +758,20 @@ export const MOST_USED_GEAR_BRANDS = {
               "slug": "adrian-erlandsson",
               "band": "At the Gates",
               "configString": "Tama Starclassic Bubinga 14x6.5\""
+            },
+            {
+              "id": 70,
+              "name": "Alex Rüdinger",
+              "slug": "alex-rudinger",
+              "band": "The Faceless",
+              "configString": "Tama STARPHONIC Brass 14x6\" (or SLP Black Brass alternate)"
             }
           ]
         },
         {
           "brand": "Pearl",
-          "count": 19,
-          "percent": 28.4,
+          "count": 20,
+          "percent": 27.8,
           "drummers": [
             {
               "id": 2,
@@ -863,13 +905,20 @@ export const MOST_USED_GEAR_BRANDS = {
               "slug": "paul-bostaph",
               "band": "Slayer",
               "configString": "Pearl Masters Steel 14x6.5\""
+            },
+            {
+              "id": 68,
+              "name": "Jimmy DeGrasso",
+              "slug": "jimmy-degrasso",
+              "band": "Megadeth",
+              "configString": "Pearl JD1455 Jimmy DeGrasso Signature 14x5.5\" Hammered Brass"
             }
           ]
         },
         {
           "brand": "Sonor",
           "count": 8,
-          "percent": 11.9,
+          "percent": 11.1,
           "drummers": [
             {
               "id": 5,
@@ -932,7 +981,7 @@ export const MOST_USED_GEAR_BRANDS = {
         {
           "brand": "ddrum",
           "count": 4,
-          "percent": 6,
+          "percent": 5.6,
           "drummers": [
             {
               "id": 11,
@@ -967,7 +1016,7 @@ export const MOST_USED_GEAR_BRANDS = {
         {
           "brand": "Mapex",
           "count": 4,
-          "percent": 6,
+          "percent": 5.6,
           "drummers": [
             {
               "id": 17,
@@ -1002,7 +1051,7 @@ export const MOST_USED_GEAR_BRANDS = {
         {
           "brand": "SJC",
           "count": 4,
-          "percent": 6,
+          "percent": 5.6,
           "drummers": [
             {
               "id": 10,
@@ -1037,7 +1086,7 @@ export const MOST_USED_GEAR_BRANDS = {
         {
           "brand": "DW",
           "count": 2,
-          "percent": 3,
+          "percent": 2.8,
           "drummers": [
             {
               "id": 24,
@@ -1058,7 +1107,7 @@ export const MOST_USED_GEAR_BRANDS = {
         {
           "brand": "Ludwig",
           "count": 2,
-          "percent": 3,
+          "percent": 2.8,
           "drummers": [
             {
               "id": 22,
@@ -1079,7 +1128,7 @@ export const MOST_USED_GEAR_BRANDS = {
         {
           "brand": "Noble & Cooley",
           "count": 1,
-          "percent": 1.5,
+          "percent": 1.4,
           "drummers": [
             {
               "id": 38,
@@ -1093,7 +1142,7 @@ export const MOST_USED_GEAR_BRANDS = {
         {
           "brand": "OCDP",
           "count": 1,
-          "percent": 1.5,
+          "percent": 1.4,
           "drummers": [
             {
               "id": 9,
@@ -1107,7 +1156,7 @@ export const MOST_USED_GEAR_BRANDS = {
         {
           "brand": "Yamaha",
           "count": 1,
-          "percent": 1.5,
+          "percent": 1.4,
           "drummers": [
             {
               "id": 43,
@@ -1119,12 +1168,27 @@ export const MOST_USED_GEAR_BRANDS = {
           ]
         }
       ],
-      "skippedCount": 1,
+      "skippedCount": 4,
       "skipped": [
         {
           "slug": "jon-dette",
           "name": "Jon Dette",
           "raw": "14x6.5\" Metal or Maple Snare"
+        },
+        {
+          "slug": "nick-barker",
+          "name": "Nick Barker",
+          "raw": ""
+        },
+        {
+          "slug": "john-longstreth",
+          "name": "John Longstreth",
+          "raw": ""
+        },
+        {
+          "slug": "waltteri-vayrynen",
+          "name": "Waltteri Väyrynen",
+          "raw": ""
         }
       ]
     },
@@ -1134,7 +1198,7 @@ export const MOST_USED_GEAR_BRANDS = {
         {
           "brand": "Zildjian",
           "count": 23,
-          "percent": 34.3,
+          "percent": 31.9,
           "drummers": [
             {
               "id": 1,
@@ -1301,8 +1365,8 @@ export const MOST_USED_GEAR_BRANDS = {
         },
         {
           "brand": "Sabian",
-          "count": 20,
-          "percent": 29.9,
+          "count": 22,
+          "percent": 30.6,
           "drummers": [
             {
               "id": 3,
@@ -1443,13 +1507,27 @@ export const MOST_USED_GEAR_BRANDS = {
               "slug": "jon-dette",
               "band": "Slayer",
               "configString": "Sabian AAX / Zildjian A Series (14\" Hi-Hats, 16\" & 18\" Crash, 20\" Ride, 18\" China)"
+            },
+            {
+              "id": 68,
+              "name": "Jimmy DeGrasso",
+              "slug": "jimmy-degrasso",
+              "band": "Megadeth",
+              "configString": "Sabian"
+            },
+            {
+              "id": 72,
+              "name": "Waltteri Väyrynen",
+              "slug": "waltteri-vayrynen",
+              "band": "Opeth",
+              "configString": "Sabian (endorsed artist; confirmed favourite piece per Sabian's own artist page: 22\" HH Power Bell Ride — full setup not itemized there, so omitted rather than guessed)"
             }
           ]
         },
         {
           "brand": "Paiste",
           "count": 15,
-          "percent": 22.4,
+          "percent": 20.8,
           "drummers": [
             {
               "id": 2,
@@ -1560,8 +1638,8 @@ export const MOST_USED_GEAR_BRANDS = {
         },
         {
           "brand": "Meinl",
-          "count": 10,
-          "percent": 14.9,
+          "count": 12,
+          "percent": 16.7,
           "drummers": [
             {
               "id": 16,
@@ -1632,12 +1710,32 @@ export const MOST_USED_GEAR_BRANDS = {
               "slug": "martin-axenrot",
               "band": "Opeth",
               "configString": "Meinl Byzance Series (14\" Traditional Medium Hi-Hats, 16\" & 18\" & 19\" Crashes, 22\" Traditional Ride, 18\" China)"
+            },
+            {
+              "id": 70,
+              "name": "Alex Rüdinger",
+              "slug": "alex-rudinger",
+              "band": "The Faceless",
+              "configString": "Meinl Cymbals (Byzance and MB20 series; specific models not independently documented — omitted rather than guessed)"
+            },
+            {
+              "id": 71,
+              "name": "John Longstreth",
+              "slug": "john-longstreth",
+              "band": "Origin",
+              "configString": "Meinl Classics Custom Dark Series (8\" Dark Splash, 14\" Dark Hihat, 18\" Dark China) + Meinl Generation X 12\"/14\" Trash Hat"
             }
           ]
         }
       ],
-      "skippedCount": 0,
-      "skipped": []
+      "skippedCount": 1,
+      "skipped": [
+        {
+          "slug": "nick-barker",
+          "name": "Nick Barker",
+          "raw": ""
+        }
+      ]
     },
     "sticks": {
       "label": "Sticks",
@@ -1645,7 +1743,7 @@ export const MOST_USED_GEAR_BRANDS = {
         {
           "brand": "Vic Firth",
           "count": 44,
-          "percent": 65.7,
+          "percent": 61.1,
           "drummers": [
             {
               "id": 6,
@@ -1959,8 +2057,8 @@ export const MOST_USED_GEAR_BRANDS = {
         },
         {
           "brand": "Promark",
-          "count": 12,
-          "percent": 17.9,
+          "count": 13,
+          "percent": 18.1,
           "drummers": [
             {
               "id": 2,
@@ -2045,13 +2143,20 @@ export const MOST_USED_GEAR_BRANDS = {
               "slug": "jon-dette",
               "band": "Slayer",
               "configString": "Promark / Vater 5B"
+            },
+            {
+              "id": 68,
+              "name": "Jimmy DeGrasso",
+              "slug": "jimmy-degrasso",
+              "band": "Megadeth",
+              "configString": "Promark"
             }
           ]
         },
         {
           "brand": "Vater",
           "count": 6,
-          "percent": 9,
+          "percent": 8.3,
           "drummers": [
             {
               "id": 10,
@@ -2098,9 +2203,37 @@ export const MOST_USED_GEAR_BRANDS = {
           ]
         },
         {
+          "brand": "Wincent",
+          "count": 3,
+          "percent": 4.2,
+          "drummers": [
+            {
+              "id": 5,
+              "name": "Tomas Haake",
+              "slug": "tomas-haake",
+              "band": "Meshuggah",
+              "configString": "Wincent Tomas Haake Signature"
+            },
+            {
+              "id": 43,
+              "name": "Mikkey Dee",
+              "slug": "mikkey-dee",
+              "band": "Scorpions / Motörhead",
+              "configString": "Wincent Mikkey Dee Signature (W-MDS)"
+            },
+            {
+              "id": 72,
+              "name": "Waltteri Väyrynen",
+              "slug": "waltteri-vayrynen",
+              "band": "Opeth",
+              "configString": "Wincent W-5BXL"
+            }
+          ]
+        },
+        {
           "brand": "Tama",
           "count": 2,
-          "percent": 3,
+          "percent": 2.8,
           "drummers": [
             {
               "id": 15,
@@ -2119,30 +2252,9 @@ export const MOST_USED_GEAR_BRANDS = {
           ]
         },
         {
-          "brand": "Wincent",
-          "count": 2,
-          "percent": 3,
-          "drummers": [
-            {
-              "id": 5,
-              "name": "Tomas Haake",
-              "slug": "tomas-haake",
-              "band": "Meshuggah",
-              "configString": "Wincent Tomas Haake Signature"
-            },
-            {
-              "id": 43,
-              "name": "Mikkey Dee",
-              "slug": "mikkey-dee",
-              "band": "Scorpions / Motörhead",
-              "configString": "Wincent Mikkey Dee Signature (W-MDS)"
-            }
-          ]
-        },
-        {
           "brand": "Ahead",
           "count": 1,
-          "percent": 1.5,
+          "percent": 1.4,
           "drummers": [
             {
               "id": 1,
@@ -2156,7 +2268,7 @@ export const MOST_USED_GEAR_BRANDS = {
         {
           "brand": "Zildjian",
           "count": 1,
-          "percent": 1.5,
+          "percent": 1.4,
           "drummers": [
             {
               "id": 9,
@@ -2168,16 +2280,32 @@ export const MOST_USED_GEAR_BRANDS = {
           ]
         }
       ],
-      "skippedCount": 0,
-      "skipped": []
+      "skippedCount": 3,
+      "skipped": [
+        {
+          "slug": "nick-barker",
+          "name": "Nick Barker",
+          "raw": ""
+        },
+        {
+          "slug": "alex-rudinger",
+          "name": "Alex Rüdinger",
+          "raw": ""
+        },
+        {
+          "slug": "john-longstreth",
+          "name": "John Longstreth",
+          "raw": "Scorpion Percussion \"Wee Heavy\" Signature Drumsticks"
+        }
+      ]
     },
     "pedals": {
       "label": "Pedals",
       "ranked": [
         {
           "brand": "Tama",
-          "count": 19,
-          "percent": 28.4,
+          "count": 20,
+          "percent": 27.8,
           "drummers": [
             {
               "id": 1,
@@ -2311,13 +2439,20 @@ export const MOST_USED_GEAR_BRANDS = {
               "slug": "jon-dette",
               "band": "Slayer",
               "configString": "DW 9000 or Tama Iron Cobra Double Pedal"
+            },
+            {
+              "id": 70,
+              "name": "Alex Rüdinger",
+              "slug": "alex-rudinger",
+              "band": "The Faceless",
+              "configString": "Tama Speed Cobra Bass Drum Pedals"
             }
           ]
         },
         {
           "brand": "Pearl",
           "count": 16,
-          "percent": 23.9,
+          "percent": 22.2,
           "drummers": [
             {
               "id": 2,
@@ -2436,7 +2571,7 @@ export const MOST_USED_GEAR_BRANDS = {
         {
           "brand": "DW",
           "count": 14,
-          "percent": 20.9,
+          "percent": 19.4,
           "drummers": [
             {
               "id": 8,
@@ -2541,7 +2676,7 @@ export const MOST_USED_GEAR_BRANDS = {
         {
           "brand": "Sonor",
           "count": 4,
-          "percent": 6,
+          "percent": 5.6,
           "drummers": [
             {
               "id": 14,
@@ -2576,7 +2711,7 @@ export const MOST_USED_GEAR_BRANDS = {
         {
           "brand": "Axis",
           "count": 3,
-          "percent": 4.5,
+          "percent": 4.2,
           "drummers": [
             {
               "id": 20,
@@ -2604,7 +2739,7 @@ export const MOST_USED_GEAR_BRANDS = {
         {
           "brand": "Mapex",
           "count": 3,
-          "percent": 4.5,
+          "percent": 4.2,
           "drummers": [
             {
               "id": 17,
@@ -2632,7 +2767,7 @@ export const MOST_USED_GEAR_BRANDS = {
         {
           "brand": "Czarcie Kopyto",
           "count": 2,
-          "percent": 3,
+          "percent": 2.8,
           "drummers": [
             {
               "id": 19,
@@ -2653,7 +2788,7 @@ export const MOST_USED_GEAR_BRANDS = {
         {
           "brand": "ddrum",
           "count": 2,
-          "percent": 3,
+          "percent": 2.8,
           "drummers": [
             {
               "id": 11,
@@ -2674,7 +2809,7 @@ export const MOST_USED_GEAR_BRANDS = {
         {
           "brand": "Gibraltar",
           "count": 1,
-          "percent": 1.5,
+          "percent": 1.4,
           "drummers": [
             {
               "id": 9,
@@ -2688,7 +2823,7 @@ export const MOST_USED_GEAR_BRANDS = {
         {
           "brand": "Ludwig",
           "count": 1,
-          "percent": 1.5,
+          "percent": 1.4,
           "drummers": [
             {
               "id": 30,
@@ -2702,7 +2837,7 @@ export const MOST_USED_GEAR_BRANDS = {
         {
           "brand": "Trick",
           "count": 1,
-          "percent": 1.5,
+          "percent": 1.4,
           "drummers": [
             {
               "id": 22,
@@ -2716,7 +2851,7 @@ export const MOST_USED_GEAR_BRANDS = {
         {
           "brand": "Yamaha",
           "count": 1,
-          "percent": 1.5,
+          "percent": 1.4,
           "drummers": [
             {
               "id": 43,
@@ -2728,12 +2863,17 @@ export const MOST_USED_GEAR_BRANDS = {
           ]
         }
       ],
-      "skippedCount": 1,
+      "skippedCount": 2,
       "skipped": [
         {
           "slug": "nicko-mcbrain",
           "name": "Nicko McBrain",
           "raw": "Single Bass Drum Pedal"
+        },
+        {
+          "slug": "john-longstreth",
+          "name": "John Longstreth",
+          "raw": "ACD Unlimited Bass Drum Pedals"
         }
       ]
     }

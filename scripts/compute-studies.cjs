@@ -34,7 +34,7 @@ const path = require('path');
 // study's methodology section and Article dateModified stay honest about when
 // the underlying dataset was last counted. Intentionally NOT Date.now() —
 // this script must be deterministic across repeated runs on the same source.
-const SNAPSHOT_DATE = '2026-07-16';
+const SNAPSHOT_DATE = '2026-07-25';
 
 // --- Brand alias table -----------------------------------------------------------
 // Mirrors scripts/build-gear-index.cjs's BRANDS table (kept in sync so the two

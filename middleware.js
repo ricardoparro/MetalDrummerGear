@@ -13,22 +13,36 @@ export const config = {
   matcher: ['/', '/drummer/:slug'],
 };
 
-function withVary(response) {
-  // Caches must key on Accept so a markdown response is never served to a
-  // browser (or vice-versa) for the same URL.
-  response.headers.set('Vary', 'Accept');
+// Issue #5038 (3rd occurrence of #4368/#4727): vercel.json's bot-conditioned
+// rewrite for `/` -> /api/meta/[...path]?path= never fires because `/` is the
+// only bot-rewritten route that also has a physical index.html in the static
+// export, and Vercel's filesystem check runs *after* middleware but *before*
+// vercel.json rewrites, so the static file always wins for that one route.
+// Same bot UA list as vercel.json's other bot-conditioned rewrites — keep in
+// sync if that list changes.
+const BOT_UA_RE = /.*(Googlebot|Bingbot|GPTBot|ChatGPT-User|ClaudeBot|Claude-Web|anthropic-ai|PerplexityBot|Applebot-Extended|cohere-ai|Google-Extended).*/;
+
+function withVary(response, varyOn) {
+  // Caches must key on the same headers we branch on, so a bot/markdown
+  // response is never served to a browser (or vice-versa) for the same URL.
+  response.headers.set('Vary', varyOn);
   return response;
 }
 
 export default function middleware(request) {
   const accept = request.headers.get('accept') || '';
-
-  // Browsers/default clients never send text/markdown -> serve HTML as usual.
-  if (!accept.includes('text/markdown')) {
-    return withVary(next());
-  }
-
+  const userAgent = request.headers.get('user-agent') || '';
   const path = (new URL(request.url).pathname.replace(/\/+$/, '') || '/');
+
+  // Browsers/default clients never send text/markdown -> serve HTML as usual,
+  // except the homepage still needs the bot-UA meta-shell rewrite below since
+  // that's the one route the filesystem shadows.
+  if (!accept.includes('text/markdown')) {
+    if (path === '/' && BOT_UA_RE.test(userAgent)) {
+      return withVary(rewrite(new URL('/api/meta/?path=', request.url)), 'Accept, User-Agent');
+    }
+    return withVary(next(), 'Accept, User-Agent');
+  }
 
   let target = null;
   if (path === '/') {
@@ -39,8 +53,8 @@ export default function middleware(request) {
   }
 
   if (!target) {
-    return withVary(next());
+    return withVary(next(), 'Accept, User-Agent');
   }
 
-  return withVary(rewrite(new URL(target, request.url)));
+  return withVary(rewrite(new URL(target, request.url)), 'Accept, User-Agent');
 }

@@ -5241,6 +5241,16 @@ export function getMetaForPath(pathname) {
                 name: 'How do MetalForge drummer battles work?',
                 acceptedAnswer: { '@type': 'Answer', text: "Each week a new matchup is featured. Vote for your favorite, see the community results, and explore each drummer's full gear setup." },
               },
+              {
+                '@type': 'Question',
+                name: 'How many drummer battles are on MetalForge?',
+                acceptedAnswer: { '@type': 'Answer', text: 'MetalForge features 8 curated head-to-head drummer battles spanning thrash, death, prog, and black metal.' },
+              },
+              {
+                '@type': 'Question',
+                name: 'How is the winner of a MetalForge drummer battle decided?',
+                acceptedAnswer: { '@type': 'Answer', text: 'Winners are decided by community voting — fans vote for their favorite drummer in each matchup and results update live.' },
+              },
             ],
           },
         ],

@@ -2789,3 +2789,41 @@ Skipped — Saturday, not Monday.
 ### Next run
 - Bank at 3 real + 3 umbrella — healthy, well under the 45 floor; no urgency to force volume next run.
 - Untried levers still worth trying: fresh GSC top-query re-read, `/compare` gearComparisons date-completeness re-check (only 1/12 had dates as of 07-23), `mainEntityOfPage` on the 5 hand-rolled Article routes flagged this run.
+
+---
+## 2026-07-25 (Saturday, 2-hourly run, ~16:20 UTC) — Bank empty of real proposals (all 3 promoted per CEO 15:21 log), followed up on the flagged mainEntityOfPage lever (bank 0→1)
+
+### Context
+Bank check: 3 open `seo-proposal` at run start — all 3 are the standing L1/L2/L3 umbrellas (#3810/#3819/#2211); #5083/#5084/#5085 from the 14:37 run already promoted to `ai-fix` per the CEO's 15:21 UTC decision log. Zero genuinely untriaged proposals — well under the 45 floor, cleared to file up to 8. Metrics (16:18 UTC refresh): 217 users/264 sessions/472 views 7d, organic 229/264 (86.7%). GSC 5,807 impr/176 clicks/3.03% CTR/pos 10.4. No content-gap rows (impr≥50 & CTR<2%). Saturday — drum-chair watch skipped (not Monday).
+
+### Audit
+robots.txt (`api/robots.js`): 8/8 AI crawlers explicitly allowed (grep-confirmed live via curl). `public/llms/drummers/*.md`: 72 files, matches live 72-drummer roster. `public/llms/*.md` total: 2,000 files.
+
+### Gap hunt — followed up on the 14:37 run's own flagged leftover lever (mainEntityOfPage on hand-rolled Article routes), found the root cause and full scope
+Delegated an agent with the day's full exclusion list (17 exhausted levers: vercel.json crossref, roster-drift, singular-path shadows, FAQ-depth, inbound-crosslinks, alt-text/canonical/heading-hierarchy, Person.sameAs truncation ×2 route families, og:image relative-URL, MusicAlbum datePublished, og:type/VideoObject/twitter:card, hub-FAQ, band foundingLocation, top10 ItemListOrder). It confirmed the `/compare` gearComparisons date-completeness lead is still a dead end (still 1/12 entries have a date, unchanged since 07-23) but found the mainEntityOfPage lead was real and broader than the "5 routes" the log guessed — root cause is structural, not per-route.
+
+**Root cause (independently re-verified via direct reads of `api/meta/[...path].js:7146-7192`):** the shared `generateArticleSchema()` helper auto-injects `mainEntityOfPage` using `meta.url`, but only runs when `meta.articleSchema` is a plain object. Routes that pre-serialize their own `@graph` via `JSON.stringify(...)` (a string) hit the early-return branch and skip the injector entirely — `mainEntityOfPage` then has to be added by hand inside each graph. Some already do (`/articles/<slug>` top10 branch :2564, `/lists/<slug>` :3868, `/drummer/<slug>/bio` :4819 — proven pattern), 6 do not.
+
+Independently re-verified every line number and page count myself (not trusting the agent report alone) via direct `sed -n` reads + `node -e` counts against the real data modules:
+1. `/guides/<slug>` genre gear guides — `:1274` — 278 pages (`GENRE_GEAR_GUIDES`, counted via `node -e`, not the stale "62" figure from old plans)
+2. `/beginner-guide` — `:1336` — 1 page
+3. `/techniques/<slug>` — `:1659` — 29 pages (counted via `node -e`, not grep's inflated 134 which double-counts nested `masters` entries)
+4. `/compare/<slug>` — `:1965` — 12 pages
+5. `/drummers/<slug>/evolution` + `/drummer/<slug>/evolution` — `:3547` + `:4900` — 144 pages (72×2 route forms, `DRUMMER_EVOLUTION` confirmed 72 via `node -e`)
+6. `/<slug>` + `/drummer/<slug>` canonical profile extended-bio `Article` sub-node (added by #4635, never got this field) — `:3797` + `:5692` — 144 pages (`extendedBios.js` confirmed 72 via `node -e`)
+
+Total 608 pages. Searched `gh issue list --state all --search "mainEntityOfPage"` — 5 results, all closed, none overlap (isAccessibleForFree, bio-route regex collision, datePublished/author, album-article Article schema, generic blog Article schema — none touch this field on these 6 families). Filed **#5089** with the exact fix line for each of the 6 locations, mirroring the proven working pattern.
+
+### Proposals filed this run
+1. #5089 — SEO batch: mainEntityOfPage missing from Article schema on 6 pre-serialized route families (~608 pages)
+
+### Drum-chair watch
+Skipped — Saturday, not Monday.
+
+### Open proposals waiting on CEO triage
+- #5089 (filed this run, 0d old, file:line + node-verified counts, no duplicates)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers, not real proposals
+
+### Next run
+- Bank at 1 real + 3 umbrella — healthy, well under the 45 floor; no urgency to force volume next run.
+- Stopped at 1 finding (largest page-count batch filed today, ~608 pages) rather than padding to 8 — today's log now shows 19+ exhausted levers. Untried levers still worth trying next: fresh GSC top-query re-read (unchanged all day, may shift on next natural refresh), or a completeness check on `hasPart`/`ItemList` sub-nodes for the newer roster additions specifically (the 5 newest drummers haven't been spot-checked against every schema family individually, only the specific ones already swept).

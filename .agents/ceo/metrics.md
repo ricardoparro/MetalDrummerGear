@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-25 15:21 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-25 16:18 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -10,7 +10,7 @@
 | --- | --- |
 | Active users | 217 |
 | Sessions | 264 |
-| Page views | 471 |
+| Page views | 472 |
 | Engagement rate | 63.26% |
 | Avg session (s) | 103 |
 
@@ -31,7 +31,7 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 228 | 186 |
+| Organic Search | 229 | 187 |
 | Direct | 31 | 27 |
 | Unassigned | 14 | 12 |
 | AI Assistant | 1 | 1 |
@@ -39,24 +39,24 @@
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 4,782 |
-| Clicks | 146 |
-| CTR | 3.05% |
-| Avg position | 10.3 |
+| Impressions | 5,807 |
+| Clicks | 176 |
+| CTR | 3.03% |
+| Avg position | 10.4 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| john otto drum kit | 13 | 2 | 15.38% | 6.8 |
-| best death metal drummers | 4 | 1 | 25.00% | 7.0 |
-| best drummers of the 2000s | 1 | 1 | 100.00% | 5.0 |
+| john otto drum kit | 15 | 2 | 13.33% | 7.1 |
+| john otto drum set | 5 | 2 | 40.00% | 6.0 |
+| best death metal drummers | 6 | 1 | 16.67% | 5.7 |
+| best drummers of the 2000s | 2 | 1 | 50.00% | 7.5 |
 | best metal drummers | 12 | 1 | 8.33% | 16.5 |
+| brann dailor drum kit | 16 | 1 | 6.25% | 6.2 |
 | brann dailor kit | 2 | 1 | 50.00% | 5.5 |
 | danny carey drum kit setup | 4 | 1 | 25.00% | 6.3 |
-| eloy casagrande drum kit | 26 | 1 | 3.85% | 10.0 |
+| eloy casagrande drum kit | 32 | 1 | 3.13% | 10.0 |
 | famous left handed drummers | 4 | 1 | 25.00% | 29.0 |
-| gavin harrison drum setup | 3 | 1 | 33.33% | 13.0 |
-| jaska raatikainen drum set | 4 | 1 | 25.00% | 4.3 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 _no significant gaps detected — all queries with traction have decent CTR_

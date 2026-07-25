@@ -2412,6 +2412,236 @@ export const bands = {
       "https://en.wikipedia.org/wiki/Blake_Richardson_(drummer)"
     ],
   },
+  entheos: {
+    slug: "entheos",
+    name: "Entheos",
+    formed: 2015,
+    origin: "Santa Cruz, California, USA",
+    genres: ["technical-death-metal", "progressive-metal"],
+    status: "active",
+    metaTitle: "Entheos - Navene Koperweis Drummer Profile & Gear | MetalForge",
+    metaDescription: "Explore Entheos's technical death metal drumming with founding drummer Navene Koperweis.",
+    summary: "Entheos, formed in 2015 in Santa Cruz, California, is an American progressive/technical death metal band founded by drummer Navene Koperweis and vocalist Chaney Crabb.",
+    keywords: ["entheos", "navene koperweis", "chaney crabb", "technical death metal", "progressive metal", "drummer gear"],
+    members: [
+      { name: "Navene Koperweis", role: "drums, guitars, synth", period: "2015-present", notes: "Founding member; ex-Animosity, ex-Animals as Leaders; took on guitar/bass writing and recording duties as the band contracted to a duo in the late 2010s" },
+      { name: "Chaney Crabb", role: "lead vocals, lyrics", period: "2015-present", notes: "Co-founder" },
+      { name: "Michael Stancel", role: "guitar, backing vocals, synth", period: "2025-present", notes: "Also of Allegaeon; touring member since 2024" },
+      { name: "Scott Carstairs", role: "guitar, backing vocals", period: "2025-present", notes: "Also of Fallujah; touring member since 2024" }
+    ],
+    formerMembers: [
+      { name: "Evan Brewer", role: "bass", period: "2015-2019", notes: "Co-founder; ex-The Faceless; departed Jan 2019 for family reasons, later returned as a session-only bassist (2022-present) to rewrite bass on Time Will Take Us All (2023)" },
+      { name: "Frank Costa", role: "guitar", period: "2015", notes: "Co-founder; ex-Animosity; departed Nov 2, 2015" },
+      { name: "Malcolm Pugh", role: "lead guitar", period: "2015-2016", notes: "Replaced Costa; recorded The Infinite Nothing (2016)" },
+      { name: "Travis LeVrier", role: "guitar", period: "2016-2020", notes: "Ex-Scale the Summit; recorded Dark Future (2017); departed March 18, 2020, reducing the band to a recording duo" }
+    ],
+    drummerHistory: [
+      { drummer: "navene-koperweis", period: "2015-present", notes: "Founding member and only drummer in the band's history; has recorded every Entheos release" }
+    ],
+    discography: [
+      { title: "The Infinite Nothing", year: 2016, drummer: "navene-koperweis", notes: "Debut studio album" },
+      { title: "Dark Future", year: 2017, drummer: "navene-koperweis" },
+      { title: "Time Will Take Us All", year: 2023, drummer: "navene-koperweis", notes: "First release on Metal Blade Records" }
+    ],
+    relatedBands: ["animals-as-leaders"],
+    sameAs: [
+      "https://en.wikipedia.org/wiki/Entheos",
+      "https://www.wikidata.org/wiki/Q30594724",
+      "https://musicbrainz.org/artist/1f3ecbc5-21ca-4ce0-bed9-183fce1b03cf"
+    ],
+    faq: [
+      { q: "Who is the drummer for Entheos?", a: "Navene Koperweis, the band's founding member and only drummer since 2015. He also took on guitar and bass writing/recording duties after the band contracted to a two-piece core in the late 2010s." },
+      { q: "Where is Entheos from?", a: "Santa Cruz, California, USA, where the band formed in 2015." },
+      { q: "Is Entheos still active?", a: "Yes. The band released Time Will Take Us All in 2023 and continues to tour and record." },
+      { q: "What other bands is Navene Koperweis known for?", a: "Before Entheos, he drummed for Animals as Leaders (2012-2014) and Animosity, and has served as a session/touring drummer for Job for a Cowboy and Machine Head." }
+    ],
+    sources: [
+      "https://en.wikipedia.org/wiki/Entheos",
+      "https://www.metalblade.com/us/artists/entheos/",
+      "https://www.discogs.com/release/8338524-Entheos-The-Infinite-Nothing",
+      "https://www.discogs.com/release/26342162-Entheos-Time-Will-Take-Us-All",
+      "https://www.notreble.com/buzz/2019/01/20/evan-brewer-leaves-entheos/"
+    ],
+  },
+  "fear-factory": {
+    slug: "fear-factory",
+    name: "Fear Factory",
+    formed: 1990,
+    origin: "Los Angeles, California, USA",
+    genres: ["industrial-metal", "groove-metal"],
+    status: "active",
+    metaTitle: "Fear Factory - Raymond Herrera Drummer History & Gear | MetalForge",
+    metaDescription: "Explore Fear Factory's industrial metal drumming legacy, from founding drummer Raymond Herrera's stop-go technique to the band's current lineup.",
+    summary: "Fear Factory, formed in Los Angeles in 1990, pioneered a mechanically precise industrial metal sound built around Raymond Herrera's innovative 'stop-go' double bass drumming.",
+    keywords: ["fear factory", "raymond herrera", "mike heller", "industrial metal", "groove metal", "drummer gear"],
+    members: [
+      { name: "Dino Cazares", role: "guitar, backing vocals, studio bass", period: "1989-2002, 2009-present", notes: "Founding member; sole remaining original member; holds full trademark ownership of the band name" },
+      { name: "Tony Campos", role: "bass, backing vocals", period: "2015-present", notes: "Also known for Static-X and Prong" },
+      { name: "Milo Silvestro", role: "lead vocals", period: "2023-present", notes: "Chosen after auditioning over 300 candidates to succeed Burton C. Bell" },
+      { name: "Pete Webber", role: "drums", period: "2023-present", notes: "Also of Havok; joined touring Feb 2023 after Mike Heller had scheduling conflicts, confirmed full-time by mid-2023" }
+    ],
+    formerMembers: [
+      { name: "Burton C. Bell", role: "lead vocals", period: "1989-2002, 2003-2006, 2009-2020", notes: "Founding vocalist; departed Sept 2020 after losing a trademark-rights lawsuit to Cazares" },
+      { name: "Raymond Herrera", role: "drums", period: "1989/1990-2006", notes: "Founding drummer; see drummerHistory" },
+      { name: "Christian Olde Wolbers", role: "bass, guitar, backing vocals", period: "1994-2006", notes: "Co-litigant with Herrera in the later band-name trademark dispute" },
+      { name: "Byron Stroud", role: "bass", period: "2003-2006, 2009-2012", notes: "" },
+      { name: "Gene Hoglan", role: "drums", period: "2009-2012", notes: "See drummerHistory" },
+      { name: "Mike Heller", role: "drums", period: "2012-2023", notes: "See drummerHistory" }
+    ],
+    drummerHistory: [
+      { drummer: "raymond-herrera", period: "1989/1990-2006", notes: "Founding drummer; recorded six studio albums from Soul of a New Machine (1992) through Transgression (2005) with his signature 'stop-go' double bass technique" },
+      { drummer: "gene-hoglan", period: "2009-2012", notes: "Recorded Mechanize (2010), his only Fear Factory studio album; not used on The Industrialist (2012) and left after learning the album had been completed with programmed drums instead" },
+      { drummer: "mike-heller", period: "2012-2023", notes: "Joined as touring drummer in April 2012; recorded Genexus (2015) and Aggression Continuum (2021)" },
+      { drummer: "pete-webber", period: "2023-present", notes: "Also of Havok; recording on the band's forthcoming 11th studio album, unreleased as of mid-2026" }
+    ],
+    discography: [
+      { title: "Soul of a New Machine", year: 1992, drummer: "raymond-herrera", notes: "Debut album" },
+      { title: "Demanufacture", year: 1995, drummer: "raymond-herrera" },
+      { title: "Obsolete", year: 1998, drummer: "raymond-herrera" },
+      { title: "Digimortal", year: 2001, drummer: "raymond-herrera" },
+      { title: "Archetype", year: 2004, drummer: "raymond-herrera" },
+      { title: "Transgression", year: 2005, drummer: "raymond-herrera", notes: "Herrera's last album with the band before his 2006 departure" },
+      { title: "Mechanize", year: 2010, drummer: "gene-hoglan" },
+      { title: "The Industrialist", year: 2012, notes: "No live drummer; all drum parts were programmed by Dino Cazares and John Sankey (of Devolved)" },
+      { title: "Genexus", year: 2015, drummer: "mike-heller", notes: "Heller's studio debut with the band, marking a deliberate return to live drums; guest drummer Deen Castronovo (Journey) appears on track 4" },
+      { title: "Aggression Continuum", year: 2021, drummer: "mike-heller" }
+    ],
+    relatedBands: [],
+    sameAs: [
+      "https://en.wikipedia.org/wiki/Fear_Factory",
+      "https://www.wikidata.org/wiki/Q128010",
+      "https://musicbrainz.org/artist/c17f08f4-2542-46fb-97f3-3202d60c225a"
+    ],
+    faq: [
+      { q: "Who is the drummer for Fear Factory?", a: "Pete Webber (also of Havok) has been the band's drummer since 2023, joining as a touring fill-in for Mike Heller before being confirmed full-time." },
+      { q: "Did Raymond Herrera drum on every classic-era Fear Factory album?", a: "Yes. Founding drummer Raymond Herrera recorded all six studio albums from Soul of a New Machine (1992) through Transgression (2005) before departing in 2006." },
+      { q: "Why doesn't The Industrialist (2012) have a drummer credit?", a: "No live drummer was used on that album; guitarist Dino Cazares and John Sankey programmed all the drum parts. The band's touring drummer at the time, Gene Hoglan, was not involved and left the band after learning about it." },
+      { q: "Is Burton C. Bell still Fear Factory's singer?", a: "No. Bell departed in September 2020 after losing a lawsuit over rights to the band name; Dino Cazares, the sole remaining original member, retained the trademark and the band continues with Milo Silvestro on vocals." }
+    ],
+    sources: [
+      "https://en.wikipedia.org/wiki/Fear_Factory",
+      "https://en.wikipedia.org/wiki/Fear_Factory_discography",
+      "https://en.wikipedia.org/wiki/The_Industrialist",
+      "https://en.wikipedia.org/wiki/Genexus_(album)",
+      "https://blabbermouth.net/news/fear-factory-recruits-havok-drummer-pete-webber-for-u-s-tour"
+    ],
+  },
+  godsmack: {
+    slug: "godsmack",
+    name: "Godsmack",
+    formed: 1995,
+    origin: "Lawrence, Massachusetts, USA",
+    genres: ["alternative-metal", "hard-rock", "post-grunge"],
+    status: "active",
+    metaTitle: "Godsmack - Shannon Larkin Drummer History & Gear | MetalForge",
+    metaDescription: "Explore Godsmack's drumming legacy, from founding drummer Tommy Stewart to longtime drummer Shannon Larkin's two-decade run.",
+    summary: "Godsmack, formed in 1995 in Lawrence, Massachusetts, is an alternative metal band fronted by Sully Erna, whose sound was defined for two decades by drummer Shannon Larkin's hard-hitting groove.",
+    keywords: ["godsmack", "shannon larkin", "tommy stewart", "sully erna", "alternative metal", "drummer gear"],
+    members: [
+      { name: "Sully Erna", role: "lead vocals, rhythm guitar, keyboards", period: "1995-present", notes: "Founder" },
+      { name: "Robbie Merrill", role: "bass", period: "1995-present", notes: "Founding member" }
+    ],
+    formerMembers: [
+      { name: "Tommy Stewart", role: "drums, backing vocals", period: "1995-1997, 1998-2002", notes: "Founding drummer; see drummerHistory" },
+      { name: "Lee Richards", role: "lead guitar", period: "1995-1996", notes: "" },
+      { name: "Joe D'Arco", role: "drums", period: "1997-1998", notes: "Interim drummer between Stewart's two stints; died Nov 30, 2024" },
+      { name: "Tony Rombola", role: "lead guitar, backing vocals", period: "1996-2024", notes: "Retired alongside Larkin in 2024" },
+      { name: "Shannon Larkin", role: "drums, percussion, backing vocals", period: "2002-2024", notes: "See drummerHistory; the band's longest-serving drummer" }
+    ],
+    drummerHistory: [
+      { drummer: "tommy-stewart", period: "1995-1997, 1998-2002", notes: "Founding drummer of the group that became Godsmack; recorded Godsmack (1998) and Awake (2000), his final album with the band" },
+      { drummer: "joe-d-arco", period: "1997-1998", notes: "Interim drummer while Stewart was out; no studio album recorded during this tenure" },
+      { drummer: "shannon-larkin", period: "2002-2024", notes: "Joined June 2002, replacing Stewart; recorded every studio album from Faceless (2003) through Lighting Up the Sky (2023); announced his retirement from the band in 2024" }
+    ],
+    discography: [
+      { title: "Godsmack", year: 1998, drummer: "tommy-stewart", notes: "Self-titled debut" },
+      { title: "Awake", year: 2000, drummer: "tommy-stewart", notes: "Stewart's final album with the band" },
+      { title: "Faceless", year: 2003, drummer: "shannon-larkin", notes: "Larkin's debut with the band" },
+      { title: "IV", year: 2006, drummer: "shannon-larkin" },
+      { title: "The Oracle", year: 2010, drummer: "shannon-larkin" },
+      { title: "1000hp", year: 2014, drummer: "shannon-larkin" },
+      { title: "When Legends Rise", year: 2018, drummer: "shannon-larkin" },
+      { title: "Lighting Up the Sky", year: 2023, drummer: "shannon-larkin", notes: "Larkin's final studio album with the band" }
+    ],
+    relatedBands: [],
+    sameAs: [
+      "https://en.wikipedia.org/wiki/Godsmack",
+      "https://www.wikidata.org/wiki/Q207306",
+      "https://musicbrainz.org/artist/ac2d1c91-3667-46aa-9fe7-170ca7fce9e2"
+    ],
+    faq: [
+      { q: "Who is the drummer for Godsmack?", a: "Shannon Larkin drummed for Godsmack from 2002 until his retirement in 2024, the band's longest-serving drummer. As of mid-2026 the band has cycled through several touring drummers since his departure with no permanent replacement confirmed, so no successor is credited here yet." },
+      { q: "Did Godsmack have a drummer before Shannon Larkin?", a: "Yes. Founding drummer Tommy Stewart played on the band's first two albums, Godsmack (1998) and Awake (2000), with Joe D'Arco filling in briefly between two of Stewart's stints." },
+      { q: "Where is Godsmack from?", a: "Lawrence, Massachusetts, USA, where the band formed in 1995." },
+      { q: "Is Godsmack still active?", a: "Yes, the band continues to tour, though the drum and guitar chairs have been in flux since longtime members Shannon Larkin and Tony Rombola both departed in 2024." }
+    ],
+    sources: [
+      "https://en.wikipedia.org/wiki/Godsmack",
+      "https://en.wikipedia.org/wiki/Shannon_Larkin",
+      "https://en.wikipedia.org/wiki/Tommy_Stewart",
+      "https://loudwire.com/godsmack-members-quit-band-statement/",
+      "https://blabbermouth.net/news/shannon-larkin-says-he-and-tony-rombola-quit-godsmack-last-year"
+    ],
+  },
+  "hate-eternal": {
+    slug: "hate-eternal",
+    name: "Hate Eternal",
+    formed: 1997,
+    origin: "St. Petersburg, Florida, USA",
+    genres: ["death-metal"],
+    status: "hiatus",
+    metaTitle: "Hate Eternal - Derek Roddy Drummer History & Gear | MetalForge",
+    metaDescription: "Explore Hate Eternal's death metal drumming legacy, from founding drummer Tim Yeung through Derek Roddy, Jade Simonetto, and beyond.",
+    summary: "Hate Eternal, formed in 1997 in St. Petersburg, Florida, by guitarist/vocalist Erik Rutan (ex-Morbid Angel), is a death metal band known for its relentless blast-beat drumming across a series of technically demanding drummers.",
+    keywords: ["hate eternal", "derek roddy", "erik rutan", "tim yeung", "death metal", "drummer gear"],
+    members: [
+      { name: "Erik Rutan", role: "lead guitar, lead vocals", period: "1997-present", notes: "Founder; ex-Morbid Angel, ex-Ripping Corpse; also an official member of Cannibal Corpse since 2021" },
+      { name: "J.J. Hrubovcak", role: "bass, backing vocals", period: "2008-present", notes: "" }
+    ],
+    formerMembers: [
+      { name: "Doug Cerrito", role: "rhythm guitar", period: "1999-2000", notes: "" },
+      { name: "Jared Anderson", role: "bass, backing vocals", period: "1998-2003", notes: "Died 2006" },
+      { name: "Eric Hersemann", role: "rhythm guitar", period: "2005-2006", notes: "" },
+      { name: "Randy Piro", role: "bass, backing vocals", period: "2003-2007", notes: "" },
+      { name: "Shaune Kelley", role: "rhythm guitar, backing vocals", period: "2007-2009", notes: "" }
+    ],
+    drummerHistory: [
+      { drummer: "tim-yeung", period: "1997-2000", notes: "Founding drummer; recorded Conquering the Throne (1999). Derek Roddy replaced him in 2000 and only toured on that album" },
+      { drummer: "derek-roddy", period: "2000-2006", notes: "Recorded King of All Kings (2002) and I, Monarch (2005); a single continuous stint, not two separate ones despite the timeline overlap with the debut album's touring cycle" },
+      { drummer: "jade-simonetto", period: "2007-2013", notes: "Confirmed as permanent member July 2007; recorded Fury & Flames (2008) and Phoenix Amongst the Ashes (2011)" },
+      { drummer: "chason-westmoreland", period: "2014-2015", notes: "Recorded Infernus (2015), his only album with the band" },
+      { drummer: "hannes-grossmann", period: "2015-2018", notes: "Ex-Obscura; initially recruited as a touring fill-in, stayed on to record Upon Desolate Sands (2018)" },
+      { drummer: "john-longstreth", period: "2018-present", notes: "Also of Origin; Wikipedia lists him as a touring/live member rather than an official member. No studio album has been recorded during his tenure; the band's current activity level is unconfirmed" }
+    ],
+    discography: [
+      { title: "Conquering the Throne", year: 1999, drummer: "tim-yeung", notes: "Debut album" },
+      { title: "King of All Kings", year: 2002, drummer: "derek-roddy" },
+      { title: "I, Monarch", year: 2005, drummer: "derek-roddy" },
+      { title: "Fury & Flames", year: 2008, drummer: "jade-simonetto" },
+      { title: "Phoenix Amongst the Ashes", year: 2011, drummer: "jade-simonetto" },
+      { title: "Infernus", year: 2015, drummer: "chason-westmoreland" },
+      { title: "Upon Desolate Sands", year: 2018, drummer: "hannes-grossmann", notes: "Most recent studio album as of mid-2026" }
+    ],
+    relatedBands: ["morbid-angel", "nile"],
+    sameAs: [
+      "https://en.wikipedia.org/wiki/Hate_Eternal",
+      "https://www.wikidata.org/wiki/Q943934",
+      "https://musicbrainz.org/artist/5c9e111d-579e-4eb3-a6e4-51e223635ee0"
+    ],
+    faq: [
+      { q: "Who is the drummer for Hate Eternal?", a: "John Longstreth (also of Origin) has served as the band's touring/live drummer since 2018, but is not classified as an official member and no studio album has been recorded during his tenure." },
+      { q: "Did Derek Roddy drum on Hate Eternal's debut album?", a: "No, this is a common misconception. Conquering the Throne (1999) was recorded by founding drummer Tim Yeung. Roddy joined in 2000, after the album was already out, and only toured on that material before recording King of All Kings (2002) and I, Monarch (2005)." },
+      { q: "Who founded Hate Eternal?", a: "Guitarist and vocalist Erik Rutan, formerly of Morbid Angel, founded the band in St. Petersburg, Florida in 1997." },
+      { q: "Is Hate Eternal still active?", a: "The band has not released a new studio album since Upon Desolate Sands (2018) or played a confirmed live show since around 2019, so its current activity level is unclear." }
+    ],
+    sources: [
+      "https://en.wikipedia.org/wiki/Hate_Eternal",
+      "https://www.season-of-mist.com/bands/hate-eternal/",
+      "https://www.discogs.com/release/385401-Hate-Eternal-King-Of-All-Kings",
+      "https://www.discogs.com/release/12721369-Hate-Eternal-Upon-Desolate-Sands",
+      "https://blabbermouth.net/news/erik-rutan-will-continue-with-hate-eternal-despite-joining-cannibal-corpse-as-an-official-member"
+    ],
+  },
 };
 export function getBand(slug) { return bands[slug] || null; }
 export function getAllBandSlugs() { return Object.keys(bands); }

@@ -3,7 +3,7 @@
 > Structured reference for metal bands, their drummer history, discography, and gear.
 > Optimised for AI crawlers answering "who drums for <band>" queries.
 >
-> Last updated: 2026-07-25 · 41 bands
+> Last updated: 2026-07-25 · 45 bands
 
 ---
 ## Amon Amarth
@@ -371,6 +371,74 @@ Dream Theater, formed in 1985, defined progressive metal with virtuosic musician
 
 ---
 
+## Entheos
+
+**Genre:** Technical Death Metal, Progressive Metal · **Status:** Active · **Formed:** 2015 · **Origin:** Santa Cruz, California, USA
+
+Entheos, formed in 2015 in Santa Cruz, California, is an American progressive/technical death metal band founded by drummer Navene Koperweis and vocalist Chaney Crabb.
+
+**Drummer history:**
+- Navene Koperweis — 2015-present (Founding member and only drummer in the band's history; has recorded every Entheos release)
+
+**Key releases:** The Infinite Nothing (2016), Dark Future (2017), Time Will Take Us All (2023)
+
+**FAQ:**
+- **Who is the drummer for Entheos?** Navene Koperweis, the band's founding member and only drummer since 2015. He also took on guitar and bass writing/recording duties after the band contracted to a two-piece core in the late 2010s.
+- **Where is Entheos from?** Santa Cruz, California, USA, where the band formed in 2015.
+- **Is Entheos still active?** Yes. The band released Time Will Take Us All in 2023 and continues to tour and record.
+- **What other bands is Navene Koperweis known for?** Before Entheos, he drummed for Animals as Leaders (2012-2014) and Animosity, and has served as a session/touring drummer for Job for a Cowboy and Machine Head.
+
+[Full profile](https://metalforge.io/bands/entheos)
+
+---
+
+## Fear Factory
+
+**Genre:** Industrial Metal, Groove Metal · **Status:** Active · **Formed:** 1990 · **Origin:** Los Angeles, California, USA
+
+Fear Factory, formed in Los Angeles in 1990, pioneered a mechanically precise industrial metal sound built around Raymond Herrera's innovative 'stop-go' double bass drumming.
+
+**Drummer history:**
+- Raymond Herrera — 1989/1990-2006 (Founding drummer; recorded six studio albums from Soul of a New Machine (1992) through Transgression (2005) with his signature 'stop-go' double bass technique)
+- Gene Hoglan — 2009-2012 (Recorded Mechanize (2010), his only Fear Factory studio album; not used on The Industrialist (2012) and left after learning the album had been completed with programmed drums instead)
+- Mike Heller — 2012-2023 (Joined as touring drummer in April 2012; recorded Genexus (2015) and Aggression Continuum (2021))
+- Pete Webber — 2023-present (Also of Havok; recording on the band's forthcoming 11th studio album, unreleased as of mid-2026)
+
+**Key releases:** Soul of a New Machine (1992), Demanufacture (1995), Obsolete (1998), Digimortal (2001), Archetype (2004), Transgression (2005), Mechanize (2010), The Industrialist (2012), Genexus (2015), Aggression Continuum (2021)
+
+**FAQ:**
+- **Who is the drummer for Fear Factory?** Pete Webber (also of Havok) has been the band's drummer since 2023, joining as a touring fill-in for Mike Heller before being confirmed full-time.
+- **Did Raymond Herrera drum on every classic-era Fear Factory album?** Yes. Founding drummer Raymond Herrera recorded all six studio albums from Soul of a New Machine (1992) through Transgression (2005) before departing in 2006.
+- **Why doesn't The Industrialist (2012) have a drummer credit?** No live drummer was used on that album; guitarist Dino Cazares and John Sankey programmed all the drum parts. The band's touring drummer at the time, Gene Hoglan, was not involved and left the band after learning about it.
+- **Is Burton C. Bell still Fear Factory's singer?** No. Bell departed in September 2020 after losing a lawsuit over rights to the band name; Dino Cazares, the sole remaining original member, retained the trademark and the band continues with Milo Silvestro on vocals.
+
+[Full profile](https://metalforge.io/bands/fear-factory)
+
+---
+
+## Godsmack
+
+**Genre:** Alternative Metal, Hard Rock, Post Grunge · **Status:** Active · **Formed:** 1995 · **Origin:** Lawrence, Massachusetts, USA
+
+Godsmack, formed in 1995 in Lawrence, Massachusetts, is an alternative metal band fronted by Sully Erna, whose sound was defined for two decades by drummer Shannon Larkin's hard-hitting groove.
+
+**Drummer history:**
+- Tommy Stewart — 1995-1997, 1998-2002 (Founding drummer of the group that became Godsmack; recorded Godsmack (1998) and Awake (2000), his final album with the band)
+- Joe D Arco — 1997-1998 (Interim drummer while Stewart was out; no studio album recorded during this tenure)
+- Shannon Larkin — 2002-2024 (Joined June 2002, replacing Stewart; recorded every studio album from Faceless (2003) through Lighting Up the Sky (2023); announced his retirement from the band in 2024)
+
+**Key releases:** Godsmack (1998), Awake (2000), Faceless (2003), IV (2006), The Oracle (2010), 1000hp (2014), When Legends Rise (2018), Lighting Up the Sky (2023)
+
+**FAQ:**
+- **Who is the drummer for Godsmack?** Shannon Larkin drummed for Godsmack from 2002 until his retirement in 2024, the band's longest-serving drummer. As of mid-2026 the band has cycled through several touring drummers since his departure with no permanent replacement confirmed, so no successor is credited here yet.
+- **Did Godsmack have a drummer before Shannon Larkin?** Yes. Founding drummer Tommy Stewart played on the band's first two albums, Godsmack (1998) and Awake (2000), with Joe D'Arco filling in briefly between two of Stewart's stints.
+- **Where is Godsmack from?** Lawrence, Massachusetts, USA, where the band formed in 1995.
+- **Is Godsmack still active?** Yes, the band continues to tour, though the drum and guitar chairs have been in flux since longtime members Shannon Larkin and Tony Rombola both departed in 2024.
+
+[Full profile](https://metalforge.io/bands/godsmack)
+
+---
+
 ## Gojira
 
 **Genre:** Progressive Death Metal, Groove Metal, Technical Metal · **Status:** Active · **Formed:** 1996 · **Origin:** Bayonne, France
@@ -393,6 +461,32 @@ Gojira is a French progressive/technical death metal band formed in 1996 in Bayo
 - **Has Gojira's lineup always been the same?** The current four-piece lineup (Joe Duplantier, Mario Duplantier, Christian Andreu, Jean-Michel Labadie) has been stable since 1998, when bassist Jean-Michel Labadie replaced original bassist Alexandre Cornillon.
 
 [Full profile](https://metalforge.io/bands/gojira)
+
+---
+
+## Hate Eternal
+
+**Genre:** Death Metal · **Status:** Hiatus · **Formed:** 1997 · **Origin:** St. Petersburg, Florida, USA
+
+Hate Eternal, formed in 1997 in St. Petersburg, Florida, by guitarist/vocalist Erik Rutan (ex-Morbid Angel), is a death metal band known for its relentless blast-beat drumming across a series of technically demanding drummers.
+
+**Drummer history:**
+- Tim Yeung — 1997-2000 (Founding drummer; recorded Conquering the Throne (1999). Derek Roddy replaced him in 2000 and only toured on that album)
+- Derek Roddy — 2000-2006 (Recorded King of All Kings (2002) and I, Monarch (2005); a single continuous stint, not two separate ones despite the timeline overlap with the debut album's touring cycle)
+- Jade Simonetto — 2007-2013 (Confirmed as permanent member July 2007; recorded Fury & Flames (2008) and Phoenix Amongst the Ashes (2011))
+- Chason Westmoreland — 2014-2015 (Recorded Infernus (2015), his only album with the band)
+- Hannes Grossmann — 2015-2018 (Ex-Obscura; initially recruited as a touring fill-in, stayed on to record Upon Desolate Sands (2018))
+- John Longstreth — 2018-present (Also of Origin; Wikipedia lists him as a touring/live member rather than an official member. No studio album has been recorded during his tenure; the band's current activity level is unconfirmed)
+
+**Key releases:** Conquering the Throne (1999), King of All Kings (2002), I, Monarch (2005), Fury & Flames (2008), Phoenix Amongst the Ashes (2011), Infernus (2015), Upon Desolate Sands (2018)
+
+**FAQ:**
+- **Who is the drummer for Hate Eternal?** John Longstreth (also of Origin) has served as the band's touring/live drummer since 2018, but is not classified as an official member and no studio album has been recorded during his tenure.
+- **Did Derek Roddy drum on Hate Eternal's debut album?** No, this is a common misconception. Conquering the Throne (1999) was recorded by founding drummer Tim Yeung. Roddy joined in 2000, after the album was already out, and only toured on that material before recording King of All Kings (2002) and I, Monarch (2005).
+- **Who founded Hate Eternal?** Guitarist and vocalist Erik Rutan, formerly of Morbid Angel, founded the band in St. Petersburg, Florida in 1997.
+- **Is Hate Eternal still active?** The band has not released a new studio album since Upon Desolate Sands (2018) or played a confirmed live show since around 2019, so its current activity level is unclear.
+
+[Full profile](https://metalforge.io/bands/hate-eternal)
 
 ---
 

@@ -9,6 +9,18 @@ const path = require('path');
 
 const GA_ID = 'G-HKLHH1DCC7';
 
+// Issue #5036: live drummer-roster count for the critical-hero HTML below,
+// so it self-corrects on every future roster change instead of drifting from
+// a hand-typed literal (was "60" since #752, roster is now 72).
+const drummersPath = path.join(__dirname, '../../../api/drummers/index.js');
+const drummersContent = fs.readFileSync(drummersPath, 'utf-8');
+const drummersArrayMatch = drummersContent.match(/const drummers = (\[[\s\S]*?\]);[\s\S]*?export default function handler/);
+if (!drummersArrayMatch) {
+  console.error('❌ Could not extract drummers array from api/drummers/index.js');
+  process.exit(1);
+}
+const DRUMMER_COUNT = eval(drummersArrayMatch[1]).length;
+
 // Performance hints - preconnect and dns-prefetch for faster loading (Issue #535)
 const perfHints = `
     <!-- Performance Hints (Issue #535) -->
@@ -79,7 +91,7 @@ const criticalHeroHTML = `
         <div style="position:relative;padding:48px 20px 32px;display:flex;flex-direction:column;align-items:center;text-align:center;background:radial-gradient(ellipse at 50% 0%,rgba(220,38,38,0.08) 0%,transparent 60%)">
           <div style="font-size:48px;margin-bottom:8px">🥁</div>
           <h1 style="font-size:28px;font-weight:700;color:#fff;margin:0 0 12px;line-height:1.3">Discover what pro metal<br/>drummers actually use</h1>
-          <p style="font-size:14px;color:#a1a1aa;margin:0">60 drummers • 500+ gear items • Verified setups</p>
+          <p style="font-size:14px;color:#a1a1aa;margin:0">${DRUMMER_COUNT} drummers • 500+ gear items • Verified setups</p>
         </div>
         <div style="display:flex;gap:12px;padding:0 16px;margin-bottom:12px">
           <div style="flex:1;height:44px;border-radius:8px;background:#141414"></div>

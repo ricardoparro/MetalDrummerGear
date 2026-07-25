@@ -2434,7 +2434,7 @@ export function getMetaForPath(pathname) {
         return {
           title: `${album.title} | ${SITE_NAME}`,
           description: truncate(album.description, 160),
-          image: album.ogImage || DEFAULT_IMAGE,
+          image: album.ogImage ? `${BASE_URL}${album.ogImage}` : DEFAULT_IMAGE,
           type: 'article',
           url: `${BASE_URL}/articles/${articleSlug}`,
           articleSchema: howToSchema,
@@ -2452,7 +2452,7 @@ export function getMetaForPath(pathname) {
       return {
         title: `${album.title} | ${SITE_NAME}`,
         description: truncate(album.description, 160),
-        image: album.ogImage || DEFAULT_IMAGE,
+        image: album.ogImage ? `${BASE_URL}${album.ogImage}` : DEFAULT_IMAGE,
         type: 'article',
         url: `${BASE_URL}/articles/${articleSlug}`,
         articleSchema: {
@@ -2461,7 +2461,7 @@ export function getMetaForPath(pathname) {
           author: album.author || 'MetalForge Editorial',
           datePublished: album.datePublished,
           dateModified: album.dateModified || album.datePublished,
-          image: album.ogImage || DEFAULT_IMAGE,
+          image: album.ogImage ? `${BASE_URL}${album.ogImage}` : DEFAULT_IMAGE,
           articleSection: album.genre ? `${album.genre} Drumming` : 'Drummer Gear',
           keywords,
           about: (() => {
@@ -2529,7 +2529,7 @@ export function getMetaForPath(pathname) {
       return {
         title: `${top10Article.title} | ${SITE_NAME}`,
         description: top10Article.seoDescription || top10Article.description,
-        image: top10Article.ogImage || DEFAULT_IMAGE,
+        image: top10Article.ogImage ? `${BASE_URL}${top10Article.ogImage}` : DEFAULT_IMAGE,
         type: 'article',
         url: `${BASE_URL}/articles/${articleSlug}`,
         // Issue #4373: OG article: tags — generateMetaHtml only reads these off
@@ -2547,7 +2547,7 @@ export function getMetaForPath(pathname) {
               '@type': 'Article',
               headline: top10Article.title,
               description: top10Article.seoDescription || top10Article.description,
-              image: top10Article.ogImage || DEFAULT_IMAGE,
+              image: top10Article.ogImage ? `${BASE_URL}${top10Article.ogImage}` : DEFAULT_IMAGE,
               datePublished: top10ArticleDatePublished,
               dateModified: top10ArticleDateModified,
               author: { '@type': 'Organization', name: top10Article.author || 'MetalForge', url: BASE_URL },
@@ -3844,7 +3844,7 @@ export function getMetaForPath(pathname) {
               '@type': 'Article',
               headline: list.title,
               description: list.seoDescription || list.description,
-              image: list.ogImage || DEFAULT_IMAGE,
+              image: list.ogImage ? `${BASE_URL}${list.ogImage}` : DEFAULT_IMAGE,
               datePublished: listDatePublished,
               dateModified: listDateModified,
               author: { '@type': 'Organization', name: list.author || 'MetalForge', url: BASE_URL },

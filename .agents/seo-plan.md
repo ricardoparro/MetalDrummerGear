@@ -2665,3 +2665,33 @@ Skipped — Saturday, not Monday.
 - Bank at 3 real + 3 umbrella — healthy, well under the 45 floor; no urgency to force volume next run.
 - Confirm #5038's Edge Middleware fix holds on the next live-curl spot check (cache-busted, checking `x-meta-handler` + 2 JSON-LD blocks) — 3-strikes pattern means don't assume it's closed for good without one more verification pass.
 - If the bank stays thin, next run should try yet another fresh lever (alt-text coverage, heading hierarchy, canonical-tag spot check across newer route families — all still untried per the 03:xx run's own flag) rather than a repeat of today's methods.
+
+---
+## 2026-07-25 (Saturday, 2-hourly run, 06:46 UTC) — Bank at 3 real, 2 dead-end levers then 1 solid new find via manual meta-audit (bank 3→4)
+
+### Context
+Bank check: 6 open `seo-proposal` at run start — 3 real untriaged (#5039, #5060, #5061) + 3 standing L1/L2/L3 umbrellas. Well under the 45 floor → cleared to file up to 8 net-new. Metrics (06:45 UTC refresh): 212 users/256 sessions/456 views 7d, organic 216/256 (84.4%). GSC 4,782 impr/146 clicks/3.05% CTR/pos 10.3. No content-gap rows (impr≥50 & CTR<2%). `ai-fix` backlog: 13, healthy. Saturday — drum-chair watch skipped (not Monday).
+
+### Audit
+robots.txt (`api/robots.js`): 8/8 AI crawlers explicitly allowed, confirmed via direct grep. `public/llms/drummers/*.md`: 72 files, matches live 72-drummer roster. `public/llms/*.md` total: 1,990 files. Sitemap: 3,168 `<loc>` entries (up from 3,138). Confirmed #5038 (homepage bot meta-shell, 3rd-occurrence regression) still holding via live curl.
+
+### Gap hunt — two dead-end levers ruled out cleanly, then a 3rd (manual) lever found a real bug
+1. **Delegated agent pass on alt-text / canonical-tags / heading-hierarchy** (the exact levers flagged untried by the 05:03 run) — came back clean. Alt text all routes through a shared `ImageWithFallback` component with real `accessibilityLabel`s; canonical tags correct on all 5 newest roster drummers + newer route families; heading hierarchy clean in the bot-shell (server-rendered scope only). No padding — reported honestly as a clean pass rather than manufacturing findings.
+2. **My own manual meta-description-length spot check** across 6 page types surfaced what looked like a broken `/technique/blast-beats` route (generic fallback description, stale "50+" count) — but this was **my own test error**: the real technique slug is `blast-beat` (singular) not `blast-beats`, and the real live route is plural `/techniques/<slug>` not singular `/technique/<slug>` (already fixed once under #4771 — the comment at `api/meta/[...path].js:1629` explains why). Re-tested with the correct slug/route and both `/techniques/blast-beat` and `/technique/blast-beat/drummers` render correct technique-specific descriptions. Caught and discarded before filing — not a real gap.
+3. **Same meta-description spot check found a real, verified bug**: `/articles/arise-drum-setup` (and by extension all album-article and top10-list pages) serves a **relative** `og:image`/`twitter:image` URL (`/images/albums/arise-drums.webp` instead of an absolute `https://metalforge.io/...` URL) — invalid per the OG/Twitter Card spec, breaks social-share preview cards. Traced root cause by grepping all 12 `.ogImage` usages in `api/meta/[...path].js` and classifying each: 6 already correctly prefix `${BASE_URL}` or source an already-absolute URL (verified `SIGNATURE_GEAR[...].seo.ogImage` entries are all full `https://` URLs already), the other 6 (lines 2437/2455/2464/2532/2550/3847) are not. This is the exact bug class already fixed once for 5 *other* route families under **#4698** (closed) — confirmed via `gh issue view 4698` that album articles (71 files, `packages/frontend/data/albumArticles/*.js`) and the 12 `TOP_10_LISTS` article/list entries were never in that sweep's scope, so this is a genuine gap-fill, not a duplicate. Filed **#5062** with the exact same proven fix pattern, zero fabrication risk (relative paths already correct, just need the `${BASE_URL}` prefix).
+
+### Proposals filed this run
+1. #5062 — SEO batch: og:image/twitter:image + JSON-LD image serve relative URLs on album+top10 articles (~83 pages)
+
+### Drum-chair watch
+Skipped — Saturday, not Monday.
+
+### Open proposals waiting on CEO triage
+- #5039, #5060, #5061 (from earlier runs today, still untriaged)
+- #5062 (filed this run, 0d old, grep-classified + live-curl verified, cross-checked against #4698 for non-overlap)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers, not real proposals
+
+### Next run
+- Bank at 4 real + 3 umbrella — healthy, well under the 45 floor; no urgency to force volume next run.
+- The alt-text/canonical/heading-hierarchy lever is now exhausted (clean on first real pass) — don't re-run it without a specific new trigger (e.g. a fresh route family shipping).
+- If the bank stays thin, try: og:type correctness across page families (article vs website), twitter:card type declaration, or a fresh GSC top-query re-read — all untried this week.

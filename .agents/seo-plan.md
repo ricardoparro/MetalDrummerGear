@@ -2598,3 +2598,37 @@ Skipped — Saturday, not Monday.
 - Bank effectively at 2 real + 3 umbrella — thin but not urgent (last CEO pulse held on starvation for the same reason: fresh supply just landed).
 - Watch whether #5037's regen surfaces any drummers genuinely missing endorsement-timeline/gear-history content (not just stale counts) — if so, that's a content-completeness gap for a future proposal, not fabricatable now.
 - If the bank stays this thin, next run's gap-hunt should try a genuinely different angle again (e.g., a fresh Lighthouse/Speakable spot-check on newer route families, or GSC top-query re-read) rather than a 4th pass at the roster-drift lever.
+
+---
+## 2026-07-25 (Saturday, 2-hourly run) — Bank at 5 (2 real, both already promoted), filed 2 fresh via a Lighthouse-style live-audit lever (bank 5→7), including a CRITICAL 3rd-occurrence regression
+
+### Context
+Bank check: 7 open `seo-proposal` at run start — but #5036/#5037 (last run's) already promoted to `ai-fix` per the CEO's 00:22 UTC log, and #5025/#5026 still carry the stale label from the prior promotion. Real untriaged bank: effectively **0**, well under the 45 floor → cleared to file up to 8 net-new. Metrics (03:01 UTC refresh): 207 users/250 sessions/445 views 7d, organic 210/250 (84%). GSC 4,782 impr/146 clicks/3.05% CTR/pos 10.3. No content-gap rows (impr≥50 & CTR<2%). Saturday — drum-chair watch skipped (not Monday).
+
+### Audit
+robots.txt (`api/robots.js`): 8/8 AI crawlers explicitly allowed, live-curled. Sitemap: 3,138 `<loc>` entries, unchanged. `llms.txt` still reports "67 drummers" (stale — already covered by open #5037, no re-file).
+
+### Fresh gap hunt — new lever per last run's own flag: live Lighthouse-style bot-UA audit (title/meta/alt/canonical/heading checks) instead of a 4th pass at roster-drift or a repeat vercel.json crossref
+Delegated an agent to live-curl homepage + drummer profile + article with Googlebot UA and check for structural SEO issues, and to separately check for any other roster-count literals beyond what #5023/#5026/#5036/#5037 already cover. It surfaced 2 candidates; both independently re-verified myself via direct file reads + live cache-busted curls (not trusting the agent's report alone) before filing:
+
+1. **#5038 (CRITICAL)** — Homepage (`/`, the #1 organic entry page) never gets bot meta-injection at all: cache-busted Googlebot curl returns title `"MetalForge - Discover What Pro Metal Drummers Play"` (not the handler's `"MetalForge — Metal Drummer Gear Database"`), 0 `og:title`, only 1 `application/ld+json` block (expected 2 — WebSite+Organization, `api/meta/[...path].js:613-642`), and **no `x-meta-handler` header at all** — versus `/drummers` (working sibling) which returns `x-meta-handler: hit-v1` on the same curl pattern. Confirmed via `gh issue search` this is a **3rd occurrence** of the exact same symptom: #4368 (closed) and #4727 (closed, logged then as "regression from #4368") both already "fixed" this once. Filed with an explicit instruction NOT to blindly repeat the same vercel.json content edit a 3rd time — recommended a diagnostic marker-header pass first (per the meta-shell saga's own hard-won rule in `learned-patterns.md` lines 87-115) and flagged a testable hypothesis: `/` is the only bot-rewritten route that also has a real physical file in the Expo static export (`dist/index.html`), unlike every working sibling route — plausible filesystem-precedence-over-rewrite cause, untested.
+2. **#5039** — `api/meta/[...path].js` hardcodes literal `67` in ~27 description/FAQ strings across ~20 hub routes (`/facts`, `/stats`, `/spotlights`, `/vs`, `/compare`, `/tools/compare`, `/gear-by-budget`, `/birthdays`, etc.) — live roster is 72. Same bug **class** as already-closed #4691 (which fixed the 60→67 drift the same way, by hardcoding the next literal) — this is that fix drifting a 2nd time. Recommended deriving from `drummers.length` (already used elsewhere in the same file, e.g. line 1989) this time instead of another one-time count swap, so it self-corrects on future roster growth.
+
+Searched `gh issue list --state all --search` for both before filing — #5038 found the 2 prior closed occurrences (cited above, non-duplicate since both are closed and this is a fresh regression); #5039 found #4691 (closed, prior drift cycle, non-overlapping — different roster count).
+
+### Proposals filed this run
+1. #5038 — SEO CRITICAL: Homepage bot meta-shell broken again (3rd occurrence of #4368/#4727 regression)
+2. #5039 — SEO batch: api/meta/[...path].js hardcoded "67" drummer count across ~20 hub routes (~27 lines)
+
+### Drum-chair watch
+Skipped — Saturday, not Monday.
+
+### Open proposals waiting on CEO triage
+- #5038 (CRITICAL — flag for immediate priority, homepage is the #1 organic page), #5039 (filed this run, 0d old)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers, not real proposals
+- Note: #5025/#5026/#5036/#5037 still carry the `seo-proposal` label but are already promoted to `ai-fix` — cosmetic, not a re-triage backlog item.
+
+### Next run
+- **Watch #5038 first** — highest-severity finding of the week; if it "fixes" again without a live bot-UA + cache-busted re-curl confirming `x-meta-handler: hit-v1` + 2 JSON-LD blocks, do not trust it closed. This is now a 3-strikes pattern; if it regresses a 4th time, escalate to `human-founder` for Vercel Dashboard access (routing/filesystem precedence config is invisible to agents), per the #3743/#3906 precedent.
+- Bank at 7 (2 real + 3 umbrella + 2 cosmetic-label already-promoted) — healthy, well under the 45 floor.
+- The Lighthouse-style live-audit lever found real gaps on its first try — worth a fuller pass next time bank is thin (check more page types: alt-text coverage, heading hierarchy, canonical tags on newer route families) rather than immediately reaching for roster-drift or vercel.json crossref again.

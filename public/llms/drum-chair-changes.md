@@ -3,7 +3,7 @@
 > Every documented drum-chair change (one drummer handing off to the next) across MetalForge's tracked metal bands, most recent first.
 > Optimised for queries like 'who is the new drummer for <band>', 'who replaced <drummer>'.
 
-> Last updated: 2026-07-25 · 89 changes across 35 bands
+> Last updated: 2026-07-25 · 103 changes across 41 bands
 
 ---
 
@@ -31,10 +31,13 @@
 - **2017** — [Morbid Angel](https://metalforge.io/bands/morbid-angel): Tim Yeung → Scott Fuller — Recorded Kingdoms Disdained
 - **2016** — [Suicidal Tendencies](https://metalforge.io/bands/suicidal-tendencies): Thomas Pridgen → Dave Lombardo — Former Slayer drummer
 - **2016** — [Megadeth](https://metalforge.io/bands/megadeth): Chris Adler → Dirk Verbeuren — Former Soilwork drummer; took over touring duties in 2016 and was made permanent
+- **2016** — [Amon Amarth](https://metalforge.io/bands/amon-amarth): Tobias Gustafsson → Jocke Wallgren — Joined as touring drummer in 2016, made a permanent member that September
 - **2015** — [Megadeth](https://metalforge.io/bands/megadeth): Shawn Drover → Chris Adler — Recorded Dystopia but did not tour with the band
 - **2015** — [Cynic](https://metalforge.io/bands/cynic): Sean Reinert → Matt Lynch — Joined September 2015, recorded Ascension Codes; left May 2025 after 10 years
+- **2015** — [Amon Amarth](https://metalforge.io/bands/amon-amarth): Fredrik Andersson → Tobias Gustafsson — Session drummer only; recorded Jomsviking (2016) but never became a full member
 - **2014** — [Slipknot](https://metalforge.io/bands/slipknot): Joey Jordison → Jay Weinberg — Son of Max Weinberg; joined 2014, parted ways with band November 5, 2023
 - **2014** — [Suicidal Tendencies](https://metalforge.io/bands/suicidal-tendencies): Eric Moore → Thomas Pridgen — Brief six-month tenure
+- **2014** — [Angra](https://metalforge.io/bands/angra): Ricardo Confessori → Bruno Valverde — Joined in 2014, replacing Confessori; recorded Secret Garden (2014/2015), Ømni (2018), and Cycles of Pain (2023)
 - **2012** — [Animals as Leaders](https://metalforge.io/bands/animals-as-leaders): Navene Koperweis → Matt Garstka — Known for jazz-fusion approach and polyrhythmic mastery
 - **2011** — [Sepultura](https://metalforge.io/bands/sepultura): Jean Dolabella → Eloy Casagrande — Joined November 2011, departed February 2024 to join Slipknot; drummed Mediator (2013), Machine Messiah (2017), Quadra (2020)
 - **2011** — [Dream Theater](https://metalforge.io/bands/dream-theater): Mike Portnoy → Mike Mangini — Selected via public 2010-2011 audition process; played on A Dramatic Turn of Events through A View from the Top of the World
@@ -46,6 +49,7 @@
 
 - **2009** — [Korn](https://metalforge.io/bands/korn): Joey Jordison → Ray Luzier — Became full-time official member in 2009; first studio album Korn III: Remember Who You Are (2010)
 - **2009** — [Periphery](https://metalforge.io/bands/periphery): Travis Orbin → Matt Halpern — One of the architects of the djent movement
+- **2009** — [Angra](https://metalforge.io/bands/angra): Aquiles Priester → Ricardo Confessori — Second stint; returned in March 2009 after a nine-year gap, recorded Aqua (2010); departed again in 2014
 - **2008** — [Suicidal Tendencies](https://metalforge.io/bands/suicidal-tendencies): David Hidalgo Jr → Eric Moore — Full-time drummer from October 2008
 - **2008** — [Periphery](https://metalforge.io/bands/periphery): Jason Berlin → Travis Orbin — Replaced Berlin; left in 2009 to join Sky Eats Airplane
 - **2008** — [Vader](https://metalforge.io/bands/vader): Daray → Pawel Jaroszewicz — Recorded Necropolis and Welcome to the Morbid Reich; left July 2011 for family reasons
@@ -56,13 +60,18 @@
 - **2006** — [Sepultura](https://metalforge.io/bands/sepultura): Igor Cavalera → Jean Dolabella — Drummed A-Lex (2009) and Kairos (2011)
 - **2006** — [Opeth](https://metalforge.io/bands/opeth): Martin Lopez → Martin Axenrot — Also plays in Bloodbath; left November 2021 over vaccination conflict
 - **2005** — [Limp Bizkit](https://metalforge.io/bands/limp-bizkit): John Otto → Sammy Siegler — Session fill-in for much of The Unquestionable Truth (Part 1) EP only, not a full member
+- **2005** — [Between the Buried and Me](https://metalforge.io/bands/between-the-buried-and-me): Jason Roe → Blake Richardson — Joined early 2005, replacing Jason Roe; has recorded every studio album since Alaska (2005)
 - **2004** — [Nile](https://metalforge.io/bands/nile): Tony Laureano → George Kollias — Joined before Annihilation of the Wicked; drummer on all Nile albums since 2005
 - **2004** — [Megadeth](https://metalforge.io/bands/megadeth): Jimmy Degrasso → Vinnie Colaiuta — Session drummer for The System Has Failed only
 - **2004** — [Megadeth](https://metalforge.io/bands/megadeth): Vinnie Colaiuta → Shawn Drover — Longest-serving Megadeth drummer; four studio albums
 - **2004** — [Testament](https://metalforge.io/bands/testament): Jon Dette → Paul Bostaph — Touring only
 - **2004** — [Vader](https://metalforge.io/bands/vader): Marcin Golebiewski → Daray — Dariusz Brzozowski; stand-in from Feb 2004, permanent from March 2005; recorded The Beast and Impressions in Blood; also drummer for Dimmu Borgir
+- **2004** — [Between the Buried and Me](https://metalforge.io/bands/between-the-buried-and-me): Mark Castillo → Jason Roe — No studio album recorded during this tenure
+- **2003** — [Between the Buried and Me](https://metalforge.io/bands/between-the-buried-and-me): Michael Howard Reig → Mark Castillo — Recorded The Silent Circus (2003), his only album with the band
 - **2002** — [Suicidal Tendencies](https://metalforge.io/bands/suicidal-tendencies): Ronald Bruner Jr → David Hidalgo Jr — Shared drumming duties with Ronald Bruner Jr.
+- **2002** — [Between the Buried and Me](https://metalforge.io/bands/between-the-buried-and-me): Will Goodyear → Michael Howard Reig — No studio album recorded during this tenure
 - **2001** — [Suicidal Tendencies](https://metalforge.io/bands/suicidal-tendencies): Brooks Wackerman → Ronald Bruner Jr — Full-time initially, then shared duties with David Hidalgo Jr. from 2002
+- **2001** — [Angra](https://metalforge.io/bands/angra): Ricardo Confessori → Aquiles Priester — Recorded Rebirth (2001), Temple of Shadows (2004), and Aurora Consurgens (2006); departed to focus on his own band, Hangar
 - **2000** — [Nile](https://metalforge.io/bands/nile): Pete Hammoura → Derek Roddy — Session drummer who performed most of the drum tracks on Black Seeds of Vengeance while Hammoura was injured (Hammoura retained the booklet credit)
 - **2000** — [Nile](https://metalforge.io/bands/nile): Derek Roddy → Tony Laureano — Drummer on In Their Darkened Shrines
 
@@ -72,15 +81,20 @@
 - **1999** — [Testament](https://metalforge.io/bands/testament): Dave Lombardo → Jon Dette — Second touring stint
 - **1999** — [Vader](https://metalforge.io/bands/vader): Doc → Marcin Golebiewski — Known as "Ząbek"; brief touring fill-in only, did not appear on a studio album
 - **1998** — [Megadeth](https://metalforge.io/bands/megadeth): Nick Menza → Jimmy Degrasso — Drummer on Risk and The World Needs a Hero
+- **1998** — [Amon Amarth](https://metalforge.io/bands/amon-amarth): Martin Lopez → Fredrik Andersson — Recorded eight studio albums; parted ways with the band in March 2015
+- **1998** — [Arch Enemy](https://metalforge.io/bands/arch-enemy): Peter Wildoer → Daniel Erlandsson — Returned in 1998; has drummed on every album since Burning Bridges (1999) through Blood Dynasty (2025)
 - **1997** — [Death](https://metalforge.io/bands/death): Gene Hoglan → Richard Christy — Recorded The Sound of Perseverance (1998); remained until the band's dissolution
 - **1997** — [Opeth](https://metalforge.io/bands/opeth): Anders Nordin → Martin Lopez — Also founding member of Soen; left due to stress-related illness
 - **1997** — [Behemoth](https://metalforge.io/bands/behemoth): Baal Ravenlock → Inferno — Zbigniew Promiński; briefly left around the release of Satanica (1999), returned early 2000; took paternity leave July 2017 with Jan "the Charn" Rice filling in on tour
+- **1997** — [Arch Enemy](https://metalforge.io/bands/arch-enemy): Daniel Erlandsson → Peter Wildoer — Filled in during Erlandsson's absence; primary drummer credited on Stigmata (1998)
 - **1996** — [Slayer](https://metalforge.io/bands/slayer): Paul Bostaph → Jon Dette — Ex-Testament; filled in between Bostaph's first and second stints. No verified fill-in drummer exists for the 1992 Lombardo-to-Bostaph transition or for the 2019 farewell-tour finale; Bostaph played through to the band's last show.
 - **1996** — [Suicidal Tendencies](https://metalforge.io/bands/suicidal-tendencies): Jimmy Degrasso → Brooks Wackerman — Rejoined from Infectious Grooves during reformation
 - **1996** — [Testament](https://metalforge.io/bands/testament): Jon Dette → Gene Hoglan — First stint; recorded Demonic
+- **1996** — [Amon Amarth](https://metalforge.io/bands/amon-amarth): Niko Kaukinen → Martin Lopez — Recorded debut album Once Sent from the Golden Hall (1998); left to join Opeth
 - **1994** — [Testament](https://metalforge.io/bands/testament): John Tempesta → Jon Dette — Touring drummer after Tempesta's departure
 - **1993** — [Deftones](https://metalforge.io/bands/deftones): John Taylor → Abe Cunningham — Returned in 1993; has drummed on every studio album from Adrenaline (1995) onward with no further gaps
 - **1993** — [Testament](https://metalforge.io/bands/testament): Paul Bostaph → John Tempesta — Recorded Low, then left to join White Zombie
+- **1993** — [Angra](https://metalforge.io/bands/angra): Marco Antunes → Ricardo Confessori — First stint; recorded Holy Land (1996) and Fireworks (1998); left in 2000 with André Matos and Luís Mariutti to form Shaman
 - **1992** — [Slayer](https://metalforge.io/bands/slayer): Dave Lombardo → Paul Bostaph — Three separate stints; played Slayer's final show, November 30, 2019
 - **1992** — [Death](https://metalforge.io/bands/death): Sean Reinert → Gene Hoglan — Joined December 1992; recorded Individual Thought Patterns (1993) and Symbolic (1995)
 - **1992** — [Suicidal Tendencies](https://metalforge.io/bands/suicidal-tendencies): Josh Freese → Jimmy Degrasso — Took over full-time after The Art of Rebellion tour

@@ -2484,6 +2484,7 @@ export function getMetaForPath(pathname) {
                   '@type': 'MusicAlbum',
                   name: album.albumTitle,
                   byArtist: { '@type': 'MusicGroup', name: bandName },
+                  ...(album.year ? { datePublished: String(album.year) } : {}),
                 });
               }
             }

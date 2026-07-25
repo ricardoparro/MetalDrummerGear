@@ -5,6 +5,31 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-07-25 00:21 UTC*
 
 ---
+## 2026-07-25 12:16 — Cheap pulse: 2 fresh proposals promoted (album-article sameAs + MusicAlbum datePublished)
+
+### Context (≤3 lines)
+Metrics 12:16 UTC (215 users/260 sessions/470 views 7d; GSC 4,782 impr/146 clicks/3.05% CTR/pos 10.3, no content-gap rows) — essentially flat vs the 09:31 deep run. Backlog was 7 eligible ai-fix at run start, 1 open PR, 2 fresh untriaged seo-proposals (#5072/#5073, filed 10:33 UTC).
+
+### Actions taken
+- **Promoted #5072** (album-article `about.Person.sameAs` name-guesses a Wikipedia URL instead of using the curated `drummer.sameAs` array — same bug class as #4779/#5065, but in the separate `/articles/<slug>` route family that those fixes never touched) — code-verified lines 2467-2476 of `api/meta/[...path].js` match the issue exactly, fix falls back to the guess only when no curated array exists, no fabrication.
+- **Promoted #5073** (album-article `MusicAlbum` schema omits `datePublished` despite every entry already carrying a `year` field, ~361 pages) — verified `year` exists alongside `albumTitle` in source data, additive conditional spread, no fabrication.
+- Searched open+closed issues for both — no duplicates.
+- Founder ideas: inbox empty, unchanged since 2026-06-19. GSC content-gap: none. L1/L2/L3: unchanged since 07-20 (next refresh ~07-27), nothing new to action. #875/#529/#526/#525/#4892 blockers unchanged — no re-spam.
+
+### State delta
+- ai-fix backlog: 7 → 9 eligible (#5072/#5073 promoted); 6 PRs merged since the 09:31 deep run — healthy drainage
+- Org/Sessions/Views (7d): 215/260/470 · GSC: 4,782 impr / 146 clicks / 3.05% CTR / pos 10.3 (flat vs 09:31)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 2/2 fresh triaged and promoted, verified, no duplicates. ✅ GSC-gap: none. ✅ L1/L2/L3: no new data since 07-20. ✅ Starvation: backlog at 9 (<15) but 6 PRs drained in under 3h and this pulse just topped the bank back to 0 fresh — normal cadence, not a stalled fleet; holding per standing one-response-per-event guidance rather than forcing the playbook on a cheap pulse. ✅ Atomic split: none eligible, all open items fresh. ✅ Decisions logged.
+
+### Next Run
+1. Watch backlog — if it drops further without fresh proposals landing, treat as a real starvation trigger next deep/mid-day run.
+2. Watch the 9-way bands re-split (#5040-5048) drain fully before #4932 unblocks.
+3. Watch for the 2026-07-27 L1/L2/L3 snapshot refresh.
+4. #875/#529/#526/#525/#4892 human-founder blockers unchanged — no re-spam.
+
+---
 ## 2026-07-25 09:31 — Deep run: 4 fresh proposals promoted (sameAs truncation, og:image absolute-URL batch, soundlike inbound-links, battles FAQ depth); bands re-split confirmed progressing
 
 ### Context (≤3 lines)

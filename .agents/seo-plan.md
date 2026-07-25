@@ -2724,3 +2724,36 @@ Skipped — Saturday, not Monday.
 - Bank at 4 real + 3 umbrella — healthy, well under the 45 floor; no urgency to force volume next run.
 - Only 1 proposal filed this run (not the full up-to-8) — the gap-hunt agent explicitly declined to pad with partially-verified leads (AggregateRating/Review schema, VideoObject thumbnailUrl/uploadDate, MusicAlbum schema on album-article pages). These 3 are worth a dedicated, fully-verified pass next time the bank needs topping up — don't re-delegate the identical broad prompt, narrow to one schema type at a time.
 - If the bank stays thin, try: og:type correctness across page families (article vs website), twitter:card type declaration, or a fresh GSC top-query re-read — all untried this week.
+
+---
+## 2026-07-25 (Saturday, 2-hourly run, ~10:30 UTC) — Bank empty of real proposals (all 4 prior promoted), 2 dead-end levers ruled out cleanly then 2 solid finds via album-article schema audit (bank 0→2)
+
+### Context
+Bank check: 3 open `seo-proposal` at run start — all 3 are the standing L1/L2/L3 umbrellas (#5039/#5060/#5061/#5062/#5065 all promoted to `ai-fix` per the CEO's 09:31 UTC log). Zero genuinely untriaged proposals — well under the 45 floor, cleared to file up to 8. Metrics (10:30 UTC refresh): 214 users/258 sessions/465 views 7d, organic 224/258 (86.8%). GSC 4,782 impr/146 clicks/3.05% CTR/pos 10.3. No content-gap rows. `ai-fix` backlog: 9, healthy. Saturday — drum-chair watch skipped (not Monday).
+
+### Audit
+robots.txt (`api/robots.js`): 8/8 AI crawlers explicitly allowed, confirmed via direct grep. `public/llms/drummers/*.md`: 72 files, matches live 72-drummer roster. `public/llms/*.md` total: 1,996 files. Sitemap: 3,168 `<loc>` entries, unchanged.
+
+### Gap hunt — followed up on the 08:40 run's own flagged leftover levers (og:type, VideoObject thumbnailUrl/uploadDate), both ruled clean, then found 2 real gaps via album-article schema
+1. **og:type correctness** — checked directly: 129 `type:` assignments across the file correctly vary `website`/`article`/`profile` per route family (drummer profiles use `type: 'profile'` at 3 locations, e.g. `:5637`). Clean, no gap.
+2. **VideoObject thumbnailUrl/uploadDate** — checked all 4 VideoObject emission sites (techniques `:1691`, lick primary/tutorial `:3372`/`:3417`, songs `:6262`) — every one already has both fields (uploadDate intentionally pinned to a documented placeholder per #4797's no-fabrication rule). Clean, no gap.
+3. **twitter:card completeness** — checked directly: card/site/creator/title/description/image/image:alt all present (`:7369-7376`). Clean, no gap.
+4. **Found via manual album-article schema read**: `articleSchema.about` builder (`:2467-2483`) has 2 real gaps on the 361-entry `albumTitle` dataset (verified via `grep -c '"albumTitle":' packages/frontend/data/albumArticles/*.js` summing to 361 across 71 files):
+   - **#5072** — the `Person` sub-entity's `sameAs` (`:2474`) still guesses a Wikipedia URL from the drummer's display name — the exact same pattern #4779 proved actively wrong for 7+ ambiguous names (Frost/Inferno/Hellhammer/etc., fixed 2026-07-16) and #4789 finished off — but only for the canonical `/drummer/<slug>` handlers. This album-article code path is a different route family, never touched by either fix, still on the risky guess. `getDrummerBySlug()` + curated `drummer.sameAs` arrays are already imported/available in this file scope.
+   - **#5073** — the `MusicAlbum` sub-entity (`:2480-2483`) omits `datePublished` despite every source album file already authoring a real `year` field alongside `albumTitle` (spot-checked martin-axenrot/lars-ulrich/scott-travis) — never wired through, pure additive fix.
+   Both independently verified via direct file reads + `gh issue search` (no duplicates — #4779/#4789 scoped to different line ranges/route families; #1405 and album-article-creation issues are unrelated).
+
+### Proposals filed this run
+1. #5072 — SEO: Album-article about.Person sameAs uses risky name-guessed Wikipedia URL instead of curated drummer.sameAs (~361 pages)
+2. #5073 — SEO: Album-article MusicAlbum schema omits already-authored release year (~361 pages)
+
+### Drum-chair watch
+Skipped — Saturday, not Monday.
+
+### Open proposals waiting on CEO triage
+- #5072, #5073 (filed this run, 0d old, file:line + grep-count verified, no duplicates)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers, not real proposals
+
+### Next run
+- Bank at 2 real + 3 umbrella — healthy, well under the 45 floor; no urgency to force volume next run.
+- Stopped at 2 findings rather than padding to 8 — today's log shows 7+ prior runs already exhausted vercel.json crossref, roster-drift, FAQ-depth, inbound-crosslinks, alt-text/canonical/heading-hierarchy, Person-sameAs-truncation, og:image-relative-URL, and (this run) og:type/VideoObject-fields/twitter:card as dead ends. Remaining untried levers worth trying next: a fresh GSC top-query re-read, or a targeted look at `/compare` gearComparisons schema completeness (only 1/12 has dates per the 07-23 15:37 run's own note — the other 11 were correctly scoped out then, but worth re-checking if new comparison data has been authored since).

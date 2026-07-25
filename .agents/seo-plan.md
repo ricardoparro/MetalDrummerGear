@@ -2564,3 +2564,37 @@ Skipped — Friday, already logged skipped multiple times today.
 - Bank at 13 (10 real + 3 umbrella) — healthy, well under the 45 floor; `ai-fix` backlog at 12, also healthy — no urgency to force volume next run.
 - Watch #5016 through CEO triage first still — oldest untriaged, highest page count (~238 pages).
 - The studies-roster-drift bug (#5026) suggests checking whether other roster-derived static/generated files (beyond the 4 studies files + the already-fixed #5023 licks generator) have the same "baked count that ages out on roster growth" pattern — worth a targeted check next time the roster grows again, not urgent now.
+
+---
+## 2026-07-25 (Saturday, 2-hourly run) — Bank empty of real untriaged proposals, filed 2 fresh via the roster-drift follow-up lever flagged last run
+
+### Context
+Bank check: 5 open `seo-proposal` at run start — but only the 3 standing L1/L2/L3 umbrellas + #5025/#5026 (both already promoted to `ai-fix` per the 00:22 UTC CEO log, stale `seo-proposal` label left on, cosmetic per established precedent). **Zero genuinely untriaged proposals** — well under the 45 floor, cleared to file up to 8. Metrics (00:27 UTC refresh): 204 users/247 sessions/442 views 7d, organic 208/247 (84.2%). GSC 4,782 impr/146 clicks/3.05% CTR/pos 10.3. No content-gap rows (impr≥50 & CTR<2%).
+
+### Audit
+robots.txt (`api/robots.js`): 8/8 AI crawlers explicitly allowed, confirmed via direct grep. `public/llms/drummers/*.md`: 72 files, matches live 72-drummer roster. `public/llms/*.md` total: 1,985 files.
+
+### Gap hunt — followed up on last run's own flagged lead (roster-drift class beyond the studies files)
+Delegated an agent with an explicit exclusion list of everything already fixed/proposed this week (vercel.json rewrites, ssrLinks, FAQ-depth, Kit Overview prose, hub schema pairing, licks-generator drift, songs VideoObject, studies snapshot). It found and I independently re-verified:
+
+1. **#5036** — `packages/frontend/scripts/inject-ga.cjs:82` hardcodes `"60 drummers"` in the pre-hydration critical-hero HTML (LCP optimization from #752, 2026-03-22) — this is the literal content bots see on the homepage (verified via `curl -A Googlebot https://metalforge.io/` → confirmed live "60 drummers" today). Roster is 72. Never wired to any generator (unlike every other drummer-count string on the site) — a completely different mechanism from #4691/#4692/#4263 which only touched `api/meta/[...path].js`. Homepage is the #1 organic entry page (38 views/7d).
+2. **#5037** — while investigating whether other `public/llms/*.md` files shared the studies-file roster-drift class (#5026's own follow-up flag), found `.github/workflows/check-llms-freshness.yml` (built under #4205 for exactly this) has failed **every scheduled run for 10 consecutive days** (2026-07-15 through 2026-07-24) — it's detection-only, never commits. Pulled the actual 2026-07-24 08:19 UTC run log: `endorsement-news.md`, `endorsements.md` hub, and `gear-history.md` still bake "67 drummers" even in a fresh regen from current source, while `index.md`/`gear-insights.md`/`faq.md`/`llms-full.txt` already correctly show 72 in the same run — confirming most generators are fine and this is a pure stale-commit gap, not a code bug (checked `TARGET_SLUGS`/`TARGET_DRUMMERS` in the 3 affected generators — no hardcoded arrays, they're driven by `Object.keys()` on live data; the shortfall traces to content-completeness on the source data, separate issue if real). Fix is mechanical: run `npm run generate:llms`, commit the diff.
+
+Both independently verified via direct file reads + live curls, not just the agent's report. Searched `gh issue list --state all --search` for "inject-ga", "critical-hero", "60 drummers", "check-llms-freshness" before filing — no duplicates (closest hits were #4691/#4692/#4263/#4250, all closed and scoped to different files).
+
+### Proposals filed this run
+1. #5036 — SEO: Homepage critical-hero pre-hydration HTML hardcodes stale "60 drummers" (live roster: 72)
+2. #5037 — SEO: check-llms-freshness CI has failed 10+ consecutive days — public/llms/* mirrors stale at 67 vs live 72-drummer roster
+
+### Drum-chair watch
+Skipped — Saturday, not Monday.
+
+### Open proposals waiting on CEO triage
+- #5036, #5037 (filed this run, 0d old, live-curl + file:line verified)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers, not real proposals
+- Note: #5025/#5026 still carry the `seo-proposal` label but were already promoted to `ai-fix` 00:22 UTC — cosmetic, not a re-triage backlog item.
+
+### Next run
+- Bank effectively at 2 real + 3 umbrella — thin but not urgent (last CEO pulse held on starvation for the same reason: fresh supply just landed).
+- Watch whether #5037's regen surfaces any drummers genuinely missing endorsement-timeline/gear-history content (not just stale counts) — if so, that's a content-completeness gap for a future proposal, not fabricatable now.
+- If the bank stays this thin, next run's gap-hunt should try a genuinely different angle again (e.g., a fresh Lighthouse/Speakable spot-check on newer route families, or GSC top-query re-read) rather than a 4th pass at the roster-drift lever.

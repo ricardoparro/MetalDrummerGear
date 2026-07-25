@@ -42,4 +42,4 @@ A: Frost plays Zildjian cymbals: 14" A Custom Hi-Hats, 16" A Custom Crash, 17" A
 
 ---
 
-*Last updated: 2026-07-13 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

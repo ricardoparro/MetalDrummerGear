@@ -10,11 +10,11 @@ August Burns Red's Matt Greiner vs Mastodon's Brann Dailor. Grammy-nominated met
 
 ## Matt Greiner Setup
 
-- **Drums:** Meinl Drum Festival Kit / Greiner & Kilmer Custom
-- **Cymbals:** Meinl Byzance Series (15" Dual Hi-Hats, 18" & 19" Dual Crashes, 21" Transition Ride, 18" Extra Dry China, 10" & 12" Splashes)
-- **Snare:** Greiner & Kilmer Custom 14x6.5" Maple
+- **Drums:** Mapex Black Panther Design Lab
+- **Cymbals:** Paiste Formula 602 (14" Hi-Hats, 16"/17"/18" Crashes, 22" Ride, 18" China, 10" Splash)
+- **Snare:** Mapex Black Panther 14x5.5" Maple
 - **Pedals/Hardware:** DW 9000 Series Double Pedal, DW 9100 Throne
-- **Sticks:** Vic Firth American Classic 5A
+- **Sticks:** Vic Firth Matt Greiner Signature
 
 ## Brann Dailor Setup
 
@@ -47,16 +47,16 @@ Matt Greiner and Brann Dailor both push progressive songwriting into heavy music
 ## FAQ
 
 **Q: What are the main differences between Matt Greiner's and Brann Dailor's drum kits?**
-A: Matt Greiner plays Meinl Drum Festival Kit / Greiner & Kilmer Custom with Meinl cymbals, while Brann Dailor uses Tama Starclassic Performer B/B with Meinl cymbals. Greiner plays a Greiner & Kilmer Custom kit, co-designed with his own drum company, with a matching 14x6.5" Maple snare and Meinl Byzance Series cymbals, driven by a DW 9000 Series double pedal. Dailor plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. G-Maple snare and Meinl Byzance cymbals, driven by a Tama Speed Cobra double pedal for fluid double bass under Mastodon's polyrhythmic riffing.
+A: Matt Greiner plays Mapex Black Panther Design Lab with Paiste cymbals, while Brann Dailor uses Tama Starclassic Performer B/B with Meinl cymbals. Greiner plays a Greiner & Kilmer Custom kit, co-designed with his own drum company, with a matching 14x6.5" Maple snare and Meinl Byzance Series cymbals, driven by a DW 9000 Series double pedal. Dailor plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. G-Maple snare and Meinl Byzance cymbals, driven by a Tama Speed Cobra double pedal for fluid double bass under Mastodon's polyrhythmic riffing.
 
 **Q: What drums does Matt Greiner play vs Brann Dailor?**
-A: Matt Greiner plays Meinl Drum Festival Kit / Greiner & Kilmer Custom. Brann Dailor plays Tama Starclassic Performer B/B.
+A: Matt Greiner plays Mapex Black Panther Design Lab. Brann Dailor plays Tama Starclassic Performer B/B.
 
 **Q: Who is the better progressive metal drummer, Matt Greiner or Brann Dailor?**
 A: Both are legends in their own right. Matt Greiner and Brann Dailor both push progressive songwriting into heavy music, but from very different angles. See the full analysis at [metalforge.io/vs/matt-greiner-vs-brann-dailor](https://metalforge.io/vs/matt-greiner-vs-brann-dailor).
 
 **Q: What cymbals do Matt Greiner and Brann Dailor use?**
-A: Matt Greiner uses Meinl Byzance Series (15" Dual Hi-Hats, 18" & 19" Dual Crashes, 21" Transition Ride, 18" Extra Dry China, 10" & 12" Splashes). Brann Dailor uses Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Brilliant Heavy Hammered Crashes, 21" Ghost Ride, 18" Extra Dry China).
+A: Matt Greiner uses Paiste Formula 602 (14" Hi-Hats, 16"/17"/18" Crashes, 22" Ride, 18" China, 10" Splash). Brann Dailor uses Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Brilliant Heavy Hammered Crashes, 21" Ghost Ride, 18" Extra Dry China).
 
 ---
 
@@ -67,4 +67,4 @@ A: Matt Greiner uses Meinl Byzance Series (15" Dual Hi-Hats, 18" & 19" Dual Cras
 
 ---
 
-*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

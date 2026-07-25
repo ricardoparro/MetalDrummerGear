@@ -46,4 +46,4 @@ A: It's a named signature model — the Vic Firth SBEN is designed and marketed 
 
 ---
 
-*Last updated: 2026-07-13 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

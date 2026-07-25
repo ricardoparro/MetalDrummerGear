@@ -98,4 +98,4 @@ A: Closely related techniques include Gallop, Blast Beat, Triggered Drums. Maste
 
 ---
 
-*Last updated: 2026-07-17 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/kevin-talley"
 source: "https://metalforge.io"
-last_updated: "2026-07-14"
+last_updated: "2026-07-25"
 ---
 
 # Kevin Talley — Drum Kit & Gear Setup
@@ -96,6 +96,10 @@ A: Kevin Talley uses Remo drumheads across his Pearl Masters kit.
 
 A: Kevin Talley has drummed for Dying Fetus (1996-2001, 2007-2008), Misery Index (2001-2003), Suffocation (2005-2007), Chimaira (2009-2011), and Six Feet Under (2011-2017).
 
+**Q: Does Kevin Talley use trigger-assisted drums?**
+
+A: Kevin Talley uses trigger-assisted bass drums for consistency, part of a durable, road-ready performance setup optimized for both speed and groove across his relentless touring schedule spanning Dying Fetus, Suffocation, Chimaira, and Six Feet Under.
+
 ## Signature Licks on MetalForge
 
 MetalForge has 3 signature lick tutorial(s) for Kevin Talley:
@@ -135,4 +139,4 @@ Full breakdown: [Kevin Talley's pedal setup](https://metalforge.io/pedals/setups
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

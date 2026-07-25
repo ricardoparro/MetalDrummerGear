@@ -71,4 +71,4 @@ MetalForge tracks 6 snare brands relevant to metal drummers. Besides Tama, see:
 
 ---
 
-*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

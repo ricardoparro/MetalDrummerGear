@@ -1,6 +1,6 @@
 # Top 10 Metal Drummers of the 2000s — Complete Ranked Guide
 
-> **Last updated:** 2026-07-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/2000s-metal-drummers)
+> **Last updated:** 2026-07-25 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/2000s-metal-drummers)
 
 ---
 
@@ -147,4 +147,4 @@ A: The most influential 2000s metal drumming albums include: Slipknot's "Iowa" (
 
 ---
 
-*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

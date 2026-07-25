@@ -1,6 +1,6 @@
 # Top 10 Metal Drummers Who Also Produce & Engineer — Complete Ranked Guide
 
-> **Last updated:** 2026-07-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/metal-drummers-who-produce-engineer)
+> **Last updated:** 2026-07-25 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/metal-drummers-who-produce-engineer)
 
 ---
 
@@ -127,4 +127,4 @@ A: A drummer with a genuine production credit is directly involved in shaping a 
 
 ---
 
-*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

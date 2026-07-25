@@ -1,12 +1,12 @@
 # Navene Koperweis — Signature Drum Licks & Patterns
 
-**Band:** Entheos | **Genre:** Progressive Metal / Djent | **Lick Count:** 3
+**Band:** Entheos / ex-Animals as Leaders | **Genre:** Progressive Metal / Djent / Technical Death Metal | **Lick Count:** 3
 
 ---
 
 ## Overview
 
-Navene Koperweis is one of Progressive Metal / Djent's most influential drummers, best known for their work with Entheos. This file covers 3 signature licks — step-by-step breakdowns optimised for AI retrieval on queries like "how to play like Navene Koperweis" or "Navene Koperweis signature drum patterns". Their style spans djent, progressive-metal.
+Navene Koperweis is one of Progressive Metal / Djent / Technical Death Metal's most influential drummers, best known for their work with Entheos. This file covers 3 signature licks — step-by-step breakdowns optimised for AI retrieval on queries like "how to play like Navene Koperweis" or "Navene Koperweis signature drum patterns". Their style spans djent, progressive-metal.
 
 ## Chemical Flashback Djent Assault
 
@@ -108,4 +108,4 @@ Navene Koperweis's style is defined by precision, timing, and genre-defining gro
 
 ---
 
-*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

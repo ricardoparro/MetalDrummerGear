@@ -6,7 +6,7 @@ country: "Canada"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/ryan-van-poederooyen"
 source: "https://metalforge.io"
-last_updated: "2026-07-14"
+last_updated: "2026-07-25"
 ---
 
 # Ryan Van Poederooyen — Drum Kit & Gear Setup
@@ -93,6 +93,10 @@ A: Ryan Van Poederooyen uses Evans drumheads across his Pearl Reference kit.
 
 A: Ryan Van Poederooyen has been Devin Townsend's primary drummer since 1999, including the Devin Townsend Project era from 2009 to 2018.
 
+**Q: How long has Ryan Van Poederooyen played with Devin Townsend?**
+
+A: Ryan Van Poederooyen has been Devin Townsend's primary drummer for more than 25 years, appearing on nearly every solo and band album since 1999 — including "Terria" (2001), "Deconstruction" (2011), and "Lightwork" (2022) — after taking over from Gene Hoglan, Townsend's previous drummer in Strapping Young Lad.
+
 ## Gear Evolution Timeline
 
 Ryan Van Poederooyen's complete drum gear evolution — from the undocumented Devin Townsend Band founding years through the Pearl Reference Series / Sabian HHX & AAX rig behind Devin Townsend Project's "Addicted" (2009) through "Transcendence" (2016), to his current Montreal session and teaching career — is tracked era-by-era: [Ryan Van Poederooyen Gear Evolution Timeline](https://metalforge.io/drummers/ryan-van-poederooyen/evolution) ([markdown version](/llms/evolution/ryan-van-poederooyen.md)).
@@ -147,4 +151,4 @@ Full breakdown: [Ryan Van Poederooyen's pedal setup](https://metalforge.io/pedal
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

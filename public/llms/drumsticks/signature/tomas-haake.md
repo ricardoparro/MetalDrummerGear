@@ -45,4 +45,4 @@ A: It's a named signature model — the Wincent WTHS is designed and marketed sp
 
 ---
 
-*Last updated: 2026-07-13 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

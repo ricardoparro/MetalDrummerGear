@@ -14,7 +14,7 @@ Megadeth's Dirk Verbeuren vs Slayer's Paul Bostaph. Two of thrash metal's most r
 - **Cymbals:** Zildjian A Custom & K Custom Series (14" A Custom Hi-Hats, 17", 18", 19" A Custom Crashes, 21" K Custom Hybrid Ride, 18" K China)
 - **Snare:** Tama S.L.P. Big Black Steel 14x6.5"
 - **Pedals/Hardware:** Tama Speed Cobra 910 Double Pedal, Tama Iron Cobra Hi-Hat Stand
-- **Sticks:** Promark Shira Kashi Oak 5B
+- **Sticks:** Tama O-DVM2 Dirk Verbeuren Signature
 
 ## Paul Bostaph Setup
 
@@ -67,4 +67,4 @@ A: Dirk Verbeuren uses Zildjian A Custom & K Custom Series (14" A Custom Hi-Hats
 
 ---
 
-*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

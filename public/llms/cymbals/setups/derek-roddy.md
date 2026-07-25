@@ -41,4 +41,4 @@ A: Derek Roddy plays Meinl cymbals: 14" Byzance Heavy Hi-Hats, 18" Mb20 Heavy Cr
 
 ---
 
-*Last updated: 2026-07-13 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

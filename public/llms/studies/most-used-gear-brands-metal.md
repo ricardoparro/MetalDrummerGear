@@ -1,6 +1,6 @@
 # Most-Used Drum & Cymbal Brands in Metal
 
-> **Last updated:** 2026-07-17 · **Source:** [MetalForge.io](https://metalforge.io) · [View full study →](https://metalforge.io/studies/most-used-gear-brands-metal)
+> **Last updated:** 2026-07-25 · **Source:** [MetalForge.io](https://metalforge.io) · [View full study →](https://metalforge.io/studies/most-used-gear-brands-metal)
 
 ---
 
@@ -80,4 +80,4 @@ Dataset: 67 verified drummer profiles documented on MetalForge, snapshot dated 2
 
 ---
 
-*Last updated: 2026-07-17 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

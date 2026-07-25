@@ -88,4 +88,4 @@ A: Closely related techniques include Gravity Blast, Blast Beat. Mastering these
 
 ---
 
-*Last updated: 2026-07-17 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

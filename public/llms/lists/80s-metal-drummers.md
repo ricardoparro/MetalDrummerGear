@@ -1,6 +1,6 @@
 # Top 10 Metal Drummers of the 1980s — Complete Ranked Guide
 
-> **Last updated:** 2026-07-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/80s-metal-drummers)
+> **Last updated:** 2026-07-25 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/80s-metal-drummers)
 
 ---
 
@@ -141,4 +141,4 @@ A: The most influential 80s metal drumming albums include: Metallica's Master of
 
 ---
 
-*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

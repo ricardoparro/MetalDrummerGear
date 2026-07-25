@@ -1,14 +1,14 @@
 # Metal Drummer Gear Endorsements — Complete List
 
-This page documents official gear endorsements for the 67 professional metal drummers catalogued in MetalForge's endorsement index.
+This page documents official gear endorsements for the 72 professional metal drummers catalogued in MetalForge's endorsement index.
 
-> Last Updated: 2026-07-10 · Source: https://metalforge.io
+> Last Updated: 2026-07-25 · Source: https://metalforge.io
 
-For a brand-first view of the full 67-drummer roster see [/llms/gear-by-brand.md](https://metalforge.io/llms/gear-by-brand.md).
+For a brand-first view of the full 72-drummer roster see [/llms/gear-by-brand.md](https://metalforge.io/llms/gear-by-brand.md).
 
 ## Per-Drummer Endorsement Detail Pages
 
-Each of the 67 drummers has a dedicated endorsement page with current endorsements, signature models, endorsement history, and FAQ:
+Each of the 72 drummers has a dedicated endorsement page with current endorsements, signature models, endorsement history, and FAQ:
 
 - [Lars Ulrich — Brand Endorsements](https://metalforge.io/llms/endorsements/lars-ulrich.md)
 - [Joey Jordison — Brand Endorsements](https://metalforge.io/llms/endorsements/joey-jordison.md)
@@ -77,6 +77,11 @@ Each of the 67 drummers has a dedicated endorsement page with current endorsemen
 - [Alex Bent — Brand Endorsements](https://metalforge.io/llms/endorsements/alex-bent.md)
 - [Adrian Erlandsson — Brand Endorsements](https://metalforge.io/llms/endorsements/adrian-erlandsson.md)
 - [Jon Dette — Brand Endorsements](https://metalforge.io/llms/endorsements/jon-dette.md)
+- [Jimmy DeGrasso — Brand Endorsements](https://metalforge.io/llms/endorsements/jimmy-degrasso.md)
+- [Nick Barker — Brand Endorsements](https://metalforge.io/llms/endorsements/nick-barker.md)
+- [Alex Rüdinger — Brand Endorsements](https://metalforge.io/llms/endorsements/alex-rudinger.md)
+- [John Longstreth — Brand Endorsements](https://metalforge.io/llms/endorsements/john-longstreth.md)
+- [Waltteri Väyrynen — Brand Endorsements](https://metalforge.io/llms/endorsements/waltteri-vayrynen.md)
 ---
 
 ## Drum Kit Endorsements

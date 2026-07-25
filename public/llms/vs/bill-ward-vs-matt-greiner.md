@@ -18,11 +18,11 @@ Black Sabbath's Bill Ward vs August Burns Red's Matt Greiner — the jazz-swing 
 
 ## Matt Greiner Setup
 
-- **Drums:** Meinl Drum Festival Kit / Greiner & Kilmer Custom
-- **Cymbals:** Meinl Byzance Series (15" Dual Hi-Hats, 18" & 19" Dual Crashes, 21" Transition Ride, 18" Extra Dry China, 10" & 12" Splashes)
-- **Snare:** Greiner & Kilmer Custom 14x6.5" Maple
+- **Drums:** Mapex Black Panther Design Lab
+- **Cymbals:** Paiste Formula 602 (14" Hi-Hats, 16"/17"/18" Crashes, 22" Ride, 18" China, 10" Splash)
+- **Snare:** Mapex Black Panther 14x5.5" Maple
 - **Pedals/Hardware:** DW 9000 Series Double Pedal, DW 9100 Throne
-- **Sticks:** Vic Firth American Classic 5A
+- **Sticks:** Vic Firth Matt Greiner Signature
 
 ## Playing Style
 
@@ -47,16 +47,16 @@ Bill Ward and Matt Greiner represent two foundational, cross-era pillars of meta
 ## FAQ
 
 **Q: What are the main differences between Bill Ward's and Matt Greiner's drum kits?**
-A: Bill Ward plays Ludwig Classic Maple with Paiste cymbals, while Matt Greiner uses Meinl Drum Festival Kit / Greiner & Kilmer Custom with Meinl cymbals. Bill Ward played a Ludwig Classic Maple kit with a Ludwig Supraphonic 14x6.5" LM402 snare and Paiste 2002 & Giant Beat Series cymbals (15" Giant Beat Hi-Hats, 18" & 20" 2002 Crashes, a 24" 2002 Ride, 18" 2002 China), driven by a single Ludwig Speed King pedal — no double bass, relying entirely on foot technique for Sabbath's early doom-laden grooves. Matt Greiner plays a Pearl Reference Pure kit in Piano Black with his own Pearl Matt Greiner Signature 14x6" Steel snare and Meinl Byzance cymbals (15" Dual Hi-Hats, 18" & 19" Extra Dry Medium Crashes, 21" Transition Ride, 18" Extra Dry China), driven by a Pearl Demon Drive double pedal and his own Vic Firth Matt Greiner Signature sticks.
+A: Bill Ward plays Ludwig Classic Maple with Paiste cymbals, while Matt Greiner uses Mapex Black Panther Design Lab with Paiste cymbals. Bill Ward played a Ludwig Classic Maple kit with a Ludwig Supraphonic 14x6.5" LM402 snare and Paiste 2002 & Giant Beat Series cymbals (15" Giant Beat Hi-Hats, 18" & 20" 2002 Crashes, a 24" 2002 Ride, 18" 2002 China), driven by a single Ludwig Speed King pedal — no double bass, relying entirely on foot technique for Sabbath's early doom-laden grooves. Matt Greiner plays a Pearl Reference Pure kit in Piano Black with his own Pearl Matt Greiner Signature 14x6" Steel snare and Meinl Byzance cymbals (15" Dual Hi-Hats, 18" & 19" Extra Dry Medium Crashes, 21" Transition Ride, 18" Extra Dry China), driven by a Pearl Demon Drive double pedal and his own Vic Firth Matt Greiner Signature sticks.
 
 **Q: What drums does Bill Ward play vs Matt Greiner?**
-A: Bill Ward plays Ludwig Classic Maple. Matt Greiner plays Meinl Drum Festival Kit / Greiner & Kilmer Custom.
+A: Bill Ward plays Ludwig Classic Maple. Matt Greiner plays Mapex Black Panther Design Lab.
 
 **Q: Who is the better alternative / nu-metal drummer, Bill Ward or Matt Greiner?**
 A: Both are legends in their own right. Bill Ward and Matt Greiner represent two foundational, cross-era pillars of metal drumming built on the same jazz roots. See the full analysis at [metalforge.io/vs/bill-ward-vs-matt-greiner](https://metalforge.io/vs/bill-ward-vs-matt-greiner).
 
 **Q: What cymbals do Bill Ward and Matt Greiner use?**
-A: Bill Ward uses Paiste 2002 & Giant Beat Series (15" Giant Beat Hi-Hats, 18" & 20" 2002 Crashes, 24" 2002 Ride, 18" 2002 China). Matt Greiner uses Meinl Byzance Series (15" Dual Hi-Hats, 18" & 19" Dual Crashes, 21" Transition Ride, 18" Extra Dry China, 10" & 12" Splashes).
+A: Bill Ward uses Paiste 2002 & Giant Beat Series (15" Giant Beat Hi-Hats, 18" & 20" 2002 Crashes, 24" 2002 Ride, 18" 2002 China). Matt Greiner uses Paiste Formula 602 (14" Hi-Hats, 16"/17"/18" Crashes, 22" Ride, 18" China, 10" Splash).
 
 ---
 
@@ -67,4 +67,4 @@ A: Bill Ward uses Paiste 2002 & Giant Beat Series (15" Giant Beat Hi-Hats, 18" &
 
 ---
 
-*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

@@ -3,7 +3,7 @@
 > Structured reference for metal bands, their drummer history, discography, and gear.
 > Optimised for AI crawlers answering "who drums for <band>" queries.
 >
-> Last updated: 2026-07-18 · 35 bands
+> Last updated: 2026-07-25 · 35 bands
 
 ---
 ## Animals as Leaders

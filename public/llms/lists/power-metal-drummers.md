@@ -1,6 +1,6 @@
 # Top 10 Power Metal Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-07-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/power-metal-drummers)
+> **Last updated:** 2026-07-25 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/power-metal-drummers)
 
 ---
 
@@ -150,4 +150,4 @@ A: Scott Travis plays a ddrum Dominion Series kit with Paiste RUDE cymbals and a
 
 ---
 
-*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

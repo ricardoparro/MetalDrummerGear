@@ -18,11 +18,11 @@ Children of Bodom's Jaska Raatikainen vs August Burns Red's Matt Greiner. Finnis
 
 ## Matt Greiner Setup
 
-- **Drums:** Meinl Drum Festival Kit / Greiner & Kilmer Custom
-- **Cymbals:** Meinl Byzance Series (15" Dual Hi-Hats, 18" & 19" Dual Crashes, 21" Transition Ride, 18" Extra Dry China, 10" & 12" Splashes)
-- **Snare:** Greiner & Kilmer Custom 14x6.5" Maple
+- **Drums:** Mapex Black Panther Design Lab
+- **Cymbals:** Paiste Formula 602 (14" Hi-Hats, 16"/17"/18" Crashes, 22" Ride, 18" China, 10" Splash)
+- **Snare:** Mapex Black Panther 14x5.5" Maple
 - **Pedals/Hardware:** DW 9000 Series Double Pedal, DW 9100 Throne
-- **Sticks:** Vic Firth American Classic 5A
+- **Sticks:** Vic Firth Matt Greiner Signature
 
 ## Playing Style
 
@@ -47,16 +47,16 @@ Jaska Raatikainen and Matt Greiner both prove that precision, not just speed, de
 ## FAQ
 
 **Q: What are the main differences between Jaska Raatikainen's and Matt Greiner's drum kits?**
-A: Jaska Raatikainen plays Pearl Masters Premium Maple with Zildjian cymbals, while Matt Greiner uses Meinl Drum Festival Kit / Greiner & Kilmer Custom with Meinl cymbals. Raatikainen played a Pearl Masters Premium Maple kit with a Pearl Masters 14x5.5" Maple snare and Zildjian A Custom & K Custom cymbals, powered by a Pearl Eliminator double pedal. Greiner plays a Greiner & Kilmer Custom kit, co-designed with his own drum company, with a matching 14x6.5" Maple snare and Meinl Byzance Series cymbals, driven by a DW 9000 Series double pedal.
+A: Jaska Raatikainen plays Pearl Masters Premium Maple with Zildjian cymbals, while Matt Greiner uses Mapex Black Panther Design Lab with Paiste cymbals. Raatikainen played a Pearl Masters Premium Maple kit with a Pearl Masters 14x5.5" Maple snare and Zildjian A Custom & K Custom cymbals, powered by a Pearl Eliminator double pedal. Greiner plays a Greiner & Kilmer Custom kit, co-designed with his own drum company, with a matching 14x6.5" Maple snare and Meinl Byzance Series cymbals, driven by a DW 9000 Series double pedal.
 
 **Q: What drums does Jaska Raatikainen play vs Matt Greiner?**
-A: Jaska Raatikainen plays Pearl Masters Premium Maple. Matt Greiner plays Meinl Drum Festival Kit / Greiner & Kilmer Custom.
+A: Jaska Raatikainen plays Pearl Masters Premium Maple. Matt Greiner plays Mapex Black Panther Design Lab.
 
 **Q: Who is the better progressive metal drummer, Jaska Raatikainen or Matt Greiner?**
 A: Both are legends in their own right. Jaska Raatikainen and Matt Greiner both prove that precision, not just speed, defines extreme metal's more technical corners. See the full analysis at [metalforge.io/vs/jaska-raatikainen-vs-matt-greiner](https://metalforge.io/vs/jaska-raatikainen-vs-matt-greiner).
 
 **Q: What cymbals do Jaska Raatikainen and Matt Greiner use?**
-A: Jaska Raatikainen uses Zildjian A Custom & K Custom Series (14" A Custom Hi-Hats, 17" & 18" A Custom Crashes, 20" K Custom Ride). Matt Greiner uses Meinl Byzance Series (15" Dual Hi-Hats, 18" & 19" Dual Crashes, 21" Transition Ride, 18" Extra Dry China, 10" & 12" Splashes).
+A: Jaska Raatikainen uses Zildjian A Custom & K Custom Series (14" A Custom Hi-Hats, 17" & 18" A Custom Crashes, 20" K Custom Ride). Matt Greiner uses Paiste Formula 602 (14" Hi-Hats, 16"/17"/18" Crashes, 22" Ride, 18" China, 10" Splash).
 
 ---
 
@@ -67,4 +67,4 @@ A: Jaska Raatikainen uses Zildjian A Custom & K Custom Series (14" A Custom Hi-H
 
 ---
 
-*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

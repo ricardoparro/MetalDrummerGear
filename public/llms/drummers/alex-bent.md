@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/alex-bent"
 source: "https://metalforge.io"
-last_updated: "2026-07-14"
+last_updated: "2026-07-25"
 ---
 
 # Alex Bent — Drum Kit & Gear Setup
@@ -89,6 +89,10 @@ A: Alex Bent uses Remo drumheads across his Pearl Reference Pure kit.
 
 A: Alex Bent drummed for Trivium from 2017 to 2025, and also drums for Eric Peterson's Dragonlord (since 2015) and Arkaik (since 2011).
 
+**Q: Did Alex Bent ever fill in for another drummer?**
+
+A: Alex Bent filled in for Gene Hoglan, one of his key influences, on Testament tour dates in 2015 before joining Trivium in 2017 at producer Mark Lewis's recommendation, going on to record three albums with the band through his departure in October 2025.
+
 ## Signature Licks on MetalForge
 
 MetalForge has 6 signature lick tutorial(s) for Alex Bent:
@@ -132,4 +136,4 @@ Full breakdown: [Alex Bent's pedal setup](https://metalforge.io/pedals/setups/al
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

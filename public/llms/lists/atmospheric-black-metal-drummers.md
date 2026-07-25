@@ -1,6 +1,6 @@
 # Top 10 Atmospheric Black Metal Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-07-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/atmospheric-black-metal-drummers)
+> **Last updated:** 2026-07-25 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/atmospheric-black-metal-drummers)
 
 ---
 
@@ -150,4 +150,4 @@ A: Atmospheric black metal drummers tend toward equipment that emphasizes projec
 
 ---
 
-*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "SJC"
 profile_url: "https://metalforge.io/drummer/abe-cunningham"
 source: "https://metalforge.io"
-last_updated: "2026-07-14"
+last_updated: "2026-07-25"
 ---
 
 # Abe Cunningham — Drum Kit & Gear Setup
@@ -93,6 +93,10 @@ A: Abe Cunningham uses Remo drumheads.
 
 A: Abe Cunningham is a founding member and drummer of Deftones, with the band since its 1988 formation.
 
+**Q: What hi-hats does Abe Cunningham use?**
+
+A: Abe Cunningham plays 14" Zildjian K Custom Hi-Hats, part of the K Custom cymbal setup that suits Deftones' shifts between crushing heaviness and atmospheric restraint.
+
 ## Quotes
 
 > "Dynamics are key. Knowing when not to play is just as important as knowing when to go all out."
@@ -146,4 +150,4 @@ Full breakdown: [Abe Cunningham's pedal setup](https://metalforge.io/pedals/setu
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

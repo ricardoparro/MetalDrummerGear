@@ -1,6 +1,6 @@
 # Top 10 Speed Metal Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-07-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/speed-metal-drummers)
+> **Last updated:** 2026-07-25 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/speed-metal-drummers)
 
 ---
 
@@ -150,4 +150,4 @@ A: Speed metal's velocity-first demands favor large, punchy bass drums and stiff
 
 ---
 
-*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

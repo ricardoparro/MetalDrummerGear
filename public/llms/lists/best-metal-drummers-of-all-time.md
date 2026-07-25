@@ -1,6 +1,6 @@
 # Top 10 Best Metal Drummers of All Time — Complete Ranked Guide
 
-> **Last updated:** 2026-07-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-metal-drummers-of-all-time)
+> **Last updated:** 2026-07-25 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-metal-drummers-of-all-time)
 
 ---
 
@@ -132,4 +132,4 @@ Full drummer profile: [Bill Ward on MetalForge](https://metalforge.io/drummer/bi
 
 ---
 
-*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

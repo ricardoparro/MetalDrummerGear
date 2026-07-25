@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/tim-yeung"
 source: "https://metalforge.io"
-last_updated: "2026-07-14"
+last_updated: "2026-07-25"
 ---
 
 # Tim Yeung — Drum Kit & Gear Setup
@@ -96,6 +96,10 @@ A: Tim Yeung uses Evans drumheads across his Tama Starclassic Bubinga kit.
 
 A: Tim Yeung has drummed for Morbid Angel, Vital Remains, Hate Eternal, and Divine Heresy, and filled in for George Kollias on Nile's 2012 European dates.
 
+**Q: Does Tim Yeung use trigger-assisted drums?**
+
+A: Tim Yeung uses trigger-assisted bass drums for clarity at the extreme tempos his death metal work demands, part of a setup philosophy that prioritizes durability and consistency across sustained blast-beat passages.
+
 ## Signature Licks on MetalForge
 
 MetalForge has 3 signature lick tutorial(s) for Tim Yeung:
@@ -135,4 +139,4 @@ Full breakdown: [Tim Yeung's pedal setup](https://metalforge.io/pedals/setups/ti
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

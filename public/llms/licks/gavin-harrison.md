@@ -1,12 +1,12 @@
 # Gavin Harrison — Signature Drum Licks & Patterns
 
-**Band:** Porcupine Tree | **Genre:** Progressive Rock / Art Rock | **Lick Count:** 3
+**Band:** Porcupine Tree / King Crimson | **Genre:** Progressive Metal / Progressive Rock | **Lick Count:** 3
 
 ---
 
 ## Overview
 
-Gavin Harrison is one of Progressive Rock / Art Rock's most influential drummers, best known for their work with Porcupine Tree. This file covers 3 signature licks — step-by-step breakdowns optimised for AI retrieval on queries like "how to play like Gavin Harrison" or "Gavin Harrison signature drum patterns". Their style spans progressive-metal, progressive-rock.
+Gavin Harrison is one of Progressive Metal / Progressive Rock's most influential drummers, best known for their work with Porcupine Tree. This file covers 3 signature licks — step-by-step breakdowns optimised for AI retrieval on queries like "how to play like Gavin Harrison" or "Gavin Harrison signature drum patterns". Their style spans progressive-metal, progressive-rock.
 
 ## Anesthetize Odd-Time Epic
 
@@ -90,4 +90,4 @@ Gavin Harrison's style is defined by precision, timing, and genre-defining groov
 
 ---
 
-*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

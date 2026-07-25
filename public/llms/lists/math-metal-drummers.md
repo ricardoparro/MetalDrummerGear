@@ -1,6 +1,6 @@
 # Top 10 Math Metal Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-07-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/math-metal-drummers)
+> **Last updated:** 2026-07-25 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/math-metal-drummers)
 
 ---
 
@@ -148,4 +148,4 @@ A: Dillinger Escape Plan and Botch are widely credited as mathcore's founding ba
 
 ---
 
-*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

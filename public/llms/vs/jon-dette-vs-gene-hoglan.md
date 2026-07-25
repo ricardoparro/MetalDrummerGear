@@ -1,6 +1,6 @@
 # Jon Dette vs Gene Hoglan — Drum Kit Comparison
 
-> Side-by-side gear comparison between Jon Dette and Gene Hoglan (Death / Testament / Dethklok).
+> Side-by-side gear comparison between Jon Dette (Slayer) and Gene Hoglan (Death / Testament / Dethklok).
 
 **Category:** Thrash Metal · **URL:** https://metalforge.io/vs/jon-dette-vs-gene-hoglan
 
@@ -10,7 +10,11 @@ Jon Dette vs Gene Hoglan: two of extreme metal's most in-demand touring and sess
 
 ## Jon Dette Setup
 
-- **Drums:** See [Jon Dette profile](https://metalforge.io/drummer/jon-dette)
+- **Drums:** Ludwig Classic Maple
+- **Cymbals:** Sabian AAX / Zildjian A Series (14" Hi-Hats, 16" & 18" Crash, 20" Ride, 18" China)
+- **Snare:** 14x6.5" Metal or Maple Snare
+- **Pedals/Hardware:** DW 9000 or Tama Iron Cobra Double Pedal
+- **Sticks:** Promark / Vater 5B
 
 ## Gene Hoglan Setup
 
@@ -18,7 +22,7 @@ Jon Dette vs Gene Hoglan: two of extreme metal's most in-demand touring and sess
 - **Cymbals:** Sabian AAX Series (15" Hi-Hats, 18" & 20" Crashes, 22" Ride, 20" China)
 - **Snare:** Pearl Reference 14x6.5" Brass
 - **Pedals/Hardware:** Pearl Demon Drive Double Pedal, Pearl D-2000 Throne
-- **Sticks:** Promark 5B
+- **Sticks:** Promark Classic Forward 2B
 
 ## Playing Style
 
@@ -43,10 +47,16 @@ Jon Dette and Gene Hoglan sit at opposite ends of the same profession — both b
 ## FAQ
 
 **Q: What are the main differences between Jon Dette's and Gene Hoglan's drum kits?**
-A: Jon Dette plays custom drums with signature cymbals cymbals, while Gene Hoglan uses Pearl Reference Pure with Sabian cymbals. Jon Dette's rigs varied by gig — Pearl, Tama, or DW drums with 14"x6.5" metal or maple snares, Sabian or Zildjian cymbals, and DW 9000 or Tama Iron Cobra double pedals. Gene Hoglan has been a longtime Pearl Drums endorser, playing a Pearl Reference Pure kit with a Pearl Reference 14"x6.5" Brass snare, Sabian AAX cymbals (15" hi-hats, crashes to 20", 22" ride), and a Pearl Demon Drive double pedal. Both drummers share a preference for Promark 5B sticks — one of the few gear overlaps between a fill-in specialist's ever-changing rig and a career endorser's dialed-in setup.
+A: Jon Dette plays Ludwig Classic Maple with Sabian cymbals, while Gene Hoglan uses Pearl Reference Pure with Sabian cymbals. Jon Dette's rigs varied by gig — Pearl, Tama, or DW drums with 14"x6.5" metal or maple snares, Sabian or Zildjian cymbals, and DW 9000 or Tama Iron Cobra double pedals. Gene Hoglan has been a longtime Pearl Drums endorser, playing a Pearl Reference Pure kit with a Pearl Reference 14"x6.5" Brass snare, Sabian AAX cymbals (15" hi-hats, crashes to 20", 22" ride), and a Pearl Demon Drive double pedal. Both drummers share a preference for Promark 5B sticks — one of the few gear overlaps between a fill-in specialist's ever-changing rig and a career endorser's dialed-in setup.
+
+**Q: What drums does Jon Dette play vs Gene Hoglan?**
+A: Jon Dette plays Ludwig Classic Maple. Gene Hoglan plays Pearl Reference Pure.
 
 **Q: Who is the better thrash metal drummer, Jon Dette or Gene Hoglan?**
 A: Both are legends in their own right. Jon Dette and Gene Hoglan sit at opposite ends of the same profession — both built careers as some of thrash and extreme metal's most in-demand touring and session drummers, and both have held Testament's drum chair at different points. See the full analysis at [metalforge.io/vs/jon-dette-vs-gene-hoglan](https://metalforge.io/vs/jon-dette-vs-gene-hoglan).
+
+**Q: What cymbals do Jon Dette and Gene Hoglan use?**
+A: Jon Dette uses Sabian AAX / Zildjian A Series (14" Hi-Hats, 16" & 18" Crash, 20" Ride, 18" China). Gene Hoglan uses Sabian AAX Series (15" Hi-Hats, 18" & 20" Crashes, 22" Ride, 20" China).
 
 ---
 
@@ -57,4 +67,4 @@ A: Both are legends in their own right. Jon Dette and Gene Hoglan sit at opposit
 
 ---
 
-*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

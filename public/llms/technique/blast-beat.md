@@ -96,4 +96,4 @@ A: Closely related techniques include Gravity Blast, Double Bass, Triggered Drum
 
 ---
 
-*Last updated: 2026-07-17 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

@@ -92,4 +92,4 @@ A: Closely related techniques include Linear Drumming, Blast Beat. Mastering the
 
 ---
 
-*Last updated: 2026-07-17 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

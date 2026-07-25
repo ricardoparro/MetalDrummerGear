@@ -1,6 +1,6 @@
 # MetalForge — Signature Licks Database
 > Drummer signature fills, beats, and patterns with technique breakdowns and tutorial videos.
-Last updated: 2026-07-10 · Source: https://metalforge.io
+Last updated: 2026-07-25 · Source: https://metalforge.io
 
 Step-by-step breakdowns of iconic metal drum licks. Each entry lists tempo, time signature, difficulty, and techniques, followed by an answer-first "how to play it" walkthrough, the tutorial video, and the canonical page URL to cite.
 
@@ -309,6 +309,30 @@ Profile: [https://metalforge.io/drummers/alex-bent](https://metalforge.io/drumme
 
 **Tutorial:** https://www.youtube.com/watch?v=Nf_BDyPxE-8
 **Page:** https://metalforge.io/drummers/alex-bent/licks/alex-bent-a-crisis-of-revelation-drum-setup
+
+## Alex Rüdinger (The Faceless)
+
+Profile: [https://metalforge.io/drummers/alex-rudinger](https://metalforge.io/drummers/alex-rudinger) · All licks: [https://metalforge.io/drummers/alex-rudinger/licks](https://metalforge.io/drummers/alex-rudinger/licks)
+
+### Autotheist Movement III: Deconsecrate — Technical Fill Vocabulary — "Autotheist Movement III: Deconsecrate", Autotheism (2012)
+- **BPM:** ~190 BPM | **Time:** 4/4 (mixed meter sections) | **Difficulty:** Expert (5/5)
+- **Techniques:** blast-beat, double-bass, odd-meter
+
+**How to play it:**
+1. Track the song's shifting structure rather than relying on muscle memory — tempo and meter changes arrive without warning
+2. Keep blast-beat-to-fill transitions tight and controlled during abrupt dynamic shifts
+3. Coordinate rapid double-bass runs with off-beat snare and tom patterns without losing evenness
+4. Maintain total command of dynamics through the track's chaotic-to-sparse contrasts
+5. Internalize the song's form section by section before attempting to play it at full tempo
+
+**Practice tips:**
+- Break the song into its structural sections and drill each tempo/meter change independently
+- Practice the blast-to-fill transitions slowly before attempting them at full speed
+- Use a metronome with tempo markers to internalize exactly where each shift occurs
+- Record yourself against the original track to check that fills land precisely on the arrangement's cues
+
+**Tutorial:** https://www.youtube.com/watch?v=uA-1XZqDocw
+**Page:** https://metalforge.io/drummers/alex-rudinger/licks/alex-rudinger-autotheist-movement-iii-deconsecrate-fills
 
 ## Aquiles Priester (Angra)
 
@@ -2953,6 +2977,30 @@ Profile: [https://metalforge.io/drummers/jay-weinberg](https://metalforge.io/dru
 **Tutorial:** https://www.youtube.com/watch?v=sTs1uxjHDzA
 **Page:** https://metalforge.io/drummers/jay-weinberg/licks/jay-weinberg-duality
 
+## Jimmy DeGrasso (Megadeth)
+
+Profile: [https://metalforge.io/drummers/jimmy-degrasso](https://metalforge.io/drummers/jimmy-degrasso) · All licks: [https://metalforge.io/drummers/jimmy-degrasso/licks](https://metalforge.io/drummers/jimmy-degrasso/licks)
+
+### 1000 Times Goodbye — Driving Verse & Chorus Groove — "1000 Times Goodbye", The World Needs a Hero (2001)
+- **BPM:** ~157 BPM | **Time:** 4/4 | **Difficulty:** Intermediate (3/5)
+- **Techniques:** groove-drumming, dynamic-control, double-bass
+
+**How to play it:**
+1. Lock a hard-hitting, consistent backbeat to the riff through both verse and chorus sections
+2. Keep double-bass work clean and controlled rather than ornamental — power over flash
+3. Shift dynamic intensity between song sections without losing tempo or feel
+4. Prioritize serving the riff and song structure over technical display
+5. Build a reliable, arena-rock pocket sense that transfers across styles and tempos
+
+**Practice tips:**
+- Practice locking the backbeat to a click at 157 BPM before adding song dynamics
+- Keep the double-bass pattern even and controlled rather than rushing for speed
+- Focus on weight and consistency in the backbeat rather than adding extra fills
+- Listen for how the groove intensity shifts between verse and chorus and match it
+
+**Tutorial:** https://www.youtube.com/watch?v=rTIDAfthQ6k
+**Page:** https://metalforge.io/drummers/jimmy-degrasso/licks/jimmy-degrasso-1000-times-goodbye-groove
+
 ## Jocke Wallgren (Amon Amarth)
 
 Profile: [https://metalforge.io/drummers/jocke-wallgren](https://metalforge.io/drummers/jocke-wallgren) · All licks: [https://metalforge.io/drummers/jocke-wallgren/licks](https://metalforge.io/drummers/jocke-wallgren/licks)
@@ -3129,6 +3177,30 @@ Profile: [https://metalforge.io/drummers/joey-jordison](https://metalforge.io/dr
 - Keep the wrists relaxed even under maximum intensity — tension is the enemy of blast-beat stamina
 - Take regular rest breaks to prevent injury — this blast is among the most physically demanding in metal
 **Page:** https://metalforge.io/drummers/joey-jordison/licks/joey-jordison-three-hundred-blast
+
+## John Longstreth (Origin)
+
+Profile: [https://metalforge.io/drummers/john-longstreth](https://metalforge.io/drummers/john-longstreth) · All licks: [https://metalforge.io/drummers/john-longstreth/licks](https://metalforge.io/drummers/john-longstreth/licks)
+
+### Expulsion of Fury — High-Speed Double-Stroke Blast — "Expulsion of Fury", Entity (2011)
+- **BPM:** ~220+ BPM | **Time:** 4/4 | **Difficulty:** Expert (5/5)
+- **Techniques:** blast-beat, double-bass, one-handed-roll
+
+**How to play it:**
+1. Build the double-stroke bass drum pattern at a slow tempo before integrating it with the hands
+2. Keep every blast-beat stroke articulate even as tempo pushes past 220 BPM — control over raw velocity
+3. Practice the one-handed roll technique isolated from the kit before applying it within transitional fills
+4. Develop ankle and leg endurance specifically for sustaining double-stroke kick patterns across a full song
+5. Maintain mechanically even hand patterns above the blast, independent of the foot pattern's complexity
+
+**Practice tips:**
+- Isolate the double-stroke kick pattern on a practice pad or pedal at a slow tempo first
+- Build tempo gradually in small increments, confirming even stroke weight at each stage
+- Practice the one-handed roll separately before integrating it into transitional fills
+- Focus on endurance training for the feet — this pattern must hold up across a full song length
+
+**Tutorial:** https://www.youtube.com/watch?v=sWZ2viSh_3k
+**Page:** https://metalforge.io/drummers/john-longstreth/licks/john-longstreth-expulsion-of-fury-blast
 
 ## John Otto (Limp Bizkit)
 
@@ -4610,6 +4682,30 @@ Profile: [https://metalforge.io/drummers/nick-augusto](https://metalforge.io/dru
 **Tutorial:** https://www.youtube.com/watch?v=tWaye_eG1e8
 **Page:** https://metalforge.io/drummers/nick-augusto/licks/nick-augusto-vengeance-falls-blast
 
+## Nick Barker (Dimmu Borgir)
+
+Profile: [https://metalforge.io/drummers/nick-barker](https://metalforge.io/drummers/nick-barker) · All licks: [https://metalforge.io/drummers/nick-barker/licks](https://metalforge.io/drummers/nick-barker/licks)
+
+### Blessings Upon the Throne of Tyranny — Symphonic Blast & Groove — "Blessings Upon the Throne of Tyranny", Puritanical Euphoric Misanthropia (2001)
+- **BPM:** ~106 BPM (double-time feel) | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **Techniques:** blast-beat, groove-drumming, dynamic-control
+
+**How to play it:**
+1. Sustain a driving, mechanically consistent blast pulse locked tightly to the guitar tremolo picking
+2. Keep cymbal work controlled during blast sections so it doesn't clash with the orchestral and keyboard layers
+3. Pull back dynamically in the groove sections, letting the arrangement's other elements carry the weight
+4. Transition cleanly between blast and groove sections without losing the underlying pulse
+5. Build stamina for sustained blasting at a driving tempo under a dense, multi-layered mix
+
+**Practice tips:**
+- Practice the blast sections at a reduced tempo first, focusing on even stroke weight before building speed
+- Listen for where the orchestration takes over and pull cymbal volume back to match
+- Drill the blast-to-groove transitions as a standalone exercise before playing the full section
+- Build blast-beat stamina gradually — this track requires sustaining intensity across long sections
+
+**Tutorial:** https://www.youtube.com/watch?v=CDeT-Dh5sYk
+**Page:** https://metalforge.io/drummers/nick-barker/licks/nick-barker-blessings-upon-the-throne-of-tyranny-blast
+
 ## Nick Menza (Megadeth)
 
 Profile: [https://metalforge.io/drummers/nick-menza](https://metalforge.io/drummers/nick-menza) · All licks: [https://metalforge.io/drummers/nick-menza/licks](https://metalforge.io/drummers/nick-menza/licks)
@@ -5855,6 +5951,30 @@ Profile: [https://metalforge.io/drummers/vinnie-paul](https://metalforge.io/drum
 - Swing the hi-hat feel very subtly — too straight loses the swagger, too much loses the power
 - Play along with the track and match the weight and attitude before worrying about precision
 **Page:** https://metalforge.io/drummers/vinnie-paul/licks/vinnie-paul-walk-drum-groove
+
+## Waltteri Väyrynen (Opeth)
+
+Profile: [https://metalforge.io/drummers/waltteri-vayrynen](https://metalforge.io/drummers/waltteri-vayrynen) · All licks: [https://metalforge.io/drummers/waltteri-vayrynen/licks](https://metalforge.io/drummers/waltteri-vayrynen/licks)
+
+### §6 — Progressive Drum Showcase — "§6", The Last Will and Testament (2024)
+- **BPM:** ~120 BPM (tempo shifts throughout) | **Time:** mixed meter | **Difficulty:** Advanced (4/5)
+- **Techniques:** dynamic-control, syncopation, groove-drumming
+
+**How to play it:**
+1. Maintain internal tempo control as the song's underlying feel shifts through the section
+2. Move fluidly between technical, syncopated patterns and open, dynamically-shaded playing
+3. Fill space actively during the featured drum passage without derailing the song's build
+4. Pull back convincingly in touch and volume when the arrangement hands focus to another instrument
+5. Listen compositionally to identify when a part is meant to lead versus support
+
+**Practice tips:**
+- Learn the underlying tempo map of the section before attempting to add dynamic shading
+- Practice the syncopated patterns slowly against a click, isolating hands from feet first
+- Study the featured drum passage separately from the surrounding groove to build confidence leading the arrangement
+- Watch the official playthrough video closely for touch and dynamics, not just note placement
+
+**Tutorial:** https://www.youtube.com/watch?v=dhPFNnL2MZs
+**Page:** https://metalforge.io/drummers/waltteri-vayrynen/licks/waltteri-vayrynen-section-6-showcase
 
 ---
 

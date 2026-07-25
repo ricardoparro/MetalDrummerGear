@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/paul-bostaph"
 source: "https://metalforge.io"
-last_updated: "2026-07-14"
+last_updated: "2026-07-25"
 ---
 
 # Paul Bostaph — Drum Kit & Gear Setup
@@ -90,6 +90,10 @@ A: Paul Bostaph uses Remo Powerstroke 3, Emperor Coated, and Ambassador drumhead
 
 A: Paul Bostaph is Slayer's longest-serving drummer, playing with the band from 1992-2001 and 2013-2019. He has also drummed for Testament (1999-2001, 2024-present), Exodus (2005-2007), and Forbidden (1987-1989).
 
+**Q: How long did Paul Bostaph play with Slayer?**
+
+A: Paul Bostaph is Slayer's longest-serving drummer, spanning 12 total years across two separate tenures — 1992-2001 and 2013-2019 — and appearing on four studio albums, including Repentless (2015) and the band's final show at the Forum in Los Angeles on November 30, 2019.
+
 ## Signature Licks on MetalForge
 
 MetalForge has 3 signature lick tutorial(s) for Paul Bostaph:
@@ -130,4 +134,4 @@ Full breakdown: [Paul Bostaph's pedal setup](https://metalforge.io/pedals/setups
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

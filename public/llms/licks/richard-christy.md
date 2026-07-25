@@ -1,12 +1,12 @@
 # Richard Christy — Signature Drum Licks & Patterns
 
-**Band:** Death | **Genre:** Technical Death Metal / Death Metal | **Lick Count:** 3
+**Band:** Death / Iced Earth | **Genre:** Death Metal / Thrash Metal | **Lick Count:** 3
 
 ---
 
 ## Overview
 
-Richard Christy is one of Technical Death Metal / Death Metal's most influential drummers, best known for their work with Death. This file covers 3 signature licks — step-by-step breakdowns optimised for AI retrieval on queries like "how to play like Richard Christy" or "Richard Christy signature drum patterns". Their style spans technical-death-metal.
+Richard Christy is one of Death Metal / Thrash Metal's most influential drummers, best known for their work with Death. This file covers 3 signature licks — step-by-step breakdowns optimised for AI retrieval on queries like "how to play like Richard Christy" or "Richard Christy signature drum patterns". Their style spans technical-death-metal.
 
 ## Scavenger of Human Sorrow Blast Sequence
 
@@ -90,4 +90,4 @@ Richard Christy's style is defined by precision, timing, and genre-defining groo
 
 ---
 
-*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

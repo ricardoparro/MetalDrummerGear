@@ -1,6 +1,6 @@
 # Top 10 Technical Thrash Metal Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-07-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/technical-thrash-metal-drummers)
+> **Last updated:** 2026-07-25 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/technical-thrash-metal-drummers)
 
 ---
 
@@ -148,4 +148,4 @@ A: Technical thrash's demanding fill work and sustained double-bass precision fa
 
 ---
 
-*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

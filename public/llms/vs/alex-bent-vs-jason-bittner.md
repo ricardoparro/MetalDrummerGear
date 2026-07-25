@@ -67,4 +67,4 @@ A: Alex Bent uses Zildjian (14" K Custom Hybrid Hi-Hats, 18" & 19" K Custom Hybr
 
 ---
 
-*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

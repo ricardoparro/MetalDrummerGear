@@ -6,7 +6,7 @@ country: "Sweden"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/adrian-erlandsson"
 source: "https://metalforge.io"
-last_updated: "2026-07-14"
+last_updated: "2026-07-25"
 ---
 
 # Adrian Erlandsson — Drum Kit & Gear Setup
@@ -77,6 +77,22 @@ A: Yes — Adrian Erlandsson was Cradle of Filth's drummer from 1999 to 2006, re
 
 A: Adrian Erlandsson used a budget Pearl Export kit for At the Gates' Slaughter of the Soul (1995), a deliberate departure from prestige gear that matched the album's Studio Fredman house-kit circumstances.
 
+**Q: What drum set does Adrian Erlandsson use?**
+
+A: Adrian Erlandsson's current drum set is a Tama Starclassic Bubinga configuration with double 22" bass drums and a four-tom setup, built around a Tama Starclassic Bubinga 14"x6.5" snare — a career-long relationship with Tama that began when he founded The Haunted and joined Cradle of Filth in the late 1990s.
+
+**Q: What cymbals does Adrian Erlandsson use?**
+
+A: Adrian Erlandsson uses Sabian AAX/HHX Series cymbals: 15" HHX Xcelerator hi-hats, a 20" AAX Iso crash, and a 19" Paragon China.
+
+**Q: What snare drum does Adrian Erlandsson use?**
+
+A: Adrian Erlandsson plays a Tama Starclassic Bubinga 14"x6.5" snare drum.
+
+**Q: What pedals does Adrian Erlandsson use?**
+
+A: Adrian Erlandsson drives his double bass drums with a Monolit Czarcie Kopyto double pedal, a boutique Polish pedal he adopted during his Paradise Lost years (2009-2016).
+
 ## Signature Licks on MetalForge
 
 MetalForge has 3 signature lick tutorial(s) for Adrian Erlandsson:
@@ -115,4 +131,4 @@ Full breakdown: [Adrian Erlandsson's pedal setup](https://metalforge.io/pedals/s
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

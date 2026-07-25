@@ -14,7 +14,7 @@ Gene Hoglan vs Pete Sandoval — "The Atomic Clock" precision versus the gravity
 - **Cymbals:** Sabian AAX Series (15" Hi-Hats, 18" & 20" Crashes, 22" Ride, 20" China)
 - **Snare:** Pearl Reference 14x6.5" Brass
 - **Pedals/Hardware:** Pearl Demon Drive Double Pedal, Pearl D-2000 Throne
-- **Sticks:** Promark 5B
+- **Sticks:** Promark Classic Forward 2B
 
 ## Pete Sandoval Setup
 
@@ -22,7 +22,7 @@ Gene Hoglan vs Pete Sandoval — "The Atomic Clock" precision versus the gravity
 - **Cymbals:** Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 20" Stage Ride, 18" Chinese)
 - **Snare:** ddrum Dios 14x6.5" Maple
 - **Pedals/Hardware:** ddrum Mercury Double Pedal, ddrum Throne
-- **Sticks:** Ahead Lars Ulrich Signature
+- **Sticks:** Pro-Mark (historical endorsement — current sticks unverified)
 
 ## Playing Style
 
@@ -67,4 +67,4 @@ A: Gene Hoglan uses Sabian AAX Series (15" Hi-Hats, 18" & 20" Crashes, 22" Ride,
 
 ---
 
-*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

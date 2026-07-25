@@ -1,6 +1,6 @@
 # Top 10 Crossover Thrash Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-07-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/crossover-thrash-drummers)
+> **Last updated:** 2026-07-25 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/crossover-thrash-drummers)
 
 ---
 
@@ -147,4 +147,4 @@ A: The core crossover thrash bands include Stormtroopers of Death (S.O.D.), D.R.
 
 ---
 
-*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

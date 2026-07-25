@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Ludwig"
 profile_url: "https://metalforge.io/drummer/jon-dette"
 source: "https://metalforge.io"
-last_updated: "2026-07-14"
+last_updated: "2026-07-25"
 ---
 
 # Jon Dette — Drum Kit & Gear Setup
@@ -88,6 +88,10 @@ A: Jon Dette uses Remo Powerstroke 3 heads on his kick, Emperor Coated on his to
 
 A: Jon Dette was Slayer's touring drummer in 1996-1997, then drummed for Testament across two stints (1997-1999, 2001-2012), recording The Gathering (1999), The Formation of Damnation (2008), and Dark Roots of Earth (2012). He also filled in for Charlie Benante on a 2010 Anthrax tour.
 
+**Q: How did Jon Dette join Slayer?**
+
+A: Jon Dette joined Slayer in 1996 as touring drummer, filling in when Paul Bostaph was temporarily unavailable, and left in 1997 when Bostaph returned to the band. He went on to become a longer-term member of Testament.
+
 ## Signature Licks on MetalForge
 
 MetalForge has 3 signature lick tutorial(s) for Jon Dette:
@@ -128,4 +132,4 @@ Full breakdown: [Jon Dette's pedal setup](https://metalforge.io/pedals/setups/jo
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

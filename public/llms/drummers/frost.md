@@ -6,7 +6,7 @@ country: "Norway"
 primary_brand: "Sonor"
 profile_url: "https://metalforge.io/drummer/frost"
 source: "https://metalforge.io"
-last_updated: "2026-07-14"
+last_updated: "2026-07-25"
 ---
 
 # Frost — Drum Kit & Gear Setup
@@ -95,6 +95,10 @@ A: Frost drives his hyperspeed double bass patterns with a Sonor Perfect Balance
 
 A: Frost plays Vic Firth American Classic Extreme 5B drumsticks.
 
+**Q: What drumheads does Frost use?**
+
+A: Frost uses Remo drumheads across his Sonor SQ2 Series drum kit, giving him consistent response for the hyperspeed blast beats he plays with both Satyricon and 1349.
+
 ## Quotes
 
 > "Black metal drumming is about channeling darkness and aggression through precision."
@@ -146,4 +150,4 @@ Full breakdown: [Frost's pedal setup](https://metalforge.io/pedals/setups/frost)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

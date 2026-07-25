@@ -1,6 +1,6 @@
 # Top 10 Viking Metal Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-07-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/viking-metal-drummers)
+> **Last updated:** 2026-07-25 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/viking-metal-drummers)
 
 ---
 
@@ -150,4 +150,4 @@ A: Jocke Wallgren's Pearl Reference Pure kit with Zildjian A Custom and K Custom
 
 ---
 
-*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

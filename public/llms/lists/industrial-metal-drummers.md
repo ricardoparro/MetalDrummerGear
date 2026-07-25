@@ -1,6 +1,6 @@
 # Top 10 Industrial Metal Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-07-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/industrial-metal-drummers)
+> **Last updated:** 2026-07-25 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/industrial-metal-drummers)
 
 ---
 
@@ -150,4 +150,4 @@ A: Fear Factory's "Demanufacture" (1995, Raymond Herrera) is the genre's most wi
 
 ---
 
-*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

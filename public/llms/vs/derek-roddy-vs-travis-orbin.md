@@ -14,7 +14,7 @@ Derek Roddy (Hate Eternal) vs Travis Orbin (ex-Periphery): brutal death metal bl
 - **Cymbals:** Meinl Byzance & Mb20 Series (14" Byzance Heavy Hi-Hats, 18" & 19" Mb20 Heavy Crashes, 21" Mb20 Heavy Ride, 18" Byzance China)
 - **Snare:** Tama SLP Black Brass 14x6.5"
 - **Pedals/Hardware:** Tama Speed Cobra 910 Double Pedal
-- **Sticks:** Vic Firth Derek Roddy Signature
+- **Sticks:** Vater Player's Design Derek Roddy Model (VHDRW)
 
 ## Travis Orbin Setup
 
@@ -67,4 +67,4 @@ A: Derek Roddy uses Meinl Byzance & Mb20 Series (14" Byzance Heavy Hi-Hats, 18" 
 
 ---
 
-*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

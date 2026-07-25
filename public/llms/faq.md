@@ -1,5 +1,5 @@
 # MetalForge — Master FAQ
-> Last Updated: 2026-07-03 · Source: https://metalforge.io
+> Last Updated: 2026-07-25 · Source: https://metalforge.io
 
 Answer-first FAQ for the gear and techniques of the world's legendary metal drummers. Every answer links to a deeper source page on MetalForge.
 
@@ -102,7 +102,7 @@ Nick Augusto plays Pearl Reference Pure. The ex-Trivium drummer rounds out the k
 Chris Turner plays Tama Starclassic Maple/Birch. The Oceans Ate Alaska drummer rounds out the kit with a Tama S.L.P. 14x5.5" G-Maple snare and Meinl Byzance Series (15" Dual Hi-Hats, 18" & 20" Extra Dry Medium Crashes, 22" Dual Ride, 18" Extra Dry China) cymbals. [see /llms/drummers/chris-turner.md]
 
 ### What drums does Matt Greiner use?
-Matt Greiner plays Meinl Drum Festival Kit / Greiner & Kilmer Custom. The August Burns Red drummer rounds out the kit with a Greiner & Kilmer Custom 14x6.5" Maple snare and Meinl Byzance Series (15" Dual Hi-Hats, 18" & 19" Dual Crashes, 21" Transition Ride, 18" Extra Dry China, 10" & 12" Splashes) cymbals. [see /llms/drummers/matt-greiner.md]
+Matt Greiner plays Mapex Black Panther Design Lab. The August Burns Red drummer rounds out the kit with a Mapex Black Panther 14x5.5" Maple snare and Paiste Formula 602 (14" Hi-Hats, 16"/17"/18" Crashes, 22" Ride, 18" China, 10" Splash) cymbals. [see /llms/drummers/matt-greiner.md]
 
 ### What drums does Blake Richardson use?
 Blake Richardson plays Tama Starclassic Bubinga (Custom Finish). The Between the Buried and Me drummer rounds out the kit with a Tama STARPHONIC 14x6" Brass snare and Sabian (14" HHX Evolution Hi-Hats, 18" HHX Evolution Crash, 17" & 21" AAX Holy Chinas, 21" HH Raw Bell Dry Ride, 10" HH Duo Splash, 9" Radia Cup Chime) cymbals. [see /llms/drummers/blake-richardson.md]
@@ -190,6 +190,36 @@ Isaac Lamb plays SJC Custom Drums. The Kublai Khan TX drummer rounds out the kit
 
 ### What drums does Martin Axenrot use?
 Martin Axenrot plays Sonor SQ2 Series. The Opeth drummer rounds out the kit with a Sonor SQ2 14x5.75" Maple snare and Meinl Byzance Series (14" Traditional Medium Hi-Hats, 16" & 18" & 19" Crashes, 22" Traditional Ride, 18" China) cymbals. [see /llms/drummers/martin-axenrot.md]
+
+### What drums does Paul Bostaph use?
+Paul Bostaph plays Pearl Masters Maple Complete (MCX). The Slayer drummer rounds out the kit with a Pearl Masters Steel 14x6.5" snare and Sabian AAX Series (14" AAX Stage Hi-Hats, 17" & 19" AAX X-Plosion Crashes, 21" AAX Stage Ride, 18" AAXtreme China) cymbals. [see /llms/drummers/paul-bostaph.md]
+
+### What drums does Sean Reinert use?
+Sean Reinert plays Tama Artstar II. The Death / Cynic drummer rounds out the kit with a Tama Artstar II Birch 14x5.5" snare and Zildjian A/K Series (14" A Quick Beat Hi-Hats, 16" & 18" A Crashes, 20" K Custom Dry Ride, 16" China, 10" A Splash) cymbals. [see /llms/drummers/sean-reinert.md]
+
+### What drums does Nick Menza use?
+Nick Menza plays Tama Swingstar. The Megadeth drummer rounds out the kit with a Tama Steel Snare 14x5.5" snare and Zildjian A Series (14" A Hi-Hats, 16" & 18" A Crash, 20" A Ride) cymbals. [see /llms/drummers/nick-menza.md]
+
+### What drums does Adrian Erlandsson use?
+Adrian Erlandsson plays Tama Starclassic Bubinga. The At the Gates drummer rounds out the kit with a Tama Starclassic Bubinga 14x6.5" snare and Sabian AAX/HHX Series (15" HHX Xcelerator Hi-Hats, 20" AAX Iso Crash, 19" AAX Paragon China) cymbals. [see /llms/drummers/adrian-erlandsson.md]
+
+### What drums does Jon Dette use?
+Jon Dette plays Ludwig Classic Maple. The Slayer drummer rounds out the kit with a 14x6.5" Metal or Maple Snare snare and Sabian AAX / Zildjian A Series (14" Hi-Hats, 16" & 18" Crash, 20" Ride, 18" China) cymbals. [see /llms/drummers/jon-dette.md]
+
+### What drums does Jimmy DeGrasso use?
+Jimmy DeGrasso plays Pearl. The Megadeth drummer rounds out the kit with a Pearl JD1455 Jimmy DeGrasso Signature 14x5.5" Hammered Brass snare and Sabian cymbals. [see /llms/drummers/jimmy-degrasso.md]
+
+### What drums does Nick Barker use?
+Nick Barker plays Sonor. [see /llms/drummers/nick-barker.md]
+
+### What drums does Alex Rüdinger use?
+Alex Rüdinger plays Tama Starclassic Performer B/B. The The Faceless drummer rounds out the kit with a Tama STARPHONIC Brass 14x6" (or SLP Black Brass alternate) snare and Meinl Cymbals (Byzance and MB20 series; specific models not independently documented — omitted rather than guessed) cymbals. [see /llms/drummers/alex-rudinger.md]
+
+### What drums does John Longstreth use?
+John Longstreth plays Pearl (endorsement confirmed via his own Scorpion Percussion artist bio; specific kit model/shell sizes not independently documented — omitted rather than guessed). The Origin drummer rounds out the kit with Meinl Classics Custom Dark Series (8" Dark Splash, 14" Dark Hihat, 18" Dark China) + Meinl Generation X 12"/14" Trash Hat cymbals. [see /llms/drummers/john-longstreth.md]
+
+### What drums does Waltteri Väyrynen use?
+Waltteri Väyrynen plays Pearl (endorsement confirmed via Pearl's own artist roster and corroborated by Antelope Audio's 2020 studio-session writeup; specific kit model/shell sizes not independently documented — omitted rather than guessed). The Opeth drummer rounds out the kit with Sabian (endorsed artist; confirmed favourite piece per Sabian's own artist page: 22" HH Power Bell Ride — full setup not itemized there, so omitted rather than guessed) cymbals. [see /llms/drummers/waltteri-vayrynen.md]
 
 ## General Metal Drumming
 

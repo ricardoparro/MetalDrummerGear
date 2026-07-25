@@ -14,7 +14,7 @@ Gene Hoglan and George Kollias face off in the MetalForge community drum kit bat
 **Genre:** Death Metal / Thrash Metal  
 **Current Kit:** Pearl Reference Pure  
 **Cymbals:** Sabian AAX Series (15" Hi-Hats, 18" & 20" Crashes, 22" Ride, 20" China)  
-**Key Gear:** Pearl Reference 14x6.5" Brass, Pearl Demon Drive Double Pedal, Promark 5B  
+**Key Gear:** Pearl Reference 14x6.5" Brass, Pearl Demon Drive Double Pedal, Promark Classic Forward 2B  
 
 ## George Kollias Drum Kit Setup
 
@@ -58,4 +58,4 @@ A: Gene Hoglan uses Sabian AAX Series (15" Hi-Hats, 18" & 20" Crashes, 22" Ride,
 
 ---
 
-*Last updated: 2026-06-19 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

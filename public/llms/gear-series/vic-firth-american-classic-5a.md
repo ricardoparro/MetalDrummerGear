@@ -17,7 +17,7 @@
 - **[Matt Greiner](https://metalforge.io/drummer/matt-greiner)** (August Burns Red) — standard configuration
 - **[Flo Mounier](https://metalforge.io/drummer/flo-mounier)** (Cryptopsy) — standard configuration
 - **[Martin Lopez](https://metalforge.io/drummer/martin-lopez)** (Soen / ex-Opeth) — standard configuration
-- **[Chris Turner](https://metalforge.io/drummer/chris-turner)** (Devin Townsend Project) — standard configuration
+- **[Chris Turner](https://metalforge.io/drummer/chris-turner)** (Oceans Ate Alaska) — standard configuration
 - **[Richard Christy](https://metalforge.io/drummer/richard-christy)** (Death / Iced Earth) — standard configuration
 - **[Jaska Raatikainen](https://metalforge.io/drummer/jaska-raatikainen)** (Children of Bodom) — standard configuration
 - **[Tim Yeung](https://metalforge.io/drummer/tim-yeung)** (Morbid Angel / Hate Eternal / Vital Remains) — standard configuration
@@ -50,4 +50,4 @@ A: MetalForge tracks all Vic Firth series used by professional metal drummers. V
 
 ---
 
-*Source: [metalforge.io/gear/vic-firth/american-classic-5a/drummers-using](https://metalforge.io/gear/vic-firth/american-classic-5a/drummers-using) · Last updated: 2026-07-03*
+*Source: [metalforge.io/gear/vic-firth/american-classic-5a/drummers-using](https://metalforge.io/gear/vic-firth/american-classic-5a/drummers-using) · Last updated: 2026-07-25*

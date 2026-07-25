@@ -6,7 +6,7 @@ country: "Sweden"
 primary_brand: "Sonor"
 profile_url: "https://metalforge.io/drummer/morgan-agren"
 source: "https://metalforge.io"
-last_updated: "2026-07-14"
+last_updated: "2026-07-25"
 ---
 
 # Morgan Ågren — Drum Kit & Gear Setup
@@ -91,6 +91,10 @@ A: Morgan Ågren uses Remo drumheads across his Sonor SQ2 kit.
 
 A: Morgan Ågren co-founded the Mats/Morgan Band with keyboardist Mats Öberg in 1981 and has drummed for Devin Townsend Project (2012-2016), Kaipa (2002-2005), and toured with Frank Zappa's band in 1988.
 
+**Q: How did Morgan Ågren start working with Frank Zappa?**
+
+A: Morgan Ågren was personally selected by Frank Zappa to tour with his band in 1988, a milestone that introduced his virtuosic playing to a global audience alongside his ongoing work co-founding and drumming for the Mats/Morgan Band since 1981.
+
 ## Signature Licks on MetalForge
 
 MetalForge has 3 signature lick tutorial(s) for Morgan Ågren:
@@ -131,4 +135,4 @@ Full breakdown: [Morgan Ågren's pedal setup](https://metalforge.io/pedals/setup
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

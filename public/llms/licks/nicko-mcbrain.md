@@ -1,12 +1,12 @@
 # Nicko McBrain — Signature Drum Licks & Patterns
 
-**Band:** Iron Maiden | **Genre:** Heavy Metal | **Lick Count:** 3
+**Band:** Iron Maiden | **Genre:** Heavy Metal / NWOBHM | **Lick Count:** 3
 
 ---
 
 ## Overview
 
-Nicko McBrain is one of Heavy Metal's most influential drummers, best known for their work with Iron Maiden. This file covers 3 signature licks — step-by-step breakdowns optimised for AI retrieval on queries like "how to play like Nicko McBrain" or "Nicko McBrain signature drum patterns". Their style spans heavy-metal.
+Nicko McBrain is one of Heavy Metal / NWOBHM's most influential drummers, best known for their work with Iron Maiden. This file covers 3 signature licks — step-by-step breakdowns optimised for AI retrieval on queries like "how to play like Nicko McBrain" or "Nicko McBrain signature drum patterns". Their style spans heavy-metal.
 
 ## The Trooper Galloping Groove
 
@@ -90,4 +90,4 @@ Nicko McBrain's style is defined by precision, timing, and genre-defining groove
 
 ---
 
-*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

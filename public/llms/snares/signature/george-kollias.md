@@ -34,4 +34,4 @@ A: George Kollias plays the Pearl George Kollias Signature — a signature snare
 
 ---
 
-*Last updated: 2026-07-13 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/ben-koller"
 source: "https://metalforge.io"
-last_updated: "2026-07-15"
+last_updated: "2026-07-25"
 ---
 
 # Ben Koller — Drum Kit & Gear Setup
@@ -80,6 +80,10 @@ A: Ben Koller joined Converge in 1999, replacing original drummer Damon Bellorad
 
 A: Ben Koller plays a Tama Starclassic Maple drum kit, the streamlined, hard-hitting configuration that powers Converge's sonic brutality on records like "Jane Doe," "You Fail Me," and "The Dusk in Us."
 
+**Q: What drum set does Ben Koller use?**
+
+A: Ben Koller's drum set pairs his Tama Starclassic Maple shells and S.L.P. 14"x6" Brass snare with a Tama Iron Cobra 900 double pedal, the stripped-down, hard-hitting configuration that powers Converge's sonic brutality.
+
 **Q: What snare does Ben Koller use?**
 
 A: Koller's snare is a Tama S.L.P. 14"x6" Brass, delivering the sharp, cutting crack that slices through Converge's dense guitar assault.
@@ -136,4 +140,4 @@ Full breakdown: [Ben Koller's pedal setup](https://metalforge.io/pedals/setups/b
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-15 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

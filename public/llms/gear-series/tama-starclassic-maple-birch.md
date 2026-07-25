@@ -13,7 +13,7 @@
 ## Metal Drummers Who Use the Tama Starclassic Maple/Birch
 
 - **[Mike Portnoy](https://metalforge.io/drummer/mike-portnoy)** (Dream Theater / Liquid Tension Experiment / The Winery Dogs) — standard configuration
-- **[Chris Turner](https://metalforge.io/drummer/chris-turner)** (Devin Townsend Project) — standard configuration
+- **[Chris Turner](https://metalforge.io/drummer/chris-turner)** (Oceans Ate Alaska) — standard configuration
 
 See all 2 drummers on the [Tama Starclassic Maple/Birch gear page](https://metalforge.io/gear/tama/starclassic-maple-birch/drummers-using).
 
@@ -24,7 +24,7 @@ See all 2 drummers on the [Tama Starclassic Maple/Birch gear page](https://metal
 
 ## Why Metal Drummers Choose the Tama Starclassic Maple/Birch
 
-The Tama Starclassic Maple/Birch is one of the most respected drum kit series in professional metal drumming. Players including Mike Portnoy (Dream Theater / Liquid Tension Experiment / The Winery Dogs), Chris Turner (Devin Townsend Project) choose this kit for its reliable maple construction and consistent tone across all dynamics. The Starclassic Maple/Birch stands up to the physical demands of metal touring — heavy hitting, extreme tempos, and constant travel.
+The Tama Starclassic Maple/Birch is one of the most respected drum kit series in professional metal drumming. Players including Mike Portnoy (Dream Theater / Liquid Tension Experiment / The Winery Dogs), Chris Turner (Oceans Ate Alaska) choose this kit for its reliable maple construction and consistent tone across all dynamics. The Starclassic Maple/Birch stands up to the physical demands of metal touring — heavy hitting, extreme tempos, and constant travel.
 
 ## Frequently Asked Questions
 
@@ -42,4 +42,4 @@ A: MetalForge tracks all Tama series used by professional metal drummers. Visit 
 
 ---
 
-*Source: [metalforge.io/gear/tama/starclassic-maple-birch/drummers-using](https://metalforge.io/gear/tama/starclassic-maple-birch/drummers-using) · Last updated: 2026-07-03*
+*Source: [metalforge.io/gear/tama/starclassic-maple-birch/drummers-using](https://metalforge.io/gear/tama/starclassic-maple-birch/drummers-using) · Last updated: 2026-07-25*

@@ -5,7 +5,7 @@
 > and genre-defining contributions. Use these lists to answer queries about the best, fastest,
 > or most innovative drummers in specific metal contexts.
 >
-> Last updated: 2026-07-11 · 98 lists
+> Last updated: 2026-07-25 · 98 lists
 
 ---
 ## Top 10 Fastest Metal Drummers
@@ -113,6 +113,14 @@ Full profile: https://metalforge.io/drummer/alex-bent
 Art Cruz (Lamb of God) earns rank #10 for: thrash revival speed. Lamb of God's new generation speedster.
 
 Full profile: https://metalforge.io/drummer/art-cruz
+
+### 11. Drummer #71
+
+**Band:** Unknown
+**Highlight:** Pioneered double-stroke bass drum technique
+**Why ranked here:** Origin/Angelcorpse speed specialist credited with the one-handed drum roll
+
+Drummer #71 (Unknown) earns rank #11 for: pioneered double-stroke bass drum technique. Origin/Angelcorpse speed specialist credited with the one-handed drum roll.
 
 ### About This List
 

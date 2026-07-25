@@ -14,7 +14,7 @@ Motörhead's Mikkey Dee vs Pantera's Vinnie Paul. Two heavy metal powerhouse dru
 - **Cymbals:** Zildjian A Custom & K Series (14" A Custom Hi-Hats, 18" & 19" A Custom Crashes, 22" K Custom Ride, 20" Oriental China)
 - **Snare:** Yamaha Mikkey Dee Signature 14x8"
 - **Pedals/Hardware:** Yamaha FP9 Double Pedal, Yamaha Hardware
-- **Sticks:** Vic Firth Mikkey Dee Signature
+- **Sticks:** Wincent Mikkey Dee Signature (W-MDS)
 
 ## Vinnie Paul Setup
 
@@ -67,4 +67,4 @@ A: Mikkey Dee uses Zildjian A Custom & K Series (14" A Custom Hi-Hats, 18" & 19"
 
 ---
 
-*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

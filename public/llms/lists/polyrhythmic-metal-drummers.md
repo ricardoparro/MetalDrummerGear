@@ -1,6 +1,6 @@
 # Top 10 Polyrhythmic Metal Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-07-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/polyrhythmic-metal-drummers)
+> **Last updated:** 2026-07-25 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/polyrhythmic-metal-drummers)
 
 ---
 
@@ -130,4 +130,4 @@ A: Tomas Haake and Danny Carey both play Sonor SQ2 kits, prized for the warm, co
 
 ---
 
-*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

@@ -81,4 +81,4 @@ A: Five: Undertow (1993), AEnima (1996), Lateralus (2001), 10,000 Days (2006), a
 
 **More resources:** [All bands](https://metalforge.io/llms/bands.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-07-16 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

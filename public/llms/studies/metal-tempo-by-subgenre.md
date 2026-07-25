@@ -1,6 +1,6 @@
 # Metal Tempo by Subgenre: How Fast Is Death Metal, Really?
 
-> **Last updated:** 2026-07-17 · **Source:** [MetalForge.io](https://metalforge.io) · [View full study →](https://metalforge.io/studies/metal-tempo-by-subgenre)
+> **Last updated:** 2026-07-25 · **Source:** [MetalForge.io](https://metalforge.io) · [View full study →](https://metalforge.io/studies/metal-tempo-by-subgenre)
 
 ---
 
@@ -67,4 +67,4 @@ Dataset: 150 songs in MetalForge's tempo database, snapshot dated 2026-07-16. Ov
 
 ---
 
-*Last updated: 2026-07-17 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

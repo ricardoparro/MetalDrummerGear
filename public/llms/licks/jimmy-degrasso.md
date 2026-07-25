@@ -44,4 +44,4 @@ Jimmy DeGrasso's style is defined by precision, timing, and genre-defining groov
 
 ---
 
-*Last updated: 2026-07-24 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

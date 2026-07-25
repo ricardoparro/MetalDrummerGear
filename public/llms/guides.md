@@ -1,6 +1,6 @@
 # MetalForge Drummer Style Guides
 
-> Last updated: 2026-07-15 · Source: https://metalforge.io
+> Last updated: 2026-07-25 · Source: https://metalforge.io
 
 MetalForge publishes two categories of drummer guides: **how-to-sound-like** style breakdowns for metal legends, and **beginner gear guides** for drummers building their first kit. All guides cover drumming technique, exact gear setups, tuning, and practice methods.
 
@@ -8,7 +8,7 @@ MetalForge publishes two categories of drummer guides: **how-to-sound-like** sty
 
 ## How to Sound Like: Index
 
-67 in-depth guides — each covers style, technique, gear, tuning, and recommended songs to study.
+72 in-depth guides — each covers style, technique, gear, tuning, and recommended songs to study.
 
 - [Joey Jordison — Slipknot](https://metalforge.io/guides/how-to-sound-like-joey-jordison) · Nu-Metal / Alternative Metal
 - [Danny Carey — Tool](https://metalforge.io/guides/how-to-sound-like-danny-carey) · Progressive Metal / Art Metal
@@ -77,6 +77,11 @@ MetalForge publishes two categories of drummer guides: **how-to-sound-like** sty
 - [Kevin Talley — Dying Fetus / Misery Index / Six Feet Under](https://metalforge.io/guides/how-to-sound-like-kevin-talley) · Brutal Death Metal / Grindcore
 - [Isaac Lamb — Kublai Khan TX](https://metalforge.io/guides/how-to-sound-like-isaac-lamb) · Metalcore / Beatdown Hardcore
 - [Martin Axenrot — Opeth](https://metalforge.io/guides/how-to-sound-like-martin-axenrot) · Progressive Metal / Progressive Death Metal
+- [Jimmy DeGrasso — Megadeth](https://metalforge.io/guides/how-to-sound-like-jimmy-degrasso) · Thrash Metal
+- [Nick Barker — Dimmu Borgir](https://metalforge.io/guides/how-to-sound-like-nick-barker) · Black Metal / Death Metal
+- [Alex Rüdinger — The Faceless](https://metalforge.io/guides/how-to-sound-like-alex-rudinger) · Technical Death Metal / Progressive Metal
+- [John Longstreth — Origin](https://metalforge.io/guides/how-to-sound-like-john-longstreth) · Technical Death Metal / Brutal Death Metal
+- [Waltteri Väyrynen — Opeth](https://metalforge.io/guides/how-to-sound-like-waltteri-vayrynen) · Progressive Metal / Gothic Doom Metal
 
 ---
 
@@ -2488,6 +2493,177 @@ Axenrot's technique spans two registers: the twin-kick, high-intensity attack he
 - Snare: Sonor Sonor SQ2 Maple Snare
 - Cymbals: Meinl Meinl Byzance Series
 - Pedals: Tama Tama Iron Cobra Double Pedal
+
+---
+
+## How to Sound Like Jimmy DeGrasso (Megadeth)
+
+**Genre:** Thrash Metal  
+**Guide URL:** [https://metalforge.io/guides/how-to-sound-like-jimmy-degrasso](https://metalforge.io/guides/how-to-sound-like-jimmy-degrasso)
+
+Master Jimmy DeGrasso's disciplined thrash pocket. Learn the Megadeth drummer's tight gallop timekeeping, Pearl JD1455 signature snare, and Sabian cymbal setup behind Risk and The World Needs a Hero.
+
+### Style Overview
+
+DeGrasso's reputation rests on discipline and adaptability rather than a single signature move — he's the drummer bands call when they need a tight, dependable pocket without ego getting in the way. His backbeat sits dead-center on the grid, his double-kick patterns lock precisely under palm-muted riffing, and his fills stay purposeful and song-serving rather than showcasing chops for their own sake.
+
+**Grip:** Matched Grip — DeGrasso plays a controlled matched grip built for consistency across long tours and quick-turnaround sessions — a stroke that stays even and predictable whether he's driving Megadeth's thrash gallop or Alice Cooper's hard rock groove.
+
+### Signature Patterns
+
+- **Thrash Gallop Foundation** (160-200 BPM, Intermediate): A steady, evenly-spaced double-kick pattern under palm-muted guitar riffs — the foundational "gallop" rhythm that drives classic thrash metal — played with total consistency rather than dynamic variation.
+- **Session-Ready Groove Discipline** (Variable, Intermediate): DeGrasso's career depends on quickly internalizing a band's existing material and playing it exactly as the song demands — a skill built on restraint and precision rather than personal embellishment.
+- **Punchy Backbeat Snare Placement** (140-190 BPM, Intermediate): A dead-on-the-grid snare backbeat that cuts cleanly through dense, layered thrash guitar tracks — the JD1455's hammered brass shell gives that backbeat extra bite in a live mix.
+
+### Key Songs to Study
+
+- *Insomnia* (Risk, 1999) — Steady, disciplined thrash-gallop foundation across Megadeth's most experimental album
+- *Crush 'Em* (Risk, 1999) — Tight, driving backbeat built for a mainstream rock audience
+- *1000 Times Goodbye* (The World Needs a Hero, 2001) — Punchy, song-serving groove showing DeGrasso's return-to-form thrash pocket
+- *Return to Hangar* (The World Needs a Hero, 2001) — Aggressive double-kick gallop driving one of the album's heaviest tracks
+
+### Gear Setup
+
+- Drums: Pearl Pearl (specific series not publicly documented) (Not publicly documented shells)
+- Snare: Pearl Pearl JD1455 Jimmy DeGrasso Signature
+- Cymbals: Sabian Sabian (specific model lineup not publicly documented)
+
+---
+
+## How to Sound Like Nick Barker (Dimmu Borgir)
+
+**Genre:** Black Metal / Death Metal  
+**Guide URL:** [https://metalforge.io/guides/how-to-sound-like-nick-barker](https://metalforge.io/guides/how-to-sound-like-nick-barker)
+
+Master Nick Barker's sustained extreme metal blast beats. Learn the Cradle of Filth and Dimmu Borgir drummer's endurance-driven technique and Sonor kit behind two of black metal's most demanding drum chairs.
+
+### Style Overview
+
+Barker's career is defined by endurance across two of extreme metal's most demanding drum chairs — Cradle of Filth's raw, high-tempo attack and Dimmu Borgir's tightly-arranged symphonic black metal, where blast beats have to lock precisely against orchestral and programmed elements. His grindcore work in Lock Up pushes that same stamina into even denser, faster territory.
+
+**Grip:** Matched Grip — Barker plays a traditional extreme metal matched grip built around wrist-driven blast beat endurance — the physical stamina to sustain rapid, evenly-spaced strokes across full-length songs and full-length sets night after night.
+
+### Signature Patterns
+
+- **Sustained Traditional Blast Beat** (200-240 BPM, Advanced): A relentless, evenly-spaced alternating blast beat sustained across full song lengths — the physical foundation of both Cradle of Filth's raw extremity and Dimmu Borgir's symphonic intensity.
+- **Symphonic Arrangement Precision** (Variable, Advanced): Dimmu Borgir's orchestral and programmed elements demand blast beats locked precisely to a rigid structure — a tighter, less improvisational discipline than pure raw extremity requires.
+- **Grindcore Blast Density** (220-260 BPM, Advanced): Barker's work in Lock Up pushes blast beat density and speed even further than his black metal work, demanding short, explosive bursts of maximum-tempo extremity.
+
+### Key Songs to Study
+
+- *Cruelty Brought Thee Orchids* (Cruelty and the Beast, 1998) — Sustained raw blast beat intensity from his Cradle of Filth era
+- *Blessings Upon the Throne of Tyranny* (Puritanical Euphoric Misanthropia, 2001) — Symphonic black metal precision locking blast beats to orchestral arrangement
+- *Progenies of the Great Apocalypse* (Death Cult Armageddon, 2003) — One of Dimmu Borgir's best-known tracks, showcasing his tenure's peak
+- *Pleasures Pave Sewers* (Pleasures Pave Sewers, 1999) — Grindcore-level blast density from his Lock Up work with Shane Embury
+
+### Gear Setup
+
+- Drums: Sonor Sonor (specific series not publicly documented) (Not publicly documented shells)
+- Snare: Not publicly documented Not publicly documented
+- Cymbals: Not publicly documented Not publicly documented
+
+---
+
+## How to Sound Like Alex Rüdinger (The Faceless)
+
+**Genre:** Technical Death Metal / Progressive Metal  
+**Guide URL:** [https://metalforge.io/guides/how-to-sound-like-alex-rudinger](https://metalforge.io/guides/how-to-sound-like-alex-rudinger)
+
+Master Alex Rüdinger's precision technical drumming. Learn the session ace's odd-meter facility and versatility across The Faceless, Intronaut, and Trivium, plus his Tama Starclassic kit and Evans head setup.
+
+### Style Overview
+
+Rüdinger's reputation rests on technical precision applied across an unusually wide range of band contexts — technical death metal (The Faceless), instrumental prog (Conquering Dystopia), progressive metalcore (Good Tiger), and modern thrash (Trivium). His comfort with odd meters and high-density patterns stays consistent regardless of genre, which is exactly what's made him one of the most session-booked drummers in modern metal.
+
+**Grip:** Matched Grip — Rüdinger plays a tight, controlled matched grip built for high-density technical patterns and rapid odd-meter navigation — a stroke precise enough to stay clean at speed across djent-adjacent metalcore, technical death metal, and thrash contexts alike.
+
+### Signature Patterns
+
+- **Odd-Meter Technical Density** (140-220 BPM, Advanced): Rüdinger navigates unusual time signatures with high-density fills and grooves that stay musical rather than sounding like a counted technical exercise — a hallmark of his work across instrumental prog and technical death metal.
+- **Session-Versatile Groove Adaptation** (Variable, Advanced): Rüdinger moves between prog (Conquering Dystopia), djent-adjacent metalcore (Good Tiger), technical death metal (The Faceless), and modern thrash (Trivium) without losing pocket or identity — a rare adaptability that's driven his session career.
+- **High-Speed Linear Fill Vocabulary** (180-240 BPM, Advanced): Dense, linear fills that move rapidly across the kit without doubled hits — a technical vocabulary built for clarity at high tempo rather than raw volume of notes.
+
+### Key Songs to Study
+
+- *Cause For Concern* (Solo Drum Playthrough, 2013) — Early standalone playthrough that established the odd-meter precision behind his session reputation
+- *Cubensis* (Intronaut (session drums), 2020) — Technical session work applying high-density linear fills within Intronaut's prog-sludge structures
+- *Kin* (Whitechapel, 2021) — Studio session credit bringing technical precision to Whitechapel's melodic deathcore sound
+- *Catastrophist* (Trivium (touring/session), 2026) — His highest-profile gig to date, applying modern thrash precision at Trivium's scale and tempo
+
+### Gear Setup
+
+- Drums: Tama Tama Starclassic Performer B/B (Birch/Bubinga hybrid (per Starclassic Performer B/B construction) shells)
+- Snare: Tama Tama STARPHONIC Brass (SLP Black Brass alternate)
+- Cymbals: Meinl Meinl Byzance and MB20 Series (specific pieces not itemized on Meinl's artist page)
+- Pedals: Tama Tama Speed Cobra
+
+---
+
+## How to Sound Like John Longstreth (Origin)
+
+**Genre:** Technical Death Metal / Brutal Death Metal  
+**Guide URL:** [https://metalforge.io/guides/how-to-sound-like-john-longstreth](https://metalforge.io/guides/how-to-sound-like-john-longstreth)
+
+Master John Longstreth's pioneering double-stroke bass drum technique. Learn the Origin drummer's speed-record blast beats, one-handed roll innovation, and Meinl Classics Custom Dark cymbal setup.
+
+### Style Overview
+
+Longstreth's technique is built around raw top-end speed, most notably his credited pioneering of double-stroke bass drum technique — generating two distinct strokes per single pedal motion rather than the single-stroke pattern most blast beats rely on — alongside his innovation of the one-handed drum roll within extreme metal. Both push past the physiological ceilings that limit traditional alternating techniques.
+
+**Grip:** Matched Grip — Longstreth plays a matched grip built around his one-handed drum roll innovation — a single-arm rolling technique that generates rapid, sustained strokes independent of the alternating-hand limits most extreme metal drummers work within.
+
+### Signature Patterns
+
+- **Double-Stroke Bass Drum Blast** (240-280 BPM, Advanced): Longstreth is credited with pioneering a double-stroke bass drum technique that generates two strokes per single pedal motion, pushing blast beat speed beyond what traditional single-stroke double bass can sustain.
+- **One-Handed Drum Roll** (Variable, Advanced): Longstreth's credited innovation of the one-handed drum roll generates rapid, sustained strokes from a single arm — a technique that extends beyond the speed ceiling of standard alternating-hand rolls.
+- **Jazz-Informed Dynamic Control** (Variable, Advanced): Longstreth's early jazz exposure through his father brings a dynamic and rhythmic sensibility into extreme metal's typically one-dimensional intensity, informing his phrasing even at maximum speed.
+
+### Key Songs to Study
+
+- *Staring from the Abyss* (Origin — live performance, 2010) — Live drum-cam performance showcasing the double-stroke bass drum technique he's credited with pioneering
+- *Disease Called Man* (Origin — live performance, 2024) — Modern live performance demonstrating the sustained speed and precision built over two decades in Origin
+- *Hammer of Gods* (Angelcorpse, 1996) — Debut album with Angelcorpse — the earliest recorded showcase of the speed and technicality that became his signature
+
+### Gear Setup
+
+- Drums: Pearl Pearl (specific series not publicly documented — Pearl's artist page blocks automated access) (Not publicly documented shells)
+- Snare: Not publicly documented Not publicly documented
+- Cymbals: Meinl Meinl Classics Custom Dark Series + Generation X Trash Hat
+- Pedals: ACD Unlimited ACD Unlimited Bass Drum Pedals
+
+---
+
+## How to Sound Like Waltteri Väyrynen (Opeth)
+
+**Genre:** Progressive Metal / Gothic Doom Metal  
+**Guide URL:** [https://metalforge.io/guides/how-to-sound-like-waltteri-vayrynen](https://metalforge.io/guides/how-to-sound-like-waltteri-vayrynen)
+
+Master Waltteri Väyrynen's versatile modern metal drumming. Learn the Opeth and Paradise Lost drummer's genre-spanning technique, Pearl kit, and Sabian 22" HH Power Bell Ride setup.
+
+### Style Overview
+
+Väyrynen's technique is built around fluid adaptation between Paradise Lost's atmospheric gothic doom, Abhorrence's direct death metal attack, and Opeth's dense progressive arrangements. His stated influences — Dirk Verbeuren, Kai Hahto, and Daniel Erlandsson — point to a hybrid approach combining modern metal precision with progressive musicality and dynamic control.
+
+**Grip:** Matched Grip — Väyrynen plays a controlled matched grip suited to genre-spanning work — precise enough for Opeth's progressive complexity, direct enough for Abhorrence's death metal attack, and atmospheric enough for Paradise Lost's gothic doom.
+
+### Signature Patterns
+
+- **Gothic Doom Atmosphere Groove** (70-120 BPM, Intermediate): A patient, atmospheric groove built for Paradise Lost's slower, texture-focused gothic doom material — restraint and dynamic control matter more than speed or density.
+- **Progressive Metal Adaptation** (Variable, Advanced): Since replacing Martin Axenrot in Opeth, Väyrynen has adapted his playing to the band's dense, progressive rock-leaning arrangements — a different technical and dynamic demand than his earlier gothic doom and death metal work.
+- **Death Metal Directness** (160-220 BPM, Advanced): His work in Abhorrence and with Bloodbath draws on a more direct, aggressive death metal attack, contrasting with the atmospheric restraint of his gothic doom playing.
+
+### Key Songs to Study
+
+- *Forsaken* (Paradise Lost — live performance, Athens, 2022) — Live drum-cam performance showing atmospheric, dynamic control in gothic doom material
+- *Serenity* (Paradise Lost — live performance, London, 2022) — Restrained, texture-focused playing typical of his Paradise Lost tenure
+- *Paragraph 7 (§7)* (Opeth — live performance, 2026) — Live performance showcasing his adaptation to Opeth's progressive complexity
+- *The Last Will and Testament* (Opeth, 2024) — His studio debut with Opeth, replacing Martin Axenrot on the band's most recent album
+
+### Gear Setup
+
+- Drums: Pearl Pearl (specific series not publicly documented) (Not publicly documented shells)
+- Snare: Not publicly documented Not publicly documented
+- Cymbals: Sabian Sabian (confirmed favourite piece: 22" HH Power Bell Ride; full setup not itemized)
 
 ---
 

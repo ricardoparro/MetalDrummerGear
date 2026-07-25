@@ -1,6 +1,6 @@
 # The Drum Endorsement Landscape in Metal
 
-> **Last updated:** 2026-07-17 · **Source:** [MetalForge.io](https://metalforge.io) · [View full study →](https://metalforge.io/studies/drum-endorsement-landscape)
+> **Last updated:** 2026-07-25 · **Source:** [MetalForge.io](https://metalforge.io) · [View full study →](https://metalforge.io/studies/drum-endorsement-landscape)
 
 ---
 
@@ -83,4 +83,4 @@ Dataset: 67 documented drummers, snapshot dated 2026-07-16. Brand reach counts a
 
 ---
 
-*Last updated: 2026-07-17 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

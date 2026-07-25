@@ -1,6 +1,6 @@
 # Adrian Erlandsson vs Sean Reinert — Drum Kit Comparison
 
-> Side-by-side gear comparison between Adrian Erlandsson and Sean Reinert (Death / Cynic).
+> Side-by-side gear comparison between Adrian Erlandsson (At the Gates) and Sean Reinert (Death / Cynic).
 
 **Category:** Extreme / Death / Black Metal · **URL:** https://metalforge.io/vs/adrian-erlandsson-vs-sean-reinert
 
@@ -10,7 +10,11 @@ At the Gates' Adrian Erlandsson vs Death/Cynic's Sean Reinert — two drummers w
 
 ## Adrian Erlandsson Setup
 
-- **Drums:** See [Adrian Erlandsson profile](https://metalforge.io/drummer/adrian-erlandsson)
+- **Drums:** Tama Starclassic Bubinga
+- **Cymbals:** Sabian AAX/HHX Series (15" HHX Xcelerator Hi-Hats, 20" AAX Iso Crash, 19" AAX Paragon China)
+- **Snare:** Tama Starclassic Bubinga 14x6.5"
+- **Pedals/Hardware:** Monolit Czarcie Kopyto Double Pedal
+- **Sticks:** Vic Firth American Classic Rock Nylon Tip (ROCKN)
 
 ## Sean Reinert Setup
 
@@ -43,10 +47,16 @@ Adrian Erlandsson and Sean Reinert each wrote a founding chapter of death metal'
 ## FAQ
 
 **Q: What are the main differences between Adrian Erlandsson's and Sean Reinert's drum kits?**
-A: Adrian Erlandsson plays custom drums with signature cymbals cymbals, while Sean Reinert uses Tama Artstar II with Zildjian cymbals. Adrian Erlandsson recorded "Slaughter of the Soul" on a budget Pearl Export kit with Zildjian A Series cymbals, later building a career-long relationship with Tama — his current rig is a Tama Starclassic Bubinga kit with a matching 14"x6.5" snare, Sabian AAX/HHX cymbals, a Monolit Czarcie Kopyto double pedal, and his own Vic Firth signature sticks. Sean Reinert played a DW Collector's Series maple kit throughout his tenure in Death and Cynic, with a DW Collector's 14"x5.5" maple snare, Zildjian A Series cymbals (switching to darker K Series for "Focus"), a DW 5000 single-chain double pedal, and Vic Firth American Classic 5A sticks — both drummers, notably, started their genre-defining recordings on comparatively modest gear before building lasting brand relationships.
+A: Adrian Erlandsson plays Tama Starclassic Bubinga with Sabian cymbals, while Sean Reinert uses Tama Artstar II with Zildjian cymbals. Adrian Erlandsson recorded "Slaughter of the Soul" on a budget Pearl Export kit with Zildjian A Series cymbals, later building a career-long relationship with Tama — his current rig is a Tama Starclassic Bubinga kit with a matching 14"x6.5" snare, Sabian AAX/HHX cymbals, a Monolit Czarcie Kopyto double pedal, and his own Vic Firth signature sticks. Sean Reinert played a DW Collector's Series maple kit throughout his tenure in Death and Cynic, with a DW Collector's 14"x5.5" maple snare, Zildjian A Series cymbals (switching to darker K Series for "Focus"), a DW 5000 single-chain double pedal, and Vic Firth American Classic 5A sticks — both drummers, notably, started their genre-defining recordings on comparatively modest gear before building lasting brand relationships.
+
+**Q: What drums does Adrian Erlandsson play vs Sean Reinert?**
+A: Adrian Erlandsson plays Tama Starclassic Bubinga. Sean Reinert plays Tama Artstar II.
 
 **Q: Who is the better extreme / death / black metal drummer, Adrian Erlandsson or Sean Reinert?**
 A: Both are legends in their own right. Adrian Erlandsson and Sean Reinert each wrote a founding chapter of death metal's expansion beyond raw velocity, on landmark albums recorded in their early twenties on modest gear. See the full analysis at [metalforge.io/vs/adrian-erlandsson-vs-sean-reinert](https://metalforge.io/vs/adrian-erlandsson-vs-sean-reinert).
+
+**Q: What cymbals do Adrian Erlandsson and Sean Reinert use?**
+A: Adrian Erlandsson uses Sabian AAX/HHX Series (15" HHX Xcelerator Hi-Hats, 20" AAX Iso Crash, 19" AAX Paragon China). Sean Reinert uses Zildjian A/K Series (14" A Quick Beat Hi-Hats, 16" & 18" A Crashes, 20" K Custom Dry Ride, 16" China, 10" A Splash).
 
 ---
 
@@ -57,4 +67,4 @@ A: Both are legends in their own right. Adrian Erlandsson and Sean Reinert each 
 
 ---
 
-*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

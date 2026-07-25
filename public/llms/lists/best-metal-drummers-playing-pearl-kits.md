@@ -1,6 +1,6 @@
 # Top 10 Metal Drummers Playing Pearl Kits — Complete Ranked Guide
 
-> **Last updated:** 2026-07-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-metal-drummers-playing-pearl-kits)
+> **Last updated:** 2026-07-25 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-metal-drummers-playing-pearl-kits)
 
 ---
 
@@ -148,4 +148,4 @@ A: Yes. Gene Hoglan started on a Tama Superstar Classic kit during his Dark Ange
 
 ---
 
-*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*

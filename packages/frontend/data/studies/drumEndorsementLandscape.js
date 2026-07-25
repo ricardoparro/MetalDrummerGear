@@ -1,6 +1,6 @@
 /**
  * Drum Endorsement Landscape study — which brands endorse the most drummers
- * across the current 67-drummer roster (union of kits/snares/
+ * across the current 72-drummer roster (union of kits/snares/
  * cymbals/sticks/pedals brand usage), signature-model counts from drumsticks.js
  * and snares.js, and a kit-brand x primary-genre cross-tab.
  *
@@ -9,7 +9,7 @@
  *
  * Source of truth: this script's own phase-1 STUDY.categories (api/drummers/index.js
  * gear fields), plus packages/frontend/data/drumsticks.js and data/snares.js.
- * Dataset snapshot date: 2026-07-16.
+ * Dataset snapshot date: 2026-07-25.
  *
  * Methodology: brandReach counts a drummer once per brand regardless of how many
  * categories that brand appears in for them (e.g. a drummer playing Tama kits and
@@ -28,13 +28,13 @@
  */
 
 export const DRUM_ENDORSEMENT_LANDSCAPE = {
-  "generatedAt": "2026-07-16",
-  "totalDrummers": 67,
+  "generatedAt": "2026-07-25",
+  "totalDrummers": 72,
   "brandReach": [
     {
       "brand": "Vic Firth",
       "count": 44,
-      "percent": 65.7,
+      "percent": 61.1,
       "categories": [
         "sticks"
       ],
@@ -351,8 +351,8 @@ export const DRUM_ENDORSEMENT_LANDSCAPE = {
     },
     {
       "brand": "Tama",
-      "count": 23,
-      "percent": 34.3,
+      "count": 24,
+      "percent": 33.3,
       "categories": [
         "kits",
         "snares",
@@ -520,13 +520,20 @@ export const DRUM_ENDORSEMENT_LANDSCAPE = {
           "slug": "jon-dette",
           "band": "Slayer",
           "configString": "DW 9000 or Tama Iron Cobra Double Pedal"
+        },
+        {
+          "id": 70,
+          "name": "Alex Rüdinger",
+          "slug": "alex-rudinger",
+          "band": "The Faceless",
+          "configString": "Tama Speed Cobra Bass Drum Pedals"
         }
       ]
     },
     {
       "brand": "Zildjian",
       "count": 23,
-      "percent": 34.3,
+      "percent": 31.9,
       "categories": [
         "cymbals",
         "sticks"
@@ -696,9 +703,175 @@ export const DRUM_ENDORSEMENT_LANDSCAPE = {
       ]
     },
     {
+      "brand": "Pearl",
+      "count": 22,
+      "percent": 30.6,
+      "categories": [
+        "kits",
+        "snares",
+        "pedals"
+      ],
+      "drummers": [
+        {
+          "id": 2,
+          "name": "Joey Jordison",
+          "slug": "joey-jordison",
+          "band": "Slipknot",
+          "configString": "Pearl Demon Drive Double Pedal"
+        },
+        {
+          "id": 3,
+          "name": "Gene Hoglan",
+          "slug": "gene-hoglan",
+          "band": "Death / Testament / Dethklok",
+          "configString": "Pearl Demon Drive Double Pedal"
+        },
+        {
+          "id": 6,
+          "name": "George Kollias",
+          "slug": "george-kollias",
+          "band": "Nile",
+          "configString": "Pearl Demon XR Double Pedal (Co-designed)"
+        },
+        {
+          "id": 8,
+          "name": "Ray Luzier",
+          "slug": "ray-luzier",
+          "band": "Korn",
+          "configString": "Pearl Reference 14x6.5\" Brass"
+        },
+        {
+          "id": 18,
+          "name": "Matt Halpern",
+          "slug": "matt-halpern",
+          "band": "Periphery",
+          "configString": "Pearl Demon Drive Double Pedal"
+        },
+        {
+          "id": 19,
+          "name": "Inferno",
+          "slug": "inferno",
+          "band": "Behemoth",
+          "configString": "Pearl Reference 14x5\" Steel"
+        },
+        {
+          "id": 25,
+          "name": "Alex Bent",
+          "slug": "alex-bent",
+          "band": "ex-Trivium / Arkaik / Dragonlord",
+          "configString": "Pearl Reference 14x5\" Brass"
+        },
+        {
+          "id": 31,
+          "name": "Nick Augusto",
+          "slug": "nick-augusto",
+          "band": "ex-Trivium",
+          "configString": "Pearl Demon Drive Double Pedal"
+        },
+        {
+          "id": 35,
+          "name": "Flo Mounier",
+          "slug": "flo-mounier",
+          "band": "Cryptopsy",
+          "configString": "Pearl Demon Drive Double Pedal"
+        },
+        {
+          "id": 36,
+          "name": "Ryan Van Poederooyen",
+          "slug": "ryan-van-poederooyen",
+          "band": "Devin Townsend Project",
+          "configString": "Pearl Demon Drive Double Pedal"
+        },
+        {
+          "id": 50,
+          "name": "Aquiles Priester",
+          "slug": "aquiles-priester",
+          "band": "Angra / W.A.S.P.",
+          "configString": "Pearl Demon Drive Double Pedal"
+        },
+        {
+          "id": 51,
+          "name": "Paul Mazurkiewicz",
+          "slug": "paul-mazurkiewicz",
+          "band": "Cannibal Corpse",
+          "configString": "Pearl Demon Drive Double Pedal"
+        },
+        {
+          "id": 52,
+          "name": "Mike Mangini",
+          "slug": "mike-mangini",
+          "band": "Dream Theater",
+          "configString": "Pearl Demon Drive Double Pedal"
+        },
+        {
+          "id": 54,
+          "name": "Daniel Erlandsson",
+          "slug": "daniel-erlandsson",
+          "band": "Arch Enemy",
+          "configString": "Pearl Demon Drive Double Pedal"
+        },
+        {
+          "id": 55,
+          "name": "Jaska Raatikainen",
+          "slug": "jaska-raatikainen",
+          "band": "Children of Bodom",
+          "configString": "Pearl Eliminator Double Pedal"
+        },
+        {
+          "id": 57,
+          "name": "Daray",
+          "slug": "daray",
+          "band": "Dimmu Borgir / Vader",
+          "configString": "Pearl Demon XR Double Pedal"
+        },
+        {
+          "id": 58,
+          "name": "Jocke Wallgren",
+          "slug": "jocke-wallgren",
+          "band": "Amon Amarth",
+          "configString": "Pearl Demon Drive Double Pedal"
+        },
+        {
+          "id": 60,
+          "name": "Kevin Talley",
+          "slug": "kevin-talley",
+          "band": "Dying Fetus / Misery Index / Six Feet Under",
+          "configString": "Pearl Eliminator Double Pedal"
+        },
+        {
+          "id": 63,
+          "name": "Paul Bostaph",
+          "slug": "paul-bostaph",
+          "band": "Slayer",
+          "configString": "Pearl Eliminator Double Pedal"
+        },
+        {
+          "id": 68,
+          "name": "Jimmy DeGrasso",
+          "slug": "jimmy-degrasso",
+          "band": "Megadeth",
+          "configString": "Pearl JD1455 Jimmy DeGrasso Signature 14x5.5\" Hammered Brass"
+        },
+        {
+          "id": 71,
+          "name": "John Longstreth",
+          "slug": "john-longstreth",
+          "band": "Origin",
+          "configString": "Pearl (endorsement confirmed via his own Scorpion Percussion artist bio; specific kit model/shell sizes not independently documented — omitted rather than guessed)"
+        },
+        {
+          "id": 72,
+          "name": "Waltteri Väyrynen",
+          "slug": "waltteri-vayrynen",
+          "band": "Opeth",
+          "configString": "Pearl (endorsement confirmed via Pearl's own artist roster and corroborated by Antelope Audio's 2020 studio-session writeup; specific kit model/shell sizes not independently documented — omitted rather than guessed)"
+        }
+      ]
+    },
+    {
       "brand": "Sabian",
-      "count": 20,
-      "percent": 29.9,
+      "count": 22,
+      "percent": 30.6,
       "categories": [
         "cymbals"
       ],
@@ -842,158 +1015,27 @@ export const DRUM_ENDORSEMENT_LANDSCAPE = {
           "slug": "jon-dette",
           "band": "Slayer",
           "configString": "Sabian AAX / Zildjian A Series (14\" Hi-Hats, 16\" & 18\" Crash, 20\" Ride, 18\" China)"
-        }
-      ]
-    },
-    {
-      "brand": "Pearl",
-      "count": 19,
-      "percent": 28.4,
-      "categories": [
-        "kits",
-        "snares",
-        "pedals"
-      ],
-      "drummers": [
-        {
-          "id": 2,
-          "name": "Joey Jordison",
-          "slug": "joey-jordison",
-          "band": "Slipknot",
-          "configString": "Pearl Demon Drive Double Pedal"
         },
         {
-          "id": 3,
-          "name": "Gene Hoglan",
-          "slug": "gene-hoglan",
-          "band": "Death / Testament / Dethklok",
-          "configString": "Pearl Demon Drive Double Pedal"
+          "id": 68,
+          "name": "Jimmy DeGrasso",
+          "slug": "jimmy-degrasso",
+          "band": "Megadeth",
+          "configString": "Sabian"
         },
         {
-          "id": 6,
-          "name": "George Kollias",
-          "slug": "george-kollias",
-          "band": "Nile",
-          "configString": "Pearl Demon XR Double Pedal (Co-designed)"
-        },
-        {
-          "id": 8,
-          "name": "Ray Luzier",
-          "slug": "ray-luzier",
-          "band": "Korn",
-          "configString": "Pearl Reference 14x6.5\" Brass"
-        },
-        {
-          "id": 18,
-          "name": "Matt Halpern",
-          "slug": "matt-halpern",
-          "band": "Periphery",
-          "configString": "Pearl Demon Drive Double Pedal"
-        },
-        {
-          "id": 19,
-          "name": "Inferno",
-          "slug": "inferno",
-          "band": "Behemoth",
-          "configString": "Pearl Reference 14x5\" Steel"
-        },
-        {
-          "id": 25,
-          "name": "Alex Bent",
-          "slug": "alex-bent",
-          "band": "ex-Trivium / Arkaik / Dragonlord",
-          "configString": "Pearl Reference 14x5\" Brass"
-        },
-        {
-          "id": 31,
-          "name": "Nick Augusto",
-          "slug": "nick-augusto",
-          "band": "ex-Trivium",
-          "configString": "Pearl Demon Drive Double Pedal"
-        },
-        {
-          "id": 35,
-          "name": "Flo Mounier",
-          "slug": "flo-mounier",
-          "band": "Cryptopsy",
-          "configString": "Pearl Demon Drive Double Pedal"
-        },
-        {
-          "id": 36,
-          "name": "Ryan Van Poederooyen",
-          "slug": "ryan-van-poederooyen",
-          "band": "Devin Townsend Project",
-          "configString": "Pearl Demon Drive Double Pedal"
-        },
-        {
-          "id": 50,
-          "name": "Aquiles Priester",
-          "slug": "aquiles-priester",
-          "band": "Angra / W.A.S.P.",
-          "configString": "Pearl Demon Drive Double Pedal"
-        },
-        {
-          "id": 51,
-          "name": "Paul Mazurkiewicz",
-          "slug": "paul-mazurkiewicz",
-          "band": "Cannibal Corpse",
-          "configString": "Pearl Demon Drive Double Pedal"
-        },
-        {
-          "id": 52,
-          "name": "Mike Mangini",
-          "slug": "mike-mangini",
-          "band": "Dream Theater",
-          "configString": "Pearl Demon Drive Double Pedal"
-        },
-        {
-          "id": 54,
-          "name": "Daniel Erlandsson",
-          "slug": "daniel-erlandsson",
-          "band": "Arch Enemy",
-          "configString": "Pearl Demon Drive Double Pedal"
-        },
-        {
-          "id": 55,
-          "name": "Jaska Raatikainen",
-          "slug": "jaska-raatikainen",
-          "band": "Children of Bodom",
-          "configString": "Pearl Eliminator Double Pedal"
-        },
-        {
-          "id": 57,
-          "name": "Daray",
-          "slug": "daray",
-          "band": "Dimmu Borgir / Vader",
-          "configString": "Pearl Demon XR Double Pedal"
-        },
-        {
-          "id": 58,
-          "name": "Jocke Wallgren",
-          "slug": "jocke-wallgren",
-          "band": "Amon Amarth",
-          "configString": "Pearl Demon Drive Double Pedal"
-        },
-        {
-          "id": 60,
-          "name": "Kevin Talley",
-          "slug": "kevin-talley",
-          "band": "Dying Fetus / Misery Index / Six Feet Under",
-          "configString": "Pearl Eliminator Double Pedal"
-        },
-        {
-          "id": 63,
-          "name": "Paul Bostaph",
-          "slug": "paul-bostaph",
-          "band": "Slayer",
-          "configString": "Pearl Eliminator Double Pedal"
+          "id": 72,
+          "name": "Waltteri Väyrynen",
+          "slug": "waltteri-vayrynen",
+          "band": "Opeth",
+          "configString": "Sabian (endorsed artist; confirmed favourite piece per Sabian's own artist page: 22\" HH Power Bell Ride — full setup not itemized there, so omitted rather than guessed)"
         }
       ]
     },
     {
       "brand": "Paiste",
       "count": 15,
-      "percent": 22.4,
+      "percent": 20.8,
       "categories": [
         "cymbals"
       ],
@@ -1108,7 +1150,7 @@ export const DRUM_ENDORSEMENT_LANDSCAPE = {
     {
       "brand": "DW",
       "count": 14,
-      "percent": 20.9,
+      "percent": 19.4,
       "categories": [
         "kits",
         "snares",
@@ -1217,8 +1259,8 @@ export const DRUM_ENDORSEMENT_LANDSCAPE = {
     },
     {
       "brand": "Promark",
-      "count": 12,
-      "percent": 17.9,
+      "count": 13,
+      "percent": 18.1,
       "categories": [
         "sticks"
       ],
@@ -1306,13 +1348,20 @@ export const DRUM_ENDORSEMENT_LANDSCAPE = {
           "slug": "jon-dette",
           "band": "Slayer",
           "configString": "Promark / Vater 5B"
+        },
+        {
+          "id": 68,
+          "name": "Jimmy DeGrasso",
+          "slug": "jimmy-degrasso",
+          "band": "Megadeth",
+          "configString": "Promark"
         }
       ]
     },
     {
       "brand": "Meinl",
-      "count": 10,
-      "percent": 14.9,
+      "count": 12,
+      "percent": 16.7,
       "categories": [
         "cymbals"
       ],
@@ -1386,13 +1435,27 @@ export const DRUM_ENDORSEMENT_LANDSCAPE = {
           "slug": "martin-axenrot",
           "band": "Opeth",
           "configString": "Meinl Byzance Series (14\" Traditional Medium Hi-Hats, 16\" & 18\" & 19\" Crashes, 22\" Traditional Ride, 18\" China)"
+        },
+        {
+          "id": 70,
+          "name": "Alex Rüdinger",
+          "slug": "alex-rudinger",
+          "band": "The Faceless",
+          "configString": "Meinl Cymbals (Byzance and MB20 series; specific models not independently documented — omitted rather than guessed)"
+        },
+        {
+          "id": 71,
+          "name": "John Longstreth",
+          "slug": "john-longstreth",
+          "band": "Origin",
+          "configString": "Meinl Classics Custom Dark Series (8\" Dark Splash, 14\" Dark Hihat, 18\" Dark China) + Meinl Generation X 12\"/14\" Trash Hat"
         }
       ]
     },
     {
       "brand": "Sonor",
-      "count": 8,
-      "percent": 11.9,
+      "count": 9,
+      "percent": 12.5,
       "categories": [
         "kits",
         "snares",
@@ -1454,13 +1517,20 @@ export const DRUM_ENDORSEMENT_LANDSCAPE = {
           "slug": "martin-axenrot",
           "band": "Opeth",
           "configString": "Sonor SQ2 14x5.75\" Maple"
+        },
+        {
+          "id": 69,
+          "name": "Nick Barker",
+          "slug": "nick-barker",
+          "band": "Dimmu Borgir",
+          "configString": "Sonor"
         }
       ]
     },
     {
       "brand": "Vater",
       "count": 6,
-      "percent": 9,
+      "percent": 8.3,
       "categories": [
         "sticks"
       ],
@@ -1512,7 +1582,7 @@ export const DRUM_ENDORSEMENT_LANDSCAPE = {
     {
       "brand": "ddrum",
       "count": 4,
-      "percent": 6,
+      "percent": 5.6,
       "categories": [
         "kits",
         "snares",
@@ -1552,7 +1622,7 @@ export const DRUM_ENDORSEMENT_LANDSCAPE = {
     {
       "brand": "Mapex",
       "count": 4,
-      "percent": 6,
+      "percent": 5.6,
       "categories": [
         "kits",
         "snares",
@@ -1592,7 +1662,7 @@ export const DRUM_ENDORSEMENT_LANDSCAPE = {
     {
       "brand": "SJC",
       "count": 4,
-      "percent": 6,
+      "percent": 5.6,
       "categories": [
         "kits",
         "snares"
@@ -1631,7 +1701,7 @@ export const DRUM_ENDORSEMENT_LANDSCAPE = {
     {
       "brand": "Axis",
       "count": 3,
-      "percent": 4.5,
+      "percent": 4.2,
       "categories": [
         "pedals"
       ],
@@ -1662,7 +1732,7 @@ export const DRUM_ENDORSEMENT_LANDSCAPE = {
     {
       "brand": "Ludwig",
       "count": 3,
-      "percent": 4.5,
+      "percent": 4.2,
       "categories": [
         "kits",
         "snares",
@@ -1693,9 +1763,40 @@ export const DRUM_ENDORSEMENT_LANDSCAPE = {
       ]
     },
     {
+      "brand": "Wincent",
+      "count": 3,
+      "percent": 4.2,
+      "categories": [
+        "sticks"
+      ],
+      "drummers": [
+        {
+          "id": 5,
+          "name": "Tomas Haake",
+          "slug": "tomas-haake",
+          "band": "Meshuggah",
+          "configString": "Wincent Tomas Haake Signature"
+        },
+        {
+          "id": 43,
+          "name": "Mikkey Dee",
+          "slug": "mikkey-dee",
+          "band": "Scorpions / Motörhead",
+          "configString": "Wincent Mikkey Dee Signature (W-MDS)"
+        },
+        {
+          "id": 72,
+          "name": "Waltteri Väyrynen",
+          "slug": "waltteri-vayrynen",
+          "band": "Opeth",
+          "configString": "Wincent W-5BXL"
+        }
+      ]
+    },
+    {
       "brand": "Czarcie Kopyto",
       "count": 2,
-      "percent": 3,
+      "percent": 2.8,
       "categories": [
         "pedals"
       ],
@@ -1717,33 +1818,9 @@ export const DRUM_ENDORSEMENT_LANDSCAPE = {
       ]
     },
     {
-      "brand": "Wincent",
-      "count": 2,
-      "percent": 3,
-      "categories": [
-        "sticks"
-      ],
-      "drummers": [
-        {
-          "id": 5,
-          "name": "Tomas Haake",
-          "slug": "tomas-haake",
-          "band": "Meshuggah",
-          "configString": "Wincent Tomas Haake Signature"
-        },
-        {
-          "id": 43,
-          "name": "Mikkey Dee",
-          "slug": "mikkey-dee",
-          "band": "Scorpions / Motörhead",
-          "configString": "Wincent Mikkey Dee Signature (W-MDS)"
-        }
-      ]
-    },
-    {
       "brand": "Ahead",
       "count": 1,
-      "percent": 1.5,
+      "percent": 1.4,
       "categories": [
         "sticks"
       ],
@@ -1760,7 +1837,7 @@ export const DRUM_ENDORSEMENT_LANDSCAPE = {
     {
       "brand": "Gibraltar",
       "count": 1,
-      "percent": 1.5,
+      "percent": 1.4,
       "categories": [
         "pedals"
       ],
@@ -1777,7 +1854,7 @@ export const DRUM_ENDORSEMENT_LANDSCAPE = {
     {
       "brand": "Noble & Cooley",
       "count": 1,
-      "percent": 1.5,
+      "percent": 1.4,
       "categories": [
         "kits",
         "snares"
@@ -1795,7 +1872,7 @@ export const DRUM_ENDORSEMENT_LANDSCAPE = {
     {
       "brand": "OCDP",
       "count": 1,
-      "percent": 1.5,
+      "percent": 1.4,
       "categories": [
         "kits",
         "snares"
@@ -1813,7 +1890,7 @@ export const DRUM_ENDORSEMENT_LANDSCAPE = {
     {
       "brand": "Trick",
       "count": 1,
-      "percent": 1.5,
+      "percent": 1.4,
       "categories": [
         "pedals"
       ],
@@ -1830,7 +1907,7 @@ export const DRUM_ENDORSEMENT_LANDSCAPE = {
     {
       "brand": "Yamaha",
       "count": 1,
-      "percent": 1.5,
+      "percent": 1.4,
       "categories": [
         "kits",
         "snares",
@@ -2247,7 +2324,7 @@ export const DRUM_ENDORSEMENT_LANDSCAPE = {
     "buckets": [
       {
         "genre": "Progressive Metal",
-        "totalDrummers": 11,
+        "totalDrummers": 12,
         "topBrand": "Sonor",
         "topBrandCount": 4,
         "brands": [
@@ -2256,12 +2333,12 @@ export const DRUM_ENDORSEMENT_LANDSCAPE = {
             "count": 4
           },
           {
-            "brand": "Tama",
+            "brand": "Pearl",
             "count": 3
           },
           {
-            "brand": "Pearl",
-            "count": 2
+            "brand": "Tama",
+            "count": 3
           },
           {
             "brand": "DW",
@@ -2275,7 +2352,7 @@ export const DRUM_ENDORSEMENT_LANDSCAPE = {
       },
       {
         "genre": "Thrash Metal",
-        "totalDrummers": 10,
+        "totalDrummers": 11,
         "topBrand": "Tama",
         "topBrandCount": 6,
         "brands": [
@@ -2284,15 +2361,15 @@ export const DRUM_ENDORSEMENT_LANDSCAPE = {
             "count": 6
           },
           {
+            "brand": "Pearl",
+            "count": 2
+          },
+          {
             "brand": "Ludwig",
             "count": 1
           },
           {
             "brand": "Mapex",
-            "count": 1
-          },
-          {
-            "brand": "Pearl",
             "count": 1
           },
           {
@@ -2349,6 +2426,42 @@ export const DRUM_ENDORSEMENT_LANDSCAPE = {
           },
           {
             "brand": "Yamaha",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "genre": "Technical Death Metal",
+        "totalDrummers": 5,
+        "topBrand": "Pearl",
+        "topBrandCount": 3,
+        "brands": [
+          {
+            "brand": "Pearl",
+            "count": 3
+          },
+          {
+            "brand": "DW",
+            "count": 1
+          },
+          {
+            "brand": "Tama",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "genre": "Black Metal",
+        "totalDrummers": 4,
+        "topBrand": "Sonor",
+        "topBrandCount": 3,
+        "brands": [
+          {
+            "brand": "Sonor",
+            "count": 3
+          },
+          {
+            "brand": "Pearl",
             "count": 1
           }
         ]
@@ -2414,22 +2527,6 @@ export const DRUM_ENDORSEMENT_LANDSCAPE = {
         ]
       },
       {
-        "genre": "Black Metal",
-        "totalDrummers": 3,
-        "topBrand": "Sonor",
-        "topBrandCount": 2,
-        "brands": [
-          {
-            "brand": "Sonor",
-            "count": 2
-          },
-          {
-            "brand": "Pearl",
-            "count": 1
-          }
-        ]
-      },
-      {
         "genre": "Groove Metal",
         "totalDrummers": 3,
         "topBrand": "ddrum",
@@ -2445,22 +2542,6 @@ export const DRUM_ENDORSEMENT_LANDSCAPE = {
           },
           {
             "brand": "Mapex",
-            "count": 1
-          }
-        ]
-      },
-      {
-        "genre": "Technical Death Metal",
-        "totalDrummers": 3,
-        "topBrand": "Pearl",
-        "topBrandCount": 2,
-        "brands": [
-          {
-            "brand": "Pearl",
-            "count": 2
-          },
-          {
-            "brand": "DW",
             "count": 1
           }
         ]

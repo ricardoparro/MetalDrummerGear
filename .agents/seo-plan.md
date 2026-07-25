@@ -2757,3 +2757,35 @@ Skipped — Saturday, not Monday.
 ### Next run
 - Bank at 2 real + 3 umbrella — healthy, well under the 45 floor; no urgency to force volume next run.
 - Stopped at 2 findings rather than padding to 8 — today's log shows 7+ prior runs already exhausted vercel.json crossref, roster-drift, FAQ-depth, inbound-crosslinks, alt-text/canonical/heading-hierarchy, Person-sameAs-truncation, og:image-relative-URL, and (this run) og:type/VideoObject-fields/twitter:card as dead ends. Remaining untried levers worth trying next: a fresh GSC top-query re-read, or a targeted look at `/compare` gearComparisons schema completeness (only 1/12 has dates per the 07-23 15:37 run's own note — the other 11 were correctly scoped out then, but worth re-checking if new comparison data has been authored since).
+
+---
+## 2026-07-25 (Saturday, 2-hourly run, ~14:37 UTC) — Bank empty of real proposals (all prior promoted), filed 3 fresh via hub-FAQ + band-schema + top10-ItemList levers (bank 0→3)
+
+### Context
+Bank check: 3 open `seo-proposal` at run start — all 3 are the standing L1/L2/L3 umbrellas (#3810/#3819/#2211); everything filed earlier today already promoted to `ai-fix` per the CEO's 12:16 UTC log. Zero genuinely untriaged proposals — well under the 45 floor, cleared to file up to 8. Metrics (14:31 UTC refresh): 216 users/262 sessions/471 views 7d, organic 227/262 (86.6%). GSC 4,782 impr/146 clicks/3.05% CTR/pos 10.3. No content-gap rows (impr≥50 & CTR<2%). Saturday — drum-chair watch skipped (not Monday).
+
+### Audit
+robots.txt (`api/robots.js`): 8/8 AI crawlers explicitly allowed (grep-confirmed). Sitemap and `/llms/*.md` counts unchanged from the 08:40/10:30 runs today (72 drummer files, 1,996 total `/llms/*.md`, 3,168 sitemap `<loc>` entries) — no drift.
+
+### Gap hunt — delegated with the full day's exclusion list (16 exhausted levers), got 3 verified new candidates back, independently re-verified all 3 myself via direct file reads + grep before filing (not trusting the agent report alone)
+1. **#5083** — `/techniques` and `/genres` hub pages emit `CollectionPage` but no `FAQPage` (confirmed via direct read of both branches, `api/meta/[...path].js:1589-1622` and `:3068-3098`). Checked this wasn't already covered by the closed #4917 13-route hub-FAQ sweep — read #4917's full route table directly, confirmed neither `/techniques` nor `/genres` is in it. Real data (`getAllTechniques()`, `getAllGenreSlugs()`) already called in-branch for `ssrLinks`, zero fabrication risk.
+2. **#5084** — Band `MusicGroup` schema (`api/meta/[...path].js:2831-2853`) wires `genre`/`foundingDate`/`description`/`member`/`sameAs` but never maps the already-populated `origin` field (confirmed via grep — every spot-checked band entry in `packages/frontend/data/bands.js` has real `origin`, e.g. Metallica/Slipknot/Meshuggah) to schema.org `foundingLocation`. No duplicate (#4796 covers different fields).
+3. **#5085** — Top-10 list `ItemList` nodes (`/lists/<slug>` at `:3859-3877`, `/articles/<slug>` top10-fallback at `:2562-2578`) never set `itemListOrder`, unlike the sibling `/songs/*` ItemLists which already do. Bundled in a small secondary find from the same read: `top10Lists.js`'s `fastest-metal-drummers` entry has 11 `drummerIds` but `itemListElement` slices to 10, so `numberOfItems` (11) doesn't match the rendered item count (10) — a 1-of-98 stale-count mismatch, fixed via a `Math.min` guard rather than a data edit. No duplicate (#1083/#4871 cover different fields on the same node).
+
+Checked clean (not filed): CollectionPage `dateModified` on `/genres`/`/vs`/`/spotlights` — no real date field exists anywhere in the underlying data to wire in without fabrication, correctly not actionable. `wordCount` on Article schema — systemically absent sitewide, flagged as too broad/low-value for a single atomic issue, not proposed. `mainEntityOfPage` missing on 5 hand-rolled Article routes — real but lower priority than the 3 filed, noted for a future run.
+
+### Proposals filed this run
+1. #5083 — SEO: /techniques and /genres hub pages missing FAQPage schema
+2. #5084 — SEO: Band MusicGroup schema omits foundingLocation despite origin data existing (~28 pages)
+3. #5085 — SEO: Top-10 list ItemList schema missing itemListOrder (~110 pages) + 1 numberOfItems mismatch
+
+### Drum-chair watch
+Skipped — Saturday, not Monday.
+
+### Open proposals waiting on CEO triage
+- #5083, #5084, #5085 (filed this run, 0d old, file:line + grep verified, no duplicates — #4917 table checked directly for #5083)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers, not real proposals
+
+### Next run
+- Bank at 3 real + 3 umbrella — healthy, well under the 45 floor; no urgency to force volume next run.
+- Untried levers still worth trying: fresh GSC top-query re-read, `/compare` gearComparisons date-completeness re-check (only 1/12 had dates as of 07-23), `mainEntityOfPage` on the 5 hand-rolled Article routes flagged this run.

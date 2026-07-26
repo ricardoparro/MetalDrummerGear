@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-26 08:53 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-26 09:39 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -39,24 +39,24 @@
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 4,809 |
-| Clicks | 151 |
-| CTR | 3.14% |
-| Avg position | 10.6 |
+| Impressions | 5,925 |
+| Clicks | 183 |
+| CTR | 3.09% |
+| Avg position | 10.7 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| john otto drum kit | 13 | 2 | 15.38% | 7.2 |
+| john otto drum kit | 14 | 2 | 14.29% | 7.1 |
 | john otto drum set | 5 | 2 | 40.00% | 6.0 |
-| best death metal drummers | 6 | 1 | 16.67% | 5.7 |
+| arin ilejay drum set | 9 | 1 | 11.11% | 10.8 |
+| ben koller drum setup | 3 | 1 | 33.33% | 5.0 |
+| best death metal drummers | 7 | 1 | 14.29% | 5.9 |
 | best drummers of the 2000s | 2 | 1 | 50.00% | 7.5 |
 | best metal drummers | 11 | 1 | 9.09% | 17.0 |
-| brann dailor drum kit | 12 | 1 | 8.33% | 6.3 |
-| brann dailor kit | 1 | 1 | 100.00% | 4.0 |
-| danny carey drum kit setup | 4 | 1 | 25.00% | 6.3 |
-| eloy casagrande drum kit | 30 | 1 | 3.33% | 10.1 |
-| famous left handed drummers | 4 | 1 | 25.00% | 29.0 |
+| brann dailor drum kit | 15 | 1 | 6.67% | 6.3 |
+| brann dailor kit | 2 | 1 | 50.00% | 8.0 |
+| danny carey drum kit setup | 5 | 1 | 20.00% | 6.4 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 _no significant gaps detected — all queries with traction have decent CTR_

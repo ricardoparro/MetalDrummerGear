@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-26 16:20 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-26 18:18 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,18 +8,18 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 202 |
-| Sessions | 251 |
-| Page views | 458 |
-| Engagement rate | 63.75% |
-| Avg session (s) | 110 |
+| Active users | 204 |
+| Sessions | 253 |
+| Page views | 463 |
+| Engagement rate | 63.24% |
+| Avg session (s) | 112 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 40 | 14 |
+| / | 41 | 15 |
 | /drummers | 27 | 4 |
-| /drummer/jaska-raatikainen/bio | 14 | 1 |
+| /drummer/jaska-raatikainen/bio | 15 | 1 |
 | /drummer/pete-sandoval | 13 | 1 |
 | /articles/arise-drum-setup | 9 | 7 |
 | /articles/slipknot-self-titled-drum-setup | 9 | 5 |
@@ -31,9 +31,9 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 215 | 172 |
+| Organic Search | 217 | 173 |
 | Direct | 30 | 26 |
-| Unassigned | 11 | 10 |
+| Unassigned | 13 | 12 |
 | AI Assistant | 1 | 1 |
 
 ## Search Console — Search performance

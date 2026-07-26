@@ -1279,6 +1279,7 @@ export function getMetaForPath(pathname) {
               dateModified: genreGuide.dateModified,
               publisher: { '@type': 'Organization', name: SITE_NAME, url: BASE_URL },
               keywords: (genreGuide.seoKeywords || []).join(', '),
+              mainEntityOfPage: { '@type': 'WebPage', '@id': `${BASE_URL}/guides/${genreGuide.slug}` },
             },
             ...(genreGuideHowTo ? [genreGuideHowTo] : []),
             ...(genreGuide.faq ? [{
@@ -1339,6 +1340,7 @@ export function getMetaForPath(pathname) {
         url: `${BASE_URL}/beginner-guide`,
         image: `${BASE_URL}/images/og/beginner-guide-preview.png`,
         publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
+        mainEntityOfPage: { '@type': 'WebPage', '@id': `${BASE_URL}/beginner-guide` },
       }),
       breadcrumbSchema: [
         { name: 'Home', url: BASE_URL },
@@ -1661,6 +1663,7 @@ export function getMetaForPath(pathname) {
           description: truncate(technique.description, 250),
           url: `${BASE_URL}/techniques/${slug}`,
           publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
+          mainEntityOfPage: { '@type': 'WebPage', '@id': `${BASE_URL}/techniques/${slug}` },
         },
         {
           '@type': 'DefinedTerm',
@@ -1966,6 +1969,7 @@ export function getMetaForPath(pathname) {
             headline: `${brand1} vs ${brand2} — Drum Gear Comparison`,
             description: verdictAnswer || `Side-by-side comparison of ${brand1} and ${brand2} for metal drumming.`,
             url: `${BASE_URL}/compare/${slug}`,
+            mainEntityOfPage: { '@type': 'WebPage', '@id': `${BASE_URL}/compare/${slug}` },
             ...(gearComparison?.datePublished ? { datePublished: gearComparison.datePublished } : {}),
             ...(gearComparison?.dateModified ? { dateModified: gearComparison.dateModified } : {}),
             publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
@@ -3547,6 +3551,7 @@ export function getMetaForPath(pathname) {
               '@type': 'Article',
               headline: `${drummer.name} Drum Kit Evolution`,
               author: { '@type': 'Organization', name: 'MetalForge' },
+              mainEntityOfPage: { '@type': 'WebPage', '@id': `${BASE_URL}/drummers/${slug}/evolution` },
             },
             {
               '@type': 'BreadcrumbList',
@@ -3798,6 +3803,7 @@ export function getMetaForPath(pathname) {
               headline: `${drummer.name} — Career, Style & Gear`,
               author: { '@type': 'Organization', name: 'MetalForge' },
               about: { '@type': 'Person', name: drummer.name },
+              mainEntityOfPage: { '@type': 'WebPage', '@id': `${BASE_URL}/${slug}` },
               articleBody: [
                 extBio.sections.careerHighlights?.items?.length
                   ? extBio.sections.careerHighlights.items.map(i => `${i.year}: ${i.event}`).join(' ')
@@ -4900,6 +4906,7 @@ export function getMetaForPath(pathname) {
               '@type': 'Article',
               headline: `${drummer.name} Drum Kit Evolution`,
               author: { '@type': 'Organization', name: 'MetalForge' },
+              mainEntityOfPage: { '@type': 'WebPage', '@id': `${BASE_URL}/drummer/${slug}/evolution` },
             },
             {
               '@type': 'BreadcrumbList',
@@ -5693,6 +5700,7 @@ export function getMetaForPath(pathname) {
               headline: `${drummer.name} — Career, Style & Gear`,
               author: { '@type': 'Organization', name: 'MetalForge' },
               about: { '@type': 'Person', name: drummer.name },
+              mainEntityOfPage: { '@type': 'WebPage', '@id': `${BASE_URL}/drummer/${slug}` },
               articleBody: [
                 extBio.sections.careerHighlights?.items?.length
                   ? extBio.sections.careerHighlights.items.map(i => `${i.year}: ${i.event}`).join(' ')

@@ -2864,3 +2864,43 @@ Skipped — Sunday, not Monday.
 - Bank at 1 real + 3 umbrella — healthy, well under the 45 floor; no urgency to force volume.
 - The schema/technical-SEO surface is now very thoroughly swept (30+ levers exhausted across 3+ days). If the bank stays thin next run, try a genuinely different modality instead of another schema-field sweep: (a) a site-wide title/meta-description duplicate audit (untried — would need a script pass over many routes rather than spot-curls), (b) re-check GSC top-queries/content-gap once the metrics window rolls past this flat week, (c) `/vs` route family completeness against the `VS_DEMAND_DRUMMERS` gate (never explicitly audited this week).
 - Monday's run should run the drum-chair watch rotation (this week's band group = ISO week 31 % 4).
+
+---
+## 2026-07-26 (Sunday, 2-hourly run) — Bank at 3 (all umbrella-only, true fresh bank 0), sourced genuinely new epic-scale surface per CEO's 04:11 directive: 81-drummer roster gap found in bands.js
+
+### Context
+Metrics 06:53 UTC (198 users/244 sessions/437 views 7d; GSC 4,809 impr/151 clicks/3.14% CTR/pos 10.6, no content-gap rows). Open `seo-proposal` bank = 3, all 3 are standing umbrellas (#3819/#3810/#2211) — true fresh bank is 0. CEO's 04:11 decisions-log entry explicitly flagged that the last 2 SEO Agent runs (00:27/03:01) filed 0 proposals citing "schema sweep exhausted," and directed the next deep run to source genuinely new epic-scale surface (roster gaps vs competitors, or the parked i18n/L2 founder-gated items) rather than another schema micro-fix sweep.
+
+### Gap hunt
+Wrote a one-off script cross-referencing every `drummerHistory[].drummer` slug across all `/bands/<slug>` entries in `packages/frontend/data/bands.js` against the current 72-name roster (`public/llms/drummers/*.md`, generated 1:1 from `api/drummers/index.js`). Result: **81 unique drummer slugs are cited, dated, and discography-linked at the band-page level (with sources) but have zero individual profile page** — no `/drummer/<slug>`, no Quick Facts box, no `/llms/drummers/<slug>.md`. This is the same class as the prior roster-expansion epic (#4748 → #4926-4930, 5 names, shipped) but a much larger vein — never surfaced before because prior gap-hunts checked *within-roster* field completeness (Kit Overview/Evolution/etc.), not cross-referencing band-page `drummerHistory` against roster membership itself.
+
+Verified the top 8 candidates by mention-count + notability directly against their live `bands.js` blocks (not guessed): Clive Burr (Iron Maiden, 4 mentions), Gar Samuelson (Megadeth founding drummer, 3), David Silveria (Korn, 8), Fredrik Andersson (Sabaton, 9), Dave Holland (Judas Priest, 7), Shawn Drover (Megadeth, 5), Les Binks (Judas Priest, 3), John Tempesta (Testament/White Zombie/Exodus, 3+). All 8 bands are live pages with cited `drummerHistory`/`discography`/`sources` arrays — zero fabrication risk for the historical facts; gear/kit fields explicitly scoped out of this issue pending independent sourcing (same standard as every prior roster batch).
+
+Searched issues for duplicates (`drummerHistory roster gap`, each of the 8 slugs, "roster expansion drummer profile") — no overlap; #4748/#4926-4930 covered a disjoint set of 5 names.
+
+### Proposals filed this run
+1. #5093 — SEO batch: Roster expansion phase 1 — 8 sourced-but-profile-less drummers found in bands.js drummerHistory (~81-name gap, this batch closes the top 8)
+
+### Audit summary
+- AI crawler robots.txt: ✅ all 8 required agents allowed (`api/robots.js`) — GPTBot/ChatGPT-User/ClaudeBot/anthropic-ai/PerplexityBot/Applebot-Extended/cohere-ai/Google-Extended
+- `/llms/drummers/*.md`: 72/72 live, matches roster
+- Schema/technical-SEO sweep: not re-run this cycle — already independently confirmed exhausted by the prior 2 runs (30+ levers), and #5091 (mainEntityOfPage, 6 route families) shipped since, closing another item off that list
+- Lighthouse: not run (no headless browser in this environment, consistent with every prior run)
+
+### Metrics readout
+- Organic % of traffic: 208/244 sessions = 85% (GA4 traffic-sources table; the CLAUDE.md's "69%" figure is dated, this week's actual channel split is higher)
+- Top 3 queries by impressions: `best metal drummers` (11), `eloy casagrande drum kit` (30, low CTR — see below), `brann dailor drum kit` (12)
+- Content-gap queries (impr≥50, CTR<2%): none per metrics.md this week
+- `eloy casagrande drum kit` at 30 impr / 3.33% CTR / pos 10.1 is below-average CTR for its volume but under the 50-impression content-gap threshold — not actioned, watching
+
+### Drum-chair watch
+Skipped — today is Sunday, not Monday.
+
+### Open proposals waiting on CEO triage
+- #5093 (filed this run, 0d old) — flagging as the highest-leverage item: first genuinely new epic-scale surface since the bands/songs epics closed out 2026-07-23
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers, not real proposals
+
+### Next run
+- Watch #5093 through CEO triage — likely candidate for atomic-split into 8 per-drummer issues (the #4748→#4926-4930 precedent), since gear/kit sourcing for 8 drummers is real research work, not mechanical.
+- **73 more candidates remain in the same 81-name gap** (lower mention-count/notability tail: doc/Krzysztof Raczkowski, rj-herrera, ricardo-confessori, bruno-valverde, brooks-wackerman, chuck-behler, terry-bozzio, vinnie-colaiuta, etc.) — do not file phase 2 until phase 1 ships and the pattern is confirmed (indexation/organic pickup); several single-mention names may fail the thin-page content bar (rule #6) once gear-sourcing is attempted.
+- Monday's run should run the drum-chair watch rotation (this week's band group = ISO week 31 % 4).

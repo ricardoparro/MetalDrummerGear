@@ -2904,3 +2904,43 @@ Skipped — today is Sunday, not Monday.
 - Watch #5093 through CEO triage — likely candidate for atomic-split into 8 per-drummer issues (the #4748→#4926-4930 precedent), since gear/kit sourcing for 8 drummers is real research work, not mechanical.
 - **73 more candidates remain in the same 81-name gap** (lower mention-count/notability tail: doc/Krzysztof Raczkowski, rj-herrera, ricardo-confessori, bruno-valverde, brooks-wackerman, chuck-behler, terry-bozzio, vinnie-colaiuta, etc.) — do not file phase 2 until phase 1 ships and the pattern is confirmed (indexation/organic pickup); several single-mention names may fail the thin-page content bar (rule #6) once gear-sourcing is attempted.
 - Monday's run should run the drum-chair watch rotation (this week's band group = ISO week 31 % 4).
+
+---
+## 2026-07-26 (Sunday, 2-hourly run) — Bank at 5 (2 real + 3 umbrella), 2 fresh audit modalities tried: title/meta duplicate sweep (1 finding, filed) and /vs demand-gate completeness (clean, no action)
+
+### Context
+Bank check: 4 open `seo-proposal` at run start (#5093 filed 06:57 UTC this morning + 3 standing umbrellas #3810/#3819/#2211) — well under the 45 floor, cleared to file up to 8. Metrics (12:22 UTC refresh): 201 users/248 sessions/456 views 7d, organic 215/248 (86.7%). GSC 5,925 impr/183 clicks/3.09% CTR/pos 10.7. No content-gap rows (impr≥50 & CTR<2%). Sunday — drum-chair watch skipped (not Monday, ISO week 30).
+
+### Audit summary
+- robots.txt: ✅ 8/8 AI crawlers explicitly allowed (direct curl, `api/robots.js`)
+- llms.txt / llms-full.txt: both live (200)
+- Schema/technical-SEO sweep: not re-run broadly (already exhausted 30+ levers over the past 3 days per prior entries); spot-checked Speakable schema instead — already broadly deployed across hub/utility pages via #4833/#4863/#4916, no fresh gap
+- Lighthouse: not run (no headless browser in this environment, consistent with every prior run)
+
+### Gap hunt — 2 untried modalities from the 07-25 16:20 run's own suggestion list
+1. **Title/meta-description duplicate audit** (never run before this week): delegated an agent to scan `api/meta/[...path].js`'s title/description construction across every route family for non-interpolated literals or copy-paste collisions. Result: one real, small finding — `ARTICLE_METADATA` (lines 373-454) carries 3 legacy pre-rename slugs (`mike-mangini-dream-theater-arsenal`, `vinnie-paul-pantera-arsenal`, `nicko-mcbrain-iron-maiden-arsenal`, all dated 2026-03-24/23 from the original launch) with byte-identical headline/description/image/keywords to their current sitemapped counterparts (`whats-in-*-kit`). Live-curl-confirmed identical `<title>` on both slugs of all 3 pairs. Confirmed via grep that #2614 (closed) already removed the only 2 internal links that pointed at the legacy slugs — they're fully orphaned today, but plausibly still indexed from 2026-03 launch (never de-indexed), which is a live GSC duplicate-title signal. Everything else in the file checked clean (per-entity interpolation correct in every other family; `git log` on the file over the last 2 weeks shows no route family reusing another's template unmodified). Filed **#5109** (redirect 3 legacy slugs → canonical, remove dead metadata entries) — small, atomic, single fix.
+2. **`/vs/<a>-vs-<b>` demand-gate completeness** (never audited this week): delegated an agent to check `VS_DEMAND_DRUMMERS` (24 slugs, `api/sitemap.js:265`) against live sitemap count and GSC evidence. Result: **285 sitemap `/vs/` URLs = exactly C(24,2) + 9 curated pairs**, no drift/orphans; 3 live samples (Googlebot UA) all 200 OK with FAQPage+BreadcrumbList schema and 438-487 words (well above the thin-page floor); zero "X vs Y" query patterns anywhere in metrics.md's top/gap queries. **Conclusion: gate working as designed, no GSC-evidenced expansion candidate — correctly filed nothing** (binding rule #8 requires demand evidence before any /vs expansion; none exists this week).
+
+Searched open+closed issues for the arsenal slugs before filing #5109 — found #2614 (closed, the internal-link fix that orphaned them) but no prior issue on the duplicate-title bug itself; no duplicate.
+
+### Metrics readout
+- Organic % of traffic: 215/248 sessions = 86.7% (GA4 traffic-sources table)
+- Top 3 queries by impressions: `brann dailor drum kit` (15), `best metal drummers` (11), `john otto drum kit` (14)
+- Content-gap queries (impr≥50, CTR<2%): none per metrics.md this week
+- Top GA4 pages: homepage (40), `/drummers` hub (27), `jaska-raatikainen/bio` (14) — unchanged shape from recent weeks
+
+### Proposals filed this run
+1. #5109 — SEO: 3 orphaned legacy article slugs serve byte-identical duplicate title/meta (arsenal slugs)
+
+### Drum-chair watch
+Skipped — Sunday, not Monday (ISO week 30).
+
+### Open proposals waiting on CEO triage
+- #5093 (filed 06:57 UTC this morning, roster-expansion phase 1, ~5h old)
+- #5109 (filed this run, 0d old, live-curl-verified, no duplicates)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers, not real proposals
+
+### Next run
+- Bank at 5 real-equivalent (2 real + 3 umbrella) — well under the 45 floor, no urgency to force volume.
+- Stopped at 1 new finding this run rather than padding toward 8 — both untried modalities suggested by the prior run are now closed out (title/meta: 1 real finding filed, rest of file clean; /vs: fully clean, no action). Untried angles still worth trying next if the bank stays thin: (a) a site-wide `alt` text / image-SEO completeness pass (never explicitly audited as its own sweep, distinct from the general schema sweeps), (b) checking whether the 5 newest-added drummers (from #4926-4930) have picked up any GSC impressions yet now that 3+ weeks have passed since they shipped, (c) re-visit GSC top-queries once this flat week's window rolls over.
+- Watch #5093 and #5109 through CEO triage.

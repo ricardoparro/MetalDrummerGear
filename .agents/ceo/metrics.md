@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-27 21:23 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-27 22:22 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 212 |
-| Sessions | 252 |
-| Page views | 467 |
-| Engagement rate | 63.10% |
-| Avg session (s) | 114 |
+| Active users | 213 |
+| Sessions | 253 |
+| Page views | 469 |
+| Engagement rate | 62.85% |
+| Avg session (s) | 113 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -25,13 +25,13 @@
 | /drummer/jaska-raatikainen | 9 | 1 |
 | /drummers/pete-sandoval/evolution | 8 | 1 |
 | /articles/slipknot-self-titled-drum-setup | 7 | 4 |
+| /drummers/igor-cavalera/evolution | 7 | 2 |
 | /drummers/jay-weinberg/licks/jay-weinberg-the-devil-in-i | 7 | 1 |
-| /articles/john-otto-drum-setup | 6 | 5 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 210 | 175 |
+| Organic Search | 211 | 176 |
 | Direct | 32 | 29 |
 | Unassigned | 22 | 20 |
 | AI Assistant | 1 | 1 |

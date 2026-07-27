@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-27 07:05 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-27 09:05 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 199 |
+| Active users | 200 |
 | Sessions | 236 |
-| Page views | 445 |
-| Engagement rate | 60.59% |
-| Avg session (s) | 123 |
+| Page views | 449 |
+| Engagement rate | 67.37% |
+| Avg session (s) | 117 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -31,32 +31,32 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 198 | 166 |
+| Organic Search | 200 | 168 |
 | Direct | 31 | 28 |
-| Unassigned | 27 | 25 |
+| Unassigned | 9 | 8 |
 | AI Assistant | 1 | 1 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 4,964 |
-| Clicks | 158 |
-| CTR | 3.18% |
+| Impressions | 6,043 |
+| Clicks | 176 |
+| CTR | 2.91% |
 | Avg position | 10.8 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| john otto drum kit | 11 | 2 | 18.18% | 6.7 |
-| john otto drum set | 5 | 2 | 40.00% | 6.0 |
+| john otto drum kit | 12 | 2 | 16.67% | 6.3 |
+| john otto drum set | 7 | 2 | 28.57% | 7.4 |
 | arin ilejay drum set | 9 | 1 | 11.11% | 10.8 |
 | ben koller drum setup | 3 | 1 | 33.33% | 5.0 |
-| best death metal drummers | 6 | 1 | 16.67% | 6.0 |
+| best death metal drummers | 7 | 1 | 14.29% | 5.9 |
 | best drummers of the 2000s | 2 | 1 | 50.00% | 7.5 |
-| best metal drummers | 8 | 1 | 12.50% | 16.6 |
-| brann dailor drum kit | 14 | 1 | 7.14% | 6.4 |
+| best metal drummers | 10 | 1 | 10.00% | 14.9 |
+| brann dailor drum kit | 15 | 1 | 6.67% | 6.3 |
 | brann dailor kit | 2 | 1 | 50.00% | 8.0 |
-| eloy casagrande drum kit | 29 | 1 | 3.45% | 10.1 |
+| danny carey drum set | 32 | 1 | 3.13% | 10.0 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 _no significant gaps detected — all queries with traction have decent CTR_

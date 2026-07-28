@@ -202,8 +202,11 @@ implement_issue() {
   } > "/tmp/roadie-$n.md"
 
   log "Running Roadie on #$n ($title)"
+  local t_issue dt_issue
+  t_issue=$(date +%s)
   run_claude "/tmp/roadie-$n.md" "$RUNS_DIR/issue-$n.log"
   local rc=$?
+  dt_issue=$(( $(date +%s) - t_issue ))
   [ "$rc" = "124" ] && log "#$n timed out after ${PER_ISSUE_TIMEOUT}s"
 
   if grep -q '^NEEDS_HUMAN:' "$RUNS_DIR/issue-$n.log"; then
@@ -217,7 +220,16 @@ implement_issue() {
     # No commit produced. Do NOT comment on the issue — doing it every pass spammed
     # one issue with 2000+ comments and burned the GitHub API quota. Just log it;
     # the TRIED set stops us re-picking it this run, and the run summary records it.
-    log "#$n produced no commits (rc=$rc) — skipping for this run"
+    # Surface WHY. Claude's output goes to a per-issue file, so the run log used
+    # to show only "no commits (rc=1)" — indistinguishable between "subscription
+    # out of quota" (dies in ~1s), "agent refused", and "agent worked but shipped
+    # nothing". Diagnosing the 2026-07-26→28 zero-PR stall meant inferring the
+    # cause from step DURATION. One line of the actual output ends that guesswork.
+    local why
+    why=$(grep -m1 -iE "limit|quota|error|refus|unauthor|forbidden|NEEDS_HUMAN" "$RUNS_DIR/issue-$n.log" 2>/dev/null \
+          | head -c 200 | tr -d '\r\n')
+    [ -z "$why" ] && why=$(head -c 200 "$RUNS_DIR/issue-$n.log" 2>/dev/null | tr -d '\r\n')
+    log "#$n produced no commits (rc=$rc, ${dt_issue}s) — skipping for this run${why:+ | claude said: $why}"
     gh issue edit "$n" --repo "$REPO" --remove-label in-progress >/dev/null 2>&1 || true
     DONE_NOOP+=("$n"); CONSEC_FAIL=$((CONSEC_FAIL+1)); return
   fi

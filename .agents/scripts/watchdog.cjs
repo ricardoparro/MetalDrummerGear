@@ -60,10 +60,12 @@ const CRITICAL_WORKFLOWS = [
   { file: 'pr-merger.yml', name: 'PR Merger', intervalH: 1 },
   // CEO cron throttled to every 3h (2026-07-23); use 4h so a single skipped
   // run (e.g. a subscription-limit window) doesn't trip the stale check.
-  { file: 'ceo-agent.yml', name: 'CEO Agent', intervalH: 4 },
-  // SEO Agent's cron is '0 7,13,19 * * *' — daytime slots are 6h apart, but
-  // 19:00 → 07:00 next day is a 12h overnight gap. Use 12h (not the 6h
-  // daytime cadence) so that normal overnight gap never trips the stale check.
+  // CEO cron throttled to every 6h (2026-07-28); 7h leaves a little slack so a
+  // single skipped run (e.g. a quota window) doesn't trip the stale check.
+  { file: 'ceo-agent.yml', name: 'CEO Agent', intervalH: 7 },
+  // SEO Agent's cron is '0 7,19 * * *' (2026-07-28: 12×/day → 2×/day) — the two
+  // slots are 12h apart, so 12h is the true expected interval; the stale check
+  // only fires past 2×+buffer (25h), i.e. a full day of silence.
   { file: 'seo-agent.yml', name: 'SEO Agent', intervalH: 12 },
   { file: 'check-gsc-watched-queries.yml', name: 'GSC Watch (L1)', intervalH: 168 },
   { file: 'check-llm-citations.yml', name: 'LLM Citations (L2)', intervalH: 168 },

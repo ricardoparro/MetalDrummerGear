@@ -3,14 +3,15 @@ name: SEO Agent
 on:
   workflow_dispatch:
   schedule:
-    # Every 2 hours (12×/day). The idea bank is BANK-CAPPED (see PROMPT.md): the
-    # SEO Agent only files while the open `seo-proposal` count is below the cap
-    # (~80), and prune-proposals.yml trims the bank. Bumped from 3×/day because,
-    # with quota restored and Roadie now 3-wide day / 8-wide night, the fleet
-    # drains the queue faster than 3 daily runs can refill it — Roadie was sitting
-    # idle ("No eligible issues remain"). More frequent runs keep the bank (and
-    # therefore Roadie) fed. Timezone-agnostic (every 2h), so no DST edit.
-    - cron: '0 */2 * * *'
+    # 2×/day (2026-07-28). Was every 2h (12×/day), set when Roadie was starving
+    # for ideas. The situation has INVERTED: the ai-fix queue sits at ~22 with
+    # 0 PRs shipped for 3 days because Roadie's Claude calls die instantly on an
+    # exhausted subscription — the 12 daily SEO runs + 8 CEO runs were consuming
+    # the quota that the *implementer* needs. Generating more ideas while 22 wait
+    # unimplemented buys nothing; shipping does. Restore a higher cadence only if
+    # the bank ever actually runs dry while Roadie has spare quota.
+    #   summer UTC 7,19 = Lisbon 08:00 / 20:00.
+    - cron: '0 7,19 * * *'
 
 permissions:
   contents: write

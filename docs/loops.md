@@ -115,16 +115,26 @@ Agent reads on its next run.
 
 ## Conventions shared across loops
 
-- **Token budget (Claude subscription):** ~all Claude-subscription burn is the
-  agentic implementers, not the verifiers. Order of spend: Roadie night fleet
-  (parallel width × 12h) ≫ Roadie day fleet ≫ CEO (a full invocation every run,
-  even a hold) ≫ SEO Agent. The verifier loops (L1/L3/L4), digest, watchdog,
-  event scanner, and X agent are deterministic Node — **zero Claude tokens**
-  (L2 uses Perplexity, not the subscription). To cut weekly burn, throttle in
-  that order: night-fleet `max-parallel` first, then CEO cron, then day-fleet
-  width. Throttled 2026-07-23 (fleet 8→4, CEO hourly→3h, day 3→2) after the
-  16-issue epic wave (bands/songs/studies/techniques) exhausted both
-  subscriptions mid-week; restore when quota allows and the queue is deep.
+- **Token budget (Claude subscription) — allocation matters more than volume.**
+  Every agentic loop draws on the SAME two subscriptions, and so does any
+  interactive Claude Code session the founder runs. The verifier loops
+  (L1/L3/L4), digest, watchdog, event scanner, and X agent are deterministic
+  Node — **zero Claude tokens** (L2 uses Perplexity, not the subscription).
+  Count runs/day, not just width: a CEO or SEO run is a full agentic session
+  even when it concludes "nothing to do".
+  **The failure mode to avoid is planning agents starving the implementer.**
+  Roadie is the only loop that ships; if CEO+SEO consume the quota first,
+  Roadie's `claude` calls die in ~1s, the circuit breaker trips after 12
+  no-ops, and the pipeline produces 0 PRs while the queue is full — exactly
+  what happened 2026-07-26→28 (22 `ai-fix` waiting, 0 PRs for 3 days, while
+  SEO ran 12×/day and CEO 8×/day).
+  **Rule: when the `ai-fix` queue is non-empty, quota belongs to Roadie.**
+  Throttle the planners (SEO cron, then CEO cron) *before* touching Roadie
+  width — the reverse (2026-07-23: fleet 8→4, day 3→2, CEO hourly→3h, SEO
+  untouched at 12×/day) cut the producer and left the consumer, and is what
+  caused the stall. Current cadence after the 2026-07-28 rebalance: SEO
+  2×/day, CEO every 6h, Roadie night 4-wide / day 2-wide. Restore planner
+  cadence only once Roadie is consistently draining the queue.
 - **Branch prefixes:** `roadie/*` = the implementer (auto-reaped if DIRTY);
   `ralph/*` = legacy, still reaped during transition; `claude/*` = ad-hoc
   human/assistant branches.

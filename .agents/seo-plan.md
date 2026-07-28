@@ -2944,3 +2944,38 @@ Skipped — Sunday, not Monday (ISO week 30).
 - Bank at 5 real-equivalent (2 real + 3 umbrella) — well under the 45 floor, no urgency to force volume.
 - Stopped at 1 new finding this run rather than padding toward 8 — both untried modalities suggested by the prior run are now closed out (title/meta: 1 real finding filed, rest of file clean; /vs: fully clean, no action). Untried angles still worth trying next if the bank stays thin: (a) a site-wide `alt` text / image-SEO completeness pass (never explicitly audited as its own sweep, distinct from the general schema sweeps), (b) checking whether the 5 newest-added drummers (from #4926-4930) have picked up any GSC impressions yet now that 3+ weeks have passed since they shipped, (c) re-visit GSC top-queries once this flat week's window rolls over.
 - Watch #5093 and #5109 through CEO triage.
+
+---
+## 2026-07-28 (Tuesday) — NEW-PAGE FREEZE + LLM-FIRST MODE now binding. Audit-only: 0 proposals filed, 0 bugs found (2 false positives caught and ruled out before filing)
+
+### Context
+First SEO Agent run under the founder's 2026-07-28 freeze (CLAUDE.md): no new pages, depth-only on existing/earning URLs, LLM citation work prioritized, dead-tail cleanup welcome. Bank check: 3 open `seo-proposal` at run start, all 3 are standing umbrellas (#3819 indexation-watch, #3810 gsc-watch, #2211 llm-citations) — true fresh bank is **0**. #5093 (roster expansion phase 1, filed 07-26, the last real proposal) is now **CLOSED** — correctly halted by the freeze (new-page work). Metrics 19:28 UTC: 195 users/232 sessions/452 views 7d, organic 197/232 (84.9%). GSC 6,160 impr/164 clicks/2.66% CTR/pos 11.0 — **no content-gap rows** (impr≥50 & CTR<2%), so no CTR-fix lever available this run. Not Monday — drum-chair watch skipped.
+
+### Audit summary
+- AI crawler robots.txt: ✅ 8/8 explicitly allowed (`api/robots.js`, direct curl)
+- Sitemap: 3,180 `<loc>` entries (matches L3 snapshot's denominator)
+- `public/llms/*.md`: 2,000 files on disk; `/llms.txt` + `/llms-full.txt` both 200
+- Lighthouse: not run (no headless browser in this environment, consistent with every prior run)
+
+### L2-focused gap hunt (Rule 3 priority) — verified 10 zero/low-competitor queries from #2211's "not cited" table against their EXISTING target pages, found the content/schema already optimal on every one
+1. **`/technique/blast-beat` (singular) returns the generic homepage shell to bot UAs** — looked like a live meta-shell routing regression at first (0 JSON-LD, wrong title, no `x-meta-handler` header). **False positive, ruled out before filing**: the real canonical route is `/techniques/blast-beat` (**plural** — confirmed via `App.js`, `api/sitemap.js`, and the meta handler's own code comment at `api/meta/[...path].js:1624-1632`, which documents that #4767 already fixed exactly this singular/plural confusion). Re-tested the correct plural URL: 200, correct title, `x-meta-handler: hit-v1`.
+2. Initial `grep -o '"@type":"Question"'` on the (correctly-routed) `/techniques/blast-beat` page returned 0 — **2nd false positive, also ruled out**: the JSON-LD is pretty-printed (`"@type": "Question"` with a space after the colon), so the compact-JSON grep pattern silently missed it. A direct string search confirmed a full 3-question FAQPage block (`What is Blast Beat?`, tempo, best-drummer) is live and correct.
+3. Live-verified `/bands/{slipknot,tool,gojira,pantera}` — all 4 already carry an exact-match `"Who is the drummer for X?"` FAQ question with an accurate, current, dated answer (Eloy Casagrande/Slipknot correctly reflects the 2024 change).
+4. Live-verified all 3 backlink-epic studies pages (`/studies/most-used-gear-brands-metal`, `/studies/metal-tempo-by-subgenre`, `/studies/metal-kit-configurations`) — each already leads with a single, precisely-computed, quotable FAQ answer matching the literal L2 target query almost word-for-word (e.g. "Pearl is the most-used drum kit brand... 22 of 72 drummers (30.6%)").
+5. Live-verified `/songs/master-of-puppets` — both `What BPM is Master of Puppets?` and `Who played drums on Master of Puppets?` are exact-match FAQ questions with correct answers.
+6. **Conclusion: for the sampled zero/low-competitor L2 gap queries, on-page format is not the blocker anymore** — this matches the existing learned-pattern verdict ("L2 stagnation root-caused... wins correlate with being the only good source, not with schema") one layer more concretely: even queries with `_no competitor in citations_` (meaning nobody else is winning either) already have a page-perfect direct-answer FAQ. The remaining gap is Perplexity's source-selection/crawl-recency/domain-authority, not a fixable on-page defect. Did not file speculative "improve X further" issues against pages that already match the proven pattern.
+
+### Dead-tail / duplicate-cluster check (Rule 4)
+- Re-checked the standing `duplicate→navene-koperweis` canonical cluster (L3 snapshot 2026-07-27, now 36 URLs, up from 26 on 07-13) — live-curled 3 fresh samples (`/articles/the-bleeding-drum-setup`, `/bpm`, `/articles/octavarium-drum-setup`), all self-canonicalize correctly today. Confirms the standing verdict (stale Google index data from an already-fixed historical bug, self-heals on recrawl) still holds at the larger sample size — no new issue.
+- Re-checked the sole `crawled-not-indexed` row (`/drummers` hub, last crawl 2026-06-22) — live curl confirms the hub already has FAQPage schema + editorial intro (fixed by #3281, 2026-06-29); the stale last-crawl date predates that fix. No action, self-healing.
+
+### Proposals filed this run
+None. Bank stayed at 0 real / 3 umbrella.
+
+### Open proposals waiting on CEO triage
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers, not real proposals.
+
+### Next run
+- No content-gap queries this week (CTR-fix lever unavailable) and the L2 on-page-format lever is now confirmed exhausted for the sampled queries — next fresh angle to try if the bank stays empty: (a) sample a *different* slice of #2211's 57 uncited rows (haven't checked the `technique:double-bass`, `lists:*` comparative pages, or the `gsc-derived` cluster's target pages yet), (b) the alt-text/image-SEO sweep flagged as untried in the 07-26 16:20 entry, (c) whether the 5 newest roster drummers (#4926-4930) have picked up GSC impressions yet.
+- Watch for the founder's freeze-lift decision — do not infer it from a good week (binding per CLAUDE.md).
+- #875/#529/#526/#525 human-founder blockers — not re-checked this run (out of SEO Agent's scope; CEO Agent owns that quota check).

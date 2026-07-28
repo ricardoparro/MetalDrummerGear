@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-28 12:40 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-28 19:28 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 192 |
-| Sessions | 228 |
-| Page views | 448 |
-| Engagement rate | 65.79% |
-| Avg session (s) | 119 |
+| Active users | 195 |
+| Sessions | 232 |
+| Page views | 452 |
+| Engagement rate | 64.66% |
+| Avg session (s) | 120 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -26,23 +26,23 @@
 | /drummers/igor-cavalera/evolution | 8 | 2 |
 | /drummers/pete-sandoval/evolution | 8 | 1 |
 | /drummers/jay-weinberg/licks/jay-weinberg-the-devil-in-i | 7 | 1 |
-| /articles/john-otto-drum-setup | 5 | 4 |
+| /cymbals/setups/daniel-erlandsson | 6 | 2 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 195 | 163 |
-| Direct | 30 | 26 |
-| Unassigned | 7 | 7 |
+| Organic Search | 197 | 165 |
+| Direct | 31 | 27 |
+| Unassigned | 10 | 10 |
+| Organic Social | 2 | 1 |
 | AI Assistant | 1 | 1 |
-| Organic Social | 1 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
 | United States | 82 | 69 |
 | Brazil | 13 | 12 |
-| Canada | 11 | 8 |
+| Canada | 12 | 9 |
 | Finland | 11 | 3 |
 | United Kingdom | 10 | 7 |
 | Australia | 9 | 9 |

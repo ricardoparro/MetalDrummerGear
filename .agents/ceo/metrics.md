@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-28 06:50 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-28 09:01 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,16 +8,16 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 190 |
-| Sessions | 225 |
-| Page views | 436 |
-| Engagement rate | 58.67% |
-| Avg session (s) | 112 |
+| Active users | 192 |
+| Sessions | 227 |
+| Page views | 444 |
+| Engagement rate | 66.08% |
+| Avg session (s) | 116 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 40 | 15 |
+| / | 41 | 15 |
 | /drummers | 27 | 4 |
 | /drummer/pete-sandoval | 13 | 1 |
 | /articles/arise-drum-setup | 9 | 7 |
@@ -31,9 +31,9 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 187 | 158 |
-| Direct | 29 | 26 |
-| Unassigned | 28 | 25 |
+| Organic Search | 194 | 163 |
+| Direct | 30 | 26 |
+| Unassigned | 6 | 6 |
 | AI Assistant | 1 | 1 |
 | Organic Social | 1 | 1 |
 

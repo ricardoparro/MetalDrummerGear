@@ -84,6 +84,15 @@ async function fetchGA4() {
     limit: TOP_N,
   });
 
+  const [countries] = await client.runReport({
+    property,
+    dateRanges,
+    dimensions: [{ name: 'country' }],
+    metrics: [{ name: 'sessions' }, { name: 'activeUsers' }],
+    orderBys: [{ metric: { metricName: 'sessions' }, desc: true }],
+    limit: TOP_N,
+  });
+
   const num = (r, i) => parseFloat(r.metricValues[i].value || '0');
   return {
     available: true,
@@ -106,6 +115,11 @@ async function fetchGA4() {
     })),
     sources: (sources.rows || []).map(r => ({
       channel: r.dimensionValues[0].value,
+      sessions: num(r, 0),
+      users: num(r, 1),
+    })),
+    countries: (countries.rows || []).map(r => ({
+      country: r.dimensionValues[0].value,
       sessions: num(r, 0),
       users: num(r, 1),
     })),
@@ -139,10 +153,11 @@ async function fetchGSC() {
     return res.data.rows || [];
   };
 
-  const [totals, topQueries, topPages, gaps] = await Promise.all([
+  const [totals, topQueries, topPages, topCountries, gaps] = await Promise.all([
     query([]),
     query(['query']),
     query(['page']),
+    query(['country']),
     webmasters.searchanalytics.query({
       siteUrl: site,
       requestBody: {
@@ -171,6 +186,13 @@ async function fetchGSC() {
     })),
     topPages: topPages.map(r => ({
       page: r.keys[0],
+      impressions: r.impressions,
+      clicks: r.clicks,
+      ctr: r.ctr,
+      position: r.position,
+    })),
+    topCountries: topCountries.map(r => ({
+      country: r.keys[0],
       impressions: r.impressions,
       clicks: r.clicks,
       ctr: r.ctr,
@@ -233,6 +255,12 @@ function renderMarkdown(ga4, gsc) {
       ['Channel', 'Sessions', 'Users'],
       ga4.sources.map(s => [s.channel, num(s.sessions), num(s.users)]),
     ));
+    lines.push('');
+    lines.push('### Top countries (sessions, last 7d)');
+    lines.push(renderTable(
+      ['Country', 'Sessions', 'Users'],
+      ga4.countries.map(c => [c.country, num(c.sessions), num(c.users)]),
+    ));
   }
   lines.push('');
 
@@ -254,6 +282,12 @@ function renderMarkdown(ga4, gsc) {
     lines.push(renderTable(
       ['Query', 'Impr', 'Clicks', 'CTR', 'Pos'],
       gsc.topQueries.map(q => [q.query, num(q.impressions), num(q.clicks), pct(q.ctr), q.position.toFixed(1)]),
+    ));
+    lines.push('');
+    lines.push('### Top countries (impressions, last 7d)');
+    lines.push(renderTable(
+      ['Country', 'Impr', 'Clicks', 'CTR', 'Pos'],
+      gsc.topCountries.map(c => [(c.country || '').toUpperCase(), num(c.impressions), num(c.clicks), pct(c.ctr), c.position.toFixed(1)]),
     ));
     lines.push('');
     lines.push('### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address');

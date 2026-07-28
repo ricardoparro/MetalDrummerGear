@@ -3,12 +3,14 @@ name: CEO Agent
 on:
   workflow_dispatch:
   schedule:
-    # Every 3h (8 runs/day) — throttled from hourly on 2026-07-23 to cut weekly
-    # Claude subscription burn. Each run is a full Claude invocation even when it
-    # only holds; hourly was justified when aggressively refilling the ai-fix
-    # queue, but with a deep queue the CEO doesn't need to top up every hour.
-    # Restore to '0 * * * *' when quota allows. Timezone-agnostic, no DST edit.
-    - cron: '0 */3 * * *'
+    # Every 6h (4 runs/day) — throttled again on 2026-07-28 (hourly → 3h → 6h).
+    # Each run is a full Claude invocation even when it only holds. With ~22
+    # ai-fix issues already queued and Roadie unable to get quota to implement
+    # them, more triage is worthless: the constraint is implementation, not
+    # ideas. This frees subscription quota for the Roadie fleet, which is the
+    # only loop that actually ships. Restore to '0 */3 * * *' when Roadie is
+    # consistently draining the queue. Timezone-agnostic, no DST edit.
+    - cron: '0 */6 * * *'
 
 permissions:
   contents: write

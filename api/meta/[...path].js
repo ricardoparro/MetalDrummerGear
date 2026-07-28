@@ -433,6 +433,15 @@ const ARTICLE_METADATA = {
   },
 };
 
+// Issue #5109: pre-rename article slugs from the 2026-03 launch (feature #780),
+// superseded by the `whats-in-*-kit` pattern. They served byte-identical
+// title/meta duplicates of their canonical counterpart — 301 to consolidate signal.
+const LEGACY_ARTICLE_SLUG_REDIRECTS = {
+  'mike-mangini-dream-theater-arsenal': 'whats-in-mike-manginis-kit',
+  'vinnie-paul-pantera-arsenal': 'whats-in-vinnie-pauls-kit',
+  'nicko-mcbrain-iron-maiden-arsenal': 'whats-in-nicko-mcbrains-kit',
+};
+
 // Helper: Get drummer by slug
 function _normalizeDrummerSlug(name) {
   return name.toLowerCase()
@@ -7478,7 +7487,17 @@ export default function handler(req, res) {
   
   // Build the original URL for redirect
   const originalUrl = `${BASE_URL}${pathname}`;
-  
+
+  // Issue #5109: legacy pre-rename article slugs duplicated the canonical
+  // article's title/meta. 301 before any metadata lookup so the duplicate
+  // is never served.
+  const legacyArticleMatch = pathname.match(/^\/articles\/([a-z0-9-]+)$/);
+  if (legacyArticleMatch && LEGACY_ARTICLE_SLUG_REDIRECTS[legacyArticleMatch[1]]) {
+    res.writeHead(301, { Location: `/articles/${LEGACY_ARTICLE_SLUG_REDIRECTS[legacyArticleMatch[1]]}` });
+    res.end();
+    return;
+  }
+
   // Generate meta tags
   const meta = getMetaForPath(pathname);
 

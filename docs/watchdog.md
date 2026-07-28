@@ -19,7 +19,7 @@ shape — output went to zero while the backlog was non-empty.
 | # | Check | Alerts when |
 | --- | --- | --- |
 | 1 | **Critical-workflow failure** | the most recent run of any critical workflow has `conclusion` ∈ `{failure, cancelled, startup_failure, timed_out}`. Still-running runs are not judged. |
-| 2 | **Roadie output drought** | `roadie/*` PRs opened in 24h = 0 **and** PRs merged in 24h = 0 **and** open `ai-fix` > 0. (The exact 0-PR stall.) |
+| 2 | **Roadie output drought** | `roadie/*` PRs opened in 24h = 0 **and** PRs merged in 24h = 0 **and** open `ai-fix` > 0. (The exact 0-PR stall.) Quota-aware (2026-07-28): drain.sh no-ops gracefully on an exhausted subscription, so those runs still show `conclusion: success`; when every completed Roadie run in the window logs the same failover signature as a quota-limited CEO/SEO run, the drought is reported as a ⏳ quota pause instead of "needs attention". |
 | 3 | **Stale scheduled workflow** | a critical workflow's most recent run is older than **2× its expected interval + 1h buffer**. Lenient to avoid false alarms from a single skipped run. |
 | 4 | **Verifier snapshot freshness** | `.agents/seo/indexation-snapshot.md` / `gsc-watch-snapshot.md` last commit is older than **8 days** (best-effort, via the commits API; skipped if not tracked). |
 

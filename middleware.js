@@ -39,7 +39,13 @@ export default function middleware(request) {
   // that's the one route the filesystem shadows.
   if (!accept.includes('text/markdown')) {
     if (path === '/' && BOT_UA_RE.test(userAgent)) {
-      return withVary(rewrite(new URL('/api/meta/?path=', request.url)), 'Accept, User-Agent');
+      // Issue #5111 (4th occurrence): the rewrite target must include the
+      // literal `[...path]` function-file segment, matching every other
+      // bot-conditioned rule in vercel.json (e.g. `?path=drummer/:slug`).
+      // Without it, `/api/meta/?path=` is just `/api/meta/` with an empty
+      // segment, which Vercel 308-redirects to `/api/meta` (dropping the
+      // trailing slash) before the rewrite ever reaches the catch-all.
+      return withVary(rewrite(new URL('/api/meta/[...path]?path=', request.url)), 'Accept, User-Agent');
     }
     return withVary(next(), 'Accept, User-Agent');
   }

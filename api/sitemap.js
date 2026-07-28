@@ -497,7 +497,7 @@ const BASE_URL = 'https://metalforge.io';
 // per-URL date; bump it only on material content releases (never wire it back
 // to new Date()). Article URLs override this with their real ALBUM_ARTICLES
 // dateModified via the per-entry `lastmod` field below.
-const SITE_LASTMOD = '2026-06-26';
+const SITE_LASTMOD = '2026-07-25';
 
 // Real per-URL date if the entry carries a verifiable one, else the stable
 // site-wide release date.

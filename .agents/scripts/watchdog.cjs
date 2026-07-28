@@ -274,12 +274,27 @@ function evalWorkflowStale(wf, run, now = new Date(), workflowCreatedAt = null) 
 /**
  * #2 — Roadie output drought. The exact stall we hit: Roadie burned a run but
  * shipped nothing while the backlog was non-empty.
+ *
+ * Quota-aware (2026-07-28): drain.sh treats an exhausted Claude subscription as
+ * a graceful no-op (every issue logs "produced no commits ... claude said:
+ * You've hit your weekly limit") rather than a job failure, so the run's
+ * conclusion is `success` — evalWorkflowFailure's quota classification never
+ * sees it. Without this, the drought alert misreports the exact same
+ * self-healing quota pause already surfaced (correctly) for CEO/SEO as a
+ * "needs attention" incident. `quotaInfo` (see collectRoadieQuotaSignal) is
+ * only computed when the drought condition already holds.
  * @param {number} roadiePrsOpened  roadie/* PRs opened in last 24h
  * @param {number} prsMerged        PRs merged in last 24h
  * @param {number} openAiFix        open ai-fix issues
+ * @param {{quota: boolean, scope?: string, resets?: string}|null} quotaInfo
  */
-function evalRoadieDrought(roadiePrsOpened, prsMerged, openAiFix) {
+function evalRoadieDrought(roadiePrsOpened, prsMerged, openAiFix, quotaInfo = null) {
   if (roadiePrsOpened === 0 && prsMerged === 0 && openAiFix > 0) {
+    if (quotaInfo && quotaInfo.quota) {
+      const reset = quotaInfo.resets ? `, resets ${quotaInfo.resets}` : '';
+      const scope = quotaInfo.scope || 'usage';
+      return [`${QUOTA_PREFIX}Roadie (roadie.yml) — shipped nothing in ${DROUGHT_WINDOW_H}h despite ${openAiFix} ai-fix open: both Claude subscriptions hit their ${scope} limit${reset} — self-healing, no action needed`];
+    }
     return [`Roadie shipped nothing in ${DROUGHT_WINDOW_H}h despite ${openAiFix} ai-fix open`];
   }
   return [];
@@ -320,7 +335,7 @@ function evaluateAll(state) {
     alerts.push(...evalWorkflowStale(wf, run, now, createdAt));
   }
   if (state.roadie) {
-    alerts.push(...evalRoadieDrought(state.roadie.prsOpened, state.roadie.prsMerged, state.roadie.openAiFix));
+    alerts.push(...evalRoadieDrought(state.roadie.prsOpened, state.roadie.prsMerged, state.roadie.openAiFix, state.roadie.quotaInfo));
   }
   if (state.snapshots) {
     alerts.push(...evalSnapshotFreshness(state.snapshots, now));
@@ -581,6 +596,61 @@ async function collectRoadie() {
   return { prsOpened: seenOpened.size, prsMerged, openAiFix };
 }
 
+// Roadie workflows whose logs get inspected when a drought is already
+// detected, to tell "genuinely stuck" apart from "every run hit the same
+// quota wall drain.sh already handled gracefully".
+const ROADIE_WORKFLOW_FILES = ['roadie.yml', 'roadie-night-fleet.yml'];
+
+/**
+ * Explains a Roadie drought, if possible: were ALL of Roadie's completed runs
+ * in the drought window blocked by the same quota exhaustion that CEO/SEO hit?
+ * drain.sh logs the failover signature per no-op'd issue and still exits 0, so
+ * these runs read as `success` to evalWorkflowFailure — this is the only place
+ * that looks inside them. Only called once a drought is already confirmed
+ * (evalRoadieDrought's other inputs), so the extra log-fetching cost is paid
+ * only on the alerting path, never on a healthy run.
+ */
+async function collectRoadieQuotaSignal(since) {
+  let anyRun = false;
+  let allQuotaBlocked = true;
+  let scope = null;
+  let resets = null;
+  for (const file of ROADIE_WORKFLOW_FILES) {
+    let runs;
+    try {
+      const data = await ghRequest('GET', `/repos/${REPO}/actions/workflows/${file}/runs?per_page=30`);
+      runs = ((data && data.workflow_runs) || [])
+        .filter(r => r.status === 'completed' && new Date(r.created_at).getTime() >= since);
+    } catch (e) {
+      process.stderr.write(`  ${file}: couldn't list runs for quota signal (${e.message}).\n`);
+      return { quota: false };
+    }
+    for (const wfRun of runs) {
+      anyRun = true;
+      let jobs;
+      try {
+        const data = await ghRequest('GET', `/repos/${REPO}/actions/runs/${wfRun.id}/jobs?per_page=30`);
+        jobs = (data && data.jobs) || [];
+      } catch (e) {
+        process.stderr.write(`  ${file} run ${wfRun.id}: couldn't list jobs (${e.message}).\n`);
+        return { quota: false };
+      }
+      let runHadQuota = false;
+      for (const job of jobs) {
+        let log = '';
+        try { log = await fetchJobLog(job.id); } catch { continue; }
+        if (!QUOTA_LOG_RE.test(log)) continue;
+        runHadQuota = true;
+        const m = log.match(QUOTA_DETAIL_RE);
+        if (m && !scope) { scope = m[1].toLowerCase(); resets = m[2].trim(); }
+      }
+      if (!runHadQuota) allQuotaBlocked = false;
+    }
+  }
+  if (!anyRun) return { quota: false };
+  return { quota: allQuotaBlocked, scope, resets };
+}
+
 async function collectSnapshots() {
   // #4 — verifier snapshot freshness via the commits API (cheap, optional).
   const files = [
@@ -737,6 +807,20 @@ function selfTest() {
   check('0 PRs + empty backlog → no alert', evalRoadieDrought(0, 0, 0).length, 0);
   check('PRs shipped + backlog → no alert', evalRoadieDrought(3, 1, 12).length, 0);
 
+  // Fixture D2 (2026-07-28): a drought caused entirely by drain.sh's graceful
+  // quota no-op — same root cause as a quota-limited workflow failure, so it
+  // must route the same way: ⏳-prefixed, not "needs attention".
+  const droughtQuotaInfo = { quota: true, scope: 'weekly', resets: 'Jul 30, 10am (UTC)' };
+  const droughtQuotaAlerts = evalRoadieDrought(0, 0, 22, droughtQuotaInfo);
+  check('quota-caused drought → 1 alert', droughtQuotaAlerts.length, 1);
+  check('quota-caused drought carries the ⏳ prefix', droughtQuotaAlerts[0].startsWith(QUOTA_PREFIX), true);
+  check('quota-caused drought names the reset time', /resets Jul 30, 10am \(UTC\)/.test(droughtQuotaAlerts[0]), true);
+  // Unclassifiable (or genuinely broken) droughts must NOT be downgraded.
+  check('drought with quota:false stays a hard alert',
+    evalRoadieDrought(0, 0, 22, { quota: false })[0].startsWith(QUOTA_PREFIX), false);
+  check('issue body: quota-caused drought alone → no "Needs attention" section',
+    /Needs attention/.test(buildIssueBody(droughtQuotaAlerts, now)), false);
+
   // Fixture E: stale snapshot → 1 alert; fresh → 0.
   check('stale snapshot → 1 alert', evalSnapshotFreshness(
     [{ path: 'x.md', lastCommitIso: new Date(now.getTime() - 10 * 86400000).toISOString() }], now).length, 1);
@@ -797,6 +881,15 @@ async function run({ dryRun }) {
   }
   const roadie = await collectRoadie();
   process.stderr.write(`  Roadie 24h: ${roadie.prsOpened} roadie/* PRs opened · ${roadie.prsMerged} merged · ${roadie.openAiFix} ai-fix open\n`);
+  // Only worth explaining a drought that's actually happening — skip the log
+  // fetches entirely on a healthy run.
+  if (roadie.prsOpened === 0 && roadie.prsMerged === 0 && roadie.openAiFix > 0) {
+    const since = now.getTime() - DROUGHT_WINDOW_H * 3600000;
+    roadie.quotaInfo = await collectRoadieQuotaSignal(since);
+    if (roadie.quotaInfo.quota) {
+      process.stderr.write(`  Roadie drought is a Claude ${roadie.quotaInfo.scope || 'usage'}-limit pause (resets ${roadie.quotaInfo.resets || '?'}).\n`);
+    }
+  }
   const snapshots = await collectSnapshots();
 
   const alerts = evaluateAll({ now, workflows, roadie, snapshots });

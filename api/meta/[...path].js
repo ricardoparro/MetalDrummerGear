@@ -368,6 +368,16 @@ const DRUMMER_META_OVERRIDES = {
   },
 };
 
+// Issue #5109: pre-rename slugs from the original 2026-03 launch content (#780),
+// superseded by the whats-in-*-kit pattern. 301 these to the canonical slug instead
+// of serving byte-identical duplicate title/meta, so accumulated signal consolidates
+// on the canonical URL instead of leaving two indexable duplicates.
+const LEGACY_ARTICLE_SLUG_REDIRECTS = {
+  'mike-mangini-dream-theater-arsenal': 'whats-in-mike-manginis-kit',
+  'vinnie-paul-pantera-arsenal': 'whats-in-vinnie-pauls-kit',
+  'nicko-mcbrain-iron-maiden-arsenal': 'whats-in-nicko-mcbrains-kit',
+};
+
 // Article data for schema.org Article structured data (Issue #777)
 // Maps article slugs to their metadata for SEO schema generation
 const ARTICLE_METADATA = {
@@ -381,16 +391,6 @@ const ARTICLE_METADATA = {
     articleSection: 'Album Gear Breakdown',
     keywords: ['cowboys from hell drums', 'vinnie paul drum setup', 'pantera gear'],
   },
-  'mike-mangini-dream-theater-arsenal': {
-    headline: "What's In Mike Mangini's Dream Theater Arsenal",
-    description: "Complete breakdown of Mike Mangini's massive drum kit setup. Discover the gear the world record holder and Berklee professor uses with Dream Theater.",
-    author: 'MetalForge Editorial',
-    datePublished: '2026-03-24',
-    dateModified: '2026-03-24',
-    image: `${BASE_URL}/images/drummers/mike-mangini.webp`,
-    articleSection: 'Drummer Gear Breakdown',
-    keywords: ['mike mangini drum kit', 'dream theater drummer', 'progressive metal drums'],
-  },
   'whats-in-mike-manginis-kit': {
     headline: "What's In Mike Mangini's Dream Theater Arsenal",
     description: "Complete breakdown of Mike Mangini's massive drum kit setup. Discover the gear the world record holder and Berklee professor uses with Dream Theater.",
@@ -401,16 +401,6 @@ const ARTICLE_METADATA = {
     articleSection: 'Drummer Gear Breakdown',
     keywords: ['mike mangini drum kit', 'dream theater drummer', 'progressive metal drums'],
   },
-  'vinnie-paul-pantera-arsenal': {
-    headline: "What's In Vinnie Paul's Pantera Arsenal (Tribute)",
-    description: "Complete breakdown of Vinnie Paul's legendary drum kit setup. From Cowboys from Hell to his final days with Hellyeah, discover the gear that defined groove metal drumming.",
-    author: 'MetalForge Editorial',
-    datePublished: '2026-03-23',
-    dateModified: '2026-03-23',
-    image: `${BASE_URL}/images/drummers/vinnie-paul.webp`,
-    articleSection: 'Drummer Gear Breakdown',
-    keywords: ['vinnie paul drum kit', 'pantera drummer gear', 'groove metal drums'],
-  },
   'whats-in-vinnie-pauls-kit': {
     headline: "What's In Vinnie Paul's Pantera Arsenal (Tribute)",
     description: "Complete breakdown of Vinnie Paul's legendary drum kit setup. From Cowboys from Hell to his final days with Hellyeah, discover the gear that defined groove metal drumming.",
@@ -420,16 +410,6 @@ const ARTICLE_METADATA = {
     image: `${BASE_URL}/images/drummers/vinnie-paul.webp`,
     articleSection: 'Drummer Gear Breakdown',
     keywords: ['vinnie paul drum kit', 'pantera drummer gear', 'groove metal drums'],
-  },
-  'nicko-mcbrain-iron-maiden-arsenal': {
-    headline: "What's In Nicko McBrain's Iron Maiden Arsenal",
-    description: "Complete breakdown of Nicko McBrain's drum kit setup. Discover the gear that powers Iron Maiden's legendary galloping rhythms — achieved entirely with a single bass drum pedal.",
-    author: 'MetalForge Editorial',
-    datePublished: '2026-03-23',
-    dateModified: '2026-03-23',
-    image: `${BASE_URL}/images/drummers/nicko-mcbrain.webp`,
-    articleSection: 'Drummer Gear Breakdown',
-    keywords: ['nicko mcbrain drum kit', 'iron maiden drummer', 'single bass drum metal'],
   },
   'whats-in-nicko-mcbrains-kit': {
     headline: "What's In Nicko McBrain's Iron Maiden Arsenal",
@@ -2377,8 +2357,17 @@ export function getMetaForPath(pathname) {
   const articlesMatch = path.match(/^\/articles\/([a-z0-9-]+)$/);
   if (articlesMatch) {
     const [, articleSlug] = articlesMatch;
+
+    // Issue #5109: legacy pre-rename slugs served byte-identical duplicate
+    // title/meta to their canonical whats-in-*-kit counterparts. 301 instead
+    // of serving the duplicate, before the ARTICLE_METADATA lookup runs.
+    const legacyRedirectSlug = LEGACY_ARTICLE_SLUG_REDIRECTS[articleSlug];
+    if (legacyRedirectSlug) {
+      return { redirect: `/articles/${legacyRedirectSlug}` };
+    }
+
     const articleMeta = ARTICLE_METADATA[articleSlug];
-    
+
     if (articleMeta) {
       return {
         title: `${articleMeta.headline} | ${SITE_NAME}`,
@@ -7492,11 +7481,19 @@ export default function handler(req, res) {
   
   // Generate meta tags
   const meta = getMetaForPath(pathname);
-  
+
+  // Issue #5109: legacy article slugs 301 to their canonical counterpart
+  // instead of serving duplicate title/meta.
+  if (meta.redirect) {
+    res.writeHead(301, { Location: meta.redirect });
+    res.end();
+    return;
+  }
+
   // Set response headers
   res.setHeader('Content-Type', 'text/html; charset=utf-8');
   res.setHeader('Cache-Control', 'public, s-maxage=3600, stale-while-revalidate=86400');
-  
+
   // Return HTML
   res.status(200).send(generateMetaHtml(meta, originalUrl));
 }

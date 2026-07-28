@@ -39,7 +39,14 @@ export default function middleware(request) {
   // that's the one route the filesystem shadows.
   if (!accept.includes('text/markdown')) {
     if (path === '/' && BOT_UA_RE.test(userAgent)) {
-      return withVary(rewrite(new URL('/api/meta/?path=', request.url)), 'Accept, User-Agent');
+      // Issue #5111 (4th occurrence): must target the function's own bracket
+      // path literally, exactly like every sibling bot-conditioned rewrite in
+      // vercel.json (e.g. `/api/meta/[...path]?path=drummers`). The #5038 fix
+      // dropped the `[...path]` segment, rewriting to a bare `/api/meta/?path=`
+      // directory path instead — Vercel normalizes that trailing slash away
+      // with a 308 *before* the rewrite ever reaches the function, so the
+      // redirect response was served with none of the homepage JSON-LD.
+      return withVary(rewrite(new URL('/api/meta/[...path]?path=', request.url)), 'Accept, User-Agent');
     }
     return withVary(next(), 'Accept, User-Agent');
   }

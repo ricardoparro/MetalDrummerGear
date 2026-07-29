@@ -271,7 +271,7 @@ import { DRUMMER_GEAR, BRAND_SEO_DATA } from '../../packages/frontend/data/gearS
 // nothing is hand-listed in more than one place. The per-study data imports below
 // are the generated stats files (scripts/compute-studies.cjs) backing each study —
 // mostUsedGearBrands.js (phase 1, #4764), the other three (phase 2, #4765).
-import { STUDIES, getStudyBySlug, getBrandStudyLinks } from '../../packages/frontend/data/studies/index.js';
+import { STUDIES, getStudyBySlug, getBrandStudyLinks, getDrummerStudyLinks, getGenreStudyLinks } from '../../packages/frontend/data/studies/index.js';
 import { MOST_USED_GEAR_BRANDS } from '../../packages/frontend/data/studies/mostUsedGearBrands.js';
 import { TEMPO_BY_SUBGENRE } from '../../packages/frontend/data/studies/tempoBySubgenre.js';
 import { DRUM_ENDORSEMENT_LANDSCAPE } from '../../packages/frontend/data/studies/drumEndorsementLandscape.js';
@@ -3138,6 +3138,7 @@ export function getMetaForPath(pathname) {
           })),
         });
       }
+      const studyLinks = getGenreStudyLinks(genreName);
       return {
         title: genreData.metaTitle || `${genreName} Drummers — Gear & Setups | ${SITE_NAME}`,
         description: genreData.metaDescription || `Explore ${genreName.toLowerCase()} drummers and their gear. From icons to rising stars, see what powers the ${genreName.toLowerCase()} sound.`,
@@ -3159,6 +3160,9 @@ export function getMetaForPath(pathname) {
             href: `/genre/${s}`,
             label: GENRES[s].name,
           })),
+          // Issue #5131: study-citation backlinks (getGenreStudyLinks), same gap
+          // #5011 fixed for brands — rendered client-side only via #4766 until now.
+          ...studyLinks.map((l) => ({ href: `/studies/${l.studySlug}`, label: l.studyTitle })),
         ],
         speakableSchema: true,
         speakableCssSelector: ['h1', 'h2', 'p'],
@@ -5638,6 +5642,9 @@ export function getMetaForPath(pathname) {
         { label: 'Snare', value: drummer.gear?.snare },
         { label: 'Sticks', value: drummer.gear?.sticks },
       ].filter(f => f && f.value);
+      // Issue #5131: study-citation backlinks (getDrummerStudyLinks), same gap
+      // #5011 fixed for brands — rendered client-side only via #4766 until now.
+      const studyLinks = getDrummerStudyLinks(slug);
       return {
         title: override?.title || extBio?.metaTitle || `${drummer.name} Drum Kit & Gear Setup | ${SITE_NAME}`,
         description: truncate(
@@ -5649,10 +5656,13 @@ export function getMetaForPath(pathname) {
         image: `${BASE_URL}/api/card/${slug}?format=twitter`,
         type: 'profile',
         url: `${BASE_URL}/drummer/${slug}`,
-        ssrLinks: relatedArticles.length > 0 ? relatedArticles.map(a => ({
-          href: `/articles/${a.slug}`,
-          label: a.title,
-        })) : null,
+        ssrLinks: _dedupeSsrLinksByHref([
+          ...(relatedArticles.length > 0 ? relatedArticles.map(a => ({
+            href: `/articles/${a.slug}`,
+            label: a.title,
+          })) : []),
+          ...studyLinks.map((l) => ({ href: `/studies/${l.studySlug}`, label: l.studyTitle })),
+        ]),
         quickFacts,
         quickFactsName: drummer.name,
         speakableSchema: true,

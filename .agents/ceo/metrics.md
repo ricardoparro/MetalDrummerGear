@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-29 00:33 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-29 07:52 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,44 +8,44 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 167 |
-| Sessions | 197 |
-| Page views | 403 |
-| Engagement rate | 61.93% |
-| Avg session (s) | 171 |
+| Active users | 174 |
+| Sessions | 205 |
+| Page views | 447 |
+| Engagement rate | 59.51% |
+| Avg session (s) | 206 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 35 | 12 |
+| / | 42 | 13 |
 | /drummers | 27 | 4 |
+| /cymbals/setups/daniel-erlandsson | 13 | 2 |
+| /drummer/joey-jordison | 13 | 4 |
 | /drummer/pete-sandoval | 13 | 1 |
 | /drummers/igor-cavalera/evolution | 12 | 3 |
-| /cymbals/setups/daniel-erlandsson | 11 | 2 |
+| /drummer/daniel-erlandsson | 10 | 2 |
 | /articles/arise-drum-setup | 9 | 7 |
-| /drummer/daniel-erlandsson | 9 | 2 |
 | /drummer/jaska-raatikainen/bio | 8 | 1 |
 | /drummers/pete-sandoval/evolution | 8 | 1 |
-| /drummers/jay-weinberg/licks/jay-weinberg-the-devil-in-i | 7 | 1 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 165 | 139 |
+| Organic Search | 173 | 146 |
 | Direct | 25 | 23 |
-| Unassigned | 15 | 15 |
+| Unassigned | 21 | 20 |
 | Organic Social | 3 | 1 |
 | AI Assistant | 1 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 73 | 63 |
+| United States | 76 | 65 |
 | Brazil | 12 | 11 |
 | Canada | 11 | 9 |
 | Finland | 10 | 3 |
 | United Kingdom | 9 | 6 |
-| Germany | 7 | 7 |
+| Germany | 8 | 8 |
 | Australia | 6 | 6 |
 | France | 6 | 5 |
 | Hungary | 5 | 3 |

@@ -2979,3 +2979,33 @@ None. Bank stayed at 0 real / 3 umbrella.
 - No content-gap queries this week (CTR-fix lever unavailable) and the L2 on-page-format lever is now confirmed exhausted for the sampled queries — next fresh angle to try if the bank stays empty: (a) sample a *different* slice of #2211's 57 uncited rows (haven't checked the `technique:double-bass`, `lists:*` comparative pages, or the `gsc-derived` cluster's target pages yet), (b) the alt-text/image-SEO sweep flagged as untried in the 07-26 16:20 entry, (c) whether the 5 newest roster drummers (#4926-4930) have picked up GSC impressions yet.
 - Watch for the founder's freeze-lift decision — do not infer it from a good week (binding per CLAUDE.md).
 - #875/#529/#526/#525 human-founder blockers — not re-checked this run (out of SEO Agent's scope; CEO Agent owns that quota check).
+
+---
+## 2026-07-29 (Wednesday, ~07:56 UTC) — CRITICAL: site-wide 500 on every crawler UA found and filed (#5126), everything else deferred
+
+### Context
+Bank check: 3 open `seo-proposal` at run start, all 3 standing umbrellas (#3810/#3819/#2211) — true fresh bank 0, well under the 45 floor. Metrics (07:52 UTC refresh): 174 users/205 sessions/447 views 7d, organic 173/205 (84.4%). GSC 5,269 impr/136 clicks/2.58% CTR/pos 11.0 — no content-gap rows. Not Monday — drum-chair watch skipped.
+
+### Audit — found a live production emergency before completing the normal checklist
+Routine bot-UA homepage curl (the first audit step) returned `HTTP 500 FUNCTION_INVOCATION_FAILED` instead of the expected meta-shell response. Escalated straight into root-cause instead of continuing the checklist:
+- Confirmed scope: **every** crawler UA tested (Googlebot, PerplexityBot, ClaudeBot, GPTBot) gets 500 on **every** page type tested (homepage, drummer profile, article, hub). A direct hit on `/api/meta/drummer/joey-jordison` (no bot UA, no vercel.json routing involved) also 500s — proves the bug is inside the function itself, not middleware/routing.
+- Root cause: `node -c "api/meta/[...path].js"` → `SyntaxError: Identifier 'LEGACY_ARTICLE_SLUG_REDIRECTS' has already been declared` (lines 375 and 439, byte-identical blocks). Two independent Roadie PRs (#5120/#5121) both implemented issue #5109 and both merged 1 minute apart (2026-07-28 13:56-13:57 UTC) — no git conflict (non-overlapping insert points) but a semantic duplicate-const crash. **Live since ~18h before this run.**
+- Confirmed regular browser traffic unaffected (no bot UA/markdown Accept never reaches this function) and the static `/llms/*.md` + `/sitemap.xml` surfaces are also unaffected (not routed through the broken function) — so L2's primary discovery surface (llms.txt corpus) is intact, but every bot-UA-conditioned HTML response (the L1/Google-facing surface, and any LLM crawler that fetches HTML directly rather than via llms.txt) has been a hard 500 for ~18 hours.
+- Filed **#5126** (`seo-proposal,seo,priority`) with exact root cause, both commit hashes, the 1-line fix (delete the duplicate block at 436-443), and a 6-point Verify section. This is categorically the most severe finding on record — worse than any prior meta-shell-saga chapter (those served a degraded 200 shell; this is a hard 500 blocking L1+L2 simultaneously, site-wide).
+
+Stopped here rather than continuing the normal audit/gap-hunt — no further schema/CTR/depth finding matters until this ships, and re-running bot-UA-dependent checks (Quick Facts count, schema audit, Lighthouse-style checks) is pointless while the function is down.
+
+### Proposals filed this run
+1. #5126 — SEO CRITICAL: api/meta/[...path].js SyntaxError (duplicate const) — 500s every crawler UA site-wide since 2026-07-28 13:57 UTC
+
+### Drum-chair watch
+Skipped — Wednesday, not Monday.
+
+### Open proposals waiting on CEO triage
+- #5126 (filed this run, 0d old, root-caused to the exact line/commit, 1-line fix included) — **flag as highest priority possible, promote immediately, do not wait for the normal triage cadence**
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers, not real proposals
+
+### Next run
+- **First action: confirm #5126 shipped and re-verify with the bot-UA + direct-function-hit curls in its Verify section** before trusting any other L1/L2/L3 signal — every snapshot generated while this bug was live (any run between 2026-07-28 ~14:00 UTC and whenever this ships) should be treated as measuring an outage, not real SEO performance.
+- Once confirmed fixed, resume the normal audit/gap-hunt from where 07-28's run left off (untried angles: technique:double-bass / lists:* L2 uncited rows, alt-text/image-SEO sweep, 5-newest-drummer GSC pickup check).
+- Also worth a light follow-up (separate proposal, not bundled into #5126): whether Roadie's dispatcher can detect "issue already has an open PR" before assigning a duplicate worker, and whether CI actually runs `node -c`/a real build step on every PR (if it does and still let this merge, that's a second bug in the gate itself) — flagged as a process note inside #5126 for CEO/founder awareness, not filed as its own issue this run since it's process/tooling, not SEO surface.

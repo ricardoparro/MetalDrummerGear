@@ -1,0 +1,38 @@
+name: Verify API Modules
+
+# Pre-merge gate: `node --check` every api/**/*.js file so a SyntaxError
+# (duplicate top-level identifier, unbalanced brace, etc.) fails the PR
+# instead of shipping to prod. #5126: a duplicate top-level `const
+# LEGACY_ARTICLE_SLUG_REDIRECTS` in api/meta/[...path].js caused a ~23h
+# full-site crawler outage with zero CI signal — no pull_request-triggered
+# workflow parsed or imported anything under api/**. See
+# scripts/verify-api-modules.cjs for the rationale.
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main, 'claude/**', 'roadie/**', 'ralph/**']
+    paths:
+      - '.github/workflows/verify-api-modules.yml'
+      - 'scripts/verify-api-modules.cjs'
+      - 'api/**'
+  pull_request:
+    paths:
+      - '.github/workflows/verify-api-modules.yml'
+      - 'scripts/verify-api-modules.cjs'
+      - 'api/**'
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    name: node --check api/**/*.js
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Syntax-check API modules
+        run: node scripts/verify-api-modules.cjs

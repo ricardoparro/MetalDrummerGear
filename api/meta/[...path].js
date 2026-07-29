@@ -271,7 +271,7 @@ import { DRUMMER_GEAR, BRAND_SEO_DATA } from '../../packages/frontend/data/gearS
 // nothing is hand-listed in more than one place. The per-study data imports below
 // are the generated stats files (scripts/compute-studies.cjs) backing each study —
 // mostUsedGearBrands.js (phase 1, #4764), the other three (phase 2, #4765).
-import { STUDIES, getStudyBySlug, getBrandStudyLinks } from '../../packages/frontend/data/studies/index.js';
+import { STUDIES, getStudyBySlug, getBrandStudyLinks, getDrummerStudyLinks, getGenreStudyLinks } from '../../packages/frontend/data/studies/index.js';
 import { MOST_USED_GEAR_BRANDS } from '../../packages/frontend/data/studies/mostUsedGearBrands.js';
 import { TEMPO_BY_SUBGENRE } from '../../packages/frontend/data/studies/tempoBySubgenre.js';
 import { DRUM_ENDORSEMENT_LANDSCAPE } from '../../packages/frontend/data/studies/drumEndorsementLandscape.js';
@@ -3113,6 +3113,9 @@ export function getMetaForPath(pathname) {
     if (genreData) {
       const genreName = genreData.name;
       const faqItems = genreData.faq || [];
+      // Issue #5131: study-citation backlinks (getGenreStudyLinks), same gap
+      // #5011 fixed for brands — was client-side only via #4766.
+      const studyLinks = getGenreStudyLinks(genreName);
       const graph = [
         {
           '@type': 'CollectionPage',
@@ -3159,6 +3162,9 @@ export function getMetaForPath(pathname) {
             href: `/genre/${s}`,
             label: GENRES[s].name,
           })),
+          // Issue #5011: study-citation backlinks (getGenreStudyLinks) rendered
+          // client-side only via #4766 but were never added to SSR ssrLinks.
+          ...studyLinks.map((l) => ({ href: `/studies/${l.studySlug}`, label: l.studyTitle })),
         ],
         speakableSchema: true,
         speakableCssSelector: ['h1', 'h2', 'p'],
@@ -5579,6 +5585,9 @@ export function getMetaForPath(pathname) {
       const relatedArticles = allArticles
         .filter(a => a.drummerId === drummer.id || (a.relatedDrummers || []).includes(drummer.id) || a.relatedDrummerSlug === slug)
         .slice(0, 3);
+      // Issue #5131: study-citation backlinks (getDrummerStudyLinks), same gap
+      // #5011 fixed for brands — was client-side only via #4766.
+      const studyLinks = getDrummerStudyLinks(slug);
       // Issue #4611: prefer the full FAQ authored in extendedBios.js (often 8+
       // questions) over the generic 3-question template — this is the block
       // Googlebot/GSC/Perplexity actually crawl for /drummer/:slug.
@@ -5649,10 +5658,15 @@ export function getMetaForPath(pathname) {
         image: `${BASE_URL}/api/card/${slug}?format=twitter`,
         type: 'profile',
         url: `${BASE_URL}/drummer/${slug}`,
-        ssrLinks: relatedArticles.length > 0 ? relatedArticles.map(a => ({
-          href: `/articles/${a.slug}`,
-          label: a.title,
-        })) : null,
+        ssrLinks: [
+          ...(relatedArticles.length > 0 ? relatedArticles.map(a => ({
+            href: `/articles/${a.slug}`,
+            label: a.title,
+          })) : []),
+          // Issue #5011: study-citation backlinks (getDrummerStudyLinks) rendered
+          // client-side only via #4766 but were never added to SSR ssrLinks.
+          ...studyLinks.map((l) => ({ href: `/studies/${l.studySlug}`, label: l.studyTitle })),
+        ],
         quickFacts,
         quickFactsName: drummer.name,
         speakableSchema: true,

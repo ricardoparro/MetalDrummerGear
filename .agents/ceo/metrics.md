@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-29 07:52 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-29 09:03 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,22 +8,22 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 174 |
-| Sessions | 205 |
-| Page views | 447 |
-| Engagement rate | 59.51% |
-| Avg session (s) | 206 |
+| Active users | 176 |
+| Sessions | 208 |
+| Page views | 461 |
+| Engagement rate | 64.90% |
+| Avg session (s) | 156 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
 | / | 42 | 13 |
 | /drummers | 27 | 4 |
-| /cymbals/setups/daniel-erlandsson | 13 | 2 |
-| /drummer/joey-jordison | 13 | 4 |
+| /cymbals/setups/daniel-erlandsson | 14 | 2 |
+| /drummer/joey-jordison | 14 | 5 |
 | /drummer/pete-sandoval | 13 | 1 |
 | /drummers/igor-cavalera/evolution | 12 | 3 |
-| /drummer/daniel-erlandsson | 10 | 2 |
+| /drummer/daniel-erlandsson | 11 | 2 |
 | /articles/arise-drum-setup | 9 | 7 |
 | /drummer/jaska-raatikainen/bio | 8 | 1 |
 | /drummers/pete-sandoval/evolution | 8 | 1 |
@@ -31,24 +31,24 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 173 | 146 |
-| Direct | 25 | 23 |
-| Unassigned | 21 | 20 |
-| Organic Social | 3 | 1 |
+| Organic Search | 175 | 148 |
+| Direct | 26 | 24 |
+| Unassigned | 9 | 9 |
+| Organic Social | 4 | 1 |
 | AI Assistant | 1 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 76 | 65 |
+| United States | 77 | 66 |
 | Brazil | 12 | 11 |
 | Canada | 11 | 9 |
 | Finland | 10 | 3 |
+| Germany | 9 | 9 |
 | United Kingdom | 9 | 6 |
-| Germany | 8 | 8 |
 | Australia | 6 | 6 |
 | France | 6 | 5 |
-| Hungary | 5 | 3 |
+| Hungary | 6 | 3 |
 | Indonesia | 5 | 5 |
 
 ## Search Console — Search performance

@@ -7,6 +7,11 @@
  * songs get a real /songs/<slug> page, so this file set can never drift
  * ahead of what's actually live.
  *
+ * Issue #5134: also generates public/llms/songs/fastest-metal-songs.md — a
+ * mirror of the flagship /songs/fastest-metal-songs list page (a reserved
+ * slug per SONGS_RESERVED_SLUGS in App.js, so it's deliberately excluded from
+ * getSongPageSlugs()/the per-song loop above and needs its own file).
+ *
  * Data source: packages/frontend/data/metalSongsBpm.js (single source of
  * truth). Unlike the regex+eval sibling generate-llms-*.cjs scripts, this
  * module has real logic (imports + gate functions), not a plain object
@@ -20,6 +25,7 @@ const { pathToFileURL } = require('url');
 
 const BASE = 'https://metalforge.io';
 const DATA_PATH = path.join(__dirname, '../packages/frontend/data/metalSongsBpm.js');
+const FASTEST_SLUG = 'fastest-metal-songs';
 
 function titleCaseSlug(slug) {
   if (!slug) return '';
@@ -104,9 +110,60 @@ function buildMarkdown(song, today) {
   return parts.join('\n');
 }
 
+// Mirrors the /songs/fastest-metal-songs flagship list page (api/meta/[...path].js,
+// path === '/songs/fastest-metal-songs') — same songs, same FAQ answer text,
+// no new facts. Drummer names use titleCaseSlug rather than the roster
+// drummerSlugToName lookup, same as buildMarkdown above, since this script
+// has no roster dependency.
+function buildFastestSongsMarkdown(songs, songPageSlugs, minBpm, today) {
+  const top = songs[0];
+  const parts = [];
+
+  parts.push('# Fastest Metal Songs, Ranked by BPM | MetalForge');
+  parts.push('');
+  parts.push(`> Per-list AI citation reference: verified BPM ranking of the fastest metal songs`);
+  parts.push(`> in MetalForge's database (${minBpm}+ BPM). Optimised for queries like 'fastest metal song',`);
+  parts.push(`> 'fastest metal songs by bpm'.`);
+  parts.push('');
+
+  parts.push('## Ranking');
+  parts.push('');
+  songs.forEach((s, i) => {
+    const drummerName = titleCaseSlug(s.drummer);
+    const songLabel = songPageSlugs.has(s.slug) ? `[${s.song}](${BASE}/songs/${s.slug})` : s.song;
+    parts.push(`${i + 1}. ${songLabel} — ${s.band} (${s.bpm} BPM, drummer: ${drummerName})`);
+  });
+  parts.push('');
+
+  parts.push('## FAQ');
+  parts.push('');
+  parts.push('**Q: What is the fastest metal song?**');
+  parts.push(top
+    ? `A: The fastest metal song in MetalForge's database is "${top.song}" by ${top.band} at ${top.bpm} BPM, drummed by ${titleCaseSlug(top.drummer)}. Source: ${top.source}. Note that BPM figures in this database aren't audio-metronome-measured for every entry — see each song's source for its specific verification method, and double-time passages can make a track feel considerably faster than its listed BPM.`
+    : 'A: Not available.');
+  parts.push('');
+
+  if (top) {
+    parts.push('## Source');
+    parts.push('');
+    parts.push(top.source);
+    parts.push('');
+  }
+
+  parts.push('---');
+  parts.push('');
+  parts.push(`**Full ranking page:** [Fastest Metal Songs on MetalForge](${BASE}/songs/${FASTEST_SLUG})`);
+  parts.push('');
+  parts.push(`**More resources:** [Metal Songs Database](${BASE}/songs) · [Site index](${BASE}/llms.txt)`);
+  parts.push('');
+  parts.push(`*Last updated: ${today} · Source: [MetalForge.io](${BASE})*`);
+
+  return parts.join('\n');
+}
+
 async function main() {
   const mod = await import(pathToFileURL(DATA_PATH).href);
-  const { getSongPageSlugs, getSongPageData } = mod;
+  const { getSongPageSlugs, getSongPageData, getFastestMetalSongs, FASTEST_SONGS_MIN_BPM } = mod;
 
   const today = new Date().toISOString().split('T')[0];
   const outDir = path.join(__dirname, '../public/llms/songs');
@@ -115,12 +172,15 @@ async function main() {
   const slugs = getSongPageSlugs();
 
   // Remove stale per-song files for slugs that no longer clear the gate so
-  // coverage can never silently drift ahead of what's actually live.
+  // coverage can never silently drift ahead of what's actually live. The
+  // reserved flagship slug isn't part of the per-song gate, so it's kept out
+  // of this cleanup explicitly.
   const currentSlugs = new Set(slugs);
   if (fs.existsSync(outDir)) {
     for (const file of fs.readdirSync(outDir)) {
       if (!file.endsWith('.md')) continue;
       const slug = file.slice(0, -3);
+      if (slug === FASTEST_SLUG) continue;
       if (!currentSlugs.has(slug)) fs.unlinkSync(path.join(outDir, file));
     }
   }
@@ -134,7 +194,12 @@ async function main() {
     written++;
   }
 
-  console.log(`Wrote ${written} files to ${outDir} (${slugs.length} qualifying songs from the gate)`);
+  const fastestSongs = getFastestMetalSongs(FASTEST_SONGS_MIN_BPM);
+  const fastestMd = buildFastestSongsMarkdown(fastestSongs, currentSlugs, FASTEST_SONGS_MIN_BPM, today);
+  fs.writeFileSync(path.join(outDir, `${FASTEST_SLUG}.md`), fastestMd);
+  written++;
+
+  console.log(`Wrote ${written} files to ${outDir} (${slugs.length} qualifying songs from the gate + 1 flagship list)`);
 }
 
 main().catch((e) => { console.error(`FATAL: ${e.stack || e.message}`); process.exit(1); });

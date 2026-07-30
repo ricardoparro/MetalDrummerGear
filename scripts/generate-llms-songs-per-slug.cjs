@@ -104,9 +104,59 @@ function buildMarkdown(song, today) {
   return parts.join('\n');
 }
 
+// Issue #5134: 'fastest-metal-songs' is a reserved slug (SONGS_RESERVED_SLUGS
+// in App.js) — the flagship ranked-list page, not an individual song — so it
+// never appears in getSongPageSlugs() and the per-song loop above always
+// skips it. Mirror it separately from the same getFastestMetalSongs() data
+// that powers the live /songs/fastest-metal-songs page, reusing its FAQ
+// answer verbatim so the citable fact matches what's actually live.
+const FASTEST_SONGS_SLUG = 'fastest-metal-songs';
+
+function buildFastestSongsMarkdown(songs, minBpm, today) {
+  const top = songs[0];
+  const parts = [];
+
+  parts.push('# Fastest Metal Songs, Ranked by BPM | MetalForge');
+  parts.push('');
+  parts.push(`> Per-list AI citation reference: verified BPM ranking of the fastest metal songs`);
+  parts.push(`> in MetalForge's database (${minBpm}+ BPM). Optimised for queries like 'fastest metal song',`);
+  parts.push(`> 'fastest metal songs by bpm'.`);
+  parts.push('');
+
+  parts.push('## Ranking');
+  parts.push('');
+  songs.forEach((s, i) => {
+    parts.push(`${i + 1}. ${s.song} — ${s.band} (${s.bpm} BPM, drummer: ${titleCaseSlug(s.drummer)})`);
+  });
+  parts.push('');
+
+  parts.push('## FAQ');
+  parts.push('');
+  parts.push('**Q: What is the fastest metal song?**');
+  parts.push(top
+    ? `A: The fastest metal song in MetalForge's database is "${top.song}" by ${top.band} at ${top.bpm} BPM, drummed by ${titleCaseSlug(top.drummer)}. Source: ${top.source}. Note that BPM figures in this database aren't audio-metronome-measured for every entry — see each song's source for its specific verification method, and double-time passages can make a track feel considerably faster than its listed BPM.`
+    : `A: No songs currently clear the ${minBpm} BPM bar in MetalForge's database.`);
+  parts.push('');
+
+  parts.push('## Source');
+  parts.push('');
+  parts.push(top ? top.source : '');
+  parts.push('');
+
+  parts.push('---');
+  parts.push('');
+  parts.push(`**Full ranking page:** [Fastest Metal Songs on MetalForge](${BASE}/songs/${FASTEST_SONGS_SLUG})`);
+  parts.push('');
+  parts.push(`**More resources:** [Metal Songs Database](${BASE}/songs) · [Site index](${BASE}/llms.txt)`);
+  parts.push('');
+  parts.push(`*Last updated: ${today} · Source: [MetalForge.io](${BASE})*`);
+
+  return parts.join('\n');
+}
+
 async function main() {
   const mod = await import(pathToFileURL(DATA_PATH).href);
-  const { getSongPageSlugs, getSongPageData } = mod;
+  const { getSongPageSlugs, getSongPageData, getFastestMetalSongs, FASTEST_SONGS_MIN_BPM } = mod;
 
   const today = new Date().toISOString().split('T')[0];
   const outDir = path.join(__dirname, '../public/llms/songs');
@@ -115,8 +165,11 @@ async function main() {
   const slugs = getSongPageSlugs();
 
   // Remove stale per-song files for slugs that no longer clear the gate so
-  // coverage can never silently drift ahead of what's actually live.
+  // coverage can never silently drift ahead of what's actually live. The
+  // flagship reserved-slug mirror below is exempt (it never comes from
+  // getSongPageSlugs()) so it survives this pass.
   const currentSlugs = new Set(slugs);
+  currentSlugs.add(FASTEST_SONGS_SLUG);
   if (fs.existsSync(outDir)) {
     for (const file of fs.readdirSync(outDir)) {
       if (!file.endsWith('.md')) continue;
@@ -125,7 +178,13 @@ async function main() {
     }
   }
 
-  let written = 0;
+  const fastestSongs = getFastestMetalSongs(FASTEST_SONGS_MIN_BPM);
+  fs.writeFileSync(
+    path.join(outDir, `${FASTEST_SONGS_SLUG}.md`),
+    buildFastestSongsMarkdown(fastestSongs, FASTEST_SONGS_MIN_BPM, today)
+  );
+
+  let written = 1;
   for (const slug of slugs) {
     const song = getSongPageData(slug);
     if (!song) continue;

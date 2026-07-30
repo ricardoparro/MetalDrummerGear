@@ -50,4 +50,4 @@ GetSongBPM: 216 BPM (corrected from a prior 225 estimate)
 
 **More resources:** [Metal Songs Database](https://metalforge.io/songs) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-30 · Source: [MetalForge.io](https://metalforge.io)*

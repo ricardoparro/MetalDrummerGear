@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-30 07:45 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-30 09:00 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -10,31 +10,31 @@
 | --- | --- |
 | Active users | 168 |
 | Sessions | 203 |
-| Page views | 418 |
-| Engagement rate | 55.17% |
-| Avg session (s) | 185 |
+| Page views | 433 |
+| Engagement rate | 65.02% |
+| Avg session (s) | 129 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
+| / | 27 | 12 |
 | /drummers | 26 | 3 |
-| / | 25 | 12 |
 | /cymbals/setups/daniel-erlandsson | 17 | 2 |
 | /drummer/daniel-erlandsson | 16 | 2 |
-| /drummer/joey-jordison | 14 | 5 |
+| /drummer/joey-jordison | 15 | 5 |
 | /drummers/igor-cavalera/evolution | 14 | 4 |
 | /drummer/igor-cavalera | 9 | 5 |
+| /pedals/setups/joey-jordison | 9 | 1 |
 | /articles/arise-drum-setup | 8 | 6 |
 | /drummer/jaska-raatikainen/bio | 8 | 1 |
-| /cymbals/alloys | 7 | 1 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 168 | 139 |
-| Unassigned | 31 | 28 |
-| Direct | 27 | 25 |
+| Organic Search | 169 | 140 |
+| Direct | 28 | 26 |
 | Organic Social | 5 | 1 |
+| Unassigned | 5 | 5 |
 | AI Assistant | 1 | 1 |
 
 ### Top countries (sessions, last 7d)
@@ -54,38 +54,38 @@
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 6,507 |
-| Clicks | 140 |
-| CTR | 2.15% |
-| Avg position | 11.4 |
+| Impressions | 5,497 |
+| Clicks | 121 |
+| CTR | 2.20% |
+| Avg position | 11.2 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| shannon larkin drum kit | 4 | 2 | 50.00% | 3.3 |
 | arin ilejay drum set | 3 | 1 | 33.33% | 3.3 |
 | ben koller drum setup | 5 | 1 | 20.00% | 7.0 |
-| brann dailor drum kit | 17 | 1 | 5.88% | 5.9 |
-| danny carey drum set | 38 | 1 | 2.63% | 10.1 |
-| drum set joey jordison | 5 | 1 | 20.00% | 11.4 |
+| brann dailor drum kit | 14 | 1 | 7.14% | 5.8 |
+| danny carey drum set | 29 | 1 | 3.45% | 9.5 |
 | fastest double bass | 3 | 1 | 33.33% | 9.3 |
 | igen | 1 | 1 | 100.00% | 1.0 |
 | inferno drum kit | 2 | 1 | 50.00% | 6.0 |
 | jay weinberg drum set | 3 | 1 | 33.33% | 15.7 |
+| john otto drum set | 6 | 1 | 16.67% | 8.0 |
+| john otto drumset | 4 | 1 | 25.00% | 5.5 |
 
 ### Top countries (impressions, last 7d)
 | Country | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| usa | 2,103 | 47 | 2.23% | 11.0 |
-| can | 261 | 8 | 3.07% | 9.5 |
-| deu | 205 | 8 | 3.90% | 9.0 |
-| gbr | 481 | 7 | 1.46% | 15.1 |
-| idn | 172 | 6 | 3.49% | 13.1 |
-| bra | 148 | 5 | 3.38% | 7.9 |
-| hun | 35 | 5 | 14.29% | 5.6 |
-| esp | 102 | 4 | 3.92% | 10.5 |
-| fra | 103 | 4 | 3.88% | 9.3 |
-| per | 34 | 4 | 11.76% | 8.0 |
+| usa | 1,772 | 40 | 2.26% | 10.8 |
+| can | 234 | 7 | 2.99% | 9.8 |
+| idn | 145 | 6 | 4.14% | 11.8 |
+| bra | 124 | 5 | 4.03% | 7.9 |
+| deu | 172 | 5 | 2.91% | 9.2 |
+| gbr | 410 | 5 | 1.22% | 15.4 |
+| hun | 31 | 5 | 16.13% | 5.5 |
+| esp | 90 | 4 | 4.44% | 10.4 |
+| per | 30 | 4 | 13.33% | 8.0 |
+| aus | 225 | 3 | 1.33% | 8.4 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 _no significant gaps detected — all queries with traction have decent CTR_

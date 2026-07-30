@@ -3804,7 +3804,13 @@ export function getMetaForPath(pathname) {
                 ? truncate(extBio.sections.overview.content.replace(/\n+/g, ' '), 500)
                 : undefined,
               url: `${BASE_URL}/drummer/${slug}`,
-              image: `${BASE_URL}/api/card/${slug}?format=twitter`,
+              image: extBio?.imageAlt
+                ? {
+                    '@type': 'ImageObject',
+                    url: `${BASE_URL}/api/card/${slug}?format=twitter`,
+                    caption: extBio.imageAlt,
+                  }
+                : `${BASE_URL}/api/card/${slug}?format=twitter`,
               ...(birthdayEntry?.birthDate ? { birthDate: birthdayEntry.birthDate } : {}),
               ...(birthdayEntry?.deathDate ? { deathDate: birthdayEntry.deathDate } : {}),
               ...(drummer.band ? {
@@ -5712,7 +5718,13 @@ export function getMetaForPath(pathname) {
                 ? truncate(extBio.sections.overview.content.replace(/\n+/g, ' '), 500)
                 : undefined,
               url: `${BASE_URL}/drummer/${slug}`,
-              image: `${BASE_URL}/api/card/${slug}?format=twitter`,
+              image: extBio?.imageAlt
+                ? {
+                    '@type': 'ImageObject',
+                    url: `${BASE_URL}/api/card/${slug}?format=twitter`,
+                    caption: extBio.imageAlt,
+                  }
+                : `${BASE_URL}/api/card/${slug}?format=twitter`,
               ...(birthdayEntry?.birthDate ? { birthDate: birthdayEntry.birthDate } : {}),
               ...(birthdayEntry?.deathDate ? { deathDate: birthdayEntry.deathDate } : {}),
               ...(drummer.band ? { memberOf: { '@type': 'MusicGroup', name: drummer.band } } : {}),

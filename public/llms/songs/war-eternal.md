@@ -50,4 +50,4 @@ SongBPM/Tunebat: 152-155 BPM
 
 **More resources:** [Metal Songs Database](https://metalforge.io/songs) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-30 · Source: [MetalForge.io](https://metalforge.io)*

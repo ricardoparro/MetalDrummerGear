@@ -104,9 +104,63 @@ function buildMarkdown(song, today) {
   return parts.join('\n');
 }
 
+/**
+ * Issue #5134: markdown mirror for the /songs/fastest-metal-songs flagship
+ * page. That slug is reserved (SONGS_RESERVED_SLUGS in App.js) so it's a
+ * ranked list, not an individual song, and never comes out of
+ * getSongPageSlugs()/getSongPageData() above — it needs its own builder
+ * sourced from getFastestMetalSongs(), mirroring the ranking table and FAQ
+ * answer already live in api/meta/[...path].js for this route.
+ */
+function buildFastestSongsMarkdown(songs, minBpm, today) {
+  const top = songs[0];
+  const parts = [];
+
+  parts.push('# Fastest Metal Songs, Ranked by BPM | MetalForge');
+  parts.push('');
+  parts.push(`> Per-list AI citation reference: verified BPM ranking of the fastest metal songs`);
+  parts.push(`> in MetalForge's database (${minBpm}+ BPM). Optimised for queries like 'fastest metal song',`);
+  parts.push(`> 'fastest metal songs by bpm'.`);
+  parts.push('');
+
+  parts.push('## Ranking');
+  parts.push('');
+  songs.forEach((s, i) => {
+    parts.push(`${i + 1}. ${s.song} — ${s.band} (${s.bpm} BPM, drummer: ${titleCaseSlug(s.drummer)})`);
+  });
+  parts.push('');
+
+  parts.push('## FAQ');
+  parts.push('');
+  parts.push('**Q: What is the fastest metal song?**');
+  parts.push(top
+    ? `A: The fastest metal song in MetalForge's database is "${top.song}" by ${top.band} at ${top.bpm} BPM, drummed by ${titleCaseSlug(top.drummer)}. Source: ${top.source}. Note that BPM figures in this database aren't audio-metronome-measured for every entry — see each song's source for its specific verification method, and double-time passages can make a track feel considerably faster than its listed BPM.`
+    : 'A: No songs currently clear the fastest-songs BPM threshold.');
+  parts.push('');
+
+  if (top) {
+    parts.push('## Source');
+    parts.push('');
+    parts.push(top.source);
+    parts.push('');
+  }
+
+  parts.push('---');
+  parts.push('');
+  parts.push(`**Full ranked page:** [Fastest Metal Songs on MetalForge](${BASE}/songs/fastest-metal-songs)`);
+  parts.push('');
+  parts.push(`**More resources:** [Metal Songs Database](${BASE}/songs) · [Site index](${BASE}/llms.txt)`);
+  parts.push('');
+  parts.push(`*Last updated: ${today} · Source: [MetalForge.io](${BASE})*`);
+
+  return parts.join('\n');
+}
+
+const FASTEST_SONGS_SLUG = 'fastest-metal-songs';
+
 async function main() {
   const mod = await import(pathToFileURL(DATA_PATH).href);
-  const { getSongPageSlugs, getSongPageData } = mod;
+  const { getSongPageSlugs, getSongPageData, getFastestMetalSongs, FASTEST_SONGS_MIN_BPM } = mod;
 
   const today = new Date().toISOString().split('T')[0];
   const outDir = path.join(__dirname, '../public/llms/songs');
@@ -115,12 +169,15 @@ async function main() {
   const slugs = getSongPageSlugs();
 
   // Remove stale per-song files for slugs that no longer clear the gate so
-  // coverage can never silently drift ahead of what's actually live.
+  // coverage can never silently drift ahead of what's actually live. The
+  // reserved fastest-metal-songs slug is written separately below, so it's
+  // exempted from this per-song cleanup pass.
   const currentSlugs = new Set(slugs);
   if (fs.existsSync(outDir)) {
     for (const file of fs.readdirSync(outDir)) {
       if (!file.endsWith('.md')) continue;
       const slug = file.slice(0, -3);
+      if (slug === FASTEST_SONGS_SLUG) continue;
       if (!currentSlugs.has(slug)) fs.unlinkSync(path.join(outDir, file));
     }
   }
@@ -134,7 +191,12 @@ async function main() {
     written++;
   }
 
-  console.log(`Wrote ${written} files to ${outDir} (${slugs.length} qualifying songs from the gate)`);
+  const fastestSongs = getFastestMetalSongs();
+  const fastestMd = buildFastestSongsMarkdown(fastestSongs, FASTEST_SONGS_MIN_BPM, today);
+  fs.writeFileSync(path.join(outDir, `${FASTEST_SONGS_SLUG}.md`), fastestMd);
+  written++;
+
+  console.log(`Wrote ${written} files to ${outDir} (${slugs.length} qualifying songs from the gate + 1 flagship ranking)`);
 }
 
 main().catch((e) => { console.error(`FATAL: ${e.stack || e.message}`); process.exit(1); });

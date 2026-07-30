@@ -639,6 +639,20 @@ export function getMetaForPath(pathname) {
       // from the site-wide sweep (#4831-#4849).
       speakableSchema: true,
       speakableCssSelector: ['h1', 'h2', 'p'],
+      // Issue #5135: FAQPage — homepage was the one major page-type branch with
+      // zero FAQPage schema, leaving the bare-brand "metalforge" L2 query
+      // uncited while the two sibling "metalforge * database" queries (which
+      // DO have a dedicated FAQPage "what is X" pair) both convert.
+      faqSchema: [
+        {
+          question: 'What is MetalForge?',
+          answer: `MetalForge is a database of professional metal drummers and their gear setups — drum kits, cymbals, hardware, and sticks — covering ${drummers.length} documented drummers across metal's major subgenres.`,
+        },
+        {
+          question: 'What can I find on MetalForge?',
+          answer: 'Complete gear breakdowns for metal drummers (drums, cymbals, sticks, hardware), technique guides, song BPM data, and data-driven studies on gear and tempo trends across the genre.',
+        },
+      ],
     };
   }
 

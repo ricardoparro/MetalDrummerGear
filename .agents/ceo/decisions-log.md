@@ -6,6 +6,34 @@
 
 ---
 
+## 2026-07-30 12:37 — Deep run: 1 fresh proposal promoted (SSR Person schema image caption, L2), L1 big-losses confirmed noise (no code suspect), backlog still 0-eligible under freeze
+
+### Context (≤3 lines)
+Metrics 12:37 UTC (174 users/211 sessions/453 views 7d; GSC 6,507 impr/140 clicks/2.15% CTR/pos 11.4, no content-gap rows). No log entry since 07-29 00:33 (36h gap — consistent with cheap-pulse holds going unlogged per the anti-noise rule, nothing changed until now). Eligible `ai-fix` backlog **0** at run start (20 open `ai-fix` still `hold`-labeled under the #5114 freeze, unchanged); 1 fresh untriaged `seo-proposal` (#5142, filed 07:56 UTC).
+
+### Actions taken
+- **Promoted #5142** (`ai-fix`): SSR bot-facing Person schema (`api/meta/[...path].js`, both drummer-profile branches ~L3807/~L5715) emits a bare `image` URL string with no caption, even though `extendedBios.js` has hand-authored `imageAlt` for 25/72 drummers. Verified live: grepped both branches, confirmed bare-string pattern at both sites; confirmed `imageAlt` count (25) via the issue's own node one-liner. Correctly scoped as distinct from #1174/#4632 (those fixed `App.js` client-side JSON-LD only — invisible to non-executing crawler bots). No duplicate found. Freeze-compliant: schema enrichment on existing URLs, directly serves L2 (LLM citation surface), zero new pages.
+- **L1 (GSC watch, `.agents/seo/gsc-watch-snapshot.md`, generated 07-27, still the latest — next refresh ~08-03):** 3 big-losses (danny carey drum kit/drum set, mike mangini drum set) + 2 CTR-gaps (danny carey kit, bill ward drum kit), all already reviewed once in the 07-28 12:40 run. Re-checked for a code suspect this run per the established `learned-patterns.md` rule (mechanical big-loss without a suspect = noise, don't file): `git log --since="21 days ago"` on mike-mangini/danny-carey/bill-ward touches nothing but unrelated batch files (llms regen, video sitemap) — no page-level change in the window. All 5 rows are low-volume (8-35 impr) exactly like the prior confirmed-noise cases (Shannon Larkin, Portnoy/Wallgren oscillation). **No issue filed** — logging as confirmed noise, not escalating evidence.
+- **L3 (indexation, generated 07-27):** unchanged from 07-28's review (81.2% indexed share, 1 `crawled-not-indexed` on `/drummers`, 36 URLs still canonicalizing to `/drummer/navene-koperweis`). That duplicate cluster already has a closed fix (#4621, 07-14) — same self-heal-pending pattern as the meta-shell saga's jay-weinberg cluster; not re-opening without a fresh regression signal.
+- **L2 (#2211):** 43/100 cited, still above the 25-floor that forces ≥2 pattern issues/week — no forced filing.
+- **Studies-epic/backlink-authority (freeze's named top priority):** confirmed **#5141** ("Backlink outreach for the 4 shipped /studies pages") already filed as `human-founder` this morning (07:00 UTC) — covers exactly the open question the 07-28 run flagged (new `/studies/<topic>` page arguably counts as new-page surface, needs a founder call, not a rushed one). No duplicate needed.
+- Founder ideas: inbox empty, unchanged since 2026-06-19. GSC content-gap: none.
+
+### State delta
+- ai-fix backlog: 0 → 1 eligible (#5142)
+- Org/Sessions/Views (7d): 174/211/453 (up from 07-29's 167/197/403) · GSC: 6,507 impr / 140 clicks / 2.15% CTR / pos 11.4 (impressions up, CTR/position softer — within normal WoW range, no content-gap rows)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 1/1 fresh triaged and promoted, verified, no duplicate, freeze-compliant. ✅ GSC-gap: none. ✅ L1/L2/L3 close-the-loop: all 3 reviewed; L1 losses confirmed noise (no suspect), L3 duplicate cluster already has a closed fix awaiting recrawl, L2 above floor. ✅ Starvation: backlog 0→1, still critically thin, but this is the 2nd deep run at this level since the freeze (07-28, now 07-30) — not yet the 3-consecutive-run bar for founder escalation, and new-surface response stays excluded per the freeze. Watching whether the depth-only backlog structurally can't stay above ~2-3 items given SEO Agent's reduced 2x/day cadence. ✅ Atomic split: none eligible (#5142 is fresh). ✅ Decisions logged.
+
+### Next Run
+1. Watch #5142 ship, then confirm caption appears on `/drummer/lars-ulrich` bot-UA curl per the issue's own verify steps.
+2. If backlog is still ≤2 at the next deep run (~07-31 07:00 UTC) with SEO Agent again producing ≤1 proposal, that's 3 consecutive thin runs — worth a step-1 (prompt/quota) meta-issue per the starvation playbook, not new-page surface.
+3. #5141 (studies backlink outreach) and #5100 (L2 recovery items) are live founder asks — no re-spam.
+4. #875/#529/#526/#525/#4892 unchanged — no re-spam.
+
+---
+
 ## 2026-07-29 00:33 (state-confirm — anti-noise hold)
 - Backlog: 0 ai-fix eligible (20 open ai-fix all `hold`-labeled under the freeze — unchanged from the 12:40 deep run) · 0 PRs open · proposals untriaged: 0 (only 3 standing L1/L2/L3 umbrellas #2211/#3810/#3819)
 - Org/Sessions/Views (7d): 167/197/403 · GSC 5,269/136/2.58%/pos 11.0 — no content-gap rows, WoW dip reads as normal rolling-window noise, not a fresh regression

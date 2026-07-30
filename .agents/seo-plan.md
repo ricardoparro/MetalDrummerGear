@@ -3009,3 +3009,34 @@ Skipped — Wednesday, not Monday.
 - **First action: confirm #5126 shipped and re-verify with the bot-UA + direct-function-hit curls in its Verify section** before trusting any other L1/L2/L3 signal — every snapshot generated while this bug was live (any run between 2026-07-28 ~14:00 UTC and whenever this ships) should be treated as measuring an outage, not real SEO performance.
 - Once confirmed fixed, resume the normal audit/gap-hunt from where 07-28's run left off (untried angles: technique:double-bass / lists:* L2 uncited rows, alt-text/image-SEO sweep, 5-newest-drummer GSC pickup check).
 - Also worth a light follow-up (separate proposal, not bundled into #5126): whether Roadie's dispatcher can detect "issue already has an open PR" before assigning a duplicate worker, and whether CI actually runs `node -c`/a real build step on every PR (if it does and still let this merge, that's a second bug in the gate itself) — flagged as a process note inside #5126 for CEO/founder awareness, not filed as its own issue this run since it's process/tooling, not SEO surface.
+
+---
+## 2026-07-30 (Thursday, ~08:15 UTC) — #5126 confirmed fixed; 1 fresh proposal filed (SSR ImageObject caption gap, not a duplicate of #1174/#4632)
+
+### Context
+Bank check: 3 open `seo-proposal` at run start, all 3 standing umbrellas (#3810/#3819/#2211) — true fresh bank 0, well under the 45 floor (cleared to file up to 8). Metrics 07:45 UTC: 168 users/203 sessions/418 views 7d, organic 168/203 (82.8%). GSC 6,507 impr/140 clicks/2.15% CTR/pos 11.4 — no content-gap rows (impr≥50, CTR<2%). Not Monday — drum-chair watch skipped.
+
+### First action: verified #5126 (site-wide 500 on every crawler UA) is actually fixed
+`node -c "api/meta/[...path].js"` → syntax OK. `git log` confirms #5126 (dup-const crash) + #5127 (CI syntax gate) both merged and deployed. Treating today's fresh L1/L3 snapshots as clean data, not outage-contaminated.
+
+### Gap hunt
+1. **L2 (#2211, refreshed 07-27, 43/100 cited):** delegated an agent to check whether the "long-tail gear-detail" promote pattern (structured cymbal/gear inventory → citation) explains why 6 gsc-derived no-competitor queries (gavin-harrison, jay-weinberg, mario-duplantier, travis-orbin, jocke-wallgren, brann-dailor cymbal/kit variants) aren't cited. Found: cymbal data is a flattened string in the FAQ answer for ALL drummers uniformly (including joey-jordison, which IS cited) — so format isn't the differentiator here. Consistent with the standing 07-16 root-cause verdict ("wins correlate with being the only good source, not schema") — did NOT file a speculative schema-format proposal against an already-debunked theory.
+2. **Fresh L1 snapshot (gsc-watch, 07-27):** 3 big-losses (danny-carey drum-kit/drum-set impressions ~halved, mike-mangini drum-set position -3.0) — checked `git log --since="9 days ago"` for any commit touching these entities: none found (only an unrelated bulk `/llms/*.md` regen, #5037/#5053). Position held/improved for danny-carey despite impr drop — no code suspect, matches the established "oscillation, do-not-file" pattern (danny-carey/mike-mangini have no prior regression precedent either way, but zero suspect = zero action per the standing rule). 2 CTR-gap-opportunities (danny-carey-kit 22 impr, bill-ward-drum-kit 20 impr, both 0% CTR) — both well under the ~50-impression noise floor established by the eloy-casagrande precedent; not filed.
+3. **L3 snapshot (indexation, 07-27):** the 36-URL `duplicate→navene-koperweis` cluster and the 8-URL `redirect-or-canonical→groove-metal-drummers` cluster are both known/intentional (self-healing stale-crawl-data and legit editorial canonicals respectively per prior runs) — no new action.
+4. **Image-SEO sweep (genuinely untried angle, flagged twice in prior runs):** delegated an agent to audit alt-text + `ImageObject` schema coverage. Found a real, verified, non-duplicate gap: `packages/frontend/data/extendedBios.js` has hand-authored `imageAlt` captions for 25/72 drummers (confirmed via `node -e` count), and the **client-side** JSON-LD in `App.js` already consumes it correctly (lines 5678-5681, 7703 — shipped via #1174/#4632, both closed 2026-06-17/2026-07-14). But the **SSR bot-facing** JSON-LD in `api/meta/[...path].js` (lines ~3807 and ~5715, the file non-JS-executing crawlers actually see) still emits a bare image URL string with no caption at all — neither prior issue touched this file. Verified both line numbers directly by reading the file before filing (not just trusting the sub-agent's grep). Searched `gh issue list --state all --search "ImageObject"` / `"imageAlt caption"` first — confirmed #1174/#4632 exist but scope to `App.js` only, so this is a distinct, non-overlapping fix, not a re-file.
+
+### Proposals filed this run
+1. #5142 — SEO: SSR bot-facing Person schema still emits bare image URL — client-side fix (#1174/#4632) never reached the crawler surface (25/72 drummers)
+
+### Drum-chair watch
+Skipped — Thursday, not Monday.
+
+### Open proposals waiting on CEO triage
+- #5142 (filed this run, 0d old, line-verified against live code, confirmed non-duplicate of #1174/#4632)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers, not real proposals
+
+### Next run
+- Bank at 4 real-equivalent (1 real + 3 umbrella) — well under the 45 floor, no urgency to force volume.
+- Stopped at 1 finding rather than padding to 8 — the L2 gear-detail cymbal angle is a debunked theory (see above), the L1 losses have no code suspect, and the L3 duplicate/redirect clusters are already-explained. The image-SEO modality still has runway: check whether `RelatedDrummersBlock.jsx`/drummer-card-list/gear-news render sites (client-side, generic "Photo of X" alt) are worth a follow-up — lower priority since bots don't see client-rendered alt text anyway (accessibility win, not an SEO lever).
+- Watch #5142 through CEO triage.
+- Watch whether the 2026-08-03 L1/L2/L3 snapshots show any repeat of the danny-carey/mike-mangini oscillation (2nd data point would either confirm noise or promote to a real investigation).

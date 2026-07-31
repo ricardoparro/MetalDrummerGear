@@ -1742,6 +1742,13 @@ export function getMetaForPath(pathname) {
             question: `Who is the best ${technique.title.toLowerCase()} drummer?`,
             answer: bestAnswer,
           },
+          // Issue #5149: L2 gap on "types of blast beats" — the module already
+          // has a named variations list for every technique; surface it as its
+          // own FAQ question instead of only the generic 3-question template.
+          ...(technique.variations?.length ? [{
+            question: `What are the different types of ${technique.title.toLowerCase()}s?`,
+            answer: `${technique.title} has ${technique.variations.length} main variations: ${technique.variations.map(v => `${v.name} (${v.description})`).join('; ')}.`,
+          }] : []),
         ],
         ssrLinks: [
           { href: '/techniques', label: 'All Techniques' },

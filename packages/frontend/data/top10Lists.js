@@ -44,6 +44,20 @@ export const TOP_10_LISTS = {
       7: { rank: 9, highlight: 'Brazilian death/thrash fusion', reason: 'Sepultura\'s intense and technical approach' },
       25: { rank: 10, highlight: 'Modern technical death', reason: 'Trivium\'s death metal influences shine through' },
     },
+    faq: [
+      {
+        question: 'Who is the best death metal drummer?',
+        answer: 'George Kollias of Nile is the most widely cited answer for the greatest death metal drummer of all time, holding documented blast beat records exceeding 280 BPM — the fastest verified speeds in death metal history. Gene Hoglan is the alternative consensus pick for technical versatility and sustained influence across Death, Dark Angel, and Testament. Pete Sandoval is the historical answer — as the inventor of the death metal double bass template on Morbid Angel\'s "Altars of Madness," no other drummer contributed more foundationally to the genre\'s entire rhythmic vocabulary.'
+      },
+      {
+        question: 'What makes death metal drumming different from other extreme metal?',
+        answer: 'Death metal drumming is defined by punishing blast beats, complex rhythmic patterns, and brutal precision. Where thrash metal rewards groove-driven aggression and black metal rewards atmospheric ferocity, death metal drummers build their reputations on sustaining technical, high-speed patterns with surgical accuracy across full songs and live sets, rather than short bursts.'
+      },
+      {
+        question: 'How fast do death metal drummers play?',
+        answer: 'Death metal drummers typically operate in the 180–280 BPM range for blast beat passages, with sustained double bass at 180–240 BPM being the most common range for professional death metal recording. George Kollias holds the highest verified speed records at 280+ BPM for blast beats. For comparison, thrash metal typically operates at 160–200 BPM, and regular rock drumming rarely exceeds 140 BPM.'
+      }
+    ],
   },
   'most-innovative-drummers': {
     slug: 'most-innovative-drummers',
@@ -84,6 +98,20 @@ export const TOP_10_LISTS = {
       26: { rank: 9, highlight: 'Godsmack\'s power', reason: 'Groove-thrash crossover appeal' },
       23: { rank: 10, highlight: 'Avenged Sevenfold precision', reason: 'Modern thrash with melodic elements' },
     },
+    faq: [
+      {
+        question: 'Who are the best thrash metal drummers?',
+        answer: 'Dave Lombardo, Lars Ulrich, and Charlie Benante are the three drummers most frequently cited as thrash metal\'s greatest. Dave Lombardo\'s work with Slayer on "Reign in Blood" (1986) is the single most influential thrash metal drum performance in the genre\'s history, combining Latin-influenced double bass fury with clinical precision. Lars Ulrich co-founded Metallica and brought thrash drumming to stadiums and arenas worldwide, making him the genre\'s most commercially significant drummer. Charlie Benante defined East Coast thrash through Anthrax\'s foundational albums, incorporating syncopated, punk-influenced patterns that gave the band a distinct rhythmic identity.'
+      },
+      {
+        question: 'What defines thrash metal drumming?',
+        answer: 'Thrash metal drumming is defined by relentless double bass and punishing beats delivered with fast, aggressive intensity — typically in the 160–220 BPM range. It\'s faster and more aggressive than traditional heavy metal, but built around riff-driven grooves rather than the pure sustained speed focus of death metal, which is what gives thrash its distinct combination of velocity and musicality.'
+      },
+      {
+        question: 'What\'s the difference between this list and the Best Thrash Metal Drummers ranking?',
+        answer: 'This list ranks ten thrash metal drummers by their assigned positions without long-form editorial analysis, while our Best Thrash Metal Drummers ranking is an in-depth, article-length breakdown of the genre\'s greatest drummers with detailed reasoning, technique history, and era-by-era context for each placement. Both draw from the same pool of legendary thrash drummers — including Dave Lombardo, Lars Ulrich, and Charlie Benante — but the Best Thrash Metal Drummers page provides the deeper dive for readers who want the full story behind each ranking.'
+      }
+    ],
   },
   'drummers-with-budget-friendly-kits': {
     slug: 'drummers-with-budget-friendly-kits',

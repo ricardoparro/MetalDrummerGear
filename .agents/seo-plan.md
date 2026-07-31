@@ -3040,3 +3040,41 @@ Skipped — Thursday, not Monday.
 - Stopped at 1 finding rather than padding to 8 — the L2 gear-detail cymbal angle is a debunked theory (see above), the L1 losses have no code suspect, and the L3 duplicate/redirect clusters are already-explained. The image-SEO modality still has runway: check whether `RelatedDrummersBlock.jsx`/drummer-card-list/gear-news render sites (client-side, generic "Photo of X" alt) are worth a follow-up — lower priority since bots don't see client-rendered alt text anyway (accessibility win, not an SEO lever).
 - Watch #5142 through CEO triage.
 - Watch whether the 2026-08-03 L1/L2/L3 snapshots show any repeat of the danny-carey/mike-mangini oscillation (2nd data point would either confirm noise or promote to a real investigation).
+
+---
+## 2026-07-31 (Friday, ~run) — 4 fresh proposals filed, incl. a CRITICAL data-accuracy bug: real drummers' biographies misattributed to other named musicians on 3 live pages
+
+### Context
+Bank check: 3 open `seo-proposal` at run start, all 3 standing umbrellas (#3810/#3819/#2211) — true fresh bank 0, well under the 45 floor (cleared to file up to 8). Metrics 07:57 UTC: 174 users/208 sessions/456 views 7d, organic 166/208 (79.8%). GSC 6,530 impr/131 clicks/2.01% CTR/pos 11.5 — no content-gap rows (impr≥50, CTR<2%). Not Monday — drum-chair watch skipped.
+
+### Audit summary
+- robots.txt: ✅ 8/8 AI crawlers explicitly allowed (direct curl)
+- llms.txt / llms-full.txt: both 200
+- Sitemap: 3,180 URLs; `SITE_LASTMOD = '2026-07-25'` (6 days stale, not yet at the ~30-day threshold that triggered #5112 — not filed)
+
+### Gap hunt — followed up on 2 angles flagged as untried in the 07-28/07-30 entries
+1. **L2 uncited technique/lists queries** (never checked this specific slice of #2211's table): delegated an agent to check `types of blast beats`, `what is a gravity blast`, `best death metal drummer`, `thrash metal drummers ranked`, `blast beat technique metal drummers` against their live target pages. `gravity-blast` and the how-to blast-beat query were already optimal (no action, avoided false positives). Found 2 real gaps: (a) `/lists/death-metal-drummers` + `/lists/thrash-metal-drummers` (plain slugs) have **zero** `faq` field despite sibling `best-*` article pages already having a rich, exact-match FAQ for the same tracked queries; (b) technique pages' FAQ template never answers "what are the types of X" despite every technique already carrying a `variations` array with the data to answer it.
+2. **5 newest roster drummers' GSC/L2 pickup** (flagged untried in 07-30's entry): delegated an agent to check indexation + citation-tracking status for Jimmy DeGrasso/Nick Barker/Alex Rüdinger/John Longstreth/Waltteri Väyrynen (#4926-4930). Pages/sitemap/llms mirrors all healthy — but confirmed they were never added to `.agents/llm-citation-targets.json`'s query set, so L2 progress for these 5 is currently unmeasurable.
+3. **Adjacent finding, escalated to top priority:** the agent investigating (1) flagged a data-integrity anomaly in `top10Lists.js` while reading the sibling `best-*` pages (drummer names not matching their own bios). Verified directly (not just trusted the agent) via `node --input-type=module` cross-referencing every `rankings` key in `best-death-metal-drummers`, `best-thrash-metal-drummers`, and `most-innovative-metal-drummers` (all 3 created same-day via #2945) against `api/drummers/index.js`'s real id→name map. **Confirmed 9 real mismatches** — e.g. the ID that resolves to "Bill Ward" carries Derek Roddy's full biography, "Shannon Larkin"'s ID carries Scott Travis's ("Painkiller"/Judas Priest) biography, "Igor Cavalera"'s ID carries Richard Christy's (Death) biography, and so on across all 3 lists. This is a live, verified violation of binding rule #2 (drummer attribution must be verified) — false, specific biographical claims attributed to real, named musicians on public pages, exactly the kind of clean "fact" an LLM citation could pick up and repeat. Filed as `SEO CRITICAL` + `priority`, top of the queue.
+
+### Proposals filed this run
+1. **#5147** — SEO CRITICAL: 9 drummer-ID/bio mismatches across 3 top10Lists.js articles (verified exact re-key fix for all 9, no fabrication — every "correct" ID already exists in the drummer registry)
+2. **#5148** — SEO: `/lists/death-metal-drummers` + `/lists/thrash-metal-drummers` missing FAQ (sibling `best-*` pages already have it)
+3. **#5149** — SEO: Technique pages missing a "types of X" FAQ question (~29 pages, generator-level fix, `variations` data already exists)
+4. **#5150** — SEO: Add 5 newest roster drummers to `llm-citation-targets.json` (currently un-tracked for L2 measurement)
+
+Searched open+closed issues for all 4 before filing (`drummer ID mismatch`, `best-death-metal-drummers`, `death-metal-drummers thrash-metal-drummers FAQ`, `types of blast beats`, `llm-citation-targets`) — no duplicates. #2945 (closed) is the origin issue for the 3 mismatched lists but never flagged the bug itself.
+
+### Drum-chair watch
+Skipped — Friday, not Monday.
+
+### Open proposals waiting on CEO triage
+- #5147 (CRITICAL, filed this run, 0d old — flag for immediate promotion, data-accuracy bug on live pages)
+- #5148, #5149, #5150 (filed this run, 0d old, all verified against live code/data, no fabrication)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers, not real proposals
+
+### Next run
+- Watch #5147 ship first — highest severity finding on record this week, a factual-accuracy bug, not just an SEO gap.
+- Given the ID-mismatch bug was found in 3/12 `isArticle:true` top10Lists.js entries via one targeted spot-check, the other 9 `isArticle:true` entries (lines 113, 140, 322, 1395, 1487, 1579, 2183, 3003, 3095) have **not** been swept for the same bug class — worth a dedicated pass next run using the same id→name cross-reference script (`node --input-type=module` snippet in #5147) rather than assuming it's isolated to the 3 checked here.
+- Watch #5148-#5150 through CEO triage.
+- #875/#529/#526/#525/#4892/#5100/#5141 human-founder blockers unchanged — no re-spam.

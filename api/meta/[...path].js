@@ -620,21 +620,6 @@ export function getMetaForPath(pathname) {
           logo: { '@type': 'ImageObject', url: `${BASE_URL}/logo.png` },
         },
       ]),
-      // Issue #5135: FAQPage — the homepage bot-shell was the one major
-      // hub page with zero FAQPage schema; reuses only facts stated
-      // elsewhere (drummer count, gear/technique/BPM coverage) to answer
-      // the bare-brand "metalforge" query, mirroring the format already
-      // proven to win citations on the sibling "metalforge * database" queries.
-      faqSchema: [
-        {
-          question: 'What is MetalForge?',
-          answer: `MetalForge is a database of professional metal drummers and their gear setups — drum kits, cymbals, hardware, and sticks — covering ${drummers.length} documented drummers across metal's major subgenres.`,
-        },
-        {
-          question: 'What can I find on MetalForge?',
-          answer: 'Complete gear breakdowns for metal drummers (drums, cymbals, sticks, hardware), technique guides, song BPM data, and data-driven studies on gear and tempo trends across the genre.',
-        },
-      ],
       // Issue #4863: SpeakableSpecification — last hub/utility page missing it
       // from the site-wide sweep (#4831-#4849).
       speakableSchema: true,

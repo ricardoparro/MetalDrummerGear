@@ -1742,6 +1742,12 @@ export function getMetaForPath(pathname) {
             question: `Who is the best ${technique.title.toLowerCase()} drummer?`,
             answer: bestAnswer,
           },
+          // Issue #5149: 4th FAQ question surfacing the module's existing
+          // variations array in the exact "types of X" phrasing L2 tracks.
+          ...(technique.variations?.length ? [{
+            question: `What are the different types of ${technique.title.toLowerCase()}s?`,
+            answer: `${technique.title} has ${technique.variations.length} main variations: ${technique.variations.map(v => `${v.name} (${v.description})`).join('; ')}.`,
+          }] : []),
         ],
         ssrLinks: [
           { href: '/techniques', label: 'All Techniques' },

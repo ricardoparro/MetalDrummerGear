@@ -3078,3 +3078,43 @@ Skipped — Friday, not Monday.
 - Given the ID-mismatch bug was found in 3/12 `isArticle:true` top10Lists.js entries via one targeted spot-check, the other 9 `isArticle:true` entries (lines 113, 140, 322, 1395, 1487, 1579, 2183, 3003, 3095) have **not** been swept for the same bug class — worth a dedicated pass next run using the same id→name cross-reference script (`node --input-type=module` snippet in #5147) rather than assuming it's isolated to the 3 checked here.
 - Watch #5148-#5150 through CEO triage.
 - #875/#529/#526/#525/#4892/#5100/#5141 human-founder blockers unchanged — no re-spam.
+
+---
+## 2026-07-31 (Friday, ~13:32 UTC run) — Closed the loop on this morning's sweep TODO: 0 proposals filed, clean confirmation the ID-mismatch bug is isolated to the 3 lists already in #5147
+
+### Context
+Bank check: 7 open `seo-proposal` at run start (4 real: #5147-5150, filed this morning's ~08:0x UTC run, + 3 standing umbrellas #3810/#3819/#2211) — well under the 45 floor, cleared to file up to 8. Metrics 13:32 UTC: 183 users/219 sessions/471 views 7d, organic 179/219 (81.7%). GSC 6,530 impr/131 clicks/2.01% CTR/pos 11.5 — no content-gap rows (impr≥50, CTR<2%). Not Monday — drum-chair watch skipped.
+
+### Audit summary
+- robots.txt: ✅ 8/8 AI crawlers explicitly allowed (direct curl)
+- llms.txt / llms-full.txt: both 200
+- Sitemap: 3,180 URLs; `SITE_LASTMOD = '2026-07-25'` (6 days stale, not yet at the ~30-day threshold that triggered #5112 — not filed)
+
+### Follow-up: swept the 9 not-yet-checked `isArticle:true` top10Lists.js entries for the #5147 bug class
+This morning's run found 9 drummer-ID/bio mismatches in 3 of 12 `isArticle:true` list pages and flagged the other 9 as unswept. Ran the cross-reference directly (not delegated) against all 9: `most-expensive-drum-setups`, `fastest-double-bass-drummers`, `most-brutal-drum-solos`, `best-alternative-metal-drummers`, `best-post-hardcore-metal-drummers`, `best-classic-heavy-metal-drummers`, `best-live-metal-drummers`, `drummers-known-for-live-improvisation`, `longest-active-tenure-metal-drummers`.
+- First tried the same heuristic #5147's own verify script uses ("entry text contains the ID-resolved drummer's own last name") — this produced 11 false positives (e.g. `most-expensive-drum-setups` entries are pure gear-spec strings that never restate the drummer's name; `fastest-double-bass-drummers`' George Kollias/Derek Roddy entries correctly describe them via technique references, not name repetition). Discarded this heuristic as too noisy for gear-list-style entries.
+- Switched to a cross-mention check: does any entry's prose contain a *different* same-list drummer's last name (the actual signature of the #5147 bug — drummer A's ID paired with drummer B's bio). Ran this across all 12 `isArticle:true` lists as a full-file sanity check, not just the 9 new ones: it correctly re-flagged the exact 2 cross-mentions inside the 2 lists #5147 already covers (`best-thrash-metal-drummers` entry 27/Raymond Herrera mentioning Dave Lombardo/Vinnie Paul — legitimate contextual mentions in Bostaph's own bio, not a mismatch; `most-innovative-metal-drummers` entry 24/Navene Koperweis mentioning Morgan Ågren — this IS the real #5147 bug, already filed) and produced **zero hits in any of the 9 previously-unswept lists**.
+- **Conclusion: the ID/bio-mismatch bug is confirmed isolated to the 3 lists already in #5147 (all same-day #2945 authoring), not systemic across the other 9.** No new issue filed — a clean sweep is the correct, useful outcome here (closes the open question from this morning rather than leaving it dangling).
+
+### Other angles checked, nothing fileable
+- Re-confirmed #5147 (ID-mismatch, CRITICAL) already has the `ai-fix`+`priority` labels from CEO triage; no PR opened yet — watching, not re-flagging.
+- Metrics' top queries this week are all low-volume (≤32 impr each) with no content-gap rows — no CTR-fix lever available.
+- Did not re-attempt the `gsc-derived` cluster's uncited L2 queries (joey-jordison/mike-mangini/mario-duplantier/etc. gear variants) — already checked in the 07-30 12:37 run and matches the standing 07-16 root-cause verdict in `learned-patterns.md` ("L2 wins correlate with being the only good source, not schema"); re-testing the same debunked theory this run would be padding, not signal.
+
+### Proposals filed this run
+None — audit-only. The sweep above is the run's real contribution (closes an open TODO with a clean, verified negative result).
+
+### Drum-chair watch
+Skipped — Friday, not Monday.
+
+### Open proposals waiting on CEO triage
+- #5147 (CRITICAL, `ai-fix`+`priority` already applied, no PR yet)
+- #5148, #5149, #5150 (still `seo-proposal` only, awaiting CEO triage)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers, not real proposals
+
+### Next run
+- Watch #5147 through to a merged PR and re-verify the 3 pages live (bot-UA curl) once shipped.
+- Watch #5148-#5150 through CEO triage.
+- The `isArticle:true` sweep TODO is now closed — no dangling follow-up from it.
+- If the bank stays this thin next run, the honest next angle is a citable-fact play (drum-chair history depth, per the freeze's Rule 3), not another schema-format pass on gsc-derived queries — that lever is confirmed exhausted.
+- #875/#529/#526/#525/#4892/#5100/#5141 human-founder blockers unchanged — no re-spam.

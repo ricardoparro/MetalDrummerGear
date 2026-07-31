@@ -850,7 +850,7 @@ The modern death metal drumming era reached its apex with George Kollias of Nile
         'George Kollias holds the most documented death metal speed records at 280+ BPM'
       ]
     },
-    drummerIds: [6, 3, 21, 28, 51, 30, 4, 19, 29, 56],
+    drummerIds: [6, 3, 21, 35, 51, 44, 4, 19, 49, 56],
     rankings: {
       6: {
         rank: 1,
@@ -867,7 +867,7 @@ The modern death metal drumming era reached its apex with George Kollias of Nile
         highlight: 'The founding father — no Pete Sandoval, no death metal drumming',
         reason: 'Pete Sandoval\'s contribution to death metal drumming is foundational in the most literal sense: before his work on Morbid Angel\'s "Altars of Madness" in 1989, sustained extreme double bass at death metal tempos did not exist as an established or teachable technique. Sandoval developed his approach in near-isolation — early Morbid Angel rehearsal recordings document his double bass speed increasing from session to session as he practiced a technique with no precedent. He had never played double bass before joining the band, which makes his invention of the death metal double bass template even more remarkable. His peak work on "Covenant" and "Domination" represents death metal drumming at its most extreme and sustained — tempos that stood at the outer limit of physical capability for a decade after their release.'
       },
-      28: {
+      35: {
         rank: 4,
         highlight: 'Gravity blast pioneer — "None So Vile" changed extreme technique forever',
         reason: 'Flo Mounier of Cryptopsy introduced a genuinely new technique to death metal drumming on "None So Vile" in 1996: the gravity blast, which uses the rebound of the stick for one-handed blast beats, generating sustained extreme speeds without the same energy expenditure as conventional single-stroke blasts. This innovation spread throughout technical death metal\'s drumming vocabulary over the following decade and is now taught in extreme drumming instructional programs globally. His ability to maintain brutal death metal\'s most extreme intensity without electronic triggers gives his performances an organic violence that sets a standard for acoustic extreme drumming. The sustained speeds on "None So Vile" — recorded without triggers or heavy sample replacement — remain among death metal\'s most remarkable drumming documents more than 25 years after release.'
@@ -877,7 +877,7 @@ The modern death metal drumming era reached its apex with George Kollias of Nile
         highlight: 'Death metal\'s most enduring standard — 35+ years, 15 albums, zero compromises',
         reason: 'Paul Mazurkiewicz has sustained Cannibal Corpse\'s brutal death metal standard across more than three decades without a single lineup change — a consistency record unmatched in extreme metal. As co-founding drummer of the best-selling death metal band in history, his relentless blast beats and precise double bass patterns have defined brutal death metal\'s rhythmic standard across 15 studio albums recorded between 1990 and 2023. His approach prioritizes sustained power and consistency over speed records or technical innovation, which in brutal death metal\'s context represents its own form of mastery: the ability to maintain extreme physical standards night after night on 200+ show tours for 35 consecutive years. His precision at 200+ BPM over full concert sets, combined with his compositional consistency across albums that span multiple decades, makes him death metal\'s most reliable extreme standards bearer.'
       },
-      30: {
+      44: {
         rank: 6,
         highlight: '"One Take" — recording entire death metal albums without punch-ins',
         reason: 'Derek Roddy built his reputation in the death metal drumming community on a single remarkable achievement: recording entire extreme metal albums in single takes without punch-ins or editing. This claim, verified by producers and engineers on Hate Eternal and Nile sessions, represents a level of sustained extreme drumming discipline that very few practitioners can match. His swivel technique, which rotates the ankle to alternate pedal strokes rather than the standard heel-toe approach, enabled him to document 260+ BPM speeds through a different biomechanical pathway than most competitors. His "Evolution of Blast Beats" instructional DVD became a foundational text for extreme drumming education, and his work with Hate Eternal on "King of All Kings" remains one of technical death metal\'s most demanding recorded performances.'
@@ -892,7 +892,7 @@ The modern death metal drumming era reached its apex with George Kollias of Nile
         highlight: 'Blackened death metal\'s precision engine — Behemoth\'s mechanical standard',
         reason: 'Inferno has driven Behemoth\'s evolution from raw black metal to sophisticated blackened death metal with a precision that few extreme metal drummers match. His custom Czarcie Kopyto (Devil\'s Hoof) double pedals, manufactured in Poland specifically for extreme metal applications, deliver the precise heel-up technique response that his mechanical blast beat consistency requires. His work on "Demigod," "The Apostasy," and "The Satanist" represents blackened death metal drumming at its most orchestral and precise — sustaining blast beat consistency through complex compositional structures while maintaining the atmospheric ferocity that distinguishes Behemoth from purely technical death metal bands. His ability to maintain extreme performance standards through Behemoth\'s notoriously intense live sets is a physiological achievement that underpins the band\'s global touring reputation.'
       },
-      29: {
+      49: {
         rank: 9,
         highlight: 'Death\'s final chapter — the technical apex of Chuck Schuldiner\'s vision',
         reason: 'Richard Christy\'s drumming on Death\'s "The Sound of Perseverance" (1998) represents the technical and compositional apex of Chuck Schuldiner\'s final musical vision. The album is widely considered the most demanding recording in Death\'s catalog, and Christy\'s performance — navigating Schuldiner\'s complex odd-time compositions with precision and power simultaneously — is studied by technical death metal drummers as a benchmark of what the genre\'s drumming can achieve at its highest ambition. His ability to bring jazz-influenced technical sophistication to extreme death metal contexts, demonstrated further on Control Denied\'s "The Fragile Art of Existence," places him in the select category of death metal drummers who expanded the genre\'s compositional language rather than simply executing its established vocabulary at extreme speeds.'
@@ -956,7 +956,7 @@ A notable absence from this list is Nick Menza of Megadeth. Menza's drumming on 
         'Gene Hoglan elevated technical thrash beyond what most believed physically possible'
       ]
     },
-    drummerIds: [4, 1, 12, 3, 25, 11, 27, 23, 26, 7],
+    drummerIds: [4, 1, 12, 3, 29, 11, 63, 27, 42, 7],
     rankings: {
       4: {
         rank: 1,
@@ -978,7 +978,7 @@ A notable absence from this list is Nick Menza of Megadeth. Menza's drumming on 
         highlight: 'The Atomic Clock of technical thrash — Dark Angel and Testament',
         reason: 'Gene Hoglan earned the "Atomic Clock" nickname through his work with Dark Angel and Testament, bringing metronomic precision to thrash metal at speeds that seemed impossible in the mid-1980s. His performance on Dark Angel\'s "Darkness Descends" (1986) set a new technical ceiling for thrash drumming — faster than almost any contemporary and executed with a precision that made complex patterns sound effortless. His subsequent work with Testament across multiple albums demonstrated that technical thrash drumming could sustain high standards across long careers, not just landmark debut performances. His crossover into death metal with Death and other projects demonstrates how his technical thrash foundation enabled him to excel in the genre that thrash directly spawned.'
       },
-      25: {
+      29: {
         rank: 5,
         highlight: 'Brazilian thrash fury — Sepultura\'s global extreme metal ambassador',
         reason: 'Igor Cavalera powered Sepultura\'s ascent from a Brazilian death-thrash act to one of the most globally significant metal bands of the late 1980s and early 1990s. His performances on "Beneath the Remains" and "Arise" represent South American thrash at its most extreme and technically sophisticated, bringing an intensity and rawness to thrash drumming that complemented the genre\'s American and German variants with a distinct cultural energy. His tribal percussion experiments on "Chaos A.D." and "Roots" demonstrated that thrash drummers could evolve beyond the genre\'s established vocabulary while retaining its core aggression — a evolution that influenced the entire heavy music community\'s approach to incorporating non-Western percussion elements.'
@@ -988,17 +988,17 @@ A notable absence from this list is Nick Menza of Megadeth. Menza's drumming on 
         highlight: 'Cowboys from Hell — the groove-thrash founding thunder',
         reason: 'Vinnie Paul\'s drumming on Pantera\'s transition from glam metal to groove-thrash on "Cowboys from Hell" created one of the genre\'s most distinctive rhythmic voices. His half-time heaviness, thunderous kick drum tone, and ability to create pit-moving grooves within thrash\'s aggressive tempo range gave Pantera a unique rhythmic identity that influenced every heavy band of the 1990s. His drum sound — massive, punchy, and perfectly balanced between power and precision — became a production benchmark for the decade\'s heavy music. Albums like "Vulgar Display of Power" and "Far Beyond Driven" feature some of the most physically imposing grooves in thrash-adjacent heavy metal, demonstrating how Pantera expanded the genre\'s rhythmic vocabulary beyond its founding template.'
       },
-      27: {
+      63: {
         rank: 7,
         highlight: 'Slayer\'s second era — maintaining the standard after Lombardo',
         reason: 'Paul Bostaph faced one of heavy metal\'s most daunting challenges: replacing Dave Lombardo in Slayer and maintaining a standard that the metal community considered irreplaceable. His work on "Divine Intervention," "Undisputed Attitude," "Diabolus in Musica," and "Christ Illusion" demonstrated that Slayer\'s thrash drumming standard could survive a lineup change when the replacement was truly exceptional. His technically precise approach brought a different character to Slayer than Lombardo\'s Latin-influenced groove — more mechanically exact, less instinctive — but equally effective in context. His Grammy-nominated work on "Christ Illusion" with the song "Eyes of the Insane" earned institutional recognition for his contribution to one of thrash metal\'s most celebrated late-career records.'
       },
-      23: {
+      27: {
         rank: 8,
         highlight: 'Industrial-thrash precision — Fear Factory\'s mechanical template',
         reason: 'Raymond Herrera co-created Fear Factory\'s industrial-thrash hybrid on "Soul of a New Machine," "Demanufacture," and "Obsolete" — albums that fused thrash metal\'s speed and aggression with industrial music\'s mechanical precision and electronic textures. His approach brought a new dimension to thrash drumming: the "machine" quality of his perfectly timed blast beats and alternating patterns made the drum performance feel programmed even when entirely human. His work on "Demanufacture" is studied by thrash drummers interested in how the genre\'s rhythmic vocabulary can be adapted to modern production contexts while retaining its core aggression. Fear Factory\'s influence on groove-industrial metal demonstrates how Herrera expanded thrash\'s rhythmic toolkit into territory the founding Big Four bands never explored.'
       },
-      26: {
+      42: {
         rank: 9,
         highlight: 'Painkiller precision — Judas Priest\'s thrash-influenced drumming icon',
         reason: 'Scott Travis arrived at Judas Priest in 1989 and immediately recorded "Painkiller" (1990) — one of the most speed and aggression-focused albums in the band\'s catalog and a clear response to thrash metal\'s rise. His drumming on the title track "Painkiller" is among the most studied performances in heavy metal drumming, demonstrating blast beat-adjacent speeds and double bass intensity that bridged NWOBHM\'s technical tradition with thrash\'s extreme velocity. While primarily a heavy metal drummer rather than a thrash metal specialist, his influence on the thrash community is substantial: "Painkiller" is cited by virtually every thrash drummer of the 1990s as a key reference, and Travis\'s ability to bring thrash-level intensity to a classic heavy metal context demonstrates his exceptional range and adaptability.'
@@ -1225,7 +1225,7 @@ This list covers metal drumming's full innovation spectrum — from the blast be
         'Danny Carey\'s sacred geometry application created a new framework for polyrhythmic metal'
       ]
     },
-    drummerIds: [14, 5, 16, 3, 13, 15, 28, 24, 6, 18],
+    drummerIds: [14, 5, 16, 3, 13, 15, 35, 28, 6, 18],
     rankings: {
       14: {
         rank: 1,
@@ -1257,12 +1257,12 @@ This list covers metal drumming's full innovation spectrum — from the blast be
         highlight: 'Organic metal evolution — Gojira\'s groove-death hybrid innovation',
         reason: 'Mario Duplantier co-created Gojira\'s unique metal identity, which balances death metal\'s extreme aggression with groove-based rhythmic intelligence that few extreme metal bands have managed. His innovation is the application of funk and groove principles to death metal\'s extreme tempo context — creating music that is brutally heavy but also locks into pocket playing in ways that make even extreme tempos feel physically compelling rather than purely speed-oriented. His drum parts on "From Mars to Sirius," "The Way of All Flesh," and "Magma" demonstrate creative independence within extreme metal — fills that surprise, grooves that breathe even at extreme tempos, and dynamic control that allows Gojira to operate across a wider sonic range than most death metal bands. His environmental activism and artistic integrity have made Gojira a uniquely serious creative presence in modern extreme metal, and his drumming is central to that identity.'
       },
-      28: {
+      35: {
         rank: 7,
         highlight: 'Gravity blast innovation — the new technique that changed brutal drumming',
         reason: 'Flo Mounier\'s most significant innovation is the gravity blast: a one-handed blast beat technique using stick rebound that generates sustained extreme speeds through a fundamentally different mechanical pathway than conventional single-stroke blast beats. Developed and perfected on Cryptopsy\'s "None So Vile" in 1996, the gravity blast has since spread throughout technical and brutal death metal\'s drumming vocabulary as a recognized technique taught in extreme drumming education globally. This is genuine innovation in the purest sense — a new physical technique that expanded what was mechanically possible at extreme tempos — not just a marginal speed improvement on existing methods. Mounier\'s ability to maintain brutal death metal speeds without electronic triggers, relying instead on acoustic sound and technique innovation, gives his recordings a physical authenticity that influenced a generation of extreme drummers who followed him.'
       },
-      24: {
+      28: {
         rank: 8,
         highlight: 'Frank Zappa\'s prodigy — avant-garde jazz-metal fusion beyond any genre boundary',
         reason: 'Morgan Ågren represents metal drumming\'s most complete genre-boundary dissolution. Personally recruited by Frank Zappa at age 17 after Zappa heard his recordings, Ågren has spent his career producing music of extraordinary rhythmic complexity that crosses jazz, avant-garde, and metal in ways that defy conventional categorization. His work with the Mats/Morgan Band and Fredrik Thordendal\'s Special Defects demonstrates a rhythmic intelligence that operates beyond any single genre\'s vocabulary — incorporating odd meters, polyrhythms, and textural experimentation that reflects both jazz\'s harmonic freedom and metal\'s physical intensity. His influence on avant-garde metal drumming has been substantial despite his relative commercial obscurity outside enthusiast circles, demonstrating that the most significant innovations in drumming often happen furthest from the mainstream.'

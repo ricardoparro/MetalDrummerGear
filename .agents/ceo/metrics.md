@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-30 19:34 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-31 00:37 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,85 +8,84 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 186 |
-| Sessions | 224 |
-| Page views | 474 |
-| Engagement rate | 58.93% |
-| Avg session (s) | 154 |
+| Active users | 167 |
+| Sessions | 200 |
+| Page views | 446 |
+| Engagement rate | 56.00% |
+| Avg session (s) | 176 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 32 | 15 |
-| /drummers | 26 | 3 |
-| /cymbals/setups/daniel-erlandsson | 20 | 2 |
-| /drummer/daniel-erlandsson | 20 | 2 |
-| /drummers/igor-cavalera/evolution | 16 | 4 |
+| / | 30 | 14 |
+| /drummers | 27 | 4 |
+| /cymbals/setups/daniel-erlandsson | 22 | 2 |
+| /drummer/daniel-erlandsson | 22 | 2 |
 | /drummer/joey-jordison | 15 | 5 |
-| /drummer/igor-cavalera | 10 | 5 |
+| /drummers/igor-cavalera/evolution | 11 | 3 |
 | /pedals/setups/joey-jordison | 9 | 1 |
-| /articles/arise-drum-setup | 8 | 6 |
-| /drummer/jaska-raatikainen/bio | 8 | 1 |
+| /drummer/igor-cavalera | 8 | 4 |
+| /quiz | 8 | 1 |
+| /cymbals | 7 | 1 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 180 | 151 |
-| Direct | 33 | 30 |
-| Unassigned | 22 | 19 |
-| Organic Social | 7 | 1 |
+| Organic Search | 161 | 137 |
+| Unassigned | 29 | 25 |
+| Direct | 27 | 25 |
+| Organic Social | 8 | 1 |
 | Cross-network | 2 | 2 |
-| AI Assistant | 1 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 84 | 71 |
-| Canada | 12 | 10 |
-| Brazil | 11 | 10 |
-| Finland | 10 | 3 |
-| Germany | 10 | 9 |
-| Hungary | 9 | 3 |
+| United States | 78 | 67 |
+| Canada | 11 | 9 |
+| Hungary | 10 | 3 |
+| Germany | 9 | 8 |
 | United Kingdom | 8 | 6 |
+| Finland | 7 | 3 |
 | Australia | 6 | 6 |
 | France | 6 | 5 |
 | Indonesia | 6 | 6 |
+| Brazil | 4 | 4 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 6,507 |
-| Clicks | 140 |
-| CTR | 2.15% |
-| Avg position | 11.4 |
+| Impressions | 5,482 |
+| Clicks | 110 |
+| CTR | 2.01% |
+| Avg position | 11.5 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| shannon larkin drum kit | 4 | 2 | 50.00% | 3.3 |
-| arin ilejay drum set | 3 | 1 | 33.33% | 3.3 |
+| shannon larkin drum kit | 3 | 2 | 66.67% | 3.0 |
+| arin ilejay drum set | 2 | 1 | 50.00% | 3.0 |
 | ben koller drum setup | 5 | 1 | 20.00% | 7.0 |
-| brann dailor drum kit | 17 | 1 | 5.88% | 5.9 |
-| danny carey drum set | 38 | 1 | 2.63% | 10.1 |
+| danny carey drum set | 31 | 1 | 3.23% | 10.1 |
 | drum set joey jordison | 5 | 1 | 20.00% | 11.4 |
 | fastest double bass | 3 | 1 | 33.33% | 9.3 |
 | igen | 1 | 1 | 100.00% | 1.0 |
 | inferno drum kit | 2 | 1 | 50.00% | 6.0 |
 | jay weinberg drum set | 3 | 1 | 33.33% | 15.7 |
+| john otto drumset | 2 | 1 | 50.00% | 5.0 |
 
 ### Top countries (impressions, last 7d)
 | Country | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| usa | 2,103 | 47 | 2.23% | 11.0 |
-| can | 261 | 8 | 3.07% | 9.5 |
-| deu | 205 | 8 | 3.90% | 9.0 |
-| gbr | 481 | 7 | 1.46% | 15.1 |
-| idn | 172 | 6 | 3.49% | 13.1 |
-| bra | 148 | 5 | 3.38% | 7.9 |
-| hun | 35 | 5 | 14.29% | 5.6 |
-| esp | 102 | 4 | 3.92% | 10.5 |
-| fra | 103 | 4 | 3.88% | 9.3 |
-| per | 34 | 4 | 11.76% | 8.0 |
+| usa | 1,774 | 41 | 2.31% | 11.4 |
+| can | 219 | 7 | 3.20% | 9.3 |
+| gbr | 360 | 6 | 1.67% | 13.8 |
+| idn | 155 | 6 | 3.87% | 13.6 |
+| deu | 172 | 5 | 2.91% | 9.0 |
+| hun | 30 | 5 | 16.67% | 4.8 |
+| bra | 130 | 4 | 3.08% | 7.7 |
+| fra | 92 | 4 | 4.35% | 9.5 |
+| per | 28 | 4 | 14.29% | 8.0 |
+| nld | 69 | 3 | 4.35% | 7.8 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 _no significant gaps detected — all queries with traction have decent CTR_

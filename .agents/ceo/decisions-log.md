@@ -2,7 +2,34 @@
 
 *Record of strategic decisions and reasoning. Hot log: last 7 days. Older entries archived monthly under `.agents/ceo/decisions-history/`.*
 
-*Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-07-27 00:22 UTC*
+*Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-07-31 00:37 UTC*
+
+---
+## 2026-07-31 00:38 — Cheap pulse: 1 fresh proposal promoted (dead-code duplicate-key landmine), #5142 deploy-lag confirmed as expected batching, not a regression
+
+### Context (≤3 lines)
+Metrics 00:37 UTC (167 users/200 sessions/446 views 7d; GSC 5,482 impr/110 clicks/2.01% CTR/pos 11.5, no content-gap rows). Eligible `ai-fix` backlog **0** at run start (20 open `ai-fix` still `hold`-labeled under the #5114 freeze, unchanged). 1 fresh untriaged `seo-proposal` (#5144, filed 19:34 UTC).
+
+### Actions taken
+- **Promoted #5144** (`ai-fix`): homepage bot-shell's `getMetaForPath()` defines `faqSchema` twice in the same object literal (lines 628-637 and 646-655, byte-identical) — dead code today (second key wins, live FAQ output is correct) but a landmine for silent divergence on the next edit. Root cause: #5135 was independently fixed by two Roadie PRs (#5137, #5140) that both merged clean (no line overlap) but left a duplicate key. Verified via direct grep of both blocks; no duplicate issue found; freeze-compliant (cleanup on an existing page, zero new surface).
+- **Verified #5142's ship** (this run's own carry-over item): live bot-UA curl of `/drummer/lars-ulrich` still shows a bare `image` string, not the `ImageObject`+`caption` the merged code (`api/meta/[...path].js:5721-5727`) should produce. Traced this to `deploy-prod.yml` — production deploys are **batched once/day at ~06:50 UTC**, not per-merge (`git.deploymentEnabled.main = false`); #5143 merged 13:54 UTC yesterday, so today's 06:50 UTC run is the first deploy that will actually ship it. Confirmed the batched-deploy cron has run cleanly 5/5 days straight (no stuck queue). **Not a regression** — re-verify after today's ~07:00 UTC deploy, not before.
+- **L1/L2/L3:** snapshots unchanged since 07-27 (confirmed via `git log` on all three files), next refresh ~08-03 — nothing fresh to triage, already closed out in the 07-30 12:37 run.
+- Founder ideas: inbox empty, unchanged since 2026-06-19. GSC content-gap: none. Human-founder blockers #875/#529/#526/#525/#4892/#5100/#5141 — no re-spam.
+
+### State delta
+- ai-fix backlog: 0 → 1 eligible (#5144)
+- Org/Sessions/Views (7d): 167/200/446 (up slightly from 07-30's 174/211/453 rolling window) · GSC: 5,482 impr / 110 clicks / 2.01% CTR / pos 11.5
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 1/1 fresh triaged and promoted, verified, no dupe, freeze-compliant. ✅ GSC-gap: none. ✅ L1/L2/L3: no fresh snapshot, already closed out. ✅ Starvation: backlog 0→1, still critically thin — this is the 3rd deep-adjacent run at this level since the freeze (07-28, 07-30, now); watching for the 3-consecutive-thin-run bar at the next true deep run (~07:00 UTC today) before considering a step-1 (SEO Agent prompt/quota) meta-issue. ✅ Atomic split: all 20 held issues are frozen page-creation work, not stalled — nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Today's deep run (~07:00 UTC): re-verify #5142's caption is live post-deploy; if still bare after the 06:50 UTC batch, that IS a regression worth filing.
+2. If backlog is still ≤2 with SEO Agent again producing ≤1 proposal, that's the 3-consecutive-thin-run bar — file a step-1 prompt/quota meta-issue (new-surface response stays excluded per the freeze).
+3. #5141 (studies backlink outreach) and #5100 (L2 recovery items) are live founder asks — no re-spam.
+4. #875/#529/#526/#525/#4892 unchanged — no re-spam.
+
+---
 
 ---
 
@@ -34,12 +61,16 @@ Metrics 12:37 UTC (174 users/211 sessions/453 views 7d; GSC 6,507 impr/140 click
 
 ---
 
+---
+
 ## 2026-07-29 00:33 (state-confirm — anti-noise hold)
 - Backlog: 0 ai-fix eligible (20 open ai-fix all `hold`-labeled under the freeze — unchanged from the 12:40 deep run) · 0 PRs open · proposals untriaged: 0 (only 3 standing L1/L2/L3 umbrellas #2211/#3810/#3819)
 - Org/Sessions/Views (7d): 167/197/403 · GSC 5,269/136/2.58%/pos 11.0 — no content-gap rows, WoW dip reads as normal rolling-window noise, not a fresh regression
 - Blockers unchanged: #875/#529/#526/#525/#5100 — no re-spam; #4892 stays resolved-watching (Roadie + PR Merger both healthy per recent successful runs). Freeze (CLAUDE.md, #5114) still binding.
 - Actions: none — SEO Agent's 19:28 UTC run (first clean run post-#5113-throttle) shipped 0 fresh proposals; only 1 data point since the 2x/day cadence change, not yet the 3-run pattern the starvation playbook's step 1 requires before filing a prompt-tune meta-issue. L1/L2/L3 snapshots unchanged since 07-27, already closed out in the 12:40 deep run.
 - Next check: tomorrow's deep run (~07:00 UTC) — watch whether that SEO Agent run also yields 0 proposals; if so, that's 2/2 clean runs at 0 and worth a step-1 meta-issue before any founder escalation (new-surface step 2 stays excluded per the freeze).
+
+---
 
 ---
 
@@ -79,12 +110,16 @@ Metrics 12:40 UTC (192 users/228 sessions/448 views 7d; GSC 6,160 impr/164 click
 
 ---
 
+---
+
 ## 2026-07-26 04:11 (state-confirm — anti-noise hold, post-outage recovery)
 - Backlog: 7 ai-fix (6 bands re-split #5043-5048 + #5089 schema batch) · 0 PRs open · proposals untriaged: 0 (only standing umbrellas #2211/#3810/#3819)
 - Org/Sessions/Views (7d): 197/243/436 · GSC 4,809 impr/151 clicks/3.14% CTR/pos 10.6 — no content-gap rows
 - Blockers unchanged: #875/#529/#526/#525/#4892 — no re-spam (github-actions auto-posted #4892's 3rd occurrence update at 00:24, still same 3 options, no new decision needed)
 - Actions: none — recovered from the 21:16→04:11 capacity gap (ceo-agent failed 18:15/21:15, seo-agent failed 18:16/20:18/22:17, both cleared by 00:2x); confirmed via issue checks that snares(#4308)/pedals(#4387)/brands-museum(#4386) epics and the last roster batch (#4748) are all closed — the "proven surface" starvation-playbook options are mined out, and SEO Agent's last 2 runs (00:27, 03:01) filed 0 proposals, explicitly logging "schema sweep exhausted." Backlog still has runway (6/7 items are bands-epic re-split, not schema batches), so holding rather than rushing new-surface sourcing in a cheap pulse.
 - Next check: **07:00 UTC deep run must source genuinely new epic-scale surface** (not another schema micro-fix sweep or hub replication — those are exhausted) — candidates need real research: drummer roster gaps vs competitors, or a decision on the parked i18n-plan.md (unlock condition now met per CLAUDE.md) / L2 recovery items awaiting founder go.
+
+---
 
 ---
 
@@ -122,6 +157,8 @@ Metrics 15:21 UTC (217 users/264 sessions/471 views 7d; GSC 4,782 impr/146 click
 
 ---
 
+---
+
 ## 2026-07-25 12:16 — Cheap pulse: 2 fresh proposals promoted (album-article sameAs + MusicAlbum datePublished)
 
 ### Context (≤3 lines)
@@ -145,6 +182,8 @@ Metrics 12:16 UTC (215 users/260 sessions/470 views 7d; GSC 4,782 impr/146 click
 2. Watch the 9-way bands re-split (#5040-5048) drain fully before #4932 unblocks.
 3. Watch for the 2026-07-27 L1/L2/L3 snapshot refresh.
 4. #875/#529/#526/#525/#4892 human-founder blockers unchanged — no re-spam.
+
+---
 
 ---
 
@@ -187,6 +226,8 @@ Metrics 09:31 UTC (214 users/258 sessions/465 views 7d; GSC 4,782 impr/146 click
 
 ---
 
+---
+
 ## 2026-07-25 00:22 — Cheap pulse: 2 fresh proposals promoted (songs VideoObject duration, studies stale-snapshot regen); flagging #4979-4981 repeated no-commit failures
 
 ### Context (≤3 lines)
@@ -210,6 +251,8 @@ Metrics 00:21 UTC (204 users/247 sessions/441 views 7d; GSC 4,782 impr/146 click
 2. #4932 stays correctly gated until #4979-4981 clear.
 3. Watch for the 2026-07-27 L1/L2/L3 snapshot refresh.
 4. #875/#529/#526/#525/#4892 human-founder blockers unchanged — no re-spam.
+
+---
 
 ---
 
@@ -252,6 +295,8 @@ Metrics 15:28 UTC (210 users/253 sessions/606 views 7d; GSC 5,709 impr/167 click
 
 ---
 
+---
+
 ## 2026-07-24 09:45 — Deep run: 6 fresh proposals promoted (critical singular-path shadow bug + 5 sibling gap-fill batches for the new roster drummers), capacity stall confirmed cleared
 
 ### Context (≤3 lines)
@@ -281,167 +326,6 @@ Metrics 09:45 UTC (200 users/242 sessions/596 views 7d; GSC 4,766 impr/132 click
 5. #875/#529/#526/#525/#4892 human-founder blockers unchanged — no re-spam.
 
 ---
-
----
-
----
-
----
-
----
-
-## 2026-07-23 10:43 — Deep run: capacity stall over, atomic-split 2 stale 7-day issues into 8, 1 verified L3 fix, L1 loss-cluster ruled noise (not filed)
-
-### Context (≤3 lines)
-Metrics 10:43 UTC (206 users/243 sessions/589 views 7d — down from ~430/450/700 in recent runs, but see below; GSC 4,797 impr/122 clicks/2.54% CTR/pos 10.2, no content-gap rows). `ceo-agent.yml`/`seo-agent.yml` runs show **failure** on every run from 2026-07-19 01:32 through 09:46 today (this is the first success) — confirms #4892's predicted backup-token weekly-limit stall (resets 2026-07-23 10:00 UTC) ran the full 4+ days as flagged, explaining the 4-day gap in this log and the lower 7d GA4 numbers (days with near-zero agent activity). Roadie kept shipping throughout (5 PRs merged in the last hour: #4915/4913/4912/4917/4916). Backlog at run start: **2** eligible ai-fix (#4756, #4748 — both 7 days old, zero PR/comment activity despite dozens of newer issues shipping around them). seo-proposal bank: 0 fresh (only 3 standing L1/L2/L3 umbrellas).
-
-### Actions taken
-- **Atomic-split #4748** (5-drummer roster expansion, 7 days stale, no PR) → 5 per-drummer issues (#4926 Jimmy DeGrasso, #4927 Nick Barker, #4928 Waltteri Väyrynen, #4929 Alex Rüdinger, #4930 John Longstreth), each carrying the full sourced-data workflow. Closed #4748 linking splits.
-- **Atomic-split #4756** (bands phase 3/4, ~35 new bands, 7 days stale, no PR) → 2 issues: #4931 (mechanical fill — bands already referenced by roster drummers, no editorial risk) and #4932 (first editorial batch of top-searched bands, explicitly gated to start only after #4931 merges to avoid slug collisions). Closed #4756 linking splits. Both originals were being correctly skipped by the Watcher for being non-atomic (≥4 deliverable bullets each), not blocked by the capacity stall — confirmed by the dozens of newer, smaller issues that shipped around them in the same window.
-- **Filed #4925** (L3, verified): `/tools` hub's bot-facing shell links to nothing (`curl -A Googlebot /tools` → only favicon + self) — missed from #4355's 9-hub `ssrLinks` sweep. Confirms current L3 snapshot's `discovered-not-indexed` classification on `/tools/compare` + `/tools/metal-drummer-name-generator`. Cross-checked `/guides` and `/articles` hubs the same way first — both already link their sampled discovered-not-indexed URLs (mathcore/deathcore guides, 3 sampled orphan articles), so no issue filed there (crawl-budget/patience, not a linking bug — avoided a speculative fix).
-- **L1 (2026-07-20 gsc-watch-snapshot, first review — 07-19 run predates it):** 5 big-losses, 2 CTR-gap opportunities, 7 big-wins. Did **not** file a regression issue for the 4 losing drummer profile pages (mike-portnoy-drum-kit, jocke-wallgren, bill-ward-drum-setup/set, mario-duplantier-drum-kit) — checked `learned-patterns.md` history first and found portnoy-drum-kit + wallgren were both **big wins with no identified cause** in the 07-13 snapshot; this week is a reversion to baseline, not a new regression. All 4 pages already carry fully-optimized title/meta; zero merges touched any of them in 7 days. Logged as a confirmed oscillation pattern instead (2nd data point = do-not-file). CTR-gap rows (danny-carey/mike-mangini "drum kit") already have "kit" in their live titles — not a missing-keyword gap, matches the previously-logged "position problem, not snippet-fixable" verdict; no re-file.
-- **L2:** 2026-07-20 snapshot shows 33/97 cited, crossing back above the 25-count floor that triggered the forced-pressure rule (added 07-14 at 8/84). Logged that the forcing quota is not currently active.
-- **L3 duplicate cluster (25 URLs, all showing stale "canonical → navene-koperweis"):** live-curled 2 sample URLs — both have correct, self-referencing canonicals today. This is stale GSC index data from an already-fixed historical bug, not a live issue. No action; watch it shrink next snapshot.
-- Founder ideas: inbox empty. GSC content-gap: none this run.
-
-### State delta
-- ai-fix backlog: 2 → 8 eligible (net of 2 closes + 8 new: #4925, #4926-4930, #4931-4932)
-- Org/Sessions/Views (7d): 206/243/589 (reflects the multi-day capacity outage, not a real traffic drop) · GSC: 4,797 impr / 122 clicks / 2.54% CTR / pos 10.2
-
-### Quota check
-✅ Founder ideas: inbox empty. ✅ SEO proposals: bank empty of fresh items, nothing to triage. ✅ GSC-gap: none. ✅ L1/L2/L3 close-the-loop: done, 1 issue filed (of ≤3 cap), 2 patterns logged as no-action-warranted with evidence. ✅ Starvation playbook: triggered (backlog was 2, bank 0-fresh) — responded via playbook step 2 (proven-pattern surface: roster expansion + band-hub replication) rather than step 3 escalation, since SEO Agent's low output was explained by the same capacity stall, not a supply problem. ✅ Atomic split: both overdue issues split. ✅ Decisions logged.
-
-### Next Run
-1. Backlog at 8 — still below the 15 floor; watch the in-progress SEO Agent run (started 10:43, same time as this one) for fresh proposals, and don't re-trigger the starvation playbook again this cycle — one response per event.
-2. Confirm #4925 (/tools ssrLinks) ships and next L3 snapshot moves the 2 tools URLs off discovered-not-indexed.
-3. #4931 must merge before #4932 starts (slug-collision gate) — if Roadie's dispatcher doesn't respect issue dependencies (known limitation, per the 2026-06-01 tier-gating precedent), watch for this and hold #4932 manually if needed.
-4. Watch next L1/L3 snapshot (~2026-07-27) to see if the portnoy/wallgren/bill-ward/duplantier oscillation continues (3rd data point would strengthen the do-not-file verdict further).
-5. #875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
-
----
-
----
-
----
-
----
-
----
-
----
-
-## 2026-07-23 11:36 — Cheap pulse: 2 fresh proposals promoted (gear-reference articleBody, gear-news/endorsement-news dateModified+hasPart)
-
-### Context (≤3 lines)
-Metrics 11:36 UTC (206 users/243 sessions/589 views 7d — same capacity-outage-affected week as the 10:43 deep run; GSC 4,797 impr/122 clicks/2.54% CTR/pos 10.2, no content-gap rows). Backlog was 8 eligible ai-fix at run start (0 open PRs, all fresh from the 10:43 deep run's splits). 2 fresh untriaged seo-proposals (#4933/#4934, filed 10:52-10:53 UTC, right after the deep run closed out).
-
-### Actions taken
-- **Promoted #4933** (Article schema on all 16 gear-reference pages — drumsticks/cymbals/snares/pedals pillars+sub-pages — missing `articleBody`, same bug class as #4912 for drummer profiles) — verified prose already exists in `page.sections`/`page.intro`+`howToChoose`, explicitly declines to fabricate date/image fields it doesn't have data for.
-- **Promoted #4934** (`/gear-news` + `/endorsement-news` CollectionPage missing `dateModified`+`hasPart`, following the established `/studies` hub pattern) — verified real `date` fields exist on every entry in both data arrays, flags its own sort-order risk (compute max via reduce, don't assume `[0]`) rather than assuming.
-- Searched open+closed issues for both (`articleBody drumsticks cymbals`, `dateModified gear-news`/`hasPart endorsement-news`) — no duplicates, only the related-but-distinct #4912/#4635/#777.
-- Founder ideas: inbox empty. GSC content-gap: none (metrics.md confirms). Backlog composition check: all 10 eligible ai-fix items are <1h old (from the 10:43 deep run's atomic splits + this pulse) — no atomic-split candidates.
-
-### State delta
-- ai-fix backlog: 8 → 10 eligible (#4933/#4934 promoted)
-- Org/Sessions/Views (7d): 206/243/589 (unchanged since 10:43 — same outage week) · GSC: 4,797 impr / 122 clicks / 2.54% CTR / pos 10.2
-
-### Quota check
-✅ Founder ideas: inbox empty. ✅ SEO proposals: 2/2 fresh triaged and promoted, verified, no duplicates. ✅ GSC-gap: none. ✅ Starvation check: backlog at 10 (<15) but bank replenishing normally post-outage, not forcing playbook step 2 again this soon after the 10:43 trigger/response. ✅ Atomic split: none eligible, all items fresh. ✅ Decisions logged.
-
-### Next Run
-1. Backlog at 10 — still below the 15 floor; watch whether SEO Agent's normal cadence tops it up before re-running starvation playbook.
-2. Confirm #4925 (/tools ssrLinks) ships and next L3 snapshot moves the 2 tools URLs off discovered-not-indexed.
-3. #4931 must merge before #4932 starts (slug-collision gate) — watch for this if Roadie doesn't respect issue dependencies.
-4. #875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
-
----
-
----
-
----
-
----
-
----
-
-## 2026-07-23 12:30 (state-confirm — anti-noise hold)
-- Backlog: 7 ai-fix (all <2h old, none atomic-split eligible) · 0 PRs open · proposals untriaged: 0 (only umbrellas #2211/#3810/#3819)
-- Org/Sessions/Views (7d): 206/243/589 · GSC 4,797/122/2.54%/10.2 — unchanged, no content-gap rows
-- Blockers unchanged: #875/#529/#526/#525 — no re-spam; #4925 shipped (PR #4936), #4926/#4927 shipped, #4931/#4932 gate still intact (neither merged yet)
-- Actions: none — 5 PRs merged since 11:36 (normal fast drainage, not a new starvation event; per 10:43/11:36 guidance, holding on re-triggering the playbook this cycle)
-- Next check: next hourly pulse; re-run starvation playbook only if backlog stays <15 AND bank stays ≤2 past the next SEO Agent cycle
-
----
-
----
-
----
-
----
-
----
-
-## 2026-07-23 15:37 — Mid-day pulse: 3 fresh proposals promoted (HowTo date fields, 2 batches + 1 singleton)
-
-### Context (≤3 lines)
-Metrics 15:37 UTC (207 users/245 sessions/591 views 7d; GSC 5,688 impr/150 clicks/2.64% CTR/pos 10.2, no content-gap rows). Backlog was 5 eligible ai-fix at run start (0 open PRs — all items from the 10:43/11:36 runs already shipped or drained), 3 fresh untriaged seo-proposals (#4946/#4947/#4948, filed 12:37-12:38 UTC).
-
-### Actions taken
-- **Promoted #4946** (HowTo schema on 67 `/guides/how-to-sound-like-<drummer>` pages omits already-authored `datePublished`/`dateModified`) — verified fields exist on all 67 data entries, fix is additive (2 lines), no fabrication.
-- **Promoted #4947** (same bug class, 278 `/guides/best-<gear>-for-<genre>` pages — sibling Article node already emits the dates correctly, only the paired HowTo node omits them) — verified pattern match, no fabrication.
-- **Promoted #4948** (`/compare/zildjian-vs-sabian` Article schema ignores its one authored date pair; correctly scopes out the other 11 undated comparison slugs via conditional spread) — verified only 1/12 gearComparisons entries has real dates, fix respects that.
-- Searched open ai-fix + closed issues for all three (`datePublished dateModified HowTo`, `gearComparisons datePublished`, sound-like guide history) — no duplicates.
-- Confirmed #4933/#4934 (promoted last run) already carry `ai-fix` correctly; stale `seo-proposal` label left on them is cosmetic, not a re-triage miss.
-- Founder ideas: inbox empty (`.agents/ceo/founder-ideas.md` unchanged since 2026-06-19). GSC content-gap: none. #4931/#4932 slug-collision gate still intact (neither merged yet, both open, no premature dispatch). Human-founder blockers #875/#529/#526/#525 unchanged — no re-spam.
-
-### State delta
-- ai-fix backlog: 5 → 8 eligible (#4946/#4947/#4948 promoted), all items <5h old — none atomic-split eligible
-- Org/Sessions/Views (7d): 207/245/591 (recovering post-outage) · GSC: 5,688 impr / 150 clicks / 2.64% CTR / pos 10.2
-
-### Quota check
-✅ Founder ideas: inbox empty. ✅ SEO proposals: 3/3 fresh triaged and promoted, verified, no duplicates. ✅ GSC-gap: none. ✅ Starvation check: backlog 8 (<15), fresh bank now 0 — but this cycle just topped up backlog from active SEO Agent output within the hour, not a stalled fleet; holding per the 12:30 entry's "one response per event" guidance rather than re-triggering the playbook immediately after normal cadence delivered. ✅ Atomic split: none eligible, all fresh. ✅ Decisions logged.
-
-### Next Run
-1. Backlog at 8 — re-run starvation playbook only if it stays <15 AND bank stays ≤2 past the next SEO Agent cycle (per standing guidance).
-2. #4931 must merge before #4932 starts (slug-collision gate) — still unmerged, watch for premature dispatch.
-3. Confirm #4925 (/tools ssrLinks, shipped as PR #4936) reflected in next L3 snapshot (~2026-07-27).
-4. #875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
-
----
-
----
-
----
-
----
-
----
-
-## 2026-07-23 21:23 — Evening review: 14 PRs shipped today (strong day), both active epics (bands #4753, songs #4758) now fully phased/closed; capacity stall recurred with roles reversed, held on new surface
-
-### Context (≤3 lines)
-Metrics 21:23 UTC (218 users/257 sessions/599 views 7d; GSC 5,688 impr/150 clicks/2.64% CTR/pos 10.2, no content-gap rows). Eligible ai-fix backlog down to **3** (#4931/#4932 bands phase-3 split, gated on each other; #4948 schema fix) and 0 fresh seo-proposals (only standing L1/L2/L3 umbrellas) — starvation trigger technically met again.
-
-### Actions taken
-- **Reviewed the day's shipping:** 14 PRs merged since the 10:43 deep run — 5 roster additions (#4926-4930, split of #4748), 2 bands-epic splits still in flight (#4931/#4932), 6 schema/SSR fixes (#4918/4921/4922/4923/4924, #4936 for #4925), 2 Watchdog fixes (#4935/4938), plus 4 more schema batches (#4958/4959/4960/4961 from the 15:37 pulse's promotions). A genuinely productive day.
-- **Confirmed both remaining active epics from CLAUDE.md's active-epics list are now complete:** checked #4753 (bands drum-chair) and #4758 (songs/BPM) — every phase issue (#4754-4757, #4759-4762, #4769/#4770) is closed; #4763 (data studies), #4767/#4768 (techniques), #4771 (video round-2) were already closed. Only #4756's re-split (#4931/#4932) remains open, mid-flight. **This means the proven-pattern epic pipeline that fueled most of this week's work is now dry** — worth flagging for the next deep run rather than acting on tonight.
-- **Root-caused tonight's proposal drought before treating it as idea-supply starvation:** `seo-agent.yml`/`ceo-agent.yml` failed on the identical signature 4x this evening (14:44→20:22 UTC) — but inspecting the actual log (run 30041816943) showed it's a *recurrence of #4892's capacity class with roles reversed*: primary now weekly-limited (resets ~03:00 UTC tomorrow), backup cycling on shorter session limits (this 21:22 run got through because backup's 8:30pm UTC session window had just reset). Roadie stayed healthy all evening (last success 17:45 UTC) — this is throttling proposal-generation, not implementation. Posted an accuracy update to #4892 (still open, 0 comments from Ricardo) rather than filing a duplicate human-founder issue.
-- **Held on Queue-Starvation Playbook step 2 (new surface) tonight** — two reasons, not the usual "capacity means nothing would get consumed" logic (Roadie is fine): (1) the epic pipeline that supplied this week's atomic work just ran dry today (see above), so manufacturing the *next* batch (further roster names, or a new theme-hub epic) needs real sourcing/verification work, not a quick evening pass — better done fresh in tomorrow's deep run; (2) only one starvation trigger+response already happened today (10:43 deep run → roster+bands splits), and the playbook caps at one response per event. Roadie has 3 items (incl. the gated #4931→#4932 pair) for overnight runway.
-- Founder ideas: inbox empty, unchanged since 2026-06-19. GSC content-gap: none. L1/L2/L3 snapshots unchanged since 07-20, next refresh ~07-27. Human-founder blockers #875/#529/#526/#525 unchanged — no re-spam.
-
-### State delta
-- ai-fix backlog: 10 (15:37) → 3 eligible (heavy drainage, 14 merges today, thin refill)
-- Both tracked active epics (#4753, #4758) now fully closed/shipped — CLAUDE.md's "Active epics" list is stale on these two
-- Org/Sessions/Views (7d): 218/257/599 · GSC: 5,688 impr / 150 clicks / 2.64% CTR / pos 10.2 (unchanged since 15:37, same week)
-
-### Quota check
-✅ Founder ideas: inbox empty. ✅ SEO proposals: bank empty of fresh items, nothing to triage. ✅ GSC-gap: none. ✅ Starvation playbook: triggered, root-caused to the known capacity recurrence (not idea supply — see #4892 comment) plus a genuinely dry epic pipeline; held rather than forced, one response per event already spent today. ✅ Atomic split: #4931/#4932 both <11h old, not eligible. ✅ Decisions logged.
-
-### Next Run
-1. **Tomorrow's deep run: source the next epic-scale surface** now that bands/songs/techniques/studies/video-round-2 are all shipped — candidates per the starvation playbook step 2: next roster batch beyond today's 5, or a new theme hub (snares/pedals per CLAUDE.md, or brands museum #4386). Don't wait for another starvation trigger to start this — the well is confirmed dry now.
-2. Watch primary token reset (~03:00 UTC 2026-07-24) and confirm SEO Agent resumes normal 3x/day cadence.
-3. #4931 must merge before #4932 starts (slug-collision gate) — still unmerged, watch for premature dispatch.
-4. #875/#529/#526/#525 human-founder blockers unchanged — no re-spam. #4892 updated with tonight's accurate signature, still no action needed from Ricardo beyond the standing 3-option ask.
 
 ---
 

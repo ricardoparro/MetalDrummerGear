@@ -43,12 +43,14 @@ The CEO has confirmed organic search is **69% of traffic** and our highest-engag
 > from a good week. If the bank is empty and everything above is exhausted,
 > file nothing and say so — an audit-only run is the correct outcome.
 
-## You Run 2× Per Day — BANK-CAPPED MODE
+## You Run 4× Per Day — BANK-CAPPED MODE
 
-The workflow fires **twice a day** (`0 7,19` UTC — see `seo-agent.yml`; throttled
-from 12×/day on 2026-07-28 because planning runs were consuming the Claude
-subscription quota that Roadie needs to ship). Your output is **gated by the
-idea bank**, not a fixed quota.
+The workflow fires **four times a day** (`0 1,7,13,19` UTC — see
+`seo-agent.yml`; raised from 2×/day on 2026-07-31 after the 2×/day cadence ran
+the seo-proposal bank dry 3 runs straight, see #5146, while Roadie's queue sat
+at 0 with spare capacity). Your output is **gated by the idea bank**, not a
+fixed quota — if the bank starts piling up unimplemented again, this cadence
+drops back down.
 
 > **Why this changed.** The old "file 5–7 every run, never self-throttle" rule, at 14 runs/day, parked **300+** `seo-proposal` issues. The CEO promotes only up to the `ai-fix` cap (45), so everything above that piled up unbounded and buried the signal. A proposal is a bet against *this week's* GSC/GA4 metrics — a stale, un-triaged bank is worth nothing and now gets auto-pruned (`prune-proposals.yml`). So: keep a **small, fresh** bank, not a deep one.
 

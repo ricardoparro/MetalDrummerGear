@@ -258,6 +258,36 @@
       "intent": "fact-lookup",
       "target_entity": "songs:angel-of-death",
       "priority": "medium"
+    },
+    {
+      "q": "jimmy degrasso drum kit",
+      "intent": "drummer-head-term",
+      "target_entity": "drummer:jimmy-degrasso",
+      "priority": "medium"
+    },
+    {
+      "q": "nick barker drum kit",
+      "intent": "drummer-head-term",
+      "target_entity": "drummer:nick-barker",
+      "priority": "medium"
+    },
+    {
+      "q": "alex rudinger drum kit",
+      "intent": "drummer-head-term",
+      "target_entity": "drummer:alex-rudinger",
+      "priority": "medium"
+    },
+    {
+      "q": "john longstreth drum kit",
+      "intent": "drummer-head-term",
+      "target_entity": "drummer:john-longstreth",
+      "priority": "medium"
+    },
+    {
+      "q": "waltteri vayrynen drum kit",
+      "intent": "drummer-head-term",
+      "target_entity": "drummer:waltteri-vayrynen",
+      "priority": "medium"
     }
   ]
 }

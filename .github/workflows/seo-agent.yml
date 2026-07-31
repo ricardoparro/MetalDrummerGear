@@ -3,15 +3,17 @@ name: SEO Agent
 on:
   workflow_dispatch:
   schedule:
-    # 2×/day (2026-07-28). Was every 2h (12×/day), set when Roadie was starving
-    # for ideas. The situation has INVERTED: the ai-fix queue sits at ~22 with
-    # 0 PRs shipped for 3 days because Roadie's Claude calls die instantly on an
-    # exhausted subscription — the 12 daily SEO runs + 8 CEO runs were consuming
-    # the quota that the *implementer* needs. Generating more ideas while 22 wait
-    # unimplemented buys nothing; shipping does. Restore a higher cadence only if
-    # the bank ever actually runs dry while Roadie has spare quota.
-    #   summer UTC 7,19 = Lisbon 08:00 / 20:00.
-    - cron: '0 7,19 * * *'
+    # 4×/day (2026-07-31). Was 2×/day since 2026-07-28, throttled down from 12×/day
+    # when the ai-fix queue sat at ~22 with 0 PRs shipped for 3 days because Roadie's
+    # Claude calls were dying on an exhausted subscription. That condition has since
+    # reversed: the bank hit 0 on 3 consecutive runs (2026-07-29 19:28 UTC, 2026-07-30
+    # 07:56 UTC, 2026-07-30 19:34 UTC) while Roadie ships same-day with 0 open PRs and
+    # an idle fleet (#5126/#5142/#5144 all shipped within hours) — the original
+    # subscription-exhaustion problem (#5113/#4892) hasn't recurred. Restoring to a
+    # conservative middle step (not the old 12×/day) per starvation-playbook step 1
+    # (#5146). Drop back to 2×/day if Roadie starts stalling again.
+    #   summer UTC 1,7,13,19 = Lisbon 02:00 / 08:00 / 14:00 / 20:00.
+    - cron: '0 1,7,13,19 * * *'
 
 permissions:
   contents: write

@@ -132,9 +132,11 @@ Agent reads on its next run.
   Throttle the planners (SEO cron, then CEO cron) *before* touching Roadie
   width — the reverse (2026-07-23: fleet 8→4, day 3→2, CEO hourly→3h, SEO
   untouched at 12×/day) cut the producer and left the consumer, and is what
-  caused the stall. Current cadence after the 2026-07-28 rebalance: SEO
-  2×/day, CEO every 6h, Roadie night 4-wide / day 2-wide. Restore planner
-  cadence only once Roadie is consistently draining the queue.
+  caused the stall. Cadence after the 2026-07-28 rebalance: SEO 2×/day, CEO
+  every 6h, Roadie night 4-wide / day 2-wide. Restored SEO to 4×/day on
+  2026-07-31 (#5146) once the bank ran dry 3 runs in a row while Roadie sat
+  idle with 0 open PRs — the inverse condition from 07-26→28. Watch for a
+  repeat stall signature; drop back to 2×/day if it recurs.
 - **Branch prefixes:** `roadie/*` = the implementer (auto-reaped if DIRTY);
   `ralph/*` = legacy, still reaped during transition; `claude/*` = ad-hoc
   human/assistant branches.

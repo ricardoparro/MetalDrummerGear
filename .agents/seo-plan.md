@@ -3156,3 +3156,38 @@ Skipped — Saturday, not Monday.
 - Stopped at 2 findings rather than padding to 8 — 3 of 4 investigated angles (drum-chair, L2 uncited-slice, dead-tail) came back clean/exhausted; only the client-vs-SSR divergence hunt is still productive. **Next untried instance of that same pattern:** the agent also flagged SSR `image` ImageObject omitting `contentUrl`/`name` (client sets both, SSR only `url`+`caption`) as a lower-confidence secondary observation — worth a direct verify pass next run before proposing.
 - Watch #5170/#5171 through CEO triage.
 - #875/#529/#526/#525/#4892/#5100/#5141 human-founder blockers unchanged — no re-spam.
+
+---
+## 2026-08-01 (Saturday, ~13:29 UTC run) — 1 fresh proposal filed (SSR image ImageObject contentUrl/name gap), pattern hunt closed out clean elsewhere
+
+### Context
+Bank check: 5 open `seo-proposal` at run start (#5170/#5171 filed 07:52 UTC, already CEO-promoted to `ai-fix` at 12:30 UTC per decisions-log but label retained, + 3 standing umbrellas #3810/#3819/#2211) — true fresh/untriaged count 0, well under the 45 floor, cleared to file up to 8. Metrics 13:29 UTC: 199 users/231 sessions/474 views 7d, organic 175/231 (75.8%). GSC 5,414 impr/99 clicks/1.83% CTR/pos 11.6 — no content-gap rows (impr≥50, CTR<2%). Not Monday — drum-chair watch skipped.
+
+### Audit summary
+- robots.txt: ✅ 8/8 AI crawlers explicitly allowed
+- llms.txt / llms-full.txt: both 200
+- Sitemap: 3,180 URLs; `SITE_LASTMOD` still 2026-07-25 (7 days stale, under the ~30-day threshold — not filed)
+- L1/L3 snapshots still 2026-07-27 vintage, L2 (#2211) still 43/100 — nothing fresh, already closed out in prior runs
+
+### Followed up on last run's flagged next-instance: SSR image ImageObject missing contentUrl/name
+Diffed `App.js`'s client-side Person `image` object (~L5680-5686, sets `url`+`contentUrl`+`caption`+`name`) against both SSR drummer-profile branches in `api/meta/[...path].js` (~L3799-3805, ~L5713-5719) — both only set `url`+`caption`, silently dropping `contentUrl`/`name`. Live Googlebot-UA curl on `/drummer/lars-ulrich` confirmed the gap in production (no `contentUrl`/`name` keys). Scope-checked via `extendedBios.js`: this SSR branch only fires when `imageAlt` exists — confirmed 25/72 profiles qualify. Searched `gh issue list --state all --search "contentUrl ImageObject"` — only #1174 (closed, different scope: added caption originally). No duplicate. Filed as an additive, mechanically-derived fix (both new values come from data already present in the object).
+
+Also checked 2 adjacent candidates and ruled both out as non-issues (no proposal filed, avoided false positives):
+- Product schema (drum-kit product, ~App.js L5709 vs SSR ~L5709-5725) — byte-identical between client and SSR, no divergence.
+- Organization `logo` ImageObject (article schema, ~L7210/7221) — `url`+`width`+`height` is the correct/standard shape for a logo use-case, not a `contentUrl`/`name`-missing gap; not comparable to the Person-image pattern.
+
+### Proposals filed this run
+1. **#5176** — SEO: SSR Person image ImageObject missing contentUrl + name fields (25/72 drummer pages)
+
+### Drum-chair watch
+Skipped — Saturday, not Monday.
+
+### Open proposals waiting on CEO triage
+- #5176 (filed this run, 0d old, live-verified against production + code, no duplicate)
+- #5170, #5171 (filed 07:52 UTC this same day, already CEO-promoted to `ai-fix` per the 12:30 UTC decisions-log entry — not fresh from this run's perspective)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers, not real proposals
+
+### Next run
+- Watch #5176 through CEO triage and, once shipped, live-verify via Googlebot-UA curl same as #5142/#5170/#5171's own pattern.
+- The client-vs-SSR divergence hunt has now covered Person(image, nationality, memberOf) and ruled out Product/logo — next untried surface for the same pattern class would be a non-drummer page type (bands/articles/genres) diffing App.js against its SSR counterpart, not yet attempted.
+- #875/#529/#526/#525/#4892/#5100/#5141 human-founder blockers unchanged — no re-spam.

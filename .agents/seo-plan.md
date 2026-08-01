@@ -3118,3 +3118,41 @@ Skipped — Friday, not Monday.
 - The `isArticle:true` sweep TODO is now closed — no dangling follow-up from it.
 - If the bank stays this thin next run, the honest next angle is a citable-fact play (drum-chair history depth, per the freeze's Rule 3), not another schema-format pass on gsc-derived queries — that lever is confirmed exhausted.
 - #875/#529/#526/#525/#4892/#5100/#5141 human-founder blockers unchanged — no re-spam.
+
+---
+## 2026-08-01 (Saturday, ~07:52 UTC) — 2 fresh proposals filed (SSR Person schema nationality + multi-band memberOf gaps), 3 negative-result sweeps closed out clean
+
+### Context
+Bank check: 4 open `seo-proposal` at run start (#5162 already `ai-fix`-promoted overnight + 3 standing umbrellas #3810/#3819/#2211) — true fresh/untriaged bank 0, well under the 45 floor (cleared to file up to 8). Metrics 07:43 UTC: 184 users/216 sessions/452 views 7d, organic 167/216 (77.3%). GSC 5,414 impr/99 clicks/1.83% CTR/pos 11.6 — no content-gap rows (impr≥50, CTR<2%). Not Monday — drum-chair watch skipped.
+
+### Audit summary
+- robots.txt: ✅ 8/8 AI crawlers explicitly allowed (direct curl)
+- llms.txt / llms-full.txt: both 200
+- Sitemap: 3,180 URLs; `SITE_LASTMOD = '2026-07-25'` (7 days stale, not yet at the ~30-day threshold that triggered #5112 — not filed)
+- L1 (`gsc-watch-snapshot.md`)/L3 (`indexation-snapshot.md`)/L2 (#2211) all still the 2026-07-27 vintage (file mtimes updated by a workflow touch but content byte-identical, confirmed via `git diff` — no fresh snapshot this run, next refresh ~08-03). Already fully triaged in the 07-30/07-31 entries above — nothing new to re-action.
+
+### Gap hunt — 4 parallel investigations
+1. **Drum-chair citable-fact angle (Rule 3 priority, flagged as next-untried in the 07-31 13:32 entry):** turns out **already fully shipped** — `/bands/drum-chair-changes` route, SSR meta/FAQ/JSON-LD, sitemap entry, and `/llms/drum-chair-changes.md` mirror all live (epics #4769/#4770 closed, not open work as CLAUDE.md's phrasing implied). No proposal — re-filing would duplicate shipped work. Only remaining lever here is roster-growth (#4932, page-count work, out of scope under the freeze).
+2. **L2 uncited-query slices not yet sampled** (technique:double-bass, `lists:*` beyond death/thrash-metal, drummer queries outside the top-tier-covered set — jay-weinberg, mario-duplantier, brann-dailor, aquiles-priester, mike-mangini, gavin-harrison, abe-cunningham, travis-orbin, frost, jaska-raatikainen, jocke-wallgren): all checked via live bot-UA curl, **all false positives** — every page already has exact-match FAQ + full Person/Article/FAQPage schema for the queried variant. Confirms the standing root-cause verdict (competitor-authority, not on-page format) extends to this slice too. No proposal.
+3. **Dead-tail cleanup (Rule 4):** swept the 2026-07-27 L3 snapshot's bad-quality buckets (36 duplicate, 39 discovered-not-indexed, 1 crawled-not-indexed, 0 error-404). Every row is either the documented `navene-koperweis` stale-index self-heal, or already tracked/fixed by #3819/#3960/#4355/#4982/#5017 awaiting recrawl. No new structural dead-weight route family found. No proposal.
+4. **Client-vs-SSR schema divergence hunt** (the proven-fruitful pattern behind #1174/#4632→#5142 and #5065): diffed `App.js`'s JSON-LD field set against both SSR drummer-profile branches in `api/meta/[...path].js` (~3788-3818, ~5702-5727). Found **2 genuine, verified, untracked gaps**:
+   - `nationality` — client sets it from `drummer.country` (App.js:5694-5700), SSR never does, for any of 72 profiles. Live-curl-confirmed missing on `/drummer/lars-ulrich` despite `country: 'Denmark'` in the data.
+   - `memberOf` — client calls `generateMemberOfFromDrummer()` (bands.js:2990) for the full multi-band array with `@id` refs; SSR hardcodes a single-band object from legacy `drummer.band` with no `@id`. Verified 49/72 drummers have >1 band (`node` cross-reference against `api/drummers/index.js`) — all undercounted server-side today.
+   Searched `gh issue list --state all --search "nationality"` / `"memberOf"` — no prior coverage of either. Filed both.
+
+### Proposals filed this run
+1. **#5170** — SEO: SSR Person schema missing `nationality` field (present client-side, up to 72/72 drummer pages)
+2. **#5171** — SEO: SSR Person `memberOf` collapses to 1 band instead of full multi-band array with `@id` (49/72 drummers)
+
+### Drum-chair watch
+Skipped — Saturday, not Monday.
+
+### Open proposals waiting on CEO triage
+- #5170, #5171 (filed this run, 0d old, both verified live against production + code, no fabrication, no duplicates)
+- #5162 (filed overnight, already `ai-fix`-promoted — not this run's output)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers, not real proposals
+
+### Next run
+- Stopped at 2 findings rather than padding to 8 — 3 of 4 investigated angles (drum-chair, L2 uncited-slice, dead-tail) came back clean/exhausted; only the client-vs-SSR divergence hunt is still productive. **Next untried instance of that same pattern:** the agent also flagged SSR `image` ImageObject omitting `contentUrl`/`name` (client sets both, SSR only `url`+`caption`) as a lower-confidence secondary observation — worth a direct verify pass next run before proposing.
+- Watch #5170/#5171 through CEO triage.
+- #875/#529/#526/#525/#4892/#5100/#5141 human-founder blockers unchanged — no re-spam.

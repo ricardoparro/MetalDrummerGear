@@ -6,7 +6,7 @@ country: "Sweden"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/jocke-wallgren"
 source: "https://metalforge.io"
-last_updated: "2026-07-25"
+last_updated: "2026-08-01"
 ---
 
 # Jocke Wallgren — Drum Kit & Gear Setup
@@ -134,10 +134,15 @@ Jocke Wallgren plays a Pearl Demon Drive double pedal (direct-drive).
 
 Full breakdown: [Jocke Wallgren's pedal setup](https://metalforge.io/pedals/setups/jocke-wallgren).
 
+## Study Rankings
+
+- Counted in our most-used gear brands study. [Most-Used Drum & Cymbal Brands in Metal](https://metalforge.io/studies/most-used-gear-brands-metal)
+- Counted in our drum endorsement landscape study. [The Drum Endorsement Landscape in Metal](https://metalforge.io/studies/drum-endorsement-landscape)
+
 ---
 
 **Full interactive profile:** [Jocke Wallgren on MetalForge](https://metalforge.io/drummer/jocke-wallgren)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*

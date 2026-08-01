@@ -6,7 +6,7 @@ country: "Brazil"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/igor-cavalera"
 source: "https://metalforge.io"
-last_updated: "2026-07-25"
+last_updated: "2026-08-01"
 ---
 
 # Igor Cavalera — Drum Kit & Gear Setup
@@ -142,10 +142,15 @@ Igor Cavalera plays a Tama Iron Cobra double pedal.
 
 Full breakdown: [Igor Cavalera's pedal setup](https://metalforge.io/pedals/setups/igor-cavalera).
 
+## Study Rankings
+
+- Counted in our most-used gear brands study. [Most-Used Drum & Cymbal Brands in Metal](https://metalforge.io/studies/most-used-gear-brands-metal)
+- Counted in our drum endorsement landscape study. [The Drum Endorsement Landscape in Metal](https://metalforge.io/studies/drum-endorsement-landscape)
+
 ---
 
 **Full interactive profile:** [Igor Cavalera on MetalForge](https://metalforge.io/drummer/igor-cavalera)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*

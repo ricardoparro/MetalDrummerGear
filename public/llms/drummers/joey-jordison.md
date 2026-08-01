@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/joey-jordison"
 source: "https://metalforge.io"
-last_updated: "2026-07-25"
+last_updated: "2026-08-01"
 ---
 
 # Joey Jordison — Drum Kit & Gear Setup
@@ -153,10 +153,14 @@ Joey Jordison plays a Pearl Demon Drive double pedal (direct-drive).
 
 Full breakdown: [Joey Jordison's pedal setup](https://metalforge.io/pedals/setups/joey-jordison).
 
+## Study Rankings
+
+- Counted in our most-used gear brands study. [Most-Used Drum & Cymbal Brands in Metal](https://metalforge.io/studies/most-used-gear-brands-metal)
+
 ---
 
 **Full interactive profile:** [Joey Jordison on MetalForge](https://metalforge.io/drummer/joey-jordison)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*

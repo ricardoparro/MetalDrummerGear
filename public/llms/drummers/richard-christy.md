@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/richard-christy"
 source: "https://metalforge.io"
-last_updated: "2026-07-25"
+last_updated: "2026-08-01"
 ---
 
 # Richard Christy — Drum Kit & Gear Setup
@@ -146,10 +146,15 @@ Richard Christy plays a Tama Iron Cobra 900 double pedal (chain-drive).
 
 Full breakdown: [Richard Christy's pedal setup](https://metalforge.io/pedals/setups/richard-christy).
 
+## Study Rankings
+
+- Counted in our most-used gear brands study. [Most-Used Drum & Cymbal Brands in Metal](https://metalforge.io/studies/most-used-gear-brands-metal)
+- Counted in our drum endorsement landscape study. [The Drum Endorsement Landscape in Metal](https://metalforge.io/studies/drum-endorsement-landscape)
+
 ---
 
 **Full interactive profile:** [Richard Christy on MetalForge](https://metalforge.io/drummer/richard-christy)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*

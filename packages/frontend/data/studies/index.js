@@ -108,11 +108,17 @@ function normalizeBrandName(s) {
 
 // Brand display names differ slightly across the per-category brand pages
 // (e.g. "Vater Percussion" vs. the studies' canonical "Vater", "Pro-Mark" vs.
-// "Promark") — matched by normalized substring rather than exact equality.
+// "Promark") — matched by normalized prefix rather than exact equality.
+// Issue #5160: a plain a.includes(b)/b.includes(a) substring test false-
+// positived "DW" against "Ludwig" (normalizes to "ludwig", which contains
+// the literal substring "dw" mid-word) and misattributed a Ludwig study
+// stat to DW pages. Prefix matching keeps the intentional cases (both sides
+// share a real word-boundary-aligned start) while rejecting mid-word
+// coincidences.
 function brandNamesMatch(displayName, canonicalName) {
   const a = normalizeBrandName(displayName);
   const b = normalizeBrandName(canonicalName);
-  return a.includes(b) || b.includes(a);
+  return a.startsWith(b) || b.startsWith(a);
 }
 
 // Returns up to 2 links: the brand's best rank in the gear-usage study (if any

@@ -19,12 +19,23 @@
  * logic as packages/frontend/data/pedalSetupPages.js
  * (generatePedalSetupDirectAnswer) so the /llms/ file and the live page never
  * say different things about the same drummer's pedal.
+ *
+ * Issue #5160: the /pedals/brands/<slug>.md builder also renders
+ * getBrandStudyLinks() from packages/frontend/data/studies/index.js — the
+ * same computed study-ranking sentences already shown on the live brand
+ * pages and the SSR meta blocks. That module has real imports/logic (not a
+ * plain object literal), so unlike the regex+eval extraction used for the
+ * other data sources here it's loaded with a dynamic import(), which forces
+ * the whole generator body into this async main() (same pattern as
+ * generate-llms-songs-per-slug.cjs).
  */
 
 const fs = require('fs');
 const path = require('path');
+const { pathToFileURL } = require('url');
 
 const BASE = 'https://metalforge.io';
+const STUDIES_DATA_PATH = path.join(__dirname, '../packages/frontend/data/studies/index.js');
 
 // ---------------------------------------------------------------------------
 // Load live data (regex+eval extraction pattern shared by the sibling
@@ -47,59 +58,6 @@ function loadModuleConsts(filePath, constNames) {
   }
 }
 
-const { PEDALS } = loadModuleConsts(
-  path.join(__dirname, '../packages/frontend/data/pedals.js'),
-  ['PEDALS']
-);
-
-const {
-  PILLAR_PAGE,
-  DRIVE_TYPES_PAGE,
-  SINGLE_VS_DOUBLE_PAGE,
-  SETUP_TUNING_PAGE,
-  REFERENCE_PAGE_ORDER,
-} = loadModuleConsts(
-  path.join(__dirname, '../packages/frontend/data/pedalReferencePages.js'),
-  ['PILLAR_PAGE', 'DRIVE_TYPES_PAGE', 'SINGLE_VS_DOUBLE_PAGE', 'SETUP_TUNING_PAGE', 'REFERENCE_PAGE_ORDER']
-);
-
-const REFERENCE_PAGES = {
-  'drive-types': DRIVE_TYPES_PAGE,
-  'single-vs-double': SINGLE_VS_DOUBLE_PAGE,
-  'setup-tuning': SETUP_TUNING_PAGE,
-};
-
-// Issue #4432 (split 1/3 of #4394): /pedals/brands/<brand> pages (Tama, Pearl,
-// DW, Axis, Trick). PEDAL_BRANDS is a plain data array (no live functions
-// evaluated here) — the confirmed-pedal filter is reimplemented inline below
-// using the already-loaded PEDALS, mirroring getPedalsForBrand() in
-// data/pedalBrands.js, so the /llms/ file can never show an endorsement the
-// live page doesn't also show.
-const { PEDAL_BRANDS } = loadModuleConsts(
-  path.join(__dirname, '../packages/frontend/data/pedalBrands.js'),
-  ['PEDAL_BRANDS']
-);
-
-// Cross-link to the /brands/<slug> museum page (#4386/#4388) where one exists
-// — same "only link what's real" discipline as the live PedalBrandPage.jsx.
-const { brands: FULL_BRANDS } = loadModuleConsts(
-  path.join(__dirname, '../packages/frontend/data/brands.js'),
-  ['brands']
-);
-
-function pedalsForBrand(brand) {
-  return PEDALS.filter((p) => p.brand && brand.dataBrandNames.includes(p.brand));
-}
-
-const drummersPath = path.join(__dirname, '../api/drummers/index.js');
-const drummersContent = fs.readFileSync(drummersPath, 'utf-8');
-const drummersMatch = drummersContent.match(/const drummers = (\[[\s\S]*?\]);[\s\S]*?export default function handler/);
-if (!drummersMatch) {
-  console.error('Could not extract drummers array from api/drummers/index.js');
-  process.exit(1);
-}
-const drummers = eval(drummersMatch[1]);
-
 function toSlug(name) {
   return name.toLowerCase()
     .replace(/[åä]/g, 'a').replace(/ö/g, 'o').replace(/ü/g, 'u')
@@ -108,23 +66,8 @@ function toSlug(name) {
     .replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
 }
 
-const drummerBySlug = {};
-for (const d of drummers) {
-  drummerBySlug[toSlug(d.name)] = d;
-}
-
-const pedalDrummers = PEDALS
-  .map((pedal) => {
-    const drummer = drummerBySlug[pedal.drummerSlug];
-    if (!drummer) return null;
-    return { pedal, slug: pedal.drummerSlug, name: drummer.name, band: drummer.band };
-  })
-  .filter(Boolean)
-  .sort((a, b) => a.name.localeCompare(b.name));
-
-if (pedalDrummers.length !== PEDALS.length) {
-  console.error(`Drummer lookup mismatch: ${PEDALS.length} PEDALS records, ${pedalDrummers.length} resolved to a roster drummer.`);
-  process.exit(1);
+function pedalsForBrand(brand, PEDALS) {
+  return PEDALS.filter((p) => p.brand && brand.dataBrandNames.includes(p.brand));
 }
 
 // ---------------------------------------------------------------------------
@@ -156,33 +99,11 @@ function generateDirectAnswer(pedal, drummerName) {
   return `${drummerName} plays ${article}${descriptor} ${configPhrase}${driveSuffix}.`;
 }
 
-// Short, factual drive-type / configuration context pulled from the reference
-// pages' own tables — used to round out thin per-drummer entries (e.g. a
-// null-brand summary) with real reference content instead of padding.
-const DRIVE_TYPE_LABELS = { chain: 'Chain drive', belt: 'Belt drive', direct: 'Direct drive' };
-const driveTypeRow = (driveType) => DRIVE_TYPES_PAGE.table.find((r) => r.driveType === DRIVE_TYPE_LABELS[driveType]);
-const CONFIG_LABELS = { double: 'Double pedal', single: 'Single pedal' };
-const configRow = (configuration) => SINGLE_VS_DOUBLE_PAGE.table.find((r) => r.configuration === CONFIG_LABELS[configuration]);
-
-function driveTypeContext(driveType) {
-  const row = driveTypeRow(driveType);
-  if (!row) return null;
-  return `${row.driveType}: ${row.feel} ${row.response}`;
-}
-
-function configContext(configuration) {
-  const row = configRow(configuration);
-  if (!row) return null;
-  return `${row.configuration}: ${row.mechanism} Best suited to ${row.bestFor.charAt(0).toLowerCase()}${row.bestFor.slice(1)}`;
-}
-
-const today = new Date().toISOString().split('T')[0];
-
 // ---------------------------------------------------------------------------
 // Per-drummer setup files — public/llms/pedals/setups/<slug>.md
 // ---------------------------------------------------------------------------
 
-function buildSetupMarkdown({ pedal, slug, name, band }) {
+function buildSetupMarkdown({ pedal, slug, name, band }, ctx, today) {
   const directAnswer = generateDirectAnswer(pedal, name);
   const url = `${BASE}/pedals/setups/${slug}`;
   const drummerUrl = `${BASE}/drummer/${slug}`;
@@ -211,8 +132,8 @@ function buildSetupMarkdown({ pedal, slug, name, band }) {
   parts.push(`Verified roster hardware entry: "${pedal.summary}." Source: ${pedal.source}.`);
   parts.push('');
 
-  const driveCtx = driveTypeContext(pedal.driveType);
-  const configCtx = configContext(pedal.configuration);
+  const driveCtx = ctx.driveTypeContext(pedal.driveType);
+  const configCtx = ctx.configContext(pedal.configuration);
   if (driveCtx || configCtx) {
     parts.push('## Setup Context');
     parts.push('');
@@ -249,7 +170,7 @@ function buildSetupMarkdown({ pedal, slug, name, band }) {
 // Reference page files — public/llms/pedals/<slug>.md
 // ---------------------------------------------------------------------------
 
-function buildReferenceMarkdown(page) {
+function buildReferenceMarkdown(page, today) {
   const url = `${BASE}/pedals/${page.slug}`;
   const parts = [];
   parts.push(`# ${page.h1}`);
@@ -317,15 +238,8 @@ function buildReferenceMarkdown(page) {
 // of #4394)
 // ---------------------------------------------------------------------------
 
-function buildBrandMarkdown(brand) {
+function buildBrandMarkdown(brand, confirmedPedals, studyLinks, FULL_BRANDS, today) {
   const url = `${BASE}/pedals/brands/${brand.slug}`;
-  const confirmedPedals = pedalsForBrand(brand)
-    .map((pedal) => {
-      const drummer = drummerBySlug[pedal.drummerSlug];
-      return drummer ? { pedal, slug: pedal.drummerSlug, name: drummer.name, band: drummer.band } : null;
-    })
-    .filter(Boolean)
-    .sort((a, b) => a.name.localeCompare(b.name));
 
   const parts = [];
   parts.push(`# ${brand.name} Bass Drum Pedals for Metal`);
@@ -367,6 +281,15 @@ function buildBrandMarkdown(brand) {
   parts.push(`Source: [${brand.source.label}](${brand.source.url}).`);
   parts.push('');
 
+  if (studyLinks.length > 0) {
+    parts.push('## Study Rankings');
+    parts.push('');
+    for (const link of studyLinks) {
+      parts.push(`- [${link.sentence}](${BASE}/studies/${link.studySlug})`);
+    }
+    parts.push('');
+  }
+
   parts.push('## More Resources');
   parts.push('');
   const fullBrandPage = FULL_BRANDS[brand.slug];
@@ -389,7 +312,8 @@ function buildBrandMarkdown(brand) {
 // Hub file — public/llms/pedals.md
 // ---------------------------------------------------------------------------
 
-function buildHubMarkdown() {
+function buildHubMarkdown(ctx, today) {
+  const { PILLAR_PAGE, REFERENCE_PAGE_ORDER, REFERENCE_PAGES, PEDAL_BRANDS, pedalDrummers } = ctx;
   const parts = [];
   parts.push(`# ${PILLAR_PAGE.h1}`);
   parts.push('');
@@ -470,44 +394,145 @@ function buildHubMarkdown() {
   return parts.join('\n');
 }
 
-// ---------------------------------------------------------------------------
-// Write files
-// ---------------------------------------------------------------------------
+async function main() {
+  const { getBrandStudyLinks } = await import(pathToFileURL(STUDIES_DATA_PATH).href);
 
-const outRoot = path.join(__dirname, '../public/llms');
-const setupsDir = path.join(outRoot, 'pedals/setups');
-const brandsDir = path.join(outRoot, 'pedals/brands');
-fs.mkdirSync(setupsDir, { recursive: true });
-fs.mkdirSync(brandsDir, { recursive: true });
+  const { PEDALS } = loadModuleConsts(
+    path.join(__dirname, '../packages/frontend/data/pedals.js'),
+    ['PEDALS']
+  );
 
-fs.writeFileSync(path.join(outRoot, 'pedals.md'), buildHubMarkdown());
+  const {
+    PILLAR_PAGE,
+    DRIVE_TYPES_PAGE,
+    SINGLE_VS_DOUBLE_PAGE,
+    SETUP_TUNING_PAGE,
+    REFERENCE_PAGE_ORDER,
+  } = loadModuleConsts(
+    path.join(__dirname, '../packages/frontend/data/pedalReferencePages.js'),
+    ['PILLAR_PAGE', 'DRIVE_TYPES_PAGE', 'SINGLE_VS_DOUBLE_PAGE', 'SETUP_TUNING_PAGE', 'REFERENCE_PAGE_ORDER']
+  );
 
-for (const slug of REFERENCE_PAGE_ORDER) {
-  const md = buildReferenceMarkdown(REFERENCE_PAGES[slug]);
-  fs.writeFileSync(path.join(outRoot, 'pedals', `${slug}.md`), md);
+  const REFERENCE_PAGES = {
+    'drive-types': DRIVE_TYPES_PAGE,
+    'single-vs-double': SINGLE_VS_DOUBLE_PAGE,
+    'setup-tuning': SETUP_TUNING_PAGE,
+  };
+
+  // Issue #4432 (split 1/3 of #4394): /pedals/brands/<brand> pages (Tama, Pearl,
+  // DW, Axis, Trick). PEDAL_BRANDS is a plain data array (no live functions
+  // evaluated here) — the confirmed-pedal filter is reimplemented inline below
+  // using the already-loaded PEDALS, mirroring getPedalsForBrand() in
+  // data/pedalBrands.js, so the /llms/ file can never show an endorsement the
+  // live page doesn't also show.
+  const { PEDAL_BRANDS } = loadModuleConsts(
+    path.join(__dirname, '../packages/frontend/data/pedalBrands.js'),
+    ['PEDAL_BRANDS']
+  );
+
+  // Cross-link to the /brands/<slug> museum page (#4386/#4388) where one exists
+  // — same "only link what's real" discipline as the live PedalBrandPage.jsx.
+  const { brands: FULL_BRANDS } = loadModuleConsts(
+    path.join(__dirname, '../packages/frontend/data/brands.js'),
+    ['brands']
+  );
+
+  const drummersPath = path.join(__dirname, '../api/drummers/index.js');
+  const drummersContent = fs.readFileSync(drummersPath, 'utf-8');
+  const drummersMatch = drummersContent.match(/const drummers = (\[[\s\S]*?\]);[\s\S]*?export default function handler/);
+  if (!drummersMatch) {
+    console.error('Could not extract drummers array from api/drummers/index.js');
+    process.exit(1);
+  }
+  const drummers = eval(drummersMatch[1]);
+
+  const drummerBySlug = {};
+  for (const d of drummers) {
+    drummerBySlug[toSlug(d.name)] = d;
+  }
+
+  const pedalDrummers = PEDALS
+    .map((pedal) => {
+      const drummer = drummerBySlug[pedal.drummerSlug];
+      if (!drummer) return null;
+      return { pedal, slug: pedal.drummerSlug, name: drummer.name, band: drummer.band };
+    })
+    .filter(Boolean)
+    .sort((a, b) => a.name.localeCompare(b.name));
+
+  if (pedalDrummers.length !== PEDALS.length) {
+    console.error(`Drummer lookup mismatch: ${PEDALS.length} PEDALS records, ${pedalDrummers.length} resolved to a roster drummer.`);
+    process.exit(1);
+  }
+
+  const DRIVE_TYPE_LABELS = { chain: 'Chain drive', belt: 'Belt drive', direct: 'Direct drive' };
+  const driveTypeRow = (driveType) => DRIVE_TYPES_PAGE.table.find((r) => r.driveType === DRIVE_TYPE_LABELS[driveType]);
+  const CONFIG_LABELS = { double: 'Double pedal', single: 'Single pedal' };
+  const configRow = (configuration) => SINGLE_VS_DOUBLE_PAGE.table.find((r) => r.configuration === CONFIG_LABELS[configuration]);
+
+  function driveTypeContext(driveType) {
+    const row = driveTypeRow(driveType);
+    if (!row) return null;
+    return `${row.driveType}: ${row.feel} ${row.response}`;
+  }
+
+  function configContext(configuration) {
+    const row = configRow(configuration);
+    if (!row) return null;
+    return `${row.configuration}: ${row.mechanism} Best suited to ${row.bestFor.charAt(0).toLowerCase()}${row.bestFor.slice(1)}`;
+  }
+
+  const today = new Date().toISOString().split('T')[0];
+
+  const outRoot = path.join(__dirname, '../public/llms');
+  const setupsDir = path.join(outRoot, 'pedals/setups');
+  const brandsDir = path.join(outRoot, 'pedals/brands');
+  fs.mkdirSync(setupsDir, { recursive: true });
+  fs.mkdirSync(brandsDir, { recursive: true });
+
+  fs.writeFileSync(path.join(outRoot, 'pedals.md'), buildHubMarkdown(
+    { PILLAR_PAGE, REFERENCE_PAGE_ORDER, REFERENCE_PAGES, PEDAL_BRANDS, pedalDrummers },
+    today
+  ));
+
+  for (const slug of REFERENCE_PAGE_ORDER) {
+    const md = buildReferenceMarkdown(REFERENCE_PAGES[slug], today);
+    fs.writeFileSync(path.join(outRoot, 'pedals', `${slug}.md`), md);
+  }
+
+  let written = 0;
+  const shortFiles = [];
+  const setupCtx = { driveTypeContext, configContext };
+  for (const entry of pedalDrummers) {
+    const md = buildSetupMarkdown(entry, setupCtx, today);
+    fs.writeFileSync(path.join(setupsDir, `${entry.slug}.md`), md);
+    const wordCount = md.split(/\s+/).filter(Boolean).length;
+    if (wordCount < 100) shortFiles.push(`${entry.slug} (${wordCount} words)`);
+    written++;
+  }
+
+  for (const brand of PEDAL_BRANDS) {
+    const confirmedPedals = pedalsForBrand(brand, PEDALS)
+      .map((pedal) => {
+        const drummer = drummerBySlug[pedal.drummerSlug];
+        return drummer ? { pedal, slug: pedal.drummerSlug, name: drummer.name, band: drummer.band } : null;
+      })
+      .filter(Boolean)
+      .sort((a, b) => a.name.localeCompare(b.name));
+    const studyLinks = getBrandStudyLinks(brand.name);
+    const md = buildBrandMarkdown(brand, confirmedPedals, studyLinks, FULL_BRANDS, today);
+    fs.writeFileSync(path.join(brandsDir, `${brand.slug}.md`), md);
+    const wordCount = md.split(/\s+/).filter(Boolean).length;
+    if (wordCount < 100) shortFiles.push(`brands/${brand.slug} (${wordCount} words)`);
+    written++;
+  }
+
+  const totalFiles = 1 + REFERENCE_PAGE_ORDER.length + written;
+  console.log(`Wrote public/llms/pedals.md, ${REFERENCE_PAGE_ORDER.length} reference pages, ${PEDAL_BRANDS.length} brand pages, ${written - PEDAL_BRANDS.length} per-drummer setup files (${totalFiles} total).`);
+  if (shortFiles.length) {
+    console.error(`WARNING: ${shortFiles.length} setup file(s) under 100 words: ${shortFiles.join(', ')}`);
+    process.exit(1);
+  }
 }
 
-let written = 0;
-const shortFiles = [];
-for (const entry of pedalDrummers) {
-  const md = buildSetupMarkdown(entry);
-  fs.writeFileSync(path.join(setupsDir, `${entry.slug}.md`), md);
-  const wordCount = md.split(/\s+/).filter(Boolean).length;
-  if (wordCount < 100) shortFiles.push(`${entry.slug} (${wordCount} words)`);
-  written++;
-}
-
-for (const brand of PEDAL_BRANDS) {
-  const md = buildBrandMarkdown(brand);
-  fs.writeFileSync(path.join(brandsDir, `${brand.slug}.md`), md);
-  const wordCount = md.split(/\s+/).filter(Boolean).length;
-  if (wordCount < 100) shortFiles.push(`brands/${brand.slug} (${wordCount} words)`);
-  written++;
-}
-
-const totalFiles = 1 + REFERENCE_PAGE_ORDER.length + written;
-console.log(`Wrote public/llms/pedals.md, ${REFERENCE_PAGE_ORDER.length} reference pages, ${PEDAL_BRANDS.length} brand pages, ${written - PEDAL_BRANDS.length} per-drummer setup files (${totalFiles} total).`);
-if (shortFiles.length) {
-  console.error(`WARNING: ${shortFiles.length} setup file(s) under 100 words: ${shortFiles.join(', ')}`);
-  process.exit(1);
-}
+main().catch((e) => { console.error(`FATAL: ${e.stack || e.message}`); process.exit(1); });

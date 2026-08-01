@@ -25,6 +25,11 @@ These 2 entries are pulled directly from MetalForge's verified snares database, 
 
 Source: [Mapex — History](https://www.mapexdrums.com/history).
 
+## Study Rankings
+
+- [Mapex ranks #5 in drum kits usage in our brand-usage study (5.6% of the roster).](https://metalforge.io/studies/most-used-gear-brands-metal)
+- [Mapex ranks #13 for overall brand reach in our endorsement-landscape study (5.6% of the roster).](https://metalforge.io/studies/drum-endorsement-landscape)
+
 ## FAQ
 
 **Q: What snares does Mapex make for metal drummers?**
@@ -55,4 +60,4 @@ MetalForge tracks 6 snare brands relevant to metal drummers. Besides Mapex, see:
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*

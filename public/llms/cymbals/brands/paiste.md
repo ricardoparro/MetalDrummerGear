@@ -35,6 +35,11 @@ These 11 entries are pulled directly from MetalForge's verified cymbal setups da
 
 Source: [Paiste — Company History](https://www.paiste.com/pages/history).
 
+## Study Rankings
+
+- [Paiste ranks #3 in cymbals usage in our brand-usage study (20.8% of the roster).](https://metalforge.io/studies/most-used-gear-brands-metal)
+- [Paiste ranks #6 for overall brand reach in our endorsement-landscape study (20.8% of the roster).](https://metalforge.io/studies/drum-endorsement-landscape)
+
 ## FAQ
 
 **Q: What cymbals does Paiste make for metal drummers?**
@@ -63,4 +68,4 @@ MetalForge tracks 4 cymbal brands relevant to metal drummers. Besides Paiste, se
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*

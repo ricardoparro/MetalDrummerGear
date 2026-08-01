@@ -23,6 +23,11 @@ These 1 entry is pulled directly from MetalForge's verified drumsticks database 
 
 Source: [Ahead Drumsticks — About](http://www.aheaddrumsticks.com/about.html).
 
+## Study Rankings
+
+- [Ahead ranks #6 in sticks usage in our brand-usage study (1.4% of the roster).](https://metalforge.io/studies/most-used-gear-brands-metal)
+- [Ahead ranks #19 for overall brand reach in our endorsement-landscape study (1.4% of the roster).](https://metalforge.io/studies/drum-endorsement-landscape)
+
 ## FAQ
 
 **Q: What drumsticks does Ahead make for metal drummers?**
@@ -57,4 +62,4 @@ MetalForge tracks 10 drumstick brands relevant to metal drummers. Besides Ahead,
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*

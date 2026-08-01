@@ -13,14 +13,23 @@
  * snareBrands.js exactly (filter by snare.brand matching one of
  * brand.dataBrandNames) — never hand-authored, so this file can never show
  * an endorsement the live page doesn't also show.
+ *
+ * Issue #5160: also renders getBrandStudyLinks() from
+ * packages/frontend/data/studies/index.js — the same computed study-ranking
+ * sentences already shown on the live brand pages and the SSR meta blocks.
+ * That module has real imports/logic (not a plain object literal), so unlike
+ * the regex+eval extraction above it's loaded with a dynamic import(), same
+ * pattern as generate-llms-songs-per-slug.cjs.
  */
 
 'use strict';
 const fs = require('fs');
 const path = require('path');
+const { pathToFileURL } = require('url');
 
 const BASE = 'https://metalforge.io';
 const today = new Date().toISOString().split('T')[0];
+const STUDIES_DATA_PATH = path.join(__dirname, '../packages/frontend/data/studies/index.js');
 
 function loadModuleConsts(filePath, constNames) {
   const src = fs.readFileSync(filePath, 'utf-8');
@@ -38,56 +47,18 @@ function loadModuleConsts(filePath, constNames) {
   }
 }
 
-const { SNARE_BRANDS } = loadModuleConsts(
-  path.join(__dirname, '../packages/frontend/data/snareBrands.js'),
-  ['SNARE_BRANDS']
-);
-
-const { SNARES } = loadModuleConsts(
-  path.join(__dirname, '../packages/frontend/data/snares.js'),
-  ['SNARES']
-);
-
-const drummersPath = path.join(__dirname, '../api/drummers/index.js');
-const drummersContent = fs.readFileSync(drummersPath, 'utf-8');
-const drummersMatch = drummersContent.match(/const drummers = (\[[\s\S]*?\]);[\s\S]*?export default function handler/);
-if (!drummersMatch) {
-  console.error('Could not extract drummers array from api/drummers/index.js');
-  process.exit(1);
-}
-let drummers;
-try {
-  // eslint-disable-next-line no-eval
-  drummers = eval(drummersMatch[1]);
-} catch (e) {
-  console.error('Error parsing drummers:', e);
-  process.exit(1);
-}
-
 function toSlugFromName(name) {
   return name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
 }
 
-const drummerBySlug = {};
-for (const d of drummers) {
-  drummerBySlug[toSlugFromName(d.name)] = d;
-}
-
 // Mirrors getSnaresForBrand() in snareBrands.js verbatim.
-function confirmedSnaresForBrand(brand) {
+function confirmedSnaresForBrand(brand, SNARES) {
   if (!brand.dataBrandNames || brand.dataBrandNames.length === 0) return [];
   return SNARES.filter((snare) => snare.brand && brand.dataBrandNames.includes(snare.brand));
 }
 
-function buildBrandMarkdown(brand, allBrands) {
+function buildBrandMarkdown(brand, allBrands, confirmedSnares, studyLinks) {
   const url = `${BASE}/snares/brands/${brand.slug}`;
-  const confirmedSnares = confirmedSnaresForBrand(brand)
-    .map((snare) => {
-      const drummer = drummerBySlug[snare.drummerSlug];
-      return drummer ? { snare, slug: snare.drummerSlug, name: drummer.name, band: drummer.band } : null;
-    })
-    .filter(Boolean)
-    .sort((a, b) => a.name.localeCompare(b.name));
 
   const parts = [];
   parts.push(`# ${brand.name} Snares: Metal-Relevant Models & Which Drummers Use Them`);
@@ -129,6 +100,15 @@ function buildBrandMarkdown(brand, allBrands) {
 
   parts.push(`Source: [${brand.source.label}](${brand.source.url}).`);
   parts.push('');
+
+  if (studyLinks.length > 0) {
+    parts.push('## Study Rankings');
+    parts.push('');
+    for (const link of studyLinks) {
+      parts.push(`- [${link.sentence}](${BASE}/studies/${link.studySlug})`);
+    }
+    parts.push('');
+  }
 
   parts.push('## FAQ');
   parts.push('');
@@ -174,21 +154,66 @@ function buildBrandMarkdown(brand, allBrands) {
   return parts.join('\n');
 }
 
-const outDir = path.join(__dirname, '../public/llms/snares/brands');
-fs.mkdirSync(outDir, { recursive: true });
+async function main() {
+  const { getBrandStudyLinks } = await import(pathToFileURL(STUDIES_DATA_PATH).href);
 
-let written = 0;
-const shortFiles = [];
-for (const brand of SNARE_BRANDS) {
-  const md = buildBrandMarkdown(brand, SNARE_BRANDS);
-  fs.writeFileSync(path.join(outDir, `${brand.slug}.md`), md);
-  const wordCount = md.split(/\s+/).filter(Boolean).length;
-  if (wordCount < 150) shortFiles.push(`${brand.slug} (${wordCount} words)`);
-  written++;
+  const { SNARE_BRANDS } = loadModuleConsts(
+    path.join(__dirname, '../packages/frontend/data/snareBrands.js'),
+    ['SNARE_BRANDS']
+  );
+
+  const { SNARES } = loadModuleConsts(
+    path.join(__dirname, '../packages/frontend/data/snares.js'),
+    ['SNARES']
+  );
+
+  const drummersPath = path.join(__dirname, '../api/drummers/index.js');
+  const drummersContent = fs.readFileSync(drummersPath, 'utf-8');
+  const drummersMatch = drummersContent.match(/const drummers = (\[[\s\S]*?\]);[\s\S]*?export default function handler/);
+  if (!drummersMatch) {
+    console.error('Could not extract drummers array from api/drummers/index.js');
+    process.exit(1);
+  }
+  let drummers;
+  try {
+    // eslint-disable-next-line no-eval
+    drummers = eval(drummersMatch[1]);
+  } catch (e) {
+    console.error('Error parsing drummers:', e);
+    process.exit(1);
+  }
+
+  const drummerBySlug = {};
+  for (const d of drummers) {
+    drummerBySlug[toSlugFromName(d.name)] = d;
+  }
+
+  const outDir = path.join(__dirname, '../public/llms/snares/brands');
+  fs.mkdirSync(outDir, { recursive: true });
+
+  let written = 0;
+  const shortFiles = [];
+  for (const brand of SNARE_BRANDS) {
+    const confirmedSnares = confirmedSnaresForBrand(brand, SNARES)
+      .map((snare) => {
+        const drummer = drummerBySlug[snare.drummerSlug];
+        return drummer ? { snare, slug: snare.drummerSlug, name: drummer.name, band: drummer.band } : null;
+      })
+      .filter(Boolean)
+      .sort((a, b) => a.name.localeCompare(b.name));
+    const studyLinks = getBrandStudyLinks(brand.name);
+    const md = buildBrandMarkdown(brand, SNARE_BRANDS, confirmedSnares, studyLinks);
+    fs.writeFileSync(path.join(outDir, `${brand.slug}.md`), md);
+    const wordCount = md.split(/\s+/).filter(Boolean).length;
+    if (wordCount < 150) shortFiles.push(`${brand.slug} (${wordCount} words)`);
+    written++;
+  }
+
+  console.log(`✅ Generated ${written} snare brand pages in public/llms/snares/brands/`);
+  if (shortFiles.length) {
+    console.error(`WARNING: ${shortFiles.length} brand file(s) under 150 words: ${shortFiles.join(', ')}`);
+    process.exit(1);
+  }
 }
 
-console.log(`✅ Generated ${written} snare brand pages in public/llms/snares/brands/`);
-if (shortFiles.length) {
-  console.error(`WARNING: ${shortFiles.length} brand file(s) under 150 words: ${shortFiles.join(', ')}`);
-  process.exit(1);
-}
+main().catch((e) => { console.error(`FATAL: ${e.stack || e.message}`); process.exit(1); });

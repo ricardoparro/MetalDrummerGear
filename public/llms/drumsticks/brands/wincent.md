@@ -19,6 +19,11 @@ We haven't verified a Wincent drumstick played by one of our mapped metal drumme
 
 Source: [Wincent — Rock/Metal Series](https://www.wincentdrumsticks.com/drumsticks/rock-metal-series/).
 
+## Study Rankings
+
+- [Wincent ranks #4 in sticks usage in our brand-usage study (4.2% of the roster).](https://metalforge.io/studies/most-used-gear-brands-metal)
+- [Wincent ranks #17 for overall brand reach in our endorsement-landscape study (4.2% of the roster).](https://metalforge.io/studies/drum-endorsement-landscape)
+
 ## FAQ
 
 **Q: What drumsticks does Wincent make for metal drummers?**
@@ -53,4 +58,4 @@ MetalForge tracks 10 drumstick brands relevant to metal drummers. Besides Wincen
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*

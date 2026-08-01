@@ -24,6 +24,11 @@
 
 Source: [Sonor — Wikipedia (company history)](https://en.wikipedia.org/wiki/Sonor).
 
+## Study Rankings
+
+- [Sonor ranks #3 in drum kits usage in our brand-usage study (12.5% of the roster).](https://metalforge.io/studies/most-used-gear-brands-metal)
+- [Sonor ranks #10 for overall brand reach in our endorsement-landscape study (12.5% of the roster).](https://metalforge.io/studies/drum-endorsement-landscape)
+
 ## More Resources
 
 - [Full Sonor brand history](https://metalforge.io/brands/sonor)
@@ -34,4 +39,4 @@ Source: [Sonor — Wikipedia (company history)](https://en.wikipedia.org/wiki/So
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*

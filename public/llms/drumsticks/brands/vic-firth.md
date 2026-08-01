@@ -35,6 +35,11 @@ These 12 entries are pulled directly from MetalForge's verified drumsticks datab
 
 Source: [Vic Firth — American Classic Metal](https://vicfirth.com/products/american-classicr-metal).
 
+## Study Rankings
+
+- [Vic Firth ranks #1 in sticks usage in our brand-usage study (61.1% of the roster).](https://metalforge.io/studies/most-used-gear-brands-metal)
+- [Vic Firth ranks #1 for overall brand reach in our endorsement-landscape study (61.1% of the roster).](https://metalforge.io/studies/drum-endorsement-landscape)
+
 ## FAQ
 
 **Q: What drumsticks does Vic Firth make for metal drummers?**
@@ -69,4 +74,4 @@ MetalForge tracks 10 drumstick brands relevant to metal drummers. Besides Vic Fi
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*

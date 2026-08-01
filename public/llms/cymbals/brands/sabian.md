@@ -39,6 +39,11 @@ These 15 entries are pulled directly from MetalForge's verified cymbal setups da
 
 Source: [Sabian — About Us / Company History](https://sabian.com/en/pages/about-us).
 
+## Study Rankings
+
+- [Sabian ranks #2 in cymbals usage in our brand-usage study (30.6% of the roster).](https://metalforge.io/studies/most-used-gear-brands-metal)
+- [Sabian ranks #5 for overall brand reach in our endorsement-landscape study (30.6% of the roster).](https://metalforge.io/studies/drum-endorsement-landscape)
+
 ## FAQ
 
 **Q: What cymbals does Sabian make for metal drummers?**
@@ -67,4 +72,4 @@ MetalForge tracks 4 cymbal brands relevant to metal drummers. Besides Sabian, se
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*

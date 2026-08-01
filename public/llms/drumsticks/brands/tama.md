@@ -24,6 +24,11 @@ These 2 entries are pulled directly from MetalForge's verified drumsticks databa
 
 Source: [Tama — Drumsticks](https://www.tama.com/usa/products/sticks/).
 
+## Study Rankings
+
+- [Tama ranks #2 in drum kits usage in our brand-usage study (29.2% of the roster).](https://metalforge.io/studies/most-used-gear-brands-metal)
+- [Tama ranks #2 for overall brand reach in our endorsement-landscape study (33.3% of the roster).](https://metalforge.io/studies/drum-endorsement-landscape)
+
 ## FAQ
 
 **Q: What drumsticks does Tama make for metal drummers?**
@@ -58,4 +63,4 @@ MetalForge tracks 10 drumstick brands relevant to metal drummers. Besides Tama, 
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*

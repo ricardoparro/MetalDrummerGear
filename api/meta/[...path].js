@@ -3800,7 +3800,9 @@ export function getMetaForPath(pathname) {
                 ? {
                     '@type': 'ImageObject',
                     url: `${BASE_URL}/api/card/${slug}?format=twitter`,
+                    contentUrl: `${BASE_URL}/api/card/${slug}?format=twitter`,
                     caption: extBio.imageAlt,
+                    name: `${drummer.name}'s drum kit`,
                   }
                 : `${BASE_URL}/api/card/${slug}?format=twitter`,
               ...(birthdayEntry?.birthDate ? { birthDate: birthdayEntry.birthDate } : {}),
@@ -5717,7 +5719,9 @@ export function getMetaForPath(pathname) {
                 ? {
                     '@type': 'ImageObject',
                     url: `${BASE_URL}/api/card/${slug}?format=twitter`,
+                    contentUrl: `${BASE_URL}/api/card/${slug}?format=twitter`,
                     caption: extBio.imageAlt,
+                    name: `${drummer.name}'s drum kit`,
                   }
                 : `${BASE_URL}/api/card/${slug}?format=twitter`,
               ...(birthdayEntry?.birthDate ? { birthDate: birthdayEntry.birthDate } : {}),

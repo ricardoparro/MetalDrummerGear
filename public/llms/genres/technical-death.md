@@ -47,6 +47,11 @@ A: A gravity blast is a one-handed snare technique that uses stick rebound and g
 **Q: Do technical death metal drummers use double bass pedals or single pedals?**
 A: Both are common, but the genre is notable for drummers like George Kollias and Derek Roddy who specialize in single-foot (one bass drum, one pedal) speed, sustaining 16th and 32nd-note patterns at 240+ BPM without a double pedal — a demonstration of raw foot technique that has become a genre benchmark.
 
+## Study Rankings
+
+- [Technical Death Metal averages 219.3 BPM across 3 songs in our tempo-by-subgenre study.](https://metalforge.io/studies/metal-tempo-by-subgenre)
+- [Technical Death Metal drummers' bass-pedal configurations are broken down in our kit-configurations study.](https://metalforge.io/studies/metal-kit-configurations)
+
 ## Related Content
 - [Death Metal Drummers](/genre/death)
 - [Progressive Metal Drummers](/genre/progressive)

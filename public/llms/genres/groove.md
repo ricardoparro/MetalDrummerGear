@@ -56,6 +56,11 @@ A: Chris Adler (Lamb of God) is widely considered the most technically advanced 
 ## Gear Guide
 - [Best Drum Kits for Groove Metal](/guides/best-drum-kits-for-groove-metal) — Vinnie Paul's ddrum Signature Series, Chris Adler's Mapex Black Panther, and Eloy Casagrande's Tama Starclassic Bubinga
 
+## Study Rankings
+
+- [Groove Metal averages 117.8 BPM across 25 songs in our tempo-by-subgenre study.](https://metalforge.io/studies/metal-tempo-by-subgenre)
+- [Groove Metal drummers' bass-pedal configurations are broken down in our kit-configurations study.](https://metalforge.io/studies/metal-kit-configurations)
+
 ## Related Content
 - [Vinnie Paul drum setup](/drummer/vinnie-paul)
 - [Chris Adler drum setup](/drummer/chris-adler)

@@ -52,6 +52,11 @@ A: Black metal drumming emphasizes atmosphere, hypnotic repetition, and D-beat p
 **Q: What BPM do black metal songs use?**
 A: Black metal spans a wide range: slow atmospheric passages (60–80 BPM), driving D-beat sections (150–180 BPM), and full blast beat passages (180–250+ BPM). Mayhem's "Freezing Moon" shifts between tempos; Darkthrone's classic albums often sit in the 160–200 BPM range with hypnotic consistency.
 
+## Study Rankings
+
+- [Black Metal averages 169.4 BPM across 8 songs in our tempo-by-subgenre study.](https://metalforge.io/studies/metal-tempo-by-subgenre)
+- [Black Metal drummers' bass-pedal configurations are broken down in our kit-configurations study.](https://metalforge.io/studies/metal-kit-configurations)
+
 ## Related Content
 - [Hellhammer drum setup](/drummer/hellhammer)
 - [Inferno drum setup](/drummer/inferno)

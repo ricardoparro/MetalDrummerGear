@@ -59,6 +59,11 @@ A: Modern metalcore and djent drumming rivals technical death metal in complexit
 ## Gear Guide
 - [Best Drum Kits for Metalcore](/guides/best-drum-kits-for-metalcore) — Nick Augusto's Pearl Reference Pure, Art Cruz's Ludwig Classic Oak, and Travis Orbin's SJC Custom Drums
 
+## Study Rankings
+
+- [Metalcore averages 147.8 BPM across 20 songs in our tempo-by-subgenre study.](https://metalforge.io/studies/metal-tempo-by-subgenre)
+- [Metalcore drummers' bass-pedal configurations are broken down in our kit-configurations study.](https://metalforge.io/studies/metal-kit-configurations)
+
 ## Related Content
 - [Matt Halpern drum setup](/drummer/matt-halpern)
 - [Matt Garstka drum setup](/drummer/matt-garstka)

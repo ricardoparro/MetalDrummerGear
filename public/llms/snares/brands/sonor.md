@@ -40,6 +40,11 @@ A: On our verified roster: Frost, Gavin Harrison, Hellhammer, Martin Axenrot, Ni
 **Q: What are Sonor's most metal-relevant snare models?**
 A: SQ2, Artist-signature models. Full descriptions are in the Notable Models section above.
 
+## Study Rankings
+
+- [Sonor ranks #3 in drum kits usage in our brand-usage study (12.5% of the roster).](https://metalforge.io/studies/most-used-gear-brands-metal)
+- [Sonor ranks #10 for overall brand reach in our endorsement-landscape study (12.5% of the roster).](https://metalforge.io/studies/drum-endorsement-landscape)
+
 ## Other Snare Brands We Cover
 
 MetalForge tracks 6 snare brands relevant to metal drummers. Besides Sonor, see:
@@ -59,4 +64,4 @@ MetalForge tracks 6 snare brands relevant to metal drummers. Besides Sonor, see:
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*

@@ -36,6 +36,11 @@ A: On our verified roster: Hannes Grossmann, Navene Koperweis. See the table abo
 **Q: What are DW's most metal-relevant snare models?**
 A: Performance Series, Collector's Series. Full descriptions are in the Notable Models section above.
 
+## Study Rankings
+
+- [Ludwig ranks #7 in drum kits usage in our brand-usage study (4.2% of the roster).](https://metalforge.io/studies/most-used-gear-brands-metal)
+- [DW ranks #7 for overall brand reach in our endorsement-landscape study (19.4% of the roster).](https://metalforge.io/studies/drum-endorsement-landscape)
+
 ## Other Snare Brands We Cover
 
 MetalForge tracks 6 snare brands relevant to metal drummers. Besides DW, see:
@@ -55,4 +60,4 @@ MetalForge tracks 6 snare brands relevant to metal drummers. Besides DW, see:
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*

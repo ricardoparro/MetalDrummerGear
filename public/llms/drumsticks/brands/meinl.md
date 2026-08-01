@@ -30,6 +30,11 @@ A: No drummer on our verified roster currently has a confirmed Meinl Stick & Bru
 **Q: What are Meinl Stick & Brush's most metal-relevant drumstick lines?**
 A: Heavy series (SB108 / SB110). Full descriptions are in the Notable Lines section above.
 
+## Study Rankings
+
+- [Meinl ranks #4 in cymbals usage in our brand-usage study (16.7% of the roster).](https://metalforge.io/studies/most-used-gear-brands-metal)
+- [Meinl ranks #9 for overall brand reach in our endorsement-landscape study (16.7% of the roster).](https://metalforge.io/studies/drum-endorsement-landscape)
+
 ## Other Drumstick Brands We Cover
 
 MetalForge tracks 10 drumstick brands relevant to metal drummers. Besides Meinl Stick & Brush, see:
@@ -53,4 +58,4 @@ MetalForge tracks 10 drumstick brands relevant to metal drummers. Besides Meinl 
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*

@@ -43,6 +43,11 @@ A: On our verified roster: Chris Adler, Chris Turner, Derek Roddy, Hannes Grossm
 **Q: What are Meinl's most metal-relevant cymbal series?**
 A: Byzance (incl. Dark, Extra Dry, Traditional), Mb20, Classics Custom Dark. Full descriptions are in the Notable Series section above.
 
+## Study Rankings
+
+- [Meinl ranks #4 in cymbals usage in our brand-usage study (16.7% of the roster).](https://metalforge.io/studies/most-used-gear-brands-metal)
+- [Meinl ranks #9 for overall brand reach in our endorsement-landscape study (16.7% of the roster).](https://metalforge.io/studies/drum-endorsement-landscape)
+
 ## Other Cymbal Brands We Cover
 
 MetalForge tracks 4 cymbal brands relevant to metal drummers. Besides Meinl, see:
@@ -60,4 +65,4 @@ MetalForge tracks 4 cymbal brands relevant to metal drummers. Besides Meinl, see
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*

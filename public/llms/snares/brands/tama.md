@@ -52,6 +52,11 @@ A: On our verified roster: Adrian Erlandsson, Ben Koller, Blake Richardson, Chri
 **Q: What are Tama's most metal-relevant snare models?**
 A: S.L.P. (Sound Lab Project), Starclassic, LU1465 Lars Ulrich Signature. Full descriptions are in the Notable Models section above.
 
+## Study Rankings
+
+- [Tama ranks #2 in drum kits usage in our brand-usage study (29.2% of the roster).](https://metalforge.io/studies/most-used-gear-brands-metal)
+- [Tama ranks #2 for overall brand reach in our endorsement-landscape study (33.3% of the roster).](https://metalforge.io/studies/drum-endorsement-landscape)
+
 ## Other Snare Brands We Cover
 
 MetalForge tracks 6 snare brands relevant to metal drummers. Besides Tama, see:
@@ -71,4 +76,4 @@ MetalForge tracks 6 snare brands relevant to metal drummers. Besides Tama, see:
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*

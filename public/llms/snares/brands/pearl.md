@@ -51,6 +51,11 @@ A: On our verified roster: Alex Bent, Aquiles Priester, Daniel Erlandsson, Daray
 **Q: What are Pearl's most metal-relevant snare models?**
 A: Reference, Masters, Artist-signature models. Full descriptions are in the Notable Models section above.
 
+## Study Rankings
+
+- [Pearl ranks #1 in drum kits usage in our brand-usage study (30.6% of the roster).](https://metalforge.io/studies/most-used-gear-brands-metal)
+- [Pearl ranks #4 for overall brand reach in our endorsement-landscape study (30.6% of the roster).](https://metalforge.io/studies/drum-endorsement-landscape)
+
 ## Other Snare Brands We Cover
 
 MetalForge tracks 6 snare brands relevant to metal drummers. Besides Pearl, see:
@@ -70,4 +75,4 @@ MetalForge tracks 6 snare brands relevant to metal drummers. Besides Pearl, see:
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*

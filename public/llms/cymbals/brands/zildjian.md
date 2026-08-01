@@ -57,6 +57,11 @@ A: On our verified roster: Abe Cunningham, Alex Bent, Art Cruz, Ben Koller, Dirk
 **Q: What are Zildjian's most metal-relevant cymbal series?**
 A: A Custom, Z Custom, K Custom (incl. K Custom Dark / Hybrid). Full descriptions are in the Notable Series section above.
 
+## Study Rankings
+
+- [Zildjian ranks #1 in cymbals usage in our brand-usage study (31.9% of the roster).](https://metalforge.io/studies/most-used-gear-brands-metal)
+- [Zildjian ranks #3 for overall brand reach in our endorsement-landscape study (31.9% of the roster).](https://metalforge.io/studies/drum-endorsement-landscape)
+
 ## Other Cymbal Brands We Cover
 
 MetalForge tracks 4 cymbal brands relevant to metal drummers. Besides Zildjian, see:
@@ -74,4 +79,4 @@ MetalForge tracks 4 cymbal brands relevant to metal drummers. Besides Zildjian, 
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*

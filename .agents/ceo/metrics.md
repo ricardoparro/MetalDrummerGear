@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-01 08:52 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-01 12:24 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,44 +8,44 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 191 |
-| Sessions | 222 |
-| Page views | 463 |
-| Engagement rate | 62.16% |
-| Avg session (s) | 150 |
+| Active users | 199 |
+| Sessions | 231 |
+| Page views | 474 |
+| Engagement rate | 59.74% |
+| Avg session (s) | 144 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 30 | 16 |
+| / | 32 | 17 |
 | /cymbals/setups/daniel-erlandsson | 22 | 2 |
 | /drummer/daniel-erlandsson | 22 | 2 |
 | /drummer/joey-jordison | 14 | 5 |
-| /drummer/mario-duplantier | 11 | 8 |
 | /drummers | 11 | 3 |
 | /drummers/igor-cavalera/evolution | 11 | 3 |
-| /drummer/danny-carey | 10 | 6 |
+| /drummer/mario-duplantier | 10 | 8 |
+| /cymbals | 9 | 3 |
+| /drummer/danny-carey | 9 | 6 |
 | /pedals/setups/joey-jordison | 9 | 1 |
-| /cymbals | 8 | 2 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 172 | 150 |
-| Direct | 37 | 35 |
-| Unassigned | 18 | 17 |
+| Organic Search | 175 | 152 |
+| Direct | 45 | 43 |
+| Unassigned | 23 | 22 |
 | Organic Social | 8 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 90 | 79 |
+| United States | 96 | 85 |
 | Canada | 12 | 10 |
 | Germany | 10 | 8 |
 | Hungary | 10 | 3 |
+| France | 9 | 6 |
 | Indonesia | 9 | 9 |
 | United Kingdom | 9 | 7 |
-| France | 8 | 6 |
 | Australia | 6 | 6 |
 | China | 6 | 6 |
 | Brazil | 4 | 4 |

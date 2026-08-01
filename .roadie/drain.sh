@@ -57,6 +57,12 @@ NOOP_CIRCUIT="${NOOP_CIRCUIT:-12}"
 ROADIE_TOKEN_PRIMARY="${CLAUDE_CODE_OAUTH_TOKEN:-}"
 ROADIE_TOKEN_BACKUP="${CLAUDE_CODE_OAUTH_TOKEN_2:-}"
 PRIMARY_DEAD=0
+# Optional model pin (e.g. CLAUDE_MODEL=claude-sonnet-5). Empty => inherit the
+# CLI's own default. Roadie implements well-specified, atomic issues in bulk —
+# a good fit for Sonnet; set per-workflow (roadie.yml / roadie-night-fleet.yml).
+CLAUDE_MODEL="${CLAUDE_MODEL:-}"
+MODEL_ARGS=()
+[ -n "$CLAUDE_MODEL" ] && MODEL_ARGS=(--model "$CLAUDE_MODEL")
 elapsed() { echo $(( $(date +%s) - START )); }
 log() { echo "[$(date -u +%H:%M:%S)] $*"; }
 
@@ -76,7 +82,7 @@ run_claude() {
   fi
   t0=$(date +%s)
   CLAUDE_CODE_OAUTH_TOKEN="$tok" timeout "${PER_ISSUE_TIMEOUT}s" \
-    claude --print --dangerously-skip-permissions < "$prompt" > "$out" 2>&1
+    claude --print --dangerously-skip-permissions "${MODEL_ARGS[@]}" < "$prompt" > "$out" 2>&1
   rc=$?
   dt=$(( $(date +%s) - t0 ))
   # Fail over to the backup once, retrying THIS issue, when the preferred token
@@ -89,7 +95,7 @@ run_claude() {
     PRIMARY_DEAD=1
     t0=$(date +%s)
     CLAUDE_CODE_OAUTH_TOKEN="$ROADIE_TOKEN_BACKUP" timeout "${PER_ISSUE_TIMEOUT}s" \
-      claude --print --dangerously-skip-permissions < "$prompt" > "$out" 2>&1
+      claude --print --dangerously-skip-permissions "${MODEL_ARGS[@]}" < "$prompt" > "$out" 2>&1
     rc=$?
   fi
   return $rc

@@ -56,6 +56,14 @@ PRIMARY="${CLAUDE_CODE_OAUTH_TOKEN:-}"
 BACKUP="${CLAUDE_CODE_OAUTH_TOKEN_2:-}"
 PROMPT="$(cat)"  # buffer stdin so the prompt can be replayed on the backup token
 
+# Optional model pin (e.g. CLAUDE_MODEL=claude-sonnet-5). Empty => inherit the
+# CLI's own default. Set per-workflow: high-volume, well-specified, mechanical
+# loops (SEO Agent, Roadie) pin Sonnet; loops doing higher-stakes judgment
+# (CEO triage, fabrication/tenure verification cross-checks) stay unpinned.
+CLAUDE_MODEL="${CLAUDE_MODEL:-}"
+MODEL_ARGS=()
+[ -n "$CLAUDE_MODEL" ] && MODEL_ARGS=(--model "$CLAUDE_MODEL")
+
 if [ -z "$PRIMARY" ] && [ -z "$BACKUP" ]; then
   echo "[run-claude] No CLAUDE_CODE_OAUTH_TOKEN or CLAUDE_CODE_OAUTH_TOKEN_2 set." >&2
   exit 1
@@ -71,7 +79,7 @@ run_with() {
   local token="$1" out rc start end dur
   start=$(date +%s)
   out="$(printf '%s' "$PROMPT" | env CLAUDE_CODE_OAUTH_TOKEN="$token" ANTHROPIC_API_KEY="" \
-        claude --print --dangerously-skip-permissions 2>&1)"
+        claude --print --dangerously-skip-permissions "${MODEL_ARGS[@]}" 2>&1)"
   rc=$?
   end=$(date +%s)
   dur=$((end - start))

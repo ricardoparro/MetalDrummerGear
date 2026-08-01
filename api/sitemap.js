@@ -643,7 +643,7 @@ export function buildSitemapXml() {
     // Issue #4761 (songs epic #4758, phase 3/4): per-song pages, gated by
     // content-richness (getSongPageSlugs) — under-gate songs stay list-only
     // and never get a sitemap entry.
-    ...getSongPageSlugs().map(slug => ({ loc: `/songs/${slug}`, priority: '0.75', changefreq: 'monthly' })),
+    ...getSongPageSlugs(Object.values(ALBUM_ARTICLES)).map(slug => ({ loc: `/songs/${slug}`, priority: '0.75', changefreq: 'monthly' })),
     // Issue #4371: Gear Finder tool
     { loc: '/gear-finder', priority: '0.85', changefreq: 'weekly' },
     // Issue #4370: Metal Drumming Evolution Timeline (47 events, 1970-2024)

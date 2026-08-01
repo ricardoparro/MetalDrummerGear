@@ -14,6 +14,7 @@ import {
   getSongPageSlugs,
   FASTEST_SONGS_MIN_BPM,
 } from '../data/metalSongsBpm';
+import { useAlbumArticlesList } from '../utils/useAlbumArticlesList';
 
 const BASE_URL = 'https://metalforge.io';
 
@@ -212,7 +213,8 @@ export function FastestMetalSongsPage({ drummers = [] }) {
   const theme = useContext(ThemeContext);
   const songs = useMemo(() => getFastestMetalSongs(), []);
   const drummerBySlug = useDrummerLookup(drummers);
-  const qualifyingSlugs = useMemo(() => new Set(getSongPageSlugs()), []);
+  const albumArticlesList = useAlbumArticlesList();
+  const qualifyingSlugs = useMemo(() => new Set(getSongPageSlugs(albumArticlesList)), [albumArticlesList]);
   const top = songs[0];
 
   useEffect(() => {
@@ -273,7 +275,8 @@ export function SongsTempoTierPage({ tierSlug, drummers = [] }) {
   const theme = useContext(ThemeContext);
   const tier = useMemo(() => getTempoTierBySlug(tierSlug), [tierSlug]);
   const drummerBySlug = useDrummerLookup(drummers);
-  const qualifyingSlugs = useMemo(() => new Set(getSongPageSlugs()), []);
+  const albumArticlesList = useAlbumArticlesList();
+  const qualifyingSlugs = useMemo(() => new Set(getSongPageSlugs(albumArticlesList)), [albumArticlesList]);
 
   useEffect(() => {
     if (Platform.OS !== 'web' || !tier) return;
@@ -326,7 +329,8 @@ export function SongsByDrummerPage({ drummerSlug, drummers = [] }) {
   const theme = useContext(ThemeContext);
   const songs = useMemo(() => getSongsByDrummerSlug(drummerSlug), [drummerSlug]);
   const drummerBySlug = useDrummerLookup(drummers);
-  const qualifyingSlugs = useMemo(() => new Set(getSongPageSlugs()), []);
+  const albumArticlesList = useAlbumArticlesList();
+  const qualifyingSlugs = useMemo(() => new Set(getSongPageSlugs(albumArticlesList)), [albumArticlesList]);
   const drummer = drummerBySlug.get(drummerSlug);
   const displayName = drummer?.name || humanize(drummerSlug);
 

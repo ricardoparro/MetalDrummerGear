@@ -6,7 +6,7 @@ country: "Belgium"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/dirk-verbeuren"
 source: "https://metalforge.io"
-last_updated: "2026-07-25"
+last_updated: "2026-08-01"
 ---
 
 # Dirk Verbeuren — Drum Kit & Gear Setup
@@ -144,10 +144,14 @@ Dirk Verbeuren plays a Tama Speed Cobra 910 double pedal (chain-drive).
 
 Full breakdown: [Dirk Verbeuren's pedal setup](https://metalforge.io/pedals/setups/dirk-verbeuren).
 
+## Study Rankings
+
+- Counted in our most-used gear brands study. [Most-Used Drum & Cymbal Brands in Metal](https://metalforge.io/studies/most-used-gear-brands-metal)
+
 ---
 
 **Full interactive profile:** [Dirk Verbeuren on MetalForge](https://metalforge.io/drummer/dirk-verbeuren)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*

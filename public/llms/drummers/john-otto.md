@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Orange"
 profile_url: "https://metalforge.io/drummer/john-otto"
 source: "https://metalforge.io"
-last_updated: "2026-07-25"
+last_updated: "2026-08-01"
 ---
 
 # John Otto — Drum Kit & Gear Setup
@@ -131,10 +131,14 @@ John Otto plays a Gibraltar G Class pedal.
 
 Full breakdown: [John Otto's pedal setup](https://metalforge.io/pedals/setups/john-otto).
 
+## Study Rankings
+
+- Counted in our most-used gear brands study. [Most-Used Drum & Cymbal Brands in Metal](https://metalforge.io/studies/most-used-gear-brands-metal)
+
 ---
 
 **Full interactive profile:** [John Otto on MetalForge](https://metalforge.io/drummer/john-otto)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*

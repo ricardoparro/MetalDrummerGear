@@ -13,6 +13,7 @@
 
 const fs = require('fs');
 const path = require('path');
+const { pathToFileURL } = require('url');
 
 // --- Load drummers (same regex+eval extraction as generate-llms-full.cjs) ---------
 const drummersPath = path.join(__dirname, '../api/drummers/index.js');
@@ -130,6 +131,13 @@ try {
   console.warn('Could not load pedals, continuing without them:', e.message);
 }
 
+// --- Load study-citation links (index by drummerSlug) -----------------------------
+// Issue #5161: studies/index.js has real logic (imports + functions), not a plain
+// object/array literal, so it can't go through the regex+eval pattern used above —
+// same reasoning as generate-llms-songs-per-slug.cjs — so it's loaded via a
+// dynamic import() in main() below and getDrummerStudyLinks is assigned here.
+let getDrummerStudyLinks = () => [];
+
 const today = new Date().toISOString().split('T')[0];
 const BASE = 'https://metalforge.io';
 
@@ -153,6 +161,7 @@ const KNOWN_HEADERS = new Set([
   'Snare',
   'Cymbal Setup',
   'Pedal',
+  'Study Rankings',
 ]);
 const FOOTER_MARKER = /\n---\n\n\*\*Full interactive profile:\*\*[\s\S]*$/;
 
@@ -482,6 +491,19 @@ function buildMarkdown(drummer) {
     sections.push({ header: 'Pedal', body: pedal });
   }
 
+  // --- Study Rankings cross-reference (Issue #5161) ------------------------------
+  // Omit the section entirely when this drummer isn't individually counted in a
+  // study — most drummers won't be (studies aggregate by brand/genre, not every
+  // roster drummer). Sentence text is verbatim from getDrummerStudyLinks.
+  const studyLinks = getDrummerStudyLinks(slug);
+  if (studyLinks.length > 0) {
+    let studies = '';
+    for (const link of studyLinks) {
+      studies += `- ${link.sentence} [${link.studyTitle}](${BASE}/studies/${link.studySlug})\n`;
+    }
+    sections.push({ header: 'Study Rankings', body: studies });
+  }
+
   // --- Preserve hand-added sections (Kit Overview, per-album Q&A, ...) not
   // produced by this generator, reading them back from the previously committed
   // file so `npm run generate:llms` doesn't delete them. See #4353.
@@ -518,14 +540,22 @@ function buildMarkdown(drummer) {
 const outDir = path.join(__dirname, '../public/llms/drummers');
 fs.mkdirSync(outDir, { recursive: true });
 
-let written = 0;
-let minWords = Infinity;
-for (const drummer of drummers) {
-  const { slug, md } = buildMarkdown(drummer);
-  fs.writeFileSync(path.join(outDir, `${slug}.md`), md);
-  const words = md.split(/\s+/).filter(Boolean).length;
-  if (words < minWords) minWords = words;
-  written++;
+async function main() {
+  const studiesPath = path.join(__dirname, '../packages/frontend/data/studies/index.js');
+  const studiesMod = await import(pathToFileURL(studiesPath).href);
+  getDrummerStudyLinks = studiesMod.getDrummerStudyLinks;
+
+  let written = 0;
+  let minWords = Infinity;
+  for (const drummer of drummers) {
+    const { slug, md } = buildMarkdown(drummer);
+    fs.writeFileSync(path.join(outDir, `${slug}.md`), md);
+    const words = md.split(/\s+/).filter(Boolean).length;
+    if (words < minWords) minWords = words;
+    written++;
+  }
+
+  console.log(`✅ Generated public/llms/drummers/*.md — ${written} drummers (min ${minWords} words/file)`);
 }
 
-console.log(`✅ Generated public/llms/drummers/*.md — ${written} drummers (min ${minWords} words/file)`);
+main().catch((e) => { console.error(`FATAL: ${e.stack || e.message}`); process.exit(1); });

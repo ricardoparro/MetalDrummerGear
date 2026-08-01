@@ -6,7 +6,7 @@ country: "Cuba/USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/dave-lombardo"
 source: "https://metalforge.io"
-last_updated: "2026-07-25"
+last_updated: "2026-08-01"
 ---
 
 # Dave Lombardo — Drum Kit & Gear Setup
@@ -156,10 +156,14 @@ Dave Lombardo plays a Tama Iron Cobra 900 double pedal (chain-drive).
 
 Full breakdown: [Dave Lombardo's pedal setup](https://metalforge.io/pedals/setups/dave-lombardo).
 
+## Study Rankings
+
+- Counted in our most-used gear brands study. [Most-Used Drum & Cymbal Brands in Metal](https://metalforge.io/studies/most-used-gear-brands-metal)
+
 ---
 
 **Full interactive profile:** [Dave Lombardo on MetalForge](https://metalforge.io/drummer/dave-lombardo)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*

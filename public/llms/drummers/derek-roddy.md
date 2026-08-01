@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/derek-roddy"
 source: "https://metalforge.io"
-last_updated: "2026-07-25"
+last_updated: "2026-08-01"
 ---
 
 # Derek Roddy — Drum Kit & Gear Setup
@@ -149,10 +149,14 @@ Derek Roddy plays a Tama Speed Cobra 910 double pedal (chain-drive).
 
 Full breakdown: [Derek Roddy's pedal setup](https://metalforge.io/pedals/setups/derek-roddy).
 
+## Study Rankings
+
+- Counted in our most-used gear brands study. [Most-Used Drum & Cymbal Brands in Metal](https://metalforge.io/studies/most-used-gear-brands-metal)
+
 ---
 
 **Full interactive profile:** [Derek Roddy on MetalForge](https://metalforge.io/drummer/derek-roddy)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*

@@ -5,6 +5,16 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-08-01 12:24 UTC*
 
 ---
+## 2026-08-01 18:22 (state-confirm — anti-noise hold, +1 promotion)
+- Backlog: 0→1 ai-fix eligible (#5176 promoted) · 0 PRs open · proposals untriaged: 0 after triage
+- Org/Sessions/Views (7d): 203/236/478 · GSC 6,646 impr/126 clicks/1.90% CTR/pos 11.7 — no content-gap rows
+- **Promoted #5176**: SSR Person `image` ImageObject missing `contentUrl`+`name` (25/72 drummers) — 4th sibling in the #5142→#5170→#5171 SSR-schema-enrichment-gap class, purely additive, freeze-compliant L2 depth work, no duplicate found. #5170/#5171 confirmed already shipped (closed).
+- Blockers unchanged: #5141/#5100/#4892/#875/#529/#526/#525 — no re-spam. Founder ideas inbox still empty since 06-19.
+- Actions: promoted #5176; everything else holds.
+- Next check: watch #5176 ship + live-verify per its own curl steps; next deep run ~2026-08-02 07:00 UTC.
+
+---
+
 ## 2026-08-01 12:30 — Deep run: 2 fresh proposals promoted (SSR Person nationality + memberOf/@id gaps, both L2), #5142 caption confirmed shipped live, no starvation escalation
 
 ### Context (≤3 lines)

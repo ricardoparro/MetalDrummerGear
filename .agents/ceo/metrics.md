@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-01 13:29 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-01 18:22 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 199 |
-| Sessions | 231 |
-| Page views | 474 |
-| Engagement rate | 59.74% |
-| Avg session (s) | 144 |
+| Active users | 203 |
+| Sessions | 236 |
+| Page views | 478 |
+| Engagement rate | 58.47% |
+| Avg session (s) | 142 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -31,60 +31,60 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 175 | 152 |
+| Organic Search | 178 | 155 |
 | Direct | 45 | 43 |
-| Unassigned | 23 | 22 |
+| Unassigned | 28 | 26 |
 | Organic Social | 8 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 96 | 85 |
+| United States | 97 | 86 |
 | Canada | 12 | 10 |
+| France | 10 | 7 |
 | Germany | 10 | 8 |
 | Hungary | 10 | 3 |
-| France | 9 | 6 |
 | Indonesia | 9 | 9 |
 | United Kingdom | 9 | 7 |
-| Australia | 6 | 6 |
+| Australia | 7 | 7 |
 | China | 6 | 6 |
-| Brazil | 4 | 4 |
+| Netherlands | 5 | 5 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 5,414 |
-| Clicks | 99 |
-| CTR | 1.83% |
-| Avg position | 11.6 |
+| Impressions | 6,646 |
+| Clicks | 126 |
+| CTR | 1.90% |
+| Avg position | 11.7 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| shannon larkin drum kit | 4 | 2 | 50.00% | 3.5 |
-| danny carey drum set | 29 | 1 | 3.45% | 9.8 |
-| drum set joey jordison | 5 | 1 | 20.00% | 11.4 |
+| mario duplantier gear | 16 | 2 | 12.50% | 8.7 |
+| shannon larkin drum kit | 5 | 2 | 40.00% | 3.0 |
+| best death metal drummers of all time | 1 | 1 | 100.00% | 5.0 |
+| chris turner drum kit | 2 | 1 | 50.00% | 3.0 |
+| chris turner drum setup | 1 | 1 | 100.00% | 3.0 |
+| danny carey drum set | 45 | 1 | 2.22% | 10.7 |
+| drum set joey jordison | 6 | 1 | 16.67% | 11.0 |
 | fastest double bass | 3 | 1 | 33.33% | 8.0 |
 | inferno drum kit | 1 | 1 | 100.00% | 6.0 |
-| mario duplantier drum kit | 35 | 1 | 2.86% | 9.6 |
-| mario duplantier gear | 9 | 1 | 11.11% | 9.1 |
-| mario duplantier kit | 5 | 1 | 20.00% | 6.6 |
-| matt greiner drum setup | 12 | 1 | 8.33% | 8.8 |
-| metalcore drum kit | 4 | 1 | 25.00% | 6.3 |
+| mario duplantier drum kit | 41 | 1 | 2.44% | 9.5 |
 
 ### Top countries (impressions, last 7d)
 | Country | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| usa | 1,805 | 34 | 1.88% | 11.8 |
-| can | 224 | 6 | 2.68% | 9.8 |
-| gbr | 315 | 6 | 1.90% | 11.8 |
-| deu | 171 | 5 | 2.92% | 10.0 |
-| idn | 145 | 5 | 3.45% | 14.7 |
-| hun | 31 | 4 | 12.90% | 5.4 |
-| per | 27 | 4 | 14.81% | 8.1 |
-| fra | 98 | 3 | 3.06% | 9.1 |
-| nld | 64 | 3 | 4.69% | 7.8 |
-| aus | 217 | 2 | 0.92% | 8.4 |
+| usa | 2,195 | 43 | 1.96% | 12.0 |
+| can | 279 | 7 | 2.51% | 11.0 |
+| deu | 217 | 7 | 3.23% | 9.4 |
+| gbr | 378 | 7 | 1.85% | 11.8 |
+| idn | 175 | 7 | 4.00% | 15.0 |
+| fra | 127 | 6 | 4.72% | 8.5 |
+| hun | 35 | 4 | 11.43% | 6.1 |
+| per | 31 | 4 | 12.90% | 8.0 |
+| aus | 267 | 3 | 1.12% | 8.5 |
+| bel | 33 | 3 | 9.09% | 7.4 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 _no significant gaps detected — all queries with traction have decent CTR_

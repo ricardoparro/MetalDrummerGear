@@ -87,6 +87,10 @@ jobs:
           # Optional 2nd subscription — drain.sh fails over to it when the
           # preferred token hits its usage limit (preferred is always tried first).
           CLAUDE_CODE_OAUTH_TOKEN_2: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN_2 }}
+          # Sonnet (2026-07-28): implementing well-specified, atomic issues in
+          # bulk is a strong Sonnet fit and it's the biggest quota consumer —
+          # switching here is the highest-leverage token saving available.
+          CLAUDE_MODEL: claude-sonnet-5
           REPO: ${{ github.repository }}
           GITHUB_RUN_ID: ${{ github.run_id }}
           ROADIE_WORKER_OFFSET: ${{ matrix.worker }}

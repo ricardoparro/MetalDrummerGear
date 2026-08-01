@@ -79,6 +79,10 @@ jobs:
           # 2nd subscription — run-claude.sh fails over to it when the primary
           # hits its session/usage limit, so a maxed-out plan doesn't kill the run.
           CLAUDE_CODE_OAUTH_TOKEN_2: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN_2 }}
+          # Sonnet (2026-07-28): proposal generation is mechanical rule-following
+          # (bank-cap check, GSC-gap scan) — Sonnet is a good fit and cheaper/
+          # faster than the CLI default. See docs/loops.md token-budget note.
+          CLAUDE_MODEL: claude-sonnet-5
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GOOGLE_APPLICATION_CREDENTIALS: ${{ runner.temp }}/gcp/metrics.json
           GA4_PROPERTY_ID: ${{ secrets.GA4_PROPERTY_ID }}

@@ -135,6 +135,19 @@ Agent reads on its next run.
   caused the stall. Current cadence after the 2026-07-28 rebalance: SEO
   2×/day, CEO every 6h, Roadie night 4-wide / day 2-wide. Restore planner
   cadence only once Roadie is consistently draining the queue.
+- **Model allocation (2026-07-28).** `run-claude.sh` (CEO/SEO) and
+  `.roadie/drain.sh` (Roadie) both accept `CLAUDE_MODEL` — set per-workflow via
+  `env:`, passed to the CLI as `--model`, empty inherits the CLI default.
+  **SEO Agent and Roadie pin `claude-sonnet-5`**: both do high-volume,
+  well-specified, mechanical work (rule-following proposal generation; bulk
+  implementation of atomic pre-scoped issues) — Sonnet is a strong fit and
+  materially cheaper/faster than the default, and Roadie is the single biggest
+  quota consumer, so this is the highest-leverage token saving available.
+  **CEO Agent stays unpinned** (default/Opus): it does higher-stakes judgment
+  — triage quality, atomic-split calls, cross-checking L1/L2/L3 verifier
+  output, catching fabrication risk (the #4160 tenure-verification class of
+  error) — at low volume (4×/day), where the stronger model matters more than
+  the cost delta.
 - **Branch prefixes:** `roadie/*` = the implementer (auto-reaped if DIRTY);
   `ralph/*` = legacy, still reaped during transition; `claude/*` = ad-hoc
   human/assistant branches.

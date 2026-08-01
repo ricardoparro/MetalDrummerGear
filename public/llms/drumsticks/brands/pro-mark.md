@@ -42,6 +42,11 @@ A: On our verified roster: Aquiles Priester, Chris Adler, Dave Lombardo, Eloy Ca
 **Q: What are Pro-Mark's most metal-relevant drumstick lines?**
 A: Model 2B. Full descriptions are in the Notable Lines section above.
 
+## Study Rankings
+
+- [Promark ranks #2 in sticks usage in our brand-usage study (18.1% of the roster).](https://metalforge.io/studies/most-used-gear-brands-metal)
+- [Promark ranks #8 for overall brand reach in our endorsement-landscape study (18.1% of the roster).](https://metalforge.io/studies/drum-endorsement-landscape)
+
 ## Other Drumstick Brands We Cover
 
 MetalForge tracks 10 drumstick brands relevant to metal drummers. Besides Pro-Mark, see:
@@ -65,4 +70,4 @@ MetalForge tracks 10 drumstick brands relevant to metal drummers. Besides Pro-Ma
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*

@@ -36,6 +36,11 @@ A: On our verified roster: Chris Adler, Jason Bittner. See the table above for e
 **Q: What are Mapex's most metal-relevant snare models?**
 A: Chris Adler Signature, Black Panther. Full descriptions are in the Notable Models section above.
 
+## Study Rankings
+
+- [Mapex ranks #5 in drum kits usage in our brand-usage study (5.6% of the roster).](https://metalforge.io/studies/most-used-gear-brands-metal)
+- [Mapex ranks #13 for overall brand reach in our endorsement-landscape study (5.6% of the roster).](https://metalforge.io/studies/drum-endorsement-landscape)
+
 ## Other Snare Brands We Cover
 
 MetalForge tracks 6 snare brands relevant to metal drummers. Besides Mapex, see:
@@ -55,4 +60,4 @@ MetalForge tracks 6 snare brands relevant to metal drummers. Besides Mapex, see:
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*

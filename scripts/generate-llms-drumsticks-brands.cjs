@@ -13,14 +13,23 @@
  * getConfirmedSticksForBrand() in drumstickBrands.js exactly (filter by
  * brand.dataBrandNames.includes(stick.brand)) — never hand-authored, so this
  * file can never show an endorsement the live page doesn't also show.
+ *
+ * Issue #5160: also renders getBrandStudyLinks() (packages/frontend/data/
+ * studies/index.js) as a "Study Rankings" section, mirroring the live
+ * DrumstickBrandPage.jsx / SSR meta (api/meta/[...path].js) surfaces. That
+ * module has real logic (imports + functions), not a plain object literal, so
+ * unlike loadModuleConsts() above it's loaded with a dynamic import() — same
+ * pattern as generate-llms-songs-per-slug.cjs.
  */
 
 'use strict';
 const fs = require('fs');
 const path = require('path');
+const { pathToFileURL } = require('url');
 
 const BASE = 'https://metalforge.io';
 const today = new Date().toISOString().split('T')[0];
+const STUDIES_DATA_PATH = path.join(__dirname, '../packages/frontend/data/studies/index.js');
 
 function loadModuleConsts(filePath, constNames) {
   const src = fs.readFileSync(filePath, 'utf-8');
@@ -90,7 +99,7 @@ function confirmedSticksForBrand(brand) {
   return DRUMSTICKS.filter((stick) => brand.dataBrandNames.includes(stick.brand));
 }
 
-function buildBrandMarkdown(brand, allBrands) {
+function buildBrandMarkdown(brand, allBrands, studyLinks) {
   const url = `${BASE}/drumsticks/brands/${brand.slug}`;
   const confirmedSticks = confirmedSticksForBrand(brand)
     .map((stick) => {
@@ -159,6 +168,15 @@ function buildBrandMarkdown(brand, allBrands) {
   parts.push(`A: ${lineNames}. Full descriptions are in the Notable Lines section above.`);
   parts.push('');
 
+  if (studyLinks.length > 0) {
+    parts.push('## Study Rankings');
+    parts.push('');
+    for (const link of studyLinks) {
+      parts.push(`- [${link.sentence}](${BASE}/studies/${link.studySlug})`);
+    }
+    parts.push('');
+  }
+
   const otherBrands = allBrands.filter((b) => b.slug !== brand.slug);
   if (otherBrands.length > 0) {
     parts.push('## Other Drumstick Brands We Cover');
@@ -185,21 +203,28 @@ function buildBrandMarkdown(brand, allBrands) {
   return parts.join('\n');
 }
 
-const outDir = path.join(__dirname, '../public/llms/drumsticks/brands');
-fs.mkdirSync(outDir, { recursive: true });
+async function main() {
+  const { getBrandStudyLinks } = await import(pathToFileURL(STUDIES_DATA_PATH).href);
 
-let written = 0;
-const shortFiles = [];
-for (const brand of DRUMSTICK_BRANDS) {
-  const md = buildBrandMarkdown(brand, DRUMSTICK_BRANDS);
-  fs.writeFileSync(path.join(outDir, `${brand.slug}.md`), md);
-  const wordCount = md.split(/\s+/).filter(Boolean).length;
-  if (wordCount < 300) shortFiles.push(`${brand.slug} (${wordCount} words)`);
-  written++;
+  const outDir = path.join(__dirname, '../public/llms/drumsticks/brands');
+  fs.mkdirSync(outDir, { recursive: true });
+
+  let written = 0;
+  const shortFiles = [];
+  for (const brand of DRUMSTICK_BRANDS) {
+    const studyLinks = getBrandStudyLinks(brand.name);
+    const md = buildBrandMarkdown(brand, DRUMSTICK_BRANDS, studyLinks);
+    fs.writeFileSync(path.join(outDir, `${brand.slug}.md`), md);
+    const wordCount = md.split(/\s+/).filter(Boolean).length;
+    if (wordCount < 300) shortFiles.push(`${brand.slug} (${wordCount} words)`);
+    written++;
+  }
+
+  console.log(`✅ Generated ${written} drumstick brand pages in public/llms/drumsticks/brands/`);
+  if (shortFiles.length) {
+    console.error(`WARNING: ${shortFiles.length} brand file(s) under 300 words: ${shortFiles.join(', ')}`);
+    process.exit(1);
+  }
 }
 
-console.log(`✅ Generated ${written} drumstick brand pages in public/llms/drumsticks/brands/`);
-if (shortFiles.length) {
-  console.error(`WARNING: ${shortFiles.length} brand file(s) under 300 words: ${shortFiles.join(', ')}`);
-  process.exit(1);
-}
+main();

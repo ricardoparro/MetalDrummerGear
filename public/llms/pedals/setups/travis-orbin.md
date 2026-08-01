@@ -38,4 +38,4 @@ A: Travis Orbin plays a DW 9000 Series double pedal (chain-drive).
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*

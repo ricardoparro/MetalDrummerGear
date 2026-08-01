@@ -34,6 +34,11 @@ A: On our verified roster: Lars Ulrich. See the table above for the exact model 
 **Q: What are Ahead's most metal-relevant drumstick lines?**
 A: Speed Metal (JJ1 / MT). Full descriptions are in the Notable Lines section above.
 
+## Study Rankings
+
+- [Ahead ranks #6 in sticks usage in our brand-usage study (1.4% of the roster).](https://metalforge.io/studies/most-used-gear-brands-metal)
+- [Ahead ranks #19 for overall brand reach in our endorsement-landscape study (1.4% of the roster).](https://metalforge.io/studies/drum-endorsement-landscape)
+
 ## Other Drumstick Brands We Cover
 
 MetalForge tracks 10 drumstick brands relevant to metal drummers. Besides Ahead, see:
@@ -57,4 +62,4 @@ MetalForge tracks 10 drumstick brands relevant to metal drummers. Besides Ahead,
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*

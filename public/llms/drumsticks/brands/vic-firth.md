@@ -46,6 +46,11 @@ A: On our verified roster: Adrian Erlandsson, Alex Bent, Charlie Benante, Danny 
 **Q: What are Vic Firth's most metal-relevant drumstick lines?**
 A: American Classic® Metal, American Classic® Extreme (X5A / X5B). Full descriptions are in the Notable Lines section above.
 
+## Study Rankings
+
+- [Vic Firth ranks #1 in sticks usage in our brand-usage study (61.1% of the roster).](https://metalforge.io/studies/most-used-gear-brands-metal)
+- [Vic Firth ranks #1 for overall brand reach in our endorsement-landscape study (61.1% of the roster).](https://metalforge.io/studies/drum-endorsement-landscape)
+
 ## Other Drumstick Brands We Cover
 
 MetalForge tracks 10 drumstick brands relevant to metal drummers. Besides Vic Firth, see:
@@ -69,4 +74,4 @@ MetalForge tracks 10 drumstick brands relevant to metal drummers. Besides Vic Fi
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*

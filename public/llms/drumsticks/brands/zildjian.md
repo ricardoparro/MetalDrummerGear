@@ -31,6 +31,11 @@ A: No drummer on our verified roster currently has a confirmed Zildjian endorsem
 **Q: What are Zildjian's most metal-relevant drumstick lines?**
 A: Absolute Rock, DIP Series. Full descriptions are in the Notable Lines section above.
 
+## Study Rankings
+
+- [Zildjian ranks #1 in cymbals usage in our brand-usage study (31.9% of the roster).](https://metalforge.io/studies/most-used-gear-brands-metal)
+- [Zildjian ranks #3 for overall brand reach in our endorsement-landscape study (31.9% of the roster).](https://metalforge.io/studies/drum-endorsement-landscape)
+
 ## Other Drumstick Brands We Cover
 
 MetalForge tracks 10 drumstick brands relevant to metal drummers. Besides Zildjian, see:
@@ -54,4 +59,4 @@ MetalForge tracks 10 drumstick brands relevant to metal drummers. Besides Zildji
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*

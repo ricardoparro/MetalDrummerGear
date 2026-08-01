@@ -49,4 +49,4 @@ A: Plastic beaters give a brighter, more defined, cutting attack and are the sta
 - [Pedals Guide](https://metalforge.io/llms/pedals.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*

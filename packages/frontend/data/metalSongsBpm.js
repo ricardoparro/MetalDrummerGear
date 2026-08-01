@@ -42,11 +42,23 @@
  * App.js, api/meta/[...path].js, and api/sitemap.js. This keeps rule 1 (ONE
  * data module) intact: every consumer imports getSongPageSlugs() instead of
  * reimplementing the criteria.
+ *
+ * Issue #5169 (L4 perf regression): the album-article/lick lookup used to be
+ * a live join against the full ALBUM_ARTICLES (12MB)/SIGNATURE_LICKS (1.6MB)
+ * modules, imported here at the top level. This module is statically
+ * imported by three separate lazy route chunks (SongsHubPage,
+ * SongsListPages, SongDetailPage), and albumArticles/licks were already
+ * reachable from a fourth (App.js's own loadAlbumArticles) — so Metro's web
+ * serializer hoisted both multi-megabyte modules into the shared __common
+ * bundle, downloaded on every page, not just /songs pages. The join is now
+ * precomputed at build time into ./songPageGate.js (regenerate with
+ * `node scripts/compute-song-page-gate.cjs` whenever the song list,
+ * data/albumArticles/, or data/licks/ change) — same "generated file, single
+ * source of truth" pattern as data/studies/*.js.
  */
 
 import { drummerBirthdays } from './birthdays.js';
-import { ALBUM_ARTICLES } from './albumArticles/index.js';
-import { SIGNATURE_LICKS } from './licks/index.js';
+import { SONG_PAGE_GATE } from './songPageGate.js';
 
 // Tempo range definitions for metal
 export const TEMPO_RANGES = {
@@ -570,23 +582,7 @@ export function getDrummersWithSongCounts(minCount = DRUMMER_SONGS_MIN_COUNT) {
     .sort((a, b) => b.count - a.count);
 }
 
-const _normalizeForMatch = (s) => (s || '').toLowerCase().replace(/[^a-z0-9]+/g, ' ').trim();
-
 const _songRosterSlugs = new Set(drummerBirthdays.map(d => d.slug));
-const _albumArticlesList = Object.values(ALBUM_ARTICLES);
-const _licksList = Object.values(SIGNATURE_LICKS);
-
-function _findAlbumArticleForSong(song) {
-  return _albumArticlesList.find(a =>
-    a.relatedDrummerSlug === song.drummer && _normalizeForMatch(a.albumTitle) === _normalizeForMatch(song.album)
-  ) || null;
-}
-
-function _findLickForSong(song) {
-  return _licksList.find(l =>
-    l.drummerSlug === song.drummer && _normalizeForMatch(l.song) === _normalizeForMatch(song.song)
-  ) || null;
-}
 
 /** Minimum number of richness criteria (of 4) a roster song must clear to earn a /songs/<slug> page. */
 export const SONG_PAGE_MIN_CRITERIA = 2;
@@ -610,17 +606,10 @@ export const SONG_PAGE_MIN_CRITERIA = 2;
  */
 export function getSongPageGate(song) {
   const inRoster = _songRosterSlugs.has(song.drummer);
-  const lick = _findLickForSong(song);
-  const albumArticle = _findAlbumArticleForSong(song);
-  const video = lick
-    ? ((lick.video && lick.video.youtubeId)
-        ? { youtubeId: lick.video.youtubeId, title: lick.video.title, startTime: lick.video.startTime, endTime: lick.video.endTime }
-        : (lick.tutorial && lick.tutorial.youtubeId)
-          ? { youtubeId: lick.tutorial.youtubeId, title: lick.tutorial.title, startTime: lick.tutorial.startTime, endTime: lick.tutorial.endTime }
-          : null)
-    : null;
+  const precomputed = SONG_PAGE_GATE[song.slug] || { hasLick: false, lickDescription: null, albumArticle: null, video: null };
+  const { hasLick, lickDescription, albumArticle, video } = precomputed;
   const notableFact = (song.notableFact && song.notableFact.source) ? song.notableFact : null;
-  const hasTechniqueContent = !!song.bpmNote || !!lick;
+  const hasTechniqueContent = !!song.bpmNote || hasLick;
   const criteriaCount =
     (hasTechniqueContent ? 1 : 0) +
     (albumArticle ? 1 : 0) +
@@ -629,7 +618,7 @@ export function getSongPageGate(song) {
   return {
     inRoster,
     hasTechniqueContent,
-    lick,
+    lick: hasLick ? { description: lickDescription } : null,
     albumArticle,
     video,
     notableFact,

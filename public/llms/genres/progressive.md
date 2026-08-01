@@ -56,6 +56,11 @@ A: Djent drumming (associated with Meshuggah, Periphery, Animals as Leaders) fea
 **Q: How does Tool's drumming differ from other prog metal?**
 A: Danny Carey blends tribal rhythm, jazz improvisation, and mathematical polyrhythms with Tool's unconventional song structures. He incorporates extended instrument setups including gongs, electronic pads, and custom-built percussion. His approach is more intuitive and spiritual compared to Meshuggah's mathematical precision or Dream Theater's compositional complexity.
 
+## Study Rankings
+
+- [Progressive Metal averages 127.2 BPM across 25 songs in our tempo-by-subgenre study.](https://metalforge.io/studies/metal-tempo-by-subgenre)
+- [Progressive Metal drummers' bass-pedal configurations are broken down in our kit-configurations study.](https://metalforge.io/studies/metal-kit-configurations)
+
 ## Related Content
 - [Mike Portnoy drum setup](/drummer/mike-portnoy)
 - [Danny Carey drum setup](/drummer/danny-carey)

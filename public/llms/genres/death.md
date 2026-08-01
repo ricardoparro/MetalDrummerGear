@@ -55,6 +55,11 @@ A: Death metal demands simultaneous coordination of: continuous 16th-note double
 **Q: What is a gravity blast?**
 A: A gravity blast (also called a "push-pull blast") is a one-handed snare technique that exploits stick bounce and gravity to execute rapid single-hand strokes without traditional technique. It allows extremely fast snare patterns using one hand, freeing the other for additional patterns or cymbal accents.
 
+## Study Rankings
+
+- [Death Metal averages 176.9 BPM across 27 songs in our tempo-by-subgenre study.](https://metalforge.io/studies/metal-tempo-by-subgenre)
+- [Death Metal drummers' bass-pedal configurations are broken down in our kit-configurations study.](https://metalforge.io/studies/metal-kit-configurations)
+
 ## Related Content
 - [Gene Hoglan drum setup](/drummer/gene-hoglan)
 - [George Kollias drum setup](/drummer/george-kollias)

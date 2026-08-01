@@ -3015,7 +3015,10 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
     const normalize = (s) => (s || '').toLowerCase().replace(/[^a-z0-9]+/g, ' ').trim();
     preloadMetalSongsBpm().then((mod) => {
       if (!mounted) return;
-      const qualifyingSlugs = new Set(mod.getSongPageSlugs());
+      // Album articles are already loaded by this point — this effect only
+      // runs once `list`/`isAlbumArticle` are set, which happens after
+      // loadData()'s `await preloadAlbumArticles()` above resolves.
+      const qualifyingSlugs = new Set(mod.getSongPageSlugs(getAllAlbumArticles()));
       const map = {};
       list.trackAnalysis.forEach((track) => {
         const song = mod.metalSongs.find(s =>
@@ -13014,9 +13017,9 @@ function BpmTapPage({ theme, onBack, drummers, onSelectDrummer }) {
   useEffect(() => {
     let mounted = true;
     const normalize = (s) => (s || '').toLowerCase().replace(/[^a-z0-9]+/g, ' ').trim();
-    preloadMetalSongsBpm().then((mod) => {
+    Promise.all([preloadMetalSongsBpm(), preloadAlbumArticles()]).then(([mod]) => {
       if (!mounted) return;
-      const qualifyingSlugs = new Set(mod.getSongPageSlugs());
+      const qualifyingSlugs = new Set(mod.getSongPageSlugs(getAllAlbumArticles()));
       const map = {};
       METAL_SONGS_DATABASE.forEach((s) => {
         const key = `${normalize(s.band)}|${normalize(s.song)}`;

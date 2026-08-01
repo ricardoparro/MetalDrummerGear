@@ -17,6 +17,7 @@ import {
   getSongPageSlugs,
   FASTEST_SONGS_MIN_BPM,
 } from '../data/metalSongsBpm';
+import { useAlbumArticlesList } from '../utils/useAlbumArticlesList';
 
 const BASE_URL = 'https://metalforge.io';
 
@@ -93,7 +94,8 @@ export function SongsHubPage({ drummers = [] }) {
   const genres = useMemo(() => getAllGenres(), []);
   const bands = useMemo(() => getAllBands(), []);
   const fastestCount = useMemo(() => getFastestMetalSongs().length, []);
-  const qualifyingSlugs = useMemo(() => new Set(getSongPageSlugs()), []);
+  const albumArticlesList = useAlbumArticlesList();
+  const qualifyingSlugs = useMemo(() => new Set(getSongPageSlugs(albumArticlesList)), [albumArticlesList]);
 
   const [genreFilter, setGenreFilter] = useState('');
   const [bandFilter, setBandFilter] = useState('');

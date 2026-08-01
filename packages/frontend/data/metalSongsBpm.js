@@ -42,10 +42,24 @@
  * App.js, api/meta/[...path].js, and api/sitemap.js. This keeps rule 1 (ONE
  * data module) intact: every consumer imports getSongPageSlugs() instead of
  * reimplementing the criteria.
+ *
+ * Fix #5169 (L4 perf regression): the album-article list is now a PARAMETER
+ * (`albumArticlesList`) instead of a static top-level `import ALBUM_ARTICLES
+ * from './albumArticles/index.js'`. This module is only ever reached from
+ * the client through a dynamic `import()` (see App.js's preloadMetalSongsBpm
+ * and the lazy /songs pages) — a static edge to the multi-MB album-articles
+ * dataset from inside that already-async chunk made it reachable from two
+ * separate async chunks (the pre-existing `import('./data/albumArticles')`
+ * loader, and this one), and Metro's bundler responded by hoisting the whole
+ * album-articles dataset into the always-loaded `__common` chunk, adding
+ * megabytes of transfer + parse/TBT time to every single page — including
+ * ones (homepage, gear hubs) that never touch songs or album articles at
+ * all. Callers now pass the already-loaded album-articles list in explicitly
+ * (server callers import it directly; client callers await the existing
+ * `preloadAlbumArticles()`/`import('../data/albumArticles')` chunk first).
  */
 
 import { drummerBirthdays } from './birthdays.js';
-import { ALBUM_ARTICLES } from './albumArticles/index.js';
 import { SIGNATURE_LICKS } from './licks/index.js';
 
 // Tempo range definitions for metal
@@ -573,11 +587,10 @@ export function getDrummersWithSongCounts(minCount = DRUMMER_SONGS_MIN_COUNT) {
 const _normalizeForMatch = (s) => (s || '').toLowerCase().replace(/[^a-z0-9]+/g, ' ').trim();
 
 const _songRosterSlugs = new Set(drummerBirthdays.map(d => d.slug));
-const _albumArticlesList = Object.values(ALBUM_ARTICLES);
 const _licksList = Object.values(SIGNATURE_LICKS);
 
-function _findAlbumArticleForSong(song) {
-  return _albumArticlesList.find(a =>
+function _findAlbumArticleForSong(song, albumArticlesList) {
+  return (albumArticlesList || []).find(a =>
     a.relatedDrummerSlug === song.drummer && _normalizeForMatch(a.albumTitle) === _normalizeForMatch(song.album)
   ) || null;
 }
@@ -606,12 +619,15 @@ export const SONG_PAGE_MIN_CRITERIA = 2;
  *   4. a `notableFact` field with a `source` (not present in this dataset
  *      yet — reserved for a future data pass)
  * @param {object} song
+ * @param {object[]} [albumArticlesList] - `Object.values(ALBUM_ARTICLES)` from
+ *   packages/frontend/data/albumArticles/index.js. Not imported directly by
+ *   this module (see the fix #5169 note above) — callers pass it in.
  * @returns {{inRoster: boolean, hasTechniqueContent: boolean, lick: object|null, albumArticle: object|null, video: {youtubeId: string, title: string, startTime: number|undefined, endTime: number|undefined}|null, notableFact: object|null, criteriaCount: number, qualifies: boolean}}
  */
-export function getSongPageGate(song) {
+export function getSongPageGate(song, albumArticlesList = []) {
   const inRoster = _songRosterSlugs.has(song.drummer);
   const lick = _findLickForSong(song);
-  const albumArticle = _findAlbumArticleForSong(song);
+  const albumArticle = _findAlbumArticleForSong(song, albumArticlesList);
   const video = lick
     ? ((lick.video && lick.video.youtubeId)
         ? { youtubeId: lick.video.youtubeId, title: lick.video.title, startTime: lick.video.startTime, endTime: lick.video.endTime }
@@ -644,10 +660,11 @@ export function getSongPageGate(song) {
  * /llms/songs/<slug>.md generator all derive from. Under-gate songs are
  * never linked to a /songs/<slug> URL; they stay list-only (hub, tempo-tier,
  * flagship, and by-drummer tables).
+ * @param {object[]} [albumArticlesList] - see getSongPageGate.
  * @returns {string[]}
  */
-export function getSongPageSlugs() {
-  return metalSongs.filter(s => getSongPageGate(s).qualifies).map(s => s.slug);
+export function getSongPageSlugs(albumArticlesList = []) {
+  return metalSongs.filter(s => getSongPageGate(s, albumArticlesList).qualifies).map(s => s.slug);
 }
 
 /**
@@ -659,17 +676,18 @@ export function getSongPageSlugs() {
  * should treat both cases identically (fall through to the normal 404/list
  * experience, never render a thin template).
  * @param {string} slug
+ * @param {object[]} [albumArticlesList] - see getSongPageGate.
  * @returns {object|null}
  */
-export function getSongPageData(slug) {
+export function getSongPageData(slug, albumArticlesList = []) {
   const song = getSongBySlug(slug);
   if (!song) return null;
-  const gate = getSongPageGate(song);
+  const gate = getSongPageGate(song, albumArticlesList);
   if (!gate.qualifies) return null;
 
   const range = getTempoRange(song.bpm);
   const tier = { slug: TEMPO_TIER_SLUGS[Object.keys(TEMPO_RANGES).find(k => TEMPO_RANGES[k] === range)], ...range };
-  const qualifyingSlugs = new Set(getSongPageSlugs());
+  const qualifyingSlugs = new Set(getSongPageSlugs(albumArticlesList));
   const relatedSongs = metalSongs
     .filter(s => s.slug !== song.slug && qualifyingSlugs.has(s.slug) && (s.band === song.band || getTempoRange(s.bpm) === range))
     .sort((a, b) => {

@@ -20,6 +20,7 @@ const { pathToFileURL } = require('url');
 
 const BASE = 'https://metalforge.io';
 const DATA_PATH = path.join(__dirname, '../packages/frontend/data/metalSongsBpm.js');
+const ALBUM_ARTICLES_PATH = path.join(__dirname, '../packages/frontend/data/albumArticles/index.js');
 
 function titleCaseSlug(slug) {
   if (!slug) return '';
@@ -161,12 +162,14 @@ const FASTEST_SONGS_SLUG = 'fastest-metal-songs';
 async function main() {
   const mod = await import(pathToFileURL(DATA_PATH).href);
   const { getSongPageSlugs, getSongPageData, getFastestMetalSongs, FASTEST_SONGS_MIN_BPM } = mod;
+  const { ALBUM_ARTICLES } = await import(pathToFileURL(ALBUM_ARTICLES_PATH).href);
+  const albumArticlesList = Object.values(ALBUM_ARTICLES);
 
   const today = new Date().toISOString().split('T')[0];
   const outDir = path.join(__dirname, '../public/llms/songs');
   fs.mkdirSync(outDir, { recursive: true });
 
-  const slugs = getSongPageSlugs();
+  const slugs = getSongPageSlugs(albumArticlesList);
 
   // Remove stale per-song files for slugs that no longer clear the gate so
   // coverage can never silently drift ahead of what's actually live. The
@@ -184,7 +187,7 @@ async function main() {
 
   let written = 0;
   for (const slug of slugs) {
-    const song = getSongPageData(slug);
+    const song = getSongPageData(slug, albumArticlesList);
     if (!song) continue;
     const md = buildMarkdown(song, today);
     fs.writeFileSync(path.join(outDir, `${slug}.md`), md);

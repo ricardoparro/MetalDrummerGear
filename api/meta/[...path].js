@@ -6116,7 +6116,7 @@ export function getMetaForPath(pathname) {
   // "what is the fastest metal song?" from the top-ranked entry's own source.
   if (path === '/songs/fastest-metal-songs') {
     const songs = getFastestMetalSongs();
-    const songPageSlugs = new Set(getSongPageSlugs());
+    const songPageSlugs = new Set(getSongPageSlugs(Object.values(ALBUM_ARTICLES)));
     const top = songs[0];
     const ssrLinks = _dedupeSsrLinksByHref(
       songs.filter(s => s.drummer && drummerSlugToName[s.drummer]).map(s => ({
@@ -6176,7 +6176,7 @@ export function getMetaForPath(pathname) {
   if (songsTempoTierMatch) {
     const tier = getTempoTierBySlug(songsTempoTierMatch[1].toLowerCase());
     if (tier) {
-      const songPageSlugs = new Set(getSongPageSlugs());
+      const songPageSlugs = new Set(getSongPageSlugs(Object.values(ALBUM_ARTICLES)));
       const ssrLinks = _dedupeSsrLinksByHref(
         tier.songs.filter(s => s.drummer && drummerSlugToName[s.drummer]).map(s => ({
           href: `/drummer/${s.drummer}`,
@@ -6237,7 +6237,7 @@ export function getMetaForPath(pathname) {
     const drummerName = drummerSlugToName[drummerSlug];
     const songs = getSongsByDrummerSlug(drummerSlug);
     if (drummerName && songs.length >= DRUMMER_SONGS_MIN_COUNT) {
-      const songPageSlugs = new Set(getSongPageSlugs());
+      const songPageSlugs = new Set(getSongPageSlugs(Object.values(ALBUM_ARTICLES)));
       return {
         title: `${drummerName} Songs by BPM | ${SITE_NAME}`,
         description: `${songs.length} songs in MetalForge's database drummed by ${drummerName}, ranked fastest first.`,
@@ -6296,7 +6296,7 @@ export function getMetaForPath(pathname) {
   // the song's own module fields (bpm, bpmNote, drummer, band, album, year).
   const songDetailMatch = path.match(/^\/songs\/([a-z0-9-]+)$/);
   if (songDetailMatch) {
-    const song = getSongPageData(songDetailMatch[1].toLowerCase());
+    const song = getSongPageData(songDetailMatch[1].toLowerCase(), Object.values(ALBUM_ARTICLES));
     if (song) {
       const songUrl = `${BASE_URL}/songs/${song.slug}`;
       const drummerName = drummerSlugToName[song.drummer] || humanizeSongDrummerSlug(song.drummer);

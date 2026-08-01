@@ -11,6 +11,7 @@ import React, { useEffect, useContext, useMemo, useState } from 'react';
 import { View, Text, ScrollView, StyleSheet, Platform, useWindowDimensions } from 'react-native';
 import { ThemeContext } from '../ThemeContext';
 import { getSongPageData } from '../data/metalSongsBpm';
+import { useAlbumArticlesList } from '../utils/useAlbumArticlesList';
 
 const BASE_URL = 'https://metalforge.io';
 
@@ -156,7 +157,8 @@ function SongVideo({ video, theme }) {
 
 export function SongDetailPage({ slug, drummers = [] }) {
   const theme = useContext(ThemeContext);
-  const song = useMemo(() => getSongPageData(slug), [slug]);
+  const albumArticlesList = useAlbumArticlesList();
+  const song = useMemo(() => getSongPageData(slug, albumArticlesList), [slug, albumArticlesList]);
 
   const drummerBySlug = useMemo(() => new Map(
     (drummers || []).map(d => [

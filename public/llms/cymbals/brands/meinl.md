@@ -32,6 +32,11 @@ These 8 entries are pulled directly from MetalForge's verified cymbal setups dat
 
 Source: [Meinl Cymbals — Wiki (company background & Byzance manufacturing)](https://meinlcymbals.com/en/Wiki).
 
+## Study Rankings
+
+- Meinl ranks #4 in cymbals usage in our brand-usage study (16.7% of the roster). [Most-Used Drum & Cymbal Brands in Metal](https://metalforge.io/studies/most-used-gear-brands-metal)
+- Meinl ranks #9 for overall brand reach in our endorsement-landscape study (16.7% of the roster). [The Drum Endorsement Landscape in Metal](https://metalforge.io/studies/drum-endorsement-landscape)
+
 ## FAQ
 
 **Q: What cymbals does Meinl make for metal drummers?**
@@ -60,4 +65,4 @@ MetalForge tracks 4 cymbal brands relevant to metal drummers. Besides Meinl, see
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*

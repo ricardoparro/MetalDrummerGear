@@ -23,8 +23,15 @@
 
 const fs = require('fs');
 const path = require('path');
+const { pathToFileURL } = require('url');
 
 const BASE = 'https://metalforge.io';
+
+// studies/index.js has real logic (imports + getBrandStudyLinks), not a plain
+// object literal, so it can't go through loadModuleConsts' eval-extraction
+// below — it's loaded with a dynamic import() inside main() instead, same
+// pattern as generate-llms-songs-per-slug.cjs (issue #5160).
+const STUDIES_DATA_PATH = path.join(__dirname, '../packages/frontend/data/studies/index.js');
 
 // ---------------------------------------------------------------------------
 // Load live data (regex+eval extraction pattern shared by the sibling
@@ -317,7 +324,7 @@ function buildReferenceMarkdown(page) {
 // of #4394)
 // ---------------------------------------------------------------------------
 
-function buildBrandMarkdown(brand) {
+function buildBrandMarkdown(brand, studyLinks) {
   const url = `${BASE}/pedals/brands/${brand.slug}`;
   const confirmedPedals = pedalsForBrand(brand)
     .map((pedal) => {
@@ -366,6 +373,15 @@ function buildBrandMarkdown(brand) {
 
   parts.push(`Source: [${brand.source.label}](${brand.source.url}).`);
   parts.push('');
+
+  if (studyLinks.length > 0) {
+    parts.push('## Study Rankings');
+    parts.push('');
+    for (const link of studyLinks) {
+      parts.push(`- ${link.sentence} [${link.studyTitle}](${BASE}/studies/${link.studySlug})`);
+    }
+    parts.push('');
+  }
 
   parts.push('## More Resources');
   parts.push('');
@@ -474,40 +490,47 @@ function buildHubMarkdown() {
 // Write files
 // ---------------------------------------------------------------------------
 
-const outRoot = path.join(__dirname, '../public/llms');
-const setupsDir = path.join(outRoot, 'pedals/setups');
-const brandsDir = path.join(outRoot, 'pedals/brands');
-fs.mkdirSync(setupsDir, { recursive: true });
-fs.mkdirSync(brandsDir, { recursive: true });
+async function main() {
+  const { getBrandStudyLinks } = await import(pathToFileURL(STUDIES_DATA_PATH).href);
 
-fs.writeFileSync(path.join(outRoot, 'pedals.md'), buildHubMarkdown());
+  const outRoot = path.join(__dirname, '../public/llms');
+  const setupsDir = path.join(outRoot, 'pedals/setups');
+  const brandsDir = path.join(outRoot, 'pedals/brands');
+  fs.mkdirSync(setupsDir, { recursive: true });
+  fs.mkdirSync(brandsDir, { recursive: true });
 
-for (const slug of REFERENCE_PAGE_ORDER) {
-  const md = buildReferenceMarkdown(REFERENCE_PAGES[slug]);
-  fs.writeFileSync(path.join(outRoot, 'pedals', `${slug}.md`), md);
+  fs.writeFileSync(path.join(outRoot, 'pedals.md'), buildHubMarkdown());
+
+  for (const slug of REFERENCE_PAGE_ORDER) {
+    const md = buildReferenceMarkdown(REFERENCE_PAGES[slug]);
+    fs.writeFileSync(path.join(outRoot, 'pedals', `${slug}.md`), md);
+  }
+
+  let written = 0;
+  const shortFiles = [];
+  for (const entry of pedalDrummers) {
+    const md = buildSetupMarkdown(entry);
+    fs.writeFileSync(path.join(setupsDir, `${entry.slug}.md`), md);
+    const wordCount = md.split(/\s+/).filter(Boolean).length;
+    if (wordCount < 100) shortFiles.push(`${entry.slug} (${wordCount} words)`);
+    written++;
+  }
+
+  for (const brand of PEDAL_BRANDS) {
+    const studyLinks = getBrandStudyLinks(brand.name);
+    const md = buildBrandMarkdown(brand, studyLinks);
+    fs.writeFileSync(path.join(brandsDir, `${brand.slug}.md`), md);
+    const wordCount = md.split(/\s+/).filter(Boolean).length;
+    if (wordCount < 100) shortFiles.push(`brands/${brand.slug} (${wordCount} words)`);
+    written++;
+  }
+
+  const totalFiles = 1 + REFERENCE_PAGE_ORDER.length + written;
+  console.log(`Wrote public/llms/pedals.md, ${REFERENCE_PAGE_ORDER.length} reference pages, ${PEDAL_BRANDS.length} brand pages, ${written - PEDAL_BRANDS.length} per-drummer setup files (${totalFiles} total).`);
+  if (shortFiles.length) {
+    console.error(`WARNING: ${shortFiles.length} setup file(s) under 100 words: ${shortFiles.join(', ')}`);
+    process.exit(1);
+  }
 }
 
-let written = 0;
-const shortFiles = [];
-for (const entry of pedalDrummers) {
-  const md = buildSetupMarkdown(entry);
-  fs.writeFileSync(path.join(setupsDir, `${entry.slug}.md`), md);
-  const wordCount = md.split(/\s+/).filter(Boolean).length;
-  if (wordCount < 100) shortFiles.push(`${entry.slug} (${wordCount} words)`);
-  written++;
-}
-
-for (const brand of PEDAL_BRANDS) {
-  const md = buildBrandMarkdown(brand);
-  fs.writeFileSync(path.join(brandsDir, `${brand.slug}.md`), md);
-  const wordCount = md.split(/\s+/).filter(Boolean).length;
-  if (wordCount < 100) shortFiles.push(`brands/${brand.slug} (${wordCount} words)`);
-  written++;
-}
-
-const totalFiles = 1 + REFERENCE_PAGE_ORDER.length + written;
-console.log(`Wrote public/llms/pedals.md, ${REFERENCE_PAGE_ORDER.length} reference pages, ${PEDAL_BRANDS.length} brand pages, ${written - PEDAL_BRANDS.length} per-drummer setup files (${totalFiles} total).`);
-if (shortFiles.length) {
-  console.error(`WARNING: ${shortFiles.length} setup file(s) under 100 words: ${shortFiles.join(', ')}`);
-  process.exit(1);
-}
+main().catch((e) => { console.error(`FATAL: ${e.stack || e.message}`); process.exit(1); });

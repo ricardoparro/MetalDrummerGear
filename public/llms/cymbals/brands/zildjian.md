@@ -46,6 +46,11 @@ These 22 entries are pulled directly from MetalForge's verified cymbal setups da
 
 Source: [Zildjian — Frequently Asked Questions (company history & alloy)](https://zildjian.com/pages/frequently-asked-questions).
 
+## Study Rankings
+
+- Zildjian ranks #1 in cymbals usage in our brand-usage study (31.9% of the roster). [Most-Used Drum & Cymbal Brands in Metal](https://metalforge.io/studies/most-used-gear-brands-metal)
+- Zildjian ranks #3 for overall brand reach in our endorsement-landscape study (31.9% of the roster). [The Drum Endorsement Landscape in Metal](https://metalforge.io/studies/drum-endorsement-landscape)
+
 ## FAQ
 
 **Q: What cymbals does Zildjian make for metal drummers?**
@@ -74,4 +79,4 @@ MetalForge tracks 4 cymbal brands relevant to metal drummers. Besides Zildjian, 
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*

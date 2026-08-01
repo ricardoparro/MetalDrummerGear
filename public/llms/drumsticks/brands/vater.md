@@ -19,6 +19,11 @@ We haven't verified a Vater Percussion drumstick played by one of our mapped met
 
 Source: [Vater Percussion — company background (Wikipedia)](https://en.wikipedia.org/wiki/Vater_Percussion).
 
+## Study Rankings
+
+- Vater ranks #3 in sticks usage in our brand-usage study (8.3% of the roster). [Most-Used Drum & Cymbal Brands in Metal](https://metalforge.io/studies/most-used-gear-brands-metal)
+- Vater ranks #11 for overall brand reach in our endorsement-landscape study (8.3% of the roster). [The Drum Endorsement Landscape in Metal](https://metalforge.io/studies/drum-endorsement-landscape)
+
 ## FAQ
 
 **Q: What drumsticks does Vater Percussion make for metal drummers?**
@@ -53,4 +58,4 @@ MetalForge tracks 10 drumstick brands relevant to metal drummers. Besides Vater 
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*

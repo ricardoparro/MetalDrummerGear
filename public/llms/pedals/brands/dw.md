@@ -33,6 +33,11 @@
 
 Source: [DW — The DW Story](https://dwdrums.com/the-dw-story/).
 
+## Study Rankings
+
+- Ludwig ranks #7 in drum kits usage in our brand-usage study (4.2% of the roster). [Most-Used Drum & Cymbal Brands in Metal](https://metalforge.io/studies/most-used-gear-brands-metal)
+- DW ranks #7 for overall brand reach in our endorsement-landscape study (19.4% of the roster). [The Drum Endorsement Landscape in Metal](https://metalforge.io/studies/drum-endorsement-landscape)
+
 ## More Resources
 
 - [Full DW brand history](https://metalforge.io/brands/dw)
@@ -43,4 +48,4 @@ Source: [DW — The DW Story](https://dwdrums.com/the-dw-story/).
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*

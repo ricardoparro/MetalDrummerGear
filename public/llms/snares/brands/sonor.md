@@ -29,6 +29,11 @@ These 6 entries are pulled directly from MetalForge's verified snares database, 
 
 Source: [Sonor — Wikipedia (company history)](https://en.wikipedia.org/wiki/Sonor).
 
+## Study Rankings
+
+- Sonor ranks #3 in drum kits usage in our brand-usage study (12.5% of the roster). [Most-Used Drum & Cymbal Brands in Metal](https://metalforge.io/studies/most-used-gear-brands-metal)
+- Sonor ranks #10 for overall brand reach in our endorsement-landscape study (12.5% of the roster). [The Drum Endorsement Landscape in Metal](https://metalforge.io/studies/drum-endorsement-landscape)
+
 ## FAQ
 
 **Q: What snares does Sonor make for metal drummers?**
@@ -59,4 +64,4 @@ MetalForge tracks 6 snare brands relevant to metal drummers. Besides Sonor, see:
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*

@@ -17,6 +17,11 @@
 
 Source: [MetalForge — Pedals Guide (verified roster data)](https://metalforge.io/pedals).
 
+## Study Rankings
+
+- Trick ranks #11 in pedals usage in our brand-usage study (1.4% of the roster). [Most-Used Drum & Cymbal Brands in Metal](https://metalforge.io/studies/most-used-gear-brands-metal)
+- Trick ranks #23 for overall brand reach in our endorsement-landscape study (1.4% of the roster). [The Drum Endorsement Landscape in Metal](https://metalforge.io/studies/drum-endorsement-landscape)
+
 ## More Resources
 
 - [Live page](https://metalforge.io/pedals/brands/trick)
@@ -26,4 +31,4 @@ Source: [MetalForge — Pedals Guide (verified roster data)](https://metalforge.
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*

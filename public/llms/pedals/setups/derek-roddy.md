@@ -38,4 +38,4 @@ A: Derek Roddy plays a Tama Speed Cobra 910 double pedal (chain-drive).
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*

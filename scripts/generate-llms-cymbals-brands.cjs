@@ -18,9 +18,16 @@
 'use strict';
 const fs = require('fs');
 const path = require('path');
+const { pathToFileURL } = require('url');
 
 const BASE = 'https://metalforge.io';
 const today = new Date().toISOString().split('T')[0];
+
+// studies/index.js has real logic (imports + getBrandStudyLinks), not a plain
+// object literal, so it can't go through loadModuleConsts' eval-extraction
+// below — it's loaded with a dynamic import() inside main() instead, same
+// pattern as generate-llms-songs-per-slug.cjs (issue #5160).
+const STUDIES_DATA_PATH = path.join(__dirname, '../packages/frontend/data/studies/index.js');
 
 function loadModuleConsts(filePath, constNames) {
   const src = fs.readFileSync(filePath, 'utf-8');
@@ -90,7 +97,7 @@ function confirmedSetupsForBrand(brand) {
   return CYMBAL_SETUPS.filter((setup) => setup.brands.some((b) => brand.dataBrandNames.includes(b)));
 }
 
-function buildBrandMarkdown(brand, allBrands) {
+function buildBrandMarkdown(brand, allBrands, studyLinks) {
   const url = `${BASE}/cymbals/brands/${brand.slug}`;
   const confirmedSetups = confirmedSetupsForBrand(brand)
     .map((setup) => {
@@ -141,6 +148,15 @@ function buildBrandMarkdown(brand, allBrands) {
   parts.push(`Source: [${brand.source.label}](${brand.source.url}).`);
   parts.push('');
 
+  if (studyLinks.length > 0) {
+    parts.push('## Study Rankings');
+    parts.push('');
+    for (const link of studyLinks) {
+      parts.push(`- ${link.sentence} [${link.studyTitle}](${BASE}/studies/${link.studySlug})`);
+    }
+    parts.push('');
+  }
+
   parts.push('## FAQ');
   parts.push('');
   parts.push(`**Q: What cymbals does ${brand.name} make for metal drummers?**`);
@@ -185,21 +201,28 @@ function buildBrandMarkdown(brand, allBrands) {
   return parts.join('\n');
 }
 
-const outDir = path.join(__dirname, '../public/llms/cymbals/brands');
-fs.mkdirSync(outDir, { recursive: true });
+async function main() {
+  const { getBrandStudyLinks } = await import(pathToFileURL(STUDIES_DATA_PATH).href);
 
-let written = 0;
-const shortFiles = [];
-for (const brand of CYMBAL_BRANDS) {
-  const md = buildBrandMarkdown(brand, CYMBAL_BRANDS);
-  fs.writeFileSync(path.join(outDir, `${brand.slug}.md`), md);
-  const wordCount = md.split(/\s+/).filter(Boolean).length;
-  if (wordCount < 300) shortFiles.push(`${brand.slug} (${wordCount} words)`);
-  written++;
+  const outDir = path.join(__dirname, '../public/llms/cymbals/brands');
+  fs.mkdirSync(outDir, { recursive: true });
+
+  let written = 0;
+  const shortFiles = [];
+  for (const brand of CYMBAL_BRANDS) {
+    const studyLinks = getBrandStudyLinks(brand.name);
+    const md = buildBrandMarkdown(brand, CYMBAL_BRANDS, studyLinks);
+    fs.writeFileSync(path.join(outDir, `${brand.slug}.md`), md);
+    const wordCount = md.split(/\s+/).filter(Boolean).length;
+    if (wordCount < 300) shortFiles.push(`${brand.slug} (${wordCount} words)`);
+    written++;
+  }
+
+  console.log(`✅ Generated ${written} cymbal brand pages in public/llms/cymbals/brands/`);
+  if (shortFiles.length) {
+    console.error(`WARNING: ${shortFiles.length} brand file(s) under 300 words: ${shortFiles.join(', ')}`);
+    process.exit(1);
+  }
 }
 
-console.log(`✅ Generated ${written} cymbal brand pages in public/llms/cymbals/brands/`);
-if (shortFiles.length) {
-  console.error(`WARNING: ${shortFiles.length} brand file(s) under 300 words: ${shortFiles.join(', ')}`);
-  process.exit(1);
-}
+main().catch((e) => { console.error(`FATAL: ${e.stack || e.message}`); process.exit(1); });

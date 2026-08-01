@@ -18,7 +18,7 @@ import { ALBUM_ARTICLES } from '../../packages/frontend/data/albumArticles.js';
 // Issue #1172: band-specific SSR meta for /bands/<slug> and /bands index pages.
 // Issue #4769: getCurrentDrummer/getDrumChairChanges derive "who drums for X now"
 // and the /bands/drum-chair-changes timeline straight from drummerHistory.
-import { bands as BAND_DATA, getCurrentDrummer, getDrumChairChanges } from '../../packages/frontend/data/bands.js';
+import { bands as BAND_DATA, getCurrentDrummer, getDrumChairChanges, generateMemberOfFromDrummer } from '../../packages/frontend/data/bands.js';
 // Issue #1202: individual technique page SSR meta for /technique/<slug> and /technique/<slug>/drummers.
 import { getTechniqueBySlug, getAllTechniques, getRelatedTechniques } from '../../packages/frontend/data/techniques.js';
 // Issue #1209: lick page SSR meta for /licks, /drummers/<slug>/licks, /drummers/<slug>/licks/<slug>.
@@ -3805,12 +3805,12 @@ export function getMetaForPath(pathname) {
                 : `${BASE_URL}/api/card/${slug}?format=twitter`,
               ...(birthdayEntry?.birthDate ? { birthDate: birthdayEntry.birthDate } : {}),
               ...(birthdayEntry?.deathDate ? { deathDate: birthdayEntry.deathDate } : {}),
-              ...(drummer.band ? {
-                memberOf: {
-                  '@type': 'MusicGroup',
-                  name: drummer.band,
-                },
-              } : {}),
+              ...(() => {
+                const memberOfArray = generateMemberOfFromDrummer(drummer);
+                return memberOfArray.length > 0
+                  ? { memberOf: memberOfArray.length > 1 ? memberOfArray : memberOfArray[0] }
+                  : {};
+              })(),
               sameAs: drummer.sameAs && drummer.sameAs.length > 0
                 ? drummer.sameAs
                 : [wikiSource?.url || `https://en.wikipedia.org/wiki/${encodeURIComponent(drummer.name.replace(/ /g, '_'))}`],
@@ -5719,7 +5719,12 @@ export function getMetaForPath(pathname) {
                 : `${BASE_URL}/api/card/${slug}?format=twitter`,
               ...(birthdayEntry?.birthDate ? { birthDate: birthdayEntry.birthDate } : {}),
               ...(birthdayEntry?.deathDate ? { deathDate: birthdayEntry.deathDate } : {}),
-              ...(drummer.band ? { memberOf: { '@type': 'MusicGroup', name: drummer.band } } : {}),
+              ...(() => {
+                const memberOfArray = generateMemberOfFromDrummer(drummer);
+                return memberOfArray.length > 0
+                  ? { memberOf: memberOfArray.length > 1 ? memberOfArray : memberOfArray[0] }
+                  : {};
+              })(),
               sameAs: drummer.sameAs && drummer.sameAs.length > 0
                 ? drummer.sameAs
                 : [wikiSource?.url || `https://en.wikipedia.org/wiki/${encodeURIComponent(drummer.name.replace(/ /g, '_'))}`],

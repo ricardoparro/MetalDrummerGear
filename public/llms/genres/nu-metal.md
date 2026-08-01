@@ -57,6 +57,11 @@ A: Nu-metal typically operates at 100–160 BPM, significantly slower than thras
 ## Gear Guide
 - [Best Drum Kits for Nu-Metal](/guides/best-drum-kits-for-nu-metal) — Joey Jordison's Tama Starclassic Performer, Ray Luzier's Pearl Reference Series, and John Otto's OCDP Custom Acrylic
 
+## Study Rankings
+
+- [Nu Metal averages 121.8 BPM across 22 songs in our tempo-by-subgenre study.](https://metalforge.io/studies/metal-tempo-by-subgenre)
+- [Nu Metal drummers' bass-pedal configurations are broken down in our kit-configurations study.](https://metalforge.io/studies/metal-kit-configurations)
+
 ## Related Content
 - [Joey Jordison drum setup](/drummer/joey-jordison)
 - [Eloy Casagrande drum setup](/drummer/eloy-casagrande)

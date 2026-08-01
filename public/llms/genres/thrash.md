@@ -56,6 +56,11 @@ A: Lars used a Tama kit during Metallica's 1980s peak ("Kill 'Em All" through ".
 **Q: How do I practice thrash metal drumming?**
 A: Start with single-stroke rolls and double bass exercises at 120 BPM, gradually increasing tempo. Develop heel-toe technique on double pedals for endurance. Practice with a metronome — consistency matters more than raw speed.
 
+## Study Rankings
+
+- [Thrash Metal averages 166.9 BPM across 37 songs in our tempo-by-subgenre study.](https://metalforge.io/studies/metal-tempo-by-subgenre)
+- [Thrash Metal drummers' bass-pedal configurations are broken down in our kit-configurations study.](https://metalforge.io/studies/metal-kit-configurations)
+
 ## Related Content
 - [Lars Ulrich drum setup](/drummer/lars-ulrich)
 - [Dave Lombardo drum setup](/drummer/dave-lombardo)

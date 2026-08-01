@@ -1,0 +1,5 @@
+{
+  "_comment": "Real backlink counts from GSC's Links report — that report has no public API, so this is hand-maintained. Check https://search.google.com/search-console -> Links -> External links (Top linking sites), and append one entry below whenever you check. The digest shows the most recent entry alongside the automated GA4 referral-domain signal (a different, automatable metric — see docs/loops.md).",
+  "_howToUpdate": "Add a new object to the 'entries' array: { \"date\": \"YYYY-MM-DD\", \"totalBacklinks\": <number from GSC>, \"referringDomains\": <number from GSC>, \"note\": \"optional\" }. Keep newest last.",
+  "entries": []
+}

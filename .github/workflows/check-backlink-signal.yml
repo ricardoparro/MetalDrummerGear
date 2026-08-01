@@ -1,0 +1,92 @@
+name: Check backlink signal
+
+# Weekly proxy for link-building progress: GA4 referral domains (sessions
+# with medium=referral) — see .agents/scripts/check-backlink-signal.cjs for
+# the honest scope note (this is NOT GSC's Links report; that report has no
+# public API). Zero Claude tokens — pure Node + GA4 read, same mold as
+# L1/L3/L4.
+#
+# Outputs:
+#   - .agents/seo/referral-domains-history/YYYY-MM-DD.json (committed)
+# The digest reads the two newest snapshots to show the trend.
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Monday 08:00 UTC — alongside L1 (GSC watch) and L3 (indexation).
+    - cron: '0 8 * * 1'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: check-backlink-signal
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install deps
+        run: npm ci --no-audit --no-fund
+
+      - name: Configure git author
+        run: |
+          git config user.name "Ricardo Parro"
+          git config user.email "ricardo.parro@gmail.com"
+
+      - name: Self-test (pure fixtures, no network)
+        run: node .agents/scripts/check-backlink-signal.cjs --self-test
+
+      - name: Write service-account credentials
+        env:
+          GA_JSON: ${{ secrets.GA_SERVICE_ACCOUNT_JSON }}
+        run: |
+          mkdir -p "$RUNNER_TEMP/gcp"
+          printf '%s' "$GA_JSON" > "$RUNNER_TEMP/gcp/metrics.json"
+          chmod 600 "$RUNNER_TEMP/gcp/metrics.json"
+
+      - name: Run backlink signal check
+        env:
+          GOOGLE_APPLICATION_CREDENTIALS: ${{ runner.temp }}/gcp/metrics.json
+          GA4_PROPERTY_ID: ${{ secrets.GA4_PROPERTY_ID }}
+        run: |
+          node .agents/scripts/check-backlink-signal.cjs \
+            --history-dir .agents/seo/referral-domains-history \
+            --out /tmp/backlink-signal.json
+
+      - name: Commit snapshot
+        run: |
+          git add .agents/seo/referral-domains-history/
+          if git diff --cached --quiet; then
+            echo "Nothing to commit."
+            exit 0
+          fi
+          git commit -m "seo: refresh backlink-signal snapshot [skip ci]"
+          for attempt in 1 2 3 4; do
+            if git push origin HEAD:main; then
+              echo "Pushed on attempt $attempt"; break
+            fi
+            echo "Push attempt $attempt failed; sleeping $((attempt * 2))s"
+            sleep $((attempt * 2))
+            git pull --rebase origin main || true
+          done
+
+      - name: Upload report artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: backlink-signal-${{ github.run_id }}
+          path: /tmp/backlink-signal.json
+          retention-days: 90
+          if-no-files-found: ignore

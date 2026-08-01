@@ -74,6 +74,7 @@ const CRITICAL_WORKFLOWS = [
   // Biweekly cron ('0 6 1,15 * *'); 336h = 14 days. Stale check trips only
   // past 2x+buffer, so a run landing a day or two off cadence never alarms.
   { file: 'check-performance.yml', name: 'Performance (L4)', intervalH: 336 },
+  { file: 'check-backlink-signal.yml', name: 'Backlink signal', intervalH: 168 },
   // Event Scanner runs monthly (day 5); stale check trips only past 2x+buffer.
   { file: 'scan-events.yml', name: 'Event Scanner', intervalH: 720 },
   // Daily post at 17:00 UTC; 26h absorbs cron jitter.

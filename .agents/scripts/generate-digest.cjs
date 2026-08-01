@@ -34,6 +34,8 @@ const HISTORY_DIR = path.join(REPO_ROOT, '.agents/digest/history');
 const GSC_HIST_DIR = path.join(REPO_ROOT, '.agents/seo/gsc-history');       // L1 verifier snapshots
 const IDX_HIST_DIR = path.join(REPO_ROOT, '.agents/seo/indexation-history'); // L3 verifier snapshots
 const PERF_HIST_DIR = path.join(REPO_ROOT, '.agents/seo/perf-history');     // L4 verifier snapshots
+const REFERRAL_HIST_DIR = path.join(REPO_ROOT, '.agents/seo/referral-domains-history'); // backlink-signal snapshots
+const BACKLINKS_MANUAL_LOG = path.join(REPO_ROOT, '.agents/seo/backlinks-manual-log.json'); // hand-entered GSC Links checks
 
 const WINDOW_HOURS = 12;
 const WINDOW_MS = WINDOW_HOURS * 3600 * 1000;
@@ -212,6 +214,24 @@ function summarisePerf(snap) {
   if (!home) return null;
   return { urls: Object.keys(snap.byUrl).length, homepageScore: home.performanceScore, homepageTbt: home.tbt };
 }
+function summariseReferral(snap) {
+  if (!snap || !snap.domains) return null;
+  return {
+    totalDomains: snap.totalDomains,
+    newDomains: snap.newDomainsThisRun || [],
+    top: [...snap.domains].sort((a, b) => b.sessions - a.sessions).slice(0, 5),
+    windowDays: snap.windowDays,
+  };
+}
+// Latest hand-entered GSC Links check, if the founder has logged one. See
+// .agents/seo/backlinks-manual-log.json for the how-to-update note.
+function latestManualBacklinkEntry() {
+  try {
+    const data = JSON.parse(fs.readFileSync(BACKLINKS_MANUAL_LOG, 'utf8'));
+    const entries = data.entries || [];
+    return entries.length ? entries[entries.length - 1] : null;
+  } catch { return null; }
+}
 function l2FromIssues(gh) {
   const u = (gh.openSeoProposal || []).find(i => (i.labels || []).some(l => (l.name || l) === 'llm-citations'));
   if (!u || !u.body) return null;
@@ -232,6 +252,14 @@ function improvementLoops(gh) {
     l2: l2FromIssues(gh),
     l4: f.length ? f[f.length - 1] : null,
     l4prev: f.length > 1 ? f[0] : null,
+  };
+}
+function backlinkSignal() {
+  const r = twoNewestSnapshots(REFERRAL_HIST_DIR).map(summariseReferral);
+  return {
+    auto: r.length ? r[r.length - 1] : null,
+    autoPrev: r.length > 1 ? r[0] : null,
+    manual: latestManualBacklinkEntry(),
   };
 }
 // "(+3)" / "(−2)" / "(±0)" — raw delta; caller notes direction meaning.
@@ -399,6 +427,33 @@ function buildMarkdown(gh, metrics, decisions) {
   }
   lines.push('');
 
+  // Backlink signal — the authority-building priority (2026-07-28 strategy).
+  const bl = backlinkSignal();
+  lines.push('## 🔗 Backlink signal');
+  lines.push('');
+  if (!bl.auto && !bl.manual) {
+    lines.push('_No data yet. Automated: `check-backlink-signal.yml` runs Monday. Manual: log a GSC → Links check in `.agents/seo/backlinks-manual-log.json`._');
+  } else {
+    if (bl.auto) {
+      const dp = dlt(bl.auto.totalDomains, bl.autoPrev && bl.autoPrev.totalDomains);
+      lines.push(`**Referring domains (GA4 signal, ${bl.auto.windowDays}d, clicked links only):** ${bl.auto.totalDomains}${dp}`);
+      if (bl.auto.newDomains.length) {
+        lines.push(`- 🆕 New this week: ${bl.auto.newDomains.slice(0, 8).join(', ')}${bl.auto.newDomains.length > 8 ? ` (+${bl.auto.newDomains.length - 8} more)` : ''}`);
+      }
+      if (bl.auto.top.length) {
+        lines.push(`- Top sources: ${bl.auto.top.map(d => `${d.domain} (${d.sessions})`).join(' · ')}`);
+      }
+    }
+    if (bl.manual) {
+      lines.push(`**GSC Links (manual check, ${bl.manual.date}):** ${bl.manual.totalBacklinks} backlinks / ${bl.manual.referringDomains} referring domains${bl.manual.note ? ` — ${bl.manual.note}` : ''}`);
+    } else {
+      lines.push('_No manual GSC Links check logged yet — see `.agents/seo/backlinks-manual-log.json`._');
+    }
+    lines.push('');
+    lines.push('> _The GA4 number counts domains that sent us a real click — it undercounts true backlinks (a link with zero clicks won\'t show) but is fully automated. GSC\'s actual Links report has no public API; the manual number above is the ground truth when logged._');
+  }
+  lines.push('');
+
   // Event pipeline — content ahead of predictable demand spikes.
   const events = upcomingEvents(gh);
   if (events.length) {
@@ -516,6 +571,18 @@ function buildTelegramText(gh, metrics, fullUrl) {
       }
     }
     if (loops.l4) lines.push(`• L4: perf ${loops.l4.homepageScore ?? '?'}${dlt(loops.l4.homepageScore, loops.l4prev && loops.l4prev.homepageScore)} · TBT ${loops.l4.homepageTbt != null ? Math.round(loops.l4.homepageTbt) : '?'}ms`);
+    lines.push('');
+  }
+
+  const bl = backlinkSignal();
+  if (bl.auto || bl.manual) {
+    lines.push(`<b>🔗 Backlinks</b>`);
+    if (bl.auto) {
+      lines.push(`• Domínios a linkar (GA4, cliques reais): ${bl.auto.totalDomains}${dlt(bl.auto.totalDomains, bl.autoPrev && bl.autoPrev.totalDomains)}${bl.auto.newDomains.length ? ` · 🆕 ${bl.auto.newDomains.slice(0, 3).join(', ')}` : ''}`);
+    }
+    if (bl.manual) {
+      lines.push(`• GSC Links (${esc(bl.manual.date)}): ${bl.manual.totalBacklinks} backlinks / ${bl.manual.referringDomains} domínios`);
+    }
     lines.push('');
   }
 

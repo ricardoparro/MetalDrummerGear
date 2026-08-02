@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-02 13:29 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-02 19:29 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 209 |
-| Sessions | 240 |
-| Page views | 495 |
-| Engagement rate | 57.92% |
-| Avg session (s) | 155 |
+| Active users | 211 |
+| Sessions | 243 |
+| Page views | 499 |
+| Engagement rate | 57.20% |
+| Avg session (s) | 156 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -21,7 +21,7 @@
 | /cymbals/setups/daniel-erlandsson | 22 | 2 |
 | /drummer/daniel-erlandsson | 22 | 2 |
 | /drummer/joey-jordison | 14 | 5 |
-| /drummer/mario-duplantier | 11 | 9 |
+| /drummer/mario-duplantier | 12 | 9 |
 | /drummers/igor-cavalera/evolution | 11 | 3 |
 | /cymbals | 9 | 3 |
 | /drummer/danny-carey | 9 | 6 |
@@ -31,9 +31,9 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 180 | 158 |
+| Organic Search | 182 | 159 |
 | Direct | 48 | 46 |
-| Unassigned | 22 | 22 |
+| Unassigned | 23 | 23 |
 | Organic Social | 8 | 1 |
 
 ### Top countries (sessions, last 7d)

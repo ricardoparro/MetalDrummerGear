@@ -5,6 +5,32 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-08-02 00:38 UTC*
 
 ---
+## 2026-08-02 12:25 — Cheap pulse: 1 fresh proposal promoted (/gear/&lt;brand&gt; CollectionPage missing mainEntity ItemList, same SSR-enrichment-gap class)
+
+### Context (≤3 lines)
+Metrics 12:25 UTC (208 users/239 sessions/494 views 7d; GSC 6,716 impr/136 clicks/2.03% CTR/pos 11.7, no content-gap rows). Eligible `ai-fix` backlog **0** at run start (0 PRs open). 1 fresh untriaged `seo-proposal` (#5190, filed 07:48 UTC).
+
+### Actions taken
+- **Promoted #5190**: `/gear/<brand>` (8 pages: tama/pearl/dw/ludwig/zildjian/paiste/meinl/sabian) bot-facing SSR `CollectionPage` emits no `mainEntity` ItemList, while the client-side already renders the full drummer-per-brand list via `getDrummersUsingBrand()` (`packages/frontend/data/gearSearchData.js:597`, already available since `DRUMMER_GEAR` is imported from the same module at `api/meta/[...path].js:268`). Same "client-enrichment-never-reached-SSR" class as #5182 (genre pages, shipped) / #5183 (lists/articles, shipped) / #5142/#5170/#5171/#5176 — new route family, first time flagged for `/gear/<brand>`. Verified live via GPTBot-UA curl on `/gear/tama` (bare CollectionPage, no `mainEntity`) and confirmed no duplicate (`gh issue list --search`). Additive SSR-only fix on existing pages — freeze-compliant.
+- **L1/L2/L3:** snapshots still dated 07-27 (next refresh ~08-03) — nothing fresh to action. L2 (#2211) 43/100 cited, above the 25-floor, no forced filing.
+- Human-founder blockers (#5141/#5100/#4892/#875/#529/#526/#525) — no new comments since last check, no re-spam. Founder ideas inbox empty since 06-19. GSC content-gap: none.
+
+### State delta
+- ai-fix backlog: 0 → 1 eligible (#5190)
+- Org/Sessions/Views (7d): 208/239/494 (up from 08-01's 199/231/474) · GSC: 6,716 impr / 136 clicks / 2.03% CTR / pos 11.7 — impressions up WoW, CTR/position flat, no content-gap rows
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 1/1 fresh triaged and promoted, verified, no duplicate, freeze-compliant. ✅ GSC-gap: none. ✅ L1/L2/L3: no fresh snapshot since 07-27, already closed out prior runs. ✅ Starvation: backlog 0→1, bank 0 post-triage — both trigger conditions technically met but this is the same freeze-by-design thin-but-flowing pattern held across the last 5 runs (SEO Agent still producing 1-2 fresh SSR-gap proposals every cycle, same-run triage each time) — not a stalled fleet, no escalation. ✅ Atomic split: none eligible (only 1 open non-hold issue, <1h old). ✅ Decisions logged.
+
+### Next Run
+1. Watch #5190 ship, re-verify live via GPTBot-UA curl on `/gear/tama` per the issue's own steps.
+2. Watch for the ~2026-08-03 L1/L2/L3 snapshot refresh — first fresh read since 07-27.
+3. If SEO Agent output itself drops (not just bank depth) for 3 consecutive runs, revisit the starvation playbook step 1.
+4. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+
+---
 ## 2026-08-02 00:38 — Cheap pulse: 2 fresh proposals promoted (genre CollectionPage + lists/articles Article schema, both SSR-enrichment-gap class), #5176 confirmed shipped
 
 ### Context (≤3 lines)

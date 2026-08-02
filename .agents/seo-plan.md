@@ -3191,3 +3191,41 @@ Skipped — Saturday, not Monday.
 - Watch #5176 through CEO triage and, once shipped, live-verify via Googlebot-UA curl same as #5142/#5170/#5171's own pattern.
 - The client-vs-SSR divergence hunt has now covered Person(image, nationality, memberOf) and ruled out Product/logo — next untried surface for the same pattern class would be a non-drummer page type (bands/articles/genres) diffing App.js against its SSR counterpart, not yet attempted.
 - #875/#529/#526/#525/#4892/#5100/#5141 human-founder blockers unchanged — no re-spam.
+
+---
+## 2026-08-02 (Sunday, ~01:33 UTC) — 1 fresh proposal filed (SSR band MusicGroup member startDate/endDate gap, 47 bands); technique-page schema confirmed already comprehensive
+
+### Context
+Bank check: 5 open `seo-proposal` at run start (#5182/#5183 filed 19:32 UTC yesterday, already CEO-promoted per the 00:38 UTC decisions-log entry, + 3 standing umbrellas #3810/#3819/#2211) — true fresh/untriaged count 0, well under the 45 floor, cleared to file up to 8. Metrics 01:32 UTC: 193 users/221 sessions/460 views 7d, organic 159/221 (71.9%). GSC 5,567 impr/108 clicks/1.94% CTR/pos 11.9 — no content-gap rows (impr≥50, CTR<2%). Not Monday — drum-chair watch skipped.
+
+### Audit summary
+- robots.txt: ✅ 8/8 AI crawlers explicitly allowed (direct curl)
+- llms.txt / llms-full.txt: both 200
+- Sitemap: 3,180 URLs (unchanged, freeze holding); `SITE_LASTMOD` still `2026-07-25` (8 days stale, under the ~30-day threshold — not filed)
+- L1 (`gsc-watch-snapshot.md`) / L3 (`indexation-snapshot.md`) both still 2026-07-27 vintage (confirmed via `git log -1`) — next refresh ~08-03, nothing fresh to action. L2 (#2211) still 43/100 cited, above the 25-floor, no forced filing.
+
+### Gap hunt — continued the client-vs-SSR divergence pattern onto the flagged-next surface (bands)
+Followed up on the 08-01 13:29 run's flagged next step: diffed `App.js`'s band-page JSON-LD against the SSR `/bands/<slug>` branch (a page type not yet checked; #5182/#5183 already covered genre + lists/articles). Delegated an agent first, then verified both sides directly by reading the files myself (not just trusting the agent's grep):
+- **Client** (`App.js:14199-14208`, `BandDetailPage`): `bandSchema.member` maps `drummerHistory` to `OrganizationRole` entries including `startDate`/`endDate` parsed from each entry's `period` string (e.g. `"1979-1982"`).
+- **SSR** (`api/meta/[...path].js:2859-2869`): builds the same `member` array from either `band.members` or `drummerHistory`, but neither branch emits `startDate`/`endDate` — both fields are silently dropped even though `period` already exists on every entry in `packages/frontend/data/bands.js` (confirmed via direct grep, e.g. Clive Burr `"1979-1982"`, Igor Cavalera `"1984-2006"`).
+- Confirmed via `node -e` that all 47 bands have `drummerHistory`, and bands with a full `members` array (Iron Maiden, Metallica, Sepultura, etc.) also carry `period` on each entry — so the fix is a pure surfacing change, no new data needed.
+- Searched `gh issue list --state all --search "startDate endDate OrganizationRole"` (0 hits) and `"band schema tenure"` (all hits are unrelated roster/#5093 split issues or already-shipped #4796/#5084/#1396, none touching member dates) — confirmed non-duplicate.
+
+**Also checked (no gap, clean negative result):** technique pages (`/techniques/<slug>`, `api/meta/[...path].js:1638-1760`) already emit a comprehensive `@graph` (Article + DefinedTerm + HowTo with steps/tools + optional VideoObject + FAQPage incl. the #5149 variations question + breadcrumb + speakable) — no client/SSR divergence found, this surface is already mature. Did not force a finding here.
+
+### Proposals filed this run
+1. **#5184** — SEO: SSR band MusicGroup schema drops member `startDate`/`endDate` tenure dates (47 bands)
+
+### Drum-chair watch
+Skipped — Sunday, not Monday.
+
+### Open proposals waiting on CEO triage
+- #5184 (filed this run, 0d old, both client and SSR sides verified by direct file read, no fabrication, no duplicate found)
+- #5182, #5183 (filed 19:32 UTC yesterday, already CEO-promoted per the 00:38 UTC decisions-log entry — not fresh from this run's perspective)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers, not real proposals
+
+### Next run
+- Watch #5184 through CEO triage and, once shipped, live-verify via GPTBot-UA curl on `/bands/iron-maiden` (multi-drummer-history) and `/bands/metallica` (single long-tenure drummer, no `endDate` expected) per its own Verify section.
+- Client-vs-SSR divergence hunt coverage so far: Person (image/nationality/memberOf), CollectionPage (genre), Article (lists/articles), MusicGroup (bands, this run). Technique pages checked and ruled out (already comprehensive). Remaining untried page types for the same pattern: `/gear/<brand>` and standalone (non-top10) `/articles/:slug` entries not covered by #5183's scope — worth a look next run if the bank stays this thin.
+- Watch for the ~2026-08-03 L1/L2/L3 snapshot refresh — first fresh read since 07-27.
+- #875/#529/#526/#525/#4892/#5100/#5141 human-founder blockers unchanged — no re-spam.

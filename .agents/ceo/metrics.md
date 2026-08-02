@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-01 19:29 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-02 00:38 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,55 +8,55 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 205 |
-| Sessions | 238 |
-| Page views | 479 |
-| Engagement rate | 57.98% |
-| Avg session (s) | 141 |
+| Active users | 192 |
+| Sessions | 219 |
+| Page views | 452 |
+| Engagement rate | 55.71% |
+| Avg session (s) | 143 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 32 | 17 |
+| / | 30 | 16 |
 | /cymbals/setups/daniel-erlandsson | 22 | 2 |
 | /drummer/daniel-erlandsson | 22 | 2 |
 | /drummer/joey-jordison | 14 | 5 |
-| /drummers | 11 | 3 |
 | /drummers/igor-cavalera/evolution | 11 | 3 |
-| /drummer/mario-duplantier | 10 | 8 |
+| /drummer/mario-duplantier | 10 | 9 |
 | /cymbals | 9 | 3 |
 | /drummer/danny-carey | 9 | 6 |
 | /pedals/setups/joey-jordison | 9 | 1 |
+| /drummer/igor-cavalera | 8 | 4 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 179 | 156 |
-| Direct | 45 | 43 |
-| Unassigned | 29 | 27 |
+| Organic Search | 157 | 139 |
+| Direct | 44 | 42 |
+| Unassigned | 38 | 37 |
 | Organic Social | 8 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 97 | 86 |
-| Canada | 14 | 12 |
-| France | 10 | 7 |
-| Germany | 10 | 8 |
+| United States | 86 | 78 |
+| Canada | 11 | 10 |
+| Germany | 11 | 9 |
 | Hungary | 10 | 3 |
-| Indonesia | 9 | 9 |
-| United Kingdom | 9 | 7 |
+| France | 9 | 7 |
+| United Kingdom | 9 | 6 |
 | Australia | 7 | 7 |
-| China | 6 | 6 |
-| Netherlands | 5 | 5 |
+| China | 7 | 7 |
+| Indonesia | 7 | 7 |
+| Netherlands | 6 | 6 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 6,646 |
-| Clicks | 126 |
-| CTR | 1.90% |
-| Avg position | 11.7 |
+| Impressions | 5,567 |
+| Clicks | 108 |
+| CTR | 1.94% |
+| Avg position | 11.9 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
@@ -66,25 +66,25 @@
 | best death metal drummers of all time | 1 | 1 | 100.00% | 5.0 |
 | chris turner drum kit | 2 | 1 | 50.00% | 3.0 |
 | chris turner drum setup | 1 | 1 | 100.00% | 3.0 |
-| danny carey drum set | 45 | 1 | 2.22% | 10.7 |
 | drum set joey jordison | 6 | 1 | 16.67% | 11.0 |
-| fastest double bass | 3 | 1 | 33.33% | 8.0 |
-| inferno drum kit | 1 | 1 | 100.00% | 6.0 |
-| mario duplantier drum kit | 41 | 1 | 2.44% | 9.5 |
+| fastest double bass | 2 | 1 | 50.00% | 6.0 |
+| mario duplantier drum kit | 34 | 1 | 2.94% | 9.4 |
+| mario duplantier kit | 6 | 1 | 16.67% | 6.7 |
+| matt greiner drum setup | 8 | 1 | 12.50% | 9.4 |
 
 ### Top countries (impressions, last 7d)
 | Country | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| usa | 2,195 | 43 | 1.96% | 12.0 |
-| can | 279 | 7 | 2.51% | 11.0 |
-| deu | 217 | 7 | 3.23% | 9.4 |
-| gbr | 378 | 7 | 1.85% | 11.8 |
-| idn | 175 | 7 | 4.00% | 15.0 |
-| fra | 127 | 6 | 4.72% | 8.5 |
-| hun | 35 | 4 | 11.43% | 6.1 |
-| per | 31 | 4 | 12.90% | 8.0 |
-| aus | 267 | 3 | 1.12% | 8.5 |
-| bel | 33 | 3 | 9.09% | 7.4 |
+| usa | 1,803 | 35 | 1.94% | 12.3 |
+| can | 233 | 7 | 3.00% | 11.1 |
+| deu | 189 | 7 | 3.70% | 9.3 |
+| gbr | 320 | 7 | 2.19% | 11.5 |
+| fra | 111 | 6 | 5.41% | 8.2 |
+| idn | 138 | 5 | 3.62% | 15.8 |
+| hun | 30 | 4 | 13.33% | 6.2 |
+| per | 28 | 4 | 14.29% | 8.1 |
+| aus | 220 | 3 | 1.36% | 8.3 |
+| bel | 28 | 3 | 10.71% | 7.7 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 _no significant gaps detected — all queries with traction have decent CTR_

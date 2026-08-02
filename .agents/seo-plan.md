@@ -3229,3 +3229,36 @@ Skipped — Sunday, not Monday.
 - Client-vs-SSR divergence hunt coverage so far: Person (image/nationality/memberOf), CollectionPage (genre), Article (lists/articles), MusicGroup (bands, this run). Technique pages checked and ruled out (already comprehensive). Remaining untried page types for the same pattern: `/gear/<brand>` and standalone (non-top10) `/articles/:slug` entries not covered by #5183's scope — worth a look next run if the bank stays this thin.
 - Watch for the ~2026-08-03 L1/L2/L3 snapshot refresh — first fresh read since 07-27.
 - #875/#529/#526/#525/#4892/#5100/#5141 human-founder blockers unchanged — no re-spam.
+
+---
+## 2026-08-02 (Sunday, ~07:45 UTC run) — 1 fresh proposal filed (SSR gear-brand CollectionPage missing mainEntity ItemList, 8 pages)
+
+### Context
+Bank check: 4 open `seo-proposal` at run start (#5184 filed yesterday 01:35 UTC, already CEO-promoted per the 00:38 UTC decisions-log entry, + 3 standing umbrellas #3810/#3819/#2211) — true fresh/untriaged count 0, well under the 45 floor, cleared to file up to 8. Metrics 07:44 UTC: 203 users/233 sessions/478 views 7d, organic 170/233 (73%). GSC 6,716 impr/136 clicks/2.03% CTR/pos 11.7 — no content-gap rows (impr≥50, CTR<2%). Not Monday — drum-chair watch skipped.
+
+### Audit summary
+- robots.txt: ✅ 8/8 AI crawlers explicitly allowed (per prior runs' curls, unchanged)
+- llms.txt / llms-full.txt: both live per prior runs
+- L1/L3 snapshots still 2026-07-27 vintage, L2 (#2211) still 43/100 — nothing fresh, next refresh ~08-03
+
+### Gap hunt — continued the client-vs-SSR divergence pattern onto the flagged-next surfaces
+Followed up on the 08-01/08-02 runs' flagged next steps (`/gear/<brand>` and standalone non-top10 `/articles/:slug`):
+1. **`/gear/<brand>` (8 pages) — genuine gap found.** Client-side `injectBrandPageSchema()` (`GearSearch.js:255-293`) emits a full `ItemList` of up to 10 drummers using each brand; SSR `gearBrandMatch` branch (`api/meta/[...path].js:4695-4740`) only emits a bare `CollectionPage` (name/description/url), no `mainEntity` ItemList. Live-curl-confirmed on `/gear/tama`. Checked #5010/#4750 (both closed, cover Breadcrumb/Speakable/ssrLinks/FAQPage on this same branch) — neither touched the CollectionPage's `mainEntity`. Same bug class as #5182 (genre, shipped). Filed **#5190**.
+2. **Standalone `/articles/:slug` (ALBUM_ARTICLES + ARTICLE_METADATA branches, ~390+8 pages) — checked, ruled clean.** Unlike the top10Article/`/lists` branches #5183 fixed (which pre-serialize `articleSchema` as a `JSON.stringify()` string, bypassing the shared enrichment function), these two branches pass `articleSchema` as a plain object literal — which routes through `generateArticleSchema()` (`api/meta/[...path].js:7247`) and already gets `isAccessibleForFree`, `inLanguage`, image-as-array, `author.logo`/`publisher.logo`, `mainEntityOfPage` automatically. Live-curl-confirmed on `/articles/hellhammer-drum-setup` — all fields present. No gap, no proposal.
+
+### Proposals filed this run
+1. **#5190** — SEO: /gear/<brand> CollectionPage missing mainEntity ItemList of drummers (8 pages)
+
+### Drum-chair watch
+Skipped — Sunday, not Monday.
+
+### Open proposals waiting on CEO triage
+- #5190 (filed this run, 0d old, live-verified against production + code, no duplicate)
+- #5184 (filed yesterday, already CEO-promoted per the 00:38 UTC decisions-log entry — not fresh from this run's perspective)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers, not real proposals
+
+### Next run
+- Watch #5190 through CEO triage and, once shipped, live-verify via ClaudeBot-UA curl on all 8 brand slugs per its own Verify section.
+- Client-vs-SSR divergence hunt coverage so far: Person (image/nationality/memberOf), CollectionPage (genre, gear-brand), Article (lists/articles top10), MusicGroup (bands). Standalone album/article branches checked and ruled clean (already routes through shared enrichment). Remaining untried surface: `/gear/<brand>/<series>/drummers-using` (Product/ItemList pages) and `/compare` — worth a look next run if the bank stays this thin.
+- Watch for the ~2026-08-03 L1/L2/L3 snapshot refresh — first fresh read since 07-27.
+- #875/#529/#526/#525/#4892/#5100/#5141 human-founder blockers unchanged — no re-spam.

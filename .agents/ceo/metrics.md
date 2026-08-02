@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-02 01:32 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-02 07:44 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 193 |
-| Sessions | 221 |
-| Page views | 460 |
-| Engagement rate | 55.20% |
-| Avg session (s) | 146 |
+| Active users | 203 |
+| Sessions | 233 |
+| Page views | 478 |
+| Engagement rate | 52.36% |
+| Avg session (s) | 159 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -31,16 +31,16 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 159 | 140 |
-| Direct | 44 | 42 |
-| Unassigned | 39 | 38 |
+| Organic Search | 170 | 149 |
+| Unassigned | 49 | 48 |
+| Direct | 45 | 43 |
 | Organic Social | 8 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 87 | 79 |
-| Canada | 12 | 10 |
+| United States | 97 | 88 |
+| Canada | 13 | 11 |
 | Germany | 11 | 9 |
 | Hungary | 10 | 3 |
 | France | 9 | 7 |
@@ -53,38 +53,38 @@
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 5,567 |
-| Clicks | 108 |
-| CTR | 1.94% |
-| Avg position | 11.9 |
+| Impressions | 6,716 |
+| Clicks | 136 |
+| CTR | 2.03% |
+| Avg position | 11.7 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
+| john otto drum kit | 30 | 3 | 10.00% | 6.9 |
+| mario duplantier drum kit | 51 | 2 | 3.92% | 9.7 |
 | mario duplantier gear | 16 | 2 | 12.50% | 8.7 |
-| shannon larkin drum kit | 5 | 2 | 40.00% | 3.0 |
+| shannon larkin drum kit | 6 | 2 | 33.33% | 3.0 |
 | best death metal drummers of all time | 1 | 1 | 100.00% | 5.0 |
 | chris turner drum kit | 2 | 1 | 50.00% | 3.0 |
 | chris turner drum setup | 1 | 1 | 100.00% | 3.0 |
-| drum set joey jordison | 6 | 1 | 16.67% | 11.0 |
+| drum set joey jordison | 7 | 1 | 14.29% | 11.6 |
 | fastest double bass | 2 | 1 | 50.00% | 6.0 |
-| mario duplantier drum kit | 34 | 1 | 2.94% | 9.4 |
-| mario duplantier kit | 6 | 1 | 16.67% | 6.7 |
-| matt greiner drum setup | 8 | 1 | 12.50% | 9.4 |
+| gojira drum set | 6 | 1 | 16.67% | 9.7 |
 
 ### Top countries (impressions, last 7d)
 | Country | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| usa | 1,803 | 35 | 1.94% | 12.3 |
-| can | 233 | 7 | 3.00% | 11.1 |
-| deu | 189 | 7 | 3.70% | 9.3 |
-| gbr | 320 | 7 | 2.19% | 11.5 |
-| fra | 111 | 6 | 5.41% | 8.2 |
-| idn | 138 | 5 | 3.62% | 15.8 |
-| hun | 30 | 4 | 13.33% | 6.2 |
-| per | 28 | 4 | 14.29% | 8.1 |
-| aus | 220 | 3 | 1.36% | 8.3 |
-| bel | 28 | 3 | 10.71% | 7.7 |
+| usa | 2,207 | 44 | 1.99% | 11.9 |
+| deu | 236 | 9 | 3.81% | 9.3 |
+| can | 276 | 8 | 2.90% | 10.7 |
+| gbr | 383 | 8 | 2.09% | 11.3 |
+| aus | 260 | 6 | 2.31% | 8.5 |
+| fra | 136 | 6 | 4.41% | 8.5 |
+| esp | 105 | 5 | 4.76% | 11.6 |
+| idn | 157 | 5 | 3.18% | 16.0 |
+| ita | 131 | 5 | 3.82% | 8.7 |
+| bra | 164 | 4 | 2.44% | 7.7 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 _no significant gaps detected — all queries with traction have decent CTR_

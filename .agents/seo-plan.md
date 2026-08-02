@@ -3262,3 +3262,42 @@ Skipped — Sunday, not Monday.
 - Client-vs-SSR divergence hunt coverage so far: Person (image/nationality/memberOf), CollectionPage (genre, gear-brand), Article (lists/articles top10), MusicGroup (bands). Standalone album/article branches checked and ruled clean (already routes through shared enrichment). Remaining untried surface: `/gear/<brand>/<series>/drummers-using` (Product/ItemList pages) and `/compare` — worth a look next run if the bank stays this thin.
 - Watch for the ~2026-08-03 L1/L2/L3 snapshot refresh — first fresh read since 07-27.
 - #875/#529/#526/#525/#4892/#5100/#5141 human-founder blockers unchanged — no re-spam.
+
+---
+## 2026-08-02 (Sunday, ~13:30 UTC run) — 1 fresh proposal filed (broken /drummers/ plural URLs in gear-page ItemList schema, 14 pages)
+
+### Context
+Bank check: 4 open `seo-proposal` at run start (#5190 filed earlier today, already CEO-promoted per the 12:25 UTC decisions-log entry, + 3 standing umbrellas #3810/#3819/#2211) — true fresh/untriaged count 0, well under the 45 floor, cleared to file up to 8. Metrics 13:29 UTC: 209 users/240 sessions/495 views 7d, organic 180/240 (75%). GSC 6,716 impr/136 clicks/2.03% CTR/pos 11.7 — no content-gap rows (impr≥50, CTR<2%). Not Monday — drum-chair watch skipped.
+
+### Audit summary
+- robots.txt: ✅ 8/8 AI crawlers explicitly allowed (direct curl)
+- llms.txt / llms-full.txt: both 200
+- `SITE_LASTMOD` still `2026-07-25` (8 days stale, under the ~30-day threshold — not filed)
+- L1/L3 snapshots still 2026-07-27 vintage, L2 (#2211) still 43/100 — nothing fresh, next refresh ~08-03
+
+### Gap hunt — followed up on last run's flagged next surface (`/gear/<brand>/<series>/drummers-using`)
+Read all 3 SSR branches for this route family (`api/meta/[...path].js:5825` kit-level, `:5918` brand-level drumhead, `:6020` generic fallback). Found a genuine, verified, untracked bug in 2 of the 3:
+- `kitDrummersMatch` (line 5875) and `brandLevelDrummersMatch` (line 5994) both build `ItemList.itemListElement[].url` as `` `${BASE_URL}/drummers/${d.slug}` `` (plural, no sub-path) instead of the canonical singular `/drummer/${d.slug}` — confirmed no client route matches a bare `/drummers/<slug>` (every `/drummers/[slug]/...` route in `App.js` requires a sub-path: signature/licks/evolution/gear-history/endorsements). Live GPTBot-UA curl on `/gear/tama/star-classic-maple/drummers-using` and `/gear/evans/all-drumheads/drummers-using` both reproduce it in production.
+- The third branch (`gearSeriesDrummersMatch`, line 6108) already uses the correct singular form — and both buggy branches already build correct singular links elsewhere in their own `ssrDrummerLinks` array, so only the `itemListElement.url` field has the typo.
+- This is the exact same bug class already fixed once on `/birthdays` via **#4383** (closed) — cited as precedent in the new issue, not a duplicate (different page family, never audited against that fix).
+- Scope: 12 kit-level pages (`DRUMMERS_BY_KIT` non-empty entries) + 2 brand-level pages (Evans, Remo) = 14 pages.
+- Dedup-checked (`gh issue list --state all --search`) against ItemList/DRUMMERS_BY_KIT/GEAR_INDEX_BRAND_LEVEL/drummers-using terms — no exact duplicate; #4383 is the same-class precedent, not overlap.
+- Also checked `/technique/<slug>/drummers` (same ItemList-of-drummers shape) and `/vs/<d1>-vs-<d2>` — both already use correct singular `/drummer/` links, no bug found there.
+
+### Proposals filed this run
+1. **#5192** — SEO: /gear/<brand>/<series>/drummers-using ItemList links to dead /drummers/{slug} instead of canonical /drummer/{slug} (14 pages)
+
+### Drum-chair watch
+Skipped — Sunday, not Monday.
+
+### Open proposals waiting on CEO triage
+- #5192 (filed this run, 0d old, live-verified against production + code, no duplicate)
+- #5190 (filed earlier today, already CEO-promoted per the 12:25 UTC decisions-log entry — not fresh from this run's perspective)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers, not real proposals
+
+### Next run
+- Watch #5192 through CEO triage and, once shipped, live-verify via GPTBot-UA curl on `/gear/tama/star-classic-maple/drummers-using` and `/gear/evans/all-drumheads/drummers-using` per its own Verify section.
+- The `/gear/<brand>/<series>/drummers-using` surface is now fully audited (all 3 branches read); `/compare` (`/tools/compare` + `/tools/compare/<d1>-vs-<d2>`) was spot-checked this run and already has comprehensive schema — no gap found, don't re-check without a fresh reason.
+- Stopped at 1 finding rather than padding to 8 — a broader grep for the same plural/singular URL-typo pattern across bands/genre/technique routes came back clean; padding with lower-confidence proposals would violate the quality-over-volume standard.
+- Watch for the ~2026-08-03 L1/L2/L3 snapshot refresh — first fresh read since 07-27.
+- #875/#529/#526/#525/#4892/#5100/#5141 human-founder blockers unchanged — no re-spam.

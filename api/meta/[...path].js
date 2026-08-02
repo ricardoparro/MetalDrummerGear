@@ -67,7 +67,7 @@ import { DRUMMERS_BY_KIT } from '../../packages/frontend/data/drummersByKit.js';
 import { getGearPriceHistory, formatHistoryPrice } from '../../packages/frontend/data/gearPriceHistory.js';
 // Issue #3745: /genres hub + /genre/<slug> pages — CollectionPage + FAQPage JSON-LD.
 // Ported from the dead api/meta/index.js (never wired into any rewrite/handler path).
-import { genres as GENRES, getAllGenreSlugs } from '../../packages/frontend/data/genres.js';
+import { genres as GENRES, getAllGenreSlugs, getDrummersByGenre } from '../../packages/frontend/data/genres.js';
 import { drummerBirthdays } from '../../packages/frontend/data/birthdays.js';
 // Issue #4656: /gear-news and /endorsement-news hub ssrLinks — same data the
 // live news pages themselves render, previously never wired into the
@@ -3134,6 +3134,9 @@ export function getMetaForPath(pathname) {
     if (genreData) {
       const genreName = genreData.name;
       const faqItems = genreData.faq || [];
+      // Issue #5182: mirror the client-side (App.js) mainEntity ItemList + about
+      // MusicGenre into the bot-facing SSR CollectionPage node — same schema, never reached SSR.
+      const genreDrummerList = getDrummersByGenre(genreSlug, drummers);
       const graph = [
         {
           '@type': 'CollectionPage',
@@ -3141,6 +3144,23 @@ export function getMetaForPath(pathname) {
           url: `${BASE_URL}/genre/${genreSlug}`,
           description: `Explore ${genreName.toLowerCase()} drummers and their complete gear setups on MetalForge.`,
           publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
+          mainEntity: {
+            '@type': 'ItemList',
+            name: `${genreName} Drummers`,
+            numberOfItems: genreDrummerList.length,
+            itemListElement: genreDrummerList.slice(0, 10).map((d, i) => ({
+              '@type': 'ListItem',
+              position: i + 1,
+              item: {
+                '@type': 'Person',
+                name: d.name,
+                jobTitle: 'Drummer',
+                worksFor: { '@type': 'MusicGroup', name: d.band },
+                url: `${BASE_URL}/drummer/${_normalizeDrummerSlug(d.name)}`,
+              },
+            })),
+          },
+          about: { '@type': 'MusicGenre', name: genreName, description: genreData.longDescription },
           ...(genreData.pioneers?.length
             ? { mentions: genreData.pioneers.map(name => ({ '@type': 'Person', name })) }
             : {}),

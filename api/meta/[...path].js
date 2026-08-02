@@ -5893,7 +5893,7 @@ export function getMetaForPath(pathname) {
               '@type': 'ListItem',
               position: i + 1,
               name: d.name,
-              url: `${BASE_URL}/drummers/${d.slug}`,
+              url: `${BASE_URL}/drummer/${d.slug}`,
             })),
           },
           {
@@ -6012,7 +6012,7 @@ export function getMetaForPath(pathname) {
               '@type': 'ListItem',
               position: i + 1,
               name: d.name,
-              url: `${BASE_URL}/drummers/${d.slug}`,
+              url: `${BASE_URL}/drummer/${d.slug}`,
             })),
           },
           {

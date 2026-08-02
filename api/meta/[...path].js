@@ -265,7 +265,7 @@ import {
 } from '../../packages/frontend/data/metalSongsBpm.js';
 // Issue #4669: /gear-finder ssrLinks — same DRUMMER_GEAR/BRAND_SEO_DATA maps
 // the live GearFinder search page reads from.
-import { DRUMMER_GEAR, BRAND_SEO_DATA } from '../../packages/frontend/data/gearSearchData.js';
+import { DRUMMER_GEAR, BRAND_SEO_DATA, getDrummersUsingBrand } from '../../packages/frontend/data/gearSearchData.js';
 // Issue #4764 (phase 1/3 of epic #4763): /studies hub + /studies/<slug> SSR meta.
 // STUDIES is the registry the hub, sitemap, and this handler all read from so
 // nothing is hand-listed in more than one place. The per-study data imports below
@@ -4705,6 +4705,12 @@ export function getMetaForPath(pathname) {
     const brandSlug = gearBrandMatch[1];
     const brand = GEAR_BRAND_META[brandSlug];
     if (brand) {
+      // getDrummersUsingBrand computes from DRUMMER_GEAR (broader/more accurate than the
+      // hardcoded brand.drummers), but for brands where no drummer's gear list references
+      // that brand's ids (e.g. ludwig) it returns empty — fall back to the curated
+      // brand.drummers array (already used for ssrLinks above) so the ItemList is never empty.
+      const computedBrandDrummers = getDrummersUsingBrand(brandSlug);
+      const brandDrummerSlugs = computedBrandDrummers.length > 0 ? computedBrandDrummers : brand.drummers;
       return {
         title: `${brand.name} ${brand.type === 'drum kits' ? 'Drums' : 'Cymbals'} — Metal Drummers Who Use ${brand.name} | ${SITE_NAME}`,
         description: brand.tagline,
@@ -4742,6 +4748,21 @@ export function getMetaForPath(pathname) {
           name: `Metal Drummers Who Use ${brand.name}`,
           description: brand.tagline,
           url: `${BASE_URL}/gear/${brandSlug}`,
+          mainEntity: {
+            '@type': 'ItemList',
+            name: `${brand.name} Metal Drummers`,
+            numberOfItems: brandDrummerSlugs.length,
+            itemListElement: brandDrummerSlugs.slice(0, 10).map((slug, i) => ({
+              '@type': 'ListItem',
+              position: i + 1,
+              item: {
+                '@type': 'Person',
+                name: drummerSlugToName[slug] || slug,
+                jobTitle: 'Drummer',
+                url: `${BASE_URL}/drummer/${slug}`,
+              },
+            })),
+          },
         }),
       };
     }

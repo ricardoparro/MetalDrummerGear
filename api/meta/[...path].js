@@ -2876,11 +2876,19 @@ export function getMetaForPath(pathname) {
                 '@type': 'OrganizationRole',
                 member: { '@type': 'Person', name: m.name },
                 roleName: m.role,
+                ...(m.period ? {
+                  startDate: m.period.split('-')[0],
+                  ...(m.period.includes('present') ? {} : { endDate: m.period.split('-')[1] })
+                } : {}),
               }))
             : drummerHistory.map(h => ({
                 '@type': 'OrganizationRole',
                 member: { '@type': 'Person', name: drummerSlugToName[h.drummer] || h.drummer },
                 roleName: 'Drums',
+                ...(h.period ? {
+                  startDate: h.period.split('-')[0],
+                  ...(h.period.includes('present') ? {} : { endDate: h.period.split('-')[1] })
+                } : {}),
               }))
           ),
           dateModified: today,

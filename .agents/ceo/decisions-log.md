@@ -5,6 +5,36 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-08-03 00:37 UTC*
 
 ---
+## 2026-08-03 18:37 — Deep run: 1 fresh proposal promoted (/vs/ Person schema, L2) + 1 GSC-gap issue filed (danny-carey-kit CTR gap, 3-week persistence threshold crossed)
+
+### Context (≤3 lines)
+Metrics 18:37 UTC (209 users/240 sessions/483 views 7d; GSC 7,014 impr/134 clicks/1.91% CTR/pos 11.5, no ≥50-impr content-gap rows). No deep-run log entry yet today despite fresh L1/L2/L3 refreshes (GSC 09:14, L2 08:49, L3 10:37 UTC) — treating this run as the day's deep run. Eligible `ai-fix` backlog **0** at run start (all 20 open `ai-fix` still `hold`-labeled under the #5114 freeze); 1 fresh untriaged `seo-proposal` (#5209, filed 13:57 UTC).
+
+### Actions taken
+- **Promoted #5209** (`ai-fix`): `/vs/<d1>-vs-<d2>` comparison pages (226 pages) emit zero `Person` schema for either compared drummer — `api/meta/[...path].js` `vsMatch` branch never populates `personSchema`, even though the identical bug on the sibling `/battles/` page family was already fixed by #4462 (closed) and never generalized. Live-verified via GPTBot curl (0 Person nodes on `/vs/lars-ulrich-vs-dave-lombardo`); precedent fix (#4462) confirmed still live on `/battles/`. Checked #4843 (closed — same branch, only added Speakable, not Person) — no overlap. No duplicate. Freeze-compliant: zero new pages, additive schema-depth on an existing citable-entity page family, directly serves L2.
+- **Filed #5214** (`ai-fix`): `danny carey kit` crossed the established 3-consecutive-week 0%-CTR threshold (`learned-patterns.md`'s eloy-casagrande rule) that promotes a CTR-gap from noise to signal — pos 11.0→8.9→8.6 (climbing into top-10) but 0/26, 0/22, 0/20 clicks across 2026-07-20/07-27/08-03 snapshots (verified via `.agents/seo/gsc-history/*.json`, not just the current snapshot). This is a fresh query pattern, not a re-fix: prior danny-carey title work (#4739) targeted the `drum set` cluster only. Current `metaTitle` already contains "Drum Kit" (verified in `extendedBios.js:1099`) so the gap is likely the biography-framed `metaDescription` not answering kit-lookup intent — scoped the fix to that field only. No duplicate found (searched "danny carey kit" across open+closed).
+- **L1 big-losses (2):** `danny carey drum setup` (pos 12.6→17.7, 13→6 impr) and `mike mangini drum kit` (pos 12.7→18.2, 12→6 impr) — both low-volume, no recent code touching either page's route in the last 21 days (`git log --since="21 days ago"` shows only unrelated batch regen commits), matches the same confirmed-noise pattern as the 07-30 run. Not filed.
+- **L2 (#2211):** 41/100 cited this refresh, down from 43/100 last week — read as LLM API non-determinism (Perplexity), not a code regression; still well above the 25-floor that would force ≥2 pattern issues/week. No history file exists to diff which specific query flipped, so not chasing a phantom regression without a code suspect.
+- **L3:** indexed share 81.6% (sentinel 96.4%), both up slightly from 07-27's 81.2% — no regression. `/gear` + `/quotes` crawled-not-indexed (stale since 07-01/07-02) both live-checked (200, non-zero internal links already present) — this reads as a content-quality verdict, not a missing-links bug any prior fix (#4689/#3960) covered; no atomic code fix identified, watching rather than filing a vague issue.
+- **Starvation check:** backlog was 0→2 post-promotion, untriaged bank 0 — technically meets the trigger, but SEO Agent has filed 3 fresh proposals today alone (#5204/#5205 this morning, #5209 this afternoon) all triaged same-day — this is a fast-cycling pipeline (propose→promote→ship same day), not a supply problem. No meta-issue or founder escalation warranted.
+- Founder ideas: inbox empty, unchanged since 06-19. Human-founder blockers (#5141/#5100/#4892/#875/#529/#526/#525) unchanged, no re-spam.
+
+### State delta
+- ai-fix backlog: 0 → 2 eligible (#5209, #5214)
+- Org/Sessions/Views (7d): 209/240/483 (up from 08-03 00:37's 198/228/463) · GSC: 7,014 impr / 134 clicks / 1.91% CTR / pos 11.5
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 1/1 fresh triaged and promoted, verified, no duplicate, freeze-compliant. ✅ GSC-gap: 1 filed (danny-carey-kit, crossed the persistence threshold). ✅ L1/L2/L3 close-the-loop: all 3 reviewed; L1 losses confirmed noise, L2 dip read as API noise (no code suspect), L3 stable/slightly up, crawled-not-indexed pair watched not filed (no atomic fix identified). ✅ Starvation: trigger technically met but resolved as healthy fast-cycle, not filed. ✅ Atomic split: none eligible (both fresh). ✅ Decisions logged.
+
+### Next Run
+1. Watch #5209 ship, then bot-UA curl `/vs/lars-ulrich-vs-dave-lombardo` for Person nodes.
+2. Watch #5214 ship, then track `danny carey kit` in the next 1-2 weekly `gsc-watch-snapshot.md` refreshes for ≥1 click.
+3. If L2 stays at/below 41/100 next refresh (not just this week's dip), treat as a real trend, not noise.
+4. #5141/#5100/#4892/#875/#529/#526/#525 unchanged — no re-spam.
+
+---
+
+---
 ## 2026-08-03 00:37 — Cheap pulse: 2 fresh proposals promoted (drumsticks-signature FAQPage gap + drumsticks/cymbals best-for-metal SpeakableSpecification gap), both schema-parity depth fixes
 
 ### Context (≤3 lines)

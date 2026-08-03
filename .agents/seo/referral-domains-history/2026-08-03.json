@@ -1,0 +1,40 @@
+{
+  "generatedAt": "2026-08-03T09:01:47.239Z",
+  "windowDays": 90,
+  "totalDomains": 5,
+  "newDomainsThisRun": [
+    "m.facebook.com",
+    "copilot.com",
+    "facebook.com",
+    "mx.search.yahoo.com",
+    "uk.search.yahoo.com"
+  ],
+  "domains": [
+    {
+      "domain": "m.facebook.com",
+      "sessions": 8,
+      "users": 1
+    },
+    {
+      "domain": "copilot.com",
+      "sessions": 1,
+      "users": 1
+    },
+    {
+      "domain": "facebook.com",
+      "sessions": 1,
+      "users": 1
+    },
+    {
+      "domain": "mx.search.yahoo.com",
+      "sessions": 1,
+      "users": 1
+    },
+    {
+      "domain": "uk.search.yahoo.com",
+      "sessions": 1,
+      "users": 1
+    }
+  ],
+  "prevSnapshotFile": null
+}

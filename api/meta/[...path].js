@@ -6246,6 +6246,8 @@ export function getMetaForPath(pathname) {
       faqSchema: faqAnswer ? [
         { question: 'What is the fastest metal song?', answer: faqAnswer },
       ] : null,
+      speakableSchema: true,
+      speakableCssSelector: ['h1', 'h2', 'p'],
       articleSchema: JSON.stringify({
         '@context': 'https://schema.org',
         '@type': 'ItemList',

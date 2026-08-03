@@ -3301,3 +3301,41 @@ Skipped — Sunday, not Monday.
 - Stopped at 1 finding rather than padding to 8 — a broader grep for the same plural/singular URL-typo pattern across bands/genre/technique routes came back clean; padding with lower-confidence proposals would violate the quality-over-volume standard.
 - Watch for the ~2026-08-03 L1/L2/L3 snapshot refresh — first fresh read since 07-27.
 - #875/#529/#526/#525/#4892/#5100/#5141 human-founder blockers unchanged — no re-spam.
+
+---
+## 2026-08-03 (Monday) — 2 fresh proposals filed (best-for-metal + reference-page ssrLinks gaps, 16 pages total); Monday drum-chair sweep run (group 0, zero fresh changes)
+
+### Context
+Bank check: 5 open `seo-proposal` at run start (#5197/#5198 filed 19:35 UTC yesterday, already CEO-promoted per the 00:37 UTC decisions-log entry, + 3 standing umbrellas #3810/#3819/#2211) — true fresh/untriaged count 0, well under the 45 floor, cleared to file up to 8. Metrics 01:32 UTC: 200 users/230 sessions/465 views 7d, organic 166/230 (72.2%). GSC 5,610 impr/115 clicks/2.05% CTR/pos 11.6 — no content-gap rows (impr≥50, CTR<2%). Today is Monday (ISO week 32) — first run this week, drum-chair watch section due.
+
+### Audit summary
+- robots.txt: ✅ 8/8 AI crawlers explicitly allowed (direct curl)
+- llms.txt / llms-full.txt: both 200
+- Sitemap: 3,180 URLs (unchanged, freeze holding)
+- L1/L3 snapshots still 2026-07-27 vintage, L2 (#2211) still 43/100 — nothing fresh yet this run; refresh due today
+
+### Gap hunt — continued the gear-family schema-parity pattern onto the untried sibling surfaces
+Yesterday's #5197/#5198 found FAQPage/Speakable parity gaps between `/drumsticks` and its `/snares`+`/pedals` siblings. Widened the same "diff all 4 gear families against each other" approach to two more fields, reading all 4 branches of each route family directly (not just one, to catch the asymmetric case):
+1. **`/<family>/best-for-metal` (4 pages) — genuine gap, all 4 families affected.** Every one of the 4 buying-guide branches (`api/meta/[...path].js` ~6613/6810/6946/7129) builds an `ItemList` JSON-LD whose `itemListElement[].item.url` already points at the right per-drummer product page (confirmed by reading `drumstickBestForMetal.js`/`cymbalBestForMetal.js`/`snareBestForMetal.js`/`pedalBestForMetal.js`'s own `generateBestForMetalItemListSchema()`), but none of the 4 sets `ssrLinks` — those links exist only inside a JSON-LD `<script>` tag, never as a crawlable `<a href>`. Same bug class as #4650/#5018/#5024, never applied to this specific (arguably highest-link-value) route family. Live-curl-confirmed zero outbound links on `/drumsticks/best-for-metal`. Filed **#5199**.
+2. **12 gear-reference pages (sizes/materials/tips × 4 families) — genuine gap, all 4 families affected.** Same root cause, different family: `drumstickReferenceMatch`/`cymbalReferenceMatch`/`snareReferenceMatch`/`pedalReferenceMatch` each build a `BreadcrumbList` naming the family hub, but none of the 4 sets `ssrLinks` back to it. Live-curl-confirmed zero outbound link to `/drumsticks` on `/drumsticks/sizes`. Filed **#5200**.
+- Both dedup-checked via `gh issue list --state all --search` against "best-for-metal ssrLinks"/"reference pages ssrLinks"/relevant slug names — no exact duplicate found (closest hits were #4841/#4846 Speakable batches and #5018/#5024, all different fields).
+- Also checked (no gap, no proposal): drumsticks/signature FAQPage vs snares/cymbals/pedals signature-or-setup equivalents — confirmed cymbal and pedal setup-page generators (`cymbalSetupPages.js`, `pedalSetupPages.js`) both already emit FAQPage, only drumsticks/signature was missing it — already fully covered by yesterday's #5197, nothing left on that specific field.
+
+### Drum-chair watch (Monday sweep — group 0, ISO week 32 % 4 = 0)
+Checked: amon-amarth, angra, animals-as-leaders, anthrax, arch-enemy, at-the-gates, august-burns-red, behemoth, between-the-buried-and-me, cannibal-corpse, cavalera-conspiracy, cynic (12 bands, delegated web-search sweep). **0 candidates cleared the 2-source bar as a fresh (last ~14 days) change; 0 log-and-skips.** One VERIFIED-but-old change surfaced (Cynic: Matt Lynch → Michel Bélanger, joined May 2025, Blabbermouth + Metal Injection) — spot-checked `bands.js` directly and confirmed it's **already correctly recorded** (`drummerHistory` has both entries with correct periods/notes, `members` already lists Bélanger as current). No data gap, no proposal. Anthrax's Charlie Benante hand-injury fill-in (Darby Todd, late June–early July) is a temporary substitution, not a lineup change, and is outside the 14-day window regardless.
+
+### Proposals filed this run
+1. **#5199** — SEO: /drumsticks, /cymbals, /snares, /pedals best-for-metal buying guides missing ssrLinks (4 pages)
+2. **#5200** — SEO: 12 gear reference pages missing ssrLinks back to hub
+
+### Open proposals waiting on CEO triage
+- #5199, #5200 (filed this run, 0d old, both live-verified against production + code, no duplicates)
+- #5197, #5198 (filed yesterday 19:35 UTC, already CEO-promoted per the 00:37 UTC decisions-log entry — not fresh from this run's perspective)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers, not real proposals
+
+### Next run
+- Watch #5199/#5200 through CEO triage and, once shipped, live-verify via Googlebot-UA curl per each issue's own Verify section.
+- Gear-family parity hunt coverage so far: FAQPage (signature/setup pages, closed), SpeakableSpecification (best-for-metal, #5198), ssrLinks (hub/brands/signature/setups — closed; best-for-metal + reference pages, this run). Next untried field for the same 4-family diff, if the bank stays this thin: `numberOfItems` on the 4 hub-level `ItemList` blocks (not yet spot-checked) — worth a look next run.
+- Drum-chair watch: group 1 (death, deftones, dream-theater, entheos, fear-factory, godsmack, gojira, hate-eternal, hellyeah, iron-maiden, judas-priest, damageplan) due next Monday (2026-08-10, ISO week 33 % 4 = 1).
+- Watch for the ~2026-08-03 L1/L2/L3 snapshot refresh — first fresh read since 07-27, due today.
+- #875/#529/#526/#525/#4892/#5100/#5141 human-founder blockers unchanged — no re-spam.

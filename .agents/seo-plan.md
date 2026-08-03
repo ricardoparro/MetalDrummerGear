@@ -3376,3 +3376,47 @@ Already logged earlier today (group 0, 0 candidates cleared bar) — not re-run 
 - Watch for the ~2026-08-03 L1/L2/L3 snapshot refresh — still 07-27 vintage as of this run, due today but not yet landed.
 - #875/#529/#526/#525/#4892/#5100/#5141 human-founder blockers unchanged — no re-spam.
 - #875/#529/#526/#525/#4892/#5100/#5141 human-founder blockers unchanged — no re-spam.
+
+---
+## 2026-08-03 (Monday, ~15:xx UTC run) — 1 fresh proposal filed (/vs/ comparison pages missing Person schema, 226 pages); L1/L3 snapshots fresh this run (first since 07-27); danny-carey CTR anomaly flagged, not re-fixed
+
+### Context
+Bank check: 6 open `seo-proposal` at run start (#5204/#5205 filed earlier today, already CEO-promoted per the 00:37 UTC decisions-log entry, + 3 standing umbrellas #3810/#3819/#2211) — true fresh/untriaged count 0, well under the 45 floor, cleared to file up to 8. Metrics (last refreshed 13:51 UTC): 206 users/236 sessions/477 views 7d, organic 176/236 (74.6%). GSC 7,014 impr/134 clicks/1.91% CTR/pos 11.5 — no content-gap rows (impr≥50, CTR<2%). Drum-chair Monday sweep already logged twice earlier today (group 0, 0 candidates) — not re-run.
+
+### Audit summary
+- robots.txt: ✅ 8/8 AI crawlers explicitly allowed (direct curl)
+- llms.txt / /llms/index.md: 200, 637 lines, structure current
+- `/public/llms/**.md`: 2,001 files on disk across 26 subdirectories (drummers/bands/songs/vs/etc.) — unchanged count
+- **L1/L3 snapshots refreshed today — first fresh read since 2026-07-27.**
+
+### L1 (GSC watch, generated 09:14 UTC) — read in full, one CTR-gap flagged and NOT re-actioned
+- 2 big losses (`danny carey drum setup` pos 12.6→17.7, `mike mangini drum kit` pos 12.7→18.2) — both low-impression (6-13), reads as rolling-window noise on thin-volume queries, not a regression signal worth a proposal.
+- 1 CTR-gap-opportunity: `danny carey kit` pos 8.6-8.9, 20-22 impr, **0.00% CTR two weeks running**. Checked before proposing a mechanical title/meta rewrite: this exact page (`/drummer/danny-carey`) already had title+meta+FAQ rewritten via **#4739** (closed, shipped) targeting the "drum set" cluster — live curl confirms current title `"Danny Carey Drum Kit & Drum Set — Tool's Gear Setup | MetalForge"` already contains "kit" phrasing. Notably, the two `danny carey drum kit`/`danny carey drum set` **big-win** queries this same week both show impressions tripling (35→121, 24→57) with **clicks still stuck at 0** — the same page, same pattern, right after a title/meta fix that should have moved CTR. This reads as a genuine anomaly (SERP snippet lag, a rich-result feature stealing clicks, or something else) rather than a title-copy problem a second rewrite would fix. **Not filing another mechanical title/meta proposal on a page just fixed twice with no effect** — flagging for CEO/founder awareness instead. Worth revisiting if next week's snapshot still shows 0 clicks despite the impression surge holding.
+- 10 big wins, 33 new queries (many BPM/tempo queries) — no action needed, context only.
+
+### L3 (indexation, generated 10:36 UTC) — read in full, all "actionable" items are stale-crawl artifacts, not fresh bugs
+- Sitemap 3,180 URLs (unchanged, freeze holding). Sentinel indexed share 96.4% (241/250), full-site proxy 1,455/3,180 (45.8%) earned ≥1 impression in 90d.
+- 3× `error-404` (gear-history: george-kollias, martin-axenrot, paul-mazurkiewicz), 2× `soft-404` (`/stats`, `/stats/gear-insights`), 2× `crawled-not-indexed` (`/gear`, `/quotes`), 18× `duplicate` + 3× `duplicate-google-canonical` (mostly canonical → `/lists/math-metal-drummers`, an unrelated page) — **live-curl-verified every one of these as currently 200 with correct self-referencing canonical and real content.** All flagged rows carry a "Last crawl" date of 2026-07-01 to 2026-07-07 — Google's index reflects a crawl from before recent fixes shipped, not a live bug. No proposal filed; these should clear on the next crawl pass.
+
+### Gap hunt — closed out both surfaces flagged by yesterday's runs as untried
+Delegated a focused agent to read the actual SSR code (not just grep) for `/drummers/<slug>/licks` (hub) and `/vs/<d1>-vs-<d2>`, comparing each against its sibling baseline, then independently re-verified every claim myself (direct file read of the exact line ranges + live curl + dedup search) before filing:
+1. **`/drummers/<slug>/licks` hub — checked, ruled clean.** `drummerLicksHubMatch` (`api/meta/[...path].js:3291-3433`) already has `CollectionPage`, `BreadcrumbList`, `FAQPage`, `SpeakableSpecification`, and `ssrLinks` — matches or exceeds the `gear-history`/`evolution` sibling baseline (3546-3630). History: #1325/#1388/#4849/#5017 already closed this gap. **Separate non-code observation, not filed:** live production serves the "tutorials coming soon" fallback for lars-ulrich and dave-lombardo even though `packages/frontend/data/licks/{lars-ulrich,dave-lombardo}.js` have real lick data and the lookup logic in current source is correct — looks like a stale Vercel deployment, not a source bug, so not an `ai-fix`-shaped issue. Worth a founder heads-up if it persists.
+2. **`/vs/<d1>-vs-<d2>` — genuine gap, 226 pages.** `vsMatch` (`api/meta/[...path].js:978-1038`) emits `Article`/`FAQPage`/`BreadcrumbList`/`Speakable`/`ssrLinks` but **zero `Person` schema** for either compared drummer. Direct-read-confirmed against the identical-shape `/battles/<slug>` sibling (5392-5436), which got this exact fix via **#4462** (closed) using the already-shared `generatePersonSchema()` renderer (7481-7499) — never ported to `/vs/`. Live curl: `/vs/lars-ulrich-vs-dave-lombardo` has 0 `Person` nodes, `/battles/lars-ulrich-vs-dave-lombardo` has `Person`+`MusicGroup`. Checked #4843 (closed — added Speakable to this same branch, 226 pages) — different field, no overlap. No duplicate found. Filed **#5209**.
+
+### Proposals filed this run
+1. **#5209** — SEO: /vs/<d1>-vs-<d2> comparison pages emit zero Person schema for either compared drummer (226 pages)
+
+### Drum-chair watch
+Already logged twice earlier today (group 0, 0 candidates cleared bar) — not re-run this pass.
+
+### Open proposals waiting on CEO triage
+- #5209 (filed this run, 0d old, live-verified against production + code, no duplicate)
+- #5204, #5205 (filed earlier today, already CEO-promoted per the 00:37 UTC decisions-log entry — not fresh from this run's perspective)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers, not real proposals
+
+### Next run
+- Watch #5209 through CEO triage and, once shipped, live-verify Person/MusicGroup nodes on 2-3 more `/vs/` pairs per its own Verify section.
+- **Watch the danny-carey `kit` CTR-gap query next weekly L1 snapshot** — if still 0 clicks despite sustained/growing impressions on the `drum kit`/`drum set`/`kit` cluster after two title/meta passes, this may need founder-level SERP inspection (screenshot the actual Google result) rather than another code fix.
+- Drummer sub-page family (gear-history/evolution/licks-hub) and `/vs/` are now both fully schema-audited against their respective baselines — don't re-check without a fresh regression signal.
+- Remaining untried surface if the bank stays thin next run: haven't yet checked `/vs/` for `ssrLinks`-forward-to-lick-or-signature-page depth, or diffed the `/gear/<brand>/<series>` (kit-level) hub pages against the drummer-profile Person-schema baseline the same way `/vs/` just got checked.
+- #875/#529/#526/#525/#4892/#5100/#5141 human-founder blockers unchanged — no re-spam.

@@ -1026,6 +1026,12 @@ export function getMetaForPath(pathname) {
             answer: `${drummer1.name} (${drummer1.band}) plays ${drummer1.gear?.drums || 'a custom drum kit'} with ${drummer1.gear?.cymbals || 'cymbals'}, while ${drummer2.name} (${drummer2.band}) plays ${drummer2.gear?.drums || 'a custom drum kit'} with ${drummer2.gear?.cymbals || 'cymbals'}.`,
           },
         ],
+        // Issue #5209: Person entities for both compared drummers, matching
+        // the /battles/<slug> precedent (#4462) for this comparison shape.
+        personSchema: [
+          { name: drummer1.name, url: `${BASE_URL}/drummer/${slug1}`, band: drummer1.band },
+          { name: drummer2.name, url: `${BASE_URL}/drummer/${slug2}`, band: drummer2.band },
+        ],
         ssrLinks: [
           { href: '/vs', label: 'All Drummer Comparisons' },
           { href: `/drummer/${slug1}`, label: drummer1.name },

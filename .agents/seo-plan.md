@@ -3338,4 +3338,41 @@ Checked: amon-amarth, angra, animals-as-leaders, anthrax, arch-enemy, at-the-gat
 - Gear-family parity hunt coverage so far: FAQPage (signature/setup pages, closed), SpeakableSpecification (best-for-metal, #5198), ssrLinks (hub/brands/signature/setups — closed; best-for-metal + reference pages, this run). Next untried field for the same 4-family diff, if the bank stays this thin: `numberOfItems` on the 4 hub-level `ItemList` blocks (not yet spot-checked) — worth a look next run.
 - Drum-chair watch: group 1 (death, deftones, dream-theater, entheos, fear-factory, godsmack, gojira, hate-eternal, hellyeah, iron-maiden, judas-priest, damageplan) due next Monday (2026-08-10, ISO week 33 % 4 = 1).
 - Watch for the ~2026-08-03 L1/L2/L3 snapshot refresh — first fresh read since 07-27, due today.
+
+---
+## 2026-08-03 (Monday, ~13:xx UTC run) — 2 fresh proposals filed (evolution-page FAQPage gap 72 pages, fastest-metal-songs speakable gap); numberOfItems lead from prior run ruled out clean; drum-chair watch already logged today, skipped
+
+### Context
+Bank check: 5 open `seo-proposal` at run start (#5199/#5200 filed earlier today, already CEO-promoted per the 00:37 UTC decisions-log entry, + 3 standing umbrellas #3810/#3819/#2211) — true fresh/untriaged count 0, well under the 45 floor, cleared to file up to 8. Metrics 08:07 UTC: 205 users/235 sessions/474 views 7d, organic 173/235 (73.6%). GSC 7,014 impr/134 clicks/1.91% CTR/pos 11.5 — no content-gap rows (impr≥50, CTR<2%; mario-duplantier-drum-kit at 51 impr/3.92% CTR is the closest and already clears 2%). Drum-chair Monday sweep already logged earlier today (group 0, 0 candidates) — not re-run.
+
+### Audit summary
+- robots.txt: ✅ 8/8 AI crawlers explicitly allowed (direct curl, confirmed all 8 UA strings present)
+- llms.txt / llms-full.txt: both 200 (direct curl)
+- `/public/llms/**.md` on disk: 2,001 files total (72 under `drummers/`)
+- L1/L3 snapshots (`gsc-watch-snapshot.md`/`indexation-snapshot.md`): still 2026-07-27 vintage per `git log` — weekly refresh due today, not yet landed. L2 (#2211) still last-refreshed 2026-07-27, 43/100 cited, above the 25-floor.
+
+### Gap hunt — closed out last run's flagged lead, then widened the drummer-sub-page + songs-family parity checks
+1. **`numberOfItems` on the 4 gear-hub `ItemList` blocks (flagged last run) — checked, no gap.** Read all 4 branches (`/drumsticks` ~6516, `/cymbals` ~6703, `/snares` ~6893, `/pedals` ~7076): each sets `numberOfItems: <ARRAY>.length` where `<ARRAY>` is exactly the same array mapped 1:1 into `itemListElement`. Counts always match. No proposal.
+2. **`/drummers/<slug>/evolution` FAQPage gap — genuine, 72 pages.** Delegated an agent to hunt untried surfaces (studies, songs, licks, drummer sub-pages, quotes — all read directly, not just grepped), then personally verified both findings via direct file read + live curl before filing (per standing practice). Evolution is the sole one of 3 drummer sub-page siblings (`gear-history`/`evolution`/`endorsements`) missing `faqSchema` — confirmed via direct read of all 3 branches (`api/meta/[...path].js` ~3546-3683) and live GPTBot-UA curl (0 FAQPage on evolution vs 1 each on the two siblings, checked on lars-ulrich/tomas-haake/danny-carey/george-kollias). `DRUMMER_EVOLUTION` (72 keys, confirmed via `node` import) already has era-level data (years/albums/tours/description) sufficient for a data-driven FAQ, zero new data needed. Dedup: #1817 (3-page version) was auto-pruned 2026-06-30 for bank-cap reasons (NOT_PLANNED, "not rejected on merit") — scope has grown 3→72 since the full evolution dataset shipped after that filing; prune-bot's own text invites re-filing. Filed **#5204**.
+3. **`/songs/fastest-metal-songs` speakable gap — genuine, 1 flagship page.** Confirmed via direct read (`api/meta/[...path].js` ~6207-6262) that this is a separate literal-path branch from the 3 regex branches (`songsTempoTierMatch`/`songsDrummerMatch`/`songDetailMatch`) that #4848 already fixed — never in that issue's scope. Live GPTBot-UA curl: 0 `SpeakableSpecification` on fastest-metal-songs vs 1 on `/songs/tempo/extreme` and the `/songs` hub. Page already has FAQPage + ItemList; purely the one missing field. No duplicate found (`gh issue list --state all --search "songs speakable"` — only #4848 which explicitly excludes this page). Filed **#5205**.
+- Agent also checked and ruled clean (no gap, not re-checking without a fresh reason): lick pages (comprehensive — VideoObject×2/HowTo/MusicRecording/speakable), all 4 `/studies/<slug>` + hub (comprehensive — Dataset/Article/FAQPage/speakable/tables), `/songs` hub + `/songs/tempo/<tier>` + `/songs/drummer/<slug>` + `/songs/<slug>` detail (already fully speakable per #4848), `/quotes` (comprehensive).
+
+### Proposals filed this run
+1. **#5204** — SEO: /drummers/<slug>/evolution pages missing FAQPage schema (72 pages)
+2. **#5205** — SEO: /songs/fastest-metal-songs missing SpeakableSpecification (flagship songs page)
+
+### Drum-chair watch
+Already logged earlier today (group 0, 0 candidates cleared bar) — not re-run this pass.
+
+### Open proposals waiting on CEO triage
+- #5204, #5205 (filed this run, 0d old, both live-verified against production + code, no duplicates)
+- #5199, #5200 (filed earlier today, already CEO-promoted per the 00:37 UTC decisions-log entry — not fresh from this run's perspective)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers, not real proposals
+
+### Next run
+- Watch #5204/#5205 through CEO triage and, once shipped, live-verify via GPTBot-UA curl per each issue's own Verify section.
+- Drummer sub-page family (gear-history/evolution/endorsements) is now fully schema-parity-audited (FAQPage) — don't re-check without a fresh regression signal. Songs family is now fully speakable-audited (hub + all 3 regex branches + the one literal-path flagship) — same, don't re-check without a fresh reason.
+- Remaining untried surface for the next run if the bank stays thin: haven't yet diffed `/drummers/<slug>/licks` (the hub, not individual lick pages) or `/vs/<d1>-vs-<d2>` schema depth against the drummer-profile baseline — worth a look.
+- Watch for the ~2026-08-03 L1/L2/L3 snapshot refresh — still 07-27 vintage as of this run, due today but not yet landed.
+- #875/#529/#526/#525/#4892/#5100/#5141 human-founder blockers unchanged — no re-spam.
 - #875/#529/#526/#525/#4892/#5100/#5141 human-founder blockers unchanged — no re-spam.

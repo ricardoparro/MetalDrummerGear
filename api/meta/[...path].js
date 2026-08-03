@@ -6618,6 +6618,16 @@ export function getMetaForPath(pathname) {
       image: DEFAULT_IMAGE,
       type: 'article',
       url,
+      // Issue #5199: buying guide had zero crawlable outbound links — the
+      // ItemList JSON-LD below already names every /drumsticks/signature/<slug>
+      // page, but only as inert JSON, never an <a href>.
+      ssrLinks: [
+        { href: '/drumsticks', label: 'Drumsticks' },
+        ...DRUMSTICKS.map(stick => ({
+          href: `/drumsticks/signature/${stick.drummerSlug}`,
+          label: `${stick.brand} ${stick.model} — ${stick.drummerSlug}`,
+        })),
+      ],
       articleSchema: JSON.stringify([
         generateBestForMetalArticleSchema(),
         generateBestForMetalItemListSchema(DRUMSTICKS),
@@ -6805,6 +6815,15 @@ export function getMetaForPath(pathname) {
       image: DEFAULT_IMAGE,
       type: 'article',
       url,
+      // Issue #5199: expose the same per-drummer links already named in the
+      // ItemList JSON-LD below (target is /drummer/<slug>, matching that schema).
+      ssrLinks: [
+        { href: '/cymbals', label: 'Cymbals' },
+        ...CYMBAL_SETUPS.map(setup => ({
+          href: `/drummer/${setup.drummerSlug}`,
+          label: `${setup.brands.join(' & ')} cymbal setup — ${setup.drummerSlug}`,
+        })),
+      ],
       articleSchema: JSON.stringify([
         generateCymbalBestForMetalArticleSchema(),
         generateCymbalBestForMetalItemListSchema(CYMBAL_SETUPS),
@@ -6944,6 +6963,15 @@ export function getMetaForPath(pathname) {
       image: DEFAULT_IMAGE,
       type: 'article',
       url,
+      // Issue #5199: expose the same per-drummer links already named in the
+      // ItemList JSON-LD below.
+      ssrLinks: [
+        { href: '/snares', label: 'Snares' },
+        ...SIGNATURE_SNARES.map(snare => ({
+          href: `/snares/signature/${snare.drummerSlug}`,
+          label: `${snare.brand} ${snare.model} — ${snare.drummerSlug}`,
+        })),
+      ],
       articleSchema: JSON.stringify([
         generateSnareBestForMetalArticleSchema(),
         generateSnareBestForMetalItemListSchema(SIGNATURE_SNARES),
@@ -7127,6 +7155,15 @@ export function getMetaForPath(pathname) {
       image: DEFAULT_IMAGE,
       type: 'article',
       url,
+      // Issue #5199: expose the same per-drummer links already named in the
+      // ItemList JSON-LD below.
+      ssrLinks: [
+        { href: '/pedals', label: 'Pedals' },
+        ...PEDALS.map(pedal => ({
+          href: `/pedals/setups/${pedal.drummerSlug}`,
+          label: `${pedal.brand ? `${pedal.brand} ` : ''}${pedal.model || pedal.summary} — ${pedal.drummerSlug}`,
+        })),
+      ],
       articleSchema: JSON.stringify([
         generatePedalBestForMetalArticleSchema(),
         generatePedalBestForMetalItemListSchema(PEDALS),

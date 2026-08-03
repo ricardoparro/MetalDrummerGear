@@ -3625,6 +3625,20 @@ export function getMetaForPath(pathname) {
         ],
         speakableSchema: true,
         speakableCssSelector: ['h1', 'h2', 'p'],
+        faqSchema: [
+          {
+            question: `How has ${drummer.name}'s drum kit changed over the years?`,
+            answer: `${drummer.name}'s setup evolved across ${evolution.eras.length} distinct eras with ${drummer.band}, from the "${evolution.eras[0].era}" (${evolution.eras[0].years}) to their current setup. See the full era-by-era gear breakdown on MetalForge.`,
+          },
+          {
+            question: `What was ${drummer.name}'s first drum kit?`,
+            answer: `${drummer.name}'s earliest documented setup was during the "${evolution.eras[0].era}" (${evolution.eras[0].years}). ${evolution.eras[0].description || ''}`.trim(),
+          },
+          {
+            question: `How many gear eras does ${drummer.name} have documented?`,
+            answer: `MetalForge documents ${evolution.eras.length} distinct gear eras for ${drummer.name}, spanning ${evolution.totalYearsActive}.`,
+          },
+        ],
       };
     }
   }

@@ -6237,6 +6237,8 @@ export function getMetaForPath(pathname) {
       image: DEFAULT_IMAGE,
       type: 'website',
       url: `${BASE_URL}/songs/fastest-metal-songs`,
+      speakableSchema: true,
+      speakableCssSelector: ['h1', 'h2', 'p'],
       ssrLinks,
       tables: [{
         heading: 'Fastest Metal Songs',

@@ -6699,6 +6699,7 @@ export function getMetaForPath(pathname) {
       // brand/reference/setup sub-routes, unlike drummer profiles, articles, etc.
       speakableSchema: true,
       speakableCssSelector: ['h1', 'h2', 'p'],
+      ssrLinks: [{ href: '/drumsticks', label: 'Drumsticks' }],
     };
   }
 
@@ -6898,6 +6899,7 @@ export function getMetaForPath(pathname) {
       // brand/reference/setup sub-routes, unlike drummer profiles, articles, etc.
       speakableSchema: true,
       speakableCssSelector: ['h1', 'h2', 'p'],
+      ssrLinks: [{ href: '/cymbals', label: 'Cymbals' }],
     };
   }
 
@@ -7090,6 +7092,7 @@ export function getMetaForPath(pathname) {
       // brand/reference/setup sub-routes, unlike drummer profiles, articles, etc.
       speakableSchema: true,
       speakableCssSelector: ['h1', 'h2', 'p'],
+      ssrLinks: [{ href: '/snares', label: 'Snares' }],
     };
   }
 
@@ -7289,6 +7292,7 @@ export function getMetaForPath(pathname) {
       // brand/reference/setup sub-routes, unlike drummer profiles, articles, etc.
       speakableSchema: true,
       speakableCssSelector: ['h1', 'h2', 'p'],
+      ssrLinks: [{ href: '/pedals', label: 'Pedals' }],
     };
   }
 

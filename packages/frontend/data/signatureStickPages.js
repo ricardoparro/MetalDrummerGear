@@ -41,6 +41,15 @@ export function getSignatureStickPageData(drummerSlug, drummerName) {
   };
 }
 
+// Single-sentence, direct-answer text for "What sticks does <drummer> use?" —
+// shared verbatim between the visible FAQ block on the page and the FAQPage
+// schema so the two never drift.
+export function generateSignatureStickDirectAnswer(data) {
+  const { stick, drummerName } = data;
+  return `${drummerName} plays the ${stick.brand} ${stick.model} — ${stick.material}, ${stick.size} ` +
+    `(${stick.diameterIn}" dia. x ${stick.lengthIn}" long), ${stick.tip.toLowerCase()} tip.`;
+}
+
 export function generateSignatureStickTitle(data) {
   return `What Drumsticks Does ${data.drummerName} Use? ${data.stick.brand} ${data.stick.model} | MetalForge`;
 }
@@ -88,8 +97,9 @@ function setCanonical(href) {
   el.setAttribute('href', href);
 }
 
-// Product + BreadcrumbList JSON-LD. Returns a plain array safe to JSON.stringify;
-// never throws. Offers are only included once retailerUrls is populated.
+// Product + BreadcrumbList + FAQPage JSON-LD. Returns a plain array safe to
+// JSON.stringify; never throws. Offers are only included once retailerUrls
+// is populated.
 export function generateSignatureStickSchema(data) {
   if (!data) return null;
   const { stick, drummerName, canonicalUrl } = data;
@@ -128,5 +138,17 @@ export function generateSignatureStickSchema(data) {
     ],
   };
 
-  return [productSchema, breadcrumbSchema];
+  const faqSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: [
+      {
+        '@type': 'Question',
+        name: `What sticks does ${drummerName} use?`,
+        acceptedAnswer: { '@type': 'Answer', text: generateSignatureStickDirectAnswer(data) },
+      },
+    ],
+  };
+
+  return [productSchema, breadcrumbSchema, faqSchema];
 }

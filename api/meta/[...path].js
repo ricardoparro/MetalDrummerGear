@@ -6635,7 +6635,6 @@ export function getMetaForPath(pathname) {
     const drummer = getDrummerBySlug(slug);
     const data = drummer ? getSignatureStickPageData(slug, drummer.name) : null;
     if (data) {
-      const [productSchema] = generateSignatureStickSchema(data) || [];
       return {
         title: generateSignatureStickTitle(data),
         description: truncate(generateSignatureStickDescription(data), 160),
@@ -6650,19 +6649,7 @@ export function getMetaForPath(pathname) {
           { href: '/drumsticks/brands', label: 'Drumstick Brands' },
           { href: `/drummer/${slug}`, label: `${drummer.name} Profile` },
         ],
-        articleSchema: JSON.stringify([
-          productSchema,
-          {
-            '@context': 'https://schema.org',
-            '@type': 'BreadcrumbList',
-            itemListElement: [
-              { '@type': 'ListItem', position: 1, name: 'Home', item: BASE_URL },
-              { '@type': 'ListItem', position: 2, name: 'Drumsticks', item: `${BASE_URL}/drumsticks` },
-              { '@type': 'ListItem', position: 3, name: drummer.name, item: `${BASE_URL}/drummer/${slug}` },
-              { '@type': 'ListItem', position: 4, name: `${drummer.name}'s Sticks`, item: data.canonicalUrl },
-            ],
-          },
-        ].filter(Boolean)),
+        articleSchema: JSON.stringify((generateSignatureStickSchema(data) || []).filter(Boolean)),
         speakableSchema: true,
         speakableCssSelector: ['h1', 'h2', 'p'],
       };

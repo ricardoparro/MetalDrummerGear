@@ -6699,6 +6699,8 @@ export function getMetaForPath(pathname) {
       // brand/reference/setup sub-routes, unlike drummer profiles, articles, etc.
       speakableSchema: true,
       speakableCssSelector: ['h1', 'h2', 'p'],
+      // Issue #5200: surface the BreadcrumbList's family-hub link as a crawlable <a>.
+      ssrLinks: [{ href: '/drumsticks', label: 'Drumsticks' }],
     };
   }
 
@@ -6898,6 +6900,8 @@ export function getMetaForPath(pathname) {
       // brand/reference/setup sub-routes, unlike drummer profiles, articles, etc.
       speakableSchema: true,
       speakableCssSelector: ['h1', 'h2', 'p'],
+      // Issue #5200: surface the BreadcrumbList's family-hub link as a crawlable <a>.
+      ssrLinks: [{ href: '/cymbals', label: 'Cymbals' }],
     };
   }
 
@@ -7090,6 +7094,8 @@ export function getMetaForPath(pathname) {
       // brand/reference/setup sub-routes, unlike drummer profiles, articles, etc.
       speakableSchema: true,
       speakableCssSelector: ['h1', 'h2', 'p'],
+      // Issue #5200: surface the BreadcrumbList's family-hub link as a crawlable <a>.
+      ssrLinks: [{ href: '/snares', label: 'Snares' }],
     };
   }
 
@@ -7289,6 +7295,8 @@ export function getMetaForPath(pathname) {
       // brand/reference/setup sub-routes, unlike drummer profiles, articles, etc.
       speakableSchema: true,
       speakableCssSelector: ['h1', 'h2', 'p'],
+      // Issue #5200: surface the BreadcrumbList's family-hub link as a crawlable <a>.
+      ssrLinks: [{ href: '/pedals', label: 'Pedals' }],
     };
   }
 

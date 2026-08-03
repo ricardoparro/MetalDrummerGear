@@ -1097,7 +1097,7 @@ Portnoy's technical proficiency, creative compositions, and theatrical live perf
       { slug: 'volto', period: '2000-present', role: 'Drummer' }
     ],
     metaTitle: 'Danny Carey Drum Kit & Gear Setup — Tool Drummer | MetalForge',
-    metaDescription: 'Complete biography of Danny Carey, Tool\'s legendary drummer known for complex polyrhythms, sacred geometry, and innovative drumming. Explore his career, philosophy, and gear.',
+    metaDescription: 'Full breakdown of Danny Carey\'s drum kit as Tool\'s drummer: Sonor SQ2 Heavy Beech shells, his signature bronze snare, Paiste Signature cymbals, and Mandala electronic pads. Modern Drummer Hall of Fame inductee and Grammy winner.',
     ogImage: '/images/drummers/danny-carey.webp',
     keywords: ['tool', 'progressive metal', 'sonor drums', 'polyrhythms', 'sacred geometry', 'grammy winner', 'mandala drums'],
     relatedDrummers: ['tomas-haake', 'mike-portnoy', 'mario-duplantier', 'martin-lopez'],

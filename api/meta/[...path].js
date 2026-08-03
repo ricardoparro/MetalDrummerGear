@@ -6624,6 +6624,9 @@ export function getMetaForPath(pathname) {
         generateBestForMetalFaqSchema(),
         generateBestForMetalBreadcrumbSchema(),
       ].filter(Boolean)),
+      // Issue #5198: SpeakableSpecification — missed in #4916 hub/tool route sweep.
+      speakableSchema: true,
+      speakableCssSelector: ['h1', 'h2', 'p'],
     };
   }
 
@@ -6821,6 +6824,9 @@ export function getMetaForPath(pathname) {
         generateCymbalBestForMetalFaqSchema(),
         generateCymbalBestForMetalBreadcrumbSchema(),
       ].filter(Boolean)),
+      // Issue #5198: SpeakableSpecification — missed in #4916 hub/tool route sweep.
+      speakableSchema: true,
+      speakableCssSelector: ['h1', 'h2', 'p'],
     };
   }
 

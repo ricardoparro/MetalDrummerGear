@@ -361,10 +361,15 @@ const DRUMMER_META_OVERRIDES = {
   },
   // Issue #4739: "danny carey drum set" (71 impr, 1.41% CTR, pos 11.3) — extendedBios
   // metaTitle/metaDescription said "Drum Kit" and generic bio copy, never "drum set".
+  // Issue #5214: "danny carey kit" CTR-gap (pos 8.6, 20 impr, 0% CTR across 3 weeks) —
+  // description led with "drum set" statement framing, not a direct "kit" lookup
+  // answer. Rewritten to lead with the question form that converts on eloy-casagrande's
+  // #3282 fix ("What drum kit does X use?"), while keeping "drum set" so the #4739
+  // cluster isn't regressed. Title untouched — already leads with "Drum Kit".
   'danny-carey': {
     title: `Danny Carey Drum Kit & Drum Set — Tool's Gear Setup | ${SITE_NAME}`,
     description:
-      "See Danny Carey's full drum set: Sonor SQ2 Heavy Beech kit, Paiste cymbals, Mandala electronic pads — Tool's polyrhythm-defining setup, piece by piece.",
+      "What drum kit does Danny Carey use? The Tool drummer's Sonor SQ2 Heavy Beech drum set, bronze snare, and Paiste cymbals — full kit breakdown, piece by piece.",
   },
 };
 

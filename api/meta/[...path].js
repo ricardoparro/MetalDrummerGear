@@ -3066,6 +3066,7 @@ export function getMetaForPath(pathname) {
                   '@type': 'Person',
                   name: d.name,
                   url: `${BASE_URL}/drummer/${_normalizeDrummerSlug(d.name)}`,
+                  memberOf: { '@type': 'MusicGroup', name: d.band },
                 },
               })),
             }] : []),

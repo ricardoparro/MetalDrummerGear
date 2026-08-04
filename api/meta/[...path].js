@@ -7307,6 +7307,11 @@ export function getMetaForPath(pathname) {
         image: DEFAULT_IMAGE,
         type: 'article',
         url: data.canonicalUrl,
+        // Issue #5224: Person entity for the page's drummer, mirroring the
+        // /vs/ fix (#5209) — closes the /pedals/setups/ Person schema gap.
+        personSchema: [
+          { name: drummer.name, url: `${BASE_URL}/drummer/${slug}`, band: drummer.band },
+        ],
         // Issue #5024: the BreadcrumbList in articleSchema below is JSON-LD
         // text only — bots need an actual crawlable <a href> back to the hub
         // and drummer profile, same as /battles (#4674) and /songs.

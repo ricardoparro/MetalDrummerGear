@@ -1178,6 +1178,11 @@ export function getMetaForPath(pathname) {
         { name: 'Home', url: BASE_URL },
         { name: 'Drumming Guides', url: `${BASE_URL}/guides` },
       ],
+      // Issue #5219: FAQPage — hub-schema-completeness sweep gap.
+      faqSchema: [
+        { question: 'How many drumming guides does MetalForge have?', answer: `MetalForge publishes ${Object.values(BEGINNER_GUIDES).length + Object.values(SOUND_LIKE_GUIDES).length + Object.values(GENRE_GEAR_GUIDES).length} step-by-step guides covering beginner setup, sounding like specific pro drummers, and genre-specific gear selection.` },
+        { question: 'Are the guides free to use?', answer: 'Yes — every MetalForge guide, including sound-like-a-pro tutorials and genre gear guides, is free with no signup required.' },
+      ],
       speakableSchema: true,
       speakableCssSelector: ['h1', 'h2', 'p'],
     };
@@ -6522,6 +6527,11 @@ export function getMetaForPath(pathname) {
       breadcrumbSchema: [
         { name: 'Home', url: BASE_URL },
         { name: 'BPM Calculator', url: `${BASE_URL}/bpm` },
+      ],
+      // Issue #5219: FAQPage — hub-schema-completeness sweep gap.
+      faqSchema: [
+        { question: 'How many metal songs are in the BPM database?', answer: `MetalForge's BPM database covers ${metalSongs.length} metal songs across every subgenre, from doom to grindcore, each tagged with tempo and the drummer who played it.` },
+        { question: 'How do I find the BPM of a metal song?', answer: 'Use the tap-tempo calculator to match a song\'s beat in real time, or browse the ranked database to look up a specific song\'s BPM directly.' },
       ],
       // Issue #4863: SpeakableSpecification — sweep gap on hub/utility pages.
       speakableSchema: true,

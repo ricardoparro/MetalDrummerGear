@@ -468,6 +468,26 @@ function _brandConfirmedDrummerLinks(entries, pathPrefix, max = 4) {
   return links;
 }
 
+// Issue #5228: same dedup-by-drummerSlug loop as _brandConfirmedDrummerLinks
+// above, but resolves+collects the drummer objects themselves (for
+// personSchema) instead of building ssrLinks entries. The drummers[] entries
+// carry no `slug` field of their own, so the route slug used for the lookup
+// is attached onto the returned object (same slug _brandConfirmedDrummerLinks
+// uses to build its /drummer/<slug>-style hrefs).
+function _brandConfirmedDrummers(entries) {
+  const seen = new Set();
+  const result = [];
+  for (const entry of entries) {
+    const slug = entry.drummerSlug;
+    if (!slug || seen.has(slug)) continue;
+    const drummer = getDrummerBySlug(slug);
+    if (!drummer) continue;
+    seen.add(slug);
+    result.push({ ...drummer, slug });
+  }
+  return result;
+}
+
 // Issue #4650: dedupes a pillar hub's ssrLinks by href (a drummer can appear
 // more than once in a gear-record list) while preserving first-seen order —
 // mirrors the dedupe already applied to brand-detail ssrLinks (#4477).
@@ -6637,6 +6657,7 @@ export function getMetaForPath(pathname) {
     if (brand) {
       const confirmedSticks = getConfirmedSticksForBrand(brand);
       const studyLinks = getBrandStudyLinks(brand.name);
+      const brandDrummers = _brandConfirmedDrummers(confirmedSticks);
       return {
         title: generateBrandTitle(brand),
         description: truncate(generateBrandDescription(brand, confirmedSticks), 160),
@@ -6653,6 +6674,16 @@ export function getMetaForPath(pathname) {
           // client-side only via #4766 but were never added to SSR ssrLinks.
           ...studyLinks.map((l) => ({ href: `/studies/${l.studySlug}`, label: l.studyTitle })),
         ],
+        // Issue #5228: Person schema for this brand's confirmed drummers —
+        // reuses the shared generatePersonSchema() renderer already wired for
+        // 7 sibling families.
+        ...(brandDrummers.length > 0 ? {
+          personSchema: brandDrummers.map(d => ({
+            name: d.name,
+            url: `${BASE_URL}/drummer/${d.slug}`,
+            band: d.band,
+          })),
+        } : {}),
         articleSchema: JSON.stringify(generateBrandSchema(brand, confirmedSticks)),
         // Issue #4841: SpeakableSpecification was never wired for the gear-theme
         // brand/reference/setup sub-routes, unlike drummer profiles, articles, etc.
@@ -7077,6 +7108,7 @@ export function getMetaForPath(pathname) {
     if (brand) {
       const confirmedSnares = getSnaresForBrand(brand);
       const studyLinks = getBrandStudyLinks(brand.name);
+      const brandDrummers = _brandConfirmedDrummers(confirmedSnares);
       return {
         title: generateSnareBrandTitle(brand),
         description: truncate(generateSnareBrandDescription(brand, confirmedSnares), 160),
@@ -7091,6 +7123,16 @@ export function getMetaForPath(pathname) {
           // client-side only via #4766 but were never added to SSR ssrLinks.
           ...studyLinks.map((l) => ({ href: `/studies/${l.studySlug}`, label: l.studyTitle })),
         ],
+        // Issue #5228: Person schema for this brand's confirmed drummers —
+        // reuses the shared generatePersonSchema() renderer already wired for
+        // 7 sibling families.
+        ...(brandDrummers.length > 0 ? {
+          personSchema: brandDrummers.map(d => ({
+            name: d.name,
+            url: `${BASE_URL}/drummer/${d.slug}`,
+            band: d.band,
+          })),
+        } : {}),
         articleSchema: JSON.stringify(generateSnareBrandSchema(brand, confirmedSnares)),
         // Issue #4841: SpeakableSpecification was never wired for the gear-theme
         // brand/reference/setup sub-routes, unlike drummer profiles, articles, etc.

@@ -5906,6 +5906,11 @@ export function getMetaForPath(pathname) {
           href: d.slug ? `/drummer/${d.slug}` : null,
           label: d.band ? `${d.name} (${d.band})` : d.name,
         })).filter(l => l.href),
+        personSchema: kitDrummers.slice(0, 10).map(d => ({
+          name: d.name,
+          url: `${BASE_URL}/drummer/${d.slug}`,
+          band: d.band,
+        })),
         articleSchema: JSON.stringify([
           {
             '@context': 'https://schema.org',
@@ -6016,6 +6021,13 @@ export function getMetaForPath(pathname) {
         type: 'website',
         url: `${BASE_URL}/gear/${brandSlug}/${BRAND_LEVEL_SERIES_SLUG}/drummers-using`,
         ...(brandSsrDrummerLinks ? { ssrDrummerLinks: brandSsrDrummerLinks } : {}),
+        ...(brandDrummers.length > 0 ? {
+          personSchema: brandDrummers.slice(0, 10).map(d => ({
+            name: d.name,
+            url: `${BASE_URL}/drummer/${d.slug}`,
+            band: d.band,
+          })),
+        } : {}),
         articleSchema: JSON.stringify([
           {
             '@context': 'https://schema.org',
@@ -6099,6 +6111,7 @@ export function getMetaForPath(pathname) {
       },
     ];
     let seriesSsrDrummerLinks = null;
+    let seriesPersonSchema = null;
     if (Array.isArray(seriesDrummers) && seriesDrummers.length > 0) {
       const nameList = seriesDrummers.length > 1
         ? seriesDrummers.slice(0, 8).map(d => d.name).join(', ')
@@ -6107,6 +6120,11 @@ export function getMetaForPath(pathname) {
         href: d.slug ? `/drummer/${d.slug}` : null,
         label: d.band ? `${d.name} (${d.band})` : d.name,
       })).filter(l => l.href);
+      seriesPersonSchema = seriesDrummers.slice(0, 10).map(d => ({
+        name: d.name,
+        url: `${BASE_URL}/drummer/${d.slug}`,
+        band: d.band,
+      }));
       // Issue #4913: prefer the curated buildFAQ() (adds pricing + related-series
       // questions) via getGearSeriesData(); only its `.faq` array is read — never
       // `.schema`, which bundles a Product/AggregateOffer we don't want here (see
@@ -6167,6 +6185,7 @@ export function getMetaForPath(pathname) {
       type: 'website',
       url: `${BASE_URL}/gear/${brandSlug}/${seriesSlug}/drummers-using`,
       ...(seriesSsrDrummerLinks && seriesSsrDrummerLinks.length > 0 ? { ssrDrummerLinks: seriesSsrDrummerLinks } : {}),
+      ...(seriesPersonSchema && seriesPersonSchema.length > 0 ? { personSchema: seriesPersonSchema } : {}),
       articleSchema: JSON.stringify({
         '@context': 'https://schema.org',
         '@graph': graph,

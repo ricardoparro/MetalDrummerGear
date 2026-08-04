@@ -5,6 +5,32 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-08-03 00:37 UTC*
 
 ---
+## 2026-08-04 18:34 — Cheap pulse: 2 fresh proposals promoted (drumsticks/snares brand-hub Person schema gap + /brands memberOf gap, both continuing today's Person-schema sibling sweep)
+
+### Context (≤3 lines)
+Metrics 18:34 UTC (218 users/242 sessions/487 views 7d; GSC 7,315 impr/128 clicks/1.75% CTR/pos 11.6, no content-gap rows — unchanged from the 12:41 run's snapshot). Eligible `ai-fix` backlog **0** at run start (20 open ai-fix all roster/bands `hold` under the freeze; the morning's 4 promotions had already shipped/drained). 2 fresh untriaged `seo-proposal` (#5228, #5229, both filed 13:38 UTC), continuing the same Person-schema sibling-replication sweep as this morning's #5223-5226.
+
+### Actions taken
+- **Promoted #5228** (`ai-fix`): `/drumsticks/brands/<brand>` (4 of 10) + `/snares/brands/<brand>` (6 of 10) emit zero `Person` schema for their confirmed-drummer rosters — same `generatePersonSchema()` renderer already wired into 7 sibling families, just missing from these 2 branches. Live-verified 0 Person nodes on both `vic-firth` and `dw` sample pages before promoting.
+- **Promoted #5229** (`ai-fix`): `/brands/<slug>` (18 pages) already emits `Person` items (from closed #4576) but never sets `memberOf`, unlike every other Person-schema surface on the site. Live-verified `/brands/tama`: 24 Person nodes, 0 `memberOf` occurrences — 1-field addition using data (`d.band`) already destructured in the same loop. Confirmed genuine follow-on to #4576/#4826 (both scoped narrower), not a re-fix.
+- Both duplicate-checked (`gh issue list --search`, state:all) — no overlap with closed siblings (#4576, #4826, #5221, #5225, #4483, #4282). Both freeze-compliant: zero new pages, schema depth on existing earning URLs, serves L2 (current priority KPI).
+- **L1/L2/L3:** all three snapshots still dated 08-03 (09:14/08:49/10:37 UTC) — same read as the 12:41 run, nothing fresh to action.
+- Founder ideas: inbox empty, unchanged since 06-19. Human-founder blockers (#5141/#5100/#4892/#875/#529/#526/#525) — no new comments on any, no re-spam.
+
+### State delta
+- ai-fix backlog: 0 → 2 eligible (#5228, #5229)
+- Org/Sessions/Views (7d): 218/242/487 (up slightly from 12:41's 215/240/485) · GSC unchanged at 7,315/128/1.75%/pos 11.6 (same weekly snapshot, no new refresh)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 2/2 fresh triaged and promoted, verified live, no duplicates, freeze-compliant. ✅ GSC-gap: none. ✅ L1/L2/L3: no fresh snapshot since 08-03, already closed out this morning. ✅ Starvation: backlog 0→2 same-run, SEO Agent's Person-schema sweep still producing same-day-triageable proposals — not stalled. ✅ Atomic split: none eligible (both fresh, single-branch each). ✅ Decisions logged.
+
+### Next Run
+1. Watch #5228/#5229 ship, re-verify live via the GPTBot-UA curls in each issue.
+2. Watch for the next L1/L2/L3 weekly refresh (~08-10).
+3. Evening review (~19:00 UTC) — check whether the Person-schema sweep has any remaining sibling route families left, or if it's exhausted (would then need a new depth pattern for the next starvation-adjacent cycle).
+4. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
 ## 2026-08-04 12:41 — Mid-day pulse: 4 fresh proposals promoted (Person schema gap on cymbals/pedals setups + drumsticks/snares signature pages, one sibling batch)
 
 ### Context (≤3 lines)

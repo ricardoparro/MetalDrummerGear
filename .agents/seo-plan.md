@@ -3420,3 +3420,37 @@ Already logged twice earlier today (group 0, 0 candidates cleared bar) — not r
 - Drummer sub-page family (gear-history/evolution/licks-hub) and `/vs/` are now both fully schema-audited against their respective baselines — don't re-check without a fresh regression signal.
 - Remaining untried surface if the bank stays thin next run: haven't yet checked `/vs/` for `ssrLinks`-forward-to-lick-or-signature-page depth, or diffed the `/gear/<brand>/<series>` (kit-level) hub pages against the drummer-profile Person-schema baseline the same way `/vs/` just got checked.
 - #875/#529/#526/#525/#4892/#5100/#5141 human-founder blockers unchanged — no re-spam.
+
+---
+## 2026-08-04 (Tuesday, ~01:xx UTC run) — 1 fresh proposal filed (/gear/<brand>/<series>/drummers-using Person schema gap, 45 pages); /vs/ Person-schema absence re-checked and attributed to deploy lag, not a new bug
+
+### Context
+Bank check: 4 open `seo-proposal`-labeled issues at run start (#5219, filed 08-03, still untriaged + 3 standing umbrellas #3810/#3819/#2211) — true fresh/untriaged count 1, well under the 45 floor, cleared to file up to 8. Metrics 01:32 UTC: 205 users/230 sessions/466 views 7d, organic 164/230 (71.3%). GSC 5,843 impr/114 clicks/1.95% CTR/pos 11.5 — no content-gap rows (impr≥50, CTR<2%). Today is Tuesday (ISO week 32) — drum-chair Monday sweep not due, skipped.
+
+### Audit summary
+- robots.txt: ✅ 8/8 AI crawlers explicitly allowed (direct curl)
+- llms.txt / llms-full.txt: both 200
+- L1/L3 snapshots (`gsc-watch-snapshot.md`/`indexation-snapshot.md`): still 2026-08-03 09:14/10:37 UTC vintage — no fresh weekly refresh since the last run reviewed them (weekly cadence, next due ~08-10). L2 (#2211) also unchanged since 08-03 08:49 UTC (41/100). Re-checked the standing danny-carey-kit CTR-gap row in the current snapshot — confirms it's the same one already actioned via #5214 (shipped), nothing new.
+
+### Gap hunt — followed up on last run's 2 flagged untried leads
+Delegated a focused agent to read the actual SSR code (not just grep) for (1) `/vs/` ssrLinks depth vs `/battles/` baseline, and (2) `/gear/<brand>/<series>` kit-level Person-schema parity vs the drummer-profile baseline, then personally re-verified every claim via direct file read + line-count scripts + live bot-UA curl before filing:
+1. **Lead 1 (`/vs/` ssrLinks depth) — false lead, but surfaced a real (non-actionable) observation.** `/vs/` (lines 978-1044) and `/battles/` (5411-5456) `ssrLinks` are structurally identical (hub link + 2 drummer-profile links) — neither links deeper to licks/signature pages, so there's no "missing depth link." However, live curl on `/vs/lars-ulrich-vs-joey-jordison` still shows **zero Person schema** despite #5209/PR #5215 (merged 2026-08-03 19:34Z) already shipping the fix in code — `x-vercel-cache: MISS`/`age: 0` rules out CDN staleness. Read as the known once-daily batched-deploy lag (`learned-patterns.md` meta-shell-saga rule: check `gh run list --workflow=deploy-prod.yml` before assuming a merged fix is live) — the next scheduled deploy should carry it. **Not filed** — this is a watch item for the next run's live-verify, not a new bug.
+2. **Lead 2 (`/gear/<brand>/<series>/drummers-using` Person-schema parity) — genuine gap, 45 pages, all 3 branches.** Read all 3 branches directly (`kitDrummersMatch` 5866-5953, `brandLevelDrummersMatch` 5959-6056, `gearSeriesDrummersMatch` 6061-6170+) — every one builds `ItemList`/`ssrDrummerLinks` from a real drummer array (`kitDrummers`/`brandDrummers`/`seriesDrummers`) but none sets `personSchema`, unlike `/vs/`/`/battles/` which already reuse the shared `generatePersonSchema()` renderer (7505-7523) for this exact purpose. Counted scope precisely: 12 kit-level (`DRUMMERS_BY_KIT` non-empty, 19 keys − 7 empty) + 2 brand-level (Evans/Remo, `GEAR_INDEX_BRAND_LEVEL`) + 31 generic-series (`GEAR_INDEX`, counted via direct grep) = 45. Live curl confirmed zero `Person` nodes on a kit-level sample. Checked the similarly-shaped `/brands/<slug>` pages (18, #4576) — those already embed inline `Person` type (just missing `memberOf`), a smaller gap explicitly scoped out. Dedup-checked against #5192/#4794/#4673/#4361 — none target Person schema on this family. Filed **#5221**.
+
+### Proposals filed this run
+1. **#5221** — SEO: /gear/<brand>/<series>/drummers-using pages emit zero Person schema for listed drummers (45 pages)
+
+### Drum-chair watch
+Skipped — Tuesday, not Monday; group 0 already swept 2026-08-03.
+
+### Open proposals waiting on CEO triage
+- #5221 (filed this run, 0d old, live-verified against production + code, no duplicate)
+- #5219 (filed 08-03, still untriaged as of this run — bpm/bpm-tap/guides hub FAQPage gap, 3 pages)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers, not real proposals
+
+### Next run
+- Watch #5219/#5221 through CEO triage; once #5221 ships, live-verify Person nodes on 1 sample per branch type (kit/brand-level/generic) via the issue's own Verify steps.
+- **Re-check `/vs/` Person schema next run** (`curl -A GPTBot https://metalforge.io/vs/lars-ulrich-vs-dave-lombardo`) — if still absent after the next scheduled deploy (`gh run list --workflow=deploy-prod.yml` postdating PR #5215's 19:34Z merge), that's a genuine regression worth filing; if present, it was deploy lag as expected.
+- Stopped at 1 finding rather than padding to 8 — quality-over-volume; `/vs/` ssrLinks-depth lead is now closed out (ruled clean), and no other untried surface was flagged going into this run.
+- Watch for the ~2026-08-10 L1/L3 weekly snapshot refresh — still 08-03 vintage as of this run.
+- #875/#529/#526/#525/#4892/#5100/#5141 human-founder blockers unchanged — no re-spam.

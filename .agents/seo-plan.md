@@ -3454,3 +3454,47 @@ Skipped — Tuesday, not Monday; group 0 already swept 2026-08-03.
 - Stopped at 1 finding rather than padding to 8 — quality-over-volume; `/vs/` ssrLinks-depth lead is now closed out (ruled clean), and no other untried surface was flagged going into this run.
 - Watch for the ~2026-08-10 L1/L3 weekly snapshot refresh — still 08-03 vintage as of this run.
 - #875/#529/#526/#525/#4892/#5100/#5141 human-founder blockers unchanged — no re-spam.
+
+---
+## 2026-08-04 (Tuesday, ~08:xx UTC run) — 4 fresh proposals filed (Person schema gap on gear setup/signature pages, 152 pages total); `/vs/` Person-schema watch item resolved as a false alarm (grep bug, not a regression)
+
+### Context
+Bank check: 4 open `seo-proposal`-labeled issues at run start (#5221 already promoted, still carries the label + 3 standing umbrellas #3810/#3819/#2211) — true fresh/untriaged count 0, well under the 45 floor, cleared to file up to 8. Metrics 07:50 UTC: 211 users/236 sessions/478 views 7d, organic 173/236 (73.3%). GSC 7,315 impr/128 clicks/1.75% CTR/pos 11.6 — no content-gap rows (impr≥50, CTR<2%). Today is Tuesday — drum-chair Monday sweep not due (already logged 08-03).
+
+### Audit summary
+- robots.txt: ✅ 8/8 AI crawlers explicitly allowed (direct curl)
+- llms.txt / llms-full.txt: both 200
+- Sitemap: unchanged, freeze holding
+
+### Watch item resolved: last run's `/vs/` Person-schema re-check was a false alarm
+Re-curled `/vs/lars-ulrich-vs-dave-lombardo` (GPTBot UA, cache-busted) per last run's watch item. Initial `grep -o '"@type":"Person"'` (no space) returned 0 — looked like a live regression even though the 06:50 UTC deploy postdated PR #5215's merge (19:34Z 08-03). Investigated before filing anything: the JSON-LD is pretty-printed (`JSON.stringify(schema, null, 2)` in `generatePersonSchema()`), so the actual text is `"@type": "Person"` **with a space** after the colon. Re-grepped with the space-aware pattern → 2 `Person` matches, correct `memberOf`/`url`. **Not a regression — a grep-pattern bug in my own verification step.** Confirmed `x-meta-handler: hit-v1`, `x-vercel-cache: MISS`, `age: 0` — genuinely live, fresh render. **Rule for future verification: this codebase's JSON-LD is emitted via pretty-printed `JSON.stringify(schema, null, 2)` in several renderers (`generatePersonSchema` at minimum) — always grep for `"@type": "X"` (space after colon) as well as the compact form, or a false negative reads as a false regression.**
+
+### Gap hunt — Person-schema parity check on 4 untried per-drummer gear page families
+Delegated a focused agent to check whether `/cymbals/setups/<drummer>`, `/pedals/setups/<drummer>`, `/drumsticks/signature/<drummer>`, `/snares/signature/<drummer>` — all per-drummer, gear-focused, and NOT yet checked against the Person-schema baseline that `/vs/`/`/battles/`/`/gear/.../drummers-using` already have — carry Person schema. Personally re-verified every claim via direct file read (all 4 branches in `api/meta/[...path].js`, all 4 schema builders in their respective `packages/frontend/data/*Pages.js` modules) + live GPTBot-UA curl (space-aware grep, per the lesson above) + page-count via `node` import + `gh issue list --search` dedup check, before filing:
+
+1. **`/cymbals/setups/<drummer>` (56 pages) — genuine gap.** `cymbalSetupMatch` (`api/meta/[...path].js:6879-6905`) already fetches the full `drummer` object (`getDrummerBySlug`, line 6882) but `generateCymbalSetupSchema()` (`cymbalSetupPages.js:109-155`) never builds a Person node. `daniel-erlandsson` is this week's #2 GA4 page (17 views) — this is depth on an earning URL. Filed **#5223**.
+2. **`/pedals/setups/<drummer>` (56 pages) — genuine gap.** Same shape, `pedalSetupMatch` (7274-7300), `generatePedalSetupSchema()` (`pedalSetupPages.js:122-161`). `joey-jordison` is this week's top pedals page (9 views). Filed **#5224**.
+3. **`/drumsticks/signature/<drummer>` (30 pages) — genuine gap.** `signatureStickMatch` (6679-6704), `generateSignatureStickSchema()` (`signatureStickPages.js:103-154`). Distinct field from #5197 (FAQPage, already shipped) — no overlap. Filed **#5225**.
+4. **`/snares/signature/<drummer>` (10 pages) — genuine gap.** `signatureSnareMatch` (7075-7099), `generateSignatureSnareSchema()` (`signatureSnarePages.js:106-158`). Smallest roster (only 10 drummers have a verified signature snare). Filed **#5226**.
+
+All 4 fixes are a 1-line addition per branch — add `personSchema: [{ name: drummer.name, url: \`\${BASE_URL}/drummer/\${slug}\`, band: drummer.band }]` to the already-returned meta object, reusing the exact `generatePersonSchema()` renderer (`api/meta/[...path].js:7514-7530`) already wired into the output pipeline by #4462/#5209/#5221 — zero new schema-building code, zero new pages, freeze-compliant depth work. Dedup-checked all 4 against `gh issue list --state all --search` — closest hits were unrelated (#4282 shipped Product+Breadcrumb on drumsticks/signature, predates this Person-specific gap; #4483 is an unrelated /snares/brands hub proposal).
+
+### Proposals filed this run
+1. **#5223** — SEO: /cymbals/setups/<drummer> pages emit zero Person schema (56 pages)
+2. **#5224** — SEO: /pedals/setups/<drummer> pages emit zero Person schema (56 pages)
+3. **#5225** — SEO: /drumsticks/signature/<drummer> pages emit zero Person schema (30 pages)
+4. **#5226** — SEO: /snares/signature/<drummer> pages emit zero Person schema (10 pages)
+
+### Drum-chair watch
+Not due — Tuesday, group 0 already swept 2026-08-03.
+
+### Open proposals waiting on CEO triage
+- #5223, #5224, #5225, #5226 (filed this run, 0d old, all live-verified against production + code, no duplicates)
+- #5221 (already CEO-promoted per the 06:56 UTC decisions-log entry — not fresh from this run's perspective)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers, not real proposals
+
+### Next run
+- Watch #5223/#5224/#5225/#5226 through CEO triage; once shipped, live-verify Person nodes per each issue's own Verify steps (remember the space-aware grep pattern).
+- Person-schema parity sweep across per-drummer gear-family pages is now complete for the 6 families checked so far (`/vs/`, `/battles/`, `/gear/<brand>/<series>/drummers-using`, `/cymbals/setups/`, `/pedals/setups/`, `/drumsticks/signature/`, `/snares/signature/`) — don't re-check without a fresh regression signal. Remaining untried surface if the bank stays thin: haven't checked `/drumsticks/brands/<brand>` or `/snares/brands/<brand>` (brand-hub pages, not per-drummer) for the same gap class — lower priority since they're not per-drummer entity pages.
+- Watch for the ~2026-08-10 L1/L3 weekly snapshot refresh — still 08-03 vintage as of this run.
+- #875/#529/#526/#525/#4892/#5100/#5141 human-founder blockers unchanged — no re-spam.

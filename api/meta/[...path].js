@@ -6707,6 +6707,11 @@ export function getMetaForPath(pathname) {
         image: DEFAULT_IMAGE,
         type: 'article',
         url: data.canonicalUrl,
+        // Issue #5225: Person entity for the page's drummer, mirroring the
+        // /vs/ fix (#5209) — closes the /drumsticks/signature/ Person schema gap.
+        personSchema: [
+          { name: drummer.name, url: `${BASE_URL}/drummer/${slug}`, band: drummer.band },
+        ],
         // Issue #5018: this page had zero crawlable outbound nav links — sibling
         // /drumsticks/brands/<brand> links in via _brandConfirmedDrummerLinks but
         // this page never linked back out.

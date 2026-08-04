@@ -3498,3 +3498,39 @@ Not due — Tuesday, group 0 already swept 2026-08-03.
 - Person-schema parity sweep across per-drummer gear-family pages is now complete for the 6 families checked so far (`/vs/`, `/battles/`, `/gear/<brand>/<series>/drummers-using`, `/cymbals/setups/`, `/pedals/setups/`, `/drumsticks/signature/`, `/snares/signature/`) — don't re-check without a fresh regression signal. Remaining untried surface if the bank stays thin: haven't checked `/drumsticks/brands/<brand>` or `/snares/brands/<brand>` (brand-hub pages, not per-drummer) for the same gap class — lower priority since they're not per-drummer entity pages.
 - Watch for the ~2026-08-10 L1/L3 weekly snapshot refresh — still 08-03 vintage as of this run.
 - #875/#529/#526/#525/#4892/#5100/#5141 human-founder blockers unchanged — no re-spam.
+
+---
+## 2026-08-04 (Tuesday, ~13:xx UTC run) — 2 fresh proposals filed (brand-hub Person schema gap on drumsticks/snares brand pages, 10 pages; /brands/<slug> memberOf gap, 18 pages); closes out last run's remaining flagged lead
+
+### Context
+Bank check: 7 open `seo-proposal`-labeled issues at run start (#5223-5226 already CEO-promoted per the 12:41 UTC decisions-log entry, still carrying the label + 3 standing umbrellas #3810/#3819/#2211) — true fresh/untriaged count 0, well under the 45 floor, cleared to file up to 8. Metrics 13:33 UTC: 215 users/240 sessions/485 views 7d, organic 181/240 (75.4%). GSC 7,315 impr/128 clicks/1.75% CTR/pos 11.6 — no content-gap rows (impr≥50, CTR<2%). Today is Tuesday — drum-chair Monday sweep not due (already logged 08-03).
+
+### Audit summary
+- robots.txt: ✅ 8/8 AI crawlers explicitly allowed (direct curl)
+- llms.txt / llms-full.txt: both 200
+- Sitemap: unchanged, freeze holding
+
+### Gap hunt — closed out last run's remaining flagged lead (`/drumsticks/brands/<brand>` + `/snares/brands/<brand>`), plus a fresh check on `/technique/<slug>/drummers` and `/brands/<slug>`
+Delegated a focused agent to read the actual SSR code (not just grep) for 3 candidate surfaces, then personally re-verified every claim via direct file read + live bot-UA curl (space-aware grep) + node one-liners for page counts + `gh issue list --search` dedup, before filing:
+
+1. **`/drumsticks/brands/<brand>` + `/snares/brands/<brand>` — genuine gap, 10 pages.** Both branches (`drumstickBrandMatch` 6631-6663, `snareBrandMatch` 7062-7090 in `api/meta/[...path].js`) already build crawlable `ssrLinks` to confirmed drummers via `_brandConfirmedDrummerLinks()` (456-469, which itself resolves `drummerSlug` → drummer object via the local `getDrummerBySlug()` helper, 445-448) but their `articleSchema` builders (`generateBrandSchema`/`generateSnareBrandSchema`) only emit `ItemList` of `Product` + `BreadcrumbList` — no `Person` anywhere, and neither branch sets `personSchema`. Live curl confirmed 0 Person nodes on `/drumsticks/brands/vic-firth` and `/snares/brands/dw`. Counted unique drummers per brand via `node` (dedup by `drummerSlug`): 4 drumstick brands (vic-firth 12, pro-mark 9, tama 2, ahead 1) + 6 snare brands (tama 17, pearl 16, sonor 7, ludwig 2, mapex 2, dw 2) = 10 pages with a non-empty roster. Fix reuses the existing `getDrummerBySlug()` lookup + the exact `personSchema` shape already live at line 6024-6030 (`brandLevelDrummersMatch`). No duplicate (#4282/#4483 cover different fields on the same routes). Filed **#5228**.
+2. **`/technique/<slug>/drummers` — checked, already fixed.** Inline `Person` objects (name/jobTitle/url/memberOf) confirmed live via curl on `/technique/blast-beat/drummers` — #4461 (closed) already shipped this. Not a gap, no action.
+3. **`/brands/<slug>` — genuine follow-on gap, 18 pages.** The `ItemList` of `Person` items (`api/meta/[...path].js:3058-3071`, shipped by #4576) sets only `name`+`url`, never `memberOf`, even though `d.band` is already available and used on the same route for the `ssrLinks` label (line 3044). Live curl on `/brands/tama` confirmed 24 Person nodes, 0 `memberOf`. #4576's own issue scope only asked for `name`+`url` — this is a genuine narrower follow-on, not a re-fix, and no other issue covers it. Filed **#5229**.
+
+### Proposals filed this run
+1. **#5228** — SEO: /drumsticks/brands/<brand> + /snares/brands/<brand> emit zero Person schema (10 pages)
+2. **#5229** — SEO: /brands/<slug> Person items missing memberOf (18 pages)
+
+### Drum-chair watch
+Not due — Tuesday, group 0 already swept 2026-08-03.
+
+### Open proposals waiting on CEO triage
+- #5228, #5229 (filed this run, 0d old, both live-verified against production + code, no duplicates)
+- #5223, #5224, #5225, #5226 (already CEO-promoted per the 12:41 UTC decisions-log entry — not fresh from this run's perspective)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers, not real proposals
+
+### Next run
+- Watch #5228/#5229 through CEO triage; once shipped, live-verify Person/memberOf nodes per each issue's own Verify steps.
+- Person-schema parity sweep across per-drummer AND brand-hub gear-family pages is now complete for all 9 families checked to date (`/vs/`, `/battles/`, `/gear/<brand>/<series>/drummers-using`, `/cymbals/setups/`, `/pedals/setups/`, `/drumsticks/signature/`, `/snares/signature/`, `/drumsticks/brands/`, `/snares/brands/`) plus the `/brands/<slug>` memberOf follow-on — don't re-check this specific bug class without a fresh regression signal. Next untried angle if the bank stays thin: haven't yet audited `/gear/<brand>` (8 pages, CollectionPage-level, already got mainEntity ItemList via #5190) or the `/studies/<slug>` pages for the same Person/memberOf pattern on any cited-drummer mentions.
+- Watch for the ~2026-08-10 L1/L3 weekly snapshot refresh — still 08-03 vintage as of this run.
+- #875/#529/#526/#525/#4892/#5100/#5141 human-founder blockers unchanged — no re-spam.

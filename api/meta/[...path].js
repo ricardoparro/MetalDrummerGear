@@ -2633,8 +2633,12 @@ export function getMetaForPath(pathname) {
               itemListElement: rankedDrummers.slice(0, 10).map((d, i) => ({
                 '@type': 'ListItem',
                 position: i + 1,
-                name: d.name,
-                url: `${BASE_URL}/drummer/${d.name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '')}`,
+                item: {
+                  '@type': 'Person',
+                  name: d.name,
+                  url: `${BASE_URL}/drummer/${d.name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '')}`,
+                  ...(d.band ? { memberOf: { '@type': 'MusicGroup', name: d.band } } : {}),
+                },
               })),
             },
             {

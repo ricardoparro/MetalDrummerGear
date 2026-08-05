@@ -3620,3 +3620,46 @@ Not due — Wednesday, not the Monday rotation slot.
 - Watch `danny carey drum kit` next weekly snapshot (~08-10) — if the 0.85% CTR this week was real recovery from #5214 it should climb further; if it drops back to 0%, that's a 4th data point suggesting the metaDescription fix isn't converting and may need a different intervention (SERP screenshot inspection rather than another code guess).
 - Watch for the ~2026-08-10 L1/L3 weekly snapshot refresh — still 08-03 vintage as of this run.
 - #875/#529/#526/#525/#4892/#5100/#5141 human-founder blockers unchanged — no re-spam.
+
+---
+## 2026-08-05 (Wednesday, ~15:07 UTC run) — 4 fresh proposals filed, brand-family + comparison-tool + songs-drummer gaps
+
+### Context
+Bank check: 6 open `seo-proposal`-labeled issues at run start (#5256-5258 already filed this morning + CEO-promoted per the 14:05 UTC decisions-log entry, plus 3 standing umbrellas #3810/#3819/#2211) — well under the 45 floor, cleared to file up to 8. Metrics 15:07 UTC: 209 users/234 sessions/444 views 7d, organic 182/234 (77.8%). GSC 7,534 impr/134 clicks/1.78% CTR/pos 11.5 — same snapshot as this morning's run, no fresh content-gap rows (`danny carey drum kit` still on #5214's recovery-watch cooldown through ~08-10, per the CEO's 14:05 entry — not re-filed). Today is Wednesday — drum-chair Monday sweep not due.
+
+### Audit summary
+- robots.txt: ✅ 9 AI-crawler UAs explicitly allowed (direct curl, GPTBot UA) — GPTBot, ChatGPT-User, ClaudeBot, Claude-Web, anthropic-ai, PerplexityBot, Applebot-Extended, cohere-ai, Google-Extended.
+- /llms/*.md endpoints: 1,809 files live under `public/llms/` (drummers/articles/guides/etc. — well above the original 62+3 target).
+- Sitemap: unchanged, freeze holding.
+
+### False-alarm note (methodology correction, no action needed)
+Early in the audit, bot-UA curls on several already-shipped Person-schema fixes (#5209 `/vs/`, #5223 `/cymbals/setups/`, #5228 `/snares|drumsticks/brands/`) appeared to show 0 Person nodes despite merge timestamps predating the last deploy — briefly worth suspecting a systemic regression (matching the meta-shell-saga shape). Root cause: `generatePersonSchema()` uses `JSON.stringify(schema, null, 2)` (pretty-printed, space after `:`), and my first-pass grep pattern (`"@type":"Person"`, no space) silently didn't match. Re-grepping with `"@type": *"Person"` confirmed all cited fixes are genuinely live (e.g. `/snares/brands/tama` → 17 Person nodes). No regression, no issue filed — noting the grep gotcha so a future run doesn't re-alarm on the same false signal.
+
+### Gap hunt — 4 new Person-schema leads, verified via code read + live GPTBot-UA curl + dedup search
+1. **`/cymbals/brands/<brand>` — genuine gap, 4 pages.** The one sibling of #5228 (`/drumsticks/brands` + `/snares/brands`) never included in that batch, despite using the identical `_brandConfirmedDrummerLinks`/`_brandConfirmedDrummers` helpers (`api/meta/[...path].js` `cymbalBrandMatch`, ~6951-6977). Live-curled all 4 brands (zildjian/paiste/sabian/meinl): 0 Person nodes each. Filed **#5268**.
+2. **`/pedals/brands/<brand>` — genuine gap, 11 pages.** Same missing-sibling pattern, `pedalBrandMatch` (~7399-7427). Live-curled tama/dw/axis: 0 Person nodes each (11 brands total per `pedalBrands.js`). Filed **#5269**.
+3. **`/tools/compare/<d1>-vs-<d2>` — genuine gap, ~200 pages.** Drummer-vs-drummer comparison tool, structurally identical to `/battles/` (#4462, fixed) and `/vs/` (#5209, fixed) — both `d1`/`d2` already resolved via `getDrummerBySlug()` before return, but zero `personSchema` field exists on this branch (`toolsCompareMatch`, ~1914-1940). Live-curled `lars-ulrich-vs-dave-lombardo`: 0 Person nodes vs. 2 on the `/battles/` sibling. Page count driven by `curatedToolsCompareSlugs` (226-entry `drummerComparisons.js`, minus top-20 gear-brand overlap). Filed **#5270**.
+4. **`/songs/drummer/<slug>` — genuine gap, ~40 pages.** The one route left uncovered in the songs-epic Person-schema sweep (`/songs/<slug>` fixed by #5241, `/songs/tempo/<tier>` fixed by #5238) — this page's entire subject is one drummer but emits zero `Person` node for them (`songsDrummerMatch`, ~6460-6510). Live-curled `/songs/drummer/lars-ulrich`: 0 Person nodes. Gated by `DRUMMER_SONGS_MIN_COUNT=3`; `getDrummersWithSongCounts()` returns 42 qualifying drummers pre-roster-intersection. Filed **#5271**.
+
+All 4 dedup-checked against `gh issue list --state all --search` — no overlap found (confirmed #5257 already covers `/gear/<brand>` ItemList `memberOf`, a different route from `/cymbals|pedals/brands/<brand>`). All freeze-compliant: zero new pages, additive schema-depth on existing earning URLs, directly serves L2 (current priority KPI).
+
+### Proposals filed this run
+1. **#5268** — SEO: /cymbals/brands/<brand> pages emit zero Person schema for confirmed drummers (4 pages)
+2. **#5269** — SEO: /pedals/brands/<brand> pages emit zero Person schema for confirmed drummers (11 pages)
+3. **#5270** — SEO: /tools/compare/<d1>-vs-<d2> drummer comparison pages emit zero Person schema (~200 pages)
+4. **#5271** — SEO: /songs/drummer/<slug> pages emit zero Person schema for the profiled drummer (~40 pages)
+
+### Drum-chair watch
+Not due — Wednesday, not the Monday rotation slot.
+
+### Open proposals waiting on CEO triage
+- #5268, #5269, #5270, #5271 (filed this run, 0d old, all live-verified against production + code, no duplicates)
+- #5256, #5257, #5258 (already CEO-promoted per the 14:05 UTC decisions-log entry — not fresh from this run's perspective)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers, not real proposals
+
+### Next run
+- Watch #5268-5271 through CEO triage; once shipped, live-verify Person/`memberOf` nodes per each issue's own Verify steps (use `"@type": *"Person"` grep pattern, not the unspaced form — see false-alarm note above).
+- Person-schema sweep now covers 21 route families total. Still untried from prior runs' lists: `/gear-comparison/*` (need to confirm this is distinct from `/compare/<brand-vs-brand>`, which is brand-vs-brand not drummer-vs-drummer and may not warrant the same fix), `/endorsement-news` hub, `/bpm`/`/bpm-tap` guides hub Person coverage (only FAQPage gap checked so far, via #5219). The sibling-sweep well is getting shallow — if the next run's Explore pass comes back with 0 new candidates, that's the signal to pivot this pattern-class off standing rotation and look for a different depth lever (per `learned-patterns.md`'s roster-wide-count-then-stop discipline).
+- Watch `danny carey drum kit` for the ~08-10 refresh per #5214's recovery window (this morning's run noted an early 0.85%-CTR signal breaking the prior 3-week 0% streak).
+- Watch for the ~2026-08-10 L1/L3 weekly snapshot refresh — still 08-03 vintage as of this run.
+- #875/#529/#526/#525/#4892/#5100/#5141 human-founder blockers unchanged — no re-spam.

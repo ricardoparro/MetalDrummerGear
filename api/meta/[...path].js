@@ -6518,6 +6518,13 @@ export function getMetaForPath(pathname) {
         ssrLinks,
         videoEmbed: song.video ? { youtubeId: song.video.youtubeId, title: song.video.title } : null,
         articleSchema: JSON.stringify({ '@context': 'https://schema.org', '@graph': graph }),
+        // Issue #5241: Person entity for the page's drummer, mirroring the
+        // /cymbals/setups/ fix (#5223) — closes the /songs/<slug> Person schema gap.
+        ...(drummerSlugToName[song.drummer] ? {
+          personSchema: [
+            { name: drummerName, url: `${BASE_URL}/drummer/${song.drummer}`, band: song.band },
+          ],
+        } : {}),
         faqSchema: [
           { question: `What BPM is ${song.song}?`, answer: bpmAnswer },
           { question: `Who played drums on ${song.song}?`, answer: drummerAnswer },

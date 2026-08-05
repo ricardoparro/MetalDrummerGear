@@ -3700,6 +3700,9 @@ export function getMetaForPath(pathname) {
         image: drummer.image || `${BASE_URL}/images/og/default.png`,
         type: 'article',
         url: `${BASE_URL}/drummers/${slug}/endorsements`,
+        personSchema: [
+          { name: drummer.name, url: `${BASE_URL}/drummers/${slug}`, band: drummer.band },
+        ],
         breadcrumbSchema: [
           { name: 'Home', url: BASE_URL },
           { name: 'Drummers', url: `${BASE_URL}/drummers` },

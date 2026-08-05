@@ -4016,16 +4016,23 @@ export function getMetaForPath(pathname) {
               publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
               // Issue #4871: description sourced from list.rankings[d.id].highlight/reason —
               // curated "why this ranking" text that was previously never wired into JSON-LD.
+              // Issue #5244: item wrapped in a Person type to match the client-side shape
+              // (App.js TopListPage) — SSR previously emitted flat ListItem fields with no
+              // nested Person, so bot-facing crawlers never saw entity-typed ranked drummers.
               itemListElement: rankedDrummers.slice(0, 10).map((d, i) => {
                 const ranking = list.rankings?.[d.id];
                 return {
                   '@type': 'ListItem',
                   position: i + 1,
-                  name: d.name,
-                  url: `${BASE_URL}/drummer/${d.name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '')}`,
-                  ...(ranking?.highlight || ranking?.reason
-                    ? { description: [ranking.highlight, ranking.reason].filter(Boolean).join('. ') }
-                    : {}),
+                  item: {
+                    '@type': 'Person',
+                    name: d.name,
+                    url: `${BASE_URL}/drummer/${_normalizeDrummerSlug(d.name)}`,
+                    ...(d.band ? { memberOf: { '@type': 'MusicGroup', name: d.band } } : {}),
+                    ...(ranking?.highlight || ranking?.reason
+                      ? { description: [ranking.highlight, ranking.reason].filter(Boolean).join('. ') }
+                      : {}),
+                  },
                 };
               }),
             },

@@ -2768,16 +2768,32 @@ export function getMetaForPath(pathname) {
         description: 'Every documented drum-chair change across MetalForge’s tracked metal bands, most recent first.',
         url: `${BASE_URL}/bands/drum-chair-changes`,
         numberOfItems: changes.length,
-        itemListElement: changes.map((c, i) => ({
-          '@type': 'ListItem',
-          position: i + 1,
-          item: {
-            '@type': 'Event',
-            name: `${c.bandName}: ${drummerSlugToName[c.fromDrummer] || humanizeSlug(c.fromDrummer)} → ${drummerSlugToName[c.toDrummer] || humanizeSlug(c.toDrummer)}`,
-            startDate: String(c.year),
-            url: `${BASE_URL}/bands/${c.bandSlug}`,
-          },
-        })),
+        itemListElement: changes.map((c, i) => {
+          const fromName = drummerSlugToName[c.fromDrummer] || humanizeSlug(c.fromDrummer);
+          const toName = drummerSlugToName[c.toDrummer] || humanizeSlug(c.toDrummer);
+          return {
+            '@type': 'ListItem',
+            position: i + 1,
+            item: {
+              '@type': 'Event',
+              name: `${c.bandName}: ${fromName} → ${toName}`,
+              startDate: String(c.year),
+              url: `${BASE_URL}/bands/${c.bandSlug}`,
+              // Issue #5246: name both drummers as Event.performer so LLM parsers
+              // can entity-resolve each handoff — only for slugs with a real
+              // /drummer/<slug> profile (drummerSlugToName hit), same guard as
+              // ssrChangeLinks above; historical name-only slugs get no Person.
+              performer: [
+                drummerSlugToName[c.fromDrummer]
+                  ? { '@type': 'Person', name: fromName, url: `${BASE_URL}/drummer/${c.fromDrummer}` }
+                  : null,
+                drummerSlugToName[c.toDrummer]
+                  ? { '@type': 'Person', name: toName, url: `${BASE_URL}/drummer/${c.toDrummer}` }
+                  : null,
+              ].filter(Boolean),
+            },
+          };
+        }),
       }),
       breadcrumbSchema: [
         { name: 'Home', url: BASE_URL },

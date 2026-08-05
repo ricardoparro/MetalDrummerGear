@@ -79,6 +79,9 @@ export const DRUMSTICKS = [
     priceBand: 'budget',
     retailerUrls: {},
     source: 'daddario.com',
+    relatedArticles: [
+      { slug: 'reign-in-blood-anniversary', label: '40 Years of Reign in Blood' },
+    ],
   },
   {
     id: 'vic-firth-sdc',

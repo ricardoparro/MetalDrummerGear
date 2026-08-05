@@ -3577,3 +3577,46 @@ Not due — Wednesday, not the Monday rotation slot.
 - Person-schema (and sibling missing-field/client-vs-SSR) sweep now covers 14 route families total. Remaining untried candidates if the bank stays thin: `/gear-series/*`, `/gear-comparison/*`, `/gear-history/*` (brand-level, may not name individual drummers — check first), `/licks` hub-level (per-drummer `/drummers/<slug>/licks` already covered elsewhere), `/quotes` (Quotation schema, not Person — different pattern), `/comparisons`. Also worth a `#1083`-style audit sweep: search for other issues that touched only `App.js` client-side JSON-LD for a route that also has its own separate SSR branch in `api/meta/[...path].js` — that mismatch (2 independent schema builders per route, one JS-only) is a distinct, possibly-recurring bug class worth naming explicitly next run if 2+ more instances turn up.
 - Watch for the ~2026-08-10 L1/L3 weekly snapshot refresh — still 08-03 vintage as of this run. GSC content-gap: none this week either.
 - #875/#529/#526/#525/#4892/#5100/#5141 human-founder blockers unchanged — no re-spam.
+
+---
+## 2026-08-05 (Wednesday, ~09:xx UTC run) — 3 fresh proposals filed, closing 3 more untried leads from last run's list
+
+### Context
+Bank check: 8 open `seo-proposal`-labeled issues at run start (#5242-5246 already CEO-promoted per the 08:33 UTC decisions-log entry, still carrying the label + 3 standing umbrellas #3810/#3819/#2211) — true fresh/untriaged count 0, well under the 45 floor, cleared to file up to 8. Metrics 09:30 UTC: 206 users/231 sessions/439 views 7d, organic 181/231 (78.4%). GSC 7,534 impr/134 clicks/1.78% CTR/pos 11.5. Today is Wednesday — drum-chair Monday sweep not due.
+
+### Audit summary
+- robots.txt: ✅ 8/8 AI crawlers explicitly allowed (direct curl, GPTBot UA)
+- llms.txt / llms-full.txt: both 200
+- Sitemap: unchanged, freeze holding
+
+### GSC content-gap review — `danny carey drum kit` checked against the 3-week persistence rule, not filed
+Metrics.md flags `danny carey drum kit` (117 impr, 0.85% CTR, pos 10.5) as the one ≥50-impr/<2%-CTR row. Pulled the 3-week history (`gsc-history/2026-07-20.json`, `07-27.json`, `08-03.json`) per the eloy-casagrande persistence rule: 75/0clicks → 35/0clicks → 121/0clicks (0% CTR all 3 weeks) — but this week's live snapshot shows 1 click (0.85%), breaking the 0%-streak. This is the same landing page/query cluster as the already-shipped `danny carey kit` fix (**#5214**, metaDescription rewrite, shipped 2026-08-03) which is explicitly in its 08-10/08-17 recovery-watch window per `learned-patterns.md`. Read as early recovery signal from that fix, not a fresh gap — **not filed**, watching the same window #5214 already established.
+
+### Gap hunt — 3 more Person-schema leads verified from last run's "remaining untried" list
+Delegated a focused Explore agent to check the remaining candidates flagged in the prior run's notes (`/gear-series/*`, `/gear-comparison/*`, `/gear-history/*`, `/quotes`) plus a fresh scan for other drummer-referencing route branches. Personally re-verified every candidate via direct file read (exact line ranges) + live GPTBot-UA curl + `gh issue list --search` dedup before filing:
+
+1. **`/articles/<slug>` `isArticle` (TOP_10_LISTS) branch — genuine gap, 12 pages.** `articlesMatch`'s `top10Article` sub-branch (`api/meta/[...path].js:2577-2682`) is a separate code path from `/lists/<slug>` (#5244, already promoted) sharing the same `TOP_10_LISTS` data — its `ItemList.itemListElement` (2633-2639) is flat `{name,url}`, zero `Person` wrapper. Confirmed #5183 (closed) only touched 6 `Article`-level fields on this exact branch, never `itemListElement`. Live curl on `/articles/fastest-double-bass-drummers`: 0 Person nodes. Filed **#5256**.
+2. **`/gear/<brand>` — genuine follow-on gap, 8 pages.** `gearBrandMatch` (4769-4834) already embeds inline `Person` items (name/jobTitle/url) but never `memberOf`, unlike the shipped `/brands/<slug>` fix (#5229). `getDrummerBySlug()` (already defined line 445) gives `.band` with zero new plumbing. Live curl on `/gear/tama`: 3 Person nodes, 0 with `memberOf`. #5190 (closed) only added the `mainEntity` wrapper itself, not this field — no overlap. Filed **#5257**.
+3. **`/quotes` hub — genuine follow-on gap, 1 page / 5 Person nodes.** The 5 featured `Quotation.spokenByCharacter` Person nodes (5589-5596) have name/url only. `q.drummer.band` already exists on every quote object (`api/quotes-data.js:98-103`). #1522 (closed) shipped the Quotation/ItemList schema itself but never this field. Filed **#5258**.
+
+All 3 dedup-checked against `gh issue list --state all --search` — no overlap found. All freeze-compliant: zero new pages, additive schema-depth on existing earning URLs, directly serves L2.
+
+### Proposals filed this run
+1. **#5256** — SEO batch: /articles/<slug> TOP_10_LISTS entries emit zero Person schema in ItemList (12 pages)
+2. **#5257** — SEO: /gear/<brand> pages — Person items in ItemList missing memberOf (8 pages)
+3. **#5258** — SEO: /quotes hub — featured Quotation Person nodes missing memberOf (1 page, 5 entries)
+
+### Drum-chair watch
+Not due — Wednesday, not the Monday rotation slot.
+
+### Open proposals waiting on CEO triage
+- #5256, #5257, #5258 (filed this run, 0d old, all live-verified against production + code, no duplicates)
+- #5242, #5243, #5244, #5245, #5246 (already CEO-promoted per the 08:33 UTC decisions-log entry — not fresh from this run's perspective)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers, not real proposals
+
+### Next run
+- Watch #5256/#5257/#5258 through CEO triage; once shipped, live-verify Person/`memberOf` nodes per each issue's own Verify steps.
+- Person-schema (and sibling missing-field) sweep now covers 17 route families total. Checked and ruled clean this run: `/technique/<slug>/drummers` (already fixed, #4461). Remaining untried if the bank stays thin: haven't yet checked `/gear-comparison/*` (need to confirm this route family exists as distinct from `/vs/`), `/endorsement-news` hub, `/bpm`/`/bpm-tap` guides hub (only checked for FAQPage gap via #5219 so far, not Person).
+- Watch `danny carey drum kit` next weekly snapshot (~08-10) — if the 0.85% CTR this week was real recovery from #5214 it should climb further; if it drops back to 0%, that's a 4th data point suggesting the metaDescription fix isn't converting and may need a different intervention (SERP screenshot inspection rather than another code guess).
+- Watch for the ~2026-08-10 L1/L3 weekly snapshot refresh — still 08-03 vintage as of this run.
+- #875/#529/#526/#525/#4892/#5100/#5141 human-founder blockers unchanged — no re-spam.

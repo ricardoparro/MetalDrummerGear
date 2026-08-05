@@ -97,6 +97,9 @@ export const CYMBAL_SETUPS = [
     ],
     source: 'roster gear.cymbals (verified: true; sources on the drummer record)',
     retailerUrls: {},
+    relatedArticles: [
+      { slug: 'reign-in-blood-anniversary', label: '40 Years of Reign in Blood' },
+    ],
   },
   {
     drummerSlug: 'tomas-haake',

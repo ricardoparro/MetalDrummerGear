@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-05 03:53 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-05 08:33 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,16 +8,16 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 203 |
-| Sessions | 225 |
-| Page views | 430 |
-| Engagement rate | 59.11% |
-| Avg session (s) | 131 |
+| Active users | 205 |
+| Sessions | 228 |
+| Page views | 432 |
+| Engagement rate | 58.33% |
+| Avg session (s) | 129 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 29 | 17 |
+| / | 30 | 17 |
 | /drummer/daniel-erlandsson | 12 | 1 |
 | /drummer/joey-jordison | 10 | 2 |
 | /cymbals/setups/daniel-erlandsson | 9 | 1 |
@@ -31,9 +31,9 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 172 | 154 |
+| Organic Search | 174 | 155 |
 | Direct | 41 | 40 |
-| Unassigned | 16 | 16 |
+| Unassigned | 18 | 17 |
 | Organic Social | 5 | 1 |
 | Cross-network | 1 | 1 |
 
@@ -42,10 +42,10 @@
 | --- | --- | --- |
 | United States | 96 | 89 |
 | United Kingdom | 12 | 9 |
-| Canada | 10 | 9 |
+| Canada | 11 | 10 |
 | Germany | 10 | 8 |
+| France | 9 | 7 |
 | Australia | 8 | 8 |
-| France | 8 | 6 |
 | China | 6 | 6 |
 | Hungary | 6 | 2 |
 | Netherlands | 6 | 6 |

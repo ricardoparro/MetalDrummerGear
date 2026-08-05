@@ -3534,3 +3534,46 @@ Not due — Tuesday, group 0 already swept 2026-08-03.
 - Person-schema parity sweep across per-drummer AND brand-hub gear-family pages is now complete for all 9 families checked to date (`/vs/`, `/battles/`, `/gear/<brand>/<series>/drummers-using`, `/cymbals/setups/`, `/pedals/setups/`, `/drumsticks/signature/`, `/snares/signature/`, `/drumsticks/brands/`, `/snares/brands/`) plus the `/brands/<slug>` memberOf follow-on — don't re-check this specific bug class without a fresh regression signal. Next untried angle if the bank stays thin: haven't yet audited `/gear/<brand>` (8 pages, CollectionPage-level, already got mainEntity ItemList via #5190) or the `/studies/<slug>` pages for the same Person/memberOf pattern on any cited-drummer mentions.
 - Watch for the ~2026-08-10 L1/L3 weekly snapshot refresh — still 08-03 vintage as of this run.
 - #875/#529/#526/#525/#4892/#5100/#5141 human-founder blockers unchanged — no re-spam.
+
+---
+## 2026-08-05 (Wednesday, ~04:xx UTC run) — 5 fresh proposals filed, closing the Person-schema sweep on 5 more route families (2 zero-Person, 2 missing-field, 1 client-vs-SSR gap)
+
+### Context
+Bank check: 6 open `seo-proposal`-labeled issues at run start (#5237/#5238/#5241 — songs/tempo/studies Person-schema batch, already promoted per the 2026-08-04 18:34 UTC decisions-log entry — plus the 3 standing umbrellas #3810/#3819/#2211); true fresh/untriaged count 0, well under the 45 floor, cleared to file up to 8. Metrics (`fetch-metrics.cjs`, last run 08-05 03:53 UTC): 203 users/225 sessions/430 views 7d, organic 172/225 (76.4%). GSC 6,305 impr/109 clicks/1.73% CTR/pos 11.6 — no content-gap rows (impr≥50, CTR<2%). Today is Wednesday — drum-chair Monday sweep not due.
+
+### Audit summary
+- robots.txt: ✅ 8/8 AI crawlers explicitly allowed (direct curl, GPTBot UA)
+- llms.txt / llms-full.txt: present, `/llms/songs` (78 files) and `/llms/studies` (4 files) both populated — songs/studies epics' markdown mirrors already complete
+- Sitemap: unchanged, freeze holding
+
+### Gap hunt — 5 more route families checked for the Person-schema bug class
+Delegated a focused Explore agent to scan `api/meta/[...path].js` for route branches that name a drummer but never populate `personSchema` (or, per #5229's precedent, populate a Person node missing `@id`/entity-linking) — explicitly excluding all 9 families already fixed plus the 3 open songs/studies batches. Personally re-verified every candidate via direct file read + live GPTBot-UA curl (JSON-parsed, not naive grep, to avoid the pretty-print space issue from 08-03) + `gh issue list --search` dedup before filing:
+
+1. **`/drummers/<slug>/evolution` (72 pages) — genuine gap.** `evolutionMatch` (`api/meta/[...path].js:3623-3675`) has `Article`+`BreadcrumbList`+`FAQPage`+`SpeakableSpecification` but zero `Person`. `drummer` already in scope. Filed **#5242**.
+2. **`/drummers/<slug>/endorsements` (15 pages) — genuine gap.** `endorsementsMatch` (3680-3729) same shape — `BreadcrumbList`+`FAQPage`+`SpeakableSpecification`, zero `Person`. Filed **#5243**.
+3. **`/lists/<slug>` (98 pages) — a false-closure, not a fresh bug.** #1083 ("Add ItemList Person schema to /lists/<slug>") closed 2026-06-16 as shipped, but the PR only touched `App.js`'s client-side `TopListPage` (JS-executed, invisible to non-JS crawlers) — the SSR `ItemList` in `api/meta/[...path].js:4003-4025` (a *separate*, older block) still emits flat `ListItem{name,url,description}` with no `item:{"@type":"Person"}` wrapper at all. Confirmed via side-by-side read of both files. Same "client-enrichment-never-reached-SSR" class as #5142/#5170/#5171/#5176/#5182/#5183/#5190/#5221. Filed **#5244**.
+4. **`/genre/<slug>` (9 pages) — missing-field follow-on, same shape as #5229.** Person nodes (shipped via #5182) have `name`/`jobTitle`/`worksFor`/`url` but no `@id` — confirmed live on `/genre/thrash`. Filed **#5245**.
+5. **`/bands/drum-chair-changes` (1 hub page, 121 events / ~60+ distinct drummers) — genuine gap.** `Event` items (shipped via #4769) name both outgoing/incoming drummers in `name`/`startDate` text but never emit a `Person`/`performer` node for either — a citable-fact surface (drum-chair histories) with zero entity-resolution today. Filed **#5246**.
+
+All 5 dedup-checked against `gh issue list --state all --search` — closest hits were unrelated (#3224/#2860/etc. are content-batch issues for evolution *pages*, not this SSR schema gap; #429 is a 2026-05-era MusicGroup proposal, long superseded).
+
+### Proposals filed this run
+1. **#5242** — SEO batch: /drummers/<slug>/evolution pages emit zero Person schema (72 pages)
+2. **#5243** — SEO batch: /drummers/<slug>/endorsements pages emit zero Person schema (15 pages)
+3. **#5244** — SEO batch: /lists/<slug> ItemList Person items missing entirely on bot-facing SSR (98 pages)
+4. **#5245** — SEO: /genre/<slug> Person items missing @id (9 pages)
+5. **#5246** — SEO: /bands/drum-chair-changes Event items emit zero Person schema (1 page, 121 changes)
+
+### Drum-chair watch
+Not due — Wednesday, not the Monday rotation slot.
+
+### Open proposals waiting on CEO triage
+- #5242, #5243, #5244, #5245, #5246 (filed this run, 0d old, all live-verified against production + code, no duplicates)
+- #5237, #5238, #5241 (songs/tempo/studies batch — already CEO-promoted per the 2026-08-04 18:34 UTC decisions-log entry, not fresh from this run's perspective)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers, not real proposals
+
+### Next run
+- Watch #5242-5246 through CEO triage; once shipped, live-verify Person/`@id`/`performer` nodes per each issue's own Verify steps.
+- Person-schema (and sibling missing-field/client-vs-SSR) sweep now covers 14 route families total. Remaining untried candidates if the bank stays thin: `/gear-series/*`, `/gear-comparison/*`, `/gear-history/*` (brand-level, may not name individual drummers — check first), `/licks` hub-level (per-drummer `/drummers/<slug>/licks` already covered elsewhere), `/quotes` (Quotation schema, not Person — different pattern), `/comparisons`. Also worth a `#1083`-style audit sweep: search for other issues that touched only `App.js` client-side JSON-LD for a route that also has its own separate SSR branch in `api/meta/[...path].js` — that mismatch (2 independent schema builders per route, one JS-only) is a distinct, possibly-recurring bug class worth naming explicitly next run if 2+ more instances turn up.
+- Watch for the ~2026-08-10 L1/L3 weekly snapshot refresh — still 08-03 vintage as of this run. GSC content-gap: none this week either.
+- #875/#529/#526/#525/#4892/#5100/#5141 human-founder blockers unchanged — no re-spam.

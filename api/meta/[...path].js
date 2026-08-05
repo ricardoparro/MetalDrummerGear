@@ -6342,6 +6342,12 @@ export function getMetaForPath(pathname) {
           label: `${s.song} — ${s.band} (${s.bpm} BPM)`,
         }))
       );
+      const linkedDrummers = new Map();
+      tier.songs.forEach(s => {
+        if (s.drummer && drummerSlugToName[s.drummer] && !linkedDrummers.has(s.drummer)) {
+          linkedDrummers.set(s.drummer, { name: drummerSlugToName[s.drummer], slug: s.drummer, band: s.band });
+        }
+      });
       return {
         title: `${tier.label} Metal Songs (${tier.min}-${tier.max} BPM) | ${SITE_NAME}`,
         description: `${tier.songs.length} metal songs in the ${tier.label} tempo range (${tier.min}-${tier.max} BPM), ranked fastest first.`,
@@ -6349,6 +6355,11 @@ export function getMetaForPath(pathname) {
         type: 'website',
         url: `${BASE_URL}/songs/tempo/${tier.slug}`,
         ssrLinks,
+        personSchema: [...linkedDrummers.values()].map(d => ({
+          name: d.name,
+          url: `${BASE_URL}/drummer/${d.slug}`,
+          band: d.band,
+        })),
         tables: [{
           heading: `${tier.label} Metal Songs`,
           headers: ['Rank', 'Song', 'Band', 'BPM', 'Drummer'],

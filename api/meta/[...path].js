@@ -1936,6 +1936,11 @@ export function getMetaForPath(pathname) {
           { question: `What drum kit does ${d2.name} use?`, answer: curated?.comparison?.gear ? `${d2.name} uses ${d2.gear?.drums || 'a custom drum kit'} with ${d2.gear?.cymbals || 'cymbal setup'}. ${curated.comparison.gear}` : `${d2.name} uses ${d2.gear?.drums || 'a custom drum kit'} with ${d2.gear?.cymbals || 'cymbal setup'}.` },
           { question: `Which is better, ${d1.name} or ${d2.name}?`, answer: curated?.verdict || `Both ${d1.name} (${d1.band}) and ${d2.name} (${d2.band}) are legendary metal drummers. Compare their complete gear setups on MetalForge.` },
         ],
+        // Issue #5270: Person entities for both compared drummers — mirrors #4462/#5209.
+        personSchema: [
+          { name: d1.name, url: `${BASE_URL}/drummer/${slug1}`, band: d1.band },
+          { name: d2.name, url: `${BASE_URL}/drummer/${slug2}`, band: d2.band },
+        ],
         speakableSchema: true,
         speakableCssSelector: ['h1', 'h2', 'p'],
       };

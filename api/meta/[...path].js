@@ -3727,6 +3727,9 @@ export function getMetaForPath(pathname) {
             answer: `${drummer.name} endorses ${cymbalBrand}. Full cymbal setup and endorsement details are available on MetalForge.`,
           },
         ],
+        personSchema: [
+          { name: drummer.name, url: `${BASE_URL}/drummers/${slug}`, band: drummer.band },
+        ],
       };
     }
   }

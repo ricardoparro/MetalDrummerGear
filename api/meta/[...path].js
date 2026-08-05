@@ -7411,6 +7411,7 @@ export function getMetaForPath(pathname) {
     if (brand) {
       const confirmedPedals = getPedalsForBrand(brand);
       const studyLinks = getBrandStudyLinks(brand.name);
+      const brandDrummers = _brandConfirmedDrummers(confirmedPedals);
       return {
         title: generatePedalBrandTitle(brand),
         description: truncate(generatePedalBrandDescription(brand, confirmedPedals), 160),
@@ -7427,6 +7428,15 @@ export function getMetaForPath(pathname) {
           // client-side only via #4766 but were never added to SSR ssrLinks.
           ...studyLinks.map((l) => ({ href: `/studies/${l.studySlug}`, label: l.studyTitle })),
         ],
+        // Issue #5269: Person schema for this brand's confirmed drummers —
+        // mirrors #5228's drumsticks/snares fix.
+        ...(brandDrummers.length > 0 ? {
+          personSchema: brandDrummers.map(d => ({
+            name: d.name,
+            url: `${BASE_URL}/drummer/${d.slug}`,
+            band: d.band,
+          })),
+        } : {}),
         articleSchema: JSON.stringify(generatePedalBrandSchema(brand, confirmedPedals)),
         // Issue #4841: SpeakableSpecification was never wired for the gear-theme
         // brand/reference/setup sub-routes, unlike drummer profiles, articles, etc.

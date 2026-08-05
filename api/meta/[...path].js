@@ -4854,16 +4854,20 @@ export function getMetaForPath(pathname) {
             '@type': 'ItemList',
             name: `${brand.name} Metal Drummers`,
             numberOfItems: brandDrummerSlugs.length,
-            itemListElement: brandDrummerSlugs.slice(0, 10).map((slug, i) => ({
-              '@type': 'ListItem',
-              position: i + 1,
-              item: {
-                '@type': 'Person',
-                name: drummerSlugToName[slug] || slug,
-                jobTitle: 'Drummer',
-                url: `${BASE_URL}/drummer/${slug}`,
-              },
-            })),
+            itemListElement: brandDrummerSlugs.slice(0, 10).map((slug, i) => {
+              const d = getDrummerBySlug(slug);
+              return {
+                '@type': 'ListItem',
+                position: i + 1,
+                item: {
+                  '@type': 'Person',
+                  name: drummerSlugToName[slug] || slug,
+                  jobTitle: 'Drummer',
+                  url: `${BASE_URL}/drummer/${slug}`,
+                  ...(d?.band ? { memberOf: { '@type': 'MusicGroup', name: d.band } } : {}),
+                },
+              };
+            }),
           },
         }),
       };

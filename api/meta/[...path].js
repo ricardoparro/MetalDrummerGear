@@ -3632,6 +3632,9 @@ export function getMetaForPath(pathname) {
         image: drummer.image || `${BASE_URL}/images/og/default.png`,
         type: 'article',
         url: `${BASE_URL}/drummers/${slug}/evolution`,
+        personSchema: [
+          { name: drummer.name, url: `${BASE_URL}/drummers/${slug}`, band: drummer.band },
+        ],
         articleSchema: JSON.stringify({
           '@context': 'https://schema.org',
           '@graph': [

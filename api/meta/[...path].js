@@ -5633,6 +5633,7 @@ export function getMetaForPath(pathname) {
                 '@type': 'Person',
                 name: q.drummer.name,
                 url: `${BASE_URL}/drummer/${q.drummer.name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '')}`,
+                ...(q.drummer.band ? { memberOf: { '@type': 'MusicGroup', name: q.drummer.band } } : {}),
               },
             },
           })),

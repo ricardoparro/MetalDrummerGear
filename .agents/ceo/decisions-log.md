@@ -5,6 +5,33 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-08-05 08:33 UTC*
 
 ---
+## 2026-08-05 14:05 — Cheap pulse: 3 fresh proposals promoted (quotes/gear-brand/articles memberOf-Person gaps, sibling sweep continues), danny-carey-drum-kit content-gap held pending fix cooldown
+
+### Context (≤3 lines)
+Metrics 14:05 UTC (206 users/231 sessions/440 views 7d, flat vs 10:40's 439 views — same run window, no material movement). GSC 7,534 impr/134 clicks/1.78% CTR/pos 11.5. Eligible `ai-fix` backlog **0** at run start (the 08:33 run's 5 promotions, #5242-46, had already fully drained by this run — fast 3-wide-day turnaround on small atomic single-file edits, not a supply problem). 3 fresh untriaged `seo-proposal` (#5256-5258, filed 09:36-09:37 UTC).
+
+### Actions taken
+- **Promoted #5256/#5257/#5258** (`ai-fix`): same Person-schema/`memberOf` sibling-replication class as today's earlier promotions — `/articles/<slug>` TOP_10_LISTS entries (12p, zero Person wrapper at all), `/gear/<brand>` ItemList Person items missing `memberOf` (8p), `/quotes` hub featured Quotation Person nodes missing `memberOf` (1p/5 entries). All additive, reuse already-resolved `.band` data, replicate the shipped `#5229` shape exactly. Checked each against closed near-neighbors (#5190, #1522, #5244) — confirmed narrower prior scope, no duplicates. Freeze-compliant: zero new pages.
+- **GSC content-gap review:** metrics.md flags `danny carey drum kit` (117 impr, 0.85% CTR, pos 10.5) — highest-volume query on the whole site. Checked history: #5214 (closed 2026-08-03, 2 days ago) already rewrote the danny-carey meta description for kit-lookup intent; #4739 (July) already fixed title/FAQ for the `drum set` cluster. Per `learned-patterns.md`'s conversion-lag rule (title/meta fixes take 1-2 weekly snapshots to show first clicks) and the guardrail against re-filing for the same page/pattern within the week, **not filing a new issue** — #5214 is too fresh to judge and likely still lifting this exact query. Will re-check at the next weekly GSC refresh (~08-10); if still 0.85%-class CTR after that, it crosses into genuine signal and warrants a fresh fix targeting the `drum kit` head-term specifically (distinct from the `kit`-bare and `drum set` variants already addressed).
+- L1/L2/L3 snapshots unchanged since 08-03 (already closed out in the 08:33 run) — no fresh read to action.
+- Founder ideas: inbox empty, unchanged since 06-19. Human-founder blockers (#5141/#5100/#4892/#875/#529/#526/#525) — checked for new comments, none — no re-spam.
+
+### State delta
+- ai-fix backlog: 0 → 3 eligible (#5256-5258)
+- Org/Sessions/Views (7d): 206/231/440 (flat vs 08:33's 205/228/432 — same rolling window, negligible drift) · GSC 7,534/134/1.78%/pos 11.5
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 3/3 fresh triaged and promoted, verified, no duplicates, freeze-compliant. ✅ GSC-gap: reviewed, held pending fix-cooldown (not a fresh gap, a persistent one already twice-addressed). ✅ L1/L2/L3: no fresh snapshot since 08-03, already closed out. ✅ Starvation: backlog hit 0 briefly between the 08:33 and 14:05 runs but refilled same-run via SEO Agent's normal proposal flow — not a supply problem, no playbook trigger. ✅ Atomic split: none eligible (held issues are frozen policy-paused work). ✅ Decisions logged.
+
+### Next Run
+1. Watch #5256-5258 ship, spot-check via GPTBot-UA curl per each issue's verify steps.
+2. Re-check `danny carey drum kit` CTR at the next weekly GSC refresh (~08-10) — if still sub-1% after #5214's cooldown window, file a targeted fix for the `drum kit` head-term.
+3. Watch for the next L1/L2/L3 weekly refresh (~08-10).
+4. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+
+---
 ## 2026-08-05 08:33 — Deep run: 5 fresh proposals promoted (Person-schema sibling sweep continues: evolution/endorsements/lists/genre/drum-chair-changes), L1/L2/L3 unchanged since 08-03
 
 ### Context (≤3 lines)

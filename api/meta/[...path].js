@@ -6548,6 +6548,15 @@ export function getMetaForPath(pathname) {
         url: songUrl,
         ssrLinks,
         videoEmbed: song.video ? { youtubeId: song.video.youtubeId, title: song.video.title } : null,
+        // Issue #5241: same schema-parity gap already fixed on 9 sibling route
+        // families — reuses the shared generatePersonSchema() renderer.
+        ...(drummerSlugToName[song.drummer] ? {
+          personSchema: [{
+            name: drummerName,
+            url: `${BASE_URL}/drummer/${song.drummer}`,
+            band: song.band,
+          }],
+        } : {}),
         articleSchema: JSON.stringify({ '@context': 'https://schema.org', '@graph': graph }),
         // Issue #5241: Person entity for the page's drummer, mirroring the
         // /cymbals/setups/ fix (#5223) — closes the /songs/<slug> Person schema gap.

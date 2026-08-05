@@ -4215,6 +4215,12 @@ export function getMetaForPath(pathname) {
           href: `/drummer/${d.slug}`,
           label: `${d.name} (${d.band})`,
         })),
+        // Issue #5237: Person JSON-LD for every drummer cited in the tables above.
+        personSchema: [...linkedDrummers.values()].map(d => ({
+          name: d.name,
+          url: `${BASE_URL}/drummer/${d.slug}`,
+          band: d.band,
+        })),
         // Issue #4790: FAQPage JSON-LD — headline stat pulled straight from the
         // computed kits ranking, not generic filler.
         faqSchema: [
@@ -4292,7 +4298,7 @@ export function getMetaForPath(pathname) {
       const linkedDrummers = new Map();
       for (const s of hallOfSpeed) {
         if (s.drummer.inRoster && !linkedDrummers.has(s.drummer.slug)) {
-          linkedDrummers.set(s.drummer.slug, s.drummer);
+          linkedDrummers.set(s.drummer.slug, { ...s.drummer, band: s.band });
         }
       }
 
@@ -4308,6 +4314,12 @@ export function getMetaForPath(pathname) {
         ssrDrummerLinks: [...linkedDrummers.values()].map(d => ({
           href: `/drummer/${d.slug}`,
           label: d.name,
+        })),
+        // Issue #5237: Person JSON-LD for every drummer cited in the Hall of Speed table.
+        personSchema: [...linkedDrummers.values()].map(d => ({
+          name: d.name,
+          url: `${BASE_URL}/drummer/${d.slug}`,
+          band: d.band,
         })),
         // Issue #4790: FAQPage JSON-LD — cites the computed death-metal vs.
         // all-genre average BPM, matching the study's own headline question.
@@ -4411,6 +4423,12 @@ export function getMetaForPath(pathname) {
         ssrDrummerLinks: [...linkedDrummers.values()].map(d => ({
           href: `/drummer/${d.slug}`,
           label: `${d.name} (${d.band})`,
+        })),
+        // Issue #5237: Person JSON-LD for every drummer cited in the tables above.
+        personSchema: [...linkedDrummers.values()].map(d => ({
+          name: d.name,
+          url: `${BASE_URL}/drummer/${d.slug}`,
+          band: d.band,
         })),
         // Issue #4790: FAQPage JSON-LD — headline stat pulled from the computed
         // brand-reach ranking.
@@ -4518,6 +4536,12 @@ export function getMetaForPath(pathname) {
         ssrDrummerLinks: explicitShellConfigs.map(c => ({
           href: `/drummer/${c.drummerSlug}`,
           label: `${c.drummerName} (${c.band})`,
+        })),
+        // Issue #5237: Person JSON-LD for every drummer cited in the shell-config table.
+        personSchema: explicitShellConfigs.map(c => ({
+          name: c.drummerName,
+          url: `${BASE_URL}/drummer/${c.drummerSlug}`,
+          band: c.band,
         })),
         // Issue #4790: FAQPage JSON-LD — headline stat pulled from the computed
         // pedal-configuration breakdown.

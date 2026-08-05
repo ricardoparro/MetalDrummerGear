@@ -2776,6 +2776,14 @@ export function getMetaForPath(pathname) {
             name: `${c.bandName}: ${drummerSlugToName[c.fromDrummer] || humanizeSlug(c.fromDrummer)} → ${drummerSlugToName[c.toDrummer] || humanizeSlug(c.toDrummer)}`,
             startDate: String(c.year),
             url: `${BASE_URL}/bands/${c.bandSlug}`,
+            performer: [
+              drummerSlugToName[c.fromDrummer]
+                ? { '@type': 'Person', name: drummerSlugToName[c.fromDrummer], url: `${BASE_URL}/drummer/${c.fromDrummer}` }
+                : null,
+              drummerSlugToName[c.toDrummer]
+                ? { '@type': 'Person', name: drummerSlugToName[c.toDrummer], url: `${BASE_URL}/drummer/${c.toDrummer}` }
+                : null,
+            ].filter(Boolean),
           },
         })),
       }),

@@ -1931,6 +1931,12 @@ export function getMetaForPath(pathname) {
           { name: 'Compare Tool', url: `${BASE_URL}/tools/compare` },
           { name: `${d1.name} vs ${d2.name}`, url: `${BASE_URL}/tools/compare/${slug1}-vs-${slug2}` },
         ],
+        // Issue #5270: Person entities for both compared drummers, mirroring
+        // the /battles/ fix (#4462) and /vs/ fix (#5209).
+        personSchema: [
+          { name: d1.name, url: `${BASE_URL}/drummer/${slug1}`, band: d1.band },
+          { name: d2.name, url: `${BASE_URL}/drummer/${slug2}`, band: d2.band },
+        ],
         faqSchema: [
           { question: `What drum kit does ${d1.name} use?`, answer: curated?.comparison?.gear ? `${d1.name} uses ${d1.gear?.drums || 'a custom drum kit'} with ${d1.gear?.cymbals || 'cymbal setup'}. ${curated.comparison.gear}` : `${d1.name} uses ${d1.gear?.drums || 'a custom drum kit'} with ${d1.gear?.cymbals || 'cymbal setup'}.` },
           { question: `What drum kit does ${d2.name} use?`, answer: curated?.comparison?.gear ? `${d2.name} uses ${d2.gear?.drums || 'a custom drum kit'} with ${d2.gear?.cymbals || 'cymbal setup'}. ${curated.comparison.gear}` : `${d2.name} uses ${d2.gear?.drums || 'a custom drum kit'} with ${d2.gear?.cymbals || 'cymbal setup'}.` },

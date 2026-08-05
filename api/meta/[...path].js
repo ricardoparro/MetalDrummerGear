@@ -6469,7 +6469,8 @@ export function getMetaForPath(pathname) {
   const songsDrummerMatch = path.match(/^\/songs\/drummer\/([a-z0-9-]+)$/);
   if (songsDrummerMatch) {
     const drummerSlug = songsDrummerMatch[1].toLowerCase();
-    const drummerName = drummerSlugToName[drummerSlug];
+    const drummer = getDrummerBySlug(drummerSlug);
+    const drummerName = drummer?.name || drummerSlugToName[drummerSlug];
     const songs = getSongsByDrummerSlug(drummerSlug);
     if (drummerName && songs.length >= DRUMMER_SONGS_MIN_COUNT) {
       const songPageSlugs = new Set(getSongPageSlugs(Object.values(ALBUM_ARTICLES)));
@@ -6509,6 +6510,12 @@ export function getMetaForPath(pathname) {
             },
           })),
         }),
+        // Issue #5271: Person entity for the drummer this page profiles —
+        // mirrors the pattern already shipped on /songs/<slug> (#5241) and
+        // /songs/tempo/<tier> (#5238).
+        personSchema: [
+          { name: drummerName, url: `${BASE_URL}/drummer/${drummerSlug}`, band: drummer?.band },
+        ],
         breadcrumbSchema: [
           { name: 'Home', url: BASE_URL },
           { name: 'Songs', url: `${BASE_URL}/songs` },

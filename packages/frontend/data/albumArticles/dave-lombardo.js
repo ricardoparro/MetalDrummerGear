@@ -266,7 +266,8 @@ export const articles = {
     "relatedAlbums": [
       "hell-awaits-drum-setup",
       "show-no-mercy-drum-setup",
-      "south-of-heaven-drum-setup"
+      "south-of-heaven-drum-setup",
+      "reign-in-blood-anniversary"
     ],
     "relatedDrummers": [
       1,
@@ -306,6 +307,117 @@ export const articles = {
     "conclusion": {
       "title": "The Template for Extreme Metal",
       "content": "Reign in Blood's drum sound became the template for extreme metal production. The combination of Lombardo's incredible performance and Rubin's stripped-down production created something that countless bands have tried to replicate.\n\nWhat makes the album's drum sound special isn't just the speed — it's the musicality. Lombardo's Cuban heritage shows in his fills and grooves. His ability to maintain precision at extreme tempos while still swinging and grooving separates him from mere speed merchants.\n\nFor drummers studying Reign in Blood, the lessons are clear: technique matters, but so does taste. Power is essential, but control is equally important. And sometimes the most effective production approach is the simplest one.\n\nThe gear Dave Lombardo used was professional but not exotic. The Tama kit and Paiste cymbals were solid, reliable instruments. What made the difference was the player behind them and the vision of how to capture that performance. That combination created 29 minutes that changed metal forever."
+    }
+  },
+  "reign-in-blood-anniversary": {
+    "slug": "reign-in-blood-anniversary",
+    "drummer": "Dave Lombardo",
+    "drummerId": 4,
+    "relatedDrummerSlug": "dave-lombardo",
+    "artist": "Slayer",
+    "albumTitle": "Reign in Blood",
+    "year": 1986,
+    "label": "Def Jam Recordings",
+    "genre": "Thrash Metal",
+    "isAlbumArticle": true,
+    "articleSection": "Anniversary",
+    "datePublished": "2026-08-05",
+    "dateModified": "2026-08-05",
+    "author": "MetalForge Editorial",
+    "title": "Reign in Blood at 40: The Album That Redefined Extreme Drumming",
+    "description": "Slayer's Reign in Blood turns 40 in October 2026. A look back at Dave Lombardo's drumming on the album that set the template for extreme metal — the verified Tama and Paiste rig, the disputed release date, and where to find the gear today.",
+    "seoKeywords": [
+      "reign in blood 40th anniversary",
+      "reign in blood anniversary",
+      "slayer reign in blood 40 years",
+      "when was reign in blood released",
+      "dave lombardo reign in blood",
+      "reign in blood release date",
+      "slayer 1986 album anniversary"
+    ],
+    "ogImage": "/images/albums/reign-in-blood-drums.webp",
+    "intro": {
+      "title": "Reign in Blood Turns 40",
+      "content": "Slayer's Reign in Blood turns 40 in October 2026 — though even now, exactly which day in October depends on which source you trust. Slayer's own 30th-anniversary retrospective, Metal Archives, and Discogs all cite October 7, 1986, the date most commonly used to mark the anniversary. Wikipedia and Last.fm instead list October 20, 1986. The discrepancy traces back to the album's fraught rollout: parent label CBS refused to distribute the record over the opening track \"Angel of Death,\" and the scramble that followed muddied exactly when it reached stores. This piece doesn't try to settle that argument — it marks the anniversary through the one thing that isn't disputed: the drumming.\n\nAt the center of Reign in Blood was Dave Lombardo. Produced by Rick Rubin at Eldorado Recording Studios in Hollywood, the album opens with \"Angel of Death\" and runs just 29 minutes, and Lombardo's double-bass control across every track became blueprint drumming for extreme metal that followed. Forty years on, it's still the record most extreme-metal drummers get measured against — and most of the gear that made it is still verifiable today.",
+      "keyPoints": [
+        "Released October 1986 on Def Jam Recordings — the exact day is disputed",
+        "Slayer's own 30th-anniversary post, Metal Archives, and Discogs cite October 7, 1986",
+        "Wikipedia and Last.fm instead list October 20, 1986",
+        "CBS's refusal to distribute the album over \"Angel of Death\" muddied the actual release date",
+        "Dave Lombardo drummed on the album; Rick Rubin produced it"
+      ]
+    },
+    "sections": [
+      {
+        "emoji": "🥁",
+        "title": "The Sound That Redefined Extreme Metal",
+        "content": "Lombardo recorded Reign in Blood on a Tama Artstar II kit in Piano Black finish, running two independently-miked 22\" bass drums rather than a double pedal on a single drum — a setup built for maximum, consistent impact rather than convenience. His Tama Superstar Steel snare, tuned high and tight, cut through the album's dry, reverb-free mix, and Paiste's RUDE and 2002 series cymbals supplied the crashes and Chinas that punctuate \"Angel of Death\" and \"Raining Blood.\" Rick Rubin's production stripped away everything extraneous — no room mics, minimal processing — leaving nothing to hide behind.\n\nThat combination of gear and performance is why the album still functions as a technical benchmark. The full track-by-track breakdown of the kit, the miking, and the recording approach lives in our dedicated Reign in Blood drum setup article.",
+        "keyPoints": [
+          "Tama Artstar II kit, Piano Black, with two independently-miked 22\" bass drums",
+          "Tama Superstar Steel snare tuned high and tight for maximum cut",
+          "Paiste RUDE & 2002 series cymbals for crashes, hi-hats, and Chinas",
+          "Rick Rubin's dry, no-room-mic production left the performance nowhere to hide"
+        ]
+      },
+      {
+        "emoji": "🔥",
+        "title": "40 Years of Influence",
+        "content": "Reign in Blood's influence runs through nearly every extreme metal drummer who came after it — the record is routinely cited as the point where thrash's tempo ceiling and the modern idea of \"blast beat control\" both got redefined in a single 29-minute statement. Lombardo himself carried that same Tama/Paiste foundation through Slayer's next two Rick Rubin records, South of Heaven and Seasons in the Abyss, before evolving his rig further across the decades that followed.\n\nForty years later, the gear that made Reign in Blood possible is still traceable — a signature stick model and a cymbal lineup Lombardo still plays are both linked below, alongside the complete Dave Lombardo gear profile."
+      }
+    ],
+    "gearLegacy": {
+      "title": "The Gear Behind Reign in Blood",
+      "content": "Most of the rig Dave Lombardo used to record Reign in Blood is documented in full on MetalForge, and key pieces of his sound — the Paiste RUDE cymbal lineup and his ProMark signature sticks — remain traceable 40 years later.",
+      "links": [
+        { "href": "/drummer/dave-lombardo", "label": "His Complete Kit & Gear Setup", "note": "Full drummer profile: drums, snare, cymbals, hardware, and career timeline" },
+        { "href": "/articles/reign-in-blood-drum-setup", "label": "Reign in Blood Drum Setup — Full Breakdown", "note": "Track-by-track gear notes, recording techniques, and the Tama Artstar II build" },
+        { "href": "/drumsticks/signature/dave-lombardo", "label": "Signature Sticks — ProMark TX2BXN", "note": "Full breakdown of Lombardo's signature stick model" },
+        { "href": "/cymbals/setups/dave-lombardo", "label": "Cymbal Setup — Paiste RUDE & 2002 Series", "note": "Full per-piece breakdown of the Sound Edge Hi-Hats, Crashes, and Reign Power Ride" }
+      ]
+    },
+    "relatedLicks": [
+      {
+        "drummerSlug": "dave-lombardo",
+        "lickSlug": "dave-lombardo-angel-of-death-chaos",
+        "label": "Watch Dave Lombardo's 'Angel of Death' chaos breakdown"
+      },
+      {
+        "drummerSlug": "dave-lombardo",
+        "lickSlug": "dave-lombardo-raining-blood-double-bass",
+        "label": "Watch Dave Lombardo's 'Raining Blood' double bass breakdown"
+      }
+    ],
+    "faq": [
+      {
+        "question": "When was Slayer's Reign in Blood released?",
+        "answer": "Reign in Blood was released in October 1986 on Def Jam Recordings, but the exact day is disputed between sources. Slayer's own 30th-anniversary post, Metal Archives, and Discogs cite October 7, 1986 — the date most commonly used to mark the anniversary. Wikipedia and Last.fm instead list October 20, 1986. The discrepancy stems from parent label CBS refusing to distribute the album over the opening track \"Angel of Death,\" which muddied the record's actual path to stores."
+      },
+      {
+        "question": "Who played drums on Reign in Blood?",
+        "answer": "Dave Lombardo played drums on Reign in Blood. His double-bass control and precision across the album's 29-minute runtime — produced by Rick Rubin — became a blueprint for extreme metal drumming that followed."
+      },
+      {
+        "question": "What gear did Dave Lombardo use to record Reign in Blood?",
+        "answer": "Lombardo recorded the album on a Tama Artstar II kit with a Tama Superstar Steel snare and Paiste RUDE and 2002 series cymbals. The complete breakdown of every piece, including hardware and recording technique, is in our Reign in Blood drum setup article."
+      },
+      {
+        "question": "Is Dave Lombardo's Reign in Blood-era gear still available?",
+        "answer": "The Paiste RUDE cymbal series he used remains in production, and his ProMark TX2BXN signature sticks are current models. The Tama Artstar II kit itself is a vintage/collector item found through Reverb and dealers specializing in used drum gear."
+      }
+    ],
+    "relatedAlbums": [
+      "reign-in-blood-drum-setup",
+      "show-no-mercy-drum-setup",
+      "south-of-heaven-drum-setup"
+    ],
+    "relatedDrummers": [
+      1,
+      12,
+      21
+    ],
+    "conclusion": {
+      "title": "The Argument Metal Still Hasn't Settled",
+      "content": "Forty years on, sources still can't agree on the exact day Reign in Blood hit shelves — but nobody disputes what it did once it got there. Dave Lombardo's drumming on the record set a standard that extreme metal drummers are still measured against, and the gear behind it — a Paiste cymbal lineup still in production, a ProMark signature stick still on shelves — is still there to study. That's the anniversary worth marking."
     }
   },
   "show-no-mercy-drum-setup": {

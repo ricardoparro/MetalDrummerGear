@@ -3202,17 +3202,21 @@ export function getMetaForPath(pathname) {
             '@type': 'ItemList',
             name: `${genreName} Drummers`,
             numberOfItems: genreDrummerList.length,
-            itemListElement: genreDrummerList.slice(0, 10).map((d, i) => ({
-              '@type': 'ListItem',
-              position: i + 1,
-              item: {
-                '@type': 'Person',
-                name: d.name,
-                jobTitle: 'Drummer',
-                worksFor: { '@type': 'MusicGroup', name: d.band },
-                url: `${BASE_URL}/drummer/${_normalizeDrummerSlug(d.name)}`,
-              },
-            })),
+            itemListElement: genreDrummerList.slice(0, 10).map((d, i) => {
+              const drummerUrl = `${BASE_URL}/drummer/${_normalizeDrummerSlug(d.name)}`;
+              return {
+                '@type': 'ListItem',
+                position: i + 1,
+                item: {
+                  '@type': 'Person',
+                  '@id': drummerUrl,
+                  name: d.name,
+                  jobTitle: 'Drummer',
+                  worksFor: { '@type': 'MusicGroup', name: d.band },
+                  url: drummerUrl,
+                },
+              };
+            }),
           },
           about: { '@type': 'MusicGenre', name: genreName, description: genreData.longDescription },
           ...(genreData.pioneers?.length

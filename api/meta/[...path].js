@@ -2956,7 +2956,17 @@ export function getMetaForPath(pathname) {
           member: (band.members
             ? band.members.map(m => ({
                 '@type': 'OrganizationRole',
-                member: { '@type': 'Person', name: m.name },
+                member: {
+                  '@type': 'Person',
+                  name: m.name,
+                  // Issue #5276: only the current drummer (already resolved via
+                  // getCurrentDrummer() above) has a real /drummer/<slug> profile
+                  // on this site — no fabricated URLs for other members.
+                  ...(currentDrummerEntry && m.name === currentDrummerName ? {
+                    url: `${BASE_URL}/drummer/${currentDrummerEntry.drummer}`,
+                    '@id': `${BASE_URL}/drummer/${currentDrummerEntry.drummer}`,
+                  } : {}),
+                },
                 roleName: m.role,
                 ...(m.period ? {
                   startDate: m.period.split('-')[0],
@@ -2965,7 +2975,14 @@ export function getMetaForPath(pathname) {
               }))
             : drummerHistory.map(h => ({
                 '@type': 'OrganizationRole',
-                member: { '@type': 'Person', name: drummerSlugToName[h.drummer] || h.drummer },
+                member: {
+                  '@type': 'Person',
+                  name: drummerSlugToName[h.drummer] || h.drummer,
+                  ...(drummerSlugToName[h.drummer] ? {
+                    url: `${BASE_URL}/drummer/${h.drummer}`,
+                    '@id': `${BASE_URL}/drummer/${h.drummer}`,
+                  } : {}),
+                },
                 roleName: 'Drums',
                 ...(h.period ? {
                   startDate: h.period.split('-')[0],

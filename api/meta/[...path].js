@@ -1230,6 +1230,10 @@ export function getMetaForPath(pathname) {
         // Issue #4833: SpeakableSpecification for voice search / AI assistants.
         speakableSchema: true,
         speakableCssSelector: ['h1', 'h2', 'p'],
+        // Issue #5295: Person schema for the profiled drummer — entity resolution gap.
+        personSchema: [
+          { name: drummer.name, url: `${BASE_URL}/drummer/${drummerSlug}`, band: drummer.band },
+        ],
         breadcrumbSchema: [
           { name: 'Home', url: BASE_URL },
           { name: 'Guides', url: `${BASE_URL}/guides` },

@@ -3839,6 +3839,12 @@ export function getMetaForPath(pathname) {
               description: gear.hero.subtitle,
             },
             {
+              '@type': 'Person',
+              name: drummer.name,
+              url: `${BASE_URL}/drummers/${drummerSlug}`,
+              ...(drummer.band ? { memberOf: { '@type': 'MusicGroup', name: drummer.band } } : {}),
+            },
+            {
               '@type': 'BreadcrumbList',
               itemListElement: [
                 { '@type': 'ListItem', position: 1, name: 'Home', item: BASE_URL },

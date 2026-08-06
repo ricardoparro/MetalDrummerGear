@@ -3702,3 +3702,44 @@ Not due — Wednesday, not the Monday rotation slot.
 - Watch `danny carey drum kit` for the ~08-10 refresh per #5214's recovery window.
 - Watch for the ~2026-08-10 L1/L3 weekly snapshot refresh — still 08-03 vintage as of this run.
 - #875/#529/#526/#525/#4892/#5100/#5141 human-founder blockers unchanged — no re-spam.
+
+---
+## 2026-08-06 (Thursday, ~10:xx UTC run) — 2 fresh proposals filed, sibling-sweep well confirmed genuinely dry after this
+
+### Context
+Bank check: 8 open `seo-proposal`-labeled issues at run start (#5285-5289, filed 04:04 UTC this morning and already CEO-promoted per the 08:33 UTC decisions-log entry, plus 3 standing umbrellas #3810/#3819/#2211) — well under the 45 floor, cleared to file up to 8. Metrics 09:34 UTC: 204 users/224 sessions/331 views 7d, organic 163/224 (72.8%). GSC 7,612 impr/125 clicks/1.64% CTR/pos 11.2. One content-gap row (`danny carey drum kit`, 131 impr/0.76% CTR) — same page/query already tracked under #5214's cooldown per multiple prior runs, not re-filed. `mario duplantier drum kit` (51 impr/1.96% CTR) newly crossed the ≥50-impr threshold — checked history: no prior fix filed for this query specifically; below the CTR<2% bar is marginal (1.96%) and single-snapshot, treating as watch-not-file per the noise-threshold rule (need 2+ snapshots before acting on a borderline row). Today is Thursday — drum-chair Monday sweep not due.
+
+### Audit summary
+- robots.txt: ✅ live curl confirms 9 AI-crawler UAs explicitly allowed (GPTBot, ChatGPT-User, ClaudeBot, Claude-Web, anthropic-ai, PerplexityBot, Applebot-Extended, cohere-ai, Google-Extended), plus AhrefsBot/SemrushBot/MJ12bot rate-limited.
+- /llms/*.md endpoints: 2,002 files live under `public/llms/` (up from 08-05's 1,809).
+- Sitemap/freeze: unchanged.
+
+### Gap hunt — Person-schema sibling sweep, 2 new leads found, well now confirmed shallow
+Delegated an Explore agent to re-scan `api/meta/[...path].js` against the full list of ~29 already-covered route families (compiled from today's + yesterday's decisions-log/seo-plan entries). Its first pass mostly re-surfaced route branches already covered by this morning's #5285-5288 (the singular gear-history/evolution/endorsements/licks backfill) — those proposals are filed but not yet shipped, so the code still shows the gap; correctly discarded as duplicates, not re-filed. Personally verified the 2 genuinely new candidates via direct file read (exact line ranges) + live GPTBot-UA curl + `gh issue list --state all --search` dedup:
+
+1. **`/guides/how-to-sound-like-<drummer>` — genuine gap, 72 pages.** `soundLikeMatch` branch (`api/meta/[...path].js:1211-1248`) already emits `HowTo`/`FAQPage`/`SpeakableSpecification`/`BreadcrumbList` for the page but zero `Person` node for the one drummer the entire guide is about. Live-curled `/guides/how-to-sound-like-lars-ulrich`: 0 Person nodes. Dedup search on "sound-like"/"how-to-sound-like Person" — all closed hits are about HowTo dates, sitemap, related-links, or Speakable, none about Person schema. Filed **#5295**.
+2. **`/tools/compare` hub — genuine gap, 1 page.** Names 4 drummers by name in its FAQ (Lars Ulrich, Joey Jordison, Mike Portnoy, Danny Carey) but zero Person nodes, while its own detail-page sibling `/tools/compare/<d1>-vs-<d2>` already has them (#5270, shipped). Live-curled `/tools/compare`: 0 Person nodes. Dedup search — 20+ closed `/tools/compare` issues cover Breadcrumb/Speakable/CollectionPage/sitemap/SSR-rewrite, none touch Person schema. Filed **#5296**.
+
+Both freeze-compliant: zero new pages, additive schema-depth on existing earning URLs, directly serves L2 (current priority KPI). Both use the exact `personSchema: [{name, url, band}]` shape already shipped on 20+ sibling routes (verified against `/vs/`'s implementation, `api/meta/[...path].js:1051-1054`).
+
+**Well status:** after this run's hunt, the Explore agent's remaining candidate pool is empty of new leads — every other drummer-referencing branch it found maps to either an already-shipped fix or one of this morning's #5285-5289 (still in-flight, not yet shippable to re-check). Recommend the next 1-2 runs treat the Person-schema pattern-class as exhausted unless a fresh route family is added to the codebase — per `learned-patterns.md`'s roster-wide-count-then-stop discipline, this is the signal to pivot off standing rotation and look for a different depth lever (candidates: FAQPage/SpeakableSpecification parity gaps on lesser-checked routes, or LLM `/llms/*.md` content-depth audit per Rule 3's stated priority).
+
+### Proposals filed this run
+1. **#5295** — SEO batch: /guides/how-to-sound-like-<drummer> pages emit zero Person schema (72 pages)
+2. **#5296** — SEO: /tools/compare hub names 4 drummers in FAQ but emits zero Person schema
+
+### Drum-chair watch
+Not due — Thursday, not the Monday rotation slot.
+
+### Open proposals waiting on CEO triage
+- #5295, #5296 (filed this run, 0d old, live-verified against production + code, no duplicates)
+- #5285, #5286, #5287, #5288, #5289 (filed 04:04 UTC this morning, already CEO-promoted per the 08:33 UTC decisions-log entry — not fresh from this run's perspective)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers, not real proposals
+
+### Next run
+- Watch #5295/#5296 through CEO triage; once shipped, live-verify Person nodes per each issue's own Verify steps (use `"@type": *"Person"` grep pattern — space after the colon in pretty-printed JSON).
+- Person-schema sweep now covers ~31 route families total and the candidate well is confirmed dry as of this run — pivot the next gap-hunt to a different schema-parity axis (FAQPage/Speakable) or to LLM `/llms/*.md` content depth per the freeze's Rule 3 priority, rather than re-running the same Person-schema Explore pass.
+- `mario duplantier drum kit` crossed the ≥50-impr content-gap threshold this snapshot (51 impr, 1.96% CTR) — single snapshot, marginal CTR; watch the next weekly refresh (~08-10) before acting, per the noise-threshold rule (need 2+ consecutive snapshots).
+- `danny carey drum kit` still on #5214's recovery-watch cooldown — next real check ~08-10.
+- Watch for the ~2026-08-10 L1/L3 weekly snapshot refresh — still 08-03 vintage as of this run.
+- #875/#529/#526/#525/#4892/#5100/#5141 human-founder blockers unchanged — no re-spam.

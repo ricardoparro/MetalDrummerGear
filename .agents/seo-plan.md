@@ -3743,3 +3743,41 @@ Not due — Thursday, not the Monday rotation slot.
 - `danny carey drum kit` still on #5214's recovery-watch cooldown — next real check ~08-10.
 - Watch for the ~2026-08-10 L1/L3 weekly snapshot refresh — still 08-03 vintage as of this run.
 - #875/#529/#526/#525/#4892/#5100/#5141 human-founder blockers unchanged — no re-spam.
+
+---
+## 2026-08-06 (Thursday, ~15:xx UTC run) — 1 fresh proposal filed (verified data-accuracy contradiction), pivoted off the exhausted Person-schema well per last run's own recommendation
+
+### Context
+Bank check: 5 open `seo-proposal`-labeled issues at run start (#5295/#5296 filed this morning + 3 standing umbrellas #3810/#3819/#2211) — well under the 45 floor, cleared to file up to 8. Metrics 15:06 UTC: 208 users/228 sessions/341 views 7d, organic 175/228 (76.8%). GSC 7,612 impr/125 clicks/1.64% CTR/pos 11.2 — same 2 content-gap rows as this morning (`danny carey drum kit` 131 impr/0.76% CTR, on #5214's recovery cooldown through ~08-10; `mario duplantier drum kit` 51 impr/1.96% CTR, still single-snapshot/marginal, watching per the noise-threshold rule). Today is Thursday — drum-chair Monday sweep not due.
+
+### Audit summary
+- robots.txt: ✅ live GPTBot-UA curl confirms all 9 AI-crawler UAs + Google-Extended explicitly allowed; AhrefsBot/SemrushBot/MJ12bot rate-limited (unchanged).
+- llms.txt / llms-full.txt: both 200.
+- /llms/*.md endpoints: 2,002 files live under `public/llms/` (unchanged vs this morning).
+- Sitemap/freeze: unchanged.
+
+### Gap hunt — pivoted per last run's note that the Person-schema well is confirmed dry
+Last run explicitly flagged the sibling-sweep candidate pool as empty and recommended pivoting to FAQPage/Speakable parity or `/llms/**` depth (freeze Rule 3). Checked both before hunting fresh ground:
+- **FAQPage/Speakable parity:** `gh issue list --state closed --search "FAQPage OR SpeakableSpecification"` returns 15+ closed batches covering essentially every route family (hub pages, drummer profiles, /vs/, /lists, /songs, /guides, /licks, signature pages, best-for-metal pages) — this axis is at least as exhausted as Person-schema.
+- **L2 umbrella (#2211) losing-query deep-dive:** picked 5 concrete "not cited" rows and verified each against the actual page content (not just the data-file surface) before proposing anything:
+  1. Technique blast-beat cluster (`what is a blast beat`, `types of blast beats`) — **already fully answered**. `api/meta/[...path].js:1781-1802` FAQPage already has "What is X?", "How fast...", "Who is the best...", and a `#5149`-added "types of X" question sourced from `technique.variations`. No gap.
+  2. Homepage brand query (`metalforge`) — **already fixed**. `api/meta/[...path].js:651-660` (#5135) already has a "What is MetalForge?" FAQ answer naming the drummer count. No gap; L2 tracker just hasn't reflected it yet (LLM-index lag).
+  3. Band "who is the drummer of X" (slipknot/tool/gojira/mastodon/pantera) — **already answered** for all 5 via `bands.js` FAQ arrays + `api/meta/[...path].js:2907-2921` templated fallback. No format gap identified.
+  4. Drummer head-term cluster (`lars ulrich drum kit`, `danny carey drum setup`, `mario duplantier drum kit`) — checked `extendedBios.js` FAQ sections for lars-ulrich (line 115-116) and mario-duplantier (line 1335-1336): both already have exact-phrase "What drum kit/set did X use?" answers with rich, specific gear detail. **But found a real bug while checking these**, see below.
+  5. Songs BPM cluster (`what bpm is master of puppets`, `what bpm is raining blood`, `who played drums on angel of death`) — confirmed **out of scope under the freeze**: `metalSongsBpm.js` has the raw BPM/drummer data but no page-level FAQ/narrative layer; surfacing it would need new page/template work. Noted, not proposed.
+
+### Verified finding — self-contradicting FAQ content on 2 pages (data-accuracy, not schema)
+While checking item 4 above, found `extendedBios.js` contradicts itself on Eloy Casagrande's and Mario Duplantier's bass pedal setup: the "What drum set does X use?" FAQ answer (lines 934, 1335) plus a bullet/prose line (908, 1297) claim dual bass drums are used **"rather than a single kick with double pedal"** — but the sibling "What drum kit does X use?" answer (935, 1336) correctly states each drummer uses **a double pedal** (Tama Iron Cobra / Iron Cobra 900 Power Glide). Cross-checked the source of truth, `pedals.js:124-131` and `156-166` — both drummers' pedal records say `configuration: 'double'`, `verified: true`. Confirmed via `grep -n "dual bass"` that only these 2 drummers have this phrasing in the whole file — not a wider pattern. Dedup-checked (`gh issue list --state all --search "duplantier double pedal"` / `"casagrande double pedal"` / `"dual bass drum"`) — no prior issue. This is exactly the kind of "fix broken/rot data" work the freeze explicitly welcomes, and doubly relevant since both pages are already flagged as under-cited by #2211 — an internally-contradictory citable fact is worse than a thin one. Filed **#5305**.
+
+### Proposals filed this run
+1. **#5305** — SEO: Eloy Casagrande + Mario Duplantier FAQ self-contradicts on double pedal vs dual bass drums (data-accuracy)
+
+### Drum-chair watch
+Not due — Thursday, not the Monday rotation slot.
+
+### Next run
+- Watch #5305 ship; verify per its own steps (grep for the false-exclusivity phrase gone, `pedals.js` unchanged, live curl both drummers' FAQPage JSON-LD consistent).
+- Both the Person-schema AND FAQPage/Speakable sibling-sweep axes are now confirmed exhausted across two independent runs. Next gap-hunt should try a genuinely different lever: (a) a broader data-accuracy audit for the same class of bug just found (self-contradicting FAQ/bullet/prose claims within one drummer's `extendedBios.js` entry — only checked 2 of 72 drummers this run, by chance while investigating something else; a dedicated sweep across all 72 could surface more), or (b) wait for the ~08-10 L1/L2/L3 weekly refresh before the next deep gap-hunt, since this run's L2 spot-check of 5 query clusters found 4 already fixed and 1 out-of-scope — diminishing returns on re-deriving the same umbrella without fresh data.
+- `mario duplantier drum kit` content-gap: still single-snapshot/marginal (51 impr, 1.96% CTR) — watch the ~08-10 refresh before acting further; #5305 is a data-accuracy fix on this same drummer's page found independently, not a response to the CTR row.
+- `danny carey drum kit` still on #5214's recovery-watch cooldown — next real check ~08-10.
+- #875/#529/#526/#525/#4892/#5100/#5141 human-founder blockers unchanged — no re-spam.

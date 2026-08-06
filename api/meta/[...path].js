@@ -3674,6 +3674,9 @@ export function getMetaForPath(pathname) {
         image: `${BASE_URL}/api/card/${slug}?format=twitter`,
         type: 'article',
         url: `${BASE_URL}/drummers/${slug}/gear-history`,
+        personSchema: [
+          { name: drummer.name, url: `${BASE_URL}/drummers/${slug}`, band: drummer.band },
+        ],
         breadcrumbSchema: [
           { name: 'Home', url: BASE_URL },
           { name: drummer.name, url: `${BASE_URL}/drummers/${slug}` },
@@ -5135,6 +5138,9 @@ export function getMetaForPath(pathname) {
         image: `${BASE_URL}/api/card/${slug}?format=twitter`,
         type: 'article',
         url: `${BASE_URL}/drummer/${slug}/gear-history`,
+        personSchema: [
+          { name: drummer.name, url: `${BASE_URL}/drummer/${slug}`, band: drummer.band },
+        ],
         breadcrumbSchema: [
           { name: 'Home', url: BASE_URL },
           { name: drummer.name, url: `${BASE_URL}/drummer/${slug}` },

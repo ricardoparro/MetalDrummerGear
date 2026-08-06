@@ -1928,6 +1928,14 @@ export function getMetaForPath(pathname) {
         { question: 'Who has a bigger drum kit, Lars Ulrich or Joey Jordison?', answer: 'Compare Lars Ulrich vs Joey Jordison on MetalForge. Both use large format kits with double bass; see the complete side-by-side on /tools/compare/lars-ulrich-vs-joey-jordison.' },
         { question: 'Which metal drummer uses more cymbals?', answer: 'Mike Portnoy and Danny Carey are known for having the largest cymbal configurations among metal drummers. Compare any two drummers cymbal setups on MetalForge.' },
       ],
+      // Issue #5296: Person entities for the 4 drummers named in the FAQ answers above,
+      // mirroring the hub-vs-detail parity fixes on /techniques (#5277) and /quotes (#5258).
+      // Drummer objects carry no `slug` field (see getDrummerBySlug, which matches by
+      // normalized name), so the known slug — not `d.slug` — builds the URL.
+      personSchema: ['lars-ulrich', 'joey-jordison', 'mike-portnoy', 'danny-carey']
+        .map(slug => ({ slug, drummer: getDrummerBySlug(slug) }))
+        .filter(({ drummer }) => drummer)
+        .map(({ slug, drummer }) => ({ name: drummer.name, url: `${BASE_URL}/drummer/${slug}`, band: drummer.band })),
       // Issue #4863: SpeakableSpecification — sweep gap on hub/utility pages.
       speakableSchema: true,
       speakableCssSelector: ['h1', 'h2', 'p'],

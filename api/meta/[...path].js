@@ -5397,6 +5397,9 @@ export function getMetaForPath(pathname) {
         image: drummer.image || `${BASE_URL}/images/og/default.png`,
         type: 'website',
         url: `${BASE_URL}/drummer/${drummerSlug}/${category}`,
+        personSchema: [
+          { name: drummer.name, url: `${BASE_URL}/drummer/${drummerSlug}`, band: drummer.band },
+        ],
         articleSchema: JSON.stringify({
           '@context': 'https://schema.org',
           '@type': 'CollectionPage',

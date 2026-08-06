@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-06 15:06 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-06 23:56 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,48 +8,48 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 208 |
-| Sessions | 228 |
-| Page views | 341 |
-| Engagement rate | 61.84% |
-| Avg session (s) | 111 |
+| Active users | 216 |
+| Sessions | 238 |
+| Page views | 354 |
+| Engagement rate | 59.66% |
+| Avg session (s) | 110 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 15 | 15 |
+| / | 16 | 15 |
 | /drummer/danny-carey | 9 | 6 |
 | /drummer/gene-hoglan | 8 | 3 |
+| /drummer/john-otto | 8 | 6 |
 | /drummer/shannon-larkin | 7 | 5 |
 | /drummer/daniel-erlandsson | 6 | 1 |
 | /drummers/dave-lombardo/licks/dave-lombardo-show-no-mercy-tom-run | 6 | 2 |
 | /cymbals/setups/daniel-erlandsson | 5 | 1 |
-| /drummer/john-otto | 5 | 5 |
 | /drummer/lars-ulrich | 5 | 4 |
 | /drummer/mario-duplantier | 5 | 4 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 175 | 158 |
-| Direct | 40 | 39 |
-| Unassigned | 13 | 13 |
+| Organic Search | 182 | 163 |
+| Direct | 41 | 40 |
+| Unassigned | 22 | 21 |
 | Cross-network | 6 | 6 |
 | Organic Social | 3 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 95 | 90 |
+| United States | 99 | 92 |
+| United Kingdom | 14 | 11 |
 | Canada | 12 | 10 |
-| United Kingdom | 12 | 9 |
 | Australia | 9 | 8 |
 | France | 9 | 7 |
-| Germany | 8 | 7 |
+| Germany | 9 | 8 |
 | China | 6 | 6 |
 | Indonesia | 6 | 6 |
-| Netherlands | 5 | 5 |
-| Spain | 5 | 5 |
+| Spain | 6 | 6 |
+| Sweden | 6 | 6 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |

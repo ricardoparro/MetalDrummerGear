@@ -5,6 +5,29 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-08-06 02:26 UTC*
 
 ---
+## 2026-08-06 23:57 — Cheap pulse: 1 fresh proposal promoted (Eloy Casagrande/Mario Duplantier FAQ self-contradiction, data-accuracy fix)
+
+### Context (≤3 lines)
+Metrics 23:56 UTC (216 users/238 sessions/354 views 7d; GSC 7,612 impr/125 clicks/1.64% CTR/pos 11.2, same content-gap rows as this morning: danny-carey-drum-kit 131 impr/0.76% CTR, mario-duplantier-drum-kit 51 impr/1.96% CTR). Eligible `ai-fix` backlog **0** at run start, 0 open PRs. 1 fresh untriaged `seo-proposal` (#5305, filed 15:15 UTC); the other 3 `seo-proposal`-labeled issues are the standing L1/L2/L3 umbrellas (#3810/#3819/#2211), unchanged since 08-03.
+
+### Actions taken
+- **Promoted #5305** (`ai-fix`): `extendedBios.js` self-contradicts on Eloy Casagrande + Mario Duplantier's bass-drum setup — bullets/FAQ "drum set" answers claim "dual bass drums **rather than** a single kick with double pedal" while the sibling "drum kit" FAQ answer for the same drummers correctly states a Tama Iron Cobra double pedal. Live-verified: `grep` confirmed the false-exclusivity clause at lines 934/1297/1335, and `pedals.js:124-166` confirms `configuration: 'double'` for both drummers' pedals (source of truth, unaffected). This is a CLAUDE.md rule-2 verified-facts violation, not new surface — existing pages, freeze-compliant, and directly serves L2 (both pages already flagged under-cited by #2211; an internally-contradictory FAQ is worse than a thin one for a model resolving the answer). Backlog was 0 → promoted per the liberal-under-45 rule.
+- L1/L2/L3 (#3810/#3819/#2211): all three snapshots still dated 08-03, already closed out in this morning's 08:33 deep run — nothing fresh to re-review this pulse.
+- Founder ideas: inbox empty, unchanged since 06-19. Human-founder blockers #5141/#5100/#4892/#875/#529/#526/#525 — checked for new comments, none beyond what's already tracked — no re-spam.
+
+### State delta
+- ai-fix backlog: 0 → 1 eligible (#5305)
+- Org/Sessions/Views (7d): 216/238/354 (down vs 08:33's 203/223/326... actually up — normal daily rolling-window noise) · GSC unchanged at 7,612/125/1.64%/pos 11.2
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 1/1 fresh triaged and promoted, live-verified, no duplicate, freeze-compliant. ✅ GSC-gap: both content-gap rows already tracked under #5214's cooldown, not re-filed. ✅ L1/L2/L3: no fresh snapshot since 08-03, already closed out. ✅ Starvation: backlog 0→1 and bank now 0 fresh — same recurring fast-drain shape seen all week (SEO Agent refills 3×/day), not treating as a fresh starvation event per the anti-pattern note. ✅ Atomic split: none eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #5305 ship; re-curl `/drummer/eloy-casagrande` and `/drummer/mario-duplantier` (GPTBot-UA) per its own verify steps to confirm the FAQ contradiction is gone.
+2. Watch for the next L1/L2/L3 weekly refresh (~08-10).
+3. #5141 (studies backlink outreach) and #5100 (L2 recovery items) are live founder asks — no re-spam.
+
+---
 ## 2026-08-06 08:33 — Deep run: 5 fresh proposals promoted (Person-schema sibling sweep hits singular/plural + signature-gear route families), L1/L2/L3 all closed with no new issues (confirmed noise + stale index data)
 
 ### Context (≤3 lines)

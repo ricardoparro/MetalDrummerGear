@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-06 09:34 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-06 10:43 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -10,18 +10,18 @@
 | --- | --- |
 | Active users | 204 |
 | Sessions | 224 |
-| Page views | 331 |
-| Engagement rate | 55.36% |
-| Avg session (s) | 119 |
+| Page views | 338 |
+| Engagement rate | 62.50% |
+| Avg session (s) | 112 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 14 | 14 |
+| / | 15 | 15 |
 | /drummer/danny-carey | 9 | 6 |
 | /drummer/gene-hoglan | 8 | 3 |
+| /drummer/shannon-larkin | 7 | 5 |
 | /drummer/daniel-erlandsson | 6 | 1 |
-| /drummer/shannon-larkin | 6 | 5 |
 | /drummers/dave-lombardo/licks/dave-lombardo-show-no-mercy-tom-run | 6 | 2 |
 | /cymbals/setups/daniel-erlandsson | 5 | 1 |
 | /drummer/john-otto | 5 | 5 |
@@ -31,10 +31,10 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 163 | 146 |
+| Organic Search | 175 | 158 |
 | Direct | 40 | 39 |
-| Unassigned | 26 | 24 |
-| Cross-network | 11 | 11 |
+| Unassigned | 9 | 9 |
+| Cross-network | 3 | 3 |
 | Organic Social | 3 | 1 |
 
 ### Top countries (sessions, last 7d)

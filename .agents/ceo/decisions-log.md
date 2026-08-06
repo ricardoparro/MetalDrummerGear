@@ -5,6 +5,32 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-08-06 02:26 UTC*
 
 ---
+## 2026-08-06 08:33 — Deep run: 5 fresh proposals promoted (Person-schema sibling sweep hits singular/plural + signature-gear route families), L1/L2/L3 all closed with no new issues (confirmed noise + stale index data)
+
+### Context (≤3 lines)
+Metrics 08:33 UTC (203 users/223 sessions/326 views 7d; GSC 7,612 impr/125 clicks/1.64% CTR/pos 11.2; content-gap rows: danny-carey-drum-kit 131 impr/0.76% CTR, mario-duplantier-drum-kit 51 impr/1.96% CTR). Eligible `ai-fix` backlog **0** at run start, 0 open PRs. 5 fresh untriaged `seo-proposal` (#5285-5289, filed 08-06 this morning); bank otherwise holds the 3 standing L1/L2/L3 umbrella issues (#3810/#3819/#2211, all refreshed 08-03, unchanged).
+
+### Actions taken
+- **Promoted #5285-5289** (`ai-fix`, all): continuation of the week-long Person-schema sibling-replication sweep (same class as this morning's #5276-5278) — `/drummer/<slug>/<category>` gear pages (~90p), `/drummer(s)/<slug>/gear-history` singular+plural (~144p), `/drummer(s)/<slug>/licks` hubs singular+plural (~144p), `/drummers/<slug>/signature/<gearSlug>` (7p), and the singular `/drummer/<slug>/{evolution,endorsements}` backfill (both already have `personSchema` on their plural siblings). Each cites live GPTBot-UA curl proof (0 matches today), an exact code fix reusing already-in-scope `drummer` data (additive-only), and a verify script. No duplicates found — each targets a distinct branch in `api/meta/[...path].js` not touched by the ~25 sibling issues already merged this week (#5237→#5278, confirmed via `git log`). All freeze-compliant: existing pages, schema depth, zero new surface. Backlog was 0 (well under the 45 floor) → promoted liberally per the promotion-gate rule.
+- **L1 (GSC watch, #3810, refreshed 08-03):** 2 big-losses (`danny carey drum setup` 13→6 impr, `mike mangini drum kit` 12→6 impr) — checked `git log --since="10 days ago"` on both entities' data/route files, zero merges in the window, both low-volume; same confirmed-noise shape as this exact drummer cluster's prior oscillations (2026-07-13, 07-23, 07-30 entries). No issue filed. 1 CTR-gap (`danny carey kit`, 20 impr, 0% CTR) — this is #5214's own target (fix shipped 08-03, description rewrite); still inside the 2-snapshot watch window per that fix's own note. Not re-filed.
+- **L3 (indexation, #3819, refreshed 08-03):** 18-URL `duplicate→lists/math-metal-drummers` cluster + 3 `error-404` (`gear-history` 404s) + 2 `crawled-not-indexed` (`/gear`, `/quotes`) all carry last-crawl dates 07-01→07-07 (stale, ~1 month). Live-curled 3 duplicate-cluster samples (bpm, mike-mangini/gear-history, how-to-sound-like-tomas-haake) — all self-canonicalize correctly today. Live-curled all 3 error-404s + both crawled-not-indexed — all return 200 today. Exact same stale-Google-index-data pattern as the already-documented navene-koperweis cluster (2026-07-13 note in `learned-patterns.md`) — no live bug, should self-heal on next recrawl. No issue filed.
+- **L2 (#2211, refreshed 08-03):** 41/100 cited, still above the 25-count floor — no forced pressure this week (consistent with 08-03's own note).
+- Founder ideas: inbox empty. Human-founder blockers #5141/#5100/#4892/#875/#529/#526/#525 — no re-spam.
+
+### State delta
+- ai-fix backlog: 0 → 5 eligible (#5285-5289)
+- Org/Sessions/Views (7d): 203/223/326 (up from this morning's rolling baseline) · GSC: 7,612 impr / 125 clicks / 1.64% CTR / pos 11.2
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 5/5 fresh triaged and promoted, all verified live, no dupes, freeze-compliant. ✅ GSC-gap: danny-carey-drum-kit/mario-duplantier-drum-kit both already tracked (#5214 cooldown), not re-filed. ✅ L1/L2/L3 close-the-loop: all 3 reviewed, all closed with reasoned no-action (noise / stale-index / above-floor) — 0 of the 3-cap used, none warranted. ✅ Starvation: backlog 0→5, still thin but Person-schema sweep is a proven, self-refilling pattern — not yet a starvation trigger (bank had 5 fresh items, not ≤2). ✅ Atomic split: none eligible, all 20 held issues are frozen page-creation work. ✅ Decisions logged.
+
+### Next Run
+1. Watch #5285-5289 ship; re-curl each route family's sample URL post-deploy per their own verify steps.
+2. Watch `danny carey kit` CTR (#5214) at the 08-10 snapshot — 2nd watch cycle.
+3. If the Person-schema sibling sweep runs dry (SEO Agent produces 0 fresh route-family gaps for 2 consecutive runs), that's the signal to look for the next replicable L2 format per `learned-patterns.md`.
+4. #5141 (studies backlink outreach) and #5100 (L2 recovery items) are live founder asks — no re-spam.
+
+---
 ## 2026-08-06 02:26 — Cheap pulse: 3 fresh proposals promoted (bands/techniques/endorsement-news Person-schema gaps, sibling sweep continues)
 
 ### Context (≤3 lines)

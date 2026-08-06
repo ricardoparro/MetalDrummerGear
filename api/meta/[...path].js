@@ -3408,6 +3408,9 @@ export function getMetaForPath(pathname) {
         image: DEFAULT_IMAGE,
         type: 'website',
         url: hubUrl,
+        personSchema: [
+          { name: drummerName, url: `${BASE_URL}/drummers/${drummerSlug}`, band },
+        ],
         ssrLinks: [
           { href: `/drummers/${drummerSlug}`, label: `${drummerName} Profile` },
           { href: `/drummers/${drummerSlug}/evolution`, label: `${drummerName} Gear Evolution` },
@@ -5258,6 +5261,9 @@ export function getMetaForPath(pathname) {
         image: DEFAULT_IMAGE,
         type: 'website',
         url: hubUrl,
+        personSchema: [
+          { name: drummerName, url: `${BASE_URL}/drummer/${drummerSlug}`, band },
+        ],
         speakableSchema: true,
         speakableCssSelector: ['h1', 'h2', 'p'],
         articleSchema: JSON.stringify({

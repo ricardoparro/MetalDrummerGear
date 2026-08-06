@@ -5705,12 +5705,24 @@ export function getMetaForPath(pathname) {
         // newest-first, so compute rather than assume [0] is the latest.
         dateModified: ENDORSEMENT_NEWS.reduce((latest, n) => (n.date > latest ? n.date : latest), ENDORSEMENT_NEWS[0].date),
         publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
-        hasPart: ENDORSEMENT_NEWS.map(n => ({
-          '@type': 'NewsArticle',
-          headline: n.title,
-          datePublished: n.date,
-          url: `${BASE_URL}/endorsement-news`,
-        })),
+        hasPart: ENDORSEMENT_NEWS.map(n => {
+          const d = n.drummerSlug ? getDrummerBySlug(n.drummerSlug) : null;
+          return {
+            '@type': 'NewsArticle',
+            headline: n.title,
+            datePublished: n.date,
+            url: `${BASE_URL}/endorsement-news`,
+            ...(d ? {
+              about: {
+                '@type': 'Person',
+                name: d.name,
+                url: `${BASE_URL}/drummer/${n.drummerSlug}`,
+                '@id': `${BASE_URL}/drummer/${n.drummerSlug}`,
+                ...(d.band ? { memberOf: { '@type': 'MusicGroup', name: d.band } } : {}),
+              },
+            } : {}),
+          };
+        }),
       }),
       breadcrumbSchema: [
         { name: 'Home', url: BASE_URL },

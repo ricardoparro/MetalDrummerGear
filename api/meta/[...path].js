@@ -1718,6 +1718,26 @@ export function getMetaForPath(pathname) {
             text: s,
           })),
         },
+        // Issue #5277: same Person shape already live on the sibling
+        // /technique/<slug>/drummers ItemList — this hub page names the same
+        // drummers in prose but emitted zero Person nodes.
+        {
+          '@type': 'ItemList',
+          name: `Drummers known for the ${technique.title} technique`,
+          numberOfItems: techMasters.length,
+          itemListElement: techMasters.map((m, i) => ({
+            '@type': 'ListItem',
+            position: i + 1,
+            item: {
+              '@type': 'Person',
+              name: m.name,
+              jobTitle: 'Drummer',
+              ...(m.note ? { description: m.note } : {}),
+              url: m.slug ? `${BASE_URL}/drummer/${m.slug}` : undefined,
+              ...(m.band ? { memberOf: { '@type': 'MusicGroup', name: m.band } } : {}),
+            },
+          })),
+        },
       ];
       if (videoId) {
         graph.push({

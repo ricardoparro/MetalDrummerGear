@@ -2936,7 +2936,17 @@ export function getMetaForPath(pathname) {
           member: (band.members
             ? band.members.map(m => ({
                 '@type': 'OrganizationRole',
-                member: { '@type': 'Person', name: m.name },
+                member: {
+                  '@type': 'Person',
+                  name: m.name,
+                  // Issue #5276: link only the current drummer's Person node to
+                  // their real /drummer/<slug> profile — never fabricate URLs
+                  // for other members (no profile pages exist for them).
+                  ...(currentDrummerEntry && m.name === currentDrummerName ? {
+                    url: `${BASE_URL}/drummer/${currentDrummerEntry.drummer}`,
+                    '@id': `${BASE_URL}/drummer/${currentDrummerEntry.drummer}`,
+                  } : {}),
+                },
                 roleName: m.role,
                 ...(m.period ? {
                   startDate: m.period.split('-')[0],
@@ -2945,7 +2955,14 @@ export function getMetaForPath(pathname) {
               }))
             : drummerHistory.map(h => ({
                 '@type': 'OrganizationRole',
-                member: { '@type': 'Person', name: drummerSlugToName[h.drummer] || h.drummer },
+                member: {
+                  '@type': 'Person',
+                  name: drummerSlugToName[h.drummer] || h.drummer,
+                  ...(drummerSlugToName[h.drummer] ? {
+                    url: `${BASE_URL}/drummer/${h.drummer}`,
+                    '@id': `${BASE_URL}/drummer/${h.drummer}`,
+                  } : {}),
+                },
                 roleName: 'Drums',
                 ...(h.period ? {
                   startDate: h.period.split('-')[0],

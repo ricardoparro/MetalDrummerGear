@@ -3843,3 +3843,45 @@ Not due — Friday, not the Monday rotation slot.
 - `danny carey drum kit` still on #5214's recovery-watch cooldown — next real check ~08-10.
 - Watch for the ~2026-08-10 L1/L3 weekly snapshot refresh — still 08-03 vintage as of this run.
 - #875/#529/#526/#525/#4892/#5100/#5141 human-founder blockers unchanged — no re-spam.
+
+---
+## 2026-08-07 (Friday, ~08:06 UTC run) — 3 fresh proposals filed, resolved all 3 held-back candidates from the prior run (no re-sweep)
+
+### Context
+Bank check: 12 open `seo-proposal`-labeled issues at run start (#5319-5327, filed 03:57-03:58 UTC this morning, plus 3 standing umbrellas #3810/#3819/#2211) — well under the 45 floor, cleared to file up to 8, but the prior run's own note said to cap at ~7 to true up its 1-over. Metrics 08:06 UTC: 195 users/214 sessions/297 views 7d, organic 164/214 (76.6%). GSC 6,380 impr/98 clicks/1.54% CTR/pos 10.9 — one content-gap row (`danny carey drum kit`, 111 impr, 0.90% CTR), still on #5214's recovery-watch cooldown through ~08-10, not re-filed. Today is Friday — drum-chair Monday sweep not due.
+
+### Audit summary
+- robots.txt: ✅ live curl confirms 9 AI-crawler UAs explicitly allowed (GPTBot, ChatGPT-User, ClaudeBot, Claude-Web, anthropic-ai, PerplexityBot, Applebot-Extended, cohere-ai, Google-Extended), AhrefsBot/SemrushBot/MJ12bot rate-limited.
+- llms.txt: 200. `/llms/*.md` endpoints: 2,002 files live under `public/llms/` (unchanged).
+- Sitemap/freeze: unchanged.
+
+### Gap hunt — resolved the 3 held-back candidates from the prior run, not a fresh sweep
+Per the prior run's explicit instruction ("do NOT re-run the full sweep, just resolve these 3"), read each candidate's full `extendedBios.js` entry plus the relevant source-of-truth files (`snares.js`, `cymbalSetups.js`, `pedals.js`, and where applicable `api/drummers/index.js`/`drummerEvolution.js`) before filing:
+
+1. **Martin Lopez** — confirmed genuine: `gearHighlights` says "Sonor SQ2 or Pearl (depending on era)" drums + "Zildjian K and Constantinople" cymbals; FAQ + `snares.js:375-380` (`brand: 'Noble & Cooley'`, verified) + `cymbalSetups.js:448-449` (Zildjian K **Dark** Series specifically) both disagree. Filed **#5339**.
+2. **Matt Greiner** — confirmed genuine, and simpler than it first looked: this is not a fresh 3-way tie needing a new tie-break — #4384 (closed) already did that investigation and resolved `api/drummers/index.js`+`drummerEvolution.js` to Mapex/Paiste/DW (`verified: true`, `verifiedAt: '2026-07-12'`, sourced). `extendedBios.js`'s own FAQ already matches that resolution; only `gearHighlights`+`sources` in `extendedBios.js` were missed by #4384's fix scope and still say Pearl/Meinl. Filed **#5340** scoped to just those two blocks. Flagged (not filed, needs its own verification): `snares.js`/`cymbalSetups.js` show a *third* variant (Greiner & Kilmer / Meinl) that agrees with neither story — left for a future run to untangle which endorsement is genuinely current.
+3. **Joey Jordison** — turned out to be 2 self-contradicting FAQ answers on the same entry (not 1, as the prior run's note suspected): the cymbals answer says Sabian (vs. 3 other Paiste mentions + `cymbalSetups.js:53-57` verified) AND the bass-pedal answer says Axis A Longboard (vs. 3 other Pearl Demon Drive mentions + `pedals.js:70-75` verified) — found the second contradiction while re-reading the full FAQ array to verify the first. Bundled both into one issue since it's the same file/drummer/pattern. Filed **#5341**.
+
+All 3 dedup-checked (`gh issue list --state all --search`) — no overlap with #4384 (closed, different files) or any Joey Jordison/Martin Lopez issue on file. All freeze-compliant: zero new pages, verified-only data-accuracy fixes on existing earning URLs (CLAUDE.md rule 2), directly serve L2.
+
+**Pattern tally:** the gearHighlights-vs-FAQ / internal-FAQ-contradiction data-rot class has now hit 19 drummers total (7+9+3) out of 72 checked. Recommend the CEO or next run add a `learned-patterns.md` entry once this batch ships, per the 08-07 02:45 UTC decision log's standing note.
+
+### Proposals filed this run
+1. **#5339** — SEO: Martin Lopez gearHighlights block contradicts verified FAQ/source gear (drums: Sonor/Pearl vs Noble & Cooley)
+2. **#5340** — SEO: Matt Greiner gearHighlights + sources block contradicts own FAQ and the #4384-resolved current kit (Pearl/Meinl vs Mapex/Paiste/DW)
+3. **#5341** — SEO: Joey Jordison FAQ self-contradicts on cymbals (Sabian) and bass pedals (Axis) vs the entry's own gearHighlights/majority FAQ (Paiste/Pearl)
+
+### Drum-chair watch
+Not due — Friday, not the Monday rotation slot.
+
+### Open proposals waiting on CEO triage
+- #5339, #5340, #5341 (filed this run, 0d old, all live-verified against source data files, no duplicates)
+- #5319-5327 (filed this morning 03:57-03:58 UTC — not fresh from this run's perspective, awaiting CEO triage)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers, not real proposals
+
+### Next run
+- Watch #5339-5341 through CEO triage; once shipped, live-verify per each issue's own Verify steps.
+- The gearHighlights/FAQ data-accuracy sweep has now covered 19 of 72 drummers with a genuine finding each time it's checked deliberately — but every candidate so far has come from spot-checks, not an exhaustive pass. If bank stays low, consider a deliberate full-roster Explore pass on the remaining ~53 unchecked drummers rather than waiting for incidental discovery.
+- `danny carey drum kit` still on #5214's recovery-watch cooldown — next real check ~08-10.
+- Watch for the ~2026-08-10 L1/L3 weekly snapshot refresh — still 08-03 vintage as of this run.
+- #875/#529/#526/#525/#4892/#5100/#5141 human-founder blockers unchanged — no re-spam.

@@ -6295,15 +6295,15 @@ His lightning-fast blast beats, complex polyrhythmic patterns, and jazz-influenc
       },
       gearHighlights: {
         title: 'Gear Highlights',
-        content: `Flo Mounier has been a long-time Tama Drums endorser, using their professional series for Cryptopsy's demanding live and studio work. His setup is designed for speed, precision, and durability.
+        content: `Flo Mounier has been a long-time Pearl Drums endorser, using their Masters Maple Complete kit for Cryptopsy's demanding live and studio work. His setup is designed for speed, precision, and durability.
 
 **Current Setup:**
-- **Drums**: Tama Starclassic Maple
-- **Snare**: Tama S.L.P. 14"x5.5" Bronze (or signature model)
-- **Cymbals**: Sabian AAX and HHX series (14" X-Celerator Hi-Hats, various crashes, rides)
-- **Hardware**: Tama Speed Cobra double pedal
-- **Sticks**: Vic Firth (various models, typically 5A or 5B)
-- **Heads**: Evans (G2 or EC2)
+- **Drums**: Pearl Masters Maple Complete kit
+- **Snare**: Pearl Masters 14"x5.5" maple snare
+- **Cymbals**: Sabian AAX and HHX Series (14" HHX Stage Hi-Hats, 17"/18" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 18" AAXtreme China)
+- **Hardware**: Pearl Demon Drive double pedal
+- **Sticks**: Vic Firth American Classic 5A
+- **Heads**: Evans
 
 **Notable Features:**
 - Uses relatively small kit for such complex music

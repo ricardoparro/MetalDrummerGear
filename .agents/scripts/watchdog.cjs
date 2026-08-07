@@ -100,6 +100,19 @@ const QUOTA_DETAIL_RE = /hit your (session|weekly|usage) limit\s*(?:·|\.|-)?\s*
 // Cap on log bytes pulled per failed job — we only need the tail signatures.
 const QUOTA_LOG_MAX_BYTES = 512 * 1024;
 
+// Marker prefix for "GitHub Actions never handed this job a hosted runner"
+// alerts (issue #5308: two unrelated workflows, same 15min "not acquired by
+// Runner of type hosted even after multiple attempts" annotation, same hour —
+// a transient GH-side scheduling hiccup, not a repo bug). Routed to its own
+// section for the same reason as quota pauses: self-healing, don't page.
+const INFRA_PREFIX = '🔌 ';
+// A job GitHub never dispatched to a runner has no log blob at all (fetching
+// it 404s) and an empty steps[] / runner_id 0 — that combination is the
+// signature, no log content needed.
+function isRunnerAcquisitionFailure(job) {
+  return (!job.steps || job.steps.length === 0) && !job.runner_id;
+}
+
 // ===========================================================================
 // GitHub REST helper — same style as generate-digest.cjs collectGitHubData().
 // ===========================================================================
@@ -238,6 +251,9 @@ function evalWorkflowFailure(wf, run) {
       const scope = run.quotaInfo.scope || 'usage';
       return [`${QUOTA_PREFIX}${wf.name} (${wf.file}) — both Claude subscriptions hit their ${scope} limit${reset} — self-healing, no action needed (${run.created_at})`];
     }
+    if (run.quotaInfo && run.quotaInfo.infra) {
+      return [`${INFRA_PREFIX}${wf.name} (${wf.file}) — GitHub Actions couldn't acquire a hosted runner — transient infra hiccup, self-healing, no action needed (${run.created_at})`];
+    }
     return [`${wf.name} (${wf.file}) last run ${run.conclusion} — ${run.created_at}`];
   }
   return [];
@@ -353,26 +369,38 @@ function actionsUrl() {
   return `https://github.com/${REPO}/actions`;
 }
 
-// Split alerts into quota pauses (⏳-prefixed) and everything else, so both
-// the Telegram message and the umbrella issue can say WHICH kind of trouble
-// this is at a glance instead of lumping a self-healing quota window in with
-// a genuine breakage.
+// Split alerts into quota pauses (⏳-prefixed), infra hiccups (🔌-prefixed),
+// and everything else, so both the Telegram message and the umbrella issue
+// can say WHICH kind of trouble this is at a glance instead of lumping a
+// self-healing pause in with a genuine breakage.
 function partitionAlerts(alerts) {
-  const quota = [], real = [];
-  for (const a of alerts) (a.startsWith(QUOTA_PREFIX) ? quota : real).push(a);
-  return { quota, real };
+  const quota = [], infra = [], real = [];
+  for (const a of alerts) {
+    if (a.startsWith(QUOTA_PREFIX)) quota.push(a);
+    else if (a.startsWith(INFRA_PREFIX)) infra.push(a);
+    else real.push(a);
+  }
+  return { quota, infra, real };
 }
-const stripPrefix = (a) => a.startsWith(QUOTA_PREFIX) ? a.slice(QUOTA_PREFIX.length) : a;
+const stripPrefix = (a) => {
+  if (a.startsWith(QUOTA_PREFIX)) return a.slice(QUOTA_PREFIX.length);
+  if (a.startsWith(INFRA_PREFIX)) return a.slice(INFRA_PREFIX.length);
+  return a;
+};
 
 function buildTelegramText(alerts, now = new Date()) {
-  const { quota, real } = partitionAlerts(alerts);
+  const { quota, infra, real } = partitionAlerts(alerts);
   const lines = [];
-  // Headline reflects the WORST class present: a quota-only cycle is a pause,
-  // not an incident, and the founder should see that from the notification.
-  lines.push(real.length > 0 ? '🚨 <b>Loop Watchdog</b>' : '⏳ <b>Loop Watchdog</b> — subscription limit');
+  // Headline reflects the WORST class present: a quota/infra-only cycle is a
+  // pause, not an incident, and the founder should see that from the notification.
+  let headline = '⏳ <b>Loop Watchdog</b> — subscription limit';
+  if (real.length > 0) headline = '🚨 <b>Loop Watchdog</b>';
+  else if (quota.length === 0 && infra.length > 0) headline = '🔌 <b>Loop Watchdog</b> — GitHub Actions hiccup';
+  lines.push(headline);
   const counts = [];
   if (real.length) counts.push(`${real.length} alert${real.length === 1 ? '' : 's'}`);
   if (quota.length) counts.push(`${quota.length} quota pause${quota.length === 1 ? '' : 's'}`);
+  if (infra.length) counts.push(`${infra.length} infra hiccup${infra.length === 1 ? '' : 's'}`);
   lines.push(`<i>${now.toISOString().slice(0, 16).replace('T', ' ')} UTC · ${counts.join(' · ')}</i>`);
   if (real.length) {
     lines.push('');
@@ -383,6 +411,11 @@ function buildTelegramText(alerts, now = new Date()) {
     lines.push('');
     lines.push('<b>⏳ Claude subscription limit</b> <i>(expected, recovers by itself)</i>');
     for (const a of quota) lines.push(`• ${esc(stripPrefix(a))}`);
+  }
+  if (infra.length) {
+    lines.push('');
+    lines.push('<b>🔌 GitHub Actions runner hiccup</b> <i>(expected, recovers by itself)</i>');
+    for (const a of infra) lines.push(`• ${esc(stripPrefix(a))}`);
   }
   lines.push('');
   lines.push(`<a href="${actionsUrl()}">Actions tab →</a>`);
@@ -405,11 +438,13 @@ function buildIssueBody(alerts, now = new Date()) {
   lines.push('');
   lines.push(`_Auto-maintained by \`.agents/scripts/watchdog.cjs\`. Last checked ${now.toISOString().slice(0, 16).replace('T', ' ')} UTC._`);
   lines.push('');
-  const { quota, real } = partitionAlerts(alerts);
+  const { quota, infra, real } = partitionAlerts(alerts);
   const counts = [];
   if (real.length) counts.push(`${real.length} active alert${real.length === 1 ? '' : 's'}`);
   if (quota.length) counts.push(`${quota.length} quota pause${quota.length === 1 ? '' : 's'}`);
-  lines.push(`## ${real.length > 0 ? '🚨' : '⏳'} ${counts.join(' · ')}`);
+  if (infra.length) counts.push(`${infra.length} infra hiccup${infra.length === 1 ? '' : 's'}`);
+  const headEmoji = real.length > 0 ? '🚨' : (quota.length > 0 ? '⏳' : '🔌');
+  lines.push(`## ${headEmoji} ${counts.join(' · ')}`);
   lines.push('');
   if (real.length) {
     lines.push('### 🚨 Needs attention');
@@ -423,6 +458,14 @@ function buildIssueBody(alerts, now = new Date()) {
     lines.push('_Both the primary and backup subscriptions were inside a usage-limit window, so the run had no quota to spend. The failover in `run-claude.sh` / `.roadie/drain.sh` worked as designed; the next scheduled run picks up once the window resets. Recurring often ⇒ throttle loop cadence/width (see the token-budget note in `docs/loops.md`)._');
     lines.push('');
     for (const a of quota) lines.push(`- ${stripPrefix(a)}`);
+    lines.push('');
+  }
+  if (infra.length) {
+    lines.push('### 🔌 GitHub Actions runner hiccup — expected, recovers by itself');
+    lines.push('');
+    lines.push('_GitHub never dispatched a hosted runner to this job (no steps ran, waited ~15min, gave up) — a transient GH Actions scheduling issue, not a repo bug. The next scheduled run typically succeeds. Recurring often ⇒ worth a look at github.com/status._');
+    lines.push('');
+    for (const a of infra) lines.push(`- ${stripPrefix(a)}`);
     lines.push('');
   }
   lines.push(`[Actions tab →](${actionsUrl()})`);
@@ -509,6 +552,12 @@ async function classifyFailure(run) {
   try {
     const data = await ghRequest('GET', `/repos/${REPO}/actions/runs/${run.id}/jobs?per_page=30`);
     const failed = ((data && data.jobs) || []).filter(j => FAILED_CONCLUSIONS.has(j.conclusion));
+    // Every failed job never got a runner (no steps ran) → GH-side scheduling
+    // hiccup, not a repo bug. Check this before touching logs: a job that was
+    // never dispatched has no log blob, so fetchJobLog would just 404.
+    if (failed.length > 0 && failed.every(isRunnerAcquisitionFailure)) {
+      return { quota: false, infra: true };
+    }
     for (const job of failed) {
       let log = '';
       try { log = await fetchJobLog(job.id); } catch { continue; }
@@ -775,6 +824,25 @@ function selfTest() {
     /Needs attention/.test(buildIssueBody(quotaAlerts, now)), false);
   check('issue body: mixed → has both sections',
     /Needs attention/.test(buildIssueBody(mixed, now)) && /subscription limit/i.test(buildIssueBody(mixed, now)), true);
+
+  // Fixture A3 (#5308): a failure caused purely by GitHub Actions never
+  // acquiring a hosted runner (empty steps[], runner_id 0 on every failed
+  // job) is a transient GH-side hiccup, not repo breakage — route it to its
+  // own 🔌 section like a quota pause, never "Needs attention".
+  const infraRun = {
+    status: 'completed', conclusion: 'failure', created_at: now.toISOString(),
+    quotaInfo: { quota: false, infra: true },
+  };
+  const infraAlerts = evalWorkflowFailure(wf, infraRun);
+  check('runner-not-acquired failure → 1 alert', infraAlerts.length, 1);
+  check('infra alert carries the 🔌 prefix', infraAlerts[0].startsWith(INFRA_PREFIX), true);
+  check('classifier: every failed job with no steps/runner → infra',
+    ['post'].every(() => isRunnerAcquisitionFailure({ steps: [], runner_id: 0 })), true);
+  check('classifier: a job that actually ran a step is not infra',
+    isRunnerAcquisitionFailure({ steps: [{ name: 'checkout' }], runner_id: 42 }), false);
+  check('issue body: infra-only → no "Needs attention" section',
+    /Needs attention/.test(buildIssueBody(infraAlerts, now)), false);
+  check('telegram: infra-only → hiccup headline', buildTelegramText(infraAlerts, now).startsWith('🔌'), true);
 
   // Fixture B: a healthy, recent success → 0 alerts (failure + stale both clear).
   const healthyRun = {

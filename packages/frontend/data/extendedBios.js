@@ -2685,13 +2685,13 @@ Garstka joined Animals as Leaders after the departure of original drummer Navene
       },
       gearHighlights: {
         title: 'Gear Highlights',
-        content: `Matt Garstka is endorsed by Meinl Cymbals and Pearl Drums. His setup reflects his fusion approach—versatile, dynamic, and designed for the full range of expression required by Animals as Leaders' music.
+        content: `Matt Garstka is endorsed by Meinl Cymbals and Tama Drums. His setup reflects his fusion approach—versatile, dynamic, and designed for the full range of expression required by Animals as Leaders' music.
 
 **Current Setup:**
-- **Drums**: Pearl Masterworks Maple (custom sizes)
-- **Snare**: Pearl Matt Garstka Signature 14"x5"
+- **Drums**: Tama Starclassic Walnut/Birch (custom sizes)
+- **Snare**: Tama S.L.P. 14"x6" G-Maple signature
 - **Cymbals**: Meinl Byzance series (including Dual Hi-Hats, Extra Dry crashes, Sand rides)
-- **Hardware**: Pearl Demon Drive double pedal
+- **Hardware**: Tama Speed Cobra 910 double pedal
 - **Sticks**: Vic Firth Matt Garstka Signature
 - **Heads**: Remo (various)
 

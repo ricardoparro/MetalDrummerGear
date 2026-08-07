@@ -7246,7 +7246,7 @@ His work with August Burns Red has earned a Grammy nomination and widespread cri
     metaTitle: 'Blake Richardson Drum Kit & Gear Setup — Between the Buried and Me Drummer | MetalForge',
     metaDescription: 'Complete biography of Blake Richardson, drummer of Between the Buried and Me. Explore his progressive metal mastery, work on Colors and The Great Misdirect, and his influence on technical metal.',
     ogImage: '/images/drummers/blake-richardson.webp',
-    keywords: ['between the buried and me', 'btbam', 'progressive metal', 'meinl cymbals', 'colors album', 'technical metal', 'north carolina', 'prog death'],
+    keywords: ['between the buried and me', 'btbam', 'progressive metal', 'sabian cymbals', 'colors album', 'technical metal', 'north carolina', 'prog death'],
     relatedDrummers: ['danny-carey', 'mario-duplantier', 'brann-dailor', 'matt-halpern'],
     summary: 'Blake Richardson, drummer of Between the Buried and Me since 2005. Progressive metal virtuoso known for genre-defying technique and musicality.',
     lastUpdated: '2026-02-14',
@@ -7311,21 +7311,21 @@ Richardson's work on landmark albums like "Colors," "The Great Misdirect," and "
       },
       gearHighlights: {
         title: 'Gear Highlights',
-        content: `Blake Richardson endorses Meinl Cymbals and has used various drum brands throughout his career. His setup emphasizes versatility to handle BTBAM's genre-spanning compositions.
+        content: `Blake Richardson plays a Tama Starclassic Bubinga kit paired with Sabian cymbals, a setup built for the tight low end and explosive attack BTBAM's genre-spanning, constantly shifting compositions demand.
 
 **Current Setup:**
-- **Drums**: Pearl Reference Pure or Masters Maple
-- **Snare**: Various 14" snares depending on tour
-- **Cymbals**: Meinl Byzance series (Dark, Extra Dry, and Traditional)
-- **Hardware**: Pearl Demon Drive double pedal
-- **Sticks**: Vic Firth 5A or 5B
-- **Heads**: Remo (various models)
+- **Drums**: Tama Starclassic Bubinga, custom finish
+- **Snare**: Tama STARPHONIC 14"x6" Brass
+- **Cymbals**: Sabian HHX Evolution (14" Hi-Hats, 18" Crash), AAX Holy Chinas (17" and 21"), HH Raw Bell Dry Ride (21"), HH Duo Splash (10"), Radia Cup Chime (9")
+- **Hardware**: Twin Tama Iron Cobra Power Glide single pedals, rather than a linked double pedal
+- **Sticks**: Vic Firth American Classic 3A
+- **Heads**: Evans
 
 **Setup Characteristics:**
-- Versatile configuration for diverse musical demands
-- Meinl Byzance cymbals for complex, musical tones
-- Multiple snare options for different sounds
-- Spacious setup for intricate patterns`
+- Bubinga shells for tight low end and explosive attack
+- Sabian cymbal stack sized for BTBAM's odd-meter, genre-spanning arrangements
+- Twin independent single pedals for precise control over shifting time signatures
+- STARPHONIC brass snare for cutting crack on blast beats and grooves`
       },
       trivia: {
         title: 'Trivia & Notes',

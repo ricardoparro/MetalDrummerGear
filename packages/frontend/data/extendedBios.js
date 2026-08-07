@@ -6427,7 +6427,7 @@ Bittner rose to prominence with Shadows Fall during the early 2000s metalcore ex
 **Current Setup:**
 - **Drums**: Mapex Saturn V (or Black Panther series)
 - **Snare**: Mapex Black Panther Sledgehammer 14"x6.5"
-- **Cymbals**: Paiste RUDE and 2002 series
+- **Cymbals**: Zildjian K and A Custom Series
 - **Hardware**: Mapex Falcon double pedal
 - **Sticks**: Vic Firth (5B or similar)
 - **Heads**: Evans (G2 Coated, EMAD)
@@ -6435,7 +6435,7 @@ Bittner rose to prominence with Shadows Fall during the early 2000s metalcore ex
 **Setup Philosophy:**
 - Power-oriented setup for thrash metal demands
 - Reliable, road-worthy equipment
-- Paiste RUDE cymbals for durability and cut
+- Zildjian K and A Custom Series cymbals for tone and cut
 - Emphasis on consistent sound night after night`
       },
       trivia: {

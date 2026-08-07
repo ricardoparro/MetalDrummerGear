@@ -8351,11 +8351,11 @@ Reinert brought a jazz-trained musical vocabulary into death metal at a moment w
       },
       gearHighlights: {
         title: 'Gear Highlights',
-        content: `Sean Reinert was an early DW endorsee, playing a DW Collector's Series maple shell kit throughout his tenure in Death and on Cynic's Focus. The warm, open maple tone gave his ghost-note-driven, dynamically expansive playing a resonance rarely heard in early-1990s death metal production.
+        content: `Sean Reinert played a Tama Artstar II birch shell kit throughout his tenure in Death and on Cynic's Focus, driven by a DW 5000 double pedal. The warm, open birch tone gave his ghost-note-driven, dynamically expansive playing a resonance rarely heard in early-1990s death metal production.
 
 **Human/Focus-Era Setup (1991-1993):**
-- **Drums**: DW Collector's Series maple, 22" kick, 10"/12"/13"/14"/16" toms
-- **Snare**: DW Collector's 14"x5.5" maple, die-cast hoops
+- **Drums**: Tama Artstar II birch, single 22"x16" kick, various toms
+- **Snare**: Tama Artstar II 14"x5.5" birch
 - **Cymbals**: Zildjian A Series (Human) transitioning to darker Zildjian K Series (Focus)
 - **Hardware**: DW 5000 single-chain double pedal
 - **Sticks**: Vic Firth American Classic 5A
@@ -8383,13 +8383,13 @@ Reinert brought a jazz-trained musical vocabulary into death metal at a moment w
         title: 'Frequently Asked Questions',
         items: [
           { q: 'What albums did Sean Reinert play drums on?', a: 'Sean Reinert\'s best-known recordings are Death\'s Human (1991) and Cynic\'s Focus (1993), plus Gordian Knot\'s Emergent (1999) and Cynic\'s reunion album Traced in Air (2008).' },
-          { q: 'What drum kit did Sean Reinert use on Human?', a: 'Sean Reinert played a DW Collector\'s Series maple shell kit with a 14"x5.5" maple snare, Zildjian A Series cymbals, and a DW 5000 double pedal on Death\'s Human.' },
+          { q: 'What drum kit did Sean Reinert use on Human?', a: 'Sean Reinert played a Tama Artstar II birch shell kit with a 14"x5.5" birch snare, Zildjian A Series cymbals, and a DW 5000 double pedal on Death\'s Human.' },
           { q: 'Did Sean Reinert play jazz before death metal?', a: 'Yes. Reinert had classical and jazz training that directly shaped his ghost notes, dynamic control, and polyrhythmic phrasing, which he brought into Death and Cynic.' },
           { q: 'When did Sean Reinert co-found Cynic?', a: 'Sean Reinert co-founded Cynic in 1987 with guitarist/vocalist Paul Masvidal in Miami, Florida, before joining Death in 1990.' },
           { q: 'When did Sean Reinert die?', a: 'Sean Reinert passed away on January 24, 2020, one day after his 49th birthday.' },
-          { q: 'What drum set did Sean Reinert use?', a: 'Sean Reinert\'s Human/Focus-era drum set was a DW Collector\'s Series maple shell pack — a 22" kick and 10"/12"/13"/14"/16" toms — built around a DW Collector\'s 14"x5.5" maple snare with die-cast hoops. He upgraded to a DW Collector\'s maple shell pack and Zildjian K Custom cymbals for Cynic\'s 2008 reunion album, Traced in Air.' },
+          { q: 'What drum set did Sean Reinert use?', a: 'Sean Reinert\'s Human/Focus-era drum set was a Tama Artstar II birch shell kit — a single 22"x16" kick and various toms — built around a Tama Artstar II 14"x5.5" birch snare. He upgraded to a DW Collector\'s maple shell pack and Zildjian K Custom cymbals for Cynic\'s 2008 reunion album, Traced in Air.' },
           { q: 'What cymbals did Sean Reinert use?', a: 'Sean Reinert used Zildjian A Series cymbals on Death\'s Human (1991), then switched to the darker Zildjian K Series for Cynic\'s Focus (1993), before upgrading to Zildjian K Custom cymbals for Cynic\'s 2008 reunion album, Traced in Air.' },
-          { q: 'What snare drum did Sean Reinert use?', a: 'Sean Reinert played a DW Collector\'s 14"x5.5" maple snare with die-cast hoops, tuned higher and more open for Cynic\'s Focus to suit the album\'s jazz-fusion textures.' },
+          { q: 'What snare drum did Sean Reinert use?', a: 'Sean Reinert played a Tama Artstar II 14"x5.5" birch snare, tuned higher and more open for Cynic\'s Focus to suit the album\'s jazz-fusion textures.' },
           { q: 'What bass drum pedal did Sean Reinert use?', a: 'Sean Reinert used a DW 5000 single-chain double pedal, applying a fluid, fusion-informed double-bass technique rather than the brute-force approach common among his death metal peers.' }
         ]
       },

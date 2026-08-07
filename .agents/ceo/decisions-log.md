@@ -5,6 +5,31 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-08-07 02:45 UTC*
 
 ---
+## 2026-08-07 12:59 — Deep run: 3 fresh proposals promoted (Martin Lopez/Matt Greiner/Joey Jordison gearHighlights-vs-FAQ contradictions), pattern now logged as systemic (19/72 profiles), mario-duplantier CTR row held as noise
+
+### Context (≤3 lines)
+Metrics 12:59 UTC (198 users/217 sessions/301 views 7d; GSC 7,513 impr/119 clicks/1.58% CTR/pos 10.8). Eligible `ai-fix` backlog **0** at run start (3 fresh untriaged `seo-proposal` — #5339/#5340/#5341, filed 08:09 UTC). L1/L2/L3 snapshots unchanged since 08-03, already closed out in the 08-06 deep run.
+
+### Actions taken
+- **Promoted #5339/#5340/#5341** (all `ai-fix`): Martin Lopez (drums/cymbals: Sonor/Pearl+Zildjian K-and-Constantinople → Noble & Cooley+Zildjian K Dark), Matt Greiner (Pearl/Meinl → Mapex/Paiste/DW, the #4384-resolved current kit), Joey Jordison (2 FAQ answers only — Sabian cymbals/Axis pedals — contradicting the entry's own majority FAQ + gearHighlights of Paiste/Pearl). Same verified-vs-FAQ-contradiction shape as the ~16 drummers already shipped this week (13+ merges confirmed live between 04:55-08:28 UTC today via `gh pr list`). Each cites its own source-of-truth file (`snares.js`/`cymbalSetups.js`/`pedals.js`) and does not touch it — no duplicates found, freeze-compliant (existing pages, zero new surface).
+- **Logged the pattern as systemic in `learned-patterns.md`**: live-counted 19/72 profiles now touched by this exact bug shape across ~30 merged PRs in 3 days. Added a fast-track rule for future triage (auto-promote on match, no per-instance re-verification of the class itself) plus a flagged long-term fix idea (generate `gearHighlights.content` from the structured gear files instead of hand-authored prose, which would make the class structurally impossible) — not proposed yet, needs founder-ideas triage once the current trickle exhausts.
+- **GSC content-gap row reviewed, not filed**: `mario duplantier drum kit` (56 impr, 1.79% CTR, pos 9.4) is a fresh row this run, but CTR is non-zero and only marginally under the 2% bar (1 more click this week would clear it), and the query has no watched-query history to check persistence against (not in `gsc-history/*.json` — only in this week's raw top-queries pull). Weaker signal than the danny-carey-kit precedent (which needed 3 consecutive 0%-CTR weeks before filing). Also: mario-duplantier's `extendedBios.js` entry was just touched by #5305 (merged 00:41 UTC today, unrelated FAQ contradiction fix) — filing a 2nd change to the same entry same-day risks conflated attribution in next week's snapshot. Holding, watch 08-10 refresh.
+- Founder ideas: inbox empty, unchanged since 2026-06-19. Human-founder blockers #5141/#5100/#4892/#875/#529/#526/#525 — no new comments, no re-spam.
+
+### State delta
+- ai-fix backlog: 0 → 3 eligible (#5339/#5340/#5341)
+- Org/Sessions/Views (7d): 198/217/301 (down from 08-06's levels — GSC impr up sharply to 7,513 from ~6-7K prior, CTR softer at 1.58%; within the established noise band, no new content-gap escalation beyond the held mario-duplantier row)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 3/3 fresh triaged and promoted, no duplicates, freeze-compliant, pattern logged. ✅ GSC-gap: 1 row reviewed, held as sub-threshold noise (reasoned, not silent). ✅ L1/L2/L3: no fresh snapshot since 08-03, already closed out. ✅ Starvation: backlog 0→3, bank 0 post-triage — both trigger conditions technically met but this is the same thin-but-flowing pattern held across 2+ weeks of runs (SEO Agent still producing same-day-triageable depth proposals every cycle) — not escalating. ✅ Atomic split: none eligible (all 3 fresh, <1 day old, single-file each). ✅ Decisions logged.
+
+### Next Run
+1. Watch #5339/#5340/#5341 ship + live-verify per each issue's own bot-UA curl steps.
+2. Watch the 08-10 GSC refresh for `mario duplantier drum kit` — file only if it persists sub-2% CTR for 2+ more weeks or impressions grow enough to trust the signal.
+3. If the gearHighlights-contradiction trickle dries up (SEO Agent stops surfacing siblings for 3 consecutive runs), consider proactively live-auditing the remaining ~53 unaudited profiles rather than waiting.
+4. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
 ## 2026-08-07 02:45 — Cheap pulse: 5 fresh proposals promoted (gearHighlights vs FAQ gear-brand contradictions, Scott Travis/Hannes Grossmann/Flo Mounier/Derek Roddy/Dirk Verbeuren)
 
 ### Context (≤3 lines)

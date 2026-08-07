@@ -6168,15 +6168,15 @@ Hellhammer joined Mayhem in 1988, becoming their most enduring member and the rh
       },
       gearHighlights: {
         title: 'Gear Highlights',
-        content: `Hellhammer uses Pearl Drums and has been associated with various cymbal brands. His setup balances raw power with the ability to execute complex patterns.
+        content: `Hellhammer uses Sonor Drums and Paiste cymbals. His setup balances raw power with the ability to execute complex patterns.
 
 **Current Setup:**
-- **Drums**: Pearl Reference Series or Masters Series
-- **Snare**: Pearl Reference 14"x5.5" brass or steel
-- **Cymbals**: Paiste (RUDE series for durability) or Zildjian
-- **Hardware**: Pearl Eliminator or Demon Drive double pedal
-- **Sticks**: Vic Firth 5B or similar
-- **Heads**: Remo or Evans
+- **Drums**: Sonor SQ2 Heavy Beech
+- **Snare**: Sonor SQ2 14"x5.5" Maple
+- **Cymbals**: Paiste RUDE series
+- **Hardware**: Axis double pedal
+- **Sticks**: Vic Firth American Classic 5B
+- **Heads**: Remo
 
 **Setup Philosophy:**
 - Favors resonant, powerful drum tones unlike typical black metal thin sound
@@ -6215,7 +6215,7 @@ Hellhammer joined Mayhem in 1988, becoming their most enduring member and the rh
       sources: {
         title: 'Sources',
         items: [
-          { name: 'Pearl Drums', url: 'https://pearldrum.com' },
+          { name: 'Sonor Drums', url: 'https://www.sonor.com' },
           { name: 'Mayhem Official', url: 'https://thetruemayhem.com' },
           { name: 'Metal Archives', url: 'https://www.metal-archives.com' },
           { name: 'Wikipedia: Hellhammer (musician)', url: 'https://en.wikipedia.org/wiki/Hellhammer_(musician)' }

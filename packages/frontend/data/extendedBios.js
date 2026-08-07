@@ -905,7 +905,7 @@ Starting drums at age 7 and joining Sepultura at just 19, Casagrande represented
 - **Heads**: Evans
 
 **Setup Evolution:**
-- Uses dual bass drums rather than single kick with double pedal
+- Uses dual bass drums (22"x16" and 24"x14") driven by a Tama Iron Cobra double pedal
 - Incorporates electronic pads for Slipknot's hybrid sound
 - Known for massive, visually impressive kit configurations`
       },
@@ -931,7 +931,7 @@ Starting drums at age 7 and joining Sepultura at just 19, Casagrande represented
           { q: 'Was Eloy Casagrande in Sepultura?', a: "Yes, Eloy was Sepultura's drummer from 2011 to 2024." },
           { q: 'Where is Eloy Casagrande from?', a: 'Eloy was born on August 25, 1991, in São Paulo, Brazil.' },
           { q: 'What awards has Eloy Casagrande won?', a: "Eloy was named #1 metal drummer in the Modern Drummer 2024 Readers' Poll." },
-          { q: 'What drum set does Eloy Casagrande use?', a: 'Eloy Casagrande\'s drum set is a Tama Starclassic Bubinga configuration with dual bass drums — a 22"x16" and a 24"x14" — rather than a single kick with double pedal. It\'s paired with a Tama Bell Brass 14"x5.5" (BB146) snare, Paiste cymbals, and Yamaha DTX electronic pads for Slipknot\'s hybrid electronic-acoustic sound.' },
+          { q: 'What drum set does Eloy Casagrande use?', a: 'Eloy Casagrande\'s drum set is a Tama Starclassic Bubinga configuration with dual bass drums — a 22"x16" and a 24"x14". It\'s paired with a Tama Bell Brass 14"x5.5" (BB146) snare, Paiste cymbals, and Yamaha DTX electronic pads for Slipknot\'s hybrid electronic-acoustic sound.' },
           { q: 'What drum kit does Eloy Casagrande use?', a: 'Eloy Casagrande\'s drum kit centers on Tama Starclassic Bubinga shells with dual 22"x16" and 24"x14" bass drums, a Tama Bell Brass 14"x5.5" snare, and a Tama Iron Cobra double pedal. Paiste cymbals and Yamaha DTX electronic pads round out the setup he uses across both Sepultura and Slipknot material.' },
           { q: 'What cymbals does Eloy Casagrande use?', a: 'Eloy Casagrande uses Paiste cymbals: 15" Masters Dark Hi-Hats, 602 and 2002 series crashes, and a Paiste Masters Dark Ride.' },
           { q: 'What snare drum does Eloy Casagrande use?', a: 'Eloy Casagrande plays a Tama Bell Brass 14"x5.5" snare (model BB146), chosen for its bright, cutting crack on Slipknot and Sepultura\'s dense guitar arrangements.' },
@@ -1294,7 +1294,7 @@ Mario's drumming combines crushing power with technical precision, featuring com
       },
       gearHighlights: {
         title: 'Gear Highlights',
-        content: `Mario Duplantier is a Tama Drums and Zildjian Cymbals endorser. He uses dual bass drums for visual impact and tonal reasons, rather than a single kick with double pedal.
+        content: `Mario Duplantier is a Tama Drums and Zildjian Cymbals endorser. He uses dual bass drums, driven by a Tama Iron Cobra 900 Power Glide double pedal, for visual impact and tonal reasons.
 
 **Current Setup:**
 - **Drums**: Tama Starclassic Bubinga (dual 22"x18" bass drums)
@@ -1332,7 +1332,7 @@ Mario's drumming combines crushing power with technical precision, featuring com
           { q: 'Are the Duplantier brothers related?', a: 'Yes, Mario and Joe Duplantier are brothers who co-founded Gojira in 1996.' },
           { q: 'Where is Mario Duplantier from?', a: 'Mario was born in Ondres, France and grew up in the Basque region.' },
           { q: 'What song is Mario Duplantier most famous for?', a: '"Flying Whales" features some of Mario\'s most recognized and celebrated drum work.' },
-          { q: 'What drum set does Mario Duplantier use?', a: 'Mario Duplantier\'s drum set is a Tama Starclassic Bubinga configuration with dual 22"x18" bass drums, chosen for both visual impact and tonal weight rather than a single kick with double pedal. It\'s built around a Tama S.L.P. 14"x6.5" G-Maple snare and Zildjian cymbals, played from a Tama 1st Chair Ergo-Rider throne.' },
+          { q: 'What drum set does Mario Duplantier use?', a: 'Mario Duplantier\'s drum set is a Tama Starclassic Bubinga configuration with dual 22"x18" bass drums, chosen for both visual impact and tonal weight. It\'s built around a Tama S.L.P. 14"x6.5" G-Maple snare and Zildjian cymbals, played from a Tama 1st Chair Ergo-Rider throne.' },
           { q: 'What drum kit does Mario Duplantier use?', a: 'Mario Duplantier\'s drum kit is a Tama Starclassic Bubinga setup with dual 22"x18" bass drums and a Tama S.L.P. 14"x6.5" G-Maple snare, driven by a Tama Iron Cobra 900 Power Glide double pedal. Zildjian cymbals and Remo heads complete the kit he uses across Gojira\'s catalog.' },
           { q: 'What cymbals does Mario Duplantier use?', a: 'Mario Duplantier uses Zildjian cymbals: 14" K Sweet Hi-Hats, various K Custom and A Custom crashes, and a 21" Z Custom Mega Bell Ride.' },
           { q: 'What snare drum does Mario Duplantier use?', a: 'Mario Duplantier plays a Tama S.L.P. 14"x6.5" G-Maple snare drum.' },

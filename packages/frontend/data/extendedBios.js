@@ -4743,14 +4743,14 @@ Christy's drumming on Death's final two albums—"The Sound of Perseverance" and
       },
       gearHighlights: {
         title: 'Gear Highlights',
-        content: `During his peak metal years, Richard Christy used Pearl Drums and various cymbal brands. His setup was designed for the extreme technical demands of Death's music.
+        content: `During his peak metal years, Richard Christy used Tama Drums. His setup was designed for the extreme technical demands of Death's music.
 
 **Peak Metal Era Setup:**
-- **Drums**: Pearl Masters Custom
-- **Snare**: Pearl 14"x5.5" or 14"x6.5" Maple
-- **Cymbals**: Sabian (14" AA Hi-Hats, various crashes, AA Ride)
-- **Hardware**: Pearl double pedal, Pearl hardware
-- **Sticks**: Vic Firth American Classic 5A or 5B
+- **Drums**: Tama Starclassic Maple
+- **Snare**: Tama Starclassic 14"x6.5" Maple
+- **Cymbals**: Sabian AAX and HHX Series
+- **Hardware**: Tama Iron Cobra 900 double pedal
+- **Sticks**: Vic Firth American Classic 5A
 - **Heads**: Remo or Evans
 
 **Setup Notes:**

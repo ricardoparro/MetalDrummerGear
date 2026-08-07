@@ -3088,15 +3088,15 @@ Grossmann first gained international recognition as the drummer for Necrophagist
       },
       gearHighlights: {
         title: 'Gear Highlights',
-        content: `Hannes Grossmann is a Tama Drums endorser, using their Starclassic series. His setup emphasizes clarity and projection for dense technical death metal arrangements.
+        content: `Hannes Grossmann plays a DW Collectors Series drum kit. His setup emphasizes clarity and projection for dense technical death metal arrangements.
 
 **Current Setup:**
-- **Drums**: Tama Starclassic Maple
-- **Snare**: Tama S.L.P. 14"x6" G-Maple
-- **Cymbals**: Meinl Byzance series (14" Dual Hi-Hats, various crashes, 22" Foundry Reserve Ride)
-- **Hardware**: Tama Iron Cobra 900 Power Glide Double Pedal
-- **Sticks**: Vic Firth 5A
-- **Heads**: Remo
+- **Drums**: DW Collectors Series
+- **Snare**: DW Collectors 14"x5.5" Maple
+- **Cymbals**: Meinl Byzance Series (14" Byzance Traditional Hi-Hats, 18"/19" Byzance Brilliant Crashes, 21" Byzance Traditional Ride)
+- **Hardware**: DW 9000 Series Double Pedal
+- **Sticks**: Vic Firth American Classic 5B
+- **Heads**: Evans
 
 **Studio Work:**
 - Operates his own recording studio in Germany

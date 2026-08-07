@@ -6555,7 +6555,7 @@ Lopez's tenure with Opeth spanned some of the band's most critically acclaimed a
       },
       gearHighlights: {
         title: 'Gear Highlights',
-        content: `Martin Lopez has used various drum brands throughout his career, including Sonor and Pearl. His setup emphasizes tone and dynamics over power.
+        content: `Martin Lopez plays a Noble & Cooley Walnut shell pack. His setup emphasizes tone and dynamics over power.
 
 **Current Setup (Soen Era):**
 - **Drums**: Noble & Cooley Walnut shell pack

@@ -1421,15 +1421,15 @@ Before Slayer, Bostaph established his reputation in the Bay Area thrash scene w
       },
       gearHighlights: {
         title: 'Gear Highlights',
-        content: `Paul Bostaph has used various drum brands throughout his career, including Pearl, Tama, and DW Drums.
+        content: `Paul Bostaph's drum kit during Slayer's final chapter was a Pearl Masters Maple Complete (MCX) shell pack, the all-maple, double-bass configuration producer Terry Date brought in for 2015's Repentless.
 
 **Recent Setup (Final Slayer Era):**
-- **Drums**: DW Collector's Series Maple/Mahogany
-- **Snare**: DW 14"x6.5" Collector's Maple
-- **Cymbals**: Paiste RUDE series
-- **Hardware**: DW 9000 Series double pedal
+- **Drums**: Pearl Masters Maple Complete (MCX) shell pack
+- **Snare**: Pearl Masters 14"x6.5" steel
+- **Cymbals**: Sabian AAX Series (14" Stage Hi-Hats, 17"/19" X-Plosion Crashes, 21" Stage Ride, 18" AAXtreme China)
+- **Hardware**: Pearl Eliminator double pedal
 - **Sticks**: Vater Power 5B
-- **Heads**: Remo Emperor/Ambassador`
+- **Heads**: Remo Powerstroke 3, Emperor Coated, Ambassador`
       },
       trivia: {
         title: 'Trivia & Notes',

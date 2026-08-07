@@ -3950,3 +3950,56 @@ Not due — Friday, not the Monday rotation slot.
 - `danny carey drum kit` / `mario duplantier drum kit` still on cooldown — next real check ~08-10.
 - Watch for the ~2026-08-10 L1/L3 weekly snapshot refresh — still 08-03 vintage as of this run.
 - #875/#529/#526/#525/#4892/#5100/#5141 human-founder blockers unchanged — no re-spam.
+
+---
+## 2026-08-07 (Friday, ~19:xx UTC run) — 4 fresh proposals filed, resolved all 4 remaining genuine held-back gearHighlights/FAQ candidates (roster sweep fully closed out)
+
+### Context
+Bank check: 11 open `seo-proposal`-labeled issues at run start — 3 standing umbrellas (#2211/#3810/#3819) + 8 already CEO-promoted to `ai-fix` this afternoon (#5357-5364, per the 18:54 UTC decisions-log entry, still mid-pipeline) — 0 fresh untriaged proposals. 0 open PRs (Roadie queue empty, spare capacity). Well under the 45 floor, cleared to file up to 8. Metrics 19:43 UTC: 202 users/222 sessions/308 views 7d, organic 178/222 (80.2%). GSC 7,513 impr/119 clicks/1.58% CTR/pos 10.8 — same 2 content-gap rows as this morning (`danny carey drum kit` 123 impr/0.81% CTR, still on #5214's cooldown through ~08-10; `mario duplantier drum kit` 56 impr/1.79% CTR, held as noise per the 18:54 decision-log entry, unchanged) — neither newly actionable, not re-filed. Today is Friday — drum-chair Monday sweep not due.
+
+### Audit summary
+- robots.txt: ✅ live GPTBot-UA curl → 200.
+- `/llms/*.md`: 2,002 files live (unchanged).
+- Roster: 72 drummer entries in `extendedBios.js` (unchanged, re-confirmed via node import).
+- No open mario-duplantier-kit CTR-gap issue on file — correctly held per this morning's CEO review.
+
+### Gap hunt — resolved the 9 held-back candidates from the 14:16 UTC run's full-roster sweep, not a re-sweep
+Per that run's explicit instruction ("resolve these individually, do NOT re-run the full sweep"), delegated an initial read/grep pass per candidate (alex-bent, mike-portnoy, jon-dette, nicko-mcbrain, matt-halpern, nick-augusto, mike-mangini, shannon-larkin, ryan-van-poederooyen) then personally re-verified every candidate flagged as genuine via direct `Read`/`grep` against `extendedBios.js`, the entry's own FAQ, and either the `snares.js`/`cymbalSetups.js`/`pedals.js` verified source files or (for the 11 drummers those files explicitly exclude as unverified) `api/drummers/index.js`'s `kitOverview`/`gear` record — same method as the 08:09 UTC run's Martin Lopez/Matt Greiner/Joey Jordison resolutions.
+
+**5 confirmed NOT genuine (era-ambiguous, hedged, or already-consistent) — correctly held back, no action:**
+- **alex-bent** — gearHighlights hedges "Sabian or Zildjian"; FAQ's specific "Zildjian K Custom Hybrid" is a subset of that hedge, not a contradiction.
+- **mike-portnoy** — gearHighlights (Tama Starclassic, Sabian HHX) matches both FAQ and `api/drummers/index.js:989` kitOverview exactly. No bug.
+- **jon-dette** — hedge ("Pearl, Tama, or DW depending on period") is itself sanctioned by `pedals.js:661-670`'s own ambiguous verified record (`brand: null, model: null, summary: 'DW 9000 or Tama Iron Cobra Double Pedal'`). Legitimate era ambiguity, not an error.
+- **mike-mangini** — largely consistent across gearHighlights/FAQ/`snares.js:542-550`; the only loose thread (sticks: Vic Firth signature vs FAQ's Vater Wicked Piston) isn't corroborated by a checked `drumsticks.js` record and is a sub-detail, not a primary-kit contradiction. Not clean enough to file.
+- **ryan-van-poederooyen** — gearHighlights hedge ("Tama Starclassic or Pearl, various eras") already includes the FAQ's current Pearl answer as one branch. Legitimate current-vs-historical framing.
+
+**4 confirmed genuine — filed:**
+1. **Nicko McBrain** — `gearHighlights` cymbal line invents a "RUDE crashes" model (`extendedBios.js:3726`) that doesn't exist in Paiste's real lineup for him; FAQ (`3758`) + `cymbalSetups.js:489-501` (verified:true) both say Power Crash, 2002 & Signature series. Filed **#5373**.
+2. **Matt Halpern** — `gearHighlights`+`sources.items` say Tama Starclassic drums/snare/pedal (`extendedBios.js:5911-5920`, `5959`); FAQ (`5945-5950`) + roster `kitOverview`/`gear`/`endorsements` (`api/drummers/index.js:1373`,`1380-1395`) all say Pearl Reference Series/Pearl Demon Drive — cymbals (Meinl Byzance) already agreed, left unchanged. Filed **#5374**.
+3. **Nick Augusto** — `gearHighlights` says Tama Starclassic/Meinl/Tama Iron Cobra (`extendedBios.js:6931-6941`); FAQ (`6966-6970`) + roster `kitOverview`/`gear` (`api/drummers/index.js:1944`,`1950-1956`) both say Pearl Reference Pure/Sabian AAX/Pearl Demon Drive — also caught stale `keywords`/`imageAlt` Tama references. On the snares/pedals/cymbalSetups unverified-exclusion list; used roster kitOverview as source of truth per the established method. Filed **#5375**.
+4. **Shannon Larkin** — 3 distinct mismatches in one `gearHighlights` block (`extendedBios.js:1767-1784`): drum series "Reflex" vs verified "Dios" (`snares.js:243-251`), snare falsely called a "Shannon Larkin Signature" model when `snares.js` marks it `isSignature: false` (stock Dios Maple), and sticks brand Vater vs FAQ's Vic Firth. Filed **#5376**.
+
+All 4 dedup-checked (`gh issue list --state all --search "<name> gearHighlights"`) — no overlap. All freeze-compliant: zero new pages, verified-only data-accuracy fixes on existing earning URLs (CLAUDE.md rule 2), directly serve L2.
+
+**Roster sweep status: fully closed.** All 9 held-back candidates from the 14:16 UTC run are now resolved (5 correctly held, 4 filed) — combined with the 27 already shipped/filed earlier today, the gearHighlights/FAQ data-rot class has now had every one of its surfaced candidates either fixed or definitively ruled out. No more candidates queued; the next occurrence of this pattern would need fresh discovery (e.g., a future incidental spot-check), not a continuation of this sweep.
+
+### Proposals filed this run
+1. **#5373** — SEO: Nicko McBrain gearHighlights block contradicts verified FAQ/source cymbal model (RUDE Crashes vs 2002/Signature Power Crashes)
+2. **#5374** — SEO: Matt Halpern gearHighlights+sources block contradicts verified FAQ/roster gear (Tama Starclassic vs Pearl Reference Series)
+3. **#5375** — SEO: Nick Augusto gearHighlights block contradicts verified FAQ/roster gear (Tama/Meinl vs Pearl/Sabian)
+4. **#5376** — SEO: Shannon Larkin gearHighlights block contradicts verified FAQ/source gear (drum series, snare model, sticks brand)
+
+### Drum-chair watch
+Not due — Friday, not the Monday rotation slot.
+
+### Open proposals waiting on CEO triage
+- #5373-5376 (filed this run, 0d old, all personally line-verified against source data files, no duplicates)
+- #5357-5364 (already CEO-promoted to `ai-fix` per the 18:54 UTC decisions-log entry — not fresh from this run's perspective)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers, not real proposals
+
+### Next run
+- Watch #5373-5376 through CEO triage; once shipped, live-verify per each issue's own Verify steps.
+- The gearHighlights/FAQ sweep is now fully drained (all candidates from all passes resolved) — do not re-run it. Next depth-work search should look for a different replicable format (e.g. per the standing `.agents/seo/learned-patterns.md` note, the long-term structural fix of generating `gearHighlights.content` from structured gear data instead of hand-authored prose — flag to founder-ideas once relevant, not a proposal itself yet).
+- `danny carey drum kit` / `mario duplantier drum kit` still on cooldown/noise-hold — next real check ~08-10.
+- Watch for the ~2026-08-10 L1/L3 weekly snapshot refresh — still 08-03 vintage as of this run.
+- #875/#529/#526/#525/#4892/#5100/#5141 human-founder blockers unchanged — no re-spam.

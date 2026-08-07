@@ -6677,16 +6677,16 @@ Orbin's technical prowess, creative use of polyrhythms, and ability to navigate 
       },
       gearHighlights: {
         title: 'Gear Highlights',
-        content: `Travis Orbin has used various drum brands throughout his career, with detailed gear explanations in his popular playthrough videos.
+        content: `Travis Orbin's SJC Custom kit is detailed extensively in his popular playthrough videos.
 
 **Typical Setup:**
-- **Drums**: Pearl Reference or Mapex Saturn (various eras)
-- **Snare**: 14"x5.5" or 14"x6" (various models)
-- **Cymbals**: Meinl Byzance series (Extra Dry, Traditional)
-- **Hardware**: DW 9000 or Pearl Eliminator double pedal
-- **Sticks**: Vic Firth (various sizes)
-- **Heads**: Evans (G2 or EC2)
-- **Electronics**: Roland triggers and pads for samples
+- **Drums**: SJC Custom Drums
+- **Snare**: SJC Custom 14"x6.5" Maple
+- **Cymbals**: Zildjian K Custom Series (14" K Custom Dark Hi-Hats, 18"/19" K Custom Dark Crashes, 21" K Custom Ride, 18" K Custom China)
+- **Hardware**: DW 9000 Series double pedal
+- **Sticks**: Vic Firth American Classic 5B
+- **Heads**: Evans
+- **Electronics**: Roland SPD-SX sampling pad for triggers
 
 **Notable Features:**
 - Detailed gear breakdowns in playthrough videos

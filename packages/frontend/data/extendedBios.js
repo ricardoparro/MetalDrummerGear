@@ -4616,13 +4616,13 @@ Cunningham's playing is characterized by creative, unconventional patterns that 
       },
       gearHighlights: {
         title: 'Gear Highlights',
-        content: `Abe Cunningham has been a longtime Tama endorser, using their drums for their punchy attack and durability. His setup is relatively straightforward, reflecting his focus on groove and feel over technical complexity.
+        content: `Abe Cunningham has been a longtime SJC Custom Drums endorser, using their shells for their punchy attack and durability. His setup is relatively straightforward, reflecting his focus on groove and feel over technical complexity.
 
 **Current Setup:**
-- **Drums**: Tama Starclassic Maple/Bubinga
-- **Snare**: Tama S.L.P. Big Black Steel 14"x8"
+- **Drums**: SJC Custom
+- **Snare**: SJC Custom 14"x6.5" Brass
 - **Cymbals**: Zildjian (14" A New Beat Hi-Hats, A Custom crashes, K Custom Ride)
-- **Hardware**: Tama Iron Cobra double pedal, Tama hardware
+- **Hardware**: DW 9000 Series double pedal, DW hardware
 - **Sticks**: Zildjian Abe Cunningham Artist Series
 - **Heads**: Evans
 

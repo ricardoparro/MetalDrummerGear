@@ -5,6 +5,31 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-08-07 02:45 UTC*
 
 ---
+## 2026-08-07 18:54 — Cheap pulse: 8 fresh proposals promoted (gearHighlights-vs-FAQ contradiction class, largest single-run batch yet)
+
+### Context (≤3 lines)
+Metrics 18:54 UTC (202 users/222 sessions/308 views 7d; GSC 7,513 impr/119 clicks/1.58% CTR/pos 10.8 — unchanged from the 12:59 pull). Eligible `ai-fix` backlog **0** at run start. 8 fresh untriaged `seo-proposal` (#5357-#5364, filed 14:14-14:15 UTC).
+
+### Actions taken
+- **Promoted all 8** (`ai-fix`): Aquiles Priester, Brann Dailor, Hellhammer, Arin Ilejay, Paul Mazurkiewicz, Richard Christy, Travis Orbin, Sean Reinert — same `gearHighlights.content`-contradicts-verified-FAQ/source-of-truth shape logged as systemic in `learned-patterns.md` at the 12:59 run (auto-fast-track rule). Checked each body cites its own source-of-truth file (`snares.js`/`cymbalSetups.js`/`pedals.js`/`api/drummers/index.js`) and searched all-state issues per drummer slug — no duplicates, no overlap with prior-shipped fixes (Joey Jordison/Matt Greiner/Martin Lopez etc. from earlier today). #5364 (Sean Reinert) is the first era-specific variant of the class (gearHighlights+FAQ agree with each other but both contradict the roster's canonical `kitOverview` for the pre-2006 vs. post-reunion era) — still verified-only, single-file, zero-new-surface. Freeze-compliant throughout; backlog was 0, well under the 45 liberal-promotion line.
+- Now 27/72 profiles touched by this bug class today (19 logged at 12:59 + 8 this run) — trickle still flowing, no proactive full-roster audit needed yet.
+- `mario duplantier drum kit` CTR-gap row unchanged since the 12:59 review (held as noise, watching 08-10) — no re-review needed, nothing new since then.
+- L1/L2/L3 (#3810/#3819/#2211): snapshots still dated 08-03, already closed out. Founder ideas inbox empty, unchanged since 2026-06-19. Human-founder blockers #5141/#5100/#4892/#875/#529/#526/#525 — no re-spam.
+
+### State delta
+- ai-fix backlog: 0 → 8 eligible (#5357-#5364)
+- Org/Sessions/Views (7d): 202/222/308 · GSC unchanged vs 12:59 pull
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 8/8 fresh triaged and promoted, no duplicates, freeze-compliant. ✅ GSC-gap: mario-duplantier row already held this morning, nothing new to action. ✅ L1/L2/L3: no fresh snapshot since 08-03. ✅ Starvation: backlog 0→8 same-run, SEO Agent flowing at higher volume than usual (8 vs typical 3-5) — not a stalled fleet. ✅ Atomic split: all 8 fresh, single-file, <1 day old — none eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #5357-#5364 ship + live-verify per each issue's own bot-UA curl steps.
+2. Watch the 08-10 GSC refresh for `mario duplantier drum kit`.
+3. Watch for the gearHighlights-contradiction trickle drying up (SEO Agent stops surfacing siblings for 3 consecutive runs) before considering a proactive audit of the remaining ~45 unaudited profiles.
+4. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
 ## 2026-08-07 12:59 — Deep run: 3 fresh proposals promoted (Martin Lopez/Matt Greiner/Joey Jordison gearHighlights-vs-FAQ contradictions), pattern now logged as systemic (19/72 profiles), mario-duplantier CTR row held as noise
 
 ### Context (≤3 lines)

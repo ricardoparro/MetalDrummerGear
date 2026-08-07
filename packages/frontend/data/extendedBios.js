@@ -6555,15 +6555,15 @@ Lopez's tenure with Opeth spanned some of the band's most critically acclaimed a
       },
       gearHighlights: {
         title: 'Gear Highlights',
-        content: `Martin Lopez has used various drum brands throughout his career, including Sonor and Pearl. His setup emphasizes tone and dynamics over power.
+        content: `Martin Lopez plays a Noble & Cooley Walnut shell pack. His setup emphasizes tone and dynamics over power.
 
 **Current Setup (Soen Era):**
-- **Drums**: Sonor SQ2 or Pearl (depending on era)
-- **Snare**: Various sizes (14"x5.5" to 14"x6.5")
-- **Cymbals**: Zildjian K and Constantinople series for warm, complex tones
-- **Hardware**: DW or Sonor hardware
-- **Sticks**: Vic Firth (various models)
-- **Heads**: Remo (Ambassador or Emperor)
+- **Drums**: Noble & Cooley Walnut shell pack
+- **Snare**: Noble & Cooley Solid Shell 14"x6" Maple
+- **Cymbals**: Zildjian K Dark Series (14" Thin Hi-Hats, 18"/20" Medium Thin Crashes, 22" Light Ride, 18" K China)
+- **Hardware**: Axis Percussion double pedal; DW 9100 throne
+- **Sticks**: Vic Firth American Classic 5A
+- **Heads**: Remo
 
 **Setup Philosophy:**
 - Favors warm, musical tones over harsh attack

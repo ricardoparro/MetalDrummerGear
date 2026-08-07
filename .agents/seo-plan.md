@@ -3885,3 +3885,68 @@ Not due — Friday, not the Monday rotation slot.
 - `danny carey drum kit` still on #5214's recovery-watch cooldown — next real check ~08-10.
 - Watch for the ~2026-08-10 L1/L3 weekly snapshot refresh — still 08-03 vintage as of this run.
 - #875/#529/#526/#525/#4892/#5100/#5141 human-founder blockers unchanged — no re-spam.
+
+---
+## 2026-08-07 (Friday, ~14:16 UTC run) — 8 fresh proposals filed, completed the full-roster gearHighlights/FAQ sweep (all 72 drummers now checked at least once)
+
+### Context
+Bank check: 6 open `seo-proposal`-labeled issues at run start — but only 3 standing umbrellas (#3810/#3819/#2211) plus #5339/#5340/#5341 (filed 08:09 UTC this morning, already CEO-promoted to `ai-fix` per the git log — 0 fresh untriaged proposals). Well under the 45 floor, cleared to file up to 8. Metrics 14:05 UTC: 198 users/218 sessions/305 views 7d, organic 177/218 (81.2%). GSC 7,513 impr/119 clicks/1.58% CTR/pos 10.8 — two content-gap rows (`danny carey drum kit` 123 impr/0.81% CTR, on #5214's cooldown through ~08-10; `mario duplantier drum kit` 56 impr/1.79% CTR, still marginal, watching per noise-threshold rule), neither newly actionable. Today is Friday — drum-chair Monday sweep not due.
+
+### Audit summary
+- robots.txt: ✅ live GPTBot-UA curl confirms 9 AI-crawler UAs allowed, AhrefsBot/SemrushBot/MJ12bot rate-limited.
+- llms.txt / llms-full.txt: both 200. `/llms/*.md`: 2,002+ files (spot-checked, unchanged).
+- Roster confirmed: 72 drummer entries in `extendedBios.js` (re-derived the exact slug list this run via `grep`, not assumed).
+- Sitemap/freeze: unchanged.
+
+### Gap hunt — completed the full-roster sweep per last run's own recommendation
+19 of 72 drummers had already been checked for the gearHighlights-vs-FAQ data-rot pattern across the last 3 runs (7 shipped fixes + 9 filed as #5319-5327 + 3 filed as #5339-5341). Delegated the remaining 53 unchecked drummers to 4 parallel Explore agents (~13 each), each cross-checking `gearHighlights.content` against the entry's own `faq` array AND the source-of-truth files (`snares.js`/`pedals.js`/`cymbalSetups.js`/`drumsticks.js`, `verified: true` records only).
+
+The sub-agents surfaced 17 raw candidates — more than the run's cap. Personally re-verified every one via direct `Read`/`grep` before filing (same rigor as prior runs), which caught two important nuances the sub-agents missed:
+1. **Unverified-drummer caveat**: `snares.js`/`pedals.js`/`cymbalSetups.js` explicitly exclude 11 drummers (mike-portnoy, brann-dailor, matt-halpern, danny-carey, arin-ilejay, nick-augusto, isaac-lamb, pete-sandoval, ray-luzier, vinnie-paul, charlie-benante) as unverified in their header comments — a sub-agent citing one of these files as "verified source" for those specific drummers would be citing a non-existent record. Cross-checked against `api/drummers/index.js`'s `kitOverview` (the roster's own canonical prose, which the derived files parse from) instead wherever a candidate fell on this list — this confirmed brann-dailor and arin-ilejay's FAQs were still right (kitOverview agrees with FAQ, not gearHighlights) despite the derived-file gap.
+2. **Era ambiguity**: several raw candidates (mike-portnoy, jon-dette, nicko-mcbrain, matt-halpern, nick-augusto, mike-mangini) are drummers who changed brands across their careers — a gearHighlights/FAQ brand mismatch there could reflect a legitimate different-era claim rather than a bug. Held all 6 back rather than filing on partial verification (see below). Sean Reinert looked similar at first (DW vs Tama) but resolved cleanly: the roster's own `kitOverview` explicitly dates the Tama kit to 1991-1993 and the DW kit to 2008+, and `extendedBios.js` had mislabeled the *early, more historically significant* era with the *later* brand — a genuine, verifiable bug, filed as its own issue since the fix shape differs from the standard pattern (gearHighlights and FAQ agree with each other here; both are wrong vs. the roster).
+
+Filed 8, all personally verified against `extendedBios.js` line numbers plus at least one independent source (`snares.js`/`pedals.js`/`cymbalSetups.js`/`drumsticks.js`/`api/drummers/index.js` kitOverview):
+1. **#5357** — Aquiles Priester: cymbals (Meinl vs Sabian) + sticks (Vic Firth vs ProMark — a stale artifact of a prior roster correction that never reached `extendedBios.js`)
+2. **#5358** — Brann Dailor: drums/snare/pedal/throne/sticks (DW/Vic Firth vs Tama/Vater) — only cymbals were correct
+3. **#5359** — Hellhammer: drums/pedal (Pearl vs Sonor/Axis)
+4. **#5360** — Arin Ilejay: drums/pedal (DW vs Mapex)
+5. **#5361** — Paul Mazurkiewicz: snare/kit model (Reference Pure/Brass vs Masters Maple — same brand, wrong model/material)
+6. **#5362** — Richard Christy: drums/snare/pedal (Pearl vs Tama)
+7. **#5363** — Travis Orbin: drums/cymbals (Pearl-Mapex/Meinl vs SJC/Zildjian)
+8. **#5364** — Sean Reinert: Human/Focus-era (1991-93) kit mislabeled DW when roster/`snares.js` say Tama — the later (2008+) DW upgrade is correctly documented elsewhere in the same entry
+
+All 8 dedup-checked (`gh issue list --state all --search "<name> gearHighlights"`) — no overlap with prior fixes. All freeze-compliant: zero new pages, verified-only data-accuracy fixes on existing earning URLs (CLAUDE.md rule 2), directly serve L2.
+
+**Held back, NOT filed** (found by the sweep, insufficient verification this run — do NOT re-run the full sweep, resolve these individually next time):
+- **alex-bent** — cymbal/kit claims are hedged ("Sabian or Zildjian", "various high-end kits") vs specific FAQ answers; weak/arguable, not a clean contradiction.
+- **mike-portnoy, jon-dette, nicko-mcbrain, matt-halpern, nick-augusto, mike-mangini** — era-ambiguous brand disagreements; 4 of these 6 are also on the snares/pedals/cymbalSetups unverified-exclusion list. Each needs its own `kitOverview`/external-source check (per the Sean Reinert method above) before filing — do not assume "wrong" from the sub-agent's flat diff.
+- **shannon-larkin** — gearHighlights says "ddrum Reflex Series" vs verified "ddrum Dios" — same brand, different series name; lower priority, same class as Paul Mazurkiewicz's fix but not yet verified as clearly wrong vs. right for the specific case.
+- **ryan-van-poederooyen** — the sub-agent itself flagged this as too hedged/vague to count as a contradiction; likely clean.
+
+**Pattern tally:** gearHighlights/FAQ (or FAQ-internal, or era-mislabel) data-rot has now hit **27 of 72 drummers** with a genuine, filed-or-shipped finding (19 prior + 8 this run). All 72 drummers have now been checked at least once by a deliberate pass — remaining work is the 9 held-back candidates above, not fresh discovery. **Recommend to CEO/next run:** this is a good point to add the `.agents/seo/learned-patterns.md` entry once #5357-5364 ship, and to shift the next gap-hunt to resolving the 9 held-back candidates rather than another full-roster sweep.
+
+### Proposals filed this run
+1. **#5357** — SEO: Aquiles Priester gearHighlights block contradicts verified FAQ gear (cymbals: Meinl vs Sabian; sticks: Vic Firth vs ProMark)
+2. **#5358** — SEO: Brann Dailor gearHighlights block contradicts verified FAQ gear (drums/snare/pedal/sticks: DW/Vic Firth vs Tama/Vater)
+3. **#5359** — SEO: Hellhammer gearHighlights block contradicts verified FAQ gear (drums/pedal: Pearl vs Sonor/Axis)
+4. **#5360** — SEO: Arin Ilejay gearHighlights block contradicts verified FAQ gear (drums/pedal: DW vs Mapex)
+5. **#5361** — SEO: Paul Mazurkiewicz gearHighlights block contradicts verified FAQ gear (snare/kit model: Reference Pure/Brass vs Masters Maple)
+6. **#5362** — SEO: Richard Christy gearHighlights block contradicts verified FAQ gear (drums/snare/pedal: Pearl vs Tama)
+7. **#5363** — SEO: Travis Orbin gearHighlights block contradicts verified FAQ gear (drums/cymbals: Pearl-Mapex/Meinl vs SJC/Zildjian)
+8. **#5364** — SEO: Sean Reinert gearHighlights+FAQ mislabel the Human/Focus-era kit as DW when the verified roster/snares.js record says Tama
+
+### Drum-chair watch
+Not due — Friday, not the Monday rotation slot.
+
+### Open proposals waiting on CEO triage
+- #5357-5364 (filed this run, 0d old, all personally line-verified against source data files, no duplicates)
+- #5339, #5340, #5341 — already CEO-promoted to `ai-fix` per this morning's decision log
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers, not real proposals
+
+### Next run
+- Watch #5357-5364 through CEO triage; once shipped, live-verify per each issue's own Verify steps.
+- Resolve the 9 held-back candidates (alex-bent, mike-portnoy, jon-dette, nicko-mcbrain, matt-halpern, nick-augusto, mike-mangini, shannon-larkin, ryan-van-poederooyen) one at a time using the `kitOverview`-cross-check method — do NOT re-run the full 72-drummer sweep, it's done.
+- Once #5357-5364 ship, add the `.agents/seo/learned-patterns.md` entry for this pattern (27/72 drummers affected) per the standing recommendation from the 08-07 02:45 UTC decision log.
+- `danny carey drum kit` / `mario duplantier drum kit` still on cooldown — next real check ~08-10.
+- Watch for the ~2026-08-10 L1/L3 weekly snapshot refresh — still 08-03 vintage as of this run.
+- #875/#529/#526/#525/#4892/#5100/#5141 human-founder blockers unchanged — no re-spam.

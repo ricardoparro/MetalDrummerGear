@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-07 12:59 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-07 14:05 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -9,20 +9,20 @@
 | Metric | Last 7d |
 | --- | --- |
 | Active users | 198 |
-| Sessions | 217 |
-| Page views | 301 |
-| Engagement rate | 54.84% |
-| Avg session (s) | 110 |
+| Sessions | 218 |
+| Page views | 305 |
+| Engagement rate | 62.84% |
+| Avg session (s) | 112 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 10 | 12 |
+| / | 11 | 12 |
 | /drummer/danny-carey | 8 | 5 |
-| /drummer/john-otto | 8 | 6 |
 | /drummer/shannon-larkin | 7 | 5 |
 | /articles/kill-em-all-drum-setup | 6 | 2 |
 | /drummer/gene-hoglan | 6 | 2 |
+| /drummer/john-otto | 6 | 6 |
 | /drummer/hellhammer | 5 | 3 |
 | /drummer/lars-ulrich | 5 | 4 |
 | /songs/crystal-mountain | 5 | 5 |
@@ -31,10 +31,9 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 167 | 149 |
+| Organic Search | 177 | 158 |
 | Direct | 37 | 36 |
-| Unassigned | 30 | 29 |
-| Cross-network | 6 | 6 |
+| Unassigned | 10 | 10 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
@@ -44,9 +43,9 @@
 | United Kingdom | 12 | 10 |
 | Australia | 8 | 7 |
 | Germany | 8 | 7 |
+| Spain | 7 | 6 |
 | China | 6 | 6 |
 | France | 6 | 5 |
-| Spain | 6 | 6 |
 | Sweden | 6 | 6 |
 | Indonesia | 5 | 5 |
 

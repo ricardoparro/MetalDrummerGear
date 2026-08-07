@@ -100,6 +100,18 @@ const QUOTA_DETAIL_RE = /hit your (session|weekly|usage) limit\s*(?:·|\.|-)?\s*
 // Cap on log bytes pulled per failed job — we only need the tail signatures.
 const QUOTA_LOG_MAX_BYTES = 512 * 1024;
 
+// Marker prefix for "the loop failed only because GitHub never acquired a
+// hosted runner" alerts (#5308: Roadie + X Agent both failed within 13min of
+// each other on 2026-08-06, 0 steps ran in any job — a GitHub Actions capacity
+// hiccup, not a repo bug). Same partition-and-report-separately treatment as
+// QUOTA_PREFIX so a transient GitHub-side outage never reads as "needs
+// attention" — it's outside repo control and clears on the next scheduled run.
+const INFRA_PREFIX = '🔧 ';
+// GitHub's own annotation text when a job sits in the queue and is never
+// picked up by a hosted runner. Checked via check-run annotations rather than
+// job logs, because a never-acquired job has NO log at all.
+const RUNNER_CAPACITY_RE = /was not acquired by Runner/i;
+
 // ===========================================================================
 // GitHub REST helper — same style as generate-digest.cjs collectGitHubData().
 // ===========================================================================
@@ -238,6 +250,9 @@ function evalWorkflowFailure(wf, run) {
       const scope = run.quotaInfo.scope || 'usage';
       return [`${QUOTA_PREFIX}${wf.name} (${wf.file}) — both Claude subscriptions hit their ${scope} limit${reset} — self-healing, no action needed (${run.created_at})`];
     }
+    if (run.quotaInfo && run.quotaInfo.infra) {
+      return [`${INFRA_PREFIX}${wf.name} (${wf.file}) — GitHub-hosted runner never acquired (queued job timed out waiting) — transient GitHub Actions capacity hiccup, self-healing, no action needed (${run.created_at})`];
+    }
     return [`${wf.name} (${wf.file}) last run ${run.conclusion} — ${run.created_at}`];
   }
   return [];
@@ -353,26 +368,35 @@ function actionsUrl() {
   return `https://github.com/${REPO}/actions`;
 }
 
-// Split alerts into quota pauses (⏳-prefixed) and everything else, so both
-// the Telegram message and the umbrella issue can say WHICH kind of trouble
-// this is at a glance instead of lumping a self-healing quota window in with
-// a genuine breakage.
+// Split alerts into quota pauses (⏳-prefixed), infra hiccups (🔧-prefixed),
+// and everything else, so both the Telegram message and the umbrella issue
+// can say WHICH kind of trouble this is at a glance instead of lumping a
+// self-healing pause in with a genuine breakage.
 function partitionAlerts(alerts) {
-  const quota = [], real = [];
-  for (const a of alerts) (a.startsWith(QUOTA_PREFIX) ? quota : real).push(a);
-  return { quota, real };
+  const quota = [], infra = [], real = [];
+  for (const a of alerts) {
+    if (a.startsWith(QUOTA_PREFIX)) quota.push(a);
+    else if (a.startsWith(INFRA_PREFIX)) infra.push(a);
+    else real.push(a);
+  }
+  return { quota, infra, real };
 }
-const stripPrefix = (a) => a.startsWith(QUOTA_PREFIX) ? a.slice(QUOTA_PREFIX.length) : a;
+const stripPrefix = (a) => {
+  if (a.startsWith(QUOTA_PREFIX)) return a.slice(QUOTA_PREFIX.length);
+  if (a.startsWith(INFRA_PREFIX)) return a.slice(INFRA_PREFIX.length);
+  return a;
+};
 
 function buildTelegramText(alerts, now = new Date()) {
-  const { quota, real } = partitionAlerts(alerts);
+  const { quota, infra, real } = partitionAlerts(alerts);
   const lines = [];
-  // Headline reflects the WORST class present: a quota-only cycle is a pause,
-  // not an incident, and the founder should see that from the notification.
-  lines.push(real.length > 0 ? '🚨 <b>Loop Watchdog</b>' : '⏳ <b>Loop Watchdog</b> — subscription limit');
+  // Headline reflects the WORST class present: a quota/infra-only cycle is a
+  // pause, not an incident, and the founder should see that from the notification.
+  lines.push(real.length > 0 ? '🚨 <b>Loop Watchdog</b>' : '⏳ <b>Loop Watchdog</b> — self-healing pause');
   const counts = [];
   if (real.length) counts.push(`${real.length} alert${real.length === 1 ? '' : 's'}`);
   if (quota.length) counts.push(`${quota.length} quota pause${quota.length === 1 ? '' : 's'}`);
+  if (infra.length) counts.push(`${infra.length} infra hiccup${infra.length === 1 ? '' : 's'}`);
   lines.push(`<i>${now.toISOString().slice(0, 16).replace('T', ' ')} UTC · ${counts.join(' · ')}</i>`);
   if (real.length) {
     lines.push('');
@@ -383,6 +407,11 @@ function buildTelegramText(alerts, now = new Date()) {
     lines.push('');
     lines.push('<b>⏳ Claude subscription limit</b> <i>(expected, recovers by itself)</i>');
     for (const a of quota) lines.push(`• ${esc(stripPrefix(a))}`);
+  }
+  if (infra.length) {
+    lines.push('');
+    lines.push('<b>🔧 GitHub Actions runner capacity</b> <i>(expected, recovers by itself)</i>');
+    for (const a of infra) lines.push(`• ${esc(stripPrefix(a))}`);
   }
   lines.push('');
   lines.push(`<a href="${actionsUrl()}">Actions tab →</a>`);
@@ -405,10 +434,11 @@ function buildIssueBody(alerts, now = new Date()) {
   lines.push('');
   lines.push(`_Auto-maintained by \`.agents/scripts/watchdog.cjs\`. Last checked ${now.toISOString().slice(0, 16).replace('T', ' ')} UTC._`);
   lines.push('');
-  const { quota, real } = partitionAlerts(alerts);
+  const { quota, infra, real } = partitionAlerts(alerts);
   const counts = [];
   if (real.length) counts.push(`${real.length} active alert${real.length === 1 ? '' : 's'}`);
   if (quota.length) counts.push(`${quota.length} quota pause${quota.length === 1 ? '' : 's'}`);
+  if (infra.length) counts.push(`${infra.length} infra hiccup${infra.length === 1 ? '' : 's'}`);
   lines.push(`## ${real.length > 0 ? '🚨' : '⏳'} ${counts.join(' · ')}`);
   lines.push('');
   if (real.length) {
@@ -423,6 +453,14 @@ function buildIssueBody(alerts, now = new Date()) {
     lines.push('_Both the primary and backup subscriptions were inside a usage-limit window, so the run had no quota to spend. The failover in `run-claude.sh` / `.roadie/drain.sh` worked as designed; the next scheduled run picks up once the window resets. Recurring often ⇒ throttle loop cadence/width (see the token-budget note in `docs/loops.md`)._');
     lines.push('');
     for (const a of quota) lines.push(`- ${stripPrefix(a)}`);
+    lines.push('');
+  }
+  if (infra.length) {
+    lines.push('### 🔧 GitHub Actions runner capacity — expected, recovers by itself');
+    lines.push('');
+    lines.push('_GitHub never handed the job a hosted runner ("not acquired ... after multiple attempts") — no step ran, nothing in this repo executed or failed. This is a transient GitHub Actions capacity issue, not a repo-side cause; the next scheduled run picks up normally. Recurring often ⇒ check https://www.githubstatus.com/._');
+    lines.push('');
+    for (const a of infra) lines.push(`- ${stripPrefix(a)}`);
     lines.push('');
   }
   lines.push(`[Actions tab →](${actionsUrl()})`);
@@ -498,17 +536,36 @@ function fetchJobLog(jobId) {
 }
 
 /**
- * Decide WHY a failed run failed: an exhausted Claude subscription (expected,
- * self-healing) or something that needs a human. Reads the failed jobs' logs
- * and matches the failover scripts' own signatures.
+ * Fetch a check-run's annotations. Used to detect a never-acquired job (it has
+ * NO log at all, so the log-based quota check can't see it) via GitHub's own
+ * "was not acquired by Runner" annotation text.
+ */
+function fetchJobAnnotations(jobId) {
+  return ghRequest('GET', `/repos/${REPO}/check-runs/${jobId}/annotations`);
+}
+
+/**
+ * Decide WHY a failed run failed: an exhausted Claude subscription, a GitHub
+ * Actions runner-capacity hiccup (both expected, self-healing), or something
+ * that needs a human. Checks the failed jobs' annotations for the
+ * runner-capacity signature first (a never-acquired job has no log), then
+ * falls back to matching the failover scripts' own log signatures.
  *
- * Degrades to `{ quota: false }` on any error — an unclassifiable failure must
- * still alert loudly rather than be silently downgraded.
+ * Degrades to `{ quota: false, infra: false }` on any error — an
+ * unclassifiable failure must still alert loudly rather than be silently
+ * downgraded.
  */
 async function classifyFailure(run) {
   try {
     const data = await ghRequest('GET', `/repos/${REPO}/actions/runs/${run.id}/jobs?per_page=30`);
     const failed = ((data && data.jobs) || []).filter(j => FAILED_CONCLUSIONS.has(j.conclusion));
+    for (const job of failed) {
+      let annotations = [];
+      try { annotations = (await fetchJobAnnotations(job.id)) || []; } catch { annotations = []; }
+      if (annotations.some(a => RUNNER_CAPACITY_RE.test(a.message || ''))) {
+        return { quota: false, infra: true };
+      }
+    }
     for (const job of failed) {
       let log = '';
       try { log = await fetchJobLog(job.id); } catch { continue; }
@@ -516,10 +573,10 @@ async function classifyFailure(run) {
       const m = log.match(QUOTA_DETAIL_RE);
       return { quota: true, scope: m ? m[1].toLowerCase() : 'usage', resets: m ? m[2].trim() : null };
     }
-    return { quota: false };
+    return { quota: false, infra: false };
   } catch (e) {
     process.stderr.write(`  couldn't classify failure of run ${run.id}: ${e.message}\n`);
-    return { quota: false };
+    return { quota: false, infra: false };
   }
 }
 
@@ -775,6 +832,24 @@ function selfTest() {
     /Needs attention/.test(buildIssueBody(quotaAlerts, now)), false);
   check('issue body: mixed → has both sections',
     /Needs attention/.test(buildIssueBody(mixed, now)) && /subscription limit/i.test(buildIssueBody(mixed, now)), true);
+
+  // Fixture A3 (#5308): a GitHub Actions hosted-runner never acquired ("not
+  // acquired by Runner ... after multiple attempts") is also self-healing —
+  // GitHub-side capacity, not a repo bug — but distinct from a Claude quota
+  // pause, so it gets its own 🔧 bucket rather than being lumped into ⏳.
+  const infraRun = {
+    status: 'completed', conclusion: 'cancelled', created_at: now.toISOString(),
+    quotaInfo: { quota: false, infra: true },
+  };
+  const infraAlerts = evalWorkflowFailure(wf, infraRun);
+  check('infra-capacity failure → 1 alert', infraAlerts.length, 1);
+  check('infra alert carries the 🔧 prefix', infraAlerts[0].startsWith(INFRA_PREFIX), true);
+  check('infra alert is not the quota bucket', infraAlerts[0].startsWith(QUOTA_PREFIX), false);
+  check('telegram: infra-only → pause headline', buildTelegramText(infraAlerts, now).startsWith('⏳'), true);
+  check('issue body: infra-only → no "Needs attention" section',
+    /Needs attention/.test(buildIssueBody(infraAlerts, now)), false);
+  check('issue body: infra-only → has runner-capacity section',
+    /runner capacity/i.test(buildIssueBody(infraAlerts, now)), true);
 
   // Fixture B: a healthy, recent success → 0 alerts (failure + stale both clear).
   const healthyRun = {

@@ -4101,14 +4101,14 @@ Roddy is considered one of the pioneers of modern extreme metal drumming, having
       },
       gearHighlights: {
         title: 'Gear Highlights',
-        content: `Derek Roddy has used various drum brands throughout his career, with notable endorsements including DW Drums and Vater Drumsticks. His setup emphasizes playability and efficiency for extreme metal applications.
+        content: `Derek Roddy's current setup centers on Tama drums and Vater drumsticks, built for playability and efficiency in extreme metal applications.
 
 **Typical Setup:**
-- **Drums**: DW Collector's or Performance Series
-- **Snare**: DW 14"x5.5" Maple or Brass
-- **Cymbals**: Sabian or Meinl (AA/HHX or Byzance series)
-- **Hardware**: DW 9000 or Axis double pedals
-- **Sticks**: Vater 5B or custom model
+- **Drums**: Tama Starclassic Bubinga
+- **Snare**: Tama SLP Black Brass 14"x6.5"
+- **Cymbals**: Meinl Byzance and Mb20 Heavy Series
+- **Hardware**: Tama Speed Cobra 910 double pedal
+- **Sticks**: Vater Player's Design Derek Roddy Model (VHDRW)
 - **Heads**: Evans (Genera HD or EC2)
 
 **Technical Setup Notes:**

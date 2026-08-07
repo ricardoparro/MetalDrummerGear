@@ -4872,18 +4872,18 @@ Priester is considered one of the greatest power metal drummers in the world. Hi
       },
       gearHighlights: {
         title: 'Gear Highlights',
-        content: `Aquiles Priester has signature products with both Pearl Drums and Vic Firth. His setup is designed for both extreme speed and powerful stage presence during high-energy performances.
+        content: `Aquiles Priester has a signature snare product with Pearl Drums. His setup is designed for both extreme speed and powerful stage presence during high-energy performances.
 
 **Current Setup:**
 - **Drums**: Pearl Reference Series (custom finishes)
 - **Snare**: Pearl Reference 14"x6.5" or Signature model
-- **Cymbals**: Meinl Byzance series (14" Byzance Traditional Hi-Hats, crashes, 21" Byzance Ride)
+- **Cymbals**: Sabian HHX and AAX Series (14" HHX Evolution Hi-Hats, 18"/19" HHX X-Plosion Crashes, 21" HHX Groove Ride, 18" AAX Chinese)
 - **Hardware**: Pearl Demon Chain Drive double pedal
-- **Sticks**: Vic Firth Aquiles Priester Signature
+- **Sticks**: ProMark TX419W Aquiles Priester Autograph
 - **Heads**: Evans
 
 **Signature Product Features:**
-- Vic Firth signature sticks designed for speed and power
+- ProMark signature sticks designed for speed and power
 - Pearl Demon Chain pedal for rapid-fire double bass
 - Preference for Reference series drums for projection and clarity`
       },
@@ -4920,7 +4920,7 @@ Priester is considered one of the greatest power metal drummers in the world. Hi
         title: 'Sources',
         items: [
           { name: 'Pearl Drums', url: 'https://pearldrum.com' },
-          { name: 'Vic Firth', url: 'https://vicfirth.com' },
+          { name: 'ProMark', url: 'https://promark.com' },
           { name: 'Wikipedia: Aquiles Priester', url: 'https://en.wikipedia.org/wiki/Aquiles_Priester' },
           { name: 'Angra Official', url: 'https://www.angra.net/' },
           { name: 'Complete Drum Setup Guide', url: 'https://metalforge.io/articles/aquiles-priester-drum-setup' }

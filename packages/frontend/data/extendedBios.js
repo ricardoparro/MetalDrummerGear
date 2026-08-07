@@ -7182,20 +7182,20 @@ His work with August Burns Red has earned a Grammy nomination and widespread cri
       },
       gearHighlights: {
         title: 'Gear Highlights',
-        content: `Matt Greiner has long-standing endorsements with Pearl Drums and Meinl Cymbals, and has his own signature snare drum from Pearl designed specifically for metalcore applications.
+        content: `Matt Greiner has been a Mapex Drums and Paiste Cymbals endorser since 2016, when he switched from his earlier Pearl/Meinl setup for August Burns Red's technically demanding metalcore sets.
 
 **Current Setup:**
-- **Drums**: Pearl Reference Pure in Piano Black
-- **Snare**: Pearl Matt Greiner Signature 14"x6" (steel shell)
-- **Cymbals**: Meinl Byzance series (Dual, Extra Dry, and Traditional)
-- **Hardware**: Pearl Demon Drive double pedal
+- **Drums**: Mapex Black Panther Design Lab (maple/walnut hybrid)
+- **Snare**: Mapex Black Panther 14"x5.5" Maple
+- **Cymbals**: Paiste Formula 602 (14" Hi-Hats, 16"/17"/18" Crashes, 22" Ride, 18" China, 10" Splash)
+- **Hardware**: DW 9000 Series double pedal, DW 9100 throne
 - **Sticks**: Vic Firth Matt Greiner Signature
-- **Heads**: Remo (Emperor or Controlled Sound)
+- **Heads**: Evans G2 / EMAD2
 
 **Signature Products:**
-- Pearl Matt Greiner Signature Snare: 14"x6" steel shell with aggressive attack
+- Mapex Black Panther 14"x5.5" Maple snare, the cornerstone of his current live and studio sound
 - Vic Firth signature sticks designed for power and control
-- Known for extensive use of Meinl Byzance Dual crashes for metalcore tone`
+- Known for extensive use of Paiste Formula 602 cymbals for metalcore tone`
       },
       trivia: {
         title: 'Trivia & Notes',
@@ -7228,8 +7228,8 @@ His work with August Burns Red has earned a Grammy nomination and widespread cri
         title: 'Sources',
         items: [
           { name: 'August Burns Red Official', url: 'https://www.augustburnsred.com' },
-          { name: 'Pearl Drums Artist Profile', url: 'https://pearldrum.com' },
-          { name: 'Meinl Cymbals Artist Profile', url: 'https://meinlcymbals.com' },
+          { name: 'Mapex Drums Artist Profile', url: 'https://mapexdrums.com' },
+          { name: 'Paiste Cymbals Artist Profile', url: 'https://www.paiste.com' },
           { name: 'Wikipedia: August Burns Red', url: 'https://en.wikipedia.org/wiki/August_Burns_Red' }
         ]
       }

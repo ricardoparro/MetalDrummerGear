@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-07 00:42 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-07 02:45 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 189 |
-| Sessions | 206 |
-| Page views | 288 |
-| Engagement rate | 57.77% |
-| Avg session (s) | 109 |
+| Active users | 191 |
+| Sessions | 209 |
+| Page views | 290 |
+| Engagement rate | 56.94% |
+| Avg session (s) | 112 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -26,21 +26,21 @@
 | /drummer/lars-ulrich | 5 | 4 |
 | /songs/crystal-mountain | 5 | 5 |
 | /articles/nick-menza-drum-setup | 4 | 2 |
-| /drummer/hellhammer | 4 | 2 |
+| /drummer/bill-ward | 4 | 4 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 158 | 141 |
-| Direct | 34 | 34 |
-| Unassigned | 24 | 23 |
+| Organic Search | 159 | 142 |
+| Direct | 36 | 35 |
+| Unassigned | 26 | 25 |
 | Cross-network | 6 | 6 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 89 | 83 |
-| Canada | 12 | 10 |
+| United States | 90 | 84 |
+| Canada | 13 | 10 |
 | United Kingdom | 12 | 10 |
 | Australia | 8 | 7 |
 | Germany | 7 | 6 |

@@ -2,7 +2,33 @@
 
 *Record of strategic decisions and reasoning. Hot log: last 7 days. Older entries archived monthly under `.agents/ceo/decisions-history/`.*
 
-*Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-08-06 02:26 UTC*
+*Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-08-07 02:45 UTC*
+
+---
+## 2026-08-07 02:45 — Cheap pulse: 5 fresh proposals promoted (gearHighlights vs FAQ gear-brand contradictions, Scott Travis/Hannes Grossmann/Flo Mounier/Derek Roddy/Dirk Verbeuren)
+
+### Context (≤3 lines)
+Metrics 02:45 UTC (191 users/209 sessions/290 views 7d, roughly flat vs 00:42's 189/206/288). Eligible `ai-fix` backlog **0** at run start (20 open `ai-fix` still `hold`-labeled under the #5114 freeze, unchanged), 0 open PRs. 5 fresh untriaged `seo-proposal`s (#5312/#5313/#5315/#5316/#5317, all filed 00:44-00:45 UTC) — the other 3 `seo-proposal`-labeled issues are the standing L1/L2/L3 umbrellas (#3810/#3819/#2211), unchanged since 08-03.
+
+### Actions taken
+- **Promoted #5312/#5313/#5315/#5316/#5317** (`ai-fix`): same class as last night's #5305/#5309/#5310 self-contradiction fixes — `extendedBios.js` `gearHighlights.content` blocks for 5 drummers name the wrong gear brand vs. the same entry's verified `faq` array. Spot-checked 2 of 5 directly against source data: Scott Travis (`snares.js:423-426`/`pedals.js:399-403` confirm ddrum/DW; `gearHighlights` at line ~3849 wrongly says Pearl/Sabian/Vater) and Dirk Verbeuren (`cymbalSetups.js:546-548` confirms Zildjian; `gearHighlights` at line ~4231 wrongly says Meinl — likely copy-paste from Chris Adler's entry). Both matched the issue bodies exactly. Freeze-compliant (existing pages, zero new surface), CLAUDE.md rule-2 verified-facts fix, directly serves L2. Backlog was 0 → promoted all 5 per the liberal-under-45 rule.
+- L1/L2/L3 (#3810/#3819/#2211): all three snapshots still dated 08-03, already closed out in yesterday's runs — nothing fresh to re-review this pulse.
+- Founder ideas: inbox empty, unchanged since 2026-06-19.
+
+### State delta
+- ai-fix backlog: 0 → 5 eligible (#5312/#5313/#5315/#5316/#5317)
+- seo-proposal untriaged: 5 → 0
+- Users/Sessions/Views (7d): 191/209/290 (flat vs 00:42)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 5/5 fresh triaged and promoted, 2 spot-verified against source data, no duplicates, freeze-compliant. ✅ L1/L2/L3: unchanged since 08-03, no re-review needed. ✅ Starvation: backlog now 5, not starved. ✅ Atomic split: none eligible (all fresh, single-entry diffs). ✅ Decisions logged.
+
+### Next Run
+1. Watch #5312/#5313/#5315/#5316/#5317 ship via Roadie; same sibling-sweep class as #5305/#5309/#5310 — expect similar turnaround.
+2. This gearHighlights-vs-FAQ contradiction class has now hit 8 drummers (Eloy Casagrande, Mario Duplantier, Scott Travis, Hannes Grossmann, Flo Mounier, Derek Roddy, Dirk Verbeuren + one more from #5308 batch) — if the SEO Agent keeps surfacing siblings, this is a real systemic data-rot pattern worth a `learned-patterns.md` note once the current batch confirms shipped.
+3. #5141 (studies backlink outreach) and #5100 (L2 recovery items) are live founder asks — no re-spam.
+
+---
 
 ---
 ## 2026-08-06 23:57 — Cheap pulse: 1 fresh proposal promoted (Eloy Casagrande/Mario Duplantier FAQ self-contradiction, data-accuracy fix)
@@ -28,6 +54,9 @@ Metrics 23:56 UTC (216 users/238 sessions/354 views 7d; GSC 7,612 impr/125 click
 3. #5141 (studies backlink outreach) and #5100 (L2 recovery items) are live founder asks — no re-spam.
 
 ---
+
+---
+
 ## 2026-08-06 08:33 — Deep run: 5 fresh proposals promoted (Person-schema sibling sweep hits singular/plural + signature-gear route families), L1/L2/L3 all closed with no new issues (confirmed noise + stale index data)
 
 ### Context (≤3 lines)
@@ -54,6 +83,9 @@ Metrics 08:33 UTC (203 users/223 sessions/326 views 7d; GSC 7,612 impr/125 click
 4. #5141 (studies backlink outreach) and #5100 (L2 recovery items) are live founder asks — no re-spam.
 
 ---
+
+---
+
 ## 2026-08-06 02:26 — Cheap pulse: 3 fresh proposals promoted (bands/techniques/endorsement-news Person-schema gaps, sibling sweep continues)
 
 ### Context (≤3 lines)
@@ -81,6 +113,9 @@ Metrics 02:26 UTC (198 users/217 sessions/315 views 7d; GSC 6,486 impr/113 click
 ---
 
 ---
+
+---
+
 ## 2026-08-05 14:05 — Cheap pulse: 3 fresh proposals promoted (quotes/gear-brand/articles memberOf-Person gaps, sibling sweep continues), danny-carey-drum-kit content-gap held pending fix cooldown
 
 ### Context (≤3 lines)
@@ -104,6 +139,8 @@ Metrics 14:05 UTC (206 users/231 sessions/440 views 7d, flat vs 10:40's 439 view
 2. Re-check `danny carey drum kit` CTR at the next weekly GSC refresh (~08-10) — if still sub-1% after #5214's cooldown window, file a targeted fix for the `drum kit` head-term.
 3. Watch for the next L1/L2/L3 weekly refresh (~08-10).
 4. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
 
 ---
 
@@ -142,6 +179,8 @@ Metrics 08:33 UTC (205 users/228 sessions/432 views 7d, down from 08-04's 218/24
 
 ---
 
+---
+
 ## 2026-08-04 18:34 — Cheap pulse: 2 fresh proposals promoted (drumsticks/snares brand-hub Person schema gap + /brands memberOf gap, both continuing today's Person-schema sibling sweep)
 
 ### Context (≤3 lines)
@@ -166,6 +205,8 @@ Metrics 18:34 UTC (218 users/242 sessions/487 views 7d; GSC 7,315 impr/128 click
 2. Watch for the next L1/L2/L3 weekly refresh (~08-10).
 3. Evening review (~19:00 UTC) — check whether the Person-schema sweep has any remaining sibling route families left, or if it's exhausted (would then need a new depth pattern for the next starvation-adjacent cycle).
 4. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
 
 ---
 
@@ -203,6 +244,8 @@ Metrics 12:41 UTC (215 users/240 sessions/485 views 7d; GSC 7,315 impr/128 click
 
 ---
 
+---
+
 ## 2026-08-04 06:56 (state-confirm — anti-noise hold, +1 promotion)
 - Backlog: 0 ai-fix eligible (20 open ai-fix all `hold`-labeled under the freeze, unchanged) · 0 PRs open · proposals untriaged: 0 after this run (only 3 standing L1/L2/L3 umbrellas #2211/#3810/#3819 remain)
 - Org/Sessions/Views (7d): 210/235/476 · GSC 7,315 impr/128 clicks/1.75% CTR/pos 11.6 — no content-gap rows
@@ -210,6 +253,8 @@ Metrics 12:41 UTC (215 users/240 sessions/485 views 7d; GSC 7,315 impr/128 click
 - Actions: promoted #5221 (`ai-fix`) — `/gear/<brand>/<series>/drummers-using` pages (45 total, 3 route branches) emit zero Person schema for listed drummers; same schema-depth gap already fixed on `/vs/` (#5209) and `/battles/` (#4462), reuses the existing `generatePersonSchema()` renderer, no new fields/pages. Verified live via GPTBot curl in the issue itself, duplicate-checked against #5192/#4794/#4673/#4361 (none overlap). Freeze-compliant depth fix, serves L2.
 - L1/L2/L3: snapshots fresh as of 08-03 (09:14/08:49/10:36 UTC), already fully reviewed and closed out in yesterday's 18:37 deep run — nothing new to action.
 - Next check: next deep run (~08-04 07:00 UTC) — watch #5221 ship, watch for the next L1/L2/L3 refresh (~08-10), continue treating 0-eligible backlog as fast-cycle-by-design (SEO Agent proposes, Roadie ships same-day) not starvation, per the 08-03 precedent.
+
+---
 
 ---
 
@@ -243,6 +288,8 @@ Metrics 18:37 UTC (209 users/240 sessions/483 views 7d; GSC 7,014 impr/134 click
 2. Watch #5214 ship, then track `danny carey kit` in the next 1-2 weekly `gsc-watch-snapshot.md` refreshes for ≥1 click.
 3. If L2 stays at/below 41/100 next refresh (not just this week's dip), treat as a real trend, not noise.
 4. #5141/#5100/#4892/#875/#529/#526/#525 unchanged — no re-spam.
+
+---
 
 ---
 
@@ -287,6 +334,8 @@ Metrics 00:37 UTC (198 users/228 sessions/463 views 7d; GSC 5,610 impr/115 click
 
 ---
 
+---
+
 ## 2026-08-02 12:25 — Cheap pulse: 1 fresh proposal promoted (/gear/&lt;brand&gt; CollectionPage missing mainEntity ItemList, same SSR-enrichment-gap class)
 
 ### Context (≤3 lines)
@@ -309,6 +358,8 @@ Metrics 12:25 UTC (208 users/239 sessions/494 views 7d; GSC 6,716 impr/136 click
 2. Watch for the ~2026-08-03 L1/L2/L3 snapshot refresh — first fresh read since 07-27.
 3. If SEO Agent output itself drops (not just bank depth) for 3 consecutive runs, revisit the starvation playbook step 1.
 4. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
 
 ---
 
@@ -356,6 +407,8 @@ Metrics 00:38 UTC (192 users/219 sessions/452 views 7d; GSC 5,567 impr/108 click
 
 ---
 
+---
+
 ## 2026-08-01 18:22 (state-confirm — anti-noise hold, +1 promotion)
 - Backlog: 0→1 ai-fix eligible (#5176 promoted) · 0 PRs open · proposals untriaged: 0 after triage
 - Org/Sessions/Views (7d): 203/236/478 · GSC 6,646 impr/126 clicks/1.90% CTR/pos 11.7 — no content-gap rows
@@ -363,6 +416,8 @@ Metrics 00:38 UTC (192 users/219 sessions/452 views 7d; GSC 5,567 impr/108 click
 - Blockers unchanged: #5141/#5100/#4892/#875/#529/#526/#525 — no re-spam. Founder ideas inbox still empty since 06-19.
 - Actions: promoted #5176; everything else holds.
 - Next check: watch #5176 ship + live-verify per its own curl steps; next deep run ~2026-08-02 07:00 UTC.
+
+---
 
 ---
 
@@ -413,6 +468,8 @@ Metrics 12:24 UTC (199 users/231 sessions/474 views 7d; GSC 5,414 impr/99 clicks
 
 ---
 
+---
+
 ## 2026-07-31 00:38 — Cheap pulse: 1 fresh proposal promoted (dead-code duplicate-key landmine), #5142 deploy-lag confirmed as expected batching, not a regression
 
 ### Context (≤3 lines)
@@ -438,44 +495,6 @@ Metrics 00:37 UTC (167 users/200 sessions/446 views 7d; GSC 5,482 impr/110 click
 4. #875/#529/#526/#525/#4892 unchanged — no re-spam.
 
 ---
-
----
-
----
-
----
-
----
-
----
-
----
-
-## 2026-07-30 12:37 — Deep run: 1 fresh proposal promoted (SSR Person schema image caption, L2), L1 big-losses confirmed noise (no code suspect), backlog still 0-eligible under freeze
-
-### Context (≤3 lines)
-Metrics 12:37 UTC (174 users/211 sessions/453 views 7d; GSC 6,507 impr/140 clicks/2.15% CTR/pos 11.4, no content-gap rows). No log entry since 07-29 00:33 (36h gap — consistent with cheap-pulse holds going unlogged per the anti-noise rule, nothing changed until now). Eligible `ai-fix` backlog **0** at run start (20 open `ai-fix` still `hold`-labeled under the #5114 freeze, unchanged); 1 fresh untriaged `seo-proposal` (#5142, filed 07:56 UTC).
-
-### Actions taken
-- **Promoted #5142** (`ai-fix`): SSR bot-facing Person schema (`api/meta/[...path].js`, both drummer-profile branches ~L3807/~L5715) emits a bare `image` URL string with no caption, even though `extendedBios.js` has hand-authored `imageAlt` for 25/72 drummers. Verified live: grepped both branches, confirmed bare-string pattern at both sites; confirmed `imageAlt` count (25) via the issue's own node one-liner. Correctly scoped as distinct from #1174/#4632 (those fixed `App.js` client-side JSON-LD only — invisible to non-executing crawler bots). No duplicate found. Freeze-compliant: schema enrichment on existing URLs, directly serves L2 (LLM citation surface), zero new pages.
-- **L1 (GSC watch, `.agents/seo/gsc-watch-snapshot.md`, generated 07-27, still the latest — next refresh ~08-03):** 3 big-losses (danny carey drum kit/drum set, mike mangini drum set) + 2 CTR-gaps (danny carey kit, bill ward drum kit), all already reviewed once in the 07-28 12:40 run. Re-checked for a code suspect this run per the established `learned-patterns.md` rule (mechanical big-loss without a suspect = noise, don't file): `git log --since="21 days ago"` on mike-mangini/danny-carey/bill-ward touches nothing but unrelated batch files (llms regen, video sitemap) — no page-level change in the window. All 5 rows are low-volume (8-35 impr) exactly like the prior confirmed-noise cases (Shannon Larkin, Portnoy/Wallgren oscillation). **No issue filed** — logging as confirmed noise, not escalating evidence.
-- **L3 (indexation, generated 07-27):** unchanged from 07-28's review (81.2% indexed share, 1 `crawled-not-indexed` on `/drummers`, 36 URLs still canonicalizing to `/drummer/navene-koperweis`). That duplicate cluster already has a closed fix (#4621, 07-14) — same self-heal-pending pattern as the meta-shell saga's jay-weinberg cluster; not re-opening without a fresh regression signal.
-- **L2 (#2211):** 43/100 cited, still above the 25-floor that forces ≥2 pattern issues/week — no forced filing.
-- **Studies-epic/backlink-authority (freeze's named top priority):** confirmed **#5141** ("Backlink outreach for the 4 shipped /studies pages") already filed as `human-founder` this morning (07:00 UTC) — covers exactly the open question the 07-28 run flagged (new `/studies/<topic>` page arguably counts as new-page surface, needs a founder call, not a rushed one). No duplicate needed.
-- Founder ideas: inbox empty, unchanged since 2026-06-19. GSC content-gap: none.
-
-### State delta
-- ai-fix backlog: 0 → 1 eligible (#5142)
-- Org/Sessions/Views (7d): 174/211/453 (up from 07-29's 167/197/403) · GSC: 6,507 impr / 140 clicks / 2.15% CTR / pos 11.4 (impressions up, CTR/position softer — within normal WoW range, no content-gap rows)
-
-### Quota check
-✅ Founder ideas: inbox empty. ✅ SEO proposals: 1/1 fresh triaged and promoted, verified, no duplicate, freeze-compliant. ✅ GSC-gap: none. ✅ L1/L2/L3 close-the-loop: all 3 reviewed; L1 losses confirmed noise (no suspect), L3 duplicate cluster already has a closed fix awaiting recrawl, L2 above floor. ✅ Starvation: backlog 0→1, still critically thin, but this is the 2nd deep run at this level since the freeze (07-28, now 07-30) — not yet the 3-consecutive-run bar for founder escalation, and new-surface response stays excluded per the freeze. Watching whether the depth-only backlog structurally can't stay above ~2-3 items given SEO Agent's reduced 2x/day cadence. ✅ Atomic split: none eligible (#5142 is fresh). ✅ Decisions logged.
-
-### Next Run
-1. Watch #5142 ship, then confirm caption appears on `/drummer/lars-ulrich` bot-UA curl per the issue's own verify steps.
-2. If backlog is still ≤2 at the next deep run (~07-31 07:00 UTC) with SEO Agent again producing ≤1 proposal, that's 3 consecutive thin runs — worth a step-1 (prompt/quota) meta-issue per the starvation playbook, not new-page surface.
-3. #5141 (studies backlink outreach) and #5100 (L2 recovery items) are live founder asks — no re-spam.
-4. #875/#529/#526/#525/#4892 unchanged — no re-spam.
 
 ---
 

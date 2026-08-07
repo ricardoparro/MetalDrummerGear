@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-06 23:56 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-07 00:42 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,90 +8,88 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 216 |
-| Sessions | 238 |
-| Page views | 354 |
-| Engagement rate | 59.66% |
-| Avg session (s) | 110 |
+| Active users | 189 |
+| Sessions | 206 |
+| Page views | 288 |
+| Engagement rate | 57.77% |
+| Avg session (s) | 109 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 16 | 15 |
-| /drummer/danny-carey | 9 | 6 |
-| /drummer/gene-hoglan | 8 | 3 |
+| / | 10 | 12 |
+| /drummer/danny-carey | 8 | 5 |
 | /drummer/john-otto | 8 | 6 |
 | /drummer/shannon-larkin | 7 | 5 |
-| /drummer/daniel-erlandsson | 6 | 1 |
-| /drummers/dave-lombardo/licks/dave-lombardo-show-no-mercy-tom-run | 6 | 2 |
-| /cymbals/setups/daniel-erlandsson | 5 | 1 |
+| /drummer/gene-hoglan | 6 | 2 |
+| /articles/kill-em-all-drum-setup | 5 | 2 |
 | /drummer/lars-ulrich | 5 | 4 |
-| /drummer/mario-duplantier | 5 | 4 |
+| /songs/crystal-mountain | 5 | 5 |
+| /articles/nick-menza-drum-setup | 4 | 2 |
+| /drummer/hellhammer | 4 | 2 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 182 | 163 |
-| Direct | 41 | 40 |
-| Unassigned | 22 | 21 |
+| Organic Search | 158 | 141 |
+| Direct | 34 | 34 |
+| Unassigned | 24 | 23 |
 | Cross-network | 6 | 6 |
-| Organic Social | 3 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 99 | 92 |
-| United Kingdom | 14 | 11 |
+| United States | 89 | 83 |
 | Canada | 12 | 10 |
-| Australia | 9 | 8 |
-| France | 9 | 7 |
-| Germany | 9 | 8 |
+| United Kingdom | 12 | 10 |
+| Australia | 8 | 7 |
+| Germany | 7 | 6 |
 | China | 6 | 6 |
-| Indonesia | 6 | 6 |
-| Spain | 6 | 6 |
+| France | 6 | 5 |
 | Sweden | 6 | 6 |
+| Indonesia | 5 | 5 |
+| Netherlands | 5 | 5 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 7,612 |
-| Clicks | 125 |
-| CTR | 1.64% |
-| Avg position | 11.2 |
+| Impressions | 6,380 |
+| Clicks | 98 |
+| CTR | 1.54% |
+| Avg position | 10.9 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| john otto drum kit | 38 | 4 | 10.53% | 6.4 |
+| john otto drum kit | 32 | 4 | 12.50% | 6.4 |
 | fastest metal song | 5 | 2 | 40.00% | 6.2 |
-| shannon larkin drum kit | 8 | 2 | 25.00% | 4.8 |
-| best death metal drummers of all time | 4 | 1 | 25.00% | 6.0 |
-| chris turner drum kit | 2 | 1 | 50.00% | 3.0 |
-| chris turner drum setup | 1 | 1 | 100.00% | 3.0 |
-| daniel erlandsson drum kit | 7 | 1 | 14.29% | 8.4 |
-| danny carey drum kit | 131 | 1 | 0.76% | 10.4 |
+| shannon larkin drum kit | 7 | 2 | 28.57% | 5.3 |
+| daniel erlandsson drum kit | 6 | 1 | 16.67% | 8.5 |
+| danny carey drum kit | 111 | 1 | 0.90% | 10.5 |
 | gojira drum set | 1 | 1 | 100.00% | 6.0 |
-| jaska raatikainen drum set | 2 | 1 | 50.00% | 8.0 |
+| jaska raatikainen drum set | 1 | 1 | 100.00% | 7.0 |
+| joey jordison drum set | 32 | 1 | 3.13% | 11.9 |
+| john otto drum set | 11 | 1 | 9.09% | 8.6 |
+| mario duplantier drum kit | 45 | 1 | 2.22% | 9.6 |
 
 ### Top countries (impressions, last 7d)
 | Country | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| usa | 2,491 | 39 | 1.57% | 10.9 |
-| aus | 304 | 9 | 2.96% | 8.6 |
-| can | 283 | 9 | 3.18% | 10.1 |
-| deu | 255 | 8 | 3.14% | 7.9 |
-| gbr | 447 | 8 | 1.79% | 10.5 |
-| esp | 105 | 6 | 5.71% | 11.0 |
-| swe | 133 | 6 | 4.51% | 9.6 |
-| fra | 162 | 5 | 3.09% | 9.8 |
-| ita | 151 | 3 | 1.99% | 9.2 |
-| bra | 196 | 2 | 1.02% | 8.1 |
+| usa | 2,101 | 30 | 1.43% | 10.6 |
+| aus | 254 | 8 | 3.15% | 8.5 |
+| can | 228 | 8 | 3.51% | 8.6 |
+| gbr | 384 | 7 | 1.82% | 10.3 |
+| deu | 209 | 6 | 2.87% | 8.0 |
+| swe | 102 | 5 | 4.90% | 8.7 |
+| esp | 79 | 4 | 5.06% | 9.9 |
+| cze | 58 | 2 | 3.45% | 7.8 |
+| dnk | 35 | 2 | 5.71% | 7.0 |
+| fra | 133 | 2 | 1.50% | 10.6 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 | Query | Impr | CTR | Pos | Action |
 | --- | --- | --- | --- | --- |
-| danny carey drum kit | 131 | 0.76% | 10.4 | open issue to answer better |
-| mario duplantier drum kit | 51 | 1.96% | 9.5 | open issue to answer better |
+| danny carey drum kit | 111 | 0.90% | 10.5 | open issue to answer better |
 
 ---
 *Re-run manually: `node .agents/scripts/fetch-metrics.cjs`*

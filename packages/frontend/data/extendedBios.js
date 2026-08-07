@@ -7825,15 +7825,15 @@ Ilejay's time with Avenged Sevenfold coincided with their transition to a more c
       },
       gearHighlights: {
         title: 'Gear Highlights',
-        content: `During his time with Avenged Sevenfold, Arin Ilejay used a setup designed for the arena-sized venues and powerful sound the band required.
+        content: `During his time with Avenged Sevenfold, Arin Ilejay used a Mapex setup designed for the arena-sized venues and powerful sound the band required.
 
 **A7X Era Setup:**
-- **Drums**: DW Collector's Series (or similar high-end kit)
-- **Snare**: Various 14"x6.5" snares for power and cut
-- **Cymbals**: Zildjian or Sabian (bright, powerful series)
-- **Hardware**: DW 9000 series double pedal
-- **Sticks**: Vic Firth or Promark 5B/2B
-- **Heads**: Remo or Evans
+- **Drums**: Mapex Saturn Series
+- **Snare**: Mapex Black Panther 14"x6.5"
+- **Cymbals**: Zildjian A Custom series
+- **Hardware**: Mapex Falcon double pedal; Mapex T865 throne
+- **Sticks**: Vic Firth American Classic 5A
+- **Heads**: Evans
 
 **Setup Characteristics:**
 - Large kit suitable for arena performances

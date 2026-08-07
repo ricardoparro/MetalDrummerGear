@@ -1895,13 +1895,13 @@ His drumming on classic Fear Factory albums like "Demanufacture" (1995) and "Obs
       },
       gearHighlights: {
         title: 'Gear Highlights',
-        content: `Raymond Herrera was a Pearl Drums endorser during his Fear Factory years, developing a setup optimized for triggered, mechanical precision at extreme tempos.
+        content: `Raymond Herrera was a Tama Drums endorser during his Fear Factory years, developing a setup optimized for triggered, mechanical precision at extreme tempos.
 
 **Classic Setup (Fear Factory Era):**
-- **Drums**: Pearl Reference Series (with extensive triggering)
-- **Snare**: Pearl Custom 14"x6.5" with trigger
+- **Drums**: Tama Starclassic (with extensive triggering)
+- **Snare**: Tama 14"x6.5" Brass with trigger
 - **Cymbals**: Zildjian (Z Custom for durability)
-- **Hardware**: Pearl Eliminator Double Pedal (later models)
+- **Hardware**: DW 5000 Series Double Pedal on a Tama Power Tower Custom rack
 - **Triggers**: ddrum/Roland triggers throughout kit
 - **Sticks**: Vater Power 5B
 - **Heads**: Remo (Pinstripe/Ambassador)

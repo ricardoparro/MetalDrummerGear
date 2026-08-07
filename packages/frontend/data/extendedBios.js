@@ -2426,11 +2426,11 @@ His drumming style combines relentless blast beats, complex double bass patterns
         content: `Paul Mazurkiewicz has been associated with Pearl Drums for much of his career, favoring equipment that can withstand the rigors of extensive touring and intense playing.
 
 **Current Setup:**
-- **Drums**: Pearl Reference Pure (Matte Black finish)
-- **Snare**: Pearl Reference 14"x6.5" Brass
+- **Drums**: Pearl Masters Maple Complete
+- **Snare**: Pearl Masters 14"x6.5" Maple
 - **Cymbals**: Sabian AAX and HH series (14" Hi-Hats, various crashes, 22" Ride)
-- **Hardware**: Pearl Eliminator Demon Drive double pedal
-- **Sticks**: Promark 5B hickory
+- **Hardware**: Pearl Demon Drive double pedal
+- **Sticks**: Vic Firth American Classic 5B
 - **Heads**: Remo Emperor/Ambassador
 
 **Setup Philosophy:**

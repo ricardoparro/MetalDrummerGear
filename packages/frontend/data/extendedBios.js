@@ -3846,21 +3846,21 @@ Before joining Judas Priest, Travis was a founding member of neo-classical metal
       },
       gearHighlights: {
         title: 'Gear Highlights',
-        content: `Scott Travis has been a long-time endorser of Pearl Drums, Sabian Cymbals, and Vater Drumsticks. His setup emphasizes power and projection for arena-level performances.
+        content: `Scott Travis has been a long-time endorser of ddrum, Paiste Cymbals, DW Pedals, and Vic Firth Drumsticks. His setup emphasizes power and projection for arena-level performances.
 
 **Current Setup:**
-- **Drums**: Pearl Reference Series (22"x18" Bass, multiple toms)
-- **Snare**: Pearl Reference 14"x6.5" Brass
-- **Cymbals**: Sabian (14" HHX Power Hats, AAX X-Plosion Crashes, HHX Power Ride)
-- **Hardware**: Pearl Demon Drive Double Pedal
-- **Sticks**: Vater Los Angeles 5A or Power 5B
-- **Heads**: Remo (Emperor or Powerstroke)
+- **Drums**: ddrum Dominion Series shell pack
+- **Snare**: ddrum Scott Travis Signature 14"x6.5"
+- **Cymbals**: Paiste RUDE and 2002 Series (14" RUDE Hi-Hats, 18"/19" RUDE Crashes, 22" RUDE Power Ride, 18" RUDE China)
+- **Hardware**: DW 9000 Series Double Pedal on a Gibraltar rack
+- **Sticks**: Vic Firth American Classic 5B
+- **Heads**: Remo
 
 **Setup Philosophy:**
-- Large bass drum for powerful low end
-- Brass snare for cut and projection
-- Heavy crashes and ride for arena sound
-- Demon Drive pedals for speed and control`
+- ddrum shell pack built for cut through Judas Priest's dual-guitar attack
+- Signature snare designed to his own specifications
+- Paiste RUDE cymbals for aggressive, arena-cutting projection
+- DW 9000 Series double pedal for speed and control on world tours`
       },
       trivia: {
         title: 'Trivia & Notes',
@@ -3894,8 +3894,8 @@ Before joining Judas Priest, Travis was a founding member of neo-classical metal
       sources: {
         title: 'Sources',
         items: [
-          { name: 'Pearl Drums', url: 'https://pearldrum.com' },
-          { name: 'Sabian Artists', url: 'https://sabian.com/artists' },
+          { name: 'ddrum Artist Profile', url: 'https://www.ddrum.com' },
+          { name: 'Paiste', url: 'https://www.paiste.com' },
           { name: 'Judas Priest Official', url: 'https://www.judaspriest.com' },
           { name: 'Wikipedia: Scott Travis', url: 'https://en.wikipedia.org/wiki/Scott_Travis' }
         ]

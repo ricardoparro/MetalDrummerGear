@@ -7311,20 +7311,20 @@ Richardson's work on landmark albums like "Colors," "The Great Misdirect," and "
       },
       gearHighlights: {
         title: 'Gear Highlights',
-        content: `Blake Richardson endorses Meinl Cymbals and has used various drum brands throughout his career. His setup emphasizes versatility to handle BTBAM's genre-spanning compositions.
+        content: `Blake Richardson plays a Tama Starclassic Bubinga kit and Sabian cymbals, with twin single pedals rather than a linked double for independent control of BTBAM's genre-spanning, constantly shifting time signatures.
 
 **Current Setup:**
-- **Drums**: Pearl Reference Pure or Masters Maple
-- **Snare**: Various 14" snares depending on tour
-- **Cymbals**: Meinl Byzance series (Dark, Extra Dry, and Traditional)
-- **Hardware**: Pearl Demon Drive double pedal
-- **Sticks**: Vic Firth 5A or 5B
-- **Heads**: Remo (various models)
+- **Drums**: Tama Starclassic Bubinga in a custom finish
+- **Snare**: Tama STARPHONIC 14"x6" Brass
+- **Cymbals**: Sabian — 14" HHX Evolution Hi-Hats, 18" HHX Evolution Crash, 17" and 21" AAX Holy Chinas, 21" HH Raw Bell Dry Ride, 10" HH Duo Splash, 9" Radia Cup Chime
+- **Hardware**: Twin Tama Iron Cobra Power Glide single pedals (not a linked double pedal)
+- **Sticks**: Vic Firth American Classic 3A
+- **Heads**: Evans
 
 **Setup Characteristics:**
-- Versatile configuration for diverse musical demands
-- Meinl Byzance cymbals for complex, musical tones
-- Multiple snare options for different sounds
+- Tama Starclassic Bubinga shells for tight low end and explosive attack
+- Sabian cymbal spread built for complex, shifting textures
+- Twin single pedals for independent double-kick control
 - Spacious setup for intricate patterns`
       },
       trivia: {

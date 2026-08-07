@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-07 08:06 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-07 09:04 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -10,7 +10,7 @@
 | --- | --- |
 | Active users | 195 |
 | Sessions | 214 |
-| Page views | 297 |
+| Page views | 298 |
 | Engagement rate | 55.61% |
 | Avg session (s) | 110 |
 
@@ -31,7 +31,7 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 164 | 146 |
+| Organic Search | 165 | 147 |
 | Direct | 37 | 36 |
 | Unassigned | 28 | 27 |
 | Cross-network | 6 | 6 |
@@ -53,43 +53,44 @@
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 6,380 |
-| Clicks | 98 |
-| CTR | 1.54% |
-| Avg position | 10.9 |
+| Impressions | 7,513 |
+| Clicks | 119 |
+| CTR | 1.58% |
+| Avg position | 10.8 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| john otto drum kit | 32 | 4 | 12.50% | 6.4 |
+| john otto drum kit | 34 | 4 | 11.76% | 6.4 |
 | fastest metal song | 5 | 2 | 40.00% | 6.2 |
 | shannon larkin drum kit | 7 | 2 | 28.57% | 5.3 |
-| daniel erlandsson drum kit | 6 | 1 | 16.67% | 8.5 |
-| danny carey drum kit | 111 | 1 | 0.90% | 10.5 |
+| abe cunningham cymbal setup | 2 | 1 | 50.00% | 10.0 |
+| best death metal drummer | 4 | 1 | 25.00% | 7.5 |
+| daniel erlandsson drum kit | 7 | 1 | 14.29% | 9.0 |
+| danny carey drum kit | 123 | 1 | 0.81% | 10.4 |
 | gojira drum set | 1 | 1 | 100.00% | 6.0 |
-| jaska raatikainen drum set | 1 | 1 | 100.00% | 7.0 |
+| jaska raatikainen drum set | 3 | 1 | 33.33% | 7.0 |
 | joey jordison drum set | 32 | 1 | 3.13% | 11.9 |
-| john otto drum set | 11 | 1 | 9.09% | 8.6 |
-| mario duplantier drum kit | 45 | 1 | 2.22% | 9.6 |
 
 ### Top countries (impressions, last 7d)
 | Country | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| usa | 2,101 | 30 | 1.43% | 10.6 |
-| aus | 254 | 8 | 3.15% | 8.5 |
-| can | 228 | 8 | 3.51% | 8.6 |
-| gbr | 384 | 7 | 1.82% | 10.3 |
-| deu | 209 | 6 | 2.87% | 8.0 |
-| swe | 102 | 5 | 4.90% | 8.7 |
-| esp | 79 | 4 | 5.06% | 9.9 |
-| cze | 58 | 2 | 3.45% | 7.8 |
-| dnk | 35 | 2 | 5.71% | 7.0 |
-| fra | 133 | 2 | 1.50% | 10.6 |
+| usa | 2,528 | 36 | 1.42% | 10.6 |
+| aus | 291 | 8 | 2.75% | 8.9 |
+| can | 272 | 8 | 2.94% | 8.6 |
+| gbr | 452 | 7 | 1.55% | 10.0 |
+| deu | 240 | 6 | 2.50% | 8.4 |
+| esp | 97 | 5 | 5.15% | 9.5 |
+| swe | 119 | 5 | 4.20% | 9.0 |
+| arg | 57 | 3 | 5.26% | 6.9 |
+| nld | 109 | 3 | 2.75% | 8.1 |
+| tur | 139 | 3 | 2.16% | 12.7 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 | Query | Impr | CTR | Pos | Action |
 | --- | --- | --- | --- | --- |
-| danny carey drum kit | 111 | 0.90% | 10.5 | open issue to answer better |
+| danny carey drum kit | 123 | 0.81% | 10.4 | open issue to answer better |
+| mario duplantier drum kit | 56 | 1.79% | 9.4 | open issue to answer better |
 
 ---
 *Re-run manually: `node .agents/scripts/fetch-metrics.cjs`*

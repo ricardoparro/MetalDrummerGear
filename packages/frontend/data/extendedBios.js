@@ -5651,15 +5651,15 @@ Dailor's drumming is characterized by constant motion—intricate fills that wea
       },
       gearHighlights: {
         title: 'Gear Highlights',
-        content: `Brann Dailor is a longtime DW Drums endorser, using their Collector's Series drums with custom finishes. He favors a large setup to accommodate his expansive, melodic tom work.
+        content: `Brann Dailor is a longtime Tama endorser, using their Starclassic Performer B/B drums. He favors a large setup to accommodate his expansive, melodic tom work.
 
 **Current Setup:**
-- **Drums**: DW Collector's Series Maple (custom blue finish)
-- **Snare**: DW Collector's Series 14"x6.5" Maple
+- **Drums**: Tama Starclassic Performer B/B (birch/bubinga)
+- **Snare**: Tama S.L.P. G-Maple 14"x6.5"
 - **Cymbals**: Meinl Byzance series (15" Byzance Dark Hi-Hats, various crashes, 22" Byzance Ride, Classics Custom China)
-- **Hardware**: DW 9000 Series Double Pedal
-- **Throne**: DW 9000 Series Throne
-- **Sticks**: Vic Firth 5A (modified)
+- **Hardware**: Tama Speed Cobra double pedal; Tama Iron Cobra Lever Glide hi-hat stand
+- **Throne**: Tama 1st Chair Ergo-Rider
+- **Sticks**: Vater 5B
 - **Heads**: Remo
 
 **Setup Characteristics:**
@@ -5699,7 +5699,6 @@ Dailor's drumming is characterized by constant motion—intricate fills that wea
       sources: {
         title: 'Sources',
         items: [
-          { name: 'DW Drums Artist Profile', url: 'https://www.dwdrums.com/artists/brann-dailor/' },
           { name: 'Meinl Cymbals Artist Profile', url: 'https://meinlcymbals.com/en/artists/brann-dailor' },
           { name: 'Modern Drummer Magazine', url: 'https://www.moderndrummer.com' },
           { name: 'Wikipedia: Brann Dailor', url: 'https://en.wikipedia.org/wiki/Brann_Dailor' }

@@ -2022,13 +2022,13 @@ His drumming on classic Fear Factory albums like "Demanufacture" (1995) and "Obs
       },
       gearHighlights: {
         title: 'Gear Highlights',
-        content: `Morgan Ågren uses Sonor drums and Meinl cymbals, choosing gear that allows for dynamic expression across his diverse musical contexts.
+        content: `Morgan Ågren uses Sonor drums and Paiste cymbals, choosing gear that allows for dynamic expression across his diverse musical contexts.
 
 **Current Setup:**
 - **Drums**: Sonor SQ2 Beech (various configurations)
 - **Snare**: Sonor Designer 14"x5" or 14"x6"
-- **Cymbals**: Meinl Byzance series (14" Sand Hi-Hats, various Byzance crashes, 22" Byzance Traditional Ride)
-- **Hardware**: Sonor hardware; DW pedals
+- **Cymbals**: Paiste Signature and 2002 Series (14" Signature Heavy Hi-Hats, 18"/20" Signature Fast Crashes, 22" Signature Dry Heavy Ride, 18" 2002 China)
+- **Hardware**: Sonor hardware; Sonor Giant Step double pedal
 - **Sticks**: Vic Firth (various models)
 - **Heads**: Remo (Ambassador/Emperor)
 
@@ -2070,7 +2070,7 @@ His drumming on classic Fear Factory albums like "Demanufacture" (1995) and "Obs
         title: 'Sources',
         items: [
           { name: 'Sonor Drums', url: 'https://www.sonor.com' },
-          { name: 'Meinl Cymbals', url: 'https://meinlcymbals.com' },
+          { name: 'Paiste Cymbals', url: 'https://www.paiste.com' },
           { name: 'Devin Townsend Official', url: 'https://www.devintownsend.com' },
           { name: 'Wikipedia: Morgan Ågren', url: 'https://en.wikipedia.org/wiki/Morgan_%C3%85gren' }
         ]

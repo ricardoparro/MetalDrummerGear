@@ -955,7 +955,13 @@ const drummers = [
       snare: 'Tama Charlie Benante Signature 14x6.5"',
       cymbals: 'Paiste RUDE & 2002 Series (14" Hi-Hats, 18" & 19" Crashes, 20" Power Ride, 18" China)',
       hardware: 'Tama Speed Cobra Double Pedal, Roland Electronics',
-      sticks: 'Vic Firth Charlie Benante Signature'
+      sticks: 'Vic Firth Charlie Benante Signature',
+      verified: true,
+      verifiedAt: '2026-08-08',
+      sources: [
+        'https://www.tama.com/eu/artists/detail/118.html',
+        'https://www.paiste.com/en/musicians/charlie-benante'
+      ]
     },
     photos: [
       '/images/drummers/charlie-benante.webp' // Original: https://upload.wikimedia.org/wikipedia/commons/1/11/2017_Anthrax_-_Charlie_Benante_-_by_2eight_-_DSC1986_%28cropped%29.jpg

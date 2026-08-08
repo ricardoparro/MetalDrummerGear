@@ -2560,11 +2560,11 @@ Before Dream Theater, Mangini built an impressive resume with Steve Vai, Extreme
         content: `Mike Mangini uses a massive Pearl Drums kit with numerous electronic and acoustic elements. His setup reflects his technical approach—designed for maximum efficiency and sonic variety.
 
 **Current Setup:**
-- **Drums**: Pearl Masterworks Maple (custom configuration)
+- **Drums**: Pearl Reference Series (custom configuration)
 - **Snares**: Pearl Reference 14"x5" and 14"x6.5" (multiple)
 - **Cymbals**: Sabian (HHX Evolution, AAX X-Plosion crashes, custom hi-hats)
-- **Hardware**: Pearl Eliminator Redline double pedal
-- **Sticks**: Vic Firth Mike Mangini Signature
+- **Hardware**: Pearl Demon Drive double pedal
+- **Sticks**: Vater Mike Mangini Wicked Piston (VHMMWP)
 - **Throne**: Pearl Roadster
 - **Electronics**: Roland TD-50 module for triggers and samples
 

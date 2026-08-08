@@ -3982,7 +3982,7 @@ Dee's powerful, hard-hitting style perfectly complemented Lemmy's raw, loud appr
 - **Snare**: Yamaha Recording Custom 14"x6.5" Aluminum
 - **Cymbals**: Zildjian (15" A New Beat Hi-Hats, A Custom crashes, K Custom ride)
 - **Hardware**: Yamaha Flying Dragon Double Pedal
-- **Sticks**: Vic Firth 2B or custom model
+- **Sticks**: Wincent Mikkey Dee Signature (W-MDS)
 - **Heads**: Remo
 
 **Setup Evolution:**

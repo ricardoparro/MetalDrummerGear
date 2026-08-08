@@ -5,6 +5,33 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-08-08 01:25 UTC*
 
 ---
+## 2026-08-08 12:44 — Deep run: 8 fresh proposals promoted (Inferno/Pete Sandoval/Jon Dette/Mike Mangini/Chris Adler/Daray/Mikkey Dee/Igor Cavalera gearHighlights-vs-FAQ contradictions), studies epic confirmed fully shipped agent-side, everything else held unchanged
+
+### Context (≤3 lines)
+First run after 07:00 UTC (last log entry 01:25 UTC), treated as today's deep run. Metrics 12:43 UTC (185 users/206 sessions/281 views 7d; GSC 7,444 impr/107 clicks/1.44% CTR/pos 10.9 — softer than 08-07's 202/222/308 and 7,513 impr, no big-loss rows in the stale L1 umbrella, read as normal noise). Eligible `ai-fix` backlog 0 at run start, 8 fresh untriaged `seo-proposal` (#5402-#5409, filed 07:47-07:48 UTC), 0 open PRs.
+
+### Actions taken
+- **Promoted all 8** (`ai-fix`): Inferno (pedal brand Pearl→Czarcie Kopyto, snare material brass→steel, drums over-specified), Pete Sandoval (entire brand wrong: Pearl→ddrum across drums/snare/pedal), Jon Dette (Slayer-era Ludwig omitted from brand hedge), Mike Mangini (pedal Eliminator Redline→Demon Drive, sticks Vic Firth→Vater, drums Masterworks→Reference Series), Chris Adler (snare model/size wrong: fictitious "Warbird 12x5.5"→real 14x5.5, drums line name), Daray (kit line Reference Pure→Masterworks Stadium Exotic, snare depth 5"→5.5"), Mikkey Dee (sticks Vic Firth, an 18-year-lapsed endorsement→current Wincent signature), Igor Cavalera (hedge lists non-existent Pearl brand→unhedged all-Tama per FAQ/source). Same systemic `gearHighlights.content`-contradicts-verified-FAQ/source-of-truth shape logged 2026-08-07 in `learned-patterns.md` (auto-fast-track rule) — each body cites its own source-of-truth file (`snares.js`/`pedals.js`/`drumsticks.js`/`api/drummers/index.js`). Searched all-state issues per drummer slug before promoting — no duplicate fix issues found for any of the 8 (only unrelated content-batch history). Freeze-compliant (existing pages, verified-only, single-file, zero new surface).
+- Now 39/72 profiles touched by this bug class across ~42 merged/queued PRs in 5 days — trickle still flowing, no proactive full-roster audit needed yet (33 profiles remain unaudited).
+- **Studies epic (#4763, the backlink play) confirmed fully shipped agent-side**: all 3 phases + 10 follow-on backlink-wiring/schema fixes closed (#4764-4766, #4790, #4793, #4863, #4976, #5011, #5026, #5131, #5160-5162, #5237). The only open item is #5141 (human-founder — actual outreach to get other sites to link the 4 `/studies` pages), unchanged since 07-30, no new comment from Ricardo. Nothing further for agents to implement here; the top strategic lever is now genuinely blocked on the founder, not on missing work.
+- **GSC content-gap row held**: `danny carey drum kit` (115 impr, 0.87% CTR, pos 10.3) — same page as #5214's metaDescription rewrite (shipped 08-03), watch window is 08-10/08-17 per the 08-03 learned-patterns entry, not yet elapsed. Not re-filed.
+- L1/L2/L3 (#3810/#3819/#2211): snapshots still dated 08-03, already closed out 08-06. Next refresh due ~08-10. Founder ideas inbox empty, unchanged since 2026-06-19. Human-founder blockers #5141/#5100/#4892/#875/#529/#526/#525 — no new comments, no re-spam.
+- **Starvation check**: post-triage backlog 8 (<15) and bank effectively 0 (<=2, excluding the 3 standing L1/L2/L3 umbrella issues) technically meets the trigger, but this is the same thin-but-flowing shape held every run this week — SEO Agent has produced 5-9 fresh, independently-verifiable proposals every cycle for 5 straight days. Not escalating.
+
+### State delta
+- ai-fix backlog: 0 → 8 eligible (#5402-#5409)
+- Org/Sessions/Views (7d): 185/206/281 (down from 08-07's 202/222/308) · GSC: 7,444 impr / 107 clicks / 1.44% CTR / pos 10.9 (down from 7,513/119/1.58%/10.8) — within established noise band, no new content-gap row beyond the held danny-carey one
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 8/8 fresh triaged and promoted, no duplicates, freeze-compliant. ✅ GSC-gap: danny-carey-drum-kit held (cooldown not elapsed). ✅ L1/L2/L3: no fresh snapshot since 08-03. ✅ Starvation: technically triggered but same recurring flowing pattern, not escalating (see above). ✅ Atomic split: none eligible (all 8 fresh, single-file, <1 day old); the 20 hold-labeled freeze issues are blocked by strategic freeze, not size/ambiguity — splitting would not help. ✅ Decisions logged.
+
+### Next Run
+1. Watch #5402-#5409 ship + live-verify per each issue's own verify steps.
+2. Watch the 08-10 GSC/indexation/L2 refresh — first fresh read since 08-03, also the checkpoint for `danny carey drum kit`.
+3. Watch for the gearHighlights-contradiction trickle drying up (SEO Agent stops surfacing siblings for 3 consecutive runs) before considering a proactive audit of the remaining ~33 unaudited profiles.
+4. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
 ## 2026-08-08 01:25 — Cheap pulse: 4 fresh proposals promoted (Nicko McBrain/Matt Halpern/Nick Augusto/Shannon Larkin gearHighlights-vs-FAQ contradictions), danny-carey-drum-kit content-gap held (fix cooldown continues)
 
 ### Context (≤3 lines)

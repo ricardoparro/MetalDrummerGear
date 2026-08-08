@@ -4052,3 +4052,50 @@ Not due — Saturday, not the Monday rotation slot.
 - `danny carey drum kit` still on #5214's cooldown — next real CTR check ~08-10 (separate from #5392's data-accuracy fix, no conflict).
 - Watch for the ~2026-08-10 L1/L3 weekly snapshot refresh — still 08-03 vintage as of this run.
 - #875/#529/#526/#525/#4892/#5100/#5141 human-founder blockers unchanged — no re-spam.
+
+---
+## 2026-08-08 (Saturday, ~14:xx UTC run) — 8 fresh proposals filed: proactive full-roster gearHighlights audit of the 40 previously-unaudited drummers
+
+### Context
+Bank check: 3 open `seo-proposal`-labeled issues at run start — just the 3 standing umbrellas (#2211/#3810/#3819), 0 untriaged. Well under the 45 floor, cleared to file up to 8. Metrics 07:40 UTC: 178 users/196 sessions/269 views 7d, organic 157/196 (80%). GSC 6,364 impr/91 clicks/1.43% CTR/pos 10.9 — same `danny carey drum kit` content-gap row (100 impr, 1.00% CTR), still inside #5214's cooldown through ~08-10, not re-filed. Today is Saturday — drum-chair Monday sweep not due.
+
+### The proactive audit
+Per the 2026-08-08 01:25 UTC CEO decisions-log entry's own "Next Run" note: "Watch for the gearHighlights-contradiction trickle drying up... before considering a proactive audit of the remaining ~41 unaudited profiles." The trickle (32 drummers fixed across #5305-#5376 over 4 days) had in fact been drying to a handful/run, and the CEO's own log explicitly flagged this as the next lever — so ran it proactively this run rather than waiting for a stall signal.
+
+Computed the exact remaining set: 72 total roster slugs in `extendedBios.js` minus the 32 already fixed/touched (Scott Travis, Hannes Grossmann, Flo Mounier, Derek Roddy, Dirk Verbeuren, Paul Bostaph, Matt Garstka, Jaska Raatikainen, Abe Cunningham, Daniel Erlandsson, Jason Bittner, Raymond Herrera, Morgan Ågren, Blake Richardson, Martin Lopez, Matt Greiner, Joey Jordison, Aquiles Priester, Brann Dailor, Hellhammer, Arin Ilejay, Paul Mazurkiewicz, Richard Christy, Travis Orbin, Sean Reinert, Nicko McBrain, Matt Halpern, Nick Augusto, Shannon Larkin, Eloy Casagrande, Mario Duplantier, Danny Carey) = exactly **40 unaudited slugs**. Split into 2 batches of 20, ran two independent general-purpose sub-agents to cross-check each drummer's `gearHighlights.content` against their own `faq` array and the source-of-truth files (`snares.js`, `cymbalSetups.js`, `pedals.js`, `drumsticks.js`, `api/drummers/index.js`).
+
+**Sub-agents returned 12 confirmed contradictions.** Personally spot-verified 8 of the 12 by direct file read before filing (igor-cavalera, daray, jocke-wallgren✗not filed-see below, chris-adler, inferno, jon-dette, mike-mangini, pete-sandoval) plus checked mikkey-dee and vinnie-paul's cited lines. Filed the **8 cleanest, highest-confidence** ones (all single- or dual-file, unambiguous brand/model mismatches); held back 4 for next run to keep this batch tight:
+- **jocke-wallgren** (cymbals Sabian vs verified Zildjian) — solid but not personally re-verified this run, queued.
+- **ray-luzier** (cymbal series + snare depth) — solid, one of the 3 sub-findings (pedal 9000 vs 9002) was only medium-confidence, needs a cleaner scope before filing.
+- **navene-koperweis** (drums/snare/pedal all say "various") — weaker signal on reflection: `gearHighlights` hedges with "various brands," which is vague rather than a false specific claim — worth a closer look before treating as the same bug class.
+- **vinnie-paul** (sticks) — turned out NOT to fit the pattern on inspection: `gearHighlights` and the FAQ *agree* with each other (both say generic "Vic Firth American Classic 5B"); the actual discrepancy is FAQ vs. `drumsticks.js`'s more specific "Vic Firth SVP Signature Vinnie Paul" entry — a different, murkier fact-precision question, not a `gearHighlights`-contradicts-FAQ case. Not filed as this issue type; flagging here in case a future FAQ-precision sweep wants it.
+
+### Proposals filed this run
+1. **#5402** — SEO: Inferno gearHighlights block contradicts verified FAQ/source gear (pedal brand, snare material)
+2. **#5403** — SEO: Pete Sandoval gearHighlights block contradicts verified FAQ/source gear (entire brand wrong: Pearl vs ddrum)
+3. **#5404** — SEO: Jon Dette gearHighlights block omits verified drum brand (says Pearl/Tama/DW, Slayer-era FAQ says Ludwig)
+4. **#5405** — SEO: Mike Mangini gearHighlights block contradicts verified FAQ/source gear (pedal, drum model, sticks brand)
+5. **#5406** — SEO: Chris Adler gearHighlights block contradicts verified FAQ/source snare (wrong model/size)
+6. **#5407** — SEO: Daray gearHighlights block contradicts verified FAQ/source gear (wrong kit line, wrong snare depth)
+7. **#5408** — SEO: Mikkey Dee gearHighlights block contradicts verified FAQ/source sticks brand (Vic Firth vs current Wincent signature)
+8. **#5409** — SEO: Igor Cavalera gearHighlights block hedges wrong brand (Pearl) vs verified all-Tama FAQ/source gear
+
+All 8 dedup-checked (`gh issue list --state all --search "gearHighlights"` — full 40-issue history reviewed) — no overlap with any of the 32 already-fixed drummers. All freeze-compliant: zero new pages, verified-only data-accuracy fixes on existing earning URLs (CLAUDE.md rule 2), directly serve L2 citation quality.
+
+**Roster status:** 40/40 unaudited slugs now checked. 8 filed this run + 4 held (jocke-wallgren, ray-luzier, navene-koperweis need one more verification pass; vinnie-paul doesn't fit this bug class). The remaining ~28 of the 40 were checked and found clean (gearHighlights already agrees with FAQ/source) — do not re-audit them.
+
+### Drum-chair watch
+Not due — Saturday, not the Monday rotation slot.
+
+### Open proposals waiting on CEO triage
+- #5402-5409 (filed this run, 0d old, each personally verified against source files before filing, no duplicates)
+- #5392-5396 (already CEO-promoted to `ai-fix` per the 08-08 01:25 decision log — not fresh from this run's perspective)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers, not real proposals
+
+### Next run
+- Watch #5402-5409 through CEO triage; live-verify per each issue's own Verify steps once shipped.
+- Finish the 4 held-back candidates: re-verify jocke-wallgren (cymbals) and ray-luzier (cymbals + snare depth, drop the medium-confidence pedal claim) then file; take a closer look at navene-koperweis (may be too hedged/vague to count as a contradiction); vinnie-paul needs a different issue type (FAQ-vs-drumsticks.js precision, not gearHighlights-vs-FAQ) if pursued at all.
+- Once the held-back 4 are resolved, this gearHighlights sweep is genuinely exhausted (72/72 roster slugs audited) — next depth lever should be a different pattern (e.g. the long-term structural fix already flagged in `learned-patterns.md`: generate `gearHighlights.content` from structured gear data instead of hand-authored prose, which would make this whole bug class structurally impossible — still needs founder-ideas triage, not a proposal itself).
+- `danny carey drum kit` still on #5214's cooldown — next real CTR check ~08-10.
+- Watch for the ~2026-08-10 L1/L3 weekly snapshot refresh — still 08-03 vintage as of this run.
+- #875/#529/#526/#525/#4892/#5100/#5141 human-founder blockers unchanged — no re-spam.

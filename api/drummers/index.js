@@ -1304,7 +1304,13 @@ const drummers = [
       snare: 'Tama S.L.P. 14x6.5" G-Maple',
       cymbals: 'Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Brilliant Heavy Hammered Crashes, 21" Ghost Ride, 18" Extra Dry China)',
       hardware: 'Tama Speed Cobra Double Pedal, Tama Iron Cobra Lever Glide Hi-Hat Stand, Tama 1st Chair Ergo-Rider Throne',
-      sticks: 'Vater 5B'
+      sticks: 'Vater 5B',
+      verified: true,
+      verifiedAt: '2026-08-08',
+      sources: [
+        'https://www.tama.com/usa/artists/detail/53.html',
+        'https://meinlcymbals.com/en/artists/brann-dailor-a1107.html'
+      ]
     },
     photos: [
       '/images/drummers/brann-dailor.webp' // Original: https://upload.wikimedia.org/wikipedia/commons/6/6b/20150612-054-Nova_Rock_2015-Mastodon-Brann_Dailor.jpg

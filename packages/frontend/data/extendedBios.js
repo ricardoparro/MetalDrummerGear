@@ -3213,11 +3213,11 @@ Daray's drumming combines extreme speed and technical precision with theatrical 
       },
       gearHighlights: {
         title: 'Gear Highlights',
-        content: `Daray is a Pearl Drums endorser, using their Reference Pure series for both studio recording and live performances with Dimmu Borgir.
+        content: `Daray is a Pearl Drums endorser, using their Masterworks Stadium Exotic series for both studio recording and live performances with Dimmu Borgir.
 
 **Current Setup:**
-- **Drums**: Pearl Reference Pure in custom black finish
-- **Snare**: Pearl Reference 14"x5" Brass
+- **Drums**: Pearl Masterworks Stadium Exotic
+- **Snare**: Pearl Reference 14"x5.5" Brass
 - **Cymbals**: Paiste (15" Sound Edge Hi-Hats, 2002 and RUDE crashes, 22" RUDE Power Ride)
 - **Hardware**: Pearl Demon Drive double pedal
 - **Sticks**: Promark 5B

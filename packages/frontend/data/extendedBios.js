@@ -7961,12 +7961,12 @@ Beyond his drumming career, Koperweis is a prolific producer and electronic arti
         content: `Navene Koperweis is a Meinl Cymbals endorser, favoring their Byzance series for its dark, complex tones. His setup is designed for the technical demands of progressive and extreme metal.
 
 **Current Setup:**
-- **Drums**: Various high-end kits (session drummer uses different brands)
-- **Snare**: 14"x5.5" or 14"x6" (various brands)
-- **Cymbals**: Meinl Byzance series (14" Dual Hi-Hats, various crashes, Foundry Reserve Ride)
-- **Hardware**: Various double pedals
-- **Sticks**: Standard 5A or 5B
-- **Heads**: Remo or Evans
+- **Drums**: DW Drums Performance Series
+- **Snare**: DW Performance 14"x6.5" Steel
+- **Cymbals**: Meinl Byzance Series (15" Dual Hi-Hats, 18" & 19" Extra Dry Medium Crashes, 21" Transition Ride, 18" Extra Dry China, 10" Splash)
+- **Hardware**: DW 9000 Series double pedal, DW Throne
+- **Sticks**: Vic Firth American Classic 5B
+- **Heads**: Evans
 
 **Production Work:**
 - Operates recording studio for drum production

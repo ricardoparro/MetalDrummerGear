@@ -1530,7 +1530,7 @@ Dette served as Slayer's touring drummer during 1996-1997, filling in when Paul 
         content: `Jon Dette has used various drum setups throughout his career, adapting to each band's requirements.
 
 **Typical Setup:**
-- **Drums**: Pearl, Tama, or DW depending on period
+- **Drums**: Ludwig Classic Maple (Slayer era, twin 22" bass drums)
 - **Snare**: 14"x6.5" metal or maple snares
 - **Cymbals**: Sabian or Zildjian
 - **Hardware**: DW 9000 or Tama Iron Cobra double pedal

@@ -6872,11 +6872,11 @@ Van Poederooyen's versatile drumming has adapted to Townsend's constantly evolvi
     metaTitle: 'Nick Augusto Drum Kit & Gear Setup — Former Trivium Drummer | MetalForge',
     metaDescription: 'Complete biography of Nick Augusto, former Trivium drummer (2010-2014). Explore his career, drumming style, work on albums like In Waves and Vengeance Falls, and his influence on modern metal.',
     ogImage: '/images/drummers/nick-augusto.webp',
-    keywords: ['trivium', 'metalcore', 'thrash metal', 'tama drums', 'in waves', 'vengeance falls', 'orlando drummer', 'modern metal'],
+    keywords: ['trivium', 'metalcore', 'thrash metal', 'pearl drums', 'in waves', 'vengeance falls', 'orlando drummer', 'modern metal'],
     relatedDrummers: ['alex-bent', 'travis-smith', 'chris-adler', 'joey-jordison'],
     summary: 'Nick Augusto, former Trivium drummer (2010-2014). Known for his explosive style on albums like "In Waves" and "Vengeance Falls."',
     lastUpdated: '2026-02-14',
-    imageAlt: 'Nick Augusto performing live with Trivium behind his Tama drum kit',
+    imageAlt: 'Nick Augusto performing live with Trivium behind his Pearl drum kit',
     schemaType: 'Person',
     sections: {
       overview: {
@@ -6929,15 +6929,15 @@ During his four years with Trivium, Augusto recorded two studio albums—"In Wav
       },
       gearHighlights: {
         title: 'Gear Highlights',
-        content: `During his time with Trivium, Nick Augusto endorsed Tama Drums, using their Starclassic series for live performances and studio recordings.
+        content: `During his time with Trivium, Nick Augusto played a Pearl Reference Pure setup, pairing it with Sabian AAX Series cymbals for live performances and studio recordings.
 
 **Setup with Trivium:**
-- **Drums**: Tama Starclassic Performer B/B in custom finish
-- **Snare**: Tama S.L.P. 14"x6.5" or Starclassic snare
-- **Cymbals**: Meinl (MB20 and Classics Custom series)
-- **Hardware**: Tama Iron Cobra double pedal
-- **Sticks**: Promark 5B or similar
-- **Heads**: Evans or Remo
+- **Drums**: Pearl Reference Pure
+- **Snare**: Pearl Reference 14"x6.5" Brass
+- **Cymbals**: Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Stage Ride, 18" AAXtreme China)
+- **Hardware**: Pearl Demon Drive Double Pedal, Pearl D-2000 Throne
+- **Sticks**: Vic Firth American Classic 5B
+- **Heads**: Evans
 
 **Setup Characteristics:**
 - Punchy, attack-focused tom tuning

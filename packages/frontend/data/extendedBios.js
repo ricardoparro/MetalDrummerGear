@@ -3334,12 +3334,12 @@ Before Amon Amarth, Wallgren was known for his work with Swedish bands including
         content: `Jocke Wallgren uses a setup designed for the powerful, driving sound Amon Amarth requires in large venue and festival settings.
 
 **Current Setup:**
-- **Drums**: Pearl Masters series (or similar high-end kit)
-- **Snare**: 14"x6.5" Maple or Metal snare for cut and power
-- **Cymbals**: Sabian (various series including AAX and HHX)
-- **Hardware**: DW or Pearl double pedal
-- **Sticks**: Standard 5B or 2B for power
-- **Heads**: Remo or Evans
+- **Drums**: Pearl Reference Pure
+- **Snare**: Pearl Reference 14"x6.5" Brass
+- **Cymbals**: Zildjian A Custom & K Custom Series (14" A Custom Hi-Hats, 18" & 19" A Custom Crashes, 21" K Custom Ride)
+- **Hardware**: Pearl Demon Drive double pedal
+- **Sticks**: Vic Firth American Classic 5B
+- **Heads**: Evans
 
 **Live Requirements:**
 - Durable setup for extensive touring schedule

@@ -5009,8 +5009,8 @@ Before joining Korn, Luzier built an impressive resume playing with David Lee Ro
 
 **Current Setup:**
 - **Drums**: Pearl Reference Pure in custom finishes
-- **Snare**: Pearl Reference 14"x5" Brass or Steel
-- **Cymbals**: Sabian (15" HHX Evolution Hi-Hats, AAX and HHX crashes, 21" AAX Raw Bell Dry Ride)
+- **Snare**: Pearl Reference 14"x6.5" Brass
+- **Cymbals**: Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Stage Ride, 18" AAXtreme China)
 - **Hardware**: DW 9000 Series double pedal
 - **Sticks**: Vic Firth Ray Luzier Signature
 - **Heads**: Evans

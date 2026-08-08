@@ -779,7 +779,13 @@ const drummers = [
       snare: 'Pearl Reference 14x6.5" Brass',
       cymbals: 'Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Stage Ride, 18" AAXtreme China)',
       hardware: 'DW 9002 Double Pedal, Pearl D-2000 Roadster Throne',
-      sticks: 'Vic Firth Ray Luzier Signature'
+      sticks: 'Vic Firth Ray Luzier Signature',
+      verified: true,
+      verifiedAt: '2026-08-08',
+      sources: [
+        'https://pearldrum.com/en/artist/ray-luzier',
+        'https://sabian.com/artist/ray-luzier/'
+      ]
     },
     photos: [
       '/images/drummers/ray-luzier.webp' // Original: https://upload.wikimedia.org/wikipedia/commons/c/c8/Ray_Luzier_of_Korn.jpg

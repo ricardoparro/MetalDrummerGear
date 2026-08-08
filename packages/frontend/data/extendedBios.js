@@ -5907,13 +5907,13 @@ A graduate of Berklee College of Music, Halpern brings academic rigor to his dru
       },
       gearHighlights: {
         title: 'Gear Highlights',
-        content: `Matt Halpern is a Meinl Cymbals and Tama Drums endorser. He co-developed the Meinl Byzance Foundry Reserve series of cymbals and uses a hybrid acoustic/electronic setup.
+        content: `Matt Halpern is a Meinl Cymbals and Pearl Drums endorser. He co-developed the Meinl Byzance Foundry Reserve series of cymbals and uses a hybrid acoustic/electronic setup.
 
 **Current Setup:**
-- **Drums**: Tama Starclassic Walnut/Birch
-- **Snare**: Tama S.L.P. 14"x6" G-Maple or Starphonic Brass
+- **Drums**: Pearl Reference Series
+- **Snare**: Pearl Reference 14"x6.5" Brass
 - **Cymbals**: Meinl Byzance series (15" Byzance Extra Dry Hi-Hats, Foundry Reserve crashes, 21" Transition Ride)
-- **Hardware**: Tama Speed Cobra 910 Double Pedal
+- **Hardware**: Pearl Demon Drive Double Pedal, Pearl D-2000 Throne
 - **Electronics**: Roland SPD-SX, various triggers
 - **Throne**: Roc-n-Soc Nitro
 - **Sticks**: Vic Firth 5A or custom signature model
@@ -5955,7 +5955,7 @@ A graduate of Berklee College of Music, Halpern brings academic rigor to his dru
       sources: {
         title: 'Sources',
         items: [
-          { name: 'Tama Drums', url: 'https://www.tama.com' },
+          { name: 'Pearl Drums', url: 'https://pearldrum.com' },
           { name: 'Meinl Cymbals Artist Profile', url: 'https://meinlcymbals.com/en/artists/matt-halpern' },
           { name: 'Drumeo', url: 'https://www.drumeo.com' },
           { name: 'Wikipedia: Matt Halpern', url: 'https://en.wikipedia.org/wiki/Matt_Halpern' }

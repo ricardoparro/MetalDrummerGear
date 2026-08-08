@@ -2155,13 +2155,13 @@ His innovative drumming on albums like "Arise," "Chaos A.D.," and "Roots" helped
       },
       gearHighlights: {
         title: 'Gear Highlights',
-        content: `Igor Cavalera has used various drum brands throughout his career, including Pearl and Tama. His setup often includes traditional Brazilian percussion instruments alongside standard metal drums.
+        content: `Igor Cavalera has used a Tama drum kit throughout his career with Sepultura and Cavalera Conspiracy. His setup often includes traditional Brazilian percussion instruments alongside standard metal drums.
 
 **Classic Setup (Sepultura Era):**
-- **Drums**: Pearl Masters or Tama Starclassic (configurations varied)
-- **Snare**: Various 14"x6.5" snares (Pearl, Tama)
+- **Drums**: Tama Starclassic Maple
+- **Snare**: Tama S.L.P. 14"x6.5" G-Maple
 - **Cymbals**: Paiste (RUDE series for durability)
-- **Hardware**: Tama Iron Cobra or Pearl Eliminator double pedals
+- **Hardware**: Tama Iron Cobra double pedal
 - **Additional Percussion**: Atabaques, surdo, timbales, tribal percussion
 - **Sticks**: Promark (various models)
 - **Heads**: Remo

@@ -7577,13 +7577,13 @@ According to AllMusic's Jason Birchmeier, Sandoval "challenges one's perception 
       },
       gearHighlights: {
         title: 'Gear Highlights',
-        content: `Pete Sandoval has been a Pearl Drums endorser for much of his career, using their drums for Morbid Angel's most iconic recordings.
+        content: `Pete Sandoval built his blast-beat legacy on a ddrum Dios Series kit, using it across Morbid Angel's most iconic recordings.
 
 **Classic Setup (Morbid Angel Era):**
-- **Drums**: Pearl Export/Masters series
-- **Snare**: Pearl 14"x6.5" Steel or Brass
+- **Drums**: ddrum Dios Series
+- **Snare**: ddrum Dios 14"x6.5" Maple
 - **Cymbals**: Sabian (AA and AAX series)
-- **Hardware**: Pearl double pedal (PowerShifter or Demon series)
+- **Hardware**: ddrum Mercury double pedal
 - **Sticks**: Promark or Vic Firth 5B/2B
 - **Heads**: Remo (Pinstripe or Emperor)
 

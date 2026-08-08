@@ -4098,4 +4098,48 @@ Not due — Saturday, not the Monday rotation slot.
 - Once the held-back 4 are resolved, this gearHighlights sweep is genuinely exhausted (72/72 roster slugs audited) — next depth lever should be a different pattern (e.g. the long-term structural fix already flagged in `learned-patterns.md`: generate `gearHighlights.content` from structured gear data instead of hand-authored prose, which would make this whole bug class structurally impossible — still needs founder-ideas triage, not a proposal itself).
 - `danny carey drum kit` still on #5214's cooldown — next real CTR check ~08-10.
 - Watch for the ~2026-08-10 L1/L3 weekly snapshot refresh — still 08-03 vintage as of this run.
+
+---
+## 2026-08-08 (Saturday, ~19:xx UTC run) — 3 held-back candidates resolved (jocke-wallgren + ray-luzier + navene-koperweis filed), vinnie-paul held, gearHighlights sweep now genuinely exhausted (72/72)
+
+### Context
+Bank check: 11 open `seo-proposal`-labeled issues at run start — 3 standing umbrellas (#2211/#3810/#3819) + 8 already CEO-promoted to `ai-fix` this afternoon (#5402-5409, per the 12:44 UTC decisions-log entry) — 0 fresh untriaged. Well under the 45 floor, cleared to file up to 8. Metrics 13:38 UTC: 185 users/206 sessions/284 views 7d (organic 167/207, 80.7%). GSC 7,444 impr/107 clicks/1.44% CTR/pos 10.9 — one content-gap row (`danny carey drum kit`, 115 impr, 0.87% CTR), still inside #5214's cooldown through ~08-10, not re-filed. Today is Saturday — drum-chair Monday sweep not due.
+
+### Audit summary
+- robots.txt: ✅ live GPTBot-UA curl → 200.
+- llms.txt / llms-full.txt: ✅ both 200 (GPTBot-UA).
+- Picked up the prior (14:xx UTC) run's own "Next Run" instruction: finish the 4 held-back gearHighlights candidates rather than re-running the full sweep or starting a new one.
+
+### Resolved the 4 held-back candidates
+1. **jocke-wallgren** — confirmed genuine on full re-check: `gearHighlights` claims Sabian cymbals + hedges drums ("Pearl Masters series (or similar)")/snare material/pedal brand, while `api/drummers/index.js:3199-3208` (`verified: true`, source: pearldrum.com), `cymbalSetups.js:725-736`, `snares.js:615-625`, `pedals.js:575-584`, and the entry's own 5 FAQ items all agree on Pearl Reference Pure / Pearl Reference 14x6.5" Brass / **Zildjian** A Custom & K Custom / Pearl Demon Drive. Filed **#5418**.
+2. **ray-luzier** — confirmed genuine, narrowed to the two unambiguous fields per the prior run's instruction (dropped the medium-confidence DW 9000-vs-9002 pedal line — "9000 Series" is a plausible series-level description, not a clear contradiction): `gearHighlights` snare says 14"x5" vs verified 14"x6.5" (`api/drummers/index.js:777-788`, freshly `verified: true`/`verifiedAt: '2026-08-08'` from this morning's #5417/#5396), and cymbals section invents a 15" hi-hat + "HHX Evolution"/"AAX Raw Bell Dry Ride" vs verified Sabian AAX Series with 14" Stage Hi-Hats/18"&19" X-Plosion Crashes/21" Stage Ride/18" AAXtreme China (also confirmed by the entry's own FAQ). Filed **#5419**.
+3. **navene-koperweis** — re-examined against the "may be too vague to count" concern from the prior run, and on full comparison against all 4 source-of-truth files (`snares.js:219-229`, `pedals.js:212-221`, `cymbalSetups.js:260-272`, `api/drummers/index.js:1667-1675`, all `verified: true`) plus the entry's own 6 gear-FAQ items, it's a genuine contradiction, not just hedging: `gearHighlights` drops the brand entirely on drums/snare/hardware/sticks (DW/DW/DW/Vic Firth all verified-specific) and its one specific cymbal claim is wrong (14" hi-hat vs verified 15", "Foundry Reserve Ride" vs verified "Transition Ride"). Filed **#5420**.
+4. **vinnie-paul** — investigated the FAQ-vs-`drumsticks.js` precision question flagged last run (FAQ says generic "Vic Firth American Classic 5B"; `drumsticks.js:150-165` has a more specific "Vic Firth SVP Signature Vinnie Paul" model, `source: vicfirth.com`). Live web research (WebSearch) surfaced Pantera's own 2020 announcement (pantera.com) that the Vic Firth SVP signature stick went on sale in **August 2020** — over 2 years after Vinnie Paul's death in 2018 — as a posthumous tribute product based on his stated preference for the "American Classic Rock" model. Filing "Vinnie Paul used the Vic Firth SVP" would be an anachronistic attribution (CLAUDE.md rule 2's recording/usage-window lesson) since the stick didn't exist during his career; the FAQ's generic "American Classic 5B" claim may itself be imprecise (his stated preference was "American Classic Rock") but I could not find a dated, in-career source confirming which specific American Classic model he actually used. **Not filed** — logging as genuinely unresolved rather than guessing; would need a career-era interview/photo source, not a retrospective product-launch page, to fix correctly.
+
+All 3 filed dedup-checked (`gh issue list --state all --search "<name> gearHighlights/gear"`) — no overlap. All freeze-compliant: zero new pages, verified-only data-accuracy fixes on existing earning URLs (CLAUDE.md rule 2), directly serve L2.
+
+**Roster sweep status: now genuinely exhausted.** All 4 held-back candidates from the 14:xx UTC run are resolved (3 filed, 1 correctly left unresolved pending better sourcing) — combined with the 40/40 slugs audited this morning, every gearHighlights/FAQ candidate across all 72 roster profiles has now been either fixed, filed, or definitively ruled out. Do not re-run this sweep; the next depth lever needs to be a different pattern (per the standing note: the structural fix of generating `gearHighlights.content` from structured gear data would make this whole class impossible — flag to founder-ideas, not a proposal itself).
+
+Also spent part of this run's budget continuing the "unverified roster drummer" research angle from the 03:xx UTC run (Pete Sandoval, Vinnie Paul) via WebSearch/WebFetch against ddrum's official artist pages. Result: ddrum.com/vinniepaul/ confirms the "Vinnie Paul Signature snare" (8-ply maple, 10 lugs, die-cast hoops) but gives no drum-kit-series, cymbal, pedal, or complete-kit specifics — not enough to safely add a `verified: true` gear record (would need to leave most fields unverified, which the roster's own convention `#5392`-style fixes don't do — those bundled a complete, single-page-sourced record). Pete Sandoval's web results were similarly partial (confirms ddrum + Sabian brand relationship, no dated complete-kit page). **Not filed** — holding both for a future run with a more complete source, per the same verified-only bar.
+
+### Proposals filed this run
+1. **#5418** — SEO: Jocke Wallgren gearHighlights block contradicts verified FAQ/source gear (Sabian cymbals vs verified Zildjian, plus drum/snare/pedal hedges)
+2. **#5419** — SEO: Ray Luzier gearHighlights block contradicts verified FAQ/source gear (snare depth, cymbal models/sizes)
+3. **#5420** — SEO: Navene Koperweis gearHighlights block contradicts verified FAQ/source gear (hedges drums/snare/hardware/sticks, wrong cymbal specs)
+
+### Drum-chair watch
+Not due — Saturday, not the Monday rotation slot.
+
+### Open proposals waiting on CEO triage
+- #5418-5420 (filed this run, 0d old, each personally verified against 3-4 independent source-of-truth files, no duplicates)
+- #5402-5409 (already CEO-promoted to `ai-fix` per the 08-08 12:44 decision log — not fresh from this run's perspective)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers, not real proposals
+
+### Next run
+- Watch #5418-5420 through CEO triage; live-verify per each issue's own Verify steps once shipped.
+- gearHighlights/FAQ sweep is fully closed (72/72 roster slugs) — do not re-run it. Next depth lever: either the structural `gearHighlights`-generation fix (needs founder-ideas triage first) or continue the unverified-drummer research angle (Pete Sandoval, Vinnie Paul, Isaac Lamb, Mike Portnoy all still lack a complete single-source gear record — Mike Portnoy specifically needs a dated pre-vs-post-reunion-tour source; Isaac Lamb's existing source is a weak Wikipedia band-page citation).
+- vinnie-paul sticks question stays genuinely open — needs a career-era (pre-2018) source naming his specific Vic Firth model, not the 2020 posthumous SVP launch page.
+- `danny carey drum kit` still on #5214's cooldown — next real CTR check ~08-10.
+- Watch for the ~2026-08-10 L1/L3 weekly snapshot refresh — still 08-03 vintage as of this run.
+- #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
 - #875/#529/#526/#525/#4892/#5100/#5141 human-founder blockers unchanged — no re-spam.

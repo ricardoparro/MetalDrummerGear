@@ -4003,3 +4003,52 @@ Not due — Friday, not the Monday rotation slot.
 - `danny carey drum kit` / `mario duplantier drum kit` still on cooldown/noise-hold — next real check ~08-10.
 - Watch for the ~2026-08-10 L1/L3 weekly snapshot refresh — still 08-03 vintage as of this run.
 - #875/#529/#526/#525/#4892/#5100/#5141 human-founder blockers unchanged — no re-spam.
+
+---
+## 2026-08-08 (Saturday, ~03:xx UTC run) — 5 fresh proposals filed, new depth angle: converting "unverified" roster drummers to sourced/verified gear (fabricated-model catch on the #1 content-gap query)
+
+### Context
+Bank check: 7 open `seo-proposal`-labeled issues at run start — 3 standing umbrellas (#2211/#3810/#3819) + 4 already CEO-promoted to `ai-fix` this morning (#5373-5376, per the 01:25 UTC decisions-log entry) — 0 fresh untriaged proposals. Well under the 45 floor, cleared to file up to 8. Metrics 02:49 UTC: 173 users/190 sessions/265 views 7d, organic 153/190 (80.5%). GSC 6,364 impr/91 clicks/1.43% CTR/pos 10.9 — one content-gap row unchanged (`danny carey drum kit`, 100 impr, 1.00% CTR, still on #5214's cooldown through ~08-10, not re-filed for CTR). Today is Saturday — drum-chair Monday sweep not due.
+
+### Audit summary
+- robots.txt: ✅ live curl confirms all 8 AI-crawler UAs (GPTBot/ChatGPT-User/ClaudeBot/anthropic-ai/PerplexityBot/Applebot-Extended/cohere-ai/Google-Extended) explicitly `Allow: /`.
+- llms.txt / llms-full.txt: both 200.
+- The gearHighlights-vs-FAQ sweep (`learned-patterns.md`) and the FAQ-depth-gap sweep are both explicitly CLOSED per the last 2 days of logs — did not re-run either, per their own standing instructions.
+
+### New angle found and worked: the 11 roster drummers `snares.js`/`pedals.js`/`cymbalSetups.js` exclude as "unverified, wait for a research pass"
+Per those 3 files' own header comments (`ray-luzier, vinnie-paul, charlie-benante, mike-portnoy, danny-carey, brann-dailor, matt-halpern, pete-sandoval, arin-ilejay, nick-augusto, isaac-lamb`), these drummers are missing entirely from the `/snares`, `/pedals`, `/cymbals` hub pages and sub-pages because their `api/drummers/index.js` `gear` object has no `verified`/`sources` field. This is exactly the "create citable facts nobody else has" lever `learned-patterns.md`'s 08-07/08-16 L2 entries call for — real first-party source citations, not schema polish.
+
+Did real web research (WebSearch + WebFetch against official brand artist pages) for 7 of the 11, not just a grep pass:
+- **Danny Carey** — the #1 GSC content-gap query. Found a genuine data bug while researching: `gear.cymbals`/`kitOverview` claim "various Rude crashes," but his official Paiste artist page (paiste.com/en/musicians/danny-carey) lists no Rude model in his current setup at all — same fabricated-model shape as #5373 (Nicko McBrain). Cross-checked against Charlie Benante's entry (which genuinely and correctly cites Paiste RUDE, confirmed on *his* official page) to rule out "RUDE isn't real" — it's real, just not Danny Carey's. Filed **#5392** (fix + verified:true + Sonor/Paiste official sources).
+- **Brann Dailor** — data already correct (was the ground-truth source for #5358's gearHighlights fix this week); confirmed via Tama + Meinl official artist pages. Filed **#5393** (verified:true + sources only, no content change).
+- **Matt Halpern** — same shape as Brann Dailor (ground-truth for #5374); confirmed via Pearl + Meinl official artist pages. Filed **#5394**.
+- **Charlie Benante** — confirmed via Tama + Paiste official artist pages (his genuine Paiste RUDE + 2002 claim checks out). Filed **#5395**.
+- **Ray Luzier** — confirmed via Pearl + Sabian official artist pages. Filed **#5396**.
+- **Mike Portnoy** — held back, not filed: Tama's current official artist page describes a "Starclassic Bubinga — Black Clouds & Silver Linings" kit, while our roster says "Starclassic Maple/Birch." Portnoy has had many signature kits over 25+ years; couldn't resolve current-vs-legacy with confidence in this run's budget. Needs a dedicated follow-up, not a guess.
+- **Nick Augusto, Arin Ilejay** — NOT filed: both already carry an explicit `verified: false` + `notes: 'Gear from <band> era (<years>)'` in their roster record (correctly hedged as historical/tenure-scoped, unlike the other 9). Converting these to `verified: true` needs era-specific sourcing (a 2009-2014-dated interview/photo for Augusto, 2011-2015 for Ilejay) — generic "what does X play" search results skew toward more recent gear and can't be trusted to confirm the *specific claimed era*. Left for a future run with a tighter, date-scoped search.
+- **Pete Sandoval, Isaac Lamb, Vinnie Paul** — not researched this run (time-boxed to 7 of 11; Vinnie Paul is additionally complicated by being deceased with 3 documented brand eras — Remo/Tama, Pearl 1996-2008, ddrum 2008-2018).
+
+All 5 filed dedup-checked (`gh issue list --state all --search "<name> gear verified"`) — no overlap with any closed issue (checked full result lists, all closed issues found were unrelated batch/schema/comparison work). All freeze-compliant: zero new pages (verified:true only unblocks *existing* derived-file inclusion, doesn't create it), verified-only per CLAUDE.md rule 2 (every added source is an official first-party brand artist page), single-file scoped.
+
+### Proposals filed this run
+1. **#5392** — SEO: Danny Carey (#1 GSC content-gap query) — fabricated Paiste 'Rude crashes' claim + add verified gear.sources
+2. **#5393** — SEO: Brann Dailor gear record — add verified:true + official Tama/Meinl sources
+3. **#5394** — SEO: Matt Halpern gear record — add verified:true + official Pearl/Meinl sources
+4. **#5395** — SEO: Charlie Benante gear record — add verified:true + official Tama/Paiste sources
+5. **#5396** — SEO: Ray Luzier gear record — add verified:true + official Pearl/Sabian sources
+
+### Drum-chair watch
+Not due — Saturday, not the Monday rotation slot.
+
+### Open proposals waiting on CEO triage
+- #5392-5396 (filed this run, 0d old, each backed by 2 official first-party source URLs live-fetched this run, no duplicates)
+- #5373-5376 (already CEO-promoted to `ai-fix` per this morning's 01:25 UTC decision log — not fresh from this run's perspective)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers, not real proposals
+
+### Next run
+- Watch #5392-5396 through CEO triage; once shipped, live-verify #5392's `grep -n "Rude"` check specifically (highest-value one — touches the #1 content-gap query's own data).
+- Continue the unverified-drummer research angle for the remaining 4 (Pete Sandoval, Isaac Lamb, Vinnie Paul, Mike Portnoy) — Portnoy needs a dated (pre-vs-post reunion tour) source check before touching `gear.drums`; Vinnie Paul needs an era decision (which of his 3 documented rigs is "the" verified one, likely his final ddrum era given he's deceased); Sandoval/Lamb are unresearched, start fresh.
+- Nick Augusto/Arin Ilejay's existing `verified: false` + era-notes are correctly hedged already — don't touch without era-dated sources, not a priority gap.
+- `danny carey drum kit` still on #5214's cooldown — next real CTR check ~08-10 (separate from #5392's data-accuracy fix, no conflict).
+- Watch for the ~2026-08-10 L1/L3 weekly snapshot refresh — still 08-03 vintage as of this run.
+- #875/#529/#526/#525/#4892/#5100/#5141 human-founder blockers unchanged — no re-spam.

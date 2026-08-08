@@ -6038,10 +6038,10 @@ Inferno's drumming combines blistering speed with surgical precision, delivering
         content: `Inferno is a Pearl Drums and Paiste Cymbals endorser. His setup is designed for extreme speed, power, and theatrical visual impact.
 
 **Current Setup:**
-- **Drums**: Pearl Masterworks Stadium Exotic
-- **Snare**: Pearl Reference 14"x5" or 14"x6.5" brass
+- **Drums**: Pearl Masterworks
+- **Snare**: Pearl Reference 14"x5" Steel
 - **Cymbals**: Paiste RUDE series (15" RUDE Sound Edge Hi-Hats, RUDE crashes, RUDE Ride)
-- **Hardware**: Pearl Demon Drive Double Pedal (long boards)
+- **Hardware**: Czarcie Kopyto (Devil's Hoof) Double Pedal (long boards)
 - **Throne**: Pearl D-2000
 - **Sticks**: Vic Firth 5B or signature model
 - **Heads**: Remo

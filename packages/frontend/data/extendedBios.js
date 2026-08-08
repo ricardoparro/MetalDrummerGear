@@ -5784,8 +5784,8 @@ Adler's drumming is characterized by powerful groove-based patterns, creative us
         content: `Chris Adler was a longtime Mapex Drums endorser and developed signature products with both Mapex and Meinl Cymbals. His setup reflects his groove-focused approach with emphasis on power and precision.
 
 **Signature Setup (Lamb of God Era):**
-- **Drums**: Mapex Black Panther Velvetone Series
-- **Snare**: Mapex Chris Adler Signature Black Panther Warbird 12"x5.5" (smaller for faster response)
+- **Drums**: Mapex Black Panther Design Lab
+- **Snare**: Mapex Chris Adler Signature 14"x5.5" Walnut/Maple
 - **Cymbals**: Meinl Byzance series (13" Byzance Traditional Hi-Hats, various crashes, Sand Crash-Ride)
 - **Hardware**: Mapex Falcon Double Pedal
 - **Sticks**: Promark Chris Adler Signature TX5AXW
@@ -5793,7 +5793,6 @@ Adler's drumming is characterized by powerful groove-based patterns, creative us
 - **Heads**: Remo (Controlled Sound on snare)
 
 **Unique Setup Elements:**
-- Uses a smaller 12" snare for faster response
 - Traditional grip for certain patterns
 - Meinl signature "Pure Alloy" Chris Adler crash cymbal
 - Emphasis on quick, responsive gear for groove playing`

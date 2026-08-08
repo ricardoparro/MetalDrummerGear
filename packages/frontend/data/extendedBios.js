@@ -1766,20 +1766,20 @@ Known for his powerful, groove-oriented drumming style and dynamic stage presenc
       },
       gearHighlights: {
         title: 'Gear Highlights',
-        content: `Shannon Larkin is a long-time Ddrum endorser, having helped design signature products with the brand. His setup is built for power and durability on the road.
+        content: `Shannon Larkin is a long-time ddrum endorser. His setup is built for power and durability on the road.
 
 **Current Setup:**
-- **Drums**: Ddrum Reflex Series (custom finishes)
-- **Snare**: Ddrum Shannon Larkin Signature 14"x6.5"
+- **Drums**: ddrum Dios Series (custom finishes)
+- **Snare**: ddrum Dios 14"x6.5" Maple
 - **Cymbals**: Sabian AAX and HHX series (14" Stage Hi-Hats, crashes, 21" Raw Bell Dry Ride)
 - **Hardware**: DW 9000 Series double pedal
 - **Throne**: Pork Pie Big Boy
-- **Sticks**: Vater Shannon Larkin Signature
+- **Sticks**: Vic Firth American Classic 5B
 - **Heads**: Evans (G2 Coated/EC2)
 
 **Gear Philosophy:**
 - Prefers durable, road-worthy equipment
-- Signature snare designed for powerful, cutting sound
+- Maple snare tuned for a powerful, cutting sound
 - Uses relatively simple setup for reliability
 - Focus on sound quality over visual complexity`
       },

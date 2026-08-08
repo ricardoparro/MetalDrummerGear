@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-08 07:40 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-08 08:47 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 178 |
-| Sessions | 196 |
-| Page views | 269 |
-| Engagement rate | 55.61% |
-| Avg session (s) | 98 |
+| Active users | 181 |
+| Sessions | 199 |
+| Page views | 272 |
+| Engagement rate | 54.77% |
+| Avg session (s) | 96 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -31,30 +31,30 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 157 | 140 |
+| Organic Search | 160 | 143 |
 | Direct | 32 | 31 |
-| Unassigned | 23 | 23 |
+| Unassigned | 25 | 25 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
 | United States | 82 | 78 |
 | Canada | 14 | 11 |
-| United Kingdom | 10 | 8 |
+| United Kingdom | 11 | 9 |
 | Germany | 8 | 8 |
 | Australia | 7 | 6 |
+| Sweden | 7 | 7 |
 | Spain | 6 | 5 |
-| Sweden | 6 | 6 |
+| France | 5 | 4 |
 | Netherlands | 5 | 5 |
 | China | 4 | 4 |
-| France | 4 | 3 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 6,364 |
-| Clicks | 91 |
-| CTR | 1.43% |
+| Impressions | 7,444 |
+| Clicks | 107 |
+| CTR | 1.44% |
 | Avg position | 10.9 |
 
 ### Top queries
@@ -64,31 +64,31 @@
 | shannon larkin drum kit | 6 | 2 | 33.33% | 5.7 |
 | abe cunningham cymbal setup | 2 | 1 | 50.00% | 10.0 |
 | best death metal drummer | 4 | 1 | 25.00% | 7.5 |
-| daniel erlandsson drum kit | 7 | 1 | 14.29% | 9.0 |
-| danny carey drum kit | 100 | 1 | 1.00% | 10.4 |
+| daniel erlandsson drum kit | 8 | 1 | 12.50% | 9.0 |
+| danny carey drum kit | 115 | 1 | 0.87% | 10.3 |
 | jaska raatikainen drum set | 3 | 1 | 33.33% | 7.0 |
-| joey jordison drum set | 28 | 1 | 3.57% | 11.7 |
+| joey jordison drum set | 33 | 1 | 3.03% | 11.5 |
 | joey jordison kit | 9 | 1 | 11.11% | 8.2 |
-| john otto drum kit | 18 | 1 | 5.56% | 6.5 |
+| john otto drum kit | 20 | 1 | 5.00% | 6.2 |
 
 ### Top countries (impressions, last 7d)
 | Country | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| usa | 2,124 | 27 | 1.27% | 10.7 |
-| can | 229 | 7 | 3.06% | 8.7 |
-| gbr | 389 | 6 | 1.54% | 10.0 |
-| aus | 251 | 5 | 1.99% | 8.8 |
-| deu | 193 | 4 | 2.07% | 8.1 |
-| arg | 54 | 3 | 5.56% | 6.8 |
-| esp | 80 | 3 | 3.75% | 9.8 |
-| nld | 80 | 3 | 3.75% | 7.7 |
-| swe | 101 | 3 | 2.97% | 9.0 |
-| tur | 112 | 3 | 2.68% | 12.2 |
+| usa | 2,490 | 32 | 1.29% | 10.6 |
+| can | 268 | 8 | 2.99% | 8.6 |
+| gbr | 440 | 8 | 1.82% | 9.9 |
+| aus | 292 | 5 | 1.71% | 8.8 |
+| deu | 228 | 5 | 2.19% | 7.9 |
+| esp | 99 | 4 | 4.04% | 9.3 |
+| pol | 123 | 4 | 3.25% | 9.3 |
+| swe | 117 | 4 | 3.42% | 8.8 |
+| arg | 60 | 3 | 5.00% | 6.9 |
+| nld | 95 | 3 | 3.16% | 7.7 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 | Query | Impr | CTR | Pos | Action |
 | --- | --- | --- | --- | --- |
-| danny carey drum kit | 100 | 1.00% | 10.4 | open issue to answer better |
+| danny carey drum kit | 115 | 0.87% | 10.3 | open issue to answer better |
 
 ---
 *Re-run manually: `node .agents/scripts/fetch-metrics.cjs`*

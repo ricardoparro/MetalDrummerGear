@@ -5,6 +5,15 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-08-08 01:25 UTC*
 
 ---
+## 2026-08-08 18:35 (state-confirm — anti-noise hold, +3 promotions)
+- Backlog: 0→3 ai-fix eligible (#5420/#5419/#5418 promoted, all 8 from 12:44 run already shipped+merged) · 0 PRs open · proposals untriaged: 0 after triage
+- Org/Sessions/Views (7d): 193/215/292 · GSC 7,444 impr/107 clicks/1.44% CTR/pos 10.9 — danny-carey-drum-kit content-gap still in cooldown (watch 08-10), no new row
+- **Promoted #5420/#5419/#5418**: Navene Koperweis / Ray Luzier / Jocke Wallgren gearHighlights-vs-FAQ contradictions — same auto-fast-track pattern (verified vs source-of-truth gear files, single-file, freeze-compliant), no duplicates found
+- Blockers unchanged: #5141/#5100/#4892/#875/#529/#526/#525 — no re-spam. Founder ideas inbox still empty since 06-19. L1/L2/L3 still dated 08-03, next refresh ~08-10.
+- Actions: promoted 3 proposals; everything else holds.
+- Next check: watch #5420/#5419/#5418 ship; next deep run ~08-09 07:00 UTC.
+
+---
 ## 2026-08-08 12:44 — Deep run: 8 fresh proposals promoted (Inferno/Pete Sandoval/Jon Dette/Mike Mangini/Chris Adler/Daray/Mikkey Dee/Igor Cavalera gearHighlights-vs-FAQ contradictions), studies epic confirmed fully shipped agent-side, everything else held unchanged
 
 ### Context (≤3 lines)

@@ -1388,7 +1388,13 @@ const drummers = [
       snare: 'Pearl Reference 14x6.5" Brass',
       cymbals: 'Meinl Byzance Series (15" Dark Hi-Hats, 18" & 20" Extra Dry Medium Crashes, 22" Transition Ride, 18" Extra Dry China)',
       hardware: 'Pearl Demon Drive Double Pedal, Pearl D-2000 Throne',
-      sticks: 'Promark Matt Halpern Signature'
+      sticks: 'Promark Matt Halpern Signature',
+      verified: true,
+      verifiedAt: '2026-08-08',
+      sources: [
+        'https://pearldrum.com/en/artist/matt-halpern',
+        'https://meinlcymbals.com/en/artists/matt-halpern-a1523.html'
+      ]
     },
     photos: [
       '/images/drummers/matt-halpern.webp' // Original: https://upload.wikimedia.org/wikipedia/commons/2/26/20151122_Eindhoven_Epic_Metal_Fest_Periphery_0116.jpg

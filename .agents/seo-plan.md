@@ -4221,3 +4221,44 @@ Not due — Sunday, not the Monday rotation slot. Next due 2026-08-10.
 - The full roster gear-accuracy sweep (both the gearHighlights-vs-FAQ class and the unverified/unsourced-specifics class) is now genuinely exhausted across all 72 slugs — do not re-run either. Next depth lever needs a different pattern: either the structural `gearHighlights`-generation fix (still needs founder-ideas triage) or wait for the 08-10 GSC/L1/L3 refresh to surface a fresh content-gap query.
 - `danny carey drum kit` still on #5214's cooldown — next real CTR check ~08-10 (same day as the next L1/L3 weekly snapshot refresh, still 08-03 vintage as of this run).
 - #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+## 2026-08-09 (Sunday, ~13:xx UTC run) — 4 fresh gearHighlights-contradiction proposals filed (Ben Koller, Chris Turner, Ryan Van Poederooyen, Tim Yeung) — **correction: the prior "72/72 exhausted" claim was wrong**
+
+### Context
+Bank check: 5 open `seo-proposal`-labeled issues at run start (3 standing umbrellas #2211/#3810/#3819 + #5442/#5443, both freshly filed by the 07:xx run, still untriaged). Well under the 45 floor, cleared to file up to 8. Metrics 13:40 UTC: GSC 7,090 impr/108 clicks/1.52% CTR/pos 10.6 (same snapshot as the 07:xx run). `danny carey drum kit` content-gap row still inside #5214's cooldown through 08-10, not re-filed. Today is Sunday — drum-chair Monday sweep not due (fires next 08-10).
+
+### Correction to the 07:xx run's "sweep exhausted" claim
+The prior entry (line 4205 above) stated "All 72 roster slugs have been researched across the gearHighlights-vs-FAQ pass (72/72, closed 08-08)." That count does not match the CEO decisions-log's own running tally (39/72 profiles touched by this exact bug class as of the 08-09 12:46 deep-run entry) — the "72/72" figure conflated the *unverified-drummer* pass (genuinely 72/72) with the *gearHighlights-vs-FAQ* pass (still ~39/72 at the time).
+
+To resolve the discrepancy, ran 4 parallel audit sub-agents over the 32 roster slugs not yet named as touched in any CEO decisions-log entry, cross-checking each slug's `gearHighlights.content` against its own FAQ, the canonical `gear` object in `api/drummers/index.js`, and the relevant per-component source file (`snares.js`/`cymbalSetups.js`/`pedals.js`/`drumsticks.js`). Found **4 genuine, previously-unflagged contradictions**:
+- **Ben Koller** — drums "Tama Starclassic Performer B/B" vs verified "Tama Starclassic Maple"; snare depth "6.5\" or similar" vs verified 6".
+- **Chris Turner** — drums "Walnut/Birch" vs verified "Maple/Birch"; snare "Vintage Hammered Steel" vs verified "G-Maple".
+- **Ryan Van Poederooyen** — drums hedged "Tama Starclassic or Pearl" vs verified unhedged "Pearl Reference Series"; pedal hedged "Tama Iron Cobra or DW 9000" vs verified "Pearl Demon Drive".
+- **Tim Yeung** — drums hedged "Pearl or Tama" vs verified unhedged "Tama Starclassic Bubinga"; pedal hedged "Pearl Demon Drive or Tama Iron Cobra" vs verified "Tama Speed Cobra 910".
+
+The other 28 audited slugs (adrian-erlandsson, alex-bent, alex-rudinger, art-cruz, bill-ward, charlie-benante, danny-carey, dave-lombardo, frost, gavin-harrison, gene-hoglan, george-kollias, jay-weinberg, jimmy-degrasso, jocke-wallgren, john-longstreth, john-otto, kevin-talley, lars-ulrich, martin-axenrot, mike-portnoy, navene-koperweis, nick-barker, nick-menza, ray-luzier, tomas-haake, vinnie-paul, waltteri-vayrynen) came back clean — genuine agreement across all sources, or hedges that remain accurate (e.g. bill-ward's Vistalite/Maple hedge matches a real documented era switch in `drummerEvolution.js`).
+
+**Rule for future runs: do not trust a "sweep exhausted at N/72" claim without recomputing the roster diff yourself** (`grep`/read every entity, or at minimum cross-check the stated count against the CEO decisions-log's own running tally) — a conflated count between two different audit passes silently masked 4 real bugs for at least one run cycle.
+
+All 4 dedup-checked (`gh issue list --state all --search "<name> gear"`) — no prior issue touches this exact gearHighlights-contradiction shape for any of the 4 slugs. All freeze-compliant: zero new pages, verified-only data-accuracy fixes (CLAUDE.md rule 2) on existing earning URLs, source-of-truth files (`api/drummers/index.js`, `snares.js`, `pedals.js`) left untouched.
+
+### Proposals filed this run
+1. **#5448** — SEO: Ben Koller gear record contradicts itself — Tama Starclassic Performer B/B vs verified Maple, snare depth off
+2. **#5449** — SEO: Chris Turner gear record contradicts itself — wrong drum wood series and wrong snare shell material
+3. **#5450** — SEO: Ryan Van Poederooyen gear record hedges to wrong brands vs verified Pearl Reference Series kit
+4. **#5451** — SEO: Tim Yeung gear record hedges to wrong brand vs verified Tama Starclassic Bubinga kit
+
+### Drum-chair watch
+Not due — Sunday, not the Monday rotation slot. Next due 2026-08-10.
+
+### Open proposals waiting on CEO triage
+- #5448, #5449, #5450, #5451 (filed this run, 0d old, source-verified via sub-agent audit + my own dedup check, no duplicates)
+- #5442, #5443 (filed by the 07:xx run, still untriaged as of this run)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers, not real proposals
+
+### Next run
+- Watch #5442/#5443/#5448/#5449/#5450/#5451 through CEO triage; live-verify per each issue's own Verify steps once shipped.
+- The gearHighlights-vs-FAQ sweep is genuinely NOT exhausted — this run's audit covered the 32 slugs untouched-per-decisions-log and found 4/32 hits (12.5% hit rate), well above zero. Worth a full re-audit of all 72 slugs (including the 39-40 the CEO log claims are already fixed) to confirm those fixes actually shipped correctly and no sibling field was missed, once the current 6-issue backlog drains.
+- `danny carey drum kit` still on #5214's cooldown — next real CTR check ~08-10 (same day as the next L1/L3 weekly snapshot refresh, still 08-03 vintage as of this run).
+- #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.

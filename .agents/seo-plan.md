@@ -4143,3 +4143,43 @@ Not due — Saturday, not the Monday rotation slot.
 - Watch for the ~2026-08-10 L1/L3 weekly snapshot refresh — still 08-03 vintage as of this run.
 - #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
 - #875/#529/#526/#525/#4892/#5100/#5141 human-founder blockers unchanged — no re-spam.
+
+---
+## 2026-08-09 (Sunday, ~run) — 2 fresh proposals filed: Mike Portnoy + Vinnie Paul gear-record accuracy (external-source verification angle)
+
+### Context
+Bank check: 4 open `seo-proposal`-labeled issues at run start — 3 standing umbrellas (#2211/#3810/#3819) + #5433 (Pete Sandoval, already CEO-promoted to `ai-fix` per the 08-09 01:37 UTC decisions-log entry) — 0 fresh untriaged. Well under the 45 floor, cleared to file up to 8. Metrics 02:57 UTC: 159 users/179 sessions/252 views 7d, organic 158/179 (88%). GSC 6,040 impr/88 clicks/1.46% CTR/pos 10.8 — one content-gap row (`danny carey drum kit`, 89 impr, 1.12% CTR), still inside #5214's cooldown through 08-10 (per the CEO log), not re-filed. Today is Sunday — drum-chair Monday sweep not due (fires next on 08-10).
+
+### Audit summary
+- robots.txt: ✅ live curl confirms all 8 AI-crawler UAs (GPTBot/ChatGPT-User/ClaudeBot/anthropic-ai/PerplexityBot/Applebot-Extended/cohere-ai/Google-Extended) explicitly `Allow: /`.
+- llms.txt / llms-full.txt: both 200. 1,809 files under `public/llms/` (drummers + licks + evolution + guides + articles mirrors combined, not just the 62-drummer count).
+- `verified: true` gear coverage: 66/72 roster drummers now carry it (confirmed via grep count) — the gearHighlights-vs-FAQ sweep and the internal-source verified-gear sweep are both effectively exhausted; only a handful of genuinely hard-to-source entities remain (see below).
+
+### Continued the "unverified roster drummer" research angle (from 08-08 notes)
+Per the 08-08 19:xx run's "Next Run" note, the remaining unverified drummers were Pete Sandoval, Isaac Lamb, Vinnie Paul, and Mike Portnoy. Ran a dedicated research sub-agent against official brand artist pages (Tama, Sabian, ddrum, Vic Firth, Pearl) plus dated secondary sources for all 4:
+
+- **Mike Portnoy** — found the current data is **actively wrong**, not just unverified: Tama's own current artist page (`tama.com/usa/artists/detail/152.html`) lists his kit as the dual "Dream Monster" (Starclassic Maple + Bubinga), not "Maple/Birch"; Sabian's own current artist page (`sabian.com/artist/mike-portnoy/`) lists a completely different current cymbal set (HHX MAX/AAX MAXX era) than our "HHX Evolution" claim. Snare and sticks fields are confirmed correct as-is. Filed **#5438** — full before/after text for both `api/drummers/index.js` (gear object + kitOverview) and `extendedBios.js` (gearHighlights + 4 FAQ answers), sourced to both brand pages.
+- **Vinnie Paul** — only the signature snare is genuinely confirmed (ddrum.com/vinniepaul/, 200, matches exactly). Drums/cymbals/hardware/sticks all overclaim specificity no source backs — Sabian's own current artist roster doesn't even list him, and the "Vic Firth American Classic 5B" stick claim has no pre-2018 source (the only concretely-documented Vic Firth product, the "SVP Signature" stick, launched in **2020, posthumously**, per Pantera's own announcement — confirmed via live curl this cannot be his in-career gear). Also caught a live bug while sourcing: the entry's existing `sources.items` cites `vicfirth.com/artists/vinnie-paul` as a source — **live-curled, this is a 404** (CLAUDE.md rule 3 violation in effect: cited source doesn't resolve). Filed **#5439** — hedges the 4 unconfirmed fields to brand-only (matching the established Pete Sandoval hedge convention from #5433), keeps the snare fully specific, and removes the dead source URL without replacing it with a guess.
+- **Pete Sandoval** — NOT VERIFIABLE: ddrum's own roster confirms only a bare brand relationship (no model), Sabian's current official roster does **not** list him at all (contradicts our cymbals claim's brand), and the only dated source found (a 2006 interview) names a completely different rig (Pearl drums, Axxis pedals, Gibraltar hardware) than our current ddrum Dios/ddrum Mercury claim. This is murkier than a clean "hedge" fix — the current data may be stale rather than just unconfirmed, and untangling which is worse needs a dedicated follow-up, not a same-run guess. **Not filed** — held for a future run with a tighter research budget.
+- **Isaac Lamb** — no official artist page found on sjcdrums.com/Meinl/Vic Firth/DW for any field; nothing found that improves on the existing weak citation. **Not filed** — same as prior runs, still needs a better source.
+
+Both filed proposals dedup-checked (`gh issue list --state all --search "<name> gear"`) — no overlap. Both freeze-compliant: zero new pages, verified-only data-accuracy fixes on existing earning URLs (CLAUDE.md rule 2), directly serve L2 citation accuracy (Rule 3 priority). Live-curled every cited source URL in both issues before filing (tama.com, sabian.com ×2, ddrum.com/vinniepaul/, and the dead vicfirth.com URL) rather than trusting the research sub-agent's claims blind.
+
+### Drum-chair watch
+Not due — Sunday, not the Monday rotation slot. Next due 2026-08-10.
+
+### Proposals filed this run
+1. **#5438** — SEO: Mike Portnoy gear record is outdated — drums/cymbals contradict Tama's and Sabian's own current artist pages
+2. **#5439** — SEO: Vinnie Paul gear record overclaims unconfirmed specifics + cites a dead (404) source URL
+
+### Open proposals waiting on CEO triage
+- #5438, #5439 (filed this run, 0d old, both personally source-verified via live curl before filing, no duplicates)
+- #5433 (already CEO-promoted to `ai-fix` per the 08-09 01:37 UTC decision log — not fresh from this run's perspective)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers, not real proposals
+
+### Next run
+- Watch #5438/#5439 through CEO triage; live-verify per each issue's own Verify steps once shipped — especially the dead-URL removal in #5439.
+- Pete Sandoval and Isaac Lamb remain genuinely unresolved — Sandoval needs a dedicated pass to determine whether the current ddrum Dios/Mercury claim is stale vs. just unsourced (the 2006 Pearl/Axxis/Gibraltar interview contradicts it outright); Isaac Lamb needs a better primary source than what 2 research passes have found so far.
+- Once Sandoval/Lamb are resolved (or explicitly ruled un-resolvable), the "unverified roster drummer" angle is genuinely exhausted (72/72 roster slugs will have been researched) — next depth lever needs to be a different pattern.
+- `danny carey drum kit` still on #5214's cooldown — next real CTR check ~08-10 (same day as the next L1/L3 weekly snapshot refresh, still 08-03 vintage as of this run).
+- #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.

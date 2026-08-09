@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-09 08:49 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-09 12:46 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,32 +8,32 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 167 |
-| Sessions | 188 |
-| Page views | 262 |
-| Engagement rate | 48.94% |
-| Avg session (s) | 117 |
+| Active users | 168 |
+| Sessions | 193 |
+| Page views | 282 |
+| Engagement rate | 55.96% |
+| Avg session (s) | 120 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 8 | 7 |
+| / | 14 | 8 |
 | /articles/kill-em-all-drum-setup | 7 | 2 |
 | /drummer/hellhammer | 7 | 5 |
 | /drummer/gene-hoglan | 5 | 1 |
+| /articles/damnation-drum-setup | 4 | 1 |
 | /drummer/gavin-harrison | 4 | 3 |
 | /drummer/john-otto | 4 | 4 |
 | /drummer/matt-greiner | 4 | 4 |
 | /drummers/dave-lombardo/licks/dave-lombardo-show-no-mercy-tom-run | 4 | 1 |
 | /drummers/sean-reinert/evolution | 4 | 2 |
-| /articles/damnation-drum-setup | 3 | 1 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 166 | 147 |
-| Unassigned | 49 | 47 |
-| Direct | 13 | 12 |
+| Organic Search | 173 | 153 |
+| Unassigned | 35 | 31 |
+| Direct | 15 | 13 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
@@ -46,8 +46,8 @@
 | Spain | 6 | 5 |
 | Sweden | 6 | 6 |
 | Australia | 5 | 4 |
+| France | 5 | 4 |
 | Mexico | 5 | 5 |
-| Chile | 4 | 3 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |

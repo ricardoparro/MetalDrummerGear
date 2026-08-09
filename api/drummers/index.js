@@ -1527,18 +1527,20 @@ const drummers = [
     country: 'USA',
     image: '/images/drummers/pete-sandoval.webp',
     bio: 'Pedro "Pete" Sandoval, born in 1960 in El Salvador, is a legendary death metal drummer best known for his work with Morbid Angel and Terrorizer. He is credited with pioneering and perfecting the gravity blast technique, which revolutionized extreme metal drumming. His work on classic Morbid Angel albums like "Altars of Madness," "Blessed Are the Sick," and "Covenant" set the standard for death metal drumming. Sandoval\'s combination of speed, precision, and endurance influenced countless drummers in the extreme metal genre.',
-    kitOverview: 'Pete Sandoval plays a ddrum Dios Series drum kit — an all-metal-shell platform built to survive the extreme velocities of the blast beats and gravity blasts he pioneered across more than three decades of death metal drumming. At the heart of the Pete Sandoval drum set is a ddrum Dios 14x6.5" maple snare, chosen for the tight, punchy crack needed to stay audible under Morbid Angel\'s dense, downtuned guitar work on landmark albums like "Altars of Madness," "Blessed Are the Sick," and "Covenant."\n\nSabian AAX Series cymbals round out the Pete Sandoval drum kit: 14" Stage Hi-Hats for rapid, controlled chops during his signature gravity-blast passages; 18" and 19" X-Plosion Crashes for explosive accents; a 20" Stage Ride for cutting through relentless double-bass runs; and an 18" Chinese cymbal for abrupt punctuation. A ddrum Mercury double pedal anchors the low end, giving Sandoval the speed and durability to sustain the blistering blast-beat tempos that redefined what was considered physically possible on a drum kit, while a ddrum throne keeps him stable through Morbid Angel\'s and Terrorizer\'s most punishing live sets.\n\nPro-Mark sticks round out a historical endorsement — his current stick choice is not publicly documented. The Pete Sandoval drum set has remained anchored to ddrum\'s electronic-hybrid shells throughout a career spanning Morbid Angel (1988–2013) and Terrorizer (1986–1989, 2005–present).',
+    kitOverview: 'Pete Sandoval has been a ddrum artist for much of his career, though the specific drum series and snare model he currently plays are not publicly documented on ddrum\'s own artist page, which lists him only as an endorsee without kit specifics. Cymbal brand is similarly undocumented — Sabian\'s current official artist roster no longer lists Sandoval (it lists Tim Yeung, Morbid Angel\'s other touring drummer, instead), so no cymbal brand claim should be made without a fresher source. A ddrum-brand double pedal anchors the low end, though the specific model is unconfirmed.\n\nPro-Mark sticks round out a historical endorsement — his current stick choice is not publicly documented. The Pete Sandoval drum set has remained associated with ddrum throughout a career spanning Morbid Angel (1988–2013) and Terrorizer (1986–1989, 2005–present).',
     sameAs: [
       'https://en.wikipedia.org/wiki/Pete_Sandoval',
       'https://www.discogs.com/artist/279619-Pete-Sandoval',
       'https://www.allmusic.com/artist/pete-sandoval-mn0000310251'
     ],
     gear: {
-      drums: 'ddrum Dios Series',
-      snare: 'ddrum Dios 14x6.5" Maple',
-      cymbals: 'Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 20" Stage Ride, 18" Chinese)',
-      hardware: 'ddrum Mercury Double Pedal, ddrum Throne',
-      sticks: 'Pro-Mark (historical endorsement — current sticks unverified)'
+      drums: 'ddrum (specific series unconfirmed)',
+      snare: 'ddrum (specific model unconfirmed)',
+      cymbals: 'Cymbal brand/model not publicly documented',
+      hardware: 'ddrum (specific pedal/hardware model unconfirmed)',
+      sticks: 'Pro-Mark (historical endorsement — current sticks unverified)',
+      verified: false,
+      sources: ['https://www.ddrum.com/ddrum-artists/', 'https://www.sabian.com/en/artists']
     },
     photos: [
       '/images/drummers/pete-sandoval.webp' // Original: https://upload.wikimedia.org/wikipedia/commons/1/1b/Pete_Sandoval.jpg

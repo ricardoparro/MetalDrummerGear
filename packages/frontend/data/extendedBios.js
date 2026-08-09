@@ -7574,14 +7574,14 @@ According to AllMusic's Jason Birchmeier, Sandoval "challenges one's perception 
       },
       gearHighlights: {
         title: 'Gear Highlights',
-        content: `Pete Sandoval has been a ddrum endorser for much of his career, using their drums for Morbid Angel's most iconic recordings.
+        content: `Pete Sandoval has been a ddrum endorser for much of his career, listed on ddrum's own artist roster, though the specific kit series he plays is not documented on that page.
 
 **Classic Setup (Morbid Angel Era):**
-- **Drums**: ddrum Dios Series
-- **Snare**: ddrum Dios 14"x6.5" Maple
-- **Cymbals**: Sabian (AA and AAX series)
-- **Hardware**: ddrum Mercury double pedal
-- **Sticks**: Promark or Vic Firth 5B/2B
+- **Drums**: ddrum (series unconfirmed)
+- **Snare**: ddrum (model unconfirmed)
+- **Cymbals**: Cymbal brand not publicly documented — Sabian's current official artist roster no longer lists Sandoval
+- **Hardware**: ddrum double pedal (specific model unconfirmed)
+- **Sticks**: Pro-Mark (historical endorsement — current sticks unverified)
 - **Heads**: Remo (Pinstripe or Emperor)
 
 **Notable Gear Facts:**
@@ -7608,12 +7608,12 @@ According to AllMusic's Jason Birchmeier, Sandoval "challenges one's perception 
         title: 'Frequently Asked Questions',
         items: [
           { q: 'What band does Pete Sandoval play drums for?', a: 'Pete Sandoval drummed for Morbid Angel from 1988-2013 and co-founded Terrorizer. He reunited with former Morbid Angel vocalist David Vincent in 2022 to drum for I Am Morbid.' },
-          { q: 'What drums does Pete Sandoval play?', a: 'Pete Sandoval plays a ddrum Dios Series drum kit.' },
-          { q: 'What drum kit does Pete Sandoval play?', a: 'Pete Sandoval\'s drum kit is a ddrum Dios Series shell pack, built around a ddrum Dios 14"x6.5" maple snare drum.' },
-          { q: 'What drum set does Pete Sandoval play?', a: 'Pete Sandoval\'s drum set pairs ddrum Dios Series shells and his 14"x6.5" maple snare with Sabian AAX Series cymbals and a ddrum Mercury double pedal.' },
-          { q: 'What cymbals does Pete Sandoval use?', a: 'Pete Sandoval uses Sabian AAX Series cymbals, including 14" Stage Hi-Hats, 18" and 19" X-Plosion Crashes, a 20" Stage Ride, and an 18" Chinese.' },
-          { q: 'What snare drum does Pete Sandoval use?', a: 'Pete Sandoval\'s primary snare is the ddrum Dios, a 14"x6.5" maple shell.' },
-          { q: 'What pedals does Pete Sandoval use?', a: 'Pete Sandoval drives his pioneering blast beat technique with a ddrum Mercury double pedal, seated on a ddrum throne.' },
+          { q: 'What drums does Pete Sandoval play?', a: 'Pete Sandoval is a ddrum artist, per ddrum\'s own artist page, but the specific drum series he plays is not publicly documented there.' },
+          { q: 'What drum kit does Pete Sandoval play?', a: 'Pete Sandoval\'s drum kit is built on ddrum shells, though the specific series and snare model are not named on ddrum\'s official artist page.' },
+          { q: 'What drum set does Pete Sandoval play?', a: 'Pete Sandoval\'s drum set is ddrum brand, but the specific series, snare model, and cymbal brand are not confirmed by any current official source.' },
+          { q: 'What cymbals does Pete Sandoval use?', a: 'Pete Sandoval\'s current cymbal brand is not publicly documented; Sabian\'s official artist roster, which once may have included him, no longer lists Sandoval.' },
+          { q: 'What snare drum does Pete Sandoval use?', a: 'Pete Sandoval\'s specific snare model is not publicly documented; ddrum\'s artist page lists him only as an endorsee without kit specifics.' },
+          { q: 'What pedals does Pete Sandoval use?', a: 'Pete Sandoval uses a ddrum double pedal to drive his pioneering blast beat technique, though the specific model is unconfirmed.' },
           { q: 'What is Pete Sandoval known for?', a: 'Pete Sandoval is widely regarded as one of the most influential figures in extreme metal, pioneering blast beat and double bass techniques whose speed and endurance set new standards for death metal drumming.' },
           { q: 'What is Pete Sandoval\'s gravity blast technique?', a: 'Pete Sandoval pioneered the gravity blast, a one-handed blast beat technique that uses the rebound of the stick off the drumhead to generate extreme speed, a signature approach that set the template for death metal drumming after his work on Morbid Angel\'s "Altars of Madness" (1989).' }
         ]

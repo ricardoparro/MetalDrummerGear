@@ -4182,4 +4182,42 @@ Not due — Sunday, not the Monday rotation slot. Next due 2026-08-10.
 - Pete Sandoval and Isaac Lamb remain genuinely unresolved — Sandoval needs a dedicated pass to determine whether the current ddrum Dios/Mercury claim is stale vs. just unsourced (the 2006 Pearl/Axxis/Gibraltar interview contradicts it outright); Isaac Lamb needs a better primary source than what 2 research passes have found so far.
 - Once Sandoval/Lamb are resolved (or explicitly ruled un-resolvable), the "unverified roster drummer" angle is genuinely exhausted (72/72 roster slugs will have been researched) — next depth lever needs to be a different pattern.
 - `danny carey drum kit` still on #5214's cooldown — next real CTR check ~08-10 (same day as the next L1/L3 weekly snapshot refresh, still 08-03 vintage as of this run).
+
+---
+## 2026-08-09 (Sunday, ~07:xx UTC run) — 2 fresh proposals filed: Pete Sandoval + Isaac Lamb gear-record accuracy, closes the "unverified roster drummer" angle (72/72 researched)
+
+### Context
+Bank check: 5 open `seo-proposal`-labeled issues at run start — 3 standing umbrellas (#2211/#3810/#3819) + #5438 (Portnoy) + #5439 (Vinnie Paul), both filed by the ~03:xx UTC run and still untriaged (CEO's last log entry was 01:37 UTC, before those were filed) — 0 fresh untriaged from this run's perspective. Well under the 45 floor, cleared to file up to 8. Metrics 07:44 UTC: GSC 7,090 impr/108 clicks/1.52% CTR/pos 10.6, one content-gap row (`danny carey drum kit`, 113 impr, 0.88% CTR) still inside #5214's cooldown through 08-10, not re-filed. Today is Sunday — drum-chair Monday sweep not due (fires next 08-10).
+
+### Audit summary
+- robots.txt: ✅ live curl (GPTBot UA) confirms all 8 AI-crawler UAs `Allow: /`.
+- llms.txt / llms-full.txt: both 200.
+- `verified: true` gear coverage: 66/72 roster drummers (unchanged pending #5438/#5439/#5442/#5443 shipping).
+
+### Closed out the last 2 "unverified roster drummer" candidates (Pete Sandoval, Isaac Lamb)
+Per the 08-08 19:xx and 08-09 03:xx run notes, these were the last 2 of 72 roster slugs still unresolved in the ongoing gear-accuracy sweep. Ran 2 dedicated research sub-agents (web search + live fetch against official brand rosters) rather than re-guessing:
+
+- **Pete Sandoval** — resolved as **genuinely mixed**: ddrum brand relationship confirmed live (`ddrum.com/ddrum-artists/` lists him, brand-only, no model), but the specific "Dios Series"/"Dios 14x6.5 Maple" snare claim has no official backing (a secondary source instead names a different series, "Dominion"), and — the important new finding — **Sabian's current official artist roster no longer lists Pete Sandoval at all** (it lists Tim Yeung, Morbid Angel's other/later touring drummer, instead), directly contradicting our specific "Sabian AAX Series" cymbal claim. Filed **#5442** — hedges drums/snare/cymbals/hardware to brand-only or "not publicly documented" across `api/drummers/index.js` (gear + kitOverview) and `extendedBios.js` (gearHighlights + FAQ), cites both ddrum.com and sabian.com as the (negative/brand-only) sources.
+- **Isaac Lamb** — resolved as **fabricated, not just unverified**: a third research pass (after 2 prior failed attempts) found zero corroboration for any gear category, but on close re-read the existing `kitOverview`/`gear`/`faq` text goes well beyond "plausible but unsourced" — it invents exact shell sizes (22" bass drum, 10"/12" rack/14"/16" floor toms), bearing-edge commentary, pedal mechanism detail ("floating rotor and adjustable cam"), and a dated 3-album era attribution ("the setup he established for Nomad (2017) and carried through Absolute (2019) and Lowest Form of Animal (2022)") — none of which any source could possibly support, since the only citation on file is the band's Wikipedia page (no gear content at all). Notably the `gearHighlights.content` block for the same drummer is already correctly hedged/generic ("likely 2B or similar," no brand names) — confirming this is a `kitOverview`/`gear`/`faq`-only fabrication, not a gearHighlights-contradiction-class bug. Filed **#5443** — strips all brand/model claims to "Not publicly documented" across both files, rewrites 5 gear-specific FAQ answers, leaves the already-correct `gearHighlights` and the Wikipedia source untouched.
+
+Both filed dedup-checked (`gh issue list --state all --search "<name> gear"`) — no overlap with prior Pete Sandoval fixes (#5403 fixed a different field/gearHighlights contradiction, #5433/#5440 fixed kitOverview-vs-sticks, both already shipped) or any Isaac Lamb issue. Both freeze-compliant: zero new pages, verified-only data-accuracy fixes (CLAUDE.md rule 2) on existing earning URLs, directly serve L2 citation accuracy (Rule 3 priority). Live-curled ddrum.com and sabian.com before filing #5442 rather than trusting the sub-agent's claims blind.
+
+**Roster gear-accuracy sweep status: now genuinely exhausted.** All 72 roster slugs have been researched across the gearHighlights-vs-FAQ pass (72/72, closed 08-08) and the unverified-drummer pass (72/72 as of this run — Danny Carey/Brann Dailor/Matt Halpern/Charlie Benante/Ray Luzier/Mike Portnoy/Vinnie Paul/Pete Sandoval/Isaac Lamb all now filed or fixed). Do not re-run either sweep. Next depth lever needs to be a genuinely different pattern — candidates already flagged in prior notes: (a) the structural fix of generating `gearHighlights.content` from structured gear data instead of hand-authored prose (needs founder-ideas triage first, not a proposal itself), or (b) watch for the next GSC content-gap query once `danny carey drum kit`'s cooldown elapses 08-10.
+
+### Proposals filed this run
+1. **#5442** — SEO: Pete Sandoval gear record overclaims unconfirmed/contradicted specifics (ddrum model, Sabian cymbals)
+2. **#5443** — SEO: Isaac Lamb gear record fabricates hyper-specific unsourced claims (bass drum size, bearing edges, era-attribution)
+
+### Drum-chair watch
+Not due — Sunday, not the Monday rotation slot. Next due 2026-08-10.
+
+### Open proposals waiting on CEO triage
+- #5442, #5443 (filed this run, 0d old, both personally source-verified via live curl/research sub-agent before filing, no duplicates)
+- #5438, #5439 (filed by the ~03:xx UTC run, still untriaged as of this run — CEO's last log entry predates them)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers, not real proposals
+
+### Next run
+- Watch #5438/#5439/#5442/#5443 through CEO triage; live-verify per each issue's own Verify steps once shipped.
+- The full roster gear-accuracy sweep (both the gearHighlights-vs-FAQ class and the unverified/unsourced-specifics class) is now genuinely exhausted across all 72 slugs — do not re-run either. Next depth lever needs a different pattern: either the structural `gearHighlights`-generation fix (still needs founder-ideas triage) or wait for the 08-10 GSC/L1/L3 refresh to surface a fresh content-gap query.
+- `danny carey drum kit` still on #5214's cooldown — next real CTR check ~08-10 (same day as the next L1/L3 weekly snapshot refresh, still 08-03 vintage as of this run).
 - #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.

@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-09 02:57 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-09 07:44 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 159 |
-| Sessions | 179 |
-| Page views | 252 |
-| Engagement rate | 51.40% |
-| Avg session (s) | 104 |
+| Active users | 166 |
+| Sessions | 187 |
+| Page views | 262 |
+| Engagement rate | 49.20% |
+| Avg session (s) | 118 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -26,69 +26,69 @@
 | /drummer/matt-greiner | 4 | 4 |
 | /drummers/dave-lombardo/licks/dave-lombardo-show-no-mercy-tom-run | 4 | 1 |
 | /drummers/sean-reinert/evolution | 4 | 2 |
-| /articles/images-and-words-drum-setup | 3 | 2 |
+| /articles/damnation-drum-setup | 3 | 1 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 158 | 140 |
-| Unassigned | 41 | 39 |
+| Organic Search | 166 | 147 |
+| Unassigned | 48 | 46 |
 | Direct | 13 | 12 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 65 | 61 |
+| United States | 67 | 63 |
 | United Kingdom | 15 | 11 |
+| Germany | 11 | 11 |
 | Canada | 10 | 7 |
-| Germany | 10 | 10 |
 | Netherlands | 6 | 6 |
 | Spain | 6 | 5 |
+| Sweden | 6 | 6 |
 | Australia | 5 | 4 |
 | Mexico | 5 | 5 |
-| Sweden | 5 | 5 |
-| Brazil | 3 | 3 |
+| Chile | 4 | 3 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 6,040 |
-| Clicks | 88 |
-| CTR | 1.46% |
-| Avg position | 10.8 |
+| Impressions | 7,090 |
+| Clicks | 108 |
+| CTR | 1.52% |
+| Avg position | 10.6 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
 | abe cunningham cymbal setup | 2 | 1 | 50.00% | 10.0 |
-| best death metal drummer | 4 | 1 | 25.00% | 7.5 |
-| daniel erlandsson drum kit | 8 | 1 | 12.50% | 9.0 |
-| danny carey drum kit | 89 | 1 | 1.12% | 10.2 |
+| best death metal drummer | 5 | 1 | 20.00% | 7.6 |
+| daniel erlandsson drum kit | 9 | 1 | 11.11% | 9.2 |
+| danny carey drum kit | 113 | 1 | 0.88% | 10.3 |
 | jaska raatikainen drum set | 3 | 1 | 33.33% | 7.0 |
-| joey jordison drum set | 26 | 1 | 3.85% | 10.7 |
+| joey jordison drum set | 30 | 1 | 3.33% | 10.8 |
 | joey jordison kit | 4 | 1 | 25.00% | 8.8 |
-| john otto drum kit | 16 | 1 | 6.25% | 6.1 |
+| john otto drum kit | 18 | 1 | 5.56% | 6.4 |
 | john otto drum set | 6 | 1 | 16.67% | 10.0 |
-| matt garstka drum kit | 14 | 1 | 7.14% | 7.0 |
+| laid to rest tempo | 7 | 1 | 14.29% | 9.6 |
 
 ### Top countries (impressions, last 7d)
 | Country | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| usa | 2,031 | 25 | 1.23% | 10.5 |
-| gbr | 358 | 8 | 2.23% | 9.9 |
-| aus | 254 | 4 | 1.57% | 8.9 |
-| can | 202 | 4 | 1.98% | 8.4 |
-| esp | 87 | 4 | 4.60% | 9.1 |
-| pol | 95 | 4 | 4.21% | 9.1 |
-| swe | 90 | 4 | 4.44% | 8.2 |
-| arg | 48 | 3 | 6.25% | 7.0 |
-| deu | 184 | 3 | 1.63% | 8.1 |
-| tur | 100 | 3 | 3.00% | 12.9 |
+| usa | 2,417 | 30 | 1.24% | 10.2 |
+| gbr | 402 | 8 | 1.99% | 9.8 |
+| deu | 229 | 6 | 2.62% | 8.1 |
+| esp | 97 | 6 | 6.19% | 9.5 |
+| aus | 287 | 5 | 1.74% | 8.8 |
+| swe | 109 | 5 | 4.59% | 8.1 |
+| can | 249 | 4 | 1.61% | 8.3 |
+| che | 30 | 4 | 13.33% | 7.3 |
+| pol | 112 | 4 | 3.57% | 9.5 |
+| arg | 62 | 3 | 4.84% | 7.1 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 | Query | Impr | CTR | Pos | Action |
 | --- | --- | --- | --- | --- |
-| danny carey drum kit | 89 | 1.12% | 10.2 | open issue to answer better |
+| danny carey drum kit | 113 | 0.88% | 10.3 | open issue to answer better |
 
 ---
 *Re-run manually: `node .agents/scripts/fetch-metrics.cjs`*

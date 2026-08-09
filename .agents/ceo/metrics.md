@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-09 13:40 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-09 19:37 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,18 +8,18 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 168 |
-| Sessions | 193 |
-| Page views | 282 |
-| Engagement rate | 55.96% |
-| Avg session (s) | 120 |
+| Active users | 176 |
+| Sessions | 201 |
+| Page views | 293 |
+| Engagement rate | 63.68% |
+| Avg session (s) | 122 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
 | / | 14 | 8 |
+| /drummer/hellhammer | 8 | 5 |
 | /articles/kill-em-all-drum-setup | 7 | 2 |
-| /drummer/hellhammer | 7 | 5 |
 | /drummer/gene-hoglan | 5 | 1 |
 | /articles/damnation-drum-setup | 4 | 1 |
 | /drummer/gavin-harrison | 4 | 3 |
@@ -31,19 +31,19 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 173 | 153 |
-| Unassigned | 35 | 31 |
-| Direct | 15 | 13 |
+| Organic Search | 180 | 159 |
+| Unassigned | 21 | 17 |
+| Direct | 16 | 14 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 67 | 63 |
-| United Kingdom | 15 | 11 |
+| United States | 69 | 65 |
+| United Kingdom | 16 | 12 |
 | Germany | 11 | 11 |
 | Canada | 10 | 7 |
+| Spain | 7 | 6 |
 | Netherlands | 6 | 6 |
-| Spain | 6 | 5 |
 | Sweden | 6 | 6 |
 | Australia | 5 | 4 |
 | France | 5 | 4 |

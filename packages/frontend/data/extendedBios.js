@@ -5387,14 +5387,14 @@ After Pantera's breakup, Vinnie Paul co-founded Damageplan with Darrell, and fol
       },
       gearHighlights: {
         title: 'Gear Highlights',
-        content: `Vinnie Paul used various drum brands throughout his career, including Tama, Remo, Pearl, and finally ddrum. He endorsed Sabian cymbals and Vic Firth drumsticks consistently.
+        content: `Vinnie Paul used various drum brands throughout his career, including Tama, Remo, Pearl, and finally ddrum (confirmed via ddrum's own artist page). He is associated with Sabian cymbals and Vic Firth drumsticks in secondary coverage, though no official artist page or dated in-career source confirms specific current models for cymbals, sticks, or a full drum-kit series beyond the signature snare.
 
-**Final Setup (Hellyeah Era):**
-- **Drums**: ddrum Vinnie Paul Signature Series
-- **Snare**: ddrum custom snares
-- **Cymbals**: Sabian (AAX, HHX, and signature models)
-- **Hardware**: ddrum and Danmar
-- **Sticks**: Vic Firth (played backwards, holding tapered end)
+**Final Setup (Hellyeah Era) — confirmed vs. unverified:**
+- **Drums**: ddrum (brand confirmed; specific kit series unverified)
+- **Snare**: ddrum Vinnie Paul Signature 14"x8" — 8-ply maple, 10 lugs, die-cast hoops (confirmed, ddrum.com/vinniepaul/)
+- **Cymbals**: Sabian (brand per secondary sources; specific models unverified)
+- **Hardware**: ddrum (brand relationship confirmed via a 2009 Sick Drummer Magazine interview; specific pedal/throne models unverified)
+- **Sticks**: Vic Firth (specific in-career model unverified — the "SVP Signature Vinnie Paul" stick launched in 2020, over 2 years after his death, and cannot be cited as gear he played)
 - **Heads**: Evans
 - **Electronics**: ddrum and Roland triggers
 
@@ -5423,22 +5423,21 @@ After Pantera's breakup, Vinnie Paul co-founded Damageplan with Darrell, and fol
       faq: {
         title: 'Frequently Asked Questions',
         items: [
-          { q: 'What drum kit did Vinnie Paul use?', a: 'Vinnie Paul played a ddrum Vinnie Paul Signature Series drum kit — a custom-configured setup built to his specifications as Pantera\'s co-founder and groove metal architect. His ddrum Vinnie Paul Signature 14"x8" snare was engineered for maximum projection and crack, cutting through Pantera\'s wall of distorted guitars on Cowboys from Hell, Vulgar Display of Power, and Far Beyond Driven.' },
-          { q: 'What drum set did Vinnie Paul use?', a: 'Vinnie Paul\'s drum set paired his ddrum Signature Series shells and 14"x8" snare with a ddrum double pedal, powering the thunderous double kick that anchored Pantera\'s signature heavy grooves.' },
-          { q: 'What cymbals did Vinnie Paul play?', a: 'Vinnie Paul played Sabian AA and AAX Series cymbals: 14" Hi-Hats, 18" and 19" Crashes, a 21" Ride, and an 18" China.' },
-          { q: 'What snare did Vinnie Paul use?', a: 'Vinnie Paul\'s snare was a ddrum Vinnie Paul Signature 14"x8", a deep model engineered for maximum projection and crack.' },
-          { q: 'What sticks did Vinnie Paul use?', a: 'Vinnie Paul used Vic Firth American Classic 5B drumsticks.' },
-          { q: 'What bass drum pedal did Vinnie Paul use?', a: 'Vinnie Paul used a ddrum double pedal mounted with a ddrum throne.' },
+          { q: 'What drum kit did Vinnie Paul use?', a: 'Vinnie Paul was a ddrum-endorsed drummer (confirmed via ddrum\'s own artist page). His ddrum Vinnie Paul Signature 14"x8" snare — an 8-ply maple shell with 10 lugs and die-cast hoops — is confirmed on ddrum\'s official product page and was engineered for maximum projection and crack, cutting through Pantera\'s wall of distorted guitars. Beyond the snare, a specific drum-kit series is not confirmed by any official source.' },
+          { q: 'What drum set did Vinnie Paul use?', a: 'Vinnie Paul\'s confirmed gear is limited to his ddrum Vinnie Paul Signature 14"x8" snare (ddrum.com/vinniepaul/); the rest of his drum set — shell pack, pedal, and throne — is associated with ddrum by brand but not confirmed to specific models by any source found.' },
+          { q: 'What cymbals did Vinnie Paul play?', a: 'Vinnie Paul is associated with Sabian cymbals in secondary coverage, but no official Sabian artist page or press release names his specific cymbal models — treat exact sizes/series as unverified.' },
+          { q: 'What snare did Vinnie Paul use?', a: 'Vinnie Paul\'s snare was a ddrum Vinnie Paul Signature 14"x8" — an 8-ply maple shell with 10 lugs and die-cast hoops, confirmed on ddrum\'s official artist/product page (ddrum.com/vinniepaul/).' },
+          { q: 'What sticks did Vinnie Paul use?', a: 'Vinnie Paul is associated with Vic Firth in secondary coverage, but no dated pre-2018 source confirms a specific model. The "Vic Firth SVP Signature Vinnie Paul" stick is a real product, but it launched in 2020 — over 2 years after his death — as a posthumous tribute, so it cannot be cited as gear he actually played.' },
+          { q: 'What bass drum pedal did Vinnie Paul use?', a: 'Vinnie Paul used ddrum hardware (brand confirmed via a 2009 Sick Drummer Magazine interview in which he described using his own ddrum hardware and pedals), but no source names a specific pedal or throne model.' },
           { q: 'What drumheads did Vinnie Paul use?', a: 'Vinnie Paul used Evans drumheads.' },
           { q: 'What band was Vinnie Paul in?', a: 'Vinnie Paul co-founded and drummed for Pantera (1981-2003), then Damageplan (2003-2004), and later Hellyeah (2006-2018).' },
-          { q: 'What electronic triggers did Vinnie Paul use?', a: 'Vinnie Paul used ddrum and Roland triggers alongside his acoustic ddrum Vinnie Paul Signature drum kit, blending triggered samples with live drums for Pantera\'s massive live sound.' }
+          { q: 'What electronic triggers did Vinnie Paul use?', a: 'Vinnie Paul used ddrum and Roland triggers alongside his ddrum-brand acoustic kit, blending triggered samples with live drums for Pantera\'s massive live sound.' }
         ]
       },
       sources: {
         title: 'Sources',
         items: [
-          { name: 'Vic Firth Artist Profile', url: 'https://vicfirth.com/artists/vinnie-paul' },
-          { name: 'ddrum Artist Page', url: 'https://ddrum.com' },
+          { name: 'ddrum Artist Page (Vinnie Paul)', url: 'https://www.ddrum.com/vinniepaul/' },
           { name: 'Revolver Magazine', url: 'https://www.revolvermag.com/music/fan-poll-5-greatest-metal-drummers-all-time' },
           { name: 'Wikipedia: Vinnie Paul', url: 'https://en.wikipedia.org/wiki/Vinnie_Paul' }
         ]

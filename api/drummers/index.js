@@ -1546,7 +1546,6 @@ const drummers = [
     endorsements: [
       { name: 'ddrum Drums', url: 'https://www.ddrum.com' },
       { name: 'Sabian Cymbals', url: 'https://www.sabian.com' },
-      { name: 'Ahead Drumsticks', url: 'https://www.aheaddrumsticks.com' },
       { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
     ],
     videos: [

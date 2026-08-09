@@ -3460,10 +3460,10 @@ Yeung's drumming combines machine-like consistency with the brutal intensity dem
         content: `Tim Yeung has used various drum setups throughout his career, favoring equipment that can handle the extreme demands of death metal drumming.
 
 **Typical Setup:**
-- **Drums**: Pearl or Tama (Reference or Starclassic series)
+- **Drums**: Tama Starclassic Bubinga
 - **Snare**: 14"x6.5" Metal snare for cut and attack
 - **Cymbals**: Zildjian or Sabian (bright, cutting series for extreme metal)
-- **Hardware**: Pearl Demon Drive or Tama Iron Cobra double pedal
+- **Hardware**: Tama Speed Cobra 910 Double Pedal
 - **Sticks**: Vic Firth or Promark 5B/2B for durability
 - **Heads**: Evans (EMAD or Genera series)
 

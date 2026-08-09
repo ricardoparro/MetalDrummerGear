@@ -907,18 +907,18 @@ const drummers = [
     country: 'USA',
     image: '/images/drummers/vinnie-paul.webp',
     bio: 'Vinnie Paul (1964-2018) was the co-founder and drummer of Pantera, one of the most influential heavy metal bands of all time. Alongside his brother Dimebag Darrell, he helped define the groove metal sound. Pantera received four Grammy nominations for Best Metal Performance. After Pantera\'s breakup, he formed Damageplan with his brother, and later Hellyeah. His drumming style featured powerful grooves and innovative double-bass patterns that influenced countless metal drummers. Ranked among the greatest metal drummers of all time.',
-    kitOverview: 'Vinnie Paul played a ddrum Vinnie Paul Signature Series drum kit — a custom-configured setup built to his exacting specifications as Pantera\'s co-founder and groove metal architect. As the rhythmic backbone alongside his brother Dimebag Darrell, Vinnie Paul built one of the most powerful drum sets in heavy metal history, defined by massive grooves, thunderous authority, and relentless double bass precision.\n\nThe cornerstone of the Vinnie Paul drum kit was his ddrum Vinnie Paul Signature snare drum — a deep 14×8" model engineered for maximum projection and crack, cutting through Pantera\'s wall of distorted guitars on Cowboys from Hell, Vulgar Display of Power, and Far Beyond Driven. The Vinnie Paul drum set featured Sabian AA and AAX Series cymbals: 14" Hi-Hats for tight articulation on groove patterns; 18" and 19" Crashes for explosive dynamic accents; a 21" Ride for rhythmic clarity; and an 18" China for aggressive punctuation. A ddrum double pedal powered the thunderous double kick that anchored Pantera\'s signature heavy grooves. Vic Firth American Classic 5B sticks completed the rig.',
+    kitOverview: 'Vinnie Paul was a ddrum-endorsed drummer, confirmed on ddrum\'s own current artist page. As the rhythmic backbone alongside his brother Dimebag Darrell, Vinnie Paul built one of the most powerful drum sets in heavy metal history, defined by massive grooves, thunderous authority, and relentless double bass precision.\n\nThe cornerstone of the Vinnie Paul drum kit was his ddrum Vinnie Paul Signature snare drum — a deep 14×8" 8-ply maple model with 10 lugs and die-cast hoops, confirmed on ddrum\'s official product page, engineered for maximum projection and crack that cut through Pantera\'s wall of distorted guitars on Cowboys from Hell, Vulgar Display of Power, and Far Beyond Driven. Beyond the snare, ddrum\'s page does not specify a full shell-pack model, and no Sabian artist listing or press release names his specific cymbal setup — the drum-kit series, cymbal models, pedal/throne models, and stick model should be read as brand-level facts only, not confirmed against a source naming exact products.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Vinnie_Paul',
       'https://www.discogs.com/artist/271569-Vinnie-Paul',
       'https://www.allmusic.com/artist/vinnie-paul-mn0000594023'
     ],
     gear: {
-      drums: 'ddrum Vinnie Paul Signature Series',
-      snare: 'ddrum Vinnie Paul Signature 14x8"',
-      cymbals: 'Sabian AA & AAX Series (14" Hi-Hats, 18" & 19" Crashes, 21" Ride, 18" China)',
-      hardware: 'ddrum Double Pedal, ddrum Throne',
-      sticks: 'Vic Firth American Classic 5B'
+      drums: 'ddrum (brand confirmed; specific kit series unverified)',
+      snare: 'ddrum Vinnie Paul Signature 14x8" (8-ply maple, 10 lugs, die-cast hoops)',
+      cymbals: 'Sabian (brand per secondary sources; specific models unverified)',
+      hardware: 'ddrum hardware (brand confirmed via 2009 interview; specific pedal/throne models unverified)',
+      sticks: 'Vic Firth (specific in-career model unverified)'
     },
     photos: [
       '/images/drummers/vinnie-paul.webp' // Original: https://upload.wikimedia.org/wikipedia/commons/5/55/VinniePaul2008.JPG

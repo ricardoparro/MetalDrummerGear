@@ -3314,19 +3314,18 @@ const drummers = [
     country: 'USA',
     image: '/images/drummers/isaac-lamb.webp',
     bio: 'Isaac Lamb is an American drummer and founding member of the beatdown hardcore/metalcore band Kublai Khan TX, formed in Sherman, Texas in 2009. As the only drummer in the band\'s history, Lamb has been instrumental in developing their signature sound—characterized by crushing breakdowns, heavy grooves, and aggressive intensity that has made them one of the most respected bands in modern hardcore. His drumming style emphasizes power, groove, and devastating timing on breakdowns.',
-    kitOverview: 'Isaac Lamb plays an SJC Custom drum kit — a hand-built, made-to-order setup that reflects Kublai Khan TX\'s no-frills, breakdown-driven approach to beatdown hardcore. The Isaac Lamb drum set centers on an SJC Custom 14x6.5" snare, delivering a thick, punishing crack that anchors the band\'s crushing breakdowns and heavy groove sections without getting lost beneath downtuned guitars.\n\nMeinl Classics Custom Dark Series cymbals define the Isaac Lamb drum kit\'s tonal character: 14" Hi-Hats for tight, controlled chops; 18" and 20" Crashes for explosive, dark-toned accents; a 21" Ride for rhythmic definition; and an 18" China for aggressive punctuation on the band\'s heaviest sections. As detailed in his gear setup, a DW 9000 Series Double Pedal drives Lamb\'s kick work — direct-drive precision built to land breakdown patterns consistently at every tempo Kublai Khan TX plays. Vic Firth American Classic 2B sticks and Evans Hydraulic drumheads complete the rig, chosen for durability under the sustained physical demands of a touring schedule that has run unbroken since the band\'s 2009 formation in Sherman, Texas.',
+    kitOverview: 'Isaac Lamb\'s specific drum kit brand and model are not publicly documented — no official artist page, interview, or gear feature naming his equipment could be found as of 2026-08-09. What\'s known is his role: the sole drummer across Kublai Khan TX\'s full discography since the band\'s 2009 formation in Sherman, Texas, playing a setup built to cut through the band\'s heavily downtuned 7-string guitars and land its signature breakdowns.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Kublai_Khan_(band)',
       'https://www.allmusic.com/artist/kublai-khan-mn0003460661'
     ],
     gear: {
-      drums: 'SJC Custom Drums',
-      snare: 'SJC Custom 14x6.5"',
-      cymbals: 'Meinl Classics Custom Dark Series (14" Hi-Hats, 18" & 20" Crashes, 21" Ride, 18" China)',
-      hardware: 'DW 9000 Series Double Pedal',
-      hardwareRationale: 'Isaac Lamb builds his hardware around a single piece of gear: the DW 9000 Series Double Pedal. Beatdown hardcore lives and dies on the breakdown, and the 9000\'s direct-drive precision lets him land kick patterns with consistent, immediate response at every tempo Kublai Khan TX throws at him — from mid-paced groove sections to the double-bass surges that punctuate their heaviest material. DW\'s 9000 line is built for touring durability as much as feel, which matters for a drummer who has played every show in the band\'s history since 2009 without a substitute. The choice mirrors Lamb\'s broader gear philosophy: nothing flashy, everything built to translate foot technique faithfully and survive a relentless road schedule.',
-      sticks: 'Vic Firth American Classic 2B',
-      heads: 'Evans Hydraulic',
+      drums: 'Not publicly documented',
+      snare: 'Not publicly documented',
+      cymbals: 'Not publicly documented',
+      hardware: 'Not publicly documented',
+      sticks: 'Not publicly documented',
+      heads: 'Not publicly documented',
       verified: false,
       sources: ['https://en.wikipedia.org/wiki/Kublai_Khan_(band)']
     },

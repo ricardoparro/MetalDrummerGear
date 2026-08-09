@@ -7050,8 +7050,8 @@ Turner's drumming videos have gone viral on social media, showcasing his ability
         content: `Chris Turner endorses Tama Drums and Meinl Cymbals, using high-end equipment designed to withstand his demanding playing style while providing the clarity needed for technical patterns.
 
 **Current Setup:**
-- **Drums**: Tama Starclassic Walnut/Birch in custom finish
-- **Snare**: Tama S.L.P. 14"x5.5" Vintage Hammered Steel
+- **Drums**: Tama Starclassic Maple/Birch in custom finish
+- **Snare**: Tama S.L.P. 14"x5.5" G-Maple
 - **Cymbals**: Meinl (Byzance and Pure Alloy series)
 - **Hardware**: Tama Speed Cobra 910 double pedal
 - **Throne**: Ahead Spinal-G

@@ -7446,8 +7446,8 @@ Beyond Converge, Koller maintains an impressive roster of projects including Mut
         content: `Ben Koller uses Tama Drums and Zildjian Cymbals, favoring a stripped-down setup that emphasizes power and response over complexity.
 
 **Current Setup:**
-- **Drums**: Tama Starclassic Performer B/B
-- **Snare**: Tama S.L.P. 14"x6.5" or similar
+- **Drums**: Tama Starclassic Maple
+- **Snare**: Tama S.L.P. 14"x6" Brass
 - **Cymbals**: Zildjian (K and A Custom series)
 - **Hardware**: Tama Iron Cobra double pedal
 - **Sticks**: Vic Firth or Promark 5B

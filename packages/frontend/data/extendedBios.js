@@ -6803,13 +6803,13 @@ Van Poederooyen's versatile drumming has adapted to Townsend's constantly evolvi
       },
       gearHighlights: {
         title: 'Gear Highlights',
-        content: `Ryan Van Poederooyen has used various drum brands throughout his career, adapting his setup to suit Townsend's diverse musical requirements.
+        content: `Ryan Van Poederooyen's rig centers on a Pearl Reference Series shell pack, adapted to suit Townsend's diverse musical requirements.
 
 **Typical Setup:**
-- **Drums**: Tama Starclassic or Pearl (various eras)
-- **Snare**: 14"x6.5" (various metals and woods)
+- **Drums**: Pearl Reference Series
+- **Snare**: Pearl Reference 14"x6.5" Brass
 - **Cymbals**: Sabian (AAX, HHX series)
-- **Hardware**: Tama Iron Cobra or DW 9000 double pedal
+- **Hardware**: Pearl Demon Drive Double Pedal
 - **Sticks**: Vic Firth (various models)
 - **Heads**: Evans or Remo
 

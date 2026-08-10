@@ -25,6 +25,10 @@
  * Only roster drummers with `gear.verified: true` are parsed here (56 of 67).
  * Unverified drummers (wait for a research pass before their cymbals are added;
  * never guessed): ray-luzier, vinnie-paul, charlie-benante, mike-portnoy, danny-carey, brann-dailor, matt-halpern, pete-sandoval, arin-ilejay, nick-augusto, isaac-lamb.
+ * frost (#5463): drums/snare/hardware corrected to Tama, but the Zildjian cymbal
+ * claim's specific series/models could not be confirmed via a live official
+ * source this run (Zildjian's artist pages 404 for Frost) — omitted rather than
+ * guessed. gear.cymbals on the roster record still asserts the brand only.
  *
  * Parsing is conservative: a piece with no confidently-parseable size is left out
  * of `pieces` entirely (still present in `summary`), and a piece's `series` is
@@ -516,16 +520,16 @@ export const CYMBAL_SETUPS = [
   },
   {
     drummerSlug: 'mikkey-dee',
-    summary: 'Zildjian A Custom & K Series (14" A Custom Hi-Hats, 18" & 19" A Custom Crashes, 22" K Custom Ride, 20" Oriental China)',
-    brands: ['Zildjian'],
+    summary: 'Paiste Signature Series (14" Sound Edge Hi-Hats, 18" & 20" Power Crashes, 22" Power Ride, 18" Heavy China)',
+    brands: ['Paiste'],
     pieces: [
-      { type: 'hi-hat', sizeIn: 14, series: 'A Custom', model: 'Hi-Hats' },
-      { type: 'crash', sizeIn: 18, series: 'A Custom', model: 'Crash' },
-      { type: 'crash', sizeIn: 19, series: 'A Custom', model: 'Crash' },
-      { type: 'ride', sizeIn: 22, series: 'K Custom', model: 'Ride' },
-      { type: 'china', sizeIn: 20, series: 'A Custom & K', model: 'Oriental China' },
+      { type: 'hi-hat', sizeIn: 14, series: 'Signature', model: 'Sound Edge Hi-Hats' },
+      { type: 'crash', sizeIn: 18, series: 'Signature', model: 'Power Crash' },
+      { type: 'crash', sizeIn: 20, series: 'Signature', model: 'Power Crash' },
+      { type: 'ride', sizeIn: 22, series: 'Signature', model: 'Power Ride' },
+      { type: 'china', sizeIn: 18, series: 'Signature', model: 'Heavy China' },
     ],
-    source: 'roster gear.cymbals (verified: true; sources on the drummer record)',
+    source: 'roster gear.cymbals (verified: true; corrected #5463 from a stale Zildjian citation — see https://www.paiste.com/en/musicians/mikkey-dee)',
     retailerUrls: {},
   },
   {
@@ -544,32 +548,17 @@ export const CYMBAL_SETUPS = [
   },
   {
     drummerSlug: 'dirk-verbeuren',
-    summary: 'Zildjian A Custom & K Custom Series (14" A Custom Hi-Hats, 17", 18", 19" A Custom Crashes, 21" K Custom Hybrid Ride, 18" K China)',
-    brands: ['Zildjian'],
+    summary: 'Meinl Byzance Brilliant & Classics Custom Dark Series (14" Byzance Brilliant Hi-Hats, 19", 20" & 21" Classics Custom Dark Crashes, 22" Byzance Brilliant Ride, 18" Byzance Brilliant China)',
+    brands: ['Meinl'],
     pieces: [
-      { type: 'hi-hat', sizeIn: 14, series: 'A Custom', model: 'Hi-Hats' },
-      { type: 'crash', sizeIn: 17, series: 'A Custom', model: 'Crash' },
-      { type: 'crash', sizeIn: 18, series: 'A Custom', model: 'Crash' },
-      { type: 'crash', sizeIn: 19, series: 'A Custom', model: 'Crash' },
-      { type: 'ride', sizeIn: 21, series: 'K Custom Hybrid', model: 'Ride' },
-      { type: 'china', sizeIn: 18, series: 'K', model: 'China' },
+      { type: 'hi-hat', sizeIn: 14, series: 'Byzance Brilliant', model: 'Hi-Hats' },
+      { type: 'crash', sizeIn: 19, series: 'Classics Custom Dark', model: 'Crash' },
+      { type: 'crash', sizeIn: 20, series: 'Classics Custom Dark', model: 'Crash' },
+      { type: 'crash', sizeIn: 21, series: 'Classics Custom Dark', model: 'Crash' },
+      { type: 'ride', sizeIn: 22, series: 'Byzance Brilliant', model: 'Ride' },
+      { type: 'china', sizeIn: 18, series: 'Byzance Brilliant', model: 'China' },
     ],
-    source: 'roster gear.cymbals (verified: true; sources on the drummer record)',
-    retailerUrls: {},
-  },
-  {
-    drummerSlug: 'frost',
-    summary: 'Zildjian A Custom & K Series (14" A Custom Hi-Hats, 16", 17", 18" A Custom Crashes, 22" K Custom Dark Ride, 18" K China)',
-    brands: ['Zildjian'],
-    pieces: [
-      { type: 'hi-hat', sizeIn: 14, series: 'A Custom', model: 'Hi-Hats' },
-      { type: 'crash', sizeIn: 16, series: 'A Custom', model: 'Crash' },
-      { type: 'crash', sizeIn: 17, series: 'A Custom', model: 'Crash' },
-      { type: 'crash', sizeIn: 18, series: 'A Custom', model: 'Crash' },
-      { type: 'ride', sizeIn: 22, series: 'K Custom Dark', model: 'Ride' },
-      { type: 'china', sizeIn: 18, series: 'K', model: 'China' },
-    ],
-    source: 'roster gear.cymbals (verified: true; sources on the drummer record)',
+    source: 'roster gear.cymbals (verified: true; corrected #5463 from a stale Zildjian citation — see https://meinlcymbals.com/en/artists/dirk-verbeuren-a124800.html)',
     retailerUrls: {},
   },
   {

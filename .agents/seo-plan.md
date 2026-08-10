@@ -4297,3 +4297,32 @@ All 3 dedup-checked (`gh issue list --state all --search`) — no overlap with #
 - The sibling-field-miss pattern found in #5465 (gearHighlights fixed, sources.items not) may not be limited to the Meinl cluster — worth spot-checking a few more of the ~50 already-"fixed" gearHighlights slugs for the same residual-citation gap next time the bank needs topping up, rather than assuming #5465's 3 are the only instances.
 - `danny carey drum kit` — no longer treat as an open content-gap; #5214 already covers the exact "drum kit" phrase in both title and meta. Only revisit if CTR regresses below 08-03's level after 1-2 more snapshots.
 - #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+## 2026-08-10 08:21 UTC run — 1 fresh proposal filed (Gene Hoglan stick-size contradiction), gearHighlights sweep confirmed nearly exhausted, one dead-code trap avoided
+
+### Context
+Bank check: 6 open `seo-proposal` at run start (3 standing umbrellas #2211/#3810/#3819 + #5464/#5465/#5466 filed by the 01:00 UTC run, already triaged/promoted per decisions-log 07:40). Well under 45 → cleared to file up to 8. This run doesn't correspond to a cron slot (0 1,7,13,19 UTC) — treated as an extra audit pass. Drum-chair Monday sweep already logged this week by the 01:00 UTC run (band group 2/4, zero filed) — skipped per the "once per week" rule. Fresh L2 refresh landed mid-run (`#2211`, generated 08:13:52 UTC): 44/100 cited (was 43/100 last week), still well above the 25-count floor, flat WoW.
+
+### gearHighlights-vs-FAQ systemic audit — the trickle is nearly dry
+Diffed the full 72-slug roster against every drummer name in `git log` fix commits since 08-01 to find genuinely unaudited profiles: 48 already touched, **19 remained**. Dispatched a sub-agent to cross-check all 19 (lars-ulrich, gene-hoglan, dave-lombardo, tomas-haake, george-kollias, martin-axenrot, bill-ward, kevin-talley, gavin-harrison, john-otto, jay-weinberg, art-cruz, nick-menza, adrian-erlandsson, jimmy-degrasso, nick-barker, alex-rudinger, john-longstreth, waltteri-vayrynen) against FAQ + source-of-truth gear files. Result: **only 1 genuine finding** (gene-hoglan: gearHighlights + FAQ both say ProMark 5B sticks, `drumsticks.js:230-245` verified source says 2B/Classic Forward) — filed as **#5472**. The other 18 are clean. This is a sharp drop from the 8-9/day rate earlier this week — **the systemic pattern is close to fully drained** (49/72 now touched, ~18 confirmed clean); don't expect this to keep refilling the bank at the prior rate.
+
+### Dead-code trap avoided, not filed as SEO work
+The sub-agent's first pass flagged 3 more "contradictions" (tomas-haake, john-otto, jay-weinberg) sourced against `packages/backend/src/index.js`'s `gear` object. Checked before filing: that file is a standalone Express app (`packages/backend/package.json`, `main: src/index.js`) never imported by any Vercel function or referenced in `vercel.json` — dead code, not what serves `/api/drummers` in production (that's `api/drummers/index.js`/`api/drummers/[id].js`, both already correct for all 3 drummers). Not filed as a gear-accuracy fix (it would change nothing crawler-visible). Flagging here instead: this is a live example of CLAUDE.md binding rule #1 ("one data module per domain") — an orphaned duplicate `gear` data module that nearly tricked an audit into "fixing" dead code. Worth a founder-ideas entry to delete `packages/backend/src/index.js`'s duplicate gear object (or the whole unused package) so future audits don't re-trip on it — not filing as `seo-proposal` since it has zero SEO/citation surface (nothing crawls it).
+
+### L2 BPM "no-competitor" queries checked, correctly NOT pursued further
+`what bpm is master of puppets` and ~10 sibling song-BPM queries show `_no competitor in citations_` in the fresh #2211 refresh — looked like first-mover opportunities. Live bot-UA curl on `/songs/master-of-puppets` found the page already maximally optimized: title leads with "BPM, Drummer & Tempo," meta description leads with the literal answer ("...is 212 BPM..."), 2×`FAQPage` blocks, `MusicRecording`+`PropertyValue` schema for BPM. Per the existing learned-patterns entry ("L2 stagnation... wins correlate with being the only good source, not with schema"), a `_no competitor_` verdict on a famous song's BPM most likely means Perplexity answered from its own training data with zero citations at all (common-knowledge fact), not a format gap on our end — no further schema/content work would move this. Not filed; avoided proposing a no-op batch.
+
+### Proposals filed this run
+1. **#5472** — SEO: Gene Hoglan gearHighlights/FAQ cite wrong ProMark stick size (5B, should be 2B)
+
+### Open proposals waiting on CEO triage
+- #5472 (filed this run, 0d old)
+- #5464, #5465, #5466 (filed 08-10 03:27, already promoted per decisions-log 07:40 — should clear from the open-proposal count once GitHub state syncs)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers, not real proposals
+
+### Next run
+1. Watch #5472 ship; live-verify per its own Verify steps.
+2. The gearHighlights systemic sweep is now ~68% through the roster (49/72) with a sharply thinning trickle (1 finding out of 19 checked) — next run should NOT re-run the same full-roster diff; instead watch for NEW sibling-field misses (sources.items/kitOverium not synced after a gearHighlights fix, per #5465's pattern) on the ~49 already-"fixed" slugs, which is where the residual risk now lives.
+3. `packages/backend/src/index.js` dead duplicate-gear-module — flag for founder-ideas if it trips up another audit; not urgent (zero production exposure).
+4. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers — not re-checked this run (not a fresh scheduled slot), no action taken.

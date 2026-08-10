@@ -815,7 +815,7 @@ Beyond his work with Nile, Kollias is an accomplished drum educator, having rele
         items: [
           { name: 'Pearl Drums Artist Profile', url: 'https://pearldrum.com/en/artist/george-kollias/15801' },
           { name: 'Vic Firth Artist Profile', url: 'https://vicfirth.com/products/signature-series-george-kollias' },
-          { name: 'Zildjian Artists', url: 'https://zildjian.com/artists' },
+          { name: 'Zildjian Artist Profile', url: 'https://zildjian.com/blogs/artist/george-kollias' },
           { name: 'Wikipedia: George Kollias', url: 'https://en.wikipedia.org/wiki/George_Kollias_(drummer)' }
         ]
       }
@@ -2609,7 +2609,6 @@ Before Dream Theater, Mangini built an impressive resume with Steve Vai, Extreme
         items: [
           { name: 'Pearl Drums Artist Profile', url: 'https://pearldrum.com' },
           { name: 'Sabian Artist Profile', url: 'https://sabian.com' },
-          { name: 'Vic Firth Artist Profile', url: 'https://vicfirth.com/artists/mike-mangini' },
           { name: 'Wikipedia: Mike Mangini', url: 'https://en.wikipedia.org/wiki/Mike_Mangini' }
         ]
       }
@@ -2736,7 +2735,7 @@ Garstka joined Animals as Leaders after the departure of original drummer Navene
         items: [
           { name: 'Pearl Drums Artist Profile', url: 'https://pearldrum.com' },
           { name: 'Meinl Cymbals Artist Profile', url: 'https://meinlcymbals.com/en/artists/matt-garstka' },
-          { name: 'Vic Firth Artist Profile', url: 'https://vicfirth.com/artists/matt-garstka' },
+          { name: 'Vic Firth Artist Profile', url: 'https://vicfirth.com/blogs/artist/matt-garstka-vf' },
           { name: 'Wikipedia: Matt Garstka', url: 'https://en.wikipedia.org/wiki/Matt_Garstka' }
         ]
       }
@@ -3377,8 +3376,7 @@ Before Amon Amarth, Wallgren was known for his work with Swedish bands including
         items: [
           { name: 'Amon Amarth Official', url: 'https://www.amonamarth.com' },
           { name: 'Metal Blade Records', url: 'https://www.metalblade.com' },
-          { name: 'Blabbermouth', url: 'https://www.blabbermouth.net' },
-          { name: 'Wikipedia: Jocke Wallgren', url: 'https://en.wikipedia.org/wiki/Jocke_Wallgren' }
+          { name: 'Blabbermouth', url: 'https://www.blabbermouth.net' }
         ]
       }
     }
@@ -4147,7 +4145,6 @@ Roddy is considered one of the pioneers of modern extreme metal drumming, having
       sources: {
         title: 'Sources',
         items: [
-          { name: 'Derek Roddy Official', url: 'https://derekroddy.com' },
           { name: 'Hudson Music', url: 'https://hudsonmusic.com' },
           { name: 'Drumeo', url: 'https://www.drumeo.com' },
           { name: 'Wikipedia: Derek Roddy', url: 'https://en.wikipedia.org/wiki/Derek_Roddy' }
@@ -4534,8 +4531,8 @@ Harrison's playing is characterized by intricate polyrhythmic patterns, masterfu
       sources: {
         title: 'Sources',
         items: [
-          { name: 'Sonor Drums Artist Profile', url: 'https://www.sonor.com/artists/' },
-          { name: 'Zildjian Artist Profile', url: 'https://zildjian.com/artists/gavin-harrison' },
+          { name: 'Sonor Drums Artist Profile', url: 'https://www.sonor.com/drums/artists' },
+          { name: 'Zildjian Artist Profile', url: 'https://zildjian.com/blogs/artist/gavin-harrison' },
           { name: 'Wikipedia: Gavin Harrison', url: 'https://en.wikipedia.org/wiki/Gavin_Harrison' },
           { name: 'Drumeo', url: 'https://www.drumeo.com' }
         ]
@@ -4663,7 +4660,7 @@ Cunningham's playing is characterized by creative, unconventional patterns that 
         title: 'Sources',
         items: [
           { name: 'Tama Drums', url: 'https://www.tama.com/usa/artists/' },
-          { name: 'Zildjian', url: 'https://zildjian.com/artists' },
+          { name: 'Zildjian Artist Profile', url: 'https://zildjian.com/blogs/artist/abe-cunningham' },
           { name: 'Wikipedia: Abe Cunningham', url: 'https://en.wikipedia.org/wiki/Abe_Cunningham' },
           { name: 'Deftones Official', url: 'https://www.deftones.com/' }
         ]
@@ -4788,7 +4785,6 @@ Christy's drumming on Death's final two albums—"The Sound of Perseverance" and
       sources: {
         title: 'Sources',
         items: [
-          { name: 'Death Official', url: 'https://death-band.com/' },
           { name: 'Wikipedia: Richard Christy', url: 'https://en.wikipedia.org/wiki/Richard_Christy' },
           { name: 'Modern Drummer Magazine', url: 'https://www.moderndrummer.com' },
           { name: 'Blabbermouth', url: 'https://www.blabbermouth.net' }
@@ -5304,7 +5300,7 @@ Weinberg's career spans diverse genres: from substituting for his father with Br
         title: 'Sources',
         items: [
           { name: 'SJC Custom Drums', url: 'https://sjcdrums.com' },
-          { name: 'Zildjian Artist Profile', url: 'https://zildjian.com/artists' },
+          { name: 'Zildjian Artist Profile', url: 'https://zildjian.com/blogs/artist/jay-weinberg' },
           { name: 'Modern Drummer Magazine', url: 'https://www.moderndrummer.com' },
           { name: 'Wikipedia: Jay Weinberg', url: 'https://en.wikipedia.org/wiki/Jay_Weinberg' }
         ]
@@ -5566,7 +5562,7 @@ Beyond his drumming, Benante is Anthrax's main composer and a talented graphic a
         items: [
           { name: 'Tama Drums Artist Profile', url: 'https://www.tama.com' },
           { name: 'Paiste Artist Profile', url: 'https://www.paiste.com/en/musicians/charlie-benante' },
-          { name: 'Vic Firth Artist Profile', url: 'https://vicfirth.com/artists/charlie-benante' },
+          { name: 'Vic Firth Artist Profile', url: 'https://vicfirth.com/blogs/artist/charlie-benante-vf' },
           { name: 'Wikipedia: Charlie Benante', url: 'https://en.wikipedia.org/wiki/Charlie_Benante' }
         ]
       }
@@ -6084,7 +6080,7 @@ Inferno's drumming combines blistering speed with surgical precision, delivering
           { name: 'Paiste Cymbals', url: 'https://www.paiste.com' },
           { name: 'Behemoth Official', url: 'https://behemoth.pl' },
           { name: 'Wikipedia: Inferno (musician)', url: 'https://en.wikipedia.org/wiki/Inferno_(musician)' },
-          { name: 'Demigod Drum Setup (2004)', url: '/articles/demigod-drum-setup' }
+          { name: 'Demigod Drum Setup (2004)', url: 'https://metalforge.io/articles/demigod-drum-setup' }
         ]
       }
     }
@@ -6467,7 +6463,6 @@ Bittner rose to prominence with Shadows Fall during the early 2000s metalcore ex
         items: [
           { name: 'Mapex Drums', url: 'https://www.mapexdrums.com' },
           { name: 'Paiste', url: 'https://www.paiste.com' },
-          { name: 'Overkill Official', url: 'https://wrfreccords.com/overkill' },
           { name: 'Wikipedia: Jason Bittner', url: 'https://en.wikipedia.org/wiki/Jason_Bittner' }
         ]
       }
@@ -6724,8 +6719,7 @@ Orbin's technical prowess, creative use of polyrhythms, and ability to navigate 
         items: [
           { name: 'Travis Orbin YouTube', url: 'https://www.youtube.com/@TravisOrbin' },
           { name: 'Meinl Cymbals', url: 'https://meinlcymbals.com' },
-          { name: 'Modern Drummer Magazine', url: 'https://www.moderndrummer.com' },
-          { name: 'Wikipedia: Travis Orbin', url: 'https://en.wikipedia.org/wiki/Travis_Orbin' }
+          { name: 'Modern Drummer Magazine', url: 'https://www.moderndrummer.com' }
         ]
       }
     }

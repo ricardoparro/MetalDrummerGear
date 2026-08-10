@@ -8088,12 +8088,12 @@ Bent's background in technical death metal—with bands like Brain Drill, Arkaik
         content: `Alex Bent used a combination of acoustic and electronic elements for Trivium's live and studio work, designed for technical precision and arena-level power.
 
 **Trivium Era Setup:**
-- **Drums**: Various high-end kits
-- **Snare**: 14"x6.5" for attack and projection
-- **Cymbals**: Sabian or Zildjian (various series)
-- **Hardware**: Axis Percussion double pedal
-- **Sticks**: Various 5B
-- **Heads**: Remo or Evans
+- **Drums**: Pearl Reference Pure Series
+- **Snare**: Pearl Reference 14"x5" Brass for a bright, cutting attack
+- **Cymbals**: Zildjian K Custom Hybrid (14" Hi-Hats, 18" & 19" Crashes, 21" Ride) with an 18" A Custom China
+- **Hardware**: Axis A Longboard double pedals on a Pearl D-3000 throne
+- **Sticks**: Vic Firth American Classic 5B
+- **Heads**: Remo
 
 **Technical Specifications:**
 - Axis pedals favored for speed and precision

@@ -1,0 +1,36 @@
+{
+  "generatedAt": "2026-08-10T08:29:09.264Z",
+  "windowDays": 90,
+  "totalDomains": 5,
+  "newDomainsThisRun": [
+    "ca.search.yahoo.com"
+  ],
+  "domains": [
+    {
+      "domain": "m.facebook.com",
+      "sessions": 8,
+      "users": 1
+    },
+    {
+      "domain": "ca.search.yahoo.com",
+      "sessions": 1,
+      "users": 1
+    },
+    {
+      "domain": "facebook.com",
+      "sessions": 1,
+      "users": 1
+    },
+    {
+      "domain": "mx.search.yahoo.com",
+      "sessions": 1,
+      "users": 1
+    },
+    {
+      "domain": "uk.search.yahoo.com",
+      "sessions": 1,
+      "users": 1
+    }
+  ],
+  "prevSnapshotFile": "2026-08-03.json"
+}

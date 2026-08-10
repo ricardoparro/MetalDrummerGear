@@ -55,7 +55,7 @@ import { CURATED_MATCHUPS } from '../../packages/frontend/data/battles.js';
 import { SIGNATURE_GEAR } from '../../packages/frontend/data/signatureGear.js';
 // Issue #4883: /drummer/<slug>/<category> pages — curated FAQ/schema module the
 // frontend (App.js) already renders for real visitors; bot-facing SSR shell was missing it.
-import { generateFAQItems, isValidCategory } from '../../packages/frontend/data/gearCategoryPages.js';
+import { generateFAQItems, isValidCategory, getGearForCategory, DRUMMER_GEAR_CATEGORIES } from '../../packages/frontend/data/gearCategoryPages.js';
 // Issue #1522: Quotation + ItemList JSON-LD for /quotes page.
 import { getAllQuotes } from '../quotes-data.js';
 // Issue #1794: genre gear guide pages — /guides/best-[gear]-for-[genre]
@@ -5975,7 +5975,14 @@ export function getMetaForPath(pathname) {
         image: `${BASE_URL}/api/card/${slug}?format=twitter`,
         type: 'profile',
         url: `${BASE_URL}/drummer/${slug}`,
+        // Issue #5479: link the profile bot-shell into this drummer's own
+        // gear-category subpages (inbound side of #4699's outbound links) —
+        // only categories with real data, mirrors the DRUMMER_EVOLUTION check below.
         ssrLinks: _dedupeSsrLinksByHref([
+          ...DRUMMER_GEAR_CATEGORIES.filter(cat => getGearForCategory(drummer, cat)).map(cat => ({
+            href: `/drummer/${slug}/${cat}`,
+            label: `${drummer.name} ${cat.charAt(0).toUpperCase() + cat.slice(1)}`,
+          })),
           ...(relatedArticles.length > 0 ? relatedArticles.map(a => ({
             href: `/articles/${a.slug}`,
             label: a.title,

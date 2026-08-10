@@ -2734,7 +2734,7 @@ Garstka joined Animals as Leaders after the departure of original drummer Navene
         title: 'Sources',
         items: [
           { name: 'Pearl Drums Artist Profile', url: 'https://pearldrum.com' },
-          { name: 'Meinl Cymbals Artist Profile', url: 'https://meinlcymbals.com/en/artists/matt-garstka' },
+          { name: 'Meinl Cymbals Artist Profile', url: 'https://meinlcymbals.com/en/artists/matt-garstka-a1430.html' },
           { name: 'Vic Firth Artist Profile', url: 'https://vicfirth.com/blogs/artist/matt-garstka-vf' },
           { name: 'Wikipedia: Matt Garstka', url: 'https://en.wikipedia.org/wiki/Matt_Garstka' }
         ]
@@ -3133,7 +3133,7 @@ Grossmann first gained international recognition as the drummer for Necrophagist
         title: 'Sources',
         items: [
           { name: 'Tama Drums', url: 'https://www.tama.com' },
-          { name: 'Meinl Cymbals', url: 'https://meinl.com' },
+          { name: 'Meinl Cymbals Artist Profile', url: 'https://meinlcymbals.com/en/artists' },
           { name: 'Obscura Official', url: 'https://www.facebook.com/obscaboreal/' },
           { name: 'Wikipedia: Hannes Grossmann', url: 'https://en.wikipedia.org/wiki/Hannes_Grossmann' }
         ]
@@ -4918,7 +4918,7 @@ Priester is considered one of the greatest power metal drummers in the world. Hi
         title: 'Sources',
         items: [
           { name: 'Pearl Drums', url: 'https://pearldrum.com' },
-          { name: 'ProMark', url: 'https://promark.com' },
+          { name: 'ProMark Artist Profile (D\'Addario)', url: 'https://www.daddario.com/pages/artists/aquiles-priester' },
           { name: 'Wikipedia: Aquiles Priester', url: 'https://en.wikipedia.org/wiki/Aquiles_Priester' },
           { name: 'Angra Official', url: 'https://www.angra.net/' },
           { name: 'Complete Drum Setup Guide', url: 'https://metalforge.io/articles/aquiles-priester-drum-setup' }
@@ -5696,7 +5696,7 @@ Dailor's drumming is characterized by constant motion—intricate fills that wea
       sources: {
         title: 'Sources',
         items: [
-          { name: 'Meinl Cymbals Artist Profile', url: 'https://meinlcymbals.com/en/artists/brann-dailor' },
+          { name: 'Meinl Cymbals Artist Profile', url: 'https://meinlcymbals.com/en/artists/brann-dailor-a1107.html' },
           { name: 'Modern Drummer Magazine', url: 'https://www.moderndrummer.com' },
           { name: 'Wikipedia: Brann Dailor', url: 'https://en.wikipedia.org/wiki/Brann_Dailor' }
         ]
@@ -5826,7 +5826,7 @@ Adler's drumming is characterized by powerful groove-based patterns, creative us
         title: 'Sources',
         items: [
           { name: 'Mapex Drums', url: 'https://www.mapexdrums.com' },
-          { name: 'Meinl Cymbals Artist Profile', url: 'https://meinlcymbals.com' },
+          { name: 'Meinl Cymbals Artist Profile', url: 'https://meinlcymbals.com/en/artists/chris-adler-a1243.html' },
           { name: 'Promark Drumsticks', url: 'https://www.daddario.com/promark/' },
           { name: 'Wikipedia: Chris Adler', url: 'https://en.wikipedia.org/wiki/Chris_Adler' }
         ]
@@ -5952,7 +5952,7 @@ A graduate of Berklee College of Music, Halpern brings academic rigor to his dru
         title: 'Sources',
         items: [
           { name: 'Pearl Drums', url: 'https://pearldrum.com' },
-          { name: 'Meinl Cymbals Artist Profile', url: 'https://meinlcymbals.com/en/artists/matt-halpern' },
+          { name: 'Meinl Cymbals Artist Profile', url: 'https://meinlcymbals.com/en/artists/matt-halpern-a1523.html' },
           { name: 'Drumeo', url: 'https://www.drumeo.com' },
           { name: 'Wikipedia: Matt Halpern', url: 'https://en.wikipedia.org/wiki/Matt_Halpern' }
         ]
@@ -8000,7 +8000,7 @@ Beyond his drumming career, Koperweis is a prolific producer and electronic arti
       sources: {
         title: 'Sources',
         items: [
-          { name: 'Meinl Cymbals Artist Profile', url: 'https://meinlcymbals.com/artists/navene-koperweis' },
+          { name: 'Meinl Cymbals Artist Profile', url: 'https://meinlcymbals.com/en/artists/navene-koperweis-a12226.html' },
           { name: 'MetalSucks', url: 'https://www.metalsucks.net' },
           { name: 'Modern Drummer', url: 'https://www.moderndrummer.com' },
           { name: 'Wikipedia: Navene Koperweis', url: 'https://en.wikipedia.org/wiki/Navene_Koperweis' }

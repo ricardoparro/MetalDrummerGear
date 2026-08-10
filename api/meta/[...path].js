@@ -7956,6 +7956,13 @@ export function generateMetaHtml(meta, originalUrl) {
         </tbody>
       </table>
     </section>`).join('') : ''}
+    ${meta.faqSchema && meta.faqSchema.length > 0 ? `
+    <section>
+      <h2>Frequently Asked Questions</h2>
+      ${meta.faqSchema.map(item => `
+      <h3>${escapeHtml(item.question)}</h3>
+      <p>${escapeHtml(item.answer)}</p>`).join('')}
+    </section>` : ''}
     ${meta.ssrLinks && meta.ssrLinks.length > 0 ? `
     <nav aria-label="Gear Deep Dives &amp; Articles">
       <h2>Gear Deep Dives &amp; Articles</h2>

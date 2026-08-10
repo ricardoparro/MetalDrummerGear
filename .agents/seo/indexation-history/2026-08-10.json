@@ -1,0 +1,3341 @@
+{
+  "generatedAt": "2026-08-10T09:55:26.479Z",
+  "site": "https://metalforge.io/",
+  "sitemapUrlCount": 3180,
+  "inspectedCount": 500,
+  "sentinelCount": 250,
+  "rotationCursor": 1000,
+  "earningPages": {
+    "windowDays": 90,
+    "totalPages": 2041,
+    "inSitemap": 1601,
+    "sitemapUrlCount": 3180
+  },
+  "byUrl": {
+    "https://metalforge.io/": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-05T10:14:25Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/bpm": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-03T10:52:37Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guess-the-kit": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-01T19:25:22Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/beginner-metal-drummer-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-01T07:56:43Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-bass-drum-pedals-for-black-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T10:25:28Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-bass-drum-pedals-for-death-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T12:24:26Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-bass-drum-pedals-for-deathcore": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:31:01Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-bass-drum-pedals-for-djent": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T23:15:55Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-bass-drum-pedals-for-doom-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:30:22Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-bass-drum-pedals-for-extreme-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:23:43Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-bass-drum-pedals-for-groove-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T08:12:01Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-bass-drum-pedals-for-mathcore": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T12:28:43Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-bass-drum-pedals-for-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T12:43:24Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-bass-drum-pedals-for-metalcore": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T10:15:44Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-bass-drum-pedals-for-nu-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-09T09:26:12Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-bass-drum-pedals-for-post-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-08T10:08:42Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-bass-drum-pedals-for-power-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T10:59:26Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-bass-drum-pedals-for-progressive-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T15:09:59Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-bass-drum-pedals-for-sludge-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T12:21:34Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-bass-drum-pedals-for-symphonic-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T12:36:13Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-bass-drum-pedals-for-technical-death-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T06:54:35Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-bass-drum-pedals-for-thrash-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T12:21:19Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-bass-drums-for-black-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:20:13Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-bass-drums-for-death-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:17:54Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-bass-drums-for-deathcore": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-08T12:57:31Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-bass-drums-for-djent": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T08:12:46Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-bass-drums-for-doom-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:26:31Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-bass-drums-for-extreme-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T18:17:37Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-bass-drums-for-groove-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-06T04:01:02Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-bass-drums-for-mathcore": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T05:59:31Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-bass-drums-for-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T08:06:54Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-bass-drums-for-metalcore": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T15:27:39Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-bass-drums-for-nu-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:16:18Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-bass-drums-for-post-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T15:42:53Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-bass-drums-for-power-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T15:22:49Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-bass-drums-for-progressive-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T01:06:07Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-bass-drums-for-sludge-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T11:09:27Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-bass-drums-for-symphonic-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T12:25:49Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-bass-drums-for-technical-death-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-09T13:30:36Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-bass-drums-for-thrash-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:13:15Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-china-cymbals-for-black-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:21:42Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-china-cymbals-for-death-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T15:21:31Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-china-cymbals-for-deathcore": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T07:33:59Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-china-cymbals-for-djent": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-10T09:10:57Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-china-cymbals-for-doom-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T07:32:55Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-china-cymbals-for-extreme-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:20:05Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-china-cymbals-for-groove-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:30:32Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-china-cymbals-for-mathcore": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-china-cymbals-for-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T18:10:31Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-china-cymbals-for-metalcore": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:18:39Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-china-cymbals-for-nu-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T18:20:56Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-china-cymbals-for-post-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:58:55Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-china-cymbals-for-power-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T16:14:13Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-china-cymbals-for-progressive-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T12:09:37Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-china-cymbals-for-sludge-metal": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-china-cymbals-for-symphonic-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T11:50:15Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-china-cymbals-for-technical-death-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T10:23:02Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-china-cymbals-for-thrash-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T15:36:15Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-crash-cymbals-for-black-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:59:46Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-crash-cymbals-for-death-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T15:45:30Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-crash-cymbals-for-deathcore": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:30:23Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-crash-cymbals-for-djent": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T04:15:53Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-crash-cymbals-for-doom-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T05:04:36Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-crash-cymbals-for-extreme-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:30:40Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-crash-cymbals-for-groove-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T15:22:52Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-crash-cymbals-for-mathcore": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T15:08:14Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-crash-cymbals-for-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-09T14:49:58Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-crash-cymbals-for-metalcore": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-07T11:58:56Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-crash-cymbals-for-nu-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-14T21:50:36Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-crash-cymbals-for-post-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T12:23:27Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-crash-cymbals-for-power-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T08:06:53Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-crash-cymbals-for-progressive-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-08T13:20:59Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-crash-cymbals-for-sludge-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T10:58:32Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-crash-cymbals-for-symphonic-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T07:33:11Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-crash-cymbals-for-technical-death-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T12:24:29Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-crash-cymbals-for-thrash-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-09T12:23:22Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-cymbals-for-black-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-09T02:48:07Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-cymbals-for-death-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T17:01:22Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-cymbals-for-deathcore": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-31T21:47:49Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-cymbals-for-djent": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-14T13:06:21Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-cymbals-for-doom-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-14T13:10:31Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-cymbals-for-extreme-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:31:20Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-cymbals-for-groove-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-08T12:54:57Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-cymbals-for-mathcore": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-08T17:11:22Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-cymbals-for-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-27T03:54:45Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-cymbals-for-metalcore": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-11T10:23:18Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-cymbals-for-nu-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-07T22:50:12Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-cymbals-for-post-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:32:57Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-cymbals-for-power-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-08T15:27:46Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-cymbals-for-sludge-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T15:48:12Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-cymbals-for-symphonic-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T19:36:58Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-cymbals-for-technical-death-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:31:13Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-cymbals-for-thrash-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T15:35:23Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-hardware-for-black-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T17:47:12Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-hardware-for-death-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:57:27Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-hardware-for-deathcore": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:30:23Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-hardware-for-djent": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:17:34Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-hardware-for-doom-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:14:45Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-hardware-for-extreme-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:30:42Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-hardware-for-groove-metal": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-hardware-for-metal": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-02T13:06:11Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-hardware-for-metalcore": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:19:11Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-hardware-for-nu-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:12:04Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-hardware-for-post-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:32:07Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-hardware-for-power-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T10:15:23Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-hardware-for-progressive-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:31:19Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-hardware-for-sludge-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T15:11:44Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-hardware-for-symphonic-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T08:12:04Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-hardware-for-technical-death-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T15:28:24Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-hardware-for-thrash-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:12:32Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-heads-for-black-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-14T21:57:25Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-heads-for-death-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T12:08:59Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-heads-for-deathcore": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T07:27:12Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-heads-for-djent": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-08T20:11:53Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-heads-for-doom-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-08T22:27:47Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-heads-for-extreme-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-26T07:24:22Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-heads-for-groove-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T06:05:45Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-heads-for-mathcore": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T12:22:54Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-heads-for-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T17:58:39Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-heads-for-nu-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:36:05Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-heads-for-post-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T17:22:11Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-heads-for-power-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:23:00Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-heads-for-progressive-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T11:20:45Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-heads-for-sludge-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T07:35:54Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-heads-for-symphonic-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T11:14:20Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-heads-for-technical-death-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T06:05:28Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-heads-for-thrash-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T15:28:26Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-kits-for-black-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T14:47:32Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-kits-for-death-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T20:59:48Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-kits-for-deathcore": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-09T15:51:57Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-kits-for-djent": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T17:57:21Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-kits-for-doom-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T04:19:21Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-kits-for-extreme-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T10:53:45Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-kits-for-groove-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T12:33:24Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-kits-for-mathcore": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-08T07:48:04Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-kits-for-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T21:36:52Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-kits-for-metalcore": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-03T00:51:21Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-kits-for-post-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:35:03Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-kits-for-power-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-02T01:41:46Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-kits-for-progressive-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T04:23:45Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-kits-for-sludge-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T08:52:04Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-kits-for-symphonic-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T17:41:07Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-kits-for-technical-death-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-09T10:09:06Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-kits-for-thrash-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-10T01:35:13Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-modules-for-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T14:05:26Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-pedals-for-death-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-31T16:30:51Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-pedals-for-deathcore": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-09T14:20:21Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-pedals-for-djent": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-08T12:56:39Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-pedals-for-extreme-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T22:24:34Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-pedals-for-groove-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-07T10:25:13Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-pedals-for-metalcore": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-09T02:08:26Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-pedals-for-nu-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-08T10:13:27Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-pedals-for-post-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T23:17:51Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-pedals-for-power-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-09T02:55:34Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-pedals-for-progressive-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:32:05Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-pedals-for-sludge-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-17T12:38:00Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-pedals-for-symphonic-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T15:43:20Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-pedals-for-technical-death-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T15:28:28Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-pedals-for-thrash-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-08T17:24:14Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-shields-for-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-17T08:17:35Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-triggers-for-black-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-14T22:48:05Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-triggers-for-death-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-11T22:34:06Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-triggers-for-deathcore": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-09T05:05:04Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-triggers-for-djent": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T11:02:10Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-triggers-for-extreme-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T12:10:00Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-triggers-for-groove-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T22:36:13Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-triggers-for-mathcore": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T15:21:46Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-triggers-for-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-08T18:08:58Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-triggers-for-metalcore": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:14:48Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-triggers-for-nu-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-09T13:14:28Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-triggers-for-post-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T15:27:59Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-triggers-for-power-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:30:47Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-triggers-for-sludge-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T11:55:47Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-triggers-for-symphonic-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T10:19:52Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-triggers-for-technical-death-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T08:27:27Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-triggers-for-thrash-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T16:19:44Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drumsticks-for-black-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T08:06:58Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drumsticks-for-death-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T07:30:29Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drumsticks-for-deathcore": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T15:39:30Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drumsticks-for-djent": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T18:08:57Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drumsticks-for-doom-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T16:55:43Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drumsticks-for-extreme-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T11:08:15Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drumsticks-for-groove-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-09T19:33:46Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drumsticks-for-mathcore": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T15:06:51Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drumsticks-for-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T02:51:04Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drumsticks-for-metalcore": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T15:48:38Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drumsticks-for-nu-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:15:29Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drumsticks-for-post-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T22:26:16Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drumsticks-for-power-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T15:44:53Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drumsticks-for-progressive-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T15:49:49Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drumsticks-for-sludge-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T08:05:54Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drumsticks-for-technical-death-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:32:47Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drumsticks-for-thrash-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:14:44Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-electronic-drum-kits-for-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-09T09:29:31Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-hearing-protection-for-drummers": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T18:21:35Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-hi-hats-for-black-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T01:21:46Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-hi-hats-for-death-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-10T00:33:11Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-hi-hats-for-deathcore": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T19:17:35Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-hi-hats-for-djent": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T08:06:31Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-hi-hats-for-doom-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T15:27:41Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-hi-hats-for-extreme-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T11:17:59Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-hi-hats-for-groove-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T04:43:25Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-hi-hats-for-mathcore": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T15:13:37Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-hi-hats-for-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-03T05:42:24Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-hi-hats-for-metalcore": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-08T06:16:25Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-hi-hats-for-nu-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T08:06:23Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-hi-hats-for-power-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-09T08:11:18Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-hi-hats-for-progressive-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T12:28:21Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-hi-hats-for-sludge-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T12:02:25Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-hi-hats-for-symphonic-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:30:44Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-hi-hats-for-technical-death-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T15:50:31Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-hi-hats-for-thrash-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-09T13:05:57Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-in-ear-monitors-for-metal-drummers": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-07T12:51:33Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-metronomes-for-metal-drummers": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-16T13:20:57Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-practice-pads-for-metal-drummers": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-11T14:47:11Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-ride-cymbals-for-death-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T07:28:59Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-ride-cymbals-for-deathcore": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T08:07:34Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-ride-cymbals-for-djent": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T08:10:26Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-ride-cymbals-for-doom-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T11:14:24Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-ride-cymbals-for-extreme-metal": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-ride-cymbals-for-groove-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T08:25:39Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-ride-cymbals-for-mathcore": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T07:35:31Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-ride-cymbals-for-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-09T16:40:18Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-ride-cymbals-for-metalcore": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T08:48:39Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-ride-cymbals-for-nu-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:20:44Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-ride-cymbals-for-post-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T15:20:59Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-ride-cymbals-for-progressive-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T08:52:01Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-ride-cymbals-for-symphonic-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:31:35Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-ride-cymbals-for-technical-death-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-09T10:35:24Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-ride-cymbals-for-thrash-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T10:42:18Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-snare-drums-for-black-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-11T10:21:02Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-snare-drums-for-death-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-30T22:28:45Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-snare-drums-for-deathcore": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-01T00:48:07Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-snare-drums-for-djent": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-08T22:57:57Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/drummer/adrian-erlandsson/sticks": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T15:44:32Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/alex-bent/cymbals": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T23:52:28Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/alex-bent/drums": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T23:58:41Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/alex-bent/hardware": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/alex-bent/heads": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-14T04:04:35Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/alex-bent/pedals": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:31:15Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/alex-bent/snare": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T15:40:27Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/alex-bent/sticks": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T21:30:17Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/alex-rudinger/cymbals": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-27T12:53:08Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/alex-rudinger/drums": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-01T01:34:25Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/alex-rudinger/hardware": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-27T12:17:41Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/alex-rudinger/heads": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-28T21:40:38Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/alex-rudinger/pedals": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-27T13:13:42Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/alex-rudinger/snare": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-27T13:13:41Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/aquiles-priester/cymbals": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/aquiles-priester/drums": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/aquiles-priester/hardware": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/aquiles-priester/heads": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T15:50:05Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/aquiles-priester/pedals": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T15:47:24Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/aquiles-priester/snare": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/aquiles-priester/sticks": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-06T14:15:52Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/arin-ilejay/cymbals": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/arin-ilejay/drums": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/arin-ilejay/hardware": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/arin-ilejay/heads": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T12:01:08Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/arin-ilejay/pedals": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T08:11:04Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/arin-ilejay/snare": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/arin-ilejay/sticks": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-31T16:37:10Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/art-cruz/cymbals": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/art-cruz/drums": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/art-cruz/hardware": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-28T02:51:21Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/art-cruz/heads": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T15:30:00Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/art-cruz/pedals": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T12:34:48Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/art-cruz/snare": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/art-cruz/sticks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/ben-koller/cymbals": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/ben-koller/drums": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T14:19:42Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/ben-koller/hardware": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/ben-koller/heads": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T12:20:26Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/ben-koller/pedals": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T12:38:31Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/ben-koller/snare": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/ben-koller/sticks": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-28T01:46:15Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/bill-ward/cymbals": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-01T15:06:31Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/bill-ward/drums": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-01T09:06:04Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/bill-ward/hardware": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/bill-ward/heads": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T23:46:42Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/bill-ward/pedals": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T16:21:32Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/bill-ward/snare": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-09T23:43:07Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/bill-ward/sticks": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-28T01:50:28Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/blake-richardson/cymbals": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/blake-richardson/drums": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T23:54:12Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/blake-richardson/hardware": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/blake-richardson/heads": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-14T05:52:20Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/blake-richardson/pedals": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T08:48:08Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/blake-richardson/snare": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/blake-richardson/sticks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/brann-dailor/cymbals": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/brann-dailor/drums": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/brann-dailor/hardware": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/brann-dailor/pedals": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T10:42:58Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/brann-dailor/snare": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T23:19:36Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/brann-dailor/sticks": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-28T01:37:05Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/charlie-benante/cymbals": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/charlie-benante/drums": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/charlie-benante/hardware": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/charlie-benante/pedals": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:32:43Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/charlie-benante/snare": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/charlie-benante/sticks": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-28T01:50:05Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/chris-adler/cymbals": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T14:34:40Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/chris-adler/drums": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/chris-adler/hardware": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T22:24:13Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/chris-adler/pedals": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T12:26:25Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/chris-adler/snare": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T03:40:14Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/chris-adler/sticks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/chris-turner/cymbals": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/chris-turner/drums": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-28T00:12:41Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/chris-turner/hardware": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/chris-turner/heads": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T15:28:27Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/chris-turner/pedals": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T18:09:12Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/chris-turner/snare": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/chris-turner/sticks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/daniel-erlandsson/cymbals": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/daniel-erlandsson/drums": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/daniel-erlandsson/hardware": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/daniel-erlandsson/heads": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T15:18:51Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/daniel-erlandsson/pedals": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-17T01:54:50Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/daniel-erlandsson/snare": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-03T08:37:54Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/daniel-erlandsson/sticks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/danny-carey/cymbals": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/danny-carey/drums": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/danny-carey/hardware": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/danny-carey/pedals": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T15:20:00Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/danny-carey/snare": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/danny-carey/sticks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/daray/cymbals": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-28T01:47:16Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/daray/drums": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/daray/hardware": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T04:34:09Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/daray/heads": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T23:35:25Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/daray/pedals": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:16:20Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/daray/snare": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T16:37:27Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/daray/sticks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/dave-lombardo/cymbals": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T16:55:00Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/dave-lombardo/drums": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/dave-lombardo/hardware": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/dave-lombardo/pedals": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T12:24:27Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/dave-lombardo/snare": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T15:39:27Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/dave-lombardo/sticks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/derek-roddy/cymbals": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T23:55:13Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/derek-roddy/drums": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-07T03:36:32Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/derek-roddy/hardware": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/derek-roddy/heads": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T18:38:49Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/derek-roddy/pedals": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T22:30:13Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/derek-roddy/snare": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/derek-roddy/sticks": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T11:27:42Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/dirk-verbeuren/cymbals": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/dirk-verbeuren/drums": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/dirk-verbeuren/hardware": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/dirk-verbeuren/heads": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T18:45:59Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/dirk-verbeuren/pedals": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T15:25:35Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/dirk-verbeuren/snare": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/dirk-verbeuren/sticks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/eloy-casagrande/cymbals": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/eloy-casagrande/drums": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/eloy-casagrande/heads": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T15:48:39Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/eloy-casagrande/pedals": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T22:36:08Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/eloy-casagrande/snare": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/eloy-casagrande/sticks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/flo-mounier/cymbals": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T23:26:34Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/flo-mounier/drums": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T10:35:58Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/flo-mounier/hardware": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/flo-mounier/heads": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T15:47:31Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/flo-mounier/pedals": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T15:30:20Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/flo-mounier/snare": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T10:44:03Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/flo-mounier/sticks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/frost/cymbals": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/frost/drums": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-14T15:55:48Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/frost/hardware": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T17:42:48Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/frost/heads": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T17:14:11Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/frost/pedals": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T11:02:47Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/frost/snare": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-06T17:36:35Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/frost/sticks": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T00:59:48Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/gavin-harrison/cymbals": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-07T04:02:42Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/gavin-harrison/drums": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T22:04:05Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/gavin-harrison/hardware": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-28T15:34:24Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/gavin-harrison/heads": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T12:30:50Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/gavin-harrison/pedals": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T10:24:38Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/gavin-harrison/snare": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/gavin-harrison/sticks": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T03:21:07Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/gene-hoglan/cymbals": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/gene-hoglan/drums": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/gene-hoglan/hardware": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/gene-hoglan/heads": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:16:37Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/gene-hoglan/pedals": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T08:14:40Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/gene-hoglan/snare": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/gene-hoglan/sticks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/george-kollias/cymbals": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/george-kollias/drums": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T20:46:59Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/george-kollias/hardware": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-28T00:41:57Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/george-kollias/heads": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:20:04Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/george-kollias/pedals": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:45:26Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/george-kollias/snare": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/george-kollias/sticks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/hannes-grossmann/cymbals": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/hannes-grossmann/drums": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T12:24:52Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/hannes-grossmann/hardware": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/hannes-grossmann/heads": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:40:23Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/hannes-grossmann/pedals": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T10:30:13Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/hannes-grossmann/snare": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/hannes-grossmann/sticks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/hellhammer/cymbals": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T21:33:06Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/hellhammer/drums": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/hellhammer/hardware": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/hellhammer/pedals": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T12:29:55Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/hellhammer/snare": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/hellhammer/sticks": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T19:32:05Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/igor-cavalera/cymbals": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/igor-cavalera/drums": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-28T03:06:06Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/igor-cavalera/hardware": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-06T14:28:25Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/igor-cavalera/heads": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T10:27:13Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/igor-cavalera/pedals": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T10:22:45Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/igor-cavalera/snare": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/igor-cavalera/sticks": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T14:16:32Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/inferno/cymbals": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/inferno/drums": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/inferno/hardware": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/inferno/pedals": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:40:29Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/inferno/sticks": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T15:08:02Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/isaac-lamb/cymbals": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T15:47:39Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/isaac-lamb/drums": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/isaac-lamb/hardware": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-30T02:20:06Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/isaac-lamb/heads": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:32:52Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/isaac-lamb/snare": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/isaac-lamb/sticks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/jaska-raatikainen/cymbals": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/jaska-raatikainen/drums": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-28T00:03:44Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/jaska-raatikainen/hardware": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/jaska-raatikainen/pedals": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T16:31:48Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/jaska-raatikainen/snare": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/jaska-raatikainen/sticks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/jason-bittner/cymbals": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/jason-bittner/drums": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-10T04:32:16Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/jason-bittner/hardware": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/jason-bittner/heads": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T15:43:14Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/jason-bittner/pedals": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T15:39:40Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/jason-bittner/snare": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/jason-bittner/sticks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/jay-weinberg/cymbals": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/jay-weinberg/hardware": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T00:03:28Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/jay-weinberg/heads": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T12:05:33Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/jay-weinberg/pedals": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:08:49Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/jay-weinberg/snare": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/jimmy-degrasso/cymbals": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-29T03:46:10Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/jimmy-degrasso/drums": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-29T01:54:05Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/jimmy-degrasso/snare": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-27T13:07:32Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/jimmy-degrasso/sticks": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-27T13:05:26Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/jocke-wallgren/cymbals": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-30T11:24:49Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/jocke-wallgren/drums": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/jocke-wallgren/hardware": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/jocke-wallgren/heads": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/jocke-wallgren/snare": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T00:13:21Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/joey-jordison/cymbals": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T18:28:41Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/joey-jordison/drums": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/joey-jordison/hardware": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/joey-jordison/heads": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T15:40:02Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/joey-jordison/pedals": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T08:55:24Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/joey-jordison/snare": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/joey-jordison/sticks": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-24T22:01:33Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/john-longstreth/cymbals": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-28T23:27:25Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/john-longstreth/drums": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-27T13:03:16Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/john-longstreth/hardware": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-29T02:53:07Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/john-longstreth/pedals": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-27T13:13:40Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/john-longstreth/sticks": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-27T13:13:41Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/john-otto/cymbals": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-30T20:19:26Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/john-otto/drums": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-16T01:22:47Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/john-otto/hardware": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/john-otto/pedals": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T19:18:35Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/john-otto/snare": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-28T07:18:55Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/john-otto/sticks": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-28T00:00:54Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/jon-dette/cymbals": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T06:54:49Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/jon-dette/drums": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T09:57:08Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummer/jon-dette/hardware": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T03:00:23Z",
+      "group": "rotating"
+    }
+  }
+}

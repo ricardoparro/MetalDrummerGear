@@ -2437,7 +2437,7 @@ const drummers = [
     country: 'UK',
     image: '/images/drummers/nicko-mcbrain.webp',
     bio: 'Nicko McBrain (born Michael Henry McBrain in 1952) is an English drummer best known as the longtime drummer of Iron Maiden since 1982. With his distinctive galloping style, intricate hi-hat work, and powerful single bass drum technique, Nicko has been instrumental in defining Iron Maiden\'s signature sound. Before joining Maiden, he played with Trust and Pat Travers Band. His drumming on classic albums like "Powerslave," "Somewhere in Time," and "Seventh Son of a Seventh Son" showcases his ability to combine speed, precision, and musicality. Notable for refusing to use a double bass pedal, Nicko achieves remarkable speed with a single pedal technique.',
-    kitOverview: 'Nicko McBrain plays a Sonor SQ2 Series drum kit — the premium German-engineered setup he has refined into one of heavy metal\'s most recognizable drum sets, powering Iron Maiden\'s galloping rhythms through four decades of arena touring. The cornerstone of the Nicko McBrain drum set is his Sonor Nicko McBrain Signature snare (14×6.5"), delivering the warm, authoritative crack that drives Iron Maiden\'s twin-guitar arrangements with the presence needed for the band\'s massive live productions.\n\nPaiste 2002 and Signature Series cymbals define the tonal character of the Nicko McBrain drum kit: 14" Sound Edge Hi-Hats for the precisely articulated patterns central to Iron Maiden\'s gallop rhythm; 16" and 18" Power Crashes for explosive accents; a 22" Power Ride for rhythmic clarity across marathon live sets; and a 20" China for aggressive punctuation on section transitions. Vic Firth Nicko McBrain Signature sticks and Remo Emperor drumheads complete the rig. What defines the Nicko McBrain drum set above all else is its single bass drum pedal — no double bass, no second kick drum. His legendary single-pedal technique, proven on landmark albums including Piece of Mind (1983), Powerslave (1984), and Somewhere in Time (1986), achieves the galloping power most metal drummers require double-bass setups to match.',
+    kitOverview: 'Nicko McBrain plays a British Drum Co. drum kit — the setup he has refined into one of heavy metal\'s most recognizable drum sets, powering Iron Maiden\'s galloping rhythms through four decades of arena touring. The cornerstone of the Nicko McBrain drum set is his signature snare (14×6.5"), delivering the warm, authoritative crack that drives Iron Maiden\'s twin-guitar arrangements with the presence needed for the band\'s massive live productions.\n\nPaiste 2002 and Signature Series cymbals define the tonal character of the Nicko McBrain drum kit: 14" Sound Edge Hi-Hats for the precisely articulated patterns central to Iron Maiden\'s gallop rhythm; 16" and 18" Power Crashes for explosive accents; a 22" Power Ride for rhythmic clarity across marathon live sets; and a 20" China for aggressive punctuation on section transitions. Vic Firth Nicko McBrain Signature sticks and Remo Emperor drumheads complete the rig. What defines the Nicko McBrain drum set above all else is its single bass drum pedal — no double bass, no second kick drum. His legendary single-pedal technique, proven on landmark albums including Piece of Mind (1983), Powerslave (1984), and Somewhere in Time (1986), achieves the galloping power most metal drummers require double-bass setups to match.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Nicko_McBrain',
       'https://www.instagram.com/nicaboricua/',
@@ -2445,20 +2445,20 @@ const drummers = [
       'https://www.allmusic.com/artist/nicko-mcbrain-mn0000850059'
     ],
     gear: {
-      drums: 'Sonor SQ2 Series',
-      snare: 'Sonor Nicko McBrain Signature 14x6.5"',
+      drums: 'British Drum Co.',
+      snare: 'Nicko McBrain Signature 14x6.5"',
       cymbals: 'Paiste 2002 & Signature Series (14" Sound Edge Hi-Hats, 16" & 18" Power Crashes, 22" Power Ride, 20" China)',
-      hardware: 'Sonor 600 Series Hardware, Single Bass Drum Pedal',
+      hardware: 'Single Bass Drum Pedal',
       sticks: 'Vic Firth Nicko McBrain Signature',
       heads: 'Remo Emperor',
       verified: true,
-      sources: ['https://www.sonor.com/artists/', 'https://www.paiste.com/en/musicians/nicko-mcbrain']
+      sources: ['https://www.britishdrumco.com/artists/nicko-mcbrain', 'https://www.paiste.com/en/musicians/nicko-mcbrain']
     },
     photos: [
       '/images/drummers/nicko-mcbrain.webp' // Original: https://upload.wikimedia.org/wikipedia/commons/a/a9/Nicko_McBrain_2.jpg
     ],
     endorsements: [
-      { name: 'Sonor Drums', url: 'https://www.sonor.com' },
+      { name: 'British Drum Co. Artist Profile', url: 'https://www.britishdrumco.com/artists/nicko-mcbrain' },
       { name: 'Paiste Cymbals', url: 'https://www.paiste.com' },
       { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
       { name: 'Remo Drumheads', url: 'https://remo.com' }

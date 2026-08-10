@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-10 09:27 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-10 14:13 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 170 |
-| Sessions | 192 |
-| Page views | 261 |
-| Engagement rate | 54.17% |
-| Avg session (s) | 121 |
+| Active users | 173 |
+| Sessions | 198 |
+| Page views | 271 |
+| Engagement rate | 52.53% |
+| Avg session (s) | 134 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -23,7 +23,7 @@
 | /drummer/gene-hoglan | 5 | 1 |
 | /articles/damnation-drum-setup | 4 | 1 |
 | /drummer/gavin-harrison | 4 | 3 |
-| /drummer/matt-greiner | 4 | 4 |
+| /drummer/matt-greiner | 4 | 5 |
 | /articles/images-and-words-drum-setup | 3 | 2 |
 | /drummer/ben-koller | 3 | 2 |
 | /drummer/danny-carey | 3 | 2 |
@@ -31,22 +31,22 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 163 | 145 |
-| Unassigned | 36 | 31 |
+| Organic Search | 168 | 147 |
+| Unassigned | 39 | 34 |
 | Direct | 20 | 18 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 68 | 64 |
+| United States | 69 | 65 |
 | United Kingdom | 13 | 9 |
+| France | 11 | 7 |
 | Canada | 8 | 6 |
-| France | 8 | 7 |
 | Germany | 8 | 8 |
 | Spain | 7 | 6 |
+| Sweden | 7 | 7 |
+| Australia | 6 | 5 |
 | Netherlands | 6 | 6 |
-| Sweden | 6 | 6 |
-| Australia | 5 | 4 |
 | Mexico | 5 | 5 |
 
 ## Search Console — Search performance

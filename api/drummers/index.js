@@ -2532,7 +2532,7 @@ const drummers = [
     country: 'Sweden',
     image: '/images/drummers/mikkey-dee.webp',
     bio: 'Mikkey Dee (born Micael Kiriakos Delaoglou in 1963) is a Swedish drummer best known for his work with Motörhead (1992-2015) and currently with Scorpions (since 2016). Before Motörhead, he played with King Diamond and Don Dokken. His powerful, hard-hitting style and incredible stamina made him the perfect drummer for Lemmy Kilmister\'s relentless rock \'n\' roll machine. After Lemmy\'s death, Mikkey joined Scorpions, bringing his thunderous drumming to classic rock anthems. Known for his aggressive approach and incredible live performances, Mikkey is one of the most respected drummers in hard rock and metal.',
-    kitOverview: 'Mikkey Dee plays a Yamaha Recording Custom drum kit — a birch-shell workhorse prized for its punchy low end and fast attack, qualities that carried him through decades of Motörhead\'s breakneck rock \'n\' roll and now anchor Scorpions\' arena-sized classics. At the center of the Mikkey Dee drum set is his own Yamaha signature 14x8" snare, a deep, thick-shelled model built to cut through Lemmy Kilmister\'s wall of bass on anthems like "Ace of Spades" without ever sounding thin live.\n\nZildjian A Custom and K Series cymbals round out the Mikkey Dee drum kit: 14" A Custom Hi-Hats for tight, driving eighth-note patterns; 18" and 19" A Custom Crashes for the big accents his hard-rock phrasing demands; a 22" K Custom Ride for steady time-keeping through extended Scorpions sets; and a 20" Oriental China for explosive crash-china flourishes. Twin Yamaha FP9 pedals give him the stamina to power through Motörhead-style relentless quarter-note kick patterns night after night, while Vic Firth\'s Mikkey Dee signature sticks — sized for maximum impact — and Remo heads complete a setup engineered purely for hard-hitting, high-volume rock drumming.',
+    kitOverview: 'Mikkey Dee plays a Sonor SQ2 drum kit — a birch-shell custom-build platform prized for its punchy low end and fast attack, qualities that carried him through decades of Motörhead\'s breakneck rock \'n\' roll and now anchor Scorpions\' arena-sized classics. At the center of the Mikkey Dee drum set is his own Sonor signature 14x7.25" birch snare, a deep, thick-shelled model built to cut through Lemmy Kilmister\'s wall of bass on anthems like "Ace of Spades" without ever sounding thin live.\n\nPaiste Signature cymbals round out the Mikkey Dee drum kit: a 14" Sound Edge Hi-Hats for tight, driving eighth-note patterns; 19" and 20" Power Crashes for the big accents his hard-rock phrasing demands; a 22" Power Ride for steady time-keeping through extended Scorpions sets; and an 18" Heavy China for explosive crash-china flourishes. A DW 5000 Series pedal gives him the stamina to power through Motörhead-style relentless quarter-note kick patterns night after night, while Wincent\'s Mikkey Dee signature sticks — sized for maximum impact — and Evans heads complete a setup engineered purely for hard-hitting, high-volume rock drumming.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Mikkey_Dee',
       'https://www.instagram.com/theofficialmikkeydee/',
@@ -2540,23 +2540,23 @@ const drummers = [
       'https://www.allmusic.com/artist/mikkey-dee-mn0000846668'
     ],
     gear: {
-      drums: 'Yamaha Recording Custom',
-      snare: 'Yamaha Mikkey Dee Signature 14x8"',
-      cymbals: 'Zildjian A Custom & K Series (14" A Custom Hi-Hats, 18" & 19" A Custom Crashes, 22" K Custom Ride, 20" Oriental China)',
-      hardware: 'Yamaha FP9 Double Pedal, Yamaha Hardware',
+      drums: 'Sonor SQ2',
+      snare: 'Sonor Mikkey Dee Signature 14x7.25" Birch',
+      cymbals: 'Paiste Signature Series (14" Sound Edge Hi-Hats, 19" & 20" Power Crashes, 22" Power Ride, 18" Heavy China)',
+      hardware: 'DW 5000 Series Pedal, Sonor Hardware',
       sticks: 'Wincent Mikkey Dee Signature (W-MDS)',
-      heads: 'Remo',
+      heads: 'Evans',
       verified: true,
-      sources: ['https://europe.yamaha.com/en/artists/drums/mikkey-dee/', 'https://zildjian.com/artists']
+      sources: ['https://www.sonor.com/drums/artists/artists-detail/mikkey-dee', 'https://www.paiste.com/en/musicians/mikkey-dee', 'https://www.moderndrummer.com/article/mikkey-dees-scorpions-2022-vegas-residency-kit/']
     },
     photos: [
       '/images/drummers/mikkey-dee.webp' // Original: https://upload.wikimedia.org/wikipedia/commons/b/bb/Mikkey_Dee_%28PK%29_%E2%80%93_Wacken_Open_Air_2015_02.jpg
     ],
     endorsements: [
-      { name: 'Yamaha Drums', url: 'https://www.yamaha.com' },
-      { name: 'Zildjian Cymbals', url: 'https://zildjian.com' },
-      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
-      { name: 'Remo Drumheads', url: 'https://remo.com' }
+      { name: 'Sonor Drums', url: 'https://www.sonor.com' },
+      { name: 'Paiste Cymbals', url: 'https://www.paiste.com' },
+      { name: 'Wincent Drumsticks', url: 'https://wincentdrumsticks.com' },
+      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
     ],
     videos: [
       { title: 'Motörhead - Ace of Spades (Official Video)', youtubeId: 'e7kJRGPgvRQ', year: 1980 },
@@ -2629,7 +2629,7 @@ const drummers = [
     country: 'Belgium',
     image: '/images/drummers/dirk-verbeuren.webp',
     bio: 'Dirk Verbeuren (born 1975) is a Belgian drummer who has been the drummer for Megadeth since 2016. Before joining Megadeth, he was best known for his work with Swedish melodic death metal band Soilwork from 1998 to 2016. His precise, powerful playing combines European metal sensibilities with American thrash aggression. Verbeuren\'s technical abilities, double bass precision, and dynamic range have been praised by critics and fans alike. He has also performed with Devin Townsend, Scarve, and various other metal projects.',
-    kitOverview: 'Dirk Verbeuren plays a Tama Starclassic Walnut/Birch drum kit — a hybrid shell combination chosen for the tight low end and articulate attack needed to anchor Megadeth\'s thrash riffing while still translating the melodic death metal groove he built over eighteen years with Soilwork. The heart of the Dirk Verbeuren drum set is a Tama S.L.P. Big Black Steel 14x6.5" snare, a dark, aggressive-sounding steel shell that gives tracks like "Tornado of Souls" and "The Conjuring" their sharp, cutting backbeat live.\n\nZildjian A Custom and K Custom cymbals shape the tonal palette of the Dirk Verbeuren drum kit: 14" A Custom Hi-Hats for crisp, controlled chops during rapid thrash picking patterns; 17", 18", and 19" A Custom Crashes stacked for layered accents; a 21" K Custom Hybrid Ride for definition through Megadeth\'s technical arrangements; and an 18" K China for abrupt punctuation. Tama Speed Cobra 910 double pedals deliver the fast, even double-bass runs heard throughout his Soilwork catalog and Megadeth\'s The Sick, the Dying... and the Dead! era, while Tama O-DVM2 Dirk Verbeuren Signature sticks and Evans heads complete a setup built for both precision and power.',
+    kitOverview: 'Dirk Verbeuren plays a Tama Starclassic Walnut/Birch drum kit — a hybrid shell combination chosen for the tight low end and articulate attack needed to anchor Megadeth\'s thrash riffing while still translating the melodic death metal groove he built over eighteen years with Soilwork. The heart of the Dirk Verbeuren drum set is a Tama S.L.P. Big Black Steel 14x6.5" snare, a dark, aggressive-sounding steel shell that gives tracks like "Tornado of Souls" and "The Conjuring" their sharp, cutting backbeat live.\n\nMeinl Byzance Brilliant and Classics Custom Dark cymbals shape the tonal palette of the Dirk Verbeuren drum kit: a 14" Byzance Brilliant Hi-Hat for crisp, controlled chops during rapid thrash picking patterns; 18", 19", 20", and 21" Classics Custom Dark Crashes stacked for layered accents; a 22" Byzance Brilliant Ride for definition through Megadeth\'s technical arrangements; and an 18" Byzance Brilliant China for abrupt punctuation. Tama Speed Cobra 910 double pedals deliver the fast, even double-bass runs heard throughout his Soilwork catalog and Megadeth\'s The Sick, the Dying... and the Dead! era, while Tama O-DVM2 Dirk Verbeuren Signature sticks and Evans heads complete a setup built for both precision and power.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Dirk_Verbeuren',
       'https://www.instagram.com/dirkverbeuren/',
@@ -2639,19 +2639,19 @@ const drummers = [
     gear: {
       drums: 'Tama Starclassic Walnut/Birch',
       snare: 'Tama S.L.P. Big Black Steel 14x6.5"',
-      cymbals: 'Zildjian A Custom & K Custom Series (14" A Custom Hi-Hats, 17", 18", 19" A Custom Crashes, 21" K Custom Hybrid Ride, 18" K China)',
+      cymbals: 'Meinl Byzance Brilliant & Classics Custom Dark Series (14" Byzance Brilliant Hi-Hat, 18"-21" Classics Custom Dark Crashes, 22" Byzance Brilliant Ride, 18" Byzance Brilliant China)',
       hardware: 'Tama Speed Cobra 910 Double Pedal, Tama Iron Cobra Hi-Hat Stand',
       sticks: 'Tama O-DVM2 Dirk Verbeuren Signature',
       heads: 'Evans',
       verified: true,
-      sources: ['https://www.tama.com/usa/artists/', 'https://zildjian.com/artists']
+      sources: ['https://www.tama.com/usa/artists/', 'https://meinlcymbals.com/en/artists/dirk-verbeuren-a124800.html', 'https://www.moderndrummer.com/article/dirk-verbeurens-megadeth-touring-kit/']
     },
     photos: [
       '/images/drummers/dirk-verbeuren.webp' // Original: https://upload.wikimedia.org/wikipedia/commons/e/e0/Megadeth_-_Wacken_Open_Air_2023_01_%28cropped%29.jpg
     ],
     endorsements: [
       { name: 'Tama Drums', url: 'https://www.tama.com' },
-      { name: 'Zildjian Cymbals', url: 'https://zildjian.com' },
+      { name: 'Meinl Cymbals', url: 'https://www.meinlcymbals.com' },
       { name: 'Promark Sticks', url: 'https://www.daddario.com/promark' },
       { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
     ],
@@ -2677,27 +2677,27 @@ const drummers = [
     country: 'Norway',
     image: '/images/drummers/frost.webp',
     bio: 'Kjetil-Vidar Haraldstad (born 1973), known professionally as Frost, is a Norwegian drummer and a central figure in the Scandinavian black metal scene. He is the drummer for Satyricon since 1993 and 1349 since 2001. Known for his incredible speed, precision, and stamina, Frost is considered one of the greatest extreme metal drummers. His blast beats and hyperspeed drumming have set the standard for black metal percussion. Despite the raw nature of black metal, Frost brings a high level of technicality and discipline to his performances.',
-    kitOverview: 'Frost plays a Sonor SQ2 Series drum kit — Germany\'s premium custom-build platform selected for its focused, articulate attack at the extreme blast beat tempos that define Satyricon\'s Nordic black metal sound. As Satyricon\'s drummer since 1993 and a founding member of 1349 since 2001, Frost has built one of black metal\'s most distinctive drum sets around a Sonor SQ2 14x6" Maple snare that delivers the dry, cutting crack heard on albums like Nemesis Divina, Volcano, and Now, Diabolical.\n\nZildjian A Custom and K Series cymbals define the tonal character of the Frost drum kit: 14" A Custom Hi-Hats for fast, controlled hi-hat articulation during relentless blast beat passages; 16", 17", and 18" A Custom Crashes for explosive accents; a 22" K Custom Dark Ride for dark rhythmic definition; and an 18" K China for brutal black metal punctuation. A Sonor Perfect Balance single pedal drives Frost\'s precise, powerful kick drum work. Vic Firth American Classic Extreme 5B sticks and Remo drumheads complete the Frost drum set — a configuration built for the sustained physical demands of Satyricon and 1349\'s uncompromising live performances.',
+    kitOverview: 'Frost plays a Tama Starclassic Bubinga drum kit in Piano Black finish — a dense-shell platform selected for its focused, articulate attack at the extreme blast beat tempos that define Satyricon\'s Nordic black metal sound. As Satyricon\'s drummer since 1993 and a founding member of 1349 since 2001, Frost has built one of black metal\'s most distinctive drum sets around a Tama Starclassic Bubinga 14x5.5" snare that delivers the dry, cutting crack heard on albums like Nemesis Divina, Volcano, and Now, Diabolical.\n\nZildjian A Custom and K Series cymbals define the tonal character of the Frost drum kit: 14" A Custom Hi-Hats for fast, controlled hi-hat articulation during relentless blast beat passages; 16", 17", and 18" A Custom Crashes for explosive accents; a 22" K Custom Dark Ride for dark rhythmic definition; and an 18" K China for brutal black metal punctuation. Tama Iron Cobra Power Glide and Lever Glide hardware drives Frost\'s precise, powerful kick and hi-hat work. Vic Firth American Classic Extreme 5B sticks and Remo drumheads complete the Frost drum set — a configuration built for the sustained physical demands of Satyricon and 1349\'s uncompromising live performances.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Frost_(musician)',
       'https://www.discogs.com/artist/297893-Frost-6',
       'https://www.allmusic.com/artist/frost-mn0001573890'
     ],
     gear: {
-      drums: 'Sonor SQ2 Series',
-      snare: 'Sonor SQ2 14x6" Maple',
+      drums: 'Tama Starclassic Bubinga',
+      snare: 'Tama Starclassic Bubinga 14x5.5"',
       cymbals: 'Zildjian A Custom & K Series (14" A Custom Hi-Hats, 16", 17", 18" A Custom Crashes, 22" K Custom Dark Ride, 18" K China)',
-      hardware: 'Sonor Perfect Balance Pedal, Sonor Hardware',
+      hardware: 'Tama Iron Cobra Power Glide Pedal, Tama Iron Cobra Lever Glide Hi-Hat Stand',
       sticks: 'Vic Firth American Classic Extreme 5B',
       heads: 'Remo',
       verified: true,
-      sources: ['https://www.sonor.com/artists/']
+      sources: ['https://www.tama.com/usa/artists/detail/945.html', 'https://zildjian.com/blogs/artist/kjetil-haraldstad']
     },
     photos: [
       '/images/drummers/frost.webp' // Original: https://upload.wikimedia.org/wikipedia/commons/4/4c/Satyricon%2C_Tons_of_Rock%2C_Oslo_Norway_%2853845732674%29_%28cropped%29.jpg
     ],
     endorsements: [
-      { name: 'Sonor Drums', url: 'https://www.sonor.com' },
+      { name: 'Tama Drums', url: 'https://www.tama.com' },
       { name: 'Zildjian Cymbals', url: 'https://zildjian.com' },
       { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
       { name: 'Remo Drumheads', url: 'https://remo.com' }

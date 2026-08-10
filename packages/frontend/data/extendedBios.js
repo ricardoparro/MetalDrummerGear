@@ -3972,20 +3972,20 @@ Dee's powerful, hard-hitting style perfectly complemented Lemmy's raw, loud appr
       },
       gearHighlights: {
         title: 'Gear Highlights',
-        content: `Mikkey Dee has been a Yamaha Drums endorser, using their Recording Custom and Oak Custom series. His setup emphasizes power and durability for high-energy rock performances.
+        content: `Mikkey Dee has been a Sonor Drums endorser since his King Diamond days, playing their SQ2 custom-build series. Cymbal-wise he has been a Paiste artist since April 1987. His setup emphasizes power and durability for high-energy rock performances.
 
 **Current Setup (Scorpions):**
-- **Drums**: Yamaha Recording Custom (24"x18" Bass Drum)
-- **Snare**: Yamaha Recording Custom 14"x6.5" Aluminum
-- **Cymbals**: Zildjian (15" A New Beat Hi-Hats, A Custom crashes, K Custom ride)
-- **Hardware**: Yamaha Flying Dragon Double Pedal
+- **Drums**: Sonor SQ2 (18"x22" Bass Drum)
+- **Snare**: Sonor Mikkey Dee Signature 14"x7.25" Birch
+- **Cymbals**: Paiste Signature Series (14" Sound Edge Hi-Hats, 19" & 20" Power Crashes, 22" Power Ride, 18" Heavy China)
+- **Hardware**: DW 5000 Series Double Pedal, Sonor hardware
 - **Sticks**: Wincent Mikkey Dee Signature (W-MDS)
-- **Heads**: Remo
+- **Heads**: Evans
 
 **Setup Evolution:**
 - Used Premier drums in early Motörhead years
-- Transitioned to Yamaha for their durability
-- Known for large bass drums (24") for maximum low end
+- Longtime Sonor endorser dating back to King Diamond, with a Sonor signature snare released in 2012
+- Known for large bass drums for maximum low end
 - Prefers deep snare drums for powerful backbeat`
       },
       trivia: {
@@ -4006,21 +4006,22 @@ Dee's powerful, hard-hitting style perfectly complemented Lemmy's raw, loud appr
         title: 'Frequently Asked Questions',
         items: [
           { q: 'What band does Mikkey Dee play drums for?', a: 'Mikkey Dee has been the drummer for Scorpions since 2016. He previously drummed for Motörhead from 1992 until Lemmy Kilmister\'s death in 2015, and for King Diamond from 1985-1989.' },
-          { q: 'What drums does Mikkey Dee play?', a: 'Mikkey Dee plays a Yamaha Recording Custom drum kit.' },
-          { q: 'What drum kit does Mikkey Dee play?', a: 'Mikkey Dee\'s drum kit is a Yamaha Recording Custom shell pack, built around his Yamaha Mikkey Dee Signature 14"x8" snare drum for extra depth and power.' },
-          { q: 'What drum set does Mikkey Dee play?', a: 'Mikkey Dee\'s drum set pairs Yamaha Recording Custom shells and his signature 14"x8" snare with Zildjian A Custom and K Series cymbals and a Yamaha FP9 double pedal.' },
-          { q: 'What cymbals does Mikkey Dee use?', a: 'Mikkey Dee uses Zildjian A Custom and K Series cymbals, including 14" A Custom Hi-Hats, 18" and 19" A Custom Crashes, a 22" K Custom Ride, and a 20" Oriental China.' },
-          { q: 'What snare drum does Mikkey Dee use?', a: 'Mikkey Dee\'s primary snare is his own Yamaha Mikkey Dee Signature, a 14"x8" shell.' },
-          { q: 'What pedals does Mikkey Dee use?', a: 'Mikkey Dee drives his double bass technique with a Yamaha FP9 double pedal on Yamaha hardware.' },
-          { q: 'What drumsticks does Mikkey Dee use?', a: 'Mikkey Dee plays his own signature Wincent Mikkey Dee Signature (W-MDS) drumsticks, paired with Remo drumheads.' },
-          { q: 'What drumheads does Mikkey Dee use?', a: 'Mikkey Dee uses Remo drumheads across his Yamaha Recording Custom drum kit and drum set.' }
+          { q: 'What drums does Mikkey Dee play?', a: 'Mikkey Dee plays a Sonor SQ2 drum kit.' },
+          { q: 'What drum kit does Mikkey Dee play?', a: 'Mikkey Dee\'s drum kit is a Sonor SQ2 shell pack, built around his Sonor Mikkey Dee Signature 14"x7.25" birch snare drum for extra depth and power.' },
+          { q: 'What drum set does Mikkey Dee play?', a: 'Mikkey Dee\'s drum set pairs Sonor SQ2 shells and his signature 14"x7.25" birch snare with Paiste Signature cymbals and a DW 5000 Series double pedal.' },
+          { q: 'What cymbals does Mikkey Dee use?', a: 'Mikkey Dee uses Paiste Signature Series cymbals, including a 14" Sound Edge Hi-Hats, 19" and 20" Power Crashes, a 22" Power Ride, and an 18" Heavy China.' },
+          { q: 'What snare drum does Mikkey Dee use?', a: 'Mikkey Dee\'s primary snare is his own Sonor Mikkey Dee Signature, a 14"x7.25" birch shell.' },
+          { q: 'What pedals does Mikkey Dee use?', a: 'Mikkey Dee drives his double bass technique with a DW 5000 Series double pedal on Sonor hardware.' },
+          { q: 'What drumsticks does Mikkey Dee use?', a: 'Mikkey Dee plays his own signature Wincent Mikkey Dee Signature (W-MDS) drumsticks, paired with Evans drumheads.' },
+          { q: 'What drumheads does Mikkey Dee use?', a: 'Mikkey Dee uses Evans drumheads across his Sonor SQ2 drum kit and drum set.' }
         ]
       },
       sources: {
         title: 'Sources',
         items: [
-          { name: 'Yamaha Drums', url: 'https://usa.yamaha.com/products/musical_instruments/drums/' },
-          { name: 'Zildjian Artists', url: 'https://zildjian.com/artists' },
+          { name: 'Sonor Artist Profile', url: 'https://www.sonor.com/drums/artists/artists-detail/mikkey-dee' },
+          { name: 'Paiste Artist Profile', url: 'https://www.paiste.com/en/musicians/mikkey-dee' },
+          { name: 'Modern Drummer: Mikkey Dee\'s Scorpions Kit', url: 'https://www.moderndrummer.com/article/mikkey-dees-scorpions-2022-vegas-residency-kit/' },
           { name: 'Scorpions Official', url: 'https://www.the-scorpions.com' },
           { name: 'Wikipedia: Mikkey Dee', url: 'https://en.wikipedia.org/wiki/Mikkey_Dee' }
         ]
@@ -4224,19 +4225,19 @@ Verbeuren's drumming combines the technical precision of melodic death metal wit
       },
       gearHighlights: {
         title: 'Gear Highlights',
-        content: `Dirk Verbeuren is endorsed by Tama Drums, Zildjian Cymbals, and his own signature Tama drumsticks. His setup is designed for both the technical demands of modern metal and the power required for arena-level thrash performances.
+        content: `Dirk Verbeuren is endorsed by Tama Drums, Meinl Cymbals, and his own signature Tama drumsticks. His setup is designed for both the technical demands of modern metal and the power required for arena-level thrash performances.
 
 **Current Setup (Megadeth):**
 - **Drums**: Tama Starclassic Maple (22"x18" Bass, various toms)
 - **Snare**: Tama S.L.P. G-Maple 14"x6.5"
-- **Cymbals**: Zildjian A Custom & K Custom (14" A Custom Hi-Hats, 17"/18"/19" A Custom Crashes, 21" K Custom Hybrid Ride, 18" K China)
+- **Cymbals**: Meinl Byzance Brilliant & Classics Custom Dark (14" Byzance Brilliant Hi-Hat, 18"/19"/20"/21" Classics Custom Dark Crashes, 22" Byzance Brilliant Ride, 18" Byzance Brilliant China)
 - **Hardware**: Tama Speed Cobra 910 Double Pedal
 - **Sticks**: Tama O-DVM2 (signature model)
 - **Heads**: Evans
 
 **Setup Philosophy:**
 - Tama Starclassic for versatility and projection
-- Zildjian A Custom & K Custom for bright attack with dark complexity
+- Meinl Byzance Brilliant & Classics Custom Dark for bright attack with dark, controlled decay
 - Speed Cobra pedals for fast, precise footwork
 - Relatively compact setup for mobility`
       },
@@ -4257,9 +4258,9 @@ Verbeuren's drumming combines the technical precision of melodic death metal wit
       faq: {
         title: 'Frequently Asked Questions',
         items: [
-          { q: 'What drum kit does Dirk Verbeuren use?', a: 'Dirk Verbeuren\'s drum kit is a Tama Starclassic Walnut/Birch hybrid shell kit, chosen for the tight low end and articulate attack needed to anchor Megadeth\'s thrash riffing. It centers on a Tama S.L.P. Big Black Steel 14"x6.5" snare and is topped with Zildjian A Custom and K Custom cymbals, driven by Tama Speed Cobra 910 double pedals.' },
-          { q: 'What drum set does Dirk Verbeuren use?', a: 'Dirk Verbeuren\'s drum set is a Tama Starclassic Walnut/Birch configuration built around his dark, aggressive-sounding Tama S.L.P. Big Black Steel 14"x6.5" snare. The drum set carries Zildjian A Custom and K Custom cymbals, Tama Speed Cobra 910 double pedals, and his signature Tama O-DVM2 sticks.' },
-          { q: 'What cymbals does Dirk Verbeuren use?', a: 'Dirk Verbeuren uses Zildjian A Custom and K Custom Series cymbals: 14" A Custom Hi-Hats, 17", 18", and 19" A Custom Crashes stacked for layered accents, a 21" K Custom Hybrid Ride, and an 18" K China for punctuation.' },
+          { q: 'What drum kit does Dirk Verbeuren use?', a: 'Dirk Verbeuren\'s drum kit is a Tama Starclassic Walnut/Birch hybrid shell kit, chosen for the tight low end and articulate attack needed to anchor Megadeth\'s thrash riffing. It centers on a Tama S.L.P. Big Black Steel 14"x6.5" snare and is topped with Meinl Byzance Brilliant and Classics Custom Dark cymbals, driven by Tama Speed Cobra 910 double pedals.' },
+          { q: 'What drum set does Dirk Verbeuren use?', a: 'Dirk Verbeuren\'s drum set is a Tama Starclassic Walnut/Birch configuration built around his dark, aggressive-sounding Tama S.L.P. Big Black Steel 14"x6.5" snare. The drum set carries Meinl Byzance Brilliant and Classics Custom Dark cymbals, Tama Speed Cobra 910 double pedals, and his signature Tama O-DVM2 sticks.' },
+          { q: 'What cymbals does Dirk Verbeuren use?', a: 'Dirk Verbeuren uses Meinl Byzance Brilliant and Classics Custom Dark cymbals: a 14" Byzance Brilliant Hi-Hat, 18", 19", 20", and 21" Classics Custom Dark Crashes stacked for layered accents, a 22" Byzance Brilliant Ride, and an 18" Byzance Brilliant China for punctuation.' },
           { q: 'What snare drum does Dirk Verbeuren play?', a: 'Dirk Verbeuren plays a Tama S.L.P. Big Black Steel 14"x6.5" snare, a dark, aggressive-sounding steel shell that gives tracks like "Tornado of Souls" and "The Conjuring" their sharp, cutting backbeat live.' },
           { q: 'What bass drum pedals does Dirk Verbeuren use?', a: 'Dirk Verbeuren uses Tama Speed Cobra 910 double pedals, delivering the fast, even double-bass runs heard throughout his Soilwork catalog and Megadeth\'s The Sick, the Dying... and the Dead! era.' },
           { q: 'What band is Dirk Verbeuren in?', a: 'Dirk Verbeuren has been Megadeth\'s drummer since 2016, and previously drummed for Swedish melodic death metal band Soilwork from 2004 to 2016.' },
@@ -4272,7 +4273,8 @@ Verbeuren's drumming combines the technical precision of melodic death metal wit
         title: 'Sources',
         items: [
           { name: 'Tama Drums Artist Profile', url: 'https://www.tama.com/usa/artists/' },
-          { name: 'Zildjian Artist Profile', url: 'https://zildjian.com/artists' },
+          { name: 'Meinl Cymbals Artist Profile', url: 'https://meinlcymbals.com/en/artists/dirk-verbeuren-a124800.html' },
+          { name: 'Modern Drummer: Dirk Verbeuren\'s Megadeth Touring Kit', url: 'https://www.moderndrummer.com/article/dirk-verbeurens-megadeth-touring-kit/' },
           { name: 'Megadeth Official', url: 'https://www.megadeth.com' },
           { name: 'Wikipedia: Dirk Verbeuren', url: 'https://en.wikipedia.org/wiki/Dirk_Verbeuren' }
         ]
@@ -4353,19 +4355,19 @@ Frost is renowned for his blistering speed, metronomic precision, and seemingly 
       },
       gearHighlights: {
         title: 'Gear Highlights',
-        content: `Frost is a longtime Sonor Drums endorser, using their SQ2 series for its powerful tone and durability. His setup is designed for both the extreme speed requirements of black metal and the dynamic needs of Satyricon's evolved sound.
+        content: `Frost is a longtime Tama Drums endorser, playing their Starclassic Bubinga series for its focused tone and durability. His setup is designed for both the extreme speed requirements of black metal and the dynamic needs of Satyricon's evolved sound.
 
 **Current Setup:**
-- **Drums**: Sonor SQ2 Series in custom finishes
-- **Snare**: Sonor SQ2 14"x6" Maple
+- **Drums**: Tama Starclassic Bubinga Series (Piano Black finish)
+- **Snare**: Tama Starclassic Bubinga 14"x5.5"
 - **Cymbals**: Zildjian A Custom & K Series (14" A Custom Hi-Hats, 16", 17", 18" A Custom Crashes, 22" K Custom Dark Ride, 18" K China)
-- **Hardware**: Sonor Perfect Balance Pedal, Sonor hardware
+- **Hardware**: Tama Iron Cobra Power Glide Pedal, Tama Iron Cobra Lever Glide Hi-Hat Stand
 - **Sticks**: Vic Firth American Classic Extreme 5B
 - **Heads**: Remo
 
 **Setup Philosophy:**
 - Compact kit for quick access during extreme passages
-- Sonor Perfect Balance pedal for speed and control
+- Tama Iron Cobra pedal for speed and control
 - Zildjian K series for dark, washy tones suited to black metal
 - Emphasizes durability for punishing live performances`
       },
@@ -4387,20 +4389,21 @@ Frost is renowned for his blistering speed, metronomic precision, and seemingly 
         title: 'Frequently Asked Questions',
         items: [
           { q: 'What bands does Frost play drums for?', a: 'Frost (Kjetil-Vidar Haraldstad) has been the drummer for Satyricon since 1993, and also drums for 1349 since 2001.' },
-          { q: 'What drums does Frost play?', a: 'Frost plays a Sonor SQ2 Series drum kit.' },
-          { q: 'What drum kit does Frost play?', a: 'Frost\'s drum kit is a Sonor SQ2 Series shell pack, built around a Sonor SQ2 14"x6" maple snare drum, with Remo drumheads.' },
-          { q: 'What drum set does Frost play?', a: 'Frost\'s drum set pairs Sonor SQ2 shells and his 14"x6" maple snare with Zildjian A Custom and K Series cymbals and a Sonor Perfect Balance pedal built for his hyperspeed blast beats.' },
+          { q: 'What drums does Frost play?', a: 'Frost plays a Tama Starclassic Bubinga drum kit.' },
+          { q: 'What drum kit does Frost play?', a: 'Frost\'s drum kit is a Tama Starclassic Bubinga shell pack, built around a Tama Starclassic Bubinga 14"x5.5" snare drum, with Remo drumheads.' },
+          { q: 'What drum set does Frost play?', a: 'Frost\'s drum set pairs Tama Starclassic Bubinga shells and his 14"x5.5" snare with Zildjian A Custom and K Series cymbals and a Tama Iron Cobra Power Glide pedal built for his hyperspeed blast beats.' },
           { q: 'What cymbals does Frost use?', a: 'Frost uses Zildjian A Custom and K Series cymbals, including 14" A Custom Hi-Hats, 16", 17", and 18" A Custom Crashes, a 22" K Custom Dark Ride, and an 18" K China.' },
-          { q: 'What snare drum does Frost use?', a: 'Frost\'s primary snare is the Sonor SQ2, a 14"x6" maple shell.' },
-          { q: 'What pedals does Frost use?', a: 'Frost drives his hyperspeed double bass patterns with a Sonor Perfect Balance pedal on Sonor hardware.' },
+          { q: 'What snare drum does Frost use?', a: 'Frost\'s primary snare is the Tama Starclassic Bubinga, a 14"x5.5" shell.' },
+          { q: 'What pedals does Frost use?', a: 'Frost drives his hyperspeed double bass patterns with a Tama Iron Cobra Power Glide pedal on Tama hardware.' },
           { q: 'What drumsticks does Frost use?', a: 'Frost plays Vic Firth American Classic Extreme 5B drumsticks.' },
-          { q: 'What drumheads does Frost use?', a: 'Frost uses Remo drumheads across his Sonor SQ2 Series drum kit, giving him consistent response for the hyperspeed blast beats he plays with both Satyricon and 1349.' }
+          { q: 'What drumheads does Frost use?', a: 'Frost uses Remo drumheads across his Tama Starclassic Bubinga drum kit, giving him consistent response for the hyperspeed blast beats he plays with both Satyricon and 1349.' }
         ]
       },
       sources: {
         title: 'Sources',
         items: [
-          { name: 'Sonor Drums', url: 'https://www.sonor.com/artists/' },
+          { name: 'Tama Drums Artist Profile', url: 'https://www.tama.com/usa/artists/detail/945.html' },
+          { name: 'Zildjian Artist Profile', url: 'https://zildjian.com/blogs/artist/kjetil-haraldstad' },
           { name: 'Wikipedia: Frost (musician)', url: 'https://en.wikipedia.org/wiki/Frost_(musician)' },
           { name: 'Satyricon Official', url: 'https://www.satyricon.no/' },
           { name: '1349 Official', url: 'https://www.1349.com/' }

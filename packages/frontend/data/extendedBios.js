@@ -363,7 +363,7 @@ Over a career spanning four decades, Hoglan has performed with over 20 major ban
 - **Snare**: Pearl Reference 14"x6.5" Brass
 - **Cymbals**: Sabian AAX series (15" Hi-Hats, crashes up to 20", 22" Ride)
 - **Hardware**: Pearl Demon Drive double pedal
-- **Sticks**: Promark 5B (standard choice for balance)
+- **Sticks**: ProMark Classic Forward 2B (forward-weighted, for durability)
 - **Heads**: Evans (Genera HD or EMAD series)
 
 **Setup Philosophy:**
@@ -396,7 +396,7 @@ Over a career spanning four decades, Hoglan has performed with over 20 major ban
           { q: 'Was Gene Hoglan in Death?', a: "Yes, Gene drummed on Death's albums \"Individual Thought Patterns\" (1993) and \"Symbolic\" (1995)." },
           { q: 'When was Gene Hoglan born?', a: 'Gene Hoglan was born on August 31, 1967, and turns 59 on August 31, 2026.' },
           { q: 'What drum kit does Gene Hoglan use?', a: 'Gene Hoglan\'s drum kit is a Pearl Reference Pure kit in various finishes, centered on his Pearl Reference 14"x6.5" brass snare drum for extra cut and projection. The kit is fitted with Sabian AAX cymbals — 15" hi-hats, crashes up to 20", and a 22" ride — and powered by a Pearl Demon Drive double pedal. Hoglan favors a relatively compact drum kit for accessibility across the many bands he plays in.' },
-          { q: 'What drum set does Gene Hoglan use?', a: 'Gene Hoglan\'s drum set is Pearl Reference Pure, built around a Pearl Reference 14"x6.5" brass snare drum, Sabian AAX cymbals (15" hi-hats, crashes to 20", and a 22" ride), and a Pearl Demon Drive double pedal. He plays Evans Genera HD or EMAD heads and Promark 5B sticks, keeping the drum set consistent across Death, Testament, and Dethklok.' },
+          { q: 'What drum set does Gene Hoglan use?', a: 'Gene Hoglan\'s drum set is Pearl Reference Pure, built around a Pearl Reference 14"x6.5" brass snare drum, Sabian AAX cymbals (15" hi-hats, crashes to 20", and a 22" ride), and a Pearl Demon Drive double pedal. He plays Evans Genera HD or EMAD heads and ProMark Classic Forward 2B sticks, keeping the drum set consistent across Death, Testament, and Dethklok.' },
           { q: 'What cymbals does Gene Hoglan use?', a: 'Gene Hoglan uses Sabian AAX series cymbals, including 15" AAX hi-hats, AAX crashes up to 20", and a 22" AAX ride. He favors the brightness and cut of the AAX line to project clearly in dense, extreme metal arrangements.' },
           { q: 'What snare drum does Gene Hoglan use?', a: 'Gene Hoglan plays a Pearl Reference 14"x6.5" brass snare drum, chosen for the extra cut and projection a brass shell provides over his Pearl Reference Pure kit.' }
         ]

@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-09 19:37 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-10 03:06 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,87 +8,87 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 176 |
-| Sessions | 201 |
-| Page views | 293 |
-| Engagement rate | 63.68% |
-| Avg session (s) | 122 |
+| Active users | 163 |
+| Sessions | 184 |
+| Page views | 253 |
+| Engagement rate | 56.52% |
+| Avg session (s) | 124 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 14 | 8 |
+| / | 17 | 10 |
 | /drummer/hellhammer | 8 | 5 |
 | /articles/kill-em-all-drum-setup | 7 | 2 |
 | /drummer/gene-hoglan | 5 | 1 |
 | /articles/damnation-drum-setup | 4 | 1 |
 | /drummer/gavin-harrison | 4 | 3 |
-| /drummer/john-otto | 4 | 4 |
 | /drummer/matt-greiner | 4 | 4 |
-| /drummers/dave-lombardo/licks/dave-lombardo-show-no-mercy-tom-run | 4 | 1 |
-| /drummers/sean-reinert/evolution | 4 | 2 |
+| /articles/images-and-words-drum-setup | 3 | 2 |
+| /drummer/ben-koller | 3 | 2 |
+| /drummer/danny-carey | 3 | 2 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 180 | 159 |
-| Unassigned | 21 | 17 |
-| Direct | 16 | 14 |
+| Organic Search | 158 | 141 |
+| Unassigned | 30 | 25 |
+| Direct | 18 | 16 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 69 | 65 |
-| United Kingdom | 16 | 12 |
-| Germany | 11 | 11 |
-| Canada | 10 | 7 |
+| United States | 62 | 59 |
+| United Kingdom | 13 | 9 |
+| Canada | 8 | 6 |
+| Germany | 8 | 8 |
 | Spain | 7 | 6 |
+| France | 6 | 5 |
 | Netherlands | 6 | 6 |
 | Sweden | 6 | 6 |
 | Australia | 5 | 4 |
-| France | 5 | 4 |
 | Mexico | 5 | 5 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 7,090 |
-| Clicks | 108 |
-| CTR | 1.52% |
-| Avg position | 10.6 |
+| Impressions | 5,618 |
+| Clicks | 94 |
+| CTR | 1.67% |
+| Avg position | 10.2 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
 | abe cunningham cymbal setup | 2 | 1 | 50.00% | 10.0 |
-| best death metal drummer | 5 | 1 | 20.00% | 7.6 |
-| daniel erlandsson drum kit | 9 | 1 | 11.11% | 9.2 |
-| danny carey drum kit | 113 | 1 | 0.88% | 10.3 |
-| jaska raatikainen drum set | 3 | 1 | 33.33% | 7.0 |
-| joey jordison drum set | 30 | 1 | 3.33% | 10.8 |
+| best death metal drummer | 4 | 1 | 25.00% | 8.0 |
+| daniel erlandsson drum kit | 8 | 1 | 12.50% | 9.0 |
+| danny carey drum kit | 95 | 1 | 1.05% | 10.2 |
+| joey jordison drum set | 24 | 1 | 4.17% | 10.5 |
 | joey jordison kit | 4 | 1 | 25.00% | 8.8 |
-| john otto drum kit | 18 | 1 | 5.56% | 6.4 |
-| john otto drum set | 6 | 1 | 16.67% | 10.0 |
+| john otto drum kit | 16 | 1 | 6.25% | 6.7 |
 | laid to rest tempo | 7 | 1 | 14.29% | 9.6 |
+| matt garstka drum kit | 17 | 1 | 5.88% | 6.9 |
+| matt greiner drum kit | 4 | 1 | 25.00% | 9.3 |
 
 ### Top countries (impressions, last 7d)
 | Country | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| usa | 2,417 | 30 | 1.24% | 10.2 |
-| gbr | 402 | 8 | 1.99% | 9.8 |
-| deu | 229 | 6 | 2.62% | 8.1 |
-| esp | 97 | 6 | 6.19% | 9.5 |
-| aus | 287 | 5 | 1.74% | 8.8 |
-| swe | 109 | 5 | 4.59% | 8.1 |
-| can | 249 | 4 | 1.61% | 8.3 |
-| che | 30 | 4 | 13.33% | 7.3 |
-| pol | 112 | 4 | 3.57% | 9.5 |
-| arg | 62 | 3 | 4.84% | 7.1 |
+| usa | 1,947 | 26 | 1.34% | 9.8 |
+| esp | 81 | 6 | 7.41% | 8.6 |
+| aus | 222 | 5 | 2.25% | 9.1 |
+| deu | 186 | 5 | 2.69% | 8.1 |
+| gbr | 309 | 5 | 1.62% | 9.8 |
+| swe | 86 | 5 | 5.81% | 8.5 |
+| can | 204 | 4 | 1.96% | 8.3 |
+| che | 26 | 4 | 15.38% | 7.6 |
+| arg | 56 | 3 | 5.36% | 7.2 |
+| pol | 93 | 3 | 3.23% | 9.1 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 | Query | Impr | CTR | Pos | Action |
 | --- | --- | --- | --- | --- |
-| danny carey drum kit | 113 | 0.88% | 10.3 | open issue to answer better |
+| danny carey drum kit | 95 | 1.05% | 10.2 | open issue to answer better |
 
 ---
 *Re-run manually: `node .agents/scripts/fetch-metrics.cjs`*

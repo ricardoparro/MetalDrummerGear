@@ -4262,3 +4262,38 @@ Not due — Sunday, not the Monday rotation slot. Next due 2026-08-10.
 - The gearHighlights-vs-FAQ sweep is genuinely NOT exhausted — this run's audit covered the 32 slugs untouched-per-decisions-log and found 4/32 hits (12.5% hit rate), well above zero. Worth a full re-audit of all 72 slugs (including the 39-40 the CEO log claims are already fixed) to confirm those fixes actually shipped correctly and no sibling field was missed, once the current 6-issue backlog drains.
 - `danny carey drum kit` still on #5214's cooldown — next real CTR check ~08-10 (same day as the next L1/L3 weekly snapshot refresh, still 08-03 vintage as of this run).
 - #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+## 2026-08-10 (~19:xx UTC run) — 3 fresh proposals filed (Alex Bent gearHighlights contradiction + 2 residual-citation batches from the Meinl-domain re-audit), drum-chair Monday sweep clean, danny-carey-drum-kit content-gap confirmed already addressed
+
+### Context
+Bank check: 6 open `seo-proposal` at run start (3 fresh untriaged #5461/#5462/#5463 filed 08-09 19:36-37 + 3 standing umbrellas #2211/#3810/#3819). Well under 45, cleared to file up to 8. Metrics 08-10 03:06 UTC: GA4 163 users/184 sessions/253 views 7d; GSC 5,618 impr/94 clicks/1.67% CTR/pos 10.2. Content-gap row: `danny carey drum kit` (95 impr, 1.05% CTR, pos 10.2).
+
+### Danny Carey content-gap — reviewed, NOT re-filed
+Sub-agent traced the current `metaTitle`/`metaDescription` for `/drummer/danny-carey` (`extendedBios.js:1098-1099`) — both already lead with the literal phrase "drum kit" (title: "Danny Carey Drum Kit & Gear Setup..."; meta: "See what drum kit Danny Carey (Tool) plays..."), confirmed shipped by #5214 (merged 08-03) specifically to front-load this exact phrasing, not just the bare "kit" query it was nominally filed for. FAQ already has "What drum kit did Danny Carey use?" verbatim. No genuine gap — the 0%→1.05% CTR lift between the 08-03 and 08-10 snapshots is very plausibly this fix maturing through Google's re-snippet cycle. Holding 1-2 more weekly snapshots before considering further action, per #5214's own cooldown note.
+
+### Drum-chair Monday sweep — band group 2/4 (ISO week 33 % 4 = 1), zero filed
+Checked: damageplan, death, deftones, dream-theater, entheos, fear-factory, godsmack, gojira, hate-eternal, hellyeah, iron-maiden, judas-priest. 3 candidates surfaced, 0 cleared to file: Godsmack's Wade Murff→Mike Mangini change is real but ~2 months old (outside the 14-day window, presumably already caught by an earlier sweep — worth confirming next time a "roster addition" audit runs, since Mangini isn't yet a MetalForge roster slug under Godsmack). Gojira's Luigi Paraventi fill-in for Mario Duplantier (visa issue, July festival dates) is explicitly described by all sources as temporary, not a permanent stand-in — doesn't meet the bar. Hate Eternal has vague stale (April) rumor, log-and-skip. Rest of the group: no lineup news, current drummers confirmed stable.
+
+### Meinl-domain citation re-audit — the real work this run
+Following up on #5462/#5463 (filed 08-09, which excluded `meinlcymbals.com`/`promark.com` as network-blocked from that run), retried via WebSearch instead of direct curl and found their live successor pages. Cross-checked all 11 drummers citing these 2 domains in `sources.items` against each one's own already-fixed FAQ/`cymbalSetups.js` brand — this **directly validates the 08-09 decisions-log concern** ("worth a full re-audit... to confirm fixes actually shipped correctly and no sibling field was missed"): 3 of the 11 (jaska-raatikainen, travis-orbin, blake-richardson) had their `gearHighlights`/FAQ cymbal-brand contradiction fixed by earlier closed issues (#5321/#5363/#5327) but the sibling `sources.items` citation was never touched — still cites the pre-fix wrong brand (Meinl), now internally contradicting the entry's own corrected FAQ. The other 8 (matt-garstka, hannes-grossmann, brann-dailor, chris-adler, matt-halpern, chris-turner, navene-koperweis, aquiles-priester) have the correct brand already — just a stale/bare/wrong-path URL, same shape as #5462's Vic Firth/Zildjian migrations. john-longstreth already has a correct URL, no action.
+
+Also separately re-audited `alex-bent`, the one roster slug that a prior sweep (08-08) had waved off as "weak/arguable" rather than resolved — confirmed a genuine 5-field contradiction (drums/snare-depth/cymbals/sticks/heads all hedged or wrong vs. FAQ+source-of-truth files), same severity as the ~50 already-shipped siblings.
+
+### Proposals filed this run
+1. **#5464** — SEO: Alex Bent gearHighlights block contradicts verified FAQ/source-of-truth gear (drums/snare/cymbals/sticks/heads all hedged or wrong)
+2. **#5465** — SEO: 3 drummers' sources.items still cite the pre-fix wrong cymbal brand after their gearHighlights fix shipped (sibling-field miss) — jaska-raatikainen, travis-orbin, blake-richardson
+3. **#5466** — SEO batch: 8 correct-brand but stale/generic artist-profile citation URLs need migration (Meinl + ProMark→D'Addario)
+
+All 3 dedup-checked (`gh issue list --state all --search`) — no overlap with #5462/#5463 (different domains/drummers) or the closed gearHighlights-fix issues (those only touched prose, not the sibling field these 2 new issues target). All freeze-compliant: zero new pages, verified-only, existing-page depth/citation-accuracy fixes, directly serve L2 (Rule 3 priority).
+
+### Open proposals waiting on CEO triage
+- #5464, #5465, #5466 (filed this run, 0d old)
+- #5461, #5462, #5463 (filed 08-09 19:36-37, still untriaged as of this run)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers, not real proposals
+
+### Next run
+- Watch #5461-5466 through CEO triage; live-verify per each issue's own Verify steps once shipped.
+- The sibling-field-miss pattern found in #5465 (gearHighlights fixed, sources.items not) may not be limited to the Meinl cluster — worth spot-checking a few more of the ~50 already-"fixed" gearHighlights slugs for the same residual-citation gap next time the bank needs topping up, rather than assuming #5465's 3 are the only instances.
+- `danny carey drum kit` — no longer treat as an open content-gap; #5214 already covers the exact "drum kit" phrase in both title and meta. Only revisit if CTR regresses below 08-03's level after 1-2 more snapshots.
+- #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.

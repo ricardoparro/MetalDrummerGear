@@ -3005,7 +3005,6 @@ Children of Bodom became one of Finland's most successful metal exports, selling
         items: [
           { name: 'Nuclear Blast Records', url: 'https://www.nuclearblast.com' },
           { name: 'Pearl Drums', url: 'https://pearldrum.com' },
-          { name: 'Meinl Cymbals', url: 'https://meinlcymbals.com' },
           { name: 'Wikipedia: Jaska Raatikainen', url: 'https://en.wikipedia.org/wiki/Jaska_Raatikainen' }
         ]
       }
@@ -6721,7 +6720,7 @@ Orbin's technical prowess, creative use of polyrhythms, and ability to navigate 
         title: 'Sources',
         items: [
           { name: 'Travis Orbin YouTube', url: 'https://www.youtube.com/@TravisOrbin' },
-          { name: 'Meinl Cymbals', url: 'https://meinlcymbals.com' },
+          { name: 'Zildjian Artist Profile', url: 'https://zildjian.com/blogs/artist/travis-orbin' },
           { name: 'Modern Drummer Magazine', url: 'https://www.moderndrummer.com' }
         ]
       }
@@ -7351,7 +7350,7 @@ Richardson's work on landmark albums like "Colors," "The Great Misdirect," and "
         title: 'Sources',
         items: [
           { name: 'BTBAM Official', url: 'https://www.betweentheburiedandme.com' },
-          { name: 'Meinl Cymbals Artist Profile', url: 'https://meinlcymbals.com' },
+          { name: 'Sabian Artist Profile', url: 'https://www.sabian.com/artist/blake-richardson/' },
           { name: 'Modern Drummer Magazine', url: 'https://www.moderndrummer.com' },
           { name: 'Wikipedia: Between the Buried and Me', url: 'https://en.wikipedia.org/wiki/Between_the_Buried_and_Me' }
         ]

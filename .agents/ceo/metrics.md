@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-10 03:06 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-10 07:38 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,16 +8,16 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 163 |
-| Sessions | 184 |
-| Page views | 253 |
-| Engagement rate | 56.52% |
-| Avg session (s) | 124 |
+| Active users | 168 |
+| Sessions | 189 |
+| Page views | 259 |
+| Engagement rate | 55.03% |
+| Avg session (s) | 122 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 17 | 10 |
+| / | 18 | 11 |
 | /drummer/hellhammer | 8 | 5 |
 | /articles/kill-em-all-drum-setup | 7 | 2 |
 | /drummer/gene-hoglan | 5 | 1 |
@@ -31,19 +31,19 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 158 | 141 |
-| Unassigned | 30 | 25 |
-| Direct | 18 | 16 |
+| Organic Search | 161 | 144 |
+| Unassigned | 34 | 29 |
+| Direct | 20 | 18 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 62 | 59 |
+| United States | 66 | 63 |
 | United Kingdom | 13 | 9 |
 | Canada | 8 | 6 |
 | Germany | 8 | 8 |
+| France | 7 | 6 |
 | Spain | 7 | 6 |
-| France | 6 | 5 |
 | Netherlands | 6 | 6 |
 | Sweden | 6 | 6 |
 | Australia | 5 | 4 |
@@ -52,43 +52,43 @@
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 5,618 |
-| Clicks | 94 |
-| CTR | 1.67% |
-| Avg position | 10.2 |
+| Impressions | 6,621 |
+| Clicks | 116 |
+| CTR | 1.75% |
+| Avg position | 9.9 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
 | abe cunningham cymbal setup | 2 | 1 | 50.00% | 10.0 |
 | best death metal drummer | 4 | 1 | 25.00% | 8.0 |
-| daniel erlandsson drum kit | 8 | 1 | 12.50% | 9.0 |
-| danny carey drum kit | 95 | 1 | 1.05% | 10.2 |
-| joey jordison drum set | 24 | 1 | 4.17% | 10.5 |
-| joey jordison kit | 4 | 1 | 25.00% | 8.8 |
-| john otto drum kit | 16 | 1 | 6.25% | 6.7 |
-| laid to rest tempo | 7 | 1 | 14.29% | 9.6 |
-| matt garstka drum kit | 17 | 1 | 5.88% | 6.9 |
-| matt greiner drum kit | 4 | 1 | 25.00% | 9.3 |
+| best metal drummers of all time | 10 | 1 | 10.00% | 8.7 |
+| daniel erlandsson drum kit | 9 | 1 | 11.11% | 9.1 |
+| danny carey drum kit | 118 | 1 | 0.85% | 10.0 |
+| death metal snare | 1 | 1 | 100.00% | 12.0 |
+| eloy casagrande drum kit | 30 | 1 | 3.33% | 10.6 |
+| joey jordison drum set | 27 | 1 | 3.70% | 10.4 |
+| joey jordison kit | 5 | 1 | 20.00% | 8.8 |
+| john otto drum kit | 17 | 1 | 5.88% | 6.7 |
 
 ### Top countries (impressions, last 7d)
 | Country | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| usa | 1,947 | 26 | 1.34% | 9.8 |
-| esp | 81 | 6 | 7.41% | 8.6 |
-| aus | 222 | 5 | 2.25% | 9.1 |
-| deu | 186 | 5 | 2.69% | 8.1 |
-| gbr | 309 | 5 | 1.62% | 9.8 |
-| swe | 86 | 5 | 5.81% | 8.5 |
-| can | 204 | 4 | 1.96% | 8.3 |
-| che | 26 | 4 | 15.38% | 7.6 |
-| arg | 56 | 3 | 5.36% | 7.2 |
-| pol | 93 | 3 | 3.23% | 9.1 |
+| usa | 2,315 | 31 | 1.34% | 9.6 |
+| gbr | 374 | 8 | 2.14% | 9.5 |
+| deu | 219 | 7 | 3.20% | 7.9 |
+| esp | 94 | 6 | 6.38% | 8.6 |
+| swe | 105 | 6 | 5.71% | 8.1 |
+| aus | 269 | 5 | 1.86% | 9.0 |
+| nld | 81 | 5 | 6.17% | 7.2 |
+| can | 241 | 4 | 1.66% | 8.4 |
+| che | 31 | 4 | 12.90% | 7.6 |
+| mex | 121 | 4 | 3.31% | 10.2 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 | Query | Impr | CTR | Pos | Action |
 | --- | --- | --- | --- | --- |
-| danny carey drum kit | 95 | 1.05% | 10.2 | open issue to answer better |
+| danny carey drum kit | 118 | 0.85% | 10.0 | open issue to answer better |
 
 ---
 *Re-run manually: `node .agents/scripts/fetch-metrics.cjs`*

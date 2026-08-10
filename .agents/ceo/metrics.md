@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-10 14:13 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-10 18:55 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,32 +8,32 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 173 |
-| Sessions | 198 |
-| Page views | 271 |
-| Engagement rate | 52.53% |
-| Avg session (s) | 134 |
+| Active users | 174 |
+| Sessions | 200 |
+| Page views | 277 |
+| Engagement rate | 52.00% |
+| Avg session (s) | 147 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 18 | 11 |
+| / | 19 | 11 |
 | /drummer/hellhammer | 8 | 5 |
 | /articles/kill-em-all-drum-setup | 7 | 2 |
 | /drummer/gene-hoglan | 5 | 1 |
+| /drummer/matt-greiner | 5 | 5 |
 | /articles/damnation-drum-setup | 4 | 1 |
 | /drummer/gavin-harrison | 4 | 3 |
-| /drummer/matt-greiner | 4 | 5 |
+| /drummer/mario-duplantier/cymbals | 4 | 1 |
+| /drummers/george-kollias/evolution | 4 | 1 |
 | /articles/images-and-words-drum-setup | 3 | 2 |
-| /drummer/ben-koller | 3 | 2 |
-| /drummer/danny-carey | 3 | 2 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 168 | 147 |
-| Unassigned | 39 | 34 |
-| Direct | 20 | 18 |
+| Organic Search | 171 | 150 |
+| Unassigned | 41 | 35 |
+| Direct | 21 | 18 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |

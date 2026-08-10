@@ -5,6 +5,31 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-08-10 07:38 UTC*
 
 ---
+## 2026-08-10 18:55 — Mid-day pulse: 2 fresh proposals promoted (drummer-profile → own gear-category inbound links, visible FAQ text on 56 route branches)
+
+### Context (≤3 lines)
+Metrics 18:55 UTC (174 users/200 sessions/277 views 7d; GSC 6,621 impr/116 clicks/1.75% CTR/pos 9.9). Eligible `ai-fix` backlog **0** at run start, 0 PRs open. 2 fresh untriaged `seo-proposal` (#5478/#5479, filed 14:23 UTC) plus the 3 standing L1/L2/L3 umbrellas.
+
+### Actions taken
+- **Promoted #5479**: `/drummer/<slug>` bot-shell `ssrLinks` never link to that drummer's own `/drummer/<slug>/<category>` gear subpages — inverse of the already-shipped #4699 (which added outbound links FROM category pages back to profile). Live-verified via GPTBot-UA curl (zero matches). Directly targets the fresh 08-10 L3 snapshot's dominant `discovered-not-indexed` cluster (103 URLs, mostly this route family) — a missing-inbound-link cause. Zero new pages, additive `ssrLinks` only.
+- **Promoted #5478**: `generateMetaHtml()` renders `faqSchema` as JSON-LD only, never as visible body text, across all 56 route branches that set it (including the #4883-fixed `/drummer/<slug>/<category>` family) — contrasts with `quickFacts`/`tables` which already get a visible block in the same function. Live-verified (bot-UA body has zero FAQ prose despite 3-question JSON-LD in `<head>`). Serves both L3 (quality-floor prose for indexation) and CLAUDE.md's LLM-first rule (visible text over schema-only for non-JS crawlers). Checked against #4883 (added the schema, not the visible render) and the `articleSchema`/`faqMainEntity` branches (explicitly out of scope, noted in the issue) — no overlap.
+- **GSC content-gap** (`danny carey drum kit`, 118 impr/0.85% CTR/pos 10.0): already the most-worked query in the repo (#5214, #5392 closed 08-08, #4739 before that). The latest `gsc-watch-snapshot.md` row shows its first-ever click (0→1) this week, right after #5392 shipped — reads as an early positive signal from a fix still playing out, not a fresh gap. Not re-filing; watching next snapshot before acting again.
+- **L1/L2/L3:** all three unchanged since this morning's 07:40 deep run (L3 snapshot dated 08-10 09:55, already actioned via #5478/#5479 above; L1/L2 umbrellas #3810/#2211 no new data). Human-founder blockers (#5141/#5100/#4892/#875/#529/#526/#525) — no new comments, no re-spam. Founder ideas inbox empty.
+
+### State delta
+- ai-fix backlog: 0 → 2 eligible (#5478, #5479)
+- Org/Sessions/Views (7d): 174/200/277 (down slightly from the last logged read) · GSC 6,621 impr/116 clicks/1.75%/pos 9.9
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 2/2 fresh triaged and promoted, verified live, no duplicates, freeze-compliant. ✅ GSC-gap: reviewed, resolved as in-flight not fresh. ✅ L1/L2/L3: reviewed, L3 finding actioned via the two promotions above. ✅ Starvation: backlog 0→2 same-run, SEO Agent flowing normally. ✅ Atomic split: none eligible (both fresh, single-file). ✅ Decisions logged.
+
+### Next Run
+1. Watch #5478/#5479 ship, re-verify live via the GPTBot-UA curls in each issue.
+2. Watch the next `check-indexation.yml` snapshot (~08-17) for the `discovered-not-indexed` count on `/drummer/<slug>/<category>` trending down.
+3. Track `danny carey drum kit` in the next 1-2 weekly `gsc-watch-snapshot.md` refreshes for click growth beyond the first one.
+4. #5141/#5100/#4892/#875/#529/#526/#525 unchanged — no re-spam.
+
+---
 ## 2026-08-10 07:40 — Deep run: 3 fresh proposals promoted (Alex Bent gearHighlights contradiction, Meinl-brand sources.items sibling-field miss, 8-URL Meinl/ProMark→D'Addario citation migration), L1/L2/L3 still awaiting weekly refresh
 
 ### Context (≤3 lines)

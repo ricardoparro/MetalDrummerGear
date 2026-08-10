@@ -3717,10 +3717,10 @@ McBrain is renowned for his powerful single bass drum technique, incredible stam
       },
       gearHighlights: {
         title: 'Gear Highlights',
-        content: `Nicko McBrain has been a Sonor Drums endorser for many years, using his signature SQ2 kit. Notably, he uses a single bass drum pedal for all Iron Maiden material, achieving the galloping rhythms without double bass.
+        content: `Nicko McBrain was a longtime Sonor Drums endorser and is now a British Drum Co. artist. Notably, he uses a single bass drum pedal for all Iron Maiden material, achieving the galloping rhythms without double bass.
 
 **Current Setup:**
-- **Drums**: Sonor SQ2 Nicko McBrain Signature (22"x14" Bass, various toms)
+- **Drums**: British Drum Co.
 - **Snare**: Sonor Artist Series 14"x5.5"
 - **Cymbals**: Paiste 2002 & Signature Series (14" Sound Edge Hi-Hats, 16" & 18" Power Crashes, 22" Power Ride, 20" China)
 - **Hardware**: DW 5000 Single Pedal (NOT double bass)
@@ -3730,7 +3730,7 @@ McBrain is renowned for his powerful single bass drum technique, incredible stam
 **Distinctive Gear Choices:**
 - Single bass drum pedal for all galloping patterns
 - Large cymbal setup with multiple crashes
-- Sonor SQ2 drums with custom finishes
+- British Drum Co. drums
 - Known for very high throne position`
       },
       trivia: {
@@ -3751,21 +3751,21 @@ McBrain is renowned for his powerful single bass drum technique, incredible stam
         title: 'Frequently Asked Questions',
         items: [
           { q: 'What band does Nicko McBrain play drums for?', a: 'Nicko McBrain has been the drummer for Iron Maiden since 1982, making him one of the longest-serving drummers in a major metal band at over 40 years.' },
-          { q: 'What drums does Nicko McBrain play?', a: 'Nicko McBrain plays a Sonor SQ2 Series drum kit.' },
-          { q: 'What drum kit does Nicko McBrain play?', a: 'Nicko McBrain\'s drum kit is a Sonor SQ2 Series shell pack, anchored by his Sonor Nicko McBrain Signature 14"x6.5" snare and Remo Emperor drumheads for maximum resonance.' },
-          { q: 'What drum set does Nicko McBrain play?', a: 'Nicko McBrain\'s drum set pairs Sonor SQ2 shells and his signature 14"x6.5" snare with Paiste 2002 and Signature Series cymbals, driven by a single bass drum pedal in keeping with his famous single-foot technique.' },
+          { q: 'What drums does Nicko McBrain play?', a: 'Nicko McBrain plays a British Drum Co. kit.' },
+          { q: 'What drum kit does Nicko McBrain play?', a: 'Nicko McBrain\'s drum kit is British Drum Co., anchored by his Sonor Nicko McBrain Signature 14"x6.5" snare and Remo Emperor drumheads for maximum resonance.' },
+          { q: 'What drum set does Nicko McBrain play?', a: 'Nicko McBrain\'s drum set pairs British Drum Co. shells and his signature 14"x6.5" snare with Paiste 2002 and Signature Series cymbals, driven by a single bass drum pedal in keeping with his famous single-foot technique.' },
           { q: 'What cymbals does Nicko McBrain use?', a: 'Nicko McBrain uses Paiste 2002 and Signature Series cymbals, including 14" Sound Edge Hi-Hats, 16" and 18" Power Crashes, a 22" Power Ride, and a 20" China.' },
           { q: 'What hi-hats does Nicko McBrain use?', a: 'Nicko McBrain plays 14" Paiste Sound Edge Hi-Hats, a serrated-edge design that gives his galloping rhythms a sharper, more cutting chick sound.' },
           { q: 'What snare drum does Nicko McBrain use?', a: 'Nicko McBrain\'s primary snare is his own Sonor Nicko McBrain Signature, a 14"x6.5" shell.' },
           { q: 'Does Nicko McBrain use a double bass pedal?', a: 'No — Nicko McBrain famously plays a single bass drum pedal rather than double bass or a second kick, relying on his signature single-foot "gallop" technique heard on songs like "The Trooper."' },
           { q: 'What drumsticks does Nicko McBrain use?', a: 'Nicko McBrain plays his own signature Vic Firth Nicko McBrain drumsticks.' },
-          { q: 'What drumheads does Nicko McBrain use?', a: 'Nicko McBrain uses Remo Emperor drumheads across his Sonor SQ2 Series drum kit and drum set.' }
+          { q: 'What drumheads does Nicko McBrain use?', a: 'Nicko McBrain uses Remo Emperor drumheads across his British Drum Co. kit and drum set.' }
         ]
       },
       sources: {
         title: 'Sources',
         items: [
-          { name: 'Sonor Drums Artist Profile', url: 'https://www.sonor.com/drums/artists/artists-detail/nicko-mcbrain' },
+          { name: 'British Drum Co. Artist Profile', url: 'https://www.britishdrumco.com/artists/nicko-mcbrain' },
           { name: 'Paiste Artist Profile', url: 'https://www.paiste.com/en/musicians/nicko-mcbrain' },
           { name: 'Iron Maiden Official', url: 'https://www.ironmaiden.com' },
           { name: 'Wikipedia: Nicko McBrain', url: 'https://en.wikipedia.org/wiki/Nicko_McBrain' }

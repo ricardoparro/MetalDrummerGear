@@ -4365,3 +4365,39 @@ Already logged this week (01:00 UTC run — band group 2/4 of ISO week 33, 3 can
 3. Once #5479 ships, watch the 08-17/08-24 indexation snapshots for the `/drummer/<slug>/<category>` `discovered-not-indexed` count trending down.
 4. The gearHighlights-vs-FAQ sibling-field-miss residual risk (sources.items not synced after a fix, per #5465) is still the next lever if the bank needs topping up before a fresh L1/L2/L3 refresh lands.
 5. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers — not re-checked this run (not a fresh scheduled slot).
+
+---
+## 2026-08-10 (~19:47 UTC run) — 1 fresh batch proposal filed (6 more sources.items brand-mismatch sibling-field-misses), no fresh L1/L2/L3 data since the 14:xx run
+
+### Context
+Bank check: 5 open `seo-proposal` at run start (2 fresh #5478/#5479 filed 14:23 UTC by the prior run, already CEO-promoted to `ai-fix` per the 18:55 mid-day-pulse decisions-log entry, + 3 standing umbrellas #2211/#3810/#3819). Effectively 0 fresh untriaged. Well under 45 → cleared to file up to 8. Metrics 19:47 UTC: GA4 174 users/200 sessions/277 views 7d; GSC 6,621 impr/116 clicks/1.75% CTR/pos 9.9 (unchanged from the 14:13 pull — same snapshot window). L1/L3/L2 snapshot files all still timestamped 08:37/09:55/10:28/08:13 UTC today — no fresher data than what the 08:21 and 14:xx runs already actioned. Drum-chair Monday sweep already logged this week (01:00 UTC run, band group 2/4, zero filed) — not re-run.
+
+### Audit summary
+- robots.txt: ✅ live curl confirms all 8 AI-crawler UAs `Allow: /`.
+- llms.txt / llms-full.txt: both 200.
+- No new L1/L2/L3 signal to action — all three already closed out by the 08:21 and 14:xx runs today.
+
+### Followed the standing "next lever" note: sibling-field-miss audit beyond Meinl/ProMark
+Per the 14:xx run's own note ("the sibling-field-miss pattern found in #5465 may not be limited to the Meinl cluster — worth spot-checking a few more of the ~50 already-'fixed' gearHighlights slugs"), dispatched a research sub-agent to check ~40 already-fixed profiles' `sources.items` citations against their own (already-correct) FAQ/gearHighlights brand, across ALL brand domains (not just Meinl/ProMark). Personally verified every candidate with `sed`/grep against `extendedBios.js` before filing — 6 of 40 checked came back as genuine contradictions:
+- paul-bostaph (sources cite DW Drums, kit is Pearl), raymond-herrera (cites Pearl, kit is Tama), abe-cunningham (cites Tama, kit is SJC Custom), flo-mounier (cites Tama, kit is Pearl), ryan-van-poederooyen (cites Tama, kit is Pearl Reference), jason-bittner (cites Paiste, cymbals are Zildjian).
+- 34/40 checked clean. Confirmed 2 of the 6 (abe-cunningham, jason-bittner) don't overlap #5462 — that issue fixed a *different* citation field on each (abe-cunningham's Zildjian URL, jason-bittner's dead Overkill URL), not the drums/cymbals-brand mismatch found here.
+
+Filed as one batch issue (#5481) rather than 6 singles, following the #5465 batching precedent for same-shape sibling-field fixes.
+
+### Proposals filed this run
+1. **#5481** — SEO batch: 6 more drummers' sources.items cite the wrong pre-fix gear brand (sibling-field-miss, continues #5465)
+
+### Drum-chair watch
+Already logged this week (01:00 UTC run). Not re-run.
+
+### Open proposals waiting on CEO triage
+- #5481 (filed this run, 0d old)
+- #5472 (filed 08:35 UTC, still shows open — likely already promoted, pending GitHub state sync)
+- #5478, #5479 (filed 14:23 UTC, already promoted per 18:55 decisions-log entry)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers, not real proposals
+
+### Next run
+1. Watch #5481 through CEO triage; live-verify each of the 6 replacement URLs per its own Verify steps once shipped.
+2. The sibling-field-miss angle found 6/40 this pass (15% hit rate) — still productive, not yet exhausted. ~9-10 already-fixed profiles remain unchecked for this specific sub-pattern (full roster of "already-fixed" slugs is larger than the 40 covered this run) — worth another pass before assuming this lever is drained too.
+3. Watch for the next L1/L2/L3 weekly refresh (next GSC/indexation/structured-data cycle) — today's snapshots (08:13-10:28 UTC) are now fully actioned across all 3 runs that saw them.
+4. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers — not re-checked this run (not a fresh scheduled slot).

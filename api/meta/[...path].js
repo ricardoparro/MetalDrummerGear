@@ -6699,7 +6699,10 @@ export function getMetaForPath(pathname) {
       ]);
 
       return {
-        title: `"${song.song}" by ${song.band} — BPM, Drummer & Tempo | ${SITE_NAME}`,
+        // Issue #5493: CTR-gap fix — fact-lookup queries ("<song> bpm") scan for
+        // the number first; song.metaTitle overrides the default template to
+        // front-load it for the pages GSC flagged with 0% CTR at pos 6-9.
+        title: song.metaTitle || `"${song.song}" by ${song.band} — BPM, Drummer & Tempo | ${SITE_NAME}`,
         description: `${song.song} by ${song.band} is ${song.bpm} BPM (${song.tier.label}), drummed by ${drummerName} on ${song.album} (${song.year}).${song.bpmNote ? ` ${song.bpmNote}.` : ''}`,
         image: DEFAULT_IMAGE,
         type: 'article',

@@ -1229,7 +1229,9 @@ Standing at 6'5" (196 cm), Carey is an imposing presence behind his massive Sono
       { slug: 'gojira', period: '1996-present', role: 'Drummer, co-founder' }
     ],
     metaTitle: 'Mario Duplantier Drum Kit & Gear Setup — Gojira Drummer | MetalForge',
-    metaDescription: 'Complete biography of Mario Duplantier, Gojira\'s powerful drummer known for tribal rhythms and visual art. Explore his career with Gojira, unique style, and creative contributions.',
+    // Issue #5493: CTR-gap fix — title is gear-intent-matched but this description
+    // was a biography blurb, contradicting it; rewritten gear-first to match.
+    metaDescription: 'Mario Duplantier\'s complete Tama & Zildjian drum kit breakdown: dual 22" Starclassic Bubinga bass drums, S.L.P. G-Maple snare, K Custom/A Custom cymbals & Iron Cobra double pedal — Gojira\'s full gear setup.',
     ogImage: '/images/drummers/mario-duplantier.webp',
     keywords: ['gojira', 'french drummer', 'tama drums', 'progressive death metal', 'visual artist', 'flying whales', 'environmental'],
     relatedDrummers: ['tomas-haake', 'danny-carey', 'dave-lombardo', 'eloy-casagrande'],

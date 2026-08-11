@@ -8603,14 +8603,14 @@ Erlandsson is the brother of Arch Enemy's Daniel Erlandsson; both are prominent 
 - **Snare**: Tama Starclassic Bubinga 14"x6.5"
 - **Cymbals**: Sabian AAX/HHX Series (15" HHX Xcelerator hi-hats, 20" AAX Iso crash, 19" Paragon China)
 - **Hardware**: Monolit Czarcie Kopyto double pedal, a boutique Polish pedal
-- **Sticks**: Vic Firth Rock Nylon Tip, an official At the Gates signature model
+- **Sticks**: Vic Firth Rock Nylon Tip, custom-printed At the Gates artist-endorsement batches
 - **Heads**: Evans EMAD Onyx (kicks), EC Reverse Dot (snare)
 
 **Notable Gear Evolution:**
 - Started on a budget Pearl Export kit during At the Gates' underground Slaughter of the Soul era
 - Switched to Tama Starclassic when founding The Haunted (1996) and joining Cradle of Filth (1999), a relationship that has lasted his entire career since
 - Upgraded to Tama Starclassic Bubinga, Sabian AAX/HHX cymbals, and the Monolit Czarcie Kopyto pedal during his Paradise Lost years (2009-2016)
-- His Vic Firth stick relationship matured into an official At the Gates-branded signature model`
+- His Vic Firth stick relationship matured into a custom-printed At the Gates artist-endorsement arrangement`
       },
       trivia: {
         title: 'Trivia & Notes',
@@ -8621,7 +8621,7 @@ Erlandsson is the brother of Arch Enemy's Daniel Erlandsson; both are prominent 
           'Drummed for Cradle of Filth from 1999-2006, recording Midian, Damnation and a Day, Nymphetamine, and Thornography',
           'Drummed for Paradise Lost from 2009-2016 while remaining active in At the Gates and The Haunted',
           'His opening blast beat on "Blinded by Fear" is considered one of melodic death metal\'s most iconic entrances',
-          'Has an official Vic Firth signature stick model bearing the At the Gates name'
+          'Receives custom-printed At the Gates-branded Vic Firth sticks as an artist endorsement (not a retail signature model)'
         ]
       },
       faq: {
@@ -8629,7 +8629,7 @@ Erlandsson is the brother of Arch Enemy's Daniel Erlandsson; both are prominent 
         items: [
           { q: 'What bands has Adrian Erlandsson played drums for?', a: 'Adrian Erlandsson co-founded At the Gates (1990-present), founded The Haunted (1996-1999, rejoined 2013-present), played in Cradle of Filth (1999-2006), and drummed for Paradise Lost (2009-2016).' },
           { q: 'Is Adrian Erlandsson related to Daniel Erlandsson?', a: 'Yes. Adrian Erlandsson (At the Gates, The Haunted, Paradise Lost) and Daniel Erlandsson (Arch Enemy) are brothers, both Swedish drummers from the Gothenburg extreme metal scene.' },
-          { q: 'What drum kit does Adrian Erlandsson use now?', a: 'Adrian Erlandsson currently plays a Tama Starclassic Bubinga kit with Sabian AAX/HHX cymbals, a Monolit Czarcie Kopyto double pedal, Evans drumheads, and his own Vic Firth Rock Nylon Tip At the Gates signature sticks.' },
+          { q: 'What drum kit does Adrian Erlandsson use now?', a: 'Adrian Erlandsson currently plays a Tama Starclassic Bubinga kit with Sabian AAX/HHX cymbals, a Monolit Czarcie Kopyto double pedal, Evans drumheads, and custom-printed Vic Firth Rock Nylon Tip At the Gates artist-endorsement sticks.' },
           { q: 'Did Adrian Erlandsson play in Cradle of Filth?', a: 'Yes — Adrian Erlandsson was Cradle of Filth\'s drummer from 1999 to 2006, recording Midian (2000), Damnation and a Day (2003), Nymphetamine (2004), and Thornography (2006).' },
           { q: 'What drum kit did Adrian Erlandsson use on Slaughter of the Soul?', a: 'Adrian Erlandsson used a budget Pearl Export kit for At the Gates\' Slaughter of the Soul (1995), a deliberate departure from prestige gear that matched the album\'s Studio Fredman house-kit circumstances.' },
           { q: 'What drum set does Adrian Erlandsson use?', a: 'Adrian Erlandsson\'s current drum set is a Tama Starclassic Bubinga configuration with double 22" bass drums and a four-tom setup, built around a Tama Starclassic Bubinga 14"x6.5" snare — a career-long relationship with Tama that began when he founded The Haunted and joined Cradle of Filth in the late 1990s.' },

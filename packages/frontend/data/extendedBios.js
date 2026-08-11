@@ -2826,7 +2826,7 @@ Before Arch Enemy, Erlandsson played with Eucharist, one of the pioneers of the 
 - **Drums**: Pearl Reference Pure (custom black finish)
 - **Snare**: Pearl Daniel Erlandsson Signature 14"x5.5"
 - **Cymbals**: Paiste RUDE and 2002 Series (14" RUDE Hi-Hats, 18"/19" RUDE Crashes, 22" RUDE Power Ride)
-- **Hardware**: Pearl Eliminator double pedal
+- **Hardware**: Pearl Demon Drive double pedal
 - **Sticks**: Promark 5B or custom model
 - **Heads**: Remo (various)
 

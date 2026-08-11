@@ -1458,7 +1458,7 @@ Before Slayer, Bostaph established his reputation in the Bay Area thrash scene w
       sources: {
         title: 'Sources',
         items: [
-          { name: 'DW Drums', url: 'https://www.dwdrums.com' },
+          { name: 'Pearl Drums', url: 'https://pearldrum.com' },
           { name: 'Slayer Official', url: 'https://www.slayer.net' },
           { name: 'Wikipedia: Paul Bostaph', url: 'https://en.wikipedia.org/wiki/Paul_Bostaph' }
         ]
@@ -1942,7 +1942,7 @@ His drumming on classic Fear Factory albums like "Demanufacture" (1995) and "Obs
       sources: {
         title: 'Sources',
         items: [
-          { name: 'Pearl Drums', url: 'https://pearldrum.com' },
+          { name: 'Tama Drums', url: 'https://www.tama.com/usa/artists/' },
           { name: 'Zildjian', url: 'https://zildjian.com' },
           { name: 'Fear Factory Official', url: 'https://www.fearfactory.com' },
           { name: 'Wikipedia: Raymond Herrera', url: 'https://en.wikipedia.org/wiki/Raymond_Herrera' }
@@ -4661,7 +4661,7 @@ Cunningham's playing is characterized by creative, unconventional patterns that 
       sources: {
         title: 'Sources',
         items: [
-          { name: 'Tama Drums', url: 'https://www.tama.com/usa/artists/' },
+          { name: 'SJC Custom Drums', url: 'https://sjcdrums.com' },
           { name: 'Zildjian Artist Profile', url: 'https://zildjian.com/blogs/artist/abe-cunningham' },
           { name: 'Wikipedia: Abe Cunningham', url: 'https://en.wikipedia.org/wiki/Abe_Cunningham' },
           { name: 'Deftones Official', url: 'https://www.deftones.com/' }
@@ -6336,7 +6336,7 @@ His lightning-fast blast beats, complex polyrhythmic patterns, and jazz-influenc
       sources: {
         title: 'Sources',
         items: [
-          { name: 'Tama Drums', url: 'https://www.tama.com' },
+          { name: 'Pearl Drums', url: 'https://pearldrum.com' },
           { name: 'Sabian Cymbals', url: 'https://www.sabian.com' },
           { name: 'Nuclear Blast Records', url: 'https://www.nuclearblast.com' },
           { name: 'Wikipedia: Flo Mounier', url: 'https://en.wikipedia.org/wiki/Flo_Mounier' }
@@ -6464,7 +6464,7 @@ Bittner rose to prominence with Shadows Fall during the early 2000s metalcore ex
         title: 'Sources',
         items: [
           { name: 'Mapex Drums', url: 'https://www.mapexdrums.com' },
-          { name: 'Paiste', url: 'https://www.paiste.com' },
+          { name: 'Zildjian', url: 'https://zildjian.com' },
           { name: 'Wikipedia: Jason Bittner', url: 'https://en.wikipedia.org/wiki/Jason_Bittner' }
         ]
       }
@@ -6847,7 +6847,7 @@ Van Poederooyen's versatile drumming has adapted to Townsend's constantly evolvi
         title: 'Sources',
         items: [
           { name: 'Devin Townsend Official', url: 'https://www.hevydevy.com' },
-          { name: 'Tama Drums', url: 'https://www.tama.com' },
+          { name: 'Pearl Drums', url: 'https://pearldrum.com' },
           { name: 'Sabian', url: 'https://www.sabian.com' },
           { name: 'Wikipedia: Devin Townsend', url: 'https://en.wikipedia.org/wiki/Devin_Townsend' }
         ]

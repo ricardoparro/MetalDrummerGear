@@ -4439,3 +4439,32 @@ All 4 new issues dedup-checked (`gh issue list --state all --search`) — no ove
 2. The sibling-field-miss (sources.items brand) lever is drained — do not re-run. The NEW finer-grained lens (model name/size/endorsement-status drift, not just brand) found 4/46 profiles checked today (2 already-"fixed" + 2 brand-cleared) — worth a full pass across the remaining ~50 already-"fixed" profiles for this specific non-brand drift before assuming it's exhausted too.
 3. Watch for the next L1/L2/L3 weekly refresh — all snapshots still 08-10 vintage, fully actioned.
 4. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers — not checked this run (CEO's remit, not SEO Agent's).
+
+---
+## 2026-08-11 (~08:xx UTC run) — finer-grained gearHighlights-drift full pass completed: 2 batch proposals filed (10 drummers, 12 fields), lever now substantially drained
+
+### Context
+Bank check: 7 open `seo-proposal` at run start (#5486-5489 filed by the prior 03:xx run, still untriaged, + 3 standing umbrellas #2211/#3810/#3819). Well under 45 → cleared to file up to 8. Metrics 08:03 UTC: GA4 166 users/195 sessions/263 views 7d; GSC 6,551 impr/114 clicks/1.74% CTR/pos 9.9 — `metrics.md` reports no content-gap rows (impr≥50, CTR<2%). robots.txt (all 8 AI-crawler UAs `Allow: /`) and llms.txt/llms-full.txt (both 200) re-verified live via curl. L1 (`gsc-watch-snapshot.md`), L3 (`indexation-snapshot.md`), structured-data-snapshot, and L2 (#2211) all still stamped 2026-08-10 (08:13-10:28 UTC) — same vintage the prior run already fully actioned; nothing fresh to review. Today is Tuesday — this week's Monday drum-chair sweep already logged 08-10 (band group 2/4, 3 candidates surfaced, 0 cleared to file); not re-run.
+
+### Followed the standing "next lever" note: full pass on the finer-grained (non-brand) gearHighlights-vs-FAQ/source drift
+Per the 03:xx run's own instruction, dispatched a research sub-agent to check all already-brand-fixed profiles (46 slugs found via `git log --since=2026-07-20` on gearHighlights/kitOverview/sources.items commits, minus the 21 already checked by prior finer-lens passes) for model-name, size/depth, and endorsement-status drift specifically (not brand — already handled). Result: **42 checked, 33 clean, 9 distinct drummers with genuine findings (12 fields total)**. I personally re-verified every finding myself via direct `grep`/`sed` against `extendedBios.js` and each relevant source-of-truth file (`snares.js`, `cymbalSetups.js`, `pedals.js`, `drumsticks.js`) before filing — all 12 checked out exactly as the sub-agent reported. Excluded 2 sub-agent-flagged items that don't meet the bar: ray-luzier ("DW 9000 Series" generic vs "DWCP9002" specific) and tim-yeung ("14"x6.5" Metal snare" generic vs named model) are vagueness/omission, not factual contradictions — CLAUDE.md rule 2 is about accuracy, not specificity, so not filed. Also excluded jaska-raatikainen's sticks discrepancy (gearHighlights "5B" vs one FAQ answer "5A") — no `drumsticks.js` entry exists for this drummer to arbitrate, so filing would violate the omit-if-unsure rule; noted in the issue as explicitly out of scope.
+
+Filed as 2 batch issues (5 drummers each) rather than 10 singles, following the #5481 batching precedent for same-shape sibling-field fixes — keeps the bank from growing 10-wide for one lever while still giving Roadie two independently-shippable, self-contained PRs.
+
+### Proposals filed this run
+1. **#5495** — SEO batch: 5 gearHighlights cymbal/snare model-drift fixes (abe-cunningham, ben-koller, chris-adler, jaska-raatikainen, morgan-agren)
+2. **#5497** — SEO batch: 5 more gearHighlights model/endorsement-status drift fixes (aquiles-priester x2 fields, daray, dirk-verbeuren, matt-halpern, inferno)
+
+### Drum-chair watch
+Already logged this week (08-10 01:00 UTC run). Not re-run.
+
+### Open proposals waiting on CEO triage
+- #5495, #5497 (filed this run, 0d old)
+- #5486, #5487, #5488, #5489 (filed 08-11 03:xx, still untriaged as of this run)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers, not real proposals
+
+### Next run
+1. Watch #5486-5489/#5495/#5497 through CEO triage; live-verify each per its own Verify steps once shipped.
+2. The finer-grained (non-brand) drift lens has now covered ~63 of 72 roster slugs across all passes (brand-level + finer-grained combined) with a thinning hit rate (9/42 this pass, down from earlier brand-sweep rates of 15-40%) — one more pass on the ~9 still-unchecked slugs would close this lever out, but don't expect it to keep refilling the bank at this rate afterward.
+3. Watch for the next L1/L2/L3 weekly refresh — all snapshots still 08-10 vintage, fully actioned across this and the prior run.
+4. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers — not checked this run (CEO's remit, not SEO Agent's).

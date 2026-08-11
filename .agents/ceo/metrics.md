@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-11 09:02 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-11 13:00 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 167 |
-| Sessions | 196 |
-| Page views | 264 |
-| Engagement rate | 54.59% |
-| Avg session (s) | 122 |
+| Active users | 168 |
+| Sessions | 200 |
+| Page views | 276 |
+| Engagement rate | 64.00% |
+| Avg session (s) | 125 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -21,24 +21,24 @@
 | /drummer/hellhammer | 8 | 5 |
 | /articles/kill-em-all-drum-setup | 7 | 2 |
 | /articles/damnation-drum-setup | 5 | 1 |
+| /drummer/mario-duplantier/cymbals | 5 | 1 |
+| /drummer/ben-koller | 4 | 2 |
 | /drummer/gavin-harrison | 4 | 3 |
-| /drummer/mario-duplantier/cymbals | 4 | 1 |
+| /drummer/john-otto | 4 | 4 |
+| /drummers/flo-mounier/evolution | 4 | 1 |
 | /drummers/george-kollias/evolution | 4 | 1 |
-| /articles/images-and-words-drum-setup | 3 | 2 |
-| /articles/reign-in-blood-drum-setup | 3 | 3 |
-| /drummer/ben-koller | 3 | 2 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 160 | 136 |
-| Unassigned | 35 | 35 |
+| Organic Search | 169 | 142 |
 | Direct | 28 | 24 |
+| Unassigned | 12 | 11 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 64 | 58 |
+| United States | 66 | 59 |
 | France | 10 | 6 |
 | United Kingdom | 10 | 7 |
 | Canada | 8 | 6 |

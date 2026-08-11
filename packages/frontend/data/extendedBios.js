@@ -3718,7 +3718,7 @@ McBrain is renowned for his powerful single bass drum technique, incredible stam
 
 **Current Setup:**
 - **Drums**: British Drum Co.
-- **Snare**: Sonor Artist Series 14"x5.5"
+- **Snare**: Sonor Nicko McBrain Signature 14"x6.5"
 - **Cymbals**: Paiste 2002 & Signature Series (14" Sound Edge Hi-Hats, 16" & 18" Power Crashes, 22" Power Ride, 20" China)
 - **Hardware**: DW 5000 Single Pedal (NOT double bass)
 - **Sticks**: Vic Firth Nicko McBrain Signature SNM

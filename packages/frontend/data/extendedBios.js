@@ -3218,7 +3218,7 @@ Daray's drumming combines extreme speed and technical precision with theatrical 
 - **Drums**: Pearl Masterworks Stadium Exotic
 - **Snare**: Pearl Reference 14"x5.5" Brass
 - **Cymbals**: Paiste (15" Sound Edge Hi-Hats, 2002 and RUDE crashes, 22" RUDE Power Ride)
-- **Hardware**: Pearl Demon Drive double pedal
+- **Hardware**: Pearl Demon XR double pedal
 - **Sticks**: Promark 5B
 - **Heads**: Remo Emperor/Ambassador
 
@@ -4230,7 +4230,7 @@ Verbeuren's drumming combines the technical precision of melodic death metal wit
 
 **Current Setup (Megadeth):**
 - **Drums**: Tama Starclassic Maple (22"x18" Bass, various toms)
-- **Snare**: Tama S.L.P. G-Maple 14"x6.5"
+- **Snare**: Tama S.L.P. Big Black Steel 14"x6.5"
 - **Cymbals**: Meinl Byzance Brilliant & Classics Custom Dark (14" Byzance Brilliant Hi-Hat, 18"/19"/20"/21" Classics Custom Dark Crashes, 22" Byzance Brilliant Ride, 18" Byzance Brilliant China)
 - **Hardware**: Tama Speed Cobra 910 Double Pedal
 - **Sticks**: Tama O-DVM2 (signature model)
@@ -4871,19 +4871,19 @@ Priester is considered one of the greatest power metal drummers in the world. Hi
       },
       gearHighlights: {
         title: 'Gear Highlights',
-        content: `Aquiles Priester has a signature snare product with Pearl Drums. His setup is designed for both extreme speed and powerful stage presence during high-energy performances.
+        content: `Aquiles Priester plays a Pearl Reference kit paired with his own Promark signature sticks. His setup is designed for both extreme speed and powerful stage presence during high-energy performances.
 
 **Current Setup:**
 - **Drums**: Pearl Reference Series (custom finishes)
-- **Snare**: Pearl Reference 14"x6.5" or Signature model
+- **Snare**: Pearl Reference 14"x6.5" Brass
 - **Cymbals**: Sabian HHX and AAX Series (14" HHX Evolution Hi-Hats, 18"/19" HHX X-Plosion Crashes, 21" HHX Groove Ride, 18" AAX Chinese)
-- **Hardware**: Pearl Demon Chain Drive double pedal
+- **Hardware**: Pearl Demon Drive double pedal, Pearl Icon Rack System
 - **Sticks**: ProMark TX419W Aquiles Priester Autograph
 - **Heads**: Evans
 
 **Signature Product Features:**
 - ProMark signature sticks designed for speed and power
-- Pearl Demon Chain pedal for rapid-fire double bass
+- Pearl Demon Drive pedal for rapid-fire double bass
 - Preference for Reference series drums for projection and clarity`
       },
       trivia: {
@@ -5913,7 +5913,7 @@ A graduate of Berklee College of Music, Halpern brings academic rigor to his dru
 - **Hardware**: Pearl Demon Drive Double Pedal, Pearl D-2000 Throne
 - **Electronics**: Roland SPD-SX, various triggers
 - **Throne**: Roc-n-Soc Nitro
-- **Sticks**: Vic Firth 5A or custom signature model
+- **Sticks**: ProMark TXMHW signature model (2B weight, plays like 5B)
 - **Heads**: Evans
 
 **Unique Setup Elements:**
@@ -6040,7 +6040,7 @@ Inferno's drumming combines blistering speed with surgical precision, delivering
 - **Cymbals**: Paiste RUDE series (15" RUDE Sound Edge Hi-Hats, RUDE crashes, RUDE Ride)
 - **Hardware**: Czarcie Kopyto (Devil's Hoof) Double Pedal (long boards)
 - **Throne**: Pearl D-2000
-- **Sticks**: Vic Firth 5B or signature model
+- **Sticks**: Vic Firth American Classic 2B
 - **Heads**: Remo
 
 **Unique Setup Elements:**
@@ -6070,7 +6070,7 @@ Inferno's drumming combines blistering speed with surgical precision, delivering
           { q: 'What drum set does Inferno use?', a: 'Inferno\'s drum set pairs his Pearl Masterworks shells and steel snare with a Czarcie Kopyto (Devil\'s Hoof) double pedal — a Polish-engineered direct-drive mechanism — giving him the speed and precision his relentless blast passages demand.' },
           { q: 'What cymbals does Inferno play?', a: 'Inferno plays Paiste RUDE Series cymbals: 14" Hi-Hats, a 14" Blast China, 18" and 19" Crashes, a 24" Mega Power Ride, and an 18" China.' },
           { q: 'What snare does Inferno use?', a: 'Inferno\'s snare is a Pearl Reference 14"x5" Steel, tuned for maximum cutting crack to penetrate Behemoth\'s dense wall of down-tuned guitars during blast beats exceeding 200 BPM.' },
-          { q: 'What sticks does Inferno use?', a: 'Inferno uses Vic Firth 5B drumsticks.' },
+          { q: 'What sticks does Inferno use?', a: 'Inferno uses Vic Firth American Classic 2B drumsticks.' },
           { q: 'What bass drum pedal does Inferno use?', a: 'Inferno drives his double kick with a Czarcie Kopyto (Devil\'s Hoof) double pedal, seated on a Pearl D-2000 throne.' },
           { q: 'What drumheads does Inferno use?', a: 'Inferno uses Remo drumheads across his Pearl Masterworks kit.' },
           { q: 'What band is Inferno in?', a: 'Inferno has been the drummer for Polish extreme metal band Behemoth since 1997, and also drums for Azarath.' },

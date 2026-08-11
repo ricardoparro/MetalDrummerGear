@@ -368,6 +368,21 @@ const DRUMMER_META_OVERRIDES = {
   },
 };
 
+// Issue #5493: per-song SEO title overrides for /songs/:slug pages where the
+// generic `"<song>" by <band> — BPM, Drummer & Tempo` template buries the BPM
+// number behind the full parenthetical song title. Both queries here are
+// direct fact-lookups ("<song> bpm") at pos 6-9 with 0% CTR — front-loading
+// the number into the first ~40 chars matches how a searcher scans SERPs for
+// a tempo lookup. Keyed by song slug (packages/frontend/data/metalSongsBpm.js).
+const SONG_META_OVERRIDES = {
+  'my-own-summer-shove-it': {
+    title: `My Own Summer (Shove It) — 98 BPM | Deftones Drum Tempo | ${SITE_NAME}`,
+  },
+  'crystal-mountain': {
+    title: `Crystal Mountain — 148 BPM | Death Drum Tempo | ${SITE_NAME}`,
+  },
+};
+
 // Issue #5109: pre-rename slugs from the original 2026-03 launch content (#780),
 // superseded by the whats-in-*-kit pattern. 301 these to the canonical slug instead
 // of serving byte-identical duplicate title/meta, so accumulated signal consolidates
@@ -6698,9 +6713,10 @@ export function getMetaForPath(pathname) {
         ...song.relatedSongs.map(s => ({ href: `/songs/${s.slug}`, label: `${s.song} — ${s.band} (${s.bpm} BPM)` })),
       ]);
 
+      const songOverride = SONG_META_OVERRIDES[song.slug];
       return {
-        title: `"${song.song}" by ${song.band} — BPM, Drummer & Tempo | ${SITE_NAME}`,
-        description: `${song.song} by ${song.band} is ${song.bpm} BPM (${song.tier.label}), drummed by ${drummerName} on ${song.album} (${song.year}).${song.bpmNote ? ` ${song.bpmNote}.` : ''}`,
+        title: songOverride?.title || `"${song.song}" by ${song.band} — BPM, Drummer & Tempo | ${SITE_NAME}`,
+        description: songOverride?.description || `${song.song} by ${song.band} is ${song.bpm} BPM (${song.tier.label}), drummed by ${drummerName} on ${song.album} (${song.year}).${song.bpmNote ? ` ${song.bpmNote}.` : ''}`,
         image: DEFAULT_IMAGE,
         type: 'article',
         url: songUrl,

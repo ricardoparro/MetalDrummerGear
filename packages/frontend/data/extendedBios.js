@@ -1904,7 +1904,7 @@ His drumming on classic Fear Factory albums like "Demanufacture" (1995) and "Obs
 - **Cymbals**: Zildjian (Z Custom for durability)
 - **Hardware**: DW 5000 Series Double Pedal on a Tama Power Tower Custom rack
 - **Triggers**: ddrum/Roland triggers throughout kit
-- **Sticks**: Vater Power 5B
+- **Sticks**: Pro-Mark 5A Oak Nylon Tip
 - **Heads**: Remo (Pinstripe/Ambassador)
 
 **Technical Setup:**
@@ -2164,7 +2164,7 @@ His innovative drumming on albums like "Arise," "Chaos A.D.," and "Roots" helped
 - **Cymbals**: Paiste (RUDE series for durability)
 - **Hardware**: Tama Iron Cobra double pedal
 - **Additional Percussion**: Atabaques, surdo, timbales, tribal percussion
-- **Sticks**: Promark (various models)
+- **Sticks**: Vic Firth American Classic 5B
 - **Heads**: Remo
 
 **Unique Elements:**
@@ -2829,7 +2829,7 @@ Before Arch Enemy, Erlandsson played with Eucharist, one of the pioneers of the 
 - **Snare**: Pearl Daniel Erlandsson Signature 14"x5.5"
 - **Cymbals**: Paiste RUDE and 2002 Series (14" RUDE Hi-Hats, 18"/19" RUDE Crashes, 22" RUDE Power Ride)
 - **Hardware**: Pearl Demon Drive double pedal
-- **Sticks**: Promark 5B or custom model
+- **Sticks**: Vic Firth American Classic 5B
 - **Heads**: Remo (various)
 
 **Setup Philosophy:**
@@ -3219,7 +3219,7 @@ Daray's drumming combines extreme speed and technical precision with theatrical 
 - **Snare**: Pearl Reference 14"x5.5" Brass
 - **Cymbals**: Paiste (15" Sound Edge Hi-Hats, 2002 and RUDE crashes, 22" RUDE Power Ride)
 - **Hardware**: Pearl Demon XR double pedal
-- **Sticks**: Promark 5B
+- **Sticks**: Vic Firth American Classic Extreme 5B
 - **Heads**: Remo Emperor/Ambassador
 
 **Live Setup Notes:**
@@ -4623,7 +4623,7 @@ Cunningham's playing is characterized by creative, unconventional patterns that 
 - **Snare**: SJC Custom 14"x6.5" Brass
 - **Cymbals**: Zildjian (14" K Custom Hi-Hats, 18" & 20" K Custom Crashes, 22" K Custom Ride, 19" A Custom China)
 - **Hardware**: DW 9000 Series double pedal, DW hardware
-- **Sticks**: Zildjian Abe Cunningham Artist Series
+- **Sticks**: Vic Firth American Classic 2B
 - **Heads**: Evans
 
 **Setup Philosophy:**
@@ -6425,7 +6425,7 @@ Bittner rose to prominence with Shadows Fall during the early 2000s metalcore ex
 - **Snare**: Mapex Black Panther Sledgehammer 14"x6.5"
 - **Cymbals**: Zildjian K and A Custom Series
 - **Hardware**: Mapex Falcon double pedal
-- **Sticks**: Vic Firth (5B or similar)
+- **Sticks**: ProMark Jason Bittner Signature 5BX (TX5BXN)
 - **Heads**: Evans (G2 Coated, EMAD)
 
 **Setup Philosophy:**

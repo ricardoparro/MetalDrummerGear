@@ -4401,3 +4401,41 @@ Already logged this week (01:00 UTC run). Not re-run.
 2. The sibling-field-miss angle found 6/40 this pass (15% hit rate) — still productive, not yet exhausted. ~9-10 already-fixed profiles remain unchecked for this specific sub-pattern (full roster of "already-fixed" slugs is larger than the 40 covered this run) — worth another pass before assuming this lever is drained too.
 3. Watch for the next L1/L2/L3 weekly refresh (next GSC/indexation/structured-data cycle) — today's snapshots (08:13-10:28 UTC) are now fully actioned across all 3 runs that saw them.
 4. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers — not re-checked this run (not a fresh scheduled slot).
+
+---
+## 2026-08-11 (~03:xx UTC run) — 4 fresh proposals filed (Daniel Erlandsson pedal, Nicko McBrain snare, Bill Ward kit model/size, Adrian Erlandsson signature-stick overstatement), sibling-field-miss lever confirmed drained, a finer-grained lens surfaces a fresh vein
+
+### Context
+Bank check: 4 open `seo-proposal` at run start (#5481 filed 08-10 19:52, still untriaged, + 3 standing umbrellas #2211/#3810/#3819). Well under 45 → cleared to file up to 8. Metrics 02:59 UTC: GA4 160 users/185 sessions/243 views 7d; GSC 5,392 impr/91 clicks/1.69% CTR/pos 9.6 — no content-gap rows (metrics.md: "no significant gaps detected"). All L1/L3/structured-data snapshots still 08-10 vintage (08:37/09:55/10:28 UTC), already fully actioned by yesterday's runs — nothing fresh to action. L2 (#2211) still last-refreshed 08-10 08:13, 44/100 cited, above floor. Today is Tuesday — Monday drum-chair sweep already logged this week (08-10 01:00 UTC run), not re-run. robots.txt AI-crawler allowlist and llms.txt/llms-full.txt both confirmed live (200) via curl.
+
+### Sibling-field-miss lever (sources.items brand mismatch) — now confirmed DRAINED
+Per the standing next-lever note, dispatched a sub-agent to check the remaining ~28 already-"fixed" gearHighlights slugs (after excluding the 18 already checked by #5465/#5481/#5466) for the sources.items-cites-stale-pre-fix-brand pattern. Result: **0/28 hits, all clean.** This specific sub-pattern is exhausted — do not re-run it again without new fixes landing first.
+
+### New lever found: finer-grained gearHighlights-vs-FAQ drift (model name / size / status, not just brand)
+The sibling-field-miss sub-agent incidentally flagged two profiles with non-brand contradictions (model name, depth) on drummers already "cleared" by the brand-only audits. Personally verified both against source-of-truth files before filing:
+- **daniel-erlandsson**: gearHighlights said "Pearl Eliminator" pedal; FAQ (3x) + `pedals.js:531-534` say "Pearl Demon Drive" — same brand, wrong model. Filed **#5486**.
+- **nicko-mcbrain**: gearHighlights said "Sonor Artist Series 14"x5.5"" snare; FAQ (3x) + `snares.js:411-416` say "Sonor Nicko McBrain Signature 14"x6.5"" — wrong model AND wrong depth. Distinct from this week's #5461 (kit-brand fix) and #5373 (cymbal-model fix), which never touched the snare line. Filed **#5487**.
+
+This proved the earlier brand-only sweeps had a blind spot, so dispatched a second sub-agent to re-check the 18 slugs previously cleared for brand-only (lars-ulrich, dave-lombardo, tomas-haake, george-kollias, martin-axenrot, bill-ward, kevin-talley, gavin-harrison, john-otto, jay-weinberg, art-cruz, nick-menza, adrian-erlandsson, jimmy-degrasso, nick-barker, alex-rudinger, john-longstreth, waltteri-vayrynen) for model-name/size/status drift specifically. Found 2 more, personally verified against source files:
+- **bill-ward**: 3-way disagreement — gearHighlights says "Ludwig Vistalite or Standard Maple", FAQ #1 says "Ludwig Super Classic", FAQ #2 says "Ludwig Classic Maple" with a 22" bass drum. Canonical `drummersByKit.js:121-129` (the only kit-family entry for this drummer) says "Ludwig Classic Maple, 24"×16" Bass" — only FAQ #2's model name matches, and even that has the wrong bass drum size. Filed **#5488**.
+- **adrian-erlandsson**: gearHighlights + FAQ + trivia (4 spots total) call his Vic Firth sticks an "official signature model" / "signature sticks", but `drumsticks.js:531-538` explicitly notes `endorsementType: 'artist-endorsement'` and "not a retail Signature Series model." Filed **#5489**.
+16/18 remain clean on this finer lens (lars-ulrich, dave-lombardo, tomas-haake, george-kollias, martin-axenrot, kevin-talley, gavin-harrison, john-otto, jay-weinberg, art-cruz, nick-menza, jimmy-degrasso, nick-barker, alex-rudinger, john-longstreth, waltteri-vayrynen).
+
+All 4 new issues dedup-checked (`gh issue list --state all --search`) — no overlap with any closed sibling issue (each touches a field the prior fix for that drummer never touched). All freeze-compliant: zero new pages, verified-only, single-file, directly serve L2/CLAUDE.md rule 2.
+
+### Proposals filed this run
+1. **#5486** — SEO: Daniel Erlandsson gearHighlights pedal brand model (Eliminator vs Demon Drive)
+2. **#5487** — SEO: Nicko McBrain gearHighlights snare model/depth (Artist Series 14x5.5 vs Nicko McBrain Signature 14x6.5)
+3. **#5488** — SEO: Bill Ward gearHighlights/FAQ kit model name + bass drum size 3-way disagreement
+4. **#5489** — SEO: Adrian Erlandsson signature-stick overstatement vs verified artist-endorsement status
+
+### Open proposals waiting on CEO triage
+- #5486, #5487, #5488, #5489 (filed this run, 0d old)
+- #5481 (filed 08-10 19:52, still untriaged as of this run)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers, not real proposals
+
+### Next run
+1. Watch #5481/#5486-5489 through CEO triage; live-verify each per its own Verify steps once shipped.
+2. The sibling-field-miss (sources.items brand) lever is drained — do not re-run. The NEW finer-grained lens (model name/size/endorsement-status drift, not just brand) found 4/46 profiles checked today (2 already-"fixed" + 2 brand-cleared) — worth a full pass across the remaining ~50 already-"fixed" profiles for this specific non-brand drift before assuming it's exhausted too.
+3. Watch for the next L1/L2/L3 weekly refresh — all snapshots still 08-10 vintage, fully actioned.
+4. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers — not checked this run (CEO's remit, not SEO Agent's).

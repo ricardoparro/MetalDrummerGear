@@ -4468,3 +4468,38 @@ Already logged this week (08-10 01:00 UTC run). Not re-run.
 2. The finer-grained (non-brand) drift lens has now covered ~63 of 72 roster slugs across all passes (brand-level + finer-grained combined) with a thinning hit rate (9/42 this pass, down from earlier brand-sweep rates of 15-40%) — one more pass on the ~9 still-unchecked slugs would close this lever out, but don't expect it to keep refilling the bank at this rate afterward.
 3. Watch for the next L1/L2/L3 weekly refresh — all snapshots still 08-10 vintage, fully actioned across this and the prior run.
 4. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers — not checked this run (CEO's remit, not SEO Agent's).
+
+---
+## 2026-08-11 (~14:xx UTC run) — cymbal/snare/pedal/model drift lever CONFIRMED FULLY DRAINED (0/72), new sticks-brand-drift lever found and filed (1 batch, 6 drummers)
+
+### Context
+Bank check: 5 open `seo-proposal` at run start (#5486-5489/#5495/#5497 minus whichever had already been promoted by the 13:00 CEO pulse — net 2 untriaged fresh, + 3 standing umbrellas #2211/#3810/#3819). Well under 45 → cleared to file up to 8. Metrics 14:12 UTC: GA4 168 users/200 sessions/276 views 7d; GSC 6,551 impr/114 clicks/1.74% CTR/pos 9.9 — `metrics.md` reports **no content-gap rows** (impr≥50, CTR<2%). robots.txt (all 8 AI-crawler UAs `Allow: /`) confirmed via cat of `.agents/llm-optimization-plan.md` spec, cross-referenced against the live checklist (not re-curled this run — no reason to suspect regression). Today is Tuesday — this week's Monday drum-chair sweep already logged 08-10 (band group 2/4); not re-run. All L1 (`gsc-watch-snapshot.md`)/L3 (`indexation-snapshot.md`)/structured-data/L2 (#2211) snapshots still 08-10 vintage, already fully actioned across 4 prior runs today — nothing fresh to review.
+
+### Closed out the standing "next lever": finer-grained gearHighlights drift, full 72-slug pass
+Per the 08:xx run's own instruction ("one more pass on the ~9 still-unchecked slugs would close this lever out"), dispatched a research sub-agent to cross-reference the full 72-slug roster against every prior filed/closed gearHighlights issue plus the explicit checked-clean/excluded lists from the last 2 runs' notes. Result: the union of (issues filed) + (explicitly checked-clean) + (explicitly excluded-not-qualifying) covered 71/72 slugs; only `eloy-casagrande` had never been explicitly touched. Read that entry directly and cross-checked every gear claim (snare, pedal, sticks, cymbals) against `snares.js`/`pedals.js`/`drumsticks.js`/`cymbalSetups.js` — all clean (one cymbal-count omission noted but explicitly excluded per the omit-if-unsure/vagueness-doesn't-qualify rule). **Lever confirmed exhausted: 72/72 roster slugs checked for cymbal/snare/pedal model-name, size/depth, and endorsement-status drift, 0 remaining candidates.** Do not re-run this specific lens again without a fresh regression signal.
+
+### New lever found: sticks-brand drift (a field neither the brand-level nor finer-grained sweeps ever checked)
+Wrote a direct roster-wide script comparing each drummer's `gearHighlights.content` `**Sticks**:` line brand against their own "what sticks does X use" FAQ answer brand. Found 7 mismatches; personally verified each via `grep`/`sed` against `extendedBios.js` and, where an entry exists, `packages/frontend/data/drumsticks.js`:
+- **matt-halpern** — excluded, already covered by open #5497 (item 5, same sticks field, already filed).
+- **6 genuinely new**: raymond-herrera (Vater→Pro-Mark 5A Oak Nylon Tip), igor-cavalera (Promark→Vic Firth American Classic 5B), daniel-erlandsson (Promark→Vic Firth American Classic 5B, FAQ states it twice), daray (Promark→Vic Firth American Classic Extreme 5B), abe-cunningham (Zildjian→Vic Firth American Classic 2B — confirmed the "Zildjian Artist Profile" `sources.items` citation is for his cymbal endorsement, not sticks, so no source anywhere actually backs the Zildjian sticks claim), jason-bittner (Vic Firth→ProMark Jason Bittner Signature 5BX (TX5BXN), matches `drumsticks.js:507-521` exactly).
+- Dedup-checked all 7 via `gh issue list --state all --search "<slug> sticks"` — no prior issue touches the sticks field for any of the 6 filed; daray/abe-cunningham/matt-halpern each have an OPEN issue on a *different* field (pedal, cymbal, sticks-already-filed respectively) confirmed non-overlapping by reading each issue body directly.
+- Also incidentally confirmed the `/public/llms/drummers/*.md` generator does **not** render `sections.gearHighlights.content` at all (it sources its "Gear"/"Kit Overview" sections from elsewhere, already-correct) — so these fixes matter for the live `/drummer/<slug>` page and FAQ-schema consistency, not for `/llms/drummers/*.md` freshness. Not a gap worth its own issue; noting so a future run doesn't waste time re-investigating `check-llms-freshness.yml` for this.
+
+Filed as one batch issue (6 drummers) following the #5495/#5497 batching precedent.
+
+### Proposals filed this run
+1. **#5504** — SEO batch: 6 gearHighlights sticks-brand drift fixes vs verified FAQ/source data (raymond-herrera, igor-cavalera, daniel-erlandsson, daray, abe-cunningham, jason-bittner)
+
+### Drum-chair watch
+Already logged this week (08-10 01:00 UTC run). Not re-run (today is Tuesday).
+
+### Open proposals waiting on CEO triage
+- #5504 (filed this run, 0d old)
+- #5495, #5497 (filed 08-11 08:xx, status per last decisions-log entry: #5495/#5497 promoted at 13:00 pulse — may already show closed/ai-fix by next run)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers, not real proposals
+
+### Next run
+1. Watch #5504 through CEO triage; live-verify each of the 6 sticks-line fixes per its own Verify steps once shipped.
+2. Both gearHighlights-drift lenses (brand-level AND finer-grained model/size/endorsement) are now fully drained (72/72, 0 remaining). The sticks-brand sub-lens found 6/72 fresh hits this run — worth one more targeted pass on remaining hand-authored prose *sub-fields* not yet diffed against FAQ (e.g. **Heads**/**Hardware** brand lines, which were spot-checked incidentally but never systematically scanned) before assuming the whole gearHighlights-vs-FAQ contradiction class is exhausted.
+3. GSC content-gap: `metrics.md` shows zero rows (impr≥50, CTR<2%) this run — nothing to action on that front.
+4. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers — not checked this run (CEO's remit, not SEO Agent's).

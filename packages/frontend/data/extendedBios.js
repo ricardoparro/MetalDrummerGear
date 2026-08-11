@@ -2027,7 +2027,7 @@ His drumming on classic Fear Factory albums like "Demanufacture" (1995) and "Obs
 
 **Current Setup:**
 - **Drums**: Sonor SQ2 Beech (various configurations)
-- **Snare**: Sonor Designer 14"x5" or 14"x6"
+- **Snare**: Sonor Designer 14"x5.5" Maple
 - **Cymbals**: Paiste Signature and 2002 Series (14" Signature Heavy Hi-Hats, 18"/20" Signature Fast Crashes, 22" Signature Dry Heavy Ride, 18" 2002 China)
 - **Hardware**: Sonor hardware; Sonor Giant Step double pedal
 - **Sticks**: Vic Firth (various models)
@@ -2960,7 +2960,7 @@ Children of Bodom became one of Finland's most successful metal exports, selling
 
 **Setup (Final Children of Bodom Era):**
 - **Drums**: Pearl Masters Premium Maple (custom finish)
-- **Snare**: Pearl Masters 14"x6.5"
+- **Snare**: Pearl Masters 14"x5.5" Maple
 - **Cymbals**: Zildjian A Custom & K Custom Series (14" A Custom Hi-Hats, 17"/18" A Custom Crashes, 20" K Custom Ride)
 - **Hardware**: Pearl Eliminator double pedal
 - **Sticks**: Vic Firth 5B
@@ -4621,7 +4621,7 @@ Cunningham's playing is characterized by creative, unconventional patterns that 
 **Current Setup:**
 - **Drums**: SJC Custom
 - **Snare**: SJC Custom 14"x6.5" Brass
-- **Cymbals**: Zildjian (14" A New Beat Hi-Hats, A Custom crashes, K Custom Ride)
+- **Cymbals**: Zildjian (14" K Custom Hi-Hats, 18" & 20" K Custom Crashes, 22" K Custom Ride, 19" A Custom China)
 - **Hardware**: DW 9000 Series double pedal, DW hardware
 - **Sticks**: Zildjian Abe Cunningham Artist Series
 - **Heads**: Evans
@@ -5784,7 +5784,7 @@ Adler's drumming is characterized by powerful groove-based patterns, creative us
 **Signature Setup (Lamb of God Era):**
 - **Drums**: Mapex Black Panther Design Lab
 - **Snare**: Mapex Chris Adler Signature 14"x5.5" Walnut/Maple
-- **Cymbals**: Meinl Byzance series (13" Byzance Traditional Hi-Hats, various crashes, Sand Crash-Ride)
+- **Cymbals**: Meinl Byzance series (14" Dark Hi-Hats, 18" & 19" Dark Crashes, 21" Transition Ride, 18" Extra Dry China)
 - **Hardware**: Mapex Falcon Double Pedal
 - **Sticks**: Promark Chris Adler Signature TX5AXW
 - **Throne**: Roc-n-Soc
@@ -7446,7 +7446,7 @@ Beyond Converge, Koller maintains an impressive roster of projects including Mut
 **Current Setup:**
 - **Drums**: Tama Starclassic Maple
 - **Snare**: Tama S.L.P. 14"x6" Brass
-- **Cymbals**: Zildjian (K and A Custom series)
+- **Cymbals**: Zildjian K Dark Series (14" Thin Hi-Hats, 18" & 19" Medium Thin Crashes, 21" K Custom Ride, 18" K China)
 - **Hardware**: Tama Iron Cobra double pedal
 - **Sticks**: Vic Firth or Promark 5B
 - **Heads**: Evans (G2 or EC2)

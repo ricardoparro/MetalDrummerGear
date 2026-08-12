@@ -3587,13 +3587,13 @@ Talley's drumming combines the technical demands of brutal death metal with the 
         title: 'Gear Highlights',
         content: `Kevin Talley has used various drum setups throughout his career, favoring equipment that can handle the extreme demands of brutal death metal.
 
-**Typical Setup:**
-- **Drums**: Pearl, Tama, or DW (various series depending on period)
-- **Snare**: 14"x5.5" or 14"x6.5" metal snare for attack
-- **Cymbals**: Sabian or Zildjian (bright series for cut)
-- **Hardware**: Double pedal (various manufacturers)
-- **Sticks**: Heavy sticks for durability (5B or 2B)
-- **Heads**: Remo or Evans
+**Current Setup:**
+- **Drums**: Pearl Masters Premium Legend
+- **Snare**: Pearl Masters 14"x5.5" Maple
+- **Cymbals**: Sabian AAX Series (14" Stage Hi-Hats, 17" & 18" X-Plosion Crashes, 20" Stage Ride)
+- **Hardware**: Pearl Eliminator double pedal
+- **Sticks**: Vic Firth American Classic 5B
+- **Heads**: Remo
 
 **Performance Approach:**
 - Trigger-assisted bass drums for consistency

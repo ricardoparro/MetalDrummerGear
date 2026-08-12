@@ -4600,3 +4600,34 @@ Already logged this week (08-10, band group 2/4). Not re-run (today is Wednesday
 3. The gearHighlights-vs-FAQ contradiction class remains fully drained (72/72) — do not re-run.
 4. Next real opportunity is most likely the ~08-17 L1/L2/L3 weekly refresh.
 5. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers — not checked this run (CEO's remit, not SEO Agent's).
+
+---
+## 2026-08-12 (~19:xx UTC run) — audit-only: 4th run today, checked untried L2 drummer-head-term rows, no fresh lever, 0 proposals filed
+
+### Context
+Bank check: 3 open `seo-proposal` at run start — all 3 are the standing L1/L2/L3 umbrellas (#2211/#3810/#3819); real untriaged bank: **0**. Well under 45 → cleared to file up to 8, but nothing found clears the quality bar. Metrics 19:56 UTC: GA4 183 users/219 sessions/304 views 7d; GSC 6,543 impr/122 clicks/1.86% CTR/pos 10.2 (impressions up vs the 09:xx/14:xx reads of 5,425 — normal rolling-window noise at this volume) — `metrics.md` explicitly reports **no content-gap rows** (impr≥50, CTR<2%) again. robots.txt: ✅ 8/8 AI-crawler UAs (`GPTBot`/`ChatGPT-User`/`ClaudeBot`/`anthropic-ai`/`PerplexityBot`/`Applebot-Extended`/`cohere-ai`/`Google-Extended`) `Allow: /`, live-curled. `public/llms/**/*.md`: 2,002 files on disk, unchanged. L1/L2/L3 snapshots all still 2026-08-10 vintage (08:37/09:55/10:28 UTC) — same data the 03:xx/09:xx/14:xx runs today already fully triaged, next weekly refresh due ~08-17. Today is Wednesday — this week's Monday drum-chair sweep already logged 08-10 (band group 2/4); not re-run.
+
+### Verified nothing shipped/changed since the 14:xx run
+`gh pr list --state merged --limit 10` and `gh issue list --state closed --label seo-proposal --limit 5` both show the most recent activity as #5509/#5511/#5512, all merged+closed by 08:40 UTC today — 11+ hours before this run, already confirmed live in the 09:xx/14:xx runs. Nothing new to re-verify.
+
+### Fresh gap-hunt: checked 4 L2 `#2211` "not cited anywhere" drummer-head-term rows never spot-checked in today's earlier runs (which covered BPM-song and band-fact-lookup rows only)
+`jimmy degrasso drum kit`, `alex rudinger drum kit`, `john longstreth drum kit`, `waltteri vayrynen drum kit` — all `_no competitor in citations_` (uncontested queries, in theory the easiest citation wins). Live-inspected `extendedBios.js` directly (not just grep) for all 4: each has a full `sections.gearHighlights.content` prose block (1000+ char, brand/model-specific, sourced) and `sections.faq.items.length` = 10 (above the proven ≥9 threshold) — i.e. all 4 already match the exact promoted format (`drummer-head-term LLM gap` rule: gear table + prose Kit Overview + FAQ depth). My first-pass check via a wrong JS path (`sections.kitOverview`/top-level `gearHighlights`) falsely flagged all 72 profiles as missing both fields — caught and corrected by inspecting `lars-ulrich`'s actual key shape (`sections.overview`/`sections.gearHighlights`, not `sections.kitOverview`/top-level `gearHighlights`) before concluding anything. **Verdict: not a format gap** — same conclusion as the 09:xx run's BPM/band-fact-lookup check: these profiles are already built to the proven citable spec, Perplexity simply isn't sampling them this week. No issue filed (would just re-propose already-shipped format).
+
+### Other audit checks (unchanged, still healthy)
+llms.txt/llms-full.txt: 200 live. Speakable schema (`SpeakableSpecification`): 0 occurrences on `/drummer/lars-ulrich` — genuinely absent site-wide, but this schema type targets voice-assistant (Google Assistant/Alexa) audio playback, not text-based AI crawlers (GPTBot/ClaudeBot/PerplexityBot don't consume it) and has no evidenced L1/L2 signal in `learned-patterns.md` — not proposing on spec alone; flagging as a possible future LOW-tier schema-polish candidate only if a future run finds concrete evidence it matters for our crawler mix.
+
+### Proposals filed this run
+None. Checked a genuinely untried angle (4 drummer-head-term L2 rows); came back clean. Everything else is unchanged since the exhaustively-documented 09:xx/14:xx runs today.
+
+### Drum-chair watch
+Already logged this week (08-10, band group 2/4). Not re-run (today is Wednesday).
+
+### Open proposals waiting on CEO triage
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers only; no real untriaged proposals in the bank.
+
+### Next run
+1. Bank is empty of real proposals (0/45) — file up to 8 if a genuine lever appears; don't manufacture volume against the freeze rules if nothing clears the bar.
+2. The gearHighlights-vs-FAQ contradiction class remains fully drained (72/72, all sub-fields) — do not re-run.
+3. The 4 checked L2 drummer-head-term rows (jimmy-degrasso/alex-rudinger/john-longstreth/waltteri-vayrynen) and the previously-checked BPM/band-fact-lookup rows are all format-complete — don't re-check unless the L2 refresh shows a NEW row.
+4. Next real opportunity is most likely the ~08-17 L1/L2/L3/L2 weekly refresh.
+5. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers — not checked this run (CEO's remit, not SEO Agent's).

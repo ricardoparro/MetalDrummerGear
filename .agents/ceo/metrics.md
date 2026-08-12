@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-12 08:08 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-12 09:15 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -10,9 +10,9 @@
 | --- | --- |
 | Active users | 176 |
 | Sessions | 212 |
-| Page views | 295 |
-| Engagement rate | 54.72% |
-| Avg session (s) | 127 |
+| Page views | 298 |
+| Engagement rate | 64.15% |
+| Avg session (s) | 123 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -24,16 +24,16 @@
 | /drummer/danny-carey | 6 | 2 |
 | /articles/damnation-drum-setup | 5 | 1 |
 | /drummer/mario-duplantier/cymbals | 5 | 1 |
+| /drummers | 5 | 3 |
+| /drummer/flo-mounier | 4 | 3 |
 | /drummer/gavin-harrison | 4 | 3 |
-| /drummers | 4 | 3 |
-| /drummers/danny-carey/evolution | 4 | 1 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 173 | 143 |
-| Unassigned | 36 | 32 |
+| Organic Search | 176 | 145 |
 | Direct | 29 | 25 |
+| Unassigned | 16 | 15 |
 | Cross-network | 3 | 3 |
 
 ### Top countries (sessions, last 7d)

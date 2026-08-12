@@ -1905,7 +1905,7 @@ His drumming on classic Fear Factory albums like "Demanufacture" (1995) and "Obs
 - **Hardware**: DW 5000 Series Double Pedal on a Tama Power Tower Custom rack
 - **Triggers**: ddrum/Roland triggers throughout kit
 - **Sticks**: Pro-Mark 5A Oak Nylon Tip
-- **Heads**: Remo (Pinstripe/Ambassador)
+- **Heads**: Attack Drumheads
 
 **Technical Setup:**
 - Heavy use of triggers for consistent sound
@@ -2432,7 +2432,7 @@ His drumming style combines relentless blast beats, complex double bass patterns
 - **Cymbals**: Sabian AAX and HH series (14" Hi-Hats, various crashes, 22" Ride)
 - **Hardware**: Pearl Demon Drive double pedal
 - **Sticks**: Vic Firth American Classic 5B
-- **Heads**: Remo Emperor/Ambassador
+- **Heads**: Evans
 
 **Setup Philosophy:**
 - Durability is paramount for 200+ shows per year
@@ -2693,7 +2693,7 @@ Garstka joined Animals as Leaders after the departure of original drummer Navene
 - **Cymbals**: Meinl Byzance series (including Dual Hi-Hats, Extra Dry crashes, Sand rides)
 - **Hardware**: Tama Speed Cobra 910 double pedal
 - **Sticks**: Vic Firth Matt Garstka Signature
-- **Heads**: Remo (various)
+- **Heads**: Evans
 
 **Setup Philosophy:**
 - Smaller drums for responsiveness and articulation
@@ -2830,7 +2830,7 @@ Before Arch Enemy, Erlandsson played with Eucharist, one of the pioneers of the 
 - **Cymbals**: Paiste RUDE and 2002 Series (14" RUDE Hi-Hats, 18"/19" RUDE Crashes, 22" RUDE Power Ride)
 - **Hardware**: Pearl Demon Drive double pedal
 - **Sticks**: Vic Firth American Classic 5B
-- **Heads**: Remo (various)
+- **Heads**: Evans
 
 **Setup Philosophy:**
 - Balanced between power and control
@@ -3220,7 +3220,7 @@ Daray's drumming combines extreme speed and technical precision with theatrical 
 - **Cymbals**: Paiste (15" Sound Edge Hi-Hats, 2002 and RUDE crashes, 22" RUDE Power Ride)
 - **Hardware**: Pearl Demon XR double pedal
 - **Sticks**: Vic Firth American Classic Extreme 5B
-- **Heads**: Remo Emperor/Ambassador
+- **Heads**: Evans
 
 **Live Setup Notes:**
 - Uses in-ear monitoring for orchestra synchronization
@@ -4624,7 +4624,7 @@ Cunningham's playing is characterized by creative, unconventional patterns that 
 - **Cymbals**: Zildjian (14" K Custom Hi-Hats, 18" & 20" K Custom Crashes, 22" K Custom Ride, 19" A Custom China)
 - **Hardware**: DW 9000 Series double pedal, DW hardware
 - **Sticks**: Vic Firth American Classic 2B
-- **Heads**: Evans
+- **Heads**: Remo
 
 **Setup Philosophy:**
 - Compact, efficient kit for quick access
@@ -5788,7 +5788,7 @@ Adler's drumming is characterized by powerful groove-based patterns, creative us
 - **Hardware**: Mapex Falcon Double Pedal
 - **Sticks**: Promark Chris Adler Signature TX5AXW
 - **Throne**: Roc-n-Soc
-- **Heads**: Remo (Controlled Sound on snare)
+- **Heads**: Evans
 
 **Unique Setup Elements:**
 - Traditional grip for certain patterns
@@ -7054,7 +7054,7 @@ Turner's drumming videos have gone viral on social media, showcasing his ability
 - **Hardware**: Tama Speed Cobra 910 double pedal
 - **Throne**: Ahead Spinal-G
 - **Sticks**: Promark or Vic Firth 5B
-- **Heads**: Remo (Emperor or Ambassador series)
+- **Heads**: Evans
 
 **Setup Characteristics:**
 - Emphasizes speed and responsiveness
@@ -7449,7 +7449,7 @@ Beyond Converge, Koller maintains an impressive roster of projects including Mut
 - **Cymbals**: Zildjian K Dark Series (14" Thin Hi-Hats, 18" & 19" Medium Thin Crashes, 21" K Custom Ride, 18" K China)
 - **Hardware**: Tama Iron Cobra double pedal
 - **Sticks**: Vic Firth or Promark 5B
-- **Heads**: Evans (G2 or EC2)
+- **Heads**: Remo
 
 **Setup Philosophy:**
 - Minimal kit for maximum impact

@@ -4503,3 +4503,37 @@ Already logged this week (08-10 01:00 UTC run). Not re-run (today is Tuesday).
 2. Both gearHighlights-drift lenses (brand-level AND finer-grained model/size/endorsement) are now fully drained (72/72, 0 remaining). The sticks-brand sub-lens found 6/72 fresh hits this run — worth one more targeted pass on remaining hand-authored prose *sub-fields* not yet diffed against FAQ (e.g. **Heads**/**Hardware** brand lines, which were spot-checked incidentally but never systematically scanned) before assuming the whole gearHighlights-vs-FAQ contradiction class is exhausted.
 3. GSC content-gap: `metrics.md` shows zero rows (impr≥50, CTR<2%) this run — nothing to action on that front.
 4. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers — not checked this run (CEO's remit, not SEO Agent's).
+
+---
+## 2026-08-12 (~03:xx UTC run) — Heads-field drift lever closed out (1 batch, 9 drummers); no other fresh signal this run
+
+### Context
+Bank check: 5 open `seo-proposal` at run start (#5509 pedals.js mis-keyed pair, #5511 Kevin Talley hedged-block, filed 08-11, still untriaged + 3 standing umbrellas #2211/#3810/#3819). Well under 45 → cleared to file up to 8. Metrics fresh 2026-08-12 03:18 UTC: GA4 171 users/205 sessions/287 views 7d; GSC 5,425 impr/102 clicks/1.88% CTR/pos 9.9 — `metrics.md` reports **no content-gap rows** (impr≥50, CTR<2%). robots.txt: ✅ all 8 AI-crawler UAs `Allow: /` (`api/robots.js` read directly). `/llms/drummers/*.md`, `/llms/endorsements/*.md`, `/llms/licks/*.md` all 72/72; `/llms/evolution/*.md`, `/llms/gear-history/*.md` both 67/67 — all standing lanes still saturated. `gsc-watch-snapshot.md`/`structured-data-snapshot.md` on disk carry a fresh checkout mtime but their `Generated:` headers are still 2026-08-10 08:37/10:28 UTC — no new L1/structured-data data landed since the runs that already fully actioned it. L2 (#2211) also still 08-10 08:13 vintage, 44/100 cited — next weekly refresh due ~08-17. Today is Wednesday — this week's Monday drum-chair sweep already logged 08-10 (band group 2/4, 3 candidates, 0 filed); not re-run.
+
+### GSC watch CTR-gap row already actioned
+`gsc-watch-snapshot.md`'s 3 `ctr-gap-opportunity` rows (`mario duplantier drum kit` 39 impr/0% CTR, `my own summer bpm` 72 impr/0% CTR, `crystal mountain bpm` 25 impr/0% CTR) were already filed as #5493 (closed 08-11, shipped via PR #5502, commit `6271f91e`). Live-checked via Googlebot-UA curl — the site still serves the OLD pre-fix copy (generic bio description on `/drummer/mario-duplantier`). Root-caused: **not a bug** — `deploy-prod.yml` runs once daily at `0 6 * * *` UTC, the last successful deploy was 2026-08-11T06:51:59Z (commit `5314af73`), and #5502 merged *after* that at 08:22:18Z. It's queued for today's ~06:00 UTC run. No action needed; noting so a future run doesn't waste time treating this as a regression before the next deploy fires.
+
+### Followed the standing "next lever" note: systematic Heads/Hardware brand-line scan
+Per the 2026-08-11 14:xx run's own instruction, dispatched a research sub-agent to check all 72 `gearHighlights.content` **Heads**/**Hardware** lines against each drummer's own FAQ answer (never systematically scanned before — only spot-checked incidentally by earlier sweeps). Result: **Hardware** — zero FAQ answers exist to arbitrate against for any drummer (nothing to check, correctly skipped per omit-if-unsure). **Heads** — 9 genuine brand contradictions found. I personally re-verified all 9 via direct `sed` against `packages/frontend/data/extendedBios.js` before filing — every one checked out exactly as reported:
+- raymond-herrera (Remo→Attack Drumheads), paul-mazurkiewicz/matt-garstka/daniel-erlandsson/daray (all Remo→Evans), abe-cunningham/ben-koller (Evans→Remo, opposite direction), chris-adler/chris-turner (Remo→Evans).
+- Dedup-checked all 9 via `gh issue list --state all --search "<slug> heads"` — every hit is a different field (Drums/Snare/Pedal/Cymbal/Sticks/Endorsement-tracker/FAQ-depth), none mentions the Heads line. Confirmed no overlap with open #5511 (Kevin Talley's Heads field is a "Remo or Evans" hedge that already includes the FAQ's brand — not a disagreement, correctly excluded by the sub-agent).
+
+Filed as one batch issue (9 drummers) following the #5495/#5497/#5504 batching precedent.
+
+### Proposals filed this run
+1. **#5512** — SEO batch: 9 gearHighlights Heads-field brand drift fixes vs verified FAQ answers (raymond-herrera, paul-mazurkiewicz, matt-garstka, daniel-erlandsson, daray, abe-cunningham, chris-adler, chris-turner, ben-koller)
+
+### Drum-chair watch
+Already logged this week (08-10 01:00 UTC run, band group 2/4). Not re-run (today is Wednesday).
+
+### Open proposals waiting on CEO triage
+- #5512 (filed this run, 0d old)
+- #5509, #5511 (filed 08-11, still untriaged as of this run)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers, not real proposals
+
+### Next run
+1. Watch #5509/#5511/#5512 through CEO triage; live-verify #5512's 9 Heads-line fixes per its own Verify steps once shipped.
+2. The gearHighlights-vs-FAQ contradiction class is now fully drained across every sub-field checked so far (Drums/Snare/Cymbals/Pedal/Sticks/Heads, all brand+model+endorsement-status lenses, 72/72). Hardware has no FAQ counterpart to arbitrate against — do not re-run that specific check. If the bank needs topping up before a fresh L1/L2/L3 refresh lands, the next candidate lever is unclear — consider a fresh full-roster pass only if new gearHighlights prose ships (new roster additions are frozen, so this may be genuinely exhausted).
+3. Watch for today's ~06:00 UTC deploy to carry #5502 (mario-duplantier CTR-gap fix) live; re-verify via Googlebot-UA curl afterward — do not re-file the CTR-gap issue in the meantime.
+4. Watch for the next L1 (`gsc-watch-snapshot.md`)/L3 (`indexation-snapshot.md`)/L2 (#2211) weekly refresh — all still 08-10 vintage, fully actioned.
+5. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers — not checked this run (CEO's remit, not SEO Agent's).

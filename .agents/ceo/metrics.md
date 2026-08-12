@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-12 19:56 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-12 20:01 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,16 +8,16 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 183 |
-| Sessions | 219 |
+| Active users | 184 |
+| Sessions | 220 |
 | Page views | 304 |
-| Engagement rate | 62.10% |
-| Avg session (s) | 125 |
+| Engagement rate | 61.82% |
+| Avg session (s) | 124 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 16 | 8 |
+| / | 16 | 9 |
 | /drummer/hellhammer | 8 | 5 |
 | /articles/kill-em-all-drum-setup | 6 | 2 |
 | /drummer/ben-koller | 6 | 4 |
@@ -33,14 +33,14 @@
 | --- | --- | --- |
 | Organic Search | 178 | 147 |
 | Direct | 30 | 26 |
-| Unassigned | 21 | 20 |
+| Unassigned | 22 | 21 |
 | Cross-network | 5 | 5 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
 | United States | 71 | 63 |
-| France | 13 | 8 |
+| France | 14 | 9 |
 | Germany | 11 | 10 |
 | Canada | 9 | 6 |
 | United Kingdom | 9 | 6 |

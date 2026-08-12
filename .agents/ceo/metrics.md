@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-12 03:18 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-12 08:08 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 171 |
-| Sessions | 205 |
-| Page views | 287 |
-| Engagement rate | 56.59% |
-| Avg session (s) | 129 |
+| Active users | 176 |
+| Sessions | 212 |
+| Page views | 295 |
+| Engagement rate | 54.72% |
+| Avg session (s) | 127 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -20,10 +20,10 @@
 | / | 16 | 8 |
 | /drummer/hellhammer | 8 | 5 |
 | /articles/kill-em-all-drum-setup | 6 | 2 |
+| /drummer/ben-koller | 6 | 4 |
 | /drummer/danny-carey | 6 | 2 |
 | /articles/damnation-drum-setup | 5 | 1 |
 | /drummer/mario-duplantier/cymbals | 5 | 1 |
-| /drummer/ben-koller | 4 | 3 |
 | /drummer/gavin-harrison | 4 | 3 |
 | /drummers | 4 | 3 |
 | /drummers/danny-carey/evolution | 4 | 1 |
@@ -31,23 +31,24 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 167 | 139 |
-| Unassigned | 30 | 27 |
+| Organic Search | 173 | 143 |
+| Unassigned | 36 | 32 |
 | Direct | 29 | 25 |
+| Cross-network | 3 | 3 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 67 | 59 |
-| France | 11 | 7 |
-| Germany | 10 | 10 |
+| United States | 70 | 62 |
+| France | 12 | 7 |
+| Germany | 11 | 10 |
 | Canada | 9 | 6 |
 | United Kingdom | 9 | 6 |
 | Mexico | 7 | 6 |
+| Spain | 7 | 7 |
 | Australia | 6 | 5 |
 | Netherlands | 6 | 6 |
 | Poland | 6 | 5 |
-| Spain | 6 | 6 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |

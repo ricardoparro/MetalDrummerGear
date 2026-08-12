@@ -4537,3 +4537,33 @@ Already logged this week (08-10 01:00 UTC run, band group 2/4). Not re-run (toda
 3. Watch for today's ~06:00 UTC deploy to carry #5502 (mario-duplantier CTR-gap fix) live; re-verify via Googlebot-UA curl afterward — do not re-file the CTR-gap issue in the meantime.
 4. Watch for the next L1 (`gsc-watch-snapshot.md`)/L3 (`indexation-snapshot.md`)/L2 (#2211) weekly refresh — all still 08-10 vintage, fully actioned.
 5. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers — not checked this run (CEO's remit, not SEO Agent's).
+
+---
+## 2026-08-12 (~09:xx UTC run) — audit-only: no fresh lever found, 0 proposals filed
+
+### Context
+Bank check: 4 open `seo-proposal` at run start (#5512, filed 08-12 03:32, still untriaged + 3 standing umbrellas #2211/#3810/#3819). Well under 45 → cleared to file up to 8, but quality-over-volume governs (one strong proposal beats thin batches). Metrics 08:08 UTC: GA4 176 users/212 sessions/295 views 7d; GSC 5,425 impr/102 clicks/1.88% CTR/pos 9.9 — `metrics.md` explicitly reports **no content-gap rows** (impr≥50, CTR<2%). robots.txt: ✅ all 8 AI-crawler UAs (`GPTBot`/`ChatGPT-User`/`ClaudeBot`/`anthropic-ai`/`PerplexityBot`/`Applebot-Extended`/`cohere-ai`/`Google-Extended`) `Allow: /`, live-curled. `llms.txt`/`llms-full.txt` both 200 live. 2,002 `/public/llms/**/*.md` files on disk. `gsc-watch-snapshot.md`/`indexation-snapshot.md`/`structured-data-snapshot.md` all still 2026-08-10 vintage (08:37/09:55/10:28 UTC) — same snapshot the prior 3 runs today already fully triaged; nothing fresh. L2 (#2211) also 08-10 08:13 vintage, 44/100 cited. Today is Wednesday — this week's Monday drum-chair sweep already logged 08-10 (band group 2/4, 3 candidates, 0 filed); not re-run.
+
+### Spent the run hunting for a genuinely new lever (none of the standing ones refilled)
+Per the 03:xx run's own "next lever unclear" note, investigated four candidate angles before concluding none clears the bar to file:
+
+1. **L2 not-cited BPM song queries** (`what bpm is master of puppets`, `painkiller bpm`, `crystal mountain bpm`, `hammer smashed face bpm`, `laid to rest bpm`, `the trooper bpm`, `walk pantera bpm`, `unsainted bpm`, `bleed`/`blackened` variants) — checked `getSongPageSlugs()` gate: 9/11 already qualify and have live `/songs/<slug>` pages. Live-curled `/songs/master-of-puppets` (GPTBot UA): title, meta description, visible `<p>` prose answer, visible FAQ `<h3>`/`<p>` text (confirming #5478's visible-FAQ-render fix already covers this route), MusicRecording+FAQPage+BreadcrumbList JSON-LD all correct and present. The page is already fully built to the proven citable format — Perplexity simply isn't citing it this week, reading as competitive/authority noise on a single-provider sample, not a fixable format gap. No issue filed (would just re-propose already-shipped format).
+2. **L2 not-cited band fact-lookup queries** (`who is the drummer of slipknot/tool/gojira/mastodon/pantera`) — live-curled all 5 `/bands/<slug>` pages (PerplexityBot UA): every one already has the exact-phrased FAQ question (`Who is the drummer for <band>?`) as both JSON-LD and visible `<h3>`/`<p>` text. Same conclusion — format already matches the proven pattern, gap is authority/competition (drumeo.com/drummerworld.com), not fixable via a content proposal.
+3. **`discovered-not-indexed` guide cluster** (4 URLs: `best-china-cymbals-for-mathcore`, `best-china-cymbals-for-sludge-metal`, `best-drum-hardware-for-groove-metal`, `best-ride-cymbals-for-extreme-metal`) — checked `genreGearGuides.js` for internal cross-links: all 4 already appear in sibling guides' related-guides arrays, so not orphaned/unlinked. Reads as ordinary crawl-queue lag on a ~600-page family, not a linking defect. Too weak a signal to file, and the other 99 `discovered-not-indexed` rows are the already-promoted-and-queued #5479 `/drummer/<slug>/<category>` ssrLinks fix (PR merged 08-10, awaiting today's ~06:00 UTC deploy per the 03:xx run's note) — not a new finding.
+4. **`error-inspect`=25 count in `indexation-snapshot.md`** — traced to `check-indexation.cjs:246`: these are GSC Inspection API calls that errored transiently (`r._error`), explicitly excluded from history/regressions by the script itself (lines 264/279) — not real page defects, correctly already-excluded. No bug.
+
+### Proposals filed this run
+None. All four investigated angles resolved to either noise, already-shipped-and-queued, or too weak to clear the quality bar.
+
+### Drum-chair watch
+Already logged this week (08-10 01:00 UTC run, band group 2/4). Not re-run (today is Wednesday).
+
+### Open proposals waiting on CEO triage
+- #5509, #5511, #5512 (filed 08-11/08-12, untriaged as of this run)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers, not real proposals
+
+### Next run
+1. Watch #5509/#5511/#5512 through CEO triage.
+2. Watch today's ~06:00 UTC deploy carry #5479 (drummer→category-page ssrLinks) and #5502 (mario-duplantier CTR-gap) live; re-verify both via bot-UA curl once deployed — the `discovered-not-indexed` cluster (99/103 rows) should start clearing over the next 1-2 recrawl cycles after that.
+3. The gearHighlights-vs-FAQ contradiction class remains fully drained (Drums/Snare/Cymbals/Pedal/Sticks/Heads/Hardware, 72/72) — do not re-run. No new replicable lever identified this run; the next real opportunity is most likely the 08-17 L1/L2/L3 weekly refresh, not a proactive sweep.
+4. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers — not checked this run (CEO's remit, not SEO Agent's).

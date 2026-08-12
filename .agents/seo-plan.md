@@ -4567,3 +4567,36 @@ Already logged this week (08-10 01:00 UTC run, band group 2/4). Not re-run (toda
 2. Watch today's ~06:00 UTC deploy carry #5479 (drummer→category-page ssrLinks) and #5502 (mario-duplantier CTR-gap) live; re-verify both via bot-UA curl once deployed — the `discovered-not-indexed` cluster (99/103 rows) should start clearing over the next 1-2 recrawl cycles after that.
 3. The gearHighlights-vs-FAQ contradiction class remains fully drained (Drums/Snare/Cymbals/Pedal/Sticks/Heads/Hardware, 72/72) — do not re-run. No new replicable lever identified this run; the next real opportunity is most likely the 08-17 L1/L2/L3 weekly refresh, not a proactive sweep.
 4. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers — not checked this run (CEO's remit, not SEO Agent's).
+
+---
+## 2026-08-12 (~14:xx UTC run) — audit-only: deploys verified live, fresh route-family spot-check clean, 0 proposals filed
+
+### Context
+Bank check: 3 open `seo-proposal` at run start — all 3 are the standing L1/L2/L3 umbrellas (#2211/#3810/#3819); #5509/#5511/#5512 (open at the prior ~09:xx run) have since been triaged out. Real untriaged bank: **0**, well under 45 → cleared to file up to 8, but nothing found clears the quality bar (see below). Metrics 14:13 UTC: 180 users/216 sessions/300 views 7d (up slightly from the 09:xx run's 176/212/295 — normal noise). GSC 5,425 impr/102 clicks/1.88% CTR/pos 9.9 — `metrics.md` explicitly reports no content-gap rows (impr≥50, CTR<2%) again. Today is Wednesday — this week's Monday drum-chair sweep already logged 08-10 (band group 2/4); not re-run.
+
+### Verified this run's two outstanding "watch the deploy" items from the prior run
+- **#5479** (drummer profile → gear-category subpage internal links): confirmed shipped and live — `curl -A GPTBot https://metalforge.io/drummer/ben-koller` now links to all 6 of its own category subpages (cymbals/drums/hardware/pedals/snare/sticks), where before the fix it linked to none. Closed 2026-08-10.
+- **#5493** (CTR-gap sweep incl. mario-duplantier drum kit): merged 2026-08-11, page live (200).
+- `discovered-not-indexed` cluster (103 rows, mostly `/drummer/<slug>/<category>` pages) should start clearing over the next 1-2 Google recrawl cycles now that #5479's internal links are live — nothing to file, just a data point for next week's indexation-snapshot read.
+
+### Fresh gap-hunt: live bot-UA spot-check (title/meta/canonical/h1) across route families not recently sampled
+Per the 07-25 note ("worth a fuller pass... on newer route families next time bank is thin"), live-curled (Googlebot UA) one representative page from `/techniques/<slug>`, `/technique/<slug>/drummers`, `/studies/<slug>`, `/lists/<slug>`, `/vs/<slug>`, `/gear-by-budget`. All 6 returned `x-meta-handler: hit-v1`, a page-specific `<title>`, correct self-referencing `<link rel="canonical">`, and exactly one `<h1>`. Two apparent misses during testing (a `/technique/blast-beat` singular-path 404-equivalent and a fabricated `/studies/hardest-hitting-drummers` slug) were **my own test errors** — the real routes are `/techniques/<slug>` (plural) and the 4 real study slugs (`most-used-gear-brands-metal`, `metal-tempo-by-subgenre`, `drum-endorsement-landscape`, `metal-kit-configurations`); re-tested against the correct paths and both are clean. No bug — noting the correction so a future run doesn't repeat the same mistaken lead. This lever is now spent for this pass; route families sampled are healthy.
+
+### Other audit checks (unchanged, still healthy)
+robots.txt: 8/8 AI crawler UAs `Allow: /`, live-curled. `llms.txt`/`llms-full.txt`: 200. `public/llms/**/*.md`: 2,002 files on disk (consistent with prior counts). L1/L2/L3/structured-data snapshots still 2026-08-10 vintage (same as the 09:xx run read) — no fresh refresh yet; next expected ~08-17.
+
+### Proposals filed this run
+None. Deploy verification confirmed healthy; the fresh route-family spot-check (the one genuinely new angle available) came back clean; everything else is unchanged since the exhaustively-documented 09:xx run today. Filing anything now would be quota-filling, not a real gap — audit-only is the correct outcome per the freeze rules.
+
+### Drum-chair watch
+Already logged this week (08-10, band group 2/4). Not re-run (today is Wednesday).
+
+### Open proposals waiting on CEO triage
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers only; no real untriaged proposals in the bank.
+
+### Next run
+1. Bank is empty of real proposals (0/45) — next run should file up to 8 if a genuine lever appears; do not manufacture volume against the freeze rules if nothing clears the bar.
+2. Watch the `discovered-not-indexed` cluster (103 rows) shrink in the next `indexation-snapshot.md` refresh now that #5479 is confirmed live.
+3. The gearHighlights-vs-FAQ contradiction class remains fully drained (72/72) — do not re-run.
+4. Next real opportunity is most likely the ~08-17 L1/L2/L3 weekly refresh.
+5. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers — not checked this run (CEO's remit, not SEO Agent's).

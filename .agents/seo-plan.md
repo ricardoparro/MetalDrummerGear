@@ -4666,3 +4666,34 @@ Already logged this week (08-10, band group 2/4). Not re-run (today is Thursday)
 3. The `sources.items` citation-health audit (this run) covered the full 210 unique URLs — the remaining ~207 are confirmed healthy or bot-blocked, not dead. A full re-audit isn't worth re-running soon; spot-check only if a specific brand domain change is suspected.
 4. Next real opportunity is most likely the ~08-17 L1/L2/L3/L2 weekly refresh.
 5. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers — not checked this run (CEO's remit, not SEO Agent's).
+
+---
+## 2026-08-13 (~run 2 of the day) — new lever found: articleSchema-embedded FAQ invisible as body text on the flagship /drummer/<slug> family + the whole /gear/.../drummers-using family (2 proposals)
+
+### Context
+Bank check: 3 open `seo-proposal` at run start (the standing L1/L2/L3 umbrellas #2211/#3810/#3819 — #5518 from run 1 already shipped/closed by 04:51 UTC today). Real untriaged bank: **0**. Well under 45 → cleared to file up to 8. Metrics 08:11 UTC: GA4 174 users/214 sessions/289 views 7d; GSC 6,654 impr/122 clicks/1.83% CTR/pos 10.4 — `metrics.md` reports no content-gap rows. `gsc-watch-snapshot.md`/`structured-data-snapshot.md`/`indexation-snapshot.md` all still 08-10 vintage (unchanged) — the 3 big-losses and 3 CTR-gap rows were already reviewed/actioned per the 08-10/08-11/08-13-run-1 notes; structured-data snapshot shows 0 missing-fields (clean). Today is Thursday — this week's Monday drum-chair sweep already logged 08-10 (band group 2/4); not re-run.
+
+### New lever found: the #5478 follow-on it explicitly deferred
+#5478 (shipped) fixed 56 route branches where `meta.faqSchema` produced FAQPage JSON-LD but no visible body text — but its scope note explicitly excluded routes that bake FAQ into a hand-rolled `articleSchema` `@graph` via a `faqMainEntity`-shaped variable instead, flagging it as "a separate, smaller follow-on if desired." Grepped `faqMainEntity`/`brandFaqMainEntity` across `api/meta/[...path].js` and live-curled every distinct route type before filing:
+- **`/drummer/<slug>`** (canonical profile route, `drummerPrefixMatch`, 72 pages — the single highest-traffic page family per `metrics.md`'s top-pages table): `curl -sA "...Googlebot..." https://metalforge.io/drummer/danny-carey | grep -c "Frequently Asked Questions"` → **0**, despite an 8+-question curated FAQPage JSON-LD block in `<head>`. Filed **#5520**.
+- **`/gear/<brand>/<series>/drummers-using`** (~40 pages, 3 separate branches all with the same gap — `kitDrummersMatch`, `brandLevelDrummersMatch`, and the generic `getGearSeriesData` series handler): same live-curl proof on `/gear/tama/star-classic-maple/drummers-using` → 0 visible FAQ text vs. a 3-question JSON-LD block present. Filed **#5521** (batch, all 3 branches, shared fix mechanism with #5520).
+- Also checked: the bare-slug `/{slug}` route (`drummerMatch`, ~line 3895) has the identical bug but is **dead code** — no vercel.json rewrite serves that pattern in production (confirmed by curling `https://metalforge.io/danny-carey`, which returns the plain SPA shell, not this handler's output). Not filing — no live URL is affected, out of SEO Agent's remit (engineering cleanup, not a citation/traffic lever).
+
+Both proposals reuse a single shared fix mechanism (`meta.faqDisplayItems`, mirroring the existing `meta.faqSchema` visible-render pattern in `generateMetaHtml()` but kept separate to avoid duplicating the JSON-LD `articleSchema` already emits) — purely additive, zero schema change, zero new pages, freeze-compliant. Verified no duplicate/prior issue exists (`gh issue list --state all --search "faqMainEntity"` / "articleSchema FAQ"` — only #5478/#4613 and other already-shipped schema issues, none covering this exact articleSchema-embedded pattern).
+
+### Proposals filed this run
+1. **#5520** — SEO: /drummer/<slug> profile pages' curated FAQ is JSON-LD only, invisible as body text (72 pages, flagship page type)
+2. **#5521** — SEO batch: /gear/<brand>/<series>/drummers-using FAQ is JSON-LD only, invisible as body text (3 route branches, ~40 pages)
+
+### Drum-chair watch
+Already logged this week (08-10, band group 2/4). Not re-run (today is Thursday).
+
+### Open proposals waiting on CEO triage
+- #5520, #5521 (filed this run, 0d old)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers only.
+
+### Next run
+1. Watch #5520/#5521 through CEO triage; live-verify the visible FAQ text (curl) once shipped, and diff the JSON-LD `<head>` block pre/post to confirm byte-identical (no duplicate FAQPage regression).
+2. The `faqMainEntity`/`articleSchema`-embedded-FAQ pattern is now fully mapped across the file (3 known route families: drummer profiles, gear-drummers-using x3 branches, bare-slug dead code) — don't re-grep from scratch next time, just check whether #5520/#5521 shipped.
+3. Next real opportunity is most likely the ~08-17 L1/L2/L3/L2 weekly refresh.
+4. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers — not checked this run (CEO's remit, not SEO Agent's).

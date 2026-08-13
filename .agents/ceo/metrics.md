@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-13 03:22 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-13 08:11 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,16 +8,16 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 171 |
-| Sessions | 212 |
-| Page views | 285 |
-| Engagement rate | 56.60% |
-| Avg session (s) | 130 |
+| Active users | 174 |
+| Sessions | 214 |
+| Page views | 289 |
+| Engagement rate | 56.07% |
+| Avg session (s) | 129 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 15 | 9 |
+| / | 16 | 10 |
 | /articles/kill-em-all-drum-setup | 11 | 2 |
 | /drummer/ben-koller | 6 | 4 |
 | /drummer/danny-carey | 6 | 2 |
@@ -31,15 +31,15 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 164 | 132 |
-| Unassigned | 32 | 26 |
-| Direct | 31 | 27 |
+| Organic Search | 165 | 133 |
+| Unassigned | 34 | 28 |
+| Direct | 32 | 28 |
 | Cross-network | 7 | 7 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 68 | 57 |
+| United States | 70 | 60 |
 | France | 13 | 8 |
 | Germany | 11 | 10 |
 | United Kingdom | 11 | 8 |
@@ -53,38 +53,38 @@
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 5,410 |
-| Clicks | 101 |
-| CTR | 1.87% |
-| Avg position | 10.2 |
+| Impressions | 6,654 |
+| Clicks | 122 |
+| CTR | 1.83% |
+| Avg position | 10.4 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| eloy casagrande drum kit | 25 | 2 | 8.00% | 10.4 |
-| best metal drummers of all time | 6 | 1 | 16.67% | 7.7 |
+| eloy casagrande drum kit | 28 | 2 | 7.14% | 10.3 |
+| best death metal drummers | 4 | 1 | 25.00% | 5.5 |
+| best metal drummers of all time | 9 | 1 | 11.11% | 8.6 |
+| danny carey drumkit | 14 | 1 | 7.14% | 9.0 |
 | death metal snare | 1 | 1 | 100.00% | 12.0 |
 | laid to rest tempo | 4 | 1 | 25.00% | 9.8 |
-| matt garstka drum kit | 17 | 1 | 5.88% | 6.9 |
-| matt greiner drum setup | 17 | 1 | 5.88% | 9.2 |
-| nick menza drum kit | 3 | 1 | 33.33% | 8.7 |
+| matt garstka drum kit | 19 | 1 | 5.26% | 6.9 |
+| matt greiner drum setup | 20 | 1 | 5.00% | 9.1 |
+| nick menza drum kit | 4 | 1 | 25.00% | 6.8 |
 | what snare does eloy casagrande use | 5 | 1 | 20.00% | 8.8 |
-| "12 hours" debut album 1970 | 2 | 0 | 0.00% | 10.0 |
-| "12 hours" debut album 1970s | 12 | 0 | 0.00% | 9.9 |
 
 ### Top countries (impressions, last 7d)
 | Country | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| usa | 1,860 | 31 | 1.67% | 9.7 |
-| deu | 197 | 7 | 3.55% | 8.6 |
-| gbr | 295 | 6 | 2.03% | 9.9 |
-| mex | 87 | 5 | 5.75% | 9.5 |
-| aus | 235 | 4 | 1.70% | 8.9 |
-| esp | 76 | 4 | 5.26% | 9.0 |
-| ita | 89 | 4 | 4.49% | 8.7 |
-| nld | 80 | 4 | 5.00% | 8.3 |
-| pol | 88 | 4 | 4.55% | 9.0 |
-| fra | 123 | 3 | 2.44% | 10.2 |
+| usa | 2,258 | 37 | 1.64% | 10.0 |
+| deu | 234 | 8 | 3.42% | 8.7 |
+| esp | 91 | 7 | 7.69% | 9.8 |
+| gbr | 371 | 6 | 1.62% | 9.5 |
+| mex | 103 | 6 | 5.83% | 9.8 |
+| pol | 108 | 6 | 5.56% | 9.0 |
+| ita | 112 | 5 | 4.46% | 8.6 |
+| nld | 110 | 5 | 4.55% | 7.7 |
+| aus | 282 | 4 | 1.42% | 9.0 |
+| fra | 155 | 4 | 2.58% | 10.1 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 _no significant gaps detected — all queries with traction have decent CTR_

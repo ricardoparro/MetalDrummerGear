@@ -2207,7 +2207,7 @@ His innovative drumming on albums like "Arise," "Chaos A.D.," and "Roots" helped
       sources: {
         title: 'Sources',
         items: [
-          { name: 'Cavalera Conspiracy Official', url: 'https://www.cavalera.net' },
+          { name: 'Cavalera Conspiracy Official', url: 'https://www.cavaleraconspiracy.net/' },
           { name: 'Paiste', url: 'https://www.paiste.com' },
           { name: 'Modern Drummer Magazine', url: 'https://www.moderndrummer.com' },
           { name: 'Wikipedia: Igor Cavalera', url: 'https://en.wikipedia.org/wiki/Igor_Cavalera' }
@@ -4407,7 +4407,7 @@ Frost is renowned for his blistering speed, metronomic precision, and seemingly 
           { name: 'Zildjian Artist Profile', url: 'https://zildjian.com/blogs/artist/kjetil-haraldstad' },
           { name: 'Wikipedia: Frost (musician)', url: 'https://en.wikipedia.org/wiki/Frost_(musician)' },
           { name: 'Satyricon Official', url: 'https://www.satyricon.no/' },
-          { name: '1349 Official', url: 'https://www.1349.com/' }
+          { name: '1349 Official', url: 'https://legion1349.com/' }
         ]
       }
     }
@@ -8644,7 +8644,7 @@ Erlandsson is the brother of Arch Enemy's Daniel Erlandsson; both are prominent 
         title: 'Sources',
         items: [
           { name: 'Metal-Rules.com — Adrian Erlandsson Interview', url: 'https://metal-rules.com' },
-          { name: 'Blunt Magazine Interview', url: 'https://www.blunt.com.au' },
+          { name: 'Blunt Magazine Interview', url: 'https://bluntmag.com.au/' },
           { name: 'Wikipedia: Adrian Erlandsson', url: 'https://en.wikipedia.org/wiki/Adrian_Erlandsson' },
           { name: 'Discogs: Adrian Erlandsson', url: 'https://www.discogs.com/artist/44265-Adrian-Erlandsson' }
         ]

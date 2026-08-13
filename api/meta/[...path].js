@@ -663,6 +663,23 @@ export function getMetaForPath(pathname) {
 
   // Quiz page
   if (path === '/quiz') {
+    // Issue #5524: hoisted so the same Q&A used in the articleSchema FAQPage
+    // node below can also be rendered as visible body text via faqDisplayItems,
+    // without emitting a second competing FAQPage JSON-LD.
+    const quizFaqItems = [
+      {
+        question: 'What is the MetalForge metal drummer quiz?',
+        answer: 'The MetalForge quiz asks about your drumming style, preferred genres, and gear preferences to match you with a legendary metal drummer profile. Takes about 2 minutes.',
+      },
+      {
+        question: 'How many metal drummers are in the quiz?',
+        answer: `The quiz can match you to ${drummers.length} legendary metal drummers in the MetalForge database, from Lars Ulrich and Joey Jordison to George Kollias and Tomas Haake.`,
+      },
+      {
+        question: 'Is the MetalForge drummer quiz free?',
+        answer: 'Yes, the MetalForge drummer quiz is completely free. No signup required.',
+      },
+    ];
     return {
       title: `Which Legendary Metal Drummer Are You? 🤘 | ${SITE_NAME}`,
       description: 'Take the quiz and discover which legendary metal drummer matches your style! Joey Jordison? George Kollias? Lars Ulrich? Find out now!',
@@ -683,32 +700,11 @@ export function getMetaForPath(pathname) {
         '@graph': [
           {
             '@type': 'FAQPage',
-            mainEntity: [
-              {
-                '@type': 'Question',
-                name: 'What is the MetalForge metal drummer quiz?',
-                acceptedAnswer: {
-                  '@type': 'Answer',
-                  text: 'The MetalForge quiz asks about your drumming style, preferred genres, and gear preferences to match you with a legendary metal drummer profile. Takes about 2 minutes.',
-                },
-              },
-              {
-                '@type': 'Question',
-                name: 'How many metal drummers are in the quiz?',
-                acceptedAnswer: {
-                  '@type': 'Answer',
-                  text: `The quiz can match you to ${drummers.length} legendary metal drummers in the MetalForge database, from Lars Ulrich and Joey Jordison to George Kollias and Tomas Haake.`,
-                },
-              },
-              {
-                '@type': 'Question',
-                name: 'Is the MetalForge drummer quiz free?',
-                acceptedAnswer: {
-                  '@type': 'Answer',
-                  text: 'Yes, the MetalForge drummer quiz is completely free. No signup required.',
-                },
-              },
-            ],
+            mainEntity: quizFaqItems.map(item => ({
+              '@type': 'Question',
+              name: item.question,
+              acceptedAnswer: { '@type': 'Answer', text: item.answer },
+            })),
           },
           {
             '@type': 'BreadcrumbList',
@@ -722,6 +718,7 @@ export function getMetaForPath(pathname) {
       // Issue #4916: SpeakableSpecification — hub/tool route sweep gap.
       speakableSchema: true,
       speakableCssSelector: ['h1', 'h2', 'p'],
+      faqDisplayItems: quizFaqItems,
     };
   }
 
@@ -931,6 +928,23 @@ export function getMetaForPath(pathname) {
   // generic app shell regardless of what this handler returned.
   if (path === '/drummers') {
     const drummerCount = drummers.length;
+    // Issue #5524: hoisted so the same Q&A used in the articleSchema FAQPage
+    // node below can also be rendered as visible body text via faqDisplayItems,
+    // without emitting a second competing FAQPage JSON-LD.
+    const drummersHubFaqItems = [
+      {
+        question: 'Who is the most iconic metal drummer?',
+        answer: `Iconic metal drummers include Joey Jordison (Slipknot), Dave Lombardo (Slayer), Gene Hoglan (Death/Testament), George Kollias (Nile), and Lars Ulrich (Metallica). MetalForge profiles ${drummerCount}+ professional metal drummers with complete gear breakdowns.`,
+      },
+      {
+        question: 'What gear do metal drummers use?',
+        answer: 'Most metal drummers use double bass drum kits from brands like Tama, DW (DW Drums), Pearl, and Ludwig. Popular cymbal brands include Zildjian, Meinl, Sabian, and Paiste. Many metal drummers use 22-24" bass drums for a deeper sound.',
+      },
+      {
+        question: 'How many metal drummers are on MetalForge?',
+        answer: `MetalForge currently profiles ${drummerCount} metal drummers, each with a complete gear breakdown including drums, cymbals, pedals, hardware, and sticks.`,
+      },
+    ];
     return {
       title: `Metal Drummers Database — ${drummerCount}+ Pro Gear Setups | ${SITE_NAME}`,
       description: `Browse ${drummerCount}+ legendary metal drummers and explore their complete gear setups. From Lars Ulrich to George Kollias.`,
@@ -955,32 +969,11 @@ export function getMetaForPath(pathname) {
           },
           {
             '@type': 'FAQPage',
-            mainEntity: [
-              {
-                '@type': 'Question',
-                name: 'Who is the most iconic metal drummer?',
-                acceptedAnswer: {
-                  '@type': 'Answer',
-                  text: `Iconic metal drummers include Joey Jordison (Slipknot), Dave Lombardo (Slayer), Gene Hoglan (Death/Testament), George Kollias (Nile), and Lars Ulrich (Metallica). MetalForge profiles ${drummerCount}+ professional metal drummers with complete gear breakdowns.`,
-                }
-              },
-              {
-                '@type': 'Question',
-                name: 'What gear do metal drummers use?',
-                acceptedAnswer: {
-                  '@type': 'Answer',
-                  text: 'Most metal drummers use double bass drum kits from brands like Tama, DW (DW Drums), Pearl, and Ludwig. Popular cymbal brands include Zildjian, Meinl, Sabian, and Paiste. Many metal drummers use 22-24" bass drums for a deeper sound.',
-                }
-              },
-              {
-                '@type': 'Question',
-                name: 'How many metal drummers are on MetalForge?',
-                acceptedAnswer: {
-                  '@type': 'Answer',
-                  text: `MetalForge currently profiles ${drummerCount} metal drummers, each with a complete gear breakdown including drums, cymbals, pedals, hardware, and sticks.`,
-                }
-              },
-            ],
+            mainEntity: drummersHubFaqItems.map(item => ({
+              '@type': 'Question',
+              name: item.question,
+              acceptedAnswer: { '@type': 'Answer', text: item.answer },
+            })),
           },
         ],
       }),
@@ -991,6 +984,7 @@ export function getMetaForPath(pathname) {
       // Issue #4863: SpeakableSpecification — sweep gap on hub/utility pages.
       speakableSchema: true,
       speakableCssSelector: ['h1', 'h2', 'p'],
+      faqDisplayItems: drummersHubFaqItems,
     };
   }
 
@@ -1108,6 +1102,14 @@ export function getMetaForPath(pathname) {
 
   // Tools hub
   if (path === '/tools') {
+    // Issue #5524: hoisted so the same Q&A used in the articleSchema FAQPage
+    // node below can also be rendered as visible body text via faqDisplayItems,
+    // without emitting a second competing FAQPage JSON-LD.
+    const toolsFaqItems = [
+      { question: 'What free tools does MetalForge offer for drummers?', answer: 'MetalForge offers 6 free tools: Gear Search (find gear by brand or drummer), Dream Set Builder (design your ideal kit), Kit Builder, Gear Comparison, Drummer Tier List, and Metal Drummer Name Generator. All are free at metalforge.io/tools.' },
+      { question: 'How do I compare drummer gear setups online?', answer: "Use MetalForge's Gear Comparison tool at metalforge.io/tools/compare to compare drum kit setups side by side between any two pro metal drummers." },
+      { question: 'Is there a metal drummer name generator?', answer: "Yes — MetalForge's Metal Drummer Name Generator at metalforge.io/tools/metal-drummer-name-generator creates unique metal drummer aliases using genre, style, and influence inputs." },
+    ];
     return {
       title: `Drummer Tools & Calculators | ${SITE_NAME}`,
       description: 'Free tools for drummers: BPM calculator, kit builder, gear comparison, name generator, and more.',
@@ -1144,23 +1146,11 @@ export function getMetaForPath(pathname) {
           },
           {
             '@type': 'FAQPage',
-            mainEntity: [
-              {
-                '@type': 'Question',
-                name: 'What free tools does MetalForge offer for drummers?',
-                acceptedAnswer: { '@type': 'Answer', text: 'MetalForge offers 6 free tools: Gear Search (find gear by brand or drummer), Dream Set Builder (design your ideal kit), Kit Builder, Gear Comparison, Drummer Tier List, and Metal Drummer Name Generator. All are free at metalforge.io/tools.' },
-              },
-              {
-                '@type': 'Question',
-                name: 'How do I compare drummer gear setups online?',
-                acceptedAnswer: { '@type': 'Answer', text: "Use MetalForge's Gear Comparison tool at metalforge.io/tools/compare to compare drum kit setups side by side between any two pro metal drummers." },
-              },
-              {
-                '@type': 'Question',
-                name: 'Is there a metal drummer name generator?',
-                acceptedAnswer: { '@type': 'Answer', text: "Yes — MetalForge's Metal Drummer Name Generator at metalforge.io/tools/metal-drummer-name-generator creates unique metal drummer aliases using genre, style, and influence inputs." },
-              },
-            ],
+            mainEntity: toolsFaqItems.map(item => ({
+              '@type': 'Question',
+              name: item.question,
+              acceptedAnswer: { '@type': 'Answer', text: item.answer },
+            })),
           },
         ],
       }),
@@ -1170,6 +1160,7 @@ export function getMetaForPath(pathname) {
       ],
       speakableSchema: true,
       speakableCssSelector: ['h1', 'h2', 'p'],
+      faqDisplayItems: toolsFaqItems,
     };
   }
 
@@ -2025,6 +2016,23 @@ export function getMetaForPath(pathname) {
           `See metalforge.io/compare/${slug} for the full spec breakdown.`,
         ].filter(Boolean).join(' ')
       : null;
+    // Issue #5524: hoisted so the same Q&A used in the articleSchema FAQPage
+    // node below can also be rendered as visible body text via faqDisplayItems,
+    // without emitting a second competing FAQPage JSON-LD.
+    const compareFaqItems = [
+      {
+        question: `Is ${brand1} or ${brand2} better for metal drumming?`,
+        answer: verdictAnswer || `Both ${brand1} and ${brand2} are used by professional metal drummers. The choice depends on playing style, budget, and personal preference. See our full comparison at metalforge.io/compare/${slug}.`,
+      },
+      {
+        question: `Which pro metal drummers use ${brand1} vs ${brand2}?`,
+        answer: usedByAnswer || `Many top metal drummers prefer ${brand1} while others choose ${brand2}. MetalForge tracks gear used by ${drummers.length} pro metal drummers — see the full breakdown at metalforge.io/compare/${slug}.`,
+      },
+      {
+        question: bestForAnswer ? `What is ${brand1} best for vs ${brand2}?` : `What is the price difference between ${brand1} and ${brand2}?`,
+        answer: bestForAnswer || `Prices vary by product line and configuration. MetalForge's ${brand1} vs ${brand2} comparison page shows current pricing and pro-endorsed models side by side.`,
+      },
+    ];
     return {
       title: `${title} — Drum Gear Comparison | ${SITE_NAME}`,
       description: `Compare ${title} for metal drumming: specs, pro endorsements, price points, and which metal legends use each. Side-by-side gear breakdown.`,
@@ -2056,37 +2064,17 @@ export function getMetaForPath(pathname) {
           },
           {
             '@type': 'FAQPage',
-            mainEntity: [
-              {
-                '@type': 'Question',
-                name: `Is ${brand1} or ${brand2} better for metal drumming?`,
-                acceptedAnswer: {
-                  '@type': 'Answer',
-                  text: verdictAnswer || `Both ${brand1} and ${brand2} are used by professional metal drummers. The choice depends on playing style, budget, and personal preference. See our full comparison at metalforge.io/compare/${slug}.`,
-                },
-              },
-              {
-                '@type': 'Question',
-                name: `Which pro metal drummers use ${brand1} vs ${brand2}?`,
-                acceptedAnswer: {
-                  '@type': 'Answer',
-                  text: usedByAnswer || `Many top metal drummers prefer ${brand1} while others choose ${brand2}. MetalForge tracks gear used by ${drummers.length} pro metal drummers — see the full breakdown at metalforge.io/compare/${slug}.`,
-                },
-              },
-              {
-                '@type': 'Question',
-                name: bestForAnswer ? `What is ${brand1} best for vs ${brand2}?` : `What is the price difference between ${brand1} and ${brand2}?`,
-                acceptedAnswer: {
-                  '@type': 'Answer',
-                  text: bestForAnswer || `Prices vary by product line and configuration. MetalForge's ${brand1} vs ${brand2} comparison page shows current pricing and pro-endorsed models side by side.`,
-                },
-              },
-            ],
+            mainEntity: compareFaqItems.map(item => ({
+              '@type': 'Question',
+              name: item.question,
+              acceptedAnswer: { '@type': 'Answer', text: item.answer },
+            })),
           },
         ],
       }),
       speakableSchema: true,
       speakableCssSelector: ['h1', 'h2', 'p'],
+      faqDisplayItems: compareFaqItems,
     };
   }
 
@@ -2623,6 +2611,23 @@ export function getMetaForPath(pathname) {
         .filter(Boolean);
       const top10ArticleDatePublished = top10Article.datePublished || TOP10_LISTS_LAUNCH_DATE;
       const top10ArticleDateModified = top10Article.dateModified || top10ArticleDatePublished;
+      // Issue #5524: hoisted so the same Q&A used in the articleSchema FAQPage
+      // node below can also be rendered as visible body text via faqDisplayItems,
+      // without emitting a second competing FAQPage JSON-LD.
+      const top10ArticleFaqItems = [
+        {
+          question: `Who tops the ${top10Article.title}?`,
+          answer: `The #1 ranked entry in ${top10Article.title} on MetalForge is ${rankedDrummers[0]?.name || 'featured on the MetalForge ranked list'}. See the full ranked list at metalforge.io/articles/${articleSlug}.`,
+        },
+        {
+          question: `How is the ${top10Article.title} determined?`,
+          answer: `The ${top10Article.title} is curated by MetalForge editors based on technique, innovation, influence, and community recognition within the metal genre.`,
+        },
+        {
+          question: `How many drummers are on the ${top10Article.title}?`,
+          answer: `The ${top10Article.title} features ${rankedDrummers.length || 10} professional metal drummers ranked by MetalForge.`,
+        },
+      ];
       return {
         title: `${top10Article.title} | ${SITE_NAME}`,
         description: top10Article.seoDescription || top10Article.description,
@@ -2686,32 +2691,11 @@ export function getMetaForPath(pathname) {
             },
             {
               '@type': 'FAQPage',
-              mainEntity: [
-                {
-                  '@type': 'Question',
-                  name: `Who tops the ${top10Article.title}?`,
-                  acceptedAnswer: {
-                    '@type': 'Answer',
-                    text: `The #1 ranked entry in ${top10Article.title} on MetalForge is ${rankedDrummers[0]?.name || 'featured on the MetalForge ranked list'}. See the full ranked list at metalforge.io/articles/${articleSlug}.`,
-                  },
-                },
-                {
-                  '@type': 'Question',
-                  name: `How is the ${top10Article.title} determined?`,
-                  acceptedAnswer: {
-                    '@type': 'Answer',
-                    text: `The ${top10Article.title} is curated by MetalForge editors based on technique, innovation, influence, and community recognition within the metal genre.`,
-                  },
-                },
-                {
-                  '@type': 'Question',
-                  name: `How many drummers are on the ${top10Article.title}?`,
-                  acceptedAnswer: {
-                    '@type': 'Answer',
-                    text: `The ${top10Article.title} features ${rankedDrummers.length || 10} professional metal drummers ranked by MetalForge.`,
-                  },
-                },
-              ],
+              mainEntity: top10ArticleFaqItems.map(item => ({
+                '@type': 'Question',
+                name: item.question,
+                acceptedAnswer: { '@type': 'Answer', text: item.answer },
+              })),
             },
           ],
         }),
@@ -2725,6 +2709,7 @@ export function getMetaForPath(pathname) {
           href: `/drummer/${d.name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '')}`,
           label: d.name,
         })),
+        faqDisplayItems: top10ArticleFaqItems,
       };
     }
 
@@ -3131,6 +3116,25 @@ export function getMetaForPath(pathname) {
       const allBrandDrummers = getDrummersByBrand(brandSlug, drummers);
       const brandDrummers = allBrandDrummers.slice(0, 4);
       const bestForMetal = BRAND_TYPE_BEST_FOR_METAL[brand.type];
+      // Issue #5524: hoisted so the same Q&A used in the articleSchema FAQPage
+      // node below can also be rendered as visible body text via faqDisplayItems,
+      // without emitting a second competing FAQPage JSON-LD.
+      const brandFaqItems = (brand.faq && brand.faq.length > 0)
+        ? brand.faq.map(f => ({ question: f.question, answer: f.answer }))
+        : [
+            {
+              question: `Which metal drummers use ${brand.name}?`,
+              answer: `Many professional metal drummers use ${brand.name} ${brand.type}. See the full list with gear specs on MetalForge.`,
+            },
+            {
+              question: `Is ${brand.name} good for metal drumming?`,
+              answer: `${brand.name} is one of the most popular brands among professional metal drummers. Many touring pros endorse and play ${brand.name} gear.`,
+            },
+            {
+              question: `What ${brand.name} ${brand.type} do pro metal drummers use?`,
+              answer: `Professional metal drummers use a range of ${brand.name} ${brand.type} models. Browse the MetalForge ${brand.name} page to see every pro and their specific gear.`,
+            },
+          ];
       return {
         title: `${brand.name} Drums — Metal Drummers Who Use ${brand.name} | ${SITE_NAME}`,
         description: `Which metal drummers use ${brand.name} ${brand.type}? See every pro in MetalForge's database who endorses or plays ${brand.name} gear — kit specs and prices.`,
@@ -3174,38 +3178,11 @@ export function getMetaForPath(pathname) {
               '@type': 'FAQPage',
               // Issue #4887: curated FAQ from brands.js (18/18 brands populated) —
               // the 3 generic questions below are an unreachable fallback only.
-              mainEntity: (brand.faq && brand.faq.length > 0
-                ? brand.faq.map(f => ({
-                    '@type': 'Question',
-                    name: f.question,
-                    acceptedAnswer: { '@type': 'Answer', text: f.answer },
-                  }))
-                : [
-                    {
-                      '@type': 'Question',
-                      name: `Which metal drummers use ${brand.name}?`,
-                      acceptedAnswer: {
-                        '@type': 'Answer',
-                        text: `Many professional metal drummers use ${brand.name} ${brand.type}. See the full list with gear specs on MetalForge.`,
-                      },
-                    },
-                    {
-                      '@type': 'Question',
-                      name: `Is ${brand.name} good for metal drumming?`,
-                      acceptedAnswer: {
-                        '@type': 'Answer',
-                        text: `${brand.name} is one of the most popular brands among professional metal drummers. Many touring pros endorse and play ${brand.name} gear.`,
-                      },
-                    },
-                    {
-                      '@type': 'Question',
-                      name: `What ${brand.name} ${brand.type} do pro metal drummers use?`,
-                      acceptedAnswer: {
-                        '@type': 'Answer',
-                        text: `Professional metal drummers use a range of ${brand.name} ${brand.type} models. Browse the MetalForge ${brand.name} page to see every pro and their specific gear.`,
-                      },
-                    },
-                  ]),
+              mainEntity: brandFaqItems.map(item => ({
+                '@type': 'Question',
+                name: item.question,
+                acceptedAnswer: { '@type': 'Answer', text: item.answer },
+              })),
             },
           ],
         }),
@@ -3216,6 +3193,7 @@ export function getMetaForPath(pathname) {
         ],
         speakableSchema: true,
         speakableCssSelector: ['h1', 'h2', 'p'],
+        faqDisplayItems: brandFaqItems,
       };
     }
   }
@@ -3345,12 +3323,23 @@ export function getMetaForPath(pathname) {
         ],
         speakableSchema: true,
         speakableCssSelector: ['h1', 'h2', 'p'],
+        // Issue #5524: same faqItems already embedded in articleSchema's FAQPage
+        // above, mirrored as visible body text — no second FAQPage JSON-LD.
+        faqDisplayItems: faqItems,
       };
     }
   }
 
   // Issue #1209: /licks top-level hub
   if (path === '/licks') {
+    // Issue #5524: hoisted so the same Q&A used in the articleSchema FAQPage
+    // node below can also be rendered as visible body text via faqDisplayItems,
+    // without emitting a second competing FAQPage JSON-LD.
+    const LICKS_HUB_FAQ_ITEMS = [
+      { question: 'What are the best metal drum licks to learn?', answer: 'MetalForge features signature drum licks from 63 metal legends including blast beats from George Kollias, double-bass patterns from Joey Jordison, and groove licks from Brann Dailor. Browse by drummer at metalforge.io/licks.' },
+      { question: 'How many signature drum licks does MetalForge have?', answer: 'MetalForge has 157 signature lick pages covering 63 professional metal drummers, with step-by-step HowTo breakdowns and video analysis for each lick.' },
+      { question: 'What technique is most common in metal drum licks?', answer: 'Blast beats and double-bass patterns are the most common techniques in metal drum licks. Explore technique-specific licks at metalforge.io/technique/blast-beat/drummers and metalforge.io/technique/double-bass/drummers.' },
+    ];
     return {
       title: `Signature Metal Drum Licks — Learn from the Legends | ${SITE_NAME}`,
       description: `Master the signature drum licks of ${drummers.length} metal legends. Step-by-step breakdowns of blast beats, double bass patterns, and iconic fills from George Kollias, Joey Jordison, and more.`,
@@ -3375,23 +3364,11 @@ export function getMetaForPath(pathname) {
           },
           {
             '@type': 'FAQPage',
-            mainEntity: [
-              {
-                '@type': 'Question',
-                name: 'What are the best metal drum licks to learn?',
-                acceptedAnswer: { '@type': 'Answer', text: 'MetalForge features signature drum licks from 63 metal legends including blast beats from George Kollias, double-bass patterns from Joey Jordison, and groove licks from Brann Dailor. Browse by drummer at metalforge.io/licks.' },
-              },
-              {
-                '@type': 'Question',
-                name: 'How many signature drum licks does MetalForge have?',
-                acceptedAnswer: { '@type': 'Answer', text: 'MetalForge has 157 signature lick pages covering 63 professional metal drummers, with step-by-step HowTo breakdowns and video analysis for each lick.' },
-              },
-              {
-                '@type': 'Question',
-                name: 'What technique is most common in metal drum licks?',
-                acceptedAnswer: { '@type': 'Answer', text: 'Blast beats and double-bass patterns are the most common techniques in metal drum licks. Explore technique-specific licks at metalforge.io/technique/blast-beat/drummers and metalforge.io/technique/double-bass/drummers.' },
-              },
-            ],
+            mainEntity: LICKS_HUB_FAQ_ITEMS.map(item => ({
+              '@type': 'Question',
+              name: item.question,
+              acceptedAnswer: { '@type': 'Answer', text: item.answer },
+            })),
           },
         ],
       }),
@@ -3399,6 +3376,9 @@ export function getMetaForPath(pathname) {
         { name: 'Home', url: BASE_URL },
         { name: 'Signature Drum Licks', url: `${BASE_URL}/licks` },
       ],
+      // Issue #5524: same LICKS_HUB_FAQ_ITEMS already embedded in articleSchema's
+      // FAQPage above, mirrored as visible body text — no second FAQPage JSON-LD.
+      faqDisplayItems: LICKS_HUB_FAQ_ITEMS,
     };
   }
 
@@ -3414,6 +3394,23 @@ export function getMetaForPath(pathname) {
       const drummerName = anyLick.drummerName;
       const band = anyLick.band;
       const hubUrl = `${BASE_URL}/drummers/${drummerSlug}/licks`;
+      // Issue #5524: hoisted so the same Q&A used in the articleSchema FAQPage
+      // node below can also be rendered as visible body text via faqDisplayItems,
+      // without emitting a second competing FAQPage JSON-LD.
+      const drummerLicksHubFaqItems = [
+        {
+          question: `How many signature lick tutorials does MetalForge have for ${drummerName}?`,
+          answer: `MetalForge has ${lickCount} signature lick tutorial${lickCount !== 1 ? 's' : ''} for ${drummerName}, covering key techniques from their career.`,
+        },
+        {
+          question: `Are ${drummerName}'s lick tutorials free?`,
+          answer: `Yes, all ${drummerName} lick tutorials on MetalForge are free, including video demonstrations and HowTo breakdowns.`,
+        },
+        {
+          question: `What technique does ${drummerName} focus on in their lick tutorials?`,
+          answer: `${drummerName}'s lick tutorials on MetalForge cover their signature techniques used in ${band || 'their career'}. Each tutorial includes gear notes and a video demonstration.`,
+        },
+      ];
       return {
         title: `${drummerName} Signature Drum Licks & Patterns | ${SITE_NAME}`,
         description: `Learn the signature drum licks of ${drummerName} (${band}). Step-by-step breakdowns of iconic patterns and fills.`,
@@ -3450,41 +3447,38 @@ export function getMetaForPath(pathname) {
             },
             {
               '@type': 'FAQPage',
-              mainEntity: [
-                {
-                  '@type': 'Question',
-                  name: `How many signature lick tutorials does MetalForge have for ${drummerName}?`,
-                  acceptedAnswer: {
-                    '@type': 'Answer',
-                    text: `MetalForge has ${lickCount} signature lick tutorial${lickCount !== 1 ? 's' : ''} for ${drummerName}, covering key techniques from their career.`,
-                  },
-                },
-                {
-                  '@type': 'Question',
-                  name: `Are ${drummerName}'s lick tutorials free?`,
-                  acceptedAnswer: {
-                    '@type': 'Answer',
-                    text: `Yes, all ${drummerName} lick tutorials on MetalForge are free, including video demonstrations and HowTo breakdowns.`,
-                  },
-                },
-                {
-                  '@type': 'Question',
-                  name: `What technique does ${drummerName} focus on in their lick tutorials?`,
-                  acceptedAnswer: {
-                    '@type': 'Answer',
-                    text: `${drummerName}'s lick tutorials on MetalForge cover their signature techniques used in ${band || 'their career'}. Each tutorial includes gear notes and a video demonstration.`,
-                  },
-                },
-              ],
+              mainEntity: drummerLicksHubFaqItems.map(item => ({
+                '@type': 'Question',
+                name: item.question,
+                acceptedAnswer: { '@type': 'Answer', text: item.answer },
+              })),
             },
           ],
         }),
+        faqDisplayItems: drummerLicksHubFaqItems,
       };
     }
     // Issue #1388: FAQPage for drummers with no licks yet — generic language
     const drummerForHub = getDrummerBySlug(drummerSlug);
     if (drummerForHub) {
       const hubUrl = `${BASE_URL}/drummers/${drummerSlug}/licks`;
+      // Issue #5524: hoisted so the same Q&A used in the articleSchema FAQPage
+      // node below can also be rendered as visible body text via faqDisplayItems,
+      // without emitting a second competing FAQPage JSON-LD.
+      const drummerLicksHubNoLicksFaqItems = [
+        {
+          question: `Does MetalForge have lick tutorials for ${drummerForHub.name}?`,
+          answer: `MetalForge is adding signature lick tutorials for ${drummerForHub.name}. Check back soon for step-by-step breakdowns of their iconic patterns.`,
+        },
+        {
+          question: `Are ${drummerForHub.name}'s lick tutorials free?`,
+          answer: `Yes, all MetalForge lick tutorials are free, including video demonstrations and HowTo breakdowns.`,
+        },
+        {
+          question: `What is ${drummerForHub.name} known for?`,
+          answer: `${drummerForHub.name}${drummerForHub.band ? ` of ${drummerForHub.band}` : ''} is a legendary metal drummer. Visit their MetalForge profile for complete gear breakdowns and more.`,
+        },
+      ];
       return {
         title: `${drummerForHub.name} Signature Drum Licks & Patterns | ${SITE_NAME}`,
         description: `Signature drum licks and patterns from ${drummerForHub.name}${drummerForHub.band ? ` (${drummerForHub.band})` : ''}. Tutorials coming soon.`,
@@ -3518,35 +3512,15 @@ export function getMetaForPath(pathname) {
             },
             {
               '@type': 'FAQPage',
-              mainEntity: [
-                {
-                  '@type': 'Question',
-                  name: `Does MetalForge have lick tutorials for ${drummerForHub.name}?`,
-                  acceptedAnswer: {
-                    '@type': 'Answer',
-                    text: `MetalForge is adding signature lick tutorials for ${drummerForHub.name}. Check back soon for step-by-step breakdowns of their iconic patterns.`,
-                  },
-                },
-                {
-                  '@type': 'Question',
-                  name: `Are ${drummerForHub.name}'s lick tutorials free?`,
-                  acceptedAnswer: {
-                    '@type': 'Answer',
-                    text: `Yes, all MetalForge lick tutorials are free, including video demonstrations and HowTo breakdowns.`,
-                  },
-                },
-                {
-                  '@type': 'Question',
-                  name: `What is ${drummerForHub.name} known for?`,
-                  acceptedAnswer: {
-                    '@type': 'Answer',
-                    text: `${drummerForHub.name}${drummerForHub.band ? ` of ${drummerForHub.band}` : ''} is a legendary metal drummer. Visit their MetalForge profile for complete gear breakdowns and more.`,
-                  },
-                },
-              ],
+              mainEntity: drummerLicksHubNoLicksFaqItems.map(item => ({
+                '@type': 'Question',
+                name: item.question,
+                acceptedAnswer: { '@type': 'Answer', text: item.answer },
+              })),
             },
           ],
         }),
+        faqDisplayItems: drummerLicksHubNoLicksFaqItems,
       };
     }
   }
@@ -5478,6 +5452,14 @@ export function getMetaForPath(pathname) {
         label: historyBandsByName.get(e.band).name,
       })),
     ]);
+    // Issue #5524: hoisted so the same Q&A used in the articleSchema FAQPage
+    // node below can also be rendered as visible body text via faqDisplayItems,
+    // without emitting a second competing FAQPage JSON-LD.
+    const historyFaqItems = [
+      { question: 'When did metal drumming begin?', answer: 'Metal drumming traces its origins to Black Sabbath in 1968-1970, when Bill Ward developed the heavy, blues-influenced drumming style that defined early heavy metal.' },
+      { question: 'When was the blast beat invented?', answer: 'The blast beat emerged in the mid-1980s from hardcore punk and grindcore bands like Repulsion and Napalm Death, popularized in death metal by Pete Sandoval of Morbid Angel.' },
+      { question: 'How have metal drum kits evolved over the decades?', answer: 'Metal drum kits evolved from basic 4-piece rock setups (1970s) to double bass configurations (1980s thrash), to massive triggered electronic/acoustic hybrids (1990s-2000s extreme metal), to modern minimal precision rigs (2010s-present).' },
+    ];
     return {
       title: `Metal Drum Kit History & Evolution Timeline | ${SITE_NAME}`,
       description: 'The complete history of metal drumming — from Black Sabbath in 1968 to modern extreme metal. How drum kits, techniques, and gear evolved across 50+ years.',
@@ -5497,11 +5479,11 @@ export function getMetaForPath(pathname) {
         {
           '@context': 'https://schema.org',
           '@type': 'FAQPage',
-          mainEntity: [
-            { '@type': 'Question', name: 'When did metal drumming begin?', acceptedAnswer: { '@type': 'Answer', text: 'Metal drumming traces its origins to Black Sabbath in 1968-1970, when Bill Ward developed the heavy, blues-influenced drumming style that defined early heavy metal.' } },
-            { '@type': 'Question', name: 'When was the blast beat invented?', acceptedAnswer: { '@type': 'Answer', text: 'The blast beat emerged in the mid-1980s from hardcore punk and grindcore bands like Repulsion and Napalm Death, popularized in death metal by Pete Sandoval of Morbid Angel.' } },
-            { '@type': 'Question', name: 'How have metal drum kits evolved over the decades?', acceptedAnswer: { '@type': 'Answer', text: 'Metal drum kits evolved from basic 4-piece rock setups (1970s) to double bass configurations (1980s thrash), to massive triggered electronic/acoustic hybrids (1990s-2000s extreme metal), to modern minimal precision rigs (2010s-present).' } },
-          ],
+          mainEntity: historyFaqItems.map(item => ({
+            '@type': 'Question',
+            name: item.question,
+            acceptedAnswer: { '@type': 'Answer', text: item.answer },
+          })),
         },
       ]),
       breadcrumbSchema: [
@@ -5511,12 +5493,22 @@ export function getMetaForPath(pathname) {
       // Issue #4863: SpeakableSpecification — sweep gap on hub/utility pages.
       speakableSchema: true,
       speakableCssSelector: ['h1', 'h2', 'p'],
+      faqDisplayItems: historyFaqItems,
     };
   }
 
   // Issue #1407: /battles hub page
   // Issue #1477: CollectionPage + FAQPage JSON-LD for AI Overview eligibility
   if (path === '/battles') {
+    // Issue #5524: hoisted so the same Q&A used in the articleSchema FAQPage
+    // node below can also be rendered as visible body text via faqDisplayItems,
+    // without emitting a second competing FAQPage JSON-LD.
+    const battlesHubFaqItems = [
+      { question: 'Who is the best metal drummer?', answer: 'MetalForge lets fans vote on legendary matchups including Lars Ulrich vs Dave Lombardo, Gene Hoglan vs George Kollias, and more.' },
+      { question: 'How do MetalForge drummer battles work?', answer: "Each week a new matchup is featured. Vote for your favorite, see the community results, and explore each drummer's full gear setup." },
+      { question: 'How many drummer battles are on MetalForge?', answer: 'MetalForge features 8 curated head-to-head drummer battles spanning thrash, death, prog, and black metal.' },
+      { question: 'How is the winner of a MetalForge drummer battle decided?', answer: 'Winners are decided by community voting — fans vote for their favorite drummer in each matchup and results update live.' },
+    ];
     return {
       title: `Metal Drummer Battles — Vote for the Best | ${SITE_NAME}`,
       description: `Vote in head-to-head metal drummer battles. Who has the better kit? Compare setups and cast your vote for ${drummers.length} legendary drummers.`,
@@ -5549,28 +5541,11 @@ export function getMetaForPath(pathname) {
           },
           {
             '@type': 'FAQPage',
-            mainEntity: [
-              {
-                '@type': 'Question',
-                name: 'Who is the best metal drummer?',
-                acceptedAnswer: { '@type': 'Answer', text: 'MetalForge lets fans vote on legendary matchups including Lars Ulrich vs Dave Lombardo, Gene Hoglan vs George Kollias, and more.' },
-              },
-              {
-                '@type': 'Question',
-                name: 'How do MetalForge drummer battles work?',
-                acceptedAnswer: { '@type': 'Answer', text: "Each week a new matchup is featured. Vote for your favorite, see the community results, and explore each drummer's full gear setup." },
-              },
-              {
-                '@type': 'Question',
-                name: 'How many drummer battles are on MetalForge?',
-                acceptedAnswer: { '@type': 'Answer', text: 'MetalForge features 8 curated head-to-head drummer battles spanning thrash, death, prog, and black metal.' },
-              },
-              {
-                '@type': 'Question',
-                name: 'How is the winner of a MetalForge drummer battle decided?',
-                acceptedAnswer: { '@type': 'Answer', text: 'Winners are decided by community voting — fans vote for their favorite drummer in each matchup and results update live.' },
-              },
-            ],
+            mainEntity: battlesHubFaqItems.map(item => ({
+              '@type': 'Question',
+              name: item.question,
+              acceptedAnswer: { '@type': 'Answer', text: item.answer },
+            })),
           },
         ],
       }),
@@ -5578,6 +5553,7 @@ export function getMetaForPath(pathname) {
         { name: 'Home', url: BASE_URL },
         { name: 'Battles', url: `${BASE_URL}/battles` },
       ],
+      faqDisplayItems: battlesHubFaqItems,
     };
   }
 

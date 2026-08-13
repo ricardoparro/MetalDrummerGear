@@ -6088,6 +6088,20 @@ export function getMetaForPath(pathname) {
       const nameList = kitDrummers.length > 1
         ? kitDrummers.map(d => d.name).join(', ')
         : firstDrummer;
+      const kitFaqItems = [
+        {
+          question: `Which metal drummers use the ${brandName} ${seriesName}?`,
+          answer: nameList ? `${nameList} use the ${brandName} ${seriesName}.` : `Drummer data is being compiled.`,
+        },
+        {
+          question: `Is the ${brandName} ${seriesName} good for metal?`,
+          answer: `Yes — the ${brandName} ${seriesName} is trusted by professional metal artists for its projection and durability under heavy playing.`,
+        },
+        {
+          question: `Where can I buy the ${brandName} ${seriesName}?`,
+          answer: `The ${brandName} ${seriesName} is available at major music retailers. See the ${brandName} brand page on MetalForge for retailer links.`,
+        },
+      ];
       return {
         title: `${seriesName} Drummers — Which Metal Drummers Use ${brandName} ${seriesName}? | ${SITE_NAME}`,
         description: `See which pro metal drummers use the ${brandName} ${seriesName}. ${descDrummer} and more — full gear configs and endorsement history.`,
@@ -6103,6 +6117,7 @@ export function getMetaForPath(pathname) {
           url: `${BASE_URL}/drummer/${d.slug}`,
           band: d.band,
         })),
+        faqDisplayItems: kitFaqItems,
         articleSchema: JSON.stringify([
           {
             '@context': 'https://schema.org',
@@ -6121,23 +6136,11 @@ export function getMetaForPath(pathname) {
           {
             '@context': 'https://schema.org',
             '@type': 'FAQPage',
-            mainEntity: [
-              {
-                '@type': 'Question',
-                name: `Which metal drummers use the ${brandName} ${seriesName}?`,
-                acceptedAnswer: { '@type': 'Answer', text: nameList ? `${nameList} use the ${brandName} ${seriesName}.` : `Drummer data is being compiled.` },
-              },
-              {
-                '@type': 'Question',
-                name: `Is the ${brandName} ${seriesName} good for metal?`,
-                acceptedAnswer: { '@type': 'Answer', text: `Yes — the ${brandName} ${seriesName} is trusted by professional metal artists for its projection and durability under heavy playing.` },
-              },
-              {
-                '@type': 'Question',
-                name: `Where can I buy the ${brandName} ${seriesName}?`,
-                acceptedAnswer: { '@type': 'Answer', text: `The ${brandName} ${seriesName} is available at major music retailers. See the ${brandName} brand page on MetalForge for retailer links.` },
-              },
-            ],
+            mainEntity: kitFaqItems.map(f => ({
+              '@type': 'Question',
+              name: f.question,
+              acceptedAnswer: { '@type': 'Answer', text: f.answer },
+            })),
           },
           {
             '@context': 'https://schema.org',
@@ -6220,6 +6223,7 @@ export function getMetaForPath(pathname) {
             band: d.band,
           })),
         } : {}),
+        faqDisplayItems: brandFaqMainEntity.map(item => ({ question: item.name, answer: item.acceptedAnswer.text })),
         articleSchema: JSON.stringify([
           {
             '@context': 'https://schema.org',
@@ -6304,6 +6308,7 @@ export function getMetaForPath(pathname) {
     ];
     let seriesSsrDrummerLinks = null;
     let seriesPersonSchema = null;
+    let seriesFaqDisplayItems = null;
     if (Array.isArray(seriesDrummers) && seriesDrummers.length > 0) {
       const nameList = seriesDrummers.length > 1
         ? seriesDrummers.slice(0, 8).map(d => d.name).join(', ')
@@ -6342,6 +6347,7 @@ export function getMetaForPath(pathname) {
               acceptedAnswer: { '@type': 'Answer', text: `Yes — ${brandName} ${seriesName} is a proven choice in the metal scene, used by ${seriesDrummers.length} of the drummers we track.` },
             },
           ];
+      seriesFaqDisplayItems = faqMainEntity.map(item => ({ question: item.name, answer: item.acceptedAnswer.text }));
       graph.push(
         {
           '@type': 'Product',
@@ -6378,6 +6384,7 @@ export function getMetaForPath(pathname) {
       url: `${BASE_URL}/gear/${brandSlug}/${seriesSlug}/drummers-using`,
       ...(seriesSsrDrummerLinks && seriesSsrDrummerLinks.length > 0 ? { ssrDrummerLinks: seriesSsrDrummerLinks } : {}),
       ...(seriesPersonSchema && seriesPersonSchema.length > 0 ? { personSchema: seriesPersonSchema } : {}),
+      ...(seriesFaqDisplayItems ? { faqDisplayItems: seriesFaqDisplayItems } : {}),
       articleSchema: JSON.stringify({
         '@context': 'https://schema.org',
         '@graph': graph,
@@ -7970,6 +7977,13 @@ export function generateMetaHtml(meta, originalUrl) {
     <section>
       <h2>Frequently Asked Questions</h2>
       ${meta.faqSchema.map(item => `
+      <h3>${escapeHtml(item.question)}</h3>
+      <p>${escapeHtml(item.answer)}</p>`).join('')}
+    </section>` : ''}
+    ${meta.faqDisplayItems && meta.faqDisplayItems.length > 0 ? `
+    <section>
+      <h2>Frequently Asked Questions</h2>
+      ${meta.faqDisplayItems.map(item => `
       <h3>${escapeHtml(item.question)}</h3>
       <p>${escapeHtml(item.answer)}</p>`).join('')}
     </section>` : ''}

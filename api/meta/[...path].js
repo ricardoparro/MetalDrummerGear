@@ -4063,6 +4063,25 @@ export function getMetaForPath(pathname) {
         .filter(Boolean);
       const listDatePublished = list.datePublished || TOP10_LISTS_LAUNCH_DATE;
       const listDateModified = list.dateModified || list.datePublished || TOP10_LISTS_LAST_REVIEWED;
+      // Issue #5522: hoisted so the same Q&A used in the articleSchema FAQPage
+      // node below can also be rendered as visible body text via faqDisplayItems
+      // (generateMetaHtml), without emitting a second competing FAQPage JSON-LD.
+      const listFaqItems = list.faq && list.faq.length > 0
+        ? list.faq.map(f => ({ question: f.question, answer: f.answer }))
+        : [
+            {
+              question: `Who tops the ${list.title}?`,
+              answer: `The #1 ranked entry in ${list.title} on MetalForge is ${rankedDrummers[0]?.name || 'featured on the MetalForge ranked list'}. See the full ranked list at metalforge.io/lists/${listSlug}.`,
+            },
+            {
+              question: `How is the ${list.title} determined?`,
+              answer: `The ${list.title} is curated by MetalForge editors based on technique, innovation, influence, and community recognition within the metal genre.`,
+            },
+            {
+              question: `How many drummers are on the ${list.title}?`,
+              answer: `The ${list.title} features ${rankedDrummers.length} professional metal drummers ranked by MetalForge.`,
+            },
+          ];
       return {
         title: `${list.title} | ${SITE_NAME}`,
         description: list.seoDescription || list.description,
@@ -4140,38 +4159,11 @@ export function getMetaForPath(pathname) {
               // Issue #4886: 85/98 lists have hand-authored `list.faq` Q&A content
               // that was never wired in; keep the generic 3-Q template as fallback
               // for the remaining 13 lists so no page regresses to an empty FAQPage.
-              mainEntity: (list.faq && list.faq.length > 0
-                ? list.faq.map(f => ({
-                    '@type': 'Question',
-                    name: f.question,
-                    acceptedAnswer: { '@type': 'Answer', text: f.answer },
-                  }))
-                : [
-                    {
-                      '@type': 'Question',
-                      name: `Who tops the ${list.title}?`,
-                      acceptedAnswer: {
-                        '@type': 'Answer',
-                        text: `The #1 ranked entry in ${list.title} on MetalForge is ${rankedDrummers[0]?.name || 'featured on the MetalForge ranked list'}. See the full ranked list at metalforge.io/lists/${listSlug}.`,
-                      },
-                    },
-                    {
-                      '@type': 'Question',
-                      name: `How is the ${list.title} determined?`,
-                      acceptedAnswer: {
-                        '@type': 'Answer',
-                        text: `The ${list.title} is curated by MetalForge editors based on technique, innovation, influence, and community recognition within the metal genre.`,
-                      },
-                    },
-                    {
-                      '@type': 'Question',
-                      name: `How many drummers are on the ${list.title}?`,
-                      acceptedAnswer: {
-                        '@type': 'Answer',
-                        text: `The ${list.title} features ${rankedDrummers.length} professional metal drummers ranked by MetalForge.`,
-                      },
-                    },
-                  ]),
+              mainEntity: listFaqItems.map(item => ({
+                '@type': 'Question',
+                name: item.question,
+                acceptedAnswer: { '@type': 'Answer', text: item.answer },
+              })),
             },
           ],
         }),
@@ -4190,6 +4182,10 @@ export function getMetaForPath(pathname) {
         // drummer profiles (#4665/#4738), articles (#1403), techniques, and bands.
         speakableSchema: true,
         speakableCssSelector: ['h1', 'h2', 'p'],
+        // Issue #5522: visible-body mirror of the FAQPage already embedded in
+        // articleSchema above — same mechanism #5520 shipped for /drummer/<slug>,
+        // rendered by generateMetaHtml() with no JSON-LD of its own.
+        faqDisplayItems: listFaqItems,
       };
     }
   }

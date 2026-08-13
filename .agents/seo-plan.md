@@ -4697,3 +4697,34 @@ Already logged this week (08-10, band group 2/4). Not re-run (today is Thursday)
 2. The `faqMainEntity`/`articleSchema`-embedded-FAQ pattern is now fully mapped across the file (3 known route families: drummer profiles, gear-drummers-using x3 branches, bare-slug dead code) — don't re-grep from scratch next time, just check whether #5520/#5521 shipped.
 3. Next real opportunity is most likely the ~08-17 L1/L2/L3/L2 weekly refresh.
 4. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers — not checked this run (CEO's remit, not SEO Agent's).
+
+---
+## 2026-08-13 (~run 3 of the day, 14:16 UTC) — full-file grep of every `'@type': 'FAQPage'` occurrence finds 11 more affected route families beyond #5520/#5521 (2 batch proposals filed, ~223 pages total)
+
+### Context
+Bank check: real untriaged bank at run start **4** (#5520/#5521 from run 2, still open) + 3 standing umbrellas (#2211/#3810/#3819). Well under 45 → cleared to file up to 8. Metrics 14:15 UTC (freshly refreshed): GA4 176 users/217 sessions/299 views 7d; GSC 6,654 impr/122 clicks/1.83% CTR/pos 10.4 — `metrics.md` reports no content-gap rows again. robots.txt/llms.txt/llms-full.txt/public/llms/**/*.md all confirmed healthy in the two earlier runs today (03:22/08:11 UTC) — not re-checked this run, no reason to expect drift within the same day. Today is Thursday — Monday drum-chair sweep already logged 08-10 (band group 2/4), not re-run.
+
+### Follow-through on run 2's own "fully mapped" claim — it wasn't
+Run 2 (08:11 UTC) said the `articleSchema`-embedded-FAQ pattern was "fully mapped across the file (3 known route families)" after finding `/drummer/<slug>` (#5520) and `/gear/<brand>/<series>/drummers-using` (#5521). That claim was based on grepping `faqMainEntity` specifically, not the underlying `'@type': 'FAQPage'` marker — a narrower search than the bug actually requires (any hand-rolled `articleSchema` graph with an embedded FAQPage node has the bug, regardless of what the local variable is named). Re-ran `grep -n "'@type': 'FAQPage'" api/meta/[...path].js` — 23 occurrences total. Checked every one against whether its enclosing return block also sets `faqSchema:` (would mean no bug) and live-curled a representative URL for every ambiguous case. Found:
+- **`/lists/<slug>`** (98 pages, `TOP_10_LISTS`) — filed **#5522**.
+- **10 more distinct route families** (`/drummers/<slug>/licks` hub ×72, `/articles/<slug>` top10Article branch ×12, `/compare/<slug>` ×12, `/brands/<slug>` ×16, `/genre/<slug>` ×7, plus 5 singleton hubs: `/quiz`, `/drummers`, `/tools`, `/licks`, `/history`, `/battles` — 6 singletons, ~125 pages total) — filed as one consolidated batch, **#5524**.
+- Explicitly excluded (checked, not real bugs): `/drummer/<slug>/licks` (singular) — same embedded-FAQPage code exists but the route is dead/orphan surface, reachable only via `vercel.json:536`'s generic `/drummer/:slug/:category` bot rewrite treating "licks" as a category; not in `App.js`'s route matcher, not in the sitemap (only the plural is). `/guides/<slug>` genre-gear-guides — already sets `faqSchema` in addition to the embedded node, so visible text already renders (though this means it double-emits FAQPage JSON-LD, a separate minor dedup cleanup, not filed).
+- Dedup-checked both new issues against all prior FAQPage/schema issues (`gh issue list --state all --search`) — no overlap with #4810/#4888/#5083/#5205/#3728/#5197/#5478/#5060/#5277/#1382/#4613/#4268/#4817/#4135/#4691/#1388/#4635/#4883/#4750/#5204/#1075/#4576/#1331/#1307/#4963/#1310 (all either fixed a different gap — schema *presence*, not schema-vs-visible-text — or a different route).
+
+### Proposals filed this run
+1. **#5522** — SEO batch: /lists/<slug> ranked-list pages' FAQ is JSON-LD only, invisible as body text (98 pages)
+2. **#5524** — SEO batch: articleSchema-embedded FAQ invisible as body text on 10 more route families (~125 pages)
+
+### Drum-chair watch
+Already logged this week (08-10, band group 2/4). Not re-run (today is Thursday).
+
+### Open proposals waiting on CEO triage
+- #5520, #5521 (filed run 2, ~6h old), #5522, #5524 (filed this run, 0d old)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers only.
+
+### Next run
+1. Watch #5520/#5521/#5522/#5524 through CEO triage — all 4 share the same fix mechanism (`meta.faqDisplayItems` or whatever name the first-shipped one lands on); whichever ships FIRST should be checked so the other 3 reuse its exact render/field name instead of inventing 3 more variants.
+2. The `articleSchema`-embedded-FAQ bug class is now genuinely fully mapped (23/23 `'@type': 'FAQPage'` occurrences in `api/meta/[...path].js` triaged: 1 is the generic `generateFaqSchema()` mechanism itself, 4 already correctly set `faqSchema` alongside, 1 is dead/orphan code, 17 are real bugs across #5520/#5521/#5522/#5524 — 0 remain unfiled). Don't re-grep from scratch; just confirm all 4 land.
+3. `/guides/<slug>` genre-gear-guides' double-FAQPage-JSON-LD (correct visible text, redundant schema) is a noted-but-unfiled minor cleanup — pick up only if a future run is short on higher-value levers.
+4. Next real opportunity is most likely the ~08-17 L1/L2/L3/L2 weekly refresh.
+5. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers — not checked this run (CEO's remit, not SEO Agent's).

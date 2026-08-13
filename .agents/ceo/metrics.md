@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-13 09:16 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-13 14:15 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 174 |
-| Sessions | 215 |
-| Page views | 295 |
-| Engagement rate | 66.05% |
-| Avg session (s) | 132 |
+| Active users | 176 |
+| Sessions | 217 |
+| Page views | 299 |
+| Engagement rate | 65.44% |
+| Avg session (s) | 131 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -23,17 +23,18 @@
 | /drummer/danny-carey | 6 | 2 |
 | /articles/damnation-drum-setup | 5 | 1 |
 | /drummer/mario-duplantier/cymbals | 5 | 1 |
+| /drummer/matt-greiner | 5 | 4 |
+| /drummer/mikkey-dee | 5 | 4 |
 | /drummers | 5 | 3 |
 | /articles/catch-thirtythree-drum-setup | 4 | 4 |
-| /drummer/adrian-erlandsson | 4 | 2 |
-| /drummer/flo-mounier | 4 | 3 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 177 | 141 |
+| Organic Search | 178 | 142 |
 | Direct | 34 | 30 |
-| Unassigned | 4 | 4 |
+| Unassigned | 6 | 6 |
+| Cross-network | 2 | 2 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |

@@ -5944,6 +5944,12 @@ export function getMetaForPath(pathname) {
               },
             },
           ];
+      // Issue #5520: plain-text mirror of faqMainEntity so bot-facing SSR body
+      // renders the curated FAQ as visible <h3>/<p> text, not JSON-LD-only.
+      const faqDisplayItems = faqMainEntity.map(item => ({
+        question: item.name,
+        answer: item.acceptedAnswer.text,
+      }));
       // Issue #4687: bot-facing Quick Facts table — mirrors the fields already
       // surfaced in public/llms/drummers/<slug>.md, missing from this SSR shell.
       // Issue #4821: hand-curated birthDate/deathDate already imported for the
@@ -5991,6 +5997,7 @@ export function getMetaForPath(pathname) {
         ]),
         quickFacts,
         quickFactsName: drummer.name,
+        faqDisplayItems,
         speakableSchema: true,
         speakableCssSelector: ['h1', 'h2', 'p'],
         breadcrumbSchema: [
@@ -7970,6 +7977,13 @@ export function generateMetaHtml(meta, originalUrl) {
     <section>
       <h2>Frequently Asked Questions</h2>
       ${meta.faqSchema.map(item => `
+      <h3>${escapeHtml(item.question)}</h3>
+      <p>${escapeHtml(item.answer)}</p>`).join('')}
+    </section>` : ''}
+    ${meta.faqDisplayItems && meta.faqDisplayItems.length > 0 ? `
+    <section>
+      <h2>Frequently Asked Questions</h2>
+      ${meta.faqDisplayItems.map(item => `
       <h3>${escapeHtml(item.question)}</h3>
       <p>${escapeHtml(item.answer)}</p>`).join('')}
     </section>` : ''}

@@ -4631,3 +4631,38 @@ Already logged this week (08-10, band group 2/4). Not re-run (today is Wednesday
 3. The 4 checked L2 drummer-head-term rows (jimmy-degrasso/alex-rudinger/john-longstreth/waltteri-vayrynen) and the previously-checked BPM/band-fact-lookup rows are all format-complete — don't re-check unless the L2 refresh shows a NEW row.
 4. Next real opportunity is most likely the ~08-17 L1/L2/L3/L2 weekly refresh.
 5. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers — not checked this run (CEO's remit, not SEO Agent's).
+
+---
+## 2026-08-13 (~run 1 of the day) — new lever found: 3 dead sources.items citation URLs (full 72-profile audit), other candidate angles checked clean
+
+### Context
+Bank check: 3 open `seo-proposal` at run start — all 3 are the standing L1/L2/L3 umbrellas (#2211/#3810/#3819); real untriaged bank: **0**. Well under 45 → cleared to file up to 8. Metrics 03:22 UTC: GA4 171 users/212 sessions/285 views 7d; GSC 5,410 impr/101 clicks/1.87% CTR/pos 10.2 — `metrics.md` reports **no content-gap rows** (impr≥50, CTR<2%). robots.txt: ✅ 8/8 AI-crawler UAs `Allow: /` (live-curled). `llms.txt`/`llms-full.txt`: 200 live. `public/llms/**/*.md`: 2,002 files, drummers/*.md 72/72. Quick Facts `<table>` presence: confirmed live via GPTBot-UA curl on lars-ulrich (a plain-Mozilla-UA curl falsely showed 0 — that's the client-only SPA shell, not the bot-served prerender; corrected before concluding anything, noting so a future run doesn't repeat the false lead). Today is Thursday — this week's Monday drum-chair sweep already logged 08-10 (band group 2/4); not re-run. L1 (`gsc-watch-snapshot.md`)/L3 (`indexation-snapshot.md`) both still 08-10 vintage — re-read in full this run: the 3 big-losses (eloy-casagrande-slipknot/adrian-erlandsson/kevin-talley) and CTR-gap rows were already reviewed/actioned in the 08-10/08-11 runs (#5493 shipped); confirmed no new rows, nothing to re-file.
+
+### New lever found: full-roster `sources.items[].url` citation-health audit
+Dispatched a research sub-agent to check every unique citation URL (210 unique / 282 total across 72 profiles) for genuine dead links vs. bot-blocking — the same care #5462/#5466 established (brand sites like Meinl/ProMark/Sabian/Discogs/Metal-Archives commonly 403 scripted curl without being actually dead). Result: 113 healthy, 21 correctly-excluded bot-blocks, **3 genuinely dead** with DNS/TLS/connection-level evidence (not heuristic):
+- `igor-cavalera` → `cavalera.net` (TLS cert now belongs to an unrelated squatted domain)
+- `frost` → `1349.com` (DNS resolution fails entirely)
+- `adrian-erlandsson` → `blunt.com.au` (connection refused / HTTP 500)
+
+All 3 have verified live replacement URLs (found via web search, confirmed 200). Dedup-checked against #5462/#5463/#5466/#5481 (prior citation-URL fixes) — no overlap, different drummers/domains. Filed as one batch issue.
+
+### Other candidate angles checked, came back clean (no issue filed)
+- **`overview` section brand mentions vs `gearHighlights`** (5 profiles have a brand name in the prose bio: george-kollias, eloy-casagrande, danny-carey, matt-greiner, john-longstreth) — every brand mentioned in `overview` also appears correctly in that profile's `gearHighlights`. No contradiction.
+- **`trivia` section brand mentions vs `gearHighlights`** (11 profiles: dave-lombardo, george-kollias, martin-axenrot, matt-garstka, daniel-erlandsson, charlie-benante, matt-halpern, matt-greiner, adrian-erlandsson, jimmy-degrasso, alex-rudinger) — same check, zero mismatches. The gearHighlights-vs-FAQ/prose contradiction class (fully drained 72/72 as of 08-12 across Drums/Snare/Cymbals/Pedal/Sticks/Heads/Hardware) does not extend into `overview`/`trivia` — those sections just don't duplicate gear facts much, so there's no more juice in this lens family. Do not re-run either of these two checks without a fresh regression signal (e.g. a new hand-edit to `overview`/`trivia`).
+
+### Proposals filed this run
+1. **#5518** — SEO: 3 dead `sources.items` citation URLs — cavalera.net, 1349.com, blunt.com.au (igor-cavalera, frost, adrian-erlandsson)
+
+### Drum-chair watch
+Already logged this week (08-10, band group 2/4). Not re-run (today is Thursday).
+
+### Open proposals waiting on CEO triage
+- #5518 (filed this run, 0d old)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers only.
+
+### Next run
+1. Watch #5518 through CEO triage; live-verify the 3 replacement URLs (curl 200) once shipped.
+2. `overview`/`trivia` brand-mention lenses checked clean (0/16 combined) — don't re-run without a fresh edit signal.
+3. The `sources.items` citation-health audit (this run) covered the full 210 unique URLs — the remaining ~207 are confirmed healthy or bot-blocked, not dead. A full re-audit isn't worth re-running soon; spot-check only if a specific brand domain change is suspected.
+4. Next real opportunity is most likely the ~08-17 L1/L2/L3/L2 weekly refresh.
+5. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers — not checked this run (CEO's remit, not SEO Agent's).

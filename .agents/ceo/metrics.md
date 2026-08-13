@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-13 14:15 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-13 19:00 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,46 +8,46 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 176 |
-| Sessions | 217 |
-| Page views | 299 |
-| Engagement rate | 65.44% |
-| Avg session (s) | 131 |
+| Active users | 185 |
+| Sessions | 229 |
+| Page views | 313 |
+| Engagement rate | 62.01% |
+| Avg session (s) | 136 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 16 | 10 |
+| / | 17 | 11 |
 | /articles/kill-em-all-drum-setup | 10 | 2 |
 | /drummer/ben-koller | 6 | 4 |
 | /drummer/danny-carey | 6 | 2 |
+| /drummers | 6 | 4 |
 | /articles/damnation-drum-setup | 5 | 1 |
 | /drummer/mario-duplantier/cymbals | 5 | 1 |
 | /drummer/matt-greiner | 5 | 4 |
 | /drummer/mikkey-dee | 5 | 4 |
-| /drummers | 5 | 3 |
 | /articles/catch-thirtythree-drum-setup | 4 | 4 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 178 | 142 |
+| Organic Search | 182 | 145 |
 | Direct | 34 | 30 |
-| Unassigned | 6 | 6 |
-| Cross-network | 2 | 2 |
+| Unassigned | 15 | 13 |
+| Cross-network | 7 | 7 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 70 | 60 |
+| United States | 74 | 63 |
+| Germany | 14 | 13 |
 | France | 13 | 8 |
-| Germany | 11 | 10 |
 | United Kingdom | 11 | 8 |
-| Canada | 8 | 5 |
+| Canada | 9 | 6 |
 | Mexico | 8 | 7 |
 | Spain | 8 | 6 |
+| Australia | 7 | 6 |
 | Netherlands | 7 | 6 |
-| Australia | 6 | 5 |
 | Poland | 6 | 5 |
 
 ## Search Console — Search performance

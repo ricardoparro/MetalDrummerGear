@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-14 07:22 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-14 08:07 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -10,9 +10,9 @@
 | --- | --- |
 | Active users | 180 |
 | Sessions | 226 |
-| Page views | 326 |
+| Page views | 328 |
 | Engagement rate | 53.98% |
-| Avg session (s) | 180 |
+| Avg session (s) | 189 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -21,9 +21,9 @@
 | /drummers | 16 | 5 |
 | /drummer/danny-carey | 10 | 5 |
 | /articles/obsolete-drum-setup | 7 | 1 |
+| /techniques | 7 | 1 |
 | /articles/kill-em-all-drum-setup | 6 | 2 |
 | /drummer/ben-koller | 6 | 4 |
-| /techniques | 6 | 1 |
 | /articles/damnation-drum-setup | 5 | 1 |
 | /drummer/brann-dailor | 5 | 3 |
 | /drummer/mario-duplantier/cymbals | 5 | 1 |

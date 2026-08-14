@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-14 08:07 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-14 09:11 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,33 +8,32 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 180 |
-| Sessions | 226 |
-| Page views | 328 |
-| Engagement rate | 53.98% |
-| Avg session (s) | 189 |
+| Active users | 181 |
+| Sessions | 227 |
+| Page views | 347 |
+| Engagement rate | 62.56% |
+| Avg session (s) | 179 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 18 | 10 |
-| /drummers | 16 | 5 |
-| /drummer/danny-carey | 10 | 5 |
-| /articles/obsolete-drum-setup | 7 | 1 |
+| / | 20 | 10 |
+| /drummers | 18 | 5 |
+| /drummer/danny-carey | 11 | 5 |
+| /articles/obsolete-drum-setup | 8 | 1 |
 | /techniques | 7 | 1 |
 | /articles/kill-em-all-drum-setup | 6 | 2 |
 | /drummer/ben-koller | 6 | 4 |
+| /drummer/brann-dailor | 6 | 4 |
 | /articles/damnation-drum-setup | 5 | 1 |
-| /drummer/brann-dailor | 5 | 3 |
 | /drummer/mario-duplantier/cymbals | 5 | 1 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 172 | 136 |
-| Direct | 37 | 32 |
-| Unassigned | 28 | 20 |
-| Cross-network | 8 | 8 |
+| Organic Search | 186 | 147 |
+| Direct | 38 | 32 |
+| Unassigned | 9 | 7 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
@@ -48,7 +47,7 @@
 | Mexico | 8 | 7 |
 | Spain | 7 | 5 |
 | Australia | 6 | 6 |
-| Netherlands | 6 | 5 |
+| Italy | 6 | 6 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |

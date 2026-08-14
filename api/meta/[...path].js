@@ -77,7 +77,14 @@ import { ENDORSEMENT_NEWS } from '../../packages/frontend/data/endorsementNews.j
 // Issue #4268: /guides/beginner-metal-drummer-setup + /guides/budget-metal-drum-setup-{500,1000,2000}
 // were rendering title/description-only stubs (or falling through to the generic
 // /guides/<slug> fallback) with zero HowTo/FAQPage JSON-LD in bot-facing SSR.
-import BEGINNER_GUIDES, { generateBeginnerGuideSchema, generateBeginnerFaqSchema } from '../../packages/frontend/data/beginnerGuides.js';
+// Issue #5528 (3rd recurrence of the same symptom): the previous default+named
+// mixed import (`import BEGINNER_GUIDES, { ... }`) was the only import of that
+// shape anywhere in this codebase and resolved to `undefined` once bundled for
+// the deployed serverless function, even though it worked in a plain local
+// Node ESM run — hence 3 "verified locally" fixes that never changed prod
+// behavior. BEGINNER_GUIDES has both a named and default export; use the named
+// one exclusively, matching every other guide-data import in this file.
+import { BEGINNER_GUIDES, generateBeginnerGuideSchema, generateBeginnerFaqSchema } from '../../packages/frontend/data/beginnerGuides.js';
 // Issue #4282: SSR meta + JSON-LD for the /drumsticks* route family (epic #4135,
 // phases #4136-#4139) — previously fell through to the generic homepage shell
 // under bot UA despite being fully built out and sitemap-listed.

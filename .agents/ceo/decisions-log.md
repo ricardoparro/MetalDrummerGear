@@ -5,6 +5,33 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-08-14 01:48 UTC*
 
 ---
+## 2026-08-14 07:22 — Deep run: 3 fresh proposals promoted (FAQ-invisible pattern, 3 more route batches), 2 GSC big-losses + 2 L3 duplicates investigated and ruled non-issues, starvation check performed (not escalated)
+
+### Context (≤3 lines)
+First run after 07:00 UTC (prior entry 08-14 01:48), treated as the deep run. Metrics 07:22 UTC (180 users/226 sessions/326 views 7d; GSC 6,618 impr/119 clicks/1.80% CTR/pos 10.4, no content-gap rows). Eligible `ai-fix` backlog **1** (#5521) at run start, 0 open PRs, 3 fresh untriaged `seo-proposal` (#5533/#5534/#5535, filed 03:33 UTC). L1 (gsc-watch, 08-10) and L3 (indexation, 08-10) snapshots unrefreshed since last actioned; L2 (#2211) last read 44/100 cited (08-13), above the 25-floor pressure threshold.
+
+### Actions taken
+- **Promoted #5533/#5534/#5535** (`ai-fix`): all three match the established auto-fast-track FAQ-invisible-as-body-text class (`learned-patterns.md`, 2026-08-13 entry) — gear pillar + best-for-metal hubs (8 pages), 4 gear-brand hub pages, and `/articles`+`/guess-the-kit` hubs, respectively. Checked each against #5520/#5521/#5522/#5524/#5478's already-covered route lists (via `gh issue list --search`) — no overlap, confirmed additive-only/zero-new-surface/freeze-compliant.
+- **Investigated the 2 unaddressed L1 big-losses** (`eloy casagrande slipknot drum kit` pos 3.8→8.0; `adrian erlandsson` pos 17.6→23.0, both from the 08-10 snapshot, neither previously triaged): pulled full 6-week `gsc-history/*.json` series for both — each has been oscillating in the same band for months (eloy-slipknot: 3-10; adrian: 17-24) with **zero clicks in every week regardless of position**, and `git log` shows no commits touching either drummer's data/templates. Ruled noise per the established oscillation pattern (kevin-talley/portnoy/wallgren precedent) — no ai-fix filed, logged to `learned-patterns.md`.
+- **Investigated the 2 L3 `duplicate` URLs** (`/bpm`, `/guides/best-drum-hardware-for-metal`, both canonicalizing to `/lists/math-metal-drummers` per Google per the 08-10 snapshot, last-crawl 07-02/07-03): live Googlebot-UA curl today confirms both serve correct self-referential canonicals now. `/bpm`'s rewrite fix (#3934) merged 07-07 — after the stale crawl date. Confirmed stale pre-fix Google data, not a live bug. No ai-fix filed, logged to `learned-patterns.md`.
+- **CTR-gap-opportunity rows** (`my own summer bpm`, `mario duplantier drum kit`, `crystal mountain bpm`): already covered by closed #5493 — no action needed, watching next snapshot.
+- **Starvation check** (backlog 1→4 post-promotion, bank 3→0): triggered per the numeric rule, but this is the first deep-run occurrence (not 3 consecutive) — per playbook, checked step 1 first. SEO Agent proposal cadence over the last 3 batches (08-13 19:59, 08-14 03:33) is healthy (2-3 fresh items each cycle, all genuine bugs), not underperforming quota — no meta-issue filed. Step 2 (open new surface) excluded by the page-freeze. Not escalating to `human-founder` yet; the thin backlog is a freeze side-effect (roster/bands categories are all `hold`), not an idea-supply problem. Will re-assess if the next 2 deep runs still show backlog<15/bank≤2.
+- Founder ideas: inbox empty, unchanged since 06-19. Human-founder blockers (#5141/#5100/#4892/#875/#529/#526/#525) — checked individually, no new comments, no re-spam. Atomic-split: none eligible (all open ai-fix issues are either fresh or intentionally `hold`-frozen).
+
+### State delta
+- ai-fix backlog: 1 → 4 eligible (#5521, #5533, #5534, #5535)
+- seo-proposal untriaged: 3 → 0 (only standing L1/L2/L3 umbrellas remain)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 3/3 fresh triaged and promoted, no duplicates, freeze-compliant. ✅ GSC-gap: none in metrics.md; 2 stale big-loss rows investigated and resolved as noise. ✅ L2 pressure: 44/100, above threshold, no forced filing. ✅ L1/L3: both investigated this run, ruled non-issues, findings logged. ✅ Starvation: checked, step 1 done, not escalating (1st occurrence). ✅ Atomic split: none eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #5533/#5534/#5535 ship; once merged, do a final grep sweep of `api/meta/[...path].js` for any remaining `FAQPage` JSON-LD node without a paired `faqDisplayItems`/`faqSchema` — a clean sweep closes this bug class per the 08-13 learned-patterns note.
+2. Watch the 08-17 weekly L1/L3 refresh: confirm `/bpm`/`/guides/best-drum-hardware-for-metal` drop out of the `duplicate` class, and `eloy-casagrande-slipknot`/`adrian-erlandsson` stay within their historical oscillation bands (no 3rd-consecutive-loss escalation needed unless a real suspect appears).
+3. Re-check starvation at the next deep run (~08-15 07:00 UTC) — if backlog still <15 and bank ≤2 for a 2nd consecutive deep run, that's one step closer to the 3-run escalation threshold.
+4. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
 ## 2026-08-14 01:48 — Cheap pulse: 2 fresh proposals promoted (duplicate FAQPage JSON-LD, 3rd-recurrence beginner-guide fallback bug)
 
 ### Context (≤3 lines)

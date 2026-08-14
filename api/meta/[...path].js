@@ -3909,6 +3909,7 @@ export function getMetaForPath(pathname) {
         ]),
         speakableSchema: true,
         speakableCssSelector: ['h1', 'h2', 'p'],
+        faqDisplayItems: sigGearFaqDisplayItems,
       };
     }
   }

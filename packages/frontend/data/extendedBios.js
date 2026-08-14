@@ -6422,7 +6422,7 @@ Bittner rose to prominence with Shadows Fall during the early 2000s metalcore ex
 
 **Current Setup:**
 - **Drums**: Mapex Saturn V (or Black Panther series)
-- **Snare**: Mapex Black Panther Sledgehammer 14"x6.5"
+- **Snare**: Mapex Black Panther Brass 14"x6.5"
 - **Cymbals**: Zildjian K and A Custom Series
 - **Hardware**: Mapex Falcon double pedal
 - **Sticks**: ProMark Jason Bittner Signature 5BX (TX5BXN)

@@ -7052,8 +7052,8 @@ Turner's drumming videos have gone viral on social media, showcasing his ability
 - **Snare**: Tama S.L.P. 14"x5.5" G-Maple
 - **Cymbals**: Meinl (Byzance and Pure Alloy series)
 - **Hardware**: Tama Speed Cobra 910 double pedal
-- **Throne**: Ahead Spinal-G
-- **Sticks**: Promark or Vic Firth 5B
+- **Throne**: Tama 1st Chair Throne
+- **Sticks**: Vic Firth American Classic 5A
 - **Heads**: Evans
 
 **Setup Characteristics:**

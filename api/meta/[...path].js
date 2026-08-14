@@ -2358,20 +2358,47 @@ export function getMetaForPath(pathname) {
 
   // Guess the Kit - Issue #799
   if (path === '/guess-the-kit') {
+    // Issue #5535: FAQPage was missing from this hub's schema-pairing sweep (#4809-4817).
+    const guessTheKitFaqItems = [
+      {
+        question: 'What is Guess the Kit?',
+        answer: 'Guess the Kit is a MetalForge trivia game that challenges you to identify which legendary metal drummer owns a given drum kit setup, based on real gear breakdowns from the MetalForge database.',
+      },
+      {
+        question: 'Is Guess the Kit free?',
+        answer: 'Yes, Guess the Kit is completely free to play. No signup required.',
+      },
+      {
+        question: 'Does Guess the Kit have daily challenges?',
+        answer: 'Yes — Guess the Kit offers daily challenges with shareable results so you can compare your score with other metal drummer gear fans.',
+      },
+    ];
     return {
       title: `Guess the Kit — Metal Drummer Trivia Game | ${SITE_NAME}`,
       description: 'Test your metal gear knowledge! Can you identify which legendary drummer owns this kit? Daily challenges with shareable results.',
       image: `${BASE_URL}/images/og/guess-the-kit-preview.png`,
       type: 'website',
       url: `${BASE_URL}/guess-the-kit`,
-      articleSchema: JSON.stringify({
-        '@context': 'https://schema.org',
-        '@type': 'WebApplication',
-        name: 'Guess the Kit — Metal Drummer Trivia Game',
-        applicationCategory: 'GameApplication',
-        url: `${BASE_URL}/guess-the-kit`,
-        operatingSystem: 'Any',
-      }),
+      faqDisplayItems: guessTheKitFaqItems,
+      articleSchema: JSON.stringify([
+        {
+          '@context': 'https://schema.org',
+          '@type': 'WebApplication',
+          name: 'Guess the Kit — Metal Drummer Trivia Game',
+          applicationCategory: 'GameApplication',
+          url: `${BASE_URL}/guess-the-kit`,
+          operatingSystem: 'Any',
+        },
+        {
+          '@context': 'https://schema.org',
+          '@type': 'FAQPage',
+          mainEntity: guessTheKitFaqItems.map(item => ({
+            '@type': 'Question',
+            name: item.question,
+            acceptedAnswer: { '@type': 'Answer', text: item.answer },
+          })),
+        },
+      ]),
       breadcrumbSchema: [
         { name: 'Home', url: BASE_URL },
         { name: 'Guess the Kit', url: `${BASE_URL}/guess-the-kit` },
@@ -2729,6 +2756,17 @@ export function getMetaForPath(pathname) {
 
   // Articles hub — Issue #1324: CollectionPage+ItemList schema
   if (path === '/articles') {
+    // Issue #5535: FAQPage was missing from this hub's schema-pairing sweep (#4809-4817).
+    const articlesHubFaqItems = [
+      {
+        question: 'How many drum-setup articles does MetalForge have?',
+        answer: `MetalForge has ${Object.values(ALBUM_ARTICLES).length} in-depth articles covering metal drummer gear, album recording setups, and equipment breakdowns.`,
+      },
+      {
+        question: 'What do MetalForge\'s articles cover?',
+        answer: 'In-depth articles about metal drummer gear, album recording setups, and equipment breakdowns.',
+      },
+    ];
     return {
       title: `Drum Gear Articles & Guides | ${SITE_NAME}`,
       description: 'In-depth articles about metal drummer gear, album recording setups, and equipment breakdowns.',
@@ -2749,19 +2787,31 @@ export function getMetaForPath(pathname) {
             label: l.title,
           })),
       ],
-      articleSchema: JSON.stringify({
-        '@context': 'https://schema.org',
-        '@type': 'CollectionPage',
-        name: 'Metal Drummer Gear Articles & Guides',
-        description: 'In-depth articles about metal drummer gear, album recording setups, and equipment breakdowns.',
-        url: `${BASE_URL}/articles`,
-        publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
-        hasPart: Object.values(ALBUM_ARTICLES).slice(0, 20).map(a => ({
-          '@type': 'Article',
-          headline: a.title,
-          url: `${BASE_URL}/articles/${a.slug}`,
-        })),
-      }),
+      faqDisplayItems: articlesHubFaqItems,
+      articleSchema: JSON.stringify([
+        {
+          '@context': 'https://schema.org',
+          '@type': 'CollectionPage',
+          name: 'Metal Drummer Gear Articles & Guides',
+          description: 'In-depth articles about metal drummer gear, album recording setups, and equipment breakdowns.',
+          url: `${BASE_URL}/articles`,
+          publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
+          hasPart: Object.values(ALBUM_ARTICLES).slice(0, 20).map(a => ({
+            '@type': 'Article',
+            headline: a.title,
+            url: `${BASE_URL}/articles/${a.slug}`,
+          })),
+        },
+        {
+          '@context': 'https://schema.org',
+          '@type': 'FAQPage',
+          mainEntity: articlesHubFaqItems.map(item => ({
+            '@type': 'Question',
+            name: item.question,
+            acceptedAnswer: { '@type': 'Answer', text: item.answer },
+          })),
+        },
+      ]),
       // Issue #4863: SpeakableSpecification — sweep gap on hub/utility pages.
       speakableSchema: true,
       speakableCssSelector: ['h1', 'h2', 'p'],

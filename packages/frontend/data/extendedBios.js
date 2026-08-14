@@ -3132,7 +3132,6 @@ Grossmann first gained international recognition as the drummer for Necrophagist
       sources: {
         title: 'Sources',
         items: [
-          { name: 'Tama Drums', url: 'https://www.tama.com' },
           { name: 'Meinl Cymbals', url: 'https://meinlcymbals.com' },
           { name: 'Obscura Official', url: 'https://www.facebook.com/obscaboreal/' },
           { name: 'Wikipedia: Hannes Grossmann', url: 'https://en.wikipedia.org/wiki/Hannes_Grossmann' }

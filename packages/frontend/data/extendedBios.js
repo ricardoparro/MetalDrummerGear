@@ -4229,7 +4229,7 @@ Verbeuren's drumming combines the technical precision of melodic death metal wit
         content: `Dirk Verbeuren is endorsed by Tama Drums, Meinl Cymbals, and his own signature Tama drumsticks. His setup is designed for both the technical demands of modern metal and the power required for arena-level thrash performances.
 
 **Current Setup (Megadeth):**
-- **Drums**: Tama Starclassic Maple (22"x18" Bass, various toms)
+- **Drums**: Tama Starclassic Walnut/Birch (22"x18" Bass, various toms)
 - **Snare**: Tama S.L.P. Big Black Steel 14"x6.5"
 - **Cymbals**: Meinl Byzance Brilliant & Classics Custom Dark (14" Byzance Brilliant Hi-Hat, 18"/19"/20"/21" Classics Custom Dark Crashes, 22" Byzance Brilliant Ride, 18" Byzance Brilliant China)
 - **Hardware**: Tama Speed Cobra 910 Double Pedal

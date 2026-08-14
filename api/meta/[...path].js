@@ -3855,12 +3855,16 @@ export function getMetaForPath(pathname) {
     const gear = SIGNATURE_GEAR[gearSlug];
     const drummer = getDrummerBySlug(drummerSlug);
     if (gear && drummer) {
+      const sigGearFaqDisplayItems = (gear.faq && gear.faq.length > 0)
+        ? gear.faq.map(f => ({ question: f.question, answer: f.answer }))
+        : [];
       return {
         title: `${gear.fullName} — ${drummer.name}'s Signature ${gear.gearType} | ${SITE_NAME}`,
         description: `${gear.hero.tagline}. Full specs, story, and pricing for ${drummer.name}'s ${gear.name} (${gear.model}).`,
         image: gear.seo?.ogImage || gear.hero?.heroImage || drummer.image || `${BASE_URL}/images/og/default.png`,
         type: 'website',
         url: `${BASE_URL}/drummers/${drummerSlug}/signature/${gearSlug}`,
+        faqDisplayItems: sigGearFaqDisplayItems,
         articleSchema: JSON.stringify({
           '@context': 'https://schema.org',
           '@graph': [

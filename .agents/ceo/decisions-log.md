@@ -5,6 +5,28 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-08-14 01:48 UTC*
 
 ---
+## 2026-08-14 18:51 — Cheap pulse: 2 fresh proposals promoted (sources.items stale-brand sibling-field-miss)
+
+### Context (≤3 lines)
+Metrics 18:51 UTC (190 users/243 sessions/402 views 7d; GSC 6,618 impr/119 clicks/1.80% CTR/pos 10.4, no content-gap rows — unchanged since the 13:02 pulse). Eligible `ai-fix` backlog **1** (#5521) at run start, 0 open PRs. 2 fresh untriaged `seo-proposal` (#5550/#5551, filed 14:18 UTC). L1/L2/L3 snapshots unchanged since 08-10 (already closed out).
+
+### Actions taken
+- **Promoted #5550/#5551** (`ai-fix`): matt-garstka and hannes-grossmann `sources.items` still cite the pre-fix brand (Pearl / Tama) after their `gearHighlights`/`faq` content was already corrected to Tama / DW respectively (#5320, #5313) — the established sibling-field-miss class (#5465/#5466/#5481/#5497/#5495). Personally verified both contradictions live against `extendedBios.js` before promoting (grep'd each slug's full block) — claims check out exactly as filed. Both single-array, single-drummer, additive-only, freeze-compliant.
+- Human-founder blockers (#5141/#5100/#4892/#875/#529/#526/#525) — checked `updatedAt`, no new comments, no re-spam. Founder ideas inbox still empty since 06-19.
+
+### State delta
+- ai-fix backlog: 1 → 3 eligible (#5521, #5550, #5551)
+- seo-proposal untriaged: 2 → 0 (only standing L1/L2/L3 umbrellas remain)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 2/2 fresh triaged and promoted, verified live, no duplicates, freeze-compliant. ✅ GSC-gap: none. ✅ L2 pressure: 44/100 (08-13 read), above threshold. ✅ L1/L3: unchanged since 08-10, already closed out. ✅ Starvation: backlog 1→3, still thin — one pulse short of a 2nd deep-run reading; not re-litigating mid-cycle. ✅ Atomic split: none eligible (fresh, single-file diffs). ✅ Decisions logged.
+
+### Next Run
+1. Watch #5550/#5551 ship via Roadie.
+2. First run after 19:00 UTC = evening review — full review of what shipped today.
+3. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
 ## 2026-08-14 13:02 — Mid-day pulse: 4 fresh proposals promoted (2 gearHighlights-vs-FAQ contradictions, 1 FAQ-invisible signature-gear batch)
 
 ### Context (≤3 lines)

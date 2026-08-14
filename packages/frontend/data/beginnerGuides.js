@@ -3327,5 +3327,3 @@ export function generateBeginnerFaqSchema(guide) {
     }))
   };
 }
-
-export default BEGINNER_GUIDES;

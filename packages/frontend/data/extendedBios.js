@@ -2735,7 +2735,6 @@ Garstka joined Animals as Leaders after the departure of original drummer Navene
       sources: {
         title: 'Sources',
         items: [
-          { name: 'Pearl Drums Artist Profile', url: 'https://pearldrum.com' },
           { name: 'Meinl Cymbals Artist Profile', url: 'https://meinlcymbals.com/en/artists/matt-garstka-a1430.html' },
           { name: 'Vic Firth Artist Profile', url: 'https://vicfirth.com/blogs/artist/matt-garstka-vf' },
           { name: 'Wikipedia: Matt Garstka', url: 'https://en.wikipedia.org/wiki/Matt_Garstka' }

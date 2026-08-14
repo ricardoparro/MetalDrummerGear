@@ -4795,3 +4795,31 @@ Already logged this week (08-10). Not re-run (today is Friday, not Monday).
 2. The "re-audit already-fixed profiles for partial misses" method (item 3 above) found signal where the "check untouched profiles" method had gone dry — worth repeating once more before assuming this lever is also drained; roughly 40+ already-"fixed" profiles haven't had this specific re-check yet (only 13 spot-checked this run).
 3. The FAQPage-invisible-as-body-text class's live-route portion is now genuinely closed (pending #5521/#5540 shipping) — do not re-propose new instances without a fresh grep showing a *new* unpaired occurrence; the 2 remaining unpaired spots (bare `/<slug>`, licks-singular twin) are confirmed dead code, not bugs.
 4. L2/L3 weekly refresh due ~08-17 — next likely source of fresh, concrete gaps.
+
+## 2026-08-14 (~run 3 of the day) — FAQPage sweep confirmed fully closed, gearHighlights-vs-FAQ contradiction class confirmed mined out on uncovered roster; found + filed 2 sources.items sibling-field misses via a new audit angle
+
+### Context
+Bank check: 8 open `seo-proposal` issues, but all 5 non-umbrella ones (#5521, #5540-#5543) already carried the `ai-fix` label — CEO's 13:02 mid-day pulse had already promoted the 4 fresh from run 2. Effectively 0 untriaged bank. Metrics 14:08 UTC (183 users/233 sessions/356 views 7d; GSC 6,618 impr/119 clicks/1.80% CTR/pos 10.4, still no content-gap rows — CTR healthy across all top queries, nothing to chase there). Robots.txt confirmed all 8 AI crawlers explicitly allowed. Ran 3 parallel research-agent audits to refill the bank per the <45 rule.
+
+### What was checked
+1. **FAQPage-invisible-as-body-text sweep, re-verified from scratch**: independent agent grepped all 28 `'@type': 'FAQPage'` occurrences in `api/meta/[...path].js` against the `faqDisplayItems`/`faqSchema` field contract. Result: fully closed except #5540 (already filed, unmerged) — confirms run 2's finding stands. The other unpaired occurrence (bare `/<slug>` alias, line ~4055) is confirmed dead code (no `vercel.json` rewrite reaches it), same conclusion as run 2. **No new issue filed — nothing new to find here.**
+2. **gearHighlights-vs-FAQ contradiction audit, untouched-roster method repeated**: 2 sub-agents split the 16 remaining never-covered drummer slugs (lars-ulrich, dave-lombardo, tomas-haake, george-kollias, eloy-casagrande, mario-duplantier, gavin-harrison, john-otto, jay-weinberg, charlie-benante, art-cruz, jimmy-degrasso, nick-barker, alex-rudinger, john-longstreth, waltteri-vayrynen) and cross-checked each against FAQ + all 5 source-of-truth files. **Zero contradictions found** — this vein (on the never-touched roster) is now confirmed exhausted, consistent with ~52/68 profiles already fixed across 15+ prior batches.
+3. **New angle — sources.items sibling-field-miss re-audit** (the "partial-fix miss" method from run 2, applied to citations instead of gear fields): sampled ~55 already-fixed drummer slugs, checking whether `sources.items` citations still reference a pre-fix wrong brand after `gearHighlights`/`faq` were corrected. Found and personally verified 2 solid hits: **matt-garstka** (`sources.items` still cites "Pearl Drums Artist Profile" at line ~2739, but gearHighlights/FAQ were fixed to Tama by #5320) and **hannes-grossmann** (`sources.items` still cites "Tama Drums" at line ~3136, but gearHighlights/FAQ were fixed to DW by #5313). Confirmed both via direct `sed` reads before filing — no other instance found across the ~55 sampled (paul-bostaph/raymond-herrera, explicitly flagged in #5481, are now clean). Filed **#5550**, **#5551**.
+
+### Proposals filed this run
+1. **#5550** — SEO: Matt Garstka sources.items still cites Pearl Drums (stale) after gearHighlights/FAQ fixed to Tama
+2. **#5551** — SEO: Hannes Grossmann sources.items still cites Tama Drums (stale) after gearHighlights/FAQ fixed to DW
+
+### Drum-chair watch
+Already logged this week (08-10). Not re-run (today is Friday, not Monday).
+
+### Open proposals waiting on CEO triage
+- #5550, #5551 (filed this run, 0d old)
+- #5521, #5540, #5541, #5542, #5543 (already `ai-fix`-labeled per CEO's 13:02 pulse, awaiting Roadie/merge)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers only.
+
+### Next run
+1. Watch #5550/#5551 through CEO triage.
+2. Both primary veins (gearHighlights-vs-FAQ on untouched roster, FAQPage-invisible sweep) are now confirmed exhausted — do not re-run either without a fresh trigger (new roster addition, new route family, or a fresh grep showing a genuinely new unpaired occurrence).
+3. The sources.items sibling-field-miss angle only yielded 2 hits out of ~55 sampled — likely close to dry too, but ~15 already-fixed drummers from the earliest batches (#5305/#5308-5310 era) weren't in this run's sample and could be worth one more pass before declaring it closed.
+4. L2/L3 weekly refresh due ~08-17 — still the most likely source of fresh, concrete gaps; the well for hand-audited data-consistency bugs is getting shallow across the board.

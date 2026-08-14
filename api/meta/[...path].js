@@ -6803,6 +6803,8 @@ export function getMetaForPath(pathname) {
         href: `/drumsticks/signature/${stick.drummerSlug}`,
         label: `${stick.brand} ${stick.model} — ${stick.drummerSlug}`,
       }))),
+      // Issue #5533: FAQ was previously JSON-LD-only — surface as visible body text.
+      faqDisplayItems: PILLAR_PAGE.faq,
       articleSchema: JSON.stringify([
         generateDrumstickArticleSchema(PILLAR_PAGE, url),
         itemListSchema,
@@ -6903,6 +6905,8 @@ export function getMetaForPath(pathname) {
           label: `${stick.brand} ${stick.model} — ${stick.drummerSlug}`,
         })),
       ],
+      // Issue #5533: FAQ was previously JSON-LD-only — surface as visible body text.
+      faqDisplayItems: BEST_FOR_METAL_PAGE.faq,
       articleSchema: JSON.stringify([
         generateBestForMetalArticleSchema(),
         generateBestForMetalItemListSchema(DRUMSTICKS),
@@ -7018,6 +7022,8 @@ export function getMetaForPath(pathname) {
         href: `/drummer/${setup.drummerSlug}`,
         label: `${setup.brands.join(' & ')} cymbal setup — ${setup.drummerSlug}`,
       }))),
+      // Issue #5533: FAQ was previously JSON-LD-only — surface as visible body text.
+      faqDisplayItems: CYMBAL_PILLAR_PAGE.faq,
       articleSchema: JSON.stringify([
         generateCymbalArticleSchema(CYMBAL_PILLAR_PAGE, url),
         itemListSchema,
@@ -7117,6 +7123,8 @@ export function getMetaForPath(pathname) {
           label: `${setup.brands.join(' & ')} cymbal setup — ${setup.drummerSlug}`,
         })),
       ],
+      // Issue #5533: FAQ was previously JSON-LD-only — surface as visible body text.
+      faqDisplayItems: CYMBAL_BEST_FOR_METAL_PAGE.faq,
       articleSchema: JSON.stringify([
         generateCymbalBestForMetalArticleSchema(),
         generateCymbalBestForMetalItemListSchema(CYMBAL_SETUPS),
@@ -7234,6 +7242,8 @@ export function getMetaForPath(pathname) {
         href: `/drummer/${snare.drummerSlug}`,
         label: `${snare.brand ? `${snare.brand} ` : ''}${snare.model || snare.summary} — ${snare.drummerSlug}`,
       }))),
+      // Issue #5533: FAQ was previously JSON-LD-only — surface as visible body text.
+      faqDisplayItems: SNARE_PILLAR_PAGE.faq,
       articleSchema: JSON.stringify([
         generateSnareArticleSchema(SNARE_PILLAR_PAGE, url),
         itemListSchema,
@@ -7272,6 +7282,8 @@ export function getMetaForPath(pathname) {
           label: `${snare.brand} ${snare.model} — ${snare.drummerSlug}`,
         })),
       ],
+      // Issue #5533: FAQ was previously JSON-LD-only — surface as visible body text.
+      faqDisplayItems: SNARE_BEST_FOR_METAL_PAGE.faq,
       articleSchema: JSON.stringify([
         generateSnareBestForMetalArticleSchema(),
         generateSnareBestForMetalItemListSchema(SIGNATURE_SNARES),
@@ -7444,6 +7456,8 @@ export function getMetaForPath(pathname) {
         href: `/drummer/${pedal.drummerSlug}`,
         label: `${pedal.brand ? `${pedal.brand} ` : ''}${pedal.model || pedal.summary} — ${pedal.drummerSlug}`,
       }))),
+      // Issue #5533: FAQ was previously JSON-LD-only — surface as visible body text.
+      faqDisplayItems: PEDAL_PILLAR_PAGE.faq,
       articleSchema: JSON.stringify([
         generatePedalArticleSchema(PEDAL_PILLAR_PAGE, url),
         itemListSchema,
@@ -7482,6 +7496,8 @@ export function getMetaForPath(pathname) {
           label: `${pedal.brand ? `${pedal.brand} ` : ''}${pedal.model || pedal.summary} — ${pedal.drummerSlug}`,
         })),
       ],
+      // Issue #5533: FAQ was previously JSON-LD-only — surface as visible body text.
+      faqDisplayItems: PEDAL_BEST_FOR_METAL_PAGE.faq,
       articleSchema: JSON.stringify([
         generatePedalBestForMetalArticleSchema(),
         generatePedalBestForMetalItemListSchema(PEDALS),

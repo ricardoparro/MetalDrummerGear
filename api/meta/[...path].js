@@ -77,7 +77,7 @@ import { ENDORSEMENT_NEWS } from '../../packages/frontend/data/endorsementNews.j
 // Issue #4268: /guides/beginner-metal-drummer-setup + /guides/budget-metal-drum-setup-{500,1000,2000}
 // were rendering title/description-only stubs (or falling through to the generic
 // /guides/<slug> fallback) with zero HowTo/FAQPage JSON-LD in bot-facing SSR.
-import BEGINNER_GUIDES, { generateBeginnerGuideSchema, generateBeginnerFaqSchema } from '../../packages/frontend/data/beginnerGuides.js';
+import BEGINNER_GUIDES, { generateBeginnerGuideSchema } from '../../packages/frontend/data/beginnerGuides.js';
 // Issue #4282: SSR meta + JSON-LD for the /drumsticks* route family (epic #4135,
 // phases #4136-#4139) — previously fell through to the generic homepage shell
 // under bot UA despite being fully built out and sitemap-listed.
@@ -1249,7 +1249,6 @@ export function getMetaForPath(pathname) {
     if (guide) {
       const guideUrl = `${BASE_URL}/guides/${guide.slug}`;
       const howTo = generateBeginnerGuideSchema(guide);
-      const faq = generateBeginnerFaqSchema(guide);
       return {
         title: `${guide.title} | ${SITE_NAME}`,
         description: guide.description,
@@ -1258,7 +1257,7 @@ export function getMetaForPath(pathname) {
         url: guideUrl,
         articleSchema: JSON.stringify({
           '@context': 'https://schema.org',
-          '@graph': [howTo, faq].filter(Boolean),
+          '@graph': [howTo].filter(Boolean),
         }),
         faqSchema: guide.faq || null,
         // Issue #4833: SpeakableSpecification for voice search / AI assistants.
@@ -1302,14 +1301,6 @@ export function getMetaForPath(pathname) {
               mainEntityOfPage: { '@type': 'WebPage', '@id': `${BASE_URL}/guides/${genreGuide.slug}` },
             },
             ...(genreGuideHowTo ? [genreGuideHowTo] : []),
-            ...(genreGuide.faq ? [{
-              '@type': 'FAQPage',
-              mainEntity: genreGuide.faq.map(q => ({
-                '@type': 'Question',
-                name: q.question,
-                acceptedAnswer: { '@type': 'Answer', text: q.answer },
-              })),
-            }] : []),
           ],
         }),
         breadcrumbSchema: [

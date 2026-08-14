@@ -6827,6 +6827,17 @@ export function getMetaForPath(pathname) {
   // Issue #4282: /drumsticks/brands hub — ItemList (one entry per brand) + BreadcrumbList.
   if (path === '/drumsticks/brands') {
     const url = generateBrandsHubCanonicalUrl();
+    // Issue #5534: FAQPage was missing from this hub's schema-pairing sweep (#4809-4817).
+    const drumstickBrandsFaqItems = [
+      {
+        question: 'How many drumstick brands does MetalForge compare?',
+        answer: `MetalForge compares ${DRUMSTICK_BRANDS.length} drumstick brands used by metal drummers, including company background, notable product lines, and confirmed metal drummer endorsements for each.`,
+      },
+      {
+        question: 'Are the drummer endorsements on MetalForge verified?',
+        answer: 'Yes — every drummer-to-brand endorsement shown is cross-checked against that drummer\'s own profile page or a cited source before being listed.',
+      },
+    ];
     return {
       title: `Drumstick Brands: Positioning & Which Metal Drummers Use Them | ${SITE_NAME}`,
       description: `Compare ${DRUMSTICK_BRANDS.length} drumstick brands — company background, notable product lines, and confirmed metal drummer endorsements.`,
@@ -6838,7 +6849,19 @@ export function getMetaForPath(pathname) {
         href: `/drumsticks/brands/${b.slug}`,
         label: b.name,
       })),
-      articleSchema: JSON.stringify(generateBrandsHubSchema()),
+      faqDisplayItems: drumstickBrandsFaqItems,
+      articleSchema: JSON.stringify([
+        ...generateBrandsHubSchema(),
+        {
+          '@context': 'https://schema.org',
+          '@type': 'FAQPage',
+          mainEntity: drumstickBrandsFaqItems.map(item => ({
+            '@type': 'Question',
+            name: item.question,
+            acceptedAnswer: { '@type': 'Answer', text: item.answer },
+          })),
+        },
+      ]),
     };
   }
 
@@ -7046,6 +7069,17 @@ export function getMetaForPath(pathname) {
   // Issue #4307: /cymbals/brands hub — ItemList (one entry per brand) + BreadcrumbList.
   if (path === '/cymbals/brands') {
     const url = generateCymbalBrandsHubCanonicalUrl();
+    // Issue #5534: FAQPage was missing from this hub's schema-pairing sweep (#4809-4817).
+    const cymbalBrandsFaqItems = [
+      {
+        question: 'How many cymbal brands does MetalForge compare?',
+        answer: `MetalForge compares ${CYMBAL_BRANDS.length} cymbal brands used by metal drummers, including company background, metal-relevant series, and confirmed metal drummer endorsements for each.`,
+      },
+      {
+        question: 'Are the drummer endorsements on MetalForge verified?',
+        answer: 'Yes — every drummer-to-brand endorsement shown is cross-checked against that drummer\'s own profile page or a cited source before being listed.',
+      },
+    ];
     return {
       title: `Cymbal Brands: Positioning & Which Metal Drummers Use Them | ${SITE_NAME}`,
       description: `Compare ${CYMBAL_BRANDS.length} cymbal brands — company background, metal-relevant series, and confirmed metal drummer endorsements.`,
@@ -7057,7 +7091,19 @@ export function getMetaForPath(pathname) {
         href: `/cymbals/brands/${b.slug}`,
         label: b.name,
       })),
-      articleSchema: JSON.stringify(generateCymbalBrandsHubSchema()),
+      faqDisplayItems: cymbalBrandsFaqItems,
+      articleSchema: JSON.stringify([
+        ...generateCymbalBrandsHubSchema(),
+        {
+          '@context': 'https://schema.org',
+          '@type': 'FAQPage',
+          mainEntity: cymbalBrandsFaqItems.map(item => ({
+            '@type': 'Question',
+            name: item.question,
+            acceptedAnswer: { '@type': 'Answer', text: item.answer },
+          })),
+        },
+      ]),
     };
   }
 
@@ -7299,6 +7345,17 @@ export function getMetaForPath(pathname) {
   // Issue #4483: /snares/brands hub — ItemList (one entry per brand) + BreadcrumbList.
   if (path === '/snares/brands') {
     const url = generateSnareBrandsHubCanonicalUrl();
+    // Issue #5534: FAQPage was missing from this hub's schema-pairing sweep (#4809-4817).
+    const snareBrandsFaqItems = [
+      {
+        question: 'How many snare brands does MetalForge compare?',
+        answer: `MetalForge compares ${SNARE_BRANDS.length} snare brands used by metal drummers, including company background, metal-relevant models, and confirmed metal drummer endorsements for each.`,
+      },
+      {
+        question: 'Are the drummer endorsements on MetalForge verified?',
+        answer: 'Yes — every drummer-to-brand endorsement shown is cross-checked against that drummer\'s own profile page or a cited source before being listed.',
+      },
+    ];
     return {
       title: `Snare Brands: Positioning & Which Metal Drummers Use Them | ${SITE_NAME}`,
       description: `Compare ${SNARE_BRANDS.length} snare brands — company background, metal-relevant models, and confirmed metal drummer endorsements.`,
@@ -7310,7 +7367,19 @@ export function getMetaForPath(pathname) {
         href: `/snares/brands/${b.slug}`,
         label: b.name,
       })),
-      articleSchema: JSON.stringify(generateSnareBrandsHubSchema()),
+      faqDisplayItems: snareBrandsFaqItems,
+      articleSchema: JSON.stringify([
+        ...generateSnareBrandsHubSchema(),
+        {
+          '@context': 'https://schema.org',
+          '@type': 'FAQPage',
+          mainEntity: snareBrandsFaqItems.map(item => ({
+            '@type': 'Question',
+            name: item.question,
+            acceptedAnswer: { '@type': 'Answer', text: item.answer },
+          })),
+        },
+      ]),
     };
   }
 
@@ -7513,6 +7582,17 @@ export function getMetaForPath(pathname) {
   // Issue #4482: /pedals/brands hub — ItemList (all brands) + BreadcrumbList.
   if (path === '/pedals/brands') {
     const url = generatePedalBrandsHubCanonicalUrl();
+    // Issue #5534: FAQPage was missing from this hub's schema-pairing sweep (#4809-4817).
+    const pedalBrandsFaqItems = [
+      {
+        question: 'How many bass drum pedal brands does MetalForge compare?',
+        answer: `MetalForge compares ${PEDAL_BRANDS.length} bass drum pedal brands used by metal drummers, including company background, notable models, and confirmed metal drummer endorsements for each.`,
+      },
+      {
+        question: 'Are the drummer endorsements on MetalForge verified?',
+        answer: 'Yes — every drummer-to-brand endorsement shown is cross-checked against that drummer\'s own profile page or a cited source before being listed.',
+      },
+    ];
     return {
       title: `Bass Drum Pedal Brands: Positioning & Which Metal Drummers Use Them | ${SITE_NAME}`,
       description: `Compare ${PEDAL_BRANDS.length} bass drum pedal brands — company background, notable models, and confirmed metal drummer endorsements.`,
@@ -7524,7 +7604,19 @@ export function getMetaForPath(pathname) {
         href: `/pedals/brands/${b.slug}`,
         label: b.name,
       })),
-      articleSchema: JSON.stringify(generatePedalBrandsHubSchema()),
+      faqDisplayItems: pedalBrandsFaqItems,
+      articleSchema: JSON.stringify([
+        ...generatePedalBrandsHubSchema(),
+        {
+          '@context': 'https://schema.org',
+          '@type': 'FAQPage',
+          mainEntity: pedalBrandsFaqItems.map(item => ({
+            '@type': 'Question',
+            name: item.question,
+            acceptedAnswer: { '@type': 'Answer', text: item.answer },
+          })),
+        },
+      ]),
     };
   }
 

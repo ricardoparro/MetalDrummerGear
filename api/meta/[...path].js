@@ -1243,9 +1243,23 @@ export function getMetaForPath(pathname) {
   }
 
   // Beginner/budget guides (Issue #4268: BEGINNER_GUIDES schema gap)
+  // Issue #5528: this branch's symptom (generic /guides/<slug> fallback
+  // served for all 4 of these URLs) has now recurred 3 times (#1265, #1412,
+  // #4268) despite the code below reading as correct and reproducing
+  // correctly in a local repro — repo-only diffing is exhausted. `_debugBeginnerGuide`
+  // captures whether this branch matched and whether the BEGINNER_GUIDES
+  // lookup resolved, so the very fallback return below can carry that proof
+  // as response headers instead of forcing another blind repo-side guess.
+  // Remove once a post-deploy bot-UA curl confirms which branch actually ran.
+  let _debugBeginnerGuide = null;
   const beginnerGuideMatch = path.match(/^\/guides\/(beginner-metal-drummer-setup|budget-metal-drum-setup-500|budget-metal-drum-setup-1000|budget-metal-drum-setup-2000)$/);
   if (beginnerGuideMatch) {
     const guide = BEGINNER_GUIDES[beginnerGuideMatch[1]];
+    _debugBeginnerGuide = {
+      'X-Debug-Beginner-Match': String(!!beginnerGuideMatch),
+      'X-Debug-Beginner-Guide-Found': String(!!guide),
+      'X-Debug-Beginner-Keys': Object.keys(BEGINNER_GUIDES || {}).join(',') || '(none)',
+    };
     if (guide) {
       const guideUrl = `${BASE_URL}/guides/${guide.slug}`;
       const howTo = generateBeginnerGuideSchema(guide);
@@ -1269,6 +1283,7 @@ export function getMetaForPath(pathname) {
           { name: 'Guides', url: `${BASE_URL}/guides` },
           { name: guide.title, url: guideUrl },
         ],
+        debugHeaders: _debugBeginnerGuide,
       };
     }
   }
@@ -1328,6 +1343,10 @@ export function getMetaForPath(pathname) {
       description: 'Essential guide for metal drummers covering gear, technique, and setup.',
       type: 'article',
       url: `${BASE_URL}/guides/${slug}`,
+      // Issue #5528: only non-null when this is one of the 4 known beginner/
+      // budget guide slugs that fell through beginnerGuideMatch above without
+      // returning — proves in production which half of that branch failed.
+      debugHeaders: _debugBeginnerGuide || undefined,
     };
   }
 
@@ -8000,6 +8019,14 @@ export default function handler(req, res) {
     res.writeHead(301, { Location: meta.redirect });
     res.end();
     return;
+  }
+
+  // Issue #5528: temporary diagnostic headers for the beginner/budget guide
+  // fallthrough investigation — see getMetaForPath's beginnerGuideMatch block.
+  if (meta.debugHeaders) {
+    for (const [key, value] of Object.entries(meta.debugHeaders)) {
+      res.setHeader(key, value);
+    }
   }
 
   // Set response headers

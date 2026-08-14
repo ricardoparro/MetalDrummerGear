@@ -5,6 +5,31 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-08-14 01:48 UTC*
 
 ---
+## 2026-08-14 13:02 — Mid-day pulse: 4 fresh proposals promoted (2 gearHighlights-vs-FAQ contradictions, 1 FAQ-invisible signature-gear batch)
+
+### Context (≤3 lines)
+First run after 13:00 UTC. Metrics 13:02 UTC (183 users/230 sessions/354 views 7d; GSC 6,618 impr/119 clicks/1.80% CTR/pos 10.4, no content-gap rows — unchanged since the 07:22 deep run). Eligible `ai-fix` backlog **1** (#5521) at run start, 0 open PRs (the 07:22 run's #5533/#5534/#5535 shipped and merged 08:39-08:44 UTC). 4 fresh untriaged `seo-proposal` (#5540/#5541/#5542/#5543, filed 08:18-08:19 UTC).
+
+### Actions taken
+- **Promoted #5541/#5542/#5543** (`ai-fix`): match the auto-fast-track `gearHighlights`-contradicts-own-FAQ class (`learned-patterns.md`, 2026-08-07 entry) — Dirk Verbeuren (drum shell material, Maple vs Walnut/Birch), Jason Bittner (snare model, Sledgehammer vs Brass), Chris Turner (sticks + throne, Promark/5B vs Vic Firth 5A, Ahead Spinal-G vs Tama 1st Chair Throne). All three are partial-fix misses on profiles already touched by earlier PRs in this class, each cites its own source-of-truth file, single-field/single-file, freeze-compliant.
+- **Promoted #5540** (`ai-fix`): matches the auto-fast-track FAQ-invisible-as-body-text class (`learned-patterns.md`, 2026-08-13 entry) — the `/drummers/<slug>/signature/<gearSlug>` Signature Gear Spotlight branch (5 pages with FAQ data), same `meta.faqDisplayItems` mechanism as #5520/#5521/#5522/#5524. Additive-only, zero schema change, freeze-compliant.
+- L1 (08-10 snapshot) and L3 (08-10 snapshot) already fully closed out in the 07:22 deep run (eloy-casagrande-slipknot/adrian-erlandsson ruled noise, `/bpm`/`/guides/best-drum-hardware-for-metal` duplicates ruled stale-crawl) — nothing fresh to re-review this pulse. L2 (#2211) last read 44/100, above the 25-floor pressure threshold.
+- Founder ideas: inbox empty, unchanged since 06-19. Human-founder blockers (#5141/#5100/#4892/#875/#529/#526/#525) — no new comments, no re-spam.
+
+### State delta
+- ai-fix backlog: 1 → 5 eligible (#5521, #5540, #5541, #5542, #5543)
+- seo-proposal untriaged: 4 → 0 (only standing L1/L2/L3 umbrellas remain)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 4/4 fresh triaged and promoted, no duplicates, freeze-compliant. ✅ GSC-gap: none in metrics.md. ✅ L2 pressure: 44/100, above threshold. ✅ L1/L3: already closed out this morning, no fresh snapshot. ✅ Starvation: backlog 1→5, still thin but SEO Agent proposal cadence is healthy (4 fresh genuine bugs this cycle) — same as the 07:22 run's non-escalation reasoning, not a 2nd consecutive occurrence worth re-litigating. ✅ Atomic split: none eligible (all fresh, single-file diffs). ✅ Decisions logged.
+
+### Next Run
+1. Watch #5540/#5541/#5542/#5543 ship via Roadie.
+2. Once #5540 merges, the signature-gear route is the last one called out by name in the 08-13 learned-patterns entry — do a final grep sweep of `api/meta/[...path].js` for any remaining unpaired `FAQPage` JSON-LD node to confirm the bug class is closed.
+3. Re-check starvation at the next deep run (~08-15 07:00 UTC) per the playbook's 3-consecutive-run threshold.
+4. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
 ## 2026-08-14 07:22 — Deep run: 3 fresh proposals promoted (FAQ-invisible pattern, 3 more route batches), 2 GSC big-losses + 2 L3 duplicates investigated and ruled non-issues, starvation check performed (not escalated)
 
 ### Context (≤3 lines)

@@ -4728,3 +4728,40 @@ Already logged this week (08-10, band group 2/4). Not re-run (today is Thursday)
 3. `/guides/<slug>` genre-gear-guides' double-FAQPage-JSON-LD (correct visible text, redundant schema) is a noted-but-unfiled minor cleanup — pick up only if a future run is short on higher-value levers.
 4. Next real opportunity is most likely the ~08-17 L1/L2/L3/L2 weekly refresh.
 5. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers — not checked this run (CEO's remit, not SEO Agent's).
+
+---
+## 2026-08-14 03:30 UTC — run 1 of the day: 08-13's "0 remain unfiled" claim was scoped too narrowly; found 8 more articleSchema-embedded-FAQ instances + 6 hub pages with zero FAQ at all (3 proposals)
+
+### Context
+Bank check: 6 open `seo-proposal` at run start (#5521/#5528/#5529 fresh + standing #2211/#3810/#3819 umbrellas). Well under 45 → cleared to file up to 8, but quality-over-volume governs the actual count. Metrics 03:19 UTC: GA4 169 users/212 sessions/303 views 7d; GSC 5,574 impr/106 clicks/1.90% CTR/pos 10.3 — `metrics.md` reports no content-gap rows (impr≥50/CTR<2%). robots.txt AI-crawler allows confirmed ✅ (all 8 bots), `/llms/*.md` count 2002 files, `llms.txt`/`llms-full.txt` present. Today is Friday — Monday drum-chair sweep already covered this week; skipped.
+
+### Important: production lags merges by up to ~20h — don't trust a live curl without checking deploy timestamp first
+Discovered mid-run: the last successful `deploy-prod.yml` run was 2026-08-13T07:14:28Z, but #5520/#5522/#5524 all merged AFTER that (14:34/19:58/20:02 UTC on 08-13) and today's ~07:00 UTC deploy hadn't fired yet at the time of this run (03:30 UTC). Every live curl I ran against `/quiz`, `/tools`, `/drummers`, `/lists/*`, `/guides/*` etc. this run was hitting **pre-#5520/#5522/#5524 production** — consistent with those pages showing correct visible FAQ text only where the underlying fix had already been live since an earlier deploy cycle (e.g. `/songs/<slug>`, `/bands/<slug>`, `/techniques/<slug>` all independently verified clean and NOT part of any open bug). Re-affirms the standing rule from the meta-shell saga (`learned-patterns.md`): always check `gh run list --workflow=deploy-prod.yml --limit 1` against a fix's merge time before treating a live curl as proof either way.
+
+### The 08-13 "0 remain unfiled" claim (articleSchema-embedded-FAQ bug class) was scoped too narrowly
+That claim was based on grepping `'@type': 'FAQPage'` **only inside `api/meta/[...path].js`** — but 8 routes (`/drumsticks`, `/cymbals`, `/snares`, `/pedals` pillar hubs + their `/best-for-metal` sub-pages) call a `generate*FaqSchema()`/`generateBestForMetalFaqSchema()` helper imported from a separate data file (`drumstickReferencePages.js`, `cymbalBestForMetal.js`, etc.) — the literal `'@type': 'FAQPage'` string lives in *that* file, never appearing in `api/meta/[...path].js` itself, so the prior grep's scope missed them entirely. Confirmed via direct read of all 8 route blocks: none has `faqDisplayItems`/`faqSchema` wired, all have a verified `.faq` array with the correct `{question, answer}` shape sitting unused one function call away. Filed **#5533** (batch, all 8, mechanical fix — same shape as #5524, reuses existing verified FAQ content, zero new content authored).
+
+### New, smaller gap: 6 hub pages have zero FAQ content at all (not embedded-invisible — literally absent)
+While auditing every top-level `if (path === '/xxx')` block for `faqSchema`/`faqDisplayItems`/`FaqSchema`/`FAQPage` occurrence (not just the drummer/gear families), found 6 hubs the 2026-07-17 hub-schema-pairing sweep (#4809/#4810/#4816/#4817) didn't reach — no FAQ in JSON-LD *or* body text, only a bare `CollectionPage`/`WebApplication` node: `/drumsticks/brands`, `/cymbals/brands`, `/snares/brands`, `/pedals/brands`, `/articles`, `/guess-the-kit`. Filed as 2 batches split by data shape: **#5534** (4 gear-brand hubs, self-referential facts from each `*_BRANDS.length`) and **#5535** (`/articles` + `/guess-the-kit`, 2 singleton hubs).
+
+### L2 gap-query spot-checks — no fixable format gap found, citation-share issue not a code bug
+Spot-checked 3 different query types from #2211's 56-row "not cited anywhere" table to look for a citable-format gap: song-BPM pages (`/songs/unsainted`, `/songs/painkiller`, `/songs/blackened` etc. — all 9 checked songs already have live pages, answer-first meta description, visible FAQ, `llms/songs/<slug>.md` mirror, sitemap inclusion — nothing to fix), band fact-lookup (`/bands/slipknot` — already has a direct "Who is the drummer for Slipknot?" FAQ answer), and technique fact-lookup (`/techniques/blast-beat` — already answers "What is Blast Beat?"/"What are the different types of blast beats?" directly). Also checked the 5 zero-competitor drummer-head-term rows (`waltteri-vayrynen`, `jimmy-degrasso`, `alex-rudinger`, `john-longstreth`, `frost`) — all already have 9-10 FAQ items and 900+ char `gearHighlights`, i.e. already past the roster-wide depth bar closed 2026-07-17. **Conclusion: these specific L2 gaps are citation-share/first-mover-timing, not fixable via a content/format issue — nothing filed for them.** Also spot-checked gearHighlights-vs-FAQ self-contradiction (bug class B) on 6 more not-recently-touched drummers (gene-hoglan, bill-ward, daniel-erlandsson + 3 via a research agent) and the sibling-field-miss sources.items check on the same 3 — zero new contradictions found, this trickle looks close to drained for now. Also checked a flagged `/bpm`+`/guides/best-drum-hardware-for-metal` duplicate-canonical row in the 08-10 L3 snapshot — live-verified both self-canonicalize correctly today, stale index data from before a since-fixed bug (same self-healing pattern as `learned-patterns.md` line 97/125), not re-filed.
+
+### Proposals filed this run
+1. **#5533** — SEO batch: gear pillar hub + best-for-metal pages' FAQ invisible as body text (8 pages)
+2. **#5534** — SEO: 4 gear-brand hub pages missing FAQPage entirely
+3. **#5535** — SEO: /articles + /guess-the-kit hub pages missing FAQPage entirely (2 pages)
+
+### Drum-chair watch
+Already logged this week (08-10). Not re-run (today is Friday).
+
+### Open proposals waiting on CEO triage
+- #5533, #5534, #5535 (filed this run, 0d old)
+- #5521, #5528, #5529 (open from 08-13, unchanged)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers only.
+
+### Next run
+1. Watch #5533/#5534/#5535 through CEO triage; verify live only after confirming a deploy postdates the merge.
+2. The articleSchema-embedded-FAQ bug class should now be genuinely fully mapped — but this run's own correction shows the prior "fully mapped" claim was wrong once already (grep scope was too narrow). If a future run considers re-declaring it closed, grep across `packages/frontend/data/*.js` for `'@type': 'FAQPage'` too, not just `api/meta/[...path].js`.
+3. L2/L3 weekly refresh due ~08-17 — that's the next likely source of fresh, concrete gaps; today's L2 spot-checks suggest the format-gap well is close to dry until then.
+4. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers — not checked this run (CEO's remit, not SEO Agent's).

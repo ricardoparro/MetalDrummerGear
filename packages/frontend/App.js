@@ -2962,7 +2962,7 @@ function AlbumArticlesSection({ theme }) {
 // TOP LIST PAGE - Individual list view
 // ==========================================
 
-function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
+function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug, isArticleRoute }) {
   const { width } = useWindowDimensions();
   const isMobile = width < 768;
   const [list, setList] = useState(null);
@@ -2979,10 +2979,28 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
   useEffect(() => {
     const loadData = async () => {
       setIsLoading(true);
-      
+
+      // Issue #5582 (L4 perf regression): /lists/:slug never resolves to an
+      // ALBUM_ARTICLES entry - api/sitemap.js only ever links albumArticles
+      // under /articles/, never /lists/ - so on that route check the much
+      // smaller top10Lists module first instead of unconditionally paying
+      // for the full 2.6MB+ album-articles chunk before every top-10 list
+      // page can render.
+      if (!isArticleRoute) {
+        const module = await loadTop10Lists();
+        _top10ListsModule = module;
+        const top10List = module.getTop10ListBySlug(listSlug);
+        if (top10List) {
+          setList(top10List);
+          setIsAlbumArticle(false);
+          setIsLoading(false);
+          return;
+        }
+      }
+
       // First, ensure album articles module is loaded (Issue #663, fix for lazy load race condition)
       await preloadAlbumArticles();
-      
+
       // Check if this is an album article
       const albumArticle = getAlbumArticleBySlug(listSlug);
       if (albumArticle) {
@@ -2991,7 +3009,7 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
         setIsLoading(false);
         return;
       }
-      
+
       // Otherwise load from top10Lists
       const module = await loadTop10Lists();
       _top10ListsModule = module;
@@ -2999,9 +3017,9 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
       setIsAlbumArticle(false);
       setIsLoading(false);
     };
-    
+
     loadData();
-  }, [listSlug]);
+  }, [listSlug, isArticleRoute]);
 
   // Issue #4762: for album articles, resolve each trackAnalysis entry to a
   // qualifying /songs/<slug> page where one exists (match by this article's
@@ -7648,10 +7666,23 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
         setDrummerSongCount(entry ? entry.count : 0);
       }
     });
-    // Issue #1357: Load album articles and build reverse lookup
-    // Issue #3829: no cap here - every matching article must be linkable from
-    // this profile page, since it's the highest-authority page for the entity.
-    // Display-side capping (if any) happens in the render block below.
+    return () => { mounted = false; };
+  }, [drummerSlug, drummer.id]);
+
+  // Issue #1357: Load album articles and build reverse lookup
+  // Issue #3829: no cap here - every matching article must be linkable from
+  // this profile page, since it's the highest-authority page for the entity.
+  // Display-side capping (if any) happens in the render block below.
+  // Issue #5582 (L4 perf regression): this 2.6MB+ chunk was fetched
+  // unconditionally on every drummer-profile mount - harmless while it was
+  // accidentally inlined into the always-loaded __common bundle, but a real
+  // TBT hit once #5174 correctly split it back out. Gated behind viewport
+  // visibility, same Issue #4407 pattern as the homepage's Album Articles rail
+  // (see AlbumArticlesSection above), since this section renders below the fold.
+  const [articlesVisRef, articlesAreVisible] = useLazyChunkOnVisible();
+  useEffect(() => {
+    if (!articlesAreVisible) return;
+    let mounted = true;
     preloadAlbumArticles().then(() => {
       if (mounted) {
         const articles = getAllAlbumArticles()
@@ -7660,7 +7691,7 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
       }
     });
     return () => { mounted = false; };
-  }, [drummerSlug, drummer.id]);
+  }, [articlesAreVisible, drummerSlug, drummer.id]);
 
   const handleEndorsementPress = (url) => {
     Linking.openURL(url);
@@ -8451,7 +8482,11 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
       )}
 
       {/* Gear Deep Dives & Articles - Issue #1357: reverse-link from profile → articles
-          Builds bidirectional PageRank flow with #1332 (article → profile). */}
+          Builds bidirectional PageRank flow with #1332 (article → profile).
+          Issue #5582: sentinel always renders so the visibility observer that
+          gates the album-articles chunk fetch has something to observe even
+          before relatedArticles loads. */}
+      <View ref={articlesVisRef} />
       {relatedArticles.length > 0 && (
         <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border }]}>
           <Text style={[styles.sectionTitle, { color: theme.text }]} accessibilityRole="header">

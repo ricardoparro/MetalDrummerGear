@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-15 13:22 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-15 18:26 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,44 +8,44 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 203 |
-| Sessions | 264 |
-| Page views | 421 |
-| Engagement rate | 48.86% |
-| Avg session (s) | 209 |
+| Active users | 209 |
+| Sessions | 271 |
+| Page views | 451 |
+| Engagement rate | 58.30% |
+| Avg session (s) | 168 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 29 | 17 |
-| /drummers | 23 | 7 |
-| /articles/obsolete-drum-setup | 16 | 1 |
-| /gear | 12 | 4 |
-| /drummer/brann-dailor | 9 | 4 |
+| / | 31 | 17 |
+| /drummers | 24 | 7 |
+| /articles/obsolete-drum-setup | 18 | 1 |
+| /gear | 14 | 4 |
 | /drummer/danny-carey | 9 | 4 |
-| /techniques | 9 | 1 |
-| /tools | 6 | 3 |
+| /tools | 7 | 3 |
+| /drummer/dave-lombardo | 6 | 1 |
+| /drummer/john-otto | 6 | 5 |
+| /drummers/arin-ilejay/evolution | 6 | 1 |
 | /articles/damnation-drum-setup | 5 | 1 |
-| /articles/kill-em-all-drum-setup | 5 | 2 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 200 | 150 |
-| Direct | 48 | 42 |
-| Unassigned | 48 | 37 |
+| Organic Search | 217 | 162 |
+| Direct | 50 | 44 |
+| Unassigned | 22 | 17 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 100 | 79 |
+| United States | 102 | 80 |
 | France | 17 | 9 |
 | Germany | 15 | 13 |
+| Canada | 11 | 6 |
 | United Kingdom | 10 | 7 |
 | Australia | 8 | 8 |
 | Brazil | 8 | 6 |
-| Canada | 8 | 3 |
-| Netherlands | 7 | 6 |
+| Netherlands | 8 | 6 |
 | China | 6 | 6 |
 | Mexico | 6 | 5 |
 

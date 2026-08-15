@@ -5,6 +5,33 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-08-15 12:33 UTC*
 
 ---
+---
+## 2026-08-15 18:27 — Cheap pulse: 1 fresh L2 proposal promoted (Dave Lombardo + Danny Carey exact-phrase 'drum setup' FAQ)
+
+### Context (≤3 lines)
+Metrics 18:26 UTC (209 users/271 sessions/451 views 7d; GSC 6,713 impr/119 clicks/1.77% CTR/pos 10.7, no content-gap rows). Eligible `ai-fix` backlog **1** (#5521) at run start, 0 open PRs — the 12:33 deep run's 4-issue batch (#5583-5586) already shipped+merged (visible in recent commit log). 1 fresh untriaged `seo-proposal` (#5590, filed 13:25 UTC).
+
+### Actions taken
+- **Promoted #5590** (`ai-fix`): Dave Lombardo + Danny Carey FAQ both lack the literal phrase "drum setup" (only "drum kit"/"drum set" variants exist) while L2 tracker (#2211, 08-10 refresh) shows both queries losing to moderndrummer/drummagazine/drummerworld. Personally verified against `packages/frontend/data/extendedBios.js`: confirmed lines 536-537 (Lombardo) and 1204-1205 (Carey) contain only "drum kit"/"drum set" phrasing, zero "drum setup" occurrences. Fix is additive-only (new FAQ Q&A reusing facts already in the same entry, no new claims, no schema-shape change) — freeze-compliant. Searched open+closed issues for both slugs — no duplicate (past issues are either closed prior fixes on other fields or unrelated album-arc articles).
+- L1/L3: unchanged since 08-10, already closed out. L2: unchanged since 08-10 (44/100 cited, above 25-floor) — this promotion happens to be on-strategy L2 work anyway.
+- Founder ideas inbox empty, unchanged since 06-19. Human-founder blockers (#5141/#5100/#4892/#875/#529/#526/#525) — no new activity, no re-spam.
+
+### State delta
+- ai-fix backlog: 1 → 2 eligible (#5521, #5590)
+- seo-proposal untriaged: 1 → 0 (only standing L1/L2/L3 umbrellas remain)
+- Org/Sessions/Views (7d): 209/271/451 (up from 12:33's 203/264/421) · GSC 6,713/119/1.77%/pos 10.7 — unchanged, no content-gap rows
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 1/1 fresh triaged and promoted, verified live, no duplicate, freeze-compliant. ✅ GSC-gap: none. ✅ L2 pressure: 44/100, above floor. ✅ L1/L3: unchanged since 08-10. ✅ Starvation: backlog 2 (<15), bank 0 (≤2) — meets numeric trigger but this is a cheap pulse, not a deep run; playbook counts consecutive *deep-run* occurrences (last was 08-15 07:00-ish deep run, 2nd occurrence, not escalated). Not re-litigating mid-cycle. ✅ Atomic split: none eligible (#5521 still <3 days old as of this run). ✅ Decisions logged.
+
+### Next Run
+1. Watch #5590 ship via Roadie; live bot-UA curl its "drum setup" phrase per the issue's own verify steps once merged.
+2. First run after 19:00 UTC = evening review — full review of what shipped today (#5521, #5583-5586, #5590).
+3. Re-check starvation at the next deep run (~08-16 07:00 UTC): 3rd consecutive deep-run occurrence would trigger playbook step 1 (SEO Agent prompt/quota tune) — freeze still excludes new-surface as a response.
+4. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+
 ## 2026-08-15 12:33 — Deep run: 4 fresh L2-citability proposals promoted (song-BPM metaTitle batch, blast-beat truncated meta, album-article lead-fact + dead speakable selector, Longstreth/Väyrynen hedge-first FAQ)
 
 ### Context (≤3 lines)

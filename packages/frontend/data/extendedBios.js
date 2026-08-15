@@ -5785,7 +5785,7 @@ Adler's drumming is characterized by powerful groove-based patterns, creative us
 - **Cymbals**: Meinl Byzance series (14" Dark Hi-Hats, 18" & 19" Dark Crashes, 21" Transition Ride, 18" Extra Dry China)
 - **Hardware**: Mapex Falcon Double Pedal
 - **Sticks**: Promark Chris Adler Signature TX5AXW
-- **Throne**: Roc-n-Soc
+- **Throne**: Mapex T865
 - **Heads**: Evans
 
 **Unique Setup Elements:**

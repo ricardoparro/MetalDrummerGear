@@ -2962,7 +2962,7 @@ function AlbumArticlesSection({ theme }) {
 // TOP LIST PAGE - Individual list view
 // ==========================================
 
-function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
+function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug, isArticleRoute = false }) {
   const { width } = useWindowDimensions();
   const isMobile = width < 768;
   const [list, setList] = useState(null);
@@ -2975,23 +2975,28 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
   // never links a slug that doesn't clear getSongPageSlugs()'s gate.
   const [trackSongSlugs, setTrackSongSlugs] = useState({});
 
-  // Load list data lazily - check album articles first, then top10 lists
+  // Load list data lazily. Issue #5582 (L4 perf): the /articles/:slug and
+  // /lists/:slug routes never overlap (isArticleRoute tells us which one we're
+  // on), so only touch the module the current route can actually need. This
+  // used to always preload album articles first "just in case" (Issue #663) —
+  // harmless while album-article data was inlined into the shared __common
+  // bundle, but it became a real ~2.6MB standalone-chunk fetch+parse once the
+  // bundler started code-splitting it out, spiking TBT on plain /lists/ pages
+  // that never render album-article content.
   useEffect(() => {
     const loadData = async () => {
       setIsLoading(true);
-      
-      // First, ensure album articles module is loaded (Issue #663, fix for lazy load race condition)
-      await preloadAlbumArticles();
-      
-      // Check if this is an album article
-      const albumArticle = getAlbumArticleBySlug(listSlug);
-      if (albumArticle) {
+
+      if (isArticleRoute) {
+        // Ensure album articles module is loaded (Issue #663, fix for lazy load race condition)
+        await preloadAlbumArticles();
+        const albumArticle = getAlbumArticleBySlug(listSlug);
         setList(albumArticle);
         setIsAlbumArticle(true);
         setIsLoading(false);
         return;
       }
-      
+
       // Otherwise load from top10Lists
       const module = await loadTop10Lists();
       _top10ListsModule = module;
@@ -3001,7 +3006,7 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
     };
     
     loadData();
-  }, [listSlug]);
+  }, [listSlug, isArticleRoute]);
 
   // Issue #4762: for album articles, resolve each trackAnalysis entry to a
   // qualifying /songs/<slug> page where one exists (match by this article's
@@ -7652,13 +7657,19 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
     // Issue #3829: no cap here - every matching article must be linkable from
     // this profile page, since it's the highest-authority page for the entity.
     // Display-side capping (if any) happens in the render block below.
-    preloadAlbumArticles().then(() => {
+    // Issue #5582 (L4 perf): this preload is now a standalone ~2.6MB chunk
+    // (the bundler split album-article data out of the shared __common
+    // bundle it used to be inlined into) - firing it inline with the other,
+    // much lighter preloads above spiked TBT on every drummer profile page.
+    // Related Articles isn't above-the-fold, so push it to idle time like
+    // the homepage already does for its heaviest preloads (Issue #753).
+    runIdleTasks([() => preloadAlbumArticles().then(() => {
       if (mounted) {
         const articles = getAllAlbumArticles()
           .filter(a => a.drummerId === drummer.id || (a.relatedDrummers || []).includes(drummer.id) || a.relatedDrummerSlug === drummerSlug);
         setRelatedArticles(articles);
       }
-    });
+    })]);
     return () => { mounted = false; };
   }, [drummerSlug, drummer.id]);
 

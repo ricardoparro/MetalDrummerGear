@@ -2030,7 +2030,7 @@ His drumming on classic Fear Factory albums like "Demanufacture" (1995) and "Obs
 - **Snare**: Sonor Designer 14"x5.5" Maple
 - **Cymbals**: Paiste Signature and 2002 Series (14" Signature Heavy Hi-Hats, 18"/20" Signature Fast Crashes, 22" Signature Dry Heavy Ride, 18" 2002 China)
 - **Hardware**: Sonor hardware; Sonor Giant Step double pedal
-- **Sticks**: Vic Firth (various models)
+- **Sticks**: Vic Firth American Classic 5A
 - **Heads**: Remo (Ambassador/Emperor)
 
 **Setup Philosophy:**

@@ -20,7 +20,7 @@ export const techniques = {
       'https://en.wikipedia.org/wiki/Blast_beat',
       'https://en.wikipedia.org/wiki/Pete_Sandoval',
     ],
-    description: `The blast beat is the definitive extreme metal drumming technique, characterized by rapid alternating strokes between the snare drum and bass drum, typically played in unison with the hi-hat or ride cymbal. Originally emerging from hardcore punk and grindcore, blast beats became the backbone of death metal, black metal, and grindcore drumming.`,
+    description: `A blast beat is rapid alternating strokes between snare and bass drum, played in unison with the hi-hat or ride cymbal. It's metal's definitive extreme drumming technique, originally emerging from hardcore punk and grindcore to become the backbone of death metal, black metal, and grindcore drumming.`,
     history: `The blast beat evolved in the mid-1980s from hardcore punk and thrash metal. Bands like Repulsion, Napalm Death, and early death metal pioneers developed what we now recognize as the classic blast beat. The technique was further refined by drummers like Pete Sandoval (Morbid Angel), who popularized the "hyper blast," and Flo Mounier (Cryptopsy), known for his technical variations. In black metal, drummers like Hellhammer (Mayhem) and Frost (Satyricon) adapted the technique to create a more relentless, hypnotic feel.`,
     howToLearn: [
       'Start slow - practice at 60-80 BPM with a metronome',

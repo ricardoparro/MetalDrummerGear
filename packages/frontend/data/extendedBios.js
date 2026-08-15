@@ -1772,7 +1772,7 @@ Known for his powerful, groove-oriented drumming style and dynamic stage presenc
 **Current Setup:**
 - **Drums**: ddrum Dios Series (custom finishes)
 - **Snare**: ddrum Dios 14"x6.5" Maple
-- **Cymbals**: Sabian AAX and HHX series (14" Stage Hi-Hats, crashes, 21" Raw Bell Dry Ride)
+- **Cymbals**: Sabian AAX & HHX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 10" AAX Splash, 18" AAX Chinese)
 - **Hardware**: DW 9000 Series double pedal
 - **Throne**: Pork Pie Big Boy
 - **Sticks**: Vic Firth American Classic 5B

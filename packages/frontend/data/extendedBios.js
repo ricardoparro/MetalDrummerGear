@@ -2429,7 +2429,7 @@ His drumming style combines relentless blast beats, complex double bass patterns
 **Current Setup:**
 - **Drums**: Pearl Masters Maple Complete
 - **Snare**: Pearl Masters 14"x6.5" Maple
-- **Cymbals**: Sabian AAX and HH series (14" Hi-Hats, various crashes, 22" Ride)
+- **Cymbals**: Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" AAX Raw Bell Dry Ride, 18" AAXtreme China)
 - **Hardware**: Pearl Demon Drive double pedal
 - **Sticks**: Vic Firth American Classic 5B
 - **Heads**: Evans

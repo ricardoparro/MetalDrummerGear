@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-15 08:33 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-15 12:33 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,16 +8,16 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 198 |
-| Sessions | 258 |
-| Page views | 412 |
-| Engagement rate | 50.00% |
-| Avg session (s) | 208 |
+| Active users | 203 |
+| Sessions | 264 |
+| Page views | 421 |
+| Engagement rate | 48.86% |
+| Avg session (s) | 209 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 28 | 17 |
+| / | 29 | 17 |
 | /drummers | 23 | 7 |
 | /articles/obsolete-drum-setup | 16 | 1 |
 | /gear | 12 | 4 |
@@ -31,23 +31,23 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 195 | 146 |
-| Direct | 46 | 40 |
-| Unassigned | 42 | 32 |
+| Organic Search | 200 | 150 |
+| Direct | 48 | 42 |
+| Unassigned | 48 | 37 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 99 | 78 |
-| France | 16 | 9 |
+| United States | 100 | 79 |
+| France | 17 | 9 |
 | Germany | 15 | 13 |
-| United Kingdom | 9 | 6 |
+| United Kingdom | 10 | 7 |
+| Australia | 8 | 8 |
 | Brazil | 8 | 6 |
 | Canada | 8 | 3 |
-| Australia | 7 | 7 |
+| Netherlands | 7 | 6 |
 | China | 6 | 6 |
 | Mexico | 6 | 5 |
-| Netherlands | 6 | 5 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |

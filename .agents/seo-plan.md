@@ -4855,3 +4855,36 @@ Recorded all 3 veins (gearHighlights-vs-FAQ, sources.items sibling-miss, FAQPage
 2. All 3 hand-audit veins (gearHighlights-vs-FAQ, sources.items, FAQPage sweep) are now genuinely exhausted across the full 72-profile roster and every live route — do not re-run any of them from scratch. A future finding in these fields should be treated as a fresh regression (check `git log` on that slug) not backlog.
 3. Next Monday run: the drum-chair watch rotation is due (check `ISO week number % 4` per the group split).
 4. L2/L3 weekly refresh due ~08-17 — with the hand-audit veins dry, this is now the primary source of fresh, concrete work; if it's still 2 days out at the next run, an audit-only outcome (Lighthouse/schema spot-check, no filing) is legitimate rather than manufacturing marginal findings.
+
+## 2026-08-15 (run 2 of the day) — hand-audit veins confirmed dry per run 1; pivoted to L2 (#2211) gap-mining, 4 fresh format-gap proposals filed, 2 clusters investigated and correctly ruled no-issue
+
+### Context
+Bank check: 5 open `seo-proposal` (well under the <45 cap → file up to 8). Metrics 07:21 UTC (190 users/249 sessions/404 views 7d; GSC 5,568 impr/99 clicks/1.78% CTR/pos 10.7, no content-gap rows — CTR healthy, nothing to chase there). Robots.txt: all 8 AI crawlers explicitly allowed ✅. Per run 1's own note, all 3 hand-audit veins (gearHighlights-vs-FAQ, sources.items sibling-miss, FAQPage-invisible sweep) are confirmed fully exhausted — did not re-run any of them. L2/L3 weekly refresh (due ~08-17) hadn't landed yet, so pivoted to mining the standing L2 umbrella (#2211, last refreshed 2026-08-10, 44/100 cited) directly for concrete format gaps, per Rule 3 (LLM citation work is the priority) — this is the area run 1 flagged as "the primary source of fresh, concrete work" once the hand-audit veins ran dry.
+
+### What was checked
+Dispatched 6 parallel research agents against distinct #2211 "not cited" clusters, each tasked to find a genuine, verifiable, atomic format gap (or correctly conclude none exists) — read-only investigation only, no fabricated facts:
+1. **Song BPM pages** (13 uncited queries, all "no competitor cited"): confirmed root cause — the `metaTitle` field mechanism (proven by 2 existing examples, shipped via #5493) that front-loads the BPM number in the title was never rolled out past those 2 songs. All 11 target songs already exist with verified BPM data. **Filed #5583** (batch, 11 songs, single-file).
+2. **Blast-beat technique page** (3 uncited queries): the "types of blast beats" and HowTo gaps were **already fixed** by #5157 (2026-07-31) — #2211 hasn't re-verified since. Found one still-live defect: the meta description truncates mid-sentence at the 160-char mark. **Filed #5584** (single field).
+3. **Band "who is the drummer" pages** (5 uncited: slipknot/tool/gojira/mastodon/pantera): investigated and found the premise false — all 5 already have exact-phrase FAQ answers, `MusicGroup`/`Person` schema with current-drummer links, correct titles (verified via bot-UA curl, not a plain-UA false negative). **No issue filed** — logged as correctly ruled out to prevent a future run re-investigating the same false lead.
+4. **Comparative list pages** (4 uncited: fastest/death-metal/thrash-metal-ranked/best-of-all-time): confirmed already-complete format (auto-generated fallback FAQ, ItemList schema, Speakable) even on lists without hand-authored FAQ. Matches the existing learned-patterns rule that these are authority-locked head terms (loudwire/drumeo), not format gaps. **No issue filed**, consistent with the standing rule against re-fighting contested head terms with schema tweaks.
+5. **Album-specific articles** (2 uncited, "no competitor cited"): found a genuine surfacing gap — verified album-specific gear facts exist in the data but the rendered lead paragraph is generic marketing copy instead of the specific answer; also found the `SpeakableSpecification` schema references CSS classes (`.article-lead`, `.key-fact`) that don't exist anywhere in the rendered HTML (silently defeats the schema on this route). **Filed #5585** (template fix, 2 pages + a broken-selector fix that will scale to any future album article).
+6. **Bare-name drummer profiles** (3 spot-checked: mario-duplantier, waltteri-vayrynen, kevin-talley): mario-duplantier and kevin-talley already match the cited-profile format (fact-first lead FAQ answer). waltteri-vayrynen's lead FAQ answer opens with an access-caveat instead of confirmed facts. A targeted grep for the same hedge phrasing found a second instance, John Longstreth — same shape, not previously covered by the gearHighlights/sources.items/trivia sweeps (this is a lead-answer *ordering* bug, not a factual contradiction). **Filed #5586** (batch, 2 profiles). Also confirmed `speakable` schema already exists roster-wide on `/drummer/:slug` (`['h1','h2','p']`) — not the gap.
+
+### Proposals filed this run
+1. **#5583** — SEO batch: 11 song BPM pages missing metaTitle field (L2 citability gap, ~11 pages)
+2. **#5584** — SEO: blast-beat technique meta description truncated mid-sentence
+3. **#5585** — SEO: album-specific drum-setup articles bury the specific gear answer + broken speakable selector
+4. **#5586** — SEO batch: John Longstreth + Waltteri Väyrynen lead FAQ answers open with a hedge instead of confirmed facts
+
+### Drum-chair watch
+Not run — today (2026-08-15) is a Saturday, not Monday. Last logged sweep 2026-08-10; next one owed the following Monday.
+
+### Open proposals waiting on CEO triage
+- #5583, #5584, #5585, #5586 (filed this run, 0d old)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers only.
+
+### Next run
+1. Watch #5583-#5586 through CEO triage.
+2. **New standing rule for future runs**: the "who is the drummer of `<band>`" (band pages) and the broad comparative-list head terms (fastest/best/thrash-ranked) in #2211's uncited table are **not format gaps** — both audited this run and found already-complete (schema, FAQ, inline answers all present). Do not re-investigate these two clusters without a fresh #2211 refresh showing a genuinely new symptom; if still uncited after correct-format pages, that's retrieval/authority, not a fixable defect here.
+3. Remaining unmined #2211 clusters for a future run: the other ~9 bare-name drummer profiles not yet spot-checked (jimmy-degrasso, alex-rudinger, john-longstreth [FAQ-ordering already filed, but check kit-overview depth too], jay-weinberg, ben-koller, raymond-herrera, adrian-erlandsson), and the gsc-derived queries with no declared target entity (djent pedals, sludge drum, frost 1349, mayhem drummer) — these lack a clear entity mapping and may not correspond to an existing page at all; do not propose new pages for them under the freeze, just note if a mapping exists.
+4. L2/L3 weekly refresh still due ~08-17 — will show whether #5157 (blast-beat) and the earlier FAQ-visibility batches actually moved the 44/100 citation count.

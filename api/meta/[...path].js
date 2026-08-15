@@ -577,6 +577,41 @@ function truncate(text, maxLength) {
   return text.substring(0, maxLength - 3) + '...';
 }
 
+// Issue #5585: format a drumKit/snare {brand, model} pair as a single phrase,
+// avoiding "Camco Camco Oaklawn Badge" when model already includes the brand name.
+function formatGearPhrase(piece) {
+  if (!piece) return null;
+  const { brand, model } = piece;
+  if (model && brand && !model.toLowerCase().includes(brand.toLowerCase())) {
+    return `${brand} ${model}`;
+  }
+  return model || brand || null;
+}
+
+// Issue #5585: derive a one-sentence, fact-first lead ("Lars Ulrich recorded Master
+// of Puppets (1986) on a Camco Oaklawn Badge kit with a Ludwig Supraphonic LM402
+// snare.") from already-verified album article fields, so it can be surfaced above
+// the generic marketing description — the spot an LLM is likeliest to quote. Returns
+// null when the entry isn't album-specific (career-wide "what's in X's kit" guides)
+// or carries no gear fields to report (e.g. programmed/no-drummer entries).
+function buildAlbumLeadFact(album) {
+  if (!album || !album.drummer || !album.albumTitle) return null;
+  const kitPhrase = formatGearPhrase(album.drumKit);
+  const snarePhrase = formatGearPhrase(album.snare);
+  if (!kitPhrase && !snarePhrase) return null;
+
+  const yearPart = album.year ? ` (${album.year})` : '';
+  let sentence = `${album.drummer} recorded ${album.albumTitle}${yearPart}`;
+  if (kitPhrase && snarePhrase) {
+    sentence += ` on a ${kitPhrase} kit with a ${snarePhrase} snare.`;
+  } else if (kitPhrase) {
+    sentence += ` on a ${kitPhrase} kit.`;
+  } else {
+    sentence += ` with a ${snarePhrase} snare.`;
+  }
+  return sentence;
+}
+
 // Helper: Escape HTML entities (used for attribute values built from data, e.g. iframe title)
 function escapeHtml(str) {
   return String(str)
@@ -2521,6 +2556,12 @@ export function getMetaForPath(pathname) {
         ? album.seoKeywords
         : (album.seoKeywords ? [album.seoKeywords] : []);
 
+      // Issue #5585: fact-first lead sentence rendered in a `.article-lead` <p>
+      // right after the h1 — null falls back to the generic h1/h2/p speakable
+      // selector below instead of pointing at a class that won't be rendered.
+      const leadFact = buildAlbumLeadFact(album);
+      const albumSpeakableCssSelector = leadFact ? ['h1', '.article-lead'] : ['h1', 'h2', 'p'];
+
       // Issue #1404: HowTo tutorial articles — emit HowTo JSON-LD for AI Overview eligibility
       if (album.articleSection === 'HowTo' && Array.isArray(album.howToSteps)) {
         const howToSchema = JSON.stringify({
@@ -2560,6 +2601,8 @@ export function getMetaForPath(pathname) {
           ],
           faqSchema: Array.isArray(album.faq) && album.faq.length > 0 ? album.faq : null,
           ssrLinks: ssrDrummerProfileLinks && ssrDrummerProfileLinks.length > 0 ? ssrDrummerProfileLinks : null,
+          leadFact,
+          speakableCssSelector: albumSpeakableCssSelector,
           speakableSchema: true,
         };
       }
@@ -2570,6 +2613,7 @@ export function getMetaForPath(pathname) {
         image: album.ogImage ? `${BASE_URL}${album.ogImage}` : DEFAULT_IMAGE,
         type: 'article',
         url: `${BASE_URL}/articles/${articleSlug}`,
+        leadFact,
         articleSchema: {
           headline: album.title,
           description: album.description,
@@ -2628,6 +2672,7 @@ export function getMetaForPath(pathname) {
                   label: `${album.drummer || album.artist || 'Drummer'} — Complete Gear Setup`,
                 }]
               : null),
+        speakableCssSelector: albumSpeakableCssSelector,
         speakableSchema: true,
       };
     }
@@ -7901,14 +7946,16 @@ function generateSpeakableSchema(meta) {
   if (!meta.speakableSchema) return '';
 
   // Issue #4665: routes can override cssSelector via meta.speakableCssSelector
-  // when the default ['h1', '.article-lead', '.key-fact'] doesn't match what
-  // this file's generic SSR body template actually renders (e.g. drummer
-  // profiles, which only ever emit bare h1/h2/p — no .article-lead/.key-fact
-  // classes or client-only #drummer-* ids exist server-side).
+  // when the default ['h1', '.article-lead'] doesn't match what this file's
+  // generic SSR body template actually renders (e.g. drummer profiles, which
+  // only ever emit bare h1/h2/p — no .article-lead class or client-only
+  // #drummer-* ids exist server-side).
+  // Issue #5585: dropped '.key-fact' — no element with that class was ever
+  // rendered, so it pointed at nothing; only reference classes that exist.
   const schema = {
     '@context': 'https://schema.org',
     '@type': 'SpeakableSpecification',
-    cssSelector: meta.speakableCssSelector || ['h1', '.article-lead', '.key-fact'],
+    cssSelector: meta.speakableCssSelector || ['h1', '.article-lead'],
   };
 
   return `
@@ -8078,6 +8125,7 @@ export function generateMetaHtml(meta, originalUrl) {
 <body>
   <main style="font-family: system-ui, sans-serif; max-width: 600px; margin: 40px auto; padding: 20px;">
     <h1>${meta.title}</h1>
+    ${meta.leadFact ? `<p class="article-lead">${escapeHtml(meta.leadFact)}</p>` : ''}
     ${meta.videoEmbed ? `
     <!-- Issue #3698: real crawlable video player so Google sees this as a watch page -->
     <iframe width="560" height="315"

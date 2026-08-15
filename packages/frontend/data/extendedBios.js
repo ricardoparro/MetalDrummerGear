@@ -7107,7 +7107,7 @@ Turner's drumming videos have gone viral on social media, showcasing his ability
     metaTitle: 'Matt Greiner Drum Kit & Gear Setup — August Burns Red Drummer | MetalForge',
     metaDescription: 'Complete biography of Matt Greiner, founding drummer of August Burns Red. Explore his innovative metalcore style, Grammy-nominated work, signature snare drum, and influence on modern metal drumming.',
     ogImage: '/images/drummers/matt-greiner.webp',
-    keywords: ['august burns red', 'metalcore', 'christian metal', 'meinl cymbals', 'pearl drums', 'grammy nominated', 'lancaster pa', 'technical metalcore'],
+    keywords: ['august burns red', 'metalcore', 'christian metal', 'paiste cymbals', 'mapex drums', 'grammy nominated', 'lancaster pa', 'technical metalcore'],
     relatedDrummers: ['chris-turner', 'matt-halpern', 'chris-adler', 'brann-dailor'],
     summary: 'Matt Greiner, founding drummer of August Burns Red since 2005. Grammy-nominated metalcore virtuoso known for innovative technique and signature snare drum.',
     lastUpdated: '2026-02-14',
@@ -7196,7 +7196,7 @@ His work with August Burns Red has earned a Grammy nomination and widespread cri
           'Grammy nomination for Best Metal Performance for "Defender" (2020)',
           'The band has released multiple critically acclaimed Christmas albums',
           'Known for his Christian faith, which influences the band\'s lyrics',
-          'His signature Pearl snare was designed for cutting through dense guitar mixes',
+          'Before his 2016 switch to Mapex, his Pearl signature snare was designed for cutting through dense guitar mixes',
           'Conducts drum clinics worldwide, known for educational approach',
           'August Burns Red celebrated 20 years as a band in 2023'
         ]

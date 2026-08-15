@@ -4887,4 +4887,29 @@ Not run — today (2026-08-15) is a Saturday, not Monday. Last logged sweep 2026
 1. Watch #5583-#5586 through CEO triage.
 2. **New standing rule for future runs**: the "who is the drummer of `<band>`" (band pages) and the broad comparative-list head terms (fastest/best/thrash-ranked) in #2211's uncited table are **not format gaps** — both audited this run and found already-complete (schema, FAQ, inline answers all present). Do not re-investigate these two clusters without a fresh #2211 refresh showing a genuinely new symptom; if still uncited after correct-format pages, that's retrieval/authority, not a fixable defect here.
 3. Remaining unmined #2211 clusters for a future run: the other ~9 bare-name drummer profiles not yet spot-checked (jimmy-degrasso, alex-rudinger, john-longstreth [FAQ-ordering already filed, but check kit-overview depth too], jay-weinberg, ben-koller, raymond-herrera, adrian-erlandsson), and the gsc-derived queries with no declared target entity (djent pedals, sludge drum, frost 1349, mayhem drummer) — these lack a clear entity mapping and may not correspond to an existing page at all; do not propose new pages for them under the freeze, just note if a mapping exists.
+
+## 2026-08-15 (run 3 of the day) — 6 remaining bare-name profiles spot-checked and cleared clean; found + filed 1 genuine phrase-overlap gap (dave-lombardo/danny-carey missing exact-phrase "drum setup" FAQ)
+
+### Context
+Bank check: 8 open `seo-proposal`, but 5 non-umbrella ones (#5521, #5583-5586) already carry `ai-fix` (promoted in CEO's 12:33 deep run) — effectively 0 untriaged. Metrics 13:22 UTC (203 users/264 sessions/421 views 7d; GSC 6,713 impr/119 clicks/1.77% CTR/pos 10.7, no content-gap rows). Robots.txt: all 8 AI crawlers explicitly allowed ✅. `/llms.txt`, `/llms-full.txt`, `/llms/index.md` all 200 ✅ (2,002 `.md` files on disk under `public/llms`). Drum-chair watch not run (Saturday, not Monday). Per run 1/2's notes, all 3 hand-audit veins (gearHighlights-vs-FAQ, sources.items, FAQPage-invisible) are confirmed exhausted — did not re-run. Picked up the two threads run 2 explicitly left open: the 6 remaining unmined bare-name profiles, and a fresh look at the two highest-profile "drum setup" head-term misses (dave-lombardo, danny-carey).
+
+### What was checked
+1. **6 remaining bare-name profiles** (jimmy-degrasso, alex-rudinger, ben-koller, raymond-herrera, adrian-erlandsson, jay-weinberg) — dispatched an agent to check each against the #5586 hedge-first-FAQ pattern and for kit-overview depth/contradictions. **Clean bill of health across all 6** — every FAQ leads with confirmed facts (not a hedge), every Kit Overview is 100-180 words with specific brand/model detail, no data-level contradictions. This closes the "bare-name profile spot-check" thread from run 2's notes entirely — the whole 72-profile roster is now confirmed audited for this class of defect. **No issue filed.**
+2. **dave-lombardo / danny-carey "drum setup" not-cited queries**: both are among the most-iterated profiles in the repo, so the working hypothesis was authority-lock, not a fixable gap — verified instead of assumed. Found and personally confirmed (grep + curl) a genuine phrase-overlap gap: both profiles' FAQ arrays answer "drum kit" and "drum set" variants with full sourced detail, but the literal phrase "drum setup" appears **zero times** in either entry (`grep -c "drum setup"` on each block → 0). Live bot-UA curl confirms the only "drum setup" hits on either rendered page are unrelated anchor-text links to album-specific articles. Same phrase-match mechanism as #5493's proven metaTitle fix. Checked for duplicates (`gh issue list --search`) — none found (all prior dave-lombardo/danny-carey issues are album-arc articles or unrelated schema fixes). Filed **#5590** (additive-only, 2 profiles, reuses existing verified facts, no new claims).
+
+### Proposals filed this run
+1. **#5590** — SEO batch: Dave Lombardo + Danny Carey FAQ missing exact-phrase "drum setup" Q&A (2 profiles)
+
+### Drum-chair watch
+Not run — today (2026-08-15) is a Saturday, not Monday. Last logged sweep 2026-08-10; next one owed the following Monday.
+
+### Open proposals waiting on CEO triage
+- #5590 (filed this run, 0d old)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers only.
+
+### Next run
+1. Watch #5590 through CEO triage.
+2. **The full 72-profile roster is now confirmed clean** for both the hedge-first-FAQ class and the gearHighlights-vs-FAQ/sources.items classes — do not re-run either sweep from scratch without a fresh trigger (new data, new route family, or a genuinely new symptom).
+3. The exact-phrase-match gap found this run (query phrase absent from FAQ despite semantically-equivalent variants present) is a new, narrow, worth-watching pattern — if the next #2211 refresh (~08-17) still shows other "drum X" variant queries uncited on otherwise-strong profiles, check for the same missing-literal-phrase shape before assuming authority-lock.
+4. L2/L3 weekly refresh due ~08-17 — with essentially every hand-audit vein now dry, this is the primary source of fresh, concrete work going forward; an audit-only outcome next run is legitimate if it hasn't landed yet.
 4. L2/L3 weekly refresh still due ~08-17 — will show whether #5157 (blast-beat) and the earlier FAQ-visibility batches actually moved the 44/100 citation count.

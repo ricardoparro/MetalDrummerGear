@@ -2521,6 +2521,14 @@ export function getMetaForPath(pathname) {
         ? album.seoKeywords
         : (album.seoKeywords ? [album.seoKeywords] : []);
 
+      // Issue #5585: derive a one-sentence, fact-first lead from fields already
+      // verified elsewhere in this entry (drumKit/snare model strings already
+      // include their brand, e.g. "Camco Oaklawn Badge") so the quotable answer
+      // sits right under the h1 instead of buried behind generic marketing copy.
+      const leadFact = (album.drummer && album.albumTitle && album.drumKit?.model)
+        ? `${album.drummer} recorded ${album.albumTitle}${album.year ? ` (${album.year})` : ''} on a ${album.drumKit.model} kit${album.snare?.model ? ` with a ${album.snare.model} snare` : ''}.`
+        : null;
+
       // Issue #1404: HowTo tutorial articles — emit HowTo JSON-LD for AI Overview eligibility
       if (album.articleSection === 'HowTo' && Array.isArray(album.howToSteps)) {
         const howToSchema = JSON.stringify({
@@ -2567,6 +2575,7 @@ export function getMetaForPath(pathname) {
       return {
         title: `${album.title} | ${SITE_NAME}`,
         description: truncate(album.description, 160),
+        leadFact,
         image: album.ogImage ? `${BASE_URL}${album.ogImage}` : DEFAULT_IMAGE,
         type: 'article',
         url: `${BASE_URL}/articles/${articleSlug}`,
@@ -7901,14 +7910,16 @@ function generateSpeakableSchema(meta) {
   if (!meta.speakableSchema) return '';
 
   // Issue #4665: routes can override cssSelector via meta.speakableCssSelector
-  // when the default ['h1', '.article-lead', '.key-fact'] doesn't match what
-  // this file's generic SSR body template actually renders (e.g. drummer
-  // profiles, which only ever emit bare h1/h2/p — no .article-lead/.key-fact
-  // classes or client-only #drummer-* ids exist server-side).
+  // when the default ['h1', '.article-lead'] doesn't match what this file's
+  // generic SSR body template actually renders (e.g. drummer profiles, which
+  // only ever emit bare h1/h2/p — no .article-lead class or client-only
+  // #drummer-* ids exist server-side).
+  // Issue #5585: dropped '.key-fact' — no rendered element ever carried that
+  // class, so it pointed at nothing. Only list selectors the template emits.
   const schema = {
     '@context': 'https://schema.org',
     '@type': 'SpeakableSpecification',
-    cssSelector: meta.speakableCssSelector || ['h1', '.article-lead', '.key-fact'],
+    cssSelector: meta.speakableCssSelector || ['h1', '.article-lead'],
   };
 
   return `
@@ -8078,6 +8089,7 @@ export function generateMetaHtml(meta, originalUrl) {
 <body>
   <main style="font-family: system-ui, sans-serif; max-width: 600px; margin: 40px auto; padding: 20px;">
     <h1>${meta.title}</h1>
+    ${meta.leadFact ? `<p class="article-lead">${meta.leadFact}</p>` : ''}
     ${meta.videoEmbed ? `
     <!-- Issue #3698: real crawlable video player so Google sees this as a watch page -->
     <iframe width="560" height="315"

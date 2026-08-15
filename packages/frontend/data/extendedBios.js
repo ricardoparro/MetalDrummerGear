@@ -6035,7 +6035,7 @@ Inferno's drumming combines blistering speed with surgical precision, delivering
 **Current Setup:**
 - **Drums**: Pearl Masterworks
 - **Snare**: Pearl Reference 14"x5" Steel
-- **Cymbals**: Paiste RUDE series (15" RUDE Sound Edge Hi-Hats, RUDE crashes, RUDE Ride)
+- **Cymbals**: Paiste RUDE series (14" RUDE Sound Edge Hi-Hats, RUDE crashes, RUDE Ride)
 - **Hardware**: Czarcie Kopyto (Devil's Hoof) Double Pedal (long boards)
 - **Throne**: Pearl D-2000
 - **Sticks**: Vic Firth American Classic 2B

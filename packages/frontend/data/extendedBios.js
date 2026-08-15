@@ -5910,7 +5910,6 @@ A graduate of Berklee College of Music, Halpern brings academic rigor to his dru
 - **Cymbals**: Meinl Byzance series (15" Byzance Extra Dry Hi-Hats, Foundry Reserve crashes, 21" Transition Ride)
 - **Hardware**: Pearl Demon Drive Double Pedal, Pearl D-2000 Throne
 - **Electronics**: Roland SPD-SX, various triggers
-- **Throne**: Roc-n-Soc Nitro
 - **Sticks**: ProMark TXMHW signature model (2B weight, plays like 5B)
 - **Heads**: Evans
 

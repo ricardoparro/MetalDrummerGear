@@ -9092,7 +9092,7 @@ He drives his kick pedals with ACD Unlimited hardware paired with FootBlaster tr
       faq: {
         title: 'Frequently Asked Questions',
         items: [
-          { q: 'What drum kit does John Longstreth play?', a: 'John Longstreth is an endorsed Pearl Drums artist. Pearl\'s artist specification page blocks automated access, so specific shell sizes and finish are not independently documented and are omitted rather than guessed.' },
+          { q: 'What drum kit does John Longstreth play?', a: 'John Longstreth plays a Pearl drum kit with Meinl Classics Custom Dark cymbals (8" Dark Splash, 14" Dark Hihat, 18" Dark China), ACD Unlimited pedals with FootBlaster triggers, and Scorpion Percussion \'Wee Heavy\' signature sticks — Pearl\'s own artist specification page blocks automated access, so specific shell sizes and finish aren\'t independently documented and are omitted rather than guessed.' },
           { q: 'What drum set does John Longstreth use with Origin?', a: 'John Longstreth\'s Origin drum set is built on a Pearl kit paired with Meinl Classics Custom Dark cymbals, ACD Unlimited bass drum pedals with FootBlaster triggers, and Scorpion Percussion "Wee Heavy" signature sticks.' },
           { q: 'What cymbals does John Longstreth use?', a: 'John Longstreth uses Meinl Classics Custom Dark series cymbals — an 8" Dark Splash, 14" Dark Hihats, and 18" Dark China — plus a Meinl Generation X 12"/14" Trash Hat for choked metallic accents.' },
           { q: 'What pedals does John Longstreth use?', a: 'John Longstreth drives his bass drums with ACD Unlimited pedals paired with FootBlaster triggers, built to sustain his high-speed, high-endurance blast beats.' },
@@ -9208,7 +9208,7 @@ He plays Wincent's W-5BXL signature stick model, announced through Wincent's art
       faq: {
         title: 'Frequently Asked Questions',
         items: [
-          { q: 'What drum kit does Waltteri Väyrynen play?', a: 'Waltteri Väyrynen is an endorsed Pearl Drums artist, a relationship confirmed via Pearl\'s own artist roster and corroborated by Antelope Audio\'s 2020 studio-session writeup; specific kit model and shell sizes are not independently documented and are omitted rather than guessed.' },
+          { q: 'What drum kit does Waltteri Väyrynen play?', a: 'Waltteri Väyrynen plays a Pearl drum kit with Sabian cymbals (confirmed 22" HH Power Bell Ride) and his own Wincent W-5BXL signature sticks — the Pearl endorsement is confirmed via Pearl\'s own artist roster and corroborated by Antelope Audio\'s 2020 studio-session writeup, though specific kit model and shell sizes aren\'t independently documented and are omitted rather than guessed.' },
           { q: 'What drum set does Waltteri Väyrynen use with Opeth?', a: 'Waltteri Väyrynen\'s Opeth-era drum set pairs his Pearl kit with Sabian cymbals — including a confirmed 22" HH Power Bell Ride — and his own Wincent W-5BXL signature drumsticks.' },
           { q: 'What cymbals does Waltteri Väyrynen use?', a: 'Waltteri Väyrynen is a Sabian-endorsed artist; Sabian\'s own artist page confirms a 22" HH Power Bell Ride as his favourite piece, though the full cymbal lineup isn\'t itemized there.' },
           { q: 'What sticks does Waltteri Väyrynen use?', a: 'Waltteri Väyrynen plays the Wincent W-5BXL, his own signature stick model announced through Wincent\'s artist roster in December 2022.' },

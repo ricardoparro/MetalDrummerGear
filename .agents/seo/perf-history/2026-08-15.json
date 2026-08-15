@@ -1,0 +1,125 @@
+{
+  "generatedAt": "2026-08-15T06:04:30.342Z",
+  "byUrl": {
+    "https://metalforge.io/": {
+      "label": "Homepage",
+      "performanceScore": 73,
+      "fcp": 879.4280000000001,
+      "lcp": 879.4280000000001,
+      "tbt": 1518.000000000001,
+      "cls": 0.01588592840406951,
+      "speedIndex": 3083.57548747989,
+      "totalBytes": 2083043,
+      "biggestJsRequests": [
+        {
+          "url": "https://metalforge.io/_expo/static/js/web/__common-9fc0c82f9c63edf1fc6fe1f43012deef.js",
+          "transferSize": 846336
+        },
+        {
+          "url": "https://metalforge.io/_expo/static/js/web/index-3ce3bb39febea3bd51dc1fa0ee904ede.js",
+          "transferSize": 425656
+        }
+      ]
+    },
+    "https://metalforge.io/drummer/lars-ulrich": {
+      "label": "Drummer profile (Lars Ulrich)",
+      "performanceScore": 71,
+      "fcp": 832.5355000000002,
+      "lcp": 832.5355000000002,
+      "tbt": 2395.2639999999974,
+      "cls": 0.01588592840406951,
+      "speedIndex": 2007.8354883746717,
+      "totalBytes": 5181131,
+      "biggestJsRequests": [
+        {
+          "url": "https://metalforge.io/_expo/static/js/web/albumArticles-573302b6466a55597dab1736bde0e845.js",
+          "transferSize": 2641242
+        },
+        {
+          "url": "https://metalforge.io/_expo/static/js/web/__common-9fc0c82f9c63edf1fc6fe1f43012deef.js",
+          "transferSize": 846336
+        }
+      ]
+    },
+    "https://metalforge.io/drumsticks": {
+      "label": "Drumsticks hub",
+      "performanceScore": 53,
+      "fcp": 898.4789999999999,
+      "lcp": 11222.5945,
+      "tbt": 1051,
+      "cls": 0.01588592840406951,
+      "speedIndex": 1726.4409607710122,
+      "totalBytes": 3482643,
+      "biggestJsRequests": [
+        {
+          "url": "https://metalforge.io/_expo/static/js/web/__common-9fc0c82f9c63edf1fc6fe1f43012deef.js",
+          "transferSize": 846336
+        },
+        {
+          "url": "https://metalforge.io/_expo/static/js/web/index-3ce3bb39febea3bd51dc1fa0ee904ede.js",
+          "transferSize": 425601
+        }
+      ]
+    },
+    "https://metalforge.io/cymbals": {
+      "label": "Cymbals hub",
+      "performanceScore": 53,
+      "fcp": 853.367,
+      "lcp": 12672.106499999998,
+      "tbt": 1033,
+      "cls": 0.01588592840406951,
+      "speedIndex": 1783.3352376550138,
+      "totalBytes": 4910139,
+      "biggestJsRequests": [
+        {
+          "url": "https://metalforge.io/_expo/static/js/web/__common-9fc0c82f9c63edf1fc6fe1f43012deef.js",
+          "transferSize": 846336
+        },
+        {
+          "url": "https://metalforge.io/_expo/static/js/web/index-3ce3bb39febea3bd51dc1fa0ee904ede.js",
+          "transferSize": 425628
+        }
+      ]
+    },
+    "https://metalforge.io/articles/sacrament-drum-setup": {
+      "label": "Album article (Sacrament drum setup)",
+      "performanceScore": 45,
+      "fcp": 823.592,
+      "lcp": 25902.77599999998,
+      "tbt": 2020,
+      "cls": 0.01588592840406951,
+      "speedIndex": 3896.6498529852424,
+      "totalBytes": 4404977,
+      "biggestJsRequests": [
+        {
+          "url": "https://metalforge.io/_expo/static/js/web/albumArticles-573302b6466a55597dab1736bde0e845.js",
+          "transferSize": 2641208
+        },
+        {
+          "url": "https://metalforge.io/_expo/static/js/web/__common-9fc0c82f9c63edf1fc6fe1f43012deef.js",
+          "transferSize": 846336
+        }
+      ]
+    },
+    "https://metalforge.io/lists/best-death-metal-drummers": {
+      "label": "Top-10 list (best death metal drummers)",
+      "performanceScore": 46,
+      "fcp": 835.3879999999999,
+      "lcp": 26472.23399999999,
+      "tbt": 1983,
+      "cls": 0.01588592840406951,
+      "speedIndex": 3723.0809353577765,
+      "totalBytes": 4692041,
+      "biggestJsRequests": [
+        {
+          "url": "https://metalforge.io/_expo/static/js/web/albumArticles-573302b6466a55597dab1736bde0e845.js",
+          "transferSize": 2641208
+        },
+        {
+          "url": "https://metalforge.io/_expo/static/js/web/__common-9fc0c82f9c63edf1fc6fe1f43012deef.js",
+          "transferSize": 846336
+        }
+      ]
+    }
+  }
+}

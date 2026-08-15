@@ -4823,3 +4823,35 @@ Already logged this week (08-10). Not re-run (today is Friday, not Monday).
 2. Both primary veins (gearHighlights-vs-FAQ on untouched roster, FAQPage-invisible sweep) are now confirmed exhausted — do not re-run either without a fresh trigger (new roster addition, new route family, or a fresh grep showing a genuinely new unpaired occurrence).
 3. The sources.items sibling-field-miss angle only yielded 2 hits out of ~55 sampled — likely close to dry too, but ~15 already-fixed drummers from the earliest batches (#5305/#5308-5310 era) weren't in this run's sample and could be worth one more pass before declaring it closed.
 4. L2/L3 weekly refresh due ~08-17 — still the most likely source of fresh, concrete gaps; the well for hand-audited data-consistency bugs is getting shallow across the board.
+
+## 2026-08-15 (run 1 of the day) — confirmed all 3 hand-audit veins now fully exhausted; 1 fresh finding (new field: trivia/keywords); FAQPage sweep confirmed closed on live routes
+
+### Context
+Bank check: 11 open `seo-proposal` (7 fresh untriaged from the prior run's #5562-5568 gearHighlights batch, plus #5521 already `ai-fix`-eligible, plus the 3 standing umbrellas #3810/#3819/#2211) — well under the <45 cap, so filing up to 8 was in scope. Metrics 02:07 UTC (184 users/241 sessions/396 views 7d; GSC 5,568 impr/99 clicks/1.78% CTR/pos 10.7, no content-gap rows). Robots.txt: all 8 AI crawlers explicitly allowed ✅. `/llms.txt`, `/llms-full.txt`, `/llms/index.md`, `/llms/drummers/danny-carey.md` all 200 ✅.
+
+### What was checked
+1. **gearHighlights-vs-FAQ, final untouched-roster pass**: 2 parallel agents split the 16 never-covered slugs (lars-ulrich, dave-lombardo, tomas-haake, george-kollias, martin-axenrot, gavin-harrison, john-otto, jay-weinberg, charlie-benante, art-cruz, nick-menza, jimmy-degrasso, nick-barker, alex-rudinger, john-longstreth, waltteri-vayrynen). **Zero contradictions.** This vein is now closed across all 72 profiles — do not re-audit without a fresh trigger.
+2. **sources.items sibling-field-miss, full remaining-roster pass**: 2 parallel agents covered all ~45 previously-gearHighlights-fixed profiles not yet checked for stale `sources.items` brand citations (the pass run 3 flagged as incomplete — this closes it out). **Zero new contradictions** — every profile's `sources.items` either matches its own gearHighlights/faq brand or contains no brand-specific citation to conflict. This vein is now also fully closed.
+3. **New field audited for the first time: `trivia`**: swept all 72 profiles' `trivia` arrays for the same stale-brand-mention shape (present-tense claim contradicting the entry's own current gearHighlights/faq). Found exactly **one** genuine case: **matt-greiner** — `trivia` line 7200 ("His signature Pearl snare...") and `keywords` line 7111 (`'meinl cymbals', 'pearl drums'`) both still reference the pre-2016 brands; current gear (gearHighlights/faq, same entry) is Mapex/Paiste since 2016. Personally verified via direct file read before filing. Filed **#5569**.
+4. **FAQPage-invisible-as-body-text, re-verified**: traced all 28 `'@type': 'FAQPage'` occurrences in `api/meta/[...path].js`. 21 paired correctly. Of the 7 unpaired: 3 are the `/gear/.../drummers-using` branches already covered by open #5521 (not re-filed); 2 are the `/drummer/<slug>/licks` singular dead-code twin (already ruled unreachable in #5524's body); 1 is the bare-slug `/{slug}` dead code (already ruled unreachable in this file's own 2026-08-13 entry, line 4680). **Nothing new to file — sweep confirmed closed for every live, reachable URL.**
+
+### Proposals filed this run
+1. **#5569** — SEO: Matt Greiner trivia + keywords fields still cite pre-2016 Pearl/Meinl gear (Mapex/Paiste since 2016)
+
+### Drum-chair watch
+Not run — today (2026-08-15) is a Saturday, not Monday; no sweep logged yet this week (last logged 08-10 per prior run's note — that reference was stale, the actual weekly rotation is still owed on the next Monday run).
+
+### Learned-patterns.md updated
+Recorded all 3 veins (gearHighlights-vs-FAQ, sources.items sibling-miss, FAQPage-invisible sweep) as fully exhausted/closed, plus the new trivia/keywords finding, so future runs don't re-spend audit cycles re-deriving this. See the 2026-08-15 entries in `.agents/seo/learned-patterns.md`.
+
+### Open proposals waiting on CEO triage
+- #5569 (filed this run, 0d old)
+- #5562-#5568 (7 fresh, filed prior run 2026-08-14, still untriaged as of this run)
+- #5521 (already `ai-fix`-eligible, awaiting Roadie/merge)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers only.
+
+### Next run
+1. Watch #5569 and #5562-5568 through CEO triage.
+2. All 3 hand-audit veins (gearHighlights-vs-FAQ, sources.items, FAQPage sweep) are now genuinely exhausted across the full 72-profile roster and every live route — do not re-run any of them from scratch. A future finding in these fields should be treated as a fresh regression (check `git log` on that slug) not backlog.
+3. Next Monday run: the drum-chair watch rotation is due (check `ISO week number % 4` per the group split).
+4. L2/L3 weekly refresh due ~08-17 — with the hand-audit veins dry, this is now the primary source of fresh, concrete work; if it's still 2 days out at the next run, an audit-only outcome (Lighthouse/schema spot-check, no filing) is legitimate rather than manufacturing marginal findings.

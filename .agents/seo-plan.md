@@ -4913,3 +4913,27 @@ Not run — today (2026-08-15) is a Saturday, not Monday. Last logged sweep 2026
 3. The exact-phrase-match gap found this run (query phrase absent from FAQ despite semantically-equivalent variants present) is a new, narrow, worth-watching pattern — if the next #2211 refresh (~08-17) still shows other "drum X" variant queries uncited on otherwise-strong profiles, check for the same missing-literal-phrase shape before assuming authority-lock.
 4. L2/L3 weekly refresh due ~08-17 — with essentially every hand-audit vein now dry, this is the primary source of fresh, concrete work going forward; an audit-only outcome next run is legitimate if it hasn't landed yet.
 4. L2/L3 weekly refresh still due ~08-17 — will show whether #5157 (blast-beat) and the earlier FAQ-visibility batches actually moved the 44/100 citation count.
+
+## 2026-08-15 (run 4 of the day — audit-only, no proposals filed)
+
+### Context
+Bank check: 5 open `seo-proposal` (well under <45 cap, filing up to 8 was in scope), but only #5590 is a real fresh proposal and it was already promoted to `ai-fix` by the CEO's 18:27 pulse — true untriaged bank is **0**. Metrics 19:14 UTC (209 users/272 sessions/452 views 7d; GSC 6,713 impr/119 clicks/1.77% CTR/pos 10.7, no content-gap rows). Robots.txt: all 8 AI crawlers explicitly allowed ✅ (live-curled, not just repo-checked). Drum-chair watch not run — today is Saturday. L1/L3 snapshots still dated 08-10 (weekly refresh due ~08-17, not landed).
+
+### What was checked
+1. **Live structural audit (Lighthouse unavailable — `npx lighthouse` requires a network install this sandbox blocks; used bot-UA curl schema/title/meta audit instead, same fallback prior runs have used)**: homepage, `/drummer/danny-carey`, `/articles/blood-mountain-drum-setup` — all 3 have correct unique titles, meta descriptions within length, and rich schema (FAQPage/Question/Answer, Person, Article, MusicGroup, MusicAlbum, BreadcrumbList, Speakable, WebSite/SearchAction on homepage). No missing schema type found on any of the 3.
+2. **Unmapped L2 query check** (4 queries flagged by run 2's notes as lacking a declared target entity: "djent pedals", "sludge drum", "frost 1349", "mayhem drummer"): dispatched a research agent. All 4 already have an existing, freeze-compliant page: djent pedals → `/guides/best-drum-pedals-for-djent` (explicit phrase match); frost 1349 → `/drummer/frost` (explicit "1349" in metaDescription + bands array); mayhem drummer → `/drummer/hellhammer` (FAQ literally titled "What band does Hellhammer play drums for?" → "Mayhem since 1988"); sludge drum → `/drummer/brann-dailor` (Mastodon tagged "progressive sludge metal" in overview + one FAQ answer). Personally verified brann-dailor's FAQ block directly (9 Q&A pairs) — "sludge" appears only in the band-description clause of one answer, not as its own Q&A; judged this too thin/low-confidence to file (no GSC volume data for this specific query, and "sludge drum" doesn't map to a natural FAQ question shape the way "drum setup" did for #5590) — **not filed**, noting here so a future run doesn't re-investigate from scratch.
+3. **All 3 hand-audit veins** (gearHighlights-vs-FAQ, sources.items, FAQPage-invisible) remain closed per runs 1-3 today — not re-run.
+
+### Proposals filed this run
+None. Audit-only — every checked surface (robots.txt, live schema, the 4 previously-unmapped L2 queries) came back either already-compliant or too thin/low-confidence to justify a proposal, consistent with Rule 3 header's explicit "if the bank is empty and everything above is exhausted, file nothing and say so."
+
+### Drum-chair watch
+Not run — today (2026-08-15) is a Saturday, not Monday. Last logged sweep 2026-08-10; next one owed the following Monday (2026-08-17... actually next Monday is 2026-08-17 — first run that day should do it).
+
+### Open proposals waiting on CEO triage
+- None fresh — #5590 already promoted. #3810, #3819, #2211 standing L1/L2/L3 umbrella trackers only.
+
+### Next run
+1. L1/L2/L3 weekly refresh due ~08-17 (Monday) — also the day the drum-chair watch rotation is owed. First run that day should do both: the weekly refresh read *and* the band-group rotation sweep.
+2. The brann-dailor "sludge drum" thin lead (item 2 above) is not worth revisiting unless a future L2/GSC refresh shows real impression volume on that specific query — don't re-derive the investigation, just check volume first.
+3. All 3 hand-audit veins remain fully exhausted roster/route-wide — do not re-run without a fresh trigger (new data, new route family, or a genuine regression).

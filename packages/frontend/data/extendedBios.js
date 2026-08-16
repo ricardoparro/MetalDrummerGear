@@ -4140,7 +4140,7 @@ Roddy is considered one of the pioneers of modern extreme metal drumming, having
           { q: 'What sticks does Derek Roddy use?', a: 'Derek Roddy uses Vater Player\'s Design Derek Roddy Model (VHDRW) drumsticks, his own signature stick.' },
           { q: 'What bass drum pedal does Derek Roddy use?', a: 'Derek Roddy drives his one-footed blast technique with a Tama Speed Cobra 910 double pedal.' },
           { q: 'What drumheads does Derek Roddy use?', a: 'Derek Roddy uses Evans drumheads.' },
-          { q: 'What band is Derek Roddy in?', a: 'Derek Roddy has drummed for Hate Eternal (2000-2002, 2004-2005), Nile (2000-2002), and Malevolent Creation (1996-1999).' },
+          { q: 'What band is Derek Roddy in?', a: 'Derek Roddy is best known for his tenure in Hate Eternal (2001-2008), where he recorded albums including King of All Kings, and for a 2000 stint as Nile\'s live drummer. He also drummed for Aurora Borealis (1994-2000) and currently plays in Serpents Rise (2010-present).' },
           { q: 'What hi-hats does Derek Roddy use?', a: 'Derek Roddy plays 14" Meinl Byzance Heavy Hi-Hats, chosen for the cutting articulation needed to keep pace with his sustained one-footed blast beat technique.' }
         ]
       },

@@ -2338,7 +2338,7 @@ Ward's drumming style combined jazz influences with proto-metal power, creating 
           { q: 'What sticks does Bill Ward use?', a: 'Bill Ward uses Vic Firth American Classic 2B drumsticks.' },
           { q: 'What bass drum pedal does Bill Ward use?', a: 'Bill Ward uses a Ludwig Atlas Pro double pedal mounted with Ludwig hardware, including a Ludwig throne.' },
           { q: 'What drumheads does Bill Ward use?', a: 'Bill Ward uses Remo drumheads.' },
-          { q: 'What band is Bill Ward in?', a: 'Bill Ward is a co-founder and drummer of Black Sabbath, playing with the band from 1968-1983 and again from 1997-2006.' },
+          { q: 'What band is Bill Ward in?', a: 'Bill Ward is a co-founder and drummer of Black Sabbath, playing with the band 1968-1980, briefly in 1983-1984, again in 1997-1998, and once more in 2011-2012 amid a lineup dispute.' },
           { q: 'What hi-hats did Bill Ward play?', a: 'Bill Ward played 15" Paiste Giant Beat hi-hats, mounted alongside his Ludwig Supraphonic snare and 24" Paiste 2002 ride in his classic Black Sabbath drum kit.' }
         ]
       },

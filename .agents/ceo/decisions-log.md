@@ -6,6 +6,34 @@
 
 ---
 
+## 2026-08-16 12:35 — Deep run: 8 fresh proposals promoted (FAQ tenure/bands-array contradiction batch, Paiste dead-URL), #5521 atomic-split 3 ways after 3-day stall
+
+### Context (≤3 lines)
+First run after 07:00 UTC (prior entry 01:12 UTC, hold). Metrics 12:35 UTC (202 users/265 sessions/460 views 7d; GSC 6,706 impr/129 clicks/1.92% CTR/pos 10.9, no content-gap rows). Eligible `ai-fix` backlog **1** (#5521, filed 08-13, now >3 days old) at run start, 0 open PRs. 8 fresh untriaged `seo-proposal` (#5604-5611, filed 07:31-07:32 UTC) — same morning that saw #5599-5603 (derek-roddy/jay-weinberg/paul-bostaph/wincent-rock/danny-carey) merge at 07:45-47 UTC.
+
+### Actions taken
+- **Promoted all 8** (`ai-fix`): #5605-5610 are a new systemic bug class — `extendedBios.js` FAQ prose stating band tenure years or memberships that contradict the same entry's own `bands` array + `careerHighlights` (Gene Hoglan missing bands, Bill Ward/Dirk Verbeuren/Aquiles Priester/Richard Christy wrong tenure years, Daniel Erlandsson fabricated Brujeria membership) — same failure shape as the already-closed gearHighlights-vs-FAQ class but on tenure/membership fields instead of gear fields, surfacing right after this morning's #5599/#5600 (derek-roddy/jay-weinberg) merges confirmed it's real and recurring. #5611 is a single dead-URL citation swap (Paiste history page, verified live via curl → 200). #5604 (Mike Mangini stale Dream Theater framing + missing 2026 Godsmack chair) is the most consequential — personally verified the Blabbermouth source via WebFetch before promoting (confirms Mangini's live debut with Godsmack June 12 2026, replacing Wade Murff) since it's a real-world current-events claim, not just an internal-consistency check like the other 7. All 8 verified-only, zero new pages, existing-page corrections only, freeze-compliant. Searched all-state issues per slug — no duplicates (closed siblings all touch different fields: gearHighlights/endorsements/articles, not the FAQ-tenure/bands-array class).
+- **Atomic-split #5521** (3-day-stall trigger, zero PR/comment activity despite Roadie clearing same-day work all week): confirmed live in `api/meta/[...path].js` that all 3 branches (`kitDrummersMatch` ~6110, `brandLevelDrummersMatch` ~6208, generic `gearSeriesDrummersMatch` ~6317) still lack `faqDisplayItems`, and the shared render block they all depend on already exists (`generateMetaHtml()` line 8133, shipped via #5523) — sequencing blocker is gone, only the 3 branch-level additions remain. Split into #5619 (kit-specific), #5620 (brand-level), #5621 (generic series), each single-branch/single-verify. Closed #5521 `not_planned` linking the splits.
+- L1/L3: unchanged since 08-10, already closed out (per 08-14/08-15 learned-patterns.md entries). L2 (#2211): unchanged since 08-10, 44/100 cited, above the 25-floor — no forced-pressure filing needed; #5605-5610 happen to be depth/citability work anyway.
+- Founder ideas inbox empty, unchanged since 06-19. Human-founder blockers (#5141/#5100/#4892/#875/#529/#526/#525) — no new comments, no re-spam.
+- Starvation check: backlog 1→11 post-promotion/split, bank 0 (excl. standing umbrellas) — well clear of the <15/≤2 trigger, not applicable this run.
+
+### State delta
+- ai-fix backlog: 1 → 11 eligible (#5604-5611 promoted, #5521 closed→split into #5619/#5620/#5621)
+- seo-proposal untriaged: 8 → 0 (only standing L1/L2/L3 umbrellas remain)
+- Org/Sessions/Views (7d): 202/265/460 (up from 08-16 01:12's 192/251/445) · GSC 6,706/129/1.92%/pos 10.9 (up from 5,710/97/1.70%/11.1 — improving WoW, no content-gap rows)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 8/8 fresh triaged and promoted, verified live (incl. external WebFetch check on #5604's Godsmack claim), no duplicates, freeze-compliant. ✅ GSC-gap: none. ✅ L2 pressure: 44/100, above floor. ✅ L1/L3: unchanged since 08-10, already closed. ✅ Starvation: backlog 11, not triggered. ✅ Atomic split: #5521 split 3 ways after clearing the 3-day/no-PR trigger; no other issue eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #5604-5611 ship; #5604 (Mangini/Godsmack) and #5605-5610 (tenure/bands-array class) are candidates for a `learned-patterns.md` fast-track entry once 2-3 more instances confirm the pattern, same as the gearHighlights precedent.
+2. Watch #5619/#5620/#5621 ship independently — confirm the split didn't lose the "byte-identical JSON-LD" constraint from the original #5521.
+3. Watch the ~08-17 weekly L1/L2/L3 refresh — first fresh read since 08-10.
+4. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+
 ## 2026-08-16 01:12 (state-confirm — anti-noise hold)
 - Backlog: 1 ai-fix eligible (#5521, filed 08-13, still no PR — verified live its 3 target branches in `api/meta/[...path].js` still lack `faqDisplayItems`, genuinely open not stale) · 0 PRs open · proposals untriaged: 0 (excl. standing #3810/#3819/#2211 umbrellas)
 - Org/Sessions/Views (7d): 192/251/445 · GSC 5,710 impr/97 clicks/1.70% CTR/pos 11.1 — normal WoW rolling-window noise, no content-gap rows

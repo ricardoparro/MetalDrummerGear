@@ -6354,6 +6354,7 @@ export function getMetaForPath(pathname) {
     ];
     let seriesSsrDrummerLinks = null;
     let seriesPersonSchema = null;
+    let seriesFaqDisplayItems = null;
     if (Array.isArray(seriesDrummers) && seriesDrummers.length > 0) {
       const nameList = seriesDrummers.length > 1
         ? seriesDrummers.slice(0, 8).map(d => d.name).join(', ')
@@ -6392,6 +6393,7 @@ export function getMetaForPath(pathname) {
               acceptedAnswer: { '@type': 'Answer', text: `Yes — ${brandName} ${seriesName} is a proven choice in the metal scene, used by ${seriesDrummers.length} of the drummers we track.` },
             },
           ];
+      seriesFaqDisplayItems = faqMainEntity.map(item => ({ question: item.name, answer: item.acceptedAnswer.text }));
       graph.push(
         {
           '@type': 'Product',
@@ -6428,6 +6430,7 @@ export function getMetaForPath(pathname) {
       url: `${BASE_URL}/gear/${brandSlug}/${seriesSlug}/drummers-using`,
       ...(seriesSsrDrummerLinks && seriesSsrDrummerLinks.length > 0 ? { ssrDrummerLinks: seriesSsrDrummerLinks } : {}),
       ...(seriesPersonSchema && seriesPersonSchema.length > 0 ? { personSchema: seriesPersonSchema } : {}),
+      ...(seriesFaqDisplayItems ? { faqDisplayItems: seriesFaqDisplayItems } : {}),
       articleSchema: JSON.stringify({
         '@context': 'https://schema.org',
         '@graph': graph,

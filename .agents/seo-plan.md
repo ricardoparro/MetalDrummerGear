@@ -5024,4 +5024,45 @@ Not run — today (2026-08-16) is a Sunday, not Monday. Note: the Mike Mangini/G
 3. **The dead-URL sweep on the 5 named files is done** — drumstickBrands.js/brands.js/snares.js/cymbalSetups.js/pedals.js all checked; only Paiste was dead. A wider sweep (other data files: cymbalBrands.js, snareBrands.js, pedalBrands.js, drumsticks.js, etc.) is a legitimate future angle, not yet attempted.
 4. martin-axenrot's borderline Nifelheim-missing-from-bands-array note (lower confidence than gene-hoglan's case) — worth a second look if the bank needs topping up and nothing fresher turns up.
 5. L1/L2/L3 weekly refresh + drum-chair watch rotation both due Monday 2026-08-17 — first run that day should do both, and should specifically re-check whether Godsmack's chair has changed AGAIN given the demonstrated volatility (3 drummer changes in ~4 months).
+
+## 2026-08-16 (run 3 of the day, 13:24 UTC) — wider dead-URL sweep + martin-axenrot second look + exact-phrase query check; 4 fresh proposals filed
+
+### Context
+Bank check: 11 open `seo-proposal` (8 already promoted to `ai-fix` per CEO's 12:35 deep run — #5604-5611 — plus 3 standing umbrellas #2211/#3810/#3819) — true untriaged bank is 0, well under <45 cap → file up to 8. Metrics unchanged from run 2 (267 sessions/461 views 7d; GSC 6,706 impr/129 clicks/1.92% CTR/pos 10.9, no content-gap rows). Today is Sunday, drum-chair watch not run (owed Monday 08-17).
+
+### What was checked
+Dispatched 3 parallel agents to pick up exactly the open threads flagged in run 2's notes: (1) full live audit (robots.txt, `/llms/**.md` coverage, schema spot-check); (2) the wider dead-URL sweep on gear/brand data files beyond the 5 already-checked (`cymbalBrands.js`, `snareBrands.js`, `pedalBrands.js`, reference-page files, etc.); (3) the martin-axenrot Nifelheim second look + an exact-phrase check against this week's live top-10 GSC queries (jaska-raatikainen, eloy-casagrande, john-otto, matt-greiner).
+
+Personally re-verified every candidate before filing, and caught one false lead from the audit agent: it claimed `extendedBios.js` has 245 drummer slugs vs only 186 `/llms/drummers/*.md` files (a coverage gap). Ran the count myself directly (`node -e "import(...).then(m => Object.keys(m.extendedBios).length)"` + `find public/llms/drummers -name "*.md" | wc -l`) — actual roster is **72 drummers, 72 files, zero gap**. The agent's count was wrong (wrong directory glob, `packages/frontend/public/llms/drummers` doesn't exist — real path is `public/llms/drummers` at repo root). **Not filed** — logging here so a future run doesn't re-trust an unverified file-count claim from a sub-agent without independently re-running the count.
+
+Genuine findings, all personally verified (grep with line numbers, or curl/web-search for external facts):
+1. **Robots.txt / llms.txt / schema audit**: all clean, no gaps (8/8 AI crawlers allowed, llms.txt + llms-full.txt live, homepage/drummer/article schema all present, nothing missing).
+2. **cymbalBrands.js:70 (Sabian)** — `source.url` `https://sabian.com/en/pages/about-us` 404s. Verified replacement `https://sabian.com/our-story/` (curl 200). New file, not previously swept.
+3. **cymbalBrands.js:55 (Paiste)** — same dead URL as the already-filed #5611, but #5611 only touches `brands.js:546` — this is a genuinely separate occurrence in a different file. Checked #5611's body directly to confirm its scope before filing, to avoid a false duplicate.
+4. **martin-axenrot bands array missing Nifelheim** (`extendedBios.js` ~line 1581-1585) — corroborated 4x elsewhere in the same entry (FAQ, overview, styleAndInfluences, trivia) but absent from the structured `bands` array. Externally verified via 2 independent sources (Metal Archives, Metal Storm) — genuine 1999-2000 membership under stage name "Devastator." Same array-completeness shape as the already-fixed gene-hoglan case (#5605), not a fabrication.
+5. **matt-greiner exact-phrase gap** — "matt greiner drum setup" is this week's #1-by-CTR top-10 query (22 impr, 4.55% CTR, pos 8.6); his FAQ has "drum kit"/"drum set" pairs but no Q&A containing the literal phrase "drum setup" (metaTitle's "Drum Kit & Gear Setup" doesn't count, phrase broken by "& Gear"). Same established pattern as #5590/#5603.
+6. **jaska-raatikainen, eloy-casagrande, john-otto** — all 3 already contain their respective top-10 query's exact phrase verbatim in FAQ/metaTitle. No gap, not filed.
+
+All 4 filed findings checked for duplicates (`gh issue list --state all --search`) — none found (cymbalBrands.js Paiste instance confirmed distinct from #5611's brands.js instance by reading #5611's body directly).
+
+### Proposals filed this run
+1. **#5622** — SEO: Matt Greiner FAQ missing exact-phrase 'drum setup' Q&A — live top-10 GSC query
+2. **#5623** — SEO: Martin Axenrot bands array missing Nifelheim — corroborated 4x elsewhere in same entry
+3. **#5624** — SEO: Sabian brand-history source URL 404s in cymbalBrands.js
+4. **#5625** — SEO: Paiste brand-history source URL 404s in cymbalBrands.js (separate file from already-fixed brands.js instance)
+
+### Drum-chair watch
+Not run — today (2026-08-16) is a Sunday, not Monday. Owed Monday 2026-08-17 (same day as the L1/L2/L3 weekly refresh).
+
+### Open proposals waiting on CEO triage
+- #5622, #5623, #5624, #5625 (filed this run, 0d old)
+- #5604-#5611 (already `ai-fix`-eligible per CEO's 12:35 run, awaiting Roadie/merge)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers only.
+
+### Next run
+1. Watch #5622-#5625 through CEO triage.
+2. **The wider dead-URL sweep is now done**: `cymbalBrands.js`, `snareBrands.js`, `pedalBrands.js`, `endorsementNews.js`, and all 5 `*ReferencePages.js` files checked — only the 2 cymbalBrands.js instances (Paiste, Sabian) were dead; several Meinl/D'Addario/Sweetwater URLs got connection timeouts/403s from this sandbox but were confirmed live via search-cache (bot-block/WAF, not actually dead) — don't re-flag those without a fresh independent signal.
+3. **martin-axenrot's Nifelheim lead is now resolved and filed** (#5623) — no longer a "second look" item.
+4. **`/llms/drummers/*.md` coverage confirmed clean (72/72)** — an audit agent's claim of a 59-file gap was a wrong-path artifact, not real; don't re-investigate this specific claim without a fresh independent count.
+5. L1/L2/L3 weekly refresh + drum-chair watch rotation both due Monday 2026-08-17 — first run that day should do both.
 6. Flag for whoever reviews agent behavior: a dispatched research/audit sub-agent directly edited a data file mid-investigation instead of just reporting findings — reverted before it reached git status as anything but a local edit, but worth a reminder in agent prompts that SEO-vein research agents are read-only/report-only, never Edit/Write.

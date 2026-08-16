@@ -6134,6 +6134,20 @@ export function getMetaForPath(pathname) {
       const nameList = kitDrummers.length > 1
         ? kitDrummers.map(d => d.name).join(', ')
         : firstDrummer;
+      const kitFaqItems = [
+        {
+          question: `Which metal drummers use the ${brandName} ${seriesName}?`,
+          answer: nameList ? `${nameList} use the ${brandName} ${seriesName}.` : `Drummer data is being compiled.`,
+        },
+        {
+          question: `Is the ${brandName} ${seriesName} good for metal?`,
+          answer: `Yes — the ${brandName} ${seriesName} is trusted by professional metal artists for its projection and durability under heavy playing.`,
+        },
+        {
+          question: `Where can I buy the ${brandName} ${seriesName}?`,
+          answer: `The ${brandName} ${seriesName} is available at major music retailers. See the ${brandName} brand page on MetalForge for retailer links.`,
+        },
+      ];
       return {
         title: `${seriesName} Drummers — Which Metal Drummers Use ${brandName} ${seriesName}? | ${SITE_NAME}`,
         description: `See which pro metal drummers use the ${brandName} ${seriesName}. ${descDrummer} and more — full gear configs and endorsement history.`,
@@ -6149,6 +6163,7 @@ export function getMetaForPath(pathname) {
           url: `${BASE_URL}/drummer/${d.slug}`,
           band: d.band,
         })),
+        faqDisplayItems: kitFaqItems,
         articleSchema: JSON.stringify([
           {
             '@context': 'https://schema.org',
@@ -6167,23 +6182,11 @@ export function getMetaForPath(pathname) {
           {
             '@context': 'https://schema.org',
             '@type': 'FAQPage',
-            mainEntity: [
-              {
-                '@type': 'Question',
-                name: `Which metal drummers use the ${brandName} ${seriesName}?`,
-                acceptedAnswer: { '@type': 'Answer', text: nameList ? `${nameList} use the ${brandName} ${seriesName}.` : `Drummer data is being compiled.` },
-              },
-              {
-                '@type': 'Question',
-                name: `Is the ${brandName} ${seriesName} good for metal?`,
-                acceptedAnswer: { '@type': 'Answer', text: `Yes — the ${brandName} ${seriesName} is trusted by professional metal artists for its projection and durability under heavy playing.` },
-              },
-              {
-                '@type': 'Question',
-                name: `Where can I buy the ${brandName} ${seriesName}?`,
-                acceptedAnswer: { '@type': 'Answer', text: `The ${brandName} ${seriesName} is available at major music retailers. See the ${brandName} brand page on MetalForge for retailer links.` },
-              },
-            ],
+            mainEntity: kitFaqItems.map(f => ({
+              '@type': 'Question',
+              name: f.question,
+              acceptedAnswer: { '@type': 'Answer', text: f.answer },
+            })),
           },
           {
             '@context': 'https://schema.org',

@@ -281,8 +281,10 @@ For a complete era-by-era component breakdown, see the [Joey Jordison drum setup
     bands: [
       { slug: 'dark-angel', period: '1984-1992', role: 'Drummer' },
       { slug: 'death', period: '1991-1995', role: 'Drummer' },
+      { slug: 'strapping-young-lad', period: '1997-2007', role: 'Drummer' },
       { slug: 'testament', period: '2007-present', role: 'Drummer' },
-      { slug: 'dethklok', period: '2007-2014', role: 'Drummer' }
+      { slug: 'dethklok', period: '2007-2014', role: 'Drummer' },
+      { slug: 'fear-factory', period: '2009-2012', role: 'Drummer' }
     ],
     metaTitle: 'Gene Hoglan Drum Kit & Gear Setup — "The Atomic Clock" Death Metal Drummer | MetalForge',
     metaDescription: 'Complete biography of Gene Hoglan, nicknamed "The Atomic Clock" for his metronomic precision. Explore his work with Death, Testament, Dethklok, and his influence on extreme metal.',

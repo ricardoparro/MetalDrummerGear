@@ -543,7 +543,7 @@ Joey Jordison's Paiste RUDE/2002 hybrid setup defined Slipknot's chaotic sound. 
         { year: 1980, event: "The RUDE series launches, built specifically for the volume and abuse of heavy metal drumming." },
       ],
       metalEra: "Paiste's RUDE and 2002 series became defining metal cymbal sounds of the 1980s and 90s: Dave Lombardo used a Paiste RUDE Power Ride on Slayer's Reign in Blood, and Nicko McBrain has played Paiste throughout his career with Iron Maiden, including a signature Powerslave Reflector Bell Ride. Joey Jordison later paired RUDE and 2002 cymbals for Slipknot's chaotic live sound.",
-      sources: ["https://www.paiste.com/pages/history"],
+      sources: ["https://www.paiste.com/en/about/background/history"],
     },
     themeLinks: [
       { path: "/cymbals/brands/paiste", label: "Explore Paiste in the Cymbal Guide" },

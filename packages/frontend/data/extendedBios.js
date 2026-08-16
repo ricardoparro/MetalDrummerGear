@@ -4692,7 +4692,8 @@ Cunningham's playing is characterized by creative, unconventional patterns that 
       { slug: 'death', period: '1996-2001', role: 'Drummer' },
       { slug: 'iced-earth', period: '2003-2007', role: 'Drummer' },
       { slug: 'control-denied', period: '1996-2001', role: 'Drummer' },
-      { slug: 'burning-inside', period: '1997-2002', role: 'Drummer' }
+      { slug: 'burning-inside', period: '1997-2002', role: 'Drummer' },
+      { slug: 'charred-walls-of-the-damned', period: '2009-present', role: 'Drummer' }
     ],
     metaTitle: 'Richard Christy Drum Kit & Gear Setup — Death & Iced Earth Drummer | MetalForge',
     metaDescription: 'Complete biography of Richard Christy, legendary drummer for Death and Iced Earth. Explore his technical death metal mastery, work with Chuck Schuldiner, and career transition to entertainment.',
@@ -4793,7 +4794,7 @@ Christy's drumming on Death's final two albums—"The Sound of Perseverance" and
           { q: 'What sticks does Richard Christy use?', a: 'Richard Christy uses Vic Firth American Classic 5A drumsticks, a comparatively lightweight, classic-diameter stick that favors finesse and articulation.' },
           { q: 'What bass drum pedal does Richard Christy use?', a: 'Richard Christy uses a Tama Iron Cobra 900 double pedal.' },
           { q: 'What drumheads does Richard Christy use?', a: 'Richard Christy uses Evans drumheads.' },
-          { q: 'What band is Richard Christy in?', a: 'Richard Christy recorded with Death from 1996-1999, played with Iced Earth from 2003-2004, and has drummed for his own band, Charred Walls of the Damned, since 2009.' },
+          { q: 'What band is Richard Christy in?', a: 'Richard Christy recorded with Death from 1996-2001, played with Iced Earth from 2003-2007, and has drummed for his own band, Charred Walls of the Damned, since 2009.' },
           { q: 'What hi-hats does Richard Christy use?', a: 'Richard Christy plays 14" Sabian AAX Stage Hi-Hats, part of the AAX and HHX cymbal setup he used on Death\'s The Sound of Perseverance and with Iced Earth.' }
         ]
       },

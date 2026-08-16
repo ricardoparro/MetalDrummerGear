@@ -2551,7 +2551,8 @@ export const bands = {
     drummerHistory: [
       { drummer: "tommy-stewart", period: "1995-1997, 1998-2002", notes: "Founding drummer of the group that became Godsmack; recorded Godsmack (1998) and Awake (2000), his final album with the band" },
       { drummer: "joe-d-arco", period: "1997-1998", notes: "Interim drummer while Stewart was out; no studio album recorded during this tenure" },
-      { drummer: "shannon-larkin", period: "2002-2024", notes: "Joined June 2002, replacing Stewart; recorded every studio album from Faceless (2003) through Lighting Up the Sky (2023); announced his retirement from the band in 2024" }
+      { drummer: "shannon-larkin", period: "2002-2024", notes: "Joined June 2002, replacing Stewart; recorded every studio album from Faceless (2003) through Lighting Up the Sky (2023); announced his retirement from the band in 2024" },
+      { drummer: "mike-mangini", period: "2026-present", notes: "Ex-Dream Theater drummer; joined as touring drummer in June 2026 after the band cycled through interim touring drummers Will Hunt and Wade Murff following Larkin's 2024 departure" }
     ],
     discography: [
       { title: "Godsmack", year: 1998, drummer: "tommy-stewart", notes: "Self-titled debut" },
@@ -2570,7 +2571,7 @@ export const bands = {
       "https://musicbrainz.org/artist/ac2d1c91-3667-46aa-9fe7-170ca7fce9e2"
     ],
     faq: [
-      { q: "Who is the drummer for Godsmack?", a: "Shannon Larkin drummed for Godsmack from 2002 until his retirement in 2024, the band's longest-serving drummer. As of mid-2026 the band has cycled through several touring drummers since his departure with no permanent replacement confirmed, so no successor is credited here yet." },
+      { q: "Who is the drummer for Godsmack?", a: "Mike Mangini, formerly of Dream Theater, has been Godsmack's touring drummer since June 2026. He followed longtime drummer Shannon Larkin, who played from 2002 until his 2024 retirement, and interim touring drummers Will Hunt and Wade Murff." },
       { q: "Did Godsmack have a drummer before Shannon Larkin?", a: "Yes. Founding drummer Tommy Stewart played on the band's first two albums, Godsmack (1998) and Awake (2000), with Joe D'Arco filling in briefly between two of Stewart's stints." },
       { q: "Where is Godsmack from?", a: "Lawrence, Massachusetts, USA, where the band formed in 1995." },
       { q: "Is Godsmack still active?", a: "Yes, the band continues to tour, though the drum and guitar chairs have been in flux since longtime members Shannon Larkin and Tony Rombola both departed in 2024." }
@@ -2580,7 +2581,10 @@ export const bands = {
       "https://en.wikipedia.org/wiki/Shannon_Larkin",
       "https://en.wikipedia.org/wiki/Tommy_Stewart",
       "https://loudwire.com/godsmack-members-quit-band-statement/",
-      "https://blabbermouth.net/news/shannon-larkin-says-he-and-tony-rombola-quit-godsmack-last-year"
+      "https://blabbermouth.net/news/shannon-larkin-says-he-and-tony-rombola-quit-godsmack-last-year",
+      "https://blabbermouth.net/news/godsmack-recruits-ex-dream-theater-drummer-mike-mangini-following-departure-of-wade-murff",
+      "https://consequence.net/2026/06/mike-mangini-ex-dream-theater-joins-godsmack/",
+      "https://metalinjection.net/news/mike-mangini-joins-godsmack-as-new-drummer"
     ],
   },
   "hate-eternal": {

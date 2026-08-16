@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-16 13:23 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-16 18:26 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,46 +8,46 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 203 |
-| Sessions | 267 |
-| Page views | 461 |
-| Engagement rate | 58.80% |
-| Avg session (s) | 171 |
+| Active users | 210 |
+| Sessions | 279 |
+| Page views | 473 |
+| Engagement rate | 56.63% |
+| Avg session (s) | 208 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
 | /drummers | 36 | 8 |
-| / | 35 | 21 |
-| /articles/obsolete-drum-setup | 19 | 1 |
+| / | 35 | 22 |
+| /articles/obsolete-drum-setup | 21 | 1 |
 | /gear | 14 | 4 |
-| /drummer/danny-carey | 9 | 4 |
+| /drummer/danny-carey | 9 | 5 |
+| /drummer/flo-mounier | 7 | 5 |
 | /tools | 7 | 3 |
 | /drummer/dave-lombardo | 6 | 1 |
+| /drummer/mario-duplantier | 6 | 3 |
 | /drummers/arin-ilejay/evolution | 6 | 1 |
-| /articles/damnation-drum-setup | 5 | 1 |
-| /drummer/ben-koller | 5 | 3 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 210 | 154 |
+| Organic Search | 218 | 158 |
 | Direct | 54 | 48 |
-| Unassigned | 12 | 8 |
+| Unassigned | 21 | 14 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 107 | 79 |
+| United States | 112 | 82 |
 | France | 16 | 8 |
 | Germany | 15 | 12 |
 | Canada | 11 | 6 |
 | Australia | 7 | 7 |
+| Brazil | 7 | 4 |
 | Singapore | 7 | 7 |
-| Brazil | 6 | 4 |
+| United Kingdom | 7 | 6 |
 | China | 6 | 6 |
 | India | 6 | 6 |
-| Spain | 6 | 4 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |

@@ -1138,7 +1138,7 @@ Wincent's precision-first approach found a following among hard-hitting metal dr
         { year: 1995, event: "Wincent reaches its first full commercial product launch." },
       ],
       metalEra: "Wincent's precision-manufacturing pitch built a metal following through signature partnerships: Tomas Haake (Meshuggah) plays the WTHS, a long, extended-shoulder model, and Mikkey Dee (Motörhead, Scorpions) plays the W-MDS, a 2B-style cut built for durability in one of the loudest bands on earth.",
-      sources: ["https://www.wincentdrumsticks.com/about", "https://www.wincentdrumsticks.com/drumsticks/rock-metal-series/"],
+      sources: ["https://www.wincentdrumsticks.com/about", "https://www.wincentdrumsticks.com/collections/rock-metal-series"],
     },
     themeLinks: [
       { path: "/drumsticks/brands/wincent", label: "Explore Wincent in the Drumstick Guide" },

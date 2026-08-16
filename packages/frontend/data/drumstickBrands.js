@@ -140,7 +140,7 @@ export const DRUMSTICK_BRANDS = [
     notableLines: [
       { name: 'Rock/Metal series (incl. the METAL model)', description: 'A dedicated heavier line built for high-power playing, positioned by the brand as its longest-reach, hardest-hitting option, alongside a companion ROCK model.' },
     ],
-    source: { label: 'Wincent — Rock/Metal Series', url: 'https://www.wincentdrumsticks.com/drumsticks/rock-metal-series/' },
+    source: { label: 'Wincent — Rock/Metal Series', url: 'https://www.wincentdrumsticks.com/collections/rock-metal-series' },
   },
   {
     slug: 'tama',

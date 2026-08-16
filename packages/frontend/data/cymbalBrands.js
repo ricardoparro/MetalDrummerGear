@@ -52,7 +52,7 @@ export const CYMBAL_BRANDS = [
       { name: '2002', description: 'Paiste\'s original high-volume rock/metal alloy line (predating RUDE), still widely used for crashes, rides, and chinas that need to cut through distortion.' },
       { name: 'Signature', description: 'A more refined, versatile professional line that still covers heavy, powerful options (e.g. Signature Heavy/Dry Heavy) used by some metal drummers who want more tonal range than RUDE/2002 offer.' },
     ],
-    source: { label: 'Paiste — Company History', url: 'https://www.paiste.com/pages/history' },
+    source: { label: 'Paiste — Company History', url: 'https://www.paiste.com/en/about/background/history' },
   },
   {
     slug: 'sabian',

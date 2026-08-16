@@ -1583,6 +1583,7 @@ Dette served as Slayer's touring drummer during 1996-1997, filling in when Paul 
     bands: [
       { slug: 'opeth', period: '2006-present', role: 'Drummer' },
       { slug: 'bloodbath', period: '2008-present', role: 'Drummer' },
+      { slug: 'nifelheim', period: '1999-2000', role: 'Drummer' },
       { slug: 'witchery', period: '1997-2010', role: 'Drummer' }
     ],
     metaTitle: 'Martin Axenrot Drum Kit & Gear Setup — Opeth Drummer | MetalForge',

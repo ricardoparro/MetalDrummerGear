@@ -6269,6 +6269,7 @@ export function getMetaForPath(pathname) {
             band: d.band,
           })),
         } : {}),
+        faqDisplayItems: brandFaqMainEntity.map(item => ({ question: item.name, answer: item.acceptedAnswer.text })),
         articleSchema: JSON.stringify([
           {
             '@context': 'https://schema.org',

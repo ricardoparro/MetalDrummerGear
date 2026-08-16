@@ -67,7 +67,7 @@ export const CYMBAL_BRANDS = [
       { name: 'HHX', description: 'A hand-hammered, darker, more complex-overtone counterpart to AAX, often chosen for rides and crashes where more tonal depth is wanted at similar cutting power.' },
       { name: 'HH', description: 'Sabian\'s original hand-hammered line, predating HHX — still shows up on some verified setups, typically for rides.' },
     ],
-    source: { label: 'Sabian — About Us / Company History', url: 'https://sabian.com/en/pages/about-us' },
+    source: { label: 'Sabian — About Us / Company History', url: 'https://sabian.com/our-story/' },
   },
   {
     slug: 'meinl',

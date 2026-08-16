@@ -4937,3 +4937,40 @@ Not run — today (2026-08-15) is a Saturday, not Monday. Last logged sweep 2026
 1. L1/L2/L3 weekly refresh due ~08-17 (Monday) — also the day the drum-chair watch rotation is owed. First run that day should do both: the weekly refresh read *and* the band-group rotation sweep.
 2. The brann-dailor "sludge drum" thin lead (item 2 above) is not worth revisiting unless a future L2/GSC refresh shows real impression volume on that specific query — don't re-derive the investigation, just check volume first.
 3. All 3 hand-audit veins remain fully exhausted roster/route-wide — do not re-run without a fresh trigger (new data, new route family, or a genuine regression).
+
+## 2026-08-16 (run 1 of the day) — new angle found: profile-data factual contradictions (bands/tenure years) is a genuinely fresh, previously-unaudited class; 5 fresh proposals filed
+
+### Context
+Bank check: 4 open `seo-proposal` (#5521 already `ai-fix`, plus standing umbrellas #3810/#3819/#2211) — effectively 0 untriaged, well under <45 cap → file up to 8. Metrics 02:15 UTC (193 users/252 sessions/446 views 7d; GSC 5,710 impr/97 clicks/1.70% CTR/pos 11.1, no content-gap rows). L1/L3 snapshots still dated 08-10 (weekly refresh due 08-17, not landed — today is Sunday). Robots.txt: all 8 AI crawlers explicitly allowed ✅ (live-curled). `/llms.txt`/`/llms-full.txt` 200 ✅. `/llms/**.md` = 2,002 files, `/llms/drummers/` = 72/72 ✅. Drum-chair watch: not run, today is Sunday not Monday.
+
+### What was checked
+Per prior runs' notes, all 3 hand-audit veins (gearHighlights-vs-FAQ, sources.items sibling-miss, FAQPage-invisible) are confirmed exhausted — did not re-run. Dispatched 2 parallel research agents instead: (1) apply the proven exact-phrase-gap method (#5590) to this week's live top-GSC-queries; (2) a broad fresh-gap hunt with the full exclusion list of every previously-mined bug class (schema fields, gearHighlights/sources/trivia, FAQ-depth, hedge-first-FAQ, ssrLinks, og:*, mainEntityOfPage, etc.) looking for something genuinely new. Personally re-verified every candidate before filing (grep/read the actual file + live curl where external facts were involved — did not trust either agent's report alone):
+
+1. **danny-carey "drumkit" (one word)** — confirmed absent from the entry (metaTitle/metaDescription/overview/FAQ all checked); "drum kit"/"drum set"/"drum setup" all present, "drumkit" is not. Matches this week's live GSC row (12 impr, 1 click, pos 8.0). nick-menza/mikkey-dee/mastodon queries checked too — all already covered, no gap (not filed).
+2. **Derek Roddy — FAQ "What band is Derek Roddy in?" fabricates a band membership.** The answer lists "Malevolent Creation (1996-1999)" and wrong Hate Eternal/Nile date ranges — contradicts the same entry's own `bands` array (Hate Eternal 2001-2008 continuous, Nile 2000 only, no Malevolent Creation anywhere in the file). Reads like a copy-paste leftover from another drummer's template. This is a genuinely new bug class (FAQ-vs-bands-array contradiction) — not the same shape as the already-closed gearHighlights-vs-FAQ (gear brand) or sources.items (citation) sweeps.
+3. **Jay Weinberg — FAQ says Suicidal Tendencies "since 2023"**, but the entry's own `bands` array says `period: '2024-2026'`. Same new bug class as #2.
+4. **Paul Bostaph — Forbidden tenure wrong in `bands` array** (`'1987-1989'`). Cross-checked against his official bio (paulbostaphdrums.com/bio, WebSearch) — actual tenure is 1986-1991, joined Slayer 1992. Also internally inconsistent with the same entry's own `notableRecordings` crediting a 1990 Forbidden album a year after the stated 1989 departure. This required external verification (not just internal-consistency) since the 1990 album date is itself correct — the `bands` period was the wrong side.
+5. **Wincent dead source URL** in 2 non-drummer-profile files (`drumstickBrands.js:143`, `brands.js:1141`) — `https://www.wincentdrumsticks.com/drumsticks/rock-metal-series/` genuinely 404s (browser-UA curl confirmed, not bot-blocking). Found and live-verified (200) a replacement: `https://www.wincentdrumsticks.com/collections/rock-metal-series`. This is a different file class than #5462 (which only audited `extendedBios.js` drummer `sources.items`) — brand-guide files were never in scope of that sweep.
+
+Checked all 5 for duplicates (`gh issue list --state all --search`) — no overlaps found; #5462 (closed) covered dead URLs but only in `extendedBios.js`, never touched the brand-guide files.
+
+### Proposals filed this run
+1. **#5599** — SEO: Derek Roddy FAQ band-history answer contradicts profile's own bands array (fabricated Malevolent Creation membership)
+2. **#5600** — SEO: Jay Weinberg FAQ says Suicidal Tendencies 'since 2023', profile's own bands array says 2024
+3. **#5601** — SEO: Paul Bostaph — Forbidden tenure wrong (1987-1989 in bands array; official bio says 1986-1991)
+4. **#5602** — SEO: Wincent 'Rock/Metal Series' source URL 404s in 2 files (drumstickBrands.js + brands.js)
+5. **#5603** — SEO: Danny Carey FAQ missing exact-phrase 'drumkit' (one word) Q&A — live GSC query gap
+
+### Drum-chair watch
+Not run — today (2026-08-16) is a Sunday, not Monday. Last logged sweep 2026-08-10; next one owed Monday 2026-08-17 (same day as the L1/L2/L3 weekly refresh).
+
+### Open proposals waiting on CEO triage
+- #5599, #5600, #5601, #5602, #5603 (filed this run, 0d old)
+- #5521 (already `ai-fix`-eligible, awaiting Roadie/merge)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers only.
+
+### Next run
+1. Watch #5599-#5603 through CEO triage.
+2. **New standing angle for future runs**: `extendedBios.js` FAQ answers can contradict that same entry's `bands`/`careerHighlights` array on tenure years/band membership — a different shape than the already-closed gearHighlights-vs-FAQ (gear brand) and sources.items (citation) sweeps. Only 3 profiles checked this run (derek-roddy, jay-weinberg, paul-bostaph — all 3 hit); the other ~69 profiles' FAQ "What band is X in?" answers have never been cross-checked against their own `bands` array. Worth a systematic sweep next time the bank needs topping up — same audit method as the gearHighlights sweep, just a different field pair (FAQ prose vs `bands` array, not FAQ vs gearHighlights).
+3. L1/L2/L3 weekly refresh + drum-chair watch rotation both due Monday 2026-08-17 — first run that day should do both.
+4. Wincent-style dead-URL check was only run on 2 brand-guide files this pass (spotted via the fresh-gap-hunt agent, not a systematic sweep) — `packages/frontend/data/{drumstickBrands,brands,snares,cymbalSetups,pedals}.js` source/citation URLs outside `extendedBios.js` have never been systematically link-checked (only #5462's `extendedBios.js sources.items` sweep exists) — a good future angle once the bands-array-vs-FAQ sweep above is exhausted.

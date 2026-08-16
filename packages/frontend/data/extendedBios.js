@@ -7220,6 +7220,7 @@ His work with August Burns Red has earned a Grammy nomination and widespread cri
         items: [
           { q: 'What drum kit does Matt Greiner use?', a: 'Matt Greiner plays a Mapex Black Panther Design Lab kit, a maple/walnut hybrid shell pack he switched to in 2016 for August Burns Red\'s technically demanding metalcore sets, heard on albums like "Ember," "Tides," and "Death Below."' },
           { q: 'What drum set does Matt Greiner use?', a: 'Greiner\'s Mapex Black Panther Design Lab set is built around a Mapex Black Panther 14"x5.5" Maple snare and a DW 9000 Series double pedal for August Burns Red\'s blazing double bass patterns, mounted on a DW 9100 throne.' },
+          { q: 'What is Matt Greiner\'s drum setup?', a: 'Matt Greiner\'s drum setup is a Mapex Black Panther Design Lab kit (maple/walnut hybrid shells) paired with Paiste Formula 602 cymbals, a DW 9000 Series double pedal, and his own Vic Firth signature sticks — built for August Burns Red\'s technically demanding metalcore sets.' },
           { q: 'What cymbals does Matt Greiner play?', a: 'Matt Greiner plays Paiste Formula 602 cymbals: 14" Hi-Hats, 16", 17", and 18" Crashes, a 22" Ride, an 18" China, and a 10" Splash.' },
           { q: 'What snare does Matt Greiner use?', a: 'His main snare is a Mapex Black Panther 14"x5.5" Maple, delivering the warm crack that anchors August Burns Red\'s arrangements.' },
           { q: 'What sticks does Matt Greiner use?', a: 'Matt Greiner plays his own Vic Firth Matt Greiner Signature drumsticks.' },

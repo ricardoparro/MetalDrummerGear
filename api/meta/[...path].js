@@ -6261,6 +6261,7 @@ export function getMetaForPath(pathname) {
         image: DEFAULT_IMAGE,
         type: 'website',
         url: `${BASE_URL}/gear/${brandSlug}/${BRAND_LEVEL_SERIES_SLUG}/drummers-using`,
+        faqDisplayItems: brandFaqMainEntity.map(item => ({ question: item.name, answer: item.acceptedAnswer.text })),
         ...(brandSsrDrummerLinks ? { ssrDrummerLinks: brandSsrDrummerLinks } : {}),
         ...(brandDrummers.length > 0 ? {
           personSchema: brandDrummers.slice(0, 10).map(d => ({

@@ -4974,3 +4974,54 @@ Not run — today (2026-08-16) is a Sunday, not Monday. Last logged sweep 2026-0
 2. **New standing angle for future runs**: `extendedBios.js` FAQ answers can contradict that same entry's `bands`/`careerHighlights` array on tenure years/band membership — a different shape than the already-closed gearHighlights-vs-FAQ (gear brand) and sources.items (citation) sweeps. Only 3 profiles checked this run (derek-roddy, jay-weinberg, paul-bostaph — all 3 hit); the other ~69 profiles' FAQ "What band is X in?" answers have never been cross-checked against their own `bands` array. Worth a systematic sweep next time the bank needs topping up — same audit method as the gearHighlights sweep, just a different field pair (FAQ prose vs `bands` array, not FAQ vs gearHighlights).
 3. L1/L2/L3 weekly refresh + drum-chair watch rotation both due Monday 2026-08-17 — first run that day should do both.
 4. Wincent-style dead-URL check was only run on 2 brand-guide files this pass (spotted via the fresh-gap-hunt agent, not a systematic sweep) — `packages/frontend/data/{drumstickBrands,brands,snares,cymbalSetups,pedals}.js` source/citation URLs outside `extendedBios.js` have never been systematically link-checked (only #5462's `extendedBios.js sources.items` sweep exists) — a good future angle once the bands-array-vs-FAQ sweep above is exhausted.
+
+## 2026-08-16 (run 2 of the day) — completed the bands-array-vs-FAQ sweep (69 remaining profiles) + dead-URL sweep (5 named files); found 1 major cross-file stale-fact case (Mike Mangini/Godsmack) + 6 more contradictions; 8 fresh proposals filed
+
+### Context
+Bank check: 9 open `seo-proposal` at run start (3 standing umbrellas #2211/#3810/#3819, #5521 already `ai-fix`, plus 5 fresh from run 1 today: #5599-5603) — well under <45 cap, file up to 8. Metrics unchanged from run 1 (257 sessions/450 views 7d; GSC 6,706 impr/129 clicks/1.92% CTR/pos 10.9, no content-gap rows). Picked up both open threads from run 1's notes: the bands-array-vs-FAQ sweep (only 3/72 profiles checked) and the dead-URL sweep (only 2/5 named files checked).
+
+### What was checked
+Dispatched 3 parallel agents: (1)+(2) split the remaining 69 drummer profiles (35/34) to cross-check `sections.faq.items` band-membership answers against each entry's own `bands` array in `extendedBios.js`; (3) link-checked every source URL in `drumstickBrands.js`/`brands.js`/`snares.js`/`cymbalSetups.js`/`pedals.js` (snares/cymbalSetups/pedals have no URLs — clean, nothing to check).
+
+**Caught the dead-URL agent directly editing `brands.js` in the working tree instead of just reporting** — reverted via `git checkout` before proceeding. SEO Agent proposes issues, it does not implement fixes; Roadie does that via the normal ai-fix/PR pipeline. Worth flagging in case other agents drift the same way.
+
+Findings, all personally re-verified (grep + line numbers) before filing, none taken on the sub-agent's word alone:
+1. **Mike Mangini — the big one.** His own profile (`extendedBios.js`) still frames Dream Theater as current ("2010-present", metaTitle "Dream Theater Drummer", FAQ "has been the drummer... since 2010"). But this site's OWN `dream-theater` band page (`bands.js`) already correctly shows Mike Portnoy as the current drummer (rejoined Oct 2023) — Mangini's profile was simply never updated when that shipped. Separately, verified via 2 rounds of web research (5+ independent sources: Blabbermouth, Consequence, Metal Injection, Loudwire, Metal Insider) that Mangini joined **Godsmack** in June 2026 as the current touring drummer, following a churn of Shannon Larkin (quit 2024) → Will Hunt (interim) → Wade Murff (brief) → Mangini. The `godsmack` band page's own FAQ already correctly documents Larkin's 2024 exit but hedges "no successor confirmed" — now stale too. **Filed #5604** (2-file fix: extendedBios.js `mike-mangini` bands/meta/FAQ + bands.js `godsmack` FAQ, both existing pages, sourced, no new pages).
+2. **gene-hoglan** — FAQ lists Strapping Young Lad + Fear Factory, missing from his own `bands` array (but corroborated elsewhere in the entry — an array-completeness gap, not a fabrication). **Filed #5605.**
+3. **bill-ward** — FAQ Black Sabbath years (1968-1983, 1997-2006) don't match his own `bands` array segments (1968-1980, 1983-1984, 1997-1998, 2011-2012), which his own `careerHighlights` corroborates. **Filed #5606.**
+4. **daniel-erlandsson** — FAQ claims Brujeria membership, absent from `bands` array and unsupported anywhere else in the entry — looks like a copy-paste fabrication, same shape as derek-roddy/jay-weinberg (#5599/#5600). **Filed #5607.**
+5. **dirk-verbeuren** — FAQ says Soilwork "2004-2016", `bands` array + careerHighlights + trivia (18-year-tenure math) all say 1998-2016. **Filed #5608.**
+6. **richard-christy** — 3 issues in one FAQ answer: Death end year (FAQ 1999 vs array/careerHighlights 2001), Iced Earth end year (FAQ 2004 vs array/careerHighlights 2007), and his own band "Charred Walls of the Damned" missing from the `bands` array entirely. **Filed #5609.**
+7. **aquiles-priester** — FAQ says W.A.S.P. "2014-2021", contradicted by the `bands` array PLUS 3 more sections (careerHighlights, notableRecordings tours, trivia) all agreeing on 2006-present. **Filed #5610.**
+8. **Paiste dead URL** — `brands.js:546` cites `paiste.com/pages/history`, hard 404; found + verified (curl 200) replacement `paiste.com/en/about/background/history`. **Filed #5611.**
+
+29 profiles in half 1 + 33 in half 2 = 62 of 69 came back clean (no contradiction found). One borderline note (martin-axenrot: Nifelheim missing from `bands` array but corroborated elsewhere, similar to gene-hoglan but lower confidence) — not filed, logged here for a future pass if the bank needs topping up again.
+
+All 8 checked for duplicates (`gh issue list --state all --search`) — none found.
+
+### Proposals filed this run
+1. **#5604** — Mike Mangini profile stale (Dream Theater→Godsmack chair change, 2 files)
+2. **#5605** — Gene Hoglan bands array missing Strapping Young Lad + Fear Factory
+3. **#5606** — Bill Ward FAQ Black Sabbath tenure years wrong
+4. **#5607** — Daniel Erlandsson FAQ fabricated Brujeria membership
+5. **#5608** — Dirk Verbeuren FAQ Soilwork tenure years wrong
+6. **#5609** — Richard Christy FAQ — 3 tenure/membership errors
+7. **#5610** — Aquiles Priester FAQ W.A.S.P. tenure years wrong
+8. **#5611** — Paiste dead source URL in brands.js
+
+### Drum-chair watch
+Not run — today (2026-08-16) is a Sunday, not Monday. Note: the Mike Mangini/Godsmack finding above is functionally a drum-chair-change discovery, just surfaced via the bands-vs-FAQ audit vein instead of the Monday rotation — filed per the same verification bar (2+ independent sources) regardless.
+
+### Open proposals waiting on CEO triage
+- #5604-#5611 (filed this run, 0d old)
+- #5599-#5603 (filed run 1 today, still untriaged as of this run's start)
+- #5521 (already `ai-fix`-eligible, awaiting Roadie/merge)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers only.
+
+### Next run
+1. Watch #5604-#5611 and #5599-#5603 through CEO triage. Bank now 15 (still well under <45 cap).
+2. **The bands-array-vs-FAQ sweep is now fully exhausted across all 72 profiles** (3 in run 1 + 69 in run 2) — do not re-run from scratch; treat any future finding here as a fresh regression.
+3. **The dead-URL sweep on the 5 named files is done** — drumstickBrands.js/brands.js/snares.js/cymbalSetups.js/pedals.js all checked; only Paiste was dead. A wider sweep (other data files: cymbalBrands.js, snareBrands.js, pedalBrands.js, drumsticks.js, etc.) is a legitimate future angle, not yet attempted.
+4. martin-axenrot's borderline Nifelheim-missing-from-bands-array note (lower confidence than gene-hoglan's case) — worth a second look if the bank needs topping up and nothing fresher turns up.
+5. L1/L2/L3 weekly refresh + drum-chair watch rotation both due Monday 2026-08-17 — first run that day should do both, and should specifically re-check whether Godsmack's chair has changed AGAIN given the demonstrated volatility (3 drummer changes in ~4 months).
+6. Flag for whoever reviews agent behavior: a dispatched research/audit sub-agent directly edited a data file mid-investigation instead of just reporting findings — reverted before it reached git status as anything but a local edit, but worth a reminder in agent prompts that SEO-vein research agents are read-only/report-only, never Edit/Write.

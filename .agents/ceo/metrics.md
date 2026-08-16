@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-16 02:15 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-16 07:22 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,17 +8,17 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 193 |
-| Sessions | 252 |
-| Page views | 446 |
-| Engagement rate | 54.76% |
-| Avg session (s) | 182 |
+| Active users | 196 |
+| Sessions | 257 |
+| Page views | 450 |
+| Engagement rate | 53.70% |
+| Avg session (s) | 181 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
+| / | 35 | 21 |
 | /drummers | 34 | 8 |
-| / | 33 | 19 |
 | /articles/obsolete-drum-setup | 19 | 1 |
 | /gear | 14 | 4 |
 | /drummer/danny-carey | 9 | 4 |
@@ -31,16 +31,16 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 202 | 148 |
-| Direct | 49 | 43 |
-| Unassigned | 28 | 24 |
+| Organic Search | 204 | 149 |
+| Direct | 51 | 45 |
+| Unassigned | 32 | 26 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 103 | 78 |
+| United States | 105 | 78 |
 | France | 16 | 8 |
-| Germany | 14 | 11 |
+| Germany | 15 | 12 |
 | Canada | 11 | 6 |
 | Australia | 7 | 7 |
 | Brazil | 6 | 4 |
@@ -52,38 +52,38 @@
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 5,710 |
-| Clicks | 97 |
-| CTR | 1.70% |
-| Avg position | 11.1 |
+| Impressions | 6,706 |
+| Clicks | 129 |
+| CTR | 1.92% |
+| Avg position | 10.9 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| best death metal drummers | 6 | 1 | 16.67% | 8.8 |
-| danny carey drum setup | 7 | 1 | 14.29% | 15.4 |
-| danny carey drumkit | 12 | 1 | 8.33% | 8.0 |
-| eloy casagrande drum kit | 17 | 1 | 5.88% | 9.4 |
-| mastodon drum kit | 2 | 1 | 50.00% | 4.5 |
-| matt greiner drum setup | 15 | 1 | 6.67% | 8.7 |
-| mikkey dee drum set | 1 | 1 | 100.00% | 6.0 |
-| nick menza drum kit | 3 | 1 | 33.33% | 6.7 |
-| "12 hours" debut album 1970 | 1 | 0 | 0.00% | 10.0 |
-| "12 hours" debut album 1970s | 7 | 0 | 0.00% | 10.0 |
+| jaska raatikainen drum set | 6 | 2 | 33.33% | 4.0 |
+| best death metal drummers | 7 | 1 | 14.29% | 8.6 |
+| best metal drum kit | 1 | 1 | 100.00% | 21.0 |
+| best metal drummers of all time | 18 | 1 | 5.56% | 8.9 |
+| danny carey drum setup | 9 | 1 | 11.11% | 14.3 |
+| danny carey drumkit | 15 | 1 | 6.67% | 8.2 |
+| eloy casagrande drum kit | 19 | 1 | 5.26% | 9.3 |
+| john otto drum kit | 14 | 1 | 7.14% | 5.2 |
+| mastodon drum kit | 4 | 1 | 25.00% | 5.3 |
+| matt greiner drum setup | 22 | 1 | 4.55% | 8.6 |
 
 ### Top countries (impressions, last 7d)
 | Country | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| usa | 1,957 | 33 | 1.69% | 10.9 |
-| deu | 214 | 6 | 2.80% | 9.2 |
-| esp | 70 | 6 | 8.57% | 10.0 |
-| ita | 91 | 5 | 5.49% | 8.6 |
-| aus | 247 | 4 | 1.62% | 9.4 |
-| fra | 140 | 4 | 2.86% | 13.0 |
-| mex | 72 | 4 | 5.56% | 12.5 |
-| pol | 92 | 4 | 4.35% | 9.1 |
-| bra | 165 | 3 | 1.82% | 8.0 |
-| can | 248 | 3 | 1.21% | 10.6 |
+| usa | 2,347 | 47 | 2.00% | 10.6 |
+| deu | 252 | 7 | 2.78% | 9.0 |
+| esp | 81 | 7 | 8.64% | 10.9 |
+| fra | 167 | 6 | 3.59% | 12.1 |
+| ita | 100 | 6 | 6.00% | 8.5 |
+| aus | 283 | 5 | 1.77% | 9.2 |
+| rus | 76 | 5 | 6.58% | 8.4 |
+| can | 291 | 4 | 1.37% | 10.5 |
+| mex | 83 | 4 | 4.82% | 11.9 |
+| pol | 108 | 4 | 3.70% | 8.6 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 _no significant gaps detected — all queries with traction have decent CTR_

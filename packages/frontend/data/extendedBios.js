@@ -2489,20 +2489,23 @@ His drumming style combines relentless blast beats, complex double bass patterns
     drummerId: 52,
     name: 'Mike Mangini',
     bands: [
-      { slug: 'dream-theater', period: '2010-present', role: 'Drummer' },
+      { slug: 'dream-theater', period: '2010-2023', role: 'Drummer' },
+      { slug: 'godsmack', period: '2026-present', role: 'Drummer' },
       { slug: 'extreme', period: '1999-2008, 2014-present', role: 'Drummer' },
       { slug: 'annihilator', period: '1999', role: 'Drummer' },
       { slug: 'steve-vai', period: '1996-2000', role: 'Drummer' }
     ],
-    metaTitle: 'Mike Mangini Drum Kit & Gear Setup — Dream Theater Drummer | MetalForge',
-    metaDescription: 'Complete biography of Mike Mangini, Dream Theater drummer, Berklee professor, and world record holder. Explore his technical mastery, educational contributions, and progressive metal legacy.',
+    metaTitle: 'Mike Mangini Drum Kit & Gear Setup — Godsmack & Dream Theater Drummer | MetalForge',
+    metaDescription: 'Complete biography of Mike Mangini, Godsmack\'s touring drummer since 2026 and Dream Theater\'s drummer from 2010-2023, Berklee professor, and world record holder. Explore his technical mastery, educational contributions, and progressive metal legacy.',
     ogImage: '/images/drummers/mike-mangini.webp',
     sections: {
       overview: {
         title: 'Overview',
         content: `Mike Mangini (born April 18, 1963, in Newton, Massachusetts) is an American drummer who joined progressive metal legends Dream Theater in 2010, succeeding founding member Mike Portnoy. A former professor at Berklee College of Music, Mangini holds multiple world records for drumming speed and is widely regarded as one of the most technically proficient drummers alive.
 
-Before Dream Theater, Mangini built an impressive resume with Steve Vai, Extreme, Annihilator, and James LaBrie's solo projects. His academic approach to drumming—combining mathematics, physics, and biomechanics—has revolutionized how drummers approach technique and education. Mangini's ability to navigate Dream Theater's complex compositions while adding his own innovations has cemented his place among progressive metal's elite.`
+Before Dream Theater, Mangini built an impressive resume with Steve Vai, Extreme, Annihilator, and James LaBrie's solo projects. His academic approach to drumming—combining mathematics, physics, and biomechanics—has revolutionized how drummers approach technique and education. Mangini's ability to navigate Dream Theater's complex compositions while adding his own innovations has cemented his place among progressive metal's elite.
+
+Mangini left Dream Theater in 2023 when Mike Portnoy rejoined the band, and in June 2026 he stepped in as Godsmack's touring drummer following Wade Murff's departure.`
       },
       careerHighlights: {
         title: 'Career Highlights',
@@ -2518,7 +2521,9 @@ Before Dream Theater, Mangini built an impressive resume with Steve Vai, Extreme
           { year: '2013', event: 'Released self-titled "Dream Theater" album' },
           { year: '2016', event: 'Released "The Astonishing," ambitious rock opera double album' },
           { year: '2019', event: 'Released "Distance Over Time," critically acclaimed return to roots' },
-          { year: '2021', event: 'Released "A View from the Top of the World"' }
+          { year: '2021', event: 'Released "A View from the Top of the World"' },
+          { year: '2023', event: 'Departed Dream Theater following Mike Portnoy\'s return to the band' },
+          { year: '2026', event: 'Joined Godsmack as touring drummer' }
         ]
       },
       styleAndInfluences: {
@@ -2597,7 +2602,7 @@ Before Dream Theater, Mangini built an impressive resume with Steve Vai, Extreme
       faq: {
         title: 'Frequently Asked Questions',
         items: [
-          { q: 'What band does Mike Mangini play drums for?', a: 'Mike Mangini has been the drummer for Dream Theater since 2010, and also drums for Extreme.' },
+          { q: 'What band does Mike Mangini play drums for?', a: 'Mike Mangini drummed for Dream Theater from 2010 to 2023, and has been Godsmack\'s touring drummer since June 2026. Before Dream Theater, he also played with Extreme, Steve Vai, and Annihilator.' },
           { q: 'What drums does Mike Mangini play?', a: 'Mike Mangini plays a Pearl Reference Series drum kit.' },
           { q: 'What drum kit does Mike Mangini play?', a: 'Mike Mangini\'s drum kit is a Pearl Reference Series shell pack built around two signature-spec Pearl Reference brass snares (14"x5" and 14"x6.5"), with Evans drumheads.' },
           { q: 'What drum set does Mike Mangini play?', a: 'Mike Mangini\'s drum set pairs Pearl Reference Series shells and his two Pearl Reference brass snares with Sabian HHX and AAX Series cymbals, plus a Roland SPD-SX sampling pad for electronic textures.' },
@@ -2614,7 +2619,10 @@ Before Dream Theater, Mangini built an impressive resume with Steve Vai, Extreme
         items: [
           { name: 'Pearl Drums Artist Profile', url: 'https://pearldrum.com' },
           { name: 'Sabian Artist Profile', url: 'https://sabian.com' },
-          { name: 'Wikipedia: Mike Mangini', url: 'https://en.wikipedia.org/wiki/Mike_Mangini' }
+          { name: 'Wikipedia: Mike Mangini', url: 'https://en.wikipedia.org/wiki/Mike_Mangini' },
+          { name: 'Blabbermouth: Godsmack Recruits Ex-Dream Theater Drummer Mike Mangini', url: 'https://blabbermouth.net/news/godsmack-recruits-ex-dream-theater-drummer-mike-mangini-following-departure-of-wade-murff' },
+          { name: 'Consequence: Mike Mangini, Ex-Dream Theater, Joins Godsmack', url: 'https://consequence.net/2026/06/mike-mangini-ex-dream-theater-joins-godsmack/' },
+          { name: 'Metal Injection: Mike Mangini Joins Godsmack as New Drummer', url: 'https://metalinjection.net/news/mike-mangini-joins-godsmack-as-new-drummer' }
         ]
       }
     }

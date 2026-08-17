@@ -265,7 +265,7 @@ export const gearComparisons = {
           manufacturing: 'Hand-hammered',
           origin: 'Canada',
         },
-        usedBy: ['Tomas Haake', 'Danny Carey', 'Mike Portnoy'],
+        usedBy: ['Tomas Haake', 'Mike Portnoy'],
         bestFor: 'Progressive metal, studio recording',
         rating: 4.7,
       },

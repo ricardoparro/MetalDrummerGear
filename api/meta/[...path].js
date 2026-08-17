@@ -6762,7 +6762,11 @@ export function getMetaForPath(pathname) {
         // the number first; song.metaTitle overrides the default template to
         // front-load it for the pages GSC flagged with 0% CTR at pos 6-9.
         title: song.metaTitle || `"${song.song}" by ${song.band} — BPM, Drummer & Tempo | ${SITE_NAME}`,
-        description: `${song.song} by ${song.band} is ${song.bpm} BPM (${song.tier.label}), drummed by ${drummerName} on ${song.album} (${song.year}).${song.bpmNote ? ` ${song.bpmNote}.` : ''}`,
+        // Issue #5692: title-only fix left the description a flat fact restatement,
+        // which stayed at 0% CTR for 3 straight weeks post-deploy — song.metaDescription
+        // overrides with an answer-first lead + one line of context (same pattern as
+        // the danny-carey-kit fix, learned-patterns.md 2026-08-03).
+        description: song.metaDescription || `${song.song} by ${song.band} is ${song.bpm} BPM (${song.tier.label}), drummed by ${drummerName} on ${song.album} (${song.year}).${song.bpmNote ? ` ${song.bpmNote}.` : ''}`,
         image: DEFAULT_IMAGE,
         type: 'article',
         url: songUrl,

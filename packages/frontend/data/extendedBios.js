@@ -4947,7 +4947,7 @@ Priester is considered one of the greatest power metal drummers in the world. Hi
     drummerId: 18,
     name: 'Ray Luzier',
     bands: [
-      { slug: 'korn', period: '2007-present', role: 'Drummer' },
+      { slug: 'korn', period: '2009-present', role: 'Drummer' },
       { slug: 'kxm', period: '2014-present', role: 'Drummer' },
       { slug: 'army-of-anyone', period: '2006-2007', role: 'Drummer' },
       { slug: 'david-lee-roth', period: '1997-2005', role: 'Touring drummer' }

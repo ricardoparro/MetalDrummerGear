@@ -5109,3 +5109,33 @@ Ruled out / deferred: the research agent surfaced many more stale `drummerCompar
 3. Jaska Raatikainen's birthdate (#5659) needs an external source before the CEO can promote it as a clean fix — flag this explicitly if it stalls in triage.
 4. Next drum-chair rotation group (week 35, week%4=3): pantera, periphery, sepultura, slayer, slipknot, sons-of-apollo, suicidal-tendencies, testament, tool, vader, volto — due next Monday 2026-08-24.
 5. L1/L2/L3 weekly refresh due ~08-17 (today) — watch for it landing later today/this week; not yet refreshed as of this run.
+
+## 2026-08-17 (later same day) — 7 fresh data-contradiction proposals filed in 4 NEW files, avoided the already-mined vein
+
+### Context
+Bank check at run start: 7 open `seo-proposal` (3 standing umbrellas #2211/#3810/#3819 + #5656-#5659, the earlier run's batch, apparently still carrying the `seo-proposal` label post-promotion) — well under <45 cap → file up to 8. Metrics unchanged (210 users/278 sessions/508 views 7d; GSC 6,577 impr/126 clicks/1.92% CTR/pos 10.7, no content-gap rows). Robots.txt re-confirmed clean (9 AI crawlers explicitly allowed, `api/robots.js`). `/llms/*` endpoints present (2,002 files across 20 route families). L1/L2/L3 snapshots still dated 08-10, weekly refresh not yet landed.
+
+### What was checked
+The data-contradiction vein (fabricated gear brands, wrong tenure/join years, misattributed bios) has been extremely heavily mined in the last 36h — 30+ `seo-proposal`/`ai-fix` issues since 08-15 across `drummerComparisons.js`, `drummerEvolution.js`, `top10Lists.js`, `extendedBios.js` FAQ, `bands.js`, `birthdays.js`. Per the prior run's own note, re-scoping `drummerComparisons.js` itself was explicitly deferred pending #5649/#5650/#5653 shipping — did not touch that file.
+
+Instead dispatched a research agent to check files NOT yet swept for the same bug shape: `battles.js`, `evolutionTimeline.js` (distinct from `drummerEvolution.js`), `gearComparisons.js`, `endorsementNews.js`, `trendingDrummers.js`, `signatureGear.js`, `quizData.js`, `kitQuizData.js`, `guessTheKitData.js`. `battles.js`/`trendingDrummers.js`/`quizData.js`/`guessTheKitData.js`/`signatureGear.js` had zero or already-correct drummer-specific claims. Personally re-verified every candidate finding via grep on both sides (source-of-truth line + contradicting line) before filing — caught and dropped one of the research agent's claims (a Paiste RUDE cymbal usedBy entry for Lombardo in `gearComparisons.js` that is actually correct, not a contradiction) and checked `gh issue list --state all --search` per drummer/file — no duplicates.
+
+### Proposals filed this run
+1. #5680 — SEO: Dave Lombardo gear fabricated as Pearl in evolutionTimeline.js (3rd distinct file with this exact fabrication, after drummerComparisons.js #5656 and this run's own gearComparisons.js finding)
+2. #5681 — SEO batch: Mario Duplantier gear fabricated as Pearl across 5 evolutionTimeline.js entries
+3. #5682 — SEO: Gene Hoglan's Death tenure wrong in evolutionTimeline.js — 1991 join year + Human album misattributed (bands.js's own drummerHistory says Sean Reinert recorded Human, Hoglan joined Dec 1992)
+4. #5683 — SEO batch: 2 kitQuizData.js marked-correct quiz answers have wrong gear (Gene Hoglan, Dave Lombardo) — Lombardo's entry also misattributes a Pearl Dennis Chambers signature snare to him
+5. #5684 — SEO batch: Dave Lombardo gear fabricated as Pearl across 3 gearComparisons.js entries (drums/pedal/snare)
+6. #5685 — SEO: Danny Carey wrongly listed as Sabian HHX cymbal user in gearComparisons.js (verified brand is Paiste)
+7. #5686 — SEO: Gene Hoglan's currentEndorsements wrong in endorsementNews.js (Tama/Zildjian/Vater vs verified Pearl/Sabian/ProMark)
+
+### Open proposals waiting on CEO triage
+- #5680-#5686 (filed this run, 0d old)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers only.
+- Bank now 10 (7 fresh + 3 umbrellas), well under the <45 cap.
+
+### Next run
+1. Watch #5680-#5686 through CEO triage.
+2. **Pearl-fabrication is now confirmed as a cross-file pattern for at least 2 drummers** (Lombardo: drummerComparisons.js + evolutionTimeline.js + gearComparisons.js + kitQuizData.js = 4 files; Duplantier: evolutionTimeline.js) — worth flagging to the CEO as a candidate `learned-patterns.md` auto-fast-track entry once 2-3 of these ship, same shape as the closed gearHighlights-vs-FAQ class but keyed on "Pearl" as the specific wrong-brand placeholder across non-`extendedBios.js` files.
+3. Files still unswept for this bug class: `top10Lists.js` (only Erlandsson/Mangini/Bill Ward instances filed so far, not a full sweep), `soundLikeGuides.js`, `albumArticles.js`, `techniques.js`. Good candidate for next run once today's batch clears triage — don't re-run the same 9 files checked this run.
+4. L1/L2/L3 weekly refresh still due ~08-17 — watch for it landing.

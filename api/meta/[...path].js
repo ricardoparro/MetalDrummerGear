@@ -6762,7 +6762,10 @@ export function getMetaForPath(pathname) {
         // the number first; song.metaTitle overrides the default template to
         // front-load it for the pages GSC flagged with 0% CTR at pos 6-9.
         title: song.metaTitle || `"${song.song}" by ${song.band} — BPM, Drummer & Tempo | ${SITE_NAME}`,
-        description: `${song.song} by ${song.band} is ${song.bpm} BPM (${song.tier.label}), drummed by ${drummerName} on ${song.album} (${song.year}).${song.bpmNote ? ` ${song.bpmNote}.` : ''}`,
+        // Issue #5692: same title-override precedence as #5493's metaTitle fix —
+        // song.metaDescription overrides the generic fact-restatement template for
+        // pages GSC flagged with 0% CTR despite top-10 position after the title fix.
+        description: song.metaDescription || `${song.song} by ${song.band} is ${song.bpm} BPM (${song.tier.label}), drummed by ${drummerName} on ${song.album} (${song.year}).${song.bpmNote ? ` ${song.bpmNote}.` : ''}`,
         image: DEFAULT_IMAGE,
         type: 'article',
         url: songUrl,

@@ -588,7 +588,7 @@ export const articles = {
     "author": "MetalForge Editorial",
     "peakChart": "#1 Sweden, #8 UK, #18 Germany",
     "title": "Martin Axenrot's Drum Setup on Opeth's Heritage (2011)",
-    "description": "Discover the drum kit, cymbals, and gear Martin Axenrot used on Opeth's Heritage (2011). Complete breakdown of Axenrot's Pearl Reference Series setup, jazz brush work, and how the first fully prog-rock Opeth album reshaped his drumming vocabulary — no distorted guitars, maximum restraint.",
+    "description": "Discover the drum kit, cymbals, and gear Martin Axenrot used on Opeth's Heritage (2011). Complete breakdown of Axenrot's Sonor SQ2 setup, jazz brush work, and how the first fully prog-rock Opeth album reshaped his drumming vocabulary — no distorted guitars, maximum restraint.",
     "seoKeywords": [
       "heritage drums opeth",
       "martin axenrot heritage",
@@ -596,25 +596,25 @@ export const articles = {
       "martin axenrot 2011 drum kit",
       "opeth 2011 drums",
       "opeth prog rock drums",
-      "axenrot pearl reference heritage",
+      "axenrot sonor sq2 heritage",
       "opeth heritage jazz drums"
     ],
     "ogImage": "/images/albums/heritage-drums.webp",
     "intro": {
       "title": "The Album Where Opeth Stopped Playing Metal",
-      "content": "Released on September 20, 2011 through Roadrunner Records, Heritage is the Opeth album that answered the question Watershed had been building toward: what happens when a progressive death metal band fully commits to progressive rock? The answer was Heritage — Mikael Åkerfeldt's self-produced statement of artistic intent, an album with no distorted guitars, no death metal vocals, and a drumming vocabulary that demanded Martin Axenrot reinvent himself in real time.\n\nFor Axenrot, Heritage was the biggest challenge of his Opeth tenure. Watershed had asked him to honor the Lopez vocabulary while bringing his extreme metal background to bear. Heritage asked something categorically different: dial back every instinct from Bloodbath and Witchery, pick up brushes, and serve a 1970s prog-rock aesthetic that owed more to Jethro Tull, ELP, and early Genesis than to any metal precedent. The result is the most jazz-influenced drumming of Axenrot's career — sparse, dynamic, texture-conscious, built around ride cymbals and brushwork rather than twin-kick double bass and China cymbal accents.\n\nGear-wise, Heritage marked a shift from Axenrot's Sonor Designer / SQ2 rig to a Pearl Reference Series configuration — a decision that suited the album's more open, resonant sound. The Pearl Reference Series' thinner shell construction and enhanced resonance delivered the warmth and sustain that 70s prog-rock drumming required, and its lighter attack made brush technique and ghost note subtlety more natural to play. Where the Sonor SQ2 had been built for extreme metal precision, the Pearl Reference gave Axenrot the breath and openness Heritage demanded.\n\nProduced entirely by Mikael Åkerfeldt at Fascination Street Studios in Örebro, Heritage peaked at #1 in Sweden and #8 in the UK — commercial proof that the prog-rock pivot had an audience, however divisive the critical reception. The album split Opeth's fanbase sharply: longtime death metal listeners who wanted Ghost Reveries Part 2 were baffled, while prog-rock audiences who had never heard of Opeth discovered a band doing something genuinely adventurous. For Axenrot, it was the album that proved he was a complete drummer, not just a metal technician.",
+      "content": "Released on September 20, 2011 through Roadrunner Records, Heritage is the Opeth album that answered the question Watershed had been building toward: what happens when a progressive death metal band fully commits to progressive rock? The answer was Heritage — Mikael Åkerfeldt's self-produced statement of artistic intent, an album with no distorted guitars, no death metal vocals, and a drumming vocabulary that demanded Martin Axenrot reinvent himself in real time.\n\nFor Axenrot, Heritage was the biggest challenge of his Opeth tenure. Watershed had asked him to honor the Lopez vocabulary while bringing his extreme metal background to bear. Heritage asked something categorically different: dial back every instinct from Bloodbath and Witchery, pick up brushes, and serve a 1970s prog-rock aesthetic that owed more to Jethro Tull, ELP, and early Genesis than to any metal precedent. The result is the most jazz-influenced drumming of Axenrot's career — sparse, dynamic, texture-conscious, built around ride cymbals and brushwork rather than twin-kick double bass and China cymbal accents.\n\nGear-wise, Heritage saw no change from the Sonor Designer / SQ2 rig Axenrot had used since joining Opeth in 2006 — the reinvention on Heritage was entirely in his playing, not his equipment. The same twin-kick Sonor setup that had powered Watershed's extreme metal passages proved just as capable of the restraint, ghost notes, and brush technique the prog-rock direction demanded.\n\nProduced entirely by Mikael Åkerfeldt at Fascination Street Studios in Örebro, Heritage peaked at #1 in Sweden and #8 in the UK — commercial proof that the prog-rock pivot had an audience, however divisive the critical reception. The album split Opeth's fanbase sharply: longtime death metal listeners who wanted Ghost Reveries Part 2 were baffled, while prog-rock audiences who had never heard of Opeth discovered a band doing something genuinely adventurous. For Axenrot, it was the album that proved he was a complete drummer, not just a metal technician.",
       "keyPoints": [
         "First Opeth album with no distorted guitars — full prog-rock commitment, no compromise",
-        "Axenrot shifts to Pearl Reference Series — thinner shells, more resonance, better suited to 70s prog aesthetics",
+        "Same Sonor Designer / SQ2 kit as Watershed — the reinvention was in the playing, not the gear",
         "Jazz brushes used extensively — first time in the Opeth catalog for sustained brush technique",
         "Self-produced by Mikael Åkerfeldt at Fascination Street Studios, Örebro, Sweden",
         "Peaked at #1 in Sweden and #8 in the UK — commercial validation of the prog-rock pivot"
       ]
     },
     "drumKit": {
-      "title": "Axenrot's Pearl Reference Series: Built for Prog, Not Metal",
-      "brand": "Pearl",
-      "model": "Pearl Reference Series",
+      "title": "Axenrot's Sonor SQ2: The Same Kit, a Different Voice",
+      "brand": "Sonor",
+      "model": "Sonor Designer / SQ2 Series",
       "finish": "Natural / Custom Lacquer",
       "config": {
         "bassdrums": [
@@ -629,28 +629,28 @@ export const articles = {
           "14\" x 14\" Floor Tom",
           "16\" x 16\" Floor Tom"
         ],
-        "shells": "6-ply maple/mahogany hybrid shells for enhanced warmth and resonance"
+        "shells": "European maple shells, lightly lacquered for resonance"
       },
-      "description": "For Heritage, Martin Axenrot transitioned from his Sonor Designer / SQ2 rig to a Pearl Reference Series configuration — the most significant gear change of his Opeth tenure and a choice that made perfect sense for the album's 70s prog-rock direction. The Pearl Reference Series uses a thinner, hybrid maple/mahogany shell construction that delivers more natural sustain and resonance than the Sonor SQ2's heavier German maple shells, making it better suited to the open, breathing sound Heritage required.\n\nThe twin 22\" bass drum configuration remained — Axenrot's signature twin-kick setup that had defined his Opeth sound since Watershed — but on Heritage the kick drums are deployed with unprecedented restraint. Where Watershed's \"Heir Apparent\" had pushed the twin kicks into Bloodbath territory, Heritage's most kick-heavy moments barely register compared to the metal catalog. The Pearl Reference's kick drums in Åkerfeldt's Fascination Street production have a rounder, warmer fundamental than the Sonor SQ2's punch — appropriate for the album's softer, more atmospheric context.\n\nThe four-tom layout (10\", 12\" rack, 14\", 16\" floor) remained consistent with the Watershed configuration, honoring the Opeth drum vocabulary that Lopez had established and Axenrot had inherited. But on Heritage, the toms are used more sparingly — melodic accent voices in long arrangements rather than the aggressive fill punctuation of the metal catalog. The Pearl Reference's enhanced resonance makes each tom stroke sustain longer and decay more musically, which suits the prog-rock phrasing Axenrot developed for tracks like \"Nepenthe\" and \"Häxprocess.\"\n\nThe gear shift from Sonor to Pearl was the audible declaration that Heritage was a new chapter. Pearl Reference drums resonate differently — more openly, with more natural sustain, and with a warmth that encouraged the kind of jazz-influenced restraint Heritage demanded.",
+      "description": "For Heritage, Martin Axenrot kept the same Sonor Designer / SQ2 kit he had used on Watershed — no gear change accompanied Opeth's most drastic stylistic pivot. What changed was entirely in how he played it: the twin 22\" bass drums that had driven Watershed's extreme metal passages are deployed with unprecedented restraint on Heritage, used sparingly rather than as a constant rhythmic engine.\n\nThe twin 22\" bass drum configuration remained — Axenrot's signature twin-kick setup that had defined his Opeth sound since Watershed — but on Heritage the kick drums are deployed with unprecedented restraint. Where Watershed's \"Heir Apparent\" had pushed the twin kicks into Bloodbath territory, Heritage's most kick-heavy moments barely register compared to the metal catalog.\n\nThe four-tom layout (10\", 12\" rack, 14\", 16\" floor) remained consistent with the Watershed configuration, honoring the Opeth drum vocabulary that Lopez had established and Axenrot had inherited. But on Heritage, the toms are used more sparingly — melodic accent voices in long arrangements rather than the aggressive fill punctuation of the metal catalog. The Sonor SQ2's natural resonance makes each tom stroke sustain musically, which suits the prog-rock phrasing Axenrot developed for tracks like \"Nepenthe\" and \"Häxprocess.\"\n\nHeritage's audible new chapter came from restraint and touch, not from a change of instrument — proof that the same German-built kit could serve both extreme metal aggression and 70s prog-rock's breathing room.",
       "notes": [
-        "Pearl Reference Series replaces Sonor SQ2 — most significant gear change of the Opeth tenure",
-        "Thinner maple/mahogany hybrid shells deliver more resonance and natural sustain",
+        "Same Sonor Designer / SQ2 kit as Watershed — no gear change for Opeth's biggest stylistic pivot",
+        "European maple shells deliver the same warmth and resonance carried over from Watershed",
         "Twin 22\" bass drums retained but used with unprecedented prog-rock restraint",
         "Same four-tom layout as Watershed — Opeth vocabulary preserved even as the genre shifted",
-        "Pearl's warmer, more open sound suited Fascination Street's prog-rock production approach"
+        "The reinvention on Heritage is in the playing, not the equipment"
       ],
-      "estimatedValue": "$3,500-6,000 (Reference Series)"
+      "estimatedValue": "$4,500-7,000 (Designer Series), $8,000-15,000 (SQ2 custom configuration)"
     },
     "snare": {
       "title": "The Snare: Warm and Ghost-Note Ready",
-      "brand": "Pearl",
-      "model": "Pearl Reference Maple Snare",
-      "size": "14\" x 5.5\"",
-      "shell": "Maple",
-      "description": "Axenrot's snare on Heritage was a Pearl Reference maple snare — a natural complement to the Reference Series kit and a drum that delivered the warm, controlled response Heritage's prog-rock vocabulary demanded. At medium-low tension, the Pearl Reference maple snare produces a rounded, dry tone with excellent ghost-note sensitivity — exactly what the album's jazz-influenced drumming required.\n\nThe shift from Sonor Designer maple to Pearl Reference maple was subtle in tone but meaningful in feel. The Pearl Reference snare's slightly lighter construction gave it a more immediate response under light touch, which made brush technique and soft ghost-note work more natural to execute. On \"The Devil's Orchard\" and \"Nepenthe,\" the snare's warmth sits in the mix without cutting aggressively — serving the arrangement rather than competing with Åkerfeldt's layered keyboards and acoustic guitars.\n\nBrush technique featured on Heritage far more extensively than any previous Opeth album. The Pearl Reference maple snare's maple shell and coated Ambassador head gave brushes the natural, open sound that wire brush technique requires — a surface that allows the bristles to sweep without excessive attack, delivering the jazz-influenced textures Axenrot developed for the prog-rock arrangements.",
+      "brand": "Sonor",
+      "model": "Sonor Designer Maple Snare",
+      "size": "14\" x 5.75\"",
+      "shell": "European Maple",
+      "description": "Axenrot's snare on Heritage was the same Sonor Designer maple snare he used on Watershed — a drum that delivered the warm, controlled response Heritage's prog-rock vocabulary demanded just as well as it had anchored Watershed's heavier backbeats. At medium-low tension, the Sonor Designer maple snare produces a rounded, dry tone with excellent ghost-note sensitivity — exactly what the album's jazz-influenced drumming required.\n\nNo gear change was needed to make the shift in feel. The Sonor Designer maple's warm fundamental, already suited to Bogren's dense Watershed mix, translated naturally to Heritage's more open, ambient production. On \"The Devil's Orchard\" and \"Nepenthe,\" the snare's warmth sits in the mix without cutting aggressively — serving the arrangement rather than competing with Åkerfeldt's layered keyboards and acoustic guitars.\n\nBrush technique featured on Heritage far more extensively than any previous Opeth album. The Sonor Designer maple snare's shell and coated Ambassador head gave brushes the natural, open sound that wire brush technique requires — a surface that allows the bristles to sweep without excessive attack, delivering the jazz-influenced textures Axenrot developed for the prog-rock arrangements.",
       "tuningSetting": "Medium-low tension for warm, rounded tone with ghost-note sensitivity and brush technique compatibility",
       "heads": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)",
-      "estimatedValue": "$400-700"
+      "estimatedValue": "$500-900"
     },
     "cymbals": {
       "title": "Meinl Byzance: Dark and Restrained for the Prog Era",
@@ -690,16 +690,16 @@ export const articles = {
       "items": [
         {
           "type": "Bass Drum Pedals",
-          "brand": "Pearl",
-          "model": "Pearl Demon Drive (twin pedals)",
-          "notes": "Direct-drive twin pedals — fast response paired with the Pearl Reference kit",
-          "description": "Axenrot's transition to Pearl included the Pearl Demon Drive direct-drive twin pedals. The Demon Drive's direct-drive mechanism delivered the same 1:1 pedal-to-beater feel he had developed with the Sonor Giant Step, but optimized for the Pearl Reference kit's response. On Heritage the twin kick setup is used sparingly, but the Demon Drive's precision enables the subtle, restrained kick patterns that suit the prog-rock arrangements."
+          "brand": "Sonor",
+          "model": "Sonor Giant Step (twin pedals)",
+          "notes": "Same twin pedals as Watershed — direct 1:1 pedal-to-beater feel",
+          "description": "Axenrot used the same Sonor Giant Step twin pedals on Heritage that he had played on Watershed. On Heritage the twin kick setup is used sparingly, but the Giant Step's precision enables the subtle, restrained kick patterns that suit the prog-rock arrangements just as well as it had powered Watershed's extreme metal passages."
         },
         {
           "type": "Hi-Hat Stand",
-          "brand": "Pearl",
-          "model": "Pearl H-2050 Eliminator Hi-Hat Stand",
-          "notes": "Heavy-duty Pearl stand compatible with the Reference Series kit"
+          "brand": "Sonor",
+          "model": "Sonor 600 Series Hi-Hat Stand",
+          "notes": "Same hi-hat stand as Watershed"
         },
         {
           "type": "Throne",
@@ -710,7 +710,7 @@ export const articles = {
         {
           "type": "Sticks",
           "brand": "Vic Firth",
-          "model": "Vic Firth American Classic 5A / Jazz brushes",
+          "model": "Vic Firth American Classic 5B / Jazz brushes",
           "notes": "Heritage is the first Opeth album to feature sustained jazz brush technique on multiple tracks"
         }
       ],
@@ -722,12 +722,12 @@ export const articles = {
     },
     "recordingTechniques": {
       "title": "Self-Produced at Fascination Street: Åkerfeldt Takes the Chair",
-      "content": "Heritage was produced entirely by Mikael Åkerfeldt at Fascination Street Studios in Örebro — the first time Åkerfeldt had sole production credit on an Opeth record. The absence of an outside producer (Jens Bogren had produced Watershed; Steven Wilson had produced four albums before that) gave Åkerfeldt complete creative control and shaped every aspect of the drum sound. The production direction was explicitly 70s prog-rock: open, warm, and dynamic, with room ambience that suited the album's vintage aesthetic.\n\n**Production Direction:**\nÅkerfeldt's production on Heritage emphasized the drum kit's natural resonance and the room's ambience rather than the close-miked density of Bogren's Watershed approach. The kick drums sit back in the mix rather than dominating it. The snare has warmth and body rather than aggressive crack. The cymbals — especially the 22\" Byzance ride, which carries so much of the album — have long, complex sustain rather than tight, defined attack. This is a 70s prog-rock drum production in spirit, even if the actual microphone setup remained broadly similar to Watershed.\n\n**Brush Technique:**\nHeritage was the first Opeth album to feature sustained jazz brush technique. Axenrot's brush work appears on several tracks, adding the sweep-and-circle texture that jazz drumming requires. The Fascination Street room captured this technique naturally — the Pearl Reference Series snare's maple shell and the Byzance hi-hats responded well to the softer attack of wire brushes, and the room's ambient sound added the natural reverb that brush technique benefits from.\n\n**No Triggers, No Metal:**\nFollowing the Opeth tradition, Heritage was recorded without drum triggers. Axenrot's performances are entirely natural — which made the restraint his responsibility. The ambient room capture reinforced the vintage aesthetic Åkerfeldt was pursuing.",
+      "content": "Heritage was produced entirely by Mikael Åkerfeldt at Fascination Street Studios in Örebro — the first time Åkerfeldt had sole production credit on an Opeth record. The absence of an outside producer (Jens Bogren had produced Watershed; Steven Wilson had produced four albums before that) gave Åkerfeldt complete creative control and shaped every aspect of the drum sound. The production direction was explicitly 70s prog-rock: open, warm, and dynamic, with room ambience that suited the album's vintage aesthetic.\n\n**Production Direction:**\nÅkerfeldt's production on Heritage emphasized the drum kit's natural resonance and the room's ambience rather than the close-miked density of Bogren's Watershed approach. The kick drums sit back in the mix rather than dominating it. The snare has warmth and body rather than aggressive crack. The cymbals — especially the 22\" Byzance ride, which carries so much of the album — have long, complex sustain rather than tight, defined attack. This is a 70s prog-rock drum production in spirit, even if the actual microphone setup remained broadly similar to Watershed.\n\n**Brush Technique:**\nHeritage was the first Opeth album to feature sustained jazz brush technique. Axenrot's brush work appears on several tracks, adding the sweep-and-circle texture that jazz drumming requires. The Fascination Street room captured this technique naturally — the Sonor Designer maple snare and the Byzance hi-hats responded well to the softer attack of wire brushes, and the room's ambient sound added the natural reverb that brush technique benefits from.\n\n**No Triggers, No Metal:**\nFollowing the Opeth tradition, Heritage was recorded without drum triggers. Axenrot's performances are entirely natural — which made the restraint his responsibility. The ambient room capture reinforced the vintage aesthetic Åkerfeldt was pursuing.",
       "keyTechniques": [
         "Åkerfeldt's first sole production credit — 70s prog-rock aesthetic shapes every drum production choice",
         "Room ambience prioritized over close-miked density — opposite of Bogren's Watershed approach",
         "Sustained jazz brush technique appears for the first time in the Opeth catalog",
-        "Pearl Reference Series' natural resonance aligns with the vintage ambient production direction",
+        "The same Sonor SQ2's natural resonance aligns with the vintage ambient production direction",
         "No triggers — all performances are natural, Axenrot's restraint is his own"
       ]
     },
@@ -742,7 +742,7 @@ export const articles = {
           "Ghost notes under clean guitar passages establish Heritage's vocabulary",
           "No death metal elements — a clean break from every prior Opeth record"
         ],
-        "gearNotes": "The Meinl Byzance 22\" Traditional Medium ride carries the opening track's groove. Axenrot's ghost note work on the Pearl Reference maple snare delivers the jazz-influenced restraint Heritage demands from the first bar."
+        "gearNotes": "The Meinl Byzance 22\" Traditional Medium ride carries the opening track's groove. Axenrot's ghost note work on the Sonor Designer maple snare delivers the jazz-influenced restraint Heritage demands from the first bar."
       },
       {
         "track": "Nepenthe",
@@ -752,9 +752,9 @@ export const articles = {
           "Heritage's most dynamic track — spans soft and heavier passages",
           "Axenrot's most compositionally varied performance on the album",
           "Tom fills bridge the arrangement's shifting dynamics",
-          "Demonstrates the Pearl Reference's melodic resonance on fills"
+          "Demonstrates the Sonor SQ2's melodic resonance on fills"
         ],
-        "gearNotes": "The Pearl Reference Series floor toms deliver the natural sustain Nepenthe's melodic fills require. The 22\" Byzance ride carries the groove between sections with the same washy sustain that defined the Opeth sound across the Lopez era."
+        "gearNotes": "The Sonor SQ2 floor toms deliver the natural sustain Nepenthe's melodic fills require. The 22\" Byzance ride carries the groove between sections with the same washy sustain that defined the Opeth sound across the Lopez era."
       },
       {
         "track": "Häxprocess",
@@ -764,9 +764,9 @@ export const articles = {
           "Heritage's heaviest track — closest approach to the Watershed vocabulary",
           "Axenrot's twin-kick setup makes its clearest appearance on the album",
           "Demonstrates the dynamic range Heritage demands between soft and heavy",
-          "The Pearl Reference kick drums' warmer fundamental suits the production"
+          "The same Sonor SQ2 kick drums as Watershed, deployed with far more restraint"
         ],
-        "gearNotes": "The Pearl Demon Drive twin pedals enable the sustained patterns in Häxprocess's heavier sections. Even here, the kick drums are deployed with more restraint than on any Watershed track — serving the arrangement rather than driving it."
+        "gearNotes": "The Sonor Giant Step twin pedals enable the sustained patterns in Häxprocess's heavier sections. Even here, the kick drums are deployed with more restraint than on any Watershed track — serving the arrangement rather than driving it."
       },
       {
         "track": "Folklore",
@@ -778,13 +778,13 @@ export const articles = {
           "Meinl Byzance hi-hats respond naturally to wire brush sweeping",
           "Closest to a jazz standard approach Axenrot has used in any Opeth context"
         ],
-        "gearNotes": "Jazz brushes on the Pearl Reference maple snare and the Meinl Byzance 14\" Traditional hi-hats — the first time this combination appears in the Opeth catalog. The Pearl Reference snare's coated Ambassador head is the correct surface for wire brush technique."
+        "gearNotes": "Jazz brushes on the Sonor Designer maple snare and the Meinl Byzance 14\" Traditional hi-hats — the first time this combination appears in the Opeth catalog. The snare's coated Ambassador head is the correct surface for wire brush technique."
       }
     ],
     "faq": [
       {
         "question": "What drum kit did Martin Axenrot use on Opeth's Heritage?",
-        "answer": "Martin Axenrot recorded Opeth's Heritage (2011) using a Pearl Reference Series drum kit — a significant gear change from the Sonor Designer / SQ2 setup he had used on Watershed. The Pearl Reference Series uses thinner maple/mahogany hybrid shells that deliver more natural resonance and warmth, better suited to Heritage's 70s prog-rock aesthetic. Configuration: twin 22\"x18\" bass drums, 10\" and 12\" rack toms, 14\" and 16\" floor toms. He paired the Pearl kit with Meinl Byzance cymbals and Pearl Demon Drive direct-drive twin pedals. The kit was tracked at Fascination Street Studios in Örebro, Sweden, produced by Mikael Åkerfeldt."
+        "answer": "Martin Axenrot recorded Opeth's Heritage (2011) using the same Sonor Designer / SQ2 drum kit he had used on Watershed — no gear change accompanied the band's stylistic pivot to prog rock. Configuration: twin 22\"x18\" bass drums, 10\" and 12\" rack toms, 14\" and 16\" floor toms. He paired the Sonor kit with Meinl Byzance cymbals and Sonor Giant Step twin pedals. The kit was tracked at Fascination Street Studios in Örebro, Sweden, produced by Mikael Åkerfeldt."
       },
       {
         "question": "Why did Opeth go prog on Heritage?",
@@ -800,12 +800,12 @@ export const articles = {
       },
       {
         "question": "How does Heritage connect to Watershed and Pale Communion in the Axenrot discography?",
-        "answer": "Heritage (2011) sits between Watershed (2008) and Pale Communion (2014) as the middle chapter of Opeth's prog transition. Watershed was the bridge record — still containing death metal vocals and aggressive passages while leaning toward prog-rock textures. Heritage was the full commitment: no distorted guitars, no metal vocals, complete prog-rock statement. Pale Communion extended Heritage's vocabulary with a more refined 70s prog aesthetic, bringing Steven Wilson back to mix and delivering the most compositionally coherent of the three prog-era albums. The gear thread running through all three is the Pearl Reference Series and Meinl Byzance cymbals — consistent tools that Axenrot adapted to each album's specific requirements. For the full arc, see the [Watershed drum setup](/articles/watershed-drum-setup) and [Pale Communion drum setup](/articles/pale-communion-drum-setup)."
+        "answer": "Heritage (2011) sits between Watershed (2008) and Pale Communion (2014) as the middle chapter of Opeth's prog transition. Watershed was the bridge record — still containing death metal vocals and aggressive passages while leaning toward prog-rock textures. Heritage was the full commitment: no distorted guitars, no metal vocals, complete prog-rock statement. Pale Communion extended Heritage's vocabulary with a more refined 70s prog aesthetic, bringing Steven Wilson back to mix and delivering the most compositionally coherent of the three prog-era albums. The gear thread running through all three is the same Sonor Designer / SQ2 kit and Meinl Byzance cymbals — consistent tools that Axenrot adapted to each album's specific requirements. For the full arc, see the [Watershed drum setup](/articles/watershed-drum-setup) and [Pale Communion drum setup](/articles/pale-communion-drum-setup)."
       }
     ],
     "conclusion": {
       "title": "The Album That Proved Axenrot Was More Than a Metal Drummer",
-      "content": "Heritage is the album where Martin Axenrot proved he was not just an extreme metal technician who happened to be sitting behind the Opeth drum kit. The album asked him to abandon every instinct from Bloodbath and Witchery, pick up brushes, and serve a 1970s prog-rock aesthetic that had no use for twin-kick double bass or China cymbal accents. His response was Heritage's drumming — sparse, dynamic, texture-conscious, and exactly right for the album Mikael Åkerfeldt needed to make.\n\nThe Pearl Reference Series transition was the gear statement that Heritage required. Thinner shells, more resonance, warmer fundamentals — the right tools for a 70s prog-rock production that prioritized room ambience and natural sustain over the close-miked density of the Bogren/Watershed approach. The Meinl Byzance ride's complex, washy sustain became the album's defining drum voice, carrying melodic patterns across long arrangements in the tradition of jazz drumming.\n\nHeritage split Opeth's fanbase, confused rock critics, and initiated the most-discussed phase of the band's career. For drummers, it demonstrated something more important: that the skills required for exceptional progressive rock drumming — restraint, texture, dynamic storytelling, jazz sensibility — are not lesser skills than the aggression and technique of extreme metal. They are different skills, harder in some ways, and Martin Axenrot developed them on Heritage.\n\nFor the prog-era arc: [Watershed drum setup](/articles/watershed-drum-setup) — the bridge record. [Pale Communion drum setup](/articles/pale-communion-drum-setup) — the 70s prog refinement. [Sorceress drum setup](/articles/sorceress-drum-setup) — the Nuclear Blast era. And [Martin Axenrot's drummer profile](/drummer/martin-axenrot) for the complete career view."
+      "content": "Heritage is the album where Martin Axenrot proved he was not just an extreme metal technician who happened to be sitting behind the Opeth drum kit. The album asked him to abandon every instinct from Bloodbath and Witchery, pick up brushes, and serve a 1970s prog-rock aesthetic that had no use for twin-kick double bass or China cymbal accents. His response was Heritage's drumming — sparse, dynamic, texture-conscious, and exactly right for the album Mikael Åkerfeldt needed to make.\n\nNotably, no gear change accompanied this reinvention. The same Sonor Designer / SQ2 kit that had powered Watershed's extreme metal passages proved just as capable of Heritage's restraint and warmth — the right tools for a 70s prog-rock production that prioritized room ambience and natural sustain over the close-miked density of the Bogren/Watershed approach. The Meinl Byzance ride's complex, washy sustain became the album's defining drum voice, carrying melodic patterns across long arrangements in the tradition of jazz drumming.\n\nHeritage split Opeth's fanbase, confused rock critics, and initiated the most-discussed phase of the band's career. For drummers, it demonstrated something more important: that the skills required for exceptional progressive rock drumming — restraint, texture, dynamic storytelling, jazz sensibility — are not lesser skills than the aggression and technique of extreme metal. They are different skills, harder in some ways, and Martin Axenrot developed them on Heritage.\n\nFor the prog-era arc: [Watershed drum setup](/articles/watershed-drum-setup) — the bridge record. [Pale Communion drum setup](/articles/pale-communion-drum-setup) — the 70s prog refinement. [Sorceress drum setup](/articles/sorceress-drum-setup) — the Nuclear Blast era. And [Martin Axenrot's drummer profile](/drummer/martin-axenrot) for the complete career view."
     },
     "schema": {
       "@context": "https://schema.org",
@@ -813,7 +813,7 @@ export const articles = {
         {
           "@type": "Article",
           "headline": "Martin Axenrot's Drum Setup on Opeth's Heritage (2011)",
-          "description": "Discover the drum kit, cymbals, and gear Martin Axenrot used on Opeth's Heritage (2011). Complete breakdown of Axenrot's Pearl Reference Series setup, jazz brush work, and how the first fully prog-rock Opeth album reshaped his drumming vocabulary.",
+          "description": "Discover the drum kit, cymbals, and gear Martin Axenrot used on Opeth's Heritage (2011). Complete breakdown of Axenrot's Sonor SQ2 setup, jazz brush work, and how the first fully prog-rock Opeth album reshaped his drumming vocabulary.",
           "author": {
             "@type": "Organization",
             "name": "MetalForge Editorial"
@@ -852,7 +852,7 @@ export const articles = {
               "name": "What drum kit did Martin Axenrot use on Opeth's Heritage?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Martin Axenrot recorded Opeth's Heritage in 2011 using a Pearl Reference Series drum kit with twin 22 inch bass drums, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. He paired the Pearl kit with Meinl Byzance cymbals and Pearl Demon Drive direct-drive twin pedals. Recorded at Fascination Street Studios in Orebro, Sweden, produced by Mikael Akerfeldt."
+                "text": "Martin Axenrot recorded Opeth's Heritage in 2011 using the same Sonor Designer / SQ2 drum kit he played on Watershed, with twin 22 inch bass drums, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. He paired the Sonor kit with Meinl Byzance cymbals and Sonor Giant Step twin pedals. Recorded at Fascination Street Studios in Orebro, Sweden, produced by Mikael Akerfeldt."
               }
             },
             {
@@ -860,7 +860,7 @@ export const articles = {
               "name": "Why did Opeth go prog on Heritage?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Heritage represents Mikael Akerfeldt's decisive commitment to 1970s progressive rock influences — Jethro Tull, ELP, early Genesis, King Crimson — that had been signaled across the Opeth catalog since at least Damnation. No distorted guitars, no death metal vocals, full prog-rock statement. For Axenrot, the album demanded jazz brush technique, ride-cymbal-forward phrasing, and restrained vocabulary that the Pearl Reference Series and Meinl Byzance setup served well."
+                "text": "Heritage represents Mikael Akerfeldt's decisive commitment to 1970s progressive rock influences — Jethro Tull, ELP, early Genesis, King Crimson — that had been signaled across the Opeth catalog since at least Damnation. No distorted guitars, no death metal vocals, full prog-rock statement. For Axenrot, the album demanded jazz brush technique, ride-cymbal-forward phrasing, and restrained vocabulary that the same Sonor SQ2 and Meinl Byzance setup he used on Watershed served well."
               }
             },
             {

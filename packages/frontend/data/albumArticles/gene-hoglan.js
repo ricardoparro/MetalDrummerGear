@@ -234,7 +234,7 @@ export const articles = {
           "event": "\"Darkness Descends\" — thrash metal landmark"
         },
         {
-          "year": "1991",
+          "year": "1992",
           "event": "Joined Chuck Schuldiner's Death"
         },
         {

@@ -16,12 +16,12 @@ export const articles = {
     "dateModified": "2026-05-03",
     "author": "MetalForge Editorial",
     "title": "What's In Abe Cunningham's Deftones Arsenal: Complete Gear Breakdown",
-    "description": "Discover the exact drums, cymbals, and gear behind Abe Cunningham's signature groove. Complete breakdown of his Tama Starclassic setup, Zildjian cymbals, and the philosophy behind one of alternative metal's most distinctive drummers.",
+    "description": "Discover the exact drums, cymbals, and gear behind Abe Cunningham's signature groove. Complete breakdown of his SJC Custom setup, Zildjian cymbals, and the philosophy behind one of alternative metal's most distinctive drummers.",
     "seoKeywords": [
       "abe cunningham drum kit",
       "abe cunningham setup",
       "deftones drummer gear",
-      "abe cunningham tama drums",
+      "abe cunningham sjc custom drums",
       "abe cunningham cymbals",
       "deftones drums",
       "alternative metal drums",
@@ -32,7 +32,7 @@ export const articles = {
       "title": "The Groove Behind the Atmosphere",
       "content": "Abe Cunningham isn't trying to be the fastest drummer. He's not interested in the most complex fills or the biggest kit. What he does — better than almost anyone in heavy music — is make you *feel* something. For 35 years with Deftones, he's been the heartbeat of one of the most emotionally resonant bands in modern rock.\n\nBorn Abraham Cunningham on July 27, 1973, in Sacramento, California, he co-founded Deftones in 1988 as a teenager. While his classmates were studying for exams, Abe was developing a style that would help define alternative metal's atmospheric approach.\n\nWhat makes Abe Cunningham unique isn't complexity — it's restraint. His drumming breathes. It builds. It knows when to explode and when to whisper. On a song like \"Digital Bath,\" his playing is the tide — rising and falling with the emotional arc, never overwhelming, always essential.\n\nDeftones' Grammy win for \"Elite\" in 2001 validated what fans already knew: this band operated on a different level. And at the center of it all, Abe has remained a constant — the same founding member who started playing with Chino Moreno and Stephen Carpenter in their Sacramento high school.\n\nNine studio albums. Multiple platinum certifications. Millions of devoted fans. And through it all, a drummer who values groove over flash, emotion over technique, and serving the song above all else. This is his gear.",
       "keyPoints": [
-        "Tama Drums endorsee with Starclassic Maple/Bubinga setup",
+        "SJC Custom Drums endorsee with a straightforward, groove-focused setup",
         "Zildjian cymbal artist with signature drumsticks",
         "Founding member of Deftones since 1988 (age 15)",
         "Grammy Award winner for \"Elite\" (2001)",
@@ -41,9 +41,9 @@ export const articles = {
       ]
     },
     "drumKit": {
-      "title": "Abe's Tama Starclassic Setup",
-      "brand": "Tama",
-      "model": "Tama Starclassic Maple/Bubinga",
+      "title": "Abe's SJC Custom Setup",
+      "brand": "SJC Custom",
+      "model": "SJC Custom Drums",
       "finish": "Custom finishes (varies by tour)",
       "config": {
         "bassdrums": [
@@ -57,28 +57,27 @@ export const articles = {
           "14\" x 14\" Floor Tom",
           "16\" x 16\" Floor Tom"
         ],
-        "shells": "Maple/Bubinga hybrid for warmth with attack"
+        "shells": "SJC Custom shells, chosen for punchy attack and durability"
       },
-      "description": "Abe Cunningham's Tama Starclassic Maple/Bubinga kit is the perfect reflection of his musical priorities: warm, punchy, and versatile. The Maple/Bubinga shell combination provides the best of both worlds — the warmth and projection of maple with the focused attack and low-end punch of bubinga.\n\nThe 22\" bass drum is standard size but tuned for maximum punch without overwhelming sustain. Abe doesn't need the artillery of a 24\" double bass setup — he needs a kick that sits in the mix with the bass guitar, creating that Deftones signature low-end synergy.\n\nHis tom configuration is refreshingly compact: two rack toms (10\" and 12\") and two floor toms (14\" and 16\"). This gives him a melodic palette without unnecessary clutter. Every drum is there for a reason, and he uses them all.\n\nThe Starclassic series represents Tama's professional line — these are no-compromise drums built for touring and recording. The Star-Cast mounting system suspends toms for maximum resonance, and the hardware is built to withstand years of gigging.\n\nWhat's notable about Abe's setup is its efficiency. No second rack of toms. No elaborate accessory setup. Just the essentials, positioned for ergonomic playing and quick access. This mirrors his playing philosophy: strip away everything unnecessary.",
+      "description": "Abe Cunningham's SJC Custom kit is the perfect reflection of his musical priorities: punchy, durable, and versatile. He's been a longtime SJC Custom Drums endorser, using their shells for the attack and reliability that suit his groove-and-feel approach over technical complexity.\n\nThe 22\" bass drum is standard size but tuned for maximum punch without overwhelming sustain. Abe doesn't need the artillery of a 24\" double bass setup — he needs a kick that sits in the mix with the bass guitar, creating that Deftones signature low-end synergy.\n\nHis tom configuration is refreshingly compact: two rack toms (10\" and 12\") and two floor toms (14\" and 16\"). This gives him a melodic palette without unnecessary clutter. Every drum is there for a reason, and he uses them all.\n\nWhat's notable about Abe's setup is its efficiency. No second rack of toms. No elaborate accessory setup. Just the essentials, positioned for ergonomic playing and quick access. This mirrors his playing philosophy: strip away everything unnecessary.",
       "notes": [
-        "Maple/Bubinga hybrid shells for warmth and attack",
+        "SJC Custom shells for punchy attack and durability",
         "Compact configuration: 4 toms total",
         "Standard 22\" bass drum for controlled low-end",
-        "Starclassic series for professional reliability",
         "Setup prioritizes ergonomics and efficiency"
       ],
-      "estimatedValue": "$3,500-5,000 (Starclassic Maple/Bubinga kit)"
+      "estimatedValue": "$2,500-4,500 (SJC Custom shell pack)"
     },
     "snare": {
-      "title": "The Big Black Steel",
-      "brand": "Tama",
-      "model": "Tama S.L.P. Big Black Steel",
-      "size": "14\" x 8\"",
-      "shell": "Steel",
-      "description": "Abe's snare choice — the Tama S.L.P. Big Black Steel — is significant. At 14\" x 8\", it's a deep drum with serious body and projection. The steel shell delivers the crack and cut that's essential for Deftones' heavier moments.\n\nThe S.L.P. (Sound Lab Project) series represents Tama's exploration of unique snare sounds. The Big Black Steel lives up to its name: it's deep, it's powerful, and it cuts through any mix without being harsh.\n\nDeep snares (8\" and above) have become increasingly popular in modern rock and metal because they provide body that shallow snares lack. The extra depth gives Abe room to tune the drum for a satisfying fundamental note while maintaining snare response.\n\nThe black nickel hardware and black shell give it a distinctive look that matches Deftones' aesthetic. But the sound is what matters: wide dynamic range, sensitive response to ghost notes, and thunderous rimshots when needed.\n\nAbe typically tunes this snare medium — not too tight, not too loose. This allows the drum to sing on softer passages while still delivering power on heavier hits. The steel shell's inherent brightness balances the deep size.",
+      "title": "The SJC Custom Brass",
+      "brand": "SJC Custom",
+      "model": "SJC Custom Brass",
+      "size": "14\" x 6.5\"",
+      "shell": "Brass",
+      "description": "Abe's snare choice — the SJC Custom 14\" x 6.5\" Brass — delivers the crack and cut that's essential for Deftones' heavier moments while staying responsive enough for the band's quieter, atmospheric passages.\n\nBrass shells are prized in modern rock and metal for their bright, cutting crack combined with a solid low-mid body — a combination that lets the snare sit clearly in a dense mix without sounding harsh.\n\nAbe typically tunes this snare medium — not too tight, not too loose. This allows the drum to sing on softer passages while still delivering power on heavier hits.",
       "tuningSetting": "Medium tuning for balance of body and response",
       "heads": "Evans G2 Coated (batter), Evans Hazy 300 Snare Side (resonant)",
-      "estimatedValue": "$350-450 (S.L.P. Big Black Steel)"
+      "estimatedValue": "$350-450 (SJC Custom Brass, 14\"x6.5\")"
     },
     "cymbals": {
       "title": "The Zildjian Arsenal",
@@ -221,8 +220,8 @@ export const articles = {
         ],
         "description": "Triumphant return after tragedy.",
         "gear": {
-          "drums": "Tama Starclassic Maple/Bubinga",
-          "snare": "Tama S.L.P. Big Black Steel",
+          "drums": "SJC Custom",
+          "snare": "SJC Custom 14\"x6.5\" Brass",
           "cymbals": "Current A/K Custom setup",
           "hardware": "Current setup"
         },
@@ -236,8 +235,8 @@ export const articles = {
         ],
         "description": "Critical acclaim, 35+ years as a band.",
         "gear": {
-          "drums": "Tama Starclassic Maple/Bubinga",
-          "snare": "Tama S.L.P. Big Black Steel",
+          "drums": "SJC Custom",
+          "snare": "SJC Custom 14\"x6.5\" Brass",
           "cymbals": "Zildjian A/K Custom",
           "hardware": "Zildjian signature sticks"
         },
@@ -266,16 +265,16 @@ export const articles = {
       "title": "Abe's Gear You Can Still Buy Today",
       "items": [
         {
-          "item": "Tama Starclassic Maple/Bubinga Kit",
+          "item": "SJC Custom Drum Kit",
           "available": true,
           "priceRange": "$2,500-4,500",
           "notes": "Available in various configurations"
         },
         {
-          "item": "Tama S.L.P. Big Black Steel Snare",
+          "item": "SJC Custom 14\"x6.5\" Brass Snare",
           "available": true,
           "priceRange": "$350-450",
-          "notes": "Deep, powerful steel snare"
+          "notes": "Punchy, cutting brass snare"
         },
         {
           "item": "Zildjian Abe Cunningham Signature Sticks",
@@ -311,19 +310,19 @@ export const articles = {
     },
     "budgetBuild": {
       "title": "Build an Abe-Inspired Kit on a Budget",
-      "content": "Abe Cunningham's tone comes more from his hands than his gear — but smart equipment choices can get you in the ballpark without breaking the bank.\n\n**Shell Priority:**\nMaple shells will get you closest to Abe's warm, punchy sound. Budget options like Tama Superstar or Pearl Export series use quality maple and deliver professional tones at reasonable prices.\n\n**The Snare Makes the Sound:**\nA deep metal snare is essential. The Tama S.L.P. Big Black Steel is actually affordable compared to many signature snares. Alternatively, any 14\"x6.5\" or 14\"x8\" steel snare will get you in the neighborhood.\n\n**Cymbal Strategy:**\nZildjian A series cymbals can be found used for reasonable prices. Start with quality hi-hats (A New Beats if possible) and build from there. The ride cymbal is crucial for Deftones' atmospheric sections — look for something with wash and complexity.\n\n**Heads Matter:**\nThis is one area where you shouldn't skimp. Evans G2 Coated or Remo Emperor Coated heads provide the warm, controlled attack that defines Abe's tom sound. Fresh heads make a bigger difference than expensive shells.",
+      "content": "Abe Cunningham's tone comes more from his hands than his gear — but smart equipment choices can get you in the ballpark without breaking the bank.\n\n**Shell Priority:**\nAbe's SJC Custom shells are prized for punchy attack and durability. Budget-friendly kits from brands like Tama Superstar or Pearl Export use quality shells and deliver professional tones at reasonable prices.\n\n**The Snare Makes the Sound:**\nA punchy brass or steel snare is essential. Any 14\"x6.5\" brass or steel snare will get you in the neighborhood of Abe's SJC Custom Brass.\n\n**Cymbal Strategy:**\nZildjian A series cymbals can be found used for reasonable prices. Start with quality hi-hats (A New Beats if possible) and build from there. The ride cymbal is crucial for Deftones' atmospheric sections — look for something with wash and complexity.\n\n**Heads Matter:**\nThis is one area where you shouldn't skimp. Evans G2 Coated or Remo Emperor Coated heads provide the warm, controlled attack that defines Abe's tom sound. Fresh heads make a bigger difference than expensive shells.",
       "recommendations": [
         {
           "item": "Tama Superstar Classic or Pearl Export",
           "available": true,
           "priceRange": "$700-1,000",
-          "notes": "Maple shells for warm, punchy tone"
+          "notes": "Budget shells for punchy tone"
         },
         {
-          "item": "Tama S.L.P. Big Black Steel Snare",
+          "item": "14\"x6.5\" Brass Snare",
           "available": true,
           "priceRange": "$350-450",
-          "notes": "Actually affordable — and worth it"
+          "notes": "In the neighborhood of Abe's SJC Custom Brass"
         },
         {
           "item": "Zildjian A series (used)",
@@ -336,12 +335,6 @@ export const articles = {
           "available": true,
           "priceRange": "$15-25 each",
           "notes": "Essential for the warm attack"
-        },
-        {
-          "item": "Tama Iron Cobra 600 Pedal",
-          "available": true,
-          "priceRange": "$150-200",
-          "notes": "Budget version of Abe's pedal"
         }
       ]
     },
@@ -359,7 +352,7 @@ export const articles = {
     "faq": [
       {
         "question": "What drum kit does Abe Cunningham use with the Deftones?",
-        "answer": "Abe Cunningham plays a Tama Starclassic Maple/Bubinga hybrid kit. His configuration includes a 22x18 inch bass drum, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. The maple and bubinga shell combination delivers a warm yet punchy tone with enhanced low-end projection, which suits the Deftones' dynamic range from atmospheric passages to full-on heavy sections. He pairs the kit with a deep 14x8 inch Tama S.L.P. Big Black Steel snare."
+        "answer": "Abe Cunningham plays an SJC Custom kit. His configuration includes a 22x18 inch bass drum, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. He's been a longtime SJC Custom Drums endorser, valuing the shells for their punchy attack and durability, which suits the Deftones' dynamic range from atmospheric passages to full-on heavy sections. He pairs the kit with a 14x6.5 inch SJC Custom Brass snare."
       },
       {
         "question": "What cymbals does Abe Cunningham use with the Deftones?",
@@ -367,7 +360,7 @@ export const articles = {
       },
       {
         "question": "How much does Abe Cunningham's Deftones kit cost?",
-        "answer": "A Tama Starclassic Maple/Bubinga shell pack comparable to Abe Cunningham's setup costs approximately $3,500 to $5,000. The Tama S.L.P. Big Black Steel snare adds $350 to $450. Completing the rig with a full Zildjian A Custom and K Custom cymbal package brings the total to roughly $8,000 to $11,000. The Starclassic Maple/Bubinga line sits in Tama's professional tier and is a long-term investment for serious players."
+        "answer": "An SJC Custom shell pack comparable to Abe Cunningham's setup costs approximately $2,500 to $4,500. The SJC Custom 14\"x6.5\" Brass snare adds $350 to $450. Completing the rig with a full Zildjian A Custom and K Custom cymbal package brings the total to roughly $7,000 to $10,000."
       }
     ],
     "conclusion": {

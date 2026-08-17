@@ -209,12 +209,12 @@ export const articles = {
     ],
     "evolution": {
       "title": "From Clive to Nicko: The Living Legacy",
-      "content": "Clive Burr tragically had to leave Iron Maiden due to personal issues shortly after The Number of the Beast. Nicko McBrain joined in late 1982 and has been the band's drummer ever since, interpreting Burr's parts through his own distinctive style.\n\n**Nicko's Approach:**\nWhen performing Number of the Beast songs, Nicko maintains the essential elements while adding his own flair. His faster hands, more elaborate fills, and slightly different feel make these songs living documents rather than museum pieces.\n\n**Current Gear:**\nNicko currently plays:\n- Sonor SQ1 drums\n- Sonor Nicko McBrain Signature Snare 14x6.5\"\n- Paiste Signature series cymbals\n- Vic Firth Nicko McBrain signature sticks\n- Sonor hardware throughout\n\n**Single Pedal Tradition:**\nRemarkably, Nicko has maintained Iron Maiden's tradition of using a single bass drum pedal throughout his career. His footwork is legendary in the drumming community, proving that speed doesn't require double bass.\n\n**Live Evolution:**\nThe Number of the Beast songs have evolved over 40+ years of touring. Nicko's interpretations honor Clive's original performances while bringing his own personality and technique to the material.",
+      "content": "Clive Burr tragically had to leave Iron Maiden due to personal issues shortly after The Number of the Beast. Nicko McBrain joined in late 1982 and has been the band's drummer ever since, interpreting Burr's parts through his own distinctive style.\n\n**Nicko's Approach:**\nWhen performing Number of the Beast songs, Nicko maintains the essential elements while adding his own flair. His faster hands, more elaborate fills, and slightly different feel make these songs living documents rather than museum pieces.\n\n**Current Gear:**\nNicko currently plays:\n- British Drum Co. drums\n- Sonor Nicko McBrain Signature Snare 14x6.5\"\n- Paiste Signature series cymbals\n- Vic Firth Nicko McBrain signature sticks\n- Single bass drum pedal (brand unconfirmed)\n\n**Single Pedal Tradition:**\nRemarkably, Nicko has maintained Iron Maiden's tradition of using a single bass drum pedal throughout his career. His footwork is legendary in the drumming community, proving that speed doesn't require double bass.\n\n**Live Evolution:**\nThe Number of the Beast songs have evolved over 40+ years of touring. Nicko's interpretations honor Clive's original performances while bringing his own personality and technique to the material.",
       "thenVsNow": [
         {
           "category": "Kit",
           "then": "Ludwig Classic Maple",
-          "now": "Sonor SQ1"
+          "now": "British Drum Co."
         },
         {
           "category": "Snare",

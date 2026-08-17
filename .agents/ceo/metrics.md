@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-17 07:42 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-17 08:48 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -18,22 +18,22 @@
 | Page | Views | Users |
 | --- | --- | --- |
 | /drummers | 57 | 8 |
-| / | 39 | 31 |
-| /articles/obsolete-drum-setup | 22 | 1 |
+| / | 42 | 31 |
+| /articles/obsolete-drum-setup | 23 | 1 |
 | /drummer/danny-carey | 13 | 6 |
-| /gear | 12 | 4 |
+| /gear | 13 | 4 |
 | /drummer/brann-dailor | 9 | 5 |
 | /drummer/flo-mounier | 8 | 6 |
 | /drummer/mario-duplantier | 8 | 6 |
 | /drummers/flo-mounier/evolution | 8 | 2 |
-| /drummer/dave-lombardo | 6 | 1 |
+| /articles/st-anger-drum-setup | 6 | 5 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 212 | 149 |
-| Direct | 58 | 54 |
-| Unassigned | 45 | 35 |
+| Organic Search | 215 | 150 |
+| Direct | 61 | 57 |
+| Unassigned | 10 | 9 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |

@@ -1248,11 +1248,11 @@ export const ENDORSEMENT_TIMELINE = {
     name: 'Gene Hoglan',
     band: 'Death / Testament / Dethklok',
     currentEndorsements: {
-      drums: { brand: 'Tama', model: 'Starclassic Walnut/Birch', since: '2018' },
-      cymbals: { brand: 'Zildjian', model: 'A Custom Series', since: '1991' },
-      sticks: { brand: 'Vater', model: '5B Wood Tip', since: '2018' },
+      drums: { brand: 'Pearl', model: 'Reference Pure', since: '2018' },
+      cymbals: { brand: 'Sabian', model: 'AAX Series', since: '1991' },
+      sticks: { brand: 'ProMark', model: 'Classic Forward 2B', since: '2018' },
       heads: { brand: 'Evans', since: '1980s' },
-      hardware: { brand: 'Tama', model: 'Speed Cobra 910 Double Pedal', since: '2008' },
+      hardware: { brand: 'Pearl', model: 'Demon Drive Double Pedal', since: '2008' },
     },
     timeline: [
       {
@@ -1292,7 +1292,7 @@ export const ENDORSEMENT_TIMELINE = {
         category: ENDORSEMENT_CATEGORIES.STICKS,
         from: null,
         to: 'Vater',
-        notes: 'Settled on Vater 5B Wood Tip sticks for his current Tama Starclassic Walnut/Birch setup, favoring their balance across marathon touring and clinic schedules',
+        notes: 'Settled on Vater 5B Wood Tip sticks for his Tama Starclassic Walnut/Birch setup of that era, favoring their balance across marathon touring and clinic schedules',
       },
     ],
   },

@@ -236,8 +236,8 @@ export const articles = {
         ],
         "description": "Critical acclaim, 35+ years as a band.",
         "gear": {
-          "drums": "Tama Starclassic Maple/Bubinga",
-          "snare": "Tama S.L.P. Big Black Steel",
+          "drums": "SJC Custom",
+          "snare": "SJC Custom 14\"x6.5\" Brass",
           "cymbals": "Zildjian A/K Custom",
           "hardware": "Zildjian signature sticks"
         },

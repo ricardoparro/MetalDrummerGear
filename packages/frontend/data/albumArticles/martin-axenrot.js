@@ -588,7 +588,7 @@ export const articles = {
     "author": "MetalForge Editorial",
     "peakChart": "#1 Sweden, #8 UK, #18 Germany",
     "title": "Martin Axenrot's Drum Setup on Opeth's Heritage (2011)",
-    "description": "Discover the drum kit, cymbals, and gear Martin Axenrot used on Opeth's Heritage (2011). Complete breakdown of Axenrot's Pearl Reference Series setup, jazz brush work, and how the first fully prog-rock Opeth album reshaped his drumming vocabulary — no distorted guitars, maximum restraint.",
+    "description": "Discover the drum kit, cymbals, and gear Martin Axenrot used on Opeth's Heritage (2011). Complete breakdown of Axenrot's Sonor SQ2 setup, jazz brush work, and how the first fully prog-rock Opeth album reshaped his drumming vocabulary — no distorted guitars, maximum restraint.",
     "seoKeywords": [
       "heritage drums opeth",
       "martin axenrot heritage",
@@ -596,25 +596,25 @@ export const articles = {
       "martin axenrot 2011 drum kit",
       "opeth 2011 drums",
       "opeth prog rock drums",
-      "axenrot pearl reference heritage",
+      "axenrot sonor sq2 heritage",
       "opeth heritage jazz drums"
     ],
     "ogImage": "/images/albums/heritage-drums.webp",
     "intro": {
       "title": "The Album Where Opeth Stopped Playing Metal",
-      "content": "Released on September 20, 2011 through Roadrunner Records, Heritage is the Opeth album that answered the question Watershed had been building toward: what happens when a progressive death metal band fully commits to progressive rock? The answer was Heritage — Mikael Åkerfeldt's self-produced statement of artistic intent, an album with no distorted guitars, no death metal vocals, and a drumming vocabulary that demanded Martin Axenrot reinvent himself in real time.\n\nFor Axenrot, Heritage was the biggest challenge of his Opeth tenure. Watershed had asked him to honor the Lopez vocabulary while bringing his extreme metal background to bear. Heritage asked something categorically different: dial back every instinct from Bloodbath and Witchery, pick up brushes, and serve a 1970s prog-rock aesthetic that owed more to Jethro Tull, ELP, and early Genesis than to any metal precedent. The result is the most jazz-influenced drumming of Axenrot's career — sparse, dynamic, texture-conscious, built around ride cymbals and brushwork rather than twin-kick double bass and China cymbal accents.\n\nGear-wise, Heritage marked a shift from Axenrot's Sonor Designer / SQ2 rig to a Pearl Reference Series configuration — a decision that suited the album's more open, resonant sound. The Pearl Reference Series' thinner shell construction and enhanced resonance delivered the warmth and sustain that 70s prog-rock drumming required, and its lighter attack made brush technique and ghost note subtlety more natural to play. Where the Sonor SQ2 had been built for extreme metal precision, the Pearl Reference gave Axenrot the breath and openness Heritage demanded.\n\nProduced entirely by Mikael Åkerfeldt at Fascination Street Studios in Örebro, Heritage peaked at #1 in Sweden and #8 in the UK — commercial proof that the prog-rock pivot had an audience, however divisive the critical reception. The album split Opeth's fanbase sharply: longtime death metal listeners who wanted Ghost Reveries Part 2 were baffled, while prog-rock audiences who had never heard of Opeth discovered a band doing something genuinely adventurous. For Axenrot, it was the album that proved he was a complete drummer, not just a metal technician.",
+      "content": "Released on September 20, 2011 through Roadrunner Records, Heritage is the Opeth album that answered the question Watershed had been building toward: what happens when a progressive death metal band fully commits to progressive rock? The answer was Heritage — Mikael Åkerfeldt's self-produced statement of artistic intent, an album with no distorted guitars, no death metal vocals, and a drumming vocabulary that demanded Martin Axenrot reinvent himself in real time.\n\nFor Axenrot, Heritage was the biggest challenge of his Opeth tenure. Watershed had asked him to honor the Lopez vocabulary while bringing his extreme metal background to bear. Heritage asked something categorically different: dial back every instinct from Bloodbath and Witchery, pick up brushes, and serve a 1970s prog-rock aesthetic that owed more to Jethro Tull, ELP, and early Genesis than to any metal precedent. The result is the most jazz-influenced drumming of Axenrot's career — sparse, dynamic, texture-conscious, built around ride cymbals and brushwork rather than twin-kick double bass and China cymbal accents.\n\nGear-wise, nothing changed: Axenrot stayed on the same Sonor SQ2 kit he'd used since joining Opeth in 2006, twin 22\"x18\" bass drums and all. What changed was how he played it. Heritage didn't call for a different instrument — it called for a different touch, and Axenrot found it by leaning into restraint, brush technique, and the ride cymbal as a lead voice rather than a timekeeper. The Sonor SQ2's German-engineered shells gave him the same warmth and articulation on Heritage's quietest passages that they'd given him on Watershed's heaviest ones; it was Axenrot's approach to the kit, not the kit itself, that made the record sound so different.\n\nProduced entirely by Mikael Åkerfeldt at Fascination Street Studios in Örebro, Heritage peaked at #1 in Sweden and #8 in the UK — commercial proof that the prog-rock pivot had an audience, however divisive the critical reception. The album split Opeth's fanbase sharply: longtime death metal listeners who wanted Ghost Reveries Part 2 were baffled, while prog-rock audiences who had never heard of Opeth discovered a band doing something genuinely adventurous. For Axenrot, it was the album that proved he was a complete drummer, not just a metal technician.",
       "keyPoints": [
         "First Opeth album with no distorted guitars — full prog-rock commitment, no compromise",
-        "Axenrot shifts to Pearl Reference Series — thinner shells, more resonance, better suited to 70s prog aesthetics",
+        "Axenrot stayed on his Sonor SQ2 kit — unchanged gear, radically different touch and restraint",
         "Jazz brushes used extensively — first time in the Opeth catalog for sustained brush technique",
         "Self-produced by Mikael Åkerfeldt at Fascination Street Studios, Örebro, Sweden",
         "Peaked at #1 in Sweden and #8 in the UK — commercial validation of the prog-rock pivot"
       ]
     },
     "drumKit": {
-      "title": "Axenrot's Pearl Reference Series: Built for Prog, Not Metal",
-      "brand": "Pearl",
-      "model": "Pearl Reference Series",
+      "title": "Axenrot's Sonor SQ2: Same Kit, Built for Prog Restraint",
+      "brand": "Sonor",
+      "model": "Sonor SQ2 Series",
       "finish": "Natural / Custom Lacquer",
       "config": {
         "bassdrums": [
@@ -629,28 +629,28 @@ export const articles = {
           "14\" x 14\" Floor Tom",
           "16\" x 16\" Floor Tom"
         ],
-        "shells": "6-ply maple/mahogany hybrid shells for enhanced warmth and resonance"
+        "shells": "Sonor's German-engineered custom shells, the same build Axenrot has used since 2006"
       },
-      "description": "For Heritage, Martin Axenrot transitioned from his Sonor Designer / SQ2 rig to a Pearl Reference Series configuration — the most significant gear change of his Opeth tenure and a choice that made perfect sense for the album's 70s prog-rock direction. The Pearl Reference Series uses a thinner, hybrid maple/mahogany shell construction that delivers more natural sustain and resonance than the Sonor SQ2's heavier German maple shells, making it better suited to the open, breathing sound Heritage required.\n\nThe twin 22\" bass drum configuration remained — Axenrot's signature twin-kick setup that had defined his Opeth sound since Watershed — but on Heritage the kick drums are deployed with unprecedented restraint. Where Watershed's \"Heir Apparent\" had pushed the twin kicks into Bloodbath territory, Heritage's most kick-heavy moments barely register compared to the metal catalog. The Pearl Reference's kick drums in Åkerfeldt's Fascination Street production have a rounder, warmer fundamental than the Sonor SQ2's punch — appropriate for the album's softer, more atmospheric context.\n\nThe four-tom layout (10\", 12\" rack, 14\", 16\" floor) remained consistent with the Watershed configuration, honoring the Opeth drum vocabulary that Lopez had established and Axenrot had inherited. But on Heritage, the toms are used more sparingly — melodic accent voices in long arrangements rather than the aggressive fill punctuation of the metal catalog. The Pearl Reference's enhanced resonance makes each tom stroke sustain longer and decay more musically, which suits the prog-rock phrasing Axenrot developed for tracks like \"Nepenthe\" and \"Häxprocess.\"\n\nThe gear shift from Sonor to Pearl was the audible declaration that Heritage was a new chapter. Pearl Reference drums resonate differently — more openly, with more natural sustain, and with a warmth that encouraged the kind of jazz-influenced restraint Heritage demanded.",
+      "description": "For Heritage, Martin Axenrot stayed on the same Sonor SQ2 kit he had used since joining Opeth in 2006 — there was no gear change for the prog-rock pivot. What changed was how he played it. Heritage asked for the opposite of Watershed's attack, and Axenrot found that register through touch and restraint rather than through a different instrument.\n\nThe twin 22\" bass drum configuration remained — Axenrot's signature twin-kick setup that had defined his Opeth sound since Watershed — but on Heritage the kick drums are deployed with unprecedented restraint. Where Watershed's \"Heir Apparent\" had pushed the twin kicks into Bloodbath territory, Heritage's most kick-heavy moments barely register compared to the metal catalog. The same Sonor SQ2 kick drums that anchored Jens Bogren's dense Watershed mix sit further back and softer in Åkerfeldt's Fascination Street production — a production and playing choice, not a change in the drums themselves.\n\nThe four-tom layout (10\", 12\" rack, 14\", 16\" floor) remained consistent with the Watershed configuration, honoring the Opeth drum vocabulary that Lopez had established and Axenrot had inherited. But on Heritage, the toms are used more sparingly — melodic accent voices in long arrangements rather than the aggressive fill punctuation of the metal catalog. Sonor's German-engineered shells give each tom stroke the same natural sustain they always have; on Heritage that sustain simply gets used for space and breath rather than density, which suits the prog-rock phrasing Axenrot developed for tracks like \"Nepenthe\" and \"Häxprocess.\"\n\nHeritage's real gear story is what didn't change. The Sonor SQ2 setup that had powered Watershed's twin-kick aggression proved just as capable of carrying jazz-influenced restraint — proof that the instrument was never the limiting factor in what kind of drummer Axenrot could be.",
       "notes": [
-        "Pearl Reference Series replaces Sonor SQ2 — most significant gear change of the Opeth tenure",
-        "Thinner maple/mahogany hybrid shells deliver more resonance and natural sustain",
+        "Same Sonor SQ2 kit Axenrot has played since joining Opeth in 2006 — no gear change for the prog pivot",
+        "Sonor's German-engineered shells deliver the same warmth and resonance across radically different playing styles",
         "Twin 22\" bass drums retained but used with unprecedented prog-rock restraint",
         "Same four-tom layout as Watershed — Opeth vocabulary preserved even as the genre shifted",
-        "Pearl's warmer, more open sound suited Fascination Street's prog-rock production approach"
+        "The kit adapted through touch and dynamics, not through new equipment"
       ],
-      "estimatedValue": "$3,500-6,000 (Reference Series)"
+      "estimatedValue": "$8,000-15,000 (SQ2 custom configuration)"
     },
     "snare": {
       "title": "The Snare: Warm and Ghost-Note Ready",
-      "brand": "Pearl",
-      "model": "Pearl Reference Maple Snare",
-      "size": "14\" x 5.5\"",
+      "brand": "Sonor",
+      "model": "Sonor SQ2 Maple Snare",
+      "size": "14\" x 5.75\"",
       "shell": "Maple",
-      "description": "Axenrot's snare on Heritage was a Pearl Reference maple snare — a natural complement to the Reference Series kit and a drum that delivered the warm, controlled response Heritage's prog-rock vocabulary demanded. At medium-low tension, the Pearl Reference maple snare produces a rounded, dry tone with excellent ghost-note sensitivity — exactly what the album's jazz-influenced drumming required.\n\nThe shift from Sonor Designer maple to Pearl Reference maple was subtle in tone but meaningful in feel. The Pearl Reference snare's slightly lighter construction gave it a more immediate response under light touch, which made brush technique and soft ghost-note work more natural to execute. On \"The Devil's Orchard\" and \"Nepenthe,\" the snare's warmth sits in the mix without cutting aggressively — serving the arrangement rather than competing with Åkerfeldt's layered keyboards and acoustic guitars.\n\nBrush technique featured on Heritage far more extensively than any previous Opeth album. The Pearl Reference maple snare's maple shell and coated Ambassador head gave brushes the natural, open sound that wire brush technique requires — a surface that allows the bristles to sweep without excessive attack, delivering the jazz-influenced textures Axenrot developed for the prog-rock arrangements.",
+      "description": "Axenrot's snare on Heritage was the same Sonor SQ2 14\"x5.75\" maple snare he had used on Watershed — a drum that delivered the warm, controlled response Heritage's prog-rock vocabulary demanded without any change in gear. At medium-low tension, the Sonor SQ2 maple snare produces a rounded, dry tone with excellent ghost-note sensitivity — exactly what the album's jazz-influenced drumming required.\n\nThe shift in sound from Watershed to Heritage was a shift in touch, not tone wood. The same Sonor SQ2 maple shell gave Axenrot a more immediate response under light touch once he adjusted his approach, which made brush technique and soft ghost-note work more natural to execute. On \"The Devil's Orchard\" and \"Nepenthe,\" the snare's warmth sits in the mix without cutting aggressively — serving the arrangement rather than competing with Åkerfeldt's layered keyboards and acoustic guitars.\n\nBrush technique featured on Heritage far more extensively than any previous Opeth album. The Sonor SQ2 maple snare's shell and coated Ambassador head gave brushes the natural, open sound that wire brush technique requires — a surface that allows the bristles to sweep without excessive attack, delivering the jazz-influenced textures Axenrot developed for the prog-rock arrangements.",
       "tuningSetting": "Medium-low tension for warm, rounded tone with ghost-note sensitivity and brush technique compatibility",
       "heads": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)",
-      "estimatedValue": "$400-700"
+      "estimatedValue": "$500-900"
     },
     "cymbals": {
       "title": "Meinl Byzance: Dark and Restrained for the Prog Era",
@@ -690,16 +690,16 @@ export const articles = {
       "items": [
         {
           "type": "Bass Drum Pedals",
-          "brand": "Pearl",
-          "model": "Pearl Demon Drive (twin pedals)",
-          "notes": "Direct-drive twin pedals — fast response paired with the Pearl Reference kit",
-          "description": "Axenrot's transition to Pearl included the Pearl Demon Drive direct-drive twin pedals. The Demon Drive's direct-drive mechanism delivered the same 1:1 pedal-to-beater feel he had developed with the Sonor Giant Step, but optimized for the Pearl Reference kit's response. On Heritage the twin kick setup is used sparingly, but the Demon Drive's precision enables the subtle, restrained kick patterns that suit the prog-rock arrangements."
+          "brand": "Tama",
+          "model": "Tama Iron Cobra Double Pedal",
+          "notes": "Direct-drive twin pedals — same pedals Axenrot has used throughout his Opeth tenure",
+          "description": "Axenrot's Tama Iron Cobra Double Pedal, paired with Sonor hardware, carried over unchanged onto Heritage. The Iron Cobra's direct-drive mechanism delivers a precise 1:1 pedal-to-beater feel. On Heritage the twin kick setup is used sparingly, but the same pedal precision that drove Watershed's double-bass passages enables the subtle, restrained kick patterns that suit the prog-rock arrangements."
         },
         {
           "type": "Hi-Hat Stand",
-          "brand": "Pearl",
-          "model": "Pearl H-2050 Eliminator Hi-Hat Stand",
-          "notes": "Heavy-duty Pearl stand compatible with the Reference Series kit"
+          "brand": "Sonor",
+          "model": "Sonor Hardware",
+          "notes": "Heavy-duty Sonor hardware compatible with the SQ2 kit"
         },
         {
           "type": "Throne",
@@ -710,7 +710,7 @@ export const articles = {
         {
           "type": "Sticks",
           "brand": "Vic Firth",
-          "model": "Vic Firth American Classic 5A / Jazz brushes",
+          "model": "Vic Firth American Classic 5B / Jazz brushes",
           "notes": "Heritage is the first Opeth album to feature sustained jazz brush technique on multiple tracks"
         }
       ],
@@ -722,12 +722,12 @@ export const articles = {
     },
     "recordingTechniques": {
       "title": "Self-Produced at Fascination Street: Åkerfeldt Takes the Chair",
-      "content": "Heritage was produced entirely by Mikael Åkerfeldt at Fascination Street Studios in Örebro — the first time Åkerfeldt had sole production credit on an Opeth record. The absence of an outside producer (Jens Bogren had produced Watershed; Steven Wilson had produced four albums before that) gave Åkerfeldt complete creative control and shaped every aspect of the drum sound. The production direction was explicitly 70s prog-rock: open, warm, and dynamic, with room ambience that suited the album's vintage aesthetic.\n\n**Production Direction:**\nÅkerfeldt's production on Heritage emphasized the drum kit's natural resonance and the room's ambience rather than the close-miked density of Bogren's Watershed approach. The kick drums sit back in the mix rather than dominating it. The snare has warmth and body rather than aggressive crack. The cymbals — especially the 22\" Byzance ride, which carries so much of the album — have long, complex sustain rather than tight, defined attack. This is a 70s prog-rock drum production in spirit, even if the actual microphone setup remained broadly similar to Watershed.\n\n**Brush Technique:**\nHeritage was the first Opeth album to feature sustained jazz brush technique. Axenrot's brush work appears on several tracks, adding the sweep-and-circle texture that jazz drumming requires. The Fascination Street room captured this technique naturally — the Pearl Reference Series snare's maple shell and the Byzance hi-hats responded well to the softer attack of wire brushes, and the room's ambient sound added the natural reverb that brush technique benefits from.\n\n**No Triggers, No Metal:**\nFollowing the Opeth tradition, Heritage was recorded without drum triggers. Axenrot's performances are entirely natural — which made the restraint his responsibility. The ambient room capture reinforced the vintage aesthetic Åkerfeldt was pursuing.",
+      "content": "Heritage was produced entirely by Mikael Åkerfeldt at Fascination Street Studios in Örebro — the first time Åkerfeldt had sole production credit on an Opeth record. The absence of an outside producer (Jens Bogren had produced Watershed; Steven Wilson had produced four albums before that) gave Åkerfeldt complete creative control and shaped every aspect of the drum sound. The production direction was explicitly 70s prog-rock: open, warm, and dynamic, with room ambience that suited the album's vintage aesthetic.\n\n**Production Direction:**\nÅkerfeldt's production on Heritage emphasized the drum kit's natural resonance and the room's ambience rather than the close-miked density of Bogren's Watershed approach. The kick drums sit back in the mix rather than dominating it. The snare has warmth and body rather than aggressive crack. The cymbals — especially the 22\" Byzance ride, which carries so much of the album — have long, complex sustain rather than tight, defined attack. This is a 70s prog-rock drum production in spirit, even if the actual microphone setup and the actual drum kit remained the same as Watershed.\n\n**Brush Technique:**\nHeritage was the first Opeth album to feature sustained jazz brush technique. Axenrot's brush work appears on several tracks, adding the sweep-and-circle texture that jazz drumming requires. The Fascination Street room captured this technique naturally — the Sonor SQ2 snare's maple shell and the Byzance hi-hats responded well to the softer attack of wire brushes, and the room's ambient sound added the natural reverb that brush technique benefits from.\n\n**No Triggers, No Metal:**\nFollowing the Opeth tradition, Heritage was recorded without drum triggers. Axenrot's performances are entirely natural — which made the restraint his responsibility. The ambient room capture reinforced the vintage aesthetic Åkerfeldt was pursuing.",
       "keyTechniques": [
         "Åkerfeldt's first sole production credit — 70s prog-rock aesthetic shapes every drum production choice",
         "Room ambience prioritized over close-miked density — opposite of Bogren's Watershed approach",
         "Sustained jazz brush technique appears for the first time in the Opeth catalog",
-        "Pearl Reference Series' natural resonance aligns with the vintage ambient production direction",
+        "Sonor SQ2's natural resonance aligns with the vintage ambient production direction",
         "No triggers — all performances are natural, Axenrot's restraint is his own"
       ]
     },
@@ -742,7 +742,7 @@ export const articles = {
           "Ghost notes under clean guitar passages establish Heritage's vocabulary",
           "No death metal elements — a clean break from every prior Opeth record"
         ],
-        "gearNotes": "The Meinl Byzance 22\" Traditional Medium ride carries the opening track's groove. Axenrot's ghost note work on the Pearl Reference maple snare delivers the jazz-influenced restraint Heritage demands from the first bar."
+        "gearNotes": "The Meinl Byzance 22\" Traditional Medium ride carries the opening track's groove. Axenrot's ghost note work on the Sonor SQ2 snare delivers the jazz-influenced restraint Heritage demands from the first bar."
       },
       {
         "track": "Nepenthe",
@@ -752,9 +752,9 @@ export const articles = {
           "Heritage's most dynamic track — spans soft and heavier passages",
           "Axenrot's most compositionally varied performance on the album",
           "Tom fills bridge the arrangement's shifting dynamics",
-          "Demonstrates the Pearl Reference's melodic resonance on fills"
+          "Demonstrates the Sonor SQ2's melodic resonance on fills"
         ],
-        "gearNotes": "The Pearl Reference Series floor toms deliver the natural sustain Nepenthe's melodic fills require. The 22\" Byzance ride carries the groove between sections with the same washy sustain that defined the Opeth sound across the Lopez era."
+        "gearNotes": "The Sonor SQ2 floor toms deliver the natural sustain Nepenthe's melodic fills require. The 22\" Byzance ride carries the groove between sections with the same washy sustain that defined the Opeth sound across the Lopez era."
       },
       {
         "track": "Häxprocess",
@@ -764,9 +764,9 @@ export const articles = {
           "Heritage's heaviest track — closest approach to the Watershed vocabulary",
           "Axenrot's twin-kick setup makes its clearest appearance on the album",
           "Demonstrates the dynamic range Heritage demands between soft and heavy",
-          "The Pearl Reference kick drums' warmer fundamental suits the production"
+          "The same Sonor SQ2 kick drums that drove Watershed adapt easily to Heritage's production"
         ],
-        "gearNotes": "The Pearl Demon Drive twin pedals enable the sustained patterns in Häxprocess's heavier sections. Even here, the kick drums are deployed with more restraint than on any Watershed track — serving the arrangement rather than driving it."
+        "gearNotes": "The Tama Iron Cobra Double Pedal enables the sustained patterns in Häxprocess's heavier sections. Even here, the kick drums are deployed with more restraint than on any Watershed track — serving the arrangement rather than driving it."
       },
       {
         "track": "Folklore",
@@ -778,21 +778,21 @@ export const articles = {
           "Meinl Byzance hi-hats respond naturally to wire brush sweeping",
           "Closest to a jazz standard approach Axenrot has used in any Opeth context"
         ],
-        "gearNotes": "Jazz brushes on the Pearl Reference maple snare and the Meinl Byzance 14\" Traditional hi-hats — the first time this combination appears in the Opeth catalog. The Pearl Reference snare's coated Ambassador head is the correct surface for wire brush technique."
+        "gearNotes": "Jazz brushes on the Sonor SQ2 snare and the Meinl Byzance 14\" Traditional hi-hats — the first time this combination appears in the Opeth catalog. The Sonor SQ2 snare's coated Ambassador head is the correct surface for wire brush technique."
       }
     ],
     "faq": [
       {
         "question": "What drum kit did Martin Axenrot use on Opeth's Heritage?",
-        "answer": "Martin Axenrot recorded Opeth's Heritage (2011) using a Pearl Reference Series drum kit — a significant gear change from the Sonor Designer / SQ2 setup he had used on Watershed. The Pearl Reference Series uses thinner maple/mahogany hybrid shells that deliver more natural resonance and warmth, better suited to Heritage's 70s prog-rock aesthetic. Configuration: twin 22\"x18\" bass drums, 10\" and 12\" rack toms, 14\" and 16\" floor toms. He paired the Pearl kit with Meinl Byzance cymbals and Pearl Demon Drive direct-drive twin pedals. The kit was tracked at Fascination Street Studios in Örebro, Sweden, produced by Mikael Åkerfeldt."
+        "answer": "Martin Axenrot recorded Opeth's Heritage (2011) using the same Sonor SQ2 drum kit he had used on Watershed and has played since joining Opeth in 2006 — there was no gear change. Configuration: twin 22\"x18\" bass drums, 10\" and 12\" rack toms, 14\" and 16\" floor toms, with a Sonor SQ2 14\"x5.75\" maple snare. He paired the Sonor kit with Meinl Byzance cymbals and a Tama Iron Cobra Double Pedal plus Sonor Hardware. The kit was tracked at Fascination Street Studios in Örebro, Sweden, produced by Mikael Åkerfeldt."
       },
       {
         "question": "Why did Opeth go prog on Heritage?",
-        "answer": "Heritage (2011) represents Mikael Åkerfeldt's long-signaled artistic evolution away from death metal vocals and toward the 1970s progressive rock he had always cited as a primary influence — Jethro Tull, ELP, early Genesis, King Crimson. Opeth's catalog had been moving in this direction since \"Burden\" on Watershed (2008) and even earlier with the clean vocal passages that ran through every Lopez-era record from Still Life onward. Heritage was the decisive commitment: no distorted guitars, no death metal vocals, full prog-rock statement. For Martin Axenrot, the question was whether he could make his drumming serve that direction — and Heritage's answer was yes, through jazz brush technique, ride-cymbal-forward phrasing, and the restrained vocabulary that 70s prog drumming required."
+        "answer": "Heritage (2011) represents Mikael Åkerfeldt's long-signaled artistic evolution away from death metal vocals and toward the 1970s progressive rock he had always cited as a primary influence — Jethro Tull, ELP, early Genesis, King Crimson. Opeth's catalog had been moving in this direction since \"Burden\" on Watershed (2008) and even earlier with the clean vocal passages that ran through every Lopez-era record from Still Life onward. Heritage was the decisive commitment: no distorted guitars, no death metal vocals, full prog-rock statement. For Martin Axenrot, the question was whether he could make his drumming serve that direction — and Heritage's answer was yes, through jazz brush technique, ride-cymbal-forward phrasing, and the restrained vocabulary that 70s prog drumming required, all played on the same Sonor SQ2 kit and Meinl Byzance cymbals he'd used all along."
       },
       {
         "question": "How does Axenrot's drumming change across Opeth's prog era?",
-        "answer": "Across Heritage (2011), Pale Communion (2014), and Sorceress (2016), Martin Axenrot's drumming undergoes a sustained evolution away from extreme metal vocabulary toward a broader progressive palette. Heritage is the most restrained — jazz brushes, ride-cymbal-forward phrasing, minimal twin-kick work, no China cymbal. Pale Communion expands the vocabulary slightly with the extended drum breakdown on \"Eternal Rains Will Come\" — the most technically demanding moment of the prog era. Sorceress reintroduces some of the heavier passages from the Watershed/metal era, but within a prog-rock framework that has now become Opeth's default mode. Together the three albums trace Axenrot's development from extreme metal technician to complete progressive drummer — capable of jazz brush restraint, melodic prog phrasing, and metal aggression, deployed according to what the song requires."
+        "answer": "Across Heritage (2011), Pale Communion (2014), and Sorceress (2016), Martin Axenrot's drumming undergoes a sustained evolution away from extreme metal vocabulary toward a broader progressive palette. Heritage is the most restrained — jazz brushes, ride-cymbal-forward phrasing, minimal twin-kick work, no China cymbal. Pale Communion expands the vocabulary slightly with the extended drum breakdown on \"Eternal Rains Will Come\" — the most technically demanding moment of the prog era. Sorceress reintroduces some of the heavier passages from the Watershed/metal era, but within a prog-rock framework that has now become Opeth's default mode. Together the three albums trace Axenrot's development from extreme metal technician to complete progressive drummer — capable of jazz brush restraint, melodic prog phrasing, and metal aggression, deployed according to what the song requires, all on the same unchanged Sonor SQ2 and Meinl Byzance setup."
       },
       {
         "question": "What cymbals did Martin Axenrot use on Heritage?",
@@ -800,12 +800,12 @@ export const articles = {
       },
       {
         "question": "How does Heritage connect to Watershed and Pale Communion in the Axenrot discography?",
-        "answer": "Heritage (2011) sits between Watershed (2008) and Pale Communion (2014) as the middle chapter of Opeth's prog transition. Watershed was the bridge record — still containing death metal vocals and aggressive passages while leaning toward prog-rock textures. Heritage was the full commitment: no distorted guitars, no metal vocals, complete prog-rock statement. Pale Communion extended Heritage's vocabulary with a more refined 70s prog aesthetic, bringing Steven Wilson back to mix and delivering the most compositionally coherent of the three prog-era albums. The gear thread running through all three is the Pearl Reference Series and Meinl Byzance cymbals — consistent tools that Axenrot adapted to each album's specific requirements. For the full arc, see the [Watershed drum setup](/articles/watershed-drum-setup) and [Pale Communion drum setup](/articles/pale-communion-drum-setup)."
+        "answer": "Heritage (2011) sits between Watershed (2008) and Pale Communion (2014) as the middle chapter of Opeth's prog transition. Watershed was the bridge record — still containing death metal vocals and aggressive passages while leaning toward prog-rock textures. Heritage was the full commitment: no distorted guitars, no metal vocals, complete prog-rock statement. Pale Communion extended Heritage's vocabulary with a more refined 70s prog aesthetic, bringing Steven Wilson back to mix and delivering the most compositionally coherent of the three prog-era albums. The gear thread running through all three — and through Axenrot's entire Opeth tenure — is the Sonor SQ2 kit and Meinl Byzance cymbals — the same tools he adapted to each album's specific requirements. For the full arc, see the [Watershed drum setup](/articles/watershed-drum-setup) and [Pale Communion drum setup](/articles/pale-communion-drum-setup)."
       }
     ],
     "conclusion": {
       "title": "The Album That Proved Axenrot Was More Than a Metal Drummer",
-      "content": "Heritage is the album where Martin Axenrot proved he was not just an extreme metal technician who happened to be sitting behind the Opeth drum kit. The album asked him to abandon every instinct from Bloodbath and Witchery, pick up brushes, and serve a 1970s prog-rock aesthetic that had no use for twin-kick double bass or China cymbal accents. His response was Heritage's drumming — sparse, dynamic, texture-conscious, and exactly right for the album Mikael Åkerfeldt needed to make.\n\nThe Pearl Reference Series transition was the gear statement that Heritage required. Thinner shells, more resonance, warmer fundamentals — the right tools for a 70s prog-rock production that prioritized room ambience and natural sustain over the close-miked density of the Bogren/Watershed approach. The Meinl Byzance ride's complex, washy sustain became the album's defining drum voice, carrying melodic patterns across long arrangements in the tradition of jazz drumming.\n\nHeritage split Opeth's fanbase, confused rock critics, and initiated the most-discussed phase of the band's career. For drummers, it demonstrated something more important: that the skills required for exceptional progressive rock drumming — restraint, texture, dynamic storytelling, jazz sensibility — are not lesser skills than the aggression and technique of extreme metal. They are different skills, harder in some ways, and Martin Axenrot developed them on Heritage.\n\nFor the prog-era arc: [Watershed drum setup](/articles/watershed-drum-setup) — the bridge record. [Pale Communion drum setup](/articles/pale-communion-drum-setup) — the 70s prog refinement. [Sorceress drum setup](/articles/sorceress-drum-setup) — the Nuclear Blast era. And [Martin Axenrot's drummer profile](/drummer/martin-axenrot) for the complete career view."
+      "content": "Heritage is the album where Martin Axenrot proved he was not just an extreme metal technician who happened to be sitting behind the Opeth drum kit. The album asked him to abandon every instinct from Bloodbath and Witchery, pick up brushes, and serve a 1970s prog-rock aesthetic that had no use for twin-kick double bass or China cymbal accents. His response was Heritage's drumming — sparse, dynamic, texture-conscious, and exactly right for the album Mikael Åkerfeldt needed to make.\n\nThe gear stayed the same as Watershed — the Sonor SQ2 kit, twin 22\" bass drums included, and the Meinl Byzance cymbals were more than capable of a 70s prog-rock production that prioritized room ambience and natural sustain over the close-miked density of the Bogren/Watershed approach. The Meinl Byzance ride's complex, washy sustain became the album's defining drum voice, carrying melodic patterns across long arrangements in the tradition of jazz drumming.\n\nHeritage split Opeth's fanbase, confused rock critics, and initiated the most-discussed phase of the band's career. For drummers, it demonstrated something more important: that the skills required for exceptional progressive rock drumming — restraint, texture, dynamic storytelling, jazz sensibility — are not lesser skills than the aggression and technique of extreme metal. They are different skills, harder in some ways, and Martin Axenrot developed them on Heritage without changing a single piece of gear.\n\nFor the prog-era arc: [Watershed drum setup](/articles/watershed-drum-setup) — the bridge record. [Pale Communion drum setup](/articles/pale-communion-drum-setup) — the 70s prog refinement. [Sorceress drum setup](/articles/sorceress-drum-setup) — the Nuclear Blast era. And [Martin Axenrot's drummer profile](/drummer/martin-axenrot) for the complete career view."
     },
     "schema": {
       "@context": "https://schema.org",
@@ -813,7 +813,7 @@ export const articles = {
         {
           "@type": "Article",
           "headline": "Martin Axenrot's Drum Setup on Opeth's Heritage (2011)",
-          "description": "Discover the drum kit, cymbals, and gear Martin Axenrot used on Opeth's Heritage (2011). Complete breakdown of Axenrot's Pearl Reference Series setup, jazz brush work, and how the first fully prog-rock Opeth album reshaped his drumming vocabulary.",
+          "description": "Discover the drum kit, cymbals, and gear Martin Axenrot used on Opeth's Heritage (2011). Complete breakdown of Axenrot's Sonor SQ2 setup, jazz brush work, and how the first fully prog-rock Opeth album reshaped his drumming vocabulary.",
           "author": {
             "@type": "Organization",
             "name": "MetalForge Editorial"
@@ -852,7 +852,7 @@ export const articles = {
               "name": "What drum kit did Martin Axenrot use on Opeth's Heritage?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Martin Axenrot recorded Opeth's Heritage in 2011 using a Pearl Reference Series drum kit with twin 22 inch bass drums, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. He paired the Pearl kit with Meinl Byzance cymbals and Pearl Demon Drive direct-drive twin pedals. Recorded at Fascination Street Studios in Orebro, Sweden, produced by Mikael Akerfeldt."
+                "text": "Martin Axenrot recorded Opeth's Heritage in 2011 using the same Sonor SQ2 drum kit he had used since joining Opeth in 2006, with twin 22 inch bass drums, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. He paired the Sonor kit with Meinl Byzance cymbals and a Tama Iron Cobra Double Pedal. Recorded at Fascination Street Studios in Orebro, Sweden, produced by Mikael Akerfeldt."
               }
             },
             {
@@ -860,7 +860,7 @@ export const articles = {
               "name": "Why did Opeth go prog on Heritage?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Heritage represents Mikael Akerfeldt's decisive commitment to 1970s progressive rock influences — Jethro Tull, ELP, early Genesis, King Crimson — that had been signaled across the Opeth catalog since at least Damnation. No distorted guitars, no death metal vocals, full prog-rock statement. For Axenrot, the album demanded jazz brush technique, ride-cymbal-forward phrasing, and restrained vocabulary that the Pearl Reference Series and Meinl Byzance setup served well."
+                "text": "Heritage represents Mikael Akerfeldt's decisive commitment to 1970s progressive rock influences — Jethro Tull, ELP, early Genesis, King Crimson — that had been signaled across the Opeth catalog since at least Damnation. No distorted guitars, no death metal vocals, full prog-rock statement. For Axenrot, the album demanded jazz brush technique, ride-cymbal-forward phrasing, and restrained vocabulary that the same Sonor SQ2 and Meinl Byzance setup he had always used served well."
               }
             },
             {
@@ -868,7 +868,7 @@ export const articles = {
               "name": "How does Axenrot's drumming change across Opeth's prog era?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Across Heritage, Pale Communion, and Sorceress, Axenrot's drumming evolves from extreme metal technician to complete progressive drummer. Heritage is the most restrained — jazz brushes, ride-forward phrasing, minimal twin-kick. Pale Communion expands the vocabulary with the extended breakdown on Eternal Rains Will Come. Sorceress reintroduces some heavier passages within a prog-rock framework that has become Opeth's default mode."
+                "text": "Across Heritage, Pale Communion, and Sorceress, Axenrot's drumming evolves from extreme metal technician to complete progressive drummer. Heritage is the most restrained — jazz brushes, ride-forward phrasing, minimal twin-kick. Pale Communion expands the vocabulary with the extended breakdown on Eternal Rains Will Come. Sorceress reintroduces some heavier passages within a prog-rock framework that has become Opeth's default mode. The Sonor SQ2 kit and Meinl Byzance cymbals remain unchanged throughout."
               }
             }
           ]
@@ -908,7 +908,7 @@ export const articles = {
     "author": "MetalForge Editorial",
     "peakChart": "#1 Sweden, #3 Norway, #14 UK",
     "title": "Martin Axenrot's Drum Setup on Opeth's Pale Communion (2014)",
-    "description": "Discover the drum kit, cymbals, and gear Martin Axenrot used on Opeth's Pale Communion (2014). Complete breakdown of Axenrot's Pearl Reference Series setup, the extended drum breakdown on 'Eternal Rains Will Come', and how Opeth's 70s prog peak became Axenrot's most refined progressive performance.",
+    "description": "Discover the drum kit, cymbals, and gear Martin Axenrot used on Opeth's Pale Communion (2014). Complete breakdown of Axenrot's Sonor SQ2 setup, the extended drum breakdown on 'Eternal Rains Will Come', and how Opeth's 70s prog peak became Axenrot's most refined progressive performance.",
     "seoKeywords": [
       "pale communion drums opeth",
       "martin axenrot pale communion",
@@ -916,25 +916,25 @@ export const articles = {
       "martin axenrot 2014 drum kit",
       "eternal rains will come drums",
       "opeth 70s prog drums",
-      "axenrot pearl reference pale communion",
+      "axenrot sonor sq2 pale communion",
       "opeth 2014 drums"
     ],
     "ogImage": "/images/albums/pale-communion-drums.webp",
     "intro": {
       "title": "Opeth's 70s Prog Peak — and Axenrot's Most Refined Performance",
-      "content": "Released on August 26, 2014 through Roadrunner Records, Pale Communion is widely regarded as the artistic peak of Opeth's prog-rock era — the album where Heritage's ambitious genre shift was fully realized and refined. Where Heritage had been a bold statement of intent, Pale Communion was the confident execution: a six-track, 56-minute record that demonstrated Opeth had not merely dabbled in 70s prog-rock but had genuinely mastered it. For Martin Axenrot, Pale Communion represents his most disciplined and compositionally sophisticated studio performance.\n\nThe album's 70s prog aesthetic demanded the same Pearl Reference Series setup Axenrot had developed for Heritage, but deployed with even greater compositional intention. \"Eternal Rains Will Come\" — the album's opening track and Axenrot's signature moment in the prog era — features an extended drum breakdown that showcases the full Pearl Reference vocabulary: melodic tom phrasing, ride cymbal lead voice, and the kind of dynamic storytelling that Axenrot had been developing since taking the Opeth chair in 2006. It is the track that most clearly demonstrates the distance he had traveled from his Bloodbath and Witchery roots.\n\nPale Communion peaked at #1 in Sweden and #3 in Norway — both higher than Heritage — validating the artistic direction commercially while the album's Grammy consideration (it was submitted for Grammy nomination consideration in 2015) gave Opeth the critical recognition that Heritage's divisiveness had partly denied them. Produced again by Mikael Åkerfeldt at Fascination Street Studios, with mixing by Steven Wilson — returning the Wilson-Opeth connection that had defined Blackwater Park through Ghost Reveries — Pale Communion is one of the most carefully crafted Opeth records in the catalog.\n\nFor drummers, Pale Communion is the tutorial in how extreme metal chops and jazz-influenced restraint can coexist in a 70s prog-rock context. Axenrot's performance across the album's six tracks demonstrates a vocabulary that few metal drummers have attempted: soft, complex, and compositionally aware throughout, with the occasional flash of the extreme metal background that makes the dynamic contrast land.",
+      "content": "Released on August 26, 2014 through Roadrunner Records, Pale Communion is widely regarded as the artistic peak of Opeth's prog-rock era — the album where Heritage's ambitious genre shift was fully realized and refined. Where Heritage had been a bold statement of intent, Pale Communion was the confident execution: a six-track, 56-minute record that demonstrated Opeth had not merely dabbled in 70s prog-rock but had genuinely mastered it. For Martin Axenrot, Pale Communion represents his most disciplined and compositionally sophisticated studio performance.\n\nThe album's 70s prog aesthetic was served by the same Sonor SQ2 kit Axenrot had used on every Opeth record since 2006, deployed with even greater compositional intention than on Heritage. \"Eternal Rains Will Come\" — the album's opening track and Axenrot's signature moment in the prog era — features an extended drum breakdown that showcases the full range the Sonor SQ2 and Meinl Byzance setup is capable of: melodic tom phrasing, ride cymbal lead voice, and the kind of dynamic storytelling that Axenrot had been developing since taking the Opeth chair in 2006. It is the track that most clearly demonstrates the distance he had traveled from his Bloodbath and Witchery roots — a distance measured in touch and restraint, not in equipment.\n\nPale Communion peaked at #1 in Sweden and #3 in Norway — both higher than Heritage — validating the artistic direction commercially while the album's Grammy consideration (it was submitted for Grammy nomination consideration in 2015) gave Opeth the critical recognition that Heritage's divisiveness had partly denied them. Produced again by Mikael Åkerfeldt at Fascination Street Studios, with mixing by Steven Wilson — returning the Wilson-Opeth connection that had defined Blackwater Park through Ghost Reveries — Pale Communion is one of the most carefully crafted Opeth records in the catalog.\n\nFor drummers, Pale Communion is the tutorial in how extreme metal chops and jazz-influenced restraint can coexist in a 70s prog-rock context. Axenrot's performance across the album's six tracks demonstrates a vocabulary that few metal drummers have attempted: soft, complex, and compositionally aware throughout, with the occasional flash of the extreme metal background that makes the dynamic contrast land.",
       "keyPoints": [
         "Artistic peak of Opeth's prog era — Heritage's intent fully realized and refined",
-        "Pearl Reference Series setup from Heritage retained and refined for the 70s prog aesthetic",
+        "Same Sonor SQ2 setup from Heritage retained and refined for the 70s prog aesthetic",
         "\"Eternal Rains Will Come\" features the extended drum breakdown that defines Axenrot's prog-era career",
         "Produced by Mikael Åkerfeldt; mixed by Steven Wilson — returning the Wilson-Opeth production connection",
         "Peaked at #1 Sweden, #3 Norway, #14 UK; submitted for Grammy consideration in 2015"
       ]
     },
     "drumKit": {
-      "title": "Pearl Reference Series: The Prog-Era Kit Refined",
-      "brand": "Pearl",
-      "model": "Pearl Reference Series",
+      "title": "Sonor SQ2: The Prog-Era Kit Refined",
+      "brand": "Sonor",
+      "model": "Sonor SQ2 Series",
       "finish": "Natural / Custom Lacquer",
       "config": {
         "bassdrums": [
@@ -949,28 +949,28 @@ export const articles = {
           "14\" x 14\" Floor Tom",
           "16\" x 16\" Floor Tom"
         ],
-        "shells": "6-ply maple/mahogany hybrid shells — same configuration as Heritage"
+        "shells": "Sonor's German-engineered custom shells — same configuration as Heritage and Watershed"
       },
-      "description": "For Pale Communion, Axenrot continued with the Pearl Reference Series setup he had established for Heritage — the consistent prog-era kit that suited Fascination Street's warm, ambient production approach and Åkerfeldt's 70s prog aesthetic. Three years of touring the Heritage material had given Axenrot complete fluency with the Pearl Reference's response characteristics, and Pale Communion benefits from that accumulated knowledge.\n\nThe twin 22\" bass drum configuration remained intact, though — as on Heritage — deployed with sophisticated restraint rather than the sustained double-bass work of the Watershed era. The Pearl Reference's warmer, more resonant kick response suited Pale Communion's production, with the fundamentals sitting back in the mix behind the keyboards and guitars rather than driving the low end aggressively.\n\nThe four-tom layout (10\", 12\" rack, 14\", 16\" floor) is used with more melodic ambition on Pale Communion than on Heritage. The extended drum breakdown in \"Eternal Rains Will Come\" makes the most extended use of all four toms in the prog era, with Axenrot's melodic phrasing across the full kit demonstrating the kind of compositional thought that Lopez had pioneered in the Blackwater Park era. The Pearl Reference's enhanced natural resonance gives each tom stroke the sustain that melodic tom phrasing requires — the notes ring into each other, building phrase shapes rather than isolated attacks.",
+      "description": "For Pale Communion, Axenrot continued with the same Sonor SQ2 setup he had used since joining Opeth in 2006 — the consistent kit that suited Fascination Street's warm, ambient production approach and Åkerfeldt's 70s prog aesthetic. Three years of touring the Heritage material had given Axenrot even deeper fluency with how to shape that kit's response for the prog-rock context, and Pale Communion benefits from that accumulated knowledge.\n\nThe twin 22\" bass drum configuration remained intact, though — as on Heritage — deployed with sophisticated restraint rather than the sustained double-bass work of the Watershed era. The same Sonor SQ2 kick drums that had punched hard on Watershed sit back in Pale Communion's production, with the fundamentals resting behind the keyboards and guitars rather than driving the low end aggressively — a mixing and touch choice, not a change in the drums.\n\nThe four-tom layout (10\", 12\" rack, 14\", 16\" floor) is used with more melodic ambition on Pale Communion than on Heritage. The extended drum breakdown in \"Eternal Rains Will Come\" makes the most extended use of all four toms in the prog era, with Axenrot's melodic phrasing across the full kit demonstrating the kind of compositional thought that Lopez had pioneered in the Blackwater Park era. Sonor's shells give each tom stroke the natural sustain that melodic tom phrasing requires — the notes ring into each other, building phrase shapes rather than isolated attacks.",
       "notes": [
-        "Same Pearl Reference Series configuration as Heritage — three years of touring had given Axenrot complete fluency",
+        "Same Sonor SQ2 configuration as Heritage and Watershed — three years of touring deepened Axenrot's command of it",
         "Twin 22\" bass drums retained but used with prog-rock restraint rather than metal aggression",
         "Four-tom layout more melodically ambitious on Pale Communion than Heritage",
         "\"Eternal Rains Will Come\" drum breakdown is the most extended melodic tom phrasing in the prog-era catalog",
-        "Pearl Reference's natural resonance supports the sustain that melodic tom phrasing requires"
+        "Sonor's natural shell resonance supports the sustain that melodic tom phrasing requires"
       ],
-      "estimatedValue": "$3,500-6,000 (Reference Series)"
+      "estimatedValue": "$8,000-15,000 (SQ2 custom configuration)"
     },
     "snare": {
       "title": "The Snare: Controlled Warmth for a Complex Mix",
-      "brand": "Pearl",
-      "model": "Pearl Reference Maple Snare",
-      "size": "14\" x 5.5\"",
+      "brand": "Sonor",
+      "model": "Sonor SQ2 Maple Snare",
+      "size": "14\" x 5.75\"",
       "shell": "Maple",
-      "description": "The Pearl Reference maple snare from Heritage carried over to Pale Communion, providing the warm, controlled response that suited both albums' 70s prog aesthetic. On Pale Communion, the snare's role is even more compositional than on Heritage — the arrangements are longer, the dynamic range is wider, and the snare must serve both the album's softest acoustic passages and the occasional heavier moments without losing character.\n\nSteven Wilson's mixing on Pale Communion gave the snare slightly more presence in the final mix than Åkerfeldt's solo Heritage production had delivered — Wilson's reputation for clarity and separation across dense arrangements served the snare well, letting ghost note patterns speak clearly beneath the keyboard and guitar textures. The result is a snare sound on Pale Communion that is both warmer than a typical metal snare and more clearly defined than a typical jazz recording — exactly the middle path that progressive rock drumming occupies.",
+      "description": "The Sonor SQ2 maple snare from Heritage and Watershed carried over to Pale Communion, providing the warm, controlled response that suited the 70s prog aesthetic. On Pale Communion, the snare's role is even more compositional than on Heritage — the arrangements are longer, the dynamic range is wider, and the snare must serve both the album's softest acoustic passages and the occasional heavier moments without losing character.\n\nSteven Wilson's mixing on Pale Communion gave the snare slightly more presence in the final mix than Åkerfeldt's solo Heritage production had delivered — Wilson's reputation for clarity and separation across dense arrangements served the snare well, letting ghost note patterns speak clearly beneath the keyboard and guitar textures. The result is a snare sound on Pale Communion that is both warmer than a typical metal snare and more clearly defined than a typical jazz recording — exactly the middle path that progressive rock drumming occupies.",
       "tuningSetting": "Medium tension for warm body and ghost-note sensitivity across the album's wide dynamic range",
       "heads": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)",
-      "estimatedValue": "$400-700"
+      "estimatedValue": "$500-900"
     },
     "cymbals": {
       "title": "Meinl Byzance: The Ride as Lead Voice",
@@ -1010,16 +1010,16 @@ export const articles = {
       "items": [
         {
           "type": "Bass Drum Pedals",
-          "brand": "Pearl",
-          "model": "Pearl Demon Drive (twin pedals)",
-          "notes": "Direct-drive twin pedals — same configuration as Heritage",
-          "description": "The Pearl Demon Drive twin pedal configuration from Heritage continued on Pale Communion. The Demon Drive's direct-drive precision enables the subtle kick patterns beneath long prog-rock arrangements, with the twin configuration available for moments that call for double-bass — particularly in the heavier passages of \"Cusp of Eternity\" and \"Voice of Treason.\""
+          "brand": "Tama",
+          "model": "Tama Iron Cobra Double Pedal",
+          "notes": "Direct-drive twin pedals — same configuration as Heritage and Watershed",
+          "description": "The Tama Iron Cobra Double Pedal configuration from Heritage and Watershed continued on Pale Communion. Its direct-drive precision enables the subtle kick patterns beneath long prog-rock arrangements, with the twin configuration available for moments that call for double-bass — particularly in the heavier passages of \"Cusp of Eternity\" and \"Voice of Treason.\""
         },
         {
           "type": "Hi-Hat Stand",
-          "brand": "Pearl",
-          "model": "Pearl H-2050 Eliminator Hi-Hat Stand",
-          "notes": "Heavy-duty Pearl stand — same as Heritage"
+          "brand": "Sonor",
+          "model": "Sonor Hardware",
+          "notes": "Heavy-duty Sonor hardware — same as Heritage"
         },
         {
           "type": "Throne",
@@ -1042,9 +1042,9 @@ export const articles = {
     },
     "recordingTechniques": {
       "title": "Fascination Street + Steven Wilson's Mix: The Opeth Connection Returns",
-      "content": "Pale Communion was produced by Mikael Åkerfeldt at Fascination Street Studios — the same environment as Heritage — but with a critical difference: Steven Wilson returned to mix the album. Wilson had mixed or produced every Opeth record from My Arms, Your Hearse (1998) through Ghost Reveries (2005), and his return for Pale Communion brought his renowned clarity and separation to the prog-rock arrangement.\n\nWilson's mixing approach on Pale Communion gave each element of the drum kit more definition and separation than Åkerfeldt's Heritage production had delivered. The snare's ghost notes are more clearly audible. The ride cymbal's overtones are more precisely placed in the stereo image. The kick drums sit with more authority in the low end. The result is a drum sound that is warmer than a metal record but more clearly defined than a typical 70s prog reissue — the modern equivalent of what Wilson had done with Lopez's drums on Blackwater Park.\n\n**The Eternal Rains Breakdown:**\nThe extended drum breakdown in \"Eternal Rains Will Come\" was the most complex studio drum moment of the prog era — a passage that showcased the full Pearl Reference vocabulary and demanded takes that captured both technical precision and musical phrasing. Wilson's mix brought this section into sharp relief, letting each tom stroke and ride hit speak clearly in the arrangement. The section's mix is as important as Axenrot's performance in making it the defining drum moment of Pale Communion.",
+      "content": "Pale Communion was produced by Mikael Åkerfeldt at Fascination Street Studios — the same environment as Heritage — but with a critical difference: Steven Wilson returned to mix the album. Wilson had mixed or produced every Opeth record from My Arms, Your Hearse (1998) through Ghost Reveries (2005), and his return for Pale Communion brought his renowned clarity and separation to the prog-rock arrangement.\n\nWilson's mixing approach on Pale Communion gave each element of the drum kit more definition and separation than Åkerfeldt's Heritage production had delivered. The snare's ghost notes are more clearly audible. The ride cymbal's overtones are more precisely placed in the stereo image. The kick drums sit with more authority in the low end. The result is a drum sound that is warmer than a metal record but more clearly defined than a typical 70s prog reissue — the modern equivalent of what Wilson had done with Lopez's drums on Blackwater Park.\n\n**The Eternal Rains Breakdown:**\nThe extended drum breakdown in \"Eternal Rains Will Come\" was the most complex studio drum moment of the prog era — a passage that showcased everything the Sonor SQ2 and Meinl Byzance setup could do and demanded takes that captured both technical precision and musical phrasing. Wilson's mix brought this section into sharp relief, letting each tom stroke and ride hit speak clearly in the arrangement. The section's mix is as important as Axenrot's performance in making it the defining drum moment of Pale Communion.",
       "keyTechniques": [
-        "Steven Wilson returns to mix — clarity and separation he brought to Lopez-era records applied to the prog-era Pearl Reference setup",
+        "Steven Wilson returns to mix — clarity and separation he brought to Lopez-era records applied to the prog-era Sonor SQ2 setup",
         "Snare ghost notes more clearly defined in Wilson's mix than in Åkerfeldt's Heritage production",
         "Ride cymbal overtones precisely placed in the stereo image — more than any prior Axenrot Opeth production",
         "\"Eternal Rains Will Come\" breakdown section required precision takes captured with Wilson's mix approach",
@@ -1058,11 +1058,11 @@ export const articles = {
         "signature": "4/4 with odd-meter passages",
         "highlights": [
           "Axenrot's signature prog-era track — the extended drum breakdown is the defining moment",
-          "Melodic tom phrasing across all four toms demonstrates the Pearl Reference's resonance",
+          "Melodic tom phrasing across all four toms demonstrates the Sonor SQ2's resonance",
           "Byzance ride carries the opening groove; breakdown shifts to melodic percussion phrasing",
           "Most technically demanding drum performance in the Heritage / Pale Communion / Sorceress trilogy"
         ],
-        "gearNotes": "The Pearl Reference Series four-tom layout makes the extended breakdown's melodic phrasing possible — the natural resonance lets each stroke sing into the next. Wilson's mix brought the section into sharp relief, giving each tom its own defined voice in the stereo image."
+        "gearNotes": "The Sonor SQ2 four-tom layout makes the extended breakdown's melodic phrasing possible — the natural resonance lets each stroke sing into the next. Wilson's mix brought the section into sharp relief, giving each tom its own defined voice in the stereo image."
       },
       {
         "track": "Cusp of Eternity",
@@ -1072,9 +1072,9 @@ export const articles = {
           "Pale Communion's heaviest track — closest approach to the Watershed metal vocabulary",
           "Twin-kick double bass makes a more prominent appearance than anywhere on Heritage",
           "Dynamic contrast between soft verses and heavier sections demonstrates Axenrot's range",
-          "The Pearl Demon Drive twin pedals enable the sustained kick patterns in the heavier sections"
+          "The Tama Iron Cobra Double Pedal enables the sustained kick patterns in the heavier sections"
         ],
-        "gearNotes": "The Pearl Demon Drive twin pedals deliver fast, precise response for the heavier sections of Cusp of Eternity. The Pearl Reference kick drums' warmer fundamental keeps the low end from becoming too aggressive — preserving the prog-rock character even at the album's heaviest point."
+        "gearNotes": "The Tama Iron Cobra Double Pedal delivers fast, precise response for the heavier sections of Cusp of Eternity. The same Sonor SQ2 kick drums heard on Watershed keep the low end from becoming too aggressive here — the restraint comes from how Axenrot plays them, preserving the prog-rock character even at the album's heaviest point."
       },
       {
         "track": "River",
@@ -1086,21 +1086,21 @@ export const articles = {
           "Ghost note patterns under acoustic passages demonstrate Lopez vocabulary preserved",
           "The Byzance ride's washy sustain sustains the atmosphere across long sections"
         ],
-        "gearNotes": "The Meinl Byzance 22\" Traditional ride carries River's melodic and rhythmic content through long sections — the most extended single-ride-cymbal statement in the prog era. The Pearl Reference snare's ghost note sensitivity serves the track's softer passages without losing body."
+        "gearNotes": "The Meinl Byzance 22\" Traditional ride carries River's melodic and rhythmic content through long sections — the most extended single-ride-cymbal statement in the prog era. The Sonor SQ2 snare's ghost note sensitivity serves the track's softer passages without losing body."
       }
     ],
     "faq": [
       {
         "question": "What drum kit did Martin Axenrot use on Opeth's Pale Communion?",
-        "answer": "Martin Axenrot recorded Opeth's Pale Communion (2014) using the same Pearl Reference Series setup he had established for Heritage (2011): twin 22\"x18\" bass drums, 10\" and 12\" rack toms, 14\" and 16\" floor toms. He paired the Pearl kit with Meinl Byzance cymbals (14\" Traditional Medium Hi-Hats, 16\" Thin Crash, 18\" Medium Thin Crash, 22\" Traditional Medium Ride) and Pearl Demon Drive direct-drive twin pedals. Tracked at Fascination Street Studios in Örebro, Sweden, produced by Mikael Åkerfeldt and mixed by Steven Wilson."
+        "answer": "Martin Axenrot recorded Opeth's Pale Communion (2014) using the same Sonor SQ2 setup he has played since joining Opeth in 2006: twin 22\"x18\" bass drums, 10\" and 12\" rack toms, 14\" and 16\" floor toms, with a Sonor SQ2 14\"x5.75\" maple snare. He paired the Sonor kit with Meinl Byzance cymbals (14\" Traditional Medium Hi-Hats, 16\" Thin Crash, 18\" Medium Thin Crash, 22\" Traditional Medium Ride) and a Tama Iron Cobra Double Pedal. Tracked at Fascination Street Studios in Örebro, Sweden, produced by Mikael Åkerfeldt and mixed by Steven Wilson."
       },
       {
         "question": "What happens on the drum breakdown in 'Eternal Rains Will Come'?",
-        "answer": "The extended drum breakdown in \"Eternal Rains Will Come\" is the defining drum moment of Opeth's prog era and Axenrot's most compositionally ambitious studio performance. The passage features extended melodic tom phrasing across the Pearl Reference Series four-tom layout — a sustained, flowing series of fills that function more like a melodic statement than a rhythmic transition. Steven Wilson's mix gives each tom its own voice in the stereo image, and the Pearl Reference's natural resonance lets each stroke sustain into the next. The breakdown demonstrates the distance Axenrot had traveled from the extreme metal vocabulary of Bloodbath and Witchery — it is jazz-influenced progressive drumming in the tradition of Carl Palmer and Bill Bruford, applied to an Opeth arrangement."
+        "answer": "The extended drum breakdown in \"Eternal Rains Will Come\" is the defining drum moment of Opeth's prog era and Axenrot's most compositionally ambitious studio performance. The passage features extended melodic tom phrasing across the Sonor SQ2's four-tom layout — a sustained, flowing series of fills that function more like a melodic statement than a rhythmic transition. Steven Wilson's mix gives each tom its own voice in the stereo image, and the Sonor SQ2's natural resonance lets each stroke sustain into the next. The breakdown demonstrates the distance Axenrot had traveled from the extreme metal vocabulary of Bloodbath and Witchery — it is jazz-influenced progressive drumming in the tradition of Carl Palmer and Bill Bruford, applied to an Opeth arrangement."
       },
       {
         "question": "How does Pale Communion compare to Heritage in terms of drumming?",
-        "answer": "Pale Communion is a refinement of Heritage's approach rather than a departure from it. Both albums use the Pearl Reference Series kit and Meinl Byzance cymbals in a 70s prog-rock context, with ride-cymbal-forward phrasing and jazz-influenced restraint. The differences are in execution and production: Pale Communion is more compositionally ambitious in its drum phrasing — the \"Eternal Rains Will Come\" breakdown has no equivalent on Heritage — and Steven Wilson's mix brings the drum kit more clarity and separation than Åkerfeldt's Heritage production delivered. Pale Communion is also slightly heavier at its peaks (\"Cusp of Eternity\" gets closer to the Watershed vocabulary than anything on Heritage), demonstrating greater dynamic range across the album."
+        "answer": "Pale Communion is a refinement of Heritage's approach rather than a departure from it. Both albums use the same Sonor SQ2 kit and Meinl Byzance cymbals in a 70s prog-rock context, with ride-cymbal-forward phrasing and jazz-influenced restraint. The differences are in execution and production: Pale Communion is more compositionally ambitious in its drum phrasing — the \"Eternal Rains Will Come\" breakdown has no equivalent on Heritage — and Steven Wilson's mix brings the drum kit more clarity and separation than Åkerfeldt's Heritage production delivered. Pale Communion is also slightly heavier at its peaks (\"Cusp of Eternity\" gets closer to the Watershed vocabulary than anything on Heritage), demonstrating greater dynamic range across the album."
       },
       {
         "question": "Why was Pale Communion submitted for Grammy consideration?",
@@ -1108,12 +1108,12 @@ export const articles = {
       },
       {
         "question": "How does Pale Communion connect to Heritage and Sorceress in the Axenrot discography?",
-        "answer": "Pale Communion (2014) sits at the center of Opeth's prog trilogy: following Heritage (2011) and preceding Sorceress (2016). Heritage was the genre pivot — the bold statement of intent. Pale Communion was the artistic peak — Heritage's direction fully realized. Sorceress was the consolidation — the prog identity settled as Opeth's new default mode, with slightly heavier passages reintroduced within the prog framework. For gear, all three albums use the Pearl Reference Series and Meinl Byzance cymbals, with subtle differences in how Axenrot deployed each element to serve each album's specific direction. See [Heritage drum setup](/articles/heritage-drum-setup), [Sorceress drum setup](/articles/sorceress-drum-setup), and [Martin Axenrot's drummer profile](/drummer/martin-axenrot)."
+        "answer": "Pale Communion (2014) sits at the center of Opeth's prog trilogy: following Heritage (2011) and preceding Sorceress (2016). Heritage was the genre pivot — the bold statement of intent. Pale Communion was the artistic peak — Heritage's direction fully realized. Sorceress was the consolidation — the prog identity settled as Opeth's new default mode, with slightly heavier passages reintroduced within the prog framework. For gear, all three albums use the same Sonor SQ2 kit and Meinl Byzance cymbals Axenrot has played since 2006, with subtle differences in how he deployed each element to serve each album's specific direction. See [Heritage drum setup](/articles/heritage-drum-setup), [Sorceress drum setup](/articles/sorceress-drum-setup), and [Martin Axenrot's drummer profile](/drummer/martin-axenrot)."
       }
     ],
     "conclusion": {
       "title": "The Peak of Opeth's Prog Era — and Axenrot's Most Refined Studio Performance",
-      "content": "Pale Communion is the album where Opeth's prog-rock era reached its creative peak, and the record where Martin Axenrot delivered his most compositionally sophisticated studio performance. The Pearl Reference Series, the Meinl Byzance ride as primary lead voice, Steven Wilson's mix clarity — everything converged on an album that demonstrated complete mastery of the 70s prog aesthetic that Heritage had announced.\n\n\"Eternal Rains Will Come\" is the track that defines Axenrot's prog era: the extended drum breakdown is a piece of progressive drumming that stands with the best work of the genre's 1970s masters. It is not a metal performance. It is not a jazz performance. It is the meeting point of extreme precision and jazz-influenced melodic phrasing that only exists in progressive rock, and Axenrot delivers it with complete authority on a Pearl Reference Series kit that suited the music perfectly.\n\nFor drummers, Pale Communion is the tutorial in how to make a metal drumming background serve a 70s prog-rock context. The foundation — Pearl Reference Series, Meinl Byzance, twin-kick available but rarely needed — is the same as Heritage. The application is more ambitious, more compositionally confident, and more fully realized. This is what three years of living with Heritage's direction produced: not a repeat, but a refinement.\n\nFor the complete Axenrot prog-era arc: [Watershed drum setup](/articles/watershed-drum-setup), [Heritage drum setup](/articles/heritage-drum-setup), [Sorceress drum setup](/articles/sorceress-drum-setup), and [Martin Axenrot's drummer profile](/drummer/martin-axenrot)."
+      "content": "Pale Communion is the album where Opeth's prog-rock era reached its creative peak, and the record where Martin Axenrot delivered his most compositionally sophisticated studio performance. The Sonor SQ2 kit, the Meinl Byzance ride as primary lead voice, Steven Wilson's mix clarity — everything converged on an album that demonstrated complete mastery of the 70s prog aesthetic that Heritage had announced.\n\n\"Eternal Rains Will Come\" is the track that defines Axenrot's prog era: the extended drum breakdown is a piece of progressive drumming that stands with the best work of the genre's 1970s masters. It is not a metal performance. It is not a jazz performance. It is the meeting point of extreme precision and jazz-influenced melodic phrasing that only exists in progressive rock, and Axenrot delivers it with complete authority on the same Sonor SQ2 kit that suited Watershed's aggression just as well.\n\nFor drummers, Pale Communion is the tutorial in how to make a metal drumming background serve a 70s prog-rock context. The foundation — Sonor SQ2, Meinl Byzance, twin-kick available but rarely needed — is the same as Heritage, and the same as Watershed before it. The application is more ambitious, more compositionally confident, and more fully realized. This is what three years of living with Heritage's direction produced: not a repeat, but a refinement.\n\nFor the complete Axenrot prog-era arc: [Watershed drum setup](/articles/watershed-drum-setup), [Heritage drum setup](/articles/heritage-drum-setup), [Sorceress drum setup](/articles/sorceress-drum-setup), and [Martin Axenrot's drummer profile](/drummer/martin-axenrot)."
     },
     "schema": {
       "@context": "https://schema.org",
@@ -1121,7 +1121,7 @@ export const articles = {
         {
           "@type": "Article",
           "headline": "Martin Axenrot's Drum Setup on Opeth's Pale Communion (2014)",
-          "description": "Discover the drum kit, cymbals, and gear Martin Axenrot used on Opeth's Pale Communion (2014). Complete breakdown of Axenrot's Pearl Reference Series setup, the extended drum breakdown on Eternal Rains Will Come, and how Opeth's 70s prog peak became Axenrot's most refined progressive performance.",
+          "description": "Discover the drum kit, cymbals, and gear Martin Axenrot used on Opeth's Pale Communion (2014). Complete breakdown of Axenrot's Sonor SQ2 setup, the extended drum breakdown on Eternal Rains Will Come, and how Opeth's 70s prog peak became Axenrot's most refined progressive performance.",
           "author": {
             "@type": "Organization",
             "name": "MetalForge Editorial"
@@ -1160,7 +1160,7 @@ export const articles = {
               "name": "What drum kit did Martin Axenrot use on Opeth's Pale Communion?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Martin Axenrot recorded Pale Communion using a Pearl Reference Series kit with twin 22 inch bass drums, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. He used Meinl Byzance cymbals and Pearl Demon Drive direct-drive twin pedals. Tracked at Fascination Street Studios in Orebro, produced by Mikael Akerfeldt and mixed by Steven Wilson."
+                "text": "Martin Axenrot recorded Pale Communion using the same Sonor SQ2 kit he has played since 2006, with twin 22 inch bass drums, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. He used Meinl Byzance cymbals and a Tama Iron Cobra Double Pedal. Tracked at Fascination Street Studios in Orebro, produced by Mikael Akerfeldt and mixed by Steven Wilson."
               }
             },
             {
@@ -1168,7 +1168,7 @@ export const articles = {
               "name": "What happens on the drum breakdown in Eternal Rains Will Come?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "The extended drum breakdown in Eternal Rains Will Come is the defining drum moment of Opeth's prog era. The passage features sustained melodic tom phrasing across the Pearl Reference Series four-tom layout — a flowing series of fills that function as a melodic statement. Steven Wilson's mix gives each tom its own voice, and the Pearl Reference's natural resonance lets each stroke sustain into the next. It is jazz-influenced progressive drumming in the tradition of Carl Palmer and Bill Bruford, applied to an Opeth arrangement."
+                "text": "The extended drum breakdown in Eternal Rains Will Come is the defining drum moment of Opeth's prog era. The passage features sustained melodic tom phrasing across the Sonor SQ2's four-tom layout — a flowing series of fills that function as a melodic statement. Steven Wilson's mix gives each tom its own voice, and the Sonor SQ2's natural resonance lets each stroke sustain into the next. It is jazz-influenced progressive drumming in the tradition of Carl Palmer and Bill Bruford, applied to an Opeth arrangement."
               }
             },
             {
@@ -1176,7 +1176,7 @@ export const articles = {
               "name": "How does Pale Communion compare to Heritage in terms of drumming?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Pale Communion is a refinement of Heritage's approach — same Pearl Reference Series kit and Meinl Byzance cymbals, same 70s prog-rock context. The differences are in compositional ambition and production quality: the Eternal Rains Will Come breakdown has no equivalent on Heritage, and Steven Wilson's mix brings more clarity and separation to the drum kit than Akerfeldt's Heritage production delivered."
+                "text": "Pale Communion is a refinement of Heritage's approach — same Sonor SQ2 kit and Meinl Byzance cymbals, same 70s prog-rock context. The differences are in compositional ambition and production quality: the Eternal Rains Will Come breakdown has no equivalent on Heritage, and Steven Wilson's mix brings more clarity and separation to the drum kit than Akerfeldt's Heritage production delivered."
               }
             }
           ]
@@ -1216,7 +1216,7 @@ export const articles = {
     "author": "MetalForge Editorial",
     "peakChart": "#1 Sweden, #1 Norway, #25 UK",
     "title": "Martin Axenrot's Drum Setup on Opeth's Sorceress (2016)",
-    "description": "Discover the drum kit, cymbals, and gear Martin Axenrot used on Opeth's Sorceress (2016). Complete breakdown of Axenrot's Pearl Reference Series setup, the Nuclear Blast era debut, heavier riffs returning alongside prog-rock textures, and Axenrot's expanded dynamic range across the album.",
+    "description": "Discover the drum kit, cymbals, and gear Martin Axenrot used on Opeth's Sorceress (2016). Complete breakdown of Axenrot's Sonor SQ2 setup, the Nuclear Blast era debut, heavier riffs returning alongside prog-rock textures, and Axenrot's expanded dynamic range across the album.",
     "seoKeywords": [
       "sorceress drums opeth",
       "martin axenrot sorceress",
@@ -1224,25 +1224,25 @@ export const articles = {
       "martin axenrot 2016 drum kit",
       "opeth nuclear blast drums",
       "opeth 2016 drums",
-      "axenrot pearl reference sorceress",
+      "axenrot sonor sq2 sorceress",
       "opeth sorceress gear"
     ],
     "ogImage": "/images/albums/sorceress-drums.webp",
     "intro": {
       "title": "The Nuclear Blast Era Begins — Heavier Riffs, Same Prog Identity",
-      "content": "Released on September 30, 2016 through Nuclear Blast Records, Sorceress is the first Opeth album on a new label — the band had been with Roadrunner Records since Watershed, and the Nuclear Blast move signaled both a commercial reorientation and an artistic one. The album debuted at #1 in both Sweden and Norway, Opeth's joint-best chart performance to that point, confirming that the prog-rock identity established on Heritage and refined on Pale Communion had become the band's sustainable commercial mode.\n\nFor Martin Axenrot, Sorceress represented a third iteration of the prog-era vocabulary he had been developing since Heritage. The Pearl Reference Series kit and Meinl Byzance cymbals remained from the two previous albums, but Sorceress introduced a meaningful shift in how Axenrot deployed his range: the album's arrangements incorporate heavier riff passages to a greater degree than either Heritage or Pale Communion, requiring Axenrot to expand his dynamic range — covering the full spectrum from jazz-influenced brush restraint to the more aggressive twin-kick passages that the heavier sections demanded.\n\nProduced again by Mikael Åkerfeldt at Fascination Street Studios, Sorceress found the band at their most self-assured in the prog-rock mode. The experimentation of Heritage and the artistic peak of Pale Communion had given way to confident execution: tracks like \"Sorceress\" and \"Will O the Wisp\" move between soft prog-rock passages and heavier riff sections with the ease of a band that had been living in this vocabulary for five years. Axenrot's drumming across these contrasts is the technical achievement of the album — the ability to shift between soft, brush-influenced restraint and assertive metal attack without jarring the listener, using the Pearl Reference's dynamic range to span the gap.\n\nAt #1 in Sweden and Norway, Sorceress confirmed what Heritage had promised: Opeth's prog-rock era was not a phase but a destination. And Martin Axenrot — once the extreme metal drummer from Bloodbath and Witchery — was the drummer holding that destination together.",
+      "content": "Released on September 30, 2016 through Nuclear Blast Records, Sorceress is the first Opeth album on a new label — the band had been with Roadrunner Records since Watershed, and the Nuclear Blast move signaled both a commercial reorientation and an artistic one. The album debuted at #1 in both Sweden and Norway, Opeth's joint-best chart performance to that point, confirming that the prog-rock identity established on Heritage and refined on Pale Communion had become the band's sustainable commercial mode.\n\nFor Martin Axenrot, Sorceress represented a third iteration of the prog-era vocabulary he had been developing since Heritage. The Sonor SQ2 kit and Meinl Byzance cymbals remained exactly as they had been since 2006, but Sorceress introduced a meaningful shift in how Axenrot deployed his range: the album's arrangements incorporate heavier riff passages to a greater degree than either Heritage or Pale Communion, requiring Axenrot to expand his dynamic range — covering the full spectrum from jazz-influenced brush restraint to the more aggressive twin-kick passages that the heavier sections demanded.\n\nProduced again by Mikael Åkerfeldt at Fascination Street Studios, Sorceress found the band at their most self-assured in the prog-rock mode. The experimentation of Heritage and the artistic peak of Pale Communion had given way to confident execution: tracks like \"Sorceress\" and \"Will O the Wisp\" move between soft prog-rock passages and heavier riff sections with the ease of a band that had been living in this vocabulary for five years. Axenrot's drumming across these contrasts is the technical achievement of the album — the ability to shift between soft, brush-influenced restraint and assertive metal attack without jarring the listener, using the same Sonor SQ2's dynamic range to span the gap.\n\nAt #1 in Sweden and Norway, Sorceress confirmed what Heritage had promised: Opeth's prog-rock era was not a phase but a destination. And Martin Axenrot — once the extreme metal drummer from Bloodbath and Witchery — was the drummer holding that destination together.",
       "keyPoints": [
         "First Opeth album on Nuclear Blast Records — label move signals commercial reorientation",
         "Debuted at #1 in both Sweden and Norway — Opeth's joint-best chart performance",
-        "Pearl Reference Series and Meinl Byzance retained from Heritage and Pale Communion",
+        "Sonor SQ2 kit and Meinl Byzance cymbals retained, unchanged, from Heritage and Pale Communion",
         "Heavier riff passages reintroduced — Axenrot's dynamic range spans soft jazz to assertive metal attack",
         "Produced by Mikael Åkerfeldt at Fascination Street Studios — same environment as Heritage and Pale Communion"
       ]
     },
     "drumKit": {
-      "title": "Pearl Reference Series: Five Years In, Maximum Fluency",
-      "brand": "Pearl",
-      "model": "Pearl Reference Series",
+      "title": "Sonor SQ2: Ten Years In, Maximum Fluency",
+      "brand": "Sonor",
+      "model": "Sonor SQ2 Series",
       "finish": "Natural / Custom Lacquer",
       "config": {
         "bassdrums": [
@@ -1257,28 +1257,28 @@ export const articles = {
           "14\" x 14\" Floor Tom",
           "16\" x 16\" Floor Tom"
         ],
-        "shells": "6-ply maple/mahogany hybrid shells — same configuration as Heritage and Pale Communion"
+        "shells": "Sonor's German-engineered custom shells — same configuration as Heritage and Pale Communion"
       },
-      "description": "By 2016, Axenrot had five years of experience with the Pearl Reference Series — touring Heritage extensively, recording and touring Pale Communion, and developing complete fluency with the kit's characteristics. Sorceress benefits from that accumulated knowledge: this is a drummer who knows exactly what the Pearl Reference can do and exactly how to make it serve each section of each song.\n\nThe most significant change on Sorceress is how the twin 22\" bass drums are deployed. Heritage had used them with extraordinary restraint. Pale Communion's \"Cusp of Eternity\" had reintroduced some sustained double-bass work. Sorceress takes this further: tracks like \"Sorceress\" and \"The Ward\" feature assertive kick drum passages that connect back to the Watershed vocabulary, reminding listeners that Axenrot's extreme metal foundation never went away — it was simply held in reserve during Heritage and Pale Communion's more restrained chapters.\n\nThe four-tom layout remains consistent with Heritage and Pale Communion — the same 10\", 12\", 14\", 16\" configuration that Axenrot had inherited from Lopez's Opeth vocabulary and maintained through every record. On Sorceress, the toms are used with the same melodic ambition as Pale Communion but within arrangements that also call for more aggressive punctuation — making the contrast between sections more pronounced and the dynamic range wider.\n\nThe Pearl Reference's thinner shell construction continues to provide the resonance and warmth that suits Fascination Street's ambient production approach, but on Sorceress the kit is also asked to punch harder when the arrangements demand it. Five years in, Axenrot knows exactly how hard to push the Pearl Reference without losing the warmth that defines the prog-era sound.",
+      "description": "By 2016, Axenrot had a decade of experience with the Sonor SQ2 kit — touring Heritage extensively, recording and touring Pale Communion, and developing complete fluency with the kit's characteristics across every register from extreme metal to jazz-influenced restraint. Sorceress benefits from that accumulated knowledge: this is a drummer who knows exactly what the Sonor SQ2 can do and exactly how to make it serve each section of each song.\n\nThe most significant change on Sorceress is how the twin 22\" bass drums are deployed. Heritage had used them with extraordinary restraint. Pale Communion's \"Cusp of Eternity\" had reintroduced some sustained double-bass work. Sorceress takes this further: tracks like \"Sorceress\" and \"The Ward\" feature assertive kick drum passages that connect back to the Watershed vocabulary, reminding listeners that Axenrot's extreme metal foundation never went away — it was simply held in reserve during Heritage and Pale Communion's more restrained chapters, on the very same kit.\n\nThe four-tom layout remains consistent with Heritage and Pale Communion — the same 10\", 12\", 14\", 16\" configuration that Axenrot had inherited from Lopez's Opeth vocabulary and maintained through every record. On Sorceress, the toms are used with the same melodic ambition as Pale Communion but within arrangements that also call for more aggressive punctuation — making the contrast between sections more pronounced and the dynamic range wider.\n\nSonor's shell construction continues to provide the resonance and warmth that suits Fascination Street's ambient production approach, but on Sorceress the kit is also asked to punch harder when the arrangements demand it — much as it did on Watershed. A decade in, Axenrot knows exactly how hard to push the Sonor SQ2 without losing the warmth that defines the prog-era sound.",
       "notes": [
-        "Five years of Pearl Reference fluency — Axenrot knows exactly what the kit can do on Sorceress",
+        "A decade of Sonor SQ2 fluency — Axenrot knows exactly what the kit can do on Sorceress",
         "Twin 22\" bass drums used more assertively than Heritage or Pale Communion — heavier passages demand more kick presence",
         "Same four-tom layout since Heritage — the Opeth vocabulary maintained through every record",
-        "Pearl Reference's warmth retained even in heavier sections — prog identity preserved",
+        "Sonor SQ2's warmth retained even in heavier sections — prog identity preserved",
         "Greatest dynamic range across any prog-era album — soft jazz to assertive metal in the same arrangement"
       ],
-      "estimatedValue": "$3,500-6,000 (Reference Series)"
+      "estimatedValue": "$8,000-15,000 (SQ2 custom configuration)"
     },
     "snare": {
       "title": "The Snare: Dynamic Range from Whisper to Assertive Attack",
-      "brand": "Pearl",
-      "model": "Pearl Reference Maple Snare",
-      "size": "14\" x 5.5\"",
+      "brand": "Sonor",
+      "model": "Sonor SQ2 Maple Snare",
+      "size": "14\" x 5.75\"",
       "shell": "Maple",
-      "description": "The Pearl Reference maple snare that had carried Heritage and Pale Communion continued on Sorceress — but the album's wider dynamic range asked more of it than either predecessor. Sorceress's arrangements move between the prog-rock restraint of Heritage-style passages and the assertive backbeats the heavier sections required, and the Pearl Reference maple snare spans both ends of that range without losing character.\n\nAxenrot's snare work on Sorceress demonstrates the dynamic control that five years of prog-era Opeth had built. On the soft passages — \"Will O the Wisp\" and \"Era\" among them — the ghost note vocabulary and brush-influenced touch are consistent with Heritage's most restrained moments. On the heavier passages — \"Sorceress,\" \"The Ward\" — the same Pearl Reference maple snare delivers assertive backbeats that echo the Watershed-era attack. The snare's versatility is the drum voice of Sorceress's expanded vocabulary.",
+      "description": "The Sonor SQ2 maple snare that had carried Heritage and Pale Communion continued on Sorceress — but the album's wider dynamic range asked more of it than either predecessor. Sorceress's arrangements move between the prog-rock restraint of Heritage-style passages and the assertive backbeats the heavier sections required, and the Sonor SQ2 maple snare spans both ends of that range without losing character.\n\nAxenrot's snare work on Sorceress demonstrates the dynamic control that a decade of Opeth had built. On the soft passages — \"Will O the Wisp\" and \"Era\" among them — the ghost note vocabulary and brush-influenced touch are consistent with Heritage's most restrained moments. On the heavier passages — \"Sorceress,\" \"The Ward\" — the same Sonor SQ2 maple snare delivers assertive backbeats that echo the Watershed-era attack. The snare's versatility is the drum voice of Sorceress's expanded vocabulary.",
       "tuningSetting": "Medium tension — same as Heritage and Pale Communion, providing the dynamic range the wider arrangements demand",
       "heads": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)",
-      "estimatedValue": "$400-700"
+      "estimatedValue": "$500-900"
     },
     "cymbals": {
       "title": "Meinl Byzance: Expanded Deployment for an Expanded Vocabulary",
@@ -1324,16 +1324,16 @@ export const articles = {
       "items": [
         {
           "type": "Bass Drum Pedals",
-          "brand": "Pearl",
-          "model": "Pearl Demon Drive (twin pedals)",
+          "brand": "Tama",
+          "model": "Tama Iron Cobra Double Pedal",
           "notes": "Direct-drive twin pedals — same as Heritage and Pale Communion; used more assertively on heavier Sorceress passages",
-          "description": "The Pearl Demon Drive twin pedals from Heritage and Pale Communion continued on Sorceress, but the album's heavier passages gave them more work to do than either predecessor. The Demon Drive's direct-drive precision enables both the subtle kick patterns of soft prog-rock passages and the more sustained double-bass work that heavier sections like \"Sorceress\" and \"The Ward\" demand. Five years of Pearl Demon Drive fluency gave Axenrot complete control over how assertively to deploy the twin kicks — from barely audible soft-passage pulse to front-of-mix attack."
+          "description": "The Tama Iron Cobra Double Pedal from Heritage and Pale Communion continued on Sorceress, but the album's heavier passages gave it more work to do than either predecessor. Its direct-drive precision enables both the subtle kick patterns of soft prog-rock passages and the more sustained double-bass work that heavier sections like \"Sorceress\" and \"The Ward\" demand. A decade of fluency with this pedal gave Axenrot complete control over how assertively to deploy the twin kicks — from barely audible soft-passage pulse to front-of-mix attack."
         },
         {
           "type": "Hi-Hat Stand",
-          "brand": "Pearl",
-          "model": "Pearl H-2050 Eliminator Hi-Hat Stand",
-          "notes": "Same heavy-duty Pearl stand as Heritage and Pale Communion"
+          "brand": "Sonor",
+          "model": "Sonor Hardware",
+          "notes": "Same heavy-duty Sonor hardware as Heritage and Pale Communion"
         },
         {
           "type": "Throne",
@@ -1356,7 +1356,7 @@ export const articles = {
     },
     "recordingTechniques": {
       "title": "Back at Fascination Street: The Prog-Era Production Approach Matures",
-      "content": "Sorceress returned to Fascination Street Studios in Örebro — the production home of Heritage and Pale Communion — with Mikael Åkerfeldt again handling production duties. The third straight album in this environment gave the Fascination Street recording approach a settled, confident character: Åkerfeldt knew exactly how to capture the Pearl Reference Series in the room, how to place the cymbals in the mix, and how to balance the drum kit against the album's complex arrangements.\n\n**Production Evolution:**\nÅkerfeldt's production on Sorceress is audibly more assured than Heritage's — the drum sound has more authority and presence, matching the album's wider dynamic range. Where Heritage's production had leaned toward restraint and warmth, Sorceress allows more impact when the arrangements demand it. The kicks sit further forward in heavier passages. The snare has more crack when the backbeats need it. The crashes are more present in the mix. This is not a return to Bogren's Watershed production style — the fundamental warmth and ambient quality of Fascination Street's prog-era sound is intact — but it is a maturation that reflects the wider dynamic requirements of Sorceress's arrangements.\n\n**First Nuclear Blast Record:**\nThe Nuclear Blast label move brought new commercial expectations and promotional resources, but did not change the production approach. Fascination Street, Åkerfeldt at the helm, Pearl Reference Series, Meinl Byzance — the continuity of production identity across three albums was itself a statement that this was Opeth's sound now, not a transitional phase.",
+      "content": "Sorceress returned to Fascination Street Studios in Örebro — the production home of Heritage and Pale Communion — with Mikael Åkerfeldt again handling production duties. The third straight album in this environment gave the Fascination Street recording approach a settled, confident character: Åkerfeldt knew exactly how to capture the Sonor SQ2 in the room, how to place the cymbals in the mix, and how to balance the drum kit against the album's complex arrangements.\n\n**Production Evolution:**\nÅkerfeldt's production on Sorceress is audibly more assured than Heritage's — the drum sound has more authority and presence, matching the album's wider dynamic range. Where Heritage's production had leaned toward restraint and warmth, Sorceress allows more impact when the arrangements demand it. The kicks sit further forward in heavier passages. The snare has more crack when the backbeats need it. The crashes are more present in the mix. This is not a return to Bogren's Watershed production style — the fundamental warmth and ambient quality of Fascination Street's prog-era sound is intact — but it is a maturation that reflects the wider dynamic requirements of Sorceress's arrangements.\n\n**First Nuclear Blast Record:**\nThe Nuclear Blast label move brought new commercial expectations and promotional resources, but did not change the production approach. Fascination Street, Åkerfeldt at the helm, the same Sonor SQ2 kit, Meinl Byzance — the continuity of production identity across three albums was itself a statement that this was Opeth's sound now, not a transitional phase.",
       "keyTechniques": [
         "Third straight album at Fascination Street — production approach settled and confident",
         "Drum sound has more authority and impact than Heritage — matching Sorceress's wider dynamic range",
@@ -1376,7 +1376,7 @@ export const articles = {
           "Soft prog-rock verse sections contrast with heavier choruses — widest dynamic range on the album",
           "Demonstrates Axenrot's complete prog-era vocabulary: soft jazz to assertive metal"
         ],
-        "gearNotes": "The Pearl Demon Drive twin pedals enable the more prominent double-bass patterns in the heavier sections. The 19\" Byzance Dark Crash makes its most assertive appearance here — the trash accent voice returning for the first time since Watershed. The Pearl Reference's dynamic range spans from the soft verse touch to the heavier chorus attack without a kit change."
+        "gearNotes": "The Tama Iron Cobra Double Pedal enables the more prominent double-bass patterns in the heavier sections. The 19\" Byzance Dark Crash makes its most assertive appearance here — the trash accent voice returning for the first time since Watershed. The Sonor SQ2's dynamic range spans from the soft verse touch to the heavier chorus attack without a kit change."
       },
       {
         "track": "Will O the Wisp",
@@ -1388,7 +1388,7 @@ export const articles = {
           "Ghost note patterns under acoustic passages demonstrate the Lopez vocabulary carried forward",
           "The contrast with the title track's aggression demonstrates Sorceress's dynamic range"
         ],
-        "gearNotes": "The Meinl Byzance 22\" Traditional ride carries the entire track's rhythmic and melodic content in the Heritage tradition. The Pearl Reference maple snare's ghost note sensitivity serves the soft passages — the same vocabulary Axenrot established on Heritage."
+        "gearNotes": "The Meinl Byzance 22\" Traditional ride carries the entire track's rhythmic and melodic content in the Heritage tradition. The Sonor SQ2 maple snare's ghost note sensitivity serves the soft passages — the same vocabulary Axenrot established on Heritage."
       },
       {
         "track": "The Ward",
@@ -1400,21 +1400,21 @@ export const articles = {
           "The 19\" Dark Crash marks aggressive arrivals — the most metal cymbal use of the prog era",
           "Demonstrates that the extreme metal foundation was never lost, only held in reserve"
         ],
-        "gearNotes": "The Pearl Demon Drive twin pedals work hardest on The Ward — the most sustained double-bass track of the entire prog era. The 19\" Byzance Dark Crash and the Pearl Reference's assertive kick attack together signal that Sorceress is occupying different territory from Heritage and Pale Communion."
+        "gearNotes": "The Tama Iron Cobra Double Pedal works hardest on The Ward — the most sustained double-bass track of the entire prog era. The 19\" Byzance Dark Crash and the Sonor SQ2's assertive kick attack together signal that Sorceress is occupying different territory from Heritage and Pale Communion."
       }
     ],
     "faq": [
       {
         "question": "What drum kit did Martin Axenrot use on Opeth's Sorceress?",
-        "answer": "Martin Axenrot recorded Opeth's Sorceress (2016) using the Pearl Reference Series kit that he had established for Heritage (2011) and Pale Communion (2014): twin 22\"x18\" bass drums, 10\" and 12\" rack toms, 14\" and 16\" floor toms. He paired the Pearl kit with Meinl Byzance cymbals (14\" Traditional Medium Hi-Hats, 16\" Thin Crash, 18\" Medium Thin Crash, 19\" Dark Crash, 22\" Traditional Medium Ride) and Pearl Demon Drive direct-drive twin pedals. Tracked at Fascination Street Studios in Örebro, Sweden, produced by Mikael Åkerfeldt. Sorceress was the first Opeth album released on Nuclear Blast Records."
+        "answer": "Martin Axenrot recorded Opeth's Sorceress (2016) using the same Sonor SQ2 kit he has played since joining Opeth in 2006: twin 22\"x18\" bass drums, 10\" and 12\" rack toms, 14\" and 16\" floor toms, with a Sonor SQ2 14\"x5.75\" maple snare. He paired the Sonor kit with Meinl Byzance cymbals (14\" Traditional Medium Hi-Hats, 16\" Thin Crash, 18\" Medium Thin Crash, 19\" Dark Crash, 22\" Traditional Medium Ride) and a Tama Iron Cobra Double Pedal. Tracked at Fascination Street Studios in Örebro, Sweden, produced by Mikael Åkerfeldt. Sorceress was the first Opeth album released on Nuclear Blast Records."
       },
       {
         "question": "How does Sorceress differ from Heritage and Pale Communion in terms of drumming?",
-        "answer": "Sorceress expands the dynamic range established on Heritage and Pale Communion by reintroducing heavier riff passages and more assertive drumming across key tracks. Heritage was the most restrained of the three — minimal twin-kick, no China/Dark crash, maximum prog-rock restraint. Pale Communion was the most compositionally ambitious — the \"Eternal Rains Will Come\" breakdown is the prog era's technical peak. Sorceress is the most dynamically wide — soft prog passages alongside assertive heavy sections that bring the Watershed-era vocabulary back into play. The 19\" Dark Crash reappears more prominently than on either Heritage or Pale Communion, the twin kicks are used more assertively on heavier tracks, and the snare backbeats hit harder when the arrangement demands it. The Pearl Reference Series and Meinl Byzance setup is the same across all three albums; what changes is how Axenrot deploys his range within each."
+        "answer": "Sorceress expands the dynamic range established on Heritage and Pale Communion by reintroducing heavier riff passages and more assertive drumming across key tracks. Heritage was the most restrained of the three — minimal twin-kick, no China/Dark crash, maximum prog-rock restraint. Pale Communion was the most compositionally ambitious — the \"Eternal Rains Will Come\" breakdown is the prog era's technical peak. Sorceress is the most dynamically wide — soft prog passages alongside assertive heavy sections that bring the Watershed-era vocabulary back into play. The 19\" Dark Crash reappears more prominently than on either Heritage or Pale Communion, the twin kicks are used more assertively on heavier tracks, and the snare backbeats hit harder when the arrangement demands it. The Sonor SQ2 kit and Meinl Byzance cymbals are the same across all three albums — and the same Axenrot has played since 2006; what changes is how he deploys his range within each."
       },
       {
         "question": "Why did Opeth sign with Nuclear Blast for Sorceress?",
-        "answer": "Opeth moved from Roadrunner Records to Nuclear Blast for Sorceress after their Roadrunner contract concluded. Nuclear Blast was one of the world's leading metal labels by 2016, with distribution and promotional infrastructure that better served Opeth's commercial ambitions in the prog-rock era. The label move did not change the creative approach — Sorceress was still produced by Mikael Åkerfeldt at Fascination Street Studios in Örebro, with the same Pearl Reference Series and Meinl Byzance drum setup as Heritage and Pale Communion. The #1 chart debuts in Sweden and Norway validated the move commercially."
+        "answer": "Opeth moved from Roadrunner Records to Nuclear Blast for Sorceress after their Roadrunner contract concluded. Nuclear Blast was one of the world's leading metal labels by 2016, with distribution and promotional infrastructure that better served Opeth's commercial ambitions in the prog-rock era. The label move did not change the creative approach — Sorceress was still produced by Mikael Åkerfeldt at Fascination Street Studios in Örebro, with the same Sonor SQ2 and Meinl Byzance drum setup as Heritage and Pale Communion. The #1 chart debuts in Sweden and Norway validated the move commercially."
       },
       {
         "question": "How does Martin Axenrot's dynamic range compare across the Opeth prog trilogy?",
@@ -1422,12 +1422,12 @@ export const articles = {
       },
       {
         "question": "How does Sorceress connect to Pale Communion in the Axenrot discography?",
-        "answer": "Sorceress (2016) follows Pale Communion (2014) as the third and final chapter of Opeth's mid-2010s prog trilogy, all sharing the Pearl Reference Series kit, Meinl Byzance cymbals, and Fascination Street Studios production. Where Pale Communion was the artistic peak — most compositionally refined, Steven Wilson mixing — Sorceress is the expanded-vocabulary consolidation: the prog identity settled as Opeth's default mode, with heavier passages reintroduced to broaden the range. Together the three albums trace Axenrot's complete development as a progressive drummer. For the full arc, see [Heritage drum setup](/articles/heritage-drum-setup), [Pale Communion drum setup](/articles/pale-communion-drum-setup), and [Martin Axenrot's drummer profile](/drummer/martin-axenrot)."
+        "answer": "Sorceress (2016) follows Pale Communion (2014) as the third and final chapter of Opeth's mid-2010s prog trilogy, all sharing the same Sonor SQ2 kit, Meinl Byzance cymbals, and Fascination Street Studios production. Where Pale Communion was the artistic peak — most compositionally refined, Steven Wilson mixing — Sorceress is the expanded-vocabulary consolidation: the prog identity settled as Opeth's default mode, with heavier passages reintroduced to broaden the range. Together the three albums trace Axenrot's complete development as a progressive drummer. For the full arc, see [Heritage drum setup](/articles/heritage-drum-setup), [Pale Communion drum setup](/articles/pale-communion-drum-setup), and [Martin Axenrot's drummer profile](/drummer/martin-axenrot)."
       }
     ],
     "conclusion": {
       "title": "The Nuclear Blast Era — Prog Identity Consolidated, Dynamic Range Expanded",
-      "content": "Sorceress is the album where Opeth's prog-rock identity became fully consolidated — no longer an experiment, no longer a pivot, but the default mode of a band that knew exactly who they were and how to execute it. For Martin Axenrot, it was the record where the dynamic range he had been developing since Heritage reached its widest expression: from the jazz-influenced restraint of \"Will O the Wisp\" to the assertive metal attack of \"The Ward,\" with the title track spanning both extremes in a single arrangement.\n\nThe Pearl Reference Series and Meinl Byzance setup had proven itself across three albums and multiple world tours. By Sorceress, Axenrot had complete fluency with the kit — knowing exactly how the Pearl Reference responded, exactly how hard to push the twin kicks before the warmth gave way to aggression, exactly how the Byzance ride's sustain behaved in Fascination Street's acoustic environment. That fluency is audible in every track on Sorceress: a drummer making the music rather than thinking about the tools.\n\nThe Nuclear Blast era debut at #1 in Sweden and #1 in Norway was the commercial validation that Heritage had promised and Pale Communion had reinforced. Opeth's prog-rock identity had found its audience, and Martin Axenrot's expanded vocabulary — spanning jazz brush restraint and metal aggression with equal authority — was a crucial element of what made that identity work.\n\nFor the complete Axenrot prog-era arc: [Heritage drum setup](/articles/heritage-drum-setup), [Pale Communion drum setup](/articles/pale-communion-drum-setup), [Watershed drum setup](/articles/watershed-drum-setup), and [Martin Axenrot's drummer profile](/drummer/martin-axenrot)."
+      "content": "Sorceress is the album where Opeth's prog-rock identity became fully consolidated — no longer an experiment, no longer a pivot, but the default mode of a band that knew exactly who they were and how to execute it. For Martin Axenrot, it was the record where the dynamic range he had been developing since Heritage reached its widest expression: from the jazz-influenced restraint of \"Will O the Wisp\" to the assertive metal attack of \"The Ward,\" with the title track spanning both extremes in a single arrangement.\n\nThe Sonor SQ2 and Meinl Byzance setup had proven itself across three albums and multiple world tours — and across the Watershed record before that. By Sorceress, Axenrot had complete fluency with the kit — knowing exactly how the Sonor SQ2 responded, exactly how hard to push the twin kicks before the warmth gave way to aggression, exactly how the Byzance ride's sustain behaved in Fascination Street's acoustic environment. That fluency is audible in every track on Sorceress: a drummer making the music rather than thinking about the tools.\n\nThe Nuclear Blast era debut at #1 in Sweden and #1 in Norway was the commercial validation that Heritage had promised and Pale Communion had reinforced. Opeth's prog-rock identity had found its audience, and Martin Axenrot's expanded vocabulary — spanning jazz brush restraint and metal aggression with equal authority, all on the same unchanged Sonor SQ2 kit — was a crucial element of what made that identity work.\n\nFor the complete Axenrot prog-era arc: [Heritage drum setup](/articles/heritage-drum-setup), [Pale Communion drum setup](/articles/pale-communion-drum-setup), [Watershed drum setup](/articles/watershed-drum-setup), and [Martin Axenrot's drummer profile](/drummer/martin-axenrot)."
     },
     "schema": {
       "@context": "https://schema.org",
@@ -1435,7 +1435,7 @@ export const articles = {
         {
           "@type": "Article",
           "headline": "Martin Axenrot's Drum Setup on Opeth's Sorceress (2016)",
-          "description": "Discover the drum kit, cymbals, and gear Martin Axenrot used on Opeth's Sorceress (2016). Complete breakdown of Axenrot's Pearl Reference Series setup, the Nuclear Blast era debut, heavier riffs returning alongside prog-rock textures, and Axenrot's expanded dynamic range.",
+          "description": "Discover the drum kit, cymbals, and gear Martin Axenrot used on Opeth's Sorceress (2016). Complete breakdown of Axenrot's Sonor SQ2 setup, the Nuclear Blast era debut, heavier riffs returning alongside prog-rock textures, and Axenrot's expanded dynamic range.",
           "author": {
             "@type": "Organization",
             "name": "MetalForge Editorial"
@@ -1474,7 +1474,7 @@ export const articles = {
               "name": "What drum kit did Martin Axenrot use on Opeth's Sorceress?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Martin Axenrot recorded Opeth's Sorceress in 2016 using the Pearl Reference Series kit with twin 22 inch bass drums, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. He used Meinl Byzance cymbals including a 19 inch Dark Crash returning more prominently than on Heritage or Pale Communion, and Pearl Demon Drive direct-drive twin pedals. Tracked at Fascination Street Studios in Orebro, produced by Mikael Akerfeldt. Sorceress was Opeth's first Nuclear Blast release."
+                "text": "Martin Axenrot recorded Opeth's Sorceress in 2016 using the same Sonor SQ2 kit he has played since 2006, with twin 22 inch bass drums, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. He used Meinl Byzance cymbals including a 19 inch Dark Crash returning more prominently than on Heritage or Pale Communion, and a Tama Iron Cobra Double Pedal. Tracked at Fascination Street Studios in Orebro, produced by Mikael Akerfeldt. Sorceress was Opeth's first Nuclear Blast release."
               }
             },
             {
@@ -1482,7 +1482,7 @@ export const articles = {
               "name": "How does Sorceress differ from Heritage and Pale Communion in terms of drumming?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Sorceress expands the dynamic range established on Heritage and Pale Communion by reintroducing heavier riff passages and more assertive drumming. Heritage was most restrained — minimal twin-kick, no dark crashes. Pale Communion was most compositionally ambitious. Sorceress is most dynamically wide — soft prog passages alongside assertive heavy sections. The 19 inch Dark Crash reappears prominently, the twin kicks are used more assertively, and the Pearl Reference spans from jazz-influenced restraint to metal attack within single arrangements."
+                "text": "Sorceress expands the dynamic range established on Heritage and Pale Communion by reintroducing heavier riff passages and more assertive drumming. Heritage was most restrained — minimal twin-kick, no dark crashes. Pale Communion was most compositionally ambitious. Sorceress is most dynamically wide — soft prog passages alongside assertive heavy sections. The 19 inch Dark Crash reappears prominently, the twin kicks are used more assertively, and the same Sonor SQ2 kit spans from jazz-influenced restraint to metal attack within single arrangements."
               }
             },
             {
@@ -1530,7 +1530,7 @@ export const articles = {
     "author": "MetalForge Editorial",
     "peakChart": "#2 Finland, #5 Germany, #12 Sweden, #13 UK Albums, #59 US Billboard 200",
     "title": "Martin Axenrot's Drum Setup on Opeth's In Cauda Venenum (2019)",
-    "description": "Discover the drum kit, cymbals, and gear Martin Axenrot used on Opeth's In Cauda Venenum (2019) — his final studio album with the band. Complete breakdown of Axenrot's Pearl Reference Series setup, the dual Swedish/English recording, Dave Stewart's string arrangements, and the record that closed the Axenrot era before Waltteri Väyrynen took the drum chair in 2022.",
+    "description": "Discover the drum kit, cymbals, and gear Martin Axenrot used on Opeth's In Cauda Venenum (2019) — his final studio album with the band. Complete breakdown of Axenrot's Sonor SQ2 setup, the dual Swedish/English recording, Dave Stewart's string arrangements, and the record that closed the Axenrot era before Waltteri Väyrynen took the drum chair in 2022.",
     "seoKeywords": [
       "in cauda venenum drums",
       "martin axenrot in cauda venenum",
@@ -1554,9 +1554,9 @@ export const articles = {
       ]
     },
     "drumKit": {
-      "title": "The Pearl Reference Series: Eight Years In, Full Orchestral Context",
-      "brand": "Pearl",
-      "model": "Pearl Reference Series",
+      "title": "The Sonor SQ2: Thirteen Years In, Full Orchestral Context",
+      "brand": "Sonor",
+      "model": "Sonor SQ2 Series",
       "finish": "Natural / Custom Lacquer",
       "config": {
         "bassdrums": [
@@ -1571,28 +1571,28 @@ export const articles = {
           "14\" x 14\" Floor Tom",
           "16\" x 16\" Floor Tom"
         ],
-        "shells": "6-ply maple/mahogany hybrid shells — same configuration carried through since Heritage"
+        "shells": "Sonor's German-engineered custom shells — the same build Axenrot has used since joining Opeth in 2006"
       },
-      "description": "By In Cauda Venenum, Axenrot had spent eight years with the Pearl Reference Series kit he had adopted for Heritage (2011) — through two further studio albums and multiple world tours. The twin 22\"x18\" bass drum, four-tom configuration remained unchanged from Pale Communion and Sorceress, but the demands placed on it were different. In Cauda Venenum's arrangements interleave dense orchestral string passages, mellotron textures, and extended song forms that stretch past eight minutes on three separate tracks, and Axenrot's job was to hold the rhythmic architecture together underneath music that was frequently more orchestral than metal.\n\nTracks like \"Heart in Hand\" and \"Next of Kin\" ask the kit to move fluidly between passages where the drums are the loudest element in the room and passages where they recede behind strings and mellotron, functioning almost as a chamber-music rhythm section. The Pearl Reference's resonant, open-voiced construction — the same quality that had suited Heritage's jazz restraint — proved equally suited to sitting underneath Dave Stewart's string arrangements without fighting them for space.\n\nThe twin 22\" kicks, largely held in reserve since Heritage's minimalism and only partially reintroduced on Sorceress, return more assertively on In Cauda Venenum's heavier tracks — \"Dignity\" and \"The Garroter\" both feature sustained double-bass passages that connect directly back to the Watershed-era vocabulary Axenrot built his reputation on in Bloodbath and Witchery. The album's dynamic range, from the hushed \"Garden of Earthly Delights\" intro to the closing crescendo of \"All Things Will Pass,\" asks more of the kit's response range than any Opeth record since Heritage.",
+      "description": "By In Cauda Venenum, Axenrot had spent thirteen years with the Sonor SQ2 kit he first brought to Opeth in 2006 — through Watershed, Heritage, Pale Communion, Sorceress, and multiple world tours. The twin 22\"x18\" bass drum, four-tom configuration remained unchanged throughout, but the demands placed on it were different album to album. In Cauda Venenum's arrangements interleave dense orchestral string passages, mellotron textures, and extended song forms that stretch past eight minutes on three separate tracks, and Axenrot's job was to hold the rhythmic architecture together underneath music that was frequently more orchestral than metal.\n\nTracks like \"Heart in Hand\" and \"Next of Kin\" ask the kit to move fluidly between passages where the drums are the loudest element in the room and passages where they recede behind strings and mellotron, functioning almost as a chamber-music rhythm section. The Sonor SQ2's resonant, open-voiced construction — the same quality that had suited Heritage's jazz restraint — proved equally suited to sitting underneath Dave Stewart's string arrangements without fighting them for space.\n\nThe twin 22\" kicks, largely held in reserve since Heritage's minimalism and only partially reintroduced on Sorceress, return more assertively on In Cauda Venenum's heavier tracks — \"Dignity\" and \"The Garroter\" both feature sustained double-bass passages that connect directly back to the Watershed-era vocabulary Axenrot built his reputation on in Bloodbath and Witchery, on the very same drums. The album's dynamic range, from the hushed \"Garden of Earthly Delights\" intro to the closing crescendo of \"All Things Will Pass,\" asks more of the kit's response range than any Opeth record since Heritage.",
       "notes": [
-        "Same twin 22\"x18\" Pearl Reference configuration carried through from Heritage, Pale Communion, and Sorceress",
+        "Same twin 22\"x18\" Sonor SQ2 configuration carried through Axenrot's entire Opeth tenure, unchanged since 2006",
         "Kit shares sonic space with Dave Stewart's orchestral string arrangements on multiple tracks",
         "Twin-kick double bass reintroduced more assertively on \"Dignity\" and \"The Garroter\"",
         "Widest dynamic range of any Axenrot-era Opeth record — whisper-quiet intros to full-band crescendos",
-        "This is the final studio recording of Axenrot's Pearl Reference setup before his 2021 departure"
+        "This is the final studio recording of Axenrot's Sonor SQ2 setup before his 2021 departure"
       ],
-      "estimatedValue": "$3,500-6,000 (Reference Series)"
+      "estimatedValue": "$8,000-15,000 (SQ2 custom configuration)"
     },
     "snare": {
       "title": "The Snare: Serving Two Vocal Languages, One Rhythmic Foundation",
-      "brand": "Pearl",
-      "model": "Pearl Reference Maple Snare",
-      "size": "14\" x 5.5\"",
+      "brand": "Sonor",
+      "model": "Sonor SQ2 Maple Snare",
+      "size": "14\" x 5.75\"",
       "shell": "Maple",
-      "description": "The Pearl Reference maple snare that carried Heritage, Pale Communion, and Sorceress continued unchanged onto In Cauda Venenum. With two complete vocal versions of the album tracked over the same instrumental beds, the snare's role as the rhythmic anchor mattered more than usual — the Swedish and English vocal takes needed to sit against the exact same drum performance without the underlying groove ever feeling like an afterthought to either language.\n\nOn restrained tracks like \"Universal Truth\" and \"Continuum,\" the snare's ghost-note sensitivity carries the same ride-forward, ballad-informed touch Axenrot developed across the prog trilogy. On the heavier \"Dignity\" and \"The Garroter,\" the same drum delivers assertive backbeats that echo the Watershed-era attack, giving In Cauda Venenum's most metal-adjacent moments real weight against Boman's dense orchestral mix.",
+      "description": "The Sonor SQ2 maple snare that carried Heritage, Pale Communion, and Sorceress continued unchanged onto In Cauda Venenum. With two complete vocal versions of the album tracked over the same instrumental beds, the snare's role as the rhythmic anchor mattered more than usual — the Swedish and English vocal takes needed to sit against the exact same drum performance without the underlying groove ever feeling like an afterthought to either language.\n\nOn restrained tracks like \"Universal Truth\" and \"Continuum,\" the snare's ghost-note sensitivity carries the same ride-forward, ballad-informed touch Axenrot developed across the prog trilogy. On the heavier \"Dignity\" and \"The Garroter,\" the same drum delivers assertive backbeats that echo the Watershed-era attack, giving In Cauda Venenum's most metal-adjacent moments real weight against Boman's dense orchestral mix.",
       "tuningSetting": "Medium tension — consistent with Heritage, Pale Communion, and Sorceress",
       "heads": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)",
-      "estimatedValue": "$400-700"
+      "estimatedValue": "$500-900"
     },
     "cymbals": {
       "title": "Meinl Byzance: The Full Vocabulary, One Last Time",
@@ -1630,7 +1630,7 @@ export const articles = {
           "notes": "Primary lead voice across the album's longest tracks — \"Heart in Hand,\" \"Next of Kin,\" \"All Things Will Pass\""
         }
       ],
-      "description": "The Meinl Byzance setup Axenrot had refined across Heritage, Pale Communion, and Sorceress carries into In Cauda Venenum largely unchanged, but the context around it is the most orchestrally dense of his Opeth tenure. With Dave Stewart's string arrangements occupying significant frequency space on tracks like \"Heart in Hand\" and \"Next of Kin,\" the Byzance ride and hi-hats have to cut through a denser overall arrangement than anything on the prog trilogy — Boman's mix pushes the cymbals forward just enough to remain the rhythmic focal point against strings and mellotron.\n\nThe 19\" Dark Crash, reintroduced on Sorceress after a long absence, returns again on In Cauda Venenum's heavier passages — \"Dignity\" and \"The Garroter\" both use it as a trashy, aggressive punctuation mark that recalls the Watershed-era extremity Axenrot built his name on before joining Opeth. Elsewhere, on the album's most restrained tracks, the cymbal vocabulary pulls all the way back to Heritage-level minimalism — proof that eight years into the Pearl/Meinl setup, Axenrot's command of the full dynamic range had become effortless.",
+      "description": "The Meinl Byzance setup Axenrot had refined across Heritage, Pale Communion, and Sorceress carries into In Cauda Venenum largely unchanged, but the context around it is the most orchestrally dense of his Opeth tenure. With Dave Stewart's string arrangements occupying significant frequency space on tracks like \"Heart in Hand\" and \"Next of Kin,\" the Byzance ride and hi-hats have to cut through a denser overall arrangement than anything on the prog trilogy — Boman's mix pushes the cymbals forward just enough to remain the rhythmic focal point against strings and mellotron.\n\nThe 19\" Dark Crash, reintroduced on Sorceress after a long absence, returns again on In Cauda Venenum's heavier passages — \"Dignity\" and \"The Garroter\" both use it as a trashy, aggressive punctuation mark that recalls the Watershed-era extremity Axenrot built his name on before joining Opeth. Elsewhere, on the album's most restrained tracks, the cymbal vocabulary pulls all the way back to Heritage-level minimalism — proof that thirteen years into the same Sonor/Meinl setup, Axenrot's command of the full dynamic range had become effortless.",
       "estimatedValue": "$2,000-3,200 total"
     },
     "hardware": {
@@ -1638,15 +1638,15 @@ export const articles = {
       "items": [
         {
           "type": "Bass Drum Pedals",
-          "brand": "Pearl",
-          "model": "Pearl Demon Drive (twin pedals)",
-          "notes": "Direct-drive twin pedals — unchanged since Heritage; drives the reintroduced double-bass passages on \"Dignity\" and \"The Garroter\""
+          "brand": "Tama",
+          "model": "Tama Iron Cobra Double Pedal",
+          "notes": "Direct-drive twin pedals — unchanged since Watershed; drives the reintroduced double-bass passages on \"Dignity\" and \"The Garroter\""
         },
         {
           "type": "Hi-Hat Stand",
-          "brand": "Pearl",
-          "model": "Pearl H-2050 Eliminator Hi-Hat Stand",
-          "notes": "Same heavy-duty Pearl stand carried through the prog era"
+          "brand": "Sonor",
+          "model": "Sonor Hardware",
+          "notes": "Same heavy-duty Sonor hardware carried through Axenrot's entire Opeth tenure"
         },
         {
           "type": "Throne",
@@ -1675,7 +1675,7 @@ export const articles = {
         "Single set of drum tracks serves both the Swedish and English vocal versions",
         "Dave Stewart's string arrangements composed around the existing drum and band performances",
         "No triggers — natural performances across Opeth's longest studio album (67:57)",
-        "Stefan Boman's mix balances the Pearl/Meinl kit against dense orchestral arrangements"
+        "Stefan Boman's mix balances the Sonor/Meinl kit against dense orchestral arrangements"
       ]
     },
     "trackAnalysis": [
@@ -1689,7 +1689,7 @@ export const articles = {
           "Demonstrates the Watershed-era vocabulary resurfacing eleven years later",
           "Swedish title (\"Svekets Prins,\" roughly \"Prince of Betrayal\") carries different phrasing cadence than the English lyric"
         ],
-        "gearNotes": "The Pearl Demon Drive twin pedals drive the track's sustained double-bass sections, the clearest connection to Axenrot's extreme metal background since Sorceress's \"The Ward.\""
+        "gearNotes": "The Tama Iron Cobra Double Pedal drives the track's sustained double-bass sections, the clearest connection to Axenrot's extreme metal background since Sorceress's \"The Ward.\""
       },
       {
         "track": "Heart in Hand (Hjärtat Vet Vad Handen Gör)",
@@ -1712,7 +1712,7 @@ export const articles = {
           "Ghost note vocabulary inherited from Martin Lopez still audible in the verses",
           "Cymbal work stays close to Pale Communion's compositional restraint"
         ],
-        "gearNotes": "The Pearl Reference maple snare's ghost-note sensitivity carries the verses; minimal kick presence keeps the arrangement's focus on strings and vocals."
+        "gearNotes": "The Sonor SQ2 maple snare's ghost-note sensitivity carries the verses; minimal kick presence keeps the arrangement's focus on strings and vocals."
       },
       {
         "track": "All Things Will Pass (Allting Tar Slut)",
@@ -1724,13 +1724,13 @@ export const articles = {
           "The final drum performance Martin Axenrot recorded for an Opeth studio album",
           "Summarizes the entire Axenrot era: Watershed aggression, Heritage restraint, prog-trilogy fluency, all in one closing statement"
         ],
-        "gearNotes": "Every element of the Pearl/Meinl setup appears across the track's eight-and-a-half minutes — twin kicks, four-tom melodic phrasing, the full Byzance crash and ride vocabulary — closing out Axenrot's Opeth discography on its widest dynamic canvas."
+        "gearNotes": "Every element of the Sonor/Meinl setup appears across the track's eight-and-a-half minutes — twin kicks, four-tom melodic phrasing, the full Byzance crash and ride vocabulary — closing out Axenrot's Opeth discography on its widest dynamic canvas."
       }
     ],
     "faq": [
       {
         "question": "What drum kit did Martin Axenrot use on Opeth's In Cauda Venenum?",
-        "answer": "Martin Axenrot recorded In Cauda Venenum (2019) using the same Pearl Reference Series kit he had played since Heritage (2011): twin 22\"x18\" bass drums, 10\" and 12\" rack toms, and 14\" and 16\" floor toms, paired with a Pearl Reference Maple Snare (14\"x5.5\"). His cymbals were Meinl Byzance Traditional and Dark series — 14\" Traditional Medium Hi-Hats, 16\" and 18\" Traditional crashes, a 19\" Dark Crash, and a 22\" Traditional Medium Ride — driven by Pearl Demon Drive direct-drive twin pedals. The album was recorded at Park Studios and Junkmail Studios in Stockholm, with strings tracked separately at Angel Recording Studios in London, produced by Mikael Åkerfeldt with Stefan Boman co-producing, engineering, and mixing."
+        "answer": "Martin Axenrot recorded In Cauda Venenum (2019) using the same Sonor SQ2 kit he had played since joining Opeth in 2006: twin 22\"x18\" bass drums, 10\" and 12\" rack toms, and 14\" and 16\" floor toms, paired with a Sonor SQ2 Maple Snare (14\"x5.75\"). His cymbals were Meinl Byzance Traditional and Dark series — 14\" Traditional Medium Hi-Hats, 16\" and 18\" Traditional crashes, a 19\" Dark Crash, and a 22\" Traditional Medium Ride — driven by a Tama Iron Cobra Double Pedal and Sonor Hardware. The album was recorded at Park Studios and Junkmail Studios in Stockholm, with strings tracked separately at Angel Recording Studios in London, produced by Mikael Åkerfeldt with Stefan Boman co-producing, engineering, and mixing."
       },
       {
         "question": "Why did Opeth release In Cauda Venenum in both Swedish and English?",
@@ -1751,7 +1751,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "The Closing Chapter of the Axenrot Era",
-      "content": "In Cauda Venenum is the album where Martin Axenrot's thirteen-year Opeth tenure reached its fullest expression and, without anyone knowing it at the time, its conclusion. Every element of the vocabulary he had built since replacing Martin Lopez in 2006 appears somewhere on this record: the twin-kick aggression of Watershed, the jazz-informed restraint of Heritage, the compositional ambition of Pale Communion, and the expanded dynamic range of Sorceress, all folded into ten tracks that also had to serve two complete vocal-language versions of the same music.\n\nThe Pearl Reference Series and Meinl Byzance setup that had carried Axenrot through the prog trilogy proved equally capable of sitting underneath Dave Stewart's orchestral string arrangements — proof of a drummer who, eight years into a single gear platform, had achieved complete fluency with its dynamic range. Recorded across three studios in Stockholm and London, mixed by longtime collaborator Stefan Boman, and released simultaneously in Åkerfeldt's preferred Swedish and the more commercially accessible English, In Cauda Venenum stands as Opeth's most ambitious record of the post-death-metal era.\n\nMartin Axenrot departed Opeth in 2021, and Waltteri Väyrynen took over the drum chair in 2022, eventually recording Last Will and Testament (2024). That makes In Cauda Venenum the final word of the Axenrot era — the record that closes the arc from Watershed's extreme metal debut to a thirteen-minute-plus-track, string-laden closing statement, sung in two languages, on the same set of drum tracks.\n\nFor the complete Axenrot discography: [Sorceress drum setup](/articles/sorceress-drum-setup), [Pale Communion drum setup](/articles/pale-communion-drum-setup), [Heritage drum setup](/articles/heritage-drum-setup), [Watershed drum setup](/articles/watershed-drum-setup), and [Martin Axenrot's drummer profile](/drummer/martin-axenrot)."
+      "content": "In Cauda Venenum is the album where Martin Axenrot's thirteen-year Opeth tenure reached its fullest expression and, without anyone knowing it at the time, its conclusion. Every element of the vocabulary he had built since replacing Martin Lopez in 2006 appears somewhere on this record: the twin-kick aggression of Watershed, the jazz-informed restraint of Heritage, the compositional ambition of Pale Communion, and the expanded dynamic range of Sorceress, all folded into ten tracks that also had to serve two complete vocal-language versions of the same music.\n\nThe Sonor SQ2 and Meinl Byzance setup that had carried Axenrot through his entire Opeth tenure proved equally capable of sitting underneath Dave Stewart's orchestral string arrangements — proof of a drummer who, thirteen years into a single, unchanged gear platform, had achieved complete fluency with its dynamic range. Recorded across three studios in Stockholm and London, mixed by longtime collaborator Stefan Boman, and released simultaneously in Åkerfeldt's preferred Swedish and the more commercially accessible English, In Cauda Venenum stands as Opeth's most ambitious record of the post-death-metal era.\n\nMartin Axenrot departed Opeth in 2021, and Waltteri Väyrynen took over the drum chair in 2022, eventually recording Last Will and Testament (2024). That makes In Cauda Venenum the final word of the Axenrot era — the record that closes the arc from Watershed's extreme metal debut to a thirteen-minute-plus-track, string-laden closing statement, sung in two languages, on the same set of drum tracks, played on the same Sonor SQ2 kit throughout.\n\nFor the complete Axenrot discography: [Sorceress drum setup](/articles/sorceress-drum-setup), [Pale Communion drum setup](/articles/pale-communion-drum-setup), [Heritage drum setup](/articles/heritage-drum-setup), [Watershed drum setup](/articles/watershed-drum-setup), and [Martin Axenrot's drummer profile](/drummer/martin-axenrot)."
     },
     "schema": {
       "@context": "https://schema.org",
@@ -1759,7 +1759,7 @@ export const articles = {
         {
           "@type": "Article",
           "headline": "Martin Axenrot's Drum Setup on Opeth's In Cauda Venenum (2019)",
-          "description": "Discover the drum kit, cymbals, and gear Martin Axenrot used on Opeth's In Cauda Venenum (2019) — his final studio album with the band. Complete breakdown of Axenrot's Pearl Reference Series setup, the dual Swedish/English recording, and the record that closed the Axenrot era.",
+          "description": "Discover the drum kit, cymbals, and gear Martin Axenrot used on Opeth's In Cauda Venenum (2019) — his final studio album with the band. Complete breakdown of Axenrot's Sonor SQ2 setup, the dual Swedish/English recording, and the record that closed the Axenrot era.",
           "author": {
             "@type": "Organization",
             "name": "MetalForge Editorial"
@@ -1798,7 +1798,7 @@ export const articles = {
               "name": "What drum kit did Martin Axenrot use on Opeth's In Cauda Venenum?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Martin Axenrot recorded In Cauda Venenum in 2019 using the Pearl Reference Series kit he had played since Heritage — twin 22x18 inch bass drums, 10 and 12 inch rack toms, 14 and 16 inch floor toms, and a Pearl Reference Maple Snare. His cymbals were Meinl Byzance Traditional and Dark series with a 22 inch Traditional Medium Ride, driven by Pearl Demon Drive direct-drive twin pedals. Recorded at Park Studios and Junkmail Studios in Stockholm with strings at Angel Recording Studios in London, produced by Mikael Akerfeldt and Stefan Boman."
+                "text": "Martin Axenrot recorded In Cauda Venenum in 2019 using the same Sonor SQ2 kit he had played since joining Opeth in 2006 — twin 22x18 inch bass drums, 10 and 12 inch rack toms, 14 and 16 inch floor toms, and a Sonor SQ2 Maple Snare. His cymbals were Meinl Byzance Traditional and Dark series with a 22 inch Traditional Medium Ride, driven by a Tama Iron Cobra Double Pedal. Recorded at Park Studios and Junkmail Studios in Stockholm with strings at Angel Recording Studios in London, produced by Mikael Akerfeldt and Stefan Boman."
               }
             },
             {

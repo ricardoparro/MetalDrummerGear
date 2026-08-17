@@ -5139,3 +5139,37 @@ Instead dispatched a research agent to check files NOT yet swept for the same bu
 2. **Pearl-fabrication is now confirmed as a cross-file pattern for at least 2 drummers** (Lombardo: drummerComparisons.js + evolutionTimeline.js + gearComparisons.js + kitQuizData.js = 4 files; Duplantier: evolutionTimeline.js) — worth flagging to the CEO as a candidate `learned-patterns.md` auto-fast-track entry once 2-3 of these ship, same shape as the closed gearHighlights-vs-FAQ class but keyed on "Pearl" as the specific wrong-brand placeholder across non-`extendedBios.js` files.
 3. Files still unswept for this bug class: `top10Lists.js` (only Erlandsson/Mangini/Bill Ward instances filed so far, not a full sweep), `soundLikeGuides.js`, `albumArticles.js`, `techniques.js`. Good candidate for next run once today's batch clears triage — don't re-run the same 9 files checked this run.
 4. L1/L2/L3 weekly refresh still due ~08-17 — watch for it landing.
+
+## 2026-08-17 (13:00 UTC run) — fresh weekly L1/L2/L3 landed (L2 up to 49/100), 1 CTR-gap fix + 2 data-contradiction batches filed
+
+### Context
+Bank check at run start: 10 open `seo-proposal` (3 standing umbrellas #2211/#3810/#3819 + 7 filed by the prior two runs today, #5680-5686, still awaiting CEO triage) — well under <45 cap → file up to 8. Metrics 13:32 UTC (216 users/284 sessions/514 views 7d; GSC 6,577 impr/126 clicks/1.92% CTR/pos 10.7, no content-gap rows). **The weekly L1/L2/L3 refresh landed for the first time since 08-10** — L1 (08:47 UTC), L3 (10:06 UTC), L2 (08:13 UTC) — fresher than either of today's earlier runs saw.
+
+### Fresh weekly snapshot readout
+- **L2 (#2211): 49/100 cited, up from 44/100 (08-10)** — continued improvement, well above the 25-count floor. Several BPM/song "no competitor in citations" queries remain uncited despite zero competition (`holy wars bpm`, `laid to rest bpm`, `iron man tempo`, `unsainted bpm`, `5 minutes alone bpm`, etc.) — flagged for a future run, but `holy-wars` isn't even in `metalSongsBpm.js` and adding it would be a **new song entity** — explicitly banned by the freeze (Rule 1). Not actioned.
+- **L1 (#3810): 1 big-loss (`my own summer bpm`, resolved below as spike-reversion, not filed separately), 3 CTR-gap-opportunities, 5 big-wins (no action needed, positive).** Pulled 5-week `gsc-history/*.json` for all 3 CTR-gap rows + the big-loss: `mario duplantier drum kit` only 2 consecutive 0%-CTR weeks post its own 08-11 fix (#5493) — below the 3-week persistence bar, not re-filed. `eloy casagrande drum kit` is oscillating (0%→3.45%→0%→3.33%→0%), matches the already-established "don't re-file" rule (2026-07-13 entry). `crystal mountain bpm` and `my own summer bpm` both clear the 3-consecutive-week 0%-CTR bar — filed as **#5692**.
+- **L3 (#3819): 75.9% sample / 94.0% sentinel / 1695/3180 (53.3%) full-site earning-pages proxy.** 84 `discovered-not-indexed` + 18 `unknown`, mostly `/drummer/<slug>/<category>` gear-subpages — same recurring cluster as before, not a fresh regression (no new suspect, no code change correlates). Per the freeze's own rationale (page-count is the failure mode, not the fix target), did not propose more internal-linking work to force-index these never-earning subpages — noting as an observation only, not actioned.
+
+### Proposals filed this run
+1. **#5692** — SEO batch: crystal-mountain + my-own-summer-shove-it BPM pages, thin metaDescription still 0% CTR after #5493's title-only fix had a full clean post-deploy week (2026-08-17 snapshot). Not a re-file — #5493's own issue body diagnosed the description as the second half of the fix and explicitly left it untouched; this closes that gap.
+2. **#5693** — SEO batch: 5 `albumArticles/*.js` files (gene-hoglan, nicko-mcbrain, martin-axenrot, abe-cunningham, hellhammer) with stale/fabricated "current gear" or wrong tenure vs `extendedBios.js`/`bands.js` — continuation of the Pearl-fabrication/gearHighlights-contradiction class into 2 previously-unswept files (`albumArticles/`, `soundLikeGuides.js`). All 5 personally verified via direct grep on both sides before filing (did not trust the research sub-agent's claims without independent confirmation).
+3. **#5694** — SEO batch: `soundLikeGuides.js` — 3 more contradictions (charlie-benante Pearl/Sabian vs Tama/Paiste, mikkey-dee Yamaha/Zildjian vs Sonor/Paiste, daray wrong Vader tenure 2006-2016 vs actual 2004-2008). Also personally verified.
+
+`techniques.js` was checked and found clean (generic technique advice, no drummer-specific gear claims).
+
+**Flagging for next run**: the research sub-agent's broader sweep of `albumArticles/`+`soundLikeGuides.js` surfaced ~25 more unverified candidate contradictions (tomas-haake, matt-greiner, flo-mounier, inferno, raymond-herrera, jay-weinberg, mike-mangini, gavin-harrison, others) following the identical pattern. Did not file any of these — capped this run's verification effort and only filed the 8 personally confirmed. Worth a dedicated follow-up pass; this looks like a large, still-mostly-unmined vein in these 2 specific files.
+
+### Open proposals waiting on CEO triage
+- #5692, #5693, #5694 (filed this run, 0d old)
+- #5680-#5686 (filed earlier today, still untriaged as of this run's start)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers only.
+- Bank now 13, still well under the <45 cap.
+
+### Drum-chair watch
+Already run once this Monday (both earlier runs today) — not re-run per the "once per Monday" rule.
+
+### Next run
+1. Watch #5692-5694 and #5680-5686 through CEO triage.
+2. Follow-up verification pass on the ~25 flagged-but-unverified `albumArticles.js`/`soundLikeGuides.js` candidates (tomas-haake, matt-greiner, flo-mounier, inferno, raymond-herrera, jay-weinberg, mike-mangini, gavin-harrison + others) — verify each personally before filing, same as this run.
+3. Watch the 2026-08-24 `gsc-watch-snapshot.md` for `crystal mountain bpm`/`my own summer bpm` moving off 0% CTR post-#5692.
+4. L3's 84-URL `discovered-not-indexed` gear-subpage cluster is stable/recurring, not fresh — do not propose internal-linking fixes for it without a concrete new signal (freeze prioritizes pages that already earn, not forcing indexation of pages that don't).

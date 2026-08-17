@@ -18124,20 +18124,20 @@ export const DRUMMER_EVOLUTION = {
     slug: 'kevin-talley',
     name: 'Kevin Talley',
     band: 'Dying Fetus / Misery Index / Six Feet Under',
-    totalYearsActive: '1999-Present',
+    totalYearsActive: '1996-Present',
     profileImage: '/images/drummers/kevin-talley.webp',
-    summary: 'Kevin Talley\'s polyrhythmic double-kick patterns on Dying Fetus\'s "Destroy the Opposition" (2000) — shifting between straight and triplet groupings at 200+ BPM — became a reference point for extreme metal drummers, built on a genuinely entry-level Pearl Export / Zildjian A / DW pedal rig rather than boutique hardware. Talley carried that same combination through Misery Index\'s "Retaliate" (2003) and "Discordia" (2006) and Dying Fetus\'s "War of Attrition" (2007), only later consolidating toward professional-tier gear during his Six Feet Under years and settling into his current Pearl Masters Premium Legend / Sabian AAX / Pearl Eliminator rig.',
+    summary: 'Kevin Talley\'s polyrhythmic double-kick patterns on Dying Fetus\'s "Destroy the Opposition" (2000) — shifting between straight and triplet groupings at 200+ BPM — became a reference point for extreme metal drummers, built on a genuinely entry-level Pearl Export / Zildjian A / DW pedal rig rather than boutique hardware. Talley carried that same combination through Misery Index\'s "Retaliate" (2003) and Dying Fetus\'s "War of Attrition" (2007–2008), only later consolidating toward professional-tier gear during his Six Feet Under years and settling into his current Pearl Masters Premium Legend / Sabian AAX / Pearl Eliminator rig.',
 
     eras: [
       {
-        id: 'kevin-talley-1999-destroy-the-opposition',
+        id: 'kevin-talley-1996-destroy-the-opposition',
         era: 'Destroy the Opposition: Entry-Level Rig',
-        years: '1999–2002',
-        startYear: 1999,
-        endYear: 2002,
-        description: 'Talley joined Dying Fetus in 1999 and recorded "Destroy the Opposition" (2000) on a genuinely entry-level Pearl Export shell pack — a 6-piece double-kick configuration paired with a basic steel snare, Zildjian A/A Custom cymbals, and a standard DW double bass pedal. His polyrhythmic double-kick patterns, shifting between straight and triplet groupings at 200+ BPM while the snare held a separate pulse, became a reference point for extreme metal drummers — proof that the technical ceiling was set by technique, not equipment.',
+        years: '1996–2001',
+        startYear: 1996,
+        endYear: 2001,
+        description: 'Talley joined Dying Fetus in 1996 at age 17 and recorded "Destroy the Opposition" (2000) on a genuinely entry-level Pearl Export shell pack — a 6-piece double-kick configuration paired with a basic steel snare, Zildjian A/A Custom cymbals, and a standard DW double bass pedal. His polyrhythmic double-kick patterns, shifting between straight and triplet groupings at 200+ BPM while the snare held a separate pulse, became a reference point for extreme metal drummers — proof that the technical ceiling was set by technique, not equipment.',
         albums: ['Destroy the Opposition (2000)'],
-        tours: ['Dying Fetus touring dates 1999–2002'],
+        tours: ['Dying Fetus touring dates 1996–2001'],
         image: null,
 
         gear: {
@@ -18186,7 +18186,7 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
-          'Joined Dying Fetus in 1999, establishing an entry-level Pearl Export / Zildjian A / DW rig',
+          'Joined Dying Fetus in 1996, establishing an entry-level Pearl Export / Zildjian A / DW rig',
           'Recorded Destroy the Opposition (2000) — a landmark polyrhythmic blast beat brutal death metal album',
           'Polyrhythmic double-kick patterns at 200+ BPM became a reference point for extreme metal drummers',
           'Demonstrated that the technical ceiling was set by technique, not equipment tier',
@@ -18196,14 +18196,14 @@ export const DRUMMER_EVOLUTION = {
       },
 
       {
-        id: 'kevin-talley-2003-misery-index-war-of-attrition',
-        era: 'Misery Index & War of Attrition',
-        years: '2003–2010',
-        startYear: 2003,
-        endYear: 2010,
-        description: 'Talley carried the same Pearl Export / Zildjian A / DW rig through Misery Index\'s "Retaliate" (2003) and "Discordia" (2006), and back into Dying Fetus for "War of Attrition" (2007) — refining touring reliability rather than upgrading gear tier across nearly a decade of extreme metal recording. This period represents the most documented touring configuration of Talley\'s DW-pedal era, spanning brutal death metal, grindcore-adjacent material, and a return to his original band.',
-        albums: ['Retaliate (2003)', 'Discordia (2006)', 'War of Attrition (2007)'],
-        tours: ['Misery Index touring dates 2003–2006', 'Dying Fetus War of Attrition touring 2007–2010'],
+        id: 'kevin-talley-2001-misery-index-retaliate',
+        era: 'Misery Index: Retaliate',
+        years: '2001–2003',
+        startYear: 2001,
+        endYear: 2003,
+        description: 'Talley left Dying Fetus in 2001 to co-found Misery Index with Jason Netherton, carrying the same Pearl Export / Zildjian A / DW rig into the band\'s "Retaliate" (2003) — refining touring reliability rather than upgrading gear tier. This period represents the most documented touring configuration of Talley\'s DW-pedal era, before he moved on to session and touring work with other extreme metal bands.',
+        albums: ['Retaliate (2003)'],
+        tours: ['Misery Index touring dates 2001–2003'],
         image: null,
 
         gear: {
@@ -18252,24 +18252,24 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
-          'Recorded Misery Index\'s Retaliate (2003) and Discordia (2006) on the same Pearl/Zildjian/DW rig',
-          'Returned to Dying Fetus for War of Attrition (2007)',
+          'Left Dying Fetus in 2001 to co-found Misery Index with Jason Netherton',
+          'Recorded Misery Index\'s Retaliate (2003) on the same Pearl/Zildjian/DW rig',
           'Most documented touring configuration of Talley\'s DW-pedal era',
-          'Prioritized touring reliability over gear tier upgrades across nearly a decade',
+          'Prioritized touring reliability over gear tier upgrades',
         ],
 
         videos: [],
       },
 
       {
-        id: 'kevin-talley-2010-six-feet-under',
+        id: 'kevin-talley-2011-six-feet-under',
         era: 'Six Feet Under: Gear Consolidation',
-        years: '2010–2013',
-        startYear: 2010,
-        endYear: 2013,
-        description: 'Talley\'s 2010–2013 run with Six Feet Under, alongside session and touring work with Jungle Rot, marked the beginning of a gear consolidation toward Pearl Masters-tier hardware — moving up in shell construction while staying within the Pearl brand relationship he had held since Destroy the Opposition. This period bridges his entry-level Dying Fetus years and his current professional-tier setup, reflecting a broader pattern across Talley\'s catalog: as his profile grew across multiple prominent extreme metal bands, his gear investment gradually caught up to a career built almost entirely on technique rather than equipment.',
-        albums: ['Six Feet Under studio and touring material (2010–2013)'],
-        tours: ['Six Feet Under touring dates 2010–2013', 'Jungle Rot session/touring dates'],
+        years: '2011–2017',
+        startYear: 2011,
+        endYear: 2017,
+        description: 'After a brief 2007–2008 return to Dying Fetus for "War of Attrition," Talley joined Six Feet Under in 2011. His 2011–2017 run with the band, alongside session and touring work with Jungle Rot, marked the beginning of a gear consolidation toward Pearl Masters-tier hardware — moving up in shell construction while staying within the Pearl brand relationship he had held since Destroy the Opposition. This period bridges his entry-level Dying Fetus years and his current professional-tier setup, reflecting a broader pattern across Talley\'s catalog: as his profile grew across multiple prominent extreme metal bands, his gear investment gradually caught up to a career built almost entirely on technique rather than equipment.',
+        albums: ['Six Feet Under studio and touring material (2011–2017)'],
+        tours: ['Dying Fetus War of Attrition touring 2007–2008', 'Six Feet Under touring dates 2011–2017', 'Jungle Rot session/touring dates'],
         image: null,
 
         gear: {
@@ -18318,7 +18318,8 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
-          'Joined Six Feet Under (2010–2013), alongside session/touring work with Jungle Rot',
+          'Returned to Dying Fetus for War of Attrition (2007–2008) before joining Six Feet Under (2011–2017)',
+          'Joined Six Feet Under (2011–2017), alongside session/touring work with Jungle Rot',
           'Began consolidating gear toward Pearl Masters-tier hardware',
           'Started the transition from Zildjian A to Sabian AAX cymbals',
           'Bridged his entry-level Dying Fetus years and his current professional-tier setup',
@@ -18405,11 +18406,11 @@ export const DRUMMER_EVOLUTION = {
       },
       {
         q: 'Did Kevin Talley always play Pearl drums?',
-        a: 'Yes — Talley has played Pearl kits throughout his career, moving from an entry-level Pearl Export shell pack in his Destroy the Opposition-era Dying Fetus years, through a Pearl Masters-tier consolidation during his 2010–2013 Six Feet Under run, to his current Pearl Masters Premium Legend setup.',
+        a: 'Yes — Talley has played Pearl kits throughout his career, moving from an entry-level Pearl Export shell pack in his Destroy the Opposition-era Dying Fetus years, through a Pearl Masters-tier consolidation during his 2011–2017 Six Feet Under run, to his current Pearl Masters Premium Legend setup.',
       },
       {
         q: 'What bands has Kevin Talley played drums for?',
-        a: 'Kevin Talley has drummed for Dying Fetus (1999–2002, and later reunions), Misery Index (2003–2006), Six Feet Under (2010–2013), and has done extensive session and touring work with other extreme metal acts including Jungle Rot and Chimaira.',
+        a: 'Kevin Talley has drummed for Dying Fetus (1996–2001, and a 2007–2008 return), Misery Index (2001–2003), Six Feet Under (2011–2017), and has done extensive session and touring work with other extreme metal acts including Jungle Rot and Chimaira.',
       },
       {
         q: 'How much would Kevin Talley\'s Destroy the Opposition-era drum kit cost today?',

@@ -38,11 +38,11 @@ export const KIT_QUIZ_QUESTIONS = [
     // Gene Hoglan
     correctDrummerId: 3,
     gear: {
-      drums: 'Tama Starclassic Performer B/B',
-      snare: 'Tama Gene Hoglan Signature 14x8"',
-      cymbals: 'Zildjian A Custom & K Custom',
-      hardware: 'Tama Speed Cobra 910 Double Pedal',
-      sticks: 'Vater Gene Hoglan Signature',
+      drums: 'Pearl Reference Pure',
+      snare: 'Pearl Reference 14x6.5" Brass',
+      cymbals: 'Sabian AAX Series',
+      hardware: 'Pearl Demon Drive Double Pedal',
+      sticks: 'ProMark Classic Forward 2B',
     },
     hint: '⚛️ The Atomic Clock - Known for extreme precision',
     options: [3, 21, 6, 25], // Gene, Pete Sandoval, George Kollias, Alex Bent
@@ -52,11 +52,11 @@ export const KIT_QUIZ_QUESTIONS = [
     // Dave Lombardo
     correctDrummerId: 4,
     gear: {
-      drums: 'Pearl Masters Maple/Gum',
-      snare: 'Pearl Dennis Chambers Signature',
-      cymbals: 'Paiste RUDE & Signature Series',
-      hardware: 'Pearl Demon Drive Double Pedal',
-      sticks: 'Vic Firth Dave Lombardo Signature',
+      drums: 'Tama Starclassic Walnut/Birch',
+      snare: 'Tama S.L.P. 14x6.5" G-Maple',
+      cymbals: 'Paiste RUDE & 2002 Series',
+      hardware: 'Tama Iron Cobra 900 Double Pedal',
+      sticks: 'Promark Dave Lombardo Signature 2Bx',
     },
     hint: '🔥 Godfather of Double Bass - Reign in... you know',
     options: [4, 1, 29, 22], // Lombardo, Lars, Igor Cavalera, Art Cruz

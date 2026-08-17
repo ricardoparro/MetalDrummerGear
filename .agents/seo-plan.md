@@ -5066,3 +5066,46 @@ Not run — today (2026-08-16) is a Sunday, not Monday. Owed Monday 2026-08-17 (
 4. **`/llms/drummers/*.md` coverage confirmed clean (72/72)** — an audit agent's claim of a 59-file gap was a wrong-path artifact, not real; don't re-investigate this specific claim without a fresh independent count.
 5. L1/L2/L3 weekly refresh + drum-chair watch rotation both due Monday 2026-08-17 — first run that day should do both.
 6. Flag for whoever reviews agent behavior: a dispatched research/audit sub-agent directly edited a data file mid-investigation instead of just reporting findings — reverted before it reached git status as anything but a local edit, but worth a reminder in agent prompts that SEO-vein research agents are read-only/report-only, never Edit/Write.
+
+## 2026-08-17 (Monday) — audit clean, drum-chair watch clean, 4 fresh proposals filed (Lombardo/Mikkey Dee/Ray Luzier/Jaska birthdate)
+
+### Context
+Bank check at run start: 11 open `seo-proposal` (3 standing umbrellas #2211/#3810/#3819 + 8 filed 08-16 evening run, #5648-5655, still awaiting CEO triage) — well under the <45 cap → file up to 8. Metrics unchanged from 08-16 (205 users/271 sessions/444 views 7d; GSC 5,547 impr/106 clicks/1.91% CTR/pos 10.9, no content-gap rows — `_no significant gaps detected_`). Today is Monday (ISO week 34) — both the live audit and the drum-chair watch rotation ran this cycle.
+
+### Audit summary (dispatched to a research sub-agent, personally spot-checked the risky claims)
+- robots.txt: ✅ 8/8 AI crawlers explicitly allowed (verified live via curl).
+- `/llms/drummers/*.md`: ✅ 72/72, matches roster exactly (double-checked the path after a prior run's false-positive gap claim from a bad glob — confirmed real path is `public/llms/drummers` at repo root).
+- Schema spot-check (homepage, martin-axenrot, most-expensive-drum-setups article): ✅ nothing missing for those page types.
+- Quick Facts `<table>`: ✅ present on all 72 drummer pages via the single generation site in `api/meta/[...path].js`.
+- **No anomalies found** — clean audit, nothing filed from this thread.
+
+### Drum-chair watch — Week 34 rotation (group: korn, kublai-khan-tx, lamb-of-god, limp-bizkit, mastodon, megadeth, meshuggah, metallica, morbid-angel, murderdolls, nile, opeth)
+**Zero verified changes.** All 12 bands checked via web search (last 14-30 days); nothing cleared the 2-source bar. One log-and-skip: a "Lars Ulrich dead" hoax circulated ~2026-07-23/24 (mediamass.net/cpost.org, hoax-tracker sites, not metal press, debunked within a day) — noted, not a lineup event, no action. All 12 bands' `drummerHistory` blocks in `bands.js` confirmed current, no refresh needed.
+
+### What was checked for fresh proposals (avoided the already-heavily-mined class from 08-16's #5648-5655 batch — top10Lists.js/drummerComparisons.js/drummerEvolution.js tenure errors)
+Dispatched a research agent to find NEW contradictions in files/drummers not yet covered by that batch. Found 4 candidates; personally re-verified all 4 via grep (both sides of each contradiction) before filing, and checked `gh issue list --state all --search` per name/file — no duplicates on any of the 4 specific fields (adjacent-but-distinct closed issues exist for some of these drummers on OTHER fields, confirmed non-overlapping by reading their bodies).
+
+1. **#5656** — Dave Lombardo drum brand fabricated as "Pearl" in `drummerComparisons.js:358` (verified brand is Tama Starclassic per his own gearHighlights; isolated instance, other Lombardo entries in the same file already say Tama correctly).
+2. **#5657** — Mikkey Dee gear wrong as "Yamaha Recording Custom" across 6 `drummerComparisons.js` entries (12 occurrences: gear field + paired FAQ, in comparisons vs Vinnie Paul/Lars Ulrich/Scott Travis/Charlie Benante/Shannon Larkin/Hellhammer) — verified brand is Sonor SQ2/Paiste per gearHighlights; a 7th entry in the same file (line 484, vs Nicko McBrain) already correctly says Sonor, so this is a genuine internal self-contradiction (11 wrong vs 1 correct).
+3. **#5658** — Ray Luzier Korn join-year: `extendedBios.js:4950` bands array says "2007-present", but `bands.js`'s own authoritative `drummerHistory` (and Luzier's own bio prose) is explicit 2007 was Bozzio/Wackerman session work + Jordison filling in live, with Luzier's official start in 2009.
+4. **#5659** — Jaska Raatikainen birth-date mismatch: `birthdays.js:515` says July 14 1979, `extendedBios.js:2912` overview prose says July 18 1979 — flagged as needing an external source check before picking which day is correct (verified-only rule), not a same-file internal contradiction like the other 3.
+
+Ruled out / deferred: the research agent surfaced many more stale `drummerComparisons.js` gear lines for Hellhammer/Flo Mounier/Chris Adler/Pete Sandoval/Matt Greiner but these weren't filed — can't yet confirm they're not already implicitly in scope of the 3 open `drummerComparisons.js` issues from the 08-16 batch (#5649/#5650/#5653). **Flagging as a likely large follow-up sweep** (dozens of `drummerComparisons.js` gear lines never resynced after `extendedBios.js` fixes) worth a dedicated future pass once #5649/#5650/#5653 ship and their exact scope is confirmed — do not cherry-pick piecemeal from this list without re-checking against what's actually landed.
+
+### Proposals filed this run
+1. #5656 — SEO: Dave Lombardo gear fabricated as Pearl in drummerComparisons.js:358
+2. #5657 — SEO batch: Mikkey Dee gear brand wrong as Yamaha across 6 drummerComparisons.js entries (12 occurrences)
+3. #5658 — SEO: Ray Luzier Korn join-year contradiction — extendedBios.js bands array says 2007, bands.js drummerHistory says 2009
+4. #5659 — SEO: Jaska Raatikainen birth date mismatch — birthdays.js says July 14, extendedBios.js says July 18
+
+### Open proposals waiting on CEO triage
+- #5656-#5659 (filed this run, 0d old)
+- #5648-#5655 (filed 08-16 evening run, still untriaged as of this run's start)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers only.
+
+### Next run
+1. Watch #5656-#5659 and #5648-#5655 through CEO triage. Bank now 14 (still well under <45 cap).
+2. The large `drummerComparisons.js` gear-resync sweep (Hellhammer/Flo Mounier/Chris Adler/Pete Sandoval/Matt Greiner stale lines) is a real future angle — wait for #5649/#5650/#5653 to ship first, then re-scope against what's actually landed before filing.
+3. Jaska Raatikainen's birthdate (#5659) needs an external source before the CEO can promote it as a clean fix — flag this explicitly if it stalls in triage.
+4. Next drum-chair rotation group (week 35, week%4=3): pantera, periphery, sepultura, slayer, slipknot, sons-of-apollo, suicidal-tendencies, testament, tool, vader, volto — due next Monday 2026-08-24.
+5. L1/L2/L3 weekly refresh due ~08-17 (today) — watch for it landing later today/this week; not yet refreshed as of this run.

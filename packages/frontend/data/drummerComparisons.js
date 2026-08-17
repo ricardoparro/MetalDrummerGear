@@ -355,7 +355,7 @@ export const drummerComparisons = {
     comparison: {
       style: 'Dave pioneered thrash metal drumming with relentless aggression and speed. Gene brought scientific precision to death metal with inhuman timing.',
       technique: 'Dave revolutionized double bass speed and blast beats in thrash. Gene invented the gravity blast and is known for impossibly tight timing.',
-      gear: 'Dave plays Pearl drums with Paiste RUDE cymbals for aggressive cut. Gene endorses Pearl for power and projection with signature sticks.',
+      gear: 'Dave plays Tama Starclassic drums with Paiste RUDE cymbals for aggressive cut. Gene endorses Pearl for power and projection with signature sticks.',
       influence: 'Dave defined the Slayer sound that influenced all of extreme metal. Gene has been the backbone of Death, Testament, and countless legendary bands.',
     },
     verdict: 'Two drummers who defined extreme metal drumming. Dave Lombardo is thrash metal royalty. Gene Hoglan is "The Atomic Clock." Together they represent the pinnacle of speed and precision.',

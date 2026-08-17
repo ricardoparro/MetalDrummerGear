@@ -5734,7 +5734,7 @@ This guide covers Eloy's core technique — double-bass drive, dynamic control, 
     genre: 'Thrash Metal',
     priority: 22,
     title: "How to Sound Like Charlie Benante: Complete Gear & Technique Guide",
-    description: "Master Charlie Benante's thrash drumming style. Learn his open hi-hat patterns, syncopated kick techniques, exact Pearl/Sabian gear setup, and tuning tips to capture Anthrax's explosive Big 4 sound.",
+    description: "Master Charlie Benante's thrash drumming style. Learn his open hi-hat patterns, syncopated kick techniques, exact Tama/Paiste gear setup, and tuning tips to capture Anthrax's explosive Big 4 sound.",
     seoKeywords: ['charlie benante drumming', 'how to sound like charlie benante', 'anthrax drums', 'charlie benante gear', 'charlie benante technique', 'charlie benante drum kit', 'anthrax drum sound', 'thrash metal drumming technique'],
     ogImage: '/images/guides/charlie-benante-guide.webp',
     datePublished: '2026-06-24',
@@ -5748,7 +5748,7 @@ This guide covers Eloy's core technique — double-bass drive, dynamic control, 
 
 What sets Benante apart from his thrash contemporaries is musicality within aggression. While thrash drumming is often associated with relentless speed, Benante brought syncopation, groove, and dynamic contrast to the genre. On landmark records like Among the Living (1987), Persistence of Time (1990), and Sound of White Noise (1993), he demonstrated a drummer equally at home locking into a punishing thrash groove, navigating polyrhythmic fills, and driving mid-tempo passages with authoritative weight.
 
-His signature open hi-hat thrash pattern — where the hi-hat opens on the eighth-note upbeats to create a churning, driving feel — became one of the defining sounds of the genre. Combined with syncopated kick placement and creative snare accents, it gave Anthrax a rhythmic identity distinct from Slayer's relentless blast intensity or Metallica's locked-in propulsion. This guide breaks down Benante's core technique, his Pearl/Sabian setup, and how to develop his style for yourself.`,
+His signature open hi-hat thrash pattern — where the hi-hat opens on the eighth-note upbeats to create a churning, driving feel — became one of the defining sounds of the genre. Combined with syncopated kick placement and creative snare accents, it gave Anthrax a rhythmic identity distinct from Slayer's relentless blast intensity or Metallica's locked-in propulsion. This guide breaks down Benante's core technique, his Tama/Paiste setup, and how to develop his style for yourself.`,
       keyPoints: [
         "Charlie Benante co-founded Anthrax's thrash sound and is one of the Big 4's defining drummers",
         "His open hi-hat thrash pattern became a genre-defining rhythmic signature",
@@ -5807,53 +5807,53 @@ His signature open hi-hat thrash pattern — where the hi-hat opens on the eight
       ]
     },
     gear: {
-      title: "Charlie's Pearl & Sabian Setup",
+      title: "Charlie's Tama & Paiste Setup",
       drumKit: {
-        brand: 'Pearl',
-        model: 'Pearl Reference Pure',
+        brand: 'Tama',
+        model: 'Tama Starclassic Maple',
         shells: 'All-maple',
         finish: 'Various live and studio configurations',
         config: {
           kick: '22" x 18" Bass Drums (x2)',
-          snare: '14" x 5" Pearl Free-Floating Steel',
+          snare: '14" x 5" Tama Charlie Benante Signature',
           toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom'],
           floorToms: ['16" x 16" Floor Tom', '18" x 16" Floor Tom']
         },
-        description: "Benante has been a Pearl endorser for decades. His Pearl Reference Pure kit uses an all-maple shell that delivers the warm attack and sustain suited to thrash music that needs to project over dense guitar. The two-up, two-down tom configuration gives him an accessible spread for his polyrhythmic fill patterns without an overcrowded kit. Dual 22\" bass drums provide the independent kick control needed for his syncopated kick accent technique.",
-        affiliateNote: "Pearl Export or Session Studio Classic are accessible alternatives that share the Pearl sound character and fit Pearl hardware."
+        description: "Benante has been a Tama endorser for decades. His Tama Starclassic Maple kit uses an all-maple shell that delivers the warm attack and sustain suited to thrash music that needs to project over dense guitar. The two-up, two-down tom configuration gives him an accessible spread for his polyrhythmic fill patterns without an overcrowded kit. Dual 22\" bass drums provide the independent kick control needed for his syncopated kick accent technique.",
+        affiliateNote: "Tama Imperialstar or Superstar Classic are accessible alternatives that share the Tama build quality and fit Tama hardware."
       },
       snare: {
-        brand: 'Pearl',
-        model: 'Pearl Free-Floating Steel',
+        brand: 'Tama',
+        model: 'Tama Charlie Benante Signature',
         size: '14" x 5"',
         shell: 'Steel',
-        description: "Benante's Pearl Free-Floating Steel snare delivers a sharp, cutting crack that cuts through Anthrax's dense guitar sound. The Free-Floating system suspends the shell in a floating cradle, letting the shell vibrate freely for enhanced sensitivity and tonal consistency across dynamic ranges — from ghost notes to full-force backbeats. Steel shells provide brightness and projection without the harsh ping of thin steel.",
-        alternative: "Ludwig Acrolite or Pearl Sensitone Steel for comparable cutting character with sensitivity"
+        description: "Benante's Tama Charlie Benante Signature snare delivers a sharp, cutting crack that cuts through Anthrax's dense guitar sound. The steel shell provides brightness and projection without the harsh ping of thin steel, giving his backbeats the sensitivity to cut cleanly across dynamic ranges — from ghost notes to full-force hits.",
+        alternative: "Ludwig Acrolite or Tama Superstar Steel for comparable cutting character with sensitivity"
       },
       cymbals: {
-        brand: 'Sabian',
-        series: 'Sabian AAX / HHX Series',
+        brand: 'Paiste',
+        series: 'Paiste 2002 / Signature / RUDE Series',
         setup: [
-          { type: 'Hi-Hats', model: 'Sabian 14" AAX Stage Hi-Hats', notes: 'Bright, cutting response — ideal for the open hi-hat thrash pattern at 200 BPM' },
-          { type: 'Crash', model: 'Sabian 18" AAX Stage Crash', notes: 'Fast attack, bright and cutting — punches through dense guitar mix' },
-          { type: 'Crash', model: 'Sabian 20" HHX Complex Medium Crash', notes: 'Complex overtones for melodic crash moments and softer transitions' },
-          { type: 'China', model: 'Sabian 18" AAX Chinese', notes: 'Aggressive china accent for thrash punctuation and blast-beat accents' },
-          { type: 'Ride', model: 'Sabian 20" AAX Metal Ride', notes: 'Loud, projecting ride with defined bell for locked-in groove sections' }
+          { type: 'Hi-Hats', model: 'Paiste 2002 Series Hi-Hats', notes: 'Bright, cutting response — ideal for the open hi-hat thrash pattern at 200 BPM' },
+          { type: 'Crash', model: 'Paiste Signature Series Crash', notes: 'Fast attack, bright and cutting — punches through dense guitar mix' },
+          { type: 'Crash', model: 'Paiste RUDE Crash', notes: 'Heavier weight for melodic crash moments and softer transitions' },
+          { type: 'China', model: 'Paiste RUDE China', notes: 'Aggressive china accent for thrash punctuation and blast-beat accents' },
+          { type: 'Ride', model: 'Paiste 2002 Series Ride', notes: 'Loud, projecting ride with defined bell for locked-in groove sections' }
         ],
-        description: "Benante's Sabian setup emphasizes brightness and projection — essential for thrash where cymbals must cut through two down-tuned guitars at volume. The AAX Stage hi-hats provide the bright, clear response needed for his open hi-hat pattern to read clearly at 200 BPM, while the AAX crashes attack fast enough to keep up with his rapid crash accents in fill sequences."
+        description: "Benante's Paiste setup, spanning the 2002, Signature, and RUDE series, emphasizes brightness and projection — essential for thrash where cymbals must cut through two down-tuned guitars at volume. The 2002 Series hi-hats provide the bright, clear response needed for his open hi-hat pattern to read clearly at 200 BPM, while the RUDE crashes attack fast enough to keep up with his rapid crash accents in fill sequences."
       },
       pedals: {
-        brand: 'Pearl',
-        model: 'Pearl Eliminator Redline Double Pedal',
-        description: "Benante uses Pearl Eliminator double pedals — Pearl's flagship cam-drive pedal system. The Eliminator's interchangeable cams (round, oval, or dual-chain drive) let Benante tune the feel to his preferred response curve. The direct-drive option provides maximum mechanical efficiency for precise kick placement — important when the kick is following specific guitar riff accent points rather than running patterns.",
-        alternative: "Pearl P-2002C Eliminator or DW 5002 for comparable cam-drive performance and adjustability"
+        brand: 'Tama',
+        model: 'Tama Speed Cobra Double Pedal',
+        description: "Benante uses Tama Speed Cobra double pedals, having switched from Tama's vintage HP35 Camco chain-drive pedals in 2010 after using them since 1984. The Speed Cobra's direct-drive design provides immediate, mechanical response for precise kick placement — important when the kick is following specific guitar riff accent points rather than running patterns.",
+        alternative: "Tama Iron Cobra HP900 or DW 5002 for comparable direct-drive performance and adjustability"
       },
       sticks: {
-        brand: 'Ahead',
-        model: 'Ahead Charlie Benante Signature',
-        specs: '5B equivalent weight, aluminum core with polymer wrap',
-        description: "Benante endorses Ahead sticks — aluminum-core drumsticks with a polymer sleeve that reduce vibration and extend durability. His signature model is 5B-equivalent weight, providing the authority needed for thrash drumming without the wrist fatigue of constantly breaking wooden sticks at high tempos.",
-        alternative: "Vic Firth 5B or Promark 5B in hickory for comparable weight in traditional wood sticks"
+        brand: 'Vic Firth',
+        model: 'Vic Firth Charlie Benante Signature',
+        specs: '5B equivalent weight, hickory',
+        description: "Benante endorses Vic Firth sticks, playing his own signature model — a 5B-equivalent weight hickory stick that provides the authority needed for thrash drumming without the wrist fatigue of constantly breaking lighter sticks at high tempos.",
+        alternative: "Vic Firth American Classic 5B or Promark 5B in hickory for comparable weight"
       },
       heads: {
         kick: 'Remo Powerstroke P3 Clear',
@@ -5928,41 +5928,41 @@ His signature open hi-hat thrash pattern — where the hi-hat opens on the eight
       budget: {
         price: "$1,100",
         label: "Starter Benante-Inspired Setup",
-        kit: "Pearl Export ($550) or Mapex Saturn ($600)",
-        cymbals: "Sabian SBR or B8X Pack ($200)",
-        pedals: "Pearl P-2002C Eliminator Double Pedal ($200)",
+        kit: "Tama Imperialstar ($500) or Mapex Saturn ($600)",
+        cymbals: "Paiste PST 3 or PST 5 Pack ($200)",
+        pedals: "Tama Speed Cobra Double Pedal ($200)",
         sticks: "Vic Firth 5B ($10)",
-        notes: "Pearl Export shares the Pearl sound character and fits all Pearl hardware. Any Sabian tier delivers the brightness needed — brand character carries across the range."
+        notes: "Tama Imperialstar shares the Tama build quality and fits all Tama hardware. Any Paiste tier delivers the brightness needed — brand character carries across the range."
       },
       mid: {
         price: "$3,200",
         label: "Intermediate Setup",
-        kit: "Pearl Session Studio Classic ($1,200)",
-        cymbals: "Sabian AAX Stage Hi-Hats + AAX Stage Crashes ($900)",
-        pedals: "Pearl Eliminator Redline Double Pedal ($350)",
-        sticks: "Ahead 5B or Vic Firth 5B ($15)",
+        kit: "Tama Superstar Classic ($1,200)",
+        cymbals: "Paiste 2002 Series Hi-Hats + Signature Series Crash ($900)",
+        pedals: "Tama Speed Cobra Double Pedal ($350)",
+        sticks: "Vic Firth Charlie Benante Signature or Vic Firth 5B ($15)",
         heads: "Remo Emperor Clear set ($120)",
-        notes: "Pearl Session Studio Classic delivers the maple warmth and projection needed for thrash at a fraction of the Reference Pure price. The AAX Stage hi-hats are the most important single upgrade — they define Benante's open hi-hat character."
+        notes: "Tama Superstar Classic delivers the maple warmth and projection needed for thrash at a fraction of the Starclassic Maple price. The 2002 Series hi-hats are the most important single upgrade — they define Benante's open hi-hat character."
       },
       pro: {
         price: "$7,000+",
         label: "Professional Setup",
-        kit: "Pearl Reference Pure ($4,000+)",
-        cymbals: "Full Sabian AAX / HHX setup ($2,500+)",
-        pedals: "Pearl Eliminator Redline Double Pedal ($350)",
-        snare: "Pearl Free-Floating Steel 14\" x 5\" ($500)",
+        kit: "Tama Starclassic Maple ($4,000+)",
+        cymbals: "Full Paiste 2002 / Signature / RUDE setup ($2,500+)",
+        pedals: "Tama Speed Cobra Double Pedal ($350)",
+        snare: "Tama Charlie Benante Signature 14\" x 5\" ($500)",
         heads: "Full Remo Emperor/Ambassador set ($180)",
-        notes: "Pearl Reference Pure is Benante's current main kit. Pair with Sabian AAX Stage hi-hats and crashes for the complete Anthrax thrash sound."
+        notes: "Tama Starclassic Maple is Benante's current main kit. Pair with Paiste 2002 hi-hats and Signature/RUDE crashes for the complete Anthrax thrash sound."
       }
     },
     faq: [
       {
         question: "What drum kit does Charlie Benante use?",
-        answer: "Charlie Benante plays Pearl Reference Pure drums as his primary kit, with an all-maple shell configuration. He has been a Pearl endorser for decades and previously used Pearl Session Masters and Pearl Reference kits. His setup uses dual 22\" bass drums for independent kick control, and a two-up, two-down tom configuration that gives him an accessible spread for his polyrhythmic fill patterns."
+        answer: "Charlie Benante plays a Tama Starclassic Maple kit as his primary setup, with an all-maple shell configuration. He has been a Tama endorser for decades. His setup uses dual 22\" bass drums for independent kick control, and a two-up, two-down tom configuration that gives him an accessible spread for his polyrhythmic fill patterns."
       },
       {
         question: "What cymbals does Charlie Benante use?",
-        answer: "Charlie Benante plays Sabian cymbals, primarily from the AAX and HHX series. His live setup typically includes 14\" AAX Stage Hi-Hats, AAX Stage Crashes (18\" and 20\"), an AAX Chinese (18\"), and an AAX Metal Ride (20\"). The AAX series provides the bright, projecting character needed for his open hi-hat thrash patterns to read clearly at 200 BPM over dense guitars."
+        answer: "Charlie Benante plays Paiste cymbals, drawing from the 2002, Signature, and RUDE series. His setup includes bright, cutting 2002 Series hi-hats, Signature Series and RUDE crashes, a RUDE china, and a 2002 Series ride. The mix provides the bright, projecting character needed for his open hi-hat thrash patterns to read clearly at 200 BPM over dense guitars."
       },
       {
         question: "What is Charlie Benante's signature drumming technique?",
@@ -5970,7 +5970,7 @@ His signature open hi-hat thrash pattern — where the hi-hat opens on the eight
       },
       {
         question: "What pedals does Charlie Benante use?",
-        answer: "Charlie Benante uses Pearl Eliminator Redline double pedals. The Eliminator system features interchangeable cams that allow players to tune the feel between round cam (lighter, faster feel) and oval cam (heavier, more linear feel). Benante's syncopated kick technique benefits from the precise, responsive feel the Eliminator provides."
+        answer: "Charlie Benante uses Tama Speed Cobra double pedals, having switched from Tama's vintage HP35 Camco chain-drive pedals in 2010 after using them since 1984. The Speed Cobra's direct-drive design gives Benante the precise, responsive feel his syncopated kick technique benefits from."
       },
       {
         question: "What are the best Anthrax songs to learn Charlie Benante's style?",
@@ -5981,7 +5981,7 @@ His signature open hi-hat thrash pattern — where the hi-hat opens on the eight
       drummerProfile: '/drummer/charlie-benante',
       similarDrummers: ['Dave Lombardo', 'Lars Ulrich', 'Nick Menza'],
       relatedGuides: ['how-to-sound-like-dave-lombardo', 'how-to-sound-like-lars-ulrich', 'how-to-sound-like-nick-menza'],
-      gearPages: ['/gear/pedals', '/brands/pearl', '/brands/sabian']
+      gearPages: ['/gear/pedals', '/brands/tama', '/brands/paiste']
     },
     licksUrl: '/drummers/charlie-benante/licks',
     relatedArticles: [
@@ -6266,7 +6266,7 @@ His signature approach involves treating each limb as an independent rhythmic vo
     genre: 'Heavy Metal / Hard Rock',
     priority: 24,
     title: "How to Sound Like Mikkey Dee: Complete Gear & Technique Guide",
-    description: "Master Mikkey Dee's powerful rock drumming style. Learn his floor tom fills, aggressive right-hand attack, Pearl setup, and Paiste 2002 cymbal choices that defined Motörhead's final era and now drive Scorpions.",
+    description: "Master Mikkey Dee's powerful rock drumming style. Learn his floor tom fills, aggressive right-hand attack, Sonor SQ2 setup, and Paiste cymbal choices that defined Motörhead's final era and now drive Scorpions.",
     seoKeywords: ['mikkey dee drumming', 'how to sound like mikkey dee', 'motörhead drummer technique', 'mikkey dee gear', 'mikkey dee technique', 'mikkey dee drum kit', 'motörhead drums', 'scorpions drummer'],
     ogImage: '/images/guides/mikkey-dee-guide.webp',
     datePublished: '2026-06-24',
@@ -6285,7 +6285,7 @@ Understanding his style means abandoning the impulse toward complexity. Dee's dr
         "Mikkey Dee joined Motörhead in 1992 and recorded with them for 23 years before joining Scorpions in 2016",
         "His technique centers on powerful straight-ahead timing, floor tom fills, and aggressive right-hand attack",
         "Bastards (1993) and Inferno (2004) are essential study records from his Motörhead period",
-        "He plays Pearl Reference drums with Paiste 2002 cymbals (Motörhead era) and Pearl Masters (Scorpions era)"
+        "He has been a longtime Sonor Drums endorser since his King Diamond days, playing their SQ2 custom-build series, paired with Paiste cymbals since 1987"
       ]
     },
     technique: {
@@ -6339,53 +6339,53 @@ Understanding his style means abandoning the impulse toward complexity. Dee's dr
       ]
     },
     gear: {
-      title: "Mikkey's Pearl & Paiste Setup",
+      title: "Mikkey's Sonor & Paiste Setup",
       drumKit: {
-        brand: 'Pearl',
-        model: 'Pearl Reference (Motörhead era) / Pearl Masters Premium (Scorpions era)',
-        shells: 'All-maple',
+        brand: 'Sonor',
+        model: 'Sonor SQ2',
+        shells: 'Birch/all-maple custom-build (SQ2 series)',
         finish: 'Various — black hardware live with Motörhead',
         config: {
-          kick: '22" x 18" Bass Drums (x2)',
-          snare: '14" x 6.5" Pearl Free-Floating Brass or Steel',
+          kick: '18" x 22" Bass Drum',
+          snare: '14" x 7.25" Sonor Mikkey Dee Signature Birch',
           toms: ['10" x 9"', '12" x 10"'],
           floorToms: ['14" x 14" Floor Tom', '16" x 16" Floor Tom']
         },
-        description: "Dee played Pearl Reference maple drums throughout the later Motörhead years — a professional all-maple kit that provides the projection and attack needed in rock. His configuration emphasizes floor toms: two floor toms (14\" and 16\") versus only two smaller rack toms (10\" and 12\"), reflecting his fill vocabulary's emphasis on low-frequency weight. Dual 22\" bass drums provide independent kick propulsion for the double bass runs that drive Motörhead's faster material. Since joining Scorpions, he has transitioned to Pearl Masters Premium.",
-        affiliateNote: "Pearl Session Studio Classic or Pearl Reference are the accessible alternatives — Pearl's all-maple character carries across the range."
+        description: "Dee has been a Sonor endorser since his King Diamond days, playing their SQ2 custom-build series — a professional kit that provides the projection and attack needed in rock. His configuration emphasizes floor toms: two floor toms (14\" and 16\") versus only two smaller rack toms (10\" and 12\"), reflecting his fill vocabulary's emphasis on low-frequency weight. He used Premier drums in his early Motörhead years before settling into his long-term Sonor setup, which he continues to play with Scorpions.",
+        affiliateNote: "Sonor Select Force or AQ2 are the accessible alternatives — Sonor's build quality carries across the range."
       },
       snare: {
-        brand: 'Pearl',
-        model: 'Pearl Free-Floating Brass or Steel',
-        size: '14" x 6.5"',
-        shell: 'Brass or Steel',
-        description: "Dee's snare is a Pearl Free-Floating in brass or steel shell — the Free-Floating system isolates the shell from lug mounting pressure, allowing the metal shell to resonate freely for maximum projection and tonal clarity. The 6.5\" depth provides additional low-mid body compared to a standard 5.5\" snare, giving his backbeats weight alongside the crack that cuts through Motörhead's dense guitar sound.",
-        alternative: "Ludwig 6.5\" Bronze or Pearl Sensitone Premium Brass for comparable metal-shell crack with body"
+        brand: 'Sonor',
+        model: 'Sonor Mikkey Dee Signature',
+        size: '14" x 7.25"',
+        shell: 'Birch',
+        description: "Dee's signature snare, released in 2012, is a 14\" x 7.25\" birch shell — deeper than a standard 5.5\" or 6.5\" snare, giving his backbeats extra low-mid body alongside the crack that cuts through Motörhead's dense guitar sound. The birch shell delivers a warm attack with enough projection for arena-rock volumes.",
+        alternative: "Ludwig 6.5\" Bronze or Sonor Select Force Birch for comparable deep-shell crack with body"
       },
       cymbals: {
         brand: 'Paiste',
-        series: 'Paiste 2002 Series (Motörhead era) / Paiste Signature (current)',
+        series: 'Paiste Signature Series',
         setup: [
-          { type: 'Hi-Hats', model: 'Paiste 2002 15" Big Beats', notes: 'Heavy, loud hi-hats — projects over a loud rock mix with Dee\'s aggressive foot technique' },
-          { type: 'Crash', model: 'Paiste 2002 18" Medium Crash', notes: 'Loud, bright crash with fast attack — suited to arm-powered crash accents' },
-          { type: 'Crash', model: 'Paiste 2002 20" Heavy Crash', notes: 'Bigger crash for louder moments — heavy weight sustains under full-power ride playing' },
-          { type: 'China', model: 'Paiste 2002 18" China', notes: 'Aggressive china for accent punctuation in Motörhead-style sections' },
-          { type: 'Ride', model: 'Paiste 2002 22" Heavy Ride', notes: 'Loud, projecting ride that cuts through dense guitar — designed for Dee\'s powerful right-hand attack' }
+          { type: 'Hi-Hats', model: 'Paiste Signature 14" Sound Edge Hi-Hats', notes: 'Cutting, articulate hi-hats — projects over a loud rock mix with Dee\'s aggressive foot technique' },
+          { type: 'Crash', model: 'Paiste Signature 19" Power Crash', notes: 'Loud, bright crash with fast attack — suited to arm-powered crash accents' },
+          { type: 'Crash', model: 'Paiste Signature 20" Power Crash', notes: 'Bigger crash for louder moments — heavy weight sustains under full-power ride playing' },
+          { type: 'China', model: 'Paiste Signature 18" Heavy China', notes: 'Aggressive china for accent punctuation in Motörhead-style sections' },
+          { type: 'Ride', model: 'Paiste Signature 22" Power Ride', notes: 'Loud, projecting ride that cuts through dense guitar — designed for Dee\'s powerful right-hand attack' }
         ],
-        description: "Dee's Paiste 2002 setup is built for maximum projection in a loud rock context. The 2002 series — originally designed in the early 1970s and beloved in hard rock and metal — provides bright, loud, cutting sound with a distinctive presence character that projects over dense guitar. The heavy ride is particularly important: Dee's powerful right-hand attack needs a ride that responds to full-force strokes rather than giving way, which the 2002 Heavy provides."
+        description: "Dee has been a Paiste artist since April 1987. His Signature Series setup is built for maximum projection in a loud rock context, providing bright, loud, cutting sound with a distinctive presence character that projects over dense guitar. The Power Ride is particularly important: Dee's powerful right-hand attack needs a ride that responds to full-force strokes rather than giving way, which the Power Ride provides."
       },
       pedals: {
-        brand: 'Pearl',
-        model: 'Pearl Demon Drive Double Pedal',
-        description: "Dee uses Pearl Demon Drive double pedals — Pearl's direct-drive flagship. The Demon Drive eliminates the chain between footboard and camshaft in favor of a direct mechanical link, providing immediate, mechanical response suited to Dee's straight-ahead kick patterns. Direct drive gives the most precise feel for individual note placement, which matters for Dee's locked-in kick-bass relationship with Lemmy's bass.",
-        alternative: "Pearl Eliminator Redline or DW 9002 direct drive for comparable direct-feel performance"
+        brand: 'DW',
+        model: 'DW 5000 Series Double Pedal',
+        description: "Dee uses a DW 5000 Series double pedal alongside his Sonor hardware, providing immediate, mechanical response suited to Dee's straight-ahead kick patterns. The direct feel gives precise placement for individual notes, which matters for Dee's locked-in kick-bass relationship with Lemmy's bass.",
+        alternative: "DW 3000 Series or Tama Speed Cobra direct drive for comparable direct-feel performance"
       },
       sticks: {
-        brand: 'Vic Firth',
-        model: 'Vic Firth 5B or 2B',
-        specs: '5B or 2B weight, hickory',
-        description: "Dee uses heavier sticks — 5B or 2B weight in hickory — that match the physical demands of his arm-powered playing style. Lighter sticks would flex under his full-arm strokes and not provide the consistent impact his groove demands. Hickory's natural flex and moderate weight make 5B and 2B sticks appropriate for extended high-energy performance.",
-        alternative: "Promark 5B or 2B in hickory, or Vater 5B Manhattan for comparable weight and durability"
+        brand: 'Wincent',
+        model: 'Wincent Mikkey Dee Signature (W-MDS)',
+        specs: 'Heavier weight, hickory',
+        description: "Dee plays his own Wincent signature stick — a heavier hickory model that matches the physical demands of his arm-powered playing style. Lighter sticks would flex under his full-arm strokes and not provide the consistent impact his groove demands.",
+        alternative: "Vic Firth 5B or 2B, or Promark 5B or 2B in hickory for comparable weight and durability"
       },
       heads: {
         kick: 'Remo Powerstroke P3 Clear or Evans EMAD2',
@@ -6406,7 +6406,7 @@ Understanding his style means abandoning the impulse toward complexity. Dee's dr
       snare: {
         tension: "Medium-high — cutting crack for rock volumes",
         muffling: "One strip of tape at edge, or single Moongel for live",
-        description: "The Free-Floating brass or steel snare needs medium-high tension to deliver the cutting crack that projects over a loud rock mix. Dee's snare has attack and presence rather than warmth and ring — the backbeat must be heard clearly by the audience in large venues without PA assistance. A small amount of edge muffling reduces unwanted ring without destroying the snare's projecting character.",
+        description: "The Sonor Mikkey Dee Signature birch snare needs medium-high tension to deliver the cutting crack that projects over a loud rock mix. Dee's snare has attack and presence rather than warmth and ring — the backbeat must be heard clearly by the audience in large venues without PA assistance. A small amount of edge muffling reduces unwanted ring without destroying the snare's projecting character.",
         tip: "Tune to the point where the crack sounds sharp and defined. Play hard — Dee's backbeats are full-force strokes, and the snare should respond to that commitment without choking or distorting. If the snare chokes at full force, tension is too high."
       },
       toms: {
@@ -6460,41 +6460,41 @@ Understanding his style means abandoning the impulse toward complexity. Dee's dr
       budget: {
         price: "$1,000",
         label: "Starter Dee-Inspired Setup",
-        kit: "Pearl Export ($550) or Mapex Storm ($500)",
-        cymbals: "Paiste PST 5 or 2002 Brass Pack ($200)",
-        pedals: "Pearl P-2002C Eliminator Double Pedal ($200)",
+        kit: "Sonor AQ2 ($550) or Mapex Storm ($500)",
+        cymbals: "Paiste PST 5 or PST 8 Pack ($200)",
+        pedals: "DW 3000 Series Double Pedal ($200)",
         sticks: "Vic Firth 5B ($10)",
-        notes: "Pearl Export shares Pearl's sound character and hardware compatibility. Paiste PST 5 cymbals share Paiste's bright projection character across the budget range."
+        notes: "Sonor AQ2 shares Sonor's build character and hardware compatibility. Paiste PST 5 cymbals share Paiste's bright projection character across the budget range."
       },
       mid: {
         price: "$3,000",
         label: "Intermediate Setup",
-        kit: "Pearl Session Studio Classic ($1,200)",
-        cymbals: "Paiste 2002 15\" Big Beats + 18\" Medium Crash ($900)",
-        pedals: "Pearl Demon Drive Double Pedal ($350)",
+        kit: "Sonor Select Force ($1,200)",
+        cymbals: "Paiste Signature 14\" Sound Edge Hi-Hats + 19\" Power Crash ($900)",
+        pedals: "DW 5000 Series Double Pedal ($350)",
         sticks: "Vic Firth 5B ($10)",
         heads: "Remo Emperor Clear Tom Set + Powerstroke P3 Kick ($150)",
-        notes: "Pearl Session Studio Classic delivers maple tone at a more accessible price than the Reference. The Paiste 2002 15\" Big Beat hi-hats are the most important single upgrade — they define Dee's hi-hat character and cut through loud mixes."
+        notes: "Sonor Select Force delivers a build closer to Dee's SQ2 at a more accessible price. The Paiste Signature Sound Edge hi-hats are the most important single upgrade — they define Dee's hi-hat character and cut through loud mixes."
       },
       pro: {
         price: "$6,500+",
         label: "Professional Setup",
-        kit: "Pearl Reference ($3,500+) or Pearl Masters Premium ($3,000+)",
-        cymbals: "Full Paiste 2002 setup ($2,500+)",
-        pedals: "Pearl Demon Drive Double Pedal ($350)",
-        snare: "Pearl Free-Floating Brass 14\" x 6.5\" ($500)",
+        kit: "Sonor SQ2 ($3,500+)",
+        cymbals: "Full Paiste Signature Series setup ($2,500+)",
+        pedals: "DW 5000 Series Double Pedal ($350)",
+        snare: "Sonor Mikkey Dee Signature 14\" x 7.25\" Birch ($500)",
         heads: "Full Remo Emperor/Powerstroke set ($200)",
-        notes: "Pearl Reference is Dee's Motörhead-era setup. Pearl Masters Premium is his current Scorpions configuration. Paiste 2002 cymbals throughout for the projecting, bright character that cuts through a loud rock mix."
+        notes: "Sonor SQ2 is Dee's current custom-build kit, played throughout his Sonor endorsement since his King Diamond days and continuing with Scorpions. Paiste Signature Series cymbals throughout for the projecting, bright character that cuts through a loud rock mix."
       }
     },
     faq: [
       {
         question: "What drum kit does Mikkey Dee use?",
-        answer: "Mikkey Dee played Pearl Reference drums throughout his Motörhead years, with dual 22\" bass drums and an emphasis on floor toms (14\" and 16\") in his configuration. Since joining Scorpions in 2016, he has transitioned to Pearl Masters Premium drums. Both setups use all-maple shells and Pearl hardware. He is a long-term Pearl endorser."
+        answer: "Mikkey Dee has been a Sonor Drums endorser since his King Diamond days, playing their SQ2 custom-build series, with an 18\"x22\" bass drum played through a double pedal and an emphasis on floor toms (14\" and 16\") in his configuration. He used Premier drums in his early Motörhead years before settling into his long-term Sonor setup, which he continues to play with Scorpions."
       },
       {
         question: "What cymbals does Mikkey Dee use?",
-        answer: "Mikkey Dee played Paiste 2002 cymbals throughout his Motörhead years — a series known for bright, loud, projecting character suited to hard rock volumes. His Motörhead setup typically included 15\" 2002 Big Beat hi-hats, 2002 Medium and Heavy crashes, a 2002 China, and a 2002 Heavy Ride. He has also used Paiste Signature cymbals in later years with Scorpions."
+        answer: "Mikkey Dee has been a Paiste artist since April 1987, currently playing the Signature Series — a series known for bright, loud, projecting character suited to hard rock volumes. His setup includes 14\" Sound Edge hi-hats, 19\" and 20\" Power Crashes, an 18\" Heavy China, and a 22\" Power Ride."
       },
       {
         question: "What is Mikkey Dee's signature drumming technique?",
@@ -6513,7 +6513,7 @@ Understanding his style means abandoning the impulse toward complexity. Dee's dr
       drummerProfile: '/drummer/mikkey-dee',
       similarDrummers: ['Lars Ulrich', 'Dave Lombardo', 'Nicko McBrain'],
       relatedGuides: ['how-to-sound-like-lars-ulrich', 'how-to-sound-like-dave-lombardo', 'how-to-sound-like-nicko-mcbrain'],
-      gearPages: ['/gear/pedals', '/brands/pearl', '/brands/paiste']
+      gearPages: ['/gear/pedals', '/brands/sonor', '/brands/paiste']
     },
     licksUrl: '/drummers/mikkey-dee/licks',
     relatedArticles: [
@@ -14841,14 +14841,14 @@ This guide breaks down the technique, gear, and practice approach behind Koperwe
     readingTime: '9 min',
     intro: {
       title: "Precision Under the Orchestra",
-      content: `Dariusz "Daray" Brzozowski stepped into one of extreme metal's most demanding drum seats in 2008, replacing Hellhammer in Norwegian symphonic black metal titans Dimmu Borgir. The job requires something rare: the raw speed and brutality of death metal — a skill he'd already proven across a decade with Polish death metal legends Vader (2006-2016) — combined with the split-second dynamic control needed to lock in with a live 70-piece orchestra and choir without derailing the arrangement.
+      content: `Dariusz "Daray" Brzozowski stepped into one of extreme metal's most demanding drum seats in 2008, replacing Hellhammer in Norwegian symphonic black metal titans Dimmu Borgir. The job requires something rare: the raw speed and brutality of death metal — a skill he'd already proven across roughly four years with Polish death metal legends Vader (2004-2008) — combined with the split-second dynamic control needed to lock in with a live 70-piece orchestra and choir without derailing the arrangement.
 
 What makes Daray's style distinct from most extreme metal drummers is that theatrical control. Blast beats and machine-gun double-kick runs are only half the job; the other half is playing with absolute consistency against fixed orchestral parts that can't adjust to a drummer who rushes or drags. Songs like "Progenies of the Great Apocalypse" and the orchestral sections of Abrahadabra (2010) and Eonian (2018) showcase a drummer who can go from blistering aggression to controlled, orchestral-tempo precision within the same song.
 
 This guide breaks down Daray's technique, gear, and practice approach — essential study for any drummer working at the intersection of extreme metal speed and symphonic composition.`,
       keyPoints: [
         "Replaced Hellhammer in Dimmu Borgir in 2008, one of symphonic black metal's most demanding drum chairs",
-        "Combines death metal blast-beat speed (a decade with Vader, 2006-2016) with orchestral timing precision",
+        "Combines death metal blast-beat speed (roughly four years with Vader, 2004-2008) with orchestral timing precision",
         "Must lock in with live orchestra and choir arrangements that cannot adjust to the drummer",
         "Pearl Reference Pure kit and Paiste cymbals engineered for consistency from clubs to festival stages"
       ]
@@ -15043,7 +15043,7 @@ This guide breaks down Daray's technique, gear, and practice approach — essent
       },
       {
         question: "What bands has Daray played in?",
-        answer: "Daray has drummed for Norwegian symphonic black metal band Dimmu Borgir since 2008, replacing Hellhammer. Before that, he spent a decade with Polish death metal band Vader (2006-2016), and he continues to play with Polish black metal band Vesania."
+        answer: "Daray has drummed for Norwegian symphonic black metal band Dimmu Borgir since 2008, replacing Hellhammer. Before that, he spent roughly four years with Polish death metal band Vader (2004-2008), and he continues to play with Polish black metal band Vesania."
       },
       {
         question: "Is Daray's style good for beginners?",

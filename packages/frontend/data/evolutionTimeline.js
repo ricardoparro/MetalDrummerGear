@@ -265,7 +265,7 @@ export const EVOLUTION_TIMELINE = [
     album: 'Reign in Blood',
     type: TIMELINE_EVENT_TYPES.ALBUM_RELEASE,
     subgenre: METAL_SUBGENRES.THRASH,
-    gearNotes: 'Pearl drums, double bass drum setup - speed optimized',
+    gearNotes: 'Tama drums, double bass drum setup - speed optimized',
     significance: 'The most influential thrash drum performance ever recorded',
     videoEmbed: null,
     image: '/images/drummers/dave-lombardo.webp',

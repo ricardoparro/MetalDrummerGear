@@ -2,9 +2,9 @@
 
 *Auto-written by `.github/workflows/check-structured-data.yml`. CEO Agent: read this every run when deciding which JSON-LD gaps to file `ai-fix` issues for. This catches the class of bug GSC flags as "Missing field X" before Google does.*
 
-**Generated:** 2026-08-10T10:28:38.028Z
+**Generated:** 2026-08-17T10:25:53.753Z
 **Sitemap URLs total:** 3180 · **Sampled this run:** 150 (cap 150)
-**Compared against:** 2026-08-03.json
+**Compared against:** 2026-08-10.json
 
 **150 URLs scanned · 150 clean · 0 with issues · WoW: +0 new, −0 fixed**
 

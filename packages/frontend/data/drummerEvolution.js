@@ -3053,7 +3053,7 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
-          'Joined Testament (2010) — career milestone',
+          'Joined Testament (2007) — career milestone',
           'Dethklok/Metalocalypse drum recordings (2006-2013)',
           'Pearl Reference Pure endorsement upgrade',
           'Sabian AAX series adoption',

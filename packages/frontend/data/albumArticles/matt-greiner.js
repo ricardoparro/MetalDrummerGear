@@ -16,13 +16,13 @@ export const articles = {
     "dateModified": "2026-06-18",
     "author": "MetalForge Editorial",
     "title": "Matt Greiner Complete Drum Setup — August Burns Red Gear Guide",
-    "description": "Complete breakdown of Matt Greiner's drum setup with August Burns Red. Pearl Reference Pure kit, Meinl Byzance cymbals, Pearl Demon Drive pedals, and Vic Firth signature sticks — the full gear guide for metalcore's most musical drummer.",
+    "description": "Complete breakdown of Matt Greiner's drum setup with August Burns Red. Mapex Black Panther Design Lab kit, Paiste Formula 602 cymbals, DW 9000 Series double pedal, and Vic Firth signature sticks — the full gear guide for metalcore's most musical drummer.",
     "seoKeywords": [
       "matt greiner drum setup",
       "matt greiner drum kit",
       "august burns red drummer gear",
-      "matt greiner pearl drums",
-      "matt greiner meinl cymbals",
+      "matt greiner mapex drums",
+      "matt greiner paiste cymbals",
       "matt greiner sticks",
       "metalcore drum setup",
       "august burns red drums"
@@ -30,21 +30,21 @@ export const articles = {
     "ogImage": "/images/drummers/matt-greiner.webp",
     "intro": {
       "title": "The Architect of August Burns Red's Sound",
-      "content": "Matt Greiner (born May 2, 1985, in Lancaster, Pennsylvania) isn't just the drummer for August Burns Red — he's the rhythmic foundation of one of metalcore's most influential bands. As a founding member since 2003, Greiner has been the engine behind ABR's Grammy-nominated catalog, from the breakneck precision of \"Composure\" to the melodic sophistication of \"Ghosts.\"\n\nWhat sets Greiner apart in the metalcore landscape isn't just speed or technical chops — it's musicality. Where many metalcore drummers prioritize aggression above all else, Greiner brings a jazz-informed dynamic range, creative cymbal orchestration, and an architect's sense of arrangement to every track. His playing locks with guitarist JB Brubaker's intricate riffs in a way that transforms difficult patterns into grooves you can feel.\n\nAugust Burns Red has earned multiple Grammy nominations, a Billboard 200 presence, and a devoted global following — much of that driven by Greiner's uncompromising drumming. His Pearl signature snare drum and ongoing endorsements with Meinl Cymbals and Vic Firth reflect an artist at the top of his genre.\n\nThis article breaks down every piece of gear in Matt Greiner's current setup, from his Pearl Reference Pure kit to his Meinl Byzance cymbal arsenal, and examines how each component contributes to August Burns Red's signature sound.",
+      "content": "Matt Greiner (born May 2, 1985, in Lancaster, Pennsylvania) isn't just the drummer for August Burns Red — he's the rhythmic foundation of one of metalcore's most influential bands. As a founding member since 2003, Greiner has been the engine behind ABR's Grammy-nominated catalog, from the breakneck precision of \"Composure\" to the melodic sophistication of \"Ghosts.\"\n\nWhat sets Greiner apart in the metalcore landscape isn't just speed or technical chops — it's musicality. Where many metalcore drummers prioritize aggression above all else, Greiner brings a jazz-informed dynamic range, creative cymbal orchestration, and an architect's sense of arrangement to every track. His playing locks with guitarist JB Brubaker's intricate riffs in a way that transforms difficult patterns into grooves you can feel.\n\nAugust Burns Red has earned multiple Grammy nominations, a Billboard 200 presence, and a devoted global following — much of that driven by Greiner's uncompromising drumming. His Mapex Black Panther signature snare and ongoing endorsements with Paiste Cymbals and Vic Firth reflect an artist at the top of his genre.\n\nThis article breaks down every piece of gear in Matt Greiner's current setup, from his Mapex Black Panther Design Lab kit to his Paiste Formula 602 cymbal arsenal, and examines how each component contributes to August Burns Red's signature sound.",
       "keyPoints": [
         "Founding member of August Burns Red since 2003",
-        "Pearl Drums endorsee with Matt Greiner Signature snare",
-        "Meinl Cymbals artist — Byzance series specialist",
+        "Mapex Drums endorsee with Matt Greiner Signature snare, since 2016",
+        "Paiste Cymbals artist — Formula 602 series specialist",
         "Vic Firth Matt Greiner signature sticks",
         "Multiple Grammy nominations for Best Metal Performance",
         "Known for jazz-influenced dynamics in a metalcore context"
       ]
     },
     "drumKit": {
-      "title": "Matt's Pearl Reference Pure",
-      "brand": "Pearl",
-      "model": "Pearl Reference Pure",
-      "finish": "Piano Black",
+      "title": "Matt's Mapex Black Panther Design Lab",
+      "brand": "Mapex",
+      "model": "Mapex Black Panther Design Lab",
+      "finish": "Maple/walnut hybrid shell pack",
       "config": {
         "bassdrums": [
           "22\" x 18\" Bass Drum (x2 — double kick)"
@@ -55,89 +55,94 @@ export const articles = {
           "14\" x 14\" Floor Tom",
           "16\" x 14\" Floor Tom"
         ],
-        "shells": "Maple/mahogany hybrid shells with free-floating shell design"
+        "shells": "Maple/walnut hybrid shells"
       },
-      "description": "Matt Greiner's Pearl Reference Pure kit in Piano Black is one of the finest production kits available for metalcore. The \"Pure\" designation refers to the classic tone-focused design of the Reference series — prioritizing natural shell resonance over extra reinforcement layers.\n\nThe maple/mahogany hybrid construction gives Greiner exactly what metalcore demands: maple's warmth and sustain combined with mahogany's focused low-end punch. The result is a kit that cuts through dense guitar mixes without losing the nuance of ghost notes or melodic fill work.\n\nGreiner runs double kicks — two 22\" x 18\" bass drums — generating the thunderous foot work that drives tracks like \"Composure\" and \"White Washed.\" The 22\" diameter provides substantial low-frequency presence, while the 18\" depth adds body and authority to each stroke. Two separate bass drums give Greiner subtle differences in feel and resonance between feet that a double pedal on a single kick cannot replicate.\n\nHis four-tom configuration spans from 10\" to 16\", covering a wide melodic range. August Burns Red's music frequently features melodic tom passages between heavy riffs, and this spread allows Greiner to construct fills that function as counter-melodies rather than simple transitions.\n\nThe Piano Black finish is understated by ABR's production standards — this kit speaks through performance, not visual excess.",
+      "description": "Matt Greiner's Mapex Black Panther Design Lab kit is one of the finest production kits available for metalcore. He switched to Mapex — and to Paiste cymbals — in 2016, leaving behind his earlier Pearl/Meinl setup for August Burns Red's technically demanding metalcore sets.\n\nThe maple/walnut hybrid construction gives Greiner exactly what metalcore demands: maple's warmth and sustain combined with walnut's focused low-end punch. The result is a kit that cuts through dense guitar mixes without losing the nuance of ghost notes or melodic fill work.\n\nGreiner runs double kicks — two 22\" x 18\" bass drums — generating the thunderous foot work that drives tracks like \"Composure\" and \"White Washed.\" The 22\" diameter provides substantial low-frequency presence, while the 18\" depth adds body and authority to each stroke. Two separate bass drums give Greiner subtle differences in feel and resonance between feet that a double pedal on a single kick cannot replicate.\n\nHis four-tom configuration spans from 10\" to 16\", covering a wide melodic range. August Burns Red's music frequently features melodic tom passages between heavy riffs, and this spread allows Greiner to construct fills that function as counter-melodies rather than simple transitions.",
       "notes": [
-        "Pearl Reference Pure — flagship Pearl production shell",
-        "Maple/mahogany hybrid for warmth and punch",
+        "Mapex Black Panther Design Lab — maple/walnut hybrid shell pack",
+        "Endorsed since 2016, switching from an earlier Pearl kit",
         "Double 22\" kick drums for independent feel per foot",
-        "Four-tom spread (10\", 12\", 14\", 16\") for melodic fills",
-        "Piano Black finish with chrome hardware"
+        "Four-tom spread (10\", 12\", 14\", 16\") for melodic fills"
       ],
-      "estimatedValue": "$3,500–5,500 (Reference Pure shell pack)"
+      "estimatedValue": "$2,500–4,000 (Black Panther Design Lab shell pack)"
     },
     "snare": {
-      "title": "The Signature Weapon: Pearl Matt Greiner Snare",
-      "brand": "Pearl",
-      "model": "Pearl Matt Greiner Signature Snare",
-      "size": "14\" x 6\"",
-      "shell": "Steel",
-      "description": "The Pearl Matt Greiner Signature snare is purpose-built for metalcore. At 14\" x 6\", the depth provides extra body and projection — critical for cutting through two heavy guitars in a live ABR mix.\n\nThe steel shell is the defining choice. Steel snares deliver a focused, cutting crack with brighter high-frequency content than wood. For Greiner's style — where the snare must punch through blast beats and syncopated patterns alike — steel provides the immediate attack and fast decay that wood cannot match in a dense metalcore mix.\n\nPearl equipped this model with die-cast hoops for maximum rimshot consistency and durability under touring conditions. Die-cast hoops also contribute to the focused tone, dampening overtones that would muddy complex patterns.\n\nGreiner typically tunes the snare on the brighter side of medium, allowing crisp ghost notes during quieter passages while maintaining authority on the heavy backbeats of ABR's heavier sections. Head selection — Remo Controlled Sound or Evans Hybrid — adds another layer of attack control, allowing him to dial in ghost note sensitivity without sacrificing power on full strokes.\n\nThe 6\" depth (deeper than a standard 5.5\" snare) gives the drum a fuller, more commanding voice without crossing into the \"fat\" territory that can clash with metalcore's tight production aesthetic.",
+      "title": "The Signature Weapon: Mapex Black Panther Snare",
+      "brand": "Mapex",
+      "model": "Mapex Black Panther 14\" x 5.5\" Maple",
+      "size": "14\" x 5.5\"",
+      "shell": "Maple",
+      "description": "The Mapex Black Panther snare is the drum that has anchored Matt Greiner's sound since his 2016 switch to Mapex. At 14\" x 5.5\", it's a standard-depth maple shell built to deliver a warm, articulate crack that still cuts through two heavy guitars in a live ABR mix.\n\nThe maple shell is the defining choice. Maple snares deliver a warmer, fuller tone with more body than steel, while still projecting enough attack to punch through blast beats and syncopated patterns.\n\nGreiner tunes the snare on the brighter side of medium, allowing crisp ghost notes during quieter passages while maintaining authority on the heavy backbeats of ABR's heavier sections. Head selection — Evans G2 — adds another layer of attack control, allowing him to dial in ghost note sensitivity without sacrificing power on full strokes.",
       "tuningSetting": "Medium-bright for articulation and rimshot power across the full dynamic range",
-      "heads": "Remo Controlled Sound Coated (batter), Remo Ambassador Snare Side (resonant)",
-      "estimatedValue": "$350–500 (signature model)"
+      "heads": "Evans G2 Coated (batter), Evans Snare Side (resonant)",
+      "estimatedValue": "$250–400 (Black Panther series)"
     },
     "cymbals": {
-      "title": "The Meinl Byzance Arsenal",
-      "brand": "Meinl",
-      "series": "Meinl Byzance Series",
+      "title": "The Paiste Formula 602 Arsenal",
+      "brand": "Paiste",
+      "series": "Paiste Formula 602 Series",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Meinl Byzance 15\" Dual Hi-Hats",
+          "model": "Paiste Formula 602 14\" Hi-Hats",
           "position": "Left side",
-          "notes": "Dual construction for complex, layered tone"
+          "notes": "Classic bell-bronze construction for crisp, controlled tone"
         },
         {
           "type": "Crash",
-          "model": "Meinl Byzance 18\" Extra Dry Medium Crash",
+          "model": "Paiste Formula 602 16\" Crash",
           "position": "Left crash",
           "notes": "Fast response, controlled decay"
         },
         {
           "type": "Crash",
-          "model": "Meinl Byzance 19\" Extra Dry Medium Crash",
+          "model": "Paiste Formula 602 17\" Crash",
+          "position": "Center crash",
+          "notes": "Mid-sized crash for section transitions"
+        },
+        {
+          "type": "Crash",
+          "model": "Paiste Formula 602 18\" Crash",
           "position": "Right crash",
           "notes": "Slightly larger for fuller sound on big accents"
         },
         {
           "type": "Ride",
-          "model": "Meinl Byzance 21\" Transition Ride",
+          "model": "Paiste Formula 602 22\" Ride",
           "position": "Right",
-          "notes": "Versatile — usable as ride or large crash"
+          "notes": "Clear bell definition and controlled bow for extended riding passages"
         },
         {
           "type": "China",
-          "model": "Meinl Byzance 18\" Extra Dry China",
+          "model": "Paiste Formula 602 18\" China",
           "position": "Over rack toms",
-          "notes": "Dry, aggressive china for accent work"
+          "notes": "Cutting, aggressive china for accent work"
         },
         {
           "type": "Splash",
-          "model": "Meinl Byzance 10\" Splash",
-          "position": "Effects left",
+          "model": "Paiste Formula 602 10\" Splash",
+          "position": "Effects position",
           "notes": "Quick accent splashes"
-        },
-        {
-          "type": "Splash",
-          "model": "Meinl Byzance 12\" Splash",
-          "position": "Effects right",
-          "notes": "Slightly fuller splash accent"
         }
       ],
-      "description": "Matt Greiner's Meinl Byzance setup is built around the \"Extra Dry\" philosophy — cymbals with raw, unlathed surfaces that produce dark, dry, fast-decaying sounds ideal for dense metalcore production.\n\nThe 15\" Byzance Dual Hi-Hats are the standout choice. \"Dual\" cymbals combine two different alloy types in a single cymbal, creating a more complex, layered tone than a standard hi-hat pair. For Greiner's intricate patterns — including aggressive choked strokes and subtler ghosted passages within the same song — the Dual hi-hats provide tonal depth without excess wash that would cloud rapid single-stroke work.\n\nThe Extra Dry crash setup (18\" and 19\") is perfectly matched to metalcore production. Extra Dry cymbals feature raw, hammered surfaces with minimal lathing, producing controlled crashes that speak fast and decay quickly. In a genre where rhythmic precision is paramount, crashes that linger too long blur the picture. Greiner's Extra Dry crashes accent the moment, then immediately get out of the way.\n\nThe 21\" Byzance Transition Ride occupies the middle ground between ride and crash — \"Transition\" models are designed to be crashable rides that double as large crashes when driven hard. This versatility serves ABR's dynamic range, letting Greiner shift from delicate ride passages to explosive crashes without reaching across the kit.\n\nThe 18\" Extra Dry China adds an aggressive, trashier texture for ABR's heaviest passages. Used selectively, it's the sonic exclamation point at the end of Greiner's most intense fills.\n\nThe dual splash setup (10\" and 12\") provides quick accent tools for subtle texture or dramatic stabs between riffs — a signature touch in Greiner's more experimental moments.",
-      "estimatedValue": "$2,000–3,000 (full Byzance setup)"
+      "description": "Matt Greiner's Paiste Formula 602 setup has been his cymbal voice since 2016, when he moved on from his earlier Meinl Byzance setup. The Formula 602 line's bell-bronze construction delivers a bright, controlled character suited to dense metalcore production.\n\nThe 14\" Formula 602 Hi-Hats provide a crisp, fast response for Greiner's intricate patterns — including aggressive choked strokes and subtler ghosted passages within the same song — without excess wash that would cloud rapid single-stroke work.\n\nThe crash setup (16\", 17\", and 18\") is matched to metalcore production: these cymbals speak fast and decay in a controlled manner. In a genre where rhythmic precision is paramount, crashes that linger too long blur the picture. Greiner's Formula 602 crashes accent the moment, then immediately get out of the way.\n\nThe 22\" Formula 602 Ride provides clear bell definition and a controlled bow, letting Greiner shift between defined riding passages and driven crash accents without reaching across the kit.\n\nThe 18\" Formula 602 China adds an aggressive, trashier texture for ABR's heaviest passages. Used selectively, it's the sonic exclamation point at the end of Greiner's most intense fills.\n\nThe 10\" Formula 602 Splash provides a quick accent tool for subtle texture or dramatic stabs between riffs — a signature touch in Greiner's more experimental moments.",
+      "estimatedValue": "$1,800–2,600 (full Formula 602 setup)"
     },
     "hardware": {
-      "title": "Pearl Demon Drive Foundation",
+      "title": "DW 9000 Series Foundation",
       "items": [
         {
           "type": "Bass Drum Pedals",
-          "brand": "Pearl",
-          "model": "Pearl Demon Drive Double Pedal",
+          "brand": "DW",
+          "model": "DW 9000 Series Double Pedal",
           "notes": "Direct-drive for maximum control and consistent feel",
-          "description": "The Pearl Demon Drive direct-drive pedal is Greiner's choice for its immediate, one-to-one feel. Unlike chain-drive systems, direct drives transmit every ounce of force directly to the beater cam, providing the clarity and speed needed for ABR's precise double-kick patterns. Live, the consistent feel across different stage conditions makes it invaluable."
+          "description": "The DW 9000 Series direct-drive pedal is Greiner's choice for its immediate, one-to-one feel. Unlike chain-drive systems, direct drives transmit every ounce of force directly to the beater cam, providing the clarity and speed needed for ABR's precise double-kick patterns. Live, the consistent feel across different stage conditions makes it invaluable."
+        },
+        {
+          "type": "Throne",
+          "brand": "DW",
+          "model": "DW 9100 Throne",
+          "notes": "Matched hardware for endurance through demanding recording and live contexts"
         },
         {
           "type": "Sticks",
@@ -148,21 +153,21 @@ export const articles = {
         },
         {
           "type": "Drumheads (Toms, Batter)",
-          "brand": "Remo",
-          "model": "Remo Emperor Coated",
+          "brand": "Evans",
+          "model": "Evans G2",
           "notes": "Warm attack with controlled sustain"
         },
         {
           "type": "Drumheads (Bass, Batter)",
-          "brand": "Remo",
-          "model": "Remo Powerstroke 3",
+          "brand": "Evans",
+          "model": "Evans EMAD2",
           "notes": "Focused attack and controlled low-end for metalcore production"
         }
       ],
       "heads": {
-        "bassKick": "Remo Powerstroke 3 (batter), Remo Powerstroke 3 ported (resonant)",
-        "toms": "Remo Emperor Coated (batter), Remo Ambassador Clear (resonant)",
-        "snare": "Remo Controlled Sound Coated (batter), Remo Ambassador Snare Side (resonant)"
+        "bassKick": "Evans EMAD2 (batter), Evans EMAD2 ported (resonant)",
+        "toms": "Evans G2 Coated (batter), Evans G1 Clear (resonant)",
+        "snare": "Evans G2 Coated (batter), Evans Snare Side (resonant)"
       }
     },
     "gearTimeline": [
@@ -201,26 +206,26 @@ export const articles = {
         "notes": "Gear refined alongside ABR reaching commercial and critical peak."
       },
       {
-        "era": "Signature Era",
-        "years": "2017–Present",
+        "era": "Mapex/Paiste Era",
+        "years": "2016–Present",
         "albums": [
           "Phantom Anthem",
           "Guardians",
           "Death Below"
         ],
-        "description": "Pearl signature snare released; current rig solidified.",
+        "description": "Switched from Pearl/Meinl to Mapex Drums and Paiste Cymbals; current rig solidified.",
         "gear": {
-          "drums": "Pearl Reference Pure in Piano Black",
-          "snare": "Pearl Matt Greiner Signature 14\"x6\" Steel",
-          "cymbals": "Full Meinl Byzance Dual/Extra Dry setup",
-          "hardware": "Pearl Demon Drive double pedal, Vic Firth MG signature sticks"
+          "drums": "Mapex Black Panther Design Lab (maple/walnut hybrid)",
+          "snare": "Mapex Black Panther 14\"x5.5\" Maple",
+          "cymbals": "Full Paiste Formula 602 setup",
+          "hardware": "DW 9000 Series double pedal, Vic Firth MG signature sticks"
         },
         "notes": "Peak gear for peak band output. Grammy-nominated setup."
       }
     ],
     "playingStyle": {
       "title": "Live vs. Studio: How Greiner Adapts the Rig",
-      "content": "Matt Greiner's approach adapts meaningfully between live performance and studio recording — a distinction that reveals his deep understanding of the drum's role in different sonic contexts.\n\n**Studio Precision:**\nIn the studio, Greiner tightens every element. Drum production on August Burns Red albums — particularly from \"Constellations\" onward — reflects meticulous tuning and head selection. Toms are tuned in intervals that complement ABR's guitar harmonics, not just arbitrary pitches. The snare is dialed for controlled sustain, avoiding ringing frequencies that clash with rhythm guitar. Bass drums receive appropriate dampening — typically a ported resonant head — to deliver the punchy, defined attack that defines modern metalcore production.\n\nGhost notes become more prominent in studio mixes, where engineers can carve frequency space that live venues don't offer. The subtle left-hand texture between heavy hits is as important to Greiner's studio identity as the explosions.\n\n**Live Performance:**\nGreiner's live setup closely mirrors his studio rig with accommodations for stage energy. Crashes may be slightly more open to carry over crowd noise. Stack cymbal combinations may shift between tours for specific songs.\n\nThe Pearl Demon Drive direct-drive pedal is especially critical live — its consistent feel across varying stage surfaces, temperature fluctuations affecting head tension, and the demands of 90-minute metalcore sets all require reliable equipment. Direct-drive's consistent response removes variables that chain drives can introduce.\n\n**The August Burns Red Production Context:**\nABR albums treat the drums as the compositional backbone of dense, harmonically complex arrangements. Greiner's gear choices — Extra Dry Meinl cymbals, steel signature snare, direct-drive pedal — are engineered for articulation in those arrangements rather than for sustain or ambient warmth.",
+      "content": "Matt Greiner's approach adapts meaningfully between live performance and studio recording — a distinction that reveals his deep understanding of the drum's role in different sonic contexts.\n\n**Studio Precision:**\nIn the studio, Greiner tightens every element. Drum production on August Burns Red albums — particularly from \"Constellations\" onward — reflects meticulous tuning and head selection. Toms are tuned in intervals that complement ABR's guitar harmonics, not just arbitrary pitches. The snare is dialed for controlled sustain, avoiding ringing frequencies that clash with rhythm guitar. Bass drums receive appropriate dampening — typically a ported resonant head — to deliver the punchy, defined attack that defines modern metalcore production.\n\nGhost notes become more prominent in studio mixes, where engineers can carve frequency space that live venues don't offer. The subtle left-hand texture between heavy hits is as important to Greiner's studio identity as the explosions.\n\n**Live Performance:**\nGreiner's live setup closely mirrors his studio rig with accommodations for stage energy. Crashes may be slightly more open to carry over crowd noise. Stack cymbal combinations may shift between tours for specific songs.\n\nThe DW 9000 Series direct-drive pedal is especially critical live — its consistent feel across varying stage surfaces, temperature fluctuations affecting head tension, and the demands of 90-minute metalcore sets all require reliable equipment. Direct-drive's consistent response removes variables that chain drives can introduce.\n\n**The August Burns Red Production Context:**\nABR albums treat the drums as the compositional backbone of dense, harmonically complex arrangements. Greiner's gear choices — Paiste Formula 602 cymbals, maple signature snare, direct-drive pedal — are engineered for articulation in those arrangements rather than for sustain or ambient warmth.",
       "keyTechniques": [
         "Jazz-influenced ghost notes providing texture under metalcore riffs",
         "Syncopated kick patterns locking with ABR's off-beat guitar writing",
@@ -236,40 +241,40 @@ export const articles = {
         "year": 2019
       },
       {
-        "text": "The Pearl snare cuts through the guitars — that's the whole point. You want articulation, not mud.",
+        "text": "The Mapex snare cuts through the guitars — that's the whole point. You want articulation, not mud.",
         "source": "Modern Drummer Feature",
         "year": 2018
       }
     ],
     "buyingGuide": {
       "title": "Getting the Greiner Sound: A Buyer's Guide",
-      "content": "Matching Matt Greiner's exact rig requires serious investment, but you can capture elements of his approach at different price points.\n\n**Budget Approach ($1,000–2,000):**\n- Pearl Export or Decade Maple kit — Pearl's entry-level production shells\n- Meinl HCS or HCS Bronze cymbals — affordable Meinl entry point\n- Pearl P-2002 Eliminator double pedal\n- Vic Firth American Classic 5B sticks (closest to Greiner's dimensions)\n\n**Mid-Range Approach ($2,500–5,000):**\n- Pearl Session Studio Select or Decade Maple Pro\n- Meinl Byzance Extra Dry 18\" and 19\" crashes (buy individually)\n- Pearl Demon Drive single pedal (upgrade to double)\n- Pearl Sensitone or Free-Floating snare for studio-quality crack\n\n**Professional Approach ($6,000+):**\n- Pearl Reference Pure shell pack in Piano Black\n- Full Meinl Byzance Dual/Extra Dry setup: hi-hats, crashes, ride, china, splashes\n- Pearl Demon Drive double pedal\n- Pearl Matt Greiner Signature Snare 14\"x6\" steel",
+      "content": "Matching Matt Greiner's exact rig requires serious investment, but you can capture elements of his approach at different price points.\n\n**Budget Approach ($1,000–2,000):**\n- Mapex Storm or Armory kit — Mapex's accessible production shells\n- Paiste PST 5 or PST 7 cymbals — affordable Paiste entry point\n- Entry-level double pedal\n- Vic Firth American Classic 5B sticks (closest to Greiner's dimensions)\n\n**Mid-Range Approach ($2,500–5,000):**\n- Mapex Armory or Saturn Evolution\n- Paiste Formula 602 16\" and 18\" crashes (buy individually)\n- DW 5000 single pedal (upgrade to double)\n- Mapex Black Panther snare for studio-quality crack\n\n**Professional Approach ($6,000+):**\n- Mapex Black Panther Design Lab shell pack\n- Full Paiste Formula 602 setup: hi-hats, crashes, ride, china, splash\n- DW 9000 Series double pedal\n- Mapex Black Panther Signature Snare 14\"x5.5\" maple",
       "budgetTiers": [
         {
           "tier": "Budget",
           "range": "$1,000–2,000",
-          "notes": "Pearl Export + Meinl HCS + Eliminator pedal"
+          "notes": "Mapex Storm + Paiste PST 5 + entry-level pedal"
         },
         {
           "tier": "Mid-Range",
           "range": "$2,500–5,000",
-          "notes": "Session Studio + Byzance Extra Dry crashes + Demon Drive"
+          "notes": "Mapex Armory + Formula 602 crashes + DW 5000"
         },
         {
           "tier": "Professional",
           "range": "$6,000+",
-          "notes": "Reference Pure + full Byzance + Signature Snare"
+          "notes": "Black Panther Design Lab + full Formula 602 + Signature Snare"
         }
       ]
     },
     "faq": [
       {
         "question": "What drum kit does Matt Greiner use?",
-        "answer": "Matt Greiner plays a Pearl Reference Pure kit in Piano Black. The Reference Pure features maple/mahogany hybrid shells and is Pearl's flagship production kit. He runs a double-kick setup with two 22\" x 18\" bass drums, and toms ranging from 10\" to 16\"."
+        "answer": "Matt Greiner plays a Mapex Black Panther Design Lab kit — a maple/walnut hybrid shell pack he switched to in 2016 for August Burns Red's technically demanding metalcore sets. He runs a double-kick setup with two 22\" x 18\" bass drums, and toms ranging from 10\" to 16\"."
       },
       {
         "question": "What cymbals does Matt Greiner play?",
-        "answer": "Matt Greiner is a Meinl Cymbals endorsee and plays the Byzance series. His setup includes 15\" Byzance Dual Hi-Hats, 18\" and 19\" Extra Dry Medium Crashes, a 21\" Byzance Transition Ride, an 18\" Extra Dry China, and 10\" and 12\" splashes. The Extra Dry finish gives his cymbals a controlled, fast-decaying sound ideal for dense metalcore production."
+        "answer": "Matt Greiner is a Paiste Cymbals endorsee and plays the Formula 602 series. His setup includes 14\" Hi-Hats, 16\", 17\", and 18\" Crashes, a 22\" Ride, an 18\" China, and a 10\" Splash."
       },
       {
         "question": "What sticks does Matt Greiner use?",
@@ -277,11 +282,11 @@ export const articles = {
       },
       {
         "question": "What snare drum does Matt Greiner use?",
-        "answer": "Matt Greiner plays the Pearl Matt Greiner Signature snare drum — a 14\" x 6\" steel shell model. The steel construction provides a bright, cutting crack that cuts through August Burns Red's dense guitar arrangements. The 6\" depth gives it more body than a standard 5.5\" snare without sacrificing articulation."
+        "answer": "Matt Greiner plays the Mapex Black Panther signature snare drum — a 14\" x 5.5\" maple shell model. The maple construction provides a warm, cutting crack that anchors August Burns Red's arrangements."
       },
       {
         "question": "What double bass pedal does Matt Greiner use?",
-        "answer": "Matt Greiner uses the Pearl Demon Drive double bass drum pedal. The Demon Drive is a direct-drive system — the footboard connects to the cam via a rigid shaft rather than a chain or belt — providing an immediate, responsive feel essential for August Burns Red's precise double-kick metalcore patterns."
+        "answer": "Matt Greiner uses a DW 9000 Series double bass drum pedal. It's a direct-drive system — the footboard connects to the cam via a rigid shaft rather than a chain or belt — providing an immediate, responsive feel essential for August Burns Red's precise double-kick metalcore patterns."
       }
     ],
     "relatedAlbums": [
@@ -299,7 +304,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "Twenty Years in the Driver's Seat",
-      "content": "Matt Greiner has spent over twenty years proving that metalcore drumming can be simultaneously brutal and musical. From ABR's debut to \"Death Below,\" he has been the constant heartbeat of one of the genre's most consistent bands — never settling for the technical minimum, always finding the groove inside the complexity.\n\nHis gear choices reflect that philosophy at every level:\n\n- **Pearl Reference Pure**: A flagship kit that rewards the nuance he brings\n- **Meinl Byzance Extra Dry**: Cymbals designed for articulation, not ambient wash\n- **Pearl Demon Drive**: Direct-drive precision for technical metalcore patterns\n- **Pearl Signature Snare**: A steel shell purpose-built for cutting metalcore mixes\n- **Vic Firth Signature Sticks**: Custom balance for power and control\n\nFor drummers studying Greiner's approach, the gear is just the beginning. The real lesson is his relentless musicality — how he treats the drum kit as a compositional instrument within the band, not just a timekeeping engine.\n\nStudy \"Composure\" for syncopation. Study \"White Washed\" for blast beat groove. Study \"Meddler\" for restraint and dynamics. These songs contain the complete curriculum of modern metalcore drumming, taught by a master who has been at it since 2003.\n\nInternal links for deeper study:\n- **Full drummer profile**: [Matt Greiner at MetalForge](/drummer/matt-greiner)\n- **Signature lick breakdowns**: [Matt Greiner Lick Hub](/drummers/matt-greiner/licks)\n- **Meinl Byzance users**: [Who Plays Meinl Byzance](/gear/meinl/byzance/drummers-using)\n\nMatt Greiner turned a Lancaster, Pennsylvania basement into the launching pad for one of metal's most influential careers. The Pearl Reference Pure is just the vehicle. The driver has been there all along.\n\n🥁 *\"Every note has to serve the song.\"* — Matt Greiner 🤘"
+      "content": "Matt Greiner has spent over twenty years proving that metalcore drumming can be simultaneously brutal and musical. From ABR's debut to \"Death Below,\" he has been the constant heartbeat of one of the genre's most consistent bands — never settling for the technical minimum, always finding the groove inside the complexity.\n\nHis gear choices reflect that philosophy at every level:\n\n- **Mapex Black Panther Design Lab**: A flagship kit that rewards the nuance he brings\n- **Paiste Formula 602**: Cymbals designed for articulation, not ambient wash\n- **DW 9000 Series**: Direct-drive precision for technical metalcore patterns\n- **Mapex Black Panther Signature Snare**: A maple shell purpose-built for cutting metalcore mixes\n- **Vic Firth Signature Sticks**: Custom balance for power and control\n\nFor drummers studying Greiner's approach, the gear is just the beginning. The real lesson is his relentless musicality — how he treats the drum kit as a compositional instrument within the band, not just a timekeeping engine.\n\nStudy \"Composure\" for syncopation. Study \"White Washed\" for blast beat groove. Study \"Meddler\" for restraint and dynamics. These songs contain the complete curriculum of modern metalcore drumming, taught by a master who has been at it since 2003.\n\nInternal links for deeper study:\n- **Full drummer profile**: [Matt Greiner at MetalForge](/drummer/matt-greiner)\n- **Signature lick breakdowns**: [Matt Greiner Lick Hub](/drummers/matt-greiner/licks)\n\nMatt Greiner turned a Lancaster, Pennsylvania basement into the launching pad for one of metal's most influential careers. The Mapex Black Panther Design Lab is just the vehicle. The driver has been there all along.\n\n🥁 *\"Every note has to serve the song.\"* — Matt Greiner 🤘"
     }
   },
   "constellations-drum-setup": {
@@ -2384,14 +2389,14 @@ export const articles = {
     "author": "MetalForge Editorial",
     "grammy": "Grammy-nominated — Best Metal Performance (2018), \"King of Sorrow\"",
     "title": "August Burns Red 'Phantom Anthem' Drum Setup (Matt Greiner, 2017)",
-    "description": "Discover the exact drum kit, cymbals, and gear Matt Greiner used on August Burns Red's Grammy-nominated Phantom Anthem (2017). Complete breakdown of the Pearl Reference Pure kit, Zildjian A Custom and Sabian AAX cymbals, and the drumming that earned a Best Metal Performance nomination for 'King of Sorrow' at the 2018 Grammy Awards.",
+    "description": "Discover the exact drum kit, cymbals, and gear Matt Greiner used on August Burns Red's Grammy-nominated Phantom Anthem (2017). Complete breakdown of the Mapex Black Panther Design Lab kit, Paiste Formula 602 cymbals, and the drumming that earned a Best Metal Performance nomination for 'King of Sorrow' at the 2018 Grammy Awards.",
     "seoKeywords": [
       "matt greiner drum setup",
       "matt greiner phantom anthem drums",
       "august burns red phantom anthem gear",
       "matt greiner 2017 kit",
-      "pearl reference pure metalcore",
-      "matt greiner zildjian",
+      "mapex black panther metalcore",
+      "matt greiner paiste",
       "august burns red drummer",
       "king of sorrow drums",
       "metalcore drum setup 2017",
@@ -2400,19 +2405,19 @@ export const articles = {
     "ogImage": "/images/albums/phantom-anthem-drums.webp",
     "intro": {
       "title": "Grammy-Nominated Aggression: Matt Greiner's Phantom Anthem Setup",
-      "content": "Released on September 15, 2017, August Burns Red's *Phantom Anthem* arrived as one of the most anticipated metalcore records of the year — and delivered a Grammy nomination to prove it. \"King of Sorrow,\" the album's standout track, earned a nod for Best Metal Performance at the 60th Grammy Awards in 2018, marking the highest individual track recognition of ABR's career and confirming Matt Greiner's status as the defining drummer of modern metalcore.\n\n*Phantom Anthem* occupies a critical position in the August Burns Red discography: the bridge between *Found in Far Away Places* (2015) — the band's commercial peak and RIAA Gold certification — and *Beacon* (2023), their most recent studio statement. Where *Found in Far Away Places* crystallized Greiner's Pearl era with Meinl Byzance cymbals, *Phantom Anthem* marked a significant cymbal change: from Meinl Byzance to a hybrid setup blending Zildjian A Custom and Sabian AAX. The tonal shift is audible — brighter, more aggressive at the top end, suited to the album's compressed, punishing production character.\n\nGreiner retained the Pearl Reference Pure kit and Pearl Demon Drive double pedal from the *Found in Far Away Places* era, demonstrating that his foundational choices had stabilized even as the cymbal voice evolved. The result is a drum sound that is simultaneously familiar — the tight, articulate Reference Pure attack that defined the *Found in Far Away Places* era — and unmistakably 2017: denser, more aggressive at the surface, designed to cut through a production that prioritizes weight above warmth.\n\n\"King of Sorrow,\" the Grammy-nominated track, showcases Greiner's complete technical vocabulary: blast beat sequences that resolve into locked groove patterns, ghost note density that adds textural complexity beneath heavy riff sections, and the odd-meter facility that has distinguished his playing across the entire ABR catalog. The Grammy nomination was not a surprise to anyone who had followed his development from *Messengers* (2007) through *Leveler* (2011) to this point.",
+      "content": "Released on September 15, 2017, August Burns Red's *Phantom Anthem* arrived as one of the most anticipated metalcore records of the year — and delivered a Grammy nomination to prove it. \"King of Sorrow,\" the album's standout track, earned a nod for Best Metal Performance at the 60th Grammy Awards in 2018, marking the highest individual track recognition of ABR's career and confirming Matt Greiner's status as the defining drummer of modern metalcore.\n\n*Phantom Anthem* occupies a critical position in the August Burns Red discography: the bridge between *Found in Far Away Places* (2015) — the band's commercial peak and RIAA Gold certification — and the run of albums that followed. Where *Found in Far Away Places* was recorded on Greiner's earlier Pearl kit and Meinl Byzance cymbals, *Phantom Anthem* is the first ABR album to document his new setup: in 2016, Greiner switched to Mapex Drums and Paiste Cymbals, and *Phantom Anthem* is where that switch first appears on record. The tonal shift is audible — a brighter, more controlled top end, suited to the album's compressed, punishing production character.\n\nThe Mapex Black Panther Design Lab kit and DW 9000 Series double pedal replaced the Pearl setup Greiner had used through *Found in Far Away Places*. The result is a drum sound that carries forward the tight, articulate attack his fans expected while sounding unmistakably 2017: denser, more aggressive at the surface, designed to cut through a production that prioritizes weight above warmth.\n\n\"King of Sorrow,\" the Grammy-nominated track, showcases Greiner's complete technical vocabulary: blast beat sequences that resolve into locked groove patterns, ghost note density that adds textural complexity beneath heavy riff sections, and the odd-meter facility that has distinguished his playing across the entire ABR catalog. The Grammy nomination was not a surprise to anyone who had followed his development from *Messengers* (2007) through *Leveler* (2011) to this point.",
       "keyPoints": [
-        "Released September 15, 2017 on Fearless Records — bridge between Found in Far Away Places (2015) and Beacon (2023)",
+        "Released September 15, 2017 on Fearless Records — bridge between Found in Far Away Places (2015) and the albums that followed",
         "\"King of Sorrow\" nominated for Best Metal Performance at the 60th Grammy Awards (2018) — highest single-track recognition in ABR's career",
-        "Matt Greiner switched from Meinl Byzance to Zildjian A Custom / Sabian AAX — a brighter, more aggressive cymbal voice for the album's denser production",
-        "Pearl Reference Pure kit and Pearl Demon Drive pedal continued from the Found in Far Away Places era"
+        "The first ABR album on record with Matt Greiner's 2016 switch to Mapex Drums and Paiste Cymbals, replacing his earlier Pearl/Meinl setup",
+        "Mapex Black Panther Design Lab kit and DW 9000 Series double pedal debut on this record"
       ]
     },
     "drumKit": {
-      "title": "Matt's 2017 Kit: Pearl Reference Pure (Continued)",
-      "brand": "Pearl",
-      "model": "Pearl Reference Pure",
-      "finish": "Custom wrap / lacquer finish",
+      "title": "Matt's 2017 Kit: Mapex Black Panther Design Lab Debuts",
+      "brand": "Mapex",
+      "model": "Mapex Black Panther Design Lab",
+      "finish": "Maple/walnut hybrid shell pack",
       "config": {
         "bassdrums": [
           "22\" x 18\" Bass Drum (x2 double kick)"
@@ -2424,88 +2429,82 @@ export const articles = {
         "floorToms": [
           "16\" x 16\" Floor Tom"
         ],
-        "shells": "Reference Pure shells — 6-ply maple/mahogany hybrid construction"
+        "shells": "Black Panther Design Lab shells — maple/walnut hybrid construction"
       },
-      "description": "By the *Phantom Anthem* sessions, the Pearl Reference Pure had become Greiner's settled foundation — carried over from the *Found in Far Away Places* era without modification. The maple/mahogany hybrid shell construction continued to deliver the tight, articulate attack that defines his modern sound: a drum that cuts through a metal mix with definition rather than blurring into the low-midrange mass.\n\nThe Reference Pure's tighter attack profile suited *Phantom Anthem*'s production character especially well. Where *Found in Far Away Places*' sessions with Carson Slovak and Grant McFarland had emphasized polished clarity, *Phantom Anthem*'s production leaned into compression and density — a heavier, more aggressive surface energy. The Reference Pure's inherently precise shell response prevented the drum sound from muddying in a production context that saturated the guitars more aggressively.\n\nThe double bass drum configuration remained non-negotiable. Greiner's lever-driven technique — generating explosive double-bass speed through ankle and calf mechanics rather than leg force — demanded two fully matched, independent bass drums. The 22\" diameter provided the deep fundamental that *Phantom Anthem*'s heaviest passages required, particularly on \"King of Sorrow,\" where extended double-bass sequences underpin the track's most aggressive sections.\n\nThe compact rack tom layout (10\", 12\" rack, 16\" floor) encouraged the compositional fill choices that characterize Greiner's approach: fills designed around musical moments rather than sweeping tom runs performed for technical display.",
+      "description": "*Phantom Anthem* is the first ABR album to document Greiner's Mapex Black Panther Design Lab kit, following his 2016 switch away from the Pearl setup he'd used through *Found in Far Away Places*. The maple/walnut hybrid shell construction delivers the tight, articulate attack that defines his modern sound: a drum that cuts through a metal mix with definition rather than blurring into the low-midrange mass.\n\nThe Black Panther Design Lab's tight attack profile suited *Phantom Anthem*'s production character especially well. Where *Found in Far Away Places*' sessions with Carson Slovak and Grant McFarland had emphasized polished clarity, *Phantom Anthem*'s production leaned into compression and density — a heavier, more aggressive surface energy. The new kit's precise shell response prevented the drum sound from muddying in a production context that saturated the guitars more aggressively.\n\nThe double bass drum configuration remained non-negotiable through the gear change. Greiner's lever-driven technique — generating explosive double-bass speed through ankle and calf mechanics rather than leg force — demanded two fully matched, independent bass drums. The 22\" diameter provided the deep fundamental that *Phantom Anthem*'s heaviest passages required, particularly on \"King of Sorrow,\" where extended double-bass sequences underpin the track's most aggressive sections.\n\nThe compact rack tom layout (10\", 12\" rack, 16\" floor) encouraged the compositional fill choices that characterize Greiner's approach: fills designed around musical moments rather than sweeping tom runs performed for technical display.",
       "notes": [
-        "Pearl Reference Pure carried directly from Found in Far Away Places era — the foundational shell choice had stabilized",
-        "Maple/mahogany hybrid construction: tighter attack profile suited Phantom Anthem's denser, more compressed production aesthetic",
+        "Mapex Black Panther Design Lab debuts on Phantom Anthem, replacing the Pearl kit used through Found in Far Away Places",
+        "Maple/walnut hybrid construction: tight attack profile suited Phantom Anthem's denser, more compressed production aesthetic",
         "Double 22\" bass drums continued — lever-driven technique demands two fully independent, matched kick drums",
         "Compact tom configuration (10\", 12\" rack, 16\" floor) emphasizes compositional fill choices over linear kit sweeps"
       ],
-      "estimatedValue": "$3,500–5,500 (2017) / $2,500–4,000 (used today)"
+      "estimatedValue": "$2,500–4,000 (2017) / $2,000–3,500 (used today)"
     },
     "snare": {
-      "title": "The 2017 Snare: Pearl Matt Greiner Signature",
-      "brand": "Pearl",
-      "model": "Pearl Matt Greiner Signature",
-      "size": "14\" x 6\"",
-      "shell": "Steel shell with custom bearing edge",
-      "description": "Greiner continued with his Pearl signature snare through the *Phantom Anthem* sessions — the 14\" x 6\" steel-shell drum that had defined his sound since the *Found in Far Away Places* era. The signature snare's steel shell provides the bright, cutting attack required to project through metalcore's dense guitar arrangements, while the 6\" depth adds the body and volume that shallower steel drums can lack at high volume.\n\nThe custom bearing edge — designed in collaboration with Pearl to maximize ghost note sensitivity without sacrificing the crack and projection of power accent strokes — is audible throughout *Phantom Anthem*. On \"King of Sorrow,\" Greiner alternates between thunderous backbeat accents and intricate ghost note passages within single bars, a dynamic range that only a drum specifically designed for that balance can deliver reliably.\n\nThe steel shell's character suits *Phantom Anthem*'s aggressive production more directly than a warmer wood shell would. Where a maple snare contributes tonal complexity and overtones, steel cuts with a focused clarity that sits precisely in a mix dominated by heavily processed guitars. The signature drum's presence on *Phantom Anthem* is the result of deliberate choice, not default endorsement behavior.",
-      "tuningSetting": "Medium-high tension — bright steel attack with controlled warmth",
-      "heads": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)",
-      "estimatedValue": "$400–600 (2017) / $300–500 (used today)"
+      "title": "The 2017 Snare: Mapex Black Panther Debuts",
+      "brand": "Mapex",
+      "model": "Mapex Black Panther 14\" x 5.5\" Maple",
+      "size": "14\" x 5.5\"",
+      "shell": "Maple",
+      "description": "Greiner's Mapex Black Panther snare debuts on *Phantom Anthem*, part of the same 2016 gear switch that brought the Black Panther Design Lab kit. The 14\" x 5.5\" maple shell provides a warmer, fuller crack than the steel snare he'd played through *Found in Far Away Places*, while still projecting through metalcore's dense guitar arrangements.\n\nOn \"King of Sorrow,\" Greiner alternates between thunderous backbeat accents and intricate ghost note passages within single bars — a dynamic range the Black Panther's maple shell handles with a warmer character than his previous steel drum, while still cutting through a mix dominated by heavily processed guitars.\n\nThe snare's presence on *Phantom Anthem* is the first studio documentation of Greiner's new endorsement, setting the sonic template that carries through the rest of his post-2016 catalog.",
+      "tuningSetting": "Medium-high tension — bright attack with controlled warmth",
+      "heads": "Evans G2 Coated (batter), Evans Snare Side (resonant)",
+      "estimatedValue": "$250–400 (2017) / $200–350 (used today)"
     },
     "cymbals": {
-      "title": "Zildjian A Custom + Sabian AAX: The Phantom Anthem Cymbal Voice",
-      "brand": "Zildjian / Sabian",
-      "series": "Zildjian A Custom + Sabian AAX",
+      "title": "Paiste Formula 602: The Phantom Anthem Cymbal Voice Debuts",
+      "brand": "Paiste",
+      "series": "Paiste Formula 602",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Zildjian A Custom 14\" Hi-Hats",
+          "model": "Paiste Formula 602 14\" Hi-Hats",
           "position": "Left side",
           "notes": "Bright, fast response for rapid 16th-note patterns and technical hi-hat articulation"
         },
         {
           "type": "Crash (1)",
-          "model": "Zildjian A Custom 16\" Crash",
+          "model": "Paiste Formula 602 16\" Crash",
           "position": "Left of hi-hats",
           "notes": "Fast-responding crash for quick accents at section transitions"
         },
         {
           "type": "Crash (2)",
-          "model": "Zildjian A Custom 18\" Crash",
+          "model": "Paiste Formula 602 18\" Crash",
           "position": "Right side",
           "notes": "Fuller crash for section climaxes and heavy riff punctuation"
         },
         {
           "type": "Ride",
-          "model": "Zildjian A Custom 20\" Ride",
+          "model": "Paiste Formula 602 22\" Ride",
           "position": "Far right",
           "notes": "Clear bell definition and controlled bow for extended riding passages"
         },
         {
           "type": "China",
-          "model": "Sabian AAX 18\" China",
+          "model": "Paiste Formula 602 18\" China",
           "position": "Above floor tom",
           "notes": "Cutting, aggressive accent character for metalcore's most intense rhythmic moments"
         }
       ],
-      "description": "The shift from Meinl Byzance to Zildjian A Custom / Sabian AAX is the most audible gear change between *Found in Far Away Places* and *Phantom Anthem*. Where the Meinl Byzance Traditional's B20 bronze delivered controlled, precise decay suited to polished modern production, the Zildjian A Custom's bell-bronze alloy and machine-hammered finish produce a brighter, more aggressive top-end response — higher in frequency, faster to speak, with a sheen that cuts differently through dense guitar arrangements.\n\nThe Zildjian A Custom series is built on a B20 bell-bronze foundation but processed for a more contemporary, bright character than the hand-hammered Byzance. The machine hammering and lathing deliver exceptional consistency — each cymbal responds identically to stick contact, critical for the precision that Greiner's technical approach requires. On *Phantom Anthem*, the hi-hats' fast, articulate response enables the intricate open/closed pattern work that characterizes his playing on tracks like \"King of Sorrow.\"\n\nThe Sabian AAX China — a hybrid alloy china rather than pure B20 — adds a cutting, trashy accent character that differs from the Byzance China of the previous era. The AAX's brighter, more aggressive response complements the album's denser, more compressed production character. Greiner's China deployment remains compositionally deliberate: each hit placed at a specific musical moment rather than used as a constant accent color.\n\nThe overall cymbal shift from Byzance to Zildjian A Custom / Sabian AAX reflects a move toward a more aggressive, bright-top-end voice — appropriate for an album whose production prioritizes weight and intensity over the polished clarity of *Found in Far Away Places*.",
-      "estimatedValue": "$1,800–2,600 full setup (2017)"
+      "description": "The switch from Meinl Byzance to Paiste Formula 602 is the most audible gear change between *Found in Far Away Places* and *Phantom Anthem*. Where the Meinl Byzance's B20 bronze delivered controlled, precise decay suited to polished modern production, the Formula 602's bell-bronze alloy produces a brighter, more controlled top-end response — higher in frequency, faster to speak, with a character that cuts differently through dense guitar arrangements.\n\nThe Formula 602 series is built on a bell-bronze foundation processed for a more contemporary, bright character than the hand-hammered Byzance. On *Phantom Anthem*, the hi-hats' fast, articulate response enables the intricate open/closed pattern work that characterizes Greiner's playing on tracks like \"King of Sorrow.\"\n\nThe Formula 602 China adds a cutting, trashy accent character that differs from the Byzance China of the previous era. Its brighter, more aggressive response complements the album's denser, more compressed production character. Greiner's China deployment remains compositionally deliberate: each hit placed at a specific musical moment rather than used as a constant accent color.\n\nThe overall cymbal switch from Byzance to Formula 602 reflects a move toward a brighter, more controlled top-end voice — appropriate for an album whose production prioritizes weight and intensity over the polished clarity of *Found in Far Away Places*, and the start of the cymbal identity Greiner has kept ever since.",
+      "estimatedValue": "$1,600–2,400 full setup (2017)"
     },
     "hardware": {
-      "title": "Pearl Demon Drive: Sustained Through the Phantom Anthem Sessions",
+      "title": "DW 9000 Series Debuts on Phantom Anthem",
       "items": [
         {
           "type": "Bass Drum Pedal",
-          "brand": "Pearl",
-          "model": "Pearl Demon Drive Double Pedal",
-          "notes": "Shaft-driven mechanism — continued from Found in Far Away Places era, calibrated to Greiner's lever-driven double bass technique",
-          "description": "The Pearl Demon Drive carried forward from *Found in Far Away Places* without modification — a testament to how precisely the pedal matched Greiner's technique. The shaft-driven mechanism's linear response and adjustable stroke length remained optimal for his lever-driven approach, which generates explosive double-bass speed through ankle and calf mechanics rather than leg force.\n\nOn *Phantom Anthem*, the Demon Drive's consistent attack is most audible on \"King of Sorrow,\" where extended double-bass passages at sustained high tempo demand the mechanical precision that only a top-tier pedal can deliver. The Grammy nomination for the track is a reflection of the complete package — Greiner's technique, the Pearl Reference Pure's articulate shell response, and the Demon Drive's unfailing mechanical consistency."
-        },
-        {
-          "type": "Hi-Hat Stand",
-          "brand": "Pearl",
-          "model": "Pearl H-2050 Demon Hi-Hat Stand",
-          "notes": "Matched Pearl hardware — consistent feel across the kit's complete hardware suite"
+          "brand": "DW",
+          "model": "DW 9000 Series Double Pedal",
+          "notes": "Shaft-driven mechanism — new for Phantom Anthem, replacing Greiner's earlier Pearl pedal, calibrated to his lever-driven double bass technique",
+          "description": "The DW 9000 Series pedal arrived as part of Greiner's 2016 gear switch, replacing the pedal he'd played through *Found in Far Away Places*. The shaft-driven mechanism's linear response and adjustable stroke length suited his lever-driven approach, which generates explosive double-bass speed through ankle and calf mechanics rather than leg force.\n\nOn *Phantom Anthem*, the pedal's consistent attack is most audible on \"King of Sorrow,\" where extended double-bass passages at sustained high tempo demand the mechanical precision that only a top-tier pedal can deliver. The Grammy nomination for the track is a reflection of the complete package — Greiner's technique, the Black Panther Design Lab's articulate shell response, and the pedal's unfailing mechanical consistency."
         },
         {
           "type": "Throne",
-          "brand": "Roc-N-Soc",
-          "model": "Roc-N-Soc Nitro Throne",
-          "notes": "Ergonomic throne for endurance through demanding recording and live contexts"
+          "brand": "DW",
+          "model": "DW 9100 Throne",
+          "notes": "Matched hardware for endurance through demanding recording and live contexts"
         },
         {
           "type": "Sticks",
@@ -2515,19 +2514,19 @@ export const articles = {
         }
       ],
       "heads": {
-        "bassKick": "Remo Powerstroke 3 (controlled resonance, focused attack)",
-        "toms": "Remo Ambassador Coated",
-        "snare": "Remo Ambassador Coated"
+        "bassKick": "Evans EMAD2 (controlled resonance, focused attack)",
+        "toms": "Evans G2 Coated",
+        "snare": "Evans G2 Coated"
       }
     },
     "recordingTechniques": {
       "title": "Recording Phantom Anthem: Weight, Precision, and Grammy-Nominated Delivery",
-      "content": "The *Phantom Anthem* sessions with Carson Slovak and Grant McFarland continued the working relationship that had produced *Found in Far Away Places* — but with a production philosophy that pushed toward greater density and aggression. Where *Found in Far Away Places* had prioritized polished clarity, *Phantom Anthem*'s production leaned into compressed weight, producing a drum sound that is tighter, harder-hitting, and more immediately aggressive.\n\n**The Technical Demands:**\n*Phantom Anthem* presents Greiner with concentrated technical demands. \"King of Sorrow\" — the Grammy-nominated centerpiece — requires sustained blast beat sequences, ghost note layers beneath melodic passages, and the blast-to-groove transitions that are his compositional signature. The album's compressed production demanded absolute mechanical consistency from every part of the setup: any variation in kick attack timing, snare dynamics, or cymbal response would be audible in a production context that amplifies rather than smooths.\n\n**Microphone Approach:**\n- Kick drums: dual miking capturing both the Pearl Reference Pure's tight attack and controlled resonance\n- Snare: top/bottom capture preserving the signature drum's full dynamic range from ghost notes to accents\n- Toms: close-miking maintaining definition through fast fill sequences\n- Cymbals: overhead pair capturing the Zildjian A Custom's brightness and Sabian AAX China's aggressive cut\n- Room: minimal, prioritizing the close-mic definition that suits the album's compressed production aesthetic\n\n**Phantom Anthem vs. Found in Far Away Places Production:**\nThe two albums share producers and studio but sound distinctly different. *Found in Far Away Places*' clarity gave individual drum voices room to breathe; *Phantom Anthem*'s compression creates a denser, more unified surface. The Zildjian A Custom cymbals' brighter, more aggressive character worked better in the *Phantom Anthem* production context — where the Byzance's controlled decay might have receded, the A Custom's presence holds through the dense guitar saturation.",
+      "content": "The *Phantom Anthem* sessions with Carson Slovak and Grant McFarland continued the working relationship that had produced *Found in Far Away Places* — but with a production philosophy that pushed toward greater density and aggression. Where *Found in Far Away Places* had prioritized polished clarity, *Phantom Anthem*'s production leaned into compressed weight, producing a drum sound that is tighter, harder-hitting, and more immediately aggressive.\n\n**The Technical Demands:**\n*Phantom Anthem* presents Greiner with concentrated technical demands. \"King of Sorrow\" — the Grammy-nominated centerpiece — requires sustained blast beat sequences, ghost note layers beneath melodic passages, and the blast-to-groove transitions that are his compositional signature. The album's compressed production demanded absolute mechanical consistency from every part of the setup: any variation in kick attack timing, snare dynamics, or cymbal response would be audible in a production context that amplifies rather than smooths.\n\n**Microphone Approach:**\n- Kick drums: dual miking capturing both the Black Panther Design Lab's tight attack and controlled resonance\n- Snare: top/bottom capture preserving the signature drum's full dynamic range from ghost notes to accents\n- Toms: close-miking maintaining definition through fast fill sequences\n- Cymbals: overhead pair capturing the Paiste Formula 602's brightness and China's aggressive cut\n- Room: minimal, prioritizing the close-mic definition that suits the album's compressed production aesthetic\n\n**Phantom Anthem vs. Found in Far Away Places Production:**\nThe two albums share producers and studio but sound distinctly different. *Found in Far Away Places*' clarity gave individual drum voices room to breathe; *Phantom Anthem*'s compression creates a denser, more unified surface. The Paiste Formula 602 cymbals' brighter, more controlled character worked better in the *Phantom Anthem* production context — where the Byzance's controlled decay might have receded, the Formula 602's presence holds through the dense guitar saturation.",
       "keyTechniques": [
-        "Dual kick drum miking capturing the Reference Pure's tight attack profile within a compressed, dense mix",
-        "Snare top/bottom capture preserving the Pearl Signature's full dynamic range on Grammy-nominated tracks",
+        "Dual kick drum miking capturing the Black Panther Design Lab's tight attack profile within a compressed, dense mix",
+        "Snare top/bottom capture preserving the Mapex Black Panther's full dynamic range on Grammy-nominated tracks",
         "Close-tom miking maintaining definition through technical fill sequences at high tempo",
-        "Zildjian A Custom overhead capture — brighter, more aggressive presence than the Byzance era, suited to Phantom Anthem's dense production"
+        "Paiste Formula 602 overhead capture — brighter, more controlled presence than the Byzance era, suited to Phantom Anthem's dense production"
       ]
     },
     "trackAnalysis": [
@@ -2539,9 +2538,9 @@ export const articles = {
           "Grammy-nominated for Best Metal Performance at the 60th Grammy Awards (2018) — the highest single-track recognition of ABR's career",
           "Blast beat sequences that transition into locked groove patterns — Greiner's signature compositional move at its most refined",
           "Ghost note density beneath melodic sections adds textural complexity that elevated the track above standard metalcore at the Grammy level",
-          "Extended double-bass passages at sustained high tempo showcase the Pearl Demon Drive's mechanical precision"
+          "Extended double-bass passages at sustained high tempo showcase the DW 9000 Series pedal's mechanical precision"
         ],
-        "gearNotes": "The Pearl Reference Pure's tight attack definition makes 'King of Sorrow' legible rather than dense. The Zildjian A Custom hi-hats' fast, precise response enables the intricate open/closed pattern variations that add rhythmic texture throughout the track. The Pearl Demon Drive's consistent kick attack underpins the blast sequences that anchor the track's most intense sections."
+        "gearNotes": "The Black Panther Design Lab's tight attack definition makes 'King of Sorrow' legible rather than dense. The Paiste Formula 602 hi-hats' fast, precise response enables the intricate open/closed pattern variations that add rhythmic texture throughout the track. The DW 9000 Series pedal's consistent kick attack underpins the blast sequences that anchor the track's most intense sections."
       },
       {
         "track": "Coordinates",
@@ -2553,7 +2552,7 @@ export const articles = {
           "Crash cymbal placement functions compositionally — each hit marks a structural musical moment",
           "China cymbal deployed selectively for maximum impact at section peaks"
         ],
-        "gearNotes": "The Sabian AAX China's cutting, aggressive character delivers maximum accent impact on 'Coordinates' without overwhelming the mix. The AAX's controlled decay prevents the china from ringing into the following phrase — critical when the guitar arrangement is this dense."
+        "gearNotes": "The Paiste Formula 602 China's cutting, aggressive character delivers maximum accent impact on 'Coordinates' without overwhelming the mix. Its controlled decay prevents the china from ringing into the following phrase — critical when the guitar arrangement is this dense."
       },
       {
         "track": "Hero of the Half Truth",
@@ -2565,32 +2564,32 @@ export const articles = {
           "Snare work alternates between full-force backbeats and barely-audible ghost notes within the same bar",
           "Hi-hat accent variations create rhythmic interest through small, precise adjustments in open/closed position"
         ],
-        "gearNotes": "The Pearl Matt Greiner Signature snare's custom bearing edge is most audible on 'Hero of the Half Truth' — ghost notes at the lower end of the dynamic range translate clearly while full accent strokes project above the guitar mix. That dynamic width is the signature drum's defining characteristic."
+        "gearNotes": "The Mapex Black Panther snare's maple shell is most audible on 'Hero of the Half Truth' — ghost notes at the lower end of the dynamic range translate warmly while full accent strokes project above the guitar mix. That dynamic width is the signature drum's defining characteristic."
       }
     ],
     "evolution": {
       "title": "From Found in Far Away Places to Phantom Anthem: The Cymbal Voice Shifts",
-      "content": "*Phantom Anthem* (2017) continues *Found in Far Away Places*' (2015) foundational Pearl setup while introducing the most significant gear change of the era: from Meinl Byzance cymbals to Zildjian A Custom / Sabian AAX. The result is a drum sound that shares the Reference Pure's tight articulation but carries a brighter, more aggressive surface character.\n\n**What Stayed the Same:**\n- Pearl Reference Pure drum kit (maple/mahogany hybrid shells, dual 22\" bass drums)\n- Pearl Matt Greiner Signature snare (14\" x 6\" steel)\n- Pearl Demon Drive double pedal (shaft-driven mechanism)\n- Vic Firth Matt Greiner Signature sticks\n- Remo Powerstroke 3 kick heads, Ambassador Coated tom/snare heads\n\n**What Changed:**\n- Cymbals: Meinl Byzance Traditional (B20, hand-hammered, controlled decay) → Zildjian A Custom (bell-bronze, machine-hammered, brighter/more aggressive) with Sabian AAX China\n- Production aesthetic: *Found in Far Away Places*' polished clarity → *Phantom Anthem*'s compressed weight\n\n**The Grammy Context:**\nThe cymbal shift toward a brighter, more aggressive voice coincided with the album cycle that produced ABR's most Grammy-recognized track. \"King of Sorrow\" earned a Best Metal Performance nomination with the Zildjian A Custom setup — suggesting the brighter, more cutting cymbal character suited the track's production and helped it register at the Grammy level.",
+      "content": "*Phantom Anthem* (2017) marks the biggest gear change in Matt Greiner's career: in 2016, he switched away from the Pearl/Meinl setup that defined *Found in Far Away Places*' (2015) sound, moving to Mapex Drums and Paiste Cymbals. *Phantom Anthem* is the first studio album to document that full switch — new kit, new snare, new cymbals, new pedal.\n\n**What Changed:**\n- Kit: Pearl Reference Pure (maple/mahogany hybrid) → Mapex Black Panther Design Lab (maple/walnut hybrid)\n- Snare: Pearl Matt Greiner Signature 14\" x 6\" steel → Mapex Black Panther 14\" x 5.5\" maple\n- Cymbals: Meinl Byzance Traditional (B20, hand-hammered, controlled decay) → Paiste Formula 602 (bell-bronze, brighter/more controlled)\n- Pedal: Pearl Demon Drive Double Pedal → DW 9000 Series Double Pedal\n- Heads: Remo → Evans\n\n**What Stayed the Same:**\n- Vic Firth Matt Greiner Signature sticks\n- The double 22\" bass drum configuration and compact tom layout\n\n**The Grammy Context:**\nThe new setup's brighter, more controlled voice coincided with the album cycle that produced ABR's most Grammy-recognized track. \"King of Sorrow\" earned a Best Metal Performance nomination with the new Mapex/Paiste setup — suggesting the gear change didn't cost the band anything at the Grammy level.",
       "thenVsNow": [
         {
           "category": "Kit",
-          "then": "Pearl Reference Pure (maple/mahogany, carried from FIAFAP)",
-          "now": "Pearl Reference Pure (same — foundational choice stabilized)"
+          "then": "Pearl Reference Pure (maple/mahogany, used through FIAFAP)",
+          "now": "Mapex Black Panther Design Lab (maple/walnut hybrid)"
         },
         {
           "category": "Snare",
           "then": "Pearl Matt Greiner Signature 14\" x 6\" steel",
-          "now": "Pearl Matt Greiner Signature 14\" x 6\" steel (continued)"
+          "now": "Mapex Black Panther 14\" x 5.5\" maple"
         },
         {
           "category": "Cymbals",
           "then": "Meinl Byzance Traditional (B20 bronze, controlled decay)",
-          "now": "Zildjian A Custom (bell-bronze, bright/aggressive) + Sabian AAX China"
+          "now": "Paiste Formula 602 (bell-bronze, brighter/more controlled)"
         },
         {
           "category": "Pedals",
           "then": "Pearl Demon Drive Double Pedal",
-          "now": "Pearl Demon Drive Double Pedal (continued)"
+          "now": "DW 9000 Series Double Pedal"
         },
         {
           "category": "Sticks",
@@ -2632,12 +2631,12 @@ export const articles = {
         "url": "/articles/leveler-drum-setup"
       },
       {
-        "text": "Pearl drums brand overview",
-        "url": "/gear/pearl"
+        "text": "Mapex drums brand overview",
+        "url": "/gear/mapex"
       },
       {
-        "text": "Zildjian cymbals brand overview",
-        "url": "/gear/zildjian"
+        "text": "Paiste cymbals brand overview",
+        "url": "/gear/paiste"
       }
     ],
     "schema": {
@@ -2646,7 +2645,7 @@ export const articles = {
         {
           "@type": "Article",
           "headline": "August Burns Red 'Phantom Anthem' Drum Setup (Matt Greiner, 2017)",
-          "description": "Discover the exact drum kit, cymbals, and gear Matt Greiner used on August Burns Red's Grammy-nominated Phantom Anthem (2017). Complete breakdown of the Pearl Reference Pure kit, Zildjian A Custom / Sabian AAX cymbals, and the drumming behind 'King of Sorrow' — nominated for Best Metal Performance at the 2018 Grammy Awards.",
+          "description": "Discover the exact drum kit, cymbals, and gear Matt Greiner used on August Burns Red's Grammy-nominated Phantom Anthem (2017). Complete breakdown of the Mapex Black Panther Design Lab kit, Paiste Formula 602 cymbals, and the drumming behind 'King of Sorrow' — nominated for Best Metal Performance at the 2018 Grammy Awards.",
           "author": {
             "@type": "Organization",
             "name": "MetalForge Editorial"
@@ -2715,7 +2714,7 @@ export const articles = {
               "name": "What cymbals does Matt Greiner use on Phantom Anthem?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "On Phantom Anthem (2017), Matt Greiner switched from Meinl Byzance to a hybrid setup of Zildjian A Custom and Sabian AAX cymbals. The Zildjian A Custom series — 14\" hi-hats, 16\" and 18\" crashes, 20\" ride — delivers a brighter, more aggressive top-end character than the controlled Byzance decay. The Sabian AAX 18\" China adds a cutting, trashy accent character suited to the album's denser production aesthetic."
+                "text": "On Phantom Anthem (2017), Matt Greiner switched from Meinl Byzance to Paiste Formula 602 cymbals as part of his broader 2016 move to Mapex/Paiste. The Formula 602 series — 14\" hi-hats, 16\" and 18\" crashes, 22\" ride — delivers a brighter, more controlled top-end character than the Byzance decay. The Formula 602 18\" China adds a cutting, trashy accent character suited to the album's denser production aesthetic."
               }
             },
             {
@@ -2731,7 +2730,7 @@ export const articles = {
               "name": "What tuning does Matt Greiner use on Phantom Anthem?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Matt Greiner tunes his Pearl Matt Greiner Signature snare at medium-high tension on Phantom Anthem — bright steel attack with controlled warmth, maximizing both ghost note sensitivity and the projection of power accent strokes. The Pearl Reference Pure toms are tuned for articulate attack rather than warmth, complementing the album's compressed, aggressive production character. Kick drums use Remo Powerstroke 3 heads tuned for focused low-end attack with minimal unwanted resonance."
+                "text": "Matt Greiner tunes his Mapex Black Panther snare at medium-high tension on Phantom Anthem — bright maple attack with controlled warmth, maximizing both ghost note sensitivity and the projection of power accent strokes. The Black Panther Design Lab toms are tuned for articulate attack rather than warmth, complementing the album's compressed, aggressive production character. Kick drums use Evans EMAD2 heads tuned for focused low-end attack with minimal unwanted resonance."
               }
             },
             {
@@ -2739,7 +2738,7 @@ export const articles = {
               "name": "What drum kit does Matt Greiner use on Phantom Anthem?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "On Phantom Anthem (2017), Matt Greiner played a Pearl Reference Pure kit — a maple/mahogany hybrid shell drum set configured with dual 22\" x 18\" bass drums, 10\" x 7\" and 12\" x 8\" rack toms, and a 16\" x 16\" floor tom. This is the same foundational kit he used on Found in Far Away Places (2015), reflecting a settled gear philosophy where the shell choice had stabilized while the cymbal voice evolved."
+                "text": "On Phantom Anthem (2017), Matt Greiner played a Mapex Black Panther Design Lab kit — a maple/walnut hybrid shell drum set configured with dual 22\" x 18\" bass drums, 10\" x 7\" and 12\" x 8\" rack toms, and a 16\" x 16\" floor tom. This is the first ABR album to document the kit, following his 2016 switch away from the Pearl Reference Pure he used on Found in Far Away Places (2015)."
               }
             }
           ]
@@ -2749,24 +2748,24 @@ export const articles = {
     "faq": [
       {
         "question": "What cymbals does Matt Greiner use on Phantom Anthem?",
-        "answer": "On *Phantom Anthem* (2017), Matt Greiner switched from Meinl Byzance to a hybrid Zildjian A Custom / Sabian AAX setup — the most significant gear change between *Found in Far Away Places* and this album. The Zildjian A Custom series delivers a brighter, more aggressive top-end character suited to *Phantom Anthem*'s denser production, while the Sabian AAX China provides cutting accent character. For comparison with his earlier Byzance setup, see the [Found in Far Away Places drum setup](/articles/found-in-far-away-places-drum-setup)."
+        "answer": "On *Phantom Anthem* (2017), Matt Greiner switched from Meinl Byzance to Paiste Formula 602 — part of his broader 2016 move from Pearl/Meinl to Mapex/Paiste, and the most significant gear change between *Found in Far Away Places* and this album. The Formula 602 series delivers a brighter, more controlled top-end character suited to *Phantom Anthem*'s denser production, while the Formula 602 China provides cutting accent character. For comparison with his earlier Byzance setup, see the [Found in Far Away Places drum setup](/articles/found-in-far-away-places-drum-setup)."
       },
       {
         "question": "Was Phantom Anthem Grammy-nominated?",
-        "answer": "Yes. \"King of Sorrow\" from *Phantom Anthem* (2017) was nominated for Best Metal Performance at the 60th Grammy Awards in January 2018 — the highest single-track recognition of August Burns Red's career. Matt Greiner's drumming on the track — blast sequences, ghost note layers, and blast-to-groove transitions executed on the Pearl Reference Pure kit — was a central factor in what made the track Grammy-eligible."
+        "answer": "Yes. \"King of Sorrow\" from *Phantom Anthem* (2017) was nominated for Best Metal Performance at the 60th Grammy Awards in January 2018 — the highest single-track recognition of August Burns Red's career. Matt Greiner's drumming on the track — blast sequences, ghost note layers, and blast-to-groove transitions executed on the newly adopted Mapex Black Panther Design Lab kit — was a central factor in what made the track Grammy-eligible."
       },
       {
         "question": "What tuning does Matt Greiner use on Phantom Anthem?",
-        "answer": "Greiner tunes his Pearl Matt Greiner Signature snare at medium-high tension — bright steel attack with controlled warmth, preserving both ghost note sensitivity and the projection of power accent strokes. Pearl Reference Pure toms are tuned for articulate attack rather than warmth, suiting *Phantom Anthem*'s compressed, aggressive production. Kick drums use Remo Powerstroke 3 heads for focused low-end attack. For his complete current tuning philosophy, see the [Matt Greiner complete drum setup guide](/articles/matt-greiner-complete-drum-setup)."
+        "answer": "Greiner tunes his Mapex Black Panther snare at medium-high tension — bright maple attack with controlled warmth, preserving both ghost note sensitivity and the projection of power accent strokes. Black Panther Design Lab toms are tuned for articulate attack rather than warmth, suiting *Phantom Anthem*'s compressed, aggressive production. Kick drums use Evans EMAD2 heads for focused low-end attack. For his complete current tuning philosophy, see the [Matt Greiner complete drum setup guide](/articles/matt-greiner-complete-drum-setup)."
       },
       {
         "question": "How does Phantom Anthem fit in the August Burns Red discography?",
-        "answer": "*Phantom Anthem* (2017) fills the gap between *Found in Far Away Places* (2015) — ABR's Gold-certified commercial peak — and *Beacon* (2023), their most recent studio record. It's the album that earned ABR's highest Grammy recognition with \"King of Sorrow\" (Best Metal Performance nomination, 2018). The gear continuity with *Found in Far Away Places* (same Pearl Reference Pure kit, same Pearl Demon Drive) shows how Greiner's setup had stabilized, while the cymbal shift to Zildjian A Custom / Sabian AAX marks the key sonic evolution. See the full ABR arc: [Leveler (2011)](/articles/leveler-drum-setup) → [Found in Far Away Places (2015)](/articles/found-in-far-away-places-drum-setup) → Phantom Anthem (2017)."
+        "answer": "*Phantom Anthem* (2017) fills the gap between *Found in Far Away Places* (2015) — ABR's Gold-certified commercial peak — and the albums that followed. It's the album that earned ABR's highest Grammy recognition with \"King of Sorrow\" (Best Metal Performance nomination, 2018). It's also the first ABR album to document Greiner's 2016 switch from his Pearl/Meinl setup to Mapex Black Panther Design Lab and Paiste Formula 602 — the gear he has played ever since. See the full ABR arc: [Leveler (2011)](/articles/leveler-drum-setup) → [Found in Far Away Places (2015)](/articles/found-in-far-away-places-drum-setup) → Phantom Anthem (2017)."
       }
     ],
     "conclusion": {
-      "title": "Phantom Anthem: Grammy Recognition and the Stable Pearl Era",
-      "content": "*Phantom Anthem* (2017) is the album that brought August Burns Red their most significant individual track recognition — a Grammy nomination for \"King of Sorrow\" at the 60th Grammy Awards. For Matt Greiner, it validated what the metalcore community had recognized for years: that his approach — jazz-informed musicality applied to aggressive music, lever-driven double-bass efficiency, ghost note density that adds textural complexity without sacrificing heaviness — was operating at a level that Grammy voters could recognize as exceptional.\n\nThe Pearl Reference Pure / Zildjian A Custom + Sabian AAX / Pearl Demon Drive setup that powered *Phantom Anthem* represents a refined extension of the *Found in Far Away Places* gear philosophy. The foundational choices — shell construction, pedal mechanism, stick spec — had stabilized completely. The cymbal evolution to Zildjian A Custom brought a brighter, more aggressive surface voice that suited *Phantom Anthem*'s production character while maintaining the precision that Greiner's technical approach demands.\n\n**For Drummers Studying Phantom Anthem:**\nBegin with \"King of Sorrow.\" Study the blast-to-groove transitions — the moment where a blast beat sequence locks into a groove pattern is Greiner's most recognizable compositional signature, and *Phantom Anthem* contains refined versions. Note the ghost note integration beneath the melodic sections: those subtle dynamics are what earned Grammy attention, because they demonstrate musicality inside aggression. Then examine how the Zildjian A Custom hi-hats' fast response enables the open/closed pattern variations that add rhythmic texture throughout the track.\n\n**The ABR Arc:**\n*Phantom Anthem* fills the 2017 position in the complete August Burns Red drum story. Trace it: [Leveler (2011)](/articles/leveler-drum-setup) established the Ludwig Classic Maple era. [Found in Far Away Places (2015)](/articles/found-in-far-away-places-drum-setup) crystallized the Pearl Reference Pure setup. *Phantom Anthem* (2017) extended that setup with a brighter cymbal voice and earned the Grammy nomination. For the full arc including Greiner's current setup, see the [Matt Greiner complete drum setup guide](/articles/matt-greiner-complete-drum-setup)."
+      "title": "Phantom Anthem: Grammy Recognition and a New Gear Era",
+      "content": "*Phantom Anthem* (2017) is the album that brought August Burns Red their most significant individual track recognition — a Grammy nomination for \"King of Sorrow\" at the 60th Grammy Awards. For Matt Greiner, it validated what the metalcore community had recognized for years: that his approach — jazz-informed musicality applied to aggressive music, lever-driven double-bass efficiency, ghost note density that adds textural complexity without sacrificing heaviness — was operating at a level that Grammy voters could recognize as exceptional.\n\nThe Mapex Black Panther Design Lab / Paiste Formula 602 / DW 9000 Series setup that powered *Phantom Anthem* is the debut of the gear Greiner has played ever since his 2016 switch from Pearl/Meinl. The new kit and cymbals brought a brighter, more controlled surface voice while maintaining the precision that Greiner's technical approach demands.\n\n**For Drummers Studying Phantom Anthem:**\nBegin with \"King of Sorrow.\" Study the blast-to-groove transitions — the moment where a blast beat sequence locks into a groove pattern is Greiner's most recognizable compositional signature, and *Phantom Anthem* contains refined versions. Note the ghost note integration beneath the melodic sections: those subtle dynamics are what earned Grammy attention, because they demonstrate musicality inside aggression. Then examine how the Paiste Formula 602 hi-hats' fast response enables the open/closed pattern variations that add rhythmic texture throughout the track.\n\n**The ABR Arc:**\n*Phantom Anthem* fills the 2017 position in the complete August Burns Red drum story. Trace it: [Leveler (2011)](/articles/leveler-drum-setup) → [Found in Far Away Places (2015)](/articles/found-in-far-away-places-drum-setup), which crystallized the Pearl Reference Pure setup. *Phantom Anthem* (2017) introduced Greiner's Mapex/Paiste era and earned the Grammy nomination. For the full arc including Greiner's current setup, see the [Matt Greiner complete drum setup guide](/articles/matt-greiner-complete-drum-setup)."
     }
   },
   "beacon-drum-setup": {
@@ -2787,14 +2786,14 @@ export const articles = {
     "author": "MetalForge Editorial",
     "award": "Dove Award — Rock Contemporary Inspirational Album (51st Dove Awards, 2020)",
     "title": "August Burns Red 'Beacon' Drum Setup (Matt Greiner, 2019)",
-    "description": "Complete breakdown of Matt Greiner's drum kit, cymbals, and gear on August Burns Red's Dove Award-winning Beacon (2019). Pearl Reference Pure kit, Meinl Byzance Extra Dry cymbals, Pearl Demon Drive double pedal — and the Christian metal crossover that earned the Dove Award for Rock Contemporary Inspirational Album.",
+    "description": "Complete breakdown of Matt Greiner's drum kit, cymbals, and gear on August Burns Red's Dove Award-winning Beacon (2019). Mapex Black Panther Design Lab kit, Paiste Formula 602 cymbals, DW 9000 Series double pedal — and the Christian metal crossover that earned the Dove Award for Rock Contemporary Inspirational Album.",
     "seoKeywords": [
       "matt greiner drum setup",
       "matt greiner beacon drums",
       "august burns red beacon gear",
       "matt greiner 2019 kit",
-      "pearl reference pure metalcore",
-      "matt greiner meinl byzance",
+      "mapex black panther metalcore",
+      "matt greiner paiste formula 602",
       "august burns red drummer",
       "beacon drum setup",
       "metalcore drum setup 2019",
@@ -2803,19 +2802,19 @@ export const articles = {
     "ogImage": "/images/albums/beacon-drums.webp",
     "intro": {
       "title": "The Dove Award Album: Matt Greiner's Beacon Drum Setup",
-      "content": "Released on September 6, 2019, August Burns Red's *Beacon* stands apart in the band's discography for a reason that extends beyond the metalcore genre: it won the Dove Award for Rock Contemporary Inspirational Album at the 51st GMA Dove Awards in 2020. That recognition — from the Gospel Music Association, the equivalent of the Grammys for Christian music — confirmed what ABR's most devoted fanbase had always understood: that Matt Greiner and his bandmates operate simultaneously in the world of extreme metal and the world of Christian artistic expression, and at a level where both communities recognize their achievement.\n\n*Beacon* arrived two years after *Phantom Anthem* (2017), which had earned ABR their highest single-track Grammy recognition with \"King of Sorrow.\" Where *Phantom Anthem* pushed toward compressed aggression, *Beacon* brought a slightly more open, dynamic production character — still firmly metalcore in its attack and tempo, but with cleaner sonic space between elements. For Greiner, the shift meant a return to the Meinl Byzance cymbal palette he had left for the Zildjian A Custom / Sabian AAX setup on *Phantom Anthem*. The Extra Dry and Dual Byzance variants he settled on for *Beacon* carry forward the controlled-decay character of the Byzance line but with a drier, more immediate response — less sustain, faster cutoff — than the Traditional models he had used on *Found in Far Away Places* (2015).\n\nThe foundational setup — Pearl Reference Pure kit, Pearl Matt Greiner Signature snare, Pearl Demon Drive double pedal — remained unchanged. By the *Beacon* sessions, these choices had been fully tested and refined through years of live performance and recording. What *Beacon* adds to the ABR gear story is not disruption but depth: a refined approach to a stabilized rig, applied with the craft and intention that Greiner has brought to every August Burns Red record since 2003.\n\nThe Dove Award context matters for understanding the album's place in both the metalcore and Christian music landscapes. ABR's faith-informed lyrical perspective is not separate from their musical identity — it shapes the emotional ambition of songs like \"Paramount,\" \"Lighthouse,\" and \"Empty Heaven,\" and it's what earned *Beacon* its 2020 Dove recognition. Greiner's drumming on those tracks — technically complex, emotionally direct, always serving the song — reflects the same integration of technical and spiritual investment that defines the band's entire catalog.",
+      "content": "Released on September 6, 2019, August Burns Red's *Beacon* stands apart in the band's discography for a reason that extends beyond the metalcore genre: it won the Dove Award for Rock Contemporary Inspirational Album at the 51st GMA Dove Awards in 2020. That recognition — from the Gospel Music Association, the equivalent of the Grammys for Christian music — confirmed what ABR's most devoted fanbase had always understood: that Matt Greiner and his bandmates operate simultaneously in the world of extreme metal and the world of Christian artistic expression, and at a level where both communities recognize their achievement.\n\n*Beacon* arrived two years after *Phantom Anthem* (2017), which had earned ABR their highest single-track Grammy recognition with \"King of Sorrow\" and documented Greiner's 2016 switch to Mapex Drums and Paiste Cymbals. Where *Phantom Anthem* pushed toward compressed aggression, *Beacon* brought a slightly more open, dynamic production character — still firmly metalcore in its attack and tempo, but with cleaner sonic space between elements. Greiner's Paiste Formula 602 cymbal setup, now two years into its run, carries forward the bright, controlled character established on *Phantom Anthem*.\n\nThe foundational setup — Mapex Black Panther Design Lab kit, Mapex Black Panther signature snare, DW 9000 Series double pedal — remained unchanged from *Phantom Anthem*. By the *Beacon* sessions, these choices had been fully tested and refined through years of live performance and recording. What *Beacon* adds to the ABR gear story is not disruption but depth: a refined approach to a stabilized rig, applied with the craft and intention that Greiner has brought to every August Burns Red record since 2003.\n\nThe Dove Award context matters for understanding the album's place in both the metalcore and Christian music landscapes. ABR's faith-informed lyrical perspective is not separate from their musical identity — it shapes the emotional ambition of songs like \"Paramount,\" \"Lighthouse,\" and \"Empty Heaven,\" and it's what earned *Beacon* its 2020 Dove recognition. Greiner's drumming on those tracks — technically complex, emotionally direct, always serving the song — reflects the same integration of technical and spiritual investment that defines the band's entire catalog.",
       "keyPoints": [
         "Released September 6, 2019 on Fearless Records — ABR's eighth studio album",
         "Won Dove Award for Rock Contemporary Inspirational Album at the 51st GMA Dove Awards (2020) — recognition from the Christian music community for ABR's faith-integrated extreme metal",
-        "Matt Greiner returned to Meinl Byzance cymbals (Extra Dry / Dual variants) after the Zildjian A Custom era on Phantom Anthem (2017)",
-        "Pearl Reference Pure kit, Pearl Matt Greiner Signature snare, and Pearl Demon Drive pedal continued — the most settled and refined gear configuration of Greiner's career"
+        "Matt Greiner's Paiste Formula 602 cymbal setup, established on Phantom Anthem (2017), continued into its second album cycle",
+        "Mapex Black Panther Design Lab kit, Mapex Black Panther signature snare, and DW 9000 Series pedal continued — the most settled and refined gear configuration of Greiner's post-2016 career"
       ]
     },
     "drumKit": {
-      "title": "Matt's 2019 Kit: Pearl Reference Pure (Beacon Era)",
-      "brand": "Pearl",
-      "model": "Pearl Reference Pure",
-      "finish": "Piano Black",
+      "title": "Matt's 2019 Kit: Mapex Black Panther Design Lab (Beacon Era)",
+      "brand": "Mapex",
+      "model": "Mapex Black Panther Design Lab",
+      "finish": "Maple/walnut hybrid shell pack",
       "config": {
         "bassdrums": [
           "22\" x 18\" Bass Drum (x2 double kick)"
@@ -2827,94 +2826,94 @@ export const articles = {
         "floorToms": [
           "16\" x 16\" Floor Tom"
         ],
-        "shells": "Reference Pure shells — maple/mahogany hybrid construction"
+        "shells": "Black Panther Design Lab shells — maple/walnut hybrid construction"
       },
-      "description": "By the *Beacon* sessions, the Pearl Reference Pure had become the fully settled, unquestioned foundation of Matt Greiner's kit — a choice no longer under evaluation but simply a known quantity, refined by years of touring and recording to the point where Greiner could focus entirely on performance rather than gear selection. The maple/mahogany hybrid shells delivered the tight, articulate attack that defines his modern sound: drums that cut through metalcore's dense guitar arrangements with precision, delivering each stroke distinctly rather than blurring into the low-midrange mass.\n\n*Beacon*'s production, handled again by Carson Slovak and Grant McFarland at Castle Chaos Recording in Lancaster, Pennsylvania — the same team and space that produced *Found in Far Away Places* (2015) and *Phantom Anthem* (2017) — gave the Pearl Reference Pure's natural character room to breathe. Where *Phantom Anthem*'s compressed production had required the kit to fight through a dense, saturated mix, *Beacon* opens up slightly, allowing the tom resonance and kick punch to register with more natural character. The Reference Pure's maple/mahogany shell construction suits this approach perfectly: warm enough to sound musical in the more open spaces, articulate enough to maintain definition in the album's most densely packed passages.\n\nGreiner's double 22\" bass drum configuration remained the physical foundation of his playing. His lever-driven double-bass technique — generating explosive speed through ankle and calf mechanics rather than leg force — demands two fully independent bass drums delivering equivalent attack. The 22\" diameter provides the deep low-frequency fundamental that ABR's heaviest passages require while maintaining the mechanical responsiveness that precise polyrhythmic patterns demand at the tempos *Beacon* operates at.\n\nThe compact tom layout (10\" and 12\" racks, 16\" floor) continued to shape Greiner's fill vocabulary. This configuration encourages compositional fill choices — patterns designed around musical moments rather than linear kit sweeps — and the result across *Beacon* is consistent with what the same setup produced on *Phantom Anthem*: fills that function as rhythmic composition rather than mere technical display.",
+      "description": "By the *Beacon* sessions, the Mapex Black Panther Design Lab — adopted alongside Greiner's 2016 switch from Pearl — had become the fully settled, unquestioned foundation of his kit, refined across the *Phantom Anthem* touring cycle to the point where Greiner could focus entirely on performance rather than gear selection. The maple/walnut hybrid shells delivered the tight, articulate attack that defines his modern sound: drums that cut through metalcore's dense guitar arrangements with precision, delivering each stroke distinctly rather than blurring into the low-midrange mass.\n\n*Beacon*'s production, handled again by Carson Slovak and Grant McFarland at Castle Chaos Recording in Lancaster, Pennsylvania — the same team and space that produced *Found in Far Away Places* (2015) and *Phantom Anthem* (2017) — gave the Black Panther Design Lab's natural character room to breathe. Where *Phantom Anthem*'s compressed production had required the kit to fight through a dense, saturated mix, *Beacon* opens up slightly, allowing the tom resonance and kick punch to register with more natural character. The maple/walnut shell construction suits this approach perfectly: warm enough to sound musical in the more open spaces, articulate enough to maintain definition in the album's most densely packed passages.\n\nGreiner's double 22\" bass drum configuration remained the physical foundation of his playing. His lever-driven double-bass technique — generating explosive speed through ankle and calf mechanics rather than leg force — demands two fully independent bass drums delivering equivalent attack. The 22\" diameter provides the deep low-frequency fundamental that ABR's heaviest passages require while maintaining the mechanical responsiveness that precise polyrhythmic patterns demand at the tempos *Beacon* operates at.\n\nThe compact tom layout (10\" and 12\" racks, 16\" floor) continued to shape Greiner's fill vocabulary. This configuration encourages compositional fill choices — patterns designed around musical moments rather than linear kit sweeps — and the result across *Beacon* is consistent with what the same setup produced on *Phantom Anthem*: fills that function as rhythmic composition rather than mere technical display.",
       "notes": [
-        "Pearl Reference Pure: fully stabilized foundational choice by the Beacon sessions — the settled gear of a drummer at full maturity",
-        "Maple/mahogany hybrid construction: tighter than Ludwig Classic Maple, warmer than birch — ideal for Beacon's more open production aesthetic",
+        "Mapex Black Panther Design Lab: fully stabilized foundational choice by the Beacon sessions, two albums into Greiner's Mapex era",
+        "Maple/walnut hybrid construction: tighter than Ludwig Classic Maple, warmer than birch — ideal for Beacon's more open production aesthetic",
         "Double 22\" bass drums: lever-driven double-bass technique demands two independent, matched kick drums delivering equivalent attack",
         "Compact tom layout (10\", 12\" rack, 16\" floor): encourages compositional fills suited to ABR's arrangement-focused songwriting"
       ],
-      "estimatedValue": "$3,500–5,500 (2019) / $2,500–4,000 (used today)"
+      "estimatedValue": "$2,500–4,000 (2019) / $2,000–3,500 (used today)"
     },
     "snare": {
-      "title": "The Beacon Snare: Pearl Matt Greiner Signature",
-      "brand": "Pearl",
-      "model": "Pearl Matt Greiner Signature",
-      "size": "14\" x 6\"",
-      "shell": "Steel shell with custom bearing edge",
-      "description": "The Pearl Matt Greiner Signature snare continued through the *Beacon* sessions without modification — a settled choice that had proven itself on *Found in Far Away Places* (2015) and *Phantom Anthem* (2017) and required no further development. The 14\" x 6\" steel shell delivers the bright, cutting attack that metalcore's dense guitar arrangements demand, while the 6\" depth adds body and projection that shallower steel drums can't sustain at high volume and touring tempos.\n\nOn *Beacon*, the snare's character is particularly well-suited to the album's Dove Award-winning emotional ambition. Tracks like \"Lighthouse\" and \"Empty Heaven\" feature passages where the snare must carry both the physical weight of metalcore's technical attack and the emotional directness that ABR's faith-informed lyrical content demands from its instrumental foundation. The Pearl Signature's combination of steel brightness and 6\" warmth delivers both simultaneously — a cutting crack on the heaviest backbeats, sensitive enough to articulate ghost notes during the album's more introspective moments.\n\nGreiner's tuning approach on *Beacon* maintained the medium-high tension he developed through the *Found in Far Away Places* era: tight enough for projection and cut in ABR's dense arrangements, but not so constricted as to sacrifice the shell's natural body. The custom bearing edge was designed specifically to maximize the dynamic range between full accent strokes and barely-audible ghost notes — a range that Greiner deploys throughout the album's most technically demanding passages.",
-      "tuningSetting": "Medium-high tension — bright steel attack with controlled warmth and maximum dynamic range",
-      "heads": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)",
-      "estimatedValue": "$400–600 (2019)"
+      "title": "The Beacon Snare: Mapex Black Panther",
+      "brand": "Mapex",
+      "model": "Mapex Black Panther 14\" x 5.5\" Maple",
+      "size": "14\" x 5.5\"",
+      "shell": "Maple",
+      "description": "The Mapex Black Panther snare continued through the *Beacon* sessions without modification — a settled choice that had proven itself on *Phantom Anthem* (2017) and required no further development. The 14\" x 5.5\" maple shell delivers a warm, articulate crack that still cuts through metalcore's dense guitar arrangements.\n\nOn *Beacon*, the snare's character is particularly well-suited to the album's Dove Award-winning emotional ambition. Tracks like \"Lighthouse\" and \"Empty Heaven\" feature passages where the snare must carry both the physical weight of metalcore's technical attack and the emotional directness that ABR's faith-informed lyrical content demands from its instrumental foundation. The Black Panther's maple warmth delivers both simultaneously — a cutting crack on the heaviest backbeats, sensitive enough to articulate ghost notes during the album's more introspective moments.\n\nGreiner's tuning approach on *Beacon* maintained the medium-high tension he developed through the *Phantom Anthem* sessions: tight enough for projection and cut in ABR's dense arrangements, but not so constricted as to sacrifice the shell's natural body.",
+      "tuningSetting": "Medium-high tension — bright attack with controlled warmth and maximum dynamic range",
+      "heads": "Evans G2 Coated (batter), Evans Snare Side (resonant)",
+      "estimatedValue": "$250–400 (2019)"
     },
     "cymbals": {
-      "title": "Meinl Byzance Extra Dry / Dual: The Beacon Return",
-      "brand": "Meinl",
-      "series": "Meinl Byzance Extra Dry and Dual series",
+      "title": "Paiste Formula 602: The Beacon Cymbal Voice",
+      "brand": "Paiste",
+      "series": "Paiste Formula 602",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Meinl Byzance 15\" Dual Hi-Hats",
+          "model": "Paiste Formula 602 14\" Hi-Hats",
           "position": "Left side",
-          "notes": "Dual construction combining two alloy types for layered, complex tone — fast response for Greiner's technical hi-hat patterns"
+          "notes": "Bell-bronze construction for crisp, layered tone — fast response for Greiner's technical hi-hat patterns"
         },
         {
           "type": "Crash (1)",
-          "model": "Meinl Byzance 18\" Extra Dry Medium Crash",
+          "model": "Paiste Formula 602 16\" Crash",
           "position": "Left crash",
-          "notes": "Raw, unlathed surface for fast decay and controlled character in dense ABR arrangements"
+          "notes": "Fast decay and controlled character in dense ABR arrangements"
         },
         {
           "type": "Crash (2)",
-          "model": "Meinl Byzance 19\" Extra Dry Medium Crash",
+          "model": "Paiste Formula 602 17\" Crash",
+          "position": "Center crash",
+          "notes": "Mid-sized crash for section transitions"
+        },
+        {
+          "type": "Crash (3)",
+          "model": "Paiste Formula 602 18\" Crash",
           "position": "Right crash",
-          "notes": "Slightly larger for fuller accent on big section transitions"
+          "notes": "Fuller accent on big section transitions"
         },
         {
           "type": "Ride",
-          "model": "Meinl Byzance 21\" Transition Ride",
+          "model": "Paiste Formula 602 22\" Ride",
           "position": "Far right",
           "notes": "Versatile — usable as ride or large crash for the Beacon era's dynamic range"
         },
         {
           "type": "China",
-          "model": "Meinl Byzance 18\" Extra Dry China",
+          "model": "Paiste Formula 602 18\" China",
           "position": "Above floor tom",
-          "notes": "Dry, aggressive china accent for the album's most intense moments"
+          "notes": "Cutting, aggressive china accent for the album's most intense moments"
         },
         {
           "type": "Splash",
-          "model": "Meinl Byzance 10\" Splash",
+          "model": "Paiste Formula 602 10\" Splash",
           "position": "Effects position",
           "notes": "Quick accent splash for textural punctuation"
         }
       ],
-      "description": "After the Zildjian A Custom / Sabian AAX cymbal setup of *Phantom Anthem* (2017), Matt Greiner returned to the Meinl Byzance palette for *Beacon* — but with the Extra Dry and Dual variants rather than the Traditional models he had used on *Found in Far Away Places* (2015). The distinction matters: Extra Dry cymbals feature raw, unlathed surfaces that produce darker, drier, faster-decaying sounds than the Traditional series' partially lathed alternative. For *Beacon*'s production aesthetic — slightly more open than *Phantom Anthem* but still demanding controlled, precise cymbal response — the Extra Dry character is ideal.\n\nThe 15\" Byzance Dual Hi-Hats are the defining upgrade from the *Found in Far Away Places* era. \"Dual\" cymbals combine two different alloy types in a single cymbal, generating a more complex, layered tone than a standard hi-hat pair. For Greiner's intricate hi-hat patterns — which shift between closed strokes, accented openings, and fully open washes within single measures — the Dual hi-hats provide tonal depth without the excess wash that would blur rapid single-stroke patterns in a dense metalcore context.\n\nThe Extra Dry crash setup (18\" and 19\") brings back the controlled-decay philosophy that characterizes Greiner's Byzance approach. These cymbals speak immediately and decay fast — they accent a musical moment, then get out of the way. In ABR's arrangements, where rhythmic precision is the primary organizational principle, crashes that linger too long create clarity problems. The Extra Dry philosophy solves that problem at the design level rather than through dampening.\n\nThe 21\" Byzance Transition Ride provides the middle-ground versatility that *Beacon*'s dynamic range requires. Transition models bridge the gap between ride and crash — crashable rides that deliver definition as a ride cymbal and explosive character when driven hard. The Byzance 18\" Extra Dry China adds the aggressive, trashy accent texture for the album's heaviest passages.",
-      "estimatedValue": "$2,000–3,000 full Byzance setup (2019)"
+      "description": "By *Beacon*, Matt Greiner's Paiste Formula 602 setup — introduced on *Phantom Anthem* (2017) after his 2016 switch from Meinl — was two years into its run. The Formula 602 line's bell-bronze construction produces a bright, controlled character that suits *Beacon*'s production aesthetic — slightly more open than *Phantom Anthem* but still demanding controlled, precise cymbal response.\n\nThe 14\" Formula 602 Hi-Hats remained the defining piece of the setup. Their fast response serves Greiner's intricate hi-hat patterns — which shift between closed strokes, accented openings, and fully open washes within single measures — without the excess wash that would blur rapid single-stroke patterns in a dense metalcore context.\n\nThe crash setup (16\", 17\", and 18\") continues the controlled-decay philosophy that characterizes Greiner's Formula 602 approach. These cymbals speak immediately and decay in a controlled manner — they accent a musical moment, then get out of the way. In ABR's arrangements, where rhythmic precision is the primary organizational principle, crashes that linger too long create clarity problems.\n\nThe 22\" Formula 602 Ride provides the middle-ground versatility that *Beacon*'s dynamic range requires — definition as a ride cymbal, explosive character when driven hard. The 18\" Formula 602 China adds the aggressive, trashy accent texture for the album's heaviest passages.",
+      "estimatedValue": "$1,800–2,600 full Formula 602 setup (2019)"
     },
     "hardware": {
-      "title": "Pearl Demon Drive: The Beacon Foundation",
+      "title": "DW 9000 Series: The Beacon Foundation",
       "items": [
         {
           "type": "Bass Drum Pedal",
-          "brand": "Pearl",
-          "model": "Pearl Demon Drive Double Pedal",
+          "brand": "DW",
+          "model": "DW 9000 Series Double Pedal",
           "notes": "Shaft-driven mechanism — fully settled choice, continued unchanged through the Beacon sessions",
-          "description": "The Pearl Demon Drive carried forward from *Phantom Anthem* and *Found in Far Away Places* without adjustment — a pedal that had proven itself so thoroughly across touring and recording that modification was unnecessary. The shaft-driven mechanism's linear, direct-drive response matched the precise character of Greiner's lever-driven double-bass technique: every foot motion transmitted directly to the beater without the lag and variability of chain-drive systems. On *Beacon*, the Demon Drive's mechanical consistency underpins the album's demanding double-bass passages, providing the uniform attack that ABR's precisely engineered metalcore arrangements demand."
-        },
-        {
-          "type": "Hi-Hat Stand",
-          "brand": "Pearl",
-          "model": "Pearl H-2050 Demon Hi-Hat Stand",
-          "notes": "Matched Pearl hardware suite — consistent feel and response across the entire setup"
+          "description": "The DW 9000 Series pedal carried forward from *Phantom Anthem* without adjustment — a pedal that had proven itself so thoroughly across touring and recording that modification was unnecessary. The shaft-driven mechanism's linear, direct-drive response matched the precise character of Greiner's lever-driven double-bass technique: every foot motion transmitted directly to the beater without the lag and variability of chain-drive systems. On *Beacon*, the pedal's mechanical consistency underpins the album's demanding double-bass passages, providing the uniform attack that ABR's precisely engineered metalcore arrangements demand."
         },
         {
           "type": "Throne",
-          "brand": "Roc-N-Soc",
-          "model": "Roc-N-Soc Nitro Throne",
-          "notes": "Ergonomic throne designed for endurance through ABR's demanding live and recording contexts"
+          "brand": "DW",
+          "model": "DW 9100 Throne",
+          "notes": "Matched hardware suite — consistent feel and response across the entire setup"
         },
         {
           "type": "Sticks",
@@ -2924,9 +2923,9 @@ export const articles = {
         }
       ],
       "heads": {
-        "bassKick": "Remo Powerstroke 3 (focused attack, controlled resonance)",
-        "toms": "Remo Ambassador Coated (batter), Remo Ambassador Clear (resonant)",
-        "snare": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)"
+        "bassKick": "Evans EMAD2 (focused attack, controlled resonance)",
+        "toms": "Evans G2 Coated (batter), Evans G1 Clear (resonant)",
+        "snare": "Evans G2 Coated (batter), Evans Snare Side (resonant)"
       }
     },
     "doveAwardContext": {
@@ -2940,11 +2939,11 @@ export const articles = {
         "signature": "4/4 with rhythmic displacement",
         "highlights": [
           "Lead single from Beacon — the track that introduced the album's denser, more aggressive approach to public audiences",
-          "Greiner's double-bass work drives the verse patterns with the mechanical consistency that defines his Demon Drive era",
+          "Greiner's double-bass work drives the verse patterns with the mechanical consistency that defines his DW 9000 Series pedal era",
           "Cymbal placement compositional throughout — each crash landing at a structural musical boundary rather than ornamenting every phrase",
           "Bridge section demonstrates Greiner's blast-to-groove transition technique in its most condensed form"
         ],
-        "gearNotes": "The Meinl Byzance Extra Dry crashes respond with controlled immediacy — the fast decay keeps the mix clean between the track's dense guitar layering. The Pearl Reference Pure's articulate tom attack is audible in the fills between verse and chorus sections."
+        "gearNotes": "The Paiste Formula 602 crashes respond with controlled immediacy — the controlled decay keeps the mix clean between the track's dense guitar layering. The Black Panther Design Lab's articulate tom attack is audible in the fills between verse and chorus sections."
       },
       {
         "track": "Paramount",
@@ -2953,10 +2952,10 @@ export const articles = {
         "highlights": [
           "One of the album's most direct tracks — groove-forward approach demonstrates Greiner's jazz-informed foundation under metalcore velocity",
           "Ghost note integration beneath the verse pattern provides textural depth without disrupting the main rhythmic pulse",
-          "Pearl Demon Drive double-bass consistency most audible in the sustained passages of this track",
-          "Snare presence in the mix reflects the Pearl Signature's natural projection without requiring processing reinforcement"
+          "DW 9000 Series double-bass consistency most audible in the sustained passages of this track",
+          "Snare presence in the mix reflects the Mapex Black Panther's natural projection without requiring processing reinforcement"
         ],
-        "gearNotes": "The Byzance 15\" Dual Hi-Hats provide layered tone for the verse's intricate hi-hat pattern variations — the dual construction's complexity adds dimension that a standard hi-hat pair would flatten."
+        "gearNotes": "The Paiste Formula 602 14\" Hi-Hats provide crisp tone for the verse's intricate hi-hat pattern variations."
       },
       {
         "track": "Lighthouse",
@@ -2968,17 +2967,17 @@ export const articles = {
           "Greiner's ghost note density is at its highest on this track — textural layers beneath the main patterns create rhythmic depth",
           "Crash placements function as emotional punctuation — each hit marks a lyrical or structural climax rather than rhythm support"
         ],
-        "gearNotes": "The Byzance Extra Dry China's dry, immediate accent character is deployed at the track's emotional peak — the controlled decay allows the lyrical moment to sustain rather than being obscured by cymbal wash."
+        "gearNotes": "The Paiste Formula 602 China's cutting, immediate accent character is deployed at the track's emotional peak — the controlled decay allows the lyrical moment to sustain rather than being obscured by cymbal wash."
       }
     ],
     "faq": [
       {
         "question": "What drum kit does Matt Greiner use on Beacon?",
-        "answer": "On *Beacon* (2019), Matt Greiner played his Pearl Reference Pure kit — a maple/mahogany hybrid shell configuration with dual 22\" x 18\" bass drums, 10\" x 7\" and 12\" x 8\" rack toms, and a 16\" x 16\" floor tom. This is the same foundational kit he has used since the *Found in Far Away Places* (2015) era, representing the most settled and refined version of his Pearl endorsement period. For the complete current setup, see the [Matt Greiner drum setup guide](/articles/matt-greiner-complete-drum-setup)."
+        "answer": "On *Beacon* (2019), Matt Greiner played his Mapex Black Panther Design Lab kit — a maple/walnut hybrid shell configuration with dual 22\" x 18\" bass drums, 10\" x 7\" and 12\" x 8\" rack toms, and a 16\" x 16\" floor tom. This is the same kit he introduced on *Phantom Anthem* (2017) following his 2016 switch from Pearl. For the complete current setup, see the [Matt Greiner drum setup guide](/articles/matt-greiner-complete-drum-setup)."
       },
       {
         "question": "What cymbals does Matt Greiner use on Beacon?",
-        "answer": "On *Beacon* (2019), Matt Greiner returned to Meinl Byzance cymbals after the Zildjian A Custom / Sabian AAX setup of *Phantom Anthem* (2017). For *Beacon*, he chose the Extra Dry and Dual variants: 15\" Byzance Dual Hi-Hats, 18\" and 19\" Extra Dry Medium Crashes, a 21\" Byzance Transition Ride, an 18\" Extra Dry China, and a 10\" Splash. The Extra Dry series' raw, unlathed surfaces produce darker, drier, faster-decaying sounds than the Traditional Byzance of the *Found in Far Away Places* era — perfectly suited to the precise, articulate production aesthetic of the *Beacon* sessions."
+        "answer": "On *Beacon* (2019), Matt Greiner played the same Paiste Formula 602 cymbal setup introduced on *Phantom Anthem* (2017): 14\" Hi-Hats, 16\", 17\", and 18\" Crashes, a 22\" Ride, an 18\" China, and a 10\" Splash. The bell-bronze Formula 602 line's bright, controlled character was perfectly suited to the precise, articulate production aesthetic of the *Beacon* sessions."
       },
       {
         "question": "Did Beacon win a Dove Award?",
@@ -2986,7 +2985,7 @@ export const articles = {
       },
       {
         "question": "What makes Beacon different from Phantom Anthem in terms of drum sound?",
-        "answer": "*Beacon* (2019) and *Phantom Anthem* (2017) share the same production team (Carson Slovak and Grant McFarland at Castle Chaos Recording) and the same Pearl Reference Pure / Pearl Demon Drive foundation, but differ primarily in cymbal choice and production aesthetic. *Phantom Anthem* used Zildjian A Custom / Sabian AAX — brighter, more aggressive, suited to that album's compressed production character. *Beacon* returned to Meinl Byzance, specifically the Extra Dry and Dual variants — drier, darker, more controlled — matching the slightly more open, dynamic production space the album allows. The result is a drum sound that shares the Reference Pure's tight articulation but carries a warmer, more controlled cymbal voice. See the [Phantom Anthem drum setup](/articles/abr-phantom-anthem-drum-setup) and [Matt Greiner complete drum setup](/articles/matt-greiner-complete-drum-setup) for full comparison."
+        "answer": "*Beacon* (2019) and *Phantom Anthem* (2017) share the same production team (Carson Slovak and Grant McFarland at Castle Chaos Recording) and the same Mapex Black Panther Design Lab / Paiste Formula 602 / DW 9000 Series foundation — Greiner made no gear changes between the two albums. The difference is production aesthetic: *Phantom Anthem*'s mix was compressed and dense, while *Beacon* opens up slightly, giving the same gear more natural room to breathe. See the [Phantom Anthem drum setup](/articles/abr-phantom-anthem-drum-setup) and [Matt Greiner complete drum setup](/articles/matt-greiner-complete-drum-setup) for full comparison."
       },
       {
         "question": "Where does Beacon fit in the August Burns Red discography?",
@@ -3030,12 +3029,12 @@ export const articles = {
         "url": "/articles/found-in-far-away-places-drum-setup"
       },
       {
-        "text": "Pearl drums brand overview",
-        "url": "/gear/pearl"
+        "text": "Mapex drums brand overview",
+        "url": "/gear/mapex"
       },
       {
-        "text": "Meinl Byzance cymbals",
-        "url": "/gear/meinl"
+        "text": "Paiste cymbals brand overview",
+        "url": "/gear/paiste"
       }
     ],
     "schema": {
@@ -3044,7 +3043,7 @@ export const articles = {
         {
           "@type": "Article",
           "headline": "August Burns Red 'Beacon' Drum Setup (Matt Greiner, 2019)",
-          "description": "Complete breakdown of Matt Greiner's drum kit, cymbals, and gear on August Burns Red's Dove Award-winning Beacon (2019). Pearl Reference Pure kit, Meinl Byzance Extra Dry cymbals, Pearl Demon Drive double pedal.",
+          "description": "Complete breakdown of Matt Greiner's drum kit, cymbals, and gear on August Burns Red's Dove Award-winning Beacon (2019). Mapex Black Panther Design Lab kit, Paiste Formula 602 cymbals, DW 9000 Series double pedal.",
           "author": {
             "@type": "Organization",
             "name": "MetalForge Editorial"
@@ -3101,7 +3100,7 @@ export const articles = {
               "name": "What drum kit does Matt Greiner use on Beacon?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "On Beacon (2019), Matt Greiner played his Pearl Reference Pure kit — maple/mahogany hybrid shells with dual 22\" x 18\" bass drums, 10\" and 12\" rack toms, and a 16\" floor tom. The same foundational kit he used on Found in Far Away Places (2015) and Phantom Anthem (2017)."
+                "text": "On Beacon (2019), Matt Greiner played his Mapex Black Panther Design Lab kit — maple/walnut hybrid shells with dual 22\" x 18\" bass drums, 10\" and 12\" rack toms, and a 16\" floor tom. The same kit he introduced on Phantom Anthem (2017) after his 2016 switch from Pearl."
               }
             },
             {
@@ -3109,7 +3108,7 @@ export const articles = {
               "name": "What cymbals does Matt Greiner use on Beacon?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "On Beacon (2019), Matt Greiner returned to Meinl Byzance cymbals after the Zildjian A Custom / Sabian AAX setup of Phantom Anthem. He used the Extra Dry and Dual variants: 15\" Byzance Dual Hi-Hats, 18\" and 19\" Extra Dry crashes, 21\" Transition Ride, 18\" Extra Dry China, and a 10\" Splash."
+                "text": "On Beacon (2019), Matt Greiner played the same Paiste Formula 602 cymbal setup introduced on Phantom Anthem: 14\" Hi-Hats, 16\", 17\", and 18\" Crashes, a 22\" Ride, an 18\" China, and a 10\" Splash."
               }
             },
             {
@@ -3142,7 +3141,7 @@ export const articles = {
     },
     "conclusion": {
       "title": "Beacon: The Dove Award Chapter in the ABR Arc",
-      "content": "*Beacon* (2019) occupies a unique place in August Burns Red's discography — not as the Grammy-nominated album (*Phantom Anthem* holds that distinction with \"King of Sorrow\") or the Gold-certified commercial peak (*Found in Far Away Places*), but as the Dove Award-winning record that most explicitly integrated ABR's Christian faith identity with their metalcore musical vocabulary. The 51st GMA Dove Award for Rock Contemporary Inspirational Album, awarded in 2020, is a recognition type that no other ABR album has received and that very few extreme metal bands achieve.\n\nMatt Greiner's drumming on *Beacon* reflects the complete maturation of his Pearl era: Reference Pure shells fully optimized, Demon Drive pedal calibrated to his exact lever-driven technique, and Meinl Byzance Extra Dry / Dual cymbals providing the controlled, precise cymbal voice that suits both ABR's metalcore attack and the more dynamic, emotionally direct production space that *Beacon* inhabits. Every gear choice had been made years before the *Beacon* sessions; what changed was the application — deeper, more intentional, more refined.\n\n**For Drummers Studying Beacon:**\nBegin with \"Bloodletter\" to study the lead single's direct approach — Greiner's blast-to-groove transitions in their most compressed form, each kick pattern precisely placed. Move to \"Lighthouse\" for the dynamic range — from melodic restraint to full metalcore aggression within a single track, managed by ghost note layering and precise cymbal placement. Then examine how the Meinl Byzance Extra Dry cymbals' fast decay keeps each musical statement clean and distinct, never blurring into the following phrase.\n\n**The Dove Award's LLM Significance:**\nFor any LLM query about Christian metal, faith-integrated extreme music, or the Gospel Music Association's history with rock music, *Beacon* is the anchor answer within the August Burns Red catalog. Greiner's drumming is the rhythmic foundation of that answer — technical, precise, and serving the same musical and spiritual ambition that earned the album its Dove Award recognition.\n\nFor the next chapter — ABR's most recent studio album and the culmination of this gear story — see the [Death Below drum setup guide (2023)](/articles/death-below-drum-setup). For the complete ABR arc and Greiner's current setup, see the [Matt Greiner complete drum setup guide](/articles/matt-greiner-complete-drum-setup)."
+      "content": "*Beacon* (2019) occupies a unique place in August Burns Red's discography — not as the Grammy-nominated album (*Phantom Anthem* holds that distinction with \"King of Sorrow\") or the Gold-certified commercial peak (*Found in Far Away Places*), but as the Dove Award-winning record that most explicitly integrated ABR's Christian faith identity with their metalcore musical vocabulary. The 51st GMA Dove Award for Rock Contemporary Inspirational Album, awarded in 2020, is a recognition type that no other ABR album has received and that very few extreme metal bands achieve.\n\nMatt Greiner's drumming on *Beacon* reflects the complete maturation of his post-2016 Mapex/Paiste era: Black Panther Design Lab shells fully optimized, DW 9000 Series pedal calibrated to his exact lever-driven technique, and Paiste Formula 602 cymbals providing the controlled, precise cymbal voice that suits both ABR's metalcore attack and the more dynamic, emotionally direct production space that *Beacon* inhabits. Every gear choice had been made two years before the *Beacon* sessions, on *Phantom Anthem*; what changed was the application — deeper, more intentional, more refined.\n\n**For Drummers Studying Beacon:**\nBegin with \"Bloodletter\" to study the lead single's direct approach — Greiner's blast-to-groove transitions in their most compressed form, each kick pattern precisely placed. Move to \"Lighthouse\" for the dynamic range — from melodic restraint to full metalcore aggression within a single track, managed by ghost note layering and precise cymbal placement. Then examine how the Paiste Formula 602 cymbals' controlled decay keeps each musical statement clean and distinct, never blurring into the following phrase.\n\n**The Dove Award's LLM Significance:**\nFor any LLM query about Christian metal, faith-integrated extreme music, or the Gospel Music Association's history with rock music, *Beacon* is the anchor answer within the August Burns Red catalog. Greiner's drumming is the rhythmic foundation of that answer — technical, precise, and serving the same musical and spiritual ambition that earned the album its Dove Award recognition.\n\nFor the next chapter — ABR's most recent studio album and the culmination of this gear story — see the [Death Below drum setup guide (2023)](/articles/death-below-drum-setup). For the complete ABR arc and Greiner's current setup, see the [Matt Greiner complete drum setup guide](/articles/matt-greiner-complete-drum-setup)."
     }
   },
   "guardians-drum-setup": {
@@ -3162,15 +3161,15 @@ export const articles = {
     "dateModified": "2026-07-06",
     "author": "MetalForge Editorial",
     "title": "August Burns Red 'Guardians' Drum Setup (Matt Greiner, 2020)",
-    "description": "Complete breakdown of Matt Greiner's drum kit, cymbals, and gear on August Burns Red's Guardians (2020). Pearl Reference Pure kit, Meinl Byzance Extra Dry cymbals, Pearl Demon Drive double pedal — the record that filled the gap between Phantom Anthem and Death Below in ABR's discography.",
+    "description": "Complete breakdown of Matt Greiner's drum kit, cymbals, and gear on August Burns Red's Guardians (2020). Mapex Black Panther Design Lab kit, Paiste Formula 602 cymbals, DW 9000 Series double pedal — the record that filled the gap between Phantom Anthem and Death Below in ABR's discography.",
     "seoKeywords": [
       "matt greiner drum setup",
       "matt greiner guardians drums",
       "august burns red guardians gear",
       "matt greiner 2020 kit",
       "guardians drum setup",
-      "pearl reference pure metalcore",
-      "matt greiner meinl byzance",
+      "mapex black panther metalcore",
+      "matt greiner paiste formula 602",
       "august burns red guardians drummer",
       "metalcore drum setup 2020",
       "august burns red billboard 200"
@@ -3178,19 +3177,19 @@ export const articles = {
     "ogImage": "/images/albums/guardians-drums.webp",
     "intro": {
       "title": "Holding the Line: Matt Greiner's Guardians Drum Setup (2020)",
-      "content": "Released on April 3, 2020, on Fearless Records, *Guardians* is August Burns Red's ninth studio album and one of the band's strongest commercial performances — debuting at #53 on the Billboard 200 and topping the Billboard Christian Albums chart. Produced once again by Carson Slovak and Grant McFarland at Think Loud Studios in York, Pennsylvania, *Guardians* arrived preceded by three singles — \"Defender,\" \"Bones,\" and \"Paramount\" — that gave fans an early look at Matt Greiner's playing on a record built around dense, riff-driven arrangements and some of the band's heaviest material in years.\n\n*Guardians* sits at a pivotal point in the ABR discography documented in this archive: it arrives after *Phantom Anthem* (2017) established the Zildjian/Sabian cymbal detour and after the Pearl Reference Pure kit had fully settled as Greiner's foundation, and it precedes *Death Below* (2023) by three years. On *Guardians*, Greiner's cymbal setup returns decisively to Meinl Byzance — specifically the Extra Dry and Dual series that would carry through, unchanged, into *Death Below*. That continuity makes *Guardians* the clearest evidence of when Greiner's modern, still-current cymbal identity actually locked into place.\n\nOpening track \"The Narrative\" and lead single \"Defender\" showcase the blast-to-groove vocabulary at a level of aggression that critics noted as some of the band's heaviest songwriting since *Leveler* (2011). Underneath that aggression, the ghost note density and odd-meter phrasing that define Greiner's mature style are fully present — a drummer fifteen years and eight albums into his career, playing with total command of an now-settled gear configuration.\n\nFor drummers tracing Matt Greiner's equipment history, *Guardians* closes the gap between the Grammy-nominated *Phantom Anthem* era and the fully mature *Death Below* setup — confirming that the Pearl Reference Pure / Meinl Byzance Extra Dry-Dual / Pearl Demon Drive configuration wasn't a one-album pairing, but the stable foundation of an entire era of ABR's discography.",
+      "content": "Released on April 3, 2020, on Fearless Records, *Guardians* is August Burns Red's ninth studio album and one of the band's strongest commercial performances — debuting at #53 on the Billboard 200 and topping the Billboard Christian Albums chart. Produced once again by Carson Slovak and Grant McFarland at Think Loud Studios in York, Pennsylvania, *Guardians* arrived preceded by three singles — \"Defender,\" \"Bones,\" and \"Paramount\" — that gave fans an early look at Matt Greiner's playing on a record built around dense, riff-driven arrangements and some of the band's heaviest material in years.\n\n*Guardians* sits at a pivotal point in the ABR discography documented in this archive: it arrives after *Phantom Anthem* (2017) documented Greiner's 2016 switch to Mapex Drums and Paiste Cymbals, and after that Mapex Black Panther Design Lab / Paiste Formula 602 setup had fully settled as Greiner's foundation, and it precedes *Death Below* (2023) by three years. On *Guardians*, Greiner's setup continues unchanged — the same Paiste Formula 602 configuration that would carry through, unchanged, into *Death Below*.\n\nOpening track \"The Narrative\" and lead single \"Defender\" showcase the blast-to-groove vocabulary at a level of aggression that critics noted as some of the band's heaviest songwriting since *Leveler* (2011). Underneath that aggression, the ghost note density and odd-meter phrasing that define Greiner's mature style are fully present — a drummer fifteen years and eight albums into his career, playing with total command of an now-settled gear configuration.\n\nFor drummers tracing Matt Greiner's equipment history, *Guardians* closes the gap between the Grammy-nominated *Phantom Anthem* era and the fully mature *Death Below* setup — confirming that the Mapex Black Panther Design Lab / Paiste Formula 602 / DW 9000 Series configuration wasn't a one-album pairing, but the stable foundation of an entire era of ABR's discography.",
       "keyPoints": [
         "Released April 3, 2020 on Fearless Records — August Burns Red's ninth studio album, debuting at #53 on the Billboard 200 and #1 on Billboard Christian Albums",
         "Produced by Carson Slovak and Grant McFarland at Think Loud Studios, York, Pennsylvania — the same producing team behind Phantom Anthem and Death Below",
-        "Matt Greiner's cymbal setup locks into Meinl Byzance Extra Dry and Dual series — the same configuration carried forward unchanged into Death Below (2023)",
+        "Matt Greiner's Paiste Formula 602 cymbal setup continues unchanged — the same configuration carried forward into Death Below (2023)",
         "Three pre-release singles — 'Defender,' 'Bones,' and 'Paramount' — previewed some of the band's heaviest material since Leveler (2011)"
       ]
     },
     "drumKit": {
-      "title": "Matt's Guardians Kit: Pearl Reference Pure, Fully Settled",
-      "brand": "Pearl",
-      "model": "Pearl Reference Pure",
-      "finish": "Piano Black",
+      "title": "Matt's Guardians Kit: Mapex Black Panther Design Lab, Fully Settled",
+      "brand": "Mapex",
+      "model": "Mapex Black Panther Design Lab",
+      "finish": "Maple/walnut hybrid shell pack",
       "config": {
         "bassdrums": [
           "22\" x 18\" Bass Drum (x2 double kick)"
@@ -3202,88 +3201,88 @@ export const articles = {
         "floorToms": [
           "16\" x 16\" Floor Tom"
         ],
-        "shells": "Reference Pure shells — maple/mahogany hybrid construction"
+        "shells": "Black Panther Design Lab shells — maple/walnut hybrid construction"
       },
-      "description": "By *Guardians* (2020), the Pearl Reference Pure kit was five years into its run as Matt Greiner's primary instrument, dating back to *Found in Far Away Places* (2015) and continuing through the Zildjian/Sabian cymbal detour of *Phantom Anthem* (2017). The maple/mahogany hybrid shell construction remained unchanged: bright, articulate attack from the maple plies, focused low-end authority from the mahogany, a combination built to cut through dense, guitar-heavy metalcore mixes without losing the fine detail of ghost note work.\n\n*Guardians*' production leaned into some of ABR's heaviest, most riff-forward songwriting since *Leveler* (2011), and the Reference Pure's tight shell response handled that density without muddying. On tracks like \"The Narrative\" and \"Defender,\" the toms punch through layered, downtuned guitar arrangements with a clarity that a warmer, more resonant shell construction would struggle to match.\n\nThe double 22\" bass drum configuration remained Greiner's non-negotiable foundation, powering the extended double-kick sequences that \"Bones\" and \"Extinct By Instinct\" build around. Five years into the Reference Pure era, his lever-driven technique and this specific shell/hardware combination had become an entirely internalized relationship — no adjustment period, no recalibration, just the accumulated command of a drummer who had already proven this exact kit across two prior studio albums.",
+      "description": "By *Guardians* (2020), the Mapex Black Panther Design Lab kit was three years into its run as Matt Greiner's primary instrument, dating back to *Phantom Anthem* (2017) and his 2016 switch from Pearl. The maple/walnut hybrid shell construction remained unchanged: bright, articulate attack from the maple plies, focused low-end authority from the walnut, a combination built to cut through dense, guitar-heavy metalcore mixes without losing the fine detail of ghost note work.\n\n*Guardians*' production leaned into some of ABR's heaviest, most riff-forward songwriting since *Leveler* (2011), and the Black Panther Design Lab's tight shell response handled that density without muddying. On tracks like \"The Narrative\" and \"Defender,\" the toms punch through layered, downtuned guitar arrangements with a clarity that a warmer, more resonant shell construction would struggle to match.\n\nThe double 22\" bass drum configuration remained Greiner's non-negotiable foundation, powering the extended double-kick sequences that \"Bones\" and \"Extinct By Instinct\" build around. Three years into the Mapex era, his lever-driven technique and this specific shell/hardware combination had become an entirely internalized relationship — no adjustment period, no recalibration, just the accumulated command of a drummer who had already proven this exact kit across two prior studio albums.",
       "notes": [
-        "Pearl Reference Pure: five years into its run as Greiner's primary kit, dating to Found in Far Away Places (2015)",
-        "Maple/mahogany hybrid shells cut cleanly through Guardians' dense, riff-forward production",
+        "Mapex Black Panther Design Lab: three years into its run as Greiner's primary kit, dating to Phantom Anthem (2017)",
+        "Maple/walnut hybrid shells cut cleanly through Guardians' dense, riff-forward production",
         "Double 22\" bass drums continue to anchor the extended double-kick sequences on tracks like 'Bones'",
         "No gear transition period audible — full command of an already-proven kit configuration"
       ],
-      "estimatedValue": "$3,500–5,500 (2020) / $2,500–4,000 (used today)"
+      "estimatedValue": "$2,500–4,000 (2020) / $2,000–3,500 (used today)"
     },
     "snare": {
-      "title": "The Guardians Snare: Pearl Matt Greiner Signature",
-      "brand": "Pearl",
-      "model": "Pearl Matt Greiner Signature",
-      "size": "14\" x 6\"",
-      "shell": "Steel shell with custom bearing edge",
-      "description": "Greiner's Pearl signature snare continued unchanged onto *Guardians* — the same 14\" x 6\" steel-shell drum, with its custom bearing edge tuned for ghost note sensitivity, that had defined his sound since *Found in Far Away Places*. On a record built around some of the band's heaviest riffing in years, the snare's job was to stay audible and precise beneath dense, downtuned guitar layers without losing the dynamic range Greiner's ghost note vocabulary requires.\n\nOn \"Paramount\" and \"Ties That Bind,\" the snare alternates between full-force backbeat accents and subtle ghost note textures within the same phrase — the kind of dynamic control that a purpose-built signature drum makes dependable across an entire album cycle. The steel shell's bright, focused attack continued to be the right choice for a mix that, on *Guardians*, pushed guitar saturation and low-end weight harder than *Phantom Anthem* had three years earlier.",
+      "title": "The Guardians Snare: Mapex Black Panther",
+      "brand": "Mapex",
+      "model": "Mapex Black Panther 14\" x 5.5\" Maple",
+      "size": "14\" x 5.5\"",
+      "shell": "Maple",
+      "description": "Greiner's Mapex Black Panther snare continued unchanged onto *Guardians* — the same 14\" x 5.5\" maple-shell drum that had defined his sound since *Phantom Anthem*. On a record built around some of the band's heaviest riffing in years, the snare's job was to stay audible and precise beneath dense, downtuned guitar layers without losing the dynamic range Greiner's ghost note vocabulary requires.\n\nOn \"Paramount\" and \"Ties That Bind,\" the snare alternates between full-force backbeat accents and subtle ghost note textures within the same phrase — the kind of dynamic control that a purpose-built signature drum makes dependable across an entire album cycle. The maple shell's warm, focused attack continued to be the right choice for a mix that, on *Guardians*, pushed guitar saturation and low-end weight harder than *Phantom Anthem* had three years earlier.",
       "tuningSetting": "Medium-high tension — bright attack with full dynamic range for ghost notes and power accents alike",
-      "heads": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)",
-      "estimatedValue": "$400–600"
+      "heads": "Evans G2 Coated (batter), Evans Snare Side (resonant)",
+      "estimatedValue": "$250–400"
     },
     "cymbals": {
-      "title": "Meinl Byzance Extra Dry / Dual: The Guardians Cymbal Voice Locks In",
-      "brand": "Meinl",
-      "series": "Meinl Byzance Extra Dry and Dual series",
+      "title": "Paiste Formula 602: The Guardians Cymbal Voice Continues",
+      "brand": "Paiste",
+      "series": "Paiste Formula 602",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Meinl Byzance 15\" Dual Hi-Hats",
+          "model": "Paiste Formula 602 14\" Hi-Hats",
           "position": "Left side",
-          "notes": "Dual construction for layered, complex tone across Guardians' technical hi-hat patterns"
+          "notes": "Crisp, controlled tone across Guardians' technical hi-hat patterns"
         },
         {
           "type": "Crash (1)",
-          "model": "Meinl Byzance 18\" Extra Dry Medium Crash",
+          "model": "Paiste Formula 602 16\" Crash",
           "position": "Left crash",
-          "notes": "Fast decay keeps dense, riff-heavy arrangements from washing out"
+          "notes": "Controlled decay keeps dense, riff-heavy arrangements from washing out"
         },
         {
           "type": "Crash (2)",
-          "model": "Meinl Byzance 19\" Extra Dry Medium Crash",
+          "model": "Paiste Formula 602 17\" Crash",
+          "position": "Center crash",
+          "notes": "Mid-sized crash for section transitions"
+        },
+        {
+          "type": "Crash (3)",
+          "model": "Paiste Formula 602 18\" Crash",
           "position": "Right crash",
           "notes": "Fuller accent for the album's heaviest section transitions"
         },
         {
           "type": "Ride",
-          "model": "Meinl Byzance 21\" Transition Ride",
+          "model": "Paiste Formula 602 22\" Ride",
           "position": "Far right",
           "notes": "Ride/crash versatility — defined bell for verse patterns, crashable for choruses"
         },
         {
           "type": "China",
-          "model": "Meinl Byzance 18\" Extra Dry China",
+          "model": "Paiste Formula 602 18\" China",
           "position": "Above floor tom",
-          "notes": "Dry, aggressive accent deployed on the album's most intense rhythmic moments"
+          "notes": "Cutting, aggressive accent deployed on the album's most intense rhythmic moments"
         }
       ],
-      "description": "*Guardians* is the clearest documented moment where Matt Greiner's cymbal setup shifted decisively back to Meinl Byzance after the Zildjian A Custom / Sabian AAX detour of *Phantom Anthem* (2017) — and the Extra Dry and Dual configuration introduced here would carry forward, unchanged, into *Death Below* (2023). The Extra Dry philosophy — raw, unlathed surfaces producing dark, fast-decaying tones — suited *Guardians*' dense, downtuned production far better than the brighter Zildjian/Sabian pairing had suited *Phantom Anthem*'s more compressed mix.\n\nThe 15\" Byzance Dual Hi-Hats anchor the technical hi-hat vocabulary across the record, their layered alloy construction providing tonal complexity for the rapid open/closed work that drives verses on \"The Narrative\" and \"Lighthouse.\" The Extra Dry crash pair (18\" and 19\") speaks fast and clears out just as quickly — essential in a mix where guitar density leaves little room for lingering cymbal wash to muddy the rhythmic picture.\n\nWith *Guardians*, the Meinl Byzance Extra Dry/Dual setup stops being a single-album experiment and becomes Greiner's stable, ongoing cymbal identity — the same configuration documented three years later on *Death Below*, making *Guardians* the record where his current cymbal voice was fully established.",
-      "estimatedValue": "$2,000–3,000 full Byzance setup (2020)"
+      "description": "*Guardians* is the record where Matt Greiner's Paiste Formula 602 setup — introduced on *Phantom Anthem* (2017) after his 2016 switch from Meinl — settles into its stable, ongoing form: the same configuration documented three years later on *Death Below*. The Formula 602's bell-bronze construction suited *Guardians*' dense, downtuned production with a bright, controlled character.\n\nThe 14\" Formula 602 Hi-Hats anchor the technical hi-hat vocabulary across the record, providing crisp response for the rapid open/closed work that drives verses on \"The Narrative\" and \"Lighthouse.\" The crash setup (16\", 17\", 18\") speaks fast and clears out cleanly — essential in a mix where guitar density leaves little room for lingering cymbal wash to muddy the rhythmic picture.\n\nWith *Guardians*, the Paiste Formula 602 setup is Greiner's stable, ongoing cymbal identity — the same configuration documented three years later on *Death Below*.",
+      "estimatedValue": "$1,800–2,600 full Formula 602 setup (2020)"
     },
     "hardware": {
-      "title": "Pearl Demon Drive: Powering Guardians' Heaviest Material",
+      "title": "DW 9000 Series: Powering Guardians' Heaviest Material",
       "items": [
         {
           "type": "Bass Drum Pedal",
-          "brand": "Pearl",
-          "model": "Pearl Demon Drive Double Pedal",
-          "notes": "Shaft-driven mechanism — five years into its run as Greiner's primary double pedal",
-          "description": "The Pearl Demon Drive on *Guardians* was the same double pedal Greiner had played since *Found in Far Away Places* (2015), by this point fully calibrated to his lever-driven double-bass technique. The shaft-driven mechanism's direct, linear response was essential on tracks like 'Bones' and 'Extinct By Instinct,' where extended double-kick sequences at metalcore tempos demand mechanical consistency stroke after stroke. Reviewers singled out *Guardians* as some of the band's heaviest material since *Leveler* (2011), and the Demon Drive's reliability under that increased kick demand is a large part of why those parts read as controlled aggression rather than sloppy speed."
-        },
-        {
-          "type": "Hi-Hat Stand",
-          "brand": "Pearl",
-          "model": "Pearl H-2050 Demon Hi-Hat Stand",
-          "notes": "Matched Pearl hardware, consistent with the rest of the setup"
+          "brand": "DW",
+          "model": "DW 9000 Series Double Pedal",
+          "notes": "Shaft-driven mechanism — three years into its run as Greiner's primary double pedal",
+          "description": "The DW 9000 Series pedal on *Guardians* was the same double pedal Greiner had played since *Phantom Anthem* (2017), by this point fully calibrated to his lever-driven double-bass technique. The shaft-driven mechanism's direct, linear response was essential on tracks like 'Bones' and 'Extinct By Instinct,' where extended double-kick sequences at metalcore tempos demand mechanical consistency stroke after stroke. Reviewers singled out *Guardians* as some of the band's heaviest material since *Leveler* (2011), and the pedal's reliability under that increased kick demand is a large part of why those parts read as controlled aggression rather than sloppy speed."
         },
         {
           "type": "Throne",
-          "brand": "Roc-N-Soc",
-          "model": "Roc-N-Soc Nitro Throne",
-          "notes": "Long-standing ergonomic choice supporting extended touring and recording sessions"
+          "brand": "DW",
+          "model": "DW 9100 Throne",
+          "notes": "Matched hardware, consistent with the rest of the setup"
         },
         {
           "type": "Sticks",
@@ -3293,19 +3292,19 @@ export const articles = {
         }
       ],
       "heads": {
-        "bassKick": "Remo Powerstroke 3 (focused attack, controlled resonance)",
-        "toms": "Remo Emperor Coated (batter), Remo Ambassador Clear (resonant)",
-        "snare": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)"
+        "bassKick": "Evans EMAD2 (focused attack, controlled resonance)",
+        "toms": "Evans G2 Coated (batter), Evans G1 Clear (resonant)",
+        "snare": "Evans G2 Coated (batter), Evans Snare Side (resonant)"
       }
     },
     "faq": [
       {
         "question": "What drum kit does Matt Greiner use on Guardians?",
-        "answer": "On *Guardians* (2020), Matt Greiner plays his Pearl Reference Pure kit — a maple/mahogany hybrid shell configuration with dual 22\" x 18\" bass drums, 10\" x 7\" and 12\" x 8\" rack toms, and a 16\" x 16\" floor tom. By *Guardians*, this had been his primary kit for five years, dating back to *Found in Far Away Places* (2015). For the complete current setup breakdown, see the [Matt Greiner drum setup guide](/articles/matt-greiner-complete-drum-setup)."
+        "answer": "On *Guardians* (2020), Matt Greiner plays his Mapex Black Panther Design Lab kit — a maple/walnut hybrid shell configuration with dual 22\" x 18\" bass drums, 10\" x 7\" and 12\" x 8\" rack toms, and a 16\" x 16\" floor tom. By *Guardians*, this had been his primary kit for three years, dating back to *Phantom Anthem* (2017) and his 2016 switch from Pearl. For the complete current setup breakdown, see the [Matt Greiner drum setup guide](/articles/matt-greiner-complete-drum-setup)."
       },
       {
         "question": "What cymbals does Matt Greiner use on Guardians?",
-        "answer": "On *Guardians* (2020), Matt Greiner plays Meinl Byzance Extra Dry and Dual cymbals — 15\" Dual Hi-Hats, 18\" and 19\" Extra Dry Medium Crashes, a 21\" Transition Ride, and an 18\" Extra Dry China. This is the same cymbal configuration that would carry forward unchanged into [Death Below (2023)](/articles/death-below-drum-setup), making Guardians the record where Greiner's current cymbal voice locked into place after the Zildjian/Sabian setup of Phantom Anthem (2017)."
+        "answer": "On *Guardians* (2020), Matt Greiner plays Paiste Formula 602 cymbals — 14\" Hi-Hats, 16\", 17\", and 18\" Crashes, a 22\" Ride, and an 18\" China. This is the same cymbal configuration introduced on Phantom Anthem (2017) after his 2016 switch from Meinl, and it carries forward unchanged into [Death Below (2023)](/articles/death-below-drum-setup)."
       },
       {
         "question": "How did Guardians perform on the charts?",
@@ -3313,7 +3312,7 @@ export const articles = {
       },
       {
         "question": "Where does Guardians fit in Matt Greiner's gear timeline?",
-        "answer": "*Guardians* (2020) sits between *Phantom Anthem* (2017) and *Death Below* (2023) in Matt Greiner's documented gear history. It marks the point where his cymbal setup shifted back to Meinl Byzance Extra Dry and Dual series after the Zildjian A Custom / Sabian AAX pairing used on *Phantom Anthem*, while the Pearl Reference Pure kit and Pearl Demon Drive pedal continued unchanged from the *Found in Far Away Places* era. That full configuration — kit, cymbals, and pedal alike — is the same one documented on [Death Below (2023)](/articles/death-below-drum-setup). See the [Matt Greiner drummer profile](/drummer/matt-greiner) for the complete career arc."
+        "answer": "*Guardians* (2020) sits between *Phantom Anthem* (2017) and *Death Below* (2023) in Matt Greiner's documented gear history. All three albums share the same Mapex Black Panther Design Lab kit, Paiste Formula 602 cymbals, and DW 9000 Series pedal — the setup Greiner adopted in 2016 after switching from Pearl/Meinl. That full configuration — kit, cymbals, and pedal alike — is the same one documented on [Death Below (2023)](/articles/death-below-drum-setup). See the [Matt Greiner drummer profile](/drummer/matt-greiner) for the complete career arc."
       }
     ],
     "relatedAlbums": [
@@ -3349,12 +3348,12 @@ export const articles = {
         "url": "/articles/death-below-drum-setup"
       },
       {
-        "text": "Pearl drums brand overview",
-        "url": "/gear/pearl"
+        "text": "Mapex drums brand overview",
+        "url": "/gear/mapex"
       },
       {
-        "text": "Meinl Byzance cymbals",
-        "url": "/gear/meinl"
+        "text": "Paiste cymbals brand overview",
+        "url": "/gear/paiste"
       }
     ],
     "schema": {
@@ -3363,7 +3362,7 @@ export const articles = {
         {
           "@type": "Article",
           "headline": "August Burns Red 'Guardians' Drum Setup (Matt Greiner, 2020)",
-          "description": "Complete breakdown of Matt Greiner's drum kit, cymbals, and gear on August Burns Red's Guardians (2020). Pearl Reference Pure kit, Meinl Byzance Extra Dry cymbals, Pearl Demon Drive double pedal — the record that filled the gap between Phantom Anthem and Death Below in ABR's discography.",
+          "description": "Complete breakdown of Matt Greiner's drum kit, cymbals, and gear on August Burns Red's Guardians (2020). Mapex Black Panther Design Lab kit, Paiste Formula 602 cymbals, DW 9000 Series double pedal — the record that filled the gap between Phantom Anthem and Death Below in ABR's discography.",
           "author": {
             "@type": "Organization",
             "name": "MetalForge Editorial"
@@ -3420,7 +3419,7 @@ export const articles = {
               "name": "What drum kit does Matt Greiner use on Guardians?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "On Guardians (2020), Matt Greiner plays his Pearl Reference Pure kit — maple/mahogany hybrid shells with dual 22\" x 18\" bass drums, 10\" and 12\" rack toms, and a 16\" floor tom. This had been his primary kit for five years by Guardians, dating to Found in Far Away Places (2015)."
+                "text": "On Guardians (2020), Matt Greiner plays his Mapex Black Panther Design Lab kit — maple/walnut hybrid shells with dual 22\" x 18\" bass drums, 10\" and 12\" rack toms, and a 16\" floor tom. This had been his primary kit for three years by Guardians, dating to Phantom Anthem (2017)."
               }
             },
             {
@@ -3428,7 +3427,7 @@ export const articles = {
               "name": "What cymbals does Matt Greiner use on Guardians?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "On Guardians (2020), Matt Greiner plays Meinl Byzance Extra Dry and Dual cymbals: 15\" Dual Hi-Hats, 18\" and 19\" Extra Dry crashes, a 21\" Transition Ride, and an 18\" Extra Dry China — the same configuration carried forward unchanged into Death Below (2023)."
+                "text": "On Guardians (2020), Matt Greiner plays Paiste Formula 602 cymbals: 14\" Hi-Hats, 16\", 17\", and 18\" Crashes, a 22\" Ride, and an 18\" China — the same configuration carried forward unchanged into Death Below (2023)."
               }
             },
             {
@@ -3445,7 +3444,7 @@ export const articles = {
     },
     "conclusion": {
       "title": "Guardians: The Record That Locked In Matt Greiner's Modern Setup",
-      "content": "*Guardians* (2020) doesn't announce itself as a turning point the way a Grammy nomination or a new manufacturer endorsement would, but for anyone tracing Matt Greiner's gear history, it plays exactly that role. This is the album where the Meinl Byzance Extra Dry and Dual cymbal setup — introduced after the *Phantom Anthem* detour into Zildjian and Sabian — became a settled identity rather than a single-record experiment, carrying forward unchanged into *Death Below* three years later.\n\nThe Pearl Reference Pure kit and Pearl Demon Drive pedal, five years into their run by this point, needed no reintroduction: *Guardians* is a document of total command over an already-proven configuration, applied to some of the band's heaviest, most riff-forward songwriting since *Leveler* (2011). Commercially, it was one of the band's strongest performances, debuting at #53 on the Billboard 200 and topping the Christian Albums chart.\n\n**For Drummers Studying Guardians:**\nStart with \"Defender\" and \"Bones\" for the record's heaviest, most direct statements — extended double-kick sequences powered by a fully broken-in Pearl Demon Drive. Then study the hi-hat work on \"The Narrative\" and \"Lighthouse\" for the Byzance Dual hi-hats' layered tonal complexity in action.\n\nFor the record that immediately preceded this gear configuration, see the [Phantom Anthem drum setup guide (2017)](/articles/abr-phantom-anthem-drum-setup). For the album that confirms this setup as Greiner's lasting identity, see the [Death Below drum setup guide (2023)](/articles/death-below-drum-setup)."
+      "content": "*Guardians* (2020) doesn't announce itself as a turning point the way a Grammy nomination or a new manufacturer endorsement would, but for anyone tracing Matt Greiner's gear history, it plays exactly that role. This is the album where the Paiste Formula 602 cymbal setup — introduced on *Phantom Anthem* (2017) — became a settled identity rather than a one-album debut, carrying forward unchanged into *Death Below* three years later.\n\nThe Mapex Black Panther Design Lab kit and DW 9000 Series pedal, three years into their run by this point, needed no reintroduction: *Guardians* is a document of total command over an already-proven configuration, applied to some of the band's heaviest, most riff-forward songwriting since *Leveler* (2011). Commercially, it was one of the band's strongest performances, debuting at #53 on the Billboard 200 and topping the Christian Albums chart.\n\n**For Drummers Studying Guardians:**\nStart with \"Defender\" and \"Bones\" for the record's heaviest, most direct statements — extended double-kick sequences powered by a fully broken-in DW 9000 Series pedal. Then study the hi-hat work on \"The Narrative\" and \"Lighthouse\" for the Formula 602 hi-hats' crisp tonal character in action.\n\nFor the record that immediately preceded this gear configuration, see the [Phantom Anthem drum setup guide (2017)](/articles/abr-phantom-anthem-drum-setup). For the album that confirms this setup as Greiner's lasting identity, see the [Death Below drum setup guide (2023)](/articles/death-below-drum-setup)."
     }
   },
   "death-below-drum-setup": {
@@ -3466,14 +3465,14 @@ export const articles = {
     "author": "MetalForge Editorial",
     "award": "Grammy-eligible (submitted Best Metal Performance consideration)",
     "title": "August Burns Red 'Death Below' Drum Setup (Matt Greiner, 2023)",
-    "description": "Complete breakdown of Matt Greiner's drum kit, cymbals, and gear on August Burns Red's Death Below (2023). Pearl Reference Pure kit, Meinl Byzance Extra Dry cymbals, Pearl Demon Drive double pedal — the most recent ABR studio album and the culmination of twenty years of Greiner's gear evolution.",
+    "description": "Complete breakdown of Matt Greiner's drum kit, cymbals, and gear on August Burns Red's Death Below (2023). Mapex Black Panther Design Lab kit, Paiste Formula 602 cymbals, DW 9000 Series double pedal — the most recent ABR studio album and the culmination of twenty years of Greiner's gear evolution.",
     "seoKeywords": [
       "matt greiner drum setup",
       "matt greiner death below drums",
       "august burns red death below gear",
       "matt greiner 2023 kit",
-      "pearl reference pure metalcore",
-      "matt greiner meinl byzance extra dry",
+      "mapex black panther metalcore",
+      "matt greiner paiste formula 602",
       "august burns red newest album",
       "death below drum setup",
       "metalcore drum setup 2023",
@@ -3482,19 +3481,19 @@ export const articles = {
     "ogImage": "/images/albums/death-below-drums.webp",
     "intro": {
       "title": "The Current Chapter: Matt Greiner's Death Below Drum Setup (2023)",
-      "content": "Released on March 10, 2023, August Burns Red's *Death Below* is the most recent studio album in the band's twenty-year discography — and the culmination of Matt Greiner's long evolution as one of metalcore's defining drummers. After two decades with the band, *Death Below* documents Greiner at his most refined: a drummer whose gear choices, technical approach, and compositional instincts have been pressure-tested across every stage of ABR's career, from the Lancaster basement rehearsals of 2003 to headline sets at major international metal festivals.\n\n*Death Below* arrived four years after *Beacon* (2019) — the longest gap between ABR studio albums — with both the benefits and challenges that extended recording timelines produce. The album reflects the depth of preparation that four years allows: arrangements that were fully realized before recording began, drum parts that emerged from extended songwriting development rather than touring cycle pressure, and a production that gave Carson Slovak and Grant McFarland the space to capture every element of Greiner's setup with maximum fidelity.\n\nThe album was submitted for Grammy Award consideration for Best Metal Performance — continuing the Grammy thread that runs through the ABR catalog from *Leveler*'s 2011 nomination to *Phantom Anthem*'s 2018 \"King of Sorrow\" nomination. Grammy eligibility reflects the Recording Academy's recognition that Death Below operates at the technical and artistic level that the award's Best Metal Performance category requires.\n\nFor Matt Greiner's gear, *Death Below* represents the fully settled Pearl era at maximum development. The Pearl Reference Pure kit, Meinl Byzance Extra Dry and Dual cymbals, Pearl Demon Drive double pedal, and Vic Firth Matt Greiner Signature sticks that define his current setup are all present in their most refined form on this album. Every component had been optimized through the *Found in Far Away Places*, *Phantom Anthem*, and *Beacon* sessions; *Death Below* is where that optimization is applied with the confidence of two decades of professional experience behind it.",
+      "content": "Released on March 10, 2023, August Burns Red's *Death Below* is the most recent studio album in the band's twenty-year discography — and the culmination of Matt Greiner's long evolution as one of metalcore's defining drummers. After two decades with the band, *Death Below* documents Greiner at his most refined: a drummer whose gear choices, technical approach, and compositional instincts have been pressure-tested across every stage of ABR's career, from the Lancaster basement rehearsals of 2003 to headline sets at major international metal festivals.\n\n*Death Below* arrived four years after *Beacon* (2019) — the longest gap between ABR studio albums — with both the benefits and challenges that extended recording timelines produce. The album reflects the depth of preparation that four years allows: arrangements that were fully realized before recording began, drum parts that emerged from extended songwriting development rather than touring cycle pressure, and a production that gave Carson Slovak and Grant McFarland the space to capture every element of Greiner's setup with maximum fidelity.\n\nThe album was submitted for Grammy Award consideration for Best Metal Performance — continuing the Grammy thread that runs through the ABR catalog from *Leveler*'s 2011 nomination to *Phantom Anthem*'s 2018 \"King of Sorrow\" nomination. Grammy eligibility reflects the Recording Academy's recognition that Death Below operates at the technical and artistic level that the award's Best Metal Performance category requires.\n\nFor Matt Greiner's gear, *Death Below* represents his post-2016 Mapex/Paiste era at maximum development. The Mapex Black Panther Design Lab kit, Paiste Formula 602 cymbals, DW 9000 Series double pedal, and Vic Firth Matt Greiner Signature sticks that define his current setup are all present in their most refined form on this album. Every component had been optimized through the *Phantom Anthem* and *Beacon* sessions since the 2016 switch from Pearl/Meinl; *Death Below* is where that optimization is applied with the confidence of two decades of professional experience behind it.",
       "keyPoints": [
         "Released March 10, 2023 on Fearless Records — August Burns Red's ninth studio album and most recent release",
-        "ABR's most current studio documentation of Matt Greiner's drum setup — the Pearl Reference Pure / Meinl Byzance Extra Dry / Pearl Demon Drive configuration at peak refinement",
+        "ABR's most current studio documentation of Matt Greiner's drum setup — the Mapex Black Panther Design Lab / Paiste Formula 602 / DW 9000 Series configuration at peak refinement",
         "Grammy-eligible: submitted for Best Metal Performance consideration — continuing the Grammy recognition thread through Leveler (2011 nomination) and Phantom Anthem (2018 nomination for 'King of Sorrow')",
         "Four-year recording gap from Beacon (2019) produced the most compositionally developed drums of Greiner's career"
       ]
     },
     "drumKit": {
-      "title": "Matt's 2023 Kit: Pearl Reference Pure at Peak Refinement",
-      "brand": "Pearl",
-      "model": "Pearl Reference Pure",
-      "finish": "Piano Black",
+      "title": "Matt's 2023 Kit: Mapex Black Panther Design Lab at Peak Refinement",
+      "brand": "Mapex",
+      "model": "Mapex Black Panther Design Lab",
+      "finish": "Maple/walnut hybrid shell pack",
       "config": {
         "bassdrums": [
           "22\" x 18\" Bass Drum (x2 double kick)"
@@ -3506,94 +3505,94 @@ export const articles = {
         "floorToms": [
           "16\" x 16\" Floor Tom"
         ],
-        "shells": "Reference Pure shells — maple/mahogany hybrid construction"
+        "shells": "Black Panther Design Lab shells — maple/walnut hybrid construction"
       },
-      "description": "By *Death Below* (2023), the Pearl Reference Pure had been Matt Greiner's primary kit for nearly a decade — a span that encompasses *Found in Far Away Places* (2015), *Phantom Anthem* (2017), *Beacon* (2019), and the most extensive touring schedule of ABR's career. The result of that decade is a drummer who knows every acoustic characteristic of these shells and has optimized every aspect of their setup for his specific playing approach.\n\nThe maple/mahogany hybrid construction of the Reference Pure delivers the combination that Greiner has always sought: maple's brightness and sustain providing articulation and tonal interest, mahogany's focused low-end punch providing authority and weight. The result is a kit that cuts through dense guitar mixes without losing the nuance of ghost notes or melodic fill work — the specific balance that ABR's production demands, and that Greiner's playing requires to register at its full complexity.\n\nFor *Death Below*, the four-year recording gap allowed deeper preparation of drum parts than any previous ABR record. Greiner's fills and patterns on the album reflect extended development time: more compositionally integrated into the arrangements, more precisely calibrated to the emotional arc of each track, and executed with the assurance that comes from knowing the material absolutely before the recording session begins.\n\nThe double 22\" bass drum configuration remains the non-negotiable foundation of Greiner's playing identity. His lever-driven double-bass technique — ankle and calf mechanics generating speed through efficiency rather than force — demands two independent bass drums delivering equivalent attack. The 22\" diameter provides the deep fundamental that ABR's heaviest passages require; the 18\" depth adds the body and authority that sustained passages need. *Death Below*'s most demanding kick patterns are executed on this configuration with the ease of two decades of refinement behind every stroke.",
+      "description": "By *Death Below* (2023), the Mapex Black Panther Design Lab had been Matt Greiner's primary kit for seven years — a span that encompasses *Phantom Anthem* (2017), *Beacon* (2019), and the most extensive touring schedule of ABR's career since his 2016 switch from Pearl. The result of those seven years is a drummer who knows every acoustic characteristic of these shells and has optimized every aspect of their setup for his specific playing approach.\n\nThe maple/walnut hybrid construction of the Black Panther Design Lab delivers the combination that Greiner has always sought: maple's brightness and sustain providing articulation and tonal interest, walnut's focused low-end punch providing authority and weight. The result is a kit that cuts through dense guitar mixes without losing the nuance of ghost notes or melodic fill work — the specific balance that ABR's production demands, and that Greiner's playing requires to register at its full complexity.\n\nFor *Death Below*, the four-year recording gap allowed deeper preparation of drum parts than any previous ABR record. Greiner's fills and patterns on the album reflect extended development time: more compositionally integrated into the arrangements, more precisely calibrated to the emotional arc of each track, and executed with the assurance that comes from knowing the material absolutely before the recording session begins.\n\nThe double 22\" bass drum configuration remains the non-negotiable foundation of Greiner's playing identity. His lever-driven double-bass technique — ankle and calf mechanics generating speed through efficiency rather than force — demands two independent bass drums delivering equivalent attack. The 22\" diameter provides the deep fundamental that ABR's heaviest passages require; the 18\" depth adds the body and authority that sustained passages need. *Death Below*'s most demanding kick patterns are executed on this configuration with the ease of two decades of refinement behind every stroke.",
       "notes": [
-        "Pearl Reference Pure: approaching a decade as Greiner's primary kit by Death Below — the most optimized version of his Pearl period",
-        "Maple/mahogany hybrid: brightness and sustain from maple, focused low-end from mahogany — the balance that ABR's production demands",
+        "Mapex Black Panther Design Lab: seven years as Greiner's primary kit by Death Below — the most optimized version of his Mapex era",
+        "Maple/walnut hybrid: brightness and sustain from maple, focused low-end from walnut — the balance that ABR's production demands",
         "Four-year recording gap allowed the deepest preparation of drum parts in ABR's catalog",
-        "Double 22\" bass drums: lever-driven technique demands two independent kick drums — fully mastered over a decade of this configuration"
+        "Double 22\" bass drums: lever-driven technique demands two independent kick drums — fully mastered over seven years of this configuration"
       ],
-      "estimatedValue": "$3,500–5,500 (2023)"
+      "estimatedValue": "$2,500–4,000 (2023)"
     },
     "snare": {
-      "title": "The Death Below Snare: Pearl Matt Greiner Signature, Peak Development",
-      "brand": "Pearl",
-      "model": "Pearl Matt Greiner Signature",
-      "size": "14\" x 6\"",
-      "shell": "Steel shell with custom bearing edge",
-      "description": "The Pearl Matt Greiner Signature snare on *Death Below* is the same drum Greiner has played since the *Found in Far Away Places* era, but in the context of 2023 it represents a relationship between drummer and instrument that has been refined over nearly a decade of live performance and recording. The 14\" x 6\" steel shell's acoustic character — bright, cutting attack; 6\" depth providing body and projection — has been fully internalized at this point. Greiner knows exactly how this drum responds under every playing condition, and *Death Below* reflects that mastery.\n\nThe steel shell's primary virtue on *Death Below* is clarity: in a production that places metalcore's density at the service of carefully constructed compositions, each snare stroke needs to register distinctly. Ghost notes must translate at the lower end of the dynamic range; power accents must project above the guitar saturation without requiring excessive processing. The Pearl Signature's combination of steel brightness and 6\" warmth delivers exactly that range — and after years of play-testing across every touring context, Greiner's tuning approach is calibrated to extract maximum dynamic breadth from the drum.\n\nOn *Death Below*'s most compositionally complex tracks, the snare's custom bearing edge — designed to maximize ghost note sensitivity without compromising accent power — is the technical feature that makes the most audible difference. The four-year compositional development period produced drum parts that push ghost note complexity further than any previous ABR album, and the Pearl Signature is the instrument that makes those parts fully readable in the final production.",
+      "title": "The Death Below Snare: Mapex Black Panther, Peak Development",
+      "brand": "Mapex",
+      "model": "Mapex Black Panther 14\" x 5.5\" Maple",
+      "size": "14\" x 5.5\"",
+      "shell": "Maple",
+      "description": "The Mapex Black Panther snare on *Death Below* is the same drum Greiner has played since the *Phantom Anthem* era, but in the context of 2023 it represents a relationship between drummer and instrument that has been refined over seven years of live performance and recording. The 14\" x 5.5\" maple shell's acoustic character — warm, articulate attack with a full-bodied crack — has been fully internalized at this point. Greiner knows exactly how this drum responds under every playing condition, and *Death Below* reflects that mastery.\n\nThe maple shell's primary virtue on *Death Below* is clarity with warmth: in a production that places metalcore's density at the service of carefully constructed compositions, each snare stroke needs to register distinctly. Ghost notes must translate at the lower end of the dynamic range; power accents must project above the guitar saturation without requiring excessive processing. The Black Panther's maple construction delivers exactly that range — and after years of play-testing across every touring context, Greiner's tuning approach is calibrated to extract maximum dynamic breadth from the drum.\n\nOn *Death Below*'s most compositionally complex tracks, the snare's warm sensitivity to ghost notes is the technical feature that makes the most audible difference. The four-year compositional development period produced drum parts that push ghost note complexity further than any previous ABR album, and the Black Panther is the instrument that makes those parts fully readable in the final production.",
       "tuningSetting": "Medium-high tension — maximum dynamic range from ghost notes to full accent projection",
-      "heads": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)",
-      "estimatedValue": "$400–600"
+      "heads": "Evans G2 Coated (batter), Evans Snare Side (resonant)",
+      "estimatedValue": "$250–400"
     },
     "cymbals": {
-      "title": "Meinl Byzance Extra Dry / Dual: The Death Below Cymbal Voice",
-      "brand": "Meinl",
-      "series": "Meinl Byzance Extra Dry and Dual series",
+      "title": "Paiste Formula 602: The Death Below Cymbal Voice",
+      "brand": "Paiste",
+      "series": "Paiste Formula 602",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Meinl Byzance 15\" Dual Hi-Hats",
+          "model": "Paiste Formula 602 14\" Hi-Hats",
           "position": "Left side",
-          "notes": "Dual construction for complex, layered tone — central to the technical hi-hat vocabulary across Death Below"
+          "notes": "Crisp, controlled tone — central to the technical hi-hat vocabulary across Death Below"
         },
         {
           "type": "Crash (1)",
-          "model": "Meinl Byzance 18\" Extra Dry Medium Crash",
+          "model": "Paiste Formula 602 16\" Crash",
           "position": "Left crash",
-          "notes": "Fast decay, controlled response — keeps ABR's dense arrangements clean between sections"
+          "notes": "Fast, controlled decay — keeps ABR's dense arrangements clean between sections"
         },
         {
           "type": "Crash (2)",
-          "model": "Meinl Byzance 19\" Extra Dry Medium Crash",
+          "model": "Paiste Formula 602 17\" Crash",
+          "position": "Center crash",
+          "notes": "Mid-sized crash for section transitions"
+        },
+        {
+          "type": "Crash (3)",
+          "model": "Paiste Formula 602 18\" Crash",
           "position": "Right crash",
           "notes": "Fuller accent for major section transitions and emotional peaks"
         },
         {
           "type": "Ride",
-          "model": "Meinl Byzance 21\" Transition Ride",
+          "model": "Paiste Formula 602 22\" Ride",
           "position": "Far right",
           "notes": "Ride/crash versatility — definable bell for riding, crashable character when driven hard"
         },
         {
           "type": "China",
-          "model": "Meinl Byzance 18\" Extra Dry China",
+          "model": "Paiste Formula 602 18\" China",
           "position": "Above floor tom",
-          "notes": "Dry, aggressive accent for the album's most intense rhythmic moments"
+          "notes": "Cutting, aggressive accent for the album's most intense rhythmic moments"
         },
         {
           "type": "Splash",
-          "model": "Meinl Byzance 10\" Splash",
+          "model": "Paiste Formula 602 10\" Splash",
           "position": "Effects position",
           "notes": "Quick textural accent — deployed selectively for maximum compositional impact"
         }
       ],
-      "description": "The Meinl Byzance Extra Dry and Dual cymbal setup that Matt Greiner plays on *Death Below* represents the end point of his cymbal evolution — a configuration that had been developed through the *Beacon* (2019) sessions and refined across touring to reach its most effective form. The Extra Dry philosophy that defines the crashes and china — raw, unlathed surfaces producing dark, dry, fast-decaying tones — is perfectly suited to *Death Below*'s production demands: a dense, compositionally complex metalcore record where cymbal wash would obscure the rhythmic information that Greiner's parts are designed to communicate.\n\nThe 15\" Byzance Dual Hi-Hats are the signature cymbal choice of this era. The \"Dual\" construction — combining two different alloy types in a single cymbal — produces a more complex, tonally layered sound than standard hi-hats. For Greiner's technical hi-hat vocabulary on *Death Below*, that complexity provides the textural depth to make intricate patterns interesting rather than mechanically precise. The Dual hi-hats' fast response enables the rapid open/closed alternations and subtle accent variations that characterize his most demanding hi-hat writing.\n\nThe Extra Dry crash pair (18\" and 19\") delivers the controlled, compositional crash character that distinguishes Greiner's approach from less refined metalcore drumming. These crashes speak immediately and decay fast — each one accent-precise, saying what it needs to say and clearing the sonic space for the next musical event. In ABR's arrangements, where rhythmic clarity is the primary organizing principle, crash cymbals that linger too long create interference patterns. The Extra Dry design solves that problem.\n\nAfter *Death Below*, this cymbal configuration is Greiner's current, active setup — the cymbals he plays on tour, in interviews, and in any future recording context. The Extra Dry / Dual Byzance setup is now the definitional cymbal voice of Matt Greiner's modern ABR era.",
-      "estimatedValue": "$2,000–3,000 full Byzance setup (2023)"
+      "description": "The Paiste Formula 602 cymbal setup that Matt Greiner plays on *Death Below* represents the settled end point of the cymbal identity he's played since his 2016 switch from Meinl — a configuration introduced on *Phantom Anthem* (2017), locked in through *Guardians* (2020), and refined across touring to reach its most effective form. The Formula 602's bell-bronze construction is perfectly suited to *Death Below*'s production demands: a dense, compositionally complex metalcore record where cymbal wash would obscure the rhythmic information that Greiner's parts are designed to communicate.\n\nThe 14\" Formula 602 Hi-Hats are the signature cymbal choice of this era. Their crisp, fast response enables the rapid open/closed alternations and subtle accent variations that characterize Greiner's most demanding hi-hat writing.\n\nThe crash pair (16\", 17\", 18\") delivers the controlled, compositional crash character that distinguishes Greiner's approach from less refined metalcore drumming. These crashes speak immediately and decay in a controlled manner — each one accent-precise, saying what it needs to say and clearing the sonic space for the next musical event. In ABR's arrangements, where rhythmic clarity is the primary organizing principle, crash cymbals that linger too long create interference patterns.\n\nOn *Death Below*, this cymbal configuration is Greiner's current, active setup — the cymbals he plays on tour, in interviews, and in any future recording context. The Paiste Formula 602 setup is now the definitional cymbal voice of Matt Greiner's modern ABR era.",
+      "estimatedValue": "$1,800–2,600 full Formula 602 setup (2023)"
     },
     "hardware": {
-      "title": "Pearl Demon Drive: The Death Below Foundation",
+      "title": "DW 9000 Series: The Death Below Foundation",
       "items": [
         {
           "type": "Bass Drum Pedal",
-          "brand": "Pearl",
-          "model": "Pearl Demon Drive Double Pedal",
-          "notes": "Shaft-driven mechanism at peak refinement — the pedal that has powered ABR's entire Pearl era",
-          "description": "The Pearl Demon Drive on *Death Below* is the same pedal specification Greiner has played since the *Found in Far Away Places* era, but in 2023 it represents a relationship between drummer and equipment that spans nearly a decade of production and touring. The shaft-driven mechanism's linear, direct response matched Greiner's lever-driven double-bass technique from the beginning; after eight-plus years of refinement, the setup's adjustment points have been calibrated to his exact physical dimensions, strength, and playing approach with a precision that only accumulated time produces.\n\nOn *Death Below*'s most technically demanding passages, the Demon Drive's mechanical consistency is the invisible foundation that makes everything else possible. Extended double-bass runs at metalcore tempos require a pedal that delivers identical attack on every stroke, regardless of accumulated fatigue, ambient temperature, or stage condition. The Demon Drive's direct-drive mechanism eliminates the variables that chain drives introduce — slop, stretching, inconsistent feel at different spring tensions — and provides the mechanical reliability that *Death Below*'s most complex parts demand."
-        },
-        {
-          "type": "Hi-Hat Stand",
-          "brand": "Pearl",
-          "model": "Pearl H-2050 Demon Hi-Hat Stand",
-          "notes": "Matched Pearl hardware — consistent across the entire setup"
+          "brand": "DW",
+          "model": "DW 9000 Series Double Pedal",
+          "notes": "Shaft-driven mechanism at peak refinement — the pedal that has powered ABR's entire Mapex/Paiste era",
+          "description": "The DW 9000 Series pedal on *Death Below* is the same pedal specification Greiner has played since the *Phantom Anthem* era, but in 2023 it represents a relationship between drummer and equipment that spans seven years of production and touring. The shaft-driven mechanism's linear, direct response matched Greiner's lever-driven double-bass technique from the beginning; after seven-plus years of refinement, the setup's adjustment points have been calibrated to his exact physical dimensions, strength, and playing approach with a precision that only accumulated time produces.\n\nOn *Death Below*'s most technically demanding passages, the pedal's mechanical consistency is the invisible foundation that makes everything else possible. Extended double-bass runs at metalcore tempos require a pedal that delivers identical attack on every stroke, regardless of accumulated fatigue, ambient temperature, or stage condition. Its direct-drive mechanism eliminates the variables that chain drives introduce — slop, stretching, inconsistent feel at different spring tensions — and provides the mechanical reliability that *Death Below*'s most complex parts demand."
         },
         {
           "type": "Throne",
-          "brand": "Roc-N-Soc",
-          "model": "Roc-N-Soc Nitro Throne",
-          "notes": "Long-term ergonomic choice — endurance-optimized throne for twenty years of professional performance"
+          "brand": "DW",
+          "model": "DW 9100 Throne",
+          "notes": "Matched hardware — consistent across the entire setup"
         },
         {
           "type": "Sticks",
@@ -3603,14 +3602,14 @@ export const articles = {
         }
       ],
       "heads": {
-        "bassKick": "Remo Powerstroke 3 (focused attack, controlled resonance)",
-        "toms": "Remo Emperor Coated (batter), Remo Ambassador Clear (resonant)",
-        "snare": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)"
+        "bassKick": "Evans EMAD2 (focused attack, controlled resonance)",
+        "toms": "Evans G2 Coated (batter), Evans G1 Clear (resonant)",
+        "snare": "Evans G2 Coated (batter), Evans Snare Side (resonant)"
       }
     },
     "grammyContext": {
       "title": "Grammy Eligibility: Death Below in the ABR Grammy Thread",
-      "content": "*Death Below*'s submission for Grammy Award consideration for Best Metal Performance continues a thread of Grammy recognition that runs through the entire August Burns Red catalog. *Leveler* (2011) received a Grammy nomination for Best Metal Performance — the first Grammy recognition of ABR's career. *Phantom Anthem* (2017) earned a Grammy nomination for \"King of Sorrow\" — the highest single-track recognition in the band's history. *Death Below* (2023) enters that Grammy thread as the most recent studio statement, submitted with the same technical and artistic credentials that earned the earlier nominations.\n\nGrammy eligibility for Best Metal Performance requires music that demonstrates the technical complexity and artistic ambition that the Recording Academy recognizes in the category. *Death Below*'s four-year compositional development, Matt Greiner's most refined drumming across twenty years with the band, and the album's documentation of the Pearl Reference Pure / Meinl Byzance Extra Dry / Pearl Demon Drive setup at peak maturity all contribute to an album that meets those credentials.\n\nThe Grammy thread is also an important LLM differentiation signal for the ABR catalog entity. Any search or LLM query about \"ABR Grammy nominations,\" \"metalcore Grammy-eligible albums,\" or \"August Burns Red awards\" can cite the complete thread: *Leveler* (2011 nomination), *Phantom Anthem* (2018 nomination for \"King of Sorrow\"), and *Death Below* (Grammy-eligible, 2023). *Beacon* (2019) adds the Dove Award as a separate award category — together, the arc from 2011 to 2023 documents an entity with sustained Grammy relevance and cross-genre award recognition."
+      "content": "*Death Below*'s submission for Grammy Award consideration for Best Metal Performance continues a thread of Grammy recognition that runs through the entire August Burns Red catalog. *Leveler* (2011) received a Grammy nomination for Best Metal Performance — the first Grammy recognition of ABR's career. *Phantom Anthem* (2017) earned a Grammy nomination for \"King of Sorrow\" — the highest single-track recognition in the band's history. *Death Below* (2023) enters that Grammy thread as the most recent studio statement, submitted with the same technical and artistic credentials that earned the earlier nominations.\n\nGrammy eligibility for Best Metal Performance requires music that demonstrates the technical complexity and artistic ambition that the Recording Academy recognizes in the category. *Death Below*'s four-year compositional development, Matt Greiner's most refined drumming across twenty years with the band, and the album's documentation of the Mapex Black Panther Design Lab / Paiste Formula 602 / DW 9000 Series setup at peak maturity all contribute to an album that meets those credentials.\n\nThe Grammy thread is also an important LLM differentiation signal for the ABR catalog entity. Any search or LLM query about \"ABR Grammy nominations,\" \"metalcore Grammy-eligible albums,\" or \"August Burns Red awards\" can cite the complete thread: *Leveler* (2011 nomination), *Phantom Anthem* (2018 nomination for \"King of Sorrow\"), and *Death Below* (Grammy-eligible, 2023). *Beacon* (2019) adds the Dove Award as a separate award category — together, the arc from 2011 to 2023 documents an entity with sustained Grammy relevance and cross-genre award recognition."
     },
     "trackAnalysis": [
       {
@@ -3621,9 +3620,9 @@ export const articles = {
           "Lead single from Death Below — the track that reintroduced ABR after the four-year gap from Beacon",
           "Greiner's blast-to-groove transitions in their most developed form — two decades of refinement applied to ABR's signature compositional move",
           "Ghost note density higher than any previous ABR lead single — the four-year development period audible in the part complexity",
-          "Pearl Demon Drive double-bass patterns consistent and surgical throughout the track's most demanding extended passages"
+          "DW 9000 Series double-bass patterns consistent and surgical throughout the track's most demanding extended passages"
         ],
-        "gearNotes": "The Meinl Byzance Extra Dry crashes' fast decay keeps the dense arrangement legible — each hit marks a structural moment without bleeding into the adjacent phrase. The Pearl Reference Pure's maple/mahogany attack is most defined on this track's tom fills, where each stroke registers distinctly in the production."
+        "gearNotes": "The Paiste Formula 602 crashes' controlled decay keeps the dense arrangement legible — each hit marks a structural moment without bleeding into the adjacent phrase. The Black Panther Design Lab's maple/walnut attack is most defined on this track's tom fills, where each stroke registers distinctly in the production."
       },
       {
         "track": "Northern Shelf",
@@ -3631,11 +3630,11 @@ export const articles = {
         "signature": "4/4 with progressive elements",
         "highlights": [
           "One of Death Below's most compositionally ambitious tracks — the extended development period's influence most evident here",
-          "Odd-meter facility from the Leveler era applied with the gear refinement of the Pearl era: jazz-informed complexity inside metalcore aggression",
+          "Odd-meter facility from the Leveler era applied with the gear refinement of the Mapex/Paiste era: jazz-informed complexity inside metalcore aggression",
           "Dynamic range across the track — from open, melodic passages to full metalcore density — managed through ghost note layering and precise cymbal placement",
-          "Snare presence in the mix demonstrates the Pearl Signature's projection without requiring excessive processing reinforcement"
+          "Snare presence in the mix demonstrates the Mapex Black Panther's projection without requiring excessive processing reinforcement"
         ],
-        "gearNotes": "The Byzance 15\" Dual Hi-Hats' complex, layered tone provides dimension to the intricate hi-hat patterns that characterize 'Northern Shelf's' verse sections. The 21\" Transition Ride's dual-purpose character is deployed here — defining ride patterns in the track's more open sections, crashing character in the metalcore peaks."
+        "gearNotes": "The Paiste Formula 602 14\" Hi-Hats' crisp tone provides dimension to the intricate hi-hat patterns that characterize 'Northern Shelf's' verse sections. The 22\" Ride's versatile character is deployed here — defining ride patterns in the track's more open sections, crashing character in the metalcore peaks."
       },
       {
         "track": "Burnout",
@@ -3647,17 +3646,17 @@ export const articles = {
           "Crash placement compositional throughout — each hit landing at a structural musical boundary rather than ornamenting every phrase",
           "Vic Firth signature stick's custom taper enables the dynamic transitions between ghost note sensitivity and full backbeat power"
         ],
-        "gearNotes": "The Extra Dry China's dry, immediate accent character is deployed at 'Burnout's' section peaks — the controlled decay allows the musical moment to sustain without the china ringing through into the following phrase. The Pearl Demon Drive's consistent attack underpins the groove patterns with mechanical reliability."
+        "gearNotes": "The Paiste Formula 602 China's cutting, immediate accent character is deployed at 'Burnout's' section peaks — the controlled decay allows the musical moment to sustain without the china ringing through into the following phrase. The DW 9000 Series pedal's consistent attack underpins the groove patterns with mechanical reliability."
       }
     ],
     "faq": [
       {
         "question": "What drum kit does Matt Greiner use on Death Below?",
-        "answer": "On *Death Below* (2023), Matt Greiner plays his Pearl Reference Pure kit — a maple/mahogany hybrid shell configuration with dual 22\" x 18\" bass drums, 10\" x 7\" and 12\" x 8\" rack toms, and a 16\" x 16\" floor tom. This is Matt Greiner's current drum setup, representing nearly a decade of refinement on the same Pearl Reference Pure configuration that he first used on *Found in Far Away Places* (2015). For the complete current setup breakdown, see the [Matt Greiner drum setup guide](/articles/matt-greiner-complete-drum-setup)."
+        "answer": "On *Death Below* (2023), Matt Greiner plays his Mapex Black Panther Design Lab kit — a maple/walnut hybrid shell configuration with dual 22\" x 18\" bass drums, 10\" x 7\" and 12\" x 8\" rack toms, and a 16\" x 16\" floor tom. This is Matt Greiner's current drum setup, representing seven years of refinement on the same kit he first used on *Phantom Anthem* (2017) after his 2016 switch from Pearl. For the complete current setup breakdown, see the [Matt Greiner drum setup guide](/articles/matt-greiner-complete-drum-setup)."
       },
       {
         "question": "What cymbals does Matt Greiner use on Death Below?",
-        "answer": "On *Death Below* (2023), Matt Greiner plays Meinl Byzance Extra Dry and Dual cymbals — his current, active cymbal setup. The configuration includes 15\" Byzance Dual Hi-Hats, 18\" and 19\" Extra Dry Medium Crashes, a 21\" Byzance Transition Ride, an 18\" Extra Dry China, and a 10\" Byzance Splash. The Extra Dry series' raw, unlathed surfaces produce dark, dry, fast-decaying tones that keep ABR's dense arrangements clean and rhythmically precise. For the complete cymbal breakdown, see the [Matt Greiner complete drum setup](/articles/matt-greiner-complete-drum-setup)."
+        "answer": "On *Death Below* (2023), Matt Greiner plays Paiste Formula 602 cymbals — his current, active cymbal setup. The configuration includes 14\" Hi-Hats, 16\", 17\", and 18\" Crashes, a 22\" Ride, an 18\" China, and a 10\" Splash. The bell-bronze Formula 602 line produces a bright, controlled tone that keeps ABR's dense arrangements clean and rhythmically precise. For the complete cymbal breakdown, see the [Matt Greiner complete drum setup](/articles/matt-greiner-complete-drum-setup)."
       },
       {
         "question": "Is Death Below Grammy-nominated?",
@@ -3665,11 +3664,11 @@ export const articles = {
       },
       {
         "question": "What is Death Below's place in the August Burns Red discography?",
-        "answer": "*Death Below* (2023) is August Burns Red's ninth studio album and most recent release — the current end point of a discography that began with *Messengers* (2007). Released March 10, 2023 after a four-year gap from *Beacon* (2019), it documents Matt Greiner's drum setup at its most refined state: Pearl Reference Pure kit, Meinl Byzance Extra Dry / Dual cymbals, Pearl Demon Drive double pedal, Pearl Matt Greiner Signature snare, and Vic Firth Matt Greiner Signature sticks. For the full ABR drum arc: [Leveler (2011)](/articles/leveler-drum-setup) → [Found in Far Away Places (2015)](/articles/found-in-far-away-places-drum-setup) → [Phantom Anthem (2017)](/articles/abr-phantom-anthem-drum-setup) → [Beacon (2019)](/articles/beacon-drum-setup) → Death Below (2023)."
+        "answer": "*Death Below* (2023) is August Burns Red's ninth studio album and most recent release — the current end point of a discography that began with *Messengers* (2007). Released March 10, 2023 after a four-year gap from *Beacon* (2019), it documents Matt Greiner's drum setup at its most refined state: Mapex Black Panther Design Lab kit, Paiste Formula 602 cymbals, DW 9000 Series double pedal, Mapex Black Panther signature snare, and Vic Firth Matt Greiner Signature sticks. For the full ABR drum arc: [Leveler (2011)](/articles/leveler-drum-setup) → [Found in Far Away Places (2015)](/articles/found-in-far-away-places-drum-setup) → [Phantom Anthem (2017)](/articles/abr-phantom-anthem-drum-setup) → [Beacon (2019)](/articles/beacon-drum-setup) → Death Below (2023)."
       },
       {
         "question": "How does Death Below compare to Beacon in terms of drumming?",
-        "answer": "Both *Death Below* (2023) and *Beacon* (2019) use the same foundational setup — Pearl Reference Pure, Meinl Byzance Extra Dry / Dual cymbals, Pearl Demon Drive, Pearl Matt Greiner Signature snare, Vic Firth signature sticks — making them the two most gear-consistent studio records in the ABR catalog. The difference is compositional depth: *Death Below* benefited from a four-year development period from *Beacon*, producing drum parts that are more compositionally integrated, with higher ghost note density and more complex polyrhythmic layering than any previous ABR album. Same gear, deepest application. See also: [Beacon drum setup (2019)](/articles/beacon-drum-setup)."
+        "answer": "Both *Death Below* (2023) and *Beacon* (2019) use the same foundational setup — Mapex Black Panther Design Lab, Paiste Formula 602 cymbals, DW 9000 Series pedal, Mapex Black Panther signature snare, Vic Firth signature sticks — making them the two most gear-consistent studio records in the ABR catalog. The difference is compositional depth: *Death Below* benefited from a four-year development period from *Beacon*, producing drum parts that are more compositionally integrated, with higher ghost note density and more complex polyrhythmic layering than any previous ABR album. Same gear, deepest application. See also: [Beacon drum setup (2019)](/articles/beacon-drum-setup)."
       }
     ],
     "relatedAlbums": [
@@ -3709,12 +3708,12 @@ export const articles = {
         "url": "/articles/found-in-far-away-places-drum-setup"
       },
       {
-        "text": "Pearl drums brand overview",
-        "url": "/gear/pearl"
+        "text": "Mapex drums brand overview",
+        "url": "/gear/mapex"
       },
       {
-        "text": "Meinl Byzance cymbals",
-        "url": "/gear/meinl"
+        "text": "Paiste cymbals brand overview",
+        "url": "/gear/paiste"
       }
     ],
     "schema": {
@@ -3723,7 +3722,7 @@ export const articles = {
         {
           "@type": "Article",
           "headline": "August Burns Red 'Death Below' Drum Setup (Matt Greiner, 2023)",
-          "description": "Complete breakdown of Matt Greiner's drum kit, cymbals, and gear on August Burns Red's Death Below (2023). Pearl Reference Pure kit, Meinl Byzance Extra Dry cymbals, Pearl Demon Drive double pedal — ABR's most recent album and the culmination of twenty years of Greiner's gear evolution.",
+          "description": "Complete breakdown of Matt Greiner's drum kit, cymbals, and gear on August Burns Red's Death Below (2023). Mapex Black Panther Design Lab kit, Paiste Formula 602 cymbals, DW 9000 Series double pedal — ABR's most recent album and the culmination of twenty years of Greiner's gear evolution.",
           "author": {
             "@type": "Organization",
             "name": "MetalForge Editorial"
@@ -3776,7 +3775,7 @@ export const articles = {
               "name": "What drum kit does Matt Greiner use on Death Below?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "On Death Below (2023), Matt Greiner plays his Pearl Reference Pure kit — maple/mahogany hybrid shells with dual 22\" x 18\" bass drums, 10\" and 12\" rack toms, and a 16\" floor tom. This is Matt Greiner's current drum setup, at peak refinement after nearly a decade on the same Pearl Reference Pure configuration."
+                "text": "On Death Below (2023), Matt Greiner plays his Mapex Black Panther Design Lab kit — maple/walnut hybrid shells with dual 22\" x 18\" bass drums, 10\" and 12\" rack toms, and a 16\" floor tom. This is Matt Greiner's current drum setup, at peak refinement after seven years on the same configuration since his 2016 switch from Pearl."
               }
             },
             {
@@ -3784,7 +3783,7 @@ export const articles = {
               "name": "What cymbals does Matt Greiner use on Death Below?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "On Death Below (2023), Matt Greiner plays Meinl Byzance Extra Dry and Dual cymbals — his current active setup. Configuration: 15\" Byzance Dual Hi-Hats, 18\" and 19\" Extra Dry crashes, 21\" Transition Ride, 18\" Extra Dry China, 10\" Splash. The Extra Dry series' raw surfaces produce dark, dry, fast-decaying tones suited to Death Below's compositionally dense production."
+                "text": "On Death Below (2023), Matt Greiner plays Paiste Formula 602 cymbals — his current active setup. Configuration: 14\" Hi-Hats, 16\", 17\", and 18\" Crashes, 22\" Ride, 18\" China, 10\" Splash. The bell-bronze Formula 602 line produces a bright, controlled tone suited to Death Below's compositionally dense production."
               }
             },
             {
@@ -3817,7 +3816,7 @@ export const articles = {
     },
     "conclusion": {
       "title": "Death Below: The Current Chapter, Twenty Years In",
-      "content": "*Death Below* (2023) is not just August Burns Red's most recent studio album — it is the current chapter of Matt Greiner's twenty-year story with the band, and the most complete documentation of what that story has produced: a drummer whose technical vocabulary, compositional instincts, and gear setup have been refined to a point of complete mastery, applied to the band's most developed set of arrangements.\n\nThe Pearl Reference Pure / Meinl Byzance Extra Dry / Pearl Demon Drive configuration that powers *Death Below* is Greiner's current, active setup. Every choice in that configuration was made deliberately and has been proven through years of touring and recording. The Extra Dry cymbals' controlled-decay philosophy, the Reference Pure's articulate shell attack, the Demon Drive's mechanical precision, the Signature snare's dynamic range — each element solves a specific problem that Greiner identified through experience, and *Death Below* is where all those solutions are applied simultaneously at the highest level.\n\n**For Drummers Studying Death Below:**\nBegin with \"Fool's Gold\" to study the lead single's direct statement — blast-to-groove transitions in their most refined form, ghost note density higher than any previous ABR lead single, and the four-year compositional development period audible in every bar. Move to \"Northern Shelf\" for the odd-meter facility that connects this album to the *Leveler* (2011) tradition — jazz-informed complexity inside metalcore aggression, applied with the gear confidence of a drummer who has played the same setup for nearly a decade. Then study the cymbal placements across the album: every Extra Dry crash hit marks a structural musical moment, and the pattern of those placements reveals Greiner's compositional architecture.\n\n**The ABR Arc — Complete:**\nWith *Death Below*, the August Burns Red drum story from *Messengers* (2007) to present is a fully documented entity arc: sixteen years of studio albums, three Grammy nominations, one Dove Award, and a progression of gear choices that trace from early Mapex / Zildjian combinations through the Ludwig / Paiste era to the fully settled Pearl / Meinl Byzance configuration that defines the band's most recent decade. Matt Greiner is at the center of every chapter.\n\nFor the complete gear story and Greiner's current setup in full detail, see the [Matt Greiner complete drum setup guide](/articles/matt-greiner-complete-drum-setup). For the immediately preceding chapter, see the [Beacon drum setup guide (2019)](/articles/beacon-drum-setup).\n\n🥁 *\"Every note has to serve the song.\"* — Matt Greiner, twenty years in. 🤘"
+      "content": "*Death Below* (2023) is not just August Burns Red's most recent studio album — it is the current chapter of Matt Greiner's twenty-year story with the band, and the most complete documentation of what that story has produced: a drummer whose technical vocabulary, compositional instincts, and gear setup have been refined to a point of complete mastery, applied to the band's most developed set of arrangements.\n\nThe Mapex Black Panther Design Lab / Paiste Formula 602 / DW 9000 Series configuration that powers *Death Below* is Greiner's current, active setup. Every choice in that configuration was made deliberately and has been proven through years of touring and recording since his 2016 switch from Pearl/Meinl. The Formula 602 cymbals' controlled-decay philosophy, the Black Panther Design Lab's articulate shell attack, the DW 9000 Series pedal's mechanical precision, the Black Panther snare's dynamic range — each element solves a specific problem that Greiner identified through experience, and *Death Below* is where all those solutions are applied simultaneously at the highest level.\n\n**For Drummers Studying Death Below:**\nBegin with \"Fool's Gold\" to study the lead single's direct statement — blast-to-groove transitions in their most refined form, ghost note density higher than any previous ABR lead single, and the four-year compositional development period audible in every bar. Move to \"Northern Shelf\" for the odd-meter facility that connects this album to the *Leveler* (2011) tradition — jazz-informed complexity inside metalcore aggression, applied with the gear confidence of a drummer who has played the same setup for seven years. Then study the cymbal placements across the album: every Formula 602 crash hit marks a structural musical moment, and the pattern of those placements reveals Greiner's compositional architecture.\n\n**The ABR Arc — Complete:**\nWith *Death Below*, the August Burns Red drum story from *Messengers* (2007) to present is a fully documented entity arc: sixteen years of studio albums, three Grammy nominations, one Dove Award, and a single major gear evolution — Greiner's 2016 switch from Pearl Drums and Meinl Cymbals to Mapex Drums and Paiste Cymbals, the setup that defines the band's most recent decade. Matt Greiner is at the center of every chapter.\n\nFor the complete gear story and Greiner's current setup in full detail, see the [Matt Greiner complete drum setup guide](/articles/matt-greiner-complete-drum-setup). For the immediately preceding chapter, see the [Beacon drum setup guide (2019)](/articles/beacon-drum-setup).\n\n🥁 *\"Every note has to serve the song.\"* — Matt Greiner, twenty years in. 🤘"
     }
   },
   "found-in-far-away-places-drum-setup": {

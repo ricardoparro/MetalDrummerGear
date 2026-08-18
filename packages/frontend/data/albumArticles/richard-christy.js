@@ -42,9 +42,9 @@ export const articles = {
       ]
     },
     "drumKit": {
-      "title": "Richard's Peak Metal Era Setup: Pearl Masters Custom",
-      "brand": "Pearl",
-      "model": "Pearl Masters Custom",
+      "title": "Richard's Peak Metal Era Setup: Tama Starclassic Maple",
+      "brand": "Tama",
+      "model": "Tama Starclassic Maple",
       "finish": "Black",
       "config": {
         "bassdrums": [
@@ -60,9 +60,9 @@ export const articles = {
         ],
         "shells": "Maple shells"
       },
-      "description": "During his years with Death, Control Denied, and Iced Earth, Richard Christy relied on Pearl Masters Custom drums. The choice made sense: Pearl's maple shells provided the clarity and attack needed for technical death metal, while the Masters line offered the durability required for extensive touring.\n\nThe 22\" bass drum was deeper than typical death metal setups of the era, providing the low-end punch that \"The Sound of Perseverance\" required. Unlike drummers who favored 18\" or 20\" kicks for faster response, Christy's deeper shell added weight to his double bass patterns without sacrificing speed.\n\nHis tom setup was practical and efficient — two rack toms (10\" and 12\") and two floor toms (14\" and 16\"). This configuration allowed the complex fill work that characterizes \"Spirit Crusher\" and \"Flesh and the Power It Holds\" while maintaining the accessibility needed for Death's progressive arrangements.\n\nThe maple shells delivered exactly what technical death metal demands: clear note definition even at extreme speeds, attack that cuts through dense guitar work, and enough body to prevent the kit from sounding thin on ballads and quieter passages. \"Voice of the Soul\" (Death's instrumental) showcases this versatility — the same kit that powers blast beats also sings on melodic sections.\n\nFor Iced Earth, Christy maintained similar shell sizes but occasionally adjusted for the band's more anthemic, less technically demanding material.",
+      "description": "During his years with Death, Control Denied, and Iced Earth, Richard Christy relied on Tama Starclassic Maple drums. The choice made sense: Tama's maple shells provided the clarity and attack needed for technical death metal, while the Starclassic line offered the durability required for extensive touring.\n\nThe 22\" bass drum was deeper than typical death metal setups of the era, providing the low-end punch that \"The Sound of Perseverance\" required. Unlike drummers who favored 18\" or 20\" kicks for faster response, Christy's deeper shell added weight to his double bass patterns without sacrificing speed.\n\nHis tom setup was practical and efficient — two rack toms (10\" and 12\") and two floor toms (14\" and 16\"). This configuration allowed the complex fill work that characterizes \"Spirit Crusher\" and \"Flesh and the Power It Holds\" while maintaining the accessibility needed for Death's progressive arrangements.\n\nThe maple shells delivered exactly what technical death metal demands: clear note definition even at extreme speeds, attack that cuts through dense guitar work, and enough body to prevent the kit from sounding thin on ballads and quieter passages. \"Voice of the Soul\" (Death's instrumental) showcases this versatility — the same kit that powers blast beats also sings on melodic sections.\n\nFor Iced Earth, Christy maintained similar shell sizes but occasionally adjusted for the band's more anthemic, less technically demanding material.",
       "notes": [
-        "Pearl Masters Custom — professional-grade maple shells",
+        "Tama Starclassic Maple — professional-grade maple shells",
         "22\" bass drum deeper than typical death metal setups",
         "Standard 4-piece tom configuration for flexibility",
         "Same basic setup used for Death, Control Denied, and Iced Earth"
@@ -71,11 +71,11 @@ export const articles = {
     },
     "snare": {
       "title": "The Snare Sound of Perseverance",
-      "brand": "Pearl",
-      "model": "Pearl Sensitone or Masters Maple",
-      "size": "14\" x 5.5\" or 14\" x 6.5\"",
-      "shell": "Maple or Steel",
-      "description": "Richard Christy's snare work on \"The Sound of Perseverance\" demonstrates remarkable control at extreme speeds. His snare of choice during the Death era was typically a Pearl Sensitone or Masters Maple — drums that offered the sensitivity needed for ghost notes while providing the crack required to cut through Chuck Schuldiner's dense guitar arrangements.\n\nThe 14\" x 5.5\" dimension was common for his setup, though he occasionally used a 6.5\" depth for more body. The snare tone on TSOP is tight, focused, and musical — listen to the opening of \"Scavenger of Human Sorrow\" for proof. Even at extreme tempos, each stroke remains clear and defined.\n\nProducer Jim Morris at Morrisound Recording (where Death recorded) was known for capturing drum sounds that combined natural tone with clarity. Christy's snare was tuned medium-high for maximum cut and sensitivity, essential for the dynamic range Death's progressive arrangements demanded.\n\nThe steel Sensitone option provided additional cut for heavier sections, while the maple Masters offered warmth for more nuanced passages. This flexibility was crucial for an album that ranges from blast-beat fury to acoustic interludes.",
+      "brand": "Tama",
+      "model": "Tama Starclassic 14\"x6.5\" Maple",
+      "size": "14\" x 6.5\"",
+      "shell": "Maple",
+      "description": "Richard Christy's snare work on \"The Sound of Perseverance\" demonstrates remarkable control at extreme speeds. His snare of choice during the Death era was a Tama Starclassic 14\"x6.5\" Maple — a drum that offered the sensitivity needed for ghost notes while providing the crack required to cut through Chuck Schuldiner's dense guitar arrangements.\n\nThe 6.5\" depth added body without sacrificing responsiveness. The snare tone on TSOP is tight, focused, and musical — listen to the opening of \"Scavenger of Human Sorrow\" for proof. Even at extreme tempos, each stroke remains clear and defined.\n\nProducer Jim Morris at Morrisound Recording (where Death recorded) was known for capturing drum sounds that combined natural tone with clarity. Christy's snare was tuned medium-high for maximum cut and sensitivity, essential for the dynamic range Death's progressive arrangements demanded.\n\nThe maple shell offered warmth for nuanced passages while still cutting through dense arrangements — flexibility that was crucial for an album that ranges from blast-beat fury to acoustic interludes.",
       "tuningSetting": "Medium-high tension for cut and sensitivity",
       "heads": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)",
       "estimatedValue": "$300-500 (late 1990s) / $250-450 (used today)"
@@ -293,9 +293,9 @@ export const articles = {
       ]
     },
     "drumKit": {
-      "title": "Richard's Morrisound Setup: Pearl Masters Custom",
-      "brand": "Pearl",
-      "model": "Pearl Masters Custom",
+      "title": "Richard's Morrisound Setup: Tama Starclassic Maple",
+      "brand": "Tama",
+      "model": "Tama Starclassic Maple",
       "finish": "Piano Black",
       "config": {
         "bassdrums": [
@@ -311,9 +311,9 @@ export const articles = {
         ],
         "shells": "Maple shells with optimized bearing edges"
       },
-      "description": "For \"The Sound of Perseverance,\" Richard Christy used a Pearl Masters Custom kit — the flagship maple series that offered exactly what technical death metal demanded: clarity, attack, and projection.\n\nThe 22\" x 18\" bass drum was notably deeper than many death metal setups of the era. While drummers like Gene Hoglan (Richard's predecessor in Death) often favored tighter kicks for quicker response, Christy's deeper shell provided the low-end weight that Chuck Schuldiner wanted for this album's sound. The result was double bass patterns with presence — each stroke punched through without becoming muddy.\n\nThe four-tom configuration (10\", 12\", 14\", 16\") gave Christy the melodic canvas he needed for Perseverance's progressive arrangements. His fills aren't just technical exercises — they're compositional elements that Chuck specifically wrote around. Listen to the bridge sections of \"Flesh and the Power It Holds\" to hear how the toms sing.\n\nPearl's maple shells delivered the articulation crucial for this album's complex passages. At 200+ BPM, every stroke needs definition. The Masters Custom's optimized bearing edges and maple construction ensured that even the fastest ghost notes registered clearly. This wasn't gear chosen for endorsement money — it was gear chosen because it worked.\n\nFor the softer passages — particularly \"Voice of the Soul\" — the same kit demonstrated remarkable versatility. The toms ring musically rather than aggressively, the kick provides foundation without dominance, the overall sound serves the composition perfectly.",
+      "description": "For \"The Sound of Perseverance,\" Richard Christy used a Tama Starclassic Maple kit — the flagship maple series that offered exactly what technical death metal demanded: clarity, attack, and projection.\n\nThe 22\" x 18\" bass drum was notably deeper than many death metal setups of the era. While drummers like Gene Hoglan (Richard's predecessor in Death) often favored tighter kicks for quicker response, Christy's deeper shell provided the low-end weight that Chuck Schuldiner wanted for this album's sound. The result was double bass patterns with presence — each stroke punched through without becoming muddy.\n\nThe four-tom configuration (10\", 12\", 14\", 16\") gave Christy the melodic canvas he needed for Perseverance's progressive arrangements. His fills aren't just technical exercises — they're compositional elements that Chuck specifically wrote around. Listen to the bridge sections of \"Flesh and the Power It Holds\" to hear how the toms sing.\n\nTama's maple shells delivered the articulation crucial for this album's complex passages. At 200+ BPM, every stroke needs definition. The Starclassic's optimized bearing edges and maple construction ensured that even the fastest ghost notes registered clearly. This wasn't gear chosen for endorsement money — it was gear chosen because it worked.\n\nFor the softer passages — particularly \"Voice of the Soul\" — the same kit demonstrated remarkable versatility. The toms ring musically rather than aggressively, the kick provides foundation without dominance, the overall sound serves the composition perfectly.",
       "notes": [
-        "Pearl Masters Custom — professional maple shells",
+        "Tama Starclassic Maple — professional maple shells",
         "22\" x 18\" bass drum deeper than typical death metal setups",
         "Four-tom configuration for melodic fill work",
         "Same kit used for both brutal and delicate passages"
@@ -322,11 +322,11 @@ export const articles = {
     },
     "snare": {
       "title": "The Snare That Cut Through Darkness",
-      "brand": "Pearl",
-      "model": "Pearl Sensitone Heritage Steel or Masters Maple",
-      "size": "14\" x 5.5\"",
-      "shell": "Steel or Maple depending on session",
-      "description": "The snare sound on \"The Sound of Perseverance\" is immediately recognizable — tight, cutting, and articulate at any tempo. Richard Christy alternated between a Pearl Sensitone steel and Masters Maple snare depending on the song's requirements.\n\nFor heavier tracks like \"Scavenger of Human Sorrow\" and \"Spirit Crusher,\" the steel Sensitone provided the crack and cut needed to slice through Chuck's dense guitar arrangements. The 14\" x 5.5\" dimensions offered enough body for rim shots while maintaining the response required for ghost notes at extreme tempos.\n\nFor more nuanced passages, particularly on \"Voice of the Soul\" and the quieter sections of \"Flesh and the Power It Holds,\" the maple option provided warmth and musicality. Death's progressive evolution demanded a snare that could scream and whisper.\n\nEngineer Jim Morris captured both with careful microphone placement — SM57 on top for attack, AKG C451 underneath for snare response. The blend allowed Christy's dynamics to translate fully. His ghost notes register clearly; his accents crack without harshness.\n\nTuning was medium-high for maximum articulation. At the speeds Christy played, anything looser would have resulted in a flappy, undefined sound. The tight tuning also helped during the complex sticking patterns that characterize tracks like \"The Flesh and the Power It Holds.\"",
+      "brand": "Tama",
+      "model": "Tama Starclassic 14\"x6.5\" Maple",
+      "size": "14\" x 6.5\"",
+      "shell": "Maple",
+      "description": "The snare sound on \"The Sound of Perseverance\" is immediately recognizable — tight, cutting, and articulate at any tempo. Richard Christy relied on a Tama Starclassic 14\"x6.5\" Maple snare for the album's sessions.\n\nFor heavier tracks like \"Scavenger of Human Sorrow\" and \"Spirit Crusher,\" the maple shell provided the crack and cut needed to slice through Chuck's dense guitar arrangements. The 14\" x 6.5\" dimensions offered enough body for rim shots while maintaining the response required for ghost notes at extreme tempos.\n\nFor more nuanced passages, particularly on \"Voice of the Soul\" and the quieter sections of \"Flesh and the Power It Holds,\" the same maple snare provided warmth and musicality. Death's progressive evolution demanded a snare that could scream and whisper.\n\nEngineer Jim Morris captured it with careful microphone placement — SM57 on top for attack, AKG C451 underneath for snare response. The blend allowed Christy's dynamics to translate fully. His ghost notes register clearly; his accents crack without harshness.\n\nTuning was medium-high for maximum articulation. At the speeds Christy played, anything looser would have resulted in a flappy, undefined sound. The tight tuning also helped during the complex sticking patterns that characterize tracks like \"The Flesh and the Power It Holds.\"",
       "tuningSetting": "Medium-high tension for maximum articulation at extreme speeds",
       "heads": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)",
       "estimatedValue": "$350-500 (1998) / $300-450 (used today)"

@@ -40,10 +40,10 @@ export const articles = {
       ]
     },
     "drumKit": {
-      "title": "Pete's Classic Setup: Tama Power",
-      "brand": "Tama",
-      "model": "Tama Artstar II / Starclassic Performer",
-      "finish": "Various (Black, Wine Red)",
+      "title": "Pete's Classic Setup: ddrum",
+      "brand": "ddrum",
+      "model": "ddrum (specific series unconfirmed)",
+      "finish": "Unconfirmed",
       "config": {
         "bassdrums": [
           "22\" x 18\" Bass Drum (x2 for live shows)",
@@ -57,28 +57,27 @@ export const articles = {
           "14\" x 14\" Floor Tom",
           "16\" x 16\" Floor Tom"
         ],
-        "shells": "Birch/Basswood (Artstar) or Maple/Birch (Starclassic)"
+        "shells": "Unconfirmed"
       },
-      "description": "Throughout his career with Morbid Angel, Pete Sandoval built his sound on Tama drums. His preference for Tama's aggressive attack and focused projection made them the ideal choice for the relentless speed and power his music demanded.\n\nDuring the classic Morbid Angel era (1989-1995), Pete primarily used Tama Artstar II kits. The birch/basswood shells provided the attack and cut needed to slice through Trey Azagthoth's dense guitar tones. Unlike many metal drummers who favor massive bass drums, Pete often used standard 22\" kicks — the speed came from technique, not drum size.\n\nFor live shows, Pete typically employed a double bass drum setup rather than a double pedal, giving him the visual impact and slightly different feel that matched Morbid Angel's theatrical live presence. However, in the studio, he often recorded with a single bass drum and double pedal for consistency and mic placement simplicity.\n\nHis tom configuration remained relatively compact: two rack toms (10\" and 12\") and two floor toms (14\" and 16\"). This setup provided melodic options without excessive complexity. Pete's tom work, while secondary to his kick and snare assault, added depth to songs like \"Maze of Torment\" and \"Fall from Grace.\"\n\nThe shells' natural attack, combined with Pete's tuning preferences (medium-high for articulation), created the punchy, defined sound that characterized early Florida death metal recordings at Morrisound Studios.",
+      "description": "Throughout his career with Morbid Angel, Pete Sandoval has been a ddrum endorser, using their drums on the band's most iconic recordings — the specific series has not been publicly confirmed.\n\nUnlike many metal drummers who favor massive bass drums, Pete often used standard 22\" kicks — the speed came from technique, not drum size.\n\nFor live shows, Pete typically employed a double bass drum setup rather than a double pedal, giving him the visual impact and slightly different feel that matched Morbid Angel's theatrical live presence. However, in the studio, he often recorded with a single bass drum and double pedal for consistency and mic placement simplicity.\n\nHis tom configuration remained relatively compact: two rack toms (10\" and 12\") and two floor toms (14\" and 16\"). This setup provided melodic options without excessive complexity. Pete's tom work, while secondary to his kick and snare assault, added depth to songs like \"Maze of Torment\" and \"Fall from Grace.\"",
       "notes": [
-        "Tama Artstar II during classic era (1989-1995)",
-        "Transitioned to Starclassic Performer later in career",
+        "ddrum endorser for much of his career (specific series unconfirmed)",
         "Double bass drums live, often single with double pedal in studio",
         "Compact tom setup focused on speed and efficiency",
-        "Partnered with Morrisound Studios for the definitive Florida death metal sound"
+        "Recorded at Morrisound Studios for the definitive Florida death metal sound"
       ],
-      "estimatedValue": "$3,000-5,000 (vintage Artstar II) / $2,500-4,000 (Starclassic Performer)"
+      "estimatedValue": "Unconfirmed"
     },
     "snare": {
       "title": "The Snare That Defined Death Metal",
-      "brand": "Tama",
-      "model": "Tama Metalworks Steel Snare",
+      "brand": "ddrum",
+      "model": "ddrum (specific model unconfirmed)",
       "size": "14\" x 5.5\" / 14\" x 6.5\"",
-      "shell": "Steel",
-      "description": "The snare drum sound on \"Altars of Madness\" and \"Blessed Are the Sick\" is unmistakable — a cutting, machine-gun crack that powers through every blast beat. Pete achieved this with Tama Metalworks steel snares, tuned high for maximum articulation.\n\nThe steel shell provides the bright, aggressive attack that cuts through dense death metal arrangements. Unlike wood shells that can warm up and \"bloom,\" steel maintains its sharp character even under the most intense playing. For blast beats at extreme tempos, this consistency is essential.\n\nPete typically used a 14\" x 5.5\" or 14\" x 6.5\" depth, depending on the era and recording. The shallower drum offered quicker response for his fastest passages, while the deeper option provided more body for groove sections.\n\nHis tuning approach prioritized projection over warmth. High tension on both heads, tight snare wires, and minimal muffling created a snare that spoke clearly on every stroke. During the Morrisound recordings, engineer Scott Burns captured this sound with a combination of close-miked top and bottom placement that became the blueprint for death metal production.\n\nThe gravity blast technique Pete pioneered puts unique demands on a snare drum. The stick must bounce consistently at extreme speeds, requiring a drum that responds identically to every stroke. The Metalworks steel's consistent response made it ideal for this revolutionary technique.",
+      "shell": "Unconfirmed",
+      "description": "The snare drum sound on \"Altars of Madness\" and \"Blessed Are the Sick\" is unmistakable — a cutting, machine-gun crack that powers through every blast beat, tuned high for maximum articulation.\n\nPete typically used a 14\" x 5.5\" or 14\" x 6.5\" depth, depending on the era and recording. The shallower drum offered quicker response for his fastest passages, while the deeper option provided more body for groove sections.\n\nHis tuning approach prioritized projection over warmth. High tension on both heads, tight snare wires, and minimal muffling created a snare that spoke clearly on every stroke. During the Morrisound recordings, engineer Scott Burns captured this sound with a combination of close-miked top and bottom placement that became the blueprint for death metal production.\n\nThe gravity blast technique Pete pioneered puts unique demands on a snare drum. The stick must bounce consistently at extreme speeds, requiring a drum that responds identically to every stroke.",
       "tuningSetting": "High tension, tight snare wires for maximum attack and response",
       "heads": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)",
-      "estimatedValue": "$200-350 (Metalworks steel snare)"
+      "estimatedValue": "Unconfirmed"
     },
     "cymbals": {
       "title": "The Paiste Attack",
@@ -130,21 +129,21 @@ export const articles = {
       "items": [
         {
           "type": "Bass Drum Pedals",
-          "brand": "Tama",
-          "model": "Tama Iron Cobra Power Glide Double Pedal",
+          "brand": "ddrum",
+          "model": "ddrum (specific pedal model unconfirmed)",
           "notes": "The powerhouse behind Pete's legendary footwork",
-          "description": "Pete's double bass ability is legendary, and the Tama Iron Cobra provided the foundation. The Power Glide cam offers smooth, consistent action that supports sustained high-speed playing. Later in his career, Pete also used the Speed Cobra for its lighter feel. His ankle motion technique, combined with proper pedal setup, enabled the relentless 200+ BPM double bass that defined Morbid Angel's sound."
+          "description": "Pete's double bass ability is legendary. His ankle motion technique, combined with proper pedal setup, enabled the relentless 200+ BPM double bass that defined Morbid Angel's sound."
         },
         {
           "type": "Hi-Hat Stand",
-          "brand": "Tama",
-          "model": "Tama Iron Cobra Hi-Hat Stand",
+          "brand": "ddrum",
+          "model": "ddrum (specific model unconfirmed)",
           "notes": "Heavy-duty for consistent response"
         },
         {
           "type": "Throne",
-          "brand": "Tama",
-          "model": "Tama 1st Chair",
+          "brand": "ddrum",
+          "model": "ddrum (specific model unconfirmed)",
           "notes": "Ergonomic support for demanding performances"
         },
         {
@@ -178,13 +177,13 @@ export const articles = {
       "thenVsNow": [
         {
           "category": "Kit",
-          "then": "Tama Artstar II",
-          "now": "Tama Starclassic / Various"
+          "then": "ddrum (specific series unconfirmed)",
+          "now": "ddrum (specific series unconfirmed)"
         },
         {
           "category": "Snare",
-          "then": "Tama Metalworks Steel 14x5.5\"",
-          "now": "Tama Steel Snares"
+          "then": "ddrum 14x5.5\" (model unconfirmed)",
+          "now": "ddrum (model unconfirmed)"
         },
         {
           "category": "Cymbals",
@@ -193,8 +192,8 @@ export const articles = {
         },
         {
           "category": "Pedals",
-          "then": "Tama Iron Cobra",
-          "now": "Tama Speed Cobra / Iron Cobra"
+          "then": "ddrum (model unconfirmed)",
+          "now": "ddrum (model unconfirmed)"
         },
         {
           "category": "Technique",
@@ -297,15 +296,15 @@ export const articles = {
       "title": "Pete's Gear You Can Still Buy Today",
       "items": [
         {
-          "item": "Tama Starclassic Performer Drums",
+          "item": "ddrum Drum Kit (specific series unconfirmed)",
           "available": true,
-          "priceRange": "$2,500-4,000",
-          "notes": "Modern equivalent of Pete's classic setup"
+          "priceRange": "Unconfirmed",
+          "notes": "Pete's brand, but the exact series has not been publicly confirmed"
         },
         {
-          "item": "Tama Metalworks Steel Snare",
+          "item": "ddrum Snare (specific model unconfirmed)",
           "available": true,
-          "priceRange": "$200-350",
+          "priceRange": "Unconfirmed",
           "notes": "The classic death metal snare"
         },
         {
@@ -315,16 +314,10 @@ export const articles = {
           "notes": "Still the most aggressive cymbals available"
         },
         {
-          "item": "Tama Iron Cobra Power Glide Double Pedal",
+          "item": "ddrum Bass Drum Pedal (specific model unconfirmed)",
           "available": true,
-          "priceRange": "$350-450",
+          "priceRange": "Unconfirmed",
           "notes": "The pedal that powered a genre"
-        },
-        {
-          "item": "Tama Speed Cobra Double Pedal",
-          "available": true,
-          "priceRange": "$400-500",
-          "notes": "Lighter alternative Pete used later in career"
         },
         {
           "item": "Vic Firth 2B / 5B Sticks",
@@ -351,7 +344,7 @@ export const articles = {
     "faq": [
       {
         "question": "What drum kit does Pete Sandoval use with Morbid Angel?",
-        "answer": "Pete Sandoval has used a combination of Tama Artstar II and Tama Starclassic Performer kits throughout his career with Morbid Angel. His live setup includes dual 22x18 inch bass drums, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. Shell materials have varied between birch/basswood and maple/birch configurations. He pairs these with a Tama Metalworks Steel snare at either 14x5.5 or 14x6.5 inches, delivering the sharp, aggressive attack that defines his brutal death metal style."
+        "answer": "Pete Sandoval has been a ddrum endorser for much of his career with Morbid Angel, though the specific series he uses has not been publicly confirmed. His live setup includes dual 22x18 inch bass drums, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. He pairs these with a ddrum snare at either 14x5.5 or 14x6.5 inches (specific model unconfirmed), delivering the sharp, aggressive attack that defines his brutal death metal style."
       },
       {
         "question": "What cymbals does Pete Sandoval use with Morbid Angel?",
@@ -359,12 +352,12 @@ export const articles = {
       },
       {
         "question": "How much does Pete Sandoval's Morbid Angel drum kit cost?",
-        "answer": "A vintage Tama Artstar II kit in good condition now sells for $3,000 to $5,000 on the used market, with newer Starclassic Performer equivalents priced similarly new. His Tama Metalworks Steel snare adds $200 to $350. A full Paiste RUDE cymbal setup matching his configuration runs approximately $1,500 to $2,500. A complete replica of his rig would cost $5,000 to $8,000, depending on which era kit you source."
+        "answer": "Pete's specific ddrum series and snare model haven't been publicly confirmed, so an exact price for his personal rig isn't available. A full Paiste RUDE cymbal setup matching his configuration runs approximately $1,500 to $2,500."
       }
     ],
     "conclusion": {
       "title": "The Foundation of Extreme",
-      "content": "Pete Sandoval's influence on extreme metal drumming is immeasurable. Before \"Altars of Madness,\" there was no template for death metal drumming. Thrash existed, punk existed, but the synthesis of speed, brutality, and technical precision that defined death metal was created in Tampa, Florida, by Pete Sandoval and his contemporaries.\n\nThe gravity blast technique he pioneered remains a standard tool for extreme metal drummers. His double bass patterns influenced everyone from George Kollias to Flo Mounier. His approach to blast beats — combining speed with groove — showed that extreme metal could be musical, not just fast.\n\nBeyond technique, Pete brought an intensity that's difficult to quantify. Watching footage of classic Morbid Angel shows a drummer possessed, channeling something beyond mere physical ability. That energy, that commitment to extreme expression, defined death metal's spirit.\n\nThe gear Pete used — Tama drums, Paiste RUDE cymbals, Iron Cobra pedals — remains available today. The path he blazed can be followed by anyone willing to put in the practice. But replicating Pete Sandoval means more than copying his gear or patterns. It means bringing genuine intensity and commitment to your playing.\n\nFor drummers studying Pete Sandoval:\n\n- **Master fundamentals first**: Speed means nothing without control\n- **Practice the gravity blast carefully**: It's a technique that requires patience\n- **Prioritize endurance**: Death metal demands sustained intensity\n- **Protect your body**: Pete's injury shows the importance of proper technique\n- **Bring intensity**: Technical ability alone doesn't make death metal\n\nThree decades after \"Altars of Madness\" changed everything, Pete Sandoval remains the godfather of extreme metal drumming. His influence echoes in every blast beat, every double bass fill, every gravity blast in death metal.\n\n🤘 *Where it all began. The foundation of death metal drumming.* 🤘"
+      "content": "Pete Sandoval's influence on extreme metal drumming is immeasurable. Before \"Altars of Madness,\" there was no template for death metal drumming. Thrash existed, punk existed, but the synthesis of speed, brutality, and technical precision that defined death metal was created in Tampa, Florida, by Pete Sandoval and his contemporaries.\n\nThe gravity blast technique he pioneered remains a standard tool for extreme metal drummers. His double bass patterns influenced everyone from George Kollias to Flo Mounier. His approach to blast beats — combining speed with groove — showed that extreme metal could be musical, not just fast.\n\nBeyond technique, Pete brought an intensity that's difficult to quantify. Watching footage of classic Morbid Angel shows a drummer possessed, channeling something beyond mere physical ability. That energy, that commitment to extreme expression, defined death metal's spirit.\n\nThe gear Pete used — ddrum drums, Paiste RUDE cymbals — remains available today. The path he blazed can be followed by anyone willing to put in the practice. But replicating Pete Sandoval means more than copying his gear or patterns. It means bringing genuine intensity and commitment to your playing.\n\nFor drummers studying Pete Sandoval:\n\n- **Master fundamentals first**: Speed means nothing without control\n- **Practice the gravity blast carefully**: It's a technique that requires patience\n- **Prioritize endurance**: Death metal demands sustained intensity\n- **Protect your body**: Pete's injury shows the importance of proper technique\n- **Bring intensity**: Technical ability alone doesn't make death metal\n\nThree decades after \"Altars of Madness\" changed everything, Pete Sandoval remains the godfather of extreme metal drumming. His influence echoes in every blast beat, every double bass fill, every gravity blast in death metal.\n\n🤘 *Where it all began. The foundation of death metal drumming.* 🤘"
     }
   },
   "altars-of-madness-drum-setup": {
@@ -408,9 +401,9 @@ export const articles = {
     },
     "drumKit": {
       "title": "Pete's 1989 Setup: The Death Metal Foundation",
-      "brand": "Tama",
-      "model": "Tama Superstar (early configuration)",
-      "finish": "Black",
+      "brand": "ddrum",
+      "model": "ddrum (specific series unconfirmed)",
+      "finish": "Unconfirmed",
       "config": {
         "bassdrums": [
           "22\" x 16\" Bass Drum (x2)"
@@ -423,28 +416,27 @@ export const articles = {
           "14\" x 14\" Floor Tom",
           "16\" x 16\" Floor Tom"
         ],
-        "shells": "Birch shells with Tama's Superstar construction"
+        "shells": "Unconfirmed"
       },
-      "description": "For Altars of Madness, Pete Sandoval used a Tama Superstar kit — a professional-level setup that offered the attack and projection needed for the extreme speeds he was pioneering. The birch shells provided the punchy, focused sound that would become essential to death metal.\n\nThe double 22\" x 16\" bass drums were the foundation of Pete's revolutionary style. While double bass drumming existed in thrash metal, Sandoval took it to unprecedented speeds and sustained it for entire songs. The Superstar's birch construction gave each stroke definition even at tempos exceeding 200 BPM.\n\nPete's tom configuration was relatively minimal by later standards — two rack toms and two floor toms. This focused setup kept the kit manageable while still providing options for his signature fills. The emphasis was on speed and endurance, not elaborate tom runs.\n\nThe drums were tuned medium-tight for maximum attack and minimal sustain. This tuning approach, combined with Morrisound's close-miking techniques, created the dry, punchy sound that defined the album. Every stroke was distinct, even during the fastest passages.",
+      "description": "For Altars of Madness, Pete Sandoval played a ddrum kit — his specific series has not been publicly confirmed. Whatever the exact configuration, it provided the attack and projection needed for the extreme speeds he was pioneering.\n\nThe double 22\" x 16\" bass drums were the foundation of Pete's revolutionary style. While double bass drumming existed in thrash metal, Sandoval took it to unprecedented speeds and sustained it for entire songs.\n\nPete's tom configuration was relatively minimal by later standards — two rack toms and two floor toms. This focused setup kept the kit manageable while still providing options for his signature fills. The emphasis was on speed and endurance, not elaborate tom runs.\n\nThe drums were tuned medium-tight for maximum attack and minimal sustain. This tuning approach, combined with Morrisound's close-miking techniques, created the dry, punchy sound that defined the album. Every stroke was distinct, even during the fastest passages.",
       "notes": [
         "Double bass drums essential for sustained blast beats",
-        "Birch shells provided attack and focus for extreme speeds",
         "Medium-tight tuning for maximum clarity",
         "Minimal configuration focused on speed and control",
-        "This setup would evolve into Pete's later Pearl endorsement"
+        "ddrum endorser for much of his career (specific era-by-era series unconfirmed)"
       ],
-      "estimatedValue": "$1,500-2,500 (1989) / $3,000-5,000 (vintage today)"
+      "estimatedValue": "Unconfirmed"
     },
     "snare": {
       "title": "The Crack That Started It All",
-      "brand": "Tama",
-      "model": "Tama Superstar Steel Snare",
+      "brand": "ddrum",
+      "model": "ddrum (specific model unconfirmed)",
       "size": "14\" x 6.5\"",
-      "shell": "Steel",
-      "description": "The snare sound on Altars of Madness is distinctive — cutting, aggressive, with a crack that punches through the album's dense guitar sound. Pete achieved this with a Tama steel snare, tuned high for maximum attack.\n\nThe 14\" x 6.5\" dimensions provided the depth needed for body while the steel shell delivered the brightness and projection essential for death metal. At the extreme tempos Pete was playing, the snare needed to cut through without getting lost in the wall of sound.\n\nEngineer Scott Burns positioned the snare mic (a Shure SM57) close to the drum, capturing the immediate attack while minimizing bleed from the surrounding kit. This close-miking technique became standard for extreme metal production.\n\nPete tuned the snare high and cranked the snare wires tight, eliminating ring and maximizing definition. The result was a snare that remained articulate even during blast beats exceeding 200 BPM — a sound that countless death metal bands have tried to replicate.",
+      "shell": "Unconfirmed",
+      "description": "The snare sound on Altars of Madness is distinctive — cutting, aggressive, with a crack that punches through the album's dense guitar sound, tuned high for maximum attack.\n\nThe 14\" x 6.5\" dimensions provided the depth needed for body while delivering the brightness and projection essential for death metal. At the extreme tempos Pete was playing, the snare needed to cut through without getting lost in the wall of sound.\n\nEngineer Scott Burns positioned the snare mic (a Shure SM57) close to the drum, capturing the immediate attack while minimizing bleed from the surrounding kit. This close-miking technique became standard for extreme metal production.\n\nPete tuned the snare high and cranked the snare wires tight, eliminating ring and maximizing definition. The result was a snare that remained articulate even during blast beats exceeding 200 BPM — a sound that countless death metal bands have tried to replicate.",
       "tuningSetting": "High tension, tight snare wires for extreme clarity",
       "heads": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)",
-      "estimatedValue": "$200-300 (1989)"
+      "estimatedValue": "Unconfirmed"
     },
     "cymbals": {
       "title": "Paiste Warfare",
@@ -490,21 +482,21 @@ export const articles = {
       "items": [
         {
           "type": "Bass Drum Pedals",
-          "brand": "Tama",
-          "model": "Tama Camco-style Chain Drive Pedals",
-          "notes": "Early chain drive design, used as single pedals on each bass drum",
+          "brand": "ddrum",
+          "model": "ddrum (specific pedal model unconfirmed)",
+          "notes": "Used as single pedals on each bass drum",
           "description": "Pete used individual pedals on each bass drum rather than a connected double pedal system. This gave him independence and power, essential for the sustained double bass assault that defined his style."
         },
         {
           "type": "Hi-Hat Stand",
-          "brand": "Tama",
-          "model": "Tama Titan",
+          "brand": "ddrum",
+          "model": "ddrum (specific model unconfirmed)",
           "notes": "Heavy-duty stand for aggressive footwork"
         },
         {
           "type": "Throne",
-          "brand": "Tama",
-          "model": "Tama 1st Chair",
+          "brand": "ddrum",
+          "model": "ddrum (specific model unconfirmed)",
           "notes": "Basic but functional for long sessions"
         },
         {
@@ -611,17 +603,17 @@ export const articles = {
     },
     "evolution": {
       "title": "From Altars to Legend: Pete's Journey",
-      "content": "Altars of Madness established Pete Sandoval as one of death metal's founding fathers. The techniques he developed on this album would be refined over the next two decades of Morbid Angel's career.\n\n**Immediate Evolution (1989-1993):**\nThe albums following Altars — \"Blessed Are the Sick\" (1991) and \"Covenant\" (1993) — saw Pete refine his approach. The blast beats became even more controlled, the grooves more sophisticated. His gear evolved too, moving to Pearl drums and expanding his cymbal selection.\n\n**Peak Years (1995-2003):**\n\"Domination\" (1995) and \"Formulas Fatal to the Flesh\" (1998) showcased Pete at his technical peak. The gravity blast technique he had pioneered was now fully developed. His influence on the growing death metal scene was immeasurable.\n\n**The Endorsement Years:**\nPete became a Pearl Drums endorser, switching from his early Tama setup. His pearl configuration — including the later Masterworks series — became iconic. Paiste continued as his cymbal choice, particularly the RUDE series.\n\n**Health Challenges:**\nIn 2007, Pete began experiencing back problems that would eventually require surgery. Despite ongoing health issues, he continued performing until officially leaving Morbid Angel in 2013. His final years with the band demonstrated incredible dedication despite physical limitations.\n\n**Legacy Secured:**\nToday, Pete Sandoval's influence is heard in every death metal blast beat. The template established on Altars of Madness — sustained speed, controlled fury, musical integration — defines the genre. His workshops and clinics continue to pass these techniques to new generations.",
+      "content": "Altars of Madness established Pete Sandoval as one of death metal's founding fathers. The techniques he developed on this album would be refined over the next two decades of Morbid Angel's career.\n\n**Immediate Evolution (1989-1993):**\nThe albums following Altars — \"Blessed Are the Sick\" (1991) and \"Covenant\" (1993) — saw Pete refine his approach. The blast beats became even more controlled, the grooves more sophisticated.\n\n**Peak Years (1995-2003):**\n\"Domination\" (1995) and \"Formulas Fatal to the Flesh\" (1998) showcased Pete at his technical peak. The gravity blast technique he had pioneered was now fully developed. His influence on the growing death metal scene was immeasurable.\n\n**The Endorsement Years:**\nPete has been a ddrum endorser for much of his career; the specific series across each era hasn't been publicly documented. Paiste continued as his cymbal choice, particularly the RUDE series.\n\n**Health Challenges:**\nIn 2007, Pete began experiencing back problems that would eventually require surgery. Despite ongoing health issues, he continued performing until officially leaving Morbid Angel in 2013. His final years with the band demonstrated incredible dedication despite physical limitations.\n\n**Legacy Secured:**\nToday, Pete Sandoval's influence is heard in every death metal blast beat. The template established on Altars of Madness — sustained speed, controlled fury, musical integration — defines the genre. His workshops and clinics continue to pass these techniques to new generations.",
       "thenVsNow": [
         {
           "category": "Kit",
-          "then": "Tama Superstar Birch",
-          "now": "Pearl Masterworks (later career)"
+          "then": "ddrum (specific series unconfirmed)",
+          "now": "ddrum (specific series unconfirmed)"
         },
         {
           "category": "Snare",
-          "then": "Tama Steel 14x6.5\"",
-          "now": "Pearl Reference Steel"
+          "then": "ddrum 14x6.5\" (model unconfirmed)",
+          "now": "ddrum (model unconfirmed)"
         },
         {
           "category": "Cymbals",
@@ -635,8 +627,8 @@ export const articles = {
         },
         {
           "category": "Pedals",
-          "then": "Tama Chain Drive singles",
-          "now": "Pearl Demon Drive / Tama Iron Cobra"
+          "then": "ddrum (model unconfirmed)",
+          "now": "ddrum (model unconfirmed)"
         }
       ]
     },
@@ -671,7 +663,7 @@ export const articles = {
     "faq": [
       {
         "question": "What drum kit did Pete Sandoval use on Altars of Madness?",
-        "answer": "Pete Sandoval recorded Morbid Angel's debut Altars of Madness in 1989 on an early Tama Superstar kit with dual 22x16 inch bass drums, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. The shells were birch, providing a punchy, focused tone that sat aggressively in the mix. His snare was a Tama Superstar Steel at 14x6.5 inches. This was a relatively affordable mid-range kit at the time, yet it delivered some of the most ferocious drumming ever committed to tape."
+        "answer": "Pete Sandoval recorded Morbid Angel's debut Altars of Madness in 1989 on a ddrum kit — his specific series has not been publicly confirmed — with dual 22x16 inch bass drums, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. His snare was also a ddrum (specific model unconfirmed) at 14x6.5 inches. Whatever the exact configuration, it delivered some of the most ferocious drumming ever committed to tape."
       },
       {
         "question": "What cymbals did Pete Sandoval use on Altars of Madness?",
@@ -679,12 +671,12 @@ export const articles = {
       },
       {
         "question": "How much did Pete Sandoval's Altars of Madness drum kit cost?",
-        "answer": "In 1989, the Tama Superstar shell pack was priced at approximately $1,500 to $2,500, making it an accessible professional kit. Today, well-preserved vintage Tama Superstar kits from that era sell for $3,000 to $5,000 among collectors. The Paiste 2002 cymbal setup would have cost around $800 to $1,500 new in 1989. For drummers seeking to replicate this historically significant rig today, the vintage components will represent the largest cost driver."
+        "answer": "Pete's specific ddrum kit and snare model from this era haven't been publicly confirmed, so an exact period price isn't available. The Paiste 2002 cymbal setup would have cost around $800 to $1,500 new in 1989."
       }
     ],
     "conclusion": {
       "title": "The Foundation of Extreme",
-      "content": "Altars of Madness didn't just establish Morbid Angel as death metal pioneers — it created the template for extreme metal drumming that every death metal drummer has followed since. Pete Sandoval's performance on this album remains one of the most influential in heavy music history.\n\nWhat made Sandoval special wasn't just speed — it was the combination of speed, control, endurance, and musicality. At 19 years old, he played with the maturity and precision of a veteran while bringing youthful aggression that couldn't be faked. The sustained blast beats, the intricate footwork, the controlled fury — all captured with remarkable clarity by Scott Burns at Morrisound.\n\nThe gear Pete used was professional but not exotic. The Tama Superstar kit, Paiste cymbals, and basic hardware were standard professional equipment. What made the difference was the player behind them and the vision of how to capture that performance. The \"Tampa sound\" Burns developed — dry, direct, powerful — remains the standard for death metal production.\n\nFor drummers studying Altars of Madness, the lessons extend beyond technique:\n\n- **Speed requires control**: Uncontrolled fast is just noise\n- **Endurance is trainable**: Pete's sustained blasts came from conditioning\n- **Serve the music**: Every pattern on Altars supports the songs\n- **Recording matters**: The production approach is as important as the performance\n- **Innovation requires courage**: Pete did things no one had done before\n\nThirty-five years after its release, Altars of Madness remains essential listening for any drummer interested in extreme metal. Pete Sandoval's performance set a standard that challenged and inspired generations. The album proves that technical innovation and musical passion can coexist — and that a 19-year-old with vision can change an entire genre.\n\n🤘 *The album that invented death metal drumming. The foundation of extreme.* 🤘"
+      "content": "Altars of Madness didn't just establish Morbid Angel as death metal pioneers — it created the template for extreme metal drumming that every death metal drummer has followed since. Pete Sandoval's performance on this album remains one of the most influential in heavy music history.\n\nWhat made Sandoval special wasn't just speed — it was the combination of speed, control, endurance, and musicality. At 19 years old, he played with the maturity and precision of a veteran while bringing youthful aggression that couldn't be faked. The sustained blast beats, the intricate footwork, the controlled fury — all captured with remarkable clarity by Scott Burns at Morrisound.\n\nThe gear Pete used was professional but not exotic — a ddrum kit (specific series unconfirmed), Paiste cymbals, and basic hardware were standard professional equipment. What made the difference was the player behind them and the vision of how to capture that performance. The \"Tampa sound\" Burns developed — dry, direct, powerful — remains the standard for death metal production.\n\nFor drummers studying Altars of Madness, the lessons extend beyond technique:\n\n- **Speed requires control**: Uncontrolled fast is just noise\n- **Endurance is trainable**: Pete's sustained blasts came from conditioning\n- **Serve the music**: Every pattern on Altars supports the songs\n- **Recording matters**: The production approach is as important as the performance\n- **Innovation requires courage**: Pete did things no one had done before\n\nThirty-five years after its release, Altars of Madness remains essential listening for any drummer interested in extreme metal. Pete Sandoval's performance set a standard that challenged and inspired generations. The album proves that technical innovation and musical passion can coexist — and that a 19-year-old with vision can change an entire genre.\n\n🤘 *The album that invented death metal drumming. The foundation of extreme.* 🤘"
     }
   },
   "blessed-are-the-sick-drum-setup": {
@@ -716,7 +708,7 @@ export const articles = {
     "ogImage": "/images/albums/altars-of-madness-drums.webp",
     "intro": {
       "title": "The Album Where Death Metal Grew Ancient Roots",
-      "content": "When Morbid Angel released \"Blessed Are the Sick\" on May 21, 1991, they did something nobody expected: they slowed down and got stranger. After the relentless fury of \"Altars of Madness,\" Trey Azagthoth and company pulled back the tempo ceiling and let Egyptian musical scales, Middle Eastern modes, and ritualistic atmosphere breathe through the death metal framework.\n\nFor Pete Sandoval, this was the pivotal album. Not the fastest. Not the most celebrated. But the record where his double bass mastery moved from raw aggression toward architectural precision — the transition that made \"Covenant\" (1993) possible.\n\nRecorded again at Morrisound Recording with producer Tom Morris and engineer Scott Burns, \"Blessed Are the Sick\" found Pete pushing his gear configuration further toward the full double-kick dominance that would define his legend. The Tama kit expanded, the Paiste cymbal selection deepened, and the playing found a new groove-to-blast ratio that matched the album's denser compositional ambitions.\n\nDavid Vincent's lyrical partnership with Trey Azagthoth reached its lyrical peak here — the \"Ancient Ones\" mythology, the Egyptian mysticism, the slow-building ceremonial tracks like \"Doomsday Celebrations\" demanded drumming that could conjure atmosphere as effectively as it could destroy. Pete delivered both.\n\nThis article breaks down the gear Pete Sandoval used on \"Blessed Are the Sick,\" explores the techniques that made it the critical bridge between Morbid Angel's debut and their commercial peak, and examines why this transitional album holds a unique place in death metal history.",
+      "content": "When Morbid Angel released \"Blessed Are the Sick\" on May 21, 1991, they did something nobody expected: they slowed down and got stranger. After the relentless fury of \"Altars of Madness,\" Trey Azagthoth and company pulled back the tempo ceiling and let Egyptian musical scales, Middle Eastern modes, and ritualistic atmosphere breathe through the death metal framework.\n\nFor Pete Sandoval, this was the pivotal album. Not the fastest. Not the most celebrated. But the record where his double bass mastery moved from raw aggression toward architectural precision — the transition that made \"Covenant\" (1993) possible.\n\nRecorded again at Morrisound Recording with producer Tom Morris and engineer Scott Burns, \"Blessed Are the Sick\" found Pete pushing his configuration further toward the full double-kick dominance that would define his legend. His kit expanded, the Paiste cymbal selection deepened, and the playing found a new groove-to-blast ratio that matched the album's denser compositional ambitions.\n\nDavid Vincent's lyrical partnership with Trey Azagthoth reached its lyrical peak here — the \"Ancient Ones\" mythology, the Egyptian mysticism, the slow-building ceremonial tracks like \"Doomsday Celebrations\" demanded drumming that could conjure atmosphere as effectively as it could destroy. Pete delivered both.\n\nThis article breaks down the gear Pete Sandoval used on \"Blessed Are the Sick,\" explores the techniques that made it the critical bridge between Morbid Angel's debut and their commercial peak, and examines why this transitional album holds a unique place in death metal history.",
       "keyPoints": [
         "Second Morbid Angel album — bridges Altars of Madness (1989) and Covenant (1993)",
         "Egyptian and Middle Eastern musical influences created new rhythmic demands",
@@ -728,9 +720,9 @@ export const articles = {
     },
     "drumKit": {
       "title": "Pete's 1991 Setup: The Transitional Arsenal",
-      "brand": "Tama",
-      "model": "Tama Superstar (expanded configuration)",
-      "finish": "Black",
+      "brand": "ddrum",
+      "model": "ddrum (specific series unconfirmed)",
+      "finish": "Unconfirmed",
       "config": {
         "bassdrums": [
           "22\" x 16\" Bass Drum (x2)"
@@ -744,28 +736,27 @@ export const articles = {
           "14\" x 14\" Floor Tom",
           "16\" x 16\" Floor Tom"
         ],
-        "shells": "Birch shells — same Tama Superstar line as Altars, expanded tom configuration"
+        "shells": "Unconfirmed"
       },
-      "description": "For \"Blessed Are the Sick,\" Pete Sandoval retained the core Tama Superstar platform from \"Altars of Madness\" while expanding the configuration to handle the album's wider dynamic range. The addition of a third rack tom gave Pete more tonal variety for the slower, atmosphere-driven passages that Trey Azagthoth's Egyptian-influenced compositions demanded.\n\nThe dual 22\" x 16\" bass drums remained the foundation, but Pete's approach shifted. Where \"Altars of Madness\" relied on constant double-bass velocity, \"Blessed Are the Sick\" asked for more nuanced deployment — sustained rolls punctuating grooves, controlled single-kick patterns underpinning slower ritualistic tracks, and explosive bursts reserved for peak moments like \"Fall from Grace\" and \"Brainstorm.\"\n\nThis transitional period is the most interesting in Pete's development. The gear remained largely the same; the evolution was in how he used it. More dynamic range. More rhythmic vocabulary. More willingness to let a groove breathe before detonating it.\n\nThe birch shells continued to provide the punchy, focused attack that Morrisound's close-miking technique demanded. Scott Burns had refined his approach from \"Altars\" — the drum sound on \"Blessed Are the Sick\" has slightly more room character while retaining the dry, direct impact of its predecessor.",
+      "description": "For \"Blessed Are the Sick,\" Pete Sandoval retained his ddrum platform from \"Altars of Madness\" while expanding the configuration to handle the album's wider dynamic range. The addition of a third rack tom gave Pete more tonal variety for the slower, atmosphere-driven passages that Trey Azagthoth's Egyptian-influenced compositions demanded.\n\nThe dual 22\" x 16\" bass drums remained the foundation, but Pete's approach shifted. Where \"Altars of Madness\" relied on constant double-bass velocity, \"Blessed Are the Sick\" asked for more nuanced deployment — sustained rolls punctuating grooves, controlled single-kick patterns underpinning slower ritualistic tracks, and explosive bursts reserved for peak moments like \"Fall from Grace\" and \"Brainstorm.\"\n\nThis transitional period is the most interesting in Pete's development. The gear remained largely the same; the evolution was in how he used it. More dynamic range. More rhythmic vocabulary. More willingness to let a groove breathe before detonating it.\n\nMorrisound's close-miking technique continued to deliver the punchy, focused attack the album demanded. Scott Burns had refined his approach from \"Altars\" — the drum sound on \"Blessed Are the Sick\" has slightly more room character while retaining the dry, direct impact of its predecessor.",
       "notes": [
         "Expanded to three rack toms for increased melodic vocabulary",
         "Dual bass drums increasingly configured for independent use",
-        "Same Tama Superstar birch construction as Altars of Madness",
-        "Transitional period toward full double-kick mastery",
-        "This era immediately precedes Pete's move toward Pearl endorsement"
+        "ddrum endorser continuing from Altars of Madness (specific series unconfirmed)",
+        "Transitional period toward full double-kick mastery"
       ],
-      "estimatedValue": "$1,800-2,800 (1991) / $3,500-5,500 (vintage today)"
+      "estimatedValue": "Unconfirmed"
     },
     "snare": {
       "title": "Refined Crack: The 1991 Snare Voice",
-      "brand": "Tama",
-      "model": "Tama Superstar Steel Snare",
+      "brand": "ddrum",
+      "model": "ddrum (specific model unconfirmed)",
       "size": "14\" x 6.5\"",
-      "shell": "Steel",
-      "description": "Pete maintained his Tama steel snare from the Altars era, but the tuning approach evolved to match the album's wider dynamic palette. On \"Altars of Madness,\" the snare was cranked for maximum cut during relentless blast beats. On \"Blessed Are the Sick,\" Pete pulled the tension back slightly on slower tracks, giving the snare a fatter crack that suited mid-tempo grooves.\n\nThe 14\" x 6.5\" dimensions remained ideal — deep enough for body on the slower ceremonial passages, bright enough to cut through the blast sections. On \"Doomsday Celebrations\" and \"The Ancient Ones,\" the snare's tone becomes almost ritualistic, a measured crack marking time against Trey's Arabic-influenced riffs.\n\nScott Burns maintained his close-mic philosophy (Shure SM57, tight to the head) but the final drum mix reflects slightly more body in the low-mids compared to Altars. This gives \"Blessed Are the Sick\" a heavier, more ominous weight — befitting an album that was deliberately slower and darker than its predecessor.",
+      "shell": "Unconfirmed",
+      "description": "Pete maintained his ddrum snare from the Altars era, but the tuning approach evolved to match the album's wider dynamic palette. On \"Altars of Madness,\" the snare was cranked for maximum cut during relentless blast beats. On \"Blessed Are the Sick,\" Pete pulled the tension back slightly on slower tracks, giving the snare a fatter crack that suited mid-tempo grooves.\n\nThe 14\" x 6.5\" dimensions remained ideal — deep enough for body on the slower ceremonial passages, bright enough to cut through the blast sections. On \"Doomsday Celebrations\" and \"The Ancient Ones,\" the snare's tone becomes almost ritualistic, a measured crack marking time against Trey's Arabic-influenced riffs.\n\nScott Burns maintained his close-mic philosophy (Shure SM57, tight to the head) but the final drum mix reflects slightly more body in the low-mids compared to Altars. This gives \"Blessed Are the Sick\" a heavier, more ominous weight — befitting an album that was deliberately slower and darker than its predecessor.",
       "tuningSetting": "Medium-high tension — slightly looser than Altars of Madness for dynamic range",
       "heads": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)",
-      "estimatedValue": "$200-300 (1991)"
+      "estimatedValue": "Unconfirmed"
     },
     "cymbals": {
       "title": "Paiste Through the Egyptian Lens",
@@ -817,21 +808,21 @@ export const articles = {
       "items": [
         {
           "type": "Bass Drum Pedals",
-          "brand": "Tama",
-          "model": "Tama Iron Cobra (early version) / Camco-style Chain Drive",
+          "brand": "ddrum",
+          "model": "ddrum (specific pedal model unconfirmed)",
           "notes": "Transitional period — Pete was refining his double bass pedal approach",
-          "description": "By 1991, Pete was experimenting with improved pedal options as the Tama Iron Cobra line was beginning to develop. The focus on independent double bass rather than connected double pedals remained, giving each foot maximum power and independence."
+          "description": "The focus on independent double bass rather than connected double pedals remained, giving each foot maximum power and independence."
         },
         {
           "type": "Hi-Hat Stand",
-          "brand": "Tama",
-          "model": "Tama Titan",
+          "brand": "ddrum",
+          "model": "ddrum (specific model unconfirmed)",
           "notes": "Heavy-duty for aggressive footwork during blast sections"
         },
         {
           "type": "Throne",
-          "brand": "Tama",
-          "model": "Tama 1st Chair",
+          "brand": "ddrum",
+          "model": "ddrum (specific model unconfirmed)",
           "notes": "Standard professional throne for long Morrisound sessions"
         },
         {
@@ -938,8 +929,8 @@ export const articles = {
       "thenVsNow": [
         {
           "category": "Kit",
-          "then": "Tama Superstar Birch (expanded)",
-          "now": "Pearl Masterworks (Covenant era onward)"
+          "then": "ddrum (specific series unconfirmed)",
+          "now": "ddrum (specific series unconfirmed)"
         },
         {
           "category": "Configuration",
@@ -953,8 +944,8 @@ export const articles = {
         },
         {
           "category": "Snare",
-          "then": "Tama Steel 14x6.5\" (medium-high tension)",
-          "now": "Pearl Reference Steel (Covenant)"
+          "then": "ddrum 14x6.5\" (medium-high tension, model unconfirmed)",
+          "now": "ddrum (model unconfirmed)"
         },
         {
           "category": "Cymbals",
@@ -994,7 +985,7 @@ export const articles = {
     "faq": [
       {
         "question": "What drum kit did Pete Sandoval use on Blessed Are the Sick?",
-        "answer": "Pete Sandoval recorded Morbid Angel's second album \"Blessed Are the Sick\" (1991) on a Tama Superstar kit with dual 22x16 inch bass drums, three rack toms (10, 12, and 13 inch), and two floor toms (14 and 16 inch). This was an expansion of his \"Altars of Madness\" configuration — the same birch Superstar line but with an added rack tom for the greater melodic range the Egyptian-influenced compositions demanded. The kit was again recorded at Morrisound Recording in Tampa by engineer Scott Burns."
+        "answer": "Pete Sandoval recorded Morbid Angel's second album \"Blessed Are the Sick\" (1991) on a ddrum kit (specific series unconfirmed) with dual 22x16 inch bass drums, three rack toms (10, 12, and 13 inch), and two floor toms (14 and 16 inch). This was an expansion of his \"Altars of Madness\" configuration, with an added rack tom for the greater melodic range the Egyptian-influenced compositions demanded. The kit was again recorded at Morrisound Recording in Tampa by engineer Scott Burns."
       },
       {
         "question": "How did Pete Sandoval's drumming evolve between Altars of Madness and Blessed Are the Sick?",
@@ -1015,7 +1006,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "The Missing Chapter in Pete Sandoval's Story",
-      "content": "Death metal histories tend to jump straight from \"Altars of Madness\" to \"Covenant\" when telling Pete Sandoval's story. \"Blessed Are the Sick\" is the missing chapter — the record where a blast beat pioneer became a complete death metal musician.\n\nThe gear story is one of evolution within continuity. The Tama Superstar platform remained, but expanded. The Paiste cymbal selection deepened. The Scott Burns / Morrisound partnership refined rather than replaced. What changed was how Pete deployed his tools — with more patience, more dynamic intelligence, more willingness to serve strange and ancient musical demands.\n\nTrey Azagthoth's Egyptian and Arabic scale compositions forced Pete into rhythmic territory no death metal drummer had mapped before. The slow-burning ritualistic passages, the irregular accent placements, the patience required for tracks like \"The Ancient Ones\" and \"Doomsday Celebrations\" — these demanded a different kind of mastery than \"Immortal Rites\" or \"Suffocation\" had required.\n\nFor drummers studying the Pete Sandoval arc, \"Blessed Are the Sick\" is the essential lesson:\n\n- **Speed is a tool, not a goal**: The best blast is the one that serves the music\n- **Restraint requires practice**: Knowing when not to play is a skill\n- **Dynamic range amplifies impact**: The slow passages make the fast ones devastating\n- **Ancient influences expand the vocabulary**: Egyptian and Arabic scales created new rhythmic demands that made Pete a better drummer\n- **Transitions are the art**: Moving between ceremony and destruction within a single track is the real challenge\n\nThirty-five years on, \"Blessed Are the Sick\" remains the most underrated death metal drum performance in Morbid Angel's catalog. Where \"Altars\" proves Pete could go fastest, \"Blessed Are the Sick\" proves he could go anywhere.\n\n🤘 *The blast beat pioneer learned to play ancient music. The result was death metal's most complete performance.* 🤘"
+      "content": "Death metal histories tend to jump straight from \"Altars of Madness\" to \"Covenant\" when telling Pete Sandoval's story. \"Blessed Are the Sick\" is the missing chapter — the record where a blast beat pioneer became a complete death metal musician.\n\nThe gear story is one of evolution within continuity. Pete's ddrum platform remained, but expanded. The Paiste cymbal selection deepened. The Scott Burns / Morrisound partnership refined rather than replaced. What changed was how Pete deployed his tools — with more patience, more dynamic intelligence, more willingness to serve strange and ancient musical demands.\n\nTrey Azagthoth's Egyptian and Arabic scale compositions forced Pete into rhythmic territory no death metal drummer had mapped before. The slow-burning ritualistic passages, the irregular accent placements, the patience required for tracks like \"The Ancient Ones\" and \"Doomsday Celebrations\" — these demanded a different kind of mastery than \"Immortal Rites\" or \"Suffocation\" had required.\n\nFor drummers studying the Pete Sandoval arc, \"Blessed Are the Sick\" is the essential lesson:\n\n- **Speed is a tool, not a goal**: The best blast is the one that serves the music\n- **Restraint requires practice**: Knowing when not to play is a skill\n- **Dynamic range amplifies impact**: The slow passages make the fast ones devastating\n- **Ancient influences expand the vocabulary**: Egyptian and Arabic scales created new rhythmic demands that made Pete a better drummer\n- **Transitions are the art**: Moving between ceremony and destruction within a single track is the real challenge\n\nThirty-five years on, \"Blessed Are the Sick\" remains the most underrated death metal drum performance in Morbid Angel's catalog. Where \"Altars\" proves Pete could go fastest, \"Blessed Are the Sick\" proves he could go anywhere.\n\n🤘 *The blast beat pioneer learned to play ancient music. The result was death metal's most complete performance.* 🤘"
     }
   },
   "covenant-drum-setup": {
@@ -1035,7 +1026,7 @@ export const articles = {
     "dateModified": "2026-06-25",
     "author": "MetalForge Editorial",
     "title": "Covenant Drum Setup: Pete Sandoval's Blast-Beat Masterclass (Morbid Angel, 1993)",
-    "description": "Complete drum gear breakdown for Morbid Angel's Covenant. Discover Pete Sandoval's 1993 Pearl kit, 230+ BPM double-bass technique, and the death metal record that charted worldwide.",
+    "description": "Complete drum gear breakdown for Morbid Angel's Covenant. Discover Pete Sandoval's 1993 ddrum kit, 230+ BPM double-bass technique, and the death metal record that charted worldwide.",
     "seoKeywords": [
       "covenant drum setup",
       "pete sandoval 1993 drum kit",
@@ -1047,11 +1038,11 @@ export const articles = {
     "ogImage": "/images/albums/altars-of-madness-drums.webp",
     "intro": {
       "title": "The Album Where Death Metal Went Mainstream — Without Slowing Down",
-      "content": "When Morbid Angel released *Covenant* on June 22, 1993, they accomplished something no death metal band had done before: they charted internationally while playing faster and heavier than ever. The album debuted in ten countries, sold over 200,000 copies, and dragged death metal into mainstream metal consciousness — all on the back of Pete Sandoval's most refined and devastating performance to date.\n\n*Covenant* is the culmination of the Morbid Angel trilogy that began with *Altars of Madness* (1989) and evolved through *Blessed Are the Sick* (1991). Where *Altars* was raw aggression and *Blessed Are the Sick* was expansive and experimental, *Covenant* found the perfect balance: brutality with precision, speed with intent, atmosphere without sacrificing the blast.\n\nFor Pete Sandoval, this album marks his full endorsement transition — from the Tama Superstar of the debut era to a new Pearl kit, and from Paiste to Sabian cymbals. The gear upgrade matched an equally significant technique upgrade: by 1993, Pete's double-bass pedal independence at 230+ BPM had become the benchmark against which all death metal drummers measured themselves.\n\nRecorded again at Morrisound Recording in Tampa with producer Tom Morris and engineer Scott Burns, *Covenant* captured a drummer who had absorbed the lessons of *Blessed Are the Sick* — the dynamic range, the rhythmic vocabulary, the patience — and deployed them with newfound confidence. \"Pain Divine,\" \"Rapture,\" \"Angel of Disease,\" and the slow-burning \"God of Emptiness\" showcase a drummer who could do everything at the highest level.\n\nThis article breaks down every piece of gear Pete Sandoval used on *Covenant*, explores the technique that made his double-bass work the defining benchmark of death metal drumming, and examines why this 1993 album remains the peak of the early Morbid Angel trilogy.",
+      "content": "When Morbid Angel released *Covenant* on June 22, 1993, they accomplished something no death metal band had done before: they charted internationally while playing faster and heavier than ever. The album debuted in ten countries, sold over 200,000 copies, and dragged death metal into mainstream metal consciousness — all on the back of Pete Sandoval's most refined and devastating performance to date.\n\n*Covenant* is the culmination of the Morbid Angel trilogy that began with *Altars of Madness* (1989) and evolved through *Blessed Are the Sick* (1991). Where *Altars* was raw aggression and *Blessed Are the Sick* was expansive and experimental, *Covenant* found the perfect balance: brutality with precision, speed with intent, atmosphere without sacrificing the blast.\n\nFor Pete Sandoval, this album marks a cymbal endorsement transition — from Paiste to Sabian — while his ddrum kit endorsement continued (the specific series remains unconfirmed across his career). The technique reached a new benchmark too: by 1993, Pete's double-bass pedal independence at 230+ BPM had become the standard against which all death metal drummers measured themselves.\n\nRecorded again at Morrisound Recording in Tampa with producer Tom Morris and engineer Scott Burns, *Covenant* captured a drummer who had absorbed the lessons of *Blessed Are the Sick* — the dynamic range, the rhythmic vocabulary, the patience — and deployed them with newfound confidence. \"Pain Divine,\" \"Rapture,\" \"Angel of Disease,\" and the slow-burning \"God of Emptiness\" showcase a drummer who could do everything at the highest level.\n\nThis article breaks down every piece of gear Pete Sandoval used on *Covenant*, explores the technique that made his double-bass work the defining benchmark of death metal drumming, and examines why this 1993 album remains the peak of the early Morbid Angel trilogy.",
       "keyPoints": [
         "Third Morbid Angel album — completes the Altars → Blessed Are the Sick → Covenant trilogy",
         "First death metal album to chart in 10 countries simultaneously",
-        "Pete Sandoval transitions to Pearl kit and Sabian cymbal endorsement",
+        "Pete Sandoval transitions to Sabian cymbal endorsement",
         "Double-bass pedal independence at 230+ BPM — the death metal benchmark",
         "Recorded at Morrisound with Tom Morris and Scott Burns",
         "\"God of Emptiness\" slow dirge contrasts with peak-velocity blast tracks",
@@ -1059,10 +1050,10 @@ export const articles = {
       ]
     },
     "drumKit": {
-      "title": "Pete's 1993 Setup: The Pearl Endorsement Era Begins",
-      "brand": "Pearl",
-      "model": "Pearl Reference Series",
-      "finish": "Black",
+      "title": "Pete's 1993 Setup: ddrum",
+      "brand": "ddrum",
+      "model": "ddrum (specific series unconfirmed)",
+      "finish": "Unconfirmed",
       "config": {
         "bassdrums": [
           "22\" x 18\" Bass Drum (x2)"
@@ -1076,28 +1067,27 @@ export const articles = {
           "14\" x 14\" Floor Tom",
           "16\" x 16\" Floor Tom"
         ],
-        "shells": "Pearl Reference 6-ply maple/poplar hybrid — increased mass over Tama Superstar birch"
+        "shells": "Unconfirmed"
       },
-      "description": "*Covenant* marks the pivotal gear transition in Pete Sandoval's career. After three albums on Tama's Superstar line, Pete moved to Pearl for the 1993 sessions — a shift that brought a noticeably heavier, more resonant shell character to his sound.\n\nThe Pearl Reference Series hybrid maple/poplar construction delivered increased shell mass compared to the Tama Superstar birch. At extreme tempos, this mass translates to more natural sustain on each stroke before the next hit arrives — a subtle but audible difference that makes *Covenant*'s drum sound feel heavier and more authoritative than either predecessor.\n\nThe dual 22\" x 18\" bass drums represent the most significant single-instrument change from the *Blessed Are the Sick* configuration. The added depth (18\" vs. the earlier 16\") produced a lower fundamental frequency and longer decay — giving Pete's signature 230+ BPM double-bass patterns an almost subsonic weight. \"Pain Divine\" opens the album with this new bass drum voice, and the impact is immediate.\n\nThe three-rack-tom configuration carried over from *Blessed Are the Sick*, but the Pearl Reference shells retuned it for the new recording context. Scott Burns adapted his Morrisound approach to the new shell character, preserving the close-mic directness that defined his work while allowing the Pearl's added resonance to deepen the low-mid response.\n\nThis was the kit that cemented Pete Sandoval's reputation as the standard-bearer for death metal double bass. Every drummer who picked up a death metal album in 1993 was measuring their footwork against what they heard on *Covenant*.",
+      "description": "Pete Sandoval's ddrum endorsement continued for *Covenant* — the specific series has not been publicly confirmed for any era of his career.\n\nThe dual 22\" x 18\" bass drums represent the most significant single-instrument change from the *Blessed Are the Sick* configuration. The added depth (18\" vs. the earlier 16\") produced a lower fundamental frequency and longer decay — giving Pete's signature 230+ BPM double-bass patterns an almost subsonic weight. \"Pain Divine\" opens the album with this new bass drum voice, and the impact is immediate.\n\nThe three-rack-tom configuration carried over from *Blessed Are the Sick*. Scott Burns adapted his Morrisound approach for the new recording context, preserving the close-mic directness that defined his work.\n\nThis was the kit that cemented Pete Sandoval's reputation as the standard-bearer for death metal double bass. Every drummer who picked up a death metal album in 1993 was measuring their footwork against what they heard on *Covenant*.",
       "notes": [
-        "Pearl Reference endorsement begins — departure from Tama Superstar era",
+        "ddrum endorser continuing from earlier albums (specific series unconfirmed)",
         "22x18\" bass drums replace 22x16\" for deeper, heavier low-end",
         "Three rack toms retained from Blessed Are the Sick configuration",
-        "Maple/poplar hybrid shells add mass vs. Tama birch",
-        "Transitional milestone: final album before Domination (1995)"
+        "Final album before Domination (1995)"
       ],
-      "estimatedValue": "$2,500-3,800 (1993) / $4,000-7,000 (vintage today)"
+      "estimatedValue": "Unconfirmed"
     },
     "snare": {
-      "title": "The 1993 Snare: Pearl's Steel Authority",
-      "brand": "Pearl",
-      "model": "Pearl Reference Steel Snare",
+      "title": "The 1993 Snare",
+      "brand": "ddrum",
+      "model": "ddrum (specific model unconfirmed)",
       "size": "14\" x 6.5\"",
-      "shell": "Steel",
-      "description": "Pete's transition to Pearl extended through the snare drum. The Pearl Reference Steel replaced the Tama steel snare he had carried through the Altars and Blessed Are the Sick sessions — and the character difference is audible on *Covenant*.\n\nThe Pearl Reference Steel shell is slightly heavier-gauge than the Tama equivalent, delivering a faster, more focused response. At 230+ BPM blast beats, this response speed matters: each stroke needs to decay quickly enough to allow the next stroke its own sonic space. The Pearl's tighter decay keeps Pete's fastest passages cleanly articulated rather than blurring into a sustained roar.\n\nOn \"Rapture\" and \"Pain Divine,\" the snare crack sits prominently in Scott Burns' mix — a pinpoint impact that anchors each beat despite the surrounding sonic chaos. On \"God of Emptiness,\" the same snare transforms entirely: tuned down slightly and played with controlled authority, it marks time in the album's most atmospheric passage with almost ceremonial weight.\n\nThe 14\" x 6.5\" dimensions remained Pete's preferred configuration throughout the trilogy. At this size, the snare carries enough body for musical dynamics while delivering the cut needed in a death metal mix.",
+      "shell": "Unconfirmed",
+      "description": "Pete's ddrum snare endorsement continued through *Covenant* — the specific model has not been publicly confirmed for any era of his career.\n\nAt 230+ BPM blast beats, response speed matters: each stroke needs to decay quickly enough to allow the next stroke its own sonic space, keeping Pete's fastest passages cleanly articulated rather than blurring into a sustained roar.\n\nOn \"Rapture\" and \"Pain Divine,\" the snare crack sits prominently in Scott Burns' mix — a pinpoint impact that anchors each beat despite the surrounding sonic chaos. On \"God of Emptiness,\" the same snare transforms entirely: tuned down slightly and played with controlled authority, it marks time in the album's most atmospheric passage with almost ceremonial weight.\n\nThe 14\" x 6.5\" dimensions remained Pete's preferred configuration throughout the trilogy. At this size, the snare carries enough body for musical dynamics while delivering the cut needed in a death metal mix.",
       "tuningSetting": "High tension for blast beat clarity; relaxed for \"God of Emptiness\" atmospheric passages",
       "heads": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)",
-      "estimatedValue": "$250-400 (1993)"
+      "estimatedValue": "Unconfirmed"
     },
     "cymbals": {
       "title": "The Sabian Transition: Brighter, Sharper, Faster",
@@ -1149,21 +1139,21 @@ export const articles = {
       "items": [
         {
           "type": "Bass Drum Pedals",
-          "brand": "Pearl",
-          "model": "Pearl PowerShift / Eliminator (pre-production era)",
+          "brand": "ddrum",
+          "model": "ddrum (specific pedal model unconfirmed)",
           "notes": "Independent double bass setup — two separate pedals, not a double pedal",
-          "description": "Pete's commitment to independent double bass drums (rather than a double pedal on a single drum) was non-negotiable. Two separate pedals, two separate bass drums, completely independent leg action. At 230+ BPM, this independence allowed each foot to develop maximum power without mechanical interference. The slightly heavier Pearl hardware platform suited the larger, heavier Reference Series kit."
+          "description": "Pete's commitment to independent double bass drums (rather than a double pedal on a single drum) was non-negotiable. Two separate pedals, two separate bass drums, completely independent leg action. At 230+ BPM, this independence allowed each foot to develop maximum power without mechanical interference."
         },
         {
           "type": "Hi-Hat Stand",
-          "brand": "Pearl",
-          "model": "Pearl H-2000 Heavy Hi-Hat Stand",
+          "brand": "ddrum",
+          "model": "ddrum (specific model unconfirmed)",
           "notes": "Heavy-duty for aggressive footwork during sustained blast sections"
         },
         {
           "type": "Throne",
-          "brand": "Pearl",
-          "model": "Pearl D-790 Demon Drive Throne",
+          "brand": "ddrum",
+          "model": "ddrum (specific model unconfirmed)",
           "notes": "Stable seating for long Morrisound tracking sessions"
         },
         {
@@ -1181,9 +1171,9 @@ export const articles = {
     },
     "recordingTechniques": {
       "title": "Morrisound at Peak Command: The 1993 Sessions",
-      "content": "For the third consecutive Morbid Angel album, the team returned to Morrisound Recording in Tampa with producer Tom Morris and engineer Scott Burns. By 1993, the Burns/Morrisound approach had reached its peak refinement — and *Covenant* benefits from every lesson learned during the *Altars* and *Blessed Are the Sick* sessions.\n\n**Adapting to the New Gear:**\nThe Pearl Reference Series shells required Burns to revisit his mic placements. The greater shell mass and the deeper 22x18\" bass drums produced more low-frequency content than the Tama Superstar configuration. Burns adjusted kick mic placement to tighten the attack transient while preserving the added low end — the result is a kick sound that feels physically weightier without becoming muddy.\n\n**The Double-Bass Challenge at 230+ BPM:**\nAt extreme double-bass tempos, the recording challenge is sympathetic resonance: one kick stroke can excite the resonant head of the opposite drum, creating a low-level hum that blurs the pattern. Burns addressed this with careful head dampening and by adjusting the gate threshold on each kick channel independently. The result on \"Pain Divine\" and \"Rapture\" is double-bass clarity at speeds that would defeat less precise recording approaches.\n\n**The \"God of Emptiness\" Problem:**\nRecording the album's atmospheric slow track required Burns to dial back everything he had optimized for extreme velocity. Less compression, more room, longer gates. Pete's performance on \"God of Emptiness\" demanded a completely different production approach — and Burns delivered a drum sound on that track that feels genuinely ceremonial without breaking the album's sonic continuity.\n\n**The Mainstream Arrival:**\n*Covenant*'s wider distribution (Giant Records in the US) meant the drum sound needed to compete in mainstream metal contexts alongside major-label productions. Burns made subtle adjustments: slightly more kick presence in the low-mids, slightly more snare air in the upper-mids. These changes made *Covenant* accessible on mainstream radio and MTV without compromising the Morrisound character.",
+      "content": "For the third consecutive Morbid Angel album, the team returned to Morrisound Recording in Tampa with producer Tom Morris and engineer Scott Burns. By 1993, the Burns/Morrisound approach had reached its peak refinement — and *Covenant* benefits from every lesson learned during the *Altars* and *Blessed Are the Sick* sessions.\n\n**Adapting to the Deeper Bass Drums:**\nThe deeper 22x18\" bass drums produced more low-frequency content than the prior 22x16\" configuration. Burns adjusted kick mic placement to tighten the attack transient while preserving the added low end — the result is a kick sound that feels physically weightier without becoming muddy.\n\n**The Double-Bass Challenge at 230+ BPM:**\nAt extreme double-bass tempos, the recording challenge is sympathetic resonance: one kick stroke can excite the resonant head of the opposite drum, creating a low-level hum that blurs the pattern. Burns addressed this with careful head dampening and by adjusting the gate threshold on each kick channel independently. The result on \"Pain Divine\" and \"Rapture\" is double-bass clarity at speeds that would defeat less precise recording approaches.\n\n**The \"God of Emptiness\" Problem:**\nRecording the album's atmospheric slow track required Burns to dial back everything he had optimized for extreme velocity. Less compression, more room, longer gates. Pete's performance on \"God of Emptiness\" demanded a completely different production approach — and Burns delivered a drum sound on that track that feels genuinely ceremonial without breaking the album's sonic continuity.\n\n**The Mainstream Arrival:**\n*Covenant*'s wider distribution (Giant Records in the US) meant the drum sound needed to compete in mainstream metal contexts alongside major-label productions. Burns made subtle adjustments: slightly more kick presence in the low-mids, slightly more snare air in the upper-mids. These changes made *Covenant* accessible on mainstream radio and MTV without compromising the Morrisound character.",
       "keyTechniques": [
-        "Adapted Morrisound close-mic approach for Pearl Reference shell character",
+        "Adapted Morrisound close-mic approach for the deeper 22x18\" bass drums",
         "Independent gate settings on each kick channel for 230+ BPM clarity",
         "Separate production treatment for slow vs. blast tracks",
         "Increased low-mid kick presence for mainstream accessibility",
@@ -1196,12 +1186,12 @@ export const articles = {
         "bpm": "220-240",
         "signature": "4/4",
         "highlights": [
-          "Album opener establishes the Pearl kit voice immediately",
+          "Album opener establishes the deeper 22x18\" bass drum voice immediately",
           "Sustained double-bass at 230+ BPM over the full track length",
           "Pete's independence at this tempo is the death metal benchmark",
           "New Sabian cymbal attack audible vs. Paiste predecessor sound"
         ],
-        "gearNotes": "Pearl Reference bass drums fully audible at peak velocity. Sabian hi-hat attack sharpens at extreme speed."
+        "gearNotes": "Deep 22x18\" bass drums fully audible at peak velocity. Sabian hi-hat attack sharpens at extreme speed."
       },
       {
         "track": "Rapture",
@@ -1213,7 +1203,7 @@ export const articles = {
           "Demonstrates mature blast-to-groove transitions",
           "One of the most-studied death metal drum tracks"
         ],
-        "gearNotes": "Sabian China cymbal earns its position here. Pearl snare crack perfectly balanced in Burns' mix."
+        "gearNotes": "Sabian China cymbal earns its position here. Snare crack perfectly balanced in Burns' mix."
       },
       {
         "track": "Angel of Disease",
@@ -1225,7 +1215,7 @@ export const articles = {
           "Crash cymbal work during riff breaks demonstrates fast decay advantage",
           "One of Sandoval's most technically demanding performances"
         ],
-        "gearNotes": "Sabian crash fast-decay keeps accents cleanly separated at speed. Full Pearl kit workout."
+        "gearNotes": "Sabian crash fast-decay keeps accents cleanly separated at speed. Full kit workout."
       },
       {
         "track": "God of Emptiness",
@@ -1235,9 +1225,9 @@ export const articles = {
           "Slow dirge — Pete's restraint and patience on full display",
           "Demonstrates musical range beyond pure speed",
           "Floor toms and ride define the ceremonial atmosphere",
-          "Different production approach captures natural Pearl shell resonance"
+          "Different production approach captures natural shell resonance"
         ],
-        "gearNotes": "Ride cymbal and floor toms dominant. Burns reduced compression to capture natural Pearl resonance in slow passages."
+        "gearNotes": "Ride cymbal and floor toms dominant. Burns reduced compression to capture natural resonance in slow passages."
       },
       {
         "track": "Vengeance Is Mine",
@@ -1261,17 +1251,17 @@ export const articles = {
           "Controlled blast entrances reward patience",
           "Cymbal work showcases full Sabian AA spread"
         ],
-        "gearNotes": "All six Sabian pieces deployed. Pearl Reference shells provide warmth under the aggressive tuning approach."
+        "gearNotes": "All six Sabian pieces deployed. Shells provide warmth under the aggressive tuning approach."
       }
     ],
     "evolution": {
       "title": "The Completion of the Trilogy: How Covenant Defined Pete's Legacy",
-      "content": "*Covenant* is the album where Pete Sandoval stopped being a promising extreme metal technician and became the definitional death metal drummer. By 1993, the arc that began with *Altars of Madness* (1989) and expanded through *Blessed Are the Sick* (1991) reached its natural conclusion — not because Pete had nothing left to develop, but because *Covenant* achieved a synthesis that no death metal album had managed before or since.\n\n**Speed as Architecture:**\nOn *Altars of Madness*, 200+ BPM was the goal — an assault weapon to be deployed continuously. By *Covenant*, Pete understood speed as architecture. 230+ BPM double bass wasn't something to sustain for its own sake; it was the apex of a dynamic structure that required slower passages, groove sections, and atmospheric moments to give it meaning. \"God of Emptiness\" exists on *Covenant* precisely so that \"Pain Divine\" can hit harder.\n\n**The Endorsement Transition:**\nMoving from Tama/Paiste to Pearl/Sabian wasn't merely a sponsor change. The Pearl Reference shells' added mass and the Sabian cymbals' faster response shaped *Covenant*'s drum sound in ways that distinguish it from both predecessors. Pete's playing style adapted to the new gear — and the result was a drum tone that felt both heavier and more precise than the Tama era.\n\n**The Commercial Breakthrough:**\n*Covenant* charted in 10 countries and sold over 200,000 copies — unthinkable numbers for death metal in 1993. Pete's drumming was central to that accessibility. Not because he compromised his technique, but because *Covenant*'s production and songwriting made the extreme accessible to a wider audience without diluting the extremity.\n\n**The Legacy:**\nEvery death metal drummer who came after — Derek Roddy, Tim Yeung, George Kollias — cites the trilogy culmination of *Altars*, *Blessed Are the Sick*, and *Covenant* as the foundational curriculum. Pete Sandoval in 1993 is the benchmark. Everything else is commentary.",
+      "content": "*Covenant* is the album where Pete Sandoval stopped being a promising extreme metal technician and became the definitional death metal drummer. By 1993, the arc that began with *Altars of Madness* (1989) and expanded through *Blessed Are the Sick* (1991) reached its natural conclusion — not because Pete had nothing left to develop, but because *Covenant* achieved a synthesis that no death metal album had managed before or since.\n\n**Speed as Architecture:**\nOn *Altars of Madness*, 200+ BPM was the goal — an assault weapon to be deployed continuously. By *Covenant*, Pete understood speed as architecture. 230+ BPM double bass wasn't something to sustain for its own sake; it was the apex of a dynamic structure that required slower passages, groove sections, and atmospheric moments to give it meaning. \"God of Emptiness\" exists on *Covenant* precisely so that \"Pain Divine\" can hit harder.\n\n**The Cymbal Transition:**\nMoving from Paiste to Sabian wasn't merely a sponsor change. The Sabian cymbals' faster response shaped *Covenant*'s drum sound in ways that distinguish it from both predecessors, alongside the deeper 22x18\" bass drums. Pete's playing style adapted to the new configuration — and the result was a drum tone that felt both heavier and more precise than its predecessors.\n\n**The Commercial Breakthrough:**\n*Covenant* charted in 10 countries and sold over 200,000 copies — unthinkable numbers for death metal in 1993. Pete's drumming was central to that accessibility. Not because he compromised his technique, but because *Covenant*'s production and songwriting made the extreme accessible to a wider audience without diluting the extremity.\n\n**The Legacy:**\nEvery death metal drummer who came after — Derek Roddy, Tim Yeung, George Kollias — cites the trilogy culmination of *Altars*, *Blessed Are the Sick*, and *Covenant* as the foundational curriculum. Pete Sandoval in 1993 is the benchmark. Everything else is commentary.",
       "thenVsNow": [
         {
           "category": "Kit",
-          "then": "Pearl Reference Series (Covenant)",
-          "now": "Pearl Reference (continued through Domination)"
+          "then": "ddrum (specific series unconfirmed)",
+          "now": "ddrum (specific series unconfirmed)"
         },
         {
           "category": "Bass Drums",
@@ -1354,7 +1344,7 @@ export const articles = {
     "faq": [
       {
         "question": "What drum kit did Pete Sandoval use on Covenant?",
-        "answer": "Pete Sandoval recorded Morbid Angel's third album *Covenant* (1993) on a Pearl Reference Series kit — a significant departure from the Tama Superstar line he had used on *Altars of Madness* (1989) and *Blessed Are the Sick* (1991). The Pearl configuration featured dual 22x18 inch bass drums (deeper than his previous 22x16 setup), three rack toms (10, 12, and 13 inch), and two floor toms (14 and 16 inch). The Pearl Reference's maple/poplar hybrid shells provided greater mass and resonance than the Tama birch, delivering the heavier, more authoritative drum tone that defines *Covenant*'s sound."
+        "answer": "Pete Sandoval recorded Morbid Angel's third album *Covenant* (1993) on a ddrum kit — his specific series has not been publicly confirmed for any era of his career. The configuration featured dual 22x18 inch bass drums (deeper than his previous 22x16 setup), three rack toms (10, 12, and 13 inch), and two floor toms (14 and 16 inch), delivering the heavier, more authoritative drum tone that defines *Covenant*'s sound."
       },
       {
         "question": "How fast did Pete Sandoval play double bass on Covenant?",
@@ -1362,7 +1352,7 @@ export const articles = {
       },
       {
         "question": "How does Covenant differ from Altars of Madness and Blessed Are the Sick in terms of drumming?",
-        "answer": "The three albums represent Pete Sandoval's complete development arc. *Altars of Madness* (1989) was pure aggression — maximum velocity on a Tama Superstar with Paiste 2002 cymbals. *Blessed Are the Sick* (1991) expanded the dynamic range with Egyptian and Middle Eastern rhythmic influences, slower atmospheric passages, and a third rack tom. *Covenant* (1993) completed the trilogy by synthesizing both: the refined speed of the debut and the dynamic intelligence of the sophomore record. The gear transition to Pearl and Sabian reinforced this evolution — heavier shells for greater low-end authority, faster-responding cymbals for precision at 230+ BPM. See [Altars of Madness drum setup](/articles/altars-of-madness-drum-setup) and [Blessed Are the Sick drum setup](/articles/blessed-are-the-sick-drum-setup) for the full arc."
+        "answer": "The three albums represent Pete Sandoval's complete development arc. *Altars of Madness* (1989) was pure aggression — maximum velocity on his ddrum kit with Paiste 2002 cymbals. *Blessed Are the Sick* (1991) expanded the dynamic range with Egyptian and Middle Eastern rhythmic influences, slower atmospheric passages, and a third rack tom. *Covenant* (1993) completed the trilogy by synthesizing both: the refined speed of the debut and the dynamic intelligence of the sophomore record. Deeper 22x18\" bass drums and the transition to Sabian cymbals reinforced this evolution — greater low-end authority and faster-responding cymbals for precision at 230+ BPM. See [Altars of Madness drum setup](/articles/altars-of-madness-drum-setup) and [Blessed Are the Sick drum setup](/articles/blessed-are-the-sick-drum-setup) for the full arc."
       },
       {
         "question": "What cymbals did Pete Sandoval use on Covenant?",
@@ -1370,12 +1360,12 @@ export const articles = {
       },
       {
         "question": "Why is Covenant considered Morbid Angel's commercial breakthrough?",
-        "answer": "*Covenant* (1993) was the first death metal album to chart in 10 countries simultaneously, selling over 200,000 copies — unprecedented commercial numbers for the genre. Released on Giant Records in the US (in addition to Earache in Europe), the album had mainstream distribution that bypassed the underground-only channels of its predecessors. The songwriting balanced extreme brutality with more accessible song structures, and producer Tom Morris's *Covenant* drum sound — built around Pete Sandoval's new Pearl Reference kit — had a weight and authority that connected with mainstream metal audiences without compromising the extremity that death metal fans expected."
+        "answer": "*Covenant* (1993) was the first death metal album to chart in 10 countries simultaneously, selling over 200,000 copies — unprecedented commercial numbers for the genre. Released on Giant Records in the US (in addition to Earache in Europe), the album had mainstream distribution that bypassed the underground-only channels of its predecessors. The songwriting balanced extreme brutality with more accessible song structures, and producer Tom Morris's *Covenant* drum sound — built around Pete Sandoval's deeper 22x18\" bass drums and new Sabian cymbal setup — had a weight and authority that connected with mainstream metal audiences without compromising the extremity that death metal fans expected."
       }
     ],
     "conclusion": {
       "title": "The Death Metal Benchmark",
-      "content": "*Covenant* closes the early Morbid Angel trilogy by achieving what neither predecessor could alone: it brought death metal's most uncompromising drumming to a mainstream audience without softening it.\n\nThe gear story is one of deliberate evolution. Pearl Reference shells replaced Tama birch — more mass, more resonance, more authority. Sabian AA cymbals replaced Paiste 2002 — faster response, sharper attack, better-suited to 230+ BPM precision. The Morrisound infrastructure remained constant, but Scott Burns adapted his approach to honor the new gear's character while maintaining the direct, close-miked clarity that had defined the previous two albums.\n\nPete Sandoval in 1993 was the complete death metal drummer. Fast enough to define the genre's upper velocity limit. Patient enough to anchor \"God of Emptiness\" with ceremonial restraint. Precise enough to record 230+ BPM double bass in a way that the next 30 years of drummers are still studying.\n\nFor drummers working through the Pete Sandoval curriculum:\n\n- **Start with [Altars of Madness](/articles/altars-of-madness-drum-setup)**: Pure aggression, raw blast, the beginning\n- **Study [Blessed Are the Sick](/articles/blessed-are-the-sick-drum-setup)**: Dynamic range, Egyptian influences, the expansion\n- **Master *Covenant***: Synthesis — everything learned, deployed with precision and authority\n- **Explore the [Pete Sandoval profile](/drummers/pete-sandoval)**: The full career arc and technique deep-dive\n- **Check the [death metal drummers list](/articles/death-metal-drummers)**: Where *Covenant*-era Pete ranks among the all-time greats\n\nThirty years on, \"Pain Divine\" still sounds like it was recorded yesterday — because the drumming was never going to age. At 230+ BPM with perfect separation and intent, *Covenant*'s drum performance is timeless.\n\n🤘 *The blast beat pioneer completed the trilogy. Death metal had its benchmark.* 🤘"
+      "content": "*Covenant* closes the early Morbid Angel trilogy by achieving what neither predecessor could alone: it brought death metal's most uncompromising drumming to a mainstream audience without softening it.\n\nThe gear story is one of deliberate evolution. Deeper 22x18\" bass drums replaced the earlier 22x16\" setup — more mass, more resonance, more authority. Sabian AA cymbals replaced Paiste 2002 — faster response, sharper attack, better-suited to 230+ BPM precision. The Morrisound infrastructure remained constant, but Scott Burns adapted his approach to honor the new gear's character while maintaining the direct, close-miked clarity that had defined the previous two albums.\n\nPete Sandoval in 1993 was the complete death metal drummer. Fast enough to define the genre's upper velocity limit. Patient enough to anchor \"God of Emptiness\" with ceremonial restraint. Precise enough to record 230+ BPM double bass in a way that the next 30 years of drummers are still studying.\n\nFor drummers working through the Pete Sandoval curriculum:\n\n- **Start with [Altars of Madness](/articles/altars-of-madness-drum-setup)**: Pure aggression, raw blast, the beginning\n- **Study [Blessed Are the Sick](/articles/blessed-are-the-sick-drum-setup)**: Dynamic range, Egyptian influences, the expansion\n- **Master *Covenant***: Synthesis — everything learned, deployed with precision and authority\n- **Explore the [Pete Sandoval profile](/drummers/pete-sandoval)**: The full career arc and technique deep-dive\n- **Check the [death metal drummers list](/articles/death-metal-drummers)**: Where *Covenant*-era Pete ranks among the all-time greats\n\nThirty years on, \"Pain Divine\" still sounds like it was recorded yesterday — because the drumming was never going to age. At 230+ BPM with perfect separation and intent, *Covenant*'s drum performance is timeless.\n\n🤘 *The blast beat pioneer completed the trilogy. Death metal had its benchmark.* 🤘"
     }
   }
 };

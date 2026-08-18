@@ -18,7 +18,7 @@ export const articles = {
     "dateModified": "2026-03-28",
     "author": "MetalForge Editorial",
     "title": "What's In Inferno's Behemoth Arsenal: Complete Gear Breakdown",
-    "description": "Complete breakdown of Inferno's drum setup for Behemoth. Discover the Pearl drums, Meinl cymbals, and gear that power one of extreme metal's most devastating drummers.",
+    "description": "Complete breakdown of Inferno's drum setup for Behemoth. Discover the Pearl drums, Paiste cymbals, and gear that power one of extreme metal's most devastating drummers.",
     "seoKeywords": [
       "inferno drum kit",
       "behemoth drummer gear",
@@ -31,10 +31,10 @@ export const articles = {
     "ogImage": "/images/drummers/inferno.webp",
     "intro": {
       "title": "The Machine Behind Behemoth",
-      "content": "In the apocalyptic theater of Behemoth's live performances, seated upon a towering drum riser like a demonic throne, sits one of extreme metal's most devastating drummers: Inferno.\n\nBorn Zbigniew Robert Promiński on March 23, 1979, in Gdańsk, Poland, Inferno has been the rhythmic foundation of Behemoth since 1997. That's over 27 years of relentless blast beats, surgical precision, and the kind of stamina that seems almost inhuman.\n\nWhile frontman Nergal commands the spotlight with his controversial pronouncements and theatrical presence, it's Inferno's drumming that drives Behemoth's sound—a devastating combination of black metal intensity and death metal technicality. From the rawness of \"Satanica\" through the masterpiece of \"The Satanist\" to the recent \"Opvs Contra Natvram,\" his playing has evolved while maintaining its core brutality.\n\nThis article breaks down every piece of gear Inferno uses to create his punishing sound. From his Pearl Reference Pure drums to his Meinl cymbal arsenal, we'll explore the equipment that powers one of extreme metal's most consistent and respected performers.",
+      "content": "In the apocalyptic theater of Behemoth's live performances, seated upon a towering drum riser like a demonic throne, sits one of extreme metal's most devastating drummers: Inferno.\n\nBorn Zbigniew Robert Promiński on March 23, 1979, in Gdańsk, Poland, Inferno has been the rhythmic foundation of Behemoth since 1997. That's over 27 years of relentless blast beats, surgical precision, and the kind of stamina that seems almost inhuman.\n\nWhile frontman Nergal commands the spotlight with his controversial pronouncements and theatrical presence, it's Inferno's drumming that drives Behemoth's sound—a devastating combination of black metal intensity and death metal technicality. From the rawness of \"Satanica\" through the masterpiece of \"The Satanist\" to the recent \"Opvs Contra Natvram,\" his playing has evolved while maintaining its core brutality.\n\nThis article breaks down every piece of gear Inferno uses to create his punishing sound. From his Pearl Reference Pure drums to his Paiste cymbal arsenal, we'll explore the equipment that powers one of extreme metal's most consistent and respected performers.",
       "keyPoints": [
         "Pearl Drums endorsee — Reference Pure Series setup",
-        "Meinl Cymbals — Classics Custom Dark and Byzance series",
+        "Paiste Cymbals — RUDE series",
         "Pearl Demon Drive pedals for maximum speed and control",
         "Over 27 years with Behemoth — the longest-serving member",
         "Grammy-nominated performances on \"I Loved You at Your Darkest\""
@@ -81,55 +81,55 @@ export const articles = {
       "estimatedValue": "$500-700 (Pearl Reference snare)"
     },
     "cymbals": {
-      "title": "Meinl Darkness",
-      "brand": "Meinl",
-      "series": "Meinl Classics Custom Dark / Byzance",
+      "title": "Paiste RUDE Series",
+      "brand": "Paiste",
+      "series": "Paiste RUDE",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Meinl Classics Custom Dark 14\" Hi-Hats",
+          "model": "Paiste RUDE Sound Edge 14\" Hi-Hats",
           "position": "Left side",
-          "notes": "Dark, controlled sound for fast patterns"
+          "notes": "Loud, cutting sound for fast patterns"
         },
         {
           "type": "Crash",
-          "model": "Meinl Classics Custom Dark 16\" Crash",
+          "model": "Paiste RUDE 16\" Crash",
           "position": "Far left",
           "notes": "Quick, explosive crash"
         },
         {
           "type": "Crash",
-          "model": "Meinl Classics Custom Dark 18\" Crash",
+          "model": "Paiste RUDE 18\" Crash",
           "position": "Over rack toms",
           "notes": "Primary crash position"
         },
         {
           "type": "Crash",
-          "model": "Meinl Byzance Brilliant 19\" Medium Thin Crash",
+          "model": "Paiste RUDE 19\" Crash",
           "position": "Right of toms",
           "notes": "Cutting attack for accents"
         },
         {
           "type": "Ride",
-          "model": "Meinl Classics Custom Dark 22\" Ride",
+          "model": "Paiste RUDE 22\" Ride",
           "position": "Far right",
-          "notes": "Dark ride with defined bell"
+          "notes": "Powerful ride with defined bell"
         },
         {
           "type": "China",
-          "model": "Meinl Classics Custom Dark 18\" China",
+          "model": "Paiste RUDE 18\" China",
           "position": "Above floor tom",
           "notes": "Aggressive, trashy accents"
         },
         {
           "type": "Splash",
-          "model": "Meinl Classics Custom 10\" Splash",
+          "model": "Paiste RUDE 10\" Splash",
           "position": "Between toms",
           "notes": "Quick accent cymbal"
         }
       ],
-      "description": "Inferno's cymbal setup is built around Meinl's Classics Custom Dark series—cymbals specifically designed for darker tonal characteristics while maintaining the durability needed for extreme metal playing.\n\nThe \"Dark\" designation is significant. Unlike bright, cutting cymbals favored by some metal drummers, the Classics Custom Dark series offers a more controlled, complex tone. This might seem counterintuitive for extreme metal, but it actually serves Behemoth's sound perfectly: the darker cymbals blend with the heavily distorted guitars rather than fighting them.\n\nThe 14\" Dark hi-hats provide the articulation needed for Inferno's demanding foot patterns while offering enough weight to project during open crashes. His closed hi-hat technique during blast beats is exceptionally clean—each hit speaks clearly without excessive sustain.\n\nMultiple crash cymbals give dynamic options: the 16\" for quick accents, the 18\" for standard crashes, and the Byzance 19\" for moments requiring more cut. The 22\" Dark Ride serves multiple functions—riding, crashing, and bell work.\n\nThe 18\" China cymbal is essential for Behemoth's sound. Those trashy, explosive accents punctuate transitions and add aggression to key moments. Meinl's Classics Custom Chinas are durable enough to withstand Inferno's heavy hitting while delivering consistent tone.",
-      "estimatedValue": "$2,000-2,500 total (Meinl professional setup)"
+      "description": "Inferno's cymbal setup is built around Paiste's RUDE series—cymbals specifically designed for maximum loudness and cutting power while maintaining the durability needed for extreme metal playing.\n\nThe \"RUDE\" designation is significant. Unbuffed and unlathed, the RUDE series offers a raw, explosive, and aggressive tone. This suits extreme metal perfectly: the cutting cymbals project through the heavily distorted guitars rather than blending into them.\n\nThe 14\" RUDE Sound Edge hi-hats provide the articulation needed for Inferno's demanding foot patterns while offering enough weight to project during open crashes. His closed hi-hat technique during blast beats is exceptionally clean—each hit speaks clearly without excessive sustain.\n\nMultiple crash cymbals give dynamic options: the 16\" for quick accents, the 18\" for standard crashes, and the 19\" for moments requiring more cut. The 22\" RUDE Ride serves multiple functions—riding, crashing, and bell work.\n\nThe 18\" China cymbal is essential for Behemoth's sound. Those trashy, explosive accents punctuate transitions and add aggression to key moments. Paiste's RUDE chinas are durable enough to withstand Inferno's heavy hitting while delivering consistent tone.",
+      "estimatedValue": "$2,000-2,500 total (Paiste professional setup)"
     },
     "hardware": {
       "title": "The Foundation of Speed",
@@ -232,7 +232,7 @@ export const articles = {
     ],
     "evolution": {
       "title": "From Black Metal to World Stages: Inferno's Journey",
-      "content": "When Inferno joined Behemoth in 1997, the band was still firmly rooted in black metal. His drumming evolved alongside the band's transformation into blackened death metal, and his gear has reflected that journey.\n\n**Early Career (1997-2003):**\nThe early albums—\"Satanica,\" \"Thelema.6,\" \"Zos Kia Cultus\"—featured a rawer sound and simpler setups. Inferno was still developing the extreme technique that would define his later work. The gear was functional but not yet the precision arsenal he commands today.\n\n**Breakthrough Era (2004-2009):**\n\"Demigod\" marked Behemoth's international breakthrough, and Inferno's drumming took a leap forward. The precision and power of this era established him as one of extreme metal's elite. Endorsement deals with Pearl and Meinl provided professional-grade equipment.\n\n**Masterwork Period (2014-Present):**\n\"The Satanist\" (2014) is widely considered Behemoth's masterpiece, and Inferno's performance is a key reason why. The dynamics, control, and musicality he brings to these songs demonstrate how far extreme metal drumming has evolved. His current setup—Reference Pure drums, Demon Drive pedals, Meinl cymbals—represents the pinnacle of his gear evolution.\n\n**Physical Conditioning:**\nWhat's often overlooked is the physical conditioning required. Inferno maintains rigorous fitness routines to play at extreme tempos for 90+ minute sets. His consistency across hundreds of shows is testament to both his technique and his conditioning.",
+      "content": "When Inferno joined Behemoth in 1997, the band was still firmly rooted in black metal. His drumming evolved alongside the band's transformation into blackened death metal, and his gear has reflected that journey.\n\n**Early Career (1997-2003):**\nThe early albums—\"Satanica,\" \"Thelema.6,\" \"Zos Kia Cultus\"—featured a rawer sound and simpler setups. Inferno was still developing the extreme technique that would define his later work. The gear was functional but not yet the precision arsenal he commands today.\n\n**Breakthrough Era (2004-2009):**\n\"Demigod\" marked Behemoth's international breakthrough, and Inferno's drumming took a leap forward. The precision and power of this era established him as one of extreme metal's elite. Endorsement deals with Pearl and Paiste provided professional-grade equipment.\n\n**Masterwork Period (2014-Present):**\n\"The Satanist\" (2014) is widely considered Behemoth's masterpiece, and Inferno's performance is a key reason why. The dynamics, control, and musicality he brings to these songs demonstrate how far extreme metal drumming has evolved. His current setup—Reference Pure drums, Demon Drive pedals, Paiste cymbals—represents the pinnacle of his gear evolution.\n\n**Physical Conditioning:**\nWhat's often overlooked is the physical conditioning required. Inferno maintains rigorous fitness routines to play at extreme tempos for 90+ minute sets. His consistency across hundreds of shows is testament to both his technique and his conditioning.",
       "thenVsNow": [
         {
           "category": "Kit",
@@ -247,7 +247,7 @@ export const articles = {
         {
           "category": "Cymbals",
           "then": "Mixed brands",
-          "now": "Meinl Classics Custom Dark / Byzance"
+          "now": "Paiste RUDE series"
         },
         {
           "category": "Pedals",
@@ -289,8 +289,8 @@ export const articles = {
         "url": "/brands/pearl"
       },
       {
-        "text": "Meinl Cymbals brand guide",
-        "url": "/brands/meinl"
+        "text": "Paiste Cymbals brand guide",
+        "url": "/brands/paiste"
       },
       {
         "text": "George Kollias kit article",
@@ -308,16 +308,16 @@ export const articles = {
       },
       {
         "question": "What cymbals does Inferno of Behemoth use?",
-        "answer": "Inferno uses Meinl Classics Custom Dark and Byzance series cymbals. His setup includes Meinl Classics Custom Dark 14 inch Hi-Hats, Classics Custom Dark crashes from 16 to 19 inches, a Classics Custom Dark 22 inch Ride, a Classics Custom Dark 18 inch China, and a Meinl 10 inch Splash. The Classics Custom Dark series produces a dry, fast, and focused response that cuts through Behemoth's dense wall of guitar without adding excessive wash."
+        "answer": "Inferno uses Paiste RUDE series cymbals. His setup includes a Paiste RUDE Sound Edge 14 inch Hi-Hats, RUDE crashes from 16 to 19 inches, a RUDE 22 inch Ride, a RUDE 18 inch China, and a RUDE 10 inch Splash. The RUDE series produces a loud, raw, and cutting response that projects through Behemoth's dense wall of guitar."
       },
       {
         "question": "How much does Inferno's Behemoth drum kit cost?",
-        "answer": "Inferno's Pearl Reference Pure Series shell pack is estimated at $5,000 to $8,000 for the double bass configuration. His Pearl Reference brass or steel snare adds $500 to $700. The Meinl Classics Custom Dark cymbal setup typically runs $1,800 to $2,800. Combined with hardware, pedals, and accessories, a full comparable Inferno-spec setup can total between $10,000 and $15,000 at current market prices."
+        "answer": "Inferno's Pearl Reference Pure Series shell pack is estimated at $5,000 to $8,000 for the double bass configuration. His Pearl Reference brass or steel snare adds $500 to $700. The Paiste RUDE cymbal setup typically runs $1,800 to $2,800. Combined with hardware, pedals, and accessories, a full comparable Inferno-spec setup can total between $10,000 and $15,000 at current market prices."
       }
     ],
     "conclusion": {
       "title": "The Standard of Extreme Metal Consistency",
-      "content": "Inferno represents something rare in extreme metal: three decades of consistent excellence. While many extreme drummers burn bright and fade quickly, he has maintained his performance level through 27+ years with Behemoth, countless tours, and nine studio albums.\n\nHis gear choices reflect this professionalism. Pearl Reference Pure drums aren't flashy—they're reliable, responsive, and built to perform night after night. Meinl Classics Custom Dark cymbals complement Behemoth's sound rather than fighting it. Demon Drive pedals deliver the speed and control his footwork demands.\n\n**What Makes Inferno Special:**\nIt's not raw speed (though he has plenty). It's the combination of speed AND consistency AND musicality. His blast beats groove. His fills serve the songs. His dynamics add depth to music that could easily become one-dimensional.\n\n**For Drummers Seeking This Sound:**\nStart with technique and conditioning. Inferno's stamina comes from years of disciplined practice and physical fitness. The gear supports his technique—it doesn't replace it.\n\n**The Legacy:**\nAs Behemoth continues to conquer stages worldwide, Inferno remains the rhythmic foundation of their apocalyptic sound. His drumming proves that extreme metal can be both devastatingly powerful and musically sophisticated.\n\nWhether you're building an extreme metal setup or just appreciating the craft, Inferno's approach is clear: professional gear, disciplined practice, and unwavering commitment to the art.\n\n🥁 *Inferno — 27 years of apocalyptic precision behind the kit.* 🥁"
+      "content": "Inferno represents something rare in extreme metal: three decades of consistent excellence. While many extreme drummers burn bright and fade quickly, he has maintained his performance level through 27+ years with Behemoth, countless tours, and nine studio albums.\n\nHis gear choices reflect this professionalism. Pearl Reference Pure drums aren't flashy—they're reliable, responsive, and built to perform night after night. Paiste RUDE cymbals complement Behemoth's sound rather than fighting it. Demon Drive pedals deliver the speed and control his footwork demands.\n\n**What Makes Inferno Special:**\nIt's not raw speed (though he has plenty). It's the combination of speed AND consistency AND musicality. His blast beats groove. His fills serve the songs. His dynamics add depth to music that could easily become one-dimensional.\n\n**For Drummers Seeking This Sound:**\nStart with technique and conditioning. Inferno's stamina comes from years of disciplined practice and physical fitness. The gear supports his technique—it doesn't replace it.\n\n**The Legacy:**\nAs Behemoth continues to conquer stages worldwide, Inferno remains the rhythmic foundation of their apocalyptic sound. His drumming proves that extreme metal can be both devastatingly powerful and musically sophisticated.\n\nWhether you're building an extreme metal setup or just appreciating the craft, Inferno's approach is clear: professional gear, disciplined practice, and unwavering commitment to the art.\n\n🥁 *Inferno — 27 years of apocalyptic precision behind the kit.* 🥁"
     }
   },
   "the-satanist-drum-setup": {

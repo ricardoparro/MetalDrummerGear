@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-18 08:41 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-18 13:35 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 214 |
-| Sessions | 281 |
-| Page views | 533 |
-| Engagement rate | 56.94% |
-| Avg session (s) | 218 |
+| Active users | 218 |
+| Sessions | 286 |
+| Page views | 537 |
+| Engagement rate | 55.94% |
+| Avg session (s) | 215 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -25,26 +25,26 @@
 | /drummer/mario-duplantier | 12 | 9 |
 | /drummer/brann-dailor | 10 | 4 |
 | /guides | 8 | 2 |
+| /articles/st-anger-drum-setup | 7 | 6 |
 | /drummer/dave-lombardo | 7 | 2 |
-| /drummer/flo-mounier | 7 | 5 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 215 | 151 |
-| Direct | 63 | 59 |
-| Unassigned | 10 | 9 |
+| Organic Search | 218 | 153 |
+| Direct | 64 | 60 |
+| Unassigned | 14 | 13 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 113 | 80 |
+| United States | 114 | 81 |
 | Germany | 15 | 12 |
 | Canada | 14 | 9 |
 | France | 11 | 6 |
 | United Kingdom | 9 | 8 |
 | Brazil | 8 | 5 |
-| India | 7 | 7 |
+| India | 8 | 8 |
 | Singapore | 7 | 7 |
 | Colombia | 6 | 5 |
 | Finland | 6 | 3 |

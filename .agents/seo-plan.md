@@ -5252,3 +5252,47 @@ Not run — already completed twice this Monday (08-17). Next rotation (week 35,
 3. mario-duplantier's albumArticles.js needs its own dedicated scoping pass (4 different wrong brands across 4 entries) rather than a quick single-issue fix — flag for whichever run picks it up.
 4. L1/L2/L3 snapshots still the 08-17 weekly refresh (L2 49/100) — next weekly refresh due ~08-24.
 5. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers — not re-checked this run (SEO Agent doesn't own re-spam judgment on these; leaving to CEO).
+
+## 2026-08-18 (Tuesday, evening run) — 8 more gear-contradiction proposals filed from the queued batch; Aquiles Priester escalated to a 5-file external-verification finding
+
+### Context
+Bank check at run start: 11 open `seo-proposal` (3 standing umbrellas #2211/#3810/#3819 + #5744-5751, filed 07:40 UTC this morning, still awaiting CEO triage) — well under <45 cap → file up to 8. Metrics unchanged (218 users/286 sessions/537 views 7d; GSC 6,478 impr/129 clicks/1.99% CTR/pos 10.5, no content-gap rows). Audit clean: robots.txt 8/8 AI crawlers explicit-allowed, 72/72 `/llms/drummers/*.md` live. Today is Tuesday — drum-chair watch already ran twice Monday 08-17, not due again until 08-24.
+
+### What was checked
+Picked up the prior entry's explicit next-run item: file from the 22 queued-but-unfiled findings, prioritizing the "many-instance, high confidence" group (aquiles-priester, alex-bent, arin-ilejay, brann-dailor, daniel-erlandsson, frost, jason-bittner, jocke-wallgren — first 8 of that list). Personally re-verified every claim via direct grep on both sides (`extendedBios.js` gearHighlights vs `albumArticles/<slug>.js`) before filing, per the established pattern — no research sub-agent used this run since the candidates were already documented.
+
+**Aquiles Priester escalated far beyond the queued note.** The queued description ("Sabian/Pearl wrongly framed as past era vs Trick/Ufip/DW claimed current — inverted claim") assumed `extendedBios.js` was correct and `albumArticles.js` was wrong. Investigation found `drummerEvolution.js` actually *agrees* with `albumArticles.js` (both say current = Trick Drums/Ufip/DW 9000, evolved from Mapex→Pearl→Trick) — 2 files against 1. Went external for a tiebreak: his own official website ([aquilespriester.com/site/setup-2022](https://aquilespriester.com/site/setup-2022/)) says the real current gear is **Mapex Saturn Evolution + Paiste cymbals** — matching NEITHER internal claim. Further check found `drummerComparisons.js` has a THIRD variant (Pearl + Meinl Byzance + Vic Firth in the vs-morgan-agren entry, vs Pearl + Sabian in the vs-blake-richardson/vs-navene-koperweis entries). Filed as one comprehensive 5-file fix (#5755) rather than a simple 2-file contradiction — this is now the most severe single-drummer data-fabrication finding of the whole vein (3 different wrong setups across 5 files, none matching reality).
+
+**Frost also needed an external tiebreak.** `albumArticles/frost.js`'s general/current-era entry (`frost-satyricon-drum-setup`) claims Pearl "throughout his career... 30+ years," contradicting `extendedBios.js`'s Tama Starclassic Bubinga. Confirmed via [Tama's official artist page](https://www.tama.com/usa/artists/detail/945.html) that Tama is correct — filed as #5762, careful to preserve the file's *other*, legitimately-historical 1996 Nemesis Divina entry (real budget-era Pearl Export kit, correctly framed as distinct from "today").
+
+The other 6 (daniel-erlandsson, jocke-wallgren, brann-dailor, jason-bittner, arin-ilejay, alex-bent) were straightforward internal contradictions — `albumArticles.js` disagreeing with `extendedBios.js` on 1-4 fields each, same class as #5744-5751 this morning. No external verification needed for these; extendedBios.js as source-of-truth sufficed.
+
+### Proposals filed this run
+1. **#5755** — Aquiles Priester: real gear (Mapex/Paiste/DW9000/ProMark) in ZERO of 5 data files; 3 mutually-incompatible fabricated setups found instead. Externally verified via his own site.
+2. **#5756** — Daniel Erlandsson: cymbals/pedal/sticks wrong in albumArticles.js (Sabian vs Paiste, Pearl Eliminator vs Demon Drive, ProMark vs Vic Firth)
+3. **#5757** — Jocke Wallgren: drums/cymbals/pedal wrong in albumArticles.js (Tama vs Pearl, Meinl vs Zildjian, DW9002 vs Pearl Demon Drive)
+4. **#5758** — Brann Dailor: drums/pedal wrong in albumArticles.js (DW vs Tama, DW9000 vs Tama Speed Cobra)
+5. **#5759** — Jason Bittner: all 4 fields wrong in albumArticles.js (Tama vs Mapex, Sabian vs Zildjian, DW9002 vs Mapex Falcon, Vic Firth vs ProMark signature)
+6. **#5760** — Arin Ilejay: drums/pedal wrong in albumArticles.js (DW vs Mapex, DW9000 vs Mapex Falcon)
+7. **#5761** — Alex Bent: cymbals wrong in albumArticles.js (Meinl Byzance vs Zildjian K Custom Hybrid)
+8. **#5762** — Frost: general-setup albumArticles.js entry wrongly claims Pearl career-long; externally verified Tama via tama.com artist page
+
+Checked `gh issue list --state all --search "<slug> albumArticles"` per drummer before filing all 8 — all prior closed issues are unrelated (article-creation, endorsement-tracker, FAQ-schema batches), no duplicates.
+
+### Not filed — remaining queued candidates
+Bank cap hit at 8 this run. Still queued from the prior entry's "many-instance" group: matt-garstka, morgan-agren, nick-augusto, paul-mazurkiewicz, ray-luzier, ryan-van-poederooyen, tim-yeung. Plus the "isolated/self-contradictory" (paul-bostaph, sean-reinert) and "complex/multi-era" (joey-jordison, john-otto, lars-ulrich, mario-duplantier) groups untouched. **Given tonight's Aquiles/Frost discoveries, future runs should spot-check for cross-file (not just extendedBios-vs-albumArticles) disagreement before trusting extendedBios.js as automatic source-of-truth** — when 2+ files agree against extendedBios.js, or the claim is a career-spanning brand assertion, do an external tiebreak first.
+
+### Open proposals waiting on CEO triage
+- #5755-#5762 (filed this run, 0d old)
+- #5744-#5751 (filed 07:40 UTC this morning, still untriaged)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers only.
+- Bank now 19, still well under the <45 cap.
+
+### Drum-chair watch
+Not run — already completed twice this Monday (08-17). Next rotation due 2026-08-24 (pantera, periphery, sepultura, slayer, slipknot, sons-of-apollo, suicidal-tendencies, testament, tool, vader, volto).
+
+### Next run
+1. Watch #5755-5762 and #5744-5751 through CEO triage.
+2. Continue the queued-candidate batch: matt-garstka, morgan-agren, nick-augusto, paul-mazurkiewicz, ray-luzier, ryan-van-poederooyen, tim-yeung — apply the cross-file/external-tiebreak check from this run before trusting extendedBios.js blindly.
+3. mario-duplantier's albumArticles.js still needs its own dedicated scoping pass (4 different wrong brands across 4 entries).
+4. L1/L2/L3 snapshots still the 08-17 weekly refresh (L2 49/100) — next weekly refresh due ~08-24.

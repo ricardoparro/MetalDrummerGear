@@ -5173,3 +5173,37 @@ Already run once this Monday (both earlier runs today) — not re-run per the "o
 2. Follow-up verification pass on the ~25 flagged-but-unverified `albumArticles.js`/`soundLikeGuides.js` candidates (tomas-haake, matt-greiner, flo-mounier, inferno, raymond-herrera, jay-weinberg, mike-mangini, gavin-harrison + others) — verify each personally before filing, same as this run.
 3. Watch the 2026-08-24 `gsc-watch-snapshot.md` for `crystal mountain bpm`/`my own summer bpm` moving off 0% CTR post-#5692.
 4. L3's 84-URL `discovered-not-indexed` gear-subpage cluster is stable/recurring, not fresh — do not propose internal-linking fixes for it without a concrete new signal (freeze prioritizes pages that already earn, not forcing indexation of pages that don't).
+
+## 2026-08-18 (Tuesday) — audit clean, 2 fresh gear-contradiction proposals filed (soundLikeGuides.js batch 4, mike-mangini albumArticles resync)
+
+### Context
+Bank check at run start: 11 open `seo-proposal` (3 standing umbrellas #2211/#3810/#3819 + 8 filed 08-17 evening, #5708-5715, already promoted to `ai-fix` by the CEO's 01:07 run but still carrying the `seo-proposal` label) — well under <45 cap → file up to 8. Metrics unchanged (209 users/275 sessions/500 views 7d; GSC 5,459 impr/106 clicks/1.94% CTR/pos 10.6, no content-gap rows — `_no significant gaps detected_`). Today is Tuesday — drum-chair watch already ran twice on Monday 08-17 this week, not due again until 08-24.
+
+### Audit summary
+- robots.txt: ✅ 9 AI crawlers explicitly allowed (verified live via `api/robots.js` source).
+- `/llms/drummers/*.md`: ✅ 72/72.
+- No schema/Lighthouse anomalies flagged this run (relied on the 08-17 audit's clean result, unchanged since).
+
+### What was checked
+Picked up the explicit "next run" item from the 08-17 13:00 log: verify the remaining flagged-but-unverified `albumArticles.js`/`soundLikeGuides.js` candidates (tomas-haake, jay-weinberg, mike-mangini, gavin-harrison — the others named in that batch, matt-greiner/flo-mounier/inferno/raymond-herrera, were already filed as #5708-5715). Dispatched a research agent scoped to only these 4, then personally re-verified every claim via direct grep on both sides (source-of-truth `extendedBios.js` gearHighlights vs the two candidate files) before filing — all 4 confirmed genuine, no false positives from the research pass this time.
+
+### Proposals filed this run
+1. **#5723** — SEO batch: `soundLikeGuides.js` — 4 more gear contradictions (tomas-haake cymbals+pedal, jay-weinberg kit+snare+cymbals, mike-mangini kit+snare+cymbals+pedal, gavin-harrison kit+snare+pedal) — continuation of #5694's closed pattern into 4 more drummers, same file. Also caught stale brand mentions in each block's prose `title`/`description`/`intro.content` fields, not just the structured gear objects.
+2. **#5724** — SEO: Mike Mangini gear stale in `albumArticles/mike-mangini.js` (Pearl Masterworks Maple / Eliminator Redline) — never resynced after #5405 already fixed the identical stale values in `extendedBios.js`. Classic sibling-field-miss class, different file than #5723/#5694.
+
+Checked `gh issue list --state all --search` per drummer name and file before filing both — no duplicates (closed siblings all touch different files/fields, confirmed by reading their bodies, e.g. #5405 is `extendedBios.js` only, #5649 is `drummerComparisons.js` only).
+
+### Open proposals waiting on CEO triage
+- #5723, #5724 (filed this run, 0d old)
+- #5708-#5715 (already `ai-fix`-eligible per CEO's 01:07 run, awaiting Roadie/merge)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers only.
+- Bank now 12, still well under the <45 cap.
+
+### Drum-chair watch
+Not run — already completed twice this Monday (08-17). Next rotation (week 35, week%4=3): pantera, periphery, sepultura, slayer, slipknot, sons-of-apollo, suicidal-tendencies, testament, tool, vader, volto — due 2026-08-24.
+
+### Next run
+1. Watch #5723/#5724 through CEO triage.
+2. The `soundLikeGuides.js`/`albumArticles.js` gear-contradiction vein has now covered: charlie-benante, mikkey-dee, daray (#5694), gene-hoglan, nicko-mcbrain, martin-axenrot, abe-cunningham, hellhammer (#5693), matt-greiner, flo-mounier, inferno, raymond-herrera, pete-sandoval, derek-roddy, travis-orbin, blake-richardson (#5708-5715), tomas-haake, jay-weinberg, mike-mangini, gavin-harrison (#5723/#5724) — 20 drummers total across these 2 files. Remaining unswept names in both files: check `ls packages/frontend/data/albumArticles/` (72 files) minus the above 20 for the next verification pass.
+3. L1/L2/L3 snapshots still the 08-17 weekly refresh (L2 49/100) — no fresher data landed this run; next weekly refresh due ~08-24.
+4. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers — not re-checked this run (SEO Agent doesn't own re-spam judgment on these; leaving to CEO).

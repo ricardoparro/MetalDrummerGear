@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-18 01:07 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-18 02:09 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,21 +8,21 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 207 |
-| Sessions | 272 |
-| Page views | 495 |
-| Engagement rate | 50.00% |
-| Avg session (s) | 233 |
+| Active users | 209 |
+| Sessions | 275 |
+| Page views | 500 |
+| Engagement rate | 49.45% |
+| Avg session (s) | 231 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
 | /drummers | 56 | 7 |
-| / | 42 | 32 |
+| / | 43 | 32 |
 | /articles/obsolete-drum-setup | 23 | 1 |
 | /drummer/danny-carey | 13 | 6 |
 | /gear | 13 | 4 |
-| /drummer/mario-duplantier | 11 | 9 |
+| /drummer/mario-duplantier | 12 | 9 |
 | /drummer/brann-dailor | 10 | 4 |
 | /drummer/flo-mounier | 7 | 5 |
 | /guides | 7 | 2 |
@@ -31,18 +31,18 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 200 | 138 |
-| Direct | 61 | 57 |
-| Unassigned | 31 | 30 |
+| Organic Search | 202 | 139 |
+| Direct | 62 | 58 |
+| Unassigned | 34 | 33 |
 | Cross-network | 3 | 3 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 109 | 77 |
+| United States | 111 | 78 |
 | Germany | 15 | 12 |
 | Canada | 14 | 9 |
-| France | 10 | 5 |
+| France | 11 | 6 |
 | Brazil | 8 | 5 |
 | United Kingdom | 8 | 7 |
 | India | 7 | 7 |

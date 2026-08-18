@@ -22,7 +22,12 @@ import { bands as BAND_DATA, getCurrentDrummer, getDrumChairChanges, generateMem
 // Issue #1202: individual technique page SSR meta for /technique/<slug> and /technique/<slug>/drummers.
 import { getTechniqueBySlug, getAllTechniques, getRelatedTechniques } from '../../packages/frontend/data/techniques.js';
 // Issue #1209: lick page SSR meta for /licks, /drummers/<slug>/licks, /drummers/<slug>/licks/<slug>.
-import SIGNATURE_LICKS from '../../packages/frontend/data/licks/index.js';
+// Issue #5722: this was the only consumer using a default import of SIGNATURE_LICKS
+// (every other file — signatureLicks.js, metalSongsBpm.js — uses the named import).
+// Under Vercel's production bundling, the default import resolved to the whole
+// module-exports wrapper instead of the licks map, making every lookup miss and
+// silently falling through to the generic shell/no-licks-yet copy.
+import { SIGNATURE_LICKS } from '../../packages/frontend/data/licks/index.js';
 // Issue #1210: top-10 list page SSR meta for /lists/<slug>.
 import { TOP_10_LISTS } from '../../packages/frontend/data/top10Lists.js';
 // Issue #4355: /vs hub bot-shell links — same curated comparison set the

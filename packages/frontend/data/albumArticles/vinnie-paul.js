@@ -37,9 +37,9 @@ export const articles = {
       ]
     },
     "drumKit": {
-      "title": "The Beast: Vinnie's Signature ddrum Kit",
-      "brand": "ddrum",
-      "model": "ddrum Custom (later Vinnie Paul Signature)",
+      "title": "The Beast: Vinnie's Remo-Era Kit",
+      "brand": "Remo",
+      "model": "Remo drums (specific model unverified)",
       "finish": "Custom Graphics",
       "config": {
         "bassdrums": [
@@ -57,22 +57,22 @@ export const articles = {
         ],
         "shells": "Maple/Birch hybrid shells"
       },
-      "description": "Vinnie Paul's drum kit for Vulgar Display of Power was a massive ddrum custom setup that would later inspire his signature series. The kit featured deep, oversized shells designed to produce maximum low-end power while maintaining articulation.\n\nThe double 24\" x 18\" bass drums were the foundation of Pantera's sound. Larger and deeper than typical metal bass drums, they produced a subsonic rumble that you felt as much as heard. Vinnie triggered them for additional attack, blending the natural drum sound with electronic reinforcement.\n\nThe rack tom configuration — four toms from 8\" to 13\" — gave Vinnie options for his signature fills, which often moved around the entire kit. The deep shells (8\" for an 8\" drum, 10\" for a 10\", etc.) produced a focused, punchy tone without excessive ring.\n\nThe two floor toms (16\" and 18\") provided thunderous low-end for fills and accents. Combined with the massive bass drums, they created a bottom-end presence that defined Pantera's sound.",
+      "description": "Vinnie Paul's drum kit for Vulgar Display of Power was a massive Remo setup, part of the Remo endorsement he ran on this album and Far Beyond Driven before moving to Pearl in 1996. The kit featured deep, oversized shells designed to produce maximum low-end power while maintaining articulation.\n\nThe double 24\" x 18\" bass drums were the foundation of Pantera's sound. Larger and deeper than typical metal bass drums, they produced a subsonic rumble that you felt as much as heard. Vinnie triggered them for additional attack, blending the natural drum sound with electronic reinforcement.\n\nThe rack tom configuration — four toms from 8\" to 13\" — gave Vinnie options for his signature fills, which often moved around the entire kit. The deep shells (8\" for an 8\" drum, 10\" for a 10\", etc.) produced a focused, punchy tone without excessive ring.\n\nThe two floor toms (16\" and 18\") provided thunderous low-end for fills and accents. Combined with the massive bass drums, they created a bottom-end presence that defined Pantera's sound.",
       "notes": [
         "Oversized shells for maximum low-end",
         "Bass drums triggered for additional attack",
         "Deep toms for focused, punchy sound",
-        "This setup would become the ddrum Vinnie Paul Signature"
+        "Remo endorsement era (1992-1996) — Vinnie moved to Pearl in 1996, then ddrum in 2008"
       ],
       "estimatedValue": "$4,000-6,000 (1992) / $8,000-12,000 (signature editions today)"
     },
     "snare": {
       "title": "The Crack Heard Around the World",
-      "brand": "ddrum",
-      "model": "Custom Steel Snare (prototype Vinnie Paul Signature)",
+      "brand": "Remo",
+      "model": "Remo steel snare (specific model unverified)",
       "size": "14\" x 8\"",
       "shell": "Steel with custom ventilation",
-      "description": "The snare sound on Vulgar Display of Power is one of the most distinctive in metal history. Deep, cracking, with an almost industrial quality — it was achieved with a custom ddrum steel snare that would later become Vinnie's signature model.\n\nAt 14\" x 8\", the drum was deeper than typical snares, providing more body and projection. The steel shell gave it brightness and cut, while the depth prevented it from sounding thin at high volumes. Vinnie tuned it medium-low with moderate snare wire tension.\n\nThe key to the sound was the combination of natural drum tone, careful tuning, and production techniques. Vinnie used a blend of close mic (Shure SM57) and trigger, allowing him to shape the attack and body independently in the mix.\n\nThis snare sound — massive, deep, and cutting — became the template for groove metal and influenced nu-metal production in the late 90s. Every time you hear a fat, cracking snare in heavy music, you're hearing Vinnie Paul's influence.",
+      "description": "The snare sound on Vulgar Display of Power is one of the most distinctive in metal history. Deep, cracking, with an almost industrial quality — it was achieved with a Remo steel snare during Vinnie's Remo endorsement era (1992-1996).\n\nAt 14\" x 8\", the drum was deeper than typical snares, providing more body and projection. The steel shell gave it brightness and cut, while the depth prevented it from sounding thin at high volumes. Vinnie tuned it medium-low with moderate snare wire tension.\n\nThe key to the sound was the combination of natural drum tone, careful tuning, and production techniques. Vinnie used a blend of close mic (Shure SM57) and trigger, allowing him to shape the attack and body independently in the mix.\n\nThis snare sound — massive, deep, and cutting — became the template for groove metal and influenced nu-metal production in the late 90s. Every time you hear a fat, cracking snare in heavy music, you're hearing Vinnie Paul's influence.",
       "tuningSetting": "Medium-low tension for body, moderate snare wire tension",
       "heads": "Remo Powerstroke 77 Coated (batter), Remo Ambassador Snare Side",
       "estimatedValue": "$400-600 (1992) / $500-700 (signature model today)"
@@ -223,12 +223,12 @@ export const articles = {
       "thenVsNow": [
         {
           "category": "Kit",
-          "then": "ddrum Custom (prototype)",
-          "now": "ddrum Vinnie Paul Signature"
+          "then": "Remo drums (Vulgar Display era)",
+          "now": "ddrum Vinnie Paul Signature (legacy)"
         },
         {
           "category": "Snare",
-          "then": "ddrum Custom Steel 14x8\"",
+          "then": "Remo steel snare, 14x8\"",
           "now": "ddrum Vinnie Paul Signature 14x8\""
         },
         {
@@ -283,7 +283,7 @@ export const articles = {
     "faq": [
       {
         "question": "What drum kit did Vinnie Paul use on Vulgar Display of Power?",
-        "answer": "Vinnie Paul recorded Vulgar Display of Power in 1992 on a ddrum Custom kit, a precursor to his later Vinnie Paul Signature model. The setup featured maple and birch hybrid shells with two massive 24x18 inch bass drums, four rack toms ranging from 8 to 13 inches, and 16x16 and 18x18 inch floor toms. His snare was a custom ddrum steel prototype at 14x8 inches, contributing the massive, deep crack that became a hallmark of Pantera's sound."
+        "answer": "Vinnie Paul recorded Vulgar Display of Power in 1992 on a Remo drum kit, part of his Remo endorsement era (1992-1996) before he moved to Pearl. The setup featured maple and birch hybrid shells with two massive 24x18 inch bass drums, four rack toms ranging from 8 to 13 inches, and 16x16 and 18x18 inch floor toms. His snare was a Remo steel drum at 14x8 inches, contributing the massive, deep crack that became a hallmark of Pantera's sound."
       },
       {
         "question": "What cymbals did Vinnie Paul use on Vulgar Display of Power?",
@@ -291,7 +291,7 @@ export const articles = {
       },
       {
         "question": "How much does Vinnie Paul's Vulgar Display of Power kit cost?",
-        "answer": "Vinnie Paul's custom ddrum setup cost an estimated $4,000 to $6,000 in 1992. Modern ddrum Vinnie Paul Signature edition kits, which carry his legacy configuration, now range from $8,000 to $12,000. The custom 14x8 inch steel snare would add another $400 to $600 for a comparable piece today. Sabian AA and AAX cymbals remain widely available, with full setups similar to Vinnie's running between $1,500 and $2,500 new."
+        "answer": "Vinnie Paul's Remo setup cost an estimated $4,000 to $6,000 in 1992. Modern ddrum Vinnie Paul Signature edition kits, which carry his later legacy configuration, now range from $8,000 to $12,000. The 14x8 inch steel snare would add another $400 to $600 for a comparable piece today. Sabian AA and AAX cymbals remain widely available, with full setups similar to Vinnie's running between $1,500 and $2,500 new."
       }
     ],
     "conclusion": {
@@ -983,7 +983,7 @@ export const articles = {
       "keyPoints": [
         "Debuted at #1 on the Billboard 200 — the only metal album to do so in 1994",
         "Vinnie Paul's most evolved drum setup to this point in his career",
-        "Pearl Reference Pure shells replaced the ddrum setup of previous records",
+        "Pearl Reference Pure shells replaced the Remo setup of previous records",
         "Steel Cobra and DW 9000 pedals drove the double kick attack"
       ]
     },
@@ -1008,9 +1008,9 @@ export const articles = {
         ],
         "shells": "6-ply maple/mahogany hybrid shells"
       },
-      "description": "Far Beyond Driven marked a significant evolution in Vinnie Paul's kit setup. Moving to Pearl Reference Pure shells, Vinnie gained access to a maple/mahogany hybrid construction that provided a warmer fundamental tone with the attack he needed to cut through Dimebag's increasingly crushing guitar work.\n\nThe dual 24\" x 18\" bass drums remained the cornerstone of his sound — even larger and deeper than typical metal configurations. These oversized kicks produced the subsonic rumble that gave Pantera's rhythm section its ground-shaking quality. Vinnie triggered both drums, blending the acoustic punch of the shells with electronic reinforcement for consistency at high tempos.\n\nThe four-tom rack configuration spanning 8\" to 13\", paired with 16\" and 18\" floor toms, gave Vinnie the full palette for his signature tom fills. The Pearl Reference Pure shells produced a warmer, slightly darker tone than the ddrum shells of Vulgar Display — not softer, but with more body in the low-mids that added weight to every fill.\n\nAt studio volume, the Reference Pure shells had a focus and projection that allowed Terry Date to capture enormous drum sounds without excessive room treatment. The kit's build quality also meant tuning held steady across marathon tracking sessions.",
+      "description": "Far Beyond Driven marked a significant evolution in Vinnie Paul's kit setup. Moving to Pearl Reference Pure shells, Vinnie gained access to a maple/mahogany hybrid construction that provided a warmer fundamental tone with the attack he needed to cut through Dimebag's increasingly crushing guitar work.\n\nThe dual 24\" x 18\" bass drums remained the cornerstone of his sound — even larger and deeper than typical metal configurations. These oversized kicks produced the subsonic rumble that gave Pantera's rhythm section its ground-shaking quality. Vinnie triggered both drums, blending the acoustic punch of the shells with electronic reinforcement for consistency at high tempos.\n\nThe four-tom rack configuration spanning 8\" to 13\", paired with 16\" and 18\" floor toms, gave Vinnie the full palette for his signature tom fills. The Pearl Reference Pure shells produced a warmer, slightly darker tone than the Remo shells of Vulgar Display — not softer, but with more body in the low-mids that added weight to every fill.\n\nAt studio volume, the Reference Pure shells had a focus and projection that allowed Terry Date to capture enormous drum sounds without excessive room treatment. The kit's build quality also meant tuning held steady across marathon tracking sessions.",
       "notes": [
-        "Pearl Reference Pure offered warmer tone than previous ddrum setup",
+        "Pearl Reference Pure offered warmer tone than previous Remo setup",
         "Dual 24\" x 18\" bass drums remained for maximum low-end presence",
         "Triggered for attack consistency at high tempos",
         "Maple/mahogany construction added body to heavy groove patterns"
@@ -1170,7 +1170,7 @@ export const articles = {
     ],
     "evolution": {
       "title": "The Peak of the Pantera Sound",
-      "content": "Far Beyond Driven represents the apex of Vinnie Paul's sonic journey within Pantera. The progression from Cowboys from Hell through Vulgar Display of Power to Far Beyond Driven shows a drummer who kept pushing for more power, more impact, and more precision in every aspect of his setup and production approach.\n\n**The Trilogy Complete:**\nCowboys from Hell established the groove metal template with a Tama Artstar II and relatively natural drum sounds. Vulgar Display of Power intensified everything with ddrum Custom shells and extensive triggering. Far Beyond Driven completed the arc with Pearl Reference Pure shells, the most refined trigger setup to date, and a cymbal arsenal that matched the album's unprecedented heaviness.\n\n**What Changed from VDoP:**\nThe move from ddrum Custom shells to Pearl Reference Pure introduced a slightly warmer, darker fundamental tone. The Zildjian Z Custom cymbals replaced the Sabian AA/AAX setup, bringing a more aggressive, brighter attack. The pedal setup evolved toward the DW 9000 system combined with Steel Cobra, providing more mechanical speed and power.\n\n**Chart History:**\nThe album debuting at #1 on the Billboard 200 on March 22, 1994 was genuinely historic. No metal album had achieved this in years, and it validated Pantera's approach of never compromising heaviness for commercial appeal. Vinnie Paul's drumming was at the center of that achievement.\n\n**Legacy:**\nAfter Far Beyond Driven, Pantera would continue with The Great Southern Trendkill in 1996 and Reinventing the Steel in 2000 before the band dissolved. But Far Beyond Driven remains the definitive statement of Vinnie Paul's production approach: maximum power, maximum groove, and the precision to make both serve the songs.",
+      "content": "Far Beyond Driven represents the apex of Vinnie Paul's sonic journey within Pantera. The progression from Cowboys from Hell through Vulgar Display of Power to Far Beyond Driven shows a drummer who kept pushing for more power, more impact, and more precision in every aspect of his setup and production approach.\n\n**The Trilogy Complete:**\nCowboys from Hell established the groove metal template with a Tama Artstar II and relatively natural drum sounds. Vulgar Display of Power intensified everything with Remo shells and extensive triggering. Far Beyond Driven completed the arc with Pearl Reference Pure shells, the most refined trigger setup to date, and a cymbal arsenal that matched the album's unprecedented heaviness.\n\n**What Changed from VDoP:**\nThe move from Remo shells to Pearl Reference Pure introduced a slightly warmer, darker fundamental tone. The Zildjian Z Custom cymbals replaced the Sabian AA/AAX setup, bringing a more aggressive, brighter attack. The pedal setup evolved toward the DW 9000 system combined with Steel Cobra, providing more mechanical speed and power.\n\n**Chart History:**\nThe album debuting at #1 on the Billboard 200 on March 22, 1994 was genuinely historic. No metal album had achieved this in years, and it validated Pantera's approach of never compromising heaviness for commercial appeal. Vinnie Paul's drumming was at the center of that achievement.\n\n**Legacy:**\nAfter Far Beyond Driven, Pantera would continue with The Great Southern Trendkill in 1996 and Reinventing the Steel in 2000 before the band dissolved. But Far Beyond Driven remains the definitive statement of Vinnie Paul's production approach: maximum power, maximum groove, and the precision to make both serve the songs.",
       "thenVsNow": [
         {
           "category": "Kit",
@@ -1224,7 +1224,7 @@ export const articles = {
     "faq": [
       {
         "question": "What drums did Vinnie Paul use on Far Beyond Driven?",
-        "answer": "Vinnie Paul recorded Far Beyond Driven in 1994 on a Pearl Reference Pure kit. The configuration included dual 24x18 inch bass drums, four rack toms spanning 8 to 13 inches, and floor toms at 16 and 18 inches. The maple/mahogany hybrid shells produced a warmer, darker tone than his previous ddrum setup on Vulgar Display of Power, while maintaining the massive attack and low-end presence that defined Pantera's sound. All drums were triggered for consistency, blending acoustic shell character with electronic attack reinforcement."
+        "answer": "Vinnie Paul recorded Far Beyond Driven in 1994 on a Pearl Reference Pure kit. The configuration included dual 24x18 inch bass drums, four rack toms spanning 8 to 13 inches, and floor toms at 16 and 18 inches. The maple/mahogany hybrid shells produced a warmer, darker tone than his previous Remo setup on Vulgar Display of Power, while maintaining the massive attack and low-end presence that defined Pantera's sound. All drums were triggered for consistency, blending acoustic shell character with electronic attack reinforcement."
       },
       {
         "question": "What pedals did Vinnie Paul use on Far Beyond Driven in 1994?",
@@ -1360,7 +1360,7 @@ export const articles = {
               "name": "What drums did Vinnie Paul use on Far Beyond Driven?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Vinnie Paul recorded Far Beyond Driven in 1994 on a Pearl Reference Pure kit. The configuration included dual 24x18 inch bass drums, four rack toms spanning 8 to 13 inches, and floor toms at 16 and 18 inches. The maple/mahogany hybrid shells produced a warmer, darker tone than his previous ddrum setup on Vulgar Display of Power, while maintaining the massive attack and low-end presence that defined Pantera's sound. All drums were triggered for consistency, blending acoustic shell character with electronic attack reinforcement."
+                "text": "Vinnie Paul recorded Far Beyond Driven in 1994 on a Pearl Reference Pure kit. The configuration included dual 24x18 inch bass drums, four rack toms spanning 8 to 13 inches, and floor toms at 16 and 18 inches. The maple/mahogany hybrid shells produced a warmer, darker tone than his previous Remo setup on Vulgar Display of Power, while maintaining the massive attack and low-end presence that defined Pantera's sound. All drums were triggered for consistency, blending acoustic shell character with electronic attack reinforcement."
               }
             },
             {

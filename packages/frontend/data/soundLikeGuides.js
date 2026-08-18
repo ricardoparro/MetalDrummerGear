@@ -1396,22 +1396,22 @@ Mastering Tomas's style requires understanding polyrhythms at a deep level and d
         alternative: "Sonor SQ1 Snare or Ludwig Supraphonic"
       },
       cymbals: {
-        brand: 'Zildjian',
-        series: 'Zildjian K Custom Dark',
+        brand: 'Sabian',
+        series: 'Sabian HHX and AAX series',
         setup: [
-          { type: 'Hi-Hats', model: 'Zildjian 14" K Custom Dark Hi-Hats', notes: 'Complex, dark tone for constant use' },
-          { type: 'Crash', model: 'Zildjian 18" K Custom Dark Crash', notes: 'Dark and complex' },
-          { type: 'Crash', model: 'Zildjian 19" K Custom Hybrid Crash', notes: 'Bright with complexity' },
-          { type: 'Ride', model: 'Zildjian 21" K Custom Dark Ride', notes: 'Defined stick, complex wash' },
-          { type: 'China', model: 'Zildjian 19" Oriental China', notes: 'Aggressive accent' }
+          { type: 'Hi-Hats', model: 'Sabian Tomas Haake Signature Compression Hi-Hats', notes: 'Complex, dark tone for constant use' },
+          { type: 'Crash', model: 'Sabian 18" AAX Stage Crash', notes: 'Dark and complex' },
+          { type: 'Crash', model: 'Sabian 19" HHX Evolution Crash', notes: 'Bright with complexity' },
+          { type: 'Ride', model: 'Sabian 21" HHX Legacy Ride', notes: 'Defined stick, complex wash' },
+          { type: 'China', model: 'Sabian 18" AAX Chinese', notes: 'Aggressive accent' }
         ],
         description: "Tomas uses darker cymbals that provide complexity without harshness. Essential for the constant hi-hat quarter notes in Meshuggah's music."
       },
       pedals: {
-        brand: 'Axis',
-        model: 'Axis Longboard A Double Pedal',
-        description: "Tomas uses Axis pedals for their direct feel and speed. The longboard design suits his ankle-based technique for extended double bass passages.",
-        alternative: "Axis A21 or DW 9000 series"
+        brand: 'Tama',
+        model: 'Two Tama Speed Cobra single pedals',
+        description: "Tomas uses two separate Tama Speed Cobra single pedals rather than a double pedal, allowing greater independence between feet. The direct feel suits his ankle-based technique for extended double bass passages.",
+        alternative: "Tama Speed Cobra or Iron Cobra single pedals"
       },
       sticks: {
         brand: 'Vic Firth',
@@ -1498,8 +1498,8 @@ Mastering Tomas's style requires understanding polyrhythms at a deep level and d
         price: "$1,200",
         label: "Starter Setup",
         kit: "Mapex Armory ($900)",
-        cymbals: "Zildjian S Dark Pack ($300)",
-        pedals: "Pearl Eliminator Redline Double ($350)",
+        cymbals: "Sabian XSR Pack ($300)",
+        pedals: "Two Pearl Eliminator Redline single pedals ($350)",
         sticks: "Vic Firth 5B ($10)",
         notes: "Focus on developing independence and odd groupings. Gear comes later."
       },
@@ -1507,8 +1507,8 @@ Mastering Tomas's style requires understanding polyrhythms at a deep level and d
         price: "$4,000",
         label: "Intermediate Setup",
         kit: "Sonor AQ2 ($2,000)",
-        cymbals: "Zildjian K Custom Dark Set ($1,200)",
-        pedals: "Axis A21 Double ($500)",
+        cymbals: "Sabian AAX Set ($1,200)",
+        pedals: "Two Tama Speed Cobra single pedals ($500)",
         sticks: "Vic Firth Tomas Haake ($15)",
         notes: "Getting into professional Sonor territory."
       },
@@ -1516,8 +1516,8 @@ Mastering Tomas's style requires understanding polyrhythms at a deep level and d
         price: "$8,000+",
         label: "Professional Setup",
         kit: "Sonor SQ2 ($4,500+)",
-        cymbals: "Zildjian K Custom Dark Custom ($2,000+)",
-        pedals: "Axis Longboard A Double ($600)",
+        cymbals: "Sabian HHX Custom Selection ($2,000+)",
+        pedals: "Two Tama Speed Cobra single pedals ($600)",
         heads: "Full Remo setup ($200)",
         notes: "Studio-quality Meshuggah setup."
       }
@@ -1540,7 +1540,7 @@ Mastering Tomas's style requires understanding polyrhythms at a deep level and d
       drummerProfile: '/drummer/tomas-haake',
       similarDrummers: ['Matt Halpern', 'Matt Garstka', 'Danny Carey'],
       relatedGuides: ['how-to-sound-like-matt-halpern', 'how-to-sound-like-danny-carey'],
-      gearPages: ['/gear/pedals', '/brands/sonor', '/brands/zildjian']
+      gearPages: ['/gear/pedals', '/brands/sonor', '/brands/sabian']
     },
     licksUrl: '/drummers/tomas-haake/licks',
     relatedArticles: [
@@ -3617,7 +3617,7 @@ This guide breaks down Mounier's blast technique, his endurance methodology, and
 
 What defines Jay's approach is the combination of groove-lock and aggression. Where some nu-metal drummers sacrifice feel for raw power, Jay keeps Slipknot's rhythmic pocket impossibly tight while detonating the fills and double bass runs that the band's audience demands. His ghost note integration within heavy grooves adds a sophistication that rewards close listening on headphones even when it's barely perceptible through a festival PA.
 
-This guide breaks down Jay's core techniques, his Pearl Reference Pure setup, and the practice approaches that will help you capture Slipknot's current live sound.`,
+This guide breaks down Jay's core techniques, his SJC Custom Drums setup, and the practice approaches that will help you capture Slipknot's current live sound.`,
       keyPoints: [
         "Jay joined Slipknot in 2014 and has recorded two studio albums with the band",
         "Combines high-energy nu-metal attack with refined ghost note technique",
@@ -3676,46 +3676,46 @@ This guide breaks down Jay's core techniques, his Pearl Reference Pure setup, an
       ]
     },
     gear: {
-      title: "Jay's Pearl Reference Pure Setup",
+      title: "Jay's SJC Custom Drums Setup",
       drumKit: {
-        brand: 'Pearl',
-        model: 'Pearl Reference Pure',
+        brand: 'SJC',
+        model: 'SJC Custom Drums',
         shells: 'Maple',
         finish: 'Custom Slipknot configurations',
         config: {
           kick: '22" x 18" Bass Drums (x2)',
-          snare: '14" x 6.5" Pearl Free-Floating Steel',
+          snare: '14" x 6.5" SJC Custom Steel',
           toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom'],
           floorToms: ['16" x 14" Floor Tom', '18" x 16" Floor Tom']
         },
-        description: "Jay plays Pearl Reference Pure kits — Pearl's flagship maple series designed for maximum projection and articulation. The pure maple shells provide warmth with excellent attack definition, crucial for cutting through Slipknot's layered guitar assault.",
-        affiliateNote: "Pearl Reference or Pearl Masters kits are strong alternatives with similar maple tone character."
+        description: "Jay plays SJC Custom Drums kits, built to his specifications for maximum projection and articulation. The maple shells provide warmth with excellent attack definition, crucial for cutting through Slipknot's layered guitar assault.",
+        affiliateNote: "SJC Custom kits in various maple configurations offer similar tone character."
       },
       snare: {
-        brand: 'Pearl',
-        model: 'Pearl Free-Floating Steel',
+        brand: 'SJC',
+        model: 'SJC Custom Steel',
         size: '14" x 6.5"',
         shell: 'Steel',
-        description: "Jay's steel free-floating snare delivers the sharp crack Slipknot's aggressive style demands. The free-floating design isolates the shell for more resonance and even tension distribution.",
-        alternative: "Pearl Sensitone Steel or Ludwig Supraphonic for similar steel snare character"
+        description: "Jay's steel SJC Custom snare delivers the sharp crack Slipknot's aggressive style demands. The custom-built shell provides resonance and even tension distribution.",
+        alternative: "Tama Starclassic Steel or Ludwig Supraphonic for similar steel snare character"
       },
       cymbals: {
-        brand: 'Sabian',
-        series: 'Sabian HHX / AAX Series',
+        brand: 'Zildjian',
+        series: 'Zildjian K Custom / A Custom Series',
         setup: [
-          { type: 'Hi-Hats', model: 'Sabian 14" HHX Evolution Hi-Hats', notes: 'Bright, crisp, cuts through dense arrangements' },
-          { type: 'Crash', model: 'Sabian 18" AAX Stage Crash', notes: 'Fast response, cutting attack' },
-          { type: 'Crash', model: 'Sabian 19" HHX Evolution Crash', notes: 'Complex overtones for musical accents' },
-          { type: 'Ride', model: 'Sabian 21" HHX Legacy Ride', notes: 'Defined stick sound with wash for dynamic sections' },
-          { type: 'China', model: 'Sabian 18" AAX Chinese', notes: 'Aggressive accent for nu-metal energy bursts' }
+          { type: 'Hi-Hats', model: 'Zildjian 14" K Custom Hi-Hats', notes: 'Bright, crisp, cuts through dense arrangements' },
+          { type: 'Crash', model: 'Zildjian 18" A Custom Crash', notes: 'Fast response, cutting attack' },
+          { type: 'Crash', model: 'Zildjian 19" K Custom Crash', notes: 'Complex overtones for musical accents' },
+          { type: 'Ride', model: 'Zildjian 21" K Custom Ride', notes: 'Defined stick sound with wash for dynamic sections' },
+          { type: 'China', model: 'Zildjian 18" A Custom Chinese', notes: 'Aggressive accent for nu-metal energy bursts' }
         ],
-        description: "Jay works with Sabian cymbals that deliver brightness and projection. The HHX Evolution series gives him the cutting attack needed to be heard over Slipknot's enormous stage volume."
+        description: "Jay works with Zildjian cymbals that deliver brightness and projection. The K and A Custom series give him the cutting attack needed to be heard over Slipknot's enormous stage volume."
       },
       pedals: {
         brand: 'DW',
         model: 'DW 9000 Series Double Pedal',
         description: "Jay uses DW 9000 double pedals for their speed and adjustability. The direct-drive option gives him the immediate response his groove-locked double bass patterns require.",
-        alternative: "DW 5000 or Pearl Demon Drive for similar direct-drive feel"
+        alternative: "DW 5000 or Tama Iron Cobra 900 for similar direct-drive feel"
       },
       sticks: {
         brand: 'Vic Firth',
@@ -3798,27 +3798,27 @@ This guide breaks down Jay's core techniques, his Pearl Reference Pure setup, an
         price: "$1,000",
         label: "Starter Setup",
         kit: "Pearl Export Series ($700)",
-        cymbals: "Sabian B8X Pack ($200-300)",
+        cymbals: "Zildjian ZBT Pack ($200-300)",
         pedals: "Pearl P930 Double Pedal ($130)",
         sticks: "Vic Firth 5B ($10)",
-        notes: "Pearl Export shares DNA with the Reference Pure. Great platform to develop Jay's technique."
+        notes: "An affordable platform to develop Jay's double bass groove-lock and ghost note technique."
       },
       mid: {
         price: "$3,000",
         label: "Intermediate Setup",
         kit: "Pearl Masters Maple/Gum ($1,800)",
-        cymbals: "Sabian AAX Set ($800)",
+        cymbals: "Zildjian A Custom Set ($800)",
         pedals: "DW 5000 Double Pedal ($350)",
         sticks: "Vic Firth Jay Weinberg Signature ($15)",
-        notes: "Closer to Jay's actual tone. Pearl Masters deliver the punch and warmth he needs."
+        notes: "Closer to Jay's actual tone. Maple shells deliver the punch and warmth his style needs."
       },
       pro: {
         price: "$5,500+",
         label: "Professional Setup",
-        kit: "Pearl Reference Pure ($2,800+)",
-        cymbals: "Sabian HHX Custom Selection ($1,500+)",
+        kit: "SJC Custom Drums ($2,800+)",
+        cymbals: "Zildjian K/A Custom Selection ($1,500+)",
         pedals: "DW 9000 Double Pedal ($700)",
-        snare: "Pearl Free-Floating Steel ($400)",
+        snare: "SJC Custom Steel ($400)",
         heads: "Full Remo setup ($150)",
         notes: "Recording and touring-ready setup matching Jay's live configuration."
       }
@@ -3826,7 +3826,7 @@ This guide breaks down Jay's core techniques, his Pearl Reference Pure setup, an
     faq: [
       {
         question: "What drum kit does Jay Weinberg use with Slipknot?",
-        answer: "Jay Weinberg uses Pearl Reference Pure kits with custom Slipknot configurations. The Reference Pure is Pearl's flagship maple series, offering maximum projection and articulation for arena-scale performances."
+        answer: "Jay Weinberg uses SJC Custom Drums with custom Slipknot configurations. The maple shells offer maximum projection and articulation for arena-scale performances."
       },
       {
         question: "How does Jay Weinberg's drumming differ from Joey Jordison's?",
@@ -3838,7 +3838,7 @@ This guide breaks down Jay's core techniques, his Pearl Reference Pure setup, an
       },
       {
         question: "How do I get Jay Weinberg's snare sound?",
-        answer: "Jay uses a Pearl Free-Floating Steel snare tuned high for crack and cut. Tune your batter head tight — 2-3 turns past finger-tight — and use minimal muffling. A steel shell snare like the Pearl Sensitone Steel or Ludwig Supraphonic will get you into similar territory."
+        answer: "Jay uses an SJC Custom Steel snare tuned high for crack and cut. Tune your batter head tight — 2-3 turns past finger-tight — and use minimal muffling. A steel shell snare like the Tama Starclassic Steel or Ludwig Supraphonic will get you into similar territory."
       },
       {
         question: "Can a beginner learn Jay Weinberg's drumming style?",
@@ -3849,7 +3849,7 @@ This guide breaks down Jay's core techniques, his Pearl Reference Pure setup, an
       drummerProfile: '/drummer/jay-weinberg',
       similarDrummers: ['Joey Jordison', 'Chris Adler', 'Mario Duplantier'],
       relatedGuides: ['how-to-sound-like-joey-jordison', 'how-to-sound-like-chris-adler'],
-      gearPages: ['/gear/pedals', '/brands/pearl', '/brands/sabian']
+      gearPages: ['/gear/pedals', '/brands/dw', '/brands/zildjian']
     },
     licksUrl: '/drummers/jay-weinberg/licks',
     relatedArticles: [
@@ -3866,7 +3866,7 @@ This guide breaks down Jay's core techniques, his Pearl Reference Pure setup, an
     genre: 'Progressive Metal / Prog Rock',
     priority: 16,
     title: "How to Sound Like Mike Mangini: Complete Gear & Technique Guide",
-    description: "Master Mike Mangini's progressive metal drumming. Learn his subdivisions mastery, metric modulation, polyrhythmic independence, and the DW Collector's Series setup behind Dream Theater's most technical recordings.",
+    description: "Master Mike Mangini's progressive metal drumming. Learn his subdivisions mastery, metric modulation, polyrhythmic independence, and the Pearl Reference Series setup behind Dream Theater's most technical recordings.",
     seoKeywords: ['mike mangini drumming', 'how to sound like mike mangini', 'dream theater drums', 'mike mangini gear', 'mike mangini technique', 'mike mangini subdivisions'],
     ogImage: '/images/guides/mike-mangini-guide.webp',
     datePublished: '2026-06-24',
@@ -3939,46 +3939,46 @@ What sets Mike apart from other technical drummers is his orchestral dynamic ran
       ]
     },
     gear: {
-      title: "Mike's DW Collector's Series Setup",
+      title: "Mike's Pearl Reference Series Setup",
       drumKit: {
-        brand: 'DW',
-        model: "DW Collector's Series",
+        brand: 'Pearl',
+        model: "Pearl Reference Series",
         shells: 'Maple/Spruce hybrid',
         finish: 'Custom configurations',
         config: {
           kick: '22" x 18" Bass Drum (single, with occasional double)',
-          snare: '14" x 6.5" DW Collector\'s Steel',
+          snare: '14" x 6.5" Pearl Reference',
           toms: ['8" x 7" Tom', '10" x 8" Tom', '12" x 9" Tom', '13" x 11" Tom'],
           floorToms: ['14" x 12" Floor Tom', '16" x 14" Floor Tom']
         },
-        description: "Mike's DW Collector's Series kit is custom-built to his specifications. The maple/spruce hybrid shells provide warmth with excellent attack, and his extended tom array supports the wide melodic range his progressive style demands.",
-        affiliateNote: "DW Performance or Design series offer the DW sound at more accessible price points."
+        description: "Mike's Pearl Reference Series kit is custom-configured to his specifications. The maple/spruce hybrid shells provide warmth with excellent attack, and his extended tom array supports the wide melodic range his progressive style demands.",
+        affiliateNote: "Pearl Reference or Pearl Masters series offer the Pearl sound at more accessible price points."
       },
       snare: {
-        brand: 'DW',
-        model: "DW Collector's Series Steel",
+        brand: 'Pearl',
+        model: "Pearl Reference",
         size: '14" x 6.5"',
         shell: 'Steel',
         description: "Mike's snare delivers clear, cutting attack across a wide dynamic range. The steel shell provides brightness without harshness, important for passages that shift from delicate ghost notes to full backbeats.",
-        alternative: "DW Performance Steel or Ludwig Supraphonic for similar character"
+        alternative: "Pearl Sensitone Steel or Ludwig Supraphonic for similar character"
       },
       cymbals: {
-        brand: 'Meinl',
-        series: 'Meinl Byzance Traditional / Extra Dry',
+        brand: 'Sabian',
+        series: 'Sabian HHX Evolution / AAX X-Plosion',
         setup: [
-          { type: 'Hi-Hats', model: 'Meinl 14" Byzance Traditional Hi-Hats', notes: 'Clear stick definition, musical response' },
-          { type: 'Crash', model: 'Meinl 18" Byzance Tradition Crash', notes: 'Complex overtones for musical accents' },
-          { type: 'Crash', model: 'Meinl 20" Byzance Extra Dry Thin Crash', notes: 'Fast response with dry decay' },
-          { type: 'Ride', model: 'Meinl 22" Byzance Traditional Ride', notes: 'Defined stick, controllable wash for atmospheric passages' },
-          { type: 'China', model: 'Meinl 18" Byzance China', notes: 'Controlled trash accent' }
+          { type: 'Hi-Hats', model: 'Sabian 14" HHX Evolution Hi-Hats', notes: 'Clear stick definition, musical response' },
+          { type: 'Crash', model: 'Sabian 18" AAX X-Plosion Crash', notes: 'Complex overtones for musical accents' },
+          { type: 'Crash', model: 'Sabian 20" AAX X-Plosion Crash', notes: 'Fast response with dry decay' },
+          { type: 'Ride', model: 'Sabian 22" HHX Evolution Ride', notes: 'Defined stick, controllable wash for atmospheric passages' },
+          { type: 'China', model: 'Sabian 18" HHX China', notes: 'Controlled trash accent' }
         ],
-        description: "Mike's Meinl Byzance cymbals match Dream Theater's dynamic range requirements — musical and complex without being harsh, supporting everything from quiet brush-level passages to explosive ensemble accents."
+        description: "Mike's Sabian cymbals match Dream Theater's dynamic range requirements — musical and complex without being harsh, supporting everything from quiet brush-level passages to explosive ensemble accents."
       },
       pedals: {
-        brand: 'DW',
-        model: 'DW 9000 Series Double Pedal',
-        description: "Mike uses DW 9000 pedals, taking advantage of their adjustability for his precise kick technique. His heel-up approach combined with DW's direct drive delivers the clarity his subdivision patterns require.",
-        alternative: "DW 5000 or Tama Iron Cobra 900 for similar precision"
+        brand: 'Pearl',
+        model: 'Pearl Demon Drive Double Pedal',
+        description: "Mike uses Pearl Demon Drive pedals, taking advantage of their adjustability for his precise kick technique. His heel-up approach combined with Pearl's direct drive delivers the clarity his subdivision patterns require.",
+        alternative: "Pearl Eliminator or Tama Iron Cobra 900 for similar precision"
       },
       sticks: {
         brand: 'Vic Firth',
@@ -4060,27 +4060,27 @@ What sets Mike apart from other technical drummers is his orchestral dynamic ran
       budget: {
         price: "$1,200",
         label: "Starter Setup",
-        kit: "DW Design Series ($800)",
-        cymbals: "Meinl HCS Expanded Set ($250)",
-        pedals: "DW 3000 Double Pedal ($200)",
+        kit: "Pearl Export Series ($800)",
+        cymbals: "Sabian XSR Expanded Set ($250)",
+        pedals: "Pearl P930 Double Pedal ($200)",
         sticks: "Vic Firth 5A ($10)",
-        notes: "DW Design delivers the DW feel and tone at an accessible price point. Focus development resources on technique."
+        notes: "Pearl Export delivers Pearl feel and tone at an accessible price point. Focus development resources on technique."
       },
       mid: {
         price: "$3,500",
         label: "Intermediate Setup",
-        kit: "DW Performance Series ($2,000)",
-        cymbals: "Meinl Byzance Traditional Set ($1,000)",
-        pedals: "DW 5000 Double Pedal ($400)",
+        kit: "Pearl Decade Maple ($2,000)",
+        cymbals: "Sabian AAX Set ($1,000)",
+        pedals: "Pearl Eliminator Double Pedal ($400)",
         sticks: "Vic Firth 5A ($10)",
-        notes: "DW Performance gives you the full DW tone. Byzance cymbals match the dynamic range Mike's style demands."
+        notes: "Pearl Decade Maple gives you closer Pearl tone. AAX cymbals match the dynamic range Mike's style demands."
       },
       pro: {
         price: "$8,000+",
         label: "Professional Setup",
-        kit: "DW Collector's Series Custom ($4,000+)",
-        cymbals: "Meinl Byzance Custom Selection ($2,500+)",
-        pedals: "DW 9000 Double Pedal ($700)",
+        kit: "Pearl Reference Series Custom ($4,000+)",
+        cymbals: "Sabian HHX Evolution / AAX X-Plosion Selection ($2,500+)",
+        pedals: "Pearl Demon Drive Double Pedal ($700)",
         heads: "Full Aquarian setup ($200)",
         notes: "The actual Mike Mangini setup — studio and stage ready."
       }
@@ -4111,7 +4111,7 @@ What sets Mike apart from other technical drummers is his orchestral dynamic ran
       drummerProfile: '/drummer/mike-mangini',
       similarDrummers: ['Danny Carey', 'Tomas Haake', 'Gavin Harrison'],
       relatedGuides: ['how-to-sound-like-danny-carey', 'how-to-sound-like-tomas-haake'],
-      gearPages: ['/gear/drums', '/brands/dw', '/brands/meinl']
+      gearPages: ['/gear/drums', '/brands/pearl', '/brands/sabian']
     },
     licksUrl: '/drummers/mike-mangini/licks',
     relatedArticles: [
@@ -4127,7 +4127,7 @@ What sets Mike apart from other technical drummers is his orchestral dynamic ran
     genre: 'Progressive Rock / Prog Metal',
     priority: 17,
     title: "How to Sound Like Gavin Harrison: Complete Gear & Technique Guide",
-    description: "Master Gavin Harrison's polyrhythmic prog drumming. Learn his grid-based polyrhythm system, metric modulation against the band, linear fill patterns, and the DW/Pearl setup behind Porcupine Tree's distinctive rhythmic landscape.",
+    description: "Master Gavin Harrison's polyrhythmic prog drumming. Learn his grid-based polyrhythm system, metric modulation against the band, linear fill patterns, and the Sonor setup behind Porcupine Tree's distinctive rhythmic landscape.",
     seoKeywords: ['gavin harrison drumming', 'how to sound like gavin harrison', 'porcupine tree drums', 'gavin harrison gear', 'gavin harrison polyrhythm', 'gavin harrison technique'],
     ogImage: '/images/guides/gavin-harrison-guide.webp',
     datePublished: '2026-06-24',
@@ -4202,46 +4202,46 @@ His dynamic contrast ranges from near-inaudible snare brush textures to enormous
       ]
     },
     gear: {
-      title: "Gavin's DW Performance and Pearl Reference Setup",
+      title: "Gavin's Sonor SQ2 Setup",
       drumKit: {
-        brand: 'DW',
-        model: 'DW Performance Series (primary) / Pearl Reference (touring)',
+        brand: 'Sonor',
+        model: 'Sonor SQ2 Series',
         shells: 'Maple',
-        finish: 'Various custom configurations',
+        finish: 'Various custom finishes',
         config: {
           kick: '22" x 18" Bass Drum',
-          snare: '14" x 5" or 14" x 6.5" DW/Pearl Snare',
+          snare: '12" x 5" or 14" x 5.25" Sonor Gavin Harrison Signature',
           toms: ['8" x 7" Tom', '10" x 8" Tom', '12" x 9" Tom'],
           floorToms: ['14" x 12" Floor Tom', '16" x 14" Floor Tom']
         },
-        description: "Gavin has used both DW Performance and Pearl Reference kits across different Porcupine Tree eras. Both provide the articulate maple tone his style demands — clear attack with enough warmth to support dynamic passages.",
-        affiliateNote: "DW Performance or Pearl Reference Pure are strong choices for capturing Gavin's tone."
+        description: "Gavin has been a longtime Sonor SQ2 endorser across different Porcupine Tree eras. The custom-finished maple shells provide the articulate tone his style demands — clear attack with enough warmth to support dynamic passages.",
+        affiliateNote: "Sonor SQ2 or Sonor AQ2 are strong choices for capturing Gavin's tone."
       },
       snare: {
-        brand: 'DW',
-        model: 'DW Collector\'s Maple or Brass',
-        size: '14" x 5.5"',
-        shell: 'Maple or Brass depending on project',
-        description: "Gavin's snare selection varies by project — he often uses a maple snare for warmer tones in studio settings and a brass or steel snare for brighter, more cutting live sound.",
-        alternative: "Pearl Free-Floating Brass or DW Performance Snare for similar versatility"
+        brand: 'Sonor',
+        model: 'Sonor Gavin Harrison Signature',
+        size: '12" x 5" or 14" x 5.25"',
+        shell: 'Signature shell construction',
+        description: "Gavin's signature Sonor snares are designed for sensitivity and articulation across his dynamic range, from ghost notes to full-volume accents.",
+        alternative: "Sonor SQ2 Snare for similar versatility"
       },
       cymbals: {
         brand: 'Zildjian',
-        series: 'Zildjian K Custom / A Custom',
+        series: 'Zildjian K Custom Special Dry Series',
         setup: [
-          { type: 'Hi-Hats', model: 'Zildjian 14" K Custom Dark Hi-Hats', notes: 'Complex, musical response for nuanced foot and hand work' },
-          { type: 'Crash', model: 'Zildjian 18" K Custom Dark Crash', notes: 'Warm, complex tone for musical accents' },
-          { type: 'Crash', model: 'Zildjian 20" A Custom Crash', notes: 'Brighter option for explosive moments' },
-          { type: 'Ride', model: 'Zildjian 22" K Custom Ride', notes: 'Dark wash with defined bell for metric modulation passages' },
-          { type: 'China', model: 'Zildjian 18" K China', notes: 'Dark, controllable trash accent' }
+          { type: 'Hi-Hats', model: 'Zildjian 14" K Custom Special Dry Hi-Hats', notes: 'Complex, musical response for nuanced foot and hand work' },
+          { type: 'Crash', model: 'Zildjian 16" K Custom Special Dry Crash', notes: 'Warm, complex tone for musical accents' },
+          { type: 'Crash', model: 'Zildjian 18" K Custom Special Dry Crash', notes: 'Brighter option for explosive moments' },
+          { type: 'Ride', model: 'Zildjian 21" K Custom Special Dry Ride', notes: 'Dark wash with defined bell for metric modulation passages' },
+          { type: 'China', model: 'Zildjian 18" K Custom Special Dry Trash China', notes: 'Dark, controllable trash accent' }
         ],
-        description: "Gavin's Zildjian cymbals prioritize musical complexity over raw volume. The K Custom Dark series provides complex overtones and controlled decay that suit progressive arrangements — every cymbal has a defined voice rather than simply 'being loud.'"
+        description: "Gavin's Zildjian cymbals prioritize musical complexity over raw volume. The K Custom Special Dry series provides complex overtones and controlled decay that suit progressive arrangements — every cymbal has a defined voice rather than simply 'being loud.'"
       },
       pedals: {
-        brand: 'DW',
-        model: 'DW 9000 Series Single Pedal (primary) / Double when required',
-        description: "Gavin primarily plays a single bass drum setup, using DW 9000 pedals for their precision and adjustability. When double bass is required, he adds a secondary pedal rather than a double-kick configuration.",
-        alternative: "DW 5000 or Pearl Eliminator for similar feel and adjustability"
+        brand: 'Sonor',
+        model: 'Sonor Perfect Balance Pedal',
+        description: "Gavin primarily plays a single bass drum setup, using the Sonor Perfect Balance Pedal for its precision and adjustability. When double bass is required, he adds a secondary pedal rather than a double-kick configuration.",
+        alternative: "Sonor 600 Series Hardware for similar feel and adjustability"
       },
       sticks: {
         brand: 'Vic Firth',
@@ -4325,25 +4325,25 @@ His dynamic contrast ranges from near-inaudible snare brush textures to enormous
         label: "Starter Setup",
         kit: "Pearl Export Series ($700)",
         cymbals: "Zildjian S Series Pack ($250)",
-        pedals: "DW 3000 Single Pedal ($100)",
+        pedals: "Pearl P530 Single Pedal ($100)",
         sticks: "Vic Firth 5A ($10)",
         notes: "Focus technique development on the grid system — gear is secondary to the conceptual approach."
       },
       mid: {
         price: "$3,000",
         label: "Intermediate Setup",
-        kit: "DW Performance Series ($1,800)",
-        cymbals: "Zildjian K Custom Dark Set ($900)",
-        pedals: "DW 5000 Single Pedal ($180)",
+        kit: "Sonor AQ2 ($1,800)",
+        cymbals: "Zildjian K Custom Special Dry Set ($900)",
+        pedals: "Sonor 600 Series Single Pedal ($180)",
         sticks: "Vic Firth 5A ($10)",
-        notes: "DW Performance delivers the articulate maple tone Gavin's style requires. K Custom Darks match his musical cymbal aesthetic."
+        notes: "Sonor AQ2 delivers the articulate maple tone Gavin's style requires. K Custom Special Dry cymbals match his musical cymbal aesthetic."
       },
       pro: {
         price: "$5,000+",
         label: "Professional Setup",
-        kit: "DW Collector's Series or Pearl Reference Pure ($2,500+)",
-        cymbals: "Zildjian K Custom Custom Selection ($1,500+)",
-        pedals: "DW 9000 Single or Double ($400-700)",
+        kit: "Sonor SQ2 ($2,500+)",
+        cymbals: "Zildjian K Custom Special Dry Selection ($1,500+)",
+        pedals: "Sonor Perfect Balance Pedal, single or double ($400-700)",
         heads: "Full Remo setup ($150)",
         notes: "Studio and stage-ready setup matching Gavin's Porcupine Tree configuration."
       }
@@ -4355,7 +4355,7 @@ His dynamic contrast ranges from near-inaudible snare brush textures to enormous
       },
       {
         question: "What cymbals does Gavin Harrison use?",
-        answer: "Gavin Harrison primarily uses Zildjian K Custom Dark cymbals — hi-hats, crashes, and ride — for their complex, warm overtones. He selects cymbals that have distinct musical voices rather than simply being loud, which suits Porcupine Tree's progressive arrangements."
+        answer: "Gavin Harrison primarily uses Zildjian K Custom Special Dry cymbals — hi-hats, crashes, and ride — for their complex, dry overtones. He selects cymbals that have distinct musical voices rather than simply being loud, which suits Porcupine Tree's progressive arrangements."
       },
       {
         question: "How does Gavin Harrison play polyrhythms against the band?",
@@ -4374,7 +4374,7 @@ His dynamic contrast ranges from near-inaudible snare brush textures to enormous
       drummerProfile: '/drummer/gavin-harrison',
       similarDrummers: ['Danny Carey', 'Mike Mangini', 'Matt Halpern'],
       relatedGuides: ['how-to-sound-like-danny-carey', 'how-to-sound-like-mike-mangini'],
-      gearPages: ['/gear/drums', '/brands/dw', '/brands/zildjian']
+      gearPages: ['/gear/drums', '/brands/sonor', '/brands/zildjian']
     },
     licksUrl: '/drummers/gavin-harrison/licks',
     relatedArticles: [

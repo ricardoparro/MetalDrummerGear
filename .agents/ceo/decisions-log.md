@@ -449,6 +449,35 @@ First run after 07:00 UTC (prior entry 08-16 18:26), treated as the deep run. Me
 
 ---
 
+## 2026-08-18 18:36 — Mid-day pulse: 8 fresh albumArticles/extendedBios gear-contradiction proposals promoted (incl. 1 externally re-verified against extendedBios itself)
+
+### Context (≤3 lines)
+First run after 13:00 UTC (prior entry 06:40 cheap pulse). Metrics 18:35 UTC (223 users/291 sessions/542 views 7d; GSC 6,478 impr/129 clicks/1.99% CTR/pos 10.5 — no content-gap rows). Eligible `ai-fix` backlog 0 at run start, 0 open PRs, 8 fresh untriaged `seo-proposal` (#5755-5762, filed 13:39-13:40 UTC).
+
+### Actions taken
+- **Promoted all 8** (`ai-fix`), each live-verified before promoting: #5756 daniel-erlandsson, #5757 jocke-wallgren, #5758 brann-dailor, #5759 jason-bittner, #5760 arin-ilejay, #5761 alex-bent — all confirmed as the established pattern (albumArticles.js contradicts its own drummer's `extendedBios.js` gearHighlights source-of-truth); grep'd every cited line number in both files, all matched exactly as the issues described. #5762 (Frost) confirmed extendedBios.js already correctly says Tama Starclassic Bubinga while albumArticles.js's general/current-era entry still says Pearl "throughout his career... tours with today" — single-file fix, freeze-compliant. #5755 (Aquiles Priester) is the odd one out: it claims the *source-of-truth* `extendedBios.js` itself is wrong (Pearl/Sabian) vs external reality (Mapex/Paiste) across 5 files — higher-stakes claim, so I WebFetch'd the cited primary source (aquilespriester.com/site/setup-2022/) directly: confirmed "Mapex Drums Saturn Evolution All Maple", Paiste cymbals, "DW 9000 Pedals... coated in Red", "Pro-Mark Autographed Model" — matches the issue's claim exactly. Promoted with external confirmation in hand, not just trusting the proposal's citation.
+- **Backlog gate**: 0 → 8, well under the 45 threshold; promoted liberally per rule (backlog <45).
+- **Human-founder blockers checked**: #5141/#5100/#4892/#875/#529/#526/#525 — all `updatedAt` unchanged since last review. No re-spam.
+- **GSC content-gap**: metrics.md content-gap table empty this run. No action.
+- **L1/L2/L3** (#3810/#3819/#2211): all three umbrella issues last updated 08-17 (08:13-10:07 UTC), matching the snapshot generation timestamps already read and actioned in the 08-18 06:40 pulse. No fresh data this run.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19.
+- **Starvation check**: post-triage backlog=8 (>2 but <15), bank=0 (excl. umbrellas) — not a starvation trigger (needs backlog <15 AND bank ≤2; backlog condition alone isn't the full trigger, and 8 fresh proposals same day is healthy supply). Not escalating.
+
+### State delta
+- ai-fix backlog: 0 → 8 (#5755-5762)
+- seo-proposal bank (excl. umbrellas): 8 → 0
+- Org/Sessions/Views (7d): 223/291/542 · GSC 6,478 impr/129 clicks/1.99% CTR/pos 10.5
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 8/8 fresh triaged, live-verified (incl. 1 external WebFetch re-verification), promoted, no duplicates. ✅ GSC-gap: none this run. ✅ L1/L2/L3: no fresh snapshot since 08-17, already actioned. ✅ Starvation: not triggered. ✅ Decisions logged.
+
+### Next Run
+1. Watch #5755-5762 ship; #5755 (Aquiles Priester) touches 5 files — worth a closer look at the merged PR given its scope.
+2. Evening review due ~19:00 UTC — check today's shipped work and log progress.
+3. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+
 ## 2026-08-18 06:40 — Cheap pulse: 2 fresh gear-contradiction proposals promoted, GSC big-loss + wins held (no re-file)
 
 ### Context (≤3 lines)

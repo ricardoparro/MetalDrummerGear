@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-17 19:31 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-18 01:07 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,55 +8,55 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 228 |
-| Sessions | 297 |
-| Page views | 528 |
-| Engagement rate | 52.86% |
-| Avg session (s) | 230 |
+| Active users | 207 |
+| Sessions | 272 |
+| Page views | 495 |
+| Engagement rate | 50.00% |
+| Avg session (s) | 233 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| /drummers | 57 | 8 |
-| / | 43 | 32 |
+| /drummers | 56 | 7 |
+| / | 42 | 32 |
 | /articles/obsolete-drum-setup | 23 | 1 |
 | /drummer/danny-carey | 13 | 6 |
 | /gear | 13 | 4 |
-| /drummer/brann-dailor | 10 | 5 |
-| /drummer/mario-duplantier | 9 | 8 |
-| /drummer/flo-mounier | 8 | 6 |
-| /drummers/flo-mounier/evolution | 8 | 2 |
+| /drummer/mario-duplantier | 11 | 9 |
+| /drummer/brann-dailor | 10 | 4 |
+| /drummer/flo-mounier | 7 | 5 |
 | /guides | 7 | 2 |
+| /articles/st-anger-drum-setup | 6 | 5 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 224 | 158 |
-| Direct | 62 | 58 |
-| Unassigned | 25 | 24 |
+| Organic Search | 200 | 138 |
+| Direct | 61 | 57 |
+| Unassigned | 31 | 30 |
 | Cross-network | 3 | 3 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 119 | 86 |
-| France | 15 | 7 |
+| United States | 109 | 77 |
 | Germany | 15 | 12 |
-| Canada | 13 | 8 |
+| Canada | 14 | 9 |
+| France | 10 | 5 |
 | Brazil | 8 | 5 |
 | United Kingdom | 8 | 7 |
-| Australia | 7 | 7 |
 | India | 7 | 7 |
 | Singapore | 7 | 7 |
-| China | 6 | 6 |
+| Colombia | 6 | 5 |
+| Finland | 6 | 3 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 6,577 |
-| Clicks | 126 |
-| CTR | 1.92% |
-| Avg position | 10.7 |
+| Impressions | 5,459 |
+| Clicks | 106 |
+| CTR | 1.94% |
+| Avg position | 10.6 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
@@ -64,27 +64,27 @@
 | jaska raatikainen drum set | 7 | 2 | 28.57% | 4.1 |
 | best death metal drummers | 7 | 1 | 14.29% | 8.6 |
 | best metal drum kit | 1 | 1 | 100.00% | 21.0 |
-| best metal drummers of all time | 18 | 1 | 5.56% | 8.9 |
+| best metal drummers of all time | 17 | 1 | 5.88% | 9.4 |
 | brann dailor drum kit | 17 | 1 | 5.88% | 7.6 |
-| danny carey drum setup | 12 | 1 | 8.33% | 12.7 |
-| danny carey drumkit | 16 | 1 | 6.25% | 9.1 |
-| john otto drum kit | 14 | 1 | 7.14% | 4.9 |
+| danny carey drum setup | 11 | 1 | 9.09% | 11.5 |
+| danny carey drumkit | 13 | 1 | 7.69% | 9.3 |
+| john otto drum kit | 11 | 1 | 9.09% | 3.7 |
 | mastodon drum kit | 4 | 1 | 25.00% | 5.3 |
-| matt greiner drum setup | 20 | 1 | 5.00% | 8.4 |
+| matt greiner drum setup | 17 | 1 | 5.88% | 8.4 |
 
 ### Top countries (impressions, last 7d)
 | Country | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| usa | 2,345 | 43 | 1.83% | 10.6 |
-| deu | 235 | 8 | 3.40% | 8.9 |
-| esp | 75 | 7 | 9.33% | 11.3 |
-| aus | 268 | 6 | 2.24% | 9.6 |
-| can | 312 | 6 | 1.92% | 10.5 |
-| fra | 160 | 6 | 3.75% | 11.3 |
-| rus | 78 | 5 | 6.41% | 8.6 |
-| ita | 103 | 4 | 3.88% | 7.6 |
-| fin | 88 | 3 | 3.41% | 7.5 |
-| gbr | 403 | 3 | 0.74% | 8.6 |
+| usa | 1,973 | 35 | 1.77% | 10.5 |
+| deu | 197 | 7 | 3.55% | 8.3 |
+| esp | 63 | 6 | 9.52% | 12.4 |
+| fra | 135 | 6 | 4.44% | 10.9 |
+| can | 268 | 5 | 1.87% | 10.9 |
+| rus | 68 | 4 | 5.88% | 8.7 |
+| aus | 204 | 3 | 1.47% | 9.6 |
+| fin | 75 | 3 | 4.00% | 7.8 |
+| gbr | 345 | 3 | 0.87% | 8.5 |
+| ind | 184 | 3 | 1.63% | 20.3 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 _no significant gaps detected — all queries with traction have decent CTR_

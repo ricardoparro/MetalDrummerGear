@@ -328,12 +328,12 @@ export const articles = {
     "dateModified": "2026-06-24",
     "author": "MetalForge Editorial",
     "title": "Faceless Drum Setup: Shannon Larkin's Gear on Godsmack's #1 Billboard Album (2003)",
-    "description": "Discover the exact drum kit, cymbals, and gear Shannon Larkin used on Godsmack's Faceless (2003) — the #1 Billboard 200 debut, 4× Platinum album. Tama Starclassic Maple kit, Sabian cymbals, and the hard rock powerhouse that defined an era.",
+    "description": "Discover the exact drum kit, cymbals, and gear Shannon Larkin used on Godsmack's Faceless (2003) — the #1 Billboard 200 debut, 4× Platinum album. ddrum Dios Series kit, Sabian cymbals, and the hard rock powerhouse that defined an era.",
     "seoKeywords": [
       "shannon larkin drum setup",
       "godsmack faceless drums",
       "godsmack drummer kit",
-      "shannon larkin tama",
+      "shannon larkin ddrum",
       "shannon larkin sabian cymbals",
       "godsmack faceless drum setup",
       "shannon larkin 2003",
@@ -344,21 +344,21 @@ export const articles = {
     "ogImage": "/images/drummers/shannon-larkin.webp",
     "intro": {
       "title": "Shannon Larkin's Billboard #1 Debut: The Drum Setup Behind Faceless",
-      "content": "Released on April 8, 2003, *Faceless* is the commercial and artistic summit of Godsmack's career — a hard rock album that debuted at #1 on the Billboard 200 in its first week and eventually certified 4× Platinum in the United States. At the center of that achievement was Shannon Larkin, recording his first full studio album with Godsmack less than a year after joining the band.\n\nLarkin had replaced founding drummer Tommy Stewart in 2002, bringing with him a resume that included thrash metal work with Wrathchild America and the mainstream crossover success of Ugly Kid Joe's \"Everything About You\" (1992). When Godsmack entered the studio for *Faceless*, Larkin arrived with his Tama Starclassic Maple kit and Sabian cymbal setup — the gear he had refined through years of professional touring — and proceeded to record the most commercially significant hard rock drum performance of the decade's first half.\n\nThe album's lead single, \"I Stand Alone\" — written for the 2004 film *The Chronicles of Riddick* — became one of the most-played rock songs of the 2000s on American radio, driven by Larkin's relentless, pounding groove. \"Straight Out of Line\" demonstrated a heavier, more aggressive approach. \"Changes\" showcased his dynamic range. Together, these tracks established Larkin as one of hard rock's most powerful drummers almost immediately upon joining one of its biggest bands.\n\nThis article examines the Tama Starclassic Maple kit, Sabian cymbal setup, and hardware that powered Larkin's *Faceless* studio performance — the gear behind Godsmack's commercial peak and Shannon Larkin's arrival as a hard rock force.",
+      "content": "Released on April 8, 2003, *Faceless* is the commercial and artistic summit of Godsmack's career — a hard rock album that debuted at #1 on the Billboard 200 in its first week and eventually certified 4× Platinum in the United States. At the center of that achievement was Shannon Larkin, recording his first full studio album with Godsmack less than a year after joining the band.\n\nLarkin had replaced founding drummer Tommy Stewart in 2002, bringing with him a resume that included thrash metal work with Wrathchild America and the mainstream crossover success of Ugly Kid Joe's \"Everything About You\" (1992). When Godsmack entered the studio for *Faceless*, Larkin arrived with his ddrum Dios Series kit and Sabian cymbal setup — the road-tested rig he carried into every subsequent Godsmack studio album — and proceeded to record the most commercially significant hard rock drum performance of the decade's first half.\n\nThe album's lead single, \"I Stand Alone\" — written for the 2004 film *The Chronicles of Riddick* — became one of the most-played rock songs of the 2000s on American radio, driven by Larkin's relentless, pounding groove. \"Straight Out of Line\" demonstrated a heavier, more aggressive approach. \"Changes\" showcased his dynamic range. Together, these tracks established Larkin as one of hard rock's most powerful drummers almost immediately upon joining one of its biggest bands.\n\nThis article examines the ddrum Dios Series kit, Sabian cymbal setup, and hardware that powered Larkin's *Faceless* studio performance — the gear behind Godsmack's commercial peak and Shannon Larkin's arrival as a hard rock force.",
       "keyPoints": [
         "Shannon Larkin's first full studio album with Godsmack — joined the band in 2002",
         "Faceless debuted #1 on Billboard 200 (April 2003) and certified 4× Platinum in the US",
         "\"I Stand Alone\" became one of the most-played rock songs of the 2000s",
-        "Tama Starclassic Maple kit — Shannon's touring setup in his early Godsmack years",
+        "ddrum Dios Series kit — Shannon's touring and recording setup since joining Godsmack",
         "Sabian cymbals: AAX series hi-hats, crashes, and ride",
         "Replaced founding drummer Tommy Stewart; brought veteran gear from Wrathchild America / Ugly Kid Joe era"
       ]
     },
     "drumKit": {
-      "title": "Tama Starclassic Maple: The Kit That Topped the Billboard 200",
-      "brand": "Tama",
-      "model": "Tama Starclassic Maple",
-      "finish": "Custom touring finish",
+      "title": "ddrum Dios Series: The Kit That Topped the Billboard 200",
+      "brand": "ddrum",
+      "model": "ddrum Dios Series",
+      "finish": "Custom finishes",
       "config": {
         "bassdrums": [
           "22\" x 18\" Bass Drum (x2 — double kick configuration)"
@@ -371,28 +371,28 @@ export const articles = {
           "14\" x 14\" Floor Tom",
           "16\" x 16\" Floor Tom"
         ],
-        "shells": "Maple shells — Tama Starclassic professional series"
+        "shells": "Custom-finish shells — ddrum Dios Series"
       },
-      "description": "Shannon Larkin's early Godsmack era was defined by his Tama Starclassic Maple kit — one of the most respected professional drum kits available in the early 2000s and a natural choice for a drummer who had built his career on road-tested professional gear. The Starclassic Maple's all-maple shell construction delivers a warm, full-bodied tone with a focused attack: characteristics that translate exceptionally well both in studio environments and on the arena stages Godsmack was beginning to headline.\n\nThe double 22\" kick configuration was central to Larkin's approach on *Faceless*. Godsmack's music — particularly the groove-driven hard rock that defined their commercial identity — relies on a bass drum that speaks with authority in the low register without muddying the rhythm. The 22\" Starclassic kicks delivered exactly that: punchy, defined, and locked with bassist Robbie Merrill's low-end foundation throughout the album's 13 tracks.\n\nTama's Starclassic Maple shells were prized in the early 2000s professional touring community for their even sustain, warm fundamental, and durability. The maple construction's natural tonal character sits beautifully in hard rock mixes — dense enough to feel powerful but open enough to breathe within arrangements that required dynamic range, as *Faceless* tracks like \"Changes\" and \"Serenity\" demonstrated.\n\nThe streamlined four-tom setup — two rack toms (10\", 12\") and two floor toms (14\", 16\") — gave Larkin the range for creative fills without overcomplicating his configuration. Godsmack's music demands power and momentum above technical complexity, and Larkin's Tama setup was calibrated precisely for those priorities.\n\nOn *Faceless*, the Starclassic Maple's tone is heard at its most natural: close-miked for attack definition, the shell's maple warmth providing the body that distinguishes genuine hard rock drum production from the processed, triggered sounds that had become common in heavy rock by 2003. The kit sounded like drums — powerful, physical, and room-filling.",
+      "description": "Shannon Larkin's early Godsmack era was defined by his ddrum Dios Series kit — a road-grade professional kit built for the durability and punch that touring hard rock demands, and the same brand Larkin has endorsed for the entirety of his Godsmack tenure. The Dios Series' custom-finish shell construction delivers a warm, full-bodied tone with a focused attack: characteristics that translate exceptionally well both in studio environments and on the arena stages Godsmack was beginning to headline.\n\nThe double 22\" kick configuration was central to Larkin's approach on *Faceless*. Godsmack's music — particularly the groove-driven hard rock that defined their commercial identity — relies on a bass drum that speaks with authority in the low register without muddying the rhythm. The 22\" Dios kicks delivered exactly that: punchy, defined, and locked with bassist Robbie Merrill's low-end foundation throughout the album's 13 tracks.\n\nThe Dios Series' shell construction was built for touring durability without sacrificing tone. Its natural character sits beautifully in hard rock mixes — dense enough to feel powerful but open enough to breathe within arrangements that required dynamic range, as *Faceless* tracks like \"Changes\" and \"Serenity\" demonstrated.\n\nThe streamlined four-tom setup — two rack toms (10\", 12\") and two floor toms (14\", 16\") — gave Larkin the range for creative fills without overcomplicating his configuration. Godsmack's music demands power and momentum above technical complexity, and Larkin's ddrum setup was calibrated precisely for those priorities.\n\nOn *Faceless*, the Dios Series' tone is heard at its most natural: close-miked for attack definition, the shells providing the body that distinguishes genuine hard rock drum production from the processed, triggered sounds that had become common in heavy rock by 2003. The kit sounded like drums — powerful, physical, and room-filling.",
       "notes": [
-        "Tama Starclassic Maple — Shannon's professional standard in his early Godsmack years",
+        "ddrum Dios Series — Shannon's professional standard since joining Godsmack in 2002",
         "Double 22\" bass drums: focused low-end punch suited to hard rock arena environments",
         "Four-tom spread (10\", 12\", 14\", 16\") for dynamic fills across Faceless arrangements",
-        "Maple shells: warm fundamental and natural sustain — authentic hard rock drum tone",
-        "Later transitioned to Ddrum Reflex endorsement; Tama was his Faceless-era standard"
+        "Custom-finish shells: warm fundamental and natural sustain — authentic hard rock drum tone",
+        "Long-time ddrum endorser — the Dios Series has been his Godsmack-era standard from Faceless onward"
       ],
-      "estimatedValue": "$2,000–4,000 (Tama Starclassic Maple shell pack, 2003)"
+      "estimatedValue": "$1,500–3,000 (ddrum Dios Series shell pack, 2003 era)"
     },
     "snare": {
-      "title": "Steel Snare Authority: The Crack Behind the Billboard #1",
-      "brand": "Tama",
-      "model": "Tama Starclassic Steel Snare",
+      "title": "Maple Snare Authority: The Crack Behind the Billboard #1",
+      "brand": "ddrum",
+      "model": "ddrum Dios 14\" x 6.5\" Maple",
       "size": "14\" x 6.5\"",
-      "shell": "Steel",
-      "description": "Shannon Larkin's snare voice on *Faceless* is one of the most immediately identifiable elements of the album's drum sound: a cutting, authoritative crack that drives through Godsmack's wall-of-guitar production with complete clarity. The 14\" x 6.5\" steel snare produced a high-frequency attack and projection that defined Godsmack's hard rock backbeat across every track on the album.\n\nSteel shell construction delivers the bright, cutting attack that hard rock production demands at this level. In Godsmack's sonic context — heavy guitar tones tuned down, Robbie Merrill's prominent bass, and Sully Erna's powerful vocal delivery — the snare needed to establish its own sonic territory with authority. A steel shell's bright upper-midrange character claims that space naturally, without requiring excessive eq or processing.\n\nThe 6.5\" depth provided the body and sustain that separates a powerful snare sound from a thin one. Each backbeat on *Faceless* — whether on the driving eighth-note groove of \"I Stand Alone\" or the more explosive accent patterns of \"Greed\" — arrives with a full, three-dimensional character that shallow snares cannot replicate.\n\nLarkin tuned the snare at medium-high tension, prioritizing the cut and definition his playing style requires. The attack is immediate and unambiguous — a technique choice as much as a tuning choice, ensuring the backbeat communicates the track's groove without any ambiguity. This approach is particularly evident on \"Straight Out of Line,\" where the snare's authority is what makes the groove feel genuinely heavy.",
+      "shell": "Maple",
+      "description": "Shannon Larkin's snare voice on *Faceless* is one of the most immediately identifiable elements of the album's drum sound: a cutting, authoritative crack that drives through Godsmack's wall-of-guitar production with complete clarity. The 14\" x 6.5\" ddrum Dios maple snare produced a warm yet cutting attack and projection that defined Godsmack's hard rock backbeat across every track on the album.\n\nMaple shell construction delivers the powerful, cutting attack that hard rock production demands at this level. In Godsmack's sonic context — heavy guitar tones tuned down, Robbie Merrill's prominent bass, and Sully Erna's powerful vocal delivery — the snare needed to establish its own sonic territory with authority. The maple shell's warm fundamental with a sharp crack claims that space naturally, without requiring excessive eq or processing.\n\nThe 6.5\" depth provided the body and sustain that separates a powerful snare sound from a thin one. Each backbeat on *Faceless* — whether on the driving eighth-note groove of \"I Stand Alone\" or the more explosive accent patterns of \"Greed\" — arrives with a full, three-dimensional character that shallow snares cannot replicate.\n\nLarkin tuned the snare at medium-high tension, prioritizing the cut and definition his playing style requires. The attack is immediate and unambiguous — a technique choice as much as a tuning choice, ensuring the backbeat communicates the track's groove without any ambiguity. This approach is particularly evident on \"Straight Out of Line,\" where the snare's authority is what makes the groove feel genuinely heavy.",
       "tuningSetting": "Medium-high for cut and projection through Godsmack's dense guitar mix",
       "heads": "Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)",
-      "estimatedValue": "$200–400 (steel snare, 2003 era)"
+      "estimatedValue": "$300–500 (ddrum Dios maple snare, 2003 era)"
     },
     "cymbals": {
       "title": "Sabian AAX: Bright and Explosive for Hard Rock's Biggest Stage",
@@ -477,11 +477,11 @@ export const articles = {
     },
     "recordingTechniques": {
       "title": "Recording Faceless: Hard Rock at the Commercial Summit",
-      "content": "By 2003, Godsmack had developed into one of the tightest hard rock bands in America — two platinum albums and relentless touring had forged the band into a well-oiled unit. Shannon Larkin came into the *Faceless* sessions as a relatively new member but brought with him the professional discipline of a drummer who had spent over a decade recording and touring at a high level.\n\n**The Authentic Live Approach:**\n*Faceless* was recorded with an emphasis on authentic drum sound — real shells, real cymbals, real room. In a period when triggered drum sounds had become the norm in mainstream metal production, Godsmack's approach on *Faceless* prioritized the actual acoustic character of Larkin's Tama Starclassic Maple kit. The result is a drum performance that feels physical and present, with the natural warmth of maple shells and Sabian AAX cymbals captured at their best.\n\n**Kick Drum Definition:**\nWith Robbie Merrill's bass guitar occupying significant low-frequency energy in Godsmack's mix, the kick drums on *Faceless* were captured with a focus on the upper-bass punch range (150–250 Hz) that allows the kick to sit alongside the bass rather than competing with it. The Remo Powerstroke 3 batter heads contributed to this — their focused attack and controlled resonance delivered defined kick transients without excessive sub-bass bloom.\n\n**Snare Prominence:**\nThe snare on *Faceless* sits prominently in the mix — a production choice that reflects Larkin's role as the rhythmic anchor in Godsmack's arrangements. The steel snare's natural high-frequency character required minimal processing; it simply cuts through the production the way steel shells always do.\n\n**Dynamic Architecture:**\n*Faceless* is a more dynamically varied album than its platinum-certified predecessors suggested. Tracks like \"Changes\" and \"Serenity\" required Larkin to demonstrate genuine dynamic restraint — playing at moderate intensity in verse sections before escalating for choruses. The studio capture reflected this: hi-hat and snare work in quieter passages is audibly different in intensity from the full-force moments, showing a drummer comfortable with dynamic expression across the full range of the album's emotional palette.",
+      "content": "By 2003, Godsmack had developed into one of the tightest hard rock bands in America — two platinum albums and relentless touring had forged the band into a well-oiled unit. Shannon Larkin came into the *Faceless* sessions as a relatively new member but brought with him the professional discipline of a drummer who had spent over a decade recording and touring at a high level.\n\n**The Authentic Live Approach:**\n*Faceless* was recorded with an emphasis on authentic drum sound — real shells, real cymbals, real room. In a period when triggered drum sounds had become the norm in mainstream metal production, Godsmack's approach on *Faceless* prioritized the actual acoustic character of Larkin's ddrum Dios Series kit. The result is a drum performance that feels physical and present, with the natural warmth of the Dios shells and Sabian AAX cymbals captured at their best.\n\n**Kick Drum Definition:**\nWith Robbie Merrill's bass guitar occupying significant low-frequency energy in Godsmack's mix, the kick drums on *Faceless* were captured with a focus on the upper-bass punch range (150–250 Hz) that allows the kick to sit alongside the bass rather than competing with it. The Remo Powerstroke 3 batter heads contributed to this — their focused attack and controlled resonance delivered defined kick transients without excessive sub-bass bloom.\n\n**Snare Prominence:**\nThe snare on *Faceless* sits prominently in the mix — a production choice that reflects Larkin's role as the rhythmic anchor in Godsmack's arrangements. The maple snare's warm, cutting character required minimal processing; it simply cuts through the production with the crack Larkin's playing demands.\n\n**Dynamic Architecture:**\n*Faceless* is a more dynamically varied album than its platinum-certified predecessors suggested. Tracks like \"Changes\" and \"Serenity\" required Larkin to demonstrate genuine dynamic restraint — playing at moderate intensity in verse sections before escalating for choruses. The studio capture reflected this: hi-hat and snare work in quieter passages is audibly different in intensity from the full-force moments, showing a drummer comfortable with dynamic expression across the full range of the album's emotional palette.",
       "keyTechniques": [
         "Authentic acoustic drum capture — real shells and cymbals, minimal processing",
         "Kick EQ focused on upper-bass punch to sit alongside Merrill's bass guitar",
-        "Steel snare's natural high-frequency cut required minimal processing",
+        "Maple snare's warm, cutting crack required minimal processing",
         "Dynamic range capture across Faceless's varied arrangements"
       ]
     },
@@ -497,7 +497,7 @@ export const articles = {
           "Fills are economical and powerful — placed at riff transitions, never for display",
           "Originally written for the film The Chronicles of Riddick (2004); became one of the most-played rock songs of the 2000s"
         ],
-        "gearNotes": "The Tama Starclassic Maple kick's focused punch is at the center of this track's groove — the drum's natural attack provides the mechanical authority the song demands."
+        "gearNotes": "The ddrum Dios Series kick's focused punch is at the center of this track's groove — the drum's natural attack provides the mechanical authority the song demands."
       },
       {
         "track": "Straight Out of Line",
@@ -506,7 +506,7 @@ export const articles = {
         "highlights": [
           "One of Faceless's heavier tracks — more aggressive tempo and driving double-kick foundation",
           "Double-bass patterns underpin the verse sections, demonstrating Larkin's foot control at driving tempos",
-          "The snare cuts through with maximum authority — steel shell construction at its most effective",
+          "The snare cuts through with maximum authority — maple shell construction at its most effective",
           "Crash accent placement is deliberate: every hit marks a genuine musical climax",
           "Demonstrates Larkin's ability to maintain groove at higher BPM without sacrificing pocket feel"
         ],
@@ -529,11 +529,11 @@ export const articles = {
     "faq": [
       {
         "question": "What drums does Shannon Larkin use?",
-        "answer": "Shannon Larkin's current touring setup centers on Ddrum Reflex Series drums — a road-grade professional kit he has endorsed for much of his Godsmack career. However, on *Faceless* (2003) — his debut studio album with Godsmack — he recorded with his Tama Starclassic Maple kit, which had been his professional standard through his earlier career with Wrathchild America and Ugly Kid Joe. The Starclassic Maple's all-maple construction delivered the warm, focused tone that defines the drum sound on *Faceless*. He later transitioned to Ddrum endorsement. For his complete gear history, see the [Shannon Larkin drummer profile](/drummer/shannon-larkin)."
+        "answer": "Shannon Larkin is a long-time ddrum endorser, and his ddrum Dios Series kit has anchored his sound for the entirety of his Godsmack tenure. On *Faceless* (2003) — his debut studio album with Godsmack — he recorded with the same ddrum Dios Series kit and a ddrum Dios 14\"x6.5\" maple snare that defines his sound to this day. For his complete gear history, see the [Shannon Larkin drummer profile](/drummer/shannon-larkin)."
       },
       {
         "question": "What was Shannon Larkin's setup on Faceless?",
-        "answer": "On Godsmack's *Faceless* (2003), Shannon Larkin used a Tama Starclassic Maple kit — double 22\" bass drums, 10\" and 12\" rack toms, 14\" and 16\" floor toms — paired with Sabian AAX cymbals including 14\" Stage Hi-Hats, 18\" and 19\" X-Plosion Crashes, a 21\" Stage Ride, and an 18\" Chinese cymbal. His snare was a 14\" x 6.5\" steel model (Tama era), tuned at medium-high tension for the cutting crack central to Godsmack's backbeat. DW 9000 double bass pedals powered the double-kick patterns that drove tracks like \"Straight Out of Line.\" It was Larkin's first full studio album with Godsmack, recorded after joining the band in 2002 to replace founding drummer Tommy Stewart."
+        "answer": "On Godsmack's *Faceless* (2003), Shannon Larkin used a ddrum Dios Series kit — double 22\" bass drums, 10\" and 12\" rack toms, 14\" and 16\" floor toms — paired with Sabian AAX cymbals including 14\" Stage Hi-Hats, 18\" and 19\" X-Plosion Crashes, a 21\" Stage Ride, and an 18\" Chinese cymbal. His snare was a ddrum Dios 14\" x 6.5\" maple model, tuned at medium-high tension for the cutting crack central to Godsmack's backbeat. DW 9000 double bass pedals powered the double-kick patterns that drove tracks like \"Straight Out of Line.\" It was Larkin's first full studio album with Godsmack, recorded after joining the band in 2002 to replace founding drummer Tommy Stewart."
       },
       {
         "question": "What cymbals does Shannon Larkin use?",
@@ -550,17 +550,17 @@ export const articles = {
     ],
     "evolution": {
       "title": "From Faceless to Lighting Up the Sky: Shannon Larkin's Gear Through the Godsmack Years",
-      "content": "*Faceless* (2003) was the starting point of Shannon Larkin's Godsmack tenure — and in commercial terms, its peak. The album established the rhythmic template that would define Godsmack's sound for the next two decades while documenting Larkin's Tama Starclassic Maple era before his transition to Ddrum endorsement.\n\n**The Tama Era (2002–mid-2000s):**\nLarkin entered Godsmack with his existing professional Tama Starclassic Maple setup. *Faceless* is the primary document of this era — the maple shells and Sabian AAX cymbal voice define the album's drum sound with natural warmth and brightness. This era captured Larkin at his most direct: powerful groove, steel snare authority, and the confident hard rock approach he had refined over a decade.\n\n**The Ddrum Transition (mid-2000s onward):**\nBy the *IV* (2006) era, Larkin had transitioned to Ddrum Reflex Series drums as his primary touring and recording kit. The Ddrum Reflex's basswood/poplar construction delivered a drier, punchier attack compared to the Starclassic Maple's warmer resonance. The cymbal setup evolved from pure AAX to the dual AAX/HHX configuration that became his signature: AAX for hi-hats and crashes, HHX Raw Bell Dry Ride for time-keeping nuance.\n\n**The Current Era:**\nLarkin's current setup — Ddrum Reflex Series, Ddrum Shannon Larkin Signature snare, Sabian AAX/HHX full complement, DW 9000 double pedal, Vater Shannon Larkin Signature sticks — is fully documented in the [Shannon Larkin drum setup guide](/articles/shannon-larkin-drum-setup). The fundamental priorities have not changed since *Faceless*: power, pocket, and consistency for hard rock's biggest stages.",
+      "content": "*Faceless* (2003) was the starting point of Shannon Larkin's Godsmack tenure — and in commercial terms, its peak. The album established the rhythmic template that would define Godsmack's sound for the next two decades, and it also documents the gear foundation that has remained remarkably consistent ever since: Larkin has been a ddrum endorser for his entire run with the band.\n\n**A Consistent Foundation (2003–present):**\nLarkin entered Godsmack with his ddrum Dios Series kit and Sabian AAX cymbal voice, and both have anchored every studio album that followed. *Faceless* is the primary document of the earliest era — the Dios shells and Sabian AAX cymbal voice define the album's drum sound with natural warmth and brightness. Across subsequent albums, his cymbal setup expanded from pure AAX to the dual AAX/HHX configuration that became his signature, while the ddrum kit and maple snare have never changed.\n\n**The Current Era:**\nLarkin's current setup — ddrum Dios Series, ddrum Dios 14\" x 6.5\" maple snare, Sabian AAX/HHX full complement, DW 9000 double pedal, Vater Shannon Larkin Signature sticks — is fully documented in the [Shannon Larkin drum setup guide](/articles/shannon-larkin-drum-setup). The fundamental priorities have not changed since *Faceless*: power, pocket, and consistency for hard rock's biggest stages.",
       "thenVsNow": [
         {
           "category": "Kit",
-          "then": "Tama Starclassic Maple (Faceless era, 2003)",
-          "now": "Ddrum Reflex Series"
+          "then": "ddrum Dios Series (Faceless era, 2003)",
+          "now": "ddrum Dios Series (unchanged)"
         },
         {
           "category": "Snare",
-          "then": "Tama Steel 14\" x 6.5\"",
-          "now": "Ddrum Shannon Larkin Signature 14\" x 6.5\" Steel"
+          "then": "ddrum Dios 14\" x 6.5\" Maple",
+          "now": "ddrum Dios 14\" x 6.5\" Maple (unchanged)"
         },
         {
           "category": "Cymbals",
@@ -622,8 +622,8 @@ export const articles = {
         "url": "/gear/sabian"
       },
       {
-        "text": "Tama drums brand overview",
-        "url": "/gear/tama"
+        "text": "ddrum drums brand overview",
+        "url": "/gear/ddrum"
       }
     ],
     "schema": {
@@ -725,7 +725,7 @@ export const articles = {
               "name": "What drums does Shannon Larkin use?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Shannon Larkin currently plays Ddrum Reflex Series drums, but on Faceless (2003) he recorded with a Tama Starclassic Maple kit — double 22\" bass drums, 10\" and 12\" rack toms, 14\" and 16\" floor toms. He later transitioned to Ddrum endorsement."
+                "text": "Shannon Larkin has played ddrum Dios Series drums throughout his entire Godsmack tenure, including on Faceless (2003) — double 22\" bass drums, 10\" and 12\" rack toms, 14\" and 16\" floor toms. He has been a long-time ddrum endorser since joining the band."
               }
             },
             {
@@ -733,7 +733,7 @@ export const articles = {
               "name": "What was Shannon Larkin's setup on Faceless?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "On Godsmack's Faceless (2003), Shannon Larkin used a Tama Starclassic Maple kit with double 22\" bass drums, Sabian AAX cymbals including 14\" Stage Hi-Hats and 18\"/19\" X-Plosion Crashes, a 14\" x 6.5\" steel snare, and DW 9000 double bass pedals. It was his first studio album with Godsmack after joining the band in 2002."
+                "text": "On Godsmack's Faceless (2003), Shannon Larkin used a ddrum Dios Series kit with double 22\" bass drums, Sabian AAX cymbals including 14\" Stage Hi-Hats and 18\"/19\" X-Plosion Crashes, a ddrum Dios 14\" x 6.5\" maple snare, and DW 9000 double bass pedals. It was his first studio album with Godsmack after joining the band in 2002."
               }
             },
             {
@@ -750,7 +750,7 @@ export const articles = {
     },
     "conclusion": {
       "title": "The Groove That Topped the Charts: Faceless and the Larkin Era Begins",
-      "content": "*Faceless* (2003) represents Shannon Larkin at the beginning of one of American hard rock's most enduring drummer-band relationships — and simultaneously at its commercial peak. The album that launched his Godsmack career debuted at #1 on the Billboard 200 and eventually certified 4× Platinum, built on the rhythmic foundation Larkin established with his Tama Starclassic Maple kit and Sabian AAX cymbals.\n\nThe drum sound on *Faceless* is deceptively straightforward. There are no technical showpieces, no elaborate production tricks, no triggered samples obscuring the acoustic character of real drums in a real room. What there is: authoritative kick placement that makes every groove feel inevitable, a steel snare crack that defines Godsmack's backbeat with absolute clarity, and the dynamic intelligence to serve arrangements that range from the relentless pulse of \"I Stand Alone\" to the more nuanced arc of \"Changes.\"\n\n**For Drummers Studying Faceless:**\nStart with \"I Stand Alone.\" The quarter-note kick pattern at 136 BPM is deceptively simple — but replicating the weight and authority of Larkin's groove requires more than just the correct pattern. It requires his approach: the deep-pocket timing, the snare that lands with physical authority rather than metronomic precision, the hi-hat that projects forward without overshadowing the kick-snare relationship. Once that groove is under your hands, work through \"Straight Out of Line\" for the double-kick foundation, and \"Changes\" for the dynamic control that makes the heavy sections feel genuinely heavy by contrast.\n\n**The Gear Legacy:**\nTama Starclassic Maple drums remain among the most respected professional maple shells in the industry — a kit choice that ages well because its qualities (warmth, focus, durability) are permanently relevant in hard rock contexts. Sabian AAX cymbals continue as a primary professional choice for hard rock and heavy metal drummers worldwide. A player working toward the *Faceless* drum sound can approach it authentically at multiple price points — the requirements are gear philosophy and playing approach, not a specific vintage kit.\n\nFor Shannon Larkin's complete career arc and current setup, see the [Shannon Larkin drummer profile](/drummer/shannon-larkin) and the [full gear breakdown](/articles/shannon-larkin-drum-setup).\n\nFor hard rock drumming context in the same commercial crossover tradition, the [Cowboys from Hell drum setup](/articles/cowboys-from-hell-drum-setup) documents Vinnie Paul's approach — the groove-first hard rock philosophy that shaped Larkin's generation.\n\n🤘 *#1 Billboard 200. 4× Platinum. The groove that topped the charts.* 🤘"
+      "content": "*Faceless* (2003) represents Shannon Larkin at the beginning of one of American hard rock's most enduring drummer-band relationships — and simultaneously at its commercial peak. The album that launched his Godsmack career debuted at #1 on the Billboard 200 and eventually certified 4× Platinum, built on the rhythmic foundation Larkin established with his ddrum Dios Series kit and Sabian AAX cymbals.\n\nThe drum sound on *Faceless* is deceptively straightforward. There are no technical showpieces, no elaborate production tricks, no triggered samples obscuring the acoustic character of real drums in a real room. What there is: authoritative kick placement that makes every groove feel inevitable, a maple snare crack that defines Godsmack's backbeat with absolute clarity, and the dynamic intelligence to serve arrangements that range from the relentless pulse of \"I Stand Alone\" to the more nuanced arc of \"Changes.\"\n\n**For Drummers Studying Faceless:**\nStart with \"I Stand Alone.\" The quarter-note kick pattern at 136 BPM is deceptively simple — but replicating the weight and authority of Larkin's groove requires more than just the correct pattern. It requires his approach: the deep-pocket timing, the snare that lands with physical authority rather than metronomic precision, the hi-hat that projects forward without overshadowing the kick-snare relationship. Once that groove is under your hands, work through \"Straight Out of Line\" for the double-kick foundation, and \"Changes\" for the dynamic control that makes the heavy sections feel genuinely heavy by contrast.\n\n**The Gear Legacy:**\nddrum's Dios Series remains a durable, road-tested choice for touring hard rock drummers — a kit choice that ages well because its qualities (durability, punch, reliability) are permanently relevant in hard rock contexts. Sabian AAX cymbals continue as a primary professional choice for hard rock and heavy metal drummers worldwide. A player working toward the *Faceless* drum sound can approach it authentically at multiple price points — the requirements are gear philosophy and playing approach, not a specific vintage kit.\n\nFor Shannon Larkin's complete career arc and current setup, see the [Shannon Larkin drummer profile](/drummer/shannon-larkin) and the [full gear breakdown](/articles/shannon-larkin-drum-setup).\n\nFor hard rock drumming context in the same commercial crossover tradition, the [Cowboys from Hell drum setup](/articles/cowboys-from-hell-drum-setup) documents Vinnie Paul's approach — the groove-first hard rock philosophy that shaped Larkin's generation.\n\n🤘 *#1 Billboard 200. 4× Platinum. The groove that topped the charts.* 🤘"
     }
   },
   "godsmack-iv-drum-setup": {
@@ -769,13 +769,13 @@ export const articles = {
     "datePublished": "2026-06-26",
     "dateModified": "2026-06-26",
     "author": "MetalForge Editorial",
-    "title": "Godsmack IV Drum Setup: Shannon Larkin's Pearl Reference Gear on the #2 Billboard Album (2006)",
-    "description": "Discover the exact drum kit, cymbals, and gear Shannon Larkin used on Godsmack's IV (2006) — the #2 Billboard 200 debut, certified Platinum. Pearl Reference drums, Sabian HH/HHX cymbals, Pearl Eliminator pedals, and the heavier direction that evolved from Faceless.",
+    "title": "Godsmack IV Drum Setup: Shannon Larkin's ddrum Dios Series Gear on the #2 Billboard Album (2006)",
+    "description": "Discover the exact drum kit, cymbals, and gear Shannon Larkin used on Godsmack's IV (2006) — the #2 Billboard 200 debut, certified Platinum. ddrum Dios Series drums, Sabian HH/HHX cymbals, Pearl Eliminator pedals, and the heavier direction that evolved from Faceless.",
     "seoKeywords": [
       "shannon larkin drum setup",
       "godsmack iv drums",
       "godsmack drummer kit 2006",
-      "shannon larkin pearl reference",
+      "shannon larkin ddrum dios",
       "shannon larkin sabian hh",
       "godsmack iv drum setup",
       "shannon larkin 2006",
@@ -785,23 +785,22 @@ export const articles = {
     ],
     "ogImage": "/images/drummers/shannon-larkin.webp",
     "intro": {
-      "title": "Shannon Larkin's Pearl Reference Era: The Drum Setup Behind Godsmack IV",
-      "content": "Released on April 25, 2006, *IV* is Godsmack's fourth studio album and the direct follow-up to the #1 Billboard 200 breakthrough *Faceless* (2003). Where *Faceless* had been Larkin's introduction to the band and its commercial apex, *IV* arrived as a statement of intent: a heavier, more aggressive album from a band that had nothing left to prove commercially and everything to gain artistically. It debuted at #2 on the Billboard 200 and certified Platinum in the United States — a remarkable achievement for a hard rock album in 2006, a year when the format was facing increasing commercial headwinds.\n\nBetween *Faceless* and *IV*, Shannon Larkin had undergone a significant gear transition. The Tama Starclassic Maple kit that defined his debut Godsmack studio performance gave way to the Pearl Reference Series — Pearl's flagship professional shell pack, introduced in the mid-2000s as the company's highest-tier touring and recording instrument. The Pearl Reference's hybrid maple/birch shell construction delivered a more punchy, immediate attack than the Starclassic Maple's warmth, calibrated precisely for the heavier, more direct sound Godsmack was pursuing on *IV*.\n\nAlongside the Pearl Reference, Larkin upgraded his pedal setup to the Pearl Eliminator — Pearl's top-tier double bass pedal, co-engineered for the direct-drive precision demanded by harder-hitting rock and metal applications. His cymbal setup evolved from pure Sabian AAX to a dual-series HH/HHX configuration that added darker tonal complexity to the bright, aggressive character that had defined *Faceless*. And his sticks changed endorsement: Vic Firth SD1 General sticks, with their balanced taper and acorn tip, provided the weight and articulation his evolving approach required.\n\nThis article documents the Pearl Reference kit, Sabian HH/HHX cymbal configuration, Pearl Eliminator pedals, and Vic Firth sticks that powered Shannon Larkin's *IV* studio performance — the gear behind Godsmack's heaviest, most aggressive album to that point.",
+      "title": "Shannon Larkin's ddrum Dios Series on Godsmack IV",
+      "content": "Released on April 25, 2006, *IV* is Godsmack's fourth studio album and the direct follow-up to the #1 Billboard 200 breakthrough *Faceless* (2003). Where *Faceless* had been Larkin's introduction to the band and its commercial apex, *IV* arrived as a statement of intent: a heavier, more aggressive album from a band that had nothing left to prove commercially and everything to gain artistically. It debuted at #2 on the Billboard 200 and certified Platinum in the United States — a remarkable achievement for a hard rock album in 2006, a year when the format was facing increasing commercial headwinds.\n\nBetween *Faceless* and *IV*, Shannon Larkin's core kit stayed the same: the ddrum Dios Series that anchored his Godsmack debut remained his platform for *IV*, delivering the durable, punchy attack that suited the album's heavier, more direct direction. His cymbal setup evolved from pure Sabian AAX to a dual-series HH/HHX configuration that added darker tonal complexity to the bright, aggressive character that had defined *Faceless*, and Larkin's pedal and stick choices for the album were the Pearl Eliminator double pedal and Vic Firth SD1 General sticks.\n\nThis article documents the ddrum Dios Series kit, Sabian HH/HHX cymbal configuration, Pearl Eliminator pedals, and Vic Firth sticks that powered Shannon Larkin's *IV* studio performance — the gear behind Godsmack's heaviest, most aggressive album to that point.",
       "keyPoints": [
         "Godsmack IV debuted #2 on Billboard 200 (April 2006) and certified Platinum in the US",
-        "Shannon Larkin's significant gear transition from Faceless: Tama → Pearl Reference",
-        "Pearl Reference Series — Pearl's flagship professional shell pack, mid-2000s era",
-        "Pearl Free-Floating 14\"x6.5\" brass snare: brighter attack, more cutting crack than steel",
+        "ddrum Dios Series — Shannon Larkin's kit since Faceless, unchanged for IV",
+        "ddrum Dios 14\"x6.5\" maple snare — the warm, cutting crack central to Larkin's sound",
         "Sabian HH / HHX dual-series cymbals — expanded tonal range over Faceless-era pure AAX",
         "Pearl Eliminator double bass pedal — flagship direct-drive precision for harder-hitting grooves",
         "Vic Firth SD1 General sticks — new endorsement reflecting Larkin's evolving approach"
       ]
     },
     "drumKit": {
-      "title": "Pearl Reference: Flagship Shells for a Heavier Direction",
-      "brand": "Pearl",
-      "model": "Pearl Reference Series",
-      "finish": "Custom touring finish",
+      "title": "ddrum Dios Series: Durable Shells for a Heavier Direction",
+      "brand": "ddrum",
+      "model": "ddrum Dios Series",
+      "finish": "Custom finishes",
       "config": {
         "bassdrums": [
           "22\" x 18\" Bass Drum (x2 — double kick configuration)"
@@ -814,28 +813,28 @@ export const articles = {
           "14\" x 14\" Floor Tom",
           "16\" x 16\" Floor Tom"
         ],
-        "shells": "Maple/birch hybrid shells — Pearl Reference professional series"
+        "shells": "Custom-finish shells — ddrum Dios Series"
       },
-      "description": "The Pearl Reference Series represented Pearl's commitment to maximum tonal versatility at the professional level when it was introduced in the mid-2000s. Its hybrid maple/birch shell construction — alternating plies of maple and birch — combined the warm fundamental of maple with the punchy attack of birch: a sound that sits distinctly in the spectrum between the Tama Starclassic Maple's all-maple warmth and a pure birch shell's brightness. For Shannon Larkin and the *IV* sessions, the Reference's attack-forward character was exactly the platform the album's heavier direction demanded.\n\nThe double 22\" kick configuration carried over from Larkin's *Faceless* setup — this is a constant in his drumming philosophy across the Godsmack catalog. What changed was the character of those kicks: the Pearl Reference 22\" bass drums speak with a more immediate, defined transient than the Starclassic Maple's warmer low end. On *IV* tracks like \"No Rest for the Wicked\" and \"Speak,\" the kick drums lock into the rhythm with a precision and immediacy that marks a genuine step-up in sonic aggression.\n\nPearl's reference-grade hardware — including the MH-70W Memory Lock series and their reinforced mounting systems — kept the kit road-stable through the touring cycle that followed the album's release. Larkin's playing is physically demanding: driving hard rock grooves at arena volume require hardware that never compromises feel or geometry across a 100-show touring run.\n\nThe four-tom spread (10\", 12\", 14\", 16\") is identical to the *Faceless* configuration by design. Larkin's tom setup is a deliberate, consistent choice: enough range for expressive fills without the complexity overhead of an expanded kit. Godsmack's music — groove-first, power-forward — demands a drummer who is in the pocket, not exploring the outer reaches of a multi-tom rig.",
+      "description": "The ddrum Dios Series carried over unchanged from Larkin's *Faceless* setup for the *IV* sessions — the same road-grade kit that has anchored his sound for his entire Godsmack tenure. For *IV*'s heavier, more direct material, the Dios Series' punchy, durable shell character was exactly the platform the album's aggression demanded.\n\nThe double 22\" kick configuration carried over from Larkin's *Faceless* setup — this is a constant in his drumming philosophy across the Godsmack catalog. On *IV* tracks like \"No Rest for the Wicked\" and \"Speak,\" the kick drums lock into the rhythm with a precision and immediacy that marks a genuine step-up in sonic aggression from the debut.\n\nddrum's road-grade hardware kept the kit stable through the touring cycle that followed the album's release. Larkin's playing is physically demanding: driving hard rock grooves at arena volume require hardware that never compromises feel or geometry across a 100-show touring run.\n\nThe four-tom spread (10\", 12\", 14\", 16\") is identical to the *Faceless* configuration by design. Larkin's tom setup is a deliberate, consistent choice: enough range for expressive fills without the complexity overhead of an expanded kit. Godsmack's music — groove-first, power-forward — demands a drummer who is in the pocket, not exploring the outer reaches of a multi-tom rig.",
       "notes": [
-        "Pearl Reference Series — Pearl's flagship professional shell pack, mid-2000s introduction",
-        "Maple/birch hybrid: warm fundamental with punchy, immediate attack — more aggressive than Faceless Tama",
-        "Double 22\" bass drums: identical configuration to Faceless, upgraded tonal character",
+        "ddrum Dios Series — unchanged from Larkin's Faceless-era kit",
+        "Custom-finish shells: punchy, durable character suited to IV's heavier direction",
+        "Double 22\" bass drums: identical configuration to Faceless",
         "Four-tom spread (10\", 12\", 14\", 16\") — consistent Larkin approach across the Godsmack catalog",
-        "Pearl reference-grade hardware for road stability across the IV touring cycle"
+        "ddrum road-grade hardware for stability across the IV touring cycle"
       ],
-      "estimatedValue": "$3,500–6,000 (Pearl Reference Series shell pack, 2006 era)"
+      "estimatedValue": "$1,500–3,000 (ddrum Dios Series shell pack, 2006 era)"
     },
     "snare": {
-      "title": "Pearl Free-Floating Brass: The Crack That Defines IV",
-      "brand": "Pearl",
-      "model": "Pearl Free-Floating 14\"x6.5\" Brass",
+      "title": "ddrum Dios Maple: The Crack That Defines IV",
+      "brand": "ddrum",
+      "model": "ddrum Dios 14\"x6.5\" Maple",
       "size": "14\" x 6.5\"",
-      "shell": "Brass",
-      "description": "The Pearl Free-Floating snare drum is one of the most distinctive professional snare choices available in the mid-2000s, and Shannon Larkin's selection of the 14\"x6.5\" brass model for the *IV* sessions represents a deliberate evolution in his snare voice. Where his *Faceless*-era steel snare delivered a bright, cutting attack, the Pearl Free-Floating brass shell introduces a warmer fundamental with a complex, multi-layered decay — a harder, more authoritative crack that sits differently in a mix than pure steel brightness.\n\nPearl's Free-Floating system is the defining construction feature: rather than bolting the tension rods to a reinforcement hoop that can impede shell resonance, the Free-Floating design suspends the hoops independently, allowing the shell to vibrate without constraint. The result is a snare that sounds like a drum — natural, resonant, with full shell-to-air transference — rather than a drum squeezed into performance by its own mounting hardware. At 6.5\" depth, the brass shell has sufficient volume to generate the body and sustain that Larkin's power-driven backbeats require.\n\nBrass shell construction delivers a warmer, more complex tone than steel. The initial attack is sharp and articulate — brass is not a soft metal — but the body of the sound has overtones that steel cannot produce. On *IV*, this snare voice adds a layer of musical complexity to what might otherwise be a purely percussive backbeat. Tracks like \"Speak\" and \"Shine Down\" demonstrate this: the snare isn't just a timekeeper, it's a sonic character in the arrangement.\n\nLarkin tuned the Free-Floating at medium-high tension to maintain the cutting attack his hard rock playing requires while allowing the brass shell's natural character to fully express itself. The combination of Pearl's Free-Floating suspension and the brass shell's warmth makes this snare one of the more tonally complex choices documented across Godsmack's studio albums.",
-      "tuningSetting": "Medium-high tension — maximizing brass shell warmth while preserving hard rock attack",
+      "shell": "Maple",
+      "description": "Shannon Larkin's snare voice on *IV* is the same ddrum Dios 14\"x6.5\" maple snare that anchored *Faceless* — a warm, cutting instrument that has been his consistent choice for the entirety of his Godsmack tenure.\n\nThe maple shell delivers a warm fundamental with a complex, articulate decay — a crack that sits with authority in a dense hard rock mix without requiring excessive eq or processing. At 6.5\" depth, the shell has sufficient volume to generate the body and sustain that Larkin's power-driven backbeats require.\n\nMaple shell construction delivers a warm, cutting tone with real character. The initial attack is sharp and articulate, but the body of the sound carries overtones that give it musical depth. On *IV*, this snare voice adds a layer of musical complexity to what might otherwise be a purely percussive backbeat. Tracks like \"Speak\" and \"Shine Down\" demonstrate this: the snare isn't just a timekeeper, it's a sonic character in the arrangement.\n\nLarkin tuned the snare at medium-high tension to maintain the cutting attack his hard rock playing requires while allowing the maple shell's natural character to fully express itself.",
+      "tuningSetting": "Medium-high tension — maximizing maple shell warmth while preserving hard rock attack",
       "heads": "Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)",
-      "estimatedValue": "$400–700 (Pearl Free-Floating brass snare, 2006 era)"
+      "estimatedValue": "$300–500 (ddrum Dios maple snare, 2006 era)"
     },
     "cymbals": {
       "title": "Sabian HH / HHX: Tonal Depth for a Heavier Record",
@@ -897,7 +896,7 @@ export const articles = {
           "type": "Hi-Hat Stand",
           "brand": "Pearl",
           "model": "Pearl H-2050 Gyro-Lock Hi-Hat Stand",
-          "notes": "Matched Pearl hardware for consistency with the Reference kit and Eliminator pedal"
+          "notes": "Matched Pearl hardware for consistency with the Eliminator pedal"
         },
         {
           "type": "Drumheads (Toms, Batter)",
@@ -920,10 +919,10 @@ export const articles = {
     },
     "recordingTechniques": {
       "title": "Recording IV: Going Heavier After the Commercial Peak",
-      "content": "Recording *IV* presented a different challenge than *Faceless*. In 2003, Godsmack had been chasing commercial success and hit the summit — #1 Billboard 200, 4× Platinum. By 2006, the pressure was reversed: how do you follow up your biggest album without retreating into imitation? Godsmack's answer was to go heavier and more direct, stripping away some of the groove-forward accessibility of *Faceless* in favor of a harder-hitting, more aggressive sound.\n\n**Pearl Reference Recording Philosophy:**\nThe Pearl Reference's hybrid maple/birch shells contributed directly to this approach. Compared to the Starclassic Maple's all-maple warmth, the Reference's attack-forward character — particularly in the kick drums and toms — translates to a more immediate, punishing drum sound in the mix. The shells were close-miked for attack definition, with the birch component's inherent brightness providing the edge that made *IV*'s drums feel more aggressive than *Faceless* without requiring additional processing.\n\n**Snare Definition:**\nThe Pearl Free-Floating brass snare's unique construction — its suspended hoops allowing full shell resonance — created a snare sound that sits differently in the *IV* mix than the *Faceless* steel snare. The brass shell's warmer fundamental with sharp transient attack provided a three-dimensional snare voice: immediate enough to drive the groove, complex enough to add musical character to arrangements beyond pure percussion.\n\n**Cymbal Darkness:**\nThe shift from Sabian AAX to HH/HHX brought a measurable tonal difference to *IV*'s drum sound. The hand-hammered cymbal surfaces created less uniform frequency response — each cymbal with its own character — resulting in a more organic, less processed cymbal sound in the production. This suited the album's heavier, less commercially polished direction.\n\n**Foot Work Precision:**\nThe Pearl Eliminator's interchangeable cam system allowed Larkin to dial in the exact pedal feel required for *IV*'s more aggressive bass drum patterns. Tracks like \"No Rest for the Wicked\" demanded consistent double-kick power at driving tempos — the Eliminator's direct-feel mechanism made that consistency achievable without physical fatigue across a full recording session.",
+      "content": "Recording *IV* presented a different challenge than *Faceless*. In 2003, Godsmack had been chasing commercial success and hit the summit — #1 Billboard 200, 4× Platinum. By 2006, the pressure was reversed: how do you follow up your biggest album without retreating into imitation? Godsmack's answer was to go heavier and more direct, stripping away some of the groove-forward accessibility of *Faceless* in favor of a harder-hitting, more aggressive sound.\n\n**ddrum Dios Recording Philosophy:**\nThe ddrum Dios Series' durable, punchy shells contributed directly to this approach. The kit's attack-forward character — particularly in the kick drums and toms — translates to an immediate, punishing drum sound in the mix. The shells were close-miked for attack definition, providing the edge that made *IV*'s drums feel more aggressive than *Faceless* without requiring additional processing.\n\n**Snare Definition:**\nThe ddrum Dios maple snare's warm, articulate character sits with authority in the *IV* mix. The shell's warmer fundamental with sharp transient attack provided a three-dimensional snare voice: immediate enough to drive the groove, complex enough to add musical character to arrangements beyond pure percussion.\n\n**Cymbal Darkness:**\nThe shift from Sabian AAX to HH/HHX brought a measurable tonal difference to *IV*'s drum sound. The hand-hammered cymbal surfaces created less uniform frequency response — each cymbal with its own character — resulting in a more organic, less processed cymbal sound in the production. This suited the album's heavier, less commercially polished direction.\n\n**Foot Work Precision:**\nThe Pearl Eliminator's interchangeable cam system allowed Larkin to dial in the exact pedal feel required for *IV*'s more aggressive bass drum patterns. Tracks like \"No Rest for the Wicked\" demanded consistent double-kick power at driving tempos — the Eliminator's direct-feel mechanism made that consistency achievable without physical fatigue across a full recording session.",
       "keyTechniques": [
-        "Pearl Reference hybrid shells — attack-forward character for heavier, more aggressive drum sound",
-        "Pearl Free-Floating brass snare — complex three-dimensional backbeat beyond pure steel brightness",
+        "ddrum Dios Series shells — attack-forward character for heavier, more aggressive drum sound",
+        "ddrum Dios maple snare — complex three-dimensional backbeat with warm, cutting attack",
         "Sabian HH/HHX hand-hammered cymbals — organic, less uniform frequency response than AAX",
         "Pearl Eliminator interchangeable cam — tuned for direct feel and power on aggressive double-kick patterns"
       ]
@@ -936,11 +935,11 @@ export const articles = {
         "highlights": [
           "IV's lead single and most commercially recognizable track — driving Larkin groove at its most direct",
           "Straight-ahead hard rock pocket drumming: kick-snare authority, hi-hat drive, fills at section transitions",
-          "Pearl Reference kick drums demonstrate the attack-forward character that separates IV from Faceless",
-          "Snare placement is authoritative and unambiguous — the Free-Floating brass shell's character is front and center",
+          "ddrum Dios Series kick drums demonstrate the attack-forward character that separates IV from Faceless",
+          "Snare placement is authoritative and unambiguous — the maple shell's character is front and center",
           "A demonstration of Larkin's philosophy: serve the song first, display second"
         ],
-        "gearNotes": "The Pearl Reference's attack-forward kick character and the Free-Floating brass snare's complex crack are at the center of this track's rhythmic authority."
+        "gearNotes": "The ddrum Dios Series kick's attack-forward character and the maple snare's complex crack are at the center of this track's rhythmic authority."
       },
       {
         "track": "No Rest for the Wicked",
@@ -972,11 +971,11 @@ export const articles = {
     "faq": [
       {
         "question": "What drums did Shannon Larkin use on Godsmack IV?",
-        "answer": "On Godsmack's *IV* (2006), Shannon Larkin used a Pearl Reference Series kit — Pearl's flagship professional shell pack featuring a hybrid maple/birch shell construction. The configuration ran double 22\" bass drums, 10\" and 12\" rack toms, and 14\" and 16\" floor toms — the same spread as his *Faceless* (2003) setup, now with the more attack-forward Pearl Reference character. This represented a significant gear transition from the Tama Starclassic Maple he had recorded *Faceless* with. His snare was a Pearl Free-Floating 14\"x6.5\" brass shell — a warmer, more complex instrument than the steel snare on *Faceless*. For his complete gear history, see the [Shannon Larkin drummer profile](/drummer/shannon-larkin)."
+        "answer": "On Godsmack's *IV* (2006), Shannon Larkin used a ddrum Dios Series kit — the same road-grade professional shell pack he used on *Faceless* (2003) and has used for his entire Godsmack tenure. The configuration ran double 22\" bass drums, 10\" and 12\" rack toms, and 14\" and 16\" floor toms — the same spread as his *Faceless* setup. His snare was a ddrum Dios 14\"x6.5\" maple shell, also unchanged from *Faceless*. For his complete gear history, see the [Shannon Larkin drummer profile](/drummer/shannon-larkin)."
       },
       {
         "question": "How does Shannon Larkin's kit compare between Faceless and IV?",
-        "answer": "Between *Faceless* (2003) and *IV* (2006), Shannon Larkin underwent a substantial gear transition. His Tama Starclassic Maple kit — with its warm, all-maple shell construction — gave way to the Pearl Reference Series, whose maple/birch hybrid shells deliver a more punchy, attack-forward tone suited to *IV*'s heavier direction. His snare changed from a steel model to the Pearl Free-Floating 14\"x6.5\" brass — adding tonal complexity and warmth. His cymbals evolved from pure Sabian AAX (bright, machine-hammered) to a Sabian HH/HHX dual-series configuration (hand-hammered, darker, more complex). His pedals changed from DW 9000 to Pearl Eliminator, and his sticks from Vater Hickory 5B to Vic Firth SD1 General. Virtually every component of the kit shifted between the two albums. See the full [Faceless drum setup](/articles/faceless-drum-setup) for a direct comparison."
+        "answer": "Between *Faceless* (2003) and *IV* (2006), Shannon Larkin's kit and snare stayed the same: the ddrum Dios Series shells and ddrum Dios 14\"x6.5\" maple snare that anchored *Faceless* carried over unchanged for *IV*. What did evolve was his cymbal setup, which moved from pure Sabian AAX (bright, machine-hammered) to a Sabian HH/HHX dual-series configuration (hand-hammered, darker, more complex), and his pedal and stick choices, which changed from DW 9000 to Pearl Eliminator and from Vater Hickory 5B to Vic Firth SD1 General. See the full [Faceless drum setup](/articles/faceless-drum-setup) for a direct comparison."
       },
       {
         "question": "What cymbals does Shannon Larkin use?",
@@ -988,22 +987,22 @@ export const articles = {
       },
       {
         "question": "What is the chart position of Godsmack IV?",
-        "answer": "Godsmack's *IV* (released April 25, 2006, on Republic Records) debuted at #2 on the Billboard 200 — one position below the #1 peak of its predecessor *Faceless* (2003). The album was certified Platinum in the United States, demonstrating that Godsmack maintained their large commercial following even with a heavier, less accessible direction. The #2 debut made *IV* one of the strongest-charting hard rock releases of 2006, a year when the format was facing commercial contraction. Shannon Larkin's drumming on *IV* — driving the album's harder-hitting arrangements with the Pearl Reference kit and Sabian HH/HHX cymbals — was central to the album's ability to satisfy both the band's existing audience and the harder rock direction they pursued."
+        "answer": "Godsmack's *IV* (released April 25, 2006, on Republic Records) debuted at #2 on the Billboard 200 — one position below the #1 peak of its predecessor *Faceless* (2003). The album was certified Platinum in the United States, demonstrating that Godsmack maintained their large commercial following even with a heavier, less accessible direction. The #2 debut made *IV* one of the strongest-charting hard rock releases of 2006, a year when the format was facing commercial contraction. Shannon Larkin's drumming on *IV* — driving the album's harder-hitting arrangements with the ddrum Dios Series kit and Sabian HH/HHX cymbals — was central to the album's ability to satisfy both the band's existing audience and the harder rock direction they pursued."
       }
     ],
     "evolution": {
-      "title": "From Faceless to IV: Shannon Larkin's Complete Gear Transition",
-      "content": "The gear change between *Faceless* (2003) and *IV* (2006) represents the most comprehensive single-album transition in Shannon Larkin's documented Godsmack history. Every major component category shifted: kit, snare, cymbals, pedals, and sticks.\n\n**The Kit Transition — Tama to Pearl:**\nLarkin's Tama Starclassic Maple kit had defined his early Godsmack sound with warm, all-maple resonance. By the *IV* sessions, he had moved to Pearl's Reference Series — a maple/birch hybrid that prioritized attack definition over tonal warmth. The Reference's faster transient response suited *IV*'s harder-hitting arrangements. In practical terms: the kick drums punch harder, the toms speak faster, and the entire kit has a more immediate presence in the mix.\n\n**Snare Evolution — Steel to Brass:**\nThe *Faceless* steel snare's bright, cutting attack gave way on *IV* to the Pearl Free-Floating brass — a warmer, more complex instrument. The Free-Floating construction (independently suspended hoops) allows the brass shell to fully resonate, producing a backbeat with more harmonic content than a conventional steel snare. This added musical complexity to Larkin's groove across *IV*'s heavier arrangements.\n\n**Cymbal Depth — AAX to HH/HHX:**\nThe shift from Sabian AAX (machine-hammered, bright) to Sabian HH/HHX (hand-hammered, darker, more complex) added tonal dimension to Larkin's playing. The HHX Raw Bell Dry Ride in particular became a defining element of his sound from this point forward — a cymbal with a unique dry body and articulate bell that his *Faceless*-era AAX Stage Ride could not replicate.\n\n**Pedal and Stick Changes:**\nThe DW 9000's chain-drive consistency was replaced by the Pearl Eliminator's interchangeable cam system — a pedal that gives the player more control over feel characteristics. The Vater Hickory 5B sticks of the *Faceless* era gave way to Vic Firth SD1 General sticks — a different endorsement, different mass distribution, different tip shape, calibrated to Larkin's evolving approach.\n\n**The Complete Gear Picture:**\nSee the [Faceless drum setup](/articles/faceless-drum-setup) for the starting point of this gear arc. The [Shannon Larkin complete gear guide](/articles/shannon-larkin-drum-setup) documents his current setup, including the Ddrum Reflex Series that represents the next phase after the Pearl Reference era.",
+      "title": "From Faceless to IV: What Changed (and What Didn't) for Shannon Larkin",
+      "content": "The gear picture between *Faceless* (2003) and *IV* (2006) is one of continuity at the core, with refinement around the edges. The kit and snare stayed the same; the cymbals, pedal, and sticks evolved.\n\n**The Kit — Unchanged:**\nLarkin's ddrum Dios Series kit, with its durable, punchy shells, carried over from *Faceless* to *IV* without change. The kit's attack-forward character suited *IV*'s harder-hitting arrangements just as it had suited *Faceless*'s groove-first material.\n\n**The Snare — Unchanged:**\nThe ddrum Dios 14\"x6.5\" maple snare that defined *Faceless*'s backbeat carried over to *IV* as well — the same warm, cutting crack anchoring both albums.\n\n**Cymbal Depth — AAX to HH/HHX:**\nThe shift from Sabian AAX (machine-hammered, bright) to Sabian HH/HHX (hand-hammered, darker, more complex) added tonal dimension to Larkin's playing. The HHX Raw Bell Dry Ride in particular became a defining element of his sound from this point forward — a cymbal with a unique dry body and articulate bell that his *Faceless*-era AAX Stage Ride could not replicate.\n\n**Pedal and Stick Changes:**\nThe DW 9000's chain-drive consistency was replaced by the Pearl Eliminator's interchangeable cam system — a pedal that gives the player more control over feel characteristics. The Vater Hickory 5B sticks of the *Faceless* era gave way to Vic Firth SD1 General sticks — a different endorsement, different mass distribution, different tip shape, calibrated to Larkin's evolving approach.\n\n**The Complete Gear Picture:**\nSee the [Faceless drum setup](/articles/faceless-drum-setup) for the starting point of this gear arc. The [Shannon Larkin complete gear guide](/articles/shannon-larkin-drum-setup) documents his current setup, still built around the same ddrum Dios Series kit and maple snare.",
       "thenVsNow": [
         {
           "category": "Kit",
-          "then": "Tama Starclassic Maple (Faceless, 2003)",
-          "now": "Pearl Reference Series (IV, 2006)"
+          "then": "ddrum Dios Series (Faceless, 2003)",
+          "now": "ddrum Dios Series (unchanged for IV, 2006)"
         },
         {
           "category": "Snare",
-          "then": "Tama Steel 14\" x 6.5\"",
-          "now": "Pearl Free-Floating 14\" x 6.5\" Brass"
+          "then": "ddrum Dios 14\" x 6.5\" Maple",
+          "now": "ddrum Dios 14\" x 6.5\" Maple (unchanged)"
         },
         {
           "category": "Cymbals",
@@ -1060,8 +1059,8 @@ export const articles = {
         "url": "/gear/sabian"
       },
       {
-        "text": "Pearl drums brand overview",
-        "url": "/gear/pearl"
+        "text": "ddrum drums brand overview",
+        "url": "/gear/ddrum"
       }
     ],
     "schema": {
@@ -1069,7 +1068,7 @@ export const articles = {
       "@graph": [
         {
           "@type": "Article",
-          "headline": "Godsmack IV Drum Setup: Shannon Larkin's Pearl Reference Gear on the #2 Billboard Album (2006)",
+          "headline": "Godsmack IV Drum Setup: Shannon Larkin's ddrum Dios Series Gear on the #2 Billboard Album (2006)",
           "description": "Discover the exact drum kit, cymbals, and gear Shannon Larkin used on Godsmack's IV (2006) — the #2 Billboard 200 debut, certified Platinum.",
           "author": {
             "@type": "Organization",
@@ -1155,7 +1154,7 @@ export const articles = {
               "name": "What drums did Shannon Larkin use on Godsmack IV?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "On Godsmack IV (2006), Shannon Larkin used Pearl Reference Series drums — double 22\" bass drums, 10\" and 12\" rack toms, 14\" and 16\" floor toms, with a Pearl Free-Floating 14\"x6.5\" brass snare. This was a significant upgrade from the Tama Starclassic Maple kit on Faceless (2003)."
+                "text": "On Godsmack IV (2006), Shannon Larkin used a ddrum Dios Series kit — double 22\" bass drums, 10\" and 12\" rack toms, 14\" and 16\" floor toms, with a ddrum Dios 14\"x6.5\" maple snare. This was the same kit and snare he used on Faceless (2003)."
               }
             },
             {
@@ -1163,7 +1162,7 @@ export const articles = {
               "name": "How does Shannon Larkin's kit compare between Faceless and IV?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Between Faceless (2003) and IV (2006), Shannon Larkin transitioned from Tama Starclassic Maple to Pearl Reference drums, from a steel snare to Pearl Free-Floating brass, from Sabian AAX to HH/HHX cymbals, from DW 9000 to Pearl Eliminator pedals, and from Vater Hickory 5B to Vic Firth SD1 General sticks — a comprehensive gear overhaul across every major component category."
+                "text": "Between Faceless (2003) and IV (2006), Shannon Larkin's ddrum Dios Series kit and ddrum Dios maple snare stayed the same. His cymbals evolved from Sabian AAX to HH/HHX, his pedal changed from DW 9000 to Pearl Eliminator, and his sticks changed from Vater Hickory 5B to Vic Firth SD1 General."
               }
             },
             {
@@ -1179,8 +1178,8 @@ export const articles = {
       ]
     },
     "conclusion": {
-      "title": "The Heavier Direction: IV and the Pearl Reference Era",
-      "content": "*IV* (2006) is Shannon Larkin's most aggressive documented studio performance with Godsmack — a heavier, more direct album than *Faceless*, achieved through a comprehensive gear transition that touched every major component of his setup. The Pearl Reference kit, Free-Floating brass snare, Sabian HH/HHX cymbals, Pearl Eliminator pedals, and Vic Firth SD1 General sticks collectively represent a drummer who had refined his approach based on three years of touring behind one of American hard rock's biggest albums and arrived at the *IV* sessions with very specific ideas about the sound he wanted to make.\n\n**For Drummers Studying IV:**\nStart with \"Speak\" — Larkin's most direct, unambiguous groove on the album, built entirely on the Pearl Reference's attack-forward character and the Free-Floating brass snare's complex crack. Then work through \"No Rest for the Wicked\" for the Pearl Eliminator's double-kick consistency at driving tempo. \"Shine Down\" demonstrates the dynamic restraint that makes *IV* more than a one-dimensional heavy record — the same dynamic intelligence Larkin brought to \"Changes\" on *Faceless*, now filtered through a more aggressive gear choice.\n\n**The Gear Legacy:**\nPearl Reference drums remain among the most respected professional hybrid-shell kits available — their maple/birch construction has been the choice of leading professional drummers across hard rock, metal, and jazz for two decades. The Sabian HHX Raw Bell Dry Ride that appears in this setup has become one of the most distinctive ride cymbals in contemporary drumming, recognizable for its dry body and articulate bell. A player approaching the *IV* drum sound can replicate the gear philosophy — attack-forward shells, warm complex snare, hand-hammered cymbals — at multiple price points.\n\nFor the complete Shannon Larkin gear arc: begin at [Faceless (2003)](/articles/faceless-drum-setup) — the Tama Starclassic Maple starting point — continue here with *IV* (2006), and follow through to the [Shannon Larkin complete gear guide](/articles/shannon-larkin-drum-setup) for the Ddrum Reflex era that followed. The [Shannon Larkin drummer profile](/drummer/shannon-larkin) documents the complete career context across all Godsmack albums and touring setups.\n\nFor additional drumming context in the same hard rock tradition, explore the [drummers index](/drummers) — Shannon Larkin's approach to groove-first hard rock drumming with maximum power sits within a tradition that includes the genre's defining players.\n\n🥁 *#2 Billboard 200. Platinum certified. The Pearl Reference era at its peak.* 🤘"
+      "title": "The Heavier Direction: IV and the ddrum Dios Series",
+      "content": "*IV* (2006) is Shannon Larkin's most aggressive documented studio performance with Godsmack to that point — a heavier, more direct album than *Faceless*, achieved on the same ddrum Dios Series kit and maple snare while his cymbal, pedal, and stick choices evolved. The ddrum Dios kit, maple snare, Sabian HH/HHX cymbals, Pearl Eliminator pedals, and Vic Firth SD1 General sticks collectively represent a drummer who had refined his approach based on three years of touring behind one of American hard rock's biggest albums and arrived at the *IV* sessions with very specific ideas about the sound he wanted to make.\n\n**For Drummers Studying IV:**\nStart with \"Speak\" — Larkin's most direct, unambiguous groove on the album, built entirely on the ddrum Dios Series' attack-forward character and the maple snare's complex crack. Then work through \"No Rest for the Wicked\" for the Pearl Eliminator's double-kick consistency at driving tempo. \"Shine Down\" demonstrates the dynamic restraint that makes *IV* more than a one-dimensional heavy record — the same dynamic intelligence Larkin brought to \"Changes\" on *Faceless*, now filtered through a heavier arrangement.\n\n**The Gear Legacy:**\nddrum's Dios Series remains a durable, road-tested choice for professional touring drummers — a kit built for reliability across hundreds of shows. The Sabian HHX Raw Bell Dry Ride that appears in this setup has become one of the most distinctive ride cymbals in contemporary drumming, recognizable for its dry body and articulate bell. A player approaching the *IV* drum sound can replicate the gear philosophy — durable shells, warm complex snare, hand-hammered cymbals — at multiple price points.\n\nFor the complete Shannon Larkin gear arc: begin at [Faceless (2003)](/articles/faceless-drum-setup) — the ddrum Dios Series starting point — continue here with *IV* (2006), and follow through to the [Shannon Larkin complete gear guide](/articles/shannon-larkin-drum-setup) documenting the same ddrum setup that has anchored his entire Godsmack career. The [Shannon Larkin drummer profile](/drummer/shannon-larkin) documents the complete career context across all Godsmack albums and touring setups.\n\nFor additional drumming context in the same hard rock tradition, explore the [drummers index](/drummers) — Shannon Larkin's approach to groove-first hard rock drumming with maximum power sits within a tradition that includes the genre's defining players.\n\n🥁 *#2 Billboard 200. Platinum certified. The ddrum Dios Series era.* 🤘"
     }
   },
   "when-legends-rise-drum-setup": {
@@ -1199,13 +1198,13 @@ export const articles = {
     "datePublished": "2026-06-27",
     "dateModified": "2026-06-27",
     "author": "MetalForge Editorial",
-    "title": "When Legends Rise Drum Setup: Shannon Larkin's Pearl Reference Pure Gear on Godsmack's #1 Rock Album (2018)",
-    "description": "Discover the exact drum kit, cymbals, and pedals Shannon Larkin used on Godsmack's When Legends Rise (2018) — #4 Billboard 200, #1 Mainstream Rock chart. Pearl Reference Pure drums, Sabian HHX cymbals, DW 9000 pedals, and the most polished studio performance of Larkin's career.",
+    "title": "When Legends Rise Drum Setup: Shannon Larkin's ddrum Dios Series Gear on Godsmack's #1 Rock Album (2018)",
+    "description": "Discover the exact drum kit, cymbals, and pedals Shannon Larkin used on Godsmack's When Legends Rise (2018) — #4 Billboard 200, #1 Mainstream Rock chart. ddrum Dios Series drums, Sabian HHX cymbals, DW 9000 pedals, and the most polished studio performance of Larkin's career.",
     "seoKeywords": [
       "shannon larkin drum setup",
       "when legends rise drums",
       "godsmack 2018 drum setup",
-      "shannon larkin pearl reference pure",
+      "shannon larkin ddrum dios",
       "shannon larkin sabian hhx",
       "shannon larkin dw 9000",
       "godsmack drummer 2018",
@@ -1215,22 +1214,22 @@ export const articles = {
     ],
     "ogImage": "/images/drummers/shannon-larkin.webp",
     "intro": {
-      "title": "Shannon Larkin's Pearl Reference Pure Era: The Drum Setup Behind When Legends Rise",
-      "content": "Released on April 27, 2018, *When Legends Rise* is Godsmack's seventh studio album and their most commercially polished release to date. It debuted at #4 on the Billboard 200 and hit #1 on the Billboard Top Rock Albums chart — and the title track \"When Legends Rise\" spent seven weeks at #1 on the Mainstream Rock chart, the longest chart-topping run of the band's career. For Shannon Larkin, the album represents the peak of his studio production work with Godsmack: a performance in which every element of his kit was selected for maximum sonic clarity and commercial impact.\n\nBy 2018, Larkin's gear had evolved once more from the Oracle and 1000hp era. The Pearl Reference Series that had defined his *IV* (2006) and subsequent Godsmack work gave way to the Pearl Reference Pure — Pearl's redesigned flagship, featuring a pure maple shell construction optimized for maximum warmth and sustain. His cymbal configuration, long anchored in Sabian HHX, received a refined hi-hat update: Sabian AAX hi-hats replaced his previous configuration, providing a brighter, more cutting chick character suited to the album's polished, radio-ready production. His pedal setup returned to the DW 9000 double bass pedal — consistent with the Oracle era, prioritizing the DW's reliable spring-loaded precision for the album's more measured, groove-driven material.\n\n*When Legends Rise* closes the arc of Godsmack's post-2000 studio catalog: *Faceless* (2003) established Larkin's signature with the band, *IV* (2006) drove toward heavier territory, *The Oracle* (2010) refined the approach, and *When Legends Rise* represents the fully realized, production-polished destination. This article documents the Pearl Reference Pure kit, Sabian HHX/AAX cymbal configuration, and DW 9000 pedals that powered Shannon Larkin's most produced studio performance.",
+      "title": "Shannon Larkin's ddrum Dios Series on When Legends Rise",
+      "content": "Released on April 27, 2018, *When Legends Rise* is Godsmack's seventh studio album and their most commercially polished release to date. It debuted at #4 on the Billboard 200 and hit #1 on the Billboard Top Rock Albums chart — and the title track \"When Legends Rise\" spent seven weeks at #1 on the Mainstream Rock chart, the longest chart-topping run of the band's career. For Shannon Larkin, the album represents the peak of his studio production work with Godsmack: a performance in which every element of his kit was selected for maximum sonic clarity and commercial impact.\n\nBy 2018, Larkin's core kit remained what it had always been: the ddrum Dios Series that anchored his sound since *Faceless* (2003). His cymbal configuration, long anchored in Sabian HHX, received a refined hi-hat update: Sabian AAX hi-hats replaced his previous configuration, providing a brighter, more cutting chick character suited to the album's polished, radio-ready production. His pedal setup returned to the DW 9000 double bass pedal — consistent with the Oracle era, prioritizing the DW's reliable spring-loaded precision for the album's more measured, groove-driven material.\n\n*When Legends Rise* closes the arc of Godsmack's post-2000 studio catalog: *Faceless* (2003) established Larkin's signature with the band, *IV* (2006) drove toward heavier territory, *The Oracle* (2010) refined the approach, and *When Legends Rise* represents the fully realized, production-polished destination — all built on the same ddrum Dios Series foundation. This article documents the ddrum Dios Series kit, Sabian HHX/AAX cymbal configuration, and DW 9000 pedals that powered Shannon Larkin's most produced studio performance.",
       "keyPoints": [
         "When Legends Rise debuted #4 on Billboard 200 (April 2018) and #1 on Billboard Top Rock Albums",
         "\"When Legends Rise\" spent 7 weeks at #1 on Mainstream Rock — longest chart-topping run of Godsmack's career",
-        "Pearl Reference Pure — redesigned flagship with pure maple shells for maximum warmth",
+        "ddrum Dios Series — the same kit Larkin has used since Faceless (2003)",
         "Sabian HHX cymbals with AAX hi-hats — refined configuration for polished studio production",
         "DW 9000 Double Bass Pedal — reliable spring-loaded precision for groove-forward material",
         "Most commercially polished Godsmack album and Larkin's most produced studio performance"
       ]
     },
     "drumKit": {
-      "title": "Pearl Reference Pure: Pure Maple Flagship for a Polished Era",
-      "brand": "Pearl",
-      "model": "Pearl Reference Pure",
-      "finish": "Custom touring finish",
+      "title": "ddrum Dios Series: The Same Foundation for a Polished Era",
+      "brand": "ddrum",
+      "model": "ddrum Dios Series",
+      "finish": "Custom finishes",
       "config": {
         "bassdrums": [
           "22\" x 18\" Bass Drum (x2 — double kick configuration)"
@@ -1243,28 +1242,28 @@ export const articles = {
           "14\" x 14\" Floor Tom",
           "16\" x 16\" Floor Tom"
         ],
-        "shells": "Pure maple shells — Pearl Reference Pure professional series"
+        "shells": "Custom-finish shells — ddrum Dios Series"
       },
-      "description": "The Pearl Reference Pure represented Pearl's return to pure maple shell construction at the flagship level when it was introduced in the mid-2010s. Where the original Pearl Reference Series featured hybrid maple/birch construction for a punchier, more attack-forward character, the Reference Pure's all-maple shells deliver the warmer, more sustained fundamental that sits at the center of Larkin's WLR sound: a tone with immediate attack but also the resonant body that pure maple uniquely provides.\n\nFor *When Legends Rise*, the Reference Pure's warm, resonant character suited the album's more polished, production-focused approach. Producer Erik Ron's studio-oriented methodology — heavy on tonal clarity and frequency separation — benefited directly from the Reference Pure's full, warm sustain: the drums cut through the mix without the hard-edged transient attack of a hybrid shell, sitting in the recording precisely where the production required them.\n\nThe double 22\" kick configuration carries over unchanged from every previous Larkin/Godsmack studio setup: this is a constant, non-negotiable element of his drumming identity. The four-tom spread (10\", 12\", 14\", 16\") is equally consistent — Larkin's configuring philosophy has never wavered in the Godsmack years, prioritizing groove and pocket over tonal range.",
+      "description": "The ddrum Dios Series that anchored Larkin's sound since *Faceless* (2003) remained his platform for *When Legends Rise* — unchanged through *IV*, *The Oracle*, and *1000hp*. For *WLR*'s more polished, production-focused approach, the Dios Series' punchy, durable character sat well in producer Erik Ron's studio-oriented methodology, which emphasized tonal clarity and frequency separation.\n\nThe double 22\" kick configuration carries over unchanged from every previous Larkin/Godsmack studio setup: this is a constant, non-negotiable element of his drumming identity. The four-tom spread (10\", 12\", 14\", 16\") is equally consistent — Larkin's configuring philosophy has never wavered in the Godsmack years, prioritizing groove and pocket over tonal range.",
       "notes": [
-        "Pearl Reference Pure — pure maple construction, maximum warmth and sustain over hybrid Reference Series",
+        "ddrum Dios Series — unchanged from Larkin's Faceless-era kit",
         "Double 22\" bass drums: Larkin's constant across all Godsmack studio albums",
-        "Pure maple shells deliver warmer fundamental suited to WLR's polished production",
+        "Custom-finish shells suited to WLR's polished production",
         "Four-tom spread (10\", 12\", 14\", 16\") — consistent Larkin approach across all Godsmack records",
-        "Pearl flagship hardware for arena-grade road stability"
+        "ddrum road-grade hardware for arena-grade road stability"
       ],
-      "estimatedValue": "$4,000–7,000 (Pearl Reference Pure shell pack, 2018 era)"
+      "estimatedValue": "$1,500–3,000 (ddrum Dios Series shell pack, 2018 era)"
     },
     "snare": {
-      "title": "Signature Snare: Power and Clarity for the Mainstream Rock Chart",
-      "brand": "Pearl",
-      "model": "Pearl Free-Floating 14\"x6.5\" Brass",
+      "title": "ddrum Dios Maple: Power and Clarity for the Mainstream Rock Chart",
+      "brand": "ddrum",
+      "model": "ddrum Dios 14\"x6.5\" Maple",
       "size": "14\" x 6.5\"",
-      "shell": "Brass",
-      "description": "Shannon Larkin's snare voice on *When Legends Rise* reflects the production priorities of Godsmack's most radio-ready album. The Pearl Free-Floating brass snare — his go-to for the hard rock backbeat since the *IV* era — delivers the warm, complex crack that sits in a polished mix with authority rather than pure aggression. The Free-Floating's independently suspended hoops allow the brass shell to vibrate without constraint, producing the full-resonance backbeat that the WLR production captures with precision.\n\nAt medium-high tension, the snare's crack is articulate and cutting — present in the mix at every tempo the album demands — without the brittle edge that higher tension would introduce. On \"Under Your Scars,\" Larkin's most dynamic WLR performance, this snare voice sits in the arrangement with the warmth the ballad requires while maintaining enough attack to anchor the rhythm. On \"When Legends Rise,\" the same setup reads as a hard rock statement: powerful, defined, unambiguous.",
-      "tuningSetting": "Medium-high tension — warm brass shell character with cutting hard rock attack",
+      "shell": "Maple",
+      "description": "Shannon Larkin's snare voice on *When Legends Rise* reflects the production priorities of Godsmack's most radio-ready album. The ddrum Dios maple snare — his go-to for the hard rock backbeat since *Faceless* — delivers the warm, complex crack that sits in a polished mix with authority rather than pure aggression.\n\nAt medium-high tension, the snare's crack is articulate and cutting — present in the mix at every tempo the album demands — without the brittle edge that higher tension would introduce. On \"Under Your Scars,\" Larkin's most dynamic WLR performance, this snare voice sits in the arrangement with the warmth the ballad requires while maintaining enough attack to anchor the rhythm. On \"When Legends Rise,\" the same setup reads as a hard rock statement: powerful, defined, unambiguous.",
+      "tuningSetting": "Medium-high tension — warm maple shell character with cutting hard rock attack",
       "heads": "Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)",
-      "estimatedValue": "$400–700 (Pearl Free-Floating brass snare)"
+      "estimatedValue": "$300–500 (ddrum Dios maple snare)"
     },
     "cymbals": {
       "title": "Sabian HHX / AAX: Refined Configuration for Radio-Ready Production",
@@ -1367,8 +1366,8 @@ export const articles = {
         "url": "/gear/sabian"
       },
       {
-        "text": "Pearl drums brand overview",
-        "url": "/gear/pearl"
+        "text": "ddrum drums brand overview",
+        "url": "/gear/ddrum"
       }
     ],
     "schema": {
@@ -1376,7 +1375,7 @@ export const articles = {
       "@graph": [
         {
           "@type": "Article",
-          "headline": "When Legends Rise Drum Setup: Shannon Larkin's Pearl Reference Pure Gear on Godsmack's #1 Rock Album (2018)",
+          "headline": "When Legends Rise Drum Setup: Shannon Larkin's ddrum Dios Series Gear on Godsmack's #1 Rock Album (2018)",
           "description": "Discover the exact drum kit, cymbals, and pedals Shannon Larkin used on Godsmack's When Legends Rise (2018) — #4 Billboard 200, #1 Mainstream Rock chart.",
           "author": {
             "@type": "Organization",
@@ -1458,7 +1457,7 @@ export const articles = {
               "name": "What drums does Shannon Larkin use on When Legends Rise?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "On When Legends Rise (2018), Shannon Larkin used Pearl Reference Pure drums — double 22\" bass drums, 10\" and 12\" rack toms, 14\" and 16\" floor toms. The Reference Pure features pure maple shells for maximum warmth and sustain, an evolution from the hybrid maple/birch Reference Series used on earlier Godsmack albums."
+                "text": "On When Legends Rise (2018), Shannon Larkin used a ddrum Dios Series kit — double 22\" bass drums, 10\" and 12\" rack toms, 14\" and 16\" floor toms. This is the same ddrum Dios Series kit he has used since Faceless (2003)."
               }
             },
             {
@@ -1482,7 +1481,7 @@ export const articles = {
               "name": "How does When Legends Rise compare to Godsmack IV for drumming?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "When Legends Rise (2018) reflects a more polished, production-focused performance than IV (2006). The Pearl Reference Pure replaces the Reference Series (pure vs. hybrid maple shells), the hi-hats shifted from HH to AAX for brighter projection, and the DW 9000 pedals replace the Pearl Eliminator. Both albums use the same fundamental kit configuration (double 22\" kicks, four toms), but WLR's sound is warmer and more radio-ready where IV was harder-hitting."
+                "text": "When Legends Rise (2018) reflects a more polished, production-focused performance than IV (2006), though the kit and snare are unchanged: the same ddrum Dios Series shells and ddrum Dios maple snare anchor both albums. The hi-hats shifted from HH to AAX for brighter projection, and the DW 9000 pedals replace the Pearl Eliminator used on IV. Both albums use the same fundamental kit configuration (double 22\" kicks, four toms), but WLR's sound is warmer and more radio-ready where IV was harder-hitting."
               }
             }
           ]
@@ -1491,7 +1490,7 @@ export const articles = {
     },
     "conclusion": {
       "title": "The Completed Arc: When Legends Rise and the Godsmack Drum Legacy",
-      "content": "*When Legends Rise* (2018) is the destination of a gear evolution that began when Shannon Larkin joined Godsmack in 2002. From the Tama Starclassic Maple of *Faceless* (2003) through the harder Pearl Reference of *IV* (2006), the Oracle refinements, and now to the Pearl Reference Pure's full-maple warmth — each step reflects a drummer growing more precise about the specific sonic character his playing requires. The DW 9000 pedals, the AAX/HHX cymbal hybrid, the Free-Floating brass snare: these are not gear choices made casually. They are the result of 16 years of Godsmack studio and touring experience distilled into a single configuration.\n\n**For Drummers Studying When Legends Rise:**\nBegin with \"When Legends Rise\" itself — the title track's groove is the clearest statement of Larkin's approach: powerful, measured, pocket-first. The Pearl Reference Pure's warm sustain under that groove is immediately audible. Then move to \"Under Your Scars\" for the dynamic contrast that demonstrates Larkin's range: a ballad performance that still anchors the rhythm with authority. \"Bulletproof\" offers the album's hardest-hitting moments, where the DW 9000's double-kick precision is most on display.\n\n**The Gear Legacy:**\nPearl Reference Pure drums remain among the most sought professional pure-maple kits available — the return to single-species construction after the hybrid era represents a deliberate philosophy about tonal character. The Sabian HHX/AAX hybrid configuration Larkin arrived at for WLR is a practical, sonically-intelligent approach: use machine-hammered hi-hats for the element of the kit heard most often, use hand-hammered HHX for the accents that add musical depth.\n\nFor the complete Shannon Larkin gear arc: begin at [Faceless (2003)](/articles/faceless-drum-setup) — the Tama Starclassic Maple origin — continue through [IV (2006)](/articles/godsmack-iv-drum-setup) and the Pearl Reference transition, and arrive here with *When Legends Rise*. The [Shannon Larkin drummer profile](/drummer/shannon-larkin) documents the complete career context. For the broader Godsmack drumming tradition, explore the [drummers index](/drummers).\n\n🥁 *#4 Billboard 200. #1 Mainstream Rock. Seven weeks at the top. The Reference Pure era at its peak.* 🤘"
+      "content": "*When Legends Rise* (2018) is the fully realized destination of a Godsmack sound built on the same ddrum Dios Series kit and maple snare Shannon Larkin has played since joining the band in 2002. From *Faceless* (2003) through the harder direction of *IV* (2006) and the Oracle refinements, the kit itself never changed — what evolved is the surrounding configuration: the DW 9000 pedals, the AAX/HHX cymbal hybrid. These refinements are the result of 16 years of Godsmack studio and touring experience distilled into a single configuration.\n\n**For Drummers Studying When Legends Rise:**\nBegin with \"When Legends Rise\" itself — the title track's groove is the clearest statement of Larkin's approach: powerful, measured, pocket-first. The ddrum Dios Series' warm sustain under that groove is immediately audible. Then move to \"Under Your Scars\" for the dynamic contrast that demonstrates Larkin's range: a ballad performance that still anchors the rhythm with authority. \"Bulletproof\" offers the album's hardest-hitting moments, where the DW 9000's double-kick precision is most on display.\n\n**The Gear Legacy:**\nddrum's Dios Series has been Larkin's constant since *Faceless* — a durable, road-tested kit built for reliability across two decades of touring. The Sabian HHX/AAX hybrid configuration Larkin arrived at for WLR is a practical, sonically-intelligent approach: use machine-hammered hi-hats for the element of the kit heard most often, use hand-hammered HHX for the accents that add musical depth.\n\nFor the complete Shannon Larkin gear arc: begin at [Faceless (2003)](/articles/faceless-drum-setup) — the ddrum Dios Series origin — continue through [IV (2006)](/articles/godsmack-iv-drum-setup), and arrive here with *When Legends Rise*. The [Shannon Larkin drummer profile](/drummer/shannon-larkin) documents the complete career context. For the broader Godsmack drumming tradition, explore the [drummers index](/drummers).\n\n🥁 *#4 Billboard 200. #1 Mainstream Rock. Seven weeks at the top. The ddrum Dios Series era at its peak.* 🤘"
     }
   },
   "godsmack-1000hp-drum-setup": {
@@ -1512,11 +1511,11 @@ export const articles = {
     "author": "MetalForge Editorial",
     "title": "What Drums Did Shannon Larkin Use on 1000hp?",
     "metaTitle": "Shannon Larkin Drum Setup on Godsmack 1000hp (2014)",
-    "description": "Explore Shannon Larkin's drum kit on Godsmack's 1000hp (2014) — the Billboard #3 album featuring Larkin's DW Collector's Series setup with Sabian cymbals. Rob Cavallo production, the heaviest Godsmack album, and the gear that bridged The Oracle to When Legends Rise.",
+    "description": "Explore Shannon Larkin's drum kit on Godsmack's 1000hp (2014) — the Billboard #3 album featuring Larkin's ddrum Dios Series setup with Sabian cymbals. Rob Cavallo production, the heaviest Godsmack album, and the gear that bridged The Oracle to When Legends Rise.",
     "seoKeywords": [
       "shannon larkin drum setup 1000hp",
       "godsmack 1000hp drums",
-      "shannon larkin dw collectors series",
+      "shannon larkin ddrum dios series",
       "godsmack 2014 drum setup",
       "shannon larkin sabian 2014",
       "godsmack 1000hp drummer",
@@ -1527,23 +1526,23 @@ export const articles = {
     ],
     "ogImage": "/images/drummers/shannon-larkin.webp",
     "intro": {
-      "title": "Shannon Larkin's DW Collector's Series Era: The Drum Setup Behind Godsmack's 1000hp",
-      "content": "Released on August 5, 2014, on Republic Records, *1000hp* is Godsmack's sixth studio album — and by almost any measure, its heaviest. Produced by Rob Cavallo (Green Day, My Chemical Romance, Dave Matthews Band), the album debuted at #3 on the Billboard 200 and announced a band willing to push harder and louder than the polished hard rock of *The Oracle* (2010). The title track, \"1000hp,\" stands as one of the most aggressive compositions in Godsmack's catalog, with Shannon Larkin's drumming at the center of its relentless, pounding energy.\n\nFor the *1000hp* sessions, Shannon Larkin made a significant gear transition: from the Pearl Reference Series drums that had anchored his playing through *IV* (2006) and *The Oracle* (2010), he moved to DW Collector's Series drums — the flagship custom shell pack from the American manufacturer already present in his setup through his DW 9000 double bass pedals. The DW Collector's Series, built from custom shell configurations with premium wood choices, delivered a punchier, more defined attack suited to the heaviest Godsmack material to that point. His Sabian cymbal configuration continued largely from the HH/HHX dual-series voice he had developed across the Pearl era, while the DW 9000 remained his double pedal of choice.\n\nThe Rob Cavallo production context matters for understanding the drum sound on *1000hp*. Cavallo's discography spans Green Day's *American Idiot* (2004) — a production known for its powerful, room-filling drum sound — to heavier hard rock contexts, and his approach to *1000hp* emphasized drum presence and attack. The DW Collector's Series' premium shell construction sat directly in that production philosophy: defined, powerful, and able to carry the heaviest tracks Godsmack had written.\n\n*1000hp* occupies the crucial middle point of the Shannon Larkin/Godsmack arc: following *The Oracle*'s commercial summit and preceding *When Legends Rise*'s (2018) radio-polished direction, it represents the moment Godsmack leaned hardest into pure heavy rock — and Larkin's DW Collector's Series setup was built to match that ambition. This article documents the DW kit, Sabian cymbal configuration, and hardware that powered *1000hp*'s studio performance.",
+      "title": "Shannon Larkin's ddrum Dios Series on Godsmack's 1000hp",
+      "content": "Released on August 5, 2014, on Republic Records, *1000hp* is Godsmack's sixth studio album — and by almost any measure, its heaviest. Produced by Rob Cavallo (Green Day, My Chemical Romance, Dave Matthews Band), the album debuted at #3 on the Billboard 200 and announced a band willing to push harder and louder than the polished hard rock of *The Oracle* (2010). The title track, \"1000hp,\" stands as one of the most aggressive compositions in Godsmack's catalog, with Shannon Larkin's drumming at the center of its relentless, pounding energy.\n\nFor the *1000hp* sessions, Shannon Larkin's kit stayed the same: the ddrum Dios Series drums that had anchored his playing since *Faceless* (2003) remained his platform through *IV* (2006), *The Oracle* (2010), and now *1000hp*. The Dios Series' durable, punchy shell construction delivered the defined attack suited to the heaviest Godsmack material to that point. His Sabian cymbal configuration continued the HH/HHX dual-series voice he had developed since *IV*, while the DW 9000 remained his double pedal of choice.\n\nThe Rob Cavallo production context matters for understanding the drum sound on *1000hp*. Cavallo's discography spans Green Day's *American Idiot* (2004) — a production known for its powerful, room-filling drum sound — to heavier hard rock contexts, and his approach to *1000hp* emphasized drum presence and attack. The ddrum Dios Series' punchy shell construction sat directly in that production philosophy: defined, powerful, and able to carry the heaviest tracks Godsmack had written.\n\n*1000hp* occupies the crucial middle point of the Shannon Larkin/Godsmack arc: following *The Oracle*'s commercial summit and preceding *When Legends Rise*'s (2018) radio-polished direction, it represents the moment Godsmack leaned hardest into pure heavy rock — and Larkin's ddrum Dios Series setup was built to match that ambition. This article documents the ddrum kit, Sabian cymbal configuration, and hardware that powered *1000hp*'s studio performance.",
       "keyPoints": [
         "1000hp debuted #3 on the Billboard 200 (August 2014) on Republic Records",
-        "Shannon Larkin's significant gear transition: Pearl Reference → DW Collector's Series",
+        "ddrum Dios Series — the same kit Larkin has used since Faceless (2003)",
         "Produced by Rob Cavallo (Green Day, My Chemical Romance) — his first Godsmack production",
         "Title track '1000hp' is one of the heaviest and most aggressive songs in the Godsmack catalog",
-        "DW Collector's Series — premium American custom shell construction for heavier material",
+        "ddrum Dios 14\"x6.5\" maple snare — Larkin's consistent snare choice",
         "Sabian HH/HHX cymbal configuration continued from The Oracle era",
         "DW 9000 double bass pedal — consistent with both Oracle and When Legends Rise eras"
       ]
     },
     "drumKit": {
-      "title": "DW Collector's Series: Premium American Shells for Godsmack's Heaviest Album",
-      "brand": "DW",
-      "model": "DW Collector's Series",
-      "finish": "Custom touring finish",
+      "title": "ddrum Dios Series: The Durable Foundation for Godsmack's Heaviest Album",
+      "brand": "ddrum",
+      "model": "ddrum Dios Series",
+      "finish": "Custom finishes",
       "config": {
         "bassdrums": [
           "22\" x 18\" Bass Drum (x2 — double kick configuration)"
@@ -1556,28 +1555,28 @@ export const articles = {
           "14\" x 14\" Floor Tom",
           "16\" x 16\" Floor Tom"
         ],
-        "shells": "DW Collector's Series — premium custom shell construction, American-made"
+        "shells": "Custom-finish shells — ddrum Dios Series"
       },
-      "description": "The DW Collector's Series represents DW's flagship level of drum construction: custom-made in Oxnard, California, with premium shell materials, DW's proprietary True Pitch tension rods, and hardware built to the same uncompromising standard as the company's professional pedals and stands. For Shannon Larkin and the *1000hp* sessions, the transition from Pearl Reference to DW Collector's was a natural evolution — DW had long been present in his setup through the DW 9000 double bass pedals, and consolidating his entire rig under one manufacturer's flagship line brought a consistency of hardware feel and quality that served the album's demanding material.\n\nThe DW Collector's Series shells deliver a focused, punchy attack with defined, controlled sustain — characteristics that sit precisely in the sonic territory Rob Cavallo's production philosophy required. Where the Pearl Reference's maple/birch hybrid had provided warmth alongside punchiness, the DW Collector's attack-forward character suited *1000hp*'s heavier direction more directly. On tracks like the title cut \"1000hp\" and \"FML,\" the kick drums speak with a definition and authority that translates from studio headphones to arena PA systems without losing impact.\n\nThe double 22\" bass drum configuration is Larkin's unwavering constant across the Godsmack catalog — present on every studio album from *Faceless* (2003) through *When Legends Rise* (2018). The DW Collector's 22\" kicks drive *1000hp*'s most aggressive double-kick passages with the controlled, precise attack that DW's shell engineering prioritizes. The four-tom spread (10\", 12\", 14\", 16\") — equally consistent across Larkin's Godsmack discography — provides the fill range the album's arrangements demand without overcomplicating his configuration.\n\nDW's hardware ecosystem — TrueLoc tom mounting, Turret Lug construction, True Pitch tension tuning — kept the kit stable and in tune across the 2014–2015 touring cycle that followed the album's release. For a band that has never been a studio-only act, that road-grade reliability is as important as the studio tone.",
+      "description": "The ddrum Dios Series carried over unchanged for the *1000hp* sessions — the same road-grade kit Larkin has used for the entirety of his Godsmack tenure, built for the durability and punch that touring hard rock demands.\n\nThe Dios Series shells deliver a focused, punchy attack with defined, controlled sustain — characteristics that sit precisely in the sonic territory Rob Cavallo's production philosophy required. On tracks like the title cut \"1000hp\" and \"FML,\" the kick drums speak with a definition and authority that translates from studio headphones to arena PA systems without losing impact.\n\nThe double 22\" bass drum configuration is Larkin's unwavering constant across the Godsmack catalog — present on every studio album from *Faceless* (2003) through *When Legends Rise* (2018). The Dios Series' 22\" kicks drive *1000hp*'s most aggressive double-kick passages with the controlled, precise attack the material demands. The four-tom spread (10\", 12\", 14\", 16\") — equally consistent across Larkin's Godsmack discography — provides the fill range the album's arrangements demand without overcomplicating his configuration.\n\nddrum's road-grade hardware kept the kit stable and in tune across the 2014–2015 touring cycle that followed the album's release. For a band that has never been a studio-only act, that road-grade reliability is as important as the studio tone.",
       "notes": [
-        "DW Collector's Series — DW's flagship American custom shell pack",
-        "Transition from Pearl Reference: more defined, attack-forward character for 1000hp's heavier material",
+        "ddrum Dios Series — unchanged from Larkin's Faceless-era kit",
+        "Punchy, defined, attack-forward character suited to 1000hp's heavier material",
         "Double 22\" bass drums: Larkin's constant across all Godsmack studio albums",
         "Four-tom spread (10\", 12\", 14\", 16\") — identical to every prior Larkin/Godsmack configuration",
-        "DW hardware ecosystem: TrueLoc mounting and True Pitch tensioning for touring stability"
+        "ddrum road-grade hardware for touring stability"
       ],
-      "estimatedValue": "$4,000–8,000 (DW Collector's Series shell pack, 2014 era)"
+      "estimatedValue": "$1,500–3,000 (ddrum Dios Series shell pack, 2014 era)"
     },
     "snare": {
-      "title": "DW Collector's Snare: Power and Projection for 1000hp",
-      "brand": "DW",
-      "model": "DW Collector's Series 14\" x 6.5\" Steel",
+      "title": "ddrum Dios Maple: Power and Projection for 1000hp",
+      "brand": "ddrum",
+      "model": "ddrum Dios 14\" x 6.5\" Maple",
       "size": "14\" x 6.5\"",
-      "shell": "Steel",
-      "description": "Shannon Larkin's snare voice on *1000hp* reflects the production priorities of Godsmack's heaviest album. The DW Collector's Series steel snare — a natural accompaniment to the DW Collector's kit — delivers the loud, cutting crack that drives through Rob Cavallo's dense, powerful production. The 14\"x6.5\" steel shell combines the bright, high-frequency attack of steel construction with the body and projection that a 6.5\" depth provides, ensuring each backbeat on the album lands with authority whether the track is at full intensity or building from a verse.\n\nSteel shell construction is the right choice for *1000hp*'s sonic environment. The album's guitar tones — produced by Cavallo with characteristic density — require a snare that establishes its own clear frequency territory above the guitar fundamental range. Steel shell's bright upper-midrange character accomplishes this without eq manipulation, projecting cleanly in both the studio mix and the live arena environments that followed. On \"1000hp\" itself, where the entire arrangement is built around maximum sonic aggression, the snare's authority is a structural element of the song's power.\n\nLarkin tuned the snare at medium-high tension, prioritizing the cutting attack his hard rock playing demands. The combination of DW's Collector's Series shell quality, True Pitch tensioning, and a steel construction provides a snare that rewards aggressive playing without bottoming out or losing character under hard stick strikes. Evans G2 Coated batter heads provided the controlled two-ply response his backbeat style requires.",
+      "shell": "Maple",
+      "description": "Shannon Larkin's snare voice on *1000hp* reflects the production priorities of Godsmack's heaviest album. The ddrum Dios maple snare — his consistent choice since *Faceless* — delivers the loud, cutting crack that drives through Rob Cavallo's dense, powerful production. The 14\"x6.5\" maple shell combines a warm, high-energy attack with the body and projection that a 6.5\" depth provides, ensuring each backbeat on the album lands with authority whether the track is at full intensity or building from a verse.\n\nMaple shell construction is the right choice for *1000hp*'s sonic environment. The album's guitar tones — produced by Cavallo with characteristic density — require a snare that establishes its own clear frequency territory above the guitar fundamental range. The maple shell's cutting character accomplishes this without eq manipulation, projecting cleanly in both the studio mix and the live arena environments that followed. On \"1000hp\" itself, where the entire arrangement is built around maximum sonic aggression, the snare's authority is a structural element of the song's power.\n\nLarkin tuned the snare at medium-high tension, prioritizing the cutting attack his hard rock playing demands. The maple shell's construction provides a snare that rewards aggressive playing without bottoming out or losing character under hard stick strikes. Evans G2 Coated batter heads provided the controlled two-ply response his backbeat style requires.",
       "tuningSetting": "Medium-high tension — cutting attack and projection through Rob Cavallo's dense 1000hp production",
       "heads": "Evans G2 Coated (batter), Evans Hazy 300 (resonant)",
-      "estimatedValue": "$350–600 (DW Collector's Series steel snare, 2014 era)"
+      "estimatedValue": "$300–500 (ddrum Dios maple snare, 2014 era)"
     },
     "cymbals": {
       "title": "Sabian HH / HHX: Continued Tonal Complexity for a Heavier Record",
@@ -1645,7 +1644,7 @@ export const articles = {
           "type": "Hi-Hat Stand",
           "brand": "DW",
           "model": "DW 9000 Hi-Hat Stand",
-          "notes": "Matched DW hardware — consistent with the DW Collector's Series kit and DW 9000 pedal"
+          "notes": "Matched DW hardware — consistent with the DW 9000 pedal"
         },
         {
           "type": "Drumheads (Toms, Batter)",
@@ -1668,10 +1667,10 @@ export const articles = {
     },
     "recordingTechniques": {
       "title": "Recording 1000hp: Rob Cavallo and the Heaviest Godsmack Sound",
-      "content": "Rob Cavallo's production history — *Dookie* (1994), *American Idiot* (2004), *The Black Parade* (2006), and extensive hard rock and alternative work — brought a production philosophy to *1000hp* that emphasized powerful, room-filling drum sound with clear low-end definition and cutting high-frequency attack. Larkin's DW Collector's Series kit, with its defined, attack-forward shell character, was the right instrument for that approach.\n\n**DW Shell Recording Character:**\nThe DW Collector's Series' premium shell construction translates to a more controlled, defined studio drum sound than the warmer, more resonant Pearl Reference of the Oracle era. Cavallo's production for *1000hp* leveraged this directly: close-miked DW shells delivered tight, precise transients that give the album its punching, aggressive drum presence. The kick drum attack on tracks like \"1000hp\" and \"Locked and Loaded\" is immediate and forceful — the DW shells' characteristic focus delivering maximum impact.\n\n**Snare Definition:**\nThe DW Collector's steel snare's bright upper-midrange character required minimal processing in Cavallo's *1000hp* production. In an album mix as dense as *1000hp* — heavy guitar tones, prominent bass, aggressive vocals — a snare that naturally projects into its own frequency space without competing with the guitar frequencies is essential. Steel construction delivers that self-sufficiency; the Cavallo production captured it with authority.\n\n**Cymbal Approach:**\nThe Sabian HH/HHX setup's hand-hammered complexity suited Cavallo's production style. His approach on Green Day's work showed a preference for cymbal sounds with body and decay — not pure, processed brightness — and the HH/HHX configuration provided exactly that character. The HHX Raw Bell Dry Ride's dry, controlled wash sits in the *1000hp* mix without spilling into the guitar frequencies, maintaining rhythmic clarity in a dense sonic environment.\n\n**Double-Kick Clarity:**\nWith Evans EMAD batter heads providing external damping on the kick drums, the double-kick patterns throughout *1000hp* maintain definition at the aggressive tempos the material demands. Cavallo's production captured the kick's focused attack — front-of-mic transient with controlled resonance — giving the album's rhythmic foundation the punch needed to support its heaviest arrangements.",
+      "content": "Rob Cavallo's production history — *Dookie* (1994), *American Idiot* (2004), *The Black Parade* (2006), and extensive hard rock and alternative work — brought a production philosophy to *1000hp* that emphasized powerful, room-filling drum sound with clear low-end definition and cutting high-frequency attack. Larkin's ddrum Dios Series kit, with its defined, attack-forward shell character, was the right instrument for that approach.\n\n**ddrum Shell Recording Character:**\nThe ddrum Dios Series' shell construction translates to a controlled, defined studio drum sound. Cavallo's production for *1000hp* leveraged this directly: close-miked Dios shells delivered tight, precise transients that give the album its punching, aggressive drum presence. The kick drum attack on tracks like \"1000hp\" and \"Locked and Loaded\" is immediate and forceful — the shells' characteristic focus delivering maximum impact.\n\n**Snare Definition:**\nThe ddrum Dios maple snare's warm, cutting character required minimal processing in Cavallo's *1000hp* production. In an album mix as dense as *1000hp* — heavy guitar tones, prominent bass, aggressive vocals — a snare that naturally projects into its own frequency space without competing with the guitar frequencies is essential. The maple shell delivers that self-sufficiency; the Cavallo production captured it with authority.\n\n**Cymbal Approach:**\nThe Sabian HH/HHX setup's hand-hammered complexity suited Cavallo's production style. His approach on Green Day's work showed a preference for cymbal sounds with body and decay — not pure, processed brightness — and the HH/HHX configuration provided exactly that character. The HHX Raw Bell Dry Ride's dry, controlled wash sits in the *1000hp* mix without spilling into the guitar frequencies, maintaining rhythmic clarity in a dense sonic environment.\n\n**Double-Kick Clarity:**\nWith Evans EMAD batter heads providing external damping on the kick drums, the double-kick patterns throughout *1000hp* maintain definition at the aggressive tempos the material demands. Cavallo's production captured the kick's focused attack — front-of-mic transient with controlled resonance — giving the album's rhythmic foundation the punch needed to support its heaviest arrangements.",
       "keyTechniques": [
-        "DW Collector's Series shells — attack-forward, defined transients for Rob Cavallo's heavy production approach",
-        "DW Collector's steel snare — natural high-frequency projection, minimal processing required in dense mix",
+        "ddrum Dios Series shells — attack-forward, defined transients for Rob Cavallo's heavy production approach",
+        "ddrum Dios maple snare — natural warm projection, minimal processing required in dense mix",
         "Sabian HH/HHX hand-hammered cymbals — body and decay character suited to Cavallo's production philosophy",
         "Evans EMAD kick heads — controlled double-kick clarity at aggressive tempos across 1000hp material"
       ]
@@ -1684,11 +1683,11 @@ export const articles = {
         "highlights": [
           "The album's title track and heaviest statement — one of the most aggressive songs in the Godsmack catalog",
           "Larkin's relentless, pounding groove drives the track's maximum-impact approach from the first bar",
-          "DW Collector's kick drums demonstrate their attack-forward character at the track's demanding tempo",
+          "ddrum Dios Series kick drums demonstrate their attack-forward character at the track's demanding tempo",
           "Double-kick patterns underpin the heaviest sections with the Evans EMAD focus keeping each stroke defined",
-          "The DW Collector's snare's steel authority anchors every backbeat with unambiguous power"
+          "The ddrum Dios maple snare's authority anchors every backbeat with unambiguous power"
         ],
-        "gearNotes": "The DW Collector's Series kit's defined, attack-forward shells are the central gear story of this track — every component calibrated for maximum impact."
+        "gearNotes": "The ddrum Dios Series kit's defined, attack-forward shells are the central gear story of this track — every component calibrated for maximum impact."
       },
       {
         "track": "Something Different",
@@ -1709,18 +1708,18 @@ export const articles = {
         "signature": "4/4",
         "highlights": [
           "One of 1000hp's most driving tracks — Larkin's tempo-authoritative approach at near-maximum hard rock tempo",
-          "DW Collector's kicks demonstrate their clarity under repeated rapid-fire patterns at 144 BPM",
+          "ddrum Dios Series kicks demonstrate their clarity under repeated rapid-fire patterns at 144 BPM",
           "Snare placement is deliberate and powerful: each backbeat lands with the authority the track's aggression requires",
           "Sabian HHX Evolution Crashes punctuate section changes with fast, dark accent character",
-          "A demonstration of how DW's attack-forward shell character translates directly to a more aggressive album performance"
+          "A demonstration of how the Dios Series' attack-forward shell character translates directly to a more aggressive album performance"
         ],
-        "gearNotes": "The DW Collector's Series' defined shell transients and the DW 9000's consistent pedal feel are both audible in this track's demanding tempo and double-kick density."
+        "gearNotes": "The ddrum Dios Series' defined shell transients and the DW 9000's consistent pedal feel are both audible in this track's demanding tempo and double-kick density."
       }
     ],
     "faq": [
       {
         "question": "What drum kit did Shannon Larkin use on Godsmack's 1000hp?",
-        "answer": "On Godsmack's *1000hp* (2014), Shannon Larkin used DW Collector's Series drums — DW's flagship American custom shell pack, built in Oxnard, California with premium shell materials and DW's True Pitch tensioning system. The configuration ran double 22\" bass drums (a constant across all Larkin/Godsmack albums), 10\" and 12\" rack toms, and 14\" and 16\" floor toms. This represented a significant transition from the Pearl Reference Series he had used on *IV* (2006) and *The Oracle* (2010). For his complete gear history, see the [Shannon Larkin drummer profile](/drummer/shannon-larkin)."
+        "answer": "On Godsmack's *1000hp* (2014), Shannon Larkin used a ddrum Dios Series kit — the same road-grade professional shell pack he has used for the entirety of his Godsmack tenure. The configuration ran double 22\" bass drums (a constant across all Larkin/Godsmack albums), 10\" and 12\" rack toms, and 14\" and 16\" floor toms. This was the same kit he had used on *IV* (2006) and *The Oracle* (2010). For his complete gear history, see the [Shannon Larkin drummer profile](/drummer/shannon-larkin)."
       },
       {
         "question": "What cymbals does Shannon Larkin use on 1000hp?",
@@ -1728,7 +1727,7 @@ export const articles = {
       },
       {
         "question": "Who produced Godsmack's 1000hp?",
-        "answer": "Godsmack's *1000hp* (2014) was produced by Rob Cavallo, known for his work with Green Day (*Dookie*, *American Idiot*), My Chemical Romance (*The Black Parade*), and Dave Matthews Band. It was Cavallo's first production for Godsmack. His approach emphasized powerful, room-filling drum sound with defined low-end attack and cutting high-frequency presence — a production philosophy that suited Shannon Larkin's DW Collector's Series kit and its attack-forward shell character. The album debuted at #3 on the Billboard 200."
+        "answer": "Godsmack's *1000hp* (2014) was produced by Rob Cavallo, known for his work with Green Day (*Dookie*, *American Idiot*), My Chemical Romance (*The Black Parade*), and Dave Matthews Band. It was Cavallo's first production for Godsmack. His approach emphasized powerful, room-filling drum sound with defined low-end attack and cutting high-frequency presence — a production philosophy that suited Shannon Larkin's ddrum Dios Series kit and its attack-forward shell character. The album debuted at #3 on the Billboard 200."
       },
       {
         "question": "What double bass pedal does Shannon Larkin use?",
@@ -1736,7 +1735,7 @@ export const articles = {
       },
       {
         "question": "How does 1000hp fit in the Shannon Larkin/Godsmack drum gear arc?",
-        "answer": "Shannon Larkin's *1000hp* (2014) setup — DW Collector's Series kit, Sabian HH/HHX cymbals, DW 9000 double pedal — sits between the Pearl Reference era of *The Oracle* (2010) and the Pearl Reference Pure configuration of *When Legends Rise* (2018). The DW Collector's Series transition marked the heaviest point in his Godsmack discography: where *When Legends Rise* moved toward polished radio-ready production, *1000hp* went harder and more aggressive. The DW Collector's attack-forward shells suited that direction precisely. See [The Oracle drum setup](/articles/the-oracle-drum-setup) for context on what preceded it, and [When Legends Rise drum setup](/articles/when-legends-rise-drum-setup) for the arc's next chapter."
+        "answer": "Shannon Larkin's *1000hp* (2014) setup — ddrum Dios Series kit, Sabian HH/HHX cymbals, DW 9000 double pedal — sits between *The Oracle* (2010) and *When Legends Rise* (2018), and the kit itself never changed across any of these albums. *1000hp* marked the heaviest point in his Godsmack discography: where *When Legends Rise* moved toward polished radio-ready production, *1000hp* went harder and more aggressive, with the same ddrum Dios shells suiting both directions. See [The Oracle drum setup](/articles/the-oracle-drum-setup) for context on what preceded it, and [When Legends Rise drum setup](/articles/when-legends-rise-drum-setup) for the arc's next chapter."
       }
     ],
     "videos": [],
@@ -1786,8 +1785,8 @@ export const articles = {
         "url": "/gear/sabian"
       },
       {
-        "text": "DW drums brand overview",
-        "url": "/gear/dw"
+        "text": "ddrum drums brand overview",
+        "url": "/gear/ddrum"
       }
     ],
     "schema": {
@@ -1796,7 +1795,7 @@ export const articles = {
         {
           "@type": "Article",
           "headline": "What Drums Did Shannon Larkin Use on 1000hp?",
-          "description": "Shannon Larkin's drum setup on Godsmack's 1000hp (2014) — DW Collector's Series drums, Sabian HH/HHX cymbals, DW 9000 pedals, and Rob Cavallo production on the heaviest Godsmack album.",
+          "description": "Shannon Larkin's drum setup on Godsmack's 1000hp (2014) — ddrum Dios Series drums, Sabian HH/HHX cymbals, DW 9000 pedals, and Rob Cavallo production on the heaviest Godsmack album.",
           "author": {
             "@type": "Organization",
             "name": "MetalForge Editorial"
@@ -1881,7 +1880,7 @@ export const articles = {
               "name": "What drum kit did Shannon Larkin use on Godsmack's 1000hp?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "On 1000hp (2014), Shannon Larkin used DW Collector's Series drums — DW's flagship American custom shell pack. The configuration ran double 22\" bass drums, 10\" and 12\" rack toms, 14\" and 16\" floor toms. This was a transition from the Pearl Reference Series used on IV (2006) and The Oracle (2010)."
+                "text": "On 1000hp (2014), Shannon Larkin used a ddrum Dios Series kit — the same road-grade professional shell pack he has used throughout his Godsmack career. The configuration ran double 22\" bass drums, 10\" and 12\" rack toms, 14\" and 16\" floor toms. This was the same kit he used on IV (2006) and The Oracle (2010)."
               }
             },
             {
@@ -1905,8 +1904,8 @@ export const articles = {
       ]
     },
     "conclusion": {
-      "title": "The Heaviest Chapter: 1000hp and the DW Collector's Era",
-      "content": "*1000hp* (2014) occupies a distinctive position in Shannon Larkin's Godsmack discography: the moment the band leaned hardest into pure heavy rock — harder than *IV* (2006), harder than *The Oracle* (2010), more aggressive than anything in the catalog to that point — and Larkin's DW Collector's Series setup was the right instrument for that direction. The album's #3 Billboard 200 debut confirmed that the approach resonated commercially as well as artistically.\n\nThe DW Collector's Series transition reflects the logic of a drummer who had spent twelve years building and refining his professional rig. DW's hardware had been central to Larkin's Godsmack setup since the DW 9000 pedals of the early period — moving to DW Collector's shells completed the integration and gave him a fully unified DW hardware and shell ecosystem. The attack-forward character of DW's premium shells served Rob Cavallo's production philosophy for the album precisely, and the result is a drum sound that is more defined and punishing than anything Larkin recorded on Pearl Reference.\n\nThe Sabian HH/HHX configuration — hand-hammered, complex, settled — provided the cymbal voice that had been Larkin's signature since *IV*. By 2014, this wasn't a transition-era choice; it was who Shannon Larkin sounded like, and Cavallo's production captured it with authority.\n\nFor drummers studying *1000hp*:\n- Begin with \"1000hp\" itself — the title track's relentless groove is the most direct statement of Larkin's approach on this record\n- Work through \"Something Different\" for the dynamic contrast: controlled verse restraint against full-impact chorus\n- \"Locked and Loaded\" demonstrates the DW Collector's attack character at near-maximum hard rock tempo\n\nFor the complete Shannon Larkin/Godsmack gear arc:\n\n- [Shannon Larkin drummer profile](/drummer/shannon-larkin)\n- [Shannon Larkin complete gear guide](/articles/shannon-larkin-drum-setup)\n- [The Oracle drum setup (2010)](/articles/the-oracle-drum-setup) — the Pearl Reference era that preceded 1000hp\n- [When Legends Rise drum setup (2018)](/articles/when-legends-rise-drum-setup) — the Pearl Reference Pure era that followed\n- [Godsmack IV drum setup (2006)](/articles/godsmack-iv-drum-setup) — the Pearl Reference transition that began the post-Faceless gear arc\n\n🥁 *#3 Billboard 200. The heaviest Godsmack record. The DW Collector's era at full force.* 🤘"
+      "title": "The Heaviest Chapter: 1000hp and the ddrum Dios Series",
+      "content": "*1000hp* (2014) occupies a distinctive position in Shannon Larkin's Godsmack discography: the moment the band leaned hardest into pure heavy rock — harder than *IV* (2006), harder than *The Oracle* (2010), more aggressive than anything in the catalog to that point — and Larkin's ddrum Dios Series setup was the right instrument for that direction, just as it had been for every prior album. The album's #3 Billboard 200 debut confirmed that the approach resonated commercially as well as artistically.\n\nThe consistency of Larkin's ddrum Dios Series kit reflects the logic of a drummer who had spent twelve years building and refining his professional rig around a durable, road-tested foundation rather than chasing new equipment. The attack-forward character of the Dios shells served Rob Cavallo's production philosophy for the album precisely, and the result is a drum sound that is more defined and punishing than anything Larkin recorded on earlier Godsmack albums.\n\nThe Sabian HH/HHX configuration — hand-hammered, complex, settled — provided the cymbal voice that had been Larkin's signature since *IV*. By 2014, this wasn't a transition-era choice; it was who Shannon Larkin sounded like, and Cavallo's production captured it with authority.\n\nFor drummers studying *1000hp*:\n- Begin with \"1000hp\" itself — the title track's relentless groove is the most direct statement of Larkin's approach on this record\n- Work through \"Something Different\" for the dynamic contrast: controlled verse restraint against full-impact chorus\n- \"Locked and Loaded\" demonstrates the ddrum Dios Series' attack character at near-maximum hard rock tempo\n\nFor the complete Shannon Larkin/Godsmack gear arc:\n\n- [Shannon Larkin drummer profile](/drummer/shannon-larkin)\n- [Shannon Larkin complete gear guide](/articles/shannon-larkin-drum-setup)\n- [The Oracle drum setup (2010)](/articles/the-oracle-drum-setup) — same ddrum Dios Series kit that preceded 1000hp\n- [When Legends Rise drum setup (2018)](/articles/when-legends-rise-drum-setup) — same ddrum Dios Series kit that followed\n- [Godsmack IV drum setup (2006)](/articles/godsmack-iv-drum-setup) — the same ddrum Dios Series kit at the start of the post-Faceless gear arc\n\n🥁 *#3 Billboard 200. The heaviest Godsmack record. The ddrum Dios Series at full force.* 🤘"
     }
   },
   "the-oracle-drum-setup": {
@@ -1926,13 +1925,13 @@ export const articles = {
     "dateModified": "2026-06-26",
     "author": "MetalForge Editorial",
     "title": "Shannon Larkin's Drum Setup on Godsmack's The Oracle (2010)",
-    "description": "Discover the exact drum kit, cymbals, and gear Shannon Larkin used on Godsmack's The Oracle (2010) — the band's third consecutive #1 Billboard 200 debut. Pearl Reference Series drums, Sabian HH/HHX cymbals, Pearl Demon Drive double pedal, and the home-studio recording approach behind 'Cryin' Like a Bitch' and 'Love-Hate-Sex-Pain.'",
+    "description": "Discover the exact drum kit, cymbals, and gear Shannon Larkin used on Godsmack's The Oracle (2010) — the band's third consecutive #1 Billboard 200 debut. ddrum Dios Series drums, Sabian HH/HHX cymbals, Pearl Demon Drive double pedal, and the home-studio recording approach behind 'Cryin' Like a Bitch' and 'Love-Hate-Sex-Pain.'",
     "seoKeywords": [
       "shannon larkin drum setup",
       "the oracle drums",
       "godsmack the oracle 2010",
       "godsmack drummer kit 2010",
-      "shannon larkin pearl reference",
+      "shannon larkin ddrum dios",
       "shannon larkin sabian",
       "shannon larkin pearl demon drive",
       "the oracle drum setup",
@@ -1941,22 +1940,22 @@ export const articles = {
     ],
     "ogImage": "/images/drummers/shannon-larkin.webp",
     "intro": {
-      "title": "Shannon Larkin's Drum Setup on Godsmack's The Oracle: Pearl Reference and the Third Consecutive #1",
-      "content": "Released on May 4, 2010, on Universal Republic Records, *The Oracle* is Godsmack's fifth studio album — and the third consecutive Godsmack studio release to debut at #1 on the Billboard 200, following *Faceless* (2003) and *IV* (2006). That achievement placed Godsmack alongside a small group of American hard rock acts whose commercial dominance in the 2000s was, in retrospect, remarkable for the format. By 2010, the rock landscape had shifted decisively toward streaming-era economics, and a #1 debut for a hard rock band on a major label was no longer routine — yet *The Oracle* delivered exactly that, anchored by the singles \"Cryin' Like a Bitch\" and \"Love-Hate-Sex-Pain.\"\n\nFor Shannon Larkin, *The Oracle* sessions represented his third studio album with Godsmack since joining in 2002. Where *Faceless* had been his Godsmack debut and *IV* had marked his comprehensive transition to Pearl Reference drums, Sabian HH/HHX cymbals, and Vic Firth sticks, *The Oracle* found him refining — not overhauling — that gear arc. The Pearl Reference Series remained his platform, with double 22\" bass drums and the four-tom spread that has been his consistent Godsmack configuration. His snare moved into Pearl Free-Floating brass and Pearl Sensitone territory, and his Sabian cymbal selection deepened around the HH/HHX dual-series voice that had become his signature ride and crash palette.\n\nThe most significant production context for *The Oracle* was that it was recorded at Sully Erna's home studio in Massachusetts, with Dave Fortman (Evanescence, Slipknot, Mudvayne) co-producing alongside Erna. That home-studio environment gave the band the time and isolation to track drums with the kind of focused attention that arena-tier studios with hourly meters don't always allow. Larkin had room to dial in head selections, microphone placement, and tuning across the full kit — an approach that suited the album's deliberate, song-first arrangements.\n\nBy 2010, Larkin had also formalized his Vater signature stick relationship — the Vater Shannon Larkin Signature model, developed specifically for the demands of hard rock playing, with hickory construction and a balance calibrated for both backbeat power and cymbal articulation. Combined with Pearl's Demon Drive direct-drive double pedal (which had become his preferred pedal by the late-2000s touring cycle), the gear picture on *The Oracle* is one of a drummer who has settled into a refined, mature setup and is using it to serve the music rather than to chase new equipment.\n\nThis article documents the Pearl Reference kit, Pearl Free-Floating / Sensitone snare options, Sabian HH/HHX cymbal configuration, Pearl Demon Drive pedals, and Vater signature sticks that powered Shannon Larkin's *The Oracle* studio performance — the rig behind Godsmack's third consecutive #1 Billboard 200 debut.",
+      "title": "Shannon Larkin's Drum Setup on Godsmack's The Oracle: ddrum Dios Series and the Third Consecutive #1",
+      "content": "Released on May 4, 2010, on Universal Republic Records, *The Oracle* is Godsmack's fifth studio album — and the third consecutive Godsmack studio release to debut at #1 on the Billboard 200, following *Faceless* (2003) and *IV* (2006). That achievement placed Godsmack alongside a small group of American hard rock acts whose commercial dominance in the 2000s was, in retrospect, remarkable for the format. By 2010, the rock landscape had shifted decisively toward streaming-era economics, and a #1 debut for a hard rock band on a major label was no longer routine — yet *The Oracle* delivered exactly that, anchored by the singles \"Cryin' Like a Bitch\" and \"Love-Hate-Sex-Pain.\"\n\nFor Shannon Larkin, *The Oracle* sessions represented his third studio album with Godsmack since joining in 2002. His ddrum Dios Series kit and Sabian HH/HHX cymbal voice — established since *Faceless* and refined through *IV* — remained his platform, with double 22\" bass drums and the four-tom spread that has been his consistent Godsmack configuration. His ddrum Dios maple snare remained his consistent choice, and his Sabian cymbal selection deepened around the HH/HHX dual-series voice that had become his signature ride and crash palette.\n\nThe most significant production context for *The Oracle* was that it was recorded at Sully Erna's home studio in Massachusetts, with Dave Fortman (Evanescence, Slipknot, Mudvayne) co-producing alongside Erna. That home-studio environment gave the band the time and isolation to track drums with the kind of focused attention that arena-tier studios with hourly meters don't always allow. Larkin had room to dial in head selections, microphone placement, and tuning across the full kit — an approach that suited the album's deliberate, song-first arrangements.\n\nBy 2010, Larkin had also formalized his Vater signature stick relationship — the Vater Shannon Larkin Signature model, developed specifically for the demands of hard rock playing, with hickory construction and a balance calibrated for both backbeat power and cymbal articulation. Combined with Pearl's Demon Drive direct-drive double pedal (which had become his preferred pedal by the late-2000s touring cycle), the gear picture on *The Oracle* is one of a drummer who has settled into a refined, mature setup and is using it to serve the music rather than to chase new equipment.\n\nThis article documents the ddrum Dios Series kit, ddrum Dios maple snare, Sabian HH/HHX cymbal configuration, Pearl Demon Drive pedals, and Vater signature sticks that powered Shannon Larkin's *The Oracle* studio performance — the rig behind Godsmack's third consecutive #1 Billboard 200 debut.",
       "keyPoints": [
         "The Oracle debuted at #1 on the Billboard 200 (May 2010) — Godsmack's third consecutive #1 studio album",
         "Recorded at Sully Erna's home studio in Massachusetts; produced by Dave Fortman and Sully Erna",
         "Singles 'Cryin' Like a Bitch' and 'Love-Hate-Sex-Pain' anchored the album commercially",
-        "Pearl Reference Series — Shannon Larkin's settled professional kit by 2010",
+        "ddrum Dios Series — Shannon Larkin's kit since Faceless, unchanged by 2010",
         "Pearl Demon Drive double bass pedal — direct-drive precision for Larkin's late-2000s touring cycle",
         "Vater Shannon Larkin Signature sticks — formalized signature endorsement reflecting his mature setup"
       ]
     },
     "drumKit": {
-      "title": "Pearl Reference Series: The Settled Professional Platform",
-      "brand": "Pearl",
-      "model": "Pearl Reference Series",
-      "finish": "Custom touring finish",
+      "title": "ddrum Dios Series: The Settled Professional Platform",
+      "brand": "ddrum",
+      "model": "ddrum Dios Series",
+      "finish": "Custom finishes",
       "config": {
         "bassdrums": [
           "22\" x 18\" Bass Drum (x2 — double kick configuration)"
@@ -1969,28 +1968,28 @@ export const articles = {
           "14\" x 14\" Floor Tom",
           "16\" x 16\" Floor Tom"
         ],
-        "shells": "Maple/birch hybrid shells — Pearl Reference professional series"
+        "shells": "Custom-finish shells — ddrum Dios Series"
       },
-      "description": "By *The Oracle* sessions in 2010, the Pearl Reference Series had become Shannon Larkin's settled professional platform — the kit he had carried from the *IV* (2006) sessions through three touring cycles and into the next studio album. Pearl's Reference shells, with their alternating plies of maple and birch, combine maple's warm fundamental with birch's punchy attack: a hybrid voice that sits between an all-maple kit's warmth and a pure birch kit's brightness, and that Larkin had found suited his hard rock playing across the late-2000s.\n\nThe double 22\" bass drum configuration remained constant — a fixture across Larkin's documented Godsmack studio work. On *The Oracle*, the Pearl Reference 22\" kicks deliver the attack-forward low end that \"Cryin' Like a Bitch\" and \"Love-Hate-Sex-Pain\" depend on for their rhythmic authority. The Reference's reinforced shell construction handled the consistent double-kick patterns Larkin built into the album's heavier sections without losing definition in the mix.\n\nThe four-tom spread (10\", 12\", 14\", 16\") is identical to the *Faceless* and *IV* configurations. This is a deliberate Larkin choice: enough range for expressive fills without the complexity overhead of an expanded kit. Godsmack's music — groove-first, power-forward — demands a drummer who lives in the pocket, and Larkin's consistent tom configuration across albums reflects a setup philosophy that prioritizes the music over the rig.\n\nThe home-studio recording context at Sully Erna's Massachusetts facility allowed the Pearl Reference kit to be tracked with extended time and attention. Each drum could be tuned, head-tested, and miked with the kind of patience that production deadlines at clock-billed studios sometimes preclude. The result on *The Oracle* is a kit sound that is settled, mature, and serves the songs without imposing itself on them.",
+      "description": "By *The Oracle* sessions in 2010, the ddrum Dios Series had long been Shannon Larkin's settled professional platform — the same kit he had carried since *Faceless* (2003) through the *IV* (2006) sessions, three touring cycles, and into the next studio album. The Dios Series' custom-finish shells deliver a punchy, durable voice that Larkin had found suited his hard rock playing across the 2000s.\n\nThe double 22\" bass drum configuration remained constant — a fixture across Larkin's documented Godsmack studio work. On *The Oracle*, the Dios Series' 22\" kicks deliver the attack-forward low end that \"Cryin' Like a Bitch\" and \"Love-Hate-Sex-Pain\" depend on for their rhythmic authority. The shell construction handled the consistent double-kick patterns Larkin built into the album's heavier sections without losing definition in the mix.\n\nThe four-tom spread (10\", 12\", 14\", 16\") is identical to the *Faceless* and *IV* configurations. This is a deliberate Larkin choice: enough range for expressive fills without the complexity overhead of an expanded kit. Godsmack's music — groove-first, power-forward — demands a drummer who lives in the pocket, and Larkin's consistent tom configuration across albums reflects a setup philosophy that prioritizes the music over the rig.\n\nThe home-studio recording context at Sully Erna's Massachusetts facility allowed the ddrum Dios Series kit to be tracked with extended time and attention. Each drum could be tuned, head-tested, and miked with the kind of patience that production deadlines at clock-billed studios sometimes preclude. The result on *The Oracle* is a kit sound that is settled, mature, and serves the songs without imposing itself on them.",
       "notes": [
-        "Pearl Reference Series — Shannon Larkin's continuing platform from the IV (2006) sessions",
-        "Maple/birch hybrid shells: warm fundamental with punchy, attack-forward character",
+        "ddrum Dios Series — Shannon Larkin's continuing platform since Faceless (2003)",
+        "Custom-finish shells: warm fundamental with punchy, attack-forward character",
         "Double 22\" bass drums — consistent Larkin configuration across the Godsmack catalog",
         "Four-tom spread (10\", 12\", 14\", 16\") — identical to Faceless and IV setups",
         "Recorded at Sully Erna's home studio, allowing extended kit-tuning and head-testing time"
       ],
-      "estimatedValue": "$3,500–6,000 (Pearl Reference Series shell pack, 2010 era)"
+      "estimatedValue": "$1,500–3,000 (ddrum Dios Series shell pack, 2010 era)"
     },
     "snare": {
-      "title": "Pearl Free-Floating Brass / Pearl Sensitone: Cutting Crack for The Oracle",
-      "brand": "Pearl",
-      "model": "Pearl Free-Floating 14\"x6.5\" Brass / Pearl Sensitone 14\"x6.5\"",
+      "title": "ddrum Dios Maple: Cutting Crack for The Oracle",
+      "brand": "ddrum",
+      "model": "ddrum Dios 14\"x6.5\" Maple",
       "size": "14\" x 6.5\"",
-      "shell": "Brass / Steel (multiple snares documented across The Oracle sessions)",
-      "description": "Shannon Larkin's snare voice on *The Oracle* drew from his Pearl Free-Floating brass model — the warmer, more complex instrument that had become a documented part of his Pearl-era setup — alongside the Pearl Sensitone, Pearl's professional metal-shell line that offers a brighter, more cutting attack character. At 14\"x6.5\", both options provide the depth Larkin's power-driven backbeats require, but with distinct tonal personalities suited to different tracks across the album.\n\nThe Pearl Free-Floating brass is defined by its independently suspended hoops, which allow the shell to vibrate without constraint from bolted tension rods. The 14\"x6.5\" brass shell produces a warmer fundamental with sharp transient attack, complex overtones, and a body sound that pure steel cannot deliver. On tracks like \"Love-Hate-Sex-Pain,\" where the snare needs to anchor a dynamically arranged mid-tempo rock track, the Free-Floating brass's three-dimensional character is the right tool.\n\nThe Pearl Sensitone, by contrast, is Pearl's professional metal-shell snare line — built around brass or steel shells with conventional construction and tuned for maximum clarity and projection. On the more aggressive material on *The Oracle* — including \"Cryin' Like a Bitch\" — a brighter, more cutting Sensitone voice can drive through dense guitar production with the kind of front-of-mix authority that hard rock arena drumming demands.\n\nLarkin tuned his snares at medium-high tension across *The Oracle* sessions, maintaining the cutting attack his hard rock playing requires while preserving each shell's tonal character. The home-studio environment allowed him to swap snares between tracks if a song called for a different voice — a degree of flexibility that distinguishes settled professional setups from rushed studio dates.",
-      "tuningSetting": "Medium-high tension — preserving cutting attack while allowing brass/steel shell character to express",
+      "shell": "Maple",
+      "description": "Shannon Larkin's snare voice on *The Oracle* is the same ddrum Dios 14\"x6.5\" maple snare that had anchored his sound since *Faceless* — a warm, cutting instrument with sufficient depth for Larkin's power-driven backbeats.\n\nThe maple shell produces a warm fundamental with sharp transient attack, complex overtones, and a body sound that gives each stroke musical character. On tracks like \"Love-Hate-Sex-Pain,\" where the snare needs to anchor a dynamically arranged mid-tempo rock track, the maple shell's three-dimensional character is the right tool. On the more aggressive material on *The Oracle* — including \"Cryin' Like a Bitch\" — the same snare's cutting attack drives through dense guitar production with the kind of front-of-mix authority that hard rock arena drumming demands.\n\nLarkin tuned the snare at medium-high tension across *The Oracle* sessions, maintaining the cutting attack his hard rock playing requires while preserving the maple shell's tonal character. The home-studio environment allowed extended time to dial in head selection and mic placement — a degree of attention that distinguishes settled professional setups from rushed studio dates.",
+      "tuningSetting": "Medium-high tension — preserving cutting attack while allowing maple shell character to express",
       "heads": "Evans or Remo coated batter (rotating across sessions), Remo Ambassador Snare Side (resonant)",
-      "estimatedValue": "$300–700 (Pearl Free-Floating brass / Pearl Sensitone, 2010 era)"
+      "estimatedValue": "$300–500 (ddrum Dios maple snare, 2010 era)"
     },
     "cymbals": {
       "title": "Sabian HH / HHX: The Settled Cymbal Voice",
@@ -2058,7 +2057,7 @@ export const articles = {
           "type": "Hi-Hat Stand",
           "brand": "Pearl",
           "model": "Pearl H-2050 Gyro-Lock Hi-Hat Stand",
-          "notes": "Matched Pearl hardware for consistency with the Reference kit and Demon Drive pedal"
+          "notes": "Matched Pearl hardware for consistency with the Demon Drive pedal"
         },
         {
           "type": "Drumheads (Toms, Batter)",
@@ -2081,11 +2080,11 @@ export const articles = {
     },
     "recordingTechniques": {
       "title": "Recording The Oracle at Sully Erna's Home Studio",
-      "content": "*The Oracle* was recorded at Sully Erna's home studio in Massachusetts, with Dave Fortman co-producing alongside Erna. That home-studio context shaped the album's drum production in ways that arena-tier commercial facilities — with their hourly billing and shared scheduling — rarely permit.\n\n**Time for Sound Selection:**\nThe home-studio environment gave Larkin extended time to dial in his kit's voice. Multiple snares could be tested across different tracks. Head selections could be rotated and evaluated for specific arrangements. Microphone positions could be moved and re-moved until the engineer and producers had exactly the sound the song demanded. The result on *The Oracle* is a drum sound that is settled and considered rather than rushed — every kit choice serves the arrangement it sits inside.\n\n**Pearl Reference Tracking Approach:**\nThe Pearl Reference's hybrid maple/birch shells were close-miked for attack definition, with the birch component's inherent brightness providing the edge that sits in *The Oracle*'s mix without requiring excessive processing. The double 22\" kicks — Larkin's constant configuration — were tracked for tight, focused low-end that supports the album's rhythm-section-forward arrangements.\n\n**Snare Selection by Track:**\nThe dual-snare approach (Pearl Free-Floating brass for warmer, more complex backbeats; Pearl Sensitone for brighter, more cutting attack) gave the album rhythmic variety. Tracks like \"Love-Hate-Sex-Pain\" benefit from the Free-Floating brass's three-dimensional character, while the heavier \"Cryin' Like a Bitch\" can take advantage of a brighter, more aggressive snare voice. The home studio allowed that snare-by-track selection without the time pressure of a billed session.\n\n**Cymbal Recording with HH/HHX:**\nThe Sabian HH/HHX cymbal selection — settled by 2010 into Larkin's signature voice — was tracked with overhead miking that captures the hand-hammered character of each cymbal. Dave Fortman's production approach favored cymbal sounds with body and complexity over pure brightness, and Larkin's HH Medium Hi-Hats and HHX Raw Bell Dry Ride fit that production philosophy precisely.\n\n**Foot Technique with Demon Drive:**\nThe Pearl Demon Drive's direct-drive mechanism provided the consistent feel Larkin needed for the album's double-kick passages. Direct-drive pedals respond more immediately than chain-drive designs — the trade-off is that the player has less mechanical buffer between footboard and beater, demanding precise technique. By 2010 Larkin had refined his foot technique to the point where the Demon Drive's direct response was an asset, not a complication.",
+      "content": "*The Oracle* was recorded at Sully Erna's home studio in Massachusetts, with Dave Fortman co-producing alongside Erna. That home-studio context shaped the album's drum production in ways that arena-tier commercial facilities — with their hourly billing and shared scheduling — rarely permit.\n\n**Time for Sound Selection:**\nThe home-studio environment gave Larkin extended time to dial in his kit's voice. Head selections could be rotated and evaluated for specific arrangements. Microphone positions could be moved and re-moved until the engineer and producers had exactly the sound the song demanded. The result on *The Oracle* is a drum sound that is settled and considered rather than rushed — every kit choice serves the arrangement it sits inside.\n\n**ddrum Dios Series Tracking Approach:**\nThe ddrum Dios Series' shells were close-miked for attack definition, providing the edge that sits in *The Oracle*'s mix without requiring excessive processing. The double 22\" kicks — Larkin's constant configuration — were tracked for tight, focused low-end that supports the album's rhythm-section-forward arrangements.\n\n**Snare Character:**\nThe ddrum Dios maple snare's warm, cutting character gave the album rhythmic consistency. Tracks like \"Love-Hate-Sex-Pain\" benefit from the snare's three-dimensional character, while the heavier \"Cryin' Like a Bitch\" takes advantage of the same snare's cutting attack. The home studio allowed extended time to dial in head selection and mic placement without the pressure of a billed session.\n\n**Cymbal Recording with HH/HHX:**\nThe Sabian HH/HHX cymbal selection — settled by 2010 into Larkin's signature voice — was tracked with overhead miking that captures the hand-hammered character of each cymbal. Dave Fortman's production approach favored cymbal sounds with body and complexity over pure brightness, and Larkin's HH Medium Hi-Hats and HHX Raw Bell Dry Ride fit that production philosophy precisely.\n\n**Foot Technique with Demon Drive:**\nThe Pearl Demon Drive's direct-drive mechanism provided the consistent feel Larkin needed for the album's double-kick passages. Direct-drive pedals respond more immediately than chain-drive designs — the trade-off is that the player has less mechanical buffer between footboard and beater, demanding precise technique. By 2010 Larkin had refined his foot technique to the point where the Demon Drive's direct response was an asset, not a complication.",
       "keyTechniques": [
         "Home-studio environment at Sully Erna's facility allowed extended kit-tuning and head-testing",
-        "Pearl Reference hybrid shells — close-miked for attack-forward presence in the mix",
-        "Dual-snare selection (Free-Floating brass and Sensitone) by track for tonal variety",
+        "ddrum Dios Series shells — close-miked for attack-forward presence in the mix",
+        "ddrum Dios maple snare — warm, cutting backbeat consistent across the album",
         "Sabian HH/HHX cymbals tracked for hand-hammered complexity, suited to Fortman production",
         "Pearl Demon Drive direct-drive pedal — refined late-2000s foot-technique foundation"
       ]
@@ -2098,11 +2097,11 @@ export const articles = {
         "highlights": [
           "The Oracle's lead single and most commercially recognizable track — driving Larkin groove at its most direct",
           "Straight-ahead hard rock pocket: kick-snare authority, hi-hat drive, fills at section transitions",
-          "Pearl Reference kick drums demonstrate the attack-forward character settled into Larkin's late-2000s sound",
-          "Snare placement is authoritative and unambiguous — the brighter Sensitone option is the right voice for this track",
+          "ddrum Dios Series kick drums demonstrate the attack-forward character settled into Larkin's late-2000s sound",
+          "Snare placement is authoritative and unambiguous — the maple snare's cutting voice is the right voice for this track",
           "A demonstration of Larkin's philosophy: serve the song first, display second"
         ],
-        "gearNotes": "The Pearl Reference's attack-forward kick character and a brighter snare voice anchor this track's commercial-radio drive."
+        "gearNotes": "The ddrum Dios Series' attack-forward kick character and the maple snare's cutting voice anchor this track's commercial-radio drive."
       },
       {
         "track": "Love-Hate-Sex-Pain",
@@ -2110,12 +2109,12 @@ export const articles = {
         "signature": "4/4",
         "highlights": [
           "The Oracle's mid-tempo dynamic showcase — restrained verse work building to full-force choruses",
-          "Pearl Free-Floating brass snare's three-dimensional voice gives the song its rhythmic complexity",
+          "ddrum Dios maple snare's three-dimensional voice gives the song its rhythmic complexity",
           "HHX 21\" Raw Bell Dry Ride carries the verses with dry, contained body wash",
           "Demonstrates Larkin's ability to play with restraint where the arrangement demands it",
           "The drumming serves the dynamic arc — quiet to loud, sparse to full — across the song"
         ],
-        "gearNotes": "The Pearl Free-Floating brass snare's complex backbeat and the HHX Raw Bell Dry Ride's verse-driving voice are the central gear story on this track."
+        "gearNotes": "The ddrum Dios maple snare's complex backbeat and the HHX Raw Bell Dry Ride's verse-driving voice are the central gear story on this track."
       },
       {
         "track": "The Oracle",
@@ -2128,21 +2127,21 @@ export const articles = {
           "Sabian HHX Evolution Crashes punctuate the song's structural transitions",
           "A track that demonstrates The Oracle is more than singles-and-filler — it has architectural ambition"
         ],
-        "gearNotes": "The full Pearl Reference + Sabian HH/HHX + Pearl Demon Drive setup is showcased across this track's dynamic range."
+        "gearNotes": "The full ddrum Dios Series + Sabian HH/HHX + Pearl Demon Drive setup is showcased across this track's dynamic range."
       }
     ],
     "faq": [
       {
         "question": "What drums did Shannon Larkin use on Godsmack's The Oracle?",
-        "answer": "On Godsmack's *The Oracle* (2010), Shannon Larkin used a Pearl Reference Series kit — Pearl's flagship professional shell pack with a maple/birch hybrid shell construction. The configuration ran double 22\" bass drums, 10\" and 12\" rack toms, and 14\" and 16\" floor toms — the same spread he used on *IV* (2006) and *Faceless* (2003). His snares included a Pearl Free-Floating 14\"x6.5\" brass shell and a Pearl Sensitone 14\"x6.5\", rotated across tracks for tonal variety. For his complete gear history across Godsmack albums, see the [Shannon Larkin drummer profile](/drummer/shannon-larkin)."
+        "answer": "On Godsmack's *The Oracle* (2010), Shannon Larkin used a ddrum Dios Series kit — the same road-grade professional shell pack he has used for his entire Godsmack tenure. The configuration ran double 22\" bass drums, 10\" and 12\" rack toms, and 14\" and 16\" floor toms — the same spread he used on *IV* (2006) and *Faceless* (2003). His snare was a ddrum Dios 14\"x6.5\" maple shell, also unchanged from prior albums. For his complete gear history across Godsmack albums, see the [Shannon Larkin drummer profile](/drummer/shannon-larkin)."
       },
       {
         "question": "Where was The Oracle recorded?",
-        "answer": "*The Oracle* was recorded at Sully Erna's home studio in Massachusetts. Dave Fortman (Evanescence, Slipknot, Mudvayne) co-produced the album alongside Erna. The home-studio environment gave the band extended time for drum tuning, head selection, and microphone-placement experimentation that arena-tier commercial facilities, with their billable hours, often preclude. The result is a drum sound on *The Oracle* that is considered and settled — Shannon Larkin's Pearl Reference kit tracked with the kind of patience that lets each track's arrangement get the kit voice it needs."
+        "answer": "*The Oracle* was recorded at Sully Erna's home studio in Massachusetts. Dave Fortman (Evanescence, Slipknot, Mudvayne) co-produced the album alongside Erna. The home-studio environment gave the band extended time for drum tuning, head selection, and microphone-placement experimentation that arena-tier commercial facilities, with their billable hours, often preclude. The result is a drum sound on *The Oracle* that is considered and settled — Shannon Larkin's ddrum Dios Series kit tracked with the kind of patience that lets each track's arrangement get the kit voice it needs."
       },
       {
         "question": "How did The Oracle chart on the Billboard 200?",
-        "answer": "*The Oracle* (released May 4, 2010, on Universal Republic Records) debuted at #1 on the Billboard 200 — Godsmack's third consecutive studio album to do so, following *Faceless* (2003) and *IV* (2006). That achievement is remarkable in retrospect: by 2010, hard rock's commercial environment had shifted significantly toward streaming-era economics, and a #1 debut for a hard rock band on a major label was no longer routine. *The Oracle* delivered exactly that, anchored by the singles \"Cryin' Like a Bitch\" and \"Love-Hate-Sex-Pain.\" Shannon Larkin's drumming — driving the album's heavier tracks with the Pearl Reference kit and Pearl Demon Drive pedal, anchoring its mid-tempo material with the Pearl Free-Floating brass snare's complex voice — was central to the album's commercial and critical reception."
+        "answer": "*The Oracle* (released May 4, 2010, on Universal Republic Records) debuted at #1 on the Billboard 200 — Godsmack's third consecutive studio album to do so, following *Faceless* (2003) and *IV* (2006). That achievement is remarkable in retrospect: by 2010, hard rock's commercial environment had shifted significantly toward streaming-era economics, and a #1 debut for a hard rock band on a major label was no longer routine. *The Oracle* delivered exactly that, anchored by the singles \"Cryin' Like a Bitch\" and \"Love-Hate-Sex-Pain.\" Shannon Larkin's drumming — driving the album's heavier tracks with the ddrum Dios Series kit and Pearl Demon Drive pedal, anchoring its mid-tempo material with the ddrum Dios maple snare's complex voice — was central to the album's commercial and critical reception."
       },
       {
         "question": "What pedal does Shannon Larkin use on The Oracle?",
@@ -2199,8 +2198,8 @@ export const articles = {
         "url": "/gear/sabian"
       },
       {
-        "text": "Pearl drums brand overview",
-        "url": "/gear/pearl"
+        "text": "ddrum drums brand overview",
+        "url": "/gear/ddrum"
       }
     ],
     "schema": {
@@ -2209,7 +2208,7 @@ export const articles = {
         {
           "@type": "Article",
           "headline": "Shannon Larkin's Drum Setup on Godsmack's The Oracle (2010)",
-          "description": "Shannon Larkin's drum setup on Godsmack's The Oracle (2010) — the band's third consecutive #1 Billboard 200 debut. Pearl Reference, Sabian HH/HHX, Pearl Demon Drive, Vater signature sticks.",
+          "description": "Shannon Larkin's drum setup on Godsmack's The Oracle (2010) — the band's third consecutive #1 Billboard 200 debut. ddrum Dios Series, Sabian HH/HHX, Pearl Demon Drive, Vater signature sticks.",
           "author": {
             "@type": "Organization",
             "name": "MetalForge Editorial"
@@ -2270,7 +2269,7 @@ export const articles = {
               "name": "What drums did Shannon Larkin use on Godsmack's The Oracle?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "On Godsmack The Oracle (2010), Shannon Larkin used Pearl Reference Series drums — double 22\" bass drums, 10\" and 12\" rack toms, 14\" and 16\" floor toms, with Pearl Free-Floating brass and Pearl Sensitone 14\"x6.5\" snares rotated across tracks."
+                "text": "On Godsmack The Oracle (2010), Shannon Larkin used a ddrum Dios Series kit — double 22\" bass drums, 10\" and 12\" rack toms, 14\" and 16\" floor toms, with a ddrum Dios 14\"x6.5\" maple snare, the same kit and snare he used on Faceless and IV."
               }
             },
             {
@@ -2295,7 +2294,7 @@ export const articles = {
     },
     "conclusion": {
       "title": "The Settled Era: The Oracle and the Third #1",
-      "content": "*The Oracle* (2010) is Shannon Larkin's settled-era studio performance with Godsmack — an album recorded at Sully Erna's Massachusetts home studio with the kind of time and attention that commercial sessions don't always allow. The Pearl Reference kit, Pearl Free-Floating brass and Sensitone snares, Sabian HH/HHX cymbals, Pearl Demon Drive pedal, and Vater Shannon Larkin Signature sticks collectively represent a drummer who has refined his rig across two prior Godsmack studio albums and arrived at *The Oracle* with very specific ideas about the sounds he wanted to make.\n\n**For Drummers Studying The Oracle:**\nStart with \"Cryin' Like a Bitch\" — Larkin's most direct, unambiguous groove on the album, built entirely on the Pearl Reference's attack-forward character and a brighter snare voice for radio-driving authority. Then work through \"Love-Hate-Sex-Pain\" for the Pearl Free-Floating brass snare's complex backbeat and the HHX Raw Bell Dry Ride's verse-driving voice. The title track demonstrates the architectural ambition Larkin can deliver when the arrangement demands it — extended dynamic arcs across a single track without losing pocket.\n\n**The Gear Legacy:**\nBy 2010, Shannon Larkin's Pearl Reference + Sabian HH/HHX + Vater signature setup represented a settled professional rig that he carried across multiple albums and touring cycles. A player approaching *The Oracle*'s drum sound can replicate the gear philosophy — attack-forward shells, hand-hammered cymbals with body and complexity, direct-drive double pedal, signature stick weight — at multiple price points.\n\nFor the complete Shannon Larkin gear arc: begin at [Faceless (2003)](/articles/faceless-drum-setup) — the Tama Starclassic Maple starting point — continue through [IV (2006)](/articles/godsmack-iv-drum-setup) for the Pearl Reference transition, and follow with *The Oracle* (2010) for the settled era documented here. The [Shannon Larkin complete gear guide](/articles/shannon-larkin-drum-setup) documents his current setup, including the Ddrum Reflex Series that represents the next phase after the Pearl Reference era.\n\n🥁 *#1 Billboard 200. Third consecutive #1. The settled Pearl Reference era at peak.* 🤘"
+      "content": "*The Oracle* (2010) is Shannon Larkin's settled-era studio performance with Godsmack — an album recorded at Sully Erna's Massachusetts home studio with the kind of time and attention that commercial sessions don't always allow. The ddrum Dios Series kit and maple snare, Sabian HH/HHX cymbals, Pearl Demon Drive pedal, and Vater Shannon Larkin Signature sticks collectively represent a drummer who has refined his rig across two prior Godsmack studio albums and arrived at *The Oracle* with very specific ideas about the sounds he wanted to make.\n\n**For Drummers Studying The Oracle:**\nStart with \"Cryin' Like a Bitch\" — Larkin's most direct, unambiguous groove on the album, built entirely on the ddrum Dios Series' attack-forward character and the maple snare's cutting voice for radio-driving authority. Then work through \"Love-Hate-Sex-Pain\" for the maple snare's complex backbeat and the HHX Raw Bell Dry Ride's verse-driving voice. The title track demonstrates the architectural ambition Larkin can deliver when the arrangement demands it — extended dynamic arcs across a single track without losing pocket.\n\n**The Gear Legacy:**\nBy 2010, Shannon Larkin's ddrum Dios Series + Sabian HH/HHX + Vater signature setup represented a settled professional rig that he carried across multiple albums and touring cycles. A player approaching *The Oracle*'s drum sound can replicate the gear philosophy — durable shells, hand-hammered cymbals with body and complexity, direct-drive double pedal, signature stick weight — at multiple price points.\n\nFor the complete Shannon Larkin gear arc: begin at [Faceless (2003)](/articles/faceless-drum-setup) — the ddrum Dios Series starting point — continue through [IV (2006)](/articles/godsmack-iv-drum-setup), and follow with *The Oracle* (2010) for the settled era documented here. The [Shannon Larkin complete gear guide](/articles/shannon-larkin-drum-setup) documents his current setup, still built around the same ddrum Dios Series kit.\n\n🥁 *#1 Billboard 200. Third consecutive #1. The settled ddrum Dios Series era at peak.* 🤘"
     }
   },
   "lighting-up-the-sky-drum-setup": {
@@ -2314,13 +2313,13 @@ export const articles = {
     "datePublished": "2026-06-27",
     "dateModified": "2026-06-27",
     "author": "MetalForge Editorial",
-    "title": "Lighting Up the Sky Drum Setup: Shannon Larkin's Ludwig Vistalite Kit on Godsmack's Final Album (2023)",
-    "description": "Discover the exact drum kit, cymbals, and pedals Shannon Larkin used on Godsmack's Lighting Up the Sky (2023) — the band's announced final studio album. Ludwig Vistalite acrylic drums, Sabian HHX/AAX cymbals, DW 9000 pedals, and the gear behind Godsmack's farewell record and Shannon's most recent kit.",
+    "title": "Lighting Up the Sky Drum Setup: Shannon Larkin's ddrum Dios Series Kit on Godsmack's Final Album (2023)",
+    "description": "Discover the exact drum kit, cymbals, and pedals Shannon Larkin used on Godsmack's Lighting Up the Sky (2023) — the band's announced final studio album. ddrum Dios Series drums, Sabian HHX/AAX cymbals, DW 9000 pedals, and the gear behind Godsmack's farewell record and Shannon's most recent kit.",
     "seoKeywords": [
       "shannon larkin drum setup 2023",
       "godsmack lighting up the sky drums",
       "godsmack 2023 drum setup",
-      "shannon larkin ludwig vistalite",
+      "shannon larkin ddrum dios series",
       "shannon larkin drum kit 2023",
       "godsmack final album drums",
       "lighting up the sky drummer",
@@ -2330,11 +2329,11 @@ export const articles = {
     ],
     "ogImage": "/images/drummers/shannon-larkin.webp",
     "intro": {
-      "title": "Shannon Larkin's Ludwig Vistalite Era: The Drum Setup Behind Godsmack's Final Album",
-      "content": "Released on February 24, 2023, *Lighting Up the Sky* is Godsmack's eighth and final studio album — the band announced it as their farewell record, closing a studio career that spans *Godsmack* (1998) to this conclusive statement. For Shannon Larkin, it represents the final chapter of his two-decade tenure as Godsmack's drummer, and the album arrived with a gear change as bold as the occasion demanded: the Ludwig Vistalite acrylic kit, a departure from every wood-shelled setup in Godsmack's studio catalog and a deliberate embrace of classic hard rock iconography for the band's concluding statement.\n\nThe Ludwig Vistalite is one of drumming's most recognizable instruments — the clear acrylic shell design, revived by Ludwig for the modern era, carries the DNA of the 1970s kits that John Bonham made famous. For Shannon Larkin, a drummer who has cited Bonham as a defining influence throughout his career, the Vistalite for *Lighting Up the Sky* is both a sonic choice and a statement of roots: this is where hard rock drumming was forged, and where Godsmack's final record chose to plant its flag.\n\nThe Vistalite's acrylic construction produces a bright, cutting, powerful drum sound unlike any of Larkin's previous Godsmack studio kits. Sharper in attack than the Pearl Reference Pure from *When Legends Rise* (2018), louder and more immediately projecting than the Ddrum Reflex setup of his touring years — the Vistalite announces itself. The album cycle's #1 US rock radio performance, driven by \"Surrender\" and the title track, was built on this signature sound: a kit that leads with visual and sonic authority.\n\nHis Sabian cymbal relationship, long established across the entire Godsmack studio catalog, continued for the *Lighting Up the Sky* cycle with the refined HHX/AAX configuration he developed through the *When Legends Rise* period. The DW 9000 double bass pedal — Larkin's most consistent choice across the post-2010 Godsmack period — returned as the foot hardware foundation. Vater Shannon Larkin Signature sticks completed the setup.\n\nThis article documents the Ludwig Vistalite configuration, Sabian cymbal setup, and the full gear picture of Shannon Larkin's most historically resonant Godsmack studio kit.",
+      "title": "Shannon Larkin's ddrum Dios Series on Godsmack's Final Album",
+      "content": "Released on February 24, 2023, *Lighting Up the Sky* is Godsmack's eighth and final studio album — the band announced it as their farewell record, closing a studio career that spans *Godsmack* (1998) to this conclusive statement. For Shannon Larkin, it represents the final chapter of his two-decade tenure as Godsmack's drummer, and the album arrived with the same ddrum Dios Series kit that has anchored his sound since *Faceless* (2003) — the same drums, the same maple snare, carried through to the very end of the band's studio catalog.\n\nThe ddrum Dios Series is built for exactly the kind of durability a two-decade touring and recording career demands. For Larkin, a drummer who has cited John Bonham as a defining influence throughout his career, the consistency of his setup for *Lighting Up the Sky* is itself a statement: the gear that got him here is the gear that closed it out.\n\nHis Sabian cymbal relationship, long established across the entire Godsmack studio catalog, continued for the *Lighting Up the Sky* cycle with the refined HHX/AAX configuration he developed through the *When Legends Rise* period. The DW 9000 double bass pedal — Larkin's most consistent choice across the post-2010 Godsmack period — returned as the foot hardware foundation. Vater Shannon Larkin Signature sticks completed the setup.\n\nThis article documents the ddrum Dios Series configuration, Sabian cymbal setup, and the full gear picture of Shannon Larkin's final Godsmack studio kit.",
       "keyPoints": [
         "Lighting Up the Sky (2023) — Godsmack's announced eighth and final studio album",
-        "Ludwig Vistalite acrylic drums — a historic gear choice for the farewell record cycle, distinct from all prior Godsmack studio kits",
+        "ddrum Dios Series drums — the same kit Larkin has used since Faceless (2003), unchanged for the farewell record",
         "Double 22\" bass drums: Larkin's constant configuration across the entire Godsmack catalog since 2003",
         "Sabian HHX/AAX cymbals — long-running Sabian endorsement maintained through the final album",
         "DW 9000 Double Bass Pedal — Larkin's consistent post-2010 pedal choice",
@@ -2342,10 +2341,10 @@ export const articles = {
       ]
     },
     "drumKit": {
-      "title": "Ludwig Vistalite: The Acrylic Statement for Godsmack's Farewell Record",
-      "brand": "Ludwig",
-      "model": "Ludwig Vistalite",
-      "finish": "Clear acrylic",
+      "title": "ddrum Dios Series: The Consistent Foundation for Godsmack's Farewell Record",
+      "brand": "ddrum",
+      "model": "ddrum Dios Series",
+      "finish": "Custom finishes",
       "config": {
         "bassdrums": [
           "22\" Bass Drum (x2 — double kick configuration)"
@@ -2358,28 +2357,28 @@ export const articles = {
           "14\" Floor Tom",
           "16\" Floor Tom"
         ],
-        "shells": "Acrylic (Vistalite) — clear polished construction"
+        "shells": "Custom-finish shells — ddrum Dios Series"
       },
-      "description": "The Ludwig Vistalite represents one of the most distinctive gear choices in Shannon Larkin's Godsmack career — and one of the most meaningful. The Vistalite's clear acrylic shells trace their lineage directly to John Bonham's iconic 1970s Led Zeppelin setup, the kit that defined what powerful, authoritative hard rock drumming could look and sound like. Ludwig revived the Vistalite line with modern manufacturing for a new generation of hard rock and rock drummers, updating the construction while preserving the visual and sonic identity that made the original famous. For Larkin, who has cited Bonham's deep-pocket groove philosophy as a foundational influence, the Vistalite for *Lighting Up the Sky* is a deliberate artistic statement: a return to the roots of hard rock power drumming for the final chapter of Godsmack's studio catalog.\n\nAcrylic shells produce a distinctly different acoustic character from the wood kits that defined Larkin's previous Godsmack studio work. Where pure maple (Pearl Reference Pure, *When Legends Rise*) offers warm sustain and full fundamental, and basswood/poplar (Ddrum Reflex, touring) provides punchy, dry attack, acrylic speaks with maximum projection and a cutting, high-frequency clarity that wood cannot replicate. The Vistalite's sound is immediate and visual — every stroke projects with an authority that suits both the album's production aesthetic and the touring cycle's arena-scale presentation. The clear shells' additional appeal is visual: on stage, the Vistalite is unmistakable.\n\nThe double 22\" kick configuration is the one constant across Larkin's entire Godsmack studio catalog, from the Tama Starclassic Maple of *Faceless* (2003) through the Ludwig Vistalite of *Lighting Up the Sky* (2023). Two 22\" kicks, four toms (10\", 12\", 14\", 16\") — this configuration is as central to the Shannon Larkin identity as his Sabian cymbal setup or DW 9000 pedal. The Vistalite gives this fundamental architecture a new, historically resonant voice for the farewell record.\n\nFor drummers drawn to the Vistalite sound, the acrylic shells require a slightly different miking approach than wood — the shells' high projection means mic placement benefits from more distance to avoid overloading preamps — but the reward is a drum sound that was literally designed to fill arenas.",
+      "description": "The ddrum Dios Series carried Shannon Larkin through *Lighting Up the Sky* just as it had carried him through every Godsmack studio album since *Faceless* (2003) — the same kit, unchanged, for the entirety of his two-decade tenure. There was no gear overhaul for the farewell record: the durable, road-tested Dios Series was simply the instrument Larkin trusted to close out Godsmack's studio catalog.\n\nThe Dios Series' custom-finish shells produce a punchy, cutting, powerful drum sound consistent with every prior Larkin/Godsmack studio kit. The album cycle's #1 US rock radio performance, driven by \"Surrender\" and the title track, was built on this familiar sound: a kit that has defined Larkin's identity since he joined the band.\n\nThe double 22\" kick configuration is the one constant across Larkin's entire Godsmack studio catalog, from *Faceless* (2003) through *Lighting Up the Sky* (2023). Two 22\" kicks, four toms (10\", 12\", 14\", 16\") — this configuration is as central to the Shannon Larkin identity as his Sabian cymbal setup or DW 9000 pedal.",
       "notes": [
-        "Ludwig Vistalite — clear acrylic shells, revived Ludwig line inspired by the 1970s Bonham-era design",
-        "Acrylic construction: maximum projection and cutting clarity distinct from any of Larkin's prior Godsmack studio kits",
+        "ddrum Dios Series — the same kit Larkin has played since Faceless (2003)",
+        "Custom-finish shells: punchy, durable character consistent across Larkin's entire Godsmack catalog",
         "Double 22\" bass drums: Larkin's unchanged configuration across the entire Godsmack catalog (2003–2023)",
         "Four-tom spread (10\", 12\", 14\", 16\") — consistent Larkin approach across all Godsmack studio albums",
-        "Ludwig Vistalite revival era — a historically significant gear choice for Godsmack's final studio record"
+        "Long-time ddrum endorser — no gear change for Godsmack's final studio record"
       ],
-      "estimatedValue": "$3,500–6,500 (Ludwig Vistalite shell pack)"
+      "estimatedValue": "$1,500–3,000 (ddrum Dios Series shell pack)"
     },
     "snare": {
-      "title": "Ludwig Snare: Bright Authority for the Farewell Record",
-      "brand": "Ludwig",
-      "model": "Ludwig Black Beauty 14\" x 6.5\" Steel",
+      "title": "ddrum Dios Maple: Authority for the Farewell Record",
+      "brand": "ddrum",
+      "model": "ddrum Dios 14\" x 6.5\" Maple",
       "size": "14\" x 6.5\"",
-      "shell": "Steel",
-      "description": "Shannon Larkin's snare voice on *Lighting Up the Sky* reflects both the Ludwig kit choice and the album's hard rock production priorities. The Ludwig Black Beauty — one of the most respected steel snare drums in rock drumming history — delivers the crisp, cutting crack that has defined the Godsmack backbeat since Larkin joined the band in 2002. The Black Beauty's seamless steel shell produces a bright, projecting attack with a complex, singing decay: a snare that speaks with authority through even the densest hard rock mix.\n\nThe 14\" x 6.5\" format provides both the surface area for full backbeat authority and the depth for genuine body — this is not a thin, shallow snare designed for delicacy, but a drum built for the kind of power-driven hard rock Godsmack has always represented. On tracks like \"Surrender\" and \"Soul on Fire,\" the snare's presence in the production is immediate and unambiguous. Every backbeat on *Lighting Up the Sky* carries the physical weight that Larkin's playing style demands — a snare that matches the Vistalite kit's projection-forward aesthetic.\n\nThe Ludwig Black Beauty's iconic status in rock drumming makes it a natural partner for the Vistalite: both are instruments with deep roots in hard rock's foundational era, and both are experiencing a revival among professional drummers who value historical resonance alongside sonic performance. Together they define *Lighting Up the Sky*'s gear identity: power, clarity, and a deliberately classic hard rock character.",
-      "tuningSetting": "Medium-high — maximizing steel shell projection while maintaining body for Godsmack's hard rock backbeat",
+      "shell": "Maple",
+      "description": "Shannon Larkin's snare voice on *Lighting Up the Sky* is the same ddrum Dios 14\" x 6.5\" maple snare that has defined the Godsmack backbeat since Larkin joined the band in 2002. The maple shell produces a warm, projecting attack with a complex, singing decay: a snare that speaks with authority through even the densest hard rock mix.\n\nThe 14\" x 6.5\" format provides both the surface area for full backbeat authority and the depth for genuine body — this is not a thin, shallow snare designed for delicacy, but a drum built for the kind of power-driven hard rock Godsmack has always represented. On tracks like \"Surrender\" and \"Soul on Fire,\" the snare's presence in the production is immediate and unambiguous. Every backbeat on *Lighting Up the Sky* carries the physical weight that Larkin's playing style demands.\n\nThe ddrum Dios maple snare's consistency across two decades of Godsmack albums makes it a defining element of *Lighting Up the Sky*'s gear identity: power, clarity, and the same voice that has anchored the band's sound since *Faceless*.",
+      "tuningSetting": "Medium-high — maximizing maple shell projection while maintaining body for Godsmack's hard rock backbeat",
       "heads": "Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)",
-      "estimatedValue": "$350–600 (Ludwig Black Beauty steel snare)"
+      "estimatedValue": "$300–500 (ddrum Dios maple snare)"
     },
     "cymbals": {
       "title": "Sabian HHX / AAX: The Continuing Configuration for Hard Rock's Biggest Stages",
@@ -2423,7 +2422,7 @@ export const articles = {
           "notes": "Quick accent tool for fills and transitions — bright AAX character for fast response"
         }
       ],
-      "description": "Shannon Larkin's Sabian cymbal setup for *Lighting Up the Sky* continues the HHX/AAX dual-series configuration he developed through the *When Legends Rise* (2018) period — a refined pairing that represents the peak of his Sabian cymbal evolution across two decades of Godsmack studio and touring work.\n\nThe Sabian AAX 14\" Stage Hi-Hats anchor the rhythmic foundation of every track on the album. The AAX series' machine-hammered construction delivers the bright, fast-responding chick that drives Godsmack's rock grooves forward — cutting through the dense arrangement of guitars, bass, and vocal to place the rhythmic pulse with maximum clarity. On *Lighting Up the Sky*, this hi-hat voice pairs effectively with the Vistalite kit's high-projection character: both elements of the setup speak with immediate, cutting authority.\n\nThe HHX Evolution Crashes — 17\" and 19\" — provide the accent voices for the album's dynamic moments. Hand-hammered and dark, the HHX Evolution series responds quickly but sustains with complex harmonic depth that a brighter cymbal cannot deliver. The 17\" provides fast, precise accents for transitional fills; the 19\" gives Larkin the full-bodied crash for Godsmack's biggest moments.\n\nThe HHX 21\" Raw Bell Dry Ride is the cymbal most closely associated with Larkin's evolved Godsmack sound since the *IV* (2006) era — its dry body wash and sharply defined bell have been his time-keeping voice across multiple albums and touring cycles. On *Lighting Up the Sky*, this cymbal's dark, complex character contrasts with the Vistalite's bright projection to create a full-range sonic picture: cutting transients from the drums, musical depth from the cymbals.\n\nThe HHX Chinese and AAX Splash complete the configuration with trash-accent and quick-effect voices that have remained consistent across the *When Legends Rise* and *Lighting Up the Sky* eras — proof that Larkin's cymbal philosophy has settled into a fully optimized setup.",
+      "description": "Shannon Larkin's Sabian cymbal setup for *Lighting Up the Sky* continues the HHX/AAX dual-series configuration he developed through the *When Legends Rise* (2018) period — a refined pairing that represents the peak of his Sabian cymbal evolution across two decades of Godsmack studio and touring work.\n\nThe Sabian AAX 14\" Stage Hi-Hats anchor the rhythmic foundation of every track on the album. The AAX series' machine-hammered construction delivers the bright, fast-responding chick that drives Godsmack's rock grooves forward — cutting through the dense arrangement of guitars, bass, and vocal to place the rhythmic pulse with maximum clarity. On *Lighting Up the Sky*, this hi-hat voice pairs effectively with the ddrum Dios Series kit's punchy character: both elements of the setup speak with immediate, cutting authority.\n\nThe HHX Evolution Crashes — 17\" and 19\" — provide the accent voices for the album's dynamic moments. Hand-hammered and dark, the HHX Evolution series responds quickly but sustains with complex harmonic depth that a brighter cymbal cannot deliver. The 17\" provides fast, precise accents for transitional fills; the 19\" gives Larkin the full-bodied crash for Godsmack's biggest moments.\n\nThe HHX 21\" Raw Bell Dry Ride is the cymbal most closely associated with Larkin's evolved Godsmack sound since the *IV* (2006) era — its dry body wash and sharply defined bell have been his time-keeping voice across multiple albums and touring cycles. On *Lighting Up the Sky*, this cymbal's dark, complex character contrasts with the ddrum Dios Series' bright projection to create a full-range sonic picture: cutting transients from the drums, musical depth from the cymbals.\n\nThe HHX Chinese and AAX Splash complete the configuration with trash-accent and quick-effect voices that have remained consistent across the *When Legends Rise* and *Lighting Up the Sky* eras — proof that Larkin's cymbal philosophy has settled into a fully optimized setup.",
       "estimatedValue": "$2,000–3,500 (full Sabian HHX/AAX setup)"
     },
     "hardware": {
@@ -2441,7 +2440,7 @@ export const articles = {
           "brand": "Vater",
           "model": "Vater Shannon Larkin Signature",
           "notes": "Long-running signature stick — hickory, balanced taper for hard rock power and cymbal articulation",
-          "description": "The Vater Shannon Larkin Signature stick has been Larkin's touring and recording choice since its development in collaboration with Vater Percussion. The signature's hickory construction and custom taper provide the mass required for Godsmack's power-forward hard rock playing while maintaining the rebound and articulation control needed for consistent performance across two-hour arena sets. On *Lighting Up the Sky*, the signature stick's balanced weight profile suits the Ludwig Vistalite's high-projection character — driving the snare and toms without over-playing the kit's inherent brightness."
+          "description": "The Vater Shannon Larkin Signature stick has been Larkin's touring and recording choice since its development in collaboration with Vater Percussion. The signature's hickory construction and custom taper provide the mass required for Godsmack's power-forward hard rock playing while maintaining the rebound and articulation control needed for consistent performance across two-hour arena sets. On *Lighting Up the Sky*, the signature stick's balanced weight profile suits the ddrum Dios Series' punchy character — driving the snare and toms without over-playing the kit's inherent brightness."
         },
         {
           "type": "Throne",
@@ -2453,13 +2452,13 @@ export const articles = {
           "type": "Drumheads (Toms, Batter)",
           "brand": "Remo",
           "model": "Remo Emperor Coated",
-          "notes": "Two-ply construction for controlled sustain and focused attack on the Vistalite shells"
+          "notes": "Two-ply construction for controlled sustain and focused attack on the Dios shells"
         },
         {
           "type": "Drumheads (Bass, Batter)",
           "brand": "Evans",
           "model": "Evans EMAD",
-          "notes": "External Muffle Attack Design — controlled attack and damped overtones for double-kick clarity in the Vistalite configuration"
+          "notes": "External Muffle Attack Design — controlled attack and damped overtones for double-kick clarity in the Dios Series configuration"
         }
       ],
       "heads": {
@@ -2506,8 +2505,8 @@ export const articles = {
         "url": "/gear/sabian"
       },
       {
-        "text": "Ludwig drums brand overview",
-        "url": "/gear/ludwig"
+        "text": "ddrum drums brand overview",
+        "url": "/gear/ddrum"
       }
     ],
     "schema": {
@@ -2515,8 +2514,8 @@ export const articles = {
       "@graph": [
         {
           "@type": "Article",
-          "headline": "Lighting Up the Sky Drum Setup: Shannon Larkin's Ludwig Vistalite Kit on Godsmack's Final Album (2023)",
-          "description": "Discover the exact drum kit, cymbals, and pedals Shannon Larkin used on Godsmack's Lighting Up the Sky (2023) — the band's announced final studio album. Ludwig Vistalite acrylic drums, Sabian HHX/AAX cymbals, DW 9000 pedals.",
+          "headline": "Lighting Up the Sky Drum Setup: Shannon Larkin's ddrum Dios Series Kit on Godsmack's Final Album (2023)",
+          "description": "Discover the exact drum kit, cymbals, and pedals Shannon Larkin used on Godsmack's Lighting Up the Sky (2023) — the band's announced final studio album. ddrum Dios Series drums, Sabian HHX/AAX cymbals, DW 9000 pedals.",
           "author": {
             "@type": "Organization",
             "name": "MetalForge Editorial"
@@ -2591,7 +2590,7 @@ export const articles = {
               "name": "What kit does Shannon Larkin use on Lighting Up the Sky?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "On Godsmack's Lighting Up the Sky (2023), Shannon Larkin played a Ludwig Vistalite acrylic drum kit — clear acrylic shells in his standard double 22\" bass drum configuration with 10\" and 12\" rack toms and 14\" and 16\" floor toms. The Ludwig Vistalite is a revival of the iconic 1970s acrylic design made famous by John Bonham of Led Zeppelin, producing a bright, high-projection sound distinct from the wood shells Larkin used on prior Godsmack studio albums. It represents his most recent and most historically resonant kit choice."
+                "text": "On Godsmack's Lighting Up the Sky (2023), Shannon Larkin played the same ddrum Dios Series drum kit he has used since Faceless (2003) — custom-finish shells in his standard double 22\" bass drum configuration with 10\" and 12\" rack toms and 14\" and 16\" floor toms. It is his most recent and, appropriately, unchanged kit choice, closing out Godsmack's studio catalog with the same setup that opened it."
               }
             },
             {
@@ -2615,7 +2614,7 @@ export const articles = {
               "name": "How does Shannon Larkin's kit on Lighting Up the Sky compare to When Legends Rise?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Shannon Larkin's most notable gear change between When Legends Rise (2018) and Lighting Up the Sky (2023) is the kit itself: Pearl Reference Pure pure maple shells on WLR versus Ludwig Vistalite clear acrylic on the 2023 album. The Vistalite's acrylic construction produces a brighter, more cutting, higher-projection sound than the Pearl maple shells' warmth. The Sabian HHX/AAX cymbal configuration, DW 9000 double bass pedal, and Vater signature sticks remain consistent between the two eras, maintaining the core sonic identity while the kit provides the new tonal character of the final record."
+                "text": "Shannon Larkin's kit did not change between When Legends Rise (2018) and Lighting Up the Sky (2023) — both albums use the same ddrum Dios Series drums and ddrum Dios maple snare that have anchored his sound since Faceless (2003). The Sabian HHX/AAX cymbal configuration, DW 9000 double bass pedal, and Vater signature sticks also remain consistent between the two eras, maintaining the same core sonic identity across both records."
               }
             }
           ]
@@ -2625,7 +2624,7 @@ export const articles = {
     "faq": [
       {
         "question": "What kit does Shannon Larkin use on Lighting Up the Sky?",
-        "answer": "On Godsmack's Lighting Up the Sky (2023), Shannon Larkin played a Ludwig Vistalite acrylic drum kit — clear acrylic shells in his standard double 22\" bass drum configuration with 10\" and 12\" rack toms and 14\" and 16\" floor toms. The Ludwig Vistalite is a revival of the iconic 1970s acrylic design made famous by John Bonham of Led Zeppelin. See the full [Shannon Larkin drummer profile](/drummer/shannon-larkin) for his complete career and gear overview."
+        "answer": "On Godsmack's Lighting Up the Sky (2023), Shannon Larkin played the same ddrum Dios Series drum kit he has used since Faceless (2003) — custom-finish shells in his standard double 22\" bass drum configuration with 10\" and 12\" rack toms and 14\" and 16\" floor toms. Larkin has been a long-time ddrum endorser for the entirety of his Godsmack career. See the full [Shannon Larkin drummer profile](/drummer/shannon-larkin) for his complete career and gear overview."
       },
       {
         "question": "What cymbals did Shannon Larkin use on Lighting Up the Sky?",
@@ -2642,7 +2641,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "The Final Arc: Lighting Up the Sky and the Close of Godsmack's Studio Legacy",
-      "content": "*Lighting Up the Sky* (2023) closes the Godsmack studio catalog with one of the most deliberate gear statements of Shannon Larkin's career. The Ludwig Vistalite kit — clear acrylic shells with the lineage of John Bonham's legendary 1970s setup — represents a return to hard rock's foundational iconography for the band's farewell record. It is simultaneously Larkin's most historically resonant kit choice and his most immediately distinctive, producing a bright, projecting, unmistakable drum sound that suits the album's active rock radio ambitions and its final-statement emotional weight.\n\n**The Complete Godsmack Drum Arc:**\nThe journey from *Faceless* (2003) to *Lighting Up the Sky* (2023) documents one of hard rock's most sustained and commercially significant drummer-band relationships. The gear tells the story album by album:\n\n- **[Faceless (2003)](/articles/faceless-drum-setup):** Tama Starclassic Maple — Larkin's first Godsmack studio album, #1 Billboard 200\n- **[IV (2006)](/articles/godsmack-iv-drum-setup):** Pearl Reference — heavier direction, #2 Billboard 200\n- **The Oracle (2010):** Pearl Reference — third consecutive top-3 Billboard 200 debut, #1\n- **1000hp (2014):** DW Collector's Series — refined touring machine\n- **[When Legends Rise (2018)](/articles/when-legends-rise-drum-setup):** Pearl Reference Pure — most polished production, #1 Mainstream Rock\n- **Lighting Up the Sky (2023):** Ludwig Vistalite — the farewell statement, #1 US rock radio\n\nEach kit marks a phase of a career built on power, pocket, and hard rock authenticity. The Vistalite is the final entry in that progression — and the one that most clearly signals where Larkin's drumming roots lie: the big, authoritative, historically grounded hard rock kit.\n\n**For Drummers Studying Lighting Up the Sky:**\nStart with \"Surrender\" — Larkin's most commercially direct groove on the album, built on the Vistalite's immediate projection and the DW 9000's reliable double-kick foundation. Then work through the title track for the mid-tempo authority that characterizes Godsmack's hard rock approach at its most confident. The Ludwig Vistalite's sound rewards players who prioritize power and presence over subtlety: drive the drums and they respond.\n\nFor the complete Shannon Larkin gear and career profile, see the [Shannon Larkin drummer profile](/drummer/shannon-larkin) and the [full Shannon Larkin gear breakdown](/articles/shannon-larkin-drum-setup). For hard rock drumming peers in the same commercial crossover tradition, explore [Ray Luzier's gear guide](/drummer/ray-luzier).\n\n🥁 *The final album. The Vistalite era. Twenty-one years of Godsmack drumming, closed on a historically resonant note.* 🤘"
+      "content": "*Lighting Up the Sky* (2023) closes the Godsmack studio catalog on the same ddrum Dios Series kit and maple snare Shannon Larkin has played for his entire two-decade tenure. There was no gear reinvention for the farewell record — the durable, road-tested setup that got him here is the one that closed it out, producing the same punchy, cutting drum sound that suits the album's active rock radio ambitions and its final-statement emotional weight.\n\n**The Complete Godsmack Drum Arc:**\nThe journey from *Faceless* (2003) to *Lighting Up the Sky* (2023) documents one of hard rock's most sustained and commercially significant drummer-band relationships. The gear tells a story of consistency album by album:\n\n- **[Faceless (2003)](/articles/faceless-drum-setup):** ddrum Dios Series — Larkin's first Godsmack studio album, #1 Billboard 200\n- **[IV (2006)](/articles/godsmack-iv-drum-setup):** ddrum Dios Series — heavier direction, #2 Billboard 200\n- **The Oracle (2010):** ddrum Dios Series — third consecutive top-3 Billboard 200 debut, #1\n- **1000hp (2014):** ddrum Dios Series — refined touring machine\n- **[When Legends Rise (2018)](/articles/when-legends-rise-drum-setup):** ddrum Dios Series — most polished production, #1 Mainstream Rock\n- **Lighting Up the Sky (2023):** ddrum Dios Series — the farewell statement, #1 US rock radio\n\nEach album marks a phase of a career built on power, pocket, and hard rock authenticity — all delivered through the same kit. That consistency is itself the story: a drummer who found the right gear early and never needed to chase anything else.\n\n**For Drummers Studying Lighting Up the Sky:**\nStart with \"Surrender\" — Larkin's most commercially direct groove on the album, built on the ddrum Dios Series' immediate projection and the DW 9000's reliable double-kick foundation. Then work through the title track for the mid-tempo authority that characterizes Godsmack's hard rock approach at its most confident. The Dios Series' sound rewards players who prioritize power and presence over subtlety: drive the drums and they respond.\n\nFor the complete Shannon Larkin gear and career profile, see the [Shannon Larkin drummer profile](/drummer/shannon-larkin) and the [full Shannon Larkin gear breakdown](/articles/shannon-larkin-drum-setup). For hard rock drumming peers in the same commercial crossover tradition, explore [Ray Luzier's gear guide](/drummer/ray-luzier).\n\n🥁 *The final album. The same ddrum Dios Series that started it all. Twenty-one years of Godsmack drumming, closed on a consistent note.* 🤘"
     }
   }
 };

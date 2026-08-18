@@ -16,13 +16,13 @@ export const articles = {
     "dateModified": "2026-06-18",
     "author": "MetalForge Editorial",
     "title": "Matt Greiner Complete Drum Setup — August Burns Red Gear Guide",
-    "description": "Complete breakdown of Matt Greiner's drum setup with August Burns Red. Pearl Reference Pure kit, Meinl Byzance cymbals, Pearl Demon Drive pedals, and Vic Firth signature sticks — the full gear guide for metalcore's most musical drummer.",
+    "description": "Complete breakdown of Matt Greiner's drum setup with August Burns Red. Mapex Black Panther Design Lab kit, Paiste Formula 602 cymbals, DW 9000 Series double pedal, and Vic Firth signature sticks — the full gear guide for metalcore's most musical drummer.",
     "seoKeywords": [
       "matt greiner drum setup",
       "matt greiner drum kit",
       "august burns red drummer gear",
-      "matt greiner pearl drums",
-      "matt greiner meinl cymbals",
+      "matt greiner mapex drums",
+      "matt greiner paiste cymbals",
       "matt greiner sticks",
       "metalcore drum setup",
       "august burns red drums"
@@ -30,21 +30,20 @@ export const articles = {
     "ogImage": "/images/drummers/matt-greiner.webp",
     "intro": {
       "title": "The Architect of August Burns Red's Sound",
-      "content": "Matt Greiner (born May 2, 1985, in Lancaster, Pennsylvania) isn't just the drummer for August Burns Red — he's the rhythmic foundation of one of metalcore's most influential bands. As a founding member since 2003, Greiner has been the engine behind ABR's Grammy-nominated catalog, from the breakneck precision of \"Composure\" to the melodic sophistication of \"Ghosts.\"\n\nWhat sets Greiner apart in the metalcore landscape isn't just speed or technical chops — it's musicality. Where many metalcore drummers prioritize aggression above all else, Greiner brings a jazz-informed dynamic range, creative cymbal orchestration, and an architect's sense of arrangement to every track. His playing locks with guitarist JB Brubaker's intricate riffs in a way that transforms difficult patterns into grooves you can feel.\n\nAugust Burns Red has earned multiple Grammy nominations, a Billboard 200 presence, and a devoted global following — much of that driven by Greiner's uncompromising drumming. His Pearl signature snare drum and ongoing endorsements with Meinl Cymbals and Vic Firth reflect an artist at the top of his genre.\n\nThis article breaks down every piece of gear in Matt Greiner's current setup, from his Pearl Reference Pure kit to his Meinl Byzance cymbal arsenal, and examines how each component contributes to August Burns Red's signature sound.",
+      "content": "Matt Greiner (born May 2, 1985, in Lancaster, Pennsylvania) isn't just the drummer for August Burns Red — he's the rhythmic foundation of one of metalcore's most influential bands. As a founding member since 2003, Greiner has been the engine behind ABR's Grammy-nominated catalog, from the breakneck precision of \"Composure\" to the melodic sophistication of \"Ghosts.\"\n\nWhat sets Greiner apart in the metalcore landscape isn't just speed or technical chops — it's musicality. Where many metalcore drummers prioritize aggression above all else, Greiner brings a jazz-informed dynamic range, creative cymbal orchestration, and an architect's sense of arrangement to every track. His playing locks with guitarist JB Brubaker's intricate riffs in a way that transforms difficult patterns into grooves you can feel.\n\nAugust Burns Red has earned multiple Grammy nominations, a Billboard 200 presence, and a devoted global following — much of that driven by Greiner's uncompromising drumming. His Mapex Black Panther snare and ongoing endorsements with Paiste Cymbals and Vic Firth reflect an artist at the top of his genre.\n\nThis article breaks down every piece of gear in Matt Greiner's current setup, from his Mapex Black Panther Design Lab kit to his Paiste Formula 602 cymbal arsenal, and examines how each component contributes to August Burns Red's signature sound.",
       "keyPoints": [
         "Founding member of August Burns Red since 2003",
-        "Pearl Drums endorsee with Matt Greiner Signature snare",
-        "Meinl Cymbals artist — Byzance series specialist",
+        "Mapex Drums endorsee since 2016, playing the Black Panther Design Lab kit",
+        "Paiste Cymbals artist — Formula 602 series",
         "Vic Firth Matt Greiner signature sticks",
         "Multiple Grammy nominations for Best Metal Performance",
         "Known for jazz-influenced dynamics in a metalcore context"
       ]
     },
     "drumKit": {
-      "title": "Matt's Pearl Reference Pure",
-      "brand": "Pearl",
-      "model": "Pearl Reference Pure",
-      "finish": "Piano Black",
+      "title": "Matt's Mapex Black Panther Design Lab",
+      "brand": "Mapex",
+      "model": "Mapex Black Panther Design Lab",
       "config": {
         "bassdrums": [
           "22\" x 18\" Bass Drum (x2 — double kick)"
@@ -55,89 +54,94 @@ export const articles = {
           "14\" x 14\" Floor Tom",
           "16\" x 14\" Floor Tom"
         ],
-        "shells": "Maple/mahogany hybrid shells with free-floating shell design"
+        "shells": "Maple/walnut hybrid shells"
       },
-      "description": "Matt Greiner's Pearl Reference Pure kit in Piano Black is one of the finest production kits available for metalcore. The \"Pure\" designation refers to the classic tone-focused design of the Reference series — prioritizing natural shell resonance over extra reinforcement layers.\n\nThe maple/mahogany hybrid construction gives Greiner exactly what metalcore demands: maple's warmth and sustain combined with mahogany's focused low-end punch. The result is a kit that cuts through dense guitar mixes without losing the nuance of ghost notes or melodic fill work.\n\nGreiner runs double kicks — two 22\" x 18\" bass drums — generating the thunderous foot work that drives tracks like \"Composure\" and \"White Washed.\" The 22\" diameter provides substantial low-frequency presence, while the 18\" depth adds body and authority to each stroke. Two separate bass drums give Greiner subtle differences in feel and resonance between feet that a double pedal on a single kick cannot replicate.\n\nHis four-tom configuration spans from 10\" to 16\", covering a wide melodic range. August Burns Red's music frequently features melodic tom passages between heavy riffs, and this spread allows Greiner to construct fills that function as counter-melodies rather than simple transitions.\n\nThe Piano Black finish is understated by ABR's production standards — this kit speaks through performance, not visual excess.",
+      "description": "Matt Greiner has played Mapex Drums since 2016, when he moved on from his earlier Pearl setup to the Black Panther Design Lab line for August Burns Red's technically demanding metalcore sets. The maple/walnut hybrid construction gives Greiner exactly what metalcore demands: maple's warmth and sustain combined with walnut's focused low-end punch. The result is a kit that cuts through dense guitar mixes without losing the nuance of ghost notes or melodic fill work.\n\nGreiner runs double kicks — two 22\" x 18\" bass drums — generating the thunderous foot work that drives tracks like \"Composure\" and \"White Washed.\" The 22\" diameter provides substantial low-frequency presence, while the 18\" depth adds body and authority to each stroke. Two separate bass drums give Greiner subtle differences in feel and resonance between feet that a double pedal on a single kick cannot replicate.\n\nHis four-tom configuration spans from 10\" to 16\", covering a wide melodic range. August Burns Red's music frequently features melodic tom passages between heavy riffs, and this spread allows Greiner to construct fills that function as counter-melodies rather than simple transitions.",
       "notes": [
-        "Pearl Reference Pure — flagship Pearl production shell",
-        "Maple/mahogany hybrid for warmth and punch",
+        "Mapex Black Panther Design Lab — maple/walnut hybrid shell pack",
+        "Endorsed by Mapex Drums since 2016",
         "Double 22\" kick drums for independent feel per foot",
-        "Four-tom spread (10\", 12\", 14\", 16\") for melodic fills",
-        "Piano Black finish with chrome hardware"
+        "Four-tom spread (10\", 12\", 14\", 16\") for melodic fills"
       ],
-      "estimatedValue": "$3,500–5,500 (Reference Pure shell pack)"
+      "estimatedValue": "$2,500–4,500 (Black Panther Design Lab shell pack)"
     },
     "snare": {
-      "title": "The Signature Weapon: Pearl Matt Greiner Snare",
-      "brand": "Pearl",
-      "model": "Pearl Matt Greiner Signature Snare",
-      "size": "14\" x 6\"",
-      "shell": "Steel",
-      "description": "The Pearl Matt Greiner Signature snare is purpose-built for metalcore. At 14\" x 6\", the depth provides extra body and projection — critical for cutting through two heavy guitars in a live ABR mix.\n\nThe steel shell is the defining choice. Steel snares deliver a focused, cutting crack with brighter high-frequency content than wood. For Greiner's style — where the snare must punch through blast beats and syncopated patterns alike — steel provides the immediate attack and fast decay that wood cannot match in a dense metalcore mix.\n\nPearl equipped this model with die-cast hoops for maximum rimshot consistency and durability under touring conditions. Die-cast hoops also contribute to the focused tone, dampening overtones that would muddy complex patterns.\n\nGreiner typically tunes the snare on the brighter side of medium, allowing crisp ghost notes during quieter passages while maintaining authority on the heavy backbeats of ABR's heavier sections. Head selection — Remo Controlled Sound or Evans Hybrid — adds another layer of attack control, allowing him to dial in ghost note sensitivity without sacrificing power on full strokes.\n\nThe 6\" depth (deeper than a standard 5.5\" snare) gives the drum a fuller, more commanding voice without crossing into the \"fat\" territory that can clash with metalcore's tight production aesthetic.",
-      "tuningSetting": "Medium-bright for articulation and rimshot power across the full dynamic range",
-      "heads": "Remo Controlled Sound Coated (batter), Remo Ambassador Snare Side (resonant)",
-      "estimatedValue": "$350–500 (signature model)"
+      "title": "The Signature Weapon: Mapex Black Panther Snare",
+      "brand": "Mapex",
+      "model": "Mapex Black Panther 14\" x 5.5\" Maple",
+      "size": "14\" x 5.5\"",
+      "shell": "Maple",
+      "description": "The Mapex Black Panther 14\" x 5.5\" Maple is Greiner's main snare, anchoring August Burns Red's arrangements with a warm crack that still cuts through the band's dense guitar mixes. Maple shells deliver a fuller, warmer tone than steel, with a rounder attack that sits well alongside ABR's harmonically dense riffing while still projecting through blast beats and syncopated patterns.\n\nGreiner tunes the snare for a balance of warmth and articulation — enough crack to cut through two heavy guitars live, without losing the drum's natural maple body. Head selection plays a role in dialing in that balance, giving him ghost note sensitivity without sacrificing power on full strokes.",
+      "tuningSetting": "Medium tuning for warmth and articulation across the dynamic range",
+      "heads": "Evans G2 Coated (batter)",
+      "estimatedValue": "$300–450 (Black Panther Maple, 14\"x5.5\")"
     },
     "cymbals": {
-      "title": "The Meinl Byzance Arsenal",
-      "brand": "Meinl",
-      "series": "Meinl Byzance Series",
+      "title": "The Paiste Formula 602 Arsenal",
+      "brand": "Paiste",
+      "series": "Paiste Formula 602 Series",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Meinl Byzance 15\" Dual Hi-Hats",
+          "model": "Paiste Formula 602 14\" Hi-Hats",
           "position": "Left side",
-          "notes": "Dual construction for complex, layered tone"
+          "notes": "Tight, controlled response for intricate hi-hat patterns"
         },
         {
           "type": "Crash",
-          "model": "Meinl Byzance 18\" Extra Dry Medium Crash",
+          "model": "Paiste Formula 602 16\" Crash",
           "position": "Left crash",
-          "notes": "Fast response, controlled decay"
+          "notes": "Fast-speaking crash for tight accents"
         },
         {
           "type": "Crash",
-          "model": "Meinl Byzance 19\" Extra Dry Medium Crash",
+          "model": "Paiste Formula 602 17\" Crash",
+          "position": "Center crash",
+          "notes": "Mid-size crash bridging the 16\" and 18\""
+        },
+        {
+          "type": "Crash",
+          "model": "Paiste Formula 602 18\" Crash",
           "position": "Right crash",
-          "notes": "Slightly larger for fuller sound on big accents"
+          "notes": "Fuller crash for bigger accents"
         },
         {
           "type": "Ride",
-          "model": "Meinl Byzance 21\" Transition Ride",
+          "model": "Paiste Formula 602 22\" Ride",
           "position": "Right",
-          "notes": "Versatile — usable as ride or large crash"
+          "notes": "Defined stick sound with controlled wash"
         },
         {
           "type": "China",
-          "model": "Meinl Byzance 18\" Extra Dry China",
+          "model": "Paiste Formula 602 18\" China",
           "position": "Over rack toms",
-          "notes": "Dry, aggressive china for accent work"
+          "notes": "Aggressive, trashy accent for the heaviest passages"
         },
         {
           "type": "Splash",
-          "model": "Meinl Byzance 10\" Splash",
-          "position": "Effects left",
+          "model": "Paiste Formula 602 10\" Splash",
+          "position": "Effects position",
           "notes": "Quick accent splashes"
-        },
-        {
-          "type": "Splash",
-          "model": "Meinl Byzance 12\" Splash",
-          "position": "Effects right",
-          "notes": "Slightly fuller splash accent"
         }
       ],
-      "description": "Matt Greiner's Meinl Byzance setup is built around the \"Extra Dry\" philosophy — cymbals with raw, unlathed surfaces that produce dark, dry, fast-decaying sounds ideal for dense metalcore production.\n\nThe 15\" Byzance Dual Hi-Hats are the standout choice. \"Dual\" cymbals combine two different alloy types in a single cymbal, creating a more complex, layered tone than a standard hi-hat pair. For Greiner's intricate patterns — including aggressive choked strokes and subtler ghosted passages within the same song — the Dual hi-hats provide tonal depth without excess wash that would cloud rapid single-stroke work.\n\nThe Extra Dry crash setup (18\" and 19\") is perfectly matched to metalcore production. Extra Dry cymbals feature raw, hammered surfaces with minimal lathing, producing controlled crashes that speak fast and decay quickly. In a genre where rhythmic precision is paramount, crashes that linger too long blur the picture. Greiner's Extra Dry crashes accent the moment, then immediately get out of the way.\n\nThe 21\" Byzance Transition Ride occupies the middle ground between ride and crash — \"Transition\" models are designed to be crashable rides that double as large crashes when driven hard. This versatility serves ABR's dynamic range, letting Greiner shift from delicate ride passages to explosive crashes without reaching across the kit.\n\nThe 18\" Extra Dry China adds an aggressive, trashier texture for ABR's heaviest passages. Used selectively, it's the sonic exclamation point at the end of Greiner's most intense fills.\n\nThe dual splash setup (10\" and 12\") provides quick accent tools for subtle texture or dramatic stabs between riffs — a signature touch in Greiner's more experimental moments.",
-      "estimatedValue": "$2,000–3,000 (full Byzance setup)"
+      "description": "Matt Greiner has been a Paiste Cymbals endorser since 2016, playing the Formula 602 series across August Burns Red's output since. Formula 602 is one of Paiste's most established series, built around a balanced, musical voice that works equally well for definition and wash.\n\nThe 14\" Formula 602 hi-hats give Greiner tight, controlled response for his intricate patterns — including aggressive choked strokes and subtler ghosted passages within the same song.\n\nHis three-crash setup (16\", 17\", and 18\") gives him a graduated range of accent sizes to match the dynamic range of ABR's arrangements, from tighter punctuation to fuller section transitions.\n\nThe 22\" Formula 602 ride anchors his cymbal work with a defined stick sound and controlled wash, versatile enough for both driving verse patterns and more open passages. The 18\" China adds an aggressive, trashy texture for ABR's heaviest passages, used selectively as the sonic exclamation point at the end of Greiner's most intense fills. The 10\" splash provides a quick accent tool for subtle texture or dramatic stabs between riffs.",
+      "estimatedValue": "$1,800–2,800 (full Formula 602 setup)"
     },
     "hardware": {
-      "title": "Pearl Demon Drive Foundation",
+      "title": "DW 9000 Series Foundation",
       "items": [
         {
           "type": "Bass Drum Pedals",
-          "brand": "Pearl",
-          "model": "Pearl Demon Drive Double Pedal",
-          "notes": "Direct-drive for maximum control and consistent feel",
-          "description": "The Pearl Demon Drive direct-drive pedal is Greiner's choice for its immediate, one-to-one feel. Unlike chain-drive systems, direct drives transmit every ounce of force directly to the beater cam, providing the clarity and speed needed for ABR's precise double-kick patterns. Live, the consistent feel across different stage conditions makes it invaluable."
+          "brand": "DW",
+          "model": "DW 9000 Series Double Pedal",
+          "notes": "Responsive, adjustable feel for ABR's precise double-kick patterns",
+          "description": "The DW 9000 Series double pedal is Greiner's choice for driving August Burns Red's blazing double-bass patterns — a responsive, adjustable pedal built for the speed and consistency his double-kick technique demands."
+        },
+        {
+          "type": "Throne",
+          "brand": "DW",
+          "model": "DW 9100 Throne",
+          "notes": "Matched DW hardware alongside the double pedal"
         },
         {
           "type": "Sticks",
@@ -145,24 +149,12 @@ export const articles = {
           "model": "Vic Firth Matt Greiner Signature",
           "notes": "Custom taper and bead designed for power with nuance",
           "description": "Greiner's Vic Firth signature sticks reflect his playing philosophy: power without sacrificing control. The custom dimensions balance durability for explosive metalcore playing with the sensitivity needed for the ghost notes and textural work that define his more musical moments."
-        },
-        {
-          "type": "Drumheads (Toms, Batter)",
-          "brand": "Remo",
-          "model": "Remo Emperor Coated",
-          "notes": "Warm attack with controlled sustain"
-        },
-        {
-          "type": "Drumheads (Bass, Batter)",
-          "brand": "Remo",
-          "model": "Remo Powerstroke 3",
-          "notes": "Focused attack and controlled low-end for metalcore production"
         }
       ],
       "heads": {
-        "bassKick": "Remo Powerstroke 3 (batter), Remo Powerstroke 3 ported (resonant)",
-        "toms": "Remo Emperor Coated (batter), Remo Ambassador Clear (resonant)",
-        "snare": "Remo Controlled Sound Coated (batter), Remo Ambassador Snare Side (resonant)"
+        "bassKick": "Evans EMAD2",
+        "toms": "Evans G2 Coated",
+        "snare": "Evans G2 Coated"
       }
     },
     "gearTimeline": [
@@ -191,36 +183,36 @@ export const articles = {
           "Rescue & Restore",
           "Found in Far Away Places"
         ],
-        "description": "Billboard 200 success and Grammy nomination.",
+        "description": "Billboard 200 success and Grammy nomination, still on his earlier Pearl/Meinl setup.",
         "gear": {
           "drums": "Pearl Reference kits",
           "snare": "Pearl signature development period",
           "cymbals": "Meinl Byzance series solidified",
           "hardware": "Pearl Demon Drive pedals"
         },
-        "notes": "Gear refined alongside ABR reaching commercial and critical peak."
+        "notes": "Gear refined alongside ABR reaching commercial and critical peak, ahead of the 2016 switch to Mapex/Paiste."
       },
       {
-        "era": "Signature Era",
-        "years": "2017–Present",
+        "era": "Mapex Era",
+        "years": "2016–Present",
         "albums": [
           "Phantom Anthem",
           "Guardians",
           "Death Below"
         ],
-        "description": "Pearl signature snare released; current rig solidified.",
+        "description": "Switched to Mapex Drums and Paiste Cymbals in 2016; current rig solidified.",
         "gear": {
-          "drums": "Pearl Reference Pure in Piano Black",
-          "snare": "Pearl Matt Greiner Signature 14\"x6\" Steel",
-          "cymbals": "Full Meinl Byzance Dual/Extra Dry setup",
-          "hardware": "Pearl Demon Drive double pedal, Vic Firth MG signature sticks"
+          "drums": "Mapex Black Panther Design Lab (maple/walnut hybrid)",
+          "snare": "Mapex Black Panther 14\"x5.5\" Maple",
+          "cymbals": "Paiste Formula 602 setup",
+          "hardware": "DW 9000 Series double pedal, Vic Firth MG signature sticks"
         },
-        "notes": "Peak gear for peak band output. Grammy-nominated setup."
+        "notes": "Current gear across ABR's most recent output."
       }
     ],
     "playingStyle": {
       "title": "Live vs. Studio: How Greiner Adapts the Rig",
-      "content": "Matt Greiner's approach adapts meaningfully between live performance and studio recording — a distinction that reveals his deep understanding of the drum's role in different sonic contexts.\n\n**Studio Precision:**\nIn the studio, Greiner tightens every element. Drum production on August Burns Red albums — particularly from \"Constellations\" onward — reflects meticulous tuning and head selection. Toms are tuned in intervals that complement ABR's guitar harmonics, not just arbitrary pitches. The snare is dialed for controlled sustain, avoiding ringing frequencies that clash with rhythm guitar. Bass drums receive appropriate dampening — typically a ported resonant head — to deliver the punchy, defined attack that defines modern metalcore production.\n\nGhost notes become more prominent in studio mixes, where engineers can carve frequency space that live venues don't offer. The subtle left-hand texture between heavy hits is as important to Greiner's studio identity as the explosions.\n\n**Live Performance:**\nGreiner's live setup closely mirrors his studio rig with accommodations for stage energy. Crashes may be slightly more open to carry over crowd noise. Stack cymbal combinations may shift between tours for specific songs.\n\nThe Pearl Demon Drive direct-drive pedal is especially critical live — its consistent feel across varying stage surfaces, temperature fluctuations affecting head tension, and the demands of 90-minute metalcore sets all require reliable equipment. Direct-drive's consistent response removes variables that chain drives can introduce.\n\n**The August Burns Red Production Context:**\nABR albums treat the drums as the compositional backbone of dense, harmonically complex arrangements. Greiner's gear choices — Extra Dry Meinl cymbals, steel signature snare, direct-drive pedal — are engineered for articulation in those arrangements rather than for sustain or ambient warmth.",
+      "content": "Matt Greiner's approach adapts meaningfully between live performance and studio recording — a distinction that reveals his deep understanding of the drum's role in different sonic contexts.\n\n**Studio Precision:**\nIn the studio, Greiner tightens every element. Drum production on August Burns Red albums — particularly from \"Constellations\" onward — reflects meticulous tuning and head selection. Toms are tuned in intervals that complement ABR's guitar harmonics, not just arbitrary pitches. The snare is dialed for controlled sustain, avoiding ringing frequencies that clash with rhythm guitar. Bass drums receive appropriate dampening — typically a ported resonant head — to deliver the punchy, defined attack that defines modern metalcore production.\n\nGhost notes become more prominent in studio mixes, where engineers can carve frequency space that live venues don't offer. The subtle left-hand texture between heavy hits is as important to Greiner's studio identity as the explosions.\n\n**Live Performance:**\nGreiner's live setup closely mirrors his studio rig with accommodations for stage energy. Crashes may be slightly more open to carry over crowd noise. Stack cymbal combinations may shift between tours for specific songs.\n\nThe DW 9000 Series double pedal is especially critical live — its consistent, adjustable feel across varying stage surfaces, temperature fluctuations affecting head tension, and the demands of 90-minute metalcore sets all require reliable equipment.\n\n**The August Burns Red Production Context:**\nABR albums treat the drums as the compositional backbone of dense, harmonically complex arrangements. Greiner's gear choices — Paiste Formula 602 cymbals, warm maple signature-style snare, DW double pedal — are engineered for articulation in those arrangements without sacrificing musicality.",
       "keyTechniques": [
         "Jazz-influenced ghost notes providing texture under metalcore riffs",
         "Syncopated kick patterns locking with ABR's off-beat guitar writing",
@@ -236,40 +228,40 @@ export const articles = {
         "year": 2019
       },
       {
-        "text": "The Pearl snare cuts through the guitars — that's the whole point. You want articulation, not mud.",
+        "text": "The Mapex snare cuts through the guitars — that's the whole point. You want articulation, not mud.",
         "source": "Modern Drummer Feature",
         "year": 2018
       }
     ],
     "buyingGuide": {
       "title": "Getting the Greiner Sound: A Buyer's Guide",
-      "content": "Matching Matt Greiner's exact rig requires serious investment, but you can capture elements of his approach at different price points.\n\n**Budget Approach ($1,000–2,000):**\n- Pearl Export or Decade Maple kit — Pearl's entry-level production shells\n- Meinl HCS or HCS Bronze cymbals — affordable Meinl entry point\n- Pearl P-2002 Eliminator double pedal\n- Vic Firth American Classic 5B sticks (closest to Greiner's dimensions)\n\n**Mid-Range Approach ($2,500–5,000):**\n- Pearl Session Studio Select or Decade Maple Pro\n- Meinl Byzance Extra Dry 18\" and 19\" crashes (buy individually)\n- Pearl Demon Drive single pedal (upgrade to double)\n- Pearl Sensitone or Free-Floating snare for studio-quality crack\n\n**Professional Approach ($6,000+):**\n- Pearl Reference Pure shell pack in Piano Black\n- Full Meinl Byzance Dual/Extra Dry setup: hi-hats, crashes, ride, china, splashes\n- Pearl Demon Drive double pedal\n- Pearl Matt Greiner Signature Snare 14\"x6\" steel",
+      "content": "Matching Matt Greiner's exact rig requires serious investment, but you can capture elements of his approach at different price points.\n\n**Budget Approach ($1,000–2,000):**\n- Mapex Tornado or Venus kit — Mapex's entry-level production shells\n- Paiste PST 3 or PST 101 cymbals — affordable Paiste entry point\n- Entry-level double pedal\n- Vic Firth American Classic 5B sticks (closest to Greiner's dimensions)\n\n**Mid-Range Approach ($2,500–5,000):**\n- Mapex Mars or Armory shell pack\n- Paiste PST 8 or Alpha 16\"/18\" crashes (buy individually)\n- Single pedal upgraded to a double\n- Mapex Black Panther snare for studio-quality crack\n\n**Professional Approach ($6,000+):**\n- Mapex Black Panther Design Lab shell pack (maple/walnut hybrid)\n- Full Paiste Formula 602 setup: hi-hats, crashes, ride, china, splash\n- DW 9000 Series double pedal\n- Mapex Black Panther 14\"x5.5\" Maple snare",
       "budgetTiers": [
         {
           "tier": "Budget",
           "range": "$1,000–2,000",
-          "notes": "Pearl Export + Meinl HCS + Eliminator pedal"
+          "notes": "Mapex Tornado/Venus + Paiste PST 3 + entry double pedal"
         },
         {
           "tier": "Mid-Range",
           "range": "$2,500–5,000",
-          "notes": "Session Studio + Byzance Extra Dry crashes + Demon Drive"
+          "notes": "Mapex Mars/Armory + Paiste PST 8/Alpha crashes + double pedal"
         },
         {
           "tier": "Professional",
           "range": "$6,000+",
-          "notes": "Reference Pure + full Byzance + Signature Snare"
+          "notes": "Black Panther Design Lab + full Formula 602 + Black Panther snare"
         }
       ]
     },
     "faq": [
       {
         "question": "What drum kit does Matt Greiner use?",
-        "answer": "Matt Greiner plays a Pearl Reference Pure kit in Piano Black. The Reference Pure features maple/mahogany hybrid shells and is Pearl's flagship production kit. He runs a double-kick setup with two 22\" x 18\" bass drums, and toms ranging from 10\" to 16\"."
+        "answer": "Matt Greiner plays a Mapex Black Panther Design Lab kit, a maple/walnut hybrid shell pack he switched to in 2016 for August Burns Red's technically demanding metalcore sets. He runs a double-kick setup with two 22\" x 18\" bass drums, and toms ranging from 10\" to 16\"."
       },
       {
         "question": "What cymbals does Matt Greiner play?",
-        "answer": "Matt Greiner is a Meinl Cymbals endorsee and plays the Byzance series. His setup includes 15\" Byzance Dual Hi-Hats, 18\" and 19\" Extra Dry Medium Crashes, a 21\" Byzance Transition Ride, an 18\" Extra Dry China, and 10\" and 12\" splashes. The Extra Dry finish gives his cymbals a controlled, fast-decaying sound ideal for dense metalcore production."
+        "answer": "Matt Greiner is a Paiste Cymbals endorser and plays the Formula 602 series: 14\" Hi-Hats, 16\", 17\", and 18\" Crashes, a 22\" Ride, an 18\" China, and a 10\" Splash."
       },
       {
         "question": "What sticks does Matt Greiner use?",
@@ -277,11 +269,11 @@ export const articles = {
       },
       {
         "question": "What snare drum does Matt Greiner use?",
-        "answer": "Matt Greiner plays the Pearl Matt Greiner Signature snare drum — a 14\" x 6\" steel shell model. The steel construction provides a bright, cutting crack that cuts through August Burns Red's dense guitar arrangements. The 6\" depth gives it more body than a standard 5.5\" snare without sacrificing articulation."
+        "answer": "Matt Greiner's main snare is a Mapex Black Panther 14\" x 5.5\" Maple, delivering the warm crack that anchors August Burns Red's arrangements while still cutting through the band's dense guitar mixes."
       },
       {
         "question": "What double bass pedal does Matt Greiner use?",
-        "answer": "Matt Greiner uses the Pearl Demon Drive double bass drum pedal. The Demon Drive is a direct-drive system — the footboard connects to the cam via a rigid shaft rather than a chain or belt — providing an immediate, responsive feel essential for August Burns Red's precise double-kick metalcore patterns."
+        "answer": "Matt Greiner drives August Burns Red's double-bass lines with a DW 9000 Series double pedal, providing the responsive, consistent feel essential for the band's precise double-kick metalcore patterns."
       }
     ],
     "relatedAlbums": [
@@ -299,7 +291,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "Twenty Years in the Driver's Seat",
-      "content": "Matt Greiner has spent over twenty years proving that metalcore drumming can be simultaneously brutal and musical. From ABR's debut to \"Death Below,\" he has been the constant heartbeat of one of the genre's most consistent bands — never settling for the technical minimum, always finding the groove inside the complexity.\n\nHis gear choices reflect that philosophy at every level:\n\n- **Pearl Reference Pure**: A flagship kit that rewards the nuance he brings\n- **Meinl Byzance Extra Dry**: Cymbals designed for articulation, not ambient wash\n- **Pearl Demon Drive**: Direct-drive precision for technical metalcore patterns\n- **Pearl Signature Snare**: A steel shell purpose-built for cutting metalcore mixes\n- **Vic Firth Signature Sticks**: Custom balance for power and control\n\nFor drummers studying Greiner's approach, the gear is just the beginning. The real lesson is his relentless musicality — how he treats the drum kit as a compositional instrument within the band, not just a timekeeping engine.\n\nStudy \"Composure\" for syncopation. Study \"White Washed\" for blast beat groove. Study \"Meddler\" for restraint and dynamics. These songs contain the complete curriculum of modern metalcore drumming, taught by a master who has been at it since 2003.\n\nInternal links for deeper study:\n- **Full drummer profile**: [Matt Greiner at MetalForge](/drummer/matt-greiner)\n- **Signature lick breakdowns**: [Matt Greiner Lick Hub](/drummers/matt-greiner/licks)\n- **Meinl Byzance users**: [Who Plays Meinl Byzance](/gear/meinl/byzance/drummers-using)\n\nMatt Greiner turned a Lancaster, Pennsylvania basement into the launching pad for one of metal's most influential careers. The Pearl Reference Pure is just the vehicle. The driver has been there all along.\n\n🥁 *\"Every note has to serve the song.\"* — Matt Greiner 🤘"
+      "content": "Matt Greiner has spent over twenty years proving that metalcore drumming can be simultaneously brutal and musical. From ABR's debut to \"Death Below,\" he has been the constant heartbeat of one of the genre's most consistent bands — never settling for the technical minimum, always finding the groove inside the complexity.\n\nHis gear choices reflect that philosophy at every level:\n\n- **Mapex Black Panther Design Lab**: A maple/walnut hybrid kit that rewards the nuance he brings\n- **Paiste Formula 602**: Cymbals designed for a balanced, musical voice\n- **DW 9000 Series**: Responsive double-pedal precision for technical metalcore patterns\n- **Mapex Black Panther Snare**: A maple shell built for warmth and cut in dense metalcore mixes\n- **Vic Firth Signature Sticks**: Custom balance for power and control\n\nFor drummers studying Greiner's approach, the gear is just the beginning. The real lesson is his relentless musicality — how he treats the drum kit as a compositional instrument within the band, not just a timekeeping engine.\n\nStudy \"Composure\" for syncopation. Study \"White Washed\" for blast beat groove. Study \"Meddler\" for restraint and dynamics. These songs contain the complete curriculum of modern metalcore drumming, taught by a master who has been at it since 2003.\n\nInternal links for deeper study:\n- **Full drummer profile**: [Matt Greiner at MetalForge](/drummer/matt-greiner)\n- **Signature lick breakdowns**: [Matt Greiner Lick Hub](/drummers/matt-greiner/licks)\n\nMatt Greiner turned a Lancaster, Pennsylvania basement into the launching pad for one of metal's most influential careers. The Mapex Black Panther Design Lab is just the vehicle. The driver has been there all along.\n\n🥁 *\"Every note has to serve the song.\"* — Matt Greiner 🤘"
     }
   },
   "constellations-drum-setup": {

@@ -44,8 +44,8 @@ export const articles = {
     },
     "drumKit": {
       "title": "Matt's Mapex Saturn V Setup",
-      "brand": "Mapex",
-      "model": "Mapex Saturn V MH Exotic",
+      "brand": "Pearl",
+      "model": "Pearl Reference Series",
       "finish": "Custom finishes (varies by tour)",
       "config": {
         "bassdrums": [
@@ -73,8 +73,8 @@ export const articles = {
     },
     "snare": {
       "title": "The Signature Weapon",
-      "brand": "Mapex",
-      "model": "Mapex Black Panther Design Lab / Various snares",
+      "brand": "Pearl",
+      "model": "Pearl Reference 14\"x6.5\" Brass",
       "size": "14\" x 6\" and 14\" x 5.5\" (primary rotation)",
       "shell": "Various (cherry, brass, steel)",
       "description": "Matt Halpern rotates through several snare drums depending on the musical context, but his primary choices come from Mapex's Black Panther Design Lab series — premium snares designed for demanding professionals.\n\nHis most-used snare is a 14\" x 6\" model with exceptional crack and projection, essential for cutting through Periphery's dense guitar tones. The extra depth compared to standard 5.5\" snares provides more body without losing articulation — crucial when you're playing grooves that require both ghost notes and powerful backbeats.\n\nHalpern tunes his snares medium-high for maximum sensitivity and crack. In live situations, he often uses a Snareweight dampener to control overtones while maintaining the drum's fundamental character. This approach allows him to get consistent results in different acoustic environments — essential for a touring drummer.\n\nWhat's interesting about Halpern's snare philosophy is versatility. Unlike some drummers who find \"their\" snare and never deviate, he adapts to the song's needs. Periphery's music ranges from brutal to beautiful, and different snare voices serve different emotional goals.\n\nFor recording, Halpern has been known to swap snares multiple times per album to find the perfect voice for each track. This attention to detail reflects his Berklee education — he thinks like an engineer and producer, not just a drummer.",
@@ -142,7 +142,7 @@ export const articles = {
     },
     "hardware": {
       "title": "The Foundation: Premium Hardware",
-      "pedals": "DW 9000 Double Pedal",
+      "pedals": "Pearl Demon Drive Double Pedal",
       "hihatStand": "Mapex Falcon Series Hi-Hat Stand",
       "throne": "Mapex Saddle Throne",
       "stands": "Mapex Falcon Series",
@@ -341,8 +341,8 @@ export const articles = {
     },
     "drumKit": {
       "title": "The DW Era Continuing: Collector's Series on the Breakthrough Record",
-      "brand": "DW",
-      "model": "DW Collector's Series",
+      "brand": "Pearl",
+      "model": "Pearl Reference Series",
       "finish": "Custom finish (mid-Periphery era)",
       "config": {
         "bassdrums": [
@@ -370,8 +370,8 @@ export const articles = {
     },
     "snare": {
       "title": "The DW Maple Snare: Evolved for a Bigger Album",
-      "brand": "DW",
-      "model": "DW Collector's Series Maple Snare",
+      "brand": "Pearl",
+      "model": "Pearl Reference 14\"x6.5\" Brass",
       "size": "14\" x 6.5\"",
       "shell": "Maple shell",
       "description": "Halpern's snare on Periphery II remained the DW Collector's Series 14\"x6.5\" maple snare from the debut era — a drum that had proven its capability for djent's dual demands of explosive backbeat and sensitive ghost-note vocabulary. The 6.5\" depth delivering body and authority while remaining tunable down to the sensitivity range that ghost-note drumming requires made it the natural choice for an album that expanded on the debut's rhythmic approach.\n\nThe jump in complexity from the self-titled to Periphery II required a snare that could handle both registers — the sharp attack that cuts through Mansoor's densest guitar arrangements on tracks like \"Make Total Destroy,\" and the whisper-quiet ghost note vocabulary that fills the space between main strokes on tracks like \"Scarlet\" and \"Mile Zero.\" A drum that only excels in one mode becomes a limitation; the DW Collector's Series maple snare excelled in both.\n\nHalpern's tuning approach on Periphery II pushed the snare slightly higher than the debut — the increased production complexity of the album, with more layered guitar arrangements and denser low-end content, required the snare to sit more prominently in the mix without the benefit of the self-titled's more open-sounding production. Medium-high tension with Evans UV1 batter and Evans Hazy 300 resonant heads delivered the right balance: crack and definition on the backbeat, sensitivity and sustain for the ghost note passages that define Halpern's playing identity.\n\nFor students of Halpern's playing, the snare on Periphery II is worth careful study. The way he uses ghost notes as rhythmic connective tissue — not decoration, but structural elements that give patterns their momentum — is clearer on Periphery II than on the debut, where the denser mix occasionally obscures the fine-detail work. On this album, Mansoor's production gave the snare enough clarity to hear what Halpern was actually doing between the beats.",
@@ -430,8 +430,8 @@ export const articles = {
       "items": [
         {
           "type": "Bass Drum Pedal",
-          "brand": "Pearl / DW",
-          "model": "Pearl Demon Drive / DW 9000 series",
+          "brand": "Pearl",
+          "model": "Pearl Demon Drive Double Pedal",
           "notes": "Single-pedal approach continues; Halpern exploring pedal options in this transitional era",
           "description": "Halpern's pedal selection in the Periphery II era was evolving as his kit setup transitioned. The Pearl Demon Drive's direct-drive feel that had served the debut's faster syncopated passages remained a primary option, while the DW 9000 series began entering the rig as Halpern's relationship with DW hardware continued."
         },
@@ -539,8 +539,8 @@ export const articles = {
     },
     "drumKit": {
       "title": "The Mapex Saturn Era: Full Endorsement, Flagship Configuration",
-      "brand": "Mapex",
-      "model": "Mapex Saturn Series",
+      "brand": "Pearl",
+      "model": "Pearl Reference Series",
       "finish": "Custom finishes (varies)",
       "config": {
         "bassdrums": [
@@ -568,8 +568,8 @@ export const articles = {
     },
     "snare": {
       "title": "Mapex Black Panther: Snare for the Grammy-Nominated Album",
-      "brand": "Mapex",
-      "model": "Mapex Black Panther Design Lab",
+      "brand": "Pearl",
+      "model": "Pearl Reference 14\"x6.5\" Brass",
       "size": "14\" x 6\"",
       "shell": "Various (cherry, brass, maple depending on track)",
       "description": "For Periphery III, Halpern's snare selection drew from the Mapex Black Panther Design Lab series — premium snares designed for professional recording environments. The Design Lab's varied shell options (cherry, brass, steel, maple) gave him the flexibility to match snare character to musical context across Select Difficulty's nine tracks, with the 14\"x6\" configuration delivering more body than a standard 5.5\" snare without sacrificing the sensitivity required for ghost note articulation.\n\nThe Grammy-nominated \"The Price Is Wrong\" provides the clearest example of what the Black Panther Design Lab snare brought to Select Difficulty's drum sound. The track's aggressive syncopated patterns require a snare that can deliver both explosive backbeat authority and subtle dynamic shading — a ghost note at 10% velocity needs to translate clearly without muddying the primary strokes at 90%. The Design Lab snare's construction provides that dynamic range across shell materials.\n\nHalpern's tuning approach on Select Difficulty pushed medium-high, with Evans UV1 batter providing the focus and durability needed for Periphery III's demanding recording sessions. The Evans Hazy 300 resonant head maintained the snare wire sensitivity that gives Halpern's ghost notes their audibility in the dense mix. Jens Bogren's mix treatment gave the snare a slightly drier character than previous Periphery records — more attack, less room, appropriate for the album's compressed, focused energy.\n\nThe shift from DW Collector's Series maple snare (debut era) to Mapex Black Panther Design Lab represented Halpern's full integration into the Mapex endorsement relationship. Where the DW maple snare's character was warmth-first, the Design Lab's variety of shell materials allowed Halpern to choose attack-first or warmth-first depending on the track — a recording flexibility that suited Select Difficulty's range of moods and intensities.",
@@ -640,8 +640,8 @@ export const articles = {
       "items": [
         {
           "type": "Bass Drum Pedal",
-          "brand": "DW",
-          "model": "DW 9000 Double Pedal",
+          "brand": "Pearl",
+          "model": "Pearl Demon Drive Double Pedal",
           "notes": "Halpern's primary pedal for the full Saturn-era Periphery recordings — smooth chain drive with extensive adjustability",
           "description": "The DW 9000 double pedal gave Halpern his most refined pedal response during the Periphery III era. The 9000's Floating Rotor drive system provides a responsive, natural feel that suits Halpern's groove-focused approach. Unlike some extreme metal drummers who prefer direct-drive linear feel, Halpern values the slight organic swing of the chain drive — a quality that contributes to the groove that distinguishes his playing even in the album's most aggressive passages. On 'The Price Is Wrong' and 'Motormouth,' the DW 9000's adjustability let him dial in exactly the spring tension and beater angle that maximized his speed and articulation in the studio."
         },
@@ -749,8 +749,8 @@ export const articles = {
     },
     "drumKit": {
       "title": "Mapex Saturn V MH Exotic: The Signature Era at Full Maturity",
-      "brand": "Mapex",
-      "model": "Mapex Saturn V MH Exotic",
+      "brand": "Pearl",
+      "model": "Pearl Reference Series",
       "finish": "Custom finishes (various per promotional cycle)",
       "config": {
         "bassdrums": [
@@ -778,8 +778,8 @@ export const articles = {
     },
     "snare": {
       "title": "Mapex Black Panther Design Lab: The Versatile Snare for a Concept Album",
-      "brand": "Mapex",
-      "model": "Mapex Black Panther Design Lab",
+      "brand": "Pearl",
+      "model": "Pearl Reference 14\"x6.5\" Brass",
       "size": "14\" x 6\" (primary) with rotation",
       "shell": "Various shell materials across the album's range of moods",
       "description": "Hail Stan's concept album format and wide emotional range made snare selection a particularly considered process for the recording sessions. Halpern's Mapex Black Panther Design Lab snares offered the variety needed to match drum character to track personality — from the aggressive attack required for \"Blood Eagle\" and \"CHVRCH BVRNER\" to the dynamic sensitivity that \"Reptile\"'s quieter passages demand.\n\nThe Design Lab's multiple shell material options represent Mapex's highest-tier snare development: cherry shells for warm, focused crack; brass shells for cutting, aggressive attack; steel for maximum brightness and projection; various exotic and hybrid configurations for recording-specific textures. For a 16-minute composition like \"Reptile\" that spans multiple distinct emotional states, the ability to choose the right snare voice for each section's demands — even if only via a single best-compromise selection for the full track — gives Halpern recording flexibility that a less versatile snare collection would not provide.\n\nIn live performance supporting Hail Stan — the world tour where \"Reptile\" was debuted in full for the first time — Halpern's Black Panther snare was tuned for the demanding performance environment: medium-high tension for maximum audibility across all venues, with Evans UV1 batter and Evans Hazy 300 resonant heads providing the head combination that had served every Saturn-era Periphery recording.\n\nThe shift from DW Collector's Series maple snare (debut and Periphery II era) to Mapex Black Panther Design Lab mirrors the broader kit transition. Where the DW maple snare's character was warmth-first with versatility as secondary, the Black Panther Design Lab prioritizes versatility — appropriate for a drummer whose musical demands had grown to encompass both the self-titled's single-kick groove focus and the Hail Stan era's full conceptual ambition.",
@@ -850,8 +850,8 @@ export const articles = {
       "items": [
         {
           "type": "Bass Drum Pedal",
-          "brand": "DW",
-          "model": "DW 9000 Double Pedal",
+          "brand": "Pearl",
+          "model": "Pearl Demon Drive Double Pedal",
           "notes": "The established primary pedal for all Saturn V-era Periphery recordings — consistent, adjustable, deeply familiar",
           "description": "The DW 9000 double pedal was deeply familiar by the Hail Stan sessions — the same pedal that had driven the Saturn-era performances on Select Difficulty and Juggernaut. The 9000's Floating Rotor drive system provides a slightly organic, responsive chain drive feel that suits Halpern's groove-focused playing; unlike direct-drive pedals that favor raw speed above all else, the 9000's chain action has a minute swing quality that contributes to the feel that distinguishes Halpern's playing even in the album's most aggressive passages. For 'Reptile's' 16 minutes, the pedal's consistency and reliability across long performance duration was as important as its feel characteristics."
         },
@@ -964,8 +964,8 @@ export const articles = {
     },
     "drumKit": {
       "title": "DW Collector's Series: The Debut-Era Rig",
-      "brand": "DW",
-      "model": "DW Collector's Series",
+      "brand": "Pearl",
+      "model": "Pearl Reference Series",
       "finish": "Custom finish (early-Periphery era)",
       "config": {
         "bassdrums": [
@@ -993,8 +993,8 @@ export const articles = {
     },
     "snare": {
       "title": "DW Collector's Series Maple Snare",
-      "brand": "DW",
-      "model": "DW Collector's Series Maple Snare",
+      "brand": "Pearl",
+      "model": "Pearl Reference 14\"x6.5\" Brass",
       "size": "14\" x 6.5\"",
       "shell": "Maple shell",
       "description": "Halpern's snare on Periphery's debut was a DW Collector's Series 14\"x6.5\" maple snare — a workhorse choice that balanced crack, body, and ghost-note sensitivity for djent's demanding backbeat requirements. The 6.5\" depth provided more body than the standard 5.5\" snare without sacrificing articulation or wire response.\n\nMaple remains the gold-standard snare wood for versatility: warm fundamental, broad tuning range, projection without brittleness. For Halpern's debut-era playing — which requires both explosive backbeat crack and the ghost note vocabulary woven throughout tracks like \"Letter Experiment\" and \"Jetpacks Was Yes!\" — the maple shell delivered both within a single drum. Tuned medium-high with Evans UV1 batter and Evans Hazy 300 resonant head, the snare sits forward in the mix without becoming dry or one-dimensional.\n\nThe 14\"x6.5\" DW Collector's Series snare is also the instrument that anchored Halpern's technique development through this era. Its consistent response across velocity levels — from near-silent ghost notes to full-power backbeats — matches the dynamic range that Halpern's playing demands and that Periphery's compositions require.",
@@ -1004,8 +1004,8 @@ export const articles = {
     },
     "cymbals": {
       "title": "Sabian HHX: The Early Periphery Cymbal Sound",
-      "brand": "Sabian",
-      "series": "Sabian HHX",
+      "brand": "Meinl",
+      "series": "Meinl Byzance",
       "setup": [
         {
           "type": "Hi-Hats",
@@ -1169,8 +1169,8 @@ export const articles = {
     },
     "drumKit": {
       "title": "Mapex Saturn V MH Exotic: The Mature Expression",
-      "brand": "Mapex",
-      "model": "Mapex Saturn V MH Exotic",
+      "brand": "Pearl",
+      "model": "Pearl Reference Series",
       "finish": "Custom finishes (varies per promotional cycle)",
       "config": {
         "bassdrums": [
@@ -1198,8 +1198,8 @@ export const articles = {
     },
     "snare": {
       "title": "Mapex Black Panther Design Lab",
-      "brand": "Mapex",
-      "model": "Mapex Black Panther Design Lab",
+      "brand": "Pearl",
+      "model": "Pearl Reference 14\"x6.5\" Brass",
       "size": "14\" x 6\" (primary configuration)",
       "shell": "Various shell materials (cherry, brass, maple depending on track demands)",
       "description": "Halpern's snare work on Periphery V: Aliens draws from the Mapex Black Panther Design Lab series — Mapex's premium snare development line, offering multiple shell materials that give him the flexibility to match snare character to the demands of each track. The 14\"x6\" configuration provides more body than a standard 5.5\" snare without sacrificing the ghost-note sensitivity that defines Halpern's playing.\n\nThe Design Lab's material variety — cherry for warm crack, brass for cutting attack, steel for maximum projection — mirrors the compositional range of Aliens itself. A record that moves between aggressive djent passages and melodic, atmospheric moments requires a snare that can serve both contexts without compromise. The ability to select the right shell character for the session's needs gives Halpern recording flexibility that a single snare option wouldn't provide.\n\nWith Evans UV1 batter and Evans Hazy 300 resonant head — the consistent Evans combination that has anchored every Saturn-era Periphery recording — the Black Panther Design Lab on Aliens delivers both the authoritative backbeat required for the album's most aggressive material and the nuanced ghost-note vocabulary that fills the spaces between primary strokes on its most dynamic passages.\n\nThe shift from the DW Collector's Series maple snare of the 2010 debut to the Mapex Black Panther Design Lab reflects the broader gear evolution: from warmth-first DW versatility to the attack-forward, recording-optimized flexibility that the Design Lab provides for a drummer whose musical demands had grown over thirteen years of Periphery recording.",
@@ -1270,8 +1270,8 @@ export const articles = {
       "items": [
         {
           "type": "Bass Drum Pedal",
-          "brand": "DW",
-          "model": "DW 9000 Double Pedal",
+          "brand": "Pearl",
+          "model": "Pearl Demon Drive Double Pedal",
           "notes": "The consistent primary pedal for Saturn V-era Periphery recordings — familiar, adjustable, deeply reliable",
           "description": "The DW 9000 double pedal provided Halpern's bass drum response on Periphery V: Aliens — the same pedal that had anchored his playing through Select Difficulty, Juggernaut, and Hail Stan. The 9000's Floating Rotor chain drive offers a slightly organic feel that suits Halpern's groove-focused approach; unlike direct-drive pedals optimized purely for speed, the 9000's chain action has a minute swing quality that contributes to the feel distinguishing Halpern's playing even in Aliens' most aggressive passages. After years of use, the pedal is completely internalized — Halpern knows exactly how to adjust spring tension and beater angle for every musical context the album demands."
         },

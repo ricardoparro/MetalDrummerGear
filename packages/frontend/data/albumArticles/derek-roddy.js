@@ -689,7 +689,7 @@ export const articles = {
     "dateModified": "2026-06-19",
     "author": "MetalForge Editorial",
     "title": "Derek Roddy Drum Setup — Hate Eternal & King of All Kings Gear Guide",
-    "description": "Derek Roddy's Tama Starclassic kit, Paiste cymbals, and gravity blast technique — the rig behind Hate Eternal's King of All Kings (2002). Complete breakdown of one of death metal's most technically precise drummers.",
+    "description": "Derek Roddy's Tama Starclassic kit, Meinl cymbals, and gravity blast technique — the rig behind Hate Eternal's King of All Kings (2002). Complete breakdown of one of death metal's most technically precise drummers.",
     "seoKeywords": [
       "derek roddy drum setup",
       "hate eternal drummer",
@@ -697,7 +697,7 @@ export const articles = {
       "gravity blast drums",
       "derek roddy kit",
       "derek roddy tama",
-      "derek roddy paiste",
+      "derek roddy meinl",
       "hate eternal king of all kings drums",
       "gravity blast technique",
       "derek roddy double bass"
@@ -705,7 +705,7 @@ export const articles = {
     "ogImage": "/images/drummers/derek-roddy.webp",
     "quickFacts": {
       "kit": "Tama Starclassic Maple",
-      "cymbals": "Paiste",
+      "cymbals": "Meinl",
       "sticks": "Vater",
       "bands": "Hate Eternal / Morbid Angel (touring) / Aurora Borealis / Malevolent Creation",
       "knownFor": "Gravity blast beats, extreme tempo precision",
@@ -718,7 +718,7 @@ export const articles = {
         "Hate Eternal drummer on King of All Kings (2002) — one of the most extreme death metal recordings",
         "Inventor and foremost practitioner of the gravity blast technique in death metal",
         "Tama Starclassic Maple kit — current and era setup for extreme death metal performance",
-        "Paiste cymbals — fast-attacking, controlled-decay instruments for high-tempo articulation",
+        "Meinl cymbals — fast-attacking, controlled-decay instruments for high-tempo articulation",
         "Vater sticks — custom spec for the power demands of extreme metal drumming",
         "Also toured with Morbid Angel — direct connection to Pete Sandoval's blast beat tradition"
       ]
@@ -763,43 +763,43 @@ export const articles = {
       "estimatedValue": "$300–600 (Tama Starclassic snare)"
     },
     "cymbals": {
-      "title": "Paiste Cymbals: Fast, Focused, Extreme Metal Specification",
-      "brand": "Paiste",
-      "series": "Paiste 2002 / Rude series",
+      "title": "Meinl Cymbals: Fast, Focused, Extreme Metal Specification",
+      "brand": "Meinl",
+      "series": "Meinl Byzance and Mb20 Heavy Series",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Paiste 14\" Hi-Hats",
+          "model": "Meinl 14\" Hi-Hats",
           "position": "Left side",
           "notes": "Fast attack and controlled decay essential for gravity blast hi-hat articulation at 250+ BPM"
         },
         {
           "type": "Crash",
-          "model": "Paiste 16\" Crash",
+          "model": "Meinl 16\" Crash",
           "position": "Left crash",
           "notes": "Quick, explosive crash for accent work in dense blast beat passages"
         },
         {
           "type": "Crash",
-          "model": "Paiste 18\" Crash",
+          "model": "Meinl 18\" Crash",
           "position": "Right crash",
           "notes": "Fuller crash for section-ending explosions and structural punctuation"
         },
         {
           "type": "Ride",
-          "model": "Paiste 20\" Ride",
+          "model": "Meinl 20\" Ride",
           "position": "Right",
           "notes": "Clear bell articulation for ride patterns; used selectively between blast sections"
         },
         {
           "type": "China",
-          "model": "Paiste 18\" China",
+          "model": "Meinl 18\" China",
           "position": "Over rack toms",
           "notes": "Aggressive, trashy accent for the most intense passages and transitional moments"
         }
       ],
-      "description": "Derek Roddy's Paiste cymbal setup reflects the technical demands of gravity blast technique at extreme tempos. Paiste's cymbal manufacturing — B8 and B20 bronze alloys, depending on the series, with consistent hammering and lathing processes — produces instruments with fast attack characteristics and controlled, predictable decay. Both properties are requirements rather than preferences at the tempos Roddy operates.\n\nThe hi-hats are the most technically demanding element in a gravity blast setup. In the classic gravity blast pattern, the hi-hat defines the rhythmic pulse while the kick and snare execute the blast pattern below — the hi-hat's decay speed determines how cleanly each stroke articulates in the overall texture. Paiste's hi-hat designs provide the fast attack and short decay that preserve this articulation at 250+ BPM without blurring.\n\nHis crash setup covers the two primary accent demands in Hate Eternal's arrangements. The 16\" responds immediately for riff-change accents and fill-endings at high tempos; the 18\" provides the larger, fuller sound for section boundaries and climactic moments in songs like \"Behold Judas\" and \"Nailed to Obscurity.\" The 18\" china provides the most aggressive accent character in the setup — the trashy, upward-cutting tone that punctuates Hate Eternal's most intense passages with appropriate sonic violence.",
-      "estimatedValue": "$1,400–2,200 (full Paiste setup)"
+      "description": "Derek Roddy's Meinl cymbal setup reflects the technical demands of gravity blast technique at extreme tempos. Meinl's cymbal manufacturing — B20 bronze across the Byzance and Mb20 Heavy Series lines, with hand-hammering and lathing processes — produces instruments with fast attack characteristics and controlled, predictable decay. Both properties are requirements rather than preferences at the tempos Roddy operates.\n\nThe hi-hats are the most technically demanding element in a gravity blast setup. In the classic gravity blast pattern, the hi-hat defines the rhythmic pulse while the kick and snare execute the blast pattern below — the hi-hat's decay speed determines how cleanly each stroke articulates in the overall texture. Meinl's hi-hat designs provide the fast attack and short decay that preserve this articulation at 250+ BPM without blurring.\n\nHis crash setup covers the two primary accent demands in Hate Eternal's arrangements. The 16\" responds immediately for riff-change accents and fill-endings at high tempos; the 18\" provides the larger, fuller sound for section boundaries and climactic moments in songs like \"Behold Judas\" and \"Nailed to Obscurity.\" The 18\" china provides the most aggressive accent character in the setup — the trashy, upward-cutting tone that punctuates Hate Eternal's most intense passages with appropriate sonic violence.",
+      "estimatedValue": "$1,400–2,200 (full Meinl setup)"
     },
     "hardware": {
       "title": "Double Bass Pedals and Hardware",
@@ -869,7 +869,7 @@ export const articles = {
         "gear": {
           "drums": "Tama Starclassic Maple with double bass configuration",
           "snare": "Tama snare 14\" × 6.5\"",
-          "cymbals": "Paiste 2002 / Rude series setup",
+          "cymbals": "Meinl Byzance and Mb20 Heavy Series setup",
           "pedals": "Tama double bass pedals",
           "sticks": "Vater"
         },
@@ -886,7 +886,7 @@ export const articles = {
         "gear": {
           "drums": "Tama Starclassic Maple (continued)",
           "snare": "Tama snare",
-          "cymbals": "Paiste (continued)",
+          "cymbals": "Meinl (continued)",
           "pedals": "Tama double bass pedals",
           "sticks": "Vater"
         },
@@ -904,11 +904,11 @@ export const articles = {
       },
       {
         "question": "What drums does Derek Roddy use?",
-        "answer": "Derek Roddy plays a Tama Starclassic Maple kit, built around a double bass drum configuration. His setup includes two 22\" x 18\" kick drums, two rack toms (10\" and 12\"), and two floor toms (16\" and 18\"). The Starclassic Maple's 100% maple shell construction is central to the setup's performance characteristics: maple's fast resonance response and controlled decay ensure that individual kick and snare strokes articulate clearly at the extreme tempos Roddy employs with Hate Eternal. He plays Paiste cymbals — primarily from the 2002 and Rude series — and uses Vater sticks. His cymbal selection prioritizes fast attack and controlled decay, the characteristics that preserve rhythmic definition in death metal's dense sonic environment. For a full profile and career context, see [Derek Roddy at MetalForge](/drummer/derek-roddy)."
+        "answer": "Derek Roddy plays a Tama Starclassic Maple kit, built around a double bass drum configuration. His setup includes two 22\" x 18\" kick drums, two rack toms (10\" and 12\"), and two floor toms (16\" and 18\"). The Starclassic Maple's 100% maple shell construction is central to the setup's performance characteristics: maple's fast resonance response and controlled decay ensure that individual kick and snare strokes articulate clearly at the extreme tempos Roddy employs with Hate Eternal. He plays Meinl cymbals — primarily from the Byzance and Mb20 Heavy Series lines — and uses Vater sticks. His cymbal selection prioritizes fast attack and controlled decay, the characteristics that preserve rhythmic definition in death metal's dense sonic environment. For a full profile and career context, see [Derek Roddy at MetalForge](/drummer/derek-roddy)."
       },
       {
         "question": "What cymbals does Derek Roddy use?",
-        "answer": "Derek Roddy plays Paiste cymbals, primarily from the 2002 and Rude series. His setup includes 14\" hi-hats for gravity blast rhythmic definition, 16\" and 18\" crashes for accent work across Hate Eternal's dense arrangements, a 20\" ride for bell-articulation passages, and an 18\" china for the most aggressive accent moments. Paiste's cymbal manufacturing produces instruments with fast attack characteristics and controlled, predictable decay — properties that are requirements at the tempos Roddy operates. At 250+ BPM gravity blast speeds, hi-hat decay speed directly affects rhythmic definition: slow-decay hi-hats blur individual strokes into an undifferentiated wash; Paiste's design choices preserve articulation across the tempos Roddy employs."
+        "answer": "Derek Roddy plays Meinl cymbals, primarily from the Byzance and Mb20 Heavy Series lines. His setup includes 14\" hi-hats for gravity blast rhythmic definition, 16\" and 18\" crashes for accent work across Hate Eternal's dense arrangements, a 20\" ride for bell-articulation passages, and an 18\" china for the most aggressive accent moments. Meinl's cymbal manufacturing produces instruments with fast attack characteristics and controlled, predictable decay — properties that are requirements at the tempos Roddy operates. At 250+ BPM gravity blast speeds, hi-hat decay speed directly affects rhythmic definition: slow-decay hi-hats blur individual strokes into an undifferentiated wash; Meinl's design choices preserve articulation across the tempos Roddy employs."
       },
       {
         "question": "What is the connection between Derek Roddy and Morbid Angel?",
@@ -932,7 +932,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "Derek Roddy and the Gravity Blast: A Death Metal Benchmark",
-      "content": "Derek Roddy's work on King of All Kings occupies a specific and irreplaceable position in death metal history: it is the definitive recorded demonstration of the gravity blast technique at its performance ceiling. The album documents what happens when extreme technical preparation, a genuinely innovative technique, and exceptionally demanding musical material align in the same recording.\n\nHis gear — the Tama Starclassic Maple kit, Paiste cymbals, Vater sticks — reflects a philosophy of precision over spectacle. Each component serves the demands of sustained extreme-tempo performance:\n\n- **Tama Starclassic Maple**: Fast resonance response and controlled decay — individual stroke articulation at gravity blast tempos requires shells that don't let resonance from one stroke overlap the next\n- **Paiste cymbals**: Fast attack, controlled decay — the hi-hat parameters that determine whether a gravity blast sounds defined or blurred in a recorded mix\n- **Vater sticks**: Weight and balance specification for extreme metal power demands without sacrificing control\n- **Double bass configuration**: Two 22\" x 18\" kick drums providing the sub-bass mass and physical impact that Hate Eternal's music requires at live volumes\n\nThe gravity blast is not merely a speed trick. It is a technique with specific mechanical properties — derived from rudimental marching percussion, applied to extreme metal contexts — that generates blast beat patterns through physical economy rather than raw muscular speed. Understanding it changes how you hear King of All Kings: not as a display of brute speed, but as a controlled, precise application of technique to music that demands the most from both.\n\nFor deeper exploration:\n- **Full drummer profile**: [Derek Roddy at MetalForge](/drummer/derek-roddy)\n- **Pete Sandoval / Morbid Angel connection**: [Altars of Madness drum setup](/articles/altars-of-madness-drum-setup)\n- **Death metal blast beat cluster**: [None So Vile drum setup — Flo Mounier](/articles/none-so-vile-drum-setup)\n- **Blast beat technique overview**: [Blast beat technique at MetalForge](/technique/blast-beats/drummers)"
+      "content": "Derek Roddy's work on King of All Kings occupies a specific and irreplaceable position in death metal history: it is the definitive recorded demonstration of the gravity blast technique at its performance ceiling. The album documents what happens when extreme technical preparation, a genuinely innovative technique, and exceptionally demanding musical material align in the same recording.\n\nHis gear — the Tama Starclassic Maple kit, Meinl cymbals, Vater sticks — reflects a philosophy of precision over spectacle. Each component serves the demands of sustained extreme-tempo performance:\n\n- **Tama Starclassic Maple**: Fast resonance response and controlled decay — individual stroke articulation at gravity blast tempos requires shells that don't let resonance from one stroke overlap the next\n- **Meinl cymbals**: Fast attack, controlled decay — the hi-hat parameters that determine whether a gravity blast sounds defined or blurred in a recorded mix\n- **Vater sticks**: Weight and balance specification for extreme metal power demands without sacrificing control\n- **Double bass configuration**: Two 22\" x 18\" kick drums providing the sub-bass mass and physical impact that Hate Eternal's music requires at live volumes\n\nThe gravity blast is not merely a speed trick. It is a technique with specific mechanical properties — derived from rudimental marching percussion, applied to extreme metal contexts — that generates blast beat patterns through physical economy rather than raw muscular speed. Understanding it changes how you hear King of All Kings: not as a display of brute speed, but as a controlled, precise application of technique to music that demands the most from both.\n\nFor deeper exploration:\n- **Full drummer profile**: [Derek Roddy at MetalForge](/drummer/derek-roddy)\n- **Pete Sandoval / Morbid Angel connection**: [Altars of Madness drum setup](/articles/altars-of-madness-drum-setup)\n- **Death metal blast beat cluster**: [None So Vile drum setup — Flo Mounier](/articles/none-so-vile-drum-setup)\n- **Blast beat technique overview**: [Blast beat technique at MetalForge](/technique/blast-beats/drummers)"
     }
   }
 };

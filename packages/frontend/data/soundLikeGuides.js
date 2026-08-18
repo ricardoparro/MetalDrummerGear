@@ -5186,7 +5186,7 @@ This guide covers Igor's core technique across both the thrash period (Beneath t
     genre: 'Neoclassical / Power Metal',
     priority: 22,
     title: "How to Sound Like Aquiles Priester: Complete Gear & Technique Guide",
-    description: "Master Aquiles Priester's Brazilian power metal drumming. Learn his neoclassical double-bass technique, exact Trick Drums/Ufip/DW gear setup, and practice drills to capture the Angra drum sound.",
+    description: "Master Aquiles Priester's Brazilian power metal drumming. Learn his neoclassical double-bass technique, exact Mapex Saturn Evolution/Paiste/DW gear setup, and practice drills to capture the Angra drum sound.",
     seoKeywords: ['aquiles priester drumming', 'how to sound like aquiles priester', 'angra drums', 'aquiles priester gear', 'aquiles priester technique', 'aquiles priester drum kit', 'angra drum sound', 'how to sound like angra drums'],
     ogImage: '/images/guides/aquiles-priester-guide.webp',
     datePublished: '2026-06-24',
@@ -5200,12 +5200,12 @@ This guide covers Igor's core technique across both the thrash period (Beneath t
 
 What sets Aquiles apart from other fast drummers is his architecture-first mentality. On "Spread Your Fire" (~182 BPM), the double bass isn't a showpiece — it's the rhythmic foundation of the entire track, a wall of perfectly even 16th notes that drives the melodic content above it. On "Heroes of Sand," he navigates blast beats, lyrical grooves, and atmospheric sections within the same five-minute composition without ever losing the pocket. The result is extreme technique that sounds inevitable, not impressive.
 
-This guide covers Aquiles' core technique — neoclassical speed with relaxation-based endurance, power metal snare authority, progressive limb independence — his Trick Drums/Ufip/DW 9000 setup used on the current Angra return cycle, and how to practice both dimensions of his playing.`,
+This guide covers Aquiles' core technique — neoclassical speed with relaxation-based endurance, power metal snare authority, progressive limb independence — his Mapex Saturn Evolution/Paiste/DW 9000 setup used on the current Angra return cycle, and how to practice both dimensions of his playing.`,
       keyPoints: [
         "Born June 19, 1971, São Paulo — joined Angra in 2000, returned in 2023",
         "Recorded the definitive power metal double-bass performances on Temple of Shadows and Rebirth",
         "Known for sustained even double-bass patterns at 180–220+ BPM built on a relaxation-first technique",
-        "Current rig: Trick Drums custom maple kit, Ufip cymbals, DW 9000 double pedal"
+        "Current rig: Mapex Saturn Evolution signature kit, custom red-coated Paiste cymbals, DW 9000 double pedal"
       ]
     },
     technique: {
@@ -5259,42 +5259,41 @@ This guide covers Aquiles' core technique — neoclassical speed with relaxation
       ]
     },
     gear: {
-      title: "Aquiles' Trick Drums / Ufip Setup",
+      title: "Aquiles' Mapex Saturn Evolution / Paiste Setup",
       drumKit: {
-        brand: 'Trick Drums',
-        model: 'Trick Drums Custom',
-        shells: 'Maple',
-        finish: 'Custom lacquer (varies by tour)',
+        brand: 'Mapex',
+        model: 'Mapex Saturn Evolution All Maple (Aquiles Priester Signature)',
+        shells: 'All maple',
+        finish: 'Custom finish (varies by tour)',
         config: {
           kick: '22" x 18" Bass Drums (double-bass configuration)',
-          snare: '14" x 6.5" Trick Drums Custom',
+          snare: '14" x 6.5" Mapex Saturn Evolution Signature',
           toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom', '13" x 10" Rack Tom'],
           floorToms: ['16" x 14" Floor Tom', '18" x 16" Floor Tom']
         },
-        description: "Trick Drums is a US custom manufacturer known for exceptional shell construction and hardware precision. Priester's current configuration uses Trick's custom maple shells — maple provides the low-end warmth and focused attack that power metal demands, enough punch to cut through dense guitar walls without losing body in large outdoor festival venues. The wide five-tom spread (10\" through 18\") enables the melodic cascading fills central to Angra's compositions. Earlier in his career, Aquiles played Mapex Saturn Series drums (the kit on Rebirth and Temple of Shadows) and later Pearl Reference Series during his W.A.S.P. years — both deliver comparable attack focus at different price points.",
+        description: "The Mapex Saturn Evolution All Maple is Priester's own signature kit — the first signature kit Mapex has released for a Brazilian drummer. Its all-maple shells provide the low-end warmth and focused attack that power metal demands, enough punch to cut through dense guitar walls without losing body in large outdoor festival venues. The wide five-tom spread (10\" through 18\") enables the melodic cascading fills central to Angra's compositions. Earlier in his career, Aquiles played Mapex Saturn Series drums (the kit on Rebirth and Temple of Shadows) and later Pearl Reference Series during his W.A.S.P. years — both deliver comparable attack focus at different price points.",
         affiliateNote: "Mapex Saturn or Pearl Reference Series are accessible alternatives with comparable attack and tuning stability for Aquiles' style."
       },
       snare: {
-        brand: 'Trick Drums',
-        model: 'Trick Drums Custom Snare',
+        brand: 'Mapex',
+        model: 'Mapex Saturn Evolution Signature Snare',
         size: '14" x 6.5"',
-        shell: 'Maple or steel (varies by context)',
-        description: "The 14\" x 6.5\" format generates enough body to anchor the groove during maximum kick density. Maple shell for warmer studio tones; steel for more aggressive live projection through large PA systems. Priester's snare work on Temple of Shadows is a masterclass in snare authority at speed — rimshots are decisive and even, never muddy, even at the tempos where less experienced drummers lose snare definition.",
+        shell: 'All maple',
+        description: "The 14\" x 6.5\" format generates enough body to anchor the groove during maximum kick density. The all-maple shell gives it the warmth to match studio or live projection through large PA systems. Priester's snare work on Temple of Shadows is a masterclass in snare authority at speed — rimshots are decisive and even, never muddy, even at the tempos where less experienced drummers lose snare definition.",
         alternative: "Pearl Reference Maple or Ludwig Supraphonic for comparable crack and projection"
       },
       cymbals: {
-        brand: 'Ufip',
-        series: 'Ufip Series',
+        brand: 'Paiste',
+        series: 'Paiste (custom red-coated set)',
         setup: [
-          { type: 'Hi-Hats', model: 'Ufip 14" Hi-Hats', notes: 'Tight, articulate response — no wash or mud when kick is running at 180+ BPM' },
-          { type: 'Crash', model: 'Ufip 16" Crash', notes: 'Quick attack, fast decay for dense arrangement punctuation' },
-          { type: 'Crash', model: 'Ufip 18" Crash', notes: 'Primary crash for section endings and peak moments' },
-          { type: 'Crash', model: 'Ufip 20" Crash', notes: 'Full-bodied crash for climactic moments and song endings' },
-          { type: 'China', model: 'Ufip 18" China', notes: 'Aggressive accent cymbal for heavy breakdown moments' },
-          { type: 'Ride', model: 'Ufip 21" Ride', notes: 'Clear bell with controlled wash for mid-tempo groove sections' },
-          { type: 'Splash', model: 'Ufip 10" Splash', notes: 'Quick accent punctuation in fast passages' }
+          { type: 'Hi-Hats', model: 'Paiste Hi-Hats (custom red-coated)', notes: 'Tight, articulate response — no wash or mud when kick is running at 180+ BPM' },
+          { type: 'Crash', model: 'Paiste Crash (custom red-coated)', notes: 'Quick attack, fast decay for dense arrangement punctuation' },
+          { type: 'Crash', model: 'Paiste Crash (custom red-coated)', notes: 'Primary crash for section endings and peak moments' },
+          { type: 'China', model: 'Paiste China (custom red-coated)', notes: 'Aggressive accent cymbal for heavy breakdown moments' },
+          { type: 'Ride', model: 'Paiste 2002 18" Psychoctopus Giga Bell Ride', notes: "Priester's signature giant bell ride — clear bell with controlled wash for mid-tempo groove sections" },
+          { type: 'Splash', model: 'Paiste Splash (custom red-coated)', notes: 'Quick accent punctuation in fast passages' }
         ],
-        description: "Ufip is an Italian cymbal manufacturer with over a century of rotocasting craft history, producing cymbals with complex, warm tone and exceptional projection — qualities well-suited to South American festival stages where large outdoor environments demand both volume and musical character. The 14\" hi-hats deliver tight, articulate response for fast hi-hat patterns over blazing double bass. The graduated crash selection (16\", 18\", 20\") gives Aquiles precise dynamic expression — smaller crashes for quick accents, the 20\" for full-power climactic moments. Earlier setups used Sabian HHX Series (classic Angra era) and Meinl Byzance (W.A.S.P. years)."
+        description: "Paiste is a Swiss cymbal manufacturer with a long endorsement history in metal, and Priester's current setup is a custom red-coated Paiste set anchored by the 18\" Paiste 2002 Psychoctopus Giga Bell Ride — a giant-bell ride custom-built to his specification for extra cut and articulation. The hi-hats deliver tight, articulate response for fast hi-hat patterns over blazing double bass. The crash selection gives Aquiles precise dynamic expression for section endings and peak moments, while the giant bell ride cuts through on accents during mid-tempo grooves. Earlier setups used Sabian HHX Series (classic Angra era) and Meinl Byzance (W.A.S.P. years)."
       },
       pedals: {
         brand: 'DW',
@@ -5303,17 +5302,17 @@ This guide covers Aquiles' core technique — neoclassical speed with relaxation
         alternative: "DW 5000 Double Pedal or Axis A Longboard for comparable cam-drive performance"
       },
       sticks: {
-        brand: 'Vater',
-        model: 'Vater Fusion 55A',
-        specs: '55A weight, wood tip',
-        description: "Aquiles plays Vater Fusion 55A sticks — a balanced stick between 5A and 5B weight, designed for drummers who need both power and control at high tempos. The Fusion profile distributes mass toward the shoulder for a heavier feel without the full weight of a 5B. This balance suits power metal drumming where the hands must play fast, precise patterns while still delivering authoritative accents. The Vic Firth Aquiles Priester Signature stick has also been associated with his name.",
-        alternative: "Vic Firth Aquiles Priester Signature or Promark 5B for comparable weight and projection"
+        brand: 'ProMark',
+        model: 'ProMark Aquiles Priester Signature',
+        specs: 'Signature model, wood tip',
+        description: "Aquiles plays his own ProMark Aquiles Priester Signature sticks, developed for drummers who need both power and control at high tempos. The signature profile suits power metal drumming where the hands must play fast, precise patterns while still delivering authoritative accents.",
+        alternative: "ProMark 5B for comparable weight and projection"
       },
       heads: {
-        kick: 'Remo Powerstroke P3 Clear',
-        snare: 'Remo Coated Ambassador',
-        toms: 'Remo Ambassador Coated',
-        resonant: 'Remo Ambassador Clear'
+        kick: 'Evans',
+        snare: 'Evans',
+        toms: 'Evans',
+        resonant: 'Evans'
       }
     },
     tuning: {
@@ -5329,7 +5328,7 @@ This guide covers Aquiles' core technique — neoclassical speed with relaxation
         tension: "Medium-high on batter; medium on resonant",
         muffling: "One Moongel at edge for recording; none for live",
         description: "Medium-high tension gives the 14\" snare the crack to project over PA systems at large outdoor venues. The 6.5\" depth adds body so it doesn't become papery or thin at tight tension. For live, no muffling — the venue acoustics provide natural decay. For studio, a single Moongel controls overtones without killing the shell's resonant character.",
-        tip: "Tune to the shell's resonant sweet spot — tap the head and listen for where the drum vibrates most freely. High-quality shells like Trick Drums reward this approach with exceptional crack."
+        tip: "Tune to the shell's resonant sweet spot — tap the head and listen for where the drum vibrates most freely. High-quality shells like the Mapex Saturn Evolution reward this approach with exceptional crack."
       },
       toms: {
         tension: "Medium with musical sustain",
@@ -5383,40 +5382,40 @@ This guide covers Aquiles' core technique — neoclassical speed with relaxation
         price: "$1,500",
         label: "Starter Aquiles-Inspired Setup",
         kit: "Mapex Saturn ($700) or Pearl Export ($550)",
-        cymbals: "Sabian AAX or Ufip Class Series ($400)",
+        cymbals: "Sabian AAX or Paiste 101 ($400)",
         pedals: "DW 5000 Double Pedal ($250) or Axis A ($350)",
-        sticks: "Vater Fusion 55A ($10)",
-        notes: "Mapex Saturn shares Aquiles' classic-era brand DNA (he used Saturn on Rebirth and Temple of Shadows). Even entry-level Ufip shares the brand's rotocasting projection character."
+        sticks: "ProMark hickory sticks ($10)",
+        notes: "Mapex Saturn shares Aquiles' brand DNA — he used Saturn on Rebirth and Temple of Shadows, and now plays the Saturn Evolution signature kit. Even entry-level Paiste shares the brand's projection character."
       },
       mid: {
         price: "$4,500",
         label: "Intermediate Setup",
-        kit: "Pearl Reference Series ($2,000)",
-        cymbals: "Ufip Class or Natural Series ($1,500)",
+        kit: "Mapex Saturn Series ($2,000)",
+        cymbals: "Paiste 2002 or Signature Series ($1,500)",
         pedals: "DW 9000 Double Pedal ($500)",
-        sticks: "Vater Fusion 55A ($10)",
-        heads: "Remo Ambassador Coated set ($150)",
-        notes: "Pearl Reference brings you into professional-grade shell territory. Start with the DW 9000 double pedal — it's in Aquiles' current rig and represents the biggest technique-enabling upgrade at this price point."
+        sticks: "ProMark hickory sticks ($10)",
+        heads: "Evans set ($150)",
+        notes: "Mapex Saturn brings you into professional-grade shell territory, the same family as Aquiles' current signature kit. Start with the DW 9000 double pedal — it's in Aquiles' current rig and represents the biggest technique-enabling upgrade at this price point."
       },
       pro: {
         price: "$12,000+",
         label: "Professional Setup",
-        kit: "Trick Drums Custom Maple ($8,000+)",
-        cymbals: "Full Ufip touring setup — 14\" hi-hats, 16\"/18\"/20\" crashes, 21\" ride, 18\" China ($3,000+)",
+        kit: "Mapex Saturn Evolution All Maple ($8,000+)",
+        cymbals: "Full custom-red-coated Paiste touring setup, including a Paiste 2002 giant bell ride ($3,000+)",
         pedals: "DW 9000 Series Double Pedal ($500)",
-        snare: "Trick Drums Custom 14\" x 6.5\" ($1,000+)",
-        heads: "Remo Ambassador complete setup ($200)",
-        notes: "Trick Drums Custom is Aquiles' current kit. Pair with the full Ufip setup for the complete Angra live sound."
+        snare: "Mapex Saturn Evolution Signature 14\" x 6.5\" ($1,000+)",
+        heads: "Evans complete setup ($200)",
+        notes: "The Mapex Saturn Evolution All Maple is Aquiles' current signature kit. Pair with the full custom Paiste setup for the complete Angra live sound."
       }
     },
     faq: [
       {
         question: "What drum kit does Aquiles Priester use?",
-        answer: "Aquiles Priester currently plays a Trick Drums custom maple kit for Angra touring and recording (from his 2023 return). His configuration includes 22\" bass drums in a double-bass setup, three rack toms (10\", 12\", 13\"), and two floor toms (16\" and 18\"). Earlier in his career he played Mapex Saturn Series drums (used on Rebirth and Temple of Shadows) and Pearl Reference Series kits during his W.A.S.P. years."
+        answer: "Aquiles Priester currently plays his Mapex Saturn Evolution All Maple signature kit for Angra touring and recording (from his 2023 return) — the first signature kit Mapex has released for a Brazilian drummer. His configuration includes 22\" bass drums in a double-bass setup, three rack toms (10\", 12\", 13\"), and two floor toms (16\" and 18\"). Earlier in his career he played Mapex Saturn Series drums (used on Rebirth and Temple of Shadows) and Pearl Reference Series kits during his W.A.S.P. years."
       },
       {
         question: "What cymbals does Aquiles Priester use with Angra?",
-        answer: "Aquiles Priester currently plays Ufip cymbals. His Angra setup includes 14\" hi-hats, 16\", 18\", and 20\" crashes, a 21\" ride, an 18\" China, and a 10\" splash. The hi-hats deliver the tight, articulate response needed for fast hi-hat patterns when the kick is running at 180+ BPM. In his classic Angra era (Rebirth through Aqua), he used Sabian HHX Series."
+        answer: "Aquiles Priester currently plays a custom red-coated Paiste cymbal setup, anchored by an 18\" Paiste 2002 Psychoctopus Giga Bell Ride. The hi-hats deliver the tight, articulate response needed for fast hi-hat patterns when the kick is running at 180+ BPM. In his classic Angra era (Rebirth through Aqua), he used Sabian HHX Series."
       },
       {
         question: "What double pedal does Aquiles Priester use?",
@@ -5432,7 +5431,7 @@ This guide covers Aquiles' core technique — neoclassical speed with relaxation
       },
       {
         question: "What sticks does Aquiles Priester play?",
-        answer: "Aquiles Priester plays Vater Fusion 55A sticks — a balanced stick between 5A and 5B weight that provides both power and control at high tempos. The Fusion profile distributes mass toward the shoulder for authority on accented hits without the full weight of a 5B. A Vic Firth Aquiles Priester Signature stick bearing his name has also been associated with his setup. Either Promark 5B or Vater Fusion are solid starting points for his style."
+        answer: "Aquiles Priester plays his own ProMark Aquiles Priester Signature sticks, developed to provide both power and control at high tempos. ProMark 5B is a solid starting point for his style if the signature model isn't available."
       },
       {
         question: "How did Aquiles Priester develop his neoclassical drumming style?",

@@ -40,10 +40,10 @@ export const articles = {
       ]
     },
     "drumKit": {
-      "title": "Pete's Classic Setup: Tama Power",
-      "brand": "Tama",
-      "model": "Tama Artstar II / Starclassic Performer",
-      "finish": "Various (Black, Wine Red)",
+      "title": "Pete's Classic Setup: ddrum Power",
+      "brand": "ddrum",
+      "model": "ddrum (specific series unconfirmed)",
+      "finish": "Various",
       "config": {
         "bassdrums": [
           "22\" x 18\" Bass Drum (x2 for live shows)",
@@ -57,28 +57,27 @@ export const articles = {
           "14\" x 14\" Floor Tom",
           "16\" x 16\" Floor Tom"
         ],
-        "shells": "Birch/Basswood (Artstar) or Maple/Birch (Starclassic)"
+        "shells": "Not publicly documented (specific ddrum series unconfirmed)"
       },
-      "description": "Throughout his career with Morbid Angel, Pete Sandoval built his sound on Tama drums. His preference for Tama's aggressive attack and focused projection made them the ideal choice for the relentless speed and power his music demanded.\n\nDuring the classic Morbid Angel era (1989-1995), Pete primarily used Tama Artstar II kits. The birch/basswood shells provided the attack and cut needed to slice through Trey Azagthoth's dense guitar tones. Unlike many metal drummers who favor massive bass drums, Pete often used standard 22\" kicks — the speed came from technique, not drum size.\n\nFor live shows, Pete typically employed a double bass drum setup rather than a double pedal, giving him the visual impact and slightly different feel that matched Morbid Angel's theatrical live presence. However, in the studio, he often recorded with a single bass drum and double pedal for consistency and mic placement simplicity.\n\nHis tom configuration remained relatively compact: two rack toms (10\" and 12\") and two floor toms (14\" and 16\"). This setup provided melodic options without excessive complexity. Pete's tom work, while secondary to his kick and snare assault, added depth to songs like \"Maze of Torment\" and \"Fall from Grace.\"\n\nThe shells' natural attack, combined with Pete's tuning preferences (medium-high for articulation), created the punchy, defined sound that characterized early Florida death metal recordings at Morrisound Studios.",
+      "description": "Throughout his career with Morbid Angel, Pete Sandoval built his sound on ddrum drums, serving as a ddrum endorser for much of his time with the band. The specific ddrum series he used has not been publicly documented, but the drums delivered the attack and focused projection that the relentless speed and power of his music demanded.\n\nUnlike many metal drummers who favor massive bass drums, Pete often used standard 22\" kicks — the speed came from technique, not drum size.\n\nFor live shows, Pete typically employed a double bass drum setup rather than a double pedal, giving him the visual impact and slightly different feel that matched Morbid Angel's theatrical live presence. However, in the studio, he often recorded with a single bass drum and double pedal for consistency and mic placement simplicity.\n\nHis tom configuration remained relatively compact: two rack toms (10\" and 12\") and two floor toms (14\" and 16\"). This setup provided melodic options without excessive complexity. Pete's tom work, while secondary to his kick and snare assault, added depth to songs like \"Maze of Torment\" and \"Fall from Grace.\"\n\nPete's tuning preferences (medium-high for articulation) helped create the punchy, defined sound that characterized early Florida death metal recordings at Morrisound Studios.",
       "notes": [
-        "Tama Artstar II during classic era (1989-1995)",
-        "Transitioned to Starclassic Performer later in career",
+        "ddrum endorser for much of his career with Morbid Angel — specific series unconfirmed",
         "Double bass drums live, often single with double pedal in studio",
         "Compact tom setup focused on speed and efficiency",
         "Partnered with Morrisound Studios for the definitive Florida death metal sound"
       ],
-      "estimatedValue": "$3,000-5,000 (vintage Artstar II) / $2,500-4,000 (Starclassic Performer)"
+      "estimatedValue": "Not publicly documented (specific ddrum series unconfirmed)"
     },
     "snare": {
       "title": "The Snare That Defined Death Metal",
-      "brand": "Tama",
-      "model": "Tama Metalworks Steel Snare",
-      "size": "14\" x 5.5\" / 14\" x 6.5\"",
-      "shell": "Steel",
-      "description": "The snare drum sound on \"Altars of Madness\" and \"Blessed Are the Sick\" is unmistakable — a cutting, machine-gun crack that powers through every blast beat. Pete achieved this with Tama Metalworks steel snares, tuned high for maximum articulation.\n\nThe steel shell provides the bright, aggressive attack that cuts through dense death metal arrangements. Unlike wood shells that can warm up and \"bloom,\" steel maintains its sharp character even under the most intense playing. For blast beats at extreme tempos, this consistency is essential.\n\nPete typically used a 14\" x 5.5\" or 14\" x 6.5\" depth, depending on the era and recording. The shallower drum offered quicker response for his fastest passages, while the deeper option provided more body for groove sections.\n\nHis tuning approach prioritized projection over warmth. High tension on both heads, tight snare wires, and minimal muffling created a snare that spoke clearly on every stroke. During the Morrisound recordings, engineer Scott Burns captured this sound with a combination of close-miked top and bottom placement that became the blueprint for death metal production.\n\nThe gravity blast technique Pete pioneered puts unique demands on a snare drum. The stick must bounce consistently at extreme speeds, requiring a drum that responds identically to every stroke. The Metalworks steel's consistent response made it ideal for this revolutionary technique.",
+      "brand": "ddrum",
+      "model": "ddrum (specific model unconfirmed)",
+      "size": "Not publicly documented",
+      "shell": "Not publicly documented",
+      "description": "The snare drum sound on \"Altars of Madness\" and \"Blessed Are the Sick\" is unmistakable — a cutting, machine-gun crack that powers through every blast beat. Pete achieved this with a ddrum snare, tuned high for maximum articulation, though the specific model has not been publicly documented.\n\nHis tuning approach prioritized projection over warmth. High tension on both heads, tight snare wires, and minimal muffling created a snare that spoke clearly on every stroke. During the Morrisound recordings, engineer Scott Burns captured this sound with a combination of close-miked top and bottom placement that became the blueprint for death metal production.\n\nThe gravity blast technique Pete pioneered puts unique demands on a snare drum. The stick must bounce consistently at extreme speeds, requiring a drum that responds identically to every stroke.",
       "tuningSetting": "High tension, tight snare wires for maximum attack and response",
       "heads": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)",
-      "estimatedValue": "$200-350 (Metalworks steel snare)"
+      "estimatedValue": "Not publicly documented (specific ddrum model unconfirmed)"
     },
     "cymbals": {
       "title": "The Paiste Attack",
@@ -130,21 +129,21 @@ export const articles = {
       "items": [
         {
           "type": "Bass Drum Pedals",
-          "brand": "Tama",
-          "model": "Tama Iron Cobra Power Glide Double Pedal",
+          "brand": "ddrum",
+          "model": "ddrum (specific model unconfirmed)",
           "notes": "The powerhouse behind Pete's legendary footwork",
-          "description": "Pete's double bass ability is legendary, and the Tama Iron Cobra provided the foundation. The Power Glide cam offers smooth, consistent action that supports sustained high-speed playing. Later in his career, Pete also used the Speed Cobra for its lighter feel. His ankle motion technique, combined with proper pedal setup, enabled the relentless 200+ BPM double bass that defined Morbid Angel's sound."
+          "description": "Pete's double bass ability is legendary. His ankle motion technique, combined with proper pedal setup, enabled the relentless 200+ BPM double bass that defined Morbid Angel's sound, though the specific pedal model he used has not been publicly documented."
         },
         {
           "type": "Hi-Hat Stand",
-          "brand": "Tama",
-          "model": "Tama Iron Cobra Hi-Hat Stand",
+          "brand": "ddrum",
+          "model": "ddrum (specific model unconfirmed)",
           "notes": "Heavy-duty for consistent response"
         },
         {
           "type": "Throne",
-          "brand": "Tama",
-          "model": "Tama 1st Chair",
+          "brand": "ddrum",
+          "model": "ddrum (specific model unconfirmed)",
           "notes": "Ergonomic support for demanding performances"
         },
         {
@@ -178,13 +177,13 @@ export const articles = {
       "thenVsNow": [
         {
           "category": "Kit",
-          "then": "Tama Artstar II",
-          "now": "Tama Starclassic / Various"
+          "then": "ddrum (unconfirmed series)",
+          "now": "ddrum (unconfirmed series)"
         },
         {
           "category": "Snare",
-          "then": "Tama Metalworks Steel 14x5.5\"",
-          "now": "Tama Steel Snares"
+          "then": "ddrum (unconfirmed model)",
+          "now": "ddrum (unconfirmed model)"
         },
         {
           "category": "Cymbals",
@@ -193,8 +192,8 @@ export const articles = {
         },
         {
           "category": "Pedals",
-          "then": "Tama Iron Cobra",
-          "now": "Tama Speed Cobra / Iron Cobra"
+          "then": "ddrum (unconfirmed model)",
+          "now": "ddrum (unconfirmed model)"
         },
         {
           "category": "Technique",
@@ -297,34 +296,16 @@ export const articles = {
       "title": "Pete's Gear You Can Still Buy Today",
       "items": [
         {
-          "item": "Tama Starclassic Performer Drums",
+          "item": "ddrum Drums & Hardware",
           "available": true,
-          "priceRange": "$2,500-4,000",
-          "notes": "Modern equivalent of Pete's classic setup"
-        },
-        {
-          "item": "Tama Metalworks Steel Snare",
-          "available": true,
-          "priceRange": "$200-350",
-          "notes": "The classic death metal snare"
+          "priceRange": "Varies by series",
+          "notes": "Pete's specific ddrum series and hardware models have not been publicly documented"
         },
         {
           "item": "Paiste RUDE Cymbals",
           "available": true,
           "priceRange": "$200-400 each",
           "notes": "Still the most aggressive cymbals available"
-        },
-        {
-          "item": "Tama Iron Cobra Power Glide Double Pedal",
-          "available": true,
-          "priceRange": "$350-450",
-          "notes": "The pedal that powered a genre"
-        },
-        {
-          "item": "Tama Speed Cobra Double Pedal",
-          "available": true,
-          "priceRange": "$400-500",
-          "notes": "Lighter alternative Pete used later in career"
         },
         {
           "item": "Vic Firth 2B / 5B Sticks",
@@ -351,7 +332,7 @@ export const articles = {
     "faq": [
       {
         "question": "What drum kit does Pete Sandoval use with Morbid Angel?",
-        "answer": "Pete Sandoval has used a combination of Tama Artstar II and Tama Starclassic Performer kits throughout his career with Morbid Angel. His live setup includes dual 22x18 inch bass drums, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. Shell materials have varied between birch/basswood and maple/birch configurations. He pairs these with a Tama Metalworks Steel snare at either 14x5.5 or 14x6.5 inches, delivering the sharp, aggressive attack that defines his brutal death metal style."
+        "answer": "Pete Sandoval has been a ddrum endorser for much of his career with Morbid Angel, though the specific ddrum series he used has not been publicly documented. His live setup includes dual 22x18 inch bass drums, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. He pairs these with a ddrum snare (specific model unconfirmed), delivering the sharp, aggressive attack that defines his brutal death metal style."
       },
       {
         "question": "What cymbals does Pete Sandoval use with Morbid Angel?",
@@ -359,12 +340,12 @@ export const articles = {
       },
       {
         "question": "How much does Pete Sandoval's Morbid Angel drum kit cost?",
-        "answer": "A vintage Tama Artstar II kit in good condition now sells for $3,000 to $5,000 on the used market, with newer Starclassic Performer equivalents priced similarly new. His Tama Metalworks Steel snare adds $200 to $350. A full Paiste RUDE cymbal setup matching his configuration runs approximately $1,500 to $2,500. A complete replica of his rig would cost $5,000 to $8,000, depending on which era kit you source."
+        "answer": "Pete's specific ddrum series and snare model have not been publicly documented, so exact pricing for his drum kit isn't available. A full Paiste RUDE cymbal setup matching his configuration runs approximately $1,500 to $2,500. Budgeting for a comparable rig today would mean pricing a mid-to-pro-level ddrum kit alongside that cymbal setup, since the specific drum models Pete used remain unconfirmed."
       }
     ],
     "conclusion": {
       "title": "The Foundation of Extreme",
-      "content": "Pete Sandoval's influence on extreme metal drumming is immeasurable. Before \"Altars of Madness,\" there was no template for death metal drumming. Thrash existed, punk existed, but the synthesis of speed, brutality, and technical precision that defined death metal was created in Tampa, Florida, by Pete Sandoval and his contemporaries.\n\nThe gravity blast technique he pioneered remains a standard tool for extreme metal drummers. His double bass patterns influenced everyone from George Kollias to Flo Mounier. His approach to blast beats — combining speed with groove — showed that extreme metal could be musical, not just fast.\n\nBeyond technique, Pete brought an intensity that's difficult to quantify. Watching footage of classic Morbid Angel shows a drummer possessed, channeling something beyond mere physical ability. That energy, that commitment to extreme expression, defined death metal's spirit.\n\nThe gear Pete used — Tama drums, Paiste RUDE cymbals, Iron Cobra pedals — remains available today. The path he blazed can be followed by anyone willing to put in the practice. But replicating Pete Sandoval means more than copying his gear or patterns. It means bringing genuine intensity and commitment to your playing.\n\nFor drummers studying Pete Sandoval:\n\n- **Master fundamentals first**: Speed means nothing without control\n- **Practice the gravity blast carefully**: It's a technique that requires patience\n- **Prioritize endurance**: Death metal demands sustained intensity\n- **Protect your body**: Pete's injury shows the importance of proper technique\n- **Bring intensity**: Technical ability alone doesn't make death metal\n\nThree decades after \"Altars of Madness\" changed everything, Pete Sandoval remains the godfather of extreme metal drumming. His influence echoes in every blast beat, every double bass fill, every gravity blast in death metal.\n\n🤘 *Where it all began. The foundation of death metal drumming.* 🤘"
+      "content": "Pete Sandoval's influence on extreme metal drumming is immeasurable. Before \"Altars of Madness,\" there was no template for death metal drumming. Thrash existed, punk existed, but the synthesis of speed, brutality, and technical precision that defined death metal was created in Tampa, Florida, by Pete Sandoval and his contemporaries.\n\nThe gravity blast technique he pioneered remains a standard tool for extreme metal drummers. His double bass patterns influenced everyone from George Kollias to Flo Mounier. His approach to blast beats — combining speed with groove — showed that extreme metal could be musical, not just fast.\n\nBeyond technique, Pete brought an intensity that's difficult to quantify. Watching footage of classic Morbid Angel shows a drummer possessed, channeling something beyond mere physical ability. That energy, that commitment to extreme expression, defined death metal's spirit.\n\nThe gear Pete used — ddrum drums, Paiste RUDE cymbals — remains available today, though the specific ddrum models he played remain unconfirmed. The path he blazed can be followed by anyone willing to put in the practice. But replicating Pete Sandoval means more than copying his gear or patterns. It means bringing genuine intensity and commitment to your playing.\n\nFor drummers studying Pete Sandoval:\n\n- **Master fundamentals first**: Speed means nothing without control\n- **Practice the gravity blast carefully**: It's a technique that requires patience\n- **Prioritize endurance**: Death metal demands sustained intensity\n- **Protect your body**: Pete's injury shows the importance of proper technique\n- **Bring intensity**: Technical ability alone doesn't make death metal\n\nThree decades after \"Altars of Madness\" changed everything, Pete Sandoval remains the godfather of extreme metal drumming. His influence echoes in every blast beat, every double bass fill, every gravity blast in death metal.\n\n🤘 *Where it all began. The foundation of death metal drumming.* 🤘"
     }
   },
   "altars-of-madness-drum-setup": {

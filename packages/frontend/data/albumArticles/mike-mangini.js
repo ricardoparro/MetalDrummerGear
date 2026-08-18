@@ -18,7 +18,7 @@ export const articles = {
     "dateModified": "2026-03-24",
     "author": "MetalForge Editorial",
     "title": "What's In Mike Mangini's Dream Theater Arsenal",
-    "description": "Complete breakdown of Mike Mangini's massive drum kit setup. Discover the gear the world record holder and Berklee professor uses with Dream Theater, including his Pearl Masterworks, Sabian cymbals, and signature sticks.",
+    "description": "Complete breakdown of Mike Mangini's massive drum kit setup. Discover the gear the world record holder and Berklee professor uses with Dream Theater, including his Pearl Reference Series, Sabian cymbals, and signature sticks.",
     "seoKeywords": [
       "mike mangini drum kit",
       "mike mangini setup",
@@ -41,9 +41,9 @@ export const articles = {
       ]
     },
     "drumKit": {
-      "title": "The Academic's Arsenal: Pearl Masterworks Maple",
+      "title": "The Academic's Arsenal: Pearl Reference Series",
       "brand": "Pearl",
-      "model": "Pearl Masterworks Maple",
+      "model": "Pearl Reference Series (custom configuration)",
       "finish": "Custom configurations varying by tour",
       "config": {
         "bassdrums": [
@@ -62,15 +62,15 @@ export const articles = {
         ],
         "shells": "Maple shells with optimized bearing edges"
       },
-      "description": "Mike Mangini's Pearl Masterworks setup is one of the most extensive kits in progressive metal. Unlike minimalist drummers who prove their worth with four-piece kits, Mangini requires an arsenal that matches Dream Theater's compositional complexity. Songs like \"The Dance of Eternity,\" \"Octavarium,\" and his own contributions demand melodic tom work, multiple snare textures, and the full spectrum of percussive color.\n\nThe Masterworks Maple shells provide the warmth and projection needed for Dream Theater's intricate arrangements. Maple is the go-to shell material for drummers who need both punch and musicality — and progressive metal demands both. The shells' bearing edges are precision-cut for optimal head-to-shell contact, translating every nuance of Mangini's meticulous technique.\n\nMangini's configuration typically includes two bass drums (though he often uses a double pedal in studio), five rack toms spanning 8\" to 14\", and two floor toms (16\"x14\" and 16\"x16\"). This extensive tom array allows for the melodic passages and complex fills that define Dream Theater's sound. Songs like \"The Count of Tuscany\" and \"A Change of Seasons\" require tom work that functions almost as melody, not just rhythm.\n\nThe kit's layout reflects Mangini's scientific approach. Every drum is positioned based on ergonomic analysis — optimal angles for stick attack, minimal movement between drums, and efficient energy transfer. This isn't intuitive placement; it's calculated positioning based on biomechanical principles.\n\nPearl's hardware — including their OptiMount suspension system — ensures the toms ring freely while maintaining stability during Mangini's demanding performances. When you're playing in 17/16 at 180 BPM, equipment failure isn't an option.",
+      "description": "Mike Mangini's Pearl Reference Series setup is one of the most extensive kits in progressive metal. Unlike minimalist drummers who prove their worth with four-piece kits, Mangini requires an arsenal that matches Dream Theater's compositional complexity. Songs like \"The Dance of Eternity,\" \"Octavarium,\" and his own contributions demand melodic tom work, multiple snare textures, and the full spectrum of percussive color.\n\nThe Reference Series shells provide the warmth and projection needed for Dream Theater's intricate arrangements. Maple is the go-to shell material for drummers who need both punch and musicality — and progressive metal demands both. The shells' bearing edges are precision-cut for optimal head-to-shell contact, translating every nuance of Mangini's meticulous technique.\n\nMangini's configuration typically includes two bass drums (though he often uses a double pedal in studio), five rack toms spanning 8\" to 14\", and two floor toms (16\"x14\" and 16\"x16\"). This extensive tom array allows for the melodic passages and complex fills that define Dream Theater's sound. Songs like \"The Count of Tuscany\" and \"A Change of Seasons\" require tom work that functions almost as melody, not just rhythm.\n\nThe kit's layout reflects Mangini's scientific approach. Every drum is positioned based on ergonomic analysis — optimal angles for stick attack, minimal movement between drums, and efficient energy transfer. This isn't intuitive placement; it's calculated positioning based on biomechanical principles.\n\nPearl's hardware — including their OptiMount suspension system — ensures the toms ring freely while maintaining stability during Mangini's demanding performances. When you're playing in 17/16 at 180 BPM, equipment failure isn't an option.",
       "notes": [
-        "Pearl Masterworks Maple for warmth and projection",
+        "Pearl Reference Series for warmth and projection",
         "Extensive multi-tom configuration for melodic drum work",
         "Ergonomically optimized positioning based on biomechanical analysis",
         "Multiple snare drums for tonal variety within songs",
         "OptiMount suspension system for optimal resonance"
       ],
-      "estimatedValue": "$8,000-15,000 (full Masterworks configuration)"
+      "estimatedValue": "$8,000-15,000 (full Reference Series configuration)"
     },
     "snare": {
       "title": "Multiple Snares for Multiple Moods",
@@ -152,9 +152,9 @@ export const articles = {
         {
           "type": "Bass Drum Pedals",
           "brand": "Pearl",
-          "model": "Pearl Eliminator Redline Double Pedal",
+          "model": "Pearl Demon Drive Double Pedal",
           "notes": "Adjustable cam system for personalized feel",
-          "description": "The Pearl Eliminator Redline represents decades of double pedal evolution. Its interchangeable cam system allows Mangini to fine-tune the pedal's response to match his technique — a feature that appeals to his scientific approach. Different cams produce different feels: more linear, more exponential, faster return. Mangini can optimize for specific songs or tours."
+          "description": "The Pearl Demon Drive represents decades of double pedal evolution. Its interchangeable cam system allows Mangini to fine-tune the pedal's response to match his technique — a feature that appeals to his scientific approach. Different cams produce different feels: more linear, more exponential, faster return. Mangini can optimize for specific songs or tours."
         },
         {
           "type": "Hi-Hat Stand",
@@ -245,7 +245,7 @@ export const articles = {
         {
           "category": "Kit",
           "then": "Various brands (session drummer)",
-          "now": "Pearl Masterworks Maple"
+          "now": "Pearl Reference Series (custom configuration)"
         },
         {
           "category": "Snare",
@@ -260,7 +260,7 @@ export const articles = {
         {
           "category": "Pedals",
           "then": "Various",
-          "now": "Pearl Eliminator Redline Double Pedal"
+          "now": "Pearl Demon Drive Double Pedal"
         },
         {
           "category": "Sticks",
@@ -308,7 +308,7 @@ export const articles = {
     "faq": [
       {
         "question": "What drum kit does Mike Mangini use with Dream Theater?",
-        "answer": "Mike Mangini plays a Pearl Masterworks Maple kit configured for maximum range and speed. His setup includes dual 22x18 inch bass drums, an unusually wide rack tom spread of 8, 10, 12, 13, and 14 inches, and floor toms at 16x14 and 16x16 inches. The maple shells with optimized bearing edges support his technically demanding playing style. Pearl built this as a custom Masterworks configuration tailored specifically to his ergonomic and tonal requirements."
+        "answer": "Mike Mangini plays a Pearl Reference Series kit configured for maximum range and speed. His setup includes dual 22x18 inch bass drums, an unusually wide rack tom spread of 8, 10, 12, 13, and 14 inches, and floor toms at 16x14 and 16x16 inches. The maple shells with optimized bearing edges support his technically demanding playing style. Pearl built this as a custom Reference Series configuration tailored specifically to his ergonomic and tonal requirements."
       },
       {
         "question": "What cymbals does Mike Mangini use with Dream Theater?",
@@ -316,12 +316,12 @@ export const articles = {
       },
       {
         "question": "How much does Mike Mangini's Dream Theater kit cost?",
-        "answer": "A Pearl Masterworks Maple shell pack comparable to Mangini's configuration ranges from $8,000 to $15,000, with custom finishes and extra toms pushing costs higher. Multiple Pearl Reference Series snares add $600 to $900 each. His expansive Sabian HHX and AAX cymbal rig, featuring two rides and multiple crashes, would cost $4,000 to $6,000 to replicate. A full recreation of his Dream Theater setup is realistically priced between $14,000 and $23,000."
+        "answer": "A Pearl Reference Series shell pack comparable to Mangini's configuration ranges from $8,000 to $15,000, with custom finishes and extra toms pushing costs higher. Multiple Pearl Reference Series snares add $600 to $900 each. His expansive Sabian HHX and AAX cymbal rig, featuring two rides and multiple crashes, would cost $4,000 to $6,000 to replicate. A full recreation of his Dream Theater setup is realistically priced between $14,000 and $23,000."
       }
     ],
     "conclusion": {
       "title": "The Academic Approach to Greatness",
-      "content": "Mike Mangini represents something unique in the drumming world: proof that scientific analysis and academic rigor can achieve results on par with raw natural talent. His Guinness World Records, his Berklee professorship, and his Dream Theater tenure all demonstrate that there's more than one path to the top.\n\nThe gear Mangini uses — Pearl Masterworks drums, Sabian cymbals, his signature Vic Firth sticks — is excellent equipment, but it's not what makes him exceptional. What makes him exceptional is the decades of study that allow him to extract maximum performance from any setup. The same biomechanical analysis that enabled his world records informs every aspect of his playing.\n\n**Lessons from Mike Mangini:**\n- **Science serves art**: Analysis and optimization can enhance, not replace, musical expression\n- **Multiple paths exist**: Raw talent and deliberate study can both achieve greatness\n- **Preparation matters**: World records and successful auditions come from disciplined practice\n- **Serve the music**: Even virtuoso technique should prioritize the song over personal showcase\n- **Never stop learning**: A computer science degree, a Berklee professorship, world records — Mangini never settled\n\nMangini's Dream Theater era will be debated alongside Portnoy's contributions. Some fans prefer the instinctive swagger of the original; others appreciate the calculated precision of the replacement. Both perspectives have merit. The beauty of Dream Theater's history is that fans can choose which era resonates with them.\n\nWhat's undeniable is that Mike Mangini belongs in conversations about the greatest drummers in progressive metal. His approach may be different from his peers — more academic, more analyzed, more intentional — but the results speak for themselves. Five Dream Theater albums, world tours, and a legacy as the drummer who proved that science and art can coexist at the highest level.\n\nWhen you watch Mangini navigate Dream Theater's impossible time signatures with mechanical precision and musical expression, you're seeing the culmination of a lifetime dedicated to understanding drumming at its deepest level. That's not just talent. That's science.\n\n🤘 *The Berklee approach to metal domination.* 🤘"
+      "content": "Mike Mangini represents something unique in the drumming world: proof that scientific analysis and academic rigor can achieve results on par with raw natural talent. His Guinness World Records, his Berklee professorship, and his Dream Theater tenure all demonstrate that there's more than one path to the top.\n\nThe gear Mangini uses — Pearl Reference Series drums, Sabian cymbals, his signature Vic Firth sticks — is excellent equipment, but it's not what makes him exceptional. What makes him exceptional is the decades of study that allow him to extract maximum performance from any setup. The same biomechanical analysis that enabled his world records informs every aspect of his playing.\n\n**Lessons from Mike Mangini:**\n- **Science serves art**: Analysis and optimization can enhance, not replace, musical expression\n- **Multiple paths exist**: Raw talent and deliberate study can both achieve greatness\n- **Preparation matters**: World records and successful auditions come from disciplined practice\n- **Serve the music**: Even virtuoso technique should prioritize the song over personal showcase\n- **Never stop learning**: A computer science degree, a Berklee professorship, world records — Mangini never settled\n\nMangini's Dream Theater era will be debated alongside Portnoy's contributions. Some fans prefer the instinctive swagger of the original; others appreciate the calculated precision of the replacement. Both perspectives have merit. The beauty of Dream Theater's history is that fans can choose which era resonates with them.\n\nWhat's undeniable is that Mike Mangini belongs in conversations about the greatest drummers in progressive metal. His approach may be different from his peers — more academic, more analyzed, more intentional — but the results speak for themselves. Five Dream Theater albums, world tours, and a legacy as the drummer who proved that science and art can coexist at the highest level.\n\nWhen you watch Mangini navigate Dream Theater's impossible time signatures with mechanical precision and musical expression, you're seeing the culmination of a lifetime dedicated to understanding drumming at its deepest level. That's not just talent. That's science.\n\n🤘 *The Berklee approach to metal domination.* 🤘"
     }
   },
   "distance-over-time-drum-setup": {

@@ -21,7 +21,7 @@ export const articles = {
     "dateModified": "2026-03-18",
     "author": "MetalForge Editorial",
     "title": "What's In Brann Dailor's Kit: Mastodon's Melodic Thunder Complete Breakdown",
-    "description": "Discover Brann Dailor's complete 2026 drum setup. Full breakdown of his DW Collector's kit, Meinl Byzance cymbals, signature gear, and the techniques behind Mastodon's progressive sludge sound.",
+    "description": "Discover Brann Dailor's complete 2026 drum setup. Full breakdown of his Tama Starclassic kit, Meinl Byzance cymbals, signature gear, and the techniques behind Mastodon's progressive sludge sound.",
     "seoKeywords": [
       "brann dailor drum kit",
       "brann dailor setup 2026",
@@ -39,7 +39,7 @@ export const articles = {
       "keyPoints": [
         "Melodic approach treats drums as a compositional instrument",
         "Constant flowing fills woven throughout songs, not isolated",
-        "DW Drums endorsee with Collector's Series kit",
+        "Tama Drums endorsee with Starclassic Performer B/B kit",
         "Meinl Byzance cymbals for complex, musical tones",
         "Sings complex vocal parts while performing demanding drum arrangements",
         "Four Grammy nominations with Mastodon",
@@ -47,9 +47,9 @@ export const articles = {
       ]
     },
     "drumKit": {
-      "title": "Brann's DW Collector's Armory",
-      "brand": "DW",
-      "model": "DW Collector's Series",
+      "title": "Brann's Tama Starclassic Armory",
+      "brand": "Tama",
+      "model": "Tama Starclassic Performer B/B",
       "finish": "Custom Finishes (varies by tour — often seafoam, natural, or custom graphics)",
       "config": {
         "bassdrums": [
@@ -63,29 +63,29 @@ export const articles = {
         "floorToms": [
           "16\" x 16\" Floor Tom"
         ],
-        "shells": "North American Hard Rock Maple with DW's proprietary bearing edges"
+        "shells": "Birch/bubinga hybrid shells (Tama Starclassic Performer B/B construction)"
       },
-      "description": "Brann Dailor's DW Collector's Series kit is the canvas for his flowing compositions. The maple shells provide the warm, resonant tone essential to his melodic approach — these drums sing, which is exactly what Brann needs for his compositional style.\n\nThe four-tom configuration (three rack, one floor) gives Brann the melodic range he requires. Listen to songs like \"Oblivion\" or \"The Czar\" and you'll hear him create actual melodies using these toms, tuned in musical intervals that let his patterns sing. Most metal drummers use toms for fills; Brann uses them as a melodic instrument.\n\nThe single 22\" x 18\" bass drum is notably modest for metal. While many of his peers use double bass or larger kicks, Brann relies on creative single-pedal patterns that drive Mastodon's grooves. His bass drum work is about placement and groove, not speed — though he's capable of speed when the song demands it.\n\nThe maple shells produce a warmth that complements Mastodon's blend of sludge and progressive rock. They have enough attack for heavy passages but enough sustain and body for melodic moments. DW's attention to bearing edges ensures consistent tone across dynamics.\n\nBrann's kit sizes have remained remarkably consistent throughout his career — proof that when you find your voice, you don't need to constantly upgrade. The Collector's Series gives him the quality to express that voice at the highest level.",
+      "description": "Brann Dailor's Tama Starclassic Performer B/B kit is the canvas for his flowing compositions. The birch/bubinga shells provide the warm, resonant tone essential to his melodic approach — these drums sing, which is exactly what Brann needs for his compositional style.\n\nThe four-tom configuration (three rack, one floor) gives Brann the melodic range he requires. Listen to songs like \"Oblivion\" or \"The Czar\" and you'll hear him create actual melodies using these toms, tuned in musical intervals that let his patterns sing. Most metal drummers use toms for fills; Brann uses them as a melodic instrument.\n\nThe single 22\" x 18\" bass drum is notably modest for metal. While many of his peers use double bass or larger kicks, Brann relies on creative single-pedal patterns that drive Mastodon's grooves. His bass drum work is about placement and groove, not speed — though he's capable of speed when the song demands it.\n\nThe birch/bubinga shells produce a warmth that complements Mastodon's blend of sludge and progressive rock. They have enough attack for heavy passages but enough sustain and body for melodic moments. Tama's attention to bearing edges ensures consistent tone across dynamics.\n\nBrann's kit sizes have remained remarkably consistent throughout his career — proof that when you find your voice, you don't need to constantly upgrade. The Starclassic Performer B/B gives him the quality to express that voice at the highest level.",
       "notes": [
         "Four-tom configuration for melodic versatility",
         "Single bass drum — creative patterns over speed",
-        "Maple shells provide warmth and resonance",
+        "Birch/bubinga shells provide warmth and resonance",
         "Toms tuned in musical intervals, not just pitches",
         "Kit size consistent across his career",
         "Custom finishes often reflect album themes"
       ],
-      "estimatedValue": "$6,000-9,000 (Collector's Series configuration)"
+      "estimatedValue": "$6,000-9,000 (Starclassic Performer B/B configuration)"
     },
     "snare": {
       "title": "The Melodic Crack",
-      "brand": "DW",
-      "model": "DW Collector's Series Metal Snare (Aluminum)",
+      "brand": "Tama",
+      "model": "Tama S.L.P. G-Maple",
       "size": "14\" x 6.5\"",
-      "shell": "Aluminum",
-      "description": "Brann's snare drum choice reflects his need for versatility. The DW Collector's aluminum snare provides the crack and cut needed for heavy passages while maintaining the sensitivity for ghost notes and dynamic work that defines his style.\n\nThe 6.5\" depth gives the drum body and projection — essential when competing with Mastodon's wall of guitar. But the aluminum shell keeps the response quick and bright, allowing for the delicate ghost notes that fill Brann's grooves.\n\nUnlike many metal drummers who crank their snares tight for maximum attack, Brann tunes for tone. His snare sings as much as it cracks, capable of expressing dynamics from whisper-quiet to thunderous. This tuning philosophy matches his melodic approach — the snare is an instrument, not just a backbeat machine.\n\nThe DW hardware and die-cast hoops provide consistent tuning and durable performance. Given Brann's dynamic playing style — which can shift from gentle to aggressive within a single measure — the snare needs to handle extreme variations without losing tone.\n\nOn recordings, Brann's snare cuts through Mastodon's dense arrangements while maintaining musicality. It's a drum that works equally well on aggressive tracks like \"Blood and Thunder\" and progressive pieces like \"Pendulous Skin.\"",
+      "shell": "Maple",
+      "description": "Brann's snare drum choice reflects his need for versatility. The Tama S.L.P. G-Maple snare provides the crack and cut needed for heavy passages while maintaining the sensitivity for ghost notes and dynamic work that defines his style.\n\nThe 6.5\" depth gives the drum body and projection — essential when competing with Mastodon's wall of guitar. But the maple shell keeps the response warm and articulate, allowing for the delicate ghost notes that fill Brann's grooves.\n\nUnlike many metal drummers who crank their snares tight for maximum attack, Brann tunes for tone. His snare sings as much as it cracks, capable of expressing dynamics from whisper-quiet to thunderous. This tuning philosophy matches his melodic approach — the snare is an instrument, not just a backbeat machine.\n\nThe Tama hardware and die-cast hoops provide consistent tuning and durable performance. Given Brann's dynamic playing style — which can shift from gentle to aggressive within a single measure — the snare needs to handle extreme variations without losing tone.\n\nOn recordings, Brann's snare cuts through Mastodon's dense arrangements while maintaining musicality. It's a drum that works equally well on aggressive tracks like \"Blood and Thunder\" and progressive pieces like \"Pendulous Skin.\"",
       "tuningSetting": "Medium-high for crack and sensitivity, but tuned for tone rather than maximum attack",
       "heads": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)",
-      "estimatedValue": "$600-900 (Collector's aluminum snare)"
+      "estimatedValue": "$600-900 (S.L.P. G-Maple snare)"
     },
     "cymbals": {
       "title": "The Meinl Byzance Collection",
@@ -137,15 +137,15 @@ export const articles = {
       "items": [
         {
           "type": "Bass Drum Pedal",
-          "brand": "DW",
-          "model": "DW 9000 Series Single Pedal",
-          "notes": "Single pedal — Brann relies on creative patterns, not double bass",
-          "description": "The DW 9000's smooth action and adjustability allow Brann to achieve the nuanced bass drum work that defines his playing. He uses single pedal for nearly everything, proving that creativity trumps speed."
+          "brand": "Tama",
+          "model": "Tama Speed Cobra",
+          "notes": "Double pedal, played primarily single-footed — Brann relies on creative patterns, not double bass",
+          "description": "The Speed Cobra's smooth action and adjustability allow Brann to achieve the nuanced bass drum work that defines his playing. He plays it single-footed for nearly everything, proving that creativity trumps speed."
         },
         {
           "type": "Hi-Hat Stand",
-          "brand": "DW",
-          "model": "DW 9000 Series Hi-Hat Stand",
+          "brand": "Tama",
+          "model": "Tama Iron Cobra Lever Glide Hi-Hat Stand",
           "notes": "Quick, responsive for dynamic hi-hat work"
         },
         {
@@ -163,10 +163,10 @@ export const articles = {
         },
         {
           "type": "Rack",
-          "brand": "DW",
-          "model": "DW 9000 Series Stands (no rack)",
+          "brand": "Tama",
+          "model": "Tama Titan Series Stands (no rack)",
           "notes": "Individual stands rather than a rack system",
-          "description": "Brann uses individual DW stands rather than a rack, giving him flexibility in setup angles and positions."
+          "description": "Brann uses individual Tama stands rather than a rack, giving him flexibility in setup angles and positions."
         }
       ],
       "heads": {
@@ -218,10 +218,10 @@ export const articles = {
         ],
         "description": "Progressive breakthrough and commercial success.",
         "gear": {
-          "drums": "DW Collector's Series (start of endorsement)",
-          "snare": "DW Collector's Metal",
+          "drums": "Tama Starclassic (deepening endorsement)",
+          "snare": "Tama steel/aluminum snares",
           "cymbals": "Meinl Byzance (start of partnership)",
-          "hardware": "DW 9000 Series"
+          "hardware": "Tama Iron Cobra hardware"
         },
         "notes": "Found the gear that would define his mature sound."
       },
@@ -235,10 +235,10 @@ export const articles = {
         ],
         "description": "Grammy nominations and artistic peak.",
         "gear": {
-          "drums": "DW Collector's Series (refined)",
-          "snare": "DW Collector's Aluminum 14x6.5\"",
+          "drums": "Tama Starclassic (refined)",
+          "snare": "Tama S.L.P. snares",
           "cymbals": "Meinl Byzance full setup",
-          "hardware": "DW 9000 Series"
+          "hardware": "Tama Iron Cobra hardware"
         },
         "notes": "Setup stable; focus on composition and vocal work."
       },
@@ -250,10 +250,10 @@ export const articles = {
         ],
         "description": "Continuing to evolve while maintaining core setup.",
         "gear": {
-          "drums": "DW Collector's Series Maple",
-          "snare": "DW Collector's Aluminum 14x6.5\"",
+          "drums": "Tama Starclassic Performer B/B",
+          "snare": "Tama S.L.P. G-Maple 14x6.5\"",
           "cymbals": "Meinl Byzance Traditional/Brilliant",
-          "hardware": "DW 9000 Series"
+          "hardware": "Tama Speed Cobra / Iron Cobra hardware"
         },
         "notes": "Gear settled; focus on artistic expression."
       }
@@ -337,7 +337,7 @@ export const articles = {
     ],
     "vocalDrumming": {
       "title": "The Dual Instrument: Singing While Playing",
-      "content": "Brann Dailor's ability to sing while executing his demanding drum parts represents one of the most impressive skills in modern rock. Understanding how he achieves this illuminates both his drumming approach and his gear requirements.\n\n**Development:**\nBrann didn't start Mastodon as a vocalist. Early albums featured minimal vocal contributions from him. But as the band evolved, so did his role, until by \"Crack the Skye\" he was handling substantial lead vocal duties. This evolution was gradual — learning to sing simple parts while grooving, then adding complexity to both.\n\n**Groove Memory:**\nThe key to singing while playing complex parts is making the drumming automatic. Brann's grooves are internalized so deeply that his hands and feet work independently of conscious thought. This allows his mind to focus on vocals while his body handles the drums.\n\n**Pattern-Based Approach:**\nListen carefully and you'll notice that Brann's fills, while constant, are often based on repeating patterns. This predictability (within creative variation) makes singing easier — he knows what's coming because his body has memorized the vocabulary.\n\n**Gear Requirements:**\nSinging while playing requires gear that doesn't fight you. Brann's setup is optimized for feel and response: the DW 9000 pedal's smooth action, the Roc-N-Soc throne's comfort, the Meinl cymbals' even response across dynamics. Any gear that demands conscious attention would make singing impossible.\n\n**Live Challenges:**\nIn concert, Brann handles backing vocals and occasional leads while playing some of metal's most demanding drum parts. The combination of physical exertion and breath control for singing requires exceptional fitness and technique.\n\n**Influence:**\nBrann's vocal drumming has influenced younger drummers to develop singing abilities. In an era of click tracks and triggered drums, his organic, multitasking approach feels revolutionary."
+      "content": "Brann Dailor's ability to sing while executing his demanding drum parts represents one of the most impressive skills in modern rock. Understanding how he achieves this illuminates both his drumming approach and his gear requirements.\n\n**Development:**\nBrann didn't start Mastodon as a vocalist. Early albums featured minimal vocal contributions from him. But as the band evolved, so did his role, until by \"Crack the Skye\" he was handling substantial lead vocal duties. This evolution was gradual — learning to sing simple parts while grooving, then adding complexity to both.\n\n**Groove Memory:**\nThe key to singing while playing complex parts is making the drumming automatic. Brann's grooves are internalized so deeply that his hands and feet work independently of conscious thought. This allows his mind to focus on vocals while his body handles the drums.\n\n**Pattern-Based Approach:**\nListen carefully and you'll notice that Brann's fills, while constant, are often based on repeating patterns. This predictability (within creative variation) makes singing easier — he knows what's coming because his body has memorized the vocabulary.\n\n**Gear Requirements:**\nSinging while playing requires gear that doesn't fight you. Brann's setup is optimized for feel and response: the Speed Cobra pedal's smooth action, the Roc-N-Soc throne's comfort, the Meinl cymbals' even response across dynamics. Any gear that demands conscious attention would make singing impossible.\n\n**Live Challenges:**\nIn concert, Brann handles backing vocals and occasional leads while playing some of metal's most demanding drum parts. The combination of physical exertion and breath control for singing requires exceptional fitness and technique.\n\n**Influence:**\nBrann's vocal drumming has influenced younger drummers to develop singing abilities. In an era of click tracks and triggered drums, his organic, multitasking approach feels revolutionary."
     },
     "videos": [
       {
@@ -353,28 +353,28 @@ export const articles = {
     ],
     "buyingGuide": {
       "title": "Getting the Brann Dailor Sound: A Buyer's Guide",
-      "content": "Capturing Brann's sound is less about specific gear and more about tuning and technique. That said, here's how to approach building a Brann-inspired setup at various budgets.\n\n**Budget Approach ($1,500-2,500):**\n- PDP Concept Maple kit — DW quality at lower price\n- Meinl HCS or Classics Custom cymbals — entry to Meinl tone\n- DW 3000 single pedal — smooth DW feel\n- Vic Firth 5A sticks\n- Key: Tune toms melodically in musical intervals. This matters more than kit quality.\n\n**Mid-Range Approach ($3,500-5,500):**\n- DW Performance Series kit — professional DW quality\n- Meinl Byzance Traditional basic setup — the real deal\n- DW 5000 single pedal — excellent feel\n- Remo Ambassador/Emperor heads\n- Key: Invest in Byzance cymbals. Their complex tone is essential to the sound.\n\n**Professional Approach ($7,000+):**\n- DW Collector's Series — Brann's actual kit line\n- Meinl Byzance Traditional full setup — complete palette\n- DW 9000 single pedal — top-of-line feel\n- Full head complement\n- Key: At this level, focus on custom shell sizes and finishes that inspire you.",
+      "content": "Capturing Brann's sound is less about specific gear and more about tuning and technique. That said, here's how to approach building a Brann-inspired setup at various budgets.\n\n**Budget Approach ($1,500-2,500):**\n- Tama Imperialstar kit — Tama quality at lower price\n- Meinl HCS or Classics Custom cymbals — entry to Meinl tone\n- Tama HP200 single pedal — smooth Tama feel\n- Vic Firth 5A sticks\n- Key: Tune toms melodically in musical intervals. This matters more than kit quality.\n\n**Mid-Range Approach ($3,500-5,500):**\n- Tama Superstar Hyper-Drive kit — professional Tama quality\n- Meinl Byzance Traditional basic setup — the real deal\n- Tama Iron Cobra single pedal — excellent feel\n- Remo Ambassador/Emperor heads\n- Key: Invest in Byzance cymbals. Their complex tone is essential to the sound.\n\n**Professional Approach ($7,000+):**\n- Tama Starclassic Performer B/B — Brann's actual kit line\n- Meinl Byzance Traditional full setup — complete palette\n- Tama Speed Cobra single pedal — top-of-line feel\n- Full head complement\n- Key: At this level, focus on custom shell sizes and finishes that inspire you.",
       "budgetBreakdown": {
         "budget": {
           "total": "$1,500-2,500",
           "drums": "$1,000",
           "cymbals": "$400",
           "hardware": "$200",
-          "notes": "PDP Concept Maple is the sweet spot"
+          "notes": "Tama Imperialstar is the sweet spot"
         },
         "mid": {
           "total": "$3,500-5,500",
           "drums": "$2,000",
           "cymbals": "$1,200",
           "hardware": "$400",
-          "notes": "DW Performance + Byzance Traditional"
+          "notes": "Tama Superstar + Byzance Traditional"
         },
         "pro": {
           "total": "$7,000+",
           "drums": "$3,500+",
           "cymbals": "$2,500+",
           "hardware": "$500+",
-          "notes": "DW Collector's full setup"
+          "notes": "Tama Starclassic full setup"
         }
       }
     },
@@ -413,7 +413,7 @@ export const articles = {
     "faq": [
       {
         "question": "What drum kit does Brann Dailor use?",
-        "answer": "Brann Dailor plays a DW Collector's Series kit with North American Hard Rock Maple shells. His setup features a single 22x18 inch bass drum, rack toms at 10, 12, and 13 inches, and a 16 inch floor tom. The DW Collector's Series is fully customizable from the factory and is known for its warm, resonant maple tone, which suits Dailor's melodic and technically demanding approach as Mastodon's drummer and vocalist."
+        "answer": "Brann Dailor plays a Tama Starclassic Performer B/B kit with birch/bubinga hybrid shells. His setup features a single 22x18 inch bass drum, rack toms at 10, 12, and 13 inches, and a 16 inch floor tom. The Starclassic Performer B/B is known for its warm, resonant tone, which suits Dailor's melodic and technically demanding approach as Mastodon's drummer and vocalist."
       },
       {
         "question": "What cymbals does Brann Dailor use?",
@@ -421,12 +421,12 @@ export const articles = {
       },
       {
         "question": "How much does Brann Dailor's drum kit cost?",
-        "answer": "A DW Collector's Series kit configured to Dailor's specifications with Hard Rock Maple shells runs between $6,000 and $9,000. His DW Collector's Series aluminum snare drum adds approximately $600 to $900. A matching Meinl Byzance cymbal setup comparable to his will add another $1,500 to $2,500. Total estimated cost to replicate his full Mastodon setup is in the range of $8,100 to $12,400."
+        "answer": "A Tama Starclassic Performer B/B kit configured to Dailor's specifications with birch/bubinga shells runs between $6,000 and $9,000. His Tama S.L.P. G-Maple snare drum adds approximately $600 to $900. A matching Meinl Byzance cymbal setup comparable to his will add another $1,500 to $2,500. Total estimated cost to replicate his full Mastodon setup is in the range of $8,100 to $12,400."
       }
     ],
     "conclusion": {
       "title": "The Flow State",
-      "content": "Brann Dailor has achieved something rare in heavy music: complete artistic identity. From the first fill, you know it's him. Not because of a signature sound or a technical gimmick, but because his entire approach to the instrument is unique. He doesn't play drums — he composes with them.\n\nThe gear — DW Collector's drums, Meinl Byzance cymbals, standard 5A sticks — supports rather than defines his sound. These are tools for expression, not crutches for inadequacy. Brann could make a budget kit sing because his artistry lies in his hands, his ears, and his compositional mind.\n\nFor drummers inspired by Brann's approach, the lessons extend beyond gear and technique:\n\n- **Compose, don't just play**: Think of drum parts as melodies\n- **Space is musical**: Dynamics and silence are as important as notes\n- **Develop vocabulary, not just chops**: Brann's endless fills come from an internalized language\n- **Multi-task for art**: Singing while playing serves the music\n- **Tune for tone**: Your drums should sing, not just make noise\n- **Creativity beats speed**: Single pedal patterns can be more interesting than double bass blasts\n\nFrom the underground grind of Lethargy to Grammy-nominated Mastodon, from instrumental obscurity to singing lead on major releases, Brann Dailor's career is a masterclass in artistic evolution. He never stopped growing, never settled for what worked, never stopped asking what else drums could do.\n\nThe flow continues. The whales rise. And somewhere, Brann Dailor is playing a fill you've never heard — because he's never played it before either.\n\n🥁 *\"Every moment deserves its own expression.\"* 🌊"
+      "content": "Brann Dailor has achieved something rare in heavy music: complete artistic identity. From the first fill, you know it's him. Not because of a signature sound or a technical gimmick, but because his entire approach to the instrument is unique. He doesn't play drums — he composes with them.\n\nThe gear — Tama Starclassic drums, Meinl Byzance cymbals, standard 5A sticks — supports rather than defines his sound. These are tools for expression, not crutches for inadequacy. Brann could make a budget kit sing because his artistry lies in his hands, his ears, and his compositional mind.\n\nFor drummers inspired by Brann's approach, the lessons extend beyond gear and technique:\n\n- **Compose, don't just play**: Think of drum parts as melodies\n- **Space is musical**: Dynamics and silence are as important as notes\n- **Develop vocabulary, not just chops**: Brann's endless fills come from an internalized language\n- **Multi-task for art**: Singing while playing serves the music\n- **Tune for tone**: Your drums should sing, not just make noise\n- **Creativity beats speed**: Single pedal patterns can be more interesting than double bass blasts\n\nFrom the underground grind of Lethargy to Grammy-nominated Mastodon, from instrumental obscurity to singing lead on major releases, Brann Dailor's career is a masterclass in artistic evolution. He never stopped growing, never settled for what worked, never stopped asking what else drums could do.\n\nThe flow continues. The whales rise. And somewhere, Brann Dailor is playing a fill you've never heard — because he's never played it before either.\n\n🥁 *\"Every moment deserves its own expression.\"* 🌊"
     }
   },
   "brann-dailor-mastodon-drum-setup": {

@@ -4884,20 +4884,19 @@ Priester is considered one of the greatest power metal drummers in the world. Hi
       },
       gearHighlights: {
         title: 'Gear Highlights',
-        content: `Aquiles Priester plays a Pearl Reference kit paired with his own Promark signature sticks. His setup is designed for both extreme speed and powerful stage presence during high-energy performances.
+        content: `Aquiles Priester plays a Mapex Saturn Evolution signature kit paired with his own ProMark signature sticks. His setup is designed for both extreme speed and powerful stage presence during high-energy performances.
 
 **Current Setup:**
-- **Drums**: Pearl Reference Series (custom finishes)
-- **Snare**: Pearl Reference 14"x6.5" Brass
-- **Cymbals**: Sabian HHX and AAX Series (14" HHX Evolution Hi-Hats, 18"/19" HHX X-Plosion Crashes, 21" HHX Groove Ride, 18" AAX Chinese)
-- **Hardware**: Pearl Demon Drive double pedal, Pearl Icon Rack System
-- **Sticks**: ProMark TX419W Aquiles Priester Autograph
+- **Drums**: Mapex Saturn Evolution All Maple (Aquiles Priester signature kit)
+- **Cymbals**: Paiste (custom red-coated set, including his 18" Psychoctopus Giga Bell Ride)
+- **Hardware**: DW 9000 Series double pedal, DW 9000 Series hi-hat stand, Gibraltar racks
+- **Sticks**: ProMark Aquiles Priester Signature
 - **Heads**: Evans
 
 **Signature Product Features:**
 - ProMark signature sticks designed for speed and power
-- Pearl Demon Drive pedal for rapid-fire double bass
-- Preference for Reference series drums for projection and clarity`
+- Mapex Saturn Evolution kit — the first Brazilian-drummer signature kit from a global drum brand
+- DW 9000 double pedal for rapid-fire double bass`
       },
       trivia: {
         title: 'Trivia & Notes',
@@ -4916,22 +4915,22 @@ Priester is considered one of the greatest power metal drummers in the world. Hi
       faq: {
         title: 'Frequently Asked Questions',
         items: [
-          { q: 'What drum kit does Aquiles Priester use?', a: 'Aquiles Priester\'s drum kit is a Pearl Reference Series kit, a dense, multi-ply shell pack chosen for powerful low end and quick rebound. It centers on a Pearl Reference 14"x6.5" brass snare and is topped with Sabian HHX and AAX cymbals, driven by a Pearl Demon Drive double pedal mounted on Pearl\'s Icon Rack System.' },
-          { q: 'What drum set does Aquiles Priester use?', a: 'Aquiles Priester\'s drum set is a Pearl Reference Series configuration built around a bright, cutting Pearl Reference 14"x6.5" brass snare. The drum set carries Sabian HHX and AAX Series cymbals, a Pearl Demon Drive double pedal, and his signature Promark TX419W sticks.' },
-          { q: 'What cymbals does Aquiles Priester use?', a: 'Aquiles Priester uses Sabian HHX and AAX Series cymbals: 14" HHX Evolution Hi-Hats, 18" and 19" HHX X-Plosion Crashes, a 21" HHX Groove Ride, and an 18" AAX Chinese cymbal.' },
-          { q: 'What hi-hats does Aquiles Priester use?', a: 'Aquiles Priester plays 14" Sabian HHX Evolution Hi-Hats, delivering the bright, articulate chick sound that keeps pace with his rapid single- and double-stroke fills.' },
-          { q: 'What snare drum does Aquiles Priester play?', a: 'Aquiles Priester plays a Pearl Reference 14"x6.5" brass snare, prized for a bright, cutting crack that keeps his rapid single- and double-stroke fills audible through dense progressive power metal arrangements.' },
-          { q: 'What bass drum pedals does Aquiles Priester use?', a: 'Aquiles Priester uses a Pearl Demon Drive double bass drum pedal, mounted on Pearl\'s Icon Rack System, delivering the sustained, high-speed double-bass patterns his playing is known for.' },
+          { q: 'What drum kit does Aquiles Priester use?', a: 'Aquiles Priester\'s drum kit is the Mapex Saturn Evolution All Maple — his own signature kit, and the first Brazilian-drummer signature kit released by a global drum brand. It is topped with Paiste cymbals (a custom red-coated set) and driven by a DW 9000 Series double pedal.' },
+          { q: 'What drum set does Aquiles Priester use?', a: 'Aquiles Priester\'s drum set is his Mapex Saturn Evolution All Maple signature kit. The drum set carries a custom red-coated Paiste cymbal setup, a DW 9000 Series double pedal, and his signature ProMark sticks.' },
+          { q: 'What cymbals does Aquiles Priester use?', a: 'Aquiles Priester uses Paiste cymbals, playing a custom red-coated set that includes his 18" Psychoctopus Giga Bell Ride.' },
+          { q: 'What hi-hats does Aquiles Priester use?', a: 'Aquiles Priester plays Paiste hi-hats from his custom red-coated set, delivering the bright, articulate chick sound that keeps pace with his rapid single- and double-stroke fills.' },
+          { q: 'What snare drum does Aquiles Priester play?', a: 'Aquiles Priester plays the snare from his Mapex Saturn Evolution All Maple signature kit, prized for a bright, cutting crack that keeps his rapid single- and double-stroke fills audible through dense progressive power metal arrangements.' },
+          { q: 'What bass drum pedals does Aquiles Priester use?', a: 'Aquiles Priester uses a DW 9000 Series double bass drum pedal, mounted alongside a DW 9000 Series hi-hat stand and Gibraltar racks, delivering the sustained, high-speed double-bass patterns his playing is known for.' },
           { q: 'What band is Aquiles Priester in?', a: 'Aquiles Priester is best known for his work with Angra (2000-2012, 2023-present) and W.A.S.P. (2006-present), along with his own project Hangar.' },
-          { q: 'What drumsticks does Aquiles Priester use?', a: 'Aquiles Priester uses his signature Promark TX419W Aquiles Priester Autograph drumsticks.' },
-          { q: 'What drumheads does Aquiles Priester use?', a: 'Aquiles Priester uses Evans drumheads across his Pearl Reference Series kit.' },
-          { q: 'What hardware does Aquiles Priester use?', a: 'Aquiles Priester mounts his Pearl Demon Drive double pedal on Pearl\'s Icon Rack System, supporting his Pearl Reference Series drum kit and drum set on world tours.' }
+          { q: 'What drumsticks does Aquiles Priester use?', a: 'Aquiles Priester uses his own ProMark Aquiles Priester Signature drumsticks.' },
+          { q: 'What drumheads does Aquiles Priester use?', a: 'Aquiles Priester uses Evans drumheads across his Mapex Saturn Evolution All Maple kit.' },
+          { q: 'What hardware does Aquiles Priester use?', a: 'Aquiles Priester mounts his DW 9000 Series double pedal and DW 9000 Series hi-hat stand on Gibraltar racks, supporting his Mapex Saturn Evolution kit on world tours.' }
         ]
       },
       sources: {
         title: 'Sources',
         items: [
-          { name: 'Pearl Drums', url: 'https://pearldrum.com' },
+          { name: 'Aquiles Priester Official — Setup 2022', url: 'https://aquilespriester.com/site/setup-2022/' },
           { name: 'ProMark', url: 'https://www.daddario.com/pages/artists/aquiles-priester' },
           { name: 'Wikipedia: Aquiles Priester', url: 'https://en.wikipedia.org/wiki/Aquiles_Priester' },
           { name: 'Angra Official', url: 'https://www.angra.net/' },

@@ -15,13 +15,13 @@ export const articles = {
     "dateModified": "2026-07-08",
     "author": "MetalForge Editorial",
     "title": "Periphery Drum Setup — Travis Orbin's Gear on the 2010 Debut Album",
-    "description": "How Travis Orbin's DW Collector's Series kit, Zildjian cymbals, and Roland trigger integration built the drum sound on Periphery's self-titled 2010 debut — the album that gave djent its technical vocabulary.",
+    "description": "How Travis Orbin's SJC Custom kit, Zildjian cymbals, and Roland trigger integration built the drum sound on Periphery's self-titled 2010 debut — the album that gave djent its technical vocabulary.",
     "seoKeywords": [
       "periphery debut album drums",
       "travis orbin periphery drum setup",
       "periphery 2010 drum kit",
       "periphery self titled drums",
-      "travis orbin dw collectors series",
+      "travis orbin sjc custom drums",
       "icarus lives drums",
       "djent debut album drumming",
       "periphery sumerian records drums",
@@ -31,20 +31,20 @@ export const articles = {
     "ogImage": "/images/albums/periphery-drum-setup.webp",
     "intro": {
       "title": "Periphery (2010): The Album That Named a Genre",
-      "content": "Released on March 30, 2010 through Sumerian Records, Periphery's self-titled debut is the record most commonly credited with turning \"djent\" from an onomatopoeic in-joke about palm-muted guitar tone into a recognized subgenre with its own technical vocabulary. The album had been years in the making — built around Misha Mansoor's bedroom demos and reshaped as the band assembled a lineup — and by the time it reached listeners, Travis Orbin's drumming was as central to its identity as the guitar tone that gave the genre its name.\n\nOrbin joined Periphery during the final stages of the album's assembly, and his contribution reshaped tracks like \"Icarus Lives!\", \"Jetpacks Was Yes!\", and \"Racecar\" into performances that drummers spent years transcribing. Where the guitar riffs established djent's rhythmic complexity on paper, Orbin's playing proved it could be executed with musicality intact — polyrhythmic phrasing, dense ghost-note work, and two-footed bass drum patterns that functioned as independent melodic voices rather than pure velocity displays.\n\nThe drum sound on Periphery reflects the album's hybrid production reality: a band recording largely outside a traditional big-budget studio, building tracks around programmed elements and live performance in equal measure. Orbin's acoustic kit — the same DW Collector's Series shells, Zildjian K Custom and A Custom cymbals, and Roland SPD-SX trigger integration that defined his rig throughout his Periphery tenure — had to sit convincingly alongside the record's electronic textures without sounding bolted on. That the album's drums still sound vital and human, rather than quantized, is a direct result of Orbin's approach to triggering: consistency married to genuine acoustic dynamics rather than a replacement for them.\n\nThe album's commercial and critical impact cannot be separated from its drumming. \"Icarus Lives!\" became djent's de facto anthem, and Orbin's performance on it — the song's syncopated verse groove, the widening polyrhythmic bridge, the sheer stamina required across its runtime — set a technical bar that the genre's subsequent drummers, including his own successor, were measured against. When Orbin departed Periphery in 2012, Matt Halpern inherited a drum chair whose baseline expectations had already been permanently raised. For the successor era, see [Matt Halpern's complete gear guide at MetalForge](/drummer/matt-halpern).\n\nThis article breaks down the drum kit, cymbals, and trigger setup behind Periphery's debut album — the gear and technique that gave djent drumming its first fully realized statement.",
+      "content": "Released on March 30, 2010 through Sumerian Records, Periphery's self-titled debut is the record most commonly credited with turning \"djent\" from an onomatopoeic in-joke about palm-muted guitar tone into a recognized subgenre with its own technical vocabulary. The album had been years in the making — built around Misha Mansoor's bedroom demos and reshaped as the band assembled a lineup — and by the time it reached listeners, Travis Orbin's drumming was as central to its identity as the guitar tone that gave the genre its name.\n\nOrbin joined Periphery during the final stages of the album's assembly, and his contribution reshaped tracks like \"Icarus Lives!\", \"Jetpacks Was Yes!\", and \"Racecar\" into performances that drummers spent years transcribing. Where the guitar riffs established djent's rhythmic complexity on paper, Orbin's playing proved it could be executed with musicality intact — polyrhythmic phrasing, dense ghost-note work, and two-footed bass drum patterns that functioned as independent melodic voices rather than pure velocity displays.\n\nThe drum sound on Periphery reflects the album's hybrid production reality: a band recording largely outside a traditional big-budget studio, building tracks around programmed elements and live performance in equal measure. Orbin's acoustic kit — the same SJC Custom shells, Zildjian K Custom and A Custom cymbals, and Roland SPD-SX trigger integration that defined his rig throughout his Periphery tenure — had to sit convincingly alongside the record's electronic textures without sounding bolted on. That the album's drums still sound vital and human, rather than quantized, is a direct result of Orbin's approach to triggering: consistency married to genuine acoustic dynamics rather than a replacement for them.\n\nThe album's commercial and critical impact cannot be separated from its drumming. \"Icarus Lives!\" became djent's de facto anthem, and Orbin's performance on it — the song's syncopated verse groove, the widening polyrhythmic bridge, the sheer stamina required across its runtime — set a technical bar that the genre's subsequent drummers, including his own successor, were measured against. When Orbin departed Periphery in 2012, Matt Halpern inherited a drum chair whose baseline expectations had already been permanently raised. For the successor era, see [Matt Halpern's complete gear guide at MetalForge](/drummer/matt-halpern).\n\nThis article breaks down the drum kit, cymbals, and trigger setup behind Periphery's debut album — the gear and technique that gave djent drumming its first fully realized statement.",
       "keyPoints": [
         "Released March 30, 2010 on Sumerian Records — the album most credited with defining djent as a genre",
         "Travis Orbin's drumming on 'Icarus Lives!' became the genre's technical benchmark track",
-        "DW Collector's Series kit and Zildjian K Custom/A Custom cymbals formed the acoustic foundation",
+        "SJC Custom kit and Zildjian K Custom/A Custom cymbals formed the acoustic foundation",
         "Roland SPD-SX and bass drum triggers integrated electronic texture without sacrificing acoustic dynamics",
         "Orbin's polyrhythmic, ghost-note-dense playing proved djent's guitar complexity translated to drums",
         "Set the technical baseline later carried forward by successor drummer Matt Halpern"
       ]
     },
     "drumKit": {
-      "title": "DW Collector's Series: The Acoustic Foundation of Djent's Debut",
-      "brand": "DW",
-      "model": "DW Collector's Series",
+      "title": "SJC Custom: The Acoustic Foundation of Djent's Debut",
+      "brand": "SJC Custom",
+      "model": "SJC Custom Drums",
       "finish": "Natural maple / custom touring finish",
       "config": {
         "bassdrums": [
@@ -58,16 +58,16 @@ export const articles = {
           "14\" x 14\" Floor Tom",
           "16\" x 16\" Floor Tom"
         ],
-        "shells": "North American maple shells — DW Collector's custom ply construction"
+        "shells": "North American maple shells — SJC Custom shell pack construction"
       },
-      "description": "For Periphery's debut, Orbin's DW Collector's Series shells needed to do something unusual: sound acoustically warm and human enough to counterbalance the record's programmed and heavily processed guitar tones, while remaining articulate enough that dense polyrhythmic patterns didn't dissolve into mush under layers of high-gain guitar. DW's North American maple construction, with its balanced low-mid warmth and controlled high-frequency attack, was suited to exactly that brief.\n\nThe double 22\" bass drum configuration was essential to tracks like 'Icarus Lives!' and 'Jetpacks Was Yes!', where two-footed patterns function as an independent rhythmic voice rather than a simple double-time reinforcement of the guitar riff. Both kicks were tuned and dampened identically, ensuring the syncopated interplay between feet read as a single coherent musical line rather than two mismatched drums.\n\nThe four-tom spread (10\", 12\", 14\", 16\") gave Orbin the melodic range Periphery's arrangements demanded for fills that function as compositional bridges between riffs rather than mere transitions. On a debut album built from dense, technically demanding material, the DW Collector's shell precision meant Orbin's tom fills spoke at distinct, reliable pitches take after take — a critical requirement when a band is recording and re-recording complex material without a major-label budget's studio time to spare.",
+      "description": "For Periphery's debut, Orbin's SJC Custom shells needed to do something unusual: sound acoustically warm and human enough to counterbalance the record's programmed and heavily processed guitar tones, while remaining articulate enough that dense polyrhythmic patterns didn't dissolve into mush under layers of high-gain guitar. SJC Custom's North American maple construction, with its balanced low-mid warmth and controlled high-frequency attack, was suited to exactly that brief.\n\nThe double 22\" bass drum configuration was essential to tracks like 'Icarus Lives!' and 'Jetpacks Was Yes!', where two-footed patterns function as an independent rhythmic voice rather than a simple double-time reinforcement of the guitar riff. Both kicks were tuned and dampened identically, ensuring the syncopated interplay between feet read as a single coherent musical line rather than two mismatched drums.\n\nThe four-tom spread (10\", 12\", 14\", 16\") gave Orbin the melodic range Periphery's arrangements demanded for fills that function as compositional bridges between riffs rather than mere transitions. On a debut album built from dense, technically demanding material, the SJC Custom shell precision meant Orbin's tom fills spoke at distinct, reliable pitches take after take — a critical requirement when a band is recording and re-recording complex material without a major-label budget's studio time to spare.",
       "notes": [
-        "DW Collector's Series maple shells — balanced warmth and attack for a debut built on dense arrangements",
+        "SJC Custom maple shells — balanced warmth and attack for a debut built on dense arrangements",
         "Double 22\" bass drums tuned identically for coherent two-footed djent patterns",
         "Four-tom spread for compositional fills within Periphery's technical songwriting",
         "Acoustic clarity essential to sitting alongside the album's programmed and processed elements"
       ],
-      "estimatedValue": "$4,000–7,500 (DW Collector's shell pack, 2010 configuration)"
+      "estimatedValue": "$2,500–4,500 (SJC Custom shell pack, 2010 configuration)"
     },
     "cymbals": {
       "title": "Zildjian K Custom and A Custom: Cutting Through Djent's Guitar Wall",
@@ -146,7 +146,7 @@ export const articles = {
       },
       {
         "question": "What drum kit did Travis Orbin use on Periphery's debut album?",
-        "answer": "Travis Orbin used a DW Collector's Series kit with North American maple shells, configured with double 22\" bass drums and a four-tom spread (10\", 12\", 14\", 16\"). He paired it with Zildjian K Custom Dark hi-hats and ride, and Zildjian A Custom crash and china cymbals — a combination chosen to stay articulate against the album's dense, mid-scooped guitar tone. Electronic bass drum triggers and a Roland SPD-SX sampling pad integrated the acoustic kit with the record's programmed elements."
+        "answer": "Travis Orbin used an SJC Custom kit with North American maple shells, configured with double 22\" bass drums and a four-tom spread (10\", 12\", 14\", 16\"). He paired it with Zildjian K Custom Dark hi-hats and ride, and Zildjian A Custom crash and china cymbals — a combination chosen to stay articulate against the album's dense, mid-scooped guitar tone. Electronic bass drum triggers and a Roland SPD-SX sampling pad integrated the acoustic kit with the record's programmed elements."
       },
       {
         "question": "Why is Periphery's debut album considered foundational to djent?",
@@ -177,7 +177,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "The Debut That Set Djent's Technical Standard",
-      "content": "Periphery's self-titled debut endures because it delivered on the promise its guitar riffs made: that djent's rhythmic complexity could be played, not just programmed. Travis Orbin's drumming — DW Collector's Series shells for acoustic clarity, Zildjian K Custom and A Custom cymbals for cutting through a dense guitar wall, and Roland trigger integration for a hybrid sound that never felt mechanical — is the reason the album's drum parts are still studied and transcribed more than a decade later.\n\n**Explore related content at MetalForge:**\n- **Travis Orbin drummer profile**: [/drummer/travis-orbin](/drummer/travis-orbin)\n- **Matt Halpern's gear breakdown**: [/drummer/matt-halpern](/drummer/matt-halpern) — the successor era\n- **Periphery II drum setup**: [/articles/periphery-ii-drum-setup](/articles/periphery-ii-drum-setup) — Orbin's final album with the band\n- **Best drumsticks for djent**: [/guides/best-drumsticks-for-djent](/guides/best-drumsticks-for-djent)"
+      "content": "Periphery's self-titled debut endures because it delivered on the promise its guitar riffs made: that djent's rhythmic complexity could be played, not just programmed. Travis Orbin's drumming — SJC Custom shells for acoustic clarity, Zildjian K Custom and A Custom cymbals for cutting through a dense guitar wall, and Roland trigger integration for a hybrid sound that never felt mechanical — is the reason the album's drum parts are still studied and transcribed more than a decade later.\n\n**Explore related content at MetalForge:**\n- **Travis Orbin drummer profile**: [/drummer/travis-orbin](/drummer/travis-orbin)\n- **Matt Halpern's gear breakdown**: [/drummer/matt-halpern](/drummer/matt-halpern) — the successor era\n- **Periphery II drum setup**: [/articles/periphery-ii-drum-setup](/articles/periphery-ii-drum-setup) — Orbin's final album with the band\n- **Best drumsticks for djent**: [/guides/best-drumsticks-for-djent](/guides/best-drumsticks-for-djent)"
     }
   },
   "periphery-ii-drum-setup": {
@@ -205,26 +205,26 @@ export const articles = {
       "periphery ii drummer gear",
       "make total destroy drums",
       "ragnarok periphery drums",
-      "travis orbin dw drums 2012",
+      "travis orbin sjc custom drums 2012",
       "periphery sumerian records 2012"
     ],
     "ogImage": "/images/albums/periphery-ii-drum-setup.webp",
     "intro": {
       "title": "Periphery II (2012): Travis Orbin's Final Statement with the Band",
-      "content": "Released on August 21, 2012 through Sumerian Records, Periphery II: This Time It's Personal was Travis Orbin's second and final album as Periphery's drummer before his departure from the band later that year. Where the 2010 debut functioned as a technical introduction — proving djent's guitar-driven complexity could be executed on drums — Periphery II broadened the band's palette, incorporating more melodic songwriting, cleaner dynamic contrast, and denser arrangements across tracks like 'Make Total Destroy,' 'Ragnarok,' and 'Ji.'\n\nOrbin's drumming across the album reflects that broadened scope. The record still contains the polyrhythmic density and two-footed independence that defined his debut performance, but it also demands more textural variation — passages that pull back to spacious, groove-based playing before erupting back into full technical density. That range, arguably even more demanding than pure technical showcase, is a large part of why Periphery II is regarded by many longtime fans as the more complete demonstration of Orbin's abilities, even if 'Icarus Lives!' remains the more widely cited single track.\n\nGear-wise, Orbin's rig for Periphery II carried over the DW Collector's Series kit, Zildjian K Custom and A Custom cymbals, and Roland SPD-SX/trigger integration that had defined his debut-era setup, refined through two additional years of touring and studio experience. The album's mix, handled by Adam \"Nolly\" Getgood (later Periphery's own bassist), gave the drums a more polished, controlled presence than the debut's rawer production — Orbin's acoustic dynamics and electronic layering sit more tightly integrated as a result.\n\nOrbin departed Periphery shortly after Periphery II's release, closing out a chapter that had begun with the band's formation. Matt Halpern took over the drum chair for all subsequent Periphery releases, building on the technical and dynamic foundation Orbin established across these first two albums. For the successor era, see [Matt Halpern's complete gear guide at MetalForge](/drummer/matt-halpern).\n\nThis article breaks down the kit, cymbals, and trigger setup behind Travis Orbin's final Periphery album — the closing chapter of djent's founding drum era.",
+      "content": "Released on August 21, 2012 through Sumerian Records, Periphery II: This Time It's Personal was Travis Orbin's second and final album as Periphery's drummer before his departure from the band later that year. Where the 2010 debut functioned as a technical introduction — proving djent's guitar-driven complexity could be executed on drums — Periphery II broadened the band's palette, incorporating more melodic songwriting, cleaner dynamic contrast, and denser arrangements across tracks like 'Make Total Destroy,' 'Ragnarok,' and 'Ji.'\n\nOrbin's drumming across the album reflects that broadened scope. The record still contains the polyrhythmic density and two-footed independence that defined his debut performance, but it also demands more textural variation — passages that pull back to spacious, groove-based playing before erupting back into full technical density. That range, arguably even more demanding than pure technical showcase, is a large part of why Periphery II is regarded by many longtime fans as the more complete demonstration of Orbin's abilities, even if 'Icarus Lives!' remains the more widely cited single track.\n\nGear-wise, Orbin's rig for Periphery II carried over the SJC Custom kit, Zildjian K Custom and A Custom cymbals, and Roland SPD-SX/trigger integration that had defined his debut-era setup, refined through two additional years of touring and studio experience. The album's mix, handled by Adam \"Nolly\" Getgood (later Periphery's own bassist), gave the drums a more polished, controlled presence than the debut's rawer production — Orbin's acoustic dynamics and electronic layering sit more tightly integrated as a result.\n\nOrbin departed Periphery shortly after Periphery II's release, closing out a chapter that had begun with the band's formation. Matt Halpern took over the drum chair for all subsequent Periphery releases, building on the technical and dynamic foundation Orbin established across these first two albums. For the successor era, see [Matt Halpern's complete gear guide at MetalForge](/drummer/matt-halpern).\n\nThis article breaks down the kit, cymbals, and trigger setup behind Travis Orbin's final Periphery album — the closing chapter of djent's founding drum era.",
       "keyPoints": [
         "Released August 21, 2012 on Sumerian Records — Travis Orbin's final album with Periphery",
         "Expanded the band's dynamic range beyond the debut's pure technical showcase",
         "Mixed by Adam 'Nolly' Getgood, giving the drums a more polished, controlled presence",
-        "DW Collector's Series kit and Zildjian K Custom/A Custom cymbals carried over from the debut era",
+        "SJC Custom kit and Zildjian K Custom/A Custom cymbals carried over from the debut era",
         "Roland SPD-SX and bass drum trigger integration refined through two years of touring",
         "Orbin departed Periphery shortly after release; Matt Halpern became his successor"
       ]
     },
     "drumKit": {
-      "title": "DW Collector's Series: Refined for Periphery's Broader Dynamic Range",
-      "brand": "DW",
-      "model": "DW Collector's Series",
+      "title": "SJC Custom: Refined for Periphery's Broader Dynamic Range",
+      "brand": "SJC Custom",
+      "model": "SJC Custom Drums",
       "finish": "Custom touring finish",
       "config": {
         "bassdrums": [
@@ -238,16 +238,16 @@ export const articles = {
           "14\" x 14\" Floor Tom",
           "16\" x 16\" Floor Tom"
         ],
-        "shells": "North American maple shells — DW Collector's custom ply construction"
+        "shells": "North American maple shells — SJC Custom shell pack construction"
       },
-      "description": "By the time Periphery II was recorded, Orbin's DW Collector's Series kit had been road-tested through two years of touring behind the debut. The same North American maple shell construction remained the foundation, but the album's broader dynamic range — spacious, groove-oriented verses giving way to dense technical passages — put different demands on the kit than the debut's more uniformly high-intensity material.\n\nTracks like 'Ji' and the more melodic sections of 'Masochist' required the toms and bass drums to sound convincing at lower dynamic levels, not just to cut through at full intensity. The DW Collector's shells' natural resonance and tuning stability meant Orbin could pull back to quieter, more textural playing without the kit losing its acoustic character — a quality that matters far more on an album built around dynamic contrast than on one built around sustained technical density.\n\nThe double 22\" bass drum configuration remained unchanged from the debut, still essential for tracks like 'Ragnarok' and 'Make Total Destroy' where syncopated two-footed patterns anchor the rhythm section. The four-tom spread continued to give Orbin the melodic range for fills that bridge Periphery II's more elaborate song structures, several of which run well past the six-minute mark with multiple distinct sections.",
+      "description": "By the time Periphery II was recorded, Orbin's SJC Custom kit had been road-tested through two years of touring behind the debut. The same North American maple shell construction remained the foundation, but the album's broader dynamic range — spacious, groove-oriented verses giving way to dense technical passages — put different demands on the kit than the debut's more uniformly high-intensity material.\n\nTracks like 'Ji' and the more melodic sections of 'Masochist' required the toms and bass drums to sound convincing at lower dynamic levels, not just to cut through at full intensity. The SJC Custom shells' natural resonance and tuning stability meant Orbin could pull back to quieter, more textural playing without the kit losing its acoustic character — a quality that matters far more on an album built around dynamic contrast than on one built around sustained technical density.\n\nThe double 22\" bass drum configuration remained unchanged from the debut, still essential for tracks like 'Ragnarok' and 'Make Total Destroy' where syncopated two-footed patterns anchor the rhythm section. The four-tom spread continued to give Orbin the melodic range for fills that bridge Periphery II's more elaborate song structures, several of which run well past the six-minute mark with multiple distinct sections.",
       "notes": [
-        "Same DW Collector's Series maple shells as the debut, road-tested through two years of touring",
+        "Same SJC Custom maple shells as the debut, road-tested through two years of touring",
         "Tuning stability supports the album's broader dynamic range, from spacious grooves to dense technical passages",
         "Double 22\" bass drums remain central to syncopated tracks like 'Ragnarok' and 'Make Total Destroy'",
         "Four-tom spread supports fills across the album's longer, multi-section song structures"
       ],
-      "estimatedValue": "$4,000–7,500 (DW Collector's shell pack, 2012 touring configuration)"
+      "estimatedValue": "$2,500–4,500 (SJC Custom shell pack, 2012 touring configuration)"
     },
     "cymbals": {
       "title": "Zildjian K Custom and A Custom: Dynamic Range for a More Textured Album",
@@ -332,7 +332,7 @@ export const articles = {
       },
       {
         "question": "What drum kit did Travis Orbin use on Periphery II?",
-        "answer": "Orbin used the same DW Collector's Series kit that defined his debut-era setup — North American maple shells, double 22\" bass drums, and a four-tom spread (10\", 12\", 14\", 16\") — refined through two years of touring. His cymbal setup added a fuller 19\" A Custom crash alongside the existing Zildjian K Custom Dark hi-hats/ride and 18\" A Custom crash and china, giving him more tonal range for the album's broader dynamic contrasts."
+        "answer": "Orbin used the same SJC Custom kit that defined his debut-era setup — North American maple shells, double 22\" bass drums, and a four-tom spread (10\", 12\", 14\", 16\") — refined through two years of touring. His cymbal setup added a fuller 19\" A Custom crash alongside the existing Zildjian K Custom Dark hi-hats/ride and 18\" A Custom crash and china, giving him more tonal range for the album's broader dynamic contrasts."
       },
       {
         "question": "How does Periphery II's drumming differ from the debut album?",
@@ -363,7 +363,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "The Closing Chapter of Djent's Founding Drum Era",
-      "content": "Periphery II: This Time It's Personal closed out Travis Orbin's tenure with the band he helped found, and it did so by demonstrating a wider range than the debut's technical showcase alone could capture. His DW Collector's Series kit and Zildjian cymbal setup, refined through two years of touring, gave him the acoustic flexibility to move between spacious groove and dense polyrhythmic complexity within the same song — arguably a harder demonstration of musicianship than pure technical density.\n\n**Explore related content at MetalForge:**\n- **Travis Orbin drummer profile**: [/drummer/travis-orbin](/drummer/travis-orbin)\n- **Matt Halpern's gear breakdown**: [/drummer/matt-halpern](/drummer/matt-halpern) — the successor era\n- **Periphery drum setup**: [/articles/periphery-drum-setup](/articles/periphery-drum-setup) — the 2010 debut that started it all\n- **Best drumsticks for djent**: [/guides/best-drumsticks-for-djent](/guides/best-drumsticks-for-djent)"
+      "content": "Periphery II: This Time It's Personal closed out Travis Orbin's tenure with the band he helped found, and it did so by demonstrating a wider range than the debut's technical showcase alone could capture. His SJC Custom kit and Zildjian cymbal setup, refined through two years of touring, gave him the acoustic flexibility to move between spacious groove and dense polyrhythmic complexity within the same song — arguably a harder demonstration of musicianship than pure technical density.\n\n**Explore related content at MetalForge:**\n- **Travis Orbin drummer profile**: [/drummer/travis-orbin](/drummer/travis-orbin)\n- **Matt Halpern's gear breakdown**: [/drummer/matt-halpern](/drummer/matt-halpern) — the successor era\n- **Periphery drum setup**: [/articles/periphery-drum-setup](/articles/periphery-drum-setup) — the 2010 debut that started it all\n- **Best drumsticks for djent**: [/guides/best-drumsticks-for-djent](/guides/best-drumsticks-for-djent)"
     }
   },
   "travis-orbin-drum-setup": {
@@ -386,12 +386,12 @@ export const articles = {
     "dateModified": "2026-06-19",
     "author": "MetalForge Editorial",
     "title": "Travis Orbin Drum Kit & Gear Setup — Periphery Djent Pioneer",
-    "description": "Travis Orbin's complete drum setup: DW Collector's Series kit, Zildjian cymbals, Roland SPD-SX electronic integration, and trigger configuration — the full rig behind Periphery's founding drummer and djent's most technically advanced voice.",
+    "description": "Travis Orbin's complete drum setup: SJC Custom kit, Zildjian cymbals, Roland SPD-SX electronic integration, and trigger configuration — the full rig behind Periphery's founding drummer and djent's most technically advanced voice.",
     "seoKeywords": [
       "travis orbin drum setup",
       "travis orbin drum kit",
       "periphery drummer gear",
-      "travis orbin dw drums",
+      "travis orbin sjc custom drums",
       "travis orbin zildjian cymbals",
       "travis orbin periphery",
       "djent drum setup",
@@ -402,10 +402,10 @@ export const articles = {
     "ogImage": "/images/drummers/travis-orbin.webp",
     "intro": {
       "title": "Travis Orbin: The Drummer Who Defined Djent's Technical Ceiling",
-      "content": "Travis Orbin (born July 5, 1985, in Baltimore, Maryland) is the founding drummer of Periphery and one of the most technically advanced drummers the djent movement has ever produced. His performances on Periphery's self-titled debut album (2010) and the \"Icarus\" EP didn't just demonstrate what djent drumming could be — they established the technical ceiling that the entire genre has been reaching toward ever since.\n\nWhat separates Orbin from the crowded field of technically proficient drummers is the integration of musical intelligence with his extraordinary chops. While many players at his technical level prioritize complexity as an end in itself, Orbin constructs polyrhythmic architecture that serves the song. His ghost note density, linear patterns, and cross-rhythmic bass drum work lock with Periphery's djent guitar riffs in a way that sounds composed rather than improvisational — because it is.\n\nOrbin's career with Periphery ran from the band's formation through 2012, when he departed on good terms. His replacement was Matt Halpern, who acknowledged Orbin's foundational contributions and has cited his influence openly. The two represent different but complementary approaches to Periphery's rhythmic demands: Orbin's analytical polyrhythmic complexity and Halpern's groove-first sensibility. Together, their tenures define the complete picture of what djent drumming can accomplish. For the Halpern era comparison, see [Matt Halpern's complete gear guide at MetalForge](/drummer/matt-halpern).\n\nAfter Periphery, Orbin continued as a sought-after session player, touring with Darkest Hour and recording with Sky Harbor. His YouTube drum playthroughs — technically detailed, musically revelatory analyses of complex drum parts — have garnered millions of views and established him as one of drumming's most gifted educators.\n\nTravis Orbin's DW Collector's Series kit, Zildjian cymbals, Roland SPD-SX integration, and trigger configuration are the mechanical foundation of a drumming vision that proved complex music and technical mastery don't have to sacrifice groove. This is the rig behind djent's most demanding original voice.",
+      "content": "Travis Orbin (born July 5, 1985, in Baltimore, Maryland) is the founding drummer of Periphery and one of the most technically advanced drummers the djent movement has ever produced. His performances on Periphery's self-titled debut album (2010) and the \"Icarus\" EP didn't just demonstrate what djent drumming could be — they established the technical ceiling that the entire genre has been reaching toward ever since.\n\nWhat separates Orbin from the crowded field of technically proficient drummers is the integration of musical intelligence with his extraordinary chops. While many players at his technical level prioritize complexity as an end in itself, Orbin constructs polyrhythmic architecture that serves the song. His ghost note density, linear patterns, and cross-rhythmic bass drum work lock with Periphery's djent guitar riffs in a way that sounds composed rather than improvisational — because it is.\n\nOrbin's career with Periphery ran from the band's formation through 2012, when he departed on good terms. His replacement was Matt Halpern, who acknowledged Orbin's foundational contributions and has cited his influence openly. The two represent different but complementary approaches to Periphery's rhythmic demands: Orbin's analytical polyrhythmic complexity and Halpern's groove-first sensibility. Together, their tenures define the complete picture of what djent drumming can accomplish. For the Halpern era comparison, see [Matt Halpern's complete gear guide at MetalForge](/drummer/matt-halpern).\n\nAfter Periphery, Orbin continued as a sought-after session player, touring with Darkest Hour and recording with Sky Harbor. His YouTube drum playthroughs — technically detailed, musically revelatory analyses of complex drum parts — have garnered millions of views and established him as one of drumming's most gifted educators.\n\nTravis Orbin's SJC Custom kit, Zildjian cymbals, Roland SPD-SX integration, and trigger configuration are the mechanical foundation of a drumming vision that proved complex music and technical mastery don't have to sacrifice groove. This is the rig behind djent's most demanding original voice.",
       "keyPoints": [
         "Founding drummer of Periphery — recorded the djent-defining debut album (2010)",
-        "DW Collector's Series drums — flagship DW shell construction for maximum resonance control",
+        "SJC Custom Drums — custom shell construction for maximum resonance control",
         "Zildjian cymbals across the setup — K Custom and A Custom series for tonal versatility",
         "Roland SPD-SX electronic pad integration for sample triggering and layered textures",
         "Bass drum trigger system for consistent attack in recording and live environments",
@@ -413,9 +413,9 @@ export const articles = {
       ]
     },
     "drumKit": {
-      "title": "DW Collector's Series: Flagship Construction for Elite Djent",
-      "brand": "DW",
-      "model": "DW Collector's Series",
+      "title": "SJC Custom: Bespoke Construction for Elite Djent",
+      "brand": "SJC Custom",
+      "model": "SJC Custom Drums",
       "finish": "Custom finishes across touring configurations",
       "config": {
         "bassdrums": [
@@ -429,28 +429,28 @@ export const articles = {
           "14\" x 14\" Floor Tom",
           "16\" x 16\" Floor Tom"
         ],
-        "shells": "North American maple shells — DW Collector's custom ply construction"
+        "shells": "North American maple shells — SJC Custom shell pack construction"
       },
-      "description": "Travis Orbin's DW Collector's Series kit is built to the specifications that professional drummers designing their ideal acoustic instrument demand. The Collector's Series represents DW's flagship production line — custom-built shells in precisely specified ply counts, bearing edge profiles, and finish combinations that affect every acoustic parameter of the drum.\n\nFor Orbin's djent application, the DW Collector's North American maple shells provide the combination of midrange warmth and high-frequency attack that modern progressive metal requires. Maple's natural brightness preserves the articulation of complex polyrhythmic patterns — ghost notes, linear passages, rapid bass drum sequences — without allowing individual strokes to blur in dense mixes. DW's custom bearing edges further refine this by controlling sustain exactly, allowing Orbin to tune for the focused, punchy tone that djent production demands.\n\nThe double bass configuration — two 22\" x 18\" kick drums — provides the physical and acoustic symmetry that two-footed djent patterns require. Both drums are treated identically: same head selection, same tuning, same dampening configuration, ensuring each foot produces the same attack and decay. At the tempos and pattern densities Orbin's music demands, consistency between kicks is not aesthetic preference — it's structural necessity.\n\nHis four-tom configuration (10\", 12\", 14\", 16\") covers the melodic range that Periphery's compositions require without overcomplicating the kit layout. Orbin's fills function as melodic countermelodies in arrangements of considerable harmonic sophistication — these toms need to speak at distinct pitches, and the DW Collector's shell precision makes melodic tuning reliable.\n\nThe kit's visual presentation adapts to each recording or touring context, but the acoustic signature remains constant: controlled, articulate, precise — the perfect acoustic platform for layering electronic triggers and samples.",
+      "description": "Travis Orbin's SJC Custom kit is built to the specifications that professional drummers designing their ideal acoustic instrument demand. SJC Custom is a boutique drum builder known for custom-built shells tailored to each player's specifications, with finish combinations that affect every acoustic parameter of the drum.\n\nFor Orbin's djent application, the SJC Custom North American maple shells provide the combination of midrange warmth and high-frequency attack that modern progressive metal requires. Maple's natural brightness preserves the articulation of complex polyrhythmic patterns — ghost notes, linear passages, rapid bass drum sequences — without allowing individual strokes to blur in dense mixes. SJC Custom's shell construction further refines this by controlling sustain, allowing Orbin to tune for the focused, punchy tone that djent production demands.\n\nThe double bass configuration — two 22\" x 18\" kick drums — provides the physical and acoustic symmetry that two-footed djent patterns require. Both drums are treated identically: same head selection, same tuning, same dampening configuration, ensuring each foot produces the same attack and decay. At the tempos and pattern densities Orbin's music demands, consistency between kicks is not aesthetic preference — it's structural necessity.\n\nHis four-tom configuration (10\", 12\", 14\", 16\") covers the melodic range that Periphery's compositions require without overcomplicating the kit layout. Orbin's fills function as melodic countermelodies in arrangements of considerable harmonic sophistication — these toms need to speak at distinct pitches, and the SJC Custom shell precision makes melodic tuning reliable.\n\nThe kit's visual presentation adapts to each recording or touring context, but the acoustic signature remains constant: controlled, articulate, precise — the perfect acoustic platform for layering electronic triggers and samples.",
       "notes": [
-        "DW Collector's Series — custom ply/bearing edge construction for maximum acoustic control",
+        "SJC Custom Drums — custom shell construction for maximum acoustic control",
         "Double 22\" bass drums — symmetrical configuration for consistent two-footed djent patterns",
         "Four-tom spread (10\", 12\", 14\", 16\") for melodic fills in harmonically complex arrangements",
         "North American maple shells for articulate attack in dense djent mixes",
         "Foundation for Roland trigger integration — acoustic and electronic architecture aligned"
       ],
-      "estimatedValue": "$4,000–7,500 (DW Collector's shell pack, custom configuration)"
+      "estimatedValue": "$2,500–4,500 (SJC Custom shell pack, custom configuration)"
     },
     "snare": {
       "title": "The Snare: Crack and Sensitivity for Polyrhythmic Work",
-      "brand": "DW",
-      "model": "DW Collector's Series Snare",
-      "size": "14\" x 6\"",
-      "shell": "North American maple (primary), steel (alternate)",
-      "description": "Travis Orbin's snare choice prioritizes a combination that his playing style demands above all else: projection and sensitivity coexisting in the same instrument. His 14\" x 6\" DW Collector's maple snare delivers the crack that cuts through Periphery's dense guitar arrangements while maintaining the ghost note sensitivity essential to his linear drumming vocabulary.\n\nThe 6\" depth provides additional body compared to standard 5.5\" models without crossing into the territory where extended sustain becomes a problem in fast djent patterns. At the tempos and ghost note densities Orbin plays, a snare that rings too long creates sonic clutter; one that cuts off too sharply loses musical body. The DW Collector's 6\" maple model sits precisely in the middle range.\n\nOrbin's ghost note technique is one of the defining elements of his Periphery-era playing. Complex linear patterns that appear as single-voice passages are actually multi-voice textures built from precisely calibrated ghost notes. The DW Collector's snare's dynamic sensitivity — its ability to register near-silent touches and translate them into musically present but not dominant tones — makes these patterns possible acoustically. Triggering and processing complete the picture in recorded contexts, but the acoustic foundation must be right first.\n\nFor alternate tuning requirements or specific studio applications, Orbin has been known to rotate snares including steel models for brighter, more cutting crack — the same flexibility that characterizes his complete approach to gear: acoustic excellence as the foundation, with modifications as the arrangement requires.",
+      "brand": "SJC Custom",
+      "model": "SJC Custom 14\" x 6.5\" Maple",
+      "size": "14\" x 6.5\"",
+      "shell": "Maple",
+      "description": "Travis Orbin's snare choice prioritizes a combination that his playing style demands above all else: projection and sensitivity coexisting in the same instrument. His 14\" x 6.5\" SJC Custom maple snare delivers the crack that cuts through Periphery's dense guitar arrangements while maintaining the ghost note sensitivity essential to his linear drumming vocabulary.\n\nThe 6.5\" depth provides additional body compared to standard 5.5\" models without crossing into the territory where extended sustain becomes a problem in fast djent patterns. At the tempos and ghost note densities Orbin plays, a snare that rings too long creates sonic clutter; one that cuts off too sharply loses musical body. The SJC Custom 6.5\" maple model sits precisely in the middle range.\n\nOrbin's ghost note technique is one of the defining elements of his Periphery-era playing. Complex linear patterns that appear as single-voice passages are actually multi-voice textures built from precisely calibrated ghost notes. The SJC Custom snare's dynamic sensitivity — its ability to register near-silent touches and translate them into musically present but not dominant tones — makes these patterns possible acoustically. Triggering and processing complete the picture in recorded contexts, but the acoustic foundation must be right first.",
       "tuningSetting": "Medium-high for ghost note sensitivity and backbeat projection in djent mixes",
       "heads": "Evans UV1 Coated (batter), Evans Hazy 300 (resonant)",
-      "estimatedValue": "$400–700 (DW Collector's Snare)"
+      "estimatedValue": "$300–500 (SJC Custom Snare)"
     },
     "cymbals": {
       "title": "Zildjian: Tonal Versatility for Djent Architecture",
@@ -564,8 +564,8 @@ export const articles = {
         ],
         "description": "Defining djent drumming's technical parameters on Periphery's foundational recordings.",
         "gear": {
-          "drums": "DW Collector's Series (early touring and recording configuration)",
-          "snare": "DW Collector's snare — primary touring model",
+          "drums": "SJC Custom Drums (early touring and recording configuration)",
+          "snare": "SJC Custom snare — primary touring model",
           "cymbals": "Zildjian K Custom Dark and A Custom series",
           "hardware": "DW 9000 double pedal, Roland SPD-SX, bass drum triggers"
         },
@@ -580,8 +580,8 @@ export const articles = {
         ],
         "description": "Continued technical evolution through session work, Sky Harbor, and viral educational content.",
         "gear": {
-          "drums": "DW Collector's Series (refined touring configuration)",
-          "snare": "DW Collector's maple primary, steel alternate",
+          "drums": "SJC Custom Drums (refined touring configuration)",
+          "snare": "SJC Custom maple snare",
           "cymbals": "Zildjian K Custom and A Custom — stable configuration",
           "hardware": "DW 9000, Roland SPD-SX, continued trigger integration"
         },
@@ -595,8 +595,8 @@ export const articles = {
         ],
         "description": "Established as one of drumming's most influential educator-performers.",
         "gear": {
-          "drums": "DW Collector's Series (current configuration)",
-          "snare": "DW Collector's primary snare rotation",
+          "drums": "SJC Custom Drums (current configuration)",
+          "snare": "SJC Custom snare",
           "cymbals": "Zildjian K Custom Dark Hi-Hats, A Custom crash setup, K Custom Dark Ride",
           "hardware": "DW 9000 double pedal, Roland SPD-SX, full trigger system"
         },
@@ -617,7 +617,7 @@ export const articles = {
     "faq": [
       {
         "question": "What drums does Travis Orbin use?",
-        "answer": "Travis Orbin plays a DW Collector's Series drum kit. The Collector's Series is DW's flagship production line — custom-built North American maple shells with precisely specified bearing edges and ply configurations that affect every acoustic parameter. His configuration runs double 22\" bass drums for symmetrical two-footed djent patterns, two rack toms (10\" and 12\"), and two floor toms (14\" and 16\") for the melodic fill range Periphery's complex arrangements require. The DW Collector's construction provides the articulate attack and controlled sustain that djent's dense rhythmic environment demands. Full drummer profile: [Travis Orbin at MetalForge](/drummer/travis-orbin)."
+        "answer": "Travis Orbin plays an SJC Custom drum kit. SJC Custom is a boutique drum builder known for custom-built North American maple shells tailored to each player's specifications. His configuration runs double 22\" bass drums for symmetrical two-footed djent patterns, two rack toms (10\" and 12\"), and two floor toms (14\" and 16\") for the melodic fill range Periphery's complex arrangements require. The SJC Custom construction provides the articulate attack and controlled sustain that djent's dense rhythmic environment demands. Full drummer profile: [Travis Orbin at MetalForge](/drummer/travis-orbin)."
       },
       {
         "question": "What cymbals does Travis Orbin play?",
@@ -625,7 +625,7 @@ export const articles = {
       },
       {
         "question": "How does Travis Orbin get his djent drum sound?",
-        "answer": "Travis Orbin achieves his djent drum sound through a hybrid acoustic-electronic approach. Acoustically, his DW Collector's maple shells and Evans EMAD bass drum heads produce a controlled, focused attack with minimal unwanted sustain. Electronic triggers on the bass drums feed the Roland SPD-SX sampling pad system, adding consistent sample layering that reinforces and extends the acoustic kick sound. This trigger integration — fundamental to modern djent drum production — ensures that complex two-footed patterns register with equal attack regardless of physical variation in playing dynamics. The Roland SPD-SX also allows Orbin to introduce electronic textures and samples as compositional elements within the live and studio setup. The result is a drum sound that maintains acoustic warmth and dynamic sensitivity while delivering the attack precision and consistency that djent production demands."
+        "answer": "Travis Orbin achieves his djent drum sound through a hybrid acoustic-electronic approach. Acoustically, his SJC Custom maple shells and Evans EMAD bass drum heads produce a controlled, focused attack with minimal unwanted sustain. Electronic triggers on the bass drums feed the Roland SPD-SX sampling pad system, adding consistent sample layering that reinforces and extends the acoustic kick sound. This trigger integration — fundamental to modern djent drum production — ensures that complex two-footed patterns register with equal attack regardless of physical variation in playing dynamics. The Roland SPD-SX also allows Orbin to introduce electronic textures and samples as compositional elements within the live and studio setup. The result is a drum sound that maintains acoustic warmth and dynamic sensitivity while delivering the attack precision and consistency that djent production demands."
       },
       {
         "question": "Was Travis Orbin the founding drummer of Periphery?",
@@ -652,7 +652,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "The Original Blueprint for Djent Drumming",
-      "content": "Travis Orbin's contributions to djent drumming are foundational in the most literal sense: he was there at the beginning, on the album that gave the genre its name and commercial foothold, playing the parts that defined what djent drumming could technically achieve.\n\nHis DW Collector's Series kit, Zildjian K Custom and A Custom cymbals, Roland SPD-SX electronic integration, and trigger system are not just gear choices — they are an integrated design philosophy. Every element is selected to support the technical demands of his playing: acoustic precision as the foundation, electronic consistency as the layer that makes complex patterns reliable in production contexts, and tonal choices calibrated for djent's dense guitar frequency environment.\n\n**What Travis Orbin's Setup Teaches:**\n\n- **The hybrid approach is intentional**: Electronic triggers and the Roland SPD-SX are compositional tools, not post-production fixes. Orbin treats them as integral components of the drum arrangement from the beginning of the writing process.\n\n- **Acoustic quality is non-negotiable**: The DW Collector's Series is not a budget compromise. Professional electronic integration requires professional acoustic foundations — the trigger must capture a genuine acoustic stroke, not mask a mediocre one.\n\n- **Polyrhythmic playing demands gear that can keep up**: Orbin's Zildjian K Custom Dark Hi-Hats provide the articulate, fast-responding tone his polyrhythmic hi-hat patterns require. Bright, washy cymbals would blur the complex patterns he plays; the K Custom Dark keeps each stroke distinct.\n\n- **Ghost notes require acoustic sensitivity**: The DW Collector's snare's dynamic range — its ability to register ghost notes at near-silent velocities and translate them faithfully — is what makes his linear and polyrhythmic patterns possible.\n\n**The Periphery Connection:**\n\nTravis Orbin's founding era and Matt Halpern's successor era together constitute the complete story of Periphery's rhythmic identity. Where Orbin defined the technical ceiling, Halpern extended the groove vocabulary. Both are essential for understanding what djent drumming is.\n\nFor the Periphery cluster on MetalForge:\n\n- **Travis Orbin drummer profile**: [/drummer/travis-orbin](/drummer/travis-orbin) — biography, influences, and career chronology\n- **Matt Halpern's gear breakdown**: [/drummer/matt-halpern](/drummer/matt-halpern) — the successor era, Mapex/Meinl setup, and groove philosophy\n- **Polyrhythm technique guide**: [/technique/polyrhythm](/technique/polyrhythm) — the foundational concept behind djent rhythmic construction\n\nTravis Orbin proved that the most technically complex drumming doesn't require sacrificing musicality. That proof — documented on Periphery's debut album and in thousands of minutes of playthrough video — is the blueprint that djent drumming has been working from ever since.\n\n🥁 *Technical mastery in service of the song — that's the Travis Orbin standard.* 🤘"
+      "content": "Travis Orbin's contributions to djent drumming are foundational in the most literal sense: he was there at the beginning, on the album that gave the genre its name and commercial foothold, playing the parts that defined what djent drumming could technically achieve.\n\nHis SJC Custom kit, Zildjian K Custom and A Custom cymbals, Roland SPD-SX electronic integration, and trigger system are not just gear choices — they are an integrated design philosophy. Every element is selected to support the technical demands of his playing: acoustic precision as the foundation, electronic consistency as the layer that makes complex patterns reliable in production contexts, and tonal choices calibrated for djent's dense guitar frequency environment.\n\n**What Travis Orbin's Setup Teaches:**\n\n- **The hybrid approach is intentional**: Electronic triggers and the Roland SPD-SX are compositional tools, not post-production fixes. Orbin treats them as integral components of the drum arrangement from the beginning of the writing process.\n\n- **Acoustic quality is non-negotiable**: The SJC Custom kit is not a budget compromise. Professional electronic integration requires professional acoustic foundations — the trigger must capture a genuine acoustic stroke, not mask a mediocre one.\n\n- **Polyrhythmic playing demands gear that can keep up**: Orbin's Zildjian K Custom Dark Hi-Hats provide the articulate, fast-responding tone his polyrhythmic hi-hat patterns require. Bright, washy cymbals would blur the complex patterns he plays; the K Custom Dark keeps each stroke distinct.\n\n- **Ghost notes require acoustic sensitivity**: The SJC Custom snare's dynamic range — its ability to register ghost notes at near-silent velocities and translate them faithfully — is what makes his linear and polyrhythmic patterns possible.\n\n**The Periphery Connection:**\n\nTravis Orbin's founding era and Matt Halpern's successor era together constitute the complete story of Periphery's rhythmic identity. Where Orbin defined the technical ceiling, Halpern extended the groove vocabulary. Both are essential for understanding what djent drumming is.\n\nFor the Periphery cluster on MetalForge:\n\n- **Travis Orbin drummer profile**: [/drummer/travis-orbin](/drummer/travis-orbin) — biography, influences, and career chronology\n- **Matt Halpern's gear breakdown**: [/drummer/matt-halpern](/drummer/matt-halpern) — the successor era, Mapex/Meinl setup, and groove philosophy\n- **Polyrhythm technique guide**: [/technique/polyrhythm](/technique/polyrhythm) — the foundational concept behind djent rhythmic construction\n\nTravis Orbin proved that the most technically complex drumming doesn't require sacrificing musicality. That proof — documented on Periphery's debut album and in thousands of minutes of playthrough video — is the blueprint that djent drumming has been working from ever since.\n\n🥁 *Technical mastery in service of the song — that's the Travis Orbin standard.* 🤘"
     }
   }
 };

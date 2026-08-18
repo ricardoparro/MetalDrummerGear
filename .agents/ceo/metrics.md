@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-18 06:39 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-18 07:29 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -10,7 +10,7 @@
 | --- | --- |
 | Active users | 211 |
 | Sessions | 278 |
-| Page views | 502 |
+| Page views | 503 |
 | Engagement rate | 48.92% |
 | Avg session (s) | 229 |
 
@@ -20,7 +20,7 @@
 | /drummers | 56 | 7 |
 | / | 43 | 32 |
 | /articles/obsolete-drum-setup | 23 | 1 |
-| /drummer/danny-carey | 13 | 7 |
+| /drummer/danny-carey | 14 | 7 |
 | /gear | 13 | 4 |
 | /drummer/mario-duplantier | 12 | 9 |
 | /drummer/brann-dailor | 10 | 4 |
@@ -32,7 +32,7 @@
 | Channel | Sessions | Users |
 | --- | --- | --- |
 | Organic Search | 204 | 140 |
-| Direct | 62 | 58 |
+| Direct | 63 | 59 |
 | Unassigned | 37 | 35 |
 | Cross-network | 3 | 3 |
 

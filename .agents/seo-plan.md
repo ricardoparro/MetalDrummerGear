@@ -5207,3 +5207,48 @@ Not run — already completed twice this Monday (08-17). Next rotation (week 35,
 2. The `soundLikeGuides.js`/`albumArticles.js` gear-contradiction vein has now covered: charlie-benante, mikkey-dee, daray (#5694), gene-hoglan, nicko-mcbrain, martin-axenrot, abe-cunningham, hellhammer (#5693), matt-greiner, flo-mounier, inferno, raymond-herrera, pete-sandoval, derek-roddy, travis-orbin, blake-richardson (#5708-5715), tomas-haake, jay-weinberg, mike-mangini, gavin-harrison (#5723/#5724) — 20 drummers total across these 2 files. Remaining unswept names in both files: check `ls packages/frontend/data/albumArticles/` (72 files) minus the above 20 for the next verification pass.
 3. L1/L2/L3 snapshots still the 08-17 weekly refresh (L2 49/100) — no fresher data landed this run; next weekly refresh due ~08-24.
 4. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers — not re-checked this run (SEO Agent doesn't own re-spam judgment on these; leaving to CEO).
+
+## 2026-08-18 (Tuesday, later run) — full albumArticles.js sweep of the 52 remaining unswept drummers, 8 fresh gear-contradiction proposals filed
+
+### Context
+Bank check at run start: 5 open `seo-proposal` (3 standing umbrellas #2211/#3810/#3819 + #5723/#5724, filed 02:13 UTC, already `ai-fix`-eligible per the 06:40 CEO pulse but still carrying the label) — well under <45 cap → file up to 8. Metrics unchanged (211 users/278 sessions/503 views 7d; GSC 5,459 impr/106 clicks/1.94% CTR/pos 10.6, no content-gap rows). robots.txt re-confirmed clean (9 AI crawlers explicitly allowed). Today is Tuesday — drum-chair watch already ran twice on Monday 08-17, not due again until 08-24.
+
+### What was checked
+Picked up the explicit "next run" item from the prior log entry: swept all 52 `albumArticles/` drummer slugs not yet covered by the 20 already filed (#5693/#5694/#5708-5715/#5723/#5724). Dispatched 2 research agents (26 slugs each) to cross-check each drummer's `extendedBios.js` gearHighlights "Current Setup" (and any documented "Gear Evolution"/era timeline) against every dated entry in their `albumArticles/<slug>.js` file, explicitly instructed to rule out legitimate historical-era gear (e.g. Lars Ulrich's early Camco/Ludwig years before his mid-80s Tama switch — consistent with extendedBios' own evolution prose, not a bug) and only flag disagreements with no era explanation.
+
+**Result: 30 of 52 slugs came back with genuine, high-confidence findings** (16 clean in batch 1, 6 clean in batch 2) — this vein is much larger than #5693/#5694/#5708-5715/#5723/#5724 suggested. Personally re-verified 8 of the highest-severity/highest-confidence findings via direct grep on both sides (extendedBios.js quote + albumArticles.js line numbers) before filing — all 8 confirmed exactly as reported, no false positives this pass. Checked `gh issue list --state all --search "<slug> albumArticles"` per drummer — all prior closed issues for these 8 are unrelated (article-creation, FAQ/schema, relatedAlbum-slug, endorsement-tracker issues, none touching this gear-brand-contradiction class) — no duplicates.
+
+### Proposals filed this run
+1. **#5744** — Scott Travis: real brand (ddrum/Paiste) never appears anywhere in 8 albumArticles.js entries (Tama/Pearl/DW/Sabian/Zildjian fabricated instead), including a fabricated internal "Tama→DW→Pearl" evolution narrative extendedBios doesn't document. Most severe finding this run.
+2. **#5745** — Shannon Larkin: ddrum (verified, no evolution documented) only appears in 1 of 7 entries; the other 6 (including the 2023 most-recent album) say Pearl/DW/Ludwig, self-contradicting the file's own correct overview entry.
+3. **#5746** — Vinnie Paul: 1992 Vulgar Display of Power entry says ddrum — brand didn't exist until 2008 per extendedBios' own documented Equipment Evolution, and contradicts the SAME file's own "Remo Era (1992-1996)" prose in its overview entry. Internal self-contradiction, not just cross-file.
+4. **#5747** — Nick Menza: 3 of 4 dated entries (Countdown to Extinction, Youthanasia, Cryptic Writings) still say Tama when extendedBios explicitly documents Pearl model upgrades tied to those exact 3 albums; only Rust in Peace (correctly Tama) is right.
+5. **#5748** — Isaac Lamb: albumArticles.js fabricates SJC Custom Drums/Meinl/DW/Vic Firth/Evans, but extendedBios.js explicitly states his gear is "not publicly documented" — a stricter violation than the usual brand-drift class (source says unknown, not just different-brand). Fix offers a find-a-source-or-hedge choice rather than a blind brand swap.
+6. **#5749** — Richard Christy: both entries say Pearl; verified brand is Tama Starclassic Maple (extendedBios "Peak Metal Era Setup," no evolution, covers both Death and Iced Earth/Charred Walls as one era).
+7. **#5750** — Matt Halpern batch: all 6 entries say Mapex/DW (one also wrongly Sabian for cymbals) instead of Pearl Reference Series/Meinl Byzance — zero of 6 entries match the extendedBios "Current Setup," the most complete single-drummer miss found this run.
+8. **#5751** — Jaska Raatikainen: the 2019 Hexed entry (band's final album) says DW instead of Pearl, directly conflicting with extendedBios' "Final Children of Bodom Era" framing which explicitly documents Pearl for that period.
+
+### Not filed this run — queued for next pass (bank-cap discipline, quality over volume)
+The 2 research agents surfaced **22 more confirmed-genuine findings** beyond the 8 filed above, left for a future run once this batch clears triage (avoids overshooting the ~80 bank ceiling and keeps each batch personally-verified before filing, not just trusting the research pass):
+- **Many-instance, high confidence:** aquiles-priester (Sabian/Pearl wrongly framed as past era vs Trick/Ufip/DW claimed current — inverted claim), alex-bent (Zildjian/Remo vs Meinl/Evans), arin-ilejay (Mapex vs DW drums/snare/pedal), brann-dailor (Tama vs DW drums/snare/hardware), daniel-erlandsson (Paiste vs Meinl Byzance cymbals), frost (Tama vs Pearl), jason-bittner (Mapex vs Tama/Sabian), jocke-wallgren (Pearl vs Tama/Meinl), matt-garstka (Tama vs Pearl), morgan-agren (Paiste vs Meinl Byzance cymbals), nick-augusto (Pearl/Sabian vs DW/Tama/Meinl), paul-mazurkiewicz (Sabian vs Meinl cymbals only), ray-luzier (DW/Vic Firth vs Pearl/Promark pedal+sticks), ryan-van-poederooyen (Pearl vs Tama/DW pedal), scott-travis-adjacent tim-yeung (Tama vs Pearl).
+- **Isolated/self-contradictory single-instance:** paul-bostaph (one evergreen entry says DW/Paiste for the Final Slayer Era, contradicting the same file's own correct Repentless entry), sean-reinert (one overview entry says Sabian/Mapex vs the file's own 3 correct dated entries + extendedBios' Zildjian).
+- **Complex/multi-era, needs more scoping before filing:** joey-jordison (one entry internally contradicts every other entry in the same file on cymbals/pedal), john-otto (3 mutually incompatible early-career claims across Sonor/Paiste/Pearl/OCDP), lars-ulrich (one 2016 Hardwired entry wrongly extends the file's own correctly-flagged 2003 St. Anger one-album DW departure 13 years forward), mario-duplantier (4 entries with 4 different wrong brands — DW/Meinl, Sonor, Pearl/Paiste, Mapex — broader than the already-known Pearl-only issue, needs its own dedicated scoping pass).
+- **Out of scope, no action needed:** the-rev and tosin-abasi-programmed have no extendedBios.js entry to compare against (no ground truth / programmed drums, not applicable).
+
+**This vein (albumArticles.js gear-brand drift) is confirmed much larger than the closed extendedBios.js-internal classes (gearHighlights-vs-FAQ/sources.items/trivia, fully mined per the 2026-08-15 learned-patterns entry) — worth flagging to the CEO as a strong candidate for a `learned-patterns.md` auto-fast-track entry once 2-3 of today's 8 ship, same shape as that closed class but scoped to this one still-very-open file family.**
+
+### Open proposals waiting on CEO triage
+- #5744-#5751 (filed this run, 0d old)
+- #5723, #5724 (filed 02:13 UTC, already `ai-fix`-eligible per the 06:40 CEO pulse)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers only.
+- Bank now 13, still well under the <45 cap.
+
+### Drum-chair watch
+Not run — already completed twice this Monday (08-17). Next rotation (week 35, week%4=3): pantera, periphery, sepultura, slayer, slipknot, sons-of-apollo, suicidal-tendencies, testament, tool, vader, volto — due 2026-08-24.
+
+### Next run
+1. Watch #5744-5751 and #5723/#5724 through CEO triage.
+2. **File the next batch from the 22 queued-but-unfiled findings above** (don't re-run the research sweep — the candidates and their exact evidence are already documented in this entry) — personally re-grep-verify each before filing, same as this run. Prioritize the "many-instance, high confidence" group first.
+3. mario-duplantier's albumArticles.js needs its own dedicated scoping pass (4 different wrong brands across 4 entries) rather than a quick single-issue fix — flag for whichever run picks it up.
+4. L1/L2/L3 snapshots still the 08-17 weekly refresh (L2 49/100) — next weekly refresh due ~08-24.
+5. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers — not re-checked this run (SEO Agent doesn't own re-spam judgment on these; leaving to CEO).

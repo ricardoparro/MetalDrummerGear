@@ -4209,10 +4209,19 @@ export function getMetaForPath(pathname) {
         ],
         // Issue #4751: ssrLinks — rankedDrummers were only surfaced inside the
         // ItemList JSON-LD url field, never rendered as bot-visible <a href> markup.
-        ssrLinks: rankedDrummers.slice(0, 10).map(d => ({
-          href: `/drummer/${d.name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '')}`,
-          label: d.name,
-        })),
+        // Issue #5721: carry the same highlight/reason text used for the ItemList
+        // JSON-LD's item.description (above) so generateMetaHtml() can render each
+        // ranked drummer's "why" as visible body prose, not JSON-LD-only.
+        ssrLinks: rankedDrummers.slice(0, 10).map(d => {
+          const ranking = list.rankings?.[d.id];
+          return {
+            href: `/drummer/${d.name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '')}`,
+            label: d.name,
+            ...(ranking?.highlight || ranking?.reason
+              ? { description: [ranking.highlight, ranking.reason].filter(Boolean).join('. ') }
+              : {}),
+          };
+        }),
         // Issue #4832: Speakable schema was never wired for /lists/<slug>, unlike
         // drummer profiles (#4665/#4738), articles (#1403), techniques, and bands.
         speakableSchema: true,
@@ -8156,7 +8165,9 @@ export function generateMetaHtml(meta, originalUrl) {
     ${meta.ssrLinks && meta.ssrLinks.length > 0 ? `
     <nav aria-label="Gear Deep Dives &amp; Articles">
       <h2>Gear Deep Dives &amp; Articles</h2>
-      <ul>${meta.ssrLinks.map(l => `<li><a href="${l.href}">${l.label}</a></li>`).join('')}</ul>
+      <ul>${meta.ssrLinks.map((l, i) => l.description
+        ? `<li><strong>${i + 1}. <a href="${l.href}">${l.label}</a></strong> — ${escapeHtml(l.description)}</li>`
+        : `<li><a href="${l.href}">${l.label}</a></li>`).join('')}</ul>
     </nav>` : ''}
     ${meta.ssrDrummerLinks && meta.ssrDrummerLinks.length > 0 ? `
     <section>

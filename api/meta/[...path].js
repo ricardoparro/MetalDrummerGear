@@ -601,7 +601,20 @@ function extractYouTubeId(url) {
 // routing+data logic) to check VideoObject/iframe/sitemap consistency.
 export function getMetaForPath(pathname) {
   const path = pathname.toLowerCase();
-  
+
+  // Issue #5722: /drummers/<slug>/licks/<lickSlug> serves the generic
+  // fallback shell to bot UAs in production despite `lickPageMatch` +
+  // `SIGNATURE_LICKS[lickSlug]` reproducing correctly in every local/direct
+  // repro (regex matches the exact production pathname, the lookup resolves
+  // for all 295 keys, sibling routes reading the same SIGNATURE_LICKS object
+  // — /licks, /signature-licks, the /licks hub — all render correctly in
+  // production). Repo-only diffing is exhausted (same class as #5528/#4268).
+  // `_debugLickPage` captures whether this branch matched and whether the
+  // lookup resolved, so the fallback return carries that proof as response
+  // headers instead of forcing another blind repo-side guess.
+  // Remove once a post-deploy bot-UA curl confirms which branch actually ran.
+  let _debugLickPage = null;
+
   // Homepage
   if (path === '/' || path === '') {
     return {
@@ -3587,6 +3600,12 @@ export function getMetaForPath(pathname) {
   if (lickPageMatch) {
     const [, drummerSlug, lickSlug] = lickPageMatch;
     const lick = SIGNATURE_LICKS[lickSlug];
+    _debugLickPage = {
+      'X-Debug-Lick-Match': String(!!lickPageMatch),
+      'X-Debug-Lick-Slug': lickSlug,
+      'X-Debug-Lick-Found': String(!!lick),
+      'X-Debug-Lick-Total-Keys': String(Object.keys(SIGNATURE_LICKS || {}).length),
+    };
     if (lick) {
       const lickUrl = `${BASE_URL}/drummers/${drummerSlug}/licks/${lickSlug}`;
       const thumbId = lick.video?.youtubeId || lick.tutorial?.youtubeId || null;
@@ -7831,6 +7850,9 @@ export function getMetaForPath(pathname) {
     image: DEFAULT_IMAGE,
     type: 'website',
     url: `${BASE_URL}${pathname}`,
+    // Issue #5722: only non-null when lickPageMatch matched above without
+    // returning — proves in production which half of that branch failed.
+    debugHeaders: _debugLickPage || undefined,
   };
 }
 

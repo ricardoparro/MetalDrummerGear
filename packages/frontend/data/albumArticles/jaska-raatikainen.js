@@ -3290,34 +3290,34 @@ export const articles = {
     "dateModified": "2026-06-26",
     "author": "MetalForge Editorial",
     "title": "I Worship Chaos Drum Setup: Jaska Raatikainen's Gear on Children of Bodom's 2015 Album",
-    "description": "Discover the exact drum kit, cymbals, and gear Jaska Raatikainen used on Children of Bodom's I Worship Chaos (2015). Complete breakdown of the DW Collector's Series transition kit, Zildjian A Custom cymbals, and DW 9000 double pedal behind CoB's ninth studio album.",
+    "description": "Discover the exact drum kit, cymbals, and gear Jaska Raatikainen used on Children of Bodom's I Worship Chaos (2015). Complete breakdown of the Pearl Masters Premium Maple kit, Zildjian A Custom cymbals, and Pearl Eliminator double pedal behind CoB's ninth studio album.",
     "seoKeywords": [
       "i worship chaos drums",
       "jaska raatikainen i worship chaos drum setup",
       "children of bodom 2015 drum kit",
-      "jaska raatikainen dw drums 2015",
+      "jaska raatikainen pearl masters 2015",
       "i worship chaos recording gear",
       "jaska raatikainen zildjian 2015",
       "children of bodom ninth album drums",
-      "jaska raatikainen dw 9000"
+      "jaska raatikainen pearl eliminator i worship chaos"
     ],
     "ogImage": "/images/albums/i-worship-chaos-drums.webp",
     "intro": {
-      "title": "The DW Transition: The Drum Kit Behind I Worship Chaos",
-      "content": "Released on October 2, 2015, *I Worship Chaos* is Children of Bodom's ninth full-length album and a record that marked a significant gear transition for Jaska Raatikainen: the move from Pearl Masters to DW Collector's Series drums, signalling the end of a decade-long Pearl endorsement relationship and the beginning of a new gear chapter in the late CoB era. Recorded at Sonic Pump Studios in Helsinki with producer Mikko Karmila — a new production voice after Anssi Kippo's decade-plus tenure with the band — the album documents both a gear change and a production evolution.\n\nFor Jaska Raatikainen, *I Worship Chaos* represented a fresh start in the instrument: the DW Collector's Series' maple and poplar shell construction bringing a distinctly different tonal character to the settled Zildjian A Custom cymbal setup. Where the Pearl Masters MCX had delivered focused attack and controlled sustain, the DW Collector's Series offered a warmer, more open resonance character — a different palette for CoB's melodic death metal arrangements at Sonic Pump's established acoustic environment.\n\nTracks like \"I Worship Chaos\" demonstrate the DW setup in its initial studio context: the warmer low-mid presence of the DW maple shells audible in the tom fills and kick character, while \"Morrigan\" showcases the dynamic range of the DW Collector's transition kit across a more melodic arrangement. This article breaks down every component of Raatikainen's setup on *I Worship Chaos* — the DW Collector's shells, the Zildjian cymbal configuration, the DW 9000 double pedal, and the new production context that shaped CoB's ninth studio record.",
+      "title": "A New Producer, the Same Pearl Kit: The Drum Setup Behind I Worship Chaos",
+      "content": "Released on October 2, 2015, *I Worship Chaos* is Children of Bodom's ninth full-length album and the first to be produced by Mikko Karmila rather than longtime producer Anssi Kippo — a significant change in the studio process, even as Jaska Raatikainen's instrument stayed the same. Recorded at Sonic Pump Studios in Helsinki, the album documents a new production voice applied to a deeply settled Pearl Masters Premium Maple rig.\n\nFor Jaska Raatikainen, *I Worship Chaos* meant no gear changes: the Pearl Masters Premium Maple shells that had anchored his sound since *Are You Dead Yet?* (2005), the Zildjian A Custom and K Custom cymbal configuration, and the Pearl Eliminator double pedal all carried over unchanged from *Halo of Blood* (2013). What changed was who was behind the board — Karmila's fresh approach to Sonic Pump's acoustic environment brought a different perspective to mic placement and gain structure, even with entirely familiar equipment in the room.\n\nTracks like \"I Worship Chaos\" demonstrate the Pearl Eliminator's continued double-kick authority in a new production context, while \"Morrigan\" showcases the Pearl Masters kit's dynamic range across a more melodic arrangement. This article breaks down every component of Raatikainen's setup on *I Worship Chaos* — the Pearl Masters Premium Maple shells, the Zildjian cymbal configuration, the Pearl Eliminator double pedal, and the new production context that shaped CoB's ninth studio record.",
       "keyPoints": [
         "Released October 2, 2015 — ninth CoB studio album on Nuclear Blast",
-        "DW Collector's Series transition — end of decade-long Pearl endorsement, new drum character",
+        "Pearl Masters Premium Maple kit carried over unchanged from Halo of Blood (2013)",
         "Produced by Mikko Karmila — new production voice after long Anssi Kippo tenure with CoB",
-        "Zildjian A Custom cymbals — retained from Pearl era, settled into new DW context",
-        "DW 9000 double pedal — new pedal accompanying the DW Collector's drum transition",
-        "\"I Worship Chaos\" and \"Morrigan\" document the DW setup across aggressive and melodic contexts"
+        "Zildjian A Custom and K Custom cymbals — the same settled setup running since Are You Dead Yet? (2005)",
+        "Pearl Eliminator double pedal — a decade of continuous use behind the double-kick work",
+        "\"I Worship Chaos\" and \"Morrigan\" document the Pearl setup across aggressive and melodic contexts under new production"
       ]
     },
     "drumKit": {
-      "title": "DW Collector's Series: A New Drum Character for Late-Era CoB",
-      "brand": "DW",
-      "model": "DW Collector's Series",
+      "title": "Pearl Masters Premium Maple: Unchanged Under a New Producer",
+      "brand": "Pearl",
+      "model": "Pearl Masters Premium Maple",
       "finish": "Custom finish",
       "config": {
         "bassdrums": [
@@ -3331,31 +3331,31 @@ export const articles = {
           "14\" x 14\" Floor Tom",
           "16\" x 16\" Floor Tom"
         ],
-        "shells": "Maple/poplar shell construction — DW Collector's Series grade"
+        "shells": "Six-ply all-maple shell construction — Pearl Masters Premium Maple grade"
       },
-      "description": "For *I Worship Chaos*, Jaska Raatikainen played the DW Collector's Series — a significant departure from the Pearl Masters MCX configuration that had defined his studio work across *Are You Dead Yet?* (2005), *Blooddrunk* (2008), and *Relentless Reckless Forever* (2011). The DW Collector's Series' maple and poplar shell construction brought a distinctly different tonal character to the *I Worship Chaos* sessions: warmer low-mid presence, more open resonance, and a shell voice that contrasted with the Pearl MCX's more focused attack character.\n\nThe DW Collector's Series uses DW's True Pitch tuning system and Edge suspension system — engineering approaches that differ meaningfully from Pearl Masters' design philosophy. For Raatikainen, the transition required the adjustment period that any experienced drummer faces when moving to a fundamentally different instrument: new tom voicing to dial in for Sonic Pump's acoustic environment, new shell character to balance in Mikko Karmila's production approach, and different mechanical feel from the toms and kick drums.\n\nThe double bass drum configuration maintained the 22\" x 18\" kick drum dimensions — continuity in the fundamental double-kick architecture across the Pearl-to-DW transition. The DW maple and poplar shells' warmer character brought a different beater-to-shell interaction to the sustained double-kick passages on *I Worship Chaos*, producing a kick sound with more low-mid body than the Pearl MCX's more attack-forward profile.\n\nThe tom spread maintained the compact CoB configuration: rack toms and floor toms positioned for the melodic fill work that defines CoB's neoclassical arrangement approach. In the DW Collector's Series' warmer voicing, these fill passages took on a rounder, more resonant character — audibly distinct from the Pearl era recordings, suited to Karmila's production approach.",
+      "description": "For *I Worship Chaos*, Jaska Raatikainen played the same Pearl Masters Premium Maple configuration that had defined his studio work across *Are You Dead Yet?* (2005), *Blooddrunk* (2008), and *Halo of Blood* (2013). The Pearl Masters Premium Maple's six-ply all-maple shell construction remained the tonal foundation it had always been: focused attack, warm tom body, and the shell resonance that lets fills function as melodic countermelodies rather than pure rhythmic punctuation.\n\nWhat changed on *I Worship Chaos* was the room's ears rather than the instrument: Mikko Karmila, producing his first Children of Bodom album at Sonic Pump Studios, brought a new approach to capturing the Pearl Masters shells that Anssi Kippo had recorded across four previous albums. The kit itself required no adjustment period — Raatikainen's decade of familiarity with the Premium Maple shells meant the only new variable in the session was the production perspective.\n\nThe double bass drum configuration maintained the 22\" x 18\" kick drum dimensions that had anchored every Pearl-era recording, giving \"I Worship Chaos\" the same sustained double-kick foundation heard on prior albums, now filtered through Karmila's different mic placement and gain staging. The tom spread continued the compact CoB configuration, tracking Alexi Laiho's guitar lines and Janne Wirman's keyboard runs with the same melodic fill vocabulary refined over the preceding decade.",
       "notes": [
-        "DW Collector's Series — major gear transition from decade-long Pearl Masters era",
-        "Maple/poplar construction brings warmer low-mid presence vs. Pearl MCX attack focus",
-        "Double 22\" x 18\" bass drums maintained — continuity in double-kick architecture across transition",
-        "DW True Pitch tuning and Edge suspension — different engineering from Pearl Masters design",
-        "First full DW studio album — adjustment to new shell character in Sonic Pump environment"
+        "Pearl Masters Premium Maple — unchanged from Halo of Blood (2013), no shell adjustments needed",
+        "First session with new producer Mikko Karmila — a production change, not a gear change",
+        "Double 22\" x 18\" bass drums maintained — continuity in double-kick architecture across a decade of Pearl use",
+        "Compact tom spread (10\", 12\", 14\", 16\") continues the melodic fill language refined since Hatebreeder",
+        "Kit fully familiar going into the session — the only new variable was Karmila's production approach"
       ],
-      "estimatedValue": "$3,000–6,000 (DW Collector's Series shell pack, 2015)"
+      "estimatedValue": "$2,500–4,500 (Pearl Masters Premium Maple shell pack, 2015)"
     },
     "snare": {
-      "title": "DW Collector's 14\" x 5.5\" Maple Snare",
-      "brand": "DW",
-      "model": "DW Collector's 14\" x 5.5\" Maple Snare",
+      "title": "Pearl Masters 14\" x 5.5\" Maple Snare",
+      "brand": "Pearl",
+      "model": "Pearl Masters 14\" x 5.5\" Maple Snare",
       "size": "14\" x 5.5\"",
-      "shell": "Maple — DW Collector's-grade construction",
-      "description": "Raatikainen's snare on *I Worship Chaos* was a DW Collector's maple model — the same shell series as the kit's tom and bass drum shells, bringing the DW construction approach to the snare with the characteristic DW maple warmth and presence.\n\nThe DW maple snare's character differed meaningfully from the Pearl Masters MCX snare that had defined Raatikainen's studio work since *Are You Dead Yet?*: the DW construction's different maple ply selection and edge design produced a snare with a fuller body and warmer upper-mid character compared to the Pearl MCX's more focused crack. In Mikko Karmila's production approach — different from Anssi Kippo's decade-long established treatment of Raatikainen's Pearl snare — the DW character was captured with fresh ears and a new post-processing approach.\n\nThe album's dynamic demands — from \"I Worship Chaos\"'s aggressive verse passages to \"Morrigan\"'s more measured arrangement — required the DW snare to serve across the same dynamic range that had characterized CoB's musical approach throughout their career. The DW Collector's snare's fuller body served the softer, more melodic passages with natural warmth; its attack remained sufficient for the aggressive sections.",
-      "tuningSetting": "Medium — DW maple character balanced for both aggressive passages and melodic dynamic range",
+      "shell": "Maple — Pearl Masters Premium Maple-grade construction",
+      "description": "Raatikainen's snare on *I Worship Chaos* was the same Pearl Masters maple model that had served *Halo of Blood* — a 14\" x 5.5\" shell delivering the focused crack and controlled sustain that had defined the CoB snare voice for a decade.\n\nThe snare's character was unchanged from prior Pearl-era albums; what differed was Mikko Karmila's treatment of it. Producing his first Children of Bodom record, Karmila brought fresh ears and a new post-processing approach to a snare sound Anssi Kippo had captured identically across four previous albums.\n\nThe album's dynamic demands — from \"I Worship Chaos\"'s aggressive verse passages to \"Morrigan\"'s more measured arrangement — required the Pearl Masters snare to serve across the same dynamic range that had characterized CoB's musical approach throughout their career. Its focused attack served the aggressive sections while remaining capable of the ghost-note nuance the softer, more melodic passages demanded.",
+      "tuningSetting": "Medium-bright — attack priority maintained for aggressive passages, controlled body for dynamic range",
       "heads": "Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)",
-      "estimatedValue": "$450–700 (DW Collector's maple snare, 2015)"
+      "estimatedValue": "$400–620 (Pearl Masters Premium Maple snare, 2015)"
     },
     "cymbals": {
-      "title": "Zildjian A Custom: Settled Configuration in a New Drum Context",
+      "title": "Zildjian A Custom: Settled Configuration Under a New Producer",
       "brand": "Zildjian",
       "series": "Zildjian A Custom / Zildjian K Custom",
       "setup": [
@@ -3363,13 +3363,13 @@ export const articles = {
           "type": "Hi-Hats",
           "model": "Zildjian A Custom 14\" Hi-Hats",
           "position": "Left side",
-          "notes": "Retained from Pearl era — settled familiarity in new DW context, bright articulation unchanged"
+          "notes": "Same pair used since Are You Dead Yet? (2005) — bright, defined articulation unchanged"
         },
         {
           "type": "Crash",
           "model": "Zildjian A Custom 17\" Crash",
           "position": "Left of hi-hats",
-          "notes": "Fast attack and brilliant finish consistent across Pearl-to-DW transition"
+          "notes": "Fast attack and brilliant finish, consistent across a decade of Pearl-era recordings"
         },
         {
           "type": "Crash",
@@ -3387,40 +3387,40 @@ export const articles = {
           "type": "China",
           "model": "Zildjian A Custom 18\" China",
           "position": "Above floor tom",
-          "notes": "Bright China accent retained from Pearl era — structural riff transition marker across DW transition"
+          "notes": "Bright China accent, the same structural riff-transition marker used since Blooddrunk"
         }
       ],
-      "description": "Jaska Raatikainen's Zildjian A Custom and K Custom cymbal setup on *I Worship Chaos* was the settled configuration retained from the Pearl era — a point of continuity across the DW Collector's drum transition. The A Custom / K Custom configuration that had been established on *Are You Dead Yet?* (2005), refined through *Blooddrunk* (2008), and carried through *Relentless Reckless Forever* (2011) remained unchanged on *I Worship Chaos*, providing familiarity in the transition album context.\n\nThe Zildjian A Custom's bright, cutting character interacted with the DW Collector's Series' warmer shell voicing to produce a new tonal balance compared to the Pearl era recordings: the DW shells' fuller low-mid presence contrasted with the A Custom's brightness in ways that differed from the Pearl MCX / A Custom combination. Mikko Karmila's production approach captured this contrast, producing a drum sound with more low-mid body in the shells and the same bright, present cymbal voice.\n\nThe settled familiarity of the A Custom / K Custom setup — a decade of continuous use by *I Worship Chaos* — provided a stable reference point during the DW transition: the cymbal configuration was known, trusted, and fully integrated with Raatikainen's playing vocabulary, allowing focus on the new DW shell character without simultaneous cymbal adjustment.\n\nOn *I Worship Chaos* tracks like \"I Worship Chaos\" and \"Morrigan,\" the A Custom crashes' bright cut against the DW shells' warmer character created a sonic contrast that Karmila's production balanced effectively: drums and cymbals occupying distinct frequency spaces in the mix rather than competing in the same mid-range register.",
+      "description": "Jaska Raatikainen's Zildjian A Custom and K Custom cymbal setup on *I Worship Chaos* was carried over without modification from *Halo of Blood* (2013) — the same configuration that had first appeared on *Are You Dead Yet?* (2005) and been refined through *Blooddrunk* (2008), now in its tenth year of continuous use.\n\nThe Zildjian A Custom's bright, cutting character remained the correct tool for CoB's dense, keyboard-driven production: the 14\" hi-hats and 17\"/18\" crashes registered clearly against Janne Wirman's synth layers exactly as they had on the three previous Pearl-era albums. Mikko Karmila's production debut with the band meant a new approach to capturing that cymbal voice, but the cymbals themselves needed no adjustment.\n\nThe settled familiarity of the A Custom / K Custom setup — a decade of continuous use by *I Worship Chaos* — provided a stable reference point during the change in production team: the cymbal configuration was known, trusted, and fully integrated with Raatikainen's playing vocabulary, allowing Karmila to focus on his approach to the room rather than any new instrument.\n\nOn *I Worship Chaos* tracks like \"I Worship Chaos\" and \"Morrigan,\" the K Custom ride's darker bell tone continued its role as the warmer counterpoint to the brighter A Custom crashes, the same balance heard across every Pearl-era CoB album since 2005.",
       "estimatedValue": "$1,500–2,100 (full Zildjian A Custom / K Custom setup, 2015)"
     },
     "hardware": {
-      "title": "DW 9000: New Pedal for the DW Transition Era",
+      "title": "Pearl Eliminator: A Decade of Total Command",
       "items": [
         {
           "type": "Bass Drum Pedals",
-          "brand": "DW",
-          "model": "DW 9000 Double Pedal",
-          "notes": "New pedal accompanying the DW Collector's drum transition — different cam geometry from Pearl Eliminator",
-          "description": "The DW 9000 double pedal on *I Worship Chaos* represented the most significant hardware adjustment of the DW transition: after a decade of Pearl Eliminator familiarity, Raatikainen moved to DW's flagship double pedal, encountering a different cam geometry and chain-drive character.\n\nThe DW 9000's floating rotor system and cam-adjustable mechanism differed from the Pearl Eliminator's established response curve — a meaningful adjustment for a drummer whose double-kick vocabulary had been developed across years of Eliminator familiarity. The *I Worship Chaos* sessions documented the early DW 9000 period: the adjustment period for the new pedal character audible in the approach to double-kick passages compared to the deep confidence of the *Relentless Reckless Forever* Eliminator performances.\n\nThe DW 9000's chain-drive system is among the most precise in the market — the floating rotor's consistent mechanical response across velocities making it a natural transition for a player of Raatikainen's technical level. \"I Worship Chaos\" and the album's more demanding double-kick tracks demonstrate the DW 9000's capability even in an early-familiarity context."
+          "brand": "Pearl",
+          "model": "Pearl Eliminator Double Pedal",
+          "notes": "A decade into the Pearl endorsement — the most deeply familiar pedal in Raatikainen's career",
+          "description": "The Pearl Eliminator double pedal on *I Worship Chaos* represented ten years of continuous use since *Are You Dead Yet?* (2005) — the Eliminator's cam geometry and chain-drive response were completely second nature by this point, unaffected by the change in producer.\n\n\"I Worship Chaos\" and the album's other demanding double-kick tracks show the Eliminator at full authority — sustained double-kick patterns delivered with the mechanical precision that a decade of familiarity produces. Mikko Karmila's new production approach captured that precision from a fresh perspective, but the pedal itself required no adjustment going into the session.\n\nThe Pearl Eliminator's chain-drive system remained one of the most reliable in Raatikainen's arsenal — its consistent mechanical response across velocities well suited to CoB's demanding double-kick material. \"I Worship Chaos\" and \"Morrigan\" both demonstrate the pedal's capability across the album's aggressive and melodic contexts alike."
         },
         {
           "type": "Sticks",
           "brand": "Vic Firth",
           "model": "Vic Firth American Classic 5A",
-          "notes": "Consistent through Pearl and DW eras — unchanged point of familiarity across the instrument transition",
-          "description": "The Vic Firth American Classic 5A remained Raatikainen's stick choice through the *I Worship Chaos* sessions — one of the constants across the Pearl-to-DW transition. The familiar balance of tip weight for fill articulation and stick leverage for power strokes served the DW Collector's Series as naturally as it had served the Pearl Masters across ten years."
+          "notes": "Consistent through the entire Pearl era — balance of tip speed for fills and leverage for power strokes",
+          "description": "The Vic Firth American Classic 5A remained Raatikainen's stick of choice through the *I Worship Chaos* sessions — unchanged since the earliest Pearl-era recordings and well suited to the album's mix of high-velocity passages and melodic dynamic range."
         },
         {
           "type": "Drumheads (Toms, Batter)",
           "brand": "Remo",
           "model": "Remo Emperor Coated",
-          "notes": "Two-ply construction for durability and controlled sustain — consistent across Pearl and DW eras"
+          "notes": "Two-ply construction for durability and controlled sustain — consistent across the full Pearl era"
         },
         {
           "type": "Drumheads (Bass, Batter)",
           "brand": "Remo",
           "model": "Remo Powerstroke 3",
-          "notes": "Focused attack and controlled low-end resonance — DW shells' warmer character requires same attack-definition treatment"
+          "notes": "Focused attack and controlled low-end resonance for double-kick definition in keyboard-heavy mix"
         }
       ],
       "heads": {
@@ -3430,13 +3430,13 @@ export const articles = {
       }
     },
     "recordingTechniques": {
-      "title": "Karmila at Sonic Pump: A New Production Voice for Late CoB",
-      "content": "*I Worship Chaos* was the first Children of Bodom album produced by Mikko Karmila rather than Anssi Kippo — a significant production change that coincided with the DW Collector's drum transition and produced a new sonic character for CoB's studio recordings. Recorded at Sonic Pump Studios, Helsinki — the same room that had hosted *Blooddrunk* (2008), *Relentless Reckless Forever* (2011), and *Halo of Blood* (2013) — the album brought fresh ears to an established environment.\n\n**Karmila vs. Kippo at Sonic Pump:**\nMikko Karmila's approach to the Sonic Pump acoustic environment differed from Kippo's established blueprint. Karmila brought a different perspective to mic placement, gain structure, and the balance between the DW Collector's shells' warmer character and the Zildjian A Custom's bright cymbal voice. The result is a drum sound on *I Worship Chaos* with a different character from the Kippo-era Sonic Pump recordings — more room dimension in the tom sound, different kick treatment that suited the DW shells' warmer low-mid content.\n\n**DW Shells in Karmila's Approach:**\nThe DW Collector's Series' warmer shell voicing required different EQ treatment from the Pearl Masters MCX's attack-forward character: Karmila's approach preserved the DW's natural low-mid body while ensuring sufficient attack transient definition for the double-kick passages and the melodic death metal arrangement density. The result was a drum sound distinctly different from any previous CoB studio album.\n\n**Cymbal Balance with New Shell Character:**\nThe Zildjian A Custom / K Custom cymbal configuration's bright character contrasted more noticeably with the DW shells' warmer presence than it had with the Pearl Masters. Karmila's mix approach addressed this contrast: positioning the A Custom brightness in the high-mid register while allowing the DW shells' warmth to fill the low-mid space that the Pearl MCX had treated differently.",
+      "title": "Karmila at Sonic Pump: A New Production Voice, a Familiar Kit",
+      "content": "*I Worship Chaos* was the first Children of Bodom album produced by Mikko Karmila rather than Anssi Kippo — a significant production change applied to an entirely unchanged Pearl Masters Premium Maple setup. Recorded at Sonic Pump Studios, Helsinki — the same room that had hosted *Blooddrunk* (2008), *Relentless Reckless Forever* (2011), and *Halo of Blood* (2013) — the album brought fresh ears to an established environment and a well-known instrument.\n\n**Karmila vs. Kippo at Sonic Pump:**\nMikko Karmila's approach to the Sonic Pump acoustic environment differed from Kippo's established blueprint. Karmila brought a different perspective to mic placement and gain structure for the same Pearl Masters shells and Zildjian A Custom cymbals that Kippo had recorded across four previous albums. The result is a drum sound on *I Worship Chaos* with a different character from the Kippo-era Sonic Pump recordings, despite identical gear.\n\n**A Familiar Kit Under New Ears:**\nWith no gear changes to account for, Karmila's production process could focus entirely on his own approach to the room rather than tone-chasing an unfamiliar instrument. The Pearl Masters shells' attack-forward character and the Eliminator's established double-kick response gave him a known quantity to build around.\n\n**Cymbal Balance Under New Production:**\nThe Zildjian A Custom / K Custom cymbal configuration's bright character was captured with Karmila's own mic placement and gain choices, producing a slightly different high-end presence than Kippo's treatment while the underlying cymbal voice itself remained unchanged.",
       "keyTechniques": [
         "Mikko Karmila production debut on CoB — new approach to Sonic Pump acoustic environment",
-        "DW Collector's warmer shell character requires different EQ treatment from Pearl MCX attack-forward profile",
-        "Fresh perspective on Sonic Pump room character — different room dimension in tom and kick treatment",
-        "A Custom brightness contrasts distinctly with DW warmth — Karmila's mix positions each in separate frequency bands"
+        "Identical Pearl Masters gear to Halo of Blood eliminates any tone-chasing in the session",
+        "Kick EQ treatment applied to the same Eliminator/Powerstroke 3 combination used on prior Pearl-era albums",
+        "A Custom/K Custom cymbal balance captured fresh by a new producer, unchanged in the cymbals themselves"
       ]
     },
     "trackAnalysis": [
@@ -3445,62 +3445,62 @@ export const articles = {
         "bpm": "165",
         "signature": "4/4",
         "highlights": [
-          "Title track — primary showcase for DW Collector's Series in aggressive melodic death metal context",
-          "DW 9000 double pedal in early familiarity: consistent double-kick patterns establishing new pedal character",
-          "A Custom hi-hat articulation at 165 BPM — settled familiarity contrasting with new DW drum character",
-          "Tom fills track Alexi Laiho's guitar lines — DW Collector's warmer tom voicing distinguishable from Pearl era"
+          "Title track — primary showcase for the Pearl Masters kit under a new producer",
+          "Pearl Eliminator double pedal at a decade of command: consistent, high-velocity double-kick patterns",
+          "A Custom hi-hat articulation at 165 BPM — settled familiarity carried straight through the producer change",
+          "Tom fills track Alexi Laiho's guitar lines — Pearl Masters tom voicing unchanged from the Kippo-era records"
         ],
-        "gearNotes": "The title track is the primary reference for the DW Collector's Series in a CoB aggressive context — compare the tom fill character to Relentless Reckless Forever to hear the Pearl MCX vs. DW Collector's tonal difference directly."
+        "gearNotes": "The title track is the primary reference for the settled Pearl Masters sound under Mikko Karmila's new production approach — compare the tom fill character to Halo of Blood to hear how little the instrument itself changed."
       },
       {
         "track": "Morrigan",
         "bpm": "140",
         "signature": "4/4",
         "highlights": [
-          "Most melodic track on I Worship Chaos — DW Collector's warmer resonance serves melodic arrangement naturally",
-          "K Custom ride prominent in melodic sections — darker bell character pairs well with DW shell warmth",
-          "Ghost note snare work demonstrates DW maple snare character across soft dynamic passages",
-          "Dynamic contrast with title track showcases full DW Collector's range from melodic to aggressive context"
+          "Most melodic track on I Worship Chaos — Pearl Masters resonance serves the melodic arrangement naturally",
+          "K Custom ride prominent in melodic sections — darker bell character pairs well with the Pearl shell voice",
+          "Ghost note snare work demonstrates the Pearl Masters snare's dynamic range across soft passages",
+          "Dynamic contrast with title track showcases the full range of a decade-settled Pearl Masters kit"
         ],
-        "gearNotes": "\"Morrigan\" is the track where the DW Collector's Series' warmer character serves the arrangement most naturally — the fuller low-mid body of the DW shells complementing the K Custom ride's darker presence in the melodic, mid-paced context."
+        "gearNotes": "\"Morrigan\" is the track where the Pearl Masters kit's melodic side is clearest — the same warm, controlled tom resonance heard across every album since Are You Dead Yet?, now captured by a new production ear."
       }
     ],
     "faq": [
       {
         "question": "What drums did Jaska Raatikainen use on I Worship Chaos?",
-        "answer": "On *I Worship Chaos* (2015), Jaska Raatikainen transitioned to DW Collector's Series drums — a significant change from the Pearl Masters MCX that had defined his studio work since *Are You Dead Yet?* (2005). The DW Collector's Series' maple and poplar shell construction brought a warmer, more open resonance character compared to the Pearl Masters' attack-forward profile. The setup centered on twin 22\" x 18\" bass drums, rack toms (10\" and 12\"), and floor toms (14\" and 16\"). For Raatikainen's complete gear history across Children of Bodom's career, see the [Jaska Raatikainen drummer profile](/drummer/jaska-raatikainen)."
+        "answer": "On *I Worship Chaos* (2015), Jaska Raatikainen played Pearl Masters Premium Maple drums — the same configuration that had defined his studio work since *Are You Dead Yet?* (2005), carried over unchanged from *Halo of Blood* (2013). The setup centered on twin 22\" x 18\" bass drums, rack toms (10\" and 12\"), and floor toms (14\" and 16\"). For Raatikainen's complete gear history across Children of Bodom's career, see the [Jaska Raatikainen drummer profile](/drummer/jaska-raatikainen)."
       },
       {
         "question": "What pedals did Jaska Raatikainen use on I Worship Chaos?",
-        "answer": "Jaska Raatikainen used the DW 9000 double pedal on *I Worship Chaos* (2015) — part of the full DW transition that accompanied the move from Pearl Masters to DW Collector's Series drums. After a decade of Pearl Eliminator familiarity, the DW 9000's floating rotor system and cam-adjustable mechanism represented a meaningful hardware adjustment. The \"I Worship Chaos\" title track demonstrates the DW 9000 in its early studio context. See the [Jaska Raatikainen full kit guide](/articles/jaska-raatikainen-drum-setup) for his complete pedal history."
+        "answer": "Jaska Raatikainen used the Pearl Eliminator double pedal on *I Worship Chaos* (2015) — the same pedal in use since *Are You Dead Yet?* (2005), by this point a decade into total familiarity. The Eliminator's cam geometry and chain-drive response are audible at full authority on the \"I Worship Chaos\" title track. See the [Halo of Blood drum setup](/articles/halo-of-blood-drum-setup) for the pedal's prior-album context."
       },
       {
         "question": "What cymbals did Jaska Raatikainen use on I Worship Chaos?",
-        "answer": "On *I Worship Chaos* (2015), Jaska Raatikainen retained the Zildjian A Custom and K Custom cymbal configuration from the Pearl era — A Custom 14\" hi-hats, A Custom crashes (17\" and 18\"), a K Custom 20\" ride, and an A Custom 18\" China. The A Custom / K Custom setup was the settled, familiar constant across the Pearl-to-DW instrument transition, providing continuity while the shell and pedal configuration changed. For cymbal context across CoB's career, see the [Blooddrunk drum setup article](/articles/blooddrunk-drum-setup)."
+        "answer": "On *I Worship Chaos* (2015), Jaska Raatikainen used the Zildjian A Custom and K Custom cymbal configuration — A Custom 14\" hi-hats, A Custom crashes (17\" and 18\"), a K Custom 20\" ride, and an A Custom 18\" China. This was the same settled configuration in place since *Are You Dead Yet?* (2005), unchanged from *Halo of Blood* (2013). For cymbal context across CoB's career, see the [Blooddrunk drum setup article](/articles/blooddrunk-drum-setup)."
       },
       {
         "question": "How does I Worship Chaos differ from earlier CoB albums in drum sound?",
-        "answer": "*I Worship Chaos* (2015) is the first CoB album with two major simultaneous changes: the DW Collector's Series drum transition (from Pearl Masters MCX) and the Mikko Karmila production debut (replacing Anssi Kippo). The DW Collector's shells' warmer maple and poplar construction produced a drum sound with more low-mid body and open resonance than the Pearl MCX's attack-forward profile, and Karmila's approach captured this character differently from Kippo's decade-long established treatment. The combination makes *I Worship Chaos* sonically distinct from all earlier CoB studio albums. For the full arc, see the [Follow the Reaper drum setup](/articles/follow-the-reaper-drum-setup) and the [Hate Crew Deathroll drum setup](/articles/hate-crew-deathroll-drum-setup)."
+        "answer": "*I Worship Chaos* (2015) is the first CoB album produced by Mikko Karmila rather than Anssi Kippo, but the instrument itself did not change — Raatikainen continued playing the same Pearl Masters Premium Maple kit, Zildjian A Custom/K Custom cymbals, and Pearl Eliminator pedal used since *Are You Dead Yet?* (2005). Karmila's fresh approach to Sonic Pump Studios gives the album a different production character from the Kippo-era records, even with identical gear. For the full arc, see the [Follow the Reaper drum setup](/articles/follow-the-reaper-drum-setup) and the [Hate Crew Deathroll drum setup](/articles/hate-crew-deathroll-drum-setup)."
       }
     ],
     "evolution": {
-      "title": "The DW Era: I Worship Chaos and the Late CoB Gear Chapter",
-      "content": "*I Worship Chaos* (2015) marks the beginning of Jaska Raatikainen's DW era — the transition from the Pearl Masters configuration that had defined his studio work across four studio albums and a decade of CoB activity. The DW Collector's Series' different shell character and the DW 9000 pedal's different mechanism brought new tonal and physical vocabulary to the late CoB period.\n\n**The Pearl Masters Decade (2005–2013):**\nFrom *Are You Dead Yet?* (2005) through *Halo of Blood* (2013), Raatikainen's Pearl Masters configuration — Premium Maple, then MCX — defined CoB's drum sound across the band's Nuclear Blast era. The Pearl Eliminator double pedal anchored the double-kick work; the Zildjian A Custom and K Custom cymbals provided the bright, articulate cymbal voice across all these albums.\n\n**The DW Transition (2015):**\n*I Worship Chaos* introduced the DW Collector's Series and DW 9000 — a full instrument change that coincided with the production change to Mikko Karmila. The Zildjian A Custom / K Custom cymbal configuration was retained as the familiar constant across the transition. The DW's warmer shell character and the 9000's different pedal mechanism required adjustment, documented in the album's production.\n\n**The Late CoB Context:**\n*I Worship Chaos* was followed by *Hexed* (2019) — CoB's final studio album before Alexi Laiho's passing in December 2020 brought the band to an end. The DW era that began on *I Worship Chaos* continued through that final chapter of the band's recording history.",
+      "title": "A Settled Pearl Kit Under New Production: I Worship Chaos in the CoB Gear Arc",
+      "content": "*I Worship Chaos* (2015) continues Jaska Raatikainen's Pearl Masters Premium Maple configuration into a second decade of use, with the only meaningful change being the arrival of producer Mikko Karmila at Sonic Pump Studios.\n\n**The Pearl Masters Decade (2005–2015):**\nFrom *Are You Dead Yet?* (2005) through *Halo of Blood* (2013) and now *I Worship Chaos* (2015), Raatikainen's Pearl Masters Premium Maple kit defined CoB's drum sound across the band's Nuclear Blast era. The Pearl Eliminator double pedal anchored the double-kick work; the Zildjian A Custom and K Custom cymbals provided the bright, articulate cymbal voice across all these albums.\n\n**The Production Change (2015):**\n*I Worship Chaos* introduced Mikko Karmila as producer, replacing Anssi Kippo's decade-long tenure behind the board. The Pearl Masters kit, the Zildjian cymbal configuration, and the Pearl Eliminator pedal were all retained exactly as they had been on *Halo of Blood* — the album documents a change in production perspective, not a change in instrument.\n\n**The Final CoB Chapter:**\n*I Worship Chaos* was followed by *Hexed* (2019) — CoB's final studio album before Alexi Laiho's passing in December 2020 brought the band to an end. The same Pearl Masters setup that carried through *I Worship Chaos* continued through that final chapter of the band's recording history.",
       "thenVsNow": [
         {
           "category": "Kit",
-          "then": "Pearl Masters MCX (Relentless Reckless Forever 2011)",
-          "now": "DW Collector's Series (I Worship Chaos 2015 — new transition)"
+          "then": "Pearl Masters MCX (Halo of Blood 2013)",
+          "now": "Pearl Masters Premium Maple (I Worship Chaos 2015 — unchanged)"
         },
         {
           "category": "Snare",
           "then": "Pearl Masters MCX 14\" x 5.5\"",
-          "now": "DW Collector's 14\" x 5.5\" Maple (new)"
+          "now": "Pearl Masters 14\" x 5.5\" Maple (consistent)"
         },
         {
           "category": "Hi-Hats",
           "then": "Zildjian A Custom 14\" (Pearl era)",
-          "now": "Zildjian A Custom 14\" (retained — continuity across transition)"
+          "now": "Zildjian A Custom 14\" (retained — unchanged)"
         },
         {
           "category": "Crashes",
@@ -3514,8 +3514,8 @@ export const articles = {
         },
         {
           "category": "Pedals",
-          "then": "Pearl Eliminator Double (decade of familiarity)",
-          "now": "DW 9000 Double (new — DW transition)"
+          "then": "Pearl Eliminator Double (Halo of Blood, eight years' familiarity)",
+          "now": "Pearl Eliminator Double (unchanged, a decade of familiarity)"
         },
         {
           "category": "Sticks",
@@ -3579,7 +3579,7 @@ export const articles = {
         {
           "@type": "Article",
           "headline": "I Worship Chaos Drum Setup: Jaska Raatikainen's Gear on Children of Bodom's 2015 Album",
-          "description": "Discover the exact drum kit, cymbals, and gear Jaska Raatikainen used on Children of Bodom's I Worship Chaos (2015). Complete breakdown of the DW Collector's Series transition kit, Zildjian A Custom cymbals, and DW 9000 double pedal.",
+          "description": "Discover the exact drum kit, cymbals, and gear Jaska Raatikainen used on Children of Bodom's I Worship Chaos (2015). Complete breakdown of the Pearl Masters Premium Maple kit, Zildjian A Custom cymbals, and Pearl Eliminator double pedal.",
           "author": {
             "@type": "Organization",
             "name": "MetalForge Editorial"
@@ -3656,7 +3656,7 @@ export const articles = {
               "name": "What drums did Jaska Raatikainen use on I Worship Chaos?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "On I Worship Chaos (2015), Jaska Raatikainen transitioned to DW Collector's Series drums — a significant change from the Pearl Masters MCX that had defined his studio work since Are You Dead Yet? (2005). The DW Collector's Series' maple and poplar construction brought warmer resonance compared to the Pearl Masters' attack-forward profile."
+                "text": "On I Worship Chaos (2015), Jaska Raatikainen played Pearl Masters Premium Maple drums — the same configuration that had defined his studio work since Are You Dead Yet? (2005), carried over unchanged from Halo of Blood (2013)."
               }
             },
             {
@@ -3664,7 +3664,7 @@ export const articles = {
               "name": "What pedals did Jaska Raatikainen use on I Worship Chaos?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Jaska Raatikainen used the DW 9000 double pedal on I Worship Chaos (2015) — part of the full DW transition alongside the DW Collector's Series drums. After a decade of Pearl Eliminator familiarity, the DW 9000's floating rotor system represented a meaningful hardware adjustment documented in the album's double-kick passages."
+                "text": "Jaska Raatikainen used the Pearl Eliminator double pedal on I Worship Chaos (2015) — the same pedal in use since Are You Dead Yet? (2005), by this point a decade into total familiarity, documented in the album's double-kick passages."
               }
             },
             {
@@ -3672,7 +3672,7 @@ export const articles = {
               "name": "What cymbals did Jaska Raatikainen use on I Worship Chaos?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Jaska Raatikainen retained the Zildjian A Custom and K Custom configuration on I Worship Chaos (2015) — A Custom 14\" hi-hats, A Custom crashes (17\" and 18\"), a K Custom 20\" ride, and an A Custom 18\" China. The A Custom / K Custom setup was the familiar constant across the Pearl-to-DW instrument transition."
+                "text": "Jaska Raatikainen retained the Zildjian A Custom and K Custom configuration on I Worship Chaos (2015) — A Custom 14\" hi-hats, A Custom crashes (17\" and 18\"), a K Custom 20\" ride, and an A Custom 18\" China. The A Custom / K Custom setup was the same settled configuration in place since Are You Dead Yet? (2005)."
               }
             },
             {
@@ -3680,7 +3680,7 @@ export const articles = {
               "name": "How does I Worship Chaos differ from earlier CoB albums in drum sound?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "I Worship Chaos (2015) is the first CoB album with two simultaneous major changes: the DW Collector's Series drum transition (from Pearl Masters MCX) and the Mikko Karmila production debut (replacing Anssi Kippo). The DW shells' warmer character and Karmila's fresh approach to Sonic Pump Studios make this album sonically distinct from all earlier CoB studio recordings."
+                "text": "I Worship Chaos (2015) is the first CoB album produced by Mikko Karmila rather than Anssi Kippo, but the instrument itself did not change — Raatikainen continued playing the same Pearl Masters Premium Maple kit, Zildjian A Custom/K Custom cymbals, and Pearl Eliminator pedal. Karmila's fresh approach to Sonic Pump Studios gives the album a different production character from the Kippo-era records, even with identical gear."
               }
             }
           ]
@@ -3688,8 +3688,8 @@ export const articles = {
       ]
     },
     "conclusion": {
-      "title": "The DW Era Begins: I Worship Chaos and the Late CoB Chapter",
-      "content": "*I Worship Chaos* (2015) is a transitional record in the truest sense — not just musically, but in the physical instruments Jaska Raatikainen brought to Sonic Pump Studios. The DW Collector's Series and DW 9000 double pedal marked the end of a decade-long Pearl Masters relationship and the beginning of a new gear chapter for late-era Children of Bodom. Combined with Mikko Karmila's fresh production approach replacing Anssi Kippo's long-established CoB blueprint, the album documented more simultaneous change than any previous CoB studio record.\n\nWhat makes *I Worship Chaos* worth studying as a drum record is precisely this confluence of change: a seasoned drummer bringing a new instrument to a familiar room with a new producer, and the characteristic adjustments that result. The DW Collector's Series' warmer shell character, the DW 9000's different pedal mechanism, and Karmila's approach to capturing both produced a drum sound that is unambiguously CoB — the neoclassical fill language, the double-kick authority, the dynamic architecture are all present — but in a tonal character that is distinctly different from all Pearl-era recordings.\n\n**For Drummers Studying I Worship Chaos:**\nStart with \"I Worship Chaos\" to hear the DW Collector's Series in its aggressive context: compare the tom fill character and kick presence directly to \"Shovel Knockout\" from *Relentless Reckless Forever* — the closest Pearl MCX reference — and the DW shell transition becomes immediately audible. Then listen to \"Morrigan\" for the DW Collector's in its natural melodic territory: the warmer shell resonance serving the mid-paced arrangement with a rounded body that the Pearl MCX's attack-forward character would not have delivered in the same way.\n\nFor the complete picture of Jaska Raatikainen's gear arc — from the Tama era through the decade-long Pearl Masters period and into the DW chapter of *I Worship Chaos* — see the [Jaska Raatikainen drummer profile](/drummer/jaska-raatikainen), the [Follow the Reaper drum setup article](/articles/follow-the-reaper-drum-setup), and the [full kit guide](/articles/jaska-raatikainen-drum-setup)."
+      "title": "New Ears, Same Kit: I Worship Chaos and the Settled Pearl Era",
+      "content": "*I Worship Chaos* (2015) is a record defined by a change in production rather than a change in instrument. Mikko Karmila's arrival at Sonic Pump Studios, replacing Anssi Kippo's decade-long tenure, brought a fresh perspective to a Pearl Masters Premium Maple setup, Zildjian A Custom/K Custom cymbal configuration, and Pearl Eliminator double pedal that had already been fully settled since *Are You Dead Yet?* (2005).\n\nWhat makes *I Worship Chaos* worth studying as a drum record is precisely this contrast: a seasoned drummer bringing a decade-familiar instrument to a familiar room with a new producer, and the subtle sonic shift that results from a fresh set of ears rather than new gear. The Pearl Masters shells' attack-forward character, the Eliminator's confident double-kick response, and Karmila's approach to capturing both produced a drum sound that is unambiguously CoB — the neoclassical fill language, the double-kick authority, the dynamic architecture are all present, carried forward unchanged from the Kippo-era records.\n\n**For Drummers Studying I Worship Chaos:**\nStart with \"I Worship Chaos\" to hear the settled Pearl Masters sound under new production: compare the tom fill character and kick presence directly to \"Waste of Skin\" from *Halo of Blood* to hear how little the instrument itself changed. Then listen to \"Morrigan\" for the Pearl kit's melodic side, the same warm, controlled tom resonance heard throughout the Pearl era, now captured with Karmila's different mic placement and gain structure.\n\nFor the complete picture of Jaska Raatikainen's gear arc — from the Tama era through the decade-long Pearl Masters period that continues here — see the [Jaska Raatikainen drummer profile](/drummer/jaska-raatikainen), the [Follow the Reaper drum setup article](/articles/follow-the-reaper-drum-setup), and the [full kit guide](/articles/jaska-raatikainen-drum-setup)."
     }
   },
   "halo-of-blood-drum-setup": {
@@ -3726,14 +3726,14 @@ export const articles = {
     "ogImage": "/images/albums/halo-of-blood-drums.webp",
     "intro": {
       "title": "The Pearl Era's Final Word: The Drum Kit Behind Halo of Blood",
-      "content": "Released on June 7, 2013, Halo of Blood is Children of Bodom's eighth full-length album and, in hindsight, the closing chapter of Jaska Raatikainen's decade-long Pearl Masters relationship. Recorded once again at Sonic Pump Studios in Helsinki with longtime producer Anssi Kippo, the album arrived two years after Relentless Reckless Forever (2011) and delivered a drum performance built on total familiarity with every piece of hardware in Raatikainen's rig.\n\nFor Jaska Raatikainen, Halo of Blood meant no gear changes at all — a rare stretch of stability in a catalog otherwise marked by steady equipment evolution. The Pearl Masters MCX shells that had reached their refined form on Relentless Reckless Forever carried over unchanged, paired with the same settled Zildjian A Custom and K Custom cymbal configuration and the same Pearl Eliminator double pedal that had anchored his double-kick work since Are You Dead Yet? (2005). Where earlier albums documented transition or refinement, Halo of Blood documents pure consolidation: eight years of Pearl ownership distilled into the tightest, most economical drum performance of the band's Nuclear Blast era.\n\nOpener \"Waste of Skin\" throws the full Pearl Eliminator authority at the listener from the first bar, while the title track \"Halo of Blood\" balances that aggression with the melodic tom phrasing that has defined Raatikainen's playing since Hatebreeder (1999). This article breaks down every component of Raatikainen's setup on Halo of Blood — the Pearl Masters MCX shells, the Zildjian cymbal configuration, the Pearl Eliminator double pedal, and the Sonic Pump Studios session that closed out the Pearl Masters decade before the DW Collector's Series transition on I Worship Chaos (2015).",
+      "content": "Released on June 7, 2013, Halo of Blood is Children of Bodom's eighth full-length album and, in hindsight, the closing chapter of Jaska Raatikainen's decade-long Pearl Masters relationship. Recorded once again at Sonic Pump Studios in Helsinki with longtime producer Anssi Kippo, the album arrived two years after Relentless Reckless Forever (2011) and delivered a drum performance built on total familiarity with every piece of hardware in Raatikainen's rig.\n\nFor Jaska Raatikainen, Halo of Blood meant no gear changes at all — a rare stretch of stability in a catalog otherwise marked by steady equipment evolution. The Pearl Masters MCX shells that had reached their refined form on Relentless Reckless Forever carried over unchanged, paired with the same settled Zildjian A Custom and K Custom cymbal configuration and the same Pearl Eliminator double pedal that had anchored his double-kick work since Are You Dead Yet? (2005). Where earlier albums documented transition or refinement, Halo of Blood documents pure consolidation: eight years of Pearl ownership distilled into the tightest, most economical drum performance of the band's Nuclear Blast era.\n\nOpener \"Waste of Skin\" throws the full Pearl Eliminator authority at the listener from the first bar, while the title track \"Halo of Blood\" balances that aggression with the melodic tom phrasing that has defined Raatikainen's playing since Hatebreeder (1999). This article breaks down every component of Raatikainen's setup on Halo of Blood — the Pearl Masters MCX shells, the Zildjian cymbal configuration, the Pearl Eliminator double pedal, and the Sonic Pump Studios session that carried the settled Pearl Masters decade into I Worship Chaos (2015) and beyond.",
       "keyPoints": [
         "Released June 7, 2013 — Children of Bodom's eighth studio album on Nuclear Blast",
         "Recorded at Sonic Pump Studios, Helsinki, with producer Anssi Kippo — the same team behind Blooddrunk and Relentless Reckless Forever",
         "Pearl Masters MCX kit carried over unchanged from Relentless Reckless Forever (2011) — the Pearl era's final configuration",
         "Zildjian A Custom and K Custom cymbals — the same settled setup running since Are You Dead Yet? (2005)",
         "Pearl Eliminator double pedal — eight years of continuous use behind the double-kick work on \"Waste of Skin\"",
-        "Last Children of Bodom album on Pearl Masters before the DW Collector's Series transition on I Worship Chaos (2015)"
+        "Pearl Masters MCX kit and Pearl Eliminator pedal continued unchanged on I Worship Chaos (2015) and Hexed (2019)"
       ]
     },
     "drumKit": {
@@ -3761,7 +3761,7 @@ export const articles = {
         "Fourth consecutive Kippo-produced Sonic Pump session with this exact kit — zero adjustment period",
         "Double 22\" x 18\" bass drums drive \"Waste of Skin\" — the album's fastest, most demanding track",
         "Compact tom spread (10\", 12\", 14\", 16\") continues the melodic fill language refined since Hatebreeder",
-        "Final studio album on Pearl Masters before the DW Collector's Series transition on I Worship Chaos"
+        "Pearl Masters MCX configuration carried forward unchanged through I Worship Chaos (2015) and Hexed (2019)"
       ],
       "estimatedValue": "$2,400–4,800 (Pearl Masters MCX shell pack, 2013)"
     },
@@ -3902,12 +3902,12 @@ export const articles = {
       },
       {
         "question": "How does Halo of Blood fit in the Children of Bodom drum setup arc?",
-        "answer": "Halo of Blood (2013) is the final Children of Bodom studio album on the Pearl Masters MCX kit — it carries the exact gear configuration from Relentless Reckless Forever (2011) unchanged, closing out an eight-year Pearl endorsement era that began on Are You Dead Yet? (2005). It directly precedes I Worship Chaos (2015), where Raatikainen transitioned to the DW Collector's Series. See the [Jaska Raatikainen drummer profile](/drummer/jaska-raatikainen) and the [I Worship Chaos drum setup](/articles/i-worship-chaos-drum-setup) for what came next."
+        "answer": "Halo of Blood (2013) carries the Pearl Masters MCX kit and the exact gear configuration from Relentless Reckless Forever (2011) unchanged, continuing the Pearl endorsement era that began on Are You Dead Yet? (2005). Raatikainen kept playing Pearl Masters drums through I Worship Chaos (2015) and Hexed (2019), the band's final album. See the [Jaska Raatikainen drummer profile](/drummer/jaska-raatikainen) and the [I Worship Chaos drum setup](/articles/i-worship-chaos-drum-setup) for what came next."
       }
     ],
     "evolution": {
       "title": "The Pearl Era's Last Word: Halo of Blood in the CoB Gear Arc",
-      "content": "Halo of Blood (2013) occupies a distinct place in Jaska Raatikainen's gear history: the only Pearl-era CoB album that introduced no new equipment whatsoever, arriving as the pure consolidation of everything established across Are You Dead Yet? (2005), Blooddrunk (2008), and Relentless Reckless Forever (2011).\n\nThe Pearl Masters Decade, Completed (2005–2013): From the Premium Maple debut on Are You Dead Yet? through the MCX refinement on Relentless Reckless Forever, Raatikainen's Pearl Masters kit had spent eight years evolving toward its most controlled, attack-forward voice. Halo of Blood is the record that simply plays that finished instrument, with the Zildjian A Custom/K Custom cymbals and Pearl Eliminator pedal equally settled.\n\nThe Turning Point Ahead (2015): Neither the band nor Raatikainen could have known in 2013 that Halo of Blood would be the last Pearl Masters album. I Worship Chaos (2015) introduced the DW Collector's Series and DW 9000 double pedal — the most significant gear transition of Raatikainen's career, arriving alongside a new producer in Mikko Karmila. See the [I Worship Chaos drum setup](/articles/i-worship-chaos-drum-setup) for the full account of that transition.",
+      "content": "Halo of Blood (2013) occupies a distinct place in Jaska Raatikainen's gear history: the only Pearl-era CoB album that introduced no new equipment whatsoever, arriving as the pure consolidation of everything established across Are You Dead Yet? (2005), Blooddrunk (2008), and Relentless Reckless Forever (2011).\n\nThe Pearl Masters Decade, Completed (2005–2013): From the Premium Maple debut on Are You Dead Yet? through the MCX refinement on Relentless Reckless Forever, Raatikainen's Pearl Masters kit had spent eight years evolving toward its most controlled, attack-forward voice. Halo of Blood is the record that simply plays that finished instrument, with the Zildjian A Custom/K Custom cymbals and Pearl Eliminator pedal equally settled.\n\nCarrying Forward (2015 and Beyond): That same Pearl Masters kit, cymbal configuration, and pedal carried forward unchanged into I Worship Chaos (2015) — the only real change on that record was a new producer, Mikko Karmila, replacing Anssi Kippo. The Pearl Masters setup remained Raatikainen's instrument all the way through Hexed (2019), the band's final album. See the [I Worship Chaos drum setup](/articles/i-worship-chaos-drum-setup) for the full account of that album.",
       "thenVsNow": [
         {
           "category": "Kit",
@@ -4098,7 +4098,7 @@ export const articles = {
               "name": "How does Halo of Blood fit in the Children of Bodom drum setup arc?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Halo of Blood (2013) is the final CoB studio album on Pearl Masters MCX — it carries the Relentless Reckless Forever (2011) gear configuration unchanged, closing an eight-year Pearl endorsement era that began on Are You Dead Yet? (2005) and directly precedes the DW Collector's Series transition on I Worship Chaos (2015)."
+                "text": "Halo of Blood (2013) carries the Pearl Masters MCX kit and the Relentless Reckless Forever (2011) gear configuration unchanged, continuing the Pearl endorsement era that began on Are You Dead Yet? (2005). Raatikainen kept the Pearl Masters setup through I Worship Chaos (2015) and Hexed (2019), the band's final album."
               }
             }
           ]
@@ -4107,7 +4107,7 @@ export const articles = {
     },
     "conclusion": {
       "title": "Consolidation, Not Change: Halo of Blood and the End of the Pearl Era",
-      "content": "Halo of Blood (2013) is the rare Jaska Raatikainen album that introduces nothing new — no shell upgrade, no cymbal swap, no pedal change. Instead, it captures eight years of Pearl Masters, Zildjian, and Eliminator familiarity distilled into the most confident, economical drum performance of CoB's Nuclear Blast era, recorded for the fourth straight time with Anssi Kippo at Sonic Pump Studios.\n\nWhat makes Halo of Blood worth studying is exactly this absence of drama: \"Waste of Skin\" delivers the Pearl Eliminator at total command from the album's opening bar, and the title track balances that aggression with the melodic tom language Raatikainen had been refining since Hatebreeder (1999). Neither track needed to reintroduce the listener to new gear — every component was already a known quantity.\n\nFor Drummers Studying Halo of Blood: Start with \"Waste of Skin\" for the Pearl Eliminator at its most assured, then compare directly to \"Shovel Knockout\" from Relentless Reckless Forever to hear how little changed between the two albums — deliberately so. Then listen to the title track for the MCX kit's melodic side, tracking Janne Wirman's keyboard lines with the same compositional precision found throughout the Pearl era.\n\nFor the complete picture of Jaska Raatikainen's gear arc — including what came immediately after this album — see the [Jaska Raatikainen drummer profile](/drummer/jaska-raatikainen), the [Relentless Reckless Forever drum setup](/articles/relentless-reckless-forever-drum-setup), and the [I Worship Chaos drum setup](/articles/i-worship-chaos-drum-setup), which documents the DW Collector's Series transition that followed."
+      "content": "Halo of Blood (2013) is the rare Jaska Raatikainen album that introduces nothing new — no shell upgrade, no cymbal swap, no pedal change. Instead, it captures eight years of Pearl Masters, Zildjian, and Eliminator familiarity distilled into the most confident, economical drum performance of CoB's Nuclear Blast era, recorded for the fourth straight time with Anssi Kippo at Sonic Pump Studios.\n\nWhat makes Halo of Blood worth studying is exactly this absence of drama: \"Waste of Skin\" delivers the Pearl Eliminator at total command from the album's opening bar, and the title track balances that aggression with the melodic tom language Raatikainen had been refining since Hatebreeder (1999). Neither track needed to reintroduce the listener to new gear — every component was already a known quantity.\n\nFor Drummers Studying Halo of Blood: Start with \"Waste of Skin\" for the Pearl Eliminator at its most assured, then compare directly to \"Shovel Knockout\" from Relentless Reckless Forever to hear how little changed between the two albums — deliberately so. Then listen to the title track for the MCX kit's melodic side, tracking Janne Wirman's keyboard lines with the same compositional precision found throughout the Pearl era.\n\nFor the complete picture of Jaska Raatikainen's gear arc — including what came immediately after this album — see the [Jaska Raatikainen drummer profile](/drummer/jaska-raatikainen), the [Relentless Reckless Forever drum setup](/articles/relentless-reckless-forever-drum-setup), and the [I Worship Chaos drum setup](/articles/i-worship-chaos-drum-setup), which documents the same Pearl Masters kit continuing under a new producer."
     }
   },
   "hexed-drum-setup": {
@@ -4130,34 +4130,34 @@ export const articles = {
     "dateModified": "2026-07-06",
     "author": "MetalForge Editorial",
     "title": "Hexed Drum Setup: Jaska Raatikainen's Gear on Children of Bodom's Final Album",
-    "description": "Discover the exact drum kit, cymbals, and gear Jaska Raatikainen used on Children of Bodom's Hexed (2019). Complete breakdown of the DW Collector's Series kit, Zildjian A Custom and K Custom cymbals, and DW 9000 double pedal behind CoB's tenth and final studio album.",
+    "description": "Discover the exact drum kit, cymbals, and gear Jaska Raatikainen used on Children of Bodom's Hexed (2019). Complete breakdown of the Pearl Masters Premium Maple kit, Zildjian A Custom and K Custom cymbals, and Pearl Eliminator double pedal behind CoB's tenth and final studio album.",
     "seoKeywords": [
       "hexed drums",
       "jaska raatikainen hexed drum setup",
       "children of bodom 2019 drum kit",
-      "jaska raatikainen dw collectors series hexed",
+      "jaska raatikainen pearl masters hexed",
       "hexed recording gear",
       "jaska raatikainen zildjian 2019",
       "children of bodom final album drums",
-      "jaska raatikainen dw 9000 hexed"
+      "jaska raatikainen pearl eliminator hexed"
     ],
     "ogImage": "/images/albums/hexed-drums.webp",
     "intro": {
       "title": "The Final Recording: The Drum Kit Behind Hexed",
-      "content": "Released on March 8, 2019, Hexed is Children of Bodom's tenth and, as it turned out, final studio album. Recorded at Sonic Pump Studios in Helsinki with producer Mikko Karmila — continuing the partnership established on I Worship Chaos (2015) — the record documents Jaska Raatikainen's last studio performance with the band before he departed Children of Bodom in November 2019, months after the album's release, as internal tensions that would soon end the group altogether came to a head.\n\nFor Jaska Raatikainen, Hexed meant a settled continuation of the DW Collector's Series setup introduced four years earlier: the maple/poplar shells, the DW 9000 double pedal, and the long-running Zildjian A Custom and K Custom cymbal configuration that had survived every gear transition of his career, from the Tama era through the Pearl Masters decade and into the DW chapter. Where I Worship Chaos had documented an adjustment period to unfamiliar equipment, Hexed captures that same DW rig four years into full command.\n\nTracks like \"Hecate's Nightmare\" showcase the DW 9000's double-kick precision at full maturity, while \"Under Grass and Clover\" — one of the album's lead singles — demonstrates the DW Collector's warmer resonance serving CoB's melodic death metal songwriting one last time. This article breaks down every component of Raatikainen's setup on Hexed — the DW Collector's Series shells, the Zildjian cymbal configuration, the DW 9000 double pedal, and the Sonic Pump Studios session that closed out his thirteen-album run behind the Children of Bodom drum kit.",
+      "content": "Released on March 8, 2019, Hexed is Children of Bodom's tenth and, as it turned out, final studio album. Recorded at Sonic Pump Studios in Helsinki with producer Mikko Karmila — continuing the partnership established on I Worship Chaos (2015) — the record documents Jaska Raatikainen's last studio performance with the band before he departed Children of Bodom in November 2019, months after the album's release, as internal tensions that would soon end the group altogether came to a head.\n\nFor Jaska Raatikainen, Hexed meant a continuation of the same Pearl Masters Premium Maple setup that had defined his sound since *Are You Dead Yet?* (2005): the six-ply maple shells, the Pearl Eliminator double pedal, and the long-running Zildjian A Custom and K Custom cymbal configuration that had survived every stage of his career, from the Tama era through the Pearl Masters decade and into this final chapter. Where I Worship Chaos had introduced a new producer to a familiar kit, Hexed captures that same settled Pearl rig one last time.\n\nTracks like \"Hecate's Nightmare\" showcase the Pearl Eliminator's double-kick precision at full command, while \"Under Grass and Clover\" — one of the album's lead singles — demonstrates the Pearl Masters kit's warm resonance serving CoB's melodic death metal songwriting one last time. This article breaks down every component of Raatikainen's setup on Hexed — the Pearl Masters Premium Maple shells, the Zildjian cymbal configuration, the Pearl Eliminator double pedal, and the Sonic Pump Studios session that closed out his thirteen-album run behind the Children of Bodom drum kit.",
       "keyPoints": [
         "Released March 8, 2019 — Children of Bodom's tenth and final studio album",
         "Recorded at Sonic Pump Studios, Helsinki, with producer Mikko Karmila — continuing from I Worship Chaos (2015)",
-        "DW Collector's Series kit — the same maple/poplar shells introduced on I Worship Chaos, now four years mature",
-        "Zildjian A Custom and K Custom cymbals — the long-running configuration retained across every gear transition",
-        "DW 9000 double pedal — fully commanded after four years, following the adjustment period documented on I Worship Chaos",
+        "Pearl Masters Premium Maple kit — the same configuration in place since Are You Dead Yet? (2005)",
+        "Zildjian A Custom and K Custom cymbals — the long-running configuration retained across his entire career",
+        "Pearl Eliminator double pedal — fourteen years of continuous use, closing out his CoB tenure at full command",
         "Jaska Raatikainen's last studio album with Children of Bodom before departing the band in November 2019"
       ]
     },
     "drumKit": {
-      "title": "DW Collector's Series: The DW Era at Full Maturity",
-      "brand": "DW",
-      "model": "DW Collector's Series",
+      "title": "Pearl Masters Premium Maple: The Pearl Era's Final Word",
+      "brand": "Pearl",
+      "model": "Pearl Masters Premium Maple",
       "finish": "Custom finish",
       "config": {
         "bassdrums": [
@@ -4171,28 +4171,28 @@ export const articles = {
           "14\" x 14\" Floor Tom",
           "16\" x 16\" Floor Tom"
         ],
-        "shells": "Maple/poplar shell construction — DW Collector's Series grade"
+        "shells": "Six-ply all-maple shell construction — Pearl Masters Premium Maple grade"
       },
-      "description": "For Hexed, Jaska Raatikainen played the same DW Collector's Series configuration introduced on I Worship Chaos (2015) — twin 22\" x 18\" bass drums, 10\"/12\" rack toms, and 14\"/16\" floor toms in DW's maple/poplar shell construction. Four years after the initial Pearl-to-DW transition, the adjustment period documented on I Worship Chaos was long finished: the DW shells' warmer, more open resonance had become as familiar to Raatikainen as the Pearl Masters MCX had been for the previous decade.\n\nMikko Karmila's now-established approach to capturing the DW Collector's Series at Sonic Pump Studios meant the shell character on Hexed required none of the exploratory EQ treatment of the 2015 sessions. The DW True Pitch tuning system and Edge suspension mounts — the engineering that had initially set the kit apart from Pearl Masters — were fully dialed in, producing a tom and kick sound with confident low-mid body across the record.\n\nThe double bass drum setup maintained the 22\" x 18\" dimensions carried since the Pearl era, giving \"Hecate's Nightmare\" and the album's other high-tempo tracks a consistent double-kick foundation. The tom spread continued CoB's melodic fill vocabulary in the DW shells' rounder voicing, closing out Raatikainen's studio drumming with the same compositional instincts he had brought to the band since Something Wild (1997).",
+      "description": "For Hexed, Jaska Raatikainen played the same Pearl Masters Premium Maple configuration carried over from I Worship Chaos (2015) and, before that, from the entire Pearl Masters decade going back to Are You Dead Yet? (2005) — twin 22\" x 18\" bass drums, 10\"/12\" rack toms, and 14\"/16\" floor toms in Pearl's six-ply all-maple shell construction. By the final album, the kit represented over a decade of total familiarity, requiring no adjustment of any kind.\n\nMikko Karmila's now-established approach to capturing the Pearl Masters shells at Sonic Pump Studios meant the shell character on Hexed required none of the exploratory treatment of his first session with the band on I Worship Chaos. The Pearl Masters' focused attack and controlled sustain were fully dialed in, producing a tom and kick sound with the same confident presence heard across the entire Nuclear Blast era.\n\nThe double bass drum setup maintained the 22\" x 18\" dimensions carried since the Pearl era began, giving \"Hecate's Nightmare\" and the album's other high-tempo tracks a consistent double-kick foundation. The tom spread continued CoB's melodic fill vocabulary in the Pearl Masters' familiar voicing, closing out Raatikainen's studio drumming with the same compositional instincts he had brought to the band since Something Wild (1997).",
       "notes": [
-        "DW Collector's Series — same kit introduced on I Worship Chaos, now four years into full command",
-        "DW True Pitch tuning and Edge suspension fully dialed in — no exploratory treatment needed",
+        "Pearl Masters Premium Maple — same kit carried through from I Worship Chaos and the full Pearl decade before it",
+        "Fully dialed in by the final album — over a decade of accumulated studio familiarity with Karmila and Kippo alike",
         "Double 22\" x 18\" bass drums drive \"Hecate's Nightmare\" and the album's fastest passages",
         "Compact tom spread (10\", 12\", 14\", 16\") carries the melodic fill language into the final CoB album",
         "Last studio kit of Raatikainen's Children of Bodom tenure before his November 2019 departure"
       ],
-      "estimatedValue": "$3,000–6,000 (DW Collector's Series shell pack, 2019)"
+      "estimatedValue": "$2,500–4,500 (Pearl Masters Premium Maple shell pack, 2019)"
     },
     "snare": {
-      "title": "DW Collector's 14\" x 5.5\" Maple Snare",
-      "brand": "DW",
-      "model": "DW Collector's 14\" x 5.5\" Maple Snare",
+      "title": "Pearl Masters 14\" x 5.5\" Maple Snare",
+      "brand": "Pearl",
+      "model": "Pearl Masters 14\" x 5.5\" Maple Snare",
       "size": "14\" x 5.5\"",
-      "shell": "Maple — DW Collector's-grade construction",
-      "description": "Raatikainen's snare on Hexed was the same DW Collector's maple model used on I Worship Chaos — a 14\" x 5.5\" shell delivering the fuller body and warmer upper-mid character that had distinguished the DW era from the Pearl Masters MCX snare of his earlier catalog.\n\nBy Hexed, Mikko Karmila's treatment of the DW snare was a fully settled part of the Sonic Pump production process, four years removed from the fresh-ears approach of I Worship Chaos. The snare handled the same dynamic range CoB had always demanded: full-velocity backbeat work on \"Hecate's Nightmare\" and the more restrained, melodic phrasing of \"Under Grass and Clover\" and \"Soon Departed.\"",
-      "tuningSetting": "Medium — DW maple character balanced for aggressive passages and melodic dynamic range",
+      "shell": "Maple — Pearl Masters Premium Maple-grade construction",
+      "description": "Raatikainen's snare on Hexed was the same Pearl Masters maple model used on I Worship Chaos and every Pearl-era album before it — a 14\" x 5.5\" shell delivering the focused crack and controlled sustain that had defined the CoB snare voice for well over a decade.\n\nBy Hexed, Mikko Karmila's treatment of the Pearl Masters snare was a fully settled part of the Sonic Pump production process, four years removed from his first session with the band on I Worship Chaos. The snare handled the same dynamic range CoB had always demanded: full-velocity backbeat work on \"Hecate's Nightmare\" and the more restrained, melodic phrasing of \"Under Grass and Clover\" and \"Soon Departed.\"",
+      "tuningSetting": "Medium-bright — attack priority maintained for aggressive passages, controlled body for dynamic range",
       "heads": "Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)",
-      "estimatedValue": "$450–700 (DW Collector's maple snare, 2019)"
+      "estimatedValue": "$400–620 (Pearl Masters Premium Maple snare, 2019)"
     },
     "cymbals": {
       "title": "Zildjian A Custom and K Custom: The Constant Across Every Era",
@@ -4203,7 +4203,7 @@ export const articles = {
           "type": "Hi-Hats",
           "model": "Zildjian A Custom 14\" Hi-Hats",
           "position": "Left side",
-          "notes": "Retained across the Pearl and DW eras alike — bright, defined articulation unchanged for over a decade"
+          "notes": "Same pair used since Are You Dead Yet? (2005) — bright, defined articulation unchanged for over a decade"
         },
         {
           "type": "Crash",
@@ -4215,13 +4215,13 @@ export const articles = {
           "type": "Crash",
           "model": "Zildjian A Custom 18\" Crash",
           "position": "Right of rack toms",
-          "notes": "Fuller crash character, unchanged across the Pearl-to-DW gear transition"
+          "notes": "Fuller crash character, unchanged across the entire Pearl era"
         },
         {
           "type": "Ride",
           "model": "Zildjian K Custom 20\" Ride",
           "position": "Far right",
-          "notes": "Darker bell character pairs with the DW shells' warmth on Hexed's melodic passages"
+          "notes": "Darker bell character pairs with the Pearl shells' warmth on Hexed's melodic passages"
         },
         {
           "type": "China",
@@ -4230,37 +4230,37 @@ export const articles = {
           "notes": "Bright China accent, the same structural riff-transition marker used since Blooddrunk"
         }
       ],
-      "description": "Jaska Raatikainen's Zildjian A Custom and K Custom cymbal setup on Hexed was the same configuration that had anchored every Children of Bodom album since Are You Dead Yet? (2005) — the one component of his rig that survived both the Premium Maple-to-MCX shell refinement and the far more dramatic Pearl-to-DW drum transition documented on I Worship Chaos.\n\nBy 2019, this cymbal setup represented fourteen years of continuous use across five studio albums and two entirely different drum kits. On Hexed, the A Custom's bright, cutting character continued to interact with the DW Collector's warmer shell voicing exactly as it had on I Worship Chaos: cymbals occupying the high-mid frequency space while the DW toms and kick filled the low-mid body, a balance Mikko Karmila had fully mastered over two album cycles.\n\nThe K Custom 20\" ride's darker presence is especially prominent on \"Under Grass and Clover\" and \"Soon Departed,\" where its textural warmth complements the DW shells' resonance in the album's more melodic, mid-paced material — a pairing that, in retrospect, closes out Raatikainen's cymbal choices for the entirety of his Children of Bodom career.",
+      "description": "Jaska Raatikainen's Zildjian A Custom and K Custom cymbal setup on Hexed was the same configuration that had anchored every Children of Bodom album since Are You Dead Yet? (2005) — a constant that ran alongside the Premium Maple-to-MCX shell refinement of the mid-2000s and carried straight through to the band's final record.\n\nBy 2019, this cymbal setup represented fourteen years of continuous use across the entire Pearl Masters era. On Hexed, the A Custom's bright, cutting character continued to interact with the Pearl Masters' shell voicing exactly as it had on every album since 2005: cymbals occupying the high-mid frequency space while the Pearl toms and kick filled the low-mid body, a balance Mikko Karmila had fully mastered over two album cycles.\n\nThe K Custom 20\" ride's darker presence is especially prominent on \"Under Grass and Clover\" and \"Soon Departed,\" where its textural warmth complements the Pearl Masters shells' resonance in the album's more melodic, mid-paced material — a pairing that, in retrospect, closes out Raatikainen's cymbal choices for the entirety of his Children of Bodom career.",
       "estimatedValue": "$1,500–2,100 (full Zildjian A Custom / K Custom setup, 2019)"
     },
     "hardware": {
-      "title": "DW 9000: Full Command in the Final Chapter",
+      "title": "Pearl Eliminator: Full Command in the Final Chapter",
       "items": [
         {
           "type": "Bass Drum Pedals",
-          "brand": "DW",
-          "model": "DW 9000 Double Pedal",
-          "notes": "Four years into the DW transition — the adjustment period from I Worship Chaos long resolved",
-          "description": "The DW 9000 double pedal on Hexed represented the far side of the adjustment period documented on I Worship Chaos (2015): after four years with DW's floating rotor system and cam-adjustable mechanism, Raatikainen's double-kick vocabulary had fully absorbed the pedal's different response curve relative to the Pearl Eliminator.\n\n\"Hecate's Nightmare\" demonstrates the DW 9000 at complete command — sustained double-kick patterns delivered with the same mechanical confidence that the Pearl Eliminator had shown on Relentless Reckless Forever, now achieved with an entirely different pedal mechanism. It stands as the final studio recording of Raatikainen's Children of Bodom double-kick work."
+          "brand": "Pearl",
+          "model": "Pearl Eliminator Double Pedal",
+          "notes": "Fourteen years into the Pearl endorsement — the most deeply familiar pedal of Raatikainen's career",
+          "description": "The Pearl Eliminator double pedal on Hexed represented the culmination of fourteen years of continuous use since Are You Dead Yet? (2005) — the Eliminator's cam geometry and chain-drive response were completely second nature by Raatikainen's final album with the band.\n\n\"Hecate's Nightmare\" demonstrates the Pearl Eliminator at complete command — sustained double-kick patterns delivered with the same mechanical confidence heard on Relentless Reckless Forever, now closing out the pedal's entire run across Raatikainen's Children of Bodom tenure. It stands as the final studio recording of his Children of Bodom double-kick work."
         },
         {
           "type": "Sticks",
           "brand": "Vic Firth",
           "model": "Vic Firth American Classic 5A",
-          "notes": "Consistent through the Tama, Pearl, and DW eras alike — the one unchanged constant across his entire CoB tenure",
+          "notes": "Consistent through the Tama and Pearl eras alike — the one unchanged constant across his entire CoB tenure",
           "description": "The Vic Firth American Classic 5A remained Raatikainen's stick choice through the Hexed sessions, closing out over two decades of use across every gear era of his Children of Bodom career."
         },
         {
           "type": "Drumheads (Toms, Batter)",
           "brand": "Remo",
           "model": "Remo Emperor Coated",
-          "notes": "Two-ply construction for durability and controlled sustain — consistent across the Pearl and DW eras"
+          "notes": "Two-ply construction for durability and controlled sustain — consistent across the full Pearl era"
         },
         {
           "type": "Drumheads (Bass, Batter)",
           "brand": "Remo",
           "model": "Remo Powerstroke 3",
-          "notes": "Focused attack and controlled low-end resonance, matched to the DW shells' warmer character"
+          "notes": "Focused attack and controlled low-end resonance, matched to the Pearl Masters shells' character"
         }
       ],
       "heads": {
@@ -4270,12 +4270,12 @@ export const articles = {
       }
     },
     "recordingTechniques": {
-      "title": "Karmila at Sonic Pump: Closing Out the DW Era",
-      "content": "Hexed was the second Children of Bodom album produced by Mikko Karmila at Sonic Pump Studios, Helsinki, following I Worship Chaos (2015). Four years on from the DW Collector's Series' debut, the Karmila/DW combination that had required careful balancing on the first attempt was now a fully mature production relationship.\n\nA Mature DW Sound: Karmila's approach to the DW Collector's warmer shell character no longer required the exploratory EQ treatment of I Worship Chaos — the balance between the DW toms' low-mid body and sufficient attack transient for the double-kick material was a known formula by 2019.\n\nDW 9000 at Full Command: \"Hecate's Nightmare\"'s double-kick passages received a kick EQ treatment refined across two album cycles: the DW 9000's mechanical response and the Powerstroke 3 heads' character were both fully understood quantities, allowing Karmila to focus on performance capture rather than tone development.\n\nCymbals as the Anchor: With the Zildjian A Custom/K Custom setup unchanged since 2005, Karmila used the cymbals as the stable reference point in the mix — positioning their established brightness against the DW shells' warmth in the same frequency arrangement worked out on I Worship Chaos.",
+      "title": "Karmila at Sonic Pump: Closing Out the Pearl Era",
+      "content": "Hexed was the second Children of Bodom album produced by Mikko Karmila at Sonic Pump Studios, Helsinki, following I Worship Chaos (2015). Four years on from his production debut with the band, the Karmila/Pearl Masters combination that had required a period of adjustment on the first attempt was now a fully mature production relationship.\n\nA Mature Pearl Sound: Karmila's approach to the Pearl Masters' attack-forward shell character no longer required the exploratory treatment of I Worship Chaos — the balance between the Pearl toms' low-mid body and sufficient attack transient for the double-kick material was a known formula by 2019.\n\nPearl Eliminator at Full Command: \"Hecate's Nightmare\"'s double-kick passages received a kick EQ treatment refined across two album cycles with Karmila and years more with Anssi Kippo before him: the Eliminator's mechanical response and the Powerstroke 3 heads' character were both fully understood quantities, allowing Karmila to focus on performance capture rather than tone development.\n\nCymbals as the Anchor: With the Zildjian A Custom/K Custom setup unchanged since 2005, Karmila used the cymbals as the stable reference point in the mix — positioning their established brightness against the Pearl Masters shells' warmth in the same frequency arrangement worked out on I Worship Chaos.",
       "keyTechniques": [
-        "Second consecutive Karmila-produced album at Sonic Pump — DW shell balance now a mature, known formula",
-        "DW 9000 kick EQ treatment refined across two album cycles rather than developed from scratch",
-        "Zildjian A Custom/K Custom cymbals serve as the stable mix reference across the entire DW era",
+        "Second consecutive Karmila-produced album at Sonic Pump — Pearl shell balance now a mature, known formula",
+        "Pearl Eliminator kick EQ treatment refined across two album cycles rather than developed from scratch",
+        "Zildjian A Custom/K Custom cymbals serve as the stable mix reference across the entire Pearl era",
         "Final Sonic Pump session of Raatikainen's Children of Bodom studio career"
       ]
     },
@@ -4285,57 +4285,57 @@ export const articles = {
         "bpm": "170",
         "signature": "4/4",
         "highlights": [
-          "Fastest track on Hexed — showcases the DW 9000 double pedal at full four-year command",
+          "Fastest track on Hexed — showcases the Pearl Eliminator double pedal at full fourteen-year command",
           "A Custom hi-hat articulation remains crisp through the track's sustained double-kick runs",
-          "DW Collector's tom fills track the guitar riffing with CoB's signature compositional density",
+          "Pearl Masters tom fills track the guitar riffing with CoB's signature compositional density",
           "China cymbal placement on transitions consistent with the pattern established since Blooddrunk"
         ],
-        "gearNotes": "\"Hecate's Nightmare\" is the clearest double-kick showcase on Hexed — the DW 9000's floating rotor system delivers consistent high-velocity response, a stark contrast to the pedal's more tentative debut on I Worship Chaos."
+        "gearNotes": "\"Hecate's Nightmare\" is the clearest double-kick showcase on Hexed — the Pearl Eliminator's chain-drive system delivers the same consistent high-velocity response documented across the entire Pearl Masters era."
       },
       {
         "track": "Under Grass and Clover",
         "bpm": "145",
         "signature": "4/4",
         "highlights": [
-          "One of Hexed's lead singles — demonstrates the DW Collector's warmer resonance in a melodic context",
+          "One of Hexed's lead singles — demonstrates the Pearl Masters kit's warm resonance in a melodic context",
           "K Custom ride prominent under the verse and chorus melodic sections",
-          "Ghost note snare work shows the DW maple snare's dynamic range at full maturity",
+          "Ghost note snare work shows the Pearl Masters snare's dynamic range at full maturity",
           "Ride and crash interplay mirrors the melodic architecture found on I Worship Chaos's \"Morrigan\""
         ],
-        "gearNotes": "\"Under Grass and Clover\" is the best reference for the mature DW Collector's Series in a melodic CoB context — the same warm, open tom resonance heard on \"Morrigan,\" now four years further refined."
+        "gearNotes": "\"Under Grass and Clover\" is the best reference for the mature Pearl Masters sound in a melodic CoB context — the same warm, controlled tom resonance heard on \"Morrigan\" and every Pearl-era album before it."
       }
     ],
     "faq": [
       {
         "question": "What drums did Jaska Raatikainen use on Hexed?",
-        "answer": "On Hexed (2019), Jaska Raatikainen played DW Collector's Series drums — the same maple/poplar shell configuration introduced on I Worship Chaos (2015), now four years into full command. The setup centered on twin 22\" x 18\" bass drums, rack toms (10\" and 12\"), and floor toms (14\" and 16\"). This was Raatikainen's last studio kit with Children of Bodom; for his complete gear history, see the [Jaska Raatikainen drummer profile](/drummer/jaska-raatikainen)."
+        "answer": "On Hexed (2019), Jaska Raatikainen played Pearl Masters Premium Maple drums — the same configuration introduced on Are You Dead Yet? (2005) and carried through I Worship Chaos (2015) unchanged. The setup centered on twin 22\" x 18\" bass drums, rack toms (10\" and 12\"), and floor toms (14\" and 16\"). This was Raatikainen's last studio kit with Children of Bodom; for his complete gear history, see the [Jaska Raatikainen drummer profile](/drummer/jaska-raatikainen)."
       },
       {
         "question": "What pedals did Jaska Raatikainen use on Hexed?",
-        "answer": "Jaska Raatikainen used the DW 9000 double pedal on Hexed (2019) — the same pedal introduced on I Worship Chaos (2015), now four years past the initial adjustment period documented on that record. \"Hecate's Nightmare\" showcases the DW 9000 at full command. See the [I Worship Chaos drum setup](/articles/i-worship-chaos-drum-setup) for the pedal's earlier transition context."
+        "answer": "Jaska Raatikainen used the Pearl Eliminator double pedal on Hexed (2019) — the same pedal in use since Are You Dead Yet? (2005), by his final album fourteen years into total command. \"Hecate's Nightmare\" showcases the Eliminator at full command. See the [I Worship Chaos drum setup](/articles/i-worship-chaos-drum-setup) for the pedal's earlier context."
       },
       {
         "question": "What cymbals did Jaska Raatikainen use on Hexed?",
-        "answer": "On Hexed (2019), Jaska Raatikainen used Zildjian A Custom and K Custom cymbals — A Custom 14\" hi-hats, A Custom crashes (17\" and 18\"), a K Custom 20\" ride, and an A Custom 18\" China. This cymbal configuration had been in continuous use since Are You Dead Yet? (2005), surviving both the Pearl Masters MCX era and the DW Collector's Series transition. For cymbal continuity across the full catalog, see the [Jaska Raatikainen full kit guide](/articles/jaska-raatikainen-drum-setup)."
+        "answer": "On Hexed (2019), Jaska Raatikainen used Zildjian A Custom and K Custom cymbals — A Custom 14\" hi-hats, A Custom crashes (17\" and 18\"), a K Custom 20\" ride, and an A Custom 18\" China. This cymbal configuration had been in continuous use since Are You Dead Yet? (2005), surviving every stage of the Pearl Masters era through to the band's final album. For cymbal continuity across the full catalog, see the [Jaska Raatikainen full kit guide](/articles/jaska-raatikainen-drum-setup)."
       },
       {
         "question": "Was Hexed Jaska Raatikainen's last album with Children of Bodom?",
-        "answer": "Yes. Hexed (2019) is Children of Bodom's tenth and final studio album, and it was Jaska Raatikainen's last studio recording with the band before he departed Children of Bodom in November 2019. The album continues the DW Collector's Series and DW 9000 setup introduced on I Worship Chaos (2015). See the [Jaska Raatikainen drummer profile](/drummer/jaska-raatikainen) and the [I Worship Chaos drum setup](/articles/i-worship-chaos-drum-setup) for the DW era that Hexed closes out."
+        "answer": "Yes. Hexed (2019) is Children of Bodom's tenth and final studio album, and it was Jaska Raatikainen's last studio recording with the band before he departed Children of Bodom in November 2019. The album continues the Pearl Masters Premium Maple and Pearl Eliminator setup carried since Are You Dead Yet? (2005). See the [Jaska Raatikainen drummer profile](/drummer/jaska-raatikainen) and the [I Worship Chaos drum setup](/articles/i-worship-chaos-drum-setup) for the Pearl era that Hexed closes out."
       }
     ],
     "evolution": {
-      "title": "The DW Era Concludes: Hexed and the End of a Career-Long Arc",
-      "content": "Hexed (2019) closes out Jaska Raatikainen's gear arc across thirteen years and three distinct configurations: the Tama Starclassic era of the early catalog, the Pearl Masters decade from Are You Dead Yet? (2005) through Halo of Blood (2013), and the DW Collector's Series chapter that began on I Worship Chaos (2015) and concludes here.\n\nThe DW Era, Matured (2015–2019): Where I Worship Chaos documented the adjustment period to unfamiliar DW Collector's shells and the DW 9000 pedal, Hexed captures that same rig four years into total command — the mirror image of how Halo of Blood had captured the Pearl Masters MCX at the end of its own multi-album refinement process.\n\nThe One Constant: Across every gear transition of Raatikainen's career — Tama to Pearl, Pearl to DW — the Zildjian A Custom and K Custom cymbal configuration never changed. On Hexed, that fourteen-year-old cymbal setup is the direct throughline connecting his final album back to Are You Dead Yet? and, in spirit, to the earliest days of the band's rise.\n\nAfter Hexed: Raatikainen departed Children of Bodom in November 2019; the band itself dissolved shortly afterward, bringing a definitive end to the drum setup arc documented across this catalog. For the album that preceded this DW maturation, see the [I Worship Chaos drum setup](/articles/i-worship-chaos-drum-setup).",
+      "title": "The Pearl Era Concludes: Hexed and the End of a Career-Long Arc",
+      "content": "Hexed (2019) closes out Jaska Raatikainen's gear arc across two distinct configurations: the Tama Starclassic era of the early catalog, and the Pearl Masters Premium Maple chapter that began on Are You Dead Yet? (2005) and continues unbroken through this final album.\n\nThe Pearl Era, Matured (2005–2019): From its introduction on Are You Dead Yet? through the MCX refinement of Relentless Reckless Forever (2011) and Halo of Blood (2013) and the producer change on I Worship Chaos (2015), the Pearl Masters Premium Maple kit remained Raatikainen's instrument for the rest of his Children of Bodom career. Hexed captures that same rig, and the same Pearl Eliminator pedal, at the close of fourteen years of total command.\n\nThe One Constant: Across every stage of Raatikainen's Pearl-era career — six-ply Premium Maple, the MCX refinement, and the producer change to Mikko Karmila — the Zildjian A Custom and K Custom cymbal configuration never changed. On Hexed, that fourteen-year-old cymbal setup is the direct throughline connecting his final album back to Are You Dead Yet? and, in spirit, to the earliest days of the band's rise.\n\nAfter Hexed: Raatikainen departed Children of Bodom in November 2019; the band itself dissolved shortly afterward, bringing a definitive end to the drum setup arc documented across this catalog. For the album that preceded this final chapter, see the [I Worship Chaos drum setup](/articles/i-worship-chaos-drum-setup).",
       "thenVsNow": [
         {
           "category": "Kit",
-          "then": "DW Collector's Series (I Worship Chaos 2015 — new transition)",
-          "now": "DW Collector's Series (Hexed 2019 — four years mature)"
+          "then": "Pearl Masters Premium Maple (I Worship Chaos 2015)",
+          "now": "Pearl Masters Premium Maple (Hexed 2019 — unchanged, final album)"
         },
         {
           "category": "Snare",
-          "then": "DW Collector's 14\" x 5.5\" Maple (new)",
-          "now": "DW Collector's 14\" x 5.5\" Maple (consistent)"
+          "then": "Pearl Masters 14\" x 5.5\" Maple",
+          "now": "Pearl Masters 14\" x 5.5\" Maple (consistent)"
         },
         {
           "category": "Hi-Hats",
@@ -4354,8 +4354,8 @@ export const articles = {
         },
         {
           "category": "Pedals",
-          "then": "DW 9000 Double (new — DW transition)",
-          "now": "DW 9000 Double (full command, four years mature)"
+          "then": "Pearl Eliminator Double (a decade of familiarity)",
+          "now": "Pearl Eliminator Double (fourteen years, final CoB album)"
         },
         {
           "category": "Sticks",
@@ -4411,7 +4411,7 @@ export const articles = {
         {
           "@type": "Article",
           "headline": "Hexed Drum Setup: Jaska Raatikainen's Gear on Children of Bodom's Final Album",
-          "description": "Discover the exact drum kit, cymbals, and gear Jaska Raatikainen used on Children of Bodom's Hexed (2019). Complete breakdown of the DW Collector's Series kit, Zildjian A Custom and K Custom cymbals, and DW 9000 double pedal.",
+          "description": "Discover the exact drum kit, cymbals, and gear Jaska Raatikainen used on Children of Bodom's Hexed (2019). Complete breakdown of the Pearl Masters Premium Maple kit, Zildjian A Custom and K Custom cymbals, and Pearl Eliminator double pedal.",
           "author": {
             "@type": "Organization",
             "name": "MetalForge Editorial"
@@ -4496,7 +4496,7 @@ export const articles = {
               "name": "What drums did Jaska Raatikainen use on Hexed?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "On Hexed (2019), Jaska Raatikainen played DW Collector's Series drums — the same shell configuration introduced on I Worship Chaos (2015), now four years into full command. The setup centered on twin 22\" x 18\" bass drums with rack toms (10\" and 12\") and floor toms (14\" and 16\")."
+                "text": "On Hexed (2019), Jaska Raatikainen played Pearl Masters Premium Maple drums — the same configuration introduced on Are You Dead Yet? (2005) and carried through I Worship Chaos (2015) unchanged. The setup centered on twin 22\" x 18\" bass drums with rack toms (10\" and 12\") and floor toms (14\" and 16\")."
               }
             },
             {
@@ -4504,7 +4504,7 @@ export const articles = {
               "name": "What pedals did Jaska Raatikainen use on Hexed?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Jaska Raatikainen used the DW 9000 double pedal on Hexed (2019) — the same pedal introduced on I Worship Chaos (2015), now well past the initial adjustment period. \"Hecate's Nightmare\" showcases the DW 9000 at full command."
+                "text": "Jaska Raatikainen used the Pearl Eliminator double pedal on Hexed (2019) — the same pedal in use since Are You Dead Yet? (2005), by his final album fourteen years into total command. \"Hecate's Nightmare\" showcases the Eliminator at full command."
               }
             },
             {
@@ -4512,7 +4512,7 @@ export const articles = {
               "name": "What cymbals did Jaska Raatikainen use on Hexed?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Jaska Raatikainen used Zildjian A Custom 14\" hi-hats, A Custom crashes (17\" and 18\"), a K Custom 20\" ride, and an A Custom 18\" China on Hexed (2019) — a cymbal configuration in continuous use since Are You Dead Yet? (2005), surviving both the Pearl Masters and DW Collector's Series eras."
+                "text": "Jaska Raatikainen used Zildjian A Custom 14\" hi-hats, A Custom crashes (17\" and 18\"), a K Custom 20\" ride, and an A Custom 18\" China on Hexed (2019) — a cymbal configuration in continuous use since Are You Dead Yet? (2005), spanning his entire Pearl Masters era through to the band's final album."
               }
             },
             {
@@ -4529,7 +4529,7 @@ export const articles = {
     },
     "conclusion": {
       "title": "The Final Chapter: Hexed and the Close of a Career-Long Gear Arc",
-      "content": "Hexed (2019) is the record that closes out Jaska Raatikainen's entire Children of Bodom gear history — the DW Collector's Series and DW 9000 double pedal at full four-year maturity, the Zildjian A Custom and K Custom cymbals unchanged since Are You Dead Yet? (2005), and the Sonic Pump Studios/Mikko Karmila production partnership carried over from I Worship Chaos.\n\nWhat makes Hexed essential listening for drummers studying Raatikainen's catalog is the sense of completed arcs: \"Hecate's Nightmare\" shows the DW 9000 pedal delivering the same mechanical confidence the Pearl Eliminator had shown on Relentless Reckless Forever, just with an entirely different mechanism fully absorbed. \"Under Grass and Clover\" closes the melodic side of his playing with the same warm, keyboard-tracking tom language first heard on Something Wild (1997) over two decades earlier.\n\nFor Drummers Studying Hexed: Start with \"Hecate's Nightmare\" to hear the DW Collector's Series and DW 9000 at their most confident, then compare it to the pedal's more tentative debut on \"I Worship Chaos\" (the title track) to hear four years of adjustment resolve into command. Then listen to \"Under Grass and Clover\" for the DW shells' melodic side, a direct descendant of \"Morrigan\"'s warm resonance.\n\nFor the complete picture of Jaska Raatikainen's career-spanning gear arc — from the Tama Starclassic beginnings through the Pearl Masters decade and into this final DW chapter — see the [Jaska Raatikainen drummer profile](/drummer/jaska-raatikainen), the [I Worship Chaos drum setup](/articles/i-worship-chaos-drum-setup), and the [full kit guide](/articles/jaska-raatikainen-drum-setup)."
+      "content": "Hexed (2019) is the record that closes out Jaska Raatikainen's entire Children of Bodom gear history — the Pearl Masters Premium Maple kit and Pearl Eliminator double pedal at full fourteen-year maturity, the Zildjian A Custom and K Custom cymbals unchanged since Are You Dead Yet? (2005), and the Sonic Pump Studios/Mikko Karmila production partnership carried over from I Worship Chaos.\n\nWhat makes Hexed essential listening for drummers studying Raatikainen's catalog is the sense of completed arcs: \"Hecate's Nightmare\" shows the Pearl Eliminator delivering the same mechanical confidence it had shown on Relentless Reckless Forever, now closing out fourteen years of total command. \"Under Grass and Clover\" closes the melodic side of his playing with the same warm, keyboard-tracking tom language first heard on Something Wild (1997) over two decades earlier.\n\nFor Drummers Studying Hexed: Start with \"Hecate's Nightmare\" to hear the Pearl Masters kit and Pearl Eliminator at their most confident, then compare it directly to \"Waste of Skin\" from Halo of Blood to hear how little the instrument itself changed across the band's final three albums. Then listen to \"Under Grass and Clover\" for the Pearl shells' melodic side, a direct descendant of \"Morrigan\"'s warm resonance.\n\nFor the complete picture of Jaska Raatikainen's career-spanning gear arc — from the Tama Starclassic beginnings through the Pearl Masters era that carried him to the end of Children of Bodom's recording history — see the [Jaska Raatikainen drummer profile](/drummer/jaska-raatikainen), the [I Worship Chaos drum setup](/articles/i-worship-chaos-drum-setup), and the [full kit guide](/articles/jaska-raatikainen-drum-setup)."
     }
   }
 };

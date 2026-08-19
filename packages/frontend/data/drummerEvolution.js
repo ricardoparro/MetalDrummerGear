@@ -3622,23 +3622,23 @@ export const DRUMMER_EVOLUTION = {
         years: '2019–Present',
         startYear: 2019,
         endYear: 2026,
-        description: 'After a 13-year studio absence, Tool returned with their most ambitious album — and Carey\'s most elaborate kit in history. The Fear Inoculum rig is a masterclass in custom drum architecture: a massive DW custom kit, multiple Roland electronics, gongs, and a custom MIDI trigger array.',
+        description: 'After a 13-year studio absence, Tool returned with their most ambitious album — and Carey\'s most elaborate kit in history. The Fear Inoculum rig is a masterclass in custom drum architecture: an expanded Sonor SQ2 configuration, multiple Roland electronics, gongs, and a custom MIDI trigger array.',
         albums: ['10,000 Days (2006)', 'Fear Inoculum (2019)'],
         tours: ['10,000 Days Tour', 'Fear Inoculum World Tour'],
         image: null,
 
         gear: {
           drums: {
-            item: 'DW Collector\'s Series Custom',
-            details: 'Custom maple shells, custom lacquer: 22"/24" kicks, 8"/10"/12"/13"/14"/16"/18"/20" toms',
-            notes: 'Fully custom DW Collector\'s Series — 8 toms, dual kicks, one of the largest touring configurations in rock. Purpose-built for polyrhythmic complexity.',
+            item: 'Sonor SQ2 Heavy Beech',
+            details: 'Expanded SQ2 configuration with Octobans (eight chromatically-tuned single-headed drums) and LP Bongo Drums added to the core kit',
+            notes: 'Long-term Sonor SQ2 setup expanded for Fear Inoculum\'s touring rig with additional percussion voices and a deeper electronics integration to support the album\'s cinematic, ambient textures.',
             change: CHANGE_TYPES.UPGRADE,
           },
           snare: {
-            item: 'DW Collector\'s Series 14"×6.5" + Secondary Snare',
-            details: 'Primary maple snare + secondary steel for cross-pattern work',
-            notes: 'Dual snare configuration allows Carey to play across different snare voices in complex rhythmic passages.',
-            change: CHANGE_TYPES.UPGRADE,
+            item: 'Sonor Danny Carey Signature 14"×8" Bronze',
+            details: 'Signature bronze snare delivering the fat, cutting crack central to Tool\'s rhythmic presence',
+            notes: 'Carey\'s longtime Sonor signature snare, unchanged in this era.',
+            change: null,
           },
           cymbals: {
             item: 'Paiste Signature / 602 / Custom + Gongs',
@@ -3647,9 +3647,9 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.UPGRADE,
           },
           hardware: {
-            item: 'Tama Iron Cobra 900 + Speed Cobra',
-            details: 'Multiple pedal configurations; custom cage hardware',
-            notes: 'Custom hardware cage designed to hold the vast percussion array in stable touring configuration.',
+            item: 'Sonor Giant Step Twin Effect Double Pedal',
+            details: 'Sonor Drummer Throne; Mandala Drum electronic pads for melodic sample triggering',
+            notes: 'Sonor double-pedal and throne hardware carried over from earlier eras, paired with Mandala pads for the electronics-heavy Fear Inoculum touring rig.',
             change: null,
           },
           sticks: {
@@ -3679,8 +3679,7 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
-          'Expanded to 8 toms — most complex DW kit configuration',
-          'Dual snare setup for cross-pattern voice options',
+          'Expanded Sonor SQ2 configuration with Octobans and LP Bongo Drums',
           'Gong integration for full suspended percussion array',
           'Custom MIDI trigger and sampling system',
           'Fear Inoculum (2019) — Tool\'s first album in 13 years',

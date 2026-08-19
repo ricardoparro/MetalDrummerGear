@@ -2387,39 +2387,39 @@ export const DRUMMER_EVOLUTION = {
 
         gear: {
           drums: {
-            item: 'Gretsch Brann Dailor Signature (current)',
-            details: 'Maple shells, custom graphic wrap: 22" kick, 8"/10"/12"/14"/16" toms',
-            notes: 'Current signature kit — custom graphic wrap referencing Hushed and Grim artwork.',
+            item: 'Tama Starclassic Performer B/B',
+            details: 'Birch/bubinga shells: 22" kick, 8"/10"/12"/14"/16" toms',
+            notes: 'Longtime Tama Starclassic Performer B/B setup — birch/bubinga shells for warm, focused attack on the double album.',
             change: null,
           },
           snare: {
-            item: 'Gretsch Brann Dailor Signature 14"×6.5"',
+            item: 'Tama S.L.P. G-Maple 14"×6.5"',
             details: 'Current production model',
             notes: 'Definitive snare sound — warm, musical, and unmistakably Dailor.',
             change: null,
           },
           cymbals: {
-            item: 'Zildjian K Series / K Constantinople',
-            details: '14" K hi-hats, K Dark crashes, 22" K Constantinople ride, 20" China',
-            notes: 'K Constantinople ride brings orchestral complexity to the dark, layered album.',
-            change: CHANGE_TYPES.UPGRADE,
+            item: 'Meinl Byzance series',
+            details: '15" Byzance Dark Hi-Hats, 18"/19" crashes, 21" Ghost Ride, 18" China',
+            notes: 'Meinl Byzance Series brings orchestral complexity to the dark, layered album.',
+            change: null,
           },
           hardware: {
-            item: 'DW 9000XF Double Pedal',
-            details: 'Extended footboard, current model',
-            notes: 'Consistent DW 9000XF throughout recent years.',
+            item: 'Tama Speed Cobra Double Pedal',
+            details: 'Tama Iron Cobra Lever Glide Hi-Hat Stand, Tama 1st Chair Ergo-Rider Throne',
+            notes: 'Longtime Tama hardware endorsement — Speed Cobra double pedal drives Mastodon\'s polyrhythmic double bass patterns.',
             change: null,
           },
           sticks: {
-            item: 'Vic Firth Brann Dailor Signature',
+            item: 'Vater 5B',
             details: 'Current production model',
-            notes: 'Over a decade of Vic Firth signature partnership.',
+            notes: 'Vater 5B sticks complete the rig.',
             change: null,
           },
           heads: {
             item: 'Remo Coated Ambassador / Fiberskyn',
             details: 'Consistent warm head combination',
-            notes: 'The Gretsch/Remo combination that has defined Dailor\'s tone for 15+ years.',
+            notes: 'A warm head combination that has defined Dailor\'s tone for 15+ years.',
             change: null,
           },
           electronics: {
@@ -2437,14 +2437,14 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
-          'K Constantinople ride for orchestral depth on double album',
+          'Meinl Byzance Series cymbals for orchestral depth on double album',
           'IEM click track system fully integrated',
-          'Custom graphic wrap signature kit — album tie-in',
+          'Tama Starclassic Performer B/B refined for expansive melodic tom work',
           'Most sonically rich and refined setup of Dailor\'s career',
         ],
 
         quote: {
-          text: "Hushed and Grim was for Nick. Every note was for him. The kit had to carry that weight — and Gretsch always delivers that warmth.",
+          text: "Hushed and Grim was for Nick. Every note was for him. The kit had to carry that weight.",
           source: 'Revolver Magazine, 2021',
         },
 

@@ -2121,7 +2121,7 @@ export const GEAR_PRICE_HISTORY = {
   // ==========================================
   // ==========================================
   // CHRIS ADLER - 2004 Ashes of the Wake Era
-  // DW Collector's Series Setup
+  // Mapex Deep Forest Setup
   // ==========================================
   'chris-adler': {
     slug: 'chris-adler',
@@ -2132,37 +2132,37 @@ export const GEAR_PRICE_HISTORY = {
     albumReference: 'Ashes of the Wake (2004)',
     profileImage: '/images/drummers/chris-adler.webp',
 
-    summary: "Chris Adler's 2004 DW Collector's Series setup from Lamb of God's Ashes of the Wake — the album that cemented LoG as leaders of the New Wave of American Heavy Metal. Adler combined a high-end DW custom shell pack with Zildjian A Custom cymbals and DW 9002 double pedals to produce the precise, powerful groove that defined modern American groove metal drumming. The DW Collector's maple shells delivered a focused mid-range punch with fast attack, ideal for the tight polyrhythmic patterns and explosive double-kick runs throughout the album. This setup's blend of premium hardware and pro-grade consistency helped Adler earn a reputation as one of the most technically precise groove metal drummers of his generation.",
+    summary: "Chris Adler's 2004 Mapex Deep Forest setup from Lamb of God's Ashes of the Wake — the album that cemented LoG as leaders of the New Wave of American Heavy Metal. Adler debuted his new Mapex endorsement on this record, pairing an all-walnut Deep Forest shell pack with Zildjian A Custom cymbals and a Mapex Falcon double pedal to produce the precise, powerful groove that defined modern American groove metal drumming. The Deep Forest's walnut shells delivered a focused mid-range punch with fast attack, ideal for the tight polyrhythmic patterns and explosive double-kick runs throughout the album. This setup's blend of premium hardware and pro-grade consistency helped Adler earn a reputation as one of the most technically precise groove metal drummers of his generation.",
 
     setup: {
       drums: {
-        item: "DW Collector's Series Maple",
+        item: 'Mapex Deep Forest All-Walnut',
         model: '6-piece shell pack with double kick',
-        specs: '22"x18" kick (×2), 10"x8" rack, 12"x9" rack, 14"x12" floor, 16"x14" floor — custom lacquer finish',
+        specs: '22"x18" kick (×2), 10"x8" rack, 12"x9" rack, 14"x12" floor, 16"x14" floor — natural walnut finish',
         originalPrice: 4000,
         year: 2004,
-        source: "DW Collector's Series MSRP 2004, adjusted for custom configuration",
-        notes: "DW Collector's maple shells gave Adler a focused, punchy attack ideal for groove metal's precision riffing. The dual 22\" kicks were essential for the alternating kick patterns throughout Ashes of the Wake.",
+        source: 'Mapex Deep Forest Series MSRP 2004, adjusted for custom configuration',
+        notes: "Mapex's all-walnut Deep Forest shells gave Adler a focused, punchy attack ideal for groove metal's precision riffing — the kit he debuted alongside his new Mapex endorsement on Ashes of the Wake. The dual 22\" kicks were essential for the alternating kick patterns throughout the album.",
         vintageValue2026: 3500,
         modernEquivalent: {
-          item: "DW Collector's Series 6-piece",
+          item: 'Mapex Saturn Series 6-piece',
           price: 5200,
-          link: 'dw-collectors-series',
+          link: 'mapex-saturn-series-adler',
         },
       },
       snare: {
-        item: 'DW Collector\'s Series 14"x6.5" Aluminum',
-        model: 'Collector\'s aluminum snare',
-        specs: '14"x6.5" aluminum shell, True-Pitch tension rods',
+        item: 'Mapex Deep Forest 14"x6.5" Walnut',
+        model: 'Deep Forest walnut snare',
+        specs: '14"x6.5" walnut shell, matched to the Deep Forest kit',
         originalPrice: 450,
         year: 2004,
-        source: "DW Collector's snare MSRP 2004",
-        notes: "The aluminum shell delivered a sharp, bright crack that cut through the dense guitar layers on Ashes of the Wake. Adler's rimshots on tracks like 'Laid to Rest' became a defining sound of mid-2000s metal production.",
+        source: 'Mapex Deep Forest Series snare MSRP 2004',
+        notes: "The walnut shell delivered a warm, focused crack that cut through the dense guitar layers on Ashes of the Wake. Adler's rimshots on tracks like 'Laid to Rest' became a defining sound of mid-2000s metal production.",
         vintageValue2026: 600,
         modernEquivalent: {
-          item: 'DW Collector\'s Series Aluminum Snare',
+          item: 'Mapex Black Panther Design Lab Snare',
           price: 700,
-          link: 'dw-collectors-aluminum-snare',
+          link: 'mapex-black-panther-snare-adler',
         },
       },
       cymbals: {
@@ -2181,18 +2181,18 @@ export const GEAR_PRICE_HISTORY = {
         },
       },
       hardware: {
-        item: 'DW 9000 Series Hardware + DW 9002 Double Pedal',
-        model: 'DW 9000 series stands and DW 9002 double pedal',
-        specs: 'DW 9002 double pedal, DW 9300 hi-hat stand, 3× DW 9700 boom stands, DW 9300 snare stand',
+        item: 'Mapex Hardware + Mapex Falcon Double Pedal',
+        model: 'Mapex stands and Mapex Falcon double pedal',
+        specs: 'Mapex Falcon double pedal, Mapex hi-hat stand, 3× Mapex boom stands, Mapex snare stand',
         originalPrice: 1100,
         year: 2004,
-        source: 'DW 9000 series MSRP 2004, DW 9002 MSRP 2004',
-        notes: "The DW 9002's turbo-drive cam system gave Adler the fast rebound and consistent stroke needed for the intricate double-kick patterns across Ashes of the Wake. Its legacy as the industry-standard metal double pedal was already established by 2004.",
+        source: 'Mapex hardware catalog 2004, Mapex Falcon MSRP 2004',
+        notes: "The Mapex Falcon's cam system gave Adler the fast rebound and consistent stroke needed for the intricate double-kick patterns across Ashes of the Wake. It became a mainstay of his Mapex-endorsed touring setup in the years that followed.",
         vintageValue2026: 1400,
         modernEquivalent: {
-          item: 'DW 9002 Double Pedal + 9000 Hardware Pack',
+          item: 'Mapex Falcon Double Pedal + Hardware Pack',
           price: 1800,
-          link: 'dw-9002-double-pedal',
+          link: 'mapex-falcon-double-pedal-adler',
         },
       },
       sticks: {
@@ -2240,21 +2240,21 @@ export const GEAR_PRICE_HISTORY = {
       { year: 2009, price: 7800, label: 'Wrath era', event: 'LoG headlining arena tours' },
       { year: 2012, price: 8400, label: 'Pearl endorsement', event: 'Adler transitions to Pearl Reference Pure' },
       { year: 2015, price: 9000, label: 'VII era', event: 'LoG reaches commercial peak' },
-      { year: 2020, price: 10500, label: 'Pandemic premium', event: "Vintage DW Collector's values rise" },
+      { year: 2020, price: 10500, label: 'Pandemic premium', event: 'Vintage Mapex Deep Forest values rise' },
       { year: 2026, price: 11788, label: 'Current adjusted', event: 'Inflation-adjusted value' },
     ],
 
     sources: [
-      { title: "DW Collector's Series Professional Catalog", year: 2004, type: 'catalog' },
+      { title: 'Mapex Deep Forest Series Professional Catalog', year: 2004, type: 'catalog' },
       { title: 'Modern Drummer — Chris Adler Ashes of the Wake Feature', year: 2004, type: 'interview' },
       { title: 'Metal Hammer — Lamb of God Drum Rundown', year: 2005, type: 'interview' },
-      { title: "Reverb Price Guide — DW Collector's Series Vintage", year: 2025, type: 'market' },
+      { title: 'Reverb Price Guide — Mapex Deep Forest Series Vintage', year: 2025, type: 'market' },
     ],
 
     meta: {
       title: "Chris Adler 2004 Drum Setup Cost | Ashes of the Wake Era Gear Prices",
-      description: "How much did Chris Adler's 2004 Lamb of God drum kit cost? Original ~$6,798, inflation-adjusted to ~$11,788 today. Complete DW Collector's breakdown from the Ashes of the Wake era.",
-      keywords: ['chris adler drum kit', 'lamb of god drummer gear', 'ashes of the wake drums', 'chris adler dw setup', 'lamb of god drum kit cost'],
+      description: "How much did Chris Adler's 2004 Lamb of God drum kit cost? Original ~$6,798, inflation-adjusted to ~$11,788 today. Complete Mapex Deep Forest breakdown from the Ashes of the Wake era.",
+      keywords: ['chris adler drum kit', 'lamb of god drummer gear', 'ashes of the wake drums', 'chris adler mapex setup', 'lamb of god drum kit cost'],
     },
   },
 
@@ -2962,7 +2962,7 @@ export const GEAR_PRICE_HISTORY = {
     albumReference: 'Machine Messiah (2017)',
     profileImage: '/images/drummers/eloy-casagrande.webp',
 
-    summary: "Eloy Casagrande's 2017 Sepultura setup from Machine Messiah — the album that cemented his reputation as one of the most complete heavy metal drummers of his generation. His Mapex Meridian Maple configuration delivered the power, precision, and versatility needed to handle Sepultura's hybrid of thrash, groove metal, and progressive complexity. Casagrande later joined Slipknot in 2023–24, upgrading to a Pearl Reference touring rig for stadium-scale performances.",
+    summary: "Eloy Casagrande's 2017 Sepultura setup from Machine Messiah — the album that cemented his reputation as one of the most complete heavy metal drummers of his generation. His Mapex Meridian Maple configuration delivered the power, precision, and versatility needed to handle Sepultura's hybrid of thrash, groove metal, and progressive complexity. Casagrande later joined Slipknot in 2023–24, switching to a Tama Starclassic Bubinga touring rig with Paiste cymbals for stadium-scale performances.",
 
     setup: {
       drums: {
@@ -3069,7 +3069,7 @@ export const GEAR_PRICE_HISTORY = {
       { year: 2019, price: 4500, label: 'Quadra era', event: 'Casagrande continues Sepultura evolution' },
       { year: 2021, price: 5100, label: 'SepulQuarta era', event: 'Sepultura releases live acoustic album' },
       { year: 2023, price: 5400, label: 'Slipknot announcement', event: 'Casagrande named as new Slipknot drummer' },
-      { year: 2024, price: 5600, label: 'Pearl Reference era', event: 'Casagrande upgrades to Pearl Reference for Slipknot touring rig' },
+      { year: 2024, price: 5600, label: 'Slipknot Tama era', event: 'Casagrande switches to Tama Starclassic Bubinga with Paiste cymbals for Slipknot touring rig' },
       { year: 2025, price: 5750, label: 'Slipknot touring', event: 'Casagrande on international Slipknot tour circuit' },
       { year: 2026, price: 5510, label: 'Current adjusted', event: 'Inflation-adjusted value' },
     ],
@@ -3083,7 +3083,7 @@ export const GEAR_PRICE_HISTORY = {
 
     meta: {
       title: "Eloy Casagrande 2017 Drum Setup Cost | Machine Messiah Era Gear Prices",
-      description: "How much did Eloy Casagrande's 2017 Sepultura drum kit cost? Original ~$4,124, inflation-adjusted to ~$5,510 today. Complete Mapex Meridian Maple breakdown from the Machine Messiah era, plus his Slipknot-era Pearl Reference upgrade.",
+      description: "How much did Eloy Casagrande's 2017 Sepultura drum kit cost? Original ~$4,124, inflation-adjusted to ~$5,510 today. Complete Mapex Meridian Maple breakdown from the Machine Messiah era, plus his Slipknot-era Tama Starclassic switch.",
       keywords: ['eloy casagrande drum kit', 'sepultura drummer gear', 'machine messiah drums', 'eloy casagrande mapex setup', 'slipknot new drummer gear cost'],
     },
   },
@@ -3380,7 +3380,7 @@ export const GEAR_PRICE_HISTORY = {
     albumReference: 'Periphery III: Select Difficulty (2016)',
     profileImage: '/images/drummers/matt-halpern.webp',
 
-    summary: "Matt Halpern's 2016 setup behind Periphery III: Select Difficulty captures the moment djent drumming earned formal recognition from the mainstream music industry — the album's \"The Price Is Wrong\" brought Periphery a Grammy nomination for Best Metal Performance, the first for any djent-identified act. By 2016, Halpern's gear story had completed a full arc: the DW Collector's Series and Sabian HHX cymbals that recorded Periphery's 2010 self-titled debut had given way, via the transitional Periphery II (2012) sessions, to a full Mapex Saturn endorsement and a comprehensive Meinl Byzance cymbal setup. The Mapex Saturn's maple/walnut hybrid shells and SONIClear bearing edges delivered the focused attack that producer Jens Bogren's mix demanded, while a Mapex Black Panther Design Lab snare — offered in cherry, brass, maple, and steel shell options — gave Halpern a signature-tier drum that could shift from explosive backbeat authority to whisper-quiet ghost notes within a single measure. DW 9000 double pedals, chosen for their organic chain-drive feel over the more clinical direct-drive alternatives common in extreme metal, anchored hardware that also included Mapex's flagship Falcon hi-hat stand and Saddle throne. The complete 2016 rig cost approximately $10,398, equivalent to roughly $14,200 in 2026 after CPI adjustment. Halpern's gear has since evolved again — into the Mapex Saturn V MH Exotic series that powers Hail Stan (2019) and Aliens (2023) — but Select Difficulty remains the high-water mark where the Mapex/Meinl combination first proved capable of Grammy-caliber recognition, cementing Halpern's status as one of progressive metal's most influential drum-gear tastemakers.",
+    summary: "Matt Halpern's 2016 setup behind Periphery III: Select Difficulty captures the moment djent drumming earned formal recognition from the mainstream music industry — the album's \"The Price Is Wrong\" brought Periphery a Grammy nomination for Best Metal Performance, the first for any djent-identified act. By 2016, Halpern's gear story had completed a full arc: the DW Collector's Series and Sabian HHX cymbals that recorded Periphery's 2010 self-titled debut had given way, via the transitional Periphery II (2012) sessions, to a full Mapex Saturn endorsement and a comprehensive Meinl Byzance cymbal setup. The Mapex Saturn's maple/walnut hybrid shells and SONIClear bearing edges delivered the focused attack that producer Jens Bogren's mix demanded, while a Mapex Black Panther Design Lab snare — offered in cherry, brass, maple, and steel shell options — gave Halpern a signature-tier drum that could shift from explosive backbeat authority to whisper-quiet ghost notes within a single measure. DW 9000 double pedals, chosen for their organic chain-drive feel over the more clinical direct-drive alternatives common in extreme metal, anchored hardware that also included Mapex's flagship Falcon hi-hat stand and Saddle throne. The complete 2016 rig cost approximately $10,398, equivalent to roughly $14,200 in 2026 after CPI adjustment. Halpern's gear has since evolved again — he left Mapex for a Pearl Reference Series endorsement, the setup that powers Hail Stan (2019) and Aliens (2023) — but Select Difficulty remains the high-water mark where the Mapex/Meinl combination first proved capable of Grammy-caliber recognition, cementing Halpern's status as one of progressive metal's most influential drum-gear tastemakers.",
 
     setup: {
       drums: {
@@ -3393,9 +3393,9 @@ export const GEAR_PRICE_HISTORY = {
         notes: "The Saturn's maple-and-walnut hybrid shells gave Halpern punchy low end and focused attack — the tonal palette Jens Bogren's mix needed for Select Difficulty's most direct, compressed Periphery record to that point.",
         vintageValue2026: 6000,
         modernEquivalent: {
-          item: 'Mapex Saturn V MH Exotic (current spec)',
+          item: 'Pearl Reference Series (current spec)',
           price: 7000,
-          link: 'mapex-saturn-v-mh-exotic-drums',
+          link: 'pearl-reference-series-drums-halpern',
         },
       },
       snare: {
@@ -3408,9 +3408,9 @@ export const GEAR_PRICE_HISTORY = {
         notes: "The Design Lab's variety of shell materials let Halpern match snare character to musical context across Select Difficulty's nine tracks — explosive backbeat authority on \"The Price Is Wrong,\" subtle dynamic shading elsewhere.",
         vintageValue2026: 700,
         modernEquivalent: {
-          item: 'Mapex Black Panther Design Lab (current spec)',
+          item: 'Pearl Reference 14"x6.5" Brass (current spec)',
           price: 750,
-          link: 'mapex-black-panther-design-lab-snare',
+          link: 'pearl-reference-brass-snare-halpern',
         },
       },
       cymbals: {
@@ -3485,9 +3485,9 @@ export const GEAR_PRICE_HISTORY = {
     priceEvolution: [
       { year: 2016, price: 10398, label: 'Original Purchase', event: 'Periphery III: Select Difficulty recording' },
       { year: 2017, price: 10700, label: 'Grammy nomination', event: "'The Price Is Wrong' earns a Best Metal Performance nomination at the 59th Grammy Awards" },
-      { year: 2019, price: 11800, label: 'Hail Stan era', event: 'Halpern upgrades to Mapex Saturn V MH Exotic' },
-      { year: 2023, price: 13200, label: 'Aliens era', event: 'Mature Saturn V MH Exotic configuration on Periphery V' },
-      { year: 2025, price: 13800, label: 'Continued Mapex/Meinl endorsement', event: "Halpern remains one of djent's most influential gear tastemakers" },
+      { year: 2019, price: 11800, label: 'Hail Stan era', event: 'Halpern switches from Mapex to Pearl Reference Series' },
+      { year: 2023, price: 13200, label: 'Aliens era', event: 'Mature Pearl Reference Series configuration on Periphery V' },
+      { year: 2025, price: 13800, label: 'Continued Pearl/Meinl endorsement', event: "Halpern remains one of djent's most influential gear tastemakers" },
       { year: 2026, price: 14200, label: 'Current adjusted', event: 'Inflation-adjusted value' },
     ],
 
@@ -5881,7 +5881,7 @@ export const GEAR_PRICE_HISTORY = {
     albumReference: 'Annihilation of the Wicked (2005)',
     profileImage: '/images/drummers/george-kollias.webp',
 
-    summary: "George Kollias's 2005 setup behind Nile's Annihilation of the Wicked marks the start of extreme metal's most technically demanding endorsement relationship — the moment Kollias, fresh off building his blast-beat vocabulary on budget Tama kits in the Greek underground, joined Nile and received his first Pearl Reference Series kit. Paired with a Pearl Free-Floating Steel snare, a Paiste Signature Series cymbal spread, and the Tama Iron Cobra double pedal that has anchored his technique for two decades, the complete rig cost approximately $9,000 in 2005 dollars, equivalent to roughly $15,100 today after inflation. Kollias's gear evolved steadily from there — upgrading to all-maple Pearl Reference Pure shells and launching his first Vic Firth signature stick for Those Whom the Gods Detest (2009), then adding ddrum Acoustic Pro triggers to his kick drums for the modern Vile Nilotic Rites (2019) era. His current setup, refined across 20+ years with Nile, retains the same Pearl/Paiste/Tama/Vic Firth core that has made him the most precisely calibrated blast-beat drummer in death metal, now valued at approximately $18,000 at current retail — a rig built entirely around sustaining 240+ BPM blast beats without losing a single note of clarity.",
+    summary: "George Kollias's 2005 setup behind Nile's Annihilation of the Wicked marks the start of extreme metal's most technically demanding endorsement relationship — the moment Kollias, fresh off building his blast-beat vocabulary on budget Tama kits in the Greek underground, joined Nile and received his first Pearl Reference Series kit. Paired with a Pearl Free-Floating Steel snare, a Paiste Signature Series cymbal spread, and the Tama Iron Cobra double pedal that has anchored his technique for two decades, the complete rig cost approximately $9,000 in 2005 dollars, equivalent to roughly $15,100 today after inflation. Kollias's gear evolved steadily from there — upgrading to all-maple Pearl Reference Pure shells and launching his first Vic Firth signature stick for Those Whom the Gods Detest (2009), then adding ddrum Acoustic Pro triggers to his kick drums for the modern Vile Nilotic Rites (2019) era. Kollias left Paiste for a Zildjian endorsement in January 2023, running K Mastersound Hi-Hats, K Custom Dark Crashes, and an A Custom Mega Bell Ride. His current setup, refined across 20+ years with Nile, retains the same Pearl/Zildjian/Tama/Vic Firth core that has made him the most precisely calibrated blast-beat drummer in death metal, now valued at approximately $18,000 at current retail — a rig built entirely around sustaining 240+ BPM blast beats without losing a single note of clarity.",
 
     setup: {
       drums: {
@@ -5924,9 +5924,9 @@ export const GEAR_PRICE_HISTORY = {
         notes: "Upgraded to Paiste Signature for the professional touring brightness and cut Nile's dense arrangements required.",
         vintageValue2026: 2400,
         modernEquivalent: {
-          item: 'Paiste Signature Series (Full Current Config)',
+          item: 'Zildjian K Mastersound / K Custom Dark / A Custom Mega Bell Ride (current spec)',
           price: 3400,
-          link: 'paiste-signature-full-set-kollias',
+          link: 'zildjian-k-custom-kollias',
         },
       },
       hardware: {

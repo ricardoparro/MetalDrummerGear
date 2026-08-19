@@ -8077,46 +8077,46 @@ export const DRUMMER_EVOLUTION = {
         years: '2012-2019',
         startYear: 2012,
         endYear: 2019,
-        description: 'The Mapex return and eventual retirement. For Resolution (2012), Chris switched to the Mapex Black Panther Velvetone — a return to the brand that started his career, now at signature level. A serious arm injury in 2016 and subsequent health complications ultimately led to his departure from Lamb of God in 2019.',
+        description: 'The Mapex return and eventual retirement. For Resolution (2012), Chris switched to the Mapex Black Panther Design Lab — a return to the brand that started his career, now at signature level. A serious arm injury in 2016 and subsequent health complications ultimately led to his departure from Lamb of God in 2019.',
         albums: ['Resolution (2012)', 'VII: Sturm und Drang (2015)'],
         tours: ['Resolution Tour 2012', 'Mayhem Festival 2015'],
         image: null,
 
         gear: {
           drums: {
-            item: 'Mapex Black Panther Velvetone',
+            item: 'Mapex Black Panther Design Lab',
             details: 'Maple/walnut shells: 22" kick, 10"/12"/14"/16" toms',
-            notes: 'The Black Panther Velvetone used maple/walnut hybrid shells for a darker, more complex tone than the Reference Pure. Chris returned to Mapex for his final active era with LoG.',
+            notes: 'The Black Panther Design Lab used maple/walnut hybrid shells for a darker, more complex tone than the Reference Pure. Chris returned to Mapex for his final active era with LoG.',
             change: CHANGE_TYPES.SWITCH,
           },
           snare: {
-            item: 'Mapex Black Panther 14"x6.5"',
-            details: 'Maple/walnut shell, black chrome hardware',
-            notes: 'Matching Black Panther snare with a warm, slightly dark crack suited to Resolution\'s groove-centric writing.',
+            item: 'Mapex Chris Adler Signature 14"x5.5" Walnut/Maple',
+            details: 'Walnut/maple shell, black chrome hardware',
+            notes: 'Matching Black Panther signature snare with a warm, slightly dark crack suited to Resolution\'s groove-centric writing.',
             change: CHANGE_TYPES.SWITCH,
           },
           cymbals: {
-            item: 'Zildjian A Custom',
-            details: '14" hi-hats, 17"/18" crashes, 21" ride',
-            notes: 'Unbroken A Custom loyalty — the only constant through every kit transition of his career.',
-            change: null,
+            item: 'Meinl Byzance Series',
+            details: '14" Dark Hi-Hats, 18"/19" Dark Crashes, 21" Transition Ride, 18" Extra Dry China',
+            notes: 'Adler developed signature products with Meinl Cymbals for this era, moving away from his earlier cymbal setup.',
+            change: CHANGE_TYPES.SWITCH,
           },
           hardware: {
-            item: 'DW 9000 Double Pedal',
-            details: 'Returned to DW 9000 twin-chain drive',
-            notes: 'Reverted from Pearl Eliminator back to DW 9000 for Resolution — preferred feel and response for the final LoG era.',
+            item: 'Mapex Falcon Double Pedal',
+            details: 'Mapex Falcon double pedal, Mapex T865 throne',
+            notes: 'Switched to the Mapex Falcon double pedal to match his Black Panther kit for the final LoG era.',
             change: CHANGE_TYPES.SWITCH,
           },
           sticks: {
-            item: 'Vic Firth Chris Adler Signature',
+            item: 'Promark TX5AXW Chris Adler Signature',
             details: 'Continued signature model',
-            notes: 'Longest-running sponsorship of his career — Vic Firth signature from Sacrament through retirement.',
+            notes: 'Adler\'s signature stick deal was with Promark, developed alongside his Mapex and Meinl endorsements.',
             change: null,
           },
           heads: {
-            item: 'Remo Pinstripe / Powerstroke 3',
-            details: 'Pinstripe on toms, Powerstroke 3 on kicks',
-            notes: 'Returned to Pinstripe on toms for tighter, controlled sound on Resolution.',
+            item: 'Evans',
+            details: 'Evans drumheads across the Black Panther kit',
+            notes: 'Evans heads rounded out the Mapex/Meinl/Promark signature setup for Resolution.',
             change: CHANGE_TYPES.SWITCH,
           },
         },
@@ -8128,7 +8128,7 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
-          'Returned to Mapex — Black Panther Velvetone maple/walnut hybrid kit',
+          'Returned to Mapex — Black Panther Design Lab maple/walnut hybrid kit',
           'Resolution (2012) — first #1 Billboard 200 debut for Lamb of God',
           'VII: Sturm und Drang (2015) continues commercial run',
           'Arm injury (2016) begins chain of health issues leading to retirement',
@@ -8136,7 +8136,7 @@ export const DRUMMER_EVOLUTION = {
         ],
 
         quote: {
-          text: "The Black Panther Velvetone has a darkness to it that fits perfectly where we are as a band. It's warm, complex, and heavy.",
+          text: "The Black Panther Design Lab has a darkness to it that fits perfectly where we are as a band. It's warm, complex, and heavy.",
           source: 'Mapex Drums Feature, 2012',
         },
 
@@ -8145,7 +8145,7 @@ export const DRUMMER_EVOLUTION = {
     ],
 
     metaTitle: 'Chris Adler Gear Evolution Timeline | Lamb of God Drum Kit History',
-    metaDescription: 'Explore Chris Adler\'s complete drum gear evolution: Mapex Pro M → DW Collector\'s → Pearl Reference Pure → Mapex Black Panther Velvetone. Lamb of God\'s NWOAHM drum sound documented era by era.',
+    metaDescription: 'Explore Chris Adler\'s complete drum gear evolution: Mapex Pro M → DW Collector\'s → Pearl Reference Pure → Mapex Black Panther Design Lab. Lamb of God\'s NWOAHM drum sound documented era by era.',
   },
 
   // ==========================================

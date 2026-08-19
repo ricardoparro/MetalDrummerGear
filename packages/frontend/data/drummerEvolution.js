@@ -2699,33 +2699,33 @@ export const DRUMMER_EVOLUTION = {
         
         gear: {
           drums: {
-            item: 'Trick Drums Custom',
-            details: 'Aluminum shells: 22" kick, 10"/12"/14"/16" toms',
-            notes: 'Latest innovation - metal shells',
-            change: CHANGE_TYPES.SWITCH,
+            item: 'Tama Starclassic Maple',
+            details: 'Maple shell configuration favored since Slayer\'s recording peak',
+            notes: 'Long-running Tama endorser',
+            change: null,
           },
           snare: {
-            item: 'Trick Drums Aluminum Snare',
-            details: '14"x6.5" Aluminum',
-            notes: 'Bright, cutting aluminum sound',
-            change: CHANGE_TYPES.SWITCH,
+            item: 'Tama S.L.P. 14"x6.5" G-Maple',
+            details: '14"x6.5" maple shell',
+            notes: 'Fat, responsive crack heard on Reign in Blood-era recordings',
+            change: null,
           },
           cymbals: {
-            item: 'Paiste RUDE / Masters',
-            details: 'Mix for versatility',
+            item: 'Paiste RUDE & 2002 Series',
+            details: '15" Sound Edge Hi-Hats, 18" & 19" Crashes, 22" Reign Power Ride, 18" China',
             notes: 'Still loyal to Paiste',
             change: null,
           },
           hardware: {
-            item: 'Trick Pro 1-V Bigfoot Pedal',
-            details: 'Direct drive double pedal',
-            notes: 'Trick pedals for maximum speed',
-            change: CHANGE_TYPES.SWITCH,
+            item: 'Tama Iron Cobra 900 Double Pedal',
+            details: 'Double pedal driving his legendary double kick',
+            notes: 'Longtime Tama hardware endorser',
+            change: null,
           },
           sticks: {
-            item: 'Vic Firth Dave Lombardo Signature',
-            details: 'Continued signature line',
-            notes: 'Refined over the years',
+            item: 'Promark Dave Lombardo Signature 2Bx',
+            details: 'Heavier signature model matched to thrash tempos',
+            notes: 'Continued signature line',
             change: null,
           },
           heads: {
@@ -2744,7 +2744,7 @@ export const DRUMMER_EVOLUTION = {
         
         keyChanges: [
           'Left Slayer again (2013)',
-          'Trick Drums endorsement',
+          'Continued longtime Tama/Paiste endorsements',
           'Playing with multiple bands simultaneously',
           'Mr. Bungle reunion (2020)',
         ],

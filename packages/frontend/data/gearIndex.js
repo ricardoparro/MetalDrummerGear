@@ -142,6 +142,14 @@ export const GEAR_INDEX = {
         "slug": "martin-axenrot",
         "configString": "Meinl Byzance Series (14\" Traditional Medium Hi-Hats, 16\" & 18\" & 19\" Crashes, 22\" Traditional Ride, 18\" China)"
       }
+    ],
+    "Byzance Brilliant & Classics Custom Dark": [
+      {
+        "id": 45,
+        "name": "Dirk Verbeuren",
+        "slug": "dirk-verbeuren",
+        "configString": "Meinl Byzance Brilliant & Classics Custom Dark Series (14\" Byzance Brilliant Hi-Hat, 18\"-21\" Classics Custom Dark Crashes, 22\" Byzance Brilliant Ride, 18\" Byzance Brilliant China)"
+      }
     ]
   },
   "Paiste": {
@@ -195,6 +203,14 @@ export const GEAR_INDEX = {
         "name": "Daray",
         "slug": "daray",
         "configString": "Paiste RUDE & 2002 Series (14\" RUDE Hi-Hats, 17\" & 18\" RUDE Crashes, 22\" RUDE Power Ride)"
+      }
+    ],
+    "Signature": [
+      {
+        "id": 43,
+        "name": "Mikkey Dee",
+        "slug": "mikkey-dee",
+        "configString": "Paiste Signature Series (14\" Sound Edge Hi-Hats, 19\" & 20\" Power Crashes, 22\" Power Ride, 18\" Heavy China)"
       }
     ]
   },

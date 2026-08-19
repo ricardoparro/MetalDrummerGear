@@ -12979,7 +12979,7 @@ export const DRUMMER_EVOLUTION = {
     band: 'Animals as Leaders',
     totalYearsActive: '2007-Present',
     profileImage: '/images/drummers/matt-garstka.webp',
-    summary: 'A Berklee-educated jazz-fusion drummer who reshaped what progressive metal drumming could sound like, Matt Garstka joined Animals as Leaders in 2012 and immediately became one of the most studied technicians of his generation. His gear evolution tracks a deliberate philosophy — from anonymous student kits during his Berklee years, through the compact, articulation-first Pearl Masterworks setup that defined The Joy of Motion, to the fully personalized Pearl and Vic Firth signature gear of the Parrhesia era.',
+    summary: 'A Berklee-educated jazz-fusion drummer who reshaped what progressive metal drumming could sound like, Matt Garstka joined Animals as Leaders in 2012 and immediately became one of the most studied technicians of his generation. His gear evolution tracks a deliberate philosophy — from anonymous student kits during his Berklee years, through the compact, articulation-first Pearl Masterworks setup that defined The Joy of Motion and The Madness of Many, to the DW Collector\'s Series custom shop kit he switched to in September 2021, ahead of the Parrhesia era.',
 
     eras: [
       {
@@ -13201,23 +13201,23 @@ export const DRUMMER_EVOLUTION = {
         years: '2022–Present',
         startYear: 2022,
         endYear: 2026,
-        description: 'Parrhesia (2022) represents the most mature and compositionally dense Animals as Leaders record to date, and Garstka\'s playing on it reflects a decade of refinement since The Joy of Motion. His current touring rig keeps the same compact Pearl Masterworks Maple philosophy and Meinl Byzance voicing that have defined his sound since 2014, now paired consistently with his own signature snare and stick line.',
+        description: 'Garstka switched from Tama to a DW custom shop kit in September 2021, ahead of Parrhesia (2022) — Animals as Leaders\' most mature and compositionally dense record to date. His current touring rig pairs a DW Collector\'s Series build with the Meinl Byzance voicing that has defined his sound since 2014, alongside his own signature stick line.',
         albums: ['Parrhesia (2022)'],
         tours: ['Parrhesia World Tour 2022–2023', 'Continued clinic and educational touring'],
         image: null,
 
         gear: {
           drums: {
-            item: 'Pearl Masterworks Maple',
-            details: 'Compact maple configuration, current touring spec',
-            notes: 'Maintained the compact Masterworks Maple philosophy established a decade earlier — proof of a settled, deliberate gear identity.',
-            change: null,
+            item: 'DW Collector\'s Series',
+            details: 'Custom shop build, mixed Collector\'s Series wood species and shell configurations',
+            notes: 'Switched to a DW custom shop kit in September 2021, replacing the Pearl Masterworks Maple setup used since The Joy of Motion.',
+            change: CHANGE_TYPES.UPGRADE,
           },
           snare: {
-            item: 'Pearl Matt Garstka Signature Snare',
+            item: 'DW Collector\'s Series Purpleheart',
             details: 'Current standard snare',
-            notes: 'His signature snare remains the standard across the Parrhesia touring cycle.',
-            change: null,
+            notes: 'Part of the DW custom shop kit adopted in September 2021, replacing his Pearl Matt Garstka Signature Snare as the touring standard.',
+            change: CHANGE_TYPES.UPGRADE,
           },
           cymbals: {
             item: 'Meinl Byzance Series (current configuration)',
@@ -13226,9 +13226,12 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           hardware: {
-            item: 'Pearl Demon Drive Double Pedal',
-            details: 'Consistent double-bass platform',
-            notes: 'Unchanged hardware platform across the Parrhesia era.',
+            item: 'Tama Speed Cobra 910 Double Pedal',
+            details: 'Last-verified double-bass platform',
+            // Pedal/hardware brand not specified in any post-Sept-2021 DW-switch source found
+            // (Modern Drummer/MusicRadar/GGD); retained as last-verified pending a source
+            // confirming a hardware change alongside the drum/snare switch (#5806).
+            notes: 'Hardware brand unconfirmed since the September 2021 DW switch — no source specifies a pedal change alongside the drum/snare switch.',
             change: null,
           },
           sticks: {
@@ -13253,15 +13256,10 @@ export const DRUMMER_EVOLUTION = {
 
         keyChanges: [
           'Parrhesia (2022) — most compositionally dense AAL record to date',
-          'Core Pearl Masterworks Maple / Meinl Byzance setup unchanged since 2014',
-          'Signature snare and sticks now the standing default across all touring',
+          'Switched from Tama to a DW custom shop kit in September 2021',
+          'Meinl Byzance cymbal setup unchanged since 2014',
           'Continued expansion of educational presence alongside touring',
         ],
-
-        quote: {
-          text: "My setup hasn't changed drastically since The Joy of Motion — because it already did what I needed. Parrhesia just asked me to say more with it.",
-          source: 'Modern Drummer Interview, 2022',
-        },
 
         videos: [],
       },
@@ -13270,7 +13268,7 @@ export const DRUMMER_EVOLUTION = {
     faqs: [
       {
         q: 'What drum kit does Matt Garstka use?',
-        a: 'Matt Garstka plays a Pearl Masterworks Maple kit in a compact 4-piece configuration: a 20"×16" bass drum, 10"×7" and 12"×8" rack toms, and a 14"×14" floor tom. The smaller-than-typical bass drum size is a deliberate choice for quick attack and articulation, a philosophy he established on The Joy of Motion (2014) and has maintained ever since.',
+        a: 'Matt Garstka currently plays a DW Collector\'s Series custom shop kit, mixing Collector\'s Series wood species and shell configurations — a switch he made in September 2021 after a decade on a compact Pearl Masterworks Maple setup established on The Joy of Motion (2014).',
       },
       {
         q: 'What cymbals does Matt Garstka use?',
@@ -13278,7 +13276,7 @@ export const DRUMMER_EVOLUTION = {
       },
       {
         q: 'Does Matt Garstka have a signature snare?',
-        a: 'Yes. Garstka has a Pearl Matt Garstka Signature Snare — a 14"×5" maple shell released around The Madness of Many era (2016) with a bearing edge designed for sensitivity and ghost-note articulation. He also has a Vic Firth Matt Garstka Signature stick with an elongated taper designed for traditional grip players.',
+        a: 'He has had two: a Pearl Matt Garstka Signature Snare — a 14"×5" maple shell released around The Madness of Many era (2016) — which he played through the Pearl years, and a DW Collector\'s Series Purpleheart snare as part of the DW custom shop kit he switched to in September 2021. He also has a Vic Firth Matt Garstka Signature stick with an elongated taper designed for traditional grip players.',
       },
       {
         q: 'What grip does Matt Garstka use?',
@@ -13286,12 +13284,12 @@ export const DRUMMER_EVOLUTION = {
       },
       {
         q: 'How did Matt Garstka\'s gear change from The Joy of Motion to Parrhesia?',
-        a: 'Garstka\'s core setup has been remarkably stable since joining Animals as Leaders — a compact Pearl Masterworks Maple kit paired with Meinl Byzance cymbals from The Joy of Motion (2014) onward. The main evolution has been personalization: his Pearl Matt Garstka Signature Snare and Vic Firth Matt Garstka Signature sticks, both released around 2016, replaced the pre-signature Pearl Reference snare and stock Vic Firth 5A sticks he used on his AAL debut.',
+        a: 'Garstka played a compact Pearl Masterworks Maple kit paired with Meinl Byzance cymbals from The Joy of Motion (2014) through The Madness of Many (2016), personalizing it with his Pearl Matt Garstka Signature Snare and Vic Firth Matt Garstka Signature sticks around 2016. In September 2021, ahead of Parrhesia (2022), he switched to a DW Collector\'s Series custom shop kit and DW Collector\'s Series Purpleheart snare, while keeping the Meinl Byzance cymbals and Vic Firth signature sticks unchanged.',
       },
     ],
 
     metaTitle: 'Matt Garstka Gear Evolution Timeline | Animals as Leaders Drum Kit History',
-    metaDescription: 'Explore Matt Garstka\'s complete drum gear evolution: Berklee jazz-fusion roots → compact Pearl Masterworks Maple debut on The Joy of Motion (2014) → signature Pearl snare and Vic Firth sticks → Parrhesia (2022). A decade of progressive metal\'s most studied drummer, era by era.',
+    metaDescription: 'Explore Matt Garstka\'s complete drum gear evolution: Berklee jazz-fusion roots → compact Pearl Masterworks Maple debut on The Joy of Motion (2014) → signature Pearl snare and Vic Firth sticks → DW switch in September 2021 → Parrhesia (2022). A decade of progressive metal\'s most studied drummer, era by era.',
   },
 
   // ==========================================

@@ -2996,26 +2996,29 @@ const drummers = [
     country: 'USA',
     image: '/images/drummers/matt-garstka.webp',
     bio: 'Matt Garstka (born April 27, 1989) is an American drummer known for his virtuosic work with instrumental progressive metal band Animals as Leaders since 2012. His playing seamlessly blends jazz fusion, electronic music, and progressive metal, featuring complex polyrhythms, intricate ghost note patterns, and innovative use of dynamics.',
-    kitOverview: 'Matt Garstka\'s drum kit is a Tama Starclassic Walnut/Birch build — the hybrid shell pack he has used as Animals as Leaders\' drummer since 2012, chosen for the warm low end and crisp attack his polyrhythmic, jazz-fusion-infused metal requires. The Matt Garstka drum set centers on his Tama S.L.P. 14x6" G-Maple signature snare, delivering the articulate crack that cuts through dense odd-meter passages on The Joy of Motion (2014) and The Madness of Many (2016).\n\nMeinl Byzance Series cymbals complete the Matt Garstka drum kit: 15" Dual Hi-Hats for nuanced, washy articulation; 18" and 20" Extra Dry Medium Crashes for quick-decaying accents; and a 22" Dual Ride for complex rhythmic definition. A Tama Speed Cobra 910 double pedal drives the intricate, ghost-note-laced double bass patterns central to Garstka\'s linear independence, while Vic Firth Matt Garstka Signature sticks and Evans heads complete a drum set built for the technical demands of instrumental progressive metal. For the full gear breakdown, see [what\'s in Matt Garstka\'s kit](/articles/whats-in-matt-garstkas-kit), the [Mike Mangini vs. Matt Garstka technique comparison](/vs/mike-mangini-vs-matt-garstka), and the [complete cymbal setup](/drummer/matt-garstka/cymbals).',
+    kitOverview: 'Matt Garstka\'s drum kit is a DW Collector\'s Series custom shop build — mixing Collector\'s Series wood species and shell configurations — which he switched to in September 2021 after playing Tama for Animals as Leaders\' first two albums. The Matt Garstka drum set centers on a DW Collector\'s Series Purpleheart snare, delivering the articulate crack that cuts through dense odd-meter passages.\n\nMeinl Byzance Series cymbals complete the Matt Garstka drum kit: 15" Dual Hi-Hats for nuanced, washy articulation; 18" and 20" Extra Dry Medium Crashes for quick-decaying accents; and a 22" Dual Ride for complex rhythmic definition. A Tama Speed Cobra 910 double pedal drives the intricate, ghost-note-laced double bass patterns central to Garstka\'s linear independence, while Vic Firth Matt Garstka Signature sticks and Evans heads complete a drum set built for the technical demands of instrumental progressive metal. For the full gear breakdown, see [what\'s in Matt Garstka\'s kit](/articles/whats-in-matt-garstkas-kit), the [Mike Mangini vs. Matt Garstka technique comparison](/vs/mike-mangini-vs-matt-garstka), and the [complete cymbal setup](/drummer/matt-garstka/cymbals).',
     sameAs: [
       'https://en.wikipedia.org/wiki/Matt_Garstka',
       'https://www.discogs.com/artist/2765180-Matt-Garstka'
     ],
+    // Hardware/pedal brand not specified in any post-Sept-2021 DW-switch source found
+    // (Modern Drummer/MusicRadar/GGD); Tama Speed Cobra retained as last-verified pending
+    // a source confirming a hardware change alongside the drum/snare switch (#5806).
     gear: {
-      drums: 'Tama Starclassic Walnut/Birch',
-      snare: 'Tama S.L.P. 14x6" G-Maple',
+      drums: 'DW Collector\'s Series',
+      snare: 'DW Collector\'s Series Purpleheart',
       cymbals: 'Meinl Byzance Series (15" Dual Hi-Hats, 18" & 20" Extra Dry Medium Crashes, 22" Dual Ride)',
       hardware: 'Tama Speed Cobra 910 Double Pedal',
       sticks: 'Vic Firth Matt Garstka Signature',
       heads: 'Evans',
       verified: true,
-      sources: ['https://en.wikipedia.org/wiki/Matt_Garstka', 'https://meinlcymbals.com/en/artists']
+      sources: ['https://en.wikipedia.org/wiki/Matt_Garstka', 'https://meinlcymbals.com/en/artists', 'https://www.moderndrummer.com/2021/09/matt-garstka-joins-dw/', 'https://ggd.co/products/matt-garstka-signature-drums']
     },
     photos: [
       '/images/drummers/matt-garstka.webp' // Original: https://upload.wikimedia.org/wikipedia/commons/7/75/Obscura_-_7_Summers_Festival_2016_-_07.jpg
     ],
     endorsements: [
-      { name: 'Tama Drums', url: 'https://www.tama.com' },
+      { name: 'DW Drums', url: 'https://www.dwdrums.com' },
       { name: 'Meinl Cymbals', url: 'https://meinlcymbals.com' },
       { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' }
     ],

@@ -50,14 +50,6 @@ export const DRUMMERS_BY_KIT = {
       config: 'DW Collector\'s Maple (22"×18" Bass Drums ×2, 10"×7", 12"×8", 14"×12", 16"×14" Toms)',
       endorsee: true,
     },
-    {
-      slug: 'matt-greiner',
-      name: 'Matt Greiner',
-      band: 'August Burns Red',
-      yearsUsed: '2010–present',
-      config: 'DW Collector\'s Maple (22"×18" Bass, 10"×8", 12"×9", 14"×12", 16"×14" Toms)',
-      endorsee: true,
-    },
   ],
   'pearl/reference-pure': [
     {
@@ -193,14 +185,6 @@ export const DRUMMERS_BY_KIT = {
       band: 'Entheos',
       yearsUsed: '2012–present',
       config: 'DW Performance Maple (22"×18" Bass, 10"×8", 12"×9", 14"×12", 16"×14" Toms)',
-      endorsee: true,
-    },
-    {
-      slug: 'matt-greiner',
-      name: 'Matt Greiner',
-      band: 'August Burns Red',
-      yearsUsed: '2010–2022',
-      config: 'DW Performance Maple (22"×18" Bass, 10"×8", 12"×9", 13"×11", 16"×14" Toms)',
       endorsee: true,
     },
   ],

@@ -22,6 +22,15 @@ const DISMISS_DURATION_MS = 24 * 60 * 60 * 1000;
 const STORAGE_KEY = 'metalforge_sticky_cta_dismissed';
 const SCROLL_THRESHOLD = 0.30; // 30% scroll
 
+// Buy Me a Coffee (issue #5834). A small, always-present secondary icon next
+// to the dismiss button — NOT a CTA_CONFIG entry, deliberately: CTA_CONFIG is
+// a strict one-CTA-per-page-type map (quiz/compare/similar/etc.), so adding
+// "support" there would replace an existing, working conversion CTA on
+// whichever page type it's assigned to. Rendering it as a constant secondary
+// element instead means it appears alongside the primary CTA, on every page
+// type StickyCTA already covers, without touching that mapping or getPageType().
+const SUPPORT_URL = 'https://buymeacoffee.com/boomstrategy';
+
 // CTA configurations by page type
 const CTA_CONFIG = {
   homepage: {
@@ -157,14 +166,14 @@ function setDismissed() {
 /**
  * Track CTA interactions with GA4
  */
-function trackCTAEvent(eventName, pageType, scrollDepth, isMobile) {
+function trackCTAEvent(eventName, pageType, scrollDepth, isMobile, variantOverride) {
   if (Platform.OS !== 'web' || typeof window === 'undefined' || !window.gtag) {
     return;
   }
-  
+
   window.gtag('event', eventName, {
     page_type: pageType,
-    cta_variant: CTA_CONFIG[pageType]?.action || 'unknown',
+    cta_variant: variantOverride || CTA_CONFIG[pageType]?.action || 'unknown',
     scroll_depth: `${Math.round(scrollDepth * 100)}%`,
     device: isMobile ? 'mobile' : 'desktop',
   });
@@ -227,7 +236,17 @@ export default function StickyCTA({ onNavigate, onShareResult }) {
       window.dispatchEvent(new PopStateEvent('popstate'));
     }
   }, [pageType, ctaConfig, scrollDepth, isMobile, onNavigate, onShareResult]);
-  
+
+  // Buy Me a Coffee (issue #5834) — external link, so it must NOT go through
+  // onNavigate/pushState above (both assume an internal route; pushState to a
+  // different origin throws a browser SecurityError). window.open sidesteps that.
+  const handleSupportPress = useCallback(() => {
+    trackCTAEvent('sticky_cta_click', pageType, scrollDepth, isMobile, 'support');
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.open(SUPPORT_URL, '_blank', 'noopener,noreferrer');
+    }
+  }, [pageType, scrollDepth, isMobile]);
+
   // Handle dismiss
   const handleDismiss = useCallback(() => {
     trackCTAEvent('sticky_cta_dismiss', pageType, scrollDepth, isMobile);
@@ -342,6 +361,15 @@ export default function StickyCTA({ onNavigate, onShareResult }) {
           <Text style={styles.fabText}>{ctaConfig.shortText}</Text>
         </TouchableOpacity>
         <TouchableOpacity
+          onPress={handleSupportPress}
+          style={styles.fabSupport}
+          accessibilityRole="link"
+          accessibilityLabel="Buy me a coffee — support MetalForge"
+          hitSlop={{ top: 10, right: 10, bottom: 10, left: 10 }}
+        >
+          <Text style={styles.fabSupportText}>☕</Text>
+        </TouchableOpacity>
+        <TouchableOpacity
           onPress={handleDismiss}
           style={styles.fabDismiss}
           accessibilityRole="button"
@@ -377,6 +405,15 @@ export default function StickyCTA({ onNavigate, onShareResult }) {
           activeOpacity={0.8}
         >
           <Text style={styles.barButtonText}>{ctaConfig.text}</Text>
+        </TouchableOpacity>
+        <TouchableOpacity
+          onPress={handleSupportPress}
+          style={[styles.barSupport, { borderColor: colors.border.default }]}
+          accessibilityRole="link"
+          accessibilityLabel="Buy me a coffee — support MetalForge"
+          hitSlop={{ top: 8, right: 8, bottom: 8, left: 8 }}
+        >
+          <Text style={styles.barSupportText}>☕ Support</Text>
         </TouchableOpacity>
         <TouchableOpacity
           onPress={handleDismiss}
@@ -418,6 +455,28 @@ const styles = StyleSheet.create({
     color: '#ffffff',
     fontSize: fontSize.base,
     fontWeight: fontWeight.semibold,
+  },
+  // Buy Me a Coffee (issue #5834) — small secondary icon, stacked below the
+  // main FAB pill rather than replacing any CTA_CONFIG entry (see the
+  // SUPPORT_URL comment above for why).
+  fabSupport: {
+    marginTop: spacing[2],
+    width: 40,
+    height: 40,
+    borderRadius: 20,
+    backgroundColor: colors.bg.secondary,
+    justifyContent: 'center',
+    alignItems: 'center',
+    borderWidth: 1,
+    borderColor: colors.border.default,
+    shadowColor: '#000',
+    shadowOffset: { width: 0, height: 2 },
+    shadowOpacity: 0.2,
+    shadowRadius: 4,
+    elevation: 4,
+  },
+  fabSupportText: {
+    fontSize: fontSize.base,
   },
   fabDismiss: {
     position: 'absolute',
@@ -469,6 +528,21 @@ const styles = StyleSheet.create({
     color: '#ffffff',
     fontSize: fontSize.base,
     fontWeight: fontWeight.semibold,
+  },
+  // Buy Me a Coffee (issue #5834) — same rationale as fabSupport above.
+  barSupport: {
+    paddingHorizontal: spacing[3],
+    paddingVertical: spacing[2],
+    borderRadius: 8,
+    borderWidth: 1,
+    minHeight: 48, // Accessibility: min touch target
+    justifyContent: 'center',
+    alignItems: 'center',
+  },
+  barSupportText: {
+    color: colors.text.secondary,
+    fontSize: fontSize.sm,
+    fontWeight: fontWeight.medium,
   },
   barDismiss: {
     padding: spacing[2],

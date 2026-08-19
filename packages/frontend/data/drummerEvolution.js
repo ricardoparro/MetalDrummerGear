@@ -274,9 +274,9 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.UPGRADE,
           },
           snare: {
-            item: 'Tama Steel Snare (snare wires OFF)',
-            details: '14"x5.5" steel snare with loosened wires',
-            notes: 'The infamous St. Anger "trash can" sound - snare wires detuned',
+            item: 'Ludwig Vistalite (borrowed, snare wires OFF)',
+            details: 'Acrylic "Plexi" snare borrowed from producer Bob Rock, wires disengaged',
+            notes: 'The infamous St. Anger "trash can" sound - a one-off borrowed snare, not a Tama',
             change: CHANGE_TYPES.SWITCH,
           },
           cymbals: {

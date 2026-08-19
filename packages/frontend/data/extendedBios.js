@@ -2697,13 +2697,16 @@ Garstka joined Animals as Leaders after the departure of original drummer Navene
           { name: 'Parrhesia World Tour', year: '2022-2023', note: 'Post-pandemic return' }
         ]
       },
+      // Pedal/hardware brand not specified in any post-Sept-2021 DW-switch source found
+      // (Modern Drummer/MusicRadar/GGD); Tama Speed Cobra retained as last-verified pending
+      // a source confirming a hardware change alongside the drum/snare switch (#5806).
       gearHighlights: {
         title: 'Gear Highlights',
-        content: `Matt Garstka is endorsed by Meinl Cymbals and Tama Drums. His setup reflects his fusion approach—versatile, dynamic, and designed for the full range of expression required by Animals as Leaders' music.
+        content: `Matt Garstka is endorsed by Meinl Cymbals and DW Drums, having switched from Tama to a DW custom shop kit in September 2021. His setup reflects his fusion approach—versatile, dynamic, and designed for the full range of expression required by Animals as Leaders' music.
 
 **Current Setup:**
-- **Drums**: Tama Starclassic Walnut/Birch (custom sizes)
-- **Snare**: Tama S.L.P. 14"x6" G-Maple signature
+- **Drums**: DW Collector's Series (mixed Collector's Series wood species and shell configurations, per DW custom shop)
+- **Snare**: DW Collector's Series Purpleheart
 - **Cymbals**: Meinl Byzance series (including Dual Hi-Hats, Extra Dry crashes, Sand rides)
 - **Hardware**: Tama Speed Cobra 910 double pedal
 - **Sticks**: Vic Firth Matt Garstka Signature
@@ -2734,16 +2737,16 @@ Garstka joined Animals as Leaders after the departure of original drummer Navene
       faq: {
         title: 'Frequently Asked Questions',
         items: [
-          { q: 'What drum kit does Matt Garstka use?', a: 'Matt Garstka\'s drum kit is a Tama Starclassic Walnut/Birch build, the hybrid shell pack he has played as Animals as Leaders\' drummer since 2012, chosen for the balance of warm low end and crisp attack his polyrhythmic, jazz-fusion-infused metal requires. It\'s anchored by his Tama S.L.P. 14"x6" G-Maple signature snare, which cuts through dense odd-meter passages on The Joy of Motion (2014) and The Madness of Many (2016).' },
-          { q: 'What drum set does Matt Garstka use?', a: 'Matt Garstka\'s drum set centers on the same Tama Starclassic Walnut/Birch shells and Tama S.L.P. G-Maple signature snare, driven by a Tama Speed Cobra 910 double pedal for the intricate, ghost-note-laced double bass patterns central to his linear independence. Meinl Byzance cymbals and Vic Firth signature sticks round out the setup.' },
+          { q: 'What drum kit does Matt Garstka use?', a: 'Matt Garstka\'s drum kit is a DW Collector\'s Series custom shop build, mixing Collector\'s Series wood species and shell configurations, which he switched to in September 2021 after playing Tama for his first two Animals as Leaders albums. It\'s anchored by a DW Collector\'s Series Purpleheart snare, cutting through dense odd-meter passages.' },
+          { q: 'What drum set does Matt Garstka use?', a: 'Matt Garstka\'s drum set centers on a DW Collector\'s Series custom shop kit and DW Collector\'s Series Purpleheart snare, driven by a Tama Speed Cobra 910 double pedal for the intricate, ghost-note-laced double bass patterns central to his linear independence. Meinl Byzance cymbals and Vic Firth signature sticks round out the setup.' },
           { q: 'What cymbals does Matt Garstka play?', a: 'Matt Garstka plays Meinl Byzance Series cymbals: 15" Dual Hi-Hats for nuanced, washy articulation, 18" and 20" Extra Dry Medium Crashes for quick-decaying accents, and a 22" Dual Ride for complex rhythmic definition.' },
           { q: 'What hi-hats does Matt Garstka use?', a: 'Matt Garstka plays 15" Meinl Byzance Dual Hi-Hats, chosen for the nuanced, washy articulation that suits his ghost-note-heavy, jazz-fusion-infused playing.' },
-          { q: 'What snare does Matt Garstka use?', a: 'Matt Garstka\'s snare is his Tama S.L.P. 14"x6" G-Maple signature model, delivering the articulate crack that anchors his ghost-note-heavy patterns on Animals as Leaders records.' },
+          { q: 'What snare does Matt Garstka use?', a: 'Matt Garstka\'s snare is a DW Collector\'s Series Purpleheart model, part of the DW custom shop kit he switched to in September 2021.' },
           { q: 'What sticks does Matt Garstka use?', a: 'Matt Garstka uses Vic Firth Matt Garstka Signature drumsticks, his own signature model developed with Vic Firth.' },
           { q: 'What bass drum pedal does Matt Garstka use?', a: 'Matt Garstka drives his double bass patterns with a Tama Speed Cobra 910 double pedal.' },
-          { q: 'What drumheads does Matt Garstka use?', a: 'Matt Garstka uses Evans drumheads across his Tama Starclassic kit.' },
+          { q: 'What drumheads does Matt Garstka use?', a: 'Matt Garstka uses Evans drumheads across his DW Collector\'s Series kit.' },
           { q: 'What band is Matt Garstka in?', a: 'Matt Garstka has been the drummer for instrumental progressive metal band Animals as Leaders since 2012, appearing on The Joy of Motion (2014), The Madness of Many (2016), and Parrhesia (2022).' },
-          { q: 'What hi-hats does Matt Garstka use?', a: 'Matt Garstka uses 15" Meinl Byzance Dual Hi-Hats for nuanced, washy articulation, mounted on his Tama Starclassic Walnut/Birch drum kit and drum set.' }
+          { q: 'What hi-hats does Matt Garstka use?', a: 'Matt Garstka uses 15" Meinl Byzance Dual Hi-Hats for nuanced, washy articulation, mounted on his DW Collector\'s Series drum kit and drum set.' }
         ]
       },
       sources: {
@@ -2751,7 +2754,10 @@ Garstka joined Animals as Leaders after the departure of original drummer Navene
         items: [
           { name: 'Meinl Cymbals Artist Profile', url: 'https://meinlcymbals.com/en/artists/matt-garstka-a1430.html' },
           { name: 'Vic Firth Artist Profile', url: 'https://vicfirth.com/blogs/artist/matt-garstka-vf' },
-          { name: 'Wikipedia: Matt Garstka', url: 'https://en.wikipedia.org/wiki/Matt_Garstka' }
+          { name: 'Wikipedia: Matt Garstka', url: 'https://en.wikipedia.org/wiki/Matt_Garstka' },
+          { name: 'Modern Drummer: Matt Garstka Joins DW (Sept 2021)', url: 'https://www.moderndrummer.com/2021/09/matt-garstka-joins-dw/' },
+          { name: 'MusicRadar: Animals as Leaders Drummer Matt Garstka Switches to DW Drums', url: 'https://www.musicradar.com/news/animals-as-leaders-matt-garstka-switches-to-playing-dw-drums' },
+          { name: 'GGD: Matt Garstka Signature Drums', url: 'https://ggd.co/products/matt-garstka-signature-drums' }
         ]
       }
     }

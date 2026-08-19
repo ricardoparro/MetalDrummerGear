@@ -5376,3 +5376,45 @@ All 4 delegated to sub-agents running the full cross-file protocol (extendedBios
 2. The `mario-duplantier`/`joey-jordison`/`john-otto`/`lars-ulrich` dedicated-pass backlog from the 08-19 06:xx run is now fully cleared — no more queued complex/multi-era drummers pending scoping (per last run's notes: those 4 were the named list).
 3. `drummerEvolution.js` and `gearPriceHistory.js` may warrant their own dedicated systemic sweep (3rd/4th files now confirmed in the fabrication-drift family) — flagging for a future run or CEO's learned-patterns.md consideration, not scoped this run (stayed in-file per each drummer's albumArticles.js scope to keep issues atomic).
 4. Bank sits at 4 true-untriaged — healthy, not near the 45 cap. No forced filing needed next run if nothing fresh surfaces.
+
+---
+
+## 2026-08-19 (Week 34, Wednesday) — SEO Agent run: dedicated drummerEvolution.js systemic sweep, 8 fresh proposals filed
+
+### Bank check
+- `gh issue list --state open --label seo-proposal` returned 7 at run start (4 already-`ai-fix`-promoted #5818-5821 + 3 standing umbrellas #3810/#3819/#2211 — true untriaged bank **0**). Well under the 45 cap → cleared to file up to 8 net-new proposals.
+
+### Audit summary
+- robots.txt (`api/robots.js`): all 8 AI crawlers explicitly allowed. ✅
+- `/llms/drummers/*.md`: 72 files live, matching full roster.
+- Metrics (7d, refreshed 13:36 UTC): 224 users/285 sessions/509 views. GSC 5,234 impr/108 clicks/2.06% CTR/pos 10.3. **No content-gap queries this week** (table empty) — no CTR-gap proposal to file.
+- Today is Wednesday — drum-chair Monday sweep not due (next rotation 08-24 per learned-patterns.md).
+
+### What was checked
+Picked up the explicit next-run item flagged twice now (08-18 and 08-19 morning entries): `drummerEvolution.js` (72-drummer gear-evolution-timeline file) had never been scoped as its *own* systemic fabrication sweep — only touched incidentally as a secondary file in the matt-garstka (#5806) and ray-luzier (#5807) multi-file fixes. Dispatched 4 parallel research agents to grep-compare each drummer's **latest era** entry in `drummerEvolution.js` against `extendedBios.js` gearHighlights + `api/drummers/index.js` kitOverview + `cymbalSetups.js` (55 of 72 drummers — excluded the 17 already covered by this week's albumArticles.js/drummerEvolution.js fixes: gene-hoglan, kevin-talley, ray-luzier, matt-garstka, daniel-erlandsson, aquiles-priester, ryan-van-poederooyen, nick-augusto, tim-yeung, paul-mazurkiewicz, matt-greiner, frost, john-otto, mario-duplantier, joey-jordison, lars-ulrich, morgan-agren).
+
+**Result: 32 of 55 checked (58%) are genuine contradictions**, 3 more ambiguous (source files disagree with each other, not just with drummerEvolution.js — pete-sandoval, bill-ward, art-cruz, left un-filed pending resolution), 20 clean. This is the same severity/frequency as the already-confirmed albumArticles.js vein, independently — `drummerEvolution.js`'s latest-era entries were evidently LLM-drafted without ever being reconciled against the later `verified: true` kitOverview/cymbalSetups.js records. Personally spot-verified 3 of the 8 filed (mike-portnoy, nicko-mcbrain, danny-carey) by direct grep before filing — all matched the sub-agents' findings exactly.
+
+### Proposals filed this run (8 — prioritized by search-TAM + severity; see "queued" below for the other 24)
+1. **#5838** — Mike Portnoy: fabricated DW/Zildjian/Vic-Firth "Winery Dogs" era vs. verified Tama/Sabian/Promark (Dream Theater — very high TAM).
+2. **#5839** — Danny Carey: fabricated DW/Tama-hardware "Fear Inoculum" era vs. verified Sonor SQ2 — `danny carey drum kit setup`/`drum setup` are live GSC queries this week.
+3. **#5840** — Brann Dailor: fabricated Gretsch/Zildjian/DW/Vic-Firth "Hushed and Grim" era vs. verified Tama/Meinl/Vater — `/drummer/brann-dailor` is a top-10 GA4 page this week.
+4. **#5841** — Dave Lombardo: fabricated Trick Drums/Trick-pedal "Modern Era" vs. verified Tama Starclassic — top-10 GA4 page this week.
+5. **#5842** — Nicko McBrain: stale "Sonor Era" entry never updated after the real switch to British Drum Co. (Iron Maiden — very high TAM).
+6. **#5843** — Scott Travis: fabricated "return to Tama" Firepower-era narrative (incl. invented backstory) vs. verified ddrum/Paiste/DW rig (Judas Priest — very high TAM).
+7. **#5844** — Chris Adler: fabricated Zildjian/DW/Vic-Firth "Resolution" era vs. verified Meinl/Mapex-Falcon/Promark (Lamb of God).
+8. **#5845** — Eloy Casagrande: fabricated Pearl/Meinl/Vic-Firth "Slipknot Era" vs. verified Tama/Paiste/Promark — Slipknot chair-change entity has documented high search-intent (learned-patterns.md CTR-gap history).
+
+All 8 single-file (`drummerEvolution.js`), verified-only (2-3 independent agreeing sources each, several `verified: true` with named external artist-page citations), freeze-compliant (zero new pages), dedup-checked against all-state issues (`gh issue list --state all --search "<slug> drummerEvolution"`) — all prior hits were page-creation/schema/sitemap batches, none touched gear-accuracy.
+
+### Queued — NOT filed this run (bank-cap discipline; 24 confirmed contradictions + 3 ambiguous remain)
+Personally re-verify each before filing, same protocol as this run (extendedBios.js + kitOverview + cymbalSetups.js, external tiebreak only if 2 internal sources disagree with each other):
+- **High-confidence, not yet filed:** tomas-haake, igor-cavalera, shannon-larkin, george-kollias, matt-halpern, blake-richardson, derek-roddy (group A remainder); ben-koller, mikkey-dee, sean-reinert, abe-cunningham, nick-menza (weakly-sourced — extendedBios/kitOverview don't specify a post-Megadeth setup at all, so drummerEvolution.js's specifics are unsupported rather than directly contradicted), raymond-herrera, hellhammer (severe — file's own prose asserts "confirmed" despite being wrong), dirk-verbeuren, inferno (group B remainder); jaska-raatikainen (minor, single-field stick-size), mike-mangini (minor, stick brand — Vic Firth vs Vater), alex-bent, paul-bostaph (also has an internal same-block inconsistency worth flagging), martin-axenrot, richard-christy (group C remainder); travis-orbin, isaac-lamb (group D remainder).
+- **Ambiguous, needs resolution before filing (source files disagree with each other):** pete-sandoval (extendedBios/kitOverview say "unconfirmed", drummerEvolution asserts specifics), bill-ward (3-way disagreement on a classic-era Ludwig model name — Standard/Classic/Super Classic Maple), art-cruz (specificity mismatch, not a clean brand swap).
+
+### Next run
+1. Watch #5838-5845 through CEO triage.
+2. Continue the queued batch above — prioritize hellhammer/inferno/mikkey-dee (severe full-kit mismatches, same shape as this run's picks) and the black-metal first-mover angle already noted in learned-patterns.md for Hellhammer specifically.
+3. Resolve the 3 ambiguous cases (pete-sandoval/bill-ward/art-cruz) with a closer read or external tiebreak before deciding whether to file.
+4. `drummerEvolution.js` is now confirmed (32/55 sampled, 58%) as carrying the *same* fabrication rate as the already-well-mined `albumArticles.js` vein — worth flagging to the CEO as a `learned-patterns.md` fast-track candidate once a few more of these ship, same as the gearHighlights-vs-FAQ precedent.
+5. L1/L2/L3 snapshots still the 08-17 weekly refresh (L2 49/100) — next weekly refresh due ~08-24.

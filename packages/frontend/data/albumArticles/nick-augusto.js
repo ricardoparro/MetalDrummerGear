@@ -19,21 +19,21 @@ export const articles = {
     "author": "MetalForge Editorial",
     "title": "Vengeance Falls Drum Setup: Nick Augusto's David Draiman-Produced Trivium Album (2013)",
     "metaTitle": "Trivium Vengeance Falls Drum Setup — Nick Augusto Kit & Gear Guide | MetalForge",
-    "description": "Complete gear breakdown for Nick Augusto's drum setup on Trivium's Vengeance Falls (2013). Tama Starclassic kit, Meinl MB20 cymbals, and how Disturbed's David Draiman shaped a heavier, groove-focused drum sound in his production debut.",
+    "description": "Complete gear breakdown for Nick Augusto's drum setup on Trivium's Vengeance Falls (2013). Pearl Reference Pure kit, Sabian AAX cymbals, and how Disturbed's David Draiman shaped a heavier, groove-focused drum sound in his production debut.",
     "seoKeywords": [
       "trivium vengeance falls drums",
       "nick augusto drum kit 2013",
       "trivium drum setup",
       "vengeance falls drum setup",
-      "nick augusto tama starclassic",
+      "nick augusto pearl reference pure",
       "david draiman trivium producer",
       "trivium vengeance falls gear",
-      "nick augusto meinl cymbals"
+      "nick augusto sabian cymbals"
     ],
     "ogImage": "/images/drummers/nick-augusto.webp",
     "intro": {
       "title": "David Draiman Steps Behind the Board",
-      "content": "Released October 14, 2013 in the UK and October 15, 2013 in the US on Roadrunner Records, \"Vengeance Falls\" is Trivium's sixth studio album and the second and final record to feature drummer Nick Augusto before his departure from the band in May 2014. Where \"Shogun\" (2008) chased progressive-thrash ambition and \"In Waves\" (2011) leaned into raw thrash aggression, \"Vengeance Falls\" pulled in a different direction entirely: shorter, more direct songs built for impact over sprawl, with every track on the standard edition running under six minutes.\n\nThe album's defining twist was its producer. David Draiman — lead vocalist of Disturbed and Device — took the production chair for the first time in his career, tracking the album at his own studio, DMD Productions in Austin, Texas, during February and March 2013. It's a rare case of one prominent metal frontman shaping another band's record from the console rather than the microphone, and Draiman pushed Trivium toward a more song-focused, radio-conscious version of their sound. Mixing was handled by Colin Richardson and Carl Bown at Treehouse Studio in the UK, with mastering by Ted Jensen at Sterling Sound in New York.\n\nFor Nick Augusto, \"Vengeance Falls\" meant adapting his thrash-rooted, technically dense \"In Waves\" playing to a groove-first production philosophy — locking into pocket-driven patterns rather than showcasing pure speed. The album debuted at #15 on the Billboard 200 and reached #23 on the UK Albums Chart, backed by singles \"Brave This Storm\" and \"Strife,\" the latter singled out by The Guardian as an anthemic standout in a record it called \"a proud and focused heavy metal album.\"\n\nThis article documents the drum gear Nick Augusto used on \"Vengeance Falls\": the Tama Starclassic Performer B/B kit, Meinl MB20 cymbals, Tama Iron Cobra 900 pedal, and how Draiman's rock-conscious production reshaped the tuning and mix approach without changing the equipment underneath.",
+      "content": "Released October 14, 2013 in the UK and October 15, 2013 in the US on Roadrunner Records, \"Vengeance Falls\" is Trivium's sixth studio album and the second and final record to feature drummer Nick Augusto before his departure from the band in May 2014. Where \"Shogun\" (2008) chased progressive-thrash ambition and \"In Waves\" (2011) leaned into raw thrash aggression, \"Vengeance Falls\" pulled in a different direction entirely: shorter, more direct songs built for impact over sprawl, with every track on the standard edition running under six minutes.\n\nThe album's defining twist was its producer. David Draiman — lead vocalist of Disturbed and Device — took the production chair for the first time in his career, tracking the album at his own studio, DMD Productions in Austin, Texas, during February and March 2013. It's a rare case of one prominent metal frontman shaping another band's record from the console rather than the microphone, and Draiman pushed Trivium toward a more song-focused, radio-conscious version of their sound. Mixing was handled by Colin Richardson and Carl Bown at Treehouse Studio in the UK, with mastering by Ted Jensen at Sterling Sound in New York.\n\nFor Nick Augusto, \"Vengeance Falls\" meant adapting his thrash-rooted, technically dense \"In Waves\" playing to a groove-first production philosophy — locking into pocket-driven patterns rather than showcasing pure speed. The album debuted at #15 on the Billboard 200 and reached #23 on the UK Albums Chart, backed by singles \"Brave This Storm\" and \"Strife,\" the latter singled out by The Guardian as an anthemic standout in a record it called \"a proud and focused heavy metal album.\"\n\nThis article documents the drum gear Nick Augusto used on \"Vengeance Falls\": the Pearl Reference Pure kit, Sabian AAX cymbals, Pearl Demon Drive pedal, and how Draiman's rock-conscious production reshaped the tuning and mix approach without changing the equipment underneath.",
       "keyPoints": [
         "Vengeance Falls (2013) is Trivium's sixth studio album — Nick Augusto's second and final record with the band",
         "Produced by David Draiman of Disturbed — his first production credit, tracked at his own DMD Productions studio in Austin, TX",
@@ -44,9 +44,9 @@ export const articles = {
       ]
     },
     "drumKit": {
-      "title": "The Starclassic Stays, the Sound Changes",
-      "brand": "Tama",
-      "model": "Tama Starclassic Performer B/B",
+      "title": "The Reference Pure Stays, the Sound Changes",
+      "brand": "Pearl",
+      "model": "Pearl Reference Pure",
       "finish": "Custom finish",
       "config": {
         "bassdrums": [
@@ -60,84 +60,84 @@ export const articles = {
           "14\" x 14\" Floor Tom",
           "16\" x 16\" Floor Tom"
         ],
-        "shells": "Birch/Bubinga hybrid shells — fast attack with controlled low-end resonance"
+        "shells": "Maple/birch hybrid shells — fast attack with controlled low-end resonance"
       },
-      "description": "Nick Augusto carried the same Tama Starclassic Performer B/B he'd used on \"In Waves\" directly into the \"Vengeance Falls\" sessions — the birch/bubinga hybrid shells, the compact 4-piece tom array, the 22\" kick. What changed wasn't the equipment but how David Draiman captured it: rather than the dry, punchy attack Jason Suecof favored on \"In Waves,\" Draiman pushed for a warmer, more rock-influenced low end that suited the album's shift toward groove-driven, hook-forward songwriting.\n\nThat meant more emphasis on the bubinga layer's natural warmth in the mix, and tuning that favored sustain and body over the sharpest possible transient attack. On tracks like \"Villainy Thrives\" and \"Incineration: The Broken World,\" the kit reads bigger and more open than its \"In Waves\" counterpart despite being the identical drum set — a production choice, not an equipment change.\n\nThe compact tom configuration remained well suited to the material: \"Vengeance Falls\" is built on tight, riff-locked patterns rather than extended melodic fills, and the same 10\"/12\" rack and 14\"/16\" floor tom array Augusto used on \"In Waves\" covered everything the record's more concise song structures required.",
+      "description": "Nick Augusto carried the same Pearl Reference Pure he'd used on \"In Waves\" directly into the \"Vengeance Falls\" sessions — the maple/birch hybrid shells, the compact 4-piece tom array, the 22\" kick. What changed wasn't the equipment but how David Draiman captured it: rather than the dry, punchy attack Jason Suecof favored on \"In Waves,\" Draiman pushed for a warmer, more rock-influenced low end that suited the album's shift toward groove-driven, hook-forward songwriting.\n\nThat meant more emphasis on the shells' natural warmth in the mix, and tuning that favored sustain and body over the sharpest possible transient attack. On tracks like \"Villainy Thrives\" and \"Incineration: The Broken World,\" the kit reads bigger and more open than its \"In Waves\" counterpart despite being the identical drum set — a production choice, not an equipment change.\n\nThe compact tom configuration remained well suited to the material: \"Vengeance Falls\" is built on tight, riff-locked patterns rather than extended melodic fills, and the same 10\"/12\" rack and 14\"/16\" floor tom array Augusto used on \"In Waves\" covered everything the record's more concise song structures required.",
       "notes": [
-        "Same Tama Starclassic Performer B/B as In Waves — no equipment change between albums",
+        "Same Pearl Reference Pure as In Waves — no equipment change between albums",
         "David Draiman's production favored warmth and sustain over In Waves' drier, punchier attack",
         "Compact 4-piece tom configuration suited the album's tighter, more concise song structures",
-        "Bubinga shell layer's natural warmth foregrounded in the mix for a rock-conscious low end"
+        "Maple/birch shell warmth foregrounded in the mix for a rock-conscious low end"
       ],
       "estimatedValue": "$2,900–3,900 (2013) / $1,600–2,300 (used today)"
     },
     "snare": {
-      "title": "The S.L.P. Steel, Tuned for Body",
-      "brand": "Tama",
-      "model": "Tama S.L.P. Steel Snare",
+      "title": "The Reference Brass, Tuned for Body",
+      "brand": "Pearl",
+      "model": "Pearl Reference 14\"x6.5\" Brass",
       "size": "14\" x 6.5\"",
-      "shell": "Steel",
-      "description": "Augusto's 14\" x 6.5\" Tama S.L.P. steel snare made the jump from \"In Waves\" unchanged in hardware, but not in tuning. Draiman's production philosophy — shaped by his own background fronting a hard rock band built for radio — called for a snare with more body and slightly less top-end attack than the bright, cutting crack that defined \"In Waves.\"\n\nThe steel shell's natural brightness still cuts through Trivium's dense, drop-tuned guitar tracking, but the tuning sits a touch lower and the mix processing pulls back some of the highest-frequency snap in favor of a fuller, more rock-radio backbeat. It's a subtle shift, but audible across tracks like \"Strife\" and \"Brave This Storm,\" where the snare sits with more weight in the mix than Augusto's \"In Waves\" work.\n\nAugusto's underlying technique — clean rimshots, controlled ghost-note work between hits — remained the constant. What Draiman changed was framing: the same drummer, the same drum, presented with a rounder, more accessible tone.",
+      "shell": "Brass",
+      "description": "Augusto's 14\" x 6.5\" Pearl Reference brass snare made the jump from \"In Waves\" unchanged in hardware, but not in tuning. Draiman's production philosophy — shaped by his own background fronting a hard rock band built for radio — called for a snare with more body and slightly less top-end attack than the bright, cutting crack that defined \"In Waves.\"\n\nThe brass shell's natural brightness still cuts through Trivium's dense, drop-tuned guitar tracking, but the tuning sits a touch lower and the mix processing pulls back some of the highest-frequency snap in favor of a fuller, more rock-radio backbeat. It's a subtle shift, but audible across tracks like \"Strife\" and \"Brave This Storm,\" where the snare sits with more weight in the mix than Augusto's \"In Waves\" work.\n\nAugusto's underlying technique — clean rimshots, controlled ghost-note work between hits — remained the constant. What Draiman changed was framing: the same drummer, the same drum, presented with a rounder, more accessible tone.",
       "tuningSetting": "Medium — more body and less top-end attack than the In Waves-era tuning",
       "heads": "Evans Genera Dry (batter), Evans 300 Snare Side (resonant)",
       "estimatedValue": "$180–240 (2013)"
     },
     "cymbals": {
-      "title": "Meinl MB20: Weight for a Groove-First Record",
-      "brand": "Meinl",
-      "series": "Meinl MB20 and Classics Custom Series",
+      "title": "Sabian AAX: Weight for a Groove-First Record",
+      "brand": "Sabian",
+      "series": "Sabian AAX Series",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Meinl Classics Custom 14\" Hi-Hats",
+          "model": "Sabian AAX 14\" Stage Hi-Hats",
           "position": "Left side",
           "notes": "Bright, articulate chick for the album's pocket-driven verse grooves"
         },
         {
           "type": "Crash",
-          "model": "Meinl MB20 17\" Heavy Crash",
+          "model": "Sabian AAX 18\" X-Plosion Crash",
           "position": "Left of hi-hats",
           "notes": "Fast-responding accent crash for tight riff punctuation"
         },
         {
           "type": "Crash",
-          "model": "Meinl MB20 19\" Heavy Crash",
+          "model": "Sabian AAX 19\" X-Plosion Crash",
           "position": "Right of toms",
           "notes": "Primary crash for chorus entries and hook-driven transitions"
         },
         {
           "type": "Ride",
-          "model": "Meinl Classics Custom 20\" Ride",
+          "model": "Sabian AAX 21\" Stage Ride",
           "position": "Far right",
           "notes": "Clear bow definition for the album's mid-tempo groove sections"
         },
         {
           "type": "China",
-          "model": "Meinl MB20 18\" China",
+          "model": "Sabian AAXtreme 18\" China",
           "position": "Above floor tom",
           "notes": "Aggressive accent voice for breakdown hits on tracks like \"Incineration: The Broken World\""
         }
       ],
-      "description": "Augusto's Meinl MB20 and Classics Custom pairing carried over unchanged from \"In Waves,\" and it suited \"Vengeance Falls\" well: the MB20 series' dark, heavy-weight B20 bronze crashes gave Draiman's warmer mix full-bodied accents rather than a thin, bright wash, while the Classics Custom hi-hats and ride kept the pattern work articulate against the album's more groove-oriented, mid-tempo material.\n\nWith \"Vengeance Falls\" leaning less on blast-adjacent speed than \"In Waves\" and more on locked-in, hook-driven riffing, the cymbal work shifted correspondingly — fewer rapid-fire accent hits, more sustained crash-and-groove interplay that matched the record's more radio-conscious song structures. The 18\" MB20 China remained the go-to effect cymbal for the album's heavier breakdown moments, particularly on the extended closer \"Wake (The End Is Nigh).\"",
+      "description": "Augusto's Sabian AAX pairing carried over unchanged from \"In Waves,\" and it suited \"Vengeance Falls\" well: the AAX Series' bright, cutting X-Plosion crashes gave Draiman's warmer mix full-bodied accents that still cut through the dense guitar mix, while the AAX hi-hats and Stage Ride kept the pattern work articulate against the album's more groove-oriented, mid-tempo material.\n\nWith \"Vengeance Falls\" leaning less on blast-adjacent speed than \"In Waves\" and more on locked-in, hook-driven riffing, the cymbal work shifted correspondingly — fewer rapid-fire accent hits, more sustained crash-and-groove interplay that matched the record's more radio-conscious song structures. The 18\" AAXtreme China remained the go-to effect cymbal for the album's heavier breakdown moments, particularly on the extended closer \"Wake (The End Is Nigh).\"",
       "estimatedValue": "$2,000–2,600 (2013)"
     },
     "pedals": {
-      "title": "Tama Iron Cobra 900: Consistency Through the Transition",
-      "brand": "Tama",
-      "model": "Tama Iron Cobra 900 Double Bass Pedal",
-      "description": "Augusto's Tama Iron Cobra 900 carried over from \"In Waves\" without modification. He continued running the Rolling Glide cam, favoring its progressive, building acceleration over the sharper immediate response of the Power Glide cam — a choice suited to \"Vengeance Falls\"' more groove-locked double-bass patterns, which prioritize even, sustained pocket over maximum top-end speed.\n\nThe album's more concise, hook-forward songwriting meant less reliance on extended blast-adjacent kick runs than \"In Waves,\" but tracks like \"Incineration: The Broken World\" and \"Wake (The End Is Nigh)\" still called for the pedal's dependable, fatigue-resistant response across longer sustained sections. Spring tension stayed at Augusto's established medium-high setting, giving him the rebound precision needed for tight sixteenth-note figures without fighting the spring on the record's slower, more deliberate groove passages.",
+      "title": "Pearl Demon Drive: Consistency Through the Transition",
+      "brand": "Pearl",
+      "model": "Pearl Demon Drive Double Pedal",
+      "description": "Augusto's Pearl Demon Drive carried over from \"In Waves\" without modification. He continued relying on its direct-drive response, favoring its fast, consistent feel over the added stretch of a chain-drive pedal — a choice suited to \"Vengeance Falls\"' more groove-locked double-bass patterns, which prioritize even, sustained pocket over maximum top-end speed.\n\nThe album's more concise, hook-forward songwriting meant less reliance on extended blast-adjacent kick runs than \"In Waves,\" but tracks like \"Incineration: The Broken World\" and \"Wake (The End Is Nigh)\" still called for the pedal's dependable, fatigue-resistant response across longer sustained sections. Spring tension stayed at Augusto's established medium-high setting, giving him the rebound precision needed for tight sixteenth-note figures without fighting the spring on the record's slower, more deliberate groove passages.",
       "keySpecs": [
-        "Rolling Glide cam, unchanged from the In Waves setup",
+        "Direct-drive design, unchanged from the In Waves setup",
         "Medium-high spring tension for consistent rebound across tempos",
-        "Dual-chain drive for reliable power transfer on sustained groove patterns",
+        "Direct-drive power transfer for reliable response on sustained groove patterns",
         "Same pedal used across both Augusto-era Trivium albums and the supporting tours"
       ],
       "estimatedValue": "$280–340 (2013) / $180–220 (used today)"
     },
     "sticks": {
-      "brand": "Promark",
-      "model": "Promark 5B Hickory",
-      "description": "Promark 5B hickory sticks, unchanged from the \"In Waves\" cycle. The 5B's diameter gives Augusto enough mass for the album's full-body backbeats and crash accents without the added fatigue a heavier stick would introduce across the touring schedule that followed the album's release."
+      "brand": "Vic Firth",
+      "model": "Vic Firth American Classic 5B",
+      "description": "Vic Firth American Classic 5B hickory sticks, unchanged from the \"In Waves\" cycle. The 5B's diameter gives Augusto enough mass for the album's full-body backbeats and crash accents without the added fatigue a heavier stick would introduce across the touring schedule that followed the album's release."
     },
     "trackAnalysis": [
       {
@@ -149,7 +149,7 @@ export const articles = {
           "Locked-in verse groove built for radio rather than technical showcase",
           "Draiman's warmer, more sustained snare tuning is immediately audible"
         ],
-        "gearNotes": "Tama S.L.P. steel snare's rounder tuning anchors the hook-driven chorus. MB20 crashes provide full-bodied accents on the transitions."
+        "gearNotes": "Pearl Reference brass snare's rounder tuning anchors the hook-driven chorus. Sabian AAX crashes provide full-bodied accents on the transitions."
       },
       {
         "track": "Strife",
@@ -160,7 +160,7 @@ export const articles = {
           "Tight, riff-locked double-bass pattern rather than extended blast work",
           "One of the clearest examples of the album's groove-over-speed philosophy"
         ],
-        "gearNotes": "Iron Cobra 900's Rolling Glide cam delivers even, sustained double-bass through the chorus. Classics Custom hi-hats keep the verse groove articulate."
+        "gearNotes": "Pearl Demon Drive's direct-drive response delivers even, sustained double-bass through the chorus. Sabian AAX hi-hats keep the verse groove articulate."
       },
       {
         "track": "Incineration: The Broken World",
@@ -168,10 +168,10 @@ export const articles = {
         "signature": "4/4",
         "highlights": [
           "One of the album's heaviest, most breakdown-driven tracks",
-          "18\" MB20 China gets its heaviest use on the record here",
-          "Demonstrates the Starclassic's bubinga-driven low end under Draiman's warmer mix"
+          "18\" AAXtreme China gets its heaviest use on the record here",
+          "Demonstrates the Reference Pure's maple/birch-driven low end under Draiman's warmer mix"
         ],
-        "gearNotes": "MB20 China anchors the breakdown accents. Kit tuning favors sustain and body over the sharper In Waves-era attack."
+        "gearNotes": "Sabian AAXtreme China anchors the breakdown accents. Kit tuning favors sustain and body over the sharper In Waves-era attack."
       },
       {
         "track": "Wake (The End Is Nigh)",
@@ -182,13 +182,13 @@ export const articles = {
           "Builds from a restrained verse groove into the album's most sustained heavy section",
           "Augusto's most dynamically varied performance on the record"
         ],
-        "gearNotes": "Iron Cobra 900 sustains the extended kick work through the closing section. MB20/Classics Custom pairing covers both the track's restraint and its payoff."
+        "gearNotes": "Pearl Demon Drive sustains the extended kick work through the closing section. Sabian AAX pairing covers both the track's restraint and its payoff."
       }
     ],
     "faq": [
       {
         "question": "What drum kit did Nick Augusto use on Vengeance Falls?",
-        "answer": "On Trivium's Vengeance Falls (2013), Nick Augusto played the same Tama Starclassic Performer B/B kit he used on \"In Waves\" — birch/bubinga hybrid shells in a custom finish, with a 22\" bass drum, two rack toms (10\", 12\"), and two floor toms (14\", 16\"). The equipment didn't change between albums; producer David Draiman instead shaped a warmer, more sustained drum tone through tuning and mix processing. For full drummer profile details, see [Nick Augusto at MetalForge](/drummer/nick-augusto)."
+        "answer": "On Trivium's Vengeance Falls (2013), Nick Augusto played the same Pearl Reference Pure kit he used on \"In Waves\" — maple/birch hybrid shells in a custom finish, with a 22\" bass drum, two rack toms (10\", 12\"), and two floor toms (14\", 16\"). The equipment didn't change between albums; producer David Draiman instead shaped a warmer, more sustained drum tone through tuning and mix processing. For full drummer profile details, see [Nick Augusto at MetalForge](/drummer/nick-augusto)."
       },
       {
         "question": "How did David Draiman's production affect the drum sound on Vengeance Falls?",
@@ -196,7 +196,7 @@ export const articles = {
       },
       {
         "question": "How much would Nick Augusto's Vengeance Falls drum kit cost today?",
-        "answer": "Nick Augusto's full Vengeance Falls-era setup — the Tama Starclassic Performer B/B kit, Tama S.L.P. steel snare, Meinl MB20/Classics Custom cymbal package, and Tama Iron Cobra 900 double bass pedal — carried a combined estimated value of roughly $5,400–7,100 at 2013 retail pricing. Buying equivalent gear used today would run approximately $2,300–3,300, with the Starclassic kit itself accounting for the largest share at $1,600–2,300 used."
+        "answer": "Nick Augusto's full Vengeance Falls-era setup — the Pearl Reference Pure kit, Pearl Reference brass snare, Sabian AAX cymbal package, and Pearl Demon Drive double bass pedal — carried a combined estimated value of roughly $5,400–7,100 at 2013 retail pricing. Buying equivalent gear used today would run approximately $2,300–3,300, with the Reference Pure kit itself accounting for the largest share at $1,600–2,300 used."
       },
       {
         "question": "Is Vengeance Falls heavier or more technical than Shogun?",
@@ -239,7 +239,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "Vengeance Falls: Same Gear, Different Mission",
-      "content": "Vengeance Falls closes out Nick Augusto's two-album Trivium tenure with a lesson in how much production alone can reshape a drummer's sound. Every piece of his equipment carried over unchanged from \"In Waves\": the Tama Starclassic Performer B/B kit, the S.L.P. steel snare, the Meinl MB20/Classics Custom cymbal pairing, the Iron Cobra 900 pedal.\n\nWhat changed was the mission David Draiman set for the record:\n\n- **Tama Starclassic Performer B/B**: Same birch/bubinga shells as In Waves, but tuned and mixed for warmth and sustain rather than dry, punchy attack — a deliberate rock-radio choice from a producer better known as a vocalist\n- **Tama S.L.P. Steel Snare**: Identical hardware, retuned for more body and less top-end snap to match Draiman's rounder drum sound\n- **Meinl MB20 / Classics Custom**: The same cymbal package translated naturally into the album's more groove-driven, mid-tempo material\n- **Tama Iron Cobra 900**: Unmodified from In Waves, its Rolling Glide cam suited to the album's sustained pocket-driven double-bass work over raw top-end speed\n\nAugusto left Trivium in May 2014, closing out a chapter that ran from the technical peak of Shogun's aftermath through two increasingly commercially successful, stylistically distinct records. Vengeance Falls remains the clearest evidence that a drummer's gear is only half the story — the other half is who's shaping it in the room.\n\nFor deeper exploration:\n- **Full drummer profile**: [Nick Augusto at MetalForge](/drummer/nick-augusto)\n- **The technical peak**: [Shogun drum setup at MetalForge](/articles/shogun-drum-setup)\n- **The In Waves breakdown**: [In Waves drum setup at MetalForge](/articles/in-waves-drum-setup)\n- **What came next for Trivium**: [The Sin and the Sentence drum setup at MetalForge](/articles/trivium-sin-and-the-sentence-drum-setup)\n- **Double-bass technique**: [Double-bass drumming for metal at MetalForge](/articles/double-bass-drumming-for-metal)"
+      "content": "Vengeance Falls closes out Nick Augusto's two-album Trivium tenure with a lesson in how much production alone can reshape a drummer's sound. Every piece of his equipment carried over unchanged from \"In Waves\": the Pearl Reference Pure kit, the Reference brass snare, the Sabian AAX cymbal pairing, the Pearl Demon Drive pedal.\n\nWhat changed was the mission David Draiman set for the record:\n\n- **Pearl Reference Pure**: Same maple/birch shells as In Waves, but tuned and mixed for warmth and sustain rather than dry, punchy attack — a deliberate rock-radio choice from a producer better known as a vocalist\n- **Pearl Reference 14\"x6.5\" Brass Snare**: Identical hardware, retuned for more body and less top-end snap to match Draiman's rounder drum sound\n- **Sabian AAX Series**: The same cymbal package translated naturally into the album's more groove-driven, mid-tempo material\n- **Pearl Demon Drive**: Unmodified from In Waves, its direct-drive response suited to the album's sustained pocket-driven double-bass work over raw top-end speed\n\nAugusto left Trivium in May 2014, closing out a chapter that ran from the technical peak of Shogun's aftermath through two increasingly commercially successful, stylistically distinct records. Vengeance Falls remains the clearest evidence that a drummer's gear is only half the story — the other half is who's shaping it in the room.\n\nFor deeper exploration:\n- **Full drummer profile**: [Nick Augusto at MetalForge](/drummer/nick-augusto)\n- **The technical peak**: [Shogun drum setup at MetalForge](/articles/shogun-drum-setup)\n- **The In Waves breakdown**: [In Waves drum setup at MetalForge](/articles/in-waves-drum-setup)\n- **What came next for Trivium**: [The Sin and the Sentence drum setup at MetalForge](/articles/trivium-sin-and-the-sentence-drum-setup)\n- **Double-bass technique**: [Double-bass drumming for metal at MetalForge](/articles/double-bass-drumming-for-metal)"
     }
   },
   "shogun-drum-setup": {
@@ -260,7 +260,7 @@ export const articles = {
     "author": "MetalForge Editorial",
     "title": "Shogun Drum Setup: Nick Augusto's Progressive Thrash Masterpiece (Trivium, 2008)",
     "metaTitle": "Trivium Shogun Drum Setup — Nick Augusto Kit & Gear Guide | MetalForge",
-    "description": "Complete gear breakdown for Nick Augusto's drum setup on Trivium's Shogun (2008). DW Performance Series kit, Meinl Byzance cymbals, DW 9000 pedals, and techniques behind Trivium's magnum opus.",
+    "description": "Complete gear breakdown for Nick Augusto's drum setup on Trivium's Shogun (2008). Pearl Reference Pure kit, Sabian AAX cymbals, Pearl Demon Drive pedal, and techniques behind Trivium's magnum opus.",
     "seoKeywords": [
       "trivium shogun drums",
       "nick augusto drum setup",
@@ -268,29 +268,29 @@ export const articles = {
       "trivium drummer 2008",
       "shogun drum setup",
       "trivium shogun gear",
-      "nick augusto dw drums",
-      "nick augusto meinl",
+      "nick augusto pearl drums",
+      "nick augusto sabian",
       "trivium progressive thrash drums",
       "shogun title track drums"
     ],
     "ogImage": "/images/albums/shogun-drum-setup.webp",
     "intro": {
       "title": "Trivium's Magnum Opus: Shogun's Drum Architecture",
-      "content": "Released on September 29, 2008 on Roadrunner Records, Trivium's fourth studio album \"Shogun\" stands as the band's most ambitious and technically demanding work. At 70 minutes across 10 tracks — including the extraordinary 11:39 title track and the 9:55 \"The Calamity\" — Shogun pushed Trivium far beyond the metalcore territory of earlier records into progressive thrash metal of the highest order. Metal publications worldwide placed it on their year-end top-10 lists, cementing its status as a genre landmark.\n\nNick Augusto joined Trivium in 2007, just before Shogun entered production. Having replaced Travis Smith's heavier, punchier approach with a more technically nuanced style, Augusto brought an instrumental vocabulary that matched the compositional ambitions Matt Heafy and Corey Beaulieu brought to the writing sessions. His work on Shogun remains the technical peak of his career with the band.\n\nRecorded at Morrisound Recording in Tampa, Florida — legendary home to countless metal records — with producer Nick Raskulinecz (Foo Fighters, Rush, Mastodon), Shogun's drum tracks capture Augusto navigating time signatures from 4/4 to 7/8 to 11/8, executing blast sections above 180 BPM, and sustaining extended jazz-influenced passages within progressive song structures. The production is clean enough to hear every nuance of his technique.\n\nThis article documents every piece of drum gear Nick Augusto used on Shogun: the DW Performance Series kit, Meinl Byzance cymbals, DW 9000 double bass pedal, and the setup decisions that powered Trivium's most celebrated recording.",
+      "content": "Released on September 29, 2008 on Roadrunner Records, Trivium's fourth studio album \"Shogun\" stands as the band's most ambitious and technically demanding work. At 70 minutes across 10 tracks — including the extraordinary 11:39 title track and the 9:55 \"The Calamity\" — Shogun pushed Trivium far beyond the metalcore territory of earlier records into progressive thrash metal of the highest order. Metal publications worldwide placed it on their year-end top-10 lists, cementing its status as a genre landmark.\n\nNick Augusto joined Trivium in 2007, just before Shogun entered production. Having replaced Travis Smith's heavier, punchier approach with a more technically nuanced style, Augusto brought an instrumental vocabulary that matched the compositional ambitions Matt Heafy and Corey Beaulieu brought to the writing sessions. His work on Shogun remains the technical peak of his career with the band.\n\nRecorded at Morrisound Recording in Tampa, Florida — legendary home to countless metal records — with producer Nick Raskulinecz (Foo Fighters, Rush, Mastodon), Shogun's drum tracks capture Augusto navigating time signatures from 4/4 to 7/8 to 11/8, executing blast sections above 180 BPM, and sustaining extended jazz-influenced passages within progressive song structures. The production is clean enough to hear every nuance of his technique.\n\nThis article documents every piece of drum gear Nick Augusto used on Shogun: the Pearl Reference Pure kit, Sabian AAX cymbals, Pearl Demon Drive double bass pedal, and the setup decisions that powered Trivium's most celebrated recording.",
       "keyPoints": [
         "Shogun (2008) is widely regarded as Trivium's magnum opus — 70 minutes of progressive thrash metal",
         "Title track (11:39) is the longest Trivium song — features extended double kick and odd-time passages",
         "\"The Calamity\" (9:55) includes jazz-influenced sections alongside 180+ BPM blast work",
         "Augusto joined Trivium in 2007 — Shogun is his first studio album with the band",
         "Recorded at Morrisound Recording, Tampa, FL with producer Nick Raskulinecz",
-        "Meinl Byzance debut for Trivium — distinct first Meinl pairing before later Classics Custom period"
+        "Sabian AAX cymbals — the bright, cutting setup Augusto used throughout his Trivium tenure"
       ]
     },
     "drumKit": {
-      "title": "The Shogun Engine: Augusto's DW Performance Series",
-      "brand": "DW",
-      "model": "DW Performance Series",
-      "finish": "Natural Lacquer",
+      "title": "The Shogun Engine: Augusto's Pearl Reference Pure",
+      "brand": "Pearl",
+      "model": "Pearl Reference Pure",
+      "finish": "Natural finish",
       "config": {
         "bassdrums": [
           "22\" Bass Drum"
@@ -304,78 +304,78 @@ export const articles = {
           "16\" Floor Tom",
           "18\" Floor Tom"
         ],
-        "shells": "North American maple shells — punchy attack with controlled sustain ideal for progressive metal"
+        "shells": "Maple/birch hybrid shells — punchy attack with controlled sustain ideal for progressive metal"
       },
-      "description": "For Shogun, Nick Augusto used a DW Performance Series kit in Natural Lacquer finish — DW's professional mid-tier offering with the same maple shell construction as the flagship Collector's Series at a more accessible price point. The Performance Series' maple shells delivered the combination of fast attack and warm sustain that Shogun's complex, dynamic material required.\n\nThe configuration was notably expanded compared to typical metalcore setups: three rack toms (10\", 12\", 14\") plus two floor toms (16\", 18\") gave Augusto the melodic range to execute Shogun's sophisticated tom melodies and progressive fills. Tracks like \"The Calamity\" and \"Like Light to the Flies\" move across the kit in ways that demand a full tom array.\n\nThe 22\" kick provided enough low-end authority for Shogun's heaviest passages without sacrificing the definition needed for fast double-kick patterns. DW's True Pitch tuning system enabled quick tuning adjustments between studio sessions — critical when moving between the album's widely varying tempos and feels.\n\nThe Natural Lacquer finish was both aesthetic and acoustic: DW's lacquer process seals the shell without adding the mass that some finishes introduce, preserving the maple's natural resonance characteristics. Combined with careful tuning by Raskulinecz and drum tech work, the kit achieved the clean, articulate sound that defines Shogun's production.",
+      "description": "For Shogun, Nick Augusto used a Pearl Reference Pure kit in a natural finish — the same maple/birch hybrid shell construction he relied on throughout his Trivium tenure. The Reference Pure's hybrid shells delivered the combination of fast attack and warm sustain that Shogun's complex, dynamic material required.\n\nThe configuration was notably expanded compared to typical metalcore setups: three rack toms (10\", 12\", 14\") plus two floor toms (16\", 18\") gave Augusto the melodic range to execute Shogun's sophisticated tom melodies and progressive fills. Tracks like \"The Calamity\" and \"Like Light to the Flies\" move across the kit in ways that demand a full tom array.\n\nThe 22\" kick provided enough low-end authority for Shogun's heaviest passages without sacrificing the definition needed for fast double-kick patterns. The kit's tuning range enabled quick adjustments between studio sessions — critical when moving between the album's widely varying tempos and feels.\n\nThe natural finish was both aesthetic and acoustic: it seals the shell without adding the mass that some finishes introduce, preserving the shells' natural resonance characteristics. Combined with careful tuning by Raskulinecz and drum tech work, the kit achieved the clean, articulate sound that defines Shogun's production.",
       "notes": [
-        "DW Performance Series — maple shells, professional-grade construction",
+        "Pearl Reference Pure — maple/birch hybrid shells, professional-grade construction",
         "Five-tom setup (3 rack + 2 floor) for Shogun's melodic fills and progressive passages",
         "22\" kick for authority at all tempos from blast sections to slow passages",
-        "Natural Lacquer finish preserves maple resonance characteristics",
-        "DW True Pitch tuning for consistent response across long studio sessions"
+        "Natural finish preserves the shells' resonance characteristics",
+        "Wide tuning range for consistent response across long studio sessions"
       ],
       "estimatedValue": "$3,200–4,500 (2008) / $1,800–2,600 (used today)"
     },
     "snare": {
-      "title": "The Power Snare: DW Edge 14×6.5\"",
-      "brand": "DW",
-      "model": "DW Edge Snare",
+      "title": "The Power Snare: Pearl Reference 14×6.5\" Brass",
+      "brand": "Pearl",
+      "model": "Pearl Reference 14\"x6.5\" Brass",
       "size": "14\" x 6.5\"",
-      "shell": "Steel with DW's Edge series die-cast hoops",
-      "description": "Augusto's snare selection for Shogun was the DW Edge 14×6.5\" — a power snare configuration well-matched to the album's dense, multi-layered production. At 6.5\" depth, the drum provides enough body to project through the complex guitar arrangements on tracks like \"Into the Mouth of Hell We March\" and the title track without requiring excessive mix processing.\n\nThe DW Edge series uses a steel shell that contributes the bright, cutting crack that Shogun's production benefits from. Where some metal drummers prefer maple snares for warmth, Augusto's steel Edge cuts through cleanly in Raskulinecz's mix — audible even in the album's most harmonically dense passages.\n\nTuned in the medium-high range, the snare delivers clean rimshots for the album's straight-ahead sections while maintaining enough body for the dramatic dynamic drops that characterize Shogun's progressive song structures. The backbeat on the album's more aggressive tracks is immediate and focused; on passages like \"The Crusade\"-style melodic sections, the same drum provides enough tonal roundness to support the lighter feel.\n\nThe 6.5\" depth — deeper than Augusto's later Tama S.L.P. work on \"In Waves\" — reflects the different production context: Shogun's larger-sounding, more orchestrated production benefited from a snare with more body and projection.",
+      "shell": "Brass",
+      "description": "Augusto's snare selection for Shogun was the Pearl Reference 14×6.5\" Brass — a power snare configuration well-matched to the album's dense, multi-layered production. At 6.5\" depth, the drum provides enough body to project through the complex guitar arrangements on tracks like \"Into the Mouth of Hell We March\" and the title track without requiring excessive mix processing.\n\nThe Reference series' brass shell contributes the bright, cutting crack that Shogun's production benefits from. Where some metal drummers prefer maple snares for warmth, Augusto's brass Reference cuts through cleanly in Raskulinecz's mix — audible even in the album's most harmonically dense passages.\n\nTuned in the medium-high range, the snare delivers clean rimshots for the album's straight-ahead sections while maintaining enough body for the dramatic dynamic drops that characterize Shogun's progressive song structures. The backbeat on the album's more aggressive tracks is immediate and focused; on passages like \"The Crusade\"-style melodic sections, the same drum provides enough tonal roundness to support the lighter feel.\n\nThe 6.5\" depth — the same configuration Augusto used later on \"In Waves\" — reflects a consistent approach: Shogun's larger-sounding, more orchestrated production benefited from a snare with body and projection.",
       "tuningSetting": "Medium-high — bright attack with body for dense progressive metal production",
       "heads": "Evans Genera Dry (batter), Evans 300 Snare Side (resonant)",
       "estimatedValue": "$220–280 (2008)"
     },
     "cymbals": {
-      "title": "Trivium's Meinl Byzance Debut",
-      "brand": "Meinl",
-      "series": "Meinl Byzance",
+      "title": "Trivium's Sabian AAX Setup",
+      "brand": "Sabian",
+      "series": "Sabian AAX Series",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Meinl 14\" Byzance Traditional Hi-Hats",
+          "model": "Sabian AAX 14\" Stage Hi-Hats",
           "position": "Left side",
-          "notes": "Dark, complex chick voice for pattern work at all tempos"
+          "notes": "Bright, articulate chick voice for pattern work at all tempos"
         },
         {
           "type": "Crash",
-          "model": "Meinl 16\" Byzance Medium Crash",
+          "model": "Sabian AAX 18\" X-Plosion Crash",
           "position": "Left of hi-hats",
           "notes": "Fast response for tight riff accents and blast section punctuation"
         },
         {
           "type": "Crash",
-          "model": "Meinl 18\" Byzance Medium Crash",
+          "model": "Sabian AAX 19\" X-Plosion Crash",
           "position": "Right of toms",
           "notes": "Primary crash for section transitions and climactic moments"
         },
         {
           "type": "Ride",
-          "model": "Meinl 20\" Byzance Traditional Medium Ride",
+          "model": "Sabian AAX 21\" Stage Ride",
           "position": "Far right",
-          "notes": "Versatile dark ride — bow for groove passages, bell for progressive accents"
+          "notes": "Versatile ride — clear bow for groove passages, cutting bell for progressive accents"
         },
         {
           "type": "China",
-          "model": "Meinl 18\" Byzance China",
+          "model": "Sabian AAXtreme 18\" China",
           "position": "Above floor tom",
           "notes": "Aggressive effect cymbal for breakdown accents and heavy section hits"
         }
       ],
-      "description": "Shogun marks Trivium's first major Meinl Byzance pairing — a distinct sonic chapter before the band's later association with Meinl Classics Custom series cymbals. The Byzance line, handcrafted in Turkey using B20 bronze and traditional manufacturing techniques, delivers the complex, harmonic overtones that complement Shogun's progressive arrangements.\n\nThe 14\" Byzance Traditional hi-hats provide a darker, more sophisticated sound than the bright Classics Custom hats Augusto would use on later records. This darkness suits Shogun's production — the album's lower tunings and more orchestrated arrangements benefit from cymbals that add harmonic depth rather than cutting brightness.\n\nThe crash selection covers the dynamic range Shogun demands. The 16\" Medium Crash responds fast enough for tight accent work in the album's aggressive sections, while the 18\" Medium provides the full-body wash needed for the album's dramatic section endings. Together they cover the spectrum from precise riff punctuation to cinematic crash moments.\n\nThe 20\" Byzance Traditional Medium Ride's combination of dark bow and cutting bell enabled Augusto to navigate Shogun's varied feels — using the bow for the album's more progressive, textured passages and the bell for the precise, metronomic sections that characterize songs like \"Kirisute Gomen.\"\n\nThe Byzance China above the floor tom served Shogun's heaviest moments: the aggressive, short-decay voice of a Byzance China lands with maximum impact on breakdown hits and riff-change accents. This China placement became a standard configuration for Augusto's subsequent Trivium work.",
-      "estimatedValue": "$1,800–2,400 total (2008 Byzance setup)"
+      "description": "Shogun documents Augusto's Sabian AAX setup — the same bright, cutting cymbal package he relied on throughout his Trivium tenure. The AAX series delivers the fast-responding, articulate character that complements Shogun's progressive arrangements.\n\nThe 14\" AAX Stage Hi-Hats provide a bright, cutting sound suited to Shogun's production — the album's dense, multi-layered arrangements benefit from cymbals that add clarity and articulation rather than getting buried in the mix.\n\nThe crash selection covers the dynamic range Shogun demands. The 18\" X-Plosion Crash responds fast enough for tight accent work in the album's aggressive sections, while the 19\" X-Plosion provides the full-body wash needed for the album's dramatic section endings. Together they cover the spectrum from precise riff punctuation to cinematic crash moments.\n\nThe 21\" AAX Stage Ride's combination of a clear bow and cutting bell enabled Augusto to navigate Shogun's varied feels — using the bow for the album's more progressive, textured passages and the bell for the precise, metronomic sections that characterize songs like \"Kirisute Gomen.\"\n\nThe AAXtreme China above the floor tom served Shogun's heaviest moments: the aggressive, short-decay voice of an AAXtreme China lands with maximum impact on breakdown hits and riff-change accents. This China placement remained a standard configuration for Augusto's subsequent Trivium work.",
+      "estimatedValue": "$1,800–2,400 total (2008 Sabian AAX setup)"
     },
     "pedals": {
-      "title": "DW 9000: Double-Bass for Progressive Metal",
-      "brand": "DW",
-      "model": "DW 9000 Series Double Bass Pedal",
-      "description": "The DW 9000 Series double bass pedal was the engine behind Shogun's demanding kick work. The 9000 Series is DW's flagship pedal — direct-drive with their Floating Rotor and Spring Rocker system that eliminates the mechanical noise and inconsistency that chain-drive pedals can introduce at high speeds.\n\nFor Shogun's title track alone, Augusto needed a pedal capable of sustaining extended double-kick patterns across an 11+ minute composition — varying in intensity from slow, deliberate pulse patterns in the progressive passages to full 180+ BPM blast-adjacent work in the album's aggressive sections. The 9000 Series direct drive delivered the responsiveness and endurance required.\n\nThe DW 9000's dual-chain drive option (which Augusto ran) provides power transfer with minimal play in the mechanism — critical when executing the precise, even 16th-note kick patterns that underpin tracks like \"Into the Mouth of Hell We March.\" The adjustable cam system allowed him to dial in the exact feel he needed for the different tempos across the album.\n\nSpring tension was set medium, balancing rebound speed for fast passages with enough weight to maintain feel in the slower, more deliberate double-kick patterns. The aluminum frame kept the pedal light enough for touring use while maintaining rigidity under sustained heavy use.",
+      "title": "Pearl Demon Drive: Double-Bass for Progressive Metal",
+      "brand": "Pearl",
+      "model": "Pearl Demon Drive Double Bass Pedal",
+      "description": "The Pearl Demon Drive double bass pedal was the engine behind Shogun's demanding kick work. The Demon Drive is a direct-drive pedal that eliminates the mechanical noise and inconsistency that chain-drive pedals can introduce at high speeds.\n\nFor Shogun's title track alone, Augusto needed a pedal capable of sustaining extended double-kick patterns across an 11+ minute composition — varying in intensity from slow, deliberate pulse patterns in the progressive passages to full 180+ BPM blast-adjacent work in the album's aggressive sections. The Demon Drive's direct-drive design delivered the responsiveness and endurance required.\n\nThe Demon Drive's direct-drive mechanism provides power transfer with minimal play — critical when executing the precise, even 16th-note kick patterns that underpin tracks like \"Into the Mouth of Hell We March.\" The pedal's adjustability allowed him to dial in the exact feel he needed for the different tempos across the album.\n\nSpring tension was set medium, balancing rebound speed for fast passages with enough weight to maintain feel in the slower, more deliberate double-kick patterns. The pedal frame kept the unit light enough for touring use while maintaining rigidity under sustained heavy use.",
       "keySpecs": [
-        "DW 9000 Series flagship double bass pedal",
+        "Pearl Demon Drive double bass pedal",
         "Direct-drive mechanism for noise-free response at high tempos",
-        "Dual-chain option for power transfer without stretch",
-        "Adjustable cam for feel tuning across varied tempos",
+        "Direct-drive power transfer without stretch",
+        "Adjustable feel tuning across varied tempos",
         "Medium spring tension balancing rebound and feel"
       ],
       "estimatedValue": "$380–450 (2008) / $220–280 (used today)"
@@ -396,7 +396,7 @@ export const articles = {
           "Snare precision through thrash riff passages",
           "Dynamic control between verse groove and chorus assault"
         ],
-        "gearNotes": "DW 9000 pedals handle the sustained speed. DW Edge snare crack cuts through even at max intensity."
+        "gearNotes": "Pearl Demon Drive pedal handles the sustained speed. Pearl Reference brass snare crack cuts through even at max intensity."
       },
       {
         "track": "Kirisute Gomen",
@@ -405,10 +405,10 @@ export const articles = {
         "highlights": [
           "Progressive thrash landmark — multiple tempo shifts",
           "Precise, metronomic double-kick underpins complex guitar lines",
-          "Byzance ride bell accents through the solo section",
+          "AAX Stage Ride bell accents through the solo section",
           "One of the most technically demanding Trivium tracks"
         ],
-        "gearNotes": "Byzance ride bell provides clear definition through dense guitar arrangements. DW kit's attack cuts through clean production."
+        "gearNotes": "AAX Stage Ride bell provides clear definition through dense guitar arrangements. Reference Pure kit's attack cuts through clean production."
       },
       {
         "track": "The Calamity",
@@ -421,7 +421,7 @@ export const articles = {
           "Augusto's most technically diverse performance on the album",
           "Dynamic range from near-silence to full blast intensity"
         ],
-        "gearNotes": "Five-tom kit array essential for melodic fills across the prog passages. Byzance cymbal complexity suits the jazz-influenced sections."
+        "gearNotes": "Five-tom kit array essential for melodic fills across the prog passages. Sabian AAX cymbal articulation suits the jazz-influenced sections."
       },
       {
         "track": "Shogun (title track)",
@@ -434,13 +434,13 @@ export const articles = {
           "Climactic final section is one of metal's great album closers",
           "Augusto holds the foundation through radical dynamic shifts"
         ],
-        "gearNotes": "The full DW Performance Series tom configuration gets maximum use. DW 9000 endurance tested across the extended runtime."
+        "gearNotes": "The full Pearl Reference Pure tom configuration gets maximum use. Pearl Demon Drive endurance tested across the extended runtime."
       }
     ],
     "faq": [
       {
         "question": "What drums did Nick Augusto use on Shogun?",
-        "answer": "On Trivium's Shogun (2008), Nick Augusto played a DW Performance Series kit in Natural Lacquer finish. The configuration featured a 22\" bass drum, three rack toms (10\", 12\", 14\"), and two floor toms (16\", 18\") — an expanded five-tom setup appropriate for Shogun's progressive, melodically demanding arrangements. The DW Performance Series uses the same North American maple construction as DW's flagship Collector's Series, giving the kit the attack and sustain characteristics required for Shogun's dense, dynamic production. For full drummer profile details, see [Nick Augusto at MetalForge](/drummer/nick-augusto)."
+        "answer": "On Trivium's Shogun (2008), Nick Augusto played a Pearl Reference Pure kit in a natural finish. The configuration featured a 22\" bass drum, three rack toms (10\", 12\", 14\"), and two floor toms (16\", 18\") — an expanded five-tom setup appropriate for Shogun's progressive, melodically demanding arrangements. The Pearl Reference Pure's maple/birch hybrid shells gave the kit the attack and sustain characteristics required for Shogun's dense, dynamic production. For full drummer profile details, see [Nick Augusto at MetalForge](/drummer/nick-augusto)."
       },
       {
         "question": "Is Shogun the hardest Trivium album to play on drums?",
@@ -491,7 +491,7 @@ export const articles = {
         {
           "@type": "Article",
           "headline": "Nick Augusto's Drum Setup on Trivium's Shogun (2008)",
-          "description": "Complete gear breakdown for Nick Augusto's drum setup on Trivium's Shogun (2008). DW Performance Series kit, Meinl Byzance cymbals, DW 9000 pedals, and techniques behind Trivium's magnum opus.",
+          "description": "Complete gear breakdown for Nick Augusto's drum setup on Trivium's Shogun (2008). Pearl Reference Pure kit, Sabian AAX cymbals, Pearl Demon Drive pedal, and techniques behind Trivium's magnum opus.",
           "author": {
             "@type": "Organization",
             "name": "MetalForge Editorial"
@@ -595,7 +595,7 @@ export const articles = {
               "name": "What drums did Nick Augusto use on Shogun?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "On Trivium's Shogun (2008), Nick Augusto played a DW Performance Series kit in Natural Lacquer finish. The configuration featured a 22\" bass drum, three rack toms (10\", 12\", 14\"), and two floor toms (16\", 18\") — an expanded five-tom setup appropriate for Shogun's progressive, melodically demanding arrangements. The DW Performance Series uses the same North American maple construction as DW's flagship Collector's Series."
+                "text": "On Trivium's Shogun (2008), Nick Augusto played a Pearl Reference Pure kit in a natural finish. The configuration featured a 22\" bass drum, three rack toms (10\", 12\", 14\"), and two floor toms (16\", 18\") — an expanded five-tom setup appropriate for Shogun's progressive, melodically demanding arrangements. The Pearl Reference Pure's maple/birch hybrid shells gave the kit its attack and sustain characteristics."
               }
             },
             {
@@ -627,8 +627,8 @@ export const articles = {
       ]
     },
     "conclusion": {
-      "title": "Shogun and the DW Era: Nick Augusto at His Technical Peak",
-      "content": "Shogun remains the defining document of Nick Augusto's career — the album where his technical vocabulary, gear configuration, and musical context aligned to produce something that has held up as a progressive metal landmark for nearly two decades.\n\nThe gear choices were deliberate and well-matched to the material:\n\n- **DW Performance Series**: Maple shells delivered the attack clarity Shogun's clean, orchestrated production required. The five-tom configuration (three rack, two floor) gave Augusto the melodic range for the album's sophisticated fills and progressive passages\n- **DW Edge 14×6.5\" Snare**: A power snare that projected through Shogun's dense arrangements — the 6.5\" depth provided body to complement the orchestrated production without sacrificing the crack needed for aggressive sections\n- **Meinl Byzance**: The dark, complex Byzance voice suited Shogun's lower-tuned guitars and multi-layered arrangements better than brighter cymbal lines would have — this was Trivium's first major Meinl pairing and it matched the album's sophistication\n- **DW 9000 Series**: The flagship direct-drive pedal enabled the sustained double-kick patterns across extended compositions — including 11+ minutes of the title track — without mechanical compromise\n\nAugusto left Trivium in 2014. His later work on \"In Waves\" and \"Vengeance Falls\" featured strong, tight performances in a more focused metalcore context. But Shogun is the record that shows what he could do when given compositional material that matched his full technical range.\n\nFor further exploration:\n- **Full drummer profile**: [Nick Augusto at MetalForge](/drummer/nick-augusto)\n- **In Waves / Vengeance Falls era**: [In Waves drum setup at MetalForge](/articles/in-waves-drum-setup)\n- **Thrash metal drumming context**: [Ashes of the Wake drum setup at MetalForge](/articles/ashes-of-the-wake-drum-setup)\n- **Genre overview**: [Thrash metal drummers at MetalForge](/genre/thrash-metal)"
+      "title": "Shogun and the Pearl/Sabian Rig: Nick Augusto at His Technical Peak",
+      "content": "Shogun remains the defining document of Nick Augusto's career — the album where his technical vocabulary, gear configuration, and musical context aligned to produce something that has held up as a progressive metal landmark for nearly two decades.\n\nThe gear choices were deliberate and well-matched to the material:\n\n- **Pearl Reference Pure**: Maple/birch hybrid shells delivered the attack clarity Shogun's clean, orchestrated production required. The five-tom configuration (three rack, two floor) gave Augusto the melodic range for the album's sophisticated fills and progressive passages\n- **Pearl Reference 14×6.5\" Brass Snare**: A power snare that projected through Shogun's dense arrangements — the 6.5\" depth provided body to complement the orchestrated production without sacrificing the crack needed for aggressive sections\n- **Sabian AAX**: The bright, cutting AAX voice suited Shogun's dense, multi-layered arrangements — the same setup Augusto relied on throughout his Trivium tenure\n- **Pearl Demon Drive**: The direct-drive pedal enabled the sustained double-kick patterns across extended compositions — including 11+ minutes of the title track — without mechanical compromise\n\nAugusto left Trivium in 2014. His later work on \"In Waves\" and \"Vengeance Falls\" featured strong, tight performances in a more focused metalcore context. But Shogun is the record that shows what he could do when given compositional material that matched his full technical range.\n\nFor further exploration:\n- **Full drummer profile**: [Nick Augusto at MetalForge](/drummer/nick-augusto)\n- **In Waves / Vengeance Falls era**: [In Waves drum setup at MetalForge](/articles/in-waves-drum-setup)\n- **Thrash metal drumming context**: [Ashes of the Wake drum setup at MetalForge](/articles/ashes-of-the-wake-drum-setup)\n- **Genre overview**: [Thrash metal drummers at MetalForge](/genre/thrash-metal)"
     }
   },
   "in-waves-drum-setup": {
@@ -649,7 +649,7 @@ export const articles = {
     "author": "MetalForge Editorial",
     "title": "In Waves Drum Setup: Nick Augusto's Breakthrough Kit (Trivium, 2011)",
     "metaTitle": "Trivium In Waves Drum Setup — Nick Augusto Kit & Gear Guide | MetalForge",
-    "description": "Complete gear breakdown for Nick Augusto's drum setup on Trivium's In Waves (2011) — the Tama Starclassic kit, Meinl cymbals, and Iron Cobra pedals behind Trivium's commercial breakthrough.",
+    "description": "Complete gear breakdown for Nick Augusto's drum setup on Trivium's In Waves (2011) — the Pearl Reference Pure kit, Sabian AAX cymbals, and Pearl Demon Drive pedal behind Trivium's commercial breakthrough.",
     "seoKeywords": [
       "trivium in waves drum setup",
       "nick augusto 2011 kit",
@@ -657,26 +657,26 @@ export const articles = {
       "nick augusto drum kit",
       "in waves drums",
       "trivium in waves gear",
-      "nick augusto tama starclassic",
+      "nick augusto pearl reference pure",
       "trivium drum gear 2011"
     ],
     "ogImage": "/images/albums/in-waves-drum-setup.webp",
     "intro": {
       "title": "The Album That Broke Trivium Wide Open",
-      "content": "Released on August 9, 2011 on Roadrunner Records, \"In Waves\" marked a deliberate pivot for Trivium — away from the sprawling, progressive ambition of \"Shogun\" (2008) and back toward direct, riff-forward songwriting. The gamble paid off commercially: the album debuted at #13 on the Billboard 200, Trivium's best chart placement to that point, and gave the band their first UK top-20 entry.\n\nNick Augusto, who had joined Trivium in 2007 and cut his teeth on Shogun's technically demanding material, approached In Waves with a different mandate. Where Shogun asked him to navigate 7/8 passages and 11-minute compositions, In Waves needed tight, aggressive, radio-ready drumming that still carried a thrash-metal edge. Tracks like \"In Waves,\" \"Built to Fall,\" and \"Watch the World Burn\" showcase a drummer compressing his technical range into shorter, harder-hitting statements.\n\nRecorded at Audiohammer Studios in Sanford, Florida with producers Jason Suecof and Mark Lewis, the sessions produced Trivium's heaviest-sounding record since \"The Crusade.\" Augusto's relentless double-bass work and punchy snare attack became the rhythmic backbone of the band's commercial breakthrough, setting up the even bigger chart success of \"Vengeance Falls\" two years later.\n\nThis article breaks down the specific gear Nick Augusto used on In Waves — his Tama Starclassic Performer B/B kit, Meinl cymbal setup, and the Tama Iron Cobra pedal driving the album's double-bass attack.",
+      "content": "Released on August 9, 2011 on Roadrunner Records, \"In Waves\" marked a deliberate pivot for Trivium — away from the sprawling, progressive ambition of \"Shogun\" (2008) and back toward direct, riff-forward songwriting. The gamble paid off commercially: the album debuted at #13 on the Billboard 200, Trivium's best chart placement to that point, and gave the band their first UK top-20 entry.\n\nNick Augusto, who had joined Trivium in 2007 and cut his teeth on Shogun's technically demanding material, approached In Waves with a different mandate. Where Shogun asked him to navigate 7/8 passages and 11-minute compositions, In Waves needed tight, aggressive, radio-ready drumming that still carried a thrash-metal edge. Tracks like \"In Waves,\" \"Built to Fall,\" and \"Watch the World Burn\" showcase a drummer compressing his technical range into shorter, harder-hitting statements.\n\nRecorded at Audiohammer Studios in Sanford, Florida with producers Jason Suecof and Mark Lewis, the sessions produced Trivium's heaviest-sounding record since \"The Crusade.\" Augusto's relentless double-bass work and punchy snare attack became the rhythmic backbone of the band's commercial breakthrough, setting up the even bigger chart success of \"Vengeance Falls\" two years later.\n\nThis article breaks down the specific gear Nick Augusto used on In Waves — his Pearl Reference Pure kit, Sabian AAX cymbal setup, and the Pearl Demon Drive pedal driving the album's double-bass attack.",
       "keyPoints": [
         "In Waves (2011) debuted at #13 on the Billboard 200 — Trivium's best chart result at the time",
         "First Trivium album to reach the UK Albums Chart top 20",
         "A direct pivot from Shogun's progressive sprawl back to tight, aggressive songwriting",
         "Recorded at Audiohammer Studios with producers Jason Suecof and Mark Lewis",
         "Bridges Shogun (2008) and Vengeance Falls (2013) in Augusto's four-album run with Trivium",
-        "Tama Starclassic Performer B/B kit with Meinl MB20/Classics Custom cymbals"
+        "Pearl Reference Pure kit with Sabian AAX cymbals"
       ]
     },
     "drumKit": {
-      "title": "Augusto's Tama Starclassic Performer B/B",
-      "brand": "Tama",
-      "model": "Tama Starclassic Performer B/B",
+      "title": "Augusto's Pearl Reference Pure",
+      "brand": "Pearl",
+      "model": "Pearl Reference Pure",
       "finish": "Custom finish",
       "config": {
         "bassdrums": [
@@ -690,83 +690,83 @@ export const articles = {
           "14\" x 14\" Floor Tom",
           "16\" x 16\" Floor Tom"
         ],
-        "shells": "Birch/bubinga hybrid shells — fast attack with controlled low-end resonance"
+        "shells": "Maple/birch hybrid shells — fast attack with controlled low-end resonance"
       },
-      "description": "For In Waves, Augusto scaled back from Shogun's expanded five-tom array to a compact four-piece configuration — a single 22\" kick, two rack toms, and two floor toms. The reduction reflects the album's songwriting: In Waves trades Shogun's melodic tom fills for tight, riff-doubling patterns that don't need the extra range a five-piece setup provides.\n\nThe birch/bubinga hybrid shell construction of the Starclassic Performer B/B was a deliberate change from the all-maple DW kit used on Shogun. Birch contributes a faster attack and more high-frequency clarity, while the bubinga layer keeps enough low-end warmth to project through the album's heavier, more compressed production. It's a kit built for punch rather than tonal complexity.\n\nOn the In Waves World Tour (2011–2012), Augusto occasionally expanded to a double-kick configuration for extended live double-bass passages, giving him low-end weight without the latency a double pedal can introduce at speed. The Starclassic's high-tension lugs kept shell vibration contained even at full touring volume.",
+      "description": "For In Waves, Augusto scaled back from Shogun's expanded five-tom array to a compact four-piece configuration — a single 22\" kick, two rack toms, and two floor toms. The reduction reflects the album's songwriting: In Waves trades Shogun's melodic tom fills for tight, riff-doubling patterns that don't need the extra range a five-piece setup provides.\n\nThe maple/birch hybrid shell construction of the Reference Pure delivered a fast attack with controlled low-end resonance. Birch contributes a faster attack and more high-frequency clarity, while the maple layer keeps enough low-end warmth to project through the album's heavier, more compressed production. It's a kit built for punch rather than tonal complexity.\n\nOn the In Waves World Tour (2011–2012), Augusto occasionally expanded to a double-kick configuration for extended live double-bass passages, giving him low-end weight without the latency a double pedal can introduce at speed. The Reference Pure's high-tension lugs kept shell vibration contained even at full touring volume.",
       "notes": [
         "Compact four-piece configuration — a deliberate scale-down from Shogun's five-tom setup",
-        "Birch/bubinga shells for fast attack with controlled low-end resonance",
+        "Maple/birch hybrid shells for fast attack with controlled low-end resonance",
         "Double-kick live configurations for extended double-bass touring passages",
         "Punchy, attack-forward tuning to cut through a heavier, more compressed mix"
       ],
       "estimatedValue": "$2,800–3,800 (2011) / $1,500–2,200 (used today)"
     },
     "snare": {
-      "title": "The In Waves Crack: Tama S.L.P. Steel",
-      "brand": "Tama",
-      "model": "Tama S.L.P. Steel Snare",
+      "title": "The In Waves Crack: Pearl Reference Brass",
+      "brand": "Pearl",
+      "model": "Pearl Reference 14\"x6.5\" Brass",
       "size": "14\" x 6.5\"",
-      "shell": "Steel",
-      "description": "The Tama S.L.P. steel snare at 14\" x 6.5\" is the sound of the In Waves backbeat — bright, immediate, and tuned to cut cleanly through Jason Suecof's dense, drop-tuned guitar mix. It's a shallower, brighter drum than the 6.5\" DW Edge steel snare Augusto used on Shogun, matched to the more direct, verse-chorus songwriting of In Waves rather than Shogun's more orchestrated, dynamic-heavy arrangements.\n\nTuned medium-high, the snare delivers clean rimshots on the album's aggressive sections while retaining enough body on the backbeat to avoid thinning out over a full set. That balance of crack and thud is central to the album's rhythmic identity on tracks like \"In Waves\" and \"Black.\"",
+      "shell": "Brass",
+      "description": "The Pearl Reference brass snare at 14\" x 6.5\" is the sound of the In Waves backbeat — bright, immediate, and tuned to cut cleanly through Jason Suecof's dense, drop-tuned guitar mix. It's the same 14\"x6.5\" brass configuration Augusto used on Shogun, matched here to the more direct, verse-chorus songwriting of In Waves rather than Shogun's more orchestrated, dynamic-heavy arrangements.\n\nTuned medium-high, the snare delivers clean rimshots on the album's aggressive sections while retaining enough body on the backbeat to avoid thinning out over a full set. That balance of crack and thud is central to the album's rhythmic identity on tracks like \"In Waves\" and \"Black.\"",
       "tuningSetting": "Medium-high — balanced crack and body for a direct, riff-forward backbeat",
       "heads": "Evans Genera Dry (batter), Evans 300 Snare Side (resonant)",
       "estimatedValue": "$180–240 (2011)"
     },
     "cymbals": {
-      "title": "Meinl: A Brighter, Tighter Voice",
-      "brand": "Meinl",
-      "series": "Meinl MB20 and Classics Custom Series",
+      "title": "Sabian AAX: A Bright, Cutting Voice",
+      "brand": "Sabian",
+      "series": "Sabian AAX Series",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Meinl Classics Custom 14\" Hi-Hats",
+          "model": "Sabian AAX 14\" Stage Hi-Hats",
           "position": "Left side",
           "notes": "Crisp, articulate chick for double-bass patterns and groove work"
         },
         {
           "type": "Crash",
-          "model": "Meinl MB20 17\" Heavy Crash",
+          "model": "Sabian AAX 18\" X-Plosion Crash",
           "position": "Left of hi-hats",
           "notes": "Fast attack, full-body crash for thrash riff accents"
         },
         {
           "type": "Crash",
-          "model": "Meinl MB20 19\" Heavy Crash",
+          "model": "Sabian AAX 19\" X-Plosion Crash",
           "position": "Right of toms",
           "notes": "Primary crash for song transitions and breakdown accents"
         },
         {
           "type": "Ride",
-          "model": "Meinl Classics Custom 20\" Ride",
+          "model": "Sabian AAX 21\" Stage Ride",
           "position": "Far right",
           "notes": "Clear bow articulation for verse grooves and controlled passages"
         },
         {
           "type": "China",
-          "model": "Meinl MB20 18\" China",
+          "model": "Sabian AAXtreme 18\" China",
           "position": "Above floor tom",
           "notes": "Aggressive accent cymbal for breakdown and bridge hits"
         }
       ],
-      "description": "In Waves marked Augusto's switch away from the dark, complex Meinl Byzance line used on Shogun to the brighter MB20 and Classics Custom series — a change that mirrors the album's overall shift from progressive texture to direct impact. The MB20 Heavy Crashes at 17\" and 19\" speak immediately on accent hits, cutting through the album's dense guitar saturation, while the Classics Custom 14\" hi-hats articulate cleanly at the fast 16th-note tempos the record's double-bass sections demand.\n\nThe 18\" MB20 China above the floor tom became the go-to effect cymbal for the band's breakdown entrances and riff-change hits — a short-decay, aggressive voice suited to In Waves' more direct song structures."
+      "description": "In Waves carried forward the same bright, cutting Sabian AAX setup Augusto used throughout his Trivium tenure — a voice well matched to the album's overall shift from progressive texture to direct impact. The AAX X-Plosion Crashes at 18\" and 19\" speak immediately on accent hits, cutting through the album's dense guitar saturation, while the AAX 14\" Stage Hi-Hats articulate cleanly at the fast 16th-note tempos the record's double-bass sections demand.\n\nThe 18\" AAXtreme China above the floor tom became the go-to effect cymbal for the band's breakdown entrances and riff-change hits — a short-decay, aggressive voice suited to In Waves' more direct song structures."
     },
     "pedals": {
-      "title": "Tama Iron Cobra 900: Driving the Attack",
-      "brand": "Tama",
-      "model": "Tama Iron Cobra 900 Double Bass Pedal",
-      "description": "The Tama Iron Cobra 900 powered Augusto's double-bass work throughout the In Waves sessions and tour cycle. He ran the Rolling Glide cam, which delivers a progressive, smooth pedal action that builds acceleration through the stroke — well suited to the album's sustained 16th-note kick patterns at consistent, driving tempos rather than Shogun's more variable, tempo-shifting passages.\n\nSpring tension was set medium-high for the studio sessions at Audiohammer, giving enough rebound for precise 16th-note work while staying controllable on the album's slower, groove-oriented sections. The pedal's dual-chain drive kept power transfer tight and consistent — important for a record built on relentless, steady double-bass rather than Shogun's more exploratory dynamics.",
+      "title": "Pearl Demon Drive: Driving the Attack",
+      "brand": "Pearl",
+      "model": "Pearl Demon Drive Double Pedal",
+      "description": "The Pearl Demon Drive powered Augusto's double-bass work throughout the In Waves sessions and tour cycle. He relied on its direct-drive response, which delivers a fast, consistent pedal action — well suited to the album's sustained 16th-note kick patterns at consistent, driving tempos rather than Shogun's more variable, tempo-shifting passages.\n\nSpring tension was set medium-high for the studio sessions at Audiohammer, giving enough rebound for precise 16th-note work while staying controllable on the album's slower, groove-oriented sections. The pedal's direct-drive mechanism kept power transfer tight and consistent — important for a record built on relentless, steady double-bass rather than Shogun's more exploratory dynamics.",
       "keySpecs": [
-        "Rolling Glide cam for smooth, progressive foot response",
+        "Direct-drive design for fast, consistent foot response",
         "Medium-high spring tension for sustained 16th-note precision",
-        "Dual-chain drive for consistent power transfer",
+        "Direct-drive mechanism for consistent power transfer",
         "Carried over into the Vengeance Falls touring cycle"
       ],
       "estimatedValue": "$280–340 (2011) / $180–220 (used today)"
     },
     "sticks": {
-      "brand": "Promark",
-      "model": "Promark 5B Hickory",
-      "description": "Promark 5B hickory sticks — a heavier profile than the 5A Vic Firth sticks Augusto used on Shogun, chosen for the extra mass In Waves' more direct, backbeat-driven material calls for. The 5B gives enough weight for powerful rimshots without the fatigue of a 2B across a 90-minute set."
+      "brand": "Vic Firth",
+      "model": "Vic Firth American Classic 5B",
+      "description": "Vic Firth American Classic 5B hickory sticks — a heavier profile than the 5A sticks Augusto used on Shogun, chosen for the extra mass In Waves' more direct, backbeat-driven material calls for. The 5B gives enough weight for powerful rimshots without the fatigue of a 2B across a 90-minute set."
     },
     "trackAnalysis": [
       {
@@ -778,7 +778,7 @@ export const articles = {
           "Driving double-bass under a hook-forward chorus",
           "Tight snare backbeat cuts through the dense guitar mix"
         ],
-        "gearNotes": "Tama S.L.P. steel snare provides the bright crack that defines the chorus hits."
+        "gearNotes": "Pearl Reference brass snare provides the bright crack that defines the chorus hits."
       },
       {
         "track": "Built to Fall",
@@ -789,7 +789,7 @@ export const articles = {
           "Restrained, groove-focused verse drumming contrasts with a heavier chorus",
           "Demonstrates Augusto's dynamic control within a compact song structure"
         ],
-        "gearNotes": "Meinl Classics Custom hi-hats and ride carry the verse groove cleanly."
+        "gearNotes": "Sabian AAX hi-hats and Stage Ride carry the verse groove cleanly."
       },
       {
         "track": "Watch the World Burn",
@@ -797,24 +797,24 @@ export const articles = {
         "signature": "4/4",
         "highlights": [
           "Fast, thrash-influenced verse riffs",
-          "Sustained double-bass patterns test the Iron Cobra's endurance",
-          "MB20 China accents punctuate the breakdown section"
+          "Sustained double-bass patterns test the Demon Drive's endurance",
+          "AAXtreme China accents punctuate the breakdown section"
         ],
-        "gearNotes": "Rolling Glide cam keeps the pedal response even through extended fast passages."
+        "gearNotes": "Pearl Demon Drive's direct-drive response stays even through extended fast passages."
       }
     ],
     "faq": [
       {
         "question": "What kit does Nick Augusto use on In Waves?",
-        "answer": "On Trivium's In Waves (2011), Nick Augusto played a Tama Starclassic Performer B/B kit with birch/bubinga hybrid shells, configured with a 22\" bass drum, two rack toms (10\" and 12\"), and two floor toms (14\" and 16\"). This was a scaled-down, four-piece version of the expanded five-tom kit he used on Shogun — a change that matched In Waves' tighter, more direct songwriting. He paired the kit with a Tama S.L.P. steel snare, Meinl MB20 and Classics Custom cymbals, and a Tama Iron Cobra 900 double bass pedal. For the complete drummer profile, see [Nick Augusto at MetalForge](/drummer/nick-augusto)."
+        "answer": "On Trivium's In Waves (2011), Nick Augusto played a Pearl Reference Pure kit with maple/birch hybrid shells, configured with a 22\" bass drum, two rack toms (10\" and 12\"), and two floor toms (14\" and 16\"). This was a scaled-down, four-piece version of the expanded five-tom kit he used on Shogun — a change that matched In Waves' tighter, more direct songwriting. He paired the kit with a Pearl Reference brass snare, Sabian AAX cymbals, and a Pearl Demon Drive double bass pedal. For the complete drummer profile, see [Nick Augusto at MetalForge](/drummer/nick-augusto)."
       },
       {
         "question": "How does In Waves compare to Shogun in terms of drumming?",
-        "answer": "In Waves (2011) is a deliberate pivot away from the progressive ambition of Shogun (2008). Where Shogun asked Augusto to navigate 7/8 and 11/8 passages, jazz-influenced sections, and an 11-minute title track across an expanded five-tom DW kit with dark Meinl Byzance cymbals, In Waves compresses his playing into tighter, riff-forward song structures on a leaner four-piece Tama Starclassic kit with brighter Meinl MB20/Classics Custom cymbals. The commercial result was a step forward — In Waves debuted at #13 on the Billboard 200 and gave Trivium their first UK top-20 placement, outperforming Shogun's chart run. For the full Shogun gear breakdown, see [Shogun Drum Setup at MetalForge](/articles/shogun-drum-setup)."
+        "answer": "In Waves (2011) is a deliberate pivot away from the progressive ambition of Shogun (2008). Where Shogun asked Augusto to navigate 7/8 and 11/8 passages, jazz-influenced sections, and an 11-minute title track across an expanded five-tom Pearl Reference Pure kit with Sabian AAX cymbals, In Waves compresses his playing into tighter, riff-forward song structures on the same Pearl Reference Pure kit scaled down to a leaner four-piece configuration, still paired with Sabian AAX cymbals. The commercial result was a step forward — In Waves debuted at #13 on the Billboard 200 and gave Trivium their first UK top-20 placement, outperforming Shogun's chart run. For the full Shogun gear breakdown, see [Shogun Drum Setup at MetalForge](/articles/shogun-drum-setup)."
       },
       {
         "question": "What is Nick Augusto's overall drum setup?",
-        "answer": "Nick Augusto's core setup across his Trivium tenure (2007–2014) centered on Tama drums, Meinl cymbals, and Promark sticks, with specific gear choices shifting between records. On Shogun (2008) he played an expanded DW Performance Series kit with Meinl Byzance cymbals; on In Waves (2011) he moved to a compact Tama Starclassic Performer B/B kit with brighter Meinl MB20/Classics Custom cymbals, a setup he carried into Vengeance Falls (2013). Across all three albums he relied on a Tama Iron Cobra double bass pedal running the Rolling Glide cam. For the full In Waves-through-Vengeance Falls gear breakdown, see [In Waves drum setup at MetalForge](/articles/in-waves-drum-setup)."
+        "answer": "Nick Augusto's core setup across his Trivium tenure (2007–2014) centered on Pearl drums, Sabian cymbals, and Vic Firth sticks. On Shogun (2008) he played an expanded five-tom Pearl Reference Pure kit with Sabian AAX cymbals; on In Waves (2011) he moved to a compact four-piece Pearl Reference Pure kit, still paired with Sabian AAX cymbals, a setup he carried into Vengeance Falls (2013). Across all three albums he relied on a Pearl Demon Drive double bass pedal. For the full In Waves-through-Vengeance Falls gear breakdown, see [In Waves drum setup at MetalForge](/articles/in-waves-drum-setup)."
       },
       {
         "question": "How did In Waves perform commercially for Trivium?",
@@ -857,7 +857,7 @@ export const articles = {
         {
           "@type": "Article",
           "headline": "In Waves Drum Setup: Nick Augusto's Breakthrough Kit (Trivium, 2011)",
-          "description": "Complete gear breakdown for Nick Augusto's drum setup on Trivium's In Waves (2011) — the Tama Starclassic kit, Meinl cymbals, and Iron Cobra pedals behind Trivium's commercial breakthrough.",
+          "description": "Complete gear breakdown for Nick Augusto's drum setup on Trivium's In Waves (2011) — the Pearl Reference Pure kit, Sabian AAX cymbals, and Pearl Demon Drive pedal behind Trivium's commercial breakthrough.",
           "author": {
             "@type": "Organization",
             "name": "MetalForge Editorial"
@@ -934,7 +934,7 @@ export const articles = {
               "name": "What kit does Nick Augusto use on In Waves?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "On Trivium's In Waves (2011), Nick Augusto played a Tama Starclassic Performer B/B kit with birch/bubinga hybrid shells, configured with a 22\" bass drum, two rack toms, and two floor toms, paired with a Tama S.L.P. steel snare, Meinl MB20/Classics Custom cymbals, and a Tama Iron Cobra 900 double bass pedal."
+                "text": "On Trivium's In Waves (2011), Nick Augusto played a Pearl Reference Pure kit with maple/birch hybrid shells, configured with a 22\" bass drum, two rack toms, and two floor toms, paired with a Pearl Reference brass snare, Sabian AAX cymbals, and a Pearl Demon Drive double bass pedal."
               }
             },
             {
@@ -942,7 +942,7 @@ export const articles = {
               "name": "How does In Waves compare to Shogun in terms of drumming?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "In Waves compresses Augusto's playing into tighter, riff-forward structures on a leaner four-piece Tama Starclassic kit with brighter Meinl MB20/Classics Custom cymbals, versus Shogun's expanded five-tom DW kit, dark Meinl Byzance cymbals, and progressive odd-time compositions. In Waves debuted at #13 on the Billboard 200, outperforming Shogun commercially."
+                "text": "In Waves compresses Augusto's playing into tighter, riff-forward structures on a leaner four-piece Pearl Reference Pure kit with Sabian AAX cymbals, versus Shogun's expanded five-tom Pearl Reference Pure kit, same Sabian AAX cymbals, and progressive odd-time compositions. In Waves debuted at #13 on the Billboard 200, outperforming Shogun commercially."
               }
             },
             {
@@ -950,7 +950,7 @@ export const articles = {
               "name": "What is Nick Augusto's overall drum setup?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Nick Augusto's core setup across his Trivium tenure centered on Tama drums, Meinl cymbals, and Promark sticks, shifting from an expanded DW kit with Meinl Byzance on Shogun (2008) to a compact Tama Starclassic kit with Meinl MB20/Classics Custom on In Waves (2011) and Vengeance Falls (2013), always driven by a Tama Iron Cobra double bass pedal."
+                "text": "Nick Augusto's core setup across his Trivium tenure centered on Pearl drums, Sabian cymbals, and Vic Firth sticks — an expanded five-tom Pearl Reference Pure kit with Sabian AAX cymbals on Shogun (2008), scaled down to a compact four-piece Pearl Reference Pure kit with the same Sabian AAX cymbals on In Waves (2011) and Vengeance Falls (2013), always driven by a Pearl Demon Drive double bass pedal."
               }
             }
           ]
@@ -959,7 +959,7 @@ export const articles = {
     },
     "conclusion": {
       "title": "In Waves: The Sound of Trivium's Breakthrough",
-      "content": "In Waves is the record where Nick Augusto's drumming shifted from technical showcase to commercial engine. The gear tells the story of that shift:\n\n- **Tama Starclassic Performer B/B**: A compact four-piece configuration trading Shogun's melodic tom range for tight, punchy attack\n- **Tama S.L.P. Steel Snare**: A brighter, shallower crack tuned for direct, riff-forward songwriting rather than orchestrated dynamics\n- **Meinl MB20 / Classics Custom Cymbals**: A brighter cymbal voice replacing Shogun's dark Byzance line, built for cutting through a heavier, more compressed mix\n- **Tama Iron Cobra 900**: The Rolling Glide cam driving sustained, steady double-bass rather than Shogun's variable, tempo-shifting passages\n\nThe result was Trivium's best chart performance to that point — a #13 Billboard 200 debut and the band's first UK top-20 entry — and set the stage for the even bigger commercial success of Vengeance Falls two years later.\n\nFor deeper exploration:\n- **Full drummer profile**: [Nick Augusto at MetalForge](/drummer/nick-augusto)\n- **Previous album**: [Shogun Drum Setup at MetalForge](/articles/shogun-drum-setup)\n- **Next album**: [Vengeance Falls Drum Setup at MetalForge](/articles/vengeance-falls-drum-setup)\n- **Genre overview**: [Thrash metal drummers at MetalForge](/genre/thrash-metal)"
+      "content": "In Waves is the record where Nick Augusto's drumming shifted from technical showcase to commercial engine. The gear tells the story of that shift:\n\n- **Pearl Reference Pure**: A compact four-piece configuration trading Shogun's melodic tom range for tight, punchy attack\n- **Pearl Reference 14\"x6.5\" Brass Snare**: A bright, cutting crack tuned for direct, riff-forward songwriting rather than orchestrated dynamics\n- **Sabian AAX Cymbals**: The same bright, cutting cymbal voice Augusto relied on throughout his Trivium tenure, built for cutting through a heavier, more compressed mix\n- **Pearl Demon Drive**: Its direct-drive response driving sustained, steady double-bass rather than Shogun's variable, tempo-shifting passages\n\nThe result was Trivium's best chart performance to that point — a #13 Billboard 200 debut and the band's first UK top-20 entry — and set the stage for the even bigger commercial success of Vengeance Falls two years later.\n\nFor deeper exploration:\n- **Full drummer profile**: [Nick Augusto at MetalForge](/drummer/nick-augusto)\n- **Previous album**: [Shogun Drum Setup at MetalForge](/articles/shogun-drum-setup)\n- **Next album**: [Vengeance Falls Drum Setup at MetalForge](/articles/vengeance-falls-drum-setup)\n- **Genre overview**: [Thrash metal drummers at MetalForge](/genre/thrash-metal)"
     }
   }
 };

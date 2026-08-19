@@ -34265,7 +34265,7 @@ Start with an 18" in whatever alloy fits your budget, and consider a second, sma
       title: "Why Thrash Metal Drummers Never Skip a China",
       content: `Thrash metal moves fast and hits hard, and a china cymbal is the tool that lets a drummer punctuate that speed without slowing down. Where a crash rings out cleanly across a bar, a china explodes and decays fast — perfect for slamming down at the end of a palm-muted riff, kicking off a gang-vocal breakdown, or accenting the transition into a double-time thrash section.
 
-Lars Ulrich has used a 20" Zildjian Z Custom China throughout Metallica's thrash-defining catalog, from the Black Album through 72 Seasons. Dave Lombardo's 18" Paiste China provides the brutal punctuation on Slayer's "Angel of Death," while his successor Paul Bostaph carries a Sabian AAXtreme China across his own extensive Slayer tenure. Charlie Benante's Paiste RUDE & 2002 setup with Anthrax has relied on an 18" China since the band's earliest thrash recordings, and Dirk Verbeuren's Zildjian K China rounds out the modern era with Megadeth.
+Lars Ulrich has used a 20" Zildjian Z Custom China throughout Metallica's thrash-defining catalog, from the Black Album through 72 Seasons. Dave Lombardo's 18" Paiste China provides the brutal punctuation on Slayer's "Angel of Death," while his successor Paul Bostaph carries a Sabian AAXtreme China across his own extensive Slayer tenure. Charlie Benante's Paiste RUDE & 2002 setup with Anthrax has relied on an 18" China since the band's earliest thrash recordings, and Dirk Verbeuren's 18" Meinl Byzance Brilliant China rounds out the modern era with Megadeth.
 
 This guide covers everything you need to pick the right china for thrash metal: size, alloy, and mounting, along with specific model recommendations across every budget for fast, riff-driven thrash metal drumming.`,
       keyPoints: [
@@ -34446,12 +34446,11 @@ Paul Bostaph carries a Sabian AAXtreme China across his extensive Slayer tenure,
           driveType: "B20 Bronze, Dark",
           description: `The K China trades a little brightness for a darker, more controlled trash, giving modern thrash metal drummers a china voice that stays defined at the genre's fastest tempos.
 
-Dirk Verbeuren's Zildjian K China rounds out his modern thrash setup with Megadeth, providing a darker, sharper punctuation mark than the brighter A Custom or Z Custom alternatives.`,
+Its dark, complex character pairs well with a K Custom crash/ride setup, providing a sharper punctuation mark than the brighter A Custom or Z Custom alternatives.`,
           pros: [
             "Dark, controlled trash with sharp definition",
             "Stays readable at thrash metal's fastest tempos",
-            "Pairs cleanly with K Custom crash/ride setups",
-            "Proven on Megadeth's modern thrash material"
+            "Pairs cleanly with K Custom crash/ride setups"
           ],
           cons: [
             "Darker voice less aggressive than brighter alternatives",
@@ -34465,9 +34464,7 @@ Dirk Verbeuren's Zildjian K China rounds out his modern thrash setup with Megade
             weight: "Medium",
             mounting: "Standard or Inverted"
           },
-          usedBy: [
-            { name: "Dirk Verbeuren", band: "Megadeth", note: "Sharp, controlled punctuation for modern thrash" }
-          ],
+          usedBy: [],
           verdict: "Best for modern thrash metal drummers who want sharp definition over raw aggression.",
           rating: 4.5,
           affiliateLink: "https://www.thomann.de/intl/zildjian_k_china_18.htm?partner_id=metalforge"
@@ -34612,7 +34609,7 @@ Dirk Verbeuren's Zildjian K China rounds out his modern thrash setup with Megade
       { slug: 'dave-lombardo', name: 'Dave Lombardo', reason: 'Iconic Angel of Death china punctuation' },
       { slug: 'charlie-benante', name: 'Charlie Benante', reason: 'Paiste RUDE & 2002 China since Anthrax\'s earliest recordings' },
       { slug: 'paul-bostaph', name: 'Paul Bostaph', reason: 'Sabian AAXtreme China across an extensive Slayer tenure' },
-      { slug: 'dirk-verbeuren', name: 'Dirk Verbeuren', reason: 'Zildjian K China for Megadeth\'s modern thrash' }
+      { slug: 'dirk-verbeuren', name: 'Dirk Verbeuren', reason: 'Meinl Byzance Brilliant China for Megadeth\'s modern thrash' }
     ],
     relatedComparisons: [],
 

@@ -5,7 +5,42 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-08-19 06:40 UTC*
 
 ---
-## 2026-08-19 06:40 — Pre-deep-run pulse: 8 fresh albumArticles gear-fabrication proposals promoted
+## 2026-08-19 12:45 — Deep run: 4 fresh albumArticles gear-fabrication proposals promoted (John Otto, Joey Jordison, Mario Duplantier, Lars Ulrich)
+
+### Context (≤3 lines)
+First run after 07:00 UTC (06:40 was pre-threshold, treated as cheap pulse). Metrics 12:42 UTC (222 users/283 sessions/508 views 7d; GSC 5,234 impr/108 clicks/2.06% CTR/pos 10.3 — no content-gap rows). Eligible `ai-fix` backlog 0 (all 20 open `ai-fix` are `hold`-labeled roster/band-addition splits, correctly frozen by the 2026-07-28 new-page freeze), 0 open PRs, 4 fresh untriaged `seo-proposal` (#5818-5821, filed 07:33-07:36 UTC) plus the 3 standing L1/L2/L3 umbrellas.
+
+### Actions taken
+- **Promoted all 4** (`ai-fix`), same systemic albumArticles.js-vs-verified-source-of-truth gear-brand-fabrication class as the last several days' merges (#5828 Garstka, #5830 Luzier, #5832 Reinert, #5833 Bostaph, all now merged per git log). Live-verified each against the cited lines before promoting:
+  - **#5818** John Otto — grep confirmed `albumArticles/john-otto.js:337-339` states "Sonor"/"Sonor Force 3007" for the 1999 Significant Other era; `extendedBios.js:5149` confirms OCDP+Zildjian is the verified rig. Also touches `gearPriceHistory.js` (same fabrication, flagged for same-PR fix).
+  - **#5819** Joey Jordison — grep confirmed `albumArticles/joey-jordison.js:1224+` states Zildjian Z Custom cymbals for the "All Hope Is Gone" (2008) entry while the same file's `whats-in-joey-jordisons-kit` entry (line 1712) says "Paiste RUDE Series (expanded setup)" for the identical era — same-file internal contradiction, external sources (C&C Custom Drums, cymbal.wiki) confirm Paiste.
+  - **#5820** Mario Duplantier — grep confirmed `albumArticles/mario-duplantier.js:2354` ("Mapex") and `:2393` ("Paiste") vs verified Tama/Zildjian (`extendedBios.js`, `api/drummers/index.js` kitOverview, both externally corroborated via tama.com/zildjian.com artist pages). 4 of the file's 9 album entries affected.
+  - **#5821** Lars Ulrich — grep confirmed `albumArticles/lars-ulrich.js:2093-2096` states "DW"/"DW Collector's Series Maple (Custom)" for St. Anger (2003), contradicting the same file's own Death Magnetic/72 Seasons entries (both correctly "Tama Starclassic Maple", line 342/544) and every other source-of-truth file. External sources (uberproaudio, Bob Rock/Consequence.net, DRUM! Magazine) corroborate Tama throughout.
+  - No duplicates found — searched all 4 slugs against open+closed `ai-fix`/`seo-proposal` issues; every prior closed issue for these drummers touched a different file/field (gearHighlights, kitOverview, comparison pages, etc.), never this specific `albumArticles.js` brand-fabrication vein. All single- or dual-file, verified-only (2+ corroborating sources each), freeze-compliant (zero new pages/URLs).
+- **Backlog gate**: 0 → 4, well under the 45 threshold; promoted liberally per rule.
+- **Human-founder**: new issue **#5834** (Buy Me a Coffee account) — filed directly by Ricardo himself (author `ricardoparro`), fully self-contained (blocked on Ricardo creating the account + commenting the URL; complete technical spec already attached for the follow-up `ai-fix`). No CEO action needed until he comments. Standing blockers #5141/#5100/#4892/#875/#529/#526/#525 — all `updatedAt` unchanged. No re-spam.
+- **GSC content-gap**: metrics.md table empty this run. No action.
+- **L1/L2/L3** (#3810/#3819/#2211): snapshot files still the 2026-08-17 generation (checked the `**Generated:**` timestamp inside each, not just file mtime — file mtimes read 08-19 12:41 from a checkout artifact, not a fresh run). Same 1 big-loss / 5 big-wins / 0 disappeared (GSC) and 0 actionable rows (indexation) already fully triaged in the 08-18 01:07 catch-up and 08-19 06:40 entries. Next weekly refresh not yet landed. Nothing fresh to action.
+- **Founder ideas**: inbox empty, unchanged since 06-19.
+- **Stale-issue / atomic-split sweep**: same 20 pre-existing `ai-fix` issues open >3 days (#5093-5108 splits, #4980/#4981 re-splits, #4756 phase 3b) — re-confirmed all still `hold`-labeled, freeze-blocked, none eligible.
+- **Starvation check**: post-triage backlog=4, bank=0 (excl. umbrellas) — technically meets the trigger, but SEO Agent has produced 8/8/8/4 proposals on 08-16/08-17/08-18/08-19-so-far respectively — well on-quota and the same transient-low-right-after-promotion shape already judged non-escalating on 08-18 06:40. Not escalating; will treat as a 2nd occurrence only if the *next* run also shows backlog<15 with a starved (not just freshly-drained) proposal supply.
+
+### State delta
+- ai-fix backlog: 0 → 4 (#5818-5821)
+- seo-proposal bank (excl. umbrellas): 4 → 0
+- Org/Sessions/Views (7d): 222/283/508 · GSC 5,234 impr/108 clicks/2.06% CTR/pos 10.3 (roughly flat WoW)
+- New human-founder: #5834 (founder-authored, self-blocking)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 4/4 fresh triaged, live-verified, promoted, no duplicates, freeze-compliant. ✅ GSC-gap: none this run. ✅ L1/L2/L3: no fresh snapshot since 08-17, already actioned. ✅ Starvation: technically met but judged transient (healthy SEO Agent cadence), not escalated. ✅ Atomic split: 20 stale issues re-checked, all `hold`-labeled (freeze-blocked), none eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #5818-5821 ship via Roadie/PR Merger; #5818 and gearPriceHistory.js dual-file scope is worth a closer look at the merged PR.
+2. Watch for Ricardo to comment on #5834 with the Buy Me a Coffee URL — that unblocks a fast, low-risk `ai-fix` follow-up (StickyCTA.js, spec already written).
+3. Mid-day pulse due ~13:00 UTC — check Roadie progress on #5818-5821.
+4. If backlog is still <15 with an actually-starved (not just freshly-drained) proposal bank at the next deep/pulse run, that's occurrence #2 — proceed to the starvation playbook's step 1 (check SEO Agent output rate).
+
+---
 
 ### Context (≤3 lines)
 Metrics refreshed 06:40 UTC (before today's 07:00 deep-run threshold, so treated as a cheap pulse). Backlog was 0 eligible ai-fix / 0 open PRs; 8 fresh `seo-proposal` issues (#5802-5809) filed ~02:2x UTC, all under 5h old — same albumArticles-vs-extendedBios gear-brand-drift class documented in `learned-patterns.md` (2026-08-17 "new vein confirmed" entry). Founder-ideas inbox still empty since 06-19. No GSC content-gap rows this week.

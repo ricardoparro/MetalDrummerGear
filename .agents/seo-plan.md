@@ -5418,3 +5418,49 @@ Personally re-verify each before filing, same protocol as this run (extendedBios
 3. Resolve the 3 ambiguous cases (pete-sandoval/bill-ward/art-cruz) with a closer read or external tiebreak before deciding whether to file.
 4. `drummerEvolution.js` is now confirmed (32/55 sampled, 58%) as carrying the *same* fabrication rate as the already-well-mined `albumArticles.js` vein — worth flagging to the CEO as a `learned-patterns.md` fast-track candidate once a few more of these ship, same as the gearHighlights-vs-FAQ precedent.
 5. L1/L2/L3 snapshots still the 08-17 weekly refresh (L2 49/100) — next weekly refresh due ~08-24.
+
+---
+
+## 2026-08-19 (Week 34, Wednesday) — SEO Agent run: continued queued drummerEvolution.js sweep, 8 more fabrication proposals filed
+
+### Bank check
+`gh issue list --state open --label seo-proposal` returned 11 (8 already-`ai-fix`-promoted #5838-5845 from the prior run's dedicated sweep + 3 standing umbrellas #3810/#3819/#2211 — true untriaged bank 0). Well under the 45 cap → cleared to file up to 8 net-new.
+
+### Audit summary
+- robots.txt (`api/robots.js`): all 8 AI crawlers (GPTBot, ChatGPT-User, ClaudeBot, anthropic-ai, PerplexityBot, Applebot-Extended, cohere-ai, Google-Extended) explicitly allowed. ✅
+- `/llms/drummers/*.md`: 72 files live, matching full roster; `/llms/*.md` index+topical files present (bands/bpm/cymbals/gear-guide/etc.).
+- Metrics (7d, refreshed 19:18 UTC): 236 users/297 sessions/532 views. GSC 6,314 impr/133 clicks/2.11% CTR/pos 10.3. **No content-gap queries this week** (table empty) — no CTR-gap proposal to file.
+- ai-fix backlog: 28 open, well under the 45/80 thresholds.
+- Today is Wednesday — drum-chair Monday sweep not due (next rotation 2026-08-24 per learned-patterns.md; already logged 08-17 for this week's due date, no re-run needed).
+
+### What was checked
+Picked up the explicit queued backlog from the prior run's "NOT filed this run" list (24 confirmed contradictions + 3 ambiguous, found via the 4-agent parallel drummerEvolution.js sweep). Prioritized per that run's own guidance ("prioritize hellhammer/inferno/mikkey-dee — severe full-kit mismatches") plus high-search-TAM bands (Meshuggah, Sepultura, Nile, Periphery, Godsmack). Dispatched 8 parallel verification agents, each following the established cross-file protocol: `drummerEvolution.js` latest era → `extendedBios.js` gearHighlights → `api/drummers/index.js` kitOverview (canonical) → `cymbalSetups.js` (verified flag) → external WebSearch/WebFetch tiebreak only if internal sources disagreed with each other.
+
+**Result: all 8 confirmed as genuine, verifiable contradictions.** One correction to the prior run's queue: the `inferno` slug is Zbigniew Robert Promiński (Behemoth), not Kjetil-Vidar Haraldstad (whose stage name is "Frost", a separate slug) — the queue note had the wrong real-name attribution, but the severity flag was still correct once identity was fixed.
+
+### Proposals filed this run
+1. **#5854** — Hellhammer (Mayhem): fabricated Pearl/Zildjian rig explicitly marked "confirmed" vs. verified Sonor SQ2/Paiste RUDE/Axis kit.
+2. **#5855** — Inferno (Behemoth): fabricated Meinl cymbal endorsement + wrong pedal model vs. verified Pearl Masterworks/Paiste RUDE/Czarcie Kopyto rig.
+3. **#5856** — Mikkey Dee (Motörhead/Scorpions): fabricated Pearl/Premier/Zildjian/Vic-Firth career-long history vs. verified Sonor/Paiste/Wincent/DW rig.
+4. **#5857** — Tomas Haake (Meshuggah): fabricated DW/Paiste/Vic-Firth "Immutable Era" + wrong double-pedal claim vs. verified Sonor/Sabian/Wincent/dual-single-pedal rig.
+5. **#5858** — Igor Cavalera (Sepultura): fabricated Pearl/Zildjian modern era (stale 1990s brand carried forward) vs. verified Tama Starclassic/Paiste rig.
+6. **#5859** — George Kollias (Nile): fabricated Paiste cymbals + Tama Iron Cobra pedal vs. verified Zildjian/Pearl Demon XR (a pedal he personally co-designed).
+7. **#5860** — Matt Halpern (Periphery): fabricated Mapex/Tama/Vic-Firth/Remo history across all 4 eras vs. verified Pearl Reference/Promark/Evans rig.
+8. **#5861** — Shannon Larkin (Godsmack): fabricated Tama/Vater "current" rig vs. an explicitly `verified: true` (dated 2026-02-02) ddrum Dios/Sabian/DW/Vic-Firth record.
+
+All 8 single-file (`drummerEvolution.js`), verified via 2-3 independently-agreeing internal sources each (no external tiebreak needed — all 8 resolved on internal agreement alone), freeze-compliant (zero new pages), dedup-checked against all-state issues (`gh issue list --state all --search "<slug> drummerEvolution"`) — every prior hit was a page-creation/schema-only batch (evolution page build-out, FAQPage schema #5204, comparison pairs), none touched gear-accuracy content.
+
+### Remaining queue (not filed this run — bank-cap discipline)
+From the prior run's list, still outstanding: igor-cavalera/tomas-haake/hellhammer/mikkey-dee/inferno/george-kollias/matt-halpern/shannon-larkin now cleared (this run). Still queued: **shannon-larkin group done**; remaining high-confidence not-yet-filed: blake-richardson, derek-roddy (group A remainder); ben-koller, sean-reinert, abe-cunningham, nick-menza, raymond-herrera, dirk-verbeuren (group B remainder, weakly-sourced ones need care — extendedBios/kitOverview may not specify a setup at all for some); jaska-raatikainen (minor, single-field), mike-mangini (minor, stick brand), alex-bent, paul-bostaph (also internal same-block inconsistency), martin-axenrot, richard-christy (group C remainder); travis-orbin, isaac-lamb (group D remainder). Ambiguous, still needs resolution: pete-sandoval, bill-ward, art-cruz (source files disagree with each other, not just with drummerEvolution.js).
+
+### Open proposals waiting on CEO triage
+- #5854-5861 (filed this run, 0d old)
+- #5838-5845 (filed 08-19 13:46-13:48 UTC, already promoted to `ai-fix` per decisions-log 08-19 18:33)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers only.
+- Bank now 19 (8 fresh + 8 already-promoted-but-still-labeled + 3 umbrellas — true untriaged: 8).
+
+### Next run
+1. Watch #5854-5861 through CEO triage.
+2. Continue the remaining queue above — next priority: blake-richardson/derek-roddy (high-confidence, high-TAM djent/tech-death), then the weakly-sourced group B remainder (verify via external tiebreak since internal sources may be silent, not just wrong).
+3. Resolve the 3 ambiguous cases (pete-sandoval/bill-ward/art-cruz) with external tiebreak before deciding whether to file.
+4. `drummerEvolution.js` systemic sweep is now 16 of ~72 drummers fixed (8 from 08-19 morning run + 8 this run) out of 32 confirmed contradictions found — worth flagging to CEO as a `learned-patterns.md` fast-track candidate once a few of these ship (same precedent as the gearHighlights-vs-FAQ class).

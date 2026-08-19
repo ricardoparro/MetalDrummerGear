@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-19 18:32 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-19 19:18 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,17 +8,17 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 234 |
-| Sessions | 295 |
-| Page views | 528 |
-| Engagement rate | 53.56% |
+| Active users | 236 |
+| Sessions | 297 |
+| Page views | 532 |
+| Engagement rate | 53.20% |
 | Avg session (s) | 207 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| /drummers | 59 | 7 |
-| / | 48 | 35 |
+| /drummers | 61 | 8 |
+| / | 49 | 35 |
 | /articles/obsolete-drum-setup | 23 | 1 |
 | /gear | 13 | 4 |
 | /drummer/mario-duplantier | 12 | 10 |
@@ -31,9 +31,9 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 219 | 161 |
-| Direct | 60 | 57 |
-| Unassigned | 21 | 21 |
+| Organic Search | 220 | 162 |
+| Direct | 61 | 57 |
+| Unassigned | 23 | 23 |
 | Cross-network | 5 | 5 |
 | AI Assistant | 1 | 1 |
 
@@ -42,7 +42,7 @@
 | --- | --- | --- |
 | United States | 121 | 90 |
 | Germany | 17 | 14 |
-| France | 13 | 7 |
+| France | 14 | 8 |
 | United Kingdom | 12 | 11 |
 | Canada | 11 | 8 |
 | Brazil | 9 | 7 |

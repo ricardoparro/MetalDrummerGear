@@ -1,6 +1,6 @@
 # The Paradigm Shift Drum Setup: Ray Luzier's 2013 Korn Gear Breakdown
 
-> Ray Luzier's drum setup on Korn's The Paradigm Shift (2013) — the Head reunion album. Pearl Reference Maple drums, Pearl Reference Brass snare, Sabian AAX cymbals, and Pearl Demon Drive pedals. Full gear breakdown including 'Never Never' and 'Love & Meth'.
+> Ray Luzier's drum setup on Korn's The Paradigm Shift (2013) — the Head reunion album. Pearl Reference Maple drums, Pearl Reference Brass snare, Sabian AAX cymbals, and a DW 9002D double bass pedal. Full gear breakdown including 'Never Never' and 'Love & Meth'.
 
 **Type:** Album Drum Setup
 **Drummer(s):** [Ray Luzier](/llms/drummers/ray-luzier.md)
@@ -15,14 +15,14 @@ But for Ray Luzier, the album represented something equally significant: the ful
 
 The album debuted at #8 on the US Billboard 200, with lead single 'Never Never' reaching beyond the traditional Korn fanbase into pop-rock radio territory. 'Love & Meth' and 'Prey for Me' anchored the heavier end of the record. Across all of it, Luzier's drumming provided the groove-locked foundation that the new Korn — with both Munky and Head on seven-string guitars — needed to keep its rhythmic center under the expanded guitar voicings.
 
-For *The Paradigm Shift*, Luzier had transitioned from his DW setup (used on *Korn III* and *Path of Totality*) to Pearl — a shift that aligned with his growing endorsement relationship with Pearl Drums. His Pearl Reference Maple kit, Pearl Reference Brass snare, Sabian AAX cymbals, and Pearl Demon Drive double pedal represent the beginning of the current Luzier rig's core identity.
+For *The Paradigm Shift*, Luzier had transitioned his drums and cymbals from his DW/Paiste setup (used on *Korn III* and *Path of Totality*) to Pearl and Sabian — a shift that aligned with his growing endorsement relationships with Pearl Drums and Sabian. His Pearl Reference Maple kit, Pearl Reference Brass snare, and Sabian AAX cymbals represent the beginning of the current Luzier rig's core identity, while his DW 9002D double pedal carried over unchanged from the Korn III era.
 
 ## Gear Breakdown
 
 - **Drums:** Pearl Pearl Reference Maple (Custom finish (Korn touring configuration) finish)
 - **Snare:** Pearl Pearl Reference 14" × 6.5" Brass, 14" × 6.5"
 - **Cymbals:** Sabian — Sabian AAX Series
-- **Hardware / Pedals:** Pearl Demon Drive Double Bass Pedal; Promark Ray Luzier Signature TX420X; Pearl D-2000 Roadster Throne; Evans EC2 Coated; Evans EMAD2
+- **Hardware / Pedals:** DW 9000 Series Double Bass Pedal; Vic Firth Ray Luzier Signature; Pearl D-2000 Roadster Throne; Evans EC2 Coated; Evans EMAD2
 - **Heads:** Remo Coated Emperor (batter), Remo Hazy Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium to medium-high tension for bright attack and projection in polished production
 
@@ -30,7 +30,7 @@ For *The Paradigm Shift*, Luzier had transitioned from his DW setup (used on *Ko
 
 For *The Paradigm Shift*, Ray Luzier had transitioned from his earlier DW Collector's Series setup to Pearl's Reference Maple line — the shift that began his longstanding Pearl endorsement relationship that continues today. The Pearl Reference Maple represents Pearl's premium shell construction: a proprietary multi-species laminate that combines maple's natural brightness and attack with enhanced resonance characteristics from the layered shell design.
 
-The Pearl Reference line is engineered for professional touring durability and recording consistency — exactly the demands Korn places on a drum kit. The double 22" bass drum configuration generates the authoritative low-end presence that Korn's groove-centered music requires, with the double-kick setup driven by Luzier's Pearl Demon Drive pedals rather than the DW 9002 he had used on earlier Korn records.
+The Pearl Reference line is engineered for professional touring durability and recording consistency — exactly the demands Korn places on a drum kit. The double 22" bass drum configuration generates the authoritative low-end presence that Korn's groove-centered music requires, with the double-kick setup still driven by the same DW 9002D pedal Luzier had used since Korn III — unchanged even as the shells and cymbals moved to Pearl and Sabian.
 
 The multi-species laminate construction delivers a more complex tonal character than pure maple shells — brighter than mahogany-heavy shells, with additional warmth compared to birch. This tonal balance suited Don Gilmore's production approach on *The Paradigm Shift*, which emphasized clarity and definition over raw aggression. Gilmore's production is notably cleaner and more open than Ross Robinson's dense *Korn III* approach, and the Pearl Reference Maple's balanced voicing sat well in Gilmore's mix without requiring heavy drum treatment.
 
@@ -59,7 +59,7 @@ With both Head and Munky contributing guitar layers on the record, the cymbal se
 - Brian 'Head' Welch's return to Korn after a 9-year absence — the album's defining narrative
 - Debuted at #8 US Billboard 200 — strong commercial performance for the reunion record
 - Produced by Don Gilmore (Linkin Park's Hybrid Theory) — polished, radio-ready production
-- Ray Luzier transitions from DW to Pearl — Reference Maple kit and Demon Drive pedals
+- Ray Luzier transitions his drums and cymbals from DW/Paiste to Pearl/Sabian — Reference Maple kit and AAX cymbals — while his DW pedal carries over unchanged
 - First Korn album to feature both Munky and Head on guitar since Issues (2000)
 - Lead single 'Never Never' — Korn's most accessible pop-rock crossover track of the era
 - Pearl Reference Maple — transition from DW to Pearl, beginning of current endorsement era
@@ -86,7 +86,7 @@ A: Ray Luzier used Sabian AAX cymbals on The Paradigm Shift (2013). His setup in
 
 **Q: What bass drum pedals did Ray Luzier use on The Paradigm Shift?**
 
-A: Ray Luzier used the Pearl Demon Drive double bass pedal on The Paradigm Shift (2013). This was a significant change from the DW 9002 chain-drive pedal he had used on earlier Korn recordings. The Demon Drive uses a direct-drive design — the footboard connects directly to the beater shaft with no chain or belt mechanism — providing immediate, 1:1 footboard-to-beater response. For Korn's groove-oriented double-kick patterns, the Demon Drive's direct feel and consistency were a better match than the slight latency inherent in chain-drive mechanisms.
+A: Ray Luzier used the DW 9002D direct-drive double bass pedal on The Paradigm Shift (2013) — the same pedal platform he'd switched to for Korn III (2010), carried over unchanged even as his drums and cymbals moved to Pearl and Sabian. The 9002D uses a direct-drive design — the footboard connects directly to the beater shaft with no chain or belt mechanism — providing immediate, 1:1 footboard-to-beater response. For Korn's groove-oriented double-kick patterns, the pedal's direct feel and consistency remained a strong match for the band's rhythmic demands.
 
 **Q: Who produced Korn's The Paradigm Shift?**
 
@@ -96,4 +96,4 @@ A: The Paradigm Shift (2013) was produced by Don Gilmore, best known for produci
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-08-19 · Source: [MetalForge.io](https://metalforge.io)*

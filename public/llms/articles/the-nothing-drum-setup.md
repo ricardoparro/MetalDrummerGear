@@ -1,6 +1,6 @@
 # The Nothing Drum Setup: Ray Luzier's 2019 Korn Gear Breakdown
 
-> Ray Luzier's drum setup on Korn's The Nothing (2019) — the band's rawest, most personal album, written in the wake of Jonathan Davis's grief. Pearl Reference Maple drums, Pearl Reference Brass snare, Sabian AAX cymbals, Pearl Demon Drive pedals. Full gear breakdown including 'You'll Never Find Me' and 'Finally Free.'
+> Ray Luzier's drum setup on Korn's The Nothing (2019) — the band's rawest, most personal album, written in the wake of Jonathan Davis's grief. Pearl Reference Maple drums, Pearl Reference Brass snare, Sabian AAX cymbals, DW 9002D pedal. Full gear breakdown including 'You'll Never Find Me' and 'Finally Free.'
 
 **Type:** Album Drum Setup
 **Drummer(s):** [Ray Luzier](/llms/drummers/ray-luzier.md)
@@ -15,14 +15,14 @@ Nick Raskulinecz — the producer who had steered *The Serenity of Suffering* (2
 
 For Ray Luzier, *The Nothing* sits directly between two of his most acclaimed studio performances with the band — *The Serenity of Suffering* and *Requiem* — and closes the arc between them. His drumming across the record has to do something specific: hold a controlled, physical foundation under some of the rawest vocal performances Davis has ever recorded, without ever overplaying a moment that calls for restraint. 'Finally Free' — which addresses Davis's grief most directly — demands a drummer who can build tension and then get out of the way; 'You'll Never Find Me' and 'Cold' call for the propulsive, groove-locked double-kick work that has defined Luzier's decade-plus in the band.
 
-Luzier's gear for *The Nothing* sessions continued the Pearl platform he'd established since *The Paradigm Shift* (2013): Pearl Reference Maple kit, Pearl Reference Brass snare, Sabian AAX cymbals, and the Pearl Demon Drive double pedal — the same rig, deployed here in service of Korn's most emotionally demanding record.
+Luzier's gear for *The Nothing* sessions continued the Pearl/Sabian platform he'd established since *The Paradigm Shift* (2013): Pearl Reference Maple kit, Pearl Reference Brass snare, Sabian AAX cymbals, and his long-running DW 9002D double pedal — the same rig, deployed here in service of Korn's most emotionally demanding record.
 
 ## Gear Breakdown
 
 - **Drums:** Pearl Pearl Reference Maple (Custom finish (Korn touring/studio configuration) finish)
 - **Snare:** Pearl Pearl Reference 14" × 6.5" Brass, 14" × 6.5"
 - **Cymbals:** Sabian — Sabian AAX Series
-- **Hardware / Pedals:** Pearl Demon Drive Double Bass Pedal; Promark Ray Luzier Signature TX420X; Pearl D-2000 Roadster Throne; Evans EC2 Coated; Evans EMAD2
+- **Hardware / Pedals:** DW 9000 Series Double Bass Pedal; Vic Firth Ray Luzier Signature; Pearl D-2000 Roadster Throne; Evans EC2 Coated; Evans EMAD2
 - **Heads:** Remo Coated Emperor (batter), Remo Hazy Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium to medium-high tension — bright attack with enough natural sustain to support the album's exposed, dynamically varied mix
 
@@ -66,7 +66,7 @@ Where the setup's deployment changed was in restraint. The AAXtreme China — us
 
 **Q: What kit did Ray Luzier use on The Nothing?**
 
-A: Ray Luzier used his Pearl Reference Maple drum kit on Korn's The Nothing (2019), continuing the Pearl platform he'd used since The Paradigm Shift (2013) and The Serenity of Suffering (2016). The configuration included double 22" bass drums with a Pearl Demon Drive pedal, a five-tom spread, and a Pearl Reference 14" × 6.5" Brass snare. His cymbals were Sabian AAX, including 14" Stage Hi-Hats, 18" and 19" X-Plosion Crashes, a 21" Stage Ride, and an 18" AAXtreme China.
+A: Ray Luzier used his Pearl Reference Maple drum kit on Korn's The Nothing (2019), continuing the Pearl platform he'd used since The Paradigm Shift (2013) and The Serenity of Suffering (2016). The configuration included double 22" bass drums with a DW 9002D pedal, a five-tom spread, and a Pearl Reference 14" × 6.5" Brass snare. His cymbals were Sabian AAX, including 14" Stage Hi-Hats, 18" and 19" X-Plosion Crashes, a 21" Stage Ride, and an 18" AAXtreme China.
 
 **Q: Who played drums on Korn's The Nothing?**
 
@@ -88,4 +88,4 @@ A: The Nothing (2019) was produced by Nick Raskulinecz, returning after producin
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-08-19 · Source: [MetalForge.io](https://metalforge.io)*

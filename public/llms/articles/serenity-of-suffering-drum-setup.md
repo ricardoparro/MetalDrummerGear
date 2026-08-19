@@ -1,6 +1,6 @@
 # Serenity of Suffering Drum Setup: Ray Luzier's 2016 Korn Gear Breakdown
 
-> Ray Luzier's drum setup on Korn's The Serenity of Suffering (2016). Pearl Reference Maple drums, Pearl Reference Brass snare, Sabian AAX cymbals, Pearl Demon Drive pedals. Includes the Grammy-nominated 'Take Me' featuring Corey Taylor of Slipknot.
+> Ray Luzier's drum setup on Korn's The Serenity of Suffering (2016). Pearl Reference Maple drums, Pearl Reference Brass snare, Sabian AAX cymbals, DW 9002D pedal. Includes the Grammy-nominated 'Take Me' featuring Corey Taylor of Slipknot.
 
 **Type:** Album Drum Setup
 **Drummer(s):** [Ray Luzier](/llms/drummers/ray-luzier.md)
@@ -15,14 +15,14 @@ The album's defining cultural moment is 'Take Me' — a duet between Jonathan Da
 
 For Ray Luzier, *The Serenity of Suffering* is arguably his most confident and impactful studio performance in the Korn catalog. Raskulinecz's production philosophy — which emphasizes live performance energy, natural drum tones, and room ambience — called on exactly the physicality and precision that Luzier had built over a decade in the band. The album's heavy, mid-tempo groove architecture, exemplified by 'Rotting in Vain' and 'Black Is the Soul,' is built entirely on the Luzier/Fieldy rhythm lock.
 
-Luzier's gear on *The Serenity of Suffering* continued the Pearl platform established during *The Paradigm Shift* era: Pearl Reference Maple kit, Pearl Reference Brass snare, Sabian AAX cymbals, and Pearl Demon Drive double pedal. In Raskulinecz's more aggressive production environment, these instruments were driven harder — delivering the raw, physical drum sound that the album's dark, heavy identity demanded.
+Luzier's gear on *The Serenity of Suffering* continued the Pearl/Sabian platform established during *The Paradigm Shift* era: Pearl Reference Maple kit, Pearl Reference Brass snare, Sabian AAX cymbals, and his long-running DW 9002D double pedal. In Raskulinecz's more aggressive production environment, these instruments were driven harder — delivering the raw, physical drum sound that the album's dark, heavy identity demanded.
 
 ## Gear Breakdown
 
 - **Drums:** Pearl Pearl Reference Maple (Custom finish (Korn touring configuration) finish)
 - **Snare:** Pearl Pearl Reference 14" × 6.5" Brass, 14" × 6.5"
 - **Cymbals:** Sabian — Sabian AAX Series
-- **Hardware / Pedals:** Pearl Demon Drive Double Bass Pedal; Promark Ray Luzier Signature TX420X; Pearl D-2000 Roadster Throne; Evans EC2 Coated; Evans EMAD2
+- **Hardware / Pedals:** DW 9000 Series Double Bass Pedal; Vic Firth Ray Luzier Signature; Pearl D-2000 Roadster Throne; Evans EC2 Coated; Evans EMAD2
 - **Heads:** Remo Coated Emperor (batter), Remo Hazy Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium to medium-high tension — bright attack and projection in Raskulinecz's natural production environment
 
@@ -78,7 +78,7 @@ A: Corey Taylor of Slipknot appears on 'Take Me' from Korn's The Serenity of Suf
 
 **Q: What drums did Ray Luzier use on The Serenity of Suffering?**
 
-A: Ray Luzier used a Pearl Reference Maple drum kit on The Serenity of Suffering (2016), continuing the Pearl platform he had adopted for The Paradigm Shift (2013). The Pearl Reference Maple uses a multi-species laminate shell construction, configured with double 22" bass drums and a five-tom spread. His snare was a Pearl Reference 14" × 6.5" Brass. His cymbals were Sabian AAX, and his double pedal was the Pearl Demon Drive — the direct-drive setup that defines his current Pearl-endorsed rig.
+A: Ray Luzier used a Pearl Reference Maple drum kit on The Serenity of Suffering (2016), continuing the Pearl platform he had adopted for The Paradigm Shift (2013). The Pearl Reference Maple uses a multi-species laminate shell construction, configured with double 22" bass drums and a five-tom spread. His snare was a Pearl Reference 14" × 6.5" Brass. His cymbals were Sabian AAX, and his double pedal was the DW 9002D — the direct-drive pedal he's used since his Korn III debut.
 
 **Q: Was 'Take Me' by Korn nominated for a Grammy?**
 
@@ -90,10 +90,10 @@ A: The Serenity of Suffering (2016) was produced by Nick Raskulinecz, a producer
 
 **Q: What did Ray Luzier record in 2016?**
 
-A: Ray Luzier recorded The Serenity of Suffering with Korn in 2016 — the band's twelfth studio album, produced by Nick Raskulinecz and released October 21, 2016 on Roadrunner Records. The album included 'Rotting in Vain' (lead single), 'Take Me' featuring Corey Taylor (Grammy-nominated for Best Rock Song), and 'Black Is the Soul.' Luzier's gear for the sessions included Pearl Reference Maple drums, Pearl Reference Brass snare, Sabian AAX cymbals, and Pearl Demon Drive double pedal.
+A: Ray Luzier recorded The Serenity of Suffering with Korn in 2016 — the band's twelfth studio album, produced by Nick Raskulinecz and released October 21, 2016 on Roadrunner Records. The album included 'Rotting in Vain' (lead single), 'Take Me' featuring Corey Taylor (Grammy-nominated for Best Rock Song), and 'Black Is the Soul.' Luzier's gear for the sessions included Pearl Reference Maple drums, Pearl Reference Brass snare, Sabian AAX cymbals, and his DW 9002D double pedal.
 
 **Source:** https://metalforge.io/articles/serenity-of-suffering-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-08-19 · Source: [MetalForge.io](https://metalforge.io)*

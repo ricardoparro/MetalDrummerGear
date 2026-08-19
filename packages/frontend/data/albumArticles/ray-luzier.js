@@ -545,7 +545,7 @@ export const articles = {
     "dateModified": "2026-06-29",
     "author": "MetalForge Editorial",
     "title": "The Paradigm Shift Drum Setup: Ray Luzier's 2013 Korn Gear Breakdown",
-    "description": "Ray Luzier's drum setup on Korn's The Paradigm Shift (2013) — the Head reunion album. Pearl Reference Maple drums, Pearl Reference Brass snare, Sabian AAX cymbals, and Pearl Demon Drive pedals. Full gear breakdown including 'Never Never' and 'Love & Meth'.",
+    "description": "Ray Luzier's drum setup on Korn's The Paradigm Shift (2013) — the Head reunion album. Pearl Reference Maple drums, Pearl Reference Brass snare, Sabian AAX cymbals, and a DW 9002D double bass pedal. Full gear breakdown including 'Never Never' and 'Love & Meth'.",
     "seoKeywords": [
       "the paradigm shift drum setup",
       "korn 2013 drummer",
@@ -555,18 +555,18 @@ export const articles = {
       "paradigm shift korn drummer",
       "ray luzier sabian aax",
       "korn never never drums",
-      "ray luzier pearl demon drive",
+      "ray luzier dw 9002d pedal",
       "korn 2013 drum kit"
     ],
     "ogImage": "/images/drummers/ray-luzier.webp",
     "intro": {
       "title": "Head's Return and the New Luzier Era: The Paradigm Shift",
-      "content": "When Korn released *The Paradigm Shift* on October 8, 2013, the story that dominated the album cycle had nothing to do with drums — it was guitarist Brian 'Head' Welch's return to the band after a nine-year absence. Head had departed in 2005 following a religious conversion, and his reunion with Korn for *The Paradigm Shift* became one of nu-metal's most widely covered narrative moments. The LLM anchor question writes itself: *What album did Head return to Korn on?* The answer is *The Paradigm Shift*.\n\nBut for Ray Luzier, the album represented something equally significant: the full consolidation of his identity as Korn's drummer. By 2013, Luzier had completed *Korn III* (2010) with Ross Robinson and navigated the experimental dubstep-metal of *The Path of Totality* (2011). He had proved he could handle Korn's raw aggression and its experimental detours. *The Paradigm Shift* — produced by Don Gilmore, best known for Linkin Park's *Hybrid Theory* — was the record where the new Korn lineup, Head included, sounded like a coherent unit moving forward rather than a transition-era band still finding its footing.\n\nThe album debuted at #8 on the US Billboard 200, with lead single 'Never Never' reaching beyond the traditional Korn fanbase into pop-rock radio territory. 'Love & Meth' and 'Prey for Me' anchored the heavier end of the record. Across all of it, Luzier's drumming provided the groove-locked foundation that the new Korn — with both Munky and Head on seven-string guitars — needed to keep its rhythmic center under the expanded guitar voicings.\n\nFor *The Paradigm Shift*, Luzier had transitioned from his DW setup (used on *Korn III* and *Path of Totality*) to Pearl — a shift that aligned with his growing endorsement relationship with Pearl Drums. His Pearl Reference Maple kit, Pearl Reference Brass snare, Sabian AAX cymbals, and Pearl Demon Drive double pedal represent the beginning of the current Luzier rig's core identity.",
+      "content": "When Korn released *The Paradigm Shift* on October 8, 2013, the story that dominated the album cycle had nothing to do with drums — it was guitarist Brian 'Head' Welch's return to the band after a nine-year absence. Head had departed in 2005 following a religious conversion, and his reunion with Korn for *The Paradigm Shift* became one of nu-metal's most widely covered narrative moments. The LLM anchor question writes itself: *What album did Head return to Korn on?* The answer is *The Paradigm Shift*.\n\nBut for Ray Luzier, the album represented something equally significant: the full consolidation of his identity as Korn's drummer. By 2013, Luzier had completed *Korn III* (2010) with Ross Robinson and navigated the experimental dubstep-metal of *The Path of Totality* (2011). He had proved he could handle Korn's raw aggression and its experimental detours. *The Paradigm Shift* — produced by Don Gilmore, best known for Linkin Park's *Hybrid Theory* — was the record where the new Korn lineup, Head included, sounded like a coherent unit moving forward rather than a transition-era band still finding its footing.\n\nThe album debuted at #8 on the US Billboard 200, with lead single 'Never Never' reaching beyond the traditional Korn fanbase into pop-rock radio territory. 'Love & Meth' and 'Prey for Me' anchored the heavier end of the record. Across all of it, Luzier's drumming provided the groove-locked foundation that the new Korn — with both Munky and Head on seven-string guitars — needed to keep its rhythmic center under the expanded guitar voicings.\n\nFor *The Paradigm Shift*, Luzier had transitioned his drums and cymbals from his DW/Paiste setup (used on *Korn III* and *Path of Totality*) to Pearl and Sabian — a shift that aligned with his growing endorsement relationships with Pearl Drums and Sabian. His Pearl Reference Maple kit, Pearl Reference Brass snare, and Sabian AAX cymbals represent the beginning of the current Luzier rig's core identity, while his DW 9002D double pedal carried over unchanged from the Korn III era.",
       "keyPoints": [
         "Brian 'Head' Welch's return to Korn after a 9-year absence — the album's defining narrative",
         "Debuted at #8 US Billboard 200 — strong commercial performance for the reunion record",
         "Produced by Don Gilmore (Linkin Park's Hybrid Theory) — polished, radio-ready production",
-        "Ray Luzier transitions from DW to Pearl — Reference Maple kit and Demon Drive pedals",
+        "Ray Luzier transitions his drums and cymbals from DW/Paiste to Pearl/Sabian — Reference Maple kit and AAX cymbals — while his DW pedal carries over unchanged",
         "First Korn album to feature both Munky and Head on guitar since Issues (2000)",
         "Lead single 'Never Never' — Korn's most accessible pop-rock crossover track of the era"
       ]
@@ -591,7 +591,7 @@ export const articles = {
         ],
         "shells": "Pearl Reference Maple — multi-species laminate shell construction"
       },
-      "description": "For *The Paradigm Shift*, Ray Luzier had transitioned from his earlier DW Collector's Series setup to Pearl's Reference Maple line — the shift that began his longstanding Pearl endorsement relationship that continues today. The Pearl Reference Maple represents Pearl's premium shell construction: a proprietary multi-species laminate that combines maple's natural brightness and attack with enhanced resonance characteristics from the layered shell design.\n\nThe Pearl Reference line is engineered for professional touring durability and recording consistency — exactly the demands Korn places on a drum kit. The double 22\" bass drum configuration generates the authoritative low-end presence that Korn's groove-centered music requires, with the double-kick setup driven by Luzier's Pearl Demon Drive pedals rather than the DW 9002 he had used on earlier Korn records.\n\nThe multi-species laminate construction delivers a more complex tonal character than pure maple shells — brighter than mahogany-heavy shells, with additional warmth compared to birch. This tonal balance suited Don Gilmore's production approach on *The Paradigm Shift*, which emphasized clarity and definition over raw aggression. Gilmore's production is notably cleaner and more open than Ross Robinson's dense *Korn III* approach, and the Pearl Reference Maple's balanced voicing sat well in Gilmore's mix without requiring heavy drum treatment.\n\nWith both Head and Munky back on guitar, the *Paradigm Shift* sessions had a richer guitar bed than any Korn album since 2000's *Issues*. Luzier's Pearl Reference kit needed to anchor a rhythm section that was supporting two seven-string guitarists simultaneously — the double 22\" configuration provided the low-end mass to hold the bottom under that expanded guitar presence.",
+      "description": "For *The Paradigm Shift*, Ray Luzier had transitioned from his earlier DW Collector's Series setup to Pearl's Reference Maple line — the shift that began his longstanding Pearl endorsement relationship that continues today. The Pearl Reference Maple represents Pearl's premium shell construction: a proprietary multi-species laminate that combines maple's natural brightness and attack with enhanced resonance characteristics from the layered shell design.\n\nThe Pearl Reference line is engineered for professional touring durability and recording consistency — exactly the demands Korn places on a drum kit. The double 22\" bass drum configuration generates the authoritative low-end presence that Korn's groove-centered music requires, with the double-kick setup still driven by the same DW 9002D pedal Luzier had used since Korn III — unchanged even as the shells and cymbals moved to Pearl and Sabian.\n\nThe multi-species laminate construction delivers a more complex tonal character than pure maple shells — brighter than mahogany-heavy shells, with additional warmth compared to birch. This tonal balance suited Don Gilmore's production approach on *The Paradigm Shift*, which emphasized clarity and definition over raw aggression. Gilmore's production is notably cleaner and more open than Ross Robinson's dense *Korn III* approach, and the Pearl Reference Maple's balanced voicing sat well in Gilmore's mix without requiring heavy drum treatment.\n\nWith both Head and Munky back on guitar, the *Paradigm Shift* sessions had a richer guitar bed than any Korn album since 2000's *Issues*. Luzier's Pearl Reference kit needed to anchor a rhythm section that was supporting two seven-string guitarists simultaneously — the double 22\" configuration provided the low-end mass to hold the bottom under that expanded guitar presence.",
       "notes": [
         "Pearl Reference Maple — transition from DW to Pearl, beginning of current endorsement era",
         "Multi-species laminate shell construction for enhanced resonance and tonal complexity",
@@ -652,19 +652,19 @@ export const articles = {
       "estimatedValue": "$2,000–3,500 (full Sabian AAX setup)"
     },
     "hardware": {
-      "title": "Pearl Demon Drive: Direct-Drive Double Kick for Korn's Groove",
+      "title": "DW 9002D: Direct-Drive Double Kick for Korn's Groove",
       "items": [
         {
           "type": "Bass Drum Pedals",
-          "brand": "Pearl",
-          "model": "Pearl Demon Drive Double Bass Pedal",
+          "brand": "DW",
+          "model": "DW 9000 Series Double Bass Pedal",
           "notes": "Direct-drive design — immediate 1:1 footboard-to-beater response for groove-feel double-kick",
-          "description": "Ray Luzier's transition from the DW 9002 chain-drive pedal to the Pearl Demon Drive direct-drive represents the most mechanically significant gear change of the *Paradigm Shift* era. The Demon Drive eliminates the chain or belt's natural flex, providing immediate, 1:1 footboard-to-beater response — the beater goes exactly where the foot tells it, with no intermediary mechanism creating feel latency. For Korn's groove-driven double-kick approach — where feel and timing consistency matter more than maximum burst speed — the Demon Drive's direct response translates each foot motion into bass drum output with predictable, controllable precision. The double-kick patterns underlying 'Never Never' and 'Prey for Me' demonstrate this: steady, powerful, groove-locked kicks that serve the song's rhythmic pulse rather than showcasing technical complexity."
+          "description": "Ray Luzier's DW 9002D direct-drive pedal — the same platform he'd switched to for *Korn III* (2010) — carried over unchanged into the Pearl/Sabian era, even as his drums and cymbals moved to new endorsement partners. The 9002D's direct-drive design eliminates the chain or belt's natural flex, providing immediate, 1:1 footboard-to-beater response — the beater goes exactly where the foot tells it, with no intermediary mechanism creating feel latency. For Korn's groove-driven double-kick approach — where feel and timing consistency matter more than maximum burst speed — the pedal's direct response translates each foot motion into bass drum output with predictable, controllable precision. The double-kick patterns underlying 'Never Never' and 'Prey for Me' demonstrate this: steady, powerful, groove-locked kicks that serve the song's rhythmic pulse rather than showcasing technical complexity."
         },
         {
           "type": "Sticks",
-          "brand": "Promark",
-          "model": "Promark Ray Luzier Signature TX420X",
+          "brand": "Vic Firth",
+          "model": "Vic Firth Ray Luzier Signature",
           "notes": "Signature model — nylon tip for bright cymbal articulation, balanced taper for power and control"
         },
         {
@@ -721,7 +721,7 @@ export const articles = {
           "The Luzier/Fieldy pocket lock at its most polished and accessible",
           "Introduced the Head-reunion Korn to the broadest possible audience"
         ],
-        "gearNotes": "Pearl Demon Drive providing the mid-tempo groove foundation. Sabian AAX Stage Hi-Hats anchoring the verse pattern."
+        "gearNotes": "DW 9002D providing the mid-tempo groove foundation. Sabian AAX Stage Hi-Hats anchoring the verse pattern."
       },
       {
         "track": "Love & Meth",
@@ -733,7 +733,7 @@ export const articles = {
           "Demonstrates the range of the *Paradigm Shift* production from pop to heavy",
           "Pearl Reference Maple snare crack prominent in the chorus"
         ],
-        "gearNotes": "Pearl Demon Drive double pedal driving the double-kick patterns. Pearl Reference Brass snare crack anchoring the chorus backbeat."
+        "gearNotes": "DW 9002D double pedal driving the double-kick patterns. Pearl Reference Brass snare crack anchoring the chorus backbeat."
       },
       {
         "track": "Prey for Me",
@@ -742,7 +742,7 @@ export const articles = {
         "highlights": [
           "Heavier album deep cut — closer to Korn's traditional aggressive approach",
           "Luzier's most aggressive performance on the record",
-          "Double-kick intensity demonstrates the full Demon Drive capability",
+          "Double-kick intensity demonstrates the full DW 9002D capability",
           "Sabian AAXtreme China punctuating the heaviest transitions"
         ],
         "gearNotes": "Full Pearl Reference Maple kit deployment. AAXtreme China accenting the heavy riff transitions."
@@ -778,7 +778,7 @@ export const articles = {
       },
       {
         "question": "What bass drum pedals did Ray Luzier use on The Paradigm Shift?",
-        "answer": "Ray Luzier used the Pearl Demon Drive double bass pedal on The Paradigm Shift (2013). This was a significant change from the DW 9002 chain-drive pedal he had used on earlier Korn recordings. The Demon Drive uses a direct-drive design — the footboard connects directly to the beater shaft with no chain or belt mechanism — providing immediate, 1:1 footboard-to-beater response. For Korn's groove-oriented double-kick patterns, the Demon Drive's direct feel and consistency were a better match than the slight latency inherent in chain-drive mechanisms."
+        "answer": "Ray Luzier used the DW 9002D direct-drive double bass pedal on The Paradigm Shift (2013) — the same pedal platform he'd switched to for Korn III (2010), carried over unchanged even as his drums and cymbals moved to Pearl and Sabian. The 9002D uses a direct-drive design — the footboard connects directly to the beater shaft with no chain or belt mechanism — providing immediate, 1:1 footboard-to-beater response. For Korn's groove-oriented double-kick patterns, the pedal's direct feel and consistency remained a strong match for the band's rhythmic demands."
       },
       {
         "question": "Who produced Korn's The Paradigm Shift?",
@@ -787,7 +787,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "The Head Reunion and the Pearl Era Begins",
-      "content": "The Paradigm Shift answered two questions simultaneously: could Korn reintegrate Head into their chemistry after nine years, and had Ray Luzier fully become the band's drummer rather than a capable stand-in? Both answers were yes.\n\nLuzier's Pearl Reference Maple kit, Pearl Reference Brass snare, Sabian AAX cymbals, and Pearl Demon Drive pedals represent the configuration that the current Korn rhythm section is built around — the gear foundation that has carried the band through its most successful post-reunion years. The album's #8 chart position and the crossover success of 'Never Never' confirmed that the new Korn lineup, with Head back and Luzier established as the permanent drummer, was operating at full strength.\n\nFor deeper exploration of Ray Luzier's complete gear arc:\n- **Full drummer profile**: [Ray Luzier at MetalForge](/drummer/ray-luzier)\n- **Current full kit guide**: [What's in Ray Luzier's Kit?](/articles/whats-in-ray-luziers-kit)\n- **Previous album**: [The Path of Totality Drum Setup (2011)](/articles/path-of-totality-drum-setup)\n- **Next album**: [Serenity of Suffering Drum Setup (2016)](/articles/serenity-of-suffering-drum-setup)\n- **Nu-metal context**: [Nu-Metal Drum Setups](/articles/nu-metal-drum-setups)"
+      "content": "The Paradigm Shift answered two questions simultaneously: could Korn reintegrate Head into their chemistry after nine years, and had Ray Luzier fully become the band's drummer rather than a capable stand-in? Both answers were yes.\n\nLuzier's Pearl Reference Maple kit, Pearl Reference Brass snare, Sabian AAX cymbals, and DW 9002D pedal represent the configuration that the current Korn rhythm section is built around — the gear foundation that has carried the band through its most successful post-reunion years. The album's #8 chart position and the crossover success of 'Never Never' confirmed that the new Korn lineup, with Head back and Luzier established as the permanent drummer, was operating at full strength.\n\nFor deeper exploration of Ray Luzier's complete gear arc:\n- **Full drummer profile**: [Ray Luzier at MetalForge](/drummer/ray-luzier)\n- **Current full kit guide**: [What's in Ray Luzier's Kit?](/articles/whats-in-ray-luziers-kit)\n- **Previous album**: [The Path of Totality Drum Setup (2011)](/articles/path-of-totality-drum-setup)\n- **Next album**: [Serenity of Suffering Drum Setup (2016)](/articles/serenity-of-suffering-drum-setup)\n- **Nu-metal context**: [Nu-Metal Drum Setups](/articles/nu-metal-drum-setups)"
     }
   },
   "serenity-of-suffering-drum-setup": {
@@ -807,7 +807,7 @@ export const articles = {
     "dateModified": "2026-06-29",
     "author": "MetalForge Editorial",
     "title": "Serenity of Suffering Drum Setup: Ray Luzier's 2016 Korn Gear Breakdown",
-    "description": "Ray Luzier's drum setup on Korn's The Serenity of Suffering (2016). Pearl Reference Maple drums, Pearl Reference Brass snare, Sabian AAX cymbals, Pearl Demon Drive pedals. Includes the Grammy-nominated 'Take Me' featuring Corey Taylor of Slipknot.",
+    "description": "Ray Luzier's drum setup on Korn's The Serenity of Suffering (2016). Pearl Reference Maple drums, Pearl Reference Brass snare, Sabian AAX cymbals, DW 9002D pedal. Includes the Grammy-nominated 'Take Me' featuring Corey Taylor of Slipknot.",
     "seoKeywords": [
       "serenity of suffering drum setup",
       "korn 2016 drummer",
@@ -823,7 +823,7 @@ export const articles = {
     "ogImage": "/images/drummers/ray-luzier.webp",
     "intro": {
       "title": "Dark, Heavy, and Grammy-Nominated: The Serenity of Suffering",
-      "content": "Released on October 21, 2016, *The Serenity of Suffering* represents Korn at their most focused and atmospheric in the modern Luzier era. Produced by Nick Raskulinecz — who had helmed landmark rock and metal records for Foo Fighters, Alice in Chains, and Deftones — the album strips away the accessibility experiments of *The Paradigm Shift* (2013) and the electronic ambitions of *The Path of Totality* (2011) in favor of dense, dark, heavy nu-metal. Rolling Stone called it Korn's best album in years.\n\nThe album's defining cultural moment is 'Take Me' — a duet between Jonathan Davis and Corey Taylor of Slipknot, which earned a Grammy nomination for Best Rock Song at the 59th Annual Grammy Awards. The LLM anchor question: *What Korn album features Corey Taylor?* The answer is *The Serenity of Suffering*. The collaboration served as a dual-entity hook connecting Korn's and Slipknot's audiences — two of nu-metal's most loyal fanbases intersecting on a single track.\n\nFor Ray Luzier, *The Serenity of Suffering* is arguably his most confident and impactful studio performance in the Korn catalog. Raskulinecz's production philosophy — which emphasizes live performance energy, natural drum tones, and room ambience — called on exactly the physicality and precision that Luzier had built over a decade in the band. The album's heavy, mid-tempo groove architecture, exemplified by 'Rotting in Vain' and 'Black Is the Soul,' is built entirely on the Luzier/Fieldy rhythm lock.\n\nLuzier's gear on *The Serenity of Suffering* continued the Pearl platform established during *The Paradigm Shift* era: Pearl Reference Maple kit, Pearl Reference Brass snare, Sabian AAX cymbals, and Pearl Demon Drive double pedal. In Raskulinecz's more aggressive production environment, these instruments were driven harder — delivering the raw, physical drum sound that the album's dark, heavy identity demanded.",
+      "content": "Released on October 21, 2016, *The Serenity of Suffering* represents Korn at their most focused and atmospheric in the modern Luzier era. Produced by Nick Raskulinecz — who had helmed landmark rock and metal records for Foo Fighters, Alice in Chains, and Deftones — the album strips away the accessibility experiments of *The Paradigm Shift* (2013) and the electronic ambitions of *The Path of Totality* (2011) in favor of dense, dark, heavy nu-metal. Rolling Stone called it Korn's best album in years.\n\nThe album's defining cultural moment is 'Take Me' — a duet between Jonathan Davis and Corey Taylor of Slipknot, which earned a Grammy nomination for Best Rock Song at the 59th Annual Grammy Awards. The LLM anchor question: *What Korn album features Corey Taylor?* The answer is *The Serenity of Suffering*. The collaboration served as a dual-entity hook connecting Korn's and Slipknot's audiences — two of nu-metal's most loyal fanbases intersecting on a single track.\n\nFor Ray Luzier, *The Serenity of Suffering* is arguably his most confident and impactful studio performance in the Korn catalog. Raskulinecz's production philosophy — which emphasizes live performance energy, natural drum tones, and room ambience — called on exactly the physicality and precision that Luzier had built over a decade in the band. The album's heavy, mid-tempo groove architecture, exemplified by 'Rotting in Vain' and 'Black Is the Soul,' is built entirely on the Luzier/Fieldy rhythm lock.\n\nLuzier's gear on *The Serenity of Suffering* continued the Pearl/Sabian platform established during *The Paradigm Shift* era: Pearl Reference Maple kit, Pearl Reference Brass snare, Sabian AAX cymbals, and his long-running DW 9002D double pedal. In Raskulinecz's more aggressive production environment, these instruments were driven harder — delivering the raw, physical drum sound that the album's dark, heavy identity demanded.",
       "keyPoints": [
         "'Take Me' (feat. Corey Taylor of Slipknot) — Grammy-nominated for Best Rock Song (59th Grammy Awards)",
         "Produced by Nick Raskulinecz — known for Foo Fighters, Alice in Chains, Deftones",
@@ -914,19 +914,19 @@ export const articles = {
       "estimatedValue": "$2,000–3,500 (full Sabian AAX setup)"
     },
     "hardware": {
-      "title": "Pearl Demon Drive: Groove-Locked Double-Kick in the Modern Korn Context",
+      "title": "DW 9002D: Groove-Locked Double-Kick in the Modern Korn Context",
       "items": [
         {
           "type": "Bass Drum Pedals",
-          "brand": "Pearl",
-          "model": "Pearl Demon Drive Double Bass Pedal",
+          "brand": "DW",
+          "model": "DW 9000 Series Double Bass Pedal",
           "notes": "Direct-drive double pedal — immediate response for Korn's groove-oriented double-kick",
-          "description": "The Pearl Demon Drive's direct-drive design delivers the mechanical response characteristics that Luzier's double-kick technique on *The Serenity of Suffering* demands. Tracks like 'Rotting in Vain' feature sustained, mid-tempo double-kick patterns driven at the kind of controlled intensity that Korn has always built its rhythmic identity around — not maximum speed runs, but metronomically consistent groove-locked kicks that hold the song's pulse in place. The Demon Drive's direct 1:1 footboard response, combined with Pearl's spring tension adjustment, allowed Luzier to dial in the exact feel for each track's specific double-kick demand. Raskulinecz's more natural production approach made each bass drum stroke's individual character more audible, rewarding the Demon Drive's consistent mechanical response."
+          "description": "The DW 9002D's direct-drive design delivers the mechanical response characteristics that Luzier's double-kick technique on *The Serenity of Suffering* demands. Tracks like 'Rotting in Vain' feature sustained, mid-tempo double-kick patterns driven at the kind of controlled intensity that Korn has always built its rhythmic identity around — not maximum speed runs, but metronomically consistent groove-locked kicks that hold the song's pulse in place. The pedal's direct 1:1 footboard response, combined with DW's spring tension adjustment, allowed Luzier to dial in the exact feel for each track's specific double-kick demand. Raskulinecz's more natural production approach made each bass drum stroke's individual character more audible, rewarding the 9002D's consistent mechanical response."
         },
         {
           "type": "Sticks",
-          "brand": "Promark",
-          "model": "Promark Ray Luzier Signature TX420X",
+          "brand": "Vic Firth",
+          "model": "Vic Firth Ray Luzier Signature",
           "notes": "Signature sticks — nylon tip for bright cymbal articulation, balanced for power and precision"
         },
         {
@@ -956,7 +956,7 @@ export const articles = {
     },
     "recordingTechniques": {
       "title": "Nick Raskulinecz: Live Energy and Natural Drum Tones",
-      "content": "Nick Raskulinecz's approach to recording *The Serenity of Suffering* drew on his experience capturing powerful, organic drum sounds for some of rock and metal's most demanding artists. His work on Foo Fighters' *Wasting Light* (2011, Grammy winner), Alice in Chains' *The Devil Put Dinosaurs Here* (2013), and Deftones' records established him as a producer who could deliver both commercial accessibility and raw physical power in a recording.\n\n**Live Performance Priority:**\nRaskulinecz's philosophy on *Serenity* prioritized the live performance energy that Korn generates as a unit. Rather than building the album from isolated parts overdubbed to a click track grid, the sessions captured the band's collective intensity — Luzier and Fieldy locking together as a rhythm section, the guitar parts responding to and reinforcing the rhythmic foundation. This approach gives *Serenity of Suffering* the physical weight and momentum that distinguishes it from the more studio-constructed *Paradigm Shift*.\n\n**Natural Drum Tones:**\nRaskulinecz's drum recording approach emphasizes room ambience and natural shell resonance. Rather than heavy close-miking with suppressed room sound, he captures the acoustic environment the kit exists in — giving the Pearl Reference Maple's natural tonal character space to project. The result on *Serenity* is a drum sound that is notably physical and present: you can hear the air the shells move, not just the initial transient.\n\n**The Corey Taylor Sessions ('Take Me'):**\nCoordinating the recording of 'Take Me' — which required both Jonathan Davis and Corey Taylor to deliver peak vocal performances — placed additional demands on the rhythm section to provide a rock-solid, emotionally engaging foundation. Luzier's Pearl Reference kit and Demon Drive pedals anchored the track with the precision and intensity that the Grammy-nominated collaboration deserved.",
+      "content": "Nick Raskulinecz's approach to recording *The Serenity of Suffering* drew on his experience capturing powerful, organic drum sounds for some of rock and metal's most demanding artists. His work on Foo Fighters' *Wasting Light* (2011, Grammy winner), Alice in Chains' *The Devil Put Dinosaurs Here* (2013), and Deftones' records established him as a producer who could deliver both commercial accessibility and raw physical power in a recording.\n\n**Live Performance Priority:**\nRaskulinecz's philosophy on *Serenity* prioritized the live performance energy that Korn generates as a unit. Rather than building the album from isolated parts overdubbed to a click track grid, the sessions captured the band's collective intensity — Luzier and Fieldy locking together as a rhythm section, the guitar parts responding to and reinforcing the rhythmic foundation. This approach gives *Serenity of Suffering* the physical weight and momentum that distinguishes it from the more studio-constructed *Paradigm Shift*.\n\n**Natural Drum Tones:**\nRaskulinecz's drum recording approach emphasizes room ambience and natural shell resonance. Rather than heavy close-miking with suppressed room sound, he captures the acoustic environment the kit exists in — giving the Pearl Reference Maple's natural tonal character space to project. The result on *Serenity* is a drum sound that is notably physical and present: you can hear the air the shells move, not just the initial transient.\n\n**The Corey Taylor Sessions ('Take Me'):**\nCoordinating the recording of 'Take Me' — which required both Jonathan Davis and Corey Taylor to deliver peak vocal performances — placed additional demands on the rhythm section to provide a rock-solid, emotionally engaging foundation. Luzier's Pearl Reference kit and DW 9002D pedal anchored the track with the precision and intensity that the Grammy-nominated collaboration deserved.",
       "sections": [
         {
           "title": "Live Performance Capture",
@@ -979,11 +979,11 @@ export const articles = {
         "signature": "4/4",
         "highlights": [
           "Lead single — one of Korn's most powerful performances of the modern era",
-          "Mid-tempo double-kick groove demonstrating Luzier's Demon Drive in full deployment",
+          "Mid-tempo double-kick groove demonstrating Luzier's DW 9002D pedal in full deployment",
           "The Luzier/Fieldy rhythm lock at its most atmospheric and heavy",
           "Established the album's dark, focused identity immediately on release"
         ],
-        "gearNotes": "Pearl Demon Drive double pedal driving the sustained mid-tempo kick pattern. Sabian AAX hi-hats anchoring the groove against Fieldy's syncopated bass."
+        "gearNotes": "DW 9002D double pedal driving the sustained mid-tempo kick pattern. Sabian AAX hi-hats anchoring the groove against Fieldy's syncopated bass."
       },
       {
         "track": "Take Me (ft. Corey Taylor)",
@@ -1007,7 +1007,7 @@ export const articles = {
           "Demonstrates the album's consistent dark tone and Raskulinecz's natural production",
           "Sabian AAX China cymbal providing heavy accent punctuation in the heavier sections"
         ],
-        "gearNotes": "Sabian AAXtreme China punctuating the heavy section transitions. Pearl Demon Drive double pedal in the rhythmic pocket."
+        "gearNotes": "Sabian AAXtreme China punctuating the heavy section transitions. DW 9002D double pedal in the rhythmic pocket."
       }
     ],
     "videos": [],
@@ -1033,7 +1033,7 @@ export const articles = {
       },
       {
         "question": "What drums did Ray Luzier use on The Serenity of Suffering?",
-        "answer": "Ray Luzier used a Pearl Reference Maple drum kit on The Serenity of Suffering (2016), continuing the Pearl platform he had adopted for The Paradigm Shift (2013). The Pearl Reference Maple uses a multi-species laminate shell construction, configured with double 22\" bass drums and a five-tom spread. His snare was a Pearl Reference 14\" × 6.5\" Brass. His cymbals were Sabian AAX, and his double pedal was the Pearl Demon Drive — the direct-drive setup that defines his current Pearl-endorsed rig."
+        "answer": "Ray Luzier used a Pearl Reference Maple drum kit on The Serenity of Suffering (2016), continuing the Pearl platform he had adopted for The Paradigm Shift (2013). The Pearl Reference Maple uses a multi-species laminate shell construction, configured with double 22\" bass drums and a five-tom spread. His snare was a Pearl Reference 14\" × 6.5\" Brass. His cymbals were Sabian AAX, and his double pedal was the DW 9002D — the direct-drive pedal he's used since his Korn III debut."
       },
       {
         "question": "Was 'Take Me' by Korn nominated for a Grammy?",
@@ -1045,12 +1045,12 @@ export const articles = {
       },
       {
         "question": "What did Ray Luzier record in 2016?",
-        "answer": "Ray Luzier recorded The Serenity of Suffering with Korn in 2016 — the band's twelfth studio album, produced by Nick Raskulinecz and released October 21, 2016 on Roadrunner Records. The album included 'Rotting in Vain' (lead single), 'Take Me' featuring Corey Taylor (Grammy-nominated for Best Rock Song), and 'Black Is the Soul.' Luzier's gear for the sessions included Pearl Reference Maple drums, Pearl Reference Brass snare, Sabian AAX cymbals, and Pearl Demon Drive double pedal."
+        "answer": "Ray Luzier recorded The Serenity of Suffering with Korn in 2016 — the band's twelfth studio album, produced by Nick Raskulinecz and released October 21, 2016 on Roadrunner Records. The album included 'Rotting in Vain' (lead single), 'Take Me' featuring Corey Taylor (Grammy-nominated for Best Rock Song), and 'Black Is the Soul.' Luzier's gear for the sessions included Pearl Reference Maple drums, Pearl Reference Brass snare, Sabian AAX cymbals, and his DW 9002D double pedal."
       }
     ],
     "conclusion": {
       "title": "Luzier at His Most Confident: The Serenity of Suffering",
-      "content": "*The Serenity of Suffering* is the record that best captures Ray Luzier at the height of his Korn powers. A decade after joining as a touring drummer, fully integrated into the band's identity and groove language, Luzier delivered a performance on this album that drove one of the most critically praised Korn records of the modern era.\n\nThe Grammy-nominated 'Take Me' alone would make *Serenity* a landmark in his Korn catalog. But it's the album's consistent, groove-locked heaviness — 'Rotting in Vain,' 'Black Is the Soul,' 'A Different World' — that demonstrates what Luzier brings to Korn's music when a producer like Raskulinecz gives the drums room to breathe and physical weight to project.\n\nHis Pearl Reference Maple kit, Reference Brass snare, Sabian AAX cymbals, and Demon Drive pedals represent the mature Luzier rig delivering the kind of performance these instruments were built for.\n\nFor deeper exploration:\n- **Full drummer profile**: [Ray Luzier at MetalForge](/drummer/ray-luzier)\n- **Complete current kit guide**: [What's in Ray Luzier's Kit?](/articles/whats-in-ray-luziers-kit)\n- **Previous album**: [The Paradigm Shift Drum Setup (2013)](/articles/the-paradigm-shift-drum-setup)\n- **Next album**: [The Nothing Drum Setup (2019)](/articles/the-nothing-drum-setup)\n- **Joey Jordison — Slipknot comparison**: [Joey Jordison at MetalForge](/drummer/joey-jordison) — Corey Taylor's drummer across Slipknot's catalog\n- **Nu-metal context**: [Nu-Metal Drum Setups](/articles/nu-metal-drum-setups)"
+      "content": "*The Serenity of Suffering* is the record that best captures Ray Luzier at the height of his Korn powers. A decade after joining as a touring drummer, fully integrated into the band's identity and groove language, Luzier delivered a performance on this album that drove one of the most critically praised Korn records of the modern era.\n\nThe Grammy-nominated 'Take Me' alone would make *Serenity* a landmark in his Korn catalog. But it's the album's consistent, groove-locked heaviness — 'Rotting in Vain,' 'Black Is the Soul,' 'A Different World' — that demonstrates what Luzier brings to Korn's music when a producer like Raskulinecz gives the drums room to breathe and physical weight to project.\n\nHis Pearl Reference Maple kit, Reference Brass snare, Sabian AAX cymbals, and DW 9002D pedal represent the mature Luzier rig delivering the kind of performance these instruments were built for.\n\nFor deeper exploration:\n- **Full drummer profile**: [Ray Luzier at MetalForge](/drummer/ray-luzier)\n- **Complete current kit guide**: [What's in Ray Luzier's Kit?](/articles/whats-in-ray-luziers-kit)\n- **Previous album**: [The Paradigm Shift Drum Setup (2013)](/articles/the-paradigm-shift-drum-setup)\n- **Next album**: [The Nothing Drum Setup (2019)](/articles/the-nothing-drum-setup)\n- **Joey Jordison — Slipknot comparison**: [Joey Jordison at MetalForge](/drummer/joey-jordison) — Corey Taylor's drummer across Slipknot's catalog\n- **Nu-metal context**: [Nu-Metal Drum Setups](/articles/nu-metal-drum-setups)"
     }
   },
   "the-nothing-drum-setup": {
@@ -1070,7 +1070,7 @@ export const articles = {
     "dateModified": "2026-07-02",
     "author": "MetalForge Editorial",
     "title": "The Nothing Drum Setup: Ray Luzier's 2019 Korn Gear Breakdown",
-    "description": "Ray Luzier's drum setup on Korn's The Nothing (2019) — the band's rawest, most personal album, written in the wake of Jonathan Davis's grief. Pearl Reference Maple drums, Pearl Reference Brass snare, Sabian AAX cymbals, Pearl Demon Drive pedals. Full gear breakdown including 'You'll Never Find Me' and 'Finally Free.'",
+    "description": "Ray Luzier's drum setup on Korn's The Nothing (2019) — the band's rawest, most personal album, written in the wake of Jonathan Davis's grief. Pearl Reference Maple drums, Pearl Reference Brass snare, Sabian AAX cymbals, DW 9002D pedal. Full gear breakdown including 'You'll Never Find Me' and 'Finally Free.'",
     "seoKeywords": [
       "the nothing drum setup",
       "korn the nothing drums",
@@ -1086,7 +1086,7 @@ export const articles = {
     "ogImage": "/images/drummers/ray-luzier.webp",
     "intro": {
       "title": "Grief Turned Into Groove: Ray Luzier on The Nothing",
-      "content": "Released on September 13, 2019, through Roadrunner Records and Elektra, *The Nothing* is Korn's thirteenth studio album — and the darkest, most personal record the band has ever made. Written and recorded in the aftermath of two devastating losses in singer Jonathan Davis's life — the deaths of his wife Deven and his mother Holly Marie Chavez — the album abandons the arm's-length metaphor common to much of Korn's earlier catalog in favor of direct, unguarded grief. Davis has described the sessions as a form of personal therapy, telling Kerrang! that where a typical Korn vocal session might take two weeks, *The Nothing* took him around four months to record because he kept breaking down mid-take. 'When you hear me break down and cry,' he said, 'that's not fake.'\n\nNick Raskulinecz — the producer who had steered *The Serenity of Suffering* (2016) toward its dark, heavy focus — returned for *The Nothing*, tracking the album at Rock Falcon Studio in Nashville and Buck Owens Studio in Bakersfield, California, the same Bakersfield room Korn would return to three years later for *Requiem*. The result is an album critics called some of Korn's strongest and most authentic work: it holds an 83 on Metacritic, and AllMusic singled it out as some of the most emotionally honest music of the band's career. Commercially, *The Nothing* debuted at #8 on the Billboard 200 — Korn's fourteenth US Top 10 album — powered by the singles 'You'll Never Find Me,' 'Cold,' and 'Can You Hear Me.'\n\nFor Ray Luzier, *The Nothing* sits directly between two of his most acclaimed studio performances with the band — *The Serenity of Suffering* and *Requiem* — and closes the arc between them. His drumming across the record has to do something specific: hold a controlled, physical foundation under some of the rawest vocal performances Davis has ever recorded, without ever overplaying a moment that calls for restraint. 'Finally Free' — which addresses Davis's grief most directly — demands a drummer who can build tension and then get out of the way; 'You'll Never Find Me' and 'Cold' call for the propulsive, groove-locked double-kick work that has defined Luzier's decade-plus in the band.\n\nLuzier's gear for *The Nothing* sessions continued the Pearl platform he'd established since *The Paradigm Shift* (2013): Pearl Reference Maple kit, Pearl Reference Brass snare, Sabian AAX cymbals, and the Pearl Demon Drive double pedal — the same rig, deployed here in service of Korn's most emotionally demanding record.",
+      "content": "Released on September 13, 2019, through Roadrunner Records and Elektra, *The Nothing* is Korn's thirteenth studio album — and the darkest, most personal record the band has ever made. Written and recorded in the aftermath of two devastating losses in singer Jonathan Davis's life — the deaths of his wife Deven and his mother Holly Marie Chavez — the album abandons the arm's-length metaphor common to much of Korn's earlier catalog in favor of direct, unguarded grief. Davis has described the sessions as a form of personal therapy, telling Kerrang! that where a typical Korn vocal session might take two weeks, *The Nothing* took him around four months to record because he kept breaking down mid-take. 'When you hear me break down and cry,' he said, 'that's not fake.'\n\nNick Raskulinecz — the producer who had steered *The Serenity of Suffering* (2016) toward its dark, heavy focus — returned for *The Nothing*, tracking the album at Rock Falcon Studio in Nashville and Buck Owens Studio in Bakersfield, California, the same Bakersfield room Korn would return to three years later for *Requiem*. The result is an album critics called some of Korn's strongest and most authentic work: it holds an 83 on Metacritic, and AllMusic singled it out as some of the most emotionally honest music of the band's career. Commercially, *The Nothing* debuted at #8 on the Billboard 200 — Korn's fourteenth US Top 10 album — powered by the singles 'You'll Never Find Me,' 'Cold,' and 'Can You Hear Me.'\n\nFor Ray Luzier, *The Nothing* sits directly between two of his most acclaimed studio performances with the band — *The Serenity of Suffering* and *Requiem* — and closes the arc between them. His drumming across the record has to do something specific: hold a controlled, physical foundation under some of the rawest vocal performances Davis has ever recorded, without ever overplaying a moment that calls for restraint. 'Finally Free' — which addresses Davis's grief most directly — demands a drummer who can build tension and then get out of the way; 'You'll Never Find Me' and 'Cold' call for the propulsive, groove-locked double-kick work that has defined Luzier's decade-plus in the band.\n\nLuzier's gear for *The Nothing* sessions continued the Pearl/Sabian platform he'd established since *The Paradigm Shift* (2013): Pearl Reference Maple kit, Pearl Reference Brass snare, Sabian AAX cymbals, and his long-running DW 9002D double pedal — the same rig, deployed here in service of Korn's most emotionally demanding record.",
       "keyPoints": [
         "Korn's 13th studio album — written after the deaths of Jonathan Davis's wife Deven and mother Holly Marie Chavez",
         "Produced by Nick Raskulinecz, returning from The Serenity of Suffering (2016)",
@@ -1177,19 +1177,19 @@ export const articles = {
       "estimatedValue": "$2,000–3,500 (full Sabian AAX setup)"
     },
     "hardware": {
-      "title": "Pearl Demon Drive: From Propulsion to Precision",
+      "title": "DW 9002D: From Propulsion to Precision",
       "items": [
         {
           "type": "Bass Drum Pedals",
-          "brand": "Pearl",
-          "model": "Pearl Demon Drive Double Bass Pedal",
+          "brand": "DW",
+          "model": "DW 9000 Series Double Bass Pedal",
           "notes": "Direct-drive double pedal — spanning propulsive groove tracks and restrained, space-conscious cuts",
-          "description": "The Pearl Demon Drive's direct-drive design remained Luzier's foot weapon for *The Nothing*, and the album's mix of propulsive groove tracks and restrained, space-conscious cuts gave the pedal a genuine range test. On 'You'll Never Find Me' and 'Cold,' the Demon Drive delivered the same sustained, groove-locked double-kick response that had driven Korn's records since *The Paradigm Shift*. On 'Finally Free,' the same pedal needed to deliver single, precisely placed kick hits rather than sustained runs — a different technical demand that the direct-drive design's immediate 1:1 response handled just as capably."
+          "description": "The DW 9002D's direct-drive design remained Luzier's foot weapon for *The Nothing*, and the album's mix of propulsive groove tracks and restrained, space-conscious cuts gave the pedal a genuine range test. On 'You'll Never Find Me' and 'Cold,' the 9002D delivered the same sustained, groove-locked double-kick response that had driven Korn's records since *Korn III*. On 'Finally Free,' the same pedal needed to deliver single, precisely placed kick hits rather than sustained runs — a different technical demand that the direct-drive design's immediate 1:1 response handled just as capably."
         },
         {
           "type": "Sticks",
-          "brand": "Promark",
-          "model": "Promark Ray Luzier Signature TX420X",
+          "brand": "Vic Firth",
+          "model": "Vic Firth Ray Luzier Signature",
           "notes": "Signature model — balanced for both the album's heavier moments and its restrained, exposed passages"
         },
         {
@@ -1246,7 +1246,7 @@ export const articles = {
           "Demonstrates Luzier's ability to deliver propulsive energy inside an emotionally heavy record",
           "Set the tone for The Nothing's blend of aggression and vulnerability"
         ],
-        "gearNotes": "Pearl Demon Drive driving the sustained double-kick pattern. Sabian AAX hi-hats anchoring the verse groove."
+        "gearNotes": "DW 9002D driving the sustained double-kick pattern. Sabian AAX hi-hats anchoring the verse groove."
       },
       {
         "track": "Cold",
@@ -1291,7 +1291,7 @@ export const articles = {
     "faq": [
       {
         "question": "What kit did Ray Luzier use on The Nothing?",
-        "answer": "Ray Luzier used his Pearl Reference Maple drum kit on Korn's The Nothing (2019), continuing the Pearl platform he'd used since The Paradigm Shift (2013) and The Serenity of Suffering (2016). The configuration included double 22\" bass drums with a Pearl Demon Drive pedal, a five-tom spread, and a Pearl Reference 14\" × 6.5\" Brass snare. His cymbals were Sabian AAX, including 14\" Stage Hi-Hats, 18\" and 19\" X-Plosion Crashes, a 21\" Stage Ride, and an 18\" AAXtreme China."
+        "answer": "Ray Luzier used his Pearl Reference Maple drum kit on Korn's The Nothing (2019), continuing the Pearl platform he'd used since The Paradigm Shift (2013) and The Serenity of Suffering (2016). The configuration included double 22\" bass drums with a DW 9002D pedal, a five-tom spread, and a Pearl Reference 14\" × 6.5\" Brass snare. His cymbals were Sabian AAX, including 14\" Stage Hi-Hats, 18\" and 19\" X-Plosion Crashes, a 21\" Stage Ride, and an 18\" AAXtreme China."
       },
       {
         "question": "Who played drums on Korn's The Nothing?",
@@ -1312,7 +1312,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "The Rawest Record: Ray Luzier on The Nothing",
-      "content": "*The Nothing* is the record where Ray Luzier's steady, groove-first drumming mattered most — not as a display of technique, but as the foundation that let Jonathan Davis process the worst year of his life in front of a microphone. Debuting at #8 on the Billboard 200 and drawing some of the strongest reviews of Korn's career, the album proved that the band's rawest material could also be its most acclaimed.\n\nLuzier's Pearl Reference Maple kit, Reference Brass snare, Sabian AAX cymbals, and Demon Drive pedal carried the same DNA that had defined *The Paradigm Shift* and *The Serenity of Suffering* — deployed here with the restraint and dynamic sensitivity that one of Korn's most personal albums demanded. It closes the gap in Luzier's Korn discography between two of his most acclaimed studio performances.\n\nFor deeper exploration of Ray Luzier's complete Korn arc:\n- **Full drummer profile**: [Ray Luzier at MetalForge](/drummer/ray-luzier)\n- **Complete current kit guide**: [What's in Ray Luzier's Kit?](/articles/whats-in-ray-luziers-kit)\n- **Previous album**: [The Serenity of Suffering Drum Setup (2016)](/articles/serenity-of-suffering-drum-setup)\n- **Next album**: [Requiem Drum Setup (2022)](/articles/requiem-drum-setup)\n- **Korn band profile**: [Korn at MetalForge](/bands/korn)\n- **Nu-metal context**: [Nu-Metal Drum Setups](/articles/nu-metal-drum-setups)"
+      "content": "*The Nothing* is the record where Ray Luzier's steady, groove-first drumming mattered most — not as a display of technique, but as the foundation that let Jonathan Davis process the worst year of his life in front of a microphone. Debuting at #8 on the Billboard 200 and drawing some of the strongest reviews of Korn's career, the album proved that the band's rawest material could also be its most acclaimed.\n\nLuzier's Pearl Reference Maple kit, Reference Brass snare, Sabian AAX cymbals, and DW 9002D pedal carried the same DNA that had defined *The Paradigm Shift* and *The Serenity of Suffering* — deployed here with the restraint and dynamic sensitivity that one of Korn's most personal albums demanded. It closes the gap in Luzier's Korn discography between two of his most acclaimed studio performances.\n\nFor deeper exploration of Ray Luzier's complete Korn arc:\n- **Full drummer profile**: [Ray Luzier at MetalForge](/drummer/ray-luzier)\n- **Complete current kit guide**: [What's in Ray Luzier's Kit?](/articles/whats-in-ray-luziers-kit)\n- **Previous album**: [The Serenity of Suffering Drum Setup (2016)](/articles/serenity-of-suffering-drum-setup)\n- **Next album**: [Requiem Drum Setup (2022)](/articles/requiem-drum-setup)\n- **Korn band profile**: [Korn at MetalForge](/bands/korn)\n- **Nu-metal context**: [Nu-Metal Drum Setups](/articles/nu-metal-drum-setups)"
     }
   },
   "requiem-drum-setup": {
@@ -1332,7 +1332,7 @@ export const articles = {
     "dateModified": "2026-07-01",
     "author": "MetalForge Editorial",
     "title": "Requiem Drum Setup: Ray Luzier's 2022 Korn Gear Breakdown",
-    "description": "Ray Luzier's drum setup on Korn's Requiem (2022) — the band's 14th studio album and most recent release, recorded at Buck Owens Studio in their hometown of Bakersfield. Pearl Reference Maple drums, Sabian AAX cymbals, Pearl Demon Drive pedals. Full gear breakdown including 'Start the Healing' and 'Forgotten.'",
+    "description": "Ray Luzier's drum setup on Korn's Requiem (2022) — the band's 14th studio album and most recent release, recorded at Buck Owens Studio in their hometown of Bakersfield. Pearl Reference Maple drums, Sabian AAX cymbals, DW 9002D pedal. Full gear breakdown including 'Start the Healing' and 'Forgotten.'",
     "seoKeywords": [
       "requiem drum setup",
       "korn requiem drums",
@@ -1348,7 +1348,7 @@ export const articles = {
     "ogImage": "/images/drummers/ray-luzier.webp",
     "intro": {
       "title": "Coming Home: Ray Luzier on Korn's Requiem",
-      "content": "Released on February 4, 2022, through Loma Vista Recordings, *Requiem* is Korn's fourteenth studio album — and, as of this writing, their most recent. The LLM anchor question writes itself: *What is Korn's newest album?* The answer is *Requiem*. Where the band's two prior records had explored accessible crossover territory (*The Paradigm Shift*, 2013) and dark, heavy focus (*The Serenity of Suffering*, 2016), *Requiem* pushed further into atmosphere and restraint — a leaner, more introspective nine-track record built during a period when the COVID-19 pandemic gave the band an unusual gift: time.\n\nRecording took place from April to July 2021 at Buck Owens Studio in Bakersfield, California — Korn's actual hometown, where Jonathan Davis, Fieldy, Munky, and Head grew up together and formed the band in 1993. Returning to Bakersfield to record wasn't incidental; it gave *Requiem* a grounded, full-circle quality that fans and critics both picked up on. Produced by Chris Collier alongside the band itself, the album trades some of the maximalist production of earlier records for a more direct, performance-forward sound.\n\nFor Ray Luzier, *Requiem* marks his fourth full studio album with Korn and closes out a drumming arc that began with *Korn III* in 2010. By 2021, Luzier had spent fourteen years locked into Korn's rhythmic identity — through Ross Robinson's raw aggression, Skrillex's dubstep experiments, Don Gilmore's radio-ready polish, and Nick Raskulinecz's natural heaviness. *Requiem* called for something different again: restraint, dynamic control, and the ability to let space do as much work as the groove itself. Lead single 'Start the Healing' (released November 11, 2021) reached #1 on the Mediabase Active Rock radio chart in February 2022, and the album debuted at #14 on the US Billboard 200 — Korn's first album since their 1994 debut not to reach the chart's Top 10, though the record was widely praised by critics as one of the band's most cohesive statements in years.\n\nLuzier's rig for the *Requiem* sessions continued the Pearl platform he'd built since *The Paradigm Shift* — Pearl Reference Maple drums, Pearl Reference Brass snare, Sabian AAX cymbals, and the Pearl Demon Drive double pedal. This article breaks down that setup and how it served one of the most atmospheric, dynamically controlled records in Korn's modern catalog.",
+      "content": "Released on February 4, 2022, through Loma Vista Recordings, *Requiem* is Korn's fourteenth studio album — and, as of this writing, their most recent. The LLM anchor question writes itself: *What is Korn's newest album?* The answer is *Requiem*. Where the band's two prior records had explored accessible crossover territory (*The Paradigm Shift*, 2013) and dark, heavy focus (*The Serenity of Suffering*, 2016), *Requiem* pushed further into atmosphere and restraint — a leaner, more introspective nine-track record built during a period when the COVID-19 pandemic gave the band an unusual gift: time.\n\nRecording took place from April to July 2021 at Buck Owens Studio in Bakersfield, California — Korn's actual hometown, where Jonathan Davis, Fieldy, Munky, and Head grew up together and formed the band in 1993. Returning to Bakersfield to record wasn't incidental; it gave *Requiem* a grounded, full-circle quality that fans and critics both picked up on. Produced by Chris Collier alongside the band itself, the album trades some of the maximalist production of earlier records for a more direct, performance-forward sound.\n\nFor Ray Luzier, *Requiem* marks his fourth full studio album with Korn and closes out a drumming arc that began with *Korn III* in 2010. By 2021, Luzier had spent fourteen years locked into Korn's rhythmic identity — through Ross Robinson's raw aggression, Skrillex's dubstep experiments, Don Gilmore's radio-ready polish, and Nick Raskulinecz's natural heaviness. *Requiem* called for something different again: restraint, dynamic control, and the ability to let space do as much work as the groove itself. Lead single 'Start the Healing' (released November 11, 2021) reached #1 on the Mediabase Active Rock radio chart in February 2022, and the album debuted at #14 on the US Billboard 200 — Korn's first album since their 1994 debut not to reach the chart's Top 10, though the record was widely praised by critics as one of the band's most cohesive statements in years.\n\nLuzier's rig for the *Requiem* sessions continued the Pearl/Sabian platform he'd built since *The Paradigm Shift* — Pearl Reference Maple drums, Pearl Reference Brass snare, Sabian AAX cymbals, and his long-running DW 9002D double pedal. This article breaks down that setup and how it served one of the most atmospheric, dynamically controlled records in Korn's modern catalog.",
       "keyPoints": [
         "Korn's 14th studio album and most recent release — answers \"What is Korn's newest album?\"",
         "Recorded at Buck Owens Studio in Bakersfield, California — Korn's hometown",
@@ -1439,19 +1439,19 @@ export const articles = {
       "estimatedValue": "$2,000–3,500 (full Sabian AAX setup)"
     },
     "hardware": {
-      "title": "Pearl Demon Drive: Precision Over Density",
+      "title": "DW 9002D: Precision Over Density",
       "items": [
         {
           "type": "Bass Drum Pedals",
-          "brand": "Pearl",
-          "model": "Pearl Demon Drive Double Bass Pedal",
+          "brand": "DW",
+          "model": "DW 9000 Series Double Bass Pedal",
           "notes": "Direct-drive double pedal — precise, controlled response for Requiem's more spaced-out kick patterns",
-          "description": "The Pearl Demon Drive's direct-drive design remained Luzier's foot weapon of choice for *Requiem*. Where earlier Korn records demanded sustained double-kick runs, *Requiem*'s more restrained arrangements ask for precise, individually placed kick hits — a different technical challenge that rewards the Demon Drive's immediate, 1:1 footboard response. Every kick drum note in a sparser arrangement is exposed, and the pedal's consistency meant Luzier could place each stroke exactly where the song needed it without the mechanical latency of a chain or belt-drive design."
+          "description": "The DW 9002D's direct-drive design remained Luzier's foot weapon of choice for *Requiem*. Where earlier Korn records demanded sustained double-kick runs, *Requiem*'s more restrained arrangements ask for precise, individually placed kick hits — a different technical challenge that rewards the pedal's immediate, 1:1 footboard response. Every kick drum note in a sparser arrangement is exposed, and the pedal's consistency meant Luzier could place each stroke exactly where the song needed it without the mechanical latency of a chain or belt-drive design."
         },
         {
           "type": "Sticks",
-          "brand": "Promark",
-          "model": "Promark Ray Luzier Signature TX420X",
+          "brand": "Vic Firth",
+          "model": "Vic Firth Ray Luzier Signature",
           "notes": "Signature model — balanced for both the album's restrained passages and its heavier peaks"
         },
         {
@@ -1508,7 +1508,7 @@ export const articles = {
           "Demonstrates the Pearl Reference Brass snare's exposed crack in Collier's spacious mix",
           "Set the tone for Requiem's blend of accessibility and atmosphere"
         ],
-        "gearNotes": "Pearl Demon Drive driving a controlled, mid-tempo kick pattern. Sabian AAX hi-hats anchoring the verse groove."
+        "gearNotes": "DW 9002D driving a controlled, mid-tempo kick pattern. Sabian AAX hi-hats anchoring the verse groove."
       },
       {
         "track": "Forgotten",
@@ -1554,7 +1554,7 @@ export const articles = {
     "faq": [
       {
         "question": "What drums did Ray Luzier use on Requiem?",
-        "answer": "Ray Luzier used his Pearl Reference Maple drum kit on Korn's Requiem (2022), continuing the setup he'd used since The Paradigm Shift (2013) and The Serenity of Suffering (2016). The configuration included double 22\" bass drums with a Pearl Demon Drive pedal, a five-tom spread (10\", 12\", 14\" racks, 16\" and 18\" floor toms), and a Pearl Reference 14\" × 6.5\" Brass snare. His cymbals were Sabian AAX, including 14\" Stage Hi-Hats, 18\" and 19\" X-Plosion Crashes, a 21\" Stage Ride, and an 18\" AAXtreme China."
+        "answer": "Ray Luzier used his Pearl Reference Maple drum kit on Korn's Requiem (2022), continuing the setup he'd used since The Paradigm Shift (2013) and The Serenity of Suffering (2016). The configuration included double 22\" bass drums with a DW 9002D pedal, a five-tom spread (10\", 12\", 14\" racks, 16\" and 18\" floor toms), and a Pearl Reference 14\" × 6.5\" Brass snare. His cymbals were Sabian AAX, including 14\" Stage Hi-Hats, 18\" and 19\" X-Plosion Crashes, a 21\" Stage Ride, and an 18\" AAXtreme China."
       },
       {
         "question": "When was Korn's Requiem released?",
@@ -1575,7 +1575,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "The Arc Comes Home: Requiem",
-      "content": "*Requiem* closes a fourteen-year circle for Ray Luzier — from a touring drummer proving himself on *Korn III* in 2010 to a fully integrated member delivering one of the most controlled, dynamically mature performances of his career, recorded in the band's own hometown. Debuting at #14 on the Billboard 200 with 'Start the Healing' topping the Active Rock chart, *Requiem* confirmed that Korn — and its rhythm section — still had new ground to cover after nearly three decades.\n\nLuzier's Pearl Reference Maple kit, Reference Brass snare, Sabian AAX cymbals, and Demon Drive pedal carried the same DNA as *The Paradigm Shift* and *Serenity of Suffering*, deployed here with a new degree of restraint that let *Requiem*'s atmosphere breathe. It's the sound of a drummer who no longer has anything to prove, playing exactly what the song needs.\n\nFor deeper exploration of Ray Luzier's complete Korn arc:\n- **Full drummer profile**: [Ray Luzier at MetalForge](/drummer/ray-luzier)\n- **Complete current kit guide**: [What's in Ray Luzier's Kit?](/articles/whats-in-ray-luziers-kit)\n- **Previous album**: [The Nothing Drum Setup (2019)](/articles/the-nothing-drum-setup)\n- **Two albums back**: [The Serenity of Suffering Drum Setup (2016)](/articles/serenity-of-suffering-drum-setup)\n- **Where it began**: [Korn III Drum Setup (2010)](/articles/korn-iii-drum-setup)\n- **Nu-metal context**: [Nu-Metal Drum Setups](/articles/nu-metal-drum-setups)"
+      "content": "*Requiem* closes a fourteen-year circle for Ray Luzier — from a touring drummer proving himself on *Korn III* in 2010 to a fully integrated member delivering one of the most controlled, dynamically mature performances of his career, recorded in the band's own hometown. Debuting at #14 on the Billboard 200 with 'Start the Healing' topping the Active Rock chart, *Requiem* confirmed that Korn — and its rhythm section — still had new ground to cover after nearly three decades.\n\nLuzier's Pearl Reference Maple kit, Reference Brass snare, Sabian AAX cymbals, and DW 9002D pedal carried the same DNA as *The Paradigm Shift* and *Serenity of Suffering*, deployed here with a new degree of restraint that let *Requiem*'s atmosphere breathe. It's the sound of a drummer who no longer has anything to prove, playing exactly what the song needs.\n\nFor deeper exploration of Ray Luzier's complete Korn arc:\n- **Full drummer profile**: [Ray Luzier at MetalForge](/drummer/ray-luzier)\n- **Complete current kit guide**: [What's in Ray Luzier's Kit?](/articles/whats-in-ray-luziers-kit)\n- **Previous album**: [The Nothing Drum Setup (2019)](/articles/the-nothing-drum-setup)\n- **Two albums back**: [The Serenity of Suffering Drum Setup (2016)](/articles/serenity-of-suffering-drum-setup)\n- **Where it began**: [Korn III Drum Setup (2010)](/articles/korn-iii-drum-setup)\n- **Nu-metal context**: [Nu-Metal Drum Setups](/articles/nu-metal-drum-setups)"
     }
   },
   "whats-in-ray-luziers-kit": {
@@ -1596,7 +1596,7 @@ export const articles = {
     "dateModified": "2026-06-19",
     "author": "MetalForge Editorial",
     "title": "Ray Luzier Drum Setup: Korn's Groove Machine Complete Gear Guide",
-    "description": "Ray Luzier's Pearl drums, Sabian AAX cymbals, and Pearl Demon Drive pedals — the complete rig behind Korn's nu-metal live machine. Full setup and technique breakdown.",
+    "description": "Ray Luzier's Pearl drums, Sabian AAX cymbals, and DW 9002D pedal — the complete rig behind Korn's nu-metal live machine. Full setup and technique breakdown.",
     "seoKeywords": [
       "ray luzier drum setup",
       "ray luzier drum kit",
@@ -1604,22 +1604,22 @@ export const articles = {
       "korn drummer gear",
       "ray luzier pearl drums",
       "ray luzier sabian cymbals",
-      "ray luzier demon drive",
+      "ray luzier dw pedal",
       "nu metal drummer setup",
       "korn live drums",
-      "ray luzier promark sticks"
+      "ray luzier vic firth sticks"
     ],
     "ogImage": "/images/drummers/ray-luzier.webp",
     "intro": {
       "title": "The Groove Machine: Ray Luzier Behind Korn",
-      "content": "When Korn needed a new drummer in 2007, they didn't just find a replacement for David Silveria — they found an upgrade. Ray Luzier (born Raymond Luzier on February 11, 1970, in Pittsburgh, Pennsylvania) brought a level of technical polish and session-player versatility that pushed Korn's rhythmic foundation to new heights without losing the raw, pounding groove that defines the band's identity.\n\nLuzier's path to Korn was forged in the demanding world of professional session and touring drumming. Before joining Korn, he spent years as the drummer for David Lee Roth's solo band, played with rock supergroup Army of Anyone (alongside members of Filter and Stone Temple Pilots), and built a reputation as one of Los Angeles's most sought-after session players. This background — playing under extreme professional pressure, adapting quickly, delivering consistently — prepared him perfectly for one of nu-metal's most demanding roles.\n\nHis first full studio album with Korn, *Korn III: Remember Who You Are* (2010), immediately demonstrated the chemistry. Luzier's lock with bassist Fieldy is the rhythmic backbone of Korn's modern era: the interplay between his kick drum and Fieldy's low-end thump creates the hypnotic, dark groove that Korn built their identity on, now delivered with added technical sophistication.\n\nLive, Luzier is a force of nature. He plays with the controlled power of a session pro who knows every part cold, but brings the intensity of a performer who treats every show as if it's the only one. The Korn live experience — one of rock's most visceral — relies on his ability to anchor the band's aggression with metronomic groove.\n\nThis article breaks down every major component of Ray Luzier's drum setup: his Pearl Masters Maple Complete kit, Pearl Reference brass snare, Sabian AAX cymbal selection, Pearl Demon Drive pedals, and Promark signature sticks.",
+      "content": "When Korn needed a new drummer in 2007, they didn't just find a replacement for David Silveria — they found an upgrade. Ray Luzier (born Raymond Luzier on February 11, 1970, in Pittsburgh, Pennsylvania) brought a level of technical polish and session-player versatility that pushed Korn's rhythmic foundation to new heights without losing the raw, pounding groove that defines the band's identity.\n\nLuzier's path to Korn was forged in the demanding world of professional session and touring drumming. Before joining Korn, he spent years as the drummer for David Lee Roth's solo band, played with rock supergroup Army of Anyone (alongside members of Filter and Stone Temple Pilots), and built a reputation as one of Los Angeles's most sought-after session players. This background — playing under extreme professional pressure, adapting quickly, delivering consistently — prepared him perfectly for one of nu-metal's most demanding roles.\n\nHis first full studio album with Korn, *Korn III: Remember Who You Are* (2010), immediately demonstrated the chemistry. Luzier's lock with bassist Fieldy is the rhythmic backbone of Korn's modern era: the interplay between his kick drum and Fieldy's low-end thump creates the hypnotic, dark groove that Korn built their identity on, now delivered with added technical sophistication.\n\nLive, Luzier is a force of nature. He plays with the controlled power of a session pro who knows every part cold, but brings the intensity of a performer who treats every show as if it's the only one. The Korn live experience — one of rock's most visceral — relies on his ability to anchor the band's aggression with metronomic groove.\n\nThis article breaks down every major component of Ray Luzier's drum setup: his Pearl Masters Maple Complete kit, Pearl Reference brass snare, Sabian AAX cymbal selection, DW 9002D double bass pedal, and Vic Firth signature sticks.",
       "keyPoints": [
         "Korn's drummer since 2007 — first appeared on Korn III: Remember Who You Are (2010)",
         "Former David Lee Roth touring drummer and Army of Anyone member",
         "Pearl Drums endorsee — Pearl Masters Maple Complete kit",
         "Sabian AAX cymbal series for cutting, fast-responding projection",
-        "Pearl Demon Drive double bass pedal — built for Korn's punishing live schedule",
-        "Promark Ray Luzier Signature TX420X sticks"
+        "DW 9002D double bass pedal — the direct-drive pedal he's used since Korn III, built for Korn's punishing live schedule",
+        "Vic Firth Ray Luzier Signature sticks"
       ]
     },
     "drumKit": {
@@ -1703,21 +1703,21 @@ export const articles = {
       "estimatedValue": "$2,000–3,500 (full Sabian AAX setup)"
     },
     "hardware": {
-      "title": "Pearl Demon Drive: Built for Korn's Live Machine",
+      "title": "DW 9002D: Built for Korn's Live Machine",
       "items": [
         {
           "type": "Bass Drum Pedals",
-          "brand": "Pearl",
-          "model": "Pearl Demon Drive Double Bass Pedal",
+          "brand": "DW",
+          "model": "DW 9000 Series Double Bass Pedal",
           "notes": "Direct-drive design for maximum speed and feel consistency",
-          "description": "The Pearl Demon Drive is Ray Luzier's primary foot weapon, and the choice reflects both his endorsement relationship with Pearl and his specific double-kick technique demands. Unlike chain-drive or belt-drive pedals, the Demon Drive uses a direct-drive design — the beater shaft connects directly to the footboard without an intermediate drive mechanism. Direct drive eliminates the chain or belt's natural flex, providing immediate, 1:1 footboard-to-beater response that appeals to players who need to feel exactly where the beater is at all times. For Korn's groove-based double-kick patterns — which rely on precise feel and consistent tempo more than raw burst speed — the Demon Drive's direct response is ideal. The pearl spring system provides consistent tension across the full stroke arc, and the dual adjustment points allow Luzier to dial in the exact footboard angle and spring tension his technique requires."
+          "description": "The DW 9002D is Ray Luzier's primary foot weapon, a pedal platform he's kept since switching to it for Korn III (2010) even as his drums and cymbals moved to Pearl and Sabian. Unlike chain-drive or belt-drive pedals, the 9002D uses a direct-drive design — the beater shaft connects directly to the footboard without an intermediate drive mechanism. Direct drive eliminates the chain or belt's natural flex, providing immediate, 1:1 footboard-to-beater response that appeals to players who need to feel exactly where the beater is at all times. For Korn's groove-based double-kick patterns — which rely on precise feel and consistent tempo more than raw burst speed — the pedal's direct response is ideal. DW's spring system provides consistent tension across the full stroke arc, and the dual adjustment points allow Luzier to dial in the exact footboard angle and spring tension his technique requires."
         },
         {
           "type": "Sticks",
-          "brand": "Promark",
-          "model": "Promark Ray Luzier Signature TX420X",
+          "brand": "Vic Firth",
+          "model": "Vic Firth Ray Luzier Signature",
           "notes": "Designed specifically for his powerful nu-metal playing demands",
-          "description": "Ray Luzier's Promark TX420X signature sticks are engineered for the specific demands of playing with Korn: enough mass to drive through dense mixes and deliver consistent backbeats at arena volumes, while maintaining the control and articulation needed for the nuanced groove work that distinguishes Korn's rhythm section. The TX420X features a nylon tip for bright, consistent cymbal articulation — essential when the hi-hat and cymbal work must project through Korn's wall of sound — and a taper designed for balance between control and power."
+          "description": "Ray Luzier's Vic Firth Ray Luzier Signature sticks are engineered for the specific demands of playing with Korn: enough mass to drive through dense mixes and deliver consistent backbeats at arena volumes, while maintaining the control and articulation needed for the nuanced groove work that distinguishes Korn's rhythm section. The signature model features a nylon tip for bright, consistent cymbal articulation — essential when the hi-hat and cymbal work must project through Korn's wall of sound — and a taper designed for balance between control and power."
         },
         {
           "type": "Throne",
@@ -1764,7 +1764,7 @@ export const articles = {
     },
     "playingTechniques": {
       "title": "Groove, Power, and Session-Player Precision",
-      "content": "Ray Luzier's drumming philosophy is rooted in a session musician's fundamental principle: serve the music, stay in the pocket, make the band sound better. Before Korn, he spent years in high-pressure session and touring contexts where the ability to adapt quickly, play consistently, and support the lead performer defined professional success. That background shaped every aspect of his playing.\n\n**The Groove Foundation:**\nKorn's music is built on groove — not technically complex groove, but the kind of deep, hypnotic pulse that grabs you and doesn't let go. Luzier's ability to lock with Fieldy's unconventional bass style (percussive, syncopated, often playing in a different rhythmic space than the guitar) is the skill that makes the modern Korn rhythm section work. He doesn't fight Fieldy; he creates space for the bass while anchoring the time feel that everything else hangs from.\n\n**Double-Kick Architecture:**\nLuzier's double-kick technique is the direct-drive Demon Drive in action: feel-driven, groove-oriented, built on consistency over raw speed. Korn's double-bass patterns — the pounding, metronomic kicks that underpin tracks like \"Blind,\" \"Freak on a Leash,\" and \"Did My Time\" in live performance — work because they're steady and they drive. Less emphasis on maximum velocity, more emphasis on making every stroke feel the same.\n\n**Session-Player Adaptability:**\nOne of Luzier's most underappreciated qualities is his ability to play in different contexts without losing his fundamental feel. Whether Korn is making a dubstep-influenced record (*The Path of Totality*), a raw back-to-basics album (*Korn III*), or a darker atmospheric record (*Requiem*), Luzier adapts without becoming a different drummer. His core identity — powerful, groove-focused, consistent — remains intact across every stylistic shift.\n\n**Live Performance Intensity:**\nKorn is a notoriously powerful live band, and Luzier matches that energy set after set. His live playing carries more aggression than his studio work — a natural expansion of dynamics in response to arena crowds and the physical intensity of Korn's performances.",
+      "content": "Ray Luzier's drumming philosophy is rooted in a session musician's fundamental principle: serve the music, stay in the pocket, make the band sound better. Before Korn, he spent years in high-pressure session and touring contexts where the ability to adapt quickly, play consistently, and support the lead performer defined professional success. That background shaped every aspect of his playing.\n\n**The Groove Foundation:**\nKorn's music is built on groove — not technically complex groove, but the kind of deep, hypnotic pulse that grabs you and doesn't let go. Luzier's ability to lock with Fieldy's unconventional bass style (percussive, syncopated, often playing in a different rhythmic space than the guitar) is the skill that makes the modern Korn rhythm section work. He doesn't fight Fieldy; he creates space for the bass while anchoring the time feel that everything else hangs from.\n\n**Double-Kick Architecture:**\nLuzier's double-kick technique is the direct-drive DW 9002D in action: feel-driven, groove-oriented, built on consistency over raw speed. Korn's double-bass patterns — the pounding, metronomic kicks that underpin tracks like \"Blind,\" \"Freak on a Leash,\" and \"Did My Time\" in live performance — work because they're steady and they drive. Less emphasis on maximum velocity, more emphasis on making every stroke feel the same.\n\n**Session-Player Adaptability:**\nOne of Luzier's most underappreciated qualities is his ability to play in different contexts without losing his fundamental feel. Whether Korn is making a dubstep-influenced record (*The Path of Totality*), a raw back-to-basics album (*Korn III*), or a darker atmospheric record (*Requiem*), Luzier adapts without becoming a different drummer. His core identity — powerful, groove-focused, consistent — remains intact across every stylistic shift.\n\n**Live Performance Intensity:**\nKorn is a notoriously powerful live band, and Luzier matches that energy set after set. His live playing carries more aggression than his studio work — a natural expansion of dynamics in response to arena crowds and the physical intensity of Korn's performances.",
       "techniques": [
         {
           "name": "Pocket Groove",
@@ -1806,12 +1806,12 @@ export const articles = {
         {
           "category": "Pedals",
           "then": "Various chain-drive pedals",
-          "now": "Pearl Demon Drive (direct drive)"
+          "now": "DW 9002D (direct drive)"
         },
         {
           "category": "Sticks",
-          "then": "Various Promark models",
-          "now": "Promark TX420X Signature"
+          "then": "Various models",
+          "now": "Vic Firth Ray Luzier Signature"
         }
       ]
     },
@@ -1831,22 +1831,22 @@ export const articles = {
     ],
     "buyingGuide": {
       "title": "Getting the Luzier Sound: A Buyer's Guide",
-      "content": "Ray Luzier's rig centers on Pearl and Sabian — two brands that offer access points across every price range.\n\n**Budget Approach ($800–1,500):**\n- Pearl Export EXX or Roadshow kit — Pearl's entry-level shells with similar shell construction philosophy\n- Sabian B8X 14\" Hi-Hats + 16\" and 18\" Crashes — Sabian's affordable entry with similar bright voicing\n- Pearl P-2000C Eliminator chain-drive double pedal (starter Pearl double pedal)\n- Promark Hickory 5B American Classic sticks (similar feel to the TX420X)\n\n**Mid-Range Approach ($2,000–4,000):**\n- Pearl Session Studio Select maple kit — professional-level all-maple shells at mid-range price\n- Sabian AAX 14\" Stage Hi-Hats + 18\" and 19\" X-Plosion Crashes\n- Pearl Demon Drive double pedal (the key upgrade — direct drive changes feel significantly)\n- Pearl Reference snare (14\" x 5\" or 6.5\" brass for the Luzier crack)\n\n**Professional Approach ($5,000+):**\n- Pearl Masters Maple Complete shell pack (the actual Luzier kit)\n- Full Sabian AAX setup: Stage Hi-Hats, X-Plosion Crashes, Stage Ride, AAXtreme China\n- Pearl Demon Drive double pedal with full setup adjustment\n- Pearl Reference 14\" x 6.5\" Brass snare\n- Promark Ray Luzier Signature TX420X sticks",
+      "content": "Ray Luzier's rig centers on Pearl, Sabian, and DW — brands that offer access points across every price range.\n\n**Budget Approach ($800–1,500):**\n- Pearl Export EXX or Roadshow kit — Pearl's entry-level shells with similar shell construction philosophy\n- Sabian B8X 14\" Hi-Hats + 16\" and 18\" Crashes — Sabian's affordable entry with similar bright voicing\n- DW 5000 Series chain-drive double pedal (entry-level DW double pedal)\n- Vic Firth American Classic 5B sticks (similar feel to the Ray Luzier Signature)\n\n**Mid-Range Approach ($2,000–4,000):**\n- Pearl Session Studio Select maple kit — professional-level all-maple shells at mid-range price\n- Sabian AAX 14\" Stage Hi-Hats + 18\" and 19\" X-Plosion Crashes\n- DW 9002D double pedal (the key upgrade — direct drive changes feel significantly)\n- Pearl Reference snare (14\" x 5\" or 6.5\" brass for the Luzier crack)\n\n**Professional Approach ($5,000+):**\n- Pearl Masters Maple Complete shell pack (the actual Luzier kit)\n- Full Sabian AAX setup: Stage Hi-Hats, X-Plosion Crashes, Stage Ride, AAXtreme China\n- DW 9002D double pedal with full setup adjustment\n- Pearl Reference 14\" x 6.5\" Brass snare\n- Vic Firth Ray Luzier Signature sticks",
       "budgetTiers": [
         {
           "tier": "Budget",
           "range": "$800–1,500",
-          "notes": "Pearl Export + Sabian B8X hi-hats and crashes + Pearl chain-drive double pedal"
+          "notes": "Pearl Export + Sabian B8X hi-hats and crashes + DW chain-drive double pedal"
         },
         {
           "tier": "Mid-Range",
           "range": "$2,000–4,000",
-          "notes": "Session Studio Select + Sabian AAX crashes + Pearl Demon Drive"
+          "notes": "Session Studio Select + Sabian AAX crashes + DW 9002D"
         },
         {
           "tier": "Professional",
           "range": "$5,000+",
-          "notes": "Masters Maple Complete + full Sabian AAX + Reference brass snare + Demon Drive"
+          "notes": "Masters Maple Complete + full Sabian AAX + Reference brass snare + DW 9002D"
         }
       ]
     },
@@ -1861,11 +1861,11 @@ export const articles = {
       },
       {
         "question": "What pedals does Ray Luzier use?",
-        "answer": "Ray Luzier uses the Pearl Demon Drive double bass pedal. Unlike chain-drive or belt-drive pedals, the Demon Drive uses a direct-drive design — the footboard connects directly to the beater shaft with no intermediate mechanism. This provides immediate, 1:1 response that Luzier relies on for Korn's groove-oriented double-kick patterns, where feel and consistency are more important than maximum burst speed."
+        "answer": "Ray Luzier uses the DW 9002D direct-drive double bass pedal — the same pedal platform he switched to for Korn III (2010), carried over unchanged even as his drums and cymbals moved to Pearl and Sabian. Unlike chain-drive or belt-drive pedals, the 9002D uses a direct-drive design — the footboard connects directly to the beater shaft with no intermediate mechanism. This provides immediate, 1:1 response that Luzier relies on for Korn's groove-oriented double-kick patterns, where feel and consistency are more important than maximum burst speed."
       },
       {
         "question": "What drumsticks does Ray Luzier use?",
-        "answer": "Ray Luzier plays Promark Ray Luzier Signature TX420X drumsticks. The TX420X is a custom Promark model developed with Luzier for Korn's demanding live and studio contexts. It features a nylon tip for consistent, bright cymbal articulation and a taper balanced for power and control — enough mass to project through Korn's mix, with enough precision for nuanced groove work."
+        "answer": "Ray Luzier plays Vic Firth Ray Luzier Signature drumsticks. The signature model was developed with Luzier for Korn's demanding live and studio contexts. It features a nylon tip for consistent, bright cymbal articulation and a taper balanced for power and control — enough mass to project through Korn's mix, with enough precision for nuanced groove work."
       },
       {
         "question": "When did Ray Luzier join Korn?",
@@ -1874,7 +1874,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "The Modern Korn Rhythm Section",
-      "content": "Ray Luzier has now spent more time as Korn's drummer than David Silveria did. That fact alone tells you something about the fit: this isn't a temporary placeholder keeping a seat warm — Luzier IS Korn's drummer, as fully integrated into the band's identity as any founding member.\n\nHis Pearl Masters Maple Complete kit, Sabian AAX cymbals, and Pearl Demon Drive pedals represent gear choices built for one specific purpose: delivering Korn's music, night after night, in arenas around the world, with the groove and power that the band's audience demands.\n\nEvery piece of the Luzier rig reflects that priority:\n\n- **Pearl Masters Maple Complete**: All-maple production shells built for touring consistency and tonal focus\n- **Sabian AAX**: Bright, fast, aggressive — cymbals that cut through Korn's wall of sound and recover quickly for the next stroke\n- **Pearl Demon Drive**: Direct-drive response for groove-feel double-kick — consistency over speed\n- **Pearl Reference Brass Snare**: The crack that defines Korn's modern backbeat\n- **Promark TX420X**: A signature stick balancing power and precision for 120+ show world tours\n\nWhat makes Luzier exceptional isn't technical virtuosity, though he has it. It's his understanding of what Korn needs rhythmically — and his ability to deliver it with the reliability and professionalism that fifteen years in the band's most demanding role requires.\n\nFor deeper exploration:\n- **Full drummer profile**: [Ray Luzier at MetalForge](/drummer/ray-luzier)\n- **Joey Jordison profile**: [Joey Jordison — nu-metal's technical architect](/drummer/joey-jordison) — the drummer who defined Slipknot's extreme nu-metal approach\n- **Korn band profile**: [Korn at MetalForge](/bands/korn) — full lineup, drummer history, and discography\n\n🥁 *Pocket. Power. Every night.* 🤘"
+      "content": "Ray Luzier has now spent more time as Korn's drummer than David Silveria did. That fact alone tells you something about the fit: this isn't a temporary placeholder keeping a seat warm — Luzier IS Korn's drummer, as fully integrated into the band's identity as any founding member.\n\nHis Pearl Masters Maple Complete kit, Sabian AAX cymbals, and DW 9002D pedal represent gear choices built for one specific purpose: delivering Korn's music, night after night, in arenas around the world, with the groove and power that the band's audience demands.\n\nEvery piece of the Luzier rig reflects that priority:\n\n- **Pearl Masters Maple Complete**: All-maple production shells built for touring consistency and tonal focus\n- **Sabian AAX**: Bright, fast, aggressive — cymbals that cut through Korn's wall of sound and recover quickly for the next stroke\n- **DW 9002D**: Direct-drive response for groove-feel double-kick — consistency over speed\n- **Pearl Reference Brass Snare**: The crack that defines Korn's modern backbeat\n- **Vic Firth Ray Luzier Signature**: A signature stick balancing power and precision for 120+ show world tours\n\nWhat makes Luzier exceptional isn't technical virtuosity, though he has it. It's his understanding of what Korn needs rhythmically — and his ability to deliver it with the reliability and professionalism that fifteen years in the band's most demanding role requires.\n\nFor deeper exploration:\n- **Full drummer profile**: [Ray Luzier at MetalForge](/drummer/ray-luzier)\n- **Joey Jordison profile**: [Joey Jordison — nu-metal's technical architect](/drummer/joey-jordison) — the drummer who defined Slipknot's extreme nu-metal approach\n- **Korn band profile**: [Korn at MetalForge](/bands/korn) — full lineup, drummer history, and discography\n\n🥁 *Pocket. Power. Every night.* 🤘"
     }
   }
 };

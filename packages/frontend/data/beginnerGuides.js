@@ -868,7 +868,7 @@ This guide is specifically designed for beginners with a total budget around $1,
             id: 'dirk-verbeuren',
             name: 'Dirk Verbeuren',
             band: 'Megadeth / Soilwork',
-            signatureGear: 'Tama drums, Zildjian cymbals',
+            signatureGear: 'Tama drums, Meinl cymbals',
             whyStudy: 'Technical thrash, precision timing',
             link: '/drummer/dirk-verbeuren'
           }

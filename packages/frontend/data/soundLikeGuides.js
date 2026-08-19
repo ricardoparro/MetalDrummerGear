@@ -13106,7 +13106,7 @@ This guide breaks down the technique, gear, and practice approach behind Otto's 
     genre: 'Thrash Metal / Melodic Death Metal',
     priority: 50,
     title: "How to Sound Like Dirk Verbeuren: Complete Gear & Technique Guide",
-    description: "Master Dirk Verbeuren's versatile blast-and-groove hybrid style. Learn the Megadeth drummer's melodic death metal precision, thrash power, Tama Starclassic kit, and Zildjian A/K Custom cymbal setup behind his studio debut, The Sick, the Dying... and the Dead!",
+    description: "Master Dirk Verbeuren's versatile blast-and-groove hybrid style. Learn the Megadeth drummer's melodic death metal precision, thrash power, Tama Starclassic kit, and Meinl Byzance Brilliant & Classics Custom Dark cymbal setup behind his studio debut, The Sick, the Dying... and the Dead!",
     seoKeywords: ['dirk verbeuren drumming', 'how to sound like dirk verbeuren', 'megadeth drums', 'dirk verbeuren gear', 'dirk verbeuren technique', 'dirk verbeuren drum kit', 'soilwork drummer'],
     ogImage: '/images/guides/dirk-verbeuren-guide.webp',
     datePublished: '2026-07-01',
@@ -13120,12 +13120,12 @@ This guide breaks down the technique, gear, and practice approach behind Otto's 
 
 What makes Verbeuren's transition remarkable is how directly his melodic death metal background translates to thrash. Soilwork demanded technical precision, complex arrangements, and blast-beat stamina; Megadeth demands driving thrash grooves and tight, riff-locked aggression. Verbeuren brings both — a versatile hybrid player equally comfortable blasting at extreme tempo or locking into Dave Mustaine's mid-tempo gallops, succeeding a drum chair that already includes Nick Menza's classic power and Chris Adler's brief tenure.
 
-This guide breaks down the technique, gear, and practice approach behind Verbeuren's sound — from his Tama Starclassic kit and Zildjian A/K Custom cymbals to the blast-and-groove hybrid mechanics that define his modern Megadeth sound.`,
+This guide breaks down the technique, gear, and practice approach behind Verbeuren's sound — from his Tama Starclassic kit and Meinl Byzance Brilliant & Classics Custom Dark cymbals to the blast-and-groove hybrid mechanics that define his modern Megadeth sound.`,
       keyPoints: [
         "Megadeth drummer since 2016; studio debut \"The Sick, the Dying... and the Dead!\" (2022) — \"Dystopia\" (2016), which won the band's first Grammy, was recorded by Chris Adler before Verbeuren joined",
         "18 years with Swedish melodic death metal band Soilwork (1998-2016) before joining Megadeth",
         "Versatile blast-beat/groove hybrid style bridging technical death metal and thrash",
-        "Tama Starclassic kit and Zildjian A/K Custom cymbals define his current tone"
+        "Tama Starclassic kit and Meinl Byzance Brilliant & Classics Custom Dark cymbals define his current tone"
       ]
     },
     technique: {
@@ -13195,17 +13195,18 @@ This guide breaks down the technique, gear, and practice approach behind Verbeur
         alternative: "Any 14\" steel-shell snare tuned bright and medium-high will approximate the cut."
       },
       cymbals: {
-        brand: 'Zildjian',
-        series: 'Zildjian A Custom & K Custom Series',
+        brand: 'Meinl',
+        series: 'Meinl Byzance Brilliant & Classics Custom Dark Series',
         setup: [
-          { type: 'Hi-Hats', model: '14" A Custom Hi-Hats', notes: 'Fast, articulate response at extreme tempo' },
-          { type: 'Crash', model: '17" A Custom Crash', notes: 'Quick accent for riff transitions' },
-          { type: 'Crash', model: '18" A Custom Crash', notes: 'Fuller accent for section changes' },
-          { type: 'Crash', model: '19" A Custom Crash', notes: 'Explosive accent for climactic hits' },
-          { type: 'Ride', model: '21" K Custom Hybrid Ride', notes: 'Dark, complex tone for groove sections' },
-          { type: 'China', model: '18" K Custom China', notes: 'Aggressive accent for blast passages' }
+          { type: 'Hi-Hats', model: '14" Byzance Brilliant Hi-Hats', notes: 'Fast, controlled response at extreme tempo' },
+          { type: 'Crash', model: '18" Classics Custom Dark Crash', notes: 'Quick accent for riff transitions' },
+          { type: 'Crash', model: '19" Classics Custom Dark Crash', notes: 'Fuller accent for section changes' },
+          { type: 'Crash', model: '20" Classics Custom Dark Crash', notes: 'Explosive accent for climactic hits' },
+          { type: 'Crash', model: '21" Classics Custom Dark Crash', notes: 'Widest crash for the biggest accents' },
+          { type: 'Ride', model: '22" Byzance Brilliant Ride', notes: 'Clear definition through technical arrangements' },
+          { type: 'China', model: '18" Byzance Brilliant China', notes: 'Abrupt punctuation for blast passages' }
         ],
-        description: "The A Custom/K Custom blend gives Verbeuren bright, cutting crashes for thrash accents alongside a darker, more complex ride and china for groove-driven sections — matching his dual technical/groove role."
+        description: "The Byzance Brilliant/Classics Custom Dark blend gives Verbeuren crisp, controlled hi-hats and ride for technical passages alongside darker, layered crashes for groove-driven sections — matching his dual technical/groove role."
       },
       pedals: {
         brand: 'Tama',
@@ -13286,7 +13287,7 @@ This guide breaks down the technique, gear, and practice approach behind Verbeur
         price: "$1,050",
         label: "Starter Setup",
         kit: "Pearl Export ($750)",
-        cymbals: "Zildjian ZBT hi-hats + crash ($180)",
+        cymbals: "Meinl HCS Pack ($200)",
         pedals: "DW 3000 Double Pedal ($150)",
         sticks: "Vic Firth 5B ($10)",
         notes: "Pearl's articulate maple shells approximate the Starclassic's attack-focused character."
@@ -13295,7 +13296,7 @@ This guide breaks down the technique, gear, and practice approach behind Verbeur
         price: "$3,300",
         label: "Intermediate Setup",
         kit: "Tama Imperialstar ($1,900)",
-        cymbals: "Zildjian A Custom partial setup ($1,050)",
+        cymbals: "Meinl Classics Custom Dark partial set ($1,050)",
         pedals: "Tama Speed Cobra Double Pedal ($350)",
         sticks: "Promark Shira Kashi Oak 5B ($10)",
         notes: "The Speed Cobra pedal upgrade is key — it's the exact model behind Verbeuren's double bass precision."
@@ -13304,7 +13305,7 @@ This guide breaks down the technique, gear, and practice approach behind Verbeur
         price: "$6,000+",
         label: "Professional Setup",
         kit: "Tama Starclassic Walnut/Birch ($3,400+)",
-        cymbals: "Full Zildjian A/K Custom selection ($1,900+)",
+        cymbals: "Full Meinl Byzance Brilliant & Classics Custom Dark selection ($1,900+)",
         pedals: "Tama Speed Cobra 910 Double Pedal ($700)",
         heads: "Full Evans setup ($350)",
         notes: "Touring-ready setup matching Verbeuren's current Megadeth rig."
@@ -13317,7 +13318,7 @@ This guide breaks down the technique, gear, and practice approach behind Verbeur
       },
       {
         question: "What gear should I use to sound like Dirk Verbeuren?",
-        answer: "Verbeuren plays a Tama Starclassic Walnut/Birch kit with a double 22\" x 18\" bass drum configuration, a 14\" x 6.5\" Tama S.L.P. Big Black Steel snare, Zildjian A Custom and K Custom cymbals, a Tama Speed Cobra 910 double pedal, and Promark Shira Kashi Oak 5B sticks. A Pearl Export kit with Zildjian ZBT cymbals approximates the attack-focused character on a budget."
+        answer: "Verbeuren plays a Tama Starclassic Walnut/Birch kit with a double 22\" x 18\" bass drum configuration, a 14\" x 6.5\" Tama S.L.P. Big Black Steel snare, Meinl Byzance Brilliant & Classics Custom Dark cymbals, a Tama Speed Cobra 910 double pedal, and Promark Shira Kashi Oak 5B sticks. A Pearl Export kit with Meinl HCS cymbals approximates the attack-focused character on a budget."
       },
       {
         question: "What tempo should I practice at to sound like Dirk Verbeuren?",
@@ -13336,7 +13337,7 @@ This guide breaks down the technique, gear, and practice approach behind Verbeur
       drummerProfile: '/drummer/dirk-verbeuren',
       similarDrummers: ['Nick Menza', 'Gene Hoglan'],
       relatedGuides: ['how-to-sound-like-nick-menza', 'how-to-sound-like-gene-hoglan'],
-      gearPages: ['/gear/drums', '/brands/tama', '/brands/zildjian']
+      gearPages: ['/gear/drums', '/brands/tama', '/brands/meinl']
     },
     licksUrl: '/drummers/dirk-verbeuren/licks',
     relatedArticles: [

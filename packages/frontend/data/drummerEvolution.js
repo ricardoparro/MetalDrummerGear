@@ -1185,34 +1185,34 @@ export const DRUMMER_EVOLUTION = {
 
         gear: {
           drums: {
-            item: 'DW Collector\'s Series',
-            details: 'Maple shells: 22" kick, 8"/10"/12"/14"/16" toms (streamlined)',
-            notes: 'Moved to DW for more tonal flexibility; smaller kit for Winery Dogs power-trio context.',
-            change: CHANGE_TYPES.SWITCH,
+            item: 'Tama Starclassic Maple + Starclassic Bubinga ("Dream Monster" dual kit)',
+            details: 'Dual side-by-side Starclassic shell kit',
+            notes: 'Tama endorser since the 1990s; long-standing dual-kit setup carried across all post-DT projects.',
+            change: null,
           },
           snare: {
-            item: 'DW Edge Maple 14"×6.5"',
-            details: 'Maple with VLT shell',
-            notes: 'Warm, punchy DW snare suited to the Winery Dogs groove-oriented style.',
-            change: CHANGE_TYPES.SWITCH,
+            item: 'Tama Mike Portnoy Signature Melody Master 14"×5.5"',
+            details: 'Signature Melody Master model',
+            notes: 'Consistent Tama signature snare across all post-DT projects.',
+            change: null,
           },
           cymbals: {
-            item: 'Zildjian A Custom / Mike Portnoy Signature',
-            details: '14" hi-hats, 17"/18"/19" crashes, 21" ride, China',
-            notes: 'Maintained Zildjian relationship across all projects.',
+            item: 'Sabian HHX MAX / AAX MAXX Series',
+            details: '22" HHX MAX Ride, X-Plosion crashes, O-Zone crash, HHX/Paragon Chinas, AAX MAXX splashes, AA MAX chimes',
+            notes: 'Maintained Sabian relationship across all projects.',
             change: null,
           },
           hardware: {
-            item: 'DW 9000 Double Pedal',
-            details: 'Twin-chain drive',
-            notes: 'Switched pedals to match DW kit.',
-            change: CHANGE_TYPES.SWITCH,
+            item: 'Tama Iron Cobra Power Glide Twin Pedal (HP900PSW)',
+            details: 'Twin pedal, Tama hardware',
+            notes: 'Long-standing Tama hardware endorsement.',
+            change: null,
           },
           sticks: {
-            item: 'Vic Firth Mike Portnoy Signature',
-            details: 'Hickory with nylon tip',
-            notes: 'Moved signature stick deal from Pro-Mark to Vic Firth.',
-            change: CHANGE_TYPES.SWITCH,
+            item: 'Promark Mike Portnoy Signature TX420N',
+            details: 'Hickory signature model',
+            notes: 'Consistent Pro-Mark signature stick deal across all post-DT projects.',
+            change: null,
           },
           heads: {
             item: 'Evans G2 / EMAD2',
@@ -1235,14 +1235,13 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
-          'Switched to DW Collector\'s Series',
-          'Vic Firth signature stick deal',
+          'Continued long-standing Tama/Sabian/Promark rig across all post-DT projects',
           'Streamlined kit for power-trio context',
           'Rejoined Dream Theater in 2023',
         ],
 
         quote: {
-          text: "With the Winery Dogs I didn't need a 12-tom monster. The music called for feel and groove. DW gave me that without sacrificing power.",
+          text: "With the Winery Dogs I didn't need a 12-tom monster. The music called for feel and groove.",
           source: 'Drum! Magazine, 2013',
         },
 
@@ -1251,7 +1250,7 @@ export const DRUMMER_EVOLUTION = {
     ],
 
     metaTitle: 'Mike Portnoy Gear Evolution Timeline | Dream Theater Drum Kit History',
-    metaDescription: 'Explore Mike Portnoy\'s complete drum gear evolution from Images & Words to the Winery Dogs era. Tama to DW — every kit, every era documented.',
+    metaDescription: 'Explore Mike Portnoy\'s complete drum gear evolution from Images & Words to the Winery Dogs era. Tama and Sabian throughout — every kit, every era documented.',
   },
 
   // ==========================================

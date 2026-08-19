@@ -13837,45 +13837,45 @@ export const DRUMMER_EVOLUTION = {
       },
 
       {
-        id: 'scott-travis-2018-tama-starclassic',
-        era: 'Tama Starclassic / Firepower Era',
+        id: 'scott-travis-2018-ddrum-firepower',
+        era: 'ddrum / Firepower Era',
         years: '2018–Present',
         startYear: 2018,
         endYear: 2026,
-        description: 'Firepower (2018) marked Travis\'s thirty-year anniversary with Priest and his return to Tama, this time on the maple-shelled Starclassic — a deliberate tonal shift from the hybrid Pearl Reference toward a warmer, fuller body suited to producers Andy Sneap and Tom Allom\'s layered, contemporary-classic guitar sound. The bass drums deepened again, to 22"x18", while Travis kept his career-long independent double-kick approach rather than a linked pedal. The same Starclassic Maple platform carries him through Invincible Shield (2024), Priest\'s most recent studio statement and proof that thirty-five-plus years in, his engine room still sets the pace for modern speed metal drumming.',
+        description: 'Firepower (2018) marked Travis\'s thirty-year anniversary with Priest, with his setup built around a ddrum Dominion Series shell pack and a ddrum Scott Travis Signature snare designed to his own specifications for the explosive crack needed to cut through Priest\'s dual-guitar attack. Paiste RUDE and 2002 Series cymbals deliver aggressive, arena-cutting projection, driven by a DW 9000 Series Double Pedal mounted on a Gibraltar rack for speed and control across world tours. The same platform carries him through Invincible Shield (2024), Priest\'s most recent studio statement and proof that thirty-five-plus years in, his engine room still sets the pace for modern speed metal drumming.',
         albums: ['Firepower (2018)', 'Invincible Shield (2024)'],
         tours: ['Firepower World Tour 2018', 'Invincible Shield Tour 2024–2025'],
         image: null,
 
         gear: {
           drums: {
-            item: 'Tama Starclassic Maple',
-            details: 'Piano Black finish, 6-ply maple shells; 22"x18" bass drums (x2), 10"x8"/12"x9" rack toms, 14"x14"/16"x16" floor toms',
-            notes: 'Returned to Tama after roughly a decade and a half on Pearl. Maple\'s warmer, fuller body suits Sneap and Allom\'s broader, layered guitar arrangements better than the Artstar II birch ever could.',
+            item: 'ddrum Dominion Series',
+            details: 'Dominion Series shell pack',
+            notes: 'ddrum shell pack built for cut through Judas Priest\'s dual-guitar attack.',
             change: CHANGE_TYPES.SWITCH,
           },
           snare: {
-            item: 'Tama Starphonic Brass 14"x6"',
-            details: 'Brass shell, die-cast hoops',
-            notes: 'A modern, focused brass snare delivering the high-frequency cut Travis has favored throughout his career, positioned aggressively forward in Sneap\'s mix.',
+            item: 'ddrum Scott Travis Signature 14"x6.5"',
+            details: 'Signature snare designed to his own specifications',
+            notes: 'A purpose-built signature snare delivering the explosive crack that cuts through Priest\'s dual-guitar attack.',
             change: CHANGE_TYPES.SWITCH,
           },
           cymbals: {
-            item: 'Sabian HHX Series',
-            details: '14" Stage Hi-Hats, 16"/18"/19" Evolution Crashes, 21" Groove Ride, 18" Chinese',
-            notes: 'Completed the transition to full HHX begun on Redeemer of Souls — brighter, more cutting than the earlier HH/AA hybrid.',
-            change: CHANGE_TYPES.UPGRADE,
+            item: 'Paiste RUDE and 2002 Series',
+            details: '14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 22" RUDE Power Ride, 18" RUDE China',
+            notes: 'Paiste RUDE cymbals for aggressive, arena-cutting projection.',
+            change: CHANGE_TYPES.SWITCH,
           },
           hardware: {
-            item: 'Tama Speed Cobra HP910LSW (x2 independent pedals)',
-            details: 'Tama Speed Cobra Hi-Hat Stand HH915D, Tama 1st Chair Round Rider HT530B',
-            notes: 'Two independent Speed Cobra pedals — still no double pedal — preserving the foot independence that has defined his playing since the 1980s.',
+            item: 'DW 9000 Series Double Pedal on a Gibraltar rack',
+            details: 'DW 9000 Series Double Pedal, Gibraltar Rack System',
+            notes: 'DW 9000 Series double pedal for speed and control on world tours.',
             change: CHANGE_TYPES.SWITCH,
           },
           sticks: {
-            item: 'Vater Power 5B',
-            details: 'Signature-adjacent hickory model',
-            notes: 'Moved to Vater\'s Power 5B for Firepower and beyond.',
+            item: 'Vic Firth American Classic 5B',
+            details: 'Signature hickory model',
+            notes: 'Long-time Vic Firth endorser, carrying the American Classic 5B through Firepower and beyond.',
             change: CHANGE_TYPES.SWITCH,
           },
           heads: {
@@ -13894,10 +13894,10 @@ export const DRUMMER_EVOLUTION = {
 
         keyChanges: [
           'Firepower (2018) — Travis\'s thirty-year anniversary album with Judas Priest',
-          'Returned to Tama after roughly fifteen years on Pearl, switching to maple Starclassic shells',
-          'Bass drums deepened to 22"x18", two inches deeper than the Painkiller-era 22"x16"',
-          'Invincible Shield (2024) — Priest\'s most recent studio album, same Starclassic Maple platform',
-          'Completed the cymbal transition to full Sabian HHX',
+          'Setup built around a ddrum Dominion Series shell pack and ddrum Scott Travis Signature snare',
+          'Paiste RUDE and 2002 Series cymbals for aggressive, arena-cutting projection',
+          'Invincible Shield (2024) — Priest\'s most recent studio album, same ddrum/Paiste platform',
+          'DW 9000 Series Double Pedal on a Gibraltar rack drives his double bass technique',
         ],
 
         quote: {
@@ -13916,11 +13916,11 @@ export const DRUMMER_EVOLUTION = {
       },
       {
         q: 'What drums does Scott Travis play now?',
-        a: 'Scott Travis currently plays a Tama Starclassic Maple kit, paired with Sabian HHX cymbals and a Tama Starphonic Brass snare. He returned to Tama for Firepower (2018) after roughly fifteen years on Pearl\'s Reference Series, and has carried the same Starclassic Maple setup through Invincible Shield (2024).',
+        a: 'Scott Travis currently plays a ddrum Dominion Series kit, paired with Paiste RUDE and 2002 Series cymbals and a ddrum Scott Travis Signature 14"x6.5" snare. His setup has been built around ddrum, Paiste, DW, and Vic Firth since Firepower (2018), and has carried through Invincible Shield (2024).',
       },
       {
         q: 'Did Scott Travis always play a double bass pedal?',
-        a: 'No — Travis has always run two independently pedaled bass drums rather than a linked double pedal, from the Tama Iron Cobra HP900 on Painkiller through the Pearl Demon Drive era to the current Tama Speed Cobra HP910LSW. That foot independence has been a constant throughout his 35-plus year career.',
+        a: 'No — Travis has always run two independently pedaled bass drums rather than a linked double pedal, from the Tama Iron Cobra HP900 on Painkiller through the Pearl Demon Drive era, before moving to a DW 9000 Series Double Pedal on a Gibraltar rack for Firepower (2018) and beyond. That foot independence has been a constant throughout his 35-plus year career.',
       },
       {
         q: 'What gear did Scott Travis use on Nostradamus and Angel of Retribution?',
@@ -13928,12 +13928,12 @@ export const DRUMMER_EVOLUTION = {
       },
       {
         q: 'How has Scott Travis\'s cymbal setup changed over his career?',
-        a: 'Travis started on Paiste Signature/2002 cymbals during the Painkiller era (1989–2000), switched to Sabian when he moved to Pearl drums in the 2000s (an HH/AA hybrid on Angel of Retribution and Nostradamus), and completed the transition to full Sabian HHX by Redeemer of Souls (2014) and Firepower (2018).',
+        a: 'Travis started on Paiste Signature/2002 cymbals during the Painkiller era (1989–2000), switched to Sabian when he moved to Pearl drums in the 2000s (an HH/AA hybrid on Angel of Retribution and Nostradamus, transitioning to Sabian HHX by Redeemer of Souls in 2014), then returned to Paiste — RUDE and 2002 Series — as part of the ddrum/Paiste/DW/Vic Firth setup he adopted for Firepower (2018).',
       },
     ],
 
     metaTitle: 'Scott Travis Gear Evolution Timeline | Judas Priest Drum Kit History',
-    metaDescription: 'Explore Scott Travis\'s complete drum gear evolution: Tama Artstar II on Painkiller (1990) → Pearl Reference Series across Angel of Retribution, Nostradamus, and Redeemer of Souls → Tama Starclassic Maple on Firepower (2018) and Invincible Shield (2024). 35-plus years with Judas Priest, era by era.',
+    metaDescription: 'Explore Scott Travis\'s complete drum gear evolution: Tama Artstar II on Painkiller (1990) → Pearl Reference Series across Angel of Retribution, Nostradamus, and Redeemer of Souls → ddrum/Paiste/DW/Vic Firth setup on Firepower (2018) and Invincible Shield (2024). 35-plus years with Judas Priest, era by era.',
   },
 
   // ==========================================

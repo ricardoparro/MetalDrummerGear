@@ -16,21 +16,21 @@ export const articles = {
     "dateModified": "2026-06-19",
     "author": "MetalForge Editorial",
     "title": "Paul Mazurkiewicz Drum Setup — Cannibal Corpse Gear Guide",
-    "description": "Paul Mazurkiewicz's Pearl Reference kit, Meinl cymbals, and Pearl Eliminator double bass pedals — the rig behind Cannibal Corpse's 2M+ album sales. Complete death metal drum setup breakdown.",
+    "description": "Paul Mazurkiewicz's Pearl Reference kit, Sabian AAX cymbals, and Pearl Eliminator double bass pedals — the rig behind Cannibal Corpse's 2M+ album sales. Complete death metal drum setup breakdown.",
     "seoKeywords": [
       "paul mazurkiewicz drum setup",
       "cannibal corpse drummer gear",
       "paul mazurkiewicz kit",
       "death metal drummer setup cannibal corpse",
       "paul mazurkiewicz pearl drums",
-      "paul mazurkiewicz meinl cymbals",
+      "paul mazurkiewicz sabian cymbals",
       "paul mazurkiewicz blast beat",
       "cannibal corpse drum kit"
     ],
     "ogImage": "/images/drummers/paul-mazurkiewicz.webp",
     "quickFacts": {
       "kit": "Pearl Reference",
-      "cymbals": "Meinl",
+      "cymbals": "Sabian",
       "doublePedals": "Pearl Eliminator Double Bass Pedal",
       "sticks": "Vic Firth Paul Mazurkiewicz Signature",
       "triggers": "ddrum triggers (live)",
@@ -39,11 +39,11 @@ export const articles = {
     },
     "intro": {
       "title": "Death Metal's Most Consistent Drummer: Paul Mazurkiewicz",
-      "content": "Paul Mazurkiewicz uses a Pearl Reference kit as Cannibal Corpse's drummer since 1988. His setup is optimized for extreme death metal blast beats at 180–250 BPM, and it has powered the best-selling death metal band of all time through more than two million album sales across three decades of brutal, technically uncompromising music.\n\nMazurkiewicz (born September 8, 1970) co-founded Cannibal Corpse in Buffalo, New York in 1988 alongside guitarist Bob Rusay, bassist Alex Webster, and vocalist Chris Barnes. From the band's debut, Eaten Back to Life (1990), through Violence Unimagined (2021) and beyond, he has remained the rhythmic foundation of a band that has never slowed down, never softened, and never compromised on the density and ferocity of its death metal attack.\n\nWhat distinguishes Mazurkiewicz's playing from other death metal drummers is his brutal consistency. In a genre populated by drummers who approach blast beats as a speed competition, Mazurkiewicz treats them as a compositional tool — the engine that drives songs forward with menacing weight rather than merely demonstrating how fast a foot can move. His double-bass technique has been described as \"locomotive\" — relentless, powerful, and absolutely locked to the grid.\n\nHis Pearl Reference kit, Meinl cymbal selection, and Pearl Eliminator double bass pedals have remained consistent across Cannibal Corpse's most important recent recordings. This article breaks down every major component, explains how the gear supports the blast beat technique that defines the Cannibal Corpse sound, and traces the gear evolution from Eaten Back to Life through Violence Unimagined.",
+      "content": "Paul Mazurkiewicz uses a Pearl Reference kit as Cannibal Corpse's drummer since 1988. His setup is optimized for extreme death metal blast beats at 180–250 BPM, and it has powered the best-selling death metal band of all time through more than two million album sales across three decades of brutal, technically uncompromising music.\n\nMazurkiewicz (born September 8, 1970) co-founded Cannibal Corpse in Buffalo, New York in 1988 alongside guitarist Bob Rusay, bassist Alex Webster, and vocalist Chris Barnes. From the band's debut, Eaten Back to Life (1990), through Violence Unimagined (2021) and beyond, he has remained the rhythmic foundation of a band that has never slowed down, never softened, and never compromised on the density and ferocity of its death metal attack.\n\nWhat distinguishes Mazurkiewicz's playing from other death metal drummers is his brutal consistency. In a genre populated by drummers who approach blast beats as a speed competition, Mazurkiewicz treats them as a compositional tool — the engine that drives songs forward with menacing weight rather than merely demonstrating how fast a foot can move. His double-bass technique has been described as \"locomotive\" — relentless, powerful, and absolutely locked to the grid.\n\nHis Pearl Reference kit, Sabian AAX cymbal selection, and Pearl Eliminator double bass pedals have remained consistent across Cannibal Corpse's most important recent recordings. This article breaks down every major component, explains how the gear supports the blast beat technique that defines the Cannibal Corpse sound, and traces the gear evolution from Eaten Back to Life through Violence Unimagined.",
       "keyPoints": [
         "Co-founding member of Cannibal Corpse — active since 1988, 35+ years of death metal",
         "Pearl Reference kit — Pearl drums endorsee with double-bass configuration",
-        "Meinl cymbals throughout key career periods",
+        "Sabian AAX cymbals throughout key career periods",
         "Pearl Eliminator double bass pedal — the foot engine for 180–250 BPM blast beats",
         "Vic Firth signature sticks — custom-spec for death metal power demands",
         "ddrum electronic triggers used live for consistent kick drum articulation"
@@ -89,43 +89,43 @@ export const articles = {
       "estimatedValue": "$400–700 (Pearl Free-Floating steel model)"
     },
     "cymbals": {
-      "title": "Meinl: Aggressive, Fast, Purpose-Built for Death Metal",
-      "brand": "Meinl",
-      "series": "Meinl Classics Custom / Byzance series",
+      "title": "Sabian AAX: Aggressive, Fast, Purpose-Built for Death Metal",
+      "brand": "Sabian",
+      "series": "Sabian AAX Series",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Meinl 14\" Hi-Hats",
+          "model": "Sabian AAX 14\" Stage Hi-Hats",
           "position": "Left side",
           "notes": "Fast, aggressive response for rapid hi-hat patterns at extreme blast beat tempos"
         },
         {
           "type": "Crash",
-          "model": "Meinl 16\" Crash",
+          "model": "Sabian AAX 18\" X-Plosion Crash",
           "position": "Left crash",
           "notes": "Quick, explosive crash for accent work in blast beat passages"
         },
         {
           "type": "Crash",
-          "model": "Meinl 18\" Crash",
+          "model": "Sabian AAX 19\" X-Plosion Crash",
           "position": "Right crash",
           "notes": "Fuller crash for section-ending explosions and dynamic peaks"
         },
         {
           "type": "Ride",
-          "model": "Meinl 20\" Ride",
+          "model": "Sabian AAX 21\" Raw Bell Dry Ride",
           "position": "Right",
           "notes": "Clear, articulate bell for ride patterns between blast sections"
         },
         {
           "type": "China",
-          "model": "Meinl 18\" China",
+          "model": "Sabian AAXtreme 18\" China",
           "position": "Over rack toms",
           "notes": "Aggressive, upward-cutting trash accent — used for the most intense moments"
         }
       ],
-      "description": "Paul Mazurkiewicz's Meinl cymbal setup is built around the demands of death metal production: cymbals that speak clearly and decay quickly in dense, compressed sonic environments. Meinl's manufacturing process — hand-hammered, lathed bronze alloys — produces instruments with focused, aggressive voices that project over down-tuned guitars without blurring into wash.\n\nThe 14\" hi-hats are Mazurkiewicz's rhythmic backbone. In blast beat passages, the hi-hats and ride cymbals define the fast sixteenth-note pulse that sits over the alternating kick-snare pattern. Cymbals with slow decay would blur this pulse into an undifferentiated wash at extreme tempos; Meinl's design choices prioritize the fast attack and controlled decay that death metal performance demands.\n\nHis crash setup covers two primary accent demands. The 16\" responds fast and sharp for accenting riff changes and fill-endings at high tempos. The 18\" provides the fuller crash for structural moments — section boundaries, build peaks, climactic passages in songs like \"Evisceration Plague\" and \"Make Them Suffer.\"\n\nThe china cymbal is used selectively but to maximum effect: its upward-cutting, aggressive character provides sonic punctuation that standard crashes cannot match. In Cannibal Corpse's most intense passages, the china punctuates the brutality with a trashy, violent accent that reinforces the music's character.",
-      "estimatedValue": "$1,200–2,000 (full Meinl setup)"
+      "description": "Paul Mazurkiewicz's Sabian AAX cymbal setup is built around the demands of death metal production: cymbals that speak clearly and decay quickly in dense, compressed sonic environments. Sabian's AAX manufacturing process — hand-hammered, computer-optimized B20 bronze — produces instruments with focused, aggressive voices that project over down-tuned guitars without blurring into wash.\n\nThe 14\" hi-hats are Mazurkiewicz's rhythmic backbone. In blast beat passages, the hi-hats and ride cymbals define the fast sixteenth-note pulse that sits over the alternating kick-snare pattern. Cymbals with slow decay would blur this pulse into an undifferentiated wash at extreme tempos; Sabian's AAX design choices prioritize the fast attack and controlled decay that death metal performance demands.\n\nHis crash setup covers two primary accent demands. The 18\" X-Plosion responds fast and sharp for accenting riff changes and fill-endings at high tempos. The 19\" X-Plosion provides the fuller crash for structural moments — section boundaries, build peaks, climactic passages in songs like \"Evisceration Plague\" and \"Make Them Suffer.\"\n\nThe china cymbal is used selectively but to maximum effect: its upward-cutting, aggressive character provides sonic punctuation that standard crashes cannot match. In Cannibal Corpse's most intense passages, the china punctuates the brutality with a trashy, violent accent that reinforces the music's character.",
+      "estimatedValue": "$1,200–2,000 (full Sabian AAX setup)"
     },
     "hardware": {
       "title": "Pearl Eliminator: The Foot Engine for 200+ BPM",
@@ -195,7 +195,7 @@ export const articles = {
         "gear": {
           "drums": "Pearl kits — developing endorsement relationship through the early Morrisound era",
           "snare": "Pearl models tuned bright for Scott Burns' Morrisound production context",
-          "cymbals": "Various setups developing toward later Meinl endorsement",
+          "cymbals": "Various setups developing toward later Sabian endorsement",
           "hardware": "Double bass pedal configuration — establishing the locomotive blast beat approach"
         },
         "notes": "Scott Burns produced the early Cannibal Corpse albums at Morrisound Recording in Tampa, FL — the same studio that captured Death, Obituary, and Deicide. The Morrisound house sound (aggressive, compressed, bright snare) became the defining death metal production aesthetic, and Mazurkiewicz's playing was central to establishing it."
@@ -214,7 +214,7 @@ export const articles = {
         "gear": {
           "drums": "Pearl Reference (solidifying as primary kit)",
           "snare": "Pearl Free-Floating steel model",
-          "cymbals": "Meinl (developing endorsement)",
+          "cymbals": "Sabian (developing endorsement)",
           "hardware": "Pearl Eliminator double bass pedal, ddrum triggers in live context"
         },
         "notes": "This era documents Mazurkiewicz consolidating the gear relationships that define his modern setup. The George \"Corpsegrinder\" Fisher lineup (replacing Chris Barnes in 1995) pushed the band's sound toward greater technical precision — a context that suited Mazurkiewicz's increasingly locked-in, locomotive approach."
@@ -231,7 +231,7 @@ export const articles = {
         "gear": {
           "drums": "Pearl Reference (fully established configuration)",
           "snare": "Pearl Free-Floating steel, 14\" x 6.5\"",
-          "cymbals": "Full Meinl setup",
+          "cymbals": "Full Sabian AAX setup",
           "hardware": "Pearl Eliminator double bass pedal, ddrum triggers, Vic Firth signature sticks"
         },
         "notes": "Kill (2006) is widely cited as one of Cannibal Corpse's strongest albums. Producer Erik Rutan (ex-Morbid Angel, Hate Eternal) captured Mazurkiewicz's blast beats with production clarity that matched the precision of his playing. \"Make Them Suffer\" and \"Death Walking Terror\" stand as definitive documents of his locomotive blast beat approach."
@@ -248,7 +248,7 @@ export const articles = {
         "gear": {
           "drums": "Pearl Reference (current full configuration)",
           "snare": "Pearl Free-Floating steel, 14\" x 6.5\"",
-          "cymbals": "Full Meinl setup (Classics Custom and Byzance series)",
+          "cymbals": "Full Sabian AAX setup",
           "hardware": "Pearl Eliminator double bass, ddrum triggers, Vic Firth Paul Mazurkiewicz Signature sticks"
         },
         "notes": "Violence Unimagined (2021) introduced guitarist Erik Rutan as a full band member, and also documented Paul Mazurkiewicz at 33 years into his Cannibal Corpse tenure — still playing blast beats with the same authority and weight as the Eaten Back to Life recordings. The gear evolution from 1990 to 2021 shows refinement rather than reinvention."
@@ -268,22 +268,22 @@ export const articles = {
     ],
     "buyingGuide": {
       "title": "Getting the Mazurkiewicz Sound: A Buyer's Guide",
-      "content": "Matching Paul Mazurkiewicz's rig requires Pearl-level investment, but you can capture elements of his approach at multiple price points.\n\n**Budget Approach ($800–2,000):**\n- Pearl Export EXX kit — Pearl's entry-level production shell\n- Meinl HCS or MCS series cymbals — affordable Meinl entry point\n- Pearl P-2002C PowerShifter Eliminator single or double pedal\n- Vic Firth American Classic 5B sticks (closest available to the Mazurkiewicz signature weight)\n\n**Mid-Range Approach ($2,500–5,000):**\n- Pearl Session Studio Select or Decade Maple Pro\n- Meinl Classics Custom cymbal series — the affordable line under the Byzance range\n- Pearl Eliminator Redline double bass pedal (the key upgrade)\n- Remo Powerstroke 3 bass drum heads for kick articulation\n\n**Professional Approach ($6,000+):**\n- Pearl Reference shell pack (double bass drum configuration, 22\" x 18\")\n- Full Meinl Byzance setup: 14\" hi-hats, 16\" and 18\" crashes, 20\" ride, 18\" china\n- Pearl Eliminator double bass pedal (interchangeable cam set)\n- Pearl Free-Floating snare 14\"x6.5\" steel\n- ddrum acoustic triggers on bass drums for live consistency",
+      "content": "Matching Paul Mazurkiewicz's rig requires Pearl-level investment, but you can capture elements of his approach at multiple price points.\n\n**Budget Approach ($800–2,000):**\n- Pearl Export EXX kit — Pearl's entry-level production shell\n- Sabian B8 or XSR series cymbals — affordable Sabian entry point\n- Pearl P-2002C PowerShifter Eliminator single or double pedal\n- Vic Firth American Classic 5B sticks (closest available to the Mazurkiewicz signature weight)\n\n**Mid-Range Approach ($2,500–5,000):**\n- Pearl Session Studio Select or Decade Maple Pro\n- Sabian AA cymbal series — the affordable line under the AAX range\n- Pearl Eliminator Redline double bass pedal (the key upgrade)\n- Remo Powerstroke 3 bass drum heads for kick articulation\n\n**Professional Approach ($6,000+):**\n- Pearl Reference shell pack (double bass drum configuration, 22\" x 18\")\n- Full Sabian AAX setup: 14\" hi-hats, 18\" and 19\" crashes, 21\" ride, 18\" china\n- Pearl Eliminator double bass pedal (interchangeable cam set)\n- Pearl Free-Floating snare 14\"x6.5\" steel\n- ddrum acoustic triggers on bass drums for live consistency",
       "budgetTiers": [
         {
           "tier": "Budget",
           "range": "$800–2,000",
-          "notes": "Pearl Export + Meinl HCS + Pearl Eliminator entry + Vic Firth 5B"
+          "notes": "Pearl Export + Sabian B8 + Pearl Eliminator entry + Vic Firth 5B"
         },
         {
           "tier": "Mid-Range",
           "range": "$2,500–5,000",
-          "notes": "Session Studio + Meinl Classics Custom + Pearl Eliminator Redline"
+          "notes": "Session Studio + Sabian AA + Pearl Eliminator Redline"
         },
         {
           "tier": "Professional",
           "range": "$6,000+",
-          "notes": "Reference shell pack (double kick) + full Meinl Byzance + ddrum triggers"
+          "notes": "Reference shell pack (double kick) + full Sabian AAX + ddrum triggers"
         }
       ]
     },
@@ -302,7 +302,7 @@ export const articles = {
       },
       {
         "question": "What cymbals does Paul Mazurkiewicz use?",
-        "answer": "Paul Mazurkiewicz plays Meinl cymbals. His setup includes Meinl 14\" hi-hats, 16\" and 18\" crashes, a 20\" ride, and an 18\" china cymbal. Meinl's hand-hammered bronze construction produces focused, aggressive voices with fast attack and controlled decay — essential in death metal production contexts where cymbals need to speak clearly through dense, down-tuned guitar frequencies without creating excess wash that blurs the rhythmic density of blast beat sections."
+        "answer": "Paul Mazurkiewicz plays Sabian AAX cymbals. His setup includes Sabian AAX 14\" Stage Hi-Hats, 18\" and 19\" X-Plosion crashes, a 21\" Raw Bell Dry Ride, and an 18\" AAXtreme china cymbal. Sabian's AAX Series construction produces focused, aggressive voices with fast attack and controlled decay — essential in death metal production contexts where cymbals need to speak clearly through dense, down-tuned guitar frequencies without creating excess wash that blurs the rhythmic density of blast beat sections."
       },
       {
         "question": "How long has Paul Mazurkiewicz been Cannibal Corpse's drummer?",
@@ -322,7 +322,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "Cannibal Corpse's Rhythmic Backbone: 35 Years of Brutality",
-      "content": "Paul Mazurkiewicz has spent 35+ years proving that death metal doesn't require reinvention to remain relevant — it requires commitment to the foundational values that made the genre powerful in the first place: brutality, precision, and uncompromising weight.\n\nHis gear reflects that philosophy at every level:\n\n- **Pearl Reference**: A flagship production shell that rewards the consistency and physical demands he brings to every performance across hundreds of shows per year\n- **Meinl Cymbals**: Fast-attacking, controlled-decay instruments built for death metal's dense, compressed sonic environments\n- **Pearl Eliminator Double Bass**: Interchangeable cam engineering supporting the 180–250 BPM blast beat range that defines the Cannibal Corpse sound\n- **Pearl Free-Floating Snare**: Open, explosive crack that cuts through down-tuned guitar frequencies without EQ assistance\n- **ddrum Triggers**: Electronic reinforcement ensuring consistent kick articulation from studio to massive festival stage\n- **Vic Firth Paul Mazurkiewicz Signature**: Custom-spec sticks built for the power demands of death metal's most consistent drummer\n\nFor drummers studying Mazurkiewicz's approach, the gear is only the starting point. The deeper lesson is his philosophy: serve the band's brutal identity, not your own technical ambitions. Every blast beat he plays is in service of making the song sound as heavy and menacing as possible — not in service of demonstrating what he can do.\n\nStudy Tomb of the Mutilated for the foundational death metal blast beat. Study Bloodthirst for precision and focus. Study Violence Unimagined for what Mazurkiewicz sounds like at peak maturity — three decades into his craft, still as brutal and locked-in as the day Cannibal Corpse played their first show in Buffalo.\n\nFor deeper exploration:\n- **Full drummer profile**: [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz)\n- **Blast beat technique comparison**: [Blast beat drummers compared](/technique/blast-beat/drummers) — Mazurkiewicz vs. Mounier vs. Hoglan\n- **Related death metal drum setup**: [None So Vile drum setup — Flo Mounier](/articles/none-so-vile-drum-setup) — technical death metal's alternative approach to the blast beat"
+      "content": "Paul Mazurkiewicz has spent 35+ years proving that death metal doesn't require reinvention to remain relevant — it requires commitment to the foundational values that made the genre powerful in the first place: brutality, precision, and uncompromising weight.\n\nHis gear reflects that philosophy at every level:\n\n- **Pearl Reference**: A flagship production shell that rewards the consistency and physical demands he brings to every performance across hundreds of shows per year\n- **Sabian AAX Cymbals**: Fast-attacking, controlled-decay instruments built for death metal's dense, compressed sonic environments\n- **Pearl Eliminator Double Bass**: Interchangeable cam engineering supporting the 180–250 BPM blast beat range that defines the Cannibal Corpse sound\n- **Pearl Free-Floating Snare**: Open, explosive crack that cuts through down-tuned guitar frequencies without EQ assistance\n- **ddrum Triggers**: Electronic reinforcement ensuring consistent kick articulation from studio to massive festival stage\n- **Vic Firth Paul Mazurkiewicz Signature**: Custom-spec sticks built for the power demands of death metal's most consistent drummer\n\nFor drummers studying Mazurkiewicz's approach, the gear is only the starting point. The deeper lesson is his philosophy: serve the band's brutal identity, not your own technical ambitions. Every blast beat he plays is in service of making the song sound as heavy and menacing as possible — not in service of demonstrating what he can do.\n\nStudy Tomb of the Mutilated for the foundational death metal blast beat. Study Bloodthirst for precision and focus. Study Violence Unimagined for what Mazurkiewicz sounds like at peak maturity — three decades into his craft, still as brutal and locked-in as the day Cannibal Corpse played their first show in Buffalo.\n\nFor deeper exploration:\n- **Full drummer profile**: [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz)\n- **Blast beat technique comparison**: [Blast beat drummers compared](/technique/blast-beat/drummers) — Mazurkiewicz vs. Mounier vs. Hoglan\n- **Related death metal drum setup**: [None So Vile drum setup — Flo Mounier](/articles/none-so-vile-drum-setup) — technical death metal's alternative approach to the blast beat"
     }
   },
   "eaten-back-to-life-drum-setup": {
@@ -1195,43 +1195,43 @@ export const articles = {
       "estimatedValue": "$300–600 (1999 era) / $400–700 (Pearl Free-Floating equivalent today)"
     },
     "cymbals": {
-      "title": "Meinl: The Endorsement Relationship Takes Shape",
-      "brand": "Meinl (developing endorsement)",
-      "series": "Meinl Classics / early Byzance (developing endorsement, 1999)",
+      "title": "Sabian: The Endorsement Relationship Takes Shape",
+      "brand": "Sabian",
+      "series": "Sabian AAX Series",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Meinl 14\" Hi-Hats",
+          "model": "Sabian AAX 14\" Stage Hi-Hats",
           "position": "Left side",
           "notes": "Fast response for blast beat pulse in the established Fisher-era setting"
         },
         {
           "type": "Crash",
-          "model": "Meinl 16\" Crash",
+          "model": "Sabian AAX 18\" X-Plosion Crash",
           "position": "Left crash",
           "notes": "Quick accent for riff punctuation throughout the precision-focused Fisher-era compositions"
         },
         {
           "type": "Crash",
-          "model": "Meinl 18\" Crash",
+          "model": "Sabian AAX 19\" X-Plosion Crash",
           "position": "Right crash",
           "notes": "Fuller crash for section climaxes and dynamic peaks"
         },
         {
           "type": "Ride",
-          "model": "Meinl 20\" Ride",
+          "model": "Sabian AAX 21\" Raw Bell Dry Ride",
           "position": "Right",
           "notes": "Articulate bell for ride patterns between blast sections"
         },
         {
           "type": "China",
-          "model": "Meinl 18\" China",
+          "model": "Sabian AAXtreme 18\" China",
           "position": "Over rack toms",
           "notes": "Trashy, aggressive riff-transition accent — central to Mazurkiewicz's vocabulary since the debut"
         }
       ],
-      "description": "By 1999, Paul Mazurkiewicz was developing his Meinl endorsement relationship — the partnership that defines his modern setup. Whether the cymbals on \"Bloodthirst\" were full Meinl Classics or early Byzance series, or represented the transition from the pre-endorsement era-typical Paiste/Zildjian selection, the Meinl character was entering his sound around this period.\n\nMeinl's manufacturing philosophy — hand-hammered bronze with focused attack and controlled decay — served the Fisher-era Cannibal Corpse sound well. The technical precision of the \"Bloodthirst\" compositions required cymbals that spoke clearly and decayed quickly in dense, compressed sonic environments. Richardson's UK production approach added density and richness to the overall sound; cymbals with slow decay or excess wash would have blurred the rhythmic clarity that Mazurkiewicz's blast beat and double-kick work demanded.\n\nThe 14\" hi-hats continue as the rhythmic backbone, defining the pulse across blast beat and groove sections alike. On \"Dead Human Collection\" and \"Unleashing the Bloodthirsty,\" the hi-hat articulation drives the fast subdivisions over the double-kick patterns that open the album with such authority. The China cymbal, a Mazurkiewicz vocabulary staple since the debut, appears in its most developed form on \"Bloodthirst\" — Richardson mixed it prominently, treating it as the compositional accent piece that Mazurkiewicz had been developing it toward across five prior albums.\n\nThe full Meinl setup — as it would be confirmed in subsequent Fisher-era recordings — proved ideal for Cannibal Corpse's sonic environment: focused, fast, aggressive, and built for the sustained extreme playing that death metal demands.",
-      "estimatedValue": "$1,000–1,800 (developing Meinl endorsement, 1999 configuration)"
+      "description": "By 1999, Paul Mazurkiewicz was developing his Sabian endorsement relationship — the partnership that defines his modern setup. Whether the cymbals on \"Bloodthirst\" were full Sabian AAX or an early-Sabian transitional lineup, or represented the transition from the pre-endorsement era-typical Paiste/Zildjian selection, the Sabian AAX character was entering his sound around this period.\n\nSabian's AAX manufacturing philosophy — hand-hammered, computer-optimized B20 bronze with focused attack and controlled decay — served the Fisher-era Cannibal Corpse sound well. The technical precision of the \"Bloodthirst\" compositions required cymbals that spoke clearly and decayed quickly in dense, compressed sonic environments. Richardson's UK production approach added density and richness to the overall sound; cymbals with slow decay or excess wash would have blurred the rhythmic clarity that Mazurkiewicz's blast beat and double-kick work demanded.\n\nThe 14\" hi-hats continue as the rhythmic backbone, defining the pulse across blast beat and groove sections alike. On \"Dead Human Collection\" and \"Unleashing the Bloodthirsty,\" the hi-hat articulation drives the fast subdivisions over the double-kick patterns that open the album with such authority. The China cymbal, a Mazurkiewicz vocabulary staple since the debut, appears in its most developed form on \"Bloodthirst\" — Richardson mixed it prominently, treating it as the compositional accent piece that Mazurkiewicz had been developing it toward across five prior albums.\n\nThe full Sabian AAX setup — as it would be confirmed in subsequent Fisher-era recordings — proved ideal for Cannibal Corpse's sonic environment: focused, fast, aggressive, and built for the sustained extreme playing that death metal demands.",
+      "estimatedValue": "$1,000–1,800 (developing Sabian endorsement, 1999 configuration)"
     },
     "hardware": {
       "title": "Hardware Evolving Toward the Eliminator Era",
@@ -1276,7 +1276,7 @@ export const articles = {
     },
     "technique": {
       "title": "Fisher-Era Precision: The Locomotive at Full Speed",
-      "content": "\"Bloodthirst\" captures Paul Mazurkiewicz at a technical peak that the Barnes-era recordings only partially documented. The George Fisher lineup — more technically demanding in its compositions, more precise in its execution — pushed Mazurkiewicz toward a level of rhythmic precision that the debut-era material hadn't required. The result is a performance across \"Bloodthirst\" that demonstrates the full maturity of the locomotive philosophy: consistent, powerful, architecturally locked, and capable of supporting technically complex guitar arrangements without losing the brutal weight that defines the band.\n\n**The Fisher-Era Compositional Demands:**\nGeorge Fisher's vocal style — more technically flexible than Barnes's primary guttural approach — opened compositional space that the Fisher-era CC arrangements exploited. Songs like \"Pounded into Dust\" and \"Unleashing the Bloodthirsty\" have rhythmic complexity in the guitar arrangements that required more intricate drum interlocking than the debut-era material. Mazurkiewicz's ability to provide that interlocking support without losing the locomotive quality is the defining technical achievement of \"Bloodthirst.\"\n\n**Conventional Grip at Ten Years:**\nBy 1999, Mazurkiewicz had been playing conventional (traditional) grip for over a decade in professional contexts. His left-stick control at extreme blast tempos — a challenging technical demand of the angled grip position — had reached the point where the technique advantages were fully expressed without the limitations. The blast beats on \"Dead Human Collection\" and \"Unleashing the Bloodthirsty\" are as fast and authoritative as anything in the death metal canon at the time of release, delivered with a grip choice that most contemporaries had abandoned.\n\n**The Double-Bass at Full Maturity:**\nThe double-kick performances on \"Bloodthirst\" represent the locomotive philosophy at full professional maturity. The deeper kick drums, Richardson's production weight, and a decade of technique development combine to make the double-bass passages on this album feel genuinely massive — not just fast, but heavy and inevitable. 'Dead Human Collection' opens with a double-kick pattern that became an immediate reference point for the Fisher-era sound precisely because it demonstrated what Mazurkiewicz's approach sounded like at its peak.\n\nFor the full context of this era:\n- [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz) — complete profile and technique breakdown\n- [The Bleeding drum setup (1994)](/articles/the-bleeding-drum-setup) — the Barnes-era predecessor and Morrisound final chapter\n- [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup) — modern Pearl Reference / Meinl / Pearl Eliminator rig"
+      "content": "\"Bloodthirst\" captures Paul Mazurkiewicz at a technical peak that the Barnes-era recordings only partially documented. The George Fisher lineup — more technically demanding in its compositions, more precise in its execution — pushed Mazurkiewicz toward a level of rhythmic precision that the debut-era material hadn't required. The result is a performance across \"Bloodthirst\" that demonstrates the full maturity of the locomotive philosophy: consistent, powerful, architecturally locked, and capable of supporting technically complex guitar arrangements without losing the brutal weight that defines the band.\n\n**The Fisher-Era Compositional Demands:**\nGeorge Fisher's vocal style — more technically flexible than Barnes's primary guttural approach — opened compositional space that the Fisher-era CC arrangements exploited. Songs like \"Pounded into Dust\" and \"Unleashing the Bloodthirsty\" have rhythmic complexity in the guitar arrangements that required more intricate drum interlocking than the debut-era material. Mazurkiewicz's ability to provide that interlocking support without losing the locomotive quality is the defining technical achievement of \"Bloodthirst.\"\n\n**Conventional Grip at Ten Years:**\nBy 1999, Mazurkiewicz had been playing conventional (traditional) grip for over a decade in professional contexts. His left-stick control at extreme blast tempos — a challenging technical demand of the angled grip position — had reached the point where the technique advantages were fully expressed without the limitations. The blast beats on \"Dead Human Collection\" and \"Unleashing the Bloodthirsty\" are as fast and authoritative as anything in the death metal canon at the time of release, delivered with a grip choice that most contemporaries had abandoned.\n\n**The Double-Bass at Full Maturity:**\nThe double-kick performances on \"Bloodthirst\" represent the locomotive philosophy at full professional maturity. The deeper kick drums, Richardson's production weight, and a decade of technique development combine to make the double-bass passages on this album feel genuinely massive — not just fast, but heavy and inevitable. 'Dead Human Collection' opens with a double-kick pattern that became an immediate reference point for the Fisher-era sound precisely because it demonstrated what Mazurkiewicz's approach sounded like at its peak.\n\nFor the full context of this era:\n- [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz) — complete profile and technique breakdown\n- [The Bleeding drum setup (1994)](/articles/the-bleeding-drum-setup) — the Barnes-era predecessor and Morrisound final chapter\n- [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup) — modern Pearl Reference / Sabian AAX / Pearl Eliminator rig"
     },
     "faq": [
       {
@@ -1285,7 +1285,7 @@ export const articles = {
       },
       {
         "question": "What drums did Paul Mazurkiewicz use on Bloodthirst?",
-        "answer": "On Bloodthirst (1999), Paul Mazurkiewicz was evolving toward the Pearl Reference configuration that defines his modern setup. His kit featured deeper kick drums (22-inch x 18-inch, transitioning from the earlier 16-inch depth) and an expanded four-tom layout including an 18-inch floor tom not present in the debut-era setup. The shell construction was Pearl's higher-tier maple/mahogany hybrid — Pearl Masters MX or early Reference-range. He was also developing his Meinl cymbal endorsement relationship around this period. The setup was the most developed of his career to that point, matching the technical demands of the Fisher-era compositions."
+        "answer": "On Bloodthirst (1999), Paul Mazurkiewicz was evolving toward the Pearl Reference configuration that defines his modern setup. His kit featured deeper kick drums (22-inch x 18-inch, transitioning from the earlier 16-inch depth) and an expanded four-tom layout including an 18-inch floor tom not present in the debut-era setup. The shell construction was Pearl's higher-tier maple/mahogany hybrid — Pearl Masters MX or early Reference-range. He was also developing his Sabian cymbal endorsement relationship around this period. The setup was the most developed of his career to that point, matching the technical demands of the Fisher-era compositions."
       },
       {
         "question": "Who produced Bloodthirst and what studio was it recorded in?",
@@ -1316,7 +1316,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "The Fisher Era's Foundation: Bloodthirst and the New Cannibal Corpse Identity",
-      "content": "\"Bloodthirst\" marks the moment Cannibal Corpse completed its transformation from the Barnes-era lineup to the Fisher-era machine that would carry the band through the next two-plus decades. Paul Mazurkiewicz — the constant in every CC lineup since the 1988 founding — provided the rhythmic continuity that made that transformation feel authoritative rather than disruptive. The locomotive double-bass was still the engine. The conventional grip blast beats were still the signature. The serve-the-riff philosophy was still the operating principle. But the kit had evolved, the production context had shifted to the UK, and the result was a Cannibal Corpse that sounded heavier and more precise than at any prior point in its history.\n\nThe drum performances on \"Bloodthirst\" — particularly on \"Dead Human Collection,\" \"Pounded into Dust,\" and \"Unleashing the Bloodthirsty\" — remain among the most cited references for the Fisher-era CC sound because they demonstrate what Mazurkiewicz's fully mature technique sounds like when matched with a production approach that gives it the weight it deserves. Richardson's UK production brought a density that Burns's dry Tampa approach had controlled; the result was a drum sound that felt physically massive in a way the Morrisound era had approached but not fully achieved.\n\nFor the complete Paul Mazurkiewicz CC gear arc:\n- **The Barnes-era capstone**: [The Bleeding drum setup (1994)](/articles/the-bleeding-drum-setup) — Scott Burns's final CC production\n- **The genre landmark**: [Tomb of the Mutilated drum setup (1992)](/articles/tomb-of-the-mutilated-drum-setup) — the Morrisound peak\n- **Modern rig**: [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup) — Pearl Reference / Meinl / Pearl Eliminator\n- **Full profile**: [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz)"
+      "content": "\"Bloodthirst\" marks the moment Cannibal Corpse completed its transformation from the Barnes-era lineup to the Fisher-era machine that would carry the band through the next two-plus decades. Paul Mazurkiewicz — the constant in every CC lineup since the 1988 founding — provided the rhythmic continuity that made that transformation feel authoritative rather than disruptive. The locomotive double-bass was still the engine. The conventional grip blast beats were still the signature. The serve-the-riff philosophy was still the operating principle. But the kit had evolved, the production context had shifted to the UK, and the result was a Cannibal Corpse that sounded heavier and more precise than at any prior point in its history.\n\nThe drum performances on \"Bloodthirst\" — particularly on \"Dead Human Collection,\" \"Pounded into Dust,\" and \"Unleashing the Bloodthirsty\" — remain among the most cited references for the Fisher-era CC sound because they demonstrate what Mazurkiewicz's fully mature technique sounds like when matched with a production approach that gives it the weight it deserves. Richardson's UK production brought a density that Burns's dry Tampa approach had controlled; the result was a drum sound that felt physically massive in a way the Morrisound era had approached but not fully achieved.\n\nFor the complete Paul Mazurkiewicz CC gear arc:\n- **The Barnes-era capstone**: [The Bleeding drum setup (1994)](/articles/the-bleeding-drum-setup) — Scott Burns's final CC production\n- **The genre landmark**: [Tomb of the Mutilated drum setup (1992)](/articles/tomb-of-the-mutilated-drum-setup) — the Morrisound peak\n- **Modern rig**: [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup) — Pearl Reference / Sabian AAX / Pearl Eliminator\n- **Full profile**: [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz)"
     }
   },
   "tomb-of-the-mutilated-drum-setup": {
@@ -1767,7 +1767,7 @@ export const articles = {
     "dateModified": "2026-06-30",
     "author": "MetalForge Editorial",
     "title": "Paul Mazurkiewicz's Drum Setup on Cannibal Corpse's Gore Obsessed (2002)",
-    "description": "Complete drum gear breakdown for Cannibal Corpse's Gore Obsessed (2002). Paul Mazurkiewicz's solidifying Pearl Reference and Meinl rig, Neil Kernon's Sonic Ranch production, and the bridge album connecting Bloodthirst to The Wretched Spawn and Kill.",
+    "description": "Complete drum gear breakdown for Cannibal Corpse's Gore Obsessed (2002). Paul Mazurkiewicz's solidifying Pearl Reference and Sabian AAX rig, Neil Kernon's Sonic Ranch production, and the bridge album connecting Bloodthirst to The Wretched Spawn and Kill.",
     "seoKeywords": [
       "gore obsessed drums",
       "paul mazurkiewicz 2002 drum setup",
@@ -1781,13 +1781,13 @@ export const articles = {
     "ogImage": "/images/albums/gore-obsessed-drums.webp",
     "intro": {
       "title": "Solidifying the Rig: Mazurkiewicz on Cannibal Corpse's Eighth Album",
-      "content": "Released on February 26, 2002 through Metal Blade Records, \"Gore Obsessed\" is Cannibal Corpse's eighth studio album and the record that sits between two of the most discussed entries in the Fisher-era catalog: \"Bloodthirst\" (1999) and \"The Wretched Spawn\" (2004), with \"Kill\" (2006) following two albums later. Where Bloodthirst announced the Fisher-era sound and Kill is frequently cited as a commercial and critical peak, Gore Obsessed occupies the connective tissue between them — a record that consolidated the band's identity rather than reinventing it, and one that gets comparatively little attention despite containing some of Paul Mazurkiewicz's most refined pre-Kill playing.\n\nThe album marked another production relocation. After four albums at Morrisound in Tampa and one at Skyclad Recording in the UK, Cannibal Corpse tracked Gore Obsessed at Sonic Ranch in Tornillo, Texas — a large, remote studio complex far removed from both prior recording environments. Producer Neil Kernon, working alongside the band and engineer Justin Leeah, captured a drum sound that reviewers at the time described as alternating between rapid-fire, machine-gun blast passages and heavier, chugging mid-tempo sections — a dynamic range that mirrors the dual demands the songwriting placed on Mazurkiewicz's playing.\n\nGore Obsessed charted modestly but measurably: #11 on the US Independent Albums chart, #28 on the Billboard Heatseekers Albums chart, and #71 on the German Albums chart, continuing the gradual commercial trajectory the band had built since Vile's 1996 Billboard 200 debut. The same five-piece lineup that had recorded Gallery of Suicide and Bloodthirst — Fisher, Pat O'Brien, Jack Owen, Alex Webster, and Mazurkiewicz — remained intact, giving the album a stability in personnel that let the band focus on tightening its compositional and technical approach rather than absorbing a lineup change.\n\nBehind the kit, Mazurkiewicz's gear had moved further along the path it had been tracing since Gallery of Suicide: the Pearl Reference configuration and Meinl cymbal endorsement that define his modern rig were now considerably more solidified than the transitional setups of 1998 and 1999, and the Pearl Eliminator double bass pedal — a defining piece of his later-career rig — was now an established part of his setup. This article breaks down that more mature configuration, Neil Kernon's Sonic Ranch production, and the technical refinement Gore Obsessed represents in Mazurkiewicz's pre-Kill development.",
+      "content": "Released on February 26, 2002 through Metal Blade Records, \"Gore Obsessed\" is Cannibal Corpse's eighth studio album and the record that sits between two of the most discussed entries in the Fisher-era catalog: \"Bloodthirst\" (1999) and \"The Wretched Spawn\" (2004), with \"Kill\" (2006) following two albums later. Where Bloodthirst announced the Fisher-era sound and Kill is frequently cited as a commercial and critical peak, Gore Obsessed occupies the connective tissue between them — a record that consolidated the band's identity rather than reinventing it, and one that gets comparatively little attention despite containing some of Paul Mazurkiewicz's most refined pre-Kill playing.\n\nThe album marked another production relocation. After four albums at Morrisound in Tampa and one at Skyclad Recording in the UK, Cannibal Corpse tracked Gore Obsessed at Sonic Ranch in Tornillo, Texas — a large, remote studio complex far removed from both prior recording environments. Producer Neil Kernon, working alongside the band and engineer Justin Leeah, captured a drum sound that reviewers at the time described as alternating between rapid-fire, machine-gun blast passages and heavier, chugging mid-tempo sections — a dynamic range that mirrors the dual demands the songwriting placed on Mazurkiewicz's playing.\n\nGore Obsessed charted modestly but measurably: #11 on the US Independent Albums chart, #28 on the Billboard Heatseekers Albums chart, and #71 on the German Albums chart, continuing the gradual commercial trajectory the band had built since Vile's 1996 Billboard 200 debut. The same five-piece lineup that had recorded Gallery of Suicide and Bloodthirst — Fisher, Pat O'Brien, Jack Owen, Alex Webster, and Mazurkiewicz — remained intact, giving the album a stability in personnel that let the band focus on tightening its compositional and technical approach rather than absorbing a lineup change.\n\nBehind the kit, Mazurkiewicz's gear had moved further along the path it had been tracing since Gallery of Suicide: the Pearl Reference configuration and Sabian cymbal endorsement that define his modern rig were now considerably more solidified than the transitional setups of 1998 and 1999, and the Pearl Eliminator double bass pedal — a defining piece of his later-career rig — was now an established part of his setup. This article breaks down that more mature configuration, Neil Kernon's Sonic Ranch production, and the technical refinement Gore Obsessed represents in Mazurkiewicz's pre-Kill development.",
       "keyPoints": [
         "Cannibal Corpse's eighth album (February 26, 2002) — Metal Blade Records — the bridge between Bloodthirst (1999) and The Wretched Spawn (2004) en route to Kill (2006)",
         "Produced by Neil Kernon with engineer Justin Leeah at Sonic Ranch, Tornillo, Texas — a third distinct studio environment after Morrisound and Skyclad",
         "Charted at #11 US Independent Albums, #28 Billboard Heatseekers Albums, and #71 German Albums",
         "Same five-piece Fisher-era lineup as Gallery of Suicide and Bloodthirst — Fisher, O'Brien, Owen, Webster, Mazurkiewicz",
-        "Pearl Reference and Meinl endorsement relationships considerably more solidified than the 1998–1999 transitional setups",
+        "Pearl Reference and Sabian endorsement relationships considerably more solidified than the 1998–1999 transitional setups",
         "Pearl Eliminator double bass pedal now an established part of the rig",
         "Limited edition included a Metallica cover, 'No Remorse,' as a bonus track"
       ]
@@ -1824,43 +1824,43 @@ export const articles = {
       "estimatedValue": "$350–650 (2002 era) / $400–700 (Pearl Free-Floating equivalent today)"
     },
     "cymbals": {
-      "title": "Meinl Established: The Full Endorsement Arsenal",
-      "brand": "Meinl",
-      "series": "Meinl Classics / Byzance (established endorsement, 2002)",
+      "title": "Sabian AAX Established: The Full Endorsement Arsenal",
+      "brand": "Sabian",
+      "series": "Sabian AAX Series",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Meinl 14\" Hi-Hats",
+          "model": "Sabian AAX 14\" Stage Hi-Hats",
           "position": "Left side",
           "notes": "Fast, focused response for the album's alternating blast and groove sections"
         },
         {
           "type": "Crash",
-          "model": "Meinl 16\" Crash",
+          "model": "Sabian AAX 18\" X-Plosion Crash",
           "position": "Left crash",
           "notes": "Quick accent for riff punctuation"
         },
         {
           "type": "Crash",
-          "model": "Meinl 18\" Crash",
+          "model": "Sabian AAX 19\" X-Plosion Crash",
           "position": "Right crash",
           "notes": "Fuller crash for the album's heavier mid-tempo mosh sections"
         },
         {
           "type": "Ride",
-          "model": "Meinl 20\" Ride",
+          "model": "Sabian AAX 21\" Raw Bell Dry Ride",
           "position": "Right",
           "notes": "Bell accents between blast passages"
         },
         {
           "type": "China",
-          "model": "Meinl 18\" China",
+          "model": "Sabian AAXtreme 18\" China",
           "position": "Over rack toms",
-          "notes": "Trashy riff-transition accent, fully integrated into the Meinl setup by this point"
+          "notes": "Trashy riff-transition accent, fully integrated into the Sabian AAX setup by this point"
         }
       ],
-      "description": "By Gore Obsessed, the Meinl cymbal endorsement that had been developing since Bloodthirst (1999) was firmly established as Mazurkiewicz's primary cymbal setup, in the Classics or early Byzance series range. Meinl's hand-hammered bronze construction — fast attack, controlled decay — suited the album's dual character well: focused enough to stay readable through the record's rapid-fire blast sections, with enough body to carry weight through the heavier, chugging mid-tempo passages that AllMusic's contemporary review singled out.\n\nThe 14\" hi-hats continued to anchor the rhythmic pulse across both modes, while the China cymbal remained a central accent in Mazurkiewicz's vocabulary for marking riff transitions — a role it had played consistently since the band's earliest records, now voiced through a fully mature Meinl setup rather than the budget Paiste/Zildjian cymbals of the pre-endorsement era.\n\nNeil Kernon's Sonic Ranch mix gave the cymbals a present, well-defined position, supporting the album's alternating tempo character without letting cymbal wash blur the more extreme blast passages.",
-      "estimatedValue": "$1,400–2,400 total (established Meinl endorsement configuration, 2002)"
+      "description": "By Gore Obsessed, the Sabian cymbal endorsement that had been developing since Bloodthirst (1999) was firmly established as Mazurkiewicz's primary cymbal setup, in the AAX Series range. Sabian's AAX Series construction — fast attack, controlled decay — suited the album's dual character well: focused enough to stay readable through the record's rapid-fire blast sections, with enough body to carry weight through the heavier, chugging mid-tempo passages that AllMusic's contemporary review singled out.\n\nThe 14\" hi-hats continued to anchor the rhythmic pulse across both modes, while the China cymbal remained a central accent in Mazurkiewicz's vocabulary for marking riff transitions — a role it had played consistently since the band's earliest records, now voiced through a fully mature Sabian AAX setup rather than the budget Paiste/Zildjian cymbals of the pre-endorsement era.\n\nNeil Kernon's Sonic Ranch mix gave the cymbals a present, well-defined position, supporting the album's alternating tempo character without letting cymbal wash blur the more extreme blast passages.",
+      "estimatedValue": "$1,400–2,400 total (established Sabian endorsement configuration, 2002)"
     },
     "hardware": {
       "title": "The Eliminator Era, Established",
@@ -1904,12 +1904,12 @@ export const articles = {
     },
     "technique": {
       "title": "Refinement Before the Peak: Mazurkiewicz's Most Mature Pre-Kill Playing",
-      "content": "\"Gore Obsessed\" is frequently described by longtime fans as containing some of Paul Mazurkiewicz's most technically refined work before \"Kill\" (2006) is generally cited as his commercial and critical peak. The album's compositions demanded the dual fluency that defines the Fisher-era CC catalog at its most developed: machine-gun blast sections requiring sustained extreme-tempo consistency, and heavier mosh-oriented passages requiring a completely different kind of weighted, deliberate groove.\n\n**Dual-Mode Mastery:**\nWhere earlier albums leaned more heavily toward one mode or the other — the debut-era records toward blast density, The Bleeding toward groove accessibility — Gore Obsessed asks Mazurkiewicz to move fluidly between both within the same songs. His ability to shift from rapid-fire double-bass blasting to a locked, heavy mid-tempo pocket without losing rhythmic authority in either mode is the technical achievement that distinguishes this record.\n\n**Conventional Grip at Full Maturity:**\nBy 2002, Mazurkiewicz's traditional grip technique had over a decade of professional refinement behind it. The left-stick control that conventional grip demands at extreme tempo — a persistent technical challenge for the technique — is fully resolved by this point in his career, audible in the clean articulation of the album's fastest blast passages.\n\n**Setting Up the Wretched Spawn / Kill Run:**\nThe technical and gear consolidation documented on Gore Obsessed directly set up the two albums that followed: The Wretched Spawn (2004) and Kill (2006), the record most frequently cited as the high point of this stretch of Mazurkiewicz's career. Gore Obsessed is the quieter, less-discussed album in that run, but the playing on it is a direct technical precursor to what Kill would later showcase at a higher profile.\n\nFor the surrounding context of this era:\n- [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz) — complete profile and technique breakdown\n- [Bloodthirst drum setup (1999)](/articles/bloodthirst-drum-setup) — the Fisher-era establishment record that preceded it\n- [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup) — the modern Pearl Reference / Meinl / Pearl Eliminator rig this album helped consolidate"
+      "content": "\"Gore Obsessed\" is frequently described by longtime fans as containing some of Paul Mazurkiewicz's most technically refined work before \"Kill\" (2006) is generally cited as his commercial and critical peak. The album's compositions demanded the dual fluency that defines the Fisher-era CC catalog at its most developed: machine-gun blast sections requiring sustained extreme-tempo consistency, and heavier mosh-oriented passages requiring a completely different kind of weighted, deliberate groove.\n\n**Dual-Mode Mastery:**\nWhere earlier albums leaned more heavily toward one mode or the other — the debut-era records toward blast density, The Bleeding toward groove accessibility — Gore Obsessed asks Mazurkiewicz to move fluidly between both within the same songs. His ability to shift from rapid-fire double-bass blasting to a locked, heavy mid-tempo pocket without losing rhythmic authority in either mode is the technical achievement that distinguishes this record.\n\n**Conventional Grip at Full Maturity:**\nBy 2002, Mazurkiewicz's traditional grip technique had over a decade of professional refinement behind it. The left-stick control that conventional grip demands at extreme tempo — a persistent technical challenge for the technique — is fully resolved by this point in his career, audible in the clean articulation of the album's fastest blast passages.\n\n**Setting Up the Wretched Spawn / Kill Run:**\nThe technical and gear consolidation documented on Gore Obsessed directly set up the two albums that followed: The Wretched Spawn (2004) and Kill (2006), the record most frequently cited as the high point of this stretch of Mazurkiewicz's career. Gore Obsessed is the quieter, less-discussed album in that run, but the playing on it is a direct technical precursor to what Kill would later showcase at a higher profile.\n\nFor the surrounding context of this era:\n- [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz) — complete profile and technique breakdown\n- [Bloodthirst drum setup (1999)](/articles/bloodthirst-drum-setup) — the Fisher-era establishment record that preceded it\n- [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup) — the modern Pearl Reference / Sabian AAX / Pearl Eliminator rig this album helped consolidate"
     },
     "faq": [
       {
         "question": "What kit did Paul Mazurkiewicz use on Gore Obsessed?",
-        "answer": "On Gore Obsessed (2002), Paul Mazurkiewicz played a Pearl Reference-tier kit with dual 22-inch x 18-inch kick drums, a four-tom layout (two rack toms, two floor toms), and a 14-inch x 6.5-inch steel-shell snare moving toward his signature Free-Floating model. His Meinl cymbal endorsement, first developing around Bloodthirst (1999), was firmly established by this point, and the Pearl Eliminator double bass pedal was a settled part of his hardware setup. This configuration is considerably closer to his modern rig than the transitional gear documented on Gallery of Suicide (1998)."
+        "answer": "On Gore Obsessed (2002), Paul Mazurkiewicz played a Pearl Reference-tier kit with dual 22-inch x 18-inch kick drums, a four-tom layout (two rack toms, two floor toms), and a 14-inch x 6.5-inch steel-shell snare moving toward his signature Free-Floating model. His Sabian cymbal endorsement, first developing around Bloodthirst (1999), was firmly established by this point, and the Pearl Eliminator double bass pedal was a settled part of his hardware setup. This configuration is considerably closer to his modern rig than the transitional gear documented on Gallery of Suicide (1998)."
       },
       {
         "question": "What Cannibal Corpse albums came out between Bloodthirst and Kill?",
@@ -1945,7 +1945,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "The Quiet Bridge to Kill",
-      "content": "\"Gore Obsessed\" rarely tops lists of Cannibal Corpse's essential albums, overshadowed by the Fisher-era arrival of \"Bloodthirst\" on one side and the widely celebrated \"Kill\" two albums later. But as a document of Paul Mazurkiewicz's gear and technique at a pivotal consolidation point, it deserves more attention than it typically receives. The Pearl Reference and Meinl relationships that define his modern setup were, by 2002, no longer developing — they were established. The Pearl Eliminator pedal that powers his blast beat work today was a settled part of his rig. And the dual fluency between extreme-tempo blasting and heavy mid-tempo groove that the album's compositions demanded gave him a technical workout that directly informed the more celebrated playing on Kill four years later.\n\nNeil Kernon's Sonic Ranch production gave the record a sound distinct from both the dry Tampa attack of the Morrisound era and the denser British weight of Bloodthirst — a third sonic identity in as many albums, reflecting a band still actively searching for its definitive studio environment even as its lineup and gear had stabilized.\n\nFor the complete Paul Mazurkiewicz CC gear arc around this record:\n- **The predecessor**: [Bloodthirst drum setup (1999)](/articles/bloodthirst-drum-setup) — the Fisher-era establishment record\n- **The earlier transitional chapter**: [Gallery of Suicide drum setup (1998)](/articles/gallery-of-suicide-drum-setup) — the last Morrisound session\n- **The genre landmark**: [Tomb of the Mutilated drum setup (1992)](/articles/tomb-of-the-mutilated-drum-setup) — the Morrisound peak\n- **Modern rig**: [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup) — Pearl Reference / Meinl / Pearl Eliminator\n- **Full profile**: [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz)"
+      "content": "\"Gore Obsessed\" rarely tops lists of Cannibal Corpse's essential albums, overshadowed by the Fisher-era arrival of \"Bloodthirst\" on one side and the widely celebrated \"Kill\" two albums later. But as a document of Paul Mazurkiewicz's gear and technique at a pivotal consolidation point, it deserves more attention than it typically receives. The Pearl Reference and Sabian relationships that define his modern setup were, by 2002, no longer developing — they were established. The Pearl Eliminator pedal that powers his blast beat work today was a settled part of his rig. And the dual fluency between extreme-tempo blasting and heavy mid-tempo groove that the album's compositions demanded gave him a technical workout that directly informed the more celebrated playing on Kill four years later.\n\nNeil Kernon's Sonic Ranch production gave the record a sound distinct from both the dry Tampa attack of the Morrisound era and the denser British weight of Bloodthirst — a third sonic identity in as many albums, reflecting a band still actively searching for its definitive studio environment even as its lineup and gear had stabilized.\n\nFor the complete Paul Mazurkiewicz CC gear arc around this record:\n- **The predecessor**: [Bloodthirst drum setup (1999)](/articles/bloodthirst-drum-setup) — the Fisher-era establishment record\n- **The earlier transitional chapter**: [Gallery of Suicide drum setup (1998)](/articles/gallery-of-suicide-drum-setup) — the last Morrisound session\n- **The genre landmark**: [Tomb of the Mutilated drum setup (1992)](/articles/tomb-of-the-mutilated-drum-setup) — the Morrisound peak\n- **Modern rig**: [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup) — Pearl Reference / Sabian AAX / Pearl Eliminator\n- **Full profile**: [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz)"
     }
   },
   "the-wretched-spawn-drum-setup": {
@@ -1968,7 +1968,7 @@ export const articles = {
     "dateModified": "2026-07-02",
     "author": "MetalForge Editorial",
     "title": "Paul Mazurkiewicz's Drum Setup on Cannibal Corpse's The Wretched Spawn (2004)",
-    "description": "Paul Mazurkiewicz's brutal kit on The Wretched Spawn (2004) — the mature Pearl Reference and Meinl rig behind Cannibal Corpse's ninth album, tracked with producer Neil Kernon at Sonic Ranch on the run-up to Kill.",
+    "description": "Paul Mazurkiewicz's brutal kit on The Wretched Spawn (2004) — the mature Pearl Reference and Sabian AAX rig behind Cannibal Corpse's ninth album, tracked with producer Neil Kernon at Sonic Ranch on the run-up to Kill.",
     "seoKeywords": [
       "the wretched spawn drums",
       "paul mazurkiewicz 2004 kit",
@@ -1982,7 +1982,7 @@ export const articles = {
     "ogImage": "/images/albums/the-wretched-spawn-drums.webp",
     "intro": {
       "title": "The Bridge Album's Payoff: Mazurkiewicz on Cannibal Corpse's Ninth Album",
-      "content": "Released on February 24, 2004 through Metal Blade Records, \"The Wretched Spawn\" is Cannibal Corpse's ninth studio album and the record that sits directly between \"Gore Obsessed\" (2002) and \"Kill\" (2006) — closing out the sprawling, dual-mode songwriting era of the mid-2000s Fisher-era catalog before Kill stripped the band's approach back down to something more direct. Recorded in October and November 2003, The Wretched Spawn is also notable as the final studio album to feature rhythm guitarist Jack Owen, who departed after touring behind the record.\n\nProducer Neil Kernon returned for a second consecutive Cannibal Corpse album, again tracking at Sonic Ranch in Tornillo, Texas with engineer Justin Leeah — the same team and studio that had shaped Gore Obsessed two years earlier. That continuity gave The Wretched Spawn a more confident, settled production than the studio-hopping of the band's first four albums, letting Kernon refine rather than reinvent the alternating blast-and-groove dynamic he had established on the previous record. Brad Vance handled mastering at Red Mastering, putting a final layer of polish on the mix.\n\nCommercially, The Wretched Spawn charted at #20 on the US Independent Albums chart and #27 on the Billboard Heatseekers Albums chart, with additional entries at #74 on the German Albums chart and #136 on the French Albums chart — a modest but consistent showing in line with Gore Obsessed's performance two years prior. The same five-piece lineup carried over from Gore Obsessed — George \"Corpsegrinder\" Fisher, Pat O'Brien, Jack Owen, Alex Webster, and Mazurkiewicz — recorded the album, and Vincent Locke's cover art proved controversial enough that a censored version was issued alongside the original.\n\nBehind the kit, Mazurkiewicz's gear was by this point a fully settled continuation of the Pearl Reference and Meinl configuration that had solidified on Gore Obsessed. This article breaks down that mature rig, Neil Kernon's second Sonic Ranch production, and the technical stretch that directly set up the more celebrated playing on Kill two years later.",
+      "content": "Released on February 24, 2004 through Metal Blade Records, \"The Wretched Spawn\" is Cannibal Corpse's ninth studio album and the record that sits directly between \"Gore Obsessed\" (2002) and \"Kill\" (2006) — closing out the sprawling, dual-mode songwriting era of the mid-2000s Fisher-era catalog before Kill stripped the band's approach back down to something more direct. Recorded in October and November 2003, The Wretched Spawn is also notable as the final studio album to feature rhythm guitarist Jack Owen, who departed after touring behind the record.\n\nProducer Neil Kernon returned for a second consecutive Cannibal Corpse album, again tracking at Sonic Ranch in Tornillo, Texas with engineer Justin Leeah — the same team and studio that had shaped Gore Obsessed two years earlier. That continuity gave The Wretched Spawn a more confident, settled production than the studio-hopping of the band's first four albums, letting Kernon refine rather than reinvent the alternating blast-and-groove dynamic he had established on the previous record. Brad Vance handled mastering at Red Mastering, putting a final layer of polish on the mix.\n\nCommercially, The Wretched Spawn charted at #20 on the US Independent Albums chart and #27 on the Billboard Heatseekers Albums chart, with additional entries at #74 on the German Albums chart and #136 on the French Albums chart — a modest but consistent showing in line with Gore Obsessed's performance two years prior. The same five-piece lineup carried over from Gore Obsessed — George \"Corpsegrinder\" Fisher, Pat O'Brien, Jack Owen, Alex Webster, and Mazurkiewicz — recorded the album, and Vincent Locke's cover art proved controversial enough that a censored version was issued alongside the original.\n\nBehind the kit, Mazurkiewicz's gear was by this point a fully settled continuation of the Pearl Reference and Sabian AAX configuration that had solidified on Gore Obsessed. This article breaks down that mature rig, Neil Kernon's second Sonic Ranch production, and the technical stretch that directly set up the more celebrated playing on Kill two years later.",
       "keyPoints": [
         "Cannibal Corpse's ninth album (February 24, 2004) — Metal Blade Records — the direct bridge between Gore Obsessed (2002) and Kill (2006)",
         "Recorded October–November 2003 with producer Neil Kernon and engineer Justin Leeah at Sonic Ranch, Tornillo, Texas — Kernon's second consecutive CC production",
@@ -2025,43 +2025,43 @@ export const articles = {
       "estimatedValue": "$350–650 (2004 era) / $400–700 (Pearl Free-Floating equivalent today)"
     },
     "cymbals": {
-      "title": "Meinl, Second Album Running",
-      "brand": "Meinl",
-      "series": "Meinl Classics / Byzance (established endorsement)",
+      "title": "Sabian AAX, Second Album Running",
+      "brand": "Sabian",
+      "series": "Sabian AAX Series",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Meinl 14\" Hi-Hats",
+          "model": "Sabian AAX 14\" Stage Hi-Hats",
           "position": "Left side",
           "notes": "Anchoring the rhythmic pulse across the album's alternating blast and groove sections"
         },
         {
           "type": "Crash",
-          "model": "Meinl 16\" Crash",
+          "model": "Sabian AAX 18\" X-Plosion Crash",
           "position": "Left crash",
           "notes": "Quick accent for riff punctuation"
         },
         {
           "type": "Crash",
-          "model": "Meinl 18\" Crash",
+          "model": "Sabian AAX 19\" X-Plosion Crash",
           "position": "Right crash",
           "notes": "Fuller crash for the record's heavier mid-tempo sections"
         },
         {
           "type": "Ride",
-          "model": "Meinl 20\" Ride",
+          "model": "Sabian AAX 21\" Raw Bell Dry Ride",
           "position": "Right",
           "notes": "Bell accents between blast passages"
         },
         {
           "type": "China",
-          "model": "Meinl 18\" China",
+          "model": "Sabian AAXtreme 18\" China",
           "position": "Over rack toms",
           "notes": "Riff-transition accent, a constant in Mazurkiewicz's vocabulary since the pre-endorsement era"
         }
       ],
-      "description": "Mazurkiewicz's Meinl cymbal setup, firmly established since Gore Obsessed, carried over unchanged onto The Wretched Spawn. The hand-hammered bronze construction gave him the same dual character the previous album had relied on: fast, focused attack for the record's rapid-fire sections, enough body to carry weight through the chugging mid-tempo passages.\n\nWith the gear settled, Kernon and Leeah's second Sonic Ranch mix gave the cymbals a slightly more refined, present placement than on Gore Obsessed — the benefit of a production team working with a studio and a drummer's rig they already knew intimately.",
-      "estimatedValue": "$1,400–2,400 total (settled Meinl endorsement configuration, 2004)"
+      "description": "Mazurkiewicz's Sabian AAX cymbal setup, firmly established since Gore Obsessed, carried over unchanged onto The Wretched Spawn. The hand-hammered bronze construction gave him the same dual character the previous album had relied on: fast, focused attack for the record's rapid-fire sections, enough body to carry weight through the chugging mid-tempo passages.\n\nWith the gear settled, Kernon and Leeah's second Sonic Ranch mix gave the cymbals a slightly more refined, present placement than on Gore Obsessed — the benefit of a production team working with a studio and a drummer's rig they already knew intimately.",
+      "estimatedValue": "$1,400–2,400 total (settled Sabian endorsement configuration, 2004)"
     },
     "hardware": {
       "title": "The Eliminator, Two Albums Running",
@@ -2105,12 +2105,12 @@ export const articles = {
     },
     "technique": {
       "title": "The Final Tune-Up Before Kill",
-      "content": "\"The Wretched Spawn\" represents the last entry in the dual-mode, dynamically varied songwriting stretch that Gore Obsessed had begun — the two albums that, per Kill's own liner-note framing, Cannibal Corpse's tenth record was consciously reacting against with its more stripped-down, riff-forward approach. That makes The Wretched Spawn the technical capstone of an era rather than its opening statement, and Mazurkiewicz's playing on it reflects that maturity.\n\n**Dual-Mode Fluency, Perfected:**\nWhere Gore Obsessed asked Mazurkiewicz to develop his ability to move between extreme-tempo blasting and heavy mid-tempo groove within the same songs, The Wretched Spawn shows that fluency fully perfected. Tracks like \"Frantic Disembowelment\" and \"Festering in the Crypt\" demand rapid shifts between modes that, two years earlier, would have required more conscious technical management — by 2004, the transitions are seamless.\n\n**Conventional Grip Under a Settled Rig:**\nWith the gear no longer in flux, Mazurkiewicz's traditional grip technique had a stable platform to work from across the entire album cycle. The left-stick control that defines his sound is audible at its most consistent on this record — a drummer and a rig that had stopped changing and started simply performing at a high level.\n\n**Setting Up Kill:**\nThe technical peak documented on The Wretched Spawn is the direct precursor to the more celebrated, stripped-down playing Mazurkiewicz would deliver on Kill (2006). Where Kill gets the critical attention as the high-water mark of this stretch of his career, The Wretched Spawn is the album where the underlying technical vocabulary was fully assembled.\n\nFor the surrounding context of this era:\n- [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz) — complete profile and technique breakdown\n- [Gore Obsessed drum setup (2002)](/articles/gore-obsessed-drum-setup) — the consolidation record that directly preceded it\n- [Kill drum setup (2006)](/articles/kill-drum-setup) — the celebrated record this album's technical work set up\n- [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup) — the modern Pearl Reference / Meinl / Pearl Eliminator rig this album helped settle"
+      "content": "\"The Wretched Spawn\" represents the last entry in the dual-mode, dynamically varied songwriting stretch that Gore Obsessed had begun — the two albums that, per Kill's own liner-note framing, Cannibal Corpse's tenth record was consciously reacting against with its more stripped-down, riff-forward approach. That makes The Wretched Spawn the technical capstone of an era rather than its opening statement, and Mazurkiewicz's playing on it reflects that maturity.\n\n**Dual-Mode Fluency, Perfected:**\nWhere Gore Obsessed asked Mazurkiewicz to develop his ability to move between extreme-tempo blasting and heavy mid-tempo groove within the same songs, The Wretched Spawn shows that fluency fully perfected. Tracks like \"Frantic Disembowelment\" and \"Festering in the Crypt\" demand rapid shifts between modes that, two years earlier, would have required more conscious technical management — by 2004, the transitions are seamless.\n\n**Conventional Grip Under a Settled Rig:**\nWith the gear no longer in flux, Mazurkiewicz's traditional grip technique had a stable platform to work from across the entire album cycle. The left-stick control that defines his sound is audible at its most consistent on this record — a drummer and a rig that had stopped changing and started simply performing at a high level.\n\n**Setting Up Kill:**\nThe technical peak documented on The Wretched Spawn is the direct precursor to the more celebrated, stripped-down playing Mazurkiewicz would deliver on Kill (2006). Where Kill gets the critical attention as the high-water mark of this stretch of his career, The Wretched Spawn is the album where the underlying technical vocabulary was fully assembled.\n\nFor the surrounding context of this era:\n- [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz) — complete profile and technique breakdown\n- [Gore Obsessed drum setup (2002)](/articles/gore-obsessed-drum-setup) — the consolidation record that directly preceded it\n- [Kill drum setup (2006)](/articles/kill-drum-setup) — the celebrated record this album's technical work set up\n- [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup) — the modern Pearl Reference / Sabian AAX / Pearl Eliminator rig this album helped settle"
     },
     "faq": [
       {
         "question": "What drums did Paul Mazurkiewicz use on The Wretched Spawn?",
-        "answer": "On The Wretched Spawn (2004), Paul Mazurkiewicz played a Pearl Reference-tier kit with dual 22-inch x 18-inch kick drums, a four-tom layout (two rack toms, two floor toms), and a 14-inch x 6.5-inch steel-shell Free-Floating-configuration snare. His Meinl cymbal setup and Pearl Eliminator double bass pedal, both firmly established since Gore Obsessed (2002), carried over unchanged — this album documents his rig at its most settled point before the celebrated Kill (2006) sessions."
+        "answer": "On The Wretched Spawn (2004), Paul Mazurkiewicz played a Pearl Reference-tier kit with dual 22-inch x 18-inch kick drums, a four-tom layout (two rack toms, two floor toms), and a 14-inch x 6.5-inch steel-shell Free-Floating-configuration snare. His Sabian AAX cymbal setup and Pearl Eliminator double bass pedal, both firmly established since Gore Obsessed (2002), carried over unchanged — this album documents his rig at its most settled point before the celebrated Kill (2006) sessions."
       },
       {
         "question": "What was Cannibal Corpse's first Billboard 200 album?",
@@ -2118,7 +2118,7 @@ export const articles = {
       },
       {
         "question": "How much did Paul Mazurkiewicz's kit cost in 2004?",
-        "answer": "A period-accurate reproduction of Mazurkiewicz's 2004 Pearl Reference setup runs roughly $3,000–$5,500 for the kit itself, $350–$650 for the steel-shell snare, and $1,400–$2,400 for the full Meinl cymbal setup — putting a complete rig replication in the $5,000–$8,500 range, consistent with the settled endorsement-era configuration he had carried over from Gore Obsessed two years earlier."
+        "answer": "A period-accurate reproduction of Mazurkiewicz's 2004 Pearl Reference setup runs roughly $3,000–$5,500 for the kit itself, $350–$650 for the steel-shell snare, and $1,400–$2,400 for the full Sabian AAX cymbal setup — putting a complete rig replication in the $5,000–$8,500 range, consistent with the settled endorsement-era configuration he had carried over from Gore Obsessed two years earlier."
       },
       {
         "question": "Who produced The Wretched Spawn and where was it recorded?",
@@ -2144,7 +2144,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "The Technical Capstone Before Kill",
-      "content": "\"The Wretched Spawn\" is the album most likely to be overlooked in a quick survey of the Fisher-era Cannibal Corpse catalog — sandwiched between the underappreciated Gore Obsessed and the widely celebrated Kill, sharing its predecessor's studio, producer, and gear almost exactly. But that continuity is precisely what makes it valuable as a document of Paul Mazurkiewicz's playing: it captures a drummer and a rig with nothing left to prove technically, executing at the peak of a fully settled setup before the band's tenth album reset the songwriting approach entirely.\n\nNeil Kernon and Justin Leeah's second consecutive Sonic Ranch session gave the record a more confident, refined variant of the sound they had established on Gore Obsessed — proof that familiarity between a producer, an engineer, and a band can sharpen a recording as much as a fresh studio environment can. It was also the closing chapter for rhythm guitarist Jack Owen, who left the band after the album's supporting tour.\n\nFor the complete Paul Mazurkiewicz CC gear arc around this record:\n- **The predecessor**: [Gore Obsessed drum setup (2002)](/articles/gore-obsessed-drum-setup) — the consolidation record recorded at the same studio\n- **The successor**: [Kill drum setup (2006)](/articles/kill-drum-setup) — the celebrated \"return to brutality\" this album's technical work directly set up\n- **The genre landmark**: [Tomb of the Mutilated drum setup (1992)](/articles/tomb-of-the-mutilated-drum-setup) — the Morrisound peak\n- **Modern rig**: [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup) — Pearl Reference / Meinl / Pearl Eliminator\n- **Full profile**: [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz)"
+      "content": "\"The Wretched Spawn\" is the album most likely to be overlooked in a quick survey of the Fisher-era Cannibal Corpse catalog — sandwiched between the underappreciated Gore Obsessed and the widely celebrated Kill, sharing its predecessor's studio, producer, and gear almost exactly. But that continuity is precisely what makes it valuable as a document of Paul Mazurkiewicz's playing: it captures a drummer and a rig with nothing left to prove technically, executing at the peak of a fully settled setup before the band's tenth album reset the songwriting approach entirely.\n\nNeil Kernon and Justin Leeah's second consecutive Sonic Ranch session gave the record a more confident, refined variant of the sound they had established on Gore Obsessed — proof that familiarity between a producer, an engineer, and a band can sharpen a recording as much as a fresh studio environment can. It was also the closing chapter for rhythm guitarist Jack Owen, who left the band after the album's supporting tour.\n\nFor the complete Paul Mazurkiewicz CC gear arc around this record:\n- **The predecessor**: [Gore Obsessed drum setup (2002)](/articles/gore-obsessed-drum-setup) — the consolidation record recorded at the same studio\n- **The successor**: [Kill drum setup (2006)](/articles/kill-drum-setup) — the celebrated \"return to brutality\" this album's technical work directly set up\n- **The genre landmark**: [Tomb of the Mutilated drum setup (1992)](/articles/tomb-of-the-mutilated-drum-setup) — the Morrisound peak\n- **Modern rig**: [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup) — Pearl Reference / Sabian AAX / Pearl Eliminator\n- **Full profile**: [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz)"
     }
   },
   "kill-drum-setup": {
@@ -2167,7 +2167,7 @@ export const articles = {
     "dateModified": "2026-07-01",
     "author": "MetalForge Editorial",
     "title": "Paul Mazurkiewicz's Drum Setup on Cannibal Corpse's Kill (2006)",
-    "description": "Complete drum gear breakdown for Cannibal Corpse's Kill (2006). Paul Mazurkiewicz's mature Pearl Reference and Meinl rig, Erik Rutan's Mana Recording Studios production, and the 'return to brutality' album that reunited Rob Barrett with the band.",
+    "description": "Complete drum gear breakdown for Cannibal Corpse's Kill (2006). Paul Mazurkiewicz's mature Pearl Reference and Sabian AAX rig, Erik Rutan's Mana Recording Studios production, and the 'return to brutality' album that reunited Rob Barrett with the band.",
     "seoKeywords": [
       "kill drums",
       "paul mazurkiewicz kill drum setup",
@@ -2181,7 +2181,7 @@ export const articles = {
     "ogImage": "/images/albums/kill-drums.webp",
     "intro": {
       "title": "Return to Brutality: Mazurkiewicz on Cannibal Corpse's Tenth Album",
-      "content": "Released on March 21, 2006 through Metal Blade Records, \"Kill\" is Cannibal Corpse's tenth studio album and one of the most decisive turning points in the band's catalog. After the more sprawling, dual-mode songwriting of \"The Wretched Spawn\" (2004) and \"Gore Obsessed\" (2002), Kill stripped the band's approach back down to something more direct and relentlessly aggressive — a shift widely described by fans and critics as a \"return to brutality\" after the band's more experimental mid-career stretch. It remains one of the most frequently cited high points of Paul Mazurkiewicz's three-decade career behind the kit.\n\nThe album also marked a significant lineup shift. Guitarist Jack Owen, who had played on every Cannibal Corpse record since The Bleeding (1994), departed after touring for The Wretched Spawn, and Rob Barrett — who had previously handled rhythm guitar duties on The Bleeding (1994) and Vile (1996) before leaving to join Six Feet Under — rejoined the band for Kill. That return, alongside the same core rhythm section of George \"Corpsegrinder\" Fisher, Pat O'Brien, Alex Webster, and Mazurkiewicz, gave the record a chemistry that fans and the band itself have repeatedly singled out in retrospectives.\n\nKill was also the first Cannibal Corpse album produced by Erik Rutan — the Hate Eternal guitarist and former Morbid Angel member who would go on to produce every subsequent Cannibal Corpse studio album, and who eventually joined the band outright as lead guitarist in 2020. Recorded and mixed at Rutan's Mana Recording Studios in St. Petersburg, Florida between October and December 2005, Kill introduced a punishing, low-tuned sonic identity — it was the first Cannibal Corpse album tracked in G# standard tuning — that gave Mazurkiewicz's drumming a heavier low-end foundation to sit against.\n\nCommercially, Kill became just the second Cannibal Corpse album to chart on the Billboard 200, debuting at #170 in its first week — a modest position by mainstream standards but a notable marker for an uncompromising death metal band a decade after Vile's original 1996 breakthrough. This article breaks down the Pearl Reference and Meinl configuration Mazurkiewicz brought into the Mana Recording Studios sessions, Erik Rutan's production approach, and the technical character of an album routinely ranked among the band's very best.",
+      "content": "Released on March 21, 2006 through Metal Blade Records, \"Kill\" is Cannibal Corpse's tenth studio album and one of the most decisive turning points in the band's catalog. After the more sprawling, dual-mode songwriting of \"The Wretched Spawn\" (2004) and \"Gore Obsessed\" (2002), Kill stripped the band's approach back down to something more direct and relentlessly aggressive — a shift widely described by fans and critics as a \"return to brutality\" after the band's more experimental mid-career stretch. It remains one of the most frequently cited high points of Paul Mazurkiewicz's three-decade career behind the kit.\n\nThe album also marked a significant lineup shift. Guitarist Jack Owen, who had played on every Cannibal Corpse record since The Bleeding (1994), departed after touring for The Wretched Spawn, and Rob Barrett — who had previously handled rhythm guitar duties on The Bleeding (1994) and Vile (1996) before leaving to join Six Feet Under — rejoined the band for Kill. That return, alongside the same core rhythm section of George \"Corpsegrinder\" Fisher, Pat O'Brien, Alex Webster, and Mazurkiewicz, gave the record a chemistry that fans and the band itself have repeatedly singled out in retrospectives.\n\nKill was also the first Cannibal Corpse album produced by Erik Rutan — the Hate Eternal guitarist and former Morbid Angel member who would go on to produce every subsequent Cannibal Corpse studio album, and who eventually joined the band outright as lead guitarist in 2020. Recorded and mixed at Rutan's Mana Recording Studios in St. Petersburg, Florida between October and December 2005, Kill introduced a punishing, low-tuned sonic identity — it was the first Cannibal Corpse album tracked in G# standard tuning — that gave Mazurkiewicz's drumming a heavier low-end foundation to sit against.\n\nCommercially, Kill became just the second Cannibal Corpse album to chart on the Billboard 200, debuting at #170 in its first week — a modest position by mainstream standards but a notable marker for an uncompromising death metal band a decade after Vile's original 1996 breakthrough. This article breaks down the Pearl Reference and Sabian AAX configuration Mazurkiewicz brought into the Mana Recording Studios sessions, Erik Rutan's production approach, and the technical character of an album routinely ranked among the band's very best.",
       "keyPoints": [
         "Cannibal Corpse's tenth studio album (March 21, 2006) — Metal Blade Records — widely regarded as a \"return to brutality\" after the more sprawling Wretched Spawn (2004) and Gore Obsessed (2002)",
         "First album produced by Erik Rutan, recorded and mixed at his Mana Recording Studios in St. Petersburg, Florida, October–December 2005",
@@ -2224,43 +2224,43 @@ export const articles = {
       "estimatedValue": "$400–700 (2006 era) / $400–700 (equivalent model today)"
     },
     "cymbals": {
-      "title": "Meinl, Fully Established: The Kill-Era Arsenal",
-      "brand": "Meinl",
-      "series": "Meinl Byzance (established endorsement, 2006)",
+      "title": "Sabian AAX, Fully Established: The Kill-Era Arsenal",
+      "brand": "Sabian",
+      "series": "Sabian AAX Series",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Meinl 14\" Hi-Hats",
+          "model": "Sabian AAX 14\" Stage Hi-Hats",
           "position": "Left side",
           "notes": "Fast, tight response built for Kill's more direct, high-tempo material"
         },
         {
           "type": "Crash",
-          "model": "Meinl 16\" Crash",
+          "model": "Sabian AAX 18\" X-Plosion Crash",
           "position": "Left crash",
           "notes": "Quick accent for riff punctuation"
         },
         {
           "type": "Crash",
-          "model": "Meinl 18\" Crash",
+          "model": "Sabian AAX 19\" X-Plosion Crash",
           "position": "Right crash",
           "notes": "Fuller crash for the album's heavier, mid-tempo mosh sections"
         },
         {
           "type": "Ride",
-          "model": "Meinl 20\" Ride",
+          "model": "Sabian AAX 21\" Raw Bell Dry Ride",
           "position": "Right",
           "notes": "Bell accents between blast passages"
         },
         {
           "type": "China",
-          "model": "Meinl 18\" China",
+          "model": "Sabian AAXtreme 18\" China",
           "position": "Over rack toms",
           "notes": "Trashy riff-transition accent, a Mazurkiewicz signature since the band's earliest records"
         }
       ],
-      "description": "By Kill, the Meinl endorsement that had been developing since Bloodthirst (1999) and firmly established by Gore Obsessed (2002) needed no further evolution — it was the settled, primary cymbal setup on the record. Meinl's hand-hammered bronze construction gave Mazurkiewicz's cymbals the fast attack and controlled decay to stay articulate against the heavier, G#-tuned guitar mix, while retaining enough body to carry Kill's more direct, momentum-driven arrangements.\n\nThe 18\" China remained a defining accent in Mazurkiewicz's vocabulary, marking the riff transitions that give Cannibal Corpse's songwriting its percussive punctuation — a role it has played consistently across every era of his career, now voiced through a mature Meinl setup rather than the pre-endorsement Paiste and Zildjian cymbals of the band's first decade.\n\nErik Rutan's mix gave the cymbals a present but controlled position, keeping wash from blurring the faster, blast-driven passages that define Kill's more stripped-down songwriting approach.",
-      "estimatedValue": "$1,500–2,600 total (established Meinl endorsement configuration, 2006)"
+      "description": "By Kill, the Sabian endorsement that had been developing since Bloodthirst (1999) and firmly established by Gore Obsessed (2002) needed no further evolution — it was the settled, primary cymbal setup on the record. Sabian's AAX Series construction gave Mazurkiewicz's cymbals the fast attack and controlled decay to stay articulate against the heavier, G#-tuned guitar mix, while retaining enough body to carry Kill's more direct, momentum-driven arrangements.\n\nThe 18\" China remained a defining accent in Mazurkiewicz's vocabulary, marking the riff transitions that give Cannibal Corpse's songwriting its percussive punctuation — a role it has played consistently across every era of his career, now voiced through a mature Sabian AAX setup rather than the pre-endorsement Paiste and Zildjian cymbals of the band's first decade.\n\nErik Rutan's mix gave the cymbals a present but controlled position, keeping wash from blurring the faster, blast-driven passages that define Kill's more stripped-down songwriting approach.",
+      "estimatedValue": "$1,500–2,600 total (established Sabian endorsement configuration, 2006)"
     },
     "hardware": {
       "title": "The Eliminator Era, Refined",
@@ -2304,12 +2304,12 @@ export const articles = {
     },
     "technique": {
       "title": "Direct and Relentless: Mazurkiewicz's Return-to-Brutality Playing",
-      "content": "\"Kill\" is frequently cited by longtime fans and critics as a high-water mark in Paul Mazurkiewicz's recorded output, precisely because of how directly it plays to his core strengths. Where Gore Obsessed and The Wretched Spawn asked him to move fluidly between extreme-tempo blasting and complex mid-tempo grooves within the same songs, Kill's more stripped-down, riff-forward songwriting gave him room to lock into pure, sustained locomotive drive.\n\n**Locomotive Drive at Full Force:**\nThe defining technical trait of Kill is momentum. Tracks like \"Make Them Suffer\" and \"Necrosadistic Warning\" build around relentless, sustained double-bass patterns rather than the tempo-shifting dynamics of the band's more compositionally ambitious mid-2000s material — a return to the more singular attack that defined the Morrisound era, now delivered with two decades of additional technical refinement.\n\n**Conventional Grip Meets a Heavier Mix:**\nMazurkiewicz's traditional grip technique, fully mature by this point in his career, had to adapt to Erik Rutan's heavier, G#-tuned mix — playing with the same precision as ever while cutting through a denser low-end than any prior Cannibal Corpse record.\n\n**Bridging Two Eras:**\nThe closing track, \"A Skull Full of Maggots\" — a re-recording of a song from the band's 1990 debut, Eaten Back to Life — is a direct technical bookend, letting listeners hear Mazurkiewicz's original 1990 performance philosophy reinterpreted with sixteen additional years of refinement, on far superior modern gear.\n\nFor the surrounding context of this era:\n- [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz) — complete profile and technique breakdown\n- [Gore Obsessed drum setup (2002)](/articles/gore-obsessed-drum-setup) — the consolidation record that preceded Kill\n- [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup) — the modern Pearl Reference / Meinl / Pearl Eliminator rig this album helped define\n- [Paul Mazurkiewicz vs. Pete Sandoval](/compare/paul-mazurkiewicz-vs-pete-sandoval) — how his locomotive approach compares to Morbid Angel's blast-beat pioneer"
+      "content": "\"Kill\" is frequently cited by longtime fans and critics as a high-water mark in Paul Mazurkiewicz's recorded output, precisely because of how directly it plays to his core strengths. Where Gore Obsessed and The Wretched Spawn asked him to move fluidly between extreme-tempo blasting and complex mid-tempo grooves within the same songs, Kill's more stripped-down, riff-forward songwriting gave him room to lock into pure, sustained locomotive drive.\n\n**Locomotive Drive at Full Force:**\nThe defining technical trait of Kill is momentum. Tracks like \"Make Them Suffer\" and \"Necrosadistic Warning\" build around relentless, sustained double-bass patterns rather than the tempo-shifting dynamics of the band's more compositionally ambitious mid-2000s material — a return to the more singular attack that defined the Morrisound era, now delivered with two decades of additional technical refinement.\n\n**Conventional Grip Meets a Heavier Mix:**\nMazurkiewicz's traditional grip technique, fully mature by this point in his career, had to adapt to Erik Rutan's heavier, G#-tuned mix — playing with the same precision as ever while cutting through a denser low-end than any prior Cannibal Corpse record.\n\n**Bridging Two Eras:**\nThe closing track, \"A Skull Full of Maggots\" — a re-recording of a song from the band's 1990 debut, Eaten Back to Life — is a direct technical bookend, letting listeners hear Mazurkiewicz's original 1990 performance philosophy reinterpreted with sixteen additional years of refinement, on far superior modern gear.\n\nFor the surrounding context of this era:\n- [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz) — complete profile and technique breakdown\n- [Gore Obsessed drum setup (2002)](/articles/gore-obsessed-drum-setup) — the consolidation record that preceded Kill\n- [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup) — the modern Pearl Reference / Sabian AAX / Pearl Eliminator rig this album helped define\n- [Paul Mazurkiewicz vs. Pete Sandoval](/compare/paul-mazurkiewicz-vs-pete-sandoval) — how his locomotive approach compares to Morbid Angel's blast-beat pioneer"
     },
     "faq": [
       {
         "question": "What kit did Paul Mazurkiewicz use on Kill?",
-        "answer": "On Kill (2006), Paul Mazurkiewicz played his fully mature Pearl Reference kit — dual 22-inch x 18-inch kick drums, a four-tom layout (two rack toms, two floor toms) in maple/African mahogany hybrid shells, and his signature 14-inch x 6.5-inch Pearl Free-Floating steel-shell snare. His Meinl cymbal setup and Pearl Eliminator double bass pedal, both fully established since Gore Obsessed (2002), rounded out a configuration that is essentially identical to his modern rig."
+        "answer": "On Kill (2006), Paul Mazurkiewicz played his fully mature Pearl Reference kit — dual 22-inch x 18-inch kick drums, a four-tom layout (two rack toms, two floor toms) in maple/African mahogany hybrid shells, and his signature 14-inch x 6.5-inch Pearl Free-Floating steel-shell snare. His Sabian AAX cymbal setup and Pearl Eliminator double bass pedal, both fully established since Gore Obsessed (2002), rounded out a configuration that is essentially identical to his modern rig."
       },
       {
         "question": "Who produced Kill and where was it recorded?",
@@ -2325,7 +2325,7 @@ export const articles = {
       },
       {
         "question": "What is the significance of 'A Skull Full of Maggots' on Kill?",
-        "answer": "\"A Skull Full of Maggots\" closes Kill (2006) as a re-recording of a song originally released on Cannibal Corpse's 1990 debut, Eaten Back to Life. It gives listeners a direct point of comparison between Paul Mazurkiewicz's earliest recorded drumming and his fully mature, sixteen-years-later playing on far more developed Pearl Reference and Meinl gear."
+        "answer": "\"A Skull Full of Maggots\" closes Kill (2006) as a re-recording of a song originally released on Cannibal Corpse's 1990 debut, Eaten Back to Life. It gives listeners a direct point of comparison between Paul Mazurkiewicz's earliest recorded drumming and his fully mature, sixteen-years-later playing on far more developed Pearl Reference and Sabian AAX gear."
       }
     ],
     "videos": [],
@@ -2344,7 +2344,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "The High Point of the Rutan Era's Opening Chapter",
-      "content": "\"Kill\" endures as one of the most celebrated albums in Cannibal Corpse's catalog precisely because it distilled everything the band had been building toward across the Fisher-era records into something more direct and immediate. Paul Mazurkiewicz's Pearl Reference and Meinl rig — fully mature by this point, no longer developing but simply performing — gave him the tools to deliver some of the most relentlessly locomotive drumming of his career, and Erik Rutan's Mana Recording Studios production established a punishing new sonic identity that would define the band for the next two decades.\n\nThe return of Rob Barrett, the shift to G# standard tuning, and the beginning of the Rutan production partnership make Kill a genuine inflection point in the band's history — one where gear, lineup, and songwriting all realigned at once, with Mazurkiewicz's playing as the connective thread running through it.\n\nFor the complete Paul Mazurkiewicz CC gear arc around this record:\n- **The predecessor**: [Gore Obsessed drum setup (2002)](/articles/gore-obsessed-drum-setup) — the pre-Kill consolidation record\n- **The successor**: [Evisceration Plague drum setup (2009)](/articles/evisceration-plague-drum-setup) — Rutan's second Mana Recording Studios session\n- **The genre landmark**: [Tomb of the Mutilated drum setup (1992)](/articles/tomb-of-the-mutilated-drum-setup) — the Morrisound peak\n- **Modern rig**: [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup) — Pearl Reference / Meinl / Pearl Eliminator\n- **Full profile**: [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz)"
+      "content": "\"Kill\" endures as one of the most celebrated albums in Cannibal Corpse's catalog precisely because it distilled everything the band had been building toward across the Fisher-era records into something more direct and immediate. Paul Mazurkiewicz's Pearl Reference and Sabian AAX rig — fully mature by this point, no longer developing but simply performing — gave him the tools to deliver some of the most relentlessly locomotive drumming of his career, and Erik Rutan's Mana Recording Studios production established a punishing new sonic identity that would define the band for the next two decades.\n\nThe return of Rob Barrett, the shift to G# standard tuning, and the beginning of the Rutan production partnership make Kill a genuine inflection point in the band's history — one where gear, lineup, and songwriting all realigned at once, with Mazurkiewicz's playing as the connective thread running through it.\n\nFor the complete Paul Mazurkiewicz CC gear arc around this record:\n- **The predecessor**: [Gore Obsessed drum setup (2002)](/articles/gore-obsessed-drum-setup) — the pre-Kill consolidation record\n- **The successor**: [Evisceration Plague drum setup (2009)](/articles/evisceration-plague-drum-setup) — Rutan's second Mana Recording Studios session\n- **The genre landmark**: [Tomb of the Mutilated drum setup (1992)](/articles/tomb-of-the-mutilated-drum-setup) — the Morrisound peak\n- **Modern rig**: [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup) — Pearl Reference / Sabian AAX / Pearl Eliminator\n- **Full profile**: [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz)"
     }
   },
   "evisceration-plague-drum-setup": {
@@ -2367,7 +2367,7 @@ export const articles = {
     "dateModified": "2026-07-01",
     "author": "MetalForge Editorial",
     "title": "Paul Mazurkiewicz's Drum Setup on Cannibal Corpse's Evisceration Plague (2009)",
-    "description": "Complete drum gear breakdown for Cannibal Corpse's Evisceration Plague (2009). Paul Mazurkiewicz's Pearl Reference and Meinl rig, Erik Rutan's second Mana Recording Studios production, and the band's highest Billboard 200 debut to that point.",
+    "description": "Complete drum gear breakdown for Cannibal Corpse's Evisceration Plague (2009). Paul Mazurkiewicz's Pearl Reference and Sabian AAX rig, Erik Rutan's second Mana Recording Studios production, and the band's highest Billboard 200 debut to that point.",
     "seoKeywords": [
       "evisceration plague drums",
       "paul mazurkiewicz evisceration plague drum setup",
@@ -2381,7 +2381,7 @@ export const articles = {
     "ogImage": "/images/albums/evisceration-plague-drums.webp",
     "intro": {
       "title": "A New Technical Peak: Mazurkiewicz on Cannibal Corpse's Eleventh Album",
-      "content": "Released on February 3, 2009 through Metal Blade Records, \"Evisceration Plague\" is Cannibal Corpse's eleventh studio album and the direct follow-up to \"Kill\" (2006) — widely considered one of the strongest records of the band's mid-career run. Produced once again by Erik Rutan at his Mana Recording Studios in St. Petersburg, Florida, Evisceration Plague continued the low-tuned, punishing sonic identity Rutan and the band established on Kill, while pushing Paul Mazurkiewicz's drumming to what several contemporary critics singled out as a new technical peak.\n\nThe same five-piece lineup that recorded Kill returned intact: George \"Corpsegrinder\" Fisher, Pat O'Brien, Rob Barrett, Alex Webster, and Mazurkiewicz — giving the band two consecutive albums with a stable roster for the first time since the earlier Fisher-era run that recorded Gallery of Suicide (1998) through Gore Obsessed (2002). That continuity, paired with a second consecutive session in Rutan's own studio, let the band refine rather than reinvent the approach that had made Kill such a well-received comeback.\n\nEvisceration Plague became Cannibal Corpse's highest-charting album to that point, entering the Billboard 200 at #66 on first-week sales of roughly 9,600 copies — more than double the chart position Kill had managed three years earlier. AllMusic's Greg Prato awarded the record 3.5 out of 5 stars, praising its \"metronome-like precision drumming, razor-sharp riffing\" and singling out the eight-minute-plus title track — the fifth Cannibal Corpse album to feature a title track, and the subject of an official music video — as a highlight. Contemporary reviews repeatedly cited Mazurkiewicz's playing specifically, describing his work on the record as his most technically accomplished performance to date, built on some of the fastest and most controlled blast-beat passages of his career.\n\nThis article breaks down the Pearl Reference and Meinl rig Mazurkiewicz brought into the second Mana Recording Studios session, Erik Rutan's production on the album, and the technical character of a record that pushed his drumming to a new level of precision.",
+      "content": "Released on February 3, 2009 through Metal Blade Records, \"Evisceration Plague\" is Cannibal Corpse's eleventh studio album and the direct follow-up to \"Kill\" (2006) — widely considered one of the strongest records of the band's mid-career run. Produced once again by Erik Rutan at his Mana Recording Studios in St. Petersburg, Florida, Evisceration Plague continued the low-tuned, punishing sonic identity Rutan and the band established on Kill, while pushing Paul Mazurkiewicz's drumming to what several contemporary critics singled out as a new technical peak.\n\nThe same five-piece lineup that recorded Kill returned intact: George \"Corpsegrinder\" Fisher, Pat O'Brien, Rob Barrett, Alex Webster, and Mazurkiewicz — giving the band two consecutive albums with a stable roster for the first time since the earlier Fisher-era run that recorded Gallery of Suicide (1998) through Gore Obsessed (2002). That continuity, paired with a second consecutive session in Rutan's own studio, let the band refine rather than reinvent the approach that had made Kill such a well-received comeback.\n\nEvisceration Plague became Cannibal Corpse's highest-charting album to that point, entering the Billboard 200 at #66 on first-week sales of roughly 9,600 copies — more than double the chart position Kill had managed three years earlier. AllMusic's Greg Prato awarded the record 3.5 out of 5 stars, praising its \"metronome-like precision drumming, razor-sharp riffing\" and singling out the eight-minute-plus title track — the fifth Cannibal Corpse album to feature a title track, and the subject of an official music video — as a highlight. Contemporary reviews repeatedly cited Mazurkiewicz's playing specifically, describing his work on the record as his most technically accomplished performance to date, built on some of the fastest and most controlled blast-beat passages of his career.\n\nThis article breaks down the Pearl Reference and Sabian AAX rig Mazurkiewicz brought into the second Mana Recording Studios session, Erik Rutan's production on the album, and the technical character of a record that pushed his drumming to a new level of precision.",
       "keyPoints": [
         "Cannibal Corpse's eleventh studio album (February 3, 2009) — Metal Blade Records — the direct follow-up to Kill (2006)",
         "Second consecutive album produced by Erik Rutan at his Mana Recording Studios, St. Petersburg, Florida",
@@ -2423,43 +2423,43 @@ export const articles = {
       "estimatedValue": "$400–700 (2009 era) / $400–700 (equivalent model today)"
     },
     "cymbals": {
-      "title": "Meinl Byzance: The Settled Modern Arsenal",
-      "brand": "Meinl",
-      "series": "Meinl Byzance (established endorsement, 2009)",
+      "title": "Sabian AAX: The Settled Modern Arsenal",
+      "brand": "Sabian",
+      "series": "Sabian AAX Series",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Meinl 14\" Hi-Hats",
+          "model": "Sabian AAX 14\" Stage Hi-Hats",
           "position": "Left side",
           "notes": "Fast, tight response for the album's extreme-tempo blast passages"
         },
         {
           "type": "Crash",
-          "model": "Meinl 16\" Crash",
+          "model": "Sabian AAX 18\" X-Plosion Crash",
           "position": "Left crash",
           "notes": "Quick accent for riff punctuation"
         },
         {
           "type": "Crash",
-          "model": "Meinl 18\" Crash",
+          "model": "Sabian AAX 19\" X-Plosion Crash",
           "position": "Right crash",
           "notes": "Fuller crash for the title track's heavier, more deliberate passages"
         },
         {
           "type": "Ride",
-          "model": "Meinl 20\" Ride",
+          "model": "Sabian AAX 21\" Raw Bell Dry Ride",
           "position": "Right",
           "notes": "Bell accents between blast passages"
         },
         {
           "type": "China",
-          "model": "Meinl 18\" China",
+          "model": "Sabian AAXtreme 18\" China",
           "position": "Over rack toms",
-          "notes": "Trashy riff-transition accent, unchanged across Mazurkiewicz's entire Meinl-endorsement career"
+          "notes": "Trashy riff-transition accent, unchanged across Mazurkiewicz's entire Sabian-endorsement career"
         }
       ],
-      "description": "The Meinl Byzance setup that carried Mazurkiewicz through Kill returned unaltered on Evisceration Plague, and by 2009 there was little left to establish — the endorsement, first developing on Bloodthirst a decade earlier, was fully mature. Meinl's hand-hammered bronze construction gave the cymbals the fast attack needed to stay articulate through the album's fastest blast sections, a quality contemporary reviewers highlighted alongside Mazurkiewicz's drumming itself.\n\nThe 18\" China remained the go-to accent for riff transitions, a constant in Mazurkiewicz's vocabulary across every era of his career, now delivering that role through a cymbal setup that had not needed to change in years — a sign of just how settled his gear identity had become by this point.\n\nRutan's mix kept the cymbals present but tightly controlled, avoiding the kind of wash that could blur the album's most extreme blast passages, particularly on the title track's centerpiece drumming.",
-      "estimatedValue": "$1,500–2,600 total (established Meinl endorsement configuration, 2009)"
+      "description": "The Sabian AAX setup that carried Mazurkiewicz through Kill returned unaltered on Evisceration Plague, and by 2009 there was little left to establish — the endorsement, first developing on Bloodthirst a decade earlier, was fully mature. Sabian's AAX Series construction gave the cymbals the fast attack needed to stay articulate through the album's fastest blast sections, a quality contemporary reviewers highlighted alongside Mazurkiewicz's drumming itself.\n\nThe 18\" China remained the go-to accent for riff transitions, a constant in Mazurkiewicz's vocabulary across every era of his career, now delivering that role through a cymbal setup that had not needed to change in years — a sign of just how settled his gear identity had become by this point.\n\nRutan's mix kept the cymbals present but tightly controlled, avoiding the kind of wash that could blur the album's most extreme blast passages, particularly on the title track's centerpiece drumming.",
+      "estimatedValue": "$1,500–2,600 total (established Sabian endorsement configuration, 2009)"
     },
     "hardware": {
       "title": "The Eliminator, Pushed to Its Limit",
@@ -2503,12 +2503,12 @@ export const articles = {
     },
     "technique": {
       "title": "The Fastest, Most Controlled Playing of His Career",
-      "content": "\"Evisceration Plague\" is frequently cited as containing some of Paul Mazurkiewicz's most technically extreme playing on record. Contemporary reviews specifically praised his blast-beat work as insanely fast while remaining fully controlled — a combination that is far harder to sustain across a full album than either speed or control in isolation.\n\n**Sustained Extremity:**\nWhere Kill's songwriting favored direct, momentum-driven double-bass patterns, Evisceration Plague's material demanded longer sustained passages at even higher tempo, pushing both his conventional grip technique and his Pearl Eliminator setup to their functional limits across the album's runtime.\n\n**The Title Track as Centerpiece:**\nThe eight-minute-plus title track — the fifth Cannibal Corpse song to share its name with its parent album, and the subject of an official music video — showcases the album's dynamic range in miniature, moving between the record's most extreme blast sections and heavier, more deliberate passages within a single song.\n\n**Two Consecutive Albums, One Refined Identity:**\nWith the same lineup, the same producer, and the same studio as Kill, Evisceration Plague let Mazurkiewicz refine an approach rather than develop a new one — and critics at the time widely agreed the refinement produced his most accomplished recorded performance up to that point.\n\nFor the surrounding context of this era:\n- [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz) — complete profile and technique breakdown\n- [Kill drum setup (2006)](/articles/kill-drum-setup) — the return-to-brutality album that preceded it\n- [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup) — the modern Pearl Reference / Meinl / Pearl Eliminator rig\n- [Paul Mazurkiewicz vs. Tim Yeung](/compare/paul-mazurkiewicz-vs-tim-yeung) — how his blast-beat control compares to another modern death metal technician"
+      "content": "\"Evisceration Plague\" is frequently cited as containing some of Paul Mazurkiewicz's most technically extreme playing on record. Contemporary reviews specifically praised his blast-beat work as insanely fast while remaining fully controlled — a combination that is far harder to sustain across a full album than either speed or control in isolation.\n\n**Sustained Extremity:**\nWhere Kill's songwriting favored direct, momentum-driven double-bass patterns, Evisceration Plague's material demanded longer sustained passages at even higher tempo, pushing both his conventional grip technique and his Pearl Eliminator setup to their functional limits across the album's runtime.\n\n**The Title Track as Centerpiece:**\nThe eight-minute-plus title track — the fifth Cannibal Corpse song to share its name with its parent album, and the subject of an official music video — showcases the album's dynamic range in miniature, moving between the record's most extreme blast sections and heavier, more deliberate passages within a single song.\n\n**Two Consecutive Albums, One Refined Identity:**\nWith the same lineup, the same producer, and the same studio as Kill, Evisceration Plague let Mazurkiewicz refine an approach rather than develop a new one — and critics at the time widely agreed the refinement produced his most accomplished recorded performance up to that point.\n\nFor the surrounding context of this era:\n- [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz) — complete profile and technique breakdown\n- [Kill drum setup (2006)](/articles/kill-drum-setup) — the return-to-brutality album that preceded it\n- [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup) — the modern Pearl Reference / Sabian AAX / Pearl Eliminator rig\n- [Paul Mazurkiewicz vs. Tim Yeung](/compare/paul-mazurkiewicz-vs-tim-yeung) — how his blast-beat control compares to another modern death metal technician"
     },
     "faq": [
       {
         "question": "What kit did Paul Mazurkiewicz use on Evisceration Plague?",
-        "answer": "On Evisceration Plague (2009), Paul Mazurkiewicz played the same fully mature Pearl Reference kit documented on Kill (2006) — dual 22-inch x 18-inch kick drums, a four-tom layout in maple/African mahogany hybrid shells, and his 14-inch x 6.5-inch Pearl Free-Floating steel-shell snare. His Meinl Byzance cymbal setup and Pearl Eliminator double bass pedal carried over unchanged, giving the album the same core rig as its predecessor with no gear changes."
+        "answer": "On Evisceration Plague (2009), Paul Mazurkiewicz played the same fully mature Pearl Reference kit documented on Kill (2006) — dual 22-inch x 18-inch kick drums, a four-tom layout in maple/African mahogany hybrid shells, and his 14-inch x 6.5-inch Pearl Free-Floating steel-shell snare. His Sabian AAX cymbal setup and Pearl Eliminator double bass pedal carried over unchanged, giving the album the same core rig as its predecessor with no gear changes."
       },
       {
         "question": "Who produced Evisceration Plague and where was it recorded?",
@@ -2542,7 +2542,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "The Refinement Album: Consistency as Achievement",
-      "content": "\"Evisceration Plague\" doesn't reinvent what Kill established three years earlier — and that consistency is exactly what makes it notable. Paul Mazurkiewicz's Pearl Reference and Meinl rig, fully settled since the Kill sessions, gave him a stable platform to deliver what critics at the time widely regarded as his fastest, most controlled recorded performance to date. Erik Rutan's second consecutive Mana Recording Studios production refined rather than rebuilt the punishing sonic identity introduced on Kill, and the album rewarded that consistency with Cannibal Corpse's best Billboard 200 debut to that point.\n\nFor a band eleven albums into its career, Evisceration Plague stands as proof that a stable lineup, a trusted producer, and unchanged gear can still produce a genuine technical leap forward — not through reinvention, but through the kind of refinement that only comes from repetition at the highest level.\n\nFor the complete Paul Mazurkiewicz CC gear arc around this record:\n- **The predecessor**: [Kill drum setup (2006)](/articles/kill-drum-setup) — the return-to-brutality album and the start of the Rutan era\n- **The earlier consolidation chapter**: [Gore Obsessed drum setup (2002)](/articles/gore-obsessed-drum-setup) — the pre-Kill bridge record\n- **The genre landmark**: [Tomb of the Mutilated drum setup (1992)](/articles/tomb-of-the-mutilated-drum-setup) — the Morrisound peak\n- **Modern rig**: [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup) — Pearl Reference / Meinl / Pearl Eliminator\n- **Full profile**: [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz)"
+      "content": "\"Evisceration Plague\" doesn't reinvent what Kill established three years earlier — and that consistency is exactly what makes it notable. Paul Mazurkiewicz's Pearl Reference and Sabian AAX rig, fully settled since the Kill sessions, gave him a stable platform to deliver what critics at the time widely regarded as his fastest, most controlled recorded performance to date. Erik Rutan's second consecutive Mana Recording Studios production refined rather than rebuilt the punishing sonic identity introduced on Kill, and the album rewarded that consistency with Cannibal Corpse's best Billboard 200 debut to that point.\n\nFor a band eleven albums into its career, Evisceration Plague stands as proof that a stable lineup, a trusted producer, and unchanged gear can still produce a genuine technical leap forward — not through reinvention, but through the kind of refinement that only comes from repetition at the highest level.\n\nFor the complete Paul Mazurkiewicz CC gear arc around this record:\n- **The predecessor**: [Kill drum setup (2006)](/articles/kill-drum-setup) — the return-to-brutality album and the start of the Rutan era\n- **The earlier consolidation chapter**: [Gore Obsessed drum setup (2002)](/articles/gore-obsessed-drum-setup) — the pre-Kill bridge record\n- **The genre landmark**: [Tomb of the Mutilated drum setup (1992)](/articles/tomb-of-the-mutilated-drum-setup) — the Morrisound peak\n- **Modern rig**: [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup) — Pearl Reference / Sabian AAX / Pearl Eliminator\n- **Full profile**: [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz)"
     }
   },
   "torture-drum-setup": {
@@ -2565,7 +2565,7 @@ export const articles = {
     "dateModified": "2026-07-02",
     "author": "MetalForge Editorial",
     "title": "Paul Mazurkiewicz's Drum Setup on Cannibal Corpse's 'Torture' (2012)",
-    "description": "Complete drum gear breakdown for Cannibal Corpse's Torture (2012). Paul Mazurkiewicz's Pearl Reference and Meinl rig, Erik Rutan's two-studio production, and the band's highest Billboard 200 debut at the time.",
+    "description": "Complete drum gear breakdown for Cannibal Corpse's Torture (2012). Paul Mazurkiewicz's Pearl Reference and Sabian AAX rig, Erik Rutan's two-studio production, and the band's highest Billboard 200 debut at the time.",
     "seoKeywords": [
       "torture drums",
       "paul mazurkiewicz torture drum setup",
@@ -2579,7 +2579,7 @@ export const articles = {
     "ogImage": "/images/albums/torture-drums.webp",
     "intro": {
       "title": "The Comeback Record: Mazurkiewicz on Cannibal Corpse's Twelfth Album",
-      "content": "Released on March 13, 2012 through Metal Blade Records, \"Torture\" is Cannibal Corpse's twelfth studio album and the direct follow-up to \"Evisceration Plague\" (2009). The same five-piece lineup that had recorded the band's two previous records returned intact for a third consecutive album: George \"Corpsegrinder\" Fisher, Pat O'Brien, Rob Barrett, Alex Webster, and Paul Mazurkiewicz — giving Cannibal Corpse its longest run of lineup stability in over a decade.\n\nTorture was once again shaped by Erik Rutan, but the production process itself changed. Rather than tracking the entire record at his own Mana Recording Studios as he had on Kill and Evisceration Plague, Rutan split the sessions: drums, bass, and rhythm guitars were recorded at Sonic Ranch Studios in Tornillo, Texas — the same sprawling desert complex the band had used for 2006's mixing work — while guitar solos, additional guitar, and vocals were tracked and mixed at Rutan's Mana Recording Studios in St. Petersburg, Florida. The album was mastered by Alan Douches at West West Side Music.\n\nCommercially, Torture became Cannibal Corpse's best chart performance to date, debuting at #38 on the Billboard 200 on first-week sales of roughly 9,600 copies — surpassing Evisceration Plague's #66 debut three years earlier. Critical reception was strong across the board: AllMusic's Gregory Heaney awarded the album 4 out of 5 stars, and the record posted a Metacritic aggregate score of 81/100 based on seven critic reviews, making it one of the best-reviewed Cannibal Corpse albums of the band's second decade.\n\nThis article breaks down the Pearl Reference and Meinl configuration Mazurkiewicz brought into the Sonic Ranch sessions, Erik Rutan's split-studio production approach, and the technical character of a record that extended the band's most stable and highly regarded creative stretch.",
+      "content": "Released on March 13, 2012 through Metal Blade Records, \"Torture\" is Cannibal Corpse's twelfth studio album and the direct follow-up to \"Evisceration Plague\" (2009). The same five-piece lineup that had recorded the band's two previous records returned intact for a third consecutive album: George \"Corpsegrinder\" Fisher, Pat O'Brien, Rob Barrett, Alex Webster, and Paul Mazurkiewicz — giving Cannibal Corpse its longest run of lineup stability in over a decade.\n\nTorture was once again shaped by Erik Rutan, but the production process itself changed. Rather than tracking the entire record at his own Mana Recording Studios as he had on Kill and Evisceration Plague, Rutan split the sessions: drums, bass, and rhythm guitars were recorded at Sonic Ranch Studios in Tornillo, Texas — the same sprawling desert complex the band had used for 2006's mixing work — while guitar solos, additional guitar, and vocals were tracked and mixed at Rutan's Mana Recording Studios in St. Petersburg, Florida. The album was mastered by Alan Douches at West West Side Music.\n\nCommercially, Torture became Cannibal Corpse's best chart performance to date, debuting at #38 on the Billboard 200 on first-week sales of roughly 9,600 copies — surpassing Evisceration Plague's #66 debut three years earlier. Critical reception was strong across the board: AllMusic's Gregory Heaney awarded the album 4 out of 5 stars, and the record posted a Metacritic aggregate score of 81/100 based on seven critic reviews, making it one of the best-reviewed Cannibal Corpse albums of the band's second decade.\n\nThis article breaks down the Pearl Reference and Sabian AAX configuration Mazurkiewicz brought into the Sonic Ranch sessions, Erik Rutan's split-studio production approach, and the technical character of a record that extended the band's most stable and highly regarded creative stretch.",
       "keyPoints": [
         "Cannibal Corpse's twelfth studio album (March 13, 2012) — Metal Blade Records — the direct follow-up to Evisceration Plague (2009)",
         "Third consecutive album with the same five-piece lineup: Fisher, O'Brien, Barrett, Webster, Mazurkiewicz",
@@ -2622,43 +2622,43 @@ export const articles = {
       "estimatedValue": "$400–700 (2012 era) / $400–700 (equivalent model today)"
     },
     "cymbals": {
-      "title": "Meinl Byzance: A Settled Arsenal at Sonic Ranch",
-      "brand": "Meinl",
-      "series": "Meinl Byzance (established endorsement, 2012)",
+      "title": "Sabian AAX: A Settled Arsenal at Sonic Ranch",
+      "brand": "Sabian",
+      "series": "Sabian AAX Series",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Meinl 14\" Hi-Hats",
+          "model": "Sabian AAX 14\" Stage Hi-Hats",
           "position": "Left side",
           "notes": "Fast, tight response for Torture's high-tempo material"
         },
         {
           "type": "Crash",
-          "model": "Meinl 16\" Crash",
+          "model": "Sabian AAX 18\" X-Plosion Crash",
           "position": "Left crash",
           "notes": "Quick accent for riff punctuation"
         },
         {
           "type": "Crash",
-          "model": "Meinl 18\" Crash",
+          "model": "Sabian AAX 19\" X-Plosion Crash",
           "position": "Right crash",
           "notes": "Fuller crash for the album's heavier, mid-tempo passages"
         },
         {
           "type": "Ride",
-          "model": "Meinl 20\" Ride",
+          "model": "Sabian AAX 21\" Raw Bell Dry Ride",
           "position": "Right",
           "notes": "Bell accents between blast passages"
         },
         {
           "type": "China",
-          "model": "Meinl 18\" China",
+          "model": "Sabian AAXtreme 18\" China",
           "position": "Over rack toms",
           "notes": "Trashy riff-transition accent, a Mazurkiewicz signature since the band's earliest records"
         }
       ],
-      "description": "The Meinl Byzance setup that had carried Mazurkiewicz through Kill and Evisceration Plague needed no adjustment for Torture — by 2012, the endorsement was as settled as the rest of his rig. Meinl's hand-hammered bronze construction gave the cymbals the fast attack and controlled decay to stay articulate against the album's dense low end, holding up equally well whether tracked in the Sonic Ranch drum room or mixed back at Mana.\n\nThe 18\" China remained the defining accent for riff transitions across tracks like \"Scourge of Iron\" and \"Demented Aggression,\" a role it has occupied in Mazurkiewicz's vocabulary across every era of his recorded career. Rutan's mix again kept the cymbals present but controlled, avoiding wash across the album's faster blast-driven sections.",
-      "estimatedValue": "$1,500–2,600 total (established Meinl endorsement configuration, 2012)"
+      "description": "The Sabian AAX setup that had carried Mazurkiewicz through Kill and Evisceration Plague needed no adjustment for Torture — by 2012, the endorsement was as settled as the rest of his rig. Sabian's AAX Series construction gave the cymbals the fast attack and controlled decay to stay articulate against the album's dense low end, holding up equally well whether tracked in the Sonic Ranch drum room or mixed back at Mana.\n\nThe 18\" China remained the defining accent for riff transitions across tracks like \"Scourge of Iron\" and \"Demented Aggression,\" a role it has occupied in Mazurkiewicz's vocabulary across every era of his recorded career. Rutan's mix again kept the cymbals present but controlled, avoiding wash across the album's faster blast-driven sections.",
+      "estimatedValue": "$1,500–2,600 total (established Sabian endorsement configuration, 2012)"
     },
     "hardware": {
       "title": "The Eliminator, Carried Into a New Room",
@@ -2702,12 +2702,12 @@ export const articles = {
     },
     "technique": {
       "title": "Consistency at a New Technical Peak",
-      "content": "\"Torture\" extends the locomotive, high-velocity drumming approach Mazurkiewicz had refined across Kill and Evisceration Plague, applying it to a set of songs recorded in an unfamiliar room without losing the precision that had defined the prior two records.\n\n**Scourge of Iron and the Album's Technical Centerpiece:**\n\"Scourge of Iron\" stands as one of the most frequently cited tracks from the record, built around the kind of sustained, high-velocity double-bass work that had become Mazurkiewicz's calling card since Evisceration Plague — a direct continuation of the technical peak critics had already identified on the prior album.\n\n**Encased in Concrete and Sustained Groove:**\n\"Encased in Concrete\" showcases a different side of the same rig: heavier, more deliberate mid-tempo sections that give the Pearl Reference kit's low end room to breathe against the album's dense guitar mix, a contrast to the extreme-tempo blasting elsewhere on the record.\n\n**Three Albums, One Producer, One Rig:**\nWith Rutan now three albums into producing the band, and Mazurkiewicz's Pearl Reference, Meinl, and Pearl Eliminator setup fully unchanged since Kill, Torture stands as further proof that the band's mid-career commercial and critical rise came from creative and personnel stability rather than reinvention.\n\nFor the surrounding context of this era:\n- [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz) — complete profile and technique breakdown\n- [Evisceration Plague drum setup (2009)](/articles/evisceration-plague-drum-setup) — the album that preceded Torture\n- [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup) — the modern Pearl Reference / Meinl / Pearl Eliminator rig\n- [Cannibal Corpse band page](/band/cannibal-corpse) — full band history and lineup"
+      "content": "\"Torture\" extends the locomotive, high-velocity drumming approach Mazurkiewicz had refined across Kill and Evisceration Plague, applying it to a set of songs recorded in an unfamiliar room without losing the precision that had defined the prior two records.\n\n**Scourge of Iron and the Album's Technical Centerpiece:**\n\"Scourge of Iron\" stands as one of the most frequently cited tracks from the record, built around the kind of sustained, high-velocity double-bass work that had become Mazurkiewicz's calling card since Evisceration Plague — a direct continuation of the technical peak critics had already identified on the prior album.\n\n**Encased in Concrete and Sustained Groove:**\n\"Encased in Concrete\" showcases a different side of the same rig: heavier, more deliberate mid-tempo sections that give the Pearl Reference kit's low end room to breathe against the album's dense guitar mix, a contrast to the extreme-tempo blasting elsewhere on the record.\n\n**Three Albums, One Producer, One Rig:**\nWith Rutan now three albums into producing the band, and Mazurkiewicz's Pearl Reference, Sabian AAX, and Pearl Eliminator setup fully unchanged since Kill, Torture stands as further proof that the band's mid-career commercial and critical rise came from creative and personnel stability rather than reinvention.\n\nFor the surrounding context of this era:\n- [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz) — complete profile and technique breakdown\n- [Evisceration Plague drum setup (2009)](/articles/evisceration-plague-drum-setup) — the album that preceded Torture\n- [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup) — the modern Pearl Reference / Sabian AAX / Pearl Eliminator rig\n- [Cannibal Corpse band page](/band/cannibal-corpse) — full band history and lineup"
     },
     "faq": [
       {
         "question": "What kit did Paul Mazurkiewicz use on Torture?",
-        "answer": "On Torture (2012), Paul Mazurkiewicz played the same Pearl Reference kit documented on Kill (2006) and Evisceration Plague (2009) — dual 22-inch x 18-inch kick drums, a four-tom layout in maple/African mahogany hybrid shells, and his 14-inch x 6.5-inch Pearl Free-Floating steel-shell snare. His Meinl Byzance cymbal setup and Pearl Eliminator double bass pedal carried over unchanged, giving the album the same core rig as its two predecessors."
+        "answer": "On Torture (2012), Paul Mazurkiewicz played the same Pearl Reference kit documented on Kill (2006) and Evisceration Plague (2009) — dual 22-inch x 18-inch kick drums, a four-tom layout in maple/African mahogany hybrid shells, and his 14-inch x 6.5-inch Pearl Free-Floating steel-shell snare. His Sabian AAX cymbal setup and Pearl Eliminator double bass pedal carried over unchanged, giving the album the same core rig as its two predecessors."
       },
       {
         "question": "Who produced Torture and where was it recorded?",
@@ -2741,7 +2741,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "The High-Water Mark of the Rutan Era's Middle Stretch",
-      "content": "\"Torture\" stands as the commercial and critical high point of Cannibal Corpse's three-album run with the same lineup and the same producer. Paul Mazurkiewicz's Pearl Reference and Meinl rig, unchanged since Kill (2006), gave him a stable platform to carry his playing into an unfamiliar tracking room at Sonic Ranch Studios without losing a step, while Erik Rutan's split-studio production kept the band's established sonic identity fully intact.\n\nWith a #38 Billboard 200 debut, an AllMusic 4/5 rating, and an 81/100 Metacritic score, Torture gave Cannibal Corpse its best chart and critical reception to date — proof that three albums into a stable creative partnership, the band was still finding ways to sharpen rather than repeat itself.\n\nFor the complete Paul Mazurkiewicz CC gear arc around this record:\n- **The predecessor**: [Evisceration Plague drum setup (2009)](/articles/evisceration-plague-drum-setup) — Rutan's second Mana Recording Studios session\n- **The successor**: [A Skeletal Domain drum setup (2014)](/articles/skeletal-domain-drum-setup) — the album that ended the Rutan production streak\n- **The turning point**: [Kill drum setup (2006)](/articles/kill-drum-setup) — the return-to-brutality album and the start of the Rutan era\n- **Modern rig**: [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup) — Pearl Reference / Meinl / Pearl Eliminator\n- **Full profile**: [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz)"
+      "content": "\"Torture\" stands as the commercial and critical high point of Cannibal Corpse's three-album run with the same lineup and the same producer. Paul Mazurkiewicz's Pearl Reference and Sabian AAX rig, unchanged since Kill (2006), gave him a stable platform to carry his playing into an unfamiliar tracking room at Sonic Ranch Studios without losing a step, while Erik Rutan's split-studio production kept the band's established sonic identity fully intact.\n\nWith a #38 Billboard 200 debut, an AllMusic 4/5 rating, and an 81/100 Metacritic score, Torture gave Cannibal Corpse its best chart and critical reception to date — proof that three albums into a stable creative partnership, the band was still finding ways to sharpen rather than repeat itself.\n\nFor the complete Paul Mazurkiewicz CC gear arc around this record:\n- **The predecessor**: [Evisceration Plague drum setup (2009)](/articles/evisceration-plague-drum-setup) — Rutan's second Mana Recording Studios session\n- **The successor**: [A Skeletal Domain drum setup (2014)](/articles/skeletal-domain-drum-setup) — the album that ended the Rutan production streak\n- **The turning point**: [Kill drum setup (2006)](/articles/kill-drum-setup) — the return-to-brutality album and the start of the Rutan era\n- **Modern rig**: [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup) — Pearl Reference / Sabian AAX / Pearl Eliminator\n- **Full profile**: [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz)"
     }
   },
   "skeletal-domain-drum-setup": {
@@ -2764,7 +2764,7 @@ export const articles = {
     "dateModified": "2026-07-02",
     "author": "MetalForge Editorial",
     "title": "Paul Mazurkiewicz's Drum Setup on Cannibal Corpse's 'A Skeletal Domain' (2014)",
-    "description": "Complete drum gear breakdown for Cannibal Corpse's A Skeletal Domain (2014). Paul Mazurkiewicz's Pearl Reference and Meinl rig, Mark Lewis's Audiohammer Studios production, and the band's highest-ever Billboard 200 debut at the time.",
+    "description": "Complete drum gear breakdown for Cannibal Corpse's A Skeletal Domain (2014). Paul Mazurkiewicz's Pearl Reference and Sabian AAX rig, Mark Lewis's Audiohammer Studios production, and the band's highest-ever Billboard 200 debut at the time.",
     "seoKeywords": [
       "a skeletal domain drums",
       "skeletal domain drum setup",
@@ -2778,7 +2778,7 @@ export const articles = {
     "ogImage": "/images/albums/skeletal-domain-drums.webp",
     "intro": {
       "title": "A New Producer, A New Peak: Mazurkiewicz on Cannibal Corpse's Thirteenth Album",
-      "content": "Released on September 16, 2014 through Metal Blade Records, \"A Skeletal Domain\" is Cannibal Corpse's thirteenth studio album and the first in over a decade not produced by Erik Rutan. The same five-piece lineup that had recorded Kill (2006), Evisceration Plague (2009), and Torture (2012) returned once again — George \"Corpsegrinder\" Fisher, Pat O'Brien, Rob Barrett, Alex Webster, and Paul Mazurkiewicz — but the band moved to Audiohammer Studios in Sanford, Florida, working with producer, engineer, and mixer Mark Lewis, marking the first non-Rutan production credit on a Cannibal Corpse album since 2003.\n\nThe change in producer and studio brought a change in sound. Multiple reviewers singled out A Skeletal Domain's production as noticeably cleaner and more modern than the Rutan-era records that preceded it, with Sputnikmusic praising \"a much cleaner, more powerful, modern production that allows all the instruments space to breathe\" and specifically noting that Alex Webster's bass was audible in the mix for the first time in years. Metal Injection went further, writing that Mazurkiewicz's \"drums are crispier than saltines\" under Lewis's engineering — a direct, specific nod to how the new studio and producer reshaped the audibility of his playing.\n\nCommercially, A Skeletal Domain became Cannibal Corpse's highest Billboard 200 debut to date, entering at #32 on first-week sales of roughly 8,800 copies, edging out Torture's #38 debut two years earlier. Critical reception was strong across outlets: AllMusic rated the album 3.5 out of 5 stars, Sputnikmusic awarded it 4.0 out of 5, and The Guardian and Revolver both gave it 4 out of 5.\n\nThis article breaks down the Pearl Reference and Meinl configuration Mazurkiewicz brought into the Audiohammer Studios sessions, Mark Lewis's cleaner production approach, and the technical character of an album that pushed the band's sound into a noticeably more modern register.",
+      "content": "Released on September 16, 2014 through Metal Blade Records, \"A Skeletal Domain\" is Cannibal Corpse's thirteenth studio album and the first in over a decade not produced by Erik Rutan. The same five-piece lineup that had recorded Kill (2006), Evisceration Plague (2009), and Torture (2012) returned once again — George \"Corpsegrinder\" Fisher, Pat O'Brien, Rob Barrett, Alex Webster, and Paul Mazurkiewicz — but the band moved to Audiohammer Studios in Sanford, Florida, working with producer, engineer, and mixer Mark Lewis, marking the first non-Rutan production credit on a Cannibal Corpse album since 2003.\n\nThe change in producer and studio brought a change in sound. Multiple reviewers singled out A Skeletal Domain's production as noticeably cleaner and more modern than the Rutan-era records that preceded it, with Sputnikmusic praising \"a much cleaner, more powerful, modern production that allows all the instruments space to breathe\" and specifically noting that Alex Webster's bass was audible in the mix for the first time in years. Metal Injection went further, writing that Mazurkiewicz's \"drums are crispier than saltines\" under Lewis's engineering — a direct, specific nod to how the new studio and producer reshaped the audibility of his playing.\n\nCommercially, A Skeletal Domain became Cannibal Corpse's highest Billboard 200 debut to date, entering at #32 on first-week sales of roughly 8,800 copies, edging out Torture's #38 debut two years earlier. Critical reception was strong across outlets: AllMusic rated the album 3.5 out of 5 stars, Sputnikmusic awarded it 4.0 out of 5, and The Guardian and Revolver both gave it 4 out of 5.\n\nThis article breaks down the Pearl Reference and Sabian AAX configuration Mazurkiewicz brought into the Audiohammer Studios sessions, Mark Lewis's cleaner production approach, and the technical character of an album that pushed the band's sound into a noticeably more modern register.",
       "keyPoints": [
         "Cannibal Corpse's thirteenth studio album (September 16, 2014) — Metal Blade Records — the direct follow-up to Torture (2012)",
         "First Cannibal Corpse album produced by someone other than Erik Rutan since 2003; produced, engineered, and mixed by Mark Lewis at Audiohammer Studios, Sanford, Florida",
@@ -2821,43 +2821,43 @@ export const articles = {
       "estimatedValue": "$400–700 (2014 era) / $400–700 (equivalent model today)"
     },
     "cymbals": {
-      "title": "Meinl Byzance: Fully Audible in a Cleaner Mix",
-      "brand": "Meinl",
-      "series": "Meinl Byzance (established endorsement, 2014)",
+      "title": "Sabian AAX: Fully Audible in a Cleaner Mix",
+      "brand": "Sabian",
+      "series": "Sabian AAX Series",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Meinl 14\" Hi-Hats",
+          "model": "Sabian AAX 14\" Stage Hi-Hats",
           "position": "Left side",
           "notes": "Fast, tight response, rendered with added clarity under the album's cleaner mix"
         },
         {
           "type": "Crash",
-          "model": "Meinl 16\" Crash",
+          "model": "Sabian AAX 18\" X-Plosion Crash",
           "position": "Left crash",
           "notes": "Quick accent for riff punctuation"
         },
         {
           "type": "Crash",
-          "model": "Meinl 18\" Crash",
+          "model": "Sabian AAX 19\" X-Plosion Crash",
           "position": "Right crash",
           "notes": "Fuller crash for the album's heavier, mid-tempo sections"
         },
         {
           "type": "Ride",
-          "model": "Meinl 20\" Ride",
+          "model": "Sabian AAX 21\" Raw Bell Dry Ride",
           "position": "Right",
           "notes": "Bell accents between blast passages"
         },
         {
           "type": "China",
-          "model": "Meinl 18\" China",
+          "model": "Sabian AAXtreme 18\" China",
           "position": "Over rack toms",
           "notes": "Trashy riff-transition accent, a Mazurkiewicz signature since the band's earliest records"
         }
       ],
-      "description": "The Meinl Byzance setup that had been fully established since Bloodthirst (1999) and unchanged through Kill, Evisceration Plague, and Torture returned once again on A Skeletal Domain, but Mark Lewis's Audiohammer Studios mix gave the cymbals more individual space than the denser Rutan-era productions. Meinl's hand-hammered bronze construction gave each cymbal a fast attack and controlled decay that came through with noticeably more separation from the guitars, part of the broader production shift reviewers praised across the record.\n\nThe 18\" China remained Mazurkiewicz's defining accent for riff transitions, a constant across every era of his recorded career, now rendered with the same added clarity that defined the rest of the kit under Lewis's engineering. Sputnikmusic's description of a mix that \"allows all the instruments space to breathe\" applies as directly to the cymbals as to any other element of the record.",
-      "estimatedValue": "$1,500–2,600 total (established Meinl endorsement configuration, 2014)"
+      "description": "The Sabian AAX setup that had been fully established since Bloodthirst (1999) and unchanged through Kill, Evisceration Plague, and Torture returned once again on A Skeletal Domain, but Mark Lewis's Audiohammer Studios mix gave the cymbals more individual space than the denser Rutan-era productions. Sabian's AAX Series construction gave each cymbal a fast attack and controlled decay that came through with noticeably more separation from the guitars, part of the broader production shift reviewers praised across the record.\n\nThe 18\" China remained Mazurkiewicz's defining accent for riff transitions, a constant across every era of his recorded career, now rendered with the same added clarity that defined the rest of the kit under Lewis's engineering. Sputnikmusic's description of a mix that \"allows all the instruments space to breathe\" applies as directly to the cymbals as to any other element of the record.",
+      "estimatedValue": "$1,500–2,600 total (established Sabian endorsement configuration, 2014)"
     },
     "hardware": {
       "title": "The Eliminator, Rendered With New Clarity",
@@ -2901,12 +2901,12 @@ export const articles = {
     },
     "technique": {
       "title": "Established Playing, Newly Audible",
-      "content": "\"A Skeletal Domain\" doesn't ask Mazurkiewicz to change his technical approach so much as it reveals it with more clarity than any prior Cannibal Corpse record. The locomotive double-bass drive and precise blast-beat control he had built across Kill, Evisceration Plague, and Torture carry over directly — what changed is how audible every individual element of his playing became under Mark Lewis's cleaner Audiohammer Studios mix.\n\n**The Title Track as Centerpiece:**\n\"A Skeletal Domain,\" the fourth song on the record, showcases the album's dynamic range in miniature — moving between sustained blast passages and heavier, more deliberate sections, with Mazurkiewicz's kit rendered in sharper individual detail than on the denser Torture mix.\n\n**A Fourth Album, A New Room:**\nWith the same Pearl Reference, Meinl, and Pearl Eliminator setup he had used since Kill, but a new producer and studio for the first time in eight years, A Skeletal Domain demonstrates how much a production change alone can reshape the perceived character of an unchanged rig and an unchanged player.\n\n**Setting Up the Next Chapter:**\nA Skeletal Domain's cleaner, more modern sound and record-setting chart debut set the stage for Red Before Black (2017), the band's next studio album, continuing the commercial momentum that had been building steadily since Kill.\n\nFor the surrounding context of this era:\n- [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz) — complete profile and technique breakdown\n- [Torture drum setup (2012)](/articles/torture-drum-setup) — the album that preceded A Skeletal Domain\n- [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup) — the modern Pearl Reference / Meinl / Pearl Eliminator rig\n- [Cannibal Corpse band page](/band/cannibal-corpse) — full band history and lineup"
+      "content": "\"A Skeletal Domain\" doesn't ask Mazurkiewicz to change his technical approach so much as it reveals it with more clarity than any prior Cannibal Corpse record. The locomotive double-bass drive and precise blast-beat control he had built across Kill, Evisceration Plague, and Torture carry over directly — what changed is how audible every individual element of his playing became under Mark Lewis's cleaner Audiohammer Studios mix.\n\n**The Title Track as Centerpiece:**\n\"A Skeletal Domain,\" the fourth song on the record, showcases the album's dynamic range in miniature — moving between sustained blast passages and heavier, more deliberate sections, with Mazurkiewicz's kit rendered in sharper individual detail than on the denser Torture mix.\n\n**A Fourth Album, A New Room:**\nWith the same Pearl Reference, Sabian AAX, and Pearl Eliminator setup he had used since Kill, but a new producer and studio for the first time in eight years, A Skeletal Domain demonstrates how much a production change alone can reshape the perceived character of an unchanged rig and an unchanged player.\n\n**Setting Up the Next Chapter:**\nA Skeletal Domain's cleaner, more modern sound and record-setting chart debut set the stage for Red Before Black (2017), the band's next studio album, continuing the commercial momentum that had been building steadily since Kill.\n\nFor the surrounding context of this era:\n- [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz) — complete profile and technique breakdown\n- [Torture drum setup (2012)](/articles/torture-drum-setup) — the album that preceded A Skeletal Domain\n- [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup) — the modern Pearl Reference / Sabian AAX / Pearl Eliminator rig\n- [Cannibal Corpse band page](/band/cannibal-corpse) — full band history and lineup"
     },
     "faq": [
       {
         "question": "What kit did Paul Mazurkiewicz use on A Skeletal Domain?",
-        "answer": "On A Skeletal Domain (2014), Paul Mazurkiewicz played the same Pearl Reference kit documented on Kill (2006), Evisceration Plague (2009), and Torture (2012) — dual 22-inch x 18-inch kick drums, a four-tom layout in maple/African mahogany hybrid shells, and his 14-inch x 6.5-inch Pearl Free-Floating steel-shell snare. His Meinl Byzance cymbal setup and Pearl Eliminator double bass pedal carried over unchanged; the main difference was a cleaner, more modern production under new producer Mark Lewis."
+        "answer": "On A Skeletal Domain (2014), Paul Mazurkiewicz played the same Pearl Reference kit documented on Kill (2006), Evisceration Plague (2009), and Torture (2012) — dual 22-inch x 18-inch kick drums, a four-tom layout in maple/African mahogany hybrid shells, and his 14-inch x 6.5-inch Pearl Free-Floating steel-shell snare. His Sabian AAX cymbal setup and Pearl Eliminator double bass pedal carried over unchanged; the main difference was a cleaner, more modern production under new producer Mark Lewis."
       },
       {
         "question": "Who produced A Skeletal Domain and where was it recorded?",
@@ -2941,7 +2941,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "The Cleanest Window Yet Into an Unchanged Rig",
-      "content": "\"A Skeletal Domain\" closes out the post-Gore Obsessed arc of Paul Mazurkiewicz's Cannibal Corpse career on a high note, both commercially and critically. His Pearl Reference and Meinl rig, unchanged in every material respect since Kill (2006), sounds newly vivid under Mark Lewis's cleaner Audiohammer Studios production — proof that a change in room and engineer can reveal as much about a drummer's playing as any change in gear.\n\nWith a record-setting #32 Billboard 200 debut and reviews across AllMusic, Sputnikmusic, The Guardian, and Revolver all landing in the 3.5–4/5 range, A Skeletal Domain gave Cannibal Corpse its strongest commercial showing yet, bridging the Rutan-produced middle stretch of the band's catalog to the Red Before Black (2017) era that followed.\n\nFor the complete Paul Mazurkiewicz CC gear arc around this record:\n- **The predecessor**: [Torture drum setup (2012)](/articles/torture-drum-setup) — the final album of the three-record Rutan production streak\n- **The turning point**: [Kill drum setup (2006)](/articles/kill-drum-setup) — the return-to-brutality album and the start of the modern era\n- **The technical peak**: [Evisceration Plague drum setup (2009)](/articles/evisceration-plague-drum-setup) — Rutan's second Mana Recording Studios session\n- **Modern rig**: [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup) — Pearl Reference / Meinl / Pearl Eliminator\n- **Full profile**: [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz)"
+      "content": "\"A Skeletal Domain\" closes out the post-Gore Obsessed arc of Paul Mazurkiewicz's Cannibal Corpse career on a high note, both commercially and critically. His Pearl Reference and Sabian AAX rig, unchanged in every material respect since Kill (2006), sounds newly vivid under Mark Lewis's cleaner Audiohammer Studios production — proof that a change in room and engineer can reveal as much about a drummer's playing as any change in gear.\n\nWith a record-setting #32 Billboard 200 debut and reviews across AllMusic, Sputnikmusic, The Guardian, and Revolver all landing in the 3.5–4/5 range, A Skeletal Domain gave Cannibal Corpse its strongest commercial showing yet, bridging the Rutan-produced middle stretch of the band's catalog to the Red Before Black (2017) era that followed.\n\nFor the complete Paul Mazurkiewicz CC gear arc around this record:\n- **The predecessor**: [Torture drum setup (2012)](/articles/torture-drum-setup) — the final album of the three-record Rutan production streak\n- **The turning point**: [Kill drum setup (2006)](/articles/kill-drum-setup) — the return-to-brutality album and the start of the modern era\n- **The technical peak**: [Evisceration Plague drum setup (2009)](/articles/evisceration-plague-drum-setup) — Rutan's second Mana Recording Studios session\n- **Modern rig**: [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup) — Pearl Reference / Sabian AAX / Pearl Eliminator\n- **Full profile**: [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz)"
     }
   },
   "red-before-black-drum-setup": {
@@ -2964,7 +2964,7 @@ export const articles = {
     "dateModified": "2026-07-02",
     "author": "MetalForge Editorial",
     "title": "Paul Mazurkiewicz's Drum Setup on Cannibal Corpse's 'Red Before Black' (2017)",
-    "description": "Discover the drum kit, cymbals, and gear Paul Mazurkiewicz used to record Cannibal Corpse's Red Before Black (2017) — Erik Rutan's return as producer, the Pearl Reference/Meinl rig, and the album that set up Rutan's eventual move to guitar.",
+    "description": "Discover the drum kit, cymbals, and gear Paul Mazurkiewicz used to record Cannibal Corpse's Red Before Black (2017) — Erik Rutan's return as producer, the Pearl Reference/Sabian AAX rig, and the album that set up Rutan's eventual move to guitar.",
     "seoKeywords": [
       "red before black drums",
       "red before black drum setup",
@@ -2978,7 +2978,7 @@ export const articles = {
     "ogImage": "/images/albums/red-before-black-drums.webp",
     "intro": {
       "title": "Erik Rutan Returns: Mazurkiewicz on Cannibal Corpse's Fourteenth Album",
-      "content": "Released on November 3, 2017 through Metal Blade Records, \"Red Before Black\" is Cannibal Corpse's fourteenth studio album and the direct follow-up to \"A Skeletal Domain\" (2014). The same five-piece lineup returned once more — George \"Corpsegrinder\" Fisher, Pat O'Brien, Rob Barrett, Alex Webster, and Paul Mazurkiewicz — but the producer's chair changed hands again: after one album with Mark Lewis at Audiohammer Studios, the band brought Erik Rutan back behind the board, tracking, engineering, and mixing the record at his own Mana Recording Studios in St. Petersburg, Florida across sessions in December 2016 and April–June 2017.\n\nThe Rutan reunion mattered for reasons beyond this one record. Rutan — the former Ripping Corpse and Morbid Angel guitarist who had already produced Kill (2006), Evisceration Plague (2009), and Torture (2012) — would go on to fill in for Pat O'Brien on guitar during Cannibal Corpse's touring cycle, and eventually joined the band outright in 2020. Red Before Black is the last Cannibal Corpse album made with Rutan purely as an outside producer rather than as a member of the band.\n\nCritical reception was strong: Metal Injection rated the album 9/10 and Blabbermouth.net gave it 8.5/10, while AllMusic and MetalSucks both landed at 3.5 out of 5 stars and Angry Metal Guy scored it 3/5. Commercially, Red Before Black reached #95 on the US Billboard 200 and charted internationally, hitting #16 in Germany and #29 in both Austria and Switzerland. Alan Douches again handled mastering at West West Side Music.\n\nThis article breaks down the Pearl Reference and Meinl configuration Mazurkiewicz brought back into the Mana Recording Studios sessions, Erik Rutan's return as producer, and the technical character of an album that closed out an era just before Rutan's role in the band changed forever.",
+      "content": "Released on November 3, 2017 through Metal Blade Records, \"Red Before Black\" is Cannibal Corpse's fourteenth studio album and the direct follow-up to \"A Skeletal Domain\" (2014). The same five-piece lineup returned once more — George \"Corpsegrinder\" Fisher, Pat O'Brien, Rob Barrett, Alex Webster, and Paul Mazurkiewicz — but the producer's chair changed hands again: after one album with Mark Lewis at Audiohammer Studios, the band brought Erik Rutan back behind the board, tracking, engineering, and mixing the record at his own Mana Recording Studios in St. Petersburg, Florida across sessions in December 2016 and April–June 2017.\n\nThe Rutan reunion mattered for reasons beyond this one record. Rutan — the former Ripping Corpse and Morbid Angel guitarist who had already produced Kill (2006), Evisceration Plague (2009), and Torture (2012) — would go on to fill in for Pat O'Brien on guitar during Cannibal Corpse's touring cycle, and eventually joined the band outright in 2020. Red Before Black is the last Cannibal Corpse album made with Rutan purely as an outside producer rather than as a member of the band.\n\nCritical reception was strong: Metal Injection rated the album 9/10 and Blabbermouth.net gave it 8.5/10, while AllMusic and MetalSucks both landed at 3.5 out of 5 stars and Angry Metal Guy scored it 3/5. Commercially, Red Before Black reached #95 on the US Billboard 200 and charted internationally, hitting #16 in Germany and #29 in both Austria and Switzerland. Alan Douches again handled mastering at West West Side Music.\n\nThis article breaks down the Pearl Reference and Sabian AAX configuration Mazurkiewicz brought back into the Mana Recording Studios sessions, Erik Rutan's return as producer, and the technical character of an album that closed out an era just before Rutan's role in the band changed forever.",
       "keyPoints": [
         "Cannibal Corpse's fourteenth studio album (November 3, 2017) — Metal Blade Records — the direct follow-up to A Skeletal Domain (2014)",
         "Same five-piece lineup as the previous three albums: Fisher, O'Brien, Barrett, Webster, Mazurkiewicz",
@@ -3022,43 +3022,43 @@ export const articles = {
       "estimatedValue": "$400–700 (2017 era) / $400–700 (equivalent model today)"
     },
     "cymbals": {
-      "title": "Meinl Byzance: Restored to a Familiar Room",
-      "brand": "Meinl",
-      "series": "Meinl Byzance (established endorsement, 2017)",
+      "title": "Sabian AAX: Restored to a Familiar Room",
+      "brand": "Sabian",
+      "series": "Sabian AAX Series",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Meinl 14\" Hi-Hats",
+          "model": "Sabian AAX 14\" Stage Hi-Hats",
           "position": "Left side",
           "notes": "Fast, tight response for Red Before Black's high-tempo material"
         },
         {
           "type": "Crash",
-          "model": "Meinl 16\" Crash",
+          "model": "Sabian AAX 18\" X-Plosion Crash",
           "position": "Left crash",
           "notes": "Quick accent for riff punctuation"
         },
         {
           "type": "Crash",
-          "model": "Meinl 18\" Crash",
+          "model": "Sabian AAX 19\" X-Plosion Crash",
           "position": "Right crash",
           "notes": "Fuller crash for the album's heavier, mid-tempo passages"
         },
         {
           "type": "Ride",
-          "model": "Meinl 20\" Ride",
+          "model": "Sabian AAX 21\" Raw Bell Dry Ride",
           "position": "Right",
           "notes": "Bell accents between blast passages"
         },
         {
           "type": "China",
-          "model": "Meinl 18\" China",
+          "model": "Sabian AAXtreme 18\" China",
           "position": "Over rack toms",
           "notes": "Trashy riff-transition accent, a Mazurkiewicz signature since the band's earliest records"
         }
       ],
-      "description": "The Meinl Byzance setup that had carried Mazurkiewicz through four consecutive albums needed no adjustment for Red Before Black — Meinl's hand-hammered bronze construction continued to deliver the fast attack and controlled decay that keeps the cymbals articulate against Cannibal Corpse's dense low end, whether tracked at Audiohammer Studios or, once again, at Mana Recording Studios.\n\nThe 18\" China remained the defining accent for riff transitions on tracks like \"Code of the Slashers\" and the title track, a role it has occupied in Mazurkiewicz's vocabulary across every era of his recorded career. Rutan's returning mix pushed the cymbals back into the denser, more compressed overall sound that critics associated with his production era.",
-      "estimatedValue": "$1,500–2,600 total (established Meinl endorsement configuration, 2017)"
+      "description": "The Sabian AAX setup that had carried Mazurkiewicz through four consecutive albums needed no adjustment for Red Before Black — Sabian's AAX Series construction continued to deliver the fast attack and controlled decay that keeps the cymbals articulate against Cannibal Corpse's dense low end, whether tracked at Audiohammer Studios or, once again, at Mana Recording Studios.\n\nThe 18\" China remained the defining accent for riff transitions on tracks like \"Code of the Slashers\" and the title track, a role it has occupied in Mazurkiewicz's vocabulary across every era of his recorded career. Rutan's returning mix pushed the cymbals back into the denser, more compressed overall sound that critics associated with his production era.",
+      "estimatedValue": "$1,500–2,600 total (established Sabian endorsement configuration, 2017)"
     },
     "hardware": {
       "title": "The Eliminator, Home Again at Mana",
@@ -3103,12 +3103,12 @@ export const articles = {
     },
     "technique": {
       "title": "Locomotive Consistency, One Album Before a Lineup Shift",
-      "content": "\"Red Before Black\" finds Mazurkiewicz playing with the same locomotive, high-velocity approach that had defined every album since Kill, applying it to material tracked back inside Erik Rutan's familiar Mana Recording Studios room.\n\n**Only One Will Die as Album Opener:**\nThe album opens with \"Only One Will Die,\" a track built around the kind of sustained double-bass drive that has anchored Cannibal Corpse album openers since the Rutan era began, immediately re-establishing the denser low end that A Skeletal Domain's cleaner Audiohammer mix had set aside for one record.\n\n**Code of the Slashers and the Title Track:**\n\"Code of the Slashers\" and the title track \"Red Before Black\" both showcase Mazurkiewicz's blast-beat control against Rutan's thicker guitar mix, while \"Scavenger Consuming Death\" pushes the tempo further, giving the Pearl Eliminator's cam system a workout across an extended double-kick passage.\n\n**A Quiet Turning Point:**\nFive albums into an unchanged Pearl Reference, Meinl, and Pearl Eliminator setup, Red Before Black stands as the final document of Erik Rutan purely as an outside producer — the album made just before he stepped into the band as a touring and then full-time guitarist, a transition that would directly shape the sessions for Violence Unimagined (2021).\n\nFor the surrounding context of this era:\n- [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz) — complete profile and technique breakdown\n- [A Skeletal Domain drum setup (2014)](/articles/skeletal-domain-drum-setup) — the album that preceded Red Before Black\n- [Violence Unimagined drum setup (2021)](/articles/violence-unimagined-drum-setup) — the album that followed, and Rutan's debut as a full band member\n- [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup) — the modern Pearl Reference / Meinl / Pearl Eliminator rig"
+      "content": "\"Red Before Black\" finds Mazurkiewicz playing with the same locomotive, high-velocity approach that had defined every album since Kill, applying it to material tracked back inside Erik Rutan's familiar Mana Recording Studios room.\n\n**Only One Will Die as Album Opener:**\nThe album opens with \"Only One Will Die,\" a track built around the kind of sustained double-bass drive that has anchored Cannibal Corpse album openers since the Rutan era began, immediately re-establishing the denser low end that A Skeletal Domain's cleaner Audiohammer mix had set aside for one record.\n\n**Code of the Slashers and the Title Track:**\n\"Code of the Slashers\" and the title track \"Red Before Black\" both showcase Mazurkiewicz's blast-beat control against Rutan's thicker guitar mix, while \"Scavenger Consuming Death\" pushes the tempo further, giving the Pearl Eliminator's cam system a workout across an extended double-kick passage.\n\n**A Quiet Turning Point:**\nFive albums into an unchanged Pearl Reference, Sabian AAX, and Pearl Eliminator setup, Red Before Black stands as the final document of Erik Rutan purely as an outside producer — the album made just before he stepped into the band as a touring and then full-time guitarist, a transition that would directly shape the sessions for Violence Unimagined (2021).\n\nFor the surrounding context of this era:\n- [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz) — complete profile and technique breakdown\n- [A Skeletal Domain drum setup (2014)](/articles/skeletal-domain-drum-setup) — the album that preceded Red Before Black\n- [Violence Unimagined drum setup (2021)](/articles/violence-unimagined-drum-setup) — the album that followed, and Rutan's debut as a full band member\n- [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup) — the modern Pearl Reference / Sabian AAX / Pearl Eliminator rig"
     },
     "faq": [
       {
         "question": "What kit did Paul Mazurkiewicz use on Red Before Black?",
-        "answer": "On Red Before Black (2017), Paul Mazurkiewicz played the same Pearl Reference kit documented across Kill (2006), Evisceration Plague (2009), Torture (2012), and A Skeletal Domain (2014) — dual 22-inch x 18-inch kick drums, a four-tom layout in maple/African mahogany hybrid shells, and his 14-inch x 6.5-inch Pearl Free-Floating steel-shell snare. His Meinl Byzance cymbal setup and Pearl Eliminator double bass pedal carried over unchanged."
+        "answer": "On Red Before Black (2017), Paul Mazurkiewicz played the same Pearl Reference kit documented across Kill (2006), Evisceration Plague (2009), Torture (2012), and A Skeletal Domain (2014) — dual 22-inch x 18-inch kick drums, a four-tom layout in maple/African mahogany hybrid shells, and his 14-inch x 6.5-inch Pearl Free-Floating steel-shell snare. His Sabian AAX cymbal setup and Pearl Eliminator double bass pedal carried over unchanged."
       },
       {
         "question": "Who produced Cannibal Corpse's Red Before Black?",
@@ -3142,7 +3142,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "The Last Album Before Everything Changed",
-      "content": "\"Red Before Black\" closes out the five-album run of Mazurkiewicz's unchanged Pearl Reference and Meinl rig with Erik Rutan restored to the producer's chair at his own Mana Recording Studios. Critically well-received — Metal Injection's 9/10 and Blabbermouth.net's 8.5/10 lead a strong set of reviews — the album stands as the final chapter of Rutan's career as a purely outside producer for the band.\n\nWhat makes Red Before Black significant in hindsight isn't just its return to the denser, more familiar Cannibal Corpse sound; it's the fact that within a few years, the producer behind the board would become the guitarist standing next to Mazurkiewicz on stage. That transition reshaped the sessions for Violence Unimagined (2021), the album that followed.\n\nFor the complete Paul Mazurkiewicz CC gear arc around this record:\n- **The predecessor**: [A Skeletal Domain drum setup (2014)](/articles/skeletal-domain-drum-setup) — the one album produced by Mark Lewis at Audiohammer Studios\n- **The successor**: [Violence Unimagined drum setup (2021)](/articles/violence-unimagined-drum-setup) — Rutan's debut as a full band member\n- **The prior Rutan album**: [Torture drum setup (2012)](/articles/torture-drum-setup) — the last of Rutan's original three-album production streak\n- **Modern rig**: [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup) — Pearl Reference / Meinl / Pearl Eliminator\n- **Full profile**: [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz)"
+      "content": "\"Red Before Black\" closes out the five-album run of Mazurkiewicz's unchanged Pearl Reference and Sabian AAX rig with Erik Rutan restored to the producer's chair at his own Mana Recording Studios. Critically well-received — Metal Injection's 9/10 and Blabbermouth.net's 8.5/10 lead a strong set of reviews — the album stands as the final chapter of Rutan's career as a purely outside producer for the band.\n\nWhat makes Red Before Black significant in hindsight isn't just its return to the denser, more familiar Cannibal Corpse sound; it's the fact that within a few years, the producer behind the board would become the guitarist standing next to Mazurkiewicz on stage. That transition reshaped the sessions for Violence Unimagined (2021), the album that followed.\n\nFor the complete Paul Mazurkiewicz CC gear arc around this record:\n- **The predecessor**: [A Skeletal Domain drum setup (2014)](/articles/skeletal-domain-drum-setup) — the one album produced by Mark Lewis at Audiohammer Studios\n- **The successor**: [Violence Unimagined drum setup (2021)](/articles/violence-unimagined-drum-setup) — Rutan's debut as a full band member\n- **The prior Rutan album**: [Torture drum setup (2012)](/articles/torture-drum-setup) — the last of Rutan's original three-album production streak\n- **Modern rig**: [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup) — Pearl Reference / Sabian AAX / Pearl Eliminator\n- **Full profile**: [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz)"
     }
   },
   "violence-unimagined-drum-setup": {
@@ -3165,7 +3165,7 @@ export const articles = {
     "dateModified": "2026-07-02",
     "author": "MetalForge Editorial",
     "title": "Paul Mazurkiewicz's Drum Setup on Cannibal Corpse's 'Violence Unimagined' (2021)",
-    "description": "Complete drum gear breakdown for Cannibal Corpse's Violence Unimagined (2021) — the first album with Erik Rutan as a full band member, Paul Mazurkiewicz's Pearl Reference/Meinl rig, and the band's best-ever first-week sales.",
+    "description": "Complete drum gear breakdown for Cannibal Corpse's Violence Unimagined (2021) — the first album with Erik Rutan as a full band member, Paul Mazurkiewicz's Pearl Reference/Sabian AAX rig, and the band's best-ever first-week sales.",
     "seoKeywords": [
       "violence unimagined drums",
       "violence unimagined drum setup",
@@ -3179,7 +3179,7 @@ export const articles = {
     "ogImage": "/images/albums/violence-unimagined-drums.webp",
     "intro": {
       "title": "A New Guitarist, A New Peak: Mazurkiewicz on Cannibal Corpse's Fifteenth Album",
-      "content": "Released April 16, 2021 through Metal Blade Records (April 14, 2021 in Japan), \"Violence Unimagined\" is Cannibal Corpse's fifteenth studio album and the first to feature Erik Rutan as an official member of the band. Rutan had already produced four previous Cannibal Corpse albums — Kill (2006), Evisceration Plague (2009), Torture (2012), and Red Before Black (2017) — and had spent nearly two years filling in for guitarist Pat O'Brien on tour before officially joining as lead guitarist in February 2021, shortly before the album's release. Recorded in 2020 at Rutan's own Mana Recording Studios in St. Petersburg, Florida, Violence Unimagined marks the first time Rutan appears on a Cannibal Corpse record as a performer rather than solely as producer — he wrote music and lyrics for three songs in addition to playing lead guitar, producing, and mixing.\n\nThe rest of the lineup remained unchanged from the band's prior three albums: George \"Corpsegrinder\" Fisher on vocals, Rob Barrett on rhythm guitar, Alex Webster on bass, and Paul Mazurkiewicz on drums.\n\nViolence Unimagined became a genuine commercial landmark for the band: it debuted at #45 on the Billboard 200 and reached #6 on the Billboard Top Album Sales chart — Cannibal Corpse's first-ever Top 10 on that chart and its best first-week sales total to date, moving roughly 14,000 copies. Internationally, the album charted at #5 in Austria, #6 in Germany, #7 in Switzerland, and #1 on Sweden's Hard Rock chart. Critical reception was outstanding: the album posted a Metacritic aggregate of 79/100, with Blabbermouth.net and Metal Injection both awarding 9/10 and Pitchfork giving it 7.3/10. Loudwire ranked it #19 on its best rock/metal albums of 2021 list, and Decibel placed it #20 on its year-end top 40.\n\nThis article breaks down the Pearl Reference and Meinl configuration Mazurkiewicz brought into the 2020 Mana Recording Studios sessions, the significance of Rutan's arrival as a full member, and the technical character of the band's best-charting album to date.",
+      "content": "Released April 16, 2021 through Metal Blade Records (April 14, 2021 in Japan), \"Violence Unimagined\" is Cannibal Corpse's fifteenth studio album and the first to feature Erik Rutan as an official member of the band. Rutan had already produced four previous Cannibal Corpse albums — Kill (2006), Evisceration Plague (2009), Torture (2012), and Red Before Black (2017) — and had spent nearly two years filling in for guitarist Pat O'Brien on tour before officially joining as lead guitarist in February 2021, shortly before the album's release. Recorded in 2020 at Rutan's own Mana Recording Studios in St. Petersburg, Florida, Violence Unimagined marks the first time Rutan appears on a Cannibal Corpse record as a performer rather than solely as producer — he wrote music and lyrics for three songs in addition to playing lead guitar, producing, and mixing.\n\nThe rest of the lineup remained unchanged from the band's prior three albums: George \"Corpsegrinder\" Fisher on vocals, Rob Barrett on rhythm guitar, Alex Webster on bass, and Paul Mazurkiewicz on drums.\n\nViolence Unimagined became a genuine commercial landmark for the band: it debuted at #45 on the Billboard 200 and reached #6 on the Billboard Top Album Sales chart — Cannibal Corpse's first-ever Top 10 on that chart and its best first-week sales total to date, moving roughly 14,000 copies. Internationally, the album charted at #5 in Austria, #6 in Germany, #7 in Switzerland, and #1 on Sweden's Hard Rock chart. Critical reception was outstanding: the album posted a Metacritic aggregate of 79/100, with Blabbermouth.net and Metal Injection both awarding 9/10 and Pitchfork giving it 7.3/10. Loudwire ranked it #19 on its best rock/metal albums of 2021 list, and Decibel placed it #20 on its year-end top 40.\n\nThis article breaks down the Pearl Reference and Sabian AAX configuration Mazurkiewicz brought into the 2020 Mana Recording Studios sessions, the significance of Rutan's arrival as a full member, and the technical character of the band's best-charting album to date.",
       "keyPoints": [
         "Cannibal Corpse's fifteenth studio album (April 16, 2021) — Metal Blade Records — the direct follow-up to Red Before Black (2017)",
         "First album to feature Erik Rutan as an official band member; recorded in 2020, with Rutan officially joining as lead guitarist in February 2021 after nearly two years of touring in the role",
@@ -3224,43 +3224,43 @@ export const articles = {
       "estimatedValue": "$400–700 (2020–21 era) / $400–700 (equivalent model today)"
     },
     "cymbals": {
-      "title": "Meinl Byzance: Full Force on the Band's Best Chart Debut",
-      "brand": "Meinl",
-      "series": "Meinl Byzance (established endorsement, 2020–21)",
+      "title": "Sabian AAX: Full Force on the Band's Best Chart Debut",
+      "brand": "Sabian",
+      "series": "Sabian AAX Series",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Meinl 14\" Hi-Hats",
+          "model": "Sabian AAX 14\" Stage Hi-Hats",
           "position": "Left side",
           "notes": "Fast, tight response for Violence Unimagined's high-tempo material"
         },
         {
           "type": "Crash",
-          "model": "Meinl 16\" Crash",
+          "model": "Sabian AAX 18\" X-Plosion Crash",
           "position": "Left crash",
           "notes": "Quick accent for riff punctuation"
         },
         {
           "type": "Crash",
-          "model": "Meinl 18\" Crash",
+          "model": "Sabian AAX 19\" X-Plosion Crash",
           "position": "Right crash",
           "notes": "Fuller crash for the album's heavier, mid-tempo passages"
         },
         {
           "type": "Ride",
-          "model": "Meinl 20\" Ride",
+          "model": "Sabian AAX 21\" Raw Bell Dry Ride",
           "position": "Right",
           "notes": "Bell accents between blast passages"
         },
         {
           "type": "China",
-          "model": "Meinl 18\" China",
+          "model": "Sabian AAXtreme 18\" China",
           "position": "Over rack toms",
           "notes": "Trashy riff-transition accent, a Mazurkiewicz signature since the band's earliest records"
         }
       ],
-      "description": "The Meinl Byzance setup Mazurkiewicz had used across six consecutive albums returned unchanged for Violence Unimagined. Meinl's hand-hammered bronze construction continued to give the cymbals the fast attack and controlled decay needed to stay articulate against Erik Rutan's densest guitar mix yet — a mix that critics widely praised as some of the band's most powerful production to date.\n\nThe 18\" China remained the defining accent for riff transitions on singles like \"Necrogenic Resurrection,\" a constant across every era of Mazurkiewicz's recorded career. With the album posting a 79/100 Metacritic aggregate and reaching #6 on the Billboard Top Album Sales chart, the cymbal setup that had carried the band since the mid-2000s proved it could still cut through a modern, maximalist death metal mix.",
-      "estimatedValue": "$1,500–2,600 total (established Meinl endorsement configuration, 2020–21)"
+      "description": "The Sabian AAX setup Mazurkiewicz had used across six consecutive albums returned unchanged for Violence Unimagined. Sabian's AAX Series construction continued to give the cymbals the fast attack and controlled decay needed to stay articulate against Erik Rutan's densest guitar mix yet — a mix that critics widely praised as some of the band's most powerful production to date.\n\nThe 18\" China remained the defining accent for riff transitions on singles like \"Necrogenic Resurrection,\" a constant across every era of Mazurkiewicz's recorded career. With the album posting a 79/100 Metacritic aggregate and reaching #6 on the Billboard Top Album Sales chart, the cymbal setup that had carried the band since the mid-2000s proved it could still cut through a modern, maximalist death metal mix.",
+      "estimatedValue": "$1,500–2,600 total (established Sabian endorsement configuration, 2020–21)"
     },
     "hardware": {
       "title": "The Eliminator, Driving the Band's Biggest Chart Debut",
@@ -3304,12 +3304,12 @@ export const articles = {
     },
     "technique": {
       "title": "Locking in With a Rhythm Section That Just Got a New Voice",
-      "content": "\"Violence Unimagined\" asks Mazurkiewicz to hold down the same locomotive, high-velocity foundation he had built since Kill, but now inside a band whose internal chemistry had just changed with Rutan's arrival as an official member.\n\n**Inhumane Harvest and Murderous Rampage:**\nThe singles \"Inhumane Harvest\" and \"Murderous Rampage\" showcase Mazurkiewicz's sustained double-bass drive against Rutan's densest, most maximalist guitar mix to date — material that reviewers repeatedly cited as some of the tightest playing on any Cannibal Corpse record.\n\n**Necrogenic Resurrection and the New Chemistry:**\n\"Necrogenic Resurrection,\" the album's third single, highlights how Rutan's simultaneous roles as performer, writer, and producer let him shape the drum-guitar relationship with unprecedented directness — writing to Mazurkiewicz's established rhythmic vocabulary rather than mixing around it after the fact.\n\n**The Band's Best-Charting Album:**\nWith a #6 Billboard Top Album Sales debut and Metacritic score of 79, Violence Unimagined stands as the commercial and critical high point of Mazurkiewicz's Pearl Reference/Meinl/Pearl Eliminator era — proof that a lineup change behind the guitar can sharpen a band's rhythm section rather than disrupt it.\n\nFor the surrounding context of this era:\n- [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz) — complete profile and technique breakdown\n- [Red Before Black drum setup (2017)](/articles/red-before-black-drum-setup) — the album that preceded Violence Unimagined, and Rutan's last as an outside producer\n- [Chaos Horrific drum setup (2023)](/articles/chaos-horrific-drum-setup) — the album that followed, Rutan's second as a full band member\n- [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup) — the modern Pearl Reference / Meinl / Pearl Eliminator rig"
+      "content": "\"Violence Unimagined\" asks Mazurkiewicz to hold down the same locomotive, high-velocity foundation he had built since Kill, but now inside a band whose internal chemistry had just changed with Rutan's arrival as an official member.\n\n**Inhumane Harvest and Murderous Rampage:**\nThe singles \"Inhumane Harvest\" and \"Murderous Rampage\" showcase Mazurkiewicz's sustained double-bass drive against Rutan's densest, most maximalist guitar mix to date — material that reviewers repeatedly cited as some of the tightest playing on any Cannibal Corpse record.\n\n**Necrogenic Resurrection and the New Chemistry:**\n\"Necrogenic Resurrection,\" the album's third single, highlights how Rutan's simultaneous roles as performer, writer, and producer let him shape the drum-guitar relationship with unprecedented directness — writing to Mazurkiewicz's established rhythmic vocabulary rather than mixing around it after the fact.\n\n**The Band's Best-Charting Album:**\nWith a #6 Billboard Top Album Sales debut and Metacritic score of 79, Violence Unimagined stands as the commercial and critical high point of Mazurkiewicz's Pearl Reference/Sabian AAX/Pearl Eliminator era — proof that a lineup change behind the guitar can sharpen a band's rhythm section rather than disrupt it.\n\nFor the surrounding context of this era:\n- [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz) — complete profile and technique breakdown\n- [Red Before Black drum setup (2017)](/articles/red-before-black-drum-setup) — the album that preceded Violence Unimagined, and Rutan's last as an outside producer\n- [Chaos Horrific drum setup (2023)](/articles/chaos-horrific-drum-setup) — the album that followed, Rutan's second as a full band member\n- [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup) — the modern Pearl Reference / Sabian AAX / Pearl Eliminator rig"
     },
     "faq": [
       {
         "question": "What kit did Paul Mazurkiewicz use on Violence Unimagined?",
-        "answer": "On Violence Unimagined (2021), Paul Mazurkiewicz played the same Pearl Reference kit documented across Kill (2006) through Red Before Black (2017) — dual 22-inch x 18-inch kick drums, a four-tom layout in maple/African mahogany hybrid shells, and his 14-inch x 6.5-inch Pearl Free-Floating steel-shell snare. His Meinl Byzance cymbal setup and Pearl Eliminator double bass pedal carried over unchanged."
+        "answer": "On Violence Unimagined (2021), Paul Mazurkiewicz played the same Pearl Reference kit documented across Kill (2006) through Red Before Black (2017) — dual 22-inch x 18-inch kick drums, a four-tom layout in maple/African mahogany hybrid shells, and his 14-inch x 6.5-inch Pearl Free-Floating steel-shell snare. His Sabian AAX cymbal setup and Pearl Eliminator double bass pedal carried over unchanged."
       },
       {
         "question": "Why is Violence Unimagined significant for Erik Rutan's role in Cannibal Corpse?",
@@ -3343,7 +3343,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "The Band's Best-Charting Record, and a New Chemistry",
-      "content": "\"Violence Unimagined\" gave Cannibal Corpse its best commercial performance to date — a #6 debut on the Billboard Top Album Sales chart and a 79/100 Metacritic score — while marking the moment Erik Rutan's role in the band shifted permanently from outside producer to full member. Paul Mazurkiewicz's Pearl Reference and Meinl rig, unchanged since Kill (2006), provided the steady rhythmic foundation that let the band's newly integrated chemistry take shape.\n\nWith Blabbermouth.net and Metal Injection both scoring the album 9/10 and Loudwire and Decibel both naming it among 2021's best metal releases, Violence Unimagined proved that a significant lineup change could sharpen rather than disrupt a band three decades into its career.\n\nFor the complete Paul Mazurkiewicz CC gear arc around this record:\n- **The predecessor**: [Red Before Black drum setup (2017)](/articles/red-before-black-drum-setup) — Rutan's last album purely as an outside producer\n- **The successor**: [Chaos Horrific drum setup (2023)](/articles/chaos-horrific-drum-setup) — Rutan's second album as a full band member\n- **The turning point**: [A Skeletal Domain drum setup (2014)](/articles/skeletal-domain-drum-setup) — the one album made without Rutan in the 2010s\n- **Modern rig**: [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup) — Pearl Reference / Meinl / Pearl Eliminator\n- **Full profile**: [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz)"
+      "content": "\"Violence Unimagined\" gave Cannibal Corpse its best commercial performance to date — a #6 debut on the Billboard Top Album Sales chart and a 79/100 Metacritic score — while marking the moment Erik Rutan's role in the band shifted permanently from outside producer to full member. Paul Mazurkiewicz's Pearl Reference and Sabian AAX rig, unchanged since Kill (2006), provided the steady rhythmic foundation that let the band's newly integrated chemistry take shape.\n\nWith Blabbermouth.net and Metal Injection both scoring the album 9/10 and Loudwire and Decibel both naming it among 2021's best metal releases, Violence Unimagined proved that a significant lineup change could sharpen rather than disrupt a band three decades into its career.\n\nFor the complete Paul Mazurkiewicz CC gear arc around this record:\n- **The predecessor**: [Red Before Black drum setup (2017)](/articles/red-before-black-drum-setup) — Rutan's last album purely as an outside producer\n- **The successor**: [Chaos Horrific drum setup (2023)](/articles/chaos-horrific-drum-setup) — Rutan's second album as a full band member\n- **The turning point**: [A Skeletal Domain drum setup (2014)](/articles/skeletal-domain-drum-setup) — the one album made without Rutan in the 2010s\n- **Modern rig**: [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup) — Pearl Reference / Sabian AAX / Pearl Eliminator\n- **Full profile**: [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz)"
     }
   },
   "chaos-horrific-drum-setup": {
@@ -3366,7 +3366,7 @@ export const articles = {
     "dateModified": "2026-07-02",
     "author": "MetalForge Editorial",
     "title": "Paul Mazurkiewicz's Drum Setup on Cannibal Corpse's 'Chaos Horrific' (2023)",
-    "description": "Complete drum gear breakdown for Cannibal Corpse's Chaos Horrific (2023), the band's most recent studio album — Paul Mazurkiewicz's Pearl Reference/Meinl rig, Erik Rutan's sixth production credit, and a UK Rock & Metal Albums #1 debut.",
+    "description": "Complete drum gear breakdown for Cannibal Corpse's Chaos Horrific (2023), the band's most recent studio album — Paul Mazurkiewicz's Pearl Reference/Sabian AAX rig, Erik Rutan's sixth production credit, and a UK Rock & Metal Albums #1 debut.",
     "seoKeywords": [
       "chaos horrific drums",
       "chaos horrific drum setup",
@@ -3380,7 +3380,7 @@ export const articles = {
     "ogImage": "/images/albums/chaos-horrific-drums.webp",
     "intro": {
       "title": "The Most Recent Chapter: Mazurkiewicz on Cannibal Corpse's Sixteenth Album",
-      "content": "Released on September 22, 2023 through Metal Blade Records, \"Chaos Horrific\" is Cannibal Corpse's sixteenth studio album and, as of this writing, the band's most recent release. It is the second album to feature Erik Rutan as a full-time member on lead guitar, following Violence Unimagined (2021), and Rutan's sixth production credit with the band overall — a run that began with Kill in 2006. The rest of the lineup remained unchanged: George \"Corpsegrinder\" Fisher on vocals, Rob Barrett on rhythm guitar, Alex Webster on bass, and Paul Mazurkiewicz on drums.\n\nRutan again produced, engineered, and mixed the record at his own Mana Recording Studios in St. Petersburg, Florida. Chaos Horrific was met with widespread critical acclaim, with one reviewer noting the record \"breathes life into the corpse once more\" — a nod to the band's continued creative vitality more than 35 years into its career. AllMusic rated the album 3.5 out of 5 stars, Kerrang! and MetalSucks both gave it 4/5, and Blabbermouth.net, Metal Storm, and Metal Injection scored it 9/10, 8/10, and 8/10 respectively.\n\nCommercially, the album reached #142 on the US Billboard 200 and #9 on the US Top Hard Rock Albums chart, while topping the UK Rock & Metal Albums chart at #1. It also charted at #6 in Germany and #10 in Switzerland. The ten-track album includes \"Overlords of Violence,\" \"Frenzied Feeding,\" \"Summoned for Sacrifice,\" \"Blood Blind,\" \"Vengeful Invasion,\" the title track \"Chaos Horrific,\" \"Fracture and Refracture,\" \"Pitchfork Impalement,\" \"Pestilential Rictus,\" and \"Drain You Empty.\"\n\nThis article breaks down the Pearl Reference and Meinl configuration Mazurkiewicz brought into the Mana Recording Studios sessions for the band's newest album, closing out the gear arc from Red Before Black (2017) through the present day.",
+      "content": "Released on September 22, 2023 through Metal Blade Records, \"Chaos Horrific\" is Cannibal Corpse's sixteenth studio album and, as of this writing, the band's most recent release. It is the second album to feature Erik Rutan as a full-time member on lead guitar, following Violence Unimagined (2021), and Rutan's sixth production credit with the band overall — a run that began with Kill in 2006. The rest of the lineup remained unchanged: George \"Corpsegrinder\" Fisher on vocals, Rob Barrett on rhythm guitar, Alex Webster on bass, and Paul Mazurkiewicz on drums.\n\nRutan again produced, engineered, and mixed the record at his own Mana Recording Studios in St. Petersburg, Florida. Chaos Horrific was met with widespread critical acclaim, with one reviewer noting the record \"breathes life into the corpse once more\" — a nod to the band's continued creative vitality more than 35 years into its career. AllMusic rated the album 3.5 out of 5 stars, Kerrang! and MetalSucks both gave it 4/5, and Blabbermouth.net, Metal Storm, and Metal Injection scored it 9/10, 8/10, and 8/10 respectively.\n\nCommercially, the album reached #142 on the US Billboard 200 and #9 on the US Top Hard Rock Albums chart, while topping the UK Rock & Metal Albums chart at #1. It also charted at #6 in Germany and #10 in Switzerland. The ten-track album includes \"Overlords of Violence,\" \"Frenzied Feeding,\" \"Summoned for Sacrifice,\" \"Blood Blind,\" \"Vengeful Invasion,\" the title track \"Chaos Horrific,\" \"Fracture and Refracture,\" \"Pitchfork Impalement,\" \"Pestilential Rictus,\" and \"Drain You Empty.\"\n\nThis article breaks down the Pearl Reference and Sabian AAX configuration Mazurkiewicz brought into the Mana Recording Studios sessions for the band's newest album, closing out the gear arc from Red Before Black (2017) through the present day.",
       "keyPoints": [
         "Cannibal Corpse's sixteenth studio album (September 22, 2023) — Metal Blade Records — the band's most recent release as of this writing",
         "Second album with Erik Rutan as a full-time lead guitarist, and his sixth Cannibal Corpse production credit overall, dating back to Kill (2006)",
@@ -3424,43 +3424,43 @@ export const articles = {
       "estimatedValue": "$400–700 (2023 era) / $400–700 (equivalent model today)"
     },
     "cymbals": {
-      "title": "Meinl Byzance: Seven Albums and Counting",
-      "brand": "Meinl",
-      "series": "Meinl Byzance (established endorsement, 2023)",
+      "title": "Sabian AAX: Seven Albums and Counting",
+      "brand": "Sabian",
+      "series": "Sabian AAX Series",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Meinl 14\" Hi-Hats",
+          "model": "Sabian AAX 14\" Stage Hi-Hats",
           "position": "Left side",
           "notes": "Fast, tight response for Chaos Horrific's high-tempo material"
         },
         {
           "type": "Crash",
-          "model": "Meinl 16\" Crash",
+          "model": "Sabian AAX 18\" X-Plosion Crash",
           "position": "Left crash",
           "notes": "Quick accent for riff punctuation"
         },
         {
           "type": "Crash",
-          "model": "Meinl 18\" Crash",
+          "model": "Sabian AAX 19\" X-Plosion Crash",
           "position": "Right crash",
           "notes": "Fuller crash for the album's heavier, mid-tempo passages"
         },
         {
           "type": "Ride",
-          "model": "Meinl 20\" Ride",
+          "model": "Sabian AAX 21\" Raw Bell Dry Ride",
           "position": "Right",
           "notes": "Bell accents between blast passages"
         },
         {
           "type": "China",
-          "model": "Meinl 18\" China",
+          "model": "Sabian AAXtreme 18\" China",
           "position": "Over rack toms",
           "notes": "Trashy riff-transition accent, a Mazurkiewicz signature since the band's earliest records"
         }
       ],
-      "description": "The Meinl Byzance setup Mazurkiewicz has used across seven consecutive albums returned unchanged on Chaos Horrific. Meinl's hand-hammered bronze construction continues to deliver the fast attack and controlled decay needed to stay articulate against Erik Rutan's dense guitar mix, a constant across nearly two decades of Rutan-produced Cannibal Corpse records.\n\nThe 18\" China remained the defining accent for riff transitions on tracks like \"Vengeful Invasion\" and \"Pitchfork Impalement,\" a role it has occupied in Mazurkiewicz's vocabulary since the band's earliest records. With the album debuting at #1 on the UK Rock & Metal Albums chart, the cymbal setup that has carried the band since the mid-2000s proved it remains a defining element of Cannibal Corpse's sound in 2023.",
-      "estimatedValue": "$1,500–2,600 total (established Meinl endorsement configuration, 2023)"
+      "description": "The Sabian AAX setup Mazurkiewicz has used across seven consecutive albums returned unchanged on Chaos Horrific. Sabian's AAX Series construction continues to deliver the fast attack and controlled decay needed to stay articulate against Erik Rutan's dense guitar mix, a constant across nearly two decades of Rutan-produced Cannibal Corpse records.\n\nThe 18\" China remained the defining accent for riff transitions on tracks like \"Vengeful Invasion\" and \"Pitchfork Impalement,\" a role it has occupied in Mazurkiewicz's vocabulary since the band's earliest records. With the album debuting at #1 on the UK Rock & Metal Albums chart, the cymbal setup that has carried the band since the mid-2000s proved it remains a defining element of Cannibal Corpse's sound in 2023.",
+      "estimatedValue": "$1,500–2,600 total (established Sabian endorsement configuration, 2023)"
     },
     "hardware": {
       "title": "The Eliminator, Still Driving the Attack",
@@ -3493,7 +3493,7 @@ export const articles = {
     },
     "sound": {
       "title": "Erik Rutan's Sixth Production, Second as a Full Member",
-      "content": "\"Chaos Horrific\" is Erik Rutan's sixth Cannibal Corpse production credit, a run that began with Kill in 2006, and his second as a full-time member of the band following Violence Unimagined (2021). He again produced, engineered, and mixed the album entirely at his own Mana Recording Studios in St. Petersburg, Florida.\n\n**Universal Critical Acclaim:**\nChaos Horrific was met with widespread praise. Blabbermouth.net awarded it 9/10, Metal Storm and Metal Injection both gave it 8/10, Kerrang! and MetalSucks both scored it 4 out of 5, and AllMusic rated it 3.5 out of 5. One reviewer summarized the record as one that \"breathes life into the corpse once more\" — a specific nod to the band's continued creative energy more than 35 years into its career.\n\n**Chart Performance:**\nThe album reached #142 on the Billboard 200 and #9 on the US Top Hard Rock Albums chart, while topping the UK Rock & Metal Albums chart at #1. It also charted at #6 in Germany and #10 in Switzerland — a strong international showing for a band sixteen albums into its catalog.\n\n**The Most Recent Chapter:**\nAs of this writing, Chaos Horrific stands as Cannibal Corpse's newest studio album, closing out a gear arc for Paul Mazurkiewicz that stretches from Red Before Black (2017) through Violence Unimagined (2021) to this record — three albums, one unchanged Pearl Reference and Meinl rig, and one producer-turned-bandmate in Erik Rutan shepherding all three.",
+      "content": "\"Chaos Horrific\" is Erik Rutan's sixth Cannibal Corpse production credit, a run that began with Kill in 2006, and his second as a full-time member of the band following Violence Unimagined (2021). He again produced, engineered, and mixed the album entirely at his own Mana Recording Studios in St. Petersburg, Florida.\n\n**Universal Critical Acclaim:**\nChaos Horrific was met with widespread praise. Blabbermouth.net awarded it 9/10, Metal Storm and Metal Injection both gave it 8/10, Kerrang! and MetalSucks both scored it 4 out of 5, and AllMusic rated it 3.5 out of 5. One reviewer summarized the record as one that \"breathes life into the corpse once more\" — a specific nod to the band's continued creative energy more than 35 years into its career.\n\n**Chart Performance:**\nThe album reached #142 on the Billboard 200 and #9 on the US Top Hard Rock Albums chart, while topping the UK Rock & Metal Albums chart at #1. It also charted at #6 in Germany and #10 in Switzerland — a strong international showing for a band sixteen albums into its catalog.\n\n**The Most Recent Chapter:**\nAs of this writing, Chaos Horrific stands as Cannibal Corpse's newest studio album, closing out a gear arc for Paul Mazurkiewicz that stretches from Red Before Black (2017) through Violence Unimagined (2021) to this record — three albums, one unchanged Pearl Reference and Sabian AAX rig, and one producer-turned-bandmate in Erik Rutan shepherding all three.",
       "keyTechniques": [
         "Erik Rutan's sixth Cannibal Corpse production credit, dating back to Kill (2006), and his second as a full-time band member",
         "Produced, engineered, and mixed at Rutan's own Mana Recording Studios, St. Petersburg, Florida",
@@ -3504,7 +3504,7 @@ export const articles = {
     },
     "technique": {
       "title": "Locomotive Precision, Sixteen Albums In",
-      "content": "\"Chaos Horrific\" finds Mazurkiewicz playing with the same locomotive, high-velocity approach that has defined his technique since Kill (2006), applied across the album's ten tracks with no sign of the consistency wavering nearly two decades later.\n\n**Overlords of Violence as Album Opener:**\nThe album opens with \"Overlords of Violence,\" a track built around sustained double-bass drive that immediately re-establishes the dense, powerful mix Rutan has refined across six productions with the band.\n\n**Vengeful Invasion and the Title Track:**\n\"Vengeful Invasion\" and the title track \"Chaos Horrific\" showcase Mazurkiewicz's blast-beat control against Rutan's guitar and bass mix, while closing track \"Drain You Empty\" gives the Pearl Eliminator's cam system a final workout across the record.\n\n**Closing the Arc:**\nWith the same Pearl Reference, Meinl, and Pearl Eliminator setup he has used since 2006, and Erik Rutan now both producing and playing alongside him for a second consecutive album, Chaos Horrific closes out the gear arc that began with Red Before Black (2017) — proof that Cannibal Corpse's rhythmic foundation has remained as brutal and dependable as ever across the band's most recent chapter.\n\nFor the surrounding context of this era:\n- [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz) — complete profile and technique breakdown\n- [Violence Unimagined drum setup (2021)](/articles/violence-unimagined-drum-setup) — the album that preceded Chaos Horrific, and Rutan's first as a full band member\n- [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup) — the modern Pearl Reference / Meinl / Pearl Eliminator rig"
+      "content": "\"Chaos Horrific\" finds Mazurkiewicz playing with the same locomotive, high-velocity approach that has defined his technique since Kill (2006), applied across the album's ten tracks with no sign of the consistency wavering nearly two decades later.\n\n**Overlords of Violence as Album Opener:**\nThe album opens with \"Overlords of Violence,\" a track built around sustained double-bass drive that immediately re-establishes the dense, powerful mix Rutan has refined across six productions with the band.\n\n**Vengeful Invasion and the Title Track:**\n\"Vengeful Invasion\" and the title track \"Chaos Horrific\" showcase Mazurkiewicz's blast-beat control against Rutan's guitar and bass mix, while closing track \"Drain You Empty\" gives the Pearl Eliminator's cam system a final workout across the record.\n\n**Closing the Arc:**\nWith the same Pearl Reference, Sabian AAX, and Pearl Eliminator setup he has used since 2006, and Erik Rutan now both producing and playing alongside him for a second consecutive album, Chaos Horrific closes out the gear arc that began with Red Before Black (2017) — proof that Cannibal Corpse's rhythmic foundation has remained as brutal and dependable as ever across the band's most recent chapter.\n\nFor the surrounding context of this era:\n- [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz) — complete profile and technique breakdown\n- [Violence Unimagined drum setup (2021)](/articles/violence-unimagined-drum-setup) — the album that preceded Chaos Horrific, and Rutan's first as a full band member\n- [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup) — the modern Pearl Reference / Sabian AAX / Pearl Eliminator rig"
     },
     "faq": [
       {
@@ -3513,7 +3513,7 @@ export const articles = {
       },
       {
         "question": "What kit did Paul Mazurkiewicz use on Chaos Horrific?",
-        "answer": "On Chaos Horrific (2023), Paul Mazurkiewicz played the same Pearl Reference kit he has used since Kill (2006) — dual 22-inch x 18-inch kick drums, a four-tom layout in maple/African mahogany hybrid shells, and his 14-inch x 6.5-inch Pearl Free-Floating steel-shell snare. His Meinl Byzance cymbal setup and Pearl Eliminator double bass pedal carried over unchanged from Violence Unimagined (2021)."
+        "answer": "On Chaos Horrific (2023), Paul Mazurkiewicz played the same Pearl Reference kit he has used since Kill (2006) — dual 22-inch x 18-inch kick drums, a four-tom layout in maple/African mahogany hybrid shells, and his 14-inch x 6.5-inch Pearl Free-Floating steel-shell snare. His Sabian AAX cymbal setup and Pearl Eliminator double bass pedal carried over unchanged from Violence Unimagined (2021)."
       },
       {
         "question": "Who produced Chaos Horrific and how does it compare to Rutan's other Cannibal Corpse albums?",
@@ -3547,7 +3547,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "The Arc Closes at the Present Day",
-      "content": "\"Chaos Horrific\" closes out Paul Mazurkiewicz's Cannibal Corpse gear arc at the present day — the band's most recent studio album, built on the same Pearl Reference and Meinl rig he has used since Kill (2006), and produced by Erik Rutan for a sixth time, now as a full bandmate rather than an outside collaborator. With critics praising the record as one that \"breathes life into the corpse once more\" and a #1 debut on the UK Rock & Metal Albums chart, Chaos Horrific proves that nearly two decades into an unchanged gear setup, Mazurkiewicz's playing remains as vital to the band's identity as ever.\n\nFrom Eaten Back to Life (1990) through Chaos Horrific (2023) — 33 years, sixteen studio albums, and one drummer who never left — Paul Mazurkiewicz's Cannibal Corpse story is a testament to the idea that consistency, not reinvention, is what makes a death metal rhythm section legendary.\n\nFor the complete Paul Mazurkiewicz CC gear arc around this record:\n- **The predecessor**: [Violence Unimagined drum setup (2021)](/articles/violence-unimagined-drum-setup) — Rutan's first album as a full band member\n- **The wider arc**: [Red Before Black drum setup (2017)](/articles/red-before-black-drum-setup) — Rutan's last album as a purely outside producer\n- **The complete history**: [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup) — the full career gear breakdown\n- **Full profile**: [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz)"
+      "content": "\"Chaos Horrific\" closes out Paul Mazurkiewicz's Cannibal Corpse gear arc at the present day — the band's most recent studio album, built on the same Pearl Reference and Sabian AAX rig he has used since Kill (2006), and produced by Erik Rutan for a sixth time, now as a full bandmate rather than an outside collaborator. With critics praising the record as one that \"breathes life into the corpse once more\" and a #1 debut on the UK Rock & Metal Albums chart, Chaos Horrific proves that nearly two decades into an unchanged gear setup, Mazurkiewicz's playing remains as vital to the band's identity as ever.\n\nFrom Eaten Back to Life (1990) through Chaos Horrific (2023) — 33 years, sixteen studio albums, and one drummer who never left — Paul Mazurkiewicz's Cannibal Corpse story is a testament to the idea that consistency, not reinvention, is what makes a death metal rhythm section legendary.\n\nFor the complete Paul Mazurkiewicz CC gear arc around this record:\n- **The predecessor**: [Violence Unimagined drum setup (2021)](/articles/violence-unimagined-drum-setup) — Rutan's first album as a full band member\n- **The wider arc**: [Red Before Black drum setup (2017)](/articles/red-before-black-drum-setup) — Rutan's last album as a purely outside producer\n- **The complete history**: [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup) — the full career gear breakdown\n- **Full profile**: [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz)"
     }
   }
 };

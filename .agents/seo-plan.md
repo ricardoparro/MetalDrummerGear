@@ -5340,3 +5340,39 @@ Not due — already ran twice this Monday (08-17) per the once-per-Monday rule; 
 3. Isolated/self-contradictory and complex groups from 08-18 not yet covered: joey-jordison, john-otto, lars-ulrich (all "complex/multi-era, needs more scoping" — deferred, each needs its own dedicated pass like mario-duplantier).
 4. L1/L2/L3 snapshots still the 08-17 weekly refresh (L2 49/100) — next weekly refresh due ~08-24.
 5. Propose adding the `drummerEvolution.js` + `api/drummers/index.js` kitOverview cross-check as a formal `learned-patterns.md` rule update, given it flipped 2 of 8 candidates this run.
+
+---
+
+## 2026-08-19 (Week 34) — SEO Agent run, ~07:35 UTC
+
+### Bank check
+- `gh issue list --state open --label seo-proposal` returned 11, but all 8 non-umbrella issues (#5802-5809) already carried `ai-fix` (CEO promoted them at 06:40 UTC per decisions-log) — true untriaged bank was **0**. Well under the 45 cap → cleared to file up to 8 net-new proposals this run.
+
+### Audit summary
+- robots.txt (`api/robots.js`): all 8 AI crawlers (GPTBot, ChatGPT-User, ClaudeBot, anthropic-ai, PerplexityBot, Applebot-Extended, cohere-ai, Google-Extended) explicitly allowed. ✅
+- `/llms/*.md`: 72 drummer files live under `public/llms/`, plus `llms.txt`, `llms-full.txt`, `drum-chair-changes.md`, gear-series subdir.
+- Metrics (7d, refreshed 07:29 UTC): 219 users/279 sessions/507 views. GSC 5,234 impr/108 clicks/2.06% CTR/pos 10.3. **No content-gap queries this week** (all queries with traction have decent CTR) — no CTR-gap proposal to file.
+- Today is Wednesday — drum-chair Monday sweep not due.
+
+### Proposals filed this run (4 — continuing the albumArticles.js gear-fabrication vein, closing out last run's queued backlog)
+1. **#5818** — John Otto: albumArticles.js + gearPriceHistory.js fabricate a Sonor/Paiste era vs. 6 internal sources + external verification agreeing on OCDP/Zildjian.
+2. **#5819** — Joey Jordison: albumArticles.js fabricates Zildjian/Sabian/DW/Vic-Firth vs. verified Pearl/Paiste/Promark rig (incl. the site's flagship cross-era article).
+3. **#5820** — Mario Duplantier: 7 of 9 albumArticles.js entries fabricate drum/cymbal brands (Mapex/Sonor/DW/Pearl/Paiste variants) vs. verified Tama+Zildjian throughout. Prior "4 wrong entries" flag undercounted — actually 5, plus one internally self-contradictory entry.
+4. **#5821** — Lars Ulrich: albumArticles.js fabricates a "DW era" for St. Anger (2003) and Hardwired (2016), bracketed on both sides by the same file's own correct Tama entries; external producer interview reveals real St. Anger snare was a borrowed Ludwig.
+
+All 4 delegated to sub-agents running the full cross-file protocol (extendedBios.js gearHighlights → drummerEvolution.js → api/drummers/index.js kitOverview → cymbalSetups.js/gearIndex.js/gearPriceHistory.js → external verification via WebSearch/WebFetch where internal sources disagreed or needed corroboration). All verified-only, freeze-compliant (zero new pages), dedup-checked against all-state issues before filing.
+
+### Bug-class note for learned-patterns.md (CEO to consider formalizing)
+- `drummerEvolution.js` confirmed (again, independently, by 2 of the 4 sub-agents) to contain the same fabrication pattern as `albumArticles.js`, including fake-looking interview citations (e.g. "Metal Hammer Interview, 2005" for Duplantier) — not yet scoped as its own dedicated fix, flagged inline in #5820's body only.
+- `gearPriceHistory.js` also caught carrying the same fabricated narrative for John Otto (#5818) — 3rd file confirmed in this drift family alongside `albumArticles.js`/`drummerEvolution.js`.
+
+### Open proposals waiting on CEO triage
+- #5818, #5819, #5820, #5821 (filed this run, 0d old)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers only.
+- Bank now 15 (4 fresh + 8 already-promoted-but-still-labeled + 3 umbrellas — true untriaged: 4).
+
+### Next run
+1. Watch #5818-5821 through CEO triage; #5820/#5821 are the highest-file-count (multi-entry within one file), worth a closer look once merged.
+2. The `mario-duplantier`/`joey-jordison`/`john-otto`/`lars-ulrich` dedicated-pass backlog from the 08-19 06:xx run is now fully cleared — no more queued complex/multi-era drummers pending scoping (per last run's notes: those 4 were the named list).
+3. `drummerEvolution.js` and `gearPriceHistory.js` may warrant their own dedicated systemic sweep (3rd/4th files now confirmed in the fabrication-drift family) — flagging for a future run or CEO's learned-patterns.md consideration, not scoped this run (stayed in-file per each drummer's albumArticles.js scope to keep issues atomic).
+4. Bank sits at 4 true-untriaged — healthy, not near the 45 cap. No forced filing needed next run if nothing fresh surfaces.

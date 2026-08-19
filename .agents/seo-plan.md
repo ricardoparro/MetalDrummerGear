@@ -5296,3 +5296,47 @@ Not run — already completed twice this Monday (08-17). Next rotation due 2026-
 2. Continue the queued-candidate batch: matt-garstka, morgan-agren, nick-augusto, paul-mazurkiewicz, ray-luzier, ryan-van-poederooyen, tim-yeung — apply the cross-file/external-tiebreak check from this run before trusting extendedBios.js blindly.
 3. mario-duplantier's albumArticles.js still needs its own dedicated scoping pass (4 different wrong brands across 4 entries).
 4. L1/L2/L3 snapshots still the 08-17 weekly refresh (L2 49/100) — next weekly refresh due ~08-24.
+
+## 2026-08-19 (Wednesday) — finished the queued candidate batch; 2 externally-verified findings show extendedBios.js was ALSO wrong, not just albumArticles.js
+
+### Context
+Bank check at run start: 8 open `seo-proposal` (3 standing umbrellas #2211/#3810/#3819 + 5 already-`ai-fix`-promoted from last night, #5781-5785 — gearIndex.js/cymbalSetups.js/gearPriceHistory.js/drummersByKit.js, filed 08-18 19:42 UTC but not yet logged here) — well under <45 cap → file up to 8. Metrics 7d: 269 sessions/498 views, GA4 organic 202/144; GSC 5,234 impr/108 clicks/2.06% CTR/pos 10.3, no content-gap rows. Audit clean: robots.txt 13 User-agent blocks confirmed (8 AI crawlers), 72 `/llms/drummers/*.md` live, 71 `albumArticles/*.js` files. Today is Wednesday — drum-chair watch not due (last ran both Mondays this week per learned-patterns.md).
+
+### What was checked
+Finished the explicit "next run" item from 08-18's evening entry: the 7 remaining "many-instance, high confidence" names (matt-garstka, nick-augusto, paul-mazurkiewicz, ray-luzier, ryan-van-poederooyen, tim-yeung — morgan-agren was already covered by #5785 overnight) plus the 2 "isolated/self-contradictory" names (paul-bostaph, sean-reinert). Applied the 08-18 rule in full this time: for every candidate, grepped `drummerEvolution.js` (era-by-era gear + FAQ) and `api/drummers/index.js` (canonical, published `kitOverview`) in addition to `extendedBios.js`, before concluding which side was wrong.
+
+**Result: 2 of 8 inverted the assumed direction.** The queued notes (written before this cross-file check existed) assumed `extendedBios.js` was always the correct side:
+- **matt-garstka**: `drummerEvolution.js` + `albumArticles.js`'s Parrhesia (2022) entry both agreed on Pearl, contradicting extendedBios/kitOverview's Tama — a 2-files-vs-1 split that also happens to be the OPPOSITE of what #5320/#5550 "fixed" (they moved Pearl→Tama). External check (Modern Drummer "Matt Garstka Joins DW", Sept 2021 + MusicRadar + his own GGD signature drum page) found **neither internal claim is right — real current brand is DW**, unclaimed anywhere on the site. Filed as a comprehensive multi-file fix, **#5806**, including flagging a fabricated "Modern Drummer Interview, 2022" quote in `drummerEvolution.js` that doesn't match the real Sept 2021 DW-signing article.
+- **ray-luzier**: `drummerEvolution.js` claims an unbroken DW/Paiste rig 2010–present (with an explicit fabricated-sounding FAQ claim), contradicting extendedBios/kitOverview's Pearl/Sabian/DW-pedal. External check (official Pearl artist page, official Sabian artist page, a 2012 print ad already showing Sabian) confirmed **extendedBios/kitOverview's Pearl/Sabian is correct** — `drummerEvolution.js` is the wrong file here, plus `albumArticles.js`'s 5 Pearl-era entries are half-right (correct on drums/cymbals, wrong on pedal/sticks, still saying Pearl/Promark instead of DW/Vic Firth). Filed **#5807**.
+
+The other 6 confirmed the original direction (extendedBios/drummerEvolution/kitOverview agree, `albumArticles.js` alone is wrong) — filed as more straightforward single/dual-file fixes: **#5802** (nick-augusto, 3 entries, Tama/DW/Meinl/Promark→Pearl/Sabian/Vic Firth), **#5803** (paul-mazurkiewicz, 11 entries' cymbals Meinl→Sabian, cross-checked against `cymbalSetups.js` verified:true + external search), **#5804** (ryan-van-poederooyen, pedal only, Tama/DW→Pearl Demon Drive), **#5805** (tim-yeung, main entry stale-Pearl after drummerEvolution's documented 2021 Pearl→Tama switch), **#5808** (paul-bostaph, one evergreen entry says DW/Paiste contradicting the file's own correct Repentless entry), **#5809** (sean-reinert, one tribute entry fabricates Sabian/Mapex contradicting the file's own 3 correct dated entries).
+
+All 8 checked against `gh issue list --state all --search "<slug> albumArticles"` and (for the 2 inverted cases) `"<slug> drummerEvolution"` before filing — no duplicates; confirmed the relevant prior closed issues (#5320/#5550 matt-garstka, #5450 ryan-van-poederooyen, #5451 tim-yeung, #5319 paul-bostaph, #5364 sean-reinert, #5562/#5361/#5512 paul-mazurkiewicz) all touched different files/fields than what's being fixed here.
+
+### Proposals filed this run
+1. **#5802** — Nick Augusto: 3 albumArticles.js entries fabricate Tama/DW/Meinl/Promark vs verified Pearl/Sabian/Vic Firth
+2. **#5803** — Paul Mazurkiewicz: 11 albumArticles.js entries say Meinl for cymbals vs verified Sabian AAX
+3. **#5804** — Ryan Van Poederooyen: albumArticles.js pedal fabricated as Tama/DW vs verified Pearl Demon Drive
+4. **#5805** — Tim Yeung: albumArticles.js main entry stale (Pearl) after 2021 documented switch to Tama
+5. **#5806** — Matt Garstka: externally-verified DW switch (Sept 2021) matches neither the "Tama" nor "Pearl" claims already on site — comprehensive multi-file fix, incl. a fabricated interview quote
+6. **#5807** — Ray Luzier: drummerEvolution.js wrongly claims DW/Paiste continuous since 2010 — externally verified current gear is Pearl/Sabian/DW-pedal
+7. **#5808** — Paul Bostaph: albumArticles.js evergreen entry contradicts the file's own correct Repentless entry
+8. **#5809** — Sean Reinert: albumArticles.js tribute entry fabricates Sabian/Mapex vs the file's own 3 correct entries
+
+**Rule for next time (flagging for learned-patterns.md)**: `drummerEvolution.js` is a 3rd file in this same bug-drift family (alongside `albumArticles.js` and `extendedBios.js`) and is NOT automatically trustworthy just because it's detailed — it can fabricate specific-sounding quotes/interview citations that don't hold up externally (matt-garstka's case). The 08-18 cross-file-check rule should explicitly include `drummerEvolution.js` and `api/drummers/index.js`'s `kitOverview` (the canonical, highest-visibility field) as mandatory checks, not just `drummerComparisons.js`/`soundLikeGuides.js`.
+
+### Open proposals waiting on CEO triage
+- #5802-5809 (filed this run, 0d old)
+- #5781-5785 (filed 08-18 19:42 UTC, gearIndex.js/cymbalSetups.js/gearPriceHistory.js/drummersByKit.js batch — already `ai-fix`-eligible)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers only.
+- Bank now 16, still well under the <45 cap.
+
+### Drum-chair watch
+Not due — already ran twice this Monday (08-17) per the once-per-Monday rule; next rotation due 2026-08-24.
+
+### Next run
+1. Watch #5802-5809 and #5781-5785 through CEO triage — #5806/#5807 are the highest-value/highest-risk (multi-file, partially reverse a prior "fix"), worth a closer look once the PR lands.
+2. mario-duplantier's albumArticles.js still needs its own dedicated scoping pass (4 different wrong brands across 4 entries, flagged 08-18, not yet started).
+3. Isolated/self-contradictory and complex groups from 08-18 not yet covered: joey-jordison, john-otto, lars-ulrich (all "complex/multi-era, needs more scoping" — deferred, each needs its own dedicated pass like mario-duplantier).
+4. L1/L2/L3 snapshots still the 08-17 weekly refresh (L2 49/100) — next weekly refresh due ~08-24.
+5. Propose adding the `drummerEvolution.js` + `api/drummers/index.js` kitOverview cross-check as a formal `learned-patterns.md` rule update, given it flipped 2 of 8 candidates this run.

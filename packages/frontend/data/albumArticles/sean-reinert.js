@@ -780,7 +780,7 @@ export const articles = {
     },
     "drumKit": {
       "title": "The Evolution of Jazz-Metal Drums",
-      "brand": "Various (Pearl, Tama, Mapex)",
+      "brand": "Various (Tama, DW)",
       "model": "Changed throughout career",
       "finish": "Natural/Dark finishes preferred",
       "config": {
@@ -821,49 +821,49 @@ export const articles = {
       "estimatedValue": "$300-700 per snare (professional quality)"
     },
     "cymbals": {
-      "title": "Sabian Sophistication",
-      "brand": "Sabian",
-      "series": "Sabian AA / AAX / HHX",
+      "title": "Zildjian Sophistication",
+      "brand": "Zildjian",
+      "series": "Zildjian A / K / K Custom",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Sabian 14\" AA Regular Hats / HHX Evolution",
+          "model": "Zildjian 14\" A New Beat / K Custom Hi-Hats",
           "position": "Left side",
           "notes": "Musical, responsive — essential for jazz vocabulary"
         },
         {
           "type": "Crash",
-          "model": "Sabian 16\" AA Medium Thin",
+          "model": "Zildjian 16\" A Medium Thin Crash",
           "position": "Left",
           "notes": "Quick, musical crash"
         },
         {
           "type": "Crash",
-          "model": "Sabian 18\" AAX X-Plosion",
+          "model": "Zildjian 18\" K Crash",
           "position": "Right of toms",
           "notes": "Explosive but controlled"
         },
         {
           "type": "Ride",
-          "model": "Sabian 20\" or 22\" HHX Manhattan / AA Medium",
+          "model": "Zildjian 20\" or 22\" K Custom / A Medium Ride",
           "position": "Right side",
           "notes": "Complex stick definition, musical bell — essential for jazz patterns"
         },
         {
           "type": "China",
-          "model": "Sabian 18\" AAX Chinese",
+          "model": "Zildjian 18\" A China",
           "position": "Above floor tom",
           "notes": "For aggressive accents when needed"
         },
         {
           "type": "Splash",
-          "model": "Sabian 8\" or 10\" AA Splash",
+          "model": "Zildjian 8\" or 10\" A Splash",
           "position": "Various",
           "notes": "Subtle accents and color"
         }
       ],
-      "description": "Sean Reinert's Sabian cymbals reflected his musical priorities: complexity, musicality, and dynamic range. Unlike the wall-of-cymbals approach favored by many metal drummers, Sean chose cymbals that offered tonal sophistication and response to touch dynamics.\n\n**The Ride Cymbal:**\nFor Sean, the ride wasn't just for steady riding — it was a lead instrument. His jazz training made the ride cymbal a primary voice, used for complex patterns, bell accents, and crash-ride textures. He favored rides with clear stick definition and complex wash — cymbals that rewarded subtle technique rather than just loud playing.\n\n**Hi-Hat Technique:**\nSean's hi-hat work drew directly from jazz drumming. Foot splashes, subtle openings, barking accents — he used the hi-hats as a dynamic, expressive instrument. This required responsive cymbals that reacted to minimal touch pressure, not the heavy, rigid hi-hats common in extreme metal.\n\n**Crash Vocabulary:**\nRather than using crashes purely for explosive accents, Sean integrated them into his musical vocabulary. Crash rolls, swells, and subtle touches added texture to Cynic's atmospheric sections. His cymbal choices reflected this — musical rather than merely loud.\n\n**The Complete Sound:**\nSean's cymbal setup created a cohesive tonal palette. The brightness of AAX crashes balanced against the complexity of HHX rides, with the musicality of AA hi-hats providing foundation. Every cymbal served the music, not the drummer's ego.\n\nThis was the sound of jazz meeting metal — sophisticated, dynamic, and utterly unique.",
-      "estimatedValue": "$1,800-2,500 total (Sabian professional series)"
+      "description": "Sean Reinert's Zildjian cymbals reflected his musical priorities: complexity, musicality, and dynamic range. Unlike the wall-of-cymbals approach favored by many metal drummers, Sean chose cymbals that offered tonal sophistication and response to touch dynamics, moving from the brighter A Series on Human and Focus to the darker K and K Custom lines by Cynic's 2008 reunion, Traced in Air.\n\n**The Ride Cymbal:**\nFor Sean, the ride wasn't just for steady riding — it was a lead instrument. His jazz training made the ride cymbal a primary voice, used for complex patterns, bell accents, and crash-ride textures. He favored rides with clear stick definition and complex wash — cymbals that rewarded subtle technique rather than just loud playing.\n\n**Hi-Hat Technique:**\nSean's hi-hat work drew directly from jazz drumming. Foot splashes, subtle openings, barking accents — he used the hi-hats as a dynamic, expressive instrument. This required responsive cymbals that reacted to minimal touch pressure, not the heavy, rigid hi-hats common in extreme metal.\n\n**Crash Vocabulary:**\nRather than using crashes purely for explosive accents, Sean integrated them into his musical vocabulary. Crash rolls, swells, and subtle touches added texture to Cynic's atmospheric sections. His cymbal choices reflected this — musical rather than merely loud.\n\n**The Complete Sound:**\nSean's cymbal setup created a cohesive tonal palette. The brightness of A Series crashes balanced against the complexity of K Custom rides, with the musicality of the hi-hats providing foundation. Every cymbal served the music, not the drummer's ego.\n\nThis was the sound of jazz meeting metal — sophisticated, dynamic, and utterly unique.",
+      "estimatedValue": "$1,800-2,500 total (Zildjian professional series)"
     },
     "hardware": {
       "title": "Professional Foundation",
@@ -871,7 +871,7 @@ export const articles = {
         {
           "type": "Bass Drum Pedal",
           "brand": "Various (DW, Pearl)",
-          "model": "DW 5000 / Pearl Eliminator",
+          "model": "DW 5000 / Pearl P-100P",
           "notes": "Smooth, responsive action for dynamic control",
           "description": "Sean needed pedals that responded to subtle foot technique, not just raw power. His jazz-influenced bass drum patterns required precise control at various dynamic levels."
         },
@@ -965,7 +965,7 @@ export const articles = {
           "notes": "Compact kit encourages musicality over volume"
         },
         {
-          "item": "Quality hi-hats (Sabian AA, Zildjian A)",
+          "item": "Quality hi-hats (Zildjian A)",
           "available": true,
           "priceRange": "$200-350",
           "notes": "Responsive to subtle footwork"
@@ -1007,15 +1007,15 @@ export const articles = {
     "faq": [
       {
         "question": "What drum kit did Sean Reinert use throughout his career?",
-        "answer": "Sean Reinert used several kits across his career, including Pearl, Tama, and Mapex setups depending on the project. He favored maple shells for their warm response, working with bass drums in both 20 and 22 inch sizes to suit jazz and death metal contexts. His configurations typically included 10 and 12 inch rack toms and 14 and 16 inch floor toms, balancing melodic sensitivity with the power required for technical death metal."
+        "answer": "Sean Reinert used a Tama Artstar II birch shell kit throughout his tenure in Death and on Cynic's Focus, then upgraded to a DW Collector's maple shell pack for Cynic's 2008 reunion album, Traced in Air. He favored maple and birch shells for their warm response, working with bass drums in both 20 and 22 inch sizes to suit jazz and death metal contexts. His configurations typically included 10 and 12 inch rack toms and 14 and 16 inch floor toms, balancing melodic sensitivity with the power required for technical death metal."
       },
       {
         "question": "What cymbals did Sean Reinert use throughout his career?",
-        "answer": "Sean Reinert was closely associated with Sabian cymbals, drawing from the AA, AAX, and HHX lines. His setup typically featured 14 inch AA or HHX Evolution hi-hats, an AA 16 inch crash paired with an AAX 18 inch crash, a large HHX or AA ride between 20 and 22 inches, an 18 inch AAX Chinese, and an 8 or 10 inch splash. Sabian's darker, more complex tones complemented his jazz-influenced approach to death metal."
+        "answer": "Sean Reinert was closely associated with Zildjian cymbals throughout his career, drawing from the A, K, and K Custom lines. He used Zildjian A Series cymbals on Death's Human (1991), then switched to the darker Zildjian K Series for Cynic's Focus (1993), before upgrading to Zildjian K Custom cymbals for Cynic's 2008 reunion album, Traced in Air. His setup typically featured 14 inch hi-hats, 16 and 18 inch crashes, a 20 to 22 inch ride, an 18 inch China, and an 8 or 10 inch splash. Zildjian's darker, more complex K Series tones complemented his jazz-influenced approach to death metal."
       },
       {
         "question": "How much does Sean Reinert's signature kit cost?",
-        "answer": "Because Sean Reinert used different brands at different points in his career, assembling a representative setup requires flexibility. A quality maple shell pack from Pearl, Tama, or Mapex in a similar configuration runs $3,000 to $5,000. Adding a full Sabian AA, AAX, and HHX cymbal setup brings the total to roughly $7,000 to $10,000. Individual snares in his preferred 14 inch depths range from $300 to $700 each."
+        "answer": "Because Sean Reinert's gear evolved across his career, assembling a representative setup requires flexibility. A quality maple or birch shell pack from Tama or DW in a similar configuration runs $3,000 to $5,000. Adding a full Zildjian A, K, and K Custom cymbal setup brings the total to roughly $1,800 to $2,500. Individual snares in his preferred 14 inch depths range from $300 to $700 each."
       }
     ],
     "conclusion": {

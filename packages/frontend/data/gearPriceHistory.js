@@ -3786,8 +3786,11 @@ export const GEAR_PRICE_HISTORY = {
 
   // ==========================================
   // JOHN OTTO - 1999 Significant Other Era
-  // Sonor Force 3007 / Paiste 2002 Setup
+  // Pearl-to-OCDP transitional kit / Zildjian A Custom setup
   // Issue #2918: SEO batch — gear price history batch 23
+  // Corrected per issue #5818: prior Sonor/Paiste claims were fabricated and
+  // contradicted every other verified source (kitOverview, extendedBios,
+  // cymbalSetups.js, drummerEvolution.js, albumArticles/john-otto.js).
   // ==========================================
   'john-otto': {
     slug: 'john-otto',
@@ -3798,52 +3801,52 @@ export const GEAR_PRICE_HISTORY = {
     albumReference: 'Significant Other (1999)',
     profileImage: '/images/drummers/john-otto.webp',
 
-    summary: "John Otto's 1999 setup powered Limp Bizkit's commercial breakthrough, \"Significant Other\" — debuting at #1 on the Billboard 200 and eventually certified 15x Platinum. A Sonor Force 3007 kit with beech shells gave Otto's jazz-and-hip-hop-informed groove the tonal balance to cut through Wes Borland's detuned guitars and DJ Lethal's turntable work, while Paiste 2002 cymbals supplied the bright, projecting attack the dense nu-metal mix demanded. The original rig — kit, snare, cymbals, Pearl P-2002 Eliminator pedal, and Zildjian sticks — cost roughly $4,876 in 1999. Adjusted for 2026 inflation, that's equivalent to approximately $9,590 today. Otto carried the same Sonor/Paiste setup into 2000's \"Chocolate Starfish and the Hot Dog Flavored Water,\" which debuted with the largest first-week sales total in SoundScan history at the time. His gear has since evolved: he later moved through a long Pearl hardware endorsement before settling into his current Orange County Drum and Percussion (OCDP) custom kit with Zildjian cymbals and Gibraltar hardware — a setup that still carries the same groove-first philosophy he brought to Limp Bizkit's biggest records.",
+    summary: "John Otto's 1999 setup powered Limp Bizkit's commercial breakthrough, \"Significant Other\" — debuting at #1 on the Billboard 200 and eventually certified 15x Platinum. Otto's kit was in transition that era: off-the-shelf Pearl drums giving way to the custom Orange County Drum and Percussion (OCDP) shells that became his signature rig, while Zildjian A and A Custom cymbals supplied the bright, projecting attack the dense nu-metal mix demanded. Otto carried the same Pearl-to-OCDP transitional setup into 2000's \"Chocolate Starfish and the Hot Dog Flavored Water,\" which debuted with the largest first-week sales total in SoundScan history at the time. His gear has since evolved into his current Orange County Drum and Percussion (OCDP) custom kit with Zildjian cymbals and Gibraltar hardware — a setup that still carries the same groove-first philosophy he brought to Limp Bizkit's biggest records.",
 
     setup: {
       drums: {
-        item: 'Sonor Force 3007',
-        model: '5-piece beech shell pack',
+        item: 'Pearl Drum Kit',
+        model: '5-piece shell pack (transitioning to custom OCDP shells)',
         specs: '22"x18" bass drum (single kick), 10"x8"/12"x10" rack toms, 14"x14"/16"x16" floor toms',
-        originalPrice: 2400,
+        originalPrice: 1600,
         year: 1999,
-        source: 'Sonor Force 3007 catalog MSRP 1999, Modern Drummer archive estimates',
-        notes: 'Beech shells balanced warmth with attack, suiting Otto\'s dynamic range between ghost notes and full-power backbeats.',
-        vintageValue2026: 1300,
+        source: 'Pearl professional kit retail pricing estimate, 1999',
+        notes: 'Off-the-shelf Pearl shells while Otto transitioned toward the custom Orange County Drum and Percussion (OCDP) specifications that became his signature kit.',
+        vintageValue2026: 900,
         modernEquivalent: {
-          item: 'OCDP Custom Maple/Ash Kit',
-          price: 2900,
-          link: 'ocdp-custom-maple-ash',
+          item: 'OCDP Custom Type 5 Acrylic Kit',
+          price: 3200,
+          link: 'ocdp-custom-type5-acrylic',
         },
       },
       snare: {
-        item: 'Sonor Signature Series Steel Snare',
-        model: '14"x6.5" steel shell',
-        specs: '14"x6.5" steel, medium-high tension',
-        originalPrice: 320,
+        item: 'Custom Snare Configuration',
+        model: '14"x6.5" (transitioning toward OCDP)',
+        specs: '14"x6.5", medium-high tension',
+        originalPrice: 280,
         year: 1999,
-        source: 'Sonor snare catalog 1999',
-        notes: 'Steel crack cut through the dense nu-metal mix while staying sensitive enough for Otto\'s ghost-note work on tracks like "Nookie."',
-        vintageValue2026: 280,
+        source: 'Standard professional snare retail pricing estimate, 1999',
+        notes: 'Cut through the dense nu-metal mix while staying sensitive enough for Otto\'s ghost-note work on tracks like "Nookie" — a size he carried forward into his OCDP snares.',
+        vintageValue2026: 220,
         modernEquivalent: {
-          item: 'OCDP 14"x7" Maple/Ash Snare',
+          item: 'OCDP 14"x6.5" 40-ply Vented Snare',
           price: 380,
-          link: 'ocdp-maple-ash-snare',
+          link: 'ocdp-vented-snare',
         },
       },
       cymbals: {
-        item: 'Paiste 2002 Series',
-        model: 'Full 2002 configuration',
-        specs: '14" Hi-Hats, 16"/18" Crashes, 20" Ride, 18" China, 10" Splash',
-        originalPrice: 1700,
+        item: 'Zildjian A / A Custom Series',
+        model: '13" A Custom Mastersound Hi-Hats, 16"/17" A Custom Projection Crashes, 20" A Custom EFX, 20" FX Oriental Crash of Doom',
+        specs: '13" Hi-Hats, 16"/17" Crashes, 20" EFX, 20" Crash of Doom',
+        originalPrice: 1900,
         year: 1999,
-        source: 'Paiste 2002 series retail pricing 1999',
-        notes: 'Bright CuSn8 bronze tone cut through the album\'s dense turntable-and-guitar arrangements.',
-        vintageValue2026: 950,
+        source: 'Zildjian A Custom series retail pricing estimate, 1999',
+        notes: 'Bright, cutting tone cut through the album\'s dense turntable-and-guitar arrangements — the same core setup Otto still plays today.',
+        vintageValue2026: 1050,
         modernEquivalent: {
-          item: 'Zildjian K Custom Series',
-          price: 1900,
-          link: 'zildjian-k-custom-set',
+          item: 'Zildjian A Custom Series (current setup)',
+          price: 2100,
+          link: 'zildjian-a-custom-set',
         },
       },
       hardware: {
@@ -3894,31 +3897,30 @@ export const GEAR_PRICE_HISTORY = {
     },
 
     totals: {
-      originalTotal: 4876,
+      originalTotal: 4236,
       inflationAdjusted2026: null, // Calculated dynamically
-      vintageTotal2026: 2780,
-      modernEquivalentTotal: 5707,
+      vintageTotal2026: 2420,
+      modernEquivalentTotal: 6207,
     },
 
     priceEvolution: [
-      { year: 1999, price: 4876, label: 'Original Purchase', event: 'Significant Other debuts at #1, eventually 15x Platinum' },
-      { year: 2000, price: 5100, label: 'Chocolate Starfish era', event: 'Album sets largest first-week SoundScan total at the time' },
-      { year: 2009, price: 6800, label: 'Reunion tour', event: 'Original lineup reunites for world tour' },
-      { year: 2021, price: 8700, label: 'Still Sucks era', event: 'First Limp Bizkit album in 10 years' },
-      { year: 2026, price: 9588, label: 'Current adjusted', event: 'Inflation-adjusted value, OCDP custom kit era' },
+      { year: 1999, price: 4236, label: 'Original Purchase', event: 'Significant Other debuts at #1, eventually 15x Platinum' },
+      { year: 2000, price: 4430, label: 'Chocolate Starfish era', event: 'Album sets largest first-week SoundScan total at the time' },
+      { year: 2009, price: 5910, label: 'Reunion tour', event: 'Original lineup reunites for world tour' },
+      { year: 2021, price: 7560, label: 'Still Sucks era', event: 'First Limp Bizkit album in 10 years' },
+      { year: 2026, price: 8330, label: 'Current adjusted', event: 'Inflation-adjusted value, OCDP custom kit era' },
     ],
 
     sources: [
-      { title: 'Sonor Force 3007 Catalog', year: 1999, type: 'catalog' },
-      { title: 'Paiste 2002 Series Retail Pricing Archive', year: 1999, type: 'catalog' },
-      { title: 'Modern Drummer — John Otto Interview', year: 2004, type: 'interview' },
-      { title: 'Reverb Marketplace Analysis — Vintage Sonor Force', year: 2025, type: 'market' },
+      { title: 'OCDP Official Artist Profile — John Otto', year: 2026, type: 'manufacturer' },
+      { title: 'Modern Drummer Podcast — John Otto Interview (with David Frangioni)', year: 2024, type: 'interview' },
+      { title: 'Remo Artist Profile — John Otto', year: 2026, type: 'manufacturer' },
     ],
 
     meta: {
       title: "John Otto Drum Setup Cost | Limp Bizkit Gear Price History",
-      description: "How much was John Otto's 1999 Limp Bizkit drum kit worth? Original Sonor Force 3007 + Paiste 2002 setup ~$4,876 in 1999, inflation-adjusted to ~$9,590 today. Complete gear breakdown from Significant Other to today.",
-      keywords: ['john otto drum setup cost', 'limp bizkit drum kit price', 'sonor force 3007 price', 'john otto gear cost today', 'paiste 2002 cymbals price'],
+      description: "How much was John Otto's 1999 Limp Bizkit drum kit worth? Pearl-to-OCDP transitional kit + Zildjian A Custom cymbals ~$4,236 in 1999, inflation-adjusted to ~$8,330 today. Complete gear breakdown from Significant Other to today.",
+      keywords: ['john otto drum setup cost', 'limp bizkit drum kit price', 'john otto ocdp kit price', 'john otto gear cost today', 'zildjian a custom cymbals price'],
     },
   },
 

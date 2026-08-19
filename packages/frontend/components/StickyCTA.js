@@ -16,6 +16,7 @@ import { useTheme } from '../ThemeContext';
 import { colors } from '../colors';
 import { spacing } from '../spacing';
 import { fontSize, fontWeight } from '../typography';
+import FeedbackModal from './FeedbackModal';
 
 // Dismiss duration: 24 hours in milliseconds
 const DISMISS_DURATION_MS = 24 * 60 * 60 * 1000;
@@ -247,6 +248,14 @@ export default function StickyCTA({ onNavigate, onShareResult }) {
     }
   }, [pageType, scrollDepth, isMobile]);
 
+  // Feedback / feature-idea box (in-page modal, no navigation) — same
+  // secondary-icon rationale as handleSupportPress above.
+  const [showFeedback, setShowFeedback] = useState(false);
+  const handleFeedbackPress = useCallback(() => {
+    trackCTAEvent('sticky_cta_click', pageType, scrollDepth, isMobile, 'feedback');
+    setShowFeedback(true);
+  }, [pageType, scrollDepth, isMobile]);
+
   // Handle dismiss
   const handleDismiss = useCallback(() => {
     trackCTAEvent('sticky_cta_dismiss', pageType, scrollDepth, isMobile);
@@ -341,91 +350,119 @@ export default function StickyCTA({ onNavigate, onShareResult }) {
   // Mobile: FAB (Floating Action Button)
   if (isMobile) {
     return (
+      <>
+        <Animated.View
+          style={[
+            styles.fabContainer,
+            {
+              transform: [{ translateY: slideAnim }],
+            },
+          ]}
+          pointerEvents={isVisible ? 'auto' : 'none'}
+          data-testid="sticky-cta"
+        >
+          <TouchableOpacity
+            onPress={handlePress}
+            style={[styles.fab, { backgroundColor: colors.brand.primary }]}
+            accessibilityRole="button"
+            accessibilityLabel={ctaConfig.text}
+            activeOpacity={0.8}
+          >
+            <Text style={styles.fabText}>{ctaConfig.shortText}</Text>
+          </TouchableOpacity>
+          <TouchableOpacity
+            onPress={handleSupportPress}
+            style={styles.fabSupport}
+            accessibilityRole="link"
+            accessibilityLabel="Buy me a coffee — support MetalForge"
+            hitSlop={{ top: 10, right: 10, bottom: 10, left: 10 }}
+          >
+            <Text style={styles.fabSupportText}>☕</Text>
+          </TouchableOpacity>
+          <TouchableOpacity
+            onPress={handleFeedbackPress}
+            style={styles.fabSupport}
+            accessibilityRole="button"
+            accessibilityLabel="Send feedback or a feature idea"
+            hitSlop={{ top: 10, right: 10, bottom: 10, left: 10 }}
+          >
+            <Text style={styles.fabSupportText}>💡</Text>
+          </TouchableOpacity>
+          <TouchableOpacity
+            onPress={handleDismiss}
+            style={styles.fabDismiss}
+            accessibilityRole="button"
+            accessibilityLabel="Dismiss"
+            hitSlop={{ top: 10, right: 10, bottom: 10, left: 10 }}
+          >
+            <Text style={styles.fabDismissText}>✕</Text>
+          </TouchableOpacity>
+        </Animated.View>
+        {/* Sibling, not a child of the Animated.View above: that view's
+            pointerEvents flips to 'none' once scrolled back above the 30%
+            threshold, which would make an open modal unclickable if nested. */}
+        <FeedbackModal visible={showFeedback} onClose={() => setShowFeedback(false)} />
+      </>
+    );
+  }
+  
+  // Desktop: Bottom bar
+  return (
+    <>
       <Animated.View
         style={[
-          styles.fabContainer,
+          styles.barContainer,
           {
+            backgroundColor: colors.bg.elevated,
+            borderTopColor: colors.border.default,
             transform: [{ translateY: slideAnim }],
           },
         ]}
         pointerEvents={isVisible ? 'auto' : 'none'}
         data-testid="sticky-cta"
       >
-        <TouchableOpacity
-          onPress={handlePress}
-          style={[styles.fab, { backgroundColor: colors.brand.primary }]}
-          accessibilityRole="button"
-          accessibilityLabel={ctaConfig.text}
-          activeOpacity={0.8}
-        >
-          <Text style={styles.fabText}>{ctaConfig.shortText}</Text>
-        </TouchableOpacity>
-        <TouchableOpacity
-          onPress={handleSupportPress}
-          style={styles.fabSupport}
-          accessibilityRole="link"
-          accessibilityLabel="Buy me a coffee — support MetalForge"
-          hitSlop={{ top: 10, right: 10, bottom: 10, left: 10 }}
-        >
-          <Text style={styles.fabSupportText}>☕</Text>
-        </TouchableOpacity>
-        <TouchableOpacity
-          onPress={handleDismiss}
-          style={styles.fabDismiss}
-          accessibilityRole="button"
-          accessibilityLabel="Dismiss"
-          hitSlop={{ top: 10, right: 10, bottom: 10, left: 10 }}
-        >
-          <Text style={styles.fabDismissText}>✕</Text>
-        </TouchableOpacity>
+        <View style={styles.barContent}>
+          <TouchableOpacity
+            onPress={handlePress}
+            style={[styles.barButton, { backgroundColor: colors.brand.primary }]}
+            accessibilityRole="button"
+            accessibilityLabel={ctaConfig.text}
+            activeOpacity={0.8}
+          >
+            <Text style={styles.barButtonText}>{ctaConfig.text}</Text>
+          </TouchableOpacity>
+          <TouchableOpacity
+            onPress={handleSupportPress}
+            style={[styles.barSupport, { borderColor: colors.border.default }]}
+            accessibilityRole="link"
+            accessibilityLabel="Buy me a coffee — support MetalForge"
+            hitSlop={{ top: 8, right: 8, bottom: 8, left: 8 }}
+          >
+            <Text style={styles.barSupportText}>☕ Support</Text>
+          </TouchableOpacity>
+          <TouchableOpacity
+            onPress={handleFeedbackPress}
+            style={[styles.barSupport, { borderColor: colors.border.default }]}
+            accessibilityRole="button"
+            accessibilityLabel="Send feedback or a feature idea"
+            hitSlop={{ top: 8, right: 8, bottom: 8, left: 8 }}
+          >
+            <Text style={styles.barSupportText}>💡 Feedback</Text>
+          </TouchableOpacity>
+          <TouchableOpacity
+            onPress={handleDismiss}
+            style={styles.barDismiss}
+            accessibilityRole="button"
+            accessibilityLabel="Dismiss call to action"
+            hitSlop={{ top: 10, right: 10, bottom: 10, left: 10 }}
+          >
+            <Text style={[styles.barDismissText, { color: colors.text.muted }]}>✕</Text>
+          </TouchableOpacity>
+        </View>
       </Animated.View>
-    );
-  }
-  
-  // Desktop: Bottom bar
-  return (
-    <Animated.View
-      style={[
-        styles.barContainer,
-        {
-          backgroundColor: colors.bg.elevated,
-          borderTopColor: colors.border.default,
-          transform: [{ translateY: slideAnim }],
-        },
-      ]}
-      pointerEvents={isVisible ? 'auto' : 'none'}
-      data-testid="sticky-cta"
-    >
-      <View style={styles.barContent}>
-        <TouchableOpacity
-          onPress={handlePress}
-          style={[styles.barButton, { backgroundColor: colors.brand.primary }]}
-          accessibilityRole="button"
-          accessibilityLabel={ctaConfig.text}
-          activeOpacity={0.8}
-        >
-          <Text style={styles.barButtonText}>{ctaConfig.text}</Text>
-        </TouchableOpacity>
-        <TouchableOpacity
-          onPress={handleSupportPress}
-          style={[styles.barSupport, { borderColor: colors.border.default }]}
-          accessibilityRole="link"
-          accessibilityLabel="Buy me a coffee — support MetalForge"
-          hitSlop={{ top: 8, right: 8, bottom: 8, left: 8 }}
-        >
-          <Text style={styles.barSupportText}>☕ Support</Text>
-        </TouchableOpacity>
-        <TouchableOpacity
-          onPress={handleDismiss}
-          style={styles.barDismiss}
-          accessibilityRole="button"
-          accessibilityLabel="Dismiss call to action"
-          hitSlop={{ top: 10, right: 10, bottom: 10, left: 10 }}
-        >
-          <Text style={[styles.barDismissText, { color: colors.text.muted }]}>✕</Text>
-        </TouchableOpacity>
-      </View>
-    </Animated.View>
+      {/* Sibling, not a child — same pointerEvents reasoning as the mobile FAB branch. */}
+      <FeedbackModal visible={showFeedback} onClose={() => setShowFeedback(false)} />
+    </>
   );
 }
 

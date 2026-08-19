@@ -1468,10 +1468,10 @@ export const articles = {
       ]
     },
     "drumKit": {
-      "title": "Paul's Current Arsenal: DW Power",
-      "brand": "DW",
-      "model": "DW Collector's Series Maple/Mahogany",
-      "finish": "Custom Black (Final Slayer Era)",
+      "title": "Paul's Current Arsenal: Pearl Power",
+      "brand": "Pearl",
+      "model": "Pearl Masters Maple Complete (MCX)",
+      "finish": "Piano Black (Final Slayer Era)",
       "config": {
         "bassdrums": [
           "22\" x 18\" Bass Drum (x2 for live Slayer shows)"
@@ -1484,96 +1484,90 @@ export const articles = {
           "14\" x 14\" Floor Tom",
           "16\" x 16\" Floor Tom"
         ],
-        "shells": "Maple/Mahogany hybrid shells for punch and warmth"
+        "shells": "All-maple shells with Pearl's SST Tom Suspension mounting"
       },
-      "description": "Paul Bostaph's gear journey mirrors his professional evolution. Starting with Pearl in the Forbidden days, transitioning through various brands during his Slayer tenures, and ultimately landing on DW Drums for the Final World Tour era, Paul has always chosen equipment that delivers power, consistency, and reliability.\n\nHis DW Collector's Series setup during the final Slayer years represented the culmination of decades of refinement. The maple/mahogany shell combination provides the perfect balance: maple's attack and projection for cutting through Kerry King and Gary Holt's wall of guitars, with mahogany's warmth adding depth and musicality.\n\nFor live Slayer shows, Paul typically employed double bass drums rather than a double pedal setup. This visual and sonic approach matched Slayer's theatrical stage presence while providing the slightly different feel that some drummers prefer for sustained double-bass passages. The two 22\" kicks were positioned for maximum impact, their synchronized assault driving songs like \"Raining Blood,\" \"Angel of Death,\" and \"War Ensemble.\"\n\nThe tom configuration — two rack toms (10\" and 12\") and two floor toms (14\" and 16\") — remained consistent throughout his career. This setup provided enough melodic range for fills and transitions without excessive complexity. Paul's playing prioritizes groove and power over flashy tom work, and his kit reflects that approach.\n\nThroughout his career, Paul has emphasized that gear serves the music. His DW setup wasn't about endorsement deals or image — it was about finding drums that could deliver Slayer's punishing material night after night, tour after tour, for years on end.",
+      "description": "Paul Bostaph's gear journey mirrors his professional evolution. Starting with Pearl in the Forbidden days, transitioning through various brands during his Slayer tenures, and ultimately landing back on Pearl for the Final World Tour era, Paul has always chosen equipment that delivers power, consistency, and reliability.\n\nHis Pearl Masters Maple Complete setup during the final Slayer years represented the culmination of decades of refinement. The all-maple shell construction gives the kit a focused low-mid punch and fast attack for cutting through Kerry King and Gary Holt's wall of guitars, while Pearl's SST tom suspension mounting keeps the shells free-ringing for fuller sustain.\n\nFor live Slayer shows, Paul typically employed double bass drums rather than a double pedal setup. This visual and sonic approach matched Slayer's theatrical stage presence while providing the slightly different feel that some drummers prefer for sustained double-bass passages. The two 22\" kicks were positioned for maximum impact, their synchronized assault driving songs like \"Raining Blood,\" \"Angel of Death,\" and \"War Ensemble.\"\n\nThe tom configuration — two rack toms (10\" and 12\") and two floor toms (14\" and 16\") — remained consistent throughout his career. This setup provided enough melodic range for fills and transitions without excessive complexity. Paul's playing prioritizes groove and power over flashy tom work, and his kit reflects that approach.\n\nThroughout his career, Paul has emphasized that gear serves the music. His Pearl setup wasn't about endorsement deals or image — it was about finding drums that could deliver Slayer's punishing material night after night, tour after tour, for years on end.",
       "notes": [
-        "DW Collector's Series during final Slayer era (2013-2019)",
-        "Previously used Pearl, Tama, and other brands throughout career",
+        "Pearl Masters Maple Complete during final Slayer era (2013-2019)",
+        "Also used Tama and DW during earlier Slayer and Testament eras",
         "Double bass drum configuration for live Slayer shows",
-        "Maple/Mahogany hybrid shells for balanced attack and warmth",
+        "All-maple shells with Pearl's SST Tom Suspension mounting",
         "Compact tom setup focused on power over complexity"
       ],
-      "estimatedValue": "$4,000-7,000 (DW Collector's Series complete kit)"
+      "estimatedValue": "$3,000-4,500 (Pearl Masters Maple Complete kit)"
     },
     "snare": {
       "title": "The Snare That Survived Slayer",
-      "brand": "DW",
-      "model": "DW Collector's Maple Snare",
+      "brand": "Pearl",
+      "model": "Pearl Masters Steel Snare",
       "size": "14\" x 6.5\"",
-      "shell": "Maple",
-      "description": "The snare drum in thrash metal needs to cut through everything. It must be heard clearly during blast beats, provide crack during groove sections, and survive thousands of rim shots per show. Paul Bostaph's DW Collector's Maple snare delivered all of this for the demanding Slayer material.\n\nThe 14\" x 6.5\" dimensions have become standard for metal drummers, and for good reason. The 14\" diameter provides projection and power, while the 6.5\" depth adds body without sacrificing response. For music that requires both speed and impact, this size hits the sweet spot.\n\nPaul's tuning approach prioritizes cutting through the mix. Medium-high tension on the batter head, tight snare wires, and minimal muffling create a snare that speaks on every stroke. When playing classics like \"Chemical Warfare\" or \"Dead Skin Mask,\" the snare needs to punch through decades of guitar tone evolution while honoring the original recordings' character.\n\nThe maple shell provides warmth that balances the aggressive tuning. Unlike steel or brass snares that can become harsh at high volumes, maple maintains musicality even when hit hard. For three-hour Slayer sets, this consistency matters.\n\nDuring the Final World Tour, Paul's snare sound became part of Slayer's massive front-of-house mix. Engineered for arena and stadium sound, it needed to project clearly to 20,000+ fans while maintaining the character that fans expected from Slayer's legendary drum sound.",
-      "tuningSetting": "Medium-high tension for maximum cut in dense thrash mixes",
-      "heads": "Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)",
-      "estimatedValue": "$500-700 (DW Collector's Maple Snare)"
+      "shell": "Steel",
+      "description": "The snare drum in thrash metal needs to cut through everything. It must be heard clearly during blast beats, provide crack during groove sections, and survive thousands of rim shots per show. Paul Bostaph's Pearl Masters steel snare delivered all of this for the demanding Slayer material.\n\nThe 14\" x 6.5\" dimensions have become standard for metal drummers, and for good reason. The 14\" diameter provides projection and power, while the 6.5\" depth adds body without sacrificing response. For music that requires both speed and impact, this size hits the sweet spot.\n\nPaul's tuning approach prioritizes cutting through the mix. Medium-high tension on the batter head, tight snare wires, and minimal muffling create a snare that speaks on every stroke. When playing classics like \"Chemical Warfare\" or \"Dead Skin Mask,\" the snare needs to punch through decades of guitar tone evolution while honoring the original recordings' character.\n\nThe steel shell gives the drum a cutting, metallic crack well suited to Slayer's thrash material, staying present and dry in the mix even at high volumes. For three-hour Slayer sets, this consistency matters.\n\nDuring the Final World Tour, Paul's snare sound became part of Slayer's massive front-of-house mix. Engineered for arena and stadium sound, it needed to project clearly to 20,000+ fans while maintaining the character that fans expected from Slayer's legendary drum sound.",
+      "tuningSetting": "Medium-high tension for cutting attack with steel brightness",
+      "heads": "Remo Emperor Coated (batter)",
+      "estimatedValue": "$350-550 (Pearl Masters Steel Snare)"
     },
     "cymbals": {
-      "title": "Paiste RUDE: The Thrash Standard",
-      "brand": "Paiste",
-      "series": "Paiste RUDE",
+      "title": "Sabian AAX: The Final-Era Cymbal Standard",
+      "brand": "Sabian",
+      "series": "Sabian AAX Series",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Paiste RUDE 14\" Hi-Hats",
+          "model": "Sabian AAX 14\" Stage Hi-Hats",
           "position": "Left side",
-          "notes": "Cutting attack for fast thrash patterns"
+          "notes": "Bright, articulate chick for fast thrash patterns"
         },
         {
           "type": "Crash",
-          "model": "Paiste RUDE 17\" Crash",
+          "model": "Sabian AAX 17\" X-Plosion Crash",
           "position": "Left of hi-hats",
-          "notes": "Quick, explosive accents"
+          "notes": "Quick-opening crash for riff-transition accents"
         },
         {
           "type": "Crash",
-          "model": "Paiste RUDE 18\" Crash/Ride",
-          "position": "Over rack toms",
-          "notes": "Versatile primary crash"
-        },
-        {
-          "type": "Crash",
-          "model": "Paiste RUDE 19\" Crash/Ride",
+          "model": "Sabian AAX 19\" X-Plosion Crash",
           "position": "Right of toms",
           "notes": "Larger crash for major accents"
         },
         {
           "type": "Ride",
-          "model": "Paiste RUDE 20\" Ride",
+          "model": "Sabian AAX 21\" Stage Ride",
           "position": "Far right",
-          "notes": "Clear bell, defined stick articulation"
+          "notes": "Defined bell, clear stick articulation"
         },
         {
           "type": "China",
-          "model": "Paiste RUDE 18\" China",
+          "model": "Sabian AAX 18\" AAXtreme China",
           "position": "Above floor tom",
           "notes": "Trashy accents for thrash dynamics"
         }
       ],
-      "description": "Paul Bostaph's cymbal choice connects him directly to Slayer's sonic legacy. Paiste RUDE cymbals have been synonymous with thrash metal since the genre's birth, and both Dave Lombardo and Paul Bostaph have championed the line throughout their careers.\n\nThe RUDE series was designed specifically for aggressive music. Heavy weights, bright tones, and exceptional projection make them ideal for cutting through massive guitar walls. Where traditional bronze cymbals might wash out or lose definition, RUDE cymbals maintain clarity even at extreme volumes.\n\nPaul's 14\" RUDE hi-hats provide the tight, crisp articulation essential for thrash's intricate patterns. Songs like \"Chemical Warfare\" and \"Mandatory Suicide\" require hi-hat work that's both fast and defined — the RUDEs deliver both. The heavy bottom cymbal prevents the hats from opening too easily during aggressive playing.\n\nThe Crash/Ride models throughout Paul's setup serve multiple functions. Quick crashes for accents, riding patterns for building sections, and everything in between. Slayer's music demands dynamic cymbal work, from the explosive hits in \"Raining Blood\" to the relentless riding in \"War Ensemble.\"\n\nThe 18\" RUDE China adds the exotic, aggressive accents that punctuate Slayer's heaviest moments. Used sparingly but effectively, it marks transitions and adds variety without overwhelming the core sound.\n\nPaul's cymbal placement and selection remained remarkably consistent throughout his Slayer years, proving that when something works for thrash, you don't fix it.",
-      "estimatedValue": "$2,000-2,800 total (full RUDE setup)"
+      "description": "Paul Bostaph's cymbal choice for Slayer's final era connects him to the band's late-period sound. Sabian AAX cymbals replaced the Paiste RUDE and Zildjian A Custom lines he had used across earlier Slayer chapters, giving the Repentless production a bright, controlled character that cut cleanly through the mix.\n\nThe AAX series is engineered for direct, unprocessed cymbal work. Bright tones and exceptional projection make them well suited to cutting through massive guitar walls without requiring excessive processing.\n\nPaul's 14\" AAX Stage Hi-Hats provide the fast, articulate chick essential for uptempo thrash patterns on tracks like \"Vices\" and \"You Against You.\" The 17 and 19-inch X-Plosion crashes handle riff-transition accents with a quick attack and controlled decay.\n\nThe 21\" AAX Stage Ride offers a clearly defined bell for driving, riding-based sections, while the 18\" AAXtreme China above the floor tom carries forward the trashy accent that has punctuated every Slayer drummer's setup since Show No Mercy.\n\nPaul's cymbal placement and selection remained consistent through Slayer's Final World Tour, closing out his Slayer tenure on the same AAX setup he tracked Repentless with.",
+      "estimatedValue": "$1,400-2,000 (full Sabian AAX setup)"
     },
     "hardware": {
       "title": "Built for the Long Haul",
       "items": [
         {
           "type": "Bass Drum Pedals",
-          "brand": "DW",
-          "model": "DW 9000 Series Double Pedal",
+          "brand": "Pearl",
+          "model": "Pearl Eliminator Redline Double Pedal",
           "notes": "The foundation of Paul's legendary double-bass consistency",
-          "description": "Paul Bostaph's double-bass playing is defined by its machine-like consistency. Night after night, song after song, his feet deliver the same relentless assault. The DW 9000 Series double pedal, with its smooth cam action and rock-solid construction, provides the foundation for this consistency. For the Final World Tour's grueling schedule, equipment reliability was paramount."
+          "description": "Paul Bostaph's double-bass playing is defined by its machine-like consistency. Night after night, song after song, his feet deliver the same relentless assault. The Pearl Eliminator Redline double pedal, with its adjustable cam and direct-drive linkage, provides the foundation for this consistency. For the Final World Tour's grueling schedule, equipment reliability was paramount."
         },
         {
           "type": "Hi-Hat Stand",
-          "brand": "DW",
-          "model": "DW 9500 Hi-Hat Stand",
+          "brand": "Pearl",
+          "model": "Pearl Eliminator Hi-Hat Stand",
           "notes": "Heavy-duty construction for aggressive playing"
         },
         {
           "type": "Throne",
-          "brand": "DW",
-          "model": "DW 9100M Throne",
+          "brand": "Pearl",
+          "model": "Pearl D-2000 Roadster Throne",
           "notes": "Ergonomic support for marathon Slayer sets",
-          "description": "Three-hour Slayer sets demand proper support. The DW 9100M throne provided Paul with the stability and comfort needed for the physically demanding Final World Tour performances."
+          "description": "Three-hour Slayer sets demand proper support. The Pearl D-2000 Roadster throne provided Paul with the stability and comfort needed for the physically demanding Final World Tour performances."
         },
         {
           "type": "Sticks",
@@ -1631,27 +1625,27 @@ export const articles = {
     },
     "evolution": {
       "title": "From Forbidden to the Final Show",
-      "content": "Paul Bostaph's journey from Bay Area thrash kid to playing Slayer's final note represents one of metal's most remarkable career arcs. His gear evolution mirrors his professional growth.\n\n**Forbidden Years (1987-1989):**\nPaul's first major band established his reputation in the Bay Area scene. Using Pearl drums during this era, he recorded \"Forbidden Evil\" (1988) and \"Twisted Into Form\" (1990), showcasing the technical thrash drumming that would catch Slayer's attention.\n\n**First Slayer Tenure (1992-2001):**\nJoining Slayer as Lombardo's replacement was a high-pressure situation. Paul's gear during this era varied, but his approach remained consistent: serve the band, honor the material, bring his own precision to the legendary songs. Albums like Divine Intervention and Diabolus in Musica proved he was no placeholder.\n\n**Testament/Exodus Period (2001-2013):**\nWhen Lombardo rejoined Slayer in 2001, Paul gracefully stepped aside — a professional move that showed his character. He joined Testament (recording \"First Strike Still Deadly\") and later Exodus (\"Shovel Headed Kill Machine\"), staying active in the Bay Area thrash scene he loved.\n\n**Second Slayer Tenure & Final Tour (2013-2019):**\nPaul's return to Slayer after Lombardo's second departure led to the Repentless album and the historic Final World Tour. By now using DW drums and refined techniques, Paul delivered some of his best work. Playing the band's final show at the Forum was the culmination of decades in thrash metal.\n\n**Testament Return (2024-Present):**\nPaul's return to Testament proves he's not done. Bringing thirty-plus years of experience to Chuck Billy's band, he continues to devastate audiences with the same precision and power that defined his career.",
+      "content": "Paul Bostaph's journey from Bay Area thrash kid to playing Slayer's final note represents one of metal's most remarkable career arcs. His gear evolution mirrors his professional growth.\n\n**Forbidden Years (1987-1989):**\nPaul's first major band established his reputation in the Bay Area scene. Using Pearl drums during this era, he recorded \"Forbidden Evil\" (1988) and \"Twisted Into Form\" (1990), showcasing the technical thrash drumming that would catch Slayer's attention.\n\n**First Slayer Tenure (1992-2001):**\nJoining Slayer as Lombardo's replacement was a high-pressure situation. Paul's gear during this era varied, but his approach remained consistent: serve the band, honor the material, bring his own precision to the legendary songs. Albums like Divine Intervention and Diabolus in Musica proved he was no placeholder.\n\n**Testament/Exodus Period (2001-2013):**\nWhen Lombardo rejoined Slayer in 2001, Paul gracefully stepped aside — a professional move that showed his character. He joined Testament (recording \"First Strike Still Deadly\") and later Exodus (\"Shovel Headed Kill Machine\"), staying active in the Bay Area thrash scene he loved.\n\n**Second Slayer Tenure & Final Tour (2013-2019):**\nPaul's return to Slayer after Lombardo's second departure led to the Repentless album and the historic Final World Tour. Back on Pearl drums with refined techniques, Paul delivered some of his best work. Playing the band's final show at the Forum was the culmination of decades in thrash metal.\n\n**Testament Return (2024-Present):**\nPaul's return to Testament proves he's not done. Bringing thirty-plus years of experience to Chuck Billy's band, he continues to devastate audiences with the same precision and power that defined his career.",
       "thenVsNow": [
         {
           "category": "Kit",
           "then": "Pearl (Forbidden era)",
-          "now": "DW Collector's Series"
+          "now": "Pearl Masters Maple Complete (Repentless era)"
         },
         {
           "category": "Snare",
           "then": "Pearl Steel 14x6.5\"",
-          "now": "DW Collector's Maple 14x6.5\""
+          "now": "Pearl Masters Steel 14x6.5\""
         },
         {
           "category": "Cymbals",
           "then": "Paiste 2002 series",
-          "now": "Paiste RUDE series"
+          "now": "Sabian AAX series"
         },
         {
           "category": "Pedals",
           "then": "Pearl P-2002C",
-          "now": "DW 9000 Series Double Pedal"
+          "now": "Pearl Eliminator Redline Double Pedal"
         },
         {
           "category": "Sticks",
@@ -1690,20 +1684,20 @@ export const articles = {
     "faq": [
       {
         "question": "What drum kit does Paul Bostaph use with Slayer?",
-        "answer": "Paul Bostaph plays a DW Collector's Series Maple/Mahogany kit configured with dual 22x18 inch bass drums for live performance, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. The maple/mahogany hybrid shells produce a warm, powerful tone with strong low-end projection suited to Slayer's dense, aggressive sound. He uses a DW Collector's Maple snare at 14x6.5 inches, adding a full, resonant crack that cuts through the band's wall of guitars."
+        "answer": "Paul Bostaph plays a Pearl Masters Maple Complete (MCX) kit configured with dual 22x18 inch bass drums for live performance, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. The all-maple shells produce a focused, powerful tone with strong low-end projection suited to Slayer's dense, aggressive sound. He uses a Pearl Masters steel snare at 14x6.5 inches, adding a cutting, metallic crack that cuts through the band's wall of guitars."
       },
       {
         "question": "What cymbals does Paul Bostaph use with Slayer?",
-        "answer": "Paul Bostaph plays Paiste RUDE cymbals, one of the most aggressive and durable series in the Paiste lineup. His setup includes RUDE 14 inch hi-hats, RUDE 17 to 19 inch Crashes, a RUDE 20 inch Ride, and a RUDE 18 inch China. The RUDE series is engineered for extreme volume and maximum attack, making it ideally suited to Slayer's relentless live environment. The series' raw, unprocessed tone has long been a hallmark of thrash and death metal drumming."
+        "answer": "Paul Bostaph plays Sabian AAX cymbals, a bright, controlled series that replaced the Paiste RUDE and Zildjian A Custom lines from his earlier Slayer chapters. His setup includes AAX 14 inch Stage Hi-Hats, 17 and 19 inch X-Plosion Crashes, a 21 inch Stage Ride, and an 18 inch AAXtreme China. The AAX series is engineered for direct, cutting projection, making it ideally suited to Slayer's relentless live environment. The series' bright, controlled tone marked the final cymbal chapter of Bostaph's Slayer career."
       },
       {
         "question": "How much does Paul Bostaph's Slayer drum kit cost?",
-        "answer": "Paul Bostaph's DW Collector's Series Maple/Mahogany shell pack is estimated at $4,000 to $7,000 depending on finish and configuration. His DW Collector's Maple snare adds $500 to $700. A full Paiste RUDE cymbal setup matching his configuration runs approximately $1,500 to $2,500. A complete replica of his rig would cost between $6,000 and $10,000, reflecting DW's premium positioning in the drum market."
+        "answer": "Paul Bostaph's Pearl Masters Maple Complete shell pack is estimated at $3,000 to $4,500 depending on finish and configuration. His Pearl Masters steel snare adds $350 to $550. A full Sabian AAX cymbal setup matching his configuration runs approximately $1,400 to $2,000. A complete replica of his rig would cost between $4,750 and $7,050, reflecting Pearl and Sabian's mid-to-premium positioning in the drum market."
       }
     ],
     "conclusion": {
       "title": "The Unsung Hero of Thrash Metal",
-      "content": "Paul Bostaph may be the most underrated drummer in thrash metal history. Spending twelve years with Slayer — more than any other drummer — recording four studio albums, and playing the band's final show, his contributions to metal deserve recognition beyond \"the guy who replaced Lombardo.\"\n\nWhat makes Bostaph special isn't that he copied Dave Lombardo — it's that he didn't try to. He brought his own approach: tighter, more controlled, relentlessly consistent. His precision became a different kind of weapon, proving that Slayer's music could devastate through surgical accuracy as well as primal fury.\n\nThe gear Paul uses reflects his philosophy: professional, reliable, built for the long haul. DW drums, Paiste RUDE cymbals, DW hardware — quality equipment that delivers night after night. No excessive complexity, no flashy customizations, just tools that get the job done.\n\nFor drummers studying Paul Bostaph, the lessons extend beyond technique:\n\n- **Honor the material**: Paul learned classic Slayer songs thoroughly before adding his own interpretation\n- **Consistency matters**: Night after night, his performances remained rock-solid\n- **Professionalism counts**: His graceful departures when Lombardo returned showed character\n- **Precision is power**: Tight, controlled playing can be as devastating as wild energy\n- **Career longevity**: Thirty-plus years of thrash drumming requires physical and mental dedication\n\nPlaying Slayer's final note at the Forum was the culmination of Paul Bostaph's remarkable career arc. From the Bay Area thrash scene to the world's biggest stages, he proved himself worthy of the legacy he helped carry. Slayer's final chapter was in the right hands.\n\n🤘 *Twelve years of Slayer precision. The drummer who finished what Lombardo started.* 🤘"
+      "content": "Paul Bostaph may be the most underrated drummer in thrash metal history. Spending twelve years with Slayer — more than any other drummer — recording four studio albums, and playing the band's final show, his contributions to metal deserve recognition beyond \"the guy who replaced Lombardo.\"\n\nWhat makes Bostaph special isn't that he copied Dave Lombardo — it's that he didn't try to. He brought his own approach: tighter, more controlled, relentlessly consistent. His precision became a different kind of weapon, proving that Slayer's music could devastate through surgical accuracy as well as primal fury.\n\nThe gear Paul uses reflects his philosophy: professional, reliable, built for the long haul. Pearl drums, Sabian AAX cymbals, Pearl hardware — quality equipment that delivers night after night. No excessive complexity, no flashy customizations, just tools that get the job done.\n\nFor drummers studying Paul Bostaph, the lessons extend beyond technique:\n\n- **Honor the material**: Paul learned classic Slayer songs thoroughly before adding his own interpretation\n- **Consistency matters**: Night after night, his performances remained rock-solid\n- **Professionalism counts**: His graceful departures when Lombardo returned showed character\n- **Precision is power**: Tight, controlled playing can be as devastating as wild energy\n- **Career longevity**: Thirty-plus years of thrash drumming requires physical and mental dedication\n\nPlaying Slayer's final note at the Forum was the culmination of Paul Bostaph's remarkable career arc. From the Bay Area thrash scene to the world's biggest stages, he proved himself worthy of the legacy he helped carry. Slayer's final chapter was in the right hands.\n\n🤘 *Twelve years of Slayer precision. The drummer who finished what Lombardo started.* 🤘"
     }
   }
 };

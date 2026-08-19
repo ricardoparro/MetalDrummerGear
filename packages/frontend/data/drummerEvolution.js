@@ -5977,32 +5977,32 @@ export const DRUMMER_EVOLUTION = {
 
         gear: {
           drums: {
-            item: 'Pearl Masters Maple Complete',
-            details: 'Maple shells: 22" kick, 8"/10"/12"/14"/16" toms',
-            notes: 'Continued Pearl partnership into the Slipknot era — premium maple shells for the studio-quality sound required at stadium level.',
+            item: 'Tama Starclassic Bubinga',
+            details: 'Dual bass drum config: 22"x16" & 24"x14" bass drums, 10", 12", 13" toms, 16" & 18" floor toms',
+            notes: 'Massive dual-bass-drum Starclassic Bubinga setup built for the extreme dynamics of both his Sepultura years and the Slipknot chair.',
             change: CHANGE_TYPES.UPGRADE,
           },
           snare: {
-            item: 'Pearl Free-Floating Steel 14"×6.5"',
-            details: 'Consistent Free-Floating steel snare',
-            notes: 'The snare that has followed Eloy from Sepultura to Slipknot — consistent explosive attack.',
-            change: null,
+            item: 'Tama Bell Brass 14"x5.5" (BB146)',
+            details: 'Bell brass shell for a bright, cutting attack',
+            notes: 'Centerpiece snare chosen to cut through Slipknot\'s dense arena mix.',
+            change: CHANGE_TYPES.UPGRADE,
           },
           cymbals: {
-            item: 'Meinl Cymbals (expanded setup)',
-            details: '14" hi-hats, multiple crashes, 21" ride, China, splash cymbals',
-            notes: 'Expanded Meinl setup to cover the full dynamic range of Slipknot\'s diverse catalog from .5: The Gray Chapter to present.',
+            item: 'Paiste',
+            details: '15" Masters Dark Hi-Hats, 20" Masters Dark Ride, 20"x2 602 Crashes, 10" Rude Splash, 20" Masters Dark Crash, 20" 2002 Heavy Ride, 20" 2002 Novo China, 10" 2002 Mega Bell, Symphonic Gong',
+            notes: 'Full Paiste setup to cover the dynamic range of Slipknot\'s diverse catalog from .5: The Gray Chapter to present.',
             change: CHANGE_TYPES.UPGRADE,
           },
           hardware: {
-            item: 'Pearl Demon Drive Double Pedal',
-            details: 'Direct drive — continued from Sepultura era',
-            notes: 'Slipknot\'s stage productions require absolute pedal reliability — Demon Drive maintained for proven performance.',
-            change: null,
+            item: 'Tama Iron Cobra Double Pedal',
+            details: 'Yamaha DTX electronic pads round out the hardware setup',
+            notes: 'Slipknot\'s stage productions require absolute pedal reliability — Iron Cobra powers the explosive double bass passages.',
+            change: CHANGE_TYPES.UPGRADE,
           },
           sticks: {
-            item: 'Vic Firth Eloy Casagrande Signature',
-            details: 'Custom hickory spec for stadium performance',
+            item: 'Promark Eloy Casagrande Signature',
+            details: 'Custom signature spec for stadium performance',
             notes: 'Signature drumstick launched to coincide with the Slipknot chapter.',
             change: CHANGE_TYPES.SIGNATURE,
           },
@@ -6028,7 +6028,7 @@ export const DRUMMER_EVOLUTION = {
 
         keyChanges: [
           'Joined Slipknot (2023) — replaced Jay Weinberg in one of metal\'s biggest bands',
-          'Vic Firth Eloy Casagrande signature sticks launched',
+          'Promark Eloy Casagrande signature sticks launched',
           'Expanded electronics for Slipknot\'s arena productions',
           'Stadium-scale performance debut at Knotfest events worldwide',
           'Brazilian teenager → Slipknot drum throne: the most remarkable career arc in modern metal',
@@ -6044,7 +6044,7 @@ export const DRUMMER_EVOLUTION = {
     ],
 
     metaTitle: 'Eloy Casagrande Gear Evolution Timeline | Sepultura to Slipknot Drum Kit History',
-    metaDescription: 'Explore Eloy Casagrande\'s complete drum gear evolution from his Sepultura debut at 16 to joining Slipknot in 2023. Pearl, Meinl, Demon Drive — every era of modern metal\'s most compelling career arc.',
+    metaDescription: 'Explore Eloy Casagrande\'s complete drum gear evolution from his Sepultura debut at 16 to joining Slipknot in 2023. Tama, Paiste, Promark — every era of modern metal\'s most compelling career arc.',
   },
 
   // ==========================================

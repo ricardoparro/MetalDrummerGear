@@ -652,19 +652,19 @@ export const articles = {
       "estimatedValue": "$2,000–3,500 (full Sabian AAX setup)"
     },
     "hardware": {
-      "title": "Pearl Demon Drive: Direct-Drive Double Kick for Korn's Groove",
+      "title": "DW 9000 Series: The Pedal That Carried Over Through the Pearl Switch",
       "items": [
         {
           "type": "Bass Drum Pedals",
-          "brand": "Pearl",
-          "model": "Pearl Demon Drive Double Bass Pedal",
+          "brand": "DW",
+          "model": "DW 9000 Series Double Bass Pedal",
           "notes": "Direct-drive design — immediate 1:1 footboard-to-beater response for groove-feel double-kick",
-          "description": "Ray Luzier's transition from the DW 9002 chain-drive pedal to the Pearl Demon Drive direct-drive represents the most mechanically significant gear change of the *Paradigm Shift* era. The Demon Drive eliminates the chain or belt's natural flex, providing immediate, 1:1 footboard-to-beater response — the beater goes exactly where the foot tells it, with no intermediary mechanism creating feel latency. For Korn's groove-driven double-kick approach — where feel and timing consistency matter more than maximum burst speed — the Demon Drive's direct response translates each foot motion into bass drum output with predictable, controllable precision. The double-kick patterns underlying 'Never Never' and 'Prey for Me' demonstrate this: steady, powerful, groove-locked kicks that serve the song's rhythmic pulse rather than showcasing technical complexity."
+          "description": "While *The Paradigm Shift* marked Ray Luzier's move from DW's Collector's Series shells to a Pearl Reference Maple kit, his DW 9000 Series double bass pedal made the transition unchanged. The direct-drive design eliminates the chain or belt's natural flex, providing immediate, 1:1 footboard-to-beater response — the beater goes exactly where the foot tells it, with no intermediary mechanism creating feel latency. For Korn's groove-driven double-kick approach — where feel and timing consistency matter more than maximum burst speed — that direct response translates each foot motion into bass drum output with predictable, controllable precision. The double-kick patterns underlying 'Never Never' and 'Prey for Me' demonstrate this: steady, powerful, groove-locked kicks that serve the song's rhythmic pulse rather than showcasing technical complexity."
         },
         {
           "type": "Sticks",
-          "brand": "Promark",
-          "model": "Promark Ray Luzier Signature TX420X",
+          "brand": "Vic Firth",
+          "model": "Vic Firth Ray Luzier Signature",
           "notes": "Signature model — nylon tip for bright cymbal articulation, balanced taper for power and control"
         },
         {
@@ -914,19 +914,19 @@ export const articles = {
       "estimatedValue": "$2,000–3,500 (full Sabian AAX setup)"
     },
     "hardware": {
-      "title": "Pearl Demon Drive: Groove-Locked Double-Kick in the Modern Korn Context",
+      "title": "DW 9000 Series: Groove-Locked Double-Kick in the Modern Korn Context",
       "items": [
         {
           "type": "Bass Drum Pedals",
-          "brand": "Pearl",
-          "model": "Pearl Demon Drive Double Bass Pedal",
+          "brand": "DW",
+          "model": "DW 9000 Series Double Bass Pedal",
           "notes": "Direct-drive double pedal — immediate response for Korn's groove-oriented double-kick",
-          "description": "The Pearl Demon Drive's direct-drive design delivers the mechanical response characteristics that Luzier's double-kick technique on *The Serenity of Suffering* demands. Tracks like 'Rotting in Vain' feature sustained, mid-tempo double-kick patterns driven at the kind of controlled intensity that Korn has always built its rhythmic identity around — not maximum speed runs, but metronomically consistent groove-locked kicks that hold the song's pulse in place. The Demon Drive's direct 1:1 footboard response, combined with Pearl's spring tension adjustment, allowed Luzier to dial in the exact feel for each track's specific double-kick demand. Raskulinecz's more natural production approach made each bass drum stroke's individual character more audible, rewarding the Demon Drive's consistent mechanical response."
+          "description": "The DW 9000 Series' direct-drive design delivers the mechanical response characteristics that Luzier's double-kick technique on *The Serenity of Suffering* demands. Tracks like 'Rotting in Vain' feature sustained, mid-tempo double-kick patterns driven at the kind of controlled intensity that Korn has always built its rhythmic identity around — not maximum speed runs, but metronomically consistent groove-locked kicks that hold the song's pulse in place. The pedal's direct 1:1 footboard response allowed Luzier to dial in the exact feel for each track's specific double-kick demand, the same platform he'd used since his DW Collector's era on Korn III. Raskulinecz's more natural production approach made each bass drum stroke's individual character more audible, rewarding the pedal's consistent mechanical response."
         },
         {
           "type": "Sticks",
-          "brand": "Promark",
-          "model": "Promark Ray Luzier Signature TX420X",
+          "brand": "Vic Firth",
+          "model": "Vic Firth Ray Luzier Signature",
           "notes": "Signature sticks — nylon tip for bright cymbal articulation, balanced for power and precision"
         },
         {
@@ -1177,19 +1177,19 @@ export const articles = {
       "estimatedValue": "$2,000–3,500 (full Sabian AAX setup)"
     },
     "hardware": {
-      "title": "Pearl Demon Drive: From Propulsion to Precision",
+      "title": "DW 9000 Series: From Propulsion to Precision",
       "items": [
         {
           "type": "Bass Drum Pedals",
-          "brand": "Pearl",
-          "model": "Pearl Demon Drive Double Bass Pedal",
+          "brand": "DW",
+          "model": "DW 9000 Series Double Bass Pedal",
           "notes": "Direct-drive double pedal — spanning propulsive groove tracks and restrained, space-conscious cuts",
-          "description": "The Pearl Demon Drive's direct-drive design remained Luzier's foot weapon for *The Nothing*, and the album's mix of propulsive groove tracks and restrained, space-conscious cuts gave the pedal a genuine range test. On 'You'll Never Find Me' and 'Cold,' the Demon Drive delivered the same sustained, groove-locked double-kick response that had driven Korn's records since *The Paradigm Shift*. On 'Finally Free,' the same pedal needed to deliver single, precisely placed kick hits rather than sustained runs — a different technical demand that the direct-drive design's immediate 1:1 response handled just as capably."
+          "description": "The DW 9000 Series' direct-drive design remained Luzier's foot weapon for *The Nothing*, and the album's mix of propulsive groove tracks and restrained, space-conscious cuts gave the pedal a genuine range test. On 'You'll Never Find Me' and 'Cold,' it delivered the same sustained, groove-locked double-kick response that had driven Korn's records since *Korn III*. On 'Finally Free,' the same pedal needed to deliver single, precisely placed kick hits rather than sustained runs — a different technical demand that the direct-drive design's immediate 1:1 response handled just as capably."
         },
         {
           "type": "Sticks",
-          "brand": "Promark",
-          "model": "Promark Ray Luzier Signature TX420X",
+          "brand": "Vic Firth",
+          "model": "Vic Firth Ray Luzier Signature",
           "notes": "Signature model — balanced for both the album's heavier moments and its restrained, exposed passages"
         },
         {
@@ -1439,19 +1439,19 @@ export const articles = {
       "estimatedValue": "$2,000–3,500 (full Sabian AAX setup)"
     },
     "hardware": {
-      "title": "Pearl Demon Drive: Precision Over Density",
+      "title": "DW 9000 Series: Precision Over Density",
       "items": [
         {
           "type": "Bass Drum Pedals",
-          "brand": "Pearl",
-          "model": "Pearl Demon Drive Double Bass Pedal",
+          "brand": "DW",
+          "model": "DW 9000 Series Double Bass Pedal",
           "notes": "Direct-drive double pedal — precise, controlled response for Requiem's more spaced-out kick patterns",
-          "description": "The Pearl Demon Drive's direct-drive design remained Luzier's foot weapon of choice for *Requiem*. Where earlier Korn records demanded sustained double-kick runs, *Requiem*'s more restrained arrangements ask for precise, individually placed kick hits — a different technical challenge that rewards the Demon Drive's immediate, 1:1 footboard response. Every kick drum note in a sparser arrangement is exposed, and the pedal's consistency meant Luzier could place each stroke exactly where the song needed it without the mechanical latency of a chain or belt-drive design."
+          "description": "The DW 9000 Series' direct-drive design remained Luzier's foot weapon of choice for *Requiem*, the same pedal platform he's used since his DW Collector's era on Korn III. Where earlier Korn records demanded sustained double-kick runs, *Requiem*'s more restrained arrangements ask for precise, individually placed kick hits — a different technical challenge that rewards the pedal's immediate, 1:1 footboard response. Every kick drum note in a sparser arrangement is exposed, and the pedal's consistency meant Luzier could place each stroke exactly where the song needed it without the mechanical latency of a chain or belt-drive design."
         },
         {
           "type": "Sticks",
-          "brand": "Promark",
-          "model": "Promark Ray Luzier Signature TX420X",
+          "brand": "Vic Firth",
+          "model": "Vic Firth Ray Luzier Signature",
           "notes": "Signature model — balanced for both the album's restrained passages and its heavier peaks"
         },
         {
@@ -1703,21 +1703,21 @@ export const articles = {
       "estimatedValue": "$2,000–3,500 (full Sabian AAX setup)"
     },
     "hardware": {
-      "title": "Pearl Demon Drive: Built for Korn's Live Machine",
+      "title": "DW 9000 Series: Built for Korn's Live Machine",
       "items": [
         {
           "type": "Bass Drum Pedals",
-          "brand": "Pearl",
-          "model": "Pearl Demon Drive Double Bass Pedal",
+          "brand": "DW",
+          "model": "DW 9000 Series Double Bass Pedal",
           "notes": "Direct-drive design for maximum speed and feel consistency",
-          "description": "The Pearl Demon Drive is Ray Luzier's primary foot weapon, and the choice reflects both his endorsement relationship with Pearl and his specific double-kick technique demands. Unlike chain-drive or belt-drive pedals, the Demon Drive uses a direct-drive design — the beater shaft connects directly to the footboard without an intermediate drive mechanism. Direct drive eliminates the chain or belt's natural flex, providing immediate, 1:1 footboard-to-beater response that appeals to players who need to feel exactly where the beater is at all times. For Korn's groove-based double-kick patterns — which rely on precise feel and consistent tempo more than raw burst speed — the Demon Drive's direct response is ideal. The pearl spring system provides consistent tension across the full stroke arc, and the dual adjustment points allow Luzier to dial in the exact footboard angle and spring tension his technique requires."
+          "description": "The DW 9000 Series is Ray Luzier's primary foot weapon, and the choice reflects both his long-running relationship with DW hardware and his specific double-kick technique demands — a pedal he has kept even as his shells and cymbals moved from DW/Paiste to Pearl/Sabian by *The Paradigm Shift*. The direct-drive design connects the beater shaft directly to the footboard without an intermediate drive mechanism, eliminating the chain or belt's natural flex and providing immediate, 1:1 footboard-to-beater response for players who need to feel exactly where the beater is at all times. For Korn's groove-based double-kick patterns — which rely on precise feel and consistent tempo more than raw burst speed — that direct response is ideal. Adjustable spring tension and dual adjustment points let Luzier dial in the exact footboard angle and feel his technique requires."
         },
         {
           "type": "Sticks",
-          "brand": "Promark",
-          "model": "Promark Ray Luzier Signature TX420X",
+          "brand": "Vic Firth",
+          "model": "Vic Firth Ray Luzier Signature",
           "notes": "Designed specifically for his powerful nu-metal playing demands",
-          "description": "Ray Luzier's Promark TX420X signature sticks are engineered for the specific demands of playing with Korn: enough mass to drive through dense mixes and deliver consistent backbeats at arena volumes, while maintaining the control and articulation needed for the nuanced groove work that distinguishes Korn's rhythm section. The TX420X features a nylon tip for bright, consistent cymbal articulation — essential when the hi-hat and cymbal work must project through Korn's wall of sound — and a taper designed for balance between control and power."
+          "description": "Ray Luzier's Vic Firth signature sticks are engineered for the specific demands of playing with Korn: enough mass to drive through dense mixes and deliver consistent backbeats at arena volumes, while maintaining the control and articulation needed for the nuanced groove work that distinguishes Korn's rhythm section. The signature model features a tip and taper tuned for bright, consistent cymbal articulation — essential when the hi-hat and cymbal work must project through Korn's wall of sound — balanced between control and power."
         },
         {
           "type": "Throne",

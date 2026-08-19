@@ -13301,7 +13301,7 @@ export const DRUMMER_EVOLUTION = {
     band: 'KoRn',
     totalYearsActive: '2007-Present',
     profileImage: '/images/drummers/ray-luzier.webp',
-    summary: 'A Musicians Institute-trained session veteran who spent a decade touring with David Lee Roth before joining KoRn in 2007, Ray Luzier brought technical precision and groove-heavy versatility to one of nu-metal\'s most identity-driven bands. His gear evolution tracks from his DW Performance Series debut through the DW Collector\'s Series and Paiste 2002 setup that has defined fifteen-plus years and five studio albums as KoRn\'s drummer.',
+    summary: 'A Musicians Institute-trained session veteran who spent a decade touring with David Lee Roth before joining KoRn in 2007, Ray Luzier brought technical precision and groove-heavy versatility to one of nu-metal\'s most identity-driven bands. His gear evolution tracks from his DW Performance Series debut and DW Collector\'s Series/Paiste 2002 setup through Korn III and The Path of Totality, to the Pearl Reference Maple and Sabian AAX rig — paired with a DW double pedal throughout — that has defined the bulk of his fifteen-plus years and five studio albums as KoRn\'s drummer.',
 
     eras: [
       {
@@ -13453,41 +13453,41 @@ export const DRUMMER_EVOLUTION = {
         years: '2011–2013',
         startYear: 2011,
         endYear: 2013,
-        description: 'The Path of Totality (2011) — a dubstep-fusion experiment — and The Paradigm Shift (2013) — a heavier return to form — showed the versatility of Luzier\'s DW Collector\'s setup across dramatically different production contexts. The same maple/mahogany kit handled the electronic-heavy layering of Path of Totality and the back-to-metal aggression of Paradigm Shift without tonal compromise.',
+        description: 'The Path of Totality (2011) — a dubstep-fusion experiment — continued Luzier\'s DW Collector\'s setup and Paiste 2002/Signature cymbals from Korn III. By The Paradigm Shift (2013) — a heavier return to form alongside Brian "Head" Welch\'s rejoining the band — Luzier had transitioned to a Pearl Reference Maple kit and Sabian AAX cymbals, the pairing that has defined his sound since, while keeping his DW 9002D double pedal.',
         albums: ['The Path of Totality (2011)', 'The Paradigm Shift (2013)'],
         tours: ['The Path of Totality Tour 2011–2012', 'The Paradigm Shift Tour 2013–2014'],
         image: null,
 
         gear: {
           drums: {
-            item: 'DW Collector\'s Series Maple/Mahogany (continued)',
-            details: 'Same core kit, updated custom finishes per album cycle',
-            notes: 'Retained the same core Collector\'s kit across both dramatically different album cycles — proof of the shell\'s tonal versatility.',
-            change: null,
+            item: 'Pearl Reference Maple',
+            details: '7-piece, double 22"×18" kick, five-tom spread, Korn touring configuration',
+            notes: 'Transitioned from the DW Collector\'s hybrid kit to Pearl\'s Reference Maple line by The Paradigm Shift (2013) — the beginning of his current Pearl endorsement era.',
+            change: CHANGE_TYPES.SWITCH,
           },
           snare: {
-            item: 'DW Collector\'s Series 14"×6.5" Aluminum (continued)',
-            details: 'Same aluminum snare',
-            notes: 'Unchanged aluminum snare through both the electronic Path of Totality and the heavier Paradigm Shift.',
-            change: null,
+            item: 'Pearl Reference 14"×6.5" Brass',
+            details: 'Brass shell, bright projecting attack',
+            notes: 'Switched to the Pearl Reference brass snare alongside the kit change, replacing the DW Collector\'s aluminum snare used since Korn III.',
+            change: CHANGE_TYPES.SWITCH,
           },
           cymbals: {
-            item: 'Paiste 2002 Series + Paiste Signature (selected)',
-            details: 'Core 2002 setup plus selected Signature pieces',
-            notes: 'Added selected Paiste Signature pieces alongside the core 2002 setup for extra tonal options across the two contrasting records.',
-            change: CHANGE_TYPES.NEW,
+            item: 'Sabian AAX Series',
+            details: '14" Stage hi-hats, 18"/19" X-Plosion crashes, 21" Stage ride, 18" AAXtreme China',
+            notes: 'Consolidated onto Sabian AAX by The Paradigm Shift, replacing the Paiste 2002/Signature setup carried over from before he joined KoRn.',
+            change: CHANGE_TYPES.SWITCH,
           },
           hardware: {
             item: 'DW 9002D Double Pedal (continued)',
             details: 'Consistent direct-drive platform',
-            notes: 'Unchanged pedal platform across both album cycles.',
+            notes: 'DW pedal retained through the Pearl kit transition — unchanged direct-drive platform across both album cycles.',
             change: null,
           },
           sticks: {
-            item: 'Vic Firth 5A (continued)',
-            details: 'Consistent hickory choice',
-            notes: 'No change from the Korn III era.',
-            change: null,
+            item: 'Vic Firth Ray Luzier Signature',
+            details: 'Signature model, nylon tip',
+            notes: 'Moved to his own Vic Firth signature stick model during this era, replacing the stock 5A.',
+            change: CHANGE_TYPES.NEW,
           },
           heads: {
             item: 'Evans G2 / EMAD2 / Genera HD Dry (continued)',
@@ -13504,14 +13504,14 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
-          'The Path of Totality (2011) — dubstep-fusion experiment; DW kit handles electronic-heavy layering',
-          'The Paradigm Shift (2013) — heavier return to form after Path of Totality',
-          'Paiste Signature pieces added alongside core 2002 setup',
-          'DW Collector\'s Series demonstrates tonal versatility across contrasting production styles',
+          'The Path of Totality (2011) — dubstep-fusion experiment; continued DW Collector\'s / Paiste 2002 setup from Korn III',
+          'The Paradigm Shift (2013) — heavier return to form after Brian "Head" Welch\'s reunion with the band',
+          'Transitioned to a Pearl Reference Maple kit and Sabian AAX cymbals by The Paradigm Shift, retaining his DW double pedal',
+          'Beginning of the Pearl/Sabian/DW-pedal rig that has defined Luzier\'s sound since 2013',
         ],
 
         quote: {
-          text: "Path of Totality asked the kit to sit inside all this electronic production without disappearing. Paradigm Shift asked it to be Korn again. Same kit did both.",
+          text: "Path of Totality asked the kit to sit inside all this electronic production without disappearing. Paradigm Shift asked for something different — that's when the Pearl kit and the Sabians came in.",
           source: 'Rhythm Magazine Interview, 2013',
         },
 
@@ -13524,46 +13524,46 @@ export const DRUMMER_EVOLUTION = {
         years: '2016–2019',
         startYear: 2016,
         endYear: 2019,
-        description: 'By The Serenity of Suffering (2016), Luzier refined his DW Collector\'s setup from the maple/mahogany hybrid to pure maple shells for a brighter, more articulate tone, in an expanded configuration for arena-level projection. The Nothing (2019) — written during Jonathan Davis\'s personal crisis following the death of his wife — captured some of Luzier\'s most emotionally dynamic drumming, with the Paiste 2002 ride cymbal\'s sustained shimmer integral to the album\'s atmospheric passages.',
+        description: 'By The Serenity of Suffering (2016), Luzier\'s rig had settled into the Pearl Reference Maple and Sabian AAX pairing established on The Paradigm Shift, now in an expanded configuration for arena-level projection. The Nothing (2019) — written during Jonathan Davis\'s personal crisis following the death of his wife — captured some of Luzier\'s most emotionally dynamic drumming, with the Sabian AAX ride cymbal\'s cutting projection integral to the album\'s atmospheric passages.',
         albums: ['The Serenity of Suffering (2016)', 'The Nothing (2019)'],
         tours: ['The Serenity of Suffering Tour 2016–2017', 'The Nothing Tour 2019–2020'],
         image: null,
 
         gear: {
           drums: {
-            item: 'DW Collector\'s Series Maple',
-            details: 'Pure maple shells, expanded configuration',
-            notes: 'Switched from maple/mahogany hybrid to pure maple — a brighter, more articulate tone as KoRn\'s production evolved toward arena-level polish.',
-            change: CHANGE_TYPES.SWITCH,
+            item: 'Pearl Reference Maple (continued)',
+            details: 'Same core kit, expanded configuration for arena touring',
+            notes: 'Retained the Pearl Reference Maple kit established on The Paradigm Shift, expanded for arena-level projection across both album cycles.',
+            change: null,
           },
           snare: {
-            item: 'DW Collector\'s Series 14"×6.5" Maple',
-            details: 'Maple shell, matching the new shell pack',
-            notes: 'Matched maple snare replacing the aluminum model used since Korn III.',
-            change: CHANGE_TYPES.SWITCH,
+            item: 'Pearl Reference 14"×6.5" Brass (continued)',
+            details: 'Same brass snare',
+            notes: 'Unchanged Pearl Reference brass snare through both The Serenity of Suffering and The Nothing.',
+            change: null,
           },
           cymbals: {
-            item: 'Paiste 2002 and Signature (mixed)',
+            item: 'Sabian AAX Series (continued)',
             details: 'Larger crash coverage for arena-level projection',
-            notes: 'Expanded crash coverage mixing 2002 and Signature lines for bigger rooms; the 2002 ride\'s sustained shimmer became integral to The Nothing\'s atmospheric passages.',
+            notes: 'Continued the Sabian AAX setup with expanded crash coverage for bigger rooms; the AAX ride\'s cutting projection became integral to The Nothing\'s atmospheric passages.',
             change: CHANGE_TYPES.UPGRADE,
           },
           hardware: {
             item: 'DW 9002D Double Pedal (continued)',
             details: 'Consistent direct-drive platform',
-            notes: 'Same direct-drive pedal maintained through this era.',
+            notes: 'Same DW direct-drive pedal maintained through this era.',
             change: null,
           },
           sticks: {
-            item: 'Vic Firth 5A American Classic',
-            details: 'Consistent hickory choice',
-            notes: 'No change from prior eras.',
+            item: 'Vic Firth Ray Luzier Signature (continued)',
+            details: 'Consistent signature model',
+            notes: 'No change from prior era.',
             change: null,
           },
           heads: {
             item: 'Evans UV2 / EMAD2 / Genera HD Dry',
             details: 'UV2 on toms, EMAD2 on kick, Genera HD Dry on snare',
-            notes: 'Switched to UV2 toms heads for a brighter attack matching the new maple shells.',
+            notes: 'Switched to UV2 toms heads for a brighter attack matching the maple shells.',
             change: CHANGE_TYPES.SWITCH,
           },
         },
@@ -13575,10 +13575,10 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
-          'Switched from maple/mahogany hybrid to pure maple DW Collector\'s shells',
+          'Continued the Pearl Reference Maple / Sabian AAX rig established on The Paradigm Shift',
           'The Serenity of Suffering (2016) — Grammy-winning single "Rotting in Vain"',
           'The Nothing (2019) — written during Jonathan Davis\'s grief following his wife\'s death',
-          'Expanded Paiste crash coverage for arena-scale touring',
+          'Expanded Sabian AAX crash coverage for arena-scale touring',
         ],
 
         quote: {
@@ -13595,38 +13595,38 @@ export const DRUMMER_EVOLUTION = {
         years: '2022–Present',
         startYear: 2022,
         endYear: 2026,
-        description: 'Requiem (2022) — KoRn\'s 14th studio album — arrived as a tighter, more direct record after The Nothing\'s emotional weight. Luzier\'s current touring rig maintains the DW Collector\'s Maple and Paiste 2002 foundation that has defined every KoRn album since Korn III, now fifteen-plus years and five studio albums into his tenure — the longest-serving drummer in KoRn\'s history after founding member David Silveria.',
+        description: 'Requiem (2022) — KoRn\'s 14th studio album — arrived as a tighter, more direct record after The Nothing\'s emotional weight. Luzier\'s current touring rig maintains the Pearl Reference Maple and Sabian AAX foundation established on The Paradigm Shift, paired with his long-running DW double pedal, now fifteen-plus years and five studio albums into his tenure — the longest-serving drummer in KoRn\'s history after founding member David Silveria.',
         albums: ['Requiem (2022)'],
         tours: ['Requiem World Tour 2022–2023', 'KoRn 30th Anniversary touring'],
         image: null,
 
         gear: {
           drums: {
-            item: 'DW Collector\'s Series Maple',
-            details: 'Current touring configuration, pure maple shells',
-            notes: 'Continued the pure maple Collector\'s configuration established during The Serenity of Suffering era.',
+            item: 'Pearl Reference Maple',
+            details: 'Current touring configuration',
+            notes: 'Continued the Pearl Reference Maple configuration established on The Paradigm Shift (2013).',
             change: null,
           },
           snare: {
-            item: 'DW Collector\'s Series 14"×6.5" Maple',
+            item: 'Pearl Reference 14"×6.5" Brass',
             details: 'Current standard snare',
-            notes: 'Unchanged maple snare from the previous era.',
+            notes: 'Unchanged Pearl Reference brass snare from the previous era.',
             change: null,
           },
           cymbals: {
-            item: 'Paiste 2002 and Signature (current configuration)',
+            item: 'Sabian AAX Series (current configuration)',
             details: 'Configuration adjusted per tour',
-            notes: 'Continued the mixed 2002/Signature approach, KoRn\'s longest-running cymbal partnership at over fifteen years.',
+            notes: 'Continued the Sabian AAX setup, his cymbal partnership since The Paradigm Shift.',
             change: null,
           },
           hardware: {
             item: 'DW 9002D Double Pedal',
             details: 'Consistent direct-drive platform',
-            notes: 'Unchanged pedal platform — the same direct-drive model used since his DW Collector\'s debut in 2010.',
+            notes: 'Unchanged pedal platform — the same direct-drive DW model used since his Korn III debut in 2010, carried through every kit change since.',
             change: null,
           },
           sticks: {
-            item: 'Vic Firth 5A American Classic',
+            item: 'Vic Firth Ray Luzier Signature',
             details: 'Current standard sticks',
             notes: 'No change from prior eras.',
             change: null,
@@ -13647,7 +13647,7 @@ export const DRUMMER_EVOLUTION = {
 
         keyChanges: [
           'Requiem (2022) — KoRn\'s 14th studio album, Luzier\'s fifth with the band',
-          'DW Collector\'s Maple / Paiste 2002 foundation unchanged since 2016',
+          'Pearl Reference Maple / Sabian AAX foundation unchanged since 2013; DW pedal unchanged since 2010',
           'Now the longest-serving KoRn drummer after founding member David Silveria',
           'Continued KXM supergroup work alongside KoRn touring commitments',
         ],
@@ -13664,7 +13664,7 @@ export const DRUMMER_EVOLUTION = {
     faqs: [
       {
         q: 'What drum kit does Ray Luzier use?',
-        a: 'Ray Luzier plays a DW Collector\'s Series drum kit, paired with Paiste 2002 and Signature cymbals and a DW 9002D direct-drive double pedal. He has been a DW Collector\'s endorsee since recording Korn III: Remember Who You Are (2010), switching from maple/mahogany hybrid shells to pure maple around The Serenity of Suffering (2016).',
+        a: 'Ray Luzier currently plays a Pearl Reference Maple drum kit, paired with Sabian AAX cymbals and a DW 9002D direct-drive double pedal. He played DW Collector\'s Series drums (paired with Paiste 2002/Signature cymbals) from his pre-Korn years through Korn III (2010) and The Path of Totality (2011), then transitioned to Pearl and Sabian by The Paradigm Shift (2013) — the setup he has used ever since, while keeping his DW pedal throughout.',
       },
       {
         q: 'What drums did Ray Luzier use on Korn III?',
@@ -13672,7 +13672,7 @@ export const DRUMMER_EVOLUTION = {
       },
       {
         q: 'What cymbals does Ray Luzier use?',
-        a: 'Luzier is a long-term Paiste endorsee, primarily using the 2002 series (Sound Edge hi-hats, crashes, ride, china) alongside selected Paiste Signature pieces for larger arena setups. The 2002 series\' full, powerful voice has been consistent throughout his entire KoRn career, dating back to before he officially joined the band in 2007.',
+        a: 'Luzier currently plays Sabian AAX cymbals (Stage hi-hats, X-Plosion crashes, Stage ride, AAXtreme China), a setup he has used since The Paradigm Shift (2013). Before that, from his pre-Korn years through The Path of Totality (2011), he played Paiste 2002 and Signature cymbals.',
       },
       {
         q: 'When did Ray Luzier join KoRn?',
@@ -13685,7 +13685,7 @@ export const DRUMMER_EVOLUTION = {
     ],
 
     metaTitle: 'Ray Luzier Gear Evolution Timeline | KoRn Drum Kit History',
-    metaDescription: 'Explore Ray Luzier\'s complete drum gear evolution: DW Performance Series before joining KoRn → DW Collector\'s Series debut on Korn III (2010) → pure maple shells on The Serenity of Suffering (2016) → Requiem (2022). Fifteen-plus years and five studio albums with KoRn, era by era.',
+    metaDescription: 'Explore Ray Luzier\'s complete drum gear evolution: DW Performance Series before joining KoRn → DW Collector\'s Series debut on Korn III (2010) → Pearl Reference Maple and Sabian AAX by The Paradigm Shift (2013) → Requiem (2022). Fifteen-plus years and five studio albums with KoRn, era by era.',
   },
 
   // ==========================================

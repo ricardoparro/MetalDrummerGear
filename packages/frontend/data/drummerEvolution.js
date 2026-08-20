@@ -16485,7 +16485,7 @@ export const DRUMMER_EVOLUTION = {
     band: 'Slayer',
     totalYearsActive: '1987-Present',
     profileImage: '/images/drummers/paul-bostaph.webp',
-    summary: 'Paul Bostaph is Slayer\'s longest-serving drummer by total years, filling Dave Lombardo\'s chair across two separate tenures (1992-2001, 2013-2019) and recording four studio albums. Between and around those Slayer stints he built a parallel Bay Area thrash career with Forbidden, Testament, and Exodus. His gear evolution runs from an early Tama/Paiste Slayer rig through a mid-career DW-to-Tama switch on Diabolus in Musica and God Hates Us All, a Pacific Drums interim during his Exodus/Testament years, and a Pearl/Sabian return-era rig on Repentless — into his current ddrum-based setup.',
+    summary: 'Paul Bostaph is Slayer\'s longest-serving drummer by total years, filling Dave Lombardo\'s chair across two separate tenures (1992-2001, 2013-2019) and recording four studio albums. Between and around those Slayer stints he built a parallel Bay Area thrash career with Forbidden, Testament, and Exodus. His gear evolution runs from an early Tama/Paiste Slayer rig through a mid-career DW-to-Tama switch on Diabolus in Musica and God Hates Us All, a Pacific Drums interim during his Exodus/Testament years, and a Pearl/Sabian return-era rig on Repentless that carries into his current setup.',
 
     eras: [
       {
@@ -16706,7 +16706,7 @@ export const DRUMMER_EVOLUTION = {
         years: '2013-Present',
         startYear: 2013,
         endYear: 2026,
-        description: 'Bostaph rejoined Slayer in 2013 after Dave Lombardo\'s second and final departure, recording Repentless (2015) — Slayer\'s twelfth and final studio album — on a Pearl Masters Maple Complete kit with Sabian AAX cymbals. He played every date of Slayer\'s Final World Tour, including the band\'s last-ever show at the Forum in Los Angeles in 2019, before moving into session and touring work on a modern ddrum-based setup and rejoining Testament in 2024.',
+        description: 'Bostaph rejoined Slayer in 2013 after Dave Lombardo\'s second and final departure, recording Repentless (2015) — Slayer\'s twelfth and final studio album — on a Pearl Masters Maple Complete kit with Sabian AAX cymbals. He played every date of Slayer\'s Final World Tour, including the band\'s last-ever show at the Forum in Los Angeles in 2019, carrying the same Pearl/Sabian rig into his current setup before rejoining Testament in 2024.',
         albums: ['Slayer - Repentless (2015)'],
         tours: ['Slayer Final World Tour 2018-2019', 'Testament Touring 2024-Present'],
         image: null,
@@ -16725,28 +16725,28 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.SWITCH,
           },
           cymbals: {
-            item: 'Sabian AAX Series -> Zildjian A Custom (current)',
-            details: '14" AAX Stage hi-hats, 17"/19" AAX X-Plosion crashes for Repentless; Zildjian A Custom in his current setup',
-            notes: 'Switched to Sabian for Repentless — his first new cymbal brand since the God Hates Us All era — then later moved to Zildjian A Custom for his current setup.',
+            item: 'Sabian AAX Series',
+            details: '14" AAX Stage hi-hats, 17"/19" AAX X-Plosion crashes, 21" AAX Stage Ride, 18" AAXtreme China',
+            notes: 'Switched to Sabian for Repentless — his first new cymbal brand since the God Hates Us All era — carried through his current setup.',
             change: CHANGE_TYPES.SWITCH,
           },
           hardware: {
-            item: 'ddrum Mercury Double Pedal',
+            item: 'Pearl Eliminator Double Pedal',
             details: 'Current touring pedal',
-            notes: 'Part of his modern ddrum endorsement, replacing the DW and Tama pedals of earlier eras.',
+            notes: 'Paired with the Pearl Masters kit for Repentless, replacing the DW and Tama pedals of earlier eras.',
             change: CHANGE_TYPES.SWITCH,
           },
           sticks: {
-            item: 'Vic Firth American Classic 5B',
+            item: 'Vater Power 5B',
             details: 'Hickory',
             notes: 'Switched stick brands for his current setup after decades on Pro-Mark.',
             change: CHANGE_TYPES.SWITCH,
           },
           heads: {
-            item: 'Evans drumheads',
+            item: 'Remo Powerstroke 3, Emperor Coated, Ambassador',
             details: 'Current head setup',
-            notes: 'Switched from a career-long Remo setup to Evans for his modern ddrum-era rig.',
-            change: CHANGE_TYPES.SWITCH,
+            notes: 'Consistent Remo setup carried through his Pearl-based Repentless-era and current rig.',
+            change: null,
           },
         },
 
@@ -16760,7 +16760,7 @@ export const DRUMMER_EVOLUTION = {
           'Rejoined Slayer in 2013 after Dave Lombardo\'s second departure',
           'Repentless (2015) debuted at #4 on the Billboard 200 — Slayer\'s highest US chart position ever',
           'Played Slayer\'s final-ever show at the Forum, Los Angeles, on November 30, 2019',
-          'Current setup built around a ddrum Paladin Series kit, Zildjian A Custom cymbals, and Vic Firth American Classic 5B sticks',
+          'Current setup carries the Repentless-era Pearl Masters Maple Complete kit, Sabian AAX cymbals, and Vater Power 5B sticks',
           'Rejoined Testament in 2024',
         ],
 
@@ -16792,12 +16792,12 @@ export const DRUMMER_EVOLUTION = {
       },
       {
         q: 'What is Paul Bostaph\'s current drum setup?',
-        a: 'Paul Bostaph\'s current setup is built around a ddrum Paladin Series kit with a ddrum Paladin 14"x6.5" maple snare, Zildjian A Custom cymbals, a ddrum Mercury double pedal, and Vic Firth American Classic 5B sticks.',
+        a: 'Paul Bostaph\'s current setup carries over the same rig from Slayer\'s Repentless era: a Pearl Masters Maple Complete kit with a Pearl Masters steel snare, Sabian AAX cymbals, a Pearl Eliminator double pedal, and Vater Power 5B sticks.',
       },
     ],
 
     metaTitle: 'Paul Bostaph Gear Evolution Timeline | Slayer Drum Kit History',
-    metaDescription: 'Explore Paul Bostaph\'s complete drum gear evolution: the Tama/Paiste rig of his first Slayer tenure, a DW-to-Tama switch across Diabolus in Musica and God Hates Us All, a Pacific Drums interim with Exodus and Testament, and the Pearl/Sabian setup on Repentless. Includes his current ddrum-based touring rig.',
+    metaDescription: 'Explore Paul Bostaph\'s complete drum gear evolution: the Tama/Paiste rig of his first Slayer tenure, a DW-to-Tama switch across Diabolus in Musica and God Hates Us All, a Pacific Drums interim with Exodus and Testament, and the Pearl/Sabian setup on Repentless that carries into his current touring rig.',
   },
 
   // ==========================================

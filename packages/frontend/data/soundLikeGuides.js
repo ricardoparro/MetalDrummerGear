@@ -7318,7 +7318,7 @@ This guide breaks down the technique, gear, and practice approach behind Erlands
     genre: 'Thrash Metal',
     priority: 27,
     title: "How to Sound Like Paul Bostaph: Complete Gear & Technique Guide",
-    description: "Master Paul Bostaph's Slayer drum sound. Learn his groove-thrash technique — precision double-bass, heavy groove blast integration, and the ddrum / Zildjian gear setup behind Divine Intervention and God Hates Us All.",
+    description: "Master Paul Bostaph's Slayer drum sound. Learn his groove-thrash technique — precision double-bass, heavy groove blast integration, and the Pearl / Sabian gear setup behind Divine Intervention and God Hates Us All.",
     seoKeywords: ['paul bostaph drumming', 'how to sound like paul bostaph', 'slayer drums', 'paul bostaph gear', 'paul bostaph technique', 'paul bostaph drum kit', 'thrash metal drumming', 'slayer drum sound'],
     ogImage: '/images/guides/paul-bostaph-guide.webp',
     datePublished: '2026-06-25',
@@ -7334,7 +7334,7 @@ The key distinction between Bostaph and Lombardo is feel. Lombardo's aggression 
 
 The clearest example is "Disciple" from God Hates Us All (2001) — a mid-tempo thrash groove where Bostaph's double-bass anchors a heavy, locked-in pocket rather than blasting at maximum speed. The track won a Grammy for Best Metal Performance, demonstrating that his approach to groove within thrash is not a compromise but a strength.
 
-This guide covers Bostaph's groove-thrash technique, his ddrum Paladin and Zildjian A Custom setup, and the practice approach needed to develop his style.`,
+This guide covers Bostaph's groove-thrash technique, his Pearl Masters and Sabian AAX setup, and the practice approach needed to develop his style.`,
       keyPoints: [
         "Replaced Dave Lombardo in Slayer in 1992; returned 2013 until the band's final show in 2019",
         "Recorded four Slayer studio albums: Divine Intervention (1994), Undisputed Attitude (1996), Diabolus in Musica (1998), God Hates Us All (2001), and Repentless (2015)",
@@ -7393,59 +7393,59 @@ This guide covers Bostaph's groove-thrash technique, his ddrum Paladin and Zildj
       ]
     },
     gear: {
-      title: "Paul's ddrum / Zildjian Setup",
+      title: "Paul's Pearl / Sabian Setup",
       drumKit: {
-        brand: 'ddrum',
-        model: 'ddrum Paladin Series',
+        brand: 'Pearl',
+        model: 'Pearl Masters Maple Complete (MCX)',
         shells: 'Maple',
         finish: 'Custom Slayer configurations',
         config: {
           kick: '22" x 18" Bass Drums (x2)',
-          snare: '14" x 6.5" ddrum Paladin Maple',
+          snare: '14" x 6.5" Pearl Masters Steel',
           toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom'],
           floorToms: ['16" x 14" Floor Tom', '18" x 16" Floor Tom']
         },
-        description: "Bostaph plays ddrum Paladin Series — ddrum's professional maple line. The Paladin delivers focused attack and warm low-end that suits thrash metal's aggressive frequency range. ddrum has been Bostaph's primary endorsement since his return to Slayer in 2013.",
+        description: "Bostaph plays a Pearl Masters Maple Complete (MCX) — Pearl's all-maple professional line. The MCX delivers focused attack and warm low-end that suits thrash metal's aggressive frequency range. Pearl has been Bostaph's kit since Repentless (2015), carried into his current setup.",
         affiliateNote: "Pearl Export or Tama Imperialstar are accessible alternatives with comparable maple tone."
       },
       snare: {
-        brand: 'ddrum',
-        model: 'ddrum Paladin 14" x 6.5" Maple',
+        brand: 'Pearl',
+        model: 'Pearl Masters Steel 14" x 6.5"',
         size: '14" x 6.5"',
-        shell: 'Maple',
-        description: "Bostaph's 14\" x 6.5\" maple snare has a powerful, warm crack that cuts through Slayer's dense guitar tunings. The deeper 6.5\" shell gives it more volume and body than a 5.5\" snare — essential for thrash metal where the snare needs to be heard above seven-string guitar downtunings.",
-        alternative: "Pearl Sensitone Maple 14\" x 6.5\" or Tama S.L.P. G-Maple for similar warm, powerful crack"
+        shell: 'Steel',
+        description: "Bostaph's 14\" x 6.5\" steel snare has a powerful, warm crack that cuts through Slayer's dense guitar tunings. The steel shell gives it more cut and body than a maple snare — essential for thrash metal where the snare needs to be heard above seven-string guitar downtunings.",
+        alternative: "Pearl Sensitone Steel 14\" x 6.5\" or Tama S.L.P. Big Black Steel for similar cutting crack"
       },
       cymbals: {
-        brand: 'Zildjian',
-        series: 'Zildjian A Custom Series',
+        brand: 'Sabian',
+        series: 'Sabian AAX Series',
         setup: [
-          { type: 'Hi-Hats', model: 'Zildjian 14" A Custom Hi-Hats', notes: 'Bright, cutting response for thrash hi-hat patterns' },
-          { type: 'Crash', model: 'Zildjian 18" A Custom Crash', notes: 'Explosive crash for accent moments' },
-          { type: 'Crash', model: 'Zildjian 19" A Custom Crash', notes: 'Heavier crash for section climaxes' },
-          { type: 'Ride', model: 'Zildjian 21" A Custom Ride', notes: 'Defined bell and clear wash for ride patterns' },
-          { type: 'China', model: 'Zildjian 18" A Custom China', notes: 'China for accent punctuation and transitions' }
+          { type: 'Hi-Hats', model: 'Sabian 14" AAX Stage Hi-Hats', notes: 'Bright, cutting response for thrash hi-hat patterns' },
+          { type: 'Crash', model: 'Sabian 17" AAX X-Plosion Crash', notes: 'Explosive crash for accent moments' },
+          { type: 'Crash', model: 'Sabian 19" AAX X-Plosion Crash', notes: 'Heavier crash for section climaxes' },
+          { type: 'Ride', model: 'Sabian 21" AAX Stage Ride', notes: 'Defined bell and clear wash for ride patterns' },
+          { type: 'China', model: 'Sabian 18" AAXtreme China', notes: 'China for accent punctuation and transitions' }
         ],
-        description: "Bostaph uses Zildjian A Custom cymbals — Zildjian's bright, cutting professional series. The A Custom's brilliant finish and focused attack cuts cleanly through Slayer's dense guitar arrangements. Their brightness suits thrash metal production aesthetics."
+        description: "Bostaph uses Sabian AAX cymbals — Sabian's bright, cutting professional series. The AAX's brilliant finish and focused attack cuts cleanly through Slayer's dense guitar arrangements. Their brightness suits thrash metal production aesthetics."
       },
       pedals: {
-        brand: 'ddrum',
-        model: 'ddrum Mercury Double Pedal',
-        description: "Bostaph uses ddrum Mercury double pedals — a chain-drive professional pedal that provides smooth, consistent feel. His groove-thrash double-bass approach benefits from the slight give of chain-drive compared to direct-drive, which allows the pocket feel he brings to continuous double-bass patterns.",
-        alternative: "Pearl P932 Double Pedal or DW 5002 for comparable chain-drive feel"
+        brand: 'Pearl',
+        model: 'Pearl Eliminator Double Pedal',
+        description: "Bostaph uses a Pearl Eliminator double pedal — a smooth, consistent professional pedal. His groove-thrash double-bass approach benefits from its responsive feel, which allows the pocket feel he brings to continuous double-bass patterns.",
+        alternative: "Pearl P932 Double Pedal or DW 5002 for comparable feel"
       },
       sticks: {
-        brand: 'Vic Firth',
-        model: 'Vic Firth American Classic 5B',
-        specs: '5B length, .595" diameter, wood tip',
-        description: "Bostaph plays 5B sticks — heavier than the standard 5A, which provides the extra impact needed for Slayer's loud, aggressive playing environment. The 5B's weight complements his powerful, wrist-led technique.",
-        alternative: "Vater 5B or Promark 5B for comparable weight and feel"
+        brand: 'Vater',
+        model: 'Vater Power 5B',
+        specs: '5B length, wood tip',
+        description: "Bostaph plays Vater Power 5B sticks — heavier than the standard 5A, which provides the extra impact needed for Slayer's loud, aggressive playing environment. The 5B's weight complements his powerful, wrist-led technique.",
+        alternative: "Vic Firth American Classic 5B or Promark 5B for comparable weight and feel"
       },
       heads: {
-        kick: 'Evans EQ3 Clear',
-        snare: 'Evans G2 Coated',
-        toms: 'Evans G2 Coated',
-        resonant: 'Evans G1 Clear'
+        kick: 'Remo Powerstroke 3',
+        snare: 'Remo Emperor Coated',
+        toms: 'Remo Emperor Coated',
+        resonant: 'Remo Ambassador'
       }
     },
     tuning: {
@@ -7515,36 +7515,36 @@ This guide covers Bostaph's groove-thrash technique, his ddrum Paladin and Zildj
         price: "$1,000",
         label: "Starter Thrash Setup",
         kit: "Pearl Export ($550) or Tama Imperialstar ($500)",
-        cymbals: "Zildjian S Series ($300)",
+        cymbals: "Sabian XSR Series ($300)",
         pedals: "Pearl P932 Double Pedal ($150)",
-        sticks: "Vic Firth 5B ($10)",
-        notes: "Zildjian S Series shares the A Custom's bright character at a more accessible price. Pearl Export delivers solid maple tone for thrash applications."
+        sticks: "Vater 5B ($10)",
+        notes: "Sabian XSR Series shares the AAX's bright character at a more accessible price. Pearl Export delivers solid maple tone for thrash applications."
       },
       mid: {
         price: "$3,200",
         label: "Intermediate Setup",
-        kit: "ddrum Paladin Series ($1,500)",
-        cymbals: "Zildjian A Custom Selection ($1,200)",
-        pedals: "ddrum Mercury Double Pedal or Pearl Demon Drive ($400)",
-        sticks: "Vic Firth 5B ($10)",
-        heads: "Evans G2 Coated set ($150)",
-        notes: "ddrum Paladin is Bostaph's actual endorsement kit. A Custom cymbals match his bright, cutting tone requirement exactly."
+        kit: "Pearl Export EXX ($1,500)",
+        cymbals: "Sabian AAX Selection ($1,200)",
+        pedals: "Pearl Eliminator Double Pedal or Pearl Demon Drive ($400)",
+        sticks: "Vater Power 5B ($10)",
+        heads: "Remo Emperor Coated set ($150)",
+        notes: "Sabian AAX is Bostaph's actual cymbal endorsement, matching his bright, cutting tone requirement exactly."
       },
       pro: {
         price: "$5,500+",
         label: "Professional Setup",
-        kit: "ddrum Paladin Custom ($2,500+)",
-        cymbals: "Zildjian A Custom Full Selection ($2,000+)",
-        pedals: "ddrum Mercury Custom or DW 9000 ($500)",
-        snare: "ddrum Paladin 14\" x 6.5\" ($300)",
-        heads: "Full Evans setup ($200)",
-        notes: "ddrum Paladin is Bostaph's current touring setup. Full A Custom cymbal selection recreates his exact Repentless-era sound."
+        kit: "Pearl Masters Maple Complete (MCX) ($2,500+)",
+        cymbals: "Sabian AAX Full Selection ($2,000+)",
+        pedals: "Pearl Eliminator Double Pedal ($500)",
+        snare: "Pearl Masters Steel 14\" x 6.5\" ($300)",
+        heads: "Full Remo setup ($200)",
+        notes: "Pearl Masters Maple Complete is Bostaph's current touring kit. Full AAX cymbal selection recreates his exact Repentless-era sound."
       }
     },
     faq: [
       {
         question: "What drum kit does Paul Bostaph play?",
-        answer: "Paul Bostaph plays ddrum Paladin Series drums — ddrum's professional maple line. His setup includes double 22\" x 18\" kick drums, 10\" and 12\" rack toms, 14\" and 16\" floor toms, and a 14\" x 6.5\" ddrum Paladin maple snare. He became a ddrum endorser during his return to Slayer in 2013, using this setup on Repentless (2015) and the band's final world tour."
+        answer: "Paul Bostaph plays a Pearl Masters Maple Complete (MCX) — Pearl's all-maple professional line. His setup includes double 22\" x 18\" kick drums, 10\" and 12\" rack toms, 14\" and 16\" floor toms, and a 14\" x 6.5\" Pearl Masters steel snare. He moved to Pearl for Repentless (2015) during his return to Slayer, using this setup on the band's final world tour and his current setup."
       },
       {
         question: "How does Paul Bostaph's drumming differ from Dave Lombardo's?",
@@ -7552,7 +7552,7 @@ This guide covers Bostaph's groove-thrash technique, his ddrum Paladin and Zildj
       },
       {
         question: "What cymbals does Paul Bostaph use?",
-        answer: "Paul Bostaph uses Zildjian A Custom cymbals. His setup includes 14\" A Custom hi-hats, 18\" and 19\" A Custom crashes, a 21\" A Custom ride, and an 18\" A Custom China. The A Custom series' brilliant finish and bright, cutting tone projects clearly through Slayer's dense guitar arrangements."
+        answer: "Paul Bostaph uses Sabian AAX cymbals. His setup includes 14\" AAX Stage hi-hats, 17\" and 19\" AAX X-Plosion crashes, a 21\" AAX Stage ride, and an 18\" AAXtreme China. The AAX series' brilliant finish and bright, cutting tone projects clearly through Slayer's dense guitar arrangements."
       },
       {
         question: "Did Paul Bostaph play on God Hates Us All?",
@@ -7560,14 +7560,14 @@ This guide covers Bostaph's groove-thrash technique, his ddrum Paladin and Zildj
       },
       {
         question: "What pedals does Paul Bostaph use?",
-        answer: "Paul Bostaph uses ddrum Mercury double pedals — a chain-drive professional pedal that matches his ddrum endorsement and provides the smooth, groove-oriented feel that characterizes his double-bass approach. The chain-drive's slight give complements his pocket-oriented style better than direct-drive pedals, which suit pure-speed blast beat approaches."
+        answer: "Paul Bostaph uses a Pearl Eliminator double pedal — a smooth, consistent professional pedal that provides the groove-oriented feel that characterizes his double-bass approach, complementing his pocket-oriented style."
       }
     ],
     related: {
       drummerProfile: '/drummer/paul-bostaph',
       similarDrummers: ['Dave Lombardo', 'Gene Hoglan', 'Charlie Benante'],
       relatedGuides: ['how-to-sound-like-dave-lombardo', 'how-to-sound-like-gene-hoglan'],
-      gearPages: ['/gear/pedals', '/brands/zildjian', '/brands/ddrum']
+      gearPages: ['/gear/pedals', '/brands/sabian', '/brands/pearl']
     },
     licksUrl: '/drummers/paul-bostaph/licks',
     relatedArticles: [

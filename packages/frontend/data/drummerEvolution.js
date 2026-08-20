@@ -18977,7 +18977,7 @@ export const DRUMMER_EVOLUTION = {
 
   // ==========================================
   // Travis Orbin - Periphery founding drummer / Sky Harbor (Drummer Evolution batch 23, Issue #3673)
-  // DW Collector's Series -> carried across post-Periphery career
+  // SJC Custom / Zildjian K Custom -> carried across post-Periphery career (corrected #5912)
   // ==========================================
   'travis-orbin': {
     slug: 'travis-orbin',
@@ -18985,7 +18985,7 @@ export const DRUMMER_EVOLUTION = {
     band: 'Periphery',
     totalYearsActive: '2009-Present',
     profileImage: '/images/drummers/travis-orbin.webp',
-    summary: 'Travis Orbin helped invent djent\'s rhythmic language as Periphery\'s founding drummer, playing on the band\'s genre-defining self-titled debut (2010) before an amicable 2012 departure. His DW Collector\'s Series / Meinl setup, established during the Periphery years, carried through stints with Sky Harbor and Darkest Hour into a solo career built on viral YouTube playthroughs and educational content that has made him one of the most-studied drummers in progressive metal.',
+    summary: 'Travis Orbin helped invent djent\'s rhythmic language as Periphery\'s founding drummer, playing on the band\'s genre-defining self-titled debut (2010) before an amicable 2012 departure. His SJC Custom / Zildjian K Custom setup, established during the Periphery years, carried through stints with Sky Harbor and Darkest Hour into a solo career built on viral YouTube playthroughs and educational content that has made him one of the most-studied drummers in progressive metal.',
 
     eras: [
       {
@@ -19001,20 +19001,20 @@ export const DRUMMER_EVOLUTION = {
 
         gear: {
           drums: {
-            item: 'DW Collector\'s Series',
+            item: 'SJC Custom',
             details: 'Maple shells: 22"x18" bass drums (x2), 10"x8"/12"x9" rack toms, 16"x16" floor tom',
             notes: 'Warm attack with upper-mid projection that cuts through Periphery\'s extended-range guitar arrangements without sounding harsh.',
             change: CHANGE_TYPES.NEW,
           },
           snare: {
-            item: 'DW Collector\'s Series Steel 14"x6.5"',
-            details: 'Steel shell, bright attack',
+            item: 'SJC Custom Maple 14"x6.5"',
+            details: 'Maple shell, bright attack',
             notes: 'Provided the brightness needed to compete with 7- and 8-string guitars tuned to drop A.',
             change: CHANGE_TYPES.NEW,
           },
           cymbals: {
-            item: 'Meinl Byzance / Classics Custom',
-            details: '14" Byzance Traditional Hi-Hats, 17" Classics Custom Dark Crash, 19" Byzance Vintage Crash, 21" Byzance Extra Dry Ride, 18" Classics Custom China',
+            item: 'Zildjian K Custom Dark',
+            details: '14" K Custom Dark Hi-Hats, 17" K Custom Dark Crash, 19" K Custom Dark Crash, 21" K Custom Dark Ride, 18" K Custom Dark China',
             notes: 'Clarity and complex overtones so cymbal patterns cut distinctly through djent\'s layered, distorted guitar tones.',
             change: CHANGE_TYPES.NEW,
           },
@@ -19047,7 +19047,7 @@ export const DRUMMER_EVOLUTION = {
         keyChanges: [
           'Joined Periphery in 2009 during recording of the self-titled debut',
           'Periphery (2010) helped launch the djent movement',
-          'Established the DW Collector\'s Series / Meinl rig documented across his career',
+          'Established the SJC Custom / Zildjian K Custom rig documented across his career',
           'Icarus EP (2011) followed before his 2012 departure',
         ],
 
@@ -19060,26 +19060,26 @@ export const DRUMMER_EVOLUTION = {
         years: '2012–2015',
         startYear: 2012,
         endYear: 2015,
-        description: 'Orbin left Periphery in 2012 on good terms — Matt Halpern, his replacement, has publicly acknowledged Orbin\'s influence — and joined the international progressive metal band Sky Harbor, releasing "Guiding Lights" (2014). He also joined Darkest Hour as a touring drummer in 2013, splitting his time between the two acts through 2015 while his DW/Meinl rig carried over unchanged from the Periphery years. The move let Orbin step outside the specific rhythmic vocabulary he\'d built for Periphery and apply his polyrhythmic, groove-first approach to Sky Harbor\'s more melodic, internationally-flavored progressive metal songwriting, while his touring stint with Darkest Hour exposed him to a harder-edged metalcore audience.',
+        description: 'Orbin left Periphery in 2012 on good terms — Matt Halpern, his replacement, has publicly acknowledged Orbin\'s influence — and joined the international progressive metal band Sky Harbor, releasing "Guiding Lights" (2014). He also joined Darkest Hour as a touring drummer in 2013, splitting his time between the two acts through 2015 while his SJC/Zildjian rig carried over unchanged from the Periphery years. The move let Orbin step outside the specific rhythmic vocabulary he\'d built for Periphery and apply his polyrhythmic, groove-first approach to Sky Harbor\'s more melodic, internationally-flavored progressive metal songwriting, while his touring stint with Darkest Hour exposed him to a harder-edged metalcore audience.',
         albums: ['Sky Harbor: Guiding Lights (2014)'],
         tours: ['Sky Harbor touring dates (2012–2015)', 'Darkest Hour touring dates (2013–2015)'],
         image: null,
 
         gear: {
           drums: {
-            item: 'DW Collector\'s Series',
+            item: 'SJC Custom',
             details: 'Unchanged configuration',
             notes: 'No change — the rig established on Periphery\'s debut carried directly into Sky Harbor and his Darkest Hour touring work.',
             change: null,
           },
           snare: {
-            item: 'DW Collector\'s Series Steel 14"x6.5"',
+            item: 'SJC Custom Maple 14"x6.5"',
             details: 'Unchanged',
             notes: 'No change from the Periphery era.',
             change: null,
           },
           cymbals: {
-            item: 'Meinl Byzance / Classics Custom',
+            item: 'Zildjian K Custom Dark',
             details: 'Same configuration',
             notes: 'No change from the Periphery era.',
             change: null,
@@ -19126,26 +19126,26 @@ export const DRUMMER_EVOLUTION = {
         years: '2016–Present',
         startYear: 2016,
         endYear: 2026,
-        description: 'From 2016 onward, Orbin built a substantial solo career centered on drum playthrough videos and interpretations that have garnered millions of YouTube views, alongside clinics, masterclasses, and ongoing session work. His meticulous, educational breakdowns of technique and gear have made him one of the most-studied drummers in progressive metal, continuing to run his DW Collector\'s / Meinl setup as the foundation for both recorded session work and his instructional content.',
+        description: 'From 2016 onward, Orbin built a substantial solo career centered on drum playthrough videos and interpretations that have garnered millions of YouTube views, alongside clinics, masterclasses, and ongoing session work. His meticulous, educational breakdowns of technique and gear have made him one of the most-studied drummers in progressive metal, continuing to run his SJC Custom / Zildjian K Custom setup as the foundation for both recorded session work and his instructional content.',
         albums: ['Solo playthroughs and interpretations (ongoing)'],
         tours: ['Clinics and masterclasses (ongoing)'],
         image: null,
 
         gear: {
           drums: {
-            item: 'DW Collector\'s Series',
+            item: 'SJC Custom',
             details: 'Unchanged configuration',
             notes: 'No change — his settled, mature rig continues to anchor both session work and playthrough content.',
             change: null,
           },
           snare: {
-            item: 'DW Collector\'s Series Steel 14"x6.5"',
+            item: 'SJC Custom Maple 14"x6.5"',
             details: 'Unchanged',
             notes: 'No change from the previous era.',
             change: null,
           },
           cymbals: {
-            item: 'Meinl Byzance / Classics Custom',
+            item: 'Zildjian K Custom Dark',
             details: 'Same configuration',
             notes: 'No change from the previous era.',
             change: null,
@@ -19190,7 +19190,7 @@ export const DRUMMER_EVOLUTION = {
     faqs: [
       {
         q: 'What drum kit does Travis Orbin play?',
-        a: 'Travis Orbin plays a DW Collector\'s Series kit with a DW Collector\'s Series 14"x6.5" Steel snare, Meinl Byzance/Classics Custom cymbals, and a DW 9000 Series double pedal — a rig established during his 2009–2012 tenure in Periphery and carried unchanged through his post-Periphery career.',
+        a: 'Travis Orbin plays an SJC Custom kit with an SJC Custom Maple 14"x6.5" snare, Zildjian K Custom Dark cymbals, and a DW 9000 Series double pedal — a rig established during his 2009–2012 tenure in Periphery and carried unchanged through his post-Periphery career.',
       },
       {
         q: 'Why did Travis Orbin leave Periphery?',
@@ -19211,7 +19211,7 @@ export const DRUMMER_EVOLUTION = {
     ],
 
     metaTitle: 'Travis Orbin Gear Evolution Timeline | Periphery Drum Kit History',
-    metaDescription: 'Explore Travis Orbin\'s complete drum gear evolution: the DW Collector\'s Series / Meinl rig behind Periphery\'s genre-defining self-titled debut (2010), his amicable 2012 departure, Sky Harbor and Darkest Hour years, and his solo playthrough career.',
+    metaDescription: 'Explore Travis Orbin\'s complete drum gear evolution: the SJC Custom / Zildjian K Custom rig behind Periphery\'s genre-defining self-titled debut (2010), his amicable 2012 departure, Sky Harbor and Darkest Hour years, and his solo playthrough career.',
   },
 
   // ==========================================

@@ -5513,3 +5513,49 @@ Group A and B fully cleared as of this run. Still queued from the 08-19 list: ja
 2. Continue the remaining queue above — next priority: group C remainder (jaska-raatikainen, mike-mangini, alex-bent, paul-bostaph, martin-axenrot, richard-christy), then group D (travis-orbin, isaac-lamb).
 3. Resolve the 3 ambiguous cases (pete-sandoval/bill-ward/art-cruz) with external tiebreak before deciding whether to file.
 4. `drummerEvolution.js` systemic sweep is now 24 of ~72 drummers fixed (16 prior + 8 this run) out of 32 confirmed contradictions originally found — only 8 remain in the confirmed queue (group C/D) plus 3 ambiguous. Close to fully clearing this systemic vein; worth flagging to CEO for a `learned-patterns.md` entry once the remaining ~8 ship, given the abe-cunningham case shows even "3 sources agree" isn't a reliable trust signal on its own.
+
+---
+
+## 2026-08-20 (later run) — Cleared group C/D remainder + 2 of 3 ambiguous cases; 8 filed, 1 is a reversal of two prior shipped fixes
+
+Bank at run start: 11 open (8 fresh from the earlier 02:14 run + 3 standing umbrellas). Well under the 45 cap → cleared to file up to 8 net-new. Metrics unchanged since 07:32 UTC refresh (218 users/273 sessions/529 views 7d; GSC 5,270 impr/120 clicks/2.28% CTR/pos 10.1 — no content-gap rows). Today is Thursday — drum-chair Monday sweep not due (next 2026-08-24).
+
+### What was checked
+Dispatched 11 parallel verification agents against the remaining `drummerEvolution.js` queue: group C remainder (jaska-raatikainen, mike-mangini, alex-bent, paul-bostaph, martin-axenrot, richard-christy), group D remainder (travis-orbin, isaac-lamb), and the 3 previously-ambiguous cases (pete-sandoval, bill-ward, art-cruz) where source files disagree with each other, not just with drummerEvolution.js.
+
+**Result: 9 of 11 confirmed with high/medium-high confidence; 2 (pete-sandoval, bill-ward) remain genuinely unresolved — not filed.**
+
+- **pete-sandoval**: external tiebreak found a 2006 self-quote (Pearl/Sabian/Promark/Axis) but the era doesn't cleanly match drummerEvolution.js's "2000-2011 decline" bucket, and the agent flagged that a WebSearch AI summary hallucinated a fake Wikipedia citation during its own research — recommended a second corroborating source before shipping an 8-file fix. **Not filed**, logged here for next rotation.
+- **bill-ward**: external archive data (his own 2017 Reverb gear sale, covered by Rolling Stone/Modern Drummer) shows Paiste was NOT his cymbal brand until Sabotage-era (~1975-78), contradicting all 6 site files' "Paiste throughout" claim — but the exact Zildjian→Paiste cutover year is unresolved (album-articles says 1975, the archive listing implies 1978). **Not filed** pending one more targeted search to nail the transition year.
+
+### Proposals filed this run (8)
+1. **#5905** — Mike Mangini: fabricated Vic Firth sticks (verified Vater, `drummerEvolution.js` only — #5405 already fixed `extendedBios.js`) + `drummerEvolution.js`/`api/drummers/index.js` both stale on the 2026 Godsmack chair change that #5604 already fixed in `extendedBios.js` but never propagated.
+2. **#5906** — Richard Christy: **reverts** #5362 and #5749 (both closed/merged). Those two fixes moved his drum brand from Pearl to Tama based only on internal FAQ-text consistency, with zero external citation. Fresh verification found two dated Sick Drummer Magazine interviews (2008, 2011) confirming Pearl Custom Z/Prestige Session — the original data was right, the "fix" was wrong. `drummerEvolution.js` (never touched by either prior fix) had stayed correct the whole time. Flagging this prominently: it's the first confirmed case this sweep of a *previously shipped* fix needing reversal, not just a fresh fabrication.
+3. **#5907** — Alex Bent: Pearl fabricated across 5 of 6 gear files (verified TAMA Starclassic per TAMA's own artist page) + internal Meinl/Zildjian cymbal split resolved to Zildjian (Zildjian's own promo video).
+4. **#5908** — Martin Axenrot: all 5 gear files wrong (Sonor/Meinl/Vic Firth unanimous internal "consensus") vs. verified DW/Sabian/Pro-Mark/Evans (SABIAN's own artist page + a direct Axenrot quote in MusicRadar).
+5. **#5909** — Art Cruz: 3 isolated stray fabrications (Pearl in `drummerComparisons.js`, DW in `licks/art-cruz.js`, unsourced Pearl/Meinl/Promark entry in `endorsementNews.js`) contradicting the otherwise-correct Ludwig/Zildjian/Trick/Vic Firth consensus across 11+ files.
+6. **#5910** — Paul Bostaph: same-block self-contradiction in `drummerEvolution.js`'s current era (Pearl fields vs. ddrum keyChanges/FAQ) — corrected to the site's own already-verified Pearl/Sabian Repentless-era rig (#5319/#5808), not the unsourced ddrum claim. Confirmed not a duplicate of either prior fix (different files).
+7. **#5911** — Isaac Lamb: 6 files fabricate specific gear models (exact snare size, cymbal sizes, pedal/stick/head models) despite the roster explicitly flagging `gear.verified: false` and `'Not publicly documented'` — a rule-2 (verified-only/omit-if-unsure) violation, not just a brand mismatch.
+8. **#5912** — Travis Orbin: `drummerEvolution.js` is the last remaining file with the fabricated DW/Meinl rig; #5363 and #5714 already fixed `extendedBios.js` and `albumArticles/travis-orbin.js` to the verified SJC/Zildjian rig.
+
+All 8 verified-only, freeze-compliant (zero new pages), dedup-checked against all-state issues. Notably #5906's dedup check is what *surfaced* the reversal — searching "richard-christy Tama Pearl" turned up the two closed issues that had shipped the wrong direction.
+
+### Remaining queue (not filed — bank-cap discipline, lower priority than the 8 above)
+- **jaska-raatikainen** — confirmed (10-vs-1 internal majority, `drummerComparisons.js:1071,1078` says Sabian vs. verified Zildjian), small single-file 2-line fix, queued for next run.
+- **richard-christy missing era** — `drummerEvolution.js`'s eras array stops at 2003-2007 Iced Earth, omitting the real 2009-present Charred Walls of the Damned era (same "missing era" bug class as sean-reinert, #5883) — queued for next run.
+- **pete-sandoval, bill-ward** — genuinely unresolved per above, need one more corroborating source each before filing.
+
+### `drummerEvolution.js` systemic sweep status
+Group C and D fully cleared (9 of 11 confirmed and filed/queued). Only pete-sandoval and bill-ward remain unresolved from the original 32-contradiction backlog. Once those two are settled (or explicitly logged as permanently unresolvable pending better sourcing), this systemic vein is closed — worth a `learned-patterns.md` entry at that point, especially the richard-christy reversal as a concrete example of "internal-consistency-only fixes can entrench a fabrication instead of correcting it."
+
+### Open proposals waiting on CEO triage
+- #5905-5912 (filed this run, 0d old)
+- #5880-5887 (filed earlier today 02:14 UTC, still open per bank count)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers only.
+- Bank now 19 (16 fresh + 3 umbrellas).
+
+### Next run
+1. Watch #5905-5912 through CEO triage — flag #5906 (Richard Christy reversal) for extra scrutiny given it undoes two previously-merged PRs.
+2. File jaska-raatikainen and richard-christy-missing-era once the bank has room (both confirmed, just deprioritized this run).
+3. Get a second corroborating source for pete-sandoval (era-matched interview/photo) and bill-ward (exact Zildjian→Paiste cutover year) before filing either.
+4. Once pete-sandoval/bill-ward resolve, log a `learned-patterns.md` entry closing out the `drummerEvolution.js` systemic sweep, featuring the richard-christy reversal as the headline lesson.

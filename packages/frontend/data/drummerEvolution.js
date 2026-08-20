@@ -20180,7 +20180,7 @@ export const DRUMMER_EVOLUTION = {
     band: 'Kublai Khan TX',
     totalYearsActive: '2009-Present',
     profileImage: '/images/drummers/isaac-lamb.webp',
-    summary: 'Isaac Lamb co-founded Kublai Khan TX in Sherman, Texas in 2009, self-releasing the "Youth War" EP before building the SJC Custom Drums / DW hardware rig that carried the band through their Artery Recordings breakthrough, and refining it into the Meinl Classics Custom Dark / Vic Firth 2B setup behind Rise Records releases through 2024\'s "Exhibition of Prowess."',
+    summary: 'Isaac Lamb co-founded Kublai Khan TX in Sherman, Texas in 2009, self-releasing the "Youth War" EP and carrying the band through its Artery Recordings breakthrough and into its Rise Records releases through 2024\'s "Exhibition of Prowess." His only publicly documented gear ties are brand-level endorsements — SJC Custom Drums, Meinl Cymbals, and Vic Firth Sticks — with no specific models, sizes, or start dates confirmed.',
 
     eras: [
       {
@@ -20255,7 +20255,7 @@ export const DRUMMER_EVOLUTION = {
         years: '2014–2017',
         startYear: 2014,
         endYear: 2017,
-        description: 'Kublai Khan TX signed to Artery Recordings and released their debut full-length "Balancing Survival and Happiness" (2014), landing on Alternative Press\'s "Best Albums" list, followed by the sophomore breakthrough "New Strength" (2015) and an Impericon Festival appearance in Europe. It was during this stretch that Lamb established his documented SJC Custom drum kit and DW double-pedal endorsement, though a fixed cymbal brand had not yet been established.',
+        description: 'Kublai Khan TX signed to Artery Recordings and released their debut full-length "Balancing Survival and Happiness" (2014), landing on Alternative Press\'s "Best Albums" list, followed by the sophomore breakthrough "New Strength" (2015) and an Impericon Festival appearance in Europe. No specific kit, snare, cymbal, hardware, or stick configuration is publicly documented for this stretch — only Lamb\'s brand-level SJC Custom Drums endorsement is known, with no confirmed start date.',
         albums: ['Kublai Khan TX: Balancing Survival and Happiness (2014)', 'Kublai Khan TX: New Strength (2015)'],
         tours: ['Impericon Festival (2015)', 'US Hardcore Tours'],
         image: null,
@@ -20263,39 +20263,39 @@ export const DRUMMER_EVOLUTION = {
         gear: {
           drums: {
             item: 'SJC Custom Drums',
-            details: 'Hand-built, made-to-order shell pack',
-            notes: 'Established as his documented endorsement during the Artery Recordings breakthrough.',
-            change: CHANGE_TYPES.NEW,
+            details: 'Brand-level endorsement; specific kit configuration not publicly documented',
+            notes: 'Only the endorsement itself is confirmed — no source documents when it began or what shell pack he plays.',
+            change: null,
           },
           snare: {
-            item: 'SJC Custom snare',
-            details: 'Early SJC Custom snare configuration',
-            notes: 'First documented SJC snare, predating his later 14x6.5" specification.',
-            change: CHANGE_TYPES.NEW,
+            item: 'Not publicly documented',
+            details: 'No fixed snare confirmed',
+            notes: 'No snare brand or model documented for this era.',
+            change: null,
           },
           cymbals: {
-            item: 'Varied by session (no fixed brand yet)',
-            details: 'No fixed brand documented',
-            notes: 'Cymbal setup had not yet settled on a fixed brand during this era.',
+            item: 'Not publicly documented',
+            details: 'No fixed brand confirmed',
+            notes: 'No cymbal brand documented for this era.',
             change: null,
           },
           hardware: {
-            item: 'DW 9000 Series Double Pedal',
-            details: 'Direct-drive double pedal',
-            notes: 'First documented hardware endorsement, established during this era.',
-            change: CHANGE_TYPES.NEW,
+            item: 'Not publicly documented',
+            details: 'No fixed brand confirmed',
+            notes: 'No hardware brand documented for this era.',
+            change: null,
           },
           sticks: {
-            item: 'Vic Firth American Classic 2B',
-            details: 'Heavy hickory, built for maximum impact',
-            notes: 'First documented Vic Firth relationship.',
-            change: CHANGE_TYPES.NEW,
+            item: 'Vic Firth Sticks',
+            details: 'Brand-level endorsement; specific model not publicly documented',
+            notes: 'Only the endorsement itself is confirmed — no source documents when it began or which model he plays.',
+            change: null,
           },
           heads: {
-            item: 'Evans',
-            details: 'Standard head package',
-            notes: 'Established during this era, predating his later Hydraulic switch.',
-            change: CHANGE_TYPES.NEW,
+            item: 'Not publicly documented',
+            details: 'No fixed brand confirmed',
+            notes: 'No head brand documented for this era.',
+            change: null,
           },
         },
 
@@ -20309,7 +20309,7 @@ export const DRUMMER_EVOLUTION = {
           'Signed to Artery Recordings',
           'Released debut full-length Balancing Survival and Happiness (2014), an Alternative Press "Best Albums" pick',
           'Released sophomore breakthrough New Strength (2015)',
-          'Established documented SJC Custom / DW hardware endorsement during this era',
+          'SJC Custom Drums and Vic Firth endorsements documented, though not tied to a confirmed start date',
         ],
 
         videos: [],
@@ -20321,7 +20321,7 @@ export const DRUMMER_EVOLUTION = {
         years: '2017–Present',
         startYear: 2017,
         endYear: 2026,
-        description: 'Kublai Khan TX signed to Rise Records and released "Nomad" (2017) and "Absolute" (2019), then the "Lowest Form of Animal" EP (2022) featuring Terror\'s Scott Vogel, and 2024\'s "Exhibition of Prowess," their most ambitious release to date — the same year the band appeared on Lamb of God\'s "Another Nail for Your Coffin." Lamb\'s rig was refined to the SJC Custom 14x6.5" snare and Meinl Classics Custom Dark Series cymbals, with Evans Hydraulic heads replacing his earlier standard Evans package for added durability on the sustained touring schedule.',
+        description: 'Kublai Khan TX signed to Rise Records and released "Nomad" (2017) and "Absolute" (2019), then the "Lowest Form of Animal" EP (2022) featuring Terror\'s Scott Vogel, and 2024\'s "Exhibition of Prowess," their most ambitious release to date — the same year the band appeared on Lamb of God\'s "Another Nail for Your Coffin." Lamb\'s gear brand ties through this era remain the same SJC Custom Drums, Meinl Cymbals, and Vic Firth Sticks endorsements — no specific kit, snare, cymbal setup, hardware, or head model is publicly documented.',
         albums: ['Kublai Khan TX: Nomad (2017)', 'Kublai Khan TX: Absolute (2019)', 'Kublai Khan TX: Lowest Form of Animal EP (2022)', 'Kublai Khan TX: Exhibition of Prowess (2024)'],
         tours: ['North American Tour (2024–2025)'],
         image: null,
@@ -20329,39 +20329,39 @@ export const DRUMMER_EVOLUTION = {
         gear: {
           drums: {
             item: 'SJC Custom Drums',
-            details: 'Unchanged hand-built shell pack',
-            notes: 'Kit brand unchanged since the Artery Recordings era.',
+            details: 'Brand-level endorsement; specific kit configuration not publicly documented',
+            notes: 'No change from the previous era — endorsement confirmed, kit specifics are not.',
             change: null,
           },
           snare: {
-            item: 'SJC Custom 14x6.5"',
-            details: 'Thick, punishing crack for breakdown-driven sections',
-            notes: 'Refined snare specification for the Rise Records era.',
-            change: CHANGE_TYPES.UPGRADE,
+            item: 'Not publicly documented',
+            details: 'No fixed snare confirmed',
+            notes: 'No snare brand or model documented for this era.',
+            change: null,
           },
           cymbals: {
-            item: 'Meinl Classics Custom Dark Series',
-            details: '14" Hi-Hats, 18" & 20" Crashes, 21" Ride, 18" China',
-            notes: 'First documented fixed cymbal endorsement, established during the Rise Records era.',
-            change: CHANGE_TYPES.NEW,
+            item: 'Meinl Cymbals',
+            details: 'Brand-level endorsement; specific series and sizes not publicly documented',
+            notes: 'Only the endorsement itself is confirmed — no source documents a series name or configuration.',
+            change: null,
           },
           hardware: {
-            item: 'DW 9000 Series Double Pedal',
-            details: 'Unchanged direct-drive double pedal',
-            notes: 'No change from the previous era.',
+            item: 'Not publicly documented',
+            details: 'No fixed brand confirmed',
+            notes: 'No hardware brand documented for this era.',
             change: null,
           },
           sticks: {
-            item: 'Vic Firth American Classic 2B',
-            details: 'Unchanged',
-            notes: 'No change from the previous era.',
+            item: 'Vic Firth Sticks',
+            details: 'Brand-level endorsement; specific model not publicly documented',
+            notes: 'No change from the previous era — endorsement confirmed, model unspecified.',
             change: null,
           },
           heads: {
-            item: 'Evans Hydraulic',
-            details: 'Dampened, durable head package',
-            notes: 'Upgraded from standard Evans heads for the sustained demands of touring behind Exhibition of Prowess.',
-            change: CHANGE_TYPES.UPGRADE,
+            item: 'Not publicly documented',
+            details: 'No fixed brand confirmed',
+            notes: 'No head brand documented for this era.',
+            change: null,
           },
         },
 
@@ -20375,7 +20375,7 @@ export const DRUMMER_EVOLUTION = {
           'Signed to Rise Records, releasing Nomad (2017) and Absolute (2019)',
           'Released Lowest Form of Animal EP (2022) featuring Terror\'s Scott Vogel',
           'Released Exhibition of Prowess (2024), the band\'s most ambitious release, and appeared on Lamb of God\'s Another Nail for Your Coffin',
-          'Refined rig to the SJC Custom 14x6.5" snare and Meinl Classics Custom Dark cymbals',
+          'Rig remains SJC Custom Drums / Meinl Cymbals / Vic Firth Sticks at the brand level — no specific models publicly documented',
         ],
 
         videos: [],
@@ -20385,7 +20385,7 @@ export const DRUMMER_EVOLUTION = {
     faqs: [
       {
         q: 'What drum kit does Isaac Lamb play?',
-        a: 'Isaac Lamb plays SJC Custom Drums with an SJC Custom 14x6.5" snare, Meinl Classics Custom Dark Series cymbals, and a DW 9000 Series double pedal — a rig refined during Kublai Khan TX\'s Rise Records era.',
+        a: 'Isaac Lamb\'s specific drum kit, snare, cymbal, and hardware models are not publicly documented. He carries brand-level endorsements from SJC Custom Drums, Meinl Cymbals, and Vic Firth Sticks, with no confirmed models or sizes.',
       },
       {
         q: 'What band is Isaac Lamb in?',
@@ -20393,7 +20393,7 @@ export const DRUMMER_EVOLUTION = {
       },
       {
         q: 'When did Isaac Lamb start using SJC Custom Drums?',
-        a: 'Lamb\'s documented SJC Custom Drums endorsement was established during Kublai Khan TX\'s Artery Recordings breakthrough era (2014–2017), later refined to a 14x6.5" snare specification during the Rise Records years.',
+        a: 'No publicly documented source confirms when Lamb\'s SJC Custom Drums endorsement began — only the endorsement itself, not a start date, is confirmed.',
       },
       {
         q: 'What albums has Isaac Lamb recorded with Kublai Khan TX?',
@@ -20406,7 +20406,7 @@ export const DRUMMER_EVOLUTION = {
     ],
 
     metaTitle: 'Isaac Lamb Gear Evolution Timeline | Kublai Khan TX Drum Kit History',
-    metaDescription: 'Explore Isaac Lamb\'s complete drum gear evolution: from the undocumented Sherman, Texas DIY years through the SJC Custom Drums / Meinl Classics Custom Dark rig behind Kublai Khan TX\'s Rise Records releases through 2024\'s Exhibition of Prowess.',
+    metaDescription: 'Explore Isaac Lamb\'s career with Kublai Khan TX: from the undocumented Sherman, Texas DIY years through the band\'s Artery Recordings breakthrough and Rise Records releases through 2024\'s Exhibition of Prowess. His SJC Custom Drums, Meinl Cymbals, and Vic Firth Sticks endorsements are brand-level only — no specific models are publicly documented.',
   },
 
   // ==========================================

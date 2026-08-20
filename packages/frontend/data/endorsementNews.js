@@ -1878,7 +1878,8 @@ export const ENDORSEMENT_TIMELINE = {
       },
     ],
   },
-  // Issue #4169: derek-roddy, hannes-grossmann, isaac-lamb, jason-bittner, jocke-wallgren
+  // Issue #4169: derek-roddy, hannes-grossmann, jason-bittner, jocke-wallgren
+  // (isaac-lamb removed — #5911: no verified endorsement dates/models exist)
   'derek-roddy': {
     slug: 'derek-roddy',
     name: 'Derek Roddy',
@@ -1983,58 +1984,6 @@ export const ENDORSEMENT_TIMELINE = {
         from: 'Tama Iron Cobra',
         to: 'DW 9000 Series Double Pedal',
         notes: "Upgraded to DW's 9000 Series double pedal alongside the kit switch for the adjustable cam action his two-footed patterns require",
-      },
-    ],
-  },
-  'isaac-lamb': {
-    slug: 'isaac-lamb',
-    name: 'Isaac Lamb',
-    band: 'Kublai Khan TX',
-    currentEndorsements: {
-      drums: { brand: 'SJC Custom Drums', model: 'SJC Custom Series', since: '2009' },
-      cymbals: { brand: 'Meinl', model: 'Classics Custom Dark Series', since: '2009' },
-      sticks: { brand: 'Vic Firth', model: 'American Classic 2B', since: '2009', signature: false },
-      heads: { brand: 'Evans', model: 'Hydraulic', since: '2009' },
-      hardware: { brand: 'DW', model: '9000 Series Double Pedal', since: '2009' },
-    },
-    timeline: [
-      {
-        year: 2009,
-        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
-        category: ENDORSEMENT_CATEGORIES.DRUMS,
-        from: null,
-        to: 'SJC Custom Drums',
-        notes: 'Signed with the Massachusetts boutique builder when founding Kublai Khan TX in Sherman, Texas, choosing hand-built maple shells for beatdown hardcore\'s physical demands',
-      },
-      {
-        year: 2009,
-        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
-        category: ENDORSEMENT_CATEGORIES.CYMBALS,
-        from: null,
-        to: 'Meinl',
-        notes: "Adopted Meinl Classics Custom Dark cymbals from the band's formation, valuing their darker fundamental for sitting cleanly against high-gain guitars",
-      },
-      {
-        year: 2009,
-        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
-        category: ENDORSEMENT_CATEGORIES.HARDWARE,
-        from: null,
-        to: 'DW',
-        notes: 'Settled on a DW 9000 Series double pedal for the chain-drive consistency his groove-to-blast-beat transitions require',
-      },
-      {
-        year: 2017,
-        changeType: ENDORSEMENT_CHANGE_TYPES.RENEWED,
-        category: ENDORSEMENT_CATEGORIES.DRUMS,
-        brand: 'SJC Custom Drums',
-        notes: "Became SJC's primary endorser with custom configurations following the band's Rise Records signing and Nomad (2017)",
-      },
-      {
-        year: 2019,
-        changeType: ENDORSEMENT_CHANGE_TYPES.RENEWED,
-        category: ENDORSEMENT_CATEGORIES.CYMBALS,
-        brand: 'Meinl',
-        notes: 'Maintained the complete Meinl Classics Custom Dark setup through Absolute (2019), the album that defined his power-through-restraint groove approach',
       },
     ],
   },

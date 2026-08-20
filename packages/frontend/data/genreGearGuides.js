@@ -11437,7 +11437,7 @@ Whatever you choose: learn your pedal, adjust it for your technique, and practic
     // SEO metadata
     title: "Best Bass Drum Pedals for Deathcore: 2026 Ultimate Guide",
     metaTitle: "Best Bass Drum Pedals for Deathcore in 2026 | MetalForge Expert Guide",
-    description: "Discover the best bass drum pedals for deathcore's blast-into-breakdown structure and slam technique. Built around George Kollias's Pearl Demon XR, Chris Turner's Tama Speed Cobra 910, Ben Koller's Tama Iron Cobra 900, and Isaac Lamb's DW 9000 Series.",
+    description: "Discover the best bass drum pedals for deathcore's blast-into-breakdown structure and slam technique. Built around George Kollias's Pearl Demon XR, Chris Turner's Tama Speed Cobra 910, and Ben Koller's Tama Iron Cobra 900.",
     seoKeywords: [
       'best bass drum pedals for deathcore',
       'deathcore bass drum pedal',
@@ -11446,7 +11446,6 @@ Whatever you choose: learn your pedal, adjust it for your technique, and practic
       'george kollias bass drum pedal',
       'chris turner bass drum pedal',
       'ben koller bass drum pedal',
-      'isaac lamb bass drum pedal',
       'best double bass pedal deathcore',
       'heavy breakdown kick pedal'
     ],
@@ -11463,7 +11462,7 @@ Whatever you choose: learn your pedal, adjust it for your technique, and practic
       subtitle: "Power-Focused Pedals Built for Slam Technique and the Blast-Into-Breakdown Switch",
       badge: "GEAR GUIDE 2026",
       stats: [
-        { value: '4', label: 'Pedals Reviewed' },
+        { value: '3', label: 'Pedals Reviewed' },
         { value: '8 min', label: 'Read Time' },
         { value: '2026', label: 'Updated' }
       ]
@@ -11474,13 +11473,12 @@ Whatever you choose: learn your pedal, adjust it for your technique, and practic
       title: "Why Deathcore Needs a Bass Drum Pedal Built for Power, Not Just Speed",
       content: `Slam technique is the physical core of deathcore's heaviest breakdowns: a single, deliberately weighted bass drum hit landed with total control, timed exactly against a down-tuned guitar chug. That's a completely different demand from the sustained, high-headroom double bass a blast-beat verse needs just a few bars earlier in the same song. A deathcore bass drum pedal has to do both — deliver slam-worthy weight on command, then switch instantly back to extreme-speed blast patterns without missing a beat.
 
-George Kollias of Nile co-designed the Pearl Demon XR specifically for sustained blast beats past 240 BPM, setting the extreme-speed benchmark deathcore's fastest sections chase. Chris Turner of Oceans Ate Alaska runs a Tama Speed Cobra 910 double pedal, whose Speedo-Ring sprocket gives his polyrhythmic, blast-beat-driven fills on "Hikari" (2017) the quick, controlled response the transition into a breakdown demands. Ben Koller of Converge anchors his kit with a Tama Iron Cobra 900, built for the sustained, blistering tempo he's maintained through two decades of Converge's most demanding live sets. Isaac Lamb of Kublai Khan TX builds his entire hardware setup around a DW 9000 Series double pedal, whose direct-drive precision lands slam-heavy breakdown patterns consistently at every tempo the band plays.
+George Kollias of Nile co-designed the Pearl Demon XR specifically for sustained blast beats past 240 BPM, setting the extreme-speed benchmark deathcore's fastest sections chase. Chris Turner of Oceans Ate Alaska runs a Tama Speed Cobra 910 double pedal, whose Speedo-Ring sprocket gives his polyrhythmic, blast-beat-driven fills on "Hikari" (2017) the quick, controlled response the transition into a breakdown demands. Ben Koller of Converge anchors his kit with a Tama Iron Cobra 900, built for the sustained, blistering tempo he's maintained through two decades of Converge's most demanding live sets.
 
-This guide breaks down beater mass, spring tension, and drive type for a deathcore-ready bass drum pedal — comparing four drummers whose setups define the genre's power-first lineage, with recommendations from budget to professional touring rigs.`,
+This guide breaks down beater mass, spring tension, and drive type for a deathcore-ready bass drum pedal — comparing three drummers whose setups define the genre's power-first lineage, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
         "Slam technique demands a heavy, controlled bass drum hit — a completely different ask than sustaining a blast beat",
         "George Kollias's co-designed Pearl Demon XR sustains 240+ BPM blast beats that deathcore's fastest sections chase",
-        "Isaac Lamb's DW 9000 shows direct-drive precision matters as much for landing a slam hit as for blast-beat speed",
         "Reliable, tourable durability matters across every featured setup given deathcore's relentless touring schedule"
       ]
     },
@@ -11492,7 +11490,7 @@ This guide breaks down beater mass, spring tension, and drive type for a deathco
         {
           name: "Beater Mass for Slam Power",
           icon: "💥",
-          description: "Slam technique needs a heavier beater to translate foot force into a deep, controlled thump rather than a thin click. Isaac Lamb's DW 9000 and Ben Koller's Iron Cobra 900 both pair well with a heavier reversible beater surface for maximum low-end weight on a breakdown hit.",
+          description: "Slam technique needs a heavier beater to translate foot force into a deep, controlled thump rather than a thin click. Ben Koller's Iron Cobra 900 pairs well with a heavier reversible beater surface for maximum low-end weight on a breakdown hit.",
           recommendation: "A heavier felt or reversible beater for real low-end weight on slam-timed breakdown hits"
         },
         {
@@ -11512,12 +11510,6 @@ This guide breaks down beater mass, spring tension, and drive type for a deathco
           icon: "👟",
           description: "Chris Turner's extended Speed Cobra footboard supports fast, rolling blast patterns, while a standard-length board still suits drummers who favor ankle technique on slam-focused breakdown material.",
           recommendation: "Longboard for blast-heavy material, standard length for more breakdown-focused technique"
-        },
-        {
-          name: "Direct-Drive Precision on Isolated Hits",
-          icon: "🎯",
-          description: "Isaac Lamb's DW 9000 proves direct-drive precision isn't just for blast beats — landing a single, isolated slam hit with consistent, immediate response is just as demanding on a pedal's mechanism.",
-          recommendation: "Direct-drive action for consistent, immediate response on isolated slam and breakdown hits"
         },
         {
           name: "Touring Durability",
@@ -11642,43 +11634,6 @@ Koller's approach prioritizes power and organic dynamics over trigger-augmented 
           verdict: "Best value pro pedal. Koller's setup delivers proven touring durability at an accessible price.",
           rating: 4.5,
           affiliateLink: "https://www.thomann.de/intl/tama_iron_cobra_900_double.htm?partner_id=metalforge"
-        },
-        {
-          rank: 4,
-          name: "DW 9000 Series Double Pedal",
-          brand: "DW",
-          model: "DWCP9002",
-          image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg",
-          priceRange: "€650-750",
-          tier: "premium",
-          driveType: "Dual Chain",
-          description: `Isaac Lamb builds his entire hardware setup around the DW 9000 Series Double Pedal. Slam technique lives and dies on the breakdown, and the 9000's direct-drive precision lets him land kick patterns with consistent, immediate weight at every tempo Kublai Khan TX throws at him.
-
-DW's 9000 line is built for touring durability as much as feel — a philosophy any deathcore drummer chasing consistent slam weight night after night can apply directly to their own pedal choice.`,
-          pros: [
-            "Isaac Lamb's Kublai Khan TX setup — his entire hardware philosophy built around this one pedal",
-            "Direct-drive precision lands single slam hits with immediate, consistent weight",
-            "Infinitely adjustable for exact spring tension and beater angle control",
-            "Proven across an unbroken touring schedule since 2009",
-            "Exceptional build quality for long-term durability"
-          ],
-          cons: [
-            "Premium price point above chain-drive alternatives",
-            "Heavier and more complex than lighter speed-focused pedals",
-            "Optimized for slam consistency over maximum blast-beat top speed"
-          ],
-          specs: {
-            drive: "Dual Chain",
-            bearings: "Dual Bearing Spring Rocker",
-            footboard: "Turbo or Accelerator options",
-            beater: "DW SM101 (reversible)"
-          },
-          usedBy: [
-            { name: "Isaac Lamb", band: "Kublai Khan TX", note: "DW 9000 Series — slam-first direct-drive precision since 2009" }
-          ],
-          verdict: "Best for slam-first deathcore. Lamb's setup proves precision matters as much as top speed.",
-          rating: 4.5,
-          affiliateLink: "https://www.thomann.de/intl/dw_9000_series_isaac_lamb.htm?partner_id=metalforge"
         }
       ]
     },
@@ -11735,7 +11690,7 @@ DW's 9000 line is built for touring durability as much as feel — a philosophy 
 
     // Comparison section
     comparison: {
-      title: "Pearl Demon XR vs Tama Speed Cobra vs DW 9000 for Deathcore",
+      title: "Pearl Demon XR vs Tama Speed Cobra vs Tama Iron Cobra for Deathcore",
       content: `Reliable, tourable construction stays consistent across deathcore's closest lineage, but drive type and slam feel split these drummers into distinct camps. Here's how they compare:
 
 **Pearl Demon XR (George Kollias):**
@@ -11748,17 +11703,17 @@ DW's 9000 line is built for touring durability as much as feel — a philosophy 
 - Proven on Oceans Ate Alaska's technical, blast-beat-driven "Hikari"
 - Best for drummers who want speed without giving up chain-drive familiarity
 
-**DW 9000 (Isaac Lamb):**
-- Direct-drive precision optimized for consistent slam and breakdown hits
-- Infinitely adjustable spring tension and beater angle
-- Best for slam-first deathcore prioritizing weight over top speed
+**Tama Iron Cobra 900 (Ben Koller):**
+- Power Glide cam delivers consistent speed and slam-ready durability
+- Two decades of proven touring reliability
+- Best for drummers who prioritize durable, weighted power
 
-**Our Recommendation:** Start with a Tama Iron Cobra 600 or Pearl Eliminator Redline if you're building deathcore's blast-to-slam technique on a budget. Choose the DW 9000 if slam precision is your priority. Go with the Pearl Demon XR if you need to sustain deathcore's absolute fastest blast sections.`,
+**Our Recommendation:** Start with a Tama Iron Cobra 600 or Pearl Eliminator Redline if you're building deathcore's blast-to-slam technique on a budget. Choose the Tama Iron Cobra 900 if durable, weighted power is your priority. Go with the Pearl Demon XR if you need to sustain deathcore's absolute fastest blast sections.`,
       comparisonTable: [
         { feature: "Blast Beat Speed", directDrive: "⭐⭐⭐⭐⭐", chainDrive: "⭐⭐⭐⭐" },
         { feature: "Slam / Breakdown Weight", directDrive: "⭐⭐⭐⭐", chainDrive: "⭐⭐⭐⭐⭐" },
         { feature: "Touring Durability", directDrive: "⭐⭐⭐⭐", chainDrive: "⭐⭐⭐⭐⭐" },
-        { feature: "Price Range", directDrive: "€550-750", chainDrive: "€250-550" }
+        { feature: "Price Range", directDrive: "€550-650", chainDrive: "€250-550" }
       ]
     },
 
@@ -11777,9 +11732,9 @@ DW's 9000 line is built for touring durability as much as feel — a philosophy 
           reason: "Chris Turner's setup — polyrhythmic, blast-beat-driven precision proven on \"Hikari\" (2017)."
         },
         {
-          category: "Best for Slam Precision",
-          pedal: "DW 9000 Series Double Pedal",
-          reason: "Isaac Lamb's setup — direct-drive precision for landing consistent, weighted slam hits."
+          category: "Best for Touring Durability",
+          pedal: "Tama Iron Cobra 900 Double Pedal",
+          reason: "Ben Koller's setup — two decades of proven touring reliability at an accessible price."
         },
         {
           category: "Best Budget",
@@ -11799,21 +11754,19 @@ DW's 9000 line is built for touring durability as much as feel — a philosophy 
     relatedDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Demon XR — Nile\'s 240+ BPM blast-beat benchmark' },
       { slug: 'chris-turner', name: 'Chris Turner', reason: 'Tama Speed Cobra 910 — Oceans Ate Alaska\'s blast-beat-driven precision' },
-      { slug: 'ben-koller', name: 'Ben Koller', reason: 'Tama Iron Cobra 900 — Converge\'s sustained, blistering tempo reliability' },
-      { slug: 'isaac-lamb', name: 'Isaac Lamb', reason: 'DW 9000 Series — Kublai Khan TX\'s slam-first precision' }
+      { slug: 'ben-koller', name: 'Ben Koller', reason: 'Tama Iron Cobra 900 — Converge\'s sustained, blistering tempo reliability' }
     ],
 
     featuredDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Demon XR — Nile\'s 240+ BPM blast-beat benchmark' },
-      { slug: 'chris-turner', name: 'Chris Turner', reason: 'Tama Speed Cobra 910 — Oceans Ate Alaska\'s blast-beat-driven precision' },
-      { slug: 'isaac-lamb', name: 'Isaac Lamb', reason: 'DW 9000 Series — Kublai Khan TX\'s slam-first precision' }
+      { slug: 'chris-turner', name: 'Chris Turner', reason: 'Tama Speed Cobra 910 — Oceans Ate Alaska\'s blast-beat-driven precision' }
     ],
 
     // FAQ section for SEO
     faq: [
       {
         question: "What bass drum pedal is best for deathcore's slam technique?",
-        answer: "Isaac Lamb of Kublai Khan TX builds his entire hardware setup around the DW 9000 Series double pedal because its direct-drive precision lands slam-timed breakdown hits with consistent, immediate weight. Ben Koller's Tama Iron Cobra 900 is another strong choice for drummers who prioritize durable, weighted power."
+        answer: "Ben Koller of Converge anchors his kit with a Tama Iron Cobra 900, built for the sustained, blistering tempo he's maintained through two decades of Converge's most demanding live sets, making it a strong choice for drummers who prioritize durable, weighted power on slam-timed breakdown hits."
       },
       {
         question: "What pedal does George Kollias use?",
@@ -11821,7 +11774,7 @@ DW's 9000 line is built for touring durability as much as feel — a philosophy 
       },
       {
         question: "Is direct drive better than chain drive for deathcore?",
-        answer: "Direct drive (Pearl Demon XR) offers more linear response and faster return, making it ideal for deathcore's blast-beat verses. Chain drive (Tama Speed Cobra, Tama Iron Cobra, DW 9000) can still deliver extreme speed with proper technique, and DW's dual-chain 9000 actually offers superior precision for landing isolated slam hits."
+        answer: "Direct drive (Pearl Demon XR) offers more linear response and faster return, making it ideal for deathcore's blast-beat verses. Chain drive (Tama Speed Cobra, Tama Iron Cobra) can still deliver extreme speed with proper technique, and Tama's Speedo-Ring sprocket narrows the gap further by blending direct-drive smoothness into a chain-drive pedal."
       },
       {
         question: "What's the best budget double bass pedal for deathcore?",
@@ -11836,11 +11789,11 @@ DW's 9000 line is built for touring durability as much as feel — a philosophy 
     // Conclusion
     conclusion: {
       title: "Find Your Deathcore Bass Drum Pedal Setup",
-      content: `Deathcore pedal choice comes down to how well your setup handles the jump between blast-beat verses and slam-timed breakdowns. George Kollias's co-designed Pearl Demon XR defined the extreme-speed benchmark the genre's fastest sections measure themselves against. Chris Turner's Tama Speed Cobra 910 shows how polyrhythmic precision translates directly from progressive metalcore into deathcore-adjacent blast fills. Ben Koller's Tama Iron Cobra 900 demonstrates two decades of proven touring reliability, while Isaac Lamb's DW 9000 proves that direct-drive precision matters as much for landing a single slam hit as for blast-beat speed.
+      content: `Deathcore pedal choice comes down to how well your setup handles the jump between blast-beat verses and slam-timed breakdowns. George Kollias's co-designed Pearl Demon XR defined the extreme-speed benchmark the genre's fastest sections measure themselves against. Chris Turner's Tama Speed Cobra 910 shows how polyrhythmic precision translates directly from progressive metalcore into deathcore-adjacent blast fills. Ben Koller's Tama Iron Cobra 900 demonstrates two decades of proven touring reliability that any slam-focused deathcore drummer can rely on.
 
-None of these approaches is more "correct" — all four represent deathcore's founding commitment to combining extreme speed with breakdown-driven weight. Start with whichever drive type matches your footwork technique, and don't be afraid to prioritize slam precision over top-end speed if that's where your material lives.
+None of these approaches is more "correct" — all three represent deathcore's founding commitment to combining extreme speed with breakdown-driven weight. Start with whichever drive type matches your footwork technique, and don't be afraid to prioritize slam precision over top-end speed if that's where your material lives.
 
-Budget shouldn't stop you either. A Tama Iron Cobra 600 or Pearl Eliminator Redline will teach real blast-to-slam technique and survive demanding practice while you save toward the Demon XR, Speed Cobra, or DW 9000 setups that defined this lineage's most extreme recordings.
+Budget shouldn't stop you either. A Tama Iron Cobra 600 or Pearl Eliminator Redline will teach real blast-to-slam technique and survive demanding practice while you save toward the Demon XR, Speed Cobra, or Iron Cobra 900 setups that defined this lineage's most extreme recordings.
 
 🤘 **Now go blast into that breakdown.**`
     }
@@ -17115,12 +17068,11 @@ Precision and reliability win over bulk in thrash metal, every single time.
     // SEO metadata
     title: "Best Drum Hardware for Deathcore: 2026 Ultimate Guide",
     metaTitle: "Best Drum Hardware for Deathcore in 2026 | MetalForge Expert Guide",
-    description: "Best drum hardware for deathcore drummers — heavy-duty mounts and stands built to survive breakdown-impact abuse and blast-beat vibration in the same song. What Isaac Lamb, Ben Koller, and Tim Yeung actually use, from budget to pro.",
+    description: "Best drum hardware for deathcore drummers — heavy-duty mounts and stands built to survive breakdown-impact abuse and blast-beat vibration in the same song. What Ben Koller and Tim Yeung actually use, from budget to pro.",
     seoKeywords: [
       'best drum hardware for deathcore',
       'deathcore drummer hardware',
       'breakdown impact drum hardware',
-      'isaac lamb hardware',
       'ben koller hardware',
       'tim yeung hardware',
       'heavy duty tom mount deathcore',
@@ -17141,7 +17093,7 @@ Precision and reliability win over bulk in thrash metal, every single time.
       subtitle: "Heavy-Duty Mounts Built to Survive Breakdown-Impact Abuse",
       badge: "GEAR GUIDE 2026",
       stats: [
-        { value: '5', label: 'Hardware Pieces Reviewed' },
+        { value: '4', label: 'Hardware Pieces Reviewed' },
         { value: '8 min', label: 'Read Time' },
         { value: '2026', label: 'Updated' }
       ]
@@ -17152,13 +17104,13 @@ Precision and reliability win over bulk in thrash metal, every single time.
       title: "Why Deathcore Hardware Has to Survive Two Different Kinds of Abuse",
       content: `Deathcore drum hardware faces a punishment profile most genres never combine in the same song. Blast beats and gravity blasts load stands and mounts with sustained, high-frequency vibration, while breakdown sections load the exact same hardware with slow, maximum-force single hits designed to feel as heavy as possible. A stand tuned only for one of those stresses will fail under the other — vibration-loosened tension bolts give way the moment a crushing breakdown hit lands, and hardware braced only for heavy single impacts can still creep and drift through a sustained blast passage.
 
-Isaac Lamb of Kublai Khan TX builds his rig around hardware that can anchor maximum-force beatdown hits without any mount slipping mid-breakdown, since a shifted tom or cymbal in the middle of a crushing riff kills the impact the whole section is built around. Ben Koller of Converge brings a hardcore-rooted physicality to deathcore-adjacent extremity, hitting hard enough that his stands need genuine tip-over resistance on top of standard bracing. Tim Yeung, who has anchored Hate Eternal and Divine Heresy's technical death metal alongside deathcore-adjacent sessions, depends on hardware that holds exact tom and cymbal placement through both blast-beat sections and the technical fills that connect them to a breakdown.
+Ben Koller of Converge brings a hardcore-rooted physicality to deathcore-adjacent extremity, hitting hard enough that his stands need genuine tip-over resistance on top of standard bracing. Tim Yeung, who has anchored Hate Eternal and Divine Heresy's technical death metal alongside deathcore-adjacent sessions, depends on hardware that holds exact tom and cymbal placement through both blast-beat sections and the technical fills that connect them to a breakdown.
 
 This guide breaks down what separates genuinely deathcore-grade hardware from stands that only survive one half of the genre's demands, which specific hardware the style's most demanding players actually rely on, and where to spend versus where to save.`,
       keyPoints: [
         "Deathcore hardware has to survive both sustained blast-beat vibration and maximum-force single breakdown hits in the same song",
         "Heavy-duty tom and cymbal mounts with reinforced clamps prevent the mid-breakdown slippage that kills a beatdown's impact",
-        "Isaac Lamb's rig proves mount rigidity matters as much as bracing gauge for breakdown-driven deathcore",
+        "Reinforced mount rigidity matters as much as bracing gauge for breakdown-driven deathcore",
         "Ben Koller and Tim Yeung both show that hardcore-level hit force and technical death metal precision demand the same underlying durability"
       ]
     },
@@ -17323,44 +17275,6 @@ The line's memory locks hold that precision through deathcore's whiplash-fast sh
         },
         {
           rank: 4,
-          name: "Pearl Uni-Lock Tom Mount",
-          brand: "Pearl",
-          model: "Uni-Lock Tom Holder",
-          image: "https://upload.wikimedia.org/wikipedia/commons/6/6c/Acoustic_Drums_Kit_%2829965183378%29.jpg",
-          priceRange: "€60-90",
-          tier: "mid",
-          material: "Double-tightening cast clamp",
-
-          description: `Isaac Lamb's crushing beatdown breakdowns with Kublai Khan TX depend on toms that stay locked in exact position hit after hit — a shifted mount mid-breakdown flattens the impact the whole section is built around. Pearl's Uni-Lock uses a double-tightening cast clamp that resists the creep lighter single-bolt mounts develop under repeated maximum-force hits.
-
-For deathcore drummers, upgrading individual tom mounts to a reinforced design like this is often a more cost-effective fix than replacing an entire hardware pack.`,
-
-          pros: [
-            "Double-tightening clamp resists creep under maximum-force breakdown hits",
-            "Retrofits onto most existing rack or stand-mounted toms",
-            "Cast construction outlasts stamped-steel single-bolt mounts",
-            "Affordable way to upgrade breakdown durability without a full hardware pack"
-          ],
-          cons: [
-            "Sold per-mount, not as a full pack",
-            "Slightly heavier than minimalist single-bolt holders"
-          ],
-          specs: {
-            bracing: "Cast double-tightening clamp",
-            baseType: "Mount only (rack or stand)",
-            locking: "Uni-Lock cast tension",
-            includes: "Single tom mount",
-            weight: "Medium"
-          },
-          usedBy: [
-            { name: "Isaac Lamb", band: "Kublai Khan TX", note: "Reinforced tom mounting to survive crushing beatdown breakdowns" }
-          ],
-          verdict: "The targeted upgrade for deathcore drummers whose tom mounts shift mid-breakdown.",
-          rating: 4.4,
-          affiliateLink: "https://www.thomann.de/intl/pearl_uni_lock_tom_holder.htm?partner_id=metalforge"
-        },
-        {
-          rank: 5,
           name: "Mapex Armory Hardware Pack",
           brand: "Mapex",
           model: "Armory Series Hardware Pack",
@@ -17478,7 +17392,7 @@ The Armory pack delivers double-braced stability and tip-over resistance for bot
         {
           category: "Best Targeted Upgrade",
           pedal: "Pearl Uni-Lock Tom Mount",
-          reason: "Isaac Lamb-grade tom mounting that stops mid-breakdown drift for a fraction of a full pack's cost."
+          reason: "Reinforced tom mounting that stops mid-breakdown drift for a fraction of a full pack's cost."
         },
         {
           category: "Best Budget",
@@ -17496,14 +17410,12 @@ The Armory pack delivers double-braced stability and tip-over resistance for bot
       'best-snare-drums-for-deathcore'
     ],
     relatedDrummers: [
-      { slug: 'isaac-lamb', name: 'Isaac Lamb', reason: 'Reinforced tom mounting to survive crushing beatdown breakdowns' },
       { slug: 'ben-koller', name: 'Ben Koller', reason: 'Hardcore-level hitting force demands maximum tip-over resistance' },
       { slug: 'tim-yeung', name: 'Tim Yeung', reason: 'Technical precision hardware for blast beats and connecting fills' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
-      { slug: 'isaac-lamb', name: 'Isaac Lamb', reason: 'Reinforced mounts survive crushing beatdown breakdowns' },
       { slug: 'ben-koller', name: 'Ben Koller', reason: 'Hardcore-rooted hitting force meets tip-over-resistant bases' },
       { slug: 'tim-yeung', name: 'Tim Yeung', reason: 'Technical precision across blast beats and breakdown fills' }
     ],
@@ -17520,7 +17432,7 @@ The Armory pack delivers double-braced stability and tip-over resistance for bot
       },
       {
         question: "How do I stop my toms from shifting during breakdowns?",
-        answer: "Upgrade to a reinforced, double-tightening tom mount like Pearl's Uni-Lock, which resists the creep lighter single-bolt clamps develop under repeated maximum-force hits. Isaac Lamb relies on exactly this kind of reinforced mounting to keep his beatdown breakdowns landing at full impact."
+        answer: "Upgrade to a reinforced, double-tightening tom mount like Pearl's Uni-Lock, which resists the creep lighter single-bolt clamps develop under repeated maximum-force hits — the fix that keeps beatdown breakdowns landing at full impact."
       },
       {
         question: "Do I need a rack system for deathcore?",
@@ -17535,7 +17447,7 @@ The Armory pack delivers double-braced stability and tip-over resistance for bot
     // Conclusion
     conclusion: {
       title: "Build a Rig That Survives Both Extremes",
-      content: `Deathcore hardware has to do something most genres never ask of it — survive sustained blast-beat vibration and maximum-force breakdown hits in the same song. Isaac Lamb, Ben Koller, and Tim Yeung didn't build their reputations on stands that could only handle half the job.
+      content: `Deathcore hardware has to do something most genres never ask of it — survive sustained blast-beat vibration and maximum-force breakdown hits in the same song. Ben Koller and Tim Yeung didn't build their reputations on stands that could only handle half the job.
 
 If you're building a compact, breakdown-focused deathcore kit, start with a heavy-duty standalone hardware pack like the DW 9000 Series or Tama Titan Series, and check your tom mounts specifically for creep — a reinforced mount like Pearl's Uni-Lock is often the cheapest fix for the most common failure point. If you're running a wider, technical kit for fill-heavy material, look at a rack system like Gibraltar's Road Series to cut down on stand count and setup time.
 
@@ -30843,12 +30755,11 @@ Start with a budget HCS Dark or Planet Z china to build your sense of dynamics, 
     // SEO metadata
     title: "Best China Cymbals for Deathcore: 2026 Ultimate Guide",
     metaTitle: "Best China Cymbals for Deathcore in 2026 | MetalForge Expert Guide",
-    description: "Discover the best china cymbals for deathcore's blast-into-breakdown structure. Expert recommendations on brutal, controlled accent cymbals for breakdowns and extreme-speed blast sections, featuring the exact chinas played by Chris Turner, Isaac Lamb, Ben Koller, and George Kollias.",
+    description: "Discover the best china cymbals for deathcore's blast-into-breakdown structure. Expert recommendations on brutal, controlled accent cymbals for breakdowns and extreme-speed blast sections, featuring the exact chinas played by Chris Turner, Ben Koller, and George Kollias.",
     seoKeywords: [
       'best china cymbal for deathcore',
       'china cymbal for deathcore drumming',
       'chris turner china cymbal',
-      'isaac lamb china cymbal',
       'ben koller china cymbal',
       'george kollias china cymbal',
       'meinl byzance china deathcore',
@@ -30880,13 +30791,12 @@ Start with a budget HCS Dark or Planet Z china to build your sense of dynamics, 
       title: "Why Deathcore Chinas Need Both Brutal Weight and Blast-Beat Speed",
       content: `Deathcore fuses death metal's blast beats and technical brutality with metalcore and hardcore's chugging, half-time breakdown pocket — and that split identity puts unusual demands on china choice. A single song can alternate between extreme-speed blast beat verses, where a china needs to stay controlled at 240+ BPM, and slower, syncopated breakdown sections built for moshing, where a dry, aggressive china needs to land with maximum weight rather than washing out.
 
-Chris Turner of Oceans Ate Alaska brings progressive metalcore's polyrhythmic precision to deathcore-adjacent territory on a Meinl Byzance Extra Dry China, engineered for the technical, blast-beat-driven fills documented on "Hikari" (2017). Isaac Lamb of Kublai Khan TX represents the breakdown-first end of deathcore's hardcore lineage on a Meinl Classics Custom Dark China, built for crushing, moshable breakdown weight. Ben Koller of Converge and Mutoid Man brings hardcore punk and mathcore's blistering speed on a Zildjian K Dark China, while George Kollias of Nile — whose documented 240+ BPM blast beats set the extreme-speed benchmark deathcore's blast sections measure themselves against — plays a Zildjian K Custom Dark China.
+Chris Turner of Oceans Ate Alaska brings progressive metalcore's polyrhythmic precision to deathcore-adjacent territory on a Meinl Byzance Extra Dry China, engineered for the technical, blast-beat-driven fills documented on "Hikari" (2017). Ben Koller of Converge and Mutoid Man brings hardcore punk and mathcore's blistering speed on a Zildjian K Dark China, while George Kollias of Nile — whose documented 240+ BPM blast beats set the extreme-speed benchmark deathcore's blast sections measure themselves against — plays a Zildjian K Custom Dark China.
 
 This guide breaks down what actually makes a china work for deathcore — dry control for breakdowns, brutal aggressive attack, or extreme-speed clarity — and recommends specific models across every budget, from a first dark china to the exact cymbals deathcore's closest lineage plays.`,
       keyPoints: [
         "Deathcore chinas must handle both extreme-speed blast beat verses and crushing, syncopated breakdown sections",
         "Chris Turner's Meinl Byzance Extra Dry China brings progressive metalcore precision to deathcore-adjacent blast-beat fills",
-        "Isaac Lamb's dark-voiced Meinl Classics Custom Dark China shows the breakdown-first, hardcore side of deathcore's china demands",
         "George Kollias's Zildjian K Custom Dark China sets the extreme-speed benchmark deathcore's fastest blast sections measure themselves against"
       ]
     },
@@ -30898,25 +30808,25 @@ This guide breaks down what actually makes a china work for deathcore — dry co
         {
           name: "Dry, Controlled Voicing for Breakdowns",
           icon: "🌫️",
-          description: "Deathcore's chugging, half-time breakdown sections need a china that doesn't wash into a wall of sustain. Isaac Lamb's Meinl Classics Custom Dark and Chris Turner's Meinl Byzance Extra Dry Chinas are both voiced with minimal ring, staying controlled through crushing, syncopated passages.",
+          description: "Deathcore's chugging, half-time breakdown sections need a china that doesn't wash into a wall of sustain. Chris Turner's Meinl Byzance Extra Dry China is voiced with minimal ring, staying controlled through crushing, syncopated passages.",
           recommendation: "Dark or Extra Dry-voiced chinas for controlled, low-sustain breakdown weight"
         },
         {
           name: "Brutal, Aggressive Attack",
           icon: "💀",
-          description: "A deathcore breakdown china needs to land like a hit, not a wash. Isaac Lamb's dark-voiced china delivers crushing, moshable weight without excess brightness — exactly what a beatdown-hardcore-descended breakdown demands.",
+          description: "A deathcore breakdown china needs to land like a hit, not a wash. Ben Koller's dark-voiced Zildjian K Dark China delivers crushing, moshable weight without excess brightness — exactly what a beatdown-hardcore-descended breakdown demands.",
           recommendation: "Explosive, dark-toned chinas that land with maximum brutal weight on breakdown accents"
         },
         {
           name: "Extreme-Speed Clarity for Blast Beats",
           icon: "⚡",
-          description: "A deathcore china has to stay clearly defined whether it's tracking a 240+ BPM blast pattern (George Kollias's K Custom Dark China) or a slow, riff-locked breakdown groove (Isaac Lamb's Classics Custom Dark).",
+          description: "A deathcore china has to stay clearly defined whether it's tracking a 240+ BPM blast pattern (George Kollias's K Custom Dark China) or a slow, riff-locked breakdown groove (Ben Koller's K Dark China).",
           recommendation: "A rapid-decay china for clear definition at extreme blast-beat tempo"
         },
         {
           name: "Brightness vs. Darkness Tradeoff",
           icon: "⚖️",
-          description: "Chris Turner's Meinl Byzance and George Kollias's Zildjian K Custom Dark lean brighter for cutting projection at speed, while Isaac Lamb's Meinl Classics Custom Dark and Ben Koller's Zildjian K Dark lean darker for a trashier, more crushing breakdown voice.",
+          description: "Chris Turner's Meinl Byzance and George Kollias's Zildjian K Custom Dark lean brighter for cutting projection at speed, while Ben Koller's Zildjian K Dark leans darker for a trashier, more crushing breakdown voice.",
           recommendation: "Brighter voicing for blast-beat cut; darker voicing for maximum breakdown weight"
         },
         {
@@ -30977,43 +30887,6 @@ Turner's progressive metalcore precision translates directly to deathcore's blas
         },
         {
           rank: 2,
-          name: "Meinl Classics Custom Dark China",
-          brand: "Meinl",
-          model: "18\" & 20\" Classics Custom Dark China",
-          image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg",
-          priceRange: "€120-190",
-          tier: "mid-pro",
-          driveType: "B10 Bronze, Dark",
-          description: `Isaac Lamb of Kublai Khan TX defines the breakdown-first, hardcore side of deathcore's china demands on an 18"-20" Meinl Classics Custom Dark China, delivering explosive, dark-toned accents on the band's heaviest breakdown sections.
-
-Lamb's beatdown hardcore background shows how a dark-voiced, moderately-priced china can deliver crushing breakdown weight without needing boutique B20 pricing — a real option for deathcore drummers prioritizing breakdown impact over blast-beat brightness.`,
-          pros: [
-            "Isaac Lamb's Kublai Khan TX setup — proven on crushing, moshable breakdown sections",
-            "Dark voicing delivers maximum breakdown weight without excess brightness",
-            "More accessible B10 bronze pricing than full B20 Byzance alternatives",
-            "Built for durability across an unbroken touring schedule since 2009"
-          ],
-          cons: [
-            "Less articulate at extreme blast-beat tempos than brighter B20 options",
-            "Darker voicing may need brighter cymbals layered in for technical sections",
-            "Less common outside North American retailers"
-          ],
-          specs: {
-            size: "18\" & 20\"",
-            alloy: "B10 Bronze",
-            finish: "Dark",
-            weight: "Medium",
-            mounting: "Standard or Inverted"
-          },
-          usedBy: [
-            { name: "Isaac Lamb", band: "Kublai Khan TX", note: "18\"-20\" Classics Custom Dark China — deathcore's crushing, breakdown-first voice" }
-          ],
-          verdict: "Best for breakdown-first deathcore. Lamb's dark, moderately-priced china delivers real moshable weight.",
-          rating: 4.5,
-          affiliateLink: "https://www.thomann.de/intl/meinl_classics_custom_dark_china_18_lamb.htm?partner_id=metalforge"
-        },
-        {
-          rank: 3,
           name: "Zildjian K Dark China",
           brand: "Zildjian",
           model: "18\" K Dark China",
@@ -31050,7 +30923,7 @@ Koller's approach prioritizes power and organic dynamics over trigger-augmented 
           affiliateLink: "https://www.thomann.de/intl/zildjian_k_dark_china_18_koller.htm?partner_id=metalforge"
         },
         {
-          rank: 4,
+          rank: 3,
           name: "Zildjian K Custom Dark China",
           brand: "Zildjian",
           model: "18\" K Custom Dark China",
@@ -31101,11 +30974,11 @@ This setup sets the extreme-speed benchmark deathcore's fastest blast sections m
           priceRange: "€50-70",
           tier: "budget",
           driveType: "Brass Alloy, Dark",
-          description: "Carries the same dark-voiced philosophy as Isaac Lamb's Classics Custom Dark setup at a fraction of the price, giving developing deathcore drummers a real starting point for building crushing breakdown china technique.",
+          description: "Carries the same dark-voiced philosophy as the genre's pro-tier dark china setups at a fraction of the price, giving developing deathcore drummers a real starting point for building crushing breakdown china technique.",
           pros: [
-            "Dark voicing similar to Lamb's pro Classics Custom Dark setup",
+            "Dark voicing similar to the genre's pro-tier dark china setups",
             "Affordable, widely available entry point",
-            "Good starting point before upgrading to Classics Custom Dark"
+            "Good starting point before upgrading to a pro-tier dark china"
           ],
           cons: [
             "Brass alloy lacks B10/B20's overtone complexity and durability",
@@ -31141,16 +31014,12 @@ This setup sets the extreme-speed benchmark deathcore's fastest blast sections m
 
     // Comparison
     comparison: {
-      title: "Meinl Byzance vs Meinl Classics Custom Dark vs Zildjian K Dark/K Custom Dark for Deathcore",
+      title: "Meinl Byzance vs Zildjian K Dark/K Custom Dark for Deathcore",
       content: `Deathcore's blast-into-breakdown split shows up clearly across its closest lineage's china choices:
 
 **Meinl Byzance Extra Dry (Chris Turner):**
 - Controlled, dry accents that stay defined at blast-beat speed
 - Best for: Technical, blast-beat-driven deathcore
-
-**Meinl Classics Custom Dark (Isaac Lamb):**
-- Dark, crushing weight at a more accessible B10 bronze price
-- Best for: Breakdown-first, hardcore-descended deathcore
 
 **Zildjian K Dark (Ben Koller):**
 - Rapid-decay, dark, versatile across both speed and breakdown weight
@@ -31160,7 +31029,7 @@ This setup sets the extreme-speed benchmark deathcore's fastest blast sections m
 - Explosive, extreme-speed clarity at 240+ BPM
 - Best for: Deathcore's fastest, most blast-beat-driven sections
 
-**Our Recommendation:** Start with a Meinl HCS Dark or Zildjian ZBT china if you're building deathcore technique on a budget. Choose Meinl Byzance Extra Dry for technical blast-and-breakdown balance, Meinl Classics Custom Dark for breakdown-first weight, or Zildjian K Custom Dark if your material is blast-beat-dominant.`,
+**Our Recommendation:** Start with a Meinl HCS Dark or Zildjian ZBT china if you're building deathcore technique on a budget. Choose Meinl Byzance Extra Dry for technical blast-and-breakdown balance, Zildjian K Dark for organic breakdown weight, or Zildjian K Custom Dark if your material is blast-beat-dominant.`,
       comparisonTable: [
         { feature: "Breakdown Weight/Darkness", directDrive: "⭐⭐⭐⭐", chainDrive: "⭐⭐⭐⭐⭐" },
         { feature: "Extreme-Speed Clarity", directDrive: "⭐⭐⭐⭐⭐", chainDrive: "⭐⭐⭐" },
@@ -31177,11 +31046,6 @@ This setup sets the extreme-speed benchmark deathcore's fastest blast sections m
           category: "Best Overall",
           pedal: "Meinl Byzance Extra Dry China",
           reason: "Chris Turner's Oceans Ate Alaska setup — controlled, technical precision across deathcore's blast-into-breakdown structure."
-        },
-        {
-          category: "Best for Breakdown-First Deathcore",
-          pedal: "Meinl Classics Custom Dark China",
-          reason: "Isaac Lamb's Kublai Khan TX setup — crushing, moshable weight at a more accessible price."
         },
         {
           category: "Best for Extreme-Speed Blast Beats",
@@ -31204,7 +31068,6 @@ This setup sets the extreme-speed benchmark deathcore's fastest blast sections m
     ],
     relatedDrummers: [
       { slug: 'chris-turner', name: 'Chris Turner', reason: 'Meinl Byzance Extra Dry China — Oceans Ate Alaska\'s blast-beat-driven precision' },
-      { slug: 'isaac-lamb', name: 'Isaac Lamb', reason: 'Meinl Classics Custom Dark China — Kublai Khan TX\'s crushing breakdown weight' },
       { slug: 'ben-koller', name: 'Ben Koller', reason: 'Zildjian K Dark China — Converge\'s hardcore/mathcore intensity' },
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian K Custom Dark China — Nile\'s 240+ BPM blast-beat benchmark' }
     ],
@@ -31217,10 +31080,6 @@ This setup sets the extreme-speed benchmark deathcore's fastest blast sections m
         answer: "Chris Turner of Oceans Ate Alaska plays an 18\"-20\" Meinl Byzance Extra Dry China, engineered for the technical, blast-beat-driven fills documented on Oceans Ate Alaska's \"Hikari\" (2017)."
       },
       {
-        question: "What china cymbal does Isaac Lamb use?",
-        answer: "Isaac Lamb of Kublai Khan TX plays an 18\"-20\" Meinl Classics Custom Dark China, delivering crushing, dark-toned accents built for the band's heaviest, moshable breakdown sections."
-      },
-      {
         question: "What china cymbal does George Kollias use?",
         answer: "George Kollias of Nile plays an 18\" Zildjian K Custom Dark China as part of a setup built for extreme-speed clarity, sustaining blast beats past 240 BPM — the benchmark deathcore's fastest blast sections measure themselves against."
       },
@@ -31230,14 +31089,14 @@ This setup sets the extreme-speed benchmark deathcore's fastest blast sections m
       },
       {
         question: "What's the best budget china cymbal for deathcore?",
-        answer: "The Meinl HCS Dark China (€50-70) carries the same dark-voiced philosophy as Isaac Lamb's pro Classics Custom Dark setup at a fraction of the price. The Zildjian ZBT China (€70-90) offers a budget path into the K Dark/K Custom Dark family sound."
+        answer: "The Meinl HCS Dark China (€50-70) carries the same dark-voiced philosophy as the genre's pro-tier dark china setups at a fraction of the price. The Zildjian ZBT China (€70-90) offers a budget path into the K Dark/K Custom Dark family sound."
       }
     ],
 
     // Conclusion
     conclusion: {
       title: "Build a China That Handles Both Extremes",
-      content: `Deathcore china choice comes down to serving two opposing demands from the same cymbal: extreme-speed clarity for blast beat verses and crushing, dry weight for breakdown sections. Chris Turner's Meinl Byzance Extra Dry China and George Kollias's Zildjian K Custom Dark China both prove a bright, controlled voice can handle blast-beat velocity, while Isaac Lamb's Meinl Classics Custom Dark and Ben Koller's Zildjian K Dark show how a darker, more crushing voice serves the genre's breakdown-first lineage.
+      content: `Deathcore china choice comes down to serving two opposing demands from the same cymbal: extreme-speed clarity for blast beat verses and crushing, dry weight for breakdown sections. Chris Turner's Meinl Byzance Extra Dry China and George Kollias's Zildjian K Custom Dark China both prove a bright, controlled voice can handle blast-beat velocity, while Ben Koller's Zildjian K Dark shows how a darker, more crushing voice serves the genre's breakdown-first lineage.
 
 Start with a Meinl HCS Dark or Zildjian ZBT china to build technique across both extremes, and upgrade to a full pro-tier china once your material demands the extra control.
 
@@ -40674,12 +40533,11 @@ Start with a 21"-22" dark or warm-toned ride, and step up to a Mega Bell design 
     // SEO metadata
     title: "Best Ride Cymbals for Deathcore: 2026 Ultimate Guide",
     metaTitle: "Best Ride Cymbals for Deathcore in 2026 | MetalForge Expert Guide",
-    description: "Discover the best ride cymbals for deathcore drumming. Expert recommendations on cutting, aggressive ping built for fast footwork and blast-into-breakdown structure, featuring the exact rides used by Chris Turner, Isaac Lamb, Ben Koller, and George Kollias.",
+    description: "Discover the best ride cymbals for deathcore drumming. Expert recommendations on cutting, aggressive ping built for fast footwork and blast-into-breakdown structure, featuring the exact rides used by Chris Turner, Ben Koller, and George Kollias.",
     seoKeywords: [
       'best ride cymbal for deathcore',
       'ride cymbal for deathcore drumming',
       'chris turner ride cymbal oceans ate alaska',
-      'isaac lamb ride cymbal kublai khan',
       'ben koller ride cymbal converge',
       'george kollias ride cymbal nile',
       'meinl byzance dual ride deathcore',
@@ -40711,13 +40569,12 @@ Start with a 21"-22" dark or warm-toned ride, and step up to a Mega Bell design 
       title: "Why Deathcore Rides Need to Survive Both Blasts and Breakdowns",
       content: `Deathcore fuses death metal's blast beats and technical brutality with metalcore and hardcore's chugging, half-time breakdown pocket — and that split identity puts unusual demands on a ride cymbal. A single song can alternate between extreme-speed blast beat verses, where the ride needs to stay articulate at 240+ BPM under relentless fast footwork, and slower, syncopated breakdown sections where a cutting, aggressive ping needs to land with maximum weight rather than washing out.
 
-Chris Turner of Oceans Ate Alaska rides a 22" Meinl Byzance Dual Ride, engineered for the technical, blast-beat-driven fills documented on Oceans Ate Alaska's "Hikari" (2017). Isaac Lamb of Kublai Khan TX represents the breakdown-first end of deathcore's hardcore lineage on a 21" Meinl Classics Custom Dark Ride, built for crushing, moshable breakdown weight. Ben Koller of Converge and Mutoid Man rides a 21" Zildjian K Custom Ride for hardcore punk and mathcore's blistering speed and dynamic range. George Kollias of Nile — whose documented 240+ BPM blast beats set the extreme-speed benchmark deathcore's blast sections measure themselves against — rounds out the lineup on a 21" Zildjian A Custom Mega Bell Ride.
+Chris Turner of Oceans Ate Alaska rides a 22" Meinl Byzance Dual Ride, engineered for the technical, blast-beat-driven fills documented on Oceans Ate Alaska's "Hikari" (2017). Ben Koller of Converge and Mutoid Man rides a 21" Zildjian K Custom Ride for hardcore punk and mathcore's blistering speed and dynamic range. George Kollias of Nile — whose documented 240+ BPM blast beats set the extreme-speed benchmark deathcore's blast sections measure themselves against — rounds out the lineup on a 21" Zildjian A Custom Mega Bell Ride.
 
 This guide breaks down what actually makes a ride work for deathcore — cutting articulation at extreme tempo, aggressive ping for breakdown accents, and durability under relentless fast footwork — and recommends specific models across every budget, from a first upgrade off a stock cymbal pack to the exact rides deathcore's closest working lineage rides night after night.`,
       keyPoints: [
         "Deathcore rides need both extreme-speed blast beat clarity and cutting, aggressive ping for breakdown accents",
         "Chris Turner's Meinl Byzance Dual Ride balances articulation and breakdown cut for technical, blast-beat-driven fills",
-        "Isaac Lamb's dark-voiced Meinl Classics Custom Dark Ride shows the breakdown-first, hardcore side of deathcore's ride demands",
         "George Kollias's Zildjian A Custom Mega Bell Ride sets the extreme-speed benchmark deathcore's fastest blast sections measure themselves against"
       ]
     },
@@ -40729,7 +40586,7 @@ This guide breaks down what actually makes a ride work for deathcore — cutting
         {
           name: "Cutting, Aggressive Ping",
           icon: "🎯",
-          description: "Deathcore's chugging, half-time breakdown sections need a ride that lands with a cutting, aggressive ping rather than washing into a wall of sustain. Isaac Lamb's Meinl Classics Custom Dark Ride is voiced with minimal ring, staying controlled through crushing, syncopated passages.",
+          description: "Deathcore's chugging, half-time breakdown sections need a ride that lands with a cutting, aggressive ping rather than washing into a wall of sustain. A dark or dry-voiced ride is voiced with minimal ring, staying controlled through crushing, syncopated passages.",
           recommendation: "Dark or dry-voiced rides for controlled, low-sustain breakdown weight"
         },
         {
@@ -40808,43 +40665,6 @@ The Dual Ride's flexible articulation across shifting time signatures gives drum
         },
         {
           rank: 2,
-          name: "Meinl Classics Custom Dark Ride",
-          brand: "Meinl",
-          model: "21\" Classics Custom Dark Ride",
-          image: "https://upload.wikimedia.org/wikipedia/commons/3/31/Cymbal_Hammering.JPG",
-          priceRange: "€150-190",
-          tier: "mid-pro",
-          driveType: "B10 Bronze, Dark",
-          description: `Isaac Lamb of Kublai Khan TX defines the breakdown-first, hardcore side of deathcore's ride demands on a 21" Meinl Classics Custom Dark Ride, delivering rhythmic definition on the band's heaviest, most crushing sections.
-
-Lamb's beatdown hardcore background shows how a dark-voiced, moderately-priced ride can deliver crushing breakdown weight without needing boutique B20 pricing — a real option for deathcore drummers prioritizing breakdown impact over blast-beat brightness.`,
-          pros: [
-            "Isaac Lamb's Kublai Khan TX setup — proven on crushing, moshable breakdown sections",
-            "Dark voicing delivers maximum breakdown weight without excess brightness",
-            "More accessible B10 bronze pricing than full B20 alternatives",
-            "Built for durability across an unbroken touring schedule since 2009"
-          ],
-          cons: [
-            "Less articulate at extreme blast-beat tempos than brighter B20 options",
-            "Darker voicing may need a brighter ride layered in for technical sections",
-            "Less common outside North American retailers"
-          ],
-          specs: {
-            size: "21\"",
-            alloy: "B10 Bronze",
-            finish: "Dark",
-            bell: "Standard",
-            weight: "Medium"
-          },
-          usedBy: [
-            { name: "Isaac Lamb", band: "Kublai Khan TX", note: "21\" Classics Custom Dark Ride — deathcore's crushing, breakdown-first ride voice" }
-          ],
-          verdict: "Best for breakdown-first deathcore. Lamb's dark, moderately-priced ride delivers real moshable weight.",
-          rating: 4.5,
-          affiliateLink: "https://www.thomann.de/intl/meinl_classics_custom_dark_ride_21_lamb.htm?partner_id=metalforge"
-        },
-        {
-          rank: 3,
           name: "Zildjian K Custom Ride",
           brand: "Zildjian",
           model: "21\" K Custom Ride",
@@ -40881,7 +40701,7 @@ Koller's approach prioritizes power and organic dynamics over trigger-augmented 
           affiliateLink: "https://www.thomann.de/intl/zildjian_k_custom_ride_21_koller.htm?partner_id=metalforge"
         },
         {
-          rank: 4,
+          rank: 3,
           name: "Zildjian A Custom Mega Bell Ride",
           brand: "Zildjian",
           model: "21\" A Custom Mega Bell Ride",
@@ -40932,7 +40752,7 @@ This ride sets the extreme-speed benchmark deathcore's fastest blast sections me
           priceRange: "€40-60",
           tier: "budget",
           driveType: "Brass",
-          description: "The Meinl HCS Ride carries the same brand DNA as Chris Turner's and Isaac Lamb's professional Meinl setups at a fraction of the price, giving developing deathcore drummers a real starting point for both blast and breakdown technique.",
+          description: "The Meinl HCS Ride carries the same brand DNA as Chris Turner's professional Meinl setup at a fraction of the price, giving developing deathcore drummers a real starting point for both blast and breakdown technique.",
           pros: ["Same Meinl brand lineage as pro deathcore setups", "Affordable, widely available entry point", "Genuinely playable for developing players"],
           cons: ["Brass alloy lacks the complexity of B20 bronze", "Less durable under extreme, repeated impact"],
           verdict: "Best budget entry into deathcore's Meinl-based ride sound.",
@@ -40972,7 +40792,7 @@ This ride sets the extreme-speed benchmark deathcore's fastest blast sections me
 
     // Comparison
     comparison: {
-      title: "Meinl Byzance vs Meinl Classics Custom Dark vs Zildjian K/A Custom for Deathcore",
+      title: "Meinl Byzance vs Zildjian K/A Custom for Deathcore",
       content: `B20 bronze construction stays common across deathcore's closest lineage, but voicing and brand choice split these drummers into distinct camps. Here's how they compare:
 
 **Meinl Byzance Dual Ride (Chris Turner):**
@@ -40980,17 +40800,12 @@ This ride sets the extreme-speed benchmark deathcore's fastest blast sections me
 - Stays controlled through syncopated breakdown accents
 - Best for technical, blast-beat-driven deathcore
 
-**Meinl Classics Custom Dark Ride (Isaac Lamb):**
-- Dark voicing for maximum breakdown weight
-- More accessible B10 bronze pricing
-- Best for breakdown-first, hardcore-leaning deathcore
-
 **Zildjian K Custom / A Custom Mega Bell (Ben Koller, George Kollias):**
 - Versatile B20 bronze rides spanning organic dynamics to extreme-speed clarity
 - K Custom favors dynamic range; A Custom Mega Bell favors blast-beat definition
 - Best for drummers who need both extreme speed and crushing breakdown weight
 
-**Our Recommendation:** Start with a Meinl HCS or Zildjian ZBT ride if you're building deathcore technique on a budget. Choose Isaac Lamb's Meinl Classics Custom Dark Ride if your priority is breakdown weight. Go with George Kollias's Zildjian A Custom Mega Bell Ride if you need to sustain deathcore's absolute fastest blast sections.`,
+**Our Recommendation:** Start with a Meinl HCS or Zildjian ZBT ride if you're building deathcore technique on a budget. Choose Chris Turner's Meinl Byzance Dual Ride for technical blast-and-breakdown balance. Go with George Kollias's Zildjian A Custom Mega Bell Ride if you need to sustain deathcore's absolute fastest blast sections.`,
       comparisonTable: [
         { feature: "Blast Beat Clarity", maple: "⭐⭐⭐⭐", hybrid: "⭐⭐⭐", dual: "⭐⭐⭐⭐⭐" },
         { feature: "Breakdown Weight", maple: "⭐⭐⭐⭐", hybrid: "⭐⭐⭐⭐⭐", dual: "⭐⭐⭐⭐" },
@@ -41007,11 +40822,6 @@ This ride sets the extreme-speed benchmark deathcore's fastest blast sections me
           category: "Best Overall",
           pedal: "Meinl Byzance Dual Ride",
           reason: "Chris Turner's Oceans Ate Alaska setup — balances blast-beat articulation and breakdown cut."
-        },
-        {
-          category: "Best for Breakdown Weight",
-          pedal: "Meinl Classics Custom Dark Ride",
-          reason: "Isaac Lamb's Kublai Khan TX setup — crushing, moshable dark voicing at accessible pricing."
         },
         {
           category: "Best for Extreme Speed",
@@ -41035,7 +40845,6 @@ This ride sets the extreme-speed benchmark deathcore's fastest blast sections me
     ],
     relatedDrummers: [
       { slug: 'chris-turner', name: 'Chris Turner', reason: '22" Meinl Byzance Dual Ride — Oceans Ate Alaska technical precision' },
-      { slug: 'isaac-lamb', name: 'Isaac Lamb', reason: '21" Meinl Classics Custom Dark Ride — Kublai Khan TX breakdown weight' },
       { slug: 'ben-koller', name: 'Ben Koller', reason: '21" Zildjian K Custom Ride — Converge organic power' },
       { slug: 'george-kollias', name: 'George Kollias', reason: '21" Zildjian A Custom Mega Bell Ride — Nile 240+ BPM benchmark' }
     ],
@@ -41043,7 +40852,6 @@ This ride sets the extreme-speed benchmark deathcore's fastest blast sections me
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'chris-turner', name: 'Chris Turner', reason: 'Meinl Byzance Dual Ride for Oceans Ate Alaska' },
-      { slug: 'isaac-lamb', name: 'Isaac Lamb', reason: 'Meinl Classics Custom Dark Ride for Kublai Khan TX' },
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian A Custom Mega Bell Ride for Nile' }
     ],
     relatedComparisons: [],
@@ -41060,22 +40868,22 @@ This ride sets the extreme-speed benchmark deathcore's fastest blast sections me
       },
       {
         question: "What size ride cymbal is best for deathcore?",
-        answer: "21\"-22\" is the deathcore standard. Isaac Lamb, Ben Koller, and George Kollias all ride 21\" for quick response, while Chris Turner's 22\" Byzance Dual Ride leans into a bit more low-end body."
+        answer: "21\"-22\" is the deathcore standard. Ben Koller and George Kollias both ride 21\" for quick response, while Chris Turner's 22\" Byzance Dual Ride leans into a bit more low-end body."
       },
       {
         question: "Do I need a Mega Bell ride for deathcore?",
-        answer: "Not necessarily. A Mega Bell design like George Kollias's Zildjian A Custom Mega Bell is a genuine upgrade if you need extreme-speed bell accents. If breakdown weight matters more, Isaac Lamb's Meinl Classics Custom Dark Ride is the better fit."
+        answer: "Not necessarily. A Mega Bell design like George Kollias's Zildjian A Custom Mega Bell is a genuine upgrade if you need extreme-speed bell accents. If breakdown weight matters more, a dark-voiced ride is the better fit."
       },
       {
         question: "What's the best budget ride cymbal for deathcore?",
-        answer: "The Meinl HCS Ride (€40-60) delivers a genuinely playable starting point at a true beginner price, carrying the same Meinl brand DNA as Chris Turner's and Isaac Lamb's professional setups."
+        answer: "The Meinl HCS Ride (€40-60) delivers a genuinely playable starting point at a true beginner price, carrying the same Meinl brand DNA as Chris Turner's professional setup."
       }
     ],
 
     // Conclusion
     conclusion: {
       title: "Find the Ride That Survives Both Blasts and Breakdowns",
-      content: `Deathcore ride choice comes down to one core idea: extreme-speed clarity versus crushing breakdown weight. Whether you build around Chris Turner's flexible Meinl Byzance Dual Ride, Isaac Lamb's dark, breakdown-first Classics Custom Dark Ride, or George Kollias's extreme-speed Zildjian A Custom Mega Bell Ride, the right ride has to survive deathcore's blast-into-breakdown structure without buckling on either end.
+      content: `Deathcore ride choice comes down to one core idea: extreme-speed clarity versus crushing breakdown weight. Whether you build around Chris Turner's flexible Meinl Byzance Dual Ride, Ben Koller's dark, versatile Zildjian K Custom Ride, or George Kollias's extreme-speed Zildjian A Custom Mega Bell Ride, the right ride has to survive deathcore's blast-into-breakdown structure without buckling on either end.
 
 Start with a 21"-22" pro ride, and specialize toward a Mega Bell or Dark-voiced design once you know exactly what your deathcore playing demands.
 
@@ -48740,12 +48548,11 @@ Start with one dark, heavy crash in the 18"-19" range, and add a second voicing 
     // SEO metadata
     title: "Best Crash Cymbals for Deathcore: 2026 Ultimate Guide",
     metaTitle: "Best Crash Cymbals for Deathcore in 2026 | MetalForge Expert Guide",
-    description: "Discover the best crash cymbals for deathcore's blast-into-breakdown structure. Expert recommendations on brutal, controlled crashes for breakdowns and extreme-speed blast sections, featuring the exact crashes played by Chris Turner, Isaac Lamb, Ben Koller, and George Kollias.",
+    description: "Discover the best crash cymbals for deathcore's blast-into-breakdown structure. Expert recommendations on brutal, controlled crashes for breakdowns and extreme-speed blast sections, featuring the exact crashes played by Chris Turner, Ben Koller, and George Kollias.",
     seoKeywords: [
       'best crash cymbal for deathcore',
       'crash cymbal for deathcore drumming',
       'chris turner crash cymbal',
-      'isaac lamb crash cymbal',
       'ben koller crash cymbal',
       'george kollias crash cymbal',
       'meinl byzance crash deathcore',
@@ -48777,13 +48584,12 @@ Start with one dark, heavy crash in the 18"-19" range, and add a second voicing 
       title: "Why Deathcore Crashes Need Both Brutal Weight and Blast-Beat Speed",
       content: `Deathcore fuses death metal's blast beats and technical brutality with metalcore and hardcore's chugging, half-time breakdown pocket — and that split identity puts unusual demands on crash choice. A single song can alternate between extreme-speed blast beat verses, where a crash needs to stay controlled at 240+ BPM, and slower, syncopated breakdown sections built for moshing, where a dry, aggressive crash needs to land with maximum weight rather than washing out.
 
-Chris Turner of Oceans Ate Alaska brings progressive metalcore's polyrhythmic precision to deathcore-adjacent territory on 18" & 20" Meinl Byzance Extra Dry Medium Crashes, engineered for the technical, blast-beat-driven fills documented on "Hikari" (2017). Isaac Lamb of Kublai Khan TX represents the breakdown-first end of deathcore's hardcore lineage on 18" & 20" Meinl Classics Custom Dark Crashes, built for crushing, moshable breakdown weight. Ben Koller of Converge and Mutoid Man brings hardcore punk and mathcore's blistering speed on 18" & 19" Zildjian K Dark Medium Thin Crashes, while George Kollias of Nile — whose documented 240+ BPM blast beats set the extreme-speed benchmark deathcore's blast sections measure themselves against — plays 17" & 18" Zildjian K Custom Dark Crashes.
+Chris Turner of Oceans Ate Alaska brings progressive metalcore's polyrhythmic precision to deathcore-adjacent territory on 18" & 20" Meinl Byzance Extra Dry Medium Crashes, engineered for the technical, blast-beat-driven fills documented on "Hikari" (2017). Ben Koller of Converge and Mutoid Man brings hardcore punk and mathcore's blistering speed on 18" & 19" Zildjian K Dark Medium Thin Crashes, while George Kollias of Nile — whose documented 240+ BPM blast beats set the extreme-speed benchmark deathcore's blast sections measure themselves against — plays 17" & 18" Zildjian K Custom Dark Crashes.
 
 This guide breaks down what actually makes a crash work for deathcore — dry control for breakdowns, brutal aggressive attack, or extreme-speed clarity — and recommends specific models across every budget, from a first dark crash to the exact cymbals deathcore's closest lineage plays.`,
       keyPoints: [
         "Deathcore crashes must handle both extreme-speed blast beat verses and crushing, syncopated breakdown sections",
         "Chris Turner's Meinl Byzance Extra Dry Medium Crashes bring progressive metalcore precision to deathcore-adjacent blast-beat fills",
-        "Isaac Lamb's dark-voiced Meinl Classics Custom Dark Crashes show the breakdown-first, hardcore side of deathcore's crash demands",
         "George Kollias's Zildjian K Custom Dark Crashes set the extreme-speed benchmark deathcore's fastest blast sections measure themselves against"
       ]
     },
@@ -48795,25 +48601,25 @@ This guide breaks down what actually makes a crash work for deathcore — dry co
         {
           name: "Dry, Controlled Voicing for Breakdowns",
           icon: "🌫️",
-          description: "Deathcore's chugging, half-time breakdown sections need a crash that doesn't wash into a wall of sustain. Isaac Lamb's Meinl Classics Custom Dark and Chris Turner's Meinl Byzance Extra Dry Medium Crashes are both voiced with minimal ring, staying controlled through crushing, syncopated passages.",
+          description: "Deathcore's chugging, half-time breakdown sections need a crash that doesn't wash into a wall of sustain. Chris Turner's Meinl Byzance Extra Dry Medium Crashes are voiced with minimal ring, staying controlled through crushing, syncopated passages.",
           recommendation: "Dark or Extra Dry-voiced crashes for controlled, low-sustain breakdown weight"
         },
         {
           name: "Brutal, Aggressive Attack",
           icon: "💀",
-          description: "A deathcore breakdown crash needs to land like a hit, not a wash. Isaac Lamb's dark-voiced crashes deliver crushing, moshable weight without excess brightness — exactly what a beatdown-hardcore-descended breakdown demands.",
+          description: "A deathcore breakdown crash needs to land like a hit, not a wash. Ben Koller's dark-voiced Zildjian K Dark Medium Thin Crashes deliver crushing, moshable weight without excess brightness — exactly what a beatdown-hardcore-descended breakdown demands.",
           recommendation: "Explosive, dark-toned crashes that land with maximum brutal weight on breakdown accents"
         },
         {
           name: "Extreme-Speed Clarity for Blast Beats",
           icon: "⚡",
-          description: "A deathcore crash has to stay clearly defined whether it's tracking a 240+ BPM blast pattern (George Kollias's K Custom Dark Crashes) or a slow, riff-locked breakdown groove (Isaac Lamb's Classics Custom Dark).",
+          description: "A deathcore crash has to stay clearly defined whether it's tracking a 240+ BPM blast pattern (George Kollias's K Custom Dark Crashes) or a slow, riff-locked breakdown groove (Ben Koller's K Dark Medium Thin Crashes).",
           recommendation: "A rapid-decay crash for clear definition at extreme blast-beat tempo"
         },
         {
           name: "Brightness vs. Darkness Tradeoff",
           icon: "⚖️",
-          description: "Chris Turner's Meinl Byzance and George Kollias's Zildjian K Custom Dark lean brighter for cutting projection at speed, while Isaac Lamb's Meinl Classics Custom Dark and Ben Koller's Zildjian K Dark lean darker for a trashier, more crushing breakdown voice.",
+          description: "Chris Turner's Meinl Byzance and George Kollias's Zildjian K Custom Dark lean brighter for cutting projection at speed, while Ben Koller's Zildjian K Dark leans darker for a trashier, more crushing breakdown voice.",
           recommendation: "Brighter voicing for blast-beat cut; darker voicing for maximum breakdown weight"
         },
         {
@@ -48874,43 +48680,6 @@ Turner's progressive metalcore precision translates directly to deathcore's blas
         },
         {
           rank: 2,
-          name: "Meinl Classics Custom Dark Crash",
-          brand: "Meinl",
-          model: "18\" & 20\" Classics Custom Dark Crash",
-          image: "https://upload.wikimedia.org/wikipedia/commons/8/8f/Avedis_Zildjian_Cymbal.jpg",
-          priceRange: "€130-200",
-          tier: "mid-pro",
-          driveType: "B10 Bronze, Dark",
-          description: `Isaac Lamb of Kublai Khan TX defines the breakdown-first, hardcore side of deathcore's crash demands on 18" and 20" Meinl Classics Custom Dark Crashes, delivering explosive, dark-toned accents on the band's heaviest breakdown sections.
-
-Lamb's beatdown hardcore background shows how a dark-voiced, moderately-priced crash can deliver crushing breakdown weight without needing boutique B20 pricing — a real option for deathcore drummers prioritizing breakdown impact over blast-beat brightness.`,
-          pros: [
-            "Isaac Lamb's Kublai Khan TX setup — proven on crushing, moshable breakdown sections",
-            "Dark voicing delivers maximum breakdown weight without excess brightness",
-            "More accessible B10 bronze pricing than full B20 Byzance alternatives",
-            "Built for durability across an unbroken touring schedule since 2009"
-          ],
-          cons: [
-            "Less articulate at extreme blast-beat tempos than brighter B20 options",
-            "Darker voicing may need brighter cymbals layered in for technical sections",
-            "Less common outside North American retailers"
-          ],
-          specs: {
-            size: "18\" & 20\"",
-            alloy: "B10 Bronze",
-            finish: "Dark",
-            weight: "Medium",
-            decay: "Dark, crushing"
-          },
-          usedBy: [
-            { name: "Isaac Lamb", band: "Kublai Khan TX", note: "18\" & 20\" Classics Custom Dark Crashes — deathcore's crushing, breakdown-first voice" }
-          ],
-          verdict: "Best for breakdown-first deathcore. Lamb's dark, moderately-priced crash delivers real moshable weight.",
-          rating: 4.5,
-          affiliateLink: "https://www.thomann.de/intl/meinl_classics_custom_dark_crash_18_lamb.htm?partner_id=metalforge"
-        },
-        {
-          rank: 3,
           name: "Zildjian K Dark Medium Thin Crash",
           brand: "Zildjian",
           model: "18\" & 19\" K Dark Medium Thin Crash",
@@ -48947,7 +48716,7 @@ Koller's approach prioritizes power and organic dynamics over trigger-augmented 
           affiliateLink: "https://www.thomann.de/intl/zildjian_k_dark_medium_thin_crash_18_koller.htm?partner_id=metalforge"
         },
         {
-          rank: 4,
+          rank: 3,
           name: "Zildjian K Custom Dark Crash",
           brand: "Zildjian",
           model: "17\" & 18\" K Custom Dark Crash",
@@ -48998,11 +48767,11 @@ This setup sets the extreme-speed benchmark deathcore's fastest blast sections m
           priceRange: "€45-65",
           tier: "budget",
           driveType: "Brass Alloy, Dark",
-          description: "Carries the same dark-voiced philosophy as Isaac Lamb's Classics Custom Dark setup at a fraction of the price, giving developing deathcore drummers a real starting point for building crushing breakdown crash technique.",
+          description: "Carries the same dark-voiced philosophy as the genre's pro-tier dark crash setups at a fraction of the price, giving developing deathcore drummers a real starting point for building crushing breakdown crash technique.",
           pros: [
-            "Dark voicing similar to Lamb's pro Classics Custom Dark setup",
+            "Dark voicing similar to the genre's pro-tier dark crash setups",
             "Affordable, widely available entry point",
-            "Good starting point before upgrading to Classics Custom Dark"
+            "Good starting point before upgrading to a pro-tier dark crash"
           ],
           cons: [
             "Brass alloy lacks B10/B20's overtone complexity and durability",
@@ -49038,16 +48807,12 @@ This setup sets the extreme-speed benchmark deathcore's fastest blast sections m
 
     // Comparison
     comparison: {
-      title: "Meinl Byzance vs Meinl Classics Custom Dark vs Zildjian K Dark/K Custom Dark for Deathcore",
+      title: "Meinl Byzance vs Zildjian K Dark/K Custom Dark for Deathcore",
       content: `Deathcore's blast-into-breakdown split shows up clearly across its closest lineage's crash choices:
 
 **Meinl Byzance Extra Dry Medium (Chris Turner):**
 - Controlled, dry accents that stay defined at blast-beat speed
 - Best for: Technical, blast-beat-driven deathcore
-
-**Meinl Classics Custom Dark (Isaac Lamb):**
-- Dark, crushing weight at a more accessible B10 bronze price
-- Best for: Breakdown-first, hardcore-descended deathcore
 
 **Zildjian K Dark (Ben Koller):**
 - Rapid-decay, dark, versatile across both speed and breakdown weight
@@ -49057,7 +48822,7 @@ This setup sets the extreme-speed benchmark deathcore's fastest blast sections m
 - Explosive, extreme-speed clarity at 240+ BPM
 - Best for: Deathcore's fastest, most blast-beat-driven sections
 
-**Our Recommendation:** Start with a Meinl HCS Dark or Zildjian ZBT crash if you're building deathcore technique on a budget. Choose Meinl Byzance Extra Dry Medium for technical blast-and-breakdown balance, Meinl Classics Custom Dark for breakdown-first weight, or Zildjian K Custom Dark if your material is blast-beat-dominant.`,
+**Our Recommendation:** Start with a Meinl HCS Dark or Zildjian ZBT crash if you're building deathcore technique on a budget. Choose Meinl Byzance Extra Dry Medium for technical blast-and-breakdown balance, Zildjian K Dark for organic breakdown weight, or Zildjian K Custom Dark if your material is blast-beat-dominant.`,
       comparisonTable: [
         { feature: "Breakdown Weight/Darkness", directDrive: "⭐⭐⭐⭐", chainDrive: "⭐⭐⭐⭐⭐" },
         { feature: "Extreme-Speed Clarity", directDrive: "⭐⭐⭐⭐⭐", chainDrive: "⭐⭐⭐" },
@@ -49074,11 +48839,6 @@ This setup sets the extreme-speed benchmark deathcore's fastest blast sections m
           category: "Best Overall",
           pedal: "Meinl Byzance Extra Dry Medium Crash",
           reason: "Chris Turner's Oceans Ate Alaska setup — controlled, technical precision across deathcore's blast-into-breakdown structure."
-        },
-        {
-          category: "Best for Breakdown-First Deathcore",
-          pedal: "Meinl Classics Custom Dark Crash",
-          reason: "Isaac Lamb's Kublai Khan TX setup — crushing, moshable weight at a more accessible price."
         },
         {
           category: "Best for Extreme-Speed Blast Beats",
@@ -49103,7 +48863,6 @@ This setup sets the extreme-speed benchmark deathcore's fastest blast sections m
     ],
     relatedDrummers: [
       { slug: 'chris-turner', name: 'Chris Turner', reason: 'Meinl Byzance Extra Dry Medium Crash — Oceans Ate Alaska\'s blast-beat-driven precision' },
-      { slug: 'isaac-lamb', name: 'Isaac Lamb', reason: 'Meinl Classics Custom Dark Crash — Kublai Khan TX\'s crushing breakdown weight' },
       { slug: 'ben-koller', name: 'Ben Koller', reason: 'Zildjian K Dark Medium Thin Crash — Converge\'s hardcore/mathcore intensity' },
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian K Custom Dark Crash — Nile\'s 240+ BPM blast-beat benchmark' }
     ],
@@ -49111,7 +48870,6 @@ This setup sets the extreme-speed benchmark deathcore's fastest blast sections m
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'chris-turner', name: 'Chris Turner', reason: 'Meinl Byzance Extra Dry Medium Crash — Oceans Ate Alaska\'s blast-beat-driven precision' },
-      { slug: 'isaac-lamb', name: 'Isaac Lamb', reason: 'Meinl Classics Custom Dark Crash — Kublai Khan TX\'s crushing breakdown weight' },
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian K Custom Dark Crash — Nile\'s 240+ BPM blast-beat benchmark' }
     ],
     relatedComparisons: [],
@@ -49123,27 +48881,23 @@ This setup sets the extreme-speed benchmark deathcore's fastest blast sections m
         answer: "Chris Turner of Oceans Ate Alaska plays 18\" and 20\" Meinl Byzance Extra Dry Medium Crashes, engineered for the technical, blast-beat-driven fills documented on Oceans Ate Alaska's \"Hikari\" (2017)."
       },
       {
-        question: "What crash cymbal does Isaac Lamb use?",
-        answer: "Isaac Lamb of Kublai Khan TX plays 18\" and 20\" Meinl Classics Custom Dark Crashes, delivering crushing, dark-toned accents built for the band's heaviest, moshable breakdown sections."
-      },
-      {
         question: "What crash cymbal does George Kollias use?",
         answer: "George Kollias of Nile plays 17\" and 18\" Zildjian K Custom Dark Crashes as part of a setup built for extreme-speed clarity, sustaining blast beats past 240 BPM — the benchmark deathcore's fastest blast sections measure themselves against."
       },
       {
         question: "What crash cymbal is best for deathcore breakdowns specifically?",
-        answer: "Isaac Lamb's Meinl Classics Custom Dark Crash is the clearest breakdown-first pick, voiced with minimal ring for crushing, moshable weight. Ben Koller's Zildjian K Dark Medium Thin Crash is a close alternative that also handles fast, technical passages."
+        answer: "Ben Koller's Zildjian K Dark Medium Thin Crash is a strong breakdown-first pick, voiced with a dark, rapid-decay character that also handles fast, technical passages."
       },
       {
         question: "What size crash cymbal is best for deathcore?",
-        answer: "17\"-20\" covers the deathcore crash range. Chris Turner and Isaac Lamb both run up to 20\" for maximum breakdown weight, while George Kollias favors a tighter 17\"-18\" spread for faster response at extreme blast-beat tempo."
+        answer: "17\"-20\" covers the deathcore crash range. Chris Turner runs up to 20\" for maximum breakdown weight, while George Kollias favors a tighter 17\"-18\" spread for faster response at extreme blast-beat tempo."
       }
     ],
 
     // Conclusion
     conclusion: {
       title: "Build Your Deathcore Crash Sound Around the Blast-to-Breakdown Split",
-      content: `Deathcore's crash philosophy comes down to one core tension: extreme-speed clarity versus crushing breakdown weight. Whether you build around Chris Turner's controlled, technical Meinl Byzance Extra Dry Medium Crash, Isaac Lamb's dark, breakdown-first Classics Custom Dark, or George Kollias's extreme-speed Zildjian K Custom Dark, the right deathcore crash should handle both halves of the genre's split identity.
+      content: `Deathcore's crash philosophy comes down to one core tension: extreme-speed clarity versus crushing breakdown weight. Whether you build around Chris Turner's controlled, technical Meinl Byzance Extra Dry Medium Crash, Ben Koller's dark, versatile Zildjian K Dark Medium Thin Crash, or George Kollias's extreme-speed Zildjian K Custom Dark, the right deathcore crash should handle both halves of the genre's split identity.
 
 Start with one dry, controlled crash in the 18"-20" range, and add a second, brighter or faster-decaying voicing once you know whether your deathcore leans more blast-beat-technical or breakdown-first.
 
@@ -78078,12 +77832,11 @@ Start with one durable, fast-decaying splash in the 8"-10" range, matched to whi
     // SEO metadata
     title: "Best Splash Cymbals for Deathcore: 2026 Ultimate Guide",
     metaTitle: "Best Splash Cymbals for Deathcore in 2026 | MetalForge Expert Guide",
-    description: "Discover the best splash cymbals for deathcore drumming. Expert recommendations on dry, controlled accent cymbals for marking the pivot from blast beats into breakdowns, with guidance drawn from the crash setups of Chris Turner, Isaac Lamb, Ben Koller, and George Kollias.",
+    description: "Discover the best splash cymbals for deathcore drumming. Expert recommendations on dry, controlled accent cymbals for marking the pivot from blast beats into breakdowns, with guidance drawn from the crash setups of Chris Turner, Ben Koller, and George Kollias.",
     seoKeywords: [
       'best splash cymbal for deathcore',
       'splash cymbal for deathcore drummers',
       'chris turner splash cymbal',
-      'isaac lamb splash cymbal',
       'ben koller splash cymbal',
       'george kollias splash cymbal',
       'meinl byzance extra dry splash deathcore',
@@ -78115,13 +77868,13 @@ Start with one durable, fast-decaying splash in the 8"-10" range, matched to whi
       title: "Punctuating the Turn From Blast to Breakdown",
       content: `Deathcore fuses death metal's blast beats and technical brutality with metalcore and hardcore's chugging, half-time breakdown pocket, and that split identity gives a splash cymbal a genuinely useful, specific job: marking the exact pivot point where an extreme-speed blast section drops into a slower, syncopated breakdown. A splash's bright, near-instant decay — typically from an 8" to 12" cymbal — punctuates that transition more precisely than a full-size crash, which tends to ring on into the breakdown's first hits rather than cleanly announcing the change.
 
-None of deathcore's core drummers have a widely documented signature splash rig, so this guide extends what's already established about their crash choices. Chris Turner of Oceans Ate Alaska plays a dry Meinl Byzance Extra Dry Medium Crash built for blast-beat-driven precision. Isaac Lamb of Kublai Khan TX runs a dark Meinl Classics Custom Dark Crash chosen for crushing breakdown weight. Ben Koller of Converge plays a Zildjian K Dark Medium Thin Crash that carries his hardcore and mathcore intensity. George Kollias of Nile, deathcore's clearest blast-beat benchmark, runs over-hammered Zildjian K Custom Dark Crashes built for 240+ BPM endurance.
+None of deathcore's core drummers have a widely documented signature splash rig, so this guide extends what's already established about their crash choices. Chris Turner of Oceans Ate Alaska plays a dry Meinl Byzance Extra Dry Medium Crash built for blast-beat-driven precision. Ben Koller of Converge plays a Zildjian K Dark Medium Thin Crash that carries his hardcore and mathcore intensity. George Kollias of Nile, deathcore's clearest blast-beat benchmark, runs over-hammered Zildjian K Custom Dark Crashes built for 240+ BPM endurance.
 
 This guide covers what actually matters when adding a splash to a deathcore setup — dry control for breakdown weight, fast decay for blast sections, and durability under sustained abuse — with specific recommendations across every budget.`,
       keyPoints: [
         "No deathcore drummer has a widely documented signature splash rig — this guide extends what's known about their crash voicing instead",
         "A splash's fast decay is genuinely well-suited to marking deathcore's specific blast-to-breakdown pivot point, a transition a crash handles less cleanly",
-        "Chris Turner's dry Byzance Extra Dry and Isaac Lamb's dark Classics Custom Dark crash setups both point toward controlled, non-washy splash voicings",
+        "Chris Turner's dry Byzance Extra Dry crash setup points toward a controlled, non-washy splash voicing",
         "Ben Koller's hardcore/mathcore intensity and George Kollias's 240+ BPM blast-beat benchmark set the speed and durability standard a deathcore splash needs"
       ]
     },
@@ -78139,7 +77892,7 @@ This guide covers what actually matters when adding a splash to a deathcore setu
         {
           name: "Dry, Controlled Voicing for Breakdowns",
           icon: "🌑",
-          description: "A dry, controlled splash won't wash out a breakdown's syncopated, moshing-focused hits the way a bright, ringing one might — echoing the same dry control behind Chris Turner's Meinl Byzance Extra Dry Crash and Isaac Lamb's Meinl Classics Custom Dark Crash.",
+          description: "A dry, controlled splash won't wash out a breakdown's syncopated, moshing-focused hits the way a bright, ringing one might — echoing the same dry control behind Chris Turner's Meinl Byzance Extra Dry Crash and Ben Koller's Zildjian K Dark Medium Thin Crash.",
           recommendation: "A dry or dark-finish splash for a controlled accent that doesn't wash over breakdown weight"
         },
         {
@@ -78209,38 +77962,6 @@ That dryness matters specifically at the pivot point deathcore's structure depen
         },
         {
           rank: 2,
-          name: "Meinl Classics Custom Dark Splash",
-          brand: "Meinl",
-          model: "Classics Custom Dark Splash 10\"",
-          image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg",
-          priceRange: "€90-120",
-          tier: "pro",
-          driveType: "B10 Bronze, Dark Finish",
-          description: `The Classics Custom Dark Splash mirrors Isaac Lamb's Meinl Classics Custom Dark Crash for Kublai Khan TX, chosen specifically for crushing breakdown weight — a splash that leans into that same dark, weighty character rather than cutting brightly against it.`,
-          pros: [
-            "Matches Isaac Lamb's dark, breakdown-weighted Classics Custom crash voicing",
-            "Dark tone blends into crushing breakdown material rather than cutting against it",
-            "More affordable than premium B20 alternatives",
-            "Consistent with a Classics Custom crash and ride setup"
-          ],
-          cons: [
-            "B10 bronze has less tonal complexity than premium B20 lines",
-            "Darker voicing won't cut through a mix if overused",
-            "Less suited to bright, blast-section-only accenting"
-          ],
-          specs: {
-            diameter: "10\"",
-            alloy: "B10 Bronze",
-            finish: "Dark",
-            weight: "Medium"
-          },
-          usedBy: [],
-          verdict: "The best pick for drummers building a dark, breakdown-weighted setup in the mold of Isaac Lamb.",
-          rating: 4.4,
-          affiliateLink: "https://www.thomann.de/intl/meinl_classics_custom_dark_splash_10.htm?partner_id=metalforge"
-        },
-        {
-          rank: 3,
           name: "Zildjian K Dark Splash",
           brand: "Zildjian",
           model: "K Dark Splash 10\"",
@@ -78272,7 +77993,7 @@ That dryness matters specifically at the pivot point deathcore's structure depen
           affiliateLink: "https://www.thomann.de/intl/zildjian_k_dark_splash_10.htm?partner_id=metalforge"
         },
         {
-          rank: 4,
+          rank: 3,
           name: "Zildjian K Custom Dark Splash",
           brand: "Zildjian",
           model: "K Custom Dark Splash 10\"",
@@ -78384,7 +78105,7 @@ That dryness matters specifically at the pivot point deathcore's structure depen
 
 **Dry/Dark Splashes (Meinl Byzance Extra Dry, Meinl Classics Custom Dark, Zildjian K Dark):**
 - Controlled, non-washy decay that suits breakdown-weighted material and precise transition punctuation
-- The natural extension of Chris Turner's, Isaac Lamb's, and Ben Koller's dry/dark crash setups
+- The natural extension of Chris Turner's and Ben Koller's dry/dark crash setups
 - Best when your deathcore leans toward crushing breakdowns and controlled precision
 
 **Fast/Blast-Ready Splashes (Zildjian K Custom Dark, over-hammered):**
@@ -78414,11 +78135,6 @@ That dryness matters specifically at the pivot point deathcore's structure depen
           reason: "A dry, controlled accent that cleanly marks the pivot from blast beats into a breakdown."
         },
         {
-          category: "Best for Breakdown-Weighted Setups",
-          pedal: "Meinl Classics Custom Dark Splash",
-          reason: "Matches Isaac Lamb's dark, crushing breakdown crash voicing at an accessible price."
-        },
-        {
           category: "Best Budget",
           pedal: "Zildjian Planet Z Splash",
           reason: "A usable, affordable entry-level splash for learning transition-accent placement."
@@ -78439,7 +78155,6 @@ That dryness matters specifically at the pivot point deathcore's structure depen
     ],
     relatedDrummers: [
       { slug: 'chris-turner', name: 'Chris Turner', reason: 'Meinl Byzance Extra Dry Medium Crash — Oceans Ate Alaska\'s blast-beat-driven precision, this guide\'s top splash pick' },
-      { slug: 'isaac-lamb', name: 'Isaac Lamb', reason: 'Meinl Classics Custom Dark Crash — Kublai Khan TX\'s crushing breakdown weight' },
       { slug: 'ben-koller', name: 'Ben Koller', reason: 'Zildjian K Dark Medium Thin Crash — Converge\'s hardcore/mathcore intensity' },
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian K Custom Dark Crash — Nile\'s 240+ BPM blast-beat benchmark' }
     ],
@@ -78457,7 +78172,7 @@ That dryness matters specifically at the pivot point deathcore's structure depen
       },
       {
         question: "Dry/dark or fast/bright splash cymbal — which is better for deathcore?",
-        answer: "It depends which side of deathcore's blast-into-breakdown structure your material leans toward. A dry or dark splash (Meinl Byzance Extra Dry, Meinl Classics Custom Dark, Zildjian K Dark) suits breakdown-heavy writing, in the mold of Chris Turner, Isaac Lamb, and Ben Koller. A fast, over-hammered splash (Zildjian K Custom Dark) suits blast-heavy writing, in the mold of George Kollias."
+        answer: "It depends which side of deathcore's blast-into-breakdown structure your material leans toward. A dry or dark splash (Meinl Byzance Extra Dry, Zildjian K Dark) suits breakdown-heavy writing, in the mold of Chris Turner and Ben Koller. A fast, over-hammered splash (Zildjian K Custom Dark) suits blast-heavy writing, in the mold of George Kollias."
       },
       {
         question: "What size splash cymbal is best for deathcore?",
@@ -78472,7 +78187,7 @@ That dryness matters specifically at the pivot point deathcore's structure depen
     // Conclusion
     conclusion: {
       title: "Punctuate the Pivot, Not Every Hit",
-      content: `Deathcore never built a signature splash tradition the way it built one around crashes, but the genre's own blast-into-breakdown structure gives a splash a genuinely specific job: marking the exact moment the tempo drops. A dry, controlled splash in the mold of Chris Turner's and Isaac Lamb's crash setups fits breakdown-weighted material, while a fast, over-hammered option in the mold of George Kollias's crash voicing keeps pace with the fastest blast sections.
+      content: `Deathcore never built a signature splash tradition the way it built one around crashes, but the genre's own blast-into-breakdown structure gives a splash a genuinely specific job: marking the exact moment the tempo drops. A dry, controlled splash in the mold of Chris Turner's and Ben Koller's crash setups fits breakdown-weighted material, while a fast, over-hammered option in the mold of George Kollias's crash voicing keeps pace with the fastest blast sections.
 
 Start with one splash matched to whichever side of deathcore's structure your material emphasizes more, and use it specifically at the pivot point rather than as a general-purpose accent throughout.
 
@@ -78906,12 +78621,11 @@ Budget shouldn't stop you either. A Pearl Export or Tama Stagestar steel snare w
     // SEO metadata
     title: "Best Cymbals for Deathcore: 2026 Ultimate Guide",
     metaTitle: "Best Cymbals for Deathcore 2026 | MetalForge Expert Guide",
-    description: "Best cymbal picks for deathcore's blast-into-breakdown structure: what Chris Turner (Meinl Byzance), Isaac Lamb (Meinl Classics Custom Dark), Ben Koller (Zildjian K Dark), and George Kollias (Zildjian K/A Custom) actually play — ranked budget to pro.",
+    description: "Best cymbal picks for deathcore's blast-into-breakdown structure: what Chris Turner (Meinl Byzance), Ben Koller (Zildjian K Dark), and George Kollias (Zildjian K/A Custom) actually play — ranked budget to pro.",
     seoKeywords: [
       'best cymbals for deathcore',
       'deathcore cymbals',
       'chris turner cymbals oceans ate alaska',
-      'isaac lamb cymbals kublai khan',
       'ben koller cymbals converge',
       'george kollias cymbals nile',
       'china cymbal deathcore breakdown',
@@ -78929,10 +78643,10 @@ Budget shouldn't stop you either. A Pearl Export or Tama Stagestar steel snare w
     // Hero section
     hero: {
       title: "🎪 Best Cymbals for Deathcore",
-      subtitle: "What Chris Turner, Isaac Lamb, Ben Koller, and George Kollias Actually Play",
+      subtitle: "What Chris Turner, Ben Koller, and George Kollias Actually Play",
       badge: "GEAR GUIDE 2026",
       stats: [
-        { value: '4', label: 'Cymbal Setups Reviewed' },
+        { value: '3', label: 'Cymbal Setups Reviewed' },
         { value: '7 min', label: 'Read Time' },
         { value: '2026', label: 'Updated' }
       ]
@@ -78943,13 +78657,12 @@ Budget shouldn't stop you either. A Pearl Export or Tama Stagestar steel snare w
       title: "What Cymbal Setup Handles Deathcore's Blast-Into-Breakdown Structure?",
       content: `Deathcore fuses death metal's blast beats and technical brutality with metalcore and hardcore's chugging, half-time breakdown pocket — and that split identity puts unusual demands on a cymbal setup. A single song can alternate between extreme-speed blast beat verses, where hi-hats and rides need to stay articulate at 240+ BPM, and slower, syncopated breakdown sections built for moshing, where dry, controlled crashes and a heavy china need to land with maximum weight rather than washing out.
 
-Chris Turner of Oceans Ate Alaska brings progressive metalcore's polyrhythmic precision to deathcore-adjacent territory on Meinl Byzance Series cymbals — 15" Dual Hi-Hats, 18" & 20" Extra Dry Medium Crashes, a 22" Dual Ride, and an 18" Extra Dry China — engineered for the technical, blast-beat-driven fills documented on Oceans Ate Alaska's "Hikari" (2017). Isaac Lamb of Kublai Khan TX represents the breakdown-first end of deathcore's hardcore lineage on Meinl Classics Custom Dark Series cymbals, built for crushing, moshable breakdown weight. Ben Koller of Converge and Mutoid Man brings hardcore punk and mathcore's blistering speed and dynamic range on Zildjian K Dark Series cymbals. George Kollias of Nile — whose documented 240+ BPM blast beats set the extreme-speed benchmark deathcore's blast sections measure themselves against — rounds out the lineup on Zildjian K Mastersound, K Custom Dark, and A Custom cymbals.
+Chris Turner of Oceans Ate Alaska brings progressive metalcore's polyrhythmic precision to deathcore-adjacent territory on Meinl Byzance Series cymbals — 15" Dual Hi-Hats, 18" & 20" Extra Dry Medium Crashes, a 22" Dual Ride, and an 18" Extra Dry China — engineered for the technical, blast-beat-driven fills documented on Oceans Ate Alaska's "Hikari" (2017). Ben Koller of Converge and Mutoid Man brings hardcore punk and mathcore's blistering speed and dynamic range on Zildjian K Dark Series cymbals. George Kollias of Nile — whose documented 240+ BPM blast beats set the extreme-speed benchmark deathcore's blast sections measure themselves against — rounds out the lineup on Zildjian K Mastersound, K Custom Dark, and A Custom cymbals.
 
-This guide breaks down hi-hat, crash, ride, and china choices for deathcore — comparing four drummers whose metalcore, hardcore, and technical death metal lineages fed directly into the genre, with recommendations from budget to professional touring rigs.`,
+This guide breaks down hi-hat, crash, ride, and china choices for deathcore — comparing three drummers whose metalcore, hardcore, and technical death metal lineages fed directly into the genre, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
         "Chris Turner's Meinl Byzance setup brings progressive metalcore's polyrhythmic precision to deathcore-adjacent blast-beat fills",
         "An 18\"-19\" china is essential across every featured setup for immediate, cutting breakdown punctuation",
-        "Isaac Lamb's dark-voiced Meinl Classics Custom Dark cymbals show the breakdown-first, hardcore side of deathcore's cymbal demands",
         "George Kollias's Zildjian setup sets the extreme-speed benchmark deathcore's fastest blast sections measure themselves against"
       ]
     },
@@ -78961,7 +78674,7 @@ This guide breaks down hi-hat, crash, ride, and china choices for deathcore — 
         {
           name: "Dry, Controlled Voicing for Breakdowns",
           icon: "🌫️",
-          description: "Deathcore's chugging, half-time breakdown sections need cymbals that don't wash into a wall of sustain. Isaac Lamb's Meinl Classics Custom Dark and Chris Turner's Meinl Byzance Extra Dry crashes are both voiced with minimal ring, staying controlled through crushing, syncopated passages.",
+          description: "Deathcore's chugging, half-time breakdown sections need cymbals that don't wash into a wall of sustain. Chris Turner's Meinl Byzance Extra Dry crashes are voiced with minimal ring, staying controlled through crushing, syncopated passages.",
           recommendation: "Dark or Extra Dry-voiced crashes for controlled, low-sustain breakdown weight"
         },
         {
@@ -78973,7 +78686,7 @@ This guide breaks down hi-hat, crash, ride, and china choices for deathcore — 
         {
           name: "China Cymbal for Breakdown Punctuation",
           icon: "⛩️",
-          description: "An 18\" china is nearly universal across deathcore's closest lineages: Chris Turner's Extra Dry China, Isaac Lamb's dark China, Ben Koller's K China, and George Kollias's China all supply the immediate, trashy accent that punctuates breakdown hits.",
+          description: "An 18\" china is nearly universal across deathcore's closest lineages: Chris Turner's Extra Dry China, Ben Koller's K China, and George Kollias's China all supply the immediate, trashy accent that punctuates breakdown hits.",
           recommendation: "18\" china for immediate, cutting breakdown punctuation"
         },
         {
@@ -78985,7 +78698,7 @@ This guide breaks down hi-hat, crash, ride, and china choices for deathcore — 
         {
           name: "Brightness vs. Darkness Tradeoff",
           icon: "⚖️",
-          description: "Chris Turner's Meinl Byzance and George Kollias's Zildjian K/A Custom lean brighter for cutting projection, while Isaac Lamb's Meinl Classics Custom Dark and Ben Koller's Zildjian K Dark lean darker for a trashier, more crushing breakdown voice.",
+          description: "Chris Turner's Meinl Byzance and George Kollias's Zildjian K/A Custom lean brighter for cutting projection, while Ben Koller's Zildjian K Dark leans darker for a trashier, more crushing breakdown voice.",
           recommendation: "Brighter voicing for blast-beat cut; darker voicing for maximum breakdown weight"
         },
         {
@@ -79042,45 +78755,6 @@ Turner's progressive metalcore precision translates directly to deathcore's blas
         },
         {
           rank: 2,
-          name: "Meinl Classics Custom Dark Series",
-          brand: "Meinl",
-          model: "Classics Custom Dark Series (14\" Hi-Hats, 18\"&20\" Crashes, 21\" Ride, 18\" China)",
-          image: "https://upload.wikimedia.org/wikipedia/commons/3/31/Cymbal_Hammering.JPG",
-          priceRange: "€130-280 per cymbal",
-          tier: "mid-pro",
-          material: "B10 Bronze",
-
-          description: `Isaac Lamb of Kublai Khan TX defines the breakdown-first, hardcore side of deathcore's cymbal demands on Meinl Classics Custom Dark Series cymbals — 14" Hi-Hats for tight, controlled chops, 18" & 20" Crashes for explosive, dark-toned accents, a 21" Ride for rhythmic definition, and an 18" China for aggressive punctuation on the band's heaviest sections.
-
-Lamb's beatdown hardcore background shows how a dark-voiced, moderately-priced cymbal setup can deliver crushing breakdown weight without needing boutique B20 pricing — a real option for deathcore drummers prioritizing breakdown impact over blast-beat brightness.`,
-
-          pros: [
-            "Isaac Lamb's Kublai Khan TX setup — proven on crushing, moshable breakdown sections",
-            "Dark voicing delivers maximum breakdown weight without excess brightness",
-            "More accessible B10 bronze pricing than full B20 Byzance setups",
-            "18\" China supplies aggressive punctuation on the heaviest sections",
-            "Built for durability across an unbroken touring schedule since 2009"
-          ],
-          cons: [
-            "Less articulate at extreme blast-beat tempos than brighter B20 options",
-            "Darker voicing may need brighter cymbals layered in for technical sections",
-            "Less common outside North American retailers"
-          ],
-          specs: {
-            hiHats: "14\" Meinl Classics Custom Dark",
-            crashes: "18\" & 20\" Classics Custom Dark",
-            ride: "21\" Classics Custom Dark",
-            china: "18\" Classics Custom Dark"
-          },
-          usedBy: [
-            { name: "Isaac Lamb", band: "Kublai Khan TX", note: "Meinl Classics Custom Dark — deathcore's crushing, breakdown-first cymbal voice" }
-          ],
-          verdict: "Best for breakdown-first deathcore. Lamb's dark, moderately-priced setup delivers real moshable weight.",
-          rating: 4.5,
-          affiliateLink: "https://www.thomann.de/intl/meinl_classics_custom_dark_isaac_lamb.htm?partner_id=metalforge"
-        },
-        {
-          rank: 3,
           name: "Zildjian K Dark Series",
           brand: "Zildjian",
           model: "K Dark Series (14\" Hi-Hats, 18\"&19\" Crashes, 21\" Ride, 18\" China)",
@@ -79119,7 +78793,7 @@ Koller's approach prioritizes power and organic dynamics over trigger-augmented 
           affiliateLink: "https://www.thomann.de/intl/zildjian_k_dark_ben_koller_setup.htm?partner_id=metalforge"
         },
         {
-          rank: 4,
+          rank: 3,
           name: "Zildjian K/A Custom Series",
           brand: "Zildjian",
           model: "K Mastersound / K Custom Dark / A Custom (14\" Hi-Hats, 17\"&18\" Crashes, 21\" Ride, 18\" China)",
@@ -79172,7 +78846,7 @@ This setup sets the extreme-speed benchmark deathcore's fastest blast sections m
           priceRange: "€120-180 (set)",
           tier: "budget",
           material: "Brass",
-          description: "The Meinl HCS set carries the same brand DNA as Chris Turner's and Isaac Lamb's professional Meinl setups at a fraction of the price, giving developing deathcore drummers a real starting point for both blast and breakdown technique.",
+          description: "The Meinl HCS set carries the same brand DNA as Chris Turner's professional Meinl setup at a fraction of the price, giving developing deathcore drummers a real starting point for both blast and breakdown technique.",
           pros: ["Same Meinl brand lineage as pro deathcore setups", "Affordable, widely available entry point", "Full hi-hat/crash/ride set in one box"],
           cons: ["Brass alloy lacks the complexity of B20 bronze", "Less durable under extreme, repeated impact"],
           verdict: "Best budget entry into deathcore's Meinl-based cymbal sound.",
@@ -79198,7 +78872,7 @@ This setup sets the extreme-speed benchmark deathcore's fastest blast sections m
 
     // Comparison
     comparison: {
-      title: "Meinl Byzance vs Meinl Classics Custom Dark vs Zildjian K/A Custom for Deathcore",
+      title: "Meinl Byzance vs Zildjian K Dark/K/A Custom for Deathcore",
       content: `China cymbals and B20 bronze construction stay consistent across deathcore's closest lineage, but voicing and brand choice split these drummers into distinct camps. Here's how they compare:
 
 **Meinl Byzance (Chris Turner):**
@@ -79206,17 +78880,12 @@ This setup sets the extreme-speed benchmark deathcore's fastest blast sections m
 - Extra Dry voicing stays controlled through syncopated breakdown accents
 - Best for technical, blast-beat-driven deathcore
 
-**Meinl Classics Custom Dark (Isaac Lamb):**
-- Dark voicing for maximum breakdown weight
-- More accessible B10 bronze pricing
-- Best for breakdown-first, hardcore-leaning deathcore
-
 **Zildjian K Dark / K/A Custom (Ben Koller, George Kollias):**
 - Versatile B20 bronze setups spanning organic dynamics to extreme-speed clarity
 - K Dark favors dynamic range; K/A Custom favors blast-beat definition
 - Best for drummers who need both extreme speed and crushing breakdown weight
 
-**Our Recommendation:** Start with a Meinl HCS or Zildjian ZBT set if you're building deathcore technique on a budget. Choose Isaac Lamb's Meinl Classics Custom Dark if your priority is breakdown weight. Go with George Kollias's Zildjian K/A Custom setup if you need to sustain deathcore's absolute fastest blast sections.`,
+**Our Recommendation:** Start with a Meinl HCS or Zildjian ZBT set if you're building deathcore technique on a budget. Choose Chris Turner's Meinl Byzance setup for technical blast-and-breakdown balance. Go with George Kollias's Zildjian K/A Custom setup if you need to sustain deathcore's absolute fastest blast sections.`,
       comparisonTable: [
         { feature: "Blast Beat Clarity", maple: "⭐⭐⭐⭐", hybrid: "⭐⭐⭐", dual: "⭐⭐⭐⭐⭐" },
         { feature: "Breakdown Weight", maple: "⭐⭐⭐⭐", hybrid: "⭐⭐⭐⭐⭐", dual: "⭐⭐⭐⭐" },
@@ -79233,11 +78902,6 @@ This setup sets the extreme-speed benchmark deathcore's fastest blast sections m
           category: "Best Overall",
           pedal: "Meinl Byzance Series",
           reason: "Chris Turner's Oceans Ate Alaska setup — balances blast-beat articulation and breakdown cut."
-        },
-        {
-          category: "Best for Breakdown Weight",
-          pedal: "Meinl Classics Custom Dark Series",
-          reason: "Isaac Lamb's Kublai Khan TX setup — crushing, moshable dark voicing at accessible pricing."
         },
         {
           category: "Best for Extreme Speed",
@@ -79260,7 +78924,6 @@ This setup sets the extreme-speed benchmark deathcore's fastest blast sections m
     ],
     relatedDrummers: [
       { slug: 'chris-turner', name: 'Chris Turner', reason: 'Meinl Byzance — Oceans Ate Alaska\'s blast-beat-driven deathcore-adjacent precision' },
-      { slug: 'isaac-lamb', name: 'Isaac Lamb', reason: 'Meinl Classics Custom Dark — Kublai Khan TX\'s crushing breakdown weight' },
       { slug: 'ben-koller', name: 'Ben Koller', reason: 'Zildjian K Dark — Converge\'s hardcore/mathcore intensity' },
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian K/A Custom — Nile\'s 240+ BPM blast-beat benchmark' }
     ],
@@ -79268,7 +78931,6 @@ This setup sets the extreme-speed benchmark deathcore's fastest blast sections m
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'chris-turner', name: 'Chris Turner', reason: 'Meinl Byzance — Oceans Ate Alaska\'s blast-beat-driven deathcore-adjacent precision' },
-      { slug: 'isaac-lamb', name: 'Isaac Lamb', reason: 'Meinl Classics Custom Dark — Kublai Khan TX\'s crushing breakdown weight' },
       { slug: 'ben-koller', name: 'Ben Koller', reason: 'Zildjian K Dark — Converge\'s hardcore/mathcore intensity' },
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian K/A Custom — Nile\'s 240+ BPM blast-beat benchmark' }
     ],
@@ -79277,15 +78939,15 @@ This setup sets the extreme-speed benchmark deathcore's fastest blast sections m
     faq: [
       {
         question: "What cymbals do deathcore-adjacent drummers use?",
-        answer: "Chris Turner of Oceans Ate Alaska plays Meinl Byzance Series cymbals. Isaac Lamb of Kublai Khan TX plays Meinl Classics Custom Dark Series. Ben Koller of Converge plays Zildjian K Dark Series, and George Kollias of Nile plays a Zildjian K Mastersound/K Custom Dark/A Custom setup."
+        answer: "Chris Turner of Oceans Ate Alaska plays Meinl Byzance Series cymbals. Ben Koller of Converge plays Zildjian K Dark Series, and George Kollias of Nile plays a Zildjian K Mastersound/K Custom Dark/A Custom setup."
       },
       {
         question: "What china cymbal size is best for deathcore breakdowns?",
-        answer: "18\" is the standard across deathcore's closest lineages — Chris Turner, Isaac Lamb, Ben Koller, and George Kollias all run an 18\" china for immediate, cutting breakdown punctuation."
+        answer: "18\" is the standard across deathcore's closest lineages — Chris Turner, Ben Koller, and George Kollias all run an 18\" china for immediate, cutting breakdown punctuation."
       },
       {
         question: "Should deathcore cymbals be bright or dark?",
-        answer: "It depends on which half of the song you're prioritizing. Bright cymbals (Chris Turner's Meinl Byzance, George Kollias's Zildjian K/A Custom) cut through blast-beat sections with clear articulation. Dark cymbals (Isaac Lamb's Meinl Classics Custom Dark, Ben Koller's Zildjian K Dark) add crushing weight to breakdown sections. Many deathcore drummers mix both voicings in one setup."
+        answer: "It depends on which half of the song you're prioritizing. Bright cymbals (Chris Turner's Meinl Byzance, George Kollias's Zildjian K/A Custom) cut through blast-beat sections with clear articulation. Dark cymbals (Ben Koller's Zildjian K Dark) add crushing weight to breakdown sections. Many deathcore drummers mix both voicings in one setup."
       },
       {
         question: "Why does deathcore need a different cymbal setup than straightforward metalcore?",
@@ -79300,11 +78962,11 @@ This setup sets the extreme-speed benchmark deathcore's fastest blast sections m
     // Conclusion
     conclusion: {
       title: "Find Your Deathcore Cymbal Setup",
-      content: `Deathcore cymbal choice comes down to how well your setup handles the jump between blast-beat verses and breakdown-driven choruses. Chris Turner's Meinl Byzance setup shows how progressive metalcore precision translates directly into deathcore-adjacent territory. Isaac Lamb's Meinl Classics Custom Dark cymbals prove that breakdown weight doesn't require boutique B20 pricing. Ben Koller's Zildjian K Dark setup demonstrates two decades of hardcore/mathcore intensity feeding directly into deathcore's breakdown vocabulary, while George Kollias's Zildjian K/A Custom setup defined the extreme-speed benchmark the genre's fastest sections measure themselves against.
+      content: `Deathcore cymbal choice comes down to how well your setup handles the jump between blast-beat verses and breakdown-driven choruses. Chris Turner's Meinl Byzance setup shows how progressive metalcore precision translates directly into deathcore-adjacent territory. Ben Koller's Zildjian K Dark setup demonstrates two decades of hardcore/mathcore intensity feeding directly into deathcore's breakdown vocabulary, while George Kollias's Zildjian K/A Custom setup defined the extreme-speed benchmark the genre's fastest sections measure themselves against.
 
-None of these approaches is more "correct" — all four represent deathcore's founding commitment to combining extreme speed with breakdown-driven weight. Start with whichever voicing matches your material's balance of blast beats versus breakdowns, and don't be afraid to mix bright and dark cymbals in the same setup.
+None of these approaches is more "correct" — all three represent deathcore's founding commitment to combining extreme speed with breakdown-driven weight. Start with whichever voicing matches your material's balance of blast beats versus breakdowns, and don't be afraid to mix bright and dark cymbals in the same setup.
 
-Budget shouldn't stop you either. A Meinl HCS or Zildjian ZBT set will teach real blast-to-breakdown cymbal technique and survive demanding practice while you save toward the Byzance, Classics Custom Dark, and K/A Custom setups that defined this lineage's most extreme recordings.
+Budget shouldn't stop you either. A Meinl HCS or Zildjian ZBT set will teach real blast-to-breakdown cymbal technique and survive demanding practice while you save toward the Byzance and K/A Custom setups that defined this lineage's most extreme recordings.
 
 🤘 **Now go blast into that breakdown.**`
     }
@@ -83051,13 +82713,12 @@ Budget shouldn't stop you either. A Pearl Export or Tama Imperialstar snare will
     // SEO metadata
     title: "Best Drum Kits for Deathcore: 2026 Ultimate Guide",
     metaTitle: "Best Drum Kits for Deathcore 2026 | MetalForge Expert Guide",
-    description: "Best drum kits for deathcore's blast-into-breakdown structure: what Chris Turner (Tama Starclassic Walnut/Birch), George Kollias (Pearl Masterworks Stadium Exotic), Isaac Lamb (SJC Custom Drums), and Ben Koller (Tama Starclassic Performer B/B) actually play — ranked budget to pro.",
+    description: "Best drum kits for deathcore's blast-into-breakdown structure: what Chris Turner (Tama Starclassic Walnut/Birch), George Kollias (Pearl Masterworks Stadium Exotic), and Ben Koller (Tama Starclassic Performer B/B) actually play — ranked budget to pro.",
     seoKeywords: [
       'best drum kits for deathcore',
       'deathcore drum kit',
       'chris turner drum kit oceans ate alaska',
       'george kollias drum kit nile',
-      'isaac lamb drum kit kublai khan',
       'ben koller drum kit converge',
       'tama starclassic deathcore',
       'pearl masterworks deathcore',
@@ -83074,10 +82735,10 @@ Budget shouldn't stop you either. A Pearl Export or Tama Imperialstar snare will
     // Hero section
     hero: {
       title: "🥁 Best Drum Kits for Deathcore",
-      subtitle: "What Chris Turner, George Kollias, Isaac Lamb, and Ben Koller Actually Play",
+      subtitle: "What Chris Turner, George Kollias, and Ben Koller Actually Play",
       badge: "GEAR GUIDE 2026",
       stats: [
-        { value: '4', label: 'Kits Reviewed' },
+        { value: '3', label: 'Kits Reviewed' },
         { value: '7 min', label: 'Read Time' },
         { value: '2026', label: 'Updated' }
       ]
@@ -83088,13 +82749,12 @@ Budget shouldn't stop you either. A Pearl Export or Tama Imperialstar snare will
       title: "What Drum Kit Handles Deathcore's Blast-Into-Breakdown Structure?",
       content: `Deathcore fuses death metal's blast beats and technical brutality with metalcore and hardcore's chugging, half-time breakdown pocket, and that split identity puts unusual demands on a drum kit. A single song can alternate between extreme-speed blast beat verses, where shells need to stay tight and consistent hit after hit at 240+ BPM, and slower, syncopated breakdown sections built for moshing, where the kick and toms need to deliver maximum low-end weight rather than fast decay.
 
-Chris Turner of Oceans Ate Alaska anchors his progressive metalcore precision on a Tama Starclassic Walnut/Birch kit in a custom finish, the same walnut/birch hybrid construction that defines djent's tightest, most controlled tone, adapted here for deathcore-adjacent blast-beat fills documented across Oceans Ate Alaska's catalog. George Kollias of Nile — whose 240+ BPM blast beats set the extreme-speed benchmark deathcore's fastest sections measure themselves against — plays a Pearl Masterworks Stadium Exotic kit finished in piano black with gold hardware, built for sustained endurance at the outer edge of human tempo. Isaac Lamb of Kublai Khan TX represents the breakdown-first, hardcore side of deathcore's lineage on a hand-built SJC Custom Drums kit with American maple shells, engineered for the crushing, moshable weight that defines beatdown hardcore. Ben Koller of Converge and Mutoid Man rounds out the lineup on a Tama Starclassic Performer B/B kit, bringing two decades of hardcore punk and mathcore intensity to deathcore's breakdown vocabulary.
+Chris Turner of Oceans Ate Alaska anchors his progressive metalcore precision on a Tama Starclassic Walnut/Birch kit in a custom finish, the same walnut/birch hybrid construction that defines djent's tightest, most controlled tone, adapted here for deathcore-adjacent blast-beat fills documented across Oceans Ate Alaska's catalog. George Kollias of Nile — whose 240+ BPM blast beats set the extreme-speed benchmark deathcore's fastest sections measure themselves against — plays a Pearl Masterworks Stadium Exotic kit finished in piano black with gold hardware, built for sustained endurance at the outer edge of human tempo. Ben Koller of Converge and Mutoid Man rounds out the lineup on a Tama Starclassic Performer B/B kit, bringing two decades of hardcore punk and mathcore intensity to deathcore's breakdown vocabulary.
 
-This guide breaks down shell construction, kick sizing, and mounting hardware for deathcore drum kits — comparing four drummers whose metalcore, hardcore, and technical death metal lineages fed directly into the genre, with recommendations from budget to professional touring rigs.`,
+This guide breaks down shell construction, kick sizing, and mounting hardware for deathcore drum kits — comparing three drummers whose metalcore, hardcore, and technical death metal lineages fed directly into the genre, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
         "Chris Turner's Tama Starclassic Walnut/Birch brings djent-tight shell consistency to deathcore-adjacent blast-beat fills",
         "George Kollias's Pearl Masterworks Stadium Exotic is built for sustained endurance at 240+ BPM, the extreme-speed benchmark deathcore measures itself against",
-        "Isaac Lamb's hand-built SJC Custom Drums shows the breakdown-first, hardcore side of deathcore's kit demands",
         "Ben Koller's Tama Starclassic Performer B/B carries two decades of hardcore/mathcore intensity into deathcore's breakdown vocabulary"
       ]
     },
@@ -83112,7 +82772,7 @@ This guide breaks down shell construction, kick sizing, and mounting hardware fo
         {
           name: "Kick Drum Sizing for Breakdown Weight",
           icon: "👟",
-          description: "A deathcore breakdown needs to land as a physical event, not just a slower blast beat. Deeper, larger kick drums built for low-end punch — the kind favored across Isaac Lamb's heavy-hitting SJC setup — give breakdown hits the tonnage the genre demands.",
+          description: "A deathcore breakdown needs to land as a physical event, not just a slower blast beat. Deeper, larger kick drums built for low-end punch give breakdown hits the tonnage the genre demands.",
           recommendation: "22\" x 18\" kick for maximum low-end breakdown weight, 22\" x 16\" for a tighter, more controlled punch"
         },
         {
@@ -83228,46 +82888,6 @@ This is the extreme-speed benchmark deathcore's fastest blast sections measure t
         },
         {
           rank: 3,
-          name: "SJC Custom Drums",
-          brand: "SJC",
-          model: "SJC Custom Drums (American Maple)",
-          image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Drums_01.jpg",
-          priceRange: "€3,500-5,500 (custom shell pack)",
-          tier: "premium",
-          material: "American Maple",
-
-          description: `Isaac Lamb of Kublai Khan TX plays a hand-built SJC Custom Drums kit with American maple shells, boutique-quality construction built to his own specification. The focused attack and midrange warmth SJC's maple shells deliver give Lamb's breakdown hits enough low-end body to register as genuine physical events against Kublai Khan TX's heavily downtuned 7-string guitars.
-
-Lamb's setup defines the breakdown-first, hardcore side of deathcore's kit demands — proof that crushing weight doesn't require an extreme-metal shell pedigree, just shells built and tuned specifically for maximum impact.`,
-
-          pros: [
-            "Isaac Lamb's Kublai Khan TX setup — proven on crushing, moshable breakdown sections",
-            "American maple shells deliver focused attack with midrange warmth",
-            "Hand-built to the player's own specification",
-            "Built for durability across an unbroken touring schedule since 2009",
-            "Tight bearing edges give quick decay well suited to breakdown clarity"
-          ],
-          cons: [
-            "Boutique custom builds cost more than comparable production kits",
-            "Long lead time for a fully custom SJC build",
-            "Less common outside North American retailers"
-          ],
-          specs: {
-            shell: "American Maple (SJC Custom)",
-            mount: "RIMS-style free-floating",
-            finish: "Custom lacquer or wrap",
-            kickSize: "22\" x 18\" standard",
-            tomSizes: "10\", 12\", 16\" standard"
-          },
-          usedBy: [
-            { name: "Isaac Lamb", band: "Kublai Khan TX", note: "SJC Custom Drums, American maple — deathcore's crushing, breakdown-first weight" }
-          ],
-          verdict: "Best for breakdown-first deathcore. Lamb's hand-built maple kit delivers real moshable low-end weight.",
-          rating: 4.6,
-          affiliateLink: "https://www.thomann.de/intl/sjc_custom_drums_isaac_lamb.htm?partner_id=metalforge"
-        },
-        {
-          rank: 4,
           name: "Tama Starclassic Performer B/B",
           brand: "Tama",
           model: "Starclassic Performer B/B",
@@ -83347,7 +82967,7 @@ This kit's approach prioritizes organic dynamics over trigger-augmented precisio
 
     // Comparison
     comparison: {
-      title: "Tama Starclassic vs Pearl Masterworks vs SJC Custom for Deathcore",
+      title: "Tama Starclassic vs Pearl Masterworks for Deathcore",
       content: `Shell construction and price tier split deathcore's closest lineage into distinct camps. Here's how they compare:
 
 **Tama Starclassic (Chris Turner, Ben Koller):**
@@ -83360,17 +82980,12 @@ This kit's approach prioritizes organic dynamics over trigger-augmented precisio
 - Built for sustained endurance at extreme, 240+ BPM tempos
 - Best for deathcore's fastest, most technically demanding blast sections
 
-**SJC Custom (Isaac Lamb):**
-- Hand-built American maple shells with tight bearing edges for quick decay
-- Prioritizes low-end breakdown weight over extreme-speed engineering
-- Best for breakdown-first, hardcore-leaning deathcore
-
-**Our Recommendation:** Start with a Tama Imperialstar or Pearl Export if you're building deathcore technique on a budget. Choose an SJC Custom build if your priority is breakdown weight. Go with George Kollias's Pearl Masterworks configuration if you need to sustain deathcore's absolute fastest blast sections.`,
+**Our Recommendation:** Start with a Tama Imperialstar or Pearl Export if you're building deathcore technique on a budget. Go with George Kollias's Pearl Masterworks configuration if you need to sustain deathcore's absolute fastest blast sections.`,
       comparisonTable: [
-        { feature: "Blast Beat Endurance", maple: "⭐⭐⭐⭐", hybrid: "⭐⭐⭐⭐⭐", dual: "⭐⭐⭐" },
-        { feature: "Breakdown Weight", maple: "⭐⭐⭐⭐⭐", hybrid: "⭐⭐⭐⭐", dual: "⭐⭐⭐" },
-        { feature: "Studio Triggering", maple: "⭐⭐⭐", hybrid: "⭐⭐⭐⭐⭐", dual: "⭐⭐⭐" },
-        { feature: "Price (entry)", maple: "€3500+", hybrid: "€1800+", dual: "€600+" }
+        { feature: "Blast Beat Endurance", hybrid: "⭐⭐⭐⭐⭐", dual: "⭐⭐⭐" },
+        { feature: "Breakdown Weight", hybrid: "⭐⭐⭐⭐", dual: "⭐⭐⭐" },
+        { feature: "Studio Triggering", hybrid: "⭐⭐⭐⭐⭐", dual: "⭐⭐⭐" },
+        { feature: "Price (entry)", hybrid: "€1800+", dual: "€600+" }
       ]
     },
 
@@ -83389,11 +83004,6 @@ This kit's approach prioritizes organic dynamics over trigger-augmented precisio
           reason: "George Kollias's Nile setup — the 240+ BPM blast-beat benchmark deathcore measures itself against."
         },
         {
-          category: "Best for Breakdown Weight",
-          pedal: "SJC Custom Drums",
-          reason: "Isaac Lamb's Kublai Khan TX setup — hand-built maple for crushing, moshable low-end."
-        },
-        {
           category: "Best Budget",
           pedal: "Tama Imperialstar",
           reason: "The same TAMA brand DNA at accessible pricing. A real starting point before upgrading."
@@ -83410,7 +83020,6 @@ This kit's approach prioritizes organic dynamics over trigger-augmented precisio
     relatedDrummers: [
       { slug: 'chris-turner', name: 'Chris Turner', reason: 'Tama Starclassic Walnut/Birch — Oceans Ate Alaska\'s blast-beat-driven precision' },
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Masterworks Stadium Exotic — Nile\'s 240+ BPM blast-beat benchmark' },
-      { slug: 'isaac-lamb', name: 'Isaac Lamb', reason: 'SJC Custom Drums — Kublai Khan TX\'s crushing breakdown weight' },
       { slug: 'ben-koller', name: 'Ben Koller', reason: 'Tama Starclassic Performer B/B — Converge\'s hardcore/mathcore intensity' }
     ],
 
@@ -83418,7 +83027,6 @@ This kit's approach prioritizes organic dynamics over trigger-augmented precisio
     featuredDrummers: [
       { slug: 'chris-turner', name: 'Chris Turner', reason: 'Tama Starclassic Walnut/Birch — Oceans Ate Alaska\'s blast-beat-driven precision' },
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Masterworks Stadium Exotic — Nile\'s 240+ BPM blast-beat benchmark' },
-      { slug: 'isaac-lamb', name: 'Isaac Lamb', reason: 'SJC Custom Drums — Kublai Khan TX\'s crushing breakdown weight' },
       { slug: 'ben-koller', name: 'Ben Koller', reason: 'Tama Starclassic Performer B/B — Converge\'s hardcore/mathcore intensity' }
     ],
 
@@ -83433,12 +83041,8 @@ This kit's approach prioritizes organic dynamics over trigger-augmented precisio
         answer: "George Kollias of Nile plays a Pearl Masterworks Stadium Exotic kit finished in piano black with gold hardware. The fully custom Masterworks configuration is tuned shell-by-shell to sustain his blast beats past 240 BPM, the extreme-speed benchmark deathcore's fastest sections measure themselves against."
       },
       {
-        question: "What is the best drum kit for deathcore breakdowns?",
-        answer: "Isaac Lamb's hand-built SJC Custom Drums kit, with American maple shells cut to his own specification, is the clearest example of a breakdown-first deathcore kit — the tight bearing edges and focused low-end give Kublai Khan TX's breakdowns real physical weight against heavily downtuned 7-string guitars."
-      },
-      {
         question: "Do I need a custom shell pack to play deathcore?",
-        answer: "No — a Tama Imperialstar or Pearl Export kit will teach real blast-to-breakdown technique at a fraction of the price of the genre's Starclassic, Masterworks, and SJC Custom setups. Upgrade once your speed and dynamic control demand it."
+        answer: "No — a Tama Imperialstar or Pearl Export kit will teach real blast-to-breakdown technique at a fraction of the price of the genre's Starclassic and Masterworks setups. Upgrade once your speed and dynamic control demand it."
       },
       {
         question: "Why does deathcore need a different kit than straightforward metalcore?",
@@ -83449,11 +83053,11 @@ This kit's approach prioritizes organic dynamics over trigger-augmented precisio
     // Conclusion
     conclusion: {
       title: "Find Your Deathcore Drum Kit",
-      content: `Deathcore drum kit choice comes down to how well your setup handles the jump between blast-beat verses and breakdown-driven choruses. Chris Turner's Tama Starclassic Walnut/Birch shows how djent-tight shell consistency translates directly into deathcore-adjacent territory. George Kollias's Pearl Masterworks Stadium Exotic defined the extreme-speed benchmark the genre's fastest sections measure themselves against. Isaac Lamb's hand-built SJC Custom Drums prove that breakdown weight is a matter of shell construction and tuning, not extreme-metal pedigree, while Ben Koller's Tama Starclassic Performer B/B demonstrates two decades of hardcore/mathcore intensity feeding directly into deathcore's breakdown vocabulary.
+      content: `Deathcore drum kit choice comes down to how well your setup handles the jump between blast-beat verses and breakdown-driven choruses. Chris Turner's Tama Starclassic Walnut/Birch shows how djent-tight shell consistency translates directly into deathcore-adjacent territory. George Kollias's Pearl Masterworks Stadium Exotic defined the extreme-speed benchmark the genre's fastest sections measure themselves against, while Ben Koller's Tama Starclassic Performer B/B demonstrates two decades of hardcore/mathcore intensity feeding directly into deathcore's breakdown vocabulary.
 
-None of these approaches is more "correct" — all four represent deathcore's founding commitment to combining extreme speed with breakdown-driven weight. Start with whichever shell construction matches your material's balance of blast beats versus breakdowns, and don't be afraid to prioritize low-end punch over exotic tonal complexity.
+None of these approaches is more "correct" — all three represent deathcore's founding commitment to combining extreme speed with breakdown-driven weight. Start with whichever shell construction matches your material's balance of blast beats versus breakdowns, and don't be afraid to prioritize low-end punch over exotic tonal complexity.
 
-Budget shouldn't stop you either. A Tama Imperialstar or Pearl Export kit will teach real blast-to-breakdown technique and survive demanding practice while you save toward the Starclassic, Masterworks, and SJC Custom setups that defined this lineage's most extreme recordings.
+Budget shouldn't stop you either. A Tama Imperialstar or Pearl Export kit will teach real blast-to-breakdown technique and survive demanding practice while you save toward the Starclassic and Masterworks setups that defined this lineage's most extreme recordings.
 
 🤘 **Now go blast into that breakdown.**`
     }
@@ -83468,13 +83072,12 @@ Budget shouldn't stop you either. A Tama Imperialstar or Pearl Export kit will t
     // SEO metadata
     title: "Best Snare Drums for Deathcore: 2026 Ultimate Guide",
     metaTitle: "Best Snare Drums for Deathcore 2026 | MetalForge Expert Guide",
-    description: "Best snare drums for deathcore's blast-into-breakdown structure: what Chris Turner (Tama S.L.P. Vintage Hammered Steel), George Kollias (Pearl Signature), Isaac Lamb (SJC Custom Snare), and Ben Koller (Tama S.L.P.) actually play — ranked budget to pro.",
+    description: "Best snare drums for deathcore's blast-into-breakdown structure: what Chris Turner (Tama S.L.P. Vintage Hammered Steel), George Kollias (Pearl Signature), and Ben Koller (Tama S.L.P.) actually play — ranked budget to pro.",
     seoKeywords: [
       'best snare drums for deathcore',
       'deathcore snare drum',
       'chris turner snare oceans ate alaska',
       'george kollias snare nile',
-      'isaac lamb snare kublai khan',
       'ben koller snare converge',
       'tama slp deathcore snare',
       'pearl signature snare deathcore',
@@ -83491,10 +83094,10 @@ Budget shouldn't stop you either. A Tama Imperialstar or Pearl Export kit will t
     // Hero section
     hero: {
       title: "🥁 Best Snare Drums for Deathcore",
-      subtitle: "What Chris Turner, George Kollias, Isaac Lamb, and Ben Koller Actually Play",
+      subtitle: "What Chris Turner, George Kollias, and Ben Koller Actually Play",
       badge: "GEAR GUIDE 2026",
       stats: [
-        { value: '4', label: 'Snares Reviewed' },
+        { value: '3', label: 'Snares Reviewed' },
         { value: '7 min', label: 'Read Time' },
         { value: '2026', label: 'Updated' }
       ]
@@ -83505,13 +83108,12 @@ Budget shouldn't stop you either. A Tama Imperialstar or Pearl Export kit will t
       title: "Why Deathcore Needs a Snare That Cuts Blast Beats and Crushes Breakdowns",
       content: `Deathcore's blast-into-breakdown structure asks a single snare to do two contradictory jobs. During blast-beat verses, it needs a dry, immediate crack that stays articulate at 240+ BPM without smearing into a wash of overtone. During breakdowns, that same snare needs to land with maximum rimshot authority and cut through heavily downtuned, palm-muted guitar walls built for moshing. Few metal subgenres put a snare through a wider dynamic and tempo range within a single track.
 
-Chris Turner of Oceans Ate Alaska plays a Tama S.L.P. 14"x5.5" Vintage Hammered Steel snare, whose hammered steel shell gives his blast-beat fills a dry, cutting crack while retaining enough rimshot punch for breakdown accents. George Kollias of Nile plays his own Pearl George Kollias Signature 14"x6.5" snare, engineered specifically for cut and articulation at the extreme tempos his blast beats sustain past 240 BPM. Isaac Lamb of Kublai Khan TX plays a hand-built 14"x6.5" SJC Custom Snare, whose deeper shell and American maple construction add the body and volume his breakdown-first hardcore approach demands. Ben Koller of Converge and Mutoid Man rounds out the lineup on a Tama S.L.P. 14"x6.5" steel snare, delivering the same quick-response, hardcore-punk-informed crack that anchored landmark records like "Jane Doe."
+Chris Turner of Oceans Ate Alaska plays a Tama S.L.P. 14"x5.5" Vintage Hammered Steel snare, whose hammered steel shell gives his blast-beat fills a dry, cutting crack while retaining enough rimshot punch for breakdown accents. George Kollias of Nile plays his own Pearl George Kollias Signature 14"x6.5" snare, engineered specifically for cut and articulation at the extreme tempos his blast beats sustain past 240 BPM. Ben Koller of Converge and Mutoid Man rounds out the lineup on a Tama S.L.P. 14"x6.5" steel snare, delivering the same quick-response, hardcore-punk-informed crack that anchored landmark records like "Jane Doe."
 
-This guide breaks down shell material, depth, and tuning for deathcore snares — comparing four drummers whose metalcore, hardcore, and technical death metal lineages define the genre's blast-into-breakdown foundation, with recommendations from budget to professional touring rigs.`,
+This guide breaks down shell material, depth, and tuning for deathcore snares — comparing three drummers whose metalcore, hardcore, and technical death metal lineages define the genre's blast-into-breakdown foundation, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
         "Chris Turner's Tama S.L.P. Vintage Hammered Steel snare delivers a dry, cutting crack for blast-beat fills and breakdown accents alike",
         "George Kollias's Pearl signature snare is purpose-built for cut and articulation at 240+ BPM blast-beat tempos",
-        "Isaac Lamb's deeper 6.5\" SJC Custom Snare adds the body and volume breakdown-first deathcore demands",
         "Steel shells dominate deathcore's closest lineage for their dry, immediate crack under both speed and weight"
       ]
     },
@@ -83529,13 +83131,13 @@ This guide breaks down shell material, depth, and tuning for deathcore snares �
         {
           name: "Rimshot Authority for Breakdowns",
           icon: "💥",
-          description: "A deathcore breakdown needs a rimshot with real crack and volume to punctuate crushing, syncopated hits. George Kollias's signature snare and Isaac Lamb's deeper SJC Custom Snare are both tuned to deliver that authority without losing articulation.",
+          description: "A deathcore breakdown needs a rimshot with real crack and volume to punctuate crushing, syncopated hits. George Kollias's signature snare is tuned to deliver that authority without losing articulation.",
           recommendation: "Medium-high tuning with a hoop that supports powerful, consistent rimshots"
         },
         {
           name: "Shell Depth for Body vs Speed",
           icon: "📏",
-          description: "Isaac Lamb's 6.5\" SJC Custom Snare trades a touch of blast-beat speed for extra low-end body that suits breakdown-first playing, while the shallower 5.5\" depth on Chris Turner's Tama S.L.P. favors faster, crisper response.",
+          description: "A deeper 6.5\" shell trades a touch of blast-beat speed for extra low-end body that suits breakdown-first playing, while the shallower 5.5\" depth on Chris Turner's Tama S.L.P. favors faster, crisper response.",
           recommendation: "14x5.5\" for maximum blast-beat crispness, 14x6.5\" for added breakdown body"
         },
         {
@@ -83645,46 +83247,6 @@ The 6.5" depth gives Kollias's signature snare a bit more body than shallower al
         },
         {
           rank: 3,
-          name: "SJC Custom Snare",
-          brand: "SJC",
-          model: "SJC Custom Snare 14\"x6.5\"",
-          image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Drums_01.jpg",
-          priceRange: "€300-450",
-          tier: "mid-pro",
-          material: "American Maple (14x6.5\")",
-
-          description: `Isaac Lamb of Kublai Khan TX plays a hand-built 14"x6.5" SJC Custom Snare, half an inch deeper than a standard 5.5" snare. That extra depth adds body and volume for breakdown accents without excessive sustain that would muddy Kublai Khan TX's groove-tempo backbeat.
-
-Lamb's snare choice defines the breakdown-first, hardcore side of deathcore's snare demands — proof that a boutique-quality American maple shell, tuned medium-high, can deliver crushing rimshot authority without needing an extreme-metal shell pedigree.`,
-
-          pros: [
-            "Isaac Lamb's Kublai Khan TX setup — proven on crushing, moshable breakdown sections",
-            "6.5\" depth adds body and rimshot volume over standard 5.5\" alternatives",
-            "American maple shell built to the player's own specification",
-            "Built for durability across an unbroken touring schedule since 2009",
-            "Tuned medium-high for crack without excessive ring"
-          ],
-          cons: [
-            "Less articulate at extreme blast-beat tempos than shallower, brighter steel alternatives",
-            "Boutique custom builds cost more than comparable production snares",
-            "Less common outside North American retailers"
-          ],
-          specs: {
-            shell: "American Maple (SJC Custom)",
-            diameter: "14\"",
-            depth: "6.5\"",
-            throwOff: "SJC Custom Throw-Off",
-            wires: "20-strand"
-          },
-          usedBy: [
-            { name: "Isaac Lamb", band: "Kublai Khan TX", note: "14x6.5\" SJC Custom Snare — deathcore's crushing, breakdown-first crack" }
-          ],
-          verdict: "Best for breakdown-first deathcore. Lamb's deeper maple snare delivers real moshable rimshot authority.",
-          rating: 4.5,
-          affiliateLink: "https://www.thomann.de/intl/sjc_custom_snare_isaac_lamb.htm?partner_id=metalforge"
-        },
-        {
-          rank: 4,
           name: "Tama S.L.P.",
           brand: "Tama",
           model: "S.L.P. 14\"x6.5\"",
@@ -83772,17 +83334,17 @@ Koller's approach prioritizes power and organic dynamics over trigger-augmented 
 - Still delivers enough rimshot punch for breakdown accents
 - Best for technical, blast-beat-forward deathcore
 
-**14x6.5\" (George Kollias, Isaac Lamb, Ben Koller):**
+**14x6.5\" (George Kollias, Ben Koller):**
 - Adds low-end body and rimshot authority for breakdown-heavy material
 - Still articulate enough for extreme-speed blast sections
 - Best for drummers who need maximum breakdown weight alongside blast-beat speed
 
-**Our Recommendation:** Start with a Tama Imperialstar or Pearl Export steel snare if you're building deathcore technique on a budget. Choose the shallower 5.5\" depth if your material leans blast-beat-forward. Go with a 6.5\" depth — George Kollias's signature model, Isaac Lamb's SJC Custom, or Ben Koller's Tama S.L.P. — if breakdowns are the priority.`,
+**Our Recommendation:** Start with a Tama Imperialstar or Pearl Export steel snare if you're building deathcore technique on a budget. Choose the shallower 5.5\" depth if your material leans blast-beat-forward. Go with a 6.5\" depth — George Kollias's signature model or Ben Koller's Tama S.L.P. — if breakdowns are the priority.`,
       comparisonTable: [
-        { feature: "Blast Beat Crispness", maple: "⭐⭐⭐", hybrid: "⭐⭐⭐⭐⭐", dual: "⭐⭐⭐⭐" },
-        { feature: "Breakdown Rimshot Authority", maple: "⭐⭐⭐⭐⭐", hybrid: "⭐⭐⭐", dual: "⭐⭐⭐⭐" },
-        { feature: "Versatility", maple: "⭐⭐⭐⭐", hybrid: "⭐⭐⭐⭐", dual: "⭐⭐⭐⭐⭐" },
-        { feature: "Price (entry)", maple: "€300+", hybrid: "€400+", dual: "€350+" }
+        { feature: "Blast Beat Crispness", hybrid: "⭐⭐⭐⭐⭐", dual: "⭐⭐⭐⭐" },
+        { feature: "Breakdown Rimshot Authority", hybrid: "⭐⭐⭐", dual: "⭐⭐⭐⭐" },
+        { feature: "Versatility", hybrid: "⭐⭐⭐⭐", dual: "⭐⭐⭐⭐⭐" },
+        { feature: "Price (entry)", hybrid: "€400+", dual: "€350+" }
       ]
     },
 
@@ -83801,11 +83363,6 @@ Koller's approach prioritizes power and organic dynamics over trigger-augmented 
           reason: "George Kollias's own signature model — designed around sustaining 240+ BPM blast beats."
         },
         {
-          category: "Best for Breakdown Weight",
-          pedal: "SJC Custom Snare",
-          reason: "Isaac Lamb's Kublai Khan TX setup — deeper maple shell for crushing, moshable rimshot authority."
-        },
-        {
           category: "Best Budget",
           pedal: "Tama Imperialstar Steel",
           reason: "The same Tama steel DNA at accessible pricing. A real starting point before upgrading."
@@ -83822,7 +83379,6 @@ Koller's approach prioritizes power and organic dynamics over trigger-augmented 
     relatedDrummers: [
       { slug: 'chris-turner', name: 'Chris Turner', reason: 'Tama S.L.P. Vintage Hammered Steel — Oceans Ate Alaska\'s blast-beat-driven crack' },
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl George Kollias Signature — Nile\'s 240+ BPM blast-beat benchmark' },
-      { slug: 'isaac-lamb', name: 'Isaac Lamb', reason: 'SJC Custom Snare — Kublai Khan TX\'s crushing breakdown weight' },
       { slug: 'ben-koller', name: 'Ben Koller', reason: 'Tama S.L.P. — Converge\'s hardcore/mathcore intensity' }
     ],
 
@@ -83830,7 +83386,6 @@ Koller's approach prioritizes power and organic dynamics over trigger-augmented 
     featuredDrummers: [
       { slug: 'chris-turner', name: 'Chris Turner', reason: 'Tama S.L.P. Vintage Hammered Steel — Oceans Ate Alaska\'s blast-beat-driven crack' },
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl George Kollias Signature — Nile\'s 240+ BPM blast-beat benchmark' },
-      { slug: 'isaac-lamb', name: 'Isaac Lamb', reason: 'SJC Custom Snare — Kublai Khan TX\'s crushing breakdown weight' },
       { slug: 'ben-koller', name: 'Ben Koller', reason: 'Tama S.L.P. — Converge\'s hardcore/mathcore intensity' }
     ],
 
@@ -83846,11 +83401,11 @@ Koller's approach prioritizes power and organic dynamics over trigger-augmented 
       },
       {
         question: "What snare depth is best for deathcore?",
-        answer: "It depends on your material's balance of blast beats versus breakdowns. Chris Turner's shallower 14x5.5\" Tama S.L.P. favors crisp, fast blast-beat response. George Kollias, Isaac Lamb, and Ben Koller all play 14x6.5\" snares for extra body and rimshot authority on breakdown-heavy sections."
+        answer: "It depends on your material's balance of blast beats versus breakdowns. Chris Turner's shallower 14x5.5\" Tama S.L.P. favors crisp, fast blast-beat response. George Kollias and Ben Koller both play 14x6.5\" snares for extra body and rimshot authority on breakdown-heavy sections."
       },
       {
         question: "Why does deathcore need a snare that handles both blast beats and breakdowns?",
-        answer: "Deathcore songs alternate between extreme-speed, technical death metal-style blast beat verses and slower, half-time breakdown sections within the same track. A snare tuned only for one extreme — dry and crisp for blast beats, or deep and powerful for breakdowns — will fall short on the other. Isaac Lamb's deeper SJC Custom Snare and George Kollias's signature model both prove a single, well-tuned snare can cover the full range."
+        answer: "Deathcore songs alternate between extreme-speed, technical death metal-style blast beat verses and slower, half-time breakdown sections within the same track. A snare tuned only for one extreme — dry and crisp for blast beats, or deep and powerful for breakdowns — will fall short on the other. George Kollias's deeper signature model proves a single, well-tuned snare can cover the full range."
       },
       {
         question: "Do I need a signature or custom snare to play deathcore?",
@@ -83861,9 +83416,9 @@ Koller's approach prioritizes power and organic dynamics over trigger-augmented 
     // Conclusion
     conclusion: {
       title: "Find Your Deathcore Snare Voice",
-      content: `Deathcore snare choice comes down to how well your drum handles the jump between blast-beat verses and breakdown-driven choruses. Chris Turner's Tama S.L.P. Vintage Hammered Steel shows how a dry, cutting shell can carry both extremes at once. George Kollias's own Pearl signature model defined the extreme-speed benchmark deathcore's fastest sections measure themselves against. Isaac Lamb's deeper SJC Custom Snare proves that breakdown weight is a matter of depth and tuning rather than extreme-metal pedigree, while Ben Koller's Tama S.L.P. demonstrates two decades of hardcore/mathcore intensity feeding directly into deathcore's breakdown vocabulary.
+      content: `Deathcore snare choice comes down to how well your drum handles the jump between blast-beat verses and breakdown-driven choruses. Chris Turner's Tama S.L.P. Vintage Hammered Steel shows how a dry, cutting shell can carry both extremes at once. George Kollias's own Pearl signature model defined the extreme-speed benchmark deathcore's fastest sections measure themselves against, while Ben Koller's Tama S.L.P. demonstrates two decades of hardcore/mathcore intensity feeding directly into deathcore's breakdown vocabulary.
 
-None of these approaches is more "correct" — all four represent deathcore's founding commitment to combining extreme speed with breakdown-driven weight. Start with whichever depth matches your material's balance of blast beats versus breakdowns, and don't be afraid to tune tighter and drier than other metal subgenres would suggest.
+None of these approaches is more "correct" — all three represent deathcore's founding commitment to combining extreme speed with breakdown-driven weight. Start with whichever depth matches your material's balance of blast beats versus breakdowns, and don't be afraid to tune tighter and drier than other metal subgenres would suggest.
 
 Budget shouldn't stop you either. A Tama Imperialstar or Pearl Export steel snare will teach real technique and survive demanding practice while you save toward the signature and custom-built models that defined this lineage's most extreme recordings.
 
@@ -94304,13 +93859,12 @@ For most thrash metal drummers, start with a standard Vic Firth or Vater 5B to f
     // SEO metadata
     title: "Best Drumsticks for Deathcore: 2026 Ultimate Guide",
     metaTitle: "Best Drumsticks for Deathcore 2026 | MetalForge Expert Guide",
-    description: "Best drumsticks for deathcore drumming: what George Kollias (Vic Firth Signature), Ben Koller (Vic Firth 5B), Isaac Lamb (Vater Power 5B), and Chris Turner (Vater Fusion 5B) actually play. Heavy, durable sticks built for blast-beat impact and slam-timed breakdowns — ranked budget to pro.",
+    description: "Best drumsticks for deathcore drumming: what George Kollias (Vic Firth Signature), Ben Koller (Vic Firth 5B), and Chris Turner (Vater Fusion 5B) actually play. Heavy, durable sticks built for blast-beat impact and slam-timed breakdowns — ranked budget to pro.",
     seoKeywords: [
       'best drumsticks for deathcore',
       'deathcore drumsticks',
       'george kollias drumsticks',
       'ben koller drumsticks converge',
-      'isaac lamb drumsticks kublai khan',
       'chris turner drumsticks oceans ate alaska',
       'vic firth george kollias signature',
       'best sticks for slam breakdowns',
@@ -94330,7 +93884,7 @@ For most thrash metal drummers, start with a standard Vic Firth or Vater 5B to f
       subtitle: "Heavy, Durable Sticks for Blast-Beat Impact and Slam-Timed Breakdowns",
       badge: "GEAR GUIDE 2026",
       stats: [
-        { value: '4', label: 'Sticks Reviewed' },
+        { value: '3', label: 'Sticks Reviewed' },
         { value: '7 min', label: 'Read Time' },
         { value: '2026', label: 'Updated' }
       ]
@@ -94341,13 +93895,12 @@ For most thrash metal drummers, start with a standard Vic Firth or Vater 5B to f
       title: "Why Deathcore Demands a Heavy, Durable Stick",
       content: `Deathcore asks a drumstick to survive two extremes in the same set: sustained blast beats that punish a stick's rebound and speed, and slam-timed breakdowns that land with maximum, deliberate force. A stick that's too light breaks fast under breakdown-weight hits; one that's too heavy can't keep pace once the verse kicks back into blast-beat tempo. That tension is why deathcore's most respected drummers gravitate toward thicker, durable diameters rather than the lighter sticks that dominate more speed-first extreme metal.
 
-George Kollias of Nile plays his own Vic Firth signature stick, tuned to sustain blast beats past 240 BPM with the durability to survive a full deathcore-adjacent touring schedule. Ben Koller of Converge and Mutoid Man plays a standard Vic Firth American Classic 5B, proving deathcore's breakdown weight doesn't strictly require a specialized model. Isaac Lamb of Kublai Khan TX pairs a thick, durable Vater Power 5B with his DW 9000 double pedal setup to land slam-timed breakdown hits with consistent, immediate force. Chris Turner of Oceans Ate Alaska plays a Vater Fusion 5B, built to hold up under his Tama Speed Cobra 910-driven blast-beat precision.
+George Kollias of Nile plays his own Vic Firth signature stick, tuned to sustain blast beats past 240 BPM with the durability to survive a full deathcore-adjacent touring schedule. Ben Koller of Converge and Mutoid Man plays a standard Vic Firth American Classic 5B, proving deathcore's breakdown weight doesn't strictly require a specialized model. Chris Turner of Oceans Ate Alaska plays a Vater Fusion 5B, built to hold up under his Tama Speed Cobra 910-driven blast-beat precision.
 
 This guide covers what actually makes a stick work for deathcore's dual demand of speed and slam-weight, what the genre's respected drummers actually play, and concrete recommendations from budget to pro.`,
       keyPoints: [
         "Deathcore's mix of blast beats and slam-timed breakdowns rewards a thicker, more durable stick than pure speed-first extreme metal",
         "George Kollias's Vic Firth signature sustains blast beats past 240 BPM while surviving heavy touring wear",
-        "Isaac Lamb's Vater Power 5B is built to land slam-timed breakdown hits with consistent, immediate weight",
         "Ben Koller's standard Vic Firth 5B shows deathcore's demands don't strictly require a signature model"
       ]
     },
@@ -94359,7 +93912,7 @@ This guide covers what actually makes a stick work for deathcore's dual demand o
         {
           name: "Diameter and Durability",
           icon: "📏",
-          description: "Deathcore's slam-timed breakdowns land with maximum, deliberate force — a thin stick simply doesn't survive that impact over a full set. Isaac Lamb's Vater Power 5B and Ben Koller's Vic Firth 5B both sit at a heavier standard diameter built to absorb that punishment.",
+          description: "Deathcore's slam-timed breakdowns land with maximum, deliberate force — a thin stick simply doesn't survive that impact over a full set. Ben Koller's Vic Firth 5B sits at a heavier standard diameter built to absorb that punishment.",
           recommendation: "5B or heavier diameter for maximum durability under breakdown-weight impact"
         },
         {
@@ -94371,13 +93924,13 @@ This guide covers what actually makes a stick work for deathcore's dual demand o
         {
           name: "Tip Shape and Size",
           icon: "🔵",
-          description: "A larger, durable tip cuts cleanly through deathcore's dense, down-tuned breakdowns without breaking down early. George Kollias's teardrop tip and the oval tips on Ben Koller's and Isaac Lamb's sticks both deliver this kind of cutting, durable cymbal response.",
+          description: "A larger, durable tip cuts cleanly through deathcore's dense, down-tuned breakdowns without breaking down early. George Kollias's teardrop tip and the oval tip on Ben Koller's stick both deliver this kind of cutting, durable cymbal response.",
           recommendation: "Teardrop or oval wood tips for durable, cutting cymbal articulation"
         },
         {
           name: "Weight for Slam-Timed Impact",
           icon: "💥",
-          description: "Isaac Lamb's Vater Power 5B is built specifically to land breakdown hits with maximum, consistent force alongside his DW 9000 pedal setup — a heavier stick genuinely changes how a slam-timed hit lands compared to a lighter, speed-first model.",
+          description: "A deathcore breakdown hit needs to land with maximum, consistent force — a heavier stick genuinely changes how a slam-timed hit lands compared to a lighter, speed-first model.",
           recommendation: "Extra-thick 5B-class diameter when breakdown impact is the priority"
         },
         {
@@ -94389,7 +93942,7 @@ This guide covers what actually makes a stick work for deathcore's dual demand o
         {
           name: "Signature vs Standard",
           icon: "🎯",
-          description: "Deathcore splits between drummers on purpose-built signature sticks (George Kollias) and drummers on standard or heavier off-the-shelf sizes (Ben Koller, Isaac Lamb, Chris Turner). Both approaches are proven at the genre's highest level.",
+          description: "Deathcore splits between drummers on purpose-built signature sticks (George Kollias) and drummers on standard or heavier off-the-shelf sizes (Ben Koller, Chris Turner). Both approaches are proven at the genre's highest level.",
           recommendation: "A standard heavier 5B is a fully valid choice; a signature model is worth it once extreme-speed control becomes the limiting factor"
         }
       ]
@@ -94479,45 +94032,6 @@ Koller's choice reinforces that deathcore's dual speed-and-weight demand doesn't
         },
         {
           rank: 3,
-          name: "Vater Power 5B",
-          brand: "Vater",
-          model: "Power 5B",
-          image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Drumsticks.jpg/640px-Drumsticks.jpg",
-          priceRange: "€11-15 (pair)",
-          tier: "pro",
-          material: "American Hickory",
-
-          description: `Isaac Lamb of Kublai Khan TX pairs an extra-thick Vater Power 5B with his DW 9000 Series double pedal setup, building his entire hardware approach around landing slam-timed breakdown hits with consistent, immediate weight. Where a lighter, speed-first stick can lose authority on maximum-force hits, Lamb's Power 5B drives real mass into every breakdown.
-
-The Power 5B's thicker profile matches the direct-drive precision of Lamb's pedal setup, giving Kublai Khan TX's slam-first material the full weight it's built around.`,
-
-          pros: [
-            "Isaac Lamb's proven Kublai Khan TX setup — built for slam-timed breakdown weight",
-            "Extra-thick diameter drives maximum force into breakdown hits",
-            "American hickory for durability under aggressive, slam-heavy playing",
-            "Pairs naturally with a direct-drive double pedal setup for consistent impact",
-            "Widely available at accessible pricing"
-          ],
-          cons: [
-            "Extra mass demands more refined technique to sustain at maximum tempo",
-            "Heavier feel takes adjustment for drummers used to a lighter stick"
-          ],
-          specs: {
-            material: "American Hickory",
-            diameter: "0.610\"",
-            length: "16\"",
-            tip: "Oval (wood)",
-            grip: "Lacquered"
-          },
-          usedBy: [
-            { name: "Isaac Lamb", band: "Kublai Khan TX", note: "Vater Power 5B — extra-thick mass for slam-timed breakdown weight" }
-          ],
-          verdict: "The slam-first pick. Best for deathcore drummers who want maximum breakdown authority.",
-          rating: 4.6,
-          affiliateLink: "https://www.thomann.de/intl/vater_power_5b.htm?partner_id=metalforge"
-        },
-        {
-          rank: 4,
           name: "Vater Fusion 5B",
           brand: "Vater",
           model: "Fusion 5B Wood Tip",
@@ -94539,7 +94053,7 @@ Turner's setup shows a standard, non-signature Vater model can carry a drummer t
           ],
           cons: [
             "Less documented pedigree than a full signature model",
-            "Not as specialized for maximum breakdown mass as the Vater Power 5B"
+            "Not as specialized for maximum breakdown mass as a dedicated heavier 5B"
           ],
           specs: {
             material: "American Hickory",
@@ -94604,12 +94118,11 @@ Turner's setup shows a standard, non-signature Vater model can carry a drummer t
 - Teardrop tip and tuned diameter balance speed and control
 - Preferred by: George Kollias
 
-**Standard/Heavier Sizes (Vic Firth 5B, Vater Power 5B, Vater Fusion 5B):**
+**Standard/Heavier Sizes (Vic Firth 5B, Vater Fusion 5B):**
 - Broadly proven, widely available, and more affordable
-- Isaac Lamb's thicker Power 5B shows a heavier standard size can carry deathcore's slam demands
-- Preferred by: Ben Koller, Isaac Lamb, Chris Turner
+- Preferred by: Ben Koller, Chris Turner
 
-**The Truth:** Both approaches work at the genre's highest level. George Kollias's signature stick exists because his extreme-tempo material genuinely rewards every fraction of hand speed and durability a purpose-built stick can offer. Ben Koller's, Isaac Lamb's, and Chris Turner's standard picks show that a well-chosen 5B-class stick handles deathcore's full range without any specialized geometry.
+**The Truth:** Both approaches work at the genre's highest level. George Kollias's signature stick exists because his extreme-tempo material genuinely rewards every fraction of hand speed and durability a purpose-built stick can offer. Ben Koller's and Chris Turner's standard picks show that a well-chosen 5B-class stick handles deathcore's full range without any specialized geometry.
 
 **Our Recommendation:** Start with a standard Vic Firth or Vater 5B to find your baseline feel. If you're chasing the genre's fastest sustained blast beats and need built-in durability, George Kollias's signature model is worth the upgrade.`,
       comparisonTable: [
@@ -94636,11 +94149,6 @@ Turner's setup shows a standard, non-signature Vater model can carry a drummer t
           reason: "Ben Koller's proven choice — control within extreme, breakdown-heavy chaos."
         },
         {
-          category: "Best for Slam Impact",
-          pedal: "Vater Power 5B",
-          reason: "Isaac Lamb's extra-thick pick — maximum weight for slam-timed breakdown hits."
-        },
-        {
           category: "Best Budget Pick",
           pedal: "Vic Firth American Classic 5A",
           reason: "Lighter, affordable option for building blast-beat hand speed and control."
@@ -94658,7 +94166,6 @@ Turner's setup shows a standard, non-signature Vater model can carry a drummer t
     relatedDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Vic Firth signature — 240+ BPM blast-beat endurance' },
       { slug: 'ben-koller', name: 'Ben Koller', reason: 'Vic Firth American Classic 5B — control within breakdown-heavy chaos' },
-      { slug: 'isaac-lamb', name: 'Isaac Lamb', reason: 'Vater Power 5B — Kublai Khan TX slam-timed breakdown weight' },
       { slug: 'chris-turner', name: 'Chris Turner', reason: 'Vater Fusion 5B — Oceans Ate Alaska blast-beat precision' }
     ],
 
@@ -94666,7 +94173,6 @@ Turner's setup shows a standard, non-signature Vater model can carry a drummer t
     featuredDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Vic Firth signature — 240+ BPM blast-beat precision' },
       { slug: 'ben-koller', name: 'Ben Koller', reason: 'Vic Firth American Classic 5B — Converge/Mutoid Man breakdown control' },
-      { slug: 'isaac-lamb', name: 'Isaac Lamb', reason: 'Vater Power 5B — Kublai Khan TX slam-first precision' },
       { slug: 'chris-turner', name: 'Chris Turner', reason: 'Vater Fusion 5B — Oceans Ate Alaska blast-beat-driven precision' }
     ],
     relatedComparisons: [],
@@ -94679,7 +94185,7 @@ Turner's setup shows a standard, non-signature Vater model can carry a drummer t
       },
       {
         question: "What's the best drumstick for deathcore breakdowns?",
-        answer: "A thicker 5B-class diameter, like Isaac Lamb's Vater Power 5B, delivers the maximum weight deathcore's slam-timed breakdowns reward. Ben Koller's standard Vic Firth 5B is a strong alternative if you want proven reliability without the extra thickness."
+        answer: "A thicker 5B-class diameter delivers the maximum weight deathcore's slam-timed breakdowns reward. Ben Koller's standard Vic Firth 5B is a strong alternative if you want proven reliability without the extra thickness."
       },
       {
         question: "What drumsticks does Ben Koller use?",
@@ -94687,7 +94193,7 @@ Turner's setup shows a standard, non-signature Vater model can carry a drummer t
       },
       {
         question: "Do deathcore drummers need heavier sticks than other extreme metal genres?",
-        answer: "Often, yes. Slam-timed breakdowns reward extra mass, which is why Isaac Lamb's Vater Power 5B sits above a standard 5B in diameter. That said, George Kollias's lighter signature stick shows blast-beat speed can still take priority when a drummer's material leans faster."
+        answer: "Often, yes. Slam-timed breakdowns reward extra mass, which is why some deathcore drummers size up to a heavier 5B diameter. That said, George Kollias's lighter signature stick shows blast-beat speed can still take priority when a drummer's material leans faster."
       },
       {
         question: "What drumsticks does Chris Turner use?",
@@ -94698,9 +94204,9 @@ Turner's setup shows a standard, non-signature Vater model can carry a drummer t
     // Conclusion
     conclusion: {
       title: "Find Your Deathcore Stick",
-      content: `Deathcore's stick choices reflect the genre's core tension: blast-beat speed on one side, slam-timed breakdown weight on the other. George Kollias's Vic Firth signature exists because his extreme-tempo material genuinely rewards every fraction of hand speed and built-in durability. Isaac Lamb's thicker Vater Power 5B shows the opposite priority — maximum weight for landing breakdown hits with authority.
+      content: `Deathcore's stick choices reflect the genre's core tension: blast-beat speed on one side, slam-timed breakdown weight on the other. George Kollias's Vic Firth signature exists because his extreme-tempo material genuinely rewards every fraction of hand speed and built-in durability. Ben Koller's and Chris Turner's standard 5B picks show the opposite priority is just as valid — real breakdown weight from an off-the-shelf size.
 
-For most deathcore drummers, start with a standard Vic Firth or Vater 5B to find your baseline feel. If breakdown weight is your priority, size up to a Power 5B; if blast-beat speed and durability matter more, a lightweight signature model is worth the upgrade.
+For most deathcore drummers, start with a standard Vic Firth or Vater 5B to find your baseline feel. If breakdown weight is your priority, size up to a heavier 5B-class stick; if blast-beat speed and durability matter more, a lightweight signature model is worth the upgrade.
 
 🤘 **Survive the blast. Land the slam. Break nothing.**`
     }
@@ -98296,12 +97802,11 @@ Whatever you choose, prioritize choked decay and chick precision over natural wa
     // SEO metadata
     title: "Best Hi-Hats for Deathcore: 2026 Ultimate Guide",
     metaTitle: "Best Hi-Hats for Deathcore 2026 | MetalForge Expert Guide",
-    description: "What hi-hats are used in deathcore? Discover what Chris Turner (Meinl Byzance Dual), Isaac Lamb (Meinl Classics Custom Dark), Ben Koller (Zildjian K Dark), and George Kollias (Zildjian K Mastersound) actually play — blast-beat-durable hi-hats built for deathcore's blast-into-breakdown structure, from budget to pro.",
+    description: "What hi-hats are used in deathcore? Discover what Chris Turner (Meinl Byzance Dual), Ben Koller (Zildjian K Dark), and George Kollias (Zildjian K Mastersound) actually play — blast-beat-durable hi-hats built for deathcore's blast-into-breakdown structure, from budget to pro.",
     seoKeywords: [
       'best hi-hats for deathcore',
       'deathcore hi-hats',
       'chris turner hi-hats oceans ate alaska',
-      'isaac lamb hi-hats kublai khan',
       'ben koller hi-hats converge',
       'george kollias hi-hats nile',
       'k mastersound hi-hats deathcore',
@@ -98319,10 +97824,10 @@ Whatever you choose, prioritize choked decay and chick precision over natural wa
     // Hero section
     hero: {
       title: "🎪 Best Hi-Hats for Deathcore",
-      subtitle: "What Chris Turner, Isaac Lamb, Ben Koller, and George Kollias Actually Play",
+      subtitle: "What Chris Turner, Ben Koller, and George Kollias Actually Play",
       badge: "GEAR GUIDE 2026",
       stats: [
-        { value: '4', label: 'Hi-Hats Reviewed' },
+        { value: '3', label: 'Hi-Hats Reviewed' },
         { value: '7 min', label: 'Read Time' },
         { value: '2026', label: 'Updated' }
       ]
@@ -98333,13 +97838,12 @@ Whatever you choose, prioritize choked decay and chick precision over natural wa
       title: "What Hi-Hats Are Used in Deathcore?",
       content: `Deathcore fuses death metal's blast beats and technical brutality with metalcore and hardcore's chugging, half-time breakdown pocket — and that split identity puts unusual demands on a hi-hat. A single song can alternate between extreme-speed blast-beat verses, where the hi-hat needs to stay articulate and durable at 240+ BPM, and slower, syncopated breakdown sections built for moshing, where a dry, controlled chick needs to land with maximum weight rather than washing out.
 
-Chris Turner of Oceans Ate Alaska brings progressive metalcore's polyrhythmic precision to deathcore-adjacent territory on 15" Dual Hi-Hats from the Meinl Byzance Series, part of a broader setup engineered for the technical, blast-beat-driven fills documented on Oceans Ate Alaska's "Hikari" (2017). Isaac Lamb of Kublai Khan TX represents the breakdown-first end of deathcore's hardcore lineage on Meinl Classics Custom Dark hi-hats, built for crushing, moshable breakdown weight. Ben Koller of Converge and Mutoid Man brings hardcore punk and mathcore's blistering speed and dynamic range on Zildjian K Dark hi-hats. George Kollias of Nile — whose documented 240+ BPM blast beats set the extreme-speed benchmark deathcore's blast sections measure themselves against — rounds out the lineup on 14" Zildjian K Mastersound Hi-Hats, voiced specifically for dry, cutting articulation at sustained high-speed patterns.
+Chris Turner of Oceans Ate Alaska brings progressive metalcore's polyrhythmic precision to deathcore-adjacent territory on 15" Dual Hi-Hats from the Meinl Byzance Series, part of a broader setup engineered for the technical, blast-beat-driven fills documented on Oceans Ate Alaska's "Hikari" (2017). Ben Koller of Converge and Mutoid Man brings hardcore punk and mathcore's blistering speed and dynamic range on Zildjian K Dark hi-hats. George Kollias of Nile — whose documented 240+ BPM blast beats set the extreme-speed benchmark deathcore's blast sections measure themselves against — rounds out the lineup on 14" Zildjian K Mastersound Hi-Hats, voiced specifically for dry, cutting articulation at sustained high-speed patterns.
 
-This guide breaks down what makes a great deathcore hi-hat — blast-beat durability, breakdown weight, and dynamic range — and which specific models these four influential drummers rely on, from budget starter pairs to the professional setups behind deathcore's most punishing records.`,
+This guide breaks down what makes a great deathcore hi-hat — blast-beat durability, breakdown weight, and dynamic range — and which specific models these three influential drummers rely on, from budget starter pairs to the professional setups behind deathcore's most punishing records.`,
       keyPoints: [
         "Chris Turner's 15\" Meinl Byzance Dual Hi-Hats bring progressive metalcore's polyrhythmic precision to deathcore's blast-beat fills",
         "George Kollias's 14\" Zildjian K Mastersound Hi-Hats are voiced specifically for dry, cutting articulation at sustained high-speed blast patterns",
-        "Isaac Lamb's dark-voiced Meinl Classics Custom Dark hi-hats show the breakdown-first, hardcore side of deathcore's hi-hat demands",
         "Every featured setup prioritizes durability — deathcore's blast-into-breakdown structure punishes hi-hats over a full set"
       ]
     },
@@ -98357,7 +97861,7 @@ This guide breaks down what makes a great deathcore hi-hat — blast-beat durabi
         {
           name: "Dry, Controlled Voicing for Breakdowns",
           icon: "🌫️",
-          description: "Deathcore's chugging, half-time breakdown sections need hi-hats that don't wash into a wall of sustain. Isaac Lamb's Meinl Classics Custom Dark hi-hats are voiced with minimal ring, staying controlled through crushing, syncopated breakdown passages.",
+          description: "Deathcore's chugging, half-time breakdown sections need hi-hats that don't wash into a wall of sustain. A dark or Extra Dry-voiced hi-hat is voiced with minimal ring, staying controlled through crushing, syncopated breakdown passages.",
           recommendation: "Dark or Extra Dry-voiced hi-hats for controlled, low-sustain breakdown weight"
         },
         {
@@ -98409,7 +97913,7 @@ Where a washier hi-hat would blur into noise at sustained blast-beat speed, the 
           cons: [
             "Dry voicing has less natural sustain than brighter alternatives",
             "Higher price point",
-            "Less breakdown-weighted than Isaac Lamb's darker Classics Custom setup"
+            "Less breakdown-weighted than a dark, breakdown-first hi-hat setup"
           ],
           specs: {
             material: "B20 bronze",
@@ -98487,7 +97991,7 @@ Koller's setup shows deathcore's hardcore and mathcore lineage in action — a h
           cons: [
             "Warmer voicing less blast-beat-specialized than Kollias's K Mastersound",
             "Higher price point",
-            "Less breakdown-weighted than Isaac Lamb's darker setup"
+            "Less breakdown-weighted than a dark, breakdown-first hi-hat setup"
           ],
           specs: {
             material: "B20 bronze",
@@ -98503,45 +98007,6 @@ Koller's setup shows deathcore's hardcore and mathcore lineage in action — a h
           rating: 4.5,
           affiliateLink: "https://www.thomann.de/intl/zildjian_k_dark_hi_hats.htm?partner_id=metalforge"
         },
-        {
-          rank: 4,
-          name: "Meinl Classics Custom Dark Hi-Hats",
-          brand: "Meinl",
-          model: "Classics Custom Dark Hi-Hats 14\"",
-          image: "https://upload.wikimedia.org/wikipedia/commons/a/a3/Toms%2C_hi-hat%2C_snare.jpg",
-          priceRange: "€150-220 per pair",
-          tier: "budget",
-          material: "B8/B20 Bronze",
-
-          description: `Isaac Lamb of Kublai Khan TX represents the breakdown-first end of deathcore's hardcore lineage on Meinl Classics Custom Dark Hi-Hats, built for crushing, moshable breakdown weight rather than blast-beat articulation.
-
-Lamb's setup proves deathcore's hi-hat demands don't always mean chasing extreme-speed durability — for hardcore-leaning, breakdown-first deathcore, a dark, controlled, budget-accessible hi-hat can carry just as much impact as a premium blast-beat-specialized model.`,
-
-          pros: [
-            "Isaac Lamb's Kublai Khan TX setup — breakdown-first hardcore weight",
-            "Dark, controlled voicing built for crushing, moshable breakdowns",
-            "Accessible pricing versus flagship blast-beat setups",
-            "Clear proof-point that budget gear can serve deathcore's breakdown side"
-          ],
-          cons: [
-            "Not specialized for extreme-speed blast-beat articulation",
-            "B8 models within the line lack full B20 depth",
-            "Less versatile across blast-into-breakdown song structures"
-          ],
-          specs: {
-            material: "B8/B20 bronze",
-            finish: "Classics Custom Dark",
-            weight: "Medium",
-            diameter: "14\"",
-            series: "Classics Custom Dark"
-          },
-          usedBy: [
-            { name: "Isaac Lamb", band: "Kublai Khan TX", note: "14\" Classics Custom Dark Hi-Hats — breakdown-first hardcore weight" }
-          ],
-          verdict: "Best budget pick for breakdown-first deathcore. Real dark weight at an accessible price.",
-          rating: 4.2,
-          affiliateLink: "https://www.thomann.de/intl/meinl_classics_custom_dark_hi_hats.htm?partner_id=metalforge"
-        }
       ]
     },
 
@@ -98550,20 +98015,6 @@ Lamb's setup proves deathcore's hi-hat demands don't always mean chasing extreme
       title: "Best Budget Hi-Hats for Deathcore",
       description: "You don't need K Mastersound or Byzance Dual pricing to start chasing deathcore's blast-into-breakdown hi-hat sound. These pairs deliver real performance at accessible prices.",
       pedals: [
-        {
-          name: "Meinl Classics Custom Dark Hi-Hats",
-          brand: "Meinl",
-          model: "Classics Custom Dark Hi-Hats 14\"",
-          priceRange: "€150-220 per pair",
-          tier: "budget",
-          material: "B8/B20 Bronze",
-          description: "See above. Isaac Lamb's choice for crushing, moshable breakdown weight at an accessible price.",
-          pros: ["Dark, controlled tone for breakdown weight", "Accessible pricing", "Isaac Lamb's real-world setup"],
-          cons: ["Not specialized for extreme-speed blast beats"],
-          verdict: "Top budget pick for breakdown-first deathcore hi-hats.",
-          rating: 4.2,
-          affiliateLink: "https://www.thomann.de/intl/meinl_classics_custom_dark_hi_hats.htm?partner_id=metalforge"
-        },
         {
           name: "Sabian AAX Stage Hi-Hats",
           brand: "Sabian",
@@ -98591,12 +98042,12 @@ Lamb's setup proves deathcore's hi-hat demands don't always mean chasing extreme
 - Suits technical, blast-beat-driven verses and fills
 - The extreme-speed benchmark deathcore's fastest sections measure against
 
-**Breakdown-Weighted (Meinl Classics Custom Dark — Isaac Lamb's choice; Zildjian K Dark — Ben Koller's choice):**
+**Breakdown-Weighted (Zildjian K Dark — Ben Koller's choice):**
 - Dark, controlled voicing built for crushing, moshable weight
 - Suits hardcore-leaning, breakdown-first deathcore
 - Warmer overtones with more dynamic range across tempo shifts
 
-**Deathcore Verdict:** Choose blast-beat articulate (K Mastersound or Byzance Dual) if your material leans into Nile-style technical extremity. Choose breakdown-weighted (Classics Custom Dark or K Dark) if your material leans into Kublai Khan TX or Converge-style hardcore weight and dynamic range.`,
+**Deathcore Verdict:** Choose blast-beat articulate (K Mastersound or Byzance Dual) if your material leans into Nile-style technical extremity. Choose breakdown-weighted (K Dark) if your material leans into Converge-style hardcore weight and dynamic range.`,
       comparisonTable: [
         { feature: "Blast-Beat Articulation", birch: "⭐⭐⭐⭐⭐", maple: "⭐⭐⭐" },
         { feature: "Breakdown Weight", birch: "⭐⭐⭐", maple: "⭐⭐⭐⭐⭐" },
@@ -98621,11 +98072,6 @@ Lamb's setup proves deathcore's hi-hat demands don't always mean chasing extreme
           reason: "Chris Turner's 15\" setup. Blended voicing for Oceans Ate Alaska's technical fill work."
         },
         {
-          category: "Best for Breakdown-First Deathcore",
-          pedal: "Meinl Classics Custom Dark Hi-Hats",
-          reason: "Isaac Lamb's choice for crushing, moshable breakdown weight."
-        },
-        {
           category: "Best for Dynamic Range",
           pedal: "Zildjian K Dark Hi-Hats",
           reason: "Ben Koller's setup handles Converge's unpredictable, tempo-shifting material."
@@ -98642,7 +98088,6 @@ Lamb's setup proves deathcore's hi-hat demands don't always mean chasing extreme
     ],
     relatedDrummers: [
       { slug: 'chris-turner', name: 'Chris Turner', reason: 'Meinl Byzance Dual 15" Hi-Hats — Oceans Ate Alaska technical blast-beat precision' },
-      { slug: 'isaac-lamb', name: 'Isaac Lamb', reason: 'Meinl Classics Custom Dark Hi-Hats — Kublai Khan TX breakdown-first weight' },
       { slug: 'ben-koller', name: 'Ben Koller', reason: 'Zildjian K Dark Hi-Hats — Converge hardcore and mathcore dynamic range' },
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian K Mastersound 14" Hi-Hats — Nile extreme-speed blast-beat benchmark' }
     ],
@@ -98650,7 +98095,6 @@ Lamb's setup proves deathcore's hi-hat demands don't always mean chasing extreme
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'chris-turner', name: 'Chris Turner', reason: 'Meinl Byzance Dual Hi-Hats — Oceans Ate Alaska technical blast-beat precision' },
-      { slug: 'isaac-lamb', name: 'Isaac Lamb', reason: 'Meinl Classics Custom Dark Hi-Hats — Kublai Khan TX breakdown-first weight' },
       { slug: 'ben-koller', name: 'Ben Koller', reason: 'Zildjian K Dark Hi-Hats — Converge hardcore and mathcore dynamic range' },
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian K Mastersound Hi-Hats — Nile\'s extreme-speed blast-beat benchmark' },
     ],
@@ -98659,7 +98103,7 @@ Lamb's setup proves deathcore's hi-hat demands don't always mean chasing extreme
     faq: [
       {
         question: "What hi-hats are used in deathcore?",
-        answer: "George Kollias of Nile uses 14\" Zildjian K Mastersound Hi-Hats for extreme-speed blast-beat articulation. Chris Turner of Oceans Ate Alaska uses 15\" Meinl Byzance Dual Hi-Hats. Isaac Lamb of Kublai Khan TX uses Meinl Classics Custom Dark Hi-Hats for breakdown weight. Ben Koller of Converge uses Zildjian K Dark Hi-Hats for dynamic range."
+        answer: "George Kollias of Nile uses 14\" Zildjian K Mastersound Hi-Hats for extreme-speed blast-beat articulation. Chris Turner of Oceans Ate Alaska uses 15\" Meinl Byzance Dual Hi-Hats. Ben Koller of Converge uses Zildjian K Dark Hi-Hats for dynamic range."
       },
       {
         question: "What hi-hats does George Kollias use?",
@@ -98667,24 +98111,24 @@ Lamb's setup proves deathcore's hi-hat demands don't always mean chasing extreme
       },
       {
         question: "What size hi-hats for deathcore?",
-        answer: "14\" is the standard deathcore hi-hat size, used by George Kollias, Isaac Lamb, and Ben Koller. Chris Turner prefers 15\" for extra surface area and control on Oceans Ate Alaska's technical, blast-beat-driven fill work."
+        answer: "14\" is the standard deathcore hi-hat size, used by George Kollias and Ben Koller. Chris Turner prefers 15\" for extra surface area and control on Oceans Ate Alaska's technical, blast-beat-driven fill work."
       },
       {
         question: "Best hi-hats for blast beats and breakdowns in the same song?",
-        answer: "Ben Koller's Zildjian K Dark Hi-Hats and Chris Turner's Meinl Byzance Dual Hi-Hats both offer strong dynamic range across deathcore's blast-into-breakdown structure. For maximum blast-beat articulation specifically, George Kollias's Zildjian K Mastersound is the extreme-speed benchmark; for maximum breakdown weight, Isaac Lamb's Meinl Classics Custom Dark leads."
+        answer: "Ben Koller's Zildjian K Dark Hi-Hats and Chris Turner's Meinl Byzance Dual Hi-Hats both offer strong dynamic range across deathcore's blast-into-breakdown structure. For maximum blast-beat articulation specifically, George Kollias's Zildjian K Mastersound is the extreme-speed benchmark; for maximum breakdown weight, Ben Koller's Zildjian K Dark leads."
       },
       {
         question: "Blast-beat or breakdown hi-hats for deathcore?",
-        answer: "Both matter, but which you prioritize depends on your material. Blast-beat articulate hi-hats (Zildjian K Mastersound, Kollias's choice; Meinl Byzance Dual, Turner's choice) suit technical, Nile-style extremity. Breakdown-weighted hi-hats (Meinl Classics Custom Dark, Lamb's choice; Zildjian K Dark, Koller's choice) suit hardcore-leaning, moshable material."
+        answer: "Both matter, but which you prioritize depends on your material. Blast-beat articulate hi-hats (Zildjian K Mastersound, Kollias's choice; Meinl Byzance Dual, Turner's choice) suit technical, Nile-style extremity. Breakdown-weighted hi-hats (Zildjian K Dark, Koller's choice) suit hardcore-leaning, moshable material."
       }
     ],
 
     // Conclusion
     conclusion: {
       title: "Find Your Deathcore Hi-Hat Voice",
-      content: `Deathcore hi-hats split according to the genre's own blast-into-breakdown structure: George Kollias's Zildjian K Mastersound and Chris Turner's Meinl Byzance Dual both prioritize extreme-speed blast-beat articulation, while Isaac Lamb's Meinl Classics Custom Dark and Ben Koller's Zildjian K Dark prioritize crushing breakdown weight and dynamic range.
+      content: `Deathcore hi-hats split according to the genre's own blast-into-breakdown structure: George Kollias's Zildjian K Mastersound and Chris Turner's Meinl Byzance Dual both prioritize extreme-speed blast-beat articulation, while Ben Koller's Zildjian K Dark prioritizes crushing breakdown weight and dynamic range.
 
-If you play technical, blast-beat-heavy deathcore, start with a 14" Zildjian K Mastersound pair or the budget Sabian AAX Stage — both stay articulate at extreme tempo. If you play breakdown-first, hardcore-leaning deathcore, Meinl Classics Custom Dark will give you the crushing, moshable weight your playing demands.
+If you play technical, blast-beat-heavy deathcore, start with a 14" Zildjian K Mastersound pair or the budget Sabian AAX Stage — both stay articulate at extreme tempo. If you play breakdown-first, hardcore-leaning deathcore, Zildjian K Dark will give you the crushing, moshable weight your playing demands.
 
 Whatever you choose, prioritize durability above almost everything else — deathcore's blast-into-breakdown structure punishes hi-hats over a full set like few other subgenres, and a durable, well-chosen pair needs to survive both extremes.
 
@@ -104103,12 +103547,11 @@ Whichever direction you go, remember that metalcore's controlled, low-end-focuse
     // SEO metadata
     title: "Best Drum Heads for Deathcore: 2026 Ultimate Guide",
     metaTitle: "Best Drum Heads for Deathcore in 2026 | MetalForge Expert Guide",
-    description: "Discover the best drum heads for deathcore drumming. Expert recommendations covering Evans and Remo — heavily muffled, blast-beat-durable heads built for the genre's crushing breakdowns, the style behind Isaac Lamb, Ben Koller, and Tim Yeung.",
+    description: "Discover the best drum heads for deathcore drumming. Expert recommendations covering Evans and Remo — heavily muffled, blast-beat-durable heads built for the genre's crushing breakdowns, the style behind Ben Koller and Tim Yeung.",
     seoKeywords: [
       'best drum heads for deathcore',
       'deathcore drum heads',
       'crushing breakdown drum tone',
-      'isaac lamb drum heads',
       'muffled drum heads deathcore',
       'blast beat breakdown drum heads',
       'evans emad deathcore',
@@ -104138,7 +103581,7 @@ Whichever direction you go, remember that metalcore's controlled, low-end-focuse
     // Introduction
     intro: {
       title: "Why Deathcore Demands Both Extremes at Once",
-      content: `Deathcore fuses death metal's blast beats and technical brutality with metalcore and hardcore's breakdown-driven groove — which means the drum kit has to survive both extremes in the same song. Isaac Lamb's crushing beatdown breakdowns with Kublai Khan TX, Ben Koller's hardcore-rooted fury with Converge, and Tim Yeung's technical death metal speed across Hate Eternal and Divine Heresy all draw from the same well: a rhythmic vocabulary that swings from 200+ BPM blast beats straight into a half-time, chug-heavy breakdown without warning.
+      content: `Deathcore fuses death metal's blast beats and technical brutality with metalcore and hardcore's breakdown-driven groove — which means the drum kit has to survive both extremes in the same song. Ben Koller's hardcore-rooted fury with Converge and Tim Yeung's technical death metal speed across Hate Eternal and Divine Heresy both draw from the same well: a rhythmic vocabulary that swings from 200+ BPM blast beats straight into a half-time, chug-heavy breakdown without warning.
 
 That combination is uniquely hard on drum heads. A head tuned purely for blast-beat articulation can sound thin and undersized during a crushing breakdown; a head muffled heavily enough for maximum breakdown weight can lose the fast response a blast beat or gravity blast demands. Deathcore needs a head that does both — heavy low end when the riff calls for it, and enough durability and response to survive extreme-speed sections without falling apart.
 
@@ -104225,9 +103668,6 @@ For a genre built on that specific tempo and intensity whiplash, having muffling
             coating: "Clear",
             sizes: "18\" to 26\""
           },
-          usedBy: [
-            { name: "Isaac Lamb", band: "Kublai Khan TX", note: "Adjustable low end for crushing beatdown breakdowns" }
-          ],
           verdict: "The most versatile bass drum head for deathcore's extreme swings between blast beats and beatdown breakdowns.",
           rating: 4.7,
           affiliateLink: "https://www.thomann.de/intl/evans_g2_coated.htm?partner_id=metalforge"
@@ -104426,7 +103866,7 @@ Flo Mounier-style gravity blast technique — a technique deathcore drummers fre
 - The genre's most versatile choice — EMAD 2's adjustable muffling handles both blast beats and breakdowns
 - Power Center Reverse Dot adds blast-beat-specific reinforcement
 - Level 360 collar for reliable tuning through extreme tempo swings
-- Preferred by: Isaac Lamb, Tim Yeung
+- Preferred by: Tim Yeung
 
 **Remo:**
 - Powerstroke P3's built-in muffling delivers instant breakdown tone without adjustment
@@ -104451,7 +103891,7 @@ Flo Mounier-style gravity blast technique — a technique deathcore drummers fre
         {
           category: "Best Overall",
           pedal: "Evans EMAD 2 Clear",
-          reason: "Isaac Lamb's adjustable muffling standard — versatile enough for both blast beats and crushing beatdowns."
+          reason: "Adjustable muffling standard — versatile enough for both blast beats and crushing beatdowns."
         },
         {
           category: "Best for Blast-Beat Durability",
@@ -104479,13 +103919,11 @@ Flo Mounier-style gravity blast technique — a technique deathcore drummers fre
       'best-drum-heads-for-metal'
     ],
     relatedDrummers: [
-      { slug: 'isaac-lamb', name: 'Isaac Lamb', reason: 'Kublai Khan TX\'s crushing beatdown breakdown architect' },
       { slug: 'ben-koller', name: 'Ben Koller', reason: 'Converge\'s hardcore-metal fury feeding deathcore\'s aggressive DNA' },
       { slug: 'tim-yeung', name: 'Tim Yeung', reason: 'Bridging technical death metal and deathcore across Hate Eternal and Divine Heresy' }
     ],
 
     featuredDrummers: [
-      { slug: 'isaac-lamb', name: 'Isaac Lamb', reason: 'Modern deathcore\'s heaviest, most crushing breakdown direction' },
       { slug: 'ben-koller', name: 'Ben Koller', reason: 'Hardcore punk fury fused with metal technicality since 1999' },
       { slug: 'tim-yeung', name: 'Tim Yeung', reason: 'Extreme speed and precision spanning death metal and deathcore' }
     ],
@@ -104494,7 +103932,7 @@ Flo Mounier-style gravity blast technique — a technique deathcore drummers fre
     faq: [
       {
         question: "What drum heads do deathcore drummers use?",
-        answer: "Deathcore drummers typically use reinforced, muffled double-ply heads that can handle both blast beats and crushing breakdowns. Isaac Lamb of Kublai Khan TX uses Evans EMAD 2 for its adjustable bass drum muffling, while Tim Yeung relies on reinforced dot construction from his technical death metal background."
+        answer: "Deathcore drummers typically use reinforced, muffled double-ply heads that can handle both blast beats and crushing breakdowns. The Evans EMAD 2 is a popular choice for its adjustable bass drum muffling, while Tim Yeung relies on reinforced dot construction from his technical death metal background."
       },
       {
         question: "Why does deathcore need different drum heads than pure death metal or metalcore?",
@@ -104517,7 +103955,7 @@ Flo Mounier-style gravity blast technique — a technique deathcore drummers fre
     // Conclusion
     conclusion: {
       title: "Find Your Deathcore Head",
-      content: `Deathcore drum head choice comes down to surviving and sounding great across the genre's most extreme contrasts — blast beats one moment, crushing breakdowns the next. Evans EMAD 2 Clear remains the most versatile answer, giving drummers like Isaac Lamb the adjustability to move between both extremes within the same song.
+      content: `Deathcore drum head choice comes down to surviving and sounding great across the genre's most extreme contrasts — blast beats one moment, crushing breakdowns the next. Evans EMAD 2 Clear remains the most versatile answer, giving deathcore drummers the adjustability to move between both extremes within the same song.
 
 For drummers whose blast beats hit as hard as their breakdowns, Evans Power Center Reverse Dot adds the reinforced durability that technical death metal players like Tim Yeung already rely on, while Remo Powerstroke P3 offers a simpler, instantly muffled alternative in the mold of Ben Koller's raw hardcore-metal crossover.
 
@@ -114482,14 +113920,13 @@ Don't overlook the budget tier — Zildjian A Series and Sabian AAX Stage both p
     // SEO metadata
     title: "Best Drum Pedals for Deathcore: 2026 Ultimate Guide",
     metaTitle: "Best Drum Pedals for Deathcore 2026 | MetalForge Expert Guide",
-    description: "Best double bass pedals for deathcore's blast-into-breakdown switch. What George Kollias, Chris Turner, Ben Koller, and Isaac Lamb actually use — from budget to pro.",
+    description: "Best double bass pedals for deathcore's blast-into-breakdown switch. What George Kollias, Chris Turner, and Ben Koller actually use — from budget to pro.",
     seoKeywords: [
       'best drum pedals for deathcore',
       'deathcore drum pedals',
       'george kollias pedal deathcore',
       'chris turner oceans ate alaska pedal',
       'ben koller converge pedal',
-      'isaac lamb kublai khan tx pedal',
       'blast beat pedal deathcore',
       'breakdown kick pedal',
       'best double pedal deathcore',
@@ -114508,7 +113945,7 @@ Don't overlook the budget tier — Zildjian A Series and Sabian AAX Stage both p
       subtitle: "Fast, Responsive Action for Blast Beats — Without Losing Breakdown Control",
       badge: "GEAR GUIDE 2026",
       stats: [
-        { value: '5', label: 'Pedals Reviewed' },
+        { value: '4', label: 'Pedals Reviewed' },
         { value: '7 min', label: 'Read Time' },
         { value: '2026', label: 'Updated' }
       ]
@@ -114519,13 +113956,12 @@ Don't overlook the budget tier — Zildjian A Series and Sabian AAX Stage both p
       title: "Deathcore's Split-Second Switch: Blast Beats Into Breakdowns",
       content: `Deathcore drumming asks a pedal to be two different instruments in the same song. One bar you're sustaining extreme-speed blast beats to match a tremolo-picked death metal riff; the next, you're landing a single, deliberately weighted hit to lock in with a down-tuned breakdown chug. Few genres demand that kind of instant switch between raw speed and controlled power from a single piece of hardware.
 
-George Kollias of Nile co-designed the Pearl Demon XR around sustained 240+ BPM blast beats, setting the extreme-speed benchmark deathcore's fastest sections chase. Chris Turner of Oceans Ate Alaska drives his polyrhythmic, blast-driven fills on "Hikari" (2017) with a Tama Speed Cobra 910, whose Speedo-Ring sprocket snaps cleanly from blast speed into a controlled breakdown feel. Ben Koller of Converge has anchored two decades of the band's most punishing live sets on a Tama Iron Cobra 900, proving that durability matters as much as raw speed. Isaac Lamb of Kublai Khan TX builds his entire rig around a DW 9000 Series double pedal, whose direct-drive precision lands slam-heavy breakdown hits with total consistency.
+George Kollias of Nile co-designed the Pearl Demon XR around sustained 240+ BPM blast beats, setting the extreme-speed benchmark deathcore's fastest sections chase. Chris Turner of Oceans Ate Alaska drives his polyrhythmic, blast-driven fills on "Hikari" (2017) with a Tama Speed Cobra 910, whose Speedo-Ring sprocket snaps cleanly from blast speed into a controlled breakdown feel. Ben Koller of Converge has anchored two decades of the band's most punishing live sets on a Tama Iron Cobra 900, proving that durability matters as much as raw speed.
 
 This guide breaks down what makes a pedal work for deathcore's blast-to-breakdown demands, which pedals the genre's key drummers actually play, and how to build a setup across any budget.`,
       keyPoints: [
         "Deathcore pedals must switch instantly between blast-beat speed and controlled, weighted breakdown hits",
         "George Kollias's co-designed Pearl Demon XR sets the extreme-speed benchmark deathcore's blast sections chase",
-        "Isaac Lamb's DW 9000 shows direct-drive precision matters as much for landing a slam hit as for blast speed",
         "Touring durability is non-negotiable — Ben Koller's Iron Cobra 900 has survived two decades of Converge's heaviest sets"
       ]
     },
@@ -114549,7 +113985,7 @@ This guide breaks down what makes a pedal work for deathcore's blast-to-breakdow
         {
           name: "Beater Weight for Breakdown Impact",
           icon: "💥",
-          description: "Landing a breakdown hit with authority needs more beater mass than a thin blast-beat click. Isaac Lamb's DW 9000 and Ben Koller's Iron Cobra 900 both pair well with a heavier reversible beater surface for real low-end weight.",
+          description: "Landing a breakdown hit with authority needs more beater mass than a thin blast-beat click. Ben Koller's Iron Cobra 900 pairs well with a heavier reversible beater surface for real low-end weight.",
           recommendation: "A heavier felt or reversible beater surface for weighted breakdown impact"
         },
         {
@@ -114692,44 +114128,6 @@ Koller's approach prioritizes power and organic dynamics over trigger-augmented 
         },
         {
           rank: 4,
-          name: "DW 9000 Series Double Pedal",
-          brand: "DW",
-          model: "DWCP9002 Double Pedal",
-          image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg",
-          priceRange: "€650-750",
-          tier: "pro",
-          driveType: "Direct Drive",
-          description: `Isaac Lamb of Kublai Khan TX builds his entire hardware setup around the DW 9000, whose direct-drive precision and infinitely adjustable spring tension and beater angle land slam-heavy breakdown patterns consistently at every tempo the band plays.
-
-For deathcore drummers who prioritize breakdown weight and consistency as much as blast-beat speed, the 9000's exceptional adjustability makes it possible to dial in exactly the right feel for both halves of the genre's split-second switch.`,
-          pros: [
-            "Isaac Lamb's Kublai Khan TX setup — slam-first precision",
-            "Infinitely adjustable spring tension and beater angle",
-            "Direct-drive precision for consistent, immediate response",
-            "Exceptional build quality for demanding touring schedules",
-            "Excellent for slam-first, breakdown-heavy deathcore"
-          ],
-          cons: [
-            "Premium price point",
-            "Heavy and complex compared to simpler chain-drive designs",
-            "Overkill for drummers who don't need extensive adjustability"
-          ],
-          specs: {
-            drive: "Direct Drive",
-            bearings: "Dual Bearing Spring Rocker",
-            footboard: "Turbo or Accelerator options",
-            beater: "DW SM101 (reversible)",
-            weight: "5.0 kg (pair)"
-          },
-          usedBy: [
-            { name: "Isaac Lamb", band: "Kublai Khan TX", note: "DW 9000 Series — slam-first breakdown precision" }
-          ],
-          verdict: "Best for slam-first deathcore. Direct-drive precision built for weighted, consistent breakdown hits.",
-          rating: 4.5,
-          affiliateLink: "https://www.thomann.de/intl/dw_9000_double_pedal.htm?partner_id=metalforge"
-        },
-        {
-          rank: 5,
           name: "Tama Iron Cobra 600",
           brand: "Tama",
           model: "HP600DTW Iron Cobra 600",
@@ -114772,7 +114170,7 @@ For drummers still building the stamina and control the blast-into-breakdown swi
       title: "Direct Drive vs Chain Drive for Deathcore",
       content: `Deathcore's blast-to-breakdown switch puts a real decision in front of every drummer building a pedal setup:
 
-**Direct Drive (Pearl Demon XR, DW 9000):**
+**Direct Drive (Pearl Demon XR):**
 - Instant, linear response ideal for sustaining extreme blast-beat speed
 - More precise control for landing an isolated, weighted breakdown hit
 - Higher price point and a learning curve for players coming from chain drive
@@ -114787,7 +114185,7 @@ For drummers still building the stamina and control the blast-into-breakdown swi
         { feature: "Blast Beat Speed", directDrive: "⭐⭐⭐⭐⭐", chainDrive: "⭐⭐⭐⭐" },
         { feature: "Breakdown Weight Control", directDrive: "⭐⭐⭐⭐⭐", chainDrive: "⭐⭐⭐⭐" },
         { feature: "Touring Durability", directDrive: "⭐⭐⭐⭐", chainDrive: "⭐⭐⭐⭐⭐" },
-        { feature: "Price Range", directDrive: "€550-750", chainDrive: "€250-550" }
+        { feature: "Price Range", directDrive: "€550-650", chainDrive: "€250-550" }
       ]
     },
 
@@ -114806,9 +114204,9 @@ For drummers still building the stamina and control the blast-into-breakdown swi
           reason: "Chris Turner's setup — polyrhythmic, blast-driven precision proven on \"Hikari\" (2017)."
         },
         {
-          category: "Best for Breakdown Weight",
-          pedal: "DW 9000 Series Double Pedal",
-          reason: "Isaac Lamb's setup — direct-drive precision for landing consistent, weighted breakdown hits."
+          category: "Best for Touring Durability",
+          pedal: "Tama Iron Cobra 900 Double Pedal",
+          reason: "Ben Koller's setup — two decades of proven touring reliability across Converge's heaviest sets."
         },
         {
           category: "Best Budget",
@@ -114828,15 +114226,13 @@ For drummers still building the stamina and control the blast-into-breakdown swi
     relatedDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Demon XR — Nile\'s 240+ BPM blast-beat benchmark' },
       { slug: 'chris-turner', name: 'Chris Turner', reason: 'Tama Speed Cobra 910 — Oceans Ate Alaska\'s blast-driven precision' },
-      { slug: 'ben-koller', name: 'Ben Koller', reason: 'Tama Iron Cobra 900 — Converge\'s sustained, blistering tempo reliability' },
-      { slug: 'isaac-lamb', name: 'Isaac Lamb', reason: 'DW 9000 Series — Kublai Khan TX\'s slam-first precision' }
+      { slug: 'ben-koller', name: 'Ben Koller', reason: 'Tama Iron Cobra 900 — Converge\'s sustained, blistering tempo reliability' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Demon XR — Nile\'s 240+ BPM blast-beat benchmark' },
-      { slug: 'chris-turner', name: 'Chris Turner', reason: 'Tama Speed Cobra 910 — Oceans Ate Alaska\'s blast-driven precision' },
-      { slug: 'isaac-lamb', name: 'Isaac Lamb', reason: 'DW 9000 Series — Kublai Khan TX\'s slam-first precision' }
+      { slug: 'chris-turner', name: 'Chris Turner', reason: 'Tama Speed Cobra 910 — Oceans Ate Alaska\'s blast-driven precision' }
     ],
 
     // FAQ section for SEO
@@ -114851,11 +114247,11 @@ For drummers still building the stamina and control the blast-into-breakdown swi
       },
       {
         question: "Is direct drive or chain drive better for deathcore?",
-        answer: "Both work at the highest level. Direct drive (Pearl Demon XR, DW 9000) gives more precise, linear control for the blast-to-breakdown switch. Chain drive (Tama Speed Cobra 910, Iron Cobra 900) offers a more familiar feel and proven touring durability — Ben Koller has run an Iron Cobra 900 through two decades of Converge's heaviest sets. Choose direct drive for maximum speed control, chain drive for durability and feel."
+        answer: "Both work at the highest level. Direct drive (Pearl Demon XR) gives more precise, linear control for the blast-to-breakdown switch. Chain drive (Tama Speed Cobra 910, Iron Cobra 900) offers a more familiar feel and proven touring durability — Ben Koller has run an Iron Cobra 900 through two decades of Converge's heaviest sets. Choose direct drive for maximum speed control, chain drive for durability and feel."
       },
       {
         question: "Do I need a heavier beater for deathcore breakdowns?",
-        answer: "Yes — slam-timed breakdown hits need more beater mass to translate foot force into a deep, controlled thump rather than a thin click. Isaac Lamb's DW 9000 and Ben Koller's Iron Cobra 900 both pair well with a heavier reversible beater surface for real low-end weight on breakdown hits, while still handling blast-beat sections earlier in the same song."
+        answer: "Yes — slam-timed breakdown hits need more beater mass to translate foot force into a deep, controlled thump rather than a thin click. Ben Koller's Iron Cobra 900 pairs well with a heavier reversible beater surface for real low-end weight on breakdown hits, while still handling blast-beat sections earlier in the same song."
       },
       {
         question: "What's a good budget drum pedal for deathcore?",
@@ -114866,7 +114262,7 @@ For drummers still building the stamina and control the blast-into-breakdown swi
     // Conclusion
     conclusion: {
       title: "Choose Your Deathcore Weapon",
-      content: `Deathcore's pedal demands are unusual: you need extreme blast-beat speed and controlled breakdown weight from the same piece of hardware, often within the same song. George Kollias's Pearl Demon XR and Isaac Lamb's DW 9000 both prove direct drive can deliver on both fronts, while Chris Turner's Speedo-Ring hybrid and Ben Koller's proven Iron Cobra 900 show chain drive still has a real place in the genre.
+      content: `Deathcore's pedal demands are unusual: you need extreme blast-beat speed and controlled breakdown weight from the same piece of hardware, often within the same song. George Kollias's Pearl Demon XR proves direct drive can deliver on both fronts, while Chris Turner's Speedo-Ring hybrid and Ben Koller's proven Iron Cobra 900 show chain drive still has a real place in the genre.
 
 Don't overthink the budget tier — the Tama Iron Cobra 600 uses the same core technology as pro setups and will carry you through the technique-building stage without holding you back.
 

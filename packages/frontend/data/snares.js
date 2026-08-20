@@ -505,14 +505,14 @@ export const SNARES = [
   },
   {
     drummerSlug: 'richard-christy',
-    summary: 'Tama Starclassic 14x6.5" Maple',
-    brand: 'Tama',
-    model: 'Starclassic Maple',
+    summary: 'Pearl Custom Z 14x6.5" Maple',
+    brand: 'Pearl',
+    model: 'Custom Z 14"x6.5" Maple',
     sizeIn: 14,
     depthIn: 6.5,
     shellMaterial: 'Maple',
     isSignature: false,
-    source: 'roster gear.snare (verified: true; sources on the drummer record)',
+    source: 'Sick Drummer Magazine, "Richard Christy Talks All About Death" (2011-03-08): "I was using a 9 piece Pearl Custom Z drumkit which was Canadian Birds Eye Maple shells."',
     retailerUrls: {},
   },
   {

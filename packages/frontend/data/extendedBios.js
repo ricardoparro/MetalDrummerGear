@@ -4762,13 +4762,13 @@ Christy's drumming on Death's final two albums—"The Sound of Perseverance" and
       },
       gearHighlights: {
         title: 'Gear Highlights',
-        content: `During his peak metal years, Richard Christy used Tama Drums. His setup was designed for the extreme technical demands of Death's music.
+        content: `During his peak metal years, Richard Christy used Pearl Drums. His setup was designed for the extreme technical demands of Death's music.
 
 **Peak Metal Era Setup:**
-- **Drums**: Tama Starclassic Maple
-- **Snare**: Tama Starclassic 14"x6.5" Maple
+- **Drums**: Pearl Custom Z / Pearl Prestige Session
+- **Snare**: Pearl 14"x6.5" Maple
 - **Cymbals**: Sabian AAX and HHX Series
-- **Hardware**: Tama Iron Cobra 900 double pedal
+- **Hardware**: Axis A Longboard double pedal
 - **Sticks**: Vic Firth American Classic 5A
 - **Heads**: Remo or Evans
 
@@ -4794,12 +4794,12 @@ Christy's drumming on Death's final two albums—"The Sound of Perseverance" and
       faq: {
         title: 'Frequently Asked Questions',
         items: [
-          { q: 'What drum kit does Richard Christy use?', a: 'Richard Christy plays a Tama Starclassic Maple drum kit — the all-maple shell pack he used to record Death\'s technical, genre-defining swan song The Sound of Perseverance alongside Chuck Schuldiner. His Tama Starclassic 14"x6.5" Maple snare stays warm under Death\'s intricate arrangements while still delivering the crack needed for rapid-fire blast beats.' },
-          { q: 'What drum set does Richard Christy use?', a: 'Richard Christy\'s drum set pairs Tama Starclassic Maple shells and his Maple snare with a Tama Iron Cobra 900 double pedal, giving him the speed and precision behind the double-bass patterns he carried from Death into Iced Earth and Charred Walls of the Damned.' },
+          { q: 'What drum kit does Richard Christy use?', a: 'Richard Christy played a Pearl Custom Z drum kit — a nine-piece Canadian Birds Eye Maple shell pack he used to record Death\'s technical, genre-defining swan song The Sound of Perseverance alongside Chuck Schuldiner. His Pearl 14"x6.5" Maple snare stays warm under Death\'s intricate arrangements while still delivering the crack needed for rapid-fire blast beats.' },
+          { q: 'What drum set does Richard Christy use?', a: 'Richard Christy\'s drum set pairs a Pearl Custom Z shell pack and his Pearl Maple snare with an Axis A Longboard double pedal, giving him the speed and precision behind the double-bass patterns he carried from Death into Iced Earth and Charred Walls of the Damned.' },
           { q: 'What cymbals does Richard Christy play?', a: 'Richard Christy plays Sabian AAX and HHX Series cymbals: 14" AAX Stage Hi-Hats, 18" and 19" AAX X-Plosion Crashes, a 21" HHX Raw Bell Dry Ride, and an 18" AAX Chinese.' },
-          { q: 'What snare does Richard Christy use?', a: 'Richard Christy\'s snare is a Tama Starclassic 14"x6.5" Maple, warm enough to sit underneath Death\'s progressive arrangements while cutting through for blast beats.' },
+          { q: 'What snare does Richard Christy use?', a: 'Richard Christy\'s snare is a Pearl 14"x6.5" Maple, warm enough to sit underneath Death\'s progressive arrangements while cutting through for blast beats.' },
           { q: 'What sticks does Richard Christy use?', a: 'Richard Christy uses Vic Firth American Classic 5A drumsticks, a comparatively lightweight, classic-diameter stick that favors finesse and articulation.' },
-          { q: 'What bass drum pedal does Richard Christy use?', a: 'Richard Christy uses a Tama Iron Cobra 900 double pedal.' },
+          { q: 'What bass drum pedal does Richard Christy use?', a: 'Richard Christy uses an Axis A Longboard double pedal.' },
           { q: 'What drumheads does Richard Christy use?', a: 'Richard Christy uses Evans drumheads.' },
           { q: 'What band is Richard Christy in?', a: 'Richard Christy recorded with Death from 1996-2001, played with Iced Earth from 2003-2007, and has drummed for his own band, Charred Walls of the Damned, since 2009.' },
           { q: 'What hi-hats does Richard Christy use?', a: 'Richard Christy plays 14" Sabian AAX Stage Hi-Hats, part of the AAX and HHX cymbal setup he used on Death\'s The Sound of Perseverance and with Iced Earth.' }
@@ -4810,7 +4810,9 @@ Christy's drumming on Death's final two albums—"The Sound of Perseverance" and
         items: [
           { name: 'Wikipedia: Richard Christy', url: 'https://en.wikipedia.org/wiki/Richard_Christy' },
           { name: 'Modern Drummer Magazine', url: 'https://www.moderndrummer.com' },
-          { name: 'Blabbermouth', url: 'https://www.blabbermouth.net' }
+          { name: 'Blabbermouth', url: 'https://www.blabbermouth.net' },
+          { name: 'Sick Drummer Magazine: Richard Christy Hall of Fame Profile (2008)', url: 'https://sickdrummermagazine.com/the-drummers/sick-drummer-hall-of-fame/richard-christy/' },
+          { name: 'Sick Drummer Magazine: Richard Christy Talks All About Death (2011)', url: 'https://sickdrummermagazine.com/the-drummers/sick-drummer-hall-of-fame/richard-christy-talks-all-about-death/' }
         ]
       }
     }

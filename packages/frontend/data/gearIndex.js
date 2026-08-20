@@ -16,29 +16,19 @@
  */
 
 export const GEAR_INDEX = {
-  "British Drum Co.": {
-    "British Drum Co.": [
-      {
-        "id": 41,
-        "name": "Nicko McBrain",
-        "slug": "nicko-mcbrain",
-        "configString": "British Drum Co."
-      }
-    ]
-  },
   "DW": {
-    "9000 Series Double Pedal": [
+    "5000 Double Pedal": [
       {
-        "id": 56,
-        "name": "Hannes Grossmann",
-        "slug": "hannes-grossmann",
-        "configString": "DW 9000 Series Double Pedal"
+        "id": 64,
+        "name": "Sean Reinert",
+        "slug": "sean-reinert",
+        "configString": "DW 5000 Double Pedal"
       },
       {
-        "id": 61,
-        "name": "Isaac Lamb",
-        "slug": "isaac-lamb",
-        "configString": "DW 9000 Series Double Pedal"
+        "id": 65,
+        "name": "Nick Menza",
+        "slug": "nick-menza",
+        "configString": "DW 5000 Double Pedal"
       }
     ],
     "9000 Series Double Pedal, DW 9100 Throne": [
@@ -56,7 +46,37 @@ export const GEAR_INDEX = {
       }
     ]
   },
+  "Ludwig": {
+    "Classic Maple": [
+      {
+        "id": 30,
+        "name": "Bill Ward",
+        "slug": "bill-ward",
+        "configString": "Ludwig Classic Maple"
+      },
+      {
+        "id": 67,
+        "name": "Jon Dette",
+        "slug": "jon-dette",
+        "configString": "Ludwig Classic Maple"
+      }
+    ]
+  },
   "Mapex": {
+    "Black Panther Design Lab": [
+      {
+        "id": 17,
+        "name": "Chris Adler",
+        "slug": "chris-adler",
+        "configString": "Mapex Black Panther Design Lab"
+      },
+      {
+        "id": 32,
+        "name": "Matt Greiner",
+        "slug": "matt-greiner",
+        "configString": "Mapex Black Panther Design Lab"
+      }
+    ],
     "Falcon Double Pedal, Mapex T865 Throne": [
       {
         "id": 17,
@@ -79,14 +99,6 @@ export const GEAR_INDEX = {
     ]
   },
   "Meinl": {
-    "Byzance Brilliant & Classics Custom Dark": [
-      {
-        "id": 45,
-        "name": "Dirk Verbeuren",
-        "slug": "dirk-verbeuren",
-        "configString": "Meinl Byzance Brilliant & Classics Custom Dark Series (14\" Byzance Brilliant Hi-Hat, 18\"-21\" Classics Custom Dark Crashes, 22\" Byzance Brilliant Ride, 18\" Byzance Brilliant China)"
-      }
-    ],
     "Byzance": [
       {
         "id": 16,
@@ -113,12 +125,6 @@ export const GEAR_INDEX = {
         "configString": "Meinl Byzance Series (15\" Dual Hi-Hats, 18\" & 19\" Extra Dry Medium Crashes, 21\" Transition Ride, 18\" Extra Dry China, 10\" Splash)"
       },
       {
-        "id": 32,
-        "name": "Matt Greiner",
-        "slug": "matt-greiner",
-        "configString": "Meinl Byzance Series (15\" Dual Hi-Hats, 18\" & 19\" Dual Crashes, 21\" Transition Ride, 18\" Extra Dry China, 10\" & 12\" Splashes)"
-      },
-      {
         "id": 40,
         "name": "Chris Turner",
         "slug": "chris-turner",
@@ -142,25 +148,9 @@ export const GEAR_INDEX = {
         "slug": "martin-axenrot",
         "configString": "Meinl Byzance Series (14\" Traditional Medium Hi-Hats, 16\" & 18\" & 19\" Crashes, 22\" Traditional Ride, 18\" China)"
       }
-    ],
-    "Byzance Brilliant & Classics Custom Dark": [
-      {
-        "id": 45,
-        "name": "Dirk Verbeuren",
-        "slug": "dirk-verbeuren",
-        "configString": "Meinl Byzance Brilliant & Classics Custom Dark Series (14\" Byzance Brilliant Hi-Hat, 18\"-21\" Classics Custom Dark Crashes, 22\" Byzance Brilliant Ride, 18\" Byzance Brilliant China)"
-      }
     ]
   },
   "Paiste": {
-    "Signature": [
-      {
-        "id": 43,
-        "name": "Mikkey Dee",
-        "slug": "mikkey-dee",
-        "configString": "Paiste Signature Series (14\" Sound Edge Hi-Hats, 19\" & 20\" Power Crashes, 22\" Power Ride, 18\" Heavy China)"
-      }
-    ],
     "RUDE & 2002": [
       {
         "id": 2,
@@ -206,6 +196,12 @@ export const GEAR_INDEX = {
       }
     ],
     "Signature": [
+      {
+        "id": 14,
+        "name": "Danny Carey",
+        "slug": "danny-carey",
+        "configString": "Paiste Signature Series (14\" Sound Edge Hi-Hats, 18\" & 20\" Power Crashes, 22\" Dry Heavy Ride \"Monad\", 2002 & Signature China cymbals)"
+      },
       {
         "id": 43,
         "name": "Mikkey Dee",
@@ -281,6 +277,12 @@ export const GEAR_INDEX = {
         "name": "Kevin Talley",
         "slug": "kevin-talley",
         "configString": "Pearl Eliminator Double Pedal"
+      },
+      {
+        "id": 63,
+        "name": "Paul Bostaph",
+        "slug": "paul-bostaph",
+        "configString": "Pearl Eliminator Double Pedal"
       }
     ],
     "Masters 14x5.5\" Maple": [
@@ -315,6 +317,12 @@ export const GEAR_INDEX = {
         "name": "Paul Mazurkiewicz",
         "slug": "paul-mazurkiewicz",
         "configString": "Pearl Masters Maple Complete"
+      },
+      {
+        "id": 63,
+        "name": "Paul Bostaph",
+        "slug": "paul-bostaph",
+        "configString": "Pearl Masters Maple Complete (MCX)"
       }
     ],
     "Masterworks Stadium Exotic": [
@@ -461,12 +469,6 @@ export const GEAR_INDEX = {
         "configString": "Sabian AAX Series (14\" Stage Hi-Hats, 18\" & 19\" X-Plosion Crashes, 21\" Stage Ride, 18\" AAXtreme China)"
       },
       {
-        "id": 21,
-        "name": "Pete Sandoval",
-        "slug": "pete-sandoval",
-        "configString": "Sabian AAX Series (14\" Stage Hi-Hats, 18\" & 19\" X-Plosion Crashes, 20\" Stage Ride, 18\" Chinese)"
-      },
-      {
         "id": 31,
         "name": "Nick Augusto",
         "slug": "nick-augusto",
@@ -483,6 +485,12 @@ export const GEAR_INDEX = {
         "name": "Kevin Talley",
         "slug": "kevin-talley",
         "configString": "Sabian AAX Series (14\" Stage Hi-Hats, 17\" & 18\" X-Plosion Crashes, 20\" Stage Ride)"
+      },
+      {
+        "id": 63,
+        "name": "Paul Bostaph",
+        "slug": "paul-bostaph",
+        "configString": "Sabian AAX Series (14\" AAX Stage Hi-Hats, 17\" & 19\" AAX X-Plosion Crashes, 21\" AAX Stage Ride, 18\" AAXtreme China)"
       }
     ],
     "AAX & HHX": [
@@ -541,10 +549,10 @@ export const GEAR_INDEX = {
   "Sonor": {
     "SQ2": [
       {
-        "id": 46,
-        "name": "Frost",
-        "slug": "frost",
-        "configString": "Sonor SQ2 Series"
+        "id": 43,
+        "name": "Mikkey Dee",
+        "slug": "mikkey-dee",
+        "configString": "Sonor SQ2"
       },
       {
         "id": 47,
@@ -681,9 +689,27 @@ export const GEAR_INDEX = {
         "configString": "Tama Starclassic Bubinga"
       },
       {
+        "id": 46,
+        "name": "Frost",
+        "slug": "frost",
+        "configString": "Tama Starclassic Bubinga"
+      },
+      {
+        "id": 48,
+        "name": "Abe Cunningham",
+        "slug": "abe-cunningham",
+        "configString": "Tama Starclassic Bubinga (Egyptian Night Mist)"
+      },
+      {
         "id": 59,
         "name": "Tim Yeung",
         "slug": "tim-yeung",
+        "configString": "Tama Starclassic Bubinga"
+      },
+      {
+        "id": 66,
+        "name": "Adrian Erlandsson",
+        "slug": "adrian-erlandsson",
         "configString": "Tama Starclassic Bubinga"
       }
     ],
@@ -711,64 +737,24 @@ export const GEAR_INDEX = {
         "name": "Ben Koller",
         "slug": "ben-koller",
         "configString": "Tama Starclassic Maple"
-      },
-      {
-        "id": 49,
-        "name": "Richard Christy",
-        "slug": "richard-christy",
-        "configString": "Tama Starclassic Maple"
       }
     ],
-    "Starclassic Maple/Birch": [
+    "Starclassic Performer B/B": [
       {
-        "id": 13,
-        "name": "Mike Portnoy",
-        "slug": "mike-portnoy",
-        "configString": "Tama Starclassic Maple/Birch"
+        "id": 16,
+        "name": "Brann Dailor",
+        "slug": "brann-dailor",
+        "configString": "Tama Starclassic Performer B/B"
       },
       {
-        "id": 40,
-        "name": "Chris Turner",
-        "slug": "chris-turner",
-        "configString": "Tama Starclassic Maple/Birch"
-      }
-    ],
-    "Starclassic Walnut/Birch": [
-      {
-        "id": 45,
-        "name": "Dirk Verbeuren",
-        "slug": "dirk-verbeuren",
-        "configString": "Tama Starclassic Walnut/Birch"
-      },
-      {
-        "id": 53,
-        "name": "Matt Garstka",
-        "slug": "matt-garstka",
-        "configString": "Tama Starclassic Walnut/Birch"
+        "id": 70,
+        "name": "Alex Rüdinger",
+        "slug": "alex-rudinger",
+        "configString": "Tama Starclassic Performer B/B"
       }
     ]
   },
   "Vic Firth": {
-    "American Classic 2B": [
-      {
-        "id": 30,
-        "name": "Bill Ward",
-        "slug": "bill-ward",
-        "configString": "Vic Firth American Classic 2B"
-      },
-      {
-        "id": 48,
-        "name": "Abe Cunningham",
-        "slug": "abe-cunningham",
-        "configString": "Vic Firth American Classic 2B"
-      },
-      {
-        "id": 61,
-        "name": "Isaac Lamb",
-        "slug": "isaac-lamb",
-        "configString": "Vic Firth American Classic 2B"
-      }
-    ],
     "American Classic 5A": [
       {
         "id": 23,
@@ -780,12 +766,6 @@ export const GEAR_INDEX = {
         "id": 28,
         "name": "Morgan Ågren",
         "slug": "morgan-agren",
-        "configString": "Vic Firth American Classic 5A"
-      },
-      {
-        "id": 32,
-        "name": "Matt Greiner",
-        "slug": "matt-greiner",
         "configString": "Vic Firth American Classic 5A"
       },
       {
@@ -823,15 +803,15 @@ export const GEAR_INDEX = {
         "name": "Tim Yeung",
         "slug": "tim-yeung",
         "configString": "Vic Firth American Classic 5A"
+      },
+      {
+        "id": 64,
+        "name": "Sean Reinert",
+        "slug": "sean-reinert",
+        "configString": "Vic Firth American Classic 5A"
       }
     ],
     "American Classic 5B": [
-      {
-        "id": 11,
-        "name": "Vinnie Paul",
-        "slug": "vinnie-paul",
-        "configString": "Vic Firth American Classic 5B"
-      },
       {
         "id": 20,
         "name": "Hellhammer",
@@ -933,6 +913,12 @@ export const GEAR_INDEX = {
         "name": "Martin Axenrot",
         "slug": "martin-axenrot",
         "configString": "Vic Firth American Classic 5B"
+      },
+      {
+        "id": 65,
+        "name": "Nick Menza",
+        "slug": "nick-menza",
+        "configString": "Vic Firth American Classic 5B"
       }
     ],
     "American Classic Extreme 5B": [
@@ -951,14 +937,6 @@ export const GEAR_INDEX = {
     ]
   },
   "Zildjian": {
-    "A Custom & K": [
-      {
-        "id": 46,
-        "name": "Frost",
-        "slug": "frost",
-        "configString": "Zildjian A Custom & K Series (14\" A Custom Hi-Hats, 16\", 17\", 18\" A Custom Crashes, 22\" K Custom Dark Ride, 18\" K China)"
-      }
-    ],
     "A Custom & K Custom": [
       {
         "id": 55,
@@ -971,36 +949,6 @@ export const GEAR_INDEX = {
         "name": "Jocke Wallgren",
         "slug": "jocke-wallgren",
         "configString": "Zildjian A Custom & K Custom Series (14\" A Custom Hi-Hats, 18\" & 19\" A Custom Crashes, 21\" K Custom Ride)"
-      }
-    ]
-  },
-  "ddrum": {
-    "Dios": [
-      {
-        "id": 21,
-        "name": "Pete Sandoval",
-        "slug": "pete-sandoval",
-        "configString": "ddrum Dios Series"
-      },
-      {
-        "id": 26,
-        "name": "Shannon Larkin",
-        "slug": "shannon-larkin",
-        "configString": "ddrum Dios Series"
-      }
-    ],
-    "Dios 14x6.5\" Maple": [
-      {
-        "id": 21,
-        "name": "Pete Sandoval",
-        "slug": "pete-sandoval",
-        "configString": "ddrum Dios 14x6.5\" Maple"
-      },
-      {
-        "id": 26,
-        "name": "Shannon Larkin",
-        "slug": "shannon-larkin",
-        "configString": "ddrum Dios 14x6.5\" Maple"
       }
     ]
   }
@@ -1078,7 +1026,7 @@ export const GEAR_INDEX_BRAND_LEVEL = {
       "id": 32,
       "name": "Matt Greiner",
       "slug": "matt-greiner",
-      "configString": "Evans"
+      "configString": "Evans G2 / EMAD2"
     },
     {
       "id": 33,
@@ -1114,6 +1062,12 @@ export const GEAR_INDEX_BRAND_LEVEL = {
       "id": 40,
       "name": "Chris Turner",
       "slug": "chris-turner",
+      "configString": "Evans"
+    },
+    {
+      "id": 43,
+      "name": "Mikkey Dee",
+      "slug": "mikkey-dee",
       "configString": "Evans"
     },
     {
@@ -1189,10 +1143,22 @@ export const GEAR_INDEX_BRAND_LEVEL = {
       "configString": "Evans"
     },
     {
-      "id": 61,
-      "name": "Isaac Lamb",
-      "slug": "isaac-lamb",
-      "configString": "Evans Hydraulic"
+      "id": 66,
+      "name": "Adrian Erlandsson",
+      "slug": "adrian-erlandsson",
+      "configString": "Evans EMAD Onyx / EC Reverse Dot"
+    },
+    {
+      "id": 68,
+      "name": "Jimmy DeGrasso",
+      "slug": "jimmy-degrasso",
+      "configString": "Evans"
+    },
+    {
+      "id": 70,
+      "name": "Alex Rüdinger",
+      "slug": "alex-rudinger",
+      "configString": "Evans (UV EQ4 Coated bass batter, G2 Clear tom batters, HD Dry snare batter, Snare Side 300, G1 Clear/EQ3-NP Black bass reso)"
     }
   ],
   "Remo": [
@@ -1263,12 +1229,6 @@ export const GEAR_INDEX_BRAND_LEVEL = {
       "configString": "Remo"
     },
     {
-      "id": 43,
-      "name": "Mikkey Dee",
-      "slug": "mikkey-dee",
-      "configString": "Remo"
-    },
-    {
       "id": 46,
       "name": "Frost",
       "slug": "frost",
@@ -1284,7 +1244,7 @@ export const GEAR_INDEX_BRAND_LEVEL = {
       "id": 48,
       "name": "Abe Cunningham",
       "slug": "abe-cunningham",
-      "configString": "Remo"
+      "configString": "Remo (Powerstroke P3, Pinstripe, Ambassador)"
     },
     {
       "id": 55,
@@ -1303,6 +1263,30 @@ export const GEAR_INDEX_BRAND_LEVEL = {
       "name": "Martin Axenrot",
       "slug": "martin-axenrot",
       "configString": "Remo"
+    },
+    {
+      "id": 63,
+      "name": "Paul Bostaph",
+      "slug": "paul-bostaph",
+      "configString": "Remo Powerstroke 3 / Emperor Coated / Ambassador"
+    },
+    {
+      "id": 64,
+      "name": "Sean Reinert",
+      "slug": "sean-reinert",
+      "configString": "Remo Powerstroke 3 / Ambassador"
+    },
+    {
+      "id": 65,
+      "name": "Nick Menza",
+      "slug": "nick-menza",
+      "configString": "Remo Ambassador / Powerstroke 3"
+    },
+    {
+      "id": 67,
+      "name": "Jon Dette",
+      "slug": "jon-dette",
+      "configString": "Remo Powerstroke 3 (Kick) / Emperor Coated (Toms) / Coated Ambassador (Snare)"
     }
   ]
 };

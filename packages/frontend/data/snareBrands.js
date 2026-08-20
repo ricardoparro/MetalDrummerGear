@@ -34,7 +34,7 @@ export const SNARE_BRANDS = [
       "Tama is the single most common snare brand across the verified metal roster, anchored by the modular S.L.P. (Sound Lab Project) series — which spans brass, steel, and maple shells and is by far the most common single line on this roster — alongside the Starclassic maple/bubinga shells and Lars Ulrich's own LU1465 signature model.",
     notableLines: [
       { name: 'S.L.P. (Sound Lab Project)', description: 'A modular series spanning G-Maple, Brass, Big Black Steel, and Black Brass shells — the most common single snare line across the verified metal roster, used by drummers from Dave Lombardo to Dirk Verbeuren.' },
-      { name: 'Starclassic', description: 'Tama\'s core maple/bubinga shell line, used on the roster by Richard Christy (maple) and Adrian Erlandsson (Bubinga).' },
+      { name: 'Starclassic', description: 'Tama\'s core maple/bubinga shell line, used on the roster by Adrian Erlandsson (Bubinga).' },
       { name: 'LU1465 Lars Ulrich Signature', description: "Metallica drummer Lars Ulrich's signature 14x6.5\" snare model." },
     ],
     source: { label: 'Tama — official site', url: 'https://www.tama.com' },

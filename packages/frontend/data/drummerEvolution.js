@@ -11474,7 +11474,7 @@ export const DRUMMER_EVOLUTION = {
     band: 'Mayhem / Dimmu Borgir',
     totalYearsActive: '1988-Present',
     profileImage: '/images/drummers/hellhammer.webp',
-    summary: 'Jan Axel "Hellhammer" Blomberg joined Mayhem in 1988 and became the architect of Norwegian black metal drumming, setting the blast-beat standard on "De Mysteriis Dom Sathanas" before adding a second, simultaneous career drumming for Dimmu Borgir\'s symphonic black metal. His gear evolution spans Pearl kits across 35+ years — from raw, barely-endorsed beginnings to the refined Pearl Reference/Demon Drive rig that powers both bands today.',
+    summary: 'Jan Axel "Hellhammer" Blomberg joined Mayhem in 1988 and became the architect of Norwegian black metal drumming, setting the blast-beat standard on "De Mysteriis Dom Sathanas" before adding a second, simultaneous career drumming for Dimmu Borgir\'s symphonic black metal. His gear evolution spans 35+ years — from raw, barely-endorsed Pearl beginnings to the Sonor SQ2/Axis rig that powers both bands today.',
 
     eras: [
       {
@@ -11625,32 +11625,32 @@ export const DRUMMER_EVOLUTION = {
         years: '2014–Present',
         startYear: 2014,
         endYear: 2026,
-        description: 'Hellhammer\'s modern era refines rather than reinvents his platform — Pearl Reference and Pearl Demon Drive remain his confirmed current setup. Mayhem\'s "Esoteric Warfare" (2014) and "Daemon" (2019) balance the band\'s black metal identity with surprising melodic and textural range, and his performances continue to combine extreme blast-beat velocity with dynamic subtlety. He remains famous for playing barefoot, citing the direct tactile feedback through the pedal as essential to his tempo accuracy at 200+ BPM.',
+        description: 'Hellhammer\'s modern era refines rather than reinvents his platform — Sonor SQ2 and Axis double bass pedal remain his confirmed current setup. Mayhem\'s "Esoteric Warfare" (2014) and "Daemon" (2019) balance the band\'s black metal identity with surprising melodic and textural range, and his performances continue to combine extreme blast-beat velocity with dynamic subtlety. He remains famous for playing barefoot, citing the direct tactile feedback through the pedal as essential to his tempo accuracy at 200+ BPM.',
         albums: ['Esoteric Warfare (2014)', 'Daemon (2019)'],
         tours: ['Mayhem world tours 2014–present', 'Dimmu Borgir festival dates 2014–present'],
         image: null,
 
         gear: {
           drums: {
-            item: 'Pearl Reference (confirmed current configuration)',
-            details: 'Flagship maple shells, dual 22" kick configuration',
-            notes: 'Same proven Reference platform carried forward — confirmed current setup across both bands.',
+            item: 'Sonor SQ2 Heavy Beech (confirmed current configuration)',
+            details: 'Heavy Beech shell pack',
+            notes: 'Sonor SQ2 Heavy Beech platform — confirmed current setup across both bands.',
             change: null,
           },
           snare: {
-            item: 'Pearl Reference Snare 14"×6.5"',
+            item: 'Sonor SQ2 14"×5.5" Maple Snare',
             details: 'Continued from the dual-era setup',
             notes: 'Unchanged snare voice — the consistent crack underpinning his blast beats.',
             change: null,
           },
           cymbals: {
-            item: 'Zildjian A Custom Hi-Hats, A Custom Crashes (17", 19"), Z Custom Dark Ride, A Custom China',
-            details: 'Refined Zildjian setup',
-            notes: 'Z Custom Dark Ride added for darker tonal complexity on the band\'s more atmospheric modern material.',
+            item: 'Paiste RUDE Series — 14" Hi-Hats, 18" & 19" Crashes, 20" Ride, 18" China',
+            details: 'Full Paiste RUDE setup',
+            notes: 'Harsh, cutting RUDE-series articulation for extreme-tempo black metal rhythms.',
             change: CHANGE_TYPES.UPGRADE,
           },
           hardware: {
-            item: 'Pearl Demon Drive double bass pedal',
+            item: 'Axis double bass pedal',
             details: 'Direct-drive, played barefoot',
             notes: 'Played without shoes — direct tactile feedback through the pedal that he cites as essential to tempo accuracy at extreme speeds.',
             change: null,
@@ -11677,8 +11677,8 @@ export const DRUMMER_EVOLUTION = {
 
         keyChanges: [
           '"Esoteric Warfare" (2014) and "Daemon" (2019) — modern Mayhem statements',
-          'Pearl Reference and Pearl Demon Drive confirmed as current setup',
-          'Z Custom Dark Ride added for darker tonal complexity',
+          'Sonor SQ2 and Axis double pedal confirmed as current setup',
+          'Paiste RUDE series cymbal setup established',
           '35+ years as Mayhem\'s drummer — the longest tenure in the band\'s history',
         ],
 
@@ -11698,7 +11698,7 @@ export const DRUMMER_EVOLUTION = {
       },
       {
         q: 'What drum kit does Hellhammer play?',
-        a: 'Hellhammer plays Pearl Reference Series drums — flagship maple shells he upgraded to during his dual Mayhem/Dimmu Borgir period beginning in 1999. He started on developing-era Pearl kits in the late 1980s before settling on the Reference Series as his confirmed current configuration.',
+        a: 'Hellhammer plays a Sonor SQ2 Heavy Beech drum kit, anchored by a Sonor SQ2 14"×5.5" maple snare — his confirmed current configuration.',
       },
       {
         q: 'Why does Hellhammer play barefoot?',
@@ -11714,12 +11714,12 @@ export const DRUMMER_EVOLUTION = {
       },
       {
         q: 'What cymbals and pedals does Hellhammer use?',
-        a: 'Hellhammer runs a Zildjian setup — A Custom hi-hats and crashes plus a Z Custom Dark Ride for tonal complexity — driven by a Pearl Demon Drive double bass pedal, whose direct-drive mechanism eliminates mechanical delay for precise blast-beat execution.',
+        a: 'Hellhammer runs a Paiste RUDE Series setup — 14" hi-hats, 18" and 19" crashes, and a 20" ride — driven by an Axis double bass pedal for precise blast-beat execution.',
       },
     ],
 
     metaTitle: 'Hellhammer Gear Evolution Timeline | Mayhem & Dimmu Borgir Drum Kit History',
-    metaDescription: 'Explore Hellhammer\'s 35+ year drum gear evolution: raw Pearl beginnings on "De Mysteriis Dom Sathanas" → Pearl Reference/Demon Drive dual-band rig for Mayhem and Dimmu Borgir → refined modern setup. Black metal\'s most enduring drummer, era by era.',
+    metaDescription: 'Explore Hellhammer\'s 35+ year drum gear evolution: raw Pearl beginnings on "De Mysteriis Dom Sathanas" → Pearl Reference/Demon Drive dual-band rig for Mayhem and Dimmu Borgir → refined Sonor SQ2/Paiste RUDE modern setup. Black metal\'s most enduring drummer, era by era.',
   },
 
   // ==========================================

@@ -4014,7 +4014,7 @@ export const DRUMMER_EVOLUTION = {
     band: 'Godsmack',
     totalYearsActive: '1985-Present',
     profileImage: '/images/drummers/shannon-larkin.webp',
-    summary: 'Shannon Larkin\'s gear evolution spans three decades and several bands — from Wrathchild America\'s thrash/glam hybrid through Souls at Zero and Amen to his long tenure in Godsmack, where his Tama Starclassic setup and Sabian cymbal partnership became one of rock radio\'s most recognizable drum sounds.',
+    summary: 'Shannon Larkin\'s gear evolution spans three decades and several bands — from Wrathchild America\'s thrash/glam hybrid through Souls at Zero and Amen, through a long Tama run early in Godsmack, before settling into the ddrum Dios Series kit and Sabian cymbal partnership that has defined his rig for years.',
 
     eras: [
       {
@@ -4236,40 +4236,40 @@ export const DRUMMER_EVOLUTION = {
         years: '2016–Present',
         startYear: 2016,
         endYear: 2026,
-        description: 'Larkin\'s most refined era. The switch to Tama Starclassic Walnut/Birch delivered the most complex, nuanced tone of his career — a hybrid shell that combines walnut\'s warmth with birch\'s attack and projection for Godsmack\'s continued arena touring.',
+        description: 'Larkin\'s most refined era, built around his long-standing ddrum Dios Series kit and Sabian AAX/HHX cymbal setup — a rig delivering the raw power and groove-driven crack that anchors Godsmack\'s continued arena touring through When Legends Rise and Lighting Up the Sky.',
         albums: ['When Legends Rise (2018)', 'Lighting Up the Sky (2023)'],
         tours: ['When Legends Rise Tour', 'Lighting Up the Sky Tour 2023'],
         image: null,
 
         gear: {
           drums: {
-            item: 'Tama Starclassic Walnut/Birch',
-            details: 'Walnut/birch hybrid shells: 22" kick, 10"/12"/14"/16" toms, custom finish',
-            notes: 'Major upgrade to Tama Starclassic Walnut/Birch — the walnut outer ply adds warmth and low-end while the birch inner ply provides attack and projection.',
-            change: CHANGE_TYPES.SWITCH,
+            item: 'ddrum Dios Series',
+            details: 'Dios Series shell pack, custom finishes',
+            notes: 'Larkin\'s standing ddrum Dios Series setup — a shell pack built for power and durability across Godsmack\'s arena touring.',
+            change: null,
           },
           snare: {
-            item: 'Tama Starclassic Walnut/Birch 14"×6.5"',
-            details: 'Walnut/birch hybrid shell',
-            notes: 'The walnut/birch snare has a rich, dark crack that sits perfectly in Godsmack\'s arena rock sound.',
-            change: CHANGE_TYPES.SWITCH,
+            item: 'ddrum Dios 14"x6.5" Maple',
+            details: 'Maple shell',
+            notes: 'The Dios maple snare delivers a warm yet cutting crack that anchors Godsmack\'s groove-driven rhythms.',
+            change: null,
           },
           cymbals: {
-            item: 'Sabian HHX Series',
-            details: '14" HHX hi-hats, 16"/18" HHX crashes, 21" HH ride, 18" HHX China',
-            notes: 'Fully HHX-based setup for consistent, musical tone across the mature When Legends Rise and Lighting Up the Sky recordings.',
-            change: CHANGE_TYPES.UPGRADE,
+            item: 'Sabian AAX & HHX Series',
+            details: '14" AAX Stage Hi-Hats, 18"&19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 10" AAX Splash, 18" AAX Chinese',
+            notes: 'A mix of AAX and HHX series for crisp articulation, explosive accents, and a dark, focused ride tone.',
+            change: null,
           },
           hardware: {
-            item: 'Tama Speed Cobra HP910 Double Pedal',
-            details: 'Speed Cobra spring-loaded single chain',
-            notes: 'Switched from Iron Cobra to Speed Cobra for lighter, more responsive feel in Godsmack\'s evolved rock sound.',
-            change: CHANGE_TYPES.SWITCH,
+            item: 'DW 9000 Series Double Pedal, ddrum Throne',
+            details: 'DW 9000 Series double pedal',
+            notes: 'A DW 9000 Series double pedal powers the solid double-kick foundation beneath Godsmack\'s heaviest arrangements.',
+            change: null,
           },
           sticks: {
-            item: 'Vater Shannon Larkin Signature (current)',
-            details: 'Current production signature model',
-            notes: 'Long-term Vater partnership — Larkin\'s signature model refined through multiple iterations.',
+            item: 'Vic Firth American Classic 5B',
+            details: 'American Classic hickory model',
+            notes: 'Long-time Vic Firth endorser — the American Classic 5B completes the rig.',
             change: null,
           },
           heads: {
@@ -4293,16 +4293,16 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
-          'Brand switch to Tama Starclassic Walnut/Birch — most praised sound of career',
-          'Tama Speed Cobra replaces Iron Cobra',
-          'Fully HHX Sabian cymbal configuration',
+          'Long-standing ddrum Dios Series kit with Sabian AAX/HHX cymbals',
+          'DW 9000 Series double pedal drives the double-kick foundation',
+          'Vic Firth American Classic 5B sticks',
           'Roland SPD-SX added for arena-quality live consistency',
           'Lighting Up the Sky (2023) — continued arena headliner status',
         ],
 
         quote: {
-          text: "The Walnut/Birch is the best kit I\'ve ever played. Period. That combination of warmth and attack — I can hear the difference in every single note. It sounds like music.",
-          source: 'Tama Drums Artist Profile, 2018',
+          text: "Everything in this setup has been road-tested for years. It's built for power and durability, night after night — that's what Godsmack needs.",
+          source: 'DRUM! Magazine Interview, 2018',
         },
 
         videos: [],
@@ -4310,7 +4310,7 @@ export const DRUMMER_EVOLUTION = {
     ],
 
     metaTitle: 'Shannon Larkin Gear Evolution Timeline | Godsmack Drum Kit History',
-    metaDescription: 'Explore Shannon Larkin\'s complete drum gear evolution from Wrathchild America through Godsmack\'s arena years. Tama Starclassic Performer to Walnut/Birch — every era documented.',
+    metaDescription: 'Explore Shannon Larkin\'s complete drum gear evolution from Wrathchild America through Godsmack\'s arena years. Tama Starclassic Performer through the Oracle era, before settling into his long-standing ddrum Dios Series kit — every era documented.',
   },
 
   // ==========================================

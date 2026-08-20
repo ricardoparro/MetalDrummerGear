@@ -17763,9 +17763,9 @@ export const DRUMMER_EVOLUTION = {
     slug: 'richard-christy',
     name: 'Richard Christy',
     band: 'Death / Iced Earth',
-    totalYearsActive: '1996-2007',
+    totalYearsActive: '1996-present',
     profileImage: '/images/drummers/richard-christy.webp',
-    summary: 'Richard Christy moved to Florida specifically to break into the death metal scene, and was handpicked by Chuck Schuldiner to join Death and Control Denied in 1996, inheriting a drum chair previously held by Gene Hoglan. His Pearl Masters Custom / Sabian AA-AAX rig powered Death\'s "The Sound of Perseverance" (1998) — Schuldiner\'s final studio album and widely considered the most technically demanding death metal record ever made — before carrying into Control Denied\'s "The Fragile Art of Existence" (1999) and an expanded touring setup during his 2003–2007 run with Iced Earth, after which he left metal drumming to focus on his entertainment career at The Howard Stern Show.',
+    summary: 'Richard Christy moved to Florida specifically to break into the death metal scene, and was handpicked by Chuck Schuldiner to join Death and Control Denied in 1996, inheriting a drum chair previously held by Gene Hoglan. His Pearl Masters Custom / Sabian AA-AAX rig powered Death\'s "The Sound of Perseverance" (1998) — Schuldiner\'s final studio album and widely considered the most technically demanding death metal record ever made — before carrying into Control Denied\'s "The Fragile Art of Existence" (1999) and an expanded touring setup during his 2003–2007 run with Iced Earth. After leaving Iced Earth, Christy returned to metal drumming in 2009 with his own band, Charred Walls of the Damned, an ongoing chapter alongside his entertainment career at The Howard Stern Show.',
 
     eras: [
       {
@@ -18027,6 +18027,72 @@ export const DRUMMER_EVOLUTION = {
           'Recorded The Glorious Burden (2004) and the Overture of the Wicked EP (2006)',
           'Setup expanded for larger touring productions',
           'Left metal drumming in 2007 to focus on entertainment career at The Howard Stern Show',
+        ],
+
+        videos: [],
+      },
+
+      {
+        id: 'richard-christy-2009-charred-walls-of-the-damned',
+        era: 'Charred Walls of the Damned',
+        years: '2009–Present',
+        startYear: 2009,
+        endYear: 2026,
+        description: 'Christy returned to metal drumming in 2009, forming Charred Walls of the Damned alongside Tim "Ripper" Owens, Jason Suecof, and Steve Di Giorgio. The band has released three studio albums to date, and Christy has continued the Pearl drum relationship documented in Sick Drummer Magazine interviews from 2008 and 2011, alongside his ongoing entertainment career at The Howard Stern Show.',
+        albums: ['Charred Walls of the Damned (2010)', 'Cold Winds on Timeless Days (2011)', 'Creatures Watching Over the Dead (2019)'],
+        tours: ['Charred Walls of the Damned touring and session dates (2009–present)'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl (per verified 2008/2011 interviews)',
+            details: 'Pearl drum relationship documented in Sick Drummer Magazine interviews (2008-10-23, 2011-03-08)',
+            notes: 'Specific model not independently confirmed as current in 2009 specifically; the two verified interviews bracket but do not fall exactly within this era\'s start.',
+            change: null,
+          },
+          snare: {
+            item: 'Pearl Sensitone Heritage Steel',
+            details: 'Unchanged',
+            notes: 'No verified change from the Iced Earth era.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Sabian AA / AAX, expanded setup',
+            details: 'Unchanged',
+            notes: 'No verified change from the Iced Earth era.',
+            change: null,
+          },
+          hardware: {
+            item: 'Pearl double pedal',
+            details: 'Unchanged',
+            notes: 'No verified change from the Iced Earth era.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth American Classic 5A / 5B',
+            details: 'Unchanged',
+            notes: 'No change from the previous era.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo / Evans',
+            details: 'Unchanged',
+            notes: 'No change from the previous era.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 6800,
+          inflationAdjusted: 9860,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Formed Charred Walls of the Damned in 2009, returning to metal drumming after leaving Iced Earth',
+          'Recorded three studio albums with the band: Charred Walls of the Damned (2010), Cold Winds on Timeless Days (2011), and Creatures Watching Over the Dead (2019)',
+          'Continued the Pearl drum relationship documented in Sick Drummer Magazine interviews (2008-10-23, 2011-03-08)',
+          'Remains an active drummer with the band alongside his career at The Howard Stern Show',
         ],
 
         videos: [],

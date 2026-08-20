@@ -5464,3 +5464,52 @@ From the prior run's list, still outstanding: igor-cavalera/tomas-haake/hellhamm
 2. Continue the remaining queue above — next priority: blake-richardson/derek-roddy (high-confidence, high-TAM djent/tech-death), then the weakly-sourced group B remainder (verify via external tiebreak since internal sources may be silent, not just wrong).
 3. Resolve the 3 ambiguous cases (pete-sandoval/bill-ward/art-cruz) with external tiebreak before deciding whether to file.
 4. `drummerEvolution.js` systemic sweep is now 16 of ~72 drummers fixed (8 from 08-19 morning run + 8 this run) out of 32 confirmed contradictions found — worth flagging to CEO as a `learned-patterns.md` fast-track candidate once a few of these ship (same precedent as the gearHighlights-vs-FAQ class).
+
+---
+
+## 2026-08-20 (Week 34, Thursday) — SEO Agent run: group B/A remainder cleared, 8 more drummerEvolution.js fixes filed
+
+### Bank check
+`gh issue list --state open --label seo-proposal` returned 11 (8 already-`ai-fix`-promoted #5854-5861 from the 08-19 evening sweep + 3 standing umbrellas #3810/#3819/#2211 — true untriaged bank 0). `ai-fix` backlog 28 open. Well under the 45 cap → cleared to file up to 8 net-new.
+
+### Audit summary
+- robots.txt (`api/robots.js`): all 8 AI crawlers explicitly allowed. ✅
+- `/llms/drummers/*.md`: 72 files live, matching full roster; `/llms/*.md` index+topical files present (31 files: bands/battles/bpm/cymbals/gear-guide/etc.).
+- Metrics (7d, refreshed 02:10 UTC): 213 users/268 sessions/514 views. GSC 5,270 impr/120 clicks/2.28% CTR/pos 10.1. **No content-gap queries this week** (table empty) — no CTR-gap proposal to file.
+- Today is Thursday — drum-chair Monday sweep not due (next rotation 2026-08-24 per learned-patterns.md; already logged twice 08-17 for last week's due date).
+
+### What was checked
+Picked up the explicit queued backlog from the 08-19 evening run's remaining list: group A remainder (blake-richardson, derek-roddy) + group B remainder (ben-koller, sean-reinert, abe-cunningham, nick-menza, raymond-herrera, dirk-verbeuren). Dispatched 8 parallel verification agents following the established cross-file protocol (`drummerEvolution.js` latest era → `extendedBios.js` gearHighlights → `api/drummers/index.js` kitOverview → `cymbalSetups.js` verified flag → external WebSearch/WebFetch tiebreak where internal sources disagreed or were silent).
+
+**Result: all 8 confirmed as genuine, verifiable issues**, though not all the same shape as prior rounds:
+- blake-richardson, derek-roddy, nick-menza, raymond-herrera, dirk-verbeuren: classic full/partial fabricated-brand pattern (3 unanimous internal sources vs. drummerEvolution.js outlier).
+- ben-koller: partial — only snare/cymbal-series/heads wrong, drums/hardware/sticks already correct (first case where a fix is a 3-field patch, not a full-block rewrite).
+- sean-reinert: a new failure shape — not fabricated gear but a **missing era** (eras array stops at 1993, silently omitting his real 2006-2015 Cynic reunion and 2 more albums), despite the entry's own `totalYearsActive: '1989-2019'` implying otherwise.
+- abe-cunningham: the most severe case yet — the usual "3 canonical sources agree, drummerEvolution.js is the outlier" pattern broke down. `extendedBios.js`, `api/drummers/index.js` kitOverview, AND `cymbalSetups.js` all independently agreed with each other on a fabricated "SJC Custom" rig, while drummerEvolution.js separately fabricated "Pearl". External verification (official Tama artist page) shows the real answer is Tama Starclassic Bubinga — a rig neither internal camp had. Filed as a 4-file fix, not the usual single-file one.
+
+### Proposals filed this run
+1. **#5880** — Blake Richardson: fabricated Tama Star Walnut/Meinl Byzance current era vs. verified Tama Starclassic Bubinga/Sabian rig.
+2. **#5881** — Derek Roddy: fabricated DW/Vic-Firth 2008-switch era vs. verified Tama/Meinl/Vater rig.
+3. **#5882** — Ben Koller: wrong snare/cymbal-series/heads (drums/hardware/sticks already correct) vs. verified Zildjian K Dark/Remo setup.
+4. **#5883** — Sean Reinert: drummerEvolution.js omits his real final era (2006-2015 Cynic reunion) entirely.
+5. **#5884** — Abe Cunningham: 4-file fabrication (drummerEvolution.js + extendedBios.js + kitOverview + cymbalSetups.js all wrong, 2 different fabricated rigs) vs. verified Tama Starclassic Bubinga (official tama.com artist page).
+6. **#5885** — Nick Menza: fabricated Pearl/Zildjian K-Custom 1996-2016 lineage (incl. unverifiable invented interview citations) vs. verified Tama Artstar/Premier Signia rig.
+7. **#5886** — Raymond Herrera: fabricated Pearl/Vater 2002-2009 era vs. verified Tama/Zildjian/Pro-Mark rig (externally corroborated: ModernDrummer, MusicRadar).
+8. **#5887** — Dirk Verbeuren: wrong snare/drum-wood/cymbal-series/sticks vs. verified Tama S.L.P./Meinl Byzance Brilliant rig.
+
+All 8 verified-only, freeze-compliant (zero new pages), dedup-checked against all-state issues (`gh issue list --state all --search "<slug> drummerEvolution"`) — every prior hit was a page-creation/comparison/gear-price-history batch, none touched gear-accuracy content.
+
+### Remaining queue (not filed this run — bank-cap discipline)
+Group A and B fully cleared as of this run. Still queued from the 08-19 list: jaska-raatikainen (minor, single-field stick-size), mike-mangini (minor, stick brand), alex-bent, paul-bostaph (also has an internal same-block inconsistency worth flagging), martin-axenrot, richard-christy (group C remainder); travis-orbin, isaac-lamb (group D remainder). Ambiguous, still needs resolution: pete-sandoval, bill-ward, art-cruz (source files disagree with each other, not just with drummerEvolution.js).
+
+### Open proposals waiting on CEO triage
+- #5880-5887 (filed this run, 0d old)
+- #5854-5861 (filed 08-19 19:21-19:23 UTC, already promoted to `ai-fix` per decisions-log)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers only.
+- Bank now 19 (8 fresh + 8 already-promoted-but-still-labeled + 3 umbrellas — true untriaged: 8).
+
+### Next run
+1. Watch #5880-5887 through CEO triage — #5884 (Abe Cunningham) is the highest-risk/highest-file-count, worth a closer look once merged given it touches 4 files and reverses what 3 sources previously agreed on.
+2. Continue the remaining queue above — next priority: group C remainder (jaska-raatikainen, mike-mangini, alex-bent, paul-bostaph, martin-axenrot, richard-christy), then group D (travis-orbin, isaac-lamb).
+3. Resolve the 3 ambiguous cases (pete-sandoval/bill-ward/art-cruz) with external tiebreak before deciding whether to file.
+4. `drummerEvolution.js` systemic sweep is now 24 of ~72 drummers fixed (16 prior + 8 this run) out of 32 confirmed contradictions originally found — only 8 remain in the confirmed queue (group C/D) plus 3 ambiguous. Close to fully clearing this systemic vein; worth flagging to CEO for a `learned-patterns.md` entry once the remaining ~8 ship, given the abe-cunningham case shows even "3 sources agree" isn't a reliable trust signal on its own.

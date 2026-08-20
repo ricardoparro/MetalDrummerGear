@@ -98,7 +98,7 @@ export const articles = {
           "notes": "Used sparingly — reserved for the album's biggest dynamic shifts"
         }
       ],
-      "description": "Ward's cymbal setup carried over directly from *Paranoid* — the same Avedis Zildjian hi-hats, ride, and crash — but the way he played them changed with the material. *Master of Reality*'s slower tempos and heavier riffs called for a tighter, more closed hi-hat pattern than the swung feel he'd used a year earlier, giving tracks like \"Sweet Leaf\" a more locked-down, mechanical pulse.\n\nThe 20\" ride remains Ward's primary timekeeping surface, especially on the extended slow build of \"Into the Void,\" where he rides patiently before the track shifts into its faster second half. His crash usage is even more restrained here than on *Paranoid* — on an album this heavy, a crash cymbal needed to mean something, and Ward saved his for the moments that actually called for one, like the transition into \"Children of the Grave\"'s galloping midsection.",
+      "description": "*Master of Reality* marks Ward's switch from the Super Zyn cymbals he'd used on the debut and *Paranoid* to Avedis Zildjian — a setup he'd keep for the rest of Black Sabbath's original run. *Master of Reality*'s slower tempos and heavier riffs called for a tighter, more closed hi-hat pattern than the swung feel he'd used a year earlier, giving tracks like \"Sweet Leaf\" a more locked-down, mechanical pulse.\n\nThe 20\" ride is Ward's primary timekeeping surface, especially on the extended slow build of \"Into the Void,\" where he rides patiently before the track shifts into its faster second half. His crash usage is restrained here — on an album this heavy, a crash cymbal needed to mean something, and Ward saved his for the moments that actually called for one, like the transition into \"Children of the Grave\"'s galloping midsection.",
       "estimatedValue": "$300–500 total (1971) / $2,000–4,000 (vintage today)"
     },
     "hardware": {
@@ -395,7 +395,7 @@ export const articles = {
       "estimatedValue": "$60–90 (1972) / $150–350 (vintage today)"
     },
     "cymbals": {
-      "title": "Avedis Zildjian: Unchanged Ahead of the Paiste Switch",
+      "title": "Avedis Zildjian: Carried Over From Master of Reality",
       "brand": "Zildjian",
       "series": "Avedis Zildjian",
       "setup": [
@@ -418,7 +418,7 @@ export const articles = {
           "notes": "Used sparingly, consistent with Ward's restrained approach on earlier albums"
         }
       ],
-      "description": "Ward's cymbal setup carried over directly from *Master of Reality* — the same Avedis Zildjian hi-hats, ride, and crash he'd used since *Paranoid*. *Vol. 4* would be his last album on Zildjian before switching to the brighter, more cutting Paiste 2002 series on *Sabotage* three years later.\n\nThe hi-hats do most of the work driving \"Supernaut\"'s syncopated groove, while the 20\" ride carries the tempo shift midway through \"Wheels of Confusion/The Straightener.\" Crash usage stays restrained throughout the album's heavier tracks, consistent with the more deliberate, riff-locked approach Ward had developed since *Master of Reality*.",
+      "description": "Ward's cymbal setup carried over directly from *Master of Reality* — the same Avedis Zildjian hi-hats, ride, and crash he'd switched to the year before, after using Super Zyn on the debut and *Paranoid*. That Zildjian setup would carry him through the rest of Black Sabbath's original run, including *Sabotage* three years later.\n\nThe hi-hats do most of the work driving \"Supernaut\"'s syncopated groove, while the 20\" ride carries the tempo shift midway through \"Wheels of Confusion/The Straightener.\" Crash usage stays restrained throughout the album's heavier tracks, consistent with the more deliberate, riff-locked approach Ward had developed since *Master of Reality*.",
       "estimatedValue": "$300–500 total (1972) / $2,000–4,000 (vintage today)"
     },
     "hardware": {
@@ -522,7 +522,7 @@ export const articles = {
     ],
     "evolution": {
       "title": "From Master of Reality to Vol. 4: Same Gear, Bigger Creative Range",
-      "content": "Bill Ward's gear didn't change between *Master of Reality* (1971) and *Vol. 4* (1972) — the same Ludwig kit, Acrolite snare, and Zildjian cymbals carried over unchanged. What changed was the material he was asked to support, from the driving syncopation of \"Supernaut\" to the total absence required by \"Changes\" and \"FX.\"\n\nThat consistency wouldn't last much longer. By *Sabbath Bloody Sabbath* the following year, Ward had grown his bass drum to 24\", added a second floor tom, and switched from the Acrolite to the Ludwig Supraphonic — the next step in a gear evolution that continued through *Sabotage* and its switch to Paiste 2002 cymbals.",
+      "content": "Bill Ward's gear didn't change between *Master of Reality* (1971) and *Vol. 4* (1972) — the same Ludwig kit, Acrolite snare, and Zildjian cymbals carried over unchanged. What changed was the material he was asked to support, from the driving syncopation of \"Supernaut\" to the total absence required by \"Changes\" and \"FX.\"\n\nThat consistency wouldn't last much longer. By *Sabbath Bloody Sabbath* the following year, Ward had grown his bass drum to 24\", added a second floor tom, and switched from the Acrolite to the Ludwig Supraphonic — the next step in a gear evolution that continued through *Sabotage*, where his Zildjian cymbal setup expanded to include a China cymbal.",
       "thenVsNow": [
         {
           "category": "Kit",
@@ -982,7 +982,7 @@ export const articles = {
     "dateModified": "2026-07-01",
     "author": "MetalForge Editorial",
     "title": "Bill Ward's Drum Setup on Black Sabbath's Sabotage (1975)",
-    "description": "Bill Ward's drum setup for Sabotage (1975) — the Ludwig kit and Paiste 2002 cymbals behind \"Symptom of the Universe,\" Black Sabbath's most technically demanding album of the original era.",
+    "description": "Bill Ward's drum setup for Sabotage (1975) — the Ludwig kit and Zildjian cymbals behind \"Symptom of the Universe,\" Black Sabbath's most technically demanding album of the original era.",
     "seoKeywords": [
       "sabotage drums",
       "bill ward sabotage drum setup",
@@ -993,12 +993,12 @@ export const articles = {
     "ogImage": "/images/albums/sabotage-drums.webp",
     "intro": {
       "title": "Black Sabbath's Most Technically Demanding Album",
-      "content": "Recorded during a period of mounting legal turmoil — the album's title is a direct reference to the lawsuits the band was fighting with former management — *Sabotage* (1975) is widely regarded as the last great Black Sabbath album of the original lineup's most progressive stretch. Self-produced at Morgan Studios in London, it pushed the band's arrangements further than *Vol. 4* or *Sabbath Bloody Sabbath* had, layering multi-part song structures, orchestral overdubs, and tempo shifts onto material that still hit as hard as anything on *Paranoid*.\n\nNo track demanded more from Bill Ward than \"Symptom of the Universe.\" Often cited as a direct ancestor of thrash metal, the song pairs a galloping, palm-muted riff with a driving, syncopated groove before dissolving into an extended acoustic jam — a structural and technical leap that required Ward to shift between aggressive, riff-locked playing and loose, jazz-informed feel within a single track. Bassist Geezer Butler later called the *Sabotage* sessions the most the band ever pushed itself musically, and Ward's drumming across the record backs that up: this is his most technically ambitious performance in a Black Sabbath album.\n\nThis article breaks down the Ludwig kit and expanded Paiste 2002 cymbal setup Ward used to record *Sabotage* — gear that reflects a band still committed to Ludwig drums but reaching for a very different cymbal voice than the Zildjian bronze heard on *Paranoid* and *Master of Reality*.",
+      "content": "Recorded during a period of mounting legal turmoil — the album's title is a direct reference to the lawsuits the band was fighting with former management — *Sabotage* (1975) is widely regarded as the last great Black Sabbath album of the original lineup's most progressive stretch. Self-produced at Morgan Studios in London, it pushed the band's arrangements further than *Vol. 4* or *Sabbath Bloody Sabbath* had, layering multi-part song structures, orchestral overdubs, and tempo shifts onto material that still hit as hard as anything on *Paranoid*.\n\nNo track demanded more from Bill Ward than \"Symptom of the Universe.\" Often cited as a direct ancestor of thrash metal, the song pairs a galloping, palm-muted riff with a driving, syncopated groove before dissolving into an extended acoustic jam — a structural and technical leap that required Ward to shift between aggressive, riff-locked playing and loose, jazz-informed feel within a single track. Bassist Geezer Butler later called the *Sabotage* sessions the most the band ever pushed itself musically, and Ward's drumming across the record backs that up: this is his most technically ambitious performance in a Black Sabbath album.\n\nThis article breaks down the Ludwig kit and expanded Avedis Zildjian cymbal setup Ward used to record *Sabotage* — gear that reflects a band still committed to the same Ludwig-and-Zildjian foundation heard on *Master of Reality*, now expanded with a first-ever China cymbal.",
       "keyPoints": [
         "Recorded at Morgan Studios, London, and self-produced by the band during a period of legal disputes with former management",
         "\"Symptom of the Universe\" is frequently cited as a direct precursor to thrash metal",
         "Bill Ward's most technically and dynamically demanding performance of Black Sabbath's original run",
-        "Cymbal setup switched from Avedis Zildjian to an expanded Paiste 2002 lineup, including a China cymbal"
+        "Cymbal setup expanded within the same Avedis Zildjian lineup, adding a China cymbal for the first time"
       ]
     },
     "drumKit": {
@@ -1040,42 +1040,42 @@ export const articles = {
       "estimatedValue": "$75–120 (1975) / $200–450 (vintage today)"
     },
     "cymbals": {
-      "title": "Paiste 2002: A New Voice for Sabbath's Most Progressive Record",
-      "brand": "Paiste",
-      "series": "Paiste 2002",
+      "title": "Avedis Zildjian: Expanded for Sabbath's Most Progressive Record",
+      "brand": "Zildjian",
+      "series": "Avedis Zildjian",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Paiste 2002 15\" Sound Edge Hi-Hats",
+          "model": "Avedis Zildjian 15\" Hi-Hats",
           "position": "Left side",
-          "notes": "Larger and brighter than the Zildjian 14\" hi-hats used on earlier Sabbath albums"
+          "notes": "Larger than the 14\" hi-hats used on earlier Sabbath albums"
         },
         {
           "type": "Crash",
-          "model": "Paiste 2002 18\" Crash",
+          "model": "Avedis Zildjian 18\" Crash",
           "position": "Above rack toms",
           "notes": "Used for tighter accents in the more structured sections"
         },
         {
           "type": "Crash",
-          "model": "Paiste 2002 20\" Crash",
+          "model": "Avedis Zildjian 20\" Crash",
           "position": "Right of rack toms",
           "notes": "Bigger wash for the album's larger dynamic swings"
         },
         {
           "type": "Ride",
-          "model": "Paiste 2002 24\" Ride",
+          "model": "Avedis Zildjian 24\" Ride",
           "position": "Far right",
           "notes": "Carries the extended sections of Megalomania and the choir-backed Supertzar"
         },
         {
           "type": "China",
-          "model": "Paiste 2002 18\" China",
+          "model": "Avedis Zildjian 18\" China",
           "position": "Near floor tom",
           "notes": "New addition for Sabotage — used for exotic, textured accents in the album's more progressive passages"
         }
       ],
-      "description": "*Sabotage* marks Ward's switch from the Avedis Zildjian bronze he'd used since *Paranoid* to an expanded Paiste 2002 setup — a brighter, more cutting cymbal voice better suited to the album's denser, more aggressive production. The larger 15\" hi-hats and 24\" ride gave Ward a fuller, more commanding top end, while the addition of an 18\" China cymbal was new territory entirely: Ward had never used one on a prior Sabbath record.\n\nThe China's trashy, exotic tone shows up in the more textured, progressive passages of \"Megalomania\" and \"Supertzar,\" giving Ward an accent color that the earlier Zildjian-only setup couldn't provide. On \"Symptom of the Universe,\" the crashes land harder and more frequently during the galloping verse riff than anything on *Sabbath Bloody Sabbath*, matching the track's more aggressive, proto-thrash energy. The 24\" ride's size and wash suited the album's more orchestrated moments, carrying the groove under \"Supertzar\"'s full choir arrangement without getting buried.",
+      "description": "*Sabotage* finds Ward expanding the same Avedis Zildjian setup he'd used since *Master of Reality* rather than switching brands — bigger 15\" hi-hats and a 24\" ride gave him a fuller, more commanding top end, while the addition of an 18\" China cymbal was new territory entirely: Ward had never used one on a prior Sabbath record.\n\nThe China's trashy, exotic tone shows up in the more textured, progressive passages of \"Megalomania\" and \"Supertzar,\" giving Ward an accent color that the earlier three-piece Zildjian setup couldn't provide. On \"Symptom of the Universe,\" the crashes land harder and more frequently during the galloping verse riff than anything on *Sabbath Bloody Sabbath*, matching the track's more aggressive, proto-thrash energy. The 24\" ride's size and wash suited the album's more orchestrated moments, carrying the groove under \"Supertzar\"'s full choir arrangement without getting buried.",
       "estimatedValue": "$500–850 total (1975) / $2,800–5,500 (vintage today)"
     },
     "hardware": {
@@ -1120,10 +1120,10 @@ export const articles = {
         "signature": "4/4",
         "highlights": [
           "Opens the album with a driving, riff-locked groove reminiscent of the band's early proto-metal work",
-          "Ward's hi-hat work on the new Paiste 15\" pair is immediately audible — brighter and more cutting than the Zildjian setup",
+          "Ward's hi-hat work on the new 15\" Zildjian pair is immediately audible — bigger and more commanding than the 14\" setup used on earlier albums",
           "Tight, aggressive snare placement sets the tone for the album's heavier moments"
         ],
-        "gearNotes": "The Paiste 2002 hi-hats give the track a noticeably brighter top end than Sabbath Bloody Sabbath."
+        "gearNotes": "The larger 15\" Zildjian hi-hats give the track a noticeably bigger top end than Sabbath Bloody Sabbath."
       },
       {
         "track": "Symptom of the Universe",
@@ -1142,7 +1142,7 @@ export const articles = {
         "signature": "4/4, shifting",
         "highlights": [
           "One of Sabbath's longest and most structurally ambitious songs, moving through several distinct sections",
-          "Ward's added 14\" tom and Paiste China cymbal both get used for the first time across the song's shifting textures",
+          "Ward's added 14\" tom and Zildjian China cymbal both get used for the first time across the song's shifting textures",
           "Builds from a slow, brooding opening into a driving, triumphant close"
         ],
         "gearNotes": "The three-tom configuration gives Ward more tonal range for the song's transitions between sections."
@@ -1154,7 +1154,7 @@ export const articles = {
         "highlights": [
           "Features a full choir (the English Chamber Choir) arranged by Will Malone",
           "Ward's playing stays restrained and orchestral, supporting rather than driving the arrangement",
-          "The 24\" Paiste ride's wash and sustain sit naturally underneath the choral arrangement"
+          "The 24\" Zildjian ride's wash and sustain sit naturally underneath the choral arrangement"
         ],
         "gearNotes": "Demonstrates Ward's restraint — the drum part is sparse by design, letting the choir carry the track."
       }
@@ -1166,20 +1166,20 @@ export const articles = {
       },
       {
         "question": "What cymbals did Bill Ward use on Sabotage?",
-        "answer": "Ward switched from the Avedis Zildjian cymbals he'd used since *Paranoid* to an expanded Paiste 2002 setup for *Sabotage* — 15\" hi-hats, 18\" and 20\" crashes, a 24\" ride, and, for the first time, an 18\" Paiste 2002 China cymbal. The China's exotic, trashy tone gave Ward a new textural color for the album's more progressive passages, particularly on \"Megalomania\" and \"Supertzar.\" See the [Sabbath Bloody Sabbath drum setup](/articles/sabbath-bloody-sabbath-drum-setup) for the Zildjian-based setup Ward used just two years earlier."
+        "answer": "Ward expanded the same Avedis Zildjian cymbals he'd used since *Master of Reality* for *Sabotage* — bigger 15\" hi-hats, 18\" and 20\" crashes, a 24\" ride, and, for the first time, an 18\" Zildjian China cymbal. The China's exotic, trashy tone gave Ward a new textural color for the album's more progressive passages, particularly on \"Megalomania\" and \"Supertzar.\" See the [Sabbath Bloody Sabbath drum setup](/articles/sabbath-bloody-sabbath-drum-setup) for the setup Ward used just two years earlier."
       },
       {
         "question": "What kit did Bill Ward use on Symptom of the Universe?",
-        "answer": "Bill Ward played the same Ludwig Standard Maple kit and Paiste 2002 cymbal setup used across the entire *Sabotage* album on \"Symptom of the Universe\" — a 22\" bass drum, Ludwig Speed King single pedal, and Ludwig Supraphonic snare. What sets the track apart isn't different gear but different technique: Ward's fast, palm-muted-riff-locked kick pattern in the verses is widely cited as a direct ancestor of thrash metal, executed years before the genre existed, entirely with one foot."
+        "answer": "Bill Ward played the same Ludwig Standard Maple kit and Zildjian cymbal setup used across the entire *Sabotage* album on \"Symptom of the Universe\" — a 22\" bass drum, Ludwig Speed King single pedal, and Ludwig Supraphonic snare. What sets the track apart isn't different gear but different technique: Ward's fast, palm-muted-riff-locked kick pattern in the verses is widely cited as a direct ancestor of thrash metal, executed years before the genre existed, entirely with one foot."
       },
       {
         "question": "How much did Bill Ward's 1975 drum kit cost?",
-        "answer": "Bill Ward's Ludwig kit on *Sabotage* — a 22\" bass drum, three toms, and a floor tom in natural maple — would have cost roughly $1,100 to $1,900 new in 1975, with the expanded Paiste 2002 cymbal setup adding another $500 to $850. Comparable vintage Ludwig kits from this era sell for $6,500 to $16,000 today in good original condition. See the [Bill Ward licks and technique breakdowns](/drummer/bill-ward/licks) for more on his playing during this period."
+        "answer": "Bill Ward's Ludwig kit on *Sabotage* — a 22\" bass drum, three toms, and a floor tom in natural maple — would have cost roughly $1,100 to $1,900 new in 1975, with the expanded Zildjian cymbal setup adding another $500 to $850. Comparable vintage Ludwig kits from this era sell for $6,500 to $16,000 today in good original condition. See the [Bill Ward licks and technique breakdowns](/drummer/bill-ward/licks) for more on his playing during this period."
       }
     ],
     "evolution": {
-      "title": "From Sabbath Bloody Sabbath to Sabotage: New Cymbals for a New Sound",
-      "content": "The two years between *Sabbath Bloody Sabbath* (1973) and *Sabotage* (1975) brought Bill Ward's biggest gear change since switching snares — a full move from Avedis Zildjian to Paiste 2002 cymbals, plus a third tom added to his kit. Both changes tracked directly with Black Sabbath's most progressive and technically demanding album of the original lineup's run, one built around multi-part songs, orchestral arrangements, and — on \"Symptom of the Universe\" — a glimpse of thrash metal years before the genre had a name.\n\nThat *Sabotage* would mark something of a peak. Ward's setup and playing approach stayed largely consistent through *Technical Ecstasy* (1976) and *Never Say Die!* (1978) as the band's original run wound down, with the jazz-informed vocabulary he'd carried since 1968 remaining the constant thread across every gear change.",
+      "title": "From Sabbath Bloody Sabbath to Sabotage: An Expanded Cymbal Setup",
+      "content": "The two years between *Sabbath Bloody Sabbath* (1973) and *Sabotage* (1975) brought Bill Ward's biggest cymbal expansion since he first picked up Avedis Zildjian on *Master of Reality* — bigger hi-hats and ride, plus a first-ever China cymbal, alongside a third tom added to his kit. Both changes tracked directly with Black Sabbath's most progressive and technically demanding album of the original lineup's run, one built around multi-part songs, orchestral arrangements, and — on \"Symptom of the Universe\" — a glimpse of thrash metal years before the genre had a name.\n\nThat *Sabotage* would mark something of a peak. Ward's Zildjian setup and playing approach stayed largely consistent through *Technical Ecstasy* (1976) and *Never Say Die!* (1978) as the band's original run wound down, with the jazz-informed vocabulary he'd carried since 1968 remaining the constant thread across every gear change.",
       "thenVsNow": [
         {
           "category": "Kit",
@@ -1193,8 +1193,8 @@ export const articles = {
         },
         {
           "category": "Cymbals",
-          "then": "Paiste 2002 Series, including an 18\" China",
-          "now": "Paiste 2002 Series still in production, largely unchanged"
+          "then": "Avedis Zildjian, including an 18\" China",
+          "now": "Zildjian A Series (closest modern equivalent)"
         }
       ]
     },
@@ -1247,7 +1247,7 @@ export const articles = {
         {
           "@type": "Article",
           "headline": "Bill Ward's Drum Setup on Black Sabbath's Sabotage (1975)",
-          "description": "Bill Ward's drum setup for Sabotage (1975) — the Ludwig kit and Paiste 2002 cymbals behind \"Symptom of the Universe,\" Black Sabbath's most technically demanding album of the original era.",
+          "description": "Bill Ward's drum setup for Sabotage (1975) — the Ludwig kit and Zildjian cymbals behind \"Symptom of the Universe,\" Black Sabbath's most technically demanding album of the original era.",
           "author": {
             "@type": "Organization",
             "name": "MetalForge Editorial"
@@ -1292,7 +1292,7 @@ export const articles = {
     },
     "conclusion": {
       "title": "The Peak of the Original Lineup's Technical Ambition",
-      "content": "*Sabotage* is where Black Sabbath's original lineup pushed itself the furthest musically, and Bill Ward's drumming across the record is the clearest evidence of that ambition. \"Symptom of the Universe\" alone — a galloping, riff-locked verse that anticipates thrash metal, followed by an extended acoustic jam — asked more of him technically and dynamically than anything on *Paranoid* or *Master of Reality*. He answered with an expanded Ludwig kit, a third tom, and a completely new cymbal voice in the Paiste 2002 series, including his first-ever use of a China cymbal.\n\n**For Drummers Studying *Sabotage*:** \"Symptom of the Universe\" teaches how to execute a fast, driving kick pattern with a single pedal and full control — the galloping feel comes from placement, not extra hardware. \"Megalomania\" rewards close listening to how Ward uses his added third tom and China cymbal to mark structural transitions across a genuinely long-form composition. \"Supertzar\" is a lesson in restraint: supporting a full choir arrangement without over-playing.\n\nFor the rest of Ward's gear evolution through Black Sabbath's catalog, see the [Sabbath Bloody Sabbath drum setup](/articles/sabbath-bloody-sabbath-drum-setup), recorded two years earlier, and the [Paranoid drum setup](/articles/paranoid-drum-setup), the record that started it all. The full picture of his career is on the [Bill Ward drummer profile](/drummer/bill-ward).\n\n🥁 *The album where Black Sabbath got as progressive as the original lineup ever would — and Bill Ward's new Paiste cymbals were right there to color it.* 🥁"
+      "content": "*Sabotage* is where Black Sabbath's original lineup pushed itself the furthest musically, and Bill Ward's drumming across the record is the clearest evidence of that ambition. \"Symptom of the Universe\" alone — a galloping, riff-locked verse that anticipates thrash metal, followed by an extended acoustic jam — asked more of him technically and dynamically than anything on *Paranoid* or *Master of Reality*. He answered with an expanded Ludwig kit, a third tom, and an expanded Zildjian cymbal setup, including his first-ever use of a China cymbal.\n\n**For Drummers Studying *Sabotage*:** \"Symptom of the Universe\" teaches how to execute a fast, driving kick pattern with a single pedal and full control — the galloping feel comes from placement, not extra hardware. \"Megalomania\" rewards close listening to how Ward uses his added third tom and China cymbal to mark structural transitions across a genuinely long-form composition. \"Supertzar\" is a lesson in restraint: supporting a full choir arrangement without over-playing.\n\nFor the rest of Ward's gear evolution through Black Sabbath's catalog, see the [Sabbath Bloody Sabbath drum setup](/articles/sabbath-bloody-sabbath-drum-setup), recorded two years earlier, and the [Paranoid drum setup](/articles/paranoid-drum-setup), the record that started it all. The full picture of his career is on the [Bill Ward drummer profile](/drummer/bill-ward).\n\n🥁 *The album where Black Sabbath got as progressive as the original lineup ever would — and Bill Ward's expanded Zildjian cymbals were right there to color it.* 🥁"
     }
   },
   "technical-ecstasy-drum-setup": {
@@ -1312,7 +1312,7 @@ export const articles = {
     "dateModified": "2026-07-02",
     "author": "MetalForge Editorial",
     "title": "Bill Ward's Drum Setup on Black Sabbath's 'Technical Ecstasy' (1976)",
-    "description": "Bill Ward's drum setup for Technical Ecstasy (1976) — the Ludwig kit and Paiste 2002 cymbals behind \"Dirty Women,\" plus the album where Ward sang lead vocals for the first time.",
+    "description": "Bill Ward's drum setup for Technical Ecstasy (1976) — the Ludwig kit and Zildjian cymbals behind \"Dirty Women,\" plus the album where Ward sang lead vocals for the first time.",
     "seoKeywords": [
       "technical ecstasy drums",
       "bill ward 1976 drum kit",
@@ -1323,7 +1323,7 @@ export const articles = {
     "ogImage": "/images/albums/technical-ecstasy-drums.webp",
     "intro": {
       "title": "Miami Sessions and a Widening Musical Palette",
-      "content": "Recorded at Criteria Studios in Miami and released in September 1976, *Technical Ecstasy* found Black Sabbath reaching beyond the doom-and-riff formula that had defined their first six albums. The record leans into more melodic, mid-tempo material and even glam-tinged production touches — a deliberate stretch that drew a mixed reaction from fans expecting another *Sabotage*, but one that has aged into a respected deep cut in the catalog, anchored by the closing track \"Dirty Women.\"\n\nThe album is also notable as the first time Bill Ward stepped out from behind the kit to sing lead vocals on a Black Sabbath track: \"It's Alright,\" a piano-led ballad written and sung by Ward himself. It remains one of the more surprising entries in his discography — proof that his musicality with the band extended well past the drum stool.\n\nThis article covers the Ludwig kit and Paiste 2002 cymbal setup Ward carried over from *Sabotage*, and how his playing adapted to *Technical Ecstasy*'s more varied, occasionally funk- and rock-radio-leaning material.",
+      "content": "Recorded at Criteria Studios in Miami and released in September 1976, *Technical Ecstasy* found Black Sabbath reaching beyond the doom-and-riff formula that had defined their first six albums. The record leans into more melodic, mid-tempo material and even glam-tinged production touches — a deliberate stretch that drew a mixed reaction from fans expecting another *Sabotage*, but one that has aged into a respected deep cut in the catalog, anchored by the closing track \"Dirty Women.\"\n\nThe album is also notable as the first time Bill Ward stepped out from behind the kit to sing lead vocals on a Black Sabbath track: \"It's Alright,\" a piano-led ballad written and sung by Ward himself. It remains one of the more surprising entries in his discography — proof that his musicality with the band extended well past the drum stool.\n\nThis article covers the Ludwig kit and Zildjian cymbal setup Ward carried over from *Sabotage*, and how his playing adapted to *Technical Ecstasy*'s more varied, occasionally funk- and rock-radio-leaning material.",
       "keyPoints": [
         "Recorded at Criteria Studios, Miami, Florida, and self-produced by the band",
         "Bill Ward sings lead vocals on \"It's Alright\" — the first time he took the mic on a Sabbath album track",
@@ -1370,42 +1370,42 @@ export const articles = {
       "estimatedValue": "$75–120 (1976) / $200–450 (vintage today)"
     },
     "cymbals": {
-      "title": "Paiste 2002: Carried Over From Sabotage",
-      "brand": "Paiste",
-      "series": "Paiste 2002",
+      "title": "Avedis Zildjian: Carried Over From Sabotage",
+      "brand": "Zildjian",
+      "series": "Avedis Zildjian",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Paiste 2002 15\" Sound Edge Hi-Hats",
+          "model": "Avedis Zildjian 15\" Hi-Hats",
           "position": "Left side",
           "notes": "Same pair used on Sabotage, driving the funkier grooves on All Moving Parts (Stand Still)"
         },
         {
           "type": "Crash",
-          "model": "Paiste 2002 18\" Crash",
+          "model": "Avedis Zildjian 18\" Crash",
           "position": "Above rack toms",
           "notes": "Tighter accents on the album's more melodic, mid-tempo material"
         },
         {
           "type": "Crash",
-          "model": "Paiste 2002 20\" Crash",
+          "model": "Avedis Zildjian 20\" Crash",
           "position": "Right of rack toms",
           "notes": "Bigger wash for Dirty Women's extended dynamic build"
         },
         {
           "type": "Ride",
-          "model": "Paiste 2002 24\" Ride",
+          "model": "Avedis Zildjian 24\" Ride",
           "position": "Far right",
           "notes": "Carries the slow-building verses of Dirty Women before the track's driving climax"
         },
         {
           "type": "China",
-          "model": "Paiste 2002 18\" China",
+          "model": "Avedis Zildjian 18\" China",
           "position": "Near floor tom",
           "notes": "Used sparingly for textured accents, consistent with its Sabotage introduction"
         }
       ],
-      "description": "Ward's Paiste 2002 setup made the jump from *Sabotage* unchanged — the same 15\" hi-hats, 18\" and 20\" crashes, 24\" ride, and 18\" China that had replaced his Zildjian cymbals a year earlier. *Technical Ecstasy*'s more varied, occasionally funk-leaning material gave the brighter Paiste voice a different context to work in than the proto-thrash gallop of \"Symptom of the Universe.\"\n\nThe 24\" ride carries \"Dirty Women\"'s extended slow build before the track opens up into its driving final section, while the hi-hats do much of the rhythmic work on \"All Moving Parts (Stand Still),\" a track that leans harder into groove and syncopation than almost anything else in Ward's Sabbath catalog. Crash use stays proportional to the album's more measured dynamics — reserved for genuine high points rather than every section change.",
+      "description": "Ward's Zildjian setup made the jump from *Sabotage* unchanged — the same 15\" hi-hats, 18\" and 20\" crashes, 24\" ride, and 18\" China introduced on that album. *Technical Ecstasy*'s more varied, occasionally funk-leaning material gave the same cymbal voice a different context to work in than the proto-thrash gallop of \"Symptom of the Universe.\"\n\nThe 24\" ride carries \"Dirty Women\"'s extended slow build before the track opens up into its driving final section, while the hi-hats do much of the rhythmic work on \"All Moving Parts (Stand Still),\" a track that leans harder into groove and syncopation than almost anything else in Ward's Sabbath catalog. Crash use stays proportional to the album's more measured dynamics — reserved for genuine high points rather than every section change.",
       "estimatedValue": "$500–850 total (1976) / $2,800–5,500 (vintage today)"
     },
     "hardware": {
@@ -1453,7 +1453,7 @@ export const articles = {
           "Ward's kick and snare lock tightly to Tony Iommi's riff, a more conventional rock approach than the band's doom-era material",
           "Sets the tone for an album willing to move outside Sabbath's established formula"
         ],
-        "gearNotes": "The Paiste 2002 hi-hats and crashes carry the same bright, cutting voice introduced on Sabotage."
+        "gearNotes": "The Zildjian hi-hats and crashes carry the same voice introduced on Sabotage."
       },
       {
         "track": "It's Alright",
@@ -1475,7 +1475,7 @@ export const articles = {
           "Hi-hat and snare interplay pulls from soul and funk vocabulary rather than straight rock or doom",
           "Shows the breadth of Ward's jazz-rooted background applied to genuinely new territory"
         ],
-        "gearNotes": "The Paiste 15\" hi-hats give the groove a tighter, more controlled feel than the wide-open Zildjian setup from earlier albums."
+        "gearNotes": "The 15\" Zildjian hi-hats give the groove a tighter, more controlled feel than the smaller 14\" setup used on earlier albums."
       },
       {
         "track": "Dirty Women",
@@ -1486,13 +1486,13 @@ export const articles = {
           "Ward's playing shifts from a patient, tension-building verse to a driving, syncopated climax",
           "Frequently cited by fans as the standout track on Technical Ecstasy"
         ],
-        "gearNotes": "The 24\" Paiste ride carries the slow build before the track's final, driving section opens up the full kit."
+        "gearNotes": "The 24\" Zildjian ride carries the slow build before the track's final, driving section opens up the full kit."
       }
     ],
     "faq": [
       {
         "question": "What drums did Bill Ward use on Technical Ecstasy?",
-        "answer": "Bill Ward recorded *Technical Ecstasy* (1976) on the same Ludwig Standard Maple kit he'd used on *Sabotage* — a 22\" bass drum, two rack toms, and a 16\" floor tom in natural maple, paired with a Ludwig Supraphonic snare. His Paiste 2002 cymbal setup, including the 18\" China introduced on *Sabotage*, also carried over unchanged. For the full arc of Ward's gear through Black Sabbath's catalog, see the [Bill Ward drummer profile](/drummer/bill-ward)."
+        "answer": "Bill Ward recorded *Technical Ecstasy* (1976) on the same Ludwig Standard Maple kit he'd used on *Sabotage* — a 22\" bass drum, two rack toms, and a 16\" floor tom in natural maple, paired with a Ludwig Supraphonic snare. His Zildjian cymbal setup, including the 18\" China introduced on *Sabotage*, also carried over unchanged. For the full arc of Ward's gear through Black Sabbath's catalog, see the [Bill Ward drummer profile](/drummer/bill-ward)."
       },
       {
         "question": "Did Bill Ward sing on a Black Sabbath album?",
@@ -1500,16 +1500,16 @@ export const articles = {
       },
       {
         "question": "What is Dirty Women from?",
-        "answer": "\"Dirty Women\" is the closing track on *Technical Ecstasy* (1976), Black Sabbath's seventh studio album. It has become one of the record's most enduring deep cuts, built around an extended arrangement that moves from a patient, tension-building verse into a driving, syncopated climax — a showcase for Bill Ward's dynamic range on the same Ludwig kit and Paiste 2002 cymbals he used across *Sabotage*."
+        "answer": "\"Dirty Women\" is the closing track on *Technical Ecstasy* (1976), Black Sabbath's seventh studio album. It has become one of the record's most enduring deep cuts, built around an extended arrangement that moves from a patient, tension-building verse into a driving, syncopated climax — a showcase for Bill Ward's dynamic range on the same Ludwig kit and Zildjian cymbals he used across *Sabotage*."
       },
       {
         "question": "How much did Bill Ward's 1976 drum kit cost?",
-        "answer": "Bill Ward's Ludwig Standard Maple kit on *Technical Ecstasy* — a 22\" bass drum, two rack toms, and a floor tom — would have cost roughly $1,100 to $1,900 new in 1976, with the Paiste 2002 cymbal setup adding another $500 to $850. Comparable vintage Ludwig kits from this era sell for $6,500 to $16,000 today in good original condition. See the [Sabotage drum setup](/articles/sabotage-drum-setup) for the album where this same gear configuration debuted."
+        "answer": "Bill Ward's Ludwig Standard Maple kit on *Technical Ecstasy* — a 22\" bass drum, two rack toms, and a floor tom — would have cost roughly $1,100 to $1,900 new in 1976, with the Zildjian cymbal setup adding another $500 to $850. Comparable vintage Ludwig kits from this era sell for $6,500 to $16,000 today in good original condition. See the [Sabotage drum setup](/articles/sabotage-drum-setup) for the album where this same gear configuration debuted."
       }
     ],
     "evolution": {
       "title": "From Sabotage to Technical Ecstasy: Same Gear, Wider Musical Range",
-      "content": "Bill Ward's gear didn't change between *Sabotage* (1975) and *Technical Ecstasy* (1976) — the same Ludwig Standard Maple kit, Supraphonic snare, and Paiste 2002 cymbals carried over unchanged. What changed was the material he was asked to support, from the proto-thrash gallop of \"Symptom of the Universe\" to the funk-inflected groove of \"All Moving Parts (Stand Still)\" and, on \"It's Alright,\" no drumming at all.\n\nThat consistency would hold for one more album. Ward's setup stayed effectively the same through *Never Say Die!* (1978), his final studio album with Black Sabbath's original lineup before Vinnie Appice took over the drum stool for *Heaven and Hell* in 1980.",
+      "content": "Bill Ward's gear didn't change between *Sabotage* (1975) and *Technical Ecstasy* (1976) — the same Ludwig Standard Maple kit, Supraphonic snare, and Zildjian cymbals carried over unchanged. What changed was the material he was asked to support, from the proto-thrash gallop of \"Symptom of the Universe\" to the funk-inflected groove of \"All Moving Parts (Stand Still)\" and, on \"It's Alright,\" no drumming at all.\n\nThat consistency would hold for one more album. Ward's setup stayed effectively the same through *Never Say Die!* (1978), his final studio album with Black Sabbath's original lineup before Vinnie Appice took over the drum stool for *Heaven and Hell* in 1980.",
       "thenVsNow": [
         {
           "category": "Kit",
@@ -1523,8 +1523,8 @@ export const articles = {
         },
         {
           "category": "Cymbals",
-          "then": "Paiste 2002 Series, including an 18\" China",
-          "now": "Paiste 2002 Series still in production, largely unchanged"
+          "then": "Avedis Zildjian, including an 18\" China",
+          "now": "Zildjian A Series (closest modern equivalent)"
         }
       ]
     },
@@ -1577,7 +1577,7 @@ export const articles = {
         {
           "@type": "Article",
           "headline": "Bill Ward's Drum Setup on Black Sabbath's 'Technical Ecstasy' (1976)",
-          "description": "Bill Ward's drum setup for Technical Ecstasy (1976) — the Ludwig kit and Paiste 2002 cymbals behind \"Dirty Women,\" plus the album where Ward sang lead vocals for the first time.",
+          "description": "Bill Ward's drum setup for Technical Ecstasy (1976) — the Ludwig kit and Zildjian cymbals behind \"Dirty Women,\" plus the album where Ward sang lead vocals for the first time.",
           "author": {
             "@type": "Organization",
             "name": "MetalForge Editorial"
@@ -1622,7 +1622,7 @@ export const articles = {
     },
     "conclusion": {
       "title": "A Wider Range, the Same Trusted Gear",
-      "content": "*Technical Ecstasy* asked Bill Ward to stretch further than any Sabbath album before it — not just as a drummer moving between funk-inflected grooves and driving rock, but as a vocalist stepping up to sing lead for the first time on \"It's Alright.\" He met that range on the same Ludwig kit and Paiste 2002 cymbals that had carried *Sabotage* a year earlier, proof that the gear was never the limiting factor in what he could do.\n\n**For Drummers Studying *Technical Ecstasy*:** \"Dirty Women\" is the essential study — a slow-building arrangement that rewards patience before its driving final section. \"All Moving Parts (Stand Still)\" shows Ward applying his jazz-rooted vocabulary to genuinely funky territory. And \"It's Alright\" is a reminder that even a drummer this accomplished can put the sticks down entirely when the song calls for it.\n\nFor the rest of Ward's gear evolution through Black Sabbath's catalog, see the [Sabotage drum setup](/articles/sabotage-drum-setup), recorded the year before, and the [Never Say Die! drum setup](/articles/never-say-die-drum-setup), his final studio album with the band's original lineup. The full picture of his career is on the [Bill Ward drummer profile](/drummer/bill-ward).\n\n🥁 *The album where Bill Ward proved there was more to him than the drum stool — and his Ludwig kit still anchored every track he played on.* 🥁"
+      "content": "*Technical Ecstasy* asked Bill Ward to stretch further than any Sabbath album before it — not just as a drummer moving between funk-inflected grooves and driving rock, but as a vocalist stepping up to sing lead for the first time on \"It's Alright.\" He met that range on the same Ludwig kit and Zildjian cymbals that had carried *Sabotage* a year earlier, proof that the gear was never the limiting factor in what he could do.\n\n**For Drummers Studying *Technical Ecstasy*:** \"Dirty Women\" is the essential study — a slow-building arrangement that rewards patience before its driving final section. \"All Moving Parts (Stand Still)\" shows Ward applying his jazz-rooted vocabulary to genuinely funky territory. And \"It's Alright\" is a reminder that even a drummer this accomplished can put the sticks down entirely when the song calls for it.\n\nFor the rest of Ward's gear evolution through Black Sabbath's catalog, see the [Sabotage drum setup](/articles/sabotage-drum-setup), recorded the year before, and the [Never Say Die! drum setup](/articles/never-say-die-drum-setup), his final studio album with the band's original lineup. The full picture of his career is on the [Bill Ward drummer profile](/drummer/bill-ward).\n\n🥁 *The album where Bill Ward proved there was more to him than the drum stool — and his Ludwig kit still anchored every track he played on.* 🥁"
     }
   },
   "never-say-die-drum-setup": {
@@ -1642,7 +1642,7 @@ export const articles = {
     "dateModified": "2026-07-02",
     "author": "MetalForge Editorial",
     "title": "Bill Ward's Drum Setup on Black Sabbath's 'Never Say Die!' (1978)",
-    "description": "Bill Ward's drum setup for Never Say Die! (1978) — the Ludwig kit and Paiste 2002 cymbals on Ward's final studio album with Black Sabbath's original Ozzy-era lineup before Vinnie Appice took over for Heaven and Hell.",
+    "description": "Bill Ward's drum setup for Never Say Die! (1978) — the Ludwig kit and Zildjian cymbals on Ward's final studio album with Black Sabbath's original Ozzy-era lineup before Vinnie Appice took over for Heaven and Hell.",
     "seoKeywords": [
       "never say die drums",
       "bill ward 1978 drum kit",
@@ -1653,7 +1653,7 @@ export const articles = {
     "ogImage": "/images/albums/never-say-die-drums.webp",
     "intro": {
       "title": "A Difficult Toronto Winter and the End of an Era",
-      "content": "Black Sabbath began work on *Never Say Die!* in the winter of 1977–78 at Sounds Interchange Studios in Toronto, Canada — sessions remembered as some of the most difficult of the band's career, hampered by freezing weather, a demanding rehearsal schedule at a converted hockey arena, and mounting personal and creative tensions within the band. The record was finished and mixed at the more familiar surroundings of Criteria Studios in Miami, where the band had recorded *Technical Ecstasy* two years earlier.\n\n*Never Say Die!*, released in September 1978, would be Bill Ward's last studio album with Black Sabbath's original lineup. He continued to tour behind the record, but left the band in 1980 before recording began on *Heaven and Hell*, replaced by Vinnie Appice — closing out a decade-long run that began with the band's self-titled 1970 debut. Fittingly, the album gave Ward a second turn at the microphone, singing lead vocals on the jazz-inflected closer \"Swinging the Chain,\" echoing the vocal spotlight he'd had on *Technical Ecstasy*'s \"It's Alright.\"\n\nThis article covers the Ludwig kit and Paiste 2002 cymbal setup Ward used across his final album with the classic Ozzy-era lineup — gear that stayed remarkably consistent even as the band's sound stretched toward jazz-rock textures and, on \"Breakout,\" a horn section.",
+      "content": "Black Sabbath began work on *Never Say Die!* in the winter of 1977–78 at Sounds Interchange Studios in Toronto, Canada — sessions remembered as some of the most difficult of the band's career, hampered by freezing weather, a demanding rehearsal schedule at a converted hockey arena, and mounting personal and creative tensions within the band. The record was finished and mixed at the more familiar surroundings of Criteria Studios in Miami, where the band had recorded *Technical Ecstasy* two years earlier.\n\n*Never Say Die!*, released in September 1978, would be Bill Ward's last studio album with Black Sabbath's original lineup. He continued to tour behind the record, but left the band in 1980 before recording began on *Heaven and Hell*, replaced by Vinnie Appice — closing out a decade-long run that began with the band's self-titled 1970 debut. Fittingly, the album gave Ward a second turn at the microphone, singing lead vocals on the jazz-inflected closer \"Swinging the Chain,\" echoing the vocal spotlight he'd had on *Technical Ecstasy*'s \"It's Alright.\"\n\nThis article covers the Ludwig kit and Zildjian cymbal setup Ward used across his final album with the classic Ozzy-era lineup — gear that stayed remarkably consistent even as the band's sound stretched toward jazz-rock textures and, on \"Breakout,\" a horn section.",
       "keyPoints": [
         "Recording began at Sounds Interchange Studios in Toronto during a famously difficult winter, finishing at Criteria Studios in Miami",
         "Bill Ward's last studio album with Black Sabbath's original lineup before Vinnie Appice replaced him for Heaven and Hell (1980)",
@@ -1700,42 +1700,42 @@ export const articles = {
       "estimatedValue": "$75–120 (1978) / $200–450 (vintage today)"
     },
     "cymbals": {
-      "title": "Paiste 2002: Ward's Cymbal Voice Through the End of the Original Run",
-      "brand": "Paiste",
-      "series": "Paiste 2002",
+      "title": "Avedis Zildjian: Ward's Cymbal Voice Through the End of the Original Run",
+      "brand": "Zildjian",
+      "series": "Avedis Zildjian",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Paiste 2002 15\" Sound Edge Hi-Hats",
+          "model": "Avedis Zildjian 15\" Hi-Hats",
           "position": "Left side",
           "notes": "Same pair carried over from Technical Ecstasy and Sabotage"
         },
         {
           "type": "Crash",
-          "model": "Paiste 2002 18\" Crash",
+          "model": "Avedis Zildjian 18\" Crash",
           "position": "Above rack toms",
           "notes": "Tighter accents on the title track and Johnny Blade"
         },
         {
           "type": "Crash",
-          "model": "Paiste 2002 20\" Crash",
+          "model": "Avedis Zildjian 20\" Crash",
           "position": "Right of rack toms",
           "notes": "Bigger wash for Shock Wave's heavier dynamic swings"
         },
         {
           "type": "Ride",
-          "model": "Paiste 2002 24\" Ride",
+          "model": "Avedis Zildjian 24\" Ride",
           "position": "Far right",
           "notes": "Carries the flowing, fusion-adjacent groove of Air Dance"
         },
         {
           "type": "China",
-          "model": "Paiste 2002 18\" China",
+          "model": "Avedis Zildjian 18\" China",
           "position": "Near floor tom",
           "notes": "Used for textured accents on Breakout's horn-driven arrangement"
         }
       ],
-      "description": "Ward closed out his original run with Black Sabbath on the same Paiste 2002 setup he'd used since *Sabotage* — 15\" hi-hats, 18\" and 20\" crashes, a 24\" ride, and an 18\" China. On *Never Say Die!*'s more jazz-inflected material, especially \"Air Dance\" and the horn-led \"Breakout,\" that cymbal voice gave him the textural range to move beyond straightforward rock timekeeping.\n\nThe 24\" ride's wash suits \"Air Dance\"'s flowing, almost fusion-adjacent feel, while the China adds an exotic color to \"Breakout\"'s arrangement alongside the track's horn section — a first for a Black Sabbath recording. Crash use on the more conventional tracks, like the title cut and \"Johnny Blade,\" stays consistent with the restrained, purposeful approach Ward had carried since switching to Paiste three years earlier.",
+      "description": "Ward closed out his original run with Black Sabbath on the same Zildjian setup he'd used since *Sabotage* — 15\" hi-hats, 18\" and 20\" crashes, a 24\" ride, and an 18\" China. On *Never Say Die!*'s more jazz-inflected material, especially \"Air Dance\" and the horn-led \"Breakout,\" that cymbal voice gave him the textural range to move beyond straightforward rock timekeeping.\n\nThe 24\" ride's wash suits \"Air Dance\"'s flowing, almost fusion-adjacent feel, while the China adds an exotic color to \"Breakout\"'s arrangement alongside the track's horn section — a first for a Black Sabbath recording. Crash use on the more conventional tracks, like the title cut and \"Johnny Blade,\" stays consistent with the restrained, purposeful approach Ward had carried since first expanding his Zildjian setup three years earlier.",
       "estimatedValue": "$500–850 total (1978) / $2,800–5,500 (vintage today)"
     },
     "hardware": {
@@ -1783,7 +1783,7 @@ export const articles = {
           "Released as a single ahead of the album",
           "Ward's kick and snare lock tightly to the track's galloping riff"
         ],
-        "gearNotes": "The same Paiste 2002 hi-hats and crashes used since Sabotage carry the track's driving energy."
+        "gearNotes": "The same Zildjian hi-hats and crashes used since Sabotage carry the track's driving energy."
       },
       {
         "track": "Johnny Blade",
@@ -1794,7 +1794,7 @@ export const articles = {
           "Ward navigates several distinct sections and tempo changes within a single song",
           "Reflects the more progressive songwriting the band had explored since Sabbath Bloody Sabbath"
         ],
-        "gearNotes": "The 24\" Paiste ride carries the track's slower, more textured passages before the tempo picks back up."
+        "gearNotes": "The 24\" Zildjian ride carries the track's slower, more textured passages before the tempo picks back up."
       },
       {
         "track": "Air Dance",
@@ -1805,7 +1805,7 @@ export const articles = {
           "One of the clearest showcases of Ward's jazz roots surfacing directly in a Sabbath recording",
           "Shows a level of textural restraint uncommon on the band's earlier, riff-driven albums"
         ],
-        "gearNotes": "The Paiste 2002 ride's wash suits the track's fusion-leaning feel far better than a drier, more traditional cymbal voice would."
+        "gearNotes": "The Zildjian ride's wash suits the track's fusion-leaning feel far better than a drier, more traditional cymbal voice would."
       },
       {
         "track": "Breakout",
@@ -1816,13 +1816,13 @@ export const articles = {
           "Ward's playing stays textural and supportive, similar to his approach on Sabotage's \"Supertzar\"",
           "The clearest sign of how far the band was willing to stretch by the end of the original lineup's run"
         ],
-        "gearNotes": "The Paiste 18\" China adds an exotic accent color alongside the track's horn arrangement."
+        "gearNotes": "The Zildjian 18\" China adds an exotic accent color alongside the track's horn arrangement."
       }
     ],
     "faq": [
       {
         "question": "What drums did Bill Ward use on Never Say Die!?",
-        "answer": "Bill Ward recorded *Never Say Die!* (1978) on the same Ludwig Standard Maple kit he'd used on *Technical Ecstasy* and *Sabotage* — a 22\" bass drum, two rack toms, and a 16\" floor tom in natural maple, paired with his Ludwig Supraphonic snare and Paiste 2002 cymbals. The gear stayed consistent across all three albums. For the full arc of Ward's gear through Black Sabbath's catalog, see the [Bill Ward drummer profile](/drummer/bill-ward)."
+        "answer": "Bill Ward recorded *Never Say Die!* (1978) on the same Ludwig Standard Maple kit he'd used on *Technical Ecstasy* and *Sabotage* — a 22\" bass drum, two rack toms, and a 16\" floor tom in natural maple, paired with his Ludwig Supraphonic snare and Zildjian cymbals. The gear stayed consistent across all three albums. For the full arc of Ward's gear through Black Sabbath's catalog, see the [Bill Ward drummer profile](/drummer/bill-ward)."
       },
       {
         "question": "What was Bill Ward's last studio album with Black Sabbath before he left?",
@@ -1839,7 +1839,7 @@ export const articles = {
     ],
     "evolution": {
       "title": "The End of an Era: Same Gear, Final Album",
-      "content": "Bill Ward's gear stayed remarkably consistent through the final stretch of his original run with Black Sabbath — the same Ludwig Standard Maple kit, Supraphonic snare, and Paiste 2002 cymbals carried unchanged from *Sabotage* (1975) through *Technical Ecstasy* (1976) and into *Never Say Die!* (1978). What changed was the material, stretching from the proto-thrash of \"Symptom of the Universe\" to the horn-backed jazz-rock of \"Breakout\" over just three years.\n\nWard's departure in 1980, ahead of *Heaven and Hell*, closed out a run that began with the same jazz-informed vocabulary he brought to the band's 1970 debut. Vinnie Appice's arrival marked Black Sabbath's first drummer change in over a decade — a clean break that makes *Never Say Die!* the definitive endpoint of Ward's classic-era gear evolution.",
+      "content": "Bill Ward's gear stayed remarkably consistent through the final stretch of his original run with Black Sabbath — the same Ludwig Standard Maple kit, Supraphonic snare, and Zildjian cymbals carried unchanged from *Sabotage* (1975) through *Technical Ecstasy* (1976) and into *Never Say Die!* (1978). What changed was the material, stretching from the proto-thrash of \"Symptom of the Universe\" to the horn-backed jazz-rock of \"Breakout\" over just three years.\n\nWard's departure in 1980, ahead of *Heaven and Hell*, closed out a run that began with the same jazz-informed vocabulary he brought to the band's 1970 debut. Vinnie Appice's arrival marked Black Sabbath's first drummer change in over a decade — a clean break that makes *Never Say Die!* the definitive endpoint of Ward's classic-era gear evolution.",
       "thenVsNow": [
         {
           "category": "Kit",
@@ -1853,8 +1853,8 @@ export const articles = {
         },
         {
           "category": "Cymbals",
-          "then": "Paiste 2002 Series, including an 18\" China",
-          "now": "Paiste 2002 Series still in production, largely unchanged"
+          "then": "Avedis Zildjian, including an 18\" China",
+          "now": "Zildjian A Series (closest modern equivalent)"
         }
       ]
     },
@@ -1907,7 +1907,7 @@ export const articles = {
         {
           "@type": "Article",
           "headline": "Bill Ward's Drum Setup on Black Sabbath's 'Never Say Die!' (1978)",
-          "description": "Bill Ward's drum setup for Never Say Die! (1978) — the Ludwig kit and Paiste 2002 cymbals on Ward's final studio album with Black Sabbath's original Ozzy-era lineup before Vinnie Appice took over for Heaven and Hell.",
+          "description": "Bill Ward's drum setup for Never Say Die! (1978) — the Ludwig kit and Zildjian cymbals on Ward's final studio album with Black Sabbath's original Ozzy-era lineup before Vinnie Appice took over for Heaven and Hell.",
           "author": {
             "@type": "Organization",
             "name": "MetalForge Editorial"
@@ -1953,7 +1953,7 @@ export const articles = {
     },
     "conclusion": {
       "title": "A Quiet, Consistent Close to an Era-Defining Run",
-      "content": "*Never Say Die!* is where Bill Ward's original run with Black Sabbath came to an end — not with a dramatic gear change, but with the same trusted Ludwig kit and Paiste cymbals he'd played for years, applied to some of the most exploratory material the band's classic lineup ever recorded. From the horn-backed \"Breakout\" to his own lead vocal on \"Swinging the Chain,\" the album shows a drummer still willing to stretch, right up to his last session with the band.\n\n**For Drummers Studying *Never Say Die!*:** \"Air Dance\" is the essential study in restraint, showing how Ward's jazz roots surfaced directly in a Sabbath recording. \"Breakout\" teaches how to support a horn arrangement without over-playing. And the title track is a reminder that even at the end of a difficult chapter, Ward could still deliver a driving, arena-ready groove.\n\nFor the rest of Ward's gear evolution through Black Sabbath's catalog, see the [Technical Ecstasy drum setup](/articles/technical-ecstasy-drum-setup), recorded two years earlier, and the [Sabotage drum setup](/articles/sabotage-drum-setup). The full picture of his career is on the [Bill Ward drummer profile](/drummer/bill-ward).\n\n🥁 *The final album of Bill Ward's original run with Black Sabbath — same Ludwig kit, same Paiste cymbals, right through to the last note.* 🥁"
+      "content": "*Never Say Die!* is where Bill Ward's original run with Black Sabbath came to an end — not with a dramatic gear change, but with the same trusted Ludwig kit and Zildjian cymbals he'd played for years, applied to some of the most exploratory material the band's classic lineup ever recorded. From the horn-backed \"Breakout\" to his own lead vocal on \"Swinging the Chain,\" the album shows a drummer still willing to stretch, right up to his last session with the band.\n\n**For Drummers Studying *Never Say Die!*:** \"Air Dance\" is the essential study in restraint, showing how Ward's jazz roots surfaced directly in a Sabbath recording. \"Breakout\" teaches how to support a horn arrangement without over-playing. And the title track is a reminder that even at the end of a difficult chapter, Ward could still deliver a driving, arena-ready groove.\n\nFor the rest of Ward's gear evolution through Black Sabbath's catalog, see the [Technical Ecstasy drum setup](/articles/technical-ecstasy-drum-setup), recorded two years earlier, and the [Sabotage drum setup](/articles/sabotage-drum-setup). The full picture of his career is on the [Bill Ward drummer profile](/drummer/bill-ward).\n\n🥁 *The final album of Bill Ward's original run with Black Sabbath — same Ludwig kit, same Zildjian cymbals, right through to the last note.* 🥁"
     }
   },
   "whats-in-bill-wards-kit": {
@@ -2039,43 +2039,43 @@ export const articles = {
       "estimatedValue": "$300-400 (1970s) / $500-800 (vintage today)"
     },
     "cymbals": {
-      "title": "The Paiste Giants",
-      "brand": "Paiste",
-      "series": "Giant Beat / 2002",
+      "title": "Two Cymbal Voices: Super Zyn, Then Zildjian",
+      "brand": "Zildjian",
+      "series": "Avedis Zildjian",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Paiste 2002 15\" Sound Edge Hi-Hats",
+          "model": "Avedis Zildjian 14\"-15\" Hi-Hats",
           "position": "Left side",
-          "notes": "Larger hi-hats for fuller sound"
+          "notes": "Grew from 14\" to 15\" as the setup expanded through the mid-1970s"
         },
         {
           "type": "Crash",
-          "model": "Paiste Giant Beat 18\" Crash",
+          "model": "Avedis Zildjian 18\" Crash",
           "position": "Left of hi-hats",
-          "notes": "Dark, washy vintage crash"
+          "notes": "Used for accents rather than every downbeat"
         },
         {
           "type": "Crash",
-          "model": "Paiste Giant Beat 20\" Crash/Ride",
+          "model": "Avedis Zildjian 20\" Crash",
           "position": "Center-right",
-          "notes": "Versatile multi-purpose cymbal"
+          "notes": "Added as the setup expanded on Sabotage"
         },
         {
           "type": "Ride",
-          "model": "Paiste 2002 22\" Ride",
+          "model": "Avedis Zildjian 20\"-24\" Ride",
           "position": "Far right",
-          "notes": "Large ride for maximum wash"
+          "notes": "Grew larger through the mid-1970s for more wash"
         },
         {
-          "type": "Crash",
-          "model": "Paiste Giant Beat 24\" Crash/Ride",
+          "type": "China",
+          "model": "Avedis Zildjian 18\" China",
           "position": "High right",
-          "notes": "Massive cymbal for huge accents"
+          "notes": "Added on Sabotage (1975) for textured accents"
         }
       ],
-      "description": "Bill Ward's cymbal choices were as unconventional as his drumming. While many rock drummers of the era used standard 14\" hi-hats and 18\" crashes, Bill went large. Really large. His cymbal setup featured some of the biggest cymbals in rock music.\n\nThe Paiste Giant Beat series was Bill's primary choice for crashes. These cymbals, originally designed for jazz big bands, featured darker, washier tones than typical rock cymbals. Sizes ranged from 18\" to a massive 24\" — the latter producing enormous swells of sound that complemented Sabbath's dense guitar tones.\n\nFor hi-hats, Bill favored 15\" Sound Edge models, larger than standard. The extra inch provided a fuller, darker \"chick\" sound and more wash when opened. This suited his jazz-influenced hi-hat work, which featured more nuanced opening and closing than typical rock playing.\n\nThe 22\" and 24\" ride cymbals were essentially crashes that Bill could ride on. In Sabbath's heavy passages, he'd lay into these large cymbals, creating sheets of wash that filled the sonic spectrum. This technique — now standard in doom and stoner metal — started with Bill's instinctive approach to the kit.\n\nPaiste's 2002 series eventually became Bill's main line, particularly the heavier rides. The 2002 cymbals offered more cut and definition than the washy Giant Beats while maintaining that dark, musical Paiste character.\n\nThe key insight: Bill's large cymbals weren't about volume. They were about sustain and wash. Metal drummers used to crash-and-choke fast cymbals; Bill let his cymbals bloom and decay naturally, adding atmosphere to Sabbath's crushing riffs.",
-      "estimatedValue": "$800-1,500 total (1970s) / $2,000-4,000 (vintage Giant Beats today)"
+      "description": "Bill Ward's cymbals fell into two distinct eras. From the band's 1968 formation through *Paranoid* (1970), he played Super Zyn — his first cymbal setup. Starting with *Master of Reality* (1971), he switched to Avedis Zildjian, a setup he kept for the rest of Black Sabbath's original run through *Never Say Die!* (1978), expanding it along the way with bigger hi-hats and ride and, on *Sabotage* (1975), a China cymbal.\n\nWard's hi-hat work carried a jazz drummer's vocabulary throughout both eras — nuanced variations in pressure and opening degree rather than simple rock open-close patterns. His crash usage was restrained and purposeful, reserved for moments of real musical emphasis rather than marking every section change. In Sabbath's heavier passages, Ward would ride his cymbals harder, creating sheets of wash that filled the sonic spectrum — a technique now standard in doom and stoner metal.\n\nThe key insight: Ward's cymbal choices weren't about volume. They were about sustain and wash. Metal drummers used to crash-and-choke fast cymbals; Bill let his cymbals bloom and decay naturally, adding atmosphere to Sabbath's crushing riffs.",
+      "estimatedValue": "$300-800 total per era (1970s) / vintage Super Zyn cymbals are scarce collector pieces; vintage Zildjian from this era runs $2,000-4,000 today"
     },
     "hardware": {
       "title": "Simple & Solid Hardware",
@@ -2138,7 +2138,7 @@ export const articles = {
         "gear": {
           "drums": "Ludwig Standard Maple / Slingerland",
           "snare": "Ludwig Supraphonic",
-          "cymbals": "Paiste Giant Beat",
+          "cymbals": "Super Zyn (1968-1971), switching to Avedis Zildjian on Master of Reality (1971)",
           "hardware": "Ludwig Speed King pedal"
         },
         "notes": "Simple setups, massive sound. The drums on these albums defined heavy metal."
@@ -2155,7 +2155,7 @@ export const articles = {
         "gear": {
           "drums": "Ludwig Vistalite Clear",
           "snare": "Ludwig Supraphonic LM402",
-          "cymbals": "Paiste 2002 series",
+          "cymbals": "Avedis Zildjian",
           "hardware": "Ludwig Atlas"
         },
         "notes": "Vistalite era — iconic clear shells for the stadium years."
@@ -2171,7 +2171,7 @@ export const articles = {
         "gear": {
           "drums": "Various Ludwig configurations",
           "snare": "Ludwig Supraphonic",
-          "cymbals": "Paiste 2002",
+          "cymbals": "Avedis Zildjian",
           "hardware": "Ludwig"
         },
         "notes": "Difficult period for the band, but drumming remained solid."
@@ -2194,7 +2194,7 @@ export const articles = {
     ],
     "buyingGuide": {
       "title": "Getting the Bill Ward Sound Today",
-      "content": "Want to sound like the godfather of metal drumming? Here's how to get there — from budget to blowout.\n\n**The Snare — Start Here:**\nThe Ludwig Supraphonic is still in production and relatively affordable. A new LM402 runs $600-800 and will get you 90% of that classic Ward crack. Vintage 1970s models cost more ($500-1000 depending on condition) but aren't necessarily better — Ludwig's modern Supraphonics are excellent.\n\n**The Drums:**\nLudwig's current Classic Maple and Legacy Maple series capture the vibe of Bill's 1970s kits. A 24\"/13\"/16\" configuration in natural maple finish is period-correct and will nail the look and sound. Budget around $2,000-3,500 for a quality maple kit.\n\nFor the full vintage experience, hunt for used Ludwig Standards or Slingerlands from the 1970s. Prices vary wildly ($1,000-4,000) but you'll own actual heavy metal history.\n\n**The Cymbals:**\nPaiste Giant Beats are back in production and sound incredible. The modern reissue captures the dark, washy character Bill loved. A 20\" and 24\" pair runs about $800-1,000. Add 15\" hi-hats for another $400.\n\nAlternative: Meinl Byzance Vintage series offers similar dark, complex tones at competitive prices.\n\n**The Mindset:**\nHere's the thing about Bill Ward's sound: most of it comes from the hands, not the gear. Practice playing with dynamics. Learn to swing a little, even on straight rock beats. Listen to jazz drummers. Play less, groove more.\n\nThe modern drummer who sounds most like Bill Ward? Probably Matt Cameron (Soundgarden, Pearl Jam) or Dale Crover (Melvins). Both play heavy music with jazz-influenced dynamics and feel. Study them alongside Bill.",
+      "content": "Want to sound like the godfather of metal drumming? Here's how to get there — from budget to blowout.\n\n**The Snare — Start Here:**\nThe Ludwig Supraphonic is still in production and relatively affordable. A new LM402 runs $600-800 and will get you 90% of that classic Ward crack. Vintage 1970s models cost more ($500-1000 depending on condition) but aren't necessarily better — Ludwig's modern Supraphonics are excellent.\n\n**The Drums:**\nLudwig's current Classic Maple and Legacy Maple series capture the vibe of Bill's 1970s kits. A 24\"/13\"/16\" configuration in natural maple finish is period-correct and will nail the look and sound. Budget around $2,000-3,500 for a quality maple kit.\n\nFor the full vintage experience, hunt for used Ludwig Standards or Slingerlands from the 1970s. Prices vary wildly ($1,000-4,000) but you'll own actual heavy metal history.\n\n**The Cymbals:**\nBill's own cymbals — Super Zyn on the earliest albums, then Avedis Zildjian from *Master of Reality* onward — are long out of production or hard to source new. A set of Zildjian A series cymbals gets close to the sound he carried through most of his Sabbath tenure: a 20\" ride and matching crashes run about $600-900, plus $250-400 for 14\"-15\" hi-hats.\n\nAlternative: Meinl Byzance Vintage series offers similarly dark, complex tones at competitive prices.\n\n**The Mindset:**\nHere's the thing about Bill Ward's sound: most of it comes from the hands, not the gear. Practice playing with dynamics. Learn to swing a little, even on straight rock beats. Listen to jazz drummers. Play less, groove more.\n\nThe modern drummer who sounds most like Bill Ward? Probably Matt Cameron (Soundgarden, Pearl Jam) or Dale Crover (Melvins). Both play heavy music with jazz-influenced dynamics and feel. Study them alongside Bill.",
       "budgetOptions": [
         {
           "item": "Ludwig Supraphonic LM402 (new)",
@@ -2207,9 +2207,9 @@ export const articles = {
           "notes": "Modern equivalent of Bill's shells"
         },
         {
-          "item": "Paiste Giant Beat Pack",
-          "price": "$1,200-1,500",
-          "notes": "Reissue of Bill's preferred crashes"
+          "item": "Zildjian A Series Cymbal Pack",
+          "price": "$800-1,100",
+          "notes": "Modern equivalent of Bill's post-1971 cymbal voice"
         }
       ],
       "proOptions": [
@@ -2224,9 +2224,9 @@ export const articles = {
           "notes": "Iconic clear shells"
         },
         {
-          "item": "Vintage Paiste Giant Beat cymbals",
+          "item": "Vintage Avedis Zildjian cymbals (1970s)",
           "price": "$200-600 each",
-          "notes": "Original 1970s washiness"
+          "notes": "Era-correct voice for Master of Reality onward"
         }
       ]
     },
@@ -2292,7 +2292,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "The Man Who Started It All",
-      "content": "Every blast beat. Every double bass run. Every thrash groove and doom drone and death metal fill — all of it traces back to Bill Ward sitting in a Birmingham rehearsal space in 1968, bringing jazz chops to the heaviest music the world had ever heard.\n\nBlack Sabbath didn't just influence metal. They CREATED metal. And Bill Ward's drumming was essential to that creation. Without his swing, the riffs would have been stiff. Without his dynamics, the songs would have been monotonous. Without his jazz drummer's ear for space and groove, heavy metal might have been a footnote instead of a global phenomenon.\n\nThe gear Bill used was professional but not exotic: Ludwig drums, Supraphonic snare, Paiste cymbals. Nothing that thousands of other drummers weren't playing. The difference was in the hands — in the mind — in the musical understanding that came from absorbing Gene Krupa and Buddy Rich before ever playing a heavy riff.\n\nModern drummers can buy replicas of Bill's setup, but they can't buy his feel. That comes from practice, from listening deeply, from understanding that metal isn't about speed or complexity — it's about groove and power and the spaces between the notes.\n\nBill Ward may never play another show. The \"13\" album and The End tour happened without him. But every time someone plays \"Iron Man\" at a guitar store, every time a kid discovers \"Paranoid\" on Spotify, every time a metal drummer swings a groove instead of playing it straight — Bill Ward's influence continues.\n\nHe didn't just invent heavy metal drumming. He proved that jazz and metal were never as far apart as people thought.\n\n🤘 *The Godfather of Metal. Forever.* 🤘"
+      "content": "Every blast beat. Every double bass run. Every thrash groove and doom drone and death metal fill — all of it traces back to Bill Ward sitting in a Birmingham rehearsal space in 1968, bringing jazz chops to the heaviest music the world had ever heard.\n\nBlack Sabbath didn't just influence metal. They CREATED metal. And Bill Ward's drumming was essential to that creation. Without his swing, the riffs would have been stiff. Without his dynamics, the songs would have been monotonous. Without his jazz drummer's ear for space and groove, heavy metal might have been a footnote instead of a global phenomenon.\n\nThe gear Bill used was professional but not exotic: Ludwig drums, Supraphonic snare, Super Zyn and then Zildjian cymbals. Nothing that thousands of other drummers weren't playing. The difference was in the hands — in the mind — in the musical understanding that came from absorbing Gene Krupa and Buddy Rich before ever playing a heavy riff.\n\nModern drummers can buy replicas of Bill's setup, but they can't buy his feel. That comes from practice, from listening deeply, from understanding that metal isn't about speed or complexity — it's about groove and power and the spaces between the notes.\n\nBill Ward may never play another show. The \"13\" album and The End tour happened without him. But every time someone plays \"Iron Man\" at a guitar store, every time a kid discovers \"Paranoid\" on Spotify, every time a metal drummer swings a groove instead of playing it straight — Bill Ward's influence continues.\n\nHe didn't just invent heavy metal drumming. He proved that jazz and metal were never as far apart as people thought.\n\n🤘 *The Godfather of Metal. Forever.* 🤘"
     }
   },
   "black-sabbath-drum-setup": {
@@ -2312,7 +2312,7 @@ export const articles = {
     "dateModified": "2026-06-24",
     "author": "MetalForge Editorial",
     "title": "Black Sabbath Debut Drum Setup: Bill Ward's Kit on the Album That Invented Metal (1970)",
-    "description": "Discover the exact drum kit, cymbals, and gear Bill Ward used to record Black Sabbath's debut album (1970) — the foundational metal recording made in just 12 hours at Regent Sound Studios. Ludwig Super Classic, Paiste Giant Beat cymbals, and the jazz-influenced playing that launched a genre.",
+    "description": "Discover the exact drum kit, cymbals, and gear Bill Ward used to record Black Sabbath's debut album (1970) — the foundational metal recording made in just 12 hours at Regent Sound Studios. Ludwig Super Classic, Super Zyn cymbals, and the jazz-influenced playing that launched a genre.",
     "seoKeywords": [
       "bill ward drum kit 1970",
       "black sabbath debut drums",
@@ -2320,7 +2320,7 @@ export const articles = {
       "bill ward black sabbath 1970",
       "black sabbath recording gear",
       "regent sound studios drums",
-      "paiste giant beat bill ward",
+      "super zyn bill ward cymbals",
       "ludwig super classic 1970",
       "black sabbath drum setup",
       "first metal album drums"
@@ -2328,12 +2328,12 @@ export const articles = {
     "ogImage": "/images/albums/black-sabbath-debut-drums.webp",
     "intro": {
       "title": "The 12-Hour Session That Launched Heavy Metal",
-      "content": "On October 16, 1969, four young musicians from Birmingham drove to Regent Sound Studios in London's Denmark Street with their instruments, set up in the live room, and recorded an entire album in approximately 12 hours. The budget was £500. The tape was two-track. The producer, Rodger Bain, had minimal studio time booked and no expectation that the session would produce anything more than a demo.\n\nWhat emerged from those 12 hours was *Black Sabbath* — released on February 13, 1970 on Vertigo Records, the album that invented heavy metal. The opening title track, with its tritone riff and thunderstorm intro, gave the genre its name, its atmosphere, and its philosophical DNA. \"N.I.B.,\" \"The Wizard,\" \"Warning,\" and \"Evil Woman\" followed — each a document of a band finding the sound that would define an entire musical lineage.\n\nAt the center of that sound was Bill Ward. Twenty-one years old, jazz-obsessed, and self-taught, Ward brought a drummer's vocabulary drawn from Tony Williams and Ginger Baker to music that had no rulebook. There was no template for how to drum behind Tony Iommi's tritone riffs. Ward invented one in real time, across 12 uninterrupted hours, without a click track and without the option of going back.\n\nThe kit he used was a Ludwig Super Classic — compact, professional, the standard for British rock musicians of the late 1960s. His cymbals were Paiste Giant Beat, his first endorsement relationship, the dark and washy bronze series that suited his jazz-rooted touch. The combination produced a drum sound unlike anything recorded before it: heavy but swinging, powerful but musical, simultaneously primitive and sophisticated.\n\nThis article breaks down exactly what Bill Ward played on the debut album, how those 12 hours at Regent Sound shaped the performance, and what the recording reveals about the jazz-to-metal translation that makes Black Sabbath's debut an inexhaustible study for drummers.",
+      "content": "On October 16, 1969, four young musicians from Birmingham drove to Regent Sound Studios in London's Denmark Street with their instruments, set up in the live room, and recorded an entire album in approximately 12 hours. The budget was £500. The tape was two-track. The producer, Rodger Bain, had minimal studio time booked and no expectation that the session would produce anything more than a demo.\n\nWhat emerged from those 12 hours was *Black Sabbath* — released on February 13, 1970 on Vertigo Records, the album that invented heavy metal. The opening title track, with its tritone riff and thunderstorm intro, gave the genre its name, its atmosphere, and its philosophical DNA. \"N.I.B.,\" \"The Wizard,\" \"Warning,\" and \"Evil Woman\" followed — each a document of a band finding the sound that would define an entire musical lineage.\n\nAt the center of that sound was Bill Ward. Twenty-one years old, jazz-obsessed, and self-taught, Ward brought a drummer's vocabulary drawn from Tony Williams and Ginger Baker to music that had no rulebook. There was no template for how to drum behind Tony Iommi's tritone riffs. Ward invented one in real time, across 12 uninterrupted hours, without a click track and without the option of going back.\n\nThe kit he used was a Ludwig Super Classic — compact, professional, the standard for British rock musicians of the late 1960s. His cymbals were Super Zyn, his first cymbal setup, before he moved to Avedis Zildjian starting with *Master of Reality* (1971). The combination produced a drum sound unlike anything recorded before it: heavy but swinging, powerful but musical, simultaneously primitive and sophisticated.\n\nThis article breaks down exactly what Bill Ward played on the debut album, how those 12 hours at Regent Sound shaped the performance, and what the recording reveals about the jazz-to-metal translation that makes Black Sabbath's debut an inexhaustible study for drummers.",
       "keyPoints": [
         "Recorded in approximately 12 hours at Regent Sound Studios, London, October 1969",
         "Released February 13, 1970 on Vertigo Records — the first metal album",
         "Ludwig Super Classic kit — smaller configuration than Ward's later touring setup",
-        "Paiste Giant Beat cymbals — Ward's first endorsement relationship",
+        "Super Zyn cymbals — Ward's first cymbal setup",
         "Bill Ward's jazz influences (Tony Williams, Ginger Baker) are most audible on this recording",
         "No click track, no overdubs — a live band performance captured directly to tape"
       ]
@@ -2378,37 +2378,37 @@ export const articles = {
       "estimatedValue": "$80–120 (1969) / $200–400 (vintage today)"
     },
     "cymbals": {
-      "title": "Paiste Giant Beat: Ward's First Endorsement and the Dark Voice of the Debut",
-      "brand": "Paiste",
-      "series": "Giant Beat",
+      "title": "Super Zyn: Ward's First Cymbal Setup",
+      "brand": "Super Zyn",
+      "series": "Super Zyn",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Paiste Giant Beat 15\" Hi-Hats",
+          "model": "Super Zyn 15\" Hi-Hats",
           "position": "Left side",
-          "notes": "Larger-than-standard hi-hats — darker chick, more wash for swung jazz patterns"
+          "notes": "Ward's primary rhythmic tool on the debut"
         },
         {
           "type": "Crash",
-          "model": "Paiste Giant Beat 18\" Crash",
+          "model": "Super Zyn 18\" Crash",
           "position": "Above left rack tom",
-          "notes": "Dark, complex crash with long decay — not the bright attack of later metal crashes"
+          "notes": "Used for accents rather than the bright, fast-cutting attack later metal crashes favor"
         },
         {
           "type": "Crash/Ride",
-          "model": "Paiste Giant Beat 20\" Crash/Ride",
+          "model": "Super Zyn 20\" Crash/Ride",
           "position": "Center-right",
           "notes": "Versatile multi-purpose cymbal, used for riding and accent crashes"
         },
         {
           "type": "Ride",
-          "model": "Paiste Giant Beat 22\" Ride",
+          "model": "Super Zyn 22\" Ride",
           "position": "Far right",
-          "notes": "Primary ride — the largest Paiste size in regular use, providing maximum wash and sustain"
+          "notes": "Primary ride cymbal on the debut sessions"
         }
       ],
-      "description": "The Paiste Giant Beat series was Bill Ward's first cymbal endorsement — and its character is deeply embedded in the sonic identity of Black Sabbath's debut. Originally engineered for jazz big bands requiring large cymbals with dark, complex sound profiles, the Giant Beat line was an unconventional choice for a rock band. Ward's jazz background made it instinctive.\n\nThe 15\" hi-hats were Ward's primary rhythmic tool on the debut. One inch larger than the then-standard 14\" rock hi-hat, the Giant Beat 15s produced a fuller, darker \"chick\" when closed and a denser, more complex wash when opened. Ward's hi-hat technique on tracks like \"The Wizard\" and \"N.I.B.\" shows a jazz drummer's vocabulary: not simple rock open-close patterns but nuanced variations in pressure, opening degree, and rhythm that create rhythmic tension and release beneath the heavy riffs.\n\nThe 18\" and 20\" crashes carried the dark, washy character the Giant Beat line was designed around. These were not the bright, fast-cutting crashes that would become standard in thrash and speed metal. Paiste Giant Beat crashes bloom slowly and decay long — a sound that suited the doom-inflected atmosphere of \"Black Sabbath\" (the song) far more than a quick, aggressive crash would have. Ward used these cymbals architecturally, letting them swell and sustain through Iommi's riff transitions rather than punctuating individual beats.\n\nThe 22\" ride completed a setup oriented around size and sustain rather than definition and cut. On a record where guitar tones were already enormous, Ward's Paiste Giant Beats provided a cymbal backdrop that complemented rather than competed — dark, slow-blooming, and atmospheric in a way that remains distinctive five decades after the recording.",
-      "estimatedValue": "$600–1,000 total (1969) / $2,500–5,000 (vintage Giant Beats today)"
+      "description": "Bill Ward's cymbals on the Black Sabbath debut, and on *Paranoid* the following year, were Super Zyn — his first cymbal setup, before he moved to Avedis Zildjian starting with *Master of Reality* (1971). The 15\" hi-hats were Ward's primary rhythmic tool on the debut. Ward's hi-hat technique on tracks like \"The Wizard\" and \"N.I.B.\" shows a jazz drummer's vocabulary: not simple rock open-close patterns but nuanced variations in pressure, opening degree, and rhythm that create rhythmic tension and release beneath the heavy riffs.\n\nThe 18\" and 20\" crashes were used for accents and section transitions rather than punctuating every beat, consistent with the restrained, musical approach Ward carried throughout his Sabbath tenure — letting cymbals swell and sustain through Iommi's riff transitions rather than marking individual beats.\n\nThe 22\" ride completed a setup oriented around size and sustain rather than definition and cut. On a record where guitar tones were already enormous, Ward's cymbals provided a backdrop that complemented rather than competed.",
+      "estimatedValue": "$400–700 total (1969) / vintage Super Zyn cymbals are scarce collector pieces today"
     },
     "hardware": {
       "title": "Ludwig Speed King and Simple Stage Hardware",
@@ -2447,7 +2447,7 @@ export const articles = {
     },
     "recordingTechniques": {
       "title": "Twelve Hours at Regent Sound: The Fastest Album in Metal History",
-      "content": "The Black Sabbath debut recording session stands as one of the most compressed major album recordings on record. The band arrived at Regent Sound Studios in London's Denmark Street in October 1969 and recorded the entire album — eight tracks — in approximately 12 hours. The total budget was £500. The tape format was two-track, offering almost no room for post-production manipulation.\n\n**Why 12 Hours Mattered:**\nThe compressed timeline was not a creative choice but an economic necessity. Regent Sound charged by the hour; the band and their management had limited funds. Rodger Bain's directive was pragmatic: capture the band's live performance as efficiently as possible and use the result. There were no overdub sessions, no elaborate drum tuning experiments, no take-after-take refinement of individual drum fills.\n\nWhat Ward played in the moment is what the album contains. This gives the debut an authenticity and energy that distinguishes it even from *Paranoid*, recorded seven months later with slightly more studio time. The urgency of the session is audible.\n\n**The Recording Environment:**\nRegent Sound was a modest facility. Its live room was small — better suited to pop overdubs than large rock bands — but adequate for the stripped-down recording Bain envisioned. Ward set up in the main space with the other instruments nearby. The spill between instruments on the two-track tape is considerable, contributing to the cohesive, unified sound: the guitar tone bleeds into the overheads, the bass resonates through the kick mic, and the entire band sounds like a single organism rather than isolated components later assembled.\n\n**Microphone Approach (period-typical):**\n- Kick drum: dynamic mic close to the batter head\n- Snare: single dynamic mic, top only\n- Toms: one dynamic mic per drum\n- Overheads: small-diaphragm condensers capturing the Paiste Giant Beat cymbals\n- No dedicated room mics — all ambience came naturally through overhead bleed\n\n**Performance Philosophy:**\nWith no click track and no time for multiple passes, Ward had to trust his internal time feel entirely. The slight human variation in tempo across long tracks like \"Warning\" (in which the band essentially jams for nearly seven minutes) is not a flaw — it is evidence that four musicians were playing as a unit, responding to each other in real time. This is jazz ensemble methodology applied to the heaviest music of 1969.",
+      "content": "The Black Sabbath debut recording session stands as one of the most compressed major album recordings on record. The band arrived at Regent Sound Studios in London's Denmark Street in October 1969 and recorded the entire album — eight tracks — in approximately 12 hours. The total budget was £500. The tape format was two-track, offering almost no room for post-production manipulation.\n\n**Why 12 Hours Mattered:**\nThe compressed timeline was not a creative choice but an economic necessity. Regent Sound charged by the hour; the band and their management had limited funds. Rodger Bain's directive was pragmatic: capture the band's live performance as efficiently as possible and use the result. There were no overdub sessions, no elaborate drum tuning experiments, no take-after-take refinement of individual drum fills.\n\nWhat Ward played in the moment is what the album contains. This gives the debut an authenticity and energy that distinguishes it even from *Paranoid*, recorded seven months later with slightly more studio time. The urgency of the session is audible.\n\n**The Recording Environment:**\nRegent Sound was a modest facility. Its live room was small — better suited to pop overdubs than large rock bands — but adequate for the stripped-down recording Bain envisioned. Ward set up in the main space with the other instruments nearby. The spill between instruments on the two-track tape is considerable, contributing to the cohesive, unified sound: the guitar tone bleeds into the overheads, the bass resonates through the kick mic, and the entire band sounds like a single organism rather than isolated components later assembled.\n\n**Microphone Approach (period-typical):**\n- Kick drum: dynamic mic close to the batter head\n- Snare: single dynamic mic, top only\n- Toms: one dynamic mic per drum\n- Overheads: small-diaphragm condensers capturing the Super Zyn cymbals\n- No dedicated room mics — all ambience came naturally through overhead bleed\n\n**Performance Philosophy:**\nWith no click track and no time for multiple passes, Ward had to trust his internal time feel entirely. The slight human variation in tempo across long tracks like \"Warning\" (in which the band essentially jams for nearly seven minutes) is not a flaw — it is evidence that four musicians were playing as a unit, responding to each other in real time. This is jazz ensemble methodology applied to the heaviest music of 1969.",
       "keyTechniques": [
         "Entire album recorded in approximately 12 hours — one of the fastest professional recordings in rock history",
         "Two-track tape with no overdubs — what was played is what was released",
@@ -2467,7 +2467,7 @@ export const articles = {
           "Time signature shifts handled naturally — Ward navigates the 6/4 passages without rigidity",
           "The final section acceleration demonstrates Ward's ability to shift gear within a single track"
         ],
-        "gearNotes": "The 20\" bass drum's quicker rebound suits the doom pace — a larger drum would feel sluggish against the slow riff. The Paiste Giant Beat crashes sustain long enough to fill the space between riff repetitions."
+        "gearNotes": "The 20\" bass drum's quicker rebound suits the doom pace — a larger drum would feel sluggish against the slow riff. The Super Zyn crashes sustain long enough to fill the space between riff repetitions."
       },
       {
         "track": "The Wizard",
@@ -2479,7 +2479,7 @@ export const articles = {
           "Tom fills are economical and musical rather than decorative",
           "Demonstrates Ward's ability to groove at medium tempo without relying on complexity"
         ],
-        "gearNotes": "The 15\" Paiste Giant Beat hi-hats produce a fuller, darker sound on the shuffle pattern than standard 14\" cymbals would. The Giant Beat wash suits the track's blues-rock character."
+        "gearNotes": "The 15\" Super Zyn hi-hats produce a fuller sound on the shuffle pattern than standard 14\" cymbals would, suiting the track's blues-rock character."
       },
       {
         "track": "N.I.B.",
@@ -2503,13 +2503,13 @@ export const articles = {
           "Dynamic range is exceptional — Ward moves from whisper to thunder without losing the groove",
           "The longest performance on the record and Ward's most complete statement of his jazz-to-metal vocabulary"
         ],
-        "gearNotes": "The full Paiste Giant Beat setup earns its size in this track — the 22\" ride provides the sustained wash Ward rides through the extended jam sections, and the large crashes mark the improvisational peaks."
+        "gearNotes": "The full Super Zyn setup earns its size in this track — the 22\" ride provides the sustained wash Ward rides through the extended jam sections, and the large crashes mark the improvisational peaks."
       }
     ],
     "faq": [
       {
         "question": "What was Bill Ward's drum kit on Black Sabbath (1970)?",
-        "answer": "Bill Ward recorded Black Sabbath's debut album on a Ludwig Super Classic kit — a compact professional setup consisting of a 20\" bass drum, 12\" and 13\" rack toms, and a 16\" floor tom. The shells were three-ply maple with internal reinforcement rings, typical of late-1960s Ludwig construction. For the snare, Ward used a Ludwig Supra Phonic 14\" aluminum-shell drum, one of the most recorded snare drums in rock history. His cymbals were Paiste Giant Beat — his first endorsement relationship — including 15\" hi-hats, 18\" and 20\" crashes, and a 22\" ride. The Ludwig Speed King single pedal and Ludwig 2B hickory sticks completed the setup. For a full overview of Ward's career gear across all eras, see the [Bill Ward kit guide](/articles/whats-in-bill-wards-kit)."
+        "answer": "Bill Ward recorded Black Sabbath's debut album on a Ludwig Super Classic kit — a compact professional setup consisting of a 20\" bass drum, 12\" and 13\" rack toms, and a 16\" floor tom. The shells were three-ply maple with internal reinforcement rings, typical of late-1960s Ludwig construction. For the snare, Ward used a Ludwig Supra Phonic 14\" aluminum-shell drum, one of the most recorded snare drums in rock history. His cymbals were Super Zyn — his first cymbal setup — including 15\" hi-hats, 18\" and 20\" crashes, and a 22\" ride. The Ludwig Speed King single pedal and Ludwig 2B hickory sticks completed the setup. For a full overview of Ward's career gear across all eras, see the [Bill Ward kit guide](/articles/whats-in-bill-wards-kit)."
       },
       {
         "question": "How long did it take to record Black Sabbath?",
@@ -2520,17 +2520,17 @@ export const articles = {
         "answer": "Bill Ward's drumming on the Black Sabbath debut is unique because it applies jazz ensemble vocabulary — space, spontaneity, dynamic shading, and rhythmic conversation — to music that was heavier than anything being recorded at the time. Ward's influences were Tony Williams, Ginger Baker, and Elvin Jones: jazz drummers who understood that the drummer's role is to respond to the music rather than impose on it. On tracks like \"Warning,\" this means seven minutes of real-time improvisation that breathes with the rest of the band. On \"Black Sabbath\" (the song), it means using near-silence as a compositional tool during the doom riff — letting space amplify the weight of what Iommi is playing. Ward's hi-hat work on \"The Wizard\" carries a shuffle feel borrowed from R&B and soul, entirely unlike what a conventional rock drummer would apply. The 12-hour recording session preserved this spontaneity; there was no time to over-rehearse or sand down the jazz instincts into conventional rock drumming. The debut album is the most direct recording of Ward's jazz-to-metal translation. For detailed analysis of Ward's playing techniques, see the [Bill Ward drummer profile](/drummer/bill-ward)."
       },
       {
-        "question": "Why did Bill Ward use Paiste Giant Beat cymbals on the debut album?",
-        "answer": "The Paiste Giant Beat series was Bill Ward's first endorsement arrangement, and its dark, washy character suited his jazz background better than the brighter Zildjian and Sabian alternatives. Originally designed for jazz big bands, the Giant Beat cymbals produce slow-blooming crashes with long sustain and complex overtones — properties that work architecturally in slow, heavy music rather than providing the fast attack-and-cut of modern metal cymbals. Ward's 15\" hi-hats (one inch larger than standard) gave his shuffle patterns and open hi-hat work a fuller, darker sound, while the 18\", 20\", and 22\" sizes allowed crashes to swell and sustain through the long space between Iommi's riff repetitions. The Giant Beats contribute substantially to the doom atmosphere of the title track and the blues feel of \"The Wizard\" — they are not a neutral choice but an actively musical one. For a broader look at Ward's gear evolution from the debut through the classic period, see the [Bill Ward kit guide](/articles/whats-in-bill-wards-kit)."
+        "question": "What cymbals did Bill Ward use on the debut album?",
+        "answer": "Bill Ward's cymbals on the Black Sabbath debut were Super Zyn — his first cymbal setup, used from the band's earliest sessions through *Paranoid* (1970) before he moved to Avedis Zildjian starting with *Master of Reality* (1971). Ward's 15\" hi-hats (one inch larger than standard) gave his shuffle patterns and open hi-hat work a fuller sound, while the 18\", 20\", and 22\" sizes allowed crashes to swell and sustain through the long space between Iommi's riff repetitions rather than providing the fast attack-and-cut of modern metal cymbals. These cymbals contribute substantially to the doom atmosphere of the title track and the blues feel of \"The Wizard\" — they are not a neutral choice but an actively musical one. For a broader look at Ward's gear evolution from the debut through the classic period, see the [Bill Ward kit guide](/articles/whats-in-bill-wards-kit)."
       },
       {
         "question": "What year did Black Sabbath release their first album?",
-        "answer": "Black Sabbath released their self-titled debut album on February 13, 1970 on Vertigo Records. The album was recorded in October 1969 at Regent Sound Studios, London, in approximately 12 hours on a budget of £500. It is widely recognized as the first heavy metal album, featuring Bill Ward on drums with his Ludwig Super Classic kit and Paiste Giant Beat cymbals."
+        "answer": "Black Sabbath released their self-titled debut album on February 13, 1970 on Vertigo Records. The album was recorded in October 1969 at Regent Sound Studios, London, in approximately 12 hours on a budget of £500. It is widely recognized as the first heavy metal album, featuring Bill Ward on drums with his Ludwig Super Classic kit and Super Zyn cymbals."
       }
     ],
     "evolution": {
       "title": "The Debut Kit vs. Ward's Later Setup: How the Sound Grew",
-      "content": "The Black Sabbath debut captured the most stripped-down version of Bill Ward's setup — the compact Ludwig Super Classic and Paiste Giant Beat combination assembled for a 12-hour, £500 session. As Black Sabbath's commercial profile grew through 1970–1975, Ward's kit expanded to match the demands of larger venues and more elaborate productions.\n\n**From October 1969 to Paranoid (June 1970):**\nSeven months after the debut session, Ward returned to Regent Sound with a slightly updated setup for *Paranoid*. The kit configuration remained similar — a 20\" bass drum, dual rack toms, single floor tom — but cymbal choices shifted toward Avedis Zildjian, reflecting Ward's evolving preferences and access. The production was slightly more developed: four-track rather than two-track tape, more time available, and Rodger Bain with a clearer picture of what he was trying to capture. For the full breakdown, see the [Paranoid drum setup](/articles/paranoid-drum-setup).\n\n**The Expansion Phase (1971–1975):**\nThrough *Master of Reality*, *Vol. 4*, and *Sabbath Bloody Sabbath*, Ward's kit grew. Larger bass drums (22\" became standard), additional floor toms, and a more extensive cymbal setup replaced the debut's compact configuration. Vistalite acrylic shells appeared for large stage use. Ludwig remained the primary brand, but the setup's scale matched the arenas Sabbath was now headlining.\n\n**What the Debut Configuration Reveals:**\nThe compact Ludwig Super Classic setup was not a limitation — it was the correct musical choice for the music being recorded. Heavy metal's foundational recording was made with a small, responsive kit, a snare drum that cost a fraction of modern boutique alternatives, and cymbals chosen for musical character rather than technical specification. Ward's debut album remains the strongest available argument that gear serves music rather than determines it.",
+      "content": "The Black Sabbath debut captured the most stripped-down version of Bill Ward's setup — the compact Ludwig Super Classic and Super Zyn combination assembled for a 12-hour, £500 session. As Black Sabbath's commercial profile grew through 1970–1975, Ward's kit expanded to match the demands of larger venues and more elaborate productions.\n\n**From October 1969 to Paranoid (June 1970):**\nSeven months after the debut session, Ward returned to Regent Sound with a slightly updated setup for *Paranoid*. The kit configuration remained similar — a 20\" bass drum, dual rack toms, single floor tom — and the Super Zyn cymbals carried over unchanged. The production was slightly more developed: four-track rather than two-track tape, more time available, and Rodger Bain with a clearer picture of what he was trying to capture. For the full breakdown, see the [Paranoid drum setup](/articles/paranoid-drum-setup).\n\n**The Expansion Phase (1971–1975):**\nStarting with *Master of Reality* (1971), Ward moved from Super Zyn to Avedis Zildjian cymbals, a setup he kept through *Vol. 4*, *Sabbath Bloody Sabbath*, *Sabotage*, and the rest of the band's original run. Ward's kit grew alongside that switch — larger bass drums (22\" became standard), additional floor toms, and a more extensive cymbal setup replaced the debut's compact configuration. Vistalite acrylic shells appeared for large stage use. Ludwig remained the primary drum brand throughout, but the setup's scale matched the arenas Sabbath was now headlining.\n\n**What the Debut Configuration Reveals:**\nThe compact Ludwig Super Classic setup was not a limitation — it was the correct musical choice for the music being recorded. Heavy metal's foundational recording was made with a small, responsive kit, a snare drum that cost a fraction of modern boutique alternatives, and cymbals chosen for musical character rather than technical specification. Ward's debut album remains the strongest available argument that gear serves music rather than determines it.",
       "thenVsNow": [
         {
           "category": "Kit",
@@ -2544,8 +2544,8 @@ export const articles = {
         },
         {
           "category": "Cymbals",
-          "then": "Paiste Giant Beat (15\" hi-hats, 18\"/20\" crashes, 22\" ride)",
-          "now": "Paiste Giant Beat still available as a heritage series; MEINL Byzance Dark as a modern equivalent"
+          "then": "Super Zyn (15\" hi-hats, 18\"/20\" crashes, 22\" ride)",
+          "now": "Super Zyn is long discontinued; Zildjian A Series as a modern equivalent"
         },
         {
           "category": "Pedal",
@@ -2602,8 +2602,8 @@ export const articles = {
         "url": "/articles/history-of-metal-drumming"
       },
       {
-        "text": "Paiste cymbal gear guide",
-        "url": "/gear/paiste"
+        "text": "Zildjian cymbal gear guide",
+        "url": "/gear/zildjian"
       },
       {
         "text": "Ludwig drum kit gear guide",
@@ -2689,7 +2689,7 @@ export const articles = {
               "name": "What was Bill Ward's drum kit on Black Sabbath (1970)?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Bill Ward recorded Black Sabbath's debut album on a Ludwig Super Classic kit — a 20\" bass drum, 12\" and 13\" rack toms, and a 16\" floor tom — with a Ludwig Supra Phonic snare and Paiste Giant Beat cymbals (15\" hi-hats, 18\" and 20\" crashes, 22\" ride). He used a Ludwig Speed King single pedal and Ludwig 2B hickory sticks."
+                "text": "Bill Ward recorded Black Sabbath's debut album on a Ludwig Super Classic kit — a 20\" bass drum, 12\" and 13\" rack toms, and a 16\" floor tom — with a Ludwig Supra Phonic snare and Super Zyn cymbals (15\" hi-hats, 18\" and 20\" crashes, 22\" ride). He used a Ludwig Speed King single pedal and Ludwig 2B hickory sticks."
               }
             },
             {
@@ -2722,7 +2722,7 @@ export const articles = {
     },
     "conclusion": {
       "title": "Twelve Hours That Changed Music",
-      "content": "The Black Sabbath debut is the first metal album, recorded faster and cheaper than most demos. Bill Ward's drumming on that record is the starting point of every metal rhythm section that followed — the jazz vocabulary translated into heavy music, the deliberate bass drum placed to lock with the riff rather than mark a standard rock beat, the cymbal choices that prioritized atmosphere over definition.\n\nThe Ludwig Super Classic and Paiste Giant Beat combination Ward brought to Regent Sound in October 1969 was not chosen for maximum impact. It was a working musician's professional setup, assembled from quality gear without excess. What made the session remarkable was not the specification sheet — it was Ward's ability to translate two decades of jazz listening into a new musical language in real time, across 12 uninterrupted hours, without a second chance.\n\n**For Drummers Studying the Debut:**\nThe most important lesson is how Ward uses space. On the title track \"Black Sabbath,\" the doom riff breathes because Ward does not fill the silence. He sits on the beat, lets the tritone do its work, and arrives only when the music demands. This is not passivity — it is advanced musical judgment. Study where Ward does *not* play as carefully as where he does.\n\n**The Gear Legacy:**\nThe Ludwig Supra Phonic Ward used on the debut is still in production, essentially unchanged. The Speed King pedal is still available. The Paiste Giant Beat series is available as a heritage line. The debut's drum sound is reproducible on a modest budget — which is fitting, since the original cost £500 to make.\n\nFor the complete overview of Ward's gear across all eras, see the [Bill Ward kit guide](/articles/whats-in-bill-wards-kit). For the next chapter — seven months later, four days instead of twelve hours, and a slightly more polished production — see the [Paranoid drum setup](/articles/paranoid-drum-setup).\n\n*The 12-hour recording that launched heavy metal — one kit, one session, one take at a time.*"
+      "content": "The Black Sabbath debut is the first metal album, recorded faster and cheaper than most demos. Bill Ward's drumming on that record is the starting point of every metal rhythm section that followed — the jazz vocabulary translated into heavy music, the deliberate bass drum placed to lock with the riff rather than mark a standard rock beat, the cymbal choices that prioritized atmosphere over definition.\n\nThe Ludwig Super Classic and Super Zyn combination Ward brought to Regent Sound in October 1969 was not chosen for maximum impact. It was a working musician's professional setup, assembled from quality gear without excess. What made the session remarkable was not the specification sheet — it was Ward's ability to translate two decades of jazz listening into a new musical language in real time, across 12 uninterrupted hours, without a second chance.\n\n**For Drummers Studying the Debut:**\nThe most important lesson is how Ward uses space. On the title track \"Black Sabbath,\" the doom riff breathes because Ward does not fill the silence. He sits on the beat, lets the tritone do its work, and arrives only when the music demands. This is not passivity — it is advanced musical judgment. Study where Ward does *not* play as carefully as where he does.\n\n**The Gear Legacy:**\nThe Ludwig Supra Phonic Ward used on the debut is still in production, essentially unchanged. The Speed King pedal is still available. Super Zyn cymbals are long discontinued, but a Zildjian A Series set gets close to the character. The debut's drum sound is reproducible on a modest budget — which is fitting, since the original cost £500 to make.\n\nFor the complete overview of Ward's gear across all eras, see the [Bill Ward kit guide](/articles/whats-in-bill-wards-kit). For the next chapter — seven months later, four days instead of twelve hours, and a slightly more polished production — see the [Paranoid drum setup](/articles/paranoid-drum-setup).\n\n*The 12-hour recording that launched heavy metal — one kit, one session, one take at a time.*"
     }
   },
   "paranoid-drum-setup": {
@@ -2753,7 +2753,7 @@ export const articles = {
     "ogImage": "/images/albums/paranoid-drums.webp",
     "intro": {
       "title": "Where Heavy Metal Was Born",
-      "content": "Released on September 18, 1970, Black Sabbath's *Paranoid* is the album that defined heavy metal. Recorded in just four days at Regent Sound Studios in London on a budget that barely covered tape costs, the album captured a sound that would influence every metal drummer who followed.\n\nAt the heart of that sound was Bill Ward — a drummer whose jazz upbringing made him approach heavy music differently from almost anyone else. Ward had absorbed Tony Williams, Ginger Baker, and Keith Moon before picking up the sticks for Sabbath. That background is audible on every track of *Paranoid*: the improvisational fills, the swung feel on the hi-hat, the way he locks with Geezer Butler's bass while responding spontaneously to Tony Iommi's riffs.\n\nThe recording setup was bare-bones by any standard. Regent Sound was a modest four-track studio. Rodger Bain's production philosophy was capture the band live in the room and get out of the way. There were no click tracks, no drum triggers, no extensive overdubs. What you hear on *Paranoid* is a band playing live, and Bill Ward driving every second of it.\n\nThis article breaks down the Ludwig-based kit Ward used, his Avedis Zildjian cymbal setup, and the playing philosophy behind some of metal's most studied drum performances — from the locked-in groove of \"Iron Man\" to the tumbling fills of \"War Pigs.\"",
+      "content": "Released on September 18, 1970, Black Sabbath's *Paranoid* is the album that defined heavy metal. Recorded in just four days at Regent Sound Studios in London on a budget that barely covered tape costs, the album captured a sound that would influence every metal drummer who followed.\n\nAt the heart of that sound was Bill Ward — a drummer whose jazz upbringing made him approach heavy music differently from almost anyone else. Ward had absorbed Tony Williams, Ginger Baker, and Keith Moon before picking up the sticks for Sabbath. That background is audible on every track of *Paranoid*: the improvisational fills, the swung feel on the hi-hat, the way he locks with Geezer Butler's bass while responding spontaneously to Tony Iommi's riffs.\n\nThe recording setup was bare-bones by any standard. Regent Sound was a modest four-track studio. Rodger Bain's production philosophy was capture the band live in the room and get out of the way. There were no click tracks, no drum triggers, no extensive overdubs. What you hear on *Paranoid* is a band playing live, and Bill Ward driving every second of it.\n\nThis article breaks down the Ludwig-based kit Ward used, his Super Zyn cymbal setup, and the playing philosophy behind some of metal's most studied drum performances — from the locked-in groove of \"Iron Man\" to the tumbling fills of \"War Pigs.\"",
       "keyPoints": [
         "Recorded in four days at Regent Sound Studios, London, 1970",
         "Minimal budget production — four-track tape, live band performance",
@@ -2800,31 +2800,31 @@ export const articles = {
       "estimatedValue": "$60–90 (1970) / $150–350 (vintage today)"
     },
     "cymbals": {
-      "title": "Avedis Zildjian: Period-Correct Bronze for the Birth of Metal",
-      "brand": "Zildjian",
-      "series": "Avedis Zildjian",
+      "title": "Super Zyn: Ward's Cymbal Voice at the Birth of Metal",
+      "brand": "Super Zyn",
+      "series": "Super Zyn",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Avedis Zildjian 14\" Hi-Hats",
+          "model": "Super Zyn 14\" Hi-Hats",
           "position": "Left side",
           "notes": "Standard medium-weight pair — clean chick, good articulation for swung patterns"
         },
         {
           "type": "Ride",
-          "model": "Avedis Zildjian 20\" Ride",
+          "model": "Super Zyn 20\" Ride",
           "position": "Right side",
           "notes": "Primary ride — used extensively on \"War Pigs\" and \"Iron Man\""
         },
         {
           "type": "Crash",
-          "model": "Avedis Zildjian Crash (16\"–18\")",
+          "model": "Super Zyn Crash (16\"–18\")",
           "position": "Above rack toms",
           "notes": "Single crash — mid-weight, fast response for accents and fill endings"
         }
       ],
-      "description": "Bill Ward's cymbal setup on *Paranoid* was period-correct Avedis Zildjian — the bronze alloy standard of professional drumming in 1970. The Avedis line (named after Avedis Zildjian III, who expanded the company's American presence) produced cymbals with a warm, complex sound profile that suited Ward's jazz-influenced playing far better than the brighter, more aggressive cymbal designs that would come later.\n\nThe 14\" hi-hats were central to Ward's style. His jazz background made him a hi-hat player first — he rides the hi-hat on several *Paranoid* tracks with a swung, slightly shuffled feel that gives \"War Pigs\" and \"Paranoid\" their human groove quality. Drummers analyzing Ward's playing consistently cite his hi-hat work as the most jazz-influenced element of Black Sabbath's rhythm section.\n\nThe 20\" ride was Ward's primary time-keeping surface for longer sections. His jazz background led him to use the ride more idiomatically than most rock drummers of the era — playing in the bow rather than the bell, varying pressure to control overtones, and letting the cymbal breathe between strokes.\n\nThe crash was used for accents and fill punctuation. Ward's crash technique was impulsive and musical — he didn't crash on every downbeat as later metal drummers would. Instead, crashes arrived at moments of genuine musical emphasis, a restraint rooted in his jazz listening.",
-      "estimatedValue": "$300–500 total (1970) / $2,000–4,000 (vintage today)"
+      "description": "Bill Ward's cymbal setup on *Paranoid* was the same Super Zyn cymbals he'd used since the band's 1970 debut — the setup he'd play through this album before moving to Avedis Zildjian starting with *Master of Reality* the following year.\n\nThe 14\" hi-hats were central to Ward's style. His jazz background made him a hi-hat player first — he rides the hi-hat on several *Paranoid* tracks with a swung, slightly shuffled feel that gives \"War Pigs\" and \"Paranoid\" their human groove quality. Drummers analyzing Ward's playing consistently cite his hi-hat work as the most jazz-influenced element of Black Sabbath's rhythm section.\n\nThe 20\" ride was Ward's primary time-keeping surface for longer sections. His jazz background led him to use the ride more idiomatically than most rock drummers of the era — playing in the bow rather than the bell, varying pressure to control overtones, and letting the cymbal breathe between strokes.\n\nThe crash was used for accents and fill punctuation. Ward's crash technique was impulsive and musical — he didn't crash on every downbeat as later metal drummers would. Instead, crashes arrived at moments of genuine musical emphasis, a restraint rooted in his jazz listening.",
+      "estimatedValue": "$300–500 total (1970) / vintage Super Zyn cymbals are scarce collector pieces today"
     },
     "hardware": {
       "title": "Ludwig Speed King: The Pedal Behind Metal's Foundational Groove",
@@ -2918,7 +2918,7 @@ export const articles = {
           "Slow section features ride cymbal work with jazz-influenced brush-like touch",
           "Fast section uses ride bell for accents — a jazz technique in metal context"
         ],
-        "gearNotes": "The 20\" Zildjian ride handles both sections — the bow for the slow passage, the bell for the fast groove. The drum kit's compact size suits the varied dynamics."
+        "gearNotes": "The 20\" Super Zyn ride handles both sections — the bow for the slow passage, the bell for the fast groove. The drum kit's compact size suits the varied dynamics."
       }
     ],
     "faq": [
@@ -2928,7 +2928,7 @@ export const articles = {
       },
       {
         "question": "What cymbals did Bill Ward use on Paranoid?",
-        "answer": "Bill Ward's cymbal setup on *Paranoid* was built around Avedis Zildjian bronze — the professional standard of 1970. His setup included 14\" hi-hats (used with a jazz-influenced swung feel on \"War Pigs\" and \"Paranoid\"), a 20\" ride (his primary time-keeping surface, played with varying bow and bell technique drawn from his jazz listening), and a crash cymbal for fill punctuation and accents. The warm, complex Avedis bronze character suits Ward's improvisational style far better than the brighter, more aggressive cymbal alloys developed later. His hi-hat playing is consistently cited by drumming analysts as the most jazz-influenced element of Black Sabbath's rhythm section. See [Bill Ward's drum licks and technique breakdowns](/drummer/bill-ward/licks) for analysis of his cymbal approach."
+        "answer": "Bill Ward's cymbal setup on *Paranoid* was Super Zyn — the same cymbals he'd used since the band's 1970 debut, before moving to Avedis Zildjian starting with *Master of Reality* (1971). His setup included 14\" hi-hats (used with a jazz-influenced swung feel on \"War Pigs\" and \"Paranoid\"), a 20\" ride (his primary time-keeping surface, played with varying bow and bell technique drawn from his jazz listening), and a crash cymbal for fill punctuation and accents. His hi-hat playing is consistently cited by drumming analysts as the most jazz-influenced element of Black Sabbath's rhythm section. See [Bill Ward's drum licks and technique breakdowns](/drummer/bill-ward/licks) for analysis of his cymbal approach."
       },
       {
         "question": "Why did Bill Ward not use double bass drums on Paranoid?",
@@ -2941,7 +2941,7 @@ export const articles = {
     ],
     "evolution": {
       "title": "From Paranoid to Today: Bill Ward's Gear Through the Sabbath Years",
-      "content": "The *Paranoid* sessions captured Bill Ward at the beginning of Black Sabbath's recording career — a young drummer translating jazz vocabulary into the heaviest music being made at the time. His setup evolved through the band's classic period while retaining the Ludwig foundation that defined his sound.\n\n**The Classic Period (1970–1978):**\nWard continued with Ludwig through the band's greatest albums — *Master of Reality*, *Vol. 4*, *Sabbath Bloody Sabbath*, and *Heaven and Hell* (with Ronnie James Dio). Cymbal choices expanded as the budgets grew, and kit sizes increased, but the jazz-rooted playing philosophy remained constant.\n\n**Setup Expansion:**\nAs Black Sabbath moved into larger venues through the mid-1970s, Ward's kit grew to meet them. An additional floor tom, a larger bass drum (22\" became standard), and a more extensive cymbal setup replaced the compact Regent Sound configuration.\n\n**The Enduring Influence:**\nWhat makes Ward's *Paranoid* setup remarkable is not what it contained but what it produced. A modest Ludwig kit, a budget Acrolite snare, and Avedis Zildjian cymbals — the gear a working professional musician would have owned — created the rhythmic foundation for all of heavy metal. The lesson: the player defines the sound, not the specification sheet.",
+      "content": "The *Paranoid* sessions captured Bill Ward at the beginning of Black Sabbath's recording career — a young drummer translating jazz vocabulary into the heaviest music being made at the time. His setup evolved through the band's classic period while retaining the Ludwig foundation that defined his sound.\n\n**The Classic Period (1970–1978):**\nWard continued with Ludwig through the band's greatest albums — *Master of Reality*, *Vol. 4*, *Sabbath Bloody Sabbath*, and *Heaven and Hell* (with Ronnie James Dio). His cymbals moved from Super Zyn to Avedis Zildjian starting with *Master of Reality* (1971), and kit sizes increased as the budgets grew, but the jazz-rooted playing philosophy remained constant.\n\n**Setup Expansion:**\nAs Black Sabbath moved into larger venues through the mid-1970s, Ward's kit grew to meet them. An additional floor tom, a larger bass drum (22\" became standard), and a more extensive cymbal setup replaced the compact Regent Sound configuration.\n\n**The Enduring Influence:**\nWhat makes Ward's *Paranoid* setup remarkable is not what it contained but what it produced. A modest Ludwig kit, a budget Acrolite snare, and Super Zyn cymbals — the gear a working professional musician would have owned — created the rhythmic foundation for all of heavy metal. The lesson: the player defines the sound, not the specification sheet.",
       "thenVsNow": [
         {
           "category": "Kit",
@@ -2955,8 +2955,8 @@ export const articles = {
         },
         {
           "category": "Cymbals",
-          "then": "Avedis Zildjian (1970s bronze)",
-          "now": "Zildjian A Series (closest modern equivalent)"
+          "then": "Super Zyn",
+          "now": "Super Zyn is long discontinued; Zildjian A Series as a modern equivalent"
         },
         {
           "category": "Pedal",
@@ -3088,7 +3088,7 @@ export const articles = {
     },
     "conclusion": {
       "title": "The Foundation Beneath Every Metal Groove",
-      "content": "*Paranoid* is the album where heavy metal started. Bill Ward's drumming on that record is the reason the genre has the rhythmic character it does — the riff-locked kick on \"Iron Man,\" the swung hi-hat on \"War Pigs,\" the improvisational fills that arrive when the music demands them rather than when a chart dictates. All of it traces back to a jazz drummer in a budget London studio with four days to record.\n\nThe gear was ordinary: a Ludwig kit, an Acrolite snare, Avedis Zildjian cymbals, and a Speed King pedal. The production was minimal: close mics, four-track tape, Rodger Bain staying out of the way. What made the album extraordinary was the player — Bill Ward's ability to bring jazz sensibility to the heaviest music being made in 1970.\n\n**For Drummers Studying *Paranoid*:**\nThe most important lesson Ward teaches is that feel precedes technique. Learn \"Iron Man\" not for the kick pattern's complexity (it isn't complex) but for its placement — where the bass drum lands relative to the riff is the entire lesson. \"War Pigs\" teaches dynamic range across eight minutes. \"Paranoid\" teaches how to play at tempo without losing the human element.\n\n**The Gear Legacy:**\nThe Ludwig Acrolite Ward used is still in production. The Speed King pedal is still available. A modern drummer can approximate the *Paranoid* drum sound without a large gear budget — which is fitting, because Ward himself had no large gear budget when he recorded it.\n\nFor the complete exploration of Bill Ward's technique, see the [Bill Ward drummer profile](/drummer/bill-ward) and the [Bill Ward licks and technique breakdowns](/drummer/bill-ward/licks). For the broader tradition Ward's playing created, the [groove drumming techniques guide](/techniques/groove-drumming) traces the jazz-to-metal lineage.\n\n🥁 *The Ludwig kit that started heavy metal — four days, four tracks, and one of the most influential drum performances in music history.* 🥁"
+      "content": "*Paranoid* is the album where heavy metal started. Bill Ward's drumming on that record is the reason the genre has the rhythmic character it does — the riff-locked kick on \"Iron Man,\" the swung hi-hat on \"War Pigs,\" the improvisational fills that arrive when the music demands them rather than when a chart dictates. All of it traces back to a jazz drummer in a budget London studio with four days to record.\n\nThe gear was ordinary: a Ludwig kit, an Acrolite snare, Super Zyn cymbals, and a Speed King pedal. The production was minimal: close mics, four-track tape, Rodger Bain staying out of the way. What made the album extraordinary was the player — Bill Ward's ability to bring jazz sensibility to the heaviest music being made in 1970.\n\n**For Drummers Studying *Paranoid*:**\nThe most important lesson Ward teaches is that feel precedes technique. Learn \"Iron Man\" not for the kick pattern's complexity (it isn't complex) but for its placement — where the bass drum lands relative to the riff is the entire lesson. \"War Pigs\" teaches dynamic range across eight minutes. \"Paranoid\" teaches how to play at tempo without losing the human element.\n\n**The Gear Legacy:**\nThe Ludwig Acrolite Ward used is still in production. The Speed King pedal is still available. A modern drummer can approximate the *Paranoid* drum sound without a large gear budget — which is fitting, because Ward himself had no large gear budget when he recorded it.\n\nFor the complete exploration of Bill Ward's technique, see the [Bill Ward drummer profile](/drummer/bill-ward) and the [Bill Ward licks and technique breakdowns](/drummer/bill-ward/licks). For the broader tradition Ward's playing created, the [groove drumming techniques guide](/techniques/groove-drumming) traces the jazz-to-metal lineage.\n\n🥁 *The Ludwig kit that started heavy metal — four days, four tracks, and one of the most influential drum performances in music history.* 🥁"
     }
   }
 };

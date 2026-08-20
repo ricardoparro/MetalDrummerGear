@@ -2304,7 +2304,7 @@ Ward's drumming style combined jazz influences with proto-metal power, creating 
 **Classic Setup (1970s Peak Era):**
 - **Drums**: Ludwig Classic Maple (24"x16" bass, natural finish)
 - **Snare**: Ludwig Supraphonic 14"x6.5" (400 series)
-- **Cymbals**: Paiste Giant Beat and 2002 series (large sizes: 18"-22" crashes, 24" ride)
+- **Cymbals**: Super Zyn on the debut and Paranoid (1968-1971), then Avedis Zildjian from Master of Reality through Never Say Die! (1971-1978)
 - **Hardware**: Ludwig Atlas or similar era hardware
 - **Sticks**: Various 2B or 5B sizes
 - **Heads**: Remo (Ambassador/Emperor)
@@ -2333,15 +2333,15 @@ Ward's drumming style combined jazz influences with proto-metal power, creating 
       faq: {
         title: 'Frequently Asked Questions',
         items: [
-          { q: 'What drum kit does Bill Ward use?', a: 'Bill Ward played Ludwig drum kits throughout Black Sabbath\'s classic era — a Ludwig Classic Maple setup on landmark albums like Paranoid (1970), Vol. 4 (1972), and Sabotage (1975), paired with Paiste 2002 and Giant Beat cymbals. His Ludwig Supraphonic 14"x6.5" LM402 snare delivered the sharp crack anchoring "Iron Man," "War Pigs," and "Symptom of the Universe."' },
-          { q: 'What drum set does Bill Ward use?', a: 'Bill Ward\'s drum set typically centered on a 24" bass drum and 13" and 16" toms in Ludwig Classic Maple shells, driven by a Ludwig Atlas Pro double pedal and Ludwig throne, with Paiste\'s 24" 2002 Ride — one of the largest ride cymbals in classic rock — anchoring the kit.' },
-          { q: 'What cymbals does Bill Ward play?', a: 'Bill Ward plays Paiste 2002 and Giant Beat Series cymbals: 15" Giant Beat Hi-Hats, 18" and 20" 2002 Crashes, a 24" 2002 Ride, and an 18" 2002 China.' },
+          { q: 'What drum kit does Bill Ward use?', a: 'Bill Ward played Ludwig drum kits throughout Black Sabbath\'s classic era — a Ludwig Classic Maple setup on landmark albums like Paranoid (1970), Vol. 4 (1972), and Sabotage (1975). His cymbals were Super Zyn on the debut and Paranoid (1968-1971), then Avedis Zildjian from Master of Reality (1971) through Never Say Die! (1978). His Ludwig Supraphonic 14"x6.5" LM402 snare delivered the sharp crack anchoring "Iron Man," "War Pigs," and "Symptom of the Universe."' },
+          { q: 'What drum set does Bill Ward use?', a: 'Bill Ward\'s drum set typically centered on a 24" bass drum and 13" and 16" toms in Ludwig Classic Maple shells, driven by a Ludwig Atlas Pro double pedal and Ludwig throne, with an Avedis Zildjian ride anchoring the kit\'s cymbal voice from Master of Reality (1971) onward.' },
+          { q: 'What cymbals does Bill Ward play?', a: 'Bill Ward played Super Zyn cymbals on Black Sabbath\'s 1970 debut and Paranoid, then switched to Avedis Zildjian cymbals — 14" hi-hats, a 20" ride, and a 16"-18" crash — for Master of Reality (1971) and kept that setup through Never Say Die! (1978).' },
           { q: 'What snare does Bill Ward use?', a: 'Bill Ward\'s snare is a Ludwig Supraphonic 14"x6.5" LM402, the same model behind the crack heard on Sabbath staples like "War Pigs" and "Iron Man."' },
           { q: 'What sticks does Bill Ward use?', a: 'Bill Ward uses Vic Firth American Classic 2B drumsticks.' },
           { q: 'What bass drum pedal does Bill Ward use?', a: 'Bill Ward uses a Ludwig Atlas Pro double pedal mounted with Ludwig hardware, including a Ludwig throne.' },
           { q: 'What drumheads does Bill Ward use?', a: 'Bill Ward uses Remo drumheads.' },
           { q: 'What band is Bill Ward in?', a: 'Bill Ward is a co-founder and drummer of Black Sabbath, playing with the band 1968-1980, briefly in 1983-1984, again in 1997-1998, and once more in 2011-2012 amid a lineup dispute.' },
-          { q: 'What hi-hats did Bill Ward play?', a: 'Bill Ward played 15" Paiste Giant Beat hi-hats, mounted alongside his Ludwig Supraphonic snare and 24" Paiste 2002 ride in his classic Black Sabbath drum kit.' }
+          { q: 'What hi-hats did Bill Ward play?', a: 'Bill Ward played 14" Avedis Zildjian hi-hats from Master of Reality (1971) onward, mounted alongside his Ludwig Supraphonic snare in his classic Black Sabbath drum kit; on the debut and Paranoid he played Super Zyn hi-hats instead.' }
         ]
       },
       sources: {

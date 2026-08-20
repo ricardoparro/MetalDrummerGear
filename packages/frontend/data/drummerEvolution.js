@@ -8347,9 +8347,9 @@ export const DRUMMER_EVOLUTION = {
     slug: 'sean-reinert',
     name: 'Sean Reinert',
     band: 'Death / Cynic',
-    totalYearsActive: '1989-2019',
+    totalYearsActive: '1989-2015',
     profileImage: '/images/drummers/sean-reinert.webp',
-    summary: 'Sean Reinert was one of the most innovative drummers in extreme metal history — a jazz-trained polyrhythmic visionary who brought unprecedented subtlety and complexity to death metal on Death\'s Human and Cynic\'s Focus. He passed away in January 2020.',
+    summary: 'Sean Reinert was one of the most innovative drummers in extreme metal history — a jazz-trained polyrhythmic visionary who brought unprecedented subtlety and complexity to death metal on Death\'s Human and Cynic\'s Focus, then closed out his career with Cynic\'s 2006-2015 reunion. He passed away in January 2020.',
 
     eras: [
       {
@@ -8563,10 +8563,53 @@ export const DRUMMER_EVOLUTION = {
 
         videos: [],
       },
+
+      {
+        id: 'sean-reinert-2008-cynic-reunion',
+        era: 'Cynic — Reunion Era (Traced in Air / Kindly Bent to Free Us)',
+        years: '2006-2015',
+        startYear: 2006,
+        endYear: 2015,
+        description: 'After a 12-year hiatus, Reinert reunited with Cynic in 2006, recording two more albums before departing the band in 2015 — Traced in Air (2008), the atmospheric, self-produced comeback, and Kindly Bent to Free Us (2014). He upgraded to a DW Collector\'s Series maple shell pack and switched to darker, more complex Zildjian K Custom cymbals for the reunion sound. This was his final active era before his death in January 2020.',
+        albums: ['Traced in Air (2008)', 'Kindly Bent to Free Us (2014)'],
+        tours: ['Cynic Reunion Touring (2006-2015)'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'DW Collector\'s Series',
+            details: 'Maple shell pack',
+            notes: 'Reinert upgraded to a DW Collector\'s Series maple shell pack for Cynic\'s reunion, first heard on Traced in Air (2008).',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          cymbals: {
+            item: 'Zildjian K Custom',
+            details: 'Darker, more complex voicing than the Focus-era K Series',
+            notes: 'Switched to Zildjian K Custom cymbals for a darker, more complex voice suited to Traced in Air\'s atmospheric, self-produced sound.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+        },
+
+        estimatedCost: {
+          original: 8000,
+          inflationAdjusted: 11000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Reunited with Cynic in 2006 after a 12-year hiatus',
+          'Traced in Air (2008) — first new Cynic album in 15 years',
+          'Upgraded to a DW Collector\'s Series maple shell pack',
+          'Switched to darker, more complex Zildjian K Custom cymbals',
+          'Kindly Bent to Free Us (2014) — final studio album before his 2015 departure from Cynic and his 2020 death',
+        ],
+
+        videos: [],
+      },
     ],
 
     metaTitle: 'Sean Reinert Gear Evolution Timeline | Death & Cynic Drum Kit History',
-    metaDescription: 'Explore Sean Reinert\'s complete drum gear evolution across Death\'s Spiritual Healing and Human and Cynic\'s Focus — three landmark albums and the most innovative jazz-death drumming in metal history.',
+    metaDescription: 'Explore Sean Reinert\'s complete drum gear evolution across Death\'s Spiritual Healing and Human, Cynic\'s Focus, and the Cynic reunion era (Traced in Air, Kindly Bent to Free Us) — his complete arc across the most innovative jazz-death drumming in metal history.',
   },
 
   // ==========================================

@@ -9277,68 +9277,34 @@ export const DRUMMER_EVOLUTION = {
         years: '1996–1998',
         startYear: 1996,
         endYear: 1998,
-        description: 'Cryptic Writings (1997) continued Megadeth\'s accessible direction. Menza\'s final full studio album with the band showed his groove-based drumming at its most polished. His Pearl Reference Custom setup — the flagship professional tier — was the definitive statement of his gear journey. He was fired from Megadeth in 1998 following a knee injury, ending one of thrash metal\'s most storied drummer-band partnerships.',
+        description: 'Cryptic Writings (1997) continued Megadeth\'s accessible direction. Menza\'s final full studio album with the band showed his groove-based drumming at its most polished. Per the verified kit overview, his gear moved to a Premier Signia endorsement beginning with Youthanasia (1994) and continuing through Cryptic Writings (1997) — no Pearl kit is documented for this era. He was fired from Megadeth in 1998 following a knee injury, ending one of thrash metal\'s most storied drummer-band partnerships.',
         albums: ['Cryptic Writings (1997)'],
         tours: ['Cryptic Writings Tour 1997–1998'],
         image: null,
 
         gear: {
           drums: {
-            item: 'Pearl Reference Custom',
-            details: 'Maple/birch hybrid shells: 22" kick, 10"/12"/14"/16" toms',
-            notes: 'Upgraded to Pearl Reference Custom — the flagship professional maple/birch hybrid kit. The most refined and resonant kit of Menza\'s Megadeth tenure.',
-            change: CHANGE_TYPES.UPGRADE,
-          },
-          snare: {
-            item: 'Pearl Free-Floating Brass 14"×6.5"',
-            details: 'Continued brass Free-Floating preference',
-            notes: 'Consistent brass Free-Floating snare choice maintained through the final Megadeth era.',
-            change: null,
+            item: 'Premier Signia',
+            details: 'Endorsement kit; specific shell configuration not independently documented',
+            notes: 'Menza\'s gear moved to a Premier Signia endorsement beginning with Youthanasia (1994) and continuing through Cryptic Writings (1997), per the verified kit overview — no Pearl kit is documented for this era.',
+            change: CHANGE_TYPES.SWITCH,
           },
           cymbals: {
-            item: 'Zildjian K Custom Series',
-            details: '14" K Custom hi-hats, 17"/18" K Custom crashes, 21" K Custom ride, 18" K Custom China',
-            notes: 'Full K Custom setup for the Cryptic Writings era — darker, more complex tone that reflected Megadeth\'s mature post-Rust production aesthetic.',
-            change: CHANGE_TYPES.SWITCH,
-          },
-          hardware: {
-            item: 'Pearl Demon Drive Double Pedal',
-            details: 'Direct drive for maximum control',
-            notes: 'Switched to Pearl Demon Drive direct-drive double pedal for more precise, immediate response in the demanding Cryptic Writings live set.',
-            change: CHANGE_TYPES.SWITCH,
-          },
-          sticks: {
-            item: 'Vic Firth 2B',
-            details: 'Heavy hickory, consistent career choice',
-            notes: 'Consistent 2B sticks throughout entire Megadeth tenure.',
+            item: 'Zildjian A Series',
+            details: '14" A Hi-Hats, 16"/18" A Crash, 20" A Ride',
+            notes: 'Zildjian A Series is the only independently verified cymbal setup on record for Menza\'s Megadeth tenure — no K Custom cymbals are documented for this era.',
             change: null,
           },
-          heads: {
-            item: 'Remo Emperor on toms, EMAD on kick',
-            details: 'Standard professional touring configuration',
-            notes: 'Consistent EMAD/Emperor configuration across the final Megadeth years.',
-            change: null,
-          },
-        },
-
-        estimatedCost: {
-          original: 14000,
-          inflationAdjusted: 27000,
-          currency: 'USD',
         },
 
         keyChanges: [
-          'Pearl Reference Custom — peak gear setup of the Megadeth years',
+          'Premier Signia endorsement begins with Youthanasia (1994), continuing through Cryptic Writings (1997)',
           'Cryptic Writings (1997) — final full studio album with Megadeth',
-          'Switched to Zildjian K Custom for darker, more mature cymbal voice',
-          'Pearl Demon Drive adopted for direct-drive precision',
+          'Zildjian A Series remains the only independently verified cymbal setup for this era',
           'Fired from Megadeth (1998) following knee injury — end of defining band partnership',
         ],
 
-        quote: {
-          text: "I gave everything I had to that band for almost a decade. Cryptic Writings was the best drumming I ever did for Megadeth. I\'m proud of every record I made with them.",
-          source: 'Metal Hammer Interview, 2004',
-        },
+        quote: null,
 
         videos: [],
       },
@@ -9349,68 +9315,22 @@ export const DRUMMER_EVOLUTION = {
         years: '2004–2016',
         startYear: 2004,
         endYear: 2016,
-        description: 'After a series of personal challenges including knee surgery and cancer treatment, Nick Menza returned to active drumming in the mid-2000s. He performed with various projects including OHM — a jazz-metal fusion group — and maintained a dedicated following in the thrash community. He passed away on May 21, 2016, collapsing on stage during an OHM performance at a Woodland Hills, California club. He was 51. His death on stage — doing what he loved — became one of metal\'s most poignant final chapters.',
+        description: 'After a series of personal challenges including knee surgery and cancer treatment, Nick Menza returned to active drumming in the mid-2000s. He performed with various projects including OHM — a jazz-metal fusion group — and maintained a dedicated following in the thrash community. No independently verified gear information exists for this period; an earlier claim of continued Pearl/Zildjian K Custom gear was unsourced and has been removed. He passed away on May 21, 2016, collapsing on stage during an OHM performance at a Woodland Hills, California club. He was 51. His death on stage — doing what he loved — became one of metal\'s most poignant final chapters.',
         albums: ['OHM: Memorandum (2012)', 'Various live and studio projects'],
         tours: ['OHM tour dates 2010–2016', 'Various special appearances'],
         image: null,
 
-        gear: {
-          drums: {
-            item: 'Pearl Reference Series',
-            details: 'Maple/birch hybrid shells: 22" kick, 10"/12"/14"/16" toms',
-            notes: 'Continued with Pearl Reference in the post-Megadeth years — the familiar flagship setup maintained consistency with his peak career gear.',
-            change: null,
-          },
-          snare: {
-            item: 'Pearl Free-Floating Steel 14"×6.5"',
-            details: 'Returned to steel for projection in live contexts',
-            notes: 'Returned to steel Free-Floating for the cutting projection needed in club and festival live environments.',
-            change: CHANGE_TYPES.SWITCH,
-          },
-          cymbals: {
-            item: 'Zildjian K Custom Series (continued)',
-            details: 'Consistent K Custom palette',
-            notes: 'Maintained the K Custom cymbal setup from the Cryptic Writings era through the post-Megadeth years.',
-            change: null,
-          },
-          hardware: {
-            item: 'Pearl Demon Drive Double Pedal (continued)',
-            details: 'Consistent direct-drive platform',
-            notes: 'Pearl Demon Drive maintained throughout post-Megadeth career.',
-            change: null,
-          },
-          sticks: {
-            item: 'Vic Firth 2B',
-            details: 'Lifelong heavy hickory preference',
-            notes: 'Nick Menza used Vic Firth 2B sticks throughout his entire career — a consistent signature of his power-based playing approach.',
-            change: null,
-          },
-          heads: {
-            item: 'Remo Emperor on toms, EMAD on kick',
-            details: 'Consistent head configuration',
-            notes: 'Maintained the same head configuration from the Cryptic Writings era through his final performances.',
-            change: null,
-          },
-        },
-
-        estimatedCost: {
-          original: 12000,
-          inflationAdjusted: 15000,
-          currency: 'USD',
-        },
+        gear: {},
 
         keyChanges: [
           'Returned to active drumming after knee surgery and cancer recovery',
           'OHM project — jazz-metal fusion showcased range beyond thrash',
-          'Maintained Pearl Reference / Zildjian K Custom setup from Megadeth peak years',
+          'No independently verified gear information exists for this period',
           'Continued to be recognized as one of thrash metal\'s defining drummers',
           'Passed away May 21, 2016, on stage during OHM performance — Woodland Hills, California',
         ],
 
-        quote: {
-          text: "The music never stopped for me. Even when my body wasn\'t cooperating, the music kept me going. That\'s all I\'ve ever had.",
-          source: 'Nick Menza Interview, 2015',
-        },
+        quote: null,
 
         videos: [],
       },
@@ -9419,7 +9339,7 @@ export const DRUMMER_EVOLUTION = {
     faqs: [
       {
         q: 'What drum kit did Nick Menza use?',
-        a: 'Nick Menza played Pearl drums throughout his Megadeth career. He joined with a Tama Artstar II before upgrading to Pearl Masters for Rust in Peace (1990), progressing through Pearl Masterworks (Countdown era) to Pearl Reference Custom (Cryptic Writings). In his post-Megadeth years he played Pearl Reference, maintaining Pearl brand loyalty from 1990 until his death in 2016.',
+        a: 'Nick Menza joined Megadeth with a Tama Artstar II before upgrading to Pearl Masters for Rust in Peace (1990) and Pearl Masterworks for the Countdown to Extinction era. Per the verified kit overview, his gear moved to a Premier Signia endorsement beginning with Youthanasia (1994) and continuing through Cryptic Writings (1997) — no Pearl kit is documented for that era. No independently verified gear information exists for his post-Megadeth years.',
       },
       {
         q: 'What snare did Nick Menza use on Rust in Peace?',
@@ -9435,12 +9355,12 @@ export const DRUMMER_EVOLUTION = {
       },
       {
         q: 'What cymbals did Nick Menza use?',
-        a: 'Menza used Zildjian throughout his career. He played Zildjian A Custom during the Rust in Peace and Countdown to Extinction eras, then switched to Zildjian K Custom for Cryptic Writings (1997) and maintained K Custom through his post-Megadeth years with OHM.',
+        a: 'Menza used Zildjian throughout his career. He played Zildjian A Custom during the Rust in Peace and Countdown to Extinction eras. For Cryptic Writings (1997) and his post-Megadeth years, the only independently verified cymbal setup on record is Zildjian A Series — no K Custom cymbals are documented for those periods.',
       },
     ],
 
     metaTitle: 'Nick Menza Gear Evolution Timeline | Megadeth Drum Kit History',
-    metaDescription: 'Explore Nick Menza\'s complete drum gear evolution: Tama Artstar II → Pearl Masters (Rust in Peace) → Pearl Masterworks (Countdown) → Pearl Reference Custom (Cryptic Writings). The Megadeth drummer\'s full timeline.',
+    metaDescription: 'Explore Nick Menza\'s complete drum gear evolution: Tama Artstar II → Pearl Masters (Rust in Peace) → Pearl Masterworks (Countdown) → Premier Signia (Cryptic Writings). The Megadeth drummer\'s full timeline.',
   },
 
   // ==========================================

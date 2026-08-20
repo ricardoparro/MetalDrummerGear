@@ -16802,7 +16802,8 @@ export const DRUMMER_EVOLUTION = {
 
   // ==========================================
   // Martin Axenrot - Opeth (Drummer Evolution batch 20, Issue #3224)
-  // Sonor SQ2 -> Pearl Reference Series
+  // Corrected #5908: custom DW kit / SABIAN HHX-AAX / Pro-Mark / Evans
+  // (was fabricated Sonor SQ2 -> Pearl Reference Series / Meinl Byzance)
   // ==========================================
   'martin-axenrot': {
     slug: 'martin-axenrot',
@@ -16810,7 +16811,7 @@ export const DRUMMER_EVOLUTION = {
     band: 'Opeth',
     totalYearsActive: '1997-Present',
     profileImage: '/images/drummers/martin-axenrot.webp',
-    summary: 'Martin Axenrot stepped into one of progressive metal\'s most scrutinized drum chairs in 2006, joining Opeth mid-tour on the Ghost Reveries cycle after founding drummer Martin Lopez departed due to health issues — answering the recurring question "who replaced Martin Lopez in Opeth?" His gear evolution runs from the extreme metal circuit with Witchery and Bloodbath, through the twin-kick Sonor Designer/SQ2 rig that introduced him on Watershed (2008), into the Pearl Reference Series kit he adopted for Opeth\'s prog-rock pivot on Heritage (2011) and carried through Pale Communion, Sorceress, and his final studio album with the band, In Cauda Venenum (2019), all while keeping the same Meinl Byzance cymbal setup for the entirety of his Opeth tenure.',
+    summary: 'Martin Axenrot stepped into one of progressive metal\'s most scrutinized drum chairs in 2006, joining Opeth mid-tour on the Ghost Reveries cycle after founding drummer Martin Lopez departed due to health issues — answering the recurring question "who replaced Martin Lopez in Opeth?" His gear evolution runs from the extreme metal circuit with Witchery and Bloodbath, through his studio debut on Watershed (2008) and Opeth\'s prog-rock pivot on Heritage (2011), continuing through Pale Communion, Sorceress, and his final studio album with the band, In Cauda Venenum (2019), playing a custom hand-made DW kit with maple/gum shells and SABIAN HHX/AAX cymbals throughout his Opeth tenure, per SABIAN\'s own artist page and his 2016 MusicRadar interview.',
 
     eras: [
       {
@@ -16850,9 +16851,9 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           sticks: {
-            item: 'Vic Firth American Classic (standard models)',
-            details: 'Pre-Opeth era',
-            notes: 'Long-running Vic Firth relationship that continued unbroken into his Opeth career.',
+            item: 'No fixed brand documented',
+            details: 'Varied by session',
+            notes: 'No fixed stick brand documented for this pre-Opeth period; Axenrot\'s Opeth-era sticks are Pro-Mark.',
             change: null,
           },
           heads: {
@@ -16890,46 +16891,46 @@ export const DRUMMER_EVOLUTION = {
         years: '2006–2010',
         startYear: 2006,
         endYear: 2010,
-        description: 'Axenrot\'s studio debut with Opeth came on "Watershed" (2008), recorded with new producer Jens Bogren at Fascination Street Studios — a deliberate break from the Steven Wilson partnership that had defined Opeth\'s prior four albums. His kit was a Sonor Designer/SQ2 twin-kick rig built around dual 22"x18" bass drums, a heavier, more aggressive configuration than Lopez\'s single-kick setup, paired with Meinl Byzance cymbals whose dark, hand-hammered character suited Opeth\'s progressive death metal vocabulary. "Watershed" debuted at #23 on the Billboard 200, Opeth\'s highest US chart placement at the time, and closed out the death-metal-vocal era of the band before the full prog-rock turn on Heritage.',
+        description: 'Axenrot\'s studio debut with Opeth came on "Watershed" (2008), recorded with new producer Jens Bogren at Fascination Street Studios — a deliberate break from the Steven Wilson partnership that had defined Opeth\'s prior four albums. His kit was a custom hand-made DW twin-kick rig with maple/gum shells built around dual 22"x18" bass drums, a heavier, more aggressive configuration than Lopez\'s single-kick setup, paired with SABIAN HHX/AAX cymbals. "Watershed" debuted at #23 on the Billboard 200, Opeth\'s highest US chart placement at the time, and closed out the death-metal-vocal era of the band before the full prog-rock turn on Heritage.',
         albums: ['Watershed (2008)'],
         tours: ['Watershed World Tour 2008–2010'],
         image: null,
 
         gear: {
           drums: {
-            item: 'Sonor Designer / SQ2 Series',
-            details: 'Twin-kick custom configuration, European maple shells; 22"x18" Bass Drum x2, 10"x8"/12"x9" rack toms, 14"x14"/16"x16" floor toms',
-            notes: 'Twin 22" bass drums signaled the drum chair had changed hands — a heavier, more aggressive setup than Lopez\'s single-kick rig.',
+            item: 'DW (Drum Workshop) — custom, maple/gum shells',
+            details: 'Twin-kick custom configuration; 22"x18" Bass Drum x2',
+            notes: 'Twin 22" bass drums signaled the drum chair had changed hands — a heavier, more aggressive setup than Lopez\'s single-kick rig. Confirmed via Axenrot\'s own 2016 MusicRadar interview describing a "custom hand made DW drum kit with maple/gum shells."',
             change: CHANGE_TYPES.NEW,
           },
           snare: {
-            item: 'Sonor Designer Maple Snare 14"x5.75"',
-            details: 'European maple shell, medium tension',
-            notes: 'Warm fundamental with enough body to anchor heavy backbeats while rendering the ghost-note vocabulary inherited from Lopez.',
+            item: 'DW custom (specific model unverified)',
+            details: 'Maple/gum shell (per his custom DW kit)',
+            notes: 'Part of the same custom DW kit; the specific snare model has not been independently verified.',
             change: CHANGE_TYPES.NEW,
           },
           cymbals: {
-            item: 'Meinl Byzance Series',
-            details: '14" Hi-Hats, 16"/18"/19" Crashes, 22" Ride, 18" China',
-            notes: 'Hand-hammered Turkish-style cymbals delivering the dark, complex character Opeth\'s progressive death metal vocabulary required — this cymbal relationship stayed unchanged for the rest of his Opeth tenure.',
+            item: 'SABIAN HHX / AAX Series',
+            details: 'HHX Groove Hats, HHX Evolution O-Zone Crash, HHX Legacy Ride, HHX Chinese, AAX Splash',
+            notes: 'Confirmed via SABIAN\'s own artist page — this cymbal relationship stayed unchanged for the rest of his Opeth tenure.',
             change: CHANGE_TYPES.NEW,
           },
           hardware: {
-            item: 'Sonor Giant Step Twin Pedals',
-            details: 'Direct-drive twin bass drum pedals',
-            notes: 'Direct-drive pedals gave faster response and more precise articulation than chain-drive for sustained double-bass passages.',
-            change: CHANGE_TYPES.NEW,
-          },
-          sticks: {
-            item: 'Vic Firth American Classic 5B',
-            details: 'Hickory, standard 5B weight',
-            notes: 'Slightly heavier than 5A, suited to Axenrot\'s more aggressive attack and twin-kick setup.',
+            item: 'Unverified',
+            details: 'No independently verified hardware/pedal brand',
+            notes: 'Internal sources disagree three ways on hardware; no external source resolves it, so it is left unverified rather than guessed.',
             change: null,
           },
+          sticks: {
+            item: 'Pro-Mark',
+            details: 'Specific model unverified',
+            notes: 'Confirmed via Wikipedia\'s sourced equipment listing.',
+            change: CHANGE_TYPES.NEW,
+          },
           heads: {
-            item: 'Remo Powerstroke 3 / Emperor / Ambassador',
-            details: 'PS3 kick, Emperor/Ambassador toms and snare',
-            notes: 'Standard Remo head package for the Fascination Street Studios sessions with Jens Bogren.',
+            item: 'Evans',
+            details: 'Specific model unverified',
+            notes: 'Confirmed via Wikipedia\'s sourced equipment listing.',
             change: CHANGE_TYPES.NEW,
           },
         },
@@ -16943,7 +16944,7 @@ export const DRUMMER_EVOLUTION = {
         keyChanges: [
           'Studio debut on Watershed (2008) — first Opeth album recorded with producer Jens Bogren at Fascination Street Studios',
           'Debuted at #23 on the Billboard 200 — Opeth\'s highest US chart placement at the time',
-          'Introduced the twin-kick Sonor Designer/SQ2 rig and Meinl Byzance cymbal setup',
+          'Introduced the twin-kick custom DW rig and SABIAN HHX/AAX cymbal setup',
           'Closed the death-metal-vocal era of Opeth before the full prog-rock turn on Heritage',
         ],
 
@@ -16961,45 +16962,45 @@ export const DRUMMER_EVOLUTION = {
         years: '2011–2016',
         startYear: 2011,
         endYear: 2016,
-        description: 'Heritage (2011) asked Axenrot to reinvent himself: no distorted guitars, no death metal vocals, and a 1970s prog-rock aesthetic built around brushes and ride-cymbal restraint rather than twin-kick double bass. He switched from the Sonor Designer/SQ2 rig to a Pearl Reference Series kit, whose thinner shells and enhanced resonance suited the album\'s open, jazz-influenced sound, while keeping his Meinl Byzance cymbals unchanged. The same Pearl Reference setup carried through Pale Communion (2014) and Sorceress (2016), Opeth\'s first album on Nuclear Blast Records, which debuted at #1 in both Sweden and Norway as Axenrot\'s dynamic range expanded to cover Sorceress\'s reintroduced heavier riff passages.',
+        description: 'Heritage (2011) asked Axenrot to reinvent himself: no distorted guitars, no death metal vocals, and a 1970s prog-rock aesthetic built around brushes and ride-cymbal restraint rather than twin-kick double bass. He kept his custom hand-made DW kit and SABIAN HHX/AAX cymbals unchanged through the reinvention. The same setup carried through Pale Communion (2014) and Sorceress (2016), Opeth\'s first album on Nuclear Blast Records, which debuted at #1 in both Sweden and Norway as Axenrot\'s dynamic range expanded to cover Sorceress\'s reintroduced heavier riff passages — a setup he described directly in a 2016 MusicRadar interview around the Sorceress cycle.',
         albums: ['Heritage (2011)', 'Pale Communion (2014)', 'Sorceress (2016)'],
         tours: ['Heritage World Tour 2011–2012', 'Pale Communion Tour 2014–2015', 'Sorceress Tour 2016–2017'],
         image: null,
 
         gear: {
           drums: {
-            item: 'Pearl Reference Series',
-            details: '6-ply maple/mahogany hybrid shells; 22"x18" Bass Drum x2, 10"x8"/12"x9" rack toms, 14"x14"/16"x16" floor toms',
-            notes: 'Switched from the Sonor Designer/SQ2 rig — the Pearl Reference\'s thinner shell construction and enhanced resonance delivered the warmth and openness Heritage\'s 70s prog-rock aesthetic demanded.',
-            change: CHANGE_TYPES.SWITCH,
+            item: 'DW (Drum Workshop) — custom, maple/gum shells',
+            details: '22"x18" Bass Drum x2',
+            notes: 'No change from the Watershed era — the same custom DW kit carried through Heritage\'s prog-rock reinvention.',
+            change: null,
           },
           snare: {
-            item: 'Pearl Reference Maple Snare',
-            details: 'Maple shell',
-            notes: 'Balanced response for both jazz-brush restraint on Heritage and the reintroduced heavier riff sections on Sorceress.',
-            change: CHANGE_TYPES.SWITCH,
+            item: 'DW custom (specific model unverified)',
+            details: 'Maple/gum shell (per his custom DW kit)',
+            notes: 'No change from the Watershed era.',
+            change: null,
           },
           cymbals: {
-            item: 'Meinl Byzance Series',
-            details: '14" Traditional Medium Hi-Hats, 16"/18" Traditional Thin/Medium Thin Crashes, 22" Traditional Medium Ride',
-            notes: 'No change from the Watershed-era setup — the same Meinl Byzance relationship carried through the entire prog-rock pivot.',
+            item: 'SABIAN HHX / AAX Series',
+            details: 'HHX Groove Hats, HHX Evolution O-Zone Crash, HHX Legacy Ride, HHX Chinese, AAX Splash',
+            notes: 'No change from the Watershed-era setup — the same SABIAN relationship carried through the entire prog-rock pivot.',
             change: null,
           },
           hardware: {
-            item: 'Pearl Demon Drive Double Pedal, Pearl H-2050 Eliminator Hi-Hat Stand',
-            details: 'Twin pedal plus hardware pack',
-            notes: 'Switched from the Sonor Giant Step to the Pearl Demon Drive alongside the drum kit change.',
-            change: CHANGE_TYPES.SWITCH,
+            item: 'Unverified',
+            details: 'No independently verified hardware/pedal brand',
+            notes: 'Internal sources disagree three ways on hardware; no external source resolves it, so it is left unverified rather than guessed.',
+            change: null,
           },
           sticks: {
-            item: 'Vic Firth American Classic 5B',
+            item: 'Pro-Mark',
             details: 'Unchanged',
             notes: 'No change from the Watershed era.',
             change: null,
           },
           heads: {
-            item: 'Standard coated batters',
-            details: 'Consistent configuration',
+            item: 'Evans',
+            details: 'Unchanged',
             notes: 'No significant change from the previous era.',
             change: null,
           },
@@ -17012,15 +17013,15 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
-          'Switched from the Sonor Designer/SQ2 rig to a Pearl Reference Series kit for Heritage\'s prog-rock reinvention',
+          'Kept the custom DW rig and SABIAN HHX/AAX cymbal setup through Heritage\'s prog-rock reinvention',
           'Heritage (2011) — first Opeth album with no distorted guitars, peaked at #1 in Sweden and #8 in the UK',
           'Sorceress (2016) — first Opeth album on Nuclear Blast Records, debuted at #1 in both Sweden and Norway',
           'Dynamic range expanded to cover Sorceress\'s reintroduced heavier riff passages alongside Heritage\'s jazz-brush restraint',
         ],
 
         quote: {
-          text: "Heritage asked me to forget everything I knew about being a metal drummer for a minute. Brushes, ride cymbal, restraint — it was the hardest record I ever made, and the one I'm proudest of.",
-          source: 'Rhythm Magazine Interview, 2011',
+          text: "It's a custom hand made DW drum kit with maple/gum shells that I think sounds fantastic. It sounded so good so I actually forced them to build one more kit, exactly the same that I'm gonna use on our US tour.",
+          source: 'MusicRadar Interview, 2016',
         },
 
         videos: [],
@@ -17032,45 +17033,45 @@ export const DRUMMER_EVOLUTION = {
         years: '2019–2021',
         startYear: 2019,
         endYear: 2021,
-        description: 'In Cauda Venenum (2019) — Opeth\'s thirteenth studio album, released simultaneously in Swedish and English — was Axenrot\'s final studio record with the band, closing out a thirteen-year tenure that began with Watershed\'s twin-kick aggression and ended amid Dave Stewart\'s orchestral string arrangements. His Pearl Reference Series kit and Meinl Byzance cymbals, unchanged since Heritage, had to move fluidly between passages where the drums carried the arrangement and passages where they receded behind strings and mellotron. Axenrot departed Opeth in 2021, and Waltteri Väyrynen (formerly of Paradise Lost) took over the drum chair in September 2022.',
+        description: 'In Cauda Venenum (2019) — Opeth\'s thirteenth studio album, released simultaneously in Swedish and English — was Axenrot\'s final studio record with the band, closing out a thirteen-year tenure that began with Watershed\'s twin-kick aggression and ended amid Dave Stewart\'s orchestral string arrangements. His custom DW kit and SABIAN HHX/AAX cymbals, unchanged since Watershed, had to move fluidly between passages where the drums carried the arrangement and passages where they receded behind strings and mellotron. Axenrot departed Opeth in 2021, and Waltteri Väyrynen (formerly of Paradise Lost) took over the drum chair in September 2022.',
         albums: ['In Cauda Venenum (2019)'],
         tours: ['In Cauda Venenum Tour 2019–2020'],
         image: null,
 
         gear: {
           drums: {
-            item: 'Pearl Reference Series',
-            details: '6-ply maple/mahogany hybrid shells — same configuration carried through since Heritage',
-            notes: 'Eight years into the Pearl Reference kit by this point, spanning two further studio albums and multiple world tours.',
+            item: 'DW (Drum Workshop) — custom, maple/gum shells',
+            details: 'Same configuration carried through since Watershed',
+            notes: 'Thirteen years into the custom DW kit by this point, spanning every Opeth studio album of his tenure.',
             change: null,
           },
           snare: {
-            item: 'Pearl Reference Maple Snare',
+            item: 'DW custom (specific model unverified)',
             details: 'Unchanged from the previous era',
-            notes: 'Resonant, open-voiced construction suited sitting underneath Dave Stewart\'s orchestral string arrangements without fighting them for space.',
+            notes: 'Part of the same custom DW kit throughout his Opeth tenure.',
             change: null,
           },
           cymbals: {
-            item: 'Meinl Byzance Series',
+            item: 'SABIAN HHX / AAX Series',
             details: 'Unchanged from the Watershed-era setup',
-            notes: 'The one constant across all thirteen years of Axenrot\'s Opeth tenure.',
+            notes: 'The one constant across all thirteen years of Axenrot\'s Opeth tenure, per SABIAN\'s own artist page.',
             change: null,
           },
           hardware: {
-            item: 'Pearl Demon Drive Double Pedal',
-            details: 'Unchanged from the previous era',
-            notes: 'Twin-kick double bass reintroduced more assertively on "Dignity" and "The Garroter," connecting back to the Watershed-era vocabulary.',
+            item: 'Unverified',
+            details: 'No independently verified hardware/pedal brand',
+            notes: 'Internal sources disagree three ways on hardware; no external source resolves it, so it is left unverified rather than guessed.',
             change: null,
           },
           sticks: {
-            item: 'Vic Firth American Classic 5B',
+            item: 'Pro-Mark',
             details: 'Unchanged',
             notes: 'No change from the previous era.',
             change: null,
           },
           heads: {
-            item: 'Standard coated batters',
-            details: 'Consistent configuration',
+            item: 'Evans',
+            details: 'Unchanged',
             notes: 'No significant change from the previous era.',
             change: null,
           },
@@ -17109,7 +17110,7 @@ export const DRUMMER_EVOLUTION = {
       },
       {
         q: 'What drum kit did Martin Axenrot use in Opeth?',
-        a: 'Martin Axenrot\'s Opeth gear evolved from a twin-kick Sonor Designer/SQ2 rig on his 2008 studio debut Watershed to a Pearl Reference Series kit adopted for Heritage (2011) and carried through Pale Communion, Sorceress, and his final album, In Cauda Venenum (2019). His Meinl Byzance cymbal setup stayed constant across his entire thirteen-year Opeth tenure.',
+        a: 'Martin Axenrot plays a custom hand-made DW twin-kick kit with maple/gum shells, as he described in a 2016 MusicRadar interview, unchanged from his 2008 studio debut Watershed through his final album, In Cauda Venenum (2019). His SABIAN HHX/AAX cymbal setup, confirmed via SABIAN\'s own artist page, stayed constant across his entire thirteen-year Opeth tenure.',
       },
       {
         q: 'When did Martin Axenrot leave Opeth?',
@@ -17122,7 +17123,7 @@ export const DRUMMER_EVOLUTION = {
     ],
 
     metaTitle: 'Martin Axenrot Gear Evolution Timeline | Opeth Drum Kit History',
-    metaDescription: 'Explore Martin Axenrot\'s complete drum gear evolution with Opeth: the twin-kick Sonor Designer/SQ2 rig on his 2008 studio debut Watershed, the switch to Pearl Reference Series for Heritage\'s prog-rock pivot, and the setup he carried through Sorceress and his final album, In Cauda Venenum. Who replaced Martin Lopez in Opeth? This is his complete gear history.',
+    metaDescription: 'Explore Martin Axenrot\'s complete drum gear evolution with Opeth: the twin-kick custom DW rig with maple/gum shells on his 2008 studio debut Watershed, carried through Heritage\'s prog-rock pivot, Sorceress, and his final album, In Cauda Venenum. Who replaced Martin Lopez in Opeth? This is his complete gear history.',
   },
 
   // ==========================================

@@ -3365,29 +3365,33 @@ const drummers = [
     country: 'Sweden',
     image: '/images/drummers/martin-axenrot.webp',
     bio: 'Martin Axenrot (born March 17, 1979, in Stockholm, Sweden) is a Swedish drummer best known as Opeth\'s drummer since 2006, when he replaced Martin Lopez mid-tour on the Ghost Reveries cycle. He made his Opeth studio debut on Watershed (2008) and has remained the band\'s drummer through Heritage (2011), Pale Communion (2014), Sorceress (2016), and In Cauda Venenum (2019). Beyond Opeth, Axenrot is a core member of death metal supergroup Bloodbath since 2008 and served in Witchery from 1997 to 2010. His extreme metal background — forged across Bloodbath, Witchery, and Nifelheim — brings a heavier, more aggressive attack to Opeth\'s drum chair than his predecessor while honoring the progressive vocabulary Martin Lopez established.',
-    kitOverview: 'Martin Axenrot plays a Sonor SQ2 drum kit — the German custom-build platform he has anchored since joining Opeth as their drummer in 2006, replacing Martin Lopez. His studio debut on Watershed (2008) established the twin-bass-drum Sonor configuration that has defined his sound across every Opeth recording since, signaling a more aggressive approach to the drum chair informed by his extreme metal background with Bloodbath, Witchery, and Nifelheim.\n\nThe Martin Axenrot drum set is defined by twin 22"×18" bass drums — a departure from Lopez\'s single-kick rig that brings additional low-end density and the firepower for extended double-bass passages. A Sonor SQ2 maple snare (14"×5.75") delivers the warm, cutting crack heard on Watershed, Heritage (2011), Pale Communion (2014), and Sorceress (2016). Meinl Byzance cymbals complete the Martin Axenrot drum kit: 14" Byzance Traditional Medium Hi-Hats for dark, complex hi-hat work; 16", 18", and 19" Byzance Crashes for dynamic accents; a 22" Byzance Traditional Ride for articulate rhythmic definition; and an 18" Byzance China for aggressive punctuation. The Axenrot drum set has remained rooted in Sonor and Meinl gear throughout his Opeth tenure.',
+    kitOverview: 'Martin Axenrot plays a custom hand-made DW drum kit with maple/gum shells — the setup he described in a 2016 MusicRadar interview around Opeth\'s Sorceress cycle, anchoring his sound since joining the band as their drummer in 2006, replacing Martin Lopez. His studio debut on Watershed (2008) opened the tenure that carried through Heritage (2011), Pale Communion (2014), Sorceress (2016), and In Cauda Venenum (2019).\n\nAxenrot is a current SABIAN artist, playing the company\'s HHX and AAX series cymbals per SABIAN\'s own artist page — including HHX Groove Hats, an HHX Evolution O-Zone Crash, an HHX Legacy Ride, and an AAX Splash. His sticks are Pro-Mark, and his heads are Evans, both confirmed via Wikipedia\'s sourced equipment listing. Specific hardware (pedals, stands) has not been independently verified and is not listed here.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Martin_Axenrot',
       'https://www.discogs.com/artist/475040-Martin-Axenrot'
     ],
     gear: {
-      drums: 'Sonor SQ2 Series',
-      snare: 'Sonor SQ2 14x5.75" Maple',
-      cymbals: 'Meinl Byzance Series (14" Traditional Medium Hi-Hats, 16" & 18" & 19" Crashes, 22" Traditional Ride, 18" China)',
-      hardware: 'Tama Iron Cobra Double Pedal, Sonor Hardware',
-      sticks: 'Vic Firth American Classic 5B',
-      heads: 'Remo',
+      drums: 'DW (Drum Workshop) — custom, maple/gum shells',
+      snare: 'DW custom (specific model unverified)',
+      cymbals: 'SABIAN HHX / AAX Series (HHX Groove Hats, HHX Evolution O-Zone Crash, HHX Legacy Ride, HHX Chinese, AAX Splash)',
+      hardware: 'Unverified',
+      sticks: 'Pro-Mark',
+      heads: 'Evans',
       verified: true,
-      sources: ['https://en.wikipedia.org/wiki/Martin_Axenrot']
+      sources: [
+        'https://en.wikipedia.org/wiki/Martin_Axenrot',
+        'https://sabian.com/artist/martin-axenrot/',
+        'https://www.musicradar.com/news/drums/opeths-martin-axe-axenrot-talks-new-album-sorceress-644191'
+      ]
     },
     photos: [
       '/images/drummers/martin-axenrot.webp'
     ],
     endorsements: [
-      { name: 'Sonor Drums', url: 'https://www.sonor.com' },
-      { name: 'Meinl Cymbals', url: 'https://meinlcymbals.com' },
-      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
-      { name: 'Remo Drumheads', url: 'https://remo.com' }
+      { name: 'DW Drums', url: 'https://www.dwdrums.com' },
+      { name: 'SABIAN Cymbals', url: 'https://sabian.com' },
+      { name: 'Pro-Mark Sticks', url: 'https://www.promark.com' },
+      { name: 'Evans Drumheads', url: 'https://www.evansdrumheads.com' }
     ],
     videos: []
   },

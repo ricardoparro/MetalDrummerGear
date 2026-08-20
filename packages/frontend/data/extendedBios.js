@@ -1587,13 +1587,13 @@ Dette served as Slayer's touring drummer during 1996-1997, filling in when Paul 
       { slug: 'witchery', period: '1997-2010', role: 'Drummer' }
     ],
     metaTitle: 'Martin Axenrot Drum Kit & Gear Setup — Opeth Drummer | MetalForge',
-    metaDescription: 'Complete biography of Martin Axenrot, Opeth\'s drummer since 2006 and member of death metal supergroup Bloodbath. Explore his succession of Martin Lopez, extreme metal background, drumming style, and Sonor/Meinl gear setup.',
+    metaDescription: 'Complete biography of Martin Axenrot, Opeth\'s drummer since 2006 and member of death metal supergroup Bloodbath. Explore his succession of Martin Lopez, extreme metal background, drumming style, and DW/SABIAN gear setup.',
     ogImage: '/images/drummers/martin-axenrot.webp',
-    keywords: ['opeth', 'progressive death metal', 'sonor drums', 'martin axenrot drum kit', 'martin axenrot opeth gear', 'bloodbath', 'swedish drummer', 'watershed'],
+    keywords: ['opeth', 'progressive death metal', 'dw drums', 'martin axenrot drum kit', 'martin axenrot opeth gear', 'bloodbath', 'swedish drummer', 'watershed'],
     relatedDrummers: ['martin-lopez', 'tomas-haake', 'mario-duplantier', 'danny-carey'],
-    summary: 'Martin Axenrot, Opeth\'s drummer since 2006 (succeeding Martin Lopez), also drums for death metal supergroup Bloodbath, known for his twin-bass-drum Sonor setup.',
-    lastUpdated: '2026-07-03',
-    imageAlt: 'Martin Axenrot performing live with Opeth behind his Sonor drum kit',
+    summary: 'Martin Axenrot, Opeth\'s drummer since 2006 (succeeding Martin Lopez), also drums for death metal supergroup Bloodbath, known for his custom DW kit and SABIAN cymbal setup.',
+    lastUpdated: '2026-08-20',
+    imageAlt: 'Martin Axenrot performing live with Opeth behind his DW drum kit',
     schemaType: 'Person',
     sections: {
       overview: {
@@ -1646,20 +1646,20 @@ Beyond Opeth, Axenrot has been a core member of death metal supergroup Bloodbath
       },
       gearHighlights: {
         title: 'Gear Highlights',
-        content: `Martin Axenrot plays a Sonor SQ2 drum kit, the German custom-build platform he has used since joining Opeth in 2006. His setup is defined by twin 22"x18" bass drums — a departure from Martin Lopez's single-kick rig that adds low-end density and firepower for extended double-bass passages.
+        content: `Martin Axenrot plays a custom hand-made DW drum kit with maple/gum shells, as he described in a 2016 MusicRadar interview around Opeth's Sorceress cycle — the setup he has used since joining Opeth in 2006.
 
 **Current Setup:**
-- **Drums**: Sonor SQ2 Series with twin 22"x18" bass drums
-- **Snare**: Sonor SQ2 14"x5.75" Maple
-- **Cymbals**: Meinl Byzance Series (14" Traditional Medium Hi-Hats, 16"/18"/19" Crashes, 22" Traditional Ride, 18" China)
-- **Hardware**: Tama Iron Cobra Double Pedal, Sonor Hardware
-- **Sticks**: Vic Firth American Classic 5B
-- **Heads**: Remo
+- **Drums**: DW (Drum Workshop), custom maple/gum shells
+- **Snare**: DW custom (specific model unverified)
+- **Cymbals**: SABIAN HHX / AAX Series (HHX Groove Hats, HHX Evolution O-Zone Crash, HHX Legacy Ride, HHX Chinese, AAX Splash)
+- **Hardware**: Unverified
+- **Sticks**: Pro-Mark
+- **Heads**: Evans
 
 **Notable Gear Choices:**
-- Twin-bass-drum configuration for heavier, more aggressive attack than his predecessor
-- Meinl Byzance cymbals for dark, complex tonal range across Opeth's dynamic material
-- Setup has remained rooted in Sonor and Meinl gear throughout his Opeth tenure`
+- Custom-built DW kit, confirmed in his own words in a MusicRadar interview
+- Current SABIAN artist, per SABIAN's own artist page
+- Pro-Mark sticks and Evans heads, per Wikipedia's sourced equipment listing`
       },
       trivia: {
         title: 'Trivia & Notes',
@@ -1668,22 +1668,22 @@ Beyond Opeth, Axenrot has been a core member of death metal supergroup Bloodbath
           'Also drums for death metal supergroup Bloodbath alongside members of Katatonia and Paradise Lost',
           'Spent 13 years in Swedish death metal band Witchery before joining Opeth',
           'Also played in black/thrash band Nifelheim earlier in his career',
-          'His twin-bass-drum Sonor setup marked a departure from Martin Lopez\'s single-kick configuration',
+          'Plays a custom hand-made DW kit with maple/gum shells, per his own account in a 2016 MusicRadar interview',
           'In Cauda Venenum (2019) was recorded in both Swedish and English versions'
         ]
       },
       faq: {
         title: 'Frequently Asked Questions',
         items: [
-          { q: 'What drum kit does Martin Axenrot play?', a: 'Martin Axenrot plays a Sonor SQ2 Series drum kit with twin 22"x18" bass drums, the configuration he has used throughout his tenure as Opeth\'s drummer since 2006.' },
+          { q: 'What drum kit does Martin Axenrot play?', a: 'Martin Axenrot plays a custom hand-made DW (Drum Workshop) drum kit with maple/gum shells, as he described in a 2016 MusicRadar interview around Opeth\'s Sorceress cycle.' },
           { q: 'Who is the current Opeth drummer?', a: 'Martin Axenrot is Opeth\'s drummer since 2006, when he replaced Martin Lopez mid-tour on the Ghost Reveries cycle.' },
-          { q: 'What cymbals does Martin Axenrot use?', a: 'Martin Axenrot uses Meinl Byzance Series cymbals, including 14" Traditional Medium Hi-Hats, 16"/18"/19" Crashes, a 22" Traditional Ride, and an 18" China.' },
+          { q: 'What cymbals does Martin Axenrot use?', a: 'Martin Axenrot is a current SABIAN artist, per SABIAN\'s own artist page, playing the HHX and AAX series — including HHX Groove Hats, an HHX Evolution O-Zone Crash, an HHX Legacy Ride, and an AAX Splash.' },
           { q: 'What bands has Martin Axenrot played in?', a: 'Martin Axenrot drums for Opeth (since 2006) and death metal supergroup Bloodbath (since 2008), and previously played in Witchery (1997-2010) and Nifelheim.' },
           { q: 'When did Martin Axenrot join Opeth?', a: 'Martin Axenrot joined Opeth in 2006, replacing Martin Lopez, and made his studio debut with the band on Watershed (2008).' },
-          { q: 'What drum set does Martin Axenrot use?', a: 'Martin Axenrot\'s drum set is a Sonor SQ2 Series build with twin 22"x18" bass drums — a departure from Martin Lopez\'s single-kick rig — anchored by a Sonor SQ2 14"x5.75" maple snare and Meinl Byzance Series cymbals.' },
-          { q: 'What snare drum does Martin Axenrot use?', a: 'Martin Axenrot plays a Sonor SQ2 14"x5.75" maple snare drum.' },
-          { q: 'What pedals does Martin Axenrot use?', a: 'Martin Axenrot drives his twin-bass-drum Sonor SQ2 kit with a Tama Iron Cobra double pedal.' },
-          { q: 'What sticks does Martin Axenrot use?', a: 'Martin Axenrot plays Vic Firth American Classic 5B drumsticks.' }
+          { q: 'What drum set does Martin Axenrot use?', a: 'Martin Axenrot\'s drum set is a custom hand-made DW build with maple/gum shells, paired with SABIAN HHX/AAX cymbals.' },
+          { q: 'What snare drum does Martin Axenrot use?', a: 'Martin Axenrot\'s snare is part of his custom DW kit; the specific snare model has not been independently verified.' },
+          { q: 'What pedals does Martin Axenrot use?', a: 'Martin Axenrot\'s hardware and pedal setup has not been independently verified.' },
+          { q: 'What sticks does Martin Axenrot use?', a: 'Martin Axenrot plays Pro-Mark drumsticks, per Wikipedia\'s sourced equipment listing.' }
         ]
       },
       sources: {
@@ -1691,8 +1691,9 @@ Beyond Opeth, Axenrot has been a core member of death metal supergroup Bloodbath
         items: [
           { name: 'Opeth Official', url: 'https://www.opeth.com' },
           { name: 'Wikipedia: Martin Axenrot', url: 'https://en.wikipedia.org/wiki/Martin_Axenrot' },
-          { name: 'Discogs: Martin Axenrot', url: 'https://www.discogs.com/artist/475040-Martin-Axenrot' },
-          { name: 'Modern Drummer Magazine', url: 'https://www.moderndrummer.com' }
+          { name: 'SABIAN Artist Page: Martin Axenrot', url: 'https://sabian.com/artist/martin-axenrot/' },
+          { name: 'MusicRadar: Opeth\'s Martin Axenrot Talks New Album Sorceress', url: 'https://www.musicradar.com/news/drums/opeths-martin-axe-axenrot-talks-new-album-sorceress-644191' },
+          { name: 'Discogs: Martin Axenrot', url: 'https://www.discogs.com/artist/475040-Martin-Axenrot' }
         ]
       }
     }

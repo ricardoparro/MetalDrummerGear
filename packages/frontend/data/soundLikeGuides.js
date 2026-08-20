@@ -13601,7 +13601,7 @@ This guide breaks down the technique, gear, and practice approach behind Cruz's 
     genre: 'Modern Metal / Technical Death Metal',
     priority: 52,
     title: "How to Sound Like Alex Bent: Complete Gear & Technique Guide",
-    description: "Master Alex Bent's technical precision behind Trivium's modern metal catalog. Learn his blast beat clarity, Pearl Reference setup, Meinl Byzance cymbals, and the practice approach behind The Sin and the Sentence and In the Court of the Dragon.",
+    description: "Master Alex Bent's technical precision behind Trivium's modern metal catalog. Learn his blast beat clarity, TAMA Starclassic Maple setup, Zildjian K Custom Hybrid cymbals, and the practice approach behind The Sin and the Sentence and In the Court of the Dragon.",
     seoKeywords: ['alex bent drumming', 'how to sound like alex bent', 'trivium drums', 'alex bent gear', 'alex bent technique', 'alex bent drum kit', 'trivium drummer'],
     ogImage: '/images/guides/alex-bent-guide.webp',
     datePublished: '2026-07-01',
@@ -13615,7 +13615,7 @@ This guide breaks down the technique, gear, and practice approach behind Cruz's 
 
 What separates Bent from a pure technical death metal drummer is restraint. He can execute blast beats and intricate fills with extreme metal clarity, but he never loses sight of the song. Listen to "The Sin and the Sentence" or "In the Court of the Dragon" and you'll hear a drummer capable of blistering speed who still locks tightly into Trivium's riff-driven songwriting rather than showing off for its own sake.
 
-This guide breaks down the technique, gear, and practice system behind Bent's sound — from his Pearl Reference kit and Meinl Byzance cymbals to the blast-beat control that defined Trivium's most technically ambitious era.`,
+This guide breaks down the technique, gear, and practice system behind Bent's sound — from his TAMA Starclassic Maple kit and Zildjian K Custom Hybrid cymbals to the blast-beat control that defined Trivium's most technically ambitious era.`,
       keyPoints: [
         "Trivium drummer from 2017 to 2025 across four studio albums",
         "Technical death metal background with Brain Drill, Arkaik, and Battlecross",
@@ -13668,39 +13668,39 @@ This guide breaks down the technique, gear, and practice system behind Bent's so
     gear: {
       title: "Bent's Gear Setup",
       drumKit: {
-        brand: 'Pearl',
-        model: 'Pearl Reference Series',
-        shells: 'Maple/Birch',
+        brand: 'TAMA',
+        model: 'TAMA Starclassic Maple',
+        shells: 'Maple',
         finish: 'Matte Black',
         config: {
           kick: '22" x 18" Bass Drums (x2)',
-          snare: '14" x 6.5" Pearl Reference Maple/Birch Snare',
-          toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom'],
-          floorToms: ['16" x 16" Floor Tom']
+          snare: '14" x 6.5" TAMA Starclassic Maple Snare',
+          toms: ['8" x 7" Rack Tom', '10" x 8" Rack Tom', '12" x 9" Rack Tom'],
+          floorToms: ['16" x 16" Floor Tom', '18" x 16" Floor Tom']
         },
-        description: "Pearl's Reference Series maple/birch hybrid shells give Bent a full, articulate low end with the attack needed to cut through Trivium's dense guitar layering during technical passages.",
-        affiliateNote: "Pearl Export or Pearl Decade Maple provide a similar shell character at a lower price point."
+        description: "TAMA's Starclassic Maple shells give Bent a full, articulate low end with the attack needed to cut through Trivium's dense guitar layering during technical passages.",
+        affiliateNote: "TAMA Superstar or TAMA Imperialstar provide a similar shell character at a lower price point."
       },
       snare: {
-        brand: 'Pearl',
-        model: 'Pearl Reference 14" x 6.5" Maple/Birch',
+        brand: 'TAMA',
+        model: 'TAMA Starclassic Maple 14" x 6.5"',
         size: '14" x 6.5"',
-        shell: 'Maple/Birch Hybrid',
-        description: "The hybrid shell delivers a full, cutting crack with enough body to anchor both blast beat sections and Trivium's more melodic, mid-tempo passages.",
-        alternative: "Pearl Masters Maple/Birch or Tama Starclassic Bubinga for similar hybrid tone"
+        shell: 'Maple',
+        description: "The maple shell delivers a full, cutting crack with enough body to anchor both blast beat sections and Trivium's more melodic, mid-tempo passages.",
+        alternative: "TAMA Superstar Maple or Pearl Masters Maple for similar shell tone"
       },
       cymbals: {
-        brand: 'Meinl',
-        series: 'Meinl Byzance Brilliant Series',
+        brand: 'Zildjian',
+        series: 'Zildjian K Custom Hybrid',
         setup: [
-          { type: 'Hi-Hats', model: '14" Byzance Brilliant Medium Hi-Hats', notes: 'Bright, articulate response' },
-          { type: 'Crash', model: '16" Byzance Brilliant Medium Thin Crash', notes: 'Fast-decaying accent' },
-          { type: 'Crash', model: '18" Byzance Brilliant Medium Thin Crash', notes: 'Full-bodied accent crash' },
-          { type: 'Crash', model: '19" Byzance Brilliant Medium Thin Crash', notes: 'Explosive climactic accent' },
-          { type: 'Ride', model: '21" Byzance Brilliant Medium Ride', notes: 'Clear bell for technical riding' },
-          { type: 'China', model: '18" Byzance Brilliant China', notes: 'Trashy accent for breakdowns' }
+          { type: 'Hi-Hats', model: '14" K Custom Hybrid Hi-Hats', notes: 'Bright, articulate response' },
+          { type: 'Crash', model: '16" K Custom Hybrid Crash', notes: 'Fast-decaying accent' },
+          { type: 'Crash', model: '18" K Custom Hybrid Crash', notes: 'Full-bodied accent crash' },
+          { type: 'Crash', model: '19" K Custom Hybrid Crash', notes: 'Explosive climactic accent' },
+          { type: 'Ride', model: '21" K Custom Hybrid Ride', notes: 'Clear bell for technical riding' },
+          { type: 'China', model: '18" K Custom Hybrid China', notes: 'Trashy accent for breakdowns' }
         ],
-        description: "The Byzance Brilliant finish gives Bent's cymbals a bright, cutting sheen that stays articulate through Trivium's layered, high-gain guitar mix."
+        description: "The K Custom Hybrid finish gives Bent's cymbals a bright, cutting sheen that stays articulate through Trivium's layered, high-gain guitar mix."
       },
       pedals: {
         brand: 'Axis Percussion',
@@ -13734,7 +13734,7 @@ This guide breaks down the technique, gear, and practice system behind Bent's so
       snare: {
         tension: "Medium-high",
         muffling: "Light",
-        description: "The hybrid maple/birch shell is tuned for a full, cutting crack that projects clearly through Trivium's dense guitar layers without choking the shell's natural resonance.",
+        description: "The maple shell is tuned for a full, cutting crack that projects clearly through Trivium's dense guitar layers without choking the shell's natural resonance.",
         tip: "Tune the batter head a few turns above finger-tight and keep muffling minimal to preserve the shell's natural crack."
       },
       toms: {
@@ -13780,26 +13780,26 @@ This guide breaks down the technique, gear, and practice system behind Bent's so
       budget: {
         price: "$1,000",
         label: "Starter Setup",
-        kit: "Pearl Export ($700)",
-        cymbals: "Meinl HCS Pack ($200)",
-        pedals: "Pearl P930 Double Pedal ($130)",
+        kit: "TAMA Imperialstar ($700)",
+        cymbals: "Zildjian ZBT Pack ($200)",
+        pedals: "TAMA Speed Cobra Double Pedal ($130)",
         sticks: "Vic Firth 5B ($10)",
-        notes: "Pearl's Export shells share the same brand DNA as Bent's Reference Series at a fraction of the cost."
+        notes: "TAMA's Imperialstar shares the same brand DNA as Bent's Starclassic Maple at a fraction of the cost."
       },
       mid: {
         price: "$3,200",
         label: "Intermediate Setup",
-        kit: "Pearl Decade Maple ($1,900)",
-        cymbals: "Meinl Byzance Extra Dry partial set ($900)",
+        kit: "TAMA Superstar Maple ($1,900)",
+        cymbals: "Zildjian K Custom Hybrid partial set ($900)",
         pedals: "Tama Speed Cobra Double ($350)",
         sticks: "Vic Firth 5B ($10)",
-        notes: "Getting close to Bent's actual tone with genuine Meinl Byzance cymbals in the mix."
+        notes: "Getting close to Bent's actual tone with genuine Zildjian K Custom Hybrid cymbals in the mix."
       },
       pro: {
         price: "$5,500+",
         label: "Professional Setup",
-        kit: "Pearl Reference Series ($3,000+)",
-        cymbals: "Full Meinl Byzance Brilliant selection ($1,800+)",
+        kit: "TAMA Starclassic Maple ($3,000+)",
+        cymbals: "Full Zildjian K Custom Hybrid selection ($1,800+)",
         pedals: "Axis Percussion Double Pedal ($600)",
         heads: "Full Remo setup ($150)",
         notes: "Touring and recording-ready setup matching Bent's Trivium-era rig."
@@ -13812,7 +13812,7 @@ This guide breaks down the technique, gear, and practice system behind Bent's so
       },
       {
         question: "What gear does Alex Bent use?",
-        answer: "Bent plays a Pearl Reference Series kit with a 14\" x 6.5\" maple/birch snare, Meinl Byzance Brilliant Series cymbals, an Axis Percussion double pedal, and Vic Firth 5B sticks."
+        answer: "Bent plays a TAMA Starclassic Maple kit with a 14\" x 6.5\" maple snare, Zildjian K Custom Hybrid cymbals, an Axis Percussion double pedal, and Vic Firth 5B sticks."
       },
       {
         question: "What was Alex Bent's background before Trivium?",
@@ -13831,7 +13831,7 @@ This guide breaks down the technique, gear, and practice system behind Bent's so
       drummerProfile: '/drummer/alex-bent',
       similarDrummers: ['Matt Halpern', 'Jay Weinberg', 'Chris Adler'],
       relatedGuides: ['how-to-sound-like-matt-halpern', 'how-to-sound-like-jay-weinberg'],
-      gearPages: ['/gear/drums', '/brands/pearl', '/brands/meinl']
+      gearPages: ['/gear/drums', '/brands/tama', '/brands/zildjian']
     },
     licksUrl: '/drummers/alex-bent/licks',
     relatedArticles: [

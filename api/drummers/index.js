@@ -2821,7 +2821,7 @@ const drummers = [
     country: 'USA',
     image: '/images/drummers/richard-christy.webp',
     bio: 'Richard Allan Christy (born 1974) is an American drummer known for his work with Death (1996-2001), Iced Earth (2003-2004), and his own band Charred Walls of the Damned. He recorded two albums with Death: "The Sound of Perseverance" and the live album "Live in L.A." His work with Chuck Schuldiner showcased his incredible technical abilities and musicality. Christy is known for his speed, precision, and ability to play complex progressive death metal patterns. Beyond drumming, he is also known for his work on The Howard Stern Show as a staff member since 2004.',
-    kitOverview: 'Richard Christy plays a Tama Starclassic Maple drum kit — the all-maple shell pack he used to record Death\'s technical, genre-defining swan song "The Sound of Perseverance" alongside Chuck Schuldiner. At the heart of the Richard Christy drum set is a Tama Starclassic 14x6.5" maple snare, warm enough to sit underneath Death\'s intricate, progressive arrangements while still delivering the crack needed for his rapid-fire blast beats and complex time-signature work.\n\nSabian AAX and HHX Series cymbals define the voice of the Richard Christy drum kit: 14" AAX Stage Hi-Hats for tight control through odd-meter passages; 18" and 19" AAX X-Plosion Crashes for sharp, fast-decaying accents; a 21" HHX Raw Bell Dry Ride for dark, articulate timekeeping; and an 18" AAX Chinese cymbal for abrupt punctuation on technical fills. A Tama Iron Cobra 900 double pedal gives Christy the speed and precision behind his double-bass patterns, a technique he carried from Death into Iced Earth and his own progressive death metal band, Charred Walls of the Damned.\n\nVic Firth American Classic 5A sticks and Evans drumheads round out the Richard Christy drum set — a comparatively lightweight, classic-diameter stick choice that favors the finesse and articulation his technical style demands. Christy\'s Tama and Sabian setup has remained the backbone of his studio and live sound since his earliest recordings with Chuck Schuldiner.',
+    kitOverview: 'Richard Christy played a Pearl Custom Z drum kit — a nine-piece Canadian Birds Eye Maple shell pack he used to record Death\'s technical, genre-defining swan song "The Sound of Perseverance" alongside Chuck Schuldiner. At the heart of the Richard Christy drum set is a Pearl Custom Z 14x6.5" maple snare, warm enough to sit underneath Death\'s intricate, progressive arrangements while still delivering the crack needed for his rapid-fire blast beats and complex time-signature work.\n\nSabian AAX and HHX Series cymbals define the voice of the Richard Christy drum kit: 14" AAX Stage Hi-Hats for tight control through odd-meter passages; 18" and 19" AAX X-Plosion Crashes for sharp, fast-decaying accents; a 21" HHX Raw Bell Dry Ride for dark, articulate timekeeping; and an 18" AAX Chinese cymbal for abrupt punctuation on technical fills. An Axis A Longboard double pedal gives Christy the speed and precision behind his double-bass patterns, a technique he carried from Death into Iced Earth and his own progressive death metal band, Charred Walls of the Damned.\n\nVic Firth American Classic 5A sticks and Evans drumheads round out the Richard Christy drum set — a comparatively lightweight, classic-diameter stick choice that favors the finesse and articulation his technical style demands. Christy\'s Pearl and Sabian setup has remained the backbone of his studio and live sound since his earliest recordings with Chuck Schuldiner.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Richard_Christy',
       'https://www.instagram.com/richardchristy29/',
@@ -2829,20 +2829,24 @@ const drummers = [
       'https://www.allmusic.com/artist/richard-christy-mn0000365476'
     ],
     gear: {
-      drums: 'Tama Starclassic Maple',
-      snare: 'Tama Starclassic 14x6.5" Maple',
+      drums: 'Pearl Custom Z',
+      snare: 'Pearl Custom Z 14x6.5" Maple',
       cymbals: 'Sabian AAX & HHX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 18" AAX Chinese)',
-      hardware: 'Tama Iron Cobra 900 Double Pedal',
+      hardware: 'Axis A Longboard Double Pedal',
       sticks: 'Vic Firth American Classic 5A',
       heads: 'Evans',
       verified: true,
-      sources: ['https://www.tama.com/usa/artists/', 'https://sabian.com/artists']
+      sources: [
+        'https://sickdrummermagazine.com/the-drummers/sick-drummer-hall-of-fame/richard-christy/',
+        'https://sickdrummermagazine.com/the-drummers/sick-drummer-hall-of-fame/richard-christy-talks-all-about-death/',
+        'https://sabian.com/artists'
+      ]
     },
     photos: [
       '/images/drummers/richard-christy.webp' // Original: https://upload.wikimedia.org/wikipedia/commons/8/8f/Sal%2C_Leyla_%26_Richard_Christy_%284902556102%29.jpg
     ],
     endorsements: [
-      { name: 'Tama Drums', url: 'https://www.tama.com' },
+      { name: 'Pearl Drums', url: 'https://pearldrum.com' },
       { name: 'Sabian Cymbals', url: 'https://www.sabian.com' },
       { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
       { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }

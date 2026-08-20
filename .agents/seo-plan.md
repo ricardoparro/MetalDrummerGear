@@ -5559,3 +5559,44 @@ Group C and D fully cleared (9 of 11 confirmed and filed/queued). Only pete-sand
 2. File jaska-raatikainen and richard-christy-missing-era once the bank has room (both confirmed, just deprioritized this run).
 3. Get a second corroborating source for pete-sandoval (era-matched interview/photo) and bill-ward (exact Zildjian→Paiste cutover year) before filing either.
 4. Once pete-sandoval/bill-ward resolve, log a `learned-patterns.md` entry closing out the `drummerEvolution.js` systemic sweep, featuring the richard-christy reversal as the headline lesson.
+
+---
+
+## 2026-08-20 (Week 34, Thursday, later run) — Closed out drummerEvolution.js sweep's last 4 queued/ambiguous items
+
+### Bank check
+`gh issue list --state open --label seo-proposal` returned 11 at run start (8 already-`ai-fix`-promoted #5905-5912 from the prior run + 3 standing umbrellas). `ai-fix` backlog 28 open. Today is Thursday — drum-chair Monday sweep not due (next 2026-08-24). Well under the 45 cap → cleared to file up to 8 net-new.
+
+### What was checked
+Dispatched 6 parallel agents to close out the remaining items from the prior run's queue: the last confirmed-but-deprioritized items (jaska-raatikainen, richard-christy-missing-era), the 2 genuinely-ambiguous cases (pete-sandoval, bill-ward) with instructions to find one more corroborating source each, and a fresh check on this week's sole GSC content-gap row (`joey jordison drum kit`, 68 impr, 1.47% CTR, pos 9.8).
+
+**Results:**
+- **joey-jordison drum kit CTR gap**: NOT filed. 6-week `gsc-history` shows intermittent clicks (0,0,1,0,0,0,1) — the established oscillating-noise pattern (learned-patterns.md CTR-gap-trio rule), not a fresh regression. Live-audited `/api/meta/drummer/joey-jordison`: title, meta, and FAQ schema already cover every keyword variant ("drum set"/"drum kit"/"instruments") across 4 prior closed fixes (#2544/#2867/#3059/#3412) — no unaddressed narrow gap exists. This is the 2nd time this exact query has been reconfirmed as noise (see 08-18 entry in learned-patterns.md).
+- **jaska-raatikainen**: bug was actually mislocated in the original queue note — it's in `drummerComparisons.js` (lines 1071/1078, `igor-cavalera-vs-jaska-raatikainen` entry), NOT `drummerEvolution.js` (which was already clean). Filed **#5927**.
+- **richard-christy missing era**: confirmed — `drummerEvolution.js`'s eras array stops at 2003-2007 Iced Earth, omits the real 2009-present Charred Walls of the Damned chapter. Filed **#5928**, scoped to avoid duplicating #5906's in-flight Tama→Pearl brand reversal.
+- **bill-ward**: RESOLVED (previously ambiguous). Independent research (Modern Drummer, Blabbermouth, a Reverb listing titled "...used by Bill Ward 1971-1978", Equipboard, billward.com) converges on Super Zyn (1968-1971) → Zildjian (1971-1978) — **no Paiste anywhere in the classic era**, contradicting all 3 site files (`drummerEvolution.js`, `extendedBios.js`, `albumArticles/bill-ward.js`). Filed **#5929**.
+- **pete-sandoval**: still unresolved on the original gear question (only one thin 2006 fan-site quote exists, no second reliable source found) — **not filed**. But the research surfaced a bigger, more valuable finding: `drummerEvolution.js` implies Sandoval recorded *Illud Divinum Insanus* (2011), contradicting the site's own (correct) Tim Yeung data and 2 dated 2010 band-statement sources (Zero Tolerance, Blabbermouth) confirming Yeung recorded it while Sandoval recovered from back surgery. This is the same failure class as #4160 (Kairos lesson). Filed **#5930**.
+
+### Proposals filed this run (4)
+1. **#5927** — Jaska Raatikainen: `drummerComparisons.js` states Sabian cymbals vs. 10-vs-1 verified Zildjian majority.
+2. **#5928** — Richard Christy: `drummerEvolution.js` eras array missing his real 2009-present Charred Walls of the Damned era.
+3. **#5929** — Bill Ward: classic-era cymbals fabricated as Paiste across 3 files; verified record is Super Zyn→Zildjian, no Paiste until 1978.
+4. **#5930** — Pete Sandoval: `drummerEvolution.js` wrongly implies he recorded Illud Divinum Insanus (2011); verified drummer was Tim Yeung.
+
+All 4 verified-only, freeze-compliant (zero new pages), dedup-checked against all-state issues before filing.
+
+### `drummerEvolution.js` systemic sweep status — effectively CLOSED
+Every item from the original 32-contradiction backlog (found 08-19) is now filed or explicitly resolved: pete-sandoval's gear-brand question remains genuinely unresolved (single thin source, logged here for any future rotation that finds a second source) but is superseded in value by the Illud Divinum Insanus finding above. **Recommend CEO log a `learned-patterns.md` closing entry** once #5880-5930 series finishes shipping — headline lessons: (1) the richard-christy reversal (#5906, internal-consistency-only fixes can entrench a fabrication), (2) the abe-cunningham case (3 sources agreeing isn't a reliable trust signal), (3) this run's Illud Divinum Insanus case (a drummer-attribution error, not just a brand error, hiding inside the same data file — worth a dedicated future grep sweep of `drummerEvolution.js` for other album-credit claims that might have the same "wrong person recorded this" shape, given 2 confirmed instances now: Kairos/#4160 and Illud Divinum Insanus/#5930).
+
+### Open proposals waiting on CEO triage
+- #5927-5930 (filed this run, 0d old)
+- #5905-5912 (filed earlier today, already promoted to `ai-fix` per decisions-log)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers only.
+- Bank now 15 (4 fresh + 8 already-promoted-but-still-labeled + 3 umbrellas — true untriaged: 4).
+
+### Next run
+1. Watch #5927-5930 through CEO triage; #5930 (Pete Sandoval / Tim Yeung) is the highest-value given the Kairos-class attribution-error precedent.
+2. Worth a future dedicated pass: grep `drummerEvolution.js` (and siblings `albumArticles/*.js`, `drummerComparisons.js`) specifically for album-credit claims (not just brand claims) on drummers who had a documented touring/session stand-in during that album's window — the Illud Divinum Insanus case suggests this may not be a one-off.
+3. If a second reliable source for pete-sandoval's 2000-2011 gear brand ever surfaces, file the deferred fix; otherwise leave unresolved indefinitely (verified-only rule — do not force a verdict from one thin source).
+4. L1/L2/L3 snapshots still the 08-17 weekly refresh (L2 49/100) — next weekly refresh due ~08-24.
+5. Metrics unchanged this run (213 users/268 sessions/514 views 7d; GSC 5,270 impr/120 clicks/2.28% CTR/pos 10.1) — audit surfaces (robots.txt, /llms/ coverage) unchanged from prior runs, not re-verified this run to save cycles.

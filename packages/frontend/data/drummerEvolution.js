@@ -15127,7 +15127,7 @@ export const DRUMMER_EVOLUTION = {
     band: 'Trivium / Arkaik',
     totalYearsActive: '2011-Present',
     profileImage: '/images/drummers/alex-bent.webp',
-    summary: 'A technical death metal prodigy from Oakland who cut his teeth in the underground with Arkaik and Brain Drill before producer Mark Lewis recommended him to Trivium in 2017. Alex Bent\'s gear evolution runs from touring-grade tech-death kits to a matte-black Pearl Reference Series rig that carried four Trivium albums, then back to the underground with Arkaik and Dragonlord after his October 2025 departure.',
+    summary: 'A technical death metal prodigy from Oakland who cut his teeth in the underground with Arkaik and Brain Drill before producer Mark Lewis recommended him to Trivium in 2017. Alex Bent\'s gear evolution runs from touring-grade tech-death kits to a TAMA Starclassic Maple rig that carried four Trivium albums, then back to the underground with Arkaik and Dragonlord after his October 2025 departure.',
 
     eras: [
       {
@@ -15207,28 +15207,28 @@ export const DRUMMER_EVOLUTION = {
         years: '2017–2020',
         startYear: 2017,
         endYear: 2020,
-        description: 'Producer Mark Lewis recommended the 24-year-old Bent to Trivium, and his 2017 arrival was confirmed immediately by The Sin and the Sentence — a critical comeback record that put his tech-death precision on a much bigger stage. His touring-scale Pearl Reference Series kit in matte black and a switch to Meinl Byzance Brilliant cymbals defined the sound of his first two Trivium albums.',
+        description: 'Producer Mark Lewis recommended the 24-year-old Bent to Trivium, and his 2017 arrival was confirmed immediately by The Sin and the Sentence — a critical comeback record that put his tech-death precision on a much bigger stage. His touring-scale TAMA Starclassic Maple kit and a switch to Zildjian K Custom Hybrid cymbals defined the sound of his first two Trivium albums.',
         albums: ['The Sin and the Sentence (2017)', 'What the Dead Men Say (2020)'],
         tours: ['The Sin and the Sentence World Tour', 'Trivium European and US headline runs 2018–2019'],
         image: null,
 
         gear: {
           drums: {
-            item: 'Pearl Reference Series (Matte Black)',
-            details: 'Maple/birch hybrid: double 22"x18" bass drums, 10"/12" rack toms, 14"/16" floor toms',
+            item: 'TAMA Starclassic Maple',
+            details: 'Double 22"x18" bass drums, 8"/10"/12" rack toms, 16"/18" floor toms, Power Tower System',
             notes: 'A minimalist, efficient configuration built for translating tech-death precision to arena-scale power.',
             change: CHANGE_TYPES.SWITCH,
           },
           snare: {
-            item: 'Pearl Reference 14"x6.5"',
-            details: 'Maple/birch hybrid shell',
+            item: 'TAMA Starclassic Maple 14"x6.5"',
+            details: 'Maple shell',
             notes: 'Tuned medium-high for articulation at speed — inherited ghost-note vocabulary from his tech-death background.',
             change: CHANGE_TYPES.SWITCH,
           },
           cymbals: {
-            item: 'Meinl Byzance Brilliant Series',
+            item: 'Zildjian K Custom Hybrid',
             details: '14" hi-hats, 16"/18" crashes, 21" ride, 18" China',
-            notes: 'New Meinl Byzance endorsement — a more refined, musical tone than the raw underground cymbals of the tech-death years.',
+            notes: 'New Zildjian endorsement — a more refined, musical tone than the raw underground cymbals of the tech-death years.',
             change: CHANGE_TYPES.SWITCH,
           },
           hardware: {
@@ -15259,8 +15259,8 @@ export const DRUMMER_EVOLUTION = {
 
         keyChanges: [
           'Joined Trivium in 2017 at producer Mark Lewis\'s recommendation',
-          'Switched to Pearl Reference Series in matte black',
-          'New Meinl Byzance Brilliant cymbal endorsement',
+          'Switched to TAMA Starclassic Maple',
+          'New Zildjian K Custom Hybrid cymbal endorsement',
           'The Sin and the Sentence (2017) widely received as Trivium\'s critical comeback',
         ],
 
@@ -15278,34 +15278,34 @@ export const DRUMMER_EVOLUTION = {
         years: '2021–2025',
         startYear: 2021,
         endYear: 2025,
-        description: 'Bent\'s Pearl and Meinl setup matured across In the Court of the Dragon (2021) and Struck Dead (2025), expanding to a seven-piece Byzance Brilliant cymbal arsenal with a splash added for quick accent work. After eight years and four albums, Trivium announced Bent\'s departure in October 2025 — ending one of modern metal\'s most technically accomplished drum chairs.',
+        description: 'Bent\'s TAMA and Zildjian setup matured across In the Court of the Dragon (2021) and Struck Dead (2025), expanding to a seven-piece K Custom Hybrid cymbal arsenal with a splash added for quick accent work. After eight years and four albums, Trivium announced Bent\'s departure in October 2025 — ending one of modern metal\'s most technically accomplished drum chairs.',
         albums: ['In the Court of the Dragon (2021)', 'Struck Dead (2025)'],
         tours: ['In the Court of the Dragon World Tour 2021–2022', 'Struck Dead Tour 2025'],
         image: null,
 
         gear: {
           drums: {
-            item: 'Pearl Reference Series (Matte Black)',
+            item: 'TAMA Starclassic Maple',
             details: 'Unchanged double bass configuration',
             notes: 'Consistent kit through the back half of his Trivium tenure.',
             change: null,
           },
           snare: {
-            item: 'Pearl Reference 14"x6.5"',
-            details: 'Maple/birch hybrid',
+            item: 'TAMA Starclassic Maple 14"x6.5"',
+            details: 'Maple shell',
             notes: 'Same snare that defined the entire Trivium era.',
             change: null,
           },
           cymbals: {
-            item: 'Meinl Byzance Brilliant Series (expanded)',
+            item: 'Zildjian K Custom Hybrid (expanded)',
             details: '14" hi-hats, 16"/18"/19" crashes, 21" ride, 18" China, 10" splash',
-            notes: 'Expanded to a full seven-piece Byzance Brilliant setup — added a 19" crash and 10" splash for the increased dynamic range of the later Trivium catalog.',
+            notes: 'Expanded to a full seven-piece K Custom Hybrid setup — added a 19" crash and 10" splash for the increased dynamic range of the later Trivium catalog.',
             change: CHANGE_TYPES.UPGRADE,
           },
           hardware: {
             item: 'Axis A21 Longboard Double Pedal',
             details: 'Unchanged direct drive',
-            notes: 'Pearl H-2050 Eliminator hi-hat stand and Pearl D-3500BR Roadster throne rounded out the hardware for extended tours.',
+            notes: 'TAMA Roadpro hi-hat stand and Iron Cobra hardware rounded out the setup for extended tours.',
             change: null,
           },
           sticks: {
@@ -15330,7 +15330,7 @@ export const DRUMMER_EVOLUTION = {
 
         keyChanges: [
           'In the Court of the Dragon (2021) showcased his most progressive Trivium drum parts',
-          'Expanded Byzance Brilliant cymbal setup to seven pieces',
+          'Expanded K Custom Hybrid cymbal setup to seven pieces',
           'Struck Dead (2025) became his final Trivium studio album',
           'Departed Trivium in October 2025 after eight years and four albums',
         ],
@@ -15349,26 +15349,26 @@ export const DRUMMER_EVOLUTION = {
         years: '2025–Present',
         startYear: 2025,
         endYear: 2026,
-        description: 'Within months of leaving Trivium, Bent returned to the technical death metal roots that built his reputation — resuming activity with Arkaik and Eric Peterson\'s Dragonlord while taking on session and touring work. His rig scaled back down to a leaner, club-and-festival-ready configuration built on the same Pearl and Axis partnership that carried him through the Trivium years.',
+        description: 'Within months of leaving Trivium, Bent returned to the technical death metal roots that built his reputation — resuming activity with Arkaik and Eric Peterson\'s Dragonlord while taking on session and touring work. His rig scaled back down to a leaner, club-and-festival-ready configuration built on the same TAMA and Axis partnership that carried him through the Trivium years.',
         albums: ['Session and touring work with Arkaik and Dragonlord'],
         tours: ['Arkaik reunion shows', 'Dragonlord select dates'],
         image: null,
 
         gear: {
           drums: {
-            item: 'Pearl Reference Series (compact configuration)',
+            item: 'TAMA Starclassic Maple (compact configuration)',
             details: 'Scaled-down double bass kit for club and festival dates',
-            notes: 'Continued Pearl partnership, now built for the leaner logistics of underground touring rather than arena production.',
+            notes: 'Continued TAMA partnership, now built for the leaner logistics of underground touring rather than arena production.',
             change: CHANGE_TYPES.UPGRADE,
           },
           snare: {
-            item: 'Pearl Reference 14"x6.5"',
+            item: 'TAMA Starclassic Maple 14"x6.5"',
             details: 'Unchanged from the Trivium years',
             notes: 'The snare that has followed Bent since 2017.',
             change: null,
           },
           cymbals: {
-            item: 'Meinl Byzance Brilliant (compact setup)',
+            item: 'Zildjian K Custom Hybrid (compact setup)',
             details: '14" hi-hats, 16"/18" crashes, 21" ride, 18" China',
             notes: 'Trimmed back to a leaner cymbal setup suited to underground touring logistics.',
             change: null,
@@ -15402,7 +15402,7 @@ export const DRUMMER_EVOLUTION = {
         keyChanges: [
           'Returned to Arkaik and Dragonlord within months of leaving Trivium',
           'Scaled setup back down for underground club and festival touring',
-          'Axis Percussion and Pearl partnerships carried over from the Trivium era',
+          'Axis Percussion and TAMA partnerships carried over from the Trivium era',
           'Full-circle career arc: tech-death underground → arena metal → tech-death underground',
         ],
 
@@ -15426,7 +15426,7 @@ export const DRUMMER_EVOLUTION = {
       },
       {
         q: 'What gear does Alex Bent use now?',
-        a: 'Since leaving Trivium, Alex Bent has continued playing a scaled-down Pearl Reference Series kit with his Pearl Reference 14"x6.5" snare, a compact Meinl Byzance Brilliant cymbal setup, and his long-running Axis A21 Longboard double pedal — the same core partnerships that carried his entire Trivium tenure, now sized for underground touring with Arkaik and Dragonlord.',
+        a: 'Since leaving Trivium, Alex Bent has continued playing a scaled-down TAMA Starclassic Maple kit with his TAMA Starclassic Maple 14"x6.5" snare, a compact Zildjian K Custom Hybrid cymbal setup, and his long-running Axis A21 Longboard double pedal — the same core partnerships that carried his entire Trivium tenure, now sized for underground touring with Arkaik and Dragonlord.',
       },
       {
         q: 'How did Alex Bent\'s drumming style evolve?',
@@ -15434,12 +15434,12 @@ export const DRUMMER_EVOLUTION = {
       },
       {
         q: 'What drum kit did Alex Bent use with Trivium?',
-        a: 'Alex Bent played a matte-black Pearl Reference Series kit throughout his Trivium tenure — a maple/birch hybrid shell pack with double 22"x18" bass drums, 10"/12" rack toms, and 14"/16" floor toms — paired with a Pearl Reference 14"x6.5" snare and an expanding Meinl Byzance Brilliant cymbal setup.',
+        a: 'Alex Bent played a TAMA Starclassic Maple kit throughout his Trivium tenure — a maple shell pack with double 22"x18" bass drums, 8"/10"/12" rack toms, and 16"/18" floor toms — paired with a TAMA Starclassic Maple 14"x6.5" snare and an expanding Zildjian K Custom Hybrid cymbal setup.',
       },
     ],
 
     metaTitle: 'Alex Bent Gear Evolution Timeline | Trivium Drum Kit History',
-    metaDescription: 'Explore Alex Bent\'s complete drum gear evolution: technical death metal underground years with Arkaik and Brain Drill → matte-black Pearl Reference Series on The Sin and the Sentence (2017) → expanded Meinl Byzance rig through Struck Dead (2025) → his return to Arkaik and Dragonlord after departing Trivium. Fifteen years, era by era.',
+    metaDescription: 'Explore Alex Bent\'s complete drum gear evolution: technical death metal underground years with Arkaik and Brain Drill → TAMA Starclassic Maple on The Sin and the Sentence (2017) → expanded Zildjian K Custom Hybrid rig through Struck Dead (2025) → his return to Arkaik and Dragonlord after departing Trivium. Fifteen years, era by era.',
   },
 
   // ==========================================

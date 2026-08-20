@@ -10140,9 +10140,9 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           cymbals: {
-            item: 'Paiste Giant Beat',
+            item: 'Super Zyn',
             details: '15" hi-hats, 18"/20" crashes, 22" ride',
-            notes: 'Large-format Paiste cymbals giving Ward\'s kit an open, washy character that supported his jazz-influenced approach to heavy material.',
+            notes: 'Ward\'s first cymbal setup — the entry-level Super Zyn line gave his kit a modest, unpretentious voice suited to the band\'s blues-rock beginnings.',
             change: null,
           },
           hardware: {
@@ -10212,9 +10212,9 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.UPGRADE,
           },
           cymbals: {
-            item: 'Paiste 2002 Series',
-            details: '15" hi-hats, 18"/20" crashes, 24" ride',
-            notes: 'Switched to Paiste\'s heavier 2002 series, including one of the largest ride cymbals in rock at the time, for a darker, more powerful wash.',
+            item: 'Zildjian',
+            details: '14" hi-hats, 20" ride, 16"/18" crash',
+            notes: 'Opened the Paranoid sessions on the same Super Zyn cymbals as the debut, then switched to Avedis Zildjian for Master of Reality — the setup that carried through the rest of his original Sabbath tenure.',
             change: CHANGE_TYPES.SWITCH,
           },
           hardware: {
@@ -10284,9 +10284,9 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           cymbals: {
-            item: 'Paiste 2002 Series (expanded)',
-            details: '15" hi-hats, 18"/20" crashes, 24" ride, 18" 2002 China',
-            notes: 'Added a China cymbal for the more textured, exotic accents required by Sabbath\'s progressive arrangements on Sabotage.',
+            item: 'Zildjian (expanded)',
+            details: '14" hi-hats, 20" ride, 16"/18" crash, added China cymbal',
+            notes: 'Added a China cymbal to the Zildjian setup for the more textured, exotic accents required by Sabbath\'s progressive arrangements on Sabotage.',
             change: CHANGE_TYPES.NEW,
           },
           hardware: {
@@ -10356,9 +10356,9 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           cymbals: {
-            item: 'Paiste 2002 Series (continued)',
-            details: '15" hi-hats, 18"/20" crashes, 24" ride, 18" China',
-            notes: 'Stable cymbal setup carried through the band\'s final original-era albums.',
+            item: 'Zildjian (continued)',
+            details: '14" hi-hats, 20" ride, 16"/18" crash, China',
+            notes: 'Stable Zildjian cymbal setup carried through the band\'s final original-era albums.',
             change: null,
           },
           hardware: {
@@ -10411,7 +10411,7 @@ export const DRUMMER_EVOLUTION = {
       },
       {
         q: 'What drum kit did Bill Ward use on Paranoid?',
-        a: 'On Paranoid (1970), Bill Ward played a Ludwig Vistalite — a clear acrylic kit with a 22" kick and 13"/16" toms — paired with a Ludwig Supraphonic 14"x6.5" LM402 snare and Paiste 2002 cymbals, including a massive 24" ride. The Vistalite\'s punchy, cutting attack matched the heavier riffing on Paranoid and Master of Reality.',
+        a: 'On Paranoid (1970), Bill Ward played a Ludwig Vistalite — a clear acrylic kit with a 22" kick and 13"/16" toms — paired with a Ludwig Supraphonic 14"x6.5" LM402 snare and the Super Zyn cymbals carried over from the debut, before switching to Avedis Zildjian for Master of Reality the following year. The Vistalite\'s punchy, cutting attack matched the heavier riffing on Paranoid and Master of Reality.',
       },
       {
         q: 'Why did Bill Ward leave Black Sabbath?',

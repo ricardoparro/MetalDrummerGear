@@ -3077,7 +3077,7 @@ export const DRUMMER_EVOLUTION = {
     band: 'Sepultura / Cavalera Conspiracy',
     totalYearsActive: '1984-Present',
     profileImage: '/images/drummers/igor-cavalera.webp',
-    summary: 'The rhythmic engine behind Sepultura\'s global rise from Brazilian underground to international superstardom, Igor Cavalera\'s gear evolution tracks his journey from no-name local kits to full Pearl/Zildjian endorsements as one of extreme metal\'s most distinctive and primal drummers.',
+    summary: 'The rhythmic engine behind Sepultura\'s global rise from Brazilian underground to international superstardom, Igor Cavalera\'s gear evolution tracks his journey from no-name local kits to a Tama Starclassic/Paiste rig as one of extreme metal\'s most distinctive and primal drummers.',
 
     eras: [
       {
@@ -3308,31 +3308,31 @@ export const DRUMMER_EVOLUTION = {
 
         gear: {
           drums: {
-            item: 'Pearl Reference',
+            item: 'Tama Starclassic Maple',
             details: 'Multi-ply hybrid shells: 22" kick, 8"/10"/12"/14"/16" toms',
-            notes: 'Pearl Reference flagship — combining maple warmth with birch attack',
+            notes: 'Tama Starclassic Maple — warm, resonant tone anchoring the tribal groove metal setup',
             change: CHANGE_TYPES.UPGRADE,
           },
           snare: {
-            item: 'Pearl Sensitone Premium 14"x6.5"',
-            details: 'Steel, maximum sensitivity and dynamic range',
-            notes: 'Maximum projection for modern live touring demands',
+            item: 'Tama S.L.P. 14"x6.5" G-Maple',
+            details: 'Maple, maximum sensitivity and dynamic range',
+            notes: 'Delivers the punishing crack that drives groove metal riffs',
             change: CHANGE_TYPES.UPGRADE,
           },
           cymbals: {
-            item: 'Zildjian A Custom / K Series mix',
-            details: '14" hi-hats, 18"/19" crashes, 22" ride, 20" China',
-            notes: 'Mix of A Custom brightness and K warmth for versatility',
+            item: 'Paiste RUDE & 2002 Series',
+            details: '14" RUDE Hi-Hats, 18"/19" RUDE Crashes, 22" RUDE Power Ride, 18" 2002 China',
+            notes: 'RUDE cutting aggression paired with 2002 China for tribal punctuation',
             change: CHANGE_TYPES.UPGRADE,
           },
           hardware: {
-            item: 'Pearl Eliminator double pedal',
+            item: 'Tama Iron Cobra double pedal',
             details: 'Adjustable cam system for customized feel',
-            notes: 'Pearl Eliminator for refined speed and control',
+            notes: 'Tama Iron Cobra powers his double bass drive',
             change: CHANGE_TYPES.SWITCH,
           },
           sticks: {
-            item: 'Vic Firth 5A/5B hickory',
+            item: 'Vic Firth American Classic 5B',
             details: 'Continued Vic Firth endorsement',
             notes: 'Maintained Vic Firth loyalty throughout the modern era',
             change: null,
@@ -3354,7 +3354,7 @@ export const DRUMMER_EVOLUTION = {
         keyChanges: [
           'Left Sepultura (2006) — end of a 22-year era',
           'Formed Cavalera Conspiracy with Max Cavalera (2007)',
-          'Pearl Reference endorsement upgrade',
+          'Return to Tama Starclassic Maple and Paiste RUDE/2002 cymbals',
           'Evans heads for modern controlled sound',
           'Return to Roots Anniversary Tour — revisiting the landmark album live',
         ],
@@ -3369,7 +3369,7 @@ export const DRUMMER_EVOLUTION = {
     ],
 
     metaTitle: 'Igor Cavalera Gear Evolution Timeline | Sepultura\'s Rhythmic Engine',
-    metaDescription: 'Trace Igor Cavalera\'s drum kit evolution from Brazilian underground setups through Sepultura\'s global rise to Cavalera Conspiracy. From no-name kits to Pearl Reference.',
+    metaDescription: 'Trace Igor Cavalera\'s drum kit evolution from Brazilian underground setups through Sepultura\'s global rise to Cavalera Conspiracy. From no-name kits to Tama Starclassic and Paiste RUDE.',
   },
 
   // ==========================================

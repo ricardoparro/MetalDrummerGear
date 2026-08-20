@@ -2771,7 +2771,7 @@ const drummers = [
     country: 'USA',
     image: '/images/drummers/abe-cunningham.webp',
     bio: 'Abraham Joseph Cunningham (born 1973) is an American drummer and founding member of Deftones. His innovative style combines powerful, hard-hitting grooves with atmospheric, nuanced playing that perfectly complements Deftones\' unique blend of heavy and ambient music. Since the band\'s formation in 1988, Abe has been the rhythmic backbone behind albums like "White Pony," "Diamond Eyes," and "Koi No Yokan." His ability to shift between crushing heaviness and delicate dynamics has made him one of the most respected drummers in alternative metal.',
-    kitOverview: 'Abe Cunningham plays an SJC Custom drum kit with Zildjian K Custom and A Custom cymbals — the bespoke drum set configuration that has anchored the Deftones\' atmospheric alt-metal sound across their peak commercial era on White Pony, Diamond Eyes, and Koi No Yokan. The centerpiece of the Abe Cunningham drum kit is an SJC Custom 14×6.5" Brass snare, chosen for the warm, cutting crack that projects through Deftones\' layered guitar textures without overwhelming the band\'s dynamic range. A DW 9000 Series Double Pedal and DW hardware anchor the drum set.\n\nZildjian cymbals define the Abe Cunningham drum kit\'s sonic character: 14" K Custom Hi-Hats for a dark, nuanced chick suited to Deftones\' atmospheric passages; 18" and 20" K Custom Crashes for the dynamic, full-bodied accents that shift between crushing and delicate; a 22" K Custom Ride for dark, controlled rhythmic definition; and a 19" A Custom China for aggressive punctuation on the most intense sections. Vic Firth American Classic 2B sticks and Remo drumheads complete the rig. For the full gear breakdown, see the [White Pony drum setup](/articles/white-pony-drum-setup).',
+    kitOverview: 'Abe Cunningham plays a Tama Starclassic Bubinga drum kit in the Egyptian Night Mist finish, with Zildjian K Custom and A Custom cymbals — the setup that has anchored the Deftones\' atmospheric alt-metal sound across the Koi No Yokan, Gore, and Ohms era. The snare matches the Starclassic Bubinga shell pack; Tama does not publicly document a separate snare model for his current rig. A Tama Iron Cobra Power Glide Twin Pedal (HP900PTW) and Iron Cobra Lever Glide Hi-Hat (HH905) anchor the drum set.\n\nZildjian cymbals define the Abe Cunningham drum kit\'s sonic character: 14" K Custom Hi-Hats for a dark, nuanced chick suited to Deftones\' atmospheric passages; 18" and 20" K Custom Crashes for the dynamic, full-bodied accents that shift between crushing and delicate; a 22" K Custom Ride for dark, controlled rhythmic definition; and a 19" A Custom China for aggressive punctuation on the most intense sections. Pro-Mark sticks and Remo drumheads complete the rig. For the full gear breakdown, see the [White Pony drum setup](/articles/white-pony-drum-setup).',
     sameAs: [
       'https://en.wikipedia.org/wiki/Abe_Cunningham',
       'https://www.instagram.com/abecunningham/',
@@ -2779,22 +2779,23 @@ const drummers = [
       'https://www.allmusic.com/artist/abe-cunningham-mn0000619687'
     ],
     gear: {
-      drums: 'SJC Custom Drums',
-      snare: 'SJC Custom 14x6.5" Brass',
+      drums: 'Tama Starclassic Bubinga (Egyptian Night Mist)',
+      snare: 'Tama Starclassic matching snare (no separate model documented)',
       cymbals: 'Zildjian K Custom & A Custom Series (14" K Custom Hi-Hats, 18" & 20" K Custom Crashes, 22" K Custom Ride, 19" A Custom China)',
-      hardware: 'DW 9000 Series Double Pedal, DW Hardware',
-      sticks: 'Vic Firth American Classic 2B',
-      heads: 'Remo',
+      hardware: 'Tama Iron Cobra Power Glide Twin Pedal (HP900PTW), Iron Cobra Lever Glide Hi-Hat (HH905)',
+      sticks: 'Pro-Mark',
+      heads: 'Remo (Powerstroke P3, Pinstripe, Ambassador)',
       verified: true,
-      sources: ['https://www.sjcdrums.com/artists/', 'https://zildjian.com/artists']
+      verifiedAt: '2026-08-20',
+      sources: ['https://www.tama.com/usa/artists/detail/21.html', 'https://zildjian.com/artists']
     },
     photos: [
       '/images/drummers/abe-cunningham.webp' // Original: https://upload.wikimedia.org/wikipedia/commons/f/fe/Deftones_-_Rock_am_Ring_2016_-2016156214257_2016-06-04_Rock_am_Ring_-_Sven_-_1D_X_-_0105_-_DV3P9764_mod.jpg
     ],
     endorsements: [
-      { name: 'SJC Drums', url: 'https://www.sjcdrums.com' },
+      { name: 'Tama Drums', url: 'https://www.tama.com/usa/artists/detail/21.html' },
       { name: 'Zildjian Cymbals', url: 'https://zildjian.com' },
-      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
+      { name: 'Pro-Mark Sticks', url: 'https://www.promark.com' },
       { name: 'Remo Drumheads', url: 'https://remo.com' }
     ],
     videos: [

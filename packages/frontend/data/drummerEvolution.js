@@ -5507,16 +5507,16 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           cymbals: {
-            item: 'Paiste Signature Series',
-            details: '14" hi-hats, 17"/18"/19" crashes, 21" ride, 18" China',
-            notes: 'Complete Paiste Signature configuration — a decade of consistent partnership.',
-            change: null,
+            item: 'Zildjian',
+            details: '14" K Mastersound Hi-Hats, 17"/18" K Custom Dark Crashes, 21" A Custom Mega Bell Ride, 18" China',
+            notes: 'Zildjian partnership — K Mastersound, K Custom Dark and A Custom Mega Bell Ride form his current live and studio configuration.',
+            change: CHANGE_TYPES.SWITCH,
           },
           hardware: {
-            item: 'Tama Iron Cobra HP900 Double Pedal',
-            details: 'Current pedal — unchanged across his entire Nile career',
-            notes: 'The Iron Cobra is inseparable from Kollias\'s identity — his technique was built around its specific feel over 20+ years.',
-            change: null,
+            item: 'Pearl Demon XR Double Pedal',
+            details: 'Current pedal — co-designed with Pearl for extreme-speed applications',
+            notes: 'Kollias co-designed the Demon XR with Pearl, engineering its linear, direct action specifically for the blast-beat speeds his technique demands.',
+            change: CHANGE_TYPES.SWITCH,
           },
           sticks: {
             item: 'Vic Firth George Kollias Signature',
@@ -5561,7 +5561,7 @@ export const DRUMMER_EVOLUTION = {
     ],
 
     metaTitle: 'George Kollias Gear Evolution Timeline | Nile Drum Kit History',
-    metaDescription: 'Explore George Kollias\'s complete drum gear evolution from the Greek underground to Nile\'s world stages. Pearl Reference, Tama Iron Cobra, Paiste Signature — every era of death metal\'s most precise blast beat drummer.',
+    metaDescription: 'Explore George Kollias\'s complete drum gear evolution from the Greek underground to Nile\'s world stages. Pearl Reference, Pearl Demon XR, Zildjian — every era of death metal\'s most precise blast beat drummer.',
   },
 
   // ==========================================

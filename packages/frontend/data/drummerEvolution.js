@@ -6056,7 +6056,7 @@ export const DRUMMER_EVOLUTION = {
     band: 'Periphery',
     totalYearsActive: '2005-Present',
     profileImage: '/images/drummers/matt-halpern.webp',
-    summary: 'Co-founder and drummer of Periphery, Matt Halpern helped pioneer the djent movement and modern progressive metal drumming. His gear journey traces the arc from a self-funded DIY setup in the early days of the band through a defining Mapex endorsement that produced one of the most recognisable djent kits in the world.',
+    summary: 'Co-founder and drummer of Periphery, Matt Halpern helped pioneer the djent movement and modern progressive metal drumming. His gear has centered on a Pearl Reference Series kit and Promark signature sticks — the foundation of one of the most recognisable rigs in modern progressive metal.',
 
     eras: [
       {
@@ -6072,15 +6072,15 @@ export const DRUMMER_EVOLUTION = {
 
         gear: {
           drums: {
-            item: 'Mapex Armory Series',
-            details: 'Maple/poplar shells: 22" kick, 10"/12"/14"/16" toms',
-            notes: 'Entry-level Mapex kit that Halpern used in the early Periphery days — the gear was modest; the technique was elite.',
+            item: 'Pearl Reference Series',
+            details: '22" kick, 10"/12"/14"/16" toms',
+            notes: 'Halpern\'s setup in Periphery\'s earliest days — modest by touring-pro standards, but the playing itself set a new standard for precision in progressive metal.',
             change: null,
           },
           snare: {
-            item: 'Mapex Black Panther 14"×6.5"',
-            details: 'Steel shell, focused attack',
-            notes: 'First Black Panther snare — the crisp, dry attack suited the polyrhythmic djent style perfectly.',
+            item: 'Pearl Reference 14"×6.5" Brass',
+            details: 'Brass shell, focused attack',
+            notes: 'The Reference Brass snare\'s crisp, dry attack suited the polyrhythmic djent style perfectly.',
             change: null,
           },
           cymbals: {
@@ -6090,19 +6090,19 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           hardware: {
-            item: 'Tama Iron Cobra HP900 Double Pedal',
+            item: 'Pearl Demon Drive Double Pedal',
             details: 'Standard double pedal setup',
-            notes: 'Iron Cobra provided the consistent, reliable double bass foundation for early Periphery live work.',
+            notes: 'Provided the consistent, reliable double bass foundation for early Periphery live work.',
             change: null,
           },
           sticks: {
-            item: 'Vic Firth 5A',
+            item: 'Promark',
             details: 'Standard hickory',
-            notes: 'Off-the-shelf sticks during the pre-endorsement era.',
+            notes: 'Off-the-shelf sticks during the pre-signature era.',
             change: null,
           },
           heads: {
-            item: 'Remo Emperor',
+            item: 'Evans',
             details: 'Clear on toms, coated on snare',
             notes: 'Standard durable heads for the demanding technical material.',
             change: null,
@@ -6132,51 +6132,51 @@ export const DRUMMER_EVOLUTION = {
 
       {
         id: 'matt-halpern-2012-periphery-ii',
-        era: 'Periphery II / Mapex Black Panther Era',
+        era: 'Periphery II Era',
         years: '2012–2014',
         startYear: 2012,
         endYear: 2014,
-        description: 'Periphery II cemented the band as djent leaders. Halpern secured his Mapex endorsement and the Black Panther kit became his signature sound — warm, focused, and punchy. The combination of precise poly-rhythms and the Black Panther\'s response defined the Periphery sonic fingerprint.',
+        description: 'Periphery II cemented the band as djent leaders. Halpern\'s Pearl Reference kit and Meinl Byzance cymbals formed the sonic foundation — warm, focused, and punchy — as the combination of precise poly-rhythms and a responsive rig defined the Periphery sonic fingerprint.',
         albums: ['Periphery II: This Time It\'s Personal (2012)', 'Clear (EP, 2014)'],
         tours: ['Periphery II World Tour', 'The Juggernaut Tour (early run)'],
         image: null,
 
         gear: {
           drums: {
-            item: 'Mapex Black Panther Series',
-            details: 'Maple/walnut shells: 22" kick, 10"/12"/14"/16" toms',
-            notes: 'Full Mapex Black Panther endorsement — the warm maple/walnut tone gave Periphery\'s djent attack a musical depth that pure metal kits couldn\'t match.',
-            change: CHANGE_TYPES.UPGRADE,
+            item: 'Pearl Reference Series',
+            details: '22" kick, 10"/12"/14"/16" toms',
+            notes: 'Halpern\'s primary kit through the Periphery II era.',
+            change: null,
           },
           snare: {
-            item: 'Mapex Black Panther Snare 14"×6.5"',
-            details: 'Maple shell, dry attack',
-            notes: 'The signature Black Panther snare crack — dry, focused, and perfectly articulated for intricate groove patterns.',
-            change: CHANGE_TYPES.UPGRADE,
+            item: 'Pearl Reference 14"×6.5" Brass',
+            details: 'Brass shell, dry attack',
+            notes: 'The Reference Brass snare crack — dry, focused, and perfectly articulated for intricate groove patterns.',
+            change: null,
           },
           cymbals: {
             item: 'Meinl Byzance Series',
             details: '14" hi-hats, 16"/18" crashes, 21" ride, 18" China',
-            notes: 'Switched from Istanbul to Meinl Byzance — darker Turkish B20 alloy complemented the Black Panther kit\'s warm tone.',
+            notes: 'Switched from Istanbul to Meinl Byzance — darker Turkish B20 alloy complemented the fuller tone of Halpern\'s Pearl Reference kit.',
             change: CHANGE_TYPES.SWITCH,
           },
           hardware: {
-            item: 'Tama Iron Cobra HP900 Double Pedal',
-            details: 'Continued Iron Cobra foundation',
-            notes: 'Iron Cobra remained the trusted double pedal through this era.',
+            item: 'Pearl Demon Drive Double Pedal',
+            details: 'Continued double pedal foundation',
+            notes: 'Provided the reliable double bass foundation through this era.',
             change: null,
           },
           sticks: {
-            item: 'Vic Firth 5B',
-            details: 'Hickory — slightly heavier for live power',
-            notes: 'Upgraded stick weight for increased projection on larger venues.',
-            change: CHANGE_TYPES.UPGRADE,
+            item: 'Promark',
+            details: 'Hickory',
+            notes: 'Consistent stick choice through this era.',
+            change: null,
           },
           heads: {
-            item: 'Remo Emperor / Powerstroke 3',
-            details: 'Emperor on toms, Powerstroke 3 on kick',
-            notes: 'Powerstroke 3 on kick for the focused, punchy low-end central to djent.',
-            change: CHANGE_TYPES.SWITCH,
+            item: 'Evans',
+            details: 'Evans on toms and kick',
+            notes: 'Consistent heads through this era.',
+            change: null,
           },
         },
 
@@ -6187,16 +6187,10 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
-          'Full Mapex Black Panther endorsement begins',
           'Switched to Meinl Byzance cymbals',
           'Periphery II (2012) — band becomes djent leaders',
           'Clear EP (2014) showcases evolved dynamic range',
         ],
-
-        quote: {
-          text: "The Black Panther kit was a revelation. The warmth balanced the aggression of the djent thing perfectly. I wasn't just playing heavy — I was playing musical.",
-          source: 'Mapex Drums Artist Interview, 2013',
-        },
 
         videos: [],
       },
@@ -6207,23 +6201,23 @@ export const DRUMMER_EVOLUTION = {
         years: '2015–2018',
         startYear: 2015,
         endYear: 2018,
-        description: 'The Juggernaut double album and Select Difficulty saw Periphery refine their technical ambition to its peak. Halpern upgraded to the Mapex Saturn Pro — a premium all-maple shell design that remains his most iconic setup. Meinl Byzance Brilliant and Dark cymbals expanded his tonal palette for the more complex material.',
+        description: 'The Juggernaut double album and Select Difficulty saw Periphery refine their technical ambition to its peak. Halpern\'s Pearl Reference kit remained his foundation throughout, paired with Meinl Byzance Brilliant and Dark cymbals that expanded his tonal palette for the more complex material.',
         albums: ['Juggernaut: Alpha (2015)', 'Juggernaut: Omega (2015)', 'Periphery III: Select Difficulty (2016)'],
         tours: ['Juggernaut World Tour', 'Select Difficulty Tour'],
         image: null,
 
         gear: {
           drums: {
-            item: 'Mapex Saturn Pro',
-            details: 'All-maple shells: 22" kick, 10"/12"/14"/16" toms',
-            notes: 'Upgraded from Black Panther to Saturn Pro — the premium maple shells brought more warmth and sustain for the layered Juggernaut arrangements.',
-            change: CHANGE_TYPES.UPGRADE,
+            item: 'Pearl Reference Series',
+            details: '22" kick, 10"/12"/14"/16" toms',
+            notes: 'Continued as Halpern\'s primary kit through the Juggernaut/Select Difficulty era.',
+            change: null,
           },
           snare: {
-            item: 'Mapex Black Panther Snare 14"×5.5"',
-            details: 'Maple shell, shallow depth for quick response',
-            notes: 'Shallower snare for faster response time across Juggernaut\'s complex poly-rhythmic passages.',
-            change: CHANGE_TYPES.SWITCH,
+            item: 'Pearl Reference 14"×6.5" Brass',
+            details: 'Brass shell',
+            notes: 'Consistent snare choice across the era\'s complex poly-rhythmic passages.',
+            change: null,
           },
           cymbals: {
             item: 'Meinl Byzance Brilliant / Dark',
@@ -6232,22 +6226,22 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.UPGRADE,
           },
           hardware: {
-            item: 'Tama Iron Cobra HP900 Double Pedal',
-            details: 'Speed Cobra beaters for precise double bass',
-            notes: 'Continued Iron Cobra with Speed Cobra beaters for the technical demands of Select Difficulty material.',
+            item: 'Pearl Demon Drive Double Pedal',
+            details: 'Continued double pedal foundation',
+            notes: 'Provided the reliable double bass foundation for the technical demands of Select Difficulty material.',
             change: null,
           },
           sticks: {
-            item: 'Vic Firth 5B',
-            details: 'Continued hickory',
+            item: 'Promark',
+            details: 'Hickory',
             notes: 'Consistent stick choice through the peak touring years.',
             change: null,
           },
           heads: {
-            item: 'Remo Emperor / EMAD',
-            details: 'Emperor on toms, EMAD on kick',
-            notes: 'EMAD heads adopted for tighter, more focused kick tone on the denser Juggernaut material.',
-            change: CHANGE_TYPES.SWITCH,
+            item: 'Evans',
+            details: 'Evans on toms and kick',
+            notes: 'Consistent heads through this era.',
+            change: null,
           },
         },
 
@@ -6258,17 +6252,10 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
-          'Upgraded to Mapex Saturn Pro all-maple shells',
           'Meinl Byzance Brilliant/Dark cymbal combination established',
-          'EMAD kick heads adopted for tighter low-end',
           'Juggernaut double album (2015) — career high-water mark',
           'Select Difficulty (2016) delivered Grammy nomination for Best Metal Performance',
         ],
-
-        quote: {
-          text: "The Saturn Pro gave me everything I wanted from the Black Panther but with more depth. Juggernaut needed that — the music was so layered that the kit had to breathe more.",
-          source: 'Drumhead Magazine, 2015',
-        },
 
         videos: [],
       },
@@ -6279,22 +6266,22 @@ export const DRUMMER_EVOLUTION = {
         years: '2019–Present',
         startYear: 2019,
         endYear: 2026,
-        description: 'The mature Periphery era. Halpern\'s current setup represents 15+ years of incremental refinement. The Saturn Pro remains his cornerstone, now paired with a fully developed Meinl Byzance configuration and refined electronics for the most consistent live and studio sound of his career. His educational platform — including online drum lessons and clinics — has made him one of djent\'s most influential teacher-performers.',
+        description: 'The mature Periphery era. Halpern\'s current setup represents 15+ years of incremental refinement. His Pearl Reference kit remains his cornerstone, now paired with a fully developed Meinl Byzance configuration and refined electronics for the most consistent live and studio sound of his career. His educational platform — including online drum lessons and clinics — has made him one of djent\'s most influential teacher-performers.',
         albums: ['Periphery IV: Hail Stan (2019)', 'Periphery V: Djent Is Not a Genre (2023)'],
         tours: ['Hail Stan World Tour', 'Periphery V Tour 2023–2024'],
         image: null,
 
         gear: {
           drums: {
-            item: 'Mapex Saturn Pro (refined)',
-            details: 'All-maple shells, custom finish: 22" kick, 10"/12"/14"/16" toms',
+            item: 'Pearl Reference Series',
+            details: '22" kick, 10"/12"/14"/16" toms, custom finish',
             notes: 'Current primary setup — refined over several album cycles with custom finish options.',
             change: null,
           },
           snare: {
-            item: 'Mapex Black Panther 14"×5.5" / 14"×6.5"',
-            details: 'Multiple Black Panther snares in rotation',
-            notes: 'Rotates between shallow and deeper Black Panther snares depending on studio or live context.',
+            item: 'Pearl Reference 14"×6.5" Brass',
+            details: 'Brass shell',
+            notes: 'Halpern\'s primary snare, delivering cutting, focused crack that sits precisely within Periphery\'s dense mixes.',
             change: null,
           },
           cymbals: {
@@ -6304,22 +6291,22 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.UPGRADE,
           },
           hardware: {
-            item: 'Tama Iron Cobra HP900 Double Pedal',
-            details: 'Continued long-term Iron Cobra partnership',
-            notes: 'Over a decade of Iron Cobra loyalty — the pedal is as synonymous with Halpern\'s sound as the Saturn Pro.',
+            item: 'Pearl Demon Drive Double Pedal',
+            details: 'Current double pedal',
+            notes: 'Long-term partnership — the Demon Drive is as synonymous with Halpern\'s sound as the Reference kit.',
             change: null,
           },
           sticks: {
-            item: 'Vic Firth 5B / Matt Halpern Signature',
-            details: 'Signature model developed with Vic Firth',
+            item: 'Promark Matt Halpern Signature',
+            details: 'Signature model developed with Promark',
             notes: 'Signature stick partnership reflecting his status as one of the most influential drummers in modern metal.',
             change: CHANGE_TYPES.SIGNATURE,
           },
           heads: {
-            item: 'Remo Emperor / EMAD2',
-            details: 'Emperor on toms, EMAD2 on kick',
-            notes: 'EMAD2 for tighter, more defined kick tone in dense mix contexts.',
-            change: CHANGE_TYPES.UPGRADE,
+            item: 'Evans',
+            details: 'Evans on toms and kick',
+            notes: 'Consistent heads for tighter, more defined kick tone in dense mix contexts.',
+            change: null,
           },
           electronics: {
             item: 'Roland SPD-SX Sampling Pad',
@@ -6337,24 +6324,19 @@ export const DRUMMER_EVOLUTION = {
 
         keyChanges: [
           'Meinl Byzance Extra Dry hi-hats adopted',
-          'Vic Firth signature stick partnership developed',
+          'Promark signature stick partnership developed',
           'Roland SPD-SX integrated for live productions',
           'Periphery IV: Hail Stan (2019) shows mature compositional voice',
           'Periphery V: Djent Is Not a Genre (2023) — genre-defining statement',
           'Educational platform established as leading djent instructional resource',
         ],
 
-        quote: {
-          text: "After 15 years, the setup feels like an extension of my hands. Every choice I've made has been intentional — the Saturn, the Byzance, the Iron Cobra. They all work together.",
-          source: 'Modern Drummer Interview, 2020',
-        },
-
         videos: [],
       },
     ],
 
     metaTitle: 'Matt Halpern Gear Evolution Timeline | Periphery Drum Kit History',
-    metaDescription: 'Explore Matt Halpern\'s complete drum gear evolution from Periphery\'s debut to Djent Is Not a Genre. Mapex Black Panther to Saturn Pro — every era of djent\'s most influential drummer.',
+    metaDescription: 'Explore Matt Halpern\'s complete drum gear evolution from Periphery\'s debut to Djent Is Not a Genre. His Pearl Reference Series kit and Promark signature sticks — every era of djent\'s most influential drummer.',
   },
 
   // ==========================================

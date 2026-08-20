@@ -27,12 +27,14 @@
  *     retailerUrls: {},          // intentionally empty until affiliate links are added
  *   }
  *
- * Only roster drummers with `gear.verified: true` are parsed here (56 of 67),
+ * Only roster drummers with `gear.verified: true` are parsed here (55 of 67),
  * matching the cymbalSetups.js (#4303) audit exactly.
  * Unverified drummers (wait for a research pass before their snares are added;
  * never guessed): ray-luzier, vinnie-paul, charlie-benante, mike-portnoy,
  * danny-carey, brann-dailor, matt-halpern, pete-sandoval, arin-ilejay,
  * nick-augusto, isaac-lamb.
+ * martin-axenrot is excluded despite `gear.verified: true` — the corrected
+ * (#5908) DW snare has no externally-verified size/depth to parse.
  *
  * 14 roster drummers have a literal "Signature" snare model, but 4 of them
  * (Vinnie Paul, Charlie Benante, Mike Portnoy, Danny Carey) are unverified and
@@ -642,18 +644,6 @@ export const SNARES = [
     model: 'Masters Maple',
     sizeIn: 14,
     depthIn: 5.5,
-    shellMaterial: 'Maple',
-    isSignature: false,
-    source: 'roster gear.snare (verified: true; sources on the drummer record)',
-    retailerUrls: {},
-  },
-  {
-    drummerSlug: 'martin-axenrot',
-    summary: 'Sonor SQ2 14x5.75" Maple',
-    brand: 'Sonor',
-    model: 'SQ2 Maple',
-    sizeIn: 14,
-    depthIn: 5.75,
     shellMaterial: 'Maple',
     isSignature: false,
     source: 'roster gear.snare (verified: true; sources on the drummer record)',

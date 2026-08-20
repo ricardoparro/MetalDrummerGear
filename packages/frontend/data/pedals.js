@@ -41,10 +41,11 @@
  * danny-carey, brann-dailor, matt-halpern, pete-sandoval, arin-ilejay,
  * nick-augusto, isaac-lamb.
  *
- * Of the 56 verified hardware strings, 55 name an unambiguous pedal brand/model;
- * the 56th (Jon Dette: "DW 9000 or Tama Iron Cobra Double Pedal") lists two
- * alternative brands with no way to pick one, so per the conservative rule
- * below it is kept (never dropped) with brand/model left null.
+ * Of the 56 verified hardware strings, 54 name an unambiguous pedal brand/model.
+ * Two are kept (never dropped) with brand/model left null: Jon Dette ("DW 9000
+ * or Tama Iron Cobra Double Pedal" lists two alternative brands with no way to
+ * pick one) and Martin Axenrot (#5908 correction — internal sources disagreed
+ * 3 ways on hardware brand with no external source resolving it).
  *
  * Parsing is conservative: an unparseable brand or model is left null rather
  * than guessed. `configuration` is read strictly from the "Double"/"Single"
@@ -605,14 +606,14 @@ export const PEDALS = [
     retailerUrls: {},
   },
   {
-    id: 'tama-iron-cobra-martin-axenrot',
+    id: 'unverified-martin-axenrot',
     drummerSlug: 'martin-axenrot',
-    summary: 'Tama Iron Cobra Double Pedal',
-    brand: 'Tama',
-    model: 'Iron Cobra',
-    configuration: 'double',
+    summary: 'Not independently verified',
+    brand: null,
+    model: null,
+    configuration: 'unknown',
     driveType: null,
-    source: 'roster gear.hardware (verified: true; sources on the drummer record)',
+    source: 'roster gear.hardware (verified: true; pedal brand unresolved per #5908 — internal sources disagreed 3 ways with no external corroboration)',
     retailerUrls: {},
   },
   {

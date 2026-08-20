@@ -191,23 +191,6 @@ export const ENDORSEMENT_NEWS = [
     source: 'Trivium official',
     impact: 'medium',
   },
-  {
-    id: 'art-cruz-lamb-of-god-2019',
-    drummerSlug: 'art-cruz',
-    drummerName: 'Art Cruz',
-    band: 'Lamb of God',
-    date: '2019-07-19',
-    changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
-    category: ENDORSEMENT_CATEGORIES.DRUMS,
-    title: 'Art Cruz Replaces Chris Adler in Lamb of God',
-    headline: 'Art Cruz becomes Lamb of God\'s new drummer',
-    description: 'Following Chris Adler\'s departure, Art Cruz becomes Lamb of God\'s permanent drummer. He uses Pearl drums, Meinl cymbals, and Promark sticks.',
-    brands: {
-      new: ['Pearl', 'Meinl', 'Promark', 'Evans'],
-    },
-    source: 'Lamb of God announcement',
-    impact: 'high',
-  },
 ];
 
 /**

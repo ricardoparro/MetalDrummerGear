@@ -7138,15 +7138,15 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.UPGRADE,
           },
           snare: {
-            item: 'Tama Lars Ulrich Signature Snare / Custom Steel 14"×6.5"',
-            details: 'Deeper steel or aluminium shell for punching crack',
+            item: 'Tama S.L.P. 14"×6" Brass',
+            details: 'Brass shell for punching crack',
             notes: 'Deeper snare shell for maximum punch and projection — Koller\'s snare is central to Converge\'s live sound, requiring explosive attack across varied acoustic environments.',
             change: CHANGE_TYPES.UPGRADE,
           },
           cymbals: {
-            item: 'Zildjian A Custom / K Custom Series',
-            details: '14" A Custom hi-hats, 16"/17"/18" crashes, 21" ride',
-            notes: 'Expanded cymbal setup incorporating both A Custom brightness and K Custom warmth — greater tonal range to serve the increasing dynamic spectrum of modern Converge compositions.',
+            item: 'Zildjian K Dark Series',
+            details: '14" Thin Hi-Hats, 18"&19" Medium Thin Crashes, 21" K Custom Ride, 18" K China',
+            notes: 'Zildjian K Dark setup — dark, trashy tonal range to serve the increasing dynamic spectrum of modern Converge compositions.',
             change: CHANGE_TYPES.UPGRADE,
           },
           hardware: {
@@ -7162,10 +7162,10 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           heads: {
-            item: 'Evans G2 / EMAD',
-            details: 'G2 on toms, EMAD on kick',
-            notes: 'Evans heads for the modern era — G2 on toms for warm attack with defined transient, EMAD on kick for focused, punchy low-end suited to dense metallic hardcore mixes.',
-            change: CHANGE_TYPES.SWITCH,
+            item: 'Remo',
+            details: 'Remo heads across the kit',
+            notes: 'Remo heads for the modern era — consistent, dependable response suited to dense metallic hardcore mixes.',
+            change: null,
           },
         },
 
@@ -7177,7 +7177,7 @@ export const DRUMMER_EVOLUTION = {
 
         keyChanges: [
           'Tama Starclassic Maple adopted — most refined platform of career',
-          'Evans G2/EMAD heads replace Remo',
+          'Zildjian K Dark Series cymbals replace A Series for darker, trashier tone',
           'Tama Iron Cobra 900 upgrade for improved live consistency',
           'Axe to Fall (2009) — Converge\'s most ambitious record; Epitaph debut',
           'All We Love We Leave Behind (2012) and The Dusk in Us (2017) cement Koller\'s status as modern hardcore\'s definitive drummer',

@@ -6803,51 +6803,51 @@ export const DRUMMER_EVOLUTION = {
       },
 
       {
-        id: 'derek-roddy-2008-dw',
-        era: 'DW / Independent Era',
-        years: '2008–2018',
+        id: 'derek-roddy-2008-modern',
+        era: 'Independent / Teaching Era',
+        years: '2008–Present',
         startYear: 2008,
-        endYear: 2018,
-        description: 'Roddy\'s independent era. After his most high-profile band commitments, he continued recording and touring with various projects while dramatically expanding his educational output. His switch to DW Collector\'s Series marked a significant tonal shift toward the warm, resonant maple sound that DW is known for. His instructional series — including "The Progression of Rhythm" DVD series — became foundational resources for aspiring extreme metal drummers worldwide.',
-        albums: ['Various session and project recordings'],
-        tours: ['Drum clinics worldwide', 'Various extreme metal dates'],
+        endYear: 2026,
+        description: 'Roddy\'s independent era. After his most high-profile band commitments, he continued recording and touring with various projects while dramatically expanding his educational output. His instructional series — including "The Progression of Rhythm" DVD series — became foundational resources for aspiring extreme metal drummers worldwide. His setup settled on the Tama Starclassic Bubinga and Meinl Byzance/Mb20 Heavy configuration that has anchored his sound through this era and into the present.',
+        albums: ['Various session and project recordings', 'Various session and collaborative recordings'],
+        tours: ['Drum clinics worldwide', 'Global drum clinic circuit', 'Extreme metal festival appearances'],
         image: null,
 
         gear: {
           drums: {
-            item: 'DW Collector\'s Series',
-            details: 'Maple shells: 22" kick, 8"/10"/12"/14"/16" toms',
-            notes: 'Major switch to DW Collector\'s Series — the warm, resonant maple shells offered a musical depth that complemented his evolved, more compositionally sophisticated approach to extreme metal.',
+            item: 'Tama Starclassic Bubinga',
+            details: 'Dense bubinga shell pack: 22" kick, 8"/10"/12"/14"/16" toms',
+            notes: 'Tama Starclassic Bubinga — a dense, bass-heavy shell pack built to handle the blistering blast beats and one-footed bass drum technique that made him one of the most respected extreme metal drummers of his generation.',
             change: CHANGE_TYPES.SWITCH,
           },
           snare: {
-            item: 'DW Edge Series 14"×6.5"',
-            details: 'Maple shell with DW Edge design',
-            notes: 'DW snare to match the new endorsement — warm, powerful attack with excellent projection.',
+            item: 'Tama SLP Black Brass 14"×6.5"',
+            details: 'Black brass shell',
+            notes: 'Sharp, cutting crack engineered to stay audible through technically dense material.',
             change: CHANGE_TYPES.SWITCH,
           },
           cymbals: {
-            item: 'Meinl Classics Custom Series',
-            details: '14" Classics Custom Dark hi-hats, 16"/18" Classics Custom Dark crashes, 21" ride',
-            notes: 'Switched from Zildjian to Meinl Classics Custom — darker, drier tone suited to his drum clinic and session work contexts.',
+            item: 'Meinl Byzance & Mb20 Heavy Series',
+            details: '14" Byzance Heavy Hi-Hats, 18"/19" Mb20 Heavy Crashes, 21" Mb20 Heavy Ride, 18" Byzance China',
+            notes: 'Switched to Meinl — Byzance and Mb20 Heavy pieces define the current Derek Roddy cymbal setup.',
             change: CHANGE_TYPES.SWITCH,
           },
           hardware: {
-            item: 'DW 9000 Double Pedal',
-            details: 'Twin-chain drive to match DW kit',
-            notes: 'DW 9000 adopted alongside DW endorsement — dual chain drive for responsive, consistent double bass technique demonstration.',
+            item: 'Tama Speed Cobra 910 Double Pedal',
+            details: 'Twin-chain drive',
+            notes: 'Gives Roddy the speed and stability behind his signature one-footed blast technique.',
             change: CHANGE_TYPES.SWITCH,
           },
           sticks: {
-            item: 'Vic Firth Derek Roddy Signature',
-            details: 'Custom hickory model for extreme metal application',
+            item: 'Vater Player\'s Design Derek Roddy Model (VHDRW)',
+            details: 'Signature hickory model',
             notes: 'Signature sticks reflecting his status as one of extreme metal\'s leading educators and performers.',
             change: CHANGE_TYPES.SIGNATURE,
           },
           heads: {
-            item: 'Evans G2 / EMAD',
-            details: 'G2 on toms, EMAD on kick',
-            notes: 'Switched to Evans for the DW era — G2 and EMAD provide a more focused, punchy sound suited to clinic and recording contexts.',
+            item: 'Evans',
+            details: 'Genera HD / EC2',
+            notes: 'Evans heads for durability under his relentless attack.',
             change: CHANGE_TYPES.SWITCH,
           },
           electronics: {
@@ -6865,103 +6865,20 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
-          'Switched to DW Collector\'s Series — warmer, more resonant tone',
-          'Meinl Classics Custom Dark cymbals adopted',
-          'DW 9000 double pedal switch',
-          'Vic Firth Derek Roddy signature sticks launched',
+          'Settled on Tama Starclassic Bubinga and Meinl Byzance/Mb20 Heavy configuration',
+          'Tama Speed Cobra 910 double pedal adopted',
+          'Vater Player\'s Design Derek Roddy signature sticks launched',
           '"The Progression of Rhythm" instructional series becomes definitive resource for extreme metal technique',
           'Worldwide drum clinic circuit — leading educator in death metal drumming',
-        ],
-
-        quote: {
-          text: "DW gave me a kit that could serve everything I do — sessions, clinics, live shows. The maple speaks. And when you're teaching people about drumming, the instrument has to communicate.",
-          source: 'DW Drums Artist Profile, 2010',
-        },
-
-        videos: [],
-      },
-
-      {
-        id: 'derek-roddy-2018-modern',
-        era: 'Modern / Teaching Era',
-        years: '2018–Present',
-        startYear: 2018,
-        endYear: 2026,
-        description: 'Derek Roddy\'s modern era. Now one of extreme metal\'s most respected elder statesmen and educators, his current setup reflects decades of refinement. He continues performing with various death metal projects while his educational legacy — instructional videos, online courses, and drum clinics — reaches more students than ever. His Meinl Classics Custom configuration has become the most recognised element of his modern sonic identity.',
-        albums: ['Various session and collaborative recordings'],
-        tours: ['Global drum clinic circuit', 'Extreme metal festival appearances'],
-        image: null,
-
-        gear: {
-          drums: {
-            item: 'DW Collector\'s Series (refined)',
-            details: 'Custom finish maple: 22" kick, 8"/10"/12"/14"/16" toms',
-            notes: 'Refined DW configuration — same platform, now with custom finish options developed through years of partnership.',
-            change: null,
-          },
-          snare: {
-            item: 'DW Collector\'s Series Snare 14"×6.5"',
-            details: 'Maple shell, refined production model',
-            notes: 'Current primary snare — warm, powerful, and consistent across all performance contexts.',
-            change: null,
-          },
-          cymbals: {
-            item: 'Meinl Classics Custom Dark / Extra Dry',
-            details: '14" Classics Custom Extra Dry hi-hats, 16"/18" Classics Custom Dark crashes, 21" ride',
-            notes: 'Evolved to Extra Dry hi-hats for drier, more articulate attack in the clinic and studio context.',
-            change: CHANGE_TYPES.UPGRADE,
-          },
-          hardware: {
-            item: 'DW 9000 Double Pedal',
-            details: 'Continued DW 9000 partnership',
-            notes: 'Long-term DW 9000 loyalty — precise, consistent double bass control for demonstration and performance.',
-            change: null,
-          },
-          sticks: {
-            item: 'Vic Firth Derek Roddy Signature',
-            details: 'Refined current production model',
-            notes: 'Updated signature model refined for both performance and educational demonstration.',
-            change: null,
-          },
-          heads: {
-            item: 'Evans G2 / EMAD2',
-            details: 'G2 on toms, EMAD2 on kick',
-            notes: 'EMAD2 for tighter, more defined kick tone across clinic and recording contexts.',
-            change: CHANGE_TYPES.UPGRADE,
-          },
-          electronics: {
-            item: 'Roland SPD-SX / ddrum Triggers',
-            details: 'Sampling pad and kick triggers',
-            notes: 'Electronics used for educational demonstrations of hybrid drumming and trigger comparison in clinic settings.',
-            change: CHANGE_TYPES.UPGRADE,
-          },
-        },
-
-        estimatedCost: {
-          original: 18000,
-          inflationAdjusted: 18000,
-          currency: 'USD',
-        },
-
-        keyChanges: [
-          'Meinl Classics Custom Extra Dry hi-hats adopted',
-          'Evans EMAD2 kick heads for tighter low-end',
-          'Global clinic and online education reach expands year over year',
           'Recognised as one of death metal\'s most influential educator-performers',
-          'Setup serves dual purpose: performance and technical demonstration',
         ],
-
-        quote: {
-          text: "After 30 years of playing, every piece of gear I own has a reason for being there. I've stripped away everything that wasn't serving the music or the teaching. What's left is exactly what I need.",
-          source: 'Drumhead Magazine Interview, 2022',
-        },
 
         videos: [],
       },
     ],
 
     metaTitle: 'Derek Roddy Gear Evolution Timeline | Hate Eternal Drum Kit History',
-    metaDescription: 'Explore Derek Roddy\'s complete drum gear evolution from Florida death metal to the DW era. Pearl Masters to DW Collector\'s Series — the blast beat pioneer\'s complete gear timeline.',
+    metaDescription: 'Explore Derek Roddy\'s complete drum gear evolution from Florida death metal to his current Tama/Meinl setup. Pearl Masters to Tama Starclassic Bubinga — the blast beat pioneer\'s complete gear timeline.',
   },
 
   // ==========================================

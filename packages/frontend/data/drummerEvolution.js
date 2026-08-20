@@ -1789,38 +1789,38 @@ export const DRUMMER_EVOLUTION = {
         years: '2022–Present',
         startYear: 2022,
         endYear: 2026,
-        description: 'Meshuggah\'s most recent album. Haake\'s setup remains the most refined of his career — DW, Paiste, ddrum, and Vic Firth all continuing long-term partnerships.',
+        description: 'Meshuggah\'s most recent album. Haake\'s setup remains the most refined of his career — Sonor, Sabian, ddrum, and Wincent all continuing long-term partnerships.',
         albums: ['Immutable (2022)'],
         tours: ['Immutable World Tour 2022–2023'],
         image: null,
 
         gear: {
           drums: {
-            item: 'DW Collector\'s Series Custom',
-            details: 'Custom lacquer finish maple: 22" kick, 8"/10"/12"/14"/16" toms',
-            notes: 'Current primary kit — DW maple in custom finish.',
+            item: 'Sonor SQ2 Heavy Beech (24"x18" kick)',
+            details: '10"/12"/13"/16"/18" toms',
+            notes: 'Current primary kit — Sonor SQ2 endorser for over two decades.',
             change: null,
           },
           snare: {
-            item: 'DW Tomas Haake Signature 14"×6.5"',
+            item: 'Sonor Tomas Haake Signature 14"×6.5" (+ Artist Series Bronze)',
             details: 'Steel shell, current production model',
             notes: 'Definitive signature snare — widely regarded as one of metal\'s best snare sounds.',
             change: null,
           },
           cymbals: {
-            item: 'Paiste Signature Dark Energy Suite',
-            details: '14" Dark Energy hi-hats, 18"/19" crashes, 22" ride, 20" China',
-            notes: 'Complete Dark Energy configuration purpose-built for Meshuggah\'s sonic needs.',
+            item: 'Sabian HHX/AAX — 14" HHX Compression Hi-Hats, 19/20/21" HHX Stage Crashes, 22" Legacy Ride, 19" AAXtreme China',
+            details: '14" HHX Compression hi-hats, 19"/20"/21" Stage Crashes, 22" Legacy Ride, 19" AAXtreme China',
+            notes: 'Complete Sabian HHX/AAX configuration purpose-built for Meshuggah\'s sonic needs.',
             change: null,
           },
           hardware: {
-            item: 'DW 9000XF Double Pedal',
-            details: 'Extended footboard for toe-up technique',
-            notes: 'XF extended footboard accommodates Haake\'s heel-up technique.',
+            item: 'Two independent single pedals (Tama Speed Cobra)',
+            details: 'Two separate single pedals, not a double pedal',
+            notes: 'Enables independent-foot technique — each pedal can play a different rhythm.',
             change: CHANGE_TYPES.UPGRADE,
           },
           sticks: {
-            item: 'Vic Firth Tomas Haake Signature',
+            item: 'Wincent Tomas Haake Signature',
             details: 'Hickory, nylon tip, medium taper',
             notes: 'Current production model.',
             change: null,
@@ -1846,14 +1846,14 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
-          'DW 9000XF extended footboard for technique refinement',
+          'Two independent single pedals refined for technique',
           'Most stable and refined setup of career',
-          'Immutable world tour confirmed DW/Paiste/ddrum as long-term partnerships',
+          'Immutable world tour confirmed Sonor/Sabian/ddrum as long-term partnerships',
         ],
 
         quote: {
           text: "Everything in the setup has been field-tested over hundreds of shows. Nothing is accidental. Every piece is there for a reason.",
-          source: 'Vic Firth Artist Profile, 2022',
+          source: 'Sonor Artist Profile, 2022',
         },
 
         videos: [],
@@ -1861,7 +1861,7 @@ export const DRUMMER_EVOLUTION = {
     ],
 
     metaTitle: 'Tomas Haake Gear Evolution Timeline | Meshuggah Drum Kit History',
-    metaDescription: 'Explore Tomas Haake\'s complete drum gear evolution from Meshuggah\'s debut to Immutable. Sonor to Pearl to DW — every kit and era documented.',
+    metaDescription: 'Explore Tomas Haake\'s complete drum gear evolution from Meshuggah\'s debut to Immutable. Sonor, Pearl, and Sabian — every kit and era documented.',
   },
 
   // ==========================================

@@ -7353,8 +7353,8 @@ export const DRUMMER_EVOLUTION = {
         years: '2000–2011',
         startYear: 2000,
         endYear: 2011,
-        description: 'The final chapter of Pete Sandoval\'s career as a working drummer — and its most humanly significant. Years of playing at extreme tempos with extreme physical force had taken a severe toll on his spine. He missed recording sessions for Heretic (2003), replaced by Derek Roddy, before returning to document his final period with Morbid Angel. Illud Divinum Insanus (2011) was his last album; major back surgery that same year forced his retirement. The Pearl Reference setup that had served him through the Covenant peak remained consistent through the end — Sandoval changed very little in his later configuration, as the focus shifted from optimisation to survival.',
-        albums: ['Gateways to Annihilation (2000)', 'Heretic (2003, partial — Derek Roddy recorded)', 'Illud Divinum Insanus (2011)'],
+        description: 'The final chapter of Pete Sandoval\'s career as a working drummer — and its most humanly significant. Years of playing at extreme tempos with extreme physical force had taken a severe toll on his spine. He missed recording sessions for Heretic (2003), replaced by Derek Roddy, before returning to tour behind it. Gateways to Annihilation (2000) remains his last studio album as a recording drummer. In early 2010, Sandoval underwent back surgery for a disc problem and was sidelined for the recording of what became Illud Divinum Insanus (2011); Tim Yeung stepped in for those sessions (Zero Tolerance, 2010-04-01). Sandoval never returned to the recording lineup, and the surgery effectively ended his time as Morbid Angel\'s drummer. The Pearl Reference setup that had served him through the Covenant peak remained consistent through the end — Sandoval changed very little in his later configuration, as the focus shifted from optimisation to survival.',
+        albums: ['Gateways to Annihilation (2000)', 'Heretic (2003, partial — Derek Roddy recorded)'],
         tours: ['Final Morbid Angel touring dates 2000–2010', 'Selective festival appearances only as health permitted'],
         image: null,
 
@@ -7412,9 +7412,9 @@ export const DRUMMER_EVOLUTION = {
         keyChanges: [
           'Back injuries begin limiting live appearances and recording sessions',
           'Derek Roddy replaced Sandoval on Heretic (2003) recording',
-          'Gateways to Annihilation (2000) — final complete Sandoval-era studio album before health decline',
-          'Illud Divinum Insanus (2011) — final Morbid Angel album; final recording',
-          'Major back surgery (2011) — retired from drumming',
+          'Gateways to Annihilation (2000) — final studio album Sandoval actually recorded',
+          'Back surgery for a disc problem (early 2010) sidelined Sandoval from recording sessions; Tim Yeung stepped in and recorded Illud Divinum Insanus (2011) in his place (Zero Tolerance, 2010-04-01)',
+          'Major back surgery (2011) — retired from drumming; never returned to record with Morbid Angel',
           'Legacy: established blast beat as death metal\'s primary rhythmic language; influenced every extreme metal drummer who followed',
         ],
 

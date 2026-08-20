@@ -222,7 +222,7 @@ export const drummerComparisons = {
     comparison: {
       style: 'Vinnie defined groove metal with powerful, punchy patterns. Art brings Lamb of God intensity with Chris Adler\'s legacy.',
       technique: 'Vinnie pioneered the "power groove" with massive snare hits. Art combines groove with technical death metal precision.',
-      gear: 'Vinnie endorsed ddrum with Sabian cymbals. Art plays Pearl drums for modern attack.',
+      gear: 'Vinnie endorsed ddrum with Sabian cymbals. Art plays Ludwig drums for modern attack.',
       influence: 'Vinnie created the Pantera sound that defined 90s metal. Art continues the Lamb of God legacy with his own style.',
     },
     verdict: 'Vinnie Paul is the godfather of groove metal drumming. Art Cruz proves the genre\'s evolution continues. Both represent the power of American metal.',

@@ -589,15 +589,9 @@ export const CYMBAL_SETUPS = [
   },
   {
     drummerSlug: 'abe-cunningham',
-    summary: 'Zildjian K Custom & A Custom Series (14" K Custom Hi-Hats, 18" & 20" K Custom Crashes, 22" K Custom Ride, 19" A Custom China)',
+    summary: 'Zildjian A Custom & K Custom Series',
     brands: ['Zildjian'],
-    pieces: [
-      { type: 'hi-hat', sizeIn: 14, series: 'K Custom', model: 'Hi-Hats' },
-      { type: 'crash', sizeIn: 18, series: 'K Custom', model: 'Crash' },
-      { type: 'crash', sizeIn: 20, series: 'K Custom', model: 'Crash' },
-      { type: 'ride', sizeIn: 22, series: 'K Custom', model: 'Ride' },
-      { type: 'china', sizeIn: 19, series: 'A Custom', model: 'China' },
-    ],
+    pieces: [],
     source: 'roster gear.cymbals (verified: true; sources on the drummer record)',
     retailerUrls: {},
   },

@@ -4634,20 +4634,20 @@ Cunningham's playing is characterized by creative, unconventional patterns that 
       },
       gearHighlights: {
         title: 'Gear Highlights',
-        content: `Abe Cunningham has been a longtime SJC Custom Drums endorser, using their shells for their punchy attack and durability. His setup is relatively straightforward, reflecting his focus on groove and feel over technical complexity.
+        content: `Abe Cunningham is a Tama Drums endorser, playing a Starclassic Bubinga kit in the Egyptian Night Mist finish for its punchy attack and durability. His setup is relatively straightforward, reflecting his focus on groove and feel over technical complexity.
 
 **Current Setup:**
-- **Drums**: SJC Custom
-- **Snare**: SJC Custom 14"x6.5" Brass
-- **Cymbals**: Zildjian (14" K Custom Hi-Hats, 18" & 20" K Custom Crashes, 22" K Custom Ride, 19" A Custom China)
-- **Hardware**: DW 9000 Series double pedal, DW hardware
-- **Sticks**: Vic Firth American Classic 2B
-- **Heads**: Remo
+- **Drums**: Tama Starclassic Bubinga
+- **Snare**: Tama Starclassic matching snare
+- **Cymbals**: Zildjian (A Custom / K Custom combination)
+- **Hardware**: Tama Iron Cobra Power Glide Twin Pedal (HP900PTW), Iron Cobra Lever Glide Hi-Hat (HH905)
+- **Sticks**: Pro-Mark
+- **Heads**: Remo (Powerstroke P3, Pinstripe, Ambassador)
 
 **Setup Philosophy:**
 - Compact, efficient kit for quick access
-- Deep snare drum for powerful, cutting sound
-- Zildjian signature sticks designed for his playing style
+- Bubinga shells for deep, powerful low end
+- Zildjian A Custom/K Custom blend for tonal range
 - Emphasizes feel and tone over extensive kit size`
       },
       trivia: {
@@ -4667,21 +4667,22 @@ Cunningham's playing is characterized by creative, unconventional patterns that 
       faq: {
         title: 'Frequently Asked Questions',
         items: [
-          { q: 'What drum kit does Abe Cunningham use?', a: 'Abe Cunningham plays an SJC Custom drum kit with Zildjian K Custom and A Custom cymbals — the bespoke setup that has anchored Deftones\' atmospheric alt-metal sound across White Pony, Diamond Eyes, and Koi No Yokan. The centerpiece is an SJC Custom 14"x6.5" Brass snare, chosen for the warm, cutting crack that projects through Deftones\' layered guitar textures.' },
-          { q: 'What drum set does Abe Cunningham use?', a: 'Abe Cunningham\'s drum set pairs SJC Custom shells and his 14"x6.5" Brass snare with a DW 9000 Series double pedal and DW hardware, giving him the dynamic range to shift between crushing heaviness and delicate atmosphere within the same song.' },
-          { q: 'What cymbals does Abe Cunningham play?', a: 'Abe Cunningham plays Zildjian cymbals: 14" K Custom Hi-Hats, 18" and 20" K Custom Crashes, a 22" K Custom Ride, and a 19" A Custom China.' },
-          { q: 'What snare does Abe Cunningham use?', a: 'Abe Cunningham\'s snare is an SJC Custom 14"x6.5" Brass shell, giving him a warm, cutting crack that sits well within Deftones\' dense guitar mix.' },
-          { q: 'What sticks does Abe Cunningham use?', a: 'Abe Cunningham uses Vic Firth American Classic 2B drumsticks.' },
-          { q: 'What bass drum pedal does Abe Cunningham use?', a: 'Abe Cunningham uses a DW 9000 Series double pedal mounted on DW hardware.' },
-          { q: 'What drumheads does Abe Cunningham use?', a: 'Abe Cunningham uses Remo drumheads.' },
+          { q: 'What drum kit does Abe Cunningham use?', a: 'Abe Cunningham plays a Tama Starclassic Bubinga drum kit in the Egyptian Night Mist finish, with Zildjian A Custom / K Custom cymbals — the official Tama endorsement that has anchored Deftones\' atmospheric alt-metal sound through the Koi No Yokan, Gore, and Ohms era. The kit is rounded out by a matching Tama Starclassic snare, chosen for the warm, cutting crack that projects through Deftones\' layered guitar textures.' },
+          { q: 'What drum set does Abe Cunningham use?', a: 'Abe Cunningham\'s drum set pairs Tama Starclassic Bubinga shells and a matching Starclassic snare with a Tama Iron Cobra Power Glide Twin Pedal (HP900PTW) and Iron Cobra Lever Glide Hi-Hat (HH905), giving him the dynamic range to shift between crushing heaviness and delicate atmosphere within the same song.' },
+          { q: 'What cymbals does Abe Cunningham play?', a: 'Abe Cunningham plays a Zildjian A Custom / K Custom cymbal combination.' },
+          { q: 'What snare does Abe Cunningham use?', a: 'Abe Cunningham\'s snare is a Tama Starclassic Bubinga shell matching his kit, giving him a warm, cutting crack that sits well within Deftones\' dense guitar mix.' },
+          { q: 'What sticks does Abe Cunningham use?', a: 'Abe Cunningham uses Pro-Mark drumsticks.' },
+          { q: 'What bass drum pedal does Abe Cunningham use?', a: 'Abe Cunningham uses a Tama Iron Cobra Power Glide Twin Pedal (HP900PTW) with the Iron Cobra Lever Glide Hi-Hat (HH905).' },
+          { q: 'What drumheads does Abe Cunningham use?', a: 'Abe Cunningham uses Remo drumheads (Powerstroke P3, Pinstripe, and Ambassador).' },
           { q: 'What band is Abe Cunningham in?', a: 'Abe Cunningham is a founding member and drummer of Deftones, with the band since its 1988 formation.' },
-          { q: 'What hi-hats does Abe Cunningham use?', a: 'Abe Cunningham plays 14" Zildjian K Custom Hi-Hats, part of the K Custom cymbal setup that suits Deftones\' shifts between crushing heaviness and atmospheric restraint.' }
+          { q: 'What hi-hats does Abe Cunningham use?', a: 'Abe Cunningham plays Zildjian hi-hats as part of his A Custom / K Custom cymbal setup, which suits Deftones\' shifts between crushing heaviness and atmospheric restraint.' }
         ]
       },
       sources: {
         title: 'Sources',
         items: [
-          { name: 'SJC Custom Drums', url: 'https://sjcdrums.com' },
+          { name: 'Tama Drums Artist Profile', url: 'https://www.tama.com/usa/artists/detail/21.html' },
+          { name: 'Remo Drumheads', url: 'https://www.remo.com' },
           { name: 'Zildjian Artist Profile', url: 'https://zildjian.com/blogs/artist/abe-cunningham' },
           { name: 'Wikipedia: Abe Cunningham', url: 'https://en.wikipedia.org/wiki/Abe_Cunningham' },
           { name: 'Deftones Official', url: 'https://www.deftones.com/' }

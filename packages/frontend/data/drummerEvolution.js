@@ -8943,46 +8943,46 @@ export const DRUMMER_EVOLUTION = {
         years: '2012–Present',
         startYear: 2012,
         endYear: 2026,
-        description: 'The modern Deftones era — Koi No Yokan (2012), Gore (2016), and Ohms (2020) represent the band\'s most compositionally sophisticated and sonically adventurous work. Cunningham transitioned to Pearl Reference — the flagship series that replaced Pearl Masters in the premium tier — and refined his electronic augmentation with Roland sampling pads. His drumming on Ohms in particular is widely praised for its restraint, groove, and cinematic scope.',
+        description: 'The modern Deftones era — Koi No Yokan (2012), Gore (2016), and Ohms (2020) represent the band\'s most compositionally sophisticated and sonically adventurous work. Cunningham\'s rig is built around his Tama Starclassic Bubinga endorsement, and he refined his electronic augmentation with Roland sampling pads. His drumming on Ohms in particular is widely praised for its restraint, groove, and cinematic scope.',
         albums: ['Koi No Yokan (2012)', 'Gore (2016)', 'Ohms (2020)'],
         tours: ['Koi No Yokan Tour 2012–2013', 'Gore Tour 2016–2017', 'Ohms Tour 2021–2022'],
         image: null,
 
         gear: {
           drums: {
-            item: 'Pearl Reference Series',
-            details: 'Maple/birch hybrid shells: 22" kick, 10"/12"/14"/16" toms',
-            notes: 'Returned to Pearl with the flagship Reference Series — maple/birch hybrid shells offering a broader tonal palette for the Deftones\' increasingly cinematic sound.',
+            item: 'Tama Starclassic Bubinga',
+            details: 'Bubinga shells in Egyptian Night Mist finish',
+            notes: 'Official Tama endorsee — Starclassic Bubinga shells offer a dense, bass-heavy tonal palette for the Deftones\' increasingly cinematic sound.',
             change: CHANGE_TYPES.SWITCH,
           },
           snare: {
-            item: 'Pearl Free-Floating Brass 14"×6.5"',
-            details: 'Pearl Free-Floating brass, warm and articulate',
-            notes: 'Returned to Pearl Free-Floating brass snare — distinctive warm tone suited to the moody, textured production of Gore and Ohms.',
+            item: 'Tama Starclassic matching snare',
+            details: 'Bubinga shell, matching kit',
+            notes: 'Matching Starclassic Bubinga snare — no separate signature model documented.',
             change: CHANGE_TYPES.SWITCH,
           },
           cymbals: {
-            item: 'Zildjian K Custom Dark Series',
-            details: '14" K Custom Dark hi-hats, 16"/18"/19" K Custom Dark crashes, 21" K Custom Dark ride',
-            notes: 'K Custom Dark — the darkest, most complex Zildjian offering; perfectly suited to Ohms\'s cinematic, atmospheric production.',
+            item: 'Zildjian A Custom / K Custom Series',
+            details: 'A Custom and K Custom crashes, hi-hats, and ride',
+            notes: 'Zildjian A Custom and K Custom combination — bright projection paired with warmer, complex overtones suited to Ohms\'s cinematic, atmospheric production.',
             change: CHANGE_TYPES.UPGRADE,
           },
           hardware: {
-            item: 'DW 9000 Double Pedal (continued)',
-            details: 'Consistent hardware platform across modern era',
-            notes: 'Consistent DW 9000 double pedal platform across the modern era — reliable, adjustable, and well-suited to the Deftones\' wide dynamic range.',
-            change: null,
+            item: 'Tama Iron Cobra Power Glide Twin Pedal (HP900PTW) / Iron Cobra Lever Glide Hi-Hat (HH905)',
+            details: 'Iron Cobra double pedal and hi-hat stand',
+            notes: 'Tama Iron Cobra hardware platform — reliable, adjustable, and well-suited to the Deftones\' wide dynamic range.',
+            change: CHANGE_TYPES.SWITCH,
           },
           sticks: {
-            item: 'Vater 5A (continued)',
-            details: 'Sustained Vater endorsement',
-            notes: 'Long-running Vater endorsement, consistent stick choice across the modern era.',
-            change: null,
+            item: 'Pro-Mark',
+            details: 'Pro-Mark stick endorsement',
+            notes: 'Pro-Mark endorsement, consistent stick choice across the modern era.',
+            change: CHANGE_TYPES.SWITCH,
           },
           heads: {
-            item: 'Remo Emperor on toms, EMAD on kick',
-            details: 'EMAD for focused, punchy kick in dense production',
-            notes: 'Switched to Remo EMAD on kick for more controlled, focused fundamental in the dense Ohms and Gore production.',
+            item: 'Remo Powerstroke P3 / Pinstripe / Ambassador',
+            details: 'Powerstroke P3 on kick, Pinstripe/Ambassador on toms and snare',
+            notes: 'Remo endorsement across the kit for a controlled, focused low end suited to the dense Ohms and Gore production.',
             change: CHANGE_TYPES.UPGRADE,
           },
           electronics: {
@@ -9000,18 +9000,13 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
-          'Transitioned to Pearl Reference — flagship maple/birch hybrid',
+          'Tama Starclassic Bubinga endorsement — dense, bass-heavy shell pack',
           'Koi No Yokan (2012) — most acclaimed Deftones album since White Pony',
           'Gore (2016) — dark, atmospheric direction; Cunningham\'s most restrained and sophisticated playing',
           'Ohms (2020) — pandemic-era record; cinematic scope and groove sophistication',
           'Roland SPD-SX added for live atmospheric textures',
-          'K Custom Dark cymbals — darkest, most complex tonal palette of career',
+          'Zildjian A Custom / K Custom cymbal combination',
         ],
-
-        quote: {
-          text: "With Ohms, I wanted every drum hit to feel like it had weight. Not just volume — weight. The Pearl Reference gives you that. You feel it as much as you hear it.",
-          source: 'Drum Magazine Interview, 2020',
-        },
 
         videos: [],
       },
@@ -9020,11 +9015,11 @@ export const DRUMMER_EVOLUTION = {
     faqs: [
       {
         q: 'What drum kit does Abe Cunningham use?',
-        a: 'Abe Cunningham plays a Pearl Reference Series kit — a maple/birch hybrid configured with a 22" kick and 10", 12", 14", and 16" toms. He returned to Pearl for the Koi No Yokan era after using a Gretsch USA Custom during the Diamond Eyes years and Pearl Custom during the White Pony era.',
+        a: 'Abe Cunningham plays a Tama Starclassic Bubinga kit in the Egyptian Night Mist finish — his official Tama endorsement, per Tama\'s own artist page. He arrived at this setup after using a Gretsch USA Custom during the Diamond Eyes years and Pearl Custom during the White Pony era.',
       },
       {
         q: 'What cymbals does Abe Cunningham use?',
-        a: 'Cunningham plays Zildjian K Custom Dark cymbals — the darkest series in the Zildjian range. His setup includes 14" K Custom Dark hi-hats, 16"/18"/19" crashes, and a 21" ride. He progressed from Zildjian A through K and K Custom to arrive at K Custom Dark over his four-decade career.',
+        a: 'Cunningham plays a Zildjian A Custom / K Custom combination — pairing A Custom brightness with K Custom warmth. He progressed from Zildjian A through K to this A Custom / K Custom setup over his four-decade career.',
       },
       {
         q: 'What drums did Abe Cunningham use on White Pony?',
@@ -9036,12 +9031,12 @@ export const DRUMMER_EVOLUTION = {
       },
       {
         q: 'What makes Abe Cunningham\'s drumming distinctive?',
-        a: 'Cunningham is known for his dynamic intelligence and groove sophistication — his ability to serve the song with space, restraint, and precision. His cymbal evolution from A Custom through K Custom Dark reflects a consistent pursuit of darker, more complex tones suited to the Deftones\' atmospheric direction.',
+        a: 'Cunningham is known for his dynamic intelligence and groove sophistication — his ability to serve the song with space, restraint, and precision. His cymbal evolution from A Custom to a combined A Custom / K Custom setup reflects a consistent pursuit of warmer, more complex tones suited to the Deftones\' atmospheric direction.',
       },
     ],
 
     metaTitle: 'Abe Cunningham Gear Evolution Timeline | Deftones Drum Kit History',
-    metaDescription: 'Explore Abe Cunningham\'s complete drum gear evolution: ddrum beginnings → Pearl Custom (White Pony) → Gretsch USA Custom (Diamond Eyes) → Pearl Reference (Ohms). 35+ years of Deftones drumming documented era by era.',
+    metaDescription: 'Explore Abe Cunningham\'s complete drum gear evolution: ddrum beginnings → Pearl Custom (White Pony) → Gretsch USA Custom (Diamond Eyes) → Tama Starclassic Bubinga (Ohms). 35+ years of Deftones drumming documented era by era.',
   },
 
   // ==========================================

@@ -2947,8 +2947,9 @@ const drummers = [
   {
     id: 52,
     name: 'Mike Mangini',
-    band: 'Dream Theater',
+    band: 'Godsmack (2026-present); Dream Theater (2010-2023)',
     bands: [
+      { name: 'Godsmack', period: '2026–present', current: true },
       { name: 'Dream Theater', period: '2010–2023', current: false },
       { name: 'Annihilator', period: '2006–2007', current: false },
       { name: 'Extreme', period: '2004–2008', current: false }
@@ -2978,7 +2979,7 @@ const drummers = [
     endorsements: [
       { name: 'Pearl Drums', url: 'https://pearldrum.com' },
       { name: 'Sabian Cymbals', url: 'https://www.sabian.com' },
-      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' }
+      { name: 'Vater Sticks', url: 'https://vater.com' }
     ],
     videos: [
       { title: 'Its Noise - Live at Sweetwater Studios', youtubeId: '358Aib0DAqk', year: 2023 },

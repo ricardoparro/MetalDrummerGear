@@ -14798,10 +14798,10 @@ export const DRUMMER_EVOLUTION = {
   'mike-mangini': {
     slug: 'mike-mangini',
     name: 'Mike Mangini',
-    band: 'Dream Theater',
+    band: 'Godsmack (2026-present); Dream Theater (2010-2023)',
     totalYearsActive: '1996-Present',
     profileImage: '/images/drummers/mike-mangini.webp',
-    summary: 'A Guinness World Record holder for drumming speed and former Berklee College of Music professor, Mike Mangini won Dream Theater\'s brutal, internationally documented 2010 open audition against six other world-class drummers to replace founding member Mike Portnoy — one of the most publicly scrutinized drum-seat transitions in progressive metal history. His gear evolution runs from the session and world-record years with Steve Vai, Extreme, and Annihilator, through the Pearl Masterworks Maple setup that introduced him on A Dramatic Turn of Events, into the Pearl Reference Pure rig recorded at Yonderbarn Studios for Distance Over Time and A View from the Top of the World, and the current Pearl Reference Series configuration that carried him through Dream Theater\'s 2023 lineup change.',
+    summary: 'A Guinness World Record holder for drumming speed and former Berklee College of Music professor, Mike Mangini won Dream Theater\'s brutal, internationally documented 2010 open audition against six other world-class drummers to replace founding member Mike Portnoy — one of the most publicly scrutinized drum-seat transitions in progressive metal history. His gear evolution runs from the session and world-record years with Steve Vai, Extreme, and Annihilator, through the Pearl Masterworks Maple setup that introduced him on A Dramatic Turn of Events, into the Pearl Reference Pure rig recorded at Yonderbarn Studios for Distance Over Time and A View from the Top of the World, and the Pearl Reference Series configuration that carried him through Dream Theater\'s 2023 lineup change. Mangini departed Dream Theater in 2023 and became Godsmack\'s touring drummer in June 2026.',
 
     eras: [
       {
@@ -14881,7 +14881,7 @@ export const DRUMMER_EVOLUTION = {
         years: '2010–2016',
         startYear: 2010,
         endYear: 2016,
-        description: 'When Dream Theater opened a historic, publicly documented audition in 2010 to replace co-founder Mike Portnoy, Mangini won the seat against six other world-class drummers, demonstrated in the "The Spirit Carries On" documentary sight-reading the band\'s labyrinthine time signatures. He debuted on A Dramatic Turn of Events (2011) — earning a rare co-production credit for a first-album drummer — then followed with the self-titled Dream Theater (2013) and the ambitious rock-opera concept album The Astonishing (2016). His kit through this stretch was a Pearl Masterworks Maple shell pack, paired with Sabian HHX and AAX cymbals, a Pearl Eliminator Redline double pedal, and a new Vic Firth Mike Mangini signature stick, with a Roland TD-50 module integrating triggered elements into Dream Theater\'s progressive arrangements.',
+        description: 'When Dream Theater opened a historic, publicly documented audition in 2010 to replace co-founder Mike Portnoy, Mangini won the seat against six other world-class drummers, demonstrated in the "The Spirit Carries On" documentary sight-reading the band\'s labyrinthine time signatures. He debuted on A Dramatic Turn of Events (2011) — earning a rare co-production credit for a first-album drummer — then followed with the self-titled Dream Theater (2013) and the ambitious rock-opera concept album The Astonishing (2016). His kit through this stretch was a Pearl Masterworks Maple shell pack, paired with Sabian HHX and AAX cymbals, a Pearl Eliminator Redline double pedal, and a new Vater Mike Mangini Wicked Piston (VHMMWP) signature stick, with a Roland TD-50 module integrating triggered elements into Dream Theater\'s progressive arrangements.',
         albums: ['A Dramatic Turn of Events (2011)', 'Dream Theater (2013)', 'The Astonishing (2016)'],
         tours: ['A Dramatic Turn of Events World Tour 2011–2012', 'Along for the Ride Tour 2014', 'The Astonishing World Tour 2016'],
         image: null,
@@ -14912,9 +14912,9 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.NEW,
           },
           sticks: {
-            item: 'Vic Firth Mike Mangini Signature',
+            item: 'Vater Mike Mangini Wicked Piston (VHMMWP)',
             details: 'New signature model',
-            notes: 'First Vic Firth signature stick built specifically for Mangini\'s Dream Theater technique.',
+            notes: 'First signature stick built specifically for Mangini\'s Dream Theater technique.',
             change: CHANGE_TYPES.SIGNATURE,
           },
           heads: {
@@ -14935,7 +14935,7 @@ export const DRUMMER_EVOLUTION = {
           'Won Dream Theater\'s internationally documented 2010 audition against six other world-class drummers',
           'A Dramatic Turn of Events (2011) — rare co-production credit for a debuting drummer',
           'The Astonishing (2016) — ambitious two-disc rock opera concept album',
-          'Debuted the Pearl Masterworks Maple custom shell pack and first Vic Firth signature stick',
+          'Debuted the Pearl Masterworks Maple custom shell pack and first Vater signature stick',
           'Roland TD-50 module integrated for Dream Theater\'s hybrid acoustic/electronic arrangements',
         ],
 
@@ -14953,7 +14953,7 @@ export const DRUMMER_EVOLUTION = {
         years: '2017–2021',
         startYear: 2017,
         endYear: 2021,
-        description: 'After The Astonishing\'s sprawling concept-album approach divided fans, Dream Theater stripped back for Distance Over Time (2019), written and recorded at Yonderbarn Studios — John Petrucci\'s residential facility in Hurleyville, New York — in a live-in-the-room process that produced Mangini\'s most natural, spontaneous studio performances with the band. He switched to a Pearl Reference Pure shell pack, a 100% maple kit whose organic warmth suited Yonderbarn\'s acoustics, while keeping his Sabian HHX/AAX cymbals, Pearl Eliminator Redline pedals, and Vic Firth signature sticks unchanged. The same Reference Pure setup carried through A View from the Top of the World (2021), Dream Theater\'s first fully self-produced album, whose 20-minute title track stands among the most demanding extended drum performances of Mangini\'s career.',
+        description: 'After The Astonishing\'s sprawling concept-album approach divided fans, Dream Theater stripped back for Distance Over Time (2019), written and recorded at Yonderbarn Studios — John Petrucci\'s residential facility in Hurleyville, New York — in a live-in-the-room process that produced Mangini\'s most natural, spontaneous studio performances with the band. He switched to a Pearl Reference Pure shell pack, a 100% maple kit whose organic warmth suited Yonderbarn\'s acoustics, while keeping his Sabian HHX/AAX cymbals, Pearl Eliminator Redline pedals, and Vater signature sticks unchanged. The same Reference Pure setup carried through A View from the Top of the World (2021), Dream Theater\'s first fully self-produced album, whose 20-minute title track stands among the most demanding extended drum performances of Mangini\'s career.',
         albums: ['Distance Over Time (2019)', 'A View from the Top of the World (2021)'],
         tours: ['Distance Over Time Tour 2019', '20th Anniversary Tour 2021–2022'],
         image: null,
@@ -14984,7 +14984,7 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           sticks: {
-            item: 'Vic Firth Mike Mangini Signature',
+            item: 'Vater Mike Mangini Wicked Piston (VHMMWP)',
             details: 'Unchanged',
             notes: 'No change from the previous era.',
             change: null,
@@ -15024,7 +15024,7 @@ export const DRUMMER_EVOLUTION = {
         years: '2021–2023',
         startYear: 2021,
         endYear: 2023,
-        description: 'Mangini\'s final documented Dream Theater configuration moved to the broader Pearl Reference Series line, running dual 14"x5" and 14"x6.5" Pearl Reference Brass snares for tonal variety, alongside his long-standing Sabian HHX/AAX arsenal now built around a 21" HHX Raw Bell Dry Ride. Pearl Demon Drive double pedals replaced the Eliminator Redline, and a Roland SPD-SX sampling pad replaced the earlier TD-50 module for a more compact, sample-triggered hybrid rig. In 2023, Mike Portnoy rejoined Dream Theater, ending Mangini\'s thirteen-year run as the band\'s drummer across five studio albums and two of progressive metal\'s most-discussed line-up transitions.',
+        description: 'Mangini\'s final documented Dream Theater configuration moved to the broader Pearl Reference Series line, running dual 14"x5" and 14"x6.5" Pearl Reference Brass snares for tonal variety, alongside his long-standing Sabian HHX/AAX arsenal now built around a 21" HHX Raw Bell Dry Ride. Pearl Demon Drive double pedals replaced the Eliminator Redline, and a Roland SPD-SX sampling pad replaced the earlier TD-50 module for a more compact, sample-triggered hybrid rig. In 2023, Mike Portnoy rejoined Dream Theater, ending Mangini\'s thirteen-year run as the band\'s drummer across five studio albums and two of progressive metal\'s most-discussed line-up transitions. Mangini re-emerged in June 2026 as Godsmack\'s touring drummer, replacing Wade Murff; no verified details of a Godsmack-specific gear setup have been published yet.',
         albums: ['Touring and session configuration, 2021–2023'],
         tours: ['20th Anniversary Tour 2022 (continued)', 'Final Mangini-era Dream Theater touring dates'],
         image: null,
@@ -15055,7 +15055,7 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.SWITCH,
           },
           sticks: {
-            item: 'Vic Firth Mike Mangini Signature',
+            item: 'Vater Mike Mangini Wicked Piston (VHMMWP)',
             details: 'Unchanged',
             notes: 'No change from the previous era.',
             change: null,
@@ -15079,6 +15079,7 @@ export const DRUMMER_EVOLUTION = {
           'Switched from Pearl Eliminator Redline to Pearl Demon Drive double pedals',
           'Replaced the Roland TD-50 module with a more compact Roland SPD-SX sampling pad',
           'Mike Portnoy rejoined Dream Theater in 2023, ending Mangini\'s thirteen-year, five-album run as the band\'s drummer',
+          'Became Godsmack\'s touring drummer in June 2026, replacing Wade Murff',
         ],
 
         quote: {
@@ -15105,7 +15106,7 @@ export const DRUMMER_EVOLUTION = {
       },
       {
         q: 'What happened to Mike Mangini in Dream Theater?',
-        a: 'Mike Mangini served as Dream Theater\'s drummer from 2010 to 2023, recording five studio albums: A Dramatic Turn of Events, Dream Theater, The Astonishing, Distance Over Time, and A View from the Top of the World. In 2023, founding drummer Mike Portnoy rejoined the band, ending Mangini\'s thirteen-year tenure.',
+        a: 'Mike Mangini served as Dream Theater\'s drummer from 2010 to 2023, recording five studio albums: A Dramatic Turn of Events, Dream Theater, The Astonishing, Distance Over Time, and A View from the Top of the World. In 2023, founding drummer Mike Portnoy rejoined the band, ending Mangini\'s thirteen-year tenure. In June 2026, Mangini emerged as Godsmack\'s touring drummer, replacing Wade Murff.',
       },
       {
         q: 'What cymbals does Mike Mangini use?',

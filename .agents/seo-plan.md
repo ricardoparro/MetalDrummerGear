@@ -5681,3 +5681,40 @@ All 5 personally verified (file+line reads, not sub-agent claims taken on faith)
 3. chris-adler, daray, jay-weinberg (possible reversed-direction fix) need a closer read before filing.
 4. Continue the albumArticles-vs-extendedBios vein — candidate pool from this run's 34-slug audit is now exhausted except the 3 flagged above; check whether any new albumArticles files or extendedBios entries have been added since (roster growth) before re-running the full sweep.
 5. Continue watching for the ~08-24 L1/L2/L3 weekly refresh.
+
+## 2026-08-21 (Week 34, Friday, evening run) — Closed out the 4 flagged follow-ups: chris-adler, daray, jay-weinberg, igor-cavalera
+
+### Bank check
+`gh issue list --state open --label seo-proposal` returned 8 at run start: #5969-5973 (filed earlier today, already `ai-fix`-promoted per decisions-log 12:42 UTC) + 3 standing umbrellas (#3810/#3819/#2211) — true untriaged bank 0. Metrics 13:37 UTC refresh: 237 users/289 sessions/516 views 7d; GSC 6,429 impr/145 clicks/2.26% CTR/pos 9.7 — sole content-gap row `joey jordison drum kit` (74 impr, 1.35% CTR), already reconfirmed noise multiple times this week per `learned-patterns.md` — not re-filed. Robots.txt (`api/robots.js`) re-confirmed: all 8 AI crawlers explicitly allowed. Today is Friday — drum-chair Monday sweep not due (next 2026-08-24). Well under the 45 cap → cleared to file up to 8 net-new.
+
+### What was checked
+Picked up the prior run's explicit "need a closer read before filing" list (chris-adler, daray, jay-weinberg) plus the still-open igor-cavalera nuance from two runs back. Dispatched one research agent to gather file+line evidence for all 4, then personally re-verified every claim with direct `sed`/`grep` reads (not taking the sub-agent's report on faith) before filing anything:
+
+1. **chris-adler**: CONFIRMED. `albumArticles/chris-adler.js` states the signature Warbird snare is 12"x5.5" (4 sections) and hi-hats are 13", while `extendedBios.js` (L5804) and `drummerEvolution.js` (2 era blocks) independently agree on 14"x5.5" snare + 14" hi-hats. Filed **#5976**.
+2. **daray**: CONFIRMED. `albumArticles/daray.js` gets nearly every gear field wrong vs. `extendedBios.js` (L3230-3245, agrees with `drummerEvolution.js`): kit name ("Reference Pure" vs. verified "Masterworks Stadium Exotic" — a ~700-word section built around the wrong model name), snare depth (5" vs 5.5"), hi-hat size (15" vs 14"), pedal model (Demon Drive vs Demon XR), and stick brand (Promark vs Vic Firth entirely). Filed **#5977**.
+3. **jay-weinberg**: CONFIRMED, and the prior run's "reversed direction" hypothesis was WRONG — verified `extendedBios.js`/`drummerEvolution.js` are correct (SJC Custom + Tama SLP throughout Slipknot tenure), and `albumArticles/jay-weinberg.js`'s own umbrella article agrees. Two era-specific articles in the *same file* contradict it: "the-gray-chapter-drum-setup" claims a Pearl Reference Pure debut kit, and "the-end-so-far-drum-setup" claims a switch to "Tama Star Maple" + a **"Pearl Dennis Chambers signature snare"** — Dennis Chambers is a real, different, well-known drummer with his own actual signature product; this is a fabricated cross-drummer misattribution, not a brand mix-up, and appears in 18 places across the file (description, FAQ answers, gearNotes). Filed **#5978**, flagged as highest-severity of the 4.
+4. **igor-cavalera**: CONFIRMED, but scoped carefully — this is a real, quote-sourced 1993-96 Pearl Masters Custom sub-era (`drummerEvolution.js`) getting erased by a blanket "Tama throughout his career" claim repeated in 3 different files (`extendedBios.js`, 5× in `drummerComparisons.js`, and `soundLikeGuides.js` — which adds a 4th distinct wrong model, "Tama Artstar"). `albumArticles/igor-cavalera.js`'s own Roots-era article already independently agrees with `drummerEvolution.js` on the drum brand (Pearl Masters Custom), confirming the fix direction. The cymbal brand for that same sub-era has a genuine unresolved 2-way split (Zildjian K Custom per drummerEvolution vs. Paiste RUDE per albumArticles+drummerComparisons) — explicitly scoped OUT of the fix and flagged in the issue so it isn't silently guessed. Filed **#5979**.
+
+All 4 personally verified via direct `sed -n`/`grep -n` reads against the cited line numbers (not sub-agent claims taken on faith), dedup-checked against all-state issues per drummer name (`gh issue list --state all --search "<name> albumArticles"` — all results were different fields/articles, no overlap), freeze-compliant (zero new pages, existing-file data fixes only).
+
+### Proposals filed this run (4)
+1. **#5976** — Chris Adler: Warbird snare (12"→14") + hi-hat (13"→14") size fabrications, 4 sections.
+2. **#5977** — Daray: full gear rewrite — kit name, snare depth, hi-hat size, pedal model, stick brand all wrong.
+3. **#5978** — Jay Weinberg: 2 era articles fabricate wrong kit brands + a Dennis Chambers cross-drummer snare misattribution (18 occurrences).
+4. **#5979** — Igor Cavalera: blanket "Tama throughout career" claim erases a real, quote-sourced 1993-96 Pearl sub-era across 3 files; cymbal brand for that era explicitly left unresolved pending one more source.
+
+### Note for future runs
+This closes out the `albumArticles.js`-vs-`extendedBios.js`/`drummerEvolution.js` gear-fabrication vein's flagged remainder — the 34-slug candidate pool audited across the last several runs is now fully exhausted (every flagged item either filed or explicitly resolved as not-a-bug, e.g. igor-cavalera's era-specific Pearl sub-era vs. blanket Tama, or the correct-direction jay-weinberg reversal-hypothesis check). Before re-running this sweep, check whether roster growth (new drummers added to both `albumArticles/` and `extendedBios.js`) has created a fresh unaudited candidate pool — `comm -12` on the sorted slug lists from both directories is the fast way to regenerate the pool.
+
+### Open proposals waiting on CEO triage
+- #5976-5979 (filed this run, 0d old)
+- #5969-5973 (filed earlier today, already promoted to `ai-fix` per decisions-log)
+- #5957 (`hold`-labeled, needs founder/CEO content decision, not ai-fix-eligible)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers only.
+- Bank now 12 (4 fresh + 5 already-promoted-but-still-labeled + 1 hold + 3 umbrellas — true untriaged: 4).
+
+### Next run
+1. Watch #5976-5979 through CEO triage — #5978 (Jay Weinberg) is highest-value given the Dennis Chambers cross-drummer misattribution is a clear-cut rule-2 violation (verified-only) with 18 occurrences to clean up, and the fix touches 2 full era-specific articles.
+2. If a second corroborating source for igor-cavalera's 1993-96 cymbal brand (Zildjian K Custom vs Paiste RUDE) ever surfaces, that's a quick 1-line follow-up to #5979 — don't force a guess without one.
+3. Check for roster growth (new albumArticles/extendedBios entries) before re-running the gear-fabrication sweep — the current candidate pool is exhausted.
+4. Continue watching for the ~08-24 L1/L2/L3 weekly refresh.

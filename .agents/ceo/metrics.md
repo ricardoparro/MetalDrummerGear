@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-21 13:37 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-21 18:34 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 237 |
-| Sessions | 289 |
-| Page views | 516 |
-| Engagement rate | 57.79% |
-| Avg session (s) | 174 |
+| Active users | 244 |
+| Sessions | 297 |
+| Page views | 542 |
+| Engagement rate | 56.23% |
+| Avg session (s) | 194 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -22,41 +22,41 @@
 | /articles/obsolete-drum-setup | 17 | 1 |
 | /drummer/danny-carey | 13 | 8 |
 | /drummer/mario-duplantier | 12 | 10 |
+| /drummers/dave-lombardo/evolution | 12 | 3 |
 | /gear | 12 | 3 |
+| /drummer/dave-lombardo | 11 | 3 |
 | /guides | 10 | 3 |
 | /drummer/brann-dailor | 9 | 3 |
-| /drummer/joey-jordison | 8 | 4 |
-| /drummers/dave-lombardo/evolution | 8 | 2 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 229 | 178 |
+| Organic Search | 237 | 185 |
 | Direct | 55 | 54 |
-| Unassigned | 14 | 14 |
+| Unassigned | 19 | 18 |
 | AI Assistant | 1 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
 | United States | 117 | 88 |
+| Germany | 15 | 14 |
 | Canada | 13 | 11 |
-| Germany | 13 | 12 |
 | United Kingdom | 13 | 11 |
 | France | 12 | 7 |
 | Brazil | 10 | 7 |
-| Finland | 9 | 6 |
+| Finland | 10 | 7 |
+| Poland | 7 | 6 |
 | Singapore | 7 | 7 |
 | Australia | 6 | 6 |
-| Colombia | 6 | 5 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 6,429 |
-| Clicks | 145 |
-| CTR | 2.26% |
-| Avg position | 9.7 |
+| Impressions | 6,457 |
+| Clicks | 147 |
+| CTR | 2.28% |
+| Avg position | 9.6 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
@@ -75,15 +75,15 @@
 ### Top countries (impressions, last 7d)
 | Country | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| usa | 2,369 | 58 | 2.45% | 9.2 |
-| fra | 143 | 8 | 5.59% | 7.3 |
-| can | 300 | 7 | 2.33% | 9.3 |
+| usa | 2,376 | 59 | 2.48% | 9.2 |
+| fra | 144 | 8 | 5.56% | 7.1 |
+| can | 301 | 7 | 2.33% | 9.3 |
 | fin | 101 | 7 | 6.93% | 6.3 |
-| gbr | 408 | 6 | 1.47% | 9.8 |
-| deu | 198 | 5 | 2.53% | 7.2 |
-| rus | 64 | 5 | 7.81% | 11.9 |
+| gbr | 411 | 6 | 1.46% | 9.7 |
+| deu | 199 | 5 | 2.51% | 7.2 |
+| rus | 65 | 5 | 7.69% | 11.7 |
 | aut | 47 | 4 | 8.51% | 6.8 |
-| aus | 293 | 3 | 1.02% | 8.4 |
+| aus | 293 | 3 | 1.02% | 8.3 |
 | bra | 176 | 3 | 1.70% | 7.0 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address

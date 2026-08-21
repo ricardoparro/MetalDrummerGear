@@ -5,6 +5,34 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-08-21 01:11 UTC*
 
 ---
+## 2026-08-21 18:36 — Mid-day pulse: 4 fresh albumArticles/extendedBios gear-contradiction proposals promoted (chris-adler, daray, jay-weinberg, igor-cavalera), incl. a cross-drummer signature misattribution
+
+### Context (≤3 lines)
+First run after 13:00 UTC (prior entry 12:42 deep run). Metrics 18:34 UTC (244 users/297 sessions/542 views 7d; GSC 6,457 impr/147 clicks/2.28% CTR/pos 9.6 — 1 content-gap row, `joey jordison drum kit`, precedented noise, held again). Eligible `ai-fix` backlog 0 at run start (the 5 promoted at 12:42 had already shipped/closed — fast Roadie turnaround), 0 open PRs, 4 fresh untriaged `seo-proposal` (#5976-5979, filed 13:42-13:43 UTC).
+
+### Actions taken
+- **Promoted all 4** (`ai-fix`), each live-verified against every cited line/source before promoting: #5976 chris-adler — confirmed `albumArticles/chris-adler.js` states the Warbird snare as 12"x5.5" across 4 sections (lines 84/2708/3151-block/3651-block) plus 13" Meinl hi-hats, while `extendedBios.js:5805` independently states 14"x5.5" — genuine self-contradiction, prose at line 2708 explicitly argues the (wrong) small size is deliberate. #5977 daray — confirmed `albumArticles/daray.js` diverges from `extendedBios.js`'s gearHighlights on all 5 fields (Pearl "Reference Pure" vs verified "Masterworks Stadium Exotic" — a ~700-word section built around the wrong model name; snare 5" vs 5.5" depth; 15" vs 14" hi-hats; Demon Drive vs Demon XR pedal; Promark vs Vic Firth sticks) — highest-impact single-file fix this batch. #5978 jay-weinberg — confirmed the file's own umbrella article says SJC Custom + Tama SLP throughout, while the "the-end-so-far-drum-setup" era article invents a "Tama Star Maple" kit switch and a "Pearl Dennis Chambers signature snare" (Dennis Chambers is a real, different drummer with his own actual Pearl signature snare — a cross-drummer misattribution, not a brand mix-up); confirmed both strings live in the file. #5979 igor-cavalera — confirmed `drummerEvolution.js`'s detailed era timeline documents a real 1993-96 Pearl Masters Custom sub-era that `extendedBios.js` ("Tama... throughout his career"), `drummerComparisons.js` (5 occurrences), and `soundLikeGuides.js` ("Tama Artstar") all ignore or contradict differently; issue correctly declines to touch the disputed cymbal brand (Zildjian vs Paiste) for that era without one more external source — verified-only rule respected. No duplicates found for any. All data-only fixes to existing pages, freeze-compliant.
+- **Backlog gate**: 0 → 4, well under the 45 threshold; promoted liberally per rule.
+- **GSC content-gap**: `joey jordison drum kit` (74 impr, 1.35% CTR, pos 9.7) — same row held at the 12:42 run, same precedented do-not-refile pattern. Not refiled.
+- **L1/L2/L3** (#3810/#3819/#2211): snapshot files confirm **Generated: 2026-08-17** (both gsc-watch and indexation) — still the same 5-day-old generation already fully triaged in prior runs; file mtimes reflect checkout, not content refresh. Nothing fresh.
+- **Founder ideas**: inbox empty, unchanged since 06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 unchanged — no re-spam.
+- **Atomic-split sweep**: 0 non-hold `ai-fix` issues open >3 days (checked programmatically). Nothing eligible.
+- **Starvation check**: post-triage backlog=4 (<15), bank=0 (≤2) — trigger condition technically met, but SEO Agent has filed 4 fresh batches today alone (01:12, 06:42, 12:42, 13:42 UTC) at a healthy, undiminished clip — this is the same fast-drain-after-promotion shape judged non-escalating in every occurrence this week. Not escalating; freeze excludes the new-surface response regardless.
+
+### State delta
+- ai-fix backlog: 0 → 4 (#5976-5979)
+- seo-proposal bank (excl. umbrellas): 4 → 0
+- Org/Sessions/Views (7d): 244/297/542 · GSC 6,457 impr/147 clicks/2.28% CTR/pos 9.6
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 4/4 fresh triaged, live-verified, promoted, no duplicates, freeze-compliant. ✅ GSC-gap: 1 row reviewed, correctly held per precedent. ✅ L1/L2/L3: no fresh snapshot since 08-17 (confirmed via in-file Generated timestamp), already actioned. ✅ Starvation: technically met, judged transient per standing precedent, not escalated. ✅ Atomic split: none eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #5976-5979 ship via Roadie; #5978 (jay-weinberg) is the highest-scrutiny one — confirm the Dennis Chambers cross-attribution is fully removed, not just renamed.
+2. Watch for the next L1/L2/L3 weekly refresh (08-17 snapshot now 5 days old, overdue).
+3. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
 ## 2026-08-21 12:42 — Deep run: 5 fresh albumArticles gear-fabrication proposals promoted (gene-hoglan, ben-koller, nicko-mcbrain, ray-luzier, mikkey-dee), all live-verified against 2-3 corroborating sources each
 
 ### Context (≤3 lines)

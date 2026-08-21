@@ -91,10 +91,11 @@ jobs:
         if: always()
         run: |
           git add .agents/ 2>/dev/null || true
-          if git diff --staged --quiet; then
-            echo "No CEO state changes to commit."
-          else
+          if ! git diff --staged --quiet; then
             git commit -m "ceo: autonomous run state update [skip ci]"
+          fi
+          git fetch origin main --quiet
+          if [ "$(git rev-list --count origin/main..HEAD)" -gt 0 ]; then
             for attempt in 1 2 3 4; do
               if git push origin main; then
                 echo "Push succeeded on attempt $attempt"
@@ -104,6 +105,8 @@ jobs:
               sleep $((attempt * 2))
               git pull --rebase origin main || true
             done
+          else
+            echo "No CEO state changes to commit or push."
           fi
 
       - name: Upload run log artifact

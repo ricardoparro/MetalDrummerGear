@@ -6658,8 +6658,8 @@ export const DRUMMER_EVOLUTION = {
         years: '1994–2002',
         startYear: 1994,
         endYear: 2002,
-        description: 'Derek Roddy built his reputation in the Florida death metal underground through the mid-to-late 1990s, developing the technical precision and conceptual approach to blast beats that would define his career. His Pearl Masters setup during this era became the foundation for his signature sound — tight, punchy, and unrelentingly fast.',
-        albums: ['Council of the Fallen: Revealing Damnation (2002)', 'Various demos'],
+        description: 'Derek Roddy built his reputation in the Florida death metal underground through the mid-to-late 1990s, developing the technical precision and conceptual approach to blast beats that would define his career. His Pearl Masters setup during this era became the foundation for his signature sound — tight, punchy, and unrelentingly fast. He also stepped in as session drummer for Nile\'s Black Seeds of Vengeance in 2000, after original drummer Pete Hammoura left due to touring injuries.',
+        albums: ['Council of the Fallen: Revealing Damnation (2002)', 'Nile: Black Seeds of Vengeance (2000)', 'Various demos'],
         tours: ['Florida death metal circuit'],
         image: null,
 
@@ -6729,8 +6729,8 @@ export const DRUMMER_EVOLUTION = {
         years: '2002–2008',
         startYear: 2002,
         endYear: 2008,
-        description: 'Derek Roddy\'s highest-profile period. Playing with Hate Eternal (Erik Rutan\'s band after Morbid Angel) and contributing to Nile recordings placed him at the centre of extreme metal drumming. His Pearl Reference upgrade gave him a more resonant, professional platform that matched the increasingly high production values of these records. His Zildjian K Custom cymbal transition also defined his sound across this era.',
-        albums: ['Hate Eternal: I, Monarch (2005)', 'Hate Eternal: Fury & Flames (2008)', 'Nile: Annihilation of the Wicked (2005)'],
+        description: 'Derek Roddy\'s highest-profile period. Playing with Hate Eternal (Erik Rutan\'s band after Morbid Angel) placed him at the centre of extreme metal drumming. His Pearl Reference upgrade gave him a more resonant, professional platform that matched the increasingly high production values of these records. His Zildjian K Custom cymbal transition also defined his sound across this era.',
+        albums: ['Hate Eternal: I, Monarch (2005)', 'Hate Eternal: Fury & Flames (2008)'],
         tours: ['Hate Eternal World Tour', 'Summer Slaughter 2006', 'Various extreme metal festival dates'],
         image: null,
 

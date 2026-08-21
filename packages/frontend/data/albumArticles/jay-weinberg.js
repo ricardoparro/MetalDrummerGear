@@ -34,7 +34,7 @@ export const articles = {
     "ogImage": "/images/drummers/jay-weinberg.webp",
     "intro": {
       "title": "Slipknot's Masked Drummer: Jay Weinberg's Complete Setup",
-      "content": "Jay Weinberg (born September 8, 1990, in Middletown Township, New Jersey) served as Slipknot's drummer from 2014 to 2023, donning the iconic mask #1 and manning the drum throne behind one of the heaviest live productions in metal. As the son of Max Weinberg — legendary drummer for Bruce Springsteen's E Street Band — Jay brought an unusual combination of hardcore punk intensity, classical technique discipline, and an encyclopedic knowledge of Joey Jordison's parts to the most demanding drum seat in nu-metal.\n\nWeinberg uses an SJC Custom Drums kit paired with Zildjian cymbals as Slipknot's drummer — a setup he developed and refined across three studio albums and years of relentless world touring with the band. His rig is a hybrid acoustic and electronic system built to deliver Slipknot's dense sample-triggered live show while maintaining the explosive, muscular live drumming feel the band demands.\n\nBefore Slipknot, Weinberg built his chops in the hardcore and punk scenes — touring with Against Me!, Madball, and filling in for his father on the Springsteen Working on a Dream World Tour in 2009. That background in raw, immediate playing gave him the physical toughness that nine years with Slipknot required.\n\nThis article breaks down every piece of Jay Weinberg's drum setup across his Slipknot tenure: his SJC Custom kit, Zildjian K Custom cymbal arsenal, DW 9000 hardware, Tama SLP snare, Vater sticks, and Roland electronics — and how each component served Slipknot's ferocious live and studio demands.",
+      "content": "Jay Weinberg (born September 8, 1990, in Middletown Township, New Jersey) served as Slipknot's drummer from 2014 to 2023, donning the iconic mask #1 and manning the drum throne behind one of the heaviest live productions in metal. As the son of Max Weinberg — legendary drummer for Bruce Springsteen's E Street Band — Jay brought an unusual combination of hardcore punk intensity, classical technique discipline, and an encyclopedic knowledge of Joey Jordison's parts to the most demanding drum seat in nu-metal.\n\nWeinberg uses an SJC Custom Drums kit paired with Zildjian cymbals as Slipknot's drummer — a setup he switched to for We Are Not Your Kind (2019) after debuting on a Pearl Reference Pure kit for .5: The Gray Chapter (2014), and then carried through The End, So Far (2022) and years of relentless world touring with the band. His rig is a hybrid acoustic and electronic system built to deliver Slipknot's dense sample-triggered live show while maintaining the explosive, muscular live drumming feel the band demands.\n\nBefore Slipknot, Weinberg built his chops in the hardcore and punk scenes — touring with Against Me!, Madball, and filling in for his father on the Springsteen Working on a Dream World Tour in 2009. That background in raw, immediate playing gave him the physical toughness that nine years with Slipknot required.\n\nThis article breaks down every piece of Jay Weinberg's drum setup across his Slipknot tenure: his SJC Custom kit, Zildjian K Custom cymbal arsenal, DW 9000 hardware, Tama SLP snare, Vater sticks, and Roland electronics — and how each component served Slipknot's ferocious live and studio demands.",
       "keyPoints": [
         "Slipknot drummer 2014–2023 — masked drummer #1",
         "SJC Custom Drums — custom-finished kit for Slipknot aesthetics",
@@ -178,12 +178,12 @@ export const articles = {
         ],
         "description": "Establishing the setup — Weinberg joins Slipknot and records his first album.",
         "gear": {
-          "drums": "SJC Custom kit (initial Slipknot configuration)",
-          "snare": "Tama SLP (developing configuration)",
-          "cymbals": "Zildjian K Custom series (initial setup)",
-          "hardware": "DW 9000 double bass pedal, Roland trigger system, Vater sticks, Evans heads"
+          "drums": "Pearl Reference Pure kit (debut Slipknot configuration)",
+          "snare": "Pearl Reference Pure 14\" snare (debut configuration)",
+          "cymbals": "Zildjian A series (debut setup)",
+          "hardware": "DW 9000 double bass pedal, Vic Firth signature sticks, Evans heads"
         },
-        "notes": "Weinberg's identity as the new Slipknot drummer was kept secret for months. He had to learn the full Slipknot catalog and honor Jordison's parts while beginning to develop his own voice within the band."
+        "notes": "Weinberg's identity as the new Slipknot drummer was kept secret for months. He had to learn the full Slipknot catalog and honor Jordison's parts while beginning to develop his own voice within the band. He later switched to SJC Custom Drums and a Tama SLP snare for We Are Not Your Kind (2019)."
       },
       {
         "era": "We Are Not Your Kind Era",
@@ -581,24 +581,25 @@ export const articles = {
     "dateModified": "2026-06-24",
     "author": "MetalForge Editorial",
     "title": "We Are Not Your Kind — Slipknot Drum Setup (Jay Weinberg, 2019)",
-    "description": "Grammy-winning WANYK (2019): Jay Weinberg's evolved Pearl Reference Pure, Zildjian A+K Custom hybrid cymbals, DW 9000 double pedal. Complete drum setup breakdown for Slipknot's #1 US/UK album.",
+    "description": "Grammy-winning WANYK (2019): Jay Weinberg's switch to SJC Custom Drums and Tama SLP snare, Zildjian A+K Custom hybrid cymbals, DW 9000 double pedal. Complete drum setup breakdown for Slipknot's #1 US/UK album.",
     "seoKeywords": [
       "jay weinberg wanyk drum kit",
       "slipknot 2019 drum setup",
       "slipknot 2019 drummer gear",
       "we are not your kind drum setup",
       "jay weinberg grammy drums",
-      "jay weinberg pearl reference pure 2019",
+      "jay weinberg sjc custom drums 2019",
       "slipknot nero forte drums"
     ],
     "ogImage": "/images/albums/we-are-not-your-kind-drums.webp",
     "intro": {
       "title": "Grammy-Winning Drumming: Jay Weinberg on We Are Not Your Kind",
-      "content": "*We Are Not Your Kind*, released August 9, 2019, is the artistic peak of Jay Weinberg's nine-year tenure with Slipknot — a Grammy-winning #1 album in both the United States and the United Kingdom that showcased the full development of his studio drumming since his debut on *.5: The Gray Chapter* five years earlier.\n\nProduced again by Greg Fidelman, WANYK is a denser, more compositionally ambitious record than its predecessor. Where the Gray Chapter introduced Weinberg as a capable replacement who could handle the established Slipknot template, We Are Not Your Kind found him as a co-author of a new chapter — one that expanded the band's sonic palette with atmospheric passages, heavier polyrhythmic writing, and a production darkness that matched the record's lyrical subject matter.\n\nThe album won the Grammy Award for Best Metal Performance in 2021, with the track \"Nero Forte\" taking the honor — one of the most technically demanding drum performances Weinberg committed to tape, featuring rapid polyrhythmic patterns across a complex, shifting arrangement.\n\nThe commercial response was equally emphatic: WANYK debuted at #1 on the US Billboard 200 and at #1 in the UK, making it Slipknot's first album to top the American chart. For a band recording their fifth studio album 22 years into their career, it represented a remarkable second wind — driven in no small part by the energy Weinberg brought to the rhythm section.\n\nThis article covers the drum gear Jay Weinberg used on *We Are Not Your Kind*: the evolved Pearl Reference Pure shell pack, his hybrid Zildjian A and K Custom cymbal setup, DW 9000 double pedal with Pearl Demon Drive triggers, Evans heads, and Vic Firth signature sticks. For his Gray Chapter setup, see [The Gray Chapter drum setup](/articles/the-gray-chapter-drum-setup). For the complete career overview, see the [Jay Weinberg complete drum setup guide](/articles/jay-weinberg-complete-drum-setup).",
+      "content": "*We Are Not Your Kind*, released August 9, 2019, is the artistic peak of Jay Weinberg's nine-year tenure with Slipknot — a Grammy-winning #1 album in both the United States and the United Kingdom that showcased the full development of his studio drumming since his debut on *.5: The Gray Chapter* five years earlier.\n\nProduced again by Greg Fidelman, WANYK is a denser, more compositionally ambitious record than its predecessor. Where the Gray Chapter introduced Weinberg as a capable replacement who could handle the established Slipknot template, We Are Not Your Kind found him as a co-author of a new chapter — one that expanded the band's sonic palette with atmospheric passages, heavier polyrhythmic writing, and a production darkness that matched the record's lyrical subject matter.\n\nThe album won the Grammy Award for Best Metal Performance in 2021, with the track \"Nero Forte\" taking the honor — one of the most technically demanding drum performances Weinberg committed to tape, featuring rapid polyrhythmic patterns across a complex, shifting arrangement.\n\nThe commercial response was equally emphatic: WANYK debuted at #1 on the US Billboard 200 and at #1 in the UK, making it Slipknot's first album to top the American chart. For a band recording their fifth studio album 22 years into their career, it represented a remarkable second wind — driven in no small part by the energy Weinberg brought to the rhythm section.\n\nThis article covers the drum gear Jay Weinberg used on *We Are Not Your Kind*: his switch to a boutique SJC Custom Drums shell pack and Tama SLP snare, his hybrid Zildjian A and K Custom cymbal setup, DW 9000 double pedal with Pearl Demon Drive triggers, Evans heads, and Vic Firth signature sticks. For his Gray Chapter setup, see [The Gray Chapter drum setup](/articles/the-gray-chapter-drum-setup). For the complete career overview, see the [Jay Weinberg complete drum setup guide](/articles/jay-weinberg-complete-drum-setup).",
       "keyPoints": [
         "Grammy Award for Best Metal Performance 2021 — \"Nero Forte\"",
         "#1 US Billboard 200 and #1 UK — Slipknot's first US #1 album",
-        "Pearl Reference Pure evolved setup — expanded tom configuration vs Gray Chapter",
+        "Switched from the Gray Chapter's Pearl Reference Pure to a boutique SJC Custom Drums shell pack",
+        "New Tama SLP snare replacing the Pearl Reference Pure snare used on the debut",
         "Hybrid Zildjian A + K Custom cymbal approach for darker tonal character",
         "DW 9000 double pedal with Pearl Demon Drive triggers for live/studio hybrid",
         "Evans EC2 and EMAD2 heads throughout — denser batter construction for heavier playing",
@@ -606,50 +607,46 @@ export const articles = {
       ]
     },
     "drumKit": {
-      "title": "Pearl Reference Pure: The Evolved WANYK Setup",
-      "brand": "Pearl",
-      "model": "Pearl Reference Pure",
-      "finish": "Custom Slipknot finish (darker than natural Gray Chapter configuration)",
+      "title": "SJC Custom Drums: The WANYK Setup Shift",
+      "brand": "SJC Custom Drums",
+      "model": "SJC Custom Series",
+      "finish": "Custom Slipknot-themed finishes (black, custom wraps)",
       "config": {
         "bassdrums": [
-          "22\" Bass Drum (x2 — double kick)"
+          "22\" x 18\" Bass Drum (x2 — double kick)"
         ],
         "toms": [
-          "8\" Rack Tom",
-          "10\" Rack Tom",
-          "12\" Rack Tom",
-          "14\" Rack Tom",
-          "16\" Rack Tom"
+          "8\" x 7\" Rack Tom",
+          "10\" x 8\" Rack Tom",
+          "12\" x 10\" Rack Tom",
+          "13\" x 11\" Rack Tom"
         ],
         "floorToms": [
-          "16\" Floor Tom",
-          "18\" Floor Tom"
+          "16\" x 16\" Floor Tom",
+          "18\" x 16\" Floor Tom"
         ],
-        "snare": [
-          "14\" Snare Drum"
-        ],
-        "shells": "Maple/birch hybrid shells — Reference Pure construction"
+        "shells": "Maple shells, custom hardware and wrap finishes"
       },
-      "description": "By the time Slipknot entered the studio for *We Are Not Your Kind* in 2018–2019, Jay Weinberg had refined his Pearl Reference Pure setup considerably beyond its Gray Chapter configuration. The most visible change was the expanded tom array: WANYK sessions used a wider tom spread (five rack toms plus two floor toms) compared to the more standard four-rack setup of the debut. This expansion gave Weinberg the full melodic range of fills that the album's more compositionally complex arrangements required.\n\nThe Reference Pure's maple/birch hybrid shells continued to deliver the controlled attack and clean sustain that Greg Fidelman's production approach favored. Five years of live touring with the kit had given Weinberg intimate knowledge of how it responded across different acoustic environments — knowledge he applied in the studio to produce performances that translated from the tracking room to the final mix with minimal correction.\n\nOne significant evolution was the finish: where the Gray Chapter kit wore a more understated natural finish, the WANYK configuration adopted a darker visual identity aligned with the album's atmospheric aesthetic. Slipknot's live production for the WANYK era was darker and more elaborate than the Gray Chapter tour — the drum kit's appearance was part of this expanded visual package.\n\nThe double 22\" bass drums remained the foundation, with Weinberg's double-kick technique fully matured by the WANYK sessions. Tracks like \"Nero Forte\" and \"Birth of the Cruel\" feature double-bass patterns of exceptional density and precision — the product of years of live performance that had stress-tested the Reference Pure kick shells under real touring conditions.\n\nThe floor toms (16\" and 18\") saw increased compositional use on WANYK compared to the Gray Chapter, with Weinberg incorporating lower-register fill work that served the album's heavier, more orchestral arrangements. The Reference Pure's warm low-end resonance in the floor toms contributed to the album's characteristic density.",
+      "description": "By the time Slipknot entered the studio for *We Are Not Your Kind* in 2018–2019, Jay Weinberg had moved away from the production Pearl Reference Pure shells that carried his Gray Chapter debut, switching to a boutique, hand-built SJC Custom Drums kit finished to match Slipknot's stage aesthetic. SJC (Scott Johnson Customs), based in Marlborough, Massachusetts, builds drums to individual artist specifications — giving Weinberg a kit tailored exactly to his touch, tuning preferences, and the band's visual identity.\n\nSJC's maple shells deliver a warmer, more full-bodied attack than the Reference Pure's maple/birch hybrid construction — a character suited to the denser, more atmospheric production Greg Fidelman built for WANYK. Custom hardware finishes matched the band's iconic visual aesthetic, replacing the Gray Chapter kit's understated natural finish with a setup that was unmistakably Slipknot on stage.\n\nThe double 22\" x 18\" bass drums remained the foundation, with Weinberg's double-kick technique fully matured by the WANYK sessions. Tracks like \"Nero Forte\" and \"Birth of the Cruel\" feature double-bass patterns of exceptional density and precision.\n\nThe tom configuration — four rack toms (8\", 10\", 12\", 13\") plus two floor toms (16\", 18\") — gave Weinberg the full melodic range of fills that the album's more compositionally complex arrangements required, with the floor toms seeing increased compositional use on WANYK compared to the Gray Chapter's more standard layout.",
       "notes": [
-        "Expanded tom configuration vs Gray Chapter — five rack toms plus two floor toms",
+        "Switched from Pearl Reference Pure to boutique SJC Custom Drums for WANYK",
         "Darker visual finish aligned with WANYK album aesthetic",
-        "Same Reference Pure maple/birch hybrid shells — refined through five years of touring",
-        "Double 22\" bass drums — kick technique fully matured by WANYK sessions",
+        "SJC maple shells for warmer, fuller attack than the Reference Pure hybrid shells",
+        "Double 22\" x 18\" bass drums — kick technique fully matured by WANYK sessions",
         "Floor toms more prominent compositionally than on Gray Chapter"
       ],
-      "estimatedValue": "$4,000–6,000 (Pearl Reference Pure expanded configuration, 2019)"
+      "estimatedValue": "$4,000–8,000 (SJC Custom shell pack, 2019)"
     },
     "snare": {
-      "title": "The WANYK Crack: Heavier Tuning for Denser Production",
-      "brand": "Pearl",
-      "model": "Pearl Reference Pure 14\" Snare",
+      "title": "The WANYK Crack: A New Tama SLP Snare",
+      "brand": "Tama",
+      "model": "Tama SLP (Sound Lab Project)",
       "size": "14\" x 6.5\"",
-      "shell": "Maple/birch hybrid",
-      "description": "The snare approach on *We Are Not Your Kind* reflects the album's overall move toward a denser, darker sound palette. Jay Weinberg retained his Pearl Reference Pure 14\" snare — the same basic instrument as the Gray Chapter sessions — but refined the tuning and head selection to serve Fidelman's more atmospheric production approach.\n\nWhere the Gray Chapter snare sat with a relatively open, natural tone in a production designed to preserve acoustic character, the WANYK snare tuning moved toward slightly higher tension with tighter snare wire adjustment — producing a crisper, more defined crack that could cut through the album's increased sonic density without excessive processing.\n\nEvans EMAD2 heads (on the kick) and EC2 heads (on the snare batter) gave Weinberg a controlled, consistent response across the recording sessions. The EC2's built-in damping ring eliminated the overtones that would otherwise compete with the album's darker atmospheric elements — tracks like \"Solway Firth\" and \"A Liar's Funeral\" feature passages where the drum sound needed to integrate with cinematic elements rather than dominate them.\n\nThe trigger integration on WANYK's snare was more sophisticated than the Gray Chapter sessions — Fidelman's production on WANYK used a closer blend of acoustic and sample triggers, with the triggered snare sample adding attack definition precisely calibrated to the album's compression approach. The result is a snare sound that feels simultaneously live and produced — both attributes intentional and audible.",
+      "shell": "Varies by model — brass, steel, or wood SLP offerings",
+      "description": "The snare approach on *We Are Not Your Kind* reflects the album's overall move toward a denser, darker sound palette. Jay Weinberg moved on from the Pearl Reference Pure snare he used on the Gray Chapter, switching to a Tama SLP (Sound Lab Project) — a boutique snare chosen for immediate attack and controlled sustain that also proved sensitive enough to register the ghost notes Weinberg developed from his hardcore background.\n\nWhere the Gray Chapter snare sat with a relatively open, natural tone in a production designed to preserve acoustic character, the WANYK snare tuning moved toward slightly higher tension with tighter snare wire adjustment — producing a crisper, more defined crack that could cut through the album's increased sonic density without excessive processing. The Tama SLP's floating bearing edge construction supports this dynamic range.\n\nEvans EMAD2 heads (on the kick) and EC2 heads (on the snare batter) gave Weinberg a controlled, consistent response across the recording sessions. The EC2's built-in damping ring eliminated the overtones that would otherwise compete with the album's darker atmospheric elements — tracks like \"Solway Firth\" and \"A Liar's Funeral\" feature passages where the drum sound needed to integrate with cinematic elements rather than dominate them.\n\nThe trigger integration on WANYK's snare was more sophisticated than the Gray Chapter sessions — Fidelman's production on WANYK used a closer blend of acoustic and sample triggers, with the triggered snare sample adding attack definition precisely calibrated to the album's compression approach. The result is a snare sound that feels simultaneously live and produced — both attributes intentional and audible.",
       "tuningSetting": "Higher tension than Gray Chapter — tighter crack for denser WANYK production",
       "heads": "Evans EC2 Coated (batter), Evans 300 Snare Side (resonant)",
-      "estimatedValue": "$400–550 (Pearl Reference Pure snare, 2019)"
+      "estimatedValue": "$300–600 (Tama SLP series, 2019)"
     },
     "cymbals": {
       "title": "Zildjian A + K Custom Hybrid: WANYK's Darker Cymbal Character",
@@ -786,7 +783,7 @@ export const articles = {
           "China cymbal accents on the chorus emphasize industrial character",
           "Live performance staple of the WANYK touring cycle"
         ],
-        "gearNotes": "A series China retained for maximum attack on chorus accents. Pearl Reference Pure toms prominent in the bridge fill work."
+        "gearNotes": "A series China retained for maximum attack on chorus accents. SJC Custom toms prominent in the bridge fill work."
       },
       {
         "track": "Birth of the Cruel",
@@ -808,7 +805,7 @@ export const articles = {
     "faq": [
       {
         "question": "What drum kit does Jay Weinberg use on We Are Not Your Kind?",
-        "answer": "Jay Weinberg used an evolved Pearl Reference Pure setup on We Are Not Your Kind (2019), featuring an expanded tom configuration compared to The Gray Chapter — five rack toms (8\", 10\", 12\", 14\", 16\") plus two floor toms (16\", 18\"), and double 22\" bass drums. The Reference Pure's maple/birch hybrid shells were paired with Evans EMAD2 kick heads and EC2 batter heads throughout. Pearl Demon Drive triggers were integrated on the bass drums for the album's dense, hybrid production approach."
+        "answer": "Jay Weinberg switched to a boutique SJC Custom Drums shell pack on We Are Not Your Kind (2019), moving on from the Pearl Reference Pure kit he played on The Gray Chapter. The SJC configuration features four rack toms (8\", 10\", 12\", 13\") plus two floor toms (16\", 18\"), and double 22\" x 18\" bass drums, with maple shells finished in custom Slipknot-themed wraps. Evans EMAD2 kick heads and EC2 batter heads were used throughout, with Pearl Demon Drive triggers integrated on the bass drums for the album's dense, hybrid production approach."
       },
       {
         "question": "Did Jay Weinberg win a Grammy for We Are Not Your Kind?",
@@ -816,7 +813,7 @@ export const articles = {
       },
       {
         "question": "How does Jay Weinberg's setup differ between The Gray Chapter and We Are Not Your Kind?",
-        "answer": "The most significant change between Jay Weinberg's Gray Chapter (2014) and WANYK (2019) setups was the cymbal configuration. On the Gray Chapter, Weinberg used a pure Zildjian A series setup; on WANYK he adopted a hybrid A and K Custom approach — retaining A series hi-hats and China for attack and clarity, while adding K Custom Dark crashes and a K Custom ride for darker, more complex crash and ride character suited to the album's atmospheric production. The drum kit itself evolved from a standard Reference Pure configuration to an expanded tom setup (5 rack toms + 2 floor toms), and Evans EMAD2 heads replaced EMAD for heavier batter construction. Pearl Demon Drive triggers were also more prominent in the WANYK mix."
+        "answer": "The most significant changes between Jay Weinberg's Gray Chapter (2014) and WANYK (2019) setups were the drum kit, snare, and cymbal configuration. Weinberg switched from a Pearl Reference Pure kit and snare to a boutique SJC Custom Drums shell pack and a Tama SLP snare. On the cymbal side, the Gray Chapter used a pure Zildjian A series setup; on WANYK he adopted a hybrid A and K Custom approach — retaining A series hi-hats and China for attack and clarity, while adding K Custom Dark crashes and a K Custom ride for darker, more complex crash and ride character suited to the album's atmospheric production. Evans EMAD2 heads replaced EMAD for heavier batter construction, and Pearl Demon Drive triggers were more prominent in the WANYK mix."
       },
       {
         "question": "What cymbals does Jay Weinberg use on We Are Not Your Kind?",
@@ -835,7 +832,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "We Are Not Your Kind: Jay Weinberg at the Peak of His Slipknot Career",
-      "content": "*We Are Not Your Kind* is the definitive Jay Weinberg Slipknot record — the album where his voice as a drummer is fully present, fully developed, and fully recognized. A #1 album in the United States and the United Kingdom. A Grammy Award for Best Metal Performance. A drum performance on \"Nero Forte\" that earned co-writing credit and global critical recognition. These are not the achievements of a replacement; they are the achievements of a musician who had made the role his own.\n\nThe equipment that made these recordings possible — the Pearl Reference Pure expanded kit, the Zildjian A + K Custom hybrid cymbal setup, the DW 9000 double pedal, the Pearl Demon Drive triggers, the Evans EMAD2 heads, the Vic Firth signature sticks — represents a drummer who understood exactly why each piece of gear served the music. The hybrid cymbal approach in particular reflects sophisticated tonal thinking: mixing series to achieve a target sound, not selecting endorsement products by default.\n\nFor drummers studying WANYK, the rewards are in the details. Listen to the polyrhythmic patterns in \"Nero Forte\"'s verse against the 4/4 pulse of the track. Hear the dynamic control across \"Solway Firth\" — from the restrained verse groove to the full-power chorus. Track the floor tom usage across the album, more prominent than on the Gray Chapter, more compositionally integrated into the arrangements.\n\nThe gear is accessible. Pearl Reference Pure kits, Zildjian cymbals, DW pedals, Evans heads — all are available to working drummers at professional price points. What is not accessible, except through years of dedicated work, is the musical intelligence to deploy them in service of compositions as demanding and as good as *We Are Not Your Kind*.\n\nFor the full picture of Jay Weinberg's Slipknot drum journey, see [The Gray Chapter drum setup](/articles/the-gray-chapter-drum-setup) and the [Jay Weinberg complete drum setup guide](/articles/jay-weinberg-complete-drum-setup)."
+      "content": "*We Are Not Your Kind* is the definitive Jay Weinberg Slipknot record — the album where his voice as a drummer is fully present, fully developed, and fully recognized. A #1 album in the United States and the United Kingdom. A Grammy Award for Best Metal Performance. A drum performance on \"Nero Forte\" that earned co-writing credit and global critical recognition. These are not the achievements of a replacement; they are the achievements of a musician who had made the role his own.\n\nThe equipment that made these recordings possible — the new SJC Custom Drums shell pack, the Tama SLP snare, the Zildjian A + K Custom hybrid cymbal setup, the DW 9000 double pedal, the Pearl Demon Drive triggers, the Evans EMAD2 heads, the Vic Firth signature sticks — represents a drummer who understood exactly why each piece of gear served the music. The hybrid cymbal approach in particular reflects sophisticated tonal thinking: mixing series to achieve a target sound, not selecting endorsement products by default.\n\nFor drummers studying WANYK, the rewards are in the details. Listen to the polyrhythmic patterns in \"Nero Forte\"'s verse against the 4/4 pulse of the track. Hear the dynamic control across \"Solway Firth\" — from the restrained verse groove to the full-power chorus. Track the floor tom usage across the album, more prominent than on the Gray Chapter, more compositionally integrated into the arrangements.\n\nThe gear is accessible. SJC-style boutique kits, Tama SLP snares, Zildjian cymbals, DW pedals, Evans heads — all are available to working drummers at professional price points. What is not accessible, except through years of dedicated work, is the musical intelligence to deploy them in service of compositions as demanding and as good as *We Are Not Your Kind*.\n\nFor the full picture of Jay Weinberg's Slipknot drum journey, see [The Gray Chapter drum setup](/articles/the-gray-chapter-drum-setup) and the [Jay Weinberg complete drum setup guide](/articles/jay-weinberg-complete-drum-setup)."
     }
   },
   "the-end-so-far-drum-setup": {
@@ -856,75 +853,71 @@ export const articles = {
     "dateModified": "2022-09-30",
     "author": "MetalForge Editorial",
     "title": "The End, So Far — Slipknot Drum Setup (Jay Weinberg, 2022)",
-    "description": "Jay Weinberg's farewell Slipknot album (2022): Tama Star Maple kit, Pearl Dennis Chambers snare, Zildjian cymbals. Grammy-nominated 'The Dying Song'. Complete TESF drum setup breakdown.",
+    "description": "Jay Weinberg's farewell Slipknot album (2022): mature SJC Custom Drums kit, Tama SLP snare, Zildjian cymbals. Grammy-nominated 'The Dying Song'. Complete TESF drum setup breakdown.",
     "seoKeywords": [
       "jay weinberg the end so far drum kit",
       "slipknot 2022 drum setup",
       "slipknot 2022 drummer gear",
       "the end so far drum setup",
-      "jay weinberg tama star maple",
-      "jay weinberg pearl dennis chambers snare",
+      "jay weinberg sjc custom drums 2022",
+      "jay weinberg tama slp snare",
       "slipknot the dying song drums"
     ],
     "ogImage": "/images/albums/the-end-so-far-drums.webp",
     "intro": {
       "title": "Jay Weinberg's Final Chapter: The End, So Far Drum Setup",
-      "content": "*The End, So Far*, released September 30, 2022, is the third and final Slipknot studio album featuring Jay Weinberg — his farewell record with the band before his departure in late 2023. It is also the first Slipknot album to reach #1 on the Billboard Alternative Albums chart, and earned a Grammy nomination for Best Metal Performance for the track \"The Dying Song (T.H.I.S.).\"\n\nProduced by Joe Barresi — known for his work with Tool and Queens of the Stone Age — *The End, So Far* represents a significant sonic shift from Weinberg's previous two Slipknot records. Where *We Are Not Your Kind* (2019) pushed the band toward darker atmospherics and dense polyrhythmic layering, TESF pursues a rawer, more dynamic approach that gave Weinberg space to demonstrate range across a broader emotional palette. The record alternates between controlled, atmospheric passages and full-throttle aggression in a way that highlighted the full scope of his development as a studio drummer.\n\nThe most significant gear change Weinberg made for TESF was the switch from his longstanding Pearl Reference Pure shell pack to a Tama Star Maple configuration — a fundamentally different drum construction approach that delivered a punchier, more immediate attack suited to Barresi's production. Alongside this, Weinberg switched from the Pearl Reference Pure snare to the Pearl Dennis Chambers signature snare — a move that brought a different tuning character to the top end of his setup.\n\nThis article covers Jay Weinberg's drum gear on *The End, So Far*: the Tama Star Maple shell pack, the Pearl Dennis Chambers signature snare, his Zildjian cymbal configuration, DW double pedal, Evans heads, and Vic Firth signature sticks. For his WANYK setup, see [We Are Not Your Kind drum setup](/articles/we-are-not-your-kind-drum-setup). For the full career overview, see the [Jay Weinberg complete drum setup guide](/articles/jay-weinberg-complete-drum-setup).",
+      "content": "*The End, So Far*, released September 30, 2022, is the third and final Slipknot studio album featuring Jay Weinberg — his farewell record with the band before his departure in late 2023. It is also the first Slipknot album to reach #1 on the Billboard Alternative Albums chart, and earned a Grammy nomination for Best Metal Performance for the track \"The Dying Song (T.H.I.S.).\"\n\nProduced by Joe Barresi — known for his work with Tool and Queens of the Stone Age — *The End, So Far* represents a significant sonic shift from Weinberg's previous two Slipknot records. Where *We Are Not Your Kind* (2019) pushed the band toward darker atmospherics and dense polyrhythmic layering, TESF pursues a rawer, more dynamic approach that gave Weinberg space to demonstrate range across a broader emotional palette. The record alternates between controlled, atmospheric passages and full-throttle aggression in a way that highlighted the full scope of his development as a studio drummer.\n\nOn the gear side, TESF finds Weinberg's setup fully mature rather than changing again: the SJC Custom Drums shell pack and Tama SLP snare he introduced on *We Are Not Your Kind* carried through into his final Slipknot album, refined in tuning to suit Barresi's rawer production but unchanged in platform.\n\nThis article covers Jay Weinberg's drum gear on *The End, So Far*: the mature SJC Custom Drums shell pack, the Tama SLP snare, his Zildjian cymbal configuration, DW double pedal, Evans heads, and Vic Firth signature sticks. For his WANYK setup, see [We Are Not Your Kind drum setup](/articles/we-are-not-your-kind-drum-setup). For the full career overview, see the [Jay Weinberg complete drum setup guide](/articles/jay-weinberg-complete-drum-setup).",
       "keyPoints": [
         "Grammy nomination — Best Metal Performance for \"The Dying Song (T.H.I.S.)\"",
         "First Slipknot album to hit #1 on the Billboard Alternative Albums chart",
-        "Tama Star Maple kit — significant switch from Pearl Reference Pure after two albums",
-        "Pearl Dennis Chambers signature snare — snare upgrade for TESF sessions",
+        "SJC Custom Drums kit carried forward from WANYK, refined tuning for TESF sessions",
+        "Tama SLP snare unchanged from WANYK — no gear switch for the farewell album",
         "Jay Weinberg's final Slipknot studio recording before departure in 2023",
         "Produced by Joe Barresi — rawer, more dynamic approach than Fidelman's WANYK",
         "Zildjian cymbal setup continued and refined from WANYK configuration"
       ]
     },
     "drumKit": {
-      "title": "Tama Star Maple: The TESF Setup Shift",
-      "brand": "Tama",
-      "model": "Tama Star Maple",
-      "finish": "Custom Slipknot configuration",
+      "title": "SJC Custom Drums: The Mature TESF Setup",
+      "brand": "SJC Custom Drums",
+      "model": "SJC Custom Series",
+      "finish": "Custom Slipknot-themed finishes (black, custom wraps)",
       "config": {
         "bassdrums": [
-          "22\" Bass Drum (x2 — double kick)"
+          "22\" x 18\" Bass Drum (x2 — double kick)"
         ],
         "toms": [
-          "8\" Rack Tom",
-          "10\" Rack Tom",
-          "12\" Rack Tom",
-          "14\" Rack Tom",
-          "16\" Rack Tom"
+          "8\" x 7\" Rack Tom",
+          "10\" x 8\" Rack Tom",
+          "12\" x 10\" Rack Tom",
+          "13\" x 11\" Rack Tom"
         ],
         "floorToms": [
-          "16\" Floor Tom",
-          "18\" Floor Tom"
+          "16\" x 16\" Floor Tom",
+          "18\" x 16\" Floor Tom"
         ],
-        "snare": [
-          "14\" Snare Drum (Pearl Dennis Chambers signature)"
-        ],
-        "shells": "Maple shells — Tama Star construction with Star-Cast mounting system"
+        "shells": "Maple shells, custom hardware and wrap finishes"
       },
-      "description": "The most consequential gear decision Jay Weinberg made for *The End, So Far* was abandoning the Pearl Reference Pure shell pack — the instrument that had carried him through the Gray Chapter and WANYK sessions — in favour of a Tama Star Maple configuration. This was not a minor adjustment; it was a fundamental change in drum construction philosophy that shaped the sonic character of TESF's drum sound from the ground up.\n\nThe Tama Star Maple is widely regarded as one of the finest production maple kits available: solid maple shells with Tama's Star-Cast mounting system, which isolates the shell from the hardware to allow maximum resonance. Where the Pearl Reference Pure used a maple/birch hybrid construction that balanced brightness with warmth, the Tama Star Maple is a pure maple instrument — delivering punchier, more immediate attack with a slightly shorter, more focused decay. For Joe Barresi's rawer production approach on TESF, this character served the sessions better than the Reference Pure's broader, more sustained tone.\n\nThe Star-Cast mounting system was particularly significant for Weinberg's recording workflow. By isolating the shell from the lug hardware, it eliminates the dampening effect that mounting hardware imposes on resonating shells — the toms ring freely, with the full character of the maple available rather than a compromised version choked by mounting contact. In a recording environment, this translates to toms that need minimal processing to sound their best.\n\nThe double 22\" bass drum configuration remained unchanged from WANYK — Weinberg's double-kick technique was by this point a fully established and well-documented part of his setup, and the Tama Star bass drums delivered the kick punch that Barresi's production required. The tom array likewise retained the expanded WANYK configuration — five rack toms plus two floor toms — giving Weinberg the melodic fill range that TESF's more dynamic arrangements demanded.",
+      "description": "By *The End, So Far*, Jay Weinberg's gear decisions were about refinement rather than replacement. The boutique SJC Custom Drums shell pack he switched to for *We Are Not Your Kind* carried through into his final Slipknot album unchanged in platform — the same hand-built, Marlborough, Massachusetts-made kit, retuned to suit producer Joe Barresi's rawer, more immediate production approach.\n\nSJC's maple shells deliver a warm, full-bodied attack that Barresi's rawer mix let register with more immediacy than the denser, more atmospheric WANYK production had allowed. Where Greg Fidelman's WANYK approach favored a broader, more layered drum sound, Barresi's production gave the SJC kit's natural resonance more room to breathe — a difference in mixing philosophy rather than a change of instrument.\n\nThe double 22\" x 18\" bass drum configuration remained unchanged from WANYK — Weinberg's double-kick technique was by this point a fully established and well-documented part of his setup. The tom array likewise retained the four rack tom plus two floor tom configuration, giving Weinberg the melodic fill range that TESF's more dynamic arrangements demanded.",
       "notes": [
-        "Switch from Pearl Reference Pure to Tama Star Maple — major kit change for TESF",
-        "Star-Cast mounting system for maximum shell resonance in studio tracking",
-        "Pure maple shells — punchier, more immediate attack vs Reference Pure hybrid construction",
-        "Retained double 22\" bass drum configuration from WANYK",
-        "Expanded five rack tom plus two floor tom layout carried forward"
+        "Same SJC Custom Drums platform carried forward from We Are Not Your Kind — no kit switch for TESF",
+        "Refined tuning suited to Joe Barresi's rawer, more immediate production approach",
+        "Maple shells for warm, full-bodied attack",
+        "Retained double 22\" x 18\" bass drum configuration from WANYK",
+        "Four rack tom plus two floor tom layout carried forward"
       ],
-      "estimatedValue": "$4,500–7,000 (Tama Star Maple expanded configuration, 2022)"
+      "estimatedValue": "$4,000–8,000 (SJC Custom shell pack, 2022)"
     },
     "snare": {
-      "title": "Pearl Dennis Chambers Signature: The TESF Snare Switch",
-      "brand": "Pearl",
-      "model": "Pearl Dennis Chambers Signature Snare",
-      "size": "14\" x 5\"",
-      "shell": "Maple",
-      "description": "Jay Weinberg's switch to the Pearl Dennis Chambers signature snare for *The End, So Far* sessions was the second significant gear change in his TESF setup — and one that brought an immediately different character to the top end of his drum sound. The Dennis Chambers model is a 14\" x 5\" maple-shell snare with a shallower depth than the Reference Pure snare Weinberg had used on the Gray Chapter and WANYK sessions.\n\nThe Dennis Chambers signature is widely regarded for its sensitivity and versatility: the shallower shell produces a slightly drier, more controlled tone than deeper snares, with a focused crack that cuts through dense mixes without excessive ring. For TESF's production — rawer and more dynamic than WANYK's atmospheric density — the Dennis Chambers snare provided a crack character that integrated with Barresi's approach without requiring aggressive gating or heavy processing to control.\n\nThe choice of a Dennis Chambers endorsement model reflects the broader shift in Weinberg's drumming reference points by 2022. Chambers is a fusion and jazz drummer as much as a rock drummer — selecting his signature snare signals thinking about tonal nuance and sensitivity beyond the purely aggressive. By his third Slipknot album, Weinberg was drawing on a wider frame of reference than the nu-metal template that defined his early Slipknot work.\n\nThe Evans EC2 snare batter head remained the preferred choice for TESF sessions — the built-in damping ring controlled the overtones that would otherwise compete with the album's more dynamic passages, providing the consistent, controlled response that studio recording requires.",
+      "title": "The Crack at the Core: Tama SLP Snare, Unchanged for TESF",
+      "brand": "Tama",
+      "model": "Tama SLP (Sound Lab Project)",
+      "size": "14\" x 6.5\"",
+      "shell": "Varies by model — brass, steel, or wood SLP offerings",
+      "description": "Jay Weinberg carried the Tama SLP (Sound Lab Project) snare he introduced on *We Are Not Your Kind* into *The End, So Far* sessions without a change of model — a continuation rather than another switch, refined in tuning to suit Joe Barresi's rawer, more dynamic production.\n\nThe Tama SLP's floating bearing edge construction and immediate attack with controlled sustain gave Weinberg the crack character TESF needed: focused enough to cut through Barresi's rawer mix without requiring aggressive gating or heavy processing to control. The snare's sensitivity also continued to register the ghost notes Weinberg developed from his hardcore background, a technique that remained part of his voice through his final Slipknot album.\n\nBy his third Slipknot album, Weinberg's gear choices reflected a drummer who had settled into a mature, well-understood platform rather than one still searching for his sound — the SLP's tuning was dialed in through years of touring rather than changed for TESF.\n\nThe Evans EC2 snare batter head remained the preferred choice for TESF sessions — the built-in damping ring controlled the overtones that would otherwise compete with the album's more dynamic passages, providing the consistent, controlled response that studio recording requires.",
       "tuningSetting": "Medium tension — focused crack suited to TESF's rawer production approach",
       "heads": "Evans EC2 Coated (batter), Evans 300 Snare Side (resonant)",
-      "estimatedValue": "$350–500 (Pearl Dennis Chambers signature snare, 2022)"
+      "estimatedValue": "$300–600 (Tama SLP series, 2022)"
     },
     "cymbals": {
       "title": "Zildjian TESF: Refined Hybrid Setup for Barresi's Production",
@@ -999,7 +992,7 @@ export const articles = {
           "brand": "Evans",
           "model": "Evans EC2 and EMAD2 series",
           "notes": "Evans endorsement continued — EMAD2 on kicks, EC2 on toms and snare",
-          "description": "The Evans head setup that Weinberg established for WANYK carried into TESF with minimal changes: EMAD2 on the bass drums for controlled, punchy low-end, EC2 on the rack toms and snare for consistent attack with built-in damping. For a drum kit switching from Pearl to Tama shells, maintaining head consistency gave Weinberg a familiar feel and response on the batter surface while adapting to the new shell's resonance characteristics."
+          "description": "The Evans head setup that Weinberg established for WANYK carried into TESF unchanged: EMAD2 on the bass drums for controlled, punchy low-end, EC2 on the rack toms and snare for consistent attack with built-in damping. With the same SJC kit and Tama SLP snare continuing from WANYK, maintaining head consistency gave Weinberg a familiar feel and response on the batter surface across both sessions."
         }
       ],
       "heads": {
@@ -1010,11 +1003,11 @@ export const articles = {
     },
     "recordingTechniques": {
       "title": "Joe Barresi's Raw Production: TESF in the Studio",
-      "content": "Joe Barresi's production approach on *The End, So Far* represented a deliberate departure from the Greg Fidelman template that had defined the previous two Jay Weinberg Slipknot records. Where Fidelman's WANYK was dense, atmospheric, and heavily layered, Barresi — known for his work with Tool, Queens of the Stone Age, and Bad Religion — favoured a rawer, more dynamic approach that gave individual instruments more room to breathe within the mix.\n\n**Raw Dynamic Capture:**\nTESF's production captures Weinberg's kit with more immediacy than WANYK. The Tama Star Maple's punchier attack character was particularly well-served by Barresi's approach — where Fidelman's denser layering benefited from the Reference Pure's broader sustain, Barresi's rawer mix allowed the Star Maple's focused punch to register without being buried. The result is a drum sound that feels physically immediate in a way that the WANYK drum sound — for all its technical sophistication — did not always prioritise.\n\n**Dynamic Range and Contrast:**\nOne of TESF's defining production characteristics is its dynamic range — the contrast between aggressive full-band passages and more stripped-back atmospheric sections. Weinberg's ability to play at genuinely quiet levels with feel and control, developed through WANYK's atmospheric demands, was directly applicable to TESF's more pronounced internal dynamic. Tracks like \"Medicine for the Dead\" and \"H377\" use this dynamic contrast as a compositional tool — and Barresi's production captured both extremes cleanly.\n\n**The Grammy-Nominated Performance:**\n\"The Dying Song (T.H.I.S.)\" — the track that earned Slipknot a Grammy nomination for Best Metal Performance — represents some of Weinberg's most direct, high-impact drumming on record. The track's straightforward aggression is deceptive; maintaining intensity and pocket simultaneously at that tempo and volume over a full performance is demanding work. The Pearl Dennis Chambers snare's focused crack and the Tama Star Maple's punchy attack both serve this track's character with particular effectiveness.",
+      "content": "Joe Barresi's production approach on *The End, So Far* represented a deliberate departure from the Greg Fidelman template that had defined the previous two Jay Weinberg Slipknot records. Where Fidelman's WANYK was dense, atmospheric, and heavily layered, Barresi — known for his work with Tool, Queens of the Stone Age, and Bad Religion — favoured a rawer, more dynamic approach that gave individual instruments more room to breathe within the mix.\n\n**Raw Dynamic Capture:**\nTESF's production captures Weinberg's kit with more immediacy than WANYK. The same SJC Custom kit and Tama SLP snare were particularly well-served by Barresi's approach — where Fidelman's denser layering favoured broader sustain, Barresi's rawer mix let the SJC shells' natural punch register without being buried. The result is a drum sound that feels physically immediate in a way that the WANYK drum sound — for all its technical sophistication — did not always prioritise.\n\n**Dynamic Range and Contrast:**\nOne of TESF's defining production characteristics is its dynamic range — the contrast between aggressive full-band passages and more stripped-back atmospheric sections. Weinberg's ability to play at genuinely quiet levels with feel and control, developed through WANYK's atmospheric demands, was directly applicable to TESF's more pronounced internal dynamic. Tracks like \"Medicine for the Dead\" and \"H377\" use this dynamic contrast as a compositional tool — and Barresi's production captured both extremes cleanly.\n\n**The Grammy-Nominated Performance:**\n\"The Dying Song (T.H.I.S.)\" — the track that earned Slipknot a Grammy nomination for Best Metal Performance — represents some of Weinberg's most direct, high-impact drumming on record. The track's straightforward aggression is deceptive; maintaining intensity and pocket simultaneously at that tempo and volume over a full performance is demanding work. The Tama SLP snare's focused crack and the SJC kit's punchy attack both serve this track's character with particular effectiveness.",
       "keyTechniques": [
         "Joe Barresi's rawer, more dynamic production approach vs Fidelman's atmospheric WANYK",
-        "Tama Star Maple's punchy attack well-suited to Barresi's immediate-sounding mix",
-        "Pearl Dennis Chambers snare provides focused crack for TESF's rawer production palette",
+        "Same SJC Custom kit's punchy attack well-suited to Barresi's immediate-sounding mix",
+        "Tama SLP snare, unchanged from WANYK, provides focused crack for TESF's rawer production palette",
         "Dynamic contrast between aggressive and atmospheric passages a key TESF characteristic",
         "\"The Dying Song (T.H.I.S.)\" Grammy nomination reflects Weinberg's high-impact drumming"
       ]
@@ -1028,9 +1021,9 @@ export const articles = {
           "Grammy-nominated track — Best Metal Performance nomination",
           "Lead single driving the album's commercial profile",
           "Direct, high-impact drumming at sustained intensity",
-          "Dennis Chambers snare crack prominent in the mix throughout"
+          "Tama SLP snare crack prominent in the mix throughout"
         ],
-        "gearNotes": "Pearl Dennis Chambers snare crack defines the track's top end. Tama Star Maple punch evident in the chorus tom fills. DW 9000 double-kick provides the aggressive rhythmic foundation."
+        "gearNotes": "Tama SLP snare crack defines the track's top end. SJC Custom kit punch evident in the chorus tom fills. DW 9000 double-kick provides the aggressive rhythmic foundation."
       },
       {
         "track": "The Chapeltown Rag",
@@ -1042,7 +1035,7 @@ export const articles = {
           "China cymbal accents emphasise the track's industrial character",
           "Live performance staple of the TESF touring cycle"
         ],
-        "gearNotes": "A series China delivers maximum attack on chorus accents. Tama Star Maple rack toms prominent in the verse pattern work."
+        "gearNotes": "A series China delivers maximum attack on chorus accents. SJC Custom rack toms prominent in the verse pattern work."
       },
       {
         "track": "Yen",
@@ -1054,7 +1047,7 @@ export const articles = {
           "Restrained drumming that serves the track's melodic character",
           "K Custom cymbal wash provides atmospheric texture without aggression"
         ],
-        "gearNotes": "K Custom crashes and ride in restrained application — complex overtones provide atmospheric texture. Dennis Chambers snare tuned to serve the track's quieter dynamic."
+        "gearNotes": "K Custom crashes and ride in restrained application — complex overtones provide atmospheric texture. Tama SLP snare tuned to serve the track's quieter dynamic."
       },
       {
         "track": "Adderall",
@@ -1063,32 +1056,32 @@ export const articles = {
         "highlights": [
           "High-velocity track — sustained double-kick demand",
           "Extended double-bass passages at high tempo showcase DW 9000 reliability",
-          "Full Tama Star Maple setup at maximum velocity demand",
+          "Full SJC Custom kit setup at maximum velocity demand",
           "One of TESF's heaviest drum performances"
         ],
-        "gearNotes": "DW 9000 at high demand. Evans EMAD2 kick heads provide controlled punch at sustained high velocity. Tama Star Maple bass drums deliver immediate attack suited to the track's aggression."
+        "gearNotes": "DW 9000 at high demand. Evans EMAD2 kick heads provide controlled punch at sustained high velocity. SJC Custom bass drums deliver immediate attack suited to the track's aggression."
       }
     ],
     "playingStyle": {
       "title": "The Farewell Performance: Jay Weinberg's Final Slipknot Chapter",
-      "content": "*The End, So Far* is Jay Weinberg's farewell Slipknot record — a fact that, in retrospect, lends the album a particular weight. By the time the record was released in September 2022, Weinberg had been with Slipknot for nine years, had recorded three studio albums, had toured the world multiple times, had earned Grammy recognition, and had established himself as a fully formed professional drummer with his own voice and approach. His departure from the band in late 2023 made TESF the end of an arc that began with the Gray Chapter in 2014.\n\n**The Mature Professional:**\nTESF finds Weinberg at his most experienced. The technical vocabulary that was still developing on the Gray Chapter — and that came into full command on WANYK — is by 2022 simply the baseline from which he operates. The polyrhythmic thinking of \"Nero Forte,\" the dynamic range of WANYK's atmospheric passages — these are now tools he deploys naturally rather than demonstrations he is working to achieve. The result is drumming that sounds effortless not because it is easy, but because the difficulty has been fully absorbed through nine years of professional work.\n\n**The Gear Evolution:**\nThe switch from Pearl Reference Pure to Tama Star Maple, and from Pearl Reference Pure snare to Pearl Dennis Chambers signature, reflects a drummer who continued to refine his tools even at the peak of his career with a major band. By his third Slipknot album, Weinberg wasn't settling — he was still thinking carefully about what his setup needed to serve the music. The Tama Star Maple's punchier character suited Barresi's rawer production in a way that the Reference Pure's broader sustain would not have; the Dennis Chambers snare's focused crack cut through TESF's mix with a different character than the snare it replaced.\n\n**The Slipknot Arc Closed:**\nWith TESF, Jay Weinberg closed his Slipknot chapter. Three studio albums, a Grammy nomination, a Grammy win (WANYK), a #1 Alternative chart debut — the arc from the Gray Chapter's cautious début to *The End, So Far*'s confident farewell performance represents one of the more complete stories in modern heavy metal drumming. For drummers studying this arc, the gear evolution — from the Reference Pure setup of 2014 to the Tama Star Maple of 2022 — tells a story of a player who never stopped developing.\n\nFor the complete picture of Jay Weinberg's Slipknot tenure, see [We Are Not Your Kind drum setup](/articles/we-are-not-your-kind-drum-setup) and [The Gray Chapter drum setup](/articles/the-gray-chapter-drum-setup). For the full career overview, see the [Jay Weinberg complete drum setup guide](/articles/jay-weinberg-complete-drum-setup)."
+      "content": "*The End, So Far* is Jay Weinberg's farewell Slipknot record — a fact that, in retrospect, lends the album a particular weight. By the time the record was released in September 2022, Weinberg had been with Slipknot for nine years, had recorded three studio albums, had toured the world multiple times, had earned Grammy recognition, and had established himself as a fully formed professional drummer with his own voice and approach. His departure from the band in late 2023 made TESF the end of an arc that began with the Gray Chapter in 2014.\n\n**The Mature Professional:**\nTESF finds Weinberg at his most experienced. The technical vocabulary that was still developing on the Gray Chapter — and that came into full command on WANYK — is by 2022 simply the baseline from which he operates. The polyrhythmic thinking of \"Nero Forte,\" the dynamic range of WANYK's atmospheric passages — these are now tools he deploys naturally rather than demonstrations he is working to achieve. The result is drumming that sounds effortless not because it is easy, but because the difficulty has been fully absorbed through nine years of professional work.\n\n**The Gear Evolution:**\nUnlike the switch from Pearl Reference Pure to SJC Custom Drums and Tama SLP that marked WANYK, TESF's gear story is one of refinement, not replacement. By his third Slipknot album, Weinberg wasn't chasing a new sound with new equipment — he was dialing in tools he already knew intimately. The same SJC kit that suited Fidelman's denser WANYK production also served Barresi's rawer approach, just retuned; the Tama SLP snare's focused crack carried through both records without needing a change of instrument.\n\n**The Slipknot Arc Closed:**\nWith TESF, Jay Weinberg closed his Slipknot chapter. Three studio albums, a Grammy nomination, a Grammy win (WANYK), a #1 Alternative chart debut — the arc from the Gray Chapter's cautious début to *The End, So Far*'s confident farewell performance represents one of the more complete stories in modern heavy metal drumming. For drummers studying this arc, the gear evolution — from the Pearl Reference Pure setup of 2014 to the SJC Custom Drums platform that carried WANYK and TESF alike — tells a story of a player who found his tools and then mastered them.\n\nFor the complete picture of Jay Weinberg's Slipknot tenure, see [We Are Not Your Kind drum setup](/articles/we-are-not-your-kind-drum-setup) and [The Gray Chapter drum setup](/articles/the-gray-chapter-drum-setup). For the full career overview, see the [Jay Weinberg complete drum setup guide](/articles/jay-weinberg-complete-drum-setup)."
     },
     "faq": [
       {
         "question": "What drum kit does Jay Weinberg use on The End, So Far?",
-        "answer": "Jay Weinberg used a Tama Star Maple shell pack on The End, So Far (2022) — a significant switch from the Pearl Reference Pure he had played on The Gray Chapter (2014) and We Are Not Your Kind (2019). The Tama Star Maple features solid maple shells with Tama's Star-Cast mounting system, delivering a punchier, more immediate attack suited to producer Joe Barresi's rawer production approach. The configuration retained double 22\" bass drums and an expanded tom array (five rack toms plus two floor toms), consistent with Weinberg's WANYK setup."
+        "answer": "Jay Weinberg played the same boutique SJC Custom Drums shell pack on The End, So Far (2022) that he switched to for We Are Not Your Kind (2019) — no kit change for his farewell Slipknot album. The SJC configuration features maple shells finished in custom Slipknot-themed wraps, with double 22\" x 18\" bass drums and a four rack tom plus two floor tom array. The tuning was refined to suit producer Joe Barresi's rawer, more immediate production approach compared to Greg Fidelman's more atmospheric WANYK sessions."
       },
       {
         "question": "What snare does Jay Weinberg play on The End, So Far?",
-        "answer": "Jay Weinberg switched to the Pearl Dennis Chambers signature snare for The End, So Far (2022), moving away from the Pearl Reference Pure 14\" snare he had used on his previous two Slipknot albums. The Dennis Chambers model is a 14\" x 5\" maple-shell snare with a shallower depth than the Reference Pure, producing a focused, controlled crack suited to TESF's rawer production. The head choice remained Evans EC2 Coated on the batter side."
+        "answer": "Jay Weinberg continued playing the Tama SLP (Sound Lab Project) snare on The End, So Far (2022), the same model he introduced on We Are Not Your Kind — there was no snare switch for his final Slipknot album. The Tama SLP's floating bearing edge construction delivers a focused, controlled crack suited to TESF's rawer production. The head choice remained Evans EC2 Coated on the batter side."
       },
       {
         "question": "Was Jay Weinberg Grammy nominated for The End, So Far?",
-        "answer": "Yes — Slipknot received a Grammy nomination for Best Metal Performance for \"The Dying Song (T.H.I.S.),\" the lead single from The End, So Far (2022). This followed the band's Grammy win in the same category for \"Nero Forte\" from We Are Not Your Kind in 2021. The Dying Song nomination recognised Weinberg's high-impact drumming on the track — direct, aggressive, and sustained, with the Pearl Dennis Chambers snare crack prominent throughout."
+        "answer": "Yes — Slipknot received a Grammy nomination for Best Metal Performance for \"The Dying Song (T.H.I.S.),\" the lead single from The End, So Far (2022). This followed the band's Grammy win in the same category for \"Nero Forte\" from We Are Not Your Kind in 2021. The Dying Song nomination recognised Weinberg's high-impact drumming on the track — direct, aggressive, and sustained, with the Tama SLP snare crack prominent throughout."
       },
       {
         "question": "How does Jay Weinberg's setup differ between We Are Not Your Kind and The End, So Far?",
-        "answer": "The two most significant equipment changes between Jay Weinberg's WANYK (2019) and TESF (2022) setups were the drum kit and the snare. On WANYK, Weinberg used a Pearl Reference Pure shell pack with a Pearl Reference Pure snare; on TESF he switched to a Tama Star Maple shell pack and the Pearl Dennis Chambers signature snare. The Tama Star Maple's solid maple construction delivers a punchier, more immediate attack compared to the Reference Pure's maple/birch hybrid — a character well-suited to producer Joe Barresi's rawer approach on TESF versus Greg Fidelman's more atmospheric WANYK production. The Zildjian hybrid cymbal setup and DW 9000 double pedal were retained from WANYK."
+        "answer": "Jay Weinberg's core kit and snare did not change between WANYK (2019) and TESF (2022) — he used the same SJC Custom Drums shell pack and Tama SLP snare on both albums. The main difference was production approach rather than equipment: producer Joe Barresi's rawer, more immediate mixing on TESF let the SJC kit's natural punch register more directly than Greg Fidelman's denser, more atmospheric WANYK production. The Zildjian hybrid cymbal setup and DW 9000 double pedal were also retained unchanged from WANYK."
       }
     ],
     "relatedAlbums": [
@@ -1102,7 +1095,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "The End, So Far: Jay Weinberg's Farewell Slipknot Record",
-      "content": "*The End, So Far* closes one of the defining arcs in modern heavy metal drumming: Jay Weinberg's nine-year tenure with Slipknot, documented across three studio albums that trace a complete artistic journey from capable replacement to fully formed voice.\n\nThe gear that made these recordings possible reflects that journey. The Tama Star Maple and Pearl Dennis Chambers signature snare Weinberg brought to TESF weren't the same tools he used when he walked into the Gray Chapter sessions in 2014 — they were the choices of a drummer who had spent a decade at the highest professional level, refining his understanding of what the music required and selecting instruments that served those requirements precisely. The Star-Cast mounting system, the Dennis Chambers snare's focused crack, the Zildjian hybrid cymbal approach carried forward from WANYK — each decision was informed by experience that only nine years with Slipknot could provide.\n\nThe record's achievements speak to that maturity. A Grammy nomination for Best Metal Performance. The first Slipknot album to reach #1 on the Billboard Alternative Albums chart. A performance across 12 tracks that demonstrated full command of dynamic range, from the whispered atmospherics of \"Yen\" to the sustained aggression of \"Adderall.\" These are the achievements of a player who had arrived.\n\nFor drummers studying Weinberg's TESF setup, the rewards are in the gear transitions: listen to the Tama Star Maple's punchier attack compared to the Reference Pure on WANYK, and hear the Dennis Chambers snare's focused crack against the deeper Reference Pure tone on earlier records. The differences are audible and instructive — the sound of a drummer who understood his tools and used them to serve the music.\n\nFor the full picture of Jay Weinberg's Slipknot drum journey, see [We Are Not Your Kind drum setup](/articles/we-are-not-your-kind-drum-setup) and [The Gray Chapter drum setup](/articles/the-gray-chapter-drum-setup). For his complete career overview, see the [Jay Weinberg complete drum setup guide](/articles/jay-weinberg-complete-drum-setup)."
+      "content": "*The End, So Far* closes one of the defining arcs in modern heavy metal drumming: Jay Weinberg's nine-year tenure with Slipknot, documented across three studio albums that trace a complete artistic journey from capable replacement to fully formed voice.\n\nThe gear that made these recordings possible reflects that journey. The SJC Custom Drums shell pack and Tama SLP snare Weinberg brought into TESF weren't new tools — they were the same boutique platform he'd switched to for We Are Not Your Kind, refined further through another album cycle of touring and recording. The maple SJC shells, the Tama SLP's focused crack, the Zildjian hybrid cymbal approach carried forward from WANYK — each was a known quantity by TESF, dialed in rather than replaced.\n\nThe record's achievements speak to that maturity. A Grammy nomination for Best Metal Performance. The first Slipknot album to reach #1 on the Billboard Alternative Albums chart. A performance across 12 tracks that demonstrated full command of dynamic range, from the whispered atmospherics of \"Yen\" to the sustained aggression of \"Adderall.\" These are the achievements of a player who had arrived.\n\nFor drummers studying Weinberg's TESF setup, the rewards are in the details: how the same SJC kit and Tama SLP snare that suited Fidelman's denser WANYK production also served Barresi's rawer, more immediate TESF mix. The consistency is itself instructive — the sound of a drummer who had found his tools years earlier and used them to serve two very different records.\n\nFor the full picture of Jay Weinberg's Slipknot drum journey, see [We Are Not Your Kind drum setup](/articles/we-are-not-your-kind-drum-setup) and [The Gray Chapter drum setup](/articles/the-gray-chapter-drum-setup). For his complete career overview, see the [Jay Weinberg complete drum setup guide](/articles/jay-weinberg-complete-drum-setup)."
     }
   }
 };

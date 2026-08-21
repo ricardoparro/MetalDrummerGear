@@ -1796,8 +1796,8 @@ export const articles = {
         "gear": {
           "drums": "Pearl (Reference-era shells in Morrisound recording context)",
           "snare": "Pearl Free-Floating — Scott Burns production at Morrisound",
-          "cymbals": "Zildjian A Custom series",
-          "hardware": "DW 9000 double bass pedal, Vic Firth sticks"
+          "cymbals": "Sabian HH Series",
+          "hardware": "Pearl hardware with DW 5000 double pedal"
         },
         "notes": "Human and Individual Thought Patterns are the definitive documents of Hoglan's atomic precision. Chuck Schuldiner's compositional complexity demanded a drummer who could navigate shifting time signatures while maintaining absolute consistency — Hoglan delivered both records."
       },
@@ -1814,8 +1814,8 @@ export const articles = {
         "gear": {
           "drums": "Pearl Reference series (solidifying endorsement)",
           "snare": "Pearl Free-Floating (various models)",
-          "cymbals": "Zildjian A Custom setup",
-          "hardware": "DW 9000 double pedal"
+          "cymbals": "Sabian HHX Series",
+          "hardware": "Pearl Eliminator double pedal"
         },
         "notes": "Testament's Low showed Hoglan adapting atomic precision to a groove-thrash context. Strapping Young Lad's City and Alien pushed his technical limits into industrial and progressive territory — City in particular features some of the most extreme drumming of his career."
       },
@@ -1831,8 +1831,8 @@ export const articles = {
         "gear": {
           "drums": "Pearl Reference Pure (current configuration)",
           "snare": "Pearl Free-Floating (steel, 14\" x 6.5\")",
-          "cymbals": "Full Zildjian A Custom setup",
-          "hardware": "DW 9000 double pedal, Vic Firth American Classic sticks"
+          "cymbals": "Sabian AAX Series",
+          "hardware": "Pearl Eliminator Redline double pedal, ProMark Classic Forward 2B sticks"
         },
         "notes": "Dethklok required Hoglan to perform extreme death metal parts in studio contexts for Metalocalypse's Adult Swim series — the Atomic Clock precision translating perfectly to tight recording deadlines and technically demanding arrangements written for a cartoon band."
       }

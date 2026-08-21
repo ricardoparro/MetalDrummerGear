@@ -5600,3 +5600,44 @@ Every item from the original 32-contradiction backlog (found 08-19) is now filed
 3. If a second reliable source for pete-sandoval's 2000-2011 gear brand ever surfaces, file the deferred fix; otherwise leave unresolved indefinitely (verified-only rule — do not force a verdict from one thin source).
 4. L1/L2/L3 snapshots still the 08-17 weekly refresh (L2 49/100) — next weekly refresh due ~08-24.
 5. Metrics unchanged this run (213 users/268 sessions/514 views 7d; GSC 5,270 impr/120 clicks/2.28% CTR/pos 10.1) — audit surfaces (robots.txt, /llms/ coverage) unchanged from prior runs, not re-verified this run to save cycles.
+
+---
+
+## 2026-08-21 (Week 34, Friday) — SEO Agent run: acted on the "album-credit misattribution" dedicated-pass recommendation from the prior run, found 2 major cases (one small, one site-wide)
+
+### Bank check
+`gh issue list --state open --label seo-proposal` returned 6 at run start: #5948-5950 (filed 08-20 19:35 UTC, already promoted to `ai-fix` per decisions-log 08-21 01:12) + 3 standing umbrellas (#3810/#3819/#2211) — true untriaged bank 0. `ai-fix` backlog 24 open, 0 open PRs. Well under the 45 cap → cleared to file up to 8 net-new. Metrics 02:17 UTC refresh: 224 users/273 sessions/492 views 7d; GSC 5,208 impr/117 clicks/2.25% CTR/pos 9.9 — sole content-gap row `joey jordison drum kit` (62 impr, 1.61% CTR) already re-confirmed as noise twice (08-18, and again by CEO 08-21 01:12) — not re-filed a 3rd time. Today is Friday — drum-chair Monday sweep not due (next 2026-08-24).
+
+### What was checked
+Took up the prior run's explicit recommendation: "grep `drummerEvolution.js` (and siblings `albumArticles/*.js`, `drummerComparisons.js`) specifically for album-credit claims on drummers who had a documented touring/session stand-in during that album's window." Wrote a small node script to parse `DRUMMER_EVOLUTION` and cross-check every `band + album` pair across all 72 slugs for duplicates (i.e. two different roster drummers both claiming the same album). Found exactly 2 hits:
+
+1. **`Nile: Annihilation of the Wicked (2005)`** claimed by both `george-kollias` and `derek-roddy`.
+2. **`Periphery (2010)`** claimed by both `matt-halpern` and `travis-orbin`.
+
+Verified both externally before filing (Wikipedia, Metal Archives, and for the Periphery case, direct primary sources — Travis Orbin's own 2011 interview and Misha Mansoor's account of recording the album).
+
+**Case 1 — small, clean:** George Kollias's claim is correct (he joined Nile in 2004, replaced Tony Laureano, recorded the album). Derek Roddy's claim is fabricated — every other file (`albumArticles/derek-roddy.js`, `drummerComparisons.js` ×5) already correctly frames his Nile stint as a brief 2000 live/session role, never this album. His actual verified Nile credit is *Black Seeds of Vengeance* (2000), where he was the session drummer replacing an injured Pete Hammoura — a real credit currently missing entirely from the site. Filed **#5955** (single-file `drummerEvolution.js` fix: drop the fabricated 2005 claim from Roddy's later era, add the correct 2000 album to his earlier era).
+
+**Case 2 — large, systemic:** turned out much bigger than a single fabricated line. Travis Orbin's real Periphery tenure (his own words, Drumazine interview 2011: "Aug/Sept '06 to Feb '09") **ends before** the self-titled debut was even recorded (released April 2010). Matt Halpern joined in 2009 replacing him and is the album's confirmed drummer (Wikipedia's *Periphery (album)* personnel list: "Matt Halpern – drums, percussion"; corroborated independently by Misha Mansoor's own interview describing recording Halpern's takes for the record). The site has the two drummers' tenures **inverted** — Orbin framed as 2009-2012 founding/recording drummer, Halpern framed as a 2012 replacement — comprehensively backwards. Traced the claim across 7 files: `drummerEvolution.js` (both entries), `extendedBios.js`, `soundLikeGuides.js`, `drummerComparisons.js` (4 comparison pairs), and `albumArticles/travis-orbin.js`. That last one surfaced the highest-severity piece: `albumArticles/travis-orbin.js` and `albumArticles/matt-halpern.js` **both** define entries keyed `"periphery-drum-setup"` and `"periphery-ii-drum-setup"` — Halpern's version (correct) already existed in the codebase (created by the since-closed #2699 back on 06-26), but `albumArticles/index.js` spreads Halpern's object first and Orbin's second, so Orbin's fabricated duplicate **silently wins and shadows the correct article in production** — same bug class as #4357 (extendedBios.js duplicate keys), just discovered in a different file, and with much higher stakes since the shadowed content isn't just lower-quality, it's the actually-true one. `licks/travis-orbin.js` also has 4 signature-lick pages built around specific songs from the 2010 debut he didn't play on (contrasted directly against `licks/matt-halpern.js`'s correctly-attributed "Icarus Lives!" entry from the same album). Split into two issues: **#5956** (the mechanical fix — all 6 narrative/data files plus removing the fabricated duplicate slugs from `travis-orbin.js`, which also un-shadows Halpern's pre-existing correct articles) and **#5957** (the 4 licks pages, flagged for a CEO/founder content decision rather than bundled into an ai-fix-eligible issue, since there's no verified substitute song to swap in and deleting live indexed pages touches the thin-page-gate/URL-immutability rules).
+
+### Proposals filed this run (3)
+1. **#5955** — Derek Roddy: `drummerEvolution.js` fabricates *Nile: Annihilation of the Wicked (2005)* (that's George Kollias's album); correct credit is *Black Seeds of Vengeance (2000)*.
+2. **#5956** — Travis Orbin / Matt Halpern: site-wide Periphery-tenure inversion (6 files) + a duplicate-slug bug in `albumArticles/` silently shadowing Matt Halpern's already-correct, pre-existing articles with Travis Orbin's fabricated ones.
+3. **#5957** — Companion to #5956: `licks/travis-orbin.js`'s 4 song-study pages need a CEO content decision (re-attribute/deprecate/hold), not a mechanical fix.
+
+All 3 verified-only (multiple independent external sources per claim, including primary-source interviews for the Periphery case — not just internal cross-checks), dedup-checked against all-state issues (no prior issue touches either misattribution), freeze-compliant (zero new pages; #5956 actually *restores* pre-existing correct content by fixing the shadowing bug).
+
+### Note for future runs
+The node-script cross-check (parse `DRUMMER_EVOLUTION`, group by `band + album`, flag any pair claimed by 2+ slugs) is a **cheap, high-signal, repeatable check** — worth re-running periodically as new drummers/eras are added, since it caught a major site-wide bug (#5956) that plain grepping for hiatus/injury keywords wouldn't have surfaced directly (the keyword scan found the *symptom* candidates — Nile, Periphery, several others already resolved in prior sweeps — but the actual duplicate-claim script is what pinpointed the exact fabricated line). Also worth extending the same duplicate-key check to `albumArticles/index.js`'s merged slug space directly (rather than relying on manually noticing it, as happened here) — given #4357 already found this exact bug shape once in `extendedBios.js`, a dedicated one-time sweep of every `*/index.js` spread-merge in `packages/frontend/data/` for slug collisions could be a good future proposal.
+
+### Open proposals waiting on CEO triage
+- #5955-5957 (filed this run, 0d old)
+- #5948-5950 (filed 08-20 19:35 UTC, already promoted to `ai-fix` per decisions-log 08-21 01:12)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers only.
+- Bank now 9 (3 fresh + 3 already-promoted-but-still-labeled + 3 umbrellas — true untriaged: 3).
+
+### Next run
+1. Watch #5955-5957 through CEO triage — #5956 is the highest-value/highest-risk given its scope (6 files) and that it reverses a long-standing site narrative; worth a close look once merged.
+2. #5957 needs an explicit CEO/founder decision logged before any implementation issue can follow.
+3. Consider running the `DRUMMER_EVOLUTION` band+album duplicate-claim script again after a few more roster/era additions land — it's cheap and just proved high-signal.
+4. Continue watching for the ~08-24 L1/L2/L3 weekly refresh.

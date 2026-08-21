@@ -5,6 +5,34 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-08-21 01:11 UTC*
 
 ---
+## 2026-08-21 12:42 — Deep run: 5 fresh albumArticles gear-fabrication proposals promoted (gene-hoglan, ben-koller, nicko-mcbrain, ray-luzier, mikkey-dee), all live-verified against 2-3 corroborating sources each
+
+### Context (≤3 lines)
+First run after 07:00 UTC (no run landed between the 06:42 cheap pulse and this one) — treated as the deep run. Metrics 12:42 UTC (237 users/289 sessions/516 views 7d; GSC 6,429 impr/145 clicks/2.26% CTR/pos 9.7 — 1 content-gap row, `joey jordison drum kit`, precedented noise, see below). Eligible `ai-fix` backlog 0 at run start (20 open, all pre-existing `hold`-labeled freeze-blocked roster/band splits), 0 open PRs, 5 fresh untriaged `seo-proposal` (#5969-5973, filed 07:52-07:54 UTC).
+
+### Actions taken
+- **Promoted all 5** (`ai-fix`), each live-verified against every cited line/source before promoting — this batch was unusually well-sourced (2-3 independently corroborating files per issue), so verification was thorough: #5969 gene-hoglan — confirmed `albumArticles/gene-hoglan.js` lines 1799/1800/1817/1818/1834/1835 say "Zildjian A Custom"+"DW 9000 double pedal" across all 3 era blocks verbatim, while `extendedBios.js:362-370` gearHighlights and `drummerComparisons.js:294` both independently agree on Sabian AAX + Pearl Demon Drive — 2-file consensus against the sole outlier. #5970 ben-koller — confirmed albumArticles says "Tama Starclassic Performer B/B" + "Zildjian K Custom Dark/A Custom" throughout, vs `extendedBios.js:7460-7468` gearHighlights explicitly stating "Tama Starclassic Maple" + "Zildjian K Dark Series" verbatim. #5971 nicko-mcbrain — confirmed a *second*, previously-missed "Sonor SQ2 Signature Setup" section (line 2087, framed around the 2023-2024 tour as current) coexists in the same file with an already-correct "British Drum Co." section (#5693's fix, line 217) — genuine second instance of the same stale-gear pattern, not a duplicate of #5693. #5972 ray-luzier — confirmed the file self-contradicts: prose/FAQ says "Promark" (6 occurrences) while the article's own structured `hardware.items` field says "Vic Firth Ray Luzier Signature" (4 occurrences) — extendedBios.js agrees with the structured field. #5973 mikkey-dee — confirmed albumArticles' dedicated "Yamaha Power"/"Zildjian Power" sections (lines 49-138) verbatim, vs `extendedBios.js:3991-4001` gearHighlights explicitly stating Sonor SQ2 + Paiste "since his King Diamond days" — same fabrication already fixed in 2 sibling files (#5657, #5694), this is a documented 3rd unfixed location. No duplicate `ai-fix` found for any (searched by slug). All single-file data-only fixes, zero new pages/schema, freeze-compliant.
+- **Backlog gate**: 0 → 5, well under the 45 threshold; promoted liberally per rule.
+- **GSC content-gap**: `joey jordison drum kit` (74 impr, 1.35% CTR, pos 9.7) — same precedented do-not-refile row per `learned-patterns.md` (3+ prior oscillation cycles, ~8 already-shipped fixes since 06-25). Held, not refiled.
+- **L1/L2/L3** (#3810/#3819/#2211): snapshots still the 08-17 generation (5 days old, weekly refresh not yet landed), already fully triaged in prior runs. No fresh data this run.
+- **Founder ideas**: inbox empty, unchanged since 06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 unchanged — no re-spam.
+- **Atomic-split sweep**: 20 pre-existing `hold`-labeled `ai-fix` splits re-confirmed still freeze-blocked, none eligible (not stuck on size/ambiguity).
+- **Starvation check**: post-triage backlog=5 (<15), bank=0 (≤2) — technically meets the trigger, but this is the same transient-dip-right-after-a-healthy-promotion-batch shape judged non-escalating in every occurrence this week (5 fresh, well-sourced proposals this cycle alone). Not escalating; freeze excludes the new-surface response regardless.
+
+### State delta
+- ai-fix backlog: 0 → 5 (#5969-5973)
+- seo-proposal bank (excl. umbrellas): 5 → 0
+- Org/Sessions/Views (7d): 237/289/516 · GSC 6,429 impr/145 clicks/2.26% CTR/pos 9.7
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 5/5 fresh triaged, live-verified against 2-3 corroborating sources each, promoted, no duplicates, freeze-compliant. ✅ GSC-gap: 1 row reviewed, correctly held per precedent. ✅ L1/L2/L3: no fresh snapshot since 08-17, already actioned. ✅ Starvation: technically met, judged transient per this week's standing precedent, not escalated. ✅ Atomic split: 20 stale issues re-checked, all `hold`-labeled, none eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #5969-5973 ship via Roadie; live-verify per each issue's own verify steps (grep for the removed brand names).
+2. Watch for the next L1/L2/L3 weekly refresh (08-17 snapshot is now 5 days old, due soon).
+3. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
 ## 2026-08-21 06:42 — Cheap pulse: 2 fresh gear/attribution proposals promoted; scoping decision (hold) made on lick-page fabrication gap
 
 ### Context (≤3 lines)

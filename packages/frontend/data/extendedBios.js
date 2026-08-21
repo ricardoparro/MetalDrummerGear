@@ -2161,9 +2161,18 @@ His innovative drumming on albums like "Arise," "Chaos A.D.," and "Roots" helped
       },
       gearHighlights: {
         title: 'Gear Highlights',
-        content: `Igor Cavalera has used a Tama drum kit throughout his career with Sepultura and Cavalera Conspiracy. His setup often includes traditional Brazilian percussion instruments alongside standard metal drums.
+        content: `Igor Cavalera's gear has changed across distinct eras: Tama in Sepultura's early years, a switch to Pearl for the "Chaos A.D." and "Roots" era, and back to Tama with Cavalera Conspiracy since 2007. His setup often includes traditional Brazilian percussion instruments alongside standard metal drums.
 
-**Classic Setup (Sepultura Era):**
+**Pre-1993 Setup ("Beneath the Remains" / "Arise" Era):**
+- **Drums**: Tama Superstar
+- **Snare**: Tama Steel 14"x6"
+
+**1993-1996 Setup ("Chaos A.D." / "Roots" Era):**
+- **Drums**: Pearl Masters Custom (maple shells)
+- **Snare**: Pearl Free-Floating Steel 14"x6.5"
+- **Cymbals**: Disputed for this era — sources differ between Zildjian K Custom and Paiste RUDE; not independently confirmed
+
+**Current Setup (Cavalera Conspiracy Era, 2007-present):**
 - **Drums**: Tama Starclassic Maple
 - **Snare**: Tama S.L.P. 14"x6.5" G-Maple
 - **Cymbals**: Paiste (RUDE series for durability)

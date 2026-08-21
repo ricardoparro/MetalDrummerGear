@@ -2772,25 +2772,17 @@ export const ENDORSEMENT_TIMELINE = {
       drums: { brand: 'DW', model: "DW Collector's Series", since: '2008' },
       cymbals: { brand: 'Zildjian', model: 'K Custom', since: '2008' },
       sticks: { brand: 'Vic Firth', model: 'American Classic 5A', since: '1991' },
-      heads: { brand: 'Remo', model: 'Ambassador Coated', since: '1990' },
+      heads: { brand: 'Remo', model: 'Ambassador Coated', since: '1991' },
       hardware: { brand: 'DW', model: '9000 Double Pedal', since: '2008' },
     },
     timeline: [
       {
-        year: 1990,
+        year: 1991,
         changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
         category: ENDORSEMENT_CATEGORIES.DRUMS,
         from: null,
-        to: 'Pearl',
-        notes: 'Played a pre-endorsement Pearl Export series kit (Pearl Free-Floating snare, Pearl P-100P twin pedals) with Zildjian A series cymbals on his recording debut, Death\'s "Spiritual Healing" (1990), tracked at Morris Sound Corporation with Randy Burns',
-      },
-      {
-        year: 1991,
-        changeType: ENDORSEMENT_CHANGE_TYPES.SWITCHED,
-        category: ENDORSEMENT_CATEGORIES.DRUMS,
-        from: 'Pearl Export Series',
         to: 'Tama Artstar II',
-        notes: 'Moved to a Tama Artstar II birch shell kit for Death\'s "Human" (1991) at Morrisound Recording with Scott Burns — replacing the Pearl Export\'s poplar/basswood shells as his playing evolved into a full jazz-death fusion vocabulary',
+        notes: 'Played a Tama Artstar II birch shell kit on his recording debut, Death\'s "Human" (1991), tracked at Morrisound Recording with Scott Burns. Human, not Spiritual Healing (1990, drummed by Bill Andrews), is Reinert\'s first Death credit',
       },
       {
         year: 1991,

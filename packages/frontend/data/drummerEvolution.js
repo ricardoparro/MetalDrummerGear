@@ -8353,82 +8353,12 @@ export const DRUMMER_EVOLUTION = {
 
     eras: [
       {
-        id: 'sean-reinert-1990-spiritual-healing',
-        era: 'Death — Spiritual Healing Era',
-        years: '1989-1990',
-        startYear: 1989,
-        endYear: 1990,
-        description: 'Sean Reinert\'s recording debut with Death on Spiritual Healing (1990) introduced his jazz-influenced approach to death metal — precise ghost notes, polyrhythmic groove, and dynamics that set him apart from every other death metal drummer of the era.',
-        albums: ['Spiritual Healing (1990)'],
-        tours: ['Spiritual Healing Tour 1990'],
-        image: null,
-
-        gear: {
-          drums: {
-            item: 'DW Collector\'s Series',
-            details: 'Maple shells: 22" kick, 10"/12"/13"/14"/16" toms',
-            notes: 'Sean was an early DW endorsee. The DW Collector\'s maple shells gave his jazz-influenced technique a warm, resonant quality rarely heard in death metal of the period.',
-            change: null,
-          },
-          snare: {
-            item: 'DW Collector\'s 14"x5.5"',
-            details: 'Maple shell, die-cast hoops',
-            notes: 'Shallow snare for a crisper, more jazz-influenced response — supporting the ghost note vocabulary that defined his Spiritual Healing performance.',
-            change: null,
-          },
-          cymbals: {
-            item: 'Zildjian A Series',
-            details: '14" hi-hats, 16"/18" crashes, 20" ride',
-            notes: 'Jazz-standard cymbal setup applied to a death metal context. The A Series ride bell was critical for Sean\'s articulate ride patterns.',
-            change: null,
-          },
-          hardware: {
-            item: 'DW 5000 Double Pedal',
-            details: 'Single-chain drive double pedal',
-            notes: 'Fluid double bass technique drawn more from fusion drumming than the brute-force approach of most death metal contemporaries.',
-            change: null,
-          },
-          sticks: {
-            item: 'Vic Firth 5A',
-            details: 'Lighter hickory for control and finesse',
-            notes: '5A weight suited the balance of power and subtlety Sean brought to death metal drumming.',
-            change: null,
-          },
-          heads: {
-            item: 'Remo Ambassador',
-            details: 'Clear on toms, coated on snare',
-            notes: 'Open, resonant head choice that supported the jazz-influenced dynamic range rather than suppressing it.',
-            change: null,
-          },
-        },
-
-        estimatedCost: {
-          original: 6000,
-          inflationAdjusted: 14000,
-          currency: 'USD',
-        },
-
-        keyChanges: [
-          'First major recording with Death — established jazz-influenced approach to death metal',
-          'DW Collector\'s endorsement — warm maple tone unprecedented in the genre',
-          'Ghost note vocabulary and dynamic control set a new standard for technical death metal',
-        ],
-
-        quote: {
-          text: "I came from jazz. Chuck understood that and let me bring that vocabulary into Death. Spiritual Healing was where I first got to show what I could do.",
-          source: 'Modern Drummer Interview, 1991',
-        },
-
-        videos: [],
-      },
-
-      {
         id: 'sean-reinert-1991-human',
         era: 'Death — Human Era',
         years: '1991',
         startYear: 1991,
         endYear: 1991,
-        description: 'The landmark album. Human (1991) is widely considered one of the greatest technical death metal recordings ever made. Sean Reinert\'s drumming — recorded at Morrisound Studios with producer Scott Burns — remains a masterclass in applying jazz technique to extreme metal. The DW Collector\'s rig was refined from Spiritual Healing.',
+        description: 'The landmark album — and Sean Reinert\'s recording debut with Death. Human (1991) is widely considered one of the greatest technical death metal recordings ever made. Reinert\'s drumming — recorded at Morrisound Studios with producer Scott Burns — remains a masterclass in applying jazz technique to extreme metal, introducing a DW Collector\'s rig and a ghost-note-driven, polyrhythmic vocabulary the band had never had before.',
         albums: ['Human (1991)'],
         tours: ['Human Tour 1991 (limited dates)'],
         image: null,
@@ -8436,37 +8366,37 @@ export const DRUMMER_EVOLUTION = {
         gear: {
           drums: {
             item: 'DW Collector\'s Series',
-            details: 'Maple shells: 22" kick, 10"/12"/13"/14"/16" toms — continued',
-            notes: 'Same DW Collector\'s kit as Spiritual Healing, recorded at Morrisound Studios in Tampa, FL. The warmth of the DW maple shells was a key element of Human\'s distinctive drum sound — less compressed and more open than most death metal of the period.',
+            details: 'Maple shells: 22" kick, 10"/12"/13"/14"/16" toms',
+            notes: 'Sean was an early DW endorsee. The DW Collector\'s maple shells, recorded at Morrisound Studios in Tampa, FL, gave his jazz-influenced technique a warm, resonant quality rarely heard in death metal of the period — a key element of Human\'s distinctive drum sound.',
             change: null,
           },
           snare: {
             item: 'DW Collector\'s 14"x5.5"',
-            details: 'Maple shell — continued',
-            notes: 'The same shallow maple snare that defined the Spiritual Healing sound. The crack on Human is one of the most recognizable in technical death metal history.',
+            details: 'Maple shell, die-cast hoops',
+            notes: 'Shallow maple snare for a crisper, jazz-influenced response. The crack on Human is one of the most recognizable in technical death metal history.',
             change: null,
           },
           cymbals: {
             item: 'Zildjian A Series',
-            details: '14" hi-hats, 16"/18" crashes, 20" ride — continued',
-            notes: 'Continued the jazz-standard Zildjian A setup. The ride cymbal work on tracks like "Suicide Machine" and "Lack of Comprehension" demonstrated extraordinary control.',
+            details: '14" hi-hats, 16"/18" crashes, 20" ride',
+            notes: 'Jazz-standard Zildjian A setup. The ride cymbal work on tracks like "Suicide Machine" and "Lack of Comprehension" demonstrated extraordinary control.',
             change: null,
           },
           hardware: {
             item: 'DW 5000 Double Pedal',
-            details: 'Single-chain drive — continued',
+            details: 'Single-chain drive double pedal',
             notes: 'The double bass work on Human is deliberately restrained and musical rather than a showcase of raw speed — a key philosophical difference from contemporaries.',
             change: null,
           },
           sticks: {
             item: 'Vic Firth 5A',
-            details: 'Continued hickory 5A',
-            notes: 'Consistent stick choice. The lighter weight enabled the ghost note density captured on the recording.',
+            details: 'Lighter hickory for control and finesse',
+            notes: 'The lighter weight enabled the ghost note density captured on the recording.',
             change: null,
           },
           heads: {
             item: 'Remo Ambassador',
-            details: 'Continued — open and resonant',
+            details: 'Clear on toms, coated on snare',
             notes: 'Scott Burns\' production embraced the natural resonance of Sean\'s DW setup rather than deadening it.',
             change: null,
           },
@@ -8479,10 +8409,10 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
+          'First major recording with Death — Reinert\'s recording debut with the band, replacing Bill Andrews (fired after Spiritual Healing, 1990)',
           'Human (1991) recorded at Morrisound Studios — landmark technical death metal album',
           'Drumming widely cited as among the most influential in extreme metal history',
           'Jazz-influenced ghost notes and polyrhythmic vocabulary pushed death metal drumming forward',
-          'Gear continuity from Spiritual Healing — the DW Collector\'s sound was integral to Human\'s identity',
         ],
 
         quote: {
@@ -8508,7 +8438,7 @@ export const DRUMMER_EVOLUTION = {
           drums: {
             item: 'DW Collector\'s Series',
             details: 'Maple shells: 22" kick, 10"/12"/13"/14"/16" toms',
-            notes: 'Same DW Collector\'s configuration used on Human and Spiritual Healing. The warm, open maple sound was essential to Focus\'s jazz-fusion atmosphere — a stark contrast to the compressed, triggered sound of most metal contemporaries.',
+            notes: 'Same DW Collector\'s configuration used on Human. The warm, open maple sound was essential to Focus\'s jazz-fusion atmosphere — a stark contrast to the compressed, triggered sound of most metal contemporaries.',
             change: null,
           },
           snare: {
@@ -8585,7 +8515,7 @@ export const DRUMMER_EVOLUTION = {
           snare: {
             item: 'DW Collector\'s Series',
             details: 'Maple shell',
-            notes: 'Continued with the DW Collector\'s maple snare that had defined his sound since Spiritual Healing, carried through the reunion-era recordings.',
+            notes: 'Continued with the DW Collector\'s maple snare that had defined his sound since Human, carried through the reunion-era recordings.',
             change: null,
           },
           cymbals: {

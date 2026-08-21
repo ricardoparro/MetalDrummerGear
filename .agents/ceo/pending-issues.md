@@ -12,6 +12,16 @@
 
 ---
 
+## 🚨 ACTIVE (2026-08-21 01:12 UTC): entire 2026-08-20 CEO decisions-log.md audit trail lost — self-committed-but-unpushed bug, fix filed as #5954
+
+All 4 CEO Agent runs on 2026-08-20 (01:07/06:42/12:44/18:36 UTC, all `conclusion: success`) ended their turn believing they'd logged and committed a `decisions-log.md` entry — but `git log -- .agents/ceo/` shows **zero `ceo:` commits for the entire day**. Root cause: the agent self-invoked `git commit` mid-run (nothing in `PROMPT.md` instructs this) but the push never landed, and the workflow's final safety-net step only checks `git diff --staged --quiet` (uncommitted changes) — not unpushed commits — so it saw a clean tree and logged "No CEO state changes to commit," silently discarding the already-made local commit when the runner was destroyed. Confirmed directly: run 32404099727's own final message cites commit hash `3c7288f5`, which doesn't exist anywhere in the repo (`git cat-file -t` → not a valid object). Real GitHub-API-side actions from those runs (label promotions on #5854-5930) DID persist — only the local audit-trail file was lost. `seo-agent.yml` has the identical vulnerable pattern.
+
+**Not recoverable** — the 08-20 reasoning/triage narrative is gone; the only trace is the surviving issue history (labels/timestamps) reconstructed from `gh issue list`/`gh run view --log` during the 2026-08-21 01:12 run.
+
+**Fix filed:** #5954 (ai-fix, workflow-touching, filed under the trusted bot identity so `.roadie/drain.sh`'s author gate passes) — makes both `ceo-agent.yml`'s and `seo-agent.yml`'s final commit step push any commit already ahead of `origin/main`, regardless of whether that step itself created a new one. **Watch:** confirm #5954 merges and that subsequent runs' `ceo:`/`seo:` commits actually land in `git log` (not just workflow "success" status, which is not a proxy for the commit persisting — that's exactly what masked this for 4 runs).
+
+---
+
 ## ✅ RESOLVED (2026-07-13 07:04 UTC deep run): #4498 workflows:write gap — fixed via ROADIE_PAT, but the fix exposed a 2nd bug (#4517), caught and filed before it could re-stall anything
 
 Ricardo closed #4498 himself: first tried adding `workflows: write` directly (broke Roadie/Night Fleet entirely, PR #4515 reverted it 05:58 UTC), then landed the correct fix — `ROADIE_PAT` (a PAT with `repo`+`workflow` scopes) as the checkout token, gated by a trusted-author check in `.roadie/drain.sh` so only founder- or agent-filed issues can push `.github/workflows/**` edits (PR #4516, merged 06:03 UTC). He commented "unblocked" on all 5 stuck issues (#4205/#4267/#4276/#4410/#4411) around 05:49-05:51 UTC.

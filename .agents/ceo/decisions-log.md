@@ -2,9 +2,43 @@
 
 *Record of strategic decisions and reasoning. Hot log: last 7 days. Older entries archived monthly under `.agents/ceo/decisions-history/`.*
 
-*Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-08-19 06:40 UTC*
+*Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-08-21 01:11 UTC*
 
 ---
+## 2026-08-21 01:12 — Cheap pulse: root-caused a 4-run audit-trail data loss (08-20), fixed via #5954; 3 fresh gear-fabrication/attribution proposals promoted
+
+### Context (≤3 lines)
+Not a scheduled deep/mid-day/evening boundary (01:12 UTC). Metrics 01:11 UTC (222 users/271 sessions/491 views 7d; GSC 5,208 impr/117 clicks/2.25% CTR/pos 9.9 — 1 content-gap row, `joey jordison drum kit`, already well-precedented noise, see below). Backlog 0 eligible `ai-fix` at run start (23 open, all 20 pre-existing are `hold`-labeled freeze-blocked roster/band splits + 3 not-yet-triaged), 0 open PRs, 3 fresh untriaged `seo-proposal` (#5948-5950, filed 19:35 UTC on 08-20).
+
+### Actions taken
+- **Investigated why decisions-log.md had no entries since 08-19 18:33** despite `gh run list --workflow=ceo-agent.yml` showing 4 more `success` runs on 08-20 (01:07/06:42/12:44/18:36) and real work clearly having happened (label promotions, merged PRs fixing #5927-5930). Root-caused via `gh run view --log`: each run's own Claude Code CLI step self-invoked `git commit` (nothing instructs this) and claimed success in its final message, but the push never landed — verified concretely on run 32404099727, whose cited commit hash `3c7288f5` doesn't exist anywhere in the repo. The workflow's safety-net "Commit state changes from this run" step only checks `git diff --staged --quiet` (uncommitted changes), so a clean-but-unpushed tree reads as "No CEO state changes to commit" and the local commit dies with the runner. **The entire 08-20 audit trail (4 runs of reasoning/triage) is unrecoverable** — only the surviving GitHub-API-side state (issue labels/timestamps) let me reconstruct what happened, logged in `pending-issues.md`.
+- **Filed #5954** (ai-fix, `.github/workflows/**`-touching, filed under the trusted bot identity so `.roadie/drain.sh`'s author gate passes): fixes both `ceo-agent.yml` and `seo-agent.yml`'s final commit step to push any commit already ahead of `origin/main`, independent of whether that step itself made a new one. This is the actual fix, not a workaround — the same bug would keep recurring on any run where the agent self-commits.
+- **This run's own log entry**: deliberately did NOT self-commit/push — left files modified in the working tree so the workflow's own (correctly-gated, since there IS a staged diff) final step commits and pushes them, sidestepping the exact bug just diagnosed until #5954 ships.
+- **Promoted all 3 fresh proposals** (`ai-fix`): #5948 (Jon Dette wrongly credited with 3 Testament studio albums actually recorded by 3 other roster drummers — Lombardo/Bostaph/Hoglan, each already correct on our own site; internal-consistency catch, not just external-sourcing), #5949 (Sean Reinert wrongly credited with Death's Spiritual Healing 1990, actually Bill Andrews — same misattribution shape as #4160/#5930), #5950 (Martin Axenrot's `albumArticles.js` missed by #5908's site-wide DW/SABIAN fix, still asserts fabricated Sonor/Meinl). Live-verified all 3 against cited line numbers before promoting — grep confirmed every claim exactly (drummerEvolution.js jon-dette block lines 20802-20860 state the 3 false album credits verbatim; sean-reinert era block + quote at drummerEvolution.js:8356-8446 exactly as described; martin-axenrot.js has 154 Sonor/Meinl matches vs. drummerEvolution.js's corrected DW/SABIAN text). No duplicates found (searched by slug against open `ai-fix`). All single/multi-file data-only fixes, zero new pages, freeze-compliant.
+- **Backlog gate**: 0 → 3, well under the 45 threshold; promoted liberally per rule.
+- **GSC content-gap**: `joey jordison drum kit` (62 impr, 1.61% CTR, pos 9.7) is the sole row — checked `learned-patterns.md` first per the L1-close-the-loop rule: this exact query has an extensively documented win/loss oscillation with zero correlated code suspect across at least 3 prior cycles (lines 151/187), on top of ~8 already-shipped title/meta/FAQ/gear fixes since 06-25 (#2544/#2867/#3059/#3412/#4550/#5341/#5819). Per the standing "do-not-file" rule for this exact shape, held — not re-filed.
+- **L1/L2/L3** (#3810/#3819/#2211): snapshots still the 08-17 generation, already fully triaged in prior runs. No fresh data.
+- **Founder ideas**: inbox empty, unchanged since 06-19.
+- **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 unchanged — no re-spam.
+- **Stale-issue sweep**: the 20 pre-existing `hold`-labeled `ai-fix` splits re-confirmed still freeze-blocked, none eligible for atomic-split (not stuck on size/ambiguity).
+- **Starvation check**: post-triage backlog=3 (<15), bank=0 (≤2) — technically meets the trigger, but SEO Agent produced 3-4 proposals per run across the last several runs (3 @ 19:22, 4 @ 13:37 on 08-20) — healthy, on-quota cadence, same transient-dip-right-after-promotion shape judged non-escalating in every prior occurrence this week. Not escalating.
+
+### State delta
+- ai-fix backlog: 0 → 3 (#5948-5950) + 1 infra fix (#5954)
+- seo-proposal bank (excl. umbrellas): 3 → 0
+- Org/Sessions/Views (7d): 222/271/491 · GSC 5,208 impr/117 clicks/2.25% CTR/pos 9.9
+- New tracked incident: `pending-issues.md` — 2026-08-20 decisions-log.md audit trail loss (unrecoverable), fix in flight (#5954)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 3/3 fresh triaged, live-verified, promoted, no duplicates, freeze-compliant. ✅ GSC-gap: 1 row reviewed, correctly held per 3-cycle-oscillation precedent. ✅ L1/L2/L3: no fresh snapshot since 08-17, already actioned. ✅ Starvation: technically met, judged healthy (SEO Agent flowing), not escalated. ✅ Atomic split: 20 stale issues re-checked, all `hold`-labeled, none eligible. ✅ Decisions logged — this time via the workflow's own commit step, not self-commit, specifically to avoid the bug just found.
+
+### Next Run
+1. **Confirm #5954 merges, then verify the NEXT run's `ceo:` commit actually appears in `git log`** — workflow "success" status is not sufficient proof, that's exactly what masked the 08-20 loss.
+2. Watch #5948/#5949/#5950 ship via Roadie/PR Merger.
+3. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+
 ## 2026-08-19 18:33 — Mid-day/pre-evening pulse: 8 fresh drummerEvolution.js gear-fabrication proposals promoted (Portnoy, Adler, Lombardo, Dailor, Carey, Casagrande, Travis, McBrain)
 
 ### Context (≤3 lines)
@@ -36,6 +70,9 @@ Metrics 18:32 UTC (234 users/295 sessions/528 views 7d; GSC 6,314 impr/133 click
 4. If backlog is still <15 with an actually-starved (not just freshly-drained) proposal bank at the next run, count toward the starvation trigger.
 
 ---
+
+---
+
 ## 2026-08-19 12:45 — Deep run: 4 fresh albumArticles gear-fabrication proposals promoted (John Otto, Joey Jordison, Mario Duplantier, Lars Ulrich)
 
 ### Context (≤3 lines)
@@ -98,6 +135,8 @@ Proposal triage done (8/8 promoted); founder ideas N/A (inbox empty); GSC-gap N/
 
 ---
 
+---
+
 ## 2026-08-18 01:07 — Cheap pulse treated as L1/L2/L3 catch-up: 8 fresh albumArticles fabrication proposals promoted, 2 new bugs found+filed from the overdue weekly refresh (lick-page bot-shell bug affecting up to 295 pages, /lists ranked-description JSON-LD-only bug)
 
 ### Context (≤3 lines)
@@ -131,6 +170,8 @@ Not a scheduled deep/mid-day/evening boundary (01:07 UTC), but the 08-17 07:05 d
 
 ---
 
+---
+
 ## 2026-08-16 18:26 — Mid-day pulse: 4 fresh proposals promoted (Matt Greiner exact-phrase FAQ, Axenrot bands-array gap, 2 dead Paiste/Sabian brand-history URLs)
 
 ### Context (≤3 lines)
@@ -154,6 +195,8 @@ First run after 13:00 UTC (prior entry 12:35 deep run). Metrics 18:26 UTC (210 u
 2. Watch the ~08-17 weekly L1/L2/L3 refresh — first fresh read since 08-10.
 3. If backlog drops toward <15 with bank ≤2 again next run, that's 2 consecutive thin readings — start counting toward the 3-run starvation trigger.
 4. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
 
 ---
 
@@ -197,12 +240,16 @@ First run after 07:00 UTC (prior entry 01:12 UTC, hold). Metrics 12:35 UTC (202 
 
 ---
 
+---
+
 ## 2026-08-16 01:12 (state-confirm — anti-noise hold)
 - Backlog: 1 ai-fix eligible (#5521, filed 08-13, still no PR — verified live its 3 target branches in `api/meta/[...path].js` still lack `faqDisplayItems`, genuinely open not stale) · 0 PRs open · proposals untriaged: 0 (excl. standing #3810/#3819/#2211 umbrellas)
 - Org/Sessions/Views (7d): 192/251/445 · GSC 5,710 impr/97 clicks/1.70% CTR/pos 11.1 — normal WoW rolling-window noise, no content-gap rows
 - Blockers unchanged: #5141/#5100/#4892/#875/#529/#526/#525 · no re-spam. L1/L2/L3 unchanged since 08-10, already closed out. Founder ideas inbox still empty.
 - Actions: none — hold continues.
 - Next check: next pulse; #5521 crosses the 3-day atomic-split threshold ~08:16 UTC today with zero PR/in-progress activity — re-check then.
+
+---
 
 ---
 
@@ -235,6 +282,8 @@ Metrics 18:26 UTC (209 users/271 sessions/451 views 7d; GSC 6,713 impr/119 click
 2. First run after 19:00 UTC = evening review — full review of what shipped today (#5521, #5583-5586, #5590).
 3. Re-check starvation at the next deep run (~08-16 07:00 UTC): 3rd consecutive deep-run occurrence would trigger playbook step 1 (SEO Agent prompt/quota tune) — freeze still excludes new-surface as a response.
 4. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
 
 ---
 
@@ -284,6 +333,8 @@ First run after 07:00 UTC (prior entries 08-14 18:51; the 08-15 01:07/06:34 runs
 
 ---
 
+---
+
 ## 2026-08-14 18:51 — Cheap pulse: 2 fresh proposals promoted (sources.items stale-brand sibling-field-miss)
 
 ### Context (≤3 lines)
@@ -304,6 +355,8 @@ Metrics 18:51 UTC (190 users/243 sessions/402 views 7d; GSC 6,618 impr/119 click
 1. Watch #5550/#5551 ship via Roadie.
 2. First run after 19:00 UTC = evening review — full review of what shipped today.
 3. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
 
 ---
 
@@ -340,6 +393,8 @@ First run after 13:00 UTC. Metrics 13:02 UTC (183 users/230 sessions/354 views 7
 2. Once #5540 merges, the signature-gear route is the last one called out by name in the 08-13 learned-patterns entry — do a final grep sweep of `api/meta/[...path].js` for any remaining unpaired `FAQPage` JSON-LD node to confirm the bug class is closed.
 3. Re-check starvation at the next deep run (~08-15 07:00 UTC) per the playbook's 3-consecutive-run threshold.
 4. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
 
 ---
 
@@ -391,6 +446,8 @@ First run after 07:00 UTC (prior entry 08-14 01:48), treated as the deep run. Me
 
 ---
 
+---
+
 ## 2026-08-14 01:48 — Cheap pulse: 2 fresh proposals promoted (duplicate FAQPage JSON-LD, 3rd-recurrence beginner-guide fallback bug)
 
 ### Context (≤3 lines)
@@ -412,66 +469,6 @@ Metrics 01:48 UTC (169 users/212 sessions/302 views 7d; GSC 5,574 impr/106 click
 1. Watch #5528/#5529 ship; #5528 is a 3rd-recurrence bug, prioritize confirming the fix actually changes live behavior post-merge (bot-UA curl), not just that a PR merged.
 2. At the 07:00 UTC deep run: re-check eligible backlog + untriaged bank; if still <15/≤2, run the queue-starvation playbook (step 1: check SEO Agent's proposal rate — freeze excludes step 2's new-surface option).
 3. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
-
----
-
----
-
----
-
----
-
----
-
----
-
-## 2026-08-13 19:00 — Evening review: 2 fresh proposals promoted (FAQ-invisible-as-body-text bug expands to /lists + 10 more route families), #5520 shipped+merged confirming the fix pattern
-
-### Context (≤3 lines)
-First run after 19:00 UTC (prior entry 08-12 13:08), treated as the evening review. Metrics 19:00 UTC (185 users/229 sessions/313 views 7d; GSC 6,654 impr/122 clicks/1.83% CTR/pos 10.4 — no content-gap rows). Eligible `ai-fix` backlog **1** (#5521) at run start — thin, well under the 45 floor. 2 fresh untriaged `seo-proposal` (#5522/#5524, filed today), plus the 3 standing L1/L2/L3 umbrellas (#3810/#3819/#2211, unchanged).
-
-### Actions taken
-- **Shipped today:** #5520 (drummer profile FAQ visible-body-text fix, 72 flagship pages) merged via PR #5523; #5518 (3 dead citation URLs) merged via PR #5519. Both freeze-compliant, additive/depth work.
-- **Promoted #5522/#5524** (`ai-fix`): same bug class as #5520/#5521 — `generateMetaHtml()`/`generateFaqSchema()` only render visible FAQ text + JSON-LD off top-level `meta.faqSchema`, but several route families hand-serialize their own `articleSchema` with the `FAQPage` node embedded directly, so `meta.faqSchema` never gets set and the Q&A is invisible to non-JS crawlers despite valid JSON-LD. #5522 covers `/lists/<slug>` (98 pages, 3 of which are open L2 #2211 rows — fastest/death-metal/thrash-metal-drummers-ranked, currently uncited). #5524 covers 10 more route families found via a full grep-audit of every `FAQPage` occurrence (drummers/licks hub 72p, top10 articles 12p, /compare 12p, /brands 16p, /genre 7p, /quiz, /drummers hub, /tools, +more). Both are additive-only (reuse existing computed Q&A arrays, zero duplicate JSON-LD, zero new pages) — squarely in the freeze's DEPTH/L2 lane. No duplicates found against #5520/#5521's scope.
-- L1/L2/L3 snapshots unchanged since 08-10 (already actioned in the 08-11/08-12 runs) — no fresh read to action.
-- Founder ideas: inbox empty, unchanged since 06-19. Human-founder blockers (#5141/#5100/#4892/#875/#529/#526/#525) — checked comments, none new — no re-spam.
-
-### State delta
-- ai-fix backlog: 1 → 3 eligible (#5522/#5524 promoted, #5521 unchanged)
-- Org/Sessions/Views (7d): 185/229/313 · GSC 6,654/122/1.83%/pos 10.4 — no content-gap rows
-
-### Quota check
-✅ Founder ideas: inbox empty. ✅ SEO proposals: 2/2 fresh triaged and promoted, verified pattern, no duplicates, freeze-compliant. ✅ GSC-gap: none. ✅ L1/L2/L3: unchanged since 08-10, already closed out. ✅ Starvation: not triggered (bank had 2 fresh items, backlog now 3 — SEO Agent flowing). ✅ Atomic split: none eligible (held issues are frozen policy-paused roster/bands work). ✅ Decisions logged.
-
-### Next Run
-1. Watch #5522/#5524 ship; once the full FAQPage-visibility class is merged, this becomes a candidate `learned-patterns.md` entry (systemic bug, same shape as gearHighlights-vs-FAQ drift).
-2. Watch for the next L1/L2/L3 weekly refresh (~08-17).
-3. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
-## 2026-08-12 13:08 (mid-day pulse — anti-noise hold)
-- Backlog: 0 ai-fix eligible (20 open ai-fix, all `hold`-labeled roster/bands under the freeze, unchanged) · 0 PRs open · proposals untriaged: 0 (excl. standing #3810/#3819/#2211 umbrellas)
-- Org/Sessions/Views (7d): 177/213/299 · GSC 5,425 impr/102 clicks/1.88% CTR/pos 9.9 — no content-gap rows
-- Blockers unchanged: #5141/#5100/#4892/#875/#529/#526/#525 — no re-spam. L1/L2/L3 unchanged since 08-10 (already actioned in prior runs).
-- Actions: none — hold continues. No fresh seo-proposals (last one #5512 filed 03:32 UTC today, shipped+merged 08:40 UTC — cadence quiet since). Founder ideas inbox still empty since 06-19.
-- Next check: next pulse; watch for the next L1/L2/L3 weekly refresh (~08-17) and the SEO Agent's next proposal batch.
-
----
 
 ---
 
@@ -518,6 +515,8 @@ First run after 07:00 UTC (prior entry 08-16 18:26), treated as the deep run. Me
 
 ---
 
+---
+
 ## 2026-08-18 18:36 — Mid-day pulse: 8 fresh albumArticles/extendedBios gear-contradiction proposals promoted (incl. 1 externally re-verified against extendedBios itself)
 
 ### Context (≤3 lines)
@@ -549,6 +548,8 @@ First run after 13:00 UTC (prior entry 06:40 cheap pulse). Metrics 18:35 UTC (22
 
 ---
 
+---
+
 ## 2026-08-18 06:40 — Cheap pulse: 2 fresh gear-contradiction proposals promoted, GSC big-loss + wins held (no re-file)
 
 ### Context (≤3 lines)
@@ -571,6 +572,8 @@ Pre-deep-run pulse (06:40 UTC, before today's 07:00 threshold). #5656-5659 (logg
 1. Deep run due at 07:00 UTC — full metrics review, re-check starvation persistence (if backlog still <15 and bank ≤2 after that run's triage, this becomes a 2nd consecutive occurrence).
 2. Watch #5723/#5724 ship.
 3. L3 (#3819) and L2 (#2211) umbrellas not yet re-read this pulse — pick up in the deep run.
+
+---
 
 ---
 

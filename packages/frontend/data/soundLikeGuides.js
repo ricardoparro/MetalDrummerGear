@@ -4989,7 +4989,7 @@ This guide covers Igor's core technique across both the thrash period (Beneath t
       drumKit: {
         brand: 'Tama',
         model: 'Tama Starclassic Maple',
-        shells: 'Maple (current) / Tama Artstar (Roots era)',
+        shells: 'Maple (current) / Pearl Masters Custom (Roots era)',
         finish: 'Custom Sepultura / Cavalera Conspiracy configurations',
         config: {
           kick: '22" x 18" Bass Drums (x2)',
@@ -4997,7 +4997,7 @@ This guide covers Igor's core technique across both the thrash period (Beneath t
           toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom'],
           floorToms: ['16" x 14" Floor Tom', '18" x 16" Floor Tom']
         },
-        description: "Igor has been a long-time Tama endorser. During the Roots era, he used Tama Artstar kits — a professional maple series that delivered the warm, resonant tone that suited both the tribal and thrash elements of the album. He currently plays Tama Starclassic Maple. Both deliver the focused attack and warm sustain his groove-oriented style requires.",
+        description: "Igor is a long-time Tama endorser today, but during the Roots era he switched to Pearl Masters Custom maple shells — a change that delivered the warm, resonant tone that suited both the tribal and thrash elements of the album. He currently plays Tama Starclassic Maple. Both deliver the focused attack and warm sustain his groove-oriented style requires.",
         affiliateNote: "Tama Superstar Classic or Imperialstar are accessible alternatives with similar maple character."
       },
       snare: {
@@ -5136,7 +5136,7 @@ This guide covers Igor's core technique across both the thrash period (Beneath t
     faq: [
       {
         question: "What drum kit did Igor Cavalera use on Roots?",
-        answer: "Igor Cavalera used Tama Artstar kits during the Roots (1996) recording and touring period. The Artstar was Tama's professional maple series at the time, providing warm, resonant tone suited to both the tribal elements and the heavy metal intensity of the album. He currently plays Tama Starclassic Maple."
+        answer: "Igor Cavalera used Pearl Masters Custom maple-shell kits during the Roots (1996) recording and touring period, a switch from the Tama gear of his earlier Sepultura years, providing warm, resonant tone suited to both the tribal elements and the heavy metal intensity of the album. He currently plays Tama Starclassic Maple."
       },
       {
         question: "How did Igor Cavalera create the tribal drum sound on Roots?",

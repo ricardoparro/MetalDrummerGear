@@ -21,12 +21,12 @@ export const articles = {
     "dateModified": "2026-05-03",
     "author": "MetalForge Editorial",
     "title": "What's In Mikkey Dee's Motörhead/Scorpions Arsenal: 23 Years Behind Rock's Loudest Band",
-    "description": "Explore Mikkey Dee's legendary drum setup — from 23 years powering Motörhead with Lemmy to his current role with Scorpions. Complete gear breakdown of the Swedish powerhouse's Yamaha kit, Zildjian cymbals, and signature techniques.",
+    "description": "Explore Mikkey Dee's legendary drum setup — from 23 years powering Motörhead with Lemmy to his current role with Scorpions. Complete gear breakdown of the Swedish powerhouse's Sonor kit, Paiste cymbals, and signature techniques.",
     "seoKeywords": [
       "mikkey dee drum kit",
       "motorhead drummer gear",
       "scorpions drummer setup",
-      "mikkey dee yamaha",
+      "mikkey dee sonor",
       "lemmy drummer",
       "mikkey dee setup 2026",
       "motorhead drums",
@@ -46,112 +46,100 @@ export const articles = {
       ]
     },
     "drumKit": {
-      "title": "Yamaha Power: The Foundation of Thunder",
-      "brand": "Yamaha",
-      "model": "Yamaha Recording Custom / Oak Custom",
-      "finish": "Custom finishes (often black or natural)",
+      "title": "Sonor Power: The Foundation of Thunder",
+      "brand": "Sonor",
+      "model": "Sonor SQ2",
+      "finish": "Custom finishes (often black hardware live)",
       "config": {
         "bassdrums": [
-          "24\" x 18\" Bass Drum (single pedal)",
-          "24\" x 18\" Bass Drum (double pedal setup available)"
+          "22\" x 18\" Bass Drum (single pedal, Motörhead era)",
+          "22\" x 18\" Bass Drum (dual kick for double bass runs)"
         ],
         "toms": [
-          "10\" x 8\" Rack Tom",
-          "12\" x 9\" Rack Tom",
-          "13\" x 10\" Rack Tom"
+          "10\" Rack Tom",
+          "12\" Rack Tom",
+          "14\" Rack Tom"
         ],
         "floorToms": [
-          "16\" x 16\" Floor Tom",
-          "18\" x 16\" Floor Tom"
+          "14\" Floor Tom",
+          "16\" Floor Tom"
         ],
-        "shells": "Birch (Recording Custom) or Oak shells for maximum power"
+        "shells": "Birch (Sonor SQ2 custom-build series) for maximum power"
       },
-      "description": "Mikkey Dee's Yamaha drums are built for one purpose: delivering crushing power night after night on world tours. His choice of Yamaha reflects his priorities — durability, consistency, and massive low-end punch.\n\n**The Bass Drum Philosophy:**\nUnlike many modern metal drummers who favor double bass drum setups with smaller kicks, Mikkey uses a single 24\" bass drum. This massive drum delivers the chest-thumping low end that defined Motörhead's live sound. Even when using a double pedal, Mikkey often preferred one large kick to two smaller ones — the resonance and power are simply different.\n\n**Recording Custom vs Oak Custom:**\nThe Yamaha Recording Custom series (birch shells) has been Mikkey's primary choice for studio work, prized for its focused attack and clear tone. For live work and particularly punishing tours, he's also used the Oak Custom series, which offers even more volume and durability. Oak's density makes it virtually indestructible — essential for Mikkey's aggressive playing style.\n\n**The Motörhead Setup:**\nWith Motörhead, Mikkey typically used a five-piece configuration: 24\" kick, 10\"/12\"/13\" rack toms, and dual floor toms (16\" and 18\"). This setup provided the tonal range to deliver both delicate passages (yes, Motörhead had them) and the devastating power the band was known for.\n\n**The Scorpions Configuration:**\nWith Scorpions, Mikkey has adapted his setup slightly for the band's more melodic rock approach, but the foundation remains: massive bass drum, multiple toms for dynamic fills, and floor toms that shake venues. The Scorpions' arena rock requires projection, and Yamaha delivers.\n\n**Shell Selection:**\nMikkey prefers thicker shells for maximum volume and projection. His drums are built to cut through walls of Marshall amplifiers — a necessity when playing next to Lemmy's legendary stage volume or Scorpions' wall-of-sound production.",
+      "description": "Mikkey Dee's Sonor drums are built for one purpose: delivering crushing power night after night on world tours. His choice of Sonor reflects his priorities — durability, consistency, and massive low-end punch — and dates back to an endorsement he picked up during his King Diamond days in the late 1980s, well before Motörhead.\n\n**The Bass Drum Philosophy:**\nMikkey's configuration emphasizes floor toms over rack toms — two floor toms (14\" and 16\") against just two or three smaller rack toms — reflecting a fill vocabulary built around low-frequency weight. A 22\" bass drum (dual kick when double bass runs demand it) delivers the chest-thumping low end that defined Motörhead's live sound.\n\n**Sonor SQ2 Custom-Build:**\nThe Sonor SQ2 series (birch shells) has been Mikkey's kit of choice since the King Diamond era, prized for its punchy, focused attack and rock-solid hardware. The custom-build program let him dial in exactly the shell depths and hardware configuration his touring schedule demanded — essential for a drummer who has barely stopped touring since 1988.\n\n**The Motörhead Setup:**\nWith Motörhead, Mikkey typically used a configuration built around a 22\" kick, multiple rack toms, and dual floor toms. This setup provided the tonal range to deliver both delicate passages (yes, Motörhead had them) and the devastating power the band was known for.\n\n**The Scorpions Configuration:**\nWith Scorpions, Mikkey has adapted his setup slightly for the band's more melodic rock approach, but the foundation remains the same Sonor SQ2 platform that's defined his sound for nearly four decades. The Scorpions' arena rock requires projection, and Sonor delivers.\n\n**Shell Selection:**\nMikkey prefers Sonor's birch shells for maximum volume and projection. His drums are built to cut through walls of Marshall amplifiers — a necessity when playing next to Lemmy's legendary stage volume or Scorpions' wall-of-sound production.",
       "notes": [
-        "24\" bass drum delivers chest-thumping power",
-        "Birch Recording Custom for studio work",
-        "Oak Custom for maximum durability on tour",
+        "22\" bass drum (dual kick for double bass runs) delivers chest-thumping power",
+        "Sonor SQ2 birch shells since his King Diamond days",
+        "Floor-tom-forward voicing for low-frequency fill weight",
         "Thicker shells for projection through loud stage volumes",
-        "Single kick philosophy despite occasional double pedal use"
+        "Same Sonor endorsement carried from King Diamond through Motörhead into Scorpions"
       ],
-      "estimatedValue": "$4,000-7,000 (professional Yamaha kits)"
+      "estimatedValue": "$4,000-7,000 (professional Sonor SQ2 kits)"
     },
     "snare": {
       "title": "The Crack That Cuts Through Chaos",
-      "brand": "Yamaha",
-      "model": "Yamaha Recording Custom Aluminum / Brass",
-      "size": "14\" x 6.5\"",
-      "shell": "Aluminum or Brass (metal snares preferred)",
-      "description": "Mikkey Dee's snare drum sound is unmistakable — a crisp, powerful crack that cuts through even the loudest stage mix. His preference for deep metal-shell snares delivers the attack and projection needed to compete with Motörhead's legendary volume.\n\n**The Metal Shell Choice:**\nWhile many rock drummers favor wood snares for warmth, Mikkey gravitates toward metal shells — aluminum and brass being his primary choices. Metal shells offer brightness, cutting power, and sensitivity that work perfectly for his style. The 6.5\" depth provides body without sacrificing the crack.\n\n**Yamaha Recording Custom Aluminum:**\nThis snare has been Mikkey's go-to for years. The seamless aluminum shell produces a bright, articulate sound with excellent sensitivity for ghost notes while delivering devastating rimshots. The Recording Custom hardware is robust enough for his aggressive playing.\n\n**Brass for Maximum Cut:**\nFor situations requiring even more cut, Mikkey has used brass snares. Brass delivers more overtones and sustain than aluminum, projecting across large venues without becoming harsh.\n\n**Tuning Philosophy:**\nMikkey tunes his snare on the higher side of medium — tight enough for a clear crack on every stroke but not so high that it loses body. This tuning survives aggressive playing while maintaining musicality. With Lemmy's bass often occupying the low-mid frequencies, Mikkey's snare needed to live in its own sonic space.\n\n**The Motörhead Challenge:**\nPlaying snare drums next to Lemmy's bass rig was a unique challenge. The stage volume was legendary — often described as a physical assault. Mikkey's snare setup was specifically designed to cut through this sonic mayhem, and it succeeded night after night.",
+      "brand": "Sonor",
+      "model": "Sonor Mikkey Dee Signature",
+      "size": "14\" x 7.25\"",
+      "shell": "Birch (deep-shell signature model)",
+      "description": "Mikkey Dee's snare drum sound is unmistakable — a deep, powerful crack that cuts through even the loudest stage mix. Sonor released his signature 14\"x7.25\" birch snare in 2012, and its extra-deep shell has defined his sound across Motörhead's final era and his ongoing run with Scorpions.\n\n**The Deep Shell Choice:**\nWhile many rock drummers favor shallower snares for a quicker attack, Mikkey's signature model runs 7.25\" deep — well beyond the standard 5.5\"-6.5\" range. The extra depth adds substantial low-mid body to his backbeat, giving it weight alongside the crack.\n\n**Sonor Mikkey Dee Signature:**\nThis snare has been Mikkey's go-to since its 2012 release. The birch shell produces a full, articulate sound with excellent sensitivity for ghost notes while delivering devastating rimshots. Sonor's hardware is robust enough for his aggressive playing.\n\n**Before the Signature Model:**\nEarlier in his career — through the King Diamond years and into Motörhead — Mikkey played a shallower birch Sonor snare. The 2012 signature model deepened the shell to add more low-mid weight without sacrificing the crack.\n\n**Tuning Philosophy:**\nMikkey tunes his snare on the higher side of medium — tight enough for a clear crack on every stroke but not so high that it loses body. This tuning survives aggressive playing while maintaining musicality. With Lemmy's bass often occupying the low-mid frequencies, Mikkey's snare needed to live in its own sonic space.\n\n**The Motörhead Challenge:**\nPlaying snare drums next to Lemmy's bass rig was a unique challenge. The stage volume was legendary — often described as a physical assault. Mikkey's snare setup was specifically designed to cut through this sonic mayhem, and it succeeded night after night.",
       "tuningSetting": "Medium-high for maximum crack and cut",
-      "heads": "Remo Ambassador Coated / Emperor X",
-      "estimatedValue": "$500-800 (professional metal snares)"
+      "heads": "Remo Ambassador Coated / Evans G2",
+      "estimatedValue": "$500-800 (professional deep-shell birch snares)"
     },
     "cymbals": {
-      "title": "Zildjian Power",
-      "brand": "Zildjian",
-      "series": "Zildjian A Custom / K Custom",
+      "title": "Paiste Power",
+      "brand": "Paiste",
+      "series": "Paiste Signature Series",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Zildjian 15\" A New Beat Hi-Hats",
+          "model": "Paiste Signature 14\" Sound Edge Hi-Hats",
           "position": "Left side",
-          "notes": "Heavy hi-hats for aggressive playing; 15\" for extra body"
+          "notes": "Sound Edge design for a tight, driving pattern under aggressive playing"
         },
         {
           "type": "Crash",
-          "model": "Zildjian 18\" A Custom Medium",
+          "model": "Paiste Signature 19\" Power Crash",
           "position": "Left of hi-hats",
           "notes": "Explosive, cutting crash for accents"
         },
         {
           "type": "Crash",
-          "model": "Zildjian 19\" A Custom Projection Crash",
+          "model": "Paiste Signature 20\" Power Crash",
           "position": "Right of toms",
-          "notes": "More projection for larger venues"
-        },
-        {
-          "type": "Crash",
-          "model": "Zildjian 20\" A Custom Crash",
-          "position": "Far right",
-          "notes": "Massive crash for song endings"
+          "notes": "Massive crash for song endings and larger venues"
         },
         {
           "type": "Ride",
-          "model": "Zildjian 22\" A Custom Medium Ride",
+          "model": "Paiste Signature 22\" Power Ride",
           "position": "Right side",
           "notes": "Versatile ride with powerful bell"
         },
         {
           "type": "China",
-          "model": "Zildjian 18\" A Custom China",
+          "model": "Paiste Signature 18\" Heavy China",
           "position": "Above floor tom",
-          "notes": "Aggressive accents for punk-influenced passages"
-        },
-        {
-          "type": "Splash",
-          "model": "Zildjian 10\" A Custom Splash",
-          "position": "Above hi-hats",
-          "notes": "Quick accents and color"
+          "notes": "Explosive flourishes and aggressive accents"
         }
       ],
-      "description": "Mikkey Dee's Zildjian cymbal setup is built for one thing: cutting through the loudest rock bands in history. His selection emphasizes projection, durability, and the ability to be heard over walls of amplifiers.\n\n**The 15\" Hi-Hat Choice:**\nWhile most drummers use 14\" hi-hats, Mikkey prefers 15\" New Beats. The extra inch provides more body and volume — essential when playing next to Lemmy's bass stack. The heavier bottom cymbal keeps the hi-hats stable during aggressive playing while the top cymbal provides articulation.\n\n**A Custom Series:**\nZildjian's A Custom line is Mikkey's primary choice. These cymbals offer brightness and projection with enough musicality for melodic passages. The series was designed for rock and metal applications — perfect for Motörhead's raw power and Scorpions' arena rock.\n\n**Multiple Crash Sizes:**\nMikkey uses various crash sizes (18\", 19\", 20\") for dynamic range. Smaller crashes for quick accents, larger crashes for dramatic moments and song endings. This variety gives him options without overwhelming the mix with constant huge crashes.\n\n**The 22\" Ride:**\nA large ride cymbal provides a clear bell and enough body for crash-riding — essential for rock drumming. Mikkey uses the bell extensively for accents, a technique that became part of Motörhead's signature sound.\n\n**Durability:**\nPlaying at Motörhead volumes meant destroying cymbals faster than most drummers. Mikkey's choices reflect this — he needs cymbals that can survive aggressive playing night after night. Zildjian's professional series has the durability required.",
-      "estimatedValue": "$2,500-3,500 total (professional Zildjian setup)"
+      "description": "Mikkey Dee's Paiste cymbal setup is built for one thing: cutting through the loudest rock bands in history. He's been a Paiste artist since April 1987 — an endorsement that predates Motörhead and has followed him through King Diamond, Motörhead, and now Scorpions.\n\n**The Sound Edge Hi-Hat Choice:**\nMikkey's Sound Edge hi-hats provide a tight, driving character essential for locking in with a loud rock rhythm section. The serrated edge design keeps the hats articulate and stable during aggressive playing while giving the top cymbal extra bite.\n\n**Signature Series:**\nPaiste's Signature line is Mikkey's primary choice. These cymbals offer brightness and projection with enough musicality for melodic passages. The series works equally well for Motörhead's raw power and Scorpions' arena rock.\n\n**Power Crashes:**\nMikkey uses 19\" and 20\" Power Crashes for dynamic range across large stages — enough sustain and volume to register in the biggest rooms without overwhelming the mix with constant huge crashes.\n\n**The 22\" Power Ride:**\nA large ride cymbal provides a clear bell and enough body for crash-riding — essential for rock drumming. Mikkey uses the bell extensively for accents, a technique that became part of Motörhead's signature sound.\n\n**Durability:**\nPlaying at Motörhead volumes meant destroying cymbals faster than most drummers. Mikkey's choices reflect this — he needs cymbals that can survive aggressive playing night after night. Paiste's professional Signature series has the durability required.",
+      "estimatedValue": "$2,500-3,500 total (professional Paiste Signature setup)"
     },
     "hardware": {
       "title": "Built for War",
       "items": [
         {
           "type": "Bass Drum Pedal",
-          "brand": "Yamaha",
-          "model": "Yamaha FP9 / Flying Dragon",
-          "notes": "Smooth, powerful action for aggressive playing",
-          "description": "Mikkey's pedal choice emphasizes smooth action and durability. The Flying Dragon pedal offers adjustable response for his powerful single-stroke approach. Even when using double pedals, he maintains a driving, groove-oriented style rather than constant double bass patterns."
+          "brand": "DW",
+          "model": "DW 5000 Series Double Pedal",
+          "notes": "Direct-drive action for aggressive playing",
+          "description": "Mikkey's pedal choice emphasizes precise, direct-drive response and durability. The DW 5000 Series double pedal delivers accurate individual note placement for his powerful, locked-in kick-bass relationship — first with Lemmy's bass, now with Scorpions' rhythm section."
         },
         {
           "type": "Hi-Hat Stand",
-          "brand": "Yamaha",
-          "model": "Yamaha HS1200",
+          "brand": "Sonor",
+          "model": "Sonor Hardware",
           "notes": "Heavy-duty stand for powerful footwork"
         },
         {
@@ -162,9 +150,9 @@ export const articles = {
         },
         {
           "type": "Sticks",
-          "brand": "Vic Firth",
-          "model": "Vic Firth 2B or Custom",
-          "notes": "Heavy sticks for maximum impact — 2B weight for power and durability"
+          "brand": "Wincent",
+          "model": "Wincent Mikkey Dee Signature (W-MDS)",
+          "notes": "Signature heavy sticks for maximum impact and durability"
         }
       ],
       "heads": {
@@ -250,7 +238,7 @@ export const articles = {
       "content": "Mikkey Dee's sound is about power, precision, and projection. Here's how to capture elements of his approach at various price points.\n\n**The Philosophy First:**\nMikkey's sound comes from how he plays, not just what he plays. Hit hard, but hit accurately. Every stroke deliberate. Practice playing at full volume with control — it's harder than it sounds.\n\n**Bass Drum Priority:**\nIf possible, use a larger bass drum (22\" minimum, 24\" if practical). The low-end thump of a big kick defines Mikkey's sound. Tune it low but with enough attack to cut through.\n\n**Metal Snare Recommendation:**\nInvest in a quality metal-shell snare drum. Even budget aluminum snares deliver more cut than wood drums. This is one area where spending more makes an audible difference.\n\n**Hi-Hat Weight:**\nConsider heavier hi-hats (14\" New Beats or similar). They require more effort to play but provide the stability and body Mikkey's sound demands.\n\n**Stick Selection:**\nUse heavier sticks (2B weight). Lighter sticks won't deliver the same impact. Practice grip and technique to avoid injury from the extra weight.\n\n**Head Choices:**\nDouble-ply heads (Emperor or G2) on toms and snare provide durability for hard hitting. Clear heads offer more attack; coated heads add warmth. Experiment to find your preference.",
       "recommendations": [
         {
-          "item": "Yamaha Stage Custom or similar (used)",
+          "item": "Sonor AQ2 or similar birch kit (used)",
           "available": true,
           "priceRange": "$600-900 used",
           "notes": "Birch shells offer Mikkey-style attack"
@@ -262,7 +250,7 @@ export const articles = {
           "notes": "Aluminum or steel for cutting power"
         },
         {
-          "item": "Zildjian A series crashes (used)",
+          "item": "Paiste Signature or PST series crashes (used)",
           "available": true,
           "priceRange": "$150-250 each",
           "notes": "Projection and durability"
@@ -298,15 +286,15 @@ export const articles = {
     "faq": [
       {
         "question": "What drum kit does Mikkey Dee use with Motörhead and Scorpions?",
-        "answer": "Mikkey Dee plays Yamaha Recording Custom and Oak Custom kits. His setup features a large 24x18 inch bass drum, rack toms in 10, 12, and 13 inch sizes, and 16 and 18 inch floor toms. The Recording Custom uses birch shells for a tight, punchy sound, while the Oak Custom variant adds warmth and low-end depth. The large bass drum is central to his powerful, driving style suited to hard rock and heavy metal."
+        "answer": "Mikkey Dee plays a Sonor SQ2 custom-build kit — an endorsement dating back to his King Diamond days in the late 1980s. His setup features a 22 inch bass drum (dual kick for double bass runs), rack toms, and floor toms in 14 and 16 inch sizes. The SQ2's birch shells deliver a tight, punchy sound with the low-end depth central to his powerful, driving style suited to hard rock and heavy metal."
       },
       {
         "question": "What cymbals does Mikkey Dee use with Motörhead and Scorpions?",
-        "answer": "Mikkey Dee plays Zildjian A Custom and K Custom cymbals. His setup includes 15 inch A New Beat hi-hats, A Custom crashes in 18 and 20 inch sizes, a 22 inch A Custom Medium Ride, an 18 inch A Custom China, and a 10 inch A Custom splash. The A Custom series provides the bright, articulate response that cuts through the high-volume environments typical of Motörhead and Scorpions performances."
+        "answer": "Mikkey Dee plays Paiste Signature Series cymbals — he's been a Paiste artist since April 1987. His setup includes 14 inch Sound Edge hi-hats, Power Crashes in 19 and 20 inch sizes, a 22 inch Power Ride, and an 18 inch Heavy China. The Signature Series provides the bright, articulate response that cuts through the high-volume environments typical of Motörhead and Scorpions performances."
       },
       {
         "question": "How much does Mikkey Dee's drum kit cost?",
-        "answer": "A Yamaha Recording Custom shell pack in Mikkey Dee's configuration currently retails between $4,000 and $7,000 depending on finish and configuration. The Yamaha Recording Custom Aluminum or Brass snare adds $500 to $800. A matching Zildjian A Custom and K Custom cymbal package can bring the total investment to $10,000 to $14,000, making it a serious professional setup appropriate for touring and studio work."
+        "answer": "A Sonor SQ2 custom-build shell pack in Mikkey Dee's configuration currently retails between $4,000 and $7,000 depending on finish and configuration. His Sonor Mikkey Dee Signature snare adds $500 to $800. A matching Paiste Signature Series cymbal package can bring the total investment to $10,000 to $14,000, making it a serious professional setup appropriate for touring and studio work."
       }
     ],
     "conclusion": {
@@ -705,7 +693,7 @@ export const articles = {
       },
       "description": "During the early Motörhead years, Mikkey Dee built his arsenal around Tama drums — specifically the Artstar II and Swingstar series, which were among the finest professional kits available in the early 1990s. Tama's Japanese engineering brought a level of consistency and durability that suited the punishing demands of Motörhead's touring and recording schedule.\n\nThe 22\" bass drum was the foundation of Dee's Tama setup on *Bastards*. Unlike the oversized bass drums popular among death and thrash metal drummers of the era, Dee kept to the classic 22\" configuration. This choice delivered the focused, punchy low-end thump that Motörhead's hard rock approach demanded — a drum sound that locked with Lemmy's bass guitar without competing with it.\n\nThe multi-tom setup provided Dee with the tonal range to navigate both Motörhead's straightforward rock tracks and more complex arrangements. Three rack toms (10\", 12\", 13\") and dual floor toms (16\", 18\") gave him options for dramatic fills without overwhelming the song-focused arrangements that defined the *Bastards* material.\n\nTama's Artstar II shells were prized for their even sustain and attack — qualities that worked in the studio environment of the *Bastards* sessions. Where Motörhead's rawness had sometimes masked kit limitations in earlier recordings, Dee's Tama setup delivered a drum sound with genuine definition and character. Every stroke registered.\n\nThe transition from Taylor's setup to Dee's Tama arsenal represented a quiet revolution in Motörhead's drum sound — more controlled, more consistent, but no less powerful.",
       "notes": [
-        "Tama Artstar II series used by Dee in his early Motörhead years — later transitioning to Yamaha",
+        "Tama Artstar II series used by Dee in his early Motörhead years",
         "22\" bass drum: classic hard rock size, punchy and focused rather than overwhelming",
         "Multi-tom configuration gave Dee options for the varied material on Bastards",
         "Maple shells provided warm attack and even sustain suited to studio capture"
@@ -848,7 +836,7 @@ export const articles = {
     "faq": [
       {
         "question": "What drums did Mikkey Dee use on Bastards?",
-        "answer": "On *Bastards* (1993), Mikkey Dee used a Tama drum kit — specifically the Artstar II / Swingstar series that he relied on during his early Motörhead years. The configuration centered on a 22\" bass drum for focused, punchy low-end, with three rack toms (10\", 12\", 13\") and dual floor toms (16\", 18\"). This was Dee's first studio album with Motörhead — he had joined the band in early 1992, replacing Phil \"Philthy Animal\" Taylor. Dee would later transition to Yamaha drums, but his Tama era produced some of his most visceral Motörhead recordings. For his complete career gear evolution, see the [Mikkey Dee drummer profile](/drummer/mikkey-dee)."
+        "answer": "On *Bastards* (1993), Mikkey Dee used a Tama drum kit — specifically the Artstar II / Swingstar series that he relied on during his early Motörhead years. The configuration centered on a 22\" bass drum for focused, punchy low-end, with three rack toms (10\", 12\", 13\") and dual floor toms (16\", 18\"). This was Dee's first studio album with Motörhead — he had joined the band in early 1992, replacing Phil \"Philthy Animal\" Taylor. His Tama era produced some of his most visceral Motörhead recordings. For his complete career gear evolution, see the [Mikkey Dee drummer profile](/drummer/mikkey-dee)."
       },
       {
         "question": "When did Mikkey Dee join Motörhead?",
@@ -860,37 +848,37 @@ export const articles = {
       },
       {
         "question": "What cymbals did Mikkey Dee use on Bastards?",
-        "answer": "During the *Bastards* (1993) sessions, Mikkey Dee used a Paiste setup combining Giant Beat and Paiste 2002 series cymbals. The Giant Beat 15\" hi-hats provided more body and projection than standard 14\" hi-hats — essential when playing next to Lemmy's legendary bass volume. Paiste 2002 crashes (18\" and 20\") and a 22\" ride handled accent and time-keeping duties, with an 18\" China cymbal for trashy accents on Motörhead's heaviest moments. Paiste's CuSn8 bronze alloy — shared by both the Giant Beat and 2002 series — delivers a warm, complex sound that cuts through dense mixes naturally. Dee would later move toward Zildjian cymbals as his endorsement relationships evolved."
+        "answer": "During the *Bastards* (1993) sessions, Mikkey Dee used a Paiste setup combining Giant Beat and Paiste 2002 series cymbals. The Giant Beat 15\" hi-hats provided more body and projection than standard 14\" hi-hats — essential when playing next to Lemmy's legendary bass volume. Paiste 2002 crashes (18\" and 20\") and a 22\" ride handled accent and time-keeping duties, with an 18\" China cymbal for trashy accents on Motörhead's heaviest moments. Paiste's CuSn8 bronze alloy — shared by both the Giant Beat and 2002 series — delivers a warm, complex sound that cuts through dense mixes naturally. Dee's Paiste relationship continued for the rest of his career, later shifting toward the Signature Series he plays today with Scorpions."
       }
     ],
     "evolution": {
       "title": "From Bastards to Inferno: Mikkey Dee's Gear Through the Motörhead Years",
-      "content": "*Bastards* (1993) captured Mikkey Dee at the start of what would become a 23-year tenure with Motörhead — the longest any drummer would serve alongside Lemmy Kilmister. His setup evolved significantly across those years while retaining the fundamental characteristics established in this debut: power, precision, and the ability to fill any room in the world.\n\n**The Tama Era (1992–late 1990s):**\nThe *Bastards* sessions were part of Dee's Tama period — Artstar II and Swingstar series kits paired with Paiste cymbals. This setup toured extensively and proved its durability through the punishing demands of Motörhead's relentless schedule.\n\n**The Yamaha Transition (late 1990s onward):**\nDee gradually transitioned to Yamaha drums and Zildjian cymbals — a shift that gave his sound a different tonal character. The Yamaha Recording Custom's birch shells produced a more focused, studio-optimized attack compared to the Tama maple's warmer resonance. The change is audible across albums: *We Are Motörhead* (2000) and *Inferno* (2004) have a distinctly different drum character than *Bastards*.\n\n**The Scorpions Chapter:**\nAfter Lemmy's death in December 2015, Dee joined Scorpions in 2016, bringing his Yamaha/Zildjian setup to a new band context. His work on Scorpions' *Rock Believer* (2022) demonstrates the same fundamental approach — massive power with technical precision — adapted for arena rock's more melodic demands.",
+      "content": "*Bastards* (1993) captured Mikkey Dee at the start of what would become a 23-year tenure with Motörhead — the longest any drummer would serve alongside Lemmy Kilmister. His setup evolved across those years while retaining the fundamental characteristics established in this debut: power, precision, and the ability to fill any room in the world.\n\n**The Tama Era (1992–late 1990s):**\nThe *Bastards* sessions were part of Dee's Tama period — Artstar II and Swingstar series kits paired with Paiste cymbals. This setup toured extensively and proved its durability through the punishing demands of Motörhead's relentless schedule.\n\n**The Paiste Signature Years (late 1990s onward):**\nDee's Paiste cymbal relationship — established back in his King Diamond days — continued and refined into the Paiste Signature Series he still plays today, giving his sound a brighter, more arena-ready character on later albums like *We Are Motörhead* (2000) and *Inferno* (2004) compared to *Bastards*.\n\n**The Scorpions Chapter:**\nAfter Lemmy's death in December 2015, Dee joined Scorpions in 2016, bringing his longtime Sonor/Paiste setup to a new band context. His work on Scorpions' *Rock Believer* (2022) demonstrates the same fundamental approach — massive power with technical precision — adapted for arena rock's more melodic demands.",
       "thenVsNow": [
         {
           "category": "Kit",
           "then": "Tama Artstar II / Swingstar (maple)",
-          "now": "Yamaha Recording Custom / Oak Custom"
+          "now": "Sonor SQ2 (birch)"
         },
         {
           "category": "Snare",
           "then": "Tama Artstar II Steel 14\" x 6.5\"",
-          "now": "Yamaha Recording Custom Aluminum / Brass 14\" x 6.5\""
+          "now": "Sonor Mikkey Dee Signature 14\" x 7.25\" Birch"
         },
         {
           "category": "Cymbals",
           "then": "Paiste Giant Beat + Paiste 2002",
-          "now": "Zildjian A Custom / K Custom"
+          "now": "Paiste Signature Series"
         },
         {
           "category": "Pedals",
           "then": "Tama Iron Cobra",
-          "now": "Yamaha FP9 / Flying Dragon"
+          "now": "DW 5000 Series Double Pedal"
         },
         {
           "category": "Sticks",
           "then": "Vic Firth 5B",
-          "now": "Vic Firth 2B or Custom"
+          "now": "Wincent Mikkey Dee Signature (W-MDS)"
         }
       ]
     },
@@ -1051,7 +1039,7 @@ export const articles = {
     },
     "conclusion": {
       "title": "The New Motörhead Standard: Bastards and the Dee Era Begins",
-      "content": "*Bastards* (1993) is the sound of Motörhead recalibrating. Phil Taylor's chaotic thunder had defined the band through its classic period, and replacing him was an impossible task in the minds of devoted fans. Mikkey Dee didn't attempt to replicate Taylor — he brought something different, and arguably better: the same raw power delivered with Swedish precision and professional control.\n\nThe Tama/Paiste setup that powered *Bastards* was the right tool for this moment. The Artstar II shells produced a drum tone with genuine character and definition. The Giant Beat hi-hats provided the body to be heard next to Lemmy's legendary volume. The Iron Cobra pedals delivered the mechanical precision that Dee's placement-focused kick technique required.\n\n**For Drummers Studying Bastards:**\nThe most important lesson is the transition from Taylor to Dee — how a band with deeply embedded sonic identity can integrate a fundamentally different drummer while retaining its essential character. Study \"Burner\" for Dee's high-tempo groove approach: the kick placement, the ghost note density, the way fills end cleanly on the downbeat. Then compare it to classic Taylor tracks on *Overkill* or *Ace of Spades*. Two legitimate approaches to the same band context, separated by entirely different philosophies.\n\n**The Gear Legacy:**\nTama Iron Cobra pedals remain among the most respected chain-drive pedals in rock drumming. Paiste's Giant Beat series — revived and continuously available — is the authentic classic-rock cymbal choice. A drummer who wants to approximate the *Bastards* drum sound doesn't need an enormous budget, just the right gear philosophy: power through placement, not volume alone.\n\nFor Mikkey Dee's complete setup evolution — from the Tama era through his Yamaha years with both Motörhead and Scorpions — see the [Mikkey Dee drummer profile](/drummer/mikkey-dee) and the [full kit breakdown](/articles/whats-in-mikkey-dees-kit).\n\n🤘 *Twenty-three years with the world's loudest band. It started here.* 🤘"
+      "content": "*Bastards* (1993) is the sound of Motörhead recalibrating. Phil Taylor's chaotic thunder had defined the band through its classic period, and replacing him was an impossible task in the minds of devoted fans. Mikkey Dee didn't attempt to replicate Taylor — he brought something different, and arguably better: the same raw power delivered with Swedish precision and professional control.\n\nThe Tama/Paiste setup that powered *Bastards* was the right tool for this moment. The Artstar II shells produced a drum tone with genuine character and definition. The Giant Beat hi-hats provided the body to be heard next to Lemmy's legendary volume. The Iron Cobra pedals delivered the mechanical precision that Dee's placement-focused kick technique required.\n\n**For Drummers Studying Bastards:**\nThe most important lesson is the transition from Taylor to Dee — how a band with deeply embedded sonic identity can integrate a fundamentally different drummer while retaining its essential character. Study \"Burner\" for Dee's high-tempo groove approach: the kick placement, the ghost note density, the way fills end cleanly on the downbeat. Then compare it to classic Taylor tracks on *Overkill* or *Ace of Spades*. Two legitimate approaches to the same band context, separated by entirely different philosophies.\n\n**The Gear Legacy:**\nTama Iron Cobra pedals remain among the most respected chain-drive pedals in rock drumming. Paiste's Giant Beat series — revived and continuously available — is the authentic classic-rock cymbal choice. A drummer who wants to approximate the *Bastards* drum sound doesn't need an enormous budget, just the right gear philosophy: power through placement, not volume alone.\n\nFor Mikkey Dee's complete setup evolution — from the Tama era through his Sonor/Paiste years with both Motörhead and Scorpions — see the [Mikkey Dee drummer profile](/drummer/mikkey-dee) and the [full kit breakdown](/articles/whats-in-mikkey-dees-kit).\n\n🤘 *Twenty-three years with the world's loudest band. It started here.* 🤘"
     }
   },
   "sacrifice-drum-setup": {
@@ -2899,7 +2887,7 @@ export const articles = {
     "dateModified": "2026-07-01",
     "author": "MetalForge Editorial",
     "title": "Bad Magic Drum Setup: Mikkey Dee's Gear on Motörhead's Final Album",
-    "description": "Discover the exact drum kit, cymbals, and gear Mikkey Dee used on Motörhead's Bad Magic (2015) — the band's final studio album, released four months before Lemmy Kilmister's death. Complete breakdown of the Pearl Reference kit, Zildjian cymbals, and the closing chapter of a 23-year partnership.",
+    "description": "Discover the exact drum kit, cymbals, and gear Mikkey Dee used on Motörhead's Bad Magic (2015) — the band's final studio album, released four months before Lemmy Kilmister's death. Complete breakdown of the Pearl Reference kit, Paiste Signature cymbals, and the closing chapter of a 23-year partnership.",
     "seoKeywords": [
       "mikkey dee drum kit",
       "motorhead bad magic drums",
@@ -2908,13 +2896,13 @@ export const articles = {
       "motorhead final album drummer",
       "bad magic 2015 drums",
       "mikkey dee pearl",
-      "mikkey dee zildjian",
+      "mikkey dee paiste",
       "thunder and lightning grammy"
     ],
     "ogImage": "/images/albums/bad-magic-drums.webp",
     "intro": {
       "title": "The Final Statement: Mikkey Dee's Last Studio Album With Motörhead",
-      "content": "Released on August 28, 2015, *Bad Magic* is Motörhead's twenty-second and final studio album of new material — the closing chapter of Mikkey Dee's 23-year run behind the kit for rock's loudest band. Lemmy Kilmister died on December 28, 2015, just four months after the album reached shelves, making *Bad Magic* the definitive answer to one of the most-asked questions in hard rock history: what was Motörhead's last album?\n\nRecorded at NRG Studios in North Hollywood with longtime producer Cameron Webb — who had shaped the band's sound since *Kiss of Death* (2006) — *Bad Magic* found Motörhead writing and tracking material with unusual immediacy. Dee later described the sessions as more live-feeling than prior records: the band worked out arrangements and captured takes close together, rather than laboring over parts in isolation.\n\nThe album carried real commercial weight for a band 40 years into its career, charting at UK #10 and debuting on the Billboard 200 in the US. \"Thunder & Lightning\" became closely associated with a Grammy Award for Best Metal Performance — recognition that arrived only weeks before Lemmy's passing and closed out the Dee/Motörhead partnership on its highest note.\n\nThis article breaks down the Pearl Reference kit, Zildjian cymbals, and Vic Firth signature sticks that powered Dee's performance on Motörhead's swan song — the gear behind the final entry in one of metal's most storied drummer/band relationships.",
+      "content": "Released on August 28, 2015, *Bad Magic* is Motörhead's twenty-second and final studio album of new material — the closing chapter of Mikkey Dee's 23-year run behind the kit for rock's loudest band. Lemmy Kilmister died on December 28, 2015, just four months after the album reached shelves, making *Bad Magic* the definitive answer to one of the most-asked questions in hard rock history: what was Motörhead's last album?\n\nRecorded at NRG Studios in North Hollywood with longtime producer Cameron Webb — who had shaped the band's sound since *Kiss of Death* (2006) — *Bad Magic* found Motörhead writing and tracking material with unusual immediacy. Dee later described the sessions as more live-feeling than prior records: the band worked out arrangements and captured takes close together, rather than laboring over parts in isolation.\n\nThe album carried real commercial weight for a band 40 years into its career, charting at UK #10 and debuting on the Billboard 200 in the US. \"Thunder & Lightning\" became closely associated with a Grammy Award for Best Metal Performance — recognition that arrived only weeks before Lemmy's passing and closed out the Dee/Motörhead partnership on its highest note.\n\nThis article breaks down the Pearl Reference kit, Paiste Signature cymbals, and Vic Firth signature sticks that powered Dee's performance on Motörhead's swan song — the gear behind the final entry in one of metal's most storied drummer/band relationships.",
       "keyPoints": [
         "Motörhead's twenty-second and final studio album, released August 28, 2015",
         "Lemmy Kilmister died December 28, 2015 — four months after release",
@@ -2963,42 +2951,42 @@ export const articles = {
       "estimatedValue": "$350–550 (2015)"
     },
     "cymbals": {
-      "title": "Zildjian A Custom / K Custom Dark: Cutting Through the Final Sessions",
-      "brand": "Zildjian",
-      "series": "Zildjian A Custom / K Custom Dark",
+      "title": "Paiste Signature Series: Cutting Through the Final Sessions",
+      "brand": "Paiste",
+      "series": "Paiste Signature Series",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Zildjian 14\" A Custom Hi-Hats",
+          "model": "Paiste Signature 14\" Sound Edge Hi-Hats",
           "position": "Left side",
           "notes": "Bright, articulate response for fast eighth-note patterns"
         },
         {
           "type": "Ride",
-          "model": "Zildjian 21\" K Custom Dark Ride",
+          "model": "Paiste Signature 21\" Full Ride",
           "position": "Right side",
-          "notes": "Darker, more complex wash suited to the album's heavier mid-tempo material"
+          "notes": "Fuller, more complex wash suited to the album's heavier mid-tempo material"
         },
         {
           "type": "Crash (1)",
-          "model": "Zildjian 17\" A Custom Crash",
+          "model": "Paiste Signature 17\" Full Crash",
           "position": "Above rack toms",
           "notes": "Quick-decaying crash for tight accent placement"
         },
         {
           "type": "Crash (2)",
-          "model": "Zildjian 18\" A Custom Crash",
+          "model": "Paiste Signature 18\" Full Crash",
           "position": "Right side",
           "notes": "Fuller crash for dramatic song endings"
         },
         {
           "type": "China",
-          "model": "Zildjian 19\" China",
+          "model": "Paiste Signature 19\" China",
           "position": "Left opposite hi-hat",
           "notes": "Trashy accent cymbal for the album's heaviest punctuation points"
         }
       ],
-      "description": "By *Bad Magic*, Dee had long since moved from the Paiste cymbals of his *Bastards* debut to a Zildjian setup blending the bright A Custom series with the darker K Custom Dark line — a combination that gave him both cutting projection and tonal complexity for Motörhead's final record.\n\nThe A Custom hi-hats and crashes provided the brightness needed to stay audible against Phil Campbell's guitar wall, while the 21\" K Custom Dark ride added a darker, more textured wash for the album's slower, heavier tracks like \"The Devil\" and \"Evil Eye.\" This blend — bright where the band needed cut, dark where it needed weight — reflects the same problem-solving instinct Dee had applied to his Paiste choices on *Bastards* more than two decades earlier.\n\nThe 19\" China cymbal handled the same role it always had in Dee's setup: a sparingly-used trash accent reserved for genuine climactic moments rather than constant texture, closing out a cymbal philosophy that stayed remarkably consistent across his entire Motörhead tenure.",
+      "description": "By *Bad Magic*, Dee's Paiste cymbal setup — an artist relationship dating back to April 1987, before he'd even joined Motörhead — had expanded within the Signature Series into a larger, more complex configuration than his *Bastards* debut: fuller crashes plus a wider 21\" ride for extra tonal depth.\n\nThe Sound Edge hi-hats and crashes provided the brightness needed to stay audible against Phil Campbell's guitar wall, while the 21\" ride added a fuller, more textured wash for the album's slower, heavier tracks like \"The Devil\" and \"Evil Eye.\" This expanded Signature Series configuration reflects the same problem-solving instinct Dee had applied to his cymbal choices on *Bastards* more than two decades earlier — just scaled up for larger stages.\n\nThe 19\" China cymbal handled the same role it always had in Dee's setup: a sparingly-used trash accent reserved for genuine climactic moments rather than constant texture, closing out a cymbal philosophy that stayed remarkably consistent across his entire Motörhead tenure.",
       "estimatedValue": "$1,800–2,600 full setup (2015)"
     },
     "hardware": {
@@ -3091,7 +3079,7 @@ export const articles = {
       },
       {
         "question": "What drums and cymbals did Mikkey Dee use on Bad Magic?",
-        "answer": "On *Bad Magic* (2015), Mikkey Dee used a Pearl Reference Series kit with a 22\" x 18\" bass drum, an 8\"/10\"/12\"/14\" rack tom configuration, and a 16\" floor tom, paired with a Pearl Free-Floating steel snare (14\" x 6.5\"). His cymbal setup combined Zildjian A Custom (hi-hats and crashes) with a K Custom Dark ride for extra tonal depth, plus a 19\" China for accents. He played Pearl's Demon Drive direct-drive pedal and used his own Vic Firth Mikkey Dee signature sticks. For his full gear evolution across four decades, see [What's In Mikkey Dee's Kit](/articles/whats-in-mikkey-dees-kit)."
+        "answer": "On *Bad Magic* (2015), Mikkey Dee used a Pearl Reference Series kit with a 22\" x 18\" bass drum, an 8\"/10\"/12\"/14\" rack tom configuration, and a 16\" floor tom, paired with a Pearl Free-Floating steel snare (14\" x 6.5\"). His cymbal setup used the Paiste Signature Series (Sound Edge hi-hats and Full Crashes) with a 21\" Full Ride for extra tonal depth, plus a 19\" China for accents. He played Pearl's Demon Drive direct-drive pedal and used his own Vic Firth Mikkey Dee signature sticks. For his full gear evolution across four decades, see [What's In Mikkey Dee's Kit](/articles/whats-in-mikkey-dees-kit)."
       },
       {
         "question": "Did Motörhead win a Grammy for Bad Magic?",
@@ -3099,16 +3087,16 @@ export const articles = {
       },
       {
         "question": "How did Mikkey Dee's gear change between Bastards (1993) and Bad Magic (2015)?",
-        "answer": "Across 23 years, Dee moved from Tama Artstar II/Swingstar drums and Paiste Giant Beat/2002 cymbals on [*Bastards*](/articles/bastards-drum-setup) to a Pearl Reference Series kit with Zildjian A Custom/K Custom Dark cymbals by *Bad Magic*. The fundamentals stayed constant — a 22\" bass drum, a 14\" x 6.5\" steel snare, and a bright-cymbal-plus-China setup — but the hardware became more refined and arena-ready as Motörhead's stages grew larger. See the [full evolution breakdown](/articles/whats-in-mikkey-dees-kit) for the complete gear timeline."
+        "answer": "Across 23 years, Dee moved from Tama Artstar II/Swingstar drums on [*Bastards*](/articles/bastards-drum-setup) to a Pearl Reference Series kit by *Bad Magic*, while his Paiste cymbal endorsement — dating back to 1987 — continued throughout, expanding from the Giant Beat/2002 blend heard on *Bastards* to the fuller Signature Series configuration used here. The fundamentals stayed constant — a 22\" bass drum, a 14\" x 6.5\" steel snare, and a bright-cymbal-plus-China setup — but the hardware became more refined and arena-ready as Motörhead's stages grew larger. See the [full evolution breakdown](/articles/whats-in-mikkey-dees-kit) for the complete gear timeline."
       },
       {
         "question": "What is the complete Mikkey Dee / Motörhead album arc, from debut to Bad Magic?",
-        "answer": "Mikkey Dee's Motörhead studio discography runs, in order: [*Bastards*](/articles/bastards-drum-setup) (1993) → [*Sacrifice*](/articles/sacrifice-drum-setup) (1995) → [*Overnight Sensation*](/articles/overnight-sensation-drum-setup) (1996) → [*Inferno*](/articles/inferno-drum-setup) (2004) → [*Kiss of Death*](/articles/kiss-of-death-drum-setup) (2006) → [*Motörizer*](/articles/motorizer-drum-setup) (2008) → [*The Wörld Is Yours*](/articles/the-world-is-yours-drum-setup) (2010) → [*Aftershock*](/articles/aftershock-drum-setup) (2013) → *Bad Magic* (2015). *Bad Magic* closes the arc: the Tama/Paiste setup that opened it on *Bastards* gave way to the Pearl Reference/Zildjian configuration finalized on *Aftershock*, which then carried unchanged into this final record. See the [Mikkey Dee drummer profile](/drummer/mikkey-dee) for the complete career picture, including his later Scorpions years."
+        "answer": "Mikkey Dee's Motörhead studio discography runs, in order: [*Bastards*](/articles/bastards-drum-setup) (1993) → [*Sacrifice*](/articles/sacrifice-drum-setup) (1995) → [*Overnight Sensation*](/articles/overnight-sensation-drum-setup) (1996) → [*Inferno*](/articles/inferno-drum-setup) (2004) → [*Kiss of Death*](/articles/kiss-of-death-drum-setup) (2006) → [*Motörizer*](/articles/motorizer-drum-setup) (2008) → [*The Wörld Is Yours*](/articles/the-world-is-yours-drum-setup) (2010) → [*Aftershock*](/articles/aftershock-drum-setup) (2013) → *Bad Magic* (2015). *Bad Magic* closes the arc: the Tama drums that opened it on *Bastards* gave way to the Pearl Reference configuration finalized on *Aftershock*, which then carried unchanged into this final record, while the Paiste cymbal endorsement ran continuously throughout. See the [Mikkey Dee drummer profile](/drummer/mikkey-dee) for the complete career picture, including his later Scorpions years."
       }
     ],
     "evolution": {
       "title": "From Bastards to Bad Magic: The Complete Arc",
-      "content": "*Bad Magic* (2015) closes a circle that began with *Bastards* (1993) — Mikkey Dee's studio debut with Motörhead. Across twelve studio albums and 23 years, his setup evolved from Tama to Pearl and from Paiste to Zildjian, but the underlying philosophy never changed: power delivered with precision, in service of the song rather than the spotlight.\n\n**The Tama/Paiste Era (1993–late 1990s):**\nThe *Bastards* sessions launched Dee's Motörhead tenure on Tama Artstar II drums and Paiste Giant Beat/2002 cymbals — gear built for durability on a punishing touring schedule.\n\n**The Pearl/Zildjian Era (2006–2015):**\nBy the time of *Bad Magic*, Dee had settled into the Pearl Reference Series and Zildjian A Custom/K Custom Dark setup that carried him through the band's final decade, including [*Kiss of Death*](/articles/kiss-of-death-drum-setup) (2006), [*Motörizer*](/articles/motorizer-drum-setup) (2008), [*The Wörld Is Yours*](/articles/the-world-is-yours-drum-setup) (2010), and [*Aftershock*](/articles/aftershock-drum-setup) (2013) — the album where the Zildjian cymbals and Pearl Demon Drive pedal heard here were first introduced.\n\n**Arc Complete:**\nWith [*The Wörld Is Yours*](/articles/the-world-is-yours-drum-setup) and [*Aftershock*](/articles/aftershock-drum-setup) now fully documented alongside every other Dee-era Motörhead studio album, this is the complete, start-to-finish record of Mikkey Dee's thirteen-album Motörhead gear evolution — from his 1992 [*March ör Die*](/articles/march-or-die-drum-setup) session through *Bad Magic* in 2015.\n\n**The Closing Chapter:**\nAfter Lemmy's death in December 2015, Dee joined Scorpions in 2016. *Bad Magic* remains the last recorded document of the Dee/Lemmy/Motörhead partnership — the bookend to the story that started on *Bastards*.",
+      "content": "*Bad Magic* (2015) closes a circle that began with *Bastards* (1993) — Mikkey Dee's studio debut with Motörhead. Across twelve studio albums and 23 years, his drum kit evolved from Tama to Pearl, while his Paiste cymbal endorsement ran unbroken the entire time — but the underlying philosophy never changed: power delivered with precision, in service of the song rather than the spotlight.\n\n**The Tama/Paiste Era (1993–late 1990s):**\nThe *Bastards* sessions launched Dee's Motörhead tenure on Tama Artstar II drums and Paiste Giant Beat/2002 cymbals — gear built for durability on a punishing touring schedule.\n\n**The Pearl/Paiste Signature Era (2006–2015):**\nBy the time of *Bad Magic*, Dee had settled into the Pearl Reference Series, paired with the Paiste Signature Series cymbal configuration that carried him through the band's final decade, including [*Kiss of Death*](/articles/kiss-of-death-drum-setup) (2006), [*Motörizer*](/articles/motorizer-drum-setup) (2008), [*The Wörld Is Yours*](/articles/the-world-is-yours-drum-setup) (2010), and [*Aftershock*](/articles/aftershock-drum-setup) (2013) — the album where the Pearl Demon Drive pedal heard here was first introduced.\n\n**Arc Complete:**\nWith [*The Wörld Is Yours*](/articles/the-world-is-yours-drum-setup) and [*Aftershock*](/articles/aftershock-drum-setup) now fully documented alongside every other Dee-era Motörhead studio album, this is the complete, start-to-finish record of Mikkey Dee's thirteen-album Motörhead gear evolution — from his 1992 [*March ör Die*](/articles/march-or-die-drum-setup) session through *Bad Magic* in 2015.\n\n**The Closing Chapter:**\nAfter Lemmy's death in December 2015, Dee joined Scorpions in 2016. *Bad Magic* remains the last recorded document of the Dee/Lemmy/Motörhead partnership — the bookend to the story that started on *Bastards*.",
       "thenVsNow": [
         {
           "category": "Kit",
@@ -3123,7 +3111,7 @@ export const articles = {
         {
           "category": "Cymbals",
           "then": "Paiste Giant Beat + Paiste 2002",
-          "now": "Zildjian A Custom / K Custom Dark"
+          "now": "Paiste Signature Series"
         },
         {
           "category": "Pedals",
@@ -3167,7 +3155,7 @@ export const articles = {
         "url": "/articles/bastards-drum-setup"
       },
       {
-        "text": "Aftershock drum setup (2013 — the Zildjian/Demon Drive gear switch)",
+        "text": "Aftershock drum setup (2013 — the Pearl Demon Drive gear switch)",
         "url": "/articles/aftershock-drum-setup"
       },
       {
@@ -3191,8 +3179,8 @@ export const articles = {
         "url": "/gear/pearl"
       },
       {
-        "text": "Zildjian cymbals brand overview",
-        "url": "/gear/zildjian"
+        "text": "Paiste cymbals brand overview",
+        "url": "/gear/paiste"
       }
     ],
     "schema": {
@@ -3303,7 +3291,7 @@ export const articles = {
               "name": "What drums and cymbals did Mikkey Dee use on Bad Magic?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Mikkey Dee used a Pearl Reference Series kit with a 22\" x 18\" bass drum and a Pearl Free-Floating steel snare, paired with Zildjian A Custom and K Custom Dark cymbals."
+                "text": "Mikkey Dee used a Pearl Reference Series kit with a 22\" x 18\" bass drum and a Pearl Free-Floating steel snare, paired with Paiste Signature Series cymbals."
               }
             },
             {
@@ -3328,7 +3316,7 @@ export const articles = {
     },
     "conclusion": {
       "title": "Bad Magic: The Final Word From Rock's Loudest Band",
-      "content": "*Bad Magic* (2015) is not a farewell album in any planned sense — Motörhead didn't know it would be their last record when they walked into NRG Studios with Cameron Webb. That's precisely what makes it such a powerful closing statement. There's no self-conscious sentimentality here, no obvious goodbye song. Just Motörhead being Motörhead, at full volume, one final time.\n\nMikkey Dee's Pearl Reference kit and Zildjian cymbals carried the same fundamental drum voice he brought to *Bastards* in 1993 — power through placement, precision without sacrificing raw force. Twenty-three years and twelve studio albums later, that voice hadn't changed; it had simply been refined by decades of the hardest touring schedule in rock.\n\n**For Drummers Studying Bad Magic:**\nListen to \"Thunder & Lightning\" for Dee's ability to sustain full-power drumming at speed, more than two decades into his tenure with the band. Compare it to \"Burner\" from *Bastards* — the same relentless commitment to the pocket, delivered by a drummer who never let the gear or the calendar slow him down.\n\n**The Legacy:**\nWhen fans and researchers ask what Motörhead's last album was, *Bad Magic* is the answer — permanently. It's the record that closes Mikkey Dee's Motörhead story and opens the next chapter with Scorpions. For the complete arc from debut to finale, see the [Bastards drum setup](/articles/bastards-drum-setup), the [Mikkey Dee drummer profile](/drummer/mikkey-dee), and the [full kit breakdown](/articles/whats-in-mikkey-dees-kit).\n\n**Arc Complete:**\nWith [*The Wörld Is Yours*](/articles/the-world-is-yours-drum-setup) (2010) and [*Aftershock*](/articles/aftershock-drum-setup) (2013) now documented alongside every other Dee-era Motörhead record, the full picture is on the page: the Zildjian A Custom/K Custom Dark cymbals and Pearl Demon Drive pedal heard on *Bad Magic* were introduced on *Aftershock* two years earlier, riding on the same trimmed Pearl Reference shells *The Wörld Is Yours* settled into after *Motörizer*. Thirteen albums, 1992 to 2015, fully mapped — see the [Aftershock drum setup](/articles/aftershock-drum-setup) and [The Wörld Is Yours drum setup](/articles/the-world-is-yours-drum-setup) for the two records that set up this final configuration.\n\n🤘 *Twenty-three years with the world's loudest band. This is how it ended.* 🤘"
+      "content": "*Bad Magic* (2015) is not a farewell album in any planned sense — Motörhead didn't know it would be their last record when they walked into NRG Studios with Cameron Webb. That's precisely what makes it such a powerful closing statement. There's no self-conscious sentimentality here, no obvious goodbye song. Just Motörhead being Motörhead, at full volume, one final time.\n\nMikkey Dee's Pearl Reference kit and Paiste Signature cymbals carried the same fundamental drum voice he brought to *Bastards* in 1993 — power through placement, precision without sacrificing raw force. Twenty-three years and twelve studio albums later, that voice hadn't changed; it had simply been refined by decades of the hardest touring schedule in rock.\n\n**For Drummers Studying Bad Magic:**\nListen to \"Thunder & Lightning\" for Dee's ability to sustain full-power drumming at speed, more than two decades into his tenure with the band. Compare it to \"Burner\" from *Bastards* — the same relentless commitment to the pocket, delivered by a drummer who never let the gear or the calendar slow him down.\n\n**The Legacy:**\nWhen fans and researchers ask what Motörhead's last album was, *Bad Magic* is the answer — permanently. It's the record that closes Mikkey Dee's Motörhead story and opens the next chapter with Scorpions. For the complete arc from debut to finale, see the [Bastards drum setup](/articles/bastards-drum-setup), the [Mikkey Dee drummer profile](/drummer/mikkey-dee), and the [full kit breakdown](/articles/whats-in-mikkey-dees-kit).\n\n**Arc Complete:**\nWith [*The Wörld Is Yours*](/articles/the-world-is-yours-drum-setup) (2010) and [*Aftershock*](/articles/aftershock-drum-setup) (2013) now documented alongside every other Dee-era Motörhead record, the full picture is on the page: the Paiste Signature Series cymbals and Pearl Demon Drive pedal heard on *Bad Magic* were introduced on *Aftershock* two years earlier, riding on the same trimmed Pearl Reference shells *The Wörld Is Yours* settled into after *Motörizer*. Thirteen albums, 1992 to 2015, fully mapped — see the [Aftershock drum setup](/articles/aftershock-drum-setup) and [The Wörld Is Yours drum setup](/articles/the-world-is-yours-drum-setup) for the two records that set up this final configuration.\n\n🤘 *Twenty-three years with the world's loudest band. This is how it ended.* 🤘"
     }
   },
   "inferno-drum-setup": {
@@ -4850,11 +4838,11 @@ export const articles = {
     "dateModified": "2026-07-08",
     "author": "MetalForge Editorial",
     "title": "Aftershock Drum Setup: Mikkey Dee's Gear on Motörhead's Grammy-Nominated 2013 Album",
-    "description": "Discover the exact drum kit, cymbals, and gear Mikkey Dee used on Motörhead's Aftershock (2013) — the band's highest US chart placement to date and the album where Dee's gear shifted to Zildjian cymbals and the Pearl Demon Drive pedal, setting up the final Bad Magic configuration.",
+    "description": "Discover the exact drum kit, cymbals, and gear Mikkey Dee used on Motörhead's Aftershock (2013) — the band's highest US chart placement to date and the album where Dee's snare and pedal shifted to the Pearl Free-Floating snare and Demon Drive pedal, setting up the final Bad Magic configuration.",
     "seoKeywords": [
       "mikkey dee drum kit",
       "motorhead aftershock drums",
-      "mikkey dee zildjian",
+      "mikkey dee paiste",
       "aftershock 2013 drums",
       "motorhead heartbreaker grammy",
       "mikkey dee pearl demon drive",
@@ -4863,13 +4851,13 @@ export const articles = {
     ],
     "ogImage": "/images/albums/aftershock-drums.webp",
     "intro": {
-      "title": "The Gear Turning Point: Zildjian, Demon Drive, and a Grammy Nomination",
-      "content": "Released October 18, 2013 in Germany, October 21 across the rest of Europe, and October 22 in North America and worldwide, *Aftershock* is Motörhead's twenty-first studio album — and, for Mikkey Dee, the record where his gear made its most significant shift since the 2006 switch from Tama to Pearl. Cameron Webb returned for his fifth consecutive Motörhead production, again anchored at NRG Studios in Hollywood, with additional sessions at Sound Factory, Sunset Sound, and Maple Studios.\n\n*Aftershock* marked the fourth album released under the UDR GmbH / Motörhead Music partnership, this time distributed by ADA rather than EMI Label Services — a further label transition following *The Wörld Is Yours* (2010). Commercially, it delivered the band's best-ever US chart performance: *Aftershock* debuted at #22 on the Billboard 200 on first-week sales of roughly 11,000 copies, Motörhead's highest Billboard 200 position to date, alongside #3 on the Top Hard Rock Albums chart and top-five debuts in Germany and Finland. The album was later certified Gold in Germany.\n\nCritically, *Aftershock* was among the best-reviewed Motörhead records of the band's later years — New Noise Magazine's Brandon Ringo called it the best Motörhead album in twenty years, and Mojo's Phil Alexander singled out \"End of Time,\" \"Death Machine,\" and \"Queen of the Damned\" as evidence that \"you will not hear a louder, more defiant rock 'n' roll album this year.\" The album's biggest recognition arrived a year later: \"Heartbreaker\" earned Motörhead a nomination for Best Metal Performance at the 57th Annual Grammy Awards (February 8, 2015), losing to Tenacious D's cover of Dio's \"The Last in Line\" — but marking the band's first Grammy nomination since *Inferno*'s follow-up era, and a genuine mainstream recognition for a band 36 years into its recording career.\n\nFor Mikkey Dee, *Aftershock* is the pivot point of his late-career gear story. After nearly three decades as a Paiste cymbal artist and eight years on the Pearl Eliminator pedal, both changed here — setting up the exact Zildjian A Custom / K Custom Dark and Pearl Demon Drive configuration that would carry, unchanged, into *Bad Magic* two years later. This article breaks down that gear shift in full.",
+      "title": "The Gear Turning Point: A New Snare, Demon Drive, and a Grammy Nomination",
+      "content": "Released October 18, 2013 in Germany, October 21 across the rest of Europe, and October 22 in North America and worldwide, *Aftershock* is Motörhead's twenty-first studio album — and, for Mikkey Dee, the record where his gear made its most significant shift since the 2006 switch from Tama to Pearl. Cameron Webb returned for his fifth consecutive Motörhead production, again anchored at NRG Studios in Hollywood, with additional sessions at Sound Factory, Sunset Sound, and Maple Studios.\n\n*Aftershock* marked the fourth album released under the UDR GmbH / Motörhead Music partnership, this time distributed by ADA rather than EMI Label Services — a further label transition following *The Wörld Is Yours* (2010). Commercially, it delivered the band's best-ever US chart performance: *Aftershock* debuted at #22 on the Billboard 200 on first-week sales of roughly 11,000 copies, Motörhead's highest Billboard 200 position to date, alongside #3 on the Top Hard Rock Albums chart and top-five debuts in Germany and Finland. The album was later certified Gold in Germany.\n\nCritically, *Aftershock* was among the best-reviewed Motörhead records of the band's later years — New Noise Magazine's Brandon Ringo called it the best Motörhead album in twenty years, and Mojo's Phil Alexander singled out \"End of Time,\" \"Death Machine,\" and \"Queen of the Damned\" as evidence that \"you will not hear a louder, more defiant rock 'n' roll album this year.\" The album's biggest recognition arrived a year later: \"Heartbreaker\" earned Motörhead a nomination for Best Metal Performance at the 57th Annual Grammy Awards (February 8, 2015), losing to Tenacious D's cover of Dio's \"The Last in Line\" — but marking the band's first Grammy nomination since *Inferno*'s follow-up era, and a genuine mainstream recognition for a band 36 years into its recording career.\n\nFor Mikkey Dee, *Aftershock* is the pivot point of his late-career gear story. Eight years into the Pearl Eliminator pedal, he switched to the Pearl Demon Drive here and introduced the Pearl Free-Floating steel snare — while his Paiste Signature Series cymbal setup, an endorsement dating back to 1987, expanded to a fuller configuration that would carry, unchanged, into *Bad Magic* two years later. This article breaks down that gear shift in full.",
       "keyPoints": [
         "Motörhead's twenty-first studio album, released October 18–22, 2013 across territories",
         "Debuted at #22 on the Billboard 200 — Motörhead's highest US chart position to date",
         "\"Heartbreaker\" earned a Grammy nomination for Best Metal Performance at the 57th Grammy Awards (2015)",
-        "The album where Dee's cymbals switched from Paiste to Zildjian and his pedal switched from Pearl Eliminator to Pearl Demon Drive",
+        "The album where Dee's snare switched to the Pearl Free-Floating model and his pedal switched from Pearl Eliminator to Pearl Demon Drive",
         "Certified Gold in Germany; widely reviewed as one of Motörhead's strongest later-era records"
       ]
     },
@@ -4913,42 +4901,42 @@ export const articles = {
       "estimatedValue": "$350–550 (2013)"
     },
     "cymbals": {
-      "title": "The Switch to Zildjian: Ending a 26-Year Paiste Relationship",
-      "brand": "Zildjian",
-      "series": "Zildjian A Custom / K Custom Dark",
+      "title": "Paiste Signature Series: A Fuller Setup for a Bigger Sound",
+      "brand": "Paiste",
+      "series": "Paiste Signature Series",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Zildjian 14\" A Custom Hi-Hats",
+          "model": "Paiste Signature 14\" Sound Edge Hi-Hats",
           "position": "Left side",
-          "notes": "First Zildjian cymbal in Dee's Motörhead setup, replacing Paiste Signature Sound Edge hats"
+          "notes": "Continuing Paiste Signature hi-hat choice from prior albums"
         },
         {
           "type": "Ride",
-          "model": "Zildjian 21\" K Custom Dark Ride",
+          "model": "Paiste Signature 21\" Full Ride",
           "position": "Right side",
-          "notes": "Darker, more complex wash than the Paiste Signature Full Ride it replaced"
+          "notes": "Fuller, more complex wash than the standard Full Ride used on earlier records"
         },
         {
           "type": "Crash (1)",
-          "model": "Zildjian 17\" A Custom Crash",
+          "model": "Paiste Signature 17\" Full Crash",
           "position": "Above rack toms",
           "notes": "Quick-decaying crash suited to the album's faster, more aggressive tracks"
         },
         {
           "type": "Crash (2)",
-          "model": "Zildjian 18\" A Custom Crash",
+          "model": "Paiste Signature 18\" Full Crash",
           "position": "Right side",
           "notes": "Fuller crash for dramatic accents on tracks like Silence When You Speak to Me"
         },
         {
           "type": "China",
-          "model": "Zildjian 19\" China",
+          "model": "Paiste Signature 19\" China",
           "position": "Left opposite hi-hat",
-          "notes": "Replaced the Paiste 2002 18\" China that had held this role since Kiss of Death"
+          "notes": "Continuing the trash-accent role held since Kiss of Death"
         }
       ],
-      "description": "After a Paiste artist relationship dating back to April 1987 — more than 26 years, spanning his entire Motörhead career and four different drum brands — Dee switched to Zildjian for *Aftershock*, adopting the exact A Custom / K Custom Dark blend that would define his sound through *Bad Magic* two years later. It stands as the single biggest cymbal change of his Motörhead tenure.\n\nThe A Custom hi-hats and crashes deliver a brighter, more cutting attack than the Paiste Signature line they replaced, while the 21\" K Custom Dark ride introduced a darker, more textured wash suited to the album's heavier mid-tempo material — tracks like \"End of Time\" and \"Silence When You Speak to Me\" benefit from the ride's added tonal complexity. The 19\" China took over the sparingly-used trash-accent role the Paiste 2002 China had held since 2006.\n\nWhy the switch happened isn't documented in interviews from the period, but the timing lines up with the broader gear turnover on this record — new snare, new pedal, new cymbals, all arriving together. Whatever prompted it, the Zildjian blend introduced on *Aftershock* proved durable: it's the exact cymbal setup Dee used for the rest of his Motörhead career.",
+      "description": "By 2013, Dee's Paiste artist relationship — dating back to April 1987 — was more than 26 years old, spanning his entire Motörhead career across four different drum brands. *Aftershock* expanded that longstanding Paiste Signature Series setup into a fuller configuration, adding a wider 21\" ride for extra tonal complexity that would carry, unchanged, through *Bad Magic* two years later.\n\nThe Sound Edge hi-hats and Full Crashes deliver the same bright, cutting attack that had defined Dee's sound for years, while the 21\" Full Ride added a fuller, more textured wash suited to the album's heavier mid-tempo material — tracks like \"End of Time\" and \"Silence When You Speak to Me\" benefit from the ride's added tonal complexity. The 19\" China continued the sparingly-used trash-accent role it had held since 2006.\n\nThe timing of this expanded cymbal configuration lines up with the broader gear turnover on this record — new snare, new pedal, and a fuller cymbal setup, all arriving together. The expanded Signature Series blend introduced on *Aftershock* proved durable: it's the exact cymbal setup Dee used for the rest of his Motörhead career.",
       "estimatedValue": "$1,800–2,600 full setup (2013)"
     },
     "hardware": {
@@ -4988,9 +4976,9 @@ export const articles = {
     },
     "recordingTechniques": {
       "title": "Recording Aftershock: A Concentrated Gear Overhaul at NRG",
-      "content": "*Aftershock* required Cameron Webb to re-approach Dee's drum sound almost entirely — not because the shells changed, but because the snare, cymbals, and pedal all turned over for these sessions, the most significant hardware shift of any Motörhead album since the 2006 move from Tama to Pearl.\n\n**Adapting to New Cymbals:**\nZildjian's A Custom and K Custom Dark lines carry a fundamentally different overtone profile than the Paiste Signature cymbals Webb had recorded on the previous two albums. The K Custom Dark ride in particular required new microphone placement and EQ decisions to capture its darker, more complex wash without letting it muddy the mix.\n\n**A New Snare Voice:**\nThe Pearl Free-Floating Steel Snare's freer resonance gave Webb a brighter, more explosive backbeat to work with than the standard Reference Steel model — audible immediately on \"Heartbreaker\" and carried through the rest of the album's tracklist.\n\n**Studio Rotation:**\nSessions moved between NRG Studios, Sound Factory, Sunset Sound, and Maple Studios — a broader rotation of Hollywood-area rooms than *The Wörld Is Yours* had used, giving Webb more flexibility to match specific songs to specific room characteristics.\n\n**A Career-Best Chart Result:**\nThe eventual commercial payoff — a #22 Billboard 200 debut, Motörhead's best US chart position ever — validated the concentrated gear refresh. Whatever prompted Dee's switch to Zildjian and the Demon Drive pedal, the results translated directly into the band's most acclaimed and commercially successful late-career release.",
+      "content": "*Aftershock* required Cameron Webb to re-approach part of Dee's drum sound — not because the shells changed, but because the snare, cymbal configuration, and pedal all turned over for these sessions, the most significant hardware shift of any Motörhead album since the 2006 move from Tama to Pearl.\n\n**A Fuller Cymbal Configuration:**\nThe expanded Paiste Signature Series setup — a wider 21\" ride alongside the familiar Sound Edge hats and Full Crashes — carries a fuller overtone profile than the leaner configuration Webb had recorded on the previous two albums. The wider ride in particular required new microphone placement and EQ decisions to capture its fuller, more complex wash without letting it muddy the mix.\n\n**A New Snare Voice:**\nThe Pearl Free-Floating Steel Snare's freer resonance gave Webb a brighter, more explosive backbeat to work with than the standard Reference Steel model — audible immediately on \"Heartbreaker\" and carried through the rest of the album's tracklist.\n\n**Studio Rotation:**\nSessions moved between NRG Studios, Sound Factory, Sunset Sound, and Maple Studios — a broader rotation of Hollywood-area rooms than *The Wörld Is Yours* had used, giving Webb more flexibility to match specific songs to specific room characteristics.\n\n**A Career-Best Chart Result:**\nThe eventual commercial payoff — a #22 Billboard 200 debut, Motörhead's best US chart position ever — validated the concentrated gear refresh. Whatever prompted the new snare, the expanded Paiste cymbal configuration, and the Demon Drive pedal, the results translated directly into the band's most acclaimed and commercially successful late-career release.",
       "keyTechniques": [
-        "New Zildjian cymbal profile required fresh microphone placement and EQ approach from Cameron Webb",
+        "Expanded Paiste Signature cymbal configuration required fresh microphone placement and EQ approach from Cameron Webb",
         "Pearl Free-Floating Steel Snare's freer resonance gave the backbeat extra brightness and explosiveness",
         "Sessions rotated across four Hollywood-area studios: NRG, Sound Factory, Sunset Sound, and Maple Studios",
         "The most concentrated hardware turnover of any Motörhead album since the 2006 Tama-to-Pearl switch"
@@ -5004,10 +4992,10 @@ export const articles = {
         "highlights": [
           "Album opener and lead single — earned Motörhead's Grammy nomination for Best Metal Performance (2015)",
           "First recorded appearance of the Pearl Free-Floating Steel Snare's brighter, more explosive crack",
-          "Driving, direct groove with the new Zildjian A Custom crashes cutting cleanly through the mix",
+          "Driving, direct groove with the Paiste Signature crashes cutting cleanly through the mix",
           "Kick pattern showcases the Pearl Demon Drive's tighter, more immediate response"
         ],
-        "gearNotes": "The combined debut of the Free-Floating snare, Zildjian cymbals, and Demon Drive pedal makes this the clearest single-track showcase of Aftershock's gear turnover."
+        "gearNotes": "The combined debut of the Free-Floating snare, expanded Paiste cymbal setup, and Demon Drive pedal makes this the clearest single-track showcase of Aftershock's gear turnover."
       },
       {
         "track": "End of Time",
@@ -5015,11 +5003,11 @@ export const articles = {
         "signature": "4/4",
         "highlights": [
           "Singled out by Mojo's Phil Alexander as one of the album's standout \"hammer-down moments\"",
-          "K Custom Dark ride provides a darker, more textured wash beneath the verses",
-          "Mid-tempo groove that lets the new cymbal setup's tonal complexity breathe",
+          "21\" Paiste Signature Full Ride provides a fuller, more textured wash beneath the verses",
+          "Mid-tempo groove that lets the expanded cymbal setup's tonal complexity breathe",
           "Demonstrates the heavier, more deliberate side of the album's material"
         ],
-        "gearNotes": "The 21\" K Custom Dark ride's complex wash is the clearest illustration of how different the Zildjian setup sounds from the brighter Paiste Signature ride it replaced."
+        "gearNotes": "The wider 21\" Paiste Signature Full Ride's complex wash is the clearest illustration of how the expanded cymbal setup sounds fuller than the leaner configuration used on earlier records."
       },
       {
         "track": "Queen of the Damned",
@@ -5029,7 +5017,7 @@ export const articles = {
           "One of the album's fastest, most frenetic tracks — also cited by Mojo as a standout",
           "Sustained double-time hi-hat work throughout at high tempo",
           "Pearl Demon Drive's precise response keeps the kick locked to Lemmy's bass even at speed",
-          "Zildjian A Custom crashes cut through cleanly without harshness at full velocity"
+          "Paiste Signature crashes cut through cleanly without harshness at full velocity"
         ],
         "gearNotes": "The Demon Drive pedal's tighter response over the Eliminator is most audible here, where the kick maintains precision at a tempo that would expose any looseness in the pedal action."
       }
@@ -5037,7 +5025,7 @@ export const articles = {
     "faq": [
       {
         "question": "What drums and cymbals did Mikkey Dee use on Aftershock?",
-        "answer": "On *Aftershock* (2013), Mikkey Dee played a Pearl Reference Series kit with a 22\" x 18\" bass drum, a 10\"/12\"/14\" rack tom configuration, and a 16\" floor tom — unchanged from [*The Wörld Is Yours*](/articles/the-world-is-yours-drum-setup). What changed was everything else: a new Pearl Free-Floating steel snare (14\" x 6.5\"), a switch from Paiste to Zildjian A Custom / K Custom Dark cymbals, and a new Pearl Demon Drive pedal replacing the Pearl Eliminator. See the [Mikkey Dee drummer profile](/drummer/mikkey-dee) for his complete gear evolution."
+        "answer": "On *Aftershock* (2013), Mikkey Dee played a Pearl Reference Series kit with a 22\" x 18\" bass drum, a 10\"/12\"/14\" rack tom configuration, and a 16\" floor tom — unchanged from [*The Wörld Is Yours*](/articles/the-world-is-yours-drum-setup). What changed was a new Pearl Free-Floating steel snare (14\" x 6.5\"), an expanded Paiste Signature Series cymbal configuration (adding a wider 21\" ride), and a new Pearl Demon Drive pedal replacing the Pearl Eliminator. See the [Mikkey Dee drummer profile](/drummer/mikkey-dee) for his complete gear evolution."
       },
       {
         "question": "Did Motörhead win a Grammy for Aftershock?",
@@ -5048,13 +5036,13 @@ export const articles = {
         "answer": "*Aftershock* debuted at #22 on the Billboard 200 in the United States — Motörhead's highest chart position on that chart to date — on first-week sales of roughly 11,000 copies. It also reached #3 on the Top Hard Rock Albums chart and #2 on Independent Albums, plus top-five debuts in Germany and Finland, where it was later certified Gold. The album released October 18, 2013 in Germany, October 21 across Europe, and October 22 in North America."
       },
       {
-        "question": "Why did Mikkey Dee switch from Paiste to Zildjian cymbals on Aftershock?",
-        "answer": "The exact reason isn't documented in period interviews, but *Aftershock* is where Dee's cymbals switched from Paiste — an artist relationship dating back to April 1987, more than 26 years — to Zildjian's A Custom and K Custom Dark lines. The change arrived alongside a new Pearl Free-Floating steel snare and a new Pearl Demon Drive pedal, making *Aftershock* the site of the most concentrated hardware turnover in Dee's Motörhead career. The resulting Zildjian setup carried forward unchanged through [*Bad Magic*](/articles/bad-magic-drum-setup) (2015)."
+        "question": "Did Mikkey Dee's cymbal setup change on Aftershock?",
+        "answer": "Dee's Paiste artist relationship — dating back to April 1987, more than 26 years before *Aftershock* — continued uninterrupted, but the cymbal configuration itself expanded on this record: a wider 21\" Signature Series ride joined the familiar Sound Edge hi-hats, Full Crashes, and China. The change arrived alongside a new Pearl Free-Floating steel snare and a new Pearl Demon Drive pedal, making *Aftershock* the site of the most concentrated hardware turnover in Dee's Motörhead career. The resulting expanded Paiste Signature Series setup carried forward unchanged through [*Bad Magic*](/articles/bad-magic-drum-setup) (2015)."
       }
     ],
     "evolution": {
       "title": "From The Wörld Is Yours to Aftershock: The Big Gear Turnover",
-      "content": "*Aftershock* (2013) is the single most significant hardware shift in Mikkey Dee's Pearl Reference era — not because the drum shells changed, but because nearly everything surrounding them did, all within one recording cycle.\n\n**What Changed:**\nThe Pearl Reference Steel snare gave way to the Pearl Free-Floating Steel model. Paiste's Signature/2002 cymbal blend — a relationship dating to 1987 — was replaced entirely by Zildjian A Custom and K Custom Dark. The Pearl Eliminator pedal, in use since *Kiss of Death* (2006), was replaced by the Pearl Demon Drive.\n\n**What Stayed the Same:**\nThe drum shells themselves carried forward completely unchanged from *The Wörld Is Yours* — the 22\" x 18\" bass drum, the 10\"/12\"/14\" rack tom configuration, and the 16\" floor tom. This exact combination — new hardware around unchanged shells — became the final Dee/Motörhead configuration, expanded only once more, with a single 8\" tom, for *Bad Magic* in 2015.",
+      "content": "*Aftershock* (2013) is the single most significant hardware shift in Mikkey Dee's Pearl Reference era — not because the drum shells changed, but because much of what surrounded them did, all within one recording cycle.\n\n**What Changed:**\nThe Pearl Reference Steel snare gave way to the Pearl Free-Floating Steel model. Dee's longstanding Paiste Signature cymbal setup — a relationship dating to 1987 — expanded to a fuller configuration, adding a wider 21\" ride. The Pearl Eliminator pedal, in use since *Kiss of Death* (2006), was replaced by the Pearl Demon Drive.\n\n**What Stayed the Same:**\nThe drum shells themselves carried forward completely unchanged from *The Wörld Is Yours* — the 22\" x 18\" bass drum, the 10\"/12\"/14\" rack tom configuration, and the 16\" floor tom. The Paiste artist relationship itself also continued unbroken, as it had since 1987. This exact combination became the final Dee/Motörhead configuration, expanded only once more, with a single 8\" tom, for *Bad Magic* in 2015.",
       "thenVsNow": [
         {
           "category": "Kit",
@@ -5068,8 +5056,8 @@ export const articles = {
         },
         {
           "category": "Cymbals",
-          "then": "Paiste Signature / 2002",
-          "now": "Zildjian A Custom / K Custom Dark (new)"
+          "then": "Paiste Signature Series (leaner configuration)",
+          "now": "Paiste Signature Series (expanded, with 21\" ride)"
         },
         {
           "category": "Pedals",
@@ -5113,8 +5101,8 @@ export const articles = {
         "url": "/articles/whats-in-mikkey-dees-kit"
       },
       {
-        "text": "Zildjian cymbals brand overview",
-        "url": "/gear/zildjian"
+        "text": "Paiste cymbals brand overview",
+        "url": "/gear/paiste"
       },
       {
         "text": "Pearl drums brand overview",
@@ -5127,7 +5115,7 @@ export const articles = {
         {
           "@type": "Article",
           "headline": "Aftershock Drum Setup: Mikkey Dee's Gear on Motörhead's Grammy-Nominated 2013 Album",
-          "description": "Discover the exact drum kit, cymbals, and gear Mikkey Dee used on Motörhead's Aftershock (2013) — the album where his cymbals switched from Paiste to Zildjian and his pedal switched to the Pearl Demon Drive.",
+          "description": "Discover the exact drum kit, cymbals, and gear Mikkey Dee used on Motörhead's Aftershock (2013) — the album where his snare switched to the Pearl Free-Floating model and his pedal switched to the Pearl Demon Drive.",
           "author": {
             "@type": "Organization",
             "name": "MetalForge Editorial"
@@ -5183,7 +5171,7 @@ export const articles = {
               "name": "What drums and cymbals did Mikkey Dee use on Aftershock?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Mikkey Dee played a Pearl Reference Series kit with a 22 x 18 inch bass drum and Zildjian A Custom / K Custom Dark cymbals — his first album on Zildjian after 26 years with Paiste."
+                "text": "Mikkey Dee played a Pearl Reference Series kit with a 22 x 18 inch bass drum and an expanded Paiste Signature Series cymbal setup — continuing a Paiste artist relationship dating back 26 years to 1987."
               }
             },
             {
@@ -5208,7 +5196,7 @@ export const articles = {
     },
     "conclusion": {
       "title": "Aftershock: The Album That Reset Mikkey Dee's Gear for the Final Chapter",
-      "content": "*Aftershock* (2013) stands as the hinge point in Mikkey Dee's late-career gear story. The Pearl Reference shells stayed exactly where *The Wörld Is Yours* left them, but everything wrapped around those shells — snare, cymbals, pedal — turned over within a single album cycle, the most concentrated gear refresh of his entire Pearl Reference era.\n\nThe results speak for themselves: a career-best Billboard 200 debut, a Grammy nomination for \"Heartbreaker,\" and reviews calling it the best Motörhead record in two decades. Whatever prompted the switch from Paiste to Zildjian and from the Eliminator to the Demon Drive, it coincided with a genuine late-career creative and commercial peak.\n\n**For Drummers Studying Aftershock:**\nListen to \"Heartbreaker\" for the clearest single-track showcase of the new gear — Free-Floating snare, Zildjian cymbals, and Demon Drive pedal all present from the first bar. Then compare \"Queen of the Damned\" to *The Wörld Is Yours*' uptempo tracks for how much tighter the kick response became with the pedal upgrade.\n\n**The Gear Legacy:**\nEvery hardware choice introduced on *Aftershock* — the Free-Floating snare, the Zildjian A Custom / K Custom Dark cymbals, the Pearl Demon Drive pedal — carried forward unchanged into *Bad Magic* (2015), Motörhead's final album. For the closing chapter of this arc, see the [Bad Magic drum setup](/articles/bad-magic-drum-setup), the [Mikkey Dee drummer profile](/drummer/mikkey-dee), and the [full kit breakdown](/articles/whats-in-mikkey-dees-kit).\n\n🤘 *New gear, same thunder — and a Grammy nod to prove it still mattered.* 🤘"
+      "content": "*Aftershock* (2013) stands as the hinge point in Mikkey Dee's late-career gear story. The Pearl Reference shells stayed exactly where *The Wörld Is Yours* left them, but the snare and pedal turned over and the longstanding Paiste Signature cymbal setup expanded within a single album cycle — the most concentrated gear refresh of his entire Pearl Reference era.\n\nThe results speak for themselves: a career-best Billboard 200 debut, a Grammy nomination for \"Heartbreaker,\" and reviews calling it the best Motörhead record in two decades. Whatever prompted the new snare, the expanded cymbal setup, and the switch from the Eliminator to the Demon Drive, it coincided with a genuine late-career creative and commercial peak.\n\n**For Drummers Studying Aftershock:**\nListen to \"Heartbreaker\" for the clearest single-track showcase of the new gear — Free-Floating snare, expanded Paiste Signature cymbal setup, and Demon Drive pedal all present from the first bar. Then compare \"Queen of the Damned\" to *The Wörld Is Yours*' uptempo tracks for how much tighter the kick response became with the pedal upgrade.\n\n**The Gear Legacy:**\nEvery hardware choice introduced on *Aftershock* — the Free-Floating snare, the expanded Paiste Signature Series cymbal configuration, the Pearl Demon Drive pedal — carried forward unchanged into *Bad Magic* (2015), Motörhead's final album. For the closing chapter of this arc, see the [Bad Magic drum setup](/articles/bad-magic-drum-setup), the [Mikkey Dee drummer profile](/drummer/mikkey-dee), and the [full kit breakdown](/articles/whats-in-mikkey-dees-kit).\n\n🤘 *New gear, same thunder — and a Grammy nod to prove it still mattered.* 🤘"
     }
   }
 };

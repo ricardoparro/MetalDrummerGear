@@ -2058,7 +2058,7 @@ export const articles = {
     "isAlbumArticle": false,
     "isDrummerKit": true,
     "datePublished": "2026-03-23",
-    "dateModified": "2026-03-23",
+    "dateModified": "2026-08-21",
     "author": "MetalForge Editorial",
     "title": "What's In Nicko McBrain's Iron Maiden Arsenal",
     "description": "Complete breakdown of Nicko McBrain's drum kit setup. Discover the gear that powers Iron Maiden's legendary galloping rhythms — achieved entirely with a single bass drum pedal.",
@@ -2074,7 +2074,7 @@ export const articles = {
     "ogImage": "/images/drummers/nicko-mcbrain.webp",
     "intro": {
       "title": "The Galloping Rhythm Machine: 40+ Years Behind Iron Maiden",
-      "content": "When you think of Iron Maiden's sound, you hear it instantly: the galloping bass drum pattern that drives \"The Trooper,\" \"Run to the Hills,\" and countless other anthems. What you might not realize is that every one of those thundering rhythms comes from a single foot.\n\nNicko McBrain (born Michael Henry McBrain; June 5, 1952, in Hackney, London) has been Iron Maiden's drummer since 1982, making him one of the longest-tenured drummers in any major metal band. At over 70 years old, he still performs demanding two-plus hour shows with the energy and power that defined the New Wave of British Heavy Metal.\n\nBefore Iron Maiden, Nicko built his reputation with the Pat Travers Band and French rock band Trust, developing the powerful single-bass technique and jazz-influenced fills that would become his signature. When he replaced Clive Burr in 1982, he brought a new level of stamina and precision that elevated Iron Maiden to stadium-filling status.\n\nWhat makes Nicko truly exceptional is his single bass drum philosophy. While most metal drummers rely on double bass pedals or two bass drums to achieve fast, driving patterns, Nicko produces Iron Maiden's legendary gallop using just one foot. This requires extraordinary technique, strength, and endurance — qualities he's maintained for over four decades.\n\nHis Sonor SQ2 signature setup represents the culmination of a lifetime of refinement. Every piece of gear is chosen for durability, tone, and the ability to deliver night after night on Iron Maiden's legendary world tours. From the enormous Paiste cymbal setup to the throne height that gives him his distinctive posture, every detail serves the music.\n\nThe \"Future Past\" world tour (2023-2024) proves that at 71, Nicko McBrain remains one of metal's most powerful drummers. Songs like \"Powerslave,\" \"Rime of the Ancient Mariner,\" and \"Fear of the Dark\" still receive the same intensity they did forty years ago.",
+      "content": "When you think of Iron Maiden's sound, you hear it instantly: the galloping bass drum pattern that drives \"The Trooper,\" \"Run to the Hills,\" and countless other anthems. What you might not realize is that every one of those thundering rhythms comes from a single foot.\n\nNicko McBrain (born Michael Henry McBrain; June 5, 1952, in Hackney, London) has been Iron Maiden's drummer since 1982, making him one of the longest-tenured drummers in any major metal band. At over 70 years old, he still performs demanding two-plus hour shows with the energy and power that defined the New Wave of British Heavy Metal.\n\nBefore Iron Maiden, Nicko built his reputation with the Pat Travers Band and French rock band Trust, developing the powerful single-bass technique and jazz-influenced fills that would become his signature. When he replaced Clive Burr in 1982, he brought a new level of stamina and precision that elevated Iron Maiden to stadium-filling status.\n\nWhat makes Nicko truly exceptional is his single bass drum philosophy. While most metal drummers rely on double bass pedals or two bass drums to achieve fast, driving patterns, Nicko produces Iron Maiden's legendary gallop using just one foot. This requires extraordinary technique, strength, and endurance — qualities he's maintained for over four decades.\n\nHis British Drum Co. setup represents the culmination of a lifetime of refinement. Every piece of gear is chosen for durability, tone, and the ability to deliver night after night on Iron Maiden's legendary world tours. From the enormous Paiste cymbal setup to the throne height that gives him his distinctive posture, every detail serves the music.\n\nThe \"Future Past\" world tour (2023-2024) proves that at 71, Nicko McBrain remains one of metal's most powerful drummers. Songs like \"Powerslave,\" \"Rime of the Ancient Mariner,\" and \"Fear of the Dark\" still receive the same intensity they did forty years ago.",
       "keyPoints": [
         "Iron Maiden's drummer since 1982 — over 40 years with the band",
         "Uses a SINGLE bass drum pedal for all galloping patterns",
@@ -2084,9 +2084,9 @@ export const articles = {
       ]
     },
     "drumKit": {
-      "title": "Nicko's Arsenal: The Sonor SQ2 Signature Setup",
-      "brand": "Sonor",
-      "model": "Sonor SQ2 Nicko McBrain Signature",
+      "title": "Nicko's Arsenal: The British Drum Co. Signature Setup",
+      "brand": "British Drum Co.",
+      "model": "British Drum Co.",
       "finish": "Custom Union Jack / Various Custom Finishes",
       "config": {
         "bassdrums": [
@@ -2103,15 +2103,15 @@ export const articles = {
         ],
         "shells": "Birch shells for punch and projection"
       },
-      "description": "Nicko McBrain's Sonor SQ2 signature kit is engineered for one purpose: delivering Iron Maiden's demanding material night after night on world tours. The birch shells provide the attack and projection needed to cut through Steve Harris's bass, three guitarists, and the roar of arena crowds.\n\nThe most striking aspect of Nicko's kit is what it DOESN'T have: a double bass pedal. While nearly every metal drummer relies on two kicks or a double pedal for fast passages, Nicko achieves Iron Maiden's galloping patterns entirely with his right foot. The 22\" x 14\" single bass drum is tuned for maximum impact and consistent response, allowing Nicko to play sustained 16th-note patterns without fatigue.\n\nHis tom configuration — three rack toms and two floor toms — provides the melodic range for his jazz-influenced fills. Listen to \"Where Eagles Dare\" or \"Aces High\" and you'll hear Nicko navigating the entire kit with fluid, musical phrases that would sound at home in a fusion band.\n\nThe kit is typically finished in custom designs, often featuring the Union Jack or Iron Maiden-themed graphics. But beneath the spectacular aesthetics is a working drummer's instrument built for reliability. Every component can withstand the punishment of 100+ shows per tour.\n\nSonor's SQ2 line allows complete customization, and Nicko has refined his specifications over decades of touring. Shell depths, bearing edges, and hardware placement are all optimized for his specific playing style and ergonomic needs.",
+      "description": "Nicko McBrain's British Drum Co. kit is engineered for one purpose: delivering Iron Maiden's demanding material night after night on world tours. The birch shells provide the attack and projection needed to cut through Steve Harris's bass, three guitarists, and the roar of arena crowds.\n\nThe most striking aspect of Nicko's kit is what it DOESN'T have: a double bass pedal. While nearly every metal drummer relies on two kicks or a double pedal for fast passages, Nicko achieves Iron Maiden's galloping patterns entirely with his right foot. The 22\" x 14\" single bass drum is tuned for maximum impact and consistent response, allowing Nicko to play sustained 16th-note patterns without fatigue.\n\nHis tom configuration — three rack toms and two floor toms — provides the melodic range for his jazz-influenced fills. Listen to \"Where Eagles Dare\" or \"Aces High\" and you'll hear Nicko navigating the entire kit with fluid, musical phrases that would sound at home in a fusion band.\n\nThe kit is typically finished in custom designs, often featuring the Union Jack or Iron Maiden-themed graphics. But beneath the spectacular aesthetics is a working drummer's instrument built for reliability. Every component can withstand the punishment of 100+ shows per tour.\n\nBritish Drum Co. allows complete customization, and Nicko has refined his specifications over decades of touring. Shell depths, bearing edges, and hardware placement are all optimized for his specific playing style and ergonomic needs.",
       "notes": [
         "SINGLE bass drum — no double pedal used",
         "Birch shells for maximum attack and projection",
         "Three rack toms (10\", 12\", 13\") for melodic fills",
         "Custom finishes often feature Union Jack or Maiden themes",
-        "Sonor SQ2 allows complete specification customization"
+        "British Drum Co. allows complete specification customization"
       ],
-      "estimatedValue": "$8,000-15,000 (Sonor SQ2 signature configuration)"
+      "estimatedValue": "$8,000-15,000 (British Drum Co. signature configuration)"
     },
     "snare": {
       "title": "The Crack That Cuts Through Everything",
@@ -2265,7 +2265,7 @@ export const articles = {
         {
           "category": "Kit",
           "then": "Sonor Phonic (early Maiden)",
-          "now": "Sonor SQ2 Signature"
+          "now": "British Drum Co."
         },
         {
           "category": "Snare",
@@ -2319,7 +2319,7 @@ export const articles = {
     "faq": [
       {
         "question": "What drum kit does Nicko McBrain use?",
-        "answer": "Nicko McBrain plays a Sonor SQ2 Nicko McBrain Signature kit with birch shells. His current setup features a single 22x14 inch bass drum, rack toms in 10, 12, and 13 inches, and floor toms in 14 and 16 inches. The birch shells deliver the punchy, focused attack that suits Iron Maiden's driving rhythmic style. Sonor built this configuration to his exact touring and recording specifications."
+        "answer": "Nicko McBrain plays a British Drum Co. kit with birch shells. His current setup features a single 22x14 inch bass drum, rack toms in 10, 12, and 13 inches, and floor toms in 14 and 16 inches. The birch shells deliver the punchy, focused attack that suits Iron Maiden's driving rhythmic style. British Drum Co. built this configuration to his exact touring and recording specifications."
       },
       {
         "question": "What cymbals does Nicko McBrain use?",
@@ -2327,12 +2327,12 @@ export const articles = {
       },
       {
         "question": "How much does Nicko McBrain's drum kit cost?",
-        "answer": "A Sonor SQ2 Nicko McBrain Signature kit runs approximately $8,000 to $15,000 depending on finish and configuration options, as SQ2 kits are built to order. Add a Sonor Artist or SQ2 custom snare at $600 to $1,000, and a full Paiste Signature cymbal setup can easily add another $3,000 to $5,000. All in, replicating his complete rig would cost between $12,000 and $21,000 or more."
+        "answer": "A British Drum Co. kit built to his specifications runs approximately $8,000 to $15,000 depending on finish and configuration options, as these kits are built to order. Add a Sonor Artist or SQ2 custom snare at $600 to $1,000, and a full Paiste Signature cymbal setup can easily add another $3,000 to $5,000. All in, replicating his complete rig would cost between $12,000 and $21,000 or more."
       }
     ],
     "conclusion": {
       "title": "The Living Legend of Heavy Metal Drumming",
-      "content": "Nicko McBrain isn't just a drummer — he's a monument to what's possible with dedication, technique, and an unwillingness to follow trends. In a metal world obsessed with double bass speed and technical complexity, Nicko has proven for over forty years that a single bass drum, proper technique, and musical intelligence can achieve results that no amount of gear can replicate.\n\nHis single-bass philosophy isn't a limitation — it's a philosophy. By mastering what he has rather than adding more pedals, Nicko developed the foot speed and stamina that make Iron Maiden's gallop possible. Generations of drummers have tried to replicate \"The Trooper\" and discovered that it's not about the equipment; it's about the drummer.\n\nAt 71 years old, Nicko continues to perform with an energy that puts musicians half his age to shame. His longevity isn't an accident — it's the result of proper technique, physical maintenance, and genuine passion for what he does. He's never phoned in a performance, never coasted on past success, never stopped working to improve.\n\nHis Sonor SQ2 signature setup represents the accumulated wisdom of five decades behind the drums. Every cymbal, every drum, every piece of hardware has been chosen through years of touring and recording. This isn't a gear list — it's a lifetime of refinement.\n\n**Lessons from Nicko's Approach:**\n- **Master your fundamentals**: Nicko's single-bass technique proves that depth beats breadth\n- **Stay physically fit**: Longevity requires treating your body as an instrument\n- **Serve the music**: His jazz influences enhance Iron Maiden's sound without overwhelming it\n- **Never stop working**: At 71, he's still pushing himself to deliver the best shows possible\n- **Be yourself**: Rather than copying trends, Nicko developed his own distinctive voice\n\nWhen Iron Maiden takes the stage, the galloping rhythm that launches \"The Trooper\" comes from one man's right foot. That foot has propelled seventeen studio albums, hundreds of world tours, and millions of fans to their feet. It belongs to Nicko McBrain — the living legend of heavy metal drumming.\n\n🤘 *One foot. Forty years. The gallop that conquered the world.* 🤘"
+      "content": "Nicko McBrain isn't just a drummer — he's a monument to what's possible with dedication, technique, and an unwillingness to follow trends. In a metal world obsessed with double bass speed and technical complexity, Nicko has proven for over forty years that a single bass drum, proper technique, and musical intelligence can achieve results that no amount of gear can replicate.\n\nHis single-bass philosophy isn't a limitation — it's a philosophy. By mastering what he has rather than adding more pedals, Nicko developed the foot speed and stamina that make Iron Maiden's gallop possible. Generations of drummers have tried to replicate \"The Trooper\" and discovered that it's not about the equipment; it's about the drummer.\n\nAt 71 years old, Nicko continues to perform with an energy that puts musicians half his age to shame. His longevity isn't an accident — it's the result of proper technique, physical maintenance, and genuine passion for what he does. He's never phoned in a performance, never coasted on past success, never stopped working to improve.\n\nHis British Drum Co. setup represents the accumulated wisdom of five decades behind the drums. Every cymbal, every drum, every piece of hardware has been chosen through years of touring and recording. This isn't a gear list — it's a lifetime of refinement.\n\n**Lessons from Nicko's Approach:**\n- **Master your fundamentals**: Nicko's single-bass technique proves that depth beats breadth\n- **Stay physically fit**: Longevity requires treating your body as an instrument\n- **Serve the music**: His jazz influences enhance Iron Maiden's sound without overwhelming it\n- **Never stop working**: At 71, he's still pushing himself to deliver the best shows possible\n- **Be yourself**: Rather than copying trends, Nicko developed his own distinctive voice\n\nWhen Iron Maiden takes the stage, the galloping rhythm that launches \"The Trooper\" comes from one man's right foot. That foot has propelled seventeen studio albums, hundreds of world tours, and millions of fans to their feet. It belongs to Nicko McBrain — the living legend of heavy metal drumming.\n\n🤘 *One foot. Forty years. The gallop that conquered the world.* 🤘"
     }
   },
   "brave-new-world-drum-setup": {

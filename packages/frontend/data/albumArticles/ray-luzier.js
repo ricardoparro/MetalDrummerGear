@@ -140,9 +140,9 @@ export const articles = {
         },
         {
           "type": "Sticks",
-          "brand": "Promark",
-          "model": "Promark Hickory 5B",
-          "notes": "Pre-signature model era — robust 5B sticks for Korn's demanding live and studio contexts"
+          "brand": "Vic Firth",
+          "model": "Vic Firth 5A American Classic",
+          "notes": "Pre-signature model era — standard 5A hickory sticks for Korn's demanding live and studio contexts"
         },
         {
           "type": "Throne",
@@ -401,8 +401,8 @@ export const articles = {
         },
         {
           "type": "Sticks",
-          "brand": "Promark",
-          "model": "Promark Hickory 5B",
+          "brand": "Vic Firth",
+          "model": "Vic Firth 5A American Classic",
           "notes": "Professional-grade sticks for controlled, consistent dynamics in hybrid sessions"
         },
         {
@@ -1607,19 +1607,19 @@ export const articles = {
       "ray luzier demon drive",
       "nu metal drummer setup",
       "korn live drums",
-      "ray luzier promark sticks"
+      "ray luzier vic firth sticks"
     ],
     "ogImage": "/images/drummers/ray-luzier.webp",
     "intro": {
       "title": "The Groove Machine: Ray Luzier Behind Korn",
-      "content": "When Korn needed a new drummer in 2007, they didn't just find a replacement for David Silveria — they found an upgrade. Ray Luzier (born Raymond Luzier on February 11, 1970, in Pittsburgh, Pennsylvania) brought a level of technical polish and session-player versatility that pushed Korn's rhythmic foundation to new heights without losing the raw, pounding groove that defines the band's identity.\n\nLuzier's path to Korn was forged in the demanding world of professional session and touring drumming. Before joining Korn, he spent years as the drummer for David Lee Roth's solo band, played with rock supergroup Army of Anyone (alongside members of Filter and Stone Temple Pilots), and built a reputation as one of Los Angeles's most sought-after session players. This background — playing under extreme professional pressure, adapting quickly, delivering consistently — prepared him perfectly for one of nu-metal's most demanding roles.\n\nHis first full studio album with Korn, *Korn III: Remember Who You Are* (2010), immediately demonstrated the chemistry. Luzier's lock with bassist Fieldy is the rhythmic backbone of Korn's modern era: the interplay between his kick drum and Fieldy's low-end thump creates the hypnotic, dark groove that Korn built their identity on, now delivered with added technical sophistication.\n\nLive, Luzier is a force of nature. He plays with the controlled power of a session pro who knows every part cold, but brings the intensity of a performer who treats every show as if it's the only one. The Korn live experience — one of rock's most visceral — relies on his ability to anchor the band's aggression with metronomic groove.\n\nThis article breaks down every major component of Ray Luzier's drum setup: his Pearl Masters Maple Complete kit, Pearl Reference brass snare, Sabian AAX cymbal selection, Pearl Demon Drive pedals, and Promark signature sticks.",
+      "content": "When Korn needed a new drummer in 2007, they didn't just find a replacement for David Silveria — they found an upgrade. Ray Luzier (born Raymond Luzier on February 11, 1970, in Pittsburgh, Pennsylvania) brought a level of technical polish and session-player versatility that pushed Korn's rhythmic foundation to new heights without losing the raw, pounding groove that defines the band's identity.\n\nLuzier's path to Korn was forged in the demanding world of professional session and touring drumming. Before joining Korn, he spent years as the drummer for David Lee Roth's solo band, played with rock supergroup Army of Anyone (alongside members of Filter and Stone Temple Pilots), and built a reputation as one of Los Angeles's most sought-after session players. This background — playing under extreme professional pressure, adapting quickly, delivering consistently — prepared him perfectly for one of nu-metal's most demanding roles.\n\nHis first full studio album with Korn, *Korn III: Remember Who You Are* (2010), immediately demonstrated the chemistry. Luzier's lock with bassist Fieldy is the rhythmic backbone of Korn's modern era: the interplay between his kick drum and Fieldy's low-end thump creates the hypnotic, dark groove that Korn built their identity on, now delivered with added technical sophistication.\n\nLive, Luzier is a force of nature. He plays with the controlled power of a session pro who knows every part cold, but brings the intensity of a performer who treats every show as if it's the only one. The Korn live experience — one of rock's most visceral — relies on his ability to anchor the band's aggression with metronomic groove.\n\nThis article breaks down every major component of Ray Luzier's drum setup: his Pearl Masters Maple Complete kit, Pearl Reference brass snare, Sabian AAX cymbal selection, Pearl Demon Drive pedals, and Vic Firth signature sticks.",
       "keyPoints": [
         "Korn's drummer since 2007 — first appeared on Korn III: Remember Who You Are (2010)",
         "Former David Lee Roth touring drummer and Army of Anyone member",
         "Pearl Drums endorsee — Pearl Masters Maple Complete kit",
         "Sabian AAX cymbal series for cutting, fast-responding projection",
         "Pearl Demon Drive double bass pedal — built for Korn's punishing live schedule",
-        "Promark Ray Luzier Signature TX420X sticks"
+        "Vic Firth Ray Luzier Signature sticks"
       ]
     },
     "drumKit": {
@@ -1810,8 +1810,8 @@ export const articles = {
         },
         {
           "category": "Sticks",
-          "then": "Various Promark models",
-          "now": "Promark TX420X Signature"
+          "then": "Various Vic Firth models",
+          "now": "Vic Firth Ray Luzier Signature"
         }
       ]
     },
@@ -1831,7 +1831,7 @@ export const articles = {
     ],
     "buyingGuide": {
       "title": "Getting the Luzier Sound: A Buyer's Guide",
-      "content": "Ray Luzier's rig centers on Pearl and Sabian — two brands that offer access points across every price range.\n\n**Budget Approach ($800–1,500):**\n- Pearl Export EXX or Roadshow kit — Pearl's entry-level shells with similar shell construction philosophy\n- Sabian B8X 14\" Hi-Hats + 16\" and 18\" Crashes — Sabian's affordable entry with similar bright voicing\n- Pearl P-2000C Eliminator chain-drive double pedal (starter Pearl double pedal)\n- Promark Hickory 5B American Classic sticks (similar feel to the TX420X)\n\n**Mid-Range Approach ($2,000–4,000):**\n- Pearl Session Studio Select maple kit — professional-level all-maple shells at mid-range price\n- Sabian AAX 14\" Stage Hi-Hats + 18\" and 19\" X-Plosion Crashes\n- Pearl Demon Drive double pedal (the key upgrade — direct drive changes feel significantly)\n- Pearl Reference snare (14\" x 5\" or 6.5\" brass for the Luzier crack)\n\n**Professional Approach ($5,000+):**\n- Pearl Masters Maple Complete shell pack (the actual Luzier kit)\n- Full Sabian AAX setup: Stage Hi-Hats, X-Plosion Crashes, Stage Ride, AAXtreme China\n- Pearl Demon Drive double pedal with full setup adjustment\n- Pearl Reference 14\" x 6.5\" Brass snare\n- Promark Ray Luzier Signature TX420X sticks",
+      "content": "Ray Luzier's rig centers on Pearl and Sabian — two brands that offer access points across every price range.\n\n**Budget Approach ($800–1,500):**\n- Pearl Export EXX or Roadshow kit — Pearl's entry-level shells with similar shell construction philosophy\n- Sabian B8X 14\" Hi-Hats + 16\" and 18\" Crashes — Sabian's affordable entry with similar bright voicing\n- Pearl P-2000C Eliminator chain-drive double pedal (starter Pearl double pedal)\n- Vic Firth 5A American Classic sticks (similar feel to the Ray Luzier Signature)\n\n**Mid-Range Approach ($2,000–4,000):**\n- Pearl Session Studio Select maple kit — professional-level all-maple shells at mid-range price\n- Sabian AAX 14\" Stage Hi-Hats + 18\" and 19\" X-Plosion Crashes\n- Pearl Demon Drive double pedal (the key upgrade — direct drive changes feel significantly)\n- Pearl Reference snare (14\" x 5\" or 6.5\" brass for the Luzier crack)\n\n**Professional Approach ($5,000+):**\n- Pearl Masters Maple Complete shell pack (the actual Luzier kit)\n- Full Sabian AAX setup: Stage Hi-Hats, X-Plosion Crashes, Stage Ride, AAXtreme China\n- Pearl Demon Drive double pedal with full setup adjustment\n- Pearl Reference 14\" x 6.5\" Brass snare\n- Vic Firth Ray Luzier Signature sticks",
       "budgetTiers": [
         {
           "tier": "Budget",
@@ -1865,7 +1865,7 @@ export const articles = {
       },
       {
         "question": "What drumsticks does Ray Luzier use?",
-        "answer": "Ray Luzier plays Promark Ray Luzier Signature TX420X drumsticks. The TX420X is a custom Promark model developed with Luzier for Korn's demanding live and studio contexts. It features a nylon tip for consistent, bright cymbal articulation and a taper balanced for power and control — enough mass to project through Korn's mix, with enough precision for nuanced groove work."
+        "answer": "Ray Luzier plays Vic Firth Ray Luzier Signature drumsticks. It's a custom Vic Firth model developed with Luzier for Korn's demanding live and studio contexts. It features a nylon tip for consistent, bright cymbal articulation and a taper balanced for power and control — enough mass to project through Korn's mix, with enough precision for nuanced groove work."
       },
       {
         "question": "When did Ray Luzier join Korn?",
@@ -1874,7 +1874,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "The Modern Korn Rhythm Section",
-      "content": "Ray Luzier has now spent more time as Korn's drummer than David Silveria did. That fact alone tells you something about the fit: this isn't a temporary placeholder keeping a seat warm — Luzier IS Korn's drummer, as fully integrated into the band's identity as any founding member.\n\nHis Pearl Masters Maple Complete kit, Sabian AAX cymbals, and Pearl Demon Drive pedals represent gear choices built for one specific purpose: delivering Korn's music, night after night, in arenas around the world, with the groove and power that the band's audience demands.\n\nEvery piece of the Luzier rig reflects that priority:\n\n- **Pearl Masters Maple Complete**: All-maple production shells built for touring consistency and tonal focus\n- **Sabian AAX**: Bright, fast, aggressive — cymbals that cut through Korn's wall of sound and recover quickly for the next stroke\n- **Pearl Demon Drive**: Direct-drive response for groove-feel double-kick — consistency over speed\n- **Pearl Reference Brass Snare**: The crack that defines Korn's modern backbeat\n- **Promark TX420X**: A signature stick balancing power and precision for 120+ show world tours\n\nWhat makes Luzier exceptional isn't technical virtuosity, though he has it. It's his understanding of what Korn needs rhythmically — and his ability to deliver it with the reliability and professionalism that fifteen years in the band's most demanding role requires.\n\nFor deeper exploration:\n- **Full drummer profile**: [Ray Luzier at MetalForge](/drummer/ray-luzier)\n- **Joey Jordison profile**: [Joey Jordison — nu-metal's technical architect](/drummer/joey-jordison) — the drummer who defined Slipknot's extreme nu-metal approach\n- **Korn band profile**: [Korn at MetalForge](/bands/korn) — full lineup, drummer history, and discography\n\n🥁 *Pocket. Power. Every night.* 🤘"
+      "content": "Ray Luzier has now spent more time as Korn's drummer than David Silveria did. That fact alone tells you something about the fit: this isn't a temporary placeholder keeping a seat warm — Luzier IS Korn's drummer, as fully integrated into the band's identity as any founding member.\n\nHis Pearl Masters Maple Complete kit, Sabian AAX cymbals, and Pearl Demon Drive pedals represent gear choices built for one specific purpose: delivering Korn's music, night after night, in arenas around the world, with the groove and power that the band's audience demands.\n\nEvery piece of the Luzier rig reflects that priority:\n\n- **Pearl Masters Maple Complete**: All-maple production shells built for touring consistency and tonal focus\n- **Sabian AAX**: Bright, fast, aggressive — cymbals that cut through Korn's wall of sound and recover quickly for the next stroke\n- **Pearl Demon Drive**: Direct-drive response for groove-feel double-kick — consistency over speed\n- **Pearl Reference Brass Snare**: The crack that defines Korn's modern backbeat\n- **Vic Firth Ray Luzier Signature**: A signature stick balancing power and precision for 120+ show world tours\n\nWhat makes Luzier exceptional isn't technical virtuosity, though he has it. It's his understanding of what Korn needs rhythmically — and his ability to deliver it with the reliability and professionalism that fifteen years in the band's most demanding role requires.\n\nFor deeper exploration:\n- **Full drummer profile**: [Ray Luzier at MetalForge](/drummer/ray-luzier)\n- **Joey Jordison profile**: [Joey Jordison — nu-metal's technical architect](/drummer/joey-jordison) — the drummer who defined Slipknot's extreme nu-metal approach\n- **Korn band profile**: [Korn at MetalForge](/bands/korn) — full lineup, drummer history, and discography\n\n🥁 *Pocket. Power. Every night.* 🤘"
     }
   }
 };

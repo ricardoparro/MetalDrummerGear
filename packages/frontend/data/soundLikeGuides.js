@@ -3082,7 +3082,7 @@ This guide breaks down Kollias's technique, the endurance training behind his st
     genre: 'Djent / Progressive Metal',
     priority: 13,
     title: "How to Sound Like Travis Orbin: Complete Gear & Technique Guide",
-    description: "Master Travis Orbin's founding djent technique. Learn his polyrhythmic approach, progressive patterns, and the methods behind Periphery's genre-defining sound.",
+    description: "Master Travis Orbin's polyrhythmic drumming technique. Learn his approach to progressive patterns, guitar-locked kick work, and the methods behind his widely studied playthrough style.",
     seoKeywords: ['travis orbin drumming', 'how to sound like travis orbin', 'periphery drums', 'travis orbin technique', 'djent drumming technique', 'travis orbin drum setup'],
     ogImage: '/images/guides/travis-orbin-guide.webp',
     datePublished: '2026-06-20',
@@ -3091,17 +3091,17 @@ This guide breaks down Kollias's technique, the endurance training behind his st
     wordCount: 1900,
     readingTime: '9 min',
     intro: {
-      title: "The Architect of Djent's First Language",
-      content: `Travis Orbin didn't just play drums for Periphery — he helped invent the rhythmic language that defined an entire subgenre. As Periphery's founding drummer from 2005 to 2012, Orbin performed on the self-titled debut and early EPs that established djent as a distinct style. His ability to navigate Misha Mansoor's complex extended-range guitar compositions while maintaining groove is the template that an entire generation of djent drummers has studied.
+      title: "A Technically Influential Voice Beyond the Studio Discography",
+      content: `Travis Orbin played drums in Periphery from around 2006 to February 2009 — the band's early, pre-recording years. He left before Periphery wrote or recorded its self-titled debut, released in 2010 with new drummer Matt Halpern, and he does not perform on that record or any subsequent Periphery release.
 
-What makes Orbin exceptional is that he makes complexity serve the music. His patterns in songs like "Icarus Lives!" and "Zyglrox" aren't technically demanding for its own sake — they're the exact right pattern for an unusually complex musical idea. He's gone on to establish a substantial solo career, with YouTube playthroughs showcasing technical mastery that has made him one of the most-studied drummers in progressive metal.
+What makes Orbin a reference point for technical drummers anyway is a career built almost entirely outside a studio discography: extraordinarily detailed polyrhythmic playing, ghost-note density, and independent two-footed bass drum work, documented extensively in his own solo and cover videos. He's built a substantial solo career on the strength of that playthrough catalog, which has made him one of the most-studied drummers in progressive metal despite never appearing on a Periphery album.
 
-Orbin left Periphery in 2012, replaced by Matt Halpern, but his recorded work remains the foundational Periphery sound. This guide covers the technique, gear, and practice methods behind his landmark contributions.`,
+Orbin left Periphery in February 2009, replaced by Matt Halpern, who has recorded every Periphery album since. This guide covers the technique, gear, and practice methods behind Orbin's own playing.`,
       keyPoints: [
-        "Founded Periphery's rhythmic identity on the debut album and early EPs",
-        "One of the original djent drummers whose style defined the genre",
+        "Played drums in Periphery from 2006 to 2009, before the band's recorded discography began",
+        "Does not perform on any Periphery album — left before the 2010 self-titled debut was written or recorded",
         "Active as a solo artist with extensive YouTube playthrough documentation",
-        "His departure from Periphery was amicable; his influence on the genre remains foundational"
+        "Built a reputation among technical drummers through session work and playthrough content rather than a Periphery studio credit"
       ]
     },
     technique: {
@@ -3119,7 +3119,7 @@ Orbin left Periphery in 2012, replaced by Matt Halpern, but his recorded work re
       signaturePatterns: [
         {
           name: "The Djent Foundation Groove",
-          description: "Orbin's core djent groove anchors 8th notes on the hi-hat while the kick executes the guitar's rhythmic pattern and the snare accents on 2 and 4 (or on displaced backbeats in odd meters). The guitar riff IS the kick pattern.",
+          description: "Orbin's approach to djent-style grooves anchors 8th notes on the hi-hat while the kick executes a guitar riff's rhythmic pattern and the snare accents on 2 and 4 (or on displaced backbeats in odd meters). The guitar riff IS the kick pattern.",
           tempo: "120-160 BPM",
           difficulty: "Intermediate",
           practiceHint: "Learn the guitar riff before touching the kick pattern. The kick must mirror the guitar's syncopated attack — play the riff on your feet."
@@ -3133,18 +3133,11 @@ Orbin left Periphery in 2012, replaced by Matt Halpern, but his recorded work re
         },
         {
           name: "Progressive Metric Modulation",
-          description: "Periphery's music modulates between time signatures — Orbin navigates these transitions by finding common subdivisions between the departing and arriving meter. The listener never loses the pulse.",
+          description: "Progressive metal and djent frequently modulate between time signatures — Orbin navigates these transitions by finding common subdivisions between the departing and arriving meter, a method documented in his own playthrough breakdowns.",
           tempo: "Variable",
           difficulty: "Expert",
           practiceHint: "Practice time signatures in pairs: 4/4 to 7/8, 5/4 to 6/8. Find the common subdivision that bridges them and use it as the modulation point."
         }
-      ],
-      keySongs: [
-        { song: "Icarus Lives!", album: "Periphery (self-titled)", year: 2010, why: "Foundational djent drumming — the template the genre was built on" },
-        { song: "Zyglrox", album: "Periphery (self-titled)", year: 2010, why: "Extreme metric complexity executed with groove and musicality" },
-        { song: "Jetpacks Was Yes!", album: "Periphery (self-titled)", year: 2010, why: "Demonstrates Orbin's dynamic range from delicate to devastating" },
-        { song: "Buttersnips", album: "Periphery (self-titled)", year: 2010, why: "Odd meter djent at its most challenging and most musical" },
-        { song: "The Walk", album: "Periphery (self-titled)", year: 2010, why: "Accessible entry point into Orbin's progressive vocabulary" }
       ]
     },
     gear: {
@@ -3301,11 +3294,11 @@ Orbin left Periphery in 2012, replaced by Matt Halpern, but his recorded work re
     faq: [
       {
         question: "Why did Travis Orbin leave Periphery?",
-        answer: "Travis Orbin left Periphery in 2012 to pursue his solo career and other musical projects. The departure was amicable. He was replaced by Matt Halpern, who has been with the band since."
+        answer: "Travis Orbin left Periphery in February 2009, before the band wrote or recorded its self-titled debut album. He was replaced by Matt Halpern, who has recorded every Periphery album since."
       },
       {
         question: "What makes Travis Orbin's djent drumming unique?",
-        answer: "Orbin's approach combines the polyrhythmic complexity of djent with a deeply musical sensibility. He translates guitar riffs directly to kick patterns, creating a tight rhythmic lock between instruments that is central to djent's sound."
+        answer: "Orbin's approach combines polyrhythmic complexity with a deeply musical sensibility, translating guitar-style riffs directly into kick patterns to create a tight rhythmic lock — a technique documented extensively in his own playthrough and cover videos."
       },
       {
         question: "How does Travis Orbin practice polyrhythms?",
@@ -3313,11 +3306,11 @@ Orbin left Periphery in 2012, replaced by Matt Halpern, but his recorded work re
       },
       {
         question: "What time signatures does Travis Orbin use?",
-        answer: "Periphery's music employs a wide range of time signatures — 4/4, 7/8, 5/4, 6/8, and various combinations. Orbin's approach is to find the groove feel of each meter rather than counting beats, which keeps the music flowing despite frequent transitions."
+        answer: "Orbin's playing covers a wide range of time signatures — 4/4, 7/8, 5/4, 6/8, and various combinations. His approach is to find the groove feel of each meter rather than counting beats, which keeps the music flowing despite frequent transitions."
       },
       {
         question: "Can beginners learn Orbin's style?",
-        answer: "Some fundamentals are accessible to intermediate players — his basic djent groove structure is learnable with patience. The advanced polyrhythmic content requires substantial four-way independence, typically built over years of practice. Start with Periphery's simpler tracks before attempting songs like Zyglrox."
+        answer: "Some fundamentals are accessible to intermediate players — his basic djent-style groove structure is learnable with patience. The advanced polyrhythmic content requires substantial four-way independence, typically built over years of practice."
       }
     ],
     related: {

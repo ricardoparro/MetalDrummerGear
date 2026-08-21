@@ -6049,18 +6049,18 @@ export const DRUMMER_EVOLUTION = {
     slug: 'matt-halpern',
     name: 'Matt Halpern',
     band: 'Periphery',
-    totalYearsActive: '2005-Present',
+    totalYearsActive: '2009-Present',
     profileImage: '/images/drummers/matt-halpern.webp',
-    summary: 'Co-founder and drummer of Periphery, Matt Halpern helped pioneer the djent movement and modern progressive metal drumming. Throughout his career, Halpern has been a Pearl Drums endorser, anchoring his sound around a Pearl Reference Series kit paired with Promark signature sticks and Evans heads.',
+    summary: 'Drummer of Periphery since 2009, Matt Halpern helped pioneer the djent movement and modern progressive metal drumming, recording every Periphery album from the band\'s self-titled 2010 debut onward. Throughout his career, Halpern has been a Pearl Drums endorser, anchoring his sound around a Pearl Reference Series kit paired with Promark signature sticks and Evans heads.',
 
     eras: [
       {
-        id: 'matt-halpern-2005-debut',
-        era: 'DIY / Self-Titled Debut Era',
-        years: '2005–2011',
-        startYear: 2005,
+        id: 'matt-halpern-2009-debut',
+        era: 'Joining Periphery / Self-Titled Debut Era',
+        years: '2009–2011',
+        startYear: 2009,
         endYear: 2011,
-        description: 'The formative Periphery years. Matt and Misha Mansoor built the band independently, uploading demos online before signing to Sumerian Records. Halpern\'s early setup was assembled on a limited budget, focused on functionality rather than prestige — but the playing itself set a new standard for precision in progressive metal.',
+        description: 'Halpern joined Periphery in 2009, replacing previous drummer Travis Orbin, shortly before the band recorded and released its self-titled debut through Sumerian Records. Halpern\'s early setup was assembled on a limited budget, focused on functionality rather than prestige — but the playing itself set a new standard for precision in progressive metal.',
         albums: ['Periphery (2010)'],
         tours: ['Early club touring / Warped Tour appearances'],
         image: null,
@@ -6111,10 +6111,10 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
-          'Co-founded Periphery with Misha Mansoor',
-          'Built band through online demos and grassroots touring',
+          'Joined Periphery in 2009, replacing drummer Travis Orbin',
+          'Recorded and released the band\'s self-titled debut on Sumerian Records (2010)',
           'Istanbul Agop cymbals established as core tone element',
-          'Signed to Sumerian Records; self-titled debut released 2010',
+          'First professional gear investment following years of grassroots touring on a limited budget',
         ],
 
         quote: {
@@ -18979,20 +18979,20 @@ export const DRUMMER_EVOLUTION = {
     slug: 'travis-orbin',
     name: 'Travis Orbin',
     band: 'Periphery',
-    totalYearsActive: '2009-Present',
+    totalYearsActive: '2006-Present',
     profileImage: '/images/drummers/travis-orbin.webp',
-    summary: 'Travis Orbin helped invent djent\'s rhythmic language as Periphery\'s founding drummer, playing on the band\'s genre-defining self-titled debut (2010) before an amicable 2012 departure. His SJC Custom / Zildjian K Custom setup, established during the Periphery years, carried through stints with Sky Harbor and Darkest Hour into a solo career built on viral YouTube playthroughs and educational content that has made him one of the most-studied drummers in progressive metal.',
+    summary: 'Travis Orbin played drums in Periphery from roughly 2006 to February 2009, before the band wrote or recorded its self-titled debut — he departed prior to any Periphery release and was replaced by Matt Halpern, who has recorded every Periphery album since. Orbin\'s SJC Custom / Zildjian K Custom setup, established during those pre-recording Periphery years, carried through stints with Sky Harbor and Darkest Hour into a solo career built on viral YouTube playthroughs and educational content that has made him one of the most-studied drummers in progressive metal.',
 
     eras: [
       {
-        id: 'travis-orbin-2009-periphery-debut',
-        era: 'Periphery Founding & Self-Titled Debut',
-        years: '2009–2011',
-        startYear: 2009,
-        endYear: 2011,
-        description: 'Orbin joined Periphery in 2009 during the recording of the band\'s self-titled debut, performing the drum parts that would define an entire subgenre. His work on "Icarus Lives!," "Zyglrox," and "Jetpacks Was Yes!" established the template for djent drumming: kick patterns that mirror Misha Mansoor\'s extended-range guitar riffs exactly, displaced backbeats, and metric modulations navigated through shared subdivisions rather than brute-force counting. "Periphery" (2010) launched the djent movement, and the "Icarus" EP (2011) followed before his departure.',
-        albums: ['Periphery: Periphery (2010)', 'Periphery: Icarus EP (2011)'],
-        tours: ['Periphery Tours 2009–2012 (US and European)'],
+        id: 'travis-orbin-2006-periphery-years',
+        era: 'Periphery (Pre-Recording Lineup)',
+        years: '2006–2009',
+        startYear: 2006,
+        endYear: 2009,
+        description: 'Orbin played drums in Periphery from around August/September 2006 to February 2009, during the band\'s early, pre-recording years while Misha Mansoor\'s project was still finding its lineup. He left before Periphery wrote or recorded its self-titled debut, which was tracked with new drummer Matt Halpern and released in March 2010 — no Periphery album or EP features Orbin\'s drumming.',
+        albums: [],
+        tours: ['Periphery live dates, 2006–2009 (pre-recording lineup)'],
         image: null,
 
         gear: {
@@ -19041,22 +19041,22 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
-          'Joined Periphery in 2009 during recording of the self-titled debut',
-          'Periphery (2010) helped launch the djent movement',
-          'Established the SJC Custom / Zildjian K Custom rig documented across his career',
-          'Icarus EP (2011) followed before his 2012 departure',
+          'Played drums in Periphery from 2006 to February 2009, prior to any studio recording',
+          'Left before the band wrote or recorded its 2010 self-titled debut',
+          'Established the SJC Custom / Zildjian K Custom rig carried through his later career',
+          'Replaced by Matt Halpern in 2009, who recorded the debut and every Periphery album since',
         ],
 
         videos: [],
       },
 
       {
-        id: 'travis-orbin-2012-departure-sky-harbor',
-        era: 'Departure & Sky Harbor',
-        years: '2012–2015',
-        startYear: 2012,
+        id: 'travis-orbin-2009-departure-sky-harbor',
+        era: 'Post-Periphery & Sky Harbor',
+        years: '2009–2015',
+        startYear: 2009,
         endYear: 2015,
-        description: 'Orbin left Periphery in 2012 on good terms — Matt Halpern, his replacement, has publicly acknowledged Orbin\'s influence — and joined the international progressive metal band Sky Harbor, releasing "Guiding Lights" (2014). He also joined Darkest Hour as a touring drummer in 2013, splitting his time between the two acts through 2015 while his SJC/Zildjian rig carried over unchanged from the Periphery years. The move let Orbin step outside the specific rhythmic vocabulary he\'d built for Periphery and apply his polyrhythmic, groove-first approach to Sky Harbor\'s more melodic, internationally-flavored progressive metal songwriting, while his touring stint with Darkest Hour exposed him to a harder-edged metalcore audience.',
+        description: 'Orbin left Periphery in February 2009 and was replaced by Matt Halpern, who went on to record the band\'s self-titled debut (2010) and every Periphery release since. Orbin joined the international progressive metal band Sky Harbor, releasing "Guiding Lights" (2014), and also joined Darkest Hour as a touring drummer in 2013, splitting his time between the two acts through 2015 while his SJC/Zildjian rig carried over unchanged from the Periphery years. The move let Orbin apply his polyrhythmic, groove-first approach to Sky Harbor\'s more melodic, internationally-flavored progressive metal songwriting, while his touring stint with Darkest Hour exposed him to a harder-edged metalcore audience.',
         albums: ['Sky Harbor: Guiding Lights (2014)'],
         tours: ['Sky Harbor touring dates (2012–2015)', 'Darkest Hour touring dates (2013–2015)'],
         image: null,
@@ -19107,7 +19107,7 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
-          'Left Periphery amicably in 2012; replaced by Matt Halpern',
+          'Left Periphery in February 2009; replaced by Matt Halpern',
           'Joined international progressive metal band Sky Harbor',
           'Released Guiding Lights (2014) with Sky Harbor',
           'Joined Darkest Hour as touring drummer in 2013, splitting time between both acts',
@@ -19176,7 +19176,7 @@ export const DRUMMER_EVOLUTION = {
           'Built a substantial solo career on YouTube drum playthroughs and interpretations',
           'Playthrough videos have garnered millions of views',
           'Active in clinics and masterclasses as an educator',
-          'Rig has remained unchanged since the Periphery founding era',
+          'Rig has remained unchanged since his early Periphery years',
         ],
 
         videos: [],
@@ -19186,28 +19186,28 @@ export const DRUMMER_EVOLUTION = {
     faqs: [
       {
         q: 'What drum kit does Travis Orbin play?',
-        a: 'Travis Orbin plays an SJC Custom kit with an SJC Custom Maple 14"x6.5" snare, Zildjian K Custom Dark cymbals, and a DW 9000 Series double pedal — a rig established during his 2009–2012 tenure in Periphery and carried unchanged through his post-Periphery career.',
+        a: 'Travis Orbin plays an SJC Custom kit with an SJC Custom Maple 14"x6.5" snare, Zildjian K Custom Dark cymbals, and a DW 9000 Series double pedal — a rig established during his 2006–2009 tenure in Periphery and carried unchanged through his post-Periphery career.',
       },
       {
         q: 'Why did Travis Orbin leave Periphery?',
-        a: 'Travis Orbin left Periphery in 2012 on amicable terms. He was replaced by Matt Halpern, who has publicly acknowledged Orbin\'s influence on the band\'s sound, and Orbin went on to join Sky Harbor and later tour with Darkest Hour.',
+        a: 'Travis Orbin left Periphery in February 2009, before the band wrote or recorded its self-titled debut. He was replaced by Matt Halpern, who recorded that debut (2010) and every Periphery album since, and Orbin went on to join Sky Harbor and later tour with Darkest Hour.',
       },
       {
-        q: 'What albums did Travis Orbin record with Periphery?',
-        a: 'Travis Orbin recorded Periphery\'s self-titled debut album (2010) — widely considered foundational to the djent genre — and the "Icarus" EP (2011) before departing the band in 2012.',
+        q: 'Did Travis Orbin record any albums with Periphery?',
+        a: 'No. Travis Orbin left Periphery in February 2009, before the band wrote or recorded its self-titled debut (2010) or any subsequent release. Matt Halpern, who joined as his replacement in 2009, has recorded every Periphery album to date.',
       },
       {
         q: 'What has Travis Orbin done since leaving Periphery?',
-        a: 'Since leaving Periphery in 2012, Travis Orbin has played in Sky Harbor (releasing Guiding Lights in 2014), toured with Darkest Hour (2013–2015), and built a substantial solo career centered on viral YouTube playthrough videos, clinics, and educational content.',
+        a: 'Since leaving Periphery in 2009, Travis Orbin has played in Sky Harbor (releasing Guiding Lights in 2014), toured with Darkest Hour (2013–2015), and built a substantial solo career centered on viral YouTube playthrough videos, clinics, and educational content.',
       },
       {
-        q: 'What makes Travis Orbin\'s drumming style significant to djent?',
-        a: 'Orbin\'s core innovation was locking kick drum patterns exactly to Misha Mansoor\'s extended-range guitar riffs on Periphery\'s debut, combined with displaced backbeats and metric modulations navigated through shared subdivisions — a template that an entire generation of djent drummers has studied.',
+        q: 'What makes Travis Orbin\'s drumming style significant to progressive metal?',
+        a: 'Orbin is known for polyrhythmic phrasing, dense ghost-note work, and independent two-footed bass drum patterns, documented extensively in his own solo playthrough and cover videos — a body of work that has made him a studied reference point for technical drummers despite predating Periphery\'s recorded discography.',
       },
     ],
 
     metaTitle: 'Travis Orbin Gear Evolution Timeline | Periphery Drum Kit History',
-    metaDescription: 'Explore Travis Orbin\'s complete drum gear evolution: the SJC Custom / Zildjian K Custom rig behind Periphery\'s genre-defining self-titled debut (2010), his amicable 2012 departure, Sky Harbor and Darkest Hour years, and his solo playthrough career.',
+    metaDescription: 'Explore Travis Orbin\'s complete drum gear evolution: the SJC Custom / Zildjian K Custom rig from his 2006–2009 pre-recording years in Periphery, through Sky Harbor and Darkest Hour, to his solo playthrough career.',
   },
 
   // ==========================================

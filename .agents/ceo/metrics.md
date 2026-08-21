@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-21 02:17 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-21 06:42 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 224 |
-| Sessions | 273 |
-| Page views | 492 |
-| Engagement rate | 52.75% |
-| Avg session (s) | 191 |
+| Active users | 226 |
+| Sessions | 277 |
+| Page views | 497 |
+| Engagement rate | 51.99% |
+| Avg session (s) | 188 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -31,31 +31,31 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 214 | 166 |
+| Organic Search | 219 | 169 |
 | Direct | 52 | 51 |
-| Unassigned | 25 | 24 |
+| Unassigned | 29 | 26 |
 | AI Assistant | 1 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 109 | 81 |
+| United States | 111 | 82 |
 | Canada | 13 | 11 |
 | Germany | 13 | 12 |
+| United Kingdom | 13 | 11 |
 | France | 12 | 7 |
-| United Kingdom | 12 | 11 |
 | Brazil | 9 | 7 |
 | Finland | 9 | 6 |
 | Singapore | 7 | 7 |
+| Australia | 6 | 6 |
 | Colombia | 6 | 5 |
-| India | 6 | 6 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 5,208 |
+| Impressions | 5,216 |
 | Clicks | 117 |
-| CTR | 2.25% |
+| CTR | 2.24% |
 | Avg position | 9.9 |
 
 ### Top queries
@@ -75,14 +75,14 @@
 ### Top countries (impressions, last 7d)
 | Country | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| usa | 1,949 | 46 | 2.36% | 9.5 |
-| can | 243 | 6 | 2.47% | 9.3 |
-| fin | 85 | 5 | 5.88% | 6.5 |
-| fra | 109 | 5 | 4.59% | 7.8 |
-| rus | 58 | 5 | 8.62% | 10.9 |
+| usa | 1,951 | 46 | 2.36% | 9.5 |
+| can | 243 | 6 | 2.47% | 9.2 |
+| fin | 85 | 5 | 5.88% | 6.4 |
+| fra | 109 | 5 | 4.59% | 7.7 |
+| rus | 58 | 5 | 8.62% | 10.8 |
 | gbr | 336 | 4 | 1.19% | 9.3 |
-| aus | 220 | 3 | 1.36% | 8.9 |
-| aut | 38 | 3 | 7.89% | 7.1 |
+| aus | 221 | 3 | 1.36% | 8.8 |
+| aut | 38 | 3 | 7.89% | 6.8 |
 | bra | 137 | 3 | 2.19% | 7.2 |
 | pol | 95 | 3 | 3.16% | 7.1 |
 

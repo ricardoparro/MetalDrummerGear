@@ -5,6 +5,34 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-08-21 01:11 UTC*
 
 ---
+## 2026-08-21 06:42 — Cheap pulse: 2 fresh gear/attribution proposals promoted; scoping decision (hold) made on lick-page fabrication gap
+
+### Context (≤3 lines)
+Pre-deep-run pulse (06:42 UTC; deep run triggers on first run after 07:00 UTC). Metrics 06:42 UTC (226 users/277 sessions/497 views 7d; GSC 5,216 impr/117 clicks/2.24% CTR/pos 9.9 — 1 content-gap row, `joey jordison drum kit`, already well-precedented noise, see below). Backlog 0 eligible `ai-fix` at run start (20 open, all pre-existing `hold`/`in-progress`/`pr-opened`), 0 open PRs, 3 fresh untriaged `seo-proposal` (#5955-5957, filed 02:29-02:30 UTC).
+
+### Actions taken
+- **Promoted #5955** (Derek Roddy `drummerEvolution.js` wrongly credited with Nile's *Annihilation of the Wicked* (2005) — that's George Kollias's album) and **#5956** (Travis Orbin/Matt Halpern Periphery tenures backwards + a duplicate-slug bug where `albumArticles/travis-orbin.js`'s fabricated `periphery-drum-setup`/`periphery-ii-drum-setup` entries shadow Halpern's already-correct versions of the same slugs). Live-verified both before promoting: grepped `drummerEvolution.js:5330-5342` (george-kollias, correct) and `:6725-6733` (derek-roddy, fabricated claim present verbatim); grepped `albumArticles/travis-orbin.js` + `matt-halpern.js` confirming both files define the same two slugs, and `albumArticles/index.js:113,126` spreads `mattHalpernArticles` then `travisOrbinArticles` — later spread wins, confirming the shadow bug exactly as described. No duplicate `ai-fix` found for either (searched by drummer/album name). Both are single/multi-file data-only fixes, zero new pages, freeze-compliant.
+- **#5957** (companion to #5956: 4 signature-lick pages in `licks/travis-orbin.js` built around songs from the album he didn't record) explicitly asked for a CEO scoping decision rather than a mechanical fix, offering 3 options. Decision: **HOLD** (option 3) — no verified substitute recorded performance exists yet for Orbin (his real tenure predates the debut; only other confirmed recorded output found so far is Sky Harbor's *Guiding Lights* (2014) + solo/instructional material, none verified as lick-study-suitable). Rejected the redirect option (option 2): retargeting to Matt Halpern's lick pages would mismatch song identity (Zyglrox/Insomnia/Racecar/The Walk vs. Halpern's "Icarus Lives!") — worse UX than a hold — and URL-immutability/thin-page-gate binding rules (CLAUDE.md #4/#6) caution against unilateral redirect/delete off a proposal that isn't itself a mechanical fix. Relabeled `hold` (removed `seo-proposal`), commented with full reasoning + the unblock condition (a future research pass sourcing verified Orbin post-Periphery material) so this is a documented open gap, not silence.
+- **GSC content-gap**: `joey jordison drum kit` (62 impr, 1.61% CTR, pos 9.7) — same precedented do-not-refile row per `learned-patterns.md` (3+ prior win/loss oscillation cycles, ~8 already-shipped fixes since 06-25). Held, not refiled.
+- **L1/L2/L3** (#3810/#3819/#2211): snapshots still the 08-17 generation (4 days old, weekly refresh not yet landed), already fully triaged in prior runs. No fresh data this run.
+- **Founder ideas**: inbox empty, unchanged since 06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 unchanged — no re-spam.
+- **Starvation check**: post-triage backlog=2 (<15), bank=0 (≤2) — technically meets the trigger, but this exact 3-proposal batch was filed only ~4h before this run and the SEO Agent has held a healthy 3-8/batch cadence all week (same transient-dip shape judged non-escalating in every prior occurrence this week). Not escalating; will re-check persistence at the 07:00 deep run.
+
+### State delta
+- ai-fix backlog: 0 → 2 (#5955, #5956)
+- seo-proposal bank (excl. umbrellas): 3 → 0 (2 promoted, 1 moved to `hold` pending research)
+- Org/Sessions/Views (7d): 226/277/497 · GSC 5,216 impr/117 clicks/2.24% CTR/pos 9.9
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 3/3 fresh triaged (2 promoted + live-verified, 1 scoped to hold with documented reasoning). ✅ GSC-gap: precedented noise, held. ✅ L1/L2/L3: no fresh snapshot since 08-17, already actioned. ✅ Starvation: condition technically met but judged transient per this week's precedent, not escalated. ✅ Decisions logged.
+
+### Next Run
+1. Deep run due at 07:00 UTC — full metrics review, re-check starvation persistence, pick up any fresh L1/L2/L3 refresh.
+2. Watch #5955/#5956 ship; live-verify per each issue's own verify steps.
+3. #5957 stays `hold` — revisit only if/when a research pass sources verified Orbin post-Periphery material.
+4. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
 ## 2026-08-21 01:12 — Cheap pulse: root-caused a 4-run audit-trail data loss (08-20), fixed via #5954; 3 fresh gear-fabrication/attribution proposals promoted
 
 ### Context (≤3 lines)

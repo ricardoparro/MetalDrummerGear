@@ -1480,7 +1480,7 @@ Before Slayer, Bostaph established his reputation in the Bay Area thrash scene w
     name: 'Jon Dette',
     bands: [
       { slug: 'slayer', period: '1996-1997', role: 'Touring drummer' },
-      { slug: 'testament', period: '1997-1999, 2001-2012', role: 'Drummer' },
+      { slug: 'testament', period: '1997-1999, 2001-2012', role: 'Touring drummer' },
       { slug: 'anthrax', period: '2010', role: 'Touring drummer' }
     ],
     metaTitle: 'Jon Dette Drum Kit & Gear Setup — Slayer & Testament Touring Drummer | MetalForge',
@@ -1491,17 +1491,17 @@ Before Slayer, Bostaph established his reputation in the Bay Area thrash scene w
         title: 'Overview',
         content: `Jon Dette (born August 25, 1967, in Milwaukee, Wisconsin) is an American drummer known for his work as a touring and session drummer with several major thrash metal bands, most notably Slayer and Testament.
 
-Dette served as Slayer's touring drummer during 1996-1997, filling in when Paul Bostaph was temporarily unavailable. He later became a longer-term member of Testament, contributing to their albums and tours. His versatility and professionalism have earned him respect throughout the metal community.`
+Dette served as Slayer's touring drummer during 1996-1997, filling in when Paul Bostaph was temporarily unavailable. He later became Testament's touring drummer across two stints (1997-1999, 2001-2012), a tenure captured on the live album Live at the Fillmore. His versatility and professionalism have earned him respect throughout the metal community.`
       },
       careerHighlights: {
         title: 'Career Highlights',
         items: [
           { year: '1996', event: 'Joined Slayer as touring drummer, filling in for Paul Bostaph' },
           { year: '1997', event: 'Left Slayer when Bostaph returned; joined Testament' },
-          { year: '1999', event: 'Recorded "The Gathering" with Testament' },
-          { year: '2008', event: 'Appeared on Testament\'s "The Formation of Damnation"' },
+          { year: '1999', event: 'Touring drummer for Testament\'s "The Gathering" era (studio album recorded by Dave Lombardo)' },
+          { year: '2008', event: 'Testament\'s touring drummer during "The Formation of Damnation" era (studio album recorded by Paul Bostaph)' },
           { year: '2010', event: 'Filled in for Charlie Benante on Anthrax tour dates' },
-          { year: '2012', event: 'Recorded "Dark Roots of Earth" with Testament' }
+          { year: '2012', event: 'Testament\'s touring drummer during "Dark Roots of Earth" era (studio album recorded by Gene Hoglan)' }
         ]
       },
       styleAndInfluences: {
@@ -1521,9 +1521,7 @@ Dette served as Slayer's touring drummer during 1996-1997, filling in when Paul 
       notableRecordings: {
         title: 'Notable Recordings & Tours',
         albums: [
-          { name: 'Testament - The Gathering', year: 1999, label: 'Spitfire', note: 'Career-defining album' },
-          { name: 'Testament - The Formation of Damnation', year: 2008, label: 'Nuclear Blast', note: 'Comeback album' },
-          { name: 'Testament - Dark Roots of Earth', year: 2012, label: 'Nuclear Blast', note: 'Final Testament album with Dette' }
+          { name: 'Testament - Live at the Fillmore', year: 2005, label: 'Nuclear Blast', note: 'Live album capturing Dette\'s touring tenure' }
         ],
         tours: [
           { name: 'Slayer World Tour', year: '1996-1997', note: 'Fill-in drummer period' },
@@ -1548,7 +1546,7 @@ Dette served as Slayer's touring drummer during 1996-1997, filling in when Paul 
           'Known as thrash metal\'s most reliable fill-in drummer',
           'Learned entire Slayer setlists quickly when called to tour',
           'One of few drummers to have played with three of the Big Four (Slayer, Anthrax)',
-          'The Gathering is considered one of Testament\'s best albums',
+          'The Gathering, released during his first Testament touring stint, is considered one of Testament\'s best albums — though its drums were recorded by Dave Lombardo',
           'Praised for professionalism and quick learning ability'
         ]
       },
@@ -1562,7 +1560,7 @@ Dette served as Slayer's touring drummer during 1996-1997, filling in when Paul 
           { q: 'What sticks does Jon Dette use?', a: 'Jon Dette uses Promark or Vater 5B drumsticks, a heavier model favored for authority and durability.' },
           { q: 'What bass drum pedal does Jon Dette use?', a: 'Jon Dette drives his sustained double-kick work with a DW 9000 or Tama Iron Cobra double pedal.' },
           { q: 'What drumheads does Jon Dette use?', a: 'Jon Dette uses Remo Powerstroke 3 heads on his kick, Emperor Coated on his toms, and Coated Ambassador on his snare.' },
-          { q: 'What band is Jon Dette in?', a: 'Jon Dette was Slayer\'s touring drummer in 1996-1997, then drummed for Testament across two stints (1997-1999, 2001-2012), recording The Gathering (1999), The Formation of Damnation (2008), and Dark Roots of Earth (2012). He also filled in for Charlie Benante on a 2010 Anthrax tour.' },
+          { q: 'What band is Jon Dette in?', a: 'Jon Dette was Slayer\'s touring drummer in 1996-1997, then Testament\'s touring drummer across two stints (1997-1999, 2001-2012), a run captured on the live album Live at the Fillmore (2005). Testament\'s studio albums released during those years — The Gathering (1999), The Formation of Damnation (2008), and Dark Roots of Earth (2012) — were recorded by Dave Lombardo, Paul Bostaph, and Gene Hoglan respectively. He also filled in for Charlie Benante on a 2010 Anthrax tour.' },
           { q: 'How did Jon Dette join Slayer?', a: 'Jon Dette joined Slayer in 1996 as touring drummer, filling in when Paul Bostaph was temporarily unavailable, and left in 1997 when Bostaph returned to the band. He went on to become a longer-term member of Testament.' }
         ]
       },

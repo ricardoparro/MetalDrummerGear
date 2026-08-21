@@ -4,244 +4,140 @@ export const articles = {
     "slug": "spiritual-healing-drum-setup",
     "albumTitle": "Spiritual Healing",
     "artist": "Death",
-    "drummer": "Sean Reinert",
+    "drummer": "Bill Andrews",
     "drummerId": null,
-    "relatedDrummerSlug": "sean-reinert",
     "year": 1990,
     "genre": "Death Metal",
     "label": "Combat Records",
-    "studio": "Morris Sound Corporation, Tampa, Florida",
-    "producer": "Randy Burns",
+    "studio": "Morrisound Recording, Tampa, Florida",
+    "producer": "Scott Burns and Death",
     "isAlbumArticle": true,
     "datePublished": "2026-06-24",
-    "dateModified": "2026-06-24",
+    "dateModified": "2026-08-21",
     "author": "MetalForge Editorial",
-    "title": "Spiritual Healing Drum Setup: Sean Reinert's Debut with Death (1990)",
-    "description": "Complete breakdown of Sean Reinert's drum gear on Death's Spiritual Healing (1990). The Pearl Export kit, Zildjian A cymbals, and Pearl P-100P twin pedals behind the album that bridged Chuck Schuldiner's thrash-death roots with the progressive landmark Human.",
+    "title": "Spiritual Healing Drum Setup: Bill Andrews' Final Album with Death (1990)",
+    "description": "Who really played drums on Death's Spiritual Healing (1990)? It was Bill Andrews, in his last recording with the band before Chuck Schuldiner replaced him with Sean Reinert for Human (1991) — a distinction commonly mixed up by fans searching for Reinert's discography.",
     "seoKeywords": [
       "spiritual healing drums",
-      "sean reinert death 1990",
+      "bill andrews death drummer",
+      "who played drums on spiritual healing",
       "death spiritual healing drum setup",
-      "sean reinert pearl export",
-      "sean reinert debut death",
+      "sean reinert spiritual healing",
+      "bill andrews drummer",
       "death band 1990 drums",
-      "spiritual healing gear",
-      "chuck schuldiner 1990"
+      "chuck schuldiner 1990 drummer"
     ],
     "ogImage": "/images/albums/spiritual-healing-drums.webp",
     "intro": {
-      "title": "The Album Where Sean Reinert Joined Death",
-      "content": "Released on March 19, 1990, Death's *Spiritual Healing* marks the debut of Sean Reinert behind the kit for Chuck Schuldiner's band — and it marks a pivotal transitional moment in the evolution of extreme metal drumming. This is the album where Death began its journey from the raw, grinding attack of *Leprosy* toward the progressive sophistication that would fully emerge on *Human* (1991).\n\nSean Reinert, then a young drummer from Los Angeles with classical training and a jazz sensibility, brought a technical precision to these sessions that no Death album had heard before. Where previous Death drummers had focused on brute force blast beats and relentless velocity, Reinert's approach introduced polyrhythmic complexity, cleaner double-bass mechanics, and a feel for space that would become the template for progressive death metal.\n\nRecorded at Morris Sound Corporation in Tampa with producer Randy Burns, *Spiritual Healing* sits at the crossroads of Death's creative arc. The songs retain the aggression and heaviness of the early era — tracks like \"Living Monstrosity\" and \"Altering the Future\" operate at the brutal tempos Death's audience expected — but Reinert's contributions begin to introduce the musical vocabulary that would define *Human*. Ghost notes appear. Double-bass patterns become more compositionally integrated. The drumming starts to serve the music rather than simply power it.\n\nFor gear, Reinert was playing pre-endorsement Pearl in 1990: a Pearl Export series kit, a Pearl Free-Floating snare, and Pearl P-100P twin pedals. The cymbals were Zildjian A series across the board, including 14\" New Beat hi-hats that would remain a constant in his playing. These were professional tools — not the high-tier endorsement gear that would follow — but in Reinert's hands they produced the foundation of a revolution.\n\nSean Reinert passed away on January 24, 2020. *Spiritual Healing* is where his story with Death began.",
+      "title": "Setting the Record Straight: Bill Andrews, Not Sean Reinert",
+      "content": "Released on February 16, 1990, Death's *Spiritual Healing* is frequently — and incorrectly — associated with Sean Reinert, the drummer who would go on to redefine the band's sound one album later. The drummer on *Spiritual Healing* was Bill Andrews, and this was his last recording with Death before Chuck Schuldiner replaced him with Reinert for the follow-up, *Human* (1991).\n\nAndrews had drummed for Death since 1987, recording *Leprosy* (1988) before *Spiritual Healing*. His playing on *Spiritual Healing* sits within the standard heavy-metal drumming vocabulary of the era — double-bass patterns underpinning Schuldiner's mid-tempo and up-tempo riffs — rather than the blast-beat-heavy or polyrhythmic approaches that would come to define technical death metal. That leap arrived the following year, when Sean Reinert — a classically and jazz-trained drummer recruited alongside guitarist James Murphy's successor Paul Masvidal — joined for *Human* and brought an entirely different musical vocabulary to the band.\n\n*Spiritual Healing* was recorded at Morrisound Recording in Tampa, Florida, produced by Scott Burns and Death, and released on Combat Records. It was the only Death album to feature both guitarist James Murphy and bassist Terry Butler, and the last to feature Andrews behind the kit.\n\nSpecific details about the drum kit, cymbals, and hardware Andrews used for these sessions have not been publicly documented in interviews or gear retrospectives — unlike Reinert's much-discussed *Human* setup, which is well covered in drummer press. This article exists to correctly attribute *Spiritual Healing* to Bill Andrews and to point listeners who are actually researching Sean Reinert's gear to the right album: *Human* (1991), his sole studio recording with Death.",
       "keyPoints": [
-        "Sean Reinert's debut album with Death — fills the arc gap before Human (1991)",
-        "Recorded at Morris Sound Corporation, Tampa with producer Randy Burns",
-        "Pearl Export series kit — pre-endorsement, transitional 1990 gear era",
-        "Bridges Death's thrash-death roots with the progressive direction of Human",
-        "BPM range: 160–220 BPM across blast and groove passages",
-        "First appearance of Reinert's polyrhythmic approach in the Death discography"
+        "Bill Andrews played drums on Spiritual Healing (1990) — his last album with Death",
+        "Sean Reinert's only studio recording with Death is Human (1991), not Spiritual Healing",
+        "Recorded at Morrisound Recording, Tampa with producers Scott Burns and Death",
+        "The only Death album to feature both James Murphy (guitar) and Terry Butler (bass)",
+        "Andrews' playing follows standard late-1980s heavy metal drumming vocabulary — no blast beats or polyrhythms",
+        "No publicly documented gear specifics exist for Andrews' Spiritual Healing kit"
       ]
     },
     "drumKit": {
-      "title": "Pearl Export Series: Pre-Endorsement Precision",
-      "brand": "Pearl",
-      "model": "Pearl Export Series",
-      "finish": "Black finish",
-      "config": {
-        "bassdrums": [
-          "22\" x 16\" Bass Drum (single kick with double pedal)"
-        ],
-        "toms": [
-          "10\" x 9\" Rack Tom",
-          "12\" x 10\" Rack Tom"
-        ],
-        "floorToms": [
-          "14\" x 14\" Floor Tom",
-          "16\" x 16\" Floor Tom"
-        ],
-        "shells": "Poplar/basswood shells — Pearl Export professional configuration"
-      },
-      "description": "For *Spiritual Healing*, Sean Reinert played a Pearl Export series kit — the professional-grade Pearl configuration that preceded the DW endorsement era documented on later recordings. The Pearl Export was a widely respected series in the late 1980s and early 1990s, built around poplar and basswood shells that delivered a direct, present attack without the warm complexity of higher-tier maple construction.\n\nThe single bass drum configuration with double pedal was characteristic of Reinert's approach from the start. Unlike many death metal drummers of the era who ran two full bass drums for visual and sonic impact, Reinert's single-kick setup focused the low-end presentation while keeping the kit compact and responsive. His double-bass work on *Spiritual Healing* reflects this philosophy: integrated into musical phrases rather than deployed as continuous texture.\n\nThe two rack toms (10\" and 12\") and two floor toms (14\" and 16\") gave Reinert a four-tom spread suited to the flowing fill work he was already developing. On tracks like \"Altering the Future\" and \"Spiritual Healing,\" the tom phrases begin to exhibit the melodic contour awareness that would become unmistakable on *Human* — following harmonic content rather than treating fills as purely rhythmic punctuation.\n\nThe Pearl Export's direct, punchy character suited Morris Sound Corporation's recording environment. Randy Burns captured the kit with the close-miking approach standard for Florida death metal production: tight on each shell, controlled room sound, kick focused on attack transient. The result is a drum sound with more presence and definition than Death's earlier records, reflecting both the improved gear and Reinert's superior technical execution.",
+      "title": "Bill Andrews' Kit: Undocumented Specifics",
+      "brand": "Not publicly documented",
+      "model": "Unknown",
+      "finish": null,
+      "description": "Unlike Sean Reinert's well-documented Tama Artstar II setup on *Human*, no interview, gear retrospective, or period photograph has surfaced publicly documenting the specific drum brand or model Bill Andrews played on *Spiritual Healing*. Rather than guess, this article omits fabricated specifics.\n\nWhat is known from the recording itself and period accounts of Death's 1989-1990 lineup: Andrews played a standard single-bass-drum, double-pedal heavy metal configuration typical of the late-1980s Florida death metal scene, built around mid-tempo and up-tempo riffs rather than the extended blast-beat sections or polyrhythmic phrasing that arrived with Reinert on *Human* the following year. The album was tracked at Morrisound Recording in Tampa with producers Scott Burns and Death, the same studio (though not the same producer credit format) that would host the *Human* sessions in 1991.\n\nIf you're researching Sean Reinert's actual recorded gear, see the *Human* drum setup article — that album, not this one, documents his verified Tama Artstar II kit, DW 5000 double pedal, and Zildjian A/K cymbal setup.",
       "notes": [
-        "Pre-endorsement Pearl Export — transitional gear era before DW relationship",
-        "Single 22\" bass drum with double pedal — Reinert's signature configuration from the start",
-        "Four-tom spread (10\", 12\", 14\", 16\") for melodic fill vocabulary",
-        "Poplar/basswood shells for direct attack at Morris Sound Corporation",
-        "First major Death album recorded with this level of drum technical precision"
-      ],
-      "estimatedValue": "$800–1,200 (Pearl Export, 1990)"
+        "No verified brand or model information exists for Andrews' Spiritual Healing kit",
+        "Standard single-kick, double-pedal heavy metal configuration for the era",
+        "Recorded at Morrisound Recording, Tampa — later also home to Human (1991)",
+        "This was Andrews' last recording with Death before his 1990 departure"
+      ]
     },
     "snare": {
-      "title": "Pearl Free-Floating 14×6.5: Crack and Sensitivity",
-      "brand": "Pearl",
-      "model": "Pearl Free-Floating",
-      "size": "14\" x 6.5\"",
-      "shell": "Steel — Pearl Free-Floating free-suspension design",
-      "description": "The Pearl Free-Floating snare drum is one of the most distinctive professional snares Pearl produced. The free-suspension design — mounting the shell without direct contact at any lug point — allows the shell to resonate freely, producing a focused, penetrating crack with controlled sustain. For Reinert's playing on *Spiritual Healing*, the 14\" x 6.5\" depth delivered both the crack needed to cut through Death's dense guitar tunings and the sensitivity for the ghost note work he was beginning to develop.\n\nThe extra depth (6.5\" versus the more common 5\" or 5.5\") gave the snare additional body and volume — important for a death metal recording where the snare had to hold its own against distorted guitars. But the free-suspension design kept the attack controlled rather than boomy, preventing the snare from overwhelming the mix.\n\nRandy Burns' recording approach at Morris Sound Corporation captured the Pearl Free-Floating's natural character. The result is a snare sound on *Spiritual Healing* that is more articulate and dynamic than typical death metal recordings of the era — a direct reflection of Reinert's more nuanced technique compared to his predecessors in Death.",
-      "tuningSetting": "Medium tension — attack clarity without sacrificing body for the 6.5\" depth",
-      "heads": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)",
-      "estimatedValue": "$350–500 (Pearl Free-Floating, 1990)"
+      "title": "Snare Details: Not Documented",
+      "brand": "Not publicly documented",
+      "model": "Unknown",
+      "size": null,
+      "shell": null,
+      "description": "No verified source documents the specific snare Bill Andrews used on *Spiritual Healing*. The recording's snare tone is consistent with the close-miked, attack-forward drum production Scott Burns and Morrisound Recording were known for on late-1980s Tampa death metal records, but attributing a specific brand or model without a source would be a guess this article won't make.",
+      "tuningSetting": null,
+      "heads": null,
+      "estimatedValue": null
     },
     "cymbals": {
-      "title": "Zildjian A Series: The Pre-Endorsement Standard",
-      "brand": "Zildjian",
-      "series": "Zildjian A Series",
-      "setup": [
-        {
-          "type": "Hi-Hats",
-          "model": "Zildjian A 14\" New Beat Hi-Hats",
-          "position": "Left side",
-          "notes": "Reinert's preferred hi-hat model — tight, cutting response with musical open tones"
-        },
-        {
-          "type": "Crash",
-          "model": "Zildjian A 16\" Crash",
-          "position": "Left of hi-hats",
-          "notes": "Fast, bright crash for punctuation in shorter aggressive passages"
-        },
-        {
-          "type": "Crash",
-          "model": "Zildjian A 18\" Crash",
-          "position": "Right of rack toms",
-          "notes": "Fuller crash for section transitions and climactic moments"
-        },
-        {
-          "type": "Ride",
-          "model": "Zildjian A 20\" Ride",
-          "position": "Far right",
-          "notes": "Versatile A Series ride — bell accents for death metal passages"
-        },
-        {
-          "type": "China",
-          "model": "Zildjian 16\" China",
-          "position": "Above floor tom",
-          "notes": "Trashy, aggressive accent for the most intense riff sections"
-        }
-      ],
-      "description": "Sean Reinert's cymbal setup on *Spiritual Healing* centered on Zildjian's A Series — the industry-standard B20 bronze line that delivered the brightness, attack, and durability that death metal demanded. Before any endorsement relationship, this was simply the best professional cymbal setup available to a working drummer of Reinert's caliber.\n\nThe 14\" New Beat hi-hats were a constant in Reinert's playing. The New Beat configuration — a heavier bottom hat paired with a lighter top — produces the tight, cutting response essential for fast 16th-note patterns at death metal tempos while allowing musical, complex tones when played open or half-open. On *Spiritual Healing*, the hi-hat work begins to show the jazz-influenced variety that would be unmistakable on *Human*: closed for velocity sections, opened for color, played at the edge for brighter accent tones.\n\nThe A Series crashes (16\" and 18\") gave Reinert tonal variety for accent placement: the 16\" for fast, explosive punctuation; the 18\" for section boundaries and the larger emotional moments. The 20\" A ride provided the versatile platform for both straight-ahead ride patterns and the bell accent work beginning to appear in Reinert's vocabulary.\n\nZildjian A's B20 alloy construction gave these cymbals the durability to handle death metal playing while maintaining the musical character that Reinert's approach required. They cut through Morris Sound's dense guitar mix without post-processing — a natural advantage of A Series lathing in extreme metal production contexts.",
-      "estimatedValue": "$800–1,200 (full Zildjian A Series setup, 1990)"
+      "title": "Cymbal Setup: Not Documented",
+      "brand": "Not publicly documented",
+      "series": null,
+      "setup": [],
+      "description": "As with the drum kit and snare, no publicly documented source specifies the cymbal brand or models Bill Andrews used during the *Spiritual Healing* sessions. Readers looking for a verified, sourced cymbal breakdown for Death's technical era should see the *Human* (1991) drum setup article, which documents Sean Reinert's Zildjian A and K series setup.",
+      "estimatedValue": null
     },
     "hardware": {
-      "title": "Pearl P-100P Twin Pedals: Pre-Iron Cobra Era",
-      "items": [
-        {
-          "type": "Bass Drum Pedals",
-          "brand": "Pearl",
-          "model": "Pearl P-100P Twin Pedal",
-          "notes": "Pre-Iron Cobra era chain-drive — reliable double-kick foundation for extreme tempos",
-          "description": "The Pearl P-100P twin pedal was Sean Reinert's double-bass foundation on *Spiritual Healing* — a pre-Iron Cobra era Pearl pedal that predates the equipment that would later make Pearl's pedal line famous. The P-100P delivered a chain-drive mechanism suited to the sustained double-kick patterns Reinert was deploying on Death's 1990 record.\n\nChain-drive mechanics provided the consistent mechanical response across high-tempo passages that cam-drive and belt-drive alternatives could not always guarantee. For a drummer performing at 160–220 BPM across extended blast sections and groove passages, mechanical consistency on every stroke was non-negotiable. The P-100P's chain-drive action suited Reinert's integrated, musical double-bass approach rather than the raw-speed maximizing setup that characterized less compositionally aware death metal drumming of the era."
-        },
-        {
-          "type": "Sticks",
-          "brand": "Vic Firth",
-          "model": "Vic Firth SD9 Short Handle",
-          "notes": "Short handle for smaller hands — control and speed in extreme tempos",
-          "description": "Reinert's SD9 short-handle stick choice reflected his physical approach and his jazz background. The shorter handle gives drummers with smaller hands better leverage at the fulcrum point, improving both stroke speed and control accuracy. For a drummer whose jazz training emphasized control and sensitivity over brute force, this tool choice was characteristically precise."
-        },
-        {
-          "type": "Drumheads (Toms, Batter)",
-          "brand": "Remo",
-          "model": "Remo Ambassador Coated",
-          "notes": "Single-ply sensitivity — suited to Reinert's dynamic range and ghost note technique"
-        },
-        {
-          "type": "Drumheads (Bass, Batter)",
-          "brand": "Remo",
-          "model": "Remo Powerstroke 3",
-          "notes": "Controlled attack and focused low-end for double-kick definition in Tampa recordings"
-        }
-      ],
-      "heads": {
-        "bassKick": "Remo Powerstroke 3 (batter), Remo Powerstroke 3 (resonant)",
-        "toms": "Remo Ambassador Coated (batter), Remo Ambassador Clear (resonant)",
-        "snare": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)"
-      }
+      "title": "Hardware: Not Documented",
+      "items": [],
+      "heads": null
     },
     "recordingTechniques": {
-      "title": "Recording at Morris Sound Corporation: The Tampa Death Metal Template",
-      "content": "Morris Sound Corporation in Tampa was one of the key recording environments for Florida death metal in the late 1980s and early 1990s. Producer Randy Burns brought the same close-miking philosophy to *Spiritual Healing* that defined Tampa's extreme metal production approach — tight capture of each drum shell, controlled room sound, and a mix that prioritized attack definition over ambient wash.\n\n**Drum Isolation:**\nReinert's Pearl Export kit was recorded with close miking on each shell — top and bottom heads captured separately on toms and snare, dual-miking on the kick to balance attack transient against low-frequency body. This approach gave Randy Burns precise control over the drum sound in the mix, allowing the kit to cut through Death's dense, downtuned guitar tracking.\n\n**Kick Drum Treatment:**\nThe single bass drum configuration with P-100P double pedal required careful EQ to maintain double-kick intelligibility. Burns focused the kick capture on the attack transient rather than sub-bass frequencies — keeping the double-bass patterns readable as rhythmic information in the mix. This approach gave *Spiritual Healing*'s kick drum sound its characteristic punch without muddiness.\n\n**Snare Capture:**\nThe Pearl Free-Floating's free-suspension design produced a naturally focused snare character. Burns captured it with an SM57 at the batter head and a secondary mic below for snare wire response. The result is one of the more dynamic snare sounds in Death's catalog — reflecting both the Free-Floating's design and Reinert's wider dynamic range compared to his predecessors.\n\n**Reinert's Session Approach:**\nBurns noted that Reinert's musical approach to the sessions — treating drum parts as compositional contributions rather than purely rhythmic support — required more nuanced capture techniques than earlier Death recordings. The result is a drum production on *Spiritual Healing* that serves the songs' transitional character, pointing toward the sophistication of *Human* while delivering the aggression Death's existing audience expected.",
+      "title": "Recording at Morrisound: The Tampa Death Metal Template",
+      "content": "*Spiritual Healing* was recorded at Morrisound Recording in Tampa, Florida, produced by Scott Burns together with Death, and released on Combat Records. Morrisound would go on to host most of the foundational Florida death metal records of the era, including Death's own *Human* the following year, though the specific engineering choices made for Andrews' drum tracks on *Spiritual Healing* are not documented in available sources.\n\nWhat is documented: the album marked a stylistic shift for Death, moving from the gore-focused, straightforward death metal of *Scream Bloody Gore* and *Leprosy* toward more socially conscious lyrics and a more technical musical approach — a transition that would accelerate dramatically the following year once Reinert and Masvidal joined the band.\n\nThis was also the only Death album to feature both guitarist James Murphy and bassist Terry Butler, and the last album to feature Bill Andrews before Chuck Schuldiner rebuilt the band's lineup around Reinert and Masvidal for *Human*.",
       "keyTechniques": [
-        "Close-miking of Pearl Export shells for attack definition in dense death metal mix",
-        "Kick focused on attack transient — double-kick intelligibility over sub-bass weight",
-        "Pearl Free-Floating's free-suspension design captured with top and bottom miking",
-        "Dynamic range wider than previous Death recordings — reflects Reinert's nuanced technique"
+        "Recorded and mixed at Morrisound Recording, Tampa, Florida",
+        "Produced by Scott Burns and Death",
+        "Only Death album featuring both James Murphy and Terry Butler",
+        "Last Death album to feature drummer Bill Andrews"
       ]
     },
     "trackAnalysis": [
       {
         "track": "Living Monstrosity",
-        "bpm": "195",
+        "bpm": null,
         "signature": "4/4",
         "highlights": [
-          "Album opener — immediate statement of Reinert's approach within Death's aggressive framework",
-          "Double-bass patterns deployed as musical phrases, not continuous texture",
-          "Snare ghost notes beginning to appear — early expression of Reinert's jazz vocabulary",
-          "Pearl Export tom response clear in the fill passages — four-tom spread used purposefully"
+          "Album opener showcasing Death's mid-1990 sound under Bill Andrews",
+          "Standard heavy metal double-bass drumming rather than blast-beat technique",
+          "Represents the last chapter of Andrews' tenure with the band"
         ],
-        "gearNotes": "The Pearl Export's direct attack is immediately evident in \"Living Monstrosity\" — the kick transient cuts through Burns' guitar-heavy mix without competing for low-frequency space."
+        "gearNotes": "No verified gear specifics are documented for this session."
       },
       {
         "track": "Altering the Future",
-        "bpm": "210",
+        "bpm": null,
         "signature": "4/4",
         "highlights": [
-          "Highest BPM on the album — P-100P twin pedals at peak performance demand",
-          "Blast sections alternate with groove passages showing Reinert's dynamic control",
-          "Zildjian A New Beat hi-hats articulate at extreme tempo — characteristic of his playing",
-          "Fill work beginning to show melodic contour awareness — proto-Human vocabulary"
+          "Up-tempo track demonstrating Andrews' straightforward metal drumming approach",
+          "Contrasts with the polyrhythmic vocabulary Reinert would introduce on Human the following year"
         ],
-        "gearNotes": "The Pearl P-100P chain-drive holds consistent feel at the album's fastest tempo — a performance achievement that demonstrates why Reinert's mechanical reliability distinguished him from Death's earlier drummers."
+        "gearNotes": "No verified gear specifics are documented for this session."
       },
       {
         "track": "Spiritual Healing",
-        "bpm": "165",
+        "bpm": null,
         "signature": "4/4 with tempo shifts",
         "highlights": [
-          "Title track — most compositionally varied drumming performance on the album",
-          "Tempo shifts requiring dynamic adjustment across multiple song sections",
-          "Ghost note passages most clearly audible — preview of the Human approach",
-          "Pearl Free-Floating snare body and sensitivity both evident in dynamic section transitions"
+          "Title track — notable for guitarist James Murphy improvising his solo with a screwdriver after losing his tremolo bar, per bassist Terry Butler's account",
+          "Tempo shifts handled with a straightforward, unembellished drumming approach"
         ],
-        "gearNotes": "The Pearl Free-Floating's 6.5\" depth gives the title track's snare sound more body than a standard 5\" shell would deliver — appropriate for a performance that ranges from whisper-quiet ghost notes to full-force rim shots within the same section."
+        "gearNotes": "No verified gear specifics are documented for this session."
       }
     ],
     "evolution": {
-      "title": "From Spiritual Healing to Human: The Gear and Style Arc",
-      "content": "*Spiritual Healing* (1990) captures Sean Reinert at the beginning of his tenure with Death — the pre-endorsement Pearl configuration, the transitional musical vocabulary, and the production environment that would be superseded by the landmark *Human* (1991). The arc from this album to *Human* is the most significant in Reinert's discography with Death.\n\n**The Spiritual Healing Era (1990):**\nPearl Export kit, Pearl Free-Floating snare, Zildjian A cymbals, Pearl P-100P twin pedals. This combination produced the direct, punchy drum sound of the transitional Death era — present attack, Zildjian A brightness, and the P-100P's chain-drive foundation for double-kick. Recorded at Morris Sound Corporation with Randy Burns, who captured the Pearl gear with his characteristic Florida death metal clarity.\n\n**The Human Transition (1991):**\nBy *Human*, recorded at Morrisound Recording with producer Scott Burns, Reinert had moved to a Tama Artstar II kit — birch shells replacing the Pearl Export's poplar/basswood construction. His cymbal setup expanded to include Zildjian K series pieces alongside the A series, reflecting the growing jazz vocabulary. The double pedal moved from Pearl P-100P to DW 5000 — a significant upgrade in mechanical precision. Most importantly, Reinert's musical approach had evolved from the aggressive-with-nuances approach of *Spiritual Healing* to the full jazz-death fusion vocabulary that defined *Human*.\n\n**The Legacy of Spiritual Healing:**\n*Spiritual Healing* is the missing first chapter of Sean Reinert's Death story. Without it, the leap from the early Death sound to *Human* seems inexplicable. With it, the arc is clear: a young drummer with jazz training joining an extreme metal band, finding his footing in 1990, and then achieving full creative expression in 1991. The Pearl Export kit on *Spiritual Healing* is the gear that bridge makes on.",
+      "title": "From Bill Andrews to Sean Reinert: The Lineup Change That Redefined Death",
+      "content": "*Spiritual Healing* (1990) closes out Bill Andrews' tenure with Death — he had drummed on the band's previous album, *Leprosy* (1988), and *Spiritual Healing* was his last before Chuck Schuldiner rebuilt the band's lineup. The change that followed is one of the most consequential in death metal history.\n\n**The Andrews Era (1987-1990):**\nBill Andrews recorded *Leprosy* (1988) and *Spiritual Healing* (1990) with Death, playing within the standard heavy metal drumming vocabulary of the era — double-bass-driven, riff-supporting, without the extended blast beats or polyrhythmic phrasing that would come to define technical death metal.\n\n**The Human Transition (1991):**\nFor *Human*, Schuldiner recruited Sean Reinert and guitarist Paul Masvidal — both from the then-unsigned Cynic — bringing jazz-trained technicality to the band for the first time. Reinert's *Human* performance, documented on a Tama Artstar II kit with Zildjian A/K cymbals and a DW 5000 double pedal, is widely credited as a foundational moment for progressive and technical death metal.\n\n**Why the Confusion Happens:**\nBecause Andrews' specific gear on *Spiritual Healing* was never well documented, and because *Spiritual Healing* and *Human* are consecutive Death albums from a period of rapid lineup change, some retrospectives and fan discussions have mistakenly credited Reinert with *Spiritual Healing*. He did not play on it — his complete Death discography consists of a single album, *Human* (1991).",
       "thenVsNow": [
         {
-          "category": "Kit",
-          "then": "Pearl Export (poplar/basswood)",
-          "now": "Tama Artstar II (birch) — Human"
+          "category": "Drummer",
+          "then": "Bill Andrews (Spiritual Healing, 1990)",
+          "now": "Sean Reinert (Human, 1991)"
         },
         {
-          "category": "Snare",
-          "then": "Pearl Free-Floating 14\" x 6.5\"",
-          "now": "Tama Artstar II Birch — Human"
+          "category": "Kit documentation",
+          "then": "Not publicly documented",
+          "now": "Tama Artstar II — well documented"
         },
         {
-          "category": "Hi-Hats",
-          "then": "Zildjian A 14\" New Beat",
-          "now": "Zildjian A 14\" Quick Beat — Human"
-        },
-        {
-          "category": "Ride",
-          "then": "Zildjian A 20\"",
-          "now": "Zildjian K 20\" Custom Dry — Human"
-        },
-        {
-          "category": "Pedals",
-          "then": "Pearl P-100P Twin",
-          "now": "DW 5000 Double Pedal — Human"
-        },
-        {
-          "category": "Sticks",
-          "then": "Vic Firth SD9 Short Handle",
-          "now": "Vic Firth 5A — Human"
-        },
-        {
-          "category": "Musical approach",
-          "then": "Aggressive with emerging nuance",
-          "now": "Full jazz-death vocabulary"
+          "category": "Drumming style",
+          "then": "Standard heavy metal, double-bass driven",
+          "now": "Jazz-influenced, polyrhythmic, ghost-note vocabulary"
         }
       ]
     },
@@ -263,11 +159,11 @@ export const articles = {
     "relatedLicks": [],
     "internalLinks": [
       {
-        "text": "Sean Reinert drummer profile",
+        "text": "Sean Reinert drummer profile (Human, Focus)",
         "url": "/drummer/sean-reinert"
       },
       {
-        "text": "Human drum setup (Death, 1991)",
+        "text": "Human drum setup (Death, 1991) — Sean Reinert's actual Death debut",
         "url": "/articles/human-drum-setup"
       },
       {
@@ -281,39 +177,39 @@ export const articles = {
     ],
     "faq": [
       {
-        "question": "What drums did Sean Reinert use on Spiritual Healing?",
-        "answer": "On Death's Spiritual Healing (1990), Sean Reinert used a Pearl Export series kit — his pre-endorsement professional configuration. The setup featured a single 22\" x 16\" bass drum with a Pearl P-100P double pedal, rack toms at 10\" and 12\", and floor toms at 14\" and 16\". This was Reinert's debut album with Death, recorded at Morris Sound Corporation in Tampa with producer Randy Burns. The Pearl Export represented the transitional gear era between Death's earlier rawer recordings and the Tama Artstar II setup he would use on Human (1991)."
+        "question": "Who played drums on Death's Spiritual Healing?",
+        "answer": "Bill Andrews played drums on Death's Spiritual Healing (1990). It was his last album with the band — he had previously recorded Leprosy (1988) — before Chuck Schuldiner replaced him with Sean Reinert for the following album, Human (1991). Spiritual Healing was recorded at Morrisound Recording in Tampa, Florida, produced by Scott Burns and Death, and released on Combat Records."
       },
       {
-        "question": "Is Sean Reinert the drummer on both Spiritual Healing and Human?",
-        "answer": "Yes. Sean Reinert played drums on both Death's Spiritual Healing (1990) and Human (1991) — making these two consecutive albums his complete tenure with Death as a recording drummer. Spiritual Healing was his debut with the band, recorded at Morris Sound Corporation in Tampa. Human followed the next year at Morrisound Recording, also in Tampa. Reinert and guitarist Paul Masvidal (also on both albums) then went on to form Cynic, where they recorded Focus (1993). The two Death albums together form Reinert's complete contribution to the Death discography."
+        "question": "Did Sean Reinert play drums on Spiritual Healing?",
+        "answer": "No. This is a common misattribution. Sean Reinert's complete studio discography with Death consists of a single album: Human (1991). Spiritual Healing (1990), the album before it, was recorded by Bill Andrews. Reinert joined Death in 1991 alongside guitarist Paul Masvidal specifically to record Human."
       },
       {
-        "question": "How does Spiritual Healing differ from Human in terms of drumming style?",
-        "answer": "Spiritual Healing (1990) and Human (1991) represent two stages of Sean Reinert's musical development with Death. On Spiritual Healing, Reinert's playing is aggressive and powerful — solidly within the death metal template — with the early signs of the jazz vocabulary emerging: ghost notes beginning to appear, double-bass used musically rather than constantly, fills with growing melodic awareness. On Human, those elements had fully developed into a complete jazz-death fusion vocabulary: ride cymbal as a lead voice, ghost notes throughout, polyrhythmic complexity, and dynamic shading that jazz and progressive rock fans could appreciate. Spiritual Healing is where Reinert found his footing with Death; Human is where he defined what was possible."
+        "question": "What happened to Bill Andrews after Spiritual Healing?",
+        "answer": "Spiritual Healing (1990) was Bill Andrews' final recording with Death. Chuck Schuldiner rebuilt the band's lineup for the next album, bringing in Sean Reinert and Paul Masvidal from Cynic, which resulted in the stylistic leap heard on Human (1991)."
       },
       {
-        "question": "What gear was Sean Reinert using before his DW endorsement?",
-        "answer": "Before his DW endorsement, Sean Reinert used Pearl equipment. On Spiritual Healing (1990), his setup included a Pearl Export series kit (poplar/basswood shells), a Pearl Free-Floating 14\" x 6.5\" snare, and Pearl P-100P twin pedals for double-bass. His cymbals were Zildjian A series throughout: 14\" New Beat hi-hats, 16\" and 18\" A crashes, a 20\" A ride, and a 16\" China. By Human (1991), Reinert had moved to a Tama Artstar II kit and DW 5000 double pedal. The Spiritual Healing-era Pearl gear is therefore the earliest documented professional setup of his career with Death."
+        "question": "What drum gear did Bill Andrews use on Spiritual Healing?",
+        "answer": "No interview, gear retrospective, or period source publicly documents the specific drum kit, snare, or cymbals Bill Andrews used on Spiritual Healing. If you're looking for a verified, sourced gear breakdown from this era of Death, see the Human (1991) drum setup article, which documents Sean Reinert's Tama Artstar II kit, DW 5000 double pedal, and Zildjian A/K cymbal setup in detail."
       }
     ],
     "conclusion": {
-      "title": "Where the Revolution Began",
-      "content": "*Spiritual Healing* is where Sean Reinert's story with Death begins — and where the arc toward *Human* becomes visible. In 1990, Reinert brought a musical intelligence and technical precision to Death that no previous drummer in the band had possessed. The Pearl Export kit, the Pearl Free-Floating snare, the Zildjian A cymbals: these were professional tools in the hands of an exceptional musician who was learning, in real time, how to bring jazz vocabulary to extreme metal.\n\n**What Spiritual Healing Reveals:**\nThe album is essential for understanding *Human*. The ghost notes, the integrated double-bass phrasing, the melodic fill awareness — these aren't innovations that appeared suddenly in 1991. They're seeds visible in 1990, germinating across *Spiritual Healing*'s sessions at Morris Sound Corporation, growing toward the full bloom that *Human* would represent.\n\n**The Gear Perspective:**\nThe Pearl Export era is a window into Reinert's pre-endorsement professionalism. These weren't the highest-tier drums or the most sought-after pedals — but they were chosen by a drummer who knew exactly what he needed and why. The Pearl Free-Floating's sensitivity, the New Beat hi-hats' versatility, the P-100P's reliable double-kick foundation: each choice reflects musical thinking, not gear accumulation.\n\n**For the Sean Reinert Discovery Arc:**\nIf *Human* is where Sean Reinert changed death metal, *Spiritual Healing* is where he started. The discovery cluster is incomplete without this album — without understanding where he was in 1990, the leap to 1991 loses its context. This is the origin point.\n\n**The Legacy:**\nSean Reinert passed away on January 24, 2020. *Spiritual Healing* is the record that documents where his Death chapter began — the pre-endorsement Pearl setup, the emerging jazz vocabulary, the Tampa recording environment that would shape one of metal's most important transitions. It deserves to stand alongside *Human* and *Focus* as essential listening in the Reinert canon.\n\n🥁 *Sean Reinert (1971-2020) — He changed death metal twice: here, and on Human.* 🥁"
+      "title": "Correcting the Record",
+      "content": "*Spiritual Healing* belongs to Bill Andrews. It was his final album with Death, the closing chapter of a tenure that began with *Leprosy* (1988), and it captures the band still working within a conventional heavy metal drumming vocabulary — the calm before the storm that Sean Reinert would bring to *Human* one year later.\n\n**Why This Matters:**\nSean Reinert's influence on extreme metal drumming is real and well documented — but it starts with Human (1991), not Spiritual Healing. Crediting him for a chair he never held erases Bill Andrews' actual contribution and misrepresents Reinert's own recorded discography.\n\n**For Listeners Researching Reinert:**\nIf you came here looking for Sean Reinert's gear or playing, the album you want is Human (1991) — see our dedicated article for his documented Tama Artstar II kit, DW 5000 double pedal, and Zildjian A/K cymbal setup.\n\n**For Listeners Researching Spiritual Healing:**\nBill Andrews' specific equipment for this session isn't publicly documented. What's certain is his place in Death's history: the drummer who closed out the band's early, straightforward death metal era before Schuldiner reinvented the band's sound with a new rhythm section."
     },
     "schema": {
       "@context": "https://schema.org",
       "@graph": [
         {
           "@type": "Article",
-          "headline": "Spiritual Healing Drum Setup: Sean Reinert's Debut with Death (1990)",
-          "description": "Complete breakdown of Sean Reinert's drum gear on Death's Spiritual Healing (1990). The Pearl Export kit, Zildjian A cymbals, and Pearl P-100P twin pedals behind the album that bridged Chuck Schuldiner's thrash-death roots with the progressive landmark Human.",
+          "headline": "Spiritual Healing Drum Setup: Bill Andrews' Final Album with Death (1990)",
+          "description": "Who really played drums on Death's Spiritual Healing (1990)? It was Bill Andrews, in his last recording with the band before Chuck Schuldiner replaced him with Sean Reinert for Human (1991) — a distinction commonly mixed up by fans searching for Reinert's discography.",
           "author": {
             "@type": "Organization",
             "name": "MetalForge Editorial"
           },
           "datePublished": "2026-06-24",
-          "dateModified": "2026-06-24"
+          "dateModified": "2026-08-21"
         },
         {
           "@type": "BreadcrumbList",
@@ -345,7 +241,7 @@ export const articles = {
             "@type": "MusicGroup",
             "name": "Death"
           },
-          "datePublished": "1990-03-19",
+          "datePublished": "1990-02-16",
           "genre": "Death Metal",
           "recordLabel": {
             "@type": "Organization",
@@ -388,7 +284,7 @@ export const articles = {
         },
         {
           "@type": "Person",
-          "name": "Sean Reinert",
+          "name": "Bill Andrews",
           "memberOf": {
             "@type": "MusicGroup",
             "name": "Death"
@@ -400,34 +296,34 @@ export const articles = {
           "mainEntity": [
             {
               "@type": "Question",
-              "name": "What drums did Sean Reinert use on Spiritual Healing?",
+              "name": "Who played drums on Death's Spiritual Healing?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "On Death's Spiritual Healing (1990), Sean Reinert used a Pearl Export series kit — his pre-endorsement professional configuration. The setup featured a single 22\" x 16\" bass drum with a Pearl P-100P double pedal, rack toms at 10\" and 12\", and floor toms at 14\" and 16\". This was Reinert's debut album with Death, recorded at Morris Sound Corporation in Tampa with producer Randy Burns."
+                "text": "Bill Andrews played drums on Death's Spiritual Healing (1990). It was his last album with the band before Chuck Schuldiner replaced him with Sean Reinert for Human (1991). Spiritual Healing was recorded at Morrisound Recording in Tampa, Florida, produced by Scott Burns and Death."
               }
             },
             {
               "@type": "Question",
-              "name": "Is Sean Reinert the drummer on both Spiritual Healing and Human?",
+              "name": "Did Sean Reinert play drums on Spiritual Healing?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Yes. Sean Reinert played drums on both Death's Spiritual Healing (1990) and Human (1991) — making these two consecutive albums his complete tenure with Death as a recording drummer. Spiritual Healing was his debut with the band, followed by Human the next year. Reinert and Paul Masvidal then co-founded Cynic, recording Focus (1993)."
+                "text": "No. Sean Reinert's complete studio discography with Death consists of a single album: Human (1991). Spiritual Healing (1990) was recorded by Bill Andrews."
               }
             },
             {
               "@type": "Question",
-              "name": "How does Spiritual Healing differ from Human in terms of drumming style?",
+              "name": "What happened to Bill Andrews after Spiritual Healing?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Spiritual Healing (1990) represents Reinert's aggressive death metal foundation with early jazz elements emerging: ghost notes beginning to appear, double-bass integrated musically. On Human (1991), those elements fully developed into a complete jazz-death vocabulary: ride cymbal as lead voice, ghost notes throughout, polyrhythmic complexity. Spiritual Healing is where Reinert found his footing with Death; Human is where he defined what was possible."
+                "text": "Spiritual Healing (1990) was Bill Andrews' final recording with Death. Chuck Schuldiner rebuilt the lineup around Sean Reinert and Paul Masvidal for Human (1991)."
               }
             },
             {
               "@type": "Question",
-              "name": "What gear was Sean Reinert using before his DW endorsement?",
+              "name": "What drum gear did Bill Andrews use on Spiritual Healing?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Before his DW endorsement, Sean Reinert used Pearl equipment. On Spiritual Healing (1990), his setup included a Pearl Export series kit, a Pearl Free-Floating 14\" x 6.5\" snare, and Pearl P-100P twin pedals. His cymbals were Zildjian A series: 14\" New Beat hi-hats, 16\" and 18\" A crashes, a 20\" A ride, and a 16\" China. By Human (1991), Reinert had moved to a Tama Artstar II kit and DW 5000 double pedal."
+                "text": "No publicly documented source specifies the drum kit, snare, or cymbals Bill Andrews used on Spiritual Healing. Sean Reinert's documented gear, by contrast, comes from Human (1991), the following album."
               }
             }
           ]
@@ -1330,7 +1226,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "The Reunion Chapter: 15 Years and a New Sound",
-      "content": "*Traced in Air* is not the album fans who had spent 15 years waiting for *Focus 2* expected. It is something richer and more interesting than that: an authentic creative statement from musicians who had continued to grow while the world waited for their return.\n\n**What Traced in Air Reveals:**\nThe album fills the gap in the Sean Reinert / Cynic narrative that no other record addresses. *Focus* (1993) ended with Cynic at a creative peak — the most ambitious fusion of jazz and death metal anyone had achieved. *Traced in Air* (2008) shows where that trajectory led when the death metal framework was removed: a more contemplative, atmospheric, and musically open sound that still bears Reinert's unmistakable fingerprints.\n\n**The Gear Perspective:**\nThe shift from Tama Artstar II to DW Collector's Series, from Zildjian A/K to K Custom Dark throughout, from Morrisound with Scott Burns to self-production — every gear change on *Traced in Air* reflects a deliberate artistic decision. Reinert chose warmer, more complex tools for a warmer, more complex musical statement. The DW maple shells and K Custom Dark cymbals are the physical manifestation of where his musical thinking had arrived by 2008.\n\n**For the Sean Reinert Discovery Arc:**\nAnyone who arrives at *Focus* asking \"what came after?\" needs *Traced in Air* as the next chapter. And anyone asking \"what happened to Sean Reinert after Death?\" finds here the reunion story: the drummer who changed extreme metal in 1991 and 1993 returned in 2008 to prove that he had never stopped developing his art.\n\n**The Legacy:**\nSean Reinert passed away on January 24, 2020. The arc from *Spiritual Healing* (1990) through *Human* (1991) through *Focus* (1993) to *Traced in Air* (2008) is the complete story of one of progressive metal's most important drummers — and *Traced in Air* is the chapter that too many fans of his work have missed.\n\n🥁 *Sean Reinert (1971-2020) — He returned after 15 years and proved the music had never stopped.* 🥁"
+      "content": "*Traced in Air* is not the album fans who had spent 15 years waiting for *Focus 2* expected. It is something richer and more interesting than that: an authentic creative statement from musicians who had continued to grow while the world waited for their return.\n\n**What Traced in Air Reveals:**\nThe album fills the gap in the Sean Reinert / Cynic narrative that no other record addresses. *Focus* (1993) ended with Cynic at a creative peak — the most ambitious fusion of jazz and death metal anyone had achieved. *Traced in Air* (2008) shows where that trajectory led when the death metal framework was removed: a more contemplative, atmospheric, and musically open sound that still bears Reinert's unmistakable fingerprints.\n\n**The Gear Perspective:**\nThe shift from Tama Artstar II to DW Collector's Series, from Zildjian A/K to K Custom Dark throughout, from Morrisound with Scott Burns to self-production — every gear change on *Traced in Air* reflects a deliberate artistic decision. Reinert chose warmer, more complex tools for a warmer, more complex musical statement. The DW maple shells and K Custom Dark cymbals are the physical manifestation of where his musical thinking had arrived by 2008.\n\n**For the Sean Reinert Discovery Arc:**\nAnyone who arrives at *Focus* asking \"what came after?\" needs *Traced in Air* as the next chapter. And anyone asking \"what happened to Sean Reinert after Death?\" finds here the reunion story: the drummer who changed extreme metal in 1991 and 1993 returned in 2008 to prove that he had never stopped developing his art.\n\n**The Legacy:**\nSean Reinert passed away on January 24, 2020. The arc from *Human* (1991) through *Focus* (1993) to *Traced in Air* (2008) is the complete story of one of progressive metal's most important drummers — and *Traced in Air* is the chapter that too many fans of his work have missed.\n\n🥁 *Sean Reinert (1971-2020) — He returned after 15 years and proved the music had never stopped.* 🥁"
     },
     "schema": {
       "@context": "https://schema.org",

@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-22 06:37 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-22 07:23 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -54,43 +54,43 @@
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 5,453 |
-| Clicks | 115 |
-| CTR | 2.11% |
-| Avg position | 9.7 |
+| Impressions | 6,456 |
+| Clicks | 139 |
+| CTR | 2.15% |
+| Avg position | 9.6 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| brann dailor drum kit | 13 | 2 | 15.38% | 6.2 |
-| mario duplantier drum kit | 35 | 2 | 5.71% | 6.5 |
-| best metal drummers of all time | 21 | 1 | 4.76% | 7.9 |
+| brann dailor drum kit | 16 | 2 | 12.50% | 6.8 |
+| mario duplantier drum kit | 42 | 2 | 4.76% | 6.6 |
+| best metal drummers of all time | 24 | 1 | 4.17% | 7.7 |
 | danny carey drum kit setup | 2 | 1 | 50.00% | 9.0 |
-| eloy casagrande drum kit | 10 | 1 | 10.00% | 9.0 |
-| joey jordison drum kit | 61 | 1 | 1.64% | 9.8 |
+| deathcore drum kit | 2 | 1 | 50.00% | 4.5 |
+| eloy casagrande drum kit | 11 | 1 | 9.09% | 8.9 |
+| joey jordison drum kit | 63 | 1 | 1.59% | 9.8 |
 | joey jordison drum set 1999 | 2 | 1 | 50.00% | 6.0 |
-| john otto drum kit | 18 | 1 | 5.56% | 4.6 |
+| john otto drum kit | 21 | 1 | 4.76% | 4.8 |
 | limp bizkit drum kit | 7 | 1 | 14.29% | 6.0 |
-| mario duplantier cymbals | 8 | 1 | 12.50% | 4.4 |
 
 ### Top countries (impressions, last 7d)
 | Country | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| usa | 1,984 | 45 | 2.27% | 9.2 |
-| can | 258 | 6 | 2.33% | 9.2 |
-| fra | 117 | 6 | 5.13% | 7.1 |
-| gbr | 348 | 6 | 1.72% | 10.1 |
-| fin | 90 | 5 | 5.56% | 6.4 |
-| aut | 44 | 4 | 9.09% | 6.9 |
-| deu | 161 | 4 | 2.48% | 7.1 |
-| bra | 156 | 3 | 1.92% | 6.9 |
-| ind | 80 | 3 | 3.75% | 26.1 |
-| pol | 94 | 3 | 3.19% | 7.6 |
+| usa | 2,332 | 51 | 2.19% | 9.2 |
+| can | 299 | 10 | 3.34% | 9.1 |
+| fra | 149 | 8 | 5.37% | 7.1 |
+| gbr | 412 | 8 | 1.94% | 10.5 |
+| deu | 202 | 5 | 2.48% | 7.1 |
+| fin | 99 | 5 | 5.05% | 6.3 |
+| aus | 295 | 4 | 1.36% | 8.6 |
+| aut | 49 | 4 | 8.16% | 7.0 |
+| pol | 119 | 4 | 3.36% | 7.5 |
+| bra | 187 | 3 | 1.60% | 7.0 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 | Query | Impr | CTR | Pos | Action |
 | --- | --- | --- | --- | --- |
-| joey jordison drum kit | 61 | 1.64% | 9.8 | open issue to answer better |
+| joey jordison drum kit | 63 | 1.59% | 9.8 | open issue to answer better |
 
 ---
 *Re-run manually: `node .agents/scripts/fetch-metrics.cjs`*

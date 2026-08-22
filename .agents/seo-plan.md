@@ -5756,3 +5756,29 @@ Filed only 2 this run despite the 8-max/45-cap headroom — deliberately, per "q
 2. Continue watching for the ~08-24 L1/L2/L3 weekly refresh — 5 days overdue now, due Monday.
 3. Monday 08-24 is both the L1/L2/L3 refresh window and the next drum-chair rotation (week 35, week%4=3: pantera, periphery, sepultura, slayer, slipknot, sons-of-apollo, suicidal-tendencies, testament, tool, vader, volto per the 08-17 log) — first run that day should do both.
 4. igor-cavalera's 1993-96 cymbal brand (Zildjian K Custom vs Paiste RUDE) remains unresolved — still needs a period-specific source, don't force it.
+
+## 2026-08-22 (Saturday, later run) — audit-only: every checked lever confirmed dry or already-fine; 0 proposals filed
+
+### Bank check
+`gh issue list --state open --label seo-proposal` returned 5: #6003/#6004 (filed 02:16 UTC, already `ai-fix`-promoted per decisions-log 06:37) + 3 standing umbrellas (#3810/#3819/#2211) — true untriaged bank 0. `ai-fix` backlog 22 open, 0 open PRs. Well under the 45 cap → cleared to file up to 8 net-new. Metrics 07:23 UTC refresh: 229 users/270 sessions/446 views 7d; GSC 6,456 impr/139 clicks/2.15% CTR/pos 9.6 — sole content-gap row `joey jordison drum kit` (63 impr, 1.59% CTR), same precedented do-not-refile query (8+ prior fixes since 06-25) — held, not refiled. Today is Saturday — drum-chair Monday sweep not due (next 2026-08-24). L1/L2/L3 umbrellas still the 08-17 generation.
+
+### What was checked
+1. **L2 #2211 "not cited" cluster, 3 sub-groups** — dispatched a research agent against (A) band "who is the drummer of X" queries never cited (slipknot/tool/gojira/mastodon/pantera), (B) drummer-head-term queries never cited (jimmy-degrasso/alex-rudinger/john-longstreth/waltteri-vayrynen), (C) gsc-derived entity queries (cryptopsy/mayhem/raymond-herrera/jaska-raatikainen). Personally cross-checked its claims against file line numbers and prior-run history. **All 13 entities: duplicate-of-prior-finding or already-fine** — Group A was investigated and ruled an authority/competition gap twice before (08-12, 08-17 runs); Group B's hedge-first-FAQ bug was already fixed (#5586, closed) and 2 others were spot-checked clean 08-15; Group C's FAQ band-membership answers are already present and correct for all 4. No new format bug found anywhere in this cluster — it's genuinely mined out, not under-checked.
+2. **"bands-array-vs-FAQ tenure contradiction" lever** — flagged by a stale note (line 4974) as "only 3/72 profiles checked." Verified against this file's own history: the full remaining-69-profile sweep was actually completed 2026-08-16 (8 proposals filed that day: #5604-5611). Lever is closed, not fresh — the stale note should have been removed then and wasn't.
+3. **Dead-URL sweep, extended scope** — the 08-16 sweep only covered 5 named files (drumstickBrands/brands/snares/cymbalSetups/pedals). Found 32 more data files carry external URLs, never checked. Extracted all unique external (non-metalforge, non-YouTube) URLs: 1,289 across those 32 files, dominated by www.thomann.de (916 unique). Traced the thomann links to `genreGearGuides.js`'s per-item `affiliateLink` field (direct product URLs with `?partner_id=metalforge`) — a **third, previously-unseen affiliate-link shape**, distinct from the already-documented placeholder pattern in `affiliateLinks.js` (`THOMANN_AFFILIATE_ID = 'metaldrummergear'`, flagged not-fake-schema-safe at line 2063). Grepped every consumer of `.affiliateLink` (singular) across `App.js` and all components: **zero matches** — the field is written into the data file but never read/rendered anywhere. Dead data, zero live SEO/citation/user impact today. Not filed (nothing to fix on a page that doesn't exist yet); logging so a future run doesn't wire it into a live page without first checking whether a real Thomann affiliate account actually exists (same binding-rule-3 discipline as the 2026-07 precedent).
+4. **Strategic epics re-check** — #4767 (techniques upgrade), #4768 (techniques link graph), #4769/#4770 (drum-chair freshness), #4771 (video round 2) — all CLOSED. CLAUDE.md's "Active epics" list is stale on these; no open work here.
+5. **Audit basics**: robots.txt — all 8 AI crawlers explicitly allowed (re-confirmed). `/llms/drummers/*.md` — 72/72 (matches full `extendedBios.js` roster size, no gap). Quick Facts boxes present in `App.js` drummer-profile render.
+
+### Proposals filed this run
+None. Audit-only run per the freeze rule's own instruction ("If the bank is empty and everything above is exhausted, file nothing and say so"). Every lever checked this run either duplicated a prior finding, was already fine, or (the affiliate-link data) has no live surface to fix yet.
+
+### Open proposals waiting on CEO triage
+- #6003, #6004 (filed 08-22 02:16 UTC, already promoted to `ai-fix`)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers only.
+- Bank now 5 (0 untriaged fresh + 2 already-promoted-but-still-labeled + 3 umbrellas).
+
+### Next run
+1. Watch #6003/#6004 through CEO triage (should already be done per decisions-log).
+2. Monday 08-24: L1/L2/L3 weekly refresh + drum-chair rotation (week 35 group: pantera, periphery, sepultura, slayer, slipknot, sons-of-apollo, suicidal-tendencies, testament, tool, vader, volto) both due — first run that day should do both.
+3. If the bank needs topping up before 08-24 and no fresh GSC/L1 signal has landed, the remaining unexhausted angle is a genuinely new one, not a re-scan of A/B/C above or the tenure-contradiction lever (both now confirmed closed) — look for it in newly-added content (roster/data growth since the last full sweep) rather than re-treading this run's dead ends.
+4. igor-cavalera's 1993-96 cymbal brand (Zildjian K Custom vs Paiste RUDE) remains unresolved — still needs a period-specific source, don't force it.

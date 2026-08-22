@@ -1489,7 +1489,7 @@ export const articles = {
         {
           "category": "Pedals",
           "then": "DW 5000 Double Pedal",
-          "now": "DW 9002 Double Pedal"
+          "now": "Tama Iron Cobra Power Glide Twin Pedal"
         },
         {
           "category": "Sticks",
@@ -1853,7 +1853,7 @@ export const articles = {
         {
           "category": "Pedals",
           "then": "Pearl Eliminator Double Pedal",
-          "now": "DW 9002 Double Pedal"
+          "now": "Tama Iron Cobra Power Glide Twin Pedal"
         },
         {
           "category": "Sticks",
@@ -2226,7 +2226,7 @@ export const articles = {
         {
           "category": "Pedals",
           "then": "DW Double Pedal",
-          "now": "DW 9002 Double Pedal"
+          "now": "Tama Iron Cobra Power Glide Twin Pedal"
         },
         {
           "category": "Sticks",
@@ -2922,7 +2922,7 @@ export const articles = {
         {
           "category": "Pedals",
           "then": "DW 9000 Double Pedal",
-          "now": "DW 9002 Double Pedal"
+          "now": "Tama Iron Cobra Power Glide Twin Pedal"
         },
         {
           "category": "Sticks",
@@ -3431,7 +3431,7 @@ export const articles = {
         {
           "category": "Pedals",
           "then": "DW 9000 Double Pedal",
-          "now": "DW 9002 Double Pedal"
+          "now": "Tama Iron Cobra Power Glide Twin Pedal"
         },
         {
           "category": "Sticks",

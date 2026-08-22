@@ -5718,3 +5718,41 @@ This closes out the `albumArticles.js`-vs-`extendedBios.js`/`drummerEvolution.js
 2. If a second corroborating source for igor-cavalera's 1993-96 cymbal brand (Zildjian K Custom vs Paiste RUDE) ever surfaces, that's a quick 1-line follow-up to #5979 — don't force a guess without one.
 3. Check for roster growth (new albumArticles/extendedBios entries) before re-running the gear-fabrication sweep — the current candidate pool is exhausted.
 4. Continue watching for the ~08-24 L1/L2/L3 weekly refresh.
+
+## 2026-08-22 (Saturday) — albumArticles-vs-extendedBios vein confirmed fully drained on fresh checks; 2 new proposals from adjacent angles (Igor Cavalera post-2018 gear staleness, The Rev broken JSON-LD URL)
+
+### Bank check
+`gh issue list --state open --label seo-proposal` returned 9 at run start: #5990-5995 (filed 08-21 19:29-19:30 UTC, already promoted to `ai-fix` per decisions-log 08-22 01:07) + 3 standing umbrellas (#2211/#3810/#3819) — true untriaged bank 0. Well under the 45 cap → cleared to file up to 8 net-new. Metrics 02:09 UTC refresh: 224 users/263 sessions/438 views 7d; GSC 5,453 impr/115 clicks/2.11% CTR/pos 9.7 — sole content-gap row `joey jordison drum kit` (61 impr, 1.64% CTR), same precedented do-not-refile query (8+ prior fixes since 06-25) — held, not refiled. L1/L2/L3 umbrellas (#3810/#3819/#2211) all still the 2026-08-17 generation, unchanged for 5 days — no fresh data to action, next refresh due ~08-24. Today is Saturday — drum-chair Monday sweep not due (next 2026-08-24).
+
+### What was checked
+Last night's evening run declared the `albumArticles.js`-vs-`extendedBios.js`/`drummerEvolution.js` gear-fabrication vein's 34-slug candidate pool fully exhausted. Ran the explicitly-recommended pre-checks before treating that as settled, via a dispatched research agent whose claims were then personally re-verified with direct file reads (not taken on faith):
+
+1. **Roster growth check**: compared `albumArticles/*.js` slugs against `extendedBios.js` top-level keys. No new drummer has both an albumArticles file AND a source-of-truth entry outside the already-exhausted pool. One adjacent data-completeness gap surfaced instead (see finding 2 below): `the-rev` has an albumArticles file with `relatedDrummerSlug: 'the-rev'` but no roster profile exists (deceased, correctly excluded from the roster) — not a gear contradiction, a different bug class.
+2. **Duplicate-key sweep of ALL `*/index.js` spread-merges** under `packages/frontend/data/` (not just `albumArticles/index.js`, which #5956 already fixed for Periphery): programmatically diffed exported keys across all 75 `albumArticles/*.js` imports and all 72 `licks/*.js` imports. **Zero collisions in either** — the Periphery fix holds, and `licks/index.js` has never had this bug. Confirmed: gear-fabrication and duplicate-slug levers are both genuinely mined out.
+3. **Duplicate band+album claim sweep**: re-ran the `DRUMMER_EVOLUTION` band+album group-by across all 76 entries — zero new duplicate pairs (both known fixes, derek-roddy/Nile and travis-orbin/Periphery, confirmed still holding).
+4. **Igor Cavalera 1993-96 cymbal brand** (flagged unresolved by 2 prior runs, Zildjian K Custom vs Paiste RUDE): web research found no archived period-specific primary source for that exact 3-year window — still genuinely unresolved, not filed. But the research surfaced a much bigger, well-sourced, previously-unflagged issue: Igor Cavalera's **current** gear is stale by 8 years across every file that mentions it.
+   - Confirmed via [Blabbermouth](https://blabbermouth.net/news/former-sepultura-drummer-igor-cavalera-announces-new-drum-endorsement-with-yamaha) (dated 2018-08-23) and Yamaha's own current artist page (europe.yamaha.com) that he switched from Tama to **Yamaha Absolute Hybrid Maple** in 2018, and remains on it today.
+   - Confirmed via Zildjian's own current artist page (zildjian.com/blogs/artist/igor-cavalera, live artist listing with a specific cymbal setup) that he's currently a **Zildjian** artist, not Paiste.
+   - Every one of `drummerEvolution.js` (the "2007-Present" era bucket), `extendedBios.js` (gearHighlights + 4 FAQ answers), `drummerComparisons.js` (5 occurrences across 3 comparison pages), and `soundLikeGuides.js` (4 occurrences in the how-to guide) states Tama/Paiste as his *current* gear with zero mention of the 2018 switch. Personally verified every cited line with direct grep before filing. Filed **#6003**, explicitly scoped to drum-kit-brand + cymbal-brand only (sticks/heads unconfirmed by either source — left untouched per verified-only rule, same discipline as the gene-hoglan sticks-flag precedent).
+5. **The Rev broken JSON-LD URL** (spun out of finding 1): traced how `relatedDrummerSlug` is consumed in `api/meta/[...path].js`. Found the `ssrLinks` visible-link construction (L2652) is already correctly guarded against non-existent profiles — with a comment (`// Issue #4749`) explicitly naming `the-rev` as the reason for the guard. But the `articleSchema.about` Person-entity construction a few lines above (L2609-2621) was never given the same guard, so it unconditionally emits `url: https://metalforge.io/drummer/the-rev` — a 404 — into both of The Rev's album-article pages' structured data. Confirmed via a full dataset scan (all `albumArticles/*.js` relatedDrummerSlug values cross-checked against `extendedBios.js` roster keys) that this is the *only* such mismatch in the entire 430+ entry dataset. Filed **#6004**.
+
+### Proposals filed this run (2)
+1. **#6003** — Igor Cavalera: "current" Tama/Paiste gear is 8-years stale across 4 files (drummerEvolution/extendedBios/drummerComparisons/soundLikeGuides); verified 2018 Yamaha + current-Zildjian switch via Blabbermouth + Yamaha's + Zildjian's own artist pages.
+2. **#6004** — The Rev: `api/meta/[...path].js`'s `articleSchema.about` Person entity emits a broken `/drummer/the-rev` URL (no profile exists, deceased) on both of his album articles — the sibling `ssrLinks` guard already handles this correctly, `about` was missed.
+
+Both personally verified via direct file+line reads and external primary sources (not sub-agent claims taken on faith), dedup-checked (no existing issue touches either), freeze-compliant (zero new pages, existing-page/existing-endpoint data and code fixes only).
+
+### Note for future runs
+Filed only 2 this run despite the 8-max/45-cap headroom — deliberately, per "quality over volume." The gear-fabrication and duplicate-slug/duplicate-claim levers are now confirmed genuinely dry (not just "not re-checked"), and L1/L2/L3 haven't refreshed since 08-17. Forcing more proposals here would mean guessing or re-treading exhausted ground. The productive angle going forward is looking at *adjacent* bug classes uncovered incidentally while verifying a "closed" vein (this run found 2 that way) rather than re-scanning the same closed levers.
+
+### Open proposals waiting on CEO triage
+- #6003, #6004 (filed this run, 0d old)
+- #5990-5995 (filed 08-21 19:29-19:30 UTC, already promoted to `ai-fix` per decisions-log 08-22 01:07)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers only.
+- Bank now 11 (2 fresh + 6 already-promoted-but-still-labeled + 3 umbrellas — true untriaged: 2).
+
+### Next run
+1. Watch #6003/#6004 through CEO triage.
+2. Continue watching for the ~08-24 L1/L2/L3 weekly refresh — 5 days overdue now, due Monday.
+3. Monday 08-24 is both the L1/L2/L3 refresh window and the next drum-chair rotation (week 35, week%4=3: pantera, periphery, sepultura, slayer, slipknot, sons-of-apollo, suicidal-tendencies, testament, tool, vader, volto per the 08-17 log) — first run that day should do both.
+4. igor-cavalera's 1993-96 cymbal brand (Zildjian K Custom vs Paiste RUDE) remains unresolved — still needs a period-specific source, don't force it.

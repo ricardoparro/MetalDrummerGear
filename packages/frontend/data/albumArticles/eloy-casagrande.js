@@ -419,245 +419,6 @@ export const articles = {
       "content": "When Slipknot announced Eloy Casagrande as their new drummer in 2024, some fans wondered if anyone could fill the legacy left by Joey Jordison and Jay Weinberg. After two years of touring, the answer is clear: Eloy isn't just filling those shoes — he's walking his own path while honoring those who came before.\n\nHis gear choices reflect his philosophy: professional equipment built for reliability and projection, not exotic choices for their own sake. Tama Starclassic Bubinga drums because they deliver the attack and warmth needed for Slipknot's dense mix. Paiste RUDE cymbals because they're literally designed for aggressive, heavy hitting. Promark signature sticks because he knows exactly what he needs.\n\nBut gear is just tools. What makes Eloy the right choice for Slipknot is harder to quantify:\n\n- **The pedigree**: 13 years with Sepultura proved he could handle legendary material\n- **The recognition**: Modern Drummer's #1 metal drummer ranking validates his peers' respect\n- **The adaptability**: He plays Joey's and Jay's parts with respect while adding his own flavor\n- **The hunger**: At 33, he's still ascending, still improving, still hungry\n- **The soul**: That Brazilian swing makes technical playing feel musical\n\nFor drummers studying Eloy's work, the lessons extend beyond gear specs:\n\n1. **Respect your predecessors**: Learn the original parts before adding your touch\n2. **Groove over flash**: Technical ability means nothing without feel\n3. **Conditioning matters**: Stadium shows require athletic preparation\n4. **Stay humble**: Even as #1 ranked, keep learning and growing\n5. **Bring yourself**: Your background and influences make you unique\n\nEloy Casagrande's journey from São Paulo to Slipknot's stage represents what's possible when talent meets opportunity meets preparation. He didn't just join one of metal's biggest bands — he proved he belongs there.\n\n🤘 *\"The mask doesn't change who you are — it reveals who you've always been.\"* 🤘"
     }
   },
-  "eloy-casagrande-m72-drum-setup": {
-    "slug": "eloy-casagrande-m72-drum-setup",
-    "articleType": "drummer-kit",
-    "drummer": "Eloy Casagrande",
-    "drummerId": 7,
-    "relatedDrummerSlug": "eloy-casagrande",
-    "band": "Metallica",
-    "bands": [
-      "Metallica",
-      "Sepultura"
-    ],
-    "genre": "Thrash Metal / Heavy Metal",
-    "country": "Brazil",
-    "isAlbumArticle": true,
-    "datePublished": "2026-06-25",
-    "dateModified": "2026-06-25",
-    "author": "MetalForge Editorial",
-    "title": "Eloy Casagrande M72 Drum Setup: What He Played with Metallica on the World Tour (2023–2024)",
-    "description": "Complete breakdown of Eloy Casagrande's drum kit on Metallica's M72 World Tour: Pearl Reference Pure shells, Zildjian A Custom cymbals, Pearl Demon Drive pedals, and how it compares to his Sepultura rig.",
-    "seoKeywords": [
-      "eloy casagrande metallica drums",
-      "eloy casagrande drum kit 2023",
-      "eloy casagrande m72 setup",
-      "metallica live drummer 2023 setup",
-      "eloy casagrande pearl reference pure",
-      "eloy casagrande zildjian",
-      "metallica two drummers",
-      "eloy casagrande touring rig"
-    ],
-    "ogImage": "/images/drummers/eloy-casagrande.webp",
-    "intro": {
-      "title": "The Youngest Drummer to Play Metallica's Biggest Tour",
-      "content": "When Metallica launched the M72 World Tour in 2023 — their most ambitious live campaign in decades — they did something unprecedented: they brought in a second drummer for the largest stadium shows. That drummer was Eloy Casagrande, the Brazilian phenom who was simultaneously still powering Sepultura and building his reputation as the most technically gifted extreme metal drummer of his generation.\n\nThe M72 World Tour ran from April 2023 through November 2024, spanning five continents, over 200 shows, and setting attendance records across North America, Europe, South America, and Asia. For Metallica's flagship two-nights-per-city format — the \"No Repeat Weekend\" concept — the logistical and sonic demands were enormous. Lars Ulrich, who turned 60 during the tour, remained the band's irreplaceable rhythmic anchor, but the co-drumming arrangement on larger shows added a dimension of live power that stadium audiences felt as much as heard.\n\nEloy Casagrande was the natural choice. At just 31 when the tour launched, he had already spent 12 years driving Sepultura's thrash metal engine, mastering classic albums like \"Schizophrenia,\" \"Beneath the Remains,\" and \"Arise.\" His precision, power, and endurance were proven at the highest level. And crucially, he could handle Metallica's demanding catalog — from the galloping 16th-note patterns of \"Battery\" to the thundering double-bass of \"One\" — with the clarity and authority those songs demand at stadium scale.\n\nThis article breaks down the specific kit Eloy used during the M72 World Tour, how it differed from his Sepultura recording setup, and what makes his live configuration optimized for Metallica's unique sonic requirements.",
-      "keyPoints": [
-        "Youngest drummer to co-perform with Metallica at stadium level at age 31 (2023)",
-        "Pearl Reference Pure all-maple shells custom-wrapped in Metallica M72 branding",
-        "Pearl Demon Drive twin pedals chosen for direct-drive precision at Metallica tempos",
-        "Zildjian A Custom series replacing his Paiste RUDE setup from Sepultura",
-        "M72 World Tour ran 2023–2024: 200+ shows across five continents",
-        "Live configuration specifically optimized for stadium projection and Metallica's catalog"
-      ]
-    },
-    "drumKit": {
-      "title": "The M72 Pearl Reference Pure Rig",
-      "brand": "Pearl",
-      "model": "Reference Pure",
-      "finish": "Custom Metallica Onyx/Silver M72 World Tour wrap (exclusive livery)",
-      "config": {
-        "bassdrums": [
-          "22\" x 18\"",
-          "22\" x 18\""
-        ],
-        "toms": [
-          "10\" x 8\"",
-          "12\" x 9\"",
-          "14\" x 11\""
-        ],
-        "floorToms": [
-          "16\" x 16\"",
-          "18\" x 16\""
-        ],
-        "shells": "All-maple Reference Pure shells — Pearl SST 6-ply maple construction"
-      },
-      "description": "For the M72 World Tour, Eloy switched from his Tama endorsement setup to Pearl's Reference Pure — a 100% maple shell kit that represents Pearl's flagship acoustic drum line. The move made both practical and aesthetic sense: Pearl's Reference Pure is a widely-regarded touring instrument known for its dimensional stability across temperature and humidity extremes, essential for 200+ dates across five continents.\n\nThe Reference Pure's all-maple construction delivers the midrange punch and warm low-end that Metallica's live mix requires. Unlike hybrid shells, the pure maple construction rings freely and projects with natural authority, meaning Eloy's bass drums and toms could cut through Metallica's guitar wall without excessive post-processing.\n\nThe custom Metallica wrap — an exclusive finish developed for the M72 tour — featured the band's black-and-silver aesthetic with the M72 World Tour logo on the bass drum front heads. This visual integration was important: Metallica's production design is meticulous, and the drum kit needed to match the tour's visual identity as much as its sonic requirements.\n\nEloy's M72 configuration expanded on his Sepultura setup, adding a second floor tom (18\") for greater tonal range during Metallica's dynamic material. Songs like \"Fade to Black,\" \"The Unforgiven,\" and \"Nothing Else Matters\" require melodic tom work that rewards a wider tonal palette.",
-      "notes": [
-        "All-maple Reference Pure shells for maximum projection and warmth",
-        "Custom M72 World Tour wrap — exclusive Metallica-branded finish",
-        "Dual 22\"x18\" bass drums for Metallica's classic galloping patterns",
-        "18\" floor tom added vs Sepultura configuration for expanded tonal range",
-        "Built to withstand 200+ shows across five continents"
-      ],
-      "estimatedValue": "$8,000–12,000 (Reference Pure custom configuration)"
-    },
-    "snare": {
-      "title": "Pearl Free-Floating Steel 14\"x6.5\"",
-      "brand": "Pearl",
-      "model": "Free-Floating Steel",
-      "size": "14\" x 6.5\"",
-      "shell": "1mm steel shell with Pearl's patented Free-Floating snare system",
-      "description": "Eloy's M72 snare choice was Pearl's Free-Floating steel — a drum engineered for maximum sustain and consistent tuning stability across varying conditions. The Free-Floating system suspends the shell from independent top and bottom hoops, eliminating the contact points that can dampen natural resonance.\n\nFor Metallica's catalog, this matters enormously. The sonic signature fans identify — a punchy, defined crack that cuts through dense rhythm guitars — demands a snare that projects at stadium volume without losing character. The Free-Floating steel delivered: bright, cutting, and capable of the distinct crack that defines Metallica's live rhythmic identity.\n\nAt 14\"x6.5\" standard depth, the Free-Floating construction adds projection that deeper drums achieve through mass. Eloy tuned it medium-high — bright enough to cut through but not so tightly wound that ghost notes became impossible during the dynamic passages in Metallica's catalog.",
-      "tuningSetting": "Medium-high for punch and cut through stadium mixes",
-      "heads": "Remo Coated Ambassador batter / Remo Ambassador Snare Side resonant",
-      "estimatedValue": "$400–600"
-    },
-    "cymbals": {
-      "title": "Zildjian A Custom: Metallica's Aesthetic in Bronze",
-      "brand": "Zildjian",
-      "series": "A Custom",
-      "setup": [
-        {
-          "type": "Hi-Hats",
-          "model": "14\" A Custom Hi-Hats",
-          "position": "Left, primary",
-          "notes": "Brilliant finish, bright and cutting for Metallica's fast 16th-note hi-hat patterns"
-        },
-        {
-          "type": "Crash",
-          "model": "16\" A Custom Crash",
-          "position": "Left crash",
-          "notes": "Fast response for quick accents and transitions"
-        },
-        {
-          "type": "Crash",
-          "model": "18\" A Custom Crash",
-          "position": "Right crash",
-          "notes": "Larger wash for dramatic section endings"
-        },
-        {
-          "type": "Crash",
-          "model": "20\" A Custom Crash",
-          "position": "Far right crash",
-          "notes": "Maximum volume and sustain for peak moments"
-        },
-        {
-          "type": "Ride",
-          "model": "20\" A Custom Ride",
-          "position": "Right side",
-          "notes": "Brilliant finish ride for clear bell definition on rhythmic patterns"
-        },
-        {
-          "type": "China",
-          "model": "18\" A Custom China",
-          "position": "Left accent",
-          "notes": "Bright, cutting china for accent work and riff transitions"
-        }
-      ],
-      "description": "Switching from Paiste to Zildjian was a significant change for Eloy — his Sepultura work had been built around Paiste's RUDE and 2002 series, chosen for their raw aggression and near-indestructible build quality. The shift to Zildjian A Custom for the M72 tour reflected both the demands of Metallica's material and the brand aesthetic the band has maintained for decades.\n\nZildjian's A Custom series — with their brilliant lathed finish and medium-thin construction — deliver a different character than the RUDE: brighter, more complex overtones, faster response, and a sound that sits naturally in Metallica's sonic landscape. A Customs in particular suit the band's production signature: bell-like clarity in the highs, warmth in the mid-range, and enough body to support live stadium mixing.\n\nFor Eloy, the transition required real adaptation. Paiste RUDE cymbals reward aggressive striking with controlled aggression; Zildjian A Customs are more sensitive, rewarding dynamic variation. This sensitivity became an asset during Metallica's quieter passages — the delicate ride work in \"One\" and \"Welcome Home (Sanitarium)\" required a responsiveness that RUDE cymbals aren't optimized for.\n\nThe A Custom's brilliant finish also matched the visual requirements of Metallica's stage production. Under the M72 tour's lighting rig — one of the most elaborate in live music history — the reflective bronze surface created the visual impact that Metallica's theatrical production demanded.",
-      "estimatedValue": "$2,500–3,500 (full A Custom setup)"
-    },
-    "hardware": {
-      "title": "Pearl Demon Drive: Precision for Metallica Tempos",
-      "items": [
-        {
-          "type": "Bass Drum Pedals",
-          "brand": "Pearl",
-          "model": "Demon Drive (Direct-Drive, Twin)",
-          "notes": "Direct-drive shaft system for maximum speed and precision at Metallica tempos",
-          "description": "Pearl's Demon Drive uses a direct-drive shaft connecting the footboard to the beater, eliminating cam delay and delivering the most linear possible feel. At Metallica tempos — the galloping patterns of \"Battery\" run at 212 BPM or higher — any lag in pedal mechanism translates directly to imprecision. The Demon Drive's direct-drive eliminates that variable entirely."
-        },
-        {
-          "type": "Hi-Hat Stand",
-          "brand": "Pearl",
-          "model": "Eliminator Solo Hi-Hat Stand",
-          "notes": "Matched to Demon Drive system for consistent Pearl hardware throughout the kit",
-          "description": "The Eliminator Solo provides spring tension adjustment and smooth clutch operation essential for fast 16th-note hi-hat patterns in songs like \"Creeping Death\" and \"Master of Puppets.\""
-        },
-        {
-          "type": "Drum Throne",
-          "brand": "Pearl",
-          "model": "Roadster Drum Throne",
-          "notes": "Hydraulic tilt-adjustable for optimal position across 90+ minute sets",
-          "description": "Metallica sets run 90+ minutes. The Roadster's shock-absorbing construction and adjustable back support enable consistent playing position across marathon performances night after night."
-        },
-        {
-          "type": "Drum Sticks",
-          "brand": "Promark",
-          "model": "Eloy Casagrande Signature TX5BW",
-          "notes": "His signature stick — maintained across Sepultura, M72, and Slipknot",
-          "description": "Eloy's Promark signature sticks remained constant across all his configurations. The slightly forward balance point provides faster rebound; the reinforced wood tip maintains articulation at high velocity."
-        }
-      ],
-      "heads": {
-        "bassKick": "Remo Powerstroke 3 Coated (batter) / Remo Powerstroke 3 Clear (resonant)",
-        "toms": "Remo Emperor Coated (batter) / Remo Ambassador Clear (resonant)",
-        "snare": "Remo Coated Ambassador (batter) / Remo Ambassador Snare Side (resonant)"
-      }
-    },
-    "evolution": {
-      "title": "From Sepultura to Metallica: Two Completely Different Live Rigs",
-      "content": "The contrast between Eloy's Sepultura recording setup and his M72 live rig reveals how dramatically a drummer's configuration must adapt to different sonic demands.\n\nWith Sepultura, Eloy built his kit around Tama's Starclassic Walnut/Birch — a hybrid construction that prioritized warmth, depth, and controlled aggression. The walnut outer plies delivered a darker, focused sound perfectly suited for Sepultura's groove-heavy thrash metal. Paiste RUDE cymbals complemented this: raw, unlathed, aggressive, designed for heavy playing in dense mixes.\n\nThe M72 rig inverted almost every one of those choices. Pearl Reference Pure all-maple shells replaced the Walnut/Birch hybrid: brighter, more present, with a midrange cut that projects across Metallica's massive stage setup. Zildjian A Custom replaced Paiste RUDE: more refined, faster response, brighter overtone signature. Pearl Demon Drive direct-drive pedals replaced Tama Speed Cobra cam-drive: more linear, more precise, trading some of the Speed Cobra's physical feel for mechanical exactness at extreme tempos.\n\nThe only constants were Eloy's Promark signature sticks and his approach to double-bass technique — two independent pedals for complete foot independence, whatever the brand.\n\nThis isn't just gear trivia. It illustrates how elite drummers build context-specific rigs rather than carrying one setup everywhere. Metallica's sonic signature requires fundamentally different tools than Sepultura's. Eloy understood that and built accordingly — a hallmark of professional-level adaptability.",
-      "thenVsNow": [
-        {
-          "category": "Shells",
-          "then": "Tama Starclassic Walnut/Birch (dark, warm, focused)",
-          "now": "Pearl Reference Pure all-maple (bright, projecting, present)"
-        },
-        {
-          "category": "Cymbals",
-          "then": "Paiste RUDE (raw, aggressive, unlathed)",
-          "now": "Zildjian A Custom (refined, brilliant finish, fast response)"
-        },
-        {
-          "category": "Bass Pedals",
-          "then": "Tama Speed Cobra 910 (cam-drive, physical feel)",
-          "now": "Pearl Demon Drive (direct-drive, maximum precision)"
-        },
-        {
-          "category": "Snare",
-          "then": "Tama S.L.P. Sonic Steel (thin steel, sensitive)",
-          "now": "Pearl Free-Floating Steel (full steel, maximum projection)"
-        },
-        {
-          "category": "Sticks",
-          "then": "Promark Eloy Casagrande Signature (unchanged)",
-          "now": "Promark Eloy Casagrande Signature (unchanged)"
-        }
-      ]
-    },
-    "videos": [],
-    "relatedAlbums": [
-      "master-of-puppets-drum-setup",
-      "whats-in-eloy-casagrandes-kit"
-    ],
-    "relatedDrummers": [
-      1,
-      7
-    ],
-    "relatedArticles": [
-      "whats-in-eloy-casagrandes-kit",
-      "metallica-drum-evolution"
-    ],
-    "relatedLicks": [],
-    "faq": [
-      {
-        "question": "What drum kit does Eloy Casagrande play with Metallica?",
-        "answer": "On the M72 World Tour (2023–2024), Eloy Casagrande used a Pearl Reference Pure all-maple drum kit with a custom Metallica M72-branded wrap. The setup featured dual 22x18 inch bass drums, rack toms at 10, 12, and 14 inches, plus 16 and 18 inch floor toms. This was a significant change from his Tama Starclassic Walnut/Birch setup with Sepultura, chosen for its brighter projection at Metallica's stadium scale."
-      },
-      {
-        "question": "Why does Metallica have two drummers live?",
-        "answer": "For the M72 World Tour — Metallica's largest ever campaign spanning 200+ shows across five continents — the band incorporated a co-drumming arrangement on their largest stadium performances. Eloy Casagrande joined Lars Ulrich as a second drummer on selected shows, adding rhythmic power that matched the tour's unprecedented scale. This reflects the growing approach of large-scale metal acts using multiple percussion voices for stadium-level impact."
-      },
-      {
-        "question": "What cymbals does Eloy Casagrande use with Metallica?",
-        "answer": "Eloy Casagrande switched from Paiste RUDE cymbals to Zildjian A Custom for the M72 World Tour. His setup included 14-inch A Custom hi-hats, crashes in 16, 18, and 20 inches, a 20-inch A Custom ride, and an 18-inch A Custom china. The brilliant-finish A Customs delivered the brighter, more complex overtones suited to Metallica's sonic signature and stage production aesthetic."
-      },
-      {
-        "question": "What pedals does Eloy Casagrande use on the M72 tour?",
-        "answer": "On the M72 World Tour, Eloy Casagrande used Pearl Demon Drive direct-drive twin pedals. The Demon Drive's shaft-to-beater direct connection eliminates cam delay found in traditional pedals, delivering maximum precision at Metallica's demanding tempos. This was a change from the Tama Speed Cobra pedals he used with Sepultura."
-      },
-      {
-        "question": "How does Eloy Casagrande's M72 kit compare to his Sepultura setup?",
-        "answer": "Eloy's M72 rig was a near-complete overhaul of his Sepultura setup. He switched shells from Tama Starclassic Walnut/Birch to Pearl Reference Pure all-maple; cymbals from Paiste RUDE to Zildjian A Custom; pedals from Tama Speed Cobra to Pearl Demon Drive; and snare from Tama S.L.P. Sonic Steel to Pearl Free-Floating Steel. Only his Promark signature sticks remained unchanged. Each change was driven by the different sonic demands of Metallica's catalog and stadium-scale performance requirements."
-      }
-    ],
-    "conclusion": {
-      "title": "A Master Class in Adaptability",
-      "content": "The M72 World Tour presented Eloy Casagrande with demands unlike anything in his career. Performing alongside Lars Ulrich — one of heavy metal's most iconic drummers — in front of stadium crowds that had followed Metallica for 40 years required not just technical excellence but genuine musical wisdom.\n\nThe gear choices he made tell that story. Pearl Reference Pure shells instead of Tama Starclassic — brighter projection for an arena-filling context. Zildjian A Custom instead of Paiste RUDE — the refined tonal character of a band with four decades of sonic identity. Pearl Demon Drive instead of Tama Speed Cobra — maximum mechanical precision for some of the most technically demanding patterns in thrash metal history.\n\nBut beyond the specs, the M72 experience deepened Eloy Casagrande's profile as one of metal's most versatile drummers. He had proven himself with Sepultura across 13 years and some of the most demanding thrash metal on record. The Metallica collaboration added something different to that record: the ability to adapt, to serve a song's needs above personal preferences, and to inhabit a legendary catalog with the combination of respect and power it demands.\n\nWhen Eloy transitioned to Slipknot in 2024, he brought all of it with him — the Sepultura foundation, the Metallica education, and the accumulated knowledge of what different configurations require at different levels. He is not just a great drummer who knows how to use great gear. He is a great drummer who knows *why* great gear matters, and what specific gear each specific context demands.\n\nThat distinction — between using gear and understanding it — is what separates the truly great from the merely excellent. Eloy Casagrande's M72 rig is one of the clearest demonstrations of it in modern metal drumming."
-    }
-  },
   "machine-messiah-drum-setup": {
     "slug": "machine-messiah-drum-setup",
     "albumTitle": "Machine Messiah",
@@ -675,7 +436,7 @@ export const articles = {
     "dateModified": "2026-06-27",
     "author": "MetalForge Editorial",
     "title": "Sepultura \"Machine Messiah\" Drum Setup: Eloy Casagrande's 2017 Debut with Sepultura",
-    "description": "Eloy Casagrande's Sepultura debut — Machine Messiah (2017) drum setup breakdown. Tama Starclassic Walnut/Birch shells, Meinl Classics Custom cymbals, Iron Cobra 900 pedals. The album that introduced Eloy's double-bass precision to Sepultura's sound and launched his arc toward Metallica.",
+    "description": "Eloy Casagrande's Sepultura debut — Machine Messiah (2017) drum setup breakdown. Tama Starclassic Walnut/Birch shells, Meinl Classics Custom cymbals, Iron Cobra 900 pedals. The album that introduced Eloy's double-bass precision to Sepultura's sound early in his 13-year tenure.",
     "seoKeywords": [
       "eloy casagrande drum kit",
       "sepultura machine messiah drums",
@@ -691,7 +452,7 @@ export const articles = {
     "ogImage": "/images/albums/machine-messiah-drums.webp",
     "intro": {
       "title": "The Debut — Eloy Casagrande Enters the Sepultura Story",
-      "content": "When Sepultura released *Machine Messiah* on January 13, 2017, via Nuclear Blast, it marked a new chapter for one of heavy metal's most storied bands — and the full-time debut of one of the most gifted drummers of his generation. Eloy Casagrande, then 24 years old, stepped into the role that had defined Sepultura's rhythmic identity since the Igor Cavalera era and delivered a performance that silenced any doubts: *Machine Messiah* was not a transition album, it was a statement.\n\nEloy had joined Sepultura in 2011 at the age of 19, working through the *The Mediator Between Head and Hands Must Be the Heart* cycle (2013) before *Machine Messiah* became his definitive first major document with the band. Recorded at Fascination Street Studios in Örebro, Sweden — the same studio that would capture *Quadra* three years later — and produced by Jens Bogren, the album placed Eloy's drumming in a world-class recording environment from his earliest full-length Sepultura work.\n\n*Machine Messiah* debuted at number one in Brazil and charted across Europe, including Germany — validating Sepultura's continued relevance and putting Eloy's playing in front of an international metal audience for the first time at full album scale. Tracks like \"Phantom Self\" and \"Iceberg Dances\" became the early showcases of his precision blast-beat technique and polyrhythmic sensibility, establishing the stylistic identity he would refine through *Quadra* and ultimately export to Metallica's M72 World Tour stage in 2023.\n\nHis gear for the album: a Tama Starclassic Walnut/Birch kit, Meinl Classics Custom cymbals, and Tama Iron Cobra 900 pedals — a Brazilian prodigy's professional setup refined for world-stage recording. This article breaks down every element of that configuration and the context in which Eloy deployed it.",
+      "content": "When Sepultura released *Machine Messiah* on January 13, 2017, via Nuclear Blast, it marked a new chapter for one of heavy metal's most storied bands — and the full-time debut of one of the most gifted drummers of his generation. Eloy Casagrande, then 24 years old, stepped into the role that had defined Sepultura's rhythmic identity since the Igor Cavalera era and delivered a performance that silenced any doubts: *Machine Messiah* was not a transition album, it was a statement.\n\nEloy had joined Sepultura in 2011 at the age of 19, working through the *The Mediator Between Head and Hands Must Be the Heart* cycle (2013) before *Machine Messiah* became his definitive first major document with the band. Recorded at Fascination Street Studios in Örebro, Sweden — the same studio that would capture *Quadra* three years later — and produced by Jens Bogren, the album placed Eloy's drumming in a world-class recording environment from his earliest full-length Sepultura work.\n\n*Machine Messiah* debuted at number one in Brazil and charted across Europe, including Germany — validating Sepultura's continued relevance and putting Eloy's playing in front of an international metal audience for the first time at full album scale. Tracks like \"Phantom Self\" and \"Iceberg Dances\" became the early showcases of his precision blast-beat technique and polyrhythmic sensibility, establishing the stylistic identity he would refine through *Quadra* and ultimately bring to Slipknot's stage in 2024.\n\nHis gear for the album: a Tama Starclassic Walnut/Birch kit, Meinl Classics Custom cymbals, and Tama Iron Cobra 900 pedals — a Brazilian prodigy's professional setup refined for world-stage recording. This article breaks down every element of that configuration and the context in which Eloy deployed it.",
       "keyPoints": [
         "Released January 13, 2017 — Eloy Casagrande's debut as Sepultura's full-time recording drummer",
         "Produced by Jens Bogren at Fascination Street Studios, Örebro, Sweden",
@@ -699,7 +460,7 @@ export const articles = {
         "Tama Starclassic Walnut/Birch kit — Eloy's primary setup at the start of his Sepultura recording career",
         "\"Phantom Self\" and \"Iceberg Dances\" introduced Eloy's blast-beat precision and polyrhythm style",
         "Tama Iron Cobra 900 pedals powering his independent double-bass approach",
-        "The foundation album of the arc: Machine Messiah (2017) → Quadra (2020) → Metallica M72 (2023)"
+        "The foundation album of the arc: Machine Messiah (2017) → Quadra (2020) → Slipknot (2024)"
       ]
     },
     "drumKit": {
@@ -868,27 +629,27 @@ export const articles = {
     ],
     "evolution": {
       "title": "Machine Messiah to Quadra: Three Years of Refinement",
-      "content": "*Machine Messiah* (2017) is the opening chapter of the arc that ends with Metallica's M72 World Tour (2023). The gear Eloy used to record this album — Tama Starclassic Walnut/Birch, Meinl Classics Custom, Iron Cobra 900 — represents his professional foundation, the setup of a 24-year-old who had already mastered his instrument but had not yet reached the peak recorded performance he would deliver on *Quadra*.\n\n**The Gear Evolution:**\nBy *Quadra* (2020), Eloy had transitioned to Pearl Master Maple Reserve shells and upgraded from Meinl Classics Custom to Meinl Byzance Traditional — a move from B10 alloy to premium B20 bronze, prioritizing warmth and tonal complexity over the brightness that suited *Machine Messiah*'s more direct thrash approach. The pedals shifted from Iron Cobra 900 to Tama Speed Cobra for even lighter footboard response. These changes reflected both career growth and the sonic demands of *Quadra*'s more compositionally ambitious material.\n\n**The Sepultura Arc:**\n*Machine Messiah* sits precisely between Sepultura's pre-Eloy catalog — documented in the [Schizophrenia drum setup](/articles/schizophrenia-drum-setup) (Igor Cavalera era) — and the definitive Eloy statement of [Quadra (2020)](/articles/quadra-drum-setup). It is the debut, the proof of concept, the album that established Eloy's voice within a band that had already defined thrash metal for three decades. Everything that followed — Quadra, the Metallica invitation, the M72 World Tour — traces back to what Eloy demonstrated here.",
+      "content": "*Machine Messiah* (2017) is the opening chapter of Eloy's documented Sepultura tenure. The gear Eloy used to record this album — Tama Starclassic Walnut/Birch, Meinl Classics Custom, Iron Cobra 900 — represents his professional foundation, the setup of a 24-year-old who had already mastered his instrument but had not yet reached the peak recorded performance he would deliver on *Quadra*.\n\n**The Gear Evolution:**\nBy *Quadra* (2020), Eloy had transitioned to Pearl Master Maple Reserve shells and upgraded from Meinl Classics Custom to Meinl Byzance Traditional — a move from B10 alloy to premium B20 bronze, prioritizing warmth and tonal complexity over the brightness that suited *Machine Messiah*'s more direct thrash approach. The pedals shifted from Iron Cobra 900 to Tama Speed Cobra for even lighter footboard response. These changes reflected both career growth and the sonic demands of *Quadra*'s more compositionally ambitious material.\n\n**The Sepultura Arc:**\n*Machine Messiah* sits precisely between Sepultura's pre-Eloy catalog — documented in the [Schizophrenia drum setup](/articles/schizophrenia-drum-setup) (Igor Cavalera era) — and the definitive Eloy statement of [Quadra (2020)](/articles/quadra-drum-setup). It is the debut, the proof of concept, the album that established Eloy's voice within a band that had already defined thrash metal for three decades. Everything that followed — Quadra, and eventually his 2024 move to Slipknot — traces back to what Eloy demonstrated here.",
       "thenVsNow": [
         {
           "category": "Kit",
           "then": "Tama Starclassic Walnut/Birch (Machine Messiah, 2017)",
-          "now": "Pearl Master Maple Reserve (Quadra, 2020) / Pearl Reference Pure (Metallica M72, 2023)"
+          "now": "Pearl Master Maple Reserve (Quadra, 2020)"
         },
         {
           "category": "Cymbals",
           "then": "Meinl Classics Custom B10 alloy (Machine Messiah)",
-          "now": "Meinl Byzance Traditional B20 (Quadra) / Zildjian A Custom (M72)"
+          "now": "Meinl Byzance Traditional B20 (Quadra)"
         },
         {
           "category": "Pedals",
           "then": "Tama Iron Cobra 900 x2 (Machine Messiah)",
-          "now": "Tama Speed Cobra x2 (Quadra) / Pearl Demon Drive twin (M72)"
+          "now": "Tama Speed Cobra x2 (Quadra)"
         },
         {
           "category": "Career context",
           "then": "Sepultura debut — 24-year-old São Paulo prodigy",
-          "now": "Metallica / Slipknot — metal's biggest stages"
+          "now": "Sepultura's most in-demand extreme metal drummer — ahead of his 2024 move to Slipknot"
         }
       ]
     },
@@ -906,8 +667,7 @@ export const articles = {
     "videos": [],
     "relatedAlbums": [
       "the-mediator-between-head-and-hands-drum-setup",
-      "quadra-drum-setup",
-      "eloy-casagrande-m72-drum-setup"
+      "quadra-drum-setup"
     ],
     "relatedDrummers": [
       7
@@ -915,8 +675,7 @@ export const articles = {
     "relatedArticles": [
       "whats-in-eloy-casagrandes-kit",
       "the-mediator-between-head-and-hands-drum-setup",
-      "quadra-drum-setup",
-      "eloy-casagrande-m72-drum-setup"
+      "quadra-drum-setup"
     ],
     "relatedLicks": [],
     "practiceGuide": {
@@ -930,7 +689,7 @@ export const articles = {
       },
       {
         "question": "When did Eloy Casagrande join Sepultura?",
-        "answer": "Eloy Casagrande joined Sepultura in 2011 at the age of 19, replacing Jean Dolabella. Machine Messiah (2017) was his first major full-length studio recording with the band as its established full-time drummer. He remained with Sepultura until 2023, when he departed to join Metallica's M72 World Tour. His complete Sepultura discography spans Machine Messiah (2017) through Quadra (2020), with Machine Messiah serving as the definitive opening statement of his tenure."
+        "answer": "Eloy Casagrande joined Sepultura in 2011 at the age of 19, replacing Jean Dolabella. Machine Messiah (2017) was his first major full-length studio recording with the band as its established full-time drummer. He remained with Sepultura until 2024, when he departed to join Slipknot. His complete Sepultura discography spans Machine Messiah (2017) through Quadra (2020), with Machine Messiah serving as the definitive opening statement of his tenure."
       },
       {
         "question": "What is Eloy Casagrande's drum setup on Machine Messiah?",
@@ -942,12 +701,12 @@ export const articles = {
       },
       {
         "question": "What tracks on Machine Messiah best showcase Eloy Casagrande's drumming?",
-        "answer": "\"Phantom Self\" (the lead single) is the primary showcase of Eloy's blast-beat precision and sustained double-bass speed at high tempos. \"Iceberg Dances\" demonstrates his polyrhythmic intelligence — overlapping metric layers that go beyond typical thrash execution. Both tracks appear on Machine Messiah (Nuclear Blast, January 2017) and represent the earliest major recorded evidence of the technical vocabulary Eloy would develop further on Quadra (2020) and bring to Metallica's M72 World Tour (2023)."
+        "answer": "\"Phantom Self\" (the lead single) is the primary showcase of Eloy's blast-beat precision and sustained double-bass speed at high tempos. \"Iceberg Dances\" demonstrates his polyrhythmic intelligence — overlapping metric layers that go beyond typical thrash execution. Both tracks appear on Machine Messiah (Nuclear Blast, January 2017) and represent the earliest major recorded evidence of the technical vocabulary Eloy would develop further on Quadra (2020) and bring to Slipknot from 2024 onward."
       }
     ],
     "conclusion": {
       "title": "Machine Messiah: Where the Eloy Casagrande Story Begins",
-      "content": "*Machine Messiah* is where the Eloy Casagrande story begins — not as a teenager sitting in for a legendary drummer, but as a 24-year-old professional who had fully claimed his role in one of metal's most historically significant bands. The Tama Starclassic Walnut/Birch, the Meinl Classics Custom cymbals, the Iron Cobra 900 pedals: this was the setup of a drummer announcing himself to the world.\n\n**The Debut as Foundation:**\nEverything that followed in Eloy's career — the gear evolution to *Quadra*'s Pearl Master Maple Reserve, the Metallica invitation, the M72 World Tour, the Slipknot chapter — traces back to what *Machine Messiah* established. This is the album where a Brazilian prodigy became Sepultura's drummer on record. For the complete Eloy arc, see the [Eloy Casagrande drummer profile](/drummer/eloy-casagrande), the [Quadra drum setup breakdown](/articles/quadra-drum-setup), and the [Eloy Casagrande M72 drum setup](/articles/eloy-casagrande-m72-drum-setup).\n\n**The Sepultura Arc:**\n*Machine Messiah* sits in the center of Sepultura's documented history on MetalForge: the Igor Cavalera era is covered in [Schizophrenia](/articles/schizophrenia-drum-setup) and the classic albums; the Eloy peak is documented in [Quadra (2020)](/articles/quadra-drum-setup). This article fills the gap — the debut, the foundation, the start of the arc that would bring Sepultura's drummer to the world's biggest metal stages.\n\n*Machine Messiah. Where it began.* 🤘"
+      "content": "*Machine Messiah* is where the Eloy Casagrande story begins — not as a teenager sitting in for a legendary drummer, but as a 24-year-old professional who had fully claimed his role in one of metal's most historically significant bands. The Tama Starclassic Walnut/Birch, the Meinl Classics Custom cymbals, the Iron Cobra 900 pedals: this was the setup of a drummer announcing himself to the world.\n\n**The Debut as Foundation:**\nEverything that followed in Eloy's career — the gear evolution to *Quadra*'s Pearl Master Maple Reserve, and eventually the Slipknot chapter — traces back to what *Machine Messiah* established. This is the album where a Brazilian prodigy became Sepultura's drummer on record. For the complete Eloy arc, see the [Eloy Casagrande drummer profile](/drummer/eloy-casagrande) and the [Quadra drum setup breakdown](/articles/quadra-drum-setup).\n\n**The Sepultura Arc:**\n*Machine Messiah* sits in the center of Sepultura's documented history on MetalForge: the Igor Cavalera era is covered in [Schizophrenia](/articles/schizophrenia-drum-setup) and the classic albums; the Eloy peak is documented in [Quadra (2020)](/articles/quadra-drum-setup). This article fills the gap — the debut, the foundation, the start of the arc that would bring Sepultura's drummer to the world's biggest metal stages.\n\n*Machine Messiah. Where it began.* 🤘"
     }
   },
   "quadra-drum-setup": {
@@ -966,8 +725,8 @@ export const articles = {
     "datePublished": "2026-06-26",
     "dateModified": "2020-02-07",
     "author": "MetalForge Editorial",
-    "title": "Sepultura \"Quadra\" Drum Setup: Eloy Casagrande's 2020 Peak (Before Metallica)",
-    "description": "Eloy Casagrande's definitive Sepultura statement — Quadra (2020) drum setup breakdown. Pearl Master Maple Reserve shells, Meinl Byzance cymbals, Mapex Black Panther snare. The double-concept album that showcased Eloy at his Sepultura peak — and caught Metallica's attention.",
+    "title": "Sepultura \"Quadra\" Drum Setup: Eloy Casagrande's 2020 Peak (Before Slipknot)",
+    "description": "Eloy Casagrande's definitive Sepultura statement — Quadra (2020) drum setup breakdown. Pearl Master Maple Reserve shells, Meinl Byzance cymbals, Mapex Black Panther snare. The double-concept album that showcased Eloy at his Sepultura peak, four years before his 2024 move to Slipknot.",
     "seoKeywords": [
       "eloy casagrande drum kit",
       "sepultura quadra drums",
@@ -976,14 +735,14 @@ export const articles = {
       "eloy casagrande pearl master maple",
       "eloy casagrande meinl byzance",
       "sepultura 2020 drums",
-      "eloy casagrande before metallica",
+      "eloy casagrande before slipknot",
       "quadra sepultura gear",
       "eloy casagrande mapex black panther"
     ],
     "ogImage": "/images/albums/quadra-drums.webp",
     "intro": {
       "title": "The Sepultura Peak — Before the World Came Calling",
-      "content": "When Sepultura released *Quadra* on February 7, 2020, nobody knew it would be the album that put Eloy Casagrande on Metallica's radar. It was simply the most ambitious record Sepultura had made in years — a sprawling double-concept album split into four philosophical \"quadrants,\" each exploring a different stage of human existence. What made it landmark for drum fans was what Eloy Casagrande delivered across 40+ minutes of technically demanding, conceptually driven modern metal: the finest recorded performance of his Sepultura career.\n\nProduced by Jens Bogren at Fascination Street Studios in Örebro, Sweden — the same studio responsible for landmark productions by Opeth, Arch Enemy, and Amon Amarth — *Quadra* gave Eloy's drumming a sonic sophistication rarely achieved in Sepultura's back catalog. Bogren's production philosophy emphasizes clarity, dynamics, and the natural character of instruments in acoustic spaces. For Eloy's Pearl Master Maple Reserve kit, this meant a drum sound with warmth, depth, and definition: not the compressed, brutal drum wall of classic thrash production, but a modern, nuanced sound that served the album's compositional ambitions.\n\nThe album's \"quadrant\" concept — childhood, adolescence, adulthood, and elderhood drawn from Greco-Roman philosophy — imposed structural demands on the arrangements that Eloy met with the full range of his technical and musical vocabulary. Blistering double-bass passages power the thrash quadrants; restrained, dynamic grooves anchor the more reflective sections. The result is a record that makes you hear Eloy's drumming as expression rather than mere execution.\n\nThree years later, Metallica called. Eloy joined the M72 World Tour in 2023, becoming the youngest drummer ever to perform with the band at stadium scale. *Quadra* — the album that proved his ceiling — was the reason. This article breaks down every piece of gear Eloy used to record this landmark album, the recording environment Jens Bogren created at Fascination Street, and the technical approach that made *Quadra* Eloy Casagrande's definitive Sepultura statement.",
+      "content": "When Sepultura released *Quadra* on February 7, 2020, it was simply the most ambitious record Sepultura had made in years — a sprawling double-concept album split into four philosophical \"quadrants,\" each exploring a different stage of human existence. What made it landmark for drum fans was what Eloy Casagrande delivered across 40+ minutes of technically demanding, conceptually driven modern metal: the finest recorded performance of his Sepultura career.\n\nProduced by Jens Bogren at Fascination Street Studios in Örebro, Sweden — the same studio responsible for landmark productions by Opeth, Arch Enemy, and Amon Amarth — *Quadra* gave Eloy's drumming a sonic sophistication rarely achieved in Sepultura's back catalog. Bogren's production philosophy emphasizes clarity, dynamics, and the natural character of instruments in acoustic spaces. For Eloy's Pearl Master Maple Reserve kit, this meant a drum sound with warmth, depth, and definition: not the compressed, brutal drum wall of classic thrash production, but a modern, nuanced sound that served the album's compositional ambitions.\n\nThe album's \"quadrant\" concept — childhood, adolescence, adulthood, and elderhood drawn from Greco-Roman philosophy — imposed structural demands on the arrangements that Eloy met with the full range of his technical and musical vocabulary. Blistering double-bass passages power the thrash quadrants; restrained, dynamic grooves anchor the more reflective sections. The result is a record that makes you hear Eloy's drumming as expression rather than mere execution.\n\n*Quadra* would prove to be Eloy's last full Sepultura studio album — he departed the band in 2024 to join Slipknot. This article breaks down every piece of gear Eloy used to record this landmark album, the recording environment Jens Bogren created at Fascination Street, and the technical approach that made *Quadra* Eloy Casagrande's definitive Sepultura statement.",
       "keyPoints": [
         "Released February 7, 2020 — Sepultura's 15th studio album and Eloy's most technically ambitious recorded performance",
         "Produced by Jens Bogren at Fascination Street Studios, Örebro, Sweden",
@@ -991,7 +750,7 @@ export const articles = {
         "Pearl Master Maple Reserve kit — Eloy's primary Sepultura era endorsement setup",
         "Meinl Byzance cymbals provided warm, complex overtones suited to the album's dynamics",
         "Mapex Black Panther snare: the signature crack that defines Eloy's Sepultura-era sound",
-        "The performance that prompted Metallica to recruit Eloy for the 2023 M72 World Tour"
+        "Eloy's last full studio album with Sepultura before his 2024 move to Slipknot"
       ]
     },
     "drumKit": {
@@ -1028,7 +787,7 @@ export const articles = {
       "model": "Black Panther Versatus",
       "size": "14\" x 5.5\"",
       "shell": "Maple/Walnut hybrid shell",
-      "description": "Eloy Casagrande's snare on *Quadra* was the Mapex Black Panther — a drum that became the signature of his Sepultura sound and one of the most recognizable elements of his playing identity during this era. The Black Panther series' hybrid shell construction (maple/walnut on many models) delivers a unique combination of maple's warmth and walnut's focused punch, producing a snare that cuts through dense guitar arrangements without becoming harsh or fatiguing.\n\nFor the *Quadra* sessions, the Black Panther's character served the album's range of demands. On the record's heaviest, fastest passages — where Eloy's snare needs to deliver authoritative, precise backbeats at extreme tempos — the drum's focused attack and clear crack provided the rhythmic anchor that holds the arrangement together. On the more dynamic, compositionally sophisticated sections, the drum's warmth and body allowed for ghost note sensitivity and dynamic gradation that a brighter, thinner snare would have denied.\n\nJens Bogren's production approach at Fascination Street captured the Black Panther's full character. The drum was tuned at medium-high tension — bright enough to cut through the mix at full band volume, but not so tight that ghost note sensitivity was sacrificed. The result is a snare sound that works across *Quadra*'s entire dynamic spectrum: equally authoritative in \"Isolation\"'s thrash passages and nuanced in the record's more reflective moments.\n\nThis snare, more than any single piece of gear, is what Metallica heard when they listened to *Quadra*. The crack at the top of the mix — present, defined, and rhythmically authoritative — is the sound of a drummer who had fully mastered his instrument.",
+      "description": "Eloy Casagrande's snare on *Quadra* was the Mapex Black Panther — a drum that became the signature of his Sepultura sound and one of the most recognizable elements of his playing identity during this era. The Black Panther series' hybrid shell construction (maple/walnut on many models) delivers a unique combination of maple's warmth and walnut's focused punch, producing a snare that cuts through dense guitar arrangements without becoming harsh or fatiguing.\n\nFor the *Quadra* sessions, the Black Panther's character served the album's range of demands. On the record's heaviest, fastest passages — where Eloy's snare needs to deliver authoritative, precise backbeats at extreme tempos — the drum's focused attack and clear crack provided the rhythmic anchor that holds the arrangement together. On the more dynamic, compositionally sophisticated sections, the drum's warmth and body allowed for ghost note sensitivity and dynamic gradation that a brighter, thinner snare would have denied.\n\nJens Bogren's production approach at Fascination Street captured the Black Panther's full character. The drum was tuned at medium-high tension — bright enough to cut through the mix at full band volume, but not so tight that ghost note sensitivity was sacrificed. The result is a snare sound that works across *Quadra*'s entire dynamic spectrum: equally authoritative in \"Isolation\"'s thrash passages and nuanced in the record's more reflective moments.\n\nThis snare, more than any single piece of gear, defined the sound fans associate with Eloy's Sepultura peak. The crack at the top of the mix — present, defined, and rhythmically authoritative — is the sound of a drummer who had fully mastered his instrument.",
       "tuningSetting": "Medium-high for cut and definition across tempo range",
       "heads": "Remo Coated Ambassador (batter), Remo Ambassador Snare Side (resonant)",
       "estimatedValue": "$400-550 (2020)"
@@ -1182,38 +941,38 @@ export const articles = {
     ],
     "evolution": {
       "title": "From Machine Messiah to Quadra: Eloy's Sepultura Arc Peaks",
-      "content": "*Quadra* (2020) represents the culmination of Eloy Casagrande's Sepultura career — nine albums of relentless touring and recording that turned a 19-year-old São Paulo prodigy into the most in-demand extreme metal drummer of his generation. The gear evolution between his earliest Sepultura albums and *Quadra* mirrors his musical growth: the same conceptual approach refined to professional maturity.\n\n**The Pearl Foundation:**\nThroughout his Sepultura tenure, Eloy maintained his Pearl endorsement, progressing through the brand's professional lines as his career profile grew. By *Quadra*, the Pearl Master Maple Reserve represented the apex of his Sepultura recording setup — a professional instrument perfectly matched to Bogren's production environment and the album's compositional demands.\n\n**Meinl Byzance as Sonic Identity:**\nEloy's choice of Meinl Byzance cymbals defined his Sepultura-era tonal identity. The Byzance line's warm, complex B20 character — so different from the aggressive, bright alternatives often favored in thrash production — reflected Eloy's musical ambitions within extreme metal. He wanted his cymbals to speak, not just cut.\n\n**The Mapex Black Panther Signature:**\nThe Black Panther snare became so closely associated with Eloy's Sepultura sound that it functioned almost as a sonic signature. The drum's crack on *Quadra* is immediately recognizable to any fan who heard Eloy live during these years. When he moved to the Pearl Free-Floating Steel for the M72 World Tour, the contrast was deliberately jarring: same hands, completely different voice.\n\n**What Came Next — The M72 World Tour (2023):**\nThe entire *Quadra* setup was replaced when Eloy joined Metallica's M72 World Tour in 2023. Pearl Reference Pure replaced the Master Maple Reserve; Zildjian A Custom replaced Meinl Byzance; Pearl Free-Floating Steel replaced the Mapex Black Panther. The complete gear transformation mirrored the career transformation — from Sepultura's thrash-metal laboratory to metal's largest stage. But the player who impressed Metallica enough to invite him was the same player who made *Quadra*. See the [Eloy Casagrande M72 drum setup](/articles/eloy-casagrande-m72-drum-setup) for the full post-Sepultura gear breakdown.",
+      "content": "*Quadra* (2020) represents the culmination of Eloy Casagrande's Sepultura career — nine albums of relentless touring and recording that turned a 19-year-old São Paulo prodigy into the most in-demand extreme metal drummer of his generation. The gear evolution between his earliest Sepultura albums and *Quadra* mirrors his musical growth: the same conceptual approach refined to professional maturity.\n\n**The Pearl Foundation:**\nThroughout his Sepultura tenure, Eloy maintained his Pearl endorsement, progressing through the brand's professional lines as his career profile grew. By *Quadra*, the Pearl Master Maple Reserve represented the apex of his Sepultura recording setup — a professional instrument perfectly matched to Bogren's production environment and the album's compositional demands.\n\n**Meinl Byzance as Sonic Identity:**\nEloy's choice of Meinl Byzance cymbals defined his Sepultura-era tonal identity. The Byzance line's warm, complex B20 character — so different from the aggressive, bright alternatives often favored in thrash production — reflected Eloy's musical ambitions within extreme metal. He wanted his cymbals to speak, not just cut.\n\n**The Mapex Black Panther Signature:**\nThe Black Panther snare became so closely associated with Eloy's Sepultura sound that it functioned almost as a sonic signature. The drum's crack on *Quadra* is immediately recognizable to any fan who heard Eloy live during these years.\n\n**What Came Next — Slipknot (2024):**\nThe entire *Quadra* setup was replaced when Eloy joined Slipknot in 2024. Tama Starclassic Bubinga replaced the Pearl Master Maple Reserve; Paiste RUDE replaced Meinl Byzance; Tama S.L.P. Sonic Steel replaced the Mapex Black Panther. The complete gear transformation mirrored the career transformation — from Sepultura's thrash-metal laboratory to Slipknot's theatrical stage. See the [What's In Eloy Casagrande's Kit](/articles/whats-in-eloy-casagrandes-kit) breakdown for the full post-Sepultura gear picture.",
       "thenVsNow": [
         {
           "category": "Kit",
           "then": "Pearl Master Maple Reserve (Sepultura / Quadra, 2020)",
-          "now": "Pearl Reference Pure (Metallica M72, 2023) / Tama Starclassic Bubinga (Slipknot, 2024)"
+          "now": "Tama Starclassic Bubinga (Slipknot, 2024)"
         },
         {
           "category": "Snare",
           "then": "Mapex Black Panther 14\" (Sepultura era signature)",
-          "now": "Pearl Free-Floating Steel 14\"x6.5\" (M72) / Tama S.L.P. Sonic Steel (Slipknot)"
+          "now": "Tama S.L.P. Sonic Steel (Slipknot)"
         },
         {
           "category": "Cymbals",
           "then": "Meinl Byzance Traditional (Sepultura era)",
-          "now": "Zildjian A Custom (M72) / Paiste RUDE (Slipknot)"
+          "now": "Paiste RUDE (Slipknot)"
         },
         {
           "category": "Pedals",
           "then": "Tama Speed Cobra HP310LW x2 (Sepultura)",
-          "now": "Pearl Demon Drive twin (M72) / Tama Speed Cobra x2 (Slipknot)"
+          "now": "Tama Speed Cobra x2 (Slipknot)"
         },
         {
           "category": "Career context",
           "then": "Sepultura — 13-year thrash metal veteran",
-          "now": "Metallica / Slipknot — metal's biggest stages"
+          "now": "Slipknot — metal's biggest theatrical stage"
         }
       ]
     },
     "technicalAnalysis": {
-      "title": "Eloy's Quadra Technique: The Blueprint Metallica Noticed",
-      "content": "On *Quadra*, Eloy Casagrande played with a technical authority and musical intelligence that elevated the album above typical extreme metal production. The specific technical attributes that Jens Bogren's production captured — and that Metallica eventually heard — can be identified and studied in every track.\n\n**Independent Double-Bass at Sustained Tempos:**\n*Quadra*'s most demanding passages require sustained double-bass at 180-200+ BPM without degradation of evenness or volume. Eloy's twin Speed Cobra setup and his developed ankle-driven heel-up technique made this possible: the mechanical advantage of independent pedals, combined with years of conditioning, allowed him to execute these passages throughout entire songs — not just brief showcase sections.\n\n**Four-Limb Independence:**\nThroughout *Quadra*, Eloy maintains complex coordination across all four limbs simultaneously. Hi-hat foot patterns continue during fill sequences. Bass drum patterns continue during cymbal accents. Snare patterns continue during tom runs. This four-limb independence — developed through years of intense Sepultura live performance — is the fundamental technical foundation beneath everything else on the record.\n\n**Ghost Note Integration:**\nOne of the most striking technical elements on *Quadra* is Eloy's integration of ghost notes into grooves that would be purely aggressive in other players' hands. The Byzance Traditional hi-hats' sensitivity and Bogren's dynamic-preserving production philosophy allowed these subtle strokes to remain audible in the mix, adding rhythmic texture that lifts the grooves beyond simple thrash patterns.\n\n**Musical Fill Placement:**\nAt the technical level Eloy operates, fills can easily become exercises in speed for its own sake. On *Quadra*, every fill serves the arrangement: positioned at structural boundaries, shaped to transition between sections, and calibrated to the dynamic level of the surrounding music. This is the musical intelligence that separated Eloy from technically equivalent drummers — and that made him the right choice for Metallica's demanding catalog.",
+      "title": "Eloy's Quadra Technique: The Sepultura Peak",
+      "content": "On *Quadra*, Eloy Casagrande played with a technical authority and musical intelligence that elevated the album above typical extreme metal production. The specific technical attributes that Jens Bogren's production captured can be identified and studied in every track.\n\n**Independent Double-Bass at Sustained Tempos:**\n*Quadra*'s most demanding passages require sustained double-bass at 180-200+ BPM without degradation of evenness or volume. Eloy's twin Speed Cobra setup and his developed ankle-driven heel-up technique made this possible: the mechanical advantage of independent pedals, combined with years of conditioning, allowed him to execute these passages throughout entire songs — not just brief showcase sections.\n\n**Four-Limb Independence:**\nThroughout *Quadra*, Eloy maintains complex coordination across all four limbs simultaneously. Hi-hat foot patterns continue during fill sequences. Bass drum patterns continue during cymbal accents. Snare patterns continue during tom runs. This four-limb independence — developed through years of intense Sepultura live performance — is the fundamental technical foundation beneath everything else on the record.\n\n**Ghost Note Integration:**\nOne of the most striking technical elements on *Quadra* is Eloy's integration of ghost notes into grooves that would be purely aggressive in other players' hands. The Byzance Traditional hi-hats' sensitivity and Bogren's dynamic-preserving production philosophy allowed these subtle strokes to remain audible in the mix, adding rhythmic texture that lifts the grooves beyond simple thrash patterns.\n\n**Musical Fill Placement:**\nAt the technical level Eloy operates, fills can easily become exercises in speed for its own sake. On *Quadra*, every fill serves the arrangement: positioned at structural boundaries, shaped to transition between sections, and calibrated to the dynamic level of the surrounding music. This is the musical intelligence that separated Eloy from technically equivalent drummers throughout his Sepultura tenure.",
       "keyTechniques": [
         "Independent twin-pedal double-bass at sustained 180-200+ BPM",
         "Four-limb independence: all limbs executing independent patterns simultaneously",
@@ -1226,7 +985,6 @@ export const articles = {
     "videos": [],
     "relatedAlbums": [
       "the-mediator-between-head-and-hands-drum-setup",
-      "eloy-casagrande-m72-drum-setup",
       "arise-drum-setup",
       "beneath-the-remains-drum-setup"
     ],
@@ -1238,7 +996,6 @@ export const articles = {
     "relatedArticles": [
       "whats-in-eloy-casagrandes-kit",
       "the-mediator-between-head-and-hands-drum-setup",
-      "eloy-casagrande-m72-drum-setup",
       "brazilian-metal-drummers"
     ],
     "relatedLicks": [],
@@ -1252,8 +1009,8 @@ export const articles = {
         "answer": "Eloy Casagrande recorded Quadra (2020) using a Pearl Master Maple Reserve kit — Pearl's professional pure maple series that was his primary Sepultura-era endorsement setup. His configuration included twin 22\"x18\" bass drums for independent double-kick, 10\", 12\", and 14\" rack toms, and a 16\" floor tom. His snare was the Mapex Black Panther, the drum most associated with his Sepultura sound, and his cymbals were Meinl Byzance Traditional series. The album was recorded at Fascination Street Studios in Örebro, Sweden, produced by Jens Bogren."
       },
       {
-        "question": "Is Quadra Eloy Casagrande's last Sepultura album before joining Metallica?",
-        "answer": "Yes — Quadra (2020) is the last full Sepultura studio album Eloy Casagrande recorded before his departure from the band in 2023. Eloy joined Metallica's M72 World Tour as a co-drummer in 2023 — the same year he announced his Sepultura exit after 13 years with the band. Quadra is therefore the definitive document of his Sepultura career at its peak, recorded just three years before Metallica recruited him for one of the most high-profile drummer roles in modern metal history. His Metallica M72 setup (Pearl Reference Pure, Zildjian A Custom, Pearl Free-Floating Steel) represented a complete gear overhaul from the Quadra configuration."
+        "question": "Is Quadra Eloy Casagrande's last Sepultura album?",
+        "answer": "Yes — Quadra (2020) is the last full Sepultura studio album Eloy Casagrande recorded before his departure from the band in 2024. Quadra is therefore the definitive document of his Sepultura career at its peak, recorded four years before he joined Slipknot. His Slipknot setup (Tama Starclassic Bubinga, Paiste RUDE, Tama S.L.P. Sonic Steel) represented a complete gear overhaul from the Quadra configuration."
       },
       {
         "question": "What cymbals did Eloy Casagrande use on Quadra?",
@@ -1261,16 +1018,16 @@ export const articles = {
       },
       {
         "question": "Why is Quadra considered Eloy Casagrande's best Sepultura performance?",
-        "answer": "Quadra (2020) is considered Eloy Casagrande's finest recorded Sepultura performance for several reasons: the production by Jens Bogren at Fascination Street Studios captured his playing with greater dynamic range and sonic sophistication than earlier albums; the album's double-concept structure demanded a wider musical vocabulary than pure thrash — from sustained double-bass aggression to dynamic, ghost-note-rich groove passages; and Eloy was at peak conditioning after 9 years with the band. The album's technical complexity, musical intelligence, and world-class production represent everything Eloy had developed since joining Sepultura in 2011. It's the performance that reportedly caught Metallica's attention, leading to his invitation to join the M72 World Tour in 2023."
+        "answer": "Quadra (2020) is considered Eloy Casagrande's finest recorded Sepultura performance for several reasons: the production by Jens Bogren at Fascination Street Studios captured his playing with greater dynamic range and sonic sophistication than earlier albums; the album's double-concept structure demanded a wider musical vocabulary than pure thrash — from sustained double-bass aggression to dynamic, ghost-note-rich groove passages; and Eloy was at peak conditioning after 9 years with the band. The album's technical complexity, musical intelligence, and world-class production represent everything Eloy had developed since joining Sepultura in 2011 — the peak recorded statement of his 13-year run with the band, four years before he joined Slipknot in 2024."
       },
       {
-        "question": "How does Eloy's Quadra setup compare to his Metallica M72 setup?",
-        "answer": "The contrast is complete: Eloy's Quadra setup (Pearl Master Maple Reserve, Mapex Black Panther snare, Meinl Byzance cymbals) was entirely replaced for the M72 World Tour. Metallica's kit became Pearl Reference Pure shells with custom M72 World Tour wrap; the snare became Pearl Free-Floating Steel (14\"x6.5\"); the cymbals switched from Meinl Byzance to Zildjian A Custom; and the pedals changed from Tama Speed Cobra to Pearl Demon Drive twin pedals. The gear transformation mirrored the career transformation — from Sepultura's recording studio to stadium shows across five continents. See the full breakdown at the [Eloy Casagrande M72 drum setup](/articles/eloy-casagrande-m72-drum-setup) article."
+        "question": "How does Eloy's Quadra setup compare to his Slipknot setup?",
+        "answer": "The contrast is complete: Eloy's Quadra setup (Pearl Master Maple Reserve, Mapex Black Panther snare, Meinl Byzance cymbals) was entirely replaced when he joined Slipknot in 2024. The kit became Tama Starclassic Bubinga shells; the snare became Tama S.L.P. Sonic Steel; and the cymbals switched from Meinl Byzance to Paiste RUDE. The gear transformation mirrored the career transformation — from Sepultura's recording studio to Slipknot's masked stage show. See the full breakdown at the [What's In Eloy Casagrande's Kit](/articles/whats-in-eloy-casagrandes-kit) article."
       }
     ],
     "conclusion": {
-      "title": "Quadra: The Origin Story of Metal's Most In-Demand Drummer",
-      "content": "*Quadra* stands as the definitive document of Eloy Casagrande's Sepultura career — a record that proved his ceiling at the exact moment the metal world was paying attention. The Pearl Master Maple Reserve shells, the Meinl Byzance cymbals, the Mapex Black Panther snare: this was the setup of a world-class drummer who had earned his equipment through 9 years of relentless performance with one of metal's most demanding bands.\n\n**The Gear as Portrait:**\nEvery gear choice on *Quadra* reflects Eloy's musical identity during his Sepultura peak. The warm, resonant Pearl maple shells suited Jens Bogren's dynamic production philosophy. The Meinl Byzance series brought tonal complexity to a genre that often settles for raw impact. The Mapex Black Panther delivered the signature crack that metal fans heard from front-row and festival distance alike. Together, these instruments captured a drummer in complete mastery of his context.\n\n**The Origin Story:**\nWhen Metallica came calling in 2023, they were recruiting the drummer they had heard on *Quadra* — not just the technical facility, but the musical intelligence that made the album more than a thrash performance. The M72 World Tour brought new gear, new context, and an audience of 70,000 per night. But the player they chose was the one who had made *Quadra*. For a complete view of Eloy Casagrande's evolution, explore the [Eloy Casagrande drummer profile](/drummer/eloy-casagrande) and the [M72 World Tour drum setup breakdown](/articles/eloy-casagrande-m72-drum-setup).\n\n**The Sepultura Cluster:**\n*Quadra* connects to MetalForge's full Sepultura documentation: the Igor Cavalera era is covered in [Beneath the Remains](/articles/beneath-the-remains-drum-setup) and [Arise](/articles/arise-drum-setup). Eloy's complete Sepultura-to-Metallica arc — and his current Slipknot setup — is covered in the [What's In Eloy Casagrande's Kit](/articles/whats-in-eloy-casagrandes-kit) breakdown.\n\n*Quadra. The last Sepultura album. The origin story.* 🤘"
+      "title": "Quadra: Eloy Casagrande's Sepultura Peak",
+      "content": "*Quadra* stands as the definitive document of Eloy Casagrande's Sepultura career — a record that proved his ceiling at the exact moment the metal world was paying attention. The Pearl Master Maple Reserve shells, the Meinl Byzance cymbals, the Mapex Black Panther snare: this was the setup of a world-class drummer who had earned his equipment through 9 years of relentless performance with one of metal's most demanding bands.\n\n**The Gear as Portrait:**\nEvery gear choice on *Quadra* reflects Eloy's musical identity during his Sepultura peak. The warm, resonant Pearl maple shells suited Jens Bogren's dynamic production philosophy. The Meinl Byzance series brought tonal complexity to a genre that often settles for raw impact. The Mapex Black Panther delivered the signature crack that metal fans heard from front-row and festival distance alike. Together, these instruments captured a drummer in complete mastery of his context.\n\n**What Came After:**\nFour years after *Quadra*, in 2024, Eloy departed Sepultura to join Slipknot — a completely different sonic and visual context, trading the Pearl/Meinl/Mapex setup that defined his Sepultura sound for Tama Starclassic Bubinga, Paiste RUDE, and Tama S.L.P. Sonic Steel. For a complete view of Eloy Casagrande's evolution, explore the [Eloy Casagrande drummer profile](/drummer/eloy-casagrande) and the [What's In Eloy Casagrande's Kit](/articles/whats-in-eloy-casagrandes-kit) breakdown.\n\n**The Sepultura Cluster:**\n*Quadra* connects to MetalForge's full Sepultura documentation: the Igor Cavalera era is covered in [Beneath the Remains](/articles/beneath-the-remains-drum-setup) and [Arise](/articles/arise-drum-setup).\n\n*Quadra. The last Sepultura album. The origin story.* 🤘"
     }
   },
   "the-mediator-between-head-and-hands-drum-setup": {
@@ -1477,7 +1234,7 @@ export const articles = {
     ],
     "evolution": {
       "title": "The Mediator to Machine Messiah: Four Years, A New Foundation",
-      "content": "*The Mediator Between Head and Hands Must Be the Heart* (2013) is the true opening chapter of the Eloy Casagrande story — the album that exists before the arc most fans know, which begins with *Machine Messiah* (2017). The gear Eloy used here — Tama Starclassic Bubinga, Paiste RUDE/2002, Tama Iron Cobra — was his first professional, endorsement-level setup, earned at 21 years old on the strength of raw talent rather than a decade of proven results.\n\n**The Gear Evolution:**\nBy *Machine Messiah* (2017), Eloy had moved to the Tama Starclassic Walnut/Birch series and switched cymbals from Paiste RUDE/2002 to Meinl Classics Custom — trading raw, unlathed brightness for a more controlled, B10-alloy cutting tone suited to Jens Bogren's production at Fascination Street Studios. The production environment changed just as dramatically: Ross Robinson's live-take, minimal-overdub Venice sessions gave way to Bogren's meticulous, dynamically-preserving Swedish studio process.\n\n**The Sepultura Arc:**\n*The Mediator* sits before *Machine Messiah* (2017) and *Quadra* (2020) in Sepultura's documented Eloy Casagrande era — the debut before the debut most fans remember. It is the album where a 19-year-old who joined the band in 2011 became, at 21, a recorded member of one of thrash metal's defining bands. Everything that followed — the *Machine Messiah* statement, the *Quadra* peak, the Metallica invitation, the Slipknot chapter — traces back to the raw performance captured in Venice, California in June 2013.",
+      "content": "*The Mediator Between Head and Hands Must Be the Heart* (2013) is the true opening chapter of the Eloy Casagrande story — the album that exists before the arc most fans know, which begins with *Machine Messiah* (2017). The gear Eloy used here — Tama Starclassic Bubinga, Paiste RUDE/2002, Tama Iron Cobra — was his first professional, endorsement-level setup, earned at 21 years old on the strength of raw talent rather than a decade of proven results.\n\n**The Gear Evolution:**\nBy *Machine Messiah* (2017), Eloy had moved to the Tama Starclassic Walnut/Birch series and switched cymbals from Paiste RUDE/2002 to Meinl Classics Custom — trading raw, unlathed brightness for a more controlled, B10-alloy cutting tone suited to Jens Bogren's production at Fascination Street Studios. The production environment changed just as dramatically: Ross Robinson's live-take, minimal-overdub Venice sessions gave way to Bogren's meticulous, dynamically-preserving Swedish studio process.\n\n**The Sepultura Arc:**\n*The Mediator* sits before *Machine Messiah* (2017) and *Quadra* (2020) in Sepultura's documented Eloy Casagrande era — the debut before the debut most fans remember. It is the album where a 19-year-old who joined the band in 2011 became, at 21, a recorded member of one of thrash metal's defining bands. Everything that followed — the *Machine Messiah* statement, the *Quadra* peak, and eventually the Slipknot chapter — traces back to the raw performance captured in Venice, California in June 2013.",
       "thenVsNow": [
         {
           "category": "Kit",
@@ -1497,7 +1254,7 @@ export const articles = {
         {
           "category": "Career context",
           "then": "Sepultura recording debut — 21-year-old prodigy, first endorsement deal",
-          "now": "Metallica / Slipknot — metal's biggest stages"
+          "now": "Slipknot — metal's biggest theatrical stage"
         }
       ]
     },
@@ -1549,7 +1306,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "The Mediator: Where the Eloy Casagrande Arc Truly Begins",
-      "content": "*The Mediator Between Head and Hands Must Be the Heart* is the real beginning of the Eloy Casagrande story — four years before *Machine Messiah* introduced him to a wider international audience. The Tama Starclassic Bubinga, the Paiste RUDE and 2002 cymbals, the Tama Iron Cobra pedals: this was the setup of a 21-year-old who had just been trusted with one of thrash metal's most important rhythmic chairs, recording under one of metal production's most demanding, confrontational producers.\n\n**The Debut Before the Debut:**\nEverything that followed in Eloy's career — the polish of *Machine Messiah*, the peak of *Quadra*, the Metallica invitation, the Slipknot chapter — traces back to the raw, unguarded performance captured in Ross Robinson's Venice studio in June 2013. For the complete Eloy arc, see the [Eloy Casagrande drummer profile](/drummer/eloy-casagrande), the [Machine Messiah drum setup breakdown](/articles/machine-messiah-drum-setup), and the [Quadra drum setup breakdown](/articles/quadra-drum-setup).\n\n**The Sepultura Arc:**\n*The Mediator* opens the documented Eloy Casagrande era on MetalForge — the debut that precedes [Machine Messiah (2017)](/articles/machine-messiah-drum-setup) and [Quadra (2020)](/articles/quadra-drum-setup), and the foundation for everything that carried Sepultura's drummer to Metallica's stadium stages and Slipknot's masked chaos.\n\n*The Mediator. Where the arc truly begins.* 🤘"
+      "content": "*The Mediator Between Head and Hands Must Be the Heart* is the real beginning of the Eloy Casagrande story — four years before *Machine Messiah* introduced him to a wider international audience. The Tama Starclassic Bubinga, the Paiste RUDE and 2002 cymbals, the Tama Iron Cobra pedals: this was the setup of a 21-year-old who had just been trusted with one of thrash metal's most important rhythmic chairs, recording under one of metal production's most demanding, confrontational producers.\n\n**The Debut Before the Debut:**\nEverything that followed in Eloy's career — the polish of *Machine Messiah*, the peak of *Quadra*, the Slipknot chapter — traces back to the raw, unguarded performance captured in Ross Robinson's Venice studio in June 2013. For the complete Eloy arc, see the [Eloy Casagrande drummer profile](/drummer/eloy-casagrande), the [Machine Messiah drum setup breakdown](/articles/machine-messiah-drum-setup), and the [Quadra drum setup breakdown](/articles/quadra-drum-setup).\n\n**The Sepultura Arc:**\n*The Mediator* opens the documented Eloy Casagrande era on MetalForge — the debut that precedes [Machine Messiah (2017)](/articles/machine-messiah-drum-setup) and [Quadra (2020)](/articles/quadra-drum-setup), and the foundation for everything that carried Sepultura's drummer to Slipknot's masked stage.\n\n*The Mediator. Where the arc truly begins.* 🤘"
     }
   }
 };

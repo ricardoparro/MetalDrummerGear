@@ -3769,13 +3769,13 @@ export const articles = {
     "dateModified": "2026-07-01",
     "author": "MetalForge Editorial",
     "title": "Lars Ulrich's Drum Setup on Metallica's 72 Seasons (2023)",
-    "description": "Full gear breakdown for Metallica's 72 Seasons (2023) — Lars Ulrich's Tama Starclassic Maple kit, signature Tama snare, Zildjian A Custom cymbals, and why this is his last studio album before Eloy Casagrande joined as live drummer.",
+    "description": "Full gear breakdown for Metallica's 72 Seasons (2023) — Lars Ulrich's Tama Starclassic Maple kit, signature Tama snare, Zildjian A Custom cymbals, and how the setup carried into the M72 World Tour that followed.",
     "seoKeywords": [
       "metallica 72 seasons drummer",
       "lars ulrich 2023 drum setup",
       "72 seasons drum setup",
       "lars ulrich tama starclassic maple",
-      "metallica last album before eloy",
+      "lars ulrich m72 world tour",
       "lars ulrich last studio album",
       "72 seasons drum sound",
       "lars ulrich signature snare"
@@ -3783,13 +3783,13 @@ export const articles = {
     "ogImage": "/images/albums/72-seasons-drums.webp",
     "intro": {
       "title": "Closing the Loop: Metallica's Return to Thrash Roots",
-      "content": "Released on April 14, 2023, \"72 Seasons\" is Metallica's eleventh studio album and, to date, the band's most recent full-length recording. The title refers to the first 18 years of a person's life — \"72 seasons\" — and the formative experiences that shape an adult's entire outlook. Musically, the album leaned back into the sustained aggression and extended song structures of the band's thrash-era catalog, with tracks like the title cut and \"Room of Mirrors\" built around galloping, high-tempo patterns that recall the \"...And Justice for All\" era more than anything Metallica had released since.\n\n72 Seasons debuted at number one in more than 30 countries and reached number two on the Billboard 200 in the United States, underscoring Metallica's continued standing as the most commercially dominant band in metal decades into its career. Produced by longtime collaborator Greg Fidelman at Metallica's own HQ studio in San Rafael, California, the album was tracked between March 2021 and November 2022 — sessions that took place almost entirely during and immediately after the band's pandemic-era hiatus from touring.\n\nFor Lars Ulrich, 72 Seasons carries a significance that only became clear after the fact: it is his most recent studio recording with Metallica. In October 2023, months after the album's release, Brazilian drummer Eloy Casagrande — formerly of Sepultura — joined Metallica's M72 World Tour as a live co-drummer for the band's largest stadium shows. That arrangement makes 72 Seasons the last Metallica studio album recorded entirely by Lars alone before the Eloy era of Metallica's live show began, a detail that has become a common reference point for fans and search queries alike: \"who plays drums for Metallica now?\" almost always resolves back to Lars Ulrich as the band's sole studio drummer, with Eloy's role confined to select live dates.\n\nThis article covers the gear Lars used to record 72 Seasons, how it compares to the M72 touring rig, and why this album marks a meaningful endpoint in the Lars Ulrich story.",
+      "content": "Released on April 14, 2023, \"72 Seasons\" is Metallica's eleventh studio album and, to date, the band's most recent full-length recording. The title refers to the first 18 years of a person's life — \"72 seasons\" — and the formative experiences that shape an adult's entire outlook. Musically, the album leaned back into the sustained aggression and extended song structures of the band's thrash-era catalog, with tracks like the title cut and \"Room of Mirrors\" built around galloping, high-tempo patterns that recall the \"...And Justice for All\" era more than anything Metallica had released since.\n\n72 Seasons debuted at number one in more than 30 countries and reached number two on the Billboard 200 in the United States, underscoring Metallica's continued standing as the most commercially dominant band in metal decades into its career. Produced by longtime collaborator Greg Fidelman at Metallica's own HQ studio in San Rafael, California, the album was tracked between March 2021 and November 2022 — sessions that took place almost entirely during and immediately after the band's pandemic-era hiatus from touring.\n\nFor Lars Ulrich, 72 Seasons carries a significance that only became clear after the fact: it is his most recent studio recording with Metallica to date. Six months after its release, the M72 World Tour (2023-2025) took the album's material to stadiums worldwide, with Lars — Metallica's sole drummer throughout — performing behind a striking four-kit staging setup positioned around the tour's 360-degree stage.\n\nThis article covers the gear Lars used to record 72 Seasons, how it compares to the M72 touring rig, and why this album marks a meaningful moment in the Lars Ulrich story.",
       "keyPoints": [
         "Metallica's most recent studio album — released April 14, 2023",
         "Debuted #1 in more than 30 countries, #2 on the Billboard 200",
         "Recorded at Metallica's own HQ studio in San Rafael, CA with producer Greg Fidelman",
         "Return to thrash-influenced songwriting and tempos after Hardwired's more varied approach",
-        "Lars Ulrich's last studio album before Eloy Casagrande joined as M72 live co-drummer in October 2023",
+        "Followed six months later by the M72 World Tour (2023-2025), performed entirely by Lars",
         "Gear setup essentially unchanged from the Hardwired era: Tama Starclassic Maple, signature snare, Zildjian A Custom"
       ]
     },
@@ -3812,7 +3812,7 @@ export const articles = {
         ],
         "shells": "All-maple shells with StarCast Mounting System"
       },
-      "description": "For 72 Seasons, Lars Ulrich recorded on the Tama Starclassic Maple kit that has been his primary studio setup since the Hardwired... to Self-Destruct sessions — a warmer, more resonant alternative to the Starclassic Birch he used on Death Magnetic. The all-maple shells favor low-end depth and sustain over the birch kit's forward attack, giving 72 Seasons a fuller, rounder low end even on the album's fastest, most thrash-influenced tracks.\n\nThe configuration is Lars's long-standing compact setup: a single 22\" bass drum run with a double pedal, 10\" and 12\" rack toms, and 14\" and 16\" floor toms. This is essentially the same core kit Lars has used across every album since Death Magnetic, reflecting a drummer who long ago settled on a configuration that serves the whole Metallica catalog rather than chasing a different setup per record.\n\nGreg Fidelman's production on 72 Seasons emphasizes a big, present low end — the kick drum on the title track and \"You Must Burn!\" sits noticeably deep in the mix, supporting galloping patterns played at tempos that rival the band's 1980s output. The maple shell's natural warmth gave Fidelman a foundation that needed less EQ sculpting to sit well against Hetfield's heavily downtuned rhythm guitars.\n\nNotably, this is the same core drum kit configuration Lars used on the M72 World Tour that followed the album's release, and it closely mirrors the Pearl-based rig documented for Eloy Casagrande's [M72 live setup](/articles/eloy-casagrande-m72-drum-setup) — both drummers converged on similar maple-forward tonal choices for the tour, even while running different manufacturers.",
+      "description": "For 72 Seasons, Lars Ulrich recorded on the Tama Starclassic Maple kit that has been his primary studio setup since the Hardwired... to Self-Destruct sessions — a warmer, more resonant alternative to the Starclassic Birch he used on Death Magnetic. The all-maple shells favor low-end depth and sustain over the birch kit's forward attack, giving 72 Seasons a fuller, rounder low end even on the album's fastest, most thrash-influenced tracks.\n\nThe configuration is Lars's long-standing compact setup: a single 22\" bass drum run with a double pedal, 10\" and 12\" rack toms, and 14\" and 16\" floor toms. This is essentially the same core kit Lars has used across every album since Death Magnetic, reflecting a drummer who long ago settled on a configuration that serves the whole Metallica catalog rather than chasing a different setup per record.\n\nGreg Fidelman's production on 72 Seasons emphasizes a big, present low end — the kick drum on the title track and \"You Must Burn!\" sits noticeably deep in the mix, supporting galloping patterns played at tempos that rival the band's 1980s output. The maple shell's natural warmth gave Fidelman a foundation that needed less EQ sculpting to sit well against Hetfield's heavily downtuned rhythm guitars.\n\nNotably, this is the same core drum kit configuration Lars used on the M72 World Tour that followed the album's release — the tour's distinctive four-kit staging, positioned around the 360-degree stage, was Lars performing on multiple identical setups rather than a change in drummer or gear philosophy.",
       "notes": [
         "All-maple Starclassic shells for depth and sustain vs. the brighter Death Magnetic birch kit",
         "Same compact configuration Lars has used since Death Magnetic — single kick, two rack toms, two floor toms",
@@ -3909,7 +3909,7 @@ export const articles = {
     },
     "evolution": {
       "title": "72 Seasons and the End of the Solo-Studio Era",
-      "content": "72 Seasons sits at a quiet but historically significant point in Lars Ulrich's gear and career timeline — it is the last Metallica studio album recorded before Eloy Casagrande joined the band's live show as a second drummer on the M72 World Tour.\n\n**The gear itself barely changed.** Lars's setup on 72 Seasons — Tama Starclassic Maple, the LU1465 signature snare, Zildjian A Custom cymbals, Iron Cobra pedals, Ahead signature sticks — is nearly identical to what he used on Hardwired... to Self-Destruct in 2016 and carries forward the choices established on Death Magnetic in 2008. What changed instead was the context surrounding the album's release.\n\n**The Eloy Casagrande arrangement.** In October 2023, Metallica confirmed that Sepultura's Eloy Casagrande would join the M72 World Tour as a co-drummer for the tour's largest stadium dates, playing alongside Lars rather than replacing him. This was an unprecedented arrangement for a band built so closely around its four core members. It did not signal a lineup change — Lars remains Metallica's sole studio drummer — but it made 72 Seasons a de facto dividing line: everything before it is \"solo Lars,\" and everything on the largest M72 stages afterward includes Eloy in a supporting live role. For the specifics of that live rig, see [Eloy Casagrande's M72 drum setup](/articles/eloy-casagrande-m72-drum-setup).\n\n**Why this matters for the catalog.** 72 Seasons closes the loop on Metallica's studio arc that this site has documented from Kill 'Em All through Death Magnetic and the Black Album — the same drummer, on largely the same gear philosophy he settled into in the mid-2000s, still recording new full-length Metallica material more than 40 years into the band's career.",
+      "content": "72 Seasons sits at a quiet but notable point in Lars Ulrich's gear and career timeline — it is, to date, the most recent Metallica studio album, released as the band entered its fifth decade together.\n\n**The gear itself barely changed.** Lars's setup on 72 Seasons — Tama Starclassic Maple, the LU1465 signature snare, Zildjian A Custom cymbals, Iron Cobra pedals, Ahead signature sticks — is nearly identical to what he used on Hardwired... to Self-Destruct in 2016 and carries forward the choices established on Death Magnetic in 2008. What changed instead was the context surrounding the album's release.\n\n**The M72 World Tour.** Six months after the album's release, the M72 World Tour (2023-2025) brought 72 Seasons to stadiums worldwide on a two-nights-per-city format with distinct setlists. Lars remained Metallica's sole drummer throughout, performing behind the tour's distinctive four-kit staging setup arranged around its 360-degree stage — a staging choice, not a second drummer.\n\n**Why this matters for the catalog.** 72 Seasons closes the loop on Metallica's studio arc that this site has documented from Kill 'Em All through Death Magnetic and the Black Album — the same drummer, on largely the same gear philosophy he settled into in the mid-2000s, still recording new full-length Metallica material more than 40 years into the band's career.",
       "thenVsNow": [
         {
           "category": "Kit",
@@ -3934,7 +3934,7 @@ export const articles = {
         {
           "category": "Live drummer status",
           "then": "Sole drummer, studio and live",
-          "now": "Sole studio drummer; Eloy Casagrande joins as M72 live co-drummer (Oct. 2023)"
+          "now": "Sole studio and touring drummer throughout the M72 World Tour (2023-2025)"
         }
       ]
     },
@@ -3947,12 +3947,10 @@ export const articles = {
     ],
     "relatedAlbums": [
       "death-magnetic-drum-setup",
-      "black-album-drum-setup",
-      "eloy-casagrande-m72-drum-setup"
+      "black-album-drum-setup"
     ],
     "relatedDrummers": [
-      1,
-      7
+      1
     ],
     "relatedArticles": [
       "whats-in-lars-ulrichs-kit",
@@ -3967,11 +3965,11 @@ export const articles = {
       },
       {
         "question": "Is 72 Seasons Lars Ulrich's last Metallica album?",
-        "answer": "72 Seasons (2023) is Metallica's most recent studio album and, as of this writing, Lars Ulrich's last studio recording with the band. It is not his last album as Metallica's drummer — he remains the band's sole studio drummer. What makes 72 Seasons a notable dividing line is that it was released before Eloy Casagrande joined Metallica's M72 World Tour as a live co-drummer for the tour's largest stadium shows starting in October 2023. Lars continues to record and tour with Metallica; 72 Seasons is simply the most recent studio full-length in the catalog."
+        "answer": "72 Seasons (2023) is Metallica's most recent studio album to date, and Lars Ulrich remains the band's sole studio and touring drummer. Six months after the album's release, Lars took the material out on the M72 World Tour (2023-2025), performing every date himself. 72 Seasons is simply the most recent studio full-length in the catalog — there is no lineup change associated with it."
       },
       {
-        "question": "Why did Metallica add a second drummer after 72 Seasons?",
-        "answer": "In October 2023, Metallica brought in Eloy Casagrande — the former Sepultura drummer — as a co-drummer for select, larger-scale shows on the M72 World Tour. The arrangement was designed to add live power on the tour's biggest stadium dates rather than to replace Lars Ulrich, who remained Metallica's sole studio drummer throughout and continued performing on every date of the tour. The move came after 72 Seasons had already been recorded and released, which is why the album is commonly referenced as Lars's last studio work before the Eloy era of Metallica's live show began."
+        "question": "Why does Metallica's M72 World Tour use four drum kits?",
+        "answer": "The M72 World Tour's 360-degree \"in the round\" stage put fans on all sides of the band, so Metallica built four identical drum kits positioned around the stage rather than a single rotating riser. Lars Ulrich explained the setup was purely about sightlines and staging logistics for the stadium-in-the-round format — all four kits are his, and he is the only drummer on every date of the tour."
       },
       {
         "question": "How does the 72 Seasons drum sound compare to Death Magnetic?",
@@ -3984,7 +3982,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "72 Seasons: The Studio Chapter Closes (For Now)",
-      "content": "72 Seasons doesn't represent a dramatic gear shift for Lars Ulrich — quite the opposite. The Tama Starclassic Maple kit, LU1465 signature snare, Zildjian A Custom cymbals, and Iron Cobra pedals are the same core rig he has trusted since settling into his modern sound around Death Magnetic in 2008. What makes this album significant isn't a new piece of gear; it's the moment in time it occupies.\n\nReleased in April 2023 to commercial numbers that would be the envy of bands a fraction of Metallica's age — number one in more than 30 countries, number two on the Billboard 200 — 72 Seasons proved the band's commercial and creative relevance undiminished more than four decades into its career. Then, six months later, Metallica made the unprecedented move of adding Eloy Casagrande as a live co-drummer for the M72 World Tour's biggest shows, turning 72 Seasons into an inadvertent dividing line in the band's drumming history: the last studio album recorded before that arrangement began.\n\nFor drummers and fans tracing the full arc of Metallica's studio sound, 72 Seasons closes the loop that started with [Kill 'Em All](/articles/kill-em-all-drum-setup) in 1983 and ran through [Master of Puppets](/articles/master-of-puppets-drum-setup), [the Black Album](/articles/black-album-drum-setup), and [Death Magnetic](/articles/death-magnetic-drum-setup). And for the live-rig counterpart to this studio story, see [Eloy Casagrande's M72 drum setup](/articles/eloy-casagrande-m72-drum-setup) — the two articles together tell the complete story of Metallica's drums in the 2023-2024 era. The full career context lives at the [Lars Ulrich drummer profile](/drummer/lars-ulrich).\n\n🥁 *Tama Starclassic Maple, HQ San Rafael, 2021-2022 — Lars Ulrich's most recent studio chapter.* 🥁"
+      "content": "72 Seasons doesn't represent a dramatic gear shift for Lars Ulrich — quite the opposite. The Tama Starclassic Maple kit, LU1465 signature snare, Zildjian A Custom cymbals, and Iron Cobra pedals are the same core rig he has trusted since settling into his modern sound around Death Magnetic in 2008. What makes this album significant isn't a new piece of gear; it's the moment in time it occupies.\n\nReleased in April 2023 to commercial numbers that would be the envy of bands a fraction of Metallica's age — number one in more than 30 countries, number two on the Billboard 200 — 72 Seasons proved the band's commercial and creative relevance undiminished more than four decades into its career. Six months later, Lars took the album on the road for the M72 World Tour (2023-2025), performing every date himself behind the tour's distinctive four-kit, 360-degree staging.\n\nFor drummers and fans tracing the full arc of Metallica's studio sound, 72 Seasons closes the loop that started with [Kill 'Em All](/articles/kill-em-all-drum-setup) in 1983 and ran through [Master of Puppets](/articles/master-of-puppets-drum-setup), [the Black Album](/articles/black-album-drum-setup), and [Death Magnetic](/articles/death-magnetic-drum-setup). The full career context lives at the [Lars Ulrich drummer profile](/drummer/lars-ulrich).\n\n🥁 *Tama Starclassic Maple, HQ San Rafael, 2021-2022 — Lars Ulrich's most recent studio chapter.* 🥁"
     }
   }
 };

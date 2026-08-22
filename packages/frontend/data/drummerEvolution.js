@@ -3297,11 +3297,11 @@ export const DRUMMER_EVOLUTION = {
 
       {
         id: 'cavalera-2007-cavalera-conspiracy',
-        era: 'Cavalera Conspiracy & Modern Era',
-        years: '2007-Present',
+        era: 'Cavalera Conspiracy Era',
+        years: '2007-2018',
         startYear: 2007,
-        endYear: 2026,
-        description: 'After leaving Sepultura in 2006, Igor reunites with brother Max to form Cavalera Conspiracy — channeling the raw aggression of early Sepultura through a polished modern setup. One of the most celebrated rhythm sections in extreme metal continues.',
+        endYear: 2018,
+        description: 'After leaving Sepultura in 2006, Igor reunites with brother Max to form Cavalera Conspiracy — channeling the raw aggression of early Sepultura through a polished modern setup.',
         albums: ['Inflikted (2008)', 'Blunt Force Trauma (2011)', 'Pandemonium (2014)', 'Bestial Devastation (2023)'],
         tours: ['Cavalera Conspiracy World Tours', 'Return to Roots Anniversary Tour'],
         image: null,
@@ -3363,6 +3363,74 @@ export const DRUMMER_EVOLUTION = {
           text: "Playing with Max again is like going back to the source. Cavalera Conspiracy is what Sepultura was always meant to be.",
           source: 'Metal Hammer Interview, 2008',
         },
+
+        videos: [],
+      },
+
+      {
+        id: 'cavalera-2018-yamaha-zildjian',
+        era: 'Yamaha & Zildjian Era',
+        years: '2018-Present',
+        startYear: 2018,
+        endYear: 2026,
+        description: 'Igor announces a new drum endorsement with Yamaha in August 2018, moving off Tama, and switches his cymbal setup to Zildjian — the gear he continues to play with Cavalera Conspiracy and Return to Roots into the present day.',
+        albums: ['Bestial Devastation (2023)'],
+        tours: ['Cavalera Conspiracy World Tours', 'Return to Roots Anniversary Tour'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Yamaha Absolute Hybrid Maple',
+            details: 'Two 20" kicks, 14" snare, Pink Champagne Sparkle finish, Yamaha hardware (pedals/stands/hi-hat/boom arms)',
+            notes: 'New Yamaha endorsement announced August 2018 — his current stage and studio kit',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          snare: {
+            item: 'Yamaha Absolute Hybrid Maple 14"',
+            details: 'Yamaha maple snare matching the Absolute Hybrid Maple kit',
+            notes: 'Part of the 2018 Yamaha endorsement switch',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          cymbals: {
+            item: 'Zildjian',
+            details: '14" hi-hats, 18"/19" crashes, 18" China, 20" ride, zbell',
+            notes: 'Current Zildjian artist, moving off Paiste',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          hardware: {
+            item: 'Tama Iron Cobra double pedal',
+            details: 'Adjustable cam system for customized feel',
+            notes: 'Tama Iron Cobra powers his double bass drive',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          sticks: {
+            item: 'Vic Firth American Classic 5B',
+            details: 'Continued Vic Firth endorsement',
+            notes: 'Maintained Vic Firth loyalty throughout the modern era',
+            change: null,
+          },
+          heads: {
+            item: 'Evans G2 / EMAD',
+            details: 'G2 on toms, EMAD on bass drums',
+            notes: 'Evans for the focused, punchy sound of modern extreme metal',
+            change: CHANGE_TYPES.SWITCH,
+          },
+        },
+
+        estimatedCost: {
+          original: 20000,
+          inflationAdjusted: 20000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'New drum endorsement with Yamaha announced (August 2018)',
+          'Switched to Yamaha Absolute Hybrid Maple kit',
+          'Switched cymbal endorsement to Zildjian',
+          'Continues with Cavalera Conspiracy and Return to Roots tours',
+        ],
+
+        quote: null,
 
         videos: [],
       },

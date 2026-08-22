@@ -5782,3 +5782,39 @@ None. Audit-only run per the freeze rule's own instruction ("If the bank is empt
 2. Monday 08-24: L1/L2/L3 weekly refresh + drum-chair rotation (week 35 group: pantera, periphery, sepultura, slayer, slipknot, sons-of-apollo, suicidal-tendencies, testament, tool, vader, volto) both due — first run that day should do both.
 3. If the bank needs topping up before 08-24 and no fresh GSC/L1 signal has landed, the remaining unexhausted angle is a genuinely new one, not a re-scan of A/B/C above or the tenure-contradiction lever (both now confirmed closed) — look for it in newly-added content (roster/data growth since the last full sweep) rather than re-treading this run's dead ends.
 4. igor-cavalera's 1993-96 cymbal brand (Zildjian K Custom vs Paiste RUDE) remains unresolved — still needs a period-specific source, don't force it.
+
+## 2026-08-22 (Saturday, 13:24 UTC run) — found a genuinely new vein: 4 proposals filed, incl. one high-severity fabrication incident
+
+### Bank check
+Untriaged bank 0 at run start (only #6003/#6004 already-promoted-but-still-labeled + 3 standing umbrellas #3810/#3819/#2211). `ai-fix` backlog 20, all `hold`-labeled freeze-blocked roster/band splits. 0 open PRs. Well under the 45 cap → cleared to file up to 8. Metrics 13:24 UTC: 231/274/454 (7d); GSC 6,456 impr/139 clicks/2.15%/pos 9.6 — sole content-gap row `joey jordison drum kit` (63 impr, 1.59% CTR), same standing precedented do-not-refile query, held. Not Monday — drum-chair sweep not due.
+
+### What was checked — the new angle
+Per this morning's 07:23 run's own note ("look for a genuinely new angle in newly-added content, not a re-scan of exhausted levers"): cross-referenced all 71 `packages/frontend/data/albumArticles/*.js` files against `git log --since="30 days ago"` on that directory. **14 files (13 real + index.js) had never been touched by this week's ~40-issue gear-fabrication sweep** (which worked `extendedBios.js`/`drummerEvolution.js`/`drummerComparisons.js` contradictions but hadn't yet reached these). Dispatched a research agent to check all 13 against sibling source-of-truth files, personally verified every claimed contradiction via direct grep/read before filing (per the extendedBios.js-is-not-automatically-correct lesson — checked drummerEvolution.js/drummerComparisons.js agreement and did external tiebreaks where needed).
+
+**9 files clean** (danny-carey, adrian-erlandsson, art-cruz, charlie-benante, chris-turner, gavin-harrison, george-kollias, the-rev, tosin-abasi-programmed — the last is N/A, programmed drums, no live drummer to attribute gear to).
+
+**4 confirmed contradictions, all dedup-clean, all filed:**
+1. **#6024 (HIGH SEVERITY)** — `eloy-casagrande.js`'s dedicated `eloy-casagrande-m72-drum-setup` sub-article asserts Eloy Casagrande joined Metallica's M72 World Tour (2023-2024) as a live co-drummer alongside Lars Ulrich. **This never happened** — externally verified (Blabbermouth/Loudwire: Lars explains the M72 stage's 4 drum kits are all his own, for stage positioning, not a second drummer; no reputable source ties Eloy to Metallica; his real 2024 move was Sepultura→Slipknot, already correctly stated in extendedBios.js and fixed in drummerComparisons.js by #5650). Root cause: #2341 (closed 06-25) proposed this article with zero source citation before the site's verified-only discipline hardened. The fabrication has since spread into 2 *other* eloy-casagrande.js sub-articles (`quadra-drum-setup`, `machine-messiah-drum-setup`) and into `lars-ulrich.js`'s `72-seasons-drum-setup` article (5+ separate passages), and is being actively served to AI crawlers via `public/llms/articles/eloy-casagrande-m72-drum-setup.md` + `public/llms/index.md` + cross-refs, and listed in `sitemap.xml`. Filed as a scoping-decision issue (like #5957's precedent) laying out delete-vs-repurpose options for CEO/founder — not a mechanical fix, since there's no correct substitute value for a fictional event.
+2. **#6025** — dirk-verbeuren.js: drum shell (Maple vs verified Walnut/Birch), snare model (S.L.P. G-Maple vs Big Black Steel), ride cymbal (21" Mb20 vs 22" Byzance Brilliant) all contradict extendedBios.js's Meinl-sourced verified rig. Same drummer already had 3 sibling-file fixes (#5541/#5317/#5887) that never touched albumArticles.js.
+3. **#6026** — igor-cavalera.js: FAQ still says "currently uses Tama... continues to use Paiste... throughout his Sepultura career," contradicting today's #6003 fix (2018 Yamaha/Zildjian switch). #6003 explicitly scoped out albumArticles.js.
+4. **#6027** — mike-portnoy.js: same-file self-contradiction — FAQ says Tama Iron Cobra Power Glide, but 2 separate `thenVsNow` blocks say DW 9002 Double Pedal. extendedBios.js sides with the FAQ.
+
+All 4 personally verified against cited lines/external sources before filing (not sub-agent claims taken on faith) — the research agent's report was independently spot-checked file-by-file for the 4 positive findings. Freeze-compliant: #6025-6027 are single-file data corrections on existing URLs; #6024 may eventually touch a URL's content/removal but is filed as a decision request, not a unilateral action.
+
+### Proposals filed this run (4)
+1. #6024 — Eloy Casagrande/Metallica M72 fabrication (HIGH — scoping decision)
+2. #6025 — Dirk Verbeuren albumArticles.js gear contradiction
+3. #6026 — Igor Cavalera albumArticles.js stale "currently Paiste" FAQ
+4. #6027 — Mike Portnoy albumArticles.js pedal self-contradiction
+
+### Open proposals waiting on CEO triage
+- #6024, #6025, #6026, #6027 (filed this run, 0d old) — **#6024 should be prioritized for founder/CEO scoping given severity, not routine promotion.**
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers only.
+- Bank now ~9 (4 fresh + 2 already-promoted-but-still-labeled + 3 umbrellas).
+
+### Next run
+1. Watch #6024 specifically — this needs a scoping decision (delete vs. repurpose the fabricated URL), not a mechanical Roadie implementation. Don't let it get auto-promoted and mechanically "fixed" without that decision being made first.
+2. Watch #6025/#6026/#6027 ship normally (routine data fixes).
+3. The albumArticles.js sweep is now fully complete (all 71 files checked across this week + this run) — don't re-scan this vein again; if more bank capacity is needed next run, look for the next genuinely new angle (e.g. check other under-swept data-file families the same way: gearPriceHistory.js, signatureGear.js, endorsementNews.js against extendedBios.js).
+4. Monday 08-24: L1/L2/L3 weekly refresh + drum-chair rotation (week 35 group) both due — first run that day should do both.
+5. igor-cavalera's 1993-96 cymbal brand (Zildjian K Custom vs Paiste RUDE) remains unresolved — still needs a period-specific source, don't force it.

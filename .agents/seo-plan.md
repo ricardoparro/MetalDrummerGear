@@ -5818,3 +5818,41 @@ All 4 personally verified against cited lines/external sources before filing (no
 3. The albumArticles.js sweep is now fully complete (all 71 files checked across this week + this run) — don't re-scan this vein again; if more bank capacity is needed next run, look for the next genuinely new angle (e.g. check other under-swept data-file families the same way: gearPriceHistory.js, signatureGear.js, endorsementNews.js against extendedBios.js).
 4. Monday 08-24: L1/L2/L3 weekly refresh + drum-chair rotation (week 35 group) both due — first run that day should do both.
 5. igor-cavalera's 1993-96 cymbal brand (Zildjian K Custom vs Paiste RUDE) remains unresolved — still needs a period-specific source, don't force it.
+
+## 2026-08-22 (Saturday, ~19:00 UTC run) — followed up on last run's own lead (gearPriceHistory.js/signatureGear.js vs extendedBios.js); found a high-severity Mario Duplantier fabrication incl. a fake quote, filed 2 proposals
+
+### Bank check
+`gh issue list --state open --label seo-proposal` returned 7: #6024-6027 (filed 13:34-13:35 UTC, already promoted to `ai-fix` per decisions-log 18:29) + 3 standing umbrellas (#3810/#3819/#2211) — true untriaged bank 0. `ai-fix` backlog 24 open, 0 open PRs. Well under the 45 cap → cleared to file up to 8 net-new. Metrics 19:15 UTC refresh: 237 users/282 sessions/462 views 7d; GSC 6,456 impr/139 clicks/2.15% CTR/pos 9.6 — sole content-gap row `joey jordison drum kit` (63 impr, 1.59% CTR, pos 9.8), same precedented do-not-refile query (8+ prior fixes since 06-25) — held, not refiled. Today is Saturday — drum-chair Monday sweep not due (next 2026-08-24). Audit basics re-confirmed clean: robots.txt all 8 AI crawlers allowed, `/llms.txt`/`/llms-full.txt` both 200.
+
+### What was checked
+Per the 07:23 run's note to look at `gearPriceHistory.js`/`signatureGear.js`/`endorsementNews.js` against `extendedBios.js`/`drummerEvolution.js` for a genuinely new vein: dispatched a research agent to cross-check those 3 files. It surfaced one candidate (Mario Duplantier snare model in `signatureGear.js`) but flagged that its own two "verified" sources (`extendedBios.js` vs `drummerEvolution.js`) disagreed with each other — a signal to investigate personally rather than trust the agent's framing.
+
+Direct grep of both files confirmed something bigger than the agent's framing: `drummerEvolution.js`'s current-era ("2016–Present", Magma/Fortitude) block for `mario-duplantier` claims a full kit-brand switch to **Sonor SQ2**, and `gearPriceHistory.js` independently repeats the same "Sonor SQ2" claim in its price-history summary/timeline. Both contradict `extendedBios.js` (Tama Starclassic Bubinga + Tama S.L.P. G-Maple snare, already-verified). External verification tipped it: Tama's own current artist page (tama.com/usa/artists/detail/190.html) confirms "SC Bubinga" dual 22"x18" kicks + 14"x6.5" snare; Blabbermouth's 2024 Paris Olympics kit-rundown coverage and MixWave's 2024/2025 "Gojira - Mario Duplantier" sample library both independently confirm Tama, zero ties to Sonor anywhere. `drummerEvolution.js` is wrong; `extendedBios.js` is right.
+
+Worse: `drummerEvolution.js` lines 4672-4676 contain a **fabricated quote** ("The SQ2 is the most personal kit I've ever played...") with a fake citation (`source: 'Sonor Artist Profile, 2017'`) — an invented primary source, not just a wrong brand name. This is currently rendered verbatim in the auto-generated `public/llms/evolution/mario-duplantier.md`, actively served to AI crawlers.
+
+Traced the spread before filing (same discipline as the #6024 precedent — check how far a fabrication has spread before scoping the fix): grepped every data file containing both "mario" and "Sonor" (19 candidate files). Most were false positives (files legitimately discussing Danny Carey/Gavin Harrison/Tomas Haake/Martin Axenrot's real Sonor SQ2 kits near an unrelated Mario mention) — checked each with `grep -B2 -A2` and confirmed `drummerComparisons.js`'s Mario-vs-Gavin-Harrison entry is actually already correct (Mario=Tama, Gavin=Sonor, correctly attributed) and NOT part of the bug. The real spread is confined to 3 files: `drummerEvolution.js`, `gearPriceHistory.js` (both small, unambiguous — every occurrence is a genuine fabrication), and `genreGearGuides.js` (a 100K+-line shared file where 54 lines co-mention "Mario" + "Sonor SQ2" — spot-checked several clusters and confirmed a real mix: ~30+ lines directly and wrongly attribute a Sonor SQ2 kit to Mario across doom-metal/sludge-metal guide pages, while others in post-metal guide pages already correctly say Mario=Tama and mention Sonor only for Danny Carey in the same sentence — this file needs per-instance judgment, not a blanket find-replace).
+
+Dedup check: searched all-state issues for "Mario Duplantier Sonor" — found #5820 (closed, a *different* file: `albumArticles/mario-duplantier.js` fabricated brands, already fixed) and #5339 (closed, Martin Lopez, unrelated drummer) — no existing issue covers this specific `drummerEvolution.js`/`gearPriceHistory.js`/`genreGearGuides.js` vein. Clean.
+
+### Why this matters now
+`/drummers/mario-duplantier/evolution` is a currently-earning page — #7 in this week's GA4 top-10 pages (8 views, 2 users). This is depth-on-an-earning-page work (freeze Rule 2) that also removes a fabricated quote+citation actively served to AI crawlers (freeze Rule 3/L2 priority) — same severity class as #6024, but mechanical (no ambiguity about the correct facts, unlike #6024's fictional-event scoping question) rather than requiring a founder/CEO decision.
+
+### Proposals filed this run (2)
+1. **#6028** — `drummerEvolution.js` + `gearPriceHistory.js`: fabricated Sonor SQ2 kit-switch narrative + fabricated quote/fake citation for Mario Duplantier's current era. Small, unambiguous, high-severity (fake quote). Explicitly scopes out `drummerComparisons.js` (already correct) and notes llms mirrors regenerate from source once fixed.
+2. **#6029** — `genreGearGuides.js` batch: same fabrication repeated across 54 candidate lines in doom/sludge/post-metal guide pages. Gave the exact line-number list plus a worked example of the fabricated pattern vs. the correct co-mention pattern (Danny Carey/Gavin Harrison/Tomas Haake/Martin Axenrot genuinely play Sonor SQ2) so the implementer doesn't blanket find-replace and corrupt correct entries. Filed as `programmatic` since it spans many guide pages, but zero new pages/URLs — pure data correction on existing pages.
+
+Filed only 2 despite 8-max/45-cap headroom — quality over volume; this pair is a single well-verified, high-severity finding, not padding.
+
+### Open proposals waiting on CEO triage
+- #6028, #6029 (filed this run, 0d old)
+- #6024, #6025, #6026, #6027 (filed 13:34-13:35 UTC, already promoted to `ai-fix` per decisions-log 18:29)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers only.
+- Bank now 9 (2 fresh + 4 already-promoted-but-still-labeled + 3 umbrellas — true untriaged: 2).
+
+### Next run
+1. Watch #6028 ship first (it's the smaller, unambiguous fix) — confirm the fabricated quote is deleted outright, not replaced with another invented one, and that llms mirrors regenerate correctly.
+2. Watch #6029 — highest-scrutiny item this batch given its size (54 candidate lines needing per-instance judgment); worth a closer look at the merged PR to confirm no correct Danny Carey/Gavin Harrison/Tomas Haake/Martin Axenrot mentions got corrupted.
+3. Monday 08-24: L1/L2/L3 weekly refresh + drum-chair rotation (week 35 group: pantera, periphery, sepultura, slayer, slipknot, sons-of-apollo, suicidal-tendencies, testament, tool, vader, volto) both due — first run that day should do both.
+4. If more bank capacity is needed before 08-24, the productive angle is still "check other under-swept data-file families the same way" per the 07:23 run's note — `signatureGear.js` and `endorsementNews.js` haven't been fully cross-checked yet (this run focused on the `gearPriceHistory.js`/`drummerEvolution.js` lead that surfaced first).
+5. igor-cavalera's 1993-96 cymbal brand (Zildjian K Custom vs Paiste RUDE) remains unresolved — still needs a period-specific source, don't force it.

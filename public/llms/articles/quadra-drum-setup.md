@@ -1,6 +1,6 @@
-# Sepultura "Quadra" Drum Setup: Eloy Casagrande's 2020 Peak (Before Metallica)
+# Sepultura "Quadra" Drum Setup: Eloy Casagrande's 2020 Peak
 
-> Eloy Casagrande's definitive Sepultura statement — Quadra (2020) drum setup breakdown. Pearl Master Maple Reserve shells, Meinl Byzance cymbals, Mapex Black Panther snare. The double-concept album that showcased Eloy at his Sepultura peak — and caught Metallica's attention.
+> Eloy Casagrande's definitive Sepultura statement — Quadra (2020) drum setup breakdown. Pearl Master Maple Reserve shells, Meinl Byzance cymbals, Mapex Black Panther snare. The double-concept album that showcased Eloy at his Sepultura peak.
 
 **Type:** Album Drum Setup
 **Drummer(s):** [Eloy Casagrande](/llms/drummers/eloy-casagrande.md)
@@ -9,13 +9,13 @@
 
 ## Overview
 
-When Sepultura released *Quadra* on February 7, 2020, nobody knew it would be the album that put Eloy Casagrande on Metallica's radar. It was simply the most ambitious record Sepultura had made in years — a sprawling double-concept album split into four philosophical "quadrants," each exploring a different stage of human existence. What made it landmark for drum fans was what Eloy Casagrande delivered across 40+ minutes of technically demanding, conceptually driven modern metal: the finest recorded performance of his Sepultura career.
+When Sepultura released *Quadra* on February 7, 2020, it was simply the most ambitious record Sepultura had made in years — a sprawling double-concept album split into four philosophical "quadrants," each exploring a different stage of human existence. What made it landmark for drum fans was what Eloy Casagrande delivered across 40+ minutes of technically demanding, conceptually driven modern metal: the finest recorded performance of his Sepultura career.
 
 Produced by Jens Bogren at Fascination Street Studios in Örebro, Sweden — the same studio responsible for landmark productions by Opeth, Arch Enemy, and Amon Amarth — *Quadra* gave Eloy's drumming a sonic sophistication rarely achieved in Sepultura's back catalog. Bogren's production philosophy emphasizes clarity, dynamics, and the natural character of instruments in acoustic spaces. For Eloy's Pearl Master Maple Reserve kit, this meant a drum sound with warmth, depth, and definition: not the compressed, brutal drum wall of classic thrash production, but a modern, nuanced sound that served the album's compositional ambitions.
 
 The album's "quadrant" concept — childhood, adolescence, adulthood, and elderhood drawn from Greco-Roman philosophy — imposed structural demands on the arrangements that Eloy met with the full range of his technical and musical vocabulary. Blistering double-bass passages power the thrash quadrants; restrained, dynamic grooves anchor the more reflective sections. The result is a record that makes you hear Eloy's drumming as expression rather than mere execution.
 
-Three years later, Metallica called. Eloy joined the M72 World Tour in 2023, becoming the youngest drummer ever to perform with the band at stadium scale. *Quadra* — the album that proved his ceiling — was the reason. This article breaks down every piece of gear Eloy used to record this landmark album, the recording environment Jens Bogren created at Fascination Street, and the technical approach that made *Quadra* Eloy Casagrande's definitive Sepultura statement.
+*Quadra* stands as Eloy's last full Sepultura studio album before his 2024 move to Slipknot. This article breaks down every piece of gear Eloy used to record this landmark album, the recording environment Jens Bogren created at Fascination Street, and the technical approach that made *Quadra* Eloy Casagrande's definitive Sepultura statement.
 
 ## Gear Breakdown
 
@@ -44,7 +44,7 @@ For the *Quadra* sessions, the Black Panther's character served the album's rang
 
 Jens Bogren's production approach at Fascination Street captured the Black Panther's full character. The drum was tuned at medium-high tension — bright enough to cut through the mix at full band volume, but not so tight that ghost note sensitivity was sacrificed. The result is a snare sound that works across *Quadra*'s entire dynamic spectrum: equally authoritative in "Isolation"'s thrash passages and nuanced in the record's more reflective moments.
 
-This snare, more than any single piece of gear, is what Metallica heard when they listened to *Quadra*. The crack at the top of the mix — present, defined, and rhythmically authoritative — is the sound of a drummer who had fully mastered his instrument.
+This snare, more than any single piece of gear, defines the sound of *Quadra*. The crack at the top of the mix — present, defined, and rhythmically authoritative — is the sound of a drummer who had fully mastered his instrument.
 
 ### Meinl Byzance: Warmth and Complexity for a Concept Album
 
@@ -64,7 +64,7 @@ The 18" China remains a Sepultura signature: the trashy, immediate decay that pu
 - Pearl Master Maple Reserve kit — Eloy's primary Sepultura era endorsement setup
 - Meinl Byzance cymbals provided warm, complex overtones suited to the album's dynamics
 - Mapex Black Panther snare: the signature crack that defines Eloy's Sepultura-era sound
-- The performance that prompted Metallica to recruit Eloy for the 2023 M72 World Tour
+- Eloy's finest recorded Sepultura performance, three years before his 2024 move to Slipknot
 - Pearl Master Maple Reserve — pure maple SST shells for maximum resonance
 - Twin 22" x 18" bass drums for independent double-kick (not double pedal)
 - Four-tom configuration (3 rack + 1 floor) for melodic fill range
@@ -78,9 +78,9 @@ The 18" China remains a Sepultura signature: the trashy, immediate decay that pu
 
 A: Eloy Casagrande recorded Quadra (2020) using a Pearl Master Maple Reserve kit — Pearl's professional pure maple series that was his primary Sepultura-era endorsement setup. His configuration included twin 22"x18" bass drums for independent double-kick, 10", 12", and 14" rack toms, and a 16" floor tom. His snare was the Mapex Black Panther, the drum most associated with his Sepultura sound, and his cymbals were Meinl Byzance Traditional series. The album was recorded at Fascination Street Studios in Örebro, Sweden, produced by Jens Bogren.
 
-**Q: Is Quadra Eloy Casagrande's last Sepultura album before joining Metallica?**
+**Q: Is Quadra Eloy Casagrande's last Sepultura album before joining Slipknot?**
 
-A: Yes — Quadra (2020) is the last full Sepultura studio album Eloy Casagrande recorded before his departure from the band in 2023. Eloy joined Metallica's M72 World Tour as a co-drummer in 2023 — the same year he announced his Sepultura exit after 13 years with the band. Quadra is therefore the definitive document of his Sepultura career at its peak, recorded just three years before Metallica recruited him for one of the most high-profile drummer roles in modern metal history. His Metallica M72 setup (Pearl Reference Pure, Zildjian A Custom, Pearl Free-Floating Steel) represented a complete gear overhaul from the Quadra configuration.
+A: Yes — Quadra (2020) is the last full Sepultura studio album Eloy Casagrande recorded before his departure from the band in 2024. Eloy left Sepultura to join Slipknot in 2024, after 13 years with the band. Quadra is therefore the definitive document of his Sepultura career at its peak, recorded four years before he joined one of metal's biggest stages. His Slipknot setup (Tama Starclassic Bubinga, Paiste RUDE, Tama S.L.P. Sonic Steel) represented a complete gear overhaul from the Quadra configuration.
 
 **Q: What cymbals did Eloy Casagrande use on Quadra?**
 
@@ -88,11 +88,11 @@ A: Eloy Casagrande used Meinl Byzance Traditional series cymbals on Quadra (2020
 
 **Q: Why is Quadra considered Eloy Casagrande's best Sepultura performance?**
 
-A: Quadra (2020) is considered Eloy Casagrande's finest recorded Sepultura performance for several reasons: the production by Jens Bogren at Fascination Street Studios captured his playing with greater dynamic range and sonic sophistication than earlier albums; the album's double-concept structure demanded a wider musical vocabulary than pure thrash — from sustained double-bass aggression to dynamic, ghost-note-rich groove passages; and Eloy was at peak conditioning after 9 years with the band. The album's technical complexity, musical intelligence, and world-class production represent everything Eloy had developed since joining Sepultura in 2011. It's the performance that reportedly caught Metallica's attention, leading to his invitation to join the M72 World Tour in 2023.
+A: Quadra (2020) is considered Eloy Casagrande's finest recorded Sepultura performance for several reasons: the production by Jens Bogren at Fascination Street Studios captured his playing with greater dynamic range and sonic sophistication than earlier albums; the album's double-concept structure demanded a wider musical vocabulary than pure thrash — from sustained double-bass aggression to dynamic, ghost-note-rich groove passages; and Eloy was at peak conditioning after 9 years with the band. The album's technical complexity, musical intelligence, and world-class production represent everything Eloy had developed since joining Sepultura in 2011 — the recorded peak of his Sepultura tenure before his 2024 move to Slipknot.
 
-**Q: How does Eloy's Quadra setup compare to his Metallica M72 setup?**
+**Q: How does Eloy's Quadra setup compare to his Slipknot setup?**
 
-A: The contrast is complete: Eloy's Quadra setup (Pearl Master Maple Reserve, Mapex Black Panther snare, Meinl Byzance cymbals) was entirely replaced for the M72 World Tour. Metallica's kit became Pearl Reference Pure shells with custom M72 World Tour wrap; the snare became Pearl Free-Floating Steel (14"x6.5"); the cymbals switched from Meinl Byzance to Zildjian A Custom; and the pedals changed from Tama Speed Cobra to Pearl Demon Drive twin pedals. The gear transformation mirrored the career transformation — from Sepultura's recording studio to stadium shows across five continents. See the full breakdown at the [Eloy Casagrande M72 drum setup](/articles/eloy-casagrande-m72-drum-setup) article.
+A: The contrast is complete: Eloy's Quadra setup (Pearl Master Maple Reserve, Mapex Black Panther snare, Meinl Byzance cymbals) was entirely replaced when he joined Slipknot in 2024. His Slipknot kit is Tama Starclassic Bubinga shells; the snare is a Tama S.L.P. Sonic Steel; the cymbals switched from Meinl Byzance to Paiste RUDE/PST X/2002; and the pedals are Tama Speed Cobra twin pedals. The gear transformation mirrored the career transformation — from Sepultura's recording studio to Slipknot's stage. See the full breakdown at the [What's In Eloy Casagrande's Kit](/articles/whats-in-eloy-casagrandes-kit) article.
 
 **Source:** https://metalforge.io/articles/quadra-drum-setup
 

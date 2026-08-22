@@ -197,9 +197,8 @@ Clean Markdown gear breakdowns for every album drum-setup and "what's in <drumme
 | Leave Scars Drum Setup: Gene Hoglan's Groove-Within-Speed Mastery (Dark Angel, 1989) | Gene Hoglan | [Markdown](https://metalforge.io/llms/articles/leave-scars-drum-setup.md) |
 | Time Does Not Heal Drum Setup: Gene Hoglan's Dark Angel Final Chapter (1991) | Gene Hoglan | [Markdown](https://metalforge.io/llms/articles/time-does-not-heal-drum-setup.md) |
 | What's In Eloy Casagrande's Kit in 2026: From Sepultura to Slipknot | Eloy Casagrande | [Markdown](https://metalforge.io/llms/articles/whats-in-eloy-casagrandes-kit.md) |
-| Eloy Casagrande M72 Drum Setup: What He Played with Metallica on the World Tour (2023–2024) | Eloy Casagrande | [Markdown](https://metalforge.io/llms/articles/eloy-casagrande-m72-drum-setup.md) |
 | Sepultura "Machine Messiah" Drum Setup: Eloy Casagrande's 2017 Debut with Sepultura | Eloy Casagrande | [Markdown](https://metalforge.io/llms/articles/machine-messiah-drum-setup.md) |
-| Sepultura "Quadra" Drum Setup: Eloy Casagrande's 2020 Peak (Before Metallica) | Eloy Casagrande | [Markdown](https://metalforge.io/llms/articles/quadra-drum-setup.md) |
+| Sepultura "Quadra" Drum Setup: Eloy Casagrande's 2020 Sepultura Peak | Eloy Casagrande | [Markdown](https://metalforge.io/llms/articles/quadra-drum-setup.md) |
 | Sepultura "The Mediator Between Head and Hands Must Be the Heart" Drum Setup: Eloy Casagrande's 2013 Debut | Eloy Casagrande | [Markdown](https://metalforge.io/llms/articles/the-mediator-between-head-and-hands-drum-setup.md) |
 | Painkiller Drum Setup: Scott Travis's Speed Metal Revolution | Scott Travis | [Markdown](https://metalforge.io/llms/articles/painkiller-drum-setup.md) |
 | Scott Travis's Drum Setup on Judas Priest's Jugulator (1997) | Scott Travis | [Markdown](https://metalforge.io/llms/articles/jugulator-drum-setup.md) |

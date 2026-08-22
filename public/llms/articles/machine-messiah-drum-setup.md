@@ -1,6 +1,6 @@
 # Sepultura "Machine Messiah" Drum Setup: Eloy Casagrande's 2017 Debut with Sepultura
 
-> Eloy Casagrande's Sepultura debut — Machine Messiah (2017) drum setup breakdown. Tama Starclassic Walnut/Birch shells, Meinl Classics Custom cymbals, Iron Cobra 900 pedals. The album that introduced Eloy's double-bass precision to Sepultura's sound and launched his arc toward Metallica.
+> Eloy Casagrande's Sepultura debut — Machine Messiah (2017) drum setup breakdown. Tama Starclassic Walnut/Birch shells, Meinl Classics Custom cymbals, Iron Cobra 900 pedals. The album that introduced Eloy's double-bass precision to Sepultura's sound and launched his rise within the band.
 
 **Type:** Album Drum Setup
 **Drummer(s):** [Eloy Casagrande](/llms/drummers/eloy-casagrande.md)
@@ -13,7 +13,7 @@ When Sepultura released *Machine Messiah* on January 13, 2017, via Nuclear Blast
 
 Eloy had joined Sepultura in 2011 at the age of 19, working through the *The Mediator Between Head and Hands Must Be the Heart* cycle (2013) before *Machine Messiah* became his definitive first major document with the band. Recorded at Fascination Street Studios in Örebro, Sweden — the same studio that would capture *Quadra* three years later — and produced by Jens Bogren, the album placed Eloy's drumming in a world-class recording environment from his earliest full-length Sepultura work.
 
-*Machine Messiah* debuted at number one in Brazil and charted across Europe, including Germany — validating Sepultura's continued relevance and putting Eloy's playing in front of an international metal audience for the first time at full album scale. Tracks like "Phantom Self" and "Iceberg Dances" became the early showcases of his precision blast-beat technique and polyrhythmic sensibility, establishing the stylistic identity he would refine through *Quadra* and ultimately export to Metallica's M72 World Tour stage in 2023.
+*Machine Messiah* debuted at number one in Brazil and charted across Europe, including Germany — validating Sepultura's continued relevance and putting Eloy's playing in front of an international metal audience for the first time at full album scale. Tracks like "Phantom Self" and "Iceberg Dances" became the early showcases of his precision blast-beat technique and polyrhythmic sensibility, establishing the stylistic identity he would refine through *Quadra* and ultimately bring to Slipknot's stage in 2024.
 
 His gear for the album: a Tama Starclassic Walnut/Birch kit, Meinl Classics Custom cymbals, and Tama Iron Cobra 900 pedals — a Brazilian prodigy's professional setup refined for world-stage recording. This article breaks down every element of that configuration and the context in which Eloy deployed it.
 
@@ -54,7 +54,7 @@ The 14" Medium Hi-Hats drove Eloy's thrash rhythms with tight, articulate chick 
 - Tama Starclassic Walnut/Birch kit — Eloy's primary setup at the start of his Sepultura recording career
 - "Phantom Self" and "Iceberg Dances" introduced Eloy's blast-beat precision and polyrhythm style
 - Tama Iron Cobra 900 pedals powering his independent double-bass approach
-- The foundation album of the arc: Machine Messiah (2017) → Quadra (2020) → Metallica M72 (2023)
+- The foundation album of the arc: Machine Messiah (2017) → Quadra (2020) → Slipknot (2024)
 - Tama Starclassic Walnut/Birch — hybrid shells for warm attack and focused projection
 - Twin 22" x 18" bass drums for independent double-kick (not double pedal)
 - Four-tom configuration (3 rack + 1 floor) for melodic range across Sepultura's arrangements
@@ -70,7 +70,7 @@ A: Eloy Casagrande recorded Machine Messiah (2017) using a Tama Starclassic Waln
 
 **Q: When did Eloy Casagrande join Sepultura?**
 
-A: Eloy Casagrande joined Sepultura in 2011 at the age of 19, replacing Jean Dolabella. Machine Messiah (2017) was his first major full-length studio recording with the band as its established full-time drummer. He remained with Sepultura until 2023, when he departed to join Metallica's M72 World Tour. His complete Sepultura discography spans Machine Messiah (2017) through Quadra (2020), with Machine Messiah serving as the definitive opening statement of his tenure.
+A: Eloy Casagrande joined Sepultura in 2011 at the age of 19, replacing Jean Dolabella. Machine Messiah (2017) was his first major full-length studio recording with the band as its established full-time drummer. He remained with Sepultura until 2024, when he departed to join Slipknot. His complete Sepultura discography spans Machine Messiah (2017) through Quadra (2020), with Machine Messiah serving as the definitive opening statement of his tenure.
 
 **Q: What is Eloy Casagrande's drum setup on Machine Messiah?**
 
@@ -82,7 +82,7 @@ A: Between Machine Messiah (2017) and Quadra (2020), Eloy's setup evolved signif
 
 **Q: What tracks on Machine Messiah best showcase Eloy Casagrande's drumming?**
 
-A: "Phantom Self" (the lead single) is the primary showcase of Eloy's blast-beat precision and sustained double-bass speed at high tempos. "Iceberg Dances" demonstrates his polyrhythmic intelligence — overlapping metric layers that go beyond typical thrash execution. Both tracks appear on Machine Messiah (Nuclear Blast, January 2017) and represent the earliest major recorded evidence of the technical vocabulary Eloy would develop further on Quadra (2020) and bring to Metallica's M72 World Tour (2023).
+A: "Phantom Self" (the lead single) is the primary showcase of Eloy's blast-beat precision and sustained double-bass speed at high tempos. "Iceberg Dances" demonstrates his polyrhythmic intelligence — overlapping metric layers that go beyond typical thrash execution. Both tracks appear on Machine Messiah (Nuclear Blast, January 2017) and represent the earliest major recorded evidence of the technical vocabulary Eloy would develop further on Quadra (2020) and bring to Slipknot (2024).
 
 **Source:** https://metalforge.io/articles/machine-messiah-drum-setup
 

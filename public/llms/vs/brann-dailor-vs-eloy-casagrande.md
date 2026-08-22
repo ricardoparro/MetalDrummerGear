@@ -4,7 +4,7 @@
 
 **Category:** Progressive Metal · **URL:** https://metalforge.io/vs/brann-dailor-vs-eloy-casagrande
 
-Mastodon's Brann Dailor vs Metallica's Eloy Casagrande (ex-Sepultura). Progressive sludge jazz-chaos vs modern thrash powerhouse. A generational comparison of two elite metal drummers.
+Mastodon's Brann Dailor vs Slipknot's Eloy Casagrande (ex-Sepultura). Progressive sludge jazz-chaos vs modern thrash powerhouse. A generational comparison of two elite metal drummers.
 
 ---
 
@@ -26,19 +26,19 @@ Mastodon's Brann Dailor vs Metallica's Eloy Casagrande (ex-Sepultura). Progressi
 
 ## Playing Style
 
-Brann Dailor drives Mastodon's progressive sludge metal with jazz-informed constant motion — his fills are the melody, his toms sing over the riffs, and his kit acts as a second lead instrument. Eloy Casagrande combines Brazilian rhythmic roots with thrash metal authority, delivering the locked-in groove and thunderous double bass that powered Sepultura's modern era and now powers Metallica's global touring machine.
+Brann Dailor drives Mastodon's progressive sludge metal with jazz-informed constant motion — his fills are the melody, his toms sing over the riffs, and his kit acts as a second lead instrument. Eloy Casagrande combines Brazilian rhythmic roots with thrash metal authority, delivering the locked-in groove and thunderous double bass that powered Sepultura's modern era and now powers Slipknot's aggressive live machine.
 
 ## Technique
 
-Dailor's constant motion style treats fills as melodic lines — his snare and toms carry melody through flowing, jazz-vocabulary fills that blur the line between drumming and composition. Casagrande's technique is defined by groove-first double bass work and the ability to adapt across Metallica's 40-year catalog, from the raw speed of *Kill 'Em All* to the complex dynamics of *Blackened* — a range requiring extraordinary musical versatility.
+Dailor's constant motion style treats fills as melodic lines — his snare and toms carry melody through flowing, jazz-vocabulary fills that blur the line between drumming and composition. Casagrande's technique is defined by groove-first double bass work and the ability to adapt across Slipknot's percussive, multi-drummer catalog — a range requiring extraordinary musical versatility.
 
 ## Key Differences
 
-Brann Dailor plays Tama Starclassic Performer B/B drums with Meinl Byzance cymbals and Vater 5B sticks — a warm, musical setup suited to Mastodon's progressive sludge sound. Eloy Casagrande plays Tama Starclassic Maple drums with Zildjian A Custom and K cymbals and Tama Iron Cobra double pedals — a powerhouse arena-scale setup suited to Metallica's global touring demands. Dailor's constant motion style treats fills as melodic lines — his snare and toms carry melody through flowing, jazz-vocabulary fills that blur the line between drumming and composition. Casagrande's technique is defined by groove-first double bass work and the ability to adapt across Metallica's 40-year catalog, from the raw speed of *Kill 'Em All* to the complex dynamics of *Blackened* — a range requiring extraordinary musical versatility.
+Brann Dailor plays Tama Starclassic Performer B/B drums with Meinl Byzance cymbals and Vater 5B sticks — a warm, musical setup suited to Mastodon's progressive sludge sound. Eloy Casagrande plays Tama Starclassic Maple drums with Paiste cymbals and Tama Iron Cobra double pedals — a powerhouse setup suited to Slipknot's aggressive, percussion-heavy sound. Dailor's constant motion style treats fills as melodic lines — his snare and toms carry melody through flowing, jazz-vocabulary fills that blur the line between drumming and composition. Casagrande's technique is defined by groove-first double bass work and the ability to adapt across Slipknot's percussive, multi-drummer catalog — a range requiring extraordinary musical versatility.
 
 ## Influence & Legacy
 
-Brann Dailor helped define progressive sludge metal and influenced a generation of drummers who treat fills as melodic statements — his Mastodon work from *Remission* through *Emperor of Sand* represents one of the most compositionally distinctive drumming catalogs in modern metal. Eloy Casagrande became the most-watched metal drummer globally when his Metallica appointment was announced in 2024, carrying the technical precision built at Sepultura into the biggest drum chair in metal history.
+Brann Dailor helped define progressive sludge metal and influenced a generation of drummers who treat fills as melodic statements — his Mastodon work from *Remission* through *Emperor of Sand* represents one of the most compositionally distinctive drumming catalogs in modern metal. Eloy Casagrande became the most-watched metal drummer globally when his Slipknot appointment was announced in 2024, carrying the technical precision built at Sepultura into one of metal's most scrutinized drum chairs.
 
 ## Verdict
 
@@ -47,7 +47,7 @@ Brann Dailor and Eloy Casagrande represent two generations and two philosophies 
 ## FAQ
 
 **Q: What are the main differences between Brann Dailor's and Eloy Casagrande's drum kits?**
-A: Brann Dailor plays Tama Starclassic Performer B/B with Meinl cymbals, while Eloy Casagrande uses Tama Starclassic Bubinga (22"x16" & 24"x14" Bass Drums, 10", 12", 13" Toms, 16" & 18" Floor Toms) with Paiste cymbals. Brann Dailor plays Tama Starclassic Performer B/B drums with Meinl Byzance cymbals and Vater 5B sticks — a warm, musical setup suited to Mastodon's progressive sludge sound. Eloy Casagrande plays Tama Starclassic Maple drums with Zildjian A Custom and K cymbals and Tama Iron Cobra double pedals — a powerhouse arena-scale setup suited to Metallica's global touring demands.
+A: Brann Dailor plays Tama Starclassic Performer B/B with Meinl cymbals, while Eloy Casagrande uses Tama Starclassic Bubinga (22"x16" & 24"x14" Bass Drums, 10", 12", 13" Toms, 16" & 18" Floor Toms) with Paiste cymbals. Brann Dailor plays Tama Starclassic Performer B/B drums with Meinl Byzance cymbals and Vater 5B sticks — a warm, musical setup suited to Mastodon's progressive sludge sound. Eloy Casagrande plays Tama Starclassic Maple drums with Paiste cymbals and Tama Iron Cobra double pedals — a powerhouse setup suited to Slipknot's aggressive, percussion-heavy sound.
 
 **Q: What drums does Brann Dailor play vs Eloy Casagrande?**
 A: Brann Dailor plays Tama Starclassic Performer B/B. Eloy Casagrande plays Tama Starclassic Bubinga (22"x16" & 24"x14" Bass Drums, 10", 12", 13" Toms, 16" & 18" Floor Toms).
@@ -67,4 +67,4 @@ A: Brann Dailor uses Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Brilliant
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-08-22 · Source: [MetalForge.io](https://metalforge.io)*

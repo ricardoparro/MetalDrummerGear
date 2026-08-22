@@ -375,11 +375,11 @@ export const articles = {
           "Various hand drums"
         ]
       },
-      "description": "Igor Cavalera's drum setup has evolved dramatically across his career, reflecting his artistic journey from pure thrash metal to tribal fusion to electronic experimentation.\n\n**Classic Sepultura Era (1984-1993):**\nDuring Sepultura's early thrash period — \"Morbid Visions\" through \"Arise\" — Igor used a relatively standard metal setup. Tama and Pearl drums configured for speed and power: double bass drums, multiple toms, heavy cymbals. The focus was on raw thrash aggression, and his setup reflected that.\n\n**Tribal Revolution (1993-2006):**\nStarting with \"Chaos A.D.\" and reaching its peak on \"Roots,\" Igor's setup transformed. He maintained his core metal kit but integrated Brazilian tribal percussion instruments. Atabaques (tall, conical Afro-Brazilian drums used in Candomblé rituals), surdos (large bass drums from batucada), timbales, and various hand percussion became essential elements.\n\nFor the \"Roots\" sessions, Igor actually traveled to the Xavante indigenous territory in Brazil, recording with tribe members. The album's percussion wasn't just decoration — it was foundational to the music.\n\n**Modern Hybrid Era (2007-Present):**\nSince forming Cavalera Conspiracy and exploring electronic music with Mixhell, Igor has embraced technology. His current setup often includes Roland electronic pads and triggers alongside acoustic drums, allowing him to blend programmed elements with live playing. For DJ sets and electronic performances with Mixhell, he sometimes performs entirely on electronic percussion.\n\nThe through-line across all eras is Igor's rhythmic philosophy: drums should groove, not just pound. Whether playing thrash, tribal metal, or electronic music, Igor prioritizes feel and movement over pure speed or technicality.",
+      "description": "Igor Cavalera's drum setup has evolved dramatically across his career, reflecting his artistic journey from pure thrash metal to tribal fusion to electronic experimentation.\n\n**Classic Sepultura Era (1984-1993):**\nDuring Sepultura's early thrash period — \"Morbid Visions\" through \"Arise\" — Igor used a relatively standard metal setup. Tama and Pearl drums configured for speed and power: double bass drums, multiple toms, heavy cymbals. The focus was on raw thrash aggression, and his setup reflected that.\n\n**Tribal Revolution (1993-2006):**\nStarting with \"Chaos A.D.\" and reaching its peak on \"Roots,\" Igor's setup transformed. He maintained his core metal kit but integrated Brazilian tribal percussion instruments. Atabaques (tall, conical Afro-Brazilian drums used in Candomblé rituals), surdos (large bass drums from batucada), timbales, and various hand percussion became essential elements.\n\nFor the \"Roots\" sessions, Igor actually traveled to the Xavante indigenous territory in Brazil, recording with tribe members. The album's percussion wasn't just decoration — it was foundational to the music.\n\n**Cavalera Conspiracy Era (2007-2018):**\nAfter reuniting with Max in Cavalera Conspiracy, Igor's core acoustic kit was a Tama Starclassic Maple paired with Paiste RUDE and 2002 series cymbals. Alongside the acoustic kit, he explored electronic music with Mixhell, incorporating Roland electronic pads and triggers for DJ sets and electronic performances.\n\n**Yamaha & Zildjian Era (2018-Present):**\nIn August 2018, Igor announced a new drum endorsement with Yamaha, moving off Tama to a Yamaha Absolute Hybrid Maple kit, and switched his cymbal setup to Zildjian. This is the rig he continues to play with Cavalera Conspiracy and the Return to Roots anniversary tour, still augmented with Brazilian tribal percussion. He continues to incorporate Roland electronic pads for his Mixhell work.\n\nThe through-line across all eras is Igor's rhythmic philosophy: drums should groove, not just pound. Whether playing thrash, tribal metal, or electronic music, Igor prioritizes feel and movement over pure speed or technicality.",
       "notes": [
         "Setup varies significantly by project and era",
         "Tribal percussion instruments essential since \"Chaos A.D.\"",
-        "Modern setup incorporates Roland electronic elements",
+        "Switched to Yamaha Absolute Hybrid Maple and Zildjian cymbals in August 2018, moving off Tama and Paiste",
         "Focus on groove and polyrhythmic complexity over speed",
         "Often uses single bass drum with exceptional footwork"
       ],
@@ -397,49 +397,49 @@ export const articles = {
       "estimatedValue": "$300-500"
     },
     "cymbals": {
-      "title": "Paiste Power",
-      "brand": "Paiste",
-      "series": "Paiste RUDE / 2002 Series",
+      "title": "From Paiste to Zildjian",
+      "brand": "Zildjian",
+      "series": "Zildjian",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Paiste RUDE 14\" Hi-Hats",
+          "model": "Zildjian 14\" Hi-Hats",
           "position": "Left side",
-          "notes": "Heavy hi-hats for aggressive work"
+          "notes": "Current setup since the August 2018 Zildjian switch"
         },
         {
           "type": "Crash",
-          "model": "Paiste RUDE 16\" Crash",
-          "position": "Left of hi-hats",
-          "notes": "Quick, cutting crash"
-        },
-        {
-          "type": "Crash",
-          "model": "Paiste RUDE 18\" Crash/Ride",
+          "model": "Zildjian 18\" Crash",
           "position": "Over rack toms",
           "notes": "Primary crash position"
         },
         {
           "type": "Crash",
-          "model": "Paiste 2002 19\" Crash",
+          "model": "Zildjian 19\" Crash",
           "position": "Right of toms",
           "notes": "Fuller crash for bigger moments"
         },
         {
           "type": "Ride",
-          "model": "Paiste 2002 22\" Ride",
+          "model": "Zildjian 20\" Ride",
           "position": "Far right",
-          "notes": "Versatile ride with musical bell"
+          "notes": "Versatile ride"
         },
         {
           "type": "China",
-          "model": "Paiste RUDE 18\" China",
+          "model": "Zildjian 18\" China",
           "position": "Above floor tom",
           "notes": "Aggressive accents"
+        },
+        {
+          "type": "Effects",
+          "model": "Zildjian Zbell",
+          "position": "Near ride",
+          "notes": "Accent bell for tribal-influenced patterns"
         }
       ],
-      "description": "Igor has been a Paiste artist for most of his career, favoring their RUDE and 2002 series cymbals. The RUDE series provides the durability and aggressive character needed for thrash and groove metal, while the 2002 series offers more musical versatility.\n\nThe choice of Paiste cymbals reflects Igor's approach: these aren't the brightest or most cutting cymbals available, but they're musical and durable. The 2002 series in particular has a warm, complex character that complements his groove-heavy playing.\n\nFor tribal-influenced material, Igor's cymbal work becomes more restrained. The \"Roots\" album features surprisingly minimal cymbal work in many sections — the focus shifts to drums and percussion. When cymbals do appear, they punctuate rather than dominate.\n\nModern setups often include additional splash and effects cymbals for electronic integration. Igor isn't afraid to experiment with unusual sounds when the music calls for it.",
-      "estimatedValue": "$2,000-3,000 total"
+      "description": "Igor switched his cymbal endorsement to Zildjian in August 2018, moving off the Paiste cymbals he had played since the early 1990s. His current Zildjian setup includes 14\" hi-hats, 18\" and 19\" crashes, a 20\" ride, an 18\" China, and a Zbell for accents.\n\nFrom the \"Arise\" era through Cavalera Conspiracy's first decade (roughly 1991-2018), Igor was a Paiste artist, favoring their RUDE and 2002 series cymbals. The RUDE series provided the durability and aggressive character needed for thrash and groove metal, while the 2002 series offered more musical versatility — a combination that defined his sound on \"Roots\" and Cavalera Conspiracy's early albums.\n\nFor tribal-influenced material, Igor's cymbal work becomes more restrained. The \"Roots\" album features surprisingly minimal cymbal work in many sections — the focus shifts to drums and percussion. When cymbals do appear, they punctuate rather than dominate.",
+      "estimatedValue": "$1,500-2,500 total (current Zildjian setup)"
     },
     "hardware": {
       "title": "The Foundation",
@@ -691,15 +691,15 @@ export const articles = {
     "faq": [
       {
         "question": "What drum kit does Igor Cavalera use currently?",
-        "answer": "Igor Cavalera currently uses a hybrid acoustic and electronic setup combining Tama and Pearl acoustic drums with Roland electronic pads. His acoustic configuration includes a 22x18 inch bass drum paired with a 20 inch electronic kick pad, rack toms in 10, 12, and 14 inches, floor toms in 16 and 18 inches, and maple or birch shells. He augments this with traditional Brazilian percussion including atabaque, surdo, timbales, and various hand drums, reflecting his ongoing interest in tribal and world music."
+        "answer": "Igor Cavalera currently plays a Yamaha Absolute Hybrid Maple drum kit, an endorsement he announced in August 2018 after moving off Tama. He augments the acoustic kit with traditional Brazilian percussion including atabaque, surdo, timbales, and various hand drums, reflecting his ongoing interest in tribal and world music, and continues to incorporate Roland electronic pads for his Mixhell DJ and electronic work."
       },
       {
         "question": "What cymbals does Igor Cavalera use currently?",
-        "answer": "Igor Cavalera continues to use Paiste cymbals, drawing from the RUDE and 2002 series that he favored throughout his Sepultura career. His current setup includes Paiste RUDE 14 inch hi-hats, RUDE crashes ranging from 16 to 19 inches, a Paiste 2002 22 inch Ride, and a RUDE 18 inch China. The RUDE series remains central to his sound, providing the raw, aggressive character that suits his hard-hitting tribal metal approach."
+        "answer": "Igor Cavalera is a current Zildjian artist, having switched from Paiste in August 2018. His setup includes 14 inch Zildjian hi-hats, 18 and 19 inch crashes, a 20 inch ride, an 18 inch China, and a Zbell for accents. From the early 1990s through 2018, throughout his Sepultura and early Cavalera Conspiracy career, he played Paiste RUDE and 2002 series cymbals."
       },
       {
         "question": "How much does Igor Cavalera's current kit cost?",
-        "answer": "Igor Cavalera's full hybrid setup is estimated at $5,000 to $12,000 depending on the specific Tama, Pearl, and Roland components chosen. Roland electronic drum pads and modules alone can account for $1,500 to $4,000 of that total. His snare options from Tama or Pearl run $300 to $500. A Paiste RUDE and 2002 cymbal setup adds roughly $2,000 to $3,500. Including tribal percussion instruments, a complete recreation of his current rig could exceed $15,000."
+        "answer": "Igor Cavalera's current Yamaha Absolute Hybrid Maple kit and Zildjian cymbal setup is estimated at $8,000 to $15,000 depending on the specific configuration. Roland electronic pads for his Mixhell work can add $1,500 to $4,000 more. Including tribal percussion instruments, a complete recreation of his current rig could exceed $18,000."
       }
     ],
     "conclusion": {

@@ -5,6 +5,36 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-08-22 01:07 UTC*
 
 ---
+## 2026-08-22 18:29 — Mid-day pulse: 4 fresh proposals triaged, incl. a scoping decision to delete a fabricated Eloy Casagrande/Metallica article
+
+### Context (≤3 lines)
+First run after 13:00 UTC. Metrics 18:27 UTC (235 users/280 sessions/460 views 7d; GSC 6,456 impr/139 clicks/2.15% CTR/pos 9.6 — only the standing precedented "joey jordison drum kit" content-gap row). Eligible `ai-fix` backlog 0 at run start, 0 open PRs, 4 fresh untriaged `seo-proposal` (#6024-6027, filed 13:34-13:35 UTC).
+
+### Actions taken
+- **Promoted #6025** (Dirk Verbeuren albumArticles.js shell/snare/ride specs contradict verified extendedBios.js rig — same pattern as #5541/#5317/#5887 for this drummer, but scoped to a file those missed), **#6026** (Igor Cavalera albumArticles.js FAQ/prose still says pre-2018 Tama/Paiste, out of scope for today's earlier #6003 fix), **#6027** (Mike Portnoy albumArticles.js self-contradicts: FAQ says Tama Iron Cobra, two `thenVsNow` blocks say DW 9002 — extendedBios.js confirms the FAQ side). All three live-verified via the cited line numbers/grep patterns in the issues themselves; single-file, additive-only, freeze-compliant; no duplicates.
+- **#6024 (Eloy Casagrande/Metallica M72) — made the scoping decision the proposal explicitly asked for** rather than parking it unscoped: this is a fully fabricated event (Eloy never joined Metallica; the M72 stage was Lars alone on 4 kits) contaminating a dedicated article, sitemap.xml, llms/index.md, and cross-references in 2 sibling albumArticles + lars-ulrich.js. Decided **full removal** over repurposing the URL — a fabricated claim actively served to AI crawlers is a direct hit to L2/citability (current top KPI), and rule #4's URL-immutability protects legitimate shipped content, not a standing invitation to keep serving fiction at a stable address. Posted the decision + scoped removal steps as an issue comment, then promoted to `ai-fix`.
+- **GSC content-gap**: `joey jordison drum kit` (63 impr, 1.59% CTR, pos 9.8) — same standing do-not-refile query, ~8 prior fixes already shipped. Held.
+- **Human-founder blockers** (#5141/#5100/#4892/#875/#529/#526/#525): `updatedAt` unchanged since last review. No re-spam.
+- **L1/L2/L3** (#3810/#3819/#2211): all three still dated 08-17 generation — 5 days into the weekly cycle, not yet overdue. No new data to action.
+- **Founder ideas**: inbox empty, unchanged since 06-19.
+- **Starvation check**: post-triage backlog=4, bank=0 (excl. umbrellas) — literal trigger met (backlog<15, bank≤2) but this is the immediate aftermath of a fresh same-day SEO Agent batch, same shape as repeated prior transient dips. Not escalating.
+
+### State delta
+- ai-fix backlog: 0 → 4 (#6024-6027)
+- seo-proposal bank (excl. umbrellas): 4 → 0
+- Org/Sessions/Views (7d): 235/280/460 · GSC 6,456 impr/139 clicks/2.15% CTR/pos 9.6
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 4/4 fresh triaged, live-verified, promoted (incl. 1 scoping decision made, not deferred). ✅ GSC-gap: precedented noise, held. ✅ L1/L2/L3: no fresh snapshot since 08-17, within weekly window. ✅ Starvation: literal trigger met, judged transient per repeated precedent. ✅ Decisions logged.
+
+### Next Run
+1. Watch #6024 (5-file removal, largest scope of the four) ship — worth a closer look at the merged PR given it touches sitemap + llms mirrors + 3 sibling articles' cross-references.
+2. Watch #6025/#6026/#6027 ship (routine single-file gear fixes).
+3. L1/L2/L3 weekly refresh due ~08-24; #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+
+---
 ## 2026-08-22 12:35 (state-confirm — anti-noise hold, deep-run checklist)
 - Backlog: 0 eligible ai-fix (19 open, all hold-labeled freeze-blocked roster/band splits) · 0 PRs open · proposals untriaged: 0 (only 3 standing umbrella issues #3810/#3819/#2211, still 08-17 generation)
 - Org/Sessions/Views (7d): 231/274/454 · GSC 6,456 impr/139 clicks/2.15%/pos 9.6 — only content-gap row is standing "joey jordison drum kit" (63 impr, 1.59% CTR), precedented noise

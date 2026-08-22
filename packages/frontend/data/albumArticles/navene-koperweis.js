@@ -33,11 +33,11 @@ export const articles = {
     "ogImage": "/images/drummers/navene-koperweis.webp",
     "intro": {
       "title": "The Djent Pioneer with a Death Metal Soul",
-      "content": "Navene Koperweis occupies a unique corner of extreme metal: he is among the handful of drummers who helped invent the djent drumming language — riff-locked double bass, polyrhythmic precision, the integration of math-metal and progressive death — and then continued developing it into something even more compositionally sophisticated with Entheos.\n\nBorn May 31, 1985, in San Jose, California, Koperweis began playing at eleven and carved a path through grindcore (Animosity), technical death metal (The Faceless guest spot), and then the progressive metal frontier (Animals as Leaders) before founding Entheos in 2015 alongside vocalist Chaney Crabb. Entheos is where his drumming reached full expression: blazing double-kick interlocked with djent riffing, ghost notes layered into blast beats, and cymbal work that adds colour without cluttering the rhythmic picture.\n\nHis Meinl Cymbals endorsement is one of the most visible constants across every era of his career, with the Byzance series appearing in playthroughs from the earliest Entheos EPs to the most recent Time Will Take Us All sessions. His kit brand has evolved — Tama during the Primal EP era, DW for his current work and session drumming — but the approach is unmistakable: every piece of gear serves the extreme technical demands of his writing.\n\nThis article covers everything in Navene Koperweis's setup: shells, cymbals, double pedals, snare, heads, and how the Animals as Leaders era compares to his current Entheos rig.",
+      "content": "Navene Koperweis occupies a unique corner of extreme metal: he is among the handful of drummers who helped invent the djent drumming language — riff-locked double bass, polyrhythmic precision, the integration of math-metal and progressive death — and then continued developing it into something even more compositionally sophisticated with Entheos.\n\nBorn May 31, 1985, in San Jose, California, Koperweis began playing at eleven and carved a path through grindcore (Animosity), technical death metal (The Faceless guest spot), and then the progressive metal frontier (Animals as Leaders) before founding Entheos in 2015 alongside vocalist Chaney Crabb. Entheos is where his drumming reached full expression: blazing double-kick interlocked with djent riffing, ghost notes layered into blast beats, and cymbal work that adds colour without cluttering the rhythmic picture.\n\nHis Meinl Cymbals endorsement is one of the most visible constants across every era of his career, with the Byzance series appearing in playthroughs from the earliest Entheos EPs to the most recent Time Will Take Us All sessions. His DW Performance Series kit has been the constant since he founded Entheos in 2015: every piece of gear serves the extreme technical demands of his writing.\n\nThis article covers everything in Navene Koperweis's setup: shells, cymbals, double pedals, snare, heads, and how the Animals as Leaders era compares to his current Entheos rig.",
       "keyPoints": [
         "Meinl Byzance endorser — Byzance cymbals in every era of his career",
         "Current kit: DW Performance Series with DW 9000 double pedal",
-        "Entheos debut (Primal EP, 2015) recorded on Tama Birch Silverstar",
+        "Entheos debut (Primal EP, 2015) recorded on DW Performance Series",
         "Pioneered riff-locked double bass in djent with Animals as Leaders",
         "Also a prolific producer/multi-instrumentalist (Fleshwrought, Navene K)",
         "Session work: Machine Head, Whitechapel, Job for a Cowboy"
@@ -63,12 +63,12 @@ export const articles = {
         ],
         "shells": "Maple/mahogany hybrid construction"
       },
-      "description": "Navene Koperweis currently plays DW Performance Series drums — the mid-tier flagship of Drum Workshop that sits between the professional Collector's Series and the entry-level Design Series. For session work with Machine Head and touring, the DW Performance provides the tonal consistency and road durability that demanding gig schedules require.\n\nDW's Performance Series uses a maple/mahogany shell construction that delivers a warm, full-bodied tone with focused attack. For Navene's style, the attack is paramount: fast djent riffing demands kick drums that speak instantly, and rack toms need to cut through the dense Entheos guitar arrangements. The Performance Series shell tuning flexibility allows him to go bright for studio clarity or darker for live stages.\n\nThe double bass configuration — two 22\" x 18\" kick drums — underpins everything in his style. The 18\" shell depth provides ample punch without excessive sustain, ensuring even 200+ BPM kick patterns retain articulation. Rack toms (10\" and 12\") and floor toms (14\" and 16\") give him a practical, efficient setup that mirrors the compositional efficiency he brings to drum writing: no wasted pieces, every drum earns its place.\n\nEarlier in his career (Entheos's Primal EP era, 2015), Navene used a Tama Birch Silverstar kit, which many fans associate with his early Meinl playthrough videos. The Birch Silverstar's inherently brighter, more cutting tone suited the high-gain Entheos sound of that era. The move to DW reflects both his session versatility and his evolution as a player.",
+      "description": "Navene Koperweis has played DW Performance Series drums since founding Entheos in 2015 — the mid-tier flagship of Drum Workshop that sits between the professional Collector's Series and the entry-level Design Series. For session work with Machine Head and touring, the DW Performance provides the tonal consistency and road durability that demanding gig schedules require.\n\nDW's Performance Series uses a maple/mahogany shell construction that delivers a warm, full-bodied tone with focused attack. For Navene's style, the attack is paramount: fast djent riffing demands kick drums that speak instantly, and rack toms need to cut through the dense Entheos guitar arrangements. The Performance Series shell tuning flexibility allows him to go bright for studio clarity or darker for live stages.\n\nThe double bass configuration — two 22\" x 18\" kick drums — underpins everything in his style. The 18\" shell depth provides ample punch without excessive sustain, ensuring even 200+ BPM kick patterns retain articulation. Rack toms (10\" and 12\") and floor toms (14\" and 16\") give him a practical, efficient setup that mirrors the compositional efficiency he brings to drum writing: no wasted pieces, every drum earns its place.\n\nThis same DW Performance Series rig is what Navene recorded Entheos's debut Primal EP (2015) on, and it has remained his core kit through The Infinite Nothing (2016) and every Entheos release since — one continuous DW era rather than a later change.",
       "notes": [
         "DW Performance Series — current touring and session setup",
         "Double bass configuration: essential for djent-era riff-locked kick patterns",
-        "Earlier Entheos era (2015 Primal EP): Tama Birch Silverstar",
-        "Evans drumheads throughout — consistent across DW and Tama eras",
+        "Same DW Performance Series rig since Entheos's founding (2015 Primal EP)",
+        "Evans drumheads throughout",
         "Compact tom setup prioritizes efficiency over range"
       ],
       "estimatedValue": "$3,000–5,000 (DW Performance Series double bass configuration)"
@@ -79,7 +79,7 @@ export const articles = {
       "model": "DW Performance 14\" x 6.5\" Steel Snare",
       "size": "14\" x 6.5\"",
       "shell": "Steel shell",
-      "description": "Navene Koperweis's current snare is the DW Performance 14\" x 6.5\" steel — a focused, cutting instrument that slices through Entheos's dense twin-guitar attack. Steel shells produce a brighter, more penetrating crack than wood, with tighter overtones that project without becoming harsh — essential when the drum has to be heard over heavily processed djent guitars.\n\nThe 6.5\" depth provides the body needed for medium-high tuning. Navene tunes with authority: snare wires kept tight for crisp articulation, tension high enough for cut but not so high the drum loses resonance on ghost notes and soft passages. This balance is critical because Entheos songs swing between explosive accents and delicate textural moments, and the snare has to be credible at both extremes.\n\nDuring the Animals as Leaders era and early Entheos (Primal EP), Navene used various snares matched to the Tama Birch Silverstar setup. The move to DW unified his hardware under one endorser relationship, and the DW Performance steel has become his consistent tool for both live performances and session work with Machine Head and Job for a Cowboy.",
+      "description": "Navene Koperweis's snare since founding Entheos has been the DW Performance 14\" x 6.5\" steel — a focused, cutting instrument that slices through Entheos's dense twin-guitar attack. Steel shells produce a brighter, more penetrating crack than wood, with tighter overtones that project without becoming harsh — essential when the drum has to be heard over heavily processed djent guitars.\n\nThe 6.5\" depth provides the body needed for medium-high tuning. Navene tunes with authority: snare wires kept tight for crisp articulation, tension high enough for cut but not so high the drum loses resonance on ghost notes and soft passages. This balance is critical because Entheos songs swing between explosive accents and delicate textural moments, and the snare has to be credible at both extremes.\n\nDuring the Animals as Leaders era, Navene used various snares matched to that period's setup. Since founding Entheos in 2015 (Primal EP), the DW Performance steel has been his consistent tool for both live performances and session work with Machine Head and Job for a Cowboy.",
       "tuningSetting": "Medium-high, tight snare wires for djent articulation",
       "heads": "Evans Genera HD Dry (batter), Evans Hazy 300 (resonant)",
       "estimatedValue": "$350–500 (DW Performance Steel)"
@@ -197,12 +197,12 @@ export const articles = {
     },
     "evolution": {
       "title": "Animals as Leaders Era vs. Entheos Era: Gear Differences",
-      "content": "Navene Koperweis's gear has evolved alongside his musical direction. Here's how the two primary eras of his career compare:\n\n**Animals as Leaders Era (2010–2012):**\nThe Animals as Leaders era was where Navene cemented his reputation as a djent drumming pioneer. His setup was more variable during this period — he used different drum kits depending on the studio or touring context, but the Meinl Byzance cymbals were already central. The djent sound with AaL was clean, precise, and technical; the drums served Tosin Abasi and Javier Reyes's complex guitar work without drawing attention away from the riff architecture.\n\n**Entheos Era (2015–present):**\nWhen Navene founded Entheos, the setup became more fixed. The Primal EP (2015) Meinl playthroughs showed him on a Tama Birch Silverstar — birch shells with a brighter, more cutting transient attack. The Meinl Byzance Extra Dry series featured prominently. As Entheos signed to Spinefarm and later Metal Blade, the kit evolved to DW, unifying his hardware under a single endorsement relationship.\n\nThe Entheos setup is heavier and more aggressive than the AaL era — drums tuned to cut through distorted walls of guitar, cymbals selected for quick decay to avoid cluttering fast riffing. The fundamental philosophical approach — riff-locked kick, polyrhythmic layering, Byzance cymbals — remained identical.",
+      "content": "Navene Koperweis's gear has evolved alongside his musical direction. Here's how the two primary eras of his career compare:\n\n**Animals as Leaders Era (2010–2012):**\nThe Animals as Leaders era was where Navene cemented his reputation as a djent drumming pioneer. His setup was more variable during this period — he used different drum kits depending on the studio or touring context, but the Meinl Byzance cymbals were already central. The djent sound with AaL was clean, precise, and technical; the drums served Tosin Abasi and Javier Reyes's complex guitar work without drawing attention away from the riff architecture.\n\n**Entheos Era (2015–present):**\nWhen Navene founded Entheos in 2015, he adopted the DW Performance Series maple/mahogany kit that has anchored his sound ever since — established from the Primal EP onward and carried through The Infinite Nothing (2016), Time Will Take Us All (2023), and his current session and touring work. The Meinl Byzance Extra Dry cymbal series featured prominently from the start, and the DW 9000 Series double pedal rounded out the rig.\n\nThe Entheos setup is heavier and more aggressive than the AaL era — drums tuned to cut through distorted walls of guitar, cymbals selected for quick decay to avoid cluttering fast riffing. The fundamental philosophical approach — riff-locked kick, polyrhythmic layering, Byzance cymbals — remained identical.",
       "thenVsNow": [
         {
           "category": "Kit",
-          "then": "Tama Birch Silverstar (Primal EP era)",
-          "now": "DW Performance Series"
+          "then": "Various (AaL era, 2010–2012)",
+          "now": "DW Performance Series (since Primal EP, 2015)"
         },
         {
           "category": "Snare",
@@ -216,8 +216,8 @@ export const articles = {
         },
         {
           "category": "Pedal",
-          "then": "Tama Speed Cobra (Primal EP era)",
-          "now": "DW 9000 Series Double Pedal"
+          "then": "Various (no fixed brand documented, AaL era)",
+          "now": "DW 9000 Series Double Pedal (since Primal EP, 2015)"
         },
         {
           "category": "Sticks",
@@ -306,7 +306,7 @@ export const articles = {
     "faq": [
       {
         "question": "What drums does Navene Koperweis use?",
-        "answer": "Navene Koperweis currently uses DW Performance Series drums in a double bass configuration. During the early Entheos era (Primal EP, 2015), he played a Tama Birch Silverstar kit. Both setups are optimized for the extreme technical demands of his djent and progressive death metal playing style."
+        "answer": "Navene Koperweis uses DW Performance Series drums in a double bass configuration — the same rig he adopted when founding Entheos in 2015 and recorded the Primal EP on. The setup is optimized for the extreme technical demands of his djent and progressive death metal playing style."
       },
       {
         "question": "What cymbals does Navene Koperweis use?",
@@ -314,7 +314,7 @@ export const articles = {
       },
       {
         "question": "What double bass pedal does Navene Koperweis use?",
-        "answer": "Navene Koperweis uses the DW 9000 Series double bass pedal. The 9000 is DW's flagship chain-drive double, featuring an adjustable eccentric cam that lets him dial in the exact acceleration curve and rebound angle his heel-up extreme-tempo technique requires. Earlier in his career (Entheos Primal EP era), he used a Tama Speed Cobra double pedal."
+        "answer": "Navene Koperweis uses the DW 9000 Series double bass pedal, which has driven his kick work since founding Entheos in 2015 — including the Primal EP sessions. The 9000 is DW's flagship chain-drive double, featuring an adjustable eccentric cam that lets him dial in the exact acceleration curve and rebound angle his heel-up extreme-tempo technique requires."
       },
       {
         "question": "What snare drum does Navene Koperweis use?",
@@ -333,7 +333,7 @@ export const articles = {
       {
         "youtubeId": "AeRHPz-1DdA",
         "title": "Navene Koperweis ENTHEOS 'Chemical Flashback' (Meinl Cymbal Playthrough)",
-        "description": "Official Meinl Cymbals playthrough showing Navene's riff-locked double bass, Byzance cymbal work, and Tama Birch Silverstar setup"
+        "description": "Official Meinl Cymbals playthrough showing Navene's riff-locked double bass, Byzance cymbal work, and DW Performance Series setup"
       },
       {
         "youtubeId": "FU-AKk5Bv8M",
@@ -500,10 +500,10 @@ export const articles = {
       "items": [
         {
           "type": "Bass Drum Pedal",
-          "brand": "Tama",
-          "model": "Tama Speed Cobra Double Pedal",
+          "brand": "Various",
+          "model": "Standard touring double pedal (no fixed brand documented)",
           "notes": "Chain-drive double pedal driving the riff-locked kick patterns on Weightless",
-          "description": "Koperweis's double pedal during the Weightless era was the Tama Speed Cobra — a chain-drive design offering the fast, sensitive response his riff-locked kick technique required. Because his kick patterns change specifically with each riff rather than following a fixed template, pedal consistency between the primary and secondary beater mattered more than raw speed: any mechanical inconsistency between feet would undercut the illusion that the kick drum is a compositional extension of the guitar riff rather than a separate rhythmic layer. He later moved to the DW 9000 Series double pedal with Entheos, but the Speed Cobra carried him through the entire Animals as Leaders tenure."
+          "description": "No single documented pedal brand is tied to Koperweis's Weightless-era touring and session work — the Animals as Leaders period predates his DW endorsement. What is consistent is the demand the riff-locked kick technique placed on whatever double pedal he used: because his kick patterns change specifically with each riff rather than following a fixed template, pedal consistency between the primary and secondary beater mattered more than raw speed. He later moved to the DW 9000 Series double pedal after founding Entheos in 2015, which has anchored his rig ever since."
         },
         {
           "type": "Sticks",
@@ -553,7 +553,7 @@ export const articles = {
       },
       {
         "question": "What pedal drove Navene Koperweis's double bass on 'Weightless'?",
-        "answer": "Koperweis used a Tama Speed Cobra chain-drive double pedal during the Weightless era, chosen for the consistent response his riff-locked kick technique required — any mechanical difference between the primary and secondary beater would undercut the tight coupling between kick pattern and guitar riff that defines his style. He later switched to the DW 9000 Series double pedal with Entheos."
+        "answer": "No single pedal brand is documented for the Weightless era — it predates Koperweis's DW endorsement. The riff-locked kick technique he used required a consistent response between the primary and secondary beater, since any mechanical difference would undercut the tight coupling between kick pattern and guitar riff that defines his style. He later adopted the DW 9000 Series double pedal after founding Entheos in 2015."
       }
     ],
     "videos": [

@@ -2173,7 +2173,7 @@ His innovative drumming on albums like "Arise," "Chaos A.D.," and "Roots" helped
 - **Snare**: Pearl Free-Floating Steel 14"x6.5"
 - **Cymbals**: disputed between sources for this era (Zildjian K Custom vs. Paiste RUDE) — left unconfirmed pending a corroborating source
 
-**Post-2007 Cavalera Conspiracy Era:**
+**Cavalera Conspiracy Era (2007-2018):**
 - **Drums**: Tama Starclassic Maple
 - **Snare**: Tama S.L.P. 14"x6.5" G-Maple
 - **Cymbals**: Paiste (RUDE series for durability)
@@ -2181,6 +2181,12 @@ His innovative drumming on albums like "Arise," "Chaos A.D.," and "Roots" helped
 - **Additional Percussion**: Atabaques, surdo, timbales, tribal percussion
 - **Sticks**: Vic Firth American Classic 5B
 - **Heads**: Remo
+
+**Yamaha & Zildjian Era (2018-Present):**
+- **Drums**: Yamaha Absolute Hybrid Maple (announced as a new endorsement in August 2018, moving off Tama)
+- **Cymbals**: Zildjian, replacing his prior Paiste setup
+- **Hardware**: Tama Iron Cobra double pedal
+- **Additional Percussion**: Atabaques, surdo, timbales, tribal percussion
 
 **Unique Elements:**
 - Integration of Brazilian tribal drums into metal kit
@@ -2208,15 +2214,15 @@ His innovative drumming on albums like "Arise," "Chaos A.D.," and "Roots" helped
         title: 'Frequently Asked Questions',
         items: [
           { q: 'What band does Igor Cavalera play drums for?', a: 'Igor Cavalera co-founded Sepultura in 1984 and drummed for the band until 2006. He now drums for Cavalera Conspiracy, which he co-founded with his brother Max in 2007.' },
-          { q: 'What drums does Igor Cavalera play?', a: 'Igor Cavalera plays a Tama Starclassic Maple drum kit.' },
-          { q: 'What drum kit does Igor Cavalera play?', a: 'Igor Cavalera\'s drum kit is a Tama Starclassic Maple shell pack, built around a Tama S.L.P. 14"x6.5" G-Maple snare drum, with Evans drumheads.' },
-          { q: 'What drum set does Igor Cavalera play?', a: 'Igor Cavalera\'s drum set pairs Tama Starclassic Maple shells and his S.L.P. 14"x6.5" G-Maple snare with Paiste RUDE and 2002 Series cymbals and a Tama Iron Cobra double pedal.' },
-          { q: 'What cymbals does Igor Cavalera use?', a: 'Igor Cavalera uses Paiste RUDE and 2002 Series cymbals, including 14" RUDE Hi-Hats, 18" and 19" RUDE Crashes, a 22" RUDE Power Ride, and an 18" 2002 China.' },
-          { q: 'What hi-hats does Igor Cavalera use?', a: 'Igor Cavalera plays 14" Paiste RUDE Hi-Hats, delivering the harsh, cutting articulation that drives Sepultura\'s tribal groove metal rhythms.' },
-          { q: 'What snare drum does Igor Cavalera use?', a: 'Igor Cavalera\'s primary snare is the Tama S.L.P. 14"x6.5" G-Maple.' },
+          { q: 'What drums does Igor Cavalera play?', a: 'Igor Cavalera currently plays a Yamaha Absolute Hybrid Maple drum kit, a new endorsement announced in August 2018. From 2007-2018 he played Tama Starclassic Maple.' },
+          { q: 'What drum kit does Igor Cavalera play?', a: 'Igor Cavalera\'s current drum kit is a Yamaha Absolute Hybrid Maple shell pack (announced August 2018). From 2007-2018 he played a Tama Starclassic Maple shell pack, built around a Tama S.L.P. 14"x6.5" G-Maple snare drum, with Evans drumheads.' },
+          { q: 'What drum set does Igor Cavalera play?', a: 'Igor Cavalera\'s current drum set is a Yamaha Absolute Hybrid Maple kit paired with Zildjian cymbals and a Tama Iron Cobra double pedal. From 2007-2018 he played Tama Starclassic Maple shells and his S.L.P. 14"x6.5" G-Maple snare with Paiste RUDE and 2002 Series cymbals.' },
+          { q: 'What cymbals does Igor Cavalera use?', a: 'Igor Cavalera is a current Zildjian artist. From 2007-2018 he used Paiste RUDE and 2002 Series cymbals, including 14" RUDE Hi-Hats, 18" and 19" RUDE Crashes, a 22" RUDE Power Ride, and an 18" 2002 China.' },
+          { q: 'What hi-hats does Igor Cavalera use?', a: 'Igor Cavalera currently plays 14" Zildjian hi-hats. From 2007-2018 he played 14" Paiste RUDE Hi-Hats, delivering the harsh, cutting articulation that drives Sepultura\'s tribal groove metal rhythms.' },
+          { q: 'What snare drum does Igor Cavalera use?', a: 'Igor Cavalera\'s current snare is the Yamaha Absolute Hybrid Maple 14" snare. From 2007-2018 his primary snare was the Tama S.L.P. 14"x6.5" G-Maple.' },
           { q: 'What pedals does Igor Cavalera use?', a: 'Igor Cavalera drives his tribal-influenced double bass patterns with a Tama Iron Cobra double pedal.' },
           { q: 'What drumsticks does Igor Cavalera use?', a: 'Igor Cavalera plays Vic Firth American Classic 5B drumsticks.' },
-          { q: 'What percussion does Igor Cavalera use?', a: 'Beyond his Tama Starclassic Maple drum kit and drum set, Igor Cavalera incorporates traditional Brazilian percussion — atabaques, surdo, and timbales — for the tribal rhythms he pioneered on Sepultura\'s Roots (1996).' }
+          { q: 'What percussion does Igor Cavalera use?', a: 'Beyond his current Yamaha Absolute Hybrid Maple drum kit, Igor Cavalera incorporates traditional Brazilian percussion — atabaques, surdo, and timbales — for the tribal rhythms he pioneered on Sepultura\'s Roots (1996).' }
         ]
       },
       sources: {

@@ -2613,7 +2613,9 @@ export function getMetaForPath(pathname) {
               entities.push({
                 '@type': 'Person',
                 name: album.drummer || album.relatedDrummerSlug,
-                url: `${BASE_URL}/drummer/${album.relatedDrummerSlug}`,
+                // Issue #6004: only link to /drummer/<slug> when that slug resolves to a
+                // real roster entry (e.g. 'the-rev' has no /drummer page — deceased, no profile).
+                ...(relatedDrummer ? { url: `${BASE_URL}/drummer/${album.relatedDrummerSlug}` } : {}),
                 sameAs: relatedDrummer?.sameAs?.length > 0
                   ? relatedDrummer.sameAs
                   : [`https://en.wikipedia.org/wiki/${encodeURIComponent((album.drummer || '').replace(/ /g, '_'))}`],

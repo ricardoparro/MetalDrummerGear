@@ -300,17 +300,17 @@ export const articles = {
       "keyPoints": [
         "Recorded at Woodshed Studios, Germany with producer V. Santura in 2008-2009",
         "Released March 23, 2009 via Relapse Records — landmark technical death metal album",
-        "Tama Star Series shell pack with double 22\" x 18\" kick drums for sustained blast and double-bass work",
+        "DW Collectors Series shell pack with double 22\" x 18\" kick drums for sustained blast and double-bass work",
         "Meinl Byzance cymbals — Grossmann is a Meinl artist and his Byzance setup defines his signature sound",
-        "Axis Longboard or Tama Speed Cobra pedals delivering the high-velocity foot technique the material demands",
+        "DW 9000 Series Double Pedal delivering the high-velocity foot technique the material demands",
         "Vic Firth signature sticks — durability and balance for sustained extreme metal performance",
         "Performance widely cited as one of the defining drum recordings in modern technical death metal"
       ]
     },
     "drumKit": {
       "title": "Hannes's Studio Kit: The High-End Production Shell Pack",
-      "brand": "Tama",
-      "model": "Tama Star Series (alt: Pearl Reference)",
+      "brand": "DW",
+      "model": "DW Collectors Series",
       "finish": "Natural / High-gloss professional finish",
       "config": {
         "bassdrums": [
@@ -326,9 +326,9 @@ export const articles = {
         ],
         "shells": "Premium maple/birch hybrid construction for projection and articulation"
       },
-      "description": "Hannes Grossmann's drum kit on \"Cosmogenesis\" represents the top of professional production shell engineering — a high-end shell pack (Tama Star Series or Pearl Reference grade) chosen for the combination of attack, projection, and dynamic range that technical death metal recording requires. At the moment Cosmogenesis was tracked, Obscura's material asked the drum kit to do a remarkable variety of work within single songs: full-velocity blast beats, sustained double-bass passages at sixteenth-note tempos, atmospheric ride work over fretless bass solos, polyrhythmic tom-and-cymbal patterns aligned to seven-string guitar tapping figures. The kit needed to deliver each of these registers without sonic compromise.\n\nThe double 22\" x 18\" bass drum configuration is the structural foundation of the entire album. Cosmogenesis sustains double-kick patterns across full song lengths on tracks like \"Anticosmic Overload\" and \"Choir of Spirits,\" where each individual stroke must register cleanly and independently within the mix. The 22\" diameter produces the sub-bass body that anchors Obscura's complex guitar arrangements, while the 18\" depth provides the punchy attack that V. Santura's production prized — controlled low-end mass with surgical articulation.\n\nGrossmann's tom configuration on the album is compact and efficient: 10\" and 12\" rack toms, 14\" and 16\" floor toms. This four-tom spread covers the pitch range his fill vocabulary requires while remaining tight enough for the rapid melodic phrases that punctuate Cosmogenesis throughout. Tom fills on the album function less as transitional accents and more as compositional events — moments where the drums extend the melodic content of the guitar and bass parts. The compact spread keeps these phrases articulate at the velocities Obscura's material demands.\n\nThe premium shell construction — high-grade maple or hybrid maple-birch — delivers the resonance and projection essential to V. Santura's natural drum sound. Cosmogenesis was not heavily sample-triggered the way some technical death metal of its era was; instead, the acoustic kit speaks with its full natural voice through Santura's microphone choices and mix discipline. This requires shells that can actually produce a usable studio tone at the dynamic levels Grossmann plays at.",
+      "description": "Hannes Grossmann's drum kit on \"Cosmogenesis\" represents the top of professional production shell engineering — a DW Collectors Series shell pack chosen for the combination of attack, projection, and dynamic range that technical death metal recording requires. At the moment Cosmogenesis was tracked, Obscura's material asked the drum kit to do a remarkable variety of work within single songs: full-velocity blast beats, sustained double-bass passages at sixteenth-note tempos, atmospheric ride work over fretless bass solos, polyrhythmic tom-and-cymbal patterns aligned to seven-string guitar tapping figures. The kit needed to deliver each of these registers without sonic compromise.\n\nThe double 22\" x 18\" bass drum configuration is the structural foundation of the entire album. Cosmogenesis sustains double-kick patterns across full song lengths on tracks like \"Anticosmic Overload\" and \"Choir of Spirits,\" where each individual stroke must register cleanly and independently within the mix. The 22\" diameter produces the sub-bass body that anchors Obscura's complex guitar arrangements, while the 18\" depth provides the punchy attack that V. Santura's production prized — controlled low-end mass with surgical articulation.\n\nGrossmann's tom configuration on the album is compact and efficient: 10\" and 12\" rack toms, 14\" and 16\" floor toms. This four-tom spread covers the pitch range his fill vocabulary requires while remaining tight enough for the rapid melodic phrases that punctuate Cosmogenesis throughout. Tom fills on the album function less as transitional accents and more as compositional events — moments where the drums extend the melodic content of the guitar and bass parts. The compact spread keeps these phrases articulate at the velocities Obscura's material demands.\n\nThe premium shell construction — high-grade maple or hybrid maple-birch — delivers the resonance and projection essential to V. Santura's natural drum sound. Cosmogenesis was not heavily sample-triggered the way some technical death metal of its era was; instead, the acoustic kit speaks with its full natural voice through Santura's microphone choices and mix discipline. This requires shells that can actually produce a usable studio tone at the dynamic levels Grossmann plays at.",
       "notes": [
-        "High-end professional production shells (Tama Star or Pearl Reference grade)",
+        "High-end professional production shells (DW Collectors Series)",
         "Double 22\" x 18\" bass drums for sustained Cosmogenesis double-kick and blast work",
         "Compact 4-tom spread (10\", 12\", 14\", 16\") for fast melodic fill articulation",
         "Premium maple/hybrid shells delivering studio-grade natural tone",
@@ -338,11 +338,11 @@ export const articles = {
     },
     "snare": {
       "title": "The Snare That Cut Through Tech Death",
-      "brand": "Tama",
-      "model": "Tama Starphonic or Pearl Reference Snare",
-      "size": "14\" x 6.5\"",
-      "shell": "Maple/brass construction for tonal definition",
-      "description": "Hannes Grossmann's snare drum on \"Cosmogenesis\" needed to perform across an unusually wide range of musical contexts — from the fast ghost-note vocabulary that punctuates Obscura's groove sections to the full-velocity rim-shot accents that drive the album's blast beat passages. A 14\" x 6.5\" professional snare provides the balance: enough depth for tonal body and projection, but tight enough at the heads to articulate the rapid stroke combinations Grossmann deploys throughout.\n\nThe medium-bright tuning approach typical of technical death metal production was carefully calibrated at Woodshed Studios. V. Santura tuned the snare for clarity through Obscura's dense guitar layering — the seven-string and six-string interplay creates a thick midrange environment, and the snare must cut without losing tonal character. The 6.5\" shell depth gives Grossmann's snare both the crack he needs for accent stability and the body that prevents it from sounding thin against the album's heavy guitar production.\n\nIn Obscura's compositional vocabulary, the snare often functions as the rhythmic counterweight to the bass and guitar lines. On tracks like \"Universe Momentum\" and \"Centric Flow,\" snare placement creates the polyrhythmic relationships that define Cosmogenesis's progressive identity. Each stroke must register with consistent character whether it falls on a downbeat, an offbeat, or a polyrhythmic accent. The professional shell construction and disciplined tuning produced exactly this consistency across the album.\n\nFor drummers studying Cosmogenesis, the snare sound is one of the album's most instructive elements — proof that technical death metal benefits from snare drums tuned for musical clarity rather than maximum aggression alone.",
+      "brand": "DW",
+      "model": "DW Collectors 14\"x5.5\" Maple",
+      "size": "14\" x 5.5\"",
+      "shell": "Maple construction for tonal definition",
+      "description": "Hannes Grossmann's snare drum on \"Cosmogenesis\" needed to perform across an unusually wide range of musical contexts — from the fast ghost-note vocabulary that punctuates Obscura's groove sections to the full-velocity rim-shot accents that drive the album's blast beat passages. A 14\" x 5.5\" professional maple snare provides the balance: enough depth for tonal body and projection, but tight enough at the heads to articulate the rapid stroke combinations Grossmann deploys throughout.\n\nThe medium-bright tuning approach typical of technical death metal production was carefully calibrated at Woodshed Studios. V. Santura tuned the snare for clarity through Obscura's dense guitar layering — the seven-string and six-string interplay creates a thick midrange environment, and the snare must cut without losing tonal character. The 5.5\" shell depth gives Grossmann's snare both the crack he needs for accent stability and the body that prevents it from sounding thin against the album's heavy guitar production.\n\nIn Obscura's compositional vocabulary, the snare often functions as the rhythmic counterweight to the bass and guitar lines. On tracks like \"Universe Momentum\" and \"Centric Flow,\" snare placement creates the polyrhythmic relationships that define Cosmogenesis's progressive identity. Each stroke must register with consistent character whether it falls on a downbeat, an offbeat, or a polyrhythmic accent. The professional shell construction and disciplined tuning produced exactly this consistency across the album.\n\nFor drummers studying Cosmogenesis, the snare sound is one of the album's most instructive elements — proof that technical death metal benefits from snare drums tuned for musical clarity rather than maximum aggression alone.",
       "tuningSetting": "Medium-bright — clarity and attack through dense tech-death guitar frequencies",
       "heads": "Evans or Remo coated batter; resonant matched to studio character",
       "estimatedValue": "$500–800 (professional studio snare)"
@@ -397,10 +397,10 @@ export const articles = {
       "items": [
         {
           "type": "Bass Drum Pedals",
-          "brand": "Axis (or Tama Speed Cobra)",
-          "model": "Axis Longboard Double Pedal",
-          "notes": "Longboard footplate and high-speed action for sustained double-bass at Cosmogenesis tempos",
-          "description": "Hannes Grossmann's choice of high-speed double bass pedals — typically Axis Longboards or Tama Speed Cobras during the Cosmogenesis era — provided the mechanical foundation for the album's sustained double-kick passages. Cosmogenesis demands sustained 16th-note double-bass at tempos where each individual stroke must register cleanly, and the pedal's response curve determines whether those passages survive the mix as music or collapse into rhythmic mud.\n\nThe Axis Longboard's extended footplate is particularly well suited to Grossmann's heel-toe and swivel technique — a foot-pedal vocabulary he uses to sustain double-bass at velocities that would otherwise require excessive physical exertion. The longboard length lets the foot travel multiple inches between stroke positions, distributing the work across the foot rather than concentrating it in the ankle alone.\n\nFor double-bass technique context and how high-speed pedals serve technical death metal: see [double-bass drumming at MetalForge](/technique/double-bass-drumming)."
+          "brand": "DW",
+          "model": "DW 9000 Series Double Pedal",
+          "notes": "High-speed action for sustained double-bass at Cosmogenesis tempos",
+          "description": "Hannes Grossmann's choice of high-speed double bass pedal — a DW 9000 Series Double Pedal during the Cosmogenesis era — provided the mechanical foundation for the album's sustained double-kick passages. Cosmogenesis demands sustained 16th-note double-bass at tempos where each individual stroke must register cleanly, and the pedal's response curve determines whether those passages survive the mix as music or collapse into rhythmic mud.\n\nThe DW 9000 Series' responsive action is particularly well suited to Grossmann's heel-toe and swivel technique — a foot-pedal vocabulary he uses to sustain double-bass at velocities that would otherwise require excessive physical exertion.\n\nFor double-bass technique context and how high-speed pedals serve technical death metal: see [double-bass drumming at MetalForge](/technique/double-bass-drumming)."
         },
         {
           "type": "Sticks",
@@ -474,7 +474,7 @@ export const articles = {
           "Polyrhythmic accents aligning drums to guitar tapping figures",
           "Climactic blast section near the song's peak"
         ],
-        "gearNotes": "Axis Longboard pedals delivering the sustained double-bass that defines the track's structural arc. China and splash accents at climactic transitions."
+        "gearNotes": "DW 9000 Series Double Pedal delivering the sustained double-bass that defines the track's structural arc. China and splash accents at climactic transitions."
       },
       {
         "track": "Universe Momentum",
@@ -495,8 +495,8 @@ export const articles = {
       "thenVsNow": [
         {
           "category": "Kit",
-          "then": "High-end tech-death shell pack (2009)",
-          "now": "Continued Tama / professional shells with refined configuration"
+          "then": "DW Collectors Series shell pack (2009)",
+          "now": "Continued DW Collectors Series shells with refined configuration"
         },
         {
           "category": "Cymbals",
@@ -505,8 +505,8 @@ export const articles = {
         },
         {
           "category": "Pedals",
-          "then": "Axis Longboards / Tama Speed Cobra",
-          "now": "High-speed pedals (continued direct-drive / speed configurations)"
+          "then": "DW 9000 Series Double Pedal",
+          "now": "High-speed pedals (continued DW direct-drive / speed configurations)"
         },
         {
           "category": "Sticks",
@@ -532,7 +532,7 @@ export const articles = {
     "faq": [
       {
         "question": "What drum kit did Hannes Grossmann use on Obscura's Cosmogenesis?",
-        "answer": "Hannes Grossmann recorded Obscura's Cosmogenesis in 2008-2009 using a high-end professional production shell pack — Tama Star Series or comparable Pearl Reference-grade shells in a natural finish. The configuration included two 22\" x 18\" bass drums for sustained double-kick work, 10\" and 12\" rack toms, and 14\" and 16\" floor toms. The compact 4-tom spread provided the pitch range required for the album's fast melodic fill vocabulary without forcing extended kit configurations that would slow rapid articulation. The kit was tracked at Woodshed Studios in Germany with producer V. Santura. For Grossmann's full setup context: [Hannes Grossmann at MetalForge](/drummer/hannes-grossmann)."
+        "answer": "Hannes Grossmann recorded Obscura's Cosmogenesis in 2008-2009 using a high-end professional production shell pack — a DW Collectors Series kit in a natural finish. The configuration included two 22\" x 18\" bass drums for sustained double-kick work, 10\" and 12\" rack toms, and 14\" and 16\" floor toms. The compact 4-tom spread provided the pitch range required for the album's fast melodic fill vocabulary without forcing extended kit configurations that would slow rapid articulation. The kit was tracked at Woodshed Studios in Germany with producer V. Santura. For Grossmann's full setup context: [Hannes Grossmann at MetalForge](/drummer/hannes-grossmann)."
       },
       {
         "question": "What cymbals did Hannes Grossmann use on Cosmogenesis?",
@@ -544,7 +544,7 @@ export const articles = {
       },
       {
         "question": "What bass drum pedals did Hannes Grossmann use on Cosmogenesis?",
-        "answer": "During the Cosmogenesis era, Hannes Grossmann used high-speed double bass pedals — typically Axis Longboard double pedals or Tama Speed Cobra equivalents. These pedal designs feature extended footplates and fast response curves that suit the heel-toe and swivel foot technique Grossmann uses to sustain 16th-note double-bass at the album's tempos. The Axis Longboard's extended footplate length distributes pedal work across the foot rather than concentrating it in the ankle, which is essential for the sustained passages on tracks like \"Cosmogenesis\" and \"Anticosmic Overload.\" For double-bass technique context: [double-bass drumming at MetalForge](/technique/double-bass-drumming)."
+        "answer": "During the Cosmogenesis era, Hannes Grossmann used a high-speed DW 9000 Series Double Pedal. This pedal design features a fast response curve that suits the heel-toe and swivel foot technique Grossmann uses to sustain 16th-note double-bass at the album's tempos, which is essential for the sustained passages on tracks like \"Cosmogenesis\" and \"Anticosmic Overload.\" For double-bass technique context: [double-bass drumming at MetalForge](/technique/double-bass-drumming)."
       },
       {
         "question": "Why is Cosmogenesis considered a landmark in technical death metal?",
@@ -553,7 +553,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "Cosmogenesis: The Album That Redefined What Tech Death Could Be",
-      "content": "Obscura's \"Cosmogenesis\" stands as one of the defining moments in modern technical death metal, and Hannes Grossmann's drum performance is one of the central reasons. The album proved that tech death could be more than fast, technical, and aggressive — it could also be compositionally intelligent, atmospheric, and musically expressive. Every double-kick passage, every blast beat, every fill on the record carries musical intent beyond its surface technical demands.\n\n**The Gear in Perspective:**\nGrossmann's setup on Cosmogenesis — high-end production shells, Meinl Byzance cymbals, Axis Longboard pedals, Vic Firth sticks — was professional but not exotic. What made it produce the iconic Cosmogenesis drum sound was the combination of V. Santura's production discipline and Grossmann's playing. The same gear in different hands or different production hands would not have produced the same album. The lesson is consistent across great metal drumming: gear is the foundation, but the performance is the music.\n\n**For Drummers Studying the Album:**\nStudy Cosmogenesis as a masterclass in technical death metal's compositional possibilities. Grossmann demonstrates how blast beats, double-bass, and tech-death vocabulary can be deployed as compositional events rather than constant defaults. Listen to how he enters \"Choir of Spirits\" — the dynamic restraint that precedes the album's most intense passages is what makes those passages land. That's drumming as composition.\n\n**The Hannes Grossmann Legacy:**\nFrom Necrophagist's Epitaph (2004) through Obscura's Cosmogenesis (2009) and onward through Omnivium, Akroasis, Diluvium, and the Alkaloid catalog, Hannes Grossmann has established himself as one of the defining drummers of modern progressive death metal. Cosmogenesis is his most complete statement and the album that proved his vocabulary could carry a record.\n\n**For deeper exploration:**\n- **Full drummer profile**: [Hannes Grossmann at MetalForge](/drummer/hannes-grossmann)\n- **Hannes Grossmann's broader kit setup**: [Hannes Grossmann drum setup](/articles/hannes-grossmann-drum-setup)\n- **Tech-death predecessor**: [Death's Individual Thought Patterns drum setup](/articles/individual-thought-patterns-drum-setup)\n- **Progressive death metal companion**: [Cynic's Focus drum setup](/articles/focus-drum-setup)"
+      "content": "Obscura's \"Cosmogenesis\" stands as one of the defining moments in modern technical death metal, and Hannes Grossmann's drum performance is one of the central reasons. The album proved that tech death could be more than fast, technical, and aggressive — it could also be compositionally intelligent, atmospheric, and musically expressive. Every double-kick passage, every blast beat, every fill on the record carries musical intent beyond its surface technical demands.\n\n**The Gear in Perspective:**\nGrossmann's setup on Cosmogenesis — DW Collectors Series shells, Meinl Byzance cymbals, a DW 9000 Series Double Pedal, Vic Firth sticks — was professional but not exotic. What made it produce the iconic Cosmogenesis drum sound was the combination of V. Santura's production discipline and Grossmann's playing. The same gear in different hands or different production hands would not have produced the same album. The lesson is consistent across great metal drumming: gear is the foundation, but the performance is the music.\n\n**For Drummers Studying the Album:**\nStudy Cosmogenesis as a masterclass in technical death metal's compositional possibilities. Grossmann demonstrates how blast beats, double-bass, and tech-death vocabulary can be deployed as compositional events rather than constant defaults. Listen to how he enters \"Choir of Spirits\" — the dynamic restraint that precedes the album's most intense passages is what makes those passages land. That's drumming as composition.\n\n**The Hannes Grossmann Legacy:**\nFrom Necrophagist's Epitaph (2004) through Obscura's Cosmogenesis (2009) and onward through Omnivium, Akroasis, Diluvium, and the Alkaloid catalog, Hannes Grossmann has established himself as one of the defining drummers of modern progressive death metal. Cosmogenesis is his most complete statement and the album that proved his vocabulary could carry a record.\n\n**For deeper exploration:**\n- **Full drummer profile**: [Hannes Grossmann at MetalForge](/drummer/hannes-grossmann)\n- **Hannes Grossmann's broader kit setup**: [Hannes Grossmann drum setup](/articles/hannes-grossmann-drum-setup)\n- **Tech-death predecessor**: [Death's Individual Thought Patterns drum setup](/articles/individual-thought-patterns-drum-setup)\n- **Progressive death metal companion**: [Cynic's Focus drum setup](/articles/focus-drum-setup)"
     }
   },
   "epitaph-drum-setup": {

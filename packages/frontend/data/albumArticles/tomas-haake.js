@@ -1359,7 +1359,7 @@ export const articles = {
     },
     "recordingTechniques": {
       "title": "Recording Koloss: Heaviness as a Production Value",
-      "content": "*Koloss* was recorded with an explicit intention to be heavier and more direct than *obZen* — a shift that required production choices that served density and mass as much as technical precision.\n\n**Tempo and Space:**\nThe most striking production characteristic of *Koloss* is its tempo range. Where *obZen* pushed the upper limits of what Haake could physically play, *Koloss* operates at slower, more deliberate paces. This is a deliberate compositional choice: at lower tempos, the weight of each note is more palpable, and the polyrhythmic cycles — though still complex — have more room to breathe and make their full gravitational impact. The drum sound on *Koloss* reflects this: slightly warmer, more spacious than *obZen*'s clinical precision.\n\n**The Groove-First Philosophy:**\n\"Do Not Look Down\" — the most frequently cited track from *Koloss* — exemplifies the album's approach. The drum pattern is genuinely complex in its polyrhythmic structure, but the overriding sensation is of an enormous, irresistible groove. Every element of the pattern serves the groove rather than demonstrating technical achievement. This represents Haake's mature compositional voice: the technique is invisible, the music is everything.\n\n**Self-Produced Control:**\n*Koloss* was self-produced by Meshuggah — the band took complete control of the recording process. This autonomy allowed them to optimize for the specific sonic qualities they were pursuing: extreme low-frequency heaviness, precise rhythmic definition, and a production character that amplified the weight of every note without clinical sterility.\n\n**Transitional Gear Period:**\n*Koloss* sits between the *obZen* era's Sonor Designer Series and *The Violent Sleep of Reason*'s DW Collector's Series. For Haake, it represents a period of gear evolution — the SQ2 transition — that ultimately led to a complete equipment change for the 2016 album.",
+      "content": "*Koloss* was recorded with an explicit intention to be heavier and more direct than *obZen* — a shift that required production choices that served density and mass as much as technical precision.\n\n**Tempo and Space:**\nThe most striking production characteristic of *Koloss* is its tempo range. Where *obZen* pushed the upper limits of what Haake could physically play, *Koloss* operates at slower, more deliberate paces. This is a deliberate compositional choice: at lower tempos, the weight of each note is more palpable, and the polyrhythmic cycles — though still complex — have more room to breathe and make their full gravitational impact. The drum sound on *Koloss* reflects this: slightly warmer, more spacious than *obZen*'s clinical precision.\n\n**The Groove-First Philosophy:**\n\"Do Not Look Down\" — the most frequently cited track from *Koloss* — exemplifies the album's approach. The drum pattern is genuinely complex in its polyrhythmic structure, but the overriding sensation is of an enormous, irresistible groove. Every element of the pattern serves the groove rather than demonstrating technical achievement. This represents Haake's mature compositional voice: the technique is invisible, the music is everything.\n\n**Self-Produced Control:**\n*Koloss* was self-produced by Meshuggah — the band took complete control of the recording process. This autonomy allowed them to optimize for the specific sonic qualities they were pursuing: extreme low-frequency heaviness, precise rhythmic definition, and a production character that amplified the weight of every note without clinical sterility.\n\n**Transitional Gear Period:**\n*Koloss* sits between the *obZen* era's Sonor Designer Series and the Sonor SQ2 platform that would carry through *The Violent Sleep of Reason* and beyond. For Haake, it represents the moment the SQ2 transition settled in — the shell platform he has used ever since.",
       "keyTechniques": [
         "Lower tempo range than obZen — heaviness through deliberate pacing rather than velocity",
         "Groove-first approach: technical complexity serves musical weight, not demonstration",
@@ -1409,7 +1409,7 @@ export const articles = {
     "faq": [
       {
         "question": "What drum kit did Tomas Haake use on Meshuggah's Koloss?",
-        "answer": "Tomas Haake recorded Meshuggah's Koloss (2012) during his transition from the Sonor Designer Series (used on obZen in 2008) to the Sonor SQ2 — a professional custom-order platform with enhanced shell specification options. The configuration maintained the same fundamental setup: two 22x18 inch bass drums driven by two independent Sonor Perfect Balance single pedals, 10x8 and 12x9 rack toms, 14x14 and 16x16 floor toms, and a Sonor SQ2 steel snare. Cymbals were Sabian AAX and AA series, consistent with the obZen era. By 2016 for The Violent Sleep of Reason, Haake had moved to DW Collector's Series drums."
+        "answer": "Tomas Haake recorded Meshuggah's Koloss (2012) during his transition from the Sonor Designer Series (used on obZen in 2008) to the Sonor SQ2 — a professional custom-order platform with enhanced shell specification options. The configuration maintained the same fundamental setup: two 22x18 inch bass drums driven by two independent Sonor Perfect Balance single pedals, 10x8 and 12x9 rack toms, 14x14 and 16x16 floor toms, and a Sonor SQ2 steel snare. Cymbals were Sabian AAX and AA series, consistent with the obZen era. That Sonor SQ2 platform is the same one Haake has used ever since, through The Violent Sleep of Reason (2016) and Immutable (2022)."
       },
       {
         "question": "What is the drum groove on 'Do Not Look Down' by Meshuggah?",
@@ -1467,35 +1467,35 @@ export const articles = {
     "dateModified": "2026-06-25",
     "author": "MetalForge Editorial",
     "title": "The Violent Sleep of Reason Drum Setup: Tomas Haake's Live-to-Tape Kit (2016)",
-    "description": "Complete breakdown of Tomas Haake's drum setup on Meshuggah's The Violent Sleep of Reason. Discover the DW Collector's Series kit, Meinl Classics Custom Dark cymbals, and why recording live-to-tape changed everything about this album's drum sound.",
+    "description": "Complete breakdown of Tomas Haake's drum setup on Meshuggah's The Violent Sleep of Reason. Discover the Sonor SQ2 Heavy Beech kit, Sabian HHX/AAX cymbals, and why recording live-to-tape changed everything about this album's drum sound.",
     "seoKeywords": [
       "tomas haake drum kit",
       "tomas haake 2016 kit",
       "violent sleep of reason drums",
       "meshuggah 2016 drum setup",
-      "tomas haake dw drums",
-      "tomas haake meinl cymbals",
+      "tomas haake sonor sq2",
+      "tomas haake sabian cymbals",
       "meshuggah live studio recording",
       "djent drum setup 2016"
     ],
     "ogImage": "/images/albums/violent-sleep-of-reason-drums.webp",
     "intro": {
       "title": "Live-to-Tape: The Raw Power Behind The Violent Sleep of Reason",
-      "content": "Released on October 7, 2016, Meshuggah's eighth studio album *The Violent Sleep of Reason* arrived with a production story unlike anything in the band's catalog. After years of meticulously engineered studio recordings — and one entirely programmed album in *Catch 33* — Meshuggah made a radical decision: record the entire album live in the studio with all five members playing simultaneously.\n\nNo click tracks. No overdubs on rhythm tracks. No piecemeal recording. Every take captured the band performing together in real time, feeding off each other's energy the way a live performance demands. The result is the most viscerally immediate-sounding Meshuggah record since their early recordings — and the most demanding test of Tomas Haake's abilities to date.\n\nFor the drum setup, this meant Haake chose a stripped-back, road-tested configuration rather than the heavily engineered studio rigs of previous albums. He switched from Sonor to DW (Drum Workshop) Collector's Series shells and adopted Meinl's Classics Custom Dark cymbals — a combination that delivered the raw, focused attack needed to lock in with four other musicians playing simultaneously in the same room.\n\nThis breakdown covers every piece of gear Tomas used on *The Violent Sleep of Reason*, explores the production decisions that shaped the album's sound, and examines how the live-in-studio approach changed what was possible — and impossible — for the Atomic Clock.",
+      "content": "Released on October 7, 2016, Meshuggah's eighth studio album *The Violent Sleep of Reason* arrived with a production story unlike anything in the band's catalog. After years of meticulously engineered studio recordings — and one entirely programmed album in *Catch 33* — Meshuggah made a radical decision: record the entire album live in the studio with all five members playing simultaneously.\n\nNo click tracks. No overdubs on rhythm tracks. No piecemeal recording. Every take captured the band performing together in real time, feeding off each other's energy the way a live performance demands. The result is the most viscerally immediate-sounding Meshuggah record since their early recordings — and the most demanding test of Tomas Haake's abilities to date.\n\nFor the drum setup, Haake stuck with the road-tested rig that had carried him through obZen and Koloss rather than reaching for something new: his long-standing Sonor SQ2 Heavy Beech kit and Sabian HHX/AAX cymbals, including his signature Compression Hi-Hats. That continuity was deliberate — with five musicians recording simultaneously in a live room, reliability mattered more than experimenting with new gear.\n\nThis breakdown covers every piece of gear Tomas used on *The Violent Sleep of Reason*, explores the production decisions that shaped the album's sound, and examines how the live-in-studio approach changed what was possible — and impossible — for the Atomic Clock.",
       "keyPoints": [
         "Entire album recorded live-to-tape — all five members simultaneously",
         "No click track on rhythm tracks — pure human locking-in",
-        "Tomas switched from Sonor to DW Collector's Series for this album",
-        "Meinl Classics Custom Dark cymbals replaced Sabian for 2016 touring and recording",
-        "Stripped-back touring rig rather than elaborate studio configuration",
+        "Sonor SQ2 Heavy Beech kit and Sabian HHX/AAX cymbals carried over unchanged from obZen and Koloss",
+        "Two independent Tama Speed Cobra single pedals — no double pedal, then or now",
+        "Road-tested rig chosen deliberately over an untested studio configuration",
         "Recorded at Soundtrade Studios, Stockholm with producer Tue Madsen"
       ]
     },
     "drumKit": {
-      "title": "The Live Rig: DW Collector's Series",
-      "brand": "DW (Drum Workshop)",
-      "model": "DW Collector's Series",
-      "finish": "Black Sparkle",
+      "title": "The Live Rig: Sonor SQ2 Heavy Beech",
+      "brand": "Sonor",
+      "model": "Sonor SQ2 Heavy Beech",
+      "finish": "Custom Matte Black",
       "config": {
         "bassdrums": [
           "22\" x 18\" Bass Drum (x2)"
@@ -1508,84 +1508,84 @@ export const articles = {
           "14\" x 14\" Floor Tom",
           "16\" x 16\" Floor Tom"
         ],
-        "shells": "North American Maple with reinforcement hoops"
+        "shells": "Heavy Beech shells (thicker than standard for powerful projection)"
       },
-      "description": "For *The Violent Sleep of Reason*, Tomas Haake transitioned to DW's Collector's Series — a move that marked his departure from his long-standing Sonor relationship. The Collector's Series uses North American maple shells, known for their warm, full-bodied tone with a focused attack that cuts through dense guitar frequencies.\n\nThe switch to DW coincided with Meshuggah's shift to live-in-studio recording. The Collector's Series shells are built for consistency under pressure — they respond predictably at high volume, hold tuning through temperature changes, and project with authority in a live room environment without the benefit of isolation and punch-in editing.\n\nHaake maintained his signature configuration: two bass drums rather than a double pedal, a compact tom arrangement, and 22-inch kick drums. The 22x18 bass drums provide the same punchy, controlled low-end foundation he established on obZen, but with the DW maple shell producing a slightly warmer fundamental frequency that suits the more natural, room-recorded sound.\n\nThe decision to use a stripped-back, touring-tested rig for the studio recording was deliberate. With five musicians recording simultaneously in a live room, reliability matters more than exotic studio configurations. Every piece of gear needed to perform without fail, take after take, for days on end.",
+      "description": "For *The Violent Sleep of Reason*, Tomas Haake stayed with the Sonor SQ2 Heavy Beech kit that had carried him through obZen and Koloss — a deliberate choice given the album's demands. The Heavy Beech shells deliver more attack and volume than standard configurations, exactly what's needed for a live room full of dense guitar and bass frequencies.\n\nSticking with the road-tested SQ2 suited Meshuggah's shift to live-in-studio recording. The Heavy Beech shells are built for consistency under pressure — they respond predictably at high volume, hold tuning through temperature changes, and project with authority in a live room environment without the benefit of isolation and punch-in editing.\n\nHaake maintained his signature configuration: two bass drums driven by two independent single pedals rather than a connected double pedal, a compact tom arrangement, and 22-inch kick drums. The 22x18 bass drums provide the same punchy, controlled low-end foundation he established on obZen.\n\nThe decision to use a stripped-back, touring-tested rig for the studio recording was deliberate. With five musicians recording simultaneously in a live room, reliability matters more than an unfamiliar studio configuration. Every piece of gear needed to perform without fail, take after take, for days on end.",
       "notes": [
-        "Transition from Sonor to DW Collector's Series for 2016 album",
-        "North American maple shells — warmer fundamental than Sonor maple/beech",
+        "Same Sonor SQ2 Heavy Beech platform carried over from obZen and Koloss",
+        "Heavy Beech shells for increased attack and projection",
         "Same 22\" bass drum configuration as obZen era",
-        "Touring rig used for studio recording — reliability over exotic studio setup",
+        "Touring rig used for studio recording — reliability over an unfamiliar studio setup",
         "Two SINGLE bass drum pedals maintained — no double pedal"
       ],
-      "estimatedValue": "$6,000-9,000 (2016)"
+      "estimatedValue": "$8,000-15,000 (2016, SQ2 Heavy Beech custom configuration)"
     },
     "snare": {
       "title": "The Anchor: Snare in a Live Room",
-      "brand": "DW",
-      "model": "DW Collector's Series Steel",
+      "brand": "Sonor",
+      "model": "Sonor Tomas Haake Signature Snare",
       "size": "14\" x 6.5\"",
-      "shell": "Stainless steel",
-      "description": "Recording live-to-tape places unique demands on the snare drum. In a standard multi-tracked session, the snare can be isolated, tuned specifically for a recording, and processed independently. In a live room with five musicians playing simultaneously, the snare must cut through natural bleed while retaining the punch and clarity essential to Meshuggah's rhythmic precision.\n\nHaake's DW steel snare at 14x6.5 inches delivered exactly that: a crack that projected through cymbal wash, guitar amplifiers, and room reverb without requiring excessive processing. The slightly deeper shell compared to his obZen-era Sonor snare (14x6) provided additional body — useful in a live room where the natural ambience adds depth.\n\nThe snare serves a specific function in Meshuggah's architecture: it marks reference points within the polyrhythmic landscape, anchoring the listener's perception of the beat even as kick patterns and guitar riffs cycle through extended odd-meter phrases. In a live recording environment, this anchoring role becomes even more critical — every musician is listening to the snare as a shared rhythmic reference.",
+      "shell": "Maple with unique bearing edges",
+      "description": "Recording live-to-tape places unique demands on the snare drum. In a standard multi-tracked session, the snare can be isolated, tuned specifically for a recording, and processed independently. In a live room with five musicians playing simultaneously, the snare must cut through natural bleed while retaining the punch and clarity essential to Meshuggah's rhythmic precision.\n\nHaake's Sonor signature snare at 14x6.5 inches delivered exactly that: a crack that projected through cymbal wash, guitar amplifiers, and room reverb without requiring excessive processing. The maple shell with its specific bearing edge design provided the body and attack that had already proven itself on obZen and Koloss — useful in a live room where the natural ambience adds depth.\n\nThe snare serves a specific function in Meshuggah's architecture: it marks reference points within the polyrhythmic landscape, anchoring the listener's perception of the beat even as kick patterns and guitar riffs cycle through extended odd-meter phrases. In a live recording environment, this anchoring role becomes even more critical — every musician is listening to the snare as a shared rhythmic reference.",
       "tuningSetting": "Medium tension for balance of attack and body; snare wires tightened for clarity in live room",
       "heads": "Remo Ambassador Coated (batter), Remo Diplomat Snare Side (resonant)",
-      "estimatedValue": "$450-600 (2016)"
+      "estimatedValue": "$500-700 (2016)"
     },
     "cymbals": {
-      "title": "Meinl Classics Custom Dark: A New Palette",
-      "brand": "Meinl",
-      "series": "Classics Custom Dark",
+      "title": "Sabian HHX/AAX: A Proven Palette",
+      "brand": "Sabian",
+      "series": "Sabian HHX / AAX Series",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Meinl Classics Custom Dark 14\" Hi-Hats",
+          "model": "Sabian HHX 14\" Compression Hi-Hats",
           "position": "Left side",
-          "notes": "Dark, controlled sound for intricate hi-hat patterns"
+          "notes": "Signature model — quick, tight response for intricate hi-hat patterns"
         },
         {
           "type": "Crash",
-          "model": "Meinl Classics Custom Dark 18\" Crash",
+          "model": "Sabian AAX 18\" X-Plosion Crash",
           "position": "Left of hi-hats",
-          "notes": "Dark, focused crash for section accents"
+          "notes": "Fast, bright crash for section accents"
         },
         {
           "type": "Crash",
-          "model": "Meinl Classics Custom Dark 19\" Crash",
+          "model": "Sabian HHX 19\" Evolution Crash",
           "position": "Right of toms",
-          "notes": "Slightly larger for fuller accent sound"
+          "notes": "Slightly darker, fuller accent sound"
         },
         {
           "type": "Ride",
-          "model": "Meinl Classics Custom Dark 21\" Ride",
+          "model": "Sabian HHX 21\" Raw Bell Dry Ride",
           "position": "Far right",
-          "notes": "Defined bell, controlled wash for groove work"
+          "notes": "Dry, defined bell for groove work"
         },
         {
           "type": "China",
-          "model": "Meinl Classics Custom Dark 18\" China",
+          "model": "Sabian HHX 18\" Chinese",
           "position": "Above floor tom",
-          "notes": "Focused trashy accent for section transitions"
+          "notes": "Controlled trashy accent for section transitions"
         }
       ],
-      "description": "The shift from Sabian AAX/AA to Meinl Classics Custom Dark cymbals represents one of the most significant gear changes in Haake's career. The Classics Custom Dark series uses a special hammering process that produces a darker, more controlled sound profile compared to the bright, aggressive character of his previous Sabian setup.\n\nFor *The Violent Sleep of Reason*'s live-in-studio approach, the darker cymbal character was a deliberate choice. Brighter cymbals can overwhelm a live room, creating cymbal bleed that makes separation difficult in the mix. The Meinl Classics Custom Dark series offers definition without excessive brightness — each crash, ride, and china retains its attack and decay characteristics without splashing into the frequency ranges occupied by guitars and bass.\n\nThe 14\" hi-hats provide the precise open/closed articulation central to Haake's hi-hat work. Much of Meshuggah's groove comes from the relationship between hi-hat patterns and the polyrhythmic kick/snare interplay — the hi-hats serve as a consistent reference pulse that makes the surrounding complexity perceivable rather than chaotic.",
-      "estimatedValue": "$1,600-2,200 total (2016)"
+      "description": "Haake carried his Sabian HHX/AAX setup — the same combination he'd relied on since obZen — into *The Violent Sleep of Reason*'s live-in-studio session unchanged. The HHX line's controlled, complex hammering pairs with the brighter AAX crashes to give definition without excessive splash.\n\nFor a live-in-studio approach, that controlled character was an asset rather than something to chase from a new brand. Overly bright, uncontrolled cymbals can overwhelm a live room, creating cymbal bleed that makes separation difficult in the mix. The Sabian HHX series offers definition without excessive brightness — each crash, ride, and china retains its attack and decay characteristics without splashing into the frequency ranges occupied by guitars and bass.\n\nThe 14\" HHX Compression Hi-Hats — Haake's own signature design — provide the precise open/closed articulation central to his hi-hat work. Much of Meshuggah's groove comes from the relationship between hi-hat patterns and the polyrhythmic kick/snare interplay — the hi-hats serve as a consistent reference pulse that makes the surrounding complexity perceivable rather than chaotic.",
+      "estimatedValue": "$2,500-3,500 total (2016)"
     },
     "hardware": {
       "title": "Foundation Hardware for Live Performance",
       "items": [
         {
           "type": "Bass Drum Pedals",
-          "brand": "DW",
-          "model": "DW 9000 Series (x2 single pedals)",
+          "brand": "Tama",
+          "model": "Tama Speed Cobra Single Pedals (x2 independent pedals)",
           "notes": "Two independent single pedals — essential for polyrhythmic foot independence",
-          "description": "The DW 9000 Series pedals are among the most specified in professional metal drumming. Haake's switch to DW extended to his pedal choice — the 9000 Series offers the same independent-pedal configuration he has maintained throughout his career, with smooth, adjustable action and reliable performance under the sustained demands of live performance."
+          "description": "The Tama Speed Cobra single pedals are the same pedals Haake has relied on since the SQ2 era began. Two separate pedals rather than a connected double pedal give each foot complete independence — smooth, adjustable action and reliable performance under the sustained demands of live performance."
         },
         {
           "type": "Sticks",
-          "brand": "Vic Firth",
-          "model": "Vic Firth Tomas Haake Signature",
+          "brand": "Wincent",
+          "model": "Wincent Tomas Haake Signature",
           "notes": "Custom signature model designed with Haake's input",
-          "description": "By 2016, Haake had developed his Vic Firth signature stick — a customized model reflecting his preferences for weight distribution, tip shape, and overall feel. Signature sticks allow subtle refinements that standard models don't offer, and for a drummer playing patterns as precise as Haake's, stick feel and balance directly impact performance consistency."
+          "description": "By 2016, Haake had developed his Wincent signature stick — a customized model reflecting his preferences for weight distribution, tip shape, and overall feel. Signature sticks allow subtle refinements that standard models don't offer, and for a drummer playing patterns as precise as Haake's, stick feel and balance directly impact performance consistency."
         },
         {
           "type": "Throne",
@@ -1596,9 +1596,9 @@ export const articles = {
         },
         {
           "type": "Hi-Hat Stand",
-          "brand": "DW",
-          "model": "DW 9000 Series Hi-Hat Stand",
-          "notes": "Matched to DW 9000 pedal series for consistent feel"
+          "brand": "Sonor",
+          "model": "Sonor 600 Series Hi-Hat Stand",
+          "notes": "Heavy-duty stand for consistent response"
         }
       ],
       "heads": {
@@ -1629,7 +1629,7 @@ export const articles = {
           "Snare accents mark reference points in the polyrhythmic landscape",
           "Demonstrates how live recording adds urgency to complex patterns"
         ],
-        "gearNotes": "DW Collector's Series warmth and Meinl Dark cymbals establish the album's sonic palette immediately."
+        "gearNotes": "Sonor SQ2 Heavy Beech warmth and Sabian HHX/AAX cymbals establish the album's sonic palette immediately."
       },
       {
         "track": "Born in Dissonance",
@@ -1641,7 +1641,7 @@ export const articles = {
           "Haake's hi-hat patterns create hypnotic pulse reference",
           "Demonstrates polyrhythm as groove tool, not just intellectual exercise"
         ],
-        "gearNotes": "Meinl Dark hi-hats provide the controlled articulation essential for this track's groove-forward approach."
+        "gearNotes": "Sabian HHX Compression Hi-Hats provide the controlled articulation essential for this track's groove-forward approach."
       },
       {
         "track": "MonstroCity",
@@ -1653,37 +1653,37 @@ export const articles = {
           "Demonstrates Meshuggah's ability to groove at any tempo",
           "Live recording captures the natural push-pull of real-time band interaction"
         ],
-        "gearNotes": "DW 9000 pedals provide the controlled response needed for groove-focused kick patterns at this tempo."
+        "gearNotes": "Tama Speed Cobra pedals provide the controlled response needed for groove-focused kick patterns at this tempo."
       }
     ],
     "vsObzen": {
       "title": "VSÖR vs obZen: How the Setup Changed",
-      "content": "*The Violent Sleep of Reason* sits eight years after *obZen* in the Meshuggah timeline, and the gear changes reflect both Haake's evolution and the demands of live-in-studio recording.\n\n**Kit Change — Sonor to DW:**\nobZen used the Sonor Designer Series with maple/beech shells — a tight, focused sound ideal for close-miked studio recording. For VSÖR, Haake moved to DW Collector's Series North American maple, which produces a warmer fundamental better suited to capturing natural room sound in a live recording environment.\n\n**Cymbal Change — Sabian to Meinl:**\nThe shift from Sabian AAX/AA to Meinl Classics Custom Dark is the most audible gear change between albums. Sabian AAX's bright, aggressive character works perfectly in an isolated studio environment where cymbals can be EQ'd with precision. In a live room with natural bleed, the Meinl Dark series' controlled, less splashy character provides better separation.\n\n**Pedal Change — Sonor to DW:**\nFrom the Sonor Perfect Balance single pedals to DW 9000 single pedals — both are among the finest single pedals available. The DW 9000's slightly different cam geometry and spring tension offer a different feel under the foot while maintaining the complete independence Haake's patterns require.\n\n**Sticks — Signature vs Standard:**\nBy 2016, Haake had his Vic Firth signature stick rather than standard 5A sticks. The signature model reflects years of refinement based on his specific playing demands.\n\n**What Didn't Change:**\nThe fundamental approach remained identical: two single bass drum pedals, compact tom configuration, 22-inch kick drums, and a philosophy that technique serves music rather than the other way around.",
+      "content": "*The Violent Sleep of Reason* sits eight years after *obZen* in the Meshuggah timeline, and the most notable change is in how the album was recorded — not in what Haake played it on.\n\n**Kit — Sonor SQ2, Unchanged:**\nobZen used the Sonor Designer Series with maple/beech shells; by *Koloss* Haake had transitioned to the Sonor SQ2. That SQ2 platform, with its Heavy Beech shells, carried forward into VSÖR unchanged — the same tight, focused attack that had already proven itself across two previous albums.\n\n**Cymbals — Sabian HHX/AAX, Unchanged:**\nHaake's Sabian HHX/AAX combination, including his signature HHX Compression Hi-Hats, remained the setup for VSÖR. The controlled, complex hammering of the HHX line paired with brighter AAX crashes gave definition without excessive splash — well suited to a live room where cymbal bleed has to be managed carefully.\n\n**Pedals — Tama Speed Cobra, Unchanged:**\nThe two independent Tama Speed Cobra single pedals Haake adopted years earlier remained his setup for VSÖR — no connected double pedal, then or now. Complete foot independence is non-negotiable for his polyrhythmic patterns.\n\n**Sticks — Signature vs Standard:**\nBy 2016, Haake had his Wincent signature stick rather than standard 5A sticks. The signature model reflects years of refinement based on his specific playing demands.\n\n**What Actually Changed:**\nThe gear stayed remarkably stable across obZen and VSÖR. What changed was the recording process itself: isolated, overdubbed, click-tracked sessions gave way to a live-to-tape performance with all five members in the room simultaneously — a production shift, not a gear shift.",
       "comparisonTable": [
         {
           "category": "Kit",
           "obzen": "Sonor Designer Series (maple/beech)",
-          "vsor": "DW Collector's Series (North American maple)"
+          "vsor": "Sonor SQ2 Heavy Beech"
         },
         {
           "category": "Snare",
           "obzen": "Sonor Designer Series Steel 14x6\"",
-          "vsor": "DW Collector's Series Steel 14x6.5\""
+          "vsor": "Sonor Tomas Haake Signature 14x6.5\""
         },
         {
           "category": "Cymbals",
           "obzen": "Sabian AAX / AA",
-          "vsor": "Meinl Classics Custom Dark"
+          "vsor": "Sabian HHX / AAX"
         },
         {
           "category": "Pedals",
           "obzen": "Sonor Perfect Balance single x2",
-          "vsor": "DW 9000 single x2"
+          "vsor": "Tama Speed Cobra single x2"
         },
         {
           "category": "Sticks",
           "obzen": "Vic Firth 5A",
-          "vsor": "Vic Firth Tomas Haake Signature"
+          "vsor": "Wincent Tomas Haake Signature"
         },
         {
           "category": "Recording",
@@ -1695,7 +1695,7 @@ export const articles = {
     "faq": [
       {
         "question": "What drums did Tomas Haake use on The Violent Sleep of Reason?",
-        "answer": "Tomas Haake recorded The Violent Sleep of Reason in 2016 on a DW Collector's Series kit, marking his transition away from the Sonor Designer Series he used on obZen. The DW setup featured North American maple shells in a Black Sparkle finish, with two 22x18 inch bass drums, 10x8 and 12x9 inch rack toms, and 14x14 and 16x16 inch floor toms. The maple shells provided a warmer fundamental tone compared to Sonor's maple/beech blend, which suited the album's live-in-studio recording approach where natural room sound plays a more significant role."
+        "answer": "Tomas Haake recorded The Violent Sleep of Reason in 2016 on the same Sonor SQ2 Heavy Beech kit he'd used since Koloss. The setup featured Heavy Beech shells in a custom matte black finish, with two 22x18 inch bass drums, 10x8 and 12x9 inch rack toms, and 14x14 and 16x16 inch floor toms. The thicker Heavy Beech shells deliver more attack and volume than standard configurations, which suited the album's live-in-studio recording approach where natural room sound plays a more significant role."
       },
       {
         "question": "Why was The Violent Sleep of Reason recorded live in the studio?",
@@ -1703,20 +1703,20 @@ export const articles = {
       },
       {
         "question": "How does Haake's VSÖR setup differ from his obZen rig?",
-        "answer": "The Violent Sleep of Reason setup differs from obZen in three key areas: the drum kit (Sonor Designer Series on obZen vs DW Collector's Series on VSÖR), the cymbals (Sabian AAX/AA on obZen vs Meinl Classics Custom Dark on VSÖR), and the pedals (Sonor Perfect Balance on obZen vs DW 9000 Series on VSÖR). The Meinl Classics Custom Dark cymbals produce a darker, more controlled sound compared to the bright Sabian AAX — a deliberate choice for a live-room recording environment where cymbal bleed must be managed more carefully. Haake also had his Vic Firth signature sticks by 2016 rather than the standard 5A sticks he used on obZen."
+        "answer": "The Violent Sleep of Reason setup is closer to obZen's than it might seem: the drum kit and cymbals stayed essentially the same — Sonor SQ2 Heavy Beech (the platform he'd moved to during Koloss) and Sabian HHX/AAX cymbals, including his signature Compression Hi-Hats. The pedals were the same two independent Tama Speed Cobra single pedals, never a double pedal. The most audible difference is the recording approach — live-to-tape versus obZen's isolated, click-tracked sessions — and Haake's sticks, which had become his own Wincent signature model by 2016 rather than standard 5A sticks."
       },
       {
         "question": "What cymbals did Tomas Haake use on The Violent Sleep of Reason?",
-        "answer": "Tomas Haake used Meinl Classics Custom Dark cymbals on The Violent Sleep of Reason, a significant change from the Sabian AAX and AA series he used on obZen. His VSÖR setup included Meinl Classics Custom Dark 14 inch hi-hats, 18 and 19 inch crash cymbals, a 21 inch ride, and an 18 inch china. The Classics Custom Dark series features a special hammering process that produces a darker, more focused tone with controlled sustain — well suited to live-room recording environments where excessive cymbal brightness can create problematic bleed into other microphones."
+        "answer": "Tomas Haake used Sabian HHX and AAX cymbals on The Violent Sleep of Reason — the same combination he'd played since obZen. His VSÖR setup included his signature Sabian HHX 14 inch Compression Hi-Hats, 18 and 19 inch crash cymbals, a 21 inch Raw Bell Dry Ride, and an 18 inch china. The HHX series' controlled, complex hammering produces a focused tone with manageable sustain — well suited to live-room recording environments where excessive cymbal brightness can create problematic bleed into other microphones."
       },
       {
         "question": "What pedals did Tomas Haake use on The Violent Sleep of Reason?",
-        "answer": "Tomas Haake used DW 9000 Series single pedals on The Violent Sleep of Reason — two independent single pedals rather than a connected double pedal, consistent with his entire career approach. The switch from Sonor Perfect Balance to DW 9000 pedals accompanied his broader transition to the DW product family for this album. The DW 9000 Series offers adjustable cam geometry and spring tension, allowing Haake to fine-tune the feel under each foot independently — essential for the complete foot independence his polyrhythmic patterns require."
+        "answer": "Tomas Haake used two independent Tama Speed Cobra single pedals on The Violent Sleep of Reason — never a connected double pedal, consistent with his entire career approach. The Speed Cobra's smooth, fast action gave Haake reliable performance take after take in the live room, essential for the complete foot independence his polyrhythmic patterns require."
       }
     ],
     "conclusion": {
       "title": "Live Energy, Polyrhythmic Precision",
-      "content": "*The Violent Sleep of Reason* occupies a unique position in Meshuggah's catalog and in the history of extreme metal recording. It proved that music of extraordinary rhythmic complexity — patterns that had been painstakingly constructed in isolation on previous records — could be performed live in a room, without a click track, by five musicians listening to each other in real time.\n\nFor Tomas Haake, the album represented a gear transition and a philosophical one. The move to DW Collector's Series drums and Meinl Classics Custom Dark cymbals wasn't just brand-switching — it was choosing tools optimized for a different kind of recording environment, one where organic interaction mattered as much as individual precision.\n\nThe stripped-back touring rig philosophy — reliable, road-tested, optimized for feel rather than studio-specific tone-chasing — produced an album that sounds different from obZen not just in gear terms, but in energy. Where obZen is precisely engineered, VSÖR is raw. Where obZen is metronomic, VSÖR breathes.\n\nBoth approaches are legitimate. Both represent Meshuggah at the peak of their powers. And both reveal something essential about Tomas Haake: that his technical mastery is in service of musical expression, whether that expression demands machine-like precision or the organic energy of musicians locked in a room together, playing music of inhuman complexity as if their lives depended on it.\n\nFor drummers studying the Meshuggah catalog, *The Violent Sleep of Reason* is essential: proof that the patterns are not just programmable or studio-correctable, but genuinely, humanly performable — live, simultaneously, without a safety net."
+      "content": "*The Violent Sleep of Reason* occupies a unique position in Meshuggah's catalog and in the history of extreme metal recording. It proved that music of extraordinary rhythmic complexity — patterns that had been painstakingly constructed in isolation on previous records — could be performed live in a room, without a click track, by five musicians listening to each other in real time.\n\nFor Tomas Haake, the album represented a philosophical shift rather than a gear one. Keeping his road-tested Sonor SQ2 Heavy Beech kit and Sabian HHX/AAX cymbals — the same tools that had already carried obZen and Koloss — wasn't a compromise; it was choosing proven gear for a demanding new recording environment, one where organic interaction mattered as much as individual precision.\n\nThe stripped-back touring rig philosophy — reliable, road-tested, optimized for feel rather than studio-specific tone-chasing — produced an album that sounds different from obZen not just in energy but in process. Where obZen is precisely engineered, VSÖR is raw. Where obZen is metronomic, VSÖR breathes.\n\nBoth approaches are legitimate. Both represent Meshuggah at the peak of their powers. And both reveal something essential about Tomas Haake: that his technical mastery is in service of musical expression, whether that expression demands machine-like precision or the organic energy of musicians locked in a room together, playing music of inhuman complexity as if their lives depended on it.\n\nFor drummers studying the Meshuggah catalog, *The Violent Sleep of Reason* is essential: proof that the patterns are not just programmable or studio-correctable, but genuinely, humanly performable — live, simultaneously, without a safety net."
     },
     "relatedAlbums": [
       "obzen-drum-setup",
@@ -1756,35 +1756,35 @@ export const articles = {
     "datePublished": "2026-06-25",
     "dateModified": "2026-06-25",
     "author": "MetalForge Editorial",
-    "title": "Immutable Drum Setup: Tomas Haake's 2022 Tama Bubinga Kit Breakdown",
-    "description": "Complete breakdown of Tomas Haake's drum setup on Meshuggah's Immutable (2022). Discover the Tama Starclassic Bubinga kit, Axis longboard double pedal, Zildjian A Custom and K series cymbals, and how COVID-delayed production shaped his most refined modern setup.",
+    "title": "Immutable Drum Setup: Tomas Haake's 2022 Sonor SQ2 Kit Breakdown",
+    "description": "Complete breakdown of Tomas Haake's drum setup on Meshuggah's Immutable (2022). Discover the Sonor SQ2 Heavy Beech kit, two independent Tama Speed Cobra single pedals, Sabian HHX/AAX cymbals, and how COVID-delayed production shaped his most refined modern setup.",
     "seoKeywords": [
       "tomas haake drum kit",
       "tomas haake 2022 setup",
       "meshuggah immutable drum kit",
       "immutable drums",
-      "tomas haake tama bubinga",
+      "tomas haake sonor sq2",
       "meshuggah latest album drummer",
-      "tomas haake axis pedal",
-      "tomas haake zildjian"
+      "tomas haake tama speed cobra",
+      "tomas haake sabian cymbals"
     ],
     "ogImage": "/images/albums/immutable-drums.webp",
     "intro": {
       "title": "Closing the Arc: Meshuggah's Most Refined Modern Setup",
-      "content": "Released on April 1, 2022 on Atomic Fire Records, Meshuggah's tenth studio album *Immutable* arrived after a six-year gap that included a global pandemic, a record-label change, and an extended period of hardware refinement for Tomas Haake. The COVID-enforced delay — originally scheduled for 2020 — gave the band, and Haake specifically, more time than any previous album cycle to finesse every detail of the recording setup.\n\nThe result is Meshuggah's most sonically precise modern album and the clearest snapshot of Tomas Haake's current drum rig. Where *The Violent Sleep of Reason* (2016) showcased a raw live-in-studio energy, *Immutable* returns to meticulous studio construction — but now with the Tama Starclassic Bubinga platform that Haake has refined over years of touring and clinic work.\n\n*Immutable* earned Meshuggah a Grammy nomination for Best Metal Performance (\"The Abysmal Eye\"), their first since 2013. It also marked their debut on Atomic Fire Records after decades with Nuclear Blast. For drummers and gear enthusiasts, it represents the most current and authoritative reference point for Haake's kit — the present-day answer to \"what does Tomas Haake play?\"\n\nThis breakdown covers every piece of gear Tomas used on *Immutable*, how the pandemic refinement period shaped the setup, and why this album closes the Meshuggah studio arc with Haake's most evolved configuration to date.",
+      "content": "Released on April 1, 2022 on Atomic Fire Records, Meshuggah's tenth studio album *Immutable* arrived after a six-year gap that included a global pandemic, a record-label change, and an extended period of hardware refinement for Tomas Haake. The COVID-enforced delay — originally scheduled for 2020 — gave the band, and Haake specifically, more time than any previous album cycle to finesse every detail of the recording setup.\n\nThe result is Meshuggah's most sonically precise modern album and the clearest snapshot of Tomas Haake's current drum rig. Where *The Violent Sleep of Reason* (2016) showcased a raw live-in-studio energy, *Immutable* returns to meticulous studio construction — built once again on the Sonor SQ2 Heavy Beech platform that Haake has refined over years of touring and clinic work.\n\n*Immutable* earned Meshuggah a Grammy nomination for Best Metal Performance (\"The Abysmal Eye\"), their first since 2013. It also marked their debut on Atomic Fire Records after decades with Nuclear Blast. For drummers and gear enthusiasts, it represents the most current and authoritative reference point for Haake's kit — the present-day answer to \"what does Tomas Haake play?\"\n\nThis breakdown covers every piece of gear Tomas used on *Immutable*, how the pandemic refinement period shaped the setup, and why this album closes the Meshuggah studio arc with Haake's most evolved configuration to date.",
       "keyPoints": [
         "Recorded at Sweetspot Studios, Halmstad, Sweden with producer Tue Madsen",
         "COVID delay gave Haake extra time for subtle hardware refinements",
-        "Tama Starclassic Bubinga — same platform as VSSoR era, meaningfully evolved",
-        "Axis A longboard double pedal — a departure from two independent single pedals",
-        "Zildjian A Custom with K series additions for darker modern overtones",
+        "Sonor SQ2 Heavy Beech — the same platform carried forward from the VSÖR era",
+        "Two independent Tama Speed Cobra single pedals — never a double pedal",
+        "Sabian HHX/AAX cymbals, including his signature Compression Hi-Hats",
         "Grammy-nominated for Best Metal Performance (\"The Abysmal Eye\") in 2023"
       ]
     },
     "drumKit": {
-      "title": "The Bubinga Behemoth: Tama Starclassic Custom",
-      "brand": "Tama",
-      "model": "Starclassic Bubinga Custom (Meshuggah-spec)",
+      "title": "The SQ2 Standard: Sonor Heavy Beech Consistency",
+      "brand": "Sonor",
+      "model": "Sonor SQ2 Heavy Beech (Meshuggah-spec)",
       "finish": "Custom flat black",
       "config": {
         "bassdrums": [
@@ -1798,89 +1798,89 @@ export const articles = {
           "14\" x 14\" Floor Tom",
           "16\" x 16\" Floor Tom"
         ],
-        "shells": "Bubinga outer ply with maple inner plies"
+        "shells": "Heavy Beech shells (thicker than standard for powerful projection)"
       },
-      "description": "For *Immutable*, Tomas Haake used his Tama Starclassic Bubinga in a Meshuggah-specific custom configuration. The Starclassic Bubinga is one of Tama's premium shell constructions — bubinga is a dense African hardwood with a pronounced low-mid resonance and punishing attack that suits extreme metal better than lighter maple-only shells.\n\nThe bubinga outer ply with maple inner construction delivers a distinctive tonal character: the attack is harder and more defined than pure maple, with a focused low-end punch that remains articulate even at the extreme downtuned frequencies Meshuggah operates in (guitars tuned to F standard). For Haake's bass drum work — where individual 32nd notes must remain perceptibly discrete — this articulation is not optional.\n\nThe configuration mirrors the setup Haake used on *The Violent Sleep of Reason*, demonstrating continuity in his approach while the hardware around the shells evolved. The 22x18 inch bass drums in particular are tuned for maximum punch with controlled sustain — each kick note needs to speak clearly in a dense wall of low-tuned guitar and bass frequencies.\n\nThe COVID pandemic delay worked in the kit's favor. Haake had additional time to road-test and settle into this configuration during the extended gap between albums, arriving in the studio with a fully dialed-in rig rather than one still being adjusted mid-cycle.",
+      "description": "For *Immutable*, Tomas Haake used his Sonor SQ2 Heavy Beech kit in a Meshuggah-specific custom configuration. The Heavy Beech shells are thicker than standard SQ2 configurations, delivering more attack and volume — essential when battling eight-string guitars tuned to F.\n\nThe thicker beech construction delivers a distinctive tonal character: the attack is harder and more defined than lighter shell configurations, with a focused low-end punch that remains articulate even at the extreme downtuned frequencies Meshuggah operates in. For Haake's bass drum work — where individual 32nd notes must remain perceptibly discrete — this articulation is not optional.\n\nThe configuration mirrors the setup Haake used on *The Violent Sleep of Reason*, demonstrating continuity in his approach across album cycles. The 22x18 inch bass drums in particular are tuned for maximum punch with controlled sustain — each kick note needs to speak clearly in a dense wall of low-tuned guitar and bass frequencies.\n\nThe COVID pandemic delay worked in the kit's favor. Haake had additional time to road-test and settle into this configuration during the extended gap between albums, arriving in the studio with a fully dialed-in rig rather than one still being adjusted mid-cycle.",
       "notes": [
-        "Bubinga outer ply delivers harder attack than maple-only shells",
-        "Same shell configuration as VSSoR era — refined, not replaced",
+        "Heavy Beech shells deliver harder attack than standard configurations",
+        "Same shell configuration as VSÖR era — refined, not replaced",
         "Custom flat black finish — functional, not decorative",
         "22x18 bass drums tuned for articulation over sustain",
         "Extended COVID delay allowed full settling-in of the configuration"
       ],
-      "estimatedValue": "$6,000-8,500 (2022)"
+      "estimatedValue": "$8,000-15,000 (2022, SQ2 Heavy Beech custom configuration)"
     },
     "snare": {
-      "title": "Steel Precision: The Starphonic at 14x6.5",
-      "brand": "Tama",
-      "model": "Starphonic Steel",
+      "title": "Steel Precision: The Sonor Signature at 14x6.5",
+      "brand": "Sonor",
+      "model": "Sonor Tomas Haake Signature Snare",
       "size": "14\" x 6.5\"",
-      "shell": "Steel",
-      "description": "The Tama Starphonic Steel snare on *Immutable* continues Haake's preference for bright, cutting steel-shell snares that project through Meshuggah's dense guitar frequencies. At 14x6.5 inches, it's slightly deeper than the steel snares of earlier eras — the extra half inch adds body and crack without sacrificing the attack response Haake requires for precisely articulated snare hits.\n\nThe Starphonic line is Tama's premium single-ply shell snare series, engineered for maximum resonance and sensitivity. Unlike heavier double-ply shells, the single ply allows the snare to respond with immediacy — essential when every snare hit occupies a precise rhythmic position within Meshuggah's complex polyrhythmic architecture.\n\nHaake tunes the Starphonic medium-high with tight snare wires, maintaining the bright, cutting character that anchors the listener's sense of pulse even as guitars and bass explore extended polyrhythmic cycles. In Meshuggah's music, the snare is often the most reliable rhythmic reference point — the \"clock\" that grounds the listener while everything else seems to dissolve time.",
-      "tuningSetting": "Medium-high tension, tight snare wires for clarity and attack",
+      "shell": "Maple with unique bearing edges",
+      "description": "The Sonor Tomas Haake Signature snare on *Immutable* continues Haake's preference for cutting, focused snares that project through Meshuggah's dense guitar frequencies. At 14x6.5 inches, the maple shell with its specific bearing edge design provides body and crack without sacrificing the attack response Haake requires for precisely articulated snare hits.\n\nThe signature snare is engineered for maximum resonance and sensitivity, allowing the snare to respond with immediacy — essential when every snare hit occupies a precise rhythmic position within Meshuggah's complex polyrhythmic architecture. Haake also keeps a Sonor Artist Series Bronze snare in rotation for different tonal contexts.\n\nHaake tunes the signature snare in the medium range, maintaining the cutting character that anchors the listener's sense of pulse even as guitars and bass explore extended polyrhythmic cycles. In Meshuggah's music, the snare is often the most reliable rhythmic reference point — the \"clock\" that grounds the listener while everything else seems to dissolve time.",
+      "tuningSetting": "Medium tension, tight snare wires for clarity and attack",
       "heads": "Remo Ambassador Coated (batter), Remo Diplomat Snare Side (resonant)",
-      "estimatedValue": "$350-500 (2022)"
+      "estimatedValue": "$500-700 (2022)"
     },
     "cymbals": {
-      "title": "Zildjian Hybrid Arsenal: A Custom Brightness, K Series Depth",
-      "brand": "Zildjian",
-      "series": "A Custom + K Series",
+      "title": "Sabian Precision: HHX Brightness, AAX Depth",
+      "brand": "Sabian",
+      "series": "Sabian HHX / AAX Series",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Zildjian A Custom 14\" Hi-Hats",
+          "model": "Sabian HHX 14\" Compression Hi-Hats",
           "position": "Left side",
-          "notes": "Bright, cutting response for intricate pattern work"
+          "notes": "Signature model — quick, tight response for intricate pattern work"
         },
         {
           "type": "Crash",
-          "model": "Zildjian A Custom 18\" Crash",
+          "model": "Sabian AAX 18\" X-Plosion Crash",
           "position": "Left of hi-hats",
           "notes": "Quick attack, controlled decay for precise accents"
         },
         {
           "type": "Crash",
-          "model": "Zildjian K Custom Dark 19\" Crash",
+          "model": "Sabian HHX 19\" Evolution Crash",
           "position": "Right of toms",
-          "notes": "Darker overtones added post-2016 for contrast"
+          "notes": "Darker, more complex crash for contrast"
         },
         {
           "type": "Ride",
-          "model": "Zildjian A Custom 21\" Ride",
+          "model": "Sabian HHX 21\" Raw Bell Dry Ride",
           "position": "Far right",
-          "notes": "Bell clarity for accents in dense arrangements"
+          "notes": "Dry, defined bell for accents in dense arrangements"
         },
         {
           "type": "China",
-          "model": "Zildjian K 19\" China",
+          "model": "Sabian HHX 18\" Chinese",
           "position": "Above floor tom",
-          "notes": "Trashy, dark character for dynamic contrast"
+          "notes": "Controlled, trashy character for dynamic contrast"
         },
         {
-          "type": "Splash",
-          "model": "Zildjian A Custom 10\" Splash",
+          "type": "Crash",
+          "model": "Sabian AAX 20\" X-Plosion Crash",
           "position": "Above hi-hats",
           "notes": "Quick accent cymbal"
         }
       ],
-      "description": "Tomas Haake's cymbal setup for *Immutable* blends Zildjian's A Custom and K series — a hybrid approach that developed through the post-2016 period and reached its most evolved form on this album. The A Custom series provides the brightness and quick response that Haake requires for his intricate hi-hat work and crash accents; the K series additions introduce darker, more complex overtones that enrich the sonic texture.\n\nThe 14\" A Custom hi-hats are central to Haake's pattern work. Meshuggah's groove frequently lives in the hi-hat layer — the consistent pulse against which guitars and kicks create polyrhythmic tension. The A Custom's crisp, focused sound ensures that pulse remains audible even in the most densely arranged passages.\n\nThe K Custom Dark 19\" crash represents the most significant addition since the obZen era. Darker cymbals respond more slowly than bright crashes, creating a different kind of accent — one that blooms rather than snaps. This contrast between bright A Custom crashes (immediate, sharp) and the K Custom Dark (slower, complex) gives Haake more expressive range within the same musical context.\n\nThe K 19\" China continues Meshuggah's preference for trashy, definitive section markers. In music with extended rhythmic cycles, the China cut through precisely delineates structural moments — when Meshuggah's polyrhythm finally \"resolves,\" the China is often the signal.",
-      "estimatedValue": "$1,600-2,200 total (2022)"
+      "description": "Tomas Haake's cymbal setup for *Immutable* blends Sabian's HHX and AAX lines — the same combination he has relied on since the obZen era. The HHX series provides the darker complexity and controlled response that Haake requires for precise crash accents; the brighter AAX crashes add fast attack for immediate cut-through.\n\nThe 14\" HHX Compression Hi-Hats — Haake's own signature design — are central to his pattern work. Meshuggah's groove frequently lives in the hi-hat layer — the consistent pulse against which guitars and kicks create polyrhythmic tension. The Compression Hi-Hats' crisp, focused sound ensures that pulse remains audible even in the most densely arranged passages.\n\nThe HHX Evolution 19\" crash provides a darker option alongside the brighter AAX crashes: darker cymbals respond more slowly, creating a different kind of accent — one that blooms rather than snaps. This contrast between bright AAX crashes (immediate, sharp) and the HHX Evolution (slower, complex) gives Haake more expressive range within the same musical context.\n\nThe HHX 18\" China continues Meshuggah's preference for trashy, definitive section markers. In music with extended rhythmic cycles, the China cut through precisely delineates structural moments — when Meshuggah's polyrhythm finally \"resolves,\" the China is often the signal.",
+      "estimatedValue": "$2,500-3,500 total (2022)"
     },
     "hardware": {
-      "title": "The Longboard Evolution: Axis A and Modern Hardware",
+      "title": "The Foundation of Independence, Unchanged",
       "items": [
         {
           "type": "Bass Drum Pedals",
-          "brand": "Axis",
-          "model": "Axis A Longboard Double Pedal",
-          "notes": "Evolution from two independent single pedals — longboard platform for extended footboard",
-          "description": "The Axis A longboard represents a notable evolution in Haake's pedal approach. The extended footboard provides more surface area for heel-toe technique, while the Axis linkage is engineered for minimal energy transfer between feet — preserving much of the independence Haake previously achieved with two completely separate single pedals. The aluminum construction reduces mass without sacrificing rigidity, allowing faster response at extreme tempos."
+          "brand": "Tama",
+          "model": "Tama Speed Cobra Single Pedals (TWO separate pedals)",
+          "notes": "THE defining feature of Tomas's setup — two independent pedals, NOT a double pedal",
+          "description": "Tomas uses two separate Tama Speed Cobra single pedals rather than a traditional double pedal. This allows each foot to operate with complete independence — essential for polyrhythmic patterns where the feet might play different subdivisions or even different rhythms entirely. The Speed Cobra's smooth, fast action supports his demanding technique on Immutable, just as it has on every album since he adopted the platform."
         },
         {
           "type": "Hi-Hat Stand",
-          "brand": "Tama",
-          "model": "Tama Iron Cobra Hi-Hat Stand",
-          "notes": "Stable platform for intricate hi-hat work"
+          "brand": "Sonor",
+          "model": "Sonor 600 Series Hi-Hat Stand",
+          "notes": "Heavy-duty stand for consistent response"
         },
         {
           "type": "Throne",
@@ -1891,8 +1891,8 @@ export const articles = {
         },
         {
           "type": "Sticks",
-          "brand": "Vic Firth",
-          "model": "Vic Firth 5A American Classic",
+          "brand": "Wincent",
+          "model": "Wincent Tomas Haake Signature",
           "notes": "Long-term preference — unchanged across multiple album cycles"
         }
       ],
@@ -1904,7 +1904,7 @@ export const articles = {
     },
     "recordingTechniques": {
       "title": "Sweetspot Studios: Precision Re-Engineered",
-      "content": "Recording *Immutable* at Sweetspot Studios in Halmstad with longtime collaborator Tue Madsen represented a return to the controlled studio environment after the live-in-studio experiment of *The Violent Sleep of Reason*. Madsen, who had engineered VSÖR, was familiar with Haake's playing and the specific challenges of capturing Meshuggah's drum sound.\n\n**The COVID Refinement Window:**\nThe pandemic-enforced delay proved unexpectedly productive for the drum setup. Haake used the additional time — nearly two years beyond the originally planned recording date — to systematically evaluate and refine every component. The Axis longboard pedal integration, in particular, required significant adaptation time. Rather than rushing the transition mid-album-cycle, the delay allowed Haake to fully embed the new pedal feel into his muscle memory before entering the studio.\n\n**Click Track Return:**\nUnlike *The Violent Sleep of Reason*, *Immutable* was recorded with click tracks, allowing for the meticulous note-by-note precision that Meshuggah's studio recordings are known for. This also allowed more flexibility in the recording process — the band could overdub and punch in rather than requiring complete simultaneous performances.\n\n**Microphone Setup:**\n- Kick drums: AKG D112 inside, Yamaha Subkick outside, triggers blended for consistency\n- Snare: Shure SM57 top, AKG C451 bottom\n- Toms: Sennheiser MD421 on each\n- Hi-hat: AKG C451\n- Overheads: Neumann KM184s in ORTF configuration\n- Room mics: minimal — Sweetspot's controlled acoustic environment kept ambience tight\n\n**Production Philosophy:**\nTue Madsen's approach on *Immutable* aimed for the best of both worlds: the sonic precision of obZen-era studio craft combined with a more natural, three-dimensional drum sound than the hyper-compressed extreme metal productions of the early 2010s. The result is a drum sound that is both articulate and organic — you can hear the physical reality of the instrument, not just processed signals.",
+      "content": "Recording *Immutable* at Sweetspot Studios in Halmstad with longtime collaborator Tue Madsen represented a return to the controlled studio environment after the live-in-studio experiment of *The Violent Sleep of Reason*. Madsen, who had engineered VSÖR, was familiar with Haake's playing and the specific challenges of capturing Meshuggah's drum sound.\n\n**The COVID Refinement Window:**\nThe pandemic-enforced delay proved unexpectedly productive for the drum setup. Haake used the additional time — nearly two years beyond the originally planned recording date — to systematically evaluate and refine every component of his established Sonor SQ2 / Sabian HHX-AAX / Tama Speed Cobra rig. Rather than rushing new gear into an album cycle, the delay allowed Haake to arrive at the studio with a setup he'd had years to dial in.\n\n**Click Track Return:**\nUnlike *The Violent Sleep of Reason*, *Immutable* was recorded with click tracks, allowing for the meticulous note-by-note precision that Meshuggah's studio recordings are known for. This also allowed more flexibility in the recording process — the band could overdub and punch in rather than requiring complete simultaneous performances.\n\n**Microphone Setup:**\n- Kick drums: AKG D112 inside, Yamaha Subkick outside, triggers blended for consistency\n- Snare: Shure SM57 top, AKG C451 bottom\n- Toms: Sennheiser MD421 on each\n- Hi-hat: AKG C451\n- Overheads: Neumann KM184s in ORTF configuration\n- Room mics: minimal — Sweetspot's controlled acoustic environment kept ambience tight\n\n**Production Philosophy:**\nTue Madsen's approach on *Immutable* aimed for the best of both worlds: the sonic precision of obZen-era studio craft combined with a more natural, three-dimensional drum sound than the hyper-compressed extreme metal productions of the early 2010s. The result is a drum sound that is both articulate and organic — you can hear the physical reality of the instrument, not just processed signals.",
       "keyTechniques": [
         "Click track recording — precise overdub capability unlike VSÖR",
         "Trigger blending for bass drum consistency with organic character",
@@ -1920,10 +1920,10 @@ export const articles = {
         "highlights": [
           "Opening single — immediate statement of current Haake approach",
           "Bass drum pattern creates rhythmic displacement against guitars",
-          "Axis longboard integration fully audible in kick articulation",
+          "Two independent Tama Speed Cobra pedals fully audible in the kick articulation",
           "Snare anchors the \"true\" pulse throughout"
         ],
-        "gearNotes": "Axis longboard delivers clean articulation across the polyrhythmic kick pattern. Zildjian A Custom hi-hats provide the crisp pulse layer."
+        "gearNotes": "Tama Speed Cobra pedals deliver clean articulation across the polyrhythmic kick pattern. Sabian HHX Compression Hi-Hats provide the crisp pulse layer."
       },
       {
         "track": "The Abysmal Eye",
@@ -1935,37 +1935,37 @@ export const articles = {
           "Extended rhythmic cycle before resolution",
           "K Custom Dark crash adds bloom to structural accent points"
         ],
-        "gearNotes": "K Custom Dark 19\" crash bloom contrasts with A Custom brightness. Starphonic snare provides the sharp pulse-marking the track requires."
+        "gearNotes": "Sabian HHX Evolution 19\" crash bloom contrasts with AAX brightness. Sonor signature snare provides the sharp pulse-marking the track requires."
       },
       {
         "track": "Ligature Marks",
         "bpm": "120",
         "signature": "4/4 with rapid polyrhythmic displacement",
         "highlights": [
-          "High-tempo showcase for Axis longboard integration",
+          "High-tempo showcase for two-single-pedal foot independence",
           "Complex hi-hat patterns layered over bass drum work",
           "Snare syncopations create rhythmic tension",
           "Demonstrates Haake's endurance at higher tempos"
         ],
-        "gearNotes": "Tama Starclassic Bubinga punch is most evident here — the bass drums stay articulate at higher BPM. Bubinga attack ensures note separation."
+        "gearNotes": "Sonor SQ2 Heavy Beech punch is most evident here — the bass drums stay articulate at higher BPM. Heavy Beech attack ensures note separation."
       }
     ],
     "faq": [
       {
         "question": "What does Tomas Haake play on Immutable?",
-        "answer": "On Meshuggah's Immutable (2022), Tomas Haake played a Tama Starclassic Bubinga custom kit in Meshuggah-spec configuration — two 22x18 inch bass drums, 10x8 and 12x9 inch rack toms, and 14x14 and 16x16 inch floor toms. His snare was a Tama Starphonic Steel at 14x6.5 inches. The Bubinga outer ply with maple inner shells delivers the hard, articulate attack essential for Meshuggah's downtuned, polyrhythmic music. This configuration evolved from the setup he used on The Violent Sleep of Reason (2016), refined during the COVID-enforced production delay."
+        "answer": "On Meshuggah's Immutable (2022), Tomas Haake played a Sonor SQ2 Heavy Beech custom kit in Meshuggah-spec configuration — two 22x18 inch bass drums, 10x8 and 12x9 inch rack toms, and 14x14 and 16x16 inch floor toms. His snare was a Sonor Tomas Haake Signature at 14x6.5 inches. The thicker Heavy Beech shells deliver the hard, articulate attack essential for Meshuggah's downtuned, polyrhythmic music. This is the same platform he used on The Violent Sleep of Reason (2016), refined during the COVID-enforced production delay."
       },
       {
         "question": "What cymbals did Meshuggah use on Immutable?",
-        "answer": "Tomas Haake used a hybrid Zildjian setup on Immutable: Zildjian A Custom series for hi-hats (14 inch), primary crash (18 inch), ride (21 inch), and splash (10 inch), supplemented by K series additions for darker overtones — including a K Custom Dark 19 inch crash and a K 19 inch China. The A Custom series provides the bright, fast-responding sound Haake needs for intricate hi-hat patterns and precise crash accents, while the K series additions introduced after 2016 add darker, more complex overtones for tonal contrast. This hybrid approach replaced his earlier Sabian AAX/AA setup."
+        "answer": "Tomas Haake used his long-standing Sabian setup on Immutable: Sabian HHX signature Compression Hi-Hats (14 inch), AAX and HHX crashes (18-20 inch), an HHX Raw Bell Dry Ride (21 inch), and an HHX China (18 inch). The HHX series provides the darker, more complex overtones Haake needs for precise crash accents, while the brighter AAX crashes add fast attack for cut-through. This is the same Sabian HHX/AAX combination he's used since obZen — no cymbal brand change ever happened."
       },
       {
         "question": "How does Immutable differ from obZen gear-wise?",
-        "answer": "Immutable (2022) and obZen (2008) represent fourteen years of gear evolution for Tomas Haake. On obZen, Haake played Sonor Designer Series maple/beech shells with Sabian AAX/AA cymbals and two independent Sonor Perfect Balance single pedals. By Immutable, the kit was Tama Starclassic Bubinga (harder attack, denser shell), cymbals had shifted to Zildjian A Custom and K series (brighter hi-hats, darker crash options), and the pedal approach evolved to an Axis A longboard double pedal. The Porter & Davies BC2 throne and Remo head selection remain consistent across both albums — anchors in an otherwise significantly evolved setup."
+        "answer": "Immutable (2022) and obZen (2008) show remarkable continuity in Tomas Haake's gear. On obZen, Haake played Sonor Designer Series maple/beech shells with Sabian AAX/AA cymbals and two independent Sonor Perfect Balance single pedals. By Immutable, the kit had moved to the Sonor SQ2 Heavy Beech (a transition that happened during Koloss), the pedals had shifted to two independent Tama Speed Cobra single pedals, and the cymbals had refined within the Sabian family to the HHX/AAX combination including his signature Compression Hi-Hats. The core philosophy — Sonor drums, Sabian cymbals, two single pedals rather than a double pedal — never changed. The Porter & Davies BC2 throne and Remo head selection remain consistent across both albums as well."
       },
       {
         "question": "Did Tomas Haake change his pedal setup for Immutable?",
-        "answer": "Yes — Immutable marks a notable transition in Haake's pedal approach. For most of his career, including obZen and earlier albums, Haake used two completely independent single pedals rather than a double pedal, prioritizing absolute foot independence. For Immutable, he adopted the Axis A longboard double pedal — a connected double pedal with an extended footboard and a linkage engineered to minimize energy transfer between feet. The COVID production delay provided additional time to fully integrate this change before entering the studio, ensuring the new pedal feel was fully embedded in his muscle memory."
+        "answer": "No — Immutable continues Haake's long-standing pedal approach. For his entire career, including obZen and every album since, Haake has used two completely independent Tama Speed Cobra single pedals rather than a connected double pedal, prioritizing absolute foot independence for his polyrhythmic patterns. The COVID production delay gave him additional time to refine his existing setup, but the fundamental two-single-pedal philosophy never changed."
       },
       {
         "question": "What album is Immutable on and when was it released?",
@@ -1974,7 +1974,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "The Present-Day Blueprint: Haake's Most Evolved Modern Setup",
-      "content": "*Immutable* closes the Meshuggah studio arc as the definitive reference point for Tomas Haake's current drum configuration. From the Sonor Designer Series that powered obZen's genre-defining polyrhythms, through the DW Collector's Series of the live-in-studio *Violent Sleep of Reason*, to the Tama Starclassic Bubinga that anchors *Immutable* — each iteration has been a deliberate evolution, not a random gear change.\n\nThe COVID delay, frustrating as it was, produced an unexpected dividend: Haake arrived at Sweetspot Studios with the most thoroughly prepared and settled drum rig of any album in the band's catalog. The Axis longboard integration was complete. The Zildjian hybrid cymbal setup was dialed in. The Starphonic snare tuning was established. Everything was ready.\n\nFor drummers studying the Meshuggah catalog, *Immutable* is the essential final chapter — the present-day answer to \"what does Tomas Haake actually play?\" It's also proof that after more than three decades with Meshuggah, his evolution continues: new pedal platform, evolved cymbal philosophy, refined snare dimensions, all in service of the same foundational principle that has defined his playing since \"Bleed.\"\n\nGroove is everything. Complexity serves the song. The polyrhythms are not math exercises — they are music.\n\nTomas Haake on *Immutable*: the Atomic Clock, still running."
+      "content": "*Immutable* closes the Meshuggah studio arc as the definitive reference point for Tomas Haake's current drum configuration. From the Sonor Designer Series that powered obZen's genre-defining polyrhythms, through the Sonor SQ2 Heavy Beech that carried *The Violent Sleep of Reason*, to the same SQ2 platform that anchors *Immutable* — the setup has been a story of refinement, not reinvention.\n\nThe COVID delay, frustrating as it was, produced an unexpected dividend: Haake arrived at Sweetspot Studios with the most thoroughly prepared and settled drum rig of any album in the band's catalog. The Sabian HHX/AAX cymbal setup was dialed in. The Tama Speed Cobra pedal feel was second nature. The Sonor signature snare tuning was established. Everything was ready.\n\nFor drummers studying the Meshuggah catalog, *Immutable* is the essential final chapter — the present-day answer to \"what does Tomas Haake actually play?\" It's also proof that after more than three decades with Meshuggah, consistency can be its own kind of mastery: the same Sonor SQ2, the same Sabian HHX/AAX, the same two independent single pedals, all in service of the same foundational principle that has defined his playing since \"Bleed.\"\n\nGroove is everything. Complexity serves the song. The polyrhythms are not math exercises — they are music.\n\nTomas Haake on *Immutable*: the Atomic Clock, still running."
     },
     "relatedAlbums": [
       "obzen-drum-setup",

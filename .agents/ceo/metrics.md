@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-22 02:09 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-22 06:37 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,22 +8,22 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 224 |
-| Sessions | 263 |
-| Page views | 438 |
-| Engagement rate | 51.71% |
-| Avg session (s) | 190 |
+| Active users | 229 |
+| Sessions | 270 |
+| Page views | 446 |
+| Engagement rate | 50.37% |
+| Avg session (s) | 185 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
 | /drummers | 43 | 5 |
 | / | 32 | 27 |
-| /drummer/joey-jordison | 12 | 6 |
+| /drummer/joey-jordison | 14 | 7 |
 | /drummer/mario-duplantier | 12 | 10 |
 | /articles/obsolete-drum-setup | 9 | 1 |
+| /drummer/danny-carey | 9 | 6 |
 | /drummer/brann-dailor | 8 | 2 |
-| /drummer/danny-carey | 8 | 5 |
 | /drummers/dave-lombardo/evolution | 8 | 2 |
 | /articles/st-anger-drum-setup | 7 | 6 |
 | /drummer/ben-koller | 6 | 5 |
@@ -31,17 +31,17 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 211 | 172 |
+| Organic Search | 218 | 177 |
 | Direct | 46 | 46 |
-| Unassigned | 28 | 27 |
+| Unassigned | 34 | 31 |
 | AI Assistant | 1 | 1 |
 | Organic Social | 1 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 105 | 82 |
-| United Kingdom | 13 | 11 |
+| United States | 111 | 86 |
+| United Kingdom | 14 | 12 |
 | Canada | 12 | 10 |
 | Germany | 12 | 12 |
 | France | 10 | 8 |

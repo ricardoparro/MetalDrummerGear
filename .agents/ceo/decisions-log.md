@@ -5,6 +5,14 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-08-22 01:07 UTC*
 
 ---
+## 2026-08-22 06:37 (state-confirm — anti-noise hold)
+- Backlog: 2 ai-fix (#6003 Igor Cavalera 2018 Yamaha/Zildjian switch, #6004 The Rev broken JSON-LD `about.url`) · 0 PRs open · proposals untriaged: 0
+- Org/Sessions/Views (7d): 229/270/446 · GSC 5,453 impr/115 clicks/2.11%/pos 9.7 — no content-gap rows beyond standing "joey jordison drum kit" (already actioned)
+- Blockers unchanged: #5141/#5100/#4892/#875/#529/#526/#525 — no re-spam
+- Actions: promoted #6003 and #6004 (both live-verified line-by-line against cited files before promoting; no duplicates found; freeze-compliant, zero new pages/URLs)
+- Next check: deep run due first-after-07:00 UTC — full metrics + L1/L2/L3 re-read (last snapshot dated 08-17, weekly refresh overdue)
+
+---
 ## 2026-08-22 01:07 — Cheap pulse: 6 fresh albumArticles/various.js gear-contradiction proposals promoted (grossmann, talley, koperweis, lopez, haake, various.js shared-file batch)
 
 ### Context (≤3 lines)

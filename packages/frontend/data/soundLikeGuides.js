@@ -4997,7 +4997,7 @@ This guide covers Igor's core technique across both the thrash period (Beneath t
           toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom'],
           floorToms: ['16" x 14" Floor Tom', '18" x 16" Floor Tom']
         },
-        description: "Igor is a long-time Tama endorser today, but during the Roots era he switched to Pearl Masters Custom maple shells — a change that delivered the warm, resonant tone that suited both the tribal and thrash elements of the album. He currently plays Tama Starclassic Maple. Both deliver the focused attack and warm sustain his groove-oriented style requires.",
+        description: "Igor played Tama Starclassic Maple from 2007 to 2018 during the Cavalera Conspiracy era, having switched to Pearl Masters Custom maple shells during the Roots era before that — a change that delivered the warm, resonant tone that suited both the tribal and thrash elements of the album. In August 2018 he announced a new endorsement with Yamaha and now plays a Yamaha Absolute Hybrid Maple kit. Both the Pearl and Tama shells delivered the focused attack and warm sustain his groove-oriented style requires.",
         affiliateNote: "Tama Superstar Classic or Imperialstar are accessible alternatives with similar maple character."
       },
       snare: {
@@ -5130,13 +5130,13 @@ This guide covers Igor's core technique across both the thrash period (Beneath t
         pedals: "Tama Iron Cobra Power Glide Double Pedal ($500)",
         snare: "Tama S.L.P. G-Maple ($300)",
         heads: "Full Evans setup ($200)",
-        notes: "Tama Starclassic Maple is Igor's current stage kit. Pair with a full RUDE cymbal setup for the complete Cavalera sound."
+        notes: "Tama Starclassic Maple was Igor's stage kit from 2007 to 2018, paired with a full RUDE cymbal setup for the classic Cavalera Conspiracy sound. Since 2018 he plays a Yamaha Absolute Hybrid Maple kit with Zildjian cymbals."
       }
     },
     faq: [
       {
         question: "What drum kit did Igor Cavalera use on Roots?",
-        answer: "Igor Cavalera used Pearl Masters Custom maple-shell kits during the Roots (1996) recording and touring period, a switch from the Tama gear of his earlier Sepultura years, providing warm, resonant tone suited to both the tribal elements and the heavy metal intensity of the album. He currently plays Tama Starclassic Maple."
+        answer: "Igor Cavalera used Pearl Masters Custom maple-shell kits during the Roots (1996) recording and touring period, a switch from the Tama gear of his earlier Sepultura years, providing warm, resonant tone suited to both the tribal elements and the heavy metal intensity of the album. He played Tama Starclassic Maple from 2007 to 2018 during Cavalera Conspiracy, and currently plays Yamaha Absolute Hybrid Maple."
       },
       {
         question: "How did Igor Cavalera create the tribal drum sound on Roots?",
@@ -5144,7 +5144,7 @@ This guide covers Igor's core technique across both the thrash period (Beneath t
       },
       {
         question: "What cymbals does Igor Cavalera use?",
-        answer: "Igor Cavalera uses Paiste RUDE series cymbals — Paiste's loudest and most aggressive line. His setup includes 14\" RUDE hi-hats, 18\" and 19\" RUDE Crash Rides, a 22\" RUDE Power Ride, and a Paiste 2002 China for accents. The RUDE series' volume and projection suits both tribal stomp patterns and high-tempo blast beat sections."
+        answer: "Igor Cavalera is currently a Zildjian artist, having moved on from the Paiste RUDE series cymbals he played from 2007 to 2018 — Paiste's loudest and most aggressive line, including 14\" RUDE hi-hats, 18\" and 19\" RUDE Crash Rides, a 22\" RUDE Power Ride, and a Paiste 2002 China for accents. The RUDE series' volume and projection suited both tribal stomp patterns and high-tempo blast beat sections during that era."
       },
       {
         question: "Does Igor Cavalera use double bass?",

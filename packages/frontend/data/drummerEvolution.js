@@ -3297,12 +3297,12 @@ export const DRUMMER_EVOLUTION = {
 
       {
         id: 'cavalera-2007-cavalera-conspiracy',
-        era: 'Cavalera Conspiracy & Modern Era',
-        years: '2007-Present',
+        era: 'Cavalera Conspiracy Era',
+        years: '2007-2018',
         startYear: 2007,
-        endYear: 2026,
-        description: 'After leaving Sepultura in 2006, Igor reunites with brother Max to form Cavalera Conspiracy — channeling the raw aggression of early Sepultura through a polished modern setup. One of the most celebrated rhythm sections in extreme metal continues.',
-        albums: ['Inflikted (2008)', 'Blunt Force Trauma (2011)', 'Pandemonium (2014)', 'Bestial Devastation (2023)'],
+        endYear: 2018,
+        description: 'After leaving Sepultura in 2006, Igor reunites with brother Max to form Cavalera Conspiracy — channeling the raw aggression of early Sepultura through a polished modern setup.',
+        albums: ['Inflikted (2008)', 'Blunt Force Trauma (2011)', 'Pandemonium (2014)'],
         tours: ['Cavalera Conspiracy World Tours', 'Return to Roots Anniversary Tour'],
         image: null,
 
@@ -3363,6 +3363,73 @@ export const DRUMMER_EVOLUTION = {
           text: "Playing with Max again is like going back to the source. Cavalera Conspiracy is what Sepultura was always meant to be.",
           source: 'Metal Hammer Interview, 2008',
         },
+
+        videos: [],
+      },
+
+      {
+        id: 'cavalera-2018-yamaha-zildjian',
+        era: 'Yamaha & Zildjian Era',
+        years: '2018-Present',
+        startYear: 2018,
+        endYear: 2026,
+        description: 'In August 2018, Igor announced a new drum endorsement with Yamaha, moving on from his long-running Tama setup, and is now an active Zildjian artist — a modern rig that continues to anchor Cavalera Conspiracy\'s tribal groove metal attack.',
+        albums: ['Pandemonium (2014)', 'Bestial Devastation (2023)'],
+        tours: ['Cavalera Conspiracy World Tours', 'Return to Roots Anniversary Tour'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Yamaha Absolute Hybrid Maple',
+            details: 'Two 20" kicks, 14" snare, Pink Champagne Sparkle finish, Yamaha hardware',
+            notes: 'Announced August 2018 — Igor\'s current stage and studio kit',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          snare: {
+            item: 'Yamaha Absolute Hybrid Maple 14"',
+            details: 'Part of the Yamaha Absolute Hybrid Maple kit',
+            notes: 'Matches the Yamaha shell pack announced in 2018',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          cymbals: {
+            item: 'Zildjian',
+            details: '14" hi-hats, 18"/19" crashes, 18" china, 20" ride, zbell',
+            notes: 'Current Zildjian artist per zildjian.com, moving on from his prior Paiste setup',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          hardware: {
+            item: 'Yamaha hardware',
+            details: 'Yamaha pedals, stands, hi-hat stand, and boom arms',
+            notes: 'Full Yamaha hardware package accompanying the drum endorsement',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          sticks: {
+            item: 'Vic Firth American Classic 5B',
+            details: 'Continued Vic Firth endorsement',
+            notes: 'Maintained Vic Firth loyalty throughout the modern era',
+            change: null,
+          },
+          heads: {
+            item: 'Evans G2 / EMAD',
+            details: 'G2 on toms, EMAD on bass drums',
+            notes: 'Evans for the focused, punchy sound of modern extreme metal',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 20000,
+          inflationAdjusted: 20000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Announced new Yamaha drum endorsement (August 2018), moving on from Tama',
+          'Switched to Yamaha Absolute Hybrid Maple kit',
+          'Now plays Zildjian cymbals, moving on from Paiste',
+        ],
+
+        quote: null,
 
         videos: [],
       },

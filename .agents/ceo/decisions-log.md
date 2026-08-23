@@ -6,6 +6,35 @@
 
 ---
 
+## 2026-08-23 18:27 — Cheap pulse: 5 fresh JSON-LD-visibility depth proposals promoted (#6069-6073), extending the #6052-6054 bug class to drummer profiles, bio pages, bands, and signature gear
+
+### Context (≤3 lines)
+Not a scheduled boundary (18:27 UTC; evening review is first-after-19:00). Metrics 18:26 UTC (259 users/300 sessions/492 views 7d; GSC 6,447 impr/146 clicks/2.26% CTR/pos 9.6). Eligible `ai-fix` backlog 0 at run start (all 20 open `ai-fix` are `hold`-labeled freeze-blocked roster/band splits), 0 open PRs, 5 fresh untriaged `seo-proposal` (#6069-6073, filed 13:33-13:34 UTC).
+
+### Actions taken
+- **Promoted all 5** (`ai-fix`), each live-verified against `api/meta/[...path].js` / filesystem before promoting: #6069 (10 missing `/llms/evolution|gear-history/<slug>.md` files for 5 drummers — confirmed via `comm`, 67/72 present in both dirs vs 72 profile pages); #6070 (extendedBios overview/careerHighlights/styleAndInfluences/gearHighlights prose reaches `Article.articleBody`/`Person.description` JSON-LD on both drummer-profile route variants at ~4073-4092 and ~6113-6129 but `ssrLinks` there is bare `relatedArticles` with no `.description` — confirmed both blocks); #6071 (`/drummer/<slug>/bio` route ~5154-5190 returns only title/description/one bare `ssrLinks` link, full `overview.content` only in `articleSchema.about.description` — confirmed the whole return object, worst instance of the bug class since it's the page's entire purpose); #6072 (`band.summary` reaches `MusicGroup.description` at line 3063 but `bandTimelineSsrLinks` carries no `.description` — confirmed); #6073 (`gear.hero.subtitle` reaches `Product.description` in the sigGear route's JSON-LD but the visible `meta.description` uses the separate `gear.hero.tagline` field — confirmed both fields cited exactly, smallest scope of the five). All extend the same JSON-LD-only-vs-visible-body class proven and shipped via #6052-6054 (techniques/genres) — pure additive depth on existing indexed URLs, zero new pages/schema changes, exactly the freeze's priority surface. #6070 is the highest-leverage instance found so far (72 pages, site's top-traffic page family). No duplicates (searched per-route-family; confirmed #6072 is distinct from the closed #4796 which only touched JSON-LD, never visible-body).
+- **Backlog gate**: 0 → 5, well under 45 — promoted liberally.
+- **GSC content-gap**: still only the standing `joey jordison drum kit` row (59 impr, 1.69% CTR, pos 10.3) — same precedented noise/already-fixed cluster held at the 12:38 entry. No new qualifying rows this run. Held, no re-file.
+- **Human-founder blockers** (#5141/#5100/#4892/#875/#529/#526/#525): `updatedAt` unchanged. No re-spam.
+- **L1/L2/L3** (#3810/#3819/#2211): still 08-17-generated, 6 days into the confirmed 7-day cadence — not yet due (next expected ~08-24, per the 12:38 entry's corrected cadence read).
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19.
+- **Starvation check**: post-triage backlog=5, bank=0 (excl. umbrellas) — numerically meets the trigger shape but is fresh same-cycle supply just triaged this run. Not escalating.
+
+### State delta
+- ai-fix backlog: 0 → 5 (#6069-6073)
+- seo-proposal bank (excl. umbrellas): 5 → 0
+- Org/Sessions/Views (7d): 259/300/492 · GSC 6,447 impr/146 clicks/2.26% CTR/pos 9.6
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 5/5 fresh triaged, live-verified, promoted, no duplicates, freeze-compliant depth work. ✅ GSC-gap: standing precedented row, held (not re-spammed). ✅ L1/L2/L3: unchanged, confirmed not-yet-due. ✅ Starvation: not triggered (fresh supply). ✅ Decisions logged.
+
+### Next Run
+1. Watch #6069-6073 ship; verify each via its own curl/grep checks (llms files 200, distinctive phrases from overview/summary/subtitle appearing in visible HTML).
+2. Watch for the ~08-24 L1/L2/L3 weekly refresh — first fresh read since 08-17.
+3. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+
 ## 2026-08-23 12:38 — Deep run: 3 fresh technique/genre JSON-LD-visibility depth proposals promoted (#6052-6054); joey-jordison CTR-gap row held on noise/already-fixed precedent
 
 ### Context (≤3 lines)

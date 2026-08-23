@@ -5242,6 +5242,17 @@ export function getMetaForPath(pathname) {
           { name: drummer.name, url: `${BASE_URL}/drummer/${slug}` },
           { name: 'Biography', url: bioUrl },
         ],
+        // Issue #6071: this dedicated biography page's only purpose-built content —
+        // extBio.sections.overview.content — previously reached JSON-LD's
+        // about.description only, never the visible body. Mirrors the #6070 fix
+        // for the main profile route; rendered by generateMetaHtml via bioSections.
+        bioSections: {
+          name: drummer.name,
+          overview: extBio.sections?.overview?.content,
+          careerHighlights: extBio.sections?.careerHighlights?.items,
+          styleAndInfluences: extBio.sections?.styleAndInfluences?.content,
+          gearHighlights: extBio.sections?.gearHighlights?.content,
+        },
         ssrLinks: [
           { href: `/drummer/${slug}`, label: `${drummer.name} Profile` },
         ],

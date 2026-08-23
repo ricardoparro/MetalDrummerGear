@@ -5242,6 +5242,14 @@ export function getMetaForPath(pathname) {
           { name: drummer.name, url: `${BASE_URL}/drummer/${slug}` },
           { name: 'Biography', url: bioUrl },
         ],
+        // Issue #6071: this dedicated biography URL's entire purpose-built content
+        // (the overview prose) previously reached only JSON-LD's about.description,
+        // never the visible body. Reuses the #6070 bioSections/renderBioParagraphs
+        // pipeline so the full text renders as crawlable HTML.
+        bioSections: {
+          name: drummer.name,
+          overview: extBio.sections?.overview?.content,
+        },
         ssrLinks: [
           { href: `/drummer/${slug}`, label: `${drummer.name} Profile` },
         ],

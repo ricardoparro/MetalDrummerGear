@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-23 07:25 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-23 08:34 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,39 +8,39 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 215 |
-| Sessions | 254 |
-| Page views | 439 |
-| Engagement rate | 54.72% |
-| Avg session (s) | 407 |
+| Active users | 218 |
+| Sessions | 257 |
+| Page views | 447 |
+| Engagement rate | 61.48% |
+| Avg session (s) | 370 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
 | / | 31 | 24 |
 | /drummers | 31 | 4 |
-| /drummer/joey-jordison | 14 | 7 |
-| /drummer/danny-carey | 12 | 7 |
-| /drummer/mario-duplantier | 10 | 9 |
+| /drummer/joey-jordison | 15 | 7 |
+| /drummer/danny-carey | 13 | 7 |
+| /drummer/mario-duplantier | 11 | 10 |
 | /drummer/brann-dailor | 8 | 1 |
 | /drummers/dave-lombardo/evolution | 8 | 2 |
 | /articles/st-anger-drum-setup | 7 | 6 |
 | /drummer/daniel-erlandsson | 7 | 1 |
-| /drummer/ben-koller | 6 | 5 |
+| /cymbals/setups/daniel-erlandsson | 6 | 1 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 199 | 163 |
-| Direct | 47 | 47 |
-| Unassigned | 30 | 25 |
-| Organic Social | 3 | 2 |
+| Organic Search | 202 | 165 |
+| Direct | 48 | 48 |
+| Unassigned | 12 | 11 |
+| Organic Social | 4 | 2 |
 | AI Assistant | 1 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 99 | 77 |
+| United States | 101 | 79 |
 | United Kingdom | 14 | 12 |
 | Germany | 12 | 12 |
 | Canada | 11 | 9 |

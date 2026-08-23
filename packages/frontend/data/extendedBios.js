@@ -7403,7 +7403,7 @@ Richardson's work on landmark albums like "Colors," "The Great Misdirect," and "
       { slug: 'killer-be-killed', period: '2011-present', role: 'Drums (studio)' }
     ],
     metaTitle: 'Ben Koller Drum Kit & Gear Setup — Converge Drummer | MetalForge',
-    metaDescription: 'Complete biography of Ben Koller, legendary Converge drummer since 1999. Explore his genre-defining work on Jane Doe, Mutoid Man projects, and his influence on metalcore and hardcore drumming.',
+    metaDescription: 'Ben Koller (Converge) plays a Tama Starclassic Maple kit with Zildjian K Dark Series cymbals and a Tama S.L.P. 14"x6" Brass snare. Full gear breakdown, career timeline since 1999, and Jane Doe/Mutoid Man history.',
     ogImage: '/images/drummers/ben-koller.webp',
     keywords: ['converge', 'hardcore punk', 'metalcore', 'jane doe', 'mutoid man', 'all pigs must die', 'boston hardcore', 'tama drums'],
     relatedDrummers: ['brann-dailor', 'dave-lombardo', 'joey-jordison', 'tomas-haake'],

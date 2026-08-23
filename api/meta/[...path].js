@@ -3421,7 +3421,10 @@ export function getMetaForPath(pathname) {
           { name: genreName, url: `${BASE_URL}/genre/${genreSlug}` },
         ],
         ssrLinks: [
-          { href: '/genres', label: 'All Genres' },
+          // Issue #6054: longDescription reached Article.about JSON-LD but was
+          // never rendered as visible prose. Additive ssrLinks[i].description
+          // per the #5721-proven pattern.
+          { href: '/genres', label: 'All Genres', description: genreData.longDescription },
           ...getAllGenreSlugs().filter(s => s !== genreSlug).slice(0, 3).map(s => ({
             href: `/genre/${s}`,
             label: GENRES[s].name,

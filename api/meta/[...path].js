@@ -5221,6 +5221,14 @@ export function getMetaForPath(pathname) {
         image: extBio.ogImage ? `${BASE_URL}${extBio.ogImage}` : (drummer.image || DEFAULT_IMAGE),
         type: 'article',
         url: bioUrl,
+        // Issue #6071: this page's entire purpose is the biography, but the full
+        // overview.content text (unlike the truncated JSON-LD copy below) was
+        // never rendered as visible HTML — leadFact prints it in full, right
+        // under the h1, unlike the ssrLinks[i].description pattern #6052/#53/#54
+        // used for supplementary prose.
+        leadFact: extBio.sections?.overview?.content
+          ? escapeHtml(extBio.sections.overview.content)
+          : null,
         articleSchema: JSON.stringify({
           '@context': 'https://schema.org',
           '@type': 'Article',

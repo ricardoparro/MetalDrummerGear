@@ -6,6 +6,37 @@
 
 ---
 
+## 2026-08-23 12:38 — Deep run: 3 fresh technique/genre JSON-LD-visibility depth proposals promoted (#6052-6054); joey-jordison CTR-gap row held on noise/already-fixed precedent
+
+### Context (≤3 lines)
+First run after 07:00 UTC (prior entry 06:39 cheap pulse). Metrics 12:36 UTC (230 users/269 sessions/455 views 7d; GSC 6,447 impr/146 clicks/2.26% CTR/pos 9.6). Eligible `ai-fix` backlog 0 at run start (#6037-6043 all shipped+merged since the 06:39 entry, commits through `bd746640`), 0 open PRs, 3 fresh untriaged `seo-proposal` (#6052-6054, filed 07:30 UTC).
+
+### Actions taken
+- **Promoted all 3** (`ai-fix`), each live-verified against `api/meta/[...path].js` before promoting: #6052 (technique masters' `Person.description` from `m.note` built at ~line 1755 but never added to `ssrLinks`, confirmed the `/techniques/<slug>` branch's ssrLinks block has no masters entries), #6053 (technique `gearRecommendations[].reason` dropped from both the `HowToTool` JSON-LD map at ~line 1735 and ssrLinks — confirmed `g.reason` absent from the JSON-LD mapper), #6054 (genre `longDescription` reaches `about.description` JSON-LD at line 3358 but the ssrLinks block at 3391-3401 only has cross-genre links, no description field). All three are the same JSON-LD-only-vs-visible-body bug class already proven and shipped via #5721's `ssrLinks[i].description` additive pattern — pure depth on existing indexed pages (techniques/genres), zero new URLs, freeze-compliant, exactly the surface the 2026-07-28 freeze directs promoting. No duplicates found (searched per-route-family).
+- **Backlog gate**: 0 → 3, well under 45 — promoted liberally.
+- **GSC content-gap**: metrics.md's one row (`joey jordison drum kit`, 59 impr, 1.69% CTR, pos 10.3) technically clears the impr>50/CTR<2% trigger, but checked `learned-patterns.md` first: this exact query cluster already has a shipped title/meta CTR fix (#3059, 2026-06-29) and is documented 3x since as oscillating noise with "no code suspect" (lines 99/151/187 — most recently 08-18's "organic SERP movement... consistent with the line-151 oscillation note"). Filing a 4th issue against a cluster with a proven fix already live and a well-established noise pattern would be re-spamming a dead end, not editorial action. **Held, no issue filed** — logging this explicitly rather than silently repeating the pattern.
+- **Human-founder blockers** (#5141/#5100/#4892/#875/#529/#526/#525): `updatedAt` unchanged. No re-spam.
+- **L1/L2/L3** (#3810/#3819/#2211): all three still 08-17-generated (`Generated:` timestamps confirmed: GSC 08:47, indexation 10:06, LLM 08:04). Cadence is 7 days (08-03→08-10→08-17, each exactly 7 days apart) — next refresh due ~08-24, **not actually overdue** despite prior runs' "6 days stale" framing; correcting that here so it isn't repeated as an alarm next run.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19.
+- **Check progress**: 7 merges landed since the 06:39 entry (#6055/#6057/#6059/#6061/#6063/#6065/#6067, all the hellhammer/mangini/benante/menza/vinnie-paul/larkin/cunningham album-article fabrication fixes) — confirms the fabricated-gear-narrative bug class continues to resolve cleanly via Roadie with no rework needed.
+- **Starvation check**: post-triage backlog=3, bank=0 (excl. umbrellas) — numerically meets the trigger shape but is fresh same-cycle supply just triaged this run, not a dried-up well. Not escalating.
+
+### State delta
+- ai-fix backlog: 0 → 3 (#6052, #6053, #6054)
+- seo-proposal bank (excl. umbrellas): 3 → 0
+- Org/Sessions/Views (7d): 230/269/455 · GSC 6,447 impr/146 clicks/2.26% CTR/pos 9.6 (CTR up from 08-23 01:13's 2.16%)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 3/3 fresh triaged, live-verified, promoted, no duplicates, freeze-compliant depth work. ✅ GSC-gap: 1 qualifying row reviewed, held on documented noise/already-fixed precedent (not silently skipped — reasoning logged). ✅ L1/L2/L3: unchanged since 08-17, confirmed genuinely not-yet-due (7-day cadence), corrected prior "stale" framing. ✅ Starvation: not triggered (fresh supply). ✅ Decisions logged.
+
+### Next Run
+1. Watch #6052-6054 ship; verify via each issue's own bot-UA curl checks (masters' notes / gear reasons / genre longDescription appearing in visible HTML, not just JSON-LD).
+2. Watch for the ~08-24 L1/L2/L3 weekly refresh — first fresh read since 08-17.
+3. If `joey jordison drum kit` shows a 4th consecutive oscillation next snapshot with still no code suspect, that's fully confirmed noise per the learned-patterns.md rule — no further review needed on this query.
+4. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+
 ## 2026-08-23 06:39 — Cheap pulse: 7 fresh albumArticles gear-fabrication proposals promoted (hellhammer, mangini, benante, menza, vinnie-paul, larkin, cunningham)
 
 ### Context (≤3 lines)

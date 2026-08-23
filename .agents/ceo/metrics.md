@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-23 08:34 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-23 12:36 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 218 |
-| Sessions | 257 |
-| Page views | 447 |
-| Engagement rate | 61.48% |
-| Avg session (s) | 370 |
+| Active users | 230 |
+| Sessions | 269 |
+| Page views | 455 |
+| Engagement rate | 58.74% |
+| Avg session (s) | 354 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -31,9 +31,9 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 202 | 165 |
-| Direct | 48 | 48 |
-| Unassigned | 12 | 11 |
+| Organic Search | 203 | 166 |
+| Direct | 55 | 55 |
+| Unassigned | 21 | 20 |
 | Organic Social | 4 | 2 |
 | AI Assistant | 1 | 1 |
 
@@ -41,56 +41,56 @@
 | Country | Sessions | Users |
 | --- | --- | --- |
 | United States | 101 | 79 |
-| United Kingdom | 14 | 12 |
-| Germany | 12 | 12 |
+| United Kingdom | 15 | 13 |
+| Germany | 13 | 13 |
 | Canada | 11 | 9 |
+| France | 10 | 8 |
 | Brazil | 9 | 7 |
-| France | 9 | 7 |
 | Finland | 8 | 7 |
-| Poland | 7 | 6 |
+| Poland | 8 | 7 |
 | Singapore | 7 | 7 |
 | Colombia | 6 | 5 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 5,405 |
-| Clicks | 117 |
-| CTR | 2.16% |
-| Avg position | 9.7 |
+| Impressions | 6,447 |
+| Clicks | 146 |
+| CTR | 2.26% |
+| Avg position | 9.6 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| mario duplantier drum kit | 37 | 2 | 5.41% | 6.6 |
-| best metal drummers of all time | 24 | 1 | 4.17% | 7.7 |
-| brann dailor drum kit | 13 | 1 | 7.69% | 6.5 |
-| danny carey drum kit setup | 1 | 1 | 100.00% | 10.0 |
+| best metal drummers of all time | 35 | 2 | 5.71% | 7.6 |
+| mario duplantier drum kit | 46 | 2 | 4.35% | 6.8 |
+| arin ilejay drum set | 6 | 1 | 16.67% | 5.2 |
+| beste metal drummer | 2 | 1 | 50.00% | 6.5 |
+| brann dailor drum kit | 14 | 1 | 7.14% | 6.5 |
+| danny carey drum kit setup | 3 | 1 | 33.33% | 10.0 |
 | deathcore drum kit | 1 | 1 | 100.00% | 4.0 |
-| eloy casagrande drum kit | 9 | 1 | 11.11% | 8.9 |
-| joey jordison drum kit | 49 | 1 | 2.04% | 9.8 |
+| eloy casagrande drum kit | 12 | 1 | 8.33% | 9.5 |
+| joey jordison drum kit | 59 | 1 | 1.69% | 10.3 |
 | joey jordison drum set 1999 | 2 | 1 | 50.00% | 6.0 |
-| john otto drum kit | 20 | 1 | 5.00% | 5.0 |
-| limp bizkit drum kit | 6 | 1 | 16.67% | 6.8 |
 
 ### Top countries (impressions, last 7d)
 | Country | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| usa | 1,958 | 46 | 2.35% | 9.3 |
-| can | 239 | 8 | 3.35% | 8.9 |
-| fra | 126 | 6 | 4.76% | 7.2 |
-| gbr | 325 | 6 | 1.85% | 10.9 |
-| fin | 84 | 5 | 5.95% | 6.0 |
-| deu | 172 | 4 | 2.33% | 7.1 |
-| pol | 100 | 4 | 4.00% | 7.3 |
-| aus | 260 | 3 | 1.15% | 8.1 |
-| bra | 155 | 3 | 1.94% | 7.0 |
-| swe | 99 | 3 | 3.03% | 6.5 |
+| usa | 2,288 | 58 | 2.53% | 9.2 |
+| can | 308 | 11 | 3.57% | 9.3 |
+| fin | 117 | 7 | 5.98% | 6.1 |
+| fra | 147 | 7 | 4.76% | 7.2 |
+| gbr | 379 | 6 | 1.58% | 10.6 |
+| deu | 219 | 5 | 2.28% | 7.5 |
+| pol | 118 | 5 | 4.24% | 7.1 |
+| aus | 311 | 3 | 0.96% | 8.2 |
+| bra | 183 | 3 | 1.64% | 7.0 |
+| idn | 116 | 3 | 2.59% | 14.7 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 | Query | Impr | CTR | Pos | Action |
 | --- | --- | --- | --- | --- |
-| ben koller | 55 | 0.00% | 9.3 | open issue to answer better |
+| joey jordison drum kit | 59 | 1.69% | 10.3 | open issue to answer better |
 
 ---
 *Re-run manually: `node .agents/scripts/fetch-metrics.cjs`*

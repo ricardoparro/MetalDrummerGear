@@ -20,7 +20,7 @@ export const articles = {
     "dateModified": "2026-06-19",
     "author": "MetalForge Editorial",
     "title": "Shannon Larkin Drum Setup — Godsmack's Complete Gear Guide",
-    "description": "Shannon Larkin's complete drum setup: Ddrum Reflex kit, Sabian AAX/HHX cymbals, DW 9000 double pedal, and Vater signature sticks — the full rig behind Godsmack's hard rock power.",
+    "description": "Shannon Larkin's complete drum setup: Ddrum Reflex kit, Sabian AAX/HHX cymbals, DW 9000 double pedal, and Vic Firth American Classic 5B sticks — the full rig behind Godsmack's hard rock power.",
     "seoKeywords": [
       "shannon larkin drum setup",
       "godsmack drummer gear",
@@ -28,7 +28,7 @@ export const articles = {
       "godsmack drummer setup",
       "shannon larkin ddrum",
       "shannon larkin sabian cymbals",
-      "shannon larkin vater sticks",
+      "shannon larkin vic firth sticks",
       "godsmack drums",
       "shannon larkin gear",
       "shannon larkin dw pedal"
@@ -36,14 +36,14 @@ export const articles = {
     "ogImage": "/images/drummers/shannon-larkin.webp",
     "intro": {
       "title": "Shannon Larkin: Godsmack's Hard Rock Powerhouse",
-      "content": "Shannon Larkin has been the drummer for Godsmack since 2002 — one of the most commercially successful hard rock bands in American music, with multi-platinum albums and headline slots at some of the largest rock festivals in the world. His setup blends hard rock power with heavy metal precision, a combination that has defined Godsmack's rhythmic identity across seven studio albums.\n\nBorn on April 24, 1967, in Baltimore, Maryland, Larkin built his professional foundation with Wrathchild America (thrash metal, 1989) and Ugly Kid Joe (whose \"Everything About You\" became a worldwide hit in 1992), arriving in the Godsmack lineup with more than a decade of professional experience already behind him. That experience shows in his playing: disciplined, punishing where the music demands it, and always locked into the groove that makes Godsmack's brand of heavy rock so immediately identifiable.\n\nHis setup centers on Ddrum Reflex Series drums with a Ddrum Shannon Larkin Signature snare, Sabian AAX and HHX cymbals, DW 9000 double bass pedals, and Vater Shannon Larkin Signature sticks. Every element is selected for durability and performance under the demands of a global touring schedule — Godsmack has never been a studio-only band, and Larkin's kit reflects that road-first philosophy.\n\nThis article breaks down every major component of Shannon Larkin's drum setup: the Ddrum shell configuration, the Sabian cymbal selection, the DW 9000 foot hardware, and the evolution of his gear across Godsmack's catalog from *Faceless* (2003) through *Lighting Up the Sky* (2023).",
+      "content": "Shannon Larkin has been the drummer for Godsmack since 2002 — one of the most commercially successful hard rock bands in American music, with multi-platinum albums and headline slots at some of the largest rock festivals in the world. His setup blends hard rock power with heavy metal precision, a combination that has defined Godsmack's rhythmic identity across seven studio albums.\n\nBorn on April 24, 1967, in Baltimore, Maryland, Larkin built his professional foundation with Wrathchild America (thrash metal, 1989) and Ugly Kid Joe (whose \"Everything About You\" became a worldwide hit in 1992), arriving in the Godsmack lineup with more than a decade of professional experience already behind him. That experience shows in his playing: disciplined, punishing where the music demands it, and always locked into the groove that makes Godsmack's brand of heavy rock so immediately identifiable.\n\nHis setup centers on Ddrum Reflex Series drums with a Ddrum Shannon Larkin Signature snare, Sabian AAX and HHX cymbals, DW 9000 double bass pedals, and Vic Firth American Classic 5B sticks. Every element is selected for durability and performance under the demands of a global touring schedule — Godsmack has never been a studio-only band, and Larkin's kit reflects that road-first philosophy.\n\nThis article breaks down every major component of Shannon Larkin's drum setup: the Ddrum shell configuration, the Sabian cymbal selection, the DW 9000 foot hardware, and the evolution of his gear across Godsmack's catalog from *Faceless* (2003) through *Lighting Up the Sky* (2023).",
       "keyPoints": [
         "Godsmack's drummer since 2002 — first album: Faceless (2003)",
         "Ddrum Reflex Series kit — Ddrum signature artist since the mid-2000s",
         "Ddrum Shannon Larkin Signature snare, 14\" x 6.5\"",
         "Sabian AAX and HHX series cymbals — 14\" Stage Hi-Hats, X-Plosion Crashes, HHX Raw Bell Dry Ride",
         "DW 9000 Series double bass pedal for Godsmack's driving hard rock rhythms",
-        "Vater Shannon Larkin Signature sticks",
+        "Vic Firth American Classic 5B sticks",
         "Former member of Ugly Kid Joe and Wrathchild America"
       ]
     },
@@ -133,7 +133,7 @@ export const articles = {
       "estimatedValue": "$1,800–3,000 (full Sabian AAX/HHX setup)"
     },
     "hardware": {
-      "title": "DW 9000 and Vater Signature: Foot Power and Stick Control",
+      "title": "DW 9000 and Vic Firth: Foot Power and Stick Control",
       "items": [
         {
           "type": "Bass Drum Pedals",
@@ -144,10 +144,10 @@ export const articles = {
         },
         {
           "type": "Sticks",
-          "brand": "Vater",
-          "model": "Vater Shannon Larkin Signature",
-          "notes": "Custom taper and tip for hard rock power and cymbal articulation",
-          "description": "Vater Percussion developed the Shannon Larkin Signature stick in collaboration with Larkin to match his hard rock playing demands. The stick's specifications balance the mass needed to drive through Godsmack's dense live mix — full backbeats, powerful crash accents, authoritative tom fills — with the control required for consistent playing across two-hour sets. Vater's hickory construction provides the balance of durability and feel that touring drummers require: enough mass for projection, enough springback for endurance playing."
+          "brand": "Vic Firth",
+          "model": "Vic Firth American Classic 5B",
+          "notes": "Hickory construction, teardrop tip — standard-weight stick for hard rock power and cymbal articulation",
+          "description": "Vic Firth's American Classic 5B is Shannon Larkin's stick of choice. The 5B's mass — heavier than the common 5A — provides the power needed to drive through Godsmack's dense live mix — full backbeats, powerful crash accents, authoritative tom fills — with the control required for consistent playing across two-hour sets. The hickory construction and teardrop tip give it the balance of durability and feel that touring drummers require: enough mass for projection, enough springback for endurance playing."
         },
         {
           "type": "Throne",
@@ -187,7 +187,7 @@ export const articles = {
           "drums": "Ddrum Reflex Series (early configuration)",
           "snare": "Ddrum Shannon Larkin Signature (14\" x 6.5\" steel)",
           "cymbals": "Sabian AAX and HHX stage setup",
-          "hardware": "DW 9000 double bass pedal, Vater Larkin Signature sticks"
+          "hardware": "DW 9000 double bass pedal, Vic Firth American Classic 5B sticks"
         },
         "notes": "Faceless debuted at #1 on the Billboard 200, establishing Godsmack as one of American hard rock's biggest draws. Larkin's pounding groove was central to the commercial breakthrough."
       },
@@ -219,7 +219,7 @@ export const articles = {
           "drums": "Ddrum Reflex Series (final touring configuration)",
           "snare": "Ddrum Shannon Larkin Signature",
           "cymbals": "Sabian AAX/HHX full complement — expanded splash and china options",
-          "hardware": "DW 9000 double pedal, Pork Pie Big Boy throne, Vater signature sticks"
+          "hardware": "DW 9000 double pedal, Pork Pie Big Boy throne, Vic Firth American Classic 5B sticks"
         },
         "notes": "When Legends Rise represented Godsmack's most melodically accessible album. Larkin's playing adapted to the more dynamic arrangements while maintaining the power-first philosophy. Lighting Up the Sky (2023) was announced as Godsmack's final album."
       }
@@ -249,12 +249,12 @@ export const articles = {
     ],
     "buyingGuide": {
       "title": "Getting the Larkin Sound: A Buyer's Guide",
-      "content": "Shannon Larkin's Godsmack rig is built on Ddrum and Sabian — two brands with accessible entry points at every budget level.\n\n**Budget Approach ($600–1,200):**\n- Ddrum Journeyman Series or any budget basswood/poplar shell kit in matching finish\n- Sabian B8X or SBr 14\" hi-hats + 18\" crash — Sabian's entry-level with similar bright voicing\n- Any quality chain-drive double pedal (Pearl P-2000 or DW 3000 series)\n- Vater 5B American Hickory sticks (similar weight and feel to the Larkin signature)\n\n**Mid-Range Approach ($1,500–3,500):**\n- Ddrum Reflex Series or comparable mid-range kit (Tama Imperialstar, Pearl Export EXX)\n- Sabian AAX 14\" Stage Hi-Hats + 18\" and 19\" X-Plosion Crashes individually\n- DW 5000 series double bass pedal (excellent chain-drive at mid-range price)\n- Evans EC2 Coated heads for toms, Evans EMAD for kick\n\n**Professional Approach ($3,500+):**\n- Ddrum Reflex Series shell pack (the actual Larkin kit)\n- Full Sabian AAX/HHX setup: 14\" Stage Hi-Hats, X-Plosion Crashes, HHX 21\" Raw Bell Dry Ride, AAX China and Splash\n- DW 9000 double bass pedal (the Larkin pedal — worth the investment for feel and durability)\n- Ddrum Shannon Larkin Signature snare (14\" x 6.5\" steel)\n- Vater Shannon Larkin Signature sticks",
+      "content": "Shannon Larkin's Godsmack rig is built on Ddrum and Sabian — two brands with accessible entry points at every budget level.\n\n**Budget Approach ($600–1,200):**\n- Ddrum Journeyman Series or any budget basswood/poplar shell kit in matching finish\n- Sabian B8X or SBr 14\" hi-hats + 18\" crash — Sabian's entry-level with similar bright voicing\n- Any quality chain-drive double pedal (Pearl P-2000 or DW 3000 series)\n- Vic Firth American Classic 5B sticks (the same sticks Larkin plays)\n\n**Mid-Range Approach ($1,500–3,500):**\n- Ddrum Reflex Series or comparable mid-range kit (Tama Imperialstar, Pearl Export EXX)\n- Sabian AAX 14\" Stage Hi-Hats + 18\" and 19\" X-Plosion Crashes individually\n- DW 5000 series double bass pedal (excellent chain-drive at mid-range price)\n- Evans EC2 Coated heads for toms, Evans EMAD for kick\n\n**Professional Approach ($3,500+):**\n- Ddrum Reflex Series shell pack (the actual Larkin kit)\n- Full Sabian AAX/HHX setup: 14\" Stage Hi-Hats, X-Plosion Crashes, HHX 21\" Raw Bell Dry Ride, AAX China and Splash\n- DW 9000 double bass pedal (the Larkin pedal — worth the investment for feel and durability)\n- Ddrum Shannon Larkin Signature snare (14\" x 6.5\" steel)\n- Vic Firth American Classic 5B sticks",
       "budgetTiers": [
         {
           "tier": "Budget",
           "range": "$600–1,200",
-          "notes": "Budget kit + Sabian B8X/SBr + entry chain-drive double pedal + Vater 5B"
+          "notes": "Budget kit + Sabian B8X/SBr + entry chain-drive double pedal + Vic Firth American Classic 5B"
         },
         {
           "tier": "Mid-Range",
@@ -283,7 +283,7 @@ export const articles = {
       },
       {
         "question": "What sticks does Shannon Larkin use?",
-        "answer": "Shannon Larkin plays Vater Shannon Larkin Signature drumsticks. Developed with Vater Percussion for his hard rock playing demands, the signature model uses hickory construction with a taper and tip shape optimized for both the powerful backbeats Godsmack's music requires and the cymbal articulation needed in dense arena mix environments. Before his signature model, Larkin used Vater Hickory 5B sticks — a common starting point for hard rock players who need mass and durability."
+        "answer": "Shannon Larkin plays Vic Firth American Classic 5B drumsticks. The 5B's hickory construction and teardrop tip provide the mass needed for the powerful backbeats Godsmack's music requires along with the cymbal articulation needed in dense arena mix environments."
       },
       {
         "question": "What double bass pedal does Shannon Larkin use?",
@@ -308,7 +308,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "Two Decades of Hard Rock Power",
-      "content": "Shannon Larkin has spent more than twenty years as Godsmack's drummer — a tenure that spans seven studio albums, multi-platinum commercial success, and some of the largest stages in American hard rock. That longevity is itself a statement about what his gear and approach deliver: consistent, reliable, powerful drumming that serves the band's music exactly as well in arena 200 as it did in 2003.\n\nHis Ddrum Reflex kit, Sabian AAX/HHX cymbals, DW 9000 double pedal, and Vater signature sticks are not flashy or trend-chasing choices. They are road-tested selections from an experienced professional who understands that gear exists to serve performance — and that the best gear for a global touring drummer is gear that sounds great and never lets you down.\n\nEvery piece of the Shannon Larkin rig reflects that priority:\n\n- **Ddrum Reflex Series**: Road-grade shells with focused, punchy tone for hard rock arena environments\n- **Ddrum Shannon Larkin Signature Snare**: Custom 14\" x 6.5\" steel snare for the crack that defines Godsmack's backbeat\n- **Sabian AAX/HHX**: Bright, fast, dynamic — cymbals that project in 20,000-seat venues without compromising tonal complexity\n- **DW 9000 Double Pedal**: Industry-standard chain-drive precision for Godsmack's groove-first double-kick approach\n- **Vater Shannon Larkin Signature**: Balanced mass and control for hard rock power across extended touring sets\n\nFor context on the drummers who influenced Larkin's generation and those who occupy similar crossover spaces in hard rock and metal:\n\n- **Full drummer profile**: [Shannon Larkin at MetalForge](/drummer/shannon-larkin)\n- **Cowboys from Hell drum breakdown**: [Vinnie Paul's Godsmack-era predecessor gear guide](/articles/cowboys-from-hell-drum-setup) — the heavy groove blueprint that influenced Godsmack's sound\n- **Ray Luzier profile**: [Korn's groove machine](/drummer/ray-luzier) — a comparable hard rock/nu-metal crossover drummer with a similar gear philosophy\n\nShannon Larkin arrived at Godsmack with a resume built on professional gigs across thrash, alternative rock, and hard rock. He leaves a catalog that includes some of the most commercially successful hard rock drumming of the 2000s — proof that power, pocket, and consistency are their own form of mastery.\n\n🥁 *Hard rock power, night after night.* 🤘"
+      "content": "Shannon Larkin has spent more than twenty years as Godsmack's drummer — a tenure that spans seven studio albums, multi-platinum commercial success, and some of the largest stages in American hard rock. That longevity is itself a statement about what his gear and approach deliver: consistent, reliable, powerful drumming that serves the band's music exactly as well in arena 200 as it did in 2003.\n\nHis Ddrum Reflex kit, Sabian AAX/HHX cymbals, DW 9000 double pedal, and Vic Firth American Classic 5B sticks are not flashy or trend-chasing choices. They are road-tested selections from an experienced professional who understands that gear exists to serve performance — and that the best gear for a global touring drummer is gear that sounds great and never lets you down.\n\nEvery piece of the Shannon Larkin rig reflects that priority:\n\n- **Ddrum Reflex Series**: Road-grade shells with focused, punchy tone for hard rock arena environments\n- **Ddrum Shannon Larkin Signature Snare**: Custom 14\" x 6.5\" steel snare for the crack that defines Godsmack's backbeat\n- **Sabian AAX/HHX**: Bright, fast, dynamic — cymbals that project in 20,000-seat venues without compromising tonal complexity\n- **DW 9000 Double Pedal**: Industry-standard chain-drive precision for Godsmack's groove-first double-kick approach\n- **Vic Firth American Classic 5B**: Balanced mass and control for hard rock power across extended touring sets\n\nFor context on the drummers who influenced Larkin's generation and those who occupy similar crossover spaces in hard rock and metal:\n\n- **Full drummer profile**: [Shannon Larkin at MetalForge](/drummer/shannon-larkin)\n- **Cowboys from Hell drum breakdown**: [Vinnie Paul's Godsmack-era predecessor gear guide](/articles/cowboys-from-hell-drum-setup) — the heavy groove blueprint that influenced Godsmack's sound\n- **Ray Luzier profile**: [Korn's groove machine](/drummer/ray-luzier) — a comparable hard rock/nu-metal crossover drummer with a similar gear philosophy\n\nShannon Larkin arrived at Godsmack with a resume built on professional gigs across thrash, alternative rock, and hard rock. He leaves a catalog that includes some of the most commercially successful hard rock drumming of the 2000s — proof that power, pocket, and consistency are their own form of mastery.\n\n🥁 *Hard rock power, night after night.* 🤘"
     }
   },
   "faceless-drum-setup": {
@@ -434,7 +434,7 @@ export const articles = {
       "estimatedValue": "$1,200–2,200 (full Sabian AAX setup, 2003 era)"
     },
     "hardware": {
-      "title": "DW Hardware and Vater: The Foundation of Larkin's Technique",
+      "title": "DW Hardware and Vic Firth: The Foundation of Larkin's Technique",
       "items": [
         {
           "type": "Bass Drum Pedals",
@@ -445,10 +445,10 @@ export const articles = {
         },
         {
           "type": "Sticks",
-          "brand": "Vater",
-          "model": "Vater Hickory 5B",
-          "notes": "Pre-signature Vater 5B — the stick weight and balance that drove Faceless's hard rock grooves",
-          "description": "In the Faceless era, Shannon Larkin played Vater Hickory 5B sticks before developing his signature model. The 5B's mass — heavier than the common 5A — suited Larkin's power-first playing philosophy: enough weight to drive through Godsmack's dense guitar production without sacrificing control across long playing sets. Vater's American hickory construction provides excellent durability under the physical demands of hard rock touring and the consistent rebound response that players of Larkin's level require."
+          "brand": "Vic Firth",
+          "model": "Vic Firth American Classic 5B",
+          "notes": "Standard-weight 5B — the stick weight and balance that drove Faceless's hard rock grooves",
+          "description": "In the Faceless era, Shannon Larkin played Vic Firth American Classic 5B sticks. The 5B's mass — heavier than the common 5A — suited Larkin's power-first playing philosophy: enough weight to drive through Godsmack's dense guitar production without sacrificing control across long playing sets. The hickory construction provides excellent durability under the physical demands of hard rock touring and the consistent rebound response that players of Larkin's level require."
         },
         {
           "type": "Hi-Hat Stand",
@@ -550,7 +550,7 @@ export const articles = {
     ],
     "evolution": {
       "title": "From Faceless to Lighting Up the Sky: Shannon Larkin's Gear Through the Godsmack Years",
-      "content": "*Faceless* (2003) was the starting point of Shannon Larkin's Godsmack tenure — and in commercial terms, its peak. The album established the rhythmic template that would define Godsmack's sound for the next two decades, and it also documents the gear foundation that has remained remarkably consistent ever since: Larkin has been a ddrum endorser for his entire run with the band.\n\n**A Consistent Foundation (2003–present):**\nLarkin entered Godsmack with his ddrum Dios Series kit and Sabian AAX cymbal voice, and both have anchored every studio album that followed. *Faceless* is the primary document of the earliest era — the Dios shells and Sabian AAX cymbal voice define the album's drum sound with natural warmth and brightness. Across subsequent albums, his cymbal setup expanded from pure AAX to the dual AAX/HHX configuration that became his signature, while the ddrum kit and maple snare have never changed.\n\n**The Current Era:**\nLarkin's current setup — ddrum Dios Series, ddrum Dios 14\" x 6.5\" maple snare, Sabian AAX/HHX full complement, DW 9000 double pedal, Vater Shannon Larkin Signature sticks — is fully documented in the [Shannon Larkin drum setup guide](/articles/shannon-larkin-drum-setup). The fundamental priorities have not changed since *Faceless*: power, pocket, and consistency for hard rock's biggest stages.",
+      "content": "*Faceless* (2003) was the starting point of Shannon Larkin's Godsmack tenure — and in commercial terms, its peak. The album established the rhythmic template that would define Godsmack's sound for the next two decades, and it also documents the gear foundation that has remained remarkably consistent ever since: Larkin has been a ddrum endorser for his entire run with the band.\n\n**A Consistent Foundation (2003–present):**\nLarkin entered Godsmack with his ddrum Dios Series kit and Sabian AAX cymbal voice, and both have anchored every studio album that followed. *Faceless* is the primary document of the earliest era — the Dios shells and Sabian AAX cymbal voice define the album's drum sound with natural warmth and brightness. Across subsequent albums, his cymbal setup expanded from pure AAX to the dual AAX/HHX configuration that became his signature, while the ddrum kit and maple snare have never changed.\n\n**The Current Era:**\nLarkin's current setup — ddrum Dios Series, ddrum Dios 14\" x 6.5\" maple snare, Sabian AAX/HHX full complement, DW 9000 double pedal, Vic Firth American Classic 5B sticks — is fully documented in the [Shannon Larkin drum setup guide](/articles/shannon-larkin-drum-setup). The fundamental priorities have not changed since *Faceless*: power, pocket, and consistency for hard rock's biggest stages.",
       "thenVsNow": [
         {
           "category": "Kit",
@@ -574,8 +574,8 @@ export const articles = {
         },
         {
           "category": "Sticks",
-          "then": "Vater Hickory 5B",
-          "now": "Vater Shannon Larkin Signature"
+          "then": "Vic Firth American Classic 5B",
+          "now": "Vic Firth American Classic 5B (unchanged)"
         }
       ]
     },
@@ -786,14 +786,14 @@ export const articles = {
     "ogImage": "/images/drummers/shannon-larkin.webp",
     "intro": {
       "title": "Shannon Larkin's ddrum Dios Series on Godsmack IV",
-      "content": "Released on April 25, 2006, *IV* is Godsmack's fourth studio album and the direct follow-up to the #1 Billboard 200 breakthrough *Faceless* (2003). Where *Faceless* had been Larkin's introduction to the band and its commercial apex, *IV* arrived as a statement of intent: a heavier, more aggressive album from a band that had nothing left to prove commercially and everything to gain artistically. It debuted at #2 on the Billboard 200 and certified Platinum in the United States — a remarkable achievement for a hard rock album in 2006, a year when the format was facing increasing commercial headwinds.\n\nBetween *Faceless* and *IV*, Shannon Larkin's core kit stayed the same: the ddrum Dios Series that anchored his Godsmack debut remained his platform for *IV*, delivering the durable, punchy attack that suited the album's heavier, more direct direction. His cymbal setup evolved from pure Sabian AAX to a dual-series HH/HHX configuration that added darker tonal complexity to the bright, aggressive character that had defined *Faceless*, and Larkin's pedal and stick choices for the album were the Pearl Eliminator double pedal and Vic Firth SD1 General sticks.\n\nThis article documents the ddrum Dios Series kit, Sabian HH/HHX cymbal configuration, Pearl Eliminator pedals, and Vic Firth sticks that powered Shannon Larkin's *IV* studio performance — the gear behind Godsmack's heaviest, most aggressive album to that point.",
+      "content": "Released on April 25, 2006, *IV* is Godsmack's fourth studio album and the direct follow-up to the #1 Billboard 200 breakthrough *Faceless* (2003). Where *Faceless* had been Larkin's introduction to the band and its commercial apex, *IV* arrived as a statement of intent: a heavier, more aggressive album from a band that had nothing left to prove commercially and everything to gain artistically. It debuted at #2 on the Billboard 200 and certified Platinum in the United States — a remarkable achievement for a hard rock album in 2006, a year when the format was facing increasing commercial headwinds.\n\nBetween *Faceless* and *IV*, Shannon Larkin's core kit stayed the same: the ddrum Dios Series that anchored his Godsmack debut remained his platform for *IV*, delivering the durable, punchy attack that suited the album's heavier, more direct direction. His cymbal setup evolved from pure Sabian AAX to a dual-series HH/HHX configuration that added darker tonal complexity to the bright, aggressive character that had defined *Faceless*, and Larkin's pedal choice for the album was the Pearl Eliminator double pedal — his Vic Firth American Classic 5B sticks carried over unchanged from *Faceless*.\n\nThis article documents the ddrum Dios Series kit, Sabian HH/HHX cymbal configuration, Pearl Eliminator pedals, and Vic Firth American Classic 5B sticks that powered Shannon Larkin's *IV* studio performance — the gear behind Godsmack's heaviest, most aggressive album to that point.",
       "keyPoints": [
         "Godsmack IV debuted #2 on Billboard 200 (April 2006) and certified Platinum in the US",
         "ddrum Dios Series — Shannon Larkin's kit since Faceless, unchanged for IV",
         "ddrum Dios 14\"x6.5\" maple snare — the warm, cutting crack central to Larkin's sound",
         "Sabian HH / HHX dual-series cymbals — expanded tonal range over Faceless-era pure AAX",
         "Pearl Eliminator double bass pedal — flagship direct-drive precision for harder-hitting grooves",
-        "Vic Firth SD1 General sticks — new endorsement reflecting Larkin's evolving approach"
+        "Vic Firth American Classic 5B sticks — unchanged from the Faceless era"
       ]
     },
     "drumKit": {
@@ -876,7 +876,7 @@ export const articles = {
       "estimatedValue": "$2,000–3,500 (full Sabian HH/HHX setup, 2006 era)"
     },
     "hardware": {
-      "title": "Pearl Eliminator and Vic Firth: New Endorsements for a Heavier Record",
+      "title": "Pearl Eliminator and Vic Firth: A New Pedal for a Heavier Record",
       "items": [
         {
           "type": "Bass Drum Pedals",
@@ -888,9 +888,9 @@ export const articles = {
         {
           "type": "Sticks",
           "brand": "Vic Firth",
-          "model": "Vic Firth SD1 General",
-          "notes": "Vic Firth endorsement; SD1 General's balanced taper and acorn tip for hard rock power with cymbal articulation",
-          "description": "Shannon Larkin's transition to Vic Firth SD1 General sticks for the *IV* era marked a change in endorsement from his *Faceless*-era Vater relationship. The SD1 General is a larger-diameter, heavier stick than the common 5B: it provides maximum mass for power-forward hard rock playing while the acorn tip maintains cymbal articulation and ride bell definition. The hickory construction offers the durability and rebound consistency required by a drummer who plays at Larkin's physical intensity across extended touring cycles. The SD1's extra mass suits the more aggressive drumming approach Larkin brought to *IV*'s heavier material."
+          "model": "Vic Firth American Classic 5B",
+          "notes": "Standard-weight 5B, hickory construction with a teardrop tip for hard rock power and cymbal articulation",
+          "description": "Shannon Larkin's Vic Firth American Classic 5B sticks carried over unchanged from the *Faceless* sessions for *IV*. The 5B's mass — heavier than the common 5A — provides the power needed for power-forward hard rock playing while the teardrop tip maintains cymbal articulation and ride bell definition. The hickory construction offers the durability and rebound consistency required by a drummer who plays at Larkin's physical intensity across extended touring cycles."
         },
         {
           "type": "Hi-Hat Stand",
@@ -975,7 +975,7 @@ export const articles = {
       },
       {
         "question": "How does Shannon Larkin's kit compare between Faceless and IV?",
-        "answer": "Between *Faceless* (2003) and *IV* (2006), Shannon Larkin's kit and snare stayed the same: the ddrum Dios Series shells and ddrum Dios 14\"x6.5\" maple snare that anchored *Faceless* carried over unchanged for *IV*. What did evolve was his cymbal setup, which moved from pure Sabian AAX (bright, machine-hammered) to a Sabian HH/HHX dual-series configuration (hand-hammered, darker, more complex), and his pedal and stick choices, which changed from DW 9000 to Pearl Eliminator and from Vater Hickory 5B to Vic Firth SD1 General. See the full [Faceless drum setup](/articles/faceless-drum-setup) for a direct comparison."
+        "answer": "Between *Faceless* (2003) and *IV* (2006), Shannon Larkin's kit and snare stayed the same: the ddrum Dios Series shells and ddrum Dios 14\"x6.5\" maple snare that anchored *Faceless* carried over unchanged for *IV*. What did evolve was his cymbal setup, which moved from pure Sabian AAX (bright, machine-hammered) to a Sabian HH/HHX dual-series configuration (hand-hammered, darker, more complex), and his pedal choice, which changed from DW 9000 to Pearl Eliminator. His Vic Firth American Classic 5B sticks stayed the same. See the full [Faceless drum setup](/articles/faceless-drum-setup) for a direct comparison."
       },
       {
         "question": "What cymbals does Shannon Larkin use?",
@@ -992,7 +992,7 @@ export const articles = {
     ],
     "evolution": {
       "title": "From Faceless to IV: What Changed (and What Didn't) for Shannon Larkin",
-      "content": "The gear picture between *Faceless* (2003) and *IV* (2006) is one of continuity at the core, with refinement around the edges. The kit and snare stayed the same; the cymbals, pedal, and sticks evolved.\n\n**The Kit — Unchanged:**\nLarkin's ddrum Dios Series kit, with its durable, punchy shells, carried over from *Faceless* to *IV* without change. The kit's attack-forward character suited *IV*'s harder-hitting arrangements just as it had suited *Faceless*'s groove-first material.\n\n**The Snare — Unchanged:**\nThe ddrum Dios 14\"x6.5\" maple snare that defined *Faceless*'s backbeat carried over to *IV* as well — the same warm, cutting crack anchoring both albums.\n\n**Cymbal Depth — AAX to HH/HHX:**\nThe shift from Sabian AAX (machine-hammered, bright) to Sabian HH/HHX (hand-hammered, darker, more complex) added tonal dimension to Larkin's playing. The HHX Raw Bell Dry Ride in particular became a defining element of his sound from this point forward — a cymbal with a unique dry body and articulate bell that his *Faceless*-era AAX Stage Ride could not replicate.\n\n**Pedal and Stick Changes:**\nThe DW 9000's chain-drive consistency was replaced by the Pearl Eliminator's interchangeable cam system — a pedal that gives the player more control over feel characteristics. The Vater Hickory 5B sticks of the *Faceless* era gave way to Vic Firth SD1 General sticks — a different endorsement, different mass distribution, different tip shape, calibrated to Larkin's evolving approach.\n\n**The Complete Gear Picture:**\nSee the [Faceless drum setup](/articles/faceless-drum-setup) for the starting point of this gear arc. The [Shannon Larkin complete gear guide](/articles/shannon-larkin-drum-setup) documents his current setup, still built around the same ddrum Dios Series kit and maple snare.",
+      "content": "The gear picture between *Faceless* (2003) and *IV* (2006) is one of continuity at the core, with refinement around the edges. The kit and snare stayed the same; the cymbals, pedal, and sticks evolved.\n\n**The Kit — Unchanged:**\nLarkin's ddrum Dios Series kit, with its durable, punchy shells, carried over from *Faceless* to *IV* without change. The kit's attack-forward character suited *IV*'s harder-hitting arrangements just as it had suited *Faceless*'s groove-first material.\n\n**The Snare — Unchanged:**\nThe ddrum Dios 14\"x6.5\" maple snare that defined *Faceless*'s backbeat carried over to *IV* as well — the same warm, cutting crack anchoring both albums.\n\n**Cymbal Depth — AAX to HH/HHX:**\nThe shift from Sabian AAX (machine-hammered, bright) to Sabian HH/HHX (hand-hammered, darker, more complex) added tonal dimension to Larkin's playing. The HHX Raw Bell Dry Ride in particular became a defining element of his sound from this point forward — a cymbal with a unique dry body and articulate bell that his *Faceless*-era AAX Stage Ride could not replicate.\n\n**Pedal Change, Sticks Unchanged:**\nThe DW 9000's chain-drive consistency was replaced by the Pearl Eliminator's interchangeable cam system — a pedal that gives the player more control over feel characteristics. Larkin's Vic Firth American Classic 5B sticks carried over unchanged from the *Faceless* era.\n\n**The Complete Gear Picture:**\nSee the [Faceless drum setup](/articles/faceless-drum-setup) for the starting point of this gear arc. The [Shannon Larkin complete gear guide](/articles/shannon-larkin-drum-setup) documents his current setup, still built around the same ddrum Dios Series kit and maple snare.",
       "thenVsNow": [
         {
           "category": "Kit",
@@ -1016,8 +1016,8 @@ export const articles = {
         },
         {
           "category": "Sticks",
-          "then": "Vater Hickory 5B",
-          "now": "Vic Firth SD1 General"
+          "then": "Vic Firth American Classic 5B",
+          "now": "Vic Firth American Classic 5B (unchanged)"
         }
       ]
     },
@@ -1162,7 +1162,7 @@ export const articles = {
               "name": "How does Shannon Larkin's kit compare between Faceless and IV?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Between Faceless (2003) and IV (2006), Shannon Larkin's ddrum Dios Series kit and ddrum Dios maple snare stayed the same. His cymbals evolved from Sabian AAX to HH/HHX, his pedal changed from DW 9000 to Pearl Eliminator, and his sticks changed from Vater Hickory 5B to Vic Firth SD1 General."
+                "text": "Between Faceless (2003) and IV (2006), Shannon Larkin's ddrum Dios Series kit and ddrum Dios maple snare stayed the same. His cymbals evolved from Sabian AAX to HH/HHX, his pedal changed from DW 9000 to Pearl Eliminator, and his sticks (Vic Firth American Classic 5B) stayed the same."
               }
             },
             {
@@ -1179,7 +1179,7 @@ export const articles = {
     },
     "conclusion": {
       "title": "The Heavier Direction: IV and the ddrum Dios Series",
-      "content": "*IV* (2006) is Shannon Larkin's most aggressive documented studio performance with Godsmack to that point — a heavier, more direct album than *Faceless*, achieved on the same ddrum Dios Series kit and maple snare while his cymbal, pedal, and stick choices evolved. The ddrum Dios kit, maple snare, Sabian HH/HHX cymbals, Pearl Eliminator pedals, and Vic Firth SD1 General sticks collectively represent a drummer who had refined his approach based on three years of touring behind one of American hard rock's biggest albums and arrived at the *IV* sessions with very specific ideas about the sound he wanted to make.\n\n**For Drummers Studying IV:**\nStart with \"Speak\" — Larkin's most direct, unambiguous groove on the album, built entirely on the ddrum Dios Series' attack-forward character and the maple snare's complex crack. Then work through \"No Rest for the Wicked\" for the Pearl Eliminator's double-kick consistency at driving tempo. \"Shine Down\" demonstrates the dynamic restraint that makes *IV* more than a one-dimensional heavy record — the same dynamic intelligence Larkin brought to \"Changes\" on *Faceless*, now filtered through a heavier arrangement.\n\n**The Gear Legacy:**\nddrum's Dios Series remains a durable, road-tested choice for professional touring drummers — a kit built for reliability across hundreds of shows. The Sabian HHX Raw Bell Dry Ride that appears in this setup has become one of the most distinctive ride cymbals in contemporary drumming, recognizable for its dry body and articulate bell. A player approaching the *IV* drum sound can replicate the gear philosophy — durable shells, warm complex snare, hand-hammered cymbals — at multiple price points.\n\nFor the complete Shannon Larkin gear arc: begin at [Faceless (2003)](/articles/faceless-drum-setup) — the ddrum Dios Series starting point — continue here with *IV* (2006), and follow through to the [Shannon Larkin complete gear guide](/articles/shannon-larkin-drum-setup) documenting the same ddrum setup that has anchored his entire Godsmack career. The [Shannon Larkin drummer profile](/drummer/shannon-larkin) documents the complete career context across all Godsmack albums and touring setups.\n\nFor additional drumming context in the same hard rock tradition, explore the [drummers index](/drummers) — Shannon Larkin's approach to groove-first hard rock drumming with maximum power sits within a tradition that includes the genre's defining players.\n\n🥁 *#2 Billboard 200. Platinum certified. The ddrum Dios Series era.* 🤘"
+      "content": "*IV* (2006) is Shannon Larkin's most aggressive documented studio performance with Godsmack to that point — a heavier, more direct album than *Faceless*, achieved on the same ddrum Dios Series kit and maple snare while his cymbal, pedal, and stick choices evolved. The ddrum Dios kit, maple snare, Sabian HH/HHX cymbals, Pearl Eliminator pedals, and Vic Firth American Classic 5B sticks collectively represent a drummer who had refined his approach based on three years of touring behind one of American hard rock's biggest albums and arrived at the *IV* sessions with very specific ideas about the sound he wanted to make.\n\n**For Drummers Studying IV:**\nStart with \"Speak\" — Larkin's most direct, unambiguous groove on the album, built entirely on the ddrum Dios Series' attack-forward character and the maple snare's complex crack. Then work through \"No Rest for the Wicked\" for the Pearl Eliminator's double-kick consistency at driving tempo. \"Shine Down\" demonstrates the dynamic restraint that makes *IV* more than a one-dimensional heavy record — the same dynamic intelligence Larkin brought to \"Changes\" on *Faceless*, now filtered through a heavier arrangement.\n\n**The Gear Legacy:**\nddrum's Dios Series remains a durable, road-tested choice for professional touring drummers — a kit built for reliability across hundreds of shows. The Sabian HHX Raw Bell Dry Ride that appears in this setup has become one of the most distinctive ride cymbals in contemporary drumming, recognizable for its dry body and articulate bell. A player approaching the *IV* drum sound can replicate the gear philosophy — durable shells, warm complex snare, hand-hammered cymbals — at multiple price points.\n\nFor the complete Shannon Larkin gear arc: begin at [Faceless (2003)](/articles/faceless-drum-setup) — the ddrum Dios Series starting point — continue here with *IV* (2006), and follow through to the [Shannon Larkin complete gear guide](/articles/shannon-larkin-drum-setup) documenting the same ddrum setup that has anchored his entire Godsmack career. The [Shannon Larkin drummer profile](/drummer/shannon-larkin) documents the complete career context across all Godsmack albums and touring setups.\n\nFor additional drumming context in the same hard rock tradition, explore the [drummers index](/drummers) — Shannon Larkin's approach to groove-first hard rock drumming with maximum power sits within a tradition that includes the genre's defining players.\n\n🥁 *#2 Billboard 200. Platinum certified. The ddrum Dios Series era.* 🤘"
     }
   },
   "when-legends-rise-drum-setup": {
@@ -1624,7 +1624,7 @@ export const articles = {
       "estimatedValue": "$2,000–3,500 (full Sabian HH/HHX setup, 2014 era)"
     },
     "hardware": {
-      "title": "DW 9000 and Vater Signature: The 1000hp Hardware Foundation",
+      "title": "DW 9000 and Vic Firth: The 1000hp Hardware Foundation",
       "items": [
         {
           "type": "Bass Drum Pedals",
@@ -1635,10 +1635,10 @@ export const articles = {
         },
         {
           "type": "Sticks",
-          "brand": "Vater",
-          "model": "Vater Shannon Larkin Signature",
-          "notes": "Larkin's long-established Vater signature model — hickory construction for hard rock power and cymbal articulation",
-          "description": "Shannon Larkin's Vater Shannon Larkin Signature sticks continued as his primary stick choice through the 1000hp era, consistent with the Vater relationship formalized around The Oracle (2010) sessions. The signature stick's hickory construction and custom taper balance the mass needed to drive through 1000hp's dense Cavallo-produced mix — full backbeats, powerful crash accents across Godsmack's heaviest material — with the control required for consistent playing across extended touring sets. For an album as physically demanding to perform as 1000hp, Vater's durability and rebound consistency are non-negotiable professional requirements."
+          "brand": "Vic Firth",
+          "model": "Vic Firth American Classic 5B",
+          "notes": "Larkin's long-established stick choice — hickory construction for hard rock power and cymbal articulation",
+          "description": "Shannon Larkin's Vic Firth American Classic 5B sticks continued as his primary stick choice through the 1000hp era, consistent with his stick choice since joining Godsmack. The 5B's hickory construction balances the mass needed to drive through 1000hp's dense Cavallo-produced mix — full backbeats, powerful crash accents across Godsmack's heaviest material — with the control required for consistent playing across extended touring sets. For an album as physically demanding to perform as 1000hp, the 5B's durability and rebound consistency are non-negotiable professional requirements."
         },
         {
           "type": "Hi-Hat Stand",
@@ -1936,19 +1936,19 @@ export const articles = {
       "shannon larkin pearl demon drive",
       "the oracle drum setup",
       "godsmack drummer gear 2010",
-      "shannon larkin vater signature sticks"
+      "shannon larkin vic firth sticks"
     ],
     "ogImage": "/images/drummers/shannon-larkin.webp",
     "intro": {
       "title": "Shannon Larkin's Drum Setup on Godsmack's The Oracle: ddrum Dios Series and the Third Consecutive #1",
-      "content": "Released on May 4, 2010, on Universal Republic Records, *The Oracle* is Godsmack's fifth studio album — and the third consecutive Godsmack studio release to debut at #1 on the Billboard 200, following *Faceless* (2003) and *IV* (2006). That achievement placed Godsmack alongside a small group of American hard rock acts whose commercial dominance in the 2000s was, in retrospect, remarkable for the format. By 2010, the rock landscape had shifted decisively toward streaming-era economics, and a #1 debut for a hard rock band on a major label was no longer routine — yet *The Oracle* delivered exactly that, anchored by the singles \"Cryin' Like a Bitch\" and \"Love-Hate-Sex-Pain.\"\n\nFor Shannon Larkin, *The Oracle* sessions represented his third studio album with Godsmack since joining in 2002. His ddrum Dios Series kit and Sabian HH/HHX cymbal voice — established since *Faceless* and refined through *IV* — remained his platform, with double 22\" bass drums and the four-tom spread that has been his consistent Godsmack configuration. His ddrum Dios maple snare remained his consistent choice, and his Sabian cymbal selection deepened around the HH/HHX dual-series voice that had become his signature ride and crash palette.\n\nThe most significant production context for *The Oracle* was that it was recorded at Sully Erna's home studio in Massachusetts, with Dave Fortman (Evanescence, Slipknot, Mudvayne) co-producing alongside Erna. That home-studio environment gave the band the time and isolation to track drums with the kind of focused attention that arena-tier studios with hourly meters don't always allow. Larkin had room to dial in head selections, microphone placement, and tuning across the full kit — an approach that suited the album's deliberate, song-first arrangements.\n\nBy 2010, Larkin had also formalized his Vater signature stick relationship — the Vater Shannon Larkin Signature model, developed specifically for the demands of hard rock playing, with hickory construction and a balance calibrated for both backbeat power and cymbal articulation. Combined with Pearl's Demon Drive direct-drive double pedal (which had become his preferred pedal by the late-2000s touring cycle), the gear picture on *The Oracle* is one of a drummer who has settled into a refined, mature setup and is using it to serve the music rather than to chase new equipment.\n\nThis article documents the ddrum Dios Series kit, ddrum Dios maple snare, Sabian HH/HHX cymbal configuration, Pearl Demon Drive pedals, and Vater signature sticks that powered Shannon Larkin's *The Oracle* studio performance — the rig behind Godsmack's third consecutive #1 Billboard 200 debut.",
+      "content": "Released on May 4, 2010, on Universal Republic Records, *The Oracle* is Godsmack's fifth studio album — and the third consecutive Godsmack studio release to debut at #1 on the Billboard 200, following *Faceless* (2003) and *IV* (2006). That achievement placed Godsmack alongside a small group of American hard rock acts whose commercial dominance in the 2000s was, in retrospect, remarkable for the format. By 2010, the rock landscape had shifted decisively toward streaming-era economics, and a #1 debut for a hard rock band on a major label was no longer routine — yet *The Oracle* delivered exactly that, anchored by the singles \"Cryin' Like a Bitch\" and \"Love-Hate-Sex-Pain.\"\n\nFor Shannon Larkin, *The Oracle* sessions represented his third studio album with Godsmack since joining in 2002. His ddrum Dios Series kit and Sabian HH/HHX cymbal voice — established since *Faceless* and refined through *IV* — remained his platform, with double 22\" bass drums and the four-tom spread that has been his consistent Godsmack configuration. His ddrum Dios maple snare remained his consistent choice, and his Sabian cymbal selection deepened around the HH/HHX dual-series voice that had become his signature ride and crash palette.\n\nThe most significant production context for *The Oracle* was that it was recorded at Sully Erna's home studio in Massachusetts, with Dave Fortman (Evanescence, Slipknot, Mudvayne) co-producing alongside Erna. That home-studio environment gave the band the time and isolation to track drums with the kind of focused attention that arena-tier studios with hourly meters don't always allow. Larkin had room to dial in head selections, microphone placement, and tuning across the full kit — an approach that suited the album's deliberate, song-first arrangements.\n\nBy 2010, Larkin's stick choice remained the Vic Firth American Classic 5B, the same hickory 5B he had played since joining Godsmack. Combined with Pearl's Demon Drive direct-drive double pedal (which had become his preferred pedal by the late-2000s touring cycle), the gear picture on *The Oracle* is one of a drummer who has settled into a refined, mature setup and is using it to serve the music rather than to chase new equipment.\n\nThis article documents the ddrum Dios Series kit, ddrum Dios maple snare, Sabian HH/HHX cymbal configuration, Pearl Demon Drive pedals, and Vic Firth American Classic 5B sticks that powered Shannon Larkin's *The Oracle* studio performance — the rig behind Godsmack's third consecutive #1 Billboard 200 debut.",
       "keyPoints": [
         "The Oracle debuted at #1 on the Billboard 200 (May 2010) — Godsmack's third consecutive #1 studio album",
         "Recorded at Sully Erna's home studio in Massachusetts; produced by Dave Fortman and Sully Erna",
         "Singles 'Cryin' Like a Bitch' and 'Love-Hate-Sex-Pain' anchored the album commercially",
         "ddrum Dios Series — Shannon Larkin's kit since Faceless, unchanged by 2010",
         "Pearl Demon Drive double bass pedal — direct-drive precision for Larkin's late-2000s touring cycle",
-        "Vater Shannon Larkin Signature sticks — formalized signature endorsement reflecting his mature setup"
+        "Vic Firth American Classic 5B sticks — Larkin's consistent stick choice since joining Godsmack"
       ]
     },
     "drumKit": {
@@ -2037,7 +2037,7 @@ export const articles = {
       "estimatedValue": "$2,000–3,500 (full Sabian HH/HHX setup, 2010 era)"
     },
     "hardware": {
-      "title": "Pearl Demon Drive and Vater Signature: The 2010 Hardware Picture",
+      "title": "Pearl Demon Drive and Vic Firth: The 2010 Hardware Picture",
       "items": [
         {
           "type": "Bass Drum Pedals",
@@ -2048,10 +2048,10 @@ export const articles = {
         },
         {
           "type": "Sticks",
-          "brand": "Vater",
-          "model": "Vater Shannon Larkin Signature",
-          "notes": "Vater's signature stick developed in collaboration with Larkin — hickory construction, hard rock specifications",
-          "description": "By *The Oracle* (2010), Shannon Larkin had formalized his signature stick relationship with Vater Percussion: the Vater Shannon Larkin Signature model, developed in collaboration with Vater to match his hard rock playing demands. The signature stick's specifications balance the mass required to drive through Godsmack's dense live mix — full backbeats, powerful crash accents, authoritative tom fills — with the control required for consistent playing across two-hour sets. Hickory construction provides the durability and rebound character that touring drummers at Larkin's intensity demand."
+          "brand": "Vic Firth",
+          "model": "Vic Firth American Classic 5B",
+          "notes": "Larkin's consistent stick choice — hickory construction, standard-weight 5B specifications",
+          "description": "By *The Oracle* (2010), Shannon Larkin's stick choice remained the Vic Firth American Classic 5B, the same model he had played since joining Godsmack. The 5B's specifications balance the mass required to drive through Godsmack's dense live mix — full backbeats, powerful crash accents, authoritative tom fills — with the control required for consistent playing across two-hour sets. Hickory construction provides the durability and rebound character that touring drummers at Larkin's intensity demand."
         },
         {
           "type": "Hi-Hat Stand",
@@ -2149,7 +2149,7 @@ export const articles = {
       },
       {
         "question": "What sticks does Shannon Larkin use?",
-        "answer": "By *The Oracle* (2010), Shannon Larkin had formalized his signature stick relationship with Vater Percussion — the Vater Shannon Larkin Signature model, developed in collaboration with Vater to match his hard rock playing demands. The signature stick uses hickory construction, balanced for both backbeat power and cymbal articulation. The model represents a key element of Larkin's mature professional setup — a signature stick is the kind of long-term endorsement that reflects a player's settled, refined approach to his rig. See the [Shannon Larkin complete gear guide](/articles/shannon-larkin-drum-setup) for context on his stick choices across his career."
+        "answer": "By *The Oracle* (2010), Shannon Larkin's stick choice remained the Vic Firth American Classic 5B — the same hickory 5B he has played throughout his Godsmack tenure. The 5B's construction is balanced for both backbeat power and cymbal articulation. See the [Shannon Larkin complete gear guide](/articles/shannon-larkin-drum-setup) for context on his stick choices across his career."
       },
       {
         "question": "What cymbals does Shannon Larkin use on The Oracle?",
@@ -2208,7 +2208,7 @@ export const articles = {
         {
           "@type": "Article",
           "headline": "Shannon Larkin's Drum Setup on Godsmack's The Oracle (2010)",
-          "description": "Shannon Larkin's drum setup on Godsmack's The Oracle (2010) — the band's third consecutive #1 Billboard 200 debut. ddrum Dios Series, Sabian HH/HHX, Pearl Demon Drive, Vater signature sticks.",
+          "description": "Shannon Larkin's drum setup on Godsmack's The Oracle (2010) — the band's third consecutive #1 Billboard 200 debut. ddrum Dios Series, Sabian HH/HHX, Pearl Demon Drive, Vic Firth American Classic 5B sticks.",
           "author": {
             "@type": "Organization",
             "name": "MetalForge Editorial"
@@ -2294,7 +2294,7 @@ export const articles = {
     },
     "conclusion": {
       "title": "The Settled Era: The Oracle and the Third #1",
-      "content": "*The Oracle* (2010) is Shannon Larkin's settled-era studio performance with Godsmack — an album recorded at Sully Erna's Massachusetts home studio with the kind of time and attention that commercial sessions don't always allow. The ddrum Dios Series kit and maple snare, Sabian HH/HHX cymbals, Pearl Demon Drive pedal, and Vater Shannon Larkin Signature sticks collectively represent a drummer who has refined his rig across two prior Godsmack studio albums and arrived at *The Oracle* with very specific ideas about the sounds he wanted to make.\n\n**For Drummers Studying The Oracle:**\nStart with \"Cryin' Like a Bitch\" — Larkin's most direct, unambiguous groove on the album, built entirely on the ddrum Dios Series' attack-forward character and the maple snare's cutting voice for radio-driving authority. Then work through \"Love-Hate-Sex-Pain\" for the maple snare's complex backbeat and the HHX Raw Bell Dry Ride's verse-driving voice. The title track demonstrates the architectural ambition Larkin can deliver when the arrangement demands it — extended dynamic arcs across a single track without losing pocket.\n\n**The Gear Legacy:**\nBy 2010, Shannon Larkin's ddrum Dios Series + Sabian HH/HHX + Vater signature setup represented a settled professional rig that he carried across multiple albums and touring cycles. A player approaching *The Oracle*'s drum sound can replicate the gear philosophy — durable shells, hand-hammered cymbals with body and complexity, direct-drive double pedal, signature stick weight — at multiple price points.\n\nFor the complete Shannon Larkin gear arc: begin at [Faceless (2003)](/articles/faceless-drum-setup) — the ddrum Dios Series starting point — continue through [IV (2006)](/articles/godsmack-iv-drum-setup), and follow with *The Oracle* (2010) for the settled era documented here. The [Shannon Larkin complete gear guide](/articles/shannon-larkin-drum-setup) documents his current setup, still built around the same ddrum Dios Series kit.\n\n🥁 *#1 Billboard 200. Third consecutive #1. The settled ddrum Dios Series era at peak.* 🤘"
+      "content": "*The Oracle* (2010) is Shannon Larkin's settled-era studio performance with Godsmack — an album recorded at Sully Erna's Massachusetts home studio with the kind of time and attention that commercial sessions don't always allow. The ddrum Dios Series kit and maple snare, Sabian HH/HHX cymbals, Pearl Demon Drive pedal, and Vic Firth American Classic 5B sticks collectively represent a drummer who has refined his rig across two prior Godsmack studio albums and arrived at *The Oracle* with very specific ideas about the sounds he wanted to make.\n\n**For Drummers Studying The Oracle:**\nStart with \"Cryin' Like a Bitch\" — Larkin's most direct, unambiguous groove on the album, built entirely on the ddrum Dios Series' attack-forward character and the maple snare's cutting voice for radio-driving authority. Then work through \"Love-Hate-Sex-Pain\" for the maple snare's complex backbeat and the HHX Raw Bell Dry Ride's verse-driving voice. The title track demonstrates the architectural ambition Larkin can deliver when the arrangement demands it — extended dynamic arcs across a single track without losing pocket.\n\n**The Gear Legacy:**\nBy 2010, Shannon Larkin's ddrum Dios Series + Sabian HH/HHX + Vic Firth American Classic 5B setup represented a settled professional rig that he carried across multiple albums and touring cycles. A player approaching *The Oracle*'s drum sound can replicate the gear philosophy — durable shells, hand-hammered cymbals with body and complexity, direct-drive double pedal, standard-weight stick — at multiple price points.\n\nFor the complete Shannon Larkin gear arc: begin at [Faceless (2003)](/articles/faceless-drum-setup) — the ddrum Dios Series starting point — continue through [IV (2006)](/articles/godsmack-iv-drum-setup), and follow with *The Oracle* (2010) for the settled era documented here. The [Shannon Larkin complete gear guide](/articles/shannon-larkin-drum-setup) documents his current setup, still built around the same ddrum Dios Series kit.\n\n🥁 *#1 Billboard 200. Third consecutive #1. The settled ddrum Dios Series era at peak.* 🤘"
     }
   },
   "lighting-up-the-sky-drum-setup": {
@@ -2330,7 +2330,7 @@ export const articles = {
     "ogImage": "/images/drummers/shannon-larkin.webp",
     "intro": {
       "title": "Shannon Larkin's ddrum Dios Series on Godsmack's Final Album",
-      "content": "Released on February 24, 2023, *Lighting Up the Sky* is Godsmack's eighth and final studio album — the band announced it as their farewell record, closing a studio career that spans *Godsmack* (1998) to this conclusive statement. For Shannon Larkin, it represents the final chapter of his two-decade tenure as Godsmack's drummer, and the album arrived with the same ddrum Dios Series kit that has anchored his sound since *Faceless* (2003) — the same drums, the same maple snare, carried through to the very end of the band's studio catalog.\n\nThe ddrum Dios Series is built for exactly the kind of durability a two-decade touring and recording career demands. For Larkin, a drummer who has cited John Bonham as a defining influence throughout his career, the consistency of his setup for *Lighting Up the Sky* is itself a statement: the gear that got him here is the gear that closed it out.\n\nHis Sabian cymbal relationship, long established across the entire Godsmack studio catalog, continued for the *Lighting Up the Sky* cycle with the refined HHX/AAX configuration he developed through the *When Legends Rise* period. The DW 9000 double bass pedal — Larkin's most consistent choice across the post-2010 Godsmack period — returned as the foot hardware foundation. Vater Shannon Larkin Signature sticks completed the setup.\n\nThis article documents the ddrum Dios Series configuration, Sabian cymbal setup, and the full gear picture of Shannon Larkin's final Godsmack studio kit.",
+      "content": "Released on February 24, 2023, *Lighting Up the Sky* is Godsmack's eighth and final studio album — the band announced it as their farewell record, closing a studio career that spans *Godsmack* (1998) to this conclusive statement. For Shannon Larkin, it represents the final chapter of his two-decade tenure as Godsmack's drummer, and the album arrived with the same ddrum Dios Series kit that has anchored his sound since *Faceless* (2003) — the same drums, the same maple snare, carried through to the very end of the band's studio catalog.\n\nThe ddrum Dios Series is built for exactly the kind of durability a two-decade touring and recording career demands. For Larkin, a drummer who has cited John Bonham as a defining influence throughout his career, the consistency of his setup for *Lighting Up the Sky* is itself a statement: the gear that got him here is the gear that closed it out.\n\nHis Sabian cymbal relationship, long established across the entire Godsmack studio catalog, continued for the *Lighting Up the Sky* cycle with the refined HHX/AAX configuration he developed through the *When Legends Rise* period. The DW 9000 double bass pedal — Larkin's most consistent choice across the post-2010 Godsmack period — returned as the foot hardware foundation. Vic Firth American Classic 5B sticks completed the setup.\n\nThis article documents the ddrum Dios Series configuration, Sabian cymbal setup, and the full gear picture of Shannon Larkin's final Godsmack studio kit.",
       "keyPoints": [
         "Lighting Up the Sky (2023) — Godsmack's announced eighth and final studio album",
         "ddrum Dios Series drums — the same kit Larkin has used since Faceless (2003), unchanged for the farewell record",
@@ -2426,7 +2426,7 @@ export const articles = {
       "estimatedValue": "$2,000–3,500 (full Sabian HHX/AAX setup)"
     },
     "hardware": {
-      "title": "DW 9000 and Vater: The Consistent Foundation for Godsmack's Final Chapter",
+      "title": "DW 9000 and Vic Firth: The Consistent Foundation for Godsmack's Final Chapter",
       "items": [
         {
           "type": "Bass Drum Pedals",
@@ -2437,10 +2437,10 @@ export const articles = {
         },
         {
           "type": "Sticks",
-          "brand": "Vater",
-          "model": "Vater Shannon Larkin Signature",
-          "notes": "Long-running signature stick — hickory, balanced taper for hard rock power and cymbal articulation",
-          "description": "The Vater Shannon Larkin Signature stick has been Larkin's touring and recording choice since its development in collaboration with Vater Percussion. The signature's hickory construction and custom taper provide the mass required for Godsmack's power-forward hard rock playing while maintaining the rebound and articulation control needed for consistent performance across two-hour arena sets. On *Lighting Up the Sky*, the signature stick's balanced weight profile suits the ddrum Dios Series' punchy character — driving the snare and toms without over-playing the kit's inherent brightness."
+          "brand": "Vic Firth",
+          "model": "Vic Firth American Classic 5B",
+          "notes": "Long-running stick choice — hickory construction, standard-weight 5B for hard rock power and cymbal articulation",
+          "description": "The Vic Firth American Classic 5B has been Larkin's touring and recording stick choice for the entirety of his Godsmack tenure. The 5B's hickory construction provides the mass required for Godsmack's power-forward hard rock playing while maintaining the rebound and articulation control needed for consistent performance across two-hour arena sets. On *Lighting Up the Sky*, the 5B's balanced weight profile suits the ddrum Dios Series' punchy character — driving the snare and toms without over-playing the kit's inherent brightness."
         },
         {
           "type": "Throne",
@@ -2614,7 +2614,7 @@ export const articles = {
               "name": "How does Shannon Larkin's kit on Lighting Up the Sky compare to When Legends Rise?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Shannon Larkin's kit did not change between When Legends Rise (2018) and Lighting Up the Sky (2023) — both albums use the same ddrum Dios Series drums and ddrum Dios maple snare that have anchored his sound since Faceless (2003). The Sabian HHX/AAX cymbal configuration, DW 9000 double bass pedal, and Vater signature sticks also remain consistent between the two eras, maintaining the same core sonic identity across both records."
+                "text": "Shannon Larkin's kit did not change between When Legends Rise (2018) and Lighting Up the Sky (2023) — both albums use the same ddrum Dios Series drums and ddrum Dios maple snare that have anchored his sound since Faceless (2003). The Sabian HHX/AAX cymbal configuration, DW 9000 double bass pedal, and Vic Firth American Classic 5B sticks also remain consistent between the two eras, maintaining the same core sonic identity across both records."
               }
             }
           ]

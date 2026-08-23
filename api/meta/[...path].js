@@ -3068,6 +3068,10 @@ export function getMetaForPath(pathname) {
         image: DEFAULT_IMAGE,
         type: 'profile',
         url: `${BASE_URL}/bands/${slug}`,
+        // Issue #6072: band.summary was reaching MusicGroup.description in the
+        // JSON-LD below but never the visible body — leadFact prints it right
+        // under the h1, same pattern as #6071's extendedBios overview fix.
+        leadFact: band.summary ? escapeHtml(band.summary) : null,
         articleSchema: JSON.stringify({
           '@context': 'https://schema.org',
           '@type': 'MusicGroup',

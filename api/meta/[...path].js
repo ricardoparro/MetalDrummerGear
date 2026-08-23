@@ -3946,6 +3946,9 @@ export function getMetaForPath(pathname) {
         image: gear.seo?.ogImage || gear.hero?.heroImage || drummer.image || `${BASE_URL}/images/og/default.png`,
         type: 'website',
         url: `${BASE_URL}/drummers/${drummerSlug}/signature/${gearSlug}`,
+        // Issue #6073: gear.hero.subtitle was Product JSON-LD-only; leadFact
+        // prints it right under <h1>, same slot #5109-era bios use.
+        leadFact: gear.hero.subtitle,
         faqDisplayItems: sigGearFaqDisplayItems,
         articleSchema: JSON.stringify({
           '@context': 'https://schema.org',

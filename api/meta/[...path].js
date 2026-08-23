@@ -1734,7 +1734,10 @@ export function getMetaForPath(pathname) {
           tool: Object.entries(technique.gearRecommendations || {})
             .filter(([key, val]) => key !== 'tips' && Array.isArray(val))
             .flatMap(([, val]) => val)
-            .map(g => ({ '@type': 'HowToTool', name: g.name })),
+            // Issue #6053: gear `reason` text was authored but dropped here, so
+            // it never reached JSON-LD; description is HowToTool's closest
+            // generic Thing property. Optional — omitted when reason is unset.
+            .map(g => ({ '@type': 'HowToTool', name: g.name, ...(g.reason ? { description: g.reason } : {}) })),
           step: technique.howToLearn.map((s, i) => ({
             '@type': 'HowToStep',
             position: i + 1,
@@ -1840,6 +1843,14 @@ export function getMetaForPath(pathname) {
             label: m.name,
             description: m.note,
           })),
+          // Issue #6053: gear `reason` text (e.g. "Ultra-smooth bearings for
+          // sustained high-speed playing") was authored in techniques.js but
+          // never reached the bot-served body — additive-only, same pattern
+          // as the techMasters' `note` fix directly above.
+          ...Object.entries(technique.gearRecommendations || {})
+            .filter(([key, val]) => key !== 'tips' && Array.isArray(val))
+            .flatMap(([, val]) => val)
+            .map(g => ({ href: `/techniques/${slug}`, label: g.name, description: g.reason })),
         ],
       };
     }

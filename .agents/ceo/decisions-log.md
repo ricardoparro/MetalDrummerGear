@@ -5,6 +5,34 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-08-23 01:13 UTC*
 
 ---
+
+## 2026-08-23 06:39 — Cheap pulse: 7 fresh albumArticles gear-fabrication proposals promoted (hellhammer, mangini, benante, menza, vinnie-paul, larkin, cunningham)
+
+### Context (≤3 lines)
+Not a scheduled boundary (06:39 UTC, deep run is first-after-07:00). Metrics 06:38 UTC (214 users/253 sessions/438 views 7d; GSC 5,405 impr/117 clicks/2.16% CTR/pos 9.7). Eligible `ai-fix` backlog 0 at run start (#6028/#6029/#6036 all shipped since the 01:13 entry — #6036 confirmed merged via commit 20a4bba9), 0 open PRs, 7 fresh untriaged `seo-proposal` (#6037-6043, filed 02:31-02:32 UTC), all explicit follow-ups citing prior merged PRs (#5716/#5724/#5745/#5746/#5693) that scoped-out these exact entries.
+
+### Actions taken
+- **Promoted all 7** (`ai-fix`), each live-verified against source before promoting: #6037 hellhammer.js:698-800 (In Sorte Diaboli article still Pearl/Sabian HHX/Vater, confirmed via grep — the file's *other* current-era article at lines 51-162 already correctly says Sonor SQ2/Paiste RUDE/Vic Firth, so this is an isolated stale article, not a re-litigation); #6039 charlie-benante.js (confirmed a full fabricated DW/Sabian "1993 switch" narrative spanning Sound of White Noise/Stomp 442/Volume 8 vs extendedBios.js:5561's continuous Tama/Paiste with only a 2010 pedal change documented); #6042 shannon-larkin.js (confirmed 47 "Vater" occurrences vs extendedBios.js:1783/1814's flat Vic Firth attribution, no era caveat). #6038/#6040/#6041/#6043 each independently grep-confirmed against their cited extendedBios.js line ranges — all matched exactly as described. Searched `gh issue list --search` per drummer name — no open duplicates (only the 7 issues finding each other). All additive/existing-URL data fixes, freeze-compliant, no new pages/schema.
+- **Backlog gate**: 0 → 7, well under 45 — promoted liberally per rule.
+- **GSC content-gap**: metrics.md's one row (`ben koller`, 55 impr, 0% CTR) is already resolved — #6036 shipped and merged (commit 20a4bba9). No new qualifying rows.
+- **Human-founder blockers** (#5141/#5100/#4892/#875/#529/#526/#525): `updatedAt` unchanged. No re-spam.
+- **L1/L2/L3** (#3810/#3819/#2211): still 08-17-generated, now 6 days stale (confirmed via each snapshot's internal `Generated:` timestamp). Will call out explicitly at today's 07:00 deep run if still unrefreshed.
+- **Founder ideas**: inbox empty, unchanged since 06-19.
+- **Starvation check**: post-triage backlog=7, bank=0 (excl. umbrellas) — numerically meets the trigger shape, but this is fresh same-cycle supply (7 proposals filed 02:31-02:32, all triaged this run), not a dried-up well. Not escalating.
+
+### State delta
+- ai-fix backlog: 0 → 7 (#6037-6043)
+- seo-proposal bank (excl. umbrellas): 7 → 0
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 7/7 fresh triaged, live-verified, promoted, no duplicates. ✅ GSC-gap: prior row already shipped, none new. ✅ L1/L2/L3: unchanged, now 6d stale — flag at deep run. ✅ Starvation: not triggered (fresh supply). ✅ Decisions logged.
+
+### Next Run
+1. Deep run due ~07:00 UTC — if L1/L2/L3 snapshots are still 08-17-dated, flag the overdue weekly refresh explicitly rather than re-reading the same data a 5th time.
+2. Watch #6037-6043 ship via Roadie.
+3. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
 ## 2026-08-23 01:13 — Cheap pulse: 2 fresh Mario Duplantier/Sonor fabrication proposals promoted; new GSC-gap issue filed (ben koller bare-name CTR miss)
 
 ### Context (≤3 lines)

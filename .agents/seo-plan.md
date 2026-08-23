@@ -5895,3 +5895,38 @@ Today (2026-08-23) is Sunday — not Monday, and last week's sweep already logge
 1. Watch #6037-#6043 ship via Roadie; #6041 (Vinnie Paul) and #6042 (Shannon Larkin) are the highest-scrutiny ones since they correct a *previous* PR's incomplete fix rather than a fresh untouched file — confirm the merged PR doesn't just re-touch the same lines the prior fix already got right.
 2. The albumArticles-vs-extendedBios vein is thinning — after this batch, roughly a dozen drummers remain fully unaudited (adrian-erlandsson, art-cruz, chris-turner, jon-dette, isaac-lamb, scott-travis, richard-christy, daniel-erlandsson [ambiguous 3-file cymbal split, needs external tiebreak], jaska-raatikainen [tenure-ambiguous, held]). Worth one more pass before considering this vein exhausted.
 3. Monday 08-24: L1/L2/L3 weekly refresh + drum-chair rotation (week 35 group) both due.
+
+---
+
+## 2026-08-23 07:31 UTC — Deep run: L2 follow-up sweep for the #5721 JSON-LD-only bug class, 3 fresh proposals (technique masters notes, technique gear reasons, genre longDescriptions)
+
+### Bank check
+Open `seo-proposal` at run start: 10 (7 already-promoted-but-still-labeled #6037-6043 from the 02:31 batch + 3 standing umbrellas #3810/#3819/#2211 — true untriaged bank 0). Well under the 45 cap → cleared to file up to 8 net-new. Today is Sunday — drum-chair Monday sweep correctly skipped (next due 2026-08-24).
+
+### Audit summary
+- Robots.txt (`api/robots.js`): all 8 AI crawlers (GPTBot, ChatGPT-User, ClaudeBot, Claude-Web, anthropic-ai, PerplexityBot, Applebot-Extended, cohere-ai, Google-Extended) explicitly allowed. ✅
+- `/public/llms/drummers/*.md`: 72/72 live, matches full roster. ✅
+- Quick Facts boxes (#872): component-level, universally deployed across all drummer pages. ✅ No gap.
+- GSC content-gap table: sole row `ben koller` (55 impr, 0% CTR) already shipped as #6036 (merged, commit 20a4bba9) per decisions-log — not re-filed.
+
+### What was checked (LLM citation priority, per freeze Rule 3)
+`learned-patterns.md`'s 2026-08-17 entry on the closed #5721 fix (`/lists/<slug>` ranked-drummer `highlight`/`reason` text trapped in JSON-LD only) left an explicit follow-up note: "worth a follow-up grep sweep of `api/meta/[...path].js` for other `itemListElement`/description fields with rich text that similarly never reach visible body." No prior run had picked this up. Dispatched a research agent to enumerate every JSON-LD `@type` builder in the 8,260-line file and check each free-text field against the page's visible-body render path; personally live-verified all 3 reported gaps via bot-UA curl (`PerplexityBot`) before filing, confirming in each case the exact string appears inside the `<script type="application/ld+json">` blob and nowhere else in the response.
+
+### Proposals filed this run (3)
+1. **#6052** — technique masters' `Person.description` (`m.note`, 105 entries across `techniques.js`) on `/techniques/<slug>` and `/technique/<slug>/drummers` (13 pages) — JSON-LD only, confirmed via curl (`Pioneer of the hyper blast` for Pete Sandoval on `/techniques/blast-beat` appears only in the ItemList script tag).
+2. **#6053** — technique gear-recommendation `reason` text (124 entries) never reaches JSON-LD *or* visible body at all on `/techniques/<slug>` (13 pages) — worse than #6052, since #4825 (shipped 2026-07-17) only added `HowToTool.name`, never `reason`. Confirmed via curl: gear name present, reason text absent entirely from the bot-served response.
+3. **#6054** — genre `longDescription` (100-200+ word authored prose, 9 genres) on `/genre/<slug>` is JSON-LD-only (`Article.about.description`) — confirmed via curl on `/genre/thrash` (single occurrence of "relentless energy", inside the `@graph` JSON blob). Directly relevant to #2211's uncited comparative queries (fastest/best-death-metal/thrash-ranked drummer lists), since genre pages are adjacent authority surface for those same queries.
+
+All 3: single-file (`api/meta/[...path].js`) fixes reusing the exact `ssrLinks[i].description` additive render pattern #5721 already proved safe (`generateMetaHtml()` line ~8197-8198) — zero new pages/URLs, freeze-compliant DEPTH work on existing, already-indexed page families. Checked for duplicates (`gh issue list --state all --search`) — none found for any of the 3.
+
+Filed only 3 despite 8-max/45-cap headroom — quality over volume; this is one well-verified investigation thread, not padding to a quota.
+
+### Open proposals waiting on CEO triage
+- #6052, #6053, #6054 (filed this run, 0d old)
+- #6037-#6043 (filed 02:31-02:32 UTC, already promoted to `ai-fix` per decisions-log 06:39)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers only.
+
+### Next run
+1. Watch #6052-#6054 ship via Roadie; #6053 is the highest-value one to spot-check since it needs both a JSON-LD field addition AND a new ssrLinks entry (two-part fix, more surface for a partial implementation).
+2. The #5721 JSON-LD-only bug class may still have instances beyond these 3 — the research agent's sweep covered every `@type` builder in `api/meta/[...path].js` but a second pass after #6052-#6054 ship (once the fix pattern is fresh) could catch anything missed on `Review`/`AggregateRating`/`HowTo.step` type fields if those ever gain free-text data.
+3. Monday 08-24: L1/L2/L3 weekly refresh + drum-chair rotation (week 35 group) both due — first run that day should do both.

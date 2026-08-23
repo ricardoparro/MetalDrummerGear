@@ -96,10 +96,10 @@ Widely considered Gojira's masterpiece, *L'Enfant Sauvage* required Mario's most
 **Albums:** Magma (2016), Fortitude (2021)
 **Tours:** Magma World Tour; Fortitude World Tour; Metallica M72 World Tour (support); Paris Olympics 2024
 
-Gojira reached global headliner status — opening for Metallica at stadiums, headlining Download Festival, performing at the 2024 Paris Olympics opening ceremony. Mario's Sonor SQ2 rig is his most refined and visually striking setup. Every specification — shell material, dimensions, finish — was chosen precisely for Gojira's demands.
+Gojira reached global headliner status — opening for Metallica at stadiums, headlining Download Festival, performing at the 2024 Paris Olympics opening ceremony. Mario's Tama Starclassic Bubinga rig is his most refined and visually striking setup. Every specification — shell material, dimensions, finish — was chosen precisely for Gojira's demands.
 
-- **Drums:** Sonor SQ2 Custom — maple/beech hybrid: dual 22"×18" kicks, 10"/12"/13"/16"/18" toms *(switch — fully custom specification, maximum projection for stadiums)*
-- **Snare:** Sonor SQ2 14"×6.5" custom maple *(switch — matched shell material, consistent tonal character)*
+- **Drums:** Tama Starclassic Bubinga — bubinga shells: dual 22"×18" kicks, 10"/12"/13"/16"/18" toms *(switch — bubinga shells for maximum low-end projection for stadiums)*
+- **Snare:** Tama S.L.P. 14"×6.5" G-Maple *(switch — matched shell material, consistent tonal character)*
 - **Cymbals:** Meinl Byzance — 14" Traditional hi-hats, 17"/18"/19" crashes, 21" Vintage ride, 18" China *(continued — long-term Meinl partnership)*
 - **Hardware:** Tama Iron Cobra 900 Power Glide (dual pedals) *(switch — Power Glide cam for fluid dual bass control)*
 - **Sticks:** Tama Mario Duplantier Signature *(signature — first signature stick, custom specs for tribal patterns)*
@@ -108,13 +108,11 @@ Gojira reached global headliner status — opening for Metallica at stadiums, he
 - **Estimated kit cost (original):** ~$18,000
 
 **Key developments:**
-- Switch to Sonor SQ2 — fully custom shell specification
+- Switch to Tama Starclassic Bubinga — bubinga shells for maximum stadium projection
 - Tama Mario Duplantier Signature sticks launched
 - Tama Iron Cobra 900 Power Glide replaces DW pedals
 - *Fortitude* (2021) — Grammy nomination; global stadium touring
 - 2024 Paris Olympics opening ceremony performance — largest audience in Gojira history
-
-> "The SQ2 is the most personal kit I've ever played. Every dimension was chosen for what I do. There's nothing accidental about any of it." — *Sonor Artist Profile, 2017*
 
 ---
 
@@ -133,7 +131,7 @@ Gojira reached global headliner status — opening for Metallica at stadiums, he
 
 - **Pearl Export** — 1996–2004 (formative era)
 - **Gretsch USA Custom** — 2005–2015 (international breakthrough endorsement)
-- **Sonor SQ2** — 2016–present (current flagship kit)
+- **Tama Starclassic Bubinga** — 2016–present (current flagship kit)
 - **Paiste 2002** — 1996–2008 (founding cymbal partnership)
 - **Meinl Byzance** — 2009–present (current cymbal partnership)
 - **DW 5000/9000** — 2005–2015 (pedal partnership)
@@ -145,7 +143,7 @@ Gojira reached global headliner status — opening for Metallica at stadiums, he
 ## FAQ
 
 **Q: What drum kit did Mario Duplantier use on Magma?**
-A: Mario recorded *Magma* (2016) with his new Sonor SQ2 custom kit — maple/beech hybrid shells with dual 22"×18" kick drums, and toms in 10", 12", 13", 16", and 18" sizes. Cymbals were Meinl Byzance series. Hardware was Tama Iron Cobra 900 Power Glide double pedals.
+A: Mario recorded *Magma* (2016) with his new Tama Starclassic Bubinga kit — bubinga shells with dual 22"×18" kick drums, and toms in 10", 12", 13", 16", and 18" sizes. Cymbals were Meinl Byzance series. Hardware was Tama Iron Cobra 900 Power Glide double pedals.
 
 **Q: What cymbals does Mario Duplantier use?**
 A: Mario has used Meinl Byzance cymbals since approximately 2009, replacing the Paiste 2002 he used for the first decade of Gojira's career. His current Byzance setup includes 14" Traditional hi-hats, 17"/18"/19" crashes, a 21" Vintage ride, and an 18" China.
@@ -154,7 +152,7 @@ A: Mario has used Meinl Byzance cymbals since approximately 2009, replacing the 
 A: *From Mars to Sirius* (2005) was recorded with Mario's first major endorsement kit — the Gretsch USA Custom in maple shells, with dual 22"×18" kick drums. Cymbals were Paiste 2002, and hardware included the DW 5000 Turbo double pedal.
 
 **Q: What is Mario Duplantier's current drum kit?**
-A: Mario's current kit is the Sonor SQ2, a fully custom-specification maple/beech hybrid shell kit. His cymbals are Meinl Byzance, pedals are Tama Iron Cobra 900 Power Glide, and sticks are his Tama Mario Duplantier Signature model.
+A: Mario's current kit is the Tama Starclassic Bubinga, a bubinga-shell kit with dual 22"×18" kick drums. His cymbals are Meinl Byzance, pedals are Tama Iron Cobra 900 Power Glide, and sticks are his Tama Mario Duplantier Signature model.
 
 **Q: Why does Mario Duplantier use dual bass drums?**
 A: Mario has used two physical kick drums — not a double pedal on a single drum — since Gojira's earliest days. The dual configuration gives independent resonance from each shell, creates the visual impact central to Gojira's stage design, and allows subtle groove variations between feet that a single-drum double-pedal setup can't replicate.

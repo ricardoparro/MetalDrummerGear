@@ -3950,6 +3950,9 @@ export function getMetaForPath(pathname) {
         image: gear.seo?.ogImage || gear.hero?.heroImage || drummer.image || `${BASE_URL}/images/og/default.png`,
         type: 'website',
         url: `${BASE_URL}/drummers/${drummerSlug}/signature/${gearSlug}`,
+        // Issue #6073: gear.hero.subtitle reached Product JSON-LD description but
+        // never the visible body (distinct string from meta.description's hero.tagline).
+        heroSubtitle: gear.hero.subtitle,
         faqDisplayItems: sigGearFaqDisplayItems,
         articleSchema: JSON.stringify({
           '@context': 'https://schema.org',
@@ -8232,6 +8235,7 @@ export function generateMetaHtml(meta, originalUrl) {
 <body>
   <main style="font-family: system-ui, sans-serif; max-width: 600px; margin: 40px auto; padding: 20px;">
     <h1>${meta.title}</h1>
+    ${meta.heroSubtitle ? `<p class="hero-subtitle">${escapeHtml(meta.heroSubtitle)}</p>` : ''}
     ${meta.leadFact ? `<p class="article-lead">${meta.leadFact}</p>` : ''}
     ${meta.videoEmbed ? `
     <!-- Issue #3698: real crawlable video player so Google sees this as a watch page -->

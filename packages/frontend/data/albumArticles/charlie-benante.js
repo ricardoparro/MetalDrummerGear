@@ -733,12 +733,12 @@ export const articles = {
     "dateModified": "2026-06-26",
     "author": "MetalForge Editorial",
     "title": "Charlie Benante's Drum Setup on Anthrax's Sound of White Noise (1993)",
-    "description": "Complete breakdown of Charlie Benante's drum setup on Anthrax's Sound of White Noise (1993) — John Bush's debut as vocalist, the band's groove-metal pivot, Gold certification, and the DW Collector's Series kit that replaced Tama for the Dave Jerden-produced sessions.",
+    "description": "Complete breakdown of Charlie Benante's drum setup on Anthrax's Sound of White Noise (1993) — John Bush's debut as vocalist, the band's groove-metal pivot, Gold certification, and the Tama Starclassic Maple kit and Paiste cymbals behind the Dave Jerden-produced sessions.",
     "seoKeywords": [
       "charlie benante sound of white noise drum setup",
       "sound of white noise drums 1993",
       "anthrax john bush debut drums",
-      "charlie benante dw collectors series",
+      "charlie benante tama starclassic maple",
       "anthrax groove metal drums",
       "dave jerden anthrax production",
       "charlie benante 1993 kit",
@@ -747,20 +747,20 @@ export const articles = {
     "ogImage": "/images/albums/sound-of-white-noise-drums.webp",
     "intro": {
       "title": "The Groove-Metal Pivot: Anthrax Reborn with John Bush",
-      "content": "Released on May 25, 1993, Sound of White Noise was the album that redefined Anthrax. Out went Joey Belladonna's signature high-register thrash vocals; in came John Bush, the gravel-throated former Armored Saint frontman whose mid-range power and bluesy phrasing pulled the band into entirely new sonic territory. Out went the precision-thrash blueprint of Among the Living and Persistence of Time; in came a heavier, slower, groove-metal approach that mirrored the early-90s shift across the entire metal landscape. And out went Tama — Charlie Benante's brand for the entire thrash era — replaced by DW Collector's Series drums that gave his playing a new tonal foundation.\n\nProduced by Dave Jerden at A&M Studios in Hollywood, the record placed Anthrax in completely different production hands than the band had ever worked with. Jerden — fresh off Alice in Chains' Dirt (1992) and Jane's Addiction's Ritual de lo Habitual (1990) — brought a thick, organic, mid-range-heavy production aesthetic that was the polar opposite of the bright, hyper-articulated thrash production of the late 1980s. Drums on a Jerden record breathe — they sound recorded in a real room, with natural resonance and a wider stereo image than the close-miked, dead-room thrash records Anthrax had made with Eddie Kramer and Mark Dodson.\n\nFor Charlie Benante, this was a tectonic shift. The drummer who had pioneered sustained double bass in thrash with Among the Living and Persistence of Time was suddenly asked to pull back, slow down, and play with weight rather than speed. Tracks like \"Only\" — the album's most successful single and a song James Hetfield once called the perfect song — center on a mid-tempo groove that prizes feel over technical fireworks. \"Black Lodge,\" co-written with Angelo Badalamenti for Twin Peaks-era atmospherics, is even slower, demanding restraint and dynamic sensitivity. The double bass is still there, but it's used as a structural device rather than a constant presence.\n\nSound of White Noise was a commercial triumph — debuting at #7 on the Billboard 200 (Anthrax's highest-ever chart position), certified Gold in the US, and proving that Anthrax could survive the lineup change that many fans had considered impossible. Charlie's gear evolution from the Tama Artstar II of the Among the Living era to the DW Collector's Series of the Sound of White Noise sessions reflects the broader artistic evolution. This article breaks down the kit, the cymbals, the hardware, and the technique behind one of Anthrax's most important records — and the album that completed the band's transformation from thrash purists into a groove-metal force capable of surviving the genre's biggest transition.",
+      "content": "Released on May 25, 1993, Sound of White Noise was the album that redefined Anthrax. Out went Joey Belladonna's signature high-register thrash vocals; in came John Bush, the gravel-throated former Armored Saint frontman whose mid-range power and bluesy phrasing pulled the band into entirely new sonic territory. Out went the precision-thrash blueprint of Among the Living and Persistence of Time; in came a heavier, slower, groove-metal approach that mirrored the early-90s shift across the entire metal landscape. Charlie Benante's gear stayed constant through that transition — Tama drums and Paiste cymbals, the same foundation he'd relied on throughout the thrash era — even as his playing adapted to the new material's weight and restraint.\n\nProduced by Dave Jerden at A&M Studios in Hollywood, the record placed Anthrax in completely different production hands than the band had ever worked with. Jerden — fresh off Alice in Chains' Dirt (1992) and Jane's Addiction's Ritual de lo Habitual (1990) — brought a thick, organic, mid-range-heavy production aesthetic that was the polar opposite of the bright, hyper-articulated thrash production of the late 1980s. Drums on a Jerden record breathe — they sound recorded in a real room, with natural resonance and a wider stereo image than the close-miked, dead-room thrash records Anthrax had made with Eddie Kramer and Mark Dodson.\n\nFor Charlie Benante, this was a tectonic shift. The drummer who had pioneered sustained double bass in thrash with Among the Living and Persistence of Time was suddenly asked to pull back, slow down, and play with weight rather than speed. Tracks like \"Only\" — the album's most successful single and a song James Hetfield once called the perfect song — center on a mid-tempo groove that prizes feel over technical fireworks. \"Black Lodge,\" co-written with Angelo Badalamenti for Twin Peaks-era atmospherics, is even slower, demanding restraint and dynamic sensitivity. The double bass is still there, but it's used as a structural device rather than a constant presence.\n\nSound of White Noise was a commercial triumph — debuting at #7 on the Billboard 200 (Anthrax's highest-ever chart position), certified Gold in the US, and proving that Anthrax could survive the lineup change that many fans had considered impossible. Charlie's gear stayed rooted in Tama and Paiste even as the band's sound evolved dramatically around it — proof that the transformation was musical and stylistic, not equipment-driven. This article breaks down the kit, the cymbals, the hardware, and the technique behind one of Anthrax's most important records — and the album that completed the band's transformation from thrash purists into a groove-metal force capable of surviving the genre's biggest transition.",
       "keyPoints": [
         "John Bush's debut as Anthrax vocalist, replacing Joey Belladonna",
         "Groove-metal pivot from thrash — distinct era from Among the Living and Persistence of Time",
         "Produced by Dave Jerden (Alice in Chains, Jane's Addiction) at A&M Studios, Hollywood",
-        "Charlie Benante switched from Tama (Among the Living era) to DW Collector's Series",
+        "Charlie Benante's Tama drums and Paiste cymbals stayed constant through the band's biggest sound shift",
         "#7 Billboard 200 — Anthrax's highest-ever chart debut, certified Gold in the US",
         "Singles \"Only\" and \"Black Lodge\" expanded the band's sonic range"
       ]
     },
     "drumKit": {
-      "title": "Benante's 1993 DW Collector's Series Arsenal",
-      "brand": "DW",
-      "model": "DW Collector's Series Maple",
+      "title": "Benante's 1993 Tama Starclassic Maple Arsenal",
+      "brand": "Tama",
+      "model": "Tama Starclassic Maple",
       "finish": "Natural maple lacquer",
       "config": {
         "bassdrums": [
@@ -774,95 +774,95 @@ export const articles = {
         "floorToms": [
           "16\" x 16\" Floor Tom"
         ],
-        "shells": "Maple shells with True-Pitch tension rods"
+        "shells": "Maple shells with Tama's Star-Cast mounting system"
       },
-      "description": "For Sound of White Noise, Charlie Benante played a DW Collector's Series Maple kit — a complete departure from the Tama Artstar II birch shells he had used throughout the State of Euphoria (1988) and Persistence of Time (1990) era. The switch to DW reflected both Charlie's personal preference for the warmer, more open maple sound that Jerden's production style demanded and the broader industry shift toward DW as the premium choice for studio-focused metal drummers in the early 1990s.\n\nThe dual 22\" x 18\" bass drums remained a non-negotiable feature of Charlie's setup — but the deeper 18\" shell depth (versus the 16\" depth of the Artstar II era) was a deliberate choice. Deeper bass drums produce more low-end resonance and a fuller, more rounded thud, which matched Jerden's mid-range-heavy production aesthetic perfectly. On tracks like \"Only\" and \"Burst,\" the kick sound is thick and physical rather than the tight, snappy attack of the thrash years.\n\nThe tom configuration — three rack toms (10\", 12\", 13\") and a single 16\" floor tom — was streamlined compared to the extended Among the Living layout. The smaller setup matched the album's more focused, groove-oriented arrangements. Where thrash demanded constant fill activity across multiple floor toms, Sound of White Noise's slower tempos and weightier riffing rewarded a more economical tom vocabulary.\n\nDW's maple shells delivered the warmth and harmonic complexity that Jerden's production process required. Maple produces a balanced, full-spectrum tone with strong fundamental and rich mid-range — exactly the sonic profile needed to sit inside the dense, mid-range-heavy guitar tones of Scott Ian and Dan Spitz. Where birch had given the Among the Living drums a punchy upper-midrange snap, maple gave the Sound of White Noise drums a warmer, more organic body. The True-Pitch tension rods allowed Charlie to fine-tune each drum to the resonant character Jerden wanted to capture in A&M Studios' room.",
+      "description": "For Sound of White Noise, Charlie Benante moved from the birch-shell Tama Artstar II and Artstar Custom kits of the thrash era to Tama's newly introduced Starclassic Maple line — the professional flagship Tama had launched in 1992. The shift to maple shells reflected both Charlie's preference for a warmer, more open tone and the production needs of Dave Jerden's mid-range-heavy aesthetic, while the brand relationship with Tama itself never changed.\n\nThe dual 22\" x 18\" bass drums remained a non-negotiable feature of Charlie's setup — but the deeper 18\" shell depth (versus the 16\" depth of the Artstar-era kits) was a deliberate choice. Deeper bass drums produce more low-end resonance and a fuller, more rounded thud, which matched Jerden's mid-range-heavy production aesthetic perfectly. On tracks like \"Only\" and \"Burst,\" the kick sound is thick and physical rather than the tight, snappy attack of the thrash years.\n\nThe tom configuration — three rack toms (10\", 12\", 13\") and a single 16\" floor tom — was streamlined compared to the extended Among the Living layout. The smaller setup matched the album's more focused, groove-oriented arrangements. Where thrash demanded constant fill activity across multiple floor toms, Sound of White Noise's slower tempos and weightier riffing rewarded a more economical tom vocabulary.\n\nTama's maple Starclassic shells delivered the warmth and harmonic complexity that Jerden's production process required. Maple produces a balanced, full-spectrum tone with strong fundamental and rich mid-range — exactly the sonic profile needed to sit inside the dense, mid-range-heavy guitar tones of Scott Ian and Dan Spitz. Where the Artstar-era birch had given the Among the Living drums a punchy upper-midrange snap, the Starclassic maple gave the Sound of White Noise drums a warmer, more organic body. The Star-Cast mounting system preserved shell resonance so Charlie could fine-tune each drum to the resonant character Jerden wanted to capture in A&M Studios' room.",
       "notes": [
-        "First Anthrax album recorded on DW Collector's Series — gear evolution from the Tama Artstar II era",
+        "First Anthrax album on Tama's newly introduced Starclassic Maple line — a shell-material shift within the same continuous Tama endorsement",
         "Dual 22\" x 18\" bass drums — deeper shells for more low-end body than the thrash era",
         "Streamlined tom configuration matches the album's groove-oriented arrangements",
         "Maple shells for warmth and harmonic complexity in Dave Jerden's production aesthetic",
-        "True-Pitch tension rods for precise per-lug tuning"
+        "Star-Cast mounting system for maximum shell resonance"
       ],
-      "estimatedValue": "$4,500-6,500 (1993 DW Collector's Series configuration)"
+      "estimatedValue": "$4,500-6,500 (1993 Tama Starclassic Maple configuration)"
     },
     "snare": {
-      "title": "The Mid-90s Voice: DW Edge Series",
-      "brand": "DW",
-      "model": "DW Edge Series Snare",
+      "title": "The Mid-90s Voice: Tama Artstar Custom Brass",
+      "brand": "Tama",
+      "model": "Tama Artstar Custom Brass Snare",
       "size": "14\" x 6.5\"",
-      "shell": "Solid maple with brass edge rings (hybrid construction)",
-      "description": "Charlie Benante's snare on Sound of White Noise was a DW Edge Series — the hybrid construction model featuring a solid maple shell with brass edge rings at the top and bottom bearing edges. The Edge Series became Charlie's signature mid-90s snare voice, providing a tonal character that bridged the bright, cutting steel snare attack of the thrash era with the warmer, woodier body that the groove-metal pivot demanded.\n\nThe hybrid maple-and-brass construction is the key to the Edge Series sound. The maple shell provides the warm fundamental and rounded body that matched Jerden's production aesthetic — a snare that sits in the mix as a musical voice rather than a piercing attack-only instrument. The brass edge rings add weight and density at the bearing edges, sharpening the initial transient and giving the drum the cut needed to be heard above Sound of White Noise's thick guitar arrangements without resorting to the brightness of a pure steel shell.\n\nTuned medium tension, the Edge snare on Sound of White Noise has a fatter, more pocket-friendly voice than the high-tuned crack of Among the Living. On tracks like \"Only,\" the snare anchors the mid-tempo groove with weight and authority. On \"Black Lodge,\" it responds dynamically to the song's quieter, more atmospheric passages without losing presence. This versatility — a snare equally at home in mid-tempo grooves and slow, dynamic passages — was essential to the album's broadened sonic range.\n\nDave Jerden's drum production approach favored close-miked snares blended with overhead and room microphones, capturing both the immediate attack and the natural resonance of the drum in A&M's tracking room. The Edge Series responded beautifully to this approach, producing a snare sound that feels three-dimensional and physical rather than the dry, forward thrash-snare placement of the late 1980s.",
-      "tuningSetting": "Medium tension for body and groove, with cut from the brass edge rings",
+      "shell": "Seamless cast bell-brass shell",
+      "description": "Charlie Benante's snare on Sound of White Noise was the same Tama Artstar Custom Brass he had moved to for Persistence of Time (1990) — a seamless cast bell-brass shell that bridged the bright, cutting steel-snare attack of the earliest thrash era with the warmer, woodier body that the groove-metal pivot demanded.\n\nThe bell-brass construction is the key to the sound. The cast shell provides a warm fundamental and rounded body with exceptional sustain — a snare that sits in the mix as a musical voice rather than a piercing attack-only instrument — while still delivering the cut needed to be heard above Sound of White Noise's thick guitar arrangements.\n\nTuned medium tension, the brass snare on Sound of White Noise has a fatter, more pocket-friendly voice than the high-tuned crack of Among the Living. On tracks like \"Only,\" the snare anchors the mid-tempo groove with weight and authority. On \"Black Lodge,\" it responds dynamically to the song's quieter, more atmospheric passages without losing presence. This versatility — a snare equally at home in mid-tempo grooves and slow, dynamic passages — was essential to the album's broadened sonic range.\n\nDave Jerden's drum production approach favored close-miked snares blended with overhead and room microphones, capturing both the immediate attack and the natural resonance of the drum in A&M's tracking room. The bell-brass shell responded beautifully to this approach, producing a snare sound that feels three-dimensional and physical rather than the dry, forward thrash-snare placement of the late 1980s.",
+      "tuningSetting": "Medium tension for body and groove",
       "heads": "Remo Coated Ambassador (batter), Remo Ambassador Snare Side (resonant)",
-      "estimatedValue": "$500-750 (1993 DW Edge Series)"
+      "estimatedValue": "$400-600 (1993 era)"
     },
     "cymbals": {
-      "title": "Sabian: The 1993 Switch from Paiste",
-      "brand": "Sabian",
-      "series": "Sabian AA / HH Series",
+      "title": "Paiste 2002: The Continuing Foundation",
+      "brand": "Paiste",
+      "series": "Paiste 2002 / Signature",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Sabian 14\" AA Rock Hi-Hats",
+          "model": "Paiste 2002 14\" Sound Edge Hi-Hats",
           "position": "Left side",
           "notes": "Tight, focused chick and full open-hat tone for groove-metal pulse"
         },
         {
           "type": "Crash",
-          "model": "Sabian 16\" AA Rock Crash",
+          "model": "Paiste Signature 16\" Fast Crash",
           "position": "Far left",
           "notes": "Fast attack for accent work in mid-tempo grooves"
         },
         {
           "type": "Crash",
-          "model": "Sabian 17\" HH Medium Crash",
+          "model": "Paiste 2002 18\" Medium Crash",
           "position": "Left of toms",
           "notes": "Warmer, more musical crash for dynamic transitions"
         },
         {
           "type": "Crash",
-          "model": "Sabian 18\" AA Rock Crash",
+          "model": "Paiste 2002 20\" Heavy Crash",
           "position": "Right of toms",
           "notes": "Primary workhorse crash with full body and cut"
         },
         {
           "type": "Ride",
-          "model": "Sabian 21\" AA Rock Ride",
+          "model": "Paiste 2002 22\" Heavy Ride",
           "position": "Far right",
           "notes": "Defined bell and controlled wash for extended ride patterns"
         },
         {
           "type": "China",
-          "model": "Sabian 18\" AA Chinese",
+          "model": "Paiste 2002 18\" China",
           "position": "Above floor tom",
           "notes": "Trashy accent voice for the album's heaviest moments"
         }
       ],
-      "description": "Sound of White Noise marked another major gear shift for Charlie Benante: the move from the Paiste 2002 cymbals of the Among the Living era to Sabian, beginning what would become a long-running endorsement relationship that continues to this day. Sabian's AA and HH lines offered the tonal palette Charlie needed for the album's broader stylistic range — bright, cutting cymbals for the heavier sections, warmer and more musical voices for the dynamic, atmospheric passages.\n\nThe 14\" AA Rock Hi-Hats anchored Charlie's groove vocabulary on the record. The AA Rock pair provides a tight, focused chick sound for closed playing and a full, controlled open-hat tone for the half-open patterns that drive tracks like \"Potter's Field\" and \"Hy Pro Glo.\" Compared to the Paiste 2002 Sound Edge hi-hats of the thrash era, the AA Rock pair has a slightly drier, more articulate character — better suited to the mid-tempo groove playing that defines Sound of White Noise.\n\nThe crash configuration spans bright, fast AA Rock crashes (16\" and 18\") for cutting accents and a darker, warmer 17\" HH Medium Crash for musical transitions and dynamic moments. This mix of AA and HH series cymbals reflects the album's range — Charlie could choose between bright, aggressive accents or fuller, more sustained crashes depending on the song's mood and the arrangement's density.\n\nThe 21\" AA Rock Ride became Charlie's primary ride voice on the record. The larger diameter (versus a typical 20\" or 22\") delivers a defined bell for accent work and a controlled wash for extended ride patterns, with enough size to sustain through Jerden's dense mid-range production without disappearing. The 18\" AA Chinese provides the trashy, explosive accent voice that Anthrax had always relied on — though, like the double bass, used more strategically on Sound of White Noise than on the band's pure-thrash records.",
-      "estimatedValue": "$1,200-1,800 total (1993 Sabian setup)"
+      "description": "Sound of White Noise continued Charlie Benante's long-running Paiste endorsement, mixing the 2002 series he'd relied on since the earliest thrash records with a Signature crash for extra tonal range. Paiste's 2002 line offered the tonal palette Charlie needed for the album's broader stylistic range — bright, cutting cymbals for the heavier sections, warmer and more musical voices for the dynamic, atmospheric passages.\n\nThe 14\" Sound Edge Hi-Hats anchored Charlie's groove vocabulary on the record, the same pair he'd used since Among the Living. They provide a tight, focused chick sound for closed playing and a full, controlled open-hat tone for the half-open patterns that drive tracks like \"Potter's Field\" and \"Hy Pro Glo.\" That continuity was deliberate — the hi-hat sound didn't need to change just because the songwriting did.\n\nThe crash configuration spans a bright, fast 16\" Signature crash for cutting accents and warmer, fuller 18\" and 20\" 2002 crashes for musical transitions and dynamic moments. This mix reflects the album's range — Charlie could choose between bright, aggressive accents or fuller, more sustained crashes depending on the song's mood and the arrangement's density.\n\nThe 22\" 2002 Heavy Ride became Charlie's primary ride voice on the record, delivering a defined bell for accent work and a controlled wash for extended ride patterns, with enough size to sustain through Jerden's dense mid-range production without disappearing. The 18\" 2002 China provides the trashy, explosive accent voice that Anthrax had always relied on — though, like the double bass, used more strategically on Sound of White Noise than on the band's pure-thrash records.",
+      "estimatedValue": "$1,200-1,800 total (1993 Paiste setup)"
     },
     "hardware": {
-      "title": "DW 5000 Series: The 90s Workhorse",
+      "title": "Tama HP35 Camco: The 90s Workhorse",
       "items": [
         {
           "type": "Bass Drum Pedals",
-          "brand": "DW",
-          "model": "DW 5000 Series Chain-Drive Double Pedal Configuration",
-          "notes": "Charlie's 90s pedal of choice — chain-drive consistency for the groove-metal era",
-          "description": "The DW 5000 series became Charlie Benante's primary pedal throughout the 1990s, providing the chain-drive consistency and adjustable feel he needed across the band's transition from thrash to groove metal. The 5000's smooth action and customizable spring tension allowed Charlie to dial in a slightly heavier, weightier feel than the lighter Tama HP35 Camco pedals he had used through the Among the Living and Persistence of Time era. On Sound of White Noise, the result is double bass work that lands with physical authority — exactly what Jerden's production approach rewarded. Because Charlie used two separate 22\" bass drums rather than a single drum with a double pedal, his 5000 series setup consisted of two single 5000 pedals rather than a 5002 double pedal mechanism."
+          "brand": "Tama",
+          "model": "Tama HP35 Camco",
+          "notes": "Charlie's pedal of choice throughout the 1990s — chain-drive consistency for the groove-metal era",
+          "description": "The Tama HP35 Camco remained Charlie Benante's primary pedal throughout the 1990s, providing the chain-drive consistency and adjustable feel he needed across the band's transition from thrash to groove metal. By 1993 the Camco had already been part of his setup for nearly a decade, and its smooth action and customizable spring tension allowed Charlie to dial in a slightly heavier, weightier feel to suit the new material. On Sound of White Noise, the result is double bass work that lands with physical authority — exactly what Jerden's production approach rewarded. Because Charlie used two separate 22\" bass drums rather than a single drum with a double pedal, his setup consisted of two single HP35 Camco pedals rather than a double-pedal mechanism."
         },
         {
           "type": "Hi-Hat Stand",
-          "brand": "DW",
-          "model": "DW 5500 Hi-Hat Stand",
+          "brand": "Tama",
+          "model": "Tama Titan Hi-Hat Stand",
           "notes": "Heavy-duty support for the groove-metal pulse",
-          "description": "The DW 5500 hi-hat stand provided the stability Charlie needed for the mid-tempo groove playing that defined Sound of White Noise. Its smooth action and reliable spring tension supported the precise hi-hat work on tracks like \"Only\" without the rattle or instability that could compromise the recorded sound."
+          "description": "The Tama Titan hi-hat stand provided the stability Charlie needed for the mid-tempo groove playing that defined Sound of White Noise. Its smooth action and reliable spring tension supported the precise hi-hat work on tracks like \"Only\" without the rattle or instability that could compromise the recorded sound."
         },
         {
           "type": "Throne",
-          "brand": "DW",
-          "model": "DW 5100 Throne",
+          "brand": "Tama",
+          "model": "Tama 1st Chair",
           "notes": "Stable, comfortable seating for extended studio sessions"
         },
         {
@@ -899,7 +899,7 @@ export const articles = {
           "Hi-hat work and snare placement carry the song's feel",
           "James Hetfield famously called it \"the perfect song\""
         ],
-        "gearNotes": "The DW maple kit's warmth is fully apparent — the snare crack sits in the groove rather than cutting above it. Hi-hats use the AA Rock pair's focused chick sound for the song's pulse."
+        "gearNotes": "The Starclassic maple kit's warmth is fully apparent — the snare crack sits in the groove rather than cutting above it. Hi-hats use the Paiste 2002 Sound Edge pair's focused chick sound for the song's pulse."
       },
       {
         "track": "Black Lodge",
@@ -911,7 +911,7 @@ export const articles = {
           "Demands dynamic sensitivity and restraint",
           "Released as the second single"
         ],
-        "gearNotes": "The deeper 22\" x 18\" bass drums produce a thudding, atmospheric kick tone that supports the song's slow, brooding pulse. The Edge snare responds dynamically to the song's quiet-to-loud structure."
+        "gearNotes": "The deeper 22\" x 18\" bass drums produce a thudding, atmospheric kick tone that supports the song's slow, brooding pulse. The bell-brass snare responds dynamically to the song's quiet-to-loud structure."
       },
       {
         "track": "Potter's Field",
@@ -923,7 +923,7 @@ export const articles = {
           "Showcases John Bush's vocal arrival immediately",
           "One of the few up-tempo tracks on the record"
         ],
-        "gearNotes": "The DW 5000 pedals deliver the sustained double bass with weight and consistency. China cymbal accents punctuate the chorus transitions."
+        "gearNotes": "The HP35 Camco pedals deliver the sustained double bass with weight and consistency. China cymbal accents punctuate the chorus transitions."
       },
       {
         "track": "Room for One More",
@@ -935,32 +935,32 @@ export const articles = {
           "Demonstrates Charlie's ability to play with weight and feel",
           "Tom fills are restrained and structurally placed"
         ],
-        "gearNotes": "The Edge snare's mid-tempo voice anchors the song. Streamlined tom configuration is fully exploited — every fill lands as a structural element."
+        "gearNotes": "The bell-brass snare's mid-tempo voice anchors the song. Streamlined tom configuration is fully exploited — every fill lands as a structural element."
       }
     ],
     "evolution": {
       "title": "From Among the Living to Sound of White Noise: Charlie's Gear Evolution",
-      "content": "Sound of White Noise represents the second major chapter of Charlie Benante's gear evolution. Among the Living (1987) had documented his peak Tama Artstar II era — birch shells, Paiste 2002 cymbals, Tama HP35 Camco pedals, and a thrash-optimized configuration. Six years later, Sound of White Noise documents a near-complete reinvention: DW Collector's Series maple shells, Sabian cymbals, DW 5000 pedals, and a setup tuned for groove metal rather than thrash speed. Only the Remo heads and Charlie's commitment to dual independent bass drums remained constant.",
+      "content": "Sound of White Noise represents a refinement, not a reinvention, of Charlie Benante's gear. Among the Living (1987) had documented his peak Tama Artstar II era — birch shells, Paiste 2002 cymbals, Tama HP35 Camco pedals, and a thrash-optimized configuration. Six years later, Sound of White Noise documents the same Tama and Paiste foundation adapted for a new sound: Tama's newly introduced Starclassic Maple shells, the same Paiste cymbal lineage with a Signature crash added, and the same HP35 Camco pedals. The brand relationships never changed — only the tuning, shell material, and configuration evolved to match the groove-metal pivot.",
       "thenVsNow": [
         {
           "category": "Kit",
           "then": "Tama Artstar II birch (Among the Living, 1987)",
-          "now": "DW Collector's Series Maple (Sound of White Noise, 1993)"
+          "now": "Tama Starclassic Maple (Sound of White Noise, 1993)"
         },
         {
           "category": "Snare",
           "then": "Tama Artstar Steel 14\" x 6.5\"",
-          "now": "DW Edge Series 14\" x 6.5\" (maple + brass edge rings)"
+          "now": "Tama Artstar Custom Brass 14\" x 6.5\""
         },
         {
           "category": "Cymbals",
           "then": "Paiste 2002 series",
-          "now": "Sabian AA / HH series"
+          "now": "Paiste 2002 / Signature mix"
         },
         {
           "category": "Pedals",
           "then": "Tama HP35 Camco",
-          "now": "DW 5000 Series (two single pedals)"
+          "now": "Tama HP35 Camco (unchanged)"
         },
         {
           "category": "Sticks",
@@ -977,15 +977,15 @@ export const articles = {
     "faq": [
       {
         "question": "What drum kit did Charlie Benante use on Sound of White Noise?",
-        "answer": "Charlie Benante used a DW Collector's Series Maple kit on Sound of White Noise (1993), marking his switch from the Tama Artstar II kits of the Among the Living and Persistence of Time era. The setup included dual 22\" x 18\" bass drums, three rack toms (10\", 12\", 13\"), and a single 16\" floor tom with all-maple shells and DW's True-Pitch tension rods. The deeper 18\" bass drum shell depth (versus 16\" on the earlier Tama kits) reflected the album's lower-tuned, weightier groove-metal aesthetic."
+        "answer": "Charlie Benante used a Tama Starclassic Maple kit on Sound of White Noise (1993), moving from the birch-shell Tama Artstar II and Artstar Custom kits of the Among the Living and Persistence of Time era to Tama's newly introduced Starclassic Maple line. The setup included dual 22\" x 18\" bass drums, three rack toms (10\", 12\", 13\"), and a single 16\" floor tom with all-maple shells and Tama's Star-Cast mounting system. The deeper 18\" bass drum shell depth (versus 16\" on the earlier Tama kits) reflected the album's lower-tuned, weightier groove-metal aesthetic."
       },
       {
-        "question": "Why did Charlie Benante switch from Tama to DW for Sound of White Noise?",
-        "answer": "Charlie Benante switched from Tama to DW Collector's Series for Sound of White Noise to support the album's groove-metal pivot and Dave Jerden's mid-range-heavy production aesthetic. DW's maple shells produce warmer, more harmonically complex tones than the Tama Artstar II's birch shells — better suited to the album's slower tempos, deeper kick tuning, and Jerden's organic, room-rich production approach. The Among the Living-era birch kit had been optimized for the bright, articulate attack of thrash production; the Sound of White Noise sessions required something with more body and weight."
+        "question": "Did Charlie Benante switch drum brands for Sound of White Noise?",
+        "answer": "No. Charlie Benante has been a continuous Tama endorser since the mid-1980s and remained on Tama for Sound of White Noise. What changed for the album was the shell material — he moved from the birch-shell Artstar II and Artstar Custom kits of the thrash era to Tama's newly introduced Starclassic Maple line, which better suited Dave Jerden's mid-range-heavy production aesthetic. Tama's maple shells produce warmer, more harmonically complex tones than the earlier birch kits — better suited to the album's slower tempos, deeper kick tuning, and Jerden's organic, room-rich production approach."
       },
       {
         "question": "What cymbals did Charlie Benante use on Sound of White Noise?",
-        "answer": "Charlie Benante used Sabian cymbals on Sound of White Noise, switching from the Paiste 2002 setup of the Among the Living era. His 1993 Sabian configuration included 14\" AA Rock Hi-Hats, 16\" and 18\" AA Rock Crashes, a 17\" HH Medium Crash, a 21\" AA Rock Ride, and an 18\" AA Chinese. The mix of AA (bright, aggressive) and HH (warmer, more musical) cymbals reflected the album's broader sonic range. This 1993 switch began Charlie's long-running Sabian endorsement that continues to this day."
+        "answer": "Charlie Benante used his long-running Paiste setup on Sound of White Noise, mixing the 2002 series with a Paiste Signature crash for extra range. His 1993 configuration included 14\" Sound Edge Hi-Hats, a 16\" Signature Fast Crash, 18\" and 20\" 2002 crashes, a 22\" 2002 Heavy Ride, and an 18\" 2002 China. The mix of 2002 (bright, aggressive) and Signature (warmer, more musical) models reflected the album's broader sonic range, continuing the Paiste endorsement that has run throughout Charlie's career."
       },
       {
         "question": "Who produced Sound of White Noise and how did that affect the drum sound?",
@@ -993,7 +993,7 @@ export const articles = {
       },
       {
         "question": "How is Sound of White Noise different from Among the Living drum-wise?",
-        "answer": "Sound of White Noise represents a fundamental reinvention of Charlie Benante's drum approach compared to Among the Living. Where Among the Living (1987) featured a Tama Artstar II birch kit, Paiste 2002 cymbals, Tama HP35 Camco pedals, and a thrash-optimized configuration of dual 22\" x 16\" bass drums, three rack toms, and two floor toms, Sound of White Noise (1993) features a DW Collector's Series maple kit, Sabian AA/HH cymbals, DW 5000 pedals, and a streamlined groove-metal configuration of dual 22\" x 18\" bass drums, three rack toms, and a single floor tom. Stylistically, Charlie pulled back from sustained thrash double bass in favor of groove-anchored playing with weight, restraint, and dynamic sensitivity — a complete rethinking that supported John Bush's arrival as Anthrax's new vocalist and the band's broader genre pivot. For the thrash-era counterpart, see the [Among the Living drum setup article](/articles/charlie-benante-among-the-living-drum-setup)."
+        "answer": "Sound of White Noise represents a significant evolution of Charlie Benante's drum approach compared to Among the Living, though the core Tama and Paiste gear relationships stayed constant. Where Among the Living (1987) featured a birch-shell Tama Artstar II kit, Paiste 2002 cymbals, Tama HP35 Camco pedals, and a thrash-optimized configuration of dual 22\" x 16\" bass drums, three rack toms, and two floor toms, Sound of White Noise (1993) features a Tama Starclassic Maple kit, the same Paiste cymbal foundation with a Signature crash added, and the same HP35 Camco pedals, in a streamlined groove-metal configuration of dual 22\" x 18\" bass drums, three rack toms, and a single floor tom. Stylistically, Charlie pulled back from sustained thrash double bass in favor of groove-anchored playing with weight, restraint, and dynamic sensitivity — a complete rethinking that supported John Bush's arrival as Anthrax's new vocalist and the band's broader genre pivot. For the thrash-era counterpart, see the [Among the Living drum setup article](/articles/charlie-benante-among-the-living-drum-setup)."
       }
     ],
     "relatedAlbums": [
@@ -1012,7 +1012,7 @@ export const articles = {
     "relatedLicks": [],
     "conclusion": {
       "title": "The Album That Proved Anthrax Could Evolve",
-      "content": "Sound of White Noise is the album where Anthrax stopped being a thrash band and started being something more flexible — a heavy band capable of operating across genres without losing identity. Charlie Benante's complete gear reinvention, from Tama to DW, from Paiste to Sabian, from Camco to 5000-series pedals, reflects the depth of that artistic evolution. This was not a cosmetic switch; it was a comprehensive rethinking of how he wanted his drums to sound and what kind of music he wanted them to support.\n\nThe album's commercial success — debuting at #7 on the Billboard 200 (Anthrax's highest chart position ever), going Gold in the US, and producing two singles in \"Only\" and \"Black Lodge\" that received significant radio and MTV rotation — validated the risk. The fan base that worried John Bush would not work showed up in larger numbers than ever before. The critical reception, mixed at the time, has only grown more positive in retrospect: Sound of White Noise is now widely regarded as Anthrax's most underrated album and arguably the band's high-water mark of the 1990s.\n\nFor Charlie Benante, Sound of White Noise documents the moment where his thrash-pioneering identity expanded into a more complete drummer's vocabulary. The double bass technique that defined Among the Living is still present, but used selectively. The groove sensibility that had always been embedded in his playing — audible even in thrash contexts like \"Caught in a Mosh\" — moves to the foreground. The musical intelligence applied to thrash metal arrangements now serves slower, weightier songs that require different forms of restraint and dynamic control.\n\nFor the thrash-era Charlie Benante story, visit the [Among the Living drum setup article](/articles/charlie-benante-among-the-living-drum-setup). For Charlie's full career and complete gear timeline, see the [Charlie Benante drummer profile](/drummer/charlie-benante). For Anthrax's complete drummer history and band context, see the [Anthrax band page](/bands/anthrax)."
+      "content": "Sound of White Noise is the album where Anthrax stopped being a thrash band and started being something more flexible — a heavy band capable of operating across genres without losing identity. Charlie Benante's move to Tama's newly introduced Starclassic Maple shells, while keeping his Paiste cymbals and HP35 Camco pedals constant, reflects the depth of that artistic evolution. This was not a cosmetic switch; it was a considered adjustment of tone and configuration to suit how he wanted his drums to sound and what kind of music he wanted them to support.\n\nThe album's commercial success — debuting at #7 on the Billboard 200 (Anthrax's highest chart position ever), going Gold in the US, and producing two singles in \"Only\" and \"Black Lodge\" that received significant radio and MTV rotation — validated the risk. The fan base that worried John Bush would not work showed up in larger numbers than ever before. The critical reception, mixed at the time, has only grown more positive in retrospect: Sound of White Noise is now widely regarded as Anthrax's most underrated album and arguably the band's high-water mark of the 1990s.\n\nFor Charlie Benante, Sound of White Noise documents the moment where his thrash-pioneering identity expanded into a more complete drummer's vocabulary. The double bass technique that defined Among the Living is still present, but used selectively. The groove sensibility that had always been embedded in his playing — audible even in thrash contexts like \"Caught in a Mosh\" — moves to the foreground. The musical intelligence applied to thrash metal arrangements now serves slower, weightier songs that require different forms of restraint and dynamic control.\n\nFor the thrash-era Charlie Benante story, visit the [Among the Living drum setup article](/articles/charlie-benante-among-the-living-drum-setup). For Charlie's full career and complete gear timeline, see the [Charlie Benante drummer profile](/drummer/charlie-benante). For Anthrax's complete drummer history and band context, see the [Anthrax band page](/bands/anthrax)."
     }
   },
   "spreading-the-disease-drum-setup": {
@@ -1255,7 +1255,7 @@ export const articles = {
         {
           "category": "Cymbals",
           "then": "Paiste 2002 / RUDE series",
-          "now": "Paiste 2002 (Among the Living) → Sabian AA/HH (from State of Euphoria 1988)"
+          "now": "Paiste 2002 (Among the Living, unchanged for the rest of his career)"
         },
         {
           "category": "Pedals",
@@ -1280,7 +1280,7 @@ export const articles = {
       },
       {
         "question": "What cymbals did Charlie Benante use on Spreading the Disease?",
-        "answer": "Charlie Benante used Paiste cymbals on Spreading the Disease, combining the 2002 and RUDE series. The setup included Paiste 2002 14\" Sound Edge hi-hats, 16\" and 18\" 2002 Medium Crashes, a RUDE 18\" Crash/Ride for the most aggressive playing, a 2002 22\" Heavy Ride, and a 2002 18\" China. He would continue using Paiste through Among the Living (1987) before switching to Sabian for State of Euphoria (1988)."
+        "answer": "Charlie Benante used Paiste cymbals on Spreading the Disease, combining the 2002 and RUDE series. The setup included Paiste 2002 14\" Sound Edge hi-hats, 16\" and 18\" 2002 Medium Crashes, a RUDE 18\" Crash/Ride for the most aggressive playing, a 2002 22\" Heavy Ride, and a 2002 18\" China. He would continue using Paiste through Among the Living (1987) and for the rest of his career."
       },
       {
         "question": "What pedals did Charlie Benante use on Spreading the Disease?",
@@ -1334,7 +1334,7 @@ export const articles = {
     "dateModified": "2026-06-29",
     "author": "MetalForge Editorial",
     "title": "Persistence of Time Drum Setup: Charlie Benante's 1990 Anthrax Gear Breakdown",
-    "description": "Complete breakdown of Charlie Benante's drum setup on Anthrax's Persistence of Time (1990). Tama Artstar Custom kit, Sabian cymbals, HP35 Camco pedals — the final Joey Belladonna-era album that went Platinum in the US.",
+    "description": "Complete breakdown of Charlie Benante's drum setup on Anthrax's Persistence of Time (1990). Tama Artstar Custom kit, Paiste cymbals, HP35 Camco pedals — the final Joey Belladonna-era album that went Platinum in the US.",
     "seoKeywords": [
       "charlie benante persistence of time drum setup",
       "persistence of time drums 1990",
@@ -1342,7 +1342,7 @@ export const articles = {
       "charlie benante got the time drums",
       "anthrax final joey belladonna album drums",
       "charlie benante tama artstar 1990",
-      "charlie benante sabian cymbals",
+      "charlie benante paiste cymbals",
       "persistence of time charlie benante"
     ],
     "ogImage": "/images/albums/persistence-of-time-drums.webp",
@@ -1388,59 +1388,59 @@ export const articles = {
       "estimatedValue": "$2,500-3,500 (1990 era)"
     },
     "snare": {
-      "title": "Sabian Brass Snare — Late-Era Classic Lineup Voice",
+      "title": "Tama Brass Snare — Late-Era Classic Lineup Voice",
       "brand": "Tama",
       "model": "Tama Artstar Custom Brass Snare",
       "size": "14\" x 6.5\"",
       "shell": "Brass shell",
-      "description": "For Persistence of Time, Benante moved to a brass-shell snare — a step toward the warmer, more body-forward snare sound that would define his approach in the early 1990s. Compared to the steel snares of the earlier Anthrax records, a brass shell produces a slightly warmer, rounder fundamental with more sustain, while still delivering strong attack and cut at high tunings.\n\nThe choice was appropriate for the album's production context. Where Spreading the Disease and Among the Living had demanded the bright, clinical crack of a steel shell at high tension, Persistence of Time's darker, more deliberate aesthetic benefited from a snare with more body. Dodson's drum production on this album gives the snare more mid-range presence than his State of Euphoria work — a fuller, less brittle sound that supported the album's heavier, longer-form songs.\n\nBenante tuned the brass snare at medium-high tension for a balance of crack and body. The snare wires were kept tight for sensitivity and articulation. On tracks like 'Blood' and 'In My World,' the snare sits in the mix with authority — not the piercing crack of the early thrash records, but a heavier, more substantial presence that matched the album's matured vision of thrash metal.\n\nThis snare approach bridged the steel snare of the earlier Anthrax records and the DW Edge Series hybrid construction that Benante would use on Sound of White Noise (1993) — a logical progression in tone and character.",
+      "description": "For Persistence of Time, Benante moved to a brass-shell snare — a step toward the warmer, more body-forward snare sound that would define his approach in the early 1990s. Compared to the steel snares of the earlier Anthrax records, a brass shell produces a slightly warmer, rounder fundamental with more sustain, while still delivering strong attack and cut at high tunings.\n\nThe choice was appropriate for the album's production context. Where Spreading the Disease and Among the Living had demanded the bright, clinical crack of a steel shell at high tension, Persistence of Time's darker, more deliberate aesthetic benefited from a snare with more body. Dodson's drum production on this album gives the snare more mid-range presence than his State of Euphoria work — a fuller, less brittle sound that supported the album's heavier, longer-form songs.\n\nBenante tuned the brass snare at medium-high tension for a balance of crack and body. The snare wires were kept tight for sensitivity and articulation. On tracks like 'Blood' and 'In My World,' the snare sits in the mix with authority — not the piercing crack of the early thrash records, but a heavier, more substantial presence that matched the album's matured vision of thrash metal.\n\nThis brass-shell snare is the same Tama Artstar Custom Brass that Benante would continue using on Sound of White Noise (1993) — a logical progression in tone and character.",
       "tuningSetting": "Medium-high tension for balanced crack and body",
       "heads": "Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)",
       "estimatedValue": "$300-500 (1990 era)"
     },
     "cymbals": {
-      "title": "Sabian AA / HH — The Fully Developed Classic-Era Setup",
-      "brand": "Sabian",
-      "series": "Sabian AA / HH",
+      "title": "Paiste 2002 — The Fully Developed Classic-Era Setup",
+      "brand": "Paiste",
+      "series": "Paiste 2002",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Sabian AA 14\" Rock Hi-Hats",
+          "model": "Paiste 2002 14\" Sound Edge Hi-Hats",
           "position": "Left side",
           "notes": "Tight, focused chick for fast thrash and mid-tempo patterns"
         },
         {
           "type": "Crash",
-          "model": "Sabian AA 16\" Medium Crash",
+          "model": "Paiste 2002 16\" Medium Crash",
           "position": "Far left",
           "notes": "Fast response crash for quick accent work"
         },
         {
           "type": "Crash",
-          "model": "Sabian AA 17\" Medium Crash",
+          "model": "Paiste 2002 18\" Medium Crash",
           "position": "Left of toms",
           "notes": "Primary workhorse crash with cut and body"
         },
         {
           "type": "Crash",
-          "model": "Sabian AA 18\" Rock Crash",
+          "model": "Paiste 2002 20\" Heavy Crash",
           "position": "Right of toms",
           "notes": "Heavier crash for the album's most intense passages"
         },
         {
           "type": "Ride",
-          "model": "Sabian AA 21\" Rock Ride",
+          "model": "Paiste 2002 22\" Heavy Ride",
           "position": "Far right",
           "notes": "Defined bell and controlled wash at extended tempos"
         },
         {
           "type": "China",
-          "model": "Sabian AA 18\" Chinese",
+          "model": "Paiste 2002 18\" China",
           "position": "Above floor tom",
           "notes": "Explosive trashy accents through choruses and breakdowns"
         }
       ],
-      "description": "By Persistence of Time, Charlie Benante's Sabian endorsement was fully established. He had made the switch from Paiste to Sabian before or during the State of Euphoria sessions in 1988, and by 1990 the Sabian AA and HH series were thoroughly integrated into his playing. The result was a cymbal setup that delivered the bright, cutting projection needed for thrash playing while offering the tonal variety a compositionally sophisticated drummer requires.\n\nThe 14\" AA Rock Hi-Hats were central to the album's groove vocabulary. Their tight, focused chick sound and fast closure response served the broad tempo range on Persistence of Time — from the sprint of 'Got the Time' to the measured weight of the title track. At every tempo, the AA Rock pair articulated clearly and maintained the rhythmic clarity that Benante's patterns demanded.\n\nMultiple crashes in three sizes gave him the dynamic range that extended, ambitious songs required. The 16\" AA Medium Crash responded instantly for quick, cutting accent work in fast passages; the 17\" served as the primary voice for regular accent points; the 18\" AA Rock Crash delivered the heavier, sustained splash at the album's most intense moments. This tiered crash array allowed him to calibrate the weight and sustain of accent points to the specific emotional demands of each song section.\n\nThe 21\" AA Rock Ride was substantial enough to remain controlled at the blistering tempo of 'Got the Time' while providing the bell definition needed for accent work across the album's slower, heavier tracks. The 18\" AA Chinese appeared at strategic accent points — less frequently than on earlier Anthrax records, matching the more deliberate compositional approach of 1990-era Anthrax.",
+      "description": "By Persistence of Time, Charlie Benante's Paiste endorsement was fully established, carrying forward the same 2002 series he had used since Spreading the Disease and Among the Living. The result was a cymbal setup that delivered the bright, cutting projection needed for thrash playing while offering the tonal variety a compositionally sophisticated drummer requires.\n\nThe 14\" 2002 Sound Edge Hi-Hats were central to the album's groove vocabulary. Their tight, focused chick sound and fast closure response served the broad tempo range on Persistence of Time — from the sprint of 'Got the Time' to the measured weight of the title track. At every tempo, the Sound Edge pair articulated clearly and maintained the rhythmic clarity that Benante's patterns demanded.\n\nMultiple crashes in three sizes gave him the dynamic range that extended, ambitious songs required. The 16\" 2002 Medium Crash responded instantly for quick, cutting accent work in fast passages; the 18\" served as the primary voice for regular accent points; the 20\" 2002 Heavy Crash delivered the heavier, sustained splash at the album's most intense moments. This tiered crash array allowed him to calibrate the weight and sustain of accent points to the specific emotional demands of each song section.\n\nThe 22\" 2002 Heavy Ride was substantial enough to remain controlled at the blistering tempo of 'Got the Time' while providing the bell definition needed for accent work across the album's slower, heavier tracks. The 18\" 2002 China appeared at strategic accent points — less frequently than on earlier Anthrax records, matching the more deliberate compositional approach of 1990-era Anthrax.",
       "estimatedValue": "$1,500-2,200 total (1990 era)"
     },
     "hardware": {
@@ -1508,7 +1508,7 @@ export const articles = {
           "Double-bass driving the opening riff demonstrates Camco pedal mastery",
           "One of thrash's most studied and covered drum performances"
         ],
-        "gearNotes": "The HP35 Camco pedals are at their limit here — speed and consistency at 230 BPM. The Sabian AA Rock Hi-Hats articulate every 16th note with absolute clarity. The brass snare crack cuts through at every tempo point."
+        "gearNotes": "The HP35 Camco pedals are at their limit here — speed and consistency at 230 BPM. The Paiste 2002 Sound Edge Hi-Hats articulate every 16th note with absolute clarity. The brass snare crack cuts through at every tempo point."
       },
       {
         "track": "In My World",
@@ -1520,7 +1520,7 @@ export const articles = {
           "Tom fills are compositional rather than decorative",
           "The full weight of the Artstar Custom birch shells is apparent"
         ],
-        "gearNotes": "The 22\" bass drums produce their most authoritative tone at this tempo. The Sabian AA Chinese accents the most intense chorus passages. The 21\" Rock Ride handles extended verse sections with definition and control."
+        "gearNotes": "The 22\" bass drums produce their most authoritative tone at this tempo. The Paiste 2002 China accents the most intense chorus passages. The 2002 Heavy Ride handles extended verse sections with definition and control."
       },
       {
         "track": "Time",
@@ -1541,35 +1541,35 @@ export const articles = {
         "highlights": [
           "Mid-tempo thrash showing the mastery of groove within aggression",
           "One of the album's most immediate and direct tracks",
-          "Hi-hat driving the groove with Sabian AA Rock precision",
+          "Hi-hat driving the groove with Paiste 2002 Sound Edge precision",
           "Snare accents are melodically and rhythmically placed with craft"
         ],
-        "gearNotes": "The Sabian AA Rock Hi-Hats drive the verse groove with consistent articulation. The 16\" floor tom provides the rhythmic anchor for the pre-chorus builds."
+        "gearNotes": "The Paiste 2002 Sound Edge Hi-Hats drive the verse groove with consistent articulation. The 16\" floor tom provides the rhythmic anchor for the pre-chorus builds."
       }
     ],
     "evolution": {
       "title": "From State of Euphoria to Persistence of Time — and Into the John Bush Era",
-      "content": "Persistence of Time is the conclusion of the first chapter of Charlie Benante's Anthrax gear arc. The Tama Artstar Custom birch kit, Sabian AA/HH cymbals, HP35 Camco pedals, Pro-Mark sticks, and Remo heads that serve the album represent a fully matured version of the configuration that had been taking shape since Spreading the Disease in 1985. Three years later, Sound of White Noise would begin a near-complete reinvention — DW drums, different cymbal series, different producer — as the John Bush era began.",
+      "content": "Persistence of Time is the conclusion of the first chapter of Charlie Benante's Anthrax gear arc. The Tama Artstar Custom birch kit, Paiste 2002 cymbals, HP35 Camco pedals, Pro-Mark sticks, and Remo heads that serve the album represent a fully matured version of the configuration that had been taking shape since Spreading the Disease in 1985. Three years later, Sound of White Noise would begin a new chapter — Tama's newly introduced Starclassic Maple shells, the same Paiste cymbals, a different producer — as the John Bush era began.",
       "thenVsNow": [
         {
           "category": "Kit",
           "then": "Tama Artstar Custom birch — Persistence of Time (1990)",
-          "now": "DW Collector's Series Maple — Sound of White Noise (1993)"
+          "now": "Tama Starclassic Maple — Sound of White Noise (1993)"
         },
         {
           "category": "Snare",
           "then": "Tama Artstar Custom Brass 14\" x 6.5\"",
-          "now": "DW Edge Series 14\" x 6.5\" (maple + brass hybrid)"
+          "now": "Tama Artstar Custom Brass 14\" x 6.5\" (unchanged)"
         },
         {
           "category": "Cymbals",
-          "then": "Sabian AA / HH series",
-          "now": "Sabian AA / HH series (continued into Sound of White Noise)"
+          "then": "Paiste 2002 series",
+          "now": "Paiste 2002 / Signature (continued into Sound of White Noise)"
         },
         {
           "category": "Pedals",
           "then": "Tama HP35 Camco (year 6 of 26)",
-          "now": "DW 5000 Series — Sound of White Noise (1993)"
+          "now": "Tama HP35 Camco — Sound of White Noise (1993, unchanged)"
         },
         {
           "category": "Producer",
@@ -1581,15 +1581,15 @@ export const articles = {
     "faq": [
       {
         "question": "What drum kit did Charlie Benante use on Persistence of Time?",
-        "answer": "Charlie Benante used a Tama Artstar Custom kit on Persistence of Time (1990). The setup included dual 22\" x 16\" bass drums, three rack toms (10\", 12\", 13\"), and a 16\" floor tom with birch shells. This was the fully refined late-80s Tama configuration he had been using since the Among the Living era — the concluding chapter of his first-generation Anthrax kit before switching to DW Collector's Series for Sound of White Noise (1993)."
+        "answer": "Charlie Benante used a Tama Artstar Custom kit on Persistence of Time (1990). The setup included dual 22\" x 16\" bass drums, three rack toms (10\", 12\", 13\"), and a 16\" floor tom with birch shells. This was the fully refined late-80s Tama configuration he had been using since the Among the Living era — the concluding chapter of his first-generation Anthrax kit before Tama introduced the Starclassic Maple line for Sound of White Noise (1993)."
       },
       {
         "question": "What is Charlie Benante's drum setup on 'Got the Time'?",
-        "answer": "On 'Got the Time,' Charlie Benante used his standard Persistence of Time setup: Tama Artstar Custom birch kit with dual 22\" bass drums, Sabian AA cymbals including 14\" Rock Hi-Hats, and Tama HP35 Camco bass drum pedals. The track runs at approximately 230 BPM, and the double-bass patterns in the opening riff — combined with the crystal-clear hi-hat articulation — represent the HP35 Camco operating at the outer limits of pedal speed. The performance remains one of the most studied drum recordings in thrash history."
+        "answer": "On 'Got the Time,' Charlie Benante used his standard Persistence of Time setup: Tama Artstar Custom birch kit with dual 22\" bass drums, Paiste 2002 cymbals including 14\" Sound Edge Hi-Hats, and Tama HP35 Camco bass drum pedals. The track runs at approximately 230 BPM, and the double-bass patterns in the opening riff — combined with the crystal-clear hi-hat articulation — represent the HP35 Camco operating at the outer limits of pedal speed. The performance remains one of the most studied drum recordings in thrash history."
       },
       {
         "question": "What cymbals did Charlie Benante use on Persistence of Time?",
-        "answer": "Charlie Benante used Sabian AA and HH cymbals on Persistence of Time. The setup included Sabian AA 14\" Rock Hi-Hats, 16\", 17\", and 18\" AA crashes, a 21\" AA Rock Ride, and an 18\" AA Chinese. His Sabian endorsement had been fully established since State of Euphoria (1988), and by 1990 the AA/HH combination was thoroughly integrated into his playing vocabulary."
+        "answer": "Charlie Benante used Paiste 2002 cymbals on Persistence of Time. The setup included 14\" Sound Edge Hi-Hats, 16\", 18\", and 20\" 2002 crashes, a 22\" Heavy Ride, and an 18\" China. His Paiste endorsement had been fully established since the thrash era's beginning, and by 1990 the 2002 series was thoroughly integrated into his playing vocabulary."
       },
       {
         "question": "Why is Persistence of Time important in Charlie Benante's career?",
@@ -1601,7 +1601,7 @@ export const articles = {
       },
       {
         "question": "How does Persistence of Time connect to Sound of White Noise drum-wise?",
-        "answer": "Persistence of Time is the direct predecessor to Sound of White Noise (1993) in Charlie Benante's gear arc, but the contrast between them is significant. Where Persistence of Time features Tama Artstar Custom birch drums, Sabian cymbals (maintained into Sound of White Noise), Tama HP35 Camco pedals, and Mark Dodson's tight production, Sound of White Noise features DW Collector's Series maple drums, DW 5000 pedals, and Dave Jerden's organic, room-rich production. The cymbals are the only constant. For the complete comparison, see the Sound of White Noise drum setup article."
+        "answer": "Persistence of Time is the direct predecessor to Sound of White Noise (1993) in Charlie Benante's gear arc, and the core Tama and Paiste relationships carry through unchanged. Where Persistence of Time features Tama Artstar Custom birch drums, Paiste 2002 cymbals, Tama HP35 Camco pedals, and Mark Dodson's tight production, Sound of White Noise features Tama's newly introduced Starclassic Maple shells, the same Paiste cymbals, the same HP35 Camco pedals, and Dave Jerden's organic, room-rich production. The shell material and producer are what changed. For the complete comparison, see the Sound of White Noise drum setup article."
       }
     ],
     "videos": [],
@@ -1623,7 +1623,7 @@ export const articles = {
     "relatedLicks": [],
     "conclusion": {
       "title": "The Classic Era's Final Masterclass",
-      "content": "Persistence of Time closes the first and perhaps greatest chapter of Anthrax's story. It is the album where everything the classic lineup had been building since Spreading the Disease — the double-bass command, the compositional intelligence, the technical precision, the groove within aggression — achieves its most complete expression in the thrash metal format. The Platinum certification, the #24 Billboard debut, the enduring fan passion for tracks like 'In My World,' 'Got the Time,' and 'Blood': these are the marks of a band and a drummer operating at their creative and commercial peak simultaneously.\n\nFor Charlie Benante specifically, Persistence of Time represents the completion of a five-year gear arc. The Tama Artstar Custom kit, the Sabian AA/HH cymbals, the HP35 Camco pedals, the Remo heads, the Pro-Mark sticks: every piece of this configuration had been refined and field-tested across Spreading the Disease, Among the Living, and State of Euphoria before arriving at their most mature expression here. When Mark Dodson captured this kit at Bearsville in 1990, he was recording equipment and technique that had been genuinely optimised for these specific demands.\n\nThe John Bush era that followed — Sound of White Noise (1993) and beyond — would require Benante to reinvent his entire approach, and he did so successfully. But for drummers studying the craft, the Joey Belladonna era arc from Spreading the Disease through Persistence of Time is one of the most instructive in metal history: a drummer growing from technically proficient to genuinely transcendent, on record, across five years and four albums.\n\n'Got the Time' alone would be enough to secure Persistence of Time's place in thrash drumming history. But the album gives you 'In My World,' 'Blood,' 'Time,' 'H8 Red,' and more — a full album of masterclass drumming that rewards deep listening.\n\nFor the full Charlie Benante gear story beyond this album, visit the [Charlie Benante drummer profile](/drummer/charlie-benante). For the album that immediately preceded this one, see the [State of Euphoria drum setup breakdown](/articles/state-of-euphoria-drum-setup). For the Sound of White Noise evolution, see the [Sound of White Noise drum setup article](/articles/sound-of-white-noise-drum-setup). For Anthrax's complete history, see the [Anthrax band page](/bands/anthrax)."
+      "content": "Persistence of Time closes the first and perhaps greatest chapter of Anthrax's story. It is the album where everything the classic lineup had been building since Spreading the Disease — the double-bass command, the compositional intelligence, the technical precision, the groove within aggression — achieves its most complete expression in the thrash metal format. The Platinum certification, the #24 Billboard debut, the enduring fan passion for tracks like 'In My World,' 'Got the Time,' and 'Blood': these are the marks of a band and a drummer operating at their creative and commercial peak simultaneously.\n\nFor Charlie Benante specifically, Persistence of Time represents the completion of a five-year gear arc. The Tama Artstar Custom kit, the Paiste 2002 cymbals, the HP35 Camco pedals, the Remo heads, the Pro-Mark sticks: every piece of this configuration had been refined and field-tested across Spreading the Disease, Among the Living, and State of Euphoria before arriving at their most mature expression here. When Mark Dodson captured this kit at Bearsville in 1990, he was recording equipment and technique that had been genuinely optimised for these specific demands.\n\nThe John Bush era that followed — Sound of White Noise (1993) and beyond — would require Benante to adapt his playing to a new sound, and he did so successfully. But for drummers studying the craft, the Joey Belladonna era arc from Spreading the Disease through Persistence of Time is one of the most instructive in metal history: a drummer growing from technically proficient to genuinely transcendent, on record, across five years and four albums.\n\n'Got the Time' alone would be enough to secure Persistence of Time's place in thrash drumming history. But the album gives you 'In My World,' 'Blood,' 'Time,' 'H8 Red,' and more — a full album of masterclass drumming that rewards deep listening.\n\nFor the full Charlie Benante gear story beyond this album, visit the [Charlie Benante drummer profile](/drummer/charlie-benante). For the album that immediately preceded this one, see the [State of Euphoria drum setup breakdown](/articles/state-of-euphoria-drum-setup). For the Sound of White Noise evolution, see the [Sound of White Noise drum setup article](/articles/sound-of-white-noise-drum-setup). For Anthrax's complete history, see the [Anthrax band page](/bands/anthrax)."
     }
   },
   "state-of-euphoria-drum-setup": {
@@ -1643,7 +1643,7 @@ export const articles = {
     "dateModified": "2026-06-26",
     "author": "MetalForge Editorial",
     "title": "Charlie Benante's Drum Setup on Anthrax's State of Euphoria (1988)",
-    "description": "Complete breakdown of Charlie Benante's drum setup on Anthrax's State of Euphoria (1988). Tama Granstar kit, Bell Brass snare, Sabian cymbals, and the first Anthrax record with Charlie's Remo drumhead endorsement.",
+    "description": "Complete breakdown of Charlie Benante's drum setup on Anthrax's State of Euphoria (1988). Tama Granstar kit, Bell Brass snare, Paiste cymbals, and the first Anthrax record with Charlie's Remo drumhead endorsement.",
     "seoKeywords": [
       "charlie benante state of euphoria",
       "state of euphoria drum setup",
@@ -1708,48 +1708,48 @@ export const articles = {
       "estimatedValue": "$1,500-3,500 (modern vintage market) / $400-600 (1988 era)"
     },
     "cymbals": {
-      "title": "Sabian AA / HH Setup at Compass Point",
-      "brand": "Sabian",
-      "series": "Sabian AA / HH",
+      "title": "Paiste 2002 Setup at Compass Point",
+      "brand": "Paiste",
+      "series": "Paiste 2002",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Sabian AA 14\" Rock Hats",
+          "model": "Paiste 2002 14\" Sound Edge Hi-Hats",
           "position": "Left side",
           "notes": "Tight, crisp chick for fast thrash patterns"
         },
         {
           "type": "Crash",
-          "model": "Sabian AA 16\" Medium Crash",
+          "model": "Paiste 2002 16\" Medium Crash",
           "position": "Far left",
           "notes": "Quick-response crash for accent work"
         },
         {
           "type": "Crash",
-          "model": "Sabian AA 17\" Medium Crash",
+          "model": "Paiste 2002 18\" Medium Crash",
           "position": "Left of toms",
           "notes": "Mid-size crash for primary accent voice"
         },
         {
           "type": "Crash",
-          "model": "Sabian AA 18\" Medium Crash",
+          "model": "Paiste 2002 20\" Heavy Crash",
           "position": "Right of toms",
           "notes": "Larger crash for major song-section accents"
         },
         {
           "type": "Ride",
-          "model": "Sabian AA 21\" Rock Ride",
+          "model": "Paiste 2002 22\" Heavy Ride",
           "position": "Far right",
           "notes": "Powerful ride with defined bell for accents"
         },
         {
           "type": "China",
-          "model": "Sabian AA 18\" Chinese",
+          "model": "Paiste 2002 18\" China",
           "position": "Above floor tom",
           "notes": "Trashy accents through choruses and breakdowns"
         }
       ],
-      "description": "Charlie Benante's Sabian endorsement is one of the longest-running relationships in metal drumming, and State of Euphoria captures him in the late-80s Sabian AA / HH era — before the proliferation of the modern signature lines. The AA series gave him bright, cutting projection that survived Mark Dodson's aggressive mix, and a handful of HH cymbals appeared where slightly warmer, more controlled response was useful.\n\nThe 14\" Rock Hats anchored every groove on the album. At thrash tempos, hi-hat articulation makes the difference between a clear, driving pattern and an indistinct wash, and the AA Rock profile gave Charlie a tight, percussive chick that cut through the densest sections.\n\nMultiple crashes in 16\", 17\", and 18\" sizes gave him dynamic range. The 16\" provided the fast, sharp attack needed for quick song transitions; the 17\" served as the primary workhorse crash; and the 18\" handled the album's biggest moments. The 21\" Rock Ride supplied the bell-driven accents that punctuate verses and instrumental sections, while the 18\" Chinese delivered the trashy bursts that have always been part of Charlie's vocabulary.",
+      "description": "Charlie Benante's Paiste endorsement is one of the longest-running relationships in metal drumming, and State of Euphoria captures him carrying the same 2002 series forward from Among the Living. The series gave him bright, cutting projection that survived Mark Dodson's aggressive mix.\n\nThe 14\" 2002 Sound Edge Hi-Hats anchored every groove on the album. At thrash tempos, hi-hat articulation makes the difference between a clear, driving pattern and an indistinct wash, and the Sound Edge design gave Charlie a tight, percussive chick that cut through the densest sections.\n\nMultiple crashes in 16\", 18\", and 20\" sizes gave him dynamic range. The 16\" provided the fast, sharp attack needed for quick song transitions; the 18\" served as the primary workhorse crash; and the 20\" handled the album's biggest moments. The 22\" 2002 Heavy Ride supplied the bell-driven accents that punctuate verses and instrumental sections, while the 18\" 2002 China delivered the trashy bursts that have always been part of Charlie's vocabulary.",
       "estimatedValue": "$1,500-2,000 total (1988 era)"
     },
     "hardware": {
@@ -1808,7 +1808,7 @@ export const articles = {
     },
     "technique": {
       "title": "Charlie's Right-Foot Triplets and Pocket Discipline",
-      "content": "What makes Charlie Benante's State of Euphoria performance so durable is the same thing that has always made his playing distinctive: discipline. Thrash drumming in 1988 was a noisy, fast, often imprecise art form, and Charlie's contribution was a sense of pocket and musical restraint that very few of his peers matched.\n\n**Single-Bass Right-Foot Triplets:**\nCharlie is widely credited as one of the originators of the rapid right-foot triplet figure in thrash — the technique of executing fast bass-drum triplet passages with a single foot rather than alternating feet. On State of Euphoria, listen to the verse grooves of \"Be All, End All\" and \"Now It's Dark\" for examples. The technique requires extraordinary ankle control and produces a different rhythmic feel from alternating double-bass.\n\n**Double-Bass Discipline:**\nWhen Charlie does use both feet — particularly on the album's most intense passages — the patterns are precise rather than busy. His double-bass vocabulary is more compositional than ornamental; the patterns serve song structure rather than showcase technique.\n\n**Hi-Hat Articulation:**\nThe driving hi-hat patterns throughout State of Euphoria show Charlie's ability to maintain crisp articulation at thrash tempos. The Sabian AA Rock Hats give him a tight chick that cuts through the mix, and his foot control on the hi-hat pedal is impeccable.\n\n**Fills as Composition:**\nAs Anthrax's primary songwriter, Charlie thought of drum fills as compositional elements rather than displays. His fills on State of Euphoria are tight, melodically motivated, and rhythmically purposeful — they exist to push the song forward, not to interrupt it.\n\n**Crossover and Cover Material:**\nThe album's cover of Trust's \"Antisocial\" shows Charlie's range. Where the original was a French hard-rock anthem, Anthrax's version is leaner, faster, and more thrash-aligned, and Charlie's drumming locks the band into a punk-influenced energy that contrasts with the more ornate compositions on the rest of the album."
+      "content": "What makes Charlie Benante's State of Euphoria performance so durable is the same thing that has always made his playing distinctive: discipline. Thrash drumming in 1988 was a noisy, fast, often imprecise art form, and Charlie's contribution was a sense of pocket and musical restraint that very few of his peers matched.\n\n**Single-Bass Right-Foot Triplets:**\nCharlie is widely credited as one of the originators of the rapid right-foot triplet figure in thrash — the technique of executing fast bass-drum triplet passages with a single foot rather than alternating feet. On State of Euphoria, listen to the verse grooves of \"Be All, End All\" and \"Now It's Dark\" for examples. The technique requires extraordinary ankle control and produces a different rhythmic feel from alternating double-bass.\n\n**Double-Bass Discipline:**\nWhen Charlie does use both feet — particularly on the album's most intense passages — the patterns are precise rather than busy. His double-bass vocabulary is more compositional than ornamental; the patterns serve song structure rather than showcase technique.\n\n**Hi-Hat Articulation:**\nThe driving hi-hat patterns throughout State of Euphoria show Charlie's ability to maintain crisp articulation at thrash tempos. The Paiste 2002 Sound Edge Hi-Hats give him a tight chick that cuts through the mix, and his foot control on the hi-hat pedal is impeccable.\n\n**Fills as Composition:**\nAs Anthrax's primary songwriter, Charlie thought of drum fills as compositional elements rather than displays. His fills on State of Euphoria are tight, melodically motivated, and rhythmically purposeful — they exist to push the song forward, not to interrupt it.\n\n**Crossover and Cover Material:**\nThe album's cover of Trust's \"Antisocial\" shows Charlie's range. Where the original was a French hard-rock anthem, Anthrax's version is leaner, faster, and more thrash-aligned, and Charlie's drumming locks the band into a punk-influenced energy that contrasts with the more ornate compositions on the rest of the album."
     },
     "faq": [
       {
@@ -1825,7 +1825,7 @@ export const articles = {
       },
       {
         "question": "What cymbals did Charlie Benante play on State of Euphoria?",
-        "answer": "Charlie Benante played Sabian AA / HH cymbals on State of Euphoria — 14\" Rock Hats, 16\"/17\"/18\" AA Medium Crashes, a 21\" AA Rock Ride, and an 18\" AA Chinese. His Sabian endorsement was already well established by 1988, and the AA series gave him the bright, cutting projection needed to cut through Mark Dodson's aggressive late-80s thrash mix."
+        "answer": "Charlie Benante played Paiste 2002 cymbals on State of Euphoria — 14\" Sound Edge Hi-Hats, 16\"/18\"/20\" Medium and Heavy Crashes, a 22\" Heavy Ride, and an 18\" China. His Paiste endorsement was already well established by 1988, and the 2002 series gave him the bright, cutting projection needed to cut through Mark Dodson's aggressive late-80s thrash mix."
       },
       {
         "question": "Why is State of Euphoria important in Charlie Benante's gear story?",
@@ -1852,7 +1852,7 @@ export const articles = {
     "relatedLicks": [],
     "conclusion": {
       "title": "The Bridge Album in Charlie Benante's Late-80s Arc",
-      "content": "State of Euphoria sits in a critical place in Charlie Benante's recorded history. It follows the watershed Among the Living, precedes the more ambitious Persistence of Time, and captures Charlie at the precise moment his identity as a working endorser stabilised — Tama drums, Sabian cymbals, Pro-Mark sticks, Remo heads. Everything that would define his sound for the next two decades is in place on this record.\n\nFor drummers studying his evolution, State of Euphoria is the album where the Tama Granstar bridges the Artstar II of Among the Living and the kits to come; where the Tama Bell Brass snare provides one of the most prominent recorded examples of that legendary shell; where the Tama HP35 Camco pedals continue the chain-drive legacy that lasted until 2010; and where Charlie's Remo drumhead endorsement makes its first fully credited Anthrax appearance.\n\nProducer Mark Dodson's tighter, drier, more forward approach gave the album a distinctly different sonic personality from its predecessor — and the result is a record that sounds unmistakably late-80s thrash, full of the upper-midrange aggression that defined the era. It remains essential listening for anyone tracing the lineage of Big Four thrash drumming.\n\nFor the full Charlie Benante gear story, visit the [Charlie Benante drummer profile](/drummer/charlie-benante). For the album that immediately preceded this one, see the [Among the Living drum setup breakdown](/articles/charlie-benante-among-the-living-drum-setup)."
+      "content": "State of Euphoria sits in a critical place in Charlie Benante's recorded history. It follows the watershed Among the Living, precedes the more ambitious Persistence of Time, and captures Charlie at the precise moment his identity as a working endorser stabilised — Tama drums, Paiste cymbals, Pro-Mark sticks, Remo heads. Everything that would define his sound for the next two decades is in place on this record.\n\nFor drummers studying his evolution, State of Euphoria is the album where the Tama Granstar bridges the Artstar II of Among the Living and the kits to come; where the Tama Bell Brass snare provides one of the most prominent recorded examples of that legendary shell; where the Tama HP35 Camco pedals continue the chain-drive legacy that lasted until 2010; and where Charlie's Remo drumhead endorsement makes its first fully credited Anthrax appearance.\n\nProducer Mark Dodson's tighter, drier, more forward approach gave the album a distinctly different sonic personality from its predecessor — and the result is a record that sounds unmistakably late-80s thrash, full of the upper-midrange aggression that defined the era. It remains essential listening for anyone tracing the lineage of Big Four thrash drumming.\n\nFor the full Charlie Benante gear story, visit the [Charlie Benante drummer profile](/drummer/charlie-benante). For the album that immediately preceded this one, see the [Among the Living drum setup breakdown](/articles/charlie-benante-among-the-living-drum-setup)."
     }
   },
   "worship-music-drum-setup": {
@@ -1917,13 +1917,13 @@ export const articles = {
         ],
         "shells": "All-maple shells with Star-Cast mounting system"
       },
-      "description": "For Worship Music, Charlie Benante played his long-running Tama Starclassic Maple configuration — a kit that had been his primary setup since returning to Tama after the DW years of the John Bush era. The Starclassic Maple represented everything Benante needed for the thrash-reunion context of Worship Music: a bright, punchy attack that cut through Jay Ruston's production, the volume and projection to support Joey Belladonna's expansive vocals, and the reliability needed for a drummer who had been performing these instruments at professional touring levels for nearly three decades.\n\nThe dual 22\" x 18\" bass drums were, as ever, non-negotiable. Benante's pioneering sustained double bass technique — the technique that had defined Anthrax since Among the Living — depends on two independent kick drums, each with its own tuning, damping, and miking. The 18\" shell depth delivers a low-end body that single-kick or double-pedal setups cannot replicate. On tracks like \"Fight 'Em 'Til You Can't\" and \"The Devil You Know,\" the kick patterns land with the physical weight that Benante's double bass work demands.\n\nTama's Star-Cast mounting system — which suspends toms from the kick drums and stands without damping shell resonance — was critical to the recorded sound. Jay Ruston's production captured the natural ring and sustain of each shell, and the Star-Cast system ensured that the drums vibrated freely rather than being choked at the mounting points. The result is a tom sound on Worship Music that has body and decay, not the dry, dead thud of clamped-down mounting hardware.\n\nThe all-maple shell construction gave Benante the warm, balanced tone that Ruston's studio aesthetic favored. Maple produces a full-spectrum fundamental with rich midrange — a marked contrast to the birch shells of the Among the Living era, which had emphasized upper-midrange snap over warmth. Where the 1987 thrash production had demanded articulation above everything else, Worship Music's 2011 production context allowed the maple shells to breathe and sustain in a more musical way.",
+      "description": "For Worship Music, Charlie Benante played his long-running Tama Starclassic Maple configuration — the same shell line he had introduced back on Sound of White Noise (1993) and refined across two decades of Anthrax records. The Starclassic Maple represented everything Benante needed for the thrash-reunion context of Worship Music: a bright, punchy attack that cut through Jay Ruston's production, the volume and projection to support Joey Belladonna's expansive vocals, and the reliability needed for a drummer who had been performing these instruments at professional touring levels for nearly three decades.\n\nThe dual 22\" x 18\" bass drums were, as ever, non-negotiable. Benante's pioneering sustained double bass technique — the technique that had defined Anthrax since Among the Living — depends on two independent kick drums, each with its own tuning, damping, and miking. The 18\" shell depth delivers a low-end body that single-kick or double-pedal setups cannot replicate. On tracks like \"Fight 'Em 'Til You Can't\" and \"The Devil You Know,\" the kick patterns land with the physical weight that Benante's double bass work demands.\n\nTama's Star-Cast mounting system — which suspends toms from the kick drums and stands without damping shell resonance — was critical to the recorded sound. Jay Ruston's production captured the natural ring and sustain of each shell, and the Star-Cast system ensured that the drums vibrated freely rather than being choked at the mounting points. The result is a tom sound on Worship Music that has body and decay, not the dry, dead thud of clamped-down mounting hardware.\n\nThe all-maple shell construction gave Benante the warm, balanced tone that Ruston's studio aesthetic favored. Maple produces a full-spectrum fundamental with rich midrange — a marked contrast to the birch shells of the Among the Living era, which had emphasized upper-midrange snap over warmth. Where the 1987 thrash production had demanded articulation above everything else, Worship Music's 2011 production context allowed the maple shells to breathe and sustain in a more musical way.",
       "notes": [
         "Dual 22\" x 18\" bass drums for the sustained double bass Benante pioneered",
         "Five-tom configuration for compositional variety across Worship Music's arrangements",
         "Star-Cast mounting preserves shell resonance — critical for Ruston's production approach",
         "All-maple shells for balanced, full-spectrum tone in the modern production context",
-        "Long-term Tama Starclassic endorsee — brand partner since the early 1990s return after DW years"
+        "Long-term Tama Starclassic endorsee — brand partner since Tama introduced the Starclassic Maple line in the early 1990s"
       ],
       "estimatedValue": "$5,500-7,500 (Starclassic Maple touring configuration)"
     },
@@ -2087,26 +2087,26 @@ export const articles = {
     ],
     "evolution": {
       "title": "From Sound of White Noise to Worship Music: The Modern Era Arrives",
-      "content": "Worship Music closes an 18-year gap in the Benante-Belladonna studio partnership while also documenting 18 years of gear evolution. The Sound of White Noise (1993) had found Benante on DW Collector's Series drums, Sabian cymbals, and DW 5000 pedals. Worship Music (2011) documents his fully settled modern configuration: back to Tama (Starclassic Maple), back to Paiste, and now on Speed Cobra pedals that replaced the legendary HP35 Camcos just in time for these sessions. The evolution is complete — Benante arrived at Worship Music's recording sessions with a setup that represents decades of refinement distilled into a working professional's toolkit.",
+      "content": "Worship Music closes an 18-year gap in the Benante-Belladonna studio partnership while also documenting 18 years of gear evolution. Sound of White Noise (1993) had found Benante moving to Tama's newly introduced Starclassic Maple shells and a Tama Artstar Custom Brass snare, paired with his long-running Paiste cymbals and HP35 Camco pedals. Worship Music (2011) documents his fully settled modern configuration: the same Starclassic Maple shells, a steel signature snare, the same Paiste cymbal lineage, and now Speed Cobra pedals that replaced the legendary HP35 Camcos just in time for these sessions. The evolution is complete — Benante arrived at Worship Music's recording sessions with a setup that represents decades of refinement distilled into a working professional's toolkit.",
       "thenVsNow": [
         {
           "category": "Kit",
-          "then": "DW Collector's Series Maple (Sound of White Noise, 1993)",
+          "then": "Tama Starclassic Maple (Sound of White Noise, 1993)",
           "now": "Tama Starclassic Maple (Worship Music, 2011)"
         },
         {
           "category": "Snare",
-          "then": "DW Edge Series 14\" x 6.5\"",
+          "then": "Tama Artstar Custom Brass 14\" x 6.5\"",
           "now": "Tama Charlie Benante Signature 14\" x 6.5\" (steel)"
         },
         {
           "category": "Cymbals",
-          "then": "Sabian AA / HH Series",
+          "then": "Paiste 2002 / Signature",
           "now": "Paiste 2002 / Signature Series"
         },
         {
           "category": "Pedals",
-          "then": "DW 5000 Series (two single pedals)",
+          "then": "Tama HP35 Camco (two single pedals)",
           "now": "Tama Speed Cobra HP910LN (switched 2010)"
         },
         {
@@ -2124,7 +2124,7 @@ export const articles = {
     "faq": [
       {
         "question": "What drum kit did Charlie Benante use on Worship Music?",
-        "answer": "Charlie Benante used a Tama Starclassic Maple kit on Worship Music (2011), configured with dual 22\" x 18\" bass drums, three rack toms (10\", 12\", 13\"), and two floor toms (14\" and 16\"). The all-maple shells with Tama's Star-Cast mounting system delivered the bright, punchy attack Jay Ruston's thrash-reunion production required. The Starclassic Maple represented Benante's return to Tama after the DW Collector's Series years of the John Bush era (1993-2001) and remained his primary touring and recording configuration through the 2010s."
+        "answer": "Charlie Benante used a Tama Starclassic Maple kit on Worship Music (2011), configured with dual 22\" x 18\" bass drums, three rack toms (10\", 12\", 13\"), and two floor toms (14\" and 16\"). The all-maple shells with Tama's Star-Cast mounting system delivered the bright, punchy attack Jay Ruston's thrash-reunion production required. The Starclassic Maple was the same shell line Benante had played since Sound of White Noise (1993), and it remained his primary touring and recording configuration through the 2010s."
       },
       {
         "question": "Was Worship Music Grammy nominated?",
@@ -2227,7 +2227,7 @@ export const articles = {
         ],
         "shells": "All-maple shells with Star-Cast mounting system"
       },
-      "description": "For All Kings finds Charlie Benante on the same Tama Starclassic Maple configuration that had served Worship Music, but with five additional years of intensive touring and recording familiarity behind the instrument. The kit itself represents the mature, settled endpoint of Benante's decades-long search for the perfect professional setup — a dual-kick, five-tom configuration built around Tama's Starclassic Maple shells and Star-Cast mounting that had evolved from the thrash-era Artstar II kits of the 1980s through the DW experiments of the 1990s and back to Tama for the modern era.\n\nThe dual 22\" x 18\" bass drums remain the foundation of everything Benante does rhythmically. The 18\" shell depth delivers the low-end body that two-kick setups require — a fundamental difference from the 22\" x 16\" dimensions of the Among the Living era that reflects Benante's evolved understanding of what his double bass approach needs sonically. Jay Ruston's production for For All Kings gave these drums more low-end weight than they had received on Worship Music, aligning with the album's slightly darker, more muscular sonic character.\n\nThe Starclassic Maple's all-maple construction provided the balanced, full-spectrum tone that Ruston's layered production aesthetic required. Maple shells produce a wide frequency response with a strong fundamental and warm midrange — the sonic foundation that makes Benante's tom work on For All Kings sound dimensional and musical rather than simply percussive. On tracks like \"You Gotta Believe\" and \"For All Kings,\" the tom fills carry melodic weight that simpler shell constructions cannot achieve.\n\nTama's Star-Cast mounting system — a constant across Benante's modern Starclassic configuration — ensured that shell resonance was preserved fully in Ruston's recording environment. The system's suspension mount approach prevents the shell dampening that would compromise the natural decay and warmth that For All Kings' production captured so effectively.",
+      "description": "For All Kings finds Charlie Benante on the same Tama Starclassic Maple configuration that had served Worship Music, but with five additional years of intensive touring and recording familiarity behind the instrument. The kit itself represents the mature, settled endpoint of Benante's decades-long search for the perfect professional setup — a dual-kick, five-tom configuration built around Tama's Starclassic Maple shells and Star-Cast mounting that had evolved from the thrash-era Artstar II birch kits of the 1980s through the Starclassic Maple shells Tama introduced in the 1990s.\n\nThe dual 22\" x 18\" bass drums remain the foundation of everything Benante does rhythmically. The 18\" shell depth delivers the low-end body that two-kick setups require — a fundamental difference from the 22\" x 16\" dimensions of the Among the Living era that reflects Benante's evolved understanding of what his double bass approach needs sonically. Jay Ruston's production for For All Kings gave these drums more low-end weight than they had received on Worship Music, aligning with the album's slightly darker, more muscular sonic character.\n\nThe Starclassic Maple's all-maple construction provided the balanced, full-spectrum tone that Ruston's layered production aesthetic required. Maple shells produce a wide frequency response with a strong fundamental and warm midrange — the sonic foundation that makes Benante's tom work on For All Kings sound dimensional and musical rather than simply percussive. On tracks like \"You Gotta Believe\" and \"For All Kings,\" the tom fills carry melodic weight that simpler shell constructions cannot achieve.\n\nTama's Star-Cast mounting system — a constant across Benante's modern Starclassic configuration — ensured that shell resonance was preserved fully in Ruston's recording environment. The system's suspension mount approach prevents the shell dampening that would compromise the natural decay and warmth that For All Kings' production captured so effectively.",
       "notes": [
         "Same Starclassic Maple configuration as Worship Music — five years of touring familiarity behind every performance",
         "Dual 22\" x 18\" bass drums — greater low-end body than the thrash-era 16\" depth shells",
@@ -2486,7 +2486,7 @@ export const articles = {
     "dateModified": "2026-06-30",
     "author": "MetalForge Editorial",
     "title": "Charlie Benante's Drum Setup on Anthrax's Stomp 442 (1995)",
-    "description": "Complete breakdown of Charlie Benante's drum setup on Anthrax's Stomp 442 (1995) — the John Bush-era groove metal pivot recorded without Dan Spitz, featuring a Dimebag Darrell guest appearance, Butcher Bros. production, and the DW Collector's Series kit behind 'Random Acts of Senseless Violence.'",
+    "description": "Complete breakdown of Charlie Benante's drum setup on Anthrax's Stomp 442 (1995) — the John Bush-era groove metal pivot recorded without Dan Spitz, featuring a Dimebag Darrell guest appearance, Butcher Bros. production, and the Tama Starclassic Maple kit behind 'Random Acts of Senseless Violence.'",
     "seoKeywords": [
       "charlie benante stomp 442 drum setup",
       "stomp 442 drums 1995",
@@ -2500,7 +2500,7 @@ export const articles = {
     "ogImage": "/images/albums/stomp-442-drums.webp",
     "intro": {
       "title": "The Groove Metal Pivot Deepens: Anthrax Without Dan Spitz",
-      "content": "Released October 24, 1995, Stomp 442 found Anthrax pushing further into the groove-metal territory that Sound of White Noise (1993) had opened up two years earlier — and doing it without lead guitarist Dan Spitz, who departed during the album's writing. Lead guitar duties were filled by committee: touring guitarist Paul Crook played solos on \"Random Acts of Senseless Violence,\" \"In a Zone,\" \"Drop the Ball,\" and \"Perpetual Motion\"; Pantera's Dimebag Darrell guested on \"King Size\" and \"Riding Shotgun\"; Mike Tempesta contributed to \"American Pompeii\"; and Charlie Benante himself filled in on guitar in places. The result is a heavier, more aggressive record than Sound of White Noise, with John Bush's vocals pushed even further into a mid-range growl and the songwriting leaning hard into down-tuned, groove-driven riffing.\n\nProduced by Anthrax alongside the Butcher Bros. (Mike and Chris Barbiero) at Studio 4 in Conshohocken, Pennsylvania, Stomp 442 carried the band's gear evolution forward from the Dave Jerden sessions. Charlie Benante stayed on the DW Collector's Series Maple kit he had switched to for Sound of White Noise, but the sessions called for a heavier, more low-end-focused tuning to match the album's denser guitar tone and the absence of Spitz's bright lead lines. The drumming itself stayed true to Benante's pioneering double bass technique even as the surrounding arrangements slowed and thickened — \"Random Acts of Senseless Violence\" in particular is built around a groove-over-blast contrast that became the song's signature showcase, alternating sustained double bass runs with mid-tempo, pocket-heavy verses.\n\nStomp 442 debuted at #47 on the Billboard 200 and #77 on the UK Albums Chart, while reaching #10 on the UK Rock & Metal Albums chart — respectable numbers, though the band felt Elektra Records under-promoted the release, and Stomp 442 became Anthrax's last album for the label. Commercially modest at the time, the record has since been reassessed by fans and critics as an underrated bridge record — the album where Anthrax fully committed to the heavier, groove-centric direction that would carry through to Volume 8: The Threat Is Real three years later.\n\nFor Charlie Benante, Stomp 442 documents a drummer adapting his thrash-pioneering vocabulary to a band in transition — a guitarist gone, a production team new to the band, and a genre landscape shifting hard toward groove metal across the mid-1990s. This article breaks down the kit, cymbals, hardware, and recording approach behind one of the most overlooked entries in Benante's catalog.",
+      "content": "Released October 24, 1995, Stomp 442 found Anthrax pushing further into the groove-metal territory that Sound of White Noise (1993) had opened up two years earlier — and doing it without lead guitarist Dan Spitz, who departed during the album's writing. Lead guitar duties were filled by committee: touring guitarist Paul Crook played solos on \"Random Acts of Senseless Violence,\" \"In a Zone,\" \"Drop the Ball,\" and \"Perpetual Motion\"; Pantera's Dimebag Darrell guested on \"King Size\" and \"Riding Shotgun\"; Mike Tempesta contributed to \"American Pompeii\"; and Charlie Benante himself filled in on guitar in places. The result is a heavier, more aggressive record than Sound of White Noise, with John Bush's vocals pushed even further into a mid-range growl and the songwriting leaning hard into down-tuned, groove-driven riffing.\n\nProduced by Anthrax alongside the Butcher Bros. (Mike and Chris Barbiero) at Studio 4 in Conshohocken, Pennsylvania, Stomp 442 carried the band's gear evolution forward from the Dave Jerden sessions. Charlie Benante stayed on the Tama Starclassic Maple kit he had moved to for Sound of White Noise, but the sessions called for a heavier, more low-end-focused tuning to match the album's denser guitar tone and the absence of Spitz's bright lead lines. The drumming itself stayed true to Benante's pioneering double bass technique even as the surrounding arrangements slowed and thickened — \"Random Acts of Senseless Violence\" in particular is built around a groove-over-blast contrast that became the song's signature showcase, alternating sustained double bass runs with mid-tempo, pocket-heavy verses.\n\nStomp 442 debuted at #47 on the Billboard 200 and #77 on the UK Albums Chart, while reaching #10 on the UK Rock & Metal Albums chart — respectable numbers, though the band felt Elektra Records under-promoted the release, and Stomp 442 became Anthrax's last album for the label. Commercially modest at the time, the record has since been reassessed by fans and critics as an underrated bridge record — the album where Anthrax fully committed to the heavier, groove-centric direction that would carry through to Volume 8: The Threat Is Real three years later.\n\nFor Charlie Benante, Stomp 442 documents a drummer adapting his thrash-pioneering vocabulary to a band in transition — a guitarist gone, a production team new to the band, and a genre landscape shifting hard toward groove metal across the mid-1990s. This article breaks down the kit, cymbals, hardware, and recording approach behind one of the most overlooked entries in Benante's catalog.",
       "keyPoints": [
         "First Anthrax album without lead guitarist Dan Spitz — guitar duties filled by Paul Crook, Dimebag Darrell, Mike Tempesta, and Benante himself",
         "Dimebag Darrell (Pantera) guests on \"King Size\" and \"Riding Shotgun\"",
@@ -2511,9 +2511,9 @@ export const articles = {
       ]
     },
     "drumKit": {
-      "title": "Benante's Second Album on the DW Collector's Series",
-      "brand": "DW",
-      "model": "DW Collector's Series Maple",
+      "title": "Benante's Second Album on the Tama Starclassic Maple",
+      "brand": "Tama",
+      "model": "Tama Starclassic Maple",
       "finish": "Natural maple lacquer",
       "config": {
         "bassdrums": [
@@ -2527,94 +2527,94 @@ export const articles = {
         "floorToms": [
           "16\" x 16\" Floor Tom"
         ],
-        "shells": "Maple shells with True-Pitch tension rods"
+        "shells": "Maple shells with Tama's Star-Cast mounting system"
       },
-      "description": "For Stomp 442, Charlie Benante carried forward the DW Collector's Series Maple kit that had replaced his Tama Artstar II setup on Sound of White Noise — but tuned it to suit a heavier, more aggressive record. Where the 1993 sessions with Dave Jerden favored an open, room-filling tone, the Butcher Bros.' production at Studio 4 called for a tighter, more controlled low end that could sit under the album's denser, down-tuned guitar work.\n\nThe dual 22\" x 18\" bass drums remained Benante's non-negotiable foundation, but the batter heads were tuned lower and damped more heavily than on Sound of White Noise, producing a thicker, more compressed thud suited to the groove-driven riffing of tracks like \"Fueled\" and \"Nothing.\" The streamlined three-rack-tom, single-floor-tom configuration carried over unchanged — appropriate for an album that, like its predecessor, prized economical, structurally placed fills over constant tom activity.\n\nThe all-maple shell construction continued to provide the warmth and harmonic depth that Benante had moved toward in 1993, but Stomp 442's mix pushes the kit's low-mid frequencies more aggressively, reflecting the album's overall weight. This was Benante's second studio outing on the DW kit, and the comfort and familiarity show in performances that are both heavier and more controlled than the still-adjusting Sound of White Noise sessions.",
+      "description": "For Stomp 442, Charlie Benante carried forward the Tama Starclassic Maple kit he had moved to for Sound of White Noise — but tuned it to suit a heavier, more aggressive record. Where the 1993 sessions with Dave Jerden favored an open, room-filling tone, the Butcher Bros.' production at Studio 4 called for a tighter, more controlled low end that could sit under the album's denser, down-tuned guitar work.\n\nThe dual 22\" x 18\" bass drums remained Benante's non-negotiable foundation, but the batter heads were tuned lower and damped more heavily than on Sound of White Noise, producing a thicker, more compressed thud suited to the groove-driven riffing of tracks like \"Fueled\" and \"Nothing.\" The streamlined three-rack-tom, single-floor-tom configuration carried over unchanged — appropriate for an album that, like its predecessor, prized economical, structurally placed fills over constant tom activity.\n\nThe all-maple shell construction continued to provide the warmth and harmonic depth that Benante had moved toward in 1993, but Stomp 442's mix pushes the kit's low-mid frequencies more aggressively, reflecting the album's overall weight. This was Benante's second studio outing on the Starclassic Maple kit, and the comfort and familiarity show in performances that are both heavier and more controlled than the still-adjusting Sound of White Noise sessions.",
       "notes": [
-        "Second consecutive Anthrax album on the DW Collector's Series Maple kit introduced for Sound of White Noise",
+        "Second consecutive Anthrax album on the Tama Starclassic Maple kit introduced for Sound of White Noise",
         "Dual 22\" x 18\" bass drums tuned lower and damped more heavily for a thicker, more compressed thud",
         "Unchanged streamlined tom configuration — three rack toms, one floor tom",
         "Maple shells pushed harder into low-mid frequencies to match the album's heavier guitar tone",
-        "True-Pitch tension rods for precise per-lug tuning in the Butcher Bros.' tighter production approach"
+        "Star-Cast mounting system for precise, resonant tuning in the Butcher Bros.' tighter production approach"
       ],
-      "estimatedValue": "$4,500-6,500 (1995 DW Collector's Series configuration)"
+      "estimatedValue": "$4,500-6,500 (1995 Tama Starclassic Maple configuration)"
     },
     "snare": {
-      "title": "The DW Edge Series, Tuned Down",
-      "brand": "DW",
-      "model": "DW Edge Series Snare",
+      "title": "The Tama Artstar Custom Brass, Tuned Down",
+      "brand": "Tama",
+      "model": "Tama Artstar Custom Brass Snare",
       "size": "14\" x 6.5\"",
-      "shell": "Solid maple with brass edge rings (hybrid construction)",
-      "description": "Charlie Benante's snare on Stomp 442 was the same DW Edge Series he had introduced on Sound of White Noise — a hybrid maple-and-brass shell that bridges a warm, woody body with a bright, cutting edge. For Stomp 442, the tuning shifted noticeably lower and fatter than the 1993 sessions, matching the album's heavier, more groove-oriented direction and the absence of Dan Spitz's brighter rhythm guitar texture.\n\nThe Butcher Bros.' production approach favored a snare that sat assertively in the mix without dominating it — present enough to anchor the groove on tracks like \"Random Acts of Senseless Violence\" and \"Perpetual Motion,\" but tonally matched to the album's thicker low end. The brass edge rings still provided the cut needed to punch through dense, down-tuned guitars, but the lower overall tuning gave the snare more body and less of the bright crack that had defined the Sound of White Noise sessions.\n\nThis tuning choice reflects the broader stylistic shift between the two albums: Sound of White Noise was still finding its footing in the groove-metal direction, while Stomp 442 commits to it fully, and the snare tone — fatter, lower, more pocket-focused — is one of the clearest sonic markers of that commitment.",
+      "shell": "Seamless cast bell-brass shell",
+      "description": "Charlie Benante's snare on Stomp 442 was the same Tama Artstar Custom Brass he had used on Sound of White Noise — a bell-brass shell that bridges a warm, woody body with a bright, cutting edge. For Stomp 442, the tuning shifted noticeably lower and fatter than the 1993 sessions, matching the album's heavier, more groove-oriented direction and the absence of Dan Spitz's brighter rhythm guitar texture.\n\nThe Butcher Bros.' production approach favored a snare that sat assertively in the mix without dominating it — present enough to anchor the groove on tracks like \"Random Acts of Senseless Violence\" and \"Perpetual Motion,\" but tonally matched to the album's thicker low end. The bell-brass shell still provided the cut needed to punch through dense, down-tuned guitars, but the lower overall tuning gave the snare more body and less of the bright crack that had defined the Sound of White Noise sessions.\n\nThis tuning choice reflects the broader stylistic shift between the two albums: Sound of White Noise was still finding its footing in the groove-metal direction, while Stomp 442 commits to it fully, and the snare tone — fatter, lower, more pocket-focused — is one of the clearest sonic markers of that commitment.",
       "tuningSetting": "Lower, fatter tension than Sound of White Noise — more body, less bright crack",
       "heads": "Remo Coated Ambassador (batter), Remo Ambassador Snare Side (resonant)",
-      "estimatedValue": "$500-750 (1995 DW Edge Series)"
+      "estimatedValue": "$400-600 (1995 era)"
     },
     "cymbals": {
-      "title": "Sabian: An Expanded Mid-90s Arsenal",
-      "brand": "Sabian",
-      "series": "Sabian AA / HH Series",
+      "title": "Paiste: An Expanded Mid-90s Arsenal",
+      "brand": "Paiste",
+      "series": "Paiste 2002 / Signature",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Sabian 14\" AA Rock Hi-Hats",
+          "model": "Paiste 2002 14\" Sound Edge Hi-Hats",
           "position": "Left side",
           "notes": "Tight, focused chick for the album's heavier groove pulse"
         },
         {
           "type": "Crash",
-          "model": "Sabian 16\" AA Rock Crash",
+          "model": "Paiste Signature 16\" Fast Crash",
           "position": "Far left",
           "notes": "Fast attack for accent work on up-tempo passages"
         },
         {
           "type": "Crash",
-          "model": "Sabian 18\" AA Rock Crash",
+          "model": "Paiste 2002 18\" Medium Crash",
           "position": "Left of toms",
           "notes": "Primary workhorse crash with full body and cut"
         },
         {
           "type": "Crash",
-          "model": "Sabian 19\" AA Rock Crash",
+          "model": "Paiste 2002 20\" Heavy Crash",
           "position": "Right of toms",
           "notes": "Added for Stomp 442 — bigger crash for the album's heavier riffing"
         },
         {
           "type": "Ride",
-          "model": "Sabian 21\" AA Rock Ride",
+          "model": "Paiste 2002 22\" Heavy Ride",
           "position": "Far right",
           "notes": "Defined bell and controlled wash for extended ride patterns"
         },
         {
           "type": "China",
-          "model": "Sabian 18\" AA Chinese",
+          "model": "Paiste 2002 18\" China",
           "position": "Above floor tom",
           "notes": "Trashy accent voice for the album's heaviest moments"
         }
       ],
-      "description": "Stomp 442 carried forward the Sabian AA/HH setup Benante had switched to on Sound of White Noise, with one notable addition: a 19\" AA Rock Crash joined the configuration, giving him a bigger, more explosive crash option to match the album's heavier riffing. The Sabian relationship, now two albums deep, had settled into the long-running endorsement that continues to this day.\n\nThe 14\" AA Rock Hi-Hats continued to anchor Benante's groove vocabulary, providing the tight, articulate chick sound that drives tracks like \"Fueled\" and \"Drop the Ball.\" The crash lineup — 16\", 18\", and now 19\" AA Rock models — gave Benante a graduated range of accent weights, from quick transitional hits to the album's biggest structural crashes.\n\nThe 21\" AA Rock Ride and 18\" AA Chinese carried over unchanged from Sound of White Noise, providing the sustained ride platform and trashy accent voice that had already proven effective. Where the HH Medium Crash had added a warmer, more musical option to the 1993 sessions, Stomp 442's harder-edged material called for an all-AA-series crash lineup focused on cut and projection rather than musicality.",
-      "estimatedValue": "$1,400-2,000 total (1995 Sabian setup)"
+      "description": "Stomp 442 carried forward the Paiste setup Benante had used on Sound of White Noise, with one notable addition: a 20\" Heavy Crash joined the configuration, giving him a bigger, more explosive crash option to match the album's heavier riffing. The Paiste relationship, by now a full decade deep, had settled into the long-running endorsement that continues to this day.\n\nThe 14\" Sound Edge Hi-Hats continued to anchor Benante's groove vocabulary, providing the tight, articulate chick sound that drives tracks like \"Fueled\" and \"Drop the Ball.\" The crash lineup — 16\" Signature, 18\", and now 20\" 2002 models — gave Benante a graduated range of accent weights, from quick transitional hits to the album's biggest structural crashes.\n\nThe 22\" 2002 Heavy Ride and 18\" 2002 China carried over unchanged from Sound of White Noise, providing the sustained ride platform and trashy accent voice that had already proven effective. Stomp 442's harder-edged material called for a heavier-hitting crash lineup focused on cut and projection to match the album's denser guitar work.",
+      "estimatedValue": "$1,400-2,000 total (1995 Paiste setup)"
     },
     "hardware": {
-      "title": "DW 5000 Series: Holding Steady",
+      "title": "Tama HP35 Camco: Holding Steady",
       "items": [
         {
           "type": "Bass Drum Pedals",
-          "brand": "DW",
-          "model": "DW 5000 Series Chain-Drive Double Pedal Configuration",
-          "notes": "Two single DW 5000 pedals, one per bass drum, carried over from Sound of White Noise",
-          "description": "Charlie Benante's DW 5000 Series pedals carried over unchanged from Sound of White Noise, providing the chain-drive consistency he had relied on through the band's groove-metal pivot. With two independent 22\" bass drums rather than a single kick and double pedal, Benante's setup used two single 5000 pedals. By Stomp 442, the pedals were thoroughly broken in, and the result is double bass work on \"Random Acts of Senseless Violence\" that is both heavier and more controlled than the still-adjusting 1993 performances."
+          "brand": "Tama",
+          "model": "Tama HP35 Camco",
+          "notes": "Two single HP35 Camco pedals, one per bass drum, carried over from Sound of White Noise",
+          "description": "Charlie Benante's Tama HP35 Camco pedals carried over unchanged from Sound of White Noise, providing the chain-drive consistency he had relied on through the band's groove-metal pivot. With two independent 22\" bass drums rather than a single kick and double pedal, Benante's setup used two single HP35 Camco pedals. By Stomp 442, the pedals were more than a decade broken in, and the result is double bass work on \"Random Acts of Senseless Violence\" that is both heavier and more controlled than the still-adjusting 1993 performances."
         },
         {
           "type": "Hi-Hat Stand",
-          "brand": "DW",
-          "model": "DW 5500 Hi-Hat Stand",
+          "brand": "Tama",
+          "model": "Tama Titan Hi-Hat Stand",
           "notes": "Heavy-duty support carried over from the Sound of White Noise sessions"
         },
         {
           "type": "Throne",
-          "brand": "DW",
-          "model": "DW 5100 Throne",
+          "brand": "Tama",
+          "model": "Tama 1st Chair",
           "notes": "Stable, comfortable seating for extended studio sessions at Studio 4"
         },
         {
@@ -2632,11 +2632,11 @@ export const articles = {
     },
     "recordingTechniques": {
       "title": "The Butcher Bros.' Tighter, Heavier Approach",
-      "content": "The Butcher Bros. (Mike and Chris Barbiero), working with Anthrax for the first time at Studio 4 in Conshohocken, Pennsylvania, brought a tighter and more controlled drum production than Dave Jerden's room-heavy Sound of White Noise approach. Where Jerden had emphasized natural ambience and a three-dimensional room sound, Stomp 442's production prioritizes a more compressed, modern low end suited to the album's heavier, down-tuned riffing.\n\n**Kick Drum Approach:**\nThe dual bass drums were tuned lower and damped more heavily than on Sound of White Noise, with close mics capturing a tighter, punchier attack rather than the open, resonant thud of the 1993 sessions. This matched the denser guitar arrangements written in Dan Spitz's absence.\n\n**Snare and Mix Balance:**\nThe DW Edge snare was tuned fatter and lower, sitting forward enough in the mix to anchor the groove on tracks like \"Perpetual Motion\" without the bright crack that had characterized Sound of White Noise. Cymbals were captured with a focus on cut and projection, supporting the expanded Sabian crash lineup.\n\n**Overall Aesthetic:**\nThe Butcher Bros.' production favors clarity and weight over the spacious, organic feel of the previous album — a deliberate choice that aligned with Stomp 442's harder-edged songwriting and the band's push toward a more contemporary mid-90s metal sound.",
+      "content": "The Butcher Bros. (Mike and Chris Barbiero), working with Anthrax for the first time at Studio 4 in Conshohocken, Pennsylvania, brought a tighter and more controlled drum production than Dave Jerden's room-heavy Sound of White Noise approach. Where Jerden had emphasized natural ambience and a three-dimensional room sound, Stomp 442's production prioritizes a more compressed, modern low end suited to the album's heavier, down-tuned riffing.\n\n**Kick Drum Approach:**\nThe dual bass drums were tuned lower and damped more heavily than on Sound of White Noise, with close mics capturing a tighter, punchier attack rather than the open, resonant thud of the 1993 sessions. This matched the denser guitar arrangements written in Dan Spitz's absence.\n\n**Snare and Mix Balance:**\nThe bell-brass snare was tuned fatter and lower, sitting forward enough in the mix to anchor the groove on tracks like \"Perpetual Motion\" without the bright crack that had characterized Sound of White Noise. Cymbals were captured with a focus on cut and projection, supporting the expanded Paiste crash lineup.\n\n**Overall Aesthetic:**\nThe Butcher Bros.' production favors clarity and weight over the spacious, organic feel of the previous album — a deliberate choice that aligned with Stomp 442's harder-edged songwriting and the band's push toward a more contemporary mid-90s metal sound.",
       "keyTechniques": [
         "Tighter, more compressed kick drum sound than the room-heavy Sound of White Noise production",
         "Lower, fatter snare tuning for groove-anchored playing",
-        "Expanded crash cymbal lineup captured for cut and projection",
+        "Expanded Paiste crash lineup captured for cut and projection",
         "Production aesthetic favors clarity and weight to match the album's heavier riffing"
       ]
     },
@@ -2651,7 +2651,7 @@ export const articles = {
           "Showcases Benante's ability to alternate thrash-speed sections with groove-metal restraint within a single song",
           "Fan-favorite live staple to this day"
         ],
-        "gearNotes": "The DW 5000 pedals deliver the sustained double bass runs with weight and consistency, while the lower-tuned bass drums give the verse groove a thicker, more physical thud."
+        "gearNotes": "The HP35 Camco pedals deliver the sustained double bass runs with weight and consistency, while the lower-tuned bass drums give the verse groove a thicker, more physical thud."
       },
       {
         "track": "King Size",
@@ -2662,7 +2662,7 @@ export const articles = {
           "Mid-tempo groove track with heavy emphasis on the snare backbeat",
           "One of two tracks featuring Darrell's guest contribution"
         ],
-        "gearNotes": "The fatter-tuned DW Edge snare anchors the groove, while the expanded 19\" AA Rock Crash punctuates the chorus transitions."
+        "gearNotes": "The fatter-tuned bell-brass snare anchors the groove, while the expanded 20\" Heavy Crash punctuates the chorus transitions."
       },
       {
         "track": "Riding Shotgun",
@@ -2673,7 +2673,7 @@ export const articles = {
           "Combines aggressive verse riffing with a more melodic chorus structure",
           "Demonstrates the heavier production aesthetic of the Butcher Bros. sessions"
         ],
-        "gearNotes": "The Sabian 21\" AA Rock Ride provides a sustained platform during the chorus, while the China cymbal accents the song's heaviest transitions."
+        "gearNotes": "The Paiste 2002 22\" Heavy Ride provides a sustained platform during the chorus, while the China cymbal accents the song's heaviest transitions."
       },
       {
         "track": "Perpetual Motion",
@@ -2689,27 +2689,27 @@ export const articles = {
     ],
     "evolution": {
       "title": "From Sound of White Noise to Stomp 442: Committing to the Groove",
-      "content": "Stomp 442 represents a refinement rather than a reinvention of Charlie Benante's Sound of White Noise setup — the same DW Collector's Series Maple kit, the same DW Edge snare, the same Sabian cymbal foundation, all tuned and expanded to suit a heavier, more groove-committed record. The most significant addition was the 19\" AA Rock Crash, giving Benante a bigger accent voice for the album's denser riffing, while the bass drums and snare were tuned lower and fatter across the board.",
+      "content": "Stomp 442 represents a refinement rather than a reinvention of Charlie Benante's Sound of White Noise setup — the same Tama Starclassic Maple kit, the same Tama Artstar Custom Brass snare, the same Paiste cymbal foundation, all tuned and expanded to suit a heavier, more groove-committed record. The most significant addition was the 20\" Heavy Crash, giving Benante a bigger accent voice for the album's denser riffing, while the bass drums and snare were tuned lower and fatter across the board.",
       "thenVsNow": [
         {
           "category": "Kit",
-          "then": "DW Collector's Series Maple (Sound of White Noise, 1993)",
-          "now": "DW Collector's Series Maple, lower-tuned (Stomp 442, 1995)"
+          "then": "Tama Starclassic Maple (Sound of White Noise, 1993)",
+          "now": "Tama Starclassic Maple, lower-tuned (Stomp 442, 1995)"
         },
         {
           "category": "Snare",
-          "then": "DW Edge Series 14\" x 6.5\", bright tuning",
-          "now": "DW Edge Series 14\" x 6.5\", lower and fatter tuning"
+          "then": "Tama Artstar Custom Brass 14\" x 6.5\", bright tuning",
+          "now": "Tama Artstar Custom Brass 14\" x 6.5\", lower and fatter tuning"
         },
         {
           "category": "Cymbals",
-          "then": "Sabian AA/HH with 16\"/18\" crashes",
-          "now": "Sabian AA/HH with added 19\" crash"
+          "then": "Paiste 2002/Signature with 16\"/18\" crashes",
+          "now": "Paiste 2002/Signature with added 20\" crash"
         },
         {
           "category": "Pedals",
-          "then": "DW 5000 Series (two single pedals)",
-          "now": "DW 5000 Series (unchanged)"
+          "then": "Tama HP35 Camco (two single pedals)",
+          "now": "Tama HP35 Camco (unchanged)"
         },
         {
           "category": "Producer",
@@ -2726,7 +2726,7 @@ export const articles = {
     "faq": [
       {
         "question": "What drum kit did Charlie Benante use on Stomp 442?",
-        "answer": "Charlie Benante used the same DW Collector's Series Maple kit on Stomp 442 (1995) that he introduced on Sound of White Noise (1993) — dual 22\" x 18\" bass drums, three rack toms (10\", 12\", 13\"), and a single 16\" floor tom with all-maple shells. For Stomp 442, the kit was tuned lower and damped more heavily to match the album's heavier, more down-tuned guitar work and the Butcher Bros.' tighter production approach."
+        "answer": "Charlie Benante used the same Tama Starclassic Maple kit on Stomp 442 (1995) that he moved to on Sound of White Noise (1993) — dual 22\" x 18\" bass drums, three rack toms (10\", 12\", 13\"), and a single 16\" floor tom with all-maple shells. For Stomp 442, the kit was tuned lower and damped more heavily to match the album's heavier, more down-tuned guitar work and the Butcher Bros.' tighter production approach."
       },
       {
         "question": "Did Dimebag Darrell really play on Stomp 442?",
@@ -2742,7 +2742,7 @@ export const articles = {
       },
       {
         "question": "How does Stomp 442 compare to Sound of White Noise drum-wise?",
-        "answer": "Stomp 442 (1995) refines rather than reinvents the setup Charlie Benante introduced on Sound of White Noise (1993) — the same DW Collector's Series Maple kit, DW Edge snare, and Sabian AA/HH cymbal foundation, with a 19\" AA Rock Crash added for extra weight. The tuning shifted noticeably: lower, more heavily damped bass drums and a fatter, lower-tuned snare reflect the album's heavier, more down-tuned guitar work, recorded without Dan Spitz and produced by the Butcher Bros. rather than Dave Jerden. For the prior chapter, see the [Sound of White Noise drum setup article](/articles/sound-of-white-noise-drum-setup); for the next chapter in the John Bush era, see [Volume 8: The Threat Is Real drum setup](/articles/volume-8-drum-setup)."
+        "answer": "Stomp 442 (1995) refines rather than reinvents the setup Charlie Benante used on Sound of White Noise (1993) — the same Tama Starclassic Maple kit, Tama Artstar Custom Brass snare, and Paiste 2002/Signature cymbal foundation, with a 20\" Heavy Crash added for extra weight. The tuning shifted noticeably: lower, more heavily damped bass drums and a fatter, lower-tuned snare reflect the album's heavier, more down-tuned guitar work, recorded without Dan Spitz and produced by the Butcher Bros. rather than Dave Jerden. For the prior chapter, see the [Sound of White Noise drum setup article](/articles/sound-of-white-noise-drum-setup); for the next chapter in the John Bush era, see [Volume 8: The Threat Is Real drum setup](/articles/volume-8-drum-setup)."
       }
     ],
     "relatedAlbums": [
@@ -2763,7 +2763,7 @@ export const articles = {
     "relatedLicks": [],
     "conclusion": {
       "title": "The Overlooked Bridge Record",
-      "content": "Stomp 442 has long lived in the shadow of Sound of White Noise and the later Grammy-nominated Worship Music, but it represents an important and often underrated chapter in Charlie Benante's career. Recorded without a permanent lead guitarist, produced by a team new to the band, and released into a mid-90s metal landscape that had largely turned away from thrash, Stomp 442 nonetheless captures Benante refining his groove-metal vocabulary and delivering one of his most enduring tracks in \"Random Acts of Senseless Violence.\"\n\nThe album's commercial performance — #47 on the Billboard 200 and Anthrax's exit from Elektra Records — undersold a record that has been reassessed favorably over time. For Charlie Benante, Stomp 442 documents the consolidation of the gear and technique shift that began on Sound of White Noise: the same DW Collector's Series kit, refined Sabian cymbal setup, and a drumming approach that bridges thrash speed with groove-metal restraint.\n\nFor the album that started this groove-metal chapter, see the [Sound of White Noise drum setup article](/articles/sound-of-white-noise-drum-setup). For the album that closed out this era of Anthrax's John Bush years, see the [Volume 8: The Threat Is Real drum setup](/articles/volume-8-drum-setup). For Charlie's complete career and gear timeline, see the [Charlie Benante drummer profile](/drummer/charlie-benante) and the [Anthrax band page](/bands/anthrax)."
+      "content": "Stomp 442 has long lived in the shadow of Sound of White Noise and the later Grammy-nominated Worship Music, but it represents an important and often underrated chapter in Charlie Benante's career. Recorded without a permanent lead guitarist, produced by a team new to the band, and released into a mid-90s metal landscape that had largely turned away from thrash, Stomp 442 nonetheless captures Benante refining his groove-metal vocabulary and delivering one of his most enduring tracks in \"Random Acts of Senseless Violence.\"\n\nThe album's commercial performance — #47 on the Billboard 200 and Anthrax's exit from Elektra Records — undersold a record that has been reassessed favorably over time. For Charlie Benante, Stomp 442 documents the consolidation of the gear and technique shift that began on Sound of White Noise: the same Tama Starclassic Maple kit, refined Paiste cymbal setup, and a drumming approach that bridges thrash speed with groove-metal restraint.\n\nFor the album that started this groove-metal chapter, see the [Sound of White Noise drum setup article](/articles/sound-of-white-noise-drum-setup). For the album that closed out this era of Anthrax's John Bush years, see the [Volume 8: The Threat Is Real drum setup](/articles/volume-8-drum-setup). For Charlie's complete career and gear timeline, see the [Charlie Benante drummer profile](/drummer/charlie-benante) and the [Anthrax band page](/bands/anthrax)."
     }
   },
   "volume-8-drum-setup": {
@@ -2783,7 +2783,7 @@ export const articles = {
     "dateModified": "2026-06-30",
     "author": "MetalForge Editorial",
     "title": "Charlie Benante's Drum Setup on Anthrax's Volume 8: The Threat Is Real (1998)",
-    "description": "Complete breakdown of Charlie Benante's drum setup on Anthrax's Volume 8: The Threat Is Real (1998) — John Bush's most aggressive Anthrax record, featuring Phil Anselmo guest vocals, the Pantera-esque groove of 'Catharsis,' and the DW Collector's Series kit before the band's three-year recording hiatus.",
+    "description": "Complete breakdown of Charlie Benante's drum setup on Anthrax's Volume 8: The Threat Is Real (1998) — John Bush's most aggressive Anthrax record, featuring Phil Anselmo guest vocals, the Pantera-esque groove of 'Catharsis,' and the Tama Starclassic Maple kit before the band's three-year recording hiatus.",
     "seoKeywords": [
       "charlie benante volume 8 drum setup",
       "volume 8 threat is real drums 1998",
@@ -2797,7 +2797,7 @@ export const articles = {
     "ogImage": "/images/albums/volume-8-drums.webp",
     "intro": {
       "title": "John Bush at His Most Aggressive: The End of an Era",
-      "content": "Released July 21, 1998, Volume 8: The Threat Is Real is the eighth Anthrax studio album and the most aggressive record of the John Bush era — a groove-metal record steeped in the heavier, nu-metal-adjacent sound that dominated late-90s metal. Produced by Anthrax alongside touring guitarist Paul Crook (who also handled lead guitar on several tracks) and recorded at Krusty's Fun House in Yonkers, New York, the album leaned into down-tuned, percussive riffing and John Bush's most guttural, aggressive vocal performances to date. Pantera's Phil Anselmo contributed backing vocals to \"Killing Box,\" and Dimebag Darrell returned for guitar solos on \"Inside Out\" and \"Born Again Idiot\" — connections that placed Volume 8 firmly within the same heavy, groove-driven orbit as Pantera's mid-to-late-90s output.\n\nFor Charlie Benante, Volume 8 represents the third and final studio album of the DW Collector's Series chapter that began with Sound of White Noise (1993) and continued through Stomp 442 (1995). The kit, by this point thoroughly battle-tested across three albums and years of touring, was pushed into its heaviest, most percussive configuration yet — supporting an album built around groove and weight rather than thrash speed. \"Catharsis,\" the album's second track, is widely regarded as Volume 8's most accessible and Pantera-esque moment, built around a chugging, mid-tempo groove that rewards exactly the kind of restrained, pocket-focused playing Benante had been refining since 1993.\n\nVolume 8 debuted modestly in the US at #118 on the Billboard 200 but performed strongly in the UK, reaching #2 on the UK Rock & Metal Albums chart and #9 on the UK Independent Albums chart. It also carries one of the most personal moments in the band's catalog: the hidden track \"Pieces,\" written and sung by bassist Frank Bello as a tribute to his brother Anthony, who was murdered in the Bronx in 1996. Volume 8 turned out to be Anthrax's last new studio album for three years — the band would not release another until We've Come for You All in 2003 — making it the closing statement of the band's mid-90s groove-metal phase before the John Bush era's later chapters.\n\nThis article breaks down the kit, cymbals, hardware, and recording approach behind Charlie Benante's heaviest John Bush-era performance — the album that closes the gap between the groove-metal pivot of Sound of White Noise and the eventual Grammy-era return with Worship Music.",
+      "content": "Released July 21, 1998, Volume 8: The Threat Is Real is the eighth Anthrax studio album and the most aggressive record of the John Bush era — a groove-metal record steeped in the heavier, nu-metal-adjacent sound that dominated late-90s metal. Produced by Anthrax alongside touring guitarist Paul Crook (who also handled lead guitar on several tracks) and recorded at Krusty's Fun House in Yonkers, New York, the album leaned into down-tuned, percussive riffing and John Bush's most guttural, aggressive vocal performances to date. Pantera's Phil Anselmo contributed backing vocals to \"Killing Box,\" and Dimebag Darrell returned for guitar solos on \"Inside Out\" and \"Born Again Idiot\" — connections that placed Volume 8 firmly within the same heavy, groove-driven orbit as Pantera's mid-to-late-90s output.\n\nFor Charlie Benante, Volume 8 represents the third studio album on the Tama Starclassic Maple kit he had moved to with Sound of White Noise (1993) and continued through Stomp 442 (1995). The kit, by this point thoroughly battle-tested across three albums and years of touring, was pushed into its heaviest, most percussive configuration yet — supporting an album built around groove and weight rather than thrash speed. \"Catharsis,\" the album's second track, is widely regarded as Volume 8's most accessible and Pantera-esque moment, built around a chugging, mid-tempo groove that rewards exactly the kind of restrained, pocket-focused playing Benante had been refining since 1993.\n\nVolume 8 debuted modestly in the US at #118 on the Billboard 200 but performed strongly in the UK, reaching #2 on the UK Rock & Metal Albums chart and #9 on the UK Independent Albums chart. It also carries one of the most personal moments in the band's catalog: the hidden track \"Pieces,\" written and sung by bassist Frank Bello as a tribute to his brother Anthony, who was murdered in the Bronx in 1996. Volume 8 turned out to be Anthrax's last new studio album for three years — the band would not release another until We've Come for You All in 2003 — making it the closing statement of the band's mid-90s groove-metal phase before the John Bush era's later chapters.\n\nThis article breaks down the kit, cymbals, hardware, and recording approach behind Charlie Benante's heaviest John Bush-era performance — the album that closes the gap between the groove-metal pivot of Sound of White Noise and the eventual Grammy-era return with Worship Music.",
       "keyPoints": [
         "John Bush's most aggressive vocal performance of his Anthrax tenure",
         "Phil Anselmo (Pantera) contributes backing vocals on \"Killing Box\"",
@@ -2808,9 +2808,9 @@ export const articles = {
       ]
     },
     "drumKit": {
-      "title": "The DW Collector's Series at Its Heaviest",
-      "brand": "DW",
-      "model": "DW Collector's Series Maple",
+      "title": "The Tama Starclassic Maple at Its Heaviest",
+      "brand": "Tama",
+      "model": "Tama Starclassic Maple",
       "finish": "Natural maple lacquer",
       "config": {
         "bassdrums": [
@@ -2825,94 +2825,94 @@ export const articles = {
           "16\" x 16\" Floor Tom",
           "18\" x 16\" Floor Tom"
         ],
-        "shells": "Maple shells with True-Pitch tension rods"
+        "shells": "Maple shells with Tama's Star-Cast mounting system"
       },
-      "description": "For Volume 8, Charlie Benante's DW Collector's Series Maple kit reached its heaviest, most percussive configuration of the John Bush era. The third consecutive album on the DW kit, Volume 8 saw the addition of a second floor tom (an 18\" x 16\" alongside the existing 16\" x 16\"), giving Benante a deeper low-end tom option to match the album's down-tuned, groove-driven riffing and the nu-metal-adjacent heaviness that defined tracks like \"Crush\" and \"Hog Tied.\"\n\nThe dual 22\" x 18\" bass drums were tuned for maximum low-end weight, supporting Paul Crook's engineering approach at Krusty's Fun House, which favored a thick, modern low end over the brighter attack of the earlier DW-era albums. On the chugging groove of \"Catharsis,\" the bass drums sit deep in the mix, providing the physical weight that anchors the song's mid-tempo, Pantera-esque pulse.\n\nThe expanded five-piece tom configuration (three rack toms, two floor toms) gave Benante more options for the album's varied arrangements — from the aggressive, percussive fills on \"Killing Box\" to the extended, multi-part structure of the closing \"Stealing from a Thief.\" This was the last Anthrax album to feature this specific DW configuration before Benante's eventual return to Tama in the 2000s.",
+      "description": "For Volume 8, Charlie Benante's Tama Starclassic Maple kit reached its heaviest, most percussive configuration of the John Bush era. The third consecutive album on the Starclassic kit, Volume 8 saw the addition of a second floor tom (an 18\" x 16\" alongside the existing 16\" x 16\"), giving Benante a deeper low-end tom option to match the album's down-tuned, groove-driven riffing and the nu-metal-adjacent heaviness that defined tracks like \"Crush\" and \"Hog Tied.\"\n\nThe dual 22\" x 18\" bass drums were tuned for maximum low-end weight, supporting Paul Crook's engineering approach at Krusty's Fun House, which favored a thick, modern low end over the brighter attack of the earlier records in this era. On the chugging groove of \"Catharsis,\" the bass drums sit deep in the mix, providing the physical weight that anchors the song's mid-tempo, Pantera-esque pulse.\n\nThe expanded five-piece tom configuration (three rack toms, two floor toms) gave Benante more options for the album's varied arrangements — from the aggressive, percussive fills on \"Killing Box\" to the extended, multi-part structure of the closing \"Stealing from a Thief.\" This was the last Anthrax album to feature this specific five-piece configuration before the leaner setup Benante adopted on We've Come for You All (2003).",
       "notes": [
-        "Third and final consecutive Anthrax album on the DW Collector's Series Maple kit",
+        "Third consecutive Anthrax album on the Tama Starclassic Maple kit",
         "Second floor tom (18\" x 16\") added for deeper low-end tom options",
         "Dual 22\" x 18\" bass drums tuned for maximum low-end weight",
         "Five-piece tom configuration supports the album's varied, groove-heavy arrangements",
-        "Final John Bush-era album on this specific DW configuration"
+        "Final John Bush-era album on this specific five-piece configuration"
       ],
-      "estimatedValue": "$4,800-6,800 (1998 DW Collector's Series configuration)"
+      "estimatedValue": "$4,800-6,800 (1998 Tama Starclassic Maple configuration)"
     },
     "snare": {
-      "title": "DW Edge Series: The Heaviest Tuning Yet",
-      "brand": "DW",
-      "model": "DW Edge Series Snare",
+      "title": "Tama Artstar Custom Brass: The Heaviest Tuning Yet",
+      "brand": "Tama",
+      "model": "Tama Artstar Custom Brass Snare",
       "size": "14\" x 6.5\"",
-      "shell": "Solid maple with brass edge rings (hybrid construction)",
-      "description": "Charlie Benante's DW Edge Series snare carried through to Volume 8 for a third consecutive album, but the tuning continued the downward trajectory established on Stomp 442 — lower, fatter, and more weighted toward body than crack. This suited Volume 8's nu-metal-adjacent groove emphasis, where the snare needed to lock into a chugging pocket rather than cut with thrash-era brightness.\n\nOn \"Catharsis,\" the album's most accessible track, the snare's lower tuning gives the backbeat a heavy, deliberate thud that anchors the song's Pantera-esque groove. On the more aggressive \"Killing Box\" — the track featuring Phil Anselmo's backing vocals — the snare still carries enough brass-edge cut to punch through Paul Crook's dense guitar production, even at the lower overall tuning.\n\nThis was the final Anthrax album to feature Benante's DW Edge Series in this specific role; by the time the band returned to recording in the 2000s, his gear had shifted again as part of the broader return to Tama that would culminate in the Worship Music era.",
-      "tuningSetting": "Lowest, fattest tension of the DW era — maximum body for groove-locked playing",
+      "shell": "Seamless cast bell-brass shell",
+      "description": "Charlie Benante's bell-brass snare carried through to Volume 8 for a third consecutive album, but the tuning continued the downward trajectory established on Stomp 442 — lower, fatter, and more weighted toward body than crack. This suited Volume 8's nu-metal-adjacent groove emphasis, where the snare needed to lock into a chugging pocket rather than cut with thrash-era brightness.\n\nOn \"Catharsis,\" the album's most accessible track, the snare's lower tuning gives the backbeat a heavy, deliberate thud that anchors the song's Pantera-esque groove. On the more aggressive \"Killing Box\" — the track featuring Phil Anselmo's backing vocals — the snare still carries enough brass-shell cut to punch through Paul Crook's dense guitar production, even at the lower overall tuning.\n\nThis was the final Anthrax album to feature Benante's Artstar Custom Brass in this specific role; by the time the band returned to recording in the 2000s, he had moved to a brighter steel snare as part of the leaner setup that would culminate in the Worship Music era.",
+      "tuningSetting": "Lowest, fattest tension of the era — maximum body for groove-locked playing",
       "heads": "Remo Coated Ambassador (batter), Remo Ambassador Snare Side (resonant)",
-      "estimatedValue": "$500-750 (1998 DW Edge Series)"
+      "estimatedValue": "$400-600 (1998 era)"
     },
     "cymbals": {
-      "title": "Sabian: The Final DW-Era Cymbal Setup",
-      "brand": "Sabian",
-      "series": "Sabian AA / HH Series",
+      "title": "Paiste: The Third-Album Cymbal Setup",
+      "brand": "Paiste",
+      "series": "Paiste 2002 / Signature",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Sabian 14\" AA Rock Hi-Hats",
+          "model": "Paiste 2002 14\" Sound Edge Hi-Hats",
           "position": "Left side",
           "notes": "Tight, controlled chick for the album's chugging groove patterns"
         },
         {
           "type": "Crash",
-          "model": "Sabian 16\" AA Rock Crash",
+          "model": "Paiste Signature 16\" Fast Crash",
           "position": "Far left",
           "notes": "Quick accent crash for fast transitions"
         },
         {
           "type": "Crash",
-          "model": "Sabian 18\" AA Rock Crash",
+          "model": "Paiste 2002 18\" Medium Crash",
           "position": "Left of toms",
           "notes": "Primary workhorse crash with full body and cut"
         },
         {
           "type": "Crash",
-          "model": "Sabian 19\" AA Rock Crash",
+          "model": "Paiste 2002 20\" Heavy Crash",
           "position": "Right of toms",
           "notes": "Carried over from Stomp 442 for added weight"
         },
         {
           "type": "Ride",
-          "model": "Sabian 21\" AA Rock Ride",
+          "model": "Paiste 2002 22\" Heavy Ride",
           "position": "Far right",
           "notes": "Defined bell and controlled wash for the album's groove-centered ride patterns"
         },
         {
           "type": "China",
-          "model": "Sabian 18\" AA Chinese",
+          "model": "Paiste 2002 18\" China",
           "position": "Above floor tom",
           "notes": "Trashy accent voice for the album's heaviest, most percussive moments"
         }
       ],
-      "description": "Volume 8 closed out Benante's three-album run with the Sabian AA/HH setup he had built since Sound of White Noise, largely unchanged from Stomp 442's expanded configuration. By this point the Sabian relationship was fully established, and the cymbal choices reflect a drummer comfortable with his tools rather than experimenting — every cymbal on Volume 8 had already proven itself across two prior albums and years of touring.\n\nThe 14\" AA Rock Hi-Hats provided the tight, controlled groove pulse that drives \"Catharsis\" and \"Big Fat,\" while the graduated crash lineup (16\", 18\", and 19\" AA Rock) gave Benante the dynamic range to move between the album's quieter, pocket-focused verses and its heaviest, most aggressive choruses. The 18\" AA Chinese remained the go-to accent voice for the album's most percussive, nu-metal-adjacent moments, particularly on tracks like \"Hog Tied\" and \"Alpha Male.\"\n\nThe 21\" AA Rock Ride anchored the extended groove sections that define much of Volume 8's second half, including the sprawling closer \"Stealing from a Thief.\" This was the last Anthrax album to feature this exact Sabian configuration before further refinements in the 2000s.",
-      "estimatedValue": "$1,400-2,000 total (1998 Sabian setup)"
+      "description": "Volume 8 closed out Benante's three-album run with the Paiste setup he had used since Sound of White Noise, largely unchanged from Stomp 442's expanded configuration. By this point the cymbal choices reflect a drummer comfortable with his long-running tools rather than experimenting — every cymbal on Volume 8 had already proven itself across two prior albums and years of touring.\n\nThe 14\" Sound Edge Hi-Hats provided the tight, controlled groove pulse that drives \"Catharsis\" and \"Big Fat,\" while the graduated crash lineup (16\" Signature, 18\", and 20\" 2002) gave Benante the dynamic range to move between the album's quieter, pocket-focused verses and its heaviest, most aggressive choruses. The 18\" 2002 China remained the go-to accent voice for the album's most percussive, nu-metal-adjacent moments, particularly on tracks like \"Hog Tied\" and \"Alpha Male.\"\n\nThe 22\" 2002 Heavy Ride anchored the extended groove sections that define much of Volume 8's second half, including the sprawling closer \"Stealing from a Thief.\" This was the last Anthrax album to feature this exact five-crash configuration before the leaner setup on We've Come for You All.",
+      "estimatedValue": "$1,400-2,000 total (1998 Paiste setup)"
     },
     "hardware": {
-      "title": "DW 5000 Series: The Final Album of This Era",
+      "title": "Tama HP35 Camco: The Final Album of This Era",
       "items": [
         {
           "type": "Bass Drum Pedals",
-          "brand": "DW",
-          "model": "DW 5000 Series Chain-Drive Double Pedal Configuration",
-          "notes": "Two single DW 5000 pedals, carried over from Sound of White Noise and Stomp 442",
-          "description": "Charlie Benante's DW 5000 Series pedals completed their third and final album cycle on Volume 8, having carried over unchanged from Sound of White Noise and Stomp 442. With two independent 22\" bass drums, Benante's setup again used two single 5000 pedals rather than a double-pedal mechanism. By this point the pedals were fully broken in, delivering the consistent, weighted double bass feel that anchors Volume 8's heavier, more groove-centered material — even as the album calls for less constant double bass than the earlier thrash-pioneering records."
+          "brand": "Tama",
+          "model": "Tama HP35 Camco",
+          "notes": "Two single HP35 Camco pedals, carried over from Sound of White Noise and Stomp 442",
+          "description": "Charlie Benante's Tama HP35 Camco pedals completed their third consecutive album cycle on Volume 8, having carried over unchanged from Sound of White Noise and Stomp 442. With two independent 22\" bass drums, Benante's setup again used two single HP35 Camco pedals rather than a double-pedal mechanism. By this point the pedals were well over a decade broken in, delivering the consistent, weighted double bass feel that anchors Volume 8's heavier, more groove-centered material — even as the album calls for less constant double bass than the earlier thrash-pioneering records."
         },
         {
           "type": "Hi-Hat Stand",
-          "brand": "DW",
-          "model": "DW 5500 Hi-Hat Stand",
-          "notes": "Heavy-duty support carried over from the prior two DW-era albums"
+          "brand": "Tama",
+          "model": "Tama Titan Hi-Hat Stand",
+          "notes": "Heavy-duty support carried over from the prior two albums in this era"
         },
         {
           "type": "Throne",
-          "brand": "DW",
-          "model": "DW 5100 Throne",
+          "brand": "Tama",
+          "model": "Tama 1st Chair",
           "notes": "Stable seating for the Krusty's Fun House sessions"
         },
         {
@@ -2930,9 +2930,9 @@ export const articles = {
     },
     "recordingTechniques": {
       "title": "Paul Crook's Heavier, Groove-Focused Production",
-      "content": "Volume 8 was produced by Anthrax together with Paul Crook, who by this point had transitioned from touring guitarist to co-producer and engineer, recording at Krusty's Fun House in Yonkers, New York. Crook's production approach pushed further into the heavier, more compressed low end established on Stomp 442, reflecting the late-90s shift toward nu-metal-adjacent production values across heavy music.\n\n**Kick Drum Approach:**\nThe dual bass drums were tuned and mixed for maximum low-end weight, with a tighter, punchier attack than even the Stomp 442 sessions — supporting the album's down-tuned, groove-driven riffing on tracks like \"Crush\" and \"Hog Tied.\"\n\n**Snare and Groove Focus:**\nThe DW Edge snare's lowest, fattest tuning of the three-album DW era reflects Volume 8's emphasis on pocket and groove over thrash-style brightness — most audible on \"Catharsis,\" where the snare's heavy, deliberate thud anchors the song's Pantera-esque pulse.\n\n**Guest Vocal Integration:**\nPhil Anselmo's backing vocals on \"Killing Box\" required the drum mix to leave room for an additional aggressive vocal layer, resulting in a slightly more controlled cymbal wash on that track compared to the album's more cymbal-heavy moments.\n\n**Overall Aesthetic:**\nCrook's approach favored weight, groove, and modern low-end presence — a production philosophy that closed out the DW Collector's Series era with the heaviest-sounding record of the three.",
+      "content": "Volume 8 was produced by Anthrax together with Paul Crook, who by this point had transitioned from touring guitarist to co-producer and engineer, recording at Krusty's Fun House in Yonkers, New York. Crook's production approach pushed further into the heavier, more compressed low end established on Stomp 442, reflecting the late-90s shift toward nu-metal-adjacent production values across heavy music.\n\n**Kick Drum Approach:**\nThe dual bass drums were tuned and mixed for maximum low-end weight, with a tighter, punchier attack than even the Stomp 442 sessions — supporting the album's down-tuned, groove-driven riffing on tracks like \"Crush\" and \"Hog Tied.\"\n\n**Snare and Groove Focus:**\nThe bell-brass snare's lowest, fattest tuning of the three-album era reflects Volume 8's emphasis on pocket and groove over thrash-style brightness — most audible on \"Catharsis,\" where the snare's heavy, deliberate thud anchors the song's Pantera-esque pulse.\n\n**Guest Vocal Integration:**\nPhil Anselmo's backing vocals on \"Killing Box\" required the drum mix to leave room for an additional aggressive vocal layer, resulting in a slightly more controlled cymbal wash on that track compared to the album's more cymbal-heavy moments.\n\n**Overall Aesthetic:**\nCrook's approach favored weight, groove, and modern low-end presence — a production philosophy that closed out this three-album chapter with the heaviest-sounding record of the three.",
       "keyTechniques": [
-        "Heaviest, most compressed low end of the three-album DW Collector's Series era",
+        "Heaviest, most compressed low end of the three-album Tama Starclassic Maple era",
         "Lowest, fattest snare tuning of the period for groove-locked playing",
         "Controlled cymbal wash to accommodate Phil Anselmo's guest backing vocals on \"Killing Box\"",
         "Production aesthetic aligned with late-90s nu-metal-adjacent heaviness"
@@ -2949,7 +2949,7 @@ export const articles = {
           "Built around a chugging, mid-tempo pocket rather than thrash-speed riffing",
           "Widely cited as one of Volume 8's standout tracks"
         ],
-        "gearNotes": "The lowest-tuned DW Edge snare of the three-album DW era anchors the heavy backbeat, while the dual bass drums sit deep in the mix for maximum groove weight."
+        "gearNotes": "The lowest-tuned bell-brass snare of the three-album era anchors the heavy backbeat, while the dual bass drums sit deep in the mix for maximum groove weight."
       },
       {
         "track": "Killing Box",
@@ -2982,27 +2982,27 @@ export const articles = {
           "Down-tuned, percussive riffing throughout",
           "Showcases the album's nu-metal-adjacent production aesthetic"
         ],
-        "gearNotes": "The tightest, punchiest kick drum sound of the three-album DW era drives the song's percussive verse riffs."
+        "gearNotes": "The tightest, punchiest kick drum sound of the three-album era drives the song's percussive verse riffs."
       }
     ],
     "evolution": {
-      "title": "Closing the DW Collector's Series Chapter",
-      "content": "Volume 8 closes the three-album arc that began with Sound of White Noise's switch to DW in 1993 and continued through Stomp 442's heavier refinement in 1995. By 1998, Charlie Benante's setup had reached its most groove-focused, low-end-weighted configuration: an added second floor tom, the lowest snare tuning of the era, and a fully matured Sabian cymbal lineup. This was the final album of the John Bush era's mid-90s groove-metal phase before Anthrax's three-year recording hiatus and, eventually, Benante's return to Tama for the band's 2000s material.",
+      "title": "Closing the Three-Album Groove-Metal Chapter",
+      "content": "Volume 8 closes the three-album arc that began with Sound of White Noise's move to Tama's Starclassic Maple line in 1993 and continued through Stomp 442's heavier refinement in 1995. By 1998, Charlie Benante's setup had reached its most groove-focused, low-end-weighted configuration: an added second floor tom, the lowest snare tuning of the era, and a fully matured Paiste cymbal lineup. This was the final album of the John Bush era's mid-90s groove-metal phase before Anthrax's three-year recording hiatus.",
       "thenVsNow": [
         {
           "category": "Kit",
-          "then": "DW Collector's Series Maple, four-piece toms (Stomp 442, 1995)",
-          "now": "DW Collector's Series Maple, five-piece toms (Volume 8, 1998)"
+          "then": "Tama Starclassic Maple, four-piece toms (Stomp 442, 1995)",
+          "now": "Tama Starclassic Maple, five-piece toms (Volume 8, 1998)"
         },
         {
           "category": "Snare",
-          "then": "DW Edge Series, lower/fatter tuning",
-          "now": "DW Edge Series, lowest/fattest tuning of the era"
+          "then": "Tama Artstar Custom Brass, lower/fatter tuning",
+          "now": "Tama Artstar Custom Brass, lowest/fattest tuning of the era"
         },
         {
           "category": "Cymbals",
-          "then": "Sabian AA/HH with added 19\" crash",
-          "now": "Sabian AA/HH, unchanged — fully matured setup"
+          "then": "Paiste 2002/Signature with added 20\" crash",
+          "now": "Paiste 2002/Signature, unchanged — fully matured setup"
         },
         {
           "category": "Producer",
@@ -3019,7 +3019,7 @@ export const articles = {
     "faq": [
       {
         "question": "What drum kit did Charlie Benante use on Volume 8: The Threat Is Real?",
-        "answer": "Charlie Benante used his DW Collector's Series Maple kit on Volume 8 (1998) — the same kit introduced on Sound of White Noise (1993) and used through Stomp 442 (1995) — with a second floor tom (18\" x 16\") added for extra low-end weight. The configuration totaled dual 22\" x 18\" bass drums, three rack toms, and two floor toms, tuned for maximum groove weight to match the album's heavier, nu-metal-adjacent production."
+        "answer": "Charlie Benante used his Tama Starclassic Maple kit on Volume 8 (1998) — the same kit introduced on Sound of White Noise (1993) and used through Stomp 442 (1995) — with a second floor tom (18\" x 16\") added for extra low-end weight. The configuration totaled dual 22\" x 18\" bass drums, three rack toms, and two floor toms, tuned for maximum groove weight to match the album's heavier, nu-metal-adjacent production."
       },
       {
         "question": "Did Phil Anselmo really sing on Volume 8?",
@@ -3027,15 +3027,15 @@ export const articles = {
       },
       {
         "question": "What cymbals did Charlie Benante use on Volume 8?",
-        "answer": "Charlie Benante used a Sabian AA/HH setup on Volume 8, carried over largely unchanged from Stomp 442: 14\" AA Rock Hi-Hats, 16\"/18\"/19\" AA Rock Crashes, a 21\" AA Rock Ride, and an 18\" AA Chinese. By 1998, this configuration had been refined across three consecutive albums and represented Benante's fully matured mid-90s Sabian cymbal voice."
+        "answer": "Charlie Benante used a Paiste 2002/Signature setup on Volume 8, carried over largely unchanged from Stomp 442: 14\" Sound Edge Hi-Hats, a 16\" Signature Fast Crash, 18\"/20\" 2002 Crashes, a 22\" 2002 Heavy Ride, and an 18\" 2002 China. By 1998, this configuration had been refined across three consecutive albums and represented Benante's fully matured mid-90s Paiste cymbal voice."
       },
       {
         "question": "Why is 'Catharsis' considered Pantera-esque?",
-        "answer": "\"Catharsis,\" the second track on Volume 8: The Threat Is Real, is built around a chugging, mid-tempo groove rather than thrash-speed riffing — a structural and rhythmic approach closely associated with Pantera's groove-metal style of the era. Co-written by Charlie Benante and Frank Bello, the track is widely cited as one of Volume 8's most accessible moments and showcases Benante's lowest, fattest snare tuning of the three-album DW Collector's Series period, giving the groove its heavy, deliberate weight."
+        "answer": "\"Catharsis,\" the second track on Volume 8: The Threat Is Real, is built around a chugging, mid-tempo groove rather than thrash-speed riffing — a structural and rhythmic approach closely associated with Pantera's groove-metal style of the era. Co-written by Charlie Benante and Frank Bello, the track is widely cited as one of Volume 8's most accessible moments and showcases Benante's lowest, fattest snare tuning of the three-album Starclassic Maple period, giving the groove its heavy, deliberate weight."
       },
       {
         "question": "Was Volume 8 the last Anthrax album before a hiatus?",
-        "answer": "Volume 8: The Threat Is Real (1998) was Anthrax's last new studio album for three years — the band did not release another full album of new material until We've Come for You All in 2003. This makes Volume 8 the closing statement of Anthrax's mid-90s groove-metal phase and the final album to feature Charlie Benante's three-album DW Collector's Series configuration before later gear changes. For the prior chapter, see the [Stomp 442 drum setup article](/articles/stomp-442-drum-setup); for the band's eventual return to a thrash-driven sound, see the [Worship Music drum setup](/articles/worship-music-drum-setup)."
+        "answer": "Volume 8: The Threat Is Real (1998) was Anthrax's last new studio album for three years — the band did not release another full album of new material until We've Come for You All in 2003. This makes Volume 8 the closing statement of Anthrax's mid-90s groove-metal phase and the final album to feature Charlie Benante's three-album Tama Starclassic Maple five-piece configuration before the leaner setup on We've Come for You All. For the prior chapter, see the [Stomp 442 drum setup article](/articles/stomp-442-drum-setup); for the band's eventual return to a thrash-driven sound, see the [Worship Music drum setup](/articles/worship-music-drum-setup)."
       }
     ],
     "relatedAlbums": [
@@ -3058,7 +3058,7 @@ export const articles = {
     "relatedLicks": [],
     "conclusion": {
       "title": "The Closing Chapter of a Groove-Metal Trilogy",
-      "content": "Volume 8: The Threat Is Real closes out the three-album arc that began with Sound of White Noise's groove-metal pivot in 1993 — a trilogy that took Charlie Benante from a thrash-pioneering technician adjusting to a new sound, through Stomp 442's heavier refinement, to Volume 8's fully committed, nu-metal-adjacent heaviness. Guest appearances from both Phil Anselmo and Dimebag Darrell placed the album firmly within the same heavy, groove-driven orbit as Pantera's mid-to-late-90s work, while Frank Bello's deeply personal hidden track \"Pieces\" gave the record an emotional weight beyond its commercial performance.\n\nFor Charlie Benante, Volume 8 represents the final word on his DW Collector's Series era — three albums, five years, and a complete reworking of his thrash-era gear and technique into a groove-focused vocabulary. The three-year silence that followed, and the eventual return to Tama and a more thrash-driven sound on later records, make Volume 8 a clear closing bracket on this chapter of his career.\n\nFor the album that began this groove-metal trilogy, see the [Sound of White Noise drum setup article](/articles/sound-of-white-noise-drum-setup). For the middle chapter, visit the [Stomp 442 drum setup](/articles/stomp-442-drum-setup). For the band's later return to a thrash-driven sound, see [Worship Music drum setup](/articles/worship-music-drum-setup). For Charlie's complete career and gear timeline, see the [Charlie Benante drummer profile](/drummer/charlie-benante) and the [Anthrax band page](/bands/anthrax)."
+      "content": "Volume 8: The Threat Is Real closes out the three-album arc that began with Sound of White Noise's groove-metal pivot in 1993 — a trilogy that took Charlie Benante from a thrash-pioneering technician adjusting to a new sound, through Stomp 442's heavier refinement, to Volume 8's fully committed, nu-metal-adjacent heaviness. Guest appearances from both Phil Anselmo and Dimebag Darrell placed the album firmly within the same heavy, groove-driven orbit as Pantera's mid-to-late-90s work, while Frank Bello's deeply personal hidden track \"Pieces\" gave the record an emotional weight beyond its commercial performance.\n\nFor Charlie Benante, Volume 8 represents the final word on this three-album groove-metal chapter of his career — three albums, five years, and a considered reworking of his tuning and configuration into a groove-focused vocabulary, all while staying on Tama and Paiste throughout. The three-year silence that followed, and the leaner, brighter-tuned setup on later records, make Volume 8 a clear closing bracket on this chapter of his career.\n\nFor the album that began this groove-metal trilogy, see the [Sound of White Noise drum setup article](/articles/sound-of-white-noise-drum-setup). For the middle chapter, visit the [Stomp 442 drum setup](/articles/stomp-442-drum-setup). For the band's later return to a thrash-driven sound, see [Worship Music drum setup](/articles/worship-music-drum-setup). For Charlie's complete career and gear timeline, see the [Charlie Benante drummer profile](/drummer/charlie-benante) and the [Anthrax band page](/bands/anthrax)."
     }
   },
   "weve-come-for-you-all-drum-setup": {
@@ -3078,7 +3078,7 @@ export const articles = {
     "dateModified": "2026-06-30",
     "author": "MetalForge Editorial",
     "title": "Charlie Benante's Drum Setup on Anthrax's We've Come for You All (2003)",
-    "description": "Complete breakdown of Charlie Benante's drum setup on Anthrax's We've Come for You All (2003) — the last John Bush-era studio album, recorded in the shadow of 9/11, featuring Roger Daltrey and Dimebag Darrell guest spots, and the return to Tama and Paiste after a decade on DW and Sabian.",
+    "description": "Complete breakdown of Charlie Benante's drum setup on Anthrax's We've Come for You All (2003) — the last John Bush-era studio album, recorded in the shadow of 9/11, featuring Roger Daltrey and Dimebag Darrell guest spots, and the tightened, brighter-tuned Tama and Paiste rig that pulled the band's sound back toward thrash.",
     "seoKeywords": [
       "charlie benante weve come for you all drum setup",
       "weve come for you all drums 2003",
@@ -3086,25 +3086,25 @@ export const articles = {
       "charlie benante 2003 kit",
       "last john bush era anthrax album",
       "anthrax dimebag darrell roger daltrey guests",
-      "charlie benante tama return",
+      "charlie benante tama starclassic 2003",
       "anthrax post 9/11 album drums"
     ],
     "ogImage": "/images/albums/weve-come-for-you-all-drums.webp",
     "intro": {
       "title": "The Last John Bush Album: Anthrax Comes Back from Silence",
-      "content": "Released May 6, 2003 through Sanctuary Records in North America and Nuclear Blast in Europe, We've Come for You All arrived after Anthrax's longest studio silence — nearly five years since Volume 8: The Threat Is Real (1998). It would turn out to be the final Anthrax studio album to feature John Bush on vocals before the band's eventual return to Joey Belladonna, making it the closing chapter of an era that had run from Sound of White Noise (1993) through three DW-era records and into this leaner, more focused comeback. Recorded across 2001 and 2002 at BearTracks Recording Studio in Suffern, New York, and produced by Anthrax alongside Scrap 60 Productions (guitarist Rob Caggiano, Eddie Wohl, and Steve Regina), the album found the band tightening its songwriting after the nu-metal-adjacent sprawl of Volume 8, while still carrying real-world weight: the band, based in New York, wrote and recorded in the direct aftermath of September 11, 2001, and the 2001 anthrax-letter attacks had briefly made the band's own name a liability the members publicly refused to abandon.\n\nThat tension between resilience and disquiet runs through the record's best-known track, \"What Doesn't Die,\" which uses zombie-apocalypse imagery as a metaphor for the band's own refusal to quit after a decade of commercial and lineup turbulence. The album also carries two of the most unexpected guest spots in Anthrax's catalog: The Who's Roger Daltrey sings on \"Taking the Music Back,\" and Pantera's Dimebag Darrell — making his third consecutive guest appearance on an Anthrax record after Stomp 442 and Volume 8 — contributes guitar to \"Strap It On\" and \"Cadillac Rock Box.\" E-Town Concrete's Anthony Martini adds vocals to \"Refuse to Be Denied.\"\n\nFor Charlie Benante, We've Come for You All marks the end of the DW Collector's Series chapter that had defined his sound since 1993 and a full return to Tama and Paiste — the brands that had carried his thrash-pioneering Among the Living and Persistence of Time performances. After three albums spent adapting his vocabulary to DW's warmer maple shells and a Sabian cymbal wash, Benante came back to the brighter, more cutting voice that had always suited Anthrax's faster material — appropriate for a record that, while still groove-conscious, pulls noticeably back toward thrash tempos and structure compared to Volume 8.\n\nCommercially, We've Come for You All debuted modestly at #122 on the Billboard 200 but performed more strongly overseas, reaching #7 on the UK Independent Albums chart and #10 on the UK Rock & Metal Albums chart, with additional chart placements in Germany (#22) and Japan (#45). The album also earned a nomination for Outstanding Hard Rock Album at the 2004 California Music Awards, losing to Blink-182's self-titled record. Critics were warmer than the chart numbers suggested — Exclaim! called it the strongest John Bush-era effort to date — and the record is now widely regarded as the album that got Anthrax's John Bush years back on track after Volume 8's more divisive reception.\n\nThis article breaks down the kit, cymbals, hardware, and recording approach behind the album that closes the five-year arc between Volume 8 and Worship Music — and the gear transition that quietly set up everything Charlie Benante would play for the next two decades.",
+      "content": "Released May 6, 2003 through Sanctuary Records in North America and Nuclear Blast in Europe, We've Come for You All arrived after Anthrax's longest studio silence — nearly five years since Volume 8: The Threat Is Real (1998). It would turn out to be the final Anthrax studio album to feature John Bush on vocals before the band's eventual return to Joey Belladonna, making it the closing chapter of an era that had run from Sound of White Noise (1993) through Stomp 442 and Volume 8 and into this leaner, more focused comeback. Recorded across 2001 and 2002 at BearTracks Recording Studio in Suffern, New York, and produced by Anthrax alongside Scrap 60 Productions (guitarist Rob Caggiano, Eddie Wohl, and Steve Regina), the album found the band tightening its songwriting after the nu-metal-adjacent sprawl of Volume 8, while still carrying real-world weight: the band, based in New York, wrote and recorded in the direct aftermath of September 11, 2001, and the 2001 anthrax-letter attacks had briefly made the band's own name a liability the members publicly refused to abandon.\n\nThat tension between resilience and disquiet runs through the record's best-known track, \"What Doesn't Die,\" which uses zombie-apocalypse imagery as a metaphor for the band's own refusal to quit after a decade of commercial and lineup turbulence. The album also carries two of the most unexpected guest spots in Anthrax's catalog: The Who's Roger Daltrey sings on \"Taking the Music Back,\" and Pantera's Dimebag Darrell — making his third consecutive guest appearance on an Anthrax record after Stomp 442 and Volume 8 — contributes guitar to \"Strap It On\" and \"Cadillac Rock Box.\" E-Town Concrete's Anthony Martini adds vocals to \"Refuse to Be Denied.\"\n\nFor Charlie Benante, We've Come for You All keeps the same Tama Starclassic Maple kit and Paiste cymbals he'd played since Sound of White Noise (1993) — the same brands that had carried his thrash-pioneering Among the Living and Persistence of Time performances before that. What changed was the tuning and configuration: a leaner tom setup and a brighter, higher-tuned snare voice, pulling the drum sound back toward the cutting, articulate character that had always suited Anthrax's faster material — appropriate for a record that, while still groove-conscious, pulls noticeably back toward thrash tempos and structure compared to Volume 8.\n\nCommercially, We've Come for You All debuted modestly at #122 on the Billboard 200 but performed more strongly overseas, reaching #7 on the UK Independent Albums chart and #10 on the UK Rock & Metal Albums chart, with additional chart placements in Germany (#22) and Japan (#45). The album also earned a nomination for Outstanding Hard Rock Album at the 2004 California Music Awards, losing to Blink-182's self-titled record. Critics were warmer than the chart numbers suggested — Exclaim! called it the strongest John Bush-era effort to date — and the record is now widely regarded as the album that got Anthrax's John Bush years back on track after Volume 8's more divisive reception.\n\nThis article breaks down the kit, cymbals, hardware, and recording approach behind the album that closes the five-year arc between Volume 8 and Worship Music — and the tuning shift that quietly set up everything Charlie Benante would play for the next two decades.",
       "keyPoints": [
         "Anthrax's last new studio album with John Bush on vocals before the eventual Joey Belladonna reunion",
         "Recorded 2001-2002 at BearTracks Recording Studio, Suffern, NY, in the direct aftermath of 9/11 and the anthrax-letter attacks",
         "Roger Daltrey (The Who) sings on \"Taking the Music Back\"; Dimebag Darrell (Pantera) guests on \"Strap It On\" and \"Cadillac Rock Box\"",
         "Produced by Anthrax and Scrap 60 Productions (Rob Caggiano, Eddie Wohl, Steve Regina)",
         "\"What Doesn't Die\" is the album's signature track, using zombie-apocalypse imagery as a metaphor for resilience",
-        "Marks Charlie Benante's full return to Tama and Paiste after a decade on DW and Sabian",
+        "Charlie Benante tightened his tuning and trimmed his tom configuration while staying on the same Tama and Paiste gear",
         "Nominated for Outstanding Hard Rock Album at the 2004 California Music Awards"
       ]
     },
     "drumKit": {
-      "title": "Back to Tama: Closing the DW Chapter",
+      "title": "Tama Starclassic Maple: Trimmed and Tightened",
       "brand": "Tama",
       "model": "Tama Starclassic Maple",
       "finish": "Custom finish",
@@ -3123,12 +3123,12 @@ export const articles = {
         ],
         "shells": "All-maple shells with Star-Cast mounting system"
       },
-      "description": "We've Come for You All marks Charlie Benante's return to Tama after three consecutive studio albums — Sound of White Noise, Stomp 442, and Volume 8 — spent on DW's Collector's Series Maple kit. The Tama Starclassic Maple that replaced it was the same family of kit that had carried Anthrax's classic Among the Living and Persistence of Time records, now updated with Tama's Star-Cast suspension mounting system, which lets each shell ring freely instead of choking at the mounting point.\n\nThe dual 22\" x 18\" bass drums carried over from the DW years unchanged in size — Benante's sustained double bass technique has always depended on two independently tuned 22\" kicks rather than a single kick and double pedal — but the Tama shells produced a brighter, more cutting low end than the DW maple had, better suited to the album's pull back toward thrash tempos on tracks like \"Contact\" and \"Refuse to Be Denied.\" The tom configuration also trimmed down from Volume 8's heavy five-piece, two-floor-tom setup to a leaner three-rack, two-floor arrangement (14\" and 16\"), a deliberate simplification that mirrors the album's tighter, more focused songwriting after Volume 8's sprawl.\n\nThis Starclassic Maple configuration — introduced here, refined over the following decade — is the direct ancestor of the kit Benante would still be playing on Worship Music in 2011 and For All Kings in 2016. We've Come for You All is where that long-running modern setup actually begins.",
+      "description": "We've Come for You All finds Charlie Benante on the same Tama Starclassic Maple kit he had played since Sound of White Noise, Stomp 442, and Volume 8 — the same family of kit that had carried Anthrax's classic Among the Living and Persistence of Time records before that, built around Tama's Star-Cast suspension mounting system, which lets each shell ring freely instead of choking at the mounting point.\n\nThe dual 22\" x 18\" bass drums carried over unchanged in size — Benante's sustained double bass technique has always depended on two independently tuned 22\" kicks rather than a single kick and double pedal — but the shells were tuned brighter and more cutting than on Volume 8, better suited to the album's pull back toward thrash tempos on tracks like \"Contact\" and \"Refuse to Be Denied.\" The tom configuration also trimmed down from Volume 8's heavy five-piece, two-floor-tom setup to a leaner three-rack, two-floor arrangement (14\" and 16\"), a deliberate simplification that mirrors the album's tighter, more focused songwriting after Volume 8's sprawl.\n\nThis leaner Starclassic Maple configuration — refined here, carried forward over the following decade — is the direct ancestor of the kit Benante would still be playing on Worship Music in 2011 and For All Kings in 2016.",
       "notes": [
-        "First Anthrax studio album on Tama since the DW Collector's Series years began with Sound of White Noise (1993)",
-        "Dual 22\" x 18\" bass drums carried over in size from the DW kit, but with a brighter, more cutting Tama low end",
+        "Same Tama Starclassic Maple kit played continuously since Sound of White Noise (1993)",
+        "Dual 22\" x 18\" bass drums, tuned brighter and more cutting than on Volume 8",
         "Tom configuration trimmed from Volume 8's five-piece setup to a leaner three-rack, two-floor (14\"/16\") arrangement",
-        "Star-Cast suspension mounting preserves shell resonance compared to clamped DW mounting hardware",
+        "Star-Cast suspension mounting preserves shell resonance for a brighter, more open tone",
         "Direct ancestor of the Starclassic Maple configuration Benante still plays today"
       ],
       "estimatedValue": "$5,000-7,000 (2003 Starclassic Maple configuration)"
@@ -3139,13 +3139,13 @@ export const articles = {
       "model": "Tama Starclassic Steel Snare",
       "size": "14\" x 6.5\"",
       "shell": "Steel shell with die-cast hoops",
-      "description": "Charlie Benante's snare on We've Come for You All returned to Tama steel after a decade spent on DW's hybrid maple-and-brass Edge Series. This predates the dedicated Tama Charlie Benante Signature snare line that would arrive later in his career, but the configuration — a 14\" x 6.5\" steel shell with die-cast hoops — already carries the bright, cutting voice that the signature model would eventually formalize.\n\nWhere the DW Edge snare had been tuned progressively lower and fatter across Sound of White Noise, Stomp 442, and Volume 8, the Tama steel shell on We've Come for You All snapped back to a higher, more aggressive tension — closer to the thrash-era crack of Among the Living than to Volume 8's groove-locked thud. That shift mirrors the album's overall pull back toward tempo and aggression after Volume 8's heaviest, slowest moments.\n\nOn \"What Doesn't Die\" and \"Refuse to Be Denied,\" the snare sits forward and bright in Scrap 60's mix, cutting through the album's still-down-tuned guitars with a clarity the DW years had deliberately moved away from. The die-cast hoops also held up to the more frequent rimshot work this faster material demanded.",
-      "tuningSetting": "Higher, brighter tension than the DW era — a return toward thrash-era crack",
+      "description": "Charlie Benante's snare on We've Come for You All moved to a Tama steel shell after three albums on the warmer bell-brass snare he had used since Persistence of Time. This predates the dedicated Tama Charlie Benante Signature snare line that would arrive later in his career, but the configuration — a 14\" x 6.5\" steel shell with die-cast hoops — already carries the bright, cutting voice that the signature model would eventually formalize.\n\nWhere the bell-brass snare had been tuned progressively lower and fatter across Sound of White Noise, Stomp 442, and Volume 8, the Tama steel shell on We've Come for You All snapped back to a higher, more aggressive tension — closer to the thrash-era crack of Among the Living than to Volume 8's groove-locked thud. That shift mirrors the album's overall pull back toward tempo and aggression after Volume 8's heaviest, slowest moments.\n\nOn \"What Doesn't Die\" and \"Refuse to Be Denied,\" the snare sits forward and bright in Scrap 60's mix, cutting through the album's still-down-tuned guitars with a clarity the groove-metal years had deliberately moved away from. The die-cast hoops also held up to the more frequent rimshot work this faster material demanded.",
+      "tuningSetting": "Higher, brighter tension than Volume 8 — a return toward thrash-era crack",
       "heads": "Remo Coated Ambassador (batter), Remo Ambassador Snare Side (resonant)",
       "estimatedValue": "$400-550 (2003 Tama Starclassic Steel)"
     },
     "cymbals": {
-      "title": "Paiste Returns: The DW-Era Sabian Setup Retired",
+      "title": "Paiste 2002/RUDE: Brighter and More Cutting",
       "brand": "Paiste",
       "series": "Paiste 2002 / RUDE",
       "setup": [
@@ -3153,7 +3153,7 @@ export const articles = {
           "type": "Hi-Hats",
           "model": "Paiste 2002 14\" Sound Edge Hi-Hats",
           "position": "Left side",
-          "notes": "Returned to the wavy-bottom design Benante used through the thrash-era records"
+          "notes": "The same wavy-bottom design Benante used throughout his career"
         },
         {
           "type": "Crash",
@@ -3177,7 +3177,7 @@ export const articles = {
           "type": "Ride",
           "model": "Paiste 2002 22\" Heavy Ride",
           "position": "Far right",
-          "notes": "Defined bell and controlled wash, replacing the Sabian 21\" AA Rock Ride of the DW years"
+          "notes": "Defined bell and controlled wash for extended ride patterns"
         },
         {
           "type": "China",
@@ -3186,7 +3186,7 @@ export const articles = {
           "notes": "Trashy accent voice for the album's heaviest moments"
         }
       ],
-      "description": "We've Come for You All retired the Sabian AA/HH setup Benante had used since Sound of White Noise and replaced it with the Paiste 2002/RUDE configuration that had defined his thrash-era cymbal voice on Among the Living and Persistence of Time — and that would remain his cymbal brand for the rest of his career. The Paiste 2002 series' brighter, more cutting character suited the album's pull back toward thrash tempo better than Sabian's warmer AA Rock series had suited Volume 8's groove emphasis.\n\nThe 14\" 2002 Sound Edge hi-hats reintroduced the crisp, articulate chick sound that had been a signature of Benante's playing before the DW years, audible throughout \"Contact\" and \"Nobody Knows Anything.\" The crash lineup — 16\" and 18\" 2002 models alongside a 19\" RUDE Crash/Ride — gave Benante the same graduated dynamic range he'd built up on Sabian, now voiced with Paiste's brighter overall character.\n\nThe 22\" 2002 Heavy Ride and 18\" 2002 China closed out a cymbal rig that, in retrospect, is essentially the prototype of the setup Benante would still be using on Worship Music eight years later — this is where the long-running modern Paiste configuration actually starts.",
+      "description": "We've Come for You All kept Charlie Benante on the same Paiste cymbal lineage he had used since Sound of White Noise, Stomp 442, and Volume 8 — the 2002 series that had defined his thrash-era cymbal voice on Among the Living and Persistence of Time — but added a RUDE 19\" Crash/Ride for durability and dropped some of the warmer voicings in favor of a brighter, more cutting lineup that suited the album's pull back toward thrash tempo.\n\nThe 14\" 2002 Sound Edge hi-hats delivered the crisp, articulate chick sound that had been a signature of Benante's playing since the mid-1980s, audible throughout \"Contact\" and \"Nobody Knows Anything.\" The crash lineup — 16\" and 18\" 2002 models alongside the new 19\" RUDE Crash/Ride — gave Benante a graduated dynamic range built for a drummer who hits hard and needs durability under heavy touring.\n\nThe 22\" 2002 Heavy Ride and 18\" 2002 China closed out a cymbal rig that, in retrospect, is essentially the prototype of the setup Benante would still be using on Worship Music eight years later.",
       "estimatedValue": "$1,800-2,400 total (2003 Paiste 2002/RUDE setup)"
     },
     "hardware": {
@@ -3197,25 +3197,25 @@ export const articles = {
           "brand": "Tama",
           "model": "Tama HP35 Camco Chain-Drive Double Pedal Configuration",
           "notes": "Two single HP35 Camco pedals, one per bass drum — unchanged since 1984",
-          "description": "Through the entire DW Collector's Series chapter, Charlie Benante's bass drum pedals never actually left Tama — the HP35 Camco chain-drive pedals he had used since 1984 stayed in his rig even while the rest of his kit was DW and Sabian. We've Come for You All carries that same continuity forward: two single HP35 Camco pedals, one per independent 22\" bass drum, by this point nearly two decades into the longest hardware relationship of Benante's career. The Speed Cobra pedals that would eventually replace the HP35 Camco were still seven years away in 2003 — this album documents the Camco pedals in their mature, fully broken-in form, still delivering the sustained double bass attack that had defined Benante's playing since Among the Living."
+          "description": "Charlie Benante's Tama HP35 Camco pedals never left his rig across the entire Sound of White Noise-through-Volume 8 arc, and We've Come for You All carries that same continuity forward: two single HP35 Camco pedals, one per independent 22\" bass drum, by this point nearly two decades into the longest hardware relationship of Benante's career. The Speed Cobra pedals that would eventually replace the HP35 Camco were still seven years away in 2003 — this album documents the Camco pedals in their mature, fully broken-in form, still delivering the sustained double bass attack that had defined Benante's playing since Among the Living."
         },
         {
           "type": "Hi-Hat Stand",
           "brand": "Tama",
           "model": "Tama Iron Cobra Hi-Hat Stand",
-          "notes": "Heavy-duty stand introduced as part of the return to Tama hardware"
+          "notes": "Heavy-duty stand for the album's precise hi-hat work"
         },
         {
           "type": "Throne",
           "brand": "Tama",
           "model": "Tama 1st Chair",
-          "notes": "Returned to Tama seating alongside the rest of the hardware switch"
+          "notes": "Consistent Tama seating throughout Benante's career"
         },
         {
           "type": "Sticks",
           "brand": "Pro-Mark",
           "model": "Pro-Mark Hickory 2B",
-          "notes": "Carried over from the DW-era albums, predating the later Vic Firth signature partnership"
+          "notes": "Carried over from the earlier groove-metal-era albums, predating the later Vic Firth signature partnership"
         }
       ],
       "heads": {
@@ -3226,9 +3226,9 @@ export const articles = {
     },
     "recordingTechniques": {
       "title": "Scrap 60 Productions at BearTracks",
-      "content": "We've Come for You All was produced by Anthrax together with Scrap 60 Productions — guitarist Rob Caggiano alongside engineers Eddie Wohl and Steve Regina — at BearTracks Recording Studio in Suffern, New York, across 2001 and 2002. Compared to Paul Crook's heavy, compressed Volume 8 sessions, the Scrap 60 approach favored a tighter, more tempo-forward production that let Benante's returning Tama and Paiste gear cut through clearly rather than sitting buried in low end.\n\n**Kick Drum Approach:**\nThe dual 22\" bass drums were captured with a brighter, punchier attack than the DW-era records, matching the Tama shells' more cutting low end and the album's pull back toward faster tempos on tracks like \"Contact\" and \"Refuse to Be Denied.\"\n\n**Snare and Mix Balance:**\nThe Tama steel snare's higher, brighter tuning was placed forward and present in the mix — a deliberate reconnection with the thrash-era snare sound after a decade of progressively lower DW Edge tunings.\n\n**Guest Vocal Integration:**\nRoger Daltrey's vocal feature on \"Taking the Music Back\" and Anthony Martini's guest spot on \"Refuse to Be Denied\" required the drum mix to leave clear space for additional vocal layers, resulting in a slightly more controlled cymbal wash on those two tracks.\n\n**Overall Aesthetic:**\nScrap 60's production favors clarity, tempo, and the bright cut of Benante's returning Tama/Paiste rig — a deliberate break from the warmer, heavier DW-era sound and a clear signpost toward the modern thrash production Jay Ruston would bring to Worship Music eight years later.",
+      "content": "We've Come for You All was produced by Anthrax together with Scrap 60 Productions — guitarist Rob Caggiano alongside engineers Eddie Wohl and Steve Regina — at BearTracks Recording Studio in Suffern, New York, across 2001 and 2002. Compared to Paul Crook's heavy, compressed Volume 8 sessions, the Scrap 60 approach favored a tighter, more tempo-forward production that let Benante's Tama and Paiste gear cut through clearly rather than sitting buried in low end.\n\n**Kick Drum Approach:**\nThe dual 22\" bass drums were captured with a brighter, punchier attack than the Volume 8 sessions, matching the shells' more cutting tuning and the album's pull back toward faster tempos on tracks like \"Contact\" and \"Refuse to Be Denied.\"\n\n**Snare and Mix Balance:**\nThe Tama steel snare's higher, brighter tuning was placed forward and present in the mix — a deliberate reconnection with the thrash-era snare sound after a decade of progressively lower bell-brass tunings.\n\n**Guest Vocal Integration:**\nRoger Daltrey's vocal feature on \"Taking the Music Back\" and Anthony Martini's guest spot on \"Refuse to Be Denied\" required the drum mix to leave clear space for additional vocal layers, resulting in a slightly more controlled cymbal wash on those two tracks.\n\n**Overall Aesthetic:**\nScrap 60's production favors clarity, tempo, and the bright cut of Benante's Tama/Paiste rig — a deliberate break from the warmer, heavier Volume 8 sound and a clear signpost toward the modern thrash production Jay Ruston would bring to Worship Music eight years later.",
       "keyTechniques": [
-        "Brighter, more tempo-forward kick drum sound than the DW-era Volume 8 production",
+        "Brighter, more tempo-forward kick drum sound than the Volume 8 production",
         "Higher, brighter snare tuning reconnects with thrash-era crack",
         "Controlled cymbal wash to accommodate Roger Daltrey and Anthony Martini guest vocal spots",
         "Production aesthetic foreshadows the modern thrash sound of the Worship Music era"
@@ -3245,7 +3245,7 @@ export const articles = {
           "Built around a driving mid-tempo groove rather than thrash-speed riffing",
           "Released as a single in 2004"
         ],
-        "gearNotes": "The brighter Tama steel snare anchors the chorus with the cutting crack the DW Edge snare had moved away from, while the Paiste 2002 hi-hats drive the verse pulse."
+        "gearNotes": "The brighter Tama steel snare anchors the chorus with the cutting crack the bell-brass snare had moved away from, while the Paiste 2002 hi-hats drive the verse pulse."
       },
       {
         "track": "Refuse to Be Denied",
@@ -3282,27 +3282,27 @@ export const articles = {
       }
     ],
     "evolution": {
-      "title": "From Volume 8 to We've Come for You All: Closing the DW Chapter",
-      "content": "We've Come for You All represents the most significant gear shift of Charlie Benante's John Bush era — a full return to Tama and Paiste after a decade spent on DW and Sabian across Sound of White Noise, Stomp 442, and Volume 8. The dual 22\" bass drums and HP35 Camco pedals carried through unchanged, but the shells, snare, and cymbals all switched back to the brands that had defined his thrash-pioneering Among the Living and Persistence of Time performances — setting up the modern Starclassic Maple and Paiste 2002/Signature configuration that Benante would still be playing on Worship Music and For All Kings nearly two decades later.",
+      "title": "From Volume 8 to We've Come for You All: Tightening the Rig",
+      "content": "We've Come for You All represents the most significant tuning and configuration shift of Charlie Benante's John Bush era — a pull back toward the brighter, more cutting sound of Among the Living and Persistence of Time, achieved by tightening tunings and trimming the tom setup rather than changing brands. The dual 22\" bass drums, Tama Starclassic Maple shells, and HP35 Camco pedals carried through unchanged from Sound of White Noise, Stomp 442, and Volume 8, but the tom configuration leaned out and the snare and cymbal voicings brightened — setting up the modern Starclassic Maple and Paiste 2002/Signature configuration that Benante would still be playing on Worship Music and For All Kings nearly two decades later.",
       "thenVsNow": [
         {
           "category": "Kit",
-          "then": "DW Collector's Series Maple, five-piece toms (Volume 8, 1998)",
+          "then": "Tama Starclassic Maple, five-piece toms (Volume 8, 1998)",
           "now": "Tama Starclassic Maple, leaner three-rack/two-floor toms (We've Come for You All, 2003)"
         },
         {
           "category": "Snare",
-          "then": "DW Edge Series 14\" x 6.5\", lowest/fattest tuning of the DW era",
+          "then": "Tama Artstar Custom Brass 14\" x 6.5\", lowest/fattest tuning of the era",
           "now": "Tama Starclassic Steel 14\" x 6.5\", higher/brighter tuning"
         },
         {
           "category": "Cymbals",
-          "then": "Sabian AA/HH Series",
+          "then": "Paiste 2002 / Signature Series",
           "now": "Paiste 2002 / RUDE Series"
         },
         {
           "category": "Pedals",
-          "then": "Tama HP35 Camco (carried through the DW years unchanged)",
+          "then": "Tama HP35 Camco (carried through unchanged)",
           "now": "Tama HP35 Camco (unchanged — still seven years from the Speed Cobra switch)"
         },
         {
@@ -3320,11 +3320,11 @@ export const articles = {
     "faq": [
       {
         "question": "What drum kit did Charlie Benante use on We've Come for You All?",
-        "answer": "Charlie Benante used a Tama Starclassic Maple kit on We've Come for You All (2003) — dual 22\" x 18\" bass drums, three rack toms (10\", 12\", 13\"), and two floor toms (14\" and 16\") with all-maple shells and Tama's Star-Cast suspension mounting. This marked his return to Tama after three consecutive studio albums (Sound of White Noise, Stomp 442, Volume 8) on DW's Collector's Series Maple kit, and it's the direct ancestor of the Starclassic Maple configuration he still plays today."
+        "answer": "Charlie Benante used a Tama Starclassic Maple kit on We've Come for You All (2003) — dual 22\" x 18\" bass drums, three rack toms (10\", 12\", 13\"), and two floor toms (14\" and 16\") with all-maple shells and Tama's Star-Cast suspension mounting. This was the same kit he had played since Sound of White Noise, Stomp 442, and Volume 8, now trimmed from Volume 8's five-piece tom setup to a leaner configuration, and it's the direct ancestor of the Starclassic Maple configuration he still plays today."
       },
       {
         "question": "How does We've Come for You All compare to Sound of White Noise drum-wise?",
-        "answer": "The two albums sit on opposite ends of Charlie Benante's DW Collector's Series chapter. Sound of White Noise (1993) marked his switch away from Tama and Sabian into DW and Sabian for a warmer, room-heavy groove-metal sound. We've Come for You All (2003) closes that chapter and returns fully to Tama (Starclassic Maple) and Paiste (2002/RUDE) — brighter, more cutting tones that pull the album's drum sound back toward the thrash-era voice of Among the Living, even as the songwriting remains groove-conscious. For the album that started the DW chapter, see the [Sound of White Noise drum setup article](/articles/sound-of-white-noise-drum-setup)."
+        "answer": "The two albums sit on opposite ends of the same Tama Starclassic Maple and Paiste era. Sound of White Noise (1993) introduced the Starclassic Maple shells and a warmer, room-heavy groove-metal sound. We've Come for You All (2003) stays on the same Tama (Starclassic Maple) and Paiste (2002/RUDE) gear but tunes and configures it for brighter, more cutting tones that pull the album's drum sound back toward the thrash-era voice of Among the Living, even as the songwriting remains groove-conscious. For the album that started this chapter, see the [Sound of White Noise drum setup article](/articles/sound-of-white-noise-drum-setup)."
       },
       {
         "question": "Did Roger Daltrey and Dimebag Darrell really appear on We've Come for You All?",
@@ -3336,7 +3336,7 @@ export const articles = {
       },
       {
         "question": "Was We've Come for You All the last Anthrax album with John Bush?",
-        "answer": "Yes. We've Come for You All (2003) was the final Anthrax studio album to feature John Bush on lead vocals before the band's eventual reunion with original singer Joey Belladonna, whose return is documented on the Worship Music drum setup. For Charlie Benante, it also closes the five-year gap between Volume 8 (1998) and Worship Music (2011) and the gear transition — DW back to Tama, Sabian back to Paiste — that defined his sound for the following two decades. For the prior chapter, see the [Volume 8 drum setup article](/articles/volume-8-drum-setup); for the band's eventual return with Joey Belladonna, see [Worship Music drum setup](/articles/worship-music-drum-setup)."
+        "answer": "Yes. We've Come for You All (2003) was the final Anthrax studio album to feature John Bush on lead vocals before the band's eventual reunion with original singer Joey Belladonna, whose return is documented on the Worship Music drum setup. For Charlie Benante, it also closes the five-year gap between Volume 8 (1998) and Worship Music (2011) and the tuning shift — a brighter, tighter Tama and Paiste rig — that defined his sound for the following two decades. For the prior chapter, see the [Volume 8 drum setup article](/articles/volume-8-drum-setup); for the band's eventual return with Joey Belladonna, see [Worship Music drum setup](/articles/worship-music-drum-setup)."
       }
     ],
     "relatedAlbums": [
@@ -3360,7 +3360,7 @@ export const articles = {
     "relatedLicks": [],
     "conclusion": {
       "title": "The Bridge Back to Thrash",
-      "content": "We've Come for You All rarely gets mentioned alongside Among the Living or Worship Music in conversations about Charlie Benante's defining records, but it occupies a critical hinge point in his career. Written and recorded in the unsettled years following 9/11 — a period that briefly made the band's own name a liability — the album found Anthrax tightening its songwriting after Volume 8's sprawl and closing out the final chapter of the John Bush era with guest spots from Roger Daltrey and a third consecutive Dimebag Darrell appearance.\n\nFor Charlie Benante, the album marks the quiet end of the DW Collector's Series years and a full return to Tama and Paiste — the brands that would carry him through Worship Music, For All Kings, and the Pantera reunion tour two decades later. The Starclassic Maple kit, the brighter steel snare, and the Paiste 2002/RUDE cymbal setup introduced here aren't a one-off; they're the prototype of the modern Benante rig.\n\nFor the prior chapter in the DW years, see the [Volume 8 drum setup article](/articles/volume-8-drum-setup). For the thrash-era foundation this album reconnects with, see [Among the Living drum setup](/articles/charlie-benante-among-the-living-drum-setup). For the next studio chapter, see the [Worship Music drum setup](/articles/worship-music-drum-setup). For Charlie's complete career and gear timeline, see the [Charlie Benante drummer profile](/drummer/charlie-benante) and the [Anthrax band page](/bands/anthrax)."
+      "content": "We've Come for You All rarely gets mentioned alongside Among the Living or Worship Music in conversations about Charlie Benante's defining records, but it occupies a critical hinge point in his career. Written and recorded in the unsettled years following 9/11 — a period that briefly made the band's own name a liability — the album found Anthrax tightening its songwriting after Volume 8's sprawl and closing out the final chapter of the John Bush era with guest spots from Roger Daltrey and a third consecutive Dimebag Darrell appearance.\n\nFor Charlie Benante, the album marks the tuning and configuration pivot that pulled his sound back toward the brighter, more cutting voice of the thrash years — the same Tama Starclassic Maple kit and Paiste cymbals that would carry him through Worship Music, For All Kings, and the Pantera reunion tour two decades later. The trimmed tom setup, the brighter steel snare, and the Paiste 2002/RUDE cymbal setup introduced here aren't a one-off; they're the prototype of the modern Benante rig.\n\nFor the prior chapter, see the [Volume 8 drum setup article](/articles/volume-8-drum-setup). For the thrash-era foundation this album reconnects with, see [Among the Living drum setup](/articles/charlie-benante-among-the-living-drum-setup). For the next studio chapter, see the [Worship Music drum setup](/articles/worship-music-drum-setup). For Charlie's complete career and gear timeline, see the [Charlie Benante drummer profile](/drummer/charlie-benante) and the [Anthrax band page](/bands/anthrax)."
     }
   }
 };

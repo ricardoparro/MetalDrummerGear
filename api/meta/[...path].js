@@ -3947,6 +3947,9 @@ export function getMetaForPath(pathname) {
       return {
         title: `${gear.fullName} — ${drummer.name}'s Signature ${gear.gearType} | ${SITE_NAME}`,
         description: `${gear.hero.tagline}. Full specs, story, and pricing for ${drummer.name}'s ${gear.name} (${gear.model}).`,
+        // Issue #6073: gear.hero.subtitle reached Product JSON-LD description
+        // but was never rendered in the visible body — leadFact prints it under the h1.
+        leadFact: gear.hero.subtitle,
         image: gear.seo?.ogImage || gear.hero?.heroImage || drummer.image || `${BASE_URL}/images/og/default.png`,
         type: 'website',
         url: `${BASE_URL}/drummers/${drummerSlug}/signature/${gearSlug}`,

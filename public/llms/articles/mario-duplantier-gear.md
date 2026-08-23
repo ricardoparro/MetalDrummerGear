@@ -1,6 +1,6 @@
 # Mario Duplantier's Drum Kit & Gear Setup — Gojira's Sound Explained
 
-> Complete breakdown of Mario Duplantier's drum gear. Discover his current Sonor kit, Meinl cymbal arsenal, Ahead drumheads, and the setup behind Gojira's crushing progressive death metal sound — from 'Flying Whales' to 'Fortitude'.
+> Complete breakdown of Mario Duplantier's drum gear. Discover his current Tama Starclassic Bubinga kit, Meinl cymbal arsenal, Ahead drumheads, and the setup behind Gojira's crushing progressive death metal sound — from 'Flying Whales' to 'Fortitude'.
 
 **Type:** Kit Breakdown
 **Drummer(s):** [Mario Duplantier](/llms/drummers/mario-duplantier.md)
@@ -13,32 +13,32 @@ Mario Duplantier's gear is the foundation of one of the most distinctive drum so
 
 Born June 19, 1981, in Ondres, France, Mario co-founded Gojira (originally Godzilla) with his brother Joe in 1996. From their earliest recordings through Grammy-nominated releases like "Fortitude" and "Magma," the gear powering Mario's playing has evolved to meet Gojira's growing ambition — from regional French metal acts to headlining Download Festival and opening for Metallica in stadiums worldwide.
 
-Mario's current setup is built around Sonor drums, Meinl cymbals, and Ahead drumheads — a combination chosen for projection, tonal complexity, and the durability demanded by Gojira's relentless touring schedule. This article breaks down every element of that setup, traces how his gear has changed across Gojira's catalog, and explains exactly how it contributes to the drum sound on tracks like "Flying Whales," "Silvera," and "Stranded."
+Mario's current setup is built around Tama drums, Meinl cymbals, and Ahead drumheads — a combination chosen for projection, tonal complexity, and the durability demanded by Gojira's relentless touring schedule. This article breaks down every element of that setup, traces how his gear has changed across Gojira's catalog, and explains exactly how it contributes to the drum sound on tracks like "Flying Whales," "Silvera," and "Stranded."
 
 ## Gear Breakdown
 
-- **Drums:** Sonor Sonor SQ2 (Custom (varies by tour) finish)
-- **Snare:** Sonor Sonor SQ2 Snare, 14" x 6.5"
+- **Drums:** Tama Starclassic Bubinga
+- **Snare:** Tama S.L.P. 14" x 6.5" G-Maple
 - **Cymbals:** Meinl — Meinl Byzance
 - **Hardware / Pedals:** Tama Iron Cobra 900 Power Glide; Tama Iron Cobra Lever Glide Hi-Hat Stand; Tama Mario Duplantier Signature Sticks; Tama 1st Chair Ergo-Rider Throne
 - **Heads:** Ahead drumhead (batter), standard resonant head (resonant)
 - **Snare tuning:** Medium-high for definition and cut through dense guitar arrangements
 
-### Mario's Sonor Kit: Precision for Progressive Death Metal
+### Mario's Tama Kit: Precision for Progressive Death Metal
 
-Sonor's reputation for precision engineering makes their drums an ideal match for Mario Duplantier's exacting requirements. The SQ2 (Super Quality 2) series offers fully customizable shell configurations — shell material, depth, diameter, finish, and hardware can all be specified to the drummer's exact needs. For Mario, this means a kit tuned to Gojira's sonic identity rather than an off-the-shelf compromise.
+Tama's Starclassic Bubinga line makes an ideal match for Mario Duplantier's exacting requirements. The dense bubinga shells deliver focused low-end and strong projection, giving Mario a kit tuned to Gojira's sonic identity rather than an off-the-shelf compromise.
 
 The dual 22" x 18" bass drum configuration is one of the most recognizable aspects of Mario's stage setup. Two independent kicks — rather than a single drum with a double pedal — give him independent resonance from each shell, a visual statement that matches Gojira's cinematic stage production, and the physical experience of playing two separate instruments. The physical separation matters: each foot drives its own beater into its own drum with its own head tension, creating a subtly different feel and tone that Mario exploits for groove variation in tracks like "Flying Whales" and "The Art of Dying."
 
 The three rack toms (10", 12", 13") provide a focused melodic range suited to Gojira's signature tribal fills. The two floor toms (16" and 18") anchor the low end on heavy breakdown sections. Together, the configuration spans the full tonal range Mario needs for Gojira's dynamic compositions — from intimate atmospheric passages to full-kit explosions.
 
-Sonor's shell construction, combining maple and beech layers in the SQ2, delivers the projection needed for stadium and festival stages while maintaining the warmth and fundamental tone that distinguishes great-sounding drums from merely loud ones.
+Bubinga's dense hardwood shell construction delivers the projection needed for stadium and festival stages while maintaining the warmth and fundamental tone that distinguishes great-sounding drums from merely loud ones.
 
 ### The Snare That Cuts Through Gojira
 
 Mario's snare must accomplish a demanding dual function within Gojira's mix: cut cleanly through Joe Duplantier's notoriously powerful, tuned-down guitar tones while retaining the sensitivity needed for ghost note embellishments in more atmospheric sections.
 
-The Sonor SQ2 snare — matching the shell material of the main kit — delivers this through a combination of precise shell construction and Mario's medium-high tuning approach. Tuned for crack rather than body, the drum has the definition to register every rimshot over Gojira's dense guitar walls without becoming papery or thin.
+The Tama S.L.P. G-Maple snare — matched to the main kit — delivers this through a combination of precise shell construction and Mario's medium-high tuning approach. Tuned for crack rather than body, the drum has the definition to register every rimshot over Gojira's dense guitar walls without becoming papery or thin.
 
 At 14" x 6.5", the drum has enough depth to produce body and resonance even at higher tensions, preventing the snare from sounding brittle during the blast beat sections of tracks like "Backbone" or "Stranded." The Ahead drumhead on the batter side provides the attack response Mario's powerful stroke demands, with a surface that remains consistent across the long sets Gojira plays at major festivals.
 
@@ -58,25 +58,24 @@ The 18" China provides the aggressive, trashy accent that punctuates Gojira's he
 
 ## Key Facts
 
-- Current drums: Sonor (current endorsement)
+- Current drums: Tama Starclassic Bubinga (current endorsement)
 - Current cymbals: Meinl Byzance series
 - Drumheads: Ahead drumheads
 - Dual bass drums for visual impact and independent resonance
 - Co-founded Gojira in 1996 with brother Joe
 - Grammy-nominated for "Amazonia" and "Fortitude" performances
-- SQ2 series allows full custom specification per drummer need
 - Dual bass drums for independent resonance and visual impact
 - Tom configuration optimized for tribal and melodic fill patterns
-- Maple/Beech shells balance warmth and projection for large venues
+- Bubinga shells balance warmth and projection for large venues
 - Kit tuning kept lower for maximum weight in Gojira's dense mix
-- Estimated kit value: $10,000–18,000 (Sonor SQ2 custom configuration)
-- Estimated snare value: $600–1,200 (Sonor SQ2 custom snare)
+- Estimated kit value: $10,000–18,000 (Tama Starclassic Bubinga configuration)
+- Estimated snare value: $600–1,200 (Tama S.L.P. G-Maple snare)
 
 ## Frequently Asked Questions
 
 **Q: What drums does Mario Duplantier use?**
 
-A: Mario Duplantier currently plays Sonor drums — specifically the SQ2 custom series — for both touring and recording with Gojira. His current configuration features dual 22" x 18" bass drums (played independently, not as a double pedal), three rack toms (10", 12", 13"), and two floor toms (16" and 18"). Earlier in his career he was associated with Tama Starclassic Bubinga drums, the setup used on landmark Gojira albums including The Way of All Flesh, L'Enfant Sauvage, and Magma.
+A: Mario Duplantier currently plays a Tama Starclassic Bubinga kit for both touring and recording with Gojira. His current configuration features dual 22" x 18" bass drums (played independently, not as a double pedal), three rack toms (10", 12", 13"), and two floor toms (16" and 18"). Earlier in his career he was associated with Gretsch USA Custom drums, the setup used on landmark Gojira albums including From Mars to Sirius, The Way of All Flesh, and L'Enfant Sauvage.
 
 **Q: What cymbals does Mario Duplantier use?**
 
@@ -84,11 +83,11 @@ A: Mario Duplantier currently endorses and plays Meinl cymbals, using the Byzanc
 
 **Q: How is Gojira's drum sound achieved?**
 
-A: Gojira's drum sound is a product of both Mario Duplantier's gear choices and the band's self-produced recording approach. Mario uses Sonor drums with Ahead drumheads and Meinl Byzance cymbals; the kit is recorded by Joe Duplantier at their Silver Chord Studio in New York using close-miked shells, minimal processing, and a mix philosophy that places drums physically at the center of the arrangement. The Sonor shells' projection and the Byzance cymbals' dark complexity complement Joe's guitar tone. Equally important is Mario's playing approach: independent dual bass drums, tribal tom patterns, and dynamic control across the full spectrum from near-silence to full-kit assault.
+A: Gojira's drum sound is a product of both Mario Duplantier's gear choices and the band's self-produced recording approach. Mario uses a Tama Starclassic Bubinga kit with Ahead drumheads and Meinl Byzance cymbals; the kit is recorded by Joe Duplantier at their Silver Chord Studio in New York using close-miked shells, minimal processing, and a mix philosophy that places drums physically at the center of the arrangement. The bubinga shells' projection and the Byzance cymbals' dark complexity complement Joe's guitar tone. Equally important is Mario's playing approach: independent dual bass drums, tribal tom patterns, and dynamic control across the full spectrum from near-silence to full-kit assault.
 
 **Q: What drumheads does Mario Duplantier use?**
 
-A: Mario Duplantier currently uses Ahead drumheads on his Sonor kit. Ahead drumheads are selected for their attack response and consistency under heavy playing conditions — qualities essential for the long headline sets Gojira plays at major festivals. In his earlier Tama period, Mario used Remo Emperor and Ambassador heads on the batter and resonant sides respectively.
+A: Mario Duplantier currently uses Ahead drumheads on his Tama Starclassic Bubinga kit. Ahead drumheads are selected for their attack response and consistency under heavy playing conditions — qualities essential for the long headline sets Gojira plays at major festivals. In his earlier Gretsch period, Mario used Remo Emperor and Ambassador heads on the batter and resonant sides respectively.
 
 **Q: What sticks does Mario Duplantier play?**
 

@@ -1522,10 +1522,10 @@ Mario Duplantier's 2001 setup behind Gojira's (then Godzilla) debut Terra Incogn
 
 ### Magma / Fortitude Era (2016–present)
 
-- **Kit:** Sonor SQ2 — fully custom maple/beech shells, dual 22"x18" kicks, 10"/12"/13"/16"/18" toms
-- **Snare:** Sonor SQ2 14"x6.5" custom maple
+- **Kit:** Tama Starclassic Bubinga — bubinga shells, dual 22"x18" kicks, 10"/12"/13"/16"/18" toms
+- **Snare:** Tama S.L.P. 14"x6.5" G-Maple
 - **Cymbals:** Meinl Byzance (continued) — 14" Traditional hi-hats, 17"/18"/19" crashes, 21" Vintage ride, 18" China
-- **Notable:** Gojira reached global headliner status in this era — headlining Download Festival, supporting Metallica at stadiums on the M72 World Tour, and performing at the Paris Olympics 2024 opening ceremony. Fortitude (2021) earned a Grammy nomination. The Sonor SQ2 is Mario's most personal and refined kit to date.
+- **Notable:** Gojira reached global headliner status in this era — headlining Download Festival, supporting Metallica at stadiums on the M72 World Tour, and performing at the Paris Olympics 2024 opening ceremony. Fortitude (2021) earned a Grammy nomination. The Tama Starclassic Bubinga is Mario's most personal and refined kit to date.
 
 **Sources:**
 - Pearl Export Series Catalog (2001)

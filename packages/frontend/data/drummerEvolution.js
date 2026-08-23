@@ -4385,7 +4385,7 @@ export const DRUMMER_EVOLUTION = {
     band: 'Gojira',
     totalYearsActive: '1996-Present',
     profileImage: '/images/drummers/mario-duplantier.webp',
-    summary: 'From budget kits in Bayonne basements to Sonor SQ2 rigs on stadium stages, Mario Duplantier\'s gear evolution mirrors Gojira\'s ascent from French underground to progressive death metal headliners — always in service of a drumming vocabulary unlike anyone else in metal.',
+    summary: 'From budget kits in Bayonne basements to Tama Starclassic Bubinga rigs on stadium stages, Mario Duplantier\'s gear evolution mirrors Gojira\'s ascent from French underground to progressive death metal headliners — always in service of a drumming vocabulary unlike anyone else in metal.',
 
     eras: [
       {
@@ -4606,22 +4606,22 @@ export const DRUMMER_EVOLUTION = {
         years: '2016–Present',
         startYear: 2016,
         endYear: 2026,
-        description: 'The modern era. Gojira reached global headliner status — opening for Metallica at stadiums, headlining Download Festival, performing at the Paris Olympics opening ceremony. Mario\'s Sonor SQ2 rig is the most refined and visually striking of his career.',
+        description: 'The modern era. Gojira reached global headliner status — opening for Metallica at stadiums, headlining Download Festival, performing at the Paris Olympics opening ceremony. Mario\'s Tama Starclassic Bubinga rig is the most refined and visually striking of his career.',
         albums: ['Magma (2016)', 'Fortitude (2021)'],
         tours: ['Magma World Tour', 'Fortitude World Tour', 'Metallica M72 World Tour (support)'],
         image: null,
 
         gear: {
           drums: {
-            item: 'Sonor SQ2',
-            details: 'Custom maple/beech shells: dual 22"×18" kicks, 10"/12"/13"/16"/18" toms',
-            notes: 'Switch to Sonor SQ2 — fully custom specification per shell. Maple/beech hybrid delivers the projection for stadiums while retaining warmth. The SQ2 became Mario\'s most iconic kit.',
+            item: 'Tama Starclassic Bubinga',
+            details: 'Bubinga shells: dual 22"×18" kicks, 10"/12"/13"/16"/18" toms',
+            notes: 'Switch to Tama Starclassic Bubinga. The exotic bubinga shells deliver added density and projection for stadiums while retaining warmth. The Starclassic Bubinga became Mario\'s most iconic kit.',
             change: CHANGE_TYPES.SWITCH,
           },
           snare: {
-            item: 'Sonor SQ2 14"×6.5"',
-            details: 'Custom maple shell, matching the main kit',
-            notes: 'Matched SQ2 snare for consistent tonal character. The deeper shell provides body and crack in the dense Gojira studio and live mix.',
+            item: 'Tama S.L.P. 14"×6.5" G-Maple',
+            details: 'G-Maple shell, matching the main kit',
+            notes: 'Switched to the Tama S.L.P. G-Maple snare alongside the Starclassic Bubinga kit. The deeper shell provides body and crack in the dense Gojira studio and live mix.',
             change: CHANGE_TYPES.SWITCH,
           },
           cymbals: {
@@ -4663,24 +4663,19 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
-          'Switch to Sonor SQ2 custom kit',
+          'Switch to Tama Starclassic Bubinga kit',
           'Tama Iron Cobra 900 Power Glide double pedal',
           'Tama Mario Duplantier Signature sticks launched',
           'Gojira headline Download Festival and support Metallica at stadiums',
           'Fortitude (2021) — Grammy nomination; Paris Olympics 2024 performance',
         ],
 
-        quote: {
-          text: "The SQ2 is the most personal kit I\'ve ever played. Every dimension was chosen for what I do. There\'s nothing accidental about any of it.",
-          source: 'Sonor Artist Profile, 2017',
-        },
-
         videos: [],
       },
     ],
 
     metaTitle: 'Mario Duplantier Gear Evolution Timeline | Gojira Drum Kit History',
-    metaDescription: 'Explore Mario Duplantier\'s complete drum gear evolution from Terra Incognita to Fortitude. Pearl Export to Sonor SQ2 — every kit, every era of Gojira\'s drumming documented.',
+    metaDescription: 'Explore Mario Duplantier\'s complete drum gear evolution from Terra Incognita to Fortitude. Pearl Export to Tama Starclassic Bubinga — every kit, every era of Gojira\'s drumming documented.',
   },
 
   // ==========================================

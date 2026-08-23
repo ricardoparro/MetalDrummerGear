@@ -592,6 +592,22 @@ function escapeHtml(str) {
     .replace(/'/g, '&#039;');
 }
 
+// Issue #6070: extendedBios.js prose (overview/styleAndInfluences/gearHighlights)
+// is authored as markdown-ish text (blank-line paragraphs, "**bold**", "- " bullet
+// lines). Strip the markdown syntax and render as escaped <p> blocks with <br>
+// between lines within a paragraph, so the same strings that already reach
+// JSON-LD's articleBody also become crawlable visible body text.
+function renderBioParagraphs(content) {
+  if (!content) return '';
+  return content
+    .replace(/\*\*/g, '')
+    .split(/\n{2,}/)
+    .map(para => para.split('\n').map(line => escapeHtml(line.trim())).filter(Boolean).join('<br>'))
+    .filter(Boolean)
+    .map(para => `<p>${para}</p>`)
+    .join('');
+}
+
 // Helper: Extract an 11-char YouTube video ID from a watch/short URL (techniques.js
 // stores full URLs, unlike the lick data which stores youtubeId directly).
 function extractYouTubeId(url) {
@@ -4069,6 +4085,16 @@ export function getMetaForPath(pathname) {
           href: `/articles/${a.slug}`,
           label: a.title,
         })) : null,
+        // Issue #6070: extendedBios career highlights/style/gear prose reached
+        // JSON-LD's Article.articleBody (#4635) but never the visible body —
+        // additive-only section, rendered by generateMetaHtml via renderBioParagraphs.
+        bioSections: extBio ? {
+          name: drummer.name,
+          overview: extBio.sections.overview?.content,
+          careerHighlights: extBio.sections.careerHighlights?.items,
+          styleAndInfluences: extBio.sections.styleAndInfluences?.content,
+          gearHighlights: extBio.sections.gearHighlights?.content,
+        } : null,
         // Issue #1659: Person + FAQPage + MusicGroup JSON-LD for SSR crawler visibility
         articleSchema: JSON.stringify({
           '@context': 'https://schema.org',
@@ -6103,6 +6129,16 @@ export function getMetaForPath(pathname) {
         quickFacts,
         quickFactsName: drummer.name,
         faqDisplayItems,
+        // Issue #6070: extendedBios career highlights/style/gear prose reached
+        // JSON-LD's Article.articleBody (#4635) but never the visible body —
+        // additive-only section, rendered by generateMetaHtml via renderBioParagraphs.
+        bioSections: extBio ? {
+          name: drummer.name,
+          overview: extBio.sections.overview?.content,
+          careerHighlights: extBio.sections.careerHighlights?.items,
+          styleAndInfluences: extBio.sections.styleAndInfluences?.content,
+          gearHighlights: extBio.sections.gearHighlights?.content,
+        } : null,
         speakableSchema: true,
         speakableCssSelector: ['h1', 'h2', 'p'],
         breadcrumbSchema: [
@@ -8195,6 +8231,15 @@ export function generateMetaHtml(meta, originalUrl) {
           ${meta.quickFacts.map(f => `<tr><th scope="row">${escapeHtml(f.label)}</th><td>${escapeHtml(f.value)}</td></tr>`).join('')}
         </tbody>
       </table>
+    </section>` : ''}
+    ${meta.bioSections ? `
+    <section>
+      ${meta.bioSections.overview ? `<h2>${escapeHtml(meta.bioSections.name)} Biography</h2>${renderBioParagraphs(meta.bioSections.overview)}` : ''}
+      ${meta.bioSections.careerHighlights && meta.bioSections.careerHighlights.length > 0 ? `
+      <h2>Career Highlights</h2>
+      <ul>${meta.bioSections.careerHighlights.map(i => `<li>${escapeHtml(i.year)}: ${escapeHtml(i.event)}</li>`).join('')}</ul>` : ''}
+      ${meta.bioSections.styleAndInfluences ? `<h2>Style &amp; Influences</h2>${renderBioParagraphs(meta.bioSections.styleAndInfluences)}` : ''}
+      ${meta.bioSections.gearHighlights ? `<h2>Gear Highlights</h2>${renderBioParagraphs(meta.bioSections.gearHighlights)}` : ''}
     </section>` : ''}
     ${meta.tables && meta.tables.length > 0 ? meta.tables.map(t => `
     <section>

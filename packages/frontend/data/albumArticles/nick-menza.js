@@ -37,44 +37,41 @@ export const articles = {
       ]
     },
     "drumKit": {
-      "title": "Menza's Arsenal: The Tama Artstar II",
+      "title": "Menza's Arsenal: The Tama Swingstar",
       "brand": "Tama",
-      "model": "Tama Artstar II",
-      "finish": "Midnight Blue",
+      "model": "Tama Swingstar 5-piece",
       "config": {
         "bassdrums": [
-          "22\" x 16\" Bass Drum (x2)"
+          "22\" x 16\" Bass Drum"
         ],
         "toms": [
-          "10\" x 10\" Rack Tom",
-          "12\" x 11\" Rack Tom",
-          "13\" x 12\" Rack Tom"
+          "12\" x 10\" Rack Tom",
+          "13\" x 11\" Rack Tom"
         ],
         "floorToms": [
-          "16\" x 16\" Floor Tom",
-          "18\" x 18\" Floor Tom"
+          "16\" x 16\" Floor Tom"
         ],
-        "shells": "Birch shells with die-cast hoops"
+        "shells": "Poplar shells"
       },
-      "description": "For Rust in Peace, Nick Menza used a Tama Artstar II kit in Midnight Blue finish. The Artstar II series represented Tama's professional offering, featuring birch shells known for their focused attack and clear projection — essential qualities for the complex arrangements Dave Mustaine was composing.\n\nThe double bass drum setup was non-negotiable for Megadeth's music. Unlike some thrash drummers who could achieve their sound with a double pedal on a single drum, Menza required two 22\" bass drums to execute the sustained passages on tracks like \"Holy Wars\" and \"Take No Prisoners.\" The independent drums provided consistent attack and tone across extended double bass runs.\n\nMenza's tom setup was expansive: three rack toms and two floor toms gave him maximum options for his melodic fills. Unlike purely aggressive thrash drummers, Nick often incorporated tom patterns that were almost jazz-like in their melodicism — a direct result of his training background.\n\nThe birch shells of the Artstar II were crucial to cutting through Megadeth's dense guitar arrangements. Dave Mustaine and Marty Friedman's interweaving guitar parts required drums that could punch through without muddying the mix. The Artstar's articulation delivered exactly that.",
+      "description": "For Rust in Peace, Nick Menza used a Tama Swingstar 5-piece kit — a mid-range, working drummer's kit rather than a prestige endorsement. It was a practical choice, not a flashy one, and its poplar shells delivered the tight, dry sound that became a benchmark for thrash drum production.\n\nA single 22\" x 16\" bass drum, driven by a DW 5000 double pedal, handled the sustained double-bass passages on tracks like \"Holy Wars\" and \"Take No Prisoners.\" The double pedal gave Menza the surgical, clean double-bass precision he was known for, without the added weight and setup time of a second physical bass drum.\n\nMenza's tom setup was compact but versatile: two rack toms and a single floor tom gave him enough range for his melodic fills. Unlike purely aggressive thrash drummers, Nick often incorporated tom patterns that were almost jazz-like in their melodicism — a direct result of his training background.\n\nThe poplar shells of the Swingstar were crucial to cutting through Megadeth's dense guitar arrangements. Dave Mustaine and Marty Friedman's interweaving guitar parts required drums that could punch through without muddying the mix. The tight, dry poplar tone delivered exactly that, even from a modest, working drummer's kit.",
       "notes": [
-        "Double bass drums for Megadeth's demanding patterns",
-        "Five-tom setup enabled melodic, jazz-influenced fills",
-        "Birch shells for attack and projection",
-        "Midnight Blue finish became associated with this era"
+        "DW 5000 double pedal drove Megadeth's demanding double-bass patterns on a single 22\" kick",
+        "Two rack toms and a floor tom enabled melodic, jazz-influenced fills",
+        "Poplar shells delivered a tight, dry attack",
+        "A mid-range, working drummer's kit rather than a prestige endorsement"
       ],
-      "estimatedValue": "$3,000-4,500 (1990)"
+      "estimatedValue": "$800-1,200 (1990)"
     },
     "snare": {
       "title": "The Crack of Technical Thrash",
       "brand": "Tama",
-      "model": "Tama Artstar II Bell Brass Snare",
-      "size": "14\" x 6.5\"",
-      "shell": "Bell brass (bronze alloy)",
-      "description": "The snare sound on Rust in Peace is distinctive — bright, cutting, with a controlled crack that punctuates even the fastest passages. Nick Menza achieved this with a Tama Artstar II Bell Brass snare, known for its brilliant, articulate tone.\n\nThe bell brass shell (a bronze alloy) produces more overtones than steel or aluminum, giving the drum a complex, musical voice. At 6.5\" depth, the snare offered the perfect balance between crack and body — essential for a drummer who played everything from blast beats to subtle ghost note patterns.\n\nProducer Mike Clink, coming from the Guns N' Roses sessions where he achieved Steven Adler's punchy snare sound, knew how to capture metal drums with clarity. The snare was close-miked with a Shure SM57, EQ'd to emphasize the attack frequencies, and compressed just enough to control peaks without squashing dynamics.\n\nMenza tuned the snare medium-high with moderate snare wire tension. This allowed for both the aggressive attack needed for thrash sections and the sensitivity required for his ghost note work. Listen to the verses of \"Tornado of Souls\" — the snare responds to the lightest touches while still cracking on backbeats.",
-      "tuningSetting": "Medium-high tension, moderate snare wire tension for versatility",
+      "model": "Tama Steel Snare",
+      "size": "14\" x 5.5\"",
+      "shell": "Steel, 8-lug",
+      "description": "The snare sound on Rust in Peace is distinctive — bright, cutting, with a controlled crack that punctuates even the fastest passages. Nick Menza achieved this with a Tama Steel snare, an 8-lug drum known for a sharp, high-pitched rimshot crack.\n\nThe steel shell produces a bright, focused attack with fast decay, giving the drum a cutting, articulate voice. At 5.5\" depth, the snare offered the perfect balance between crack and body — essential for a drummer who played everything from blast beats to subtle ghost note patterns.\n\nProducer Mike Clink, coming from the Guns N' Roses sessions where he achieved Steven Adler's punchy snare sound, knew how to capture metal drums with clarity. The snare was close-miked with a Shure SM57, EQ'd to emphasize the attack frequencies, and compressed just enough to control peaks without squashing dynamics.\n\nMenza tuned the snare tight, rimshot-heavy, with moderate snare wire tension. This allowed for both the aggressive attack needed for thrash sections and the sensitivity required for his ghost note work. Listen to the verses of \"Tornado of Souls\" — the snare responds to the lightest touches while still cracking on backbeats.",
+      "tuningSetting": "Tight, rimshot-focused tuning with moderate snare wire tension for versatility",
       "heads": "Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)",
-      "estimatedValue": "$350-450 (1990) / $600-900 (vintage today)"
+      "estimatedValue": "$150-250 (1990) / $200-350 (vintage today)"
     },
     "cymbals": {
       "title": "Zildjian Brilliance",
@@ -132,10 +129,10 @@ export const articles = {
       "items": [
         {
           "type": "Bass Drum Pedals",
-          "brand": "Tama",
-          "model": "Tama Camco (Iron Cobra predecessor)",
-          "notes": "Two single pedals for independent bass drums",
-          "description": "Menza used two independent Tama single pedals on his double bass setup, allowing for the sustained double bass passages that define tracks like \"Holy Wars\" and \"Take No Prisoners.\" The chain-drive action provided the response needed for his precise technique."
+          "brand": "DW",
+          "model": "DW 5000 Double Pedal",
+          "notes": "Double pedal on a single bass drum for surgical double-bass precision",
+          "description": "Menza used a DW 5000 double pedal on his single 22\" bass drum, allowing for the sustained double-bass passages that define tracks like \"Holy Wars\" and \"Take No Prisoners.\" The pedal delivered the clean, articulate double-kick response — at tempos of 180-200 BPM — that defined his precise technique."
         },
         {
           "type": "Hi-Hat Stand",
@@ -184,7 +181,7 @@ export const articles = {
           "Requires sustained stamina and technical precision",
           "Middle section's groove contrasts with thrash bookends"
         ],
-        "gearNotes": "Double bass drums essential for opening barrage. Snare cut crucial for complex fills. Dynamic control showcased throughout."
+        "gearNotes": "DW 5000 double pedal speed essential for opening barrage. Snare cut crucial for complex fills. Dynamic control showcased throughout."
       },
       {
         "track": "Hangar 18",
@@ -209,7 +206,7 @@ export const articles = {
           "Aggressive snare attack drives the verses",
           "Showcases Menza's raw power alongside precision"
         ],
-        "gearNotes": "Bass drums must maintain clarity at high speeds. Snare cracks through the fast palm-muted riffs."
+        "gearNotes": "Double pedal must maintain clarity at high speeds. Snare cracks through the fast palm-muted riffs."
       },
       {
         "track": "Tornado of Souls",
@@ -243,13 +240,13 @@ export const articles = {
       "thenVsNow": [
         {
           "category": "Kit",
-          "then": "Tama Artstar II Birch",
-          "now": "Legacy: Tama continues Artstar traditions"
+          "then": "Tama Swingstar, poplar shells",
+          "now": "Tama's accessible mid-range kits still fill the working-drummer role"
         },
         {
           "category": "Snare",
-          "then": "Tama Bell Brass 14x6.5\"",
-          "now": "Bell brass snares remain popular for metal"
+          "then": "Tama Steel 14x5.5\", 8-lug",
+          "now": "Steel snares remain a metal-drumming staple"
         },
         {
           "category": "Cymbals",
@@ -263,7 +260,7 @@ export const articles = {
         },
         {
           "category": "Pedals",
-          "then": "Tama Camco single pedals",
+          "then": "DW 5000 double pedal",
           "now": "Iron Cobra/Speed Cobra dominate"
         }
       ]
@@ -293,7 +290,7 @@ export const articles = {
     "faq": [
       {
         "question": "What drum kit did Nick Menza use on Rust in Peace?",
-        "answer": "Nick Menza played a Tama Artstar II kit on Rust in Peace, recorded in 1990. The setup featured twin 22x16 inch bass drums, rack toms in 10, 12, and 13 inch sizes, and 16 and 18 inch floor toms. All shells were birch with die-cast hoops, giving the kit a tight, punchy attack that cut through Megadeth's aggressive riff-driven arrangements on that album."
+        "answer": "Nick Menza played a Tama Swingstar 5-piece kit on Rust in Peace, recorded in 1990 — a mid-range, working drummer's kit rather than a prestige endorsement. The setup featured a 22x16 inch bass drum driven by a DW 5000 double pedal, 12x10 and 13x11 inch rack toms, and a 16x16 inch floor tom. All shells were poplar, giving the kit a tight, dry attack that cut through Megadeth's aggressive riff-driven arrangements on that album."
       },
       {
         "question": "What cymbals did Nick Menza use on Rust in Peace?",
@@ -301,12 +298,12 @@ export const articles = {
       },
       {
         "question": "How much does Nick Menza's Rust in Peace kit cost?",
-        "answer": "At the time of recording in 1990, the Tama Artstar II kit was valued at approximately $3,000 to $4,500 new. Today, a vintage Tama Artstar II in good condition can fetch $4,000 to $7,000 depending on configuration and condition. The Tama Artstar II Bell Brass snare he used, originally $350 to $450, now commands $600 to $900 or more on the vintage market."
+        "answer": "At the time of recording in 1990, the Tama Swingstar kit was valued at approximately $800 to $1,200 new — a mid-range, working drummer's kit rather than a prestige endorsement instrument. Today, a vintage Tama Swingstar in good condition typically fetches a modest $600 to $1,000 depending on configuration and condition. The Tama Steel snare he used, originally around $150 to $250, now commands $200 to $350 or so on the vintage market."
       }
     ],
     "conclusion": {
       "title": "The Pinnacle of Technical Thrash",
-      "content": "Rust in Peace represents the absolute pinnacle of technical thrash metal drumming. Nick Menza's performances combined jazz-influenced precision with thrash metal aggression, creating a template that influenced everything from progressive metal to modern tech-death.\n\n**What Makes This Album Special:**\nThe drumming on Rust in Peace isn't just fast — it's musical. Menza brought sophistication to thrash metal that few of his contemporaries could match. His ghost notes, his dynamics, his ability to navigate complex arrangements while maintaining groove — all set a new standard for the genre.\n\n**The Menza Legacy:**\nNick Menza's tragic death in 2016 robbed metal of one of its most talented drummers. But his legacy lives on every time a drummer studies \"Holy Wars\" or attempts the pre-solo fill in \"Tornado of Souls.\" His playing proved that metal drumming could be as sophisticated as any jazz or fusion work.\n\n**Gear Philosophy:**\nLike many great recordings, Rust in Peace's drum sound came from quality but not exotic gear. The Tama Artstar II was a professional kit, not a custom one-off. The Zildjian A Customs were newly released but affordable. What made the difference was the player and his preparation.\n\n**For Aspiring Drummers:**\nStudy this album obsessively. Learn \"Holy Wars\" to understand how to navigate complex arrangements. Learn \"Tornado of Souls\" to understand dynamics and musicality. Learn \"Take No Prisoners\" to understand sustained speed. Then remember: Nick Menza started as a drum tech. Dedication and talent opened the door; preparation and musicality created the legend.\n\nDave Mustaine has called Rust in Peace his favorite Megadeth album. The drumming is a key reason why — Nick Menza delivered performances worthy of the ambitious compositions. Thirty-five years later, the album remains the benchmark for technical thrash metal, and Menza's drumming remains essential to its legacy.\n\n🥁 *\"Holy Wars...The Punishment Due\" — the opening drum barrage that changed thrash forever.* 🥁"
+      "content": "Rust in Peace represents the absolute pinnacle of technical thrash metal drumming. Nick Menza's performances combined jazz-influenced precision with thrash metal aggression, creating a template that influenced everything from progressive metal to modern tech-death.\n\n**What Makes This Album Special:**\nThe drumming on Rust in Peace isn't just fast — it's musical. Menza brought sophistication to thrash metal that few of his contemporaries could match. His ghost notes, his dynamics, his ability to navigate complex arrangements while maintaining groove — all set a new standard for the genre.\n\n**The Menza Legacy:**\nNick Menza's tragic death in 2016 robbed metal of one of its most talented drummers. But his legacy lives on every time a drummer studies \"Holy Wars\" or attempts the pre-solo fill in \"Tornado of Souls.\" His playing proved that metal drumming could be as sophisticated as any jazz or fusion work.\n\n**Gear Philosophy:**\nLike many great recordings, Rust in Peace's drum sound came from quality playing, not exotic gear. The Tama Swingstar was a mid-range, working drummer's kit, not a prestige endorsement instrument. The Zildjian A Customs were newly released but affordable. What made the difference was the player and his preparation.\n\n**For Aspiring Drummers:**\nStudy this album obsessively. Learn \"Holy Wars\" to understand how to navigate complex arrangements. Learn \"Tornado of Souls\" to understand dynamics and musicality. Learn \"Take No Prisoners\" to understand sustained speed. Then remember: Nick Menza started as a drum tech. Dedication and talent opened the door; preparation and musicality created the legend.\n\nDave Mustaine has called Rust in Peace his favorite Megadeth album. The drumming is a key reason why — Nick Menza delivered performances worthy of the ambitious compositions. Thirty-five years later, the album remains the benchmark for technical thrash metal, and Menza's drumming remains essential to its legacy.\n\n🥁 *\"Holy Wars...The Punishment Due\" — the opening drum barrage that changed thrash forever.* 🥁"
     }
   },
   "countdown-to-extinction-drum-setup": {
@@ -368,12 +365,12 @@ export const articles = {
         ],
         "shells": "Maple shells"
       },
-      "description": "For Countdown to Extinction, Nick Menza left behind the Tama Artstar II that had carried him through Rust in Peace and moved to a Pearl Masters kit, seeking a more resonant, powerful sound to match the album's bigger, more radio-ready production. The five-tom sprawl of 1990 was streamlined into a more focused two-up, two-down arrangement — better suited to the album's song-first approach and to the mid-tempo grooves that anchored singles like \"Symphony of Destruction\" and \"Foreclosure of a Dream.\"\n\nThe Pearl Masters' maple shells suited Megadeth's dense guitar arrangements in a different way than the Artstar II's birch had. Maple's warmer, more resonant voice gave each drum a fuller body under Mustaine's and Marty Friedman's interweaving guitar parts, while still cutting through cleanly enough that Max Norman didn't need to reach for aggressive EQ. Norman's modern, polished production approach paired well with the kit's added resonance.\n\nThe double 22\" x 16\" bass drums stayed in place for tracks that still demanded sustained double-kick work — \"Skin O' My Teeth,\" \"High Speed Dirt,\" and sections of \"Captive Honour\" — but Menza used them with more restraint than on Rust in Peace. The album rewards listening for what Menza chose not to play as much as what he did play. That restraint is the sound of a drummer who knew the songs were the star.\n\nThe switch to Pearl marked the start of an endorsement relationship that would carry Menza through the rest of his Megadeth tenure. By 1992, the Pearl Masters had become his signature instrument — a new sound for a band stepping into arena-scale production.",
+      "description": "For Countdown to Extinction, Nick Menza left behind the Tama Swingstar that had carried him through Rust in Peace and moved to a Pearl Masters kit, seeking a more resonant, powerful sound to match the album's bigger, more radio-ready production. The three-tom setup of 1990 gave way to a more focused two-up, two-down arrangement — better suited to the album's song-first approach and to the mid-tempo grooves that anchored singles like \"Symphony of Destruction\" and \"Foreclosure of a Dream.\"\n\nThe Pearl Masters' maple shells suited Megadeth's dense guitar arrangements in a different way than the Swingstar's poplar had. Maple's warmer, more resonant voice gave each drum a fuller body under Mustaine's and Marty Friedman's interweaving guitar parts, while still cutting through cleanly enough that Max Norman didn't need to reach for aggressive EQ. Norman's modern, polished production approach paired well with the kit's added resonance.\n\nThe double 22\" x 16\" bass drums stayed in place for tracks that still demanded sustained double-kick work — \"Skin O' My Teeth,\" \"High Speed Dirt,\" and sections of \"Captive Honour\" — but Menza used them with more restraint than on Rust in Peace. The album rewards listening for what Menza chose not to play as much as what he did play. That restraint is the sound of a drummer who knew the songs were the star.\n\nThe switch to Pearl marked the start of an endorsement relationship that would carry Menza through the rest of his Megadeth tenure. By 1992, the Pearl Masters had become his signature instrument — a new sound for a band stepping into arena-scale production.",
       "notes": [
         "Streamlined four-tom configuration vs. Rust in Peace's five-tom sprawl",
         "Maple shells for a warmer, more resonant tone than the Rust in Peace-era Tama birch",
         "Double bass retained for select tracks; used with more restraint",
-        "Marked the start of Menza's Pearl endorsement, replacing the Tama Artstar II",
+        "Marked the start of Menza's Pearl endorsement, replacing the Tama Swingstar",
         "First album-era setup of Menza's Pearl relationship, which carried through Cryptic Writings"
       ],
       "estimatedValue": "$2,000-4,000 (vintage Pearl Masters shell pack)"
@@ -384,7 +381,7 @@ export const articles = {
       "model": "Pearl Masters Snare",
       "size": "14\" x 6.5\"",
       "shell": "Brass",
-      "description": "Menza paired his new Pearl Masters kit with a matching Pearl snare for Countdown to Extinction — and Max Norman's production captured the drum in a way that defined Megadeth's commercial-era sound. Where Rust in Peace's Tama Artstar Bell Brass snare had a bright, technical crack designed to cut through thrash blast sections, the Countdown snare sits with more body and authority, designed to anchor the slower grooves at the heart of the album.\n\nThe brass shell gave Menza a snare that could both crack on the backbeats of \"Symphony of Destruction\" and respond sensitively to the ghost notes underpinning the jazz-shuffle feel of \"Sweating Bullets.\" At 14\" x 6.5\", the depth offered enough body to fill the mid-tempo grooves without losing the snap that thrash arrangements still required.\n\nProducer Max Norman recorded the snare with a Shure SM57 close-miked on the top head, with a second mic on the bottom to capture snare-wire detail. Compression was used more aggressively than on Rust in Peace — Norman wanted a snare that hit the same way every time, song after song, in a way that translated cleanly to radio. The result is the most consistent and \"produced\" snare sound Megadeth had captured to that point.\n\nMenza tuned the snare slightly lower than he had for Rust in Peace, with looser snare-wire tension. The lower tuning emphasized body and weight — appropriate for an album where the snare often had to carry an entire groove on its own rather than punctuating a flurry of double bass.",
+      "description": "Menza paired his new Pearl Masters kit with a matching Pearl snare for Countdown to Extinction — and Max Norman's production captured the drum in a way that defined Megadeth's commercial-era sound. Where Rust in Peace's Tama Steel snare had a bright, technical crack designed to cut through thrash blast sections, the Countdown snare sits with more body and authority, designed to anchor the slower grooves at the heart of the album.\n\nThe brass shell gave Menza a snare that could both crack on the backbeats of \"Symphony of Destruction\" and respond sensitively to the ghost notes underpinning the jazz-shuffle feel of \"Sweating Bullets.\" At 14\" x 6.5\", the depth offered enough body to fill the mid-tempo grooves without losing the snap that thrash arrangements still required.\n\nProducer Max Norman recorded the snare with a Shure SM57 close-miked on the top head, with a second mic on the bottom to capture snare-wire detail. Compression was used more aggressively than on Rust in Peace — Norman wanted a snare that hit the same way every time, song after song, in a way that translated cleanly to radio. The result is the most consistent and \"produced\" snare sound Megadeth had captured to that point.\n\nMenza tuned the snare slightly lower than he had for Rust in Peace, with looser snare-wire tension. The lower tuning emphasized body and weight — appropriate for an album where the snare often had to carry an entire groove on its own rather than punctuating a flurry of double bass.",
       "tuningSetting": "Medium tension with looser snare-wire setup for body and mid-tempo authority",
       "heads": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)",
       "estimatedValue": "$350-450 (1992) / $600-900 (vintage today)"
@@ -560,16 +557,16 @@ export const articles = {
     ],
     "evolution": {
       "title": "From Rust in Peace to Youthanasia: The Mid-Career Arc",
-      "content": "Countdown to Extinction sits at the structural midpoint of Nick Menza's Megadeth tenure — between the technical fireworks of \"Rust in Peace\" (1990) and the more polished, arena-ready \"Youthanasia\" (1994). Each album represented a deliberate stylistic step in a particular direction, and Menza adapted his gear and approach to fit.\n\n**Rust in Peace → Countdown:**\nThe transition meant leaving the Tama Artstar II behind for a Pearl Masters kit, moving from a five-tom configuration to a streamlined four-tom setup, slightly lower snare tuning for body, and a switch in cymbal vocabulary from Zildjian A Customs toward Paiste 2002 and Signature lines. Menza's playing philosophy shifted from \"execute everything the song allows\" to \"play exactly what the song needs.\"\n\n**Countdown → Youthanasia:**\n\"Youthanasia,\" recorded in 1994 at Mustaine's Phase 4 Studio in Arizona with producer Max Norman returning, took the mid-tempo pivot even further. Menza moved up to the Pearl Masterworks — the most premium kit of his career — and the album's groove-focused approach pushed his playing into territory closer to arena rock than thrash. \"A Tout le Monde\" became another commercial pillar of his Megadeth catalog.\n\n**The Arc as a Whole:**\nAcross these three albums, Menza demonstrated something rare for a drummer of his technical ability: the willingness to subordinate technique to song. \"Rust in Peace\" proved he could play anything Mustaine threw at him. \"Countdown to Extinction\" and \"Youthanasia\" proved he understood when not to. That arc — from technical extremity to song-serving maturity — is exactly the journey commercial-thrash demands, and it's the reason Menza is regarded as one of the most musical drummers thrash metal ever produced.\n\n**Gear Through the Era:**\nMenza's Pearl endorsement began with Countdown to Extinction and carried him through the rest of his Megadeth tenure — the Pearl Masters gave way to the Pearl Masterworks for Youthanasia and beyond. Cymbal preferences shifted from Zildjian to Paiste during the Countdown sessions. Pedals stayed in the Tama Camco family until the Iron Cobra arrived in 1994 and became the new standard.",
+      "content": "Countdown to Extinction sits at the structural midpoint of Nick Menza's Megadeth tenure — between the technical fireworks of \"Rust in Peace\" (1990) and the more polished, arena-ready \"Youthanasia\" (1994). Each album represented a deliberate stylistic step in a particular direction, and Menza adapted his gear and approach to fit.\n\n**Rust in Peace → Countdown:**\nThe transition meant leaving the Tama Swingstar behind for a Pearl Masters kit, moving from a three-tom configuration to a four-tom setup, slightly lower snare tuning for body, and a switch in cymbal vocabulary from Zildjian A Customs toward Paiste 2002 and Signature lines. Menza's playing philosophy shifted from \"execute everything the song allows\" to \"play exactly what the song needs.\"\n\n**Countdown → Youthanasia:**\n\"Youthanasia,\" recorded in 1994 at Mustaine's Phase 4 Studio in Arizona with producer Max Norman returning, took the mid-tempo pivot even further. Menza moved up to the Pearl Masterworks — the most premium kit of his career — and the album's groove-focused approach pushed his playing into territory closer to arena rock than thrash. \"A Tout le Monde\" became another commercial pillar of his Megadeth catalog.\n\n**The Arc as a Whole:**\nAcross these three albums, Menza demonstrated something rare for a drummer of his technical ability: the willingness to subordinate technique to song. \"Rust in Peace\" proved he could play anything Mustaine threw at him. \"Countdown to Extinction\" and \"Youthanasia\" proved he understood when not to. That arc — from technical extremity to song-serving maturity — is exactly the journey commercial-thrash demands, and it's the reason Menza is regarded as one of the most musical drummers thrash metal ever produced.\n\n**Gear Through the Era:**\nMenza's Pearl endorsement began with Countdown to Extinction and carried him through the rest of his Megadeth tenure — the Pearl Masters gave way to the Pearl Masterworks for Youthanasia and beyond. Cymbal preferences shifted from Zildjian to Paiste during the Countdown sessions. Pedals stayed in the Tama Camco family until the Iron Cobra arrived in 1994 and became the new standard.",
       "thenVsNow": [
         {
           "category": "Kit",
-          "then": "Tama Artstar II Birch (5-tom on Rust)",
+          "then": "Tama Swingstar, poplar (3-tom on Rust)",
           "now": "Pearl Masters, maple (streamlined 4-tom on Countdown)"
         },
         {
           "category": "Snare",
-          "then": "Bell Brass 14x6.5\" — bright/cracking tuning",
+          "then": "Tama Steel 14x5.5\" — bright/cracking tuning",
           "now": "Bell Brass 14x6.5\" — looser, body-focused tuning"
         },
         {
@@ -579,7 +576,7 @@ export const articles = {
         },
         {
           "category": "Pedals",
-          "then": "Tama Camco singles (x2)",
+          "then": "DW 5000 double pedal",
           "now": "Tama Camco singles (x2) — pre-Iron Cobra era"
         },
         {
@@ -605,7 +602,7 @@ export const articles = {
     "faq": [
       {
         "question": "What drum kit did Nick Menza use on Countdown to Extinction?",
-        "answer": "Nick Menza played a Pearl Masters kit on Countdown to Extinction, recorded at Enterprise Studios in Burbank in 1992 — his first album on Pearl after moving on from the Tama Artstar II he used on Rust in Peace. The setup featured twin 22 by 16 inch bass drums, 10 and 12 inch rack toms, and 14 and 16 inch floor toms — a streamlined four-tom configuration compared to the five-tom sprawl he used on Rust in Peace. The maple shells gave the kit a warmer, more resonant tone that suited the album's dense guitar arrangements while Max Norman's production delivered the bigger, more radio-ready drum sound the songs called for."
+        "answer": "Nick Menza played a Pearl Masters kit on Countdown to Extinction, recorded at Enterprise Studios in Burbank in 1992 — his first album on Pearl after moving on from the Tama Swingstar he used on Rust in Peace. The setup featured twin 22 by 16 inch bass drums, 10 and 12 inch rack toms, and 14 and 16 inch floor toms — a four-tom configuration compared to the three-tom setup he used on Rust in Peace. The maple shells gave the kit a warmer, more resonant tone that suited the album's dense guitar arrangements while Max Norman's production delivered the bigger, more radio-ready drum sound the songs called for."
       },
       {
         "question": "What cymbals did Nick Menza use on Countdown to Extinction?",
@@ -621,7 +618,7 @@ export const articles = {
       },
       {
         "question": "What snare drum did Nick Menza use on Countdown to Extinction?",
-        "answer": "Nick Menza used a Pearl Masters snare at 14 inches by 6.5 inches deep on Countdown to Extinction, matching his new Pearl kit — a switch from the Tama Artstar Bell Brass snare he used on Rust in Peace. For Countdown he tuned the drum slightly lower with looser snare-wire tension, emphasizing body and weight over the brighter, more cracking sound he used on the previous album. That tuning choice served the album's mid-tempo grooves on tracks like \"Symphony of Destruction,\" where the snare needed authority and presence in an open pocket rather than the rapid-fire articulation thrash blast sections require."
+        "answer": "Nick Menza used a Pearl Masters snare at 14 inches by 6.5 inches deep on Countdown to Extinction, matching his new Pearl kit — a switch from the Tama Steel snare he used on Rust in Peace. For Countdown he tuned the drum slightly lower with looser snare-wire tension, emphasizing body and weight over the brighter, more cracking sound he used on the previous album. That tuning choice served the album's mid-tempo grooves on tracks like \"Symphony of Destruction,\" where the snare needed authority and presence in an open pocket rather than the rapid-fire articulation thrash blast sections require."
       }
     ],
     "conclusion": {
@@ -667,7 +664,7 @@ export const articles = {
         "Primary kit: Pearl Masters Custom (Countdown to Extinction era onward)",
         "Cymbals: Zildjian A and A Custom series — bright, cutting thrash tones",
         "Pedals: Tama Iron Cobra double pedal for sustained double-kick work",
-        "Rust in Peace era: Tama Artstar II kit with signature snare",
+        "Rust in Peace era: Tama Swingstar kit with Tama Steel snare",
         "Passed away May 2016 — legacy endures through Rust in Peace and Countdown to Extinction"
       ]
     },
@@ -688,12 +685,12 @@ export const articles = {
         ],
         "shells": "Maple shells — warm attack with excellent projection in live environments"
       },
-      "description": "By the Countdown to Extinction era (1992), Nick Menza had transitioned from the Tama Artstar II he used on Rust in Peace to a Pearl Masters Custom kit — Pearl's flagship maple shell offering of the period. The Pearl Masters Custom was the instrument of choice for countless professional rock and metal drummers of the early-to-mid 1990s, and for good reason: its pure maple construction delivered warmth, sustain, and natural projection that suited both stadium touring and studio recording.\n\nMenza's Pearl setup featured a standard large-shell configuration appropriate for thrash metal: double 22\" bass drums generating the thunderous low-end foundation that Megadeth's music demanded, with a four-tom layout providing the range needed for the complex, melodic fills that characterized his playing. The 10\" and 12\" rack toms alongside 14\" and 16\" floors gave him a wide tonal palette — useful when constructing the kind of musically considered fill work that appeared throughout Countdown to Extinction and Youthanasia.\n\nThe maple shells suited Menza's style particularly well. In the Rust in Peace era he had relied on the birch shells of the Tama Artstar II — brighter and more aggressive. The Pearl Masters Custom's maple warmth softened slightly as Megadeth moved into the more melodic, commercially oriented sound of Countdown to Extinction. This wasn't a compromise — it was the right tool for a band evolving toward arena-rock production values while retaining thrash intensity.\n\nPearl's hardware system of the period gave Menza reliable mount points, tom arms, and bass drum positioning for live setups that changed nightly on major world tours. The stability and consistency of Pearl's rack and mount system was well-suited to the demands of heavy touring.",
+      "description": "By the Countdown to Extinction era (1992), Nick Menza had transitioned from the Tama Swingstar he used on Rust in Peace to a Pearl Masters Custom kit — Pearl's flagship maple shell offering of the period. The Pearl Masters Custom was the instrument of choice for countless professional rock and metal drummers of the early-to-mid 1990s, and for good reason: its pure maple construction delivered warmth, sustain, and natural projection that suited both stadium touring and studio recording.\n\nMenza's Pearl setup featured a standard large-shell configuration appropriate for thrash metal: double 22\" bass drums generating the thunderous low-end foundation that Megadeth's music demanded, with a four-tom layout providing the range needed for the complex, melodic fills that characterized his playing. The 10\" and 12\" rack toms alongside 14\" and 16\" floors gave him a wide tonal palette — useful when constructing the kind of musically considered fill work that appeared throughout Countdown to Extinction and Youthanasia.\n\nThe maple shells suited Menza's style particularly well. In the Rust in Peace era he had relied on the poplar shells of the Tama Swingstar — a tighter, drier tone from a mid-range, working drummer's kit. The Pearl Masters Custom's maple warmth softened slightly as Megadeth moved into the more melodic, commercially oriented sound of Countdown to Extinction. This wasn't a compromise — it was the right tool for a band evolving toward arena-rock production values while retaining thrash intensity.\n\nPearl's hardware system of the period gave Menza reliable mount points, tom arms, and bass drum positioning for live setups that changed nightly on major world tours. The stability and consistency of Pearl's rack and mount system was well-suited to the demands of heavy touring.",
       "notes": [
         "Pearl Masters Custom — flagship Pearl maple shell kit, early-to-mid 1990s",
         "Double 22\" bass drums for independent double-kick feel",
         "Four-tom configuration: 10\", 12\", 14\", 16\" for melodic fill range",
-        "Maple construction: warmer tone than Rust in Peace-era Tama birch",
+        "Maple construction: warmer tone than Rust in Peace-era Tama poplar",
         "Used through Countdown to Extinction (1992), Youthanasia (1994), Cryptic Writings (1997)"
       ],
       "estimatedValue": "$2,000–4,000 (vintage Pearl Masters Custom shell pack)"
@@ -704,7 +701,7 @@ export const articles = {
       "model": "Pearl Signature Snare — 14\"x6.5\"",
       "size": "14\" x 6.5\"",
       "shell": "Steel / Brass (varied by era)",
-      "description": "Nick Menza's snare sound is one of thrash metal's most distinctive — a bright, cutting crack that drove through Megadeth's layered guitars on every recording from Rust in Peace through Cryptic Writings. The 14\" x 6.5\" format gave him the depth needed for authority and projection without the excessive sustain that would blur his intricate ghosted passages.\n\nOn Rust in Peace, Menza used a Tama Artstar II Bell Brass snare — a bright, articulate shell that produced the razor-sharp crack audible on \"Holy Wars,\" \"Tornado of Souls,\" and \"Take No Prisoners.\" The Bell Brass material provides exceptional tonal definition: every stroke rings with immediate focus and clean decay, critical for playing at the tempos Rust in Peace demanded.\n\nBy the Pearl endorsement era, Menza worked with Pearl snare drums that offered a similar bright, projecting character. The 6.5\" depth — deeper than a standard 5.5\" — gave his snare more body, helping it compete with the volume and density of Megadeth's dual-guitar attack in live settings. Whether steel or brass, the shell material consistently prioritized articulation over warmth, reflecting the technical demands of thrash's demanding snare patterns.\n\nMenza's tuning approach leaned toward the upper-medium to bright range — tight enough to produce fast, defined rimshots, loose enough to allow the ghost notes and soft strokes that characterized his most sophisticated playing. This tuning sweet spot is visible across all four of his Megadeth studio recordings: every dynamic shift, from pianissimo ghost note to crashing rimshot, is clearly defined in the mix.",
+      "description": "Nick Menza's snare sound is one of thrash metal's most distinctive — a bright, cutting crack that drove through Megadeth's layered guitars on every recording from Rust in Peace through Cryptic Writings. The 14\" x 6.5\" format gave him the depth needed for authority and projection without the excessive sustain that would blur his intricate ghosted passages.\n\nOn Rust in Peace, Menza used a Tama Steel snare — a bright, articulate 8-lug shell that produced the razor-sharp crack audible on \"Holy Wars,\" \"Tornado of Souls,\" and \"Take No Prisoners.\" The steel shell provides exceptional tonal definition: every stroke rings with immediate focus and clean decay, critical for playing at the tempos Rust in Peace demanded.\n\nBy the Pearl endorsement era, Menza worked with Pearl snare drums that offered a similar bright, projecting character. The 6.5\" depth — deeper than a standard 5.5\" — gave his snare more body, helping it compete with the volume and density of Megadeth's dual-guitar attack in live settings. Whether steel or brass, the shell material consistently prioritized articulation over warmth, reflecting the technical demands of thrash's demanding snare patterns.\n\nMenza's tuning approach leaned toward the upper-medium to bright range — tight enough to produce fast, defined rimshots, loose enough to allow the ghost notes and soft strokes that characterized his most sophisticated playing. This tuning sweet spot is visible across all four of his Megadeth studio recordings: every dynamic shift, from pianissimo ghost note to crashing rimshot, is clearly defined in the mix.",
       "tuningSetting": "Upper-medium to bright — optimized for rimshot clarity and ghost note articulation at high tempos",
       "heads": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)",
       "estimatedValue": "$300–600 (depending on era and shell material)"
@@ -799,12 +796,12 @@ export const articles = {
         ],
         "description": "The iconic thrash landmark — Menza's debut Megadeth album.",
         "gear": {
-          "drums": "Tama Artstar II in Midnight Blue — birch shells for focused attack",
-          "snare": "Tama Artstar II Bell Brass 14\"x6.5\" — razor-sharp crack",
+          "drums": "Tama Swingstar 5-piece — poplar shells for focused attack",
+          "snare": "Tama Steel 14\"x5.5\", 8-lug — razor-sharp crack",
           "cymbals": "Zildjian A Custom (launched 1989) — brilliant finish, fast response",
-          "hardware": "Tama chain-drive double pedal"
+          "hardware": "DW 5000 double pedal"
         },
-        "notes": "Birch shells + Bell Brass snare + A Custom cymbals = the Rust in Peace sound. Menza joined as drum tech and transitioned to drummer for this recording."
+        "notes": "Poplar shells + Tama Steel snare + A Custom cymbals = the Rust in Peace sound — a mid-range, working drummer's kit. Menza joined as drum tech and transitioned to drummer for this recording."
       },
       {
         "era": "Countdown to Extinction Era",
@@ -899,11 +896,11 @@ export const articles = {
     "faq": [
       {
         "question": "What drums did Nick Menza play?",
-        "answer": "Nick Menza used a Tama Artstar II kit (birch shells) during the Rust in Peace era, then transitioned to Pearl Masters Custom (maple shells) from the Countdown to Extinction era onward. The Pearl Masters Custom became his primary instrument through Youthanasia and Cryptic Writings, and he maintained the Pearl relationship for the remainder of his Megadeth career."
+        "answer": "Nick Menza used a Tama Swingstar kit (poplar shells) during the Rust in Peace era, then transitioned to Pearl Masters Custom (maple shells) from the Countdown to Extinction era onward. The Pearl Masters Custom became his primary instrument through Youthanasia and Cryptic Writings, and he maintained the Pearl relationship for the remainder of his Megadeth career."
       },
       {
         "question": "What snare drum was used on Rust in Peace?",
-        "answer": "On Rust in Peace (1990), Nick Menza played a Tama Artstar II Bell Brass snare drum, typically in a 14\"x6.5\" configuration. The Bell Brass shell delivered the razor-sharp, bright crack audible throughout the album — particularly on \"Holy Wars,\" \"Tornado of Souls,\" and \"Take No Prisoners.\" The bell brass material provides exceptional tonal definition with fast, focused decay ideal for high-tempo thrash drumming."
+        "answer": "On Rust in Peace (1990), Nick Menza played a Tama Steel snare drum, typically in a 14\"x5.5\" 8-lug configuration. The steel shell delivered the razor-sharp, bright crack audible throughout the album — particularly on \"Holy Wars,\" \"Tornado of Souls,\" and \"Take No Prisoners.\" The steel material provides exceptional tonal definition with fast, focused decay ideal for high-tempo thrash drumming."
       },
       {
         "question": "What cymbals did Nick Menza endorse?",
@@ -911,7 +908,7 @@ export const articles = {
       },
       {
         "question": "What double bass pedal did Nick Menza use?",
-        "answer": "Nick Menza used the Tama Iron Cobra double bass drum pedal through much of his Megadeth career, particularly from the Countdown to Extinction era onward. The Iron Cobra's rolling glide cam system provided consistent feel and reliable performance across extensive world tours. For Rust in Peace, he used a Tama chain-drive double pedal before transitioning to the Iron Cobra."
+        "answer": "Nick Menza used the Tama Iron Cobra double bass drum pedal through much of his Megadeth career, particularly from the Countdown to Extinction era onward. The Iron Cobra's rolling glide cam system provided consistent feel and reliable performance across extensive world tours. For Rust in Peace, he used a DW 5000 double pedal before transitioning to Tama pedals."
       },
       {
         "question": "What made Nick Menza different from other thrash metal drummers?",
@@ -1010,7 +1007,7 @@ export const articles = {
       "model": "Pearl Reference Custom Snare",
       "size": "14\" x 6.5\"",
       "shell": "Brass",
-      "description": "Nick Menza closed out his Megadeth tenure with a Pearl snare matching his Reference Custom kit, continuing the Pearl relationship that had defined his sound since Countdown to Extinction. The brass shell's bright, articulate crack remained instantly identifiable, but Dann Huff's Nashville production captured it with a more contemporary, slightly compressed punch than the warmer Phase Four Studios tone on Youthanasia — closer in spirit to mainstream rock radio of 1997 than to the band's thrash-circuit roots.\n\nOn \"Trust,\" the snare carries almost the entire rhythmic identity of the song. The groove is sparse by Megadeth standards, which means every backbeat has to land with total consistency — there's nowhere for an inconsistent snare to hide in a mix that open. Menza's tuning leaned toward the upper-medium range he'd used throughout the 1990s, tight enough for a crisp rimshot but with enough snare-wire sensitivity to support the ghost-note work that still threads through his playing, even on the album's most restrained tracks.\n\nThe 6.5\" depth gave the drum the body needed to anchor \"A Tout le Monde (Set Me Free)\"'s more dynamic, ballad-adjacent arrangement, where the snare has to shift convincingly between near-silence in the verses and full crack on the choruses. It's a different drum than the Tama Artstar Bell Brass snare Menza used on Rust in Peace seven years earlier, but the sonic signature — and the playing around it — carried through considerably.",
+      "description": "Nick Menza closed out his Megadeth tenure with a Pearl snare matching his Reference Custom kit, continuing the Pearl relationship that had defined his sound since Countdown to Extinction. The brass shell's bright, articulate crack remained instantly identifiable, but Dann Huff's Nashville production captured it with a more contemporary, slightly compressed punch than the warmer Phase Four Studios tone on Youthanasia — closer in spirit to mainstream rock radio of 1997 than to the band's thrash-circuit roots.\n\nOn \"Trust,\" the snare carries almost the entire rhythmic identity of the song. The groove is sparse by Megadeth standards, which means every backbeat has to land with total consistency — there's nowhere for an inconsistent snare to hide in a mix that open. Menza's tuning leaned toward the upper-medium range he'd used throughout the 1990s, tight enough for a crisp rimshot but with enough snare-wire sensitivity to support the ghost-note work that still threads through his playing, even on the album's most restrained tracks.\n\nThe 6.5\" depth gave the drum the body needed to anchor \"A Tout le Monde (Set Me Free)\"'s more dynamic, ballad-adjacent arrangement, where the snare has to shift convincingly between near-silence in the verses and full crack on the choruses. It's a different drum than the Tama Steel snare Menza used on Rust in Peace seven years earlier, but the sonic signature — and the playing around it — carried through considerably.",
       "tuningSetting": "Upper-medium tension, consistent backbeat focus for hook-driven arrangements",
       "heads": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)",
       "estimatedValue": "$350-500 (1997) / $600-900 (vintage today)"
@@ -1206,7 +1203,7 @@ export const articles = {
     "relatedLicks": [],
     "conclusion": {
       "title": "The Commercial Peak, and the Final Bow",
-      "content": "Cryptic Writings closes Nick Menza's Megadeth story on its highest commercial note. \"Trust\" and \"A Tout le Monde (Set Me Free)\" remain two of the band's most enduring songs nearly three decades later, and the album's Platinum certification stands as the clearest commercial validation of the arc that began with Countdown to Extinction's pivot away from pure technical thrash.\n\n**The Gear Through the Lens of the Arc:**\nMenza's Pearl endorsement — begun on Countdown to Extinction, refined through the Masterworks on Youthanasia, and capped by the Reference Custom here — carried him through three distinct sonic eras of Megadeth's commercial period. What changed around it was everything else: Zildjian gave way to Paiste, which gave way to Sabian; West Coast studios gave way to Nashville; technical thrash extremity gave way to hook-driven songcraft. Across every shift, Menza's playing adapted without ever losing the jazz-informed musicality that made him one of thrash metal's most distinctive drummers.\n\n**Completing the Picture:**\nTogether, Countdown to Extinction, Youthanasia, and Cryptic Writings tell the story of a drummer maturing alongside a band reinventing its commercial identity. Where Rust in Peace proved Menza could play anything Mustaine wrote, these three records proved he understood exactly when not to — and Cryptic Writings, with \"Trust\"'s elegantly simple groove, is the clearest distillation of that lesson in his entire catalog.\n\n**The Legacy:**\nMenza was fired from Megadeth in 1998, returned briefly for the band's 2004 reunion, and tragically died on stage in 2016 while performing with his band OHM. Cryptic Writings remains the final studio statement of his classic-era Megadeth tenure — a Platinum-selling, radio-defining record built on the Pearl Reference Custom kit that closed out the endorsement journey he began seven years after debuting on the Tama Artstar II for Rust in Peace.\n\nFor deeper study:\n- **Full Menza gear overview**: [Nick Menza Drum Setup](/articles/nick-menza-drum-setup)\n- **The arc's middle chapter**: [Youthanasia Drum Setup](/articles/youthanasia-drum-setup)\n- **The arc's opening chapter**: [Countdown to Extinction Drum Setup](/articles/countdown-to-extinction-drum-setup)\n- **Full drummer profile**: [Nick Menza at MetalDrummerGear](/drummer/nick-menza)\n\n🥁 *\"Trust\" — the deceptively simple groove that closed out Nick Menza's Megadeth era.* 🤘"
+      "content": "Cryptic Writings closes Nick Menza's Megadeth story on its highest commercial note. \"Trust\" and \"A Tout le Monde (Set Me Free)\" remain two of the band's most enduring songs nearly three decades later, and the album's Platinum certification stands as the clearest commercial validation of the arc that began with Countdown to Extinction's pivot away from pure technical thrash.\n\n**The Gear Through the Lens of the Arc:**\nMenza's Pearl endorsement — begun on Countdown to Extinction, refined through the Masterworks on Youthanasia, and capped by the Reference Custom here — carried him through three distinct sonic eras of Megadeth's commercial period. What changed around it was everything else: Zildjian gave way to Paiste, which gave way to Sabian; West Coast studios gave way to Nashville; technical thrash extremity gave way to hook-driven songcraft. Across every shift, Menza's playing adapted without ever losing the jazz-informed musicality that made him one of thrash metal's most distinctive drummers.\n\n**Completing the Picture:**\nTogether, Countdown to Extinction, Youthanasia, and Cryptic Writings tell the story of a drummer maturing alongside a band reinventing its commercial identity. Where Rust in Peace proved Menza could play anything Mustaine wrote, these three records proved he understood exactly when not to — and Cryptic Writings, with \"Trust\"'s elegantly simple groove, is the clearest distillation of that lesson in his entire catalog.\n\n**The Legacy:**\nMenza was fired from Megadeth in 1998, returned briefly for the band's 2004 reunion, and tragically died on stage in 2016 while performing with his band OHM. Cryptic Writings remains the final studio statement of his classic-era Megadeth tenure — a Platinum-selling, radio-defining record built on the Pearl Reference Custom kit that closed out the endorsement journey he began seven years after debuting on the Tama Swingstar for Rust in Peace.\n\nFor deeper study:\n- **Full Menza gear overview**: [Nick Menza Drum Setup](/articles/nick-menza-drum-setup)\n- **The arc's middle chapter**: [Youthanasia Drum Setup](/articles/youthanasia-drum-setup)\n- **The arc's opening chapter**: [Countdown to Extinction Drum Setup](/articles/countdown-to-extinction-drum-setup)\n- **Full drummer profile**: [Nick Menza at MetalDrummerGear](/drummer/nick-menza)\n\n🥁 *\"Trust\" — the deceptively simple groove that closed out Nick Menza's Megadeth era.* 🤘"
     }
   },
   "youthanasia-drum-setup": {
@@ -1241,7 +1238,7 @@ export const articles = {
     "ogImage": "/images/albums/youthanasia-drums.webp",
     "intro": {
       "title": "Youthanasia: Nick Menza's Most Refined Recording",
-      "content": "Released November 1, 1994 on Capitol Records, Youthanasia is Megadeth's sixth studio album and the recording that captures Nick Menza at his absolute peak. Produced by Max Norman alongside Dave Mustaine, the album debuted at #4 on the Billboard 200 and #6 on the UK Albums Chart, eventually earning 2× Platinum certification in the United States. It spawned the hit singles \"A Tout le Monde\" and \"Train of Consequences,\" and remains one of the defining mid-1990s metal releases — a record where thrash intensity was channeled into songcraft rather than sheer aggression.\n\nWhat makes Youthanasia singular among Megadeth records is the studio it was tracked in. Phase Four Studios — a purpose-built facility in the Phoenix, Arizona area constructed specifically for this album — was the band's own creation, designed to give them unlimited time and total control over the recording environment. Megadeth literally built a studio for one record, then used it to capture an album whose every detail reflects that level of intention. For Nick Menza, that meant the ability to dial in his drum sound across long sessions without the clock-watching pressure of a rented commercial facility. The result is the most carefully balanced drum tone of his Megadeth tenure: warm, focused, and present without the over-compressed edge that plagued many 1994-era metal productions.\n\nA core compositional decision shaped how Menza approached the record. Mustaine and Norman deliberately tuned every song on the album to be playable at the same metronome tempo (roughly 88 BPM), creating a unified feel across the entire release. For a drummer, that constraint imposes an unusual discipline: the groove pocket has to live in microtiming, dynamic shading, and feel rather than tempo variation. Menza's response was to lean even further into the jazz-informed vocabulary that had always distinguished him — ghost notes, dynamic shading, melodic fill construction, and a remarkable patience that lets each song breathe rather than rush. This is the same player who built the breakneck blasts of \"Holy Wars,\" now operating at a single steady pulse for an entire album and finding endless variation inside it.\n\nGear-wise, Youthanasia caught Menza a step further into his Pearl endorsement. Having moved on from the Tama Artstar II to a Pearl Masters kit for Countdown to Extinction, Menza moved up again for Youthanasia to a Pearl Masterworks — the most premium kit of his career — which remained his primary instrument across the sessions. The Masterworks was paired with a matching Pearl snare, and his Paiste 2002 and Signature cymbal setup gave the album its bright, articulate top end. The double 22\" bass drums were tuned slightly tighter than the cavernous Rust in Peace sound — appropriate for an album that prioritized groove over speed.\n\nThis article breaks down every component of Nick Menza's Youthanasia drum kit: the Pearl Masterworks configuration, the matching signature snare, the Paiste cymbal arsenal, and how each gear choice supported the unified-tempo concept that made Youthanasia one of the most cohesive metal albums of the 1990s.",
+      "content": "Released November 1, 1994 on Capitol Records, Youthanasia is Megadeth's sixth studio album and the recording that captures Nick Menza at his absolute peak. Produced by Max Norman alongside Dave Mustaine, the album debuted at #4 on the Billboard 200 and #6 on the UK Albums Chart, eventually earning 2× Platinum certification in the United States. It spawned the hit singles \"A Tout le Monde\" and \"Train of Consequences,\" and remains one of the defining mid-1990s metal releases — a record where thrash intensity was channeled into songcraft rather than sheer aggression.\n\nWhat makes Youthanasia singular among Megadeth records is the studio it was tracked in. Phase Four Studios — a purpose-built facility in the Phoenix, Arizona area constructed specifically for this album — was the band's own creation, designed to give them unlimited time and total control over the recording environment. Megadeth literally built a studio for one record, then used it to capture an album whose every detail reflects that level of intention. For Nick Menza, that meant the ability to dial in his drum sound across long sessions without the clock-watching pressure of a rented commercial facility. The result is the most carefully balanced drum tone of his Megadeth tenure: warm, focused, and present without the over-compressed edge that plagued many 1994-era metal productions.\n\nA core compositional decision shaped how Menza approached the record. Mustaine and Norman deliberately tuned every song on the album to be playable at the same metronome tempo (roughly 88 BPM), creating a unified feel across the entire release. For a drummer, that constraint imposes an unusual discipline: the groove pocket has to live in microtiming, dynamic shading, and feel rather than tempo variation. Menza's response was to lean even further into the jazz-informed vocabulary that had always distinguished him — ghost notes, dynamic shading, melodic fill construction, and a remarkable patience that lets each song breathe rather than rush. This is the same player who built the breakneck blasts of \"Holy Wars,\" now operating at a single steady pulse for an entire album and finding endless variation inside it.\n\nGear-wise, Youthanasia caught Menza a step further into his Pearl endorsement. Having moved on from the Tama Swingstar to a Pearl Masters kit for Countdown to Extinction, Menza moved up again for Youthanasia to a Pearl Masterworks — the most premium kit of his career — which remained his primary instrument across the sessions. The Masterworks was paired with a matching Pearl snare, and his Paiste 2002 and Signature cymbal setup gave the album its bright, articulate top end. The double 22\" bass drums were tuned slightly tighter than the cavernous Rust in Peace sound — appropriate for an album that prioritized groove over speed.\n\nThis article breaks down every component of Nick Menza's Youthanasia drum kit: the Pearl Masterworks configuration, the matching signature snare, the Paiste cymbal arsenal, and how each gear choice supported the unified-tempo concept that made Youthanasia one of the most cohesive metal albums of the 1990s.",
       "keyPoints": [
         "Youthanasia (November 1, 1994) — 2× Platinum US, #4 Billboard 200, #6 UK",
         "Recorded at Phase Four Studios, the Phoenix-area facility Megadeth built specifically for this album",
@@ -1258,7 +1255,7 @@ export const articles = {
       "finish": "Black / Natural (varies by performance footage)",
       "config": {
         "bassdrums": [
-          "22\" x 16\" Bass Drum (x2 — double kick configuration, slightly shallower than Rust in Peace)"
+          "22\" x 16\" Bass Drum (x2 — double kick configuration)"
         ],
         "toms": [
           "10\" Rack Tom",
@@ -1271,7 +1268,7 @@ export const articles = {
       "description": "For the Youthanasia sessions at Phase Four Studios, Nick Menza relied on the Pearl Masterworks — the most premium kit of his career, and an upgrade from the Pearl Masters he had used on Countdown to Extinction. The Masterworks was Pearl's flagship maple shell offering of the period, and its tonal personality — warm fundamentals, controlled sustain, and excellent projection — made it a natural fit for the album's mid-tempo articulation demands.\n\nThe Youthanasia configuration features double 22\" bass drums in a slightly shallower 16\" depth, compared to the cavernous 18\" depths often seen on heavier thrash recordings. The shorter depth gives the kick a tighter, more focused attack — appropriate for an album where the rhythmic foundation prioritizes groove and pocket over sheer low-end weight. With Youthanasia's unified-tempo concept holding every song to the same approximate BPM, the kick drum needed to deliver consistent definition rather than overwhelming size.\n\nThe four-tom layout — 10\" and 12\" rack toms with 14\" and 16\" floor toms — gave Menza the melodic range needed for his fill writing. Listen to \"A Tout le Monde\" for the dynamic restraint his fills exhibit at the chorus transitions, or \"Train of Consequences\" for the way the tom voicings articulate the riff shapes rather than commenting from outside them. The maple shells produce a tom voice with warmth and clean decay — exactly what an album of carefully constructed mid-tempo songs needed.\n\nPhase Four Studios was purpose-built for this record. Megadeth designed the live room and control room together to maximize tracking flexibility — which mattered enormously for drum recording. Menza could spend days perfecting his sound rather than racing against a commercial studio's day rate. The result is audible in every Youthanasia drum track: tonal consistency from song to song, careful microphone placement evident in the imaging, and the kind of detailed mid-range that only sustained work produces.\n\nThe kit's black or natural finish (the exact shade varied across performance footage) was understated by the visual standards of 1994 — appropriate for a record that signaled Megadeth's transition from thrash spectacle to mature songwriting.",
       "notes": [
         "Pearl Masterworks — the most premium kit of Menza's career, maple shells",
-        "Double 22\" x 16\" bass drums (shallower than Rust in Peace era for tighter attack)",
+        "Double 22\" x 16\" bass drums for tighter, focused attack",
         "10/12 rack toms + 14/16 floor toms — four-tom melodic range",
         "Maple construction: warm fundamentals, controlled sustain, strong projection",
         "Recorded at Phase Four Studios, the purpose-built Phoenix facility"
@@ -1284,7 +1281,7 @@ export const articles = {
       "model": "Pearl Masterworks Snare",
       "size": "14\" x 6.5\"",
       "shell": "Brass",
-      "description": "Nick Menza paired his Pearl Masterworks kit with a matching Pearl snare for Youthanasia, continuing the Pearl relationship he'd begun on Countdown to Extinction — a step up from the Tama Artstar Bell Brass snare that had cut through Rust in Peace. The brass shell produces a snare voice with strong tonal definition: a bright, focused crack with fast decay and exceptional projection.\n\nOn Youthanasia, the snare is captured with more space and air around it than on the more compressed Countdown to Extinction recordings. Phase Four Studios' purpose-built tracking environment let producer Max Norman work the room sound into the mix rather than relying purely on close microphones. The result is a snare voice that retains a cutting attack while breathing more naturally inside the album's broader mix. Listen to the way the snare sits in \"A Tout le Monde\" — present without being mixed-forward, with enough overtone life to feel like a real drum in a real space rather than a triggered sample.\n\nThe 6.5\" depth gives the drum more body than a standard 5.5\" snare while preserving the articulation needed for Menza's ghost note work. On Youthanasia's more restrained material, those ghost notes are essential: when every song lives at roughly the same tempo, the subtle left-hand texture between backbeats becomes a primary source of forward motion. The brass shell's clarity and the deeper shell's body combine to make those quieter strokes audible without overwhelming the louder accents.\n\nMenza's tuning approach across the album leans toward an upper-medium range — tight enough to produce defined rimshots on the heavier sections, loose enough to let the snare wires speak for the softer ghosted passages. Coated Remo Ambassador heads provide warmth and attack control. The combination produced one of the most musically intelligent snare sounds of any 1994 metal release.",
+      "description": "Nick Menza paired his Pearl Masterworks kit with a matching Pearl snare for Youthanasia, continuing the Pearl relationship he'd begun on Countdown to Extinction — a step up from the Tama Steel snare that had cut through Rust in Peace. The brass shell produces a snare voice with strong tonal definition: a bright, focused crack with fast decay and exceptional projection.\n\nOn Youthanasia, the snare is captured with more space and air around it than on the more compressed Countdown to Extinction recordings. Phase Four Studios' purpose-built tracking environment let producer Max Norman work the room sound into the mix rather than relying purely on close microphones. The result is a snare voice that retains a cutting attack while breathing more naturally inside the album's broader mix. Listen to the way the snare sits in \"A Tout le Monde\" — present without being mixed-forward, with enough overtone life to feel like a real drum in a real space rather than a triggered sample.\n\nThe 6.5\" depth gives the drum more body than a standard 5.5\" snare while preserving the articulation needed for Menza's ghost note work. On Youthanasia's more restrained material, those ghost notes are essential: when every song lives at roughly the same tempo, the subtle left-hand texture between backbeats becomes a primary source of forward motion. The brass shell's clarity and the deeper shell's body combine to make those quieter strokes audible without overwhelming the louder accents.\n\nMenza's tuning approach across the album leans toward an upper-medium range — tight enough to produce defined rimshots on the heavier sections, loose enough to let the snare wires speak for the softer ghosted passages. Coated Remo Ambassador heads provide warmth and attack control. The combination produced one of the most musically intelligent snare sounds of any 1994 metal release.",
       "tuningSetting": "Upper-medium — tight rimshot crack on accents, open enough for ghost note articulation in the unified-tempo arrangements",
       "heads": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)",
       "estimatedValue": "$600–1,200 (vintage Pearl Masterworks snare)"
@@ -1389,11 +1386,11 @@ export const articles = {
     "faq": [
       {
         "question": "What drum kit did Nick Menza use on Youthanasia?",
-        "answer": "Nick Menza played a Pearl Masterworks on the Youthanasia sessions — the most premium kit of his career, an upgrade from the Pearl Masters he used on Countdown to Extinction. The kit featured double 22\" x 16\" bass drums (slightly shallower than the Rust in Peace era for tighter attack), 10\" and 12\" rack toms, and 14\" and 16\" floor toms. The maple shells provided a warm, focused attack with controlled sustain — well-suited to Youthanasia's mid-tempo, groove-oriented arrangements."
+        "answer": "Nick Menza played a Pearl Masterworks on the Youthanasia sessions — the most premium kit of his career, an upgrade from the Pearl Masters he used on Countdown to Extinction. The kit featured double 22\" x 16\" bass drums, 10\" and 12\" rack toms, and 14\" and 16\" floor toms. The maple shells provided a warm, focused attack with controlled sustain — well-suited to Youthanasia's mid-tempo, groove-oriented arrangements."
       },
       {
         "question": "What snare drum did Nick Menza use on Youthanasia?",
-        "answer": "Menza used a Pearl Masterworks snare at 14\"x6.5\" on Youthanasia, matching his Pearl kit — a step up from the Tama Artstar Bell Brass snare he had used on Rust in Peace. The brass shell delivers a bright, focused crack with fast decay and excellent projection, captured at Phase Four Studios with more room ambience than the more compressed Countdown to Extinction snare sound."
+        "answer": "Menza used a Pearl Masterworks snare at 14\"x6.5\" on Youthanasia, matching his Pearl kit — a step up from the Tama Steel snare he had used on Rust in Peace. The brass shell delivers a bright, focused crack with fast decay and excellent projection, captured at Phase Four Studios with more room ambience than the more compressed Countdown to Extinction snare sound."
       },
       {
         "question": "Where was Youthanasia recorded?",

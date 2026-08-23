@@ -1824,11 +1824,21 @@ export function getMetaForPath(pathname) {
             answer: `${technique.title} has ${technique.variations.length} main variations: ${technique.variations.map(v => `${v.name} (${v.description})`).join('; ')}.`,
           }] : []),
         ],
+        // Issue #6052: techMasters' `note` text was only ever embedded inside the
+        // Person nodes' JSON-LD description — never surfaced as visible HTML, so
+        // crawlers weighting body text over structured data saw a thinner page
+        // than the schema promised. Additive ssrLinks[i].description entry per
+        // master, same pattern #5721 used for /lists/<slug> ranked-drummer notes.
         ssrLinks: [
           { href: '/techniques', label: 'All Techniques' },
           ...getRelatedTechniques(slug).slice(0, 3).map(t => ({
             href: `/techniques/${t.slug}`,
             label: t.title,
+          })),
+          ...techMasters.map(m => ({
+            href: m.slug ? `/drummer/${m.slug}` : `/techniques/${slug}`,
+            label: m.name,
+            description: m.note,
           })),
         ],
       };
@@ -1872,6 +1882,13 @@ export function getMetaForPath(pathname) {
           href: m.slug ? `/drummer/${m.slug}` : null,
           label: m.band ? `${m.name} (${m.band})` : m.name,
         })).filter(l => l.href),
+        // Issue #6052: same fix as the sibling /techniques/<slug> hub — masters'
+        // `note` text was JSON-LD-only. Additive ssrLinks[i].description per master.
+        ssrLinks: masters.map(m => ({
+          href: m.slug ? `/drummer/${m.slug}` : `/technique/${slug}/drummers`,
+          label: m.name,
+          description: m.note,
+        })),
         articleSchema: JSON.stringify({
           '@context': 'https://schema.org',
           '@graph': [

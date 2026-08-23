@@ -5856,3 +5856,42 @@ Filed only 2 despite 8-max/45-cap headroom — quality over volume; this pair is
 3. Monday 08-24: L1/L2/L3 weekly refresh + drum-chair rotation (week 35 group: pantera, periphery, sepultura, slayer, slipknot, sons-of-apollo, suicidal-tendencies, testament, tool, vader, volto) both due — first run that day should do both.
 4. If more bank capacity is needed before 08-24, the productive angle is still "check other under-swept data-file families the same way" per the 07:23 run's note — `signatureGear.js` and `endorsementNews.js` haven't been fully cross-checked yet (this run focused on the `gearPriceHistory.js`/`drummerEvolution.js` lead that surfaced first).
 5. igor-cavalera's 1993-96 cymbal brand (Zildjian K Custom vs Paiste RUDE) remains unresolved — still needs a period-specific source, don't force it.
+
+---
+
+## 2026-08-23 — Run: 7 fresh albumArticles.js gear-fabrication proposals (hellhammer, mike-mangini, charlie-benante, nick-menza, vinnie-paul, shannon-larkin, abe-cunningham)
+
+### Bank check
+Open `seo-proposal` count at run start: 5 total (2 real: #6028/#6029 already-promoted-but-still-labeled from the prior run; 3 standing umbrellas #3810/#3819/#2211). Well under the 45 cap → filed up to 8 per the "bank < 45" rule.
+
+### Audit summary
+- Robots.txt: all 8 AI crawlers (GPTBot, ChatGPT-User, ClaudeBot, anthropic-ai, PerplexityBot, Applebot-Extended, cohere-ai, Google-Extended) explicitly allowed. ✅ No action.
+- `/public/llms/*.md`: 2,001 files live — well past the original 62-drummer target (roster-wide FAQ/gearHighlights/sources.items sweeps already closed per `learned-patterns.md`). No action.
+- Metrics: 206 users/244 sessions/429 views (7d); GSC 5,405 impr/117 clicks/2.16% CTR/pos 9.7. Sole content-gap row (`ben koller`, 55 impr, 0% CTR) already actioned by the CEO this run cycle as #6036 — not re-filed.
+
+### Proposals filed this run (7)
+Continued the proven, CEO-auto-fast-tracked `albumArticles/*.js` vs `extendedBios.js` gear-brand-contradiction vein (dozens of drummers already fixed this vein — see `learned-patterns.md` "new vein confirmed" entries). Dispatched a research agent to grep the ~25 drummers NOT yet covered by that sweep, then personally spot-verified every finding against both files (and, for 3 of them, against the actual diff of the prior "fix" commit) before filing — this repo has a documented history of false-closures on this exact bug class, so verifying the prior fix's real scope mattered as much as verifying the contradiction itself.
+
+1. **#6037** — Hellhammer's `in-sorte-diaboli-drum-setup` article still says Pearl/Sabian/Vater. Confirmed via `git show 5d47a3e9` (the #5693/#5716 fix) that this is the **explicit follow-up scope note** left in that commit message ("the same fabricated-brand pattern extends into other per-album entries... out of scope for this pass, file as follow-up") — not a duplicate.
+2. **#6038** — Mike Mangini's 2013 self-titled album article fabricates an entire Ludwig/Meinl/DW gear-swap-for-one-album narrative. Confirmed via `git show 1f59aedd` (#5724/#5753) that the prior fix only touched a *different* article (the general overview) in the same file — this one was never touched.
+3. **#6039** — Charlie Benante's Sound of White Noise (1993) article fabricates a DW/Sabian switch-era narrative; extendedBios documents continuous Tama/Paiste (only the 2010 pedal switch is a real documented change). No prior fix issue found for this specific article.
+4. **#6040** — Nick Menza's Rust in Peace article has the right brand (Tama) but wrong model/shell material/snare vs extendedBios's Tama Swingstar/poplar/Tama Steel — distinct from #5747, which only fixed the file's 3 *later* Pearl-era albums.
+5. **#6041** — Vinnie Paul's Far Beyond Driven (1994) article still says Pearl/Zildjian/Vater. Confirmed via `git show c234a138` (#5746/#5766) that the prior fix corrected only the sibling VDOP (1992) article and touched one FBD keyPoints line inconsistently — extendedBios's own "Equipment Evolution" list places **both** VDOP and FBD in the same 1992-1996 Remo era, so this is the missed other half of that same fix, not a duplicate.
+6. **#6042** — Shannon Larkin's sticks field says Vater across every albumArticles entry; extendedBios says Vic Firth. Confirmed via `git show d46e8d41` (#5745/#5765) that the prior fix's own commit message explicitly states it "left... Vater sticks untouched since those weren't flagged as incorrect" — this issue is exactly that flagged gap.
+7. **#6043** — Abe Cunningham's Diamond Eyes (2010) article claims "longtime Sabian HHX" cymbals; extendedBios says Zildjian, no Sabian relationship documented anywhere. Same #5693/#5716 explicit-follow-up scope note as #6037 (abe-cunningham was named in that commit's scope-note list alongside hellhammer/martin-axenrot).
+
+**Dropped from filing** (agent proposed, I excluded after review): jaska-raatikainen — both flagged album articles (Hatebreeder 1999, Hate Crew Deathroll 2003) explicitly self-frame as an "early Tama... before the Starclassic/Pearl era" narrative, which is plausible genuine career history rather than fabrication, and no source on the site documents what he actually played in 1999-2003 to confirm either way. Per the verified-only/tenure-lesson rule (Kairos #4160, aquiles-priester precedent), held rather than filed as fabrication.
+
+All 7: single-file, additive-only, zero new pages/URLs, freeze-compliant. Each issue body cites exact line numbers in both the wrong and correct source, and — for the 4 that overlap a prior "fix" commit — explicitly quotes that commit's message to preempt duplicate-confusion at CEO triage.
+
+### Open proposals waiting on CEO triage
+- #6037, #6038, #6039, #6040, #6041, #6042, #6043 (filed this run, 0d old)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers only.
+
+### Drum-chair watch
+Today (2026-08-23) is Sunday — not Monday, and last week's sweep already logged. Skipped per the "first run each Monday" gate; next due 2026-08-24 (week 35 group per the prior run's note).
+
+### Next run
+1. Watch #6037-#6043 ship via Roadie; #6041 (Vinnie Paul) and #6042 (Shannon Larkin) are the highest-scrutiny ones since they correct a *previous* PR's incomplete fix rather than a fresh untouched file — confirm the merged PR doesn't just re-touch the same lines the prior fix already got right.
+2. The albumArticles-vs-extendedBios vein is thinning — after this batch, roughly a dozen drummers remain fully unaudited (adrian-erlandsson, art-cruz, chris-turner, jon-dette, isaac-lamb, scott-travis, richard-christy, daniel-erlandsson [ambiguous 3-file cymbal split, needs external tiebreak], jaska-raatikainen [tenure-ambiguous, held]). Worth one more pass before considering this vein exhausted.
+3. Monday 08-24: L1/L2/L3 weekly refresh + drum-chair rotation (week 35 group) both due.

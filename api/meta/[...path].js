@@ -5250,6 +5250,16 @@ export function getMetaForPath(pathname) {
           { name: drummer.name, url: `${BASE_URL}/drummer/${slug}` },
           { name: 'Biography', url: bioUrl },
         ],
+        // Issue #6071: this dedicated biography page rendered no body prose at
+        // all — the overview text reached only JSON-LD's about.description.
+        // Reuses the #6070 bioSections/renderBioParagraphs template hook.
+        bioSections: {
+          name: drummer.name,
+          overview: extBio.sections?.overview?.content,
+          careerHighlights: extBio.sections?.careerHighlights?.items,
+          styleAndInfluences: extBio.sections?.styleAndInfluences?.content,
+          gearHighlights: extBio.sections?.gearHighlights?.content,
+        },
         ssrLinks: [
           { href: `/drummer/${slug}`, label: `${drummer.name} Profile` },
         ],

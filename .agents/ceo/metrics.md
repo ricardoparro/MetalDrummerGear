@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-22 19:25 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-23 01:13 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,89 +8,89 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 237 |
-| Sessions | 282 |
-| Page views | 462 |
-| Engagement rate | 56.03% |
-| Avg session (s) | 335 |
+| Active users | 206 |
+| Sessions | 244 |
+| Page views | 428 |
+| Engagement rate | 56.97% |
+| Avg session (s) | 416 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| /drummers | 43 | 5 |
-| / | 32 | 27 |
+| / | 31 | 24 |
+| /drummers | 31 | 4 |
 | /drummer/joey-jordison | 14 | 7 |
-| /drummer/mario-duplantier | 12 | 10 |
-| /articles/obsolete-drum-setup | 9 | 1 |
-| /drummer/brann-dailor | 9 | 2 |
-| /drummer/danny-carey | 9 | 6 |
+| /drummer/danny-carey | 11 | 7 |
+| /drummer/mario-duplantier | 10 | 9 |
+| /drummer/brann-dailor | 8 | 1 |
 | /drummers/dave-lombardo/evolution | 8 | 2 |
 | /articles/st-anger-drum-setup | 7 | 6 |
+| /drummer/daniel-erlandsson | 7 | 1 |
 | /drummer/ben-koller | 6 | 5 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 224 | 181 |
-| Direct | 49 | 49 |
-| Unassigned | 21 | 18 |
-| Organic Social | 2 | 2 |
+| Organic Search | 196 | 161 |
+| Direct | 40 | 40 |
+| Unassigned | 23 | 19 |
+| Organic Social | 3 | 2 |
 | AI Assistant | 1 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 117 | 89 |
-| United Kingdom | 15 | 13 |
-| Germany | 13 | 13 |
-| Canada | 12 | 10 |
-| France | 10 | 8 |
+| United States | 94 | 73 |
+| United Kingdom | 14 | 12 |
+| Germany | 12 | 12 |
+| Canada | 11 | 9 |
+| France | 9 | 7 |
+| Brazil | 8 | 6 |
 | Finland | 8 | 7 |
-| Brazil | 7 | 5 |
 | Poland | 7 | 6 |
-| Singapore | 7 | 7 |
 | Colombia | 6 | 5 |
+| Singapore | 5 | 5 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 6,456 |
-| Clicks | 139 |
-| CTR | 2.15% |
-| Avg position | 9.6 |
+| Impressions | 5,405 |
+| Clicks | 117 |
+| CTR | 2.16% |
+| Avg position | 9.7 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| brann dailor drum kit | 16 | 2 | 12.50% | 6.8 |
-| mario duplantier drum kit | 42 | 2 | 4.76% | 6.6 |
+| mario duplantier drum kit | 37 | 2 | 5.41% | 6.6 |
 | best metal drummers of all time | 24 | 1 | 4.17% | 7.7 |
-| danny carey drum kit setup | 2 | 1 | 50.00% | 9.0 |
-| deathcore drum kit | 2 | 1 | 50.00% | 4.5 |
-| eloy casagrande drum kit | 11 | 1 | 9.09% | 8.9 |
-| joey jordison drum kit | 63 | 1 | 1.59% | 9.8 |
+| brann dailor drum kit | 13 | 1 | 7.69% | 6.5 |
+| danny carey drum kit setup | 1 | 1 | 100.00% | 10.0 |
+| deathcore drum kit | 1 | 1 | 100.00% | 4.0 |
+| eloy casagrande drum kit | 9 | 1 | 11.11% | 8.9 |
+| joey jordison drum kit | 49 | 1 | 2.04% | 9.8 |
 | joey jordison drum set 1999 | 2 | 1 | 50.00% | 6.0 |
-| john otto drum kit | 21 | 1 | 4.76% | 4.8 |
-| limp bizkit drum kit | 7 | 1 | 14.29% | 6.0 |
+| john otto drum kit | 20 | 1 | 5.00% | 5.0 |
+| limp bizkit drum kit | 6 | 1 | 16.67% | 6.8 |
 
 ### Top countries (impressions, last 7d)
 | Country | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| usa | 2,332 | 51 | 2.19% | 9.2 |
-| can | 299 | 10 | 3.34% | 9.1 |
-| fra | 149 | 8 | 5.37% | 7.1 |
-| gbr | 412 | 8 | 1.94% | 10.5 |
-| deu | 202 | 5 | 2.48% | 7.1 |
-| fin | 99 | 5 | 5.05% | 6.3 |
-| aus | 295 | 4 | 1.36% | 8.6 |
-| aut | 49 | 4 | 8.16% | 7.0 |
-| pol | 119 | 4 | 3.36% | 7.5 |
-| bra | 187 | 3 | 1.60% | 7.0 |
+| usa | 1,958 | 46 | 2.35% | 9.3 |
+| can | 239 | 8 | 3.35% | 8.9 |
+| fra | 126 | 6 | 4.76% | 7.2 |
+| gbr | 325 | 6 | 1.85% | 10.9 |
+| fin | 84 | 5 | 5.95% | 6.0 |
+| deu | 172 | 4 | 2.33% | 7.1 |
+| pol | 100 | 4 | 4.00% | 7.3 |
+| aus | 260 | 3 | 1.15% | 8.1 |
+| bra | 155 | 3 | 1.94% | 7.0 |
+| swe | 99 | 3 | 3.03% | 6.5 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 | Query | Impr | CTR | Pos | Action |
 | --- | --- | --- | --- | --- |
-| joey jordison drum kit | 63 | 1.59% | 9.8 | open issue to answer better |
+| ben koller | 55 | 0.00% | 9.3 | open issue to answer better |
 
 ---
 *Re-run manually: `node .agents/scripts/fetch-metrics.cjs`*

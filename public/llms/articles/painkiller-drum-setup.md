@@ -22,23 +22,23 @@ Recorded primarily at Wisseloord Studios in the Netherlands with producer Chris 
 - **Drums:** Tama Tama Artstar II (Piano Black finish)
 - **Snare:** Tama Tama Artstar II Steel, 14" x 6.5"
 - **Cymbals:** Paiste — Paiste Signature / 2002
-- **Hardware / Pedals:** Tama Iron Cobra HP900 (Prototype/Early Version); Tama Iron Cobra Hi-Hat Stand; Tama 1st Chair; Vic Firth 5B
+- **Hardware / Pedals:** Tama Iron Cobra HP900 (Prototype/Early Version) x2; Tama Iron Cobra Hi-Hat Stand; Tama 1st Chair Throne; Vic Firth American Classic 5B
 - **Heads:** Remo Emperor Coated (batter), Remo Ambassador Snare Side
 - **Snare tuning:** Medium-high tension, tight snare wires for maximum attack
 
-### Travis's Tama Powerhouse
+### Travis's Tama Artstar II Powerhouse
 
-For Painkiller, Scott Travis used a Tama Artstar II kit that would become synonymous with speed metal drumming. The Artstar II featured birch shells known for their aggressive attack and focused tone — essential qualities for cutting through Priest's wall of guitars at extreme speeds.
+For Painkiller, Scott Travis used a Tama Artstar II kit that would become synonymous with speed metal drumming. The Artstar II's birch shells were chosen for their aggressive attack and focused tone — essential qualities for cutting through Priest's wall of guitars at extreme speeds.
 
 The double 22" x 16" bass drums were the foundation of Travis's revolutionary sound. Tuned tight and punchy, they produced the machine-gun attack that defines the Painkiller album. Unlike many metal drummers who favor deep, boomy bass drums, Travis's setup emphasized clarity and articulation, allowing every note to be heard even at blinding speeds.
 
 The rack tom configuration (10", 12", 13") along with two floor toms (14", 16") gave Travis a complete palette for his rapid-fire fills. The Artstar II's die-cast hoops enhanced attack and rim shot clarity, crucial for the snare-intensive patterns throughout the album.
 
-The birch shells provided the projection needed for Painkiller's massive sound. Unlike maple's warmth, birch delivers more high-frequency attack — ideal for the aggressive, in-your-face drum sound that defined the album.
+Birch delivered more high-frequency attack than maple, giving Travis the projection needed for Painkiller's massive sound and defining the album's aggressive, in-your-face drum sound.
 
 ### The Crack of Thunder
 
-The snare sound on Painkiller cuts through like a blade — tight, explosive, and perfectly positioned in the mix. Travis achieved this with a Tama Artstar II steel snare that provided the brightness and attack needed for the album's demanding material.
+The snare sound on Painkiller cuts through like a blade — tight, explosive, and perfectly positioned in the mix. Travis achieved this with the steel-shelled Tama Artstar II snare that gave him the brightness and attack needed for the album's demanding material.
 
 The 14" x 6.5" dimensions gave the drum both the projection for powerful backbeats and the response for the rapid ghost notes and intricate patterns throughout the album. The steel shell delivered the high-frequency crack that pierced through K.K. Downing and Glenn Tipton's dual guitar assault.
 
@@ -50,13 +50,13 @@ The die-cast hoops added durability for Travis's powerful rim shots and enhanced
 
 Scott Travis's cymbal setup blended Paiste's Signature series (known for their brilliant finish and projection) with the classic 2002 line. This combination delivered the brightness and cut essential for heavy metal's most demanding album.
 
-The 14" Signature Heavy Hi-Hats were crucial for Travis's playing style. Their weight provided stability during aggressive patterns while the brilliant finish gave them the shimmer and projection to cut through the mix. Fast hi-hat work is featured prominently throughout the album.
+The 14" Signature Heavy Hi-Hats were crucial for Travis's playing style. Their weight provided stability during aggressive patterns while their projection cut through the mix. Fast hi-hat work is featured prominently throughout the album.
 
-The array of crash cymbals (16" through 20") gave Travis options for different dynamics and textures. The Signature Power Crashes emphasized high frequencies and fast response, while the 2002 crashes added warmth for variety.
+The array of crash cymbals (16" through 20") gave Travis options for different dynamics and textures. The Signature crashes emphasized high frequencies and fast response, while the 2002 crashes added warmth for variety.
 
-The 22" Power Ride was substantial enough to withstand Travis's forceful playing while providing clear stick definition for ride-heavy passages. The bell sound was particularly important for accents throughout the album.
+The 22" Signature Power Ride was substantial enough to withstand Travis's forceful playing while providing clear stick definition for ride-heavy passages. The bell sound was particularly important for accents throughout the album.
 
-The 20" Novo China added the explosive accents that punctuate key moments throughout Painkiller. These trashy, cutting sounds became part of the album's sonic signature.
+The 20" 2002 Novo China added the explosive accents that punctuate key moments throughout Painkiller. These trashy, cutting sounds became part of the album's sonic signature.
 
 ## Key Facts
 
@@ -66,18 +66,18 @@ The 20" Novo China added the explosive accents that punctuate key moments throug
 - Album revitalized Judas Priest and proved metal could evolve
 - Double bass work set new standards for the entire genre
 - Double bass drums tuned tight for maximum articulation
-- Birch shells provided aggressive attack and projection
+- Birch Artstar II shells provided aggressive attack and projection
 - Die-cast hoops enhanced rim shot clarity
 - Configuration optimized for speed without sacrificing power
 - This kit established the template for modern speed metal drumming
-- Estimated kit value: $3,500-5,000 (1990)
-- Estimated snare value: $400-500 (1990)
+- Estimated kit value: $1,800-2,400 (1990)
+- Estimated snare value: $250-350 (1990)
 
 ## Frequently Asked Questions
 
 **Q: What drum kit did Scott Travis use on Painkiller?**
 
-A: Scott Travis recorded Painkiller in 1990 using a Tama Artstar II kit with birch shells and die-cast hoops. The setup featured dual 22x16 inch bass drums, three rack toms at 10, 12, and 13 inches, and 14 and 16 inch floor toms. The Artstar II was Tama's top professional line at the time, delivering the tight, punchy attack that powered the album's relentless speed and precision.
+A: Scott Travis recorded Painkiller in 1990 using a Tama Artstar II kit with birch shells and die-cast hoops. The setup featured dual 22x16 inch bass drums, three rack toms at 10, 12, and 13 inches, and 14 and 16 inch floor toms, delivering the tight, punchy attack that powered the album's relentless speed and precision. Travis switched to Pearl's Reference Series in the 2000s before moving to his current ddrum setup for Firepower (2018).
 
 **Q: What cymbals did Scott Travis use on Painkiller?**
 
@@ -85,10 +85,10 @@ A: Scott Travis used Paiste Signature and 2002 series cymbals on Painkiller. His
 
 **Q: How much does Scott Travis's Painkiller drum kit cost?**
 
-A: At the time of the 1990 recording, the Tama Artstar II kit was valued at approximately $3,500 to $5,000. Today, vintage Artstar II kits in good condition sell for $800 to $2,500 on the used market. Paiste Signature and 2002 cymbals from that era can add another $500 to $1,500 used. Reproducing the full setup in vintage condition typically costs between $1,300 and $4,000 today.
+A: At the time of the 1990 recording, the Tama Artstar II kit was valued at approximately $1,800 to $2,400. Paiste Signature and 2002 cymbals from that era can add another $1,800 to $2,300. Reproducing the full setup in vintage condition typically costs between $1,300 and $4,000 today.
 
 **Source:** https://metalforge.io/articles/painkiller-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-08-24 · Source: [MetalForge.io](https://metalforge.io)*

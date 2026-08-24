@@ -15,38 +15,38 @@ With Halford gone, Judas Priest auditioned dozens of singers before guitarist Gl
 
 Sonically, Jugulator is a hard left turn. Guitars are downtuned to C# and C, trading Painkiller's high-speed gallop for a heavier, more thrash-and-groove-metal-oriented sound closer to contemporaries like Pantera and Machine Head than to classic Priest. The album charted at #82 on the Billboard 200, a steep drop from the band's commercial peak, and reached #9 in both Germany and Japan, evidence that the reinvention found an audience even as it alienated traditionalists.
 
-For Scott Travis, Jugulator required a genuine stylistic pivot. The sustained, blast-furnace double bass that defined Painkiller gives way here to a more controlled, groove-locked attack built to serve downtuned riffs rather than outrun them. Travis's gear evolved to match: he moved from the Tama Artstar II birch kit of the Painkiller sessions into a Pearl Masters Custom setup, paired with a leaner all-Paiste 2002 cymbal voice. It's the missing middle chapter of Travis's Priest career, the one that explains how the Painkiller phenom became the drummer who could anchor whatever direction the band needed next.
+For Scott Travis, Jugulator required a genuine stylistic pivot. The sustained, blast-furnace double bass that defined Painkiller gives way here to a more controlled, groove-locked attack built to serve downtuned riffs rather than outrun them. Travis's gear stayed the same Tama Artstar II kit and Paiste Signature/2002 cymbal voice he used on Painkiller — it's his playing, not his equipment, that pivots on Jugulator. It's the missing middle chapter of Travis's Priest career, the one that explains how the Painkiller phenom became the drummer who could anchor whatever direction the band needed next.
 
 ## Gear Breakdown
 
-- **Drums:** Pearl Pearl Masters Custom (Piano Black finish)
-- **Snare:** Pearl Pearl Masters Custom, 14" x 6.5"
-- **Cymbals:** Paiste — Paiste 2002
-- **Hardware / Pedals:** Pearl Eliminator (x2 independent pedals); Pearl Eliminator Hi-Hat Stand; Pearl Throne, round seat; Vic Firth 5B
+- **Drums:** Tama Tama Artstar II (Piano Black finish)
+- **Snare:** Tama Tama Artstar II Steel, 14" x 6.5"
+- **Cymbals:** Paiste — Paiste Signature / 2002
+- **Hardware / Pedals:** Tama Iron Cobra HP900 (Prototype/Early Version) x2; Tama Iron Cobra Hi-Hat Stand; Tama 1st Chair Throne, round seat; Vic Firth American Classic 5B
 - **Heads:** Remo Pinstripe (batter), Remo Ambassador Snare Side
 - **Snare tuning:** Medium-high tension, moderate snare wire tension for body and cut
 
-### The Pearl Masters Custom Era Begins
+### The Tama Artstar II, Built for the Downtune
 
-Jugulator marks the first documented switch in Scott Travis's Priest gear story: out of the Tama Artstar II birch kit that powered Painkiller, and into a Pearl Masters Custom setup. The Masters Custom's maple/gum hybrid shell construction trades some of the Artstar II's aggressive high-mid bite for a rounder, punchier low end, a better match for Jugulator's downtuned, C#/C guitar tuning, where a thinner-sounding kit would have gotten buried.
+Jugulator required a genuine stylistic pivot for Scott Travis, but not a gear change — he stayed on the same Tama Artstar II birch kit that anchored Painkiller. The kit's punchy low end and focused, aggressive attack proved a good match for Jugulator's downtuned, C#/C guitar tuning, where a thinner-sounding kit would have gotten buried.
 
-The bass drums also deepened for the first time in Travis's Priest career: 22" x 18", two inches deeper than the 22" x 16" kicks he used on Painkiller. That extra depth is exactly what a groove-metal album built around sustained, downtuned riffs needs — more low-end weight, less machine-gun clatter. It's a configuration Travis would keep for the rest of his Priest career, through Angel of Retribution, Nostradamus, Redeemer of Souls, and Firepower.
+The configuration carried over unchanged from Painkiller: double 22" x 16" bass drums, 10"/12"/13" rack toms, and 14"/16" floor toms. Travis wouldn't move off this Tama rig until the 2000s, when he switched to Pearl's Reference Series for Angel of Retribution.
 
-The tom array also streamlined here: two rack toms (10", 12") instead of Painkiller's three (10", 12", 13"), plus the same 14"/16" floor tom pairing. Fewer toms meant fewer options for the rapid melodic runs of 1990, but a tighter, more decisive fill vocabulary, appropriate for songs that groove rather than sprint.
+The die-cast hoops preserved the rim-shot clarity Travis relied on throughout the album, and the birch shells' high-frequency bite gave the kit the cut it needed against Tipton and Downing's heavier, downtuned riffing.
 
 ### Built for the Downtune
 
-Travis paired his new Masters Custom kit with a matching 14" x 6.5" Masters Custom snare, a maple/gum hybrid shell that sits between the bright steel crack of his Painkiller-era Artstar II snare and the warmer brass tone he'd adopt in the 2000s. For Jugulator's thrash-groove material, that middle-ground tone was the right call: bright enough to cut through Tipton and Downing's downtuned riffing, full-bodied enough not to sound thin against the album's heavier low end.
+Travis paired his Artstar II kit with the same 14" x 6.5" steel-shelled Tama Artstar II snare he used on Painkiller. For Jugulator's thrash-groove material, that consistency was the right call: bright enough to cut through Tipton and Downing's downtuned riffing, full-bodied enough not to sound thin against the album's heavier low end.
 
 The die-cast hoops preserved the rim-shot clarity Travis relied on for accents, and he kept his tuning philosophy largely intact from Painkiller — medium-high tension for attack — while dialing back slightly on the extreme tightness that speed-metal tempos demanded. Songs like "Blood Stained" and "Death Row" put the snare front and center on the backbeat, anchoring riffs that move at roughly half the tempo of Painkiller's fastest material.
 
-### All Paiste 2002: A Leaner, Heavier Voice
+### Paiste Signature and 2002: A Leaner, Heavier Voice
 
-Where Painkiller mixed Paiste's brilliant-finish Signature series with the 2002 line, Jugulator drops the Signature cymbals entirely and runs on 2002s alone, a leaner, darker, heavier cymbal voice that matches the album's downtuned direction. The 2002 series is Paiste's classic hard-rock/metal workhorse line: less brilliant shimmer than the Signature series, more midrange weight and aggression.
+Where Painkiller leaned more on Paiste's Signature line, Jugulator leans more heavily on the 2002 series, a leaner, darker, heavier cymbal voice that matches the album's downtuned direction. The 2002 series is Paiste's classic hard-rock/metal workhorse line: less brilliant shimmer than Signature, more midrange weight and aggression.
 
-The 14" Sound Edge Hi-Hats, with their serrated bottom edge, give Travis a tighter, more controlled chick than the brilliant-finish Signature hats he used on Painkiller, useful for the more deliberate, groove-based hi-hat patterns that replace Painkiller's constant eighth-note drive. The crash array (16" through 20") stays in the 2002 family throughout, giving a consistent, unified tonal character rather than the brighter/darker contrast Travis built into his Painkiller rig.
+The 14" Sound Edge Hi-Hats, with their serrated bottom edge, give Travis a tighter, more controlled chick, useful for the more deliberate, groove-based hi-hat patterns that replace Painkiller's constant eighth-note drive. The crash array (16" through 20") stays mostly in the 2002 family throughout, giving a consistent, unified tonal character rather than the brighter/darker contrast Travis built into his Painkiller rig.
 
-The 22" 2002 Ride anchors the verses on mid-tempo cuts like "Brain Dead" and "Bullet Train," while the 18" 2002 China punctuates the heaviest sections of the nine-minute closer "Cathedral Spires." It's a simpler, more focused cymbal setup than Painkiller's, appropriate for an album that trades sprawling technicality for a leaner, meaner attack.
+The 22" 2002 Ride anchors the verses on mid-tempo cuts like "Brain Dead" and "Bullet Train," while the 18" Signature China punctuates the heaviest sections of the nine-minute closer "Cathedral Spires." It's a simpler, more focused cymbal setup than Painkiller's, appropriate for an album that trades sprawling technicality for a leaner, meaner attack.
 
 ## Key Facts
 
@@ -55,13 +55,13 @@ The 22" 2002 Ride anchors the verses on mid-tempo cuts like "Brain Dead" and "Bu
 - Guitars downtuned to C# and C for a heavier, thrash-and-groove-oriented sound
 - Charted at #82 on the Billboard 200 (US), #9 in Germany, #9 in Japan
 - Scott Travis shifted from Painkiller's speed-metal blitz to a downtuned, groove-locked attack
-- First switch away from the Painkiller-era Tama Artstar II — into Pearl Masters Custom
-- 22"x18" bass drums (two inches deeper than Painkiller's 22"x16") — a depth Travis kept for the rest of his Priest career
-- Maple/gum hybrid shells add low-end weight to match the downtuned C#/C guitars
-- Streamlined two-rack-tom layout replaces Painkiller's three-rack-tom array
+- Same Tama Artstar II birch kit Travis used on Painkiller — the pivot on Jugulator is stylistic, not gear-based
+- Unchanged 22"x16" double bass drums, 10"/12"/13" rack toms, 14"/16" floor toms
+- Birch shells' high-frequency attack cuts through the downtuned C#/C guitars
+- Die-cast hoops preserved rim-shot clarity throughout the album
 - Piano Black finish carries over from the Painkiller-era aesthetic
-- Estimated kit value: $3,800-5,200 (1997)
-- Estimated snare value: $450-600 (1997)
+- Estimated kit value: $2,000-2,600 (1997)
+- Estimated snare value: $280-380 (1997)
 
 ## Frequently Asked Questions
 
@@ -75,14 +75,14 @@ A: Tim "Ripper" Owens replaced Rob Halford as Judas Priest's lead vocalist in 19
 
 **Q: What drum kit did Scott Travis use on Jugulator?**
 
-A: For Jugulator (1997), Scott Travis played a Pearl Masters Custom kit with maple/gum hybrid shells, his first switch away from the Tama Artstar II birch kit he used on Painkiller. The configuration featured dual 22" x 18" bass drums (two inches deeper than his Painkiller-era 22"x16" kicks), 10" and 12" rack toms, and 14" and 16" floor toms. His snare was a matching Pearl Masters Custom 14"x6.5". This Pearl setup predates and sets up the Pearl Reference Series he'd adopt for Angel of Retribution (2005) — the Jugulator sessions are where Travis's transition away from Tama actually began.
+A: For Jugulator (1997), Scott Travis played the same Tama Artstar II birch kit he used on Painkiller. The configuration featured dual 22" x 16" bass drums, 10", 12", and 13" rack toms, and 14" and 16" floor toms. His snare was the matching Tama Artstar II Steel 14"x6.5". Travis stayed on this Tama rig until switching to Pearl's Reference Series in the mid-2000s.
 
 **Q: How does Scott Travis's drumming on Jugulator compare to Painkiller?**
 
-A: Painkiller (1990) showcased sustained, blast-furnace double-bass speed as the centerpiece of Travis's playing. Jugulator (1997) is a deliberate pivot: with the guitars downtuned to C# and C for a heavier, thrash-and-groove-oriented sound, Travis shifted to a more controlled, groove-locked attack built to serve the riffs rather than outrun them. The double-kick fury is still present on heavier tracks like "Burn in Hell," but the album as a whole favors restraint and pocket over pure velocity. His gear evolved to match — deeper bass drums, a heavier Pearl kit, and an all-Paiste-2002 cymbal voice replacing Painkiller's brighter Signature/2002 mix.
+A: Painkiller (1990) showcased sustained, blast-furnace double-bass speed as the centerpiece of Travis's playing. Jugulator (1997) is a deliberate pivot: with the guitars downtuned to C# and C for a heavier, thrash-and-groove-oriented sound, Travis shifted to a more controlled, groove-locked attack built to serve the riffs rather than outrun them. The double-kick fury is still present on heavier tracks like "Burn in Hell," but the album as a whole favors restraint and pocket over pure velocity. His gear stayed consistent — the same Tama Artstar II birch kit and Paiste Signature/2002 cymbal voice as Painkiller.
 
 **Source:** https://metalforge.io/articles/jugulator-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-08-24 · Source: [MetalForge.io](https://metalforge.io)*

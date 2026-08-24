@@ -403,8 +403,8 @@ export const articles = {
         {
           "type": "Sticks",
           "brand": "Vic Firth",
-          "model": "Vic Firth signature model",
-          "notes": "Erlandsson's long-running stick endorsement, later formalized into an At the Gates-branded signature model"
+          "model": "Vic Firth Rock Nylon Tip (custom-printed At the Gates artist-endorsement batch)",
+          "notes": "Erlandsson's long-running stick endorsement, received as custom-printed At the Gates artist-endorsement batches (not a retail signature model)"
         }
       ],
       "heads": {
@@ -626,8 +626,8 @@ export const articles = {
         {
           "type": "Sticks",
           "brand": "Vic Firth",
-          "model": "Vic Firth signature model",
-          "notes": "Erlandsson's established stick endorsement, unchanged from the At War with Reality sessions"
+          "model": "Vic Firth Rock Nylon Tip (custom-printed At the Gates artist-endorsement batch)",
+          "notes": "Erlandsson's established stick endorsement, received as custom-printed At the Gates artist-endorsement batches (not a retail signature model), unchanged from the At War with Reality sessions"
         }
       ],
       "heads": {

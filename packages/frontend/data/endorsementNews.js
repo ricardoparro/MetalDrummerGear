@@ -325,9 +325,9 @@ export const ENDORSEMENT_TIMELINE = {
     name: 'Dave Lombardo',
     band: 'Slayer / Dead Cross',
     currentEndorsements: {
-      drums: { brand: 'Pearl', model: 'Reference Series', since: '2000s' },
+      drums: { brand: 'Tama', model: 'Starclassic Walnut/Birch' },
       cymbals: { brand: 'Paiste', model: 'RUDE Series', since: '2000s' },
-      sticks: { brand: 'Vic Firth', since: '1990s' },
+      sticks: { brand: 'Promark', model: 'Dave Lombardo Signature 2Bx', signature: true },
       heads: { brand: 'Remo', since: '1980s' },
     },
     timeline: [
@@ -344,7 +344,7 @@ export const ENDORSEMENT_TIMELINE = {
         changeType: ENDORSEMENT_CHANGE_TYPES.RENEWED,
         category: ENDORSEMENT_CATEGORIES.DRUMS,
         brand: 'Pearl',
-        notes: 'Continued with Pearl through Reign in Blood era',
+        notes: 'Continued with Pearl through the Reign in Blood era; later transitioned to Tama, his current drum brand',
       },
     ],
   },

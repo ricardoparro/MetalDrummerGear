@@ -36,7 +36,7 @@ export const articles = {
         "First Lamb of God album without Chris Adler on drums",
         "Produced by longtime collaborator Josh Wilbur",
         "Key tracks: Memento Mori, Resurrection Man, New Colossal Hate, Gomorrah, Routes",
-        "Set up the gear and approach later heard on 2022's Omens"
+        "Established the groove-first approach the band carried into 2022's Omens"
       ]
     },
     "drumKit": {
@@ -58,12 +58,11 @@ export const articles = {
         ],
         "shells": "Classic Maple shells"
       },
-      "description": "For his recording debut, Art Cruz built his sound around a Ludwig Classic Maple kit — a single 22\" x 18\" bass drum paired with a Trick double pedal rather than the dual-kick setup Chris Adler favored. That single-kick-plus-double-pedal approach was a notable departure from Adler-era Lamb of God records, and it gave Cruz tonal consistency between feet that a two-bass-drum rig can't always match.\n\nThe four-tom configuration (10\", 12\", 14\", 16\") mirrors the band's long-standing template, which mattered for an album that needed to bridge old and new eras convincingly. Cruz's fills on tracks like \"Resurrection Man\" are economical rather than flashy, placed to punctuate the riff rather than overshadow it — a philosophy that respects the groove-first approach Lamb of God built its reputation on.\n\nThe Classic Maple shells gave Wilbur's production a warm, present low end that cuts through the band's down-tuned guitars without losing punch. It's the same core setup Cruz would carry into Omens two years later, refined but fundamentally unchanged — proof that he found his voice on this record and didn't need to chase it further.",
+      "description": "For his recording debut, Art Cruz built his sound around a Ludwig Classic Maple kit — a single 22\" x 18\" bass drum paired with a Trick double pedal rather than the dual-kick setup Chris Adler favored. That single-kick-plus-double-pedal approach was a notable departure from Adler-era Lamb of God records, and it gave Cruz tonal consistency between feet that a two-bass-drum rig can't always match.\n\nThe four-tom configuration (10\", 12\", 14\", 16\") mirrors the band's long-standing template, which mattered for an album that needed to bridge old and new eras convincingly. Cruz's fills on tracks like \"Resurrection Man\" are economical rather than flashy, placed to punctuate the riff rather than overshadow it — a philosophy that respects the groove-first approach Lamb of God built its reputation on.\n\nThe Classic Maple shells gave Wilbur's production a warm, present low end that cuts through the band's down-tuned guitars without losing punch — the sound that established his voice on this record.",
       "notes": [
         "Single 22x18\" bass drum with Trick double pedal, not dual kicks",
         "Four-tom layout (10\", 12\", 14\", 16\") matches the band's established template",
-        "Classic Maple shells deliver warmth without sacrificing attack",
-        "Same core kit carried forward into the 2022 Omens sessions"
+        "Classic Maple shells deliver warmth without sacrificing attack"
       ],
       "estimatedValue": "$4,000-6,000 (Ludwig Classic Maple configuration)"
     },

@@ -5,6 +5,35 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-08-24 01:11 UTC*
 
 ---
+## 2026-08-24 18:38 — Cheap pulse: 7 fresh endorsementNews.js gear-contradiction/fabrication proposals promoted (#6122-6128)
+
+### Context (≤3 lines)
+Cheap pulse (18:38 UTC, between 13:00 mid-day and 19:00 evening threshold). Metrics 18:38 UTC (251 users/286 sessions/482 views 7d; GSC 6,357 impr/136 clicks/2.14% CTR/pos 9.6 — same content-gap row as the 07:00/12:45 entries, already held twice today). Eligible `ai-fix` backlog 0 at run start (20 open, all `hold`-labeled freeze-blocked roster/band splits), 0 open PRs, 7 fresh untriaged `seo-proposal` (#6122-6128, filed 13:54-13:55 UTC).
+
+### Actions taken
+- **Promoted all 7**, each live-verified via grep against `extendedBios.js` (source-of-truth) before promoting: #6123 Mikkey Dee (endorsementNews.js says Yamaha/Zildjian/Vic Firth drums/cymbals/sticks — confirmed Sonor/Paiste/Wincent per extendedBios gearHighlights), #6125 Dave Lombardo (Pearl/Vic Firth vs verified Tama/Promark), #6126 Eloy Casagrande (Yamaha vs verified Tama drums), #6127 Mario Duplantier (Meinl/Vic Firth vs verified Zildjian/Tama-signature sticks), #6128 Bill Ward (timeline missing the Super Zyn 1968-71 era, mis-dates Zildjian switch to 1970 not 1971), #6124 Gene Hoglan (timeline still says "Vater" sticks in 2018 — #5686 fixed `currentEndorsements` but missed this exact timeline entry, confirmed via grep `to: 'Vater'` still present). #6122 (Lars Ulrich) is the highest-stakes one: `signatureGear.js`'s `lars-ulrich-paiste-rude-china` entry (a full Signature Gear Spotlight page with a fabricated, uncited Bob Rock quote) contradicts the site's own already-consistent Zildjian-since-1981 record across `extendedBios.js` + `endorsementNews.js` — confirmed the entry is `status: 'draft'` in the data file but served live anyway via `api/sitemap.js:356` (no status filter) and `api/meta/[...path].js`'s unconditioned sigGearMatch branch, same fabrication class as the earlier Mario Duplantier fake-quote catch. Recommended fix is full removal (no truthful substitute exists), same precedent as #6024.
+- **Freeze compliance**: all 7 are data-accuracy fixes on existing URLs (or removal of a fabricated one) — zero new pages, zero new routes. Exactly the "depth over volume" work the freeze prioritizes.
+- **Duplicate check**: searched `ai-fix` for each drummer-slug/keyword combo — none found.
+- **GSC content-gap**: same `joey jordison drum kit` row (57 impr, 1.75% CTR, pos 9.8) as this morning — already investigated and held twice today (07:00, 12:45 entries); no new data point, no action.
+- **L1/L2/L3** (#3810/#3819/#2211): all three unchanged since the 12:45 read (08:18-10:08 UTC generation times) — already actioned, nothing fresh.
+- **Human-founder blockers** (#5141/#5100/#4892/#875/#529/#526/#525): unchanged. No re-spam. **Founder ideas**: inbox empty, unchanged since 06-19.
+- **Starvation check**: post-triage backlog=7, bank=0 (excl. umbrellas) — meets the numeric trigger shape but is fresh same-day supply (filed 13:54-13:55, first triage pass) — not escalating, consistent with today's earlier entries' reasoning.
+
+### State delta
+- ai-fix backlog: 0 → 7 (#6122-6128)
+- seo-proposal bank (excl. umbrellas): 7 → 0
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 7/7 fresh triaged, live-verified, promoted, no duplicates, freeze-compliant. ✅ GSC-gap: unchanged row, already held twice today, no re-action needed. ✅ L1/L2/L3: unchanged since 12:45, already actioned. ✅ Starvation: not triggered (fresh supply). ✅ Decisions logged.
+
+### Next Run
+1. Watch #6122-6128 ship; #6122 (Lars Ulrich removal) touches 3 files (signatureGear.js, sitemap.js, cross-refs) — worth a closer look at the merged PR given its scope, same as the #5755 precedent.
+2. Evening review due ~19:00 UTC — review what shipped today (#6096-6098, #6114, #6121, #6122-6128 in flight) and log daily progress.
+3. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+
+---
 ## 2026-08-24 12:45 — Cheap pulse: 1 fresh JSON-LD-visibility proposal promoted (#6114); weekly L1/L2/L3 refresh landed and read, 1 new GSC CTR-gap fix filed (#6121)
 
 ### Context (≤3 lines)

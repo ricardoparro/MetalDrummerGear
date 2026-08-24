@@ -5864,11 +5864,6 @@ export function getMetaForPath(pathname) {
   // Issue #1522: Quotation + ItemList JSON-LD for AI citation surface
   if (path === '/quotes') {
     const allQuotes = getAllQuotes();
-    // Top 5 most notable drummers — one representative quote each
-    const featured = [4, 2, 1, 3, 5]
-      .map(dId => allQuotes.find(q => q.drummer.id === dId))
-      .filter(Boolean)
-      .slice(0, 5);
     return {
       title: `Metal Drummer Quotes — Insights on Gear & Technique | ${SITE_NAME}`,
       description: `Memorable quotes from the world's greatest metal drummers on gear, technique, and the craft. From Lars Ulrich, Joey Jordison, Tomas Haake, and ${drummers.length} legends.`,
@@ -5878,10 +5873,13 @@ export function getMetaForPath(pathname) {
       // Issue #4730: crawlable links to every drummer with a quote on this
       // hub — this hub previously had zero outbound links from the
       // bot-facing shell.
+      // Issue #6082: additive .description carries the quote text itself into
+      // the visible body — previously q.text only ever reached JSON-LD.
       ssrLinks: _dedupeSsrLinksByHref(
         allQuotes.map(q => ({
           href: `/drummer/${_normalizeDrummerSlug(q.drummer.name)}`,
           label: q.drummer.name,
+          description: q.text,
         }))
       ),
       articleSchema: JSON.stringify({
@@ -5893,7 +5891,10 @@ export function getMetaForPath(pathname) {
         mainEntity: {
           '@type': 'ItemList',
           name: 'Metal Drummer Quotes',
-          itemListElement: featured.map((q, i) => ({
+          // Issue #6082: all 35 authored quotes, not just the 5 hardcoded
+          // "featured" drummers — the old 5-of-35 selection had no stated
+          // rationale and left 30 quotes absent from structured data.
+          itemListElement: allQuotes.map((q, i) => ({
             '@type': 'ListItem',
             position: i + 1,
             item: {

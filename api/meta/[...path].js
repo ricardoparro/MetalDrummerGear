@@ -7225,7 +7225,13 @@ export function getMetaForPath(pathname) {
       speakableSchema: true,
       speakableCssSelector: ['h1', 'h2', 'p'],
       // Issue #5200: surface the BreadcrumbList's family-hub link as a crawlable <a>.
-      ssrLinks: [{ href: '/drumsticks', label: 'Drumsticks' }],
+      // Issue #6080: authored section prose + FAQ answers were JSON-LD-only on
+      // these reference sub-pages — mirrors the #5533 pillar-page fix.
+      ssrLinks: [
+        { href: '/drumsticks', label: 'Drumsticks' },
+        ...(page.sections || []).map(s => ({ href: `/drumsticks/${slug}`, label: s.heading, description: s.body })),
+        ...(page.faq || []).slice(0, 3).map(f => ({ href: `/drumsticks/${slug}`, label: f.question, description: f.answer })),
+      ],
     };
   }
 
@@ -7469,7 +7475,13 @@ export function getMetaForPath(pathname) {
       speakableSchema: true,
       speakableCssSelector: ['h1', 'h2', 'p'],
       // Issue #5200: surface the BreadcrumbList's family-hub link as a crawlable <a>.
-      ssrLinks: [{ href: '/cymbals', label: 'Cymbals' }],
+      // Issue #6080: authored section prose + FAQ answers were JSON-LD-only on
+      // these reference sub-pages — mirrors the #5533 pillar-page fix.
+      ssrLinks: [
+        { href: '/cymbals', label: 'Cymbals' },
+        ...(page.sections || []).map(s => ({ href: `/cymbals/${slug}`, label: s.heading, description: s.body })),
+        ...(page.faq || []).slice(0, 3).map(f => ({ href: `/cymbals/${slug}`, label: f.question, description: f.answer })),
+      ],
     };
   }
 
@@ -7706,7 +7718,13 @@ export function getMetaForPath(pathname) {
       speakableSchema: true,
       speakableCssSelector: ['h1', 'h2', 'p'],
       // Issue #5200: surface the BreadcrumbList's family-hub link as a crawlable <a>.
-      ssrLinks: [{ href: '/snares', label: 'Snares' }],
+      // Issue #6080: authored section prose + FAQ answers were JSON-LD-only on
+      // these reference sub-pages — mirrors the #5533 pillar-page fix.
+      ssrLinks: [
+        { href: '/snares', label: 'Snares' },
+        ...(page.sections || []).map(s => ({ href: `/snares/${slug}`, label: s.heading, description: s.body })),
+        ...(page.faq || []).slice(0, 3).map(f => ({ href: `/snares/${slug}`, label: f.question, description: f.answer })),
+      ],
     };
   }
 
@@ -7949,7 +7967,13 @@ export function getMetaForPath(pathname) {
       speakableSchema: true,
       speakableCssSelector: ['h1', 'h2', 'p'],
       // Issue #5200: surface the BreadcrumbList's family-hub link as a crawlable <a>.
-      ssrLinks: [{ href: '/pedals', label: 'Pedals' }],
+      // Issue #6080: authored section prose + FAQ answers were JSON-LD-only on
+      // these reference sub-pages — mirrors the #5533 pillar-page fix.
+      ssrLinks: [
+        { href: '/pedals', label: 'Pedals' },
+        ...(page.sections || []).map(s => ({ href: `/pedals/${slug}`, label: s.heading, description: s.body })),
+        ...(page.faq || []).slice(0, 3).map(f => ({ href: `/pedals/${slug}`, label: f.question, description: f.answer })),
+      ],
     };
   }
 

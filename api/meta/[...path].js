@@ -1267,9 +1267,12 @@ export function getMetaForPath(pathname) {
         // Issue #5019: getRelatedGuides() existed but was never called — bots
         // had zero crawlable path from a sound-like guide back to the hub or
         // to related guides.
+        // Issue #6081: guide.technique.stickGrip.description only ever reached
+        // JSON-LD HowToStep text — never the visible body. Additive
+        // ssrLinks[i].description entry, same pattern #6052/#6053 used.
         ssrLinks: [
           { href: '/guides', label: 'All Guides' },
-          { href: `/drummer/${drummerSlug}`, label: `${drummer.name} Profile` },
+          { href: `/drummer/${drummerSlug}`, label: `${drummer.name} Profile`, description: guide?.technique?.stickGrip?.description },
           ...getRelatedGuides(guideSlug, 3).map(g => ({ href: `/guides/${g.slug}`, label: g.title || g.name })),
         ],
       };

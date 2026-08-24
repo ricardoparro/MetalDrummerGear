@@ -2628,6 +2628,13 @@ export function getMetaForPath(pathname) {
                 label: `${d.name} — Complete Gear Setup`,
               }))
           : null;
+        // Issue #6114: step[].text was JSON-LD-only. Additive ssrLinks[i].description
+        // entry per step, same pattern #6052/#6053 used.
+        const stepSsrLinks = album.howToSteps.map((s, i) => ({
+          href: `${BASE_URL}/articles/${articleSlug}#step-${i + 1}`,
+          label: `Step ${i + 1}: ${s.name}`,
+          description: s.text,
+        }));
         return {
           title: `${album.title} | ${SITE_NAME}`,
           description: truncate(album.description, 160),
@@ -2641,7 +2648,7 @@ export function getMetaForPath(pathname) {
             { name: album.title, url: `${BASE_URL}/articles/${articleSlug}` },
           ],
           faqSchema: Array.isArray(album.faq) && album.faq.length > 0 ? album.faq : null,
-          ssrLinks: ssrDrummerProfileLinks && ssrDrummerProfileLinks.length > 0 ? ssrDrummerProfileLinks : null,
+          ssrLinks: [...stepSsrLinks, ...(ssrDrummerProfileLinks || [])],
           speakableSchema: true,
         };
       }

@@ -1361,6 +1361,15 @@ export function getMetaForPath(pathname) {
         // Issue #4833: SpeakableSpecification for voice search / AI assistants.
         speakableSchema: true,
         speakableCssSelector: ['h1', 'h2', 'p'],
+        // Issue #6079: genreGuide.description and proRecommendations[].verdict
+        // already fed the JSON-LD articleSchema/HowToStep text above but were
+        // never rendered as visible body copy — ssrLinks prints them under the h1.
+        ssrLinks: [
+          { href: '/guides', label: 'All Guides', description: genreGuide.description },
+          ...(genreGuide.proRecommendations?.pedals?.length ? genreGuide.proRecommendations.pedals.slice(0, 2).map(r => ({
+            href: `/guides/${genreGuide.slug}`, label: r.name || r.title, description: r.verdict || r.description,
+          })) : []),
+        ],
       };
     }
     return {

@@ -3763,6 +3763,13 @@ export function getMetaForPath(pathname) {
           { name: 'Signature Licks', url: `${BASE_URL}/drummers/${drummerSlug}/licks` },
           { name: lick.name, url: lickUrl },
         ],
+        // Issue #6078: full lick.description + techniqueDetails already exist in the
+        // HowTo/HowToStep JSON-LD above but were 100% invisible to non-JS crawlers —
+        // this branch had no ssrLinks key at all, unlike every sibling branch.
+        ssrLinks: [
+          { href: `/drummers/${drummerSlug}/licks`, label: `${lick.drummerName}'s Signature Licks`, description: lick.description },
+          ...((lick.techniqueDetails && lick.techniqueDetails.length) ? [{ href: `/drummers/${drummerSlug}`, label: `${lick.drummerName} Profile`, description: lick.techniqueDetails.join(' ') }] : []),
+        ],
       };
     }
   }

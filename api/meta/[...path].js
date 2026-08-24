@@ -7233,8 +7233,15 @@ export function getMetaForPath(pathname) {
       // brand/reference/setup sub-routes, unlike drummer profiles, articles, etc.
       speakableSchema: true,
       speakableCssSelector: ['h1', 'h2', 'p'],
-      // Issue #5200: surface the BreadcrumbList's family-hub link as a crawlable <a>.
-      ssrLinks: [{ href: '/drumsticks', label: 'Drumsticks' }],
+      // Issue #6080: page.sections/page.faq authored prose (already feeding
+      // articleSchema's Article.articleBody + FAQPage above) never reached the
+      // visible body — only the #5200 hub-nav link did. Additive ssrLinks[i]
+      // description entries, same pattern #5533 used for the pillar hub.
+      ssrLinks: [
+        { href: '/drumsticks', label: 'Drumsticks' },
+        ...page.sections.map(s => ({ href: `/drumsticks/${slug}`, label: s.heading, description: s.body })),
+        ...(page.faq || []).slice(0, 3).map(f => ({ href: `/drumsticks/${slug}`, label: f.question, description: f.answer })),
+      ],
     };
   }
 
@@ -7477,8 +7484,15 @@ export function getMetaForPath(pathname) {
       // brand/reference/setup sub-routes, unlike drummer profiles, articles, etc.
       speakableSchema: true,
       speakableCssSelector: ['h1', 'h2', 'p'],
-      // Issue #5200: surface the BreadcrumbList's family-hub link as a crawlable <a>.
-      ssrLinks: [{ href: '/cymbals', label: 'Cymbals' }],
+      // Issue #6080: page.sections/page.faq authored prose (already feeding
+      // articleSchema's Article.articleBody + FAQPage above) never reached the
+      // visible body — only the #5200 hub-nav link did. Additive ssrLinks[i]
+      // description entries, same pattern #5533 used for the pillar hub.
+      ssrLinks: [
+        { href: '/cymbals', label: 'Cymbals' },
+        ...page.sections.map(s => ({ href: `/cymbals/${slug}`, label: s.heading, description: s.body })),
+        ...(page.faq || []).slice(0, 3).map(f => ({ href: `/cymbals/${slug}`, label: f.question, description: f.answer })),
+      ],
     };
   }
 
@@ -7714,8 +7728,15 @@ export function getMetaForPath(pathname) {
       // brand/reference/setup sub-routes, unlike drummer profiles, articles, etc.
       speakableSchema: true,
       speakableCssSelector: ['h1', 'h2', 'p'],
-      // Issue #5200: surface the BreadcrumbList's family-hub link as a crawlable <a>.
-      ssrLinks: [{ href: '/snares', label: 'Snares' }],
+      // Issue #6080: page.sections/page.faq authored prose (already feeding
+      // articleSchema's Article.articleBody + FAQPage above) never reached the
+      // visible body — only the #5200 hub-nav link did. Additive ssrLinks[i]
+      // description entries, same pattern #5533 used for the pillar hub.
+      ssrLinks: [
+        { href: '/snares', label: 'Snares' },
+        ...page.sections.map(s => ({ href: `/snares/${slug}`, label: s.heading, description: s.body })),
+        ...(page.faq || []).slice(0, 3).map(f => ({ href: `/snares/${slug}`, label: f.question, description: f.answer })),
+      ],
     };
   }
 
@@ -7957,8 +7978,15 @@ export function getMetaForPath(pathname) {
       // brand/reference/setup sub-routes, unlike drummer profiles, articles, etc.
       speakableSchema: true,
       speakableCssSelector: ['h1', 'h2', 'p'],
-      // Issue #5200: surface the BreadcrumbList's family-hub link as a crawlable <a>.
-      ssrLinks: [{ href: '/pedals', label: 'Pedals' }],
+      // Issue #6080: page.sections/page.faq authored prose (already feeding
+      // articleSchema's Article.articleBody + FAQPage above) never reached the
+      // visible body — only the #5200 hub-nav link did. Additive ssrLinks[i]
+      // description entries, same pattern #5533 used for the pillar hub.
+      ssrLinks: [
+        { href: '/pedals', label: 'Pedals' },
+        ...page.sections.map(s => ({ href: `/pedals/${slug}`, label: s.heading, description: s.body })),
+        ...(page.faq || []).slice(0, 3).map(f => ({ href: `/pedals/${slug}`, label: f.question, description: f.answer })),
+      ],
     };
   }
 

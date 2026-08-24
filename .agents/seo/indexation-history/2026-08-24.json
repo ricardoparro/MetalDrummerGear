@@ -1,0 +1,3516 @@
+{
+  "generatedAt": "2026-08-24T10:08:13.508Z",
+  "site": "https://metalforge.io/",
+  "sitemapUrlCount": 3175,
+  "inspectedCount": 500,
+  "sentinelCount": 250,
+  "rotationCursor": 1500,
+  "earningPages": {
+    "windowDays": 90,
+    "totalPages": 2306,
+    "inSitemap": 1755,
+    "sitemapUrlCount": 3175
+  },
+  "byUrl": {
+    "https://metalforge.io/": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-14T04:49:58Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/bpm": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-03T10:52:37Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guess-the-kit": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-17T16:31:51Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/beginner-metal-drummer-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-01T07:56:43Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-bass-drum-pedals-for-black-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T10:25:28Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-bass-drum-pedals-for-death-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T12:24:26Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-bass-drum-pedals-for-deathcore": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:31:01Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-bass-drum-pedals-for-djent": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-14T19:57:38Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-bass-drum-pedals-for-doom-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:30:22Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-bass-drum-pedals-for-extreme-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:23:43Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-bass-drum-pedals-for-groove-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T08:12:01Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-bass-drum-pedals-for-mathcore": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T12:28:43Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-bass-drum-pedals-for-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T12:43:24Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-bass-drum-pedals-for-metalcore": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T10:15:44Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-bass-drum-pedals-for-nu-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-09T09:26:12Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-bass-drum-pedals-for-post-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-08T10:08:42Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-bass-drum-pedals-for-power-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T10:59:26Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-bass-drum-pedals-for-progressive-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T15:09:59Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-bass-drum-pedals-for-sludge-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T12:21:34Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-bass-drum-pedals-for-symphonic-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T12:36:13Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-bass-drum-pedals-for-technical-death-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T06:54:35Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-bass-drum-pedals-for-thrash-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T12:21:19Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-bass-drums-for-black-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:20:13Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-bass-drums-for-death-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:17:54Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-bass-drums-for-deathcore": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-08T12:57:31Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-bass-drums-for-djent": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T08:12:46Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-bass-drums-for-doom-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:26:31Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-bass-drums-for-extreme-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-18T10:40:46Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-bass-drums-for-groove-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-06T04:01:02Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-bass-drums-for-mathcore": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T05:59:31Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-bass-drums-for-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T08:06:54Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-bass-drums-for-metalcore": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T15:27:39Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-bass-drums-for-nu-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:16:18Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-bass-drums-for-post-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T15:42:53Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-bass-drums-for-power-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T15:22:49Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-bass-drums-for-progressive-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T01:06:07Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-bass-drums-for-sludge-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T11:09:27Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-bass-drums-for-symphonic-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T12:25:49Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-bass-drums-for-technical-death-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-09T13:30:36Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-bass-drums-for-thrash-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:13:15Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-china-cymbals-for-black-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:21:42Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-china-cymbals-for-death-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T15:21:31Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-china-cymbals-for-deathcore": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T07:33:59Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-china-cymbals-for-djent": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-10T09:10:57Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-china-cymbals-for-doom-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T07:32:55Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-china-cymbals-for-extreme-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:20:05Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-china-cymbals-for-groove-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:30:32Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-china-cymbals-for-mathcore": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-china-cymbals-for-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T18:10:31Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-china-cymbals-for-metalcore": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:18:39Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-china-cymbals-for-nu-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T18:20:56Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-china-cymbals-for-post-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:58:55Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-china-cymbals-for-power-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T16:14:13Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-china-cymbals-for-progressive-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T12:09:37Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-china-cymbals-for-sludge-metal": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-china-cymbals-for-symphonic-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T11:50:15Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-china-cymbals-for-technical-death-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T10:23:02Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-china-cymbals-for-thrash-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T15:36:15Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-crash-cymbals-for-black-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:59:46Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-crash-cymbals-for-death-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T15:45:30Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-crash-cymbals-for-deathcore": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:30:23Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-crash-cymbals-for-djent": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-21T20:49:09Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-crash-cymbals-for-doom-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T05:04:36Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-crash-cymbals-for-extreme-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:30:40Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-crash-cymbals-for-groove-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T15:22:52Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-crash-cymbals-for-mathcore": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T15:08:14Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-crash-cymbals-for-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-17T16:22:57Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-crash-cymbals-for-metalcore": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-07T11:58:56Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-crash-cymbals-for-nu-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-14T21:50:36Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-crash-cymbals-for-post-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T12:23:27Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-crash-cymbals-for-power-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T08:06:53Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-crash-cymbals-for-progressive-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-08T13:20:59Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-crash-cymbals-for-sludge-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T10:58:32Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-crash-cymbals-for-symphonic-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T07:33:11Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-crash-cymbals-for-technical-death-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T12:24:29Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-crash-cymbals-for-thrash-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-09T12:23:22Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-cymbals-for-black-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-09T02:48:07Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-cymbals-for-death-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-18T16:32:17Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-cymbals-for-deathcore": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-31T21:47:49Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-cymbals-for-djent": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-22T12:16:23Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-cymbals-for-doom-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-21T12:57:30Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-cymbals-for-extreme-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:31:20Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-cymbals-for-groove-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-08T12:54:57Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-cymbals-for-mathcore": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-08T17:11:22Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-cymbals-for-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-27T03:54:45Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-cymbals-for-metalcore": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-18T16:22:21Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-cymbals-for-nu-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-07T22:50:12Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-cymbals-for-post-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:32:57Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-cymbals-for-power-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-19T20:58:02Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-cymbals-for-progressive-metal": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-04T10:09:41Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-cymbals-for-sludge-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T15:48:12Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-cymbals-for-symphonic-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T19:36:58Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-cymbals-for-technical-death-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:31:13Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-cymbals-for-thrash-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T15:35:23Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-hardware-for-black-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T17:47:12Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-hardware-for-death-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:57:27Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-hardware-for-deathcore": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:30:23Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-hardware-for-djent": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:17:34Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-hardware-for-doom-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:14:45Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-hardware-for-extreme-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:30:42Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-hardware-for-groove-metal": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null,
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-hardware-for-mathcore": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T11:22:09Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-hardware-for-metal": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-02T13:06:11Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-hardware-for-metalcore": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:19:11Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-hardware-for-nu-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:12:04Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-hardware-for-post-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:32:07Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-hardware-for-power-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T10:15:23Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-hardware-for-progressive-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:31:19Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-hardware-for-sludge-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T15:11:44Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-hardware-for-symphonic-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T08:12:04Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-hardware-for-technical-death-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-13T05:48:47Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-hardware-for-thrash-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:12:32Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-heads-for-black-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-14T21:57:25Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-heads-for-death-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T12:08:59Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-heads-for-deathcore": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T07:27:12Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-heads-for-djent": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-08T20:11:53Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-heads-for-doom-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-21T12:27:49Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-heads-for-extreme-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-26T07:24:22Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-heads-for-groove-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T06:05:45Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-heads-for-mathcore": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T12:22:54Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-heads-for-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-17T16:18:21Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-heads-for-metalcore": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T14:09:09Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-heads-for-nu-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:36:05Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-heads-for-post-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T17:22:11Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-heads-for-power-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:23:00Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-heads-for-progressive-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T11:20:45Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-heads-for-sludge-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T07:35:54Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-heads-for-symphonic-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T11:14:20Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-heads-for-technical-death-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-21T21:28:52Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-heads-for-thrash-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T15:28:26Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-kits-for-black-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-19T00:12:29Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-kits-for-death-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-19T09:11:44Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-kits-for-deathcore": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-09T15:51:57Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-kits-for-djent": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-19T20:59:05Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-kits-for-doom-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T04:19:21Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-kits-for-extreme-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T10:53:45Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-kits-for-groove-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-13T07:12:48Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-kits-for-mathcore": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-08T07:48:04Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-kits-for-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T21:36:52Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-kits-for-metalcore": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-03T00:51:21Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-kits-for-nu-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-08T07:41:27Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-kits-for-post-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:35:03Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-kits-for-power-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-02T01:41:46Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-kits-for-progressive-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T04:23:45Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-kits-for-sludge-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-18T17:29:39Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-kits-for-symphonic-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T17:41:07Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-kits-for-technical-death-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-09T10:09:06Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-kits-for-thrash-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-18T08:04:35Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-modules-for-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T14:05:26Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-pedals-for-black-metal": {
+      "class": "redirect-or-canonical",
+      "verdict": "NEUTRAL",
+      "coverageState": "Alternate page with proper canonical tag",
+      "lastCrawlTime": "2026-07-02T19:25:03Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-pedals-for-death-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-31T16:30:51Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-pedals-for-deathcore": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-09T14:20:21Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-pedals-for-djent": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-08T12:56:39Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-pedals-for-doom-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-05T11:57:14Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-pedals-for-extreme-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T22:24:34Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-pedals-for-groove-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-19T17:31:43Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-pedals-for-mathcore": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-18T21:36:57Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-pedals-for-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-09T15:01:01Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-pedals-for-metalcore": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-09T02:08:26Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-pedals-for-nu-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-08T10:13:27Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-pedals-for-post-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T23:17:51Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-pedals-for-power-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-09T02:55:34Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-pedals-for-progressive-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:32:05Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-pedals-for-sludge-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-17T12:38:00Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-pedals-for-symphonic-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T15:43:20Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-pedals-for-technical-death-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T15:28:28Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-pedals-for-thrash-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-08T17:24:14Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-shields-for-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-17T08:17:35Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-thrones-for-metal": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null,
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-triggers-for-black-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-14T22:48:05Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-triggers-for-death-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-11T22:34:06Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-triggers-for-deathcore": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-09T05:05:04Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-triggers-for-djent": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T11:02:10Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-triggers-for-doom-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:10:04Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-triggers-for-extreme-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T12:10:00Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-triggers-for-groove-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T22:36:13Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-triggers-for-mathcore": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T15:21:46Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-triggers-for-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-08T18:08:58Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-triggers-for-metalcore": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:14:48Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-triggers-for-nu-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-09T13:14:28Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-triggers-for-post-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T15:27:59Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-triggers-for-power-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:30:47Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-triggers-for-progressive-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:13:49Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-triggers-for-sludge-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T11:55:47Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-triggers-for-symphonic-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-19T20:45:34Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-triggers-for-technical-death-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T08:27:27Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drum-triggers-for-thrash-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-21T10:24:04Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drumsticks-for-black-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T08:06:58Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drumsticks-for-death-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-22T17:36:42Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drumsticks-for-deathcore": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-23T13:21:53Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drumsticks-for-djent": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T18:08:57Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drumsticks-for-doom-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T16:55:43Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drumsticks-for-extreme-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-19T21:28:50Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drumsticks-for-groove-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-09T19:33:46Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drumsticks-for-mathcore": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T15:06:51Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drumsticks-for-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T02:51:04Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drumsticks-for-metalcore": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-21T10:37:38Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drumsticks-for-nu-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:15:29Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drumsticks-for-post-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T22:26:16Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drumsticks-for-power-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T15:44:53Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drumsticks-for-progressive-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-16T19:35:12Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drumsticks-for-sludge-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T08:05:54Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drumsticks-for-symphonic-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:19:49Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drumsticks-for-technical-death-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:32:47Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-drumsticks-for-thrash-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:14:44Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-electronic-drum-kits-for-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-09T09:29:31Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-hearing-protection-for-drummers": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T18:21:35Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-hi-hats-for-black-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-18T04:54:43Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-hi-hats-for-death-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-10T00:33:11Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-hi-hats-for-deathcore": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T19:17:35Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-hi-hats-for-djent": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-21T13:53:41Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-hi-hats-for-doom-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T15:27:41Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-hi-hats-for-extreme-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-11T00:20:29Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-hi-hats-for-groove-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T04:43:25Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-hi-hats-for-mathcore": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T15:13:37Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-hi-hats-for-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-03T05:42:24Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-hi-hats-for-metalcore": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-16T19:46:12Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-hi-hats-for-nu-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T08:06:23Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-hi-hats-for-post-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-21T15:27:12Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-hi-hats-for-power-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-09T08:11:18Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-hi-hats-for-progressive-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T12:28:21Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-hi-hats-for-sludge-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T12:02:25Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-hi-hats-for-symphonic-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:30:44Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-hi-hats-for-technical-death-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T15:50:31Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-hi-hats-for-thrash-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-17T18:12:25Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-in-ear-monitors-for-metal-drummers": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-07T12:51:33Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-metronomes-for-metal-drummers": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-16T13:20:57Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-practice-pads-for-metal-drummers": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-11T14:47:11Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-ride-cymbals-for-black-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-21T14:25:09Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-ride-cymbals-for-death-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T07:28:59Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-ride-cymbals-for-deathcore": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T08:07:34Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-ride-cymbals-for-djent": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T08:10:26Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-ride-cymbals-for-doom-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T11:14:24Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-ride-cymbals-for-extreme-metal": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-ride-cymbals-for-groove-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T08:25:39Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-ride-cymbals-for-mathcore": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T07:35:31Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-ride-cymbals-for-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-09T16:40:18Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-ride-cymbals-for-metalcore": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T08:48:39Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-ride-cymbals-for-nu-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:20:44Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-ride-cymbals-for-post-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T15:20:59Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-ride-cymbals-for-power-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T15:21:31Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-ride-cymbals-for-progressive-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-21T16:04:03Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-ride-cymbals-for-sludge-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T15:44:56Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-ride-cymbals-for-symphonic-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:31:35Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-ride-cymbals-for-technical-death-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-09T10:35:24Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-ride-cymbals-for-thrash-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T10:42:18Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-snare-drums-for-black-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-11T10:21:02Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-snare-drums-for-death-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-30T22:28:45Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-snare-drums-for-deathcore": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-01T00:48:07Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/guides/best-snare-drums-for-djent": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-08T22:57:57Z",
+      "group": "sentinel"
+    },
+    "https://metalforge.io/drummers/bill-ward/licks/bill-ward-iron-man-groove": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/bill-ward/licks/bill-ward-nib-shuffle": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/bill-ward/licks/bill-ward-war-pigs-groove": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T21:29:17Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/blake-richardson/endorsements": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T08:11:28Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/blake-richardson/licks/blake-richardson-lay-ghosts-double-bass": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/blake-richardson/licks/blake-richardson-prequel-sequel-7-8": {
+      "class": "duplicate-google-canonical",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate, Google chose different canonical than user",
+      "lastCrawlTime": "2026-07-15T23:42:22Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/blake-richardson/licks/blake-richardson-telos-progressive-fills": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-28T01:49:02Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/brann-dailor/endorsements": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/brann-dailor/licks/brann-dailor-blood-and-thunder-groove": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/brann-dailor/licks/brann-dailor-blood-and-thunder-shuffle": {
+      "class": "duplicate-google-canonical",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate, Google chose different canonical than user",
+      "lastCrawlTime": "2026-07-12T11:12:41Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/brann-dailor/licks/brann-dailor-colony-of-birchmen-funky-groove": {
+      "class": "duplicate-google-canonical",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate, Google chose different canonical than user",
+      "lastCrawlTime": "2026-08-17T23:48:46Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/brann-dailor/licks/brann-dailor-crack-the-skye-melodic-fill": {
+      "class": "duplicate-google-canonical",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate, Google chose different canonical than user",
+      "lastCrawlTime": "2026-08-17T17:41:45Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/brann-dailor/licks/brann-dailor-ghost-of-karelia-groove": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-28T00:42:47Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/brann-dailor/licks/brann-dailor-hearts-alive-fills": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-28T00:11:22Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/charlie-benante/endorsements": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T15:33:08Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/charlie-benante/licks/charlie-benante-among-the-living-thrash-groove": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-02T15:13:42Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/charlie-benante/licks/charlie-benante-caught-in-a-mosh-groove": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/charlie-benante/licks/charlie-benante-euphoria-groove": {
+      "class": "duplicate-google-canonical",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate, Google chose different canonical than user",
+      "lastCrawlTime": "2026-08-17T18:31:51Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/charlie-benante/licks/charlie-benante-indians-war-dance": {
+      "class": "duplicate-google-canonical",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate, Google chose different canonical than user",
+      "lastCrawlTime": "2026-08-03T07:45:46Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/charlie-benante/licks/charlie-benante-madhouse-thrash-groove": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/charlie-benante/licks/charlie-benante-persistence-of-time-blast": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-02T18:16:26Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/chris-adler/endorsements": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/chris-adler/licks/chris-adler-512-groove": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/chris-adler/licks/chris-adler-contractor-drum-setup": {
+      "class": "duplicate-google-canonical",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate, Google chose different canonical than user",
+      "lastCrawlTime": "2026-07-31T12:31:26Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/chris-adler/licks/chris-adler-laid-to-rest-groove": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/chris-adler/licks/chris-adler-redneck-drum-setup": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-03T18:46:24Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/chris-adler/licks/chris-adler-walk-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T03:28:53Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/chris-adler/licks/chris-adler-walk-with-me-in-hell-groove": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/chris-turner/endorsements": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T15:29:58Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/chris-turner/licks/chris-turner-escapist-double-bass": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-28T00:08:53Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/chris-turner/licks/chris-turner-hansha-polyrhythm": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/chris-turner/licks/chris-turner-metamorph-odd-time": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T23:49:30Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/daniel-erlandsson/endorsements": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T16:59:56Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/daniel-erlandsson/licks/daniel-erlandsson-avalanche": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/daniel-erlandsson/licks/daniel-erlandsson-nemesis": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/daniel-erlandsson/licks/daniel-erlandsson-war-eternal": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/danny-carey/endorsements": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/danny-carey/licks/danny-carey-forty-six-and-2-outro": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/danny-carey/licks/danny-carey-forty-six-and-2-steady-groove": {
+      "class": "duplicate-google-canonical",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate, Google chose different canonical than user",
+      "lastCrawlTime": "2026-08-17T18:05:59Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/danny-carey/licks/danny-carey-lateralus-polyrhythm": {
+      "class": "duplicate-google-canonical",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate, Google chose different canonical than user",
+      "lastCrawlTime": "2026-07-13T16:22:44Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/danny-carey/licks/danny-carey-pneuma-groove": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/danny-carey/licks/danny-carey-schism-intro": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/danny-carey/licks/danny-carey-schism-odd-meter-groove": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-02T15:08:48Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/danny-carey/signature/danny-carey-paiste-giant-beat-gongs": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-28T13:38:14Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/daray/endorsements": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:17:34Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/daray/licks/daray-council-of-wolves-groove": {
+      "class": "duplicate-google-canonical",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate, Google chose different canonical than user",
+      "lastCrawlTime": "2026-08-17T14:41:28Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/daray/licks/daray-gateways-blast": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T13:39:15Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/daray/licks/daray-progenies-double-bass": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/dave-lombardo/endorsements": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-06T11:58:51Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/dave-lombardo/licks/dave-lombardo-angel-of-death-chaos": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/dave-lombardo/licks/dave-lombardo-angel-of-death-lick": {
+      "class": "duplicate-google-canonical",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate, Google chose different canonical than user",
+      "lastCrawlTime": "2026-07-30T20:17:29Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/dave-lombardo/licks/dave-lombardo-raining-blood-double-bass": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/dave-lombardo/licks/dave-lombardo-raining-blood-lick": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-02T14:57:54Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/dave-lombardo/licks/dave-lombardo-seasons-thrash": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T15:33:04Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/dave-lombardo/licks/dave-lombardo-show-no-mercy-tom-run": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T04:17:21Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/dave-lombardo/licks/dave-lombardo-slayer-reign-in-blood-double-bass": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/dave-lombardo/licks/dave-lombardo-south-of-heaven-lick": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-02T17:38:21Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/dave-lombardo/signature/dave-lombardo-promark-2bx-signature": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/derek-roddy/endorsements": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T11:03:46Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/derek-roddy/licks/derek-roddy-blast-beat-gravity": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T23:14:41Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/derek-roddy/licks/derek-roddy-evilution-polyrhythm": {
+      "class": "duplicate-google-canonical",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate, Google chose different canonical than user",
+      "lastCrawlTime": "2026-08-17T19:17:40Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/derek-roddy/licks/derek-roddy-i-monarch-double-bass": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T23:24:00Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/derek-roddy/licks/derek-roddy-king-of-all-kings-blast": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/derek-roddy/licks/derek-roddy-sons-of-darkness-speed": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/derek-roddy/licks/derek-roddy-technical-fill": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T18:38:28Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/dirk-verbeuren/endorsements": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T18:06:46Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/dirk-verbeuren/licks/dirk-verbeuren-king-of-the-threshold": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/dirk-verbeuren/licks/dirk-verbeuren-mechanix": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/dirk-verbeuren/licks/dirk-verbeuren-tipping-point": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/eloy-casagrande/endorsements": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/eloy-casagrande/licks/eloy-casagrande-arise-double-bass": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/eloy-casagrande/licks/eloy-casagrande-isolation-blast": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/eloy-casagrande/licks/eloy-casagrande-means-to-an-end-groove": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/flo-mounier/endorsements": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-14T01:56:42Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/flo-mounier/licks/flo-mounier-blasphemy-made-flesh-double-kick": {
+      "class": "duplicate-google-canonical",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate, Google chose different canonical than user",
+      "lastCrawlTime": "2026-07-13T17:18:35Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/flo-mounier/licks/flo-mounier-none-so-vile-gravity-blast": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/flo-mounier/licks/flo-mounier-phobophile-gravity-blast": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/flo-mounier/licks/flo-mounier-sire-of-sin-blast": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/flo-mounier/licks/flo-mounier-slit-your-guts-blast": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/flo-mounier/licks/flo-mounier-whisper-supremacy-tom-fill": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/frost/endorsements": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T00:31:00Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/frost/licks/frost-fuel-for-hatred-blast": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/frost/licks/frost-king-mid-tempo-groove": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/frost/licks/frost-mother-north-groove": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-01T03:22:55Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/gavin-harrison/endorsements": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-14T06:17:39Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/gavin-harrison/licks/gavin-harrison-anesthetize": {
+      "class": "duplicate-google-canonical",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate, Google chose different canonical than user",
+      "lastCrawlTime": "2026-08-09T03:12:48Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/gavin-harrison/licks/gavin-harrison-harridan": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/gavin-harrison/licks/gavin-harrison-the-sound-of-muzak": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/gene-hoglan/endorsements": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T10:40:51Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/gene-hoglan/licks/gene-hoglan-crystal-mountain-groove": {
+      "class": "duplicate-google-canonical",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate, Google chose different canonical than user",
+      "lastCrawlTime": "2026-08-17T18:22:25Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/gene-hoglan/licks/gene-hoglan-dark-angel-220bpm-blast-beat": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T04:51:06Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/gene-hoglan/licks/gene-hoglan-darkness-descends-lick": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-02T19:01:27Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/gene-hoglan/licks/gene-hoglan-death-symbolic-groove-blast-combo": {
+      "class": "duplicate-google-canonical",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate, Google chose different canonical than user",
+      "lastCrawlTime": "2026-07-19T07:45:39Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/gene-hoglan/licks/gene-hoglan-pull-the-plug-lick": {
+      "class": "duplicate-google-canonical",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate, Google chose different canonical than user",
+      "lastCrawlTime": "2026-07-19T03:22:49Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/gene-hoglan/licks/gene-hoglan-the-philosopher-groove": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/gene-hoglan/licks/gene-hoglan-zero-the-hero-lick": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T14:56:25Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/gene-hoglan/licks/gene-hoglan-zero-tolerance-groove": {
+      "class": "duplicate-google-canonical",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate, Google chose different canonical than user",
+      "lastCrawlTime": "2026-08-17T22:54:44Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/gene-hoglan/signature/gene-hoglan-pearl-reference-kit": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/george-kollias/endorsements": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/george-kollias/licks/george-kollias-gravity-blast": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/george-kollias/licks/george-kollias-polyrhythmic-mayhem": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/george-kollias/licks/george-kollias-sustained-blast": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/hannes-grossmann/endorsements": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T10:59:58Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/hannes-grossmann/licks/hannes-grossmann-alter-magnitudes": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T11:53:20Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/hannes-grossmann/licks/hannes-grossmann-in-turmoils-swirling-reaches": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/hannes-grossmann/licks/hannes-grossmann-septuagint-odd-time": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/hellhammer/endorsements": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T00:32:45Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/hellhammer/licks/hellhammer-de-mysteriis-blast": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T21:44:04Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/hellhammer/licks/hellhammer-deathcrush-battery": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/hellhammer/licks/hellhammer-freezing-moon-blast": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/igor-cavalera/endorsements": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T15:21:06Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/igor-cavalera/licks/igor-cavalera-beneath-the-remains-blast": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/igor-cavalera/licks/igor-cavalera-beneath-the-remains-double-bass": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/igor-cavalera/licks/igor-cavalera-chaos-ad-groove": {
+      "class": "duplicate-google-canonical",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate, Google chose different canonical than user",
+      "lastCrawlTime": "2026-08-01T12:43:11Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/igor-cavalera/licks/igor-cavalera-refuse-resist-double-bass": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/igor-cavalera/licks/igor-cavalera-roots-bloody-roots-tribal-groove": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/igor-cavalera/licks/igor-cavalera-schizophrenia-blast-groove": {
+      "class": "duplicate-google-canonical",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate, Google chose different canonical than user",
+      "lastCrawlTime": "2026-07-15T05:54:48Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/inferno/endorsements": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/inferno/licks/inferno-blow-trumpets-gabriel": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/inferno/licks/inferno-conquer-all-blast": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/inferno/licks/inferno-demigod-double-kick": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-02T18:23:08Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/inferno/licks/inferno-evangelion-blast-sequence": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/inferno/licks/inferno-satanist-groove-blast-hybrid": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-18T09:42:07Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/inferno/licks/inferno-the-satanist-double-bass": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T15:57:34Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/isaac-lamb/licks/isaac-lamb-bc-beatdown-groove": {
+      "class": "duplicate-google-canonical",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate, Google chose different canonical than user",
+      "lastCrawlTime": "2026-07-16T18:57:33Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/isaac-lamb/licks/isaac-lamb-boomslang-groove-power": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/isaac-lamb/licks/isaac-lamb-true-fear-hardcore-intensity": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/jaska-raatikainen/endorsements": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-18T22:31:16Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/jaska-raatikainen/licks/jaska-raatikainen-follow-the-reaper-groove": {
+      "class": "duplicate-google-canonical",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate, Google chose different canonical than user",
+      "lastCrawlTime": "2026-08-03T15:28:25Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/jaska-raatikainen/licks/jaska-raatikainen-hate-crew-deathroll-blast": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T13:13:48Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/jaska-raatikainen/licks/jaska-raatikainen-hate-crew-fill": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T19:20:17Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/jaska-raatikainen/licks/jaska-raatikainen-hatebreeder-double-bass": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-02T18:05:19Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/jaska-raatikainen/licks/jaska-raatikainen-lake-bodom-fills": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/jaska-raatikainen/licks/jaska-raatikainen-sixpounder-double-bass": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/jason-bittner/endorsements": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T15:29:53Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/jason-bittner/licks/jason-bittner-light-that-blinds-groove": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/jason-bittner/licks/jason-bittner-overkill-double-bass-run": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/jason-bittner/licks/jason-bittner-what-drives-the-weak-fill": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/jay-weinberg/endorsements": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/jay-weinberg/licks/jay-weinberg-duality": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/jay-weinberg/licks/jay-weinberg-the-devil-in-i": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-28T01:50:34Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/jay-weinberg/licks/jay-weinberg-unsainted": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/jimmy-degrasso/endorsements": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-28T21:20:20Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/jimmy-degrasso/licks/jimmy-degrasso-1000-times-goodbye-groove": {
+      "class": "duplicate-google-canonical",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate, Google chose different canonical than user",
+      "lastCrawlTime": "2026-07-31T17:50:15Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/jocke-wallgren/endorsements": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:15:26Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/jocke-wallgren/licks/jocke-wallgren-fafners-gold-blast": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-28T01:52:19Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/jocke-wallgren/licks/jocke-wallgren-runes-to-my-memory-groove": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T02:32:16Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/jocke-wallgren/licks/jocke-wallgren-twilight-double-bass": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/joey-jordison/endorsements": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/joey-jordison/licks/joey-jordison-disasterpiece-chaos": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/joey-jordison/licks/joey-jordison-eyeless-blast": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/joey-jordison/licks/joey-jordison-heretic-anthem-intro": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-28T06:29:23Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/joey-jordison/licks/joey-jordison-iowa-double-bass": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-02T18:43:55Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/joey-jordison/licks/joey-jordison-people-snare-pattern": {
+      "class": "duplicate-google-canonical",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate, Google chose different canonical than user",
+      "lastCrawlTime": "2026-07-20T00:50:02Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/joey-jordison/licks/joey-jordison-three-hundred-blast": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T04:17:42Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/joey-jordison/signature/joey-jordison-pearl-signature-snare": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/john-longstreth/endorsements": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-27T12:52:23Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/john-longstreth/licks/john-longstreth-expulsion-of-fury-blast": {
+      "class": "duplicate-google-canonical",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate, Google chose different canonical than user",
+      "lastCrawlTime": "2026-07-28T21:59:08Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/john-otto/endorsements": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-14T08:51:41Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/john-otto/licks/john-otto-break-stuff-groove": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/john-otto/licks/john-otto-nookie-fill": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/john-otto/licks/john-otto-rollin-groove": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/jon-dette/endorsements": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T12:37:52Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/jon-dette/licks/jon-dette-killing-fields-thrash": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-28T00:35:42Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/jon-dette/licks/jon-dette-postmortem-precision": {
+      "class": "error-404",
+      "verdict": "NEUTRAL",
+      "coverageState": "Not found (404)",
+      "lastCrawlTime": "2026-07-06T15:11:39Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/jon-dette/licks/jon-dette-serenity-in-fire-groove": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/kevin-talley/endorsements": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T15:08:16Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/kevin-talley/licks/kevin-talley-destroy-the-opposition-groove": {
+      "class": "duplicate-google-canonical",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate, Google chose different canonical than user",
+      "lastCrawlTime": "2026-07-17T16:35:25Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/kevin-talley/licks/kevin-talley-epidemic-of-hate-gravity-blast": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/kevin-talley/licks/kevin-talley-killing-on-adrenaline-two-handed-blast": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/lars-ulrich/endorsements": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/lars-ulrich/licks/lars-ulrich-blackened-open-hihat": {
+      "class": "duplicate-google-canonical",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate, Google chose different canonical than user",
+      "lastCrawlTime": "2026-07-12T19:22:18Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/lars-ulrich/licks/lars-ulrich-enter-sandman-groove": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/lars-ulrich/licks/lars-ulrich-master-of-puppets-gallop": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T15:34:36Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/lars-ulrich/licks/lars-ulrich-one-building-thrash": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-02T19:56:30Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/lars-ulrich/licks/lars-ulrich-one-intro": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/lars-ulrich/signature/lars-ulrich-paiste-rude-china": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/mario-duplantier/endorsements": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/mario-duplantier/licks/mario-duplantier-backbone-groove": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/mario-duplantier/licks/mario-duplantier-blast-variation": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/mario-duplantier/licks/mario-duplantier-flying-whales-groove": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-02T17:15:46Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/mario-duplantier/licks/mario-duplantier-polyrhythmic-groove": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/mario-duplantier/licks/mario-duplantier-silvera-tribal-groove": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T01:52:11Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/mario-duplantier/licks/mario-duplantier-stranded-intro-fill": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-02T15:04:06Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/mario-duplantier/signature/mario-duplantier-tama-starphonic-bronze": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/martin-axenrot/endorsements": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:08:45Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/martin-axenrot/licks/martin-axenrot-devils-orchard-meter-shifts": {
+      "class": "duplicate-google-canonical",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate, Google chose different canonical than user",
+      "lastCrawlTime": "2026-07-07T16:56:27Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/martin-axenrot/licks/martin-axenrot-sorceress-riff-lock": {
+      "class": "duplicate-google-canonical",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate, Google chose different canonical than user",
+      "lastCrawlTime": "2026-07-12T19:23:19Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/martin-lopez/endorsements": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T23:02:44Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/martin-lopez/licks/martin-lopez-antagonist-soen-groove": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/martin-lopez/licks/martin-lopez-blackwater-park-shuffle": {
+      "class": "duplicate-google-canonical",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate, Google chose different canonical than user",
+      "lastCrawlTime": "2026-07-12T11:12:20Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/martin-lopez/licks/martin-lopez-bleak-ghost-notes": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-28T00:00:24Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/martin-lopez/licks/martin-lopez-deliverance-blast": {
+      "class": "duplicate-google-canonical",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate, Google chose different canonical than user",
+      "lastCrawlTime": "2026-07-13T15:15:26Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/martin-lopez/licks/martin-lopez-demon-of-the-fall-opening": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/martin-lopez/licks/martin-lopez-drapery-falls-dynamics": {
+      "class": "duplicate-google-canonical",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate, Google chose different canonical than user",
+      "lastCrawlTime": "2026-08-11T22:19:31Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/matt-garstka/endorsements": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T14:31:44Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/matt-garstka/licks/matt-garstka-lippincott-polyrhythm": {
+      "class": "duplicate-google-canonical",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate, Google chose different canonical than user",
+      "lastCrawlTime": "2026-08-17T18:01:10Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/matt-garstka/licks/matt-garstka-monomyth-polyrhythm": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/matt-garstka/licks/matt-garstka-physical-education-fill": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/matt-garstka/licks/matt-garstka-tempting-time-groove": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/matt-garstka/licks/matt-garstka-woven-web-linear": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/matt-greiner/endorsements": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T15:43:05Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/matt-greiner/licks/matt-greiner-composure-syncopation": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/matt-greiner/licks/matt-greiner-constellations-blast-groove": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/matt-greiner/licks/matt-greiner-constellations-polyrhythm": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-02T15:13:37Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/matt-greiner/licks/matt-greiner-leveler-double-bass": {
+      "class": "duplicate-google-canonical",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate, Google chose different canonical than user",
+      "lastCrawlTime": "2026-07-15T08:18:09Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/matt-greiner/licks/matt-greiner-leveler-polyrhythm": {
+      "class": "duplicate-google-canonical",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate, Google chose different canonical than user",
+      "lastCrawlTime": "2026-07-16T20:04:23Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/matt-greiner/licks/matt-greiner-meridian-double-bass": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/matt-greiner/licks/matt-greiner-messengers-blast-groove": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T16:25:35Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/matt-greiner/licks/matt-greiner-messengers-intro-groove": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-02T15:05:59Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/matt-greiner/licks/matt-greiner-sonic-salvation-groove": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/matt-halpern/endorsements": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/matt-halpern/licks/matt-halpern-icarus-lives-groove": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/matt-halpern/licks/matt-halpern-marigold-groove": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/matt-halpern/licks/matt-halpern-masamune-ghost-notes": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-02T15:04:57Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/matt-halpern/licks/matt-halpern-ragnarok-blast": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-02T18:37:01Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/matt-halpern/licks/matt-halpern-scarlet-groove": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/matt-halpern/licks/matt-halpern-the-bad-thing-groove": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/mike-mangini/endorsements": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T16:35:51Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/mike-mangini/licks/mangini-distance-over-time-fill": {
+      "class": "duplicate-google-canonical",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate, Google chose different canonical than user",
+      "lastCrawlTime": "2026-07-15T08:18:37Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/mike-mangini/licks/mangini-dramatic-turn-polyrhythm": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T22:47:54Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/mike-mangini/licks/mangini-systematic-chaos-paradiddle-lick": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-02T18:56:46Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/mike-mangini/licks/mike-mangini-breaking-all-illusions": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/mike-mangini/licks/mike-mangini-on-the-backs-of-angels": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/mike-mangini/licks/mike-mangini-the-looking-glass": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/mike-portnoy/endorsements": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/mike-portnoy/licks/mike-portnoy-dance-of-eternity": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/mike-portnoy/licks/mike-portnoy-in-the-presence-of-enemies-blast": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-03T07:03:20Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/mike-portnoy/licks/mike-portnoy-panic-attack-double-bass": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-28T01:48:28Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/mike-portnoy/licks/mike-portnoy-pull-me-under-fill": {
+      "class": "duplicate-google-canonical",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate, Google chose different canonical than user",
+      "lastCrawlTime": "2026-08-18T01:41:39Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/mike-portnoy/licks/mike-portnoy-pull-me-under-groove": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/mike-portnoy/licks/mike-portnoy-the-dance-of-eternity-meter-change": {
+      "class": "duplicate-google-canonical",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate, Google chose different canonical than user",
+      "lastCrawlTime": "2026-08-17T18:03:10Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/mikkey-dee/endorsements": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T15:21:59Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/mikkey-dee/licks/mikkey-dee-ace-of-spades": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/mikkey-dee/licks/mikkey-dee-bastards-motorik": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T04:54:55Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/mikkey-dee/licks/mikkey-dee-bomber-gallop": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-08-18T09:50:53Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/mikkey-dee/licks/mikkey-dee-killed-by-death": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/mikkey-dee/licks/mikkey-dee-overkill": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/mikkey-dee/licks/mikkey-dee-overkill-double-bass": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-03T18:51:51Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/morgan-agren/endorsements": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T12:19:12Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/morgan-agren/licks/morgan-agren-neyveli-prog-groove": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/morgan-agren/licks/morgan-agren-odd-meter-improvisation": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/morgan-agren/licks/morgan-agren-sprite-metric-modulation": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/navene-koperweis/endorsements": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-12T15:19:18Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/navene-koperweis/licks/navene-koperweis-an-end-to-everything": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/navene-koperweis/licks/navene-koperweis-chemical-flashback-djent": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/navene-koperweis/licks/navene-koperweis-interior-wilderness": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/nick-augusto/endorsements": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-13T12:11:03Z",
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/nick-augusto/licks/nick-augusto-built-to-fall-fill": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null,
+      "group": "rotating"
+    },
+    "https://metalforge.io/drummers/nick-augusto/licks/nick-augusto-in-waves-groove": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-28T01:53:43Z",
+      "group": "rotating"
+    }
+  }
+}

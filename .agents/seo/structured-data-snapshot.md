@@ -2,17 +2,17 @@
 
 *Auto-written by `.github/workflows/check-structured-data.yml`. CEO Agent: read this every run when deciding which JSON-LD gaps to file `ai-fix` issues for. This catches the class of bug GSC flags as "Missing field X" before Google does.*
 
-**Generated:** 2026-08-17T10:25:53.753Z
-**Sitemap URLs total:** 3180 · **Sampled this run:** 150 (cap 150)
-**Compared against:** 2026-08-10.json
+**Generated:** 2026-08-24T10:31:46.335Z
+**Sitemap URLs total:** 3175 · **Sampled this run:** 150 (cap 150)
+**Compared against:** 2026-08-17.json
 
 **150 URLs scanned · 150 clean · 0 with issues · WoW: +0 new, −0 fixed**
 
 **Counts:** `ok`=150
 
-**Sample coverage (by URL type):** `articles` 22/433 · `bands` 22/48 · `drummer` 22/620 · `guides` 21/354 · `licks` 21/295 · `lists` 21/98 · `other` 21/1332
+**Sample coverage (by URL type):** `articles` 22/432 · `bands` 22/48 · `drummer` 22/619 · `guides` 21/354 · `licks` 21/295 · `lists` 21/98 · `other` 21/1329
 
-> ⚠️ Cap reached — not every URL was scanned this run: `other` 1311 skipped, `guides` 333 skipped, `lists` 77 skipped, `articles` 411 skipped, `drummer` 598 skipped, `bands` 26 skipped, `licks` 274 skipped.
+> ⚠️ Cap reached — not every URL was scanned this run: `other` 1308 skipped, `guides` 333 skipped, `lists` 77 skipped, `articles` 410 skipped, `drummer` 597 skipped, `bands` 26 skipped, `licks` 274 skipped.
 
 ## Classification
 

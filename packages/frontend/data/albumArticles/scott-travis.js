@@ -39,54 +39,54 @@ export const articles = {
       ]
     },
     "drumKit": {
-      "title": "Travis's ddrum Powerhouse",
-      "brand": "ddrum",
-      "model": "ddrum Dominion Series",
+      "title": "Travis's Tama Artstar II Attack",
+      "brand": "Tama",
+      "model": "Tama Artstar II",
       "finish": "Piano Black",
       "config": {
         "bassdrums": [
           "22\" x 16\" Bass Drum (x2)"
         ],
         "toms": [
-          "10\" x 10\" Rack Tom",
-          "12\" x 11\" Rack Tom",
-          "13\" x 12\" Rack Tom"
+          "10\" Rack Tom",
+          "12\" Rack Tom",
+          "13\" Rack Tom"
         ],
         "floorToms": [
-          "14\" x 14\" Floor Tom",
-          "16\" x 16\" Floor Tom"
+          "14\" Floor Tom",
+          "16\" Floor Tom"
         ],
-        "shells": "ddrum Dominion Series shell pack with die-cast hoops"
+        "shells": "Tama Artstar II birch shell pack with die-cast hoops"
       },
-      "description": "For Painkiller, Scott Travis used the ddrum Dominion Series shell pack that has anchored his sound throughout his long-standing endorsement with the brand. The Dominion Series is built for an aggressive attack and focused tone — essential qualities for cutting through Priest's wall of guitars at extreme speeds.\n\nThe double 22\" x 16\" bass drums were the foundation of Travis's revolutionary sound. Tuned tight and punchy, they produced the machine-gun attack that defines the Painkiller album. Unlike many metal drummers who favor deep, boomy bass drums, Travis's setup emphasized clarity and articulation, allowing every note to be heard even at blinding speeds.\n\nThe rack tom configuration (10\", 12\", 13\") along with two floor toms (14\", 16\") gave Travis a complete palette for his rapid-fire fills. The Dominion Series's die-cast hoops enhanced attack and rim shot clarity, crucial for the snare-intensive patterns throughout the album.\n\nThe ddrum shell pack provided the projection needed for Painkiller's massive sound, delivering the high-frequency attack that defined the album's aggressive, in-your-face drum sound.",
+      "description": "For Painkiller, Scott Travis played a Tama Artstar II shell pack, birch shells chosen for the aggressive attack and focused tone needed to cut through Judas Priest's dual-guitar wall at extreme speeds.\n\nThe double 22\" x 16\" bass drums were the foundation of Travis's revolutionary sound. Tuned tight and punchy, they produced the machine-gun attack that defines the Painkiller album. Unlike many metal drummers who favor deep, boomy bass drums, Travis's setup emphasized clarity and articulation, allowing every note to be heard even at blinding speeds.\n\nThe rack tom configuration (10\", 12\", 13\") along with two floor toms (14\", 16\") gave Travis a complete palette for his rapid-fire fills. The Artstar II's die-cast hoops enhanced attack and rim shot clarity, crucial for the snare-intensive patterns throughout the album.\n\nBirch delivers more high-frequency attack than maple — exactly what Painkiller's massive sound needed, giving Travis the projection to cut through two guitars without losing definition, even at 200-plus BPM.",
       "notes": [
         "Double bass drums tuned tight for maximum articulation",
-        "ddrum Dominion Series shells provided aggressive attack and projection",
+        "Tama Artstar II birch shells provided the high-frequency attack needed to cut through Priest's dual-guitar wall",
         "Die-cast hoops enhanced rim shot clarity",
         "Configuration optimized for speed without sacrificing power",
-        "This kit established the template for modern speed metal drumming"
+        "Travis carried this same Tama kit through Jugulator (1997) before switching to Pearl in the 2000s"
       ],
-      "estimatedValue": "$3,500-5,000 (1990)"
+      "estimatedValue": "$2,000-2,800 (1990)"
     },
     "snare": {
       "title": "The Crack of Thunder",
-      "brand": "ddrum",
-      "model": "ddrum Scott Travis Signature",
+      "brand": "Tama",
+      "model": "Tama Artstar II Steel",
       "size": "14\" x 6.5\"",
-      "shell": "Signature shell with die-cast hoops",
-      "description": "The snare sound on Painkiller cuts through like a blade — tight, explosive, and perfectly positioned in the mix. Travis achieved this with his ddrum Scott Travis Signature snare, built to his own specifications for the brightness and attack needed for the album's demanding material.\n\nThe 14\" x 6.5\" dimensions gave the drum both the projection for powerful backbeats and the response for the rapid ghost notes and intricate patterns throughout the album. The shell delivered the high-frequency crack that pierced through K.K. Downing and Glenn Tipton's dual guitar assault.\n\nTravis tuned the snare on the tighter side, emphasizing attack over body. This approach was essential for songs like \"Painkiller\" and \"Metal Meltdown\" where the snare needed to cut through sustained guitar walls and not get lost in the density.\n\nThe die-cast hoops added durability for Travis's powerful rim shots and enhanced the drum's overall projection. Every backbeat rang with authority, providing the anchor for the album's complex arrangements.",
+      "shell": "Steel shell, standard configuration",
+      "description": "The snare sound on Painkiller cuts through like a blade — tight, explosive, and perfectly positioned in the mix. Travis achieved this with the steel-shelled Tama Artstar II snare that matched his Painkiller-era kit.\n\nThe 14\" x 6.5\" dimensions gave the drum both the projection for powerful backbeats and the response for the rapid ghost notes and intricate patterns throughout the album. The steel shell delivered the high-frequency crack that pierced through K.K. Downing and Glenn Tipton's dual guitar assault.\n\nTravis tuned the snare on the tighter side, emphasizing attack over body. This approach was essential for songs like \"Painkiller\" and \"Metal Meltdown\" where the snare needed to cut through sustained guitar walls and not get lost in the density.\n\nThe die-cast hoops added durability for Travis's powerful rim shots and enhanced the drum's overall projection. Every backbeat rang with authority, providing the anchor for the album's complex arrangements.",
       "tuningSetting": "Medium-high tension, tight snare wires for maximum attack",
       "heads": "Remo Emperor Coated (batter), Remo Ambassador Snare Side",
-      "estimatedValue": "$400-500 (1990)"
+      "estimatedValue": "$300-400 (1990)"
     },
     "cymbals": {
       "title": "Paiste Brilliance",
       "brand": "Paiste",
-      "series": "Paiste RUDE / 2002",
+      "series": "Paiste Signature / 2002 Series",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Paiste RUDE 14\" Hi-Hats",
+          "model": "Paiste Signature 14\" Hi-Hats",
           "position": "Left side",
           "notes": "Heavy weight for aggressive playing"
         },
@@ -98,13 +98,13 @@ export const articles = {
         },
         {
           "type": "Crash",
-          "model": "Paiste RUDE 18\" Crash",
+          "model": "Paiste Signature 18\" Full Crash",
           "position": "Above left toms",
           "notes": "Cutting, arena-projecting crash"
         },
         {
           "type": "Crash",
-          "model": "Paiste RUDE 19\" Crash",
+          "model": "Paiste Signature 19\" Full Crash",
           "position": "Above right toms",
           "notes": "Primary crash position"
         },
@@ -116,41 +116,41 @@ export const articles = {
         },
         {
           "type": "Ride",
-          "model": "Paiste RUDE 22\" Power Ride",
+          "model": "Paiste Signature 22\" Full Ride",
           "position": "Far right",
           "notes": "Heavy ride with clear bell"
         },
         {
           "type": "China",
-          "model": "Paiste RUDE 18\" China",
+          "model": "Paiste 2002 18\" China",
           "position": "Above floor tom",
           "notes": "Trashy accents for transitions"
         }
       ],
-      "description": "Scott Travis's cymbal setup blended Paiste's RUDE series (built for aggressive, arena-cutting projection) with the classic 2002 line. This combination delivered the brightness and cut essential for heavy metal's most demanding album.\n\nThe 14\" RUDE Hi-Hats were crucial for Travis's playing style. Their weight provided stability during aggressive patterns while their projection cut through the mix. Fast hi-hat work is featured prominently throughout the album.\n\nThe array of crash cymbals (16\" through 20\") gave Travis options for different dynamics and textures. The RUDE crashes emphasized high frequencies and fast response, while the 2002 crashes added warmth for variety.\n\nThe 22\" RUDE Power Ride was substantial enough to withstand Travis's forceful playing while providing clear stick definition for ride-heavy passages. The bell sound was particularly important for accents throughout the album.\n\nThe 18\" RUDE China added the explosive accents that punctuate key moments throughout Painkiller. These trashy, cutting sounds became part of the album's sonic signature.",
-      "estimatedValue": "$2,200-2,800 total (1990)"
+      "description": "Scott Travis's cymbal setup blended Paiste's newly-launched Signature series with the classic 2002 line, establishing the Paiste endorsement he has carried in some form ever since. This combination delivered the brightness and cut essential for heavy metal's most demanding album.\n\nThe 14\" Signature Hi-Hats were crucial for Travis's playing style. Their weight provided stability during aggressive patterns while their projection cut through the mix. Fast hi-hat work is featured prominently throughout the album.\n\nThe array of crash cymbals (16\" through 20\") gave Travis options for different dynamics and textures. The Signature crashes emphasized high frequencies and fast response, while the 2002 crashes added warmth for variety.\n\nThe 22\" Signature Full Ride was substantial enough to withstand Travis's forceful playing while providing clear stick definition for ride-heavy passages. The bell sound was particularly important for accents throughout the album.\n\nThe 18\" 2002 China added the explosive accents that punctuate key moments throughout Painkiller. These trashy, cutting sounds became part of the album's sonic signature.",
+      "estimatedValue": "$1,800-2,400 total (1990)"
     },
     "hardware": {
       "title": "The Speed Machine",
       "items": [
         {
           "type": "Bass Drum Pedals",
-          "brand": "DW",
-          "model": "DW 9000 Series Double Pedal",
-          "notes": "Smooth, fast response mounted on a Gibraltar rack",
-          "description": "Travis powered Painkiller's demanding double bass work with the DW 9000 Series pedal that has remained his choice throughout his career, mounted on a Gibraltar rack for consistent positioning."
+          "brand": "Tama",
+          "model": "Tama Iron Cobra HP900 (Prototype/Early Version)",
+          "notes": "Two independently pedaled bass drums, not a linked double pedal",
+          "description": "Travis powered Painkiller's demanding double bass work with a pair of prototype/early-version Tama Iron Cobra HP900 pedals — one per bass drum rather than a linked double pedal, the foot-independence approach he has kept for his entire career."
         },
         {
           "type": "Hi-Hat Stand",
-          "brand": "Gibraltar",
-          "model": "Gibraltar Rack System Hi-Hat Mount",
+          "brand": "Tama",
+          "model": "Tama Iron Cobra Hi-Hat Stand",
           "notes": "Quick response for aggressive footwork"
         },
         {
           "type": "Throne",
-          "brand": "Gibraltar",
-          "model": "Gibraltar Throne",
-          "notes": "Round seat for stability during intense playing"
+          "brand": "Tama",
+          "model": "Tama 1st Chair Throne",
+          "notes": "Stability during intense playing"
         },
         {
           "type": "Sticks",
@@ -252,21 +252,21 @@ export const articles = {
     ],
     "evolution": {
       "title": "From Racer X to Metal God: Scott Travis's Journey",
-      "content": "Before joining Judas Priest, Scott Travis had already established himself as one of metal's most technically proficient drummers through his work with Racer X, the neoclassical metal band featuring guitarist Paul Gilbert. His speed metal credentials were impeccable — but Painkiller would take him to a new level.\n\n**The Racer X Foundation:**\nWith Racer X, Travis developed the double bass technique and speed that would define his Priest years. Albums like \"Street Lethal\" (1986) and \"Second Heat\" (1987) showcased his ability to play at extreme tempos while maintaining precision. But Racer X's profile was limited compared to what awaited.\n\n**Joining Judas Priest:**\nWhen Dave Holland departed Priest in 1989, the band needed someone who could reinvigorate their sound. Travis was the perfect choice — young, technically superior, and hungry to prove himself on a bigger stage. His audition reportedly left the band stunned.\n\n**The Painkiller Transformation:**\nTravis didn't just play the drums on Painkiller — he helped reshape Priest's entire sound. His thrash metal influences pushed the band faster and heavier than they'd ever been. Songs were written around his capabilities, and the result was a complete artistic reinvention.\n\n**Post-Painkiller Career:**\nTravis has remained with Judas Priest through their entire post-Painkiller career. While subsequent albums haven't matched Painkiller's extremity, his drumming continues to anchor the band. Albums like \"Angel of Retribution\" (2005) and \"Firepower\" (2018) showcase his enduring abilities.\n\n**A Consistent Setup:**\nScott Travis has been a long-time endorser of ddrum, Paiste Cymbals, DW Pedals, and Vic Firth Drumsticks, and that lineup has anchored his sound from Painkiller through his most recent Priest recordings:\n- ddrum Dominion Series shell pack\n- ddrum Scott Travis Signature Snare 14x6.5\"\n- Paiste RUDE and 2002 Series cymbals\n- DW 9000 Series Double Pedal\n- Vic Firth American Classic 5B sticks\n\nHis approach to the kit itself — precision, power, and speed — has remained just as consistent as his gear.",
+      "content": "Before joining Judas Priest, Scott Travis had already established himself as one of metal's most technically proficient drummers through his work with Racer X, the neoclassical metal band featuring guitarist Paul Gilbert. His speed metal credentials were impeccable — but Painkiller would take him to a new level.\n\n**The Racer X Foundation:**\nWith Racer X, Travis developed the double bass technique and speed that would define his Priest years. Albums like \"Street Lethal\" (1986) and \"Second Heat\" (1987) showcased his ability to play at extreme tempos while maintaining precision. But Racer X's profile was limited compared to what awaited.\n\n**Joining Judas Priest:**\nWhen Dave Holland departed Priest in 1989, the band needed someone who could reinvigorate their sound. Travis was the perfect choice — young, technically superior, and hungry to prove himself on a bigger stage. His audition reportedly left the band stunned.\n\n**The Painkiller Transformation:**\nTravis didn't just play the drums on Painkiller — he helped reshape Priest's entire sound. His thrash metal influences pushed the band faster and heavier than they'd ever been. Songs were written around his capabilities, and the result was a complete artistic reinvention.\n\n**Post-Painkiller Career:**\nTravis has remained with Judas Priest through their entire post-Painkiller career. While subsequent albums haven't matched Painkiller's extremity, his drumming continues to anchor the band. Albums like \"Angel of Retribution\" (2005) and \"Firepower\" (2018) showcase his enduring abilities.\n\n**A Kit That Evolved With Him:**\nUnlike some drummers who lock into one setup for decades, Travis's gear has moved through distinct eras across his Priest tenure. He recorded Painkiller and Jugulator on a Tama Artstar II kit with Paiste Signature/2002 cymbals and Tama Iron Cobra HP900 hardware, then shifted to a Pearl Reference Series setup with Sabian cymbals through the 2000s and into the mid-2010s, before settling into the ddrum/Paiste/DW rig fans see him play today, adopted around Firepower (2018):\n- Tama Artstar II shell pack (Painkiller, 1990)\n- Tama Artstar II Steel Snare 14x6.5\"\n- Paiste Signature and 2002 Series cymbals\n- Tama Iron Cobra HP900 (prototype/early version)\n- Vic Firth American Classic 5B sticks\n\nHis approach to the kit itself — precision, power, and speed — has remained just as consistent as his gear has changed.",
       "thenVsNow": [
         {
           "category": "Kit",
-          "then": "ddrum Dominion Series",
+          "then": "Tama Artstar II",
           "now": "ddrum Dominion Series"
         },
         {
           "category": "Snare",
-          "then": "ddrum Scott Travis Signature 14x6.5\"",
+          "then": "Tama Artstar II Steel 14x6.5\"",
           "now": "ddrum Scott Travis Signature 14x6.5\""
         },
         {
           "category": "Cymbals",
-          "then": "Paiste RUDE / 2002",
+          "then": "Paiste Signature / 2002",
           "now": "Paiste RUDE / 2002"
         },
         {
@@ -276,7 +276,7 @@ export const articles = {
         },
         {
           "category": "Pedals",
-          "then": "DW 9000 Series Double Pedal",
+          "then": "Tama Iron Cobra HP900 (x2, independent)",
           "now": "DW 9000 Series Double Pedal"
         }
       ]
@@ -323,15 +323,15 @@ export const articles = {
     "faq": [
       {
         "question": "What drum kit did Scott Travis use on Painkiller?",
-        "answer": "Scott Travis recorded Painkiller in 1990 using the ddrum Dominion Series shell pack with die-cast hoops that has anchored his long-standing ddrum endorsement. The setup featured dual 22x16 inch bass drums, three rack toms at 10, 12, and 13 inches, and 14 and 16 inch floor toms, delivering the tight, punchy attack that powered the album's relentless speed and precision."
+        "answer": "Scott Travis recorded Painkiller in 1990 on a Tama Artstar II shell pack with birch shells and die-cast hoops, finished in Piano Black. The setup featured dual 22x16 inch bass drums, three rack toms at 10, 12, and 13 inches, and 14 and 16 inch floor toms, delivering the tight, punchy attack that powered the album's relentless speed and precision. ddrum wasn't part of Travis's setup until his 2018 switch for Firepower."
       },
       {
         "question": "What cymbals did Scott Travis use on Painkiller?",
-        "answer": "Scott Travis used Paiste RUDE and 2002 series cymbals on Painkiller. His setup included Paiste RUDE 14 inch Hi-Hats, Paiste crashes ranging from 16 to 20 inches, a Paiste RUDE 22 inch Power Ride, and a Paiste RUDE 18 inch China. The RUDE series provided the cutting brightness and projection needed to match the ferocity of Judas Priest's heaviest recording."
+        "answer": "Scott Travis used Paiste Signature and 2002 series cymbals on Painkiller. His setup included Paiste Signature 14 inch Hi-Hats, Paiste crashes ranging from 16 to 20 inches, a Paiste Signature 22 inch Full Ride, and a Paiste 2002 18 inch China. The Signature series provided the cutting brightness and projection needed to match the ferocity of Judas Priest's heaviest recording."
       },
       {
         "question": "How much does Scott Travis's Painkiller drum kit cost?",
-        "answer": "At the time of the 1990 recording, a comparable ddrum Dominion Series shell pack was valued at approximately $3,500 to $5,000. Paiste RUDE and 2002 cymbals from that era can add another $500 to $1,500. Reproducing the full setup today typically costs between $1,300 and $4,000."
+        "answer": "At the time of the 1990 recording, a comparable Tama Artstar II shell pack was valued at approximately $2,000 to $2,800. Paiste Signature and 2002 cymbals from that era can add another $1,800 to $2,400. Reproducing the full setup today typically costs between $1,300 and $4,000."
       }
     ],
     "conclusion": {
@@ -364,13 +364,13 @@ export const articles = {
       "what happened to judas priest in the 90s",
       "who replaced rob halford in judas priest",
       "jugulator drum setup",
-      "scott travis ddrum kit",
+      "scott travis tama kit",
       "tim ripper owens debut album drums"
     ],
     "ogImage": "/images/albums/jugulator-drums.webp",
     "intro": {
       "title": "What Happened to Judas Priest in the 90s?",
-      "content": "It's one of the most-asked questions by metal fans discovering Judas Priest's catalogue out of order: what happened between 1990's Painkiller and the band's mid-2000s resurgence? The answer starts with Rob Halford's 1992 departure and ends, seven years later, with Jugulator, an album that most casual fans have never heard, but which answers the question completely.\n\nWith Halford gone, Judas Priest auditioned dozens of singers before guitarist Glenn Tipton discovered Tim Owens fronting a Judas Priest tribute band called British Steel in Akron, Ohio. Owens, quickly nicknamed Ripper after the Priest deep cut The Ripper, became the band's new vocalist in 1996, and Jugulator, released worldwide on October 28, 1997 through CMC International in the US and SPV in Europe, was his studio debut. It was Judas Priest's thirteenth studio album and their first in seven years.\n\nSonically, Jugulator is a hard left turn. Guitars are downtuned to C# and C, trading Painkiller's high-speed gallop for a heavier, more thrash-and-groove-metal-oriented sound closer to contemporaries like Pantera and Machine Head than to classic Priest. The album charted at #82 on the Billboard 200, a steep drop from the band's commercial peak, and reached #9 in both Germany and Japan, evidence that the reinvention found an audience even as it alienated traditionalists.\n\nFor Scott Travis, Jugulator required a genuine stylistic pivot. The sustained, blast-furnace double bass that defined Painkiller gives way here to a more controlled, groove-locked attack built to serve downtuned riffs rather than outrun them. Travis's gear stayed the same ddrum Dominion Series kit and Paiste RUDE/2002 cymbal voice he used on Painkiller — it's his playing, not his equipment, that pivots on Jugulator. It's the missing middle chapter of Travis's Priest career, the one that explains how the Painkiller phenom became the drummer who could anchor whatever direction the band needed next.",
+      "content": "It's one of the most-asked questions by metal fans discovering Judas Priest's catalogue out of order: what happened between 1990's Painkiller and the band's mid-2000s resurgence? The answer starts with Rob Halford's 1992 departure and ends, seven years later, with Jugulator, an album that most casual fans have never heard, but which answers the question completely.\n\nWith Halford gone, Judas Priest auditioned dozens of singers before guitarist Glenn Tipton discovered Tim Owens fronting a Judas Priest tribute band called British Steel in Akron, Ohio. Owens, quickly nicknamed Ripper after the Priest deep cut The Ripper, became the band's new vocalist in 1996, and Jugulator, released worldwide on October 28, 1997 through CMC International in the US and SPV in Europe, was his studio debut. It was Judas Priest's thirteenth studio album and their first in seven years.\n\nSonically, Jugulator is a hard left turn. Guitars are downtuned to C# and C, trading Painkiller's high-speed gallop for a heavier, more thrash-and-groove-metal-oriented sound closer to contemporaries like Pantera and Machine Head than to classic Priest. The album charted at #82 on the Billboard 200, a steep drop from the band's commercial peak, and reached #9 in both Germany and Japan, evidence that the reinvention found an audience even as it alienated traditionalists.\n\nFor Scott Travis, Jugulator required a genuine stylistic pivot. The sustained, blast-furnace double bass that defined Painkiller gives way here to a more controlled, groove-locked attack built to serve downtuned riffs rather than outrun them. Travis's gear stayed the same Tama Artstar II kit and Paiste Signature/2002 cymbal voice he used on Painkiller — it's his playing, not his equipment, that pivots on Jugulator. It's the missing middle chapter of Travis's Priest career, the one that explains how the Painkiller phenom became the drummer who could anchor whatever direction the band needed next.",
       "keyPoints": [
         "Tim \"Ripper\" Owens's studio debut, discovered by Glenn Tipton fronting a Priest tribute band",
         "First Priest studio album since Painkiller (1990) — a seven-year gap, the longest in the band's history to that point",
@@ -380,49 +380,50 @@ export const articles = {
       ]
     },
     "drumKit": {
-      "title": "The ddrum Dominion Series, Built for the Downtune",
-      "brand": "ddrum",
-      "model": "ddrum Dominion Series",
+      "title": "The Tama Artstar II, Built for the Downtune",
+      "brand": "Tama",
+      "model": "Tama Artstar II",
       "finish": "Piano Black",
       "config": {
         "bassdrums": [
-          "22\" x 18\" Bass Drum (x2)"
+          "22\" x 16\" Bass Drum (x2)"
         ],
         "toms": [
-          "10\" x 8\" Rack Tom",
-          "12\" x 9\" Rack Tom"
+          "10\" Rack Tom",
+          "12\" Rack Tom",
+          "13\" Rack Tom"
         ],
         "floorToms": [
-          "14\" x 14\" Floor Tom",
-          "16\" x 16\" Floor Tom"
+          "14\" Floor Tom",
+          "16\" Floor Tom"
         ],
-        "shells": "ddrum Dominion Series shell pack"
+        "shells": "Tama Artstar II birch shell pack with die-cast hoops"
       },
-      "description": "Jugulator required a genuine stylistic pivot for Scott Travis, but not a gear change — he stayed on the same ddrum Dominion Series shell pack that anchored Painkiller. The shell pack's punchy low end and focused attack proved a good match for Jugulator's downtuned, C#/C guitar tuning, where a thinner-sounding kit would have gotten buried.\n\nThe bass drums deepened for this session: 22\" x 18\", two inches deeper than the 22\" x 16\" kicks he used on Painkiller. That extra depth is exactly what a groove-metal album built around sustained, downtuned riffs needs — more low-end weight, less machine-gun clatter. It's a configuration Travis would keep for the rest of his Priest career, through Angel of Retribution, Nostradamus, Redeemer of Souls, and Firepower.\n\nThe tom array also streamlined here: two rack toms (10\", 12\") instead of Painkiller's three (10\", 12\", 13\"), plus the same 14\"/16\" floor tom pairing. Fewer toms meant fewer options for the rapid melodic runs of 1990, but a tighter, more decisive fill vocabulary, appropriate for songs that groove rather than sprint.",
+      "description": "Jugulator required a genuine stylistic pivot for Scott Travis, but not a gear change — he stayed on the same Tama Artstar II shell pack that anchored Painkiller. The birch shells' punchy low end and focused attack proved a good match for Jugulator's downtuned, C#/C guitar tuning, where a thinner-sounding kit would have gotten buried.\n\nThe double 22\" x 16\" bass drums, 10\"/12\"/13\" rack toms, and 14\"/16\" floor toms carried over unchanged from Painkiller. It's a configuration Travis would keep through the rest of the 1990s, before moving to Pearl's Reference Series in the 2000s.\n\nThe die-cast hoops still delivered the sharpened rim shot clarity that anchored Travis's snare-intensive patterns, even as his playing shifted from Painkiller's sprint to Jugulator's groove.",
       "notes": [
-        "Same ddrum Dominion Series shell pack Travis used on Painkiller — the pivot on Jugulator is stylistic, not gear-based",
-        "22\"x18\" bass drums (two inches deeper than Painkiller's 22\"x16\") — a depth Travis kept for the rest of his Priest career",
-        "The Dominion Series shell pack adds low-end weight to match the downtuned C#/C guitars",
-        "Streamlined two-rack-tom layout replaces Painkiller's three-rack-tom array",
+        "Same Tama Artstar II shell pack Travis used on Painkiller — the pivot on Jugulator is stylistic, not gear-based",
+        "22\"x16\" bass drums, 10\"/12\"/13\" rack toms, and 14\"/16\" floor toms unchanged from Painkiller",
+        "Birch shells add the low-end weight and high-frequency attack needed against the downtuned C#/C guitars",
+        "Die-cast hoops carried over from Painkiller for consistent rim shot clarity",
         "Piano Black finish carries over from the Painkiller-era aesthetic"
       ],
-      "estimatedValue": "$3,800-5,200 (1997)"
+      "estimatedValue": "$2,000-2,800 (1997)"
     },
     "snare": {
       "title": "Built for the Downtune",
-      "brand": "ddrum",
-      "model": "ddrum Scott Travis Signature",
+      "brand": "Tama",
+      "model": "Tama Artstar II Steel",
       "size": "14\" x 6.5\"",
-      "shell": "Signature shell with die-cast hoops",
-      "description": "Travis paired his Dominion Series kit with the same 14\" x 6.5\" ddrum Scott Travis Signature snare he used on Painkiller. For Jugulator's thrash-groove material, that consistency was the right call: bright enough to cut through Tipton and Downing's downtuned riffing, full-bodied enough not to sound thin against the album's heavier low end.\n\nThe die-cast hoops preserved the rim-shot clarity Travis relied on for accents, and he kept his tuning philosophy largely intact from Painkiller — medium-high tension for attack — while dialing back slightly on the extreme tightness that speed-metal tempos demanded. Songs like \"Blood Stained\" and \"Death Row\" put the snare front and center on the backbeat, anchoring riffs that move at roughly half the tempo of Painkiller's fastest material.",
+      "shell": "Steel shell, standard configuration",
+      "description": "Travis paired his Artstar II kit with the same 14\" x 6.5\" steel-shelled Tama snare he used on Painkiller. For Jugulator's thrash-groove material, that consistency was the right call: bright enough to cut through Tipton and Downing's downtuned riffing, full-bodied enough not to sound thin against the album's heavier low end.\n\nThe die-cast hoops preserved the rim-shot clarity Travis relied on for accents, and he kept his tuning philosophy largely intact from Painkiller — medium-high tension for attack — while dialing back slightly on the extreme tightness that speed-metal tempos demanded. Songs like \"Blood Stained\" and \"Death Row\" put the snare front and center on the backbeat, anchoring riffs that move at roughly half the tempo of Painkiller's fastest material.",
       "tuningSetting": "Medium-high tension, moderate snare wire tension for body and cut",
       "heads": "Remo Pinstripe (batter), Remo Ambassador Snare Side",
-      "estimatedValue": "$450-600 (1997)"
+      "estimatedValue": "$300-400 (1997)"
     },
     "cymbals": {
-      "title": "Paiste RUDE and 2002: A Leaner, Heavier Voice",
+      "title": "Paiste Signature and 2002: A Leaner, Heavier Voice",
       "brand": "Paiste",
-      "series": "Paiste RUDE / 2002",
+      "series": "Paiste Signature / 2002 Series",
       "setup": [
         {
           "type": "Hi-Hats",
@@ -456,34 +457,34 @@ export const articles = {
         },
         {
           "type": "China",
-          "model": "Paiste RUDE 18\" China",
+          "model": "Paiste 2002 18\" China",
           "position": "Above floor tom",
           "notes": "Trashy accents for the heaviest sections"
         }
       ],
-      "description": "Where Painkiller leaned more on Paiste's RUDE line, Jugulator leans more heavily on the 2002 series, a leaner, darker, heavier cymbal voice that matches the album's downtuned direction. The 2002 series is Paiste's classic hard-rock/metal workhorse line: less brilliant shimmer than RUDE, more midrange weight and aggression.\n\nThe 14\" Sound Edge Hi-Hats, with their serrated bottom edge, give Travis a tighter, more controlled chick, useful for the more deliberate, groove-based hi-hat patterns that replace Painkiller's constant eighth-note drive. The crash array (16\" through 20\") stays mostly in the 2002 family throughout, giving a consistent, unified tonal character rather than the brighter/darker contrast Travis built into his Painkiller rig.\n\nThe 22\" 2002 Ride anchors the verses on mid-tempo cuts like \"Brain Dead\" and \"Bullet Train,\" while the 18\" RUDE China punctuates the heaviest sections of the nine-minute closer \"Cathedral Spires.\" It's a simpler, more focused cymbal setup than Painkiller's, appropriate for an album that trades sprawling technicality for a leaner, meaner attack.",
-      "estimatedValue": "$1,900-2,400 total (1997)"
+      "description": "Where Painkiller leaned more on Paiste's brighter Signature line, Jugulator leans more heavily on the 2002 series, a leaner, darker, heavier cymbal voice that matches the album's downtuned direction. The 2002 series is Paiste's classic hard-rock/metal workhorse line: less brilliant shimmer than Signature, more midrange weight and aggression.\n\nThe 14\" Sound Edge Hi-Hats, with their serrated bottom edge, give Travis a tighter, more controlled chick, useful for the more deliberate, groove-based hi-hat patterns that replace Painkiller's constant eighth-note drive. The crash array (16\" through 20\") stays mostly in the 2002 family throughout, giving a consistent, unified tonal character rather than the brighter/darker contrast Travis built into his Painkiller rig.\n\nThe 22\" 2002 Ride anchors the verses on mid-tempo cuts like \"Brain Dead\" and \"Bullet Train,\" while the 18\" 2002 China punctuates the heaviest sections of the nine-minute closer \"Cathedral Spires.\" It's a simpler, more focused cymbal setup than Painkiller's, appropriate for an album that trades sprawling technicality for a leaner, meaner attack.",
+      "estimatedValue": "$1,700-2,200 total (1997)"
     },
     "hardware": {
-      "title": "The DW 9000 Series Takes Over",
+      "title": "The Tama Iron Cobra Holds Steady",
       "items": [
         {
           "type": "Bass Drum Pedals",
-          "brand": "DW",
-          "model": "DW 9000 Series Double Pedal",
-          "notes": "Smooth, fast response mounted on a Gibraltar rack",
-          "description": "Travis continued running his DW 9000 Series double pedal for Jugulator, mounted on the same Gibraltar rack setup he used on Painkiller, preserving the foot-independence approach he established from the start of his Priest tenure. The pedal's smooth, linear feel suited Jugulator's more deliberate, groove-based double-kick patterns."
+          "brand": "Tama",
+          "model": "Tama Iron Cobra HP900 (Prototype/Early Version)",
+          "notes": "Two independently pedaled bass drums, not a linked double pedal",
+          "description": "Travis continued running the same pair of prototype/early-version Tama Iron Cobra HP900 pedals for Jugulator that he used on Painkiller, preserving the foot-independence approach he established from the start of his Priest tenure. Their smooth, direct feel suited Jugulator's more deliberate, groove-based double-kick patterns."
         },
         {
           "type": "Hi-Hat Stand",
-          "brand": "Gibraltar",
-          "model": "Gibraltar Rack System Hi-Hat Mount",
-          "notes": "Matched to the DW pedal family"
+          "brand": "Tama",
+          "model": "Tama Iron Cobra Hi-Hat Stand",
+          "notes": "Same stand Travis used on Painkiller"
         },
         {
           "type": "Throne",
-          "brand": "Gibraltar",
-          "model": "Gibraltar Throne, round seat",
+          "brand": "Tama",
+          "model": "Tama 1st Chair Throne",
           "notes": "Standard round seat for extended studio sessions"
         },
         {
@@ -501,12 +502,12 @@ export const articles = {
     },
     "recordingTechniques": {
       "title": "No Outside Producer: The Band Behind the Board",
-      "content": "Unlike Painkiller, helmed by outside producer Chris Tsangarides, Jugulator was produced by the band itself. Guitarists Glenn Tipton and K.K. Downing took the producer's chair alongside engineer Sean Lynch, recording at Silvermere Studios in Surrey, England. It's the only Travis-era Priest album produced entirely in-house, and the drum sound reflects that hands-on approach: tighter, drier, and more aggressively compressed than Tsangarides's more spacious Painkiller mix.\n\n**Recording Environment:**\nSilvermere Studios gave the band a controlled, focused live room, well suited to a self-produced session where the guitarists were also making engineering calls. The drum sound on Jugulator is noticeably closer and more upfront than Painkiller's more ambient Wisseloord Studios sessions.\n\n**The Downtuned Challenge:**\nWith guitars tuned to C# and C, Lynch and the band had to find room for Travis's kick and snare without letting them get swallowed by the lower-register riffing. The deeper 22\"x18\" bass drums and the all-2002 Paiste cymbal voice were part of that solution — more low-mid weight on the kit itself meant less need for aggressive EQ carving in the mix.\n\n**Performance Approach:**\nTravis's playing on Jugulator is more take-driven and groove-focused than Painkiller's technical showcases. Tipton and Downing, producing their own drummer for the first time, favored performances that locked tightly with the guitar riffs over performances that showcased pure technique — a philosophy that shaped every choice in the drum sound.",
+      "content": "Unlike Painkiller, helmed by outside producer Chris Tsangarides, Jugulator was produced by the band itself. Guitarists Glenn Tipton and K.K. Downing took the producer's chair alongside engineer Sean Lynch, recording at Silvermere Studios in Surrey, England. It's the only Travis-era Priest album produced entirely in-house, and the drum sound reflects that hands-on approach: tighter, drier, and more aggressively compressed than Tsangarides's more spacious Painkiller mix.\n\n**Recording Environment:**\nSilvermere Studios gave the band a controlled, focused live room, well suited to a self-produced session where the guitarists were also making engineering calls. The drum sound on Jugulator is noticeably closer and more upfront than Painkiller's more ambient Wisseloord Studios sessions.\n\n**The Downtuned Challenge:**\nWith guitars tuned to C# and C, Lynch and the band had to find room for Travis's kick and snare without letting them get swallowed by the lower-register riffing. The Tama Artstar II's birch shells and the mostly-2002 Paiste cymbal voice were part of that solution — more low-mid weight on the kit itself meant less need for aggressive EQ carving in the mix.\n\n**Performance Approach:**\nTravis's playing on Jugulator is more take-driven and groove-focused than Painkiller's technical showcases. Tipton and Downing, producing their own drummer for the first time, favored performances that locked tightly with the guitar riffs over performances that showcased pure technique — a philosophy that shaped every choice in the drum sound.",
       "keyTechniques": [
         "Self-produced by Tipton and Downing with engineer Sean Lynch — no outside producer",
         "Silvermere Studios, Surrey — tighter, drier drum sound than Painkiller's Wisseloord sessions",
-        "Deeper 22\"x18\" bass drums help the kit hold its own against C#/C downtuned guitars",
-        "All-Paiste 2002 cymbal voice adds low-mid weight, reducing the need for aggressive mix EQ",
+        "Tama Artstar II birch shells help the kit hold its own against C#/C downtuned guitars",
+        "Mostly-Paiste 2002 cymbal voice adds low-mid weight, reducing the need for aggressive mix EQ",
         "Groove-locked performances prioritized over pure technical showcase"
       ]
     },
@@ -521,7 +522,7 @@ export const articles = {
           "Double bass deployed in controlled bursts, not sustained blitz",
           "Sets the thrash-groove template for the album"
         ],
-        "gearNotes": "The deeper 22\"x18\" kicks provide the low-end thump the downtuned riff demands. The same DW 9000 Series pedal Travis used on Painkiller delivers a smooth, consistent response."
+        "gearNotes": "The same 22\"x16\" Tama Artstar II kicks from Painkiller provide the low-end thump the downtuned riff demands. The same pair of Tama Iron Cobra HP900 pedals Travis used on Painkiller deliver a smooth, consistent response."
       },
       {
         "track": "Blood Stained",
@@ -532,7 +533,7 @@ export const articles = {
           "Tom fills mark the transitions into the chorus",
           "Demonstrates Travis's pivot toward song-serving restraint"
         ],
-        "gearNotes": "The ddrum Scott Travis Signature snare cuts through without sounding thin against the downtuned guitars."
+        "gearNotes": "The Tama Artstar II Steel snare cuts through without sounding thin against the downtuned guitars."
       },
       {
         "track": "Burn in Hell",
@@ -543,7 +544,7 @@ export const articles = {
           "Double-kick patterns closer to Travis's Painkiller vocabulary",
           "Paiste 2002 China punctuates the chorus peaks"
         ],
-        "gearNotes": "Shows the DW 9000 Series pedal can still deliver speed when the song calls for it — Travis hadn't lost the Painkiller gear, just chose when to use it."
+        "gearNotes": "Shows the Tama Iron Cobra HP900 pedals can still deliver speed when the song calls for it — Travis hadn't lost the Painkiller gear, just chose when to use it."
       },
       {
         "track": "Cathedral Spires",
@@ -554,32 +555,32 @@ export const articles = {
           "Dynamic shifts from atmospheric verses to crushing peaks",
           "Foreshadows the long-form arrangement thinking of Nostradamus (2008)"
         ],
-        "gearNotes": "The full dynamic range of the ddrum Dominion Series kit is on display — restrained tom work in the quiet sections, full-kit power in the climax."
+        "gearNotes": "The full dynamic range of the Tama Artstar II kit is on display — restrained tom work in the quiet sections, full-kit power in the climax."
       }
     ],
     "evolution": {
       "title": "Painkiller to Jugulator: Same Gear, New Direction",
-      "content": "The seven years between Painkiller (1990) and Jugulator (1997) mark a stylistic pivot for Scott Travis, not a gear change. Travis has been a long-time endorser of ddrum, Paiste Cymbals, DW Pedals, and Vic Firth Drumsticks across his entire Priest tenure, and Jugulator's setup carries that lineup forward unchanged: the same ddrum Dominion Series shell pack, ddrum Scott Travis Signature snare, Paiste RUDE/2002 cymbal voice, and DW 9000 Series double pedal he used on Painkiller, deepened to 22\"x18\" bass drums to suit the downtuned material.\n\nWhat changed on Jugulator was Travis's playing, not his equipment: a shift from Painkiller's sustained speed-metal blitz to a more controlled, groove-locked attack built to serve Jugulator's downtuned riffs. The consistency of his ddrum/Paiste/DW rig across this transition is part of what let him pivot stylistically without having to relearn a new kit's response under pressure.",
+      "content": "The seven years between Painkiller (1990) and Jugulator (1997) mark a stylistic pivot for Scott Travis, not a gear change. During this era of his Priest tenure, Travis played a Tama Artstar II kit, Paiste Signature/2002 cymbals, and Tama Iron Cobra HP900 hardware, and Jugulator's setup carries that lineup forward unchanged: the same Tama Artstar II shell pack, Tama Artstar II Steel snare, Paiste Signature/2002 cymbal voice, and pair of Tama Iron Cobra HP900 pedals he used on Painkiller. He wouldn't move to ddrum until 2018's Firepower, two decades later.\n\nWhat changed on Jugulator was Travis's playing, not his equipment: a shift from Painkiller's sustained speed-metal blitz to a more controlled, groove-locked attack built to serve Jugulator's downtuned riffs. The consistency of his Tama/Paiste rig across this transition is part of what let him pivot stylistically without having to relearn a new kit's response under pressure.",
       "thenVsNow": [
         {
           "category": "Kit",
-          "then": "ddrum Dominion Series (Painkiller, 1990)",
-          "now": "ddrum Dominion Series (Jugulator, 1997)"
+          "then": "Tama Artstar II (Painkiller, 1990)",
+          "now": "Tama Artstar II (Jugulator, 1997)"
         },
         {
           "category": "Bass Drums",
           "then": "22\"x16\" (x2)",
-          "now": "22\"x18\" (x2)"
+          "now": "22\"x16\" (x2)"
         },
         {
           "category": "Cymbals",
-          "then": "Paiste RUDE / 2002",
-          "now": "Paiste RUDE / 2002"
+          "then": "Paiste Signature / 2002",
+          "now": "Paiste Signature / 2002"
         },
         {
           "category": "Pedals",
-          "then": "DW 9000 Series Double Pedal",
-          "now": "DW 9000 Series Double Pedal"
+          "then": "Tama Iron Cobra HP900 (x2, independent)",
+          "now": "Tama Iron Cobra HP900 (x2, independent)"
         }
       ]
     },
@@ -594,16 +595,16 @@ export const articles = {
       },
       {
         "question": "What drum kit did Scott Travis use on Jugulator?",
-        "answer": "For Jugulator (1997), Scott Travis played the same ddrum Dominion Series shell pack he used on Painkiller — Travis has been a long-time ddrum endorser throughout his Priest career. The configuration featured dual 22\" x 18\" bass drums (two inches deeper than his Painkiller-era 22\"x16\" kicks), 10\" and 12\" rack toms, and 14\" and 16\" floor toms. His snare was the matching ddrum Scott Travis Signature 14\"x6.5\"."
+        "answer": "For Jugulator (1997), Scott Travis played the same Tama Artstar II shell pack he used on Painkiller — the ddrum endorsement didn't begin until 2018's Firepower. The configuration featured dual 22\" x 16\" bass drums, 10\", 12\", and 13\" rack toms, and 14\" and 16\" floor toms. His snare was the matching Tama Artstar II Steel 14\"x6.5\"."
       },
       {
         "question": "How does Scott Travis's drumming on Jugulator compare to Painkiller?",
-        "answer": "Painkiller (1990) showcased sustained, blast-furnace double-bass speed as the centerpiece of Travis's playing. Jugulator (1997) is a deliberate pivot: with the guitars downtuned to C# and C for a heavier, thrash-and-groove-oriented sound, Travis shifted to a more controlled, groove-locked attack built to serve the riffs rather than outrun them. The double-kick fury is still present on heavier tracks like \"Burn in Hell,\" but the album as a whole favors restraint and pocket over pure velocity. His gear stayed consistent — the same ddrum Dominion Series shell pack and Paiste RUDE/2002 cymbal voice as Painkiller, with deeper bass drums to suit the downtuned material."
+        "answer": "Painkiller (1990) showcased sustained, blast-furnace double-bass speed as the centerpiece of Travis's playing. Jugulator (1997) is a deliberate pivot: with the guitars downtuned to C# and C for a heavier, thrash-and-groove-oriented sound, Travis shifted to a more controlled, groove-locked attack built to serve the riffs rather than outrun them. The double-kick fury is still present on heavier tracks like \"Burn in Hell,\" but the album as a whole favors restraint and pocket over pure velocity. His gear stayed consistent — the same Tama Artstar II shell pack and Paiste Signature/2002 cymbal voice as Painkiller."
       }
     ],
     "conclusion": {
       "title": "The Missing Chapter",
-      "content": "Jugulator rarely comes up in conversations about Judas Priest's essential albums, but for anyone asking what actually happened to the band during their decade without Rob Halford, it's the answer. Tim \"Ripper\" Owens's arrival, the downtuned pivot toward thrash and groove metal, and Scott Travis's willingness to fundamentally rework his approach all live on this record.\n\nFor Travis specifically, Jugulator shows that a drummer can completely rework his playing without changing his gear. The deeper bass drums stayed within the same long-standing ddrum/Paiste/DW rig he's used across his entire Priest career, evidence that the stylistic reinvention was about technique and feel, not equipment.\n\nThe story continues on Demolition (2001), Owens's second and final album with the band, where the industrial and nu-metal influences of the era pushed even further, and where Travis would earn his only songwriting credit in Judas Priest's history."
+      "content": "Jugulator rarely comes up in conversations about Judas Priest's essential albums, but for anyone asking what actually happened to the band during their decade without Rob Halford, it's the answer. Tim \"Ripper\" Owens's arrival, the downtuned pivot toward thrash and groove metal, and Scott Travis's willingness to fundamentally rework his approach all live on this record.\n\nFor Travis specifically, Jugulator shows that a drummer can completely rework his playing without changing his gear. He stayed on the same Tama Artstar II / Paiste Signature-2002 rig he'd used on Painkiller, evidence that the stylistic reinvention was about technique and feel, not equipment.\n\nThe story continues on Demolition (2001), Owens's second and final album with the band, where the industrial and nu-metal influences of the era pushed even further, and where Travis would earn his only songwriting credit in Judas Priest's history."
     },
     "relatedAlbums": [
       "painkiller-drum-setup",

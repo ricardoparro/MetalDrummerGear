@@ -1361,6 +1361,16 @@ export function getMetaForPath(pathname) {
         // Issue #4833: SpeakableSpecification for voice search / AI assistants.
         speakableSchema: true,
         speakableCssSelector: ['h1', 'h2', 'p'],
+        // Issue #6079: whatToLookFor/proRecommendations/budgetOptions prose fed
+        // the HowTo JSON-LD but had no visible-body counterpart at all — bots
+        // only saw this text inside the <script> block. Additive ssrLinks
+        // surface the guide description plus its top pro picks' verdicts.
+        ssrLinks: [
+          { href: '/guides', label: 'All Guides', description: genreGuide.description },
+          ...(genreGuide.proRecommendations?.pedals?.length ? genreGuide.proRecommendations.pedals.slice(0, 2).map(r => ({
+            href: `/guides/${genreGuide.slug}`, label: r.name, description: r.verdict || r.description,
+          })) : []),
+        ],
       };
     }
     return {

@@ -87,7 +87,7 @@ export const articles = {
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Sabian 14\" AA Regular Hi-Hats",
+          "model": "Sabian 14\" AAX Stage Hi-Hats",
           "position": "Left side",
           "notes": "Classic bright hi-hats with clear stick definition"
         },
@@ -116,7 +116,7 @@ export const articles = {
           "notes": "Aggressive accents on heavy sections"
         }
       ],
-      "description": "Richard Christy favored Sabian cymbals during his peak death metal years. The AA and AAX series provided the brightness and cut that technical death metal requires — when you're playing complex patterns at 200+ BPM, every cymbal stroke needs definition.\n\nThe 14\" AA Regular hi-hats anchored his kit, providing the chick and splash sounds essential for death metal's intricate hat patterns. Christy's hi-hat work on \"The Sound of Perseverance\" ranges from tight 16th-note patterns to open splashes that accent chord changes — versatility the AA series handles well.\n\nHis crash selection balanced speed and sustain. The 16\" AAX Studio Crash offered quick decay for rapid fire accents, while the 18\" AA Medium Crash provided fuller sustain for bigger moments. This combination appears throughout TSOP — quick punctuations during blast sections, longer crashes for transitions.\n\nThe 20\" ride was essential for Death's progressive sections. \"Bite the Pain\" features extended ride work that demands clear stick definition and a useable bell. The AA Medium Ride delivered both without washing out during faster passages.\n\nFor aggressive accents, the AAX Chinese cymbal added trash and cut. Used sparingly but effectively, it punctuates the heaviest moments of Death's arrangements.",
+      "description": "Richard Christy favored Sabian cymbals during his peak death metal years. The AA and AAX series provided the brightness and cut that technical death metal requires — when you're playing complex patterns at 200+ BPM, every cymbal stroke needs definition.\n\nThe 14\" AAX Stage hi-hats anchored his kit, providing the chick and splash sounds essential for death metal's intricate hat patterns. Christy's hi-hat work on \"The Sound of Perseverance\" ranges from tight 16th-note patterns to open splashes that accent chord changes — versatility the AAX series handles well.\n\nHis crash selection balanced speed and sustain. The 16\" AAX Studio Crash offered quick decay for rapid fire accents, while the 18\" AA Medium Crash provided fuller sustain for bigger moments. This combination appears throughout TSOP — quick punctuations during blast sections, longer crashes for transitions.\n\nThe 20\" ride was essential for Death's progressive sections. \"Bite the Pain\" features extended ride work that demands clear stick definition and a useable bell. The AA Medium Ride delivered both without washing out during faster passages.\n\nFor aggressive accents, the AAX Chinese cymbal added trash and cut. Used sparingly but effectively, it punctuates the heaviest moments of Death's arrangements.",
       "notes": [
         "Sabian AA/AAX combination — bright, cutting sound",
         "14\" hi-hats for technical death metal patterns",
@@ -241,7 +241,7 @@ export const articles = {
       },
       {
         "question": "What cymbals does Richard Christy use?",
-        "answer": "Richard Christy uses Sabian AA and AAX series cymbals. His setup includes Sabian 14 inch AA Regular Hi-Hats, Sabian 16 inch AAX and 18 inch AA Crashes, a Sabian 20 inch AA Medium Ride, and a Sabian 18 inch AAX Chinese. The AA series delivers a traditional, bright, and cutting sound while the AAX pieces add a more contemporary focused attack. This combination gave Christy the projection and clarity needed for technically demanding death metal playing."
+        "answer": "Richard Christy uses Sabian AA and AAX series cymbals. His setup includes Sabian 14 inch AAX Stage Hi-Hats, Sabian 16 inch AAX and 18 inch AA Crashes, a Sabian 20 inch AA Medium Ride, and a Sabian 18 inch AAX Chinese. The AA series delivers a traditional, bright, and cutting sound while the AAX pieces add a more contemporary focused attack. This combination gave Christy the projection and clarity needed for technically demanding death metal playing."
       },
       {
         "question": "How much does Richard Christy's death metal kit cost?",
@@ -338,7 +338,7 @@ export const articles = {
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Sabian 14\" AA Regular Hi-Hats",
+          "model": "Sabian 14\" AAX Stage Hi-Hats",
           "position": "Left side",
           "notes": "Bright, articulate hi-hats essential for complex patterns"
         },
@@ -379,7 +379,7 @@ export const articles = {
           "notes": "Trashy accents for heavy sections"
         }
       ],
-      "description": "Richard Christy's cymbal setup for Perseverance was built around Sabian's AA and AAX series — cymbals known for their brightness and projection. When you're playing progressive death metal at 200+ BPM, every cymbal stroke needs to cut through clearly.\n\nThe 14\" AA Regular hi-hats anchored his setup. The brightness and stick definition were essential for the intricate hi-hat patterns throughout the album. Listen to \"Scavenger of Human Sorrow\" — the hi-hat work ranges from tight 16th notes to open splashes, requiring cymbals that respond instantly to dynamic changes.\n\nHis crash selection reflected the album's dynamic range. The 16\" AAX Studio Crash provided quick decay for rapid-fire accents during blast sections. The 18\" AA Medium Thin offered balanced sustain for transitions. The 19\" AAX X-Plosion delivered explosive power for climactic moments.\n\nThe 20\" AA Medium Ride was crucial for Perseverance's progressive passages. Unlike many death metal drummers who barely touch their ride, Christy incorporates extensive ride work — particularly on \"Painkiller\" (yes, Death covered Judas Priest) and the calmer sections of longer tracks. The Medium weight provided definition without excessive wash.\n\nThe splash cymbal added quick punctuations, while the 18\" Chinese provided the trashy accents that emphasize the album's heaviest moments. Christy used the China sparingly but effectively — it appears precisely when the music demands extra aggression.",
+      "description": "Richard Christy's cymbal setup for Perseverance was built around Sabian's AA and AAX series — cymbals known for their brightness and projection. When you're playing progressive death metal at 200+ BPM, every cymbal stroke needs to cut through clearly.\n\nThe 14\" AAX Stage hi-hats anchored his setup. The brightness and stick definition were essential for the intricate hi-hat patterns throughout the album. Listen to \"Scavenger of Human Sorrow\" — the hi-hat work ranges from tight 16th notes to open splashes, requiring cymbals that respond instantly to dynamic changes.\n\nHis crash selection reflected the album's dynamic range. The 16\" AAX Studio Crash provided quick decay for rapid-fire accents during blast sections. The 18\" AA Medium Thin offered balanced sustain for transitions. The 19\" AAX X-Plosion delivered explosive power for climactic moments.\n\nThe 20\" AA Medium Ride was crucial for Perseverance's progressive passages. Unlike many death metal drummers who barely touch their ride, Christy incorporates extensive ride work — particularly on \"Painkiller\" (yes, Death covered Judas Priest) and the calmer sections of longer tracks. The Medium weight provided definition without excessive wash.\n\nThe splash cymbal added quick punctuations, while the 18\" Chinese provided the trashy accents that emphasize the album's heaviest moments. Christy used the China sparingly but effectively — it appears precisely when the music demands extra aggression.",
       "notes": [
         "Sabian AA/AAX combination for brightness and cut",
         "14\" hi-hats essential for technical patterns",
@@ -605,7 +605,7 @@ export const articles = {
       },
       {
         "question": "What cymbals did Richard Christy use on The Sound of Perseverance in 1998?",
-        "answer": "Richard Christy used Sabian AA and AAX series cymbals on The Sound of Perseverance. His setup included Sabian 14 inch AA Regular Hi-Hats, Sabian AAX 16 inch and AA 18 inch Crashes, a Sabian AAX 19 inch X-Plosion Crash, a Sabian 20 inch AA Medium Ride, a Sabian 18 inch AAX Chinese, and a Sabian 10 inch AA Splash. The mix of AA warmth and AAX cutting attack gave Christy the dynamic range needed for Death's most technically complex and musically ambitious album."
+        "answer": "Richard Christy used Sabian AA and AAX series cymbals on The Sound of Perseverance. His setup included Sabian 14 inch AAX Stage Hi-Hats, Sabian AAX 16 inch and AA 18 inch Crashes, a Sabian AAX 19 inch X-Plosion Crash, a Sabian 20 inch AA Medium Ride, a Sabian 18 inch AAX Chinese, and a Sabian 10 inch AA Splash. The mix of AA warmth and AAX cutting attack gave Christy the dynamic range needed for Death's most technically complex and musically ambitious album."
       },
       {
         "question": "How much does Richard Christy's Sound of Perseverance kit cost today?",

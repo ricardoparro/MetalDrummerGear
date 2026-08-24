@@ -506,8 +506,8 @@ export const ENDORSEMENT_TIMELINE = {
     band: 'Gojira',
     currentEndorsements: {
       drums: { brand: 'Tama', since: '2010s' },
-      cymbals: { brand: 'Meinl', since: '2010s' },
-      sticks: { brand: 'Vic Firth', since: '2010s' },
+      cymbals: { brand: 'Zildjian', model: 'K Custom / A Custom / Z Custom', since: '2010s' },
+      sticks: { brand: 'Tama', model: 'Mario Duplantier Signature', signature: true },
       heads: { brand: 'Remo', since: '2010s' },
     },
     timeline: [

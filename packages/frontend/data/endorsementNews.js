@@ -728,7 +728,7 @@ export const ENDORSEMENT_TIMELINE = {
     band: 'Black Sabbath',
     currentEndorsements: {
       drums: { brand: 'Ludwig', model: 'Standard / Club Date Series', since: '1968' },
-      cymbals: { brand: 'Zildjian', model: 'Avedis Series', since: '1968' },
+      cymbals: { brand: 'Zildjian', model: 'Avedis Series', since: '1971' },
       sticks: { brand: 'Pro-Mark', model: 'Standard 5A/5B equivalent', since: '1970' },
       heads: { brand: 'Remo', model: 'Ambassador Coated', since: '1970' },
       hardware: { brand: 'Ludwig', model: 'Speed King Pedal', since: '1970' },
@@ -743,12 +743,20 @@ export const ENDORSEMENT_TIMELINE = {
         notes: 'Played a Ludwig kit from Black Sabbath\'s formation in Birmingham through the "Paranoid" and "Master of Reality" sessions',
       },
       {
-        year: 1970,
+        year: 1968,
         changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
         category: ENDORSEMENT_CATEGORIES.CYMBALS,
         from: null,
+        to: 'Super Zyn',
+        notes: 'Used Super Zyn cymbals from Black Sabbath\'s 1968 formation through the debut album and "Paranoid" (1970)',
+      },
+      {
+        year: 1971,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
+        category: ENDORSEMENT_CATEGORIES.CYMBALS,
+        from: 'Super Zyn',
         to: 'Zildjian',
-        notes: 'Avedis Zildjian hi-hats, ride, and crash set the cymbal template heard on "Black Sabbath" and "Paranoid"',
+        notes: 'Switched to Avedis Zildjian hi-hats, ride, and crash starting with "Master of Reality", continuing through "Never Say Die!" (1978)',
       },
       {
         year: 1971,

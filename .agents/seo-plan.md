@@ -5967,3 +5967,57 @@ Filed only 1 despite 8-max/45-cap headroom — both major proposal veins mined t
 1. Watch #6114 ship via Roadie; verify the 5 slugs individually per its own curl checks.
 2. **Both mined veins (albumArticles-vs-extendedBios gear-fabrication, JSON-LD-only-vs-visible-body) are now exhausted or near-zero-remaining.** Next runs need a genuinely new angle — candidates to explore: (a) re-check `signatureGear.js`/`endorsementNews.js` cross-file consistency (flagged as unswept back on 08-23, never actually picked up), (b) wait for the fresh L1/L3 weekly refresh (due today, not yet landed at this run's read time) for new CTR-gap or indexation signal, (c) if both dry up, audit-only is the correct outcome per the freeze — don't force proposals.
 3. Drum-chair rotation: week 36 will be group 0 (amon-amarth through cynic) — due next Monday 2026-08-31.
+
+---
+
+## 2026-08-24 (mid-day/cheap-pulse run, ~14:00 UTC)
+
+### Bank check
+Open `seo-proposal` count at run start: 4 total — all standing umbrella issues (#6114 already promoted to `ai-fix` per decisions-log 12:45; #3810/#3819/#2211 umbrellas). True untriaged bank: 0. Well under the 45 cap → cleared to file up to 8 net-new.
+
+### Audit summary
+- Robots.txt (`api/robots.js`): all 8 AI crawlers explicitly allowed. ✅ (unchanged)
+- `/public/llms/*.md`: 2,011 files live. ✅ (unchanged)
+- `ai-fix` backlog: 21 open, 0 PRs open.
+- Metrics (07:49 UTC refresh, still current): 249 users/284 sessions/480 views (7d); GSC 6,357 impr/136 clicks/2.14% CTR/pos 9.6. Sole content-gap row `joey jordison drum kit` (57 impr, 1.75% CTR) — already reviewed and held this cycle (see decisions-log 07:00/12:45 entries, pos-5-9-first-click pattern). L1 `gsc-watch-snapshot.md` (08:51 UTC) shows only 1 CTR-gap-opportunity (`best cymbal set for metal`) — already filed as #6121 by the CEO this run cycle. No new GSC signal to action.
+
+### What was checked — new vein opened: signatureGear.js / endorsementNews.js cross-file consistency
+Per the standing next-run note (08-24 07:00 entry, item 2a) to pick up the never-actually-swept `signatureGear.js`/`endorsementNews.js` cross-check. Dispatched a research agent to audit both files against `extendedBios.js` (and each other) for the same gear-brand-contradiction bug class already proven in `albumArticles/*.js` and `extendedBios.js` internal fields (now-closed veins). Confirmed both files are **live** (imported/routed via `SignatureGearSpotlight.js` and `EndorsementTracker.js`, and `signatureGear.js` additionally feeds `api/sitemap.js`).
+
+Found and independently re-verified (grep line numbers, cross-file consensus, and one external check via WebSearch) **7 genuine contradictions**, all filed as atomic `seo-proposal` issues:
+
+1. **#6122** — `signatureGear.js`'s `lars-ulrich-paiste-rude-china` entry is a full fabrication: Lars Ulrich has been a Zildjian artist since 1981 (extendedBios.js + endorsementNews.js agree), never Paiste. Includes an uncited, invented Bob Rock quote — same fabrication class as the prior fake "Sonor Artist Profile 2017" quote. **Despite `status: 'draft'`, the entry is live and sitemap-listed** (`api/sitemap.js:354-361` has no status filter) — flagged as highest-priority, recommended full removal (same precedent as #6024's Eloy/Metallica M72 fabrication).
+2. **#6123** — Mikkey Dee's `endorsementNews.js` currentEndorsements says Yamaha/Zildjian/Vic Firth; verified rig (extendedBios.js, with primary-source sonor.com/paiste.com URLs) is Sonor/Paiste/Wincent. A 4th unfixed file for this drummer — 6 prior issues (#5973/#5856/#5657/#5408/#5781/#5509) fixed the same bug class elsewhere but never touched this file.
+3. **#6124** — Gene Hoglan's `endorsementNews.js` timeline still says "Signed to Vater" sticks in 2018, contradicting the currentEndorsements block (ProMark) that #5686 already fixed — #5686 explicitly asked the implementer to also check the timeline for stale entries and that step was missed. Follow-through, not a duplicate.
+4. **#6125** — Dave Lombardo's `endorsementNews.js` says Pearl drums/Vic Firth sticks; extendedBios.js AND a published `signatureGear.js` Signature Gear Spotlight page (#3723) both independently agree on Tama/Promark 2Bx.
+5. **#6126** — Eloy Casagrande's `endorsementNews.js` says Yamaha drums; extendedBios.js says Tama (both agree on Paiste cymbals — only the drums field is wrong).
+6. **#6127** — Mario Duplantier's `endorsementNews.js` says Meinl cymbals + Vic Firth sticks; extendedBios.js says Zildjian + Tama Mario Duplantier Signature sticks. Distinct from the already-fixed #6028/#6029 drums fabrication (different fields, different file).
+7. **#6128** — Bill Ward's `endorsementNews.js` timeline has no Super Zyn entry at all and misdates the Zildjian switch to 1970 instead of 1971; extendedBios.js (fixed via #5929 across 3 *other* files, but not this one) has the verified Super Zyn (1968-71) → Zildjian (1971-78) sequence sourced from Modern Drummer/Blabbermouth/Reverb/Equipboard.
+
+Ruled out during the sub-agent's sweep (no issue filed, logged for future reference so this isn't re-audited from scratch): Joey Jordison, Tomas Haake, Danny Carey, Charlie Benante, Gavin Harrison, Jay Weinberg, Alex Bent — internally consistent across all 3 files. Scott Travis and Matt Greiner flagged as unresolved 3-way disagreements needing a dedicated external-tiebreak pass — not filed this run since neither side is clearly correct yet (per the aquiles-priester lesson: don't guess when files disagree without an outside source).
+
+**This is a genuinely new, still-partially-unmined vein** (both files together cover ~74 drummer entries across `endorsementNews.js`'s `ENDORSEMENT_TIMELINE`/`ENDORSEMENT_NEWS` and 7 `signatureGear.js` entries) — future runs should continue sweeping remaining untouched drummers in `endorsementNews.js` (only ~10 of 69 timeline entries have been checked so far) rather than re-treating the albumArticles/JSON-LD-visibility veins as exhausted-but-worth-rechecking.
+
+### Drum-chair watch (Monday, week 35)
+Already logged earlier this cycle (07:00 entry, group 3/4: pantera through volto, 0 candidates). Not re-run — one sweep per Monday per the standing rule.
+
+### Proposals filed this run (7)
+1. **#6122** — Lars Ulrich fabricated Paiste signatureGear.js page (incl. fake quote), live + sitemap-listed. Highest priority — recommend removal.
+2. **#6123** — Mikkey Dee endorsementNews.js currentEndorsements wrong (Yamaha/Zildjian/Vic Firth vs Sonor/Paiste/Wincent).
+3. **#6124** — Gene Hoglan endorsementNews.js timeline still contradicts its own already-fixed currentEndorsements (Vater vs ProMark).
+4. **#6125** — Dave Lombardo endorsementNews.js wrong (Pearl/Vic Firth vs Tama/Promark).
+5. **#6126** — Eloy Casagrande endorsementNews.js wrong drums brand (Yamaha vs Tama).
+6. **#6127** — Mario Duplantier endorsementNews.js wrong cymbals/sticks (Meinl/Vic Firth vs Zildjian/Tama Signature).
+7. **#6128** — Bill Ward endorsementNews.js timeline missing the Super Zyn era, misdated Zildjian switch.
+
+All 7 are single-file (mostly single-object) additive/corrective data fixes on existing live routes — zero new pages/URLs, freeze-compliant, matches the auto-fast-track shape already established in `.agents/seo/learned-patterns.md` for gear-brand contradictions.
+
+### Open proposals waiting on CEO triage
+- #6122, #6123, #6124, #6125, #6126, #6127, #6128 (all filed this run, 0d old)
+- #6114 (filed 08-23, already promoted to `ai-fix` per decisions-log 08-24 12:45)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers only.
+
+### Next run
+1. Watch #6122-6128 ship via Roadie; #6122 (Lars Ulrich removal) is the highest-scrutiny one — confirm the sitemap entry and cross-references are fully gone, not just the brand name swapped.
+2. Continue the `endorsementNews.js` sweep — only ~10 of ~69 `ENDORSEMENT_TIMELINE` entries have been checked against `extendedBios.js` so far. Scott Travis and Matt Greiner need an external-tiebreak pass before filing (3-way disagreement, no clear winner yet).
+3. Drum-chair rotation: week 36 is group 0 (amon-amarth through cynic) — due next Monday 2026-08-31.

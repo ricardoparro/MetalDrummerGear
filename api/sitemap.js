@@ -353,7 +353,6 @@ const curatedToolsCompareSlugs = [
 // Issue #739: Signature Gear Spotlight pages
 const signatureGearPages = [
   { drummerSlug: 'joey-jordison', gearSlug: 'joey-jordison-pearl-signature-snare', name: 'Pearl Joey Jordison Signature Snare' },
-  { drummerSlug: 'lars-ulrich', gearSlug: 'lars-ulrich-paiste-rude-china', name: 'Paiste 20" RUDE Wild China' },
   { drummerSlug: 'danny-carey', gearSlug: 'danny-carey-paiste-giant-beat-gongs', name: 'Paiste Giant Beat Gongs' },
   { drummerSlug: 'mario-duplantier', gearSlug: 'mario-duplantier-tama-starphonic-bronze', name: 'Tama Starphonic Bronze' },
   { drummerSlug: 'gene-hoglan', gearSlug: 'gene-hoglan-pearl-reference-kit', name: 'Pearl Reference Pure Kit' },

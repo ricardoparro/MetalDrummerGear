@@ -119,17 +119,6 @@ const drummers = [
         },
         notes: 'Lars continues to use his signature Tama setup refined over decades of touring and recording.'
       }
-    ],
-    // Signature Gear Spotlight (Issue #739)
-    signatureGear: [
-      {
-        slug: 'lars-ulrich-paiste-rude-china',
-        name: 'Paiste 20" RUDE Wild China',
-        category: 'cymbal',
-        brand: 'Paiste',
-        featured: true,
-        description: 'The aggressive, trashy china that defined Metallica\'s cymbal sound since the Black Album era.'
-      }
     ]
   },
   {

@@ -3763,6 +3763,14 @@ export function getMetaForPath(pathname) {
           { name: 'Signature Licks', url: `${BASE_URL}/drummers/${drummerSlug}/licks` },
           { name: lick.name, url: lickUrl },
         ],
+        // Issue #6078: this branch had no ssrLinks at all, so lick.description
+        // (the HowTo.description text above) and techniqueDetails (the
+        // HowToStep.text values) were 100% JSON-LD-only — invisible to any
+        // non-JS crawler. Additive ssrLinks[i].description per #5721/#6052.
+        ssrLinks: [
+          { href: `/drummers/${drummerSlug}/licks`, label: `${lick.drummerName}'s Signature Licks`, description: lick.description },
+          ...((lick.techniqueDetails && lick.techniqueDetails.length) ? [{ href: `/drummers/${drummerSlug}`, label: `${lick.drummerName} Profile`, description: lick.techniqueDetails.join(' ') }] : []),
+        ],
       };
     }
   }

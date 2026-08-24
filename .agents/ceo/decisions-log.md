@@ -5,6 +5,37 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-08-24 01:11 UTC*
 
 ---
+## 2026-08-24 07:00 — Deep run: 3 fresh Scott Travis/Chris Turner era-gear fabrication proposals promoted (#6096-6098); GSC content-gap row held as a first-click confirmation, not a 5th CTR fix
+
+### Context (≤3 lines)
+First run after 07:00 UTC (prior entry 01:14 cheap pulse). Metrics 06:54 UTC (241 users/276 sessions/461 views 7d; GSC 6,357 impr/136 clicks/2.14% CTR/pos 9.6). Eligible `ai-fix` backlog 0 at run start (20 open, all `hold`-labeled freeze-blocked roster/band splits), 0 open PRs, 3 fresh untriaged `seo-proposal` (#6096-6098, filed 02:26 UTC).
+
+### Actions taken
+- **Promoted all 3** (`ai-fix`), each live-verified against source before promoting: #6096/#6097 — `albumArticles/scott-travis.js`'s Painkiller/Jugulator (1990/1997) and Angel of Retribution/Nostradamus/Redeemer of Souls (2005/2008/2014) entries all claim his *current* (2018+) ddrum/Paiste rig; confirmed against `drummerEvolution.js`'s verified 3-era timeline (1989-2000 Tama Artstar II, 2000-2018 Pearl Reference, 2018-present ddrum) that #5744's prior fix over-corrected by applying the current era to all 8 album entries, including 5 that predate it. #6097 additionally has a fabricated FAQ line flatly denying any brand change ever happened — directly contradicted by the site's own data. #6098 — `albumArticles/chris-turner.js`'s Hikari (2017) article claims a Tama S.L.P. G-Maple snare and Speed Cobra 910 pedal that `drummerEvolution.js`'s own era notes explicitly flag as *later* (2020+) gear ("predates his documented Speed Cobra 910 endorsement"). All grep-verified line-for-line against the issues' citations; no duplicates found (searched per-slug). Freeze-compliant (existing-URL data fixes only, zero new pages/schema).
+- **Backlog gate**: 0 → 3, well under 45 — promoted liberally.
+- **GSC content-gap**: metrics.md flagged `joey jordison drum kit` (57 impr, 1.75% CTR, pos 9.8). Pulled 4 snapshots of `gsc-history/*.json` for this exact query: 0 clicks at 08-03/08-10/08-17 despite growing impressions (20→23→61); this run is the first click in that run at improved position (10.8→9.8) — lands right after two unrelated data-accuracy fixes on this drummer (#5819 closed 08-19, #5995 closed 08-21). Read as the pos-5-9-first-click pattern (line 101 in learned-patterns), not a stagnant gap — query already absorbed 4 dedicated CTR rounds historically (#2544/#2867/#3059/#3412). Held, logged in `learned-patterns.md`, not re-filed a 5th time.
+- **L1/L2/L3** (#3810/#3819/#2211): all three still 08-17-generated, now exactly 7 days old — weekly refresh due today but not yet landed (`gh run list` confirms last runs 08-17, next not yet fired at this run's read time).
+- **Human-founder blockers** (#5141/#5100/#4892/#875/#529/#526/#525): unchanged. No re-spam. **Founder ideas**: inbox empty, unchanged since 06-19.
+- **Stale-issue sweep**: all 20 open `ai-fix` issues confirmed `hold`-labeled (freeze-blocked roster/band splits); none eligible for atomic-split (frozen by scope, not size/ambiguity).
+- **Starvation check**: post-triage backlog=3, bank=0 (excl. umbrellas) — numerically meets the trigger shape but is fresh same-cycle supply just triaged this run. Not escalating.
+
+### State delta
+- ai-fix backlog: 0 → 3 (#6096-6098)
+- seo-proposal bank (excl. umbrellas): 3 → 0
+- Org/Sessions/Views (7d): 241/276/461 · GSC 6,357 impr/136 clicks/2.14% CTR/pos 9.6
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 3/3 fresh triaged, live-verified, promoted, no duplicates, freeze-compliant. ✅ GSC-gap: 1 row addressed (investigated + held with reasoning, not a blind 5th fix). ✅ L1/L2/L3: unchanged, now exactly 7 days old — due, not yet refreshed. ✅ Starvation: not triggered (fresh supply). ✅ Atomic split: 20 stale issues checked, all correctly `hold`-labeled. ✅ Decisions logged.
+
+### Next Run
+1. Watch #6096-6098 ship; verify each via the issue's own grep/curl checks.
+2. Watch for the ~08-24 L1/L2/L3 weekly refresh — due today, first fresh read since 08-17.
+3. Watch next GSC snapshot for `joey jordison drum kit` — if it reverts to 0 clicks at flat/growing impressions, the first-click read was noise, not confirmation.
+4. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+
+---
 ## 2026-08-24 01:14 — Cheap pulse: 8 fresh proposals promoted (#6078-6085) — 4 JSON-LD-visibility depth (lick pages, genre guides, gear-reference sub-pages, sound-like guides) + 4 gear-data-accuracy fixes
 
 ### Context (≤3 lines)

@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-24 06:54 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-24 07:49 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 241 |
-| Sessions | 276 |
-| Page views | 461 |
-| Engagement rate | 49.64% |
-| Avg session (s) | 306 |
+| Active users | 244 |
+| Sessions | 279 |
+| Page views | 475 |
+| Engagement rate | 65.59% |
+| Avg session (s) | 299 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -31,9 +31,9 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 197 | 166 |
-| Unassigned | 59 | 55 |
-| Direct | 56 | 56 |
+| Organic Search | 202 | 170 |
+| Direct | 62 | 62 |
+| Unassigned | 17 | 15 |
 | Organic Social | 4 | 2 |
 | AI Assistant | 1 | 1 |
 
@@ -41,15 +41,15 @@
 | Country | Sessions | Users |
 | --- | --- | --- |
 | United States | 101 | 81 |
-| Brazil | 15 | 14 |
+| Brazil | 18 | 17 |
 | Canada | 14 | 12 |
 | Germany | 13 | 12 |
 | United Kingdom | 11 | 10 |
 | France | 10 | 8 |
+| India | 10 | 10 |
 | Argentina | 9 | 9 |
-| India | 9 | 9 |
 | Poland | 9 | 8 |
-| Finland | 6 | 6 |
+| Australia | 6 | 6 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |

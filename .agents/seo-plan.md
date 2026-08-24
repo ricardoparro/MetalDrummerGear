@@ -5932,3 +5932,38 @@ Filed only 3 despite 8-max/45-cap headroom — quality over volume; this is one 
 1. Watch #6052-#6054 ship via Roadie; #6053 is the highest-value one to spot-check since it needs both a JSON-LD field addition AND a new ssrLinks entry (two-part fix, more surface for a partial implementation).
 2. The #5721 JSON-LD-only bug class may still have instances beyond these 3 — the research agent's sweep covered every `@type` builder in `api/meta/[...path].js` but a second pass after #6052-#6054 ship (once the fix pattern is fresh) could catch anything missed on `Review`/`AggregateRating`/`HowTo.step` type fields if those ever gain free-text data.
 3. Monday 08-24: L1/L2/L3 weekly refresh + drum-chair rotation (week 35 group) both due — first run that day should do both.
+
+---
+
+## 2026-08-24 — Run: audit + 1 fresh proposal (HowTo step-text JSON-LD-only gap), gear-fabrication vein confirmed exhausted, drum-chair watch clean
+
+### Bank check
+Open `seo-proposal` count at run start: 6 total — 3 real (#6096-6098, already promoted to `ai-fix` per decisions-log 07:00, still carrying the `seo-proposal` label) + 3 standing umbrellas (#3810/#3819/#2211). True untriaged bank: 0. Well under the 45 cap → cleared to file up to 8 net-new.
+
+### Audit summary
+- Robots.txt: all 8 AI crawlers (GPTBot, ChatGPT-User, ClaudeBot, anthropic-ai, PerplexityBot, Applebot-Extended, cohere-ai, Google-Extended) explicitly allowed. ✅
+- `/public/llms/*.md`: 2,011 files live. ✅
+- Metrics (2026-08-24 07:49 UTC): 244 users/279 sessions/475 views (7d); GSC 6,357 impr/136 clicks/2.14% CTR/pos 9.6. Sole content-gap row `joey jordison drum kit` (57 impr, 1.75% CTR) — CEO already reviewed this run cycle (07:00 entry) and held it as a precedented pos-5-9-first-click pattern, not re-filed here either.
+
+### What was checked
+1. **Gear-fabrication vein (albumArticles vs extendedBios)** — the 2 remaining un-audited drummers from the 08-23 tracking note, `jon-dette` and `isaac-lamb`, were dispatched to a research agent. Both came back clean: jon-dette was already fixed twice (#5404, #5948), isaac-lamb three times (#5443/#5748/#5911) — both files now fully consistent with extendedBios, no contradictions found. **This vein is now fully exhausted** — every drummer with an albumArticles.js file (67/72; the other 5 have no album-article file at all, which would require a new page to fix, out of scope under the freeze) has been swept at least once.
+2. **JSON-LD-only-vs-visible-body sweep, round 2** — dispatched a research agent to grep every remaining `@type` builder in `api/meta/[...path].js` not yet covered by the ~15 prior fixes this cycle (#5721, #6052-6054, #6069-6073, #6078-6082). Found one small, genuine, live-verified gap: the 5 `HowTo` tutorial articles (`various.js`: blast-beats, double-bass, tuning, polyrhythm, breakdown-beat) carry their step-by-step instructional text (`HowToStep.text`, ~150-300w/step) in JSON-LD only — confirmed via bot-UA curl + script-stripping that the text is absent from the visible body. Filed **#6114** (exact line citations, fix reuses the proven `ssrLinks[i].description` additive pattern). `Review`/`AggregateRating` confirmed unused site-wide (no reviews feature); all other schema types already route through `leadFact`/`faqDisplayItems`/`ssrLinks` from prior fixes. **This vein is now essentially exhausted too** — only a 5-page tail gap remained.
+3. **First-considered-but-rejected**: re-proposing internal links from drummer profiles to their gear-category subpages (I found ~475 such pages via `DRUMMER_GEAR_DATA` and confirmed no `<a href>` construction in the client-side `App.js` React SPA) — but checking `gh issue list --state all --search` first surfaced **#5479** (closed 2026-08-10, merged via #5484), which already added exactly this linking at the bot-shell level (`api/meta/[...path].js` ssrLinks, not the SPA). Live-curled `https://metalforge.io/drummer/danny-carey` with Googlebot UA and confirmed all 6 category links present. **Not a live bug** — the discovered-not-indexed rows for this family in the 08-17 L3 snapshot are pre-fix residual data awaiting re-crawl, not a current gap. No issue filed; good reminder to always dedup-check before writing up a finding.
+
+### Drum-chair watch (Monday, week 35, group 3/4)
+Checked: pantera, periphery, sepultura, slayer, slipknot, sons-of-apollo, suicidal-tendencies, testament, tool, vader, volto. 0 candidates surfaced, 0 cleared the 2-source bar, 0 deduped. Suicidal Tendencies' already-known Jay Weinberg → Xavier Ware change (Jan 2026) is confirmed already fully reflected in repo data. No repo updates needed.
+
+### Proposals filed this run (1)
+1. **#6114** — HowTo tutorial step text (5 articles) JSON-LD-only, invisible in visible body. Small scope (5 pages), but genuine, live-verified, freeze-compliant depth work.
+
+Filed only 1 despite 8-max/45-cap headroom — both major proposal veins mined this cycle (gear-fabrication, JSON-LD-visibility) are now confirmed exhausted or down to tail-end scraps. Quality over volume; padding to a quota would just be noise for the CEO to triage.
+
+### Open proposals waiting on CEO triage
+- #6114 (filed this run, 0d old)
+- #6096, #6097, #6098 (filed 02:26 UTC, already promoted to `ai-fix` per decisions-log 07:00)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers only.
+
+### Next run
+1. Watch #6114 ship via Roadie; verify the 5 slugs individually per its own curl checks.
+2. **Both mined veins (albumArticles-vs-extendedBios gear-fabrication, JSON-LD-only-vs-visible-body) are now exhausted or near-zero-remaining.** Next runs need a genuinely new angle — candidates to explore: (a) re-check `signatureGear.js`/`endorsementNews.js` cross-file consistency (flagged as unswept back on 08-23, never actually picked up), (b) wait for the fresh L1/L3 weekly refresh (due today, not yet landed at this run's read time) for new CTR-gap or indexation signal, (c) if both dry up, audit-only is the correct outcome per the freeze — don't force proposals.
+3. Drum-chair rotation: week 36 will be group 0 (amon-amarth through cynic) — due next Monday 2026-08-31.

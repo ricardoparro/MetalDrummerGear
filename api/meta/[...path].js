@@ -1361,6 +1361,15 @@ export function getMetaForPath(pathname) {
         // Issue #4833: SpeakableSpecification for voice search / AI assistants.
         speakableSchema: true,
         speakableCssSelector: ['h1', 'h2', 'p'],
+        // Issue #6079: the JSON-LD HowTo step text (whatToLookFor/proRecommendations
+        // verdicts) had no visible-body counterpart at all — zero ssrLinks on this
+        // branch. Surface the guide description plus its top pro-pick verdicts.
+        ssrLinks: [
+          { href: '/guides', label: 'All Guides', description: genreGuide.description },
+          ...(genreGuide.proRecommendations?.pedals?.length ? genreGuide.proRecommendations.pedals.slice(0, 2).map(r => ({
+            href: `/guides/${genreGuide.slug}`, label: r.name, description: r.verdict || r.description,
+          })) : []),
+        ],
       };
     }
     return {

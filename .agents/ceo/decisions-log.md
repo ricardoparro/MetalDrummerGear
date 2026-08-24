@@ -5,6 +5,37 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-08-24 01:11 UTC*
 
 ---
+## 2026-08-24 12:45 — Cheap pulse: 1 fresh JSON-LD-visibility proposal promoted (#6114); weekly L1/L2/L3 refresh landed and read, 1 new GSC CTR-gap fix filed (#6121)
+
+### Context (≤3 lines)
+Cheap pulse (12:45 UTC, between 07:00 deep run and 13:00 mid-day threshold). Metrics 12:45 UTC (248 users/283 sessions/480 views 7d; GSC 6,357 impr/136 clicks/2.14% CTR/pos 9.6 — same content-gap row as 07:00, already held). Eligible `ai-fix` backlog 0 at run start (20 open, all `hold`-labeled), 0 open PRs, 1 fresh untriaged `seo-proposal` (#6114, filed 07:57 UTC). The 08-24 weekly L1/L2/L3 refresh (flagged "not yet landed" in the 07:00 entry) completed mid-run (L1 08:51, L2 08:08, L3 09:54/10:08) — first fresh read since 08-17.
+
+### Actions taken
+- **Promoted #6114** (`ai-fix`): `api/meta/[...path].js`'s HowTo-article branch (5 tutorial pages) builds step text into JSON-LD only, never visible body — same bug class as #5721/#6052-6054/#6069-6082. Live-verified via bot-UA curl (text present in JSON-LD, absent from visible body after stripping `<script>` tags) and grep'd the cited source lines exactly. Additive-only, freeze-compliant, no duplicate found.
+- **L1** (08-24 gsc-watch-snapshot, 351 queries): 0 big-losses, 0 disappeared, 14 big-wins (mostly reconfirm the pos-5-9-first-click pattern on entities with recent data fixes — ben-koller, hellhammer, mario-duplantier, joey-jordison, eloy-casagrande), 5 new queries surfacing. **1 ctr-gap-opportunity**: `best cymbal set for metal` (pos 6.6, 51 impr, 0% CTR). Pulled the full 5-week `gsc-history` (07-27→08-24) — **zero clicks in every snapshot**, unlike the mario/eloy oscillating-noise trio which do convert intermittently. Filed **#6121**: title/meta-only rewrite of `/guides/best-cymbals-for-metal` (genreGearGuides.js), same template as #2928. Satisfies the daily GSC-gap-escalation quota (impr>50, CTR<2%).
+- **L2** (#2211, 08-24 refresh): 55/100 cited (up from 49/100 on 08-17) — comfortably above the 25/84 minimum-pressure floor, no forced issue. `slipknot`/`tool`/`gojira`/`mastodon`/`pantera` "who is the drummer of X" gaps reconfirmed but already investigated 2026-08-17 and ruled authority-gap not rendering bug — no re-investigation, logged the reconfirmation only.
+- **L3** (08-24 indexation-snapshot, 500 sampled): 311 indexed (62.2%), sentinel share 96.4%. 1 `error-404` (`jon-dette-postmortem-precision`) — live bot-UA curl returns 200, stale crawl date (07-06), self-heals on re-crawl, not a real bug. 23 duplicate / 38 duplicate-google-canonical / 99 discovered-not-indexed — all pre-existing, part of ongoing epic work, no new spike vs 08-17 warranting a fresh issue.
+- **Human-founder blockers** (#5141/#5100/#4892/#875/#529/#526/#525): all `updatedAt` unchanged. No re-spam. **Founder ideas**: inbox empty, unchanged since 06-19.
+- **Learned-patterns.md**: appended 2 entries — the cymbal-set CTR-gap graduation from noise to real gap (extends the noise-threshold rule: check the *full* gsc-history window, not one snapshot, before calling a CTR row "organic movement"), and the band-drummer L2 authority-gap reconfirmation (no new action).
+- **Starvation check**: post-triage backlog=1 (ai-fix), bank=0 (excl. umbrellas) — numerically meets the trigger shape but is fresh same-cycle supply (#6114 filed 07:57, just triaged) plus #6121 freshly filed this run. Not escalating.
+
+### State delta
+- ai-fix backlog: 0 → 2 (#6114, #6121)
+- seo-proposal bank (excl. umbrellas): 1 → 0
+- L1/L2/L3 snapshots: refreshed for the first time since 08-17 (L1 14 wins/0 losses/1 ctr-gap; L2 55/100 cited; L3 62.2% indexed, sentinel 96.4%)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 1/1 fresh triaged, live-verified, promoted, no duplicates, freeze-compliant. ✅ GSC-gap: 1 issue filed (#6121), quota met. ✅ L1/L2/L3: freshly read and actioned this run. ✅ Starvation: not triggered (fresh supply). ✅ Decisions logged.
+
+### Next Run
+1. Watch #6114/#6121 ship; verify #6121's title/meta change is metadata-only (no schema/body/URL diff).
+2. Watch the next 1-2 weekly L1 snapshots for `best cymbal set for metal` — target ≥1 click at maintained/improved position.
+3. Mid-day pulse due ~13:00 UTC — check Roadie's progress on #6096-6098 (07:00 deep run) plus #6114/#6121.
+4. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+
+---
 ## 2026-08-24 07:00 — Deep run: 3 fresh Scott Travis/Chris Turner era-gear fabrication proposals promoted (#6096-6098); GSC content-gap row held as a first-click confirmation, not a 5th CTR fix
 
 ### Context (≤3 lines)

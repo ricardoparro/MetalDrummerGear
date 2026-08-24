@@ -190,7 +190,7 @@ export const articles = {
         "gear": {
           "drums": "Tama kit (developing Starclassic configuration)",
           "cymbals": "Meinl Byzance (early series configuration)",
-          "pedals": "Tama Speed Cobra (initial configuration)"
+          "pedals": "Standard touring double pedal (no fixed brand documented)"
         },
         "notes": "The Lost What Remains EP established the polyrhythmic approach that Hikari would develop further. Turner's viral drum playthrough videos from this period began building his profile in the progressive metalcore community."
       },
@@ -203,13 +203,13 @@ export const articles = {
         "description": "Career-defining album. Hikari brought Japanese musical influences into progressive metalcore and showcased Turner's most developed compositional drumming to date.",
         "gear": {
           "drums": "Tama Starclassic Maple/Birch (full touring configuration)",
-          "snare": "Tama S.L.P. 14\" x 5.5\" G-Maple",
+          "snare": "Tama Starclassic matching snare (stock, bright attack)",
           "cymbals": "Meinl Byzance Series (15\" Dual Hi-Hats, 18\" & 20\" Extra Dry Medium Crashes, 22\" Dual Ride, 18\" Extra Dry China)",
-          "pedals": "Tama Speed Cobra 910 Double Pedal",
+          "pedals": "Standard double pedal (no fixed brand confirmed for this era)",
           "sticks": "Vic Firth American Classic 5A",
           "heads": "Evans throughout"
         },
-        "notes": "Hikari's \"Hansha\" and \"Escapist\" are the definitive Turner technique documents from this period. The viral drum playthroughs for both tracks consolidated his reputation as one of progressive metalcore's most technically sophisticated drummers. Setup remained consistent through the Hikari touring cycle."
+        "notes": "Hikari's \"Hansha\" and \"Escapist\" are the definitive Turner technique documents from this period. The viral drum playthroughs for both tracks consolidated his reputation as one of progressive metalcore's most technically sophisticated drummers. Turner's later documented Tama S.L.P. G-Maple snare and Tama Speed Cobra 910 pedal both postdate the Hikari cycle."
       },
       {
         "era": "Disparity Era — Mathcore Integration",
@@ -292,7 +292,7 @@ export const articles = {
     "author": "MetalForge Editorial",
     "title": "Chris Turner's Drum Setup on Oceans Ate Alaska's 'Hikari' (2017)",
     "metaTitle": "Chris Turner Drum Setup — Oceans Ate Alaska's 'Hikari' (2017) | MetalForge",
-    "description": "The drum setup Chris Turner used to record Oceans Ate Alaska's 2017 breakthrough 'Hikari' — Tama Starclassic Maple/Birch, Meinl Byzance Extra Dry cymbals, and the Speed Cobra 910 pedal behind the album that made his playthrough videos go viral.",
+    "description": "The drum setup Chris Turner used to record Oceans Ate Alaska's 2017 breakthrough 'Hikari' — Tama Starclassic Maple/Birch, Meinl Byzance Extra Dry cymbals, and the standard double pedal behind the album that made his playthrough videos go viral.",
     "seoKeywords": [
       "chris turner hikari drum setup",
       "hikari album drummer",
@@ -306,14 +306,14 @@ export const articles = {
     "ogImage": "/images/albums/hikari-drums.webp",
     "intro": {
       "title": "The Album That Made Chris Turner's Drumming Go Viral",
-      "content": "Released July 28, 2017 on Fearless Records, \"Hikari\" is Oceans Ate Alaska's second full-length album and the record that turned Chris Turner from a well-regarded UK metalcore drummer into one of the most widely circulated technical drummers on the internet. Produced by Nick Sampson and recorded across 2016 and 2017, the album takes its title from the Japanese word for \"light\" — a deliberate reference to the record's fusion of progressive metalcore aggression with melodic, occasionally Japanese-influenced instrumental passages, most audible on the title track and the atmospheric interlude \"Veridical.\"\n\nWhere Oceans Ate Alaska's 2015 debut \"Lost Isles\" established the band within Fearless Records' metalcore roster, \"Hikari\" is the record where Turner's drumming vocabulary crystallized into something distinct from his peers. \"Hansha\" and \"Escapist\" — tracks four and eleven on the album — became the two performances most responsible for his viral reach: official Fearless Records music videos for both tracks accumulated millions of views, and the drum-camera footage embedded in those videos gave viewers an unobstructed look at technique most drummers only attempt in isolated practice.\n\n\"Hansha\" in particular introduced Turner's polyrhythmic kick superimposition to a global audience — three-against-four and five-against-four kick subdivisions layered beneath a stable metalcore backbeat, executed at roughly 165 BPM without ever losing the song's forward drive. \"Escapist,\" running closer to 170 BPM, showcased the velocity-even double bass technique that would become his other calling card: both feet producing identical note weight regardless of which one leads, a level of independence training that is immediately audible on the recording.\n\nThis article is a dedicated breakdown of the specific rig Turner used to record \"Hikari\" — distinct from the general MetalForge gear overview — with a track-by-track look at how the Starclassic Maple/Birch kit, Byzance Extra Dry cymbals, and Speed Cobra 910 pedal served the album that built his audience.",
+      "content": "Released July 28, 2017 on Fearless Records, \"Hikari\" is Oceans Ate Alaska's second full-length album and the record that turned Chris Turner from a well-regarded UK metalcore drummer into one of the most widely circulated technical drummers on the internet. Produced by Nick Sampson and recorded across 2016 and 2017, the album takes its title from the Japanese word for \"light\" — a deliberate reference to the record's fusion of progressive metalcore aggression with melodic, occasionally Japanese-influenced instrumental passages, most audible on the title track and the atmospheric interlude \"Veridical.\"\n\nWhere Oceans Ate Alaska's 2015 debut \"Lost Isles\" established the band within Fearless Records' metalcore roster, \"Hikari\" is the record where Turner's drumming vocabulary crystallized into something distinct from his peers. \"Hansha\" and \"Escapist\" — tracks four and eleven on the album — became the two performances most responsible for his viral reach: official Fearless Records music videos for both tracks accumulated millions of views, and the drum-camera footage embedded in those videos gave viewers an unobstructed look at technique most drummers only attempt in isolated practice.\n\n\"Hansha\" in particular introduced Turner's polyrhythmic kick superimposition to a global audience — three-against-four and five-against-four kick subdivisions layered beneath a stable metalcore backbeat, executed at roughly 165 BPM without ever losing the song's forward drive. \"Escapist,\" running closer to 170 BPM, showcased the velocity-even double bass technique that would become his other calling card: both feet producing identical note weight regardless of which one leads, a level of independence training that is immediately audible on the recording.\n\nThis article is a dedicated breakdown of the specific rig Turner used to record \"Hikari\" — distinct from the general MetalForge gear overview — with a track-by-track look at how the Starclassic Maple/Birch kit, Byzance Extra Dry cymbals, and standard double pedal served the album that built his audience.",
       "keyPoints": [
         "Released July 28, 2017 on Fearless Records; produced by Nick Sampson",
         "Title means \"light\" in Japanese, reflecting the album's melodic/Japanese-influenced instrumental passages",
         "\"Hansha\" and \"Escapist\" became Turner's two most-viewed viral drum performances",
-        "Tama Starclassic Maple/Birch kit with Tama S.L.P. 14\"x5.5\" G-Maple snare",
+        "Tama Starclassic Maple/Birch kit with the stock Starclassic matching snare",
         "Meinl Byzance Extra Dry crashes and china for fast-decay accent placement",
-        "Tama Speed Cobra 910 double pedal drove the velocity-even double bass on \"Escapist\""
+        "Standard double pedal (predating his later Tama Speed Cobra 910 endorsement) drove the velocity-even double bass on \"Escapist\""
       ]
     },
     "drumKit": {
@@ -323,7 +323,7 @@ export const articles = {
       "finish": "Custom finish, 2016–2017 recording configuration",
       "config": {
         "bassdrums": [
-          "22\" Bass Drum (single kick, Speed Cobra 910 double pedal)"
+          "22\" Bass Drum (single kick, standard double pedal)"
         ],
         "toms": [
           "10\" Rack Tom",
@@ -334,25 +334,24 @@ export const articles = {
         ],
         "shells": "Maple/Birch hybrid — maple outer plies for warmth, birch inner plies for focused attack"
       },
-      "description": "For the \"Hikari\" sessions, Turner recorded on the Tama Starclassic Maple/Birch that would go on to define his sound through the rest of the 2010s. The hybrid shell pairing was chosen specifically to serve an album that moves between two extremes within individual songs: the blast-driven aggression of tracks like \"Covert\" and \"Entrapment,\" and the melodic, almost ambient instrumental writing on \"Veridical\" and the title track. A pure-birch kit would have nailed the aggressive material but sounded thin and clinical on the record's quieter passages; a pure-maple kit would have gone the other way, losing definition once the guitars distorted and the tempo climbed.\n\nThe streamlined three-tom spread — 10\", 12\", and a single 16\" floor tom — kept Turner's melodic fill sequences (a hallmark of \"Hansha\" in particular) pitched clearly rather than muddying into an oversized kit's low-end clutter. Nick Sampson's production leaned into this clarity, mic'ing the toms tight and dry so that Turner's compositional fills — which frequently trace specific pitch intervals against the guitar melody rather than simply filling space — read as distinct musical statements in the mix.\n\nA single 22\" bass drum, rather than a double-kick configuration, carried the entire album's foot work via the Speed Cobra 910 double pedal — the same single-kick philosophy Turner has maintained throughout his career, prioritizing tonal consistency between both feet over the raw low-end of dual bass drums.",
+      "description": "For the \"Hikari\" sessions, Turner recorded on the Tama Starclassic Maple/Birch that would go on to define his sound through the rest of the 2010s. The hybrid shell pairing was chosen specifically to serve an album that moves between two extremes within individual songs: the blast-driven aggression of tracks like \"Covert\" and \"Entrapment,\" and the melodic, almost ambient instrumental writing on \"Veridical\" and the title track. A pure-birch kit would have nailed the aggressive material but sounded thin and clinical on the record's quieter passages; a pure-maple kit would have gone the other way, losing definition once the guitars distorted and the tempo climbed.\n\nThe streamlined three-tom spread — 10\", 12\", and a single 16\" floor tom — kept Turner's melodic fill sequences (a hallmark of \"Hansha\" in particular) pitched clearly rather than muddying into an oversized kit's low-end clutter. Nick Sampson's production leaned into this clarity, mic'ing the toms tight and dry so that Turner's compositional fills — which frequently trace specific pitch intervals against the guitar melody rather than simply filling space — read as distinct musical statements in the mix.\n\nA single 22\" bass drum, rather than a double-kick configuration, carried the entire album's foot work via a standard double pedal — the same single-kick philosophy Turner has maintained throughout his career, prioritizing tonal consistency between both feet over the raw low-end of dual bass drums.",
       "notes": [
         "Recorded on the Tama Starclassic Maple/Birch — the kit that defined Turner's sound from Hikari onward",
-        "Single 22\" bass drum with Speed Cobra 910 double pedal, not a dual-kick setup",
+        "Single 22\" bass drum with a standard double pedal, not a dual-kick setup",
         "Tight, dry tom mic'ing by producer Nick Sampson to preserve melodic fill clarity",
         "Streamlined three-tom spread built for pitch-specific fills rather than volume"
       ],
       "estimatedValue": "$2,500–4,500 (Starclassic Maple/Birch, 2017 configuration)"
     },
     "snare": {
-      "title": "G-Maple Attack for a Record That Swings Between Extremes",
+      "title": "Stock Starclassic Attack for a Record That Swings Between Extremes",
       "brand": "Tama",
-      "model": "Tama S.L.P. G-Maple",
-      "size": "14\" x 5.5\"",
-      "shell": "G-Maple glued laminate construction",
-      "description": "The Tama S.L.P. 14\" x 5.5\" G-Maple carried the snare duties across \"Hikari,\" and its shallow 5.5\" depth was the right call for a record built on rapid pattern changes. On \"Hansha,\" the snare has to articulate cross-stick accents and rimshots within the same phrase as Turner's polyrhythmic kick work; a deeper, longer-sustaining shell would smear those closely spaced hits together under Nick Sampson's dense mix. The G-Maple's glued-laminate construction gives it a faster attack than a standard single-ply maple shell, so ghost notes register even at the lower velocities Turner uses in \"Veridical\"'s quieter passages, while the rimshot still cracks with authority for \"Covert\"'s heavier sections.\n\nEvans heads (batter and snare side) rounded out the setup, tuned to a medium tension that Sampson's production could push bright without the drum turning harsh — a balance that let the snare sit clearly against the album's layered, downtuned guitar arrangements without dominating the mix.",
+      "model": "Tama Starclassic matching snare",
+      "shell": "Stock Starclassic maple/birch shell, matched to the kit",
+      "description": "Turner's snare for \"Hikari\" was the stock matching snare that shipped with his Tama Starclassic Maple/Birch kit, rather than a dedicated snare-specific model — his first documented Tama snare, predating his later switch to the S.L.P. G-Maple. Its bright attack still had real work to do on a record built on rapid pattern changes: on \"Hansha,\" the snare articulates cross-stick accents and rimshots within the same phrase as Turner's polyrhythmic kick work, and the stock shell's attack kept those closely spaced hits distinct under Nick Sampson's dense mix.\n\nEvans heads (batter and snare side) rounded out the setup, tuned to a medium tension that Sampson's production could push bright without the drum turning harsh — a balance that let the snare sit clearly against the album's layered, downtuned guitar arrangements without dominating the mix.",
       "tuningSetting": "Medium tension, tuned for both ghost note sensitivity and rimshot cut",
       "heads": "Evans (batter and snare side)",
-      "estimatedValue": "$300–500 (Tama S.L.P. G-Maple)"
+      "estimatedValue": "$200–350 (stock Starclassic matching snare)"
     },
     "cymbals": {
       "title": "Meinl Byzance Extra Dry: Precision Accents for a Dynamically Extreme Record",
@@ -394,14 +393,14 @@ export const articles = {
       "estimatedValue": "$1,800–3,000 (Byzance setup, 2017 configuration)"
     },
     "hardware": {
-      "title": "Speed Cobra 910: The Pedal Behind 'Escapist'",
+      "title": "Standard Double Pedal Behind 'Escapist'",
       "items": [
         {
           "type": "Bass Drum Pedal",
-          "brand": "Tama",
-          "model": "Tama Speed Cobra 910 Double Pedal",
-          "notes": "Duo-Glide dual-chain drive for the velocity-even double bass on 'Escapist'",
-          "description": "The Speed Cobra 910 is the single piece of gear most directly responsible for \"Hikari\"'s most-viewed performance: \"Escapist,\" recorded at roughly 170 BPM, where Turner's double bass technique needs both feet to produce identical note weight regardless of which one leads. The Speed Cobra's Duo-Glide dual-chain drive removes the mechanical flex that a cheaper single-chain pedal introduces at that tempo, so the timing consistency between primary and secondary beater is a function of Turner's technique rather than a limitation of the hardware. The Spring-Loaded Cam Plate closes any remaining slack between stroke and beater return, which is what allows the syncopated, triplet-interpolated kick figures on \"Escapist\" to stay clean rather than blurring into a generic 16th-note stream."
+          "brand": "Unknown",
+          "model": "Standard double pedal (no fixed brand confirmed for this era)",
+          "notes": "Predates Turner's later documented Tama Speed Cobra 910 endorsement",
+          "description": "No fixed pedal brand is documented for Turner's \"Hikari\" era — that endorsement, the Tama Speed Cobra 910, came later. Whatever the specific pedal on hand, it had to support the demand that defines \"Hikari\"'s most-viewed performance, \"Escapist,\" recorded at roughly 170 BPM: both feet producing identical note weight regardless of which one leads, so the syncopated, triplet-interpolated kick figures stay clean rather than blurring into a generic 16th-note stream."
         },
         {
           "type": "Sticks",
@@ -424,7 +423,7 @@ export const articles = {
     },
     "playingStyle": {
       "title": "How Hikari's Material Shaped Turner's Technique",
-      "content": "\"Hikari\" is the record where the two techniques that define Chris Turner's reputation — polyrhythmic kick superimposition and velocity-even double bass — first reached a global audience, and both were direct responses to the compositional demands of specific songs on this album.\n\n**\"Hansha\": Polyrhythmic Superimposition.** Rather than tracking Oceans Ate Alaska's riff with a straightforward metalcore kick pattern, Turner layers three-against-four and five-against-four subdivisions beneath the backbeat, so the kit feels like it's playing in two rhythmic frameworks simultaneously while the groove itself never destabilizes. The kick patterns beneath the chorus specifically mirror the melodic contour of the guitar line above — a compositional choice, not an abstract rhythmic exercise, which is why the pattern reads as musical rather than merely technical on record.\n\n**\"Escapist\": Velocity-Even Double Bass.** At roughly 170 BPM, \"Escapist\" alternates straight 16th-note kick runs with syncopated accents and brief triplet interpolations. What sets Turner's performance apart is that both feet strike with equal force and equal timing precision — most drummers develop an unconsciously dominant foot that lands slightly ahead or slightly louder, and that asymmetry becomes audible at speed. Turner's independence training, paired with the Speed Cobra 910's mechanically identical dual-chain action on both sides, keeps the pattern even enough that the syncopated figures read clearly rather than smearing into noise.\n\n**Blast Beats as Punctuation.** Across \"Covert\" and \"Entrapment,\" Turner treats blast beats as compositional punctuation rather than sustained texture — entering and exiting at specific phrase boundaries with the Byzance Extra Dry china providing a fast-decaying accent that doesn't bleed into the surrounding groove sections.\n\nFor the full technique breakdowns of the two signature tracks: [Hansha lick breakdown](/drummers/chris-turner/licks/chris-turner-hansha-polyrhythm) and [Escapist lick breakdown](/drummers/chris-turner/licks/chris-turner-escapist-double-bass) at MetalForge.",
+      "content": "\"Hikari\" is the record where the two techniques that define Chris Turner's reputation — polyrhythmic kick superimposition and velocity-even double bass — first reached a global audience, and both were direct responses to the compositional demands of specific songs on this album.\n\n**\"Hansha\": Polyrhythmic Superimposition.** Rather than tracking Oceans Ate Alaska's riff with a straightforward metalcore kick pattern, Turner layers three-against-four and five-against-four subdivisions beneath the backbeat, so the kit feels like it's playing in two rhythmic frameworks simultaneously while the groove itself never destabilizes. The kick patterns beneath the chorus specifically mirror the melodic contour of the guitar line above — a compositional choice, not an abstract rhythmic exercise, which is why the pattern reads as musical rather than merely technical on record.\n\n**\"Escapist\": Velocity-Even Double Bass.** At roughly 170 BPM, \"Escapist\" alternates straight 16th-note kick runs with syncopated accents and brief triplet interpolations. What sets Turner's performance apart is that both feet strike with equal force and equal timing precision — most drummers develop an unconsciously dominant foot that lands slightly ahead or slightly louder, and that asymmetry becomes audible at speed. Turner's independence training keeps the pattern even enough that the syncopated figures read clearly rather than smearing into noise — years before his Speed Cobra 910 pedal endorsement, this evenness was a function of technique rather than any specific pedal's engineering.\n\n**Blast Beats as Punctuation.** Across \"Covert\" and \"Entrapment,\" Turner treats blast beats as compositional punctuation rather than sustained texture — entering and exiting at specific phrase boundaries with the Byzance Extra Dry china providing a fast-decaying accent that doesn't bleed into the surrounding groove sections.\n\nFor the full technique breakdowns of the two signature tracks: [Hansha lick breakdown](/drummers/chris-turner/licks/chris-turner-hansha-polyrhythm) and [Escapist lick breakdown](/drummers/chris-turner/licks/chris-turner-escapist-double-bass) at MetalForge.",
       "keyTechniques": [
         "Polyrhythmic kick superimposition on 'Hansha' — 3:4 and 5:4 layers over a stable metalcore pulse at ~165 BPM",
         "Velocity-even double bass on 'Escapist' — identical note weight from both feet at ~170 BPM",
@@ -451,9 +450,9 @@ export const articles = {
         "highlights": [
           "Track 11, closing the album; showcases velocity-even double bass technique",
           "Alternates straight 16th-note runs with syncopated and triplet-interpolated kick figures",
-          "Speed Cobra 910's dual-chain consistency keeps both feet mechanically even at tempo"
+          "Both feet stay mechanically even at tempo via Turner's independence training on a standard double pedal"
         ],
-        "gearNotes": "Tama Speed Cobra 910 double pedal is the defining piece of gear on this track — its Duo-Glide drive supports the note-for-note evenness between feet."
+        "gearNotes": "The standard double pedal of the era (no fixed brand confirmed) supported the note-for-note evenness between feet — Turner's Tama Speed Cobra 910 endorsement came later."
       },
       {
         "track": "Hikari",
@@ -481,7 +480,7 @@ export const articles = {
       },
       {
         "question": "What pedal did Chris Turner use for 'Escapist'?",
-        "answer": "Chris Turner used the Tama Speed Cobra 910 double pedal on 'Escapist,' the closing track from 'Hikari.' Its Duo-Glide dual-chain drive and Spring-Loaded Cam Plate eliminate the mechanical flex and slack that would otherwise undermine the velocity-even double bass technique the track requires — both feet striking with identical force and timing at roughly 170 BPM. For more on his gear: [Chris Turner drum setup at MetalForge](/articles/chris-turner-drum-setup)."
+        "answer": "No fixed pedal brand is documented for Chris Turner's 'Hikari' era — his Tama Speed Cobra 910 endorsement came later. Whatever standard double pedal he used on 'Escapist,' the closing track from 'Hikari,' the velocity-even double bass technique the track requires — both feet striking with identical force and timing at roughly 170 BPM — came from his independence training rather than the pedal's engineering. For more on his gear: [Chris Turner drum setup at MetalForge](/articles/chris-turner-drum-setup)."
       },
       {
         "question": "How does 'Hikari' compare to Oceans Ate Alaska's 'Disparity'?",
@@ -528,7 +527,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "Hikari: Where Chris Turner's Vocabulary Reached the World",
-      "content": "\"Hikari\" isn't just another Oceans Ate Alaska record — it's the album where Chris Turner's specific rhythmic vocabulary reached an audience far beyond progressive metalcore's usual listenership. \"Hansha\" and \"Escapist\" turned polyrhythmic kick superimposition and velocity-even double bass into techniques studied by drummers worldwide, and the Tama Starclassic Maple/Birch, Meinl Byzance Extra Dry cymbals, and Speed Cobra 910 double pedal that carried those performances remained his core setup for the better part of a decade afterward.\n\nWhat makes \"Hikari\" instructive for drummers is how tightly the gear choices map to the compositional demands: the hybrid shell construction serving both the album's aggression and its melodic passages, the Extra Dry cymbals chosen specifically to avoid cymbal bleed in tightly spaced accent work, the double pedal engineered for the exact mechanical evenness \"Escapist\" requires. None of it is generic metalcore gear — every choice is traceable to a specific musical problem this record posed.\n\nFor the complete gear arc across Turner's career, including the 2022 follow-up \"Disparity\": [Chris Turner's general drum setup breakdown](/articles/chris-turner-drum-setup). For his full career profile: [Chris Turner at MetalForge](/drummer/chris-turner)."
+      "content": "\"Hikari\" isn't just another Oceans Ate Alaska record — it's the album where Chris Turner's specific rhythmic vocabulary reached an audience far beyond progressive metalcore's usual listenership. \"Hansha\" and \"Escapist\" turned polyrhythmic kick superimposition and velocity-even double bass into techniques studied by drummers worldwide, and the Tama Starclassic Maple/Birch kit and Meinl Byzance Extra Dry cymbals that carried those performances remained his core setup for the better part of a decade afterward — the stock Starclassic matching snare and standard double pedal of the Hikari era would later give way to his documented Tama S.L.P. G-Maple snare and Speed Cobra 910 pedal.\n\nWhat makes \"Hikari\" instructive for drummers is how tightly the gear choices map to the compositional demands: the hybrid shell construction serving both the album's aggression and its melodic passages, the Extra Dry cymbals chosen specifically to avoid cymbal bleed in tightly spaced accent work, and a double bass technique built on independence training rather than any single pedal's engineering. None of it is generic metalcore gear — every choice is traceable to a specific musical problem this record posed.\n\nFor the complete gear arc across Turner's career, including the 2022 follow-up \"Disparity\": [Chris Turner's general drum setup breakdown](/articles/chris-turner-drum-setup). For his full career profile: [Chris Turner at MetalForge](/drummer/chris-turner)."
     }
   }
 };

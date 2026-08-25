@@ -2190,10 +2190,10 @@ export const ENDORSEMENT_TIMELINE = {
     band: "Mats/Morgan Band / Devin Townsend Project",
     currentEndorsements: {
       drums: { brand: 'Sonor', model: 'SQ2 Beech', since: '2012' },
-      cymbals: { brand: 'Meinl', model: 'Byzance Series', since: '1988' },
+      cymbals: { brand: 'Paiste', model: 'Signature / 2002 Series', since: '1988' },
       sticks: { brand: 'Vic Firth', model: 'American Classic 5A', since: '1988' },
       heads: { brand: 'Remo', model: 'Ambassador Coated / Emperor Coated', since: '1988' },
-      hardware: { brand: 'DW', model: 'Double Bass Pedal', since: '2012' },
+      hardware: { brand: 'Sonor', model: 'Giant Step Double Pedal', since: '2012' },
     },
     timeline: [
       {
@@ -2201,8 +2201,8 @@ export const ENDORSEMENT_TIMELINE = {
         changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
         category: ENDORSEMENT_CATEGORIES.CYMBALS,
         from: null,
-        to: 'Meinl',
-        notes: 'Developing Meinl Byzance relationship in place around the time Frank Zappa personally selected the then-20-year-old Ågren for his touring band',
+        to: 'Paiste',
+        notes: 'Developing Paiste Signature relationship in place around the time Frank Zappa personally selected the then-20-year-old Ågren for his touring band',
       },
       {
         year: 2012,
@@ -2216,8 +2216,8 @@ export const ENDORSEMENT_TIMELINE = {
         year: 2014,
         changeType: ENDORSEMENT_CHANGE_TYPES.RENEWED,
         category: ENDORSEMENT_CATEGORIES.CYMBALS,
-        brand: 'Meinl',
-        notes: 'Carried the Meinl Byzance Sand hi-hats and Traditional ride into "Z²" (2014), where the odd-time metric modulations demanded the line\'s layered overtone complexity',
+        brand: 'Paiste',
+        notes: 'Carried the Paiste Signature hi-hats and 2002 Series ride/china into "Z²" (2014), where the odd-time metric modulations demanded the lines\' layered overtone complexity',
       },
     ],
   },

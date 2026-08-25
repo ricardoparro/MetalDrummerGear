@@ -2145,7 +2145,7 @@ export const ENDORSEMENT_TIMELINE = {
     currentEndorsements: {
       drums: { brand: 'Pearl', model: 'Masterworks Maple', since: '2011' },
       cymbals: { brand: 'Sabian', model: 'HHX / AAX Combination', since: '2011' },
-      sticks: { brand: 'Vic Firth', model: 'Mike Mangini Signature', since: '2011' },
+      sticks: { brand: 'Vater', model: 'Mike Mangini Wicked Piston (VHMMWP)', since: '2011' },
       heads: { brand: 'Remo', model: 'Emperor Coated / Powerstroke 3', since: '2011' },
       hardware: { brand: 'Pearl', model: 'Eliminator Redline Double Pedal', since: '2011' },
     },

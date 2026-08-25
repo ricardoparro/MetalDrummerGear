@@ -6137,3 +6137,62 @@ Today (2026-08-25) is Tuesday — not Monday, and already logged as skipped in t
 3. Also unverified: alex-bent (drums, Pearl vs verified Tama, Trivium era) and dirk-verbeuren (drums shell material only, Maple vs Walnut/Birch — same brand, lower priority) and ben-koller (drums shell material only, Performer B/B vs Maple — same brand, lower priority) — surfaced by the research agent but not in either "clean" list nor filed yet.
 4. Once the above 10 are resolved, the endorsementNews.js-vs-extendedBios.js vein is genuinely done — don't start a 3rd sweep pass without a specific new lead.
 5. Drum-chair rotation: week 36 is group 0 (amon-amarth through cynic) — due next Monday 2026-08-31.
+
+---
+
+## 2026-08-25 (3rd run) — Closed out the carry-over verification list from the prior run: 8 more endorsementNews.js contradictions filed (#6192-6199)
+
+### Bank check
+Open `seo-proposal` at run start: 11 — 8 real (#6173-6180, already promoted to `ai-fix` per decisions-log 12:43 today) + 3 standing umbrellas (#3810/#3819/#2211). True untriaged bank: 0. Well under the 45 cap → cleared to file up to 8 net-new.
+
+### Audit summary
+- Robots.txt (served via `api/robots.js`): AI crawler allows present. ✅ (unchanged)
+- `/public/llms/**/*.md`: 2,011 files live. ✅ (unchanged)
+- `ai-fix` backlog: 28 open, well under the 45 cap.
+- Metrics (2026-08-25 13:40 UTC refresh): 235 users/266 sessions/411 views (7d); GSC 6,254 impr/137 clicks/2.19% CTR/pos 9.5. Content-gap rows: `danny carey drum kit` (100 impr, 1.00% CTR) — CEO already ruled this a position ceiling this morning (12:43 entry), no 6th fix. `joey jordison drum kit` (59 impr, 1.69% CTR) — long-standing precedented noise/first-click-confirmation row, held repeatedly. Neither re-filed.
+
+### What was checked — closed the prior run's carry-over list
+The prior run (2nd run today) left exactly 10 unresolved endorsementNews.js-vs-extendedBios.js candidates flagged by a research agent but not personally verified: inferno, daray, kevin-talley, morgan-agren, ray-luzier, richard-christy, ryan-van-poederooyen, alex-bent, dirk-verbeuren, ben-koller. Personally verified all 10 via direct `grep`/`Read` of both files (not trusting agent output, per this repo's documented history of false-closures on this exact bug class).
+
+**All 10 confirmed genuine contradictions** — the prior run's flagged fields were accurate, and in several cases I found *additional* mismatched fields the flagging pass hadn't caught (verified by reading the full `currentEndorsements` object side-by-side with `gearHighlights`, not just the one flagged field):
+1. **#6192** — Inferno: heads (Evans vs verified Remo).
+2. **#6193** — Daray: sticks (Promark vs verified Vic Firth) + heads (Remo vs verified Evans).
+3. **#6194** — Kevin Talley: cymbals (Zildjian vs verified Sabian) + hardware (DW vs verified Pearl) — both mismatches, prior flag only said "cymbals+hardware", confirmed exactly.
+4. **#6195** — Morgan Ågren: cymbals (Meinl vs verified Paiste) + hardware (DW vs verified Sonor Giant Step) — prior flag only said "cymbals", hardware mismatch was a fresh catch from reading the full object.
+5. **#6196** — Ray Luzier: sticks (Promark vs verified Vic Firth — both files claim a "Ray Luzier signature" stick but disagree on manufacturer) + hardware (Pearl vs verified DW 9000) — prior flag only said "hardware", sticks mismatch was a fresh catch.
+6. **#6197** — Richard Christy: hardware (Pearl vs verified Axis A Longboard), confirmed exactly as flagged.
+7. **#6198** — Ryan Van Poederooyen: hardware (Tama vs verified Pearl Demon Drive), confirmed exactly as flagged.
+8. **#6199** — Alex Bent: drums (Pearl vs verified Tama Starclassic Maple, Trivium era), confirmed exactly as flagged.
+
+**Filed 8 of the 10 to respect the stated 8-max this run.** Two remain confirmed but un-filed, carried to next run:
+- **Dirk Verbeuren**: sticks (Vater 5B vs verified Tama O-DVM2 signature model — a real brand contradiction, stronger than the shell-material nuance the prior run flagged as "lower priority") + drums shell material (Starclassic Maple vs verified Walnut/Birch, same brand Tama).
+- **Ben Koller**: heads (Evans vs verified Remo — a fresh catch, not what the prior run flagged) + drums shell material (Starclassic Performer B/B vs verified Starclassic Maple, same brand Tama).
+
+All 8 filed are single-file (`endorsementNews.js`) additive/corrective data fixes on existing live `/drummers/<slug>/endorsements` routes — zero new pages/URLs, freeze-compliant. Dedup-checked every name via `gh issue list --state all --search "<name> endorsementNews"` before filing — only found unrelated closed issues (Endorsement Tracker timeline-creation batches, sitemap-drift fixes) for every name, no real duplicates.
+
+### Lesson reinforced
+Confirms the prior run's own lesson ("spot-checked a sample is not verification") from the other direction: even when a flagged field is correctly identified, reading only the flagged field and not the full object can still miss adjacent contradictions in the same record (morgan-agren hardware, ray-luzier sticks, ben-koller heads all surfaced this way). Read the full `currentEndorsements` object against the full `gearHighlights` block, not just the one cited field.
+
+### Drum-chair watch
+Today (2026-08-25) is Tuesday — already logged as skipped twice today. No re-check.
+
+### Proposals filed this run (8)
+1. #6192 — Inferno
+2. #6193 — Daray
+3. #6194 — Kevin Talley
+4. #6195 — Morgan Ågren
+5. #6196 — Ray Luzier
+6. #6197 — Richard Christy
+7. #6198 — Ryan Van Poederooyen
+8. #6199 — Alex Bent
+
+### Open proposals waiting on CEO triage
+- #6192-#6199 (filed this run, 0d old)
+- #6173-#6180 (filed this morning, already promoted to `ai-fix` per decisions-log 12:43 today)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers only.
+
+### Next run
+1. Watch #6192-6199 ship via Roadie.
+2. File the final 2 carried-over, already-verified contradictions: **Dirk Verbeuren** (sticks: Vater vs verified Tama O-DVM2 signature; drums shell material: Maple vs verified Walnut/Birch) and **Ben Koller** (heads: Evans vs verified Remo; drums shell material: Performer B/B vs verified Maple). Both fully grep-verified already — no re-investigation needed, just file.
+3. Once those 2 ship, the endorsementNews.js-vs-extendedBios.js vein is genuinely exhausted (71/71 slugs checked, every flagged/carried candidate resolved) — don't start a 3rd full sweep without a specific new lead; candidates for the next vein: re-check `signatureGear.js`'s remaining entries beyond the already-fixed lars-ulrich one, or wait for the next weekly L1/L2/L3 signal.
+4. Drum-chair rotation: week 36 is group 0 (amon-amarth through cynic) — due next Monday 2026-08-31.

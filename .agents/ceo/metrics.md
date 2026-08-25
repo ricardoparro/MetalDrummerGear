@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-25 12:43 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-25 13:40 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,20 +8,20 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 233 |
-| Sessions | 264 |
-| Page views | 398 |
-| Engagement rate | 60.23% |
-| Avg session (s) | 291 |
+| Active users | 235 |
+| Sessions | 266 |
+| Page views | 411 |
+| Engagement rate | 59.77% |
+| Avg session (s) | 309 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
 | /drummer/joey-jordison | 15 | 6 |
 | /drummer/danny-carey | 12 | 8 |
-| / | 10 | 5 |
+| /drummers | 12 | 4 |
+| / | 11 | 6 |
 | /drummers/igor-cavalera/evolution | 10 | 4 |
-| /drummers | 9 | 3 |
 | /drummers/dave-lombardo/evolution | 8 | 2 |
 | /drummer/daniel-erlandsson | 7 | 1 |
 | /articles/slipknot-self-titled-drum-setup | 6 | 4 |
@@ -33,7 +33,7 @@
 | --- | --- | --- |
 | Organic Search | 180 | 153 |
 | Direct | 57 | 57 |
-| Unassigned | 34 | 30 |
+| Unassigned | 36 | 32 |
 | Cross-network | 8 | 8 |
 | Organic Social | 4 | 2 |
 | AI Assistant | 1 | 1 |

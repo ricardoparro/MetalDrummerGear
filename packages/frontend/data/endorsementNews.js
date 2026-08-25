@@ -1461,11 +1461,11 @@ export const ENDORSEMENT_TIMELINE = {
     name: 'Frost',
     band: 'Satyricon',
     currentEndorsements: {
-      drums: { brand: 'Pearl', model: 'Custom / Reference Series', since: '1996' },
+      drums: { brand: 'Tama', model: 'Starclassic Bubinga Series', since: '2013' },
       cymbals: { brand: 'Zildjian', model: 'A Series', since: '2013' },
       sticks: { brand: 'Vic Firth', model: '5B', since: '1996', signature: false },
       heads: { brand: 'Remo', model: 'Ambassador / Controlled Sound Coated', since: '1996' },
-      hardware: { brand: 'Pearl', model: 'Eliminator / DW 9000 Double Pedals + Roland RT Triggers', since: '2013' },
+      hardware: { brand: 'Tama', model: 'Iron Cobra Power Glide Pedal + Iron Cobra Lever Glide Hi-Hat Stand', since: '2013' },
     },
     timeline: [
       {
@@ -1503,10 +1503,18 @@ export const ENDORSEMENT_TIMELINE = {
       {
         year: 2013,
         changeType: ENDORSEMENT_CHANGE_TYPES.SWITCHED,
+        category: ENDORSEMENT_CATEGORIES.DRUMS,
+        from: 'Pearl',
+        to: 'Tama Starclassic Bubinga',
+        notes: 'Switched to a Tama Starclassic Bubinga kit as Satyricon\'s self-titled album pushed toward a more refined, modern production sound',
+      },
+      {
+        year: 2013,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SWITCHED,
         category: ENDORSEMENT_CATEGORIES.HARDWARE,
         from: 'entry-level basic hardware',
-        to: 'Pearl/DW double pedals with Roland RT triggers',
-        notes: 'Upgraded from the "Nemesis Divina"-era basic single pedal to Pearl/DW double bass pedals and Roland kick triggers for Satyricon\'s more produced modern era',
+        to: 'Tama Iron Cobra Power Glide pedal with Iron Cobra Lever Glide hi-hat stand',
+        notes: 'Upgraded from the "Nemesis Divina"-era basic single pedal to a Tama Iron Cobra Power Glide double pedal and Lever Glide hi-hat stand for Satyricon\'s more produced modern era',
       },
     ],
   },

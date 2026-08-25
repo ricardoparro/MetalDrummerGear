@@ -2388,9 +2388,9 @@ export const ENDORSEMENT_TIMELINE = {
     currentEndorsements: {
       drums: { brand: 'Pearl', model: 'Reference Maple', since: '2013' },
       cymbals: { brand: 'Sabian', model: 'AAX Series', since: '2013' },
-      sticks: { brand: 'Promark', model: 'Ray Luzier Signature TX420X', since: '2013' },
+      sticks: { brand: 'Vic Firth', model: 'Ray Luzier Signature', since: '2013' },
       heads: { brand: 'Evans', model: 'EC2 Coated / EMAD2', since: '2010' },
-      hardware: { brand: 'Pearl', model: 'Demon Drive Double Bass Pedal', since: '2013' },
+      hardware: { brand: 'DW', model: '9000 Series Double Pedal', since: '2010' },
     },
     timeline: [
       {
@@ -2407,7 +2407,7 @@ export const ENDORSEMENT_TIMELINE = {
         category: ENDORSEMENT_CATEGORIES.DRUMS,
         from: 'DW',
         to: 'Pearl',
-        notes: 'Transitioned from DW to a Pearl Reference Maple kit with Pearl Demon Drive double pedals for "The Paradigm Shift" (2013), beginning his current Pearl endorsement',
+        notes: 'Transitioned from a DW kit to a Pearl Reference Maple kit for "The Paradigm Shift" (2013), beginning his current Pearl endorsement, while remaining on his DW 9000 Series double pedal',
       },
       {
         year: 2013,
@@ -2421,9 +2421,9 @@ export const ENDORSEMENT_TIMELINE = {
         year: 2013,
         changeType: ENDORSEMENT_CHANGE_TYPES.SIGNATURE,
         category: ENDORSEMENT_CATEGORIES.STICKS,
-        brand: 'Promark',
-        product: 'Ray Luzier Signature TX420X',
-        notes: 'Moved from stock Promark Hickory 5B to his own Promark Ray Luzier Signature TX420X model starting with "The Paradigm Shift" (2013)',
+        brand: 'Vic Firth',
+        product: 'Ray Luzier Signature',
+        notes: 'Moved to his own Vic Firth Ray Luzier Signature model starting with "The Paradigm Shift" (2013)',
       },
     ],
   },

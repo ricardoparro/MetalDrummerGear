@@ -1062,11 +1062,11 @@ export const ENDORSEMENT_TIMELINE = {
     name: 'Scott Travis',
     band: 'Judas Priest',
     currentEndorsements: {
-      drums: { brand: 'Tama', model: 'Starclassic Maple', since: '2018' },
-      cymbals: { brand: 'Paiste', model: 'Signature / 2002 Series', since: '1987' },
-      sticks: { brand: 'Vater', since: '2000s' },
+      drums: { brand: 'ddrum', model: 'Dominion Series', since: '2018' },
+      cymbals: { brand: 'Paiste', model: 'RUDE / 2002 Series', since: '1987' },
+      sticks: { brand: 'Vic Firth', since: '2000s' },
       heads: { brand: 'Remo', since: '1990' },
-      hardware: { brand: 'Tama', model: 'Iron Cobra / Speed Cobra Pedals', since: '1990' },
+      hardware: { brand: 'DW', model: '9000 Series Double Pedal', since: '2018' },
     },
     timeline: [
       {
@@ -1098,8 +1098,8 @@ export const ENDORSEMENT_TIMELINE = {
         changeType: ENDORSEMENT_CHANGE_TYPES.SWITCHED,
         category: ENDORSEMENT_CATEGORIES.DRUMS,
         from: 'Pearl',
-        to: 'Tama',
-        notes: 'Returned to Tama\'s maple-shelled Starclassic line for "Firepower" and 2024\'s "Invincible Shield"',
+        to: 'ddrum',
+        notes: 'Switched to a ddrum Dominion Series shell pack and DW 9000 Series Double Pedal for "Firepower," carrying through 2024\'s "Invincible Shield"',
       },
     ],
   },

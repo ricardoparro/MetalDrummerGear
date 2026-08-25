@@ -2432,11 +2432,11 @@ export const ENDORSEMENT_TIMELINE = {
     name: 'Raymond Herrera',
     band: 'Fear Factory',
     currentEndorsements: {
-      drums: { brand: 'Pearl', model: 'Reference Series', since: '1995' },
+      drums: { brand: 'Tama', model: 'Starclassic (with triggering)', since: '1995' },
       cymbals: { brand: 'Zildjian', model: 'Z Custom', since: '1995' },
       sticks: { brand: 'Vater', model: 'Power 5B', since: '1995' },
       heads: { brand: 'Remo', model: 'Pinstripe / Ambassador', since: '1995' },
-      hardware: { brand: 'Pearl', model: 'Eliminator Double Pedal', since: '1995' },
+      hardware: { brand: 'DW', model: '5000 Series Double Pedal', since: '1995' },
     },
     timeline: [
       {
@@ -2444,8 +2444,8 @@ export const ENDORSEMENT_TIMELINE = {
         changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
         category: ENDORSEMENT_CATEGORIES.DRUMS,
         from: null,
-        to: 'Pearl',
-        notes: 'Built his hybrid acoustic/electronic setup around a Pearl Reference Series kit for "Demanufacture" (1995), the album that defined industrial metal drumming; kept unchanged through "Obsolete" (1998) and "Digimortal" (2001)',
+        to: 'Tama',
+        notes: 'Built his hybrid acoustic/electronic setup around a Tama Starclassic kit with extensive triggering for "Demanufacture" (1995), the album that defined industrial metal drumming; kept unchanged through "Obsolete" (1998) and "Digimortal" (2001)',
       },
       {
         year: 1995,
@@ -2461,7 +2461,7 @@ export const ENDORSEMENT_TIMELINE = {
         category: ENDORSEMENT_CATEGORIES.ELECTRONICS,
         from: null,
         to: 'ddrum / Roland',
-        notes: 'Wired his Pearl kit with ddrum triggers into a Roland drum module for "Demanufacture," creating the mechanical, processed drum sound at the core of Fear Factory\'s identity',
+        notes: 'Wired his Tama kit with ddrum triggers into a Roland drum module for "Demanufacture," creating the mechanical, processed drum sound at the core of Fear Factory\'s identity',
       },
     ],
   },

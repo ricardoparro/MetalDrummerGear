@@ -2701,11 +2701,11 @@ export const ENDORSEMENT_TIMELINE = {
     name: 'Martin Lopez',
     band: 'Soen',
     currentEndorsements: {
-      drums: { brand: 'Sonor', model: 'SQ2 (Select Maple)', since: '2010' },
+      drums: { brand: 'Noble & Cooley', model: 'Walnut shell pack', since: '2010' },
       cymbals: { brand: 'Zildjian', model: 'A / K Series', since: '2010' },
       sticks: { brand: 'Vic Firth', model: 'American Classic 5A Nylon Tip', since: '1997' },
       heads: { brand: 'Remo', model: 'Ambassador Coated / Diplomat', since: '1997' },
-      hardware: { brand: 'DW', model: '9002 Double Pedal', since: '2010' },
+      hardware: { brand: 'Axis', model: 'Percussion double pedal', since: '2010' },
     },
     timeline: [
       {
@@ -2737,8 +2737,8 @@ export const ENDORSEMENT_TIMELINE = {
         changeType: ENDORSEMENT_CHANGE_TYPES.SWITCHED,
         category: ENDORSEMENT_CATEGORIES.DRUMS,
         from: 'Sonor Designer Series',
-        to: 'Sonor SQ2',
-        notes: 'Upgraded from the Designer Series to Sonor\'s bespoke SQ2 custom line for Soen — reflecting his professional standing, in the same select-maple configuration',
+        to: 'Noble & Cooley',
+        notes: 'Switched to a Noble & Cooley Walnut shell pack after co-founding Soen in 2010, prioritizing tone and dynamics over the power-focused Sonor kit used in Opeth',
       },
     ],
   },

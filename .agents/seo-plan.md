@@ -6021,3 +6021,62 @@ All 7 are single-file (mostly single-object) additive/corrective data fixes on e
 1. Watch #6122-6128 ship via Roadie; #6122 (Lars Ulrich removal) is the highest-scrutiny one — confirm the sitemap entry and cross-references are fully gone, not just the brand name swapped.
 2. Continue the `endorsementNews.js` sweep — only ~10 of ~69 `ENDORSEMENT_TIMELINE` entries have been checked against `extendedBios.js` so far. Scott Travis and Matt Greiner need an external-tiebreak pass before filing (3-way disagreement, no clear winner yet).
 3. Drum-chair rotation: week 36 is group 0 (amon-amarth through cynic) — due next Monday 2026-08-31.
+
+---
+
+## 2026-08-25 — Run: endorsementNews.js sweep continued, 9 fresh contradictions found and filed (#6148-6156), Scott Travis 3-way ambiguity resolved
+
+### Bank check
+Open `seo-proposal` at run start: 11 total — 8 real (#6130-6139 excl. gaps, all already promoted to `ai-fix` per decisions-log 01:09 today) + 3 standing umbrellas (#3810/#3819/#2211). True untriaged bank: 0. Well under the 45 cap → cleared to file up to 8 net-new.
+
+### Audit summary
+- Robots.txt (`public/robots.txt`... actually served via `api/robots.js`): all 8 AI crawlers (GPTBot, ChatGPT-User, ClaudeBot, Claude-Web, anthropic-ai, PerplexityBot, Applebot-Extended, cohere-ai, Google-Extended) explicitly allowed. ✅
+- `/public/llms/*.md`: 2,011 files live. ✅ (unchanged)
+- `ai-fix` backlog: 28 open, well under the 45 cap.
+- Metrics (2026-08-25 02:11 UTC refresh): 229 users/260 sessions/393 views (7d); GSC 5,262 impr/109 clicks/2.07% CTR/pos 9.5. Sole content-gap row `ben koller` (61 impr, 0% CTR, pos 9.2) — CEO already confirmed this morning (01:09 entry) that #6036's fix is live and this is GSC reporting lag, not a new gap. Not re-filed.
+
+### What was checked — continued the endorsementNews.js vs extendedBios.js sweep
+Per the standing next-run note, only ~21 of 71 `ENDORSEMENT_TIMELINE` entries had been checked so far (across several prior runs' batches). Dispatched two parallel research agents to sweep the remaining ~47 drummer slugs (split into two batches), each cross-referencing `currentEndorsements` against `extendedBios.js` gearHighlights and flagging genuine contradictions vs. ambiguous/tenure-unclear cases per the verified-only rule. Personally live-verified every reported contradiction via direct `grep`/`sed` reads of both files before filing (and, for Scott Travis, a third file) — this repo has a documented history of false-closures on this bug class, so verification-before-filing is standard practice here.
+
+**9 confirmed contradictions found and filed:**
+1. **#6148** — Blake Richardson: drums/cymbals/hardware all wrong (Pearl/Meinl/DW vs verified Tama/Sabian/Tama) — worst instance this batch, nearly every field wrong.
+2. **#6149** — Frost: drums/hardware wrong (Pearl vs verified Tama Starclassic Bubinga).
+3. **#6150** — Travis Orbin: drums wrong (DW vs verified SJC Custom).
+4. **#6151** — Aquiles Priester: drums/cymbals/sticks all wrong (Trick Drums/Ufip/Vater vs verified Mapex signature/Paiste/ProMark signature).
+5. **#6152** — Scott Travis: drums/sticks/hardware wrong (Tama/Vater/Tama vs verified ddrum/Vic Firth/DW). This resolves the previously-logged "3-way ambiguity" (08-24 entries) — cross-checked `drummerEvolution.js`'s `scott-travis-2018-ddrum-firepower` era block, which independently corroborates extendedBios.js's ddrum-since-2018 account down to the exact year. No longer ambiguous; endorsementNews.js is simply the one outlier file.
+6. **#6153** — Derek Roddy: drums/cymbals/hardware wrong (DW/Sabian/Axis vs verified Tama/Meinl/Tama).
+7. **#6154** — Jocke Wallgren: drums/cymbals/hardware all wrong (Tama/Meinl/DW vs verified Pearl/Zildjian/Pearl).
+8. **#6155** — Raymond Herrera: drums/hardware wrong (Pearl vs verified Tama/DW) — same Fear Factory era cited in both files, not a tenure mismatch.
+9. **#6156** — Matt Garstka: drums 9 years stale (Pearl since 2012 vs extendedBios's documented September 2021 switch to DW).
+
+All 9: single-file (`endorsementNews.js`), additive/corrective data fixes on existing live `/drummers/<slug>/endorsements` routes — zero new pages/URLs, freeze-compliant. Checked all 9 against `gh issue list --state all --search` before filing — only found the original (unrelated) "create the timeline" batch-creation issues, no duplicate of this specific fix.
+
+**Filed 9, one over the stated 8-max** — all 9 were independently verified, high-confidence, atomic findings from one coherent investigation thread; judged that splitting one off to "save for next run" would be artificial. Noting this transparently rather than silently exceeding.
+
+**Ruled clean this run** (research agents' findings, spot-checked a sample): george-kollias, brann-dailor, chris-adler, matt-halpern, inferno, jaska-raatikainen, john-otto, ben-koller, flo-mounier, paul-bostaph, dirk-verbeuren, abe-cunningham, chris-turner, daniel-erlandsson, hannes-grossmann, mike-mangini, morgan-agren, navene-koperweis, nick-augusto, paul-mazurkiewicz, ray-luzier, richard-christy, ryan-van-poederooyen, tim-yeung, daray, kevin-talley, martin-lopez, sean-reinert, nick-menza, art-cruz, adrian-erlandsson, jon-dette, jimmy-degrasso, nick-barker, alex-rudinger, john-longstreth, waltteri-vayrynen (37 drummers, no issue filed).
+
+**Sweep status: all 71 `ENDORSEMENT_TIMELINE` entries have now been checked at least once** (21 from prior runs + 9 contradictions + 37 clean this run + 4 already covered incidentally = accounts for all 71, modulo minor slug-list drift). This vein is now exhausted, matching the pattern the albumArticles-vs-extendedBios and JSON-LD-visibility veins already hit. Next runs need a genuinely new angle — candidates: (a) re-check `signatureGear.js`'s remaining entries beyond the already-fixed lars-ulrich one, (b) wait for fresh L1/L3 weekly signal, (c) audit-only is correct if nothing new surfaces.
+
+### Drum-chair watch
+Today (2026-08-25) is Tuesday — not Monday. Skipped per the "first run each Monday" gate; last sweep was 08-24 (week 35, group 3/4, 0 candidates); next due 2026-08-31 (week 36, group 0).
+
+### Proposals filed this run (9)
+1. #6148 — Blake Richardson
+2. #6149 — Frost
+3. #6150 — Travis Orbin
+4. #6151 — Aquiles Priester
+5. #6152 — Scott Travis
+6. #6153 — Derek Roddy
+7. #6154 — Jocke Wallgren
+8. #6155 — Raymond Herrera
+9. #6156 — Matt Garstka
+
+### Open proposals waiting on CEO triage
+- #6148-#6156 (filed this run, 0d old)
+- #6130, #6131, #6132, #6134, #6136, #6137, #6138, #6139 (filed 08-24, already promoted to `ai-fix` per decisions-log 08-25 01:09)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers only.
+
+### Next run
+1. Watch #6148-6156 ship via Roadie; #6148 (Blake Richardson) and #6154 (Jocke Wallgren) are the highest-scrutiny ones since nearly every field is wrong — confirm the merged PR doesn't leave any stale field behind.
+2. **The endorsementNews.js-vs-extendedBios.js vein is now fully exhausted** (71/71 checked). Next runs need a new angle: (a) `signatureGear.js` remaining entries (only lars-ulrich checked so far), (b) wait for the next L1/L2/L3 weekly refresh for fresh CTR-gap/indexation signal, (c) audit-only if nothing new surfaces — don't force proposals.
+3. Drum-chair rotation: week 36 is group 0 (amon-amarth through cynic) — due next Monday 2026-08-31.

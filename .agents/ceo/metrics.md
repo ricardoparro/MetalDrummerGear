@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-25 01:09 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-25 02:11 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 227 |
-| Sessions | 258 |
-| Page views | 392 |
-| Engagement rate | 61.24% |
-| Avg session (s) | 297 |
+| Active users | 229 |
+| Sessions | 260 |
+| Page views | 393 |
+| Engagement rate | 60.77% |
+| Avg session (s) | 295 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -26,14 +26,14 @@
 | /drummer/daniel-erlandsson | 7 | 1 |
 | /articles/slipknot-self-titled-drum-setup | 6 | 4 |
 | /cymbals/setups/daniel-erlandsson | 6 | 1 |
-| /drummer/ben-koller | 5 | 4 |
+| /drummer/matt-greiner | 6 | 6 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 176 | 149 |
+| Organic Search | 177 | 150 |
 | Direct | 56 | 56 |
-| Unassigned | 30 | 26 |
+| Unassigned | 32 | 28 |
 | Cross-network | 8 | 8 |
 | Organic Social | 4 | 2 |
 | AI Assistant | 1 | 1 |
@@ -41,7 +41,7 @@
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 92 | 76 |
+| United States | 93 | 77 |
 | Brazil | 16 | 15 |
 | Germany | 14 | 13 |
 | United Kingdom | 13 | 12 |

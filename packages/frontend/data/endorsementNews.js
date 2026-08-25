@@ -2620,10 +2620,10 @@ export const ENDORSEMENT_TIMELINE = {
     band: 'Dying Fetus',
     currentEndorsements: {
       drums: { brand: 'Pearl', model: 'Masters Custom / Reference Series', since: '2000' },
-      cymbals: { brand: 'Zildjian', model: 'A / A Custom Series', since: '2000' },
+      cymbals: { brand: 'Sabian', model: 'AAX Series', since: '2000' },
       sticks: { brand: 'Vic Firth', model: 'American Classic 5B', since: '2000' },
       heads: { brand: 'Remo', model: 'Powerstroke 3 / Emperor Coated', since: '2000' },
-      hardware: { brand: 'DW', model: 'Double Bass Pedal', since: '2000' },
+      hardware: { brand: 'Pearl', model: 'Eliminator Double Pedal', since: '2000' },
     },
     timeline: [
       {
@@ -2635,26 +2635,18 @@ export const ENDORSEMENT_TIMELINE = {
         notes: 'Played a Pearl Masters kit (maple/mahogany hybrid, double 22"x18" bass drums) on Dying Fetus\'s "Destroy the Opposition" (2000), widely cited as his most influential recorded performance',
       },
       {
-        year: 2000,
-        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
-        category: ENDORSEMENT_CATEGORIES.CYMBALS,
-        from: null,
-        to: 'Zildjian',
-        notes: 'Paired the Pearl kit with Zildjian A and A Custom cymbals (14" A Custom Hi-Hats, 18" A China) on "Destroy the Opposition", built for fast attack and projection over down-tuned guitars',
-      },
-      {
         year: 2007,
         changeType: ENDORSEMENT_CHANGE_TYPES.RENEWED,
         category: ENDORSEMENT_CATEGORIES.DRUMS,
         brand: 'Pearl',
-        notes: 'Documented in his "full touring configuration" (Pearl Masters Custom/Reference, 14"x6.5" steel snare, full Zildjian A Custom setup) on Dying Fetus\'s "War of Attrition" (2007), his most technically complete recorded performance',
+        notes: 'Documented in his "full touring configuration" (Pearl Masters Custom/Reference, 14"x6.5" steel snare) on Dying Fetus\'s "War of Attrition" (2007), his most technically complete recorded performance',
       },
       {
         year: 2015,
         changeType: ENDORSEMENT_CHANGE_TYPES.RENEWED,
         category: ENDORSEMENT_CATEGORIES.DRUMS,
         brand: 'Pearl',
-        notes: 'Carried the same Pearl Reference Masters / Zildjian A series / DW double pedal setup into Jungle Rot\'s "Order Shall Prevail" (2015), adapting it to a more groove-oriented death metal context',
+        notes: 'Carried the same Pearl Reference Masters setup into Jungle Rot\'s "Order Shall Prevail" (2015), adapting it to a more groove-oriented death metal context',
       },
     ],
   },

@@ -2537,11 +2537,11 @@ export const ENDORSEMENT_TIMELINE = {
     name: 'Tim Yeung',
     band: 'Morbid Angel',
     currentEndorsements: {
-      drums: { brand: 'Pearl', model: 'Reference Masters', since: '2005' },
+      drums: { brand: 'Tama', model: 'Starclassic Bubinga', since: '2005' },
       cymbals: { brand: 'Sabian', model: 'AAX / HHX Series', since: '2005' },
       sticks: { brand: 'Vic Firth', model: '5B', since: '2005' },
       heads: { brand: 'Remo', model: 'Powerstroke 3', since: '2005' },
-      hardware: { brand: 'DW', model: '9002 Double Bass Pedal', since: '2005' },
+      hardware: { brand: 'Tama', model: 'Speed Cobra 910 Double Pedal', since: '2005' },
     },
     timeline: [
       {

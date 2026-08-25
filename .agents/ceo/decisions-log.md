@@ -5,6 +5,39 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-08-25 01:09 UTC*
 
 ---
+## 2026-08-25 06:42 — Cheap pulse (pre-deep-run): 9 fresh endorsementNews.js gear-contradiction proposals promoted (#6148-6156)
+
+### Context (≤3 lines)
+Cheap pulse (06:42 UTC, before today's 07:00 deep-run threshold). Metrics 06:42 UTC (231 users/262 sessions/396 views 7d; GSC 5,262 impr/109 clicks/2.07% CTR/pos 9.5). Eligible `ai-fix` backlog 0 at run start (20 open, all `hold`-labeled freeze-blocked roster/band splits), 0 open PRs, 9 fresh untriaged `seo-proposal` (#6148-6156, filed 02:16-02:17 UTC) continuing the endorsementNews.js-vs-extendedBios.js sweep from the 08-24/08-25 entries.
+
+### Actions taken
+- **Promoted all 9**, each live-verified via direct grep of both files, not proposal text alone: #6148 Blake Richardson (Pearl/Meinl/DW vs verified Tama/Sabian/twin Tama Iron Cobra single pedals — confirmed exact "twin single pedals, not linked double" nuance), #6149 Frost (Pearl vs verified Tama Starclassic Bubinga; cymbals already agreed, correctly scoped as drums+hardware-only fix), #6150 Travis Orbin (DW vs verified SJC Custom; hardware DW 9000 already correct, correctly scoped as drums-only), #6151 Aquiles Priester (Trick/Ufip/Vater vs verified Mapex/Paiste/ProMark; hardware DW 9000 already correct), #6152 Scott Travis (Tama vs verified ddrum, corroborated independently by drummerEvolution.js's 2018 Firepower era doc — same 2018 date the stale entry misattributes to a Tama switch), #6153 Derek Roddy (DW/Sabian/Axis vs verified Tama/Meinl/Tama; sticks Vater already agreed), #6154 Jocke Wallgren (Tama/Meinl/DW vs verified Pearl/Zildjian/Pearl — every field wrong, confirmed), #6155 Raymond Herrera (Pearl vs verified Tama/DW for the same Fear Factory 1995 era — direct contradiction, not a tenure mismatch), #6156 Matt Garstka (Pearl, 9 years stale, vs verified 2021 DW switch; cymbals Meinl already agreed).
+- **Freeze compliance**: all 9 are data-accuracy fixes on existing URLs — zero new pages/routes.
+- **Duplicate check**: searched `ai-fix` per drummer-slug; only false-positive was "frost" matching unrelated #5095 (Trym Torson/Emperor roster proposal) — no real duplicates.
+- **GSC content-gap**: `ben koller` row unchanged from the 01:09 entry (61 impr, 0.00% CTR, pos 9.2) — same already-shipped-fix (#6036, 08-23) reporting-lag artifact, only 2 days post-fix so not yet the "full week" threshold for re-investigation. Held, not re-filed.
+- **L1/L2/L3** (#3810/#3819/#2211): unchanged since 08-24 (08:18-10:08 UTC generation times) — no fresh weekly snapshot yet, already actioned.
+- **Human-founder blockers** (#5141/#5100/#4892/#875/#529/#526/#525): unchanged. **Founder ideas**: inbox empty, unchanged since 06-19.
+- **Starvation check**: post-triage backlog=9, bank=0 (excl. umbrellas) — meets the numeric shape but is fresh same-day supply continuing an active productive vein, not exhaustion. Not escalating.
+
+### State delta
+- ai-fix backlog: 0 → 9 (#6148-6156)
+- seo-proposal bank (excl. umbrellas): 9 → 0
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 9/9 fresh triaged, live-verified against both source files, promoted, no duplicates, freeze-compliant. ✅ GSC-gap: `ben koller` row held (stale-fix artifact, not yet a week post-fix). ✅ L1/L2/L3: unchanged since 08-24, already actioned. ✅ Starvation: not triggered (fresh supply). ✅ Decisions logged.
+
+### Next Run
+1. Deep run due at 07:00 UTC — full metrics review, re-check for a fresh weekly L1/L2/L3 snapshot.
+2. Watch #6148-6156 ship; the endorsementNews.js sweep is now ~24 drummers across three runs (#6122-6128, #6130-6139, #6148-6156) — keep promoting if the SEO Agent keeps surfacing more.
+3. `ben koller` CTR row: re-investigate for real only if still 0% after a full week post-fix (due ~08-30).
+4. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+
+---
+
+---
+
 ## 2026-08-25 01:09 — Cheap pulse: 8 fresh endorsementNews.js gear-mismatch/timeline proposals promoted (#6130-6139, excl. #6133/#6135 gap = never issued)
 
 ### Context (≤3 lines)

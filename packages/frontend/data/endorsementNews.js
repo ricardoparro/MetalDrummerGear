@@ -2504,7 +2504,7 @@ export const ENDORSEMENT_TIMELINE = {
       cymbals: { brand: 'Sabian', model: 'AAX / HHX Series', since: '2000' },
       sticks: { brand: 'Vic Firth', model: 'American Classic 5B', since: '2000' },
       heads: { brand: 'Evans / Remo', model: 'EMAD/EC2 / Powerstroke 3', since: '2000' },
-      hardware: { brand: 'Tama', model: 'Iron Cobra Double Bass Pedal', since: '2000' },
+      hardware: { brand: 'Pearl', model: 'Demon Drive Double Pedal', since: '2000' },
     },
     timeline: [
       {
@@ -2527,8 +2527,8 @@ export const ENDORSEMENT_TIMELINE = {
         year: 2011,
         changeType: ENDORSEMENT_CHANGE_TYPES.RENEWED,
         category: ENDORSEMENT_CATEGORIES.HARDWARE,
-        brand: 'Tama / DW',
-        notes: 'Alternated between Tama Iron Cobra and DW 9000 double bass pedals across "Deconstruction" and "Ghost" (both 2011), released the same day and recorded on the same physical kit',
+        brand: 'Pearl',
+        notes: 'Carried the Pearl Demon Drive double bass pedal across "Deconstruction" and "Ghost" (both 2011), released the same day and recorded on the same physical kit',
       },
     ],
   },

@@ -1525,8 +1525,8 @@ export const ENDORSEMENT_TIMELINE = {
     currentEndorsements: {
       drums: { brand: 'Tama', model: 'Starclassic Maple/Bubinga', since: '1997' },
       cymbals: { brand: 'Zildjian', model: 'A Custom / K Custom hybrid', since: '2022' },
-      sticks: { brand: 'Zildjian', model: 'Abe Cunningham Artist Series', since: '2022', signature: true },
-      heads: { brand: 'Evans', model: 'EMAD / G2', since: '1997' },
+      sticks: { brand: 'Pro-Mark', since: '1997' },
+      heads: { brand: 'Remo', model: 'Powerstroke P3 / Pinstripe / Ambassador', since: '1997' },
       hardware: { brand: 'Tama', model: 'Iron Cobra 900 Rolling Glide', since: '1997' },
     },
     timeline: [

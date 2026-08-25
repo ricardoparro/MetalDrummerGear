@@ -2747,11 +2747,11 @@ export const ENDORSEMENT_TIMELINE = {
     name: 'Matt Garstka',
     band: 'Animals as Leaders',
     currentEndorsements: {
-      drums: { brand: 'Pearl', model: 'Masterworks Maple', since: '2012' },
+      drums: { brand: 'DW', model: "Collector's Series (custom shop)", since: '2021' },
       cymbals: { brand: 'Meinl', model: 'Byzance Series', since: '2012' },
       sticks: { brand: 'Vic Firth', model: 'Matt Garstka Signature', since: '2014', signature: true },
       heads: { brand: 'Remo', model: 'Ambassador Coated', since: '2012' },
-      hardware: { brand: 'Pearl', model: 'Demon Drive Double Pedal', since: '2012' },
+      hardware: { brand: 'Tama', model: 'Speed Cobra 910 Double Pedal', since: '2021' },
     },
     timeline: [
       {
@@ -2785,6 +2785,22 @@ export const ENDORSEMENT_TIMELINE = {
         brand: 'Vic Firth',
         product: 'Matt Garstka Signature Stick',
         notes: 'Released his Vic Firth signature stick — an elongated taper for dynamic control, designed for his traditional-grip technique',
+      },
+      {
+        year: 2021,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SWITCHED,
+        category: ENDORSEMENT_CATEGORIES.DRUMS,
+        from: 'Pearl',
+        to: 'DW',
+        notes: 'Switched from Pearl/Tama to a DW Collector\'s Series custom shop kit (mixed wood species and shell configurations, plus a DW Collector\'s Series Purpleheart snare) in September 2021, driven by a Tama Speed Cobra 910 double pedal',
+      },
+      {
+        year: 2021,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SWITCHED,
+        category: ENDORSEMENT_CATEGORIES.HARDWARE,
+        from: 'Pearl Demon Drive Double Pedal',
+        to: 'Tama Speed Cobra 910 Double Pedal',
+        notes: 'Moved his double bass pedal to a Tama Speed Cobra 910 alongside the September 2021 DW drum kit switch',
       },
     ],
   },

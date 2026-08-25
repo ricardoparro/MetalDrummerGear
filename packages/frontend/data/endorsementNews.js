@@ -633,7 +633,7 @@ export const ENDORSEMENT_TIMELINE = {
       drums: { brand: 'Pearl', model: 'Reference Series', since: '2000s' },
       cymbals: { brand: 'Paiste', model: 'RUDE Series', since: '2000s' },
       sticks: { brand: 'Vic Firth', model: 'American Classic Extreme 5B', since: '2000s' },
-      heads: { brand: 'Evans', since: '2000s' },
+      heads: { brand: 'Remo', since: '2000s' },
       hardware: { brand: 'Monolit', model: 'Czarcie Kopyto', since: '2010s' },
     },
     timeline: [

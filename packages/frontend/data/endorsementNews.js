@@ -2474,7 +2474,7 @@ export const ENDORSEMENT_TIMELINE = {
       cymbals: { brand: 'Sabian', model: 'AA / AAX Series', since: '1998' },
       sticks: { brand: 'Vic Firth', model: 'American Classic 5A/5B', since: '1998' },
       heads: { brand: 'Remo / Evans', model: 'Emperor / Pinstripe / G2', since: '1998' },
-      hardware: { brand: 'Pearl', model: 'PowerShifter Eliminator', since: '1998' },
+      hardware: { brand: 'Axis', model: 'A Longboard Double Pedal', since: '1998' },
     },
     timeline: [
       {

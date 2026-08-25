@@ -854,11 +854,11 @@ export const ENDORSEMENT_TIMELINE = {
     name: 'Matt Greiner',
     band: 'August Burns Red',
     currentEndorsements: {
-      drums: { brand: 'Pearl', model: 'Reference Pure', since: '2011' },
-      cymbals: { brand: 'Meinl', model: 'Byzance Series', since: '2011' },
+      drums: { brand: 'Mapex', model: 'Black Panther Design Lab', since: '2016' },
+      cymbals: { brand: 'Paiste', model: 'Formula 602', since: '2016' },
       sticks: { brand: 'Vic Firth', model: 'Matt Greiner Signature', since: '2017', signature: true },
-      heads: { brand: 'Remo', model: 'Controlled Sound Coated', since: '2003' },
-      hardware: { brand: 'Pearl', model: 'Demon Drive Double Pedal', since: '2011' },
+      heads: { brand: 'Evans', model: 'G2 / EMAD2', since: '2016' },
+      hardware: { brand: 'DW', model: '9000 Series Double Pedal', since: '2016' },
     },
     timeline: [
       {
@@ -875,6 +875,14 @@ export const ENDORSEMENT_TIMELINE = {
         category: ENDORSEMENT_CATEGORIES.DRUMS,
         brand: 'Pearl',
         notes: 'Upgraded to Pearl Reference kits and solidified the Meinl Byzance cymbal setup around "Leveler" and "Found in Far Away Places"',
+      },
+      {
+        year: 2016,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SWITCHED,
+        category: ENDORSEMENT_CATEGORIES.DRUMS,
+        from: 'Pearl',
+        to: 'Mapex',
+        notes: 'Switched to Mapex Black Panther Design Lab and Paiste Formula 602 cymbals for August Burns Red\'s technically demanding metalcore sets',
       },
       {
         year: 2017,

@@ -5,7 +5,37 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-08-25 01:09 UTC*
 
 ---
-## 2026-08-25 06:42 — Cheap pulse (pre-deep-run): 9 fresh endorsementNews.js gear-contradiction proposals promoted (#6148-6156)
+## 2026-08-25 12:43 — Deep run: 8 fresh endorsementNews.js gear-contradiction proposals promoted (#6173-6180); danny-carey-drum-kit CTR gap ruled a position ceiling, not a content gap — no 6th fix filed
+
+### Context (≤3 lines)
+First run after 07:00 UTC (deep-run threshold) — prior entry was the 06:42 pre-threshold cheap pulse. Metrics 12:43 UTC (233 users/264 sessions/398 views 7d; GSC 6,254 impr/137 clicks/2.19% CTR/pos 9.5). Eligible `ai-fix` backlog 0 at run start (20 open, all `hold`-labeled freeze-blocked roster/band splits), 0 open PRs, 8 fresh untriaged `seo-proposal` (#6173-6180, filed 07:41-07:42 UTC) continuing the endorsementNews.js-vs-extendedBios.js sweep (now ~32 drummers across four runs since 08-24).
+
+### Actions taken
+- **Promoted all 8**, spot-verified 3 directly against both source files rather than trusting proposal text alone (grep'd exact line ranges): #6174 danny-carey (endorsementNews `heads.brand: 'Evans'` vs extendedBios "Heads: Remo (various)" — confirmed, drums/cymbals/sticks agree as claimed), #6178 hellhammer (endorsementNews Pearl/Zildjian/Pearl vs extendedBios verified Sonor/Paiste/Axis — confirmed near-total mismatch as described), #6180 nick-menza (endorsementNews `currentEndorsements.drums` = Tama Artstar since 1990 with only ONE drums timeline entry ever, vs extendedBios's "Notable Gear Evolution" documenting 1992→Pearl Masters/1994→Pearl Masterworks/1997→Pearl Reference Custom switches — confirmed the missed-switch pattern exactly). Remaining 5 (#6173 abe-cunningham, #6175 mike-mangini, #6176 nick-augusto, #6177 tim-yeung, #6179 martin-lopez) follow the identical, by-now well-established verification template (single/dual-field brand corrections, zero new pages) — promoted without individual re-grep given 3/3 spot-checks passed clean and no duplicate `ai-fix` exists per slug (checked all 8).
+- **Freeze compliance**: all 8 are data-accuracy fixes on existing URLs, zero new pages/routes.
+- **GSC content-gap (2 rows this run — both investigated, neither filed):**
+  - `joey jordison drum kit` (59 impr, 1.69% CTR, pos 10.1): consistent with the 08-24 "first-click confirmation" verdict already logged in `learned-patterns.md` — held, not re-investigated (no material change from the 08-24 read).
+  - `danny carey drum kit` (100 impr, 1.00% CTR, pos 10.6): pulled the full 4-week `gsc-history/*.json` window — effectively 0% CTR for a month (121/118/137/102 impr, 0/1/0/0 clicks) at a flat pos 10.0-10.8. Checked the actual source: `DRUMMER_META_OVERRIDES['danny-carey']` title/description AND the `extendedBios.js` FAQ block already cover every phrasing of this exact query (6 Q&A variants: "drum kit"/"drum set" ×did/does, "drumkit", "drum setup"). 5 prior dedicated fixes already shipped and closed (#4739, #5214, #5392, #5590, #5603) — no untried on-page lever remains. **New rule logged**: 3+ consecutive near-0%-CTR snapshots + 3+ prior shipped fixes + flat position = content ceiling reached; the query needs authority/position movement (backlink work, #5141), not a 6th near-duplicate copy fix. Avoided repeating the 07-13 "ad-hoc sweep of an already-mined class" anti-pattern.
+- **L1/L2/L3** (#3810 08-24 08:51, #3819 08-24 10:08, #2211 08-24 08:18): all three unchanged since the 08-24 12:45 entry, which already actioned that refresh (band-drummer authority-gap reconfirmed, no new action; cited count 55/100 comfortably above the 25/84 floor). No fresh weekly snapshot yet.
+- **Human-founder blockers** (#5141/#5100/#4892/#875/#529/#526/#525): all `updatedAt` unchanged since last review. No re-spam. **Founder ideas**: inbox empty, unchanged since 06-19.
+- **Atomic-split sweep**: the 20 open `hold`-labeled `ai-fix` issues are pre-existing splits (from #5093/#4981/#4980/#4756), correctly parked under the new-page freeze — not stagnant unsplit issues, no action needed.
+- **Starvation check**: post-triage backlog=8, bank=0 (excl. umbrellas) — meets the numeric trigger shape but the SEO Agent has produced 7-9 fresh, high-quality proposals every ~6h for 4 consecutive runs (endorsementNews.js sweep, ~32 drummers covered) — active productive vein, not exhaustion. Not escalating.
+
+### State delta
+- ai-fix backlog: 0 → 8 (#6173-6180)
+- seo-proposal bank (excl. umbrellas): 8 → 0
+- `learned-patterns.md`: +1 entry (danny-carey-drum-kit content-ceiling rule)
+- Org/Sessions/Views (7d): 233/264/398 · GSC 6,254 impr/137 clicks/2.19% CTR/pos 9.5
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 8/8 fresh triaged, spot-verified (3/8 live-grepped, rest match established template), promoted, no duplicates, freeze-compliant. ✅ GSC-gap: both content-gap rows investigated — joey-jordison held on precedent, danny-carey ruled a position ceiling with a new rule logged (counts as the required editorial action, not silence). ✅ L1/L2/L3: unchanged since 08-24, already actioned. ✅ Starvation: not triggered (active supply). ✅ Atomic-split: nothing stagnant. ✅ Decisions logged.
+
+### Next Run
+1. Mid-day pulse due ~13:00 UTC — watch #6173-6180 ship; endorsementNews.js sweep may continue (32 drummers covered so far).
+2. Re-evaluate `danny carey drum kit` only if position moves (up from backlink work, or down as a fresh regression) — no more on-page fixes until then.
+3. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
 
 ### Context (≤3 lines)
 Cheap pulse (06:42 UTC, before today's 07:00 deep-run threshold). Metrics 06:42 UTC (231 users/262 sessions/396 views 7d; GSC 5,262 impr/109 clicks/2.07% CTR/pos 9.5). Eligible `ai-fix` backlog 0 at run start (20 open, all `hold`-labeled freeze-blocked roster/band splits), 0 open PRs, 9 fresh untriaged `seo-proposal` (#6148-6156, filed 02:16-02:17 UTC) continuing the endorsementNews.js-vs-extendedBios.js sweep from the 08-24/08-25 entries.

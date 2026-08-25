@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-25 08:48 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-25 12:43 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 232 |
-| Sessions | 263 |
-| Page views | 397 |
-| Engagement rate | 60.46% |
-| Avg session (s) | 292 |
+| Active users | 233 |
+| Sessions | 264 |
+| Page views | 398 |
+| Engagement rate | 60.23% |
+| Avg session (s) | 291 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -33,7 +33,7 @@
 | --- | --- | --- |
 | Organic Search | 180 | 153 |
 | Direct | 57 | 57 |
-| Unassigned | 33 | 29 |
+| Unassigned | 34 | 30 |
 | Cross-network | 8 | 8 |
 | Organic Social | 4 | 2 |
 | AI Assistant | 1 | 1 |
@@ -55,43 +55,44 @@
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 5,262 |
-| Clicks | 109 |
-| CTR | 2.07% |
+| Impressions | 6,254 |
+| Clicks | 137 |
+| CTR | 2.19% |
 | Avg position | 9.5 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| arin ilejay drum set | 4 | 1 | 25.00% | 4.8 |
-| best metal drummers of all time | 28 | 1 | 3.57% | 7.5 |
+| arin ilejay drum set | 5 | 1 | 20.00% | 4.6 |
+| best black metal drummers | 2 | 1 | 50.00% | 16.0 |
+| best metal drummers of all time | 32 | 1 | 3.13% | 7.8 |
 | beste metal drummer | 3 | 1 | 33.33% | 7.3 |
+| danny carey drum kit | 100 | 1 | 1.00% | 10.6 |
+| danny carey drumkit | 9 | 1 | 11.11% | 8.1 |
 | deathcore drum kit | 1 | 1 | 100.00% | 4.0 |
-| eloy casagrande drum kit | 13 | 1 | 7.69% | 10.0 |
-| joey jordison drum kit | 49 | 1 | 2.04% | 10.1 |
-| john otto cymbal setup | 1 | 1 | 100.00% | 8.0 |
-| john otto drum kit | 23 | 1 | 4.35% | 4.9 |
-| limp bizkit drum kit | 4 | 1 | 25.00% | 6.3 |
-| mario duplantier cymbal setup | 1 | 1 | 100.00% | 6.0 |
+| eloy casagrande drum kit | 16 | 1 | 6.25% | 10.3 |
+| flo mounier drum kit | 4 | 1 | 25.00% | 2.8 |
+| joey jordison drum kit | 59 | 1 | 1.69% | 10.1 |
 
 ### Top countries (impressions, last 7d)
 | Country | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| usa | 1,803 | 47 | 2.61% | 8.9 |
-| can | 261 | 10 | 3.83% | 9.4 |
-| fra | 118 | 6 | 5.08% | 7.5 |
-| deu | 207 | 5 | 2.42% | 7.4 |
-| fin | 94 | 5 | 5.32% | 6.4 |
-| gbr | 325 | 5 | 1.54% | 11.0 |
-| aus | 252 | 3 | 1.19% | 8.1 |
-| bel | 45 | 3 | 6.67% | 6.0 |
-| idn | 72 | 3 | 4.17% | 14.9 |
-| pol | 96 | 3 | 3.13% | 7.1 |
+| usa | 2,177 | 57 | 2.62% | 9.0 |
+| can | 296 | 12 | 4.05% | 9.4 |
+| fra | 140 | 6 | 4.29% | 7.9 |
+| aus | 298 | 5 | 1.68% | 7.9 |
+| deu | 231 | 5 | 2.16% | 7.3 |
+| fin | 105 | 5 | 4.76% | 6.3 |
+| gbr | 391 | 5 | 1.28% | 11.4 |
+| bel | 50 | 3 | 6.00% | 6.1 |
+| idn | 86 | 3 | 3.49% | 15.3 |
+| pol | 113 | 3 | 2.65% | 7.5 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 | Query | Impr | CTR | Pos | Action |
 | --- | --- | --- | --- | --- |
-| ben koller | 61 | 0.00% | 9.2 | open issue to answer better |
+| danny carey drum kit | 100 | 1.00% | 10.6 | open issue to answer better |
+| joey jordison drum kit | 59 | 1.69% | 10.1 | open issue to answer better |
 
 ---
 *Re-run manually: `node .agents/scripts/fetch-metrics.cjs`*

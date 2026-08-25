@@ -1661,11 +1661,11 @@ export const ENDORSEMENT_TIMELINE = {
     name: 'Arin Ilejay',
     band: 'Avenged Sevenfold (ex) / Confide',
     currentEndorsements: {
-      drums: { brand: 'DW', model: "Collector's Series", since: '2011' },
+      drums: { brand: 'Mapex', model: 'Saturn Series', since: '2011' },
       cymbals: { brand: 'Zildjian', model: 'A Custom Series', since: '2011' },
-      sticks: { brand: 'Vic Firth', model: '5B', since: '2011', signature: false },
-      heads: { brand: 'Remo', model: 'Ambassador Coated / Powerstroke 3', since: '2011' },
-      hardware: { brand: 'DW', model: '9000 Series Double Pedal', since: '2011' },
+      sticks: { brand: 'Vic Firth', model: 'American Classic 5A', since: '2011', signature: false },
+      heads: { brand: 'Evans', model: 'Ambassador Coated / Powerstroke 3', since: '2011' },
+      hardware: { brand: 'Mapex', model: 'Falcon Double Pedal', since: '2011' },
     },
     timeline: [
       {

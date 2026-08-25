@@ -2576,8 +2576,8 @@ export const ENDORSEMENT_TIMELINE = {
     currentEndorsements: {
       drums: { brand: 'Pearl', model: 'Reference Pure', since: '2008' },
       cymbals: { brand: 'Paiste', model: 'RUDE / 2002 Series', since: '2008' },
-      sticks: { brand: 'Promark', model: '5B', since: '2008' },
-      heads: { brand: 'Remo', model: 'Emperor / Ambassador', since: '2008' },
+      sticks: { brand: 'Vic Firth', model: 'American Classic Extreme 5B', since: '2008' },
+      heads: { brand: 'Evans', model: 'Emperor / Ambassador', since: '2008' },
       hardware: { brand: 'Pearl', model: 'Demon Drive Double Bass Pedal', since: '2010' },
     },
     timeline: [

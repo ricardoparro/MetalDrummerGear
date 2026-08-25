@@ -478,7 +478,7 @@ export const ENDORSEMENT_TIMELINE = {
       drums: { brand: 'Sonor', model: 'Custom', since: '2000s' },
       cymbals: { brand: 'Paiste', model: 'Signature Series', since: '1990s', signature: true },
       sticks: { brand: 'Vic Firth', model: 'Danny Carey Signature', since: '2000s', signature: true },
-      heads: { brand: 'Evans', since: '2000s' },
+      heads: { brand: 'Remo', since: '2000s' },
       electronics: { brand: 'Mandala', since: '2000s' },
     },
     timeline: [

@@ -2272,11 +2272,11 @@ export const ENDORSEMENT_TIMELINE = {
     name: 'Nick Augusto',
     band: 'ex-Trivium',
     currentEndorsements: {
-      drums: { brand: 'Tama', model: 'Starclassic Performer B/B', since: '2011' },
-      cymbals: { brand: 'Meinl', model: 'MB20 / Classics Custom Series', since: '2011' },
-      sticks: { brand: 'Promark', model: '5B Hickory', since: '2011' },
+      drums: { brand: 'Pearl', model: 'Reference Pure', since: '2011' },
+      cymbals: { brand: 'Sabian', model: 'AAX Series', since: '2011' },
+      sticks: { brand: 'Vic Firth', model: 'American Classic 5B', since: '2011' },
       heads: { brand: 'Evans', model: 'Genera Dry / 300 Snare Side', since: '2011' },
-      hardware: { brand: 'Tama', model: 'Iron Cobra 900 Double Bass Pedal', since: '2011' },
+      hardware: { brand: 'Pearl', model: 'Demon Drive Double Bass Pedal', since: '2011' },
     },
     timeline: [
       {

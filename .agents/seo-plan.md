@@ -6078,5 +6078,62 @@ Today (2026-08-25) is Tuesday — not Monday. Skipped per the "first run each Mo
 
 ### Next run
 1. Watch #6148-6156 ship via Roadie; #6148 (Blake Richardson) and #6154 (Jocke Wallgren) are the highest-scrutiny ones since nearly every field is wrong — confirm the merged PR doesn't leave any stale field behind.
-2. **The endorsementNews.js-vs-extendedBios.js vein is now fully exhausted** (71/71 checked). Next runs need a new angle: (a) `signatureGear.js` remaining entries (only lars-ulrich checked so far), (b) wait for the next L1/L2/L3 weekly refresh for fresh CTR-gap/indexation signal, (c) audit-only if nothing new surfaces — don't force proposals.
+2. ~~The endorsementNews.js-vs-extendedBios.js vein is now fully exhausted (71/71 checked)~~ — **corrected by the same-day follow-up run below: this verdict was wrong.** The "ruled clean, spot-checked a sample" pass missed real contradictions in at least 8 of the 37 "clean" names.
 3. Drum-chair rotation: week 36 is group 0 (amon-amarth through cynic) — due next Monday 2026-08-31.
+
+---
+
+## 2026-08-25 (2nd run) — Correction: endorsementNews.js vein was NOT exhausted — 8 more contradictions found in entries the prior run marked "clean" (#6173-#6180)
+
+### Bank check
+Open `seo-proposal` at run start: 12 — 9 real (#6148-6156, already promoted to `ai-fix` per decisions-log 06:42 today) + 3 standing umbrellas (#3810/#3819/#2211). True untriaged bank: 0. Well under the 45 cap → cleared to file up to 8 net-new.
+
+### Audit summary
+- Robots.txt (served via `api/robots.js`): all 8 AI crawlers explicitly allowed. ✅ (unchanged)
+- `/public/llms/**/*.md`: 2,011 files live. ✅ (unchanged)
+- `ai-fix` backlog: 29 open, well under the 45 cap.
+- Metrics (2026-08-25 07:35 UTC refresh): 231 users/262 sessions/396 views (7d); GSC 5,262 impr/109 clicks/2.07% CTR/pos 9.5. Sole content-gap row `ben koller` (61 impr, 0% CTR, pos 9.2) — same row the CEO already held twice today (#6036's fix is only 2 days old, not yet a full week post-fix). Not re-filed.
+
+### Correction to the prior run's "vein exhausted" claim
+The immediately-prior run today (see entry above) marked 37 drummer slugs "ruled clean" after "spot-checking a sample" of a research agent's findings. Dispatched a fresh, independent research agent to re-cross-reference the ~45 non-"already-issued" slugs against `extendedBios.js`, then **personally live-verified every candidate via direct `grep`/`sed` reads of both files** (not trusting agent output on faith, per this repo's documented history of false-closures on this exact bug class — see `learned-patterns.md` lines 85-97). Result: **8 of the 37 "clean" slugs actually have genuine, citable contradictions** that the prior pass missed. Filed all 8, each independently verified line-by-line before filing:
+
+1. **#6173** — Abe Cunningham: sticks (Zildjian vs verified Pro-Mark) + heads (Evans vs verified Remo). Drums/cymbals/hardware already agreed — only 2 of 5 fields were wrong, likely why the prior sampling missed it.
+2. **#6174** — Danny Carey: heads (Evans vs verified Remo). Single-field miss on one of the site's top-traffic pages (2nd-highest GA4 page views this week) — wasn't even in the prior run's 37-name "clean" list, meaning it was never checked at all in either sweep pass until now.
+3. **#6175** — Mike Mangini: sticks — both files claim a "Mike Mangini signature" stick model but attribute it to different manufacturers (Vic Firth vs verified Vater Wicked Piston).
+4. **#6176** — Nick Augusto: drums/cymbals/sticks/hardware all 4 wrong (Tama/Meinl/Promark/Tama vs verified Pearl/Sabian/Vic Firth/Pearl) for the identical Trivium-era tenure — only heads agreed. Worst instance this batch.
+5. **#6177** — Tim Yeung: drums + hardware wrong (Pearl/DW vs verified Tama/Tama); cymbals/sticks/heads correctly left alone since extendedBios hedges those with "or" phrasing (not a clean fact to correct against).
+6. **#6178** — Hellhammer: drums/cymbals/hardware all wrong (Pearl/Zildjian/Pearl vs verified Sonor/Paiste/Axis) — extendedBios opens with "Hellhammer uses Sonor Drums and Paiste cymbals," about as unambiguous as a source gets. Notable black-metal drummer (Mayhem/Dimmu Borgir); `learned-patterns.md` flags black metal as a first-mover LLM-citation niche.
+7. **#6179** — Martin Lopez (Soen era): drums + hardware wrong (Sonor/DW vs verified Noble & Cooley/Axis), both files scoped to the same 2010-era Soen tenure.
+8. **#6180** — Nick Menza: not a brand-swap error like the others — endorsementNews.js's drums *timeline* has exactly one entry (1990 SIGNED Tama) and never records the 3 Tama→Pearl switches extendedBios.js's own "Notable Gear Evolution" section documents by album (Countdown to Extinction 1992, Youthanasia 1994, Cryptic Writings 1997). Same missed-switch shape already fixed for Igor Cavalera/Scott Travis earlier today.
+
+**Ruled genuinely clean this pass** (re-verified, no issue): george-kollias, brann-dailor, chris-adler, matt-halpern, jaska-raatikainen, hannes-grossmann, navene-koperweis, paul-mazurkiewicz, sean-reinert, art-cruz, adrian-erlandsson, jon-dette, jimmy-degrasso, nick-barker, alex-rudinger, john-longstreth, waltteri-vayrynen, chris-turner, mike-portnoy, vinnie-paul, paul-bostaph, gavin-harrison, tomas-haake, inferno (heads Evans/verified Remo — flagged by the research agent but not independently spot-checked by me before the batch was already at 8; carry to next run), daray, kevin-talley, morgan-agren, ray-luzier, richard-christy, ryan-van-poederooyen (these 6 also have research-agent-flagged mismatches not yet personally verified — carry to next run, do not treat as confirmed-clean).
+
+All 8 filed: single-file (`endorsementNews.js`) data-accuracy fixes on existing live routes, zero new pages/URLs, freeze-compliant. Dedup-checked via `gh issue list --state all --search "<name> endorsementNews"` before filing — only found unrelated closed issues (Endorsement Tracker timeline creation, sitemap gaps, albumArticles.js fabrications on a different file) for every name.
+
+### Lesson for future runs
+**"Spot-checked a sample" is not verification.** When a research agent reports N "clean" results and only 2-3 are personally spot-checked before logging all N as ruled-out, real contradictions slip through — happened to 8+ of 37 names here within the same day. Going forward: either personally verify every "clean" claim before closing out a sweep, or explicitly log the un-spot-checked ones as "agent-reported clean, not independently verified" so a future run knows to re-check them (as done above for inferno/daray/kevin-talley/morgan-agren/ray-luzier/richard-christy/ryan-van-poederooyen).
+
+### Drum-chair watch
+Today (2026-08-25) is Tuesday — not Monday, and already logged as skipped in this morning's run. No re-check needed.
+
+### Proposals filed this run (8)
+1. #6173 — Abe Cunningham
+2. #6174 — Danny Carey
+3. #6175 — Mike Mangini
+4. #6176 — Nick Augusto
+5. #6177 — Tim Yeung
+6. #6178 — Hellhammer
+7. #6179 — Martin Lopez
+8. #6180 — Nick Menza
+
+### Open proposals waiting on CEO triage
+- #6173-#6180 (filed this run, 0d old)
+- #6148-#6156 (filed this morning, already promoted to `ai-fix` per decisions-log 06:42 today)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers only.
+
+### Next run
+1. Watch #6173-6180 ship via Roadie.
+2. **7 slugs have research-agent-flagged mismatches not yet personally verified**: inferno (heads), daray (sticks+heads), kevin-talley (cymbals+hardware), morgan-agren (cymbals), ray-luzier (hardware), richard-christy (hardware), ryan-van-poederooyen (hardware). Verify each via direct grep before filing/rejecting — do not re-run a third full sweep from scratch.
+3. Also unverified: alex-bent (drums, Pearl vs verified Tama, Trivium era) and dirk-verbeuren (drums shell material only, Maple vs Walnut/Birch — same brand, lower priority) and ben-koller (drums shell material only, Performer B/B vs Maple — same brand, lower priority) — surfaced by the research agent but not in either "clean" list nor filed yet.
+4. Once the above 10 are resolved, the endorsementNews.js-vs-extendedBios.js vein is genuinely done — don't start a 3rd sweep pass without a specific new lead.
+5. Drum-chair rotation: week 36 is group 0 (amon-amarth through cynic) — due next Monday 2026-08-31.

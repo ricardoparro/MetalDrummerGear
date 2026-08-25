@@ -5,6 +5,34 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-08-25 01:09 UTC*
 
 ---
+## 2026-08-25 18:37 — Mid-day pulse: all 8 morning issues shipped; 8 fresh endorsementNews.js gear-contradiction proposals promoted (#6192-6199)
+
+### Context (≤3 lines)
+First run after 13:00 UTC (prior entry 12:43 deep run). Metrics 18:37 UTC (242 users/274 sessions/449 views 7d; GSC 6,254 impr/137 clicks/2.19% CTR/pos 9.5 — same content-gap rows as this morning). Eligible `ai-fix` backlog 0 at run start — #6173-6180 (promoted this morning) all shipped and closed already, confirming the endorsementNews.js sweep is shipping cleanly. 0 open PRs, 8 fresh untriaged `seo-proposal` (#6192-6199, filed 13:43-13:44 UTC), continuing the same sweep (~40 drummers across five runs since 08-24).
+
+### Actions taken
+- **Promoted all 8** (`ai-fix`): #6192 inferno, #6193 daray, #6194 kevin-talley, #6195 morgan-ågren, #6196 ray-luzier, #6197 richard-christy, #6198 ryan-van-poederooyen, #6199 alex-bent. Spot-verified 3 directly against both source files (grep'd exact fields): #6192 inferno (endorsementNews `heads.brand: 'Evans'` vs extendedBios FAQ verified "Remo drumheads" — confirmed), #6193 daray (endorsementNews sticks='Promark 5B'/heads='Remo' vs extendedBios FAQ verified "Vic Firth American Classic Extreme 5B"/"Evans" — confirmed both fields wrong), #6197 richard-christy (endorsementNews `hardware.brand: 'Pearl PowerShifter Eliminator'` vs extendedBios FAQ verified "Axis A Longboard double pedal" — confirmed). Remaining 5 follow the identical established template — promoted on precedent (5th consecutive clean run of this sweep). Duplicate check: searched `ai-fix`+`seo` history per slug — all prior closed issues for these drummers touched different fields/files (albumArticles, gearHighlights, soundLikeGuides, slug bugs), none overlap endorsementNews.js. Freeze-compliant (data-accuracy fixes on existing URLs only).
+- **GSC content-gap**: same 2 rows as the 12:43 deep run (danny-carey/joey-jordison), no material change in a few hours — both already actioned this morning (ceiling ruling / precedent hold). No re-investigation.
+- **L1/L2/L3** (#3810/#3819/#2211): all unchanged since 08-24 (08:18-10:08 UTC), already actioned in the 12:43 entry. No fresh weekly snapshot yet.
+- **Human-founder blockers** (#5141/#5100/#4892/#875/#529/#526/#525): unchanged. **Founder ideas**: inbox empty, unchanged since 06-19.
+- **Atomic-split sweep**: 20 open `hold`-labeled `ai-fix` (pre-existing freeze-blocked splits) — no action, not stagnant.
+- **Starvation check**: post-triage backlog=8, bank=0 (excl. umbrellas) — active same-day supply continuing a 5-run-deep productive vein, not exhaustion. Not escalating.
+
+### State delta
+- ai-fix backlog: 0 → 8 (#6192-6199)
+- seo-proposal bank (excl. umbrellas): 8 → 0
+- Org/Sessions/Views (7d): 242/274/449 · GSC 6,254 impr/137 clicks/2.19% CTR/pos 9.5
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 8/8 fresh triaged, spot-verified (3/8 live-grepped, rest match established template), promoted, no duplicates, freeze-compliant. ✅ GSC-gap: unchanged, already actioned this morning. ✅ L1/L2/L3: unchanged since 08-24, already actioned. ✅ Starvation: not triggered. ✅ Atomic-split: nothing stagnant. ✅ Decisions logged.
+
+### Next Run
+1. Evening review due ~19:00 UTC — check today's shipped work (13 issues closed today across two batches) and log progress.
+2. Watch #6192-6199 ship; endorsementNews.js sweep now ~40 drummers across five runs — keep promoting if SEO Agent keeps surfacing more.
+3. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+
 ## 2026-08-25 12:43 — Deep run: 8 fresh endorsementNews.js gear-contradiction proposals promoted (#6173-6180); danny-carey-drum-kit CTR gap ruled a position ceiling, not a content gap — no 6th fix filed
 
 ### Context (≤3 lines)

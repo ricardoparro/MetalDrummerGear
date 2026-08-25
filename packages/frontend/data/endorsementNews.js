@@ -1337,11 +1337,11 @@ export const ENDORSEMENT_TIMELINE = {
     name: 'Igor Cavalera',
     band: 'Sepultura / Cavalera Conspiracy',
     currentEndorsements: {
-      drums: { brand: 'ddrum', model: 'Hybrid Kit', since: '2006' },
+      drums: { brand: 'Yamaha', model: 'Absolute Hybrid Maple', since: '2018' },
       cymbals: { brand: 'Zildjian', model: 'A Custom Series', since: '2006' },
       sticks: { brand: 'Vic Firth', model: 'American Classic 5B', since: '1993' },
       heads: { brand: 'Remo', since: '2006' },
-      hardware: { brand: 'DW', model: '5000 Series Double Pedal', since: '2006' },
+      hardware: { brand: 'Tama', model: 'Iron Cobra Double Pedal', since: '2018' },
     },
     timeline: [
       {
@@ -1375,6 +1375,22 @@ export const ENDORSEMENT_TIMELINE = {
         from: 'Paiste',
         to: 'Zildjian',
         notes: 'Switched to Zildjian A Custom Series cymbals for the Cavalera Conspiracy era, starting with "Inflikted"',
+      },
+      {
+        year: 2018,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SWITCHED,
+        category: ENDORSEMENT_CATEGORIES.DRUMS,
+        from: 'ddrum',
+        to: 'Yamaha',
+        notes: 'Announced a new Yamaha Absolute Hybrid Maple endorsement in August 2018, moving off his prior kit',
+      },
+      {
+        year: 2018,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SWITCHED,
+        category: ENDORSEMENT_CATEGORIES.HARDWARE,
+        from: 'DW',
+        to: 'Tama',
+        notes: 'Adopted Tama Iron Cobra double pedal alongside the 2018 Yamaha kit switch',
       },
     ],
   },

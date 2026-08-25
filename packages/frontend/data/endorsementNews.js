@@ -1100,11 +1100,11 @@ export const ENDORSEMENT_TIMELINE = {
     name: 'Nicko McBrain',
     band: 'Iron Maiden',
     currentEndorsements: {
-      drums: { brand: 'Sonor', model: 'SQ2', since: '2010s' },
-      cymbals: { brand: 'Paiste', since: '1980s' },
+      drums: { brand: 'British Drum Co.', since: '2019' },
+      cymbals: { brand: 'Paiste', model: '2002 & Signature Series', since: '1980s' },
       sticks: { brand: 'Vic Firth', model: 'Nicko McBrain Signature SNM', since: '2000s' },
       heads: { brand: 'Remo', since: '1984' },
-      hardware: { brand: 'DW', model: '5000 Single Pedal', since: '1984' },
+      hardware: { brand: 'unconfirmed', model: 'Single Pedal (not double bass)', since: '1984' },
     },
     timeline: [
       {
@@ -1137,7 +1137,15 @@ export const ENDORSEMENT_TIMELINE = {
         category: ENDORSEMENT_CATEGORIES.DRUMS,
         from: 'Yamaha',
         to: 'Sonor',
-        notes: 'Switched to the Sonor SQ2 signature kit that remains his current setup',
+        notes: 'Switched to the Sonor SQ2 signature kit, used until his 2019 British Drum Co. move',
+      },
+      {
+        year: 2019,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SWITCHED,
+        category: ENDORSEMENT_CATEGORIES.DRUMS,
+        from: 'Sonor',
+        to: 'British Drum Co.',
+        notes: 'Became a British Drum Co. artist; continues to use his Sonor Nicko McBrain Signature 14"x6.5" snare within the BDC kit',
       },
     ],
   },

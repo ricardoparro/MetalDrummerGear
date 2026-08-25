@@ -2879,7 +2879,7 @@ export const ENDORSEMENT_TIMELINE = {
     name: 'Nick Menza',
     band: 'Megadeth',
     currentEndorsements: {
-      drums: { brand: 'Tama', model: 'Tama Artstar', since: '1990' },
+      drums: { brand: 'Pearl', model: 'Reference Custom', since: '1997' },
       cymbals: { brand: 'Sabian', model: 'AA / Signature Series', since: '1997' },
       sticks: { brand: 'Vater', model: 'Vater Nick Menza Signature', since: '1997', signature: true },
       heads: { brand: 'Remo', model: 'Ambassador Coated', since: '1990' },
@@ -2911,12 +2911,36 @@ export const ENDORSEMENT_TIMELINE = {
         notes: 'Switched to Paiste 2002 and Signature cymbals for "Countdown to Extinction" (1992), matching the album\'s more melodic, arena-rock-oriented production without losing thrash-level cut',
       },
       {
+        year: 1992,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SWITCHED,
+        category: ENDORSEMENT_CATEGORIES.DRUMS,
+        from: 'Tama',
+        to: 'Pearl Masters',
+        notes: 'Upgraded to Pearl Masters for "Countdown to Extinction" (1992), seeking a more resonant, powerful sound than the Rust in Peace-era Tama kit',
+      },
+      {
+        year: 1994,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SWITCHED,
+        category: ENDORSEMENT_CATEGORIES.DRUMS,
+        from: 'Pearl Masters',
+        to: 'Pearl Masterworks',
+        notes: 'Moved to Pearl Masterworks for "Youthanasia" (1994), the most premium kit of his career',
+      },
+      {
         year: 1997,
         changeType: ENDORSEMENT_CHANGE_TYPES.SWITCHED,
         category: ENDORSEMENT_CATEGORIES.CYMBALS,
         from: 'Paiste 2002 / Signature',
         to: 'Sabian AA / Signature',
         notes: 'Moved to a Sabian AA and Signature cymbal setup for "Cryptic Writings" (1997) — a brighter, more focused voice paired with Dann Huff\'s contemporary Nashville production on the band\'s final Menza-era record',
+      },
+      {
+        year: 1997,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SWITCHED,
+        category: ENDORSEMENT_CATEGORIES.DRUMS,
+        from: 'Pearl Masterworks',
+        to: 'Pearl Reference Custom',
+        notes: 'Settled on a Pearl Reference Custom setup — his flagship professional tier — for "Cryptic Writings" (1997), his final full studio album with Megadeth',
       },
       {
         year: 1997,
@@ -2927,6 +2951,10 @@ export const ENDORSEMENT_TIMELINE = {
         notes: 'His Vater signature stick model was in regular use by the "Cryptic Writings" (1997) sessions — the closing chapter of his nine-year run behind Megadeth\'s kit',
       },
       {
+        // NOTE: extendedBios.js's Rust in Peace-era gear (1990) lists Hardware as
+        // "DW 5000 double pedal", not Tama Camco — the exact 1990-1997 hardware
+        // lineage (when/if he moved from DW to Tama Camco) is not documented in
+        // extendedBios.js. Not resolving this gap here; flagging rather than guessing.
         year: 1997,
         changeType: ENDORSEMENT_CHANGE_TYPES.SWITCHED,
         category: ENDORSEMENT_CATEGORIES.HARDWARE,

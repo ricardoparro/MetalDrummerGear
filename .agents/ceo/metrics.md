@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-24 19:32 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-25 01:09 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,90 +8,90 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 251 |
-| Sessions | 287 |
-| Page views | 482 |
-| Engagement rate | 63.76% |
-| Avg session (s) | 293 |
+| Active users | 227 |
+| Sessions | 258 |
+| Page views | 392 |
+| Engagement rate | 61.24% |
+| Avg session (s) | 297 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| /drummers | 31 | 4 |
-| / | 17 | 10 |
-| /drummer/joey-jordison | 17 | 8 |
-| /drummer/danny-carey | 15 | 9 |
+| /drummer/joey-jordison | 15 | 6 |
+| /drummer/danny-carey | 12 | 8 |
+| / | 10 | 5 |
 | /drummers/igor-cavalera/evolution | 10 | 4 |
-| /drummer/brann-dailor | 8 | 1 |
-| /drummer/mario-duplantier | 8 | 8 |
+| /drummers | 9 | 3 |
 | /drummers/dave-lombardo/evolution | 8 | 2 |
 | /drummer/daniel-erlandsson | 7 | 1 |
-| /guides | 7 | 3 |
+| /articles/slipknot-self-titled-drum-setup | 6 | 4 |
+| /cymbals/setups/daniel-erlandsson | 6 | 1 |
+| /drummer/ben-koller | 5 | 4 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 206 | 174 |
-| Direct | 63 | 63 |
-| Unassigned | 24 | 21 |
+| Organic Search | 176 | 149 |
+| Direct | 56 | 56 |
+| Unassigned | 30 | 26 |
+| Cross-network | 8 | 8 |
 | Organic Social | 4 | 2 |
 | AI Assistant | 1 | 1 |
-| Cross-network | 1 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 101 | 81 |
-| Brazil | 18 | 17 |
-| Canada | 14 | 12 |
+| United States | 92 | 76 |
+| Brazil | 16 | 15 |
 | Germany | 14 | 13 |
-| United Kingdom | 11 | 10 |
-| France | 10 | 8 |
+| United Kingdom | 13 | 12 |
+| Canada | 11 | 9 |
 | India | 10 | 10 |
-| Argentina | 9 | 9 |
-| Poland | 9 | 8 |
+| Argentina | 9 | 8 |
+| France | 8 | 7 |
 | Australia | 7 | 7 |
+| Poland | 7 | 6 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 6,357 |
-| Clicks | 136 |
-| CTR | 2.14% |
-| Avg position | 9.6 |
+| Impressions | 5,262 |
+| Clicks | 109 |
+| CTR | 2.07% |
+| Avg position | 9.5 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| arin ilejay drum set | 5 | 1 | 20.00% | 5.2 |
-| best metal drummers of all time | 34 | 1 | 2.94% | 7.8 |
+| arin ilejay drum set | 4 | 1 | 25.00% | 4.8 |
+| best metal drummers of all time | 28 | 1 | 3.57% | 7.5 |
 | beste metal drummer | 3 | 1 | 33.33% | 7.3 |
 | deathcore drum kit | 1 | 1 | 100.00% | 4.0 |
-| eloy casagrande drum kit | 15 | 1 | 6.67% | 10.0 |
-| joey jordison drum kit | 57 | 1 | 1.75% | 9.8 |
-| joey jordison drum set 1999 | 2 | 1 | 50.00% | 6.0 |
-| john otto cymbal setup | 3 | 1 | 33.33% | 9.3 |
-| john otto drum kit | 26 | 1 | 3.85% | 5.1 |
-| limp bizkit drum kit | 7 | 1 | 14.29% | 6.9 |
+| eloy casagrande drum kit | 13 | 1 | 7.69% | 10.0 |
+| joey jordison drum kit | 49 | 1 | 2.04% | 10.1 |
+| john otto cymbal setup | 1 | 1 | 100.00% | 8.0 |
+| john otto drum kit | 23 | 1 | 4.35% | 4.9 |
+| limp bizkit drum kit | 4 | 1 | 25.00% | 6.3 |
+| mario duplantier cymbal setup | 1 | 1 | 100.00% | 6.0 |
 
 ### Top countries (impressions, last 7d)
 | Country | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| usa | 2,211 | 59 | 2.67% | 8.9 |
-| can | 298 | 11 | 3.69% | 9.4 |
-| fin | 122 | 6 | 4.92% | 6.4 |
-| fra | 133 | 6 | 4.51% | 7.4 |
-| deu | 236 | 5 | 2.12% | 7.4 |
-| gbr | 375 | 5 | 1.33% | 10.9 |
-| pol | 122 | 5 | 4.10% | 7.0 |
-| aus | 306 | 3 | 0.98% | 8.2 |
-| bel | 55 | 3 | 5.45% | 6.0 |
-| idn | 100 | 3 | 3.00% | 15.6 |
+| usa | 1,803 | 47 | 2.61% | 8.9 |
+| can | 261 | 10 | 3.83% | 9.4 |
+| fra | 118 | 6 | 5.08% | 7.5 |
+| deu | 207 | 5 | 2.42% | 7.4 |
+| fin | 94 | 5 | 5.32% | 6.4 |
+| gbr | 325 | 5 | 1.54% | 11.0 |
+| aus | 252 | 3 | 1.19% | 8.1 |
+| bel | 45 | 3 | 6.67% | 6.0 |
+| idn | 72 | 3 | 4.17% | 14.9 |
+| pol | 96 | 3 | 3.13% | 7.1 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 | Query | Impr | CTR | Pos | Action |
 | --- | --- | --- | --- | --- |
-| joey jordison drum kit | 57 | 1.75% | 9.8 | open issue to answer better |
+| ben koller | 61 | 0.00% | 9.2 | open issue to answer better |
 
 ---
 *Re-run manually: `node .agents/scripts/fetch-metrics.cjs`*

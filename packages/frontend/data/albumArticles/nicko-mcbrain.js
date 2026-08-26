@@ -3551,7 +3551,7 @@ export const articles = {
     "dateModified": "2026-06-27",
     "author": "MetalForge Editorial",
     "title": "Senjutsu Drum Setup: Nicko McBrain's Gear on Iron Maiden's UK #1 Grammy-Nominated 2021 Album",
-    "description": "The complete gear breakdown for Iron Maiden's Senjutsu (2021) — their UK #1, US #3 double album, Grammy-nominated for Best Rock Performance. Discover the Sonor SQ1 drums, Paiste Signature cymbals, and single bass drum technique behind Nicko McBrain's performance on 'The Parchment,' 'Hell on Earth,' and 'The Writing on the Wall.'",
+    "description": "The complete gear breakdown for Iron Maiden's Senjutsu (2021) — their UK #1, US #3 double album, Grammy-nominated for Best Rock Performance. Discover the British Drum Co. drums, Paiste Signature cymbals, and single bass drum technique behind Nicko McBrain's performance on 'The Parchment,' 'Hell on Earth,' and 'The Writing on the Wall.'",
     "seoKeywords": [
       "nicko mcbrain senjutsu drums",
       "iron maiden 2021 drum kit",
@@ -3565,20 +3565,20 @@ export const articles = {
     "peakChart": "#1 UK, #3 US Billboard 200",
     "intro": {
       "title": "UK #1. Grammy Nomination. Iron Maiden's Most Ambitious Album in Six Years.",
-      "content": "Released on September 3, 2021, Senjutsu is Iron Maiden's seventeenth studio album — and one of the most significant releases of their career in the 21st century. Debuting at number one in the UK charts and number three on the US Billboard 200, with 'The Writing on the Wall' earning a Grammy nomination for Best Rock Performance 2022, Senjutsu arrived as confirmation that Iron Maiden at their most ambitious could still command global attention.\n\nRecorded across three weeks in August 2019 at Guillaume Tell Studio in Paris — before the pandemic delayed its release by nearly two years — Senjutsu is a double album of 81 minutes across ten tracks. Six songs exceed seven minutes; 'The Parchment' runs 12:40 and 'Hell on Earth' runs 11:20. This is Iron Maiden at their most expansive: progressive, epic, and demanding the same stamina from Nicko McBrain that 'Rime of the Ancient Mariner' demanded in 1984.\n\nFor Nicko, Senjutsu was his most demanding recording since The Final Frontier (2010). At 67 years old during the Paris sessions, he delivered single-take performances across arrangements that would challenge any drummer regardless of age. Producer Kevin Shirley — who has captured Iron Maiden's modern sound across Brave New World (2000), Dance of Death (2003), A Matter of Life and Death (2006), The Final Frontier (2010), and The Book of Souls (2015) — built a production environment that showcased Nicko's power without obscuring the dynamics of the arrangements.\n\nThe drum gear for Senjutsu reflects Nicko's fully evolved 21st-century setup: Sonor SQ1 drums, Sonor Nicko McBrain Signature snare, Paiste Signature cymbals, Vic Firth Nicko McBrain Signature sticks — and, as in 1983, 1998, and every year between, a single bass drum pedal.",
+      "content": "Released on September 3, 2021, Senjutsu is Iron Maiden's seventeenth studio album — and one of the most significant releases of their career in the 21st century. Debuting at number one in the UK charts and number three on the US Billboard 200, with 'The Writing on the Wall' earning a Grammy nomination for Best Rock Performance 2022, Senjutsu arrived as confirmation that Iron Maiden at their most ambitious could still command global attention.\n\nRecorded across three weeks in August 2019 at Guillaume Tell Studio in Paris — before the pandemic delayed its release by nearly two years — Senjutsu is a double album of 81 minutes across ten tracks. Six songs exceed seven minutes; 'The Parchment' runs 12:40 and 'Hell on Earth' runs 11:20. This is Iron Maiden at their most expansive: progressive, epic, and demanding the same stamina from Nicko McBrain that 'Rime of the Ancient Mariner' demanded in 1984.\n\nFor Nicko, Senjutsu was his most demanding recording since The Final Frontier (2010). At 67 years old during the Paris sessions, he delivered single-take performances across arrangements that would challenge any drummer regardless of age. Producer Kevin Shirley — who has captured Iron Maiden's modern sound across Brave New World (2000), Dance of Death (2003), A Matter of Life and Death (2006), The Final Frontier (2010), and The Book of Souls (2015) — built a production environment that showcased Nicko's power without obscuring the dynamics of the arrangements.\n\nThe drum gear for Senjutsu reflects Nicko's fully evolved 21st-century setup: British Drum Co. drums (with his Sonor Nicko McBrain Signature snare retained within the kit), Paiste Signature cymbals, Vic Firth Nicko McBrain Signature sticks — and, as in 1983, 1998, and every year between, a single bass drum pedal.",
       "keyPoints": [
         "UK #1, US #3 — Iron Maiden's highest US chart position in decades",
         "Grammy nomination: 'The Writing on the Wall,' Best Rock Performance 2022",
         "81-minute double album, 10 tracks — most expansive studio record since The Final Frontier",
         "Recorded August 2019 at Guillaume Tell Studio, Paris — released after a pandemic delay",
-        "Sonor SQ1 drums and Paiste Signature cymbals — Nicko's fully evolved modern setup",
+        "British Drum Co. drums and Paiste Signature cymbals — Nicko's fully evolved modern setup",
         "Six songs exceed seven minutes — Nicko's most demanding long-form session since 2010"
       ]
     },
     "drumKit": {
-      "title": "Nicko McBrain's Sonor SQ1 Setup",
-      "brand": "Sonor",
-      "model": "Sonor SQ1",
+      "title": "Nicko McBrain's British Drum Co. Setup",
+      "brand": "British Drum Co.",
+      "model": "British Drum Co.",
       "finish": "Custom lacquer",
       "config": {
         "bassdrums": [
@@ -3593,16 +3593,16 @@ export const articles = {
           "16\" x 15\" Floor Tom",
           "18\" x 16\" Floor Tom"
         ],
-        "shells": "North American maple shells — warm attack with controlled sustain"
+        "shells": "Birch shells — punch and projection"
       },
-      "description": "Nicko McBrain recorded Senjutsu on a Sonor SQ1 kit — the fully professional, touring-grade configuration that represents his mature setup after decades of evolution from Ludwig through Premier and into the Sonor era. Sonor's German engineering and North American maple shells provided the combination of warmth, attack, and durability that Nicko requires for both studio recording and the extensive live demands of Iron Maiden's world tours.\n\nThe SQ1's maple shells delivered a full, warm sound that sat naturally in Kevin Shirley's production at Guillaume Tell Studio — a recording environment known for its balanced acoustic character and suitability for live-room drum recording. Where some modern metal productions treat drums heavily, Shirley's approach to Maiden since 2000 has captured the natural character of Nicko's kit: dimensional, dynamic, and alive.\n\nThe three-rack-tom configuration (10\", 12\", 13\") continued the expanded setup Nicko had adopted in the 1990s, giving him the melodic fill range that Senjutsu's extended arrangements demand. 'Hell on Earth' and 'The Parchment' — at 11:20 and 12:40 respectively — are full explorations of dynamic range across their complete length, and the three-tom spread gave Nicko the vocabulary to navigate them fully.\n\nThe 22\"x17\" single bass drum was, as ever, the foundation. Senjutsu's heavier tracks — 'Stratego,' 'Lost in a Lost World,' and the galloping passages in 'Death of the Celts' — required the same single-pedal control at demanding tempos that had defined Nicko's technique since Piece of Mind. The Sonor SQ1's bass drum tone was punchy and defined: short attack, controlled resonance, authority without boom.",
+      "description": "Nicko McBrain recorded Senjutsu on a British Drum Co. kit — the setup he moved to in 2019, carrying over the shell depths, bearing edges, and hardware placement he'd refined over decades on Sonor's SQ2 custom program. British Drum Co.'s birch shells provided the combination of attack, projection, and durability that Nicko requires for both studio recording and the extensive live demands of Iron Maiden's world tours.\n\nThe birch shells delivered a punchy, focused sound that sat naturally in Kevin Shirley's production at Guillaume Tell Studio — a recording environment known for its balanced acoustic character and suitability for live-room drum recording. Where some modern metal productions treat drums heavily, Shirley's approach to Maiden since 2000 has captured the natural character of Nicko's kit: dimensional, dynamic, and alive.\n\nThe three-rack-tom configuration (10\", 12\", 13\") continued the expanded setup Nicko had adopted in the 1990s, giving him the melodic fill range that Senjutsu's extended arrangements demand. 'Hell on Earth' and 'The Parchment' — at 11:20 and 12:40 respectively — are full explorations of dynamic range across their complete length, and the three-tom spread gave Nicko the vocabulary to navigate them fully.\n\nThe 22\"x17\" single bass drum was, as ever, the foundation. Senjutsu's heavier tracks — 'Stratego,' 'Lost in a Lost World,' and the galloping passages in 'Death of the Celts' — required the same single-pedal control at demanding tempos that had defined Nicko's technique since Piece of Mind. The British Drum Co. kit's bass drum tone was punchy and defined: short attack, controlled resonance, authority without boom.",
       "notes": [
-        "Sonor SQ1 — German-engineered professional kit with North American maple shells",
+        "British Drum Co. — Nicko's kit brand since 2019, carrying over his refined Sonor SQ2 specifications",
         "Three rack toms (10\", 12\", 13\") for the expansive melodic fill vocabulary of long-form tracks",
         "22\"x17\" single bass drum — no double pedal on the UK #1 album",
-        "Warm maple character complemented Kevin Shirley's natural, dynamic production approach"
+        "Birch shell character complemented Kevin Shirley's natural, dynamic production approach"
       ],
-      "estimatedValue": "$4,500-6,500 (Sonor SQ1 configuration, 2019)"
+      "estimatedValue": "$8,000-15,000 (British Drum Co. configuration)"
     },
     "snare": {
       "title": "The Crack Behind 'Stratego' and 'The Writing on the Wall'",
@@ -3610,7 +3610,7 @@ export const articles = {
       "model": "Sonor Nicko McBrain Signature Snare",
       "size": "14\" x 6.5\"",
       "shell": "Aluminum / brass alloy",
-      "description": "Nicko McBrain's Sonor Nicko McBrain Signature Snare — a 14\"x6.5\" metal-shell drum built to his specific touring and recording requirements — delivered the authoritative crack that cuts through Senjutsu's layered arrangements.\n\nThe 6.5\" depth gives substantial body to the snare sound: more shell, more resonance, more projection than the shallower 5\" Supraphonics of his 1980s recordings. In Kevin Shirley's production environment at Guillaume Tell, this translated into a snare that sat prominently in the mix without requiring heavy treatment — natural, aggressive, and defined.\n\n'Stratego' opens with a driving snare-forward groove that immediately establishes the snare's character on the album: punchy, direct, with a crack that cuts through the guitars. 'The Writing on the Wall' — the Grammy-nominated single — featured Nicko's snare in a more restrained, melodic context, demonstrating the drum's versatility across the album's dynamic range.\n\nThe signature model reflects decades of refinement: Nicko's exact preferences for bearing edge, lug depth, and head tension worked into a factory specification. The result is a snare that reproduces his sound reliably across studio and live contexts.",
+      "description": "Nicko McBrain's Sonor Nicko McBrain Signature Snare — the one Sonor component he retained within his British Drum Co. kit after the 2019 brand switch, a 14\"x6.5\" metal-shell drum built to his specific touring and recording requirements — delivered the authoritative crack that cuts through Senjutsu's layered arrangements.\n\nThe 6.5\" depth gives substantial body to the snare sound: more shell, more resonance, more projection than the shallower 5\" Supraphonics of his 1980s recordings. In Kevin Shirley's production environment at Guillaume Tell, this translated into a snare that sat prominently in the mix without requiring heavy treatment — natural, aggressive, and defined.\n\n'Stratego' opens with a driving snare-forward groove that immediately establishes the snare's character on the album: punchy, direct, with a crack that cuts through the guitars. 'The Writing on the Wall' — the Grammy-nominated single — featured Nicko's snare in a more restrained, melodic context, demonstrating the drum's versatility across the album's dynamic range.\n\nThe signature model reflects decades of refinement: Nicko's exact preferences for bearing edge, lug depth, and head tension worked into a factory specification. The result is a snare that reproduces his sound reliably across studio and live contexts.",
       "tuningSetting": "Medium-high tension for authority and projection",
       "heads": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side",
       "estimatedValue": "$500-750 (Sonor Nicko McBrain Signature)"
@@ -3671,16 +3671,16 @@ export const articles = {
       "items": [
         {
           "type": "Bass Drum Pedal",
-          "brand": "Sonor",
-          "model": "Sonor Single Bass Drum Pedal",
-          "notes": "Single pedal — unchanged since Piece of Mind (1983). The UK #1 album was made with one foot.",
+          "brand": "Unconfirmed",
+          "model": "Single Bass Drum Pedal",
+          "notes": "Brand unconfirmed after the 2019 British Drum Co. switch. Single pedal — unchanged since Piece of Mind (1983). The UK #1 album was made with one foot.",
           "description": "Senjutsu debuted at UK #1 with drumming performed entirely by Nicko McBrain's right foot on a single bass drum pedal. At 67 during the Paris recording sessions, he drove 'Stratego' and 'Lost in a Lost World' with the same single-pedal gallop he had applied to 'Aces High' and 'The Trooper' in 1984. One foot. One pedal. One UK number-one album."
         },
         {
           "type": "Hi-Hat Stand",
-          "brand": "Sonor",
-          "model": "Sonor Heavy-Duty Hi-Hat Stand",
-          "notes": "Solid construction for consistent hi-hat response across extended studio sessions"
+          "brand": "Unconfirmed",
+          "model": "Heavy-Duty Hi-Hat Stand",
+          "notes": "Brand unconfirmed after the 2019 British Drum Co. switch. Solid construction for consistent hi-hat response across extended studio sessions"
         },
         {
           "type": "Throne",

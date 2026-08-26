@@ -1,6 +1,6 @@
 # Motörizer Drum Setup: Mikkey Dee's Gear on Motörhead's 2008 Album
 
-> Discover the exact drum kit, cymbals, and gear Mikkey Dee used on Motörhead's Motörizer (2008) — recorded at Dave Grohl's Studio 606 and the band's highest-charting UK album since 1991. Complete breakdown of the refined Pearl Reference kit and Paiste cymbal setup.
+> Discover the exact drum kit, cymbals, and gear Mikkey Dee used on Motörhead's Motörizer (2008) — recorded at Dave Grohl's Studio 606 and the band's highest-charting UK album since 1991. Complete breakdown of the refined Sonor SQ2 kit and Paiste cymbal setup.
 
 **Type:** Album Drum Setup
 **Drummer(s):** [Mikkey Dee](/llms/drummers/mikkey-dee.md)
@@ -15,30 +15,30 @@ The album became a genuine commercial milestone for a band nearly 35 years into 
 
 Eleven tracks make up *Motörizer*, running a lean 39 minutes — among the tightest, most economical Motörhead records of the 2000s. The track "Rock Out" gained additional visibility as the theme song for WWE's Unforgiven pay-per-view event, putting Mikkey Dee's drumming in front of an audience well outside metal's traditional fanbase. The album also features a guest slide guitar contribution from Wesley Mishener on the bluesy "English Rose," echoing the acoustic detours Dee had navigated on earlier records like *Inferno*'s "Whorehouse Blues."
 
-By 2008, Dee's Pearl Reference Series kit — introduced two years earlier on *Kiss of Death* — had been refined into a more confident, settled setup, expanded with an extra rack tom and road-tested through two full years of touring. This article breaks down the drum kit, cymbals, and hardware behind one of the most commercially successful late-period Motörhead records, and the unusual circumstance of recording drums in a studio built by one of rock's most famous former drummers.
+By 2008, Dee's Sonor SQ2 kit — the same setup he'd played on *Kiss of Death* two years earlier — had been refined into a more confident, settled configuration, expanded with an extra rack tom and road-tested through two full years of touring. This article breaks down the drum kit, cymbals, and hardware behind one of the most commercially successful late-period Motörhead records, and the unusual circumstance of recording drums in a studio built by one of rock's most famous former drummers.
 
 ## Gear Breakdown
 
-- **Drums:** Pearl Pearl Reference Series (Piano black lacquer finish)
-- **Snare:** Pearl Pearl Reference Steel Snare, 14" x 6.5"
+- **Drums:** Sonor Sonor SQ2 (Piano black lacquer finish)
+- **Snare:** Sonor Sonor SQ2 Steel Snare, 14" x 6.5"
 - **Cymbals:** Paiste — Paiste Signature / Paiste 2002
-- **Hardware / Pedals:** Pearl Eliminator; Pearl Reference Hi-Hat Stand; Roc-N-Soc Nitro Throne; Vic Firth 5B
+- **Hardware / Pedals:** DW 5000 Series Double Pedal; Sonor SQ2 Hi-Hat Stand; Roc-N-Soc Nitro Throne; Vic Firth 5B
 - **Heads:** Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium-high tension; captured with more natural room presence than earlier Cameron Webb-produced records
 
-### Pearl Reference Series, Refined: A Settled Sound Two Years In
+### Sonor SQ2, Refined: A Settled Sound Two Years In
 
-By the time Motörhead entered Studio 606 to track *Motörizer*, Mikkey Dee's Pearl Reference Series kit — introduced two years earlier on [*Kiss of Death*](/articles/kiss-of-death-drum-setup) — had settled into a more confident, road-tested configuration. Dee expanded the rack tom setup from three drums to four (adding a 13" alongside the existing 10"/12"/14"), giving him a wider melodic range for fills on an album built around tight, economical songwriting.
+By the time Motörhead entered Studio 606 to track *Motörizer*, Mikkey Dee's Sonor SQ2 kit — the same setup he'd played on [*Kiss of Death*](/articles/kiss-of-death-drum-setup) — had settled into a more confident, road-tested configuration. Dee expanded the rack tom setup from three drums to four (adding a 13" alongside the existing 10"/12"/14"), giving him a wider melodic range for fills on an album built around tight, economical songwriting.
 
-The 22" x 18" bass drum remained unchanged — the same dimension Dee had relied on since his earliest Motörhead years, now delivered through Pearl's fuller-resonating maple/birch shells rather than Tama's punchier construction. Recording at Studio 606, a facility renowned for its natural room sound (built to Dave Grohl's specifications with acoustic input from Foo Fighters' own recording needs), gave Dee's kit an unusually spacious, live-feeling capture compared to the tighter, more compressed drum sound of *Inferno* and *Kiss of Death*.
+The 22" x 18" bass drum remained unchanged — the same dimension Dee had relied on since his earliest Motörhead years, delivered through Sonor's full-resonating birch shells. Recording at Studio 606, a facility renowned for its natural room sound (built to Dave Grohl's specifications with acoustic input from Foo Fighters' own recording needs), gave Dee's kit an unusually spacious, live-feeling capture compared to the tighter, more compressed drum sound of *Inferno* and *Kiss of Death*.
 
-Dee's playing throughout *Motörizer* reflects a drummer fully comfortable with his newer Pearl setup — the transitional uncertainty of breaking in a brand-new kit on *Kiss of Death* two years earlier had given way to complete command. Tracks like "Runaround Man" and "When the Eagle Screams" show Dee pushing tempo and precision simultaneously, confident that his gear would deliver exactly what he asked of it.
+Dee's playing throughout *Motörizer* reflects a drummer fully comfortable with his Sonor SQ2 setup. Tracks like "Runaround Man" and "When the Eagle Screams" show Dee pushing tempo and precision simultaneously, confident that his gear would deliver exactly what he asked of it.
 
 This expanded four-tom configuration would carry forward largely intact into *The Wörld Is Yours* (2010) and *Aftershock* (2013), before Dee added an additional 8" tom for the final *Bad Magic* configuration in 2015.
 
 ### The Steel Snare, Now Fully Broken In
 
-Dee's snare on *Motörizer* was the same Pearl Reference steel model introduced on *Kiss of Death* two years earlier, now fully broken in and dialed to his preferences after extensive touring. The 14" x 6.5" dimensions remained the constant they'd been since *Bastards* — a fifteen-year consistency in Dee's core snare voice across three different drum brands.
+Dee's snare on *Motörizer* was the same Sonor steel model he'd played on *Kiss of Death* two years earlier, now fully broken in and dialed to his preferences after extensive touring. The 14" x 6.5" dimensions remained the constant they'd been since *Bastards* — a fifteen-year consistency in Dee's core snare voice.
 
 Recording at Studio 606 gave the snare a more open, natural room presence than the tighter, closer-miked approach used on *Inferno* and *Kiss of Death*. On "Rock Out" and "Teach You How to Sing the Blues," the snare cracks with an assertive, slightly roomier character that suits the album's leaner, more direct arrangements.
 
@@ -50,7 +50,7 @@ By *Motörizer*, Dee's cymbal setup had shifted decisively toward the Paiste Sig
 
 The move to Signature hi-hats and crashes gave Dee's cymbal sound more overtone complexity and musicality, a natural complement to Studio 606's spacious room capture. On "When the Eagle Screams" and "Heroes," the Signature crashes ring with a fuller, more three-dimensional character than the tighter, more clipped 2002-series crashes heard on *Inferno*.
 
-This was still recognizably the same Paiste artist relationship Dee had maintained since 1987 — just a more mature, refined expression of it, mirroring the confidence he'd developed with his Pearl drums over the preceding two years.
+This was still recognizably the same Paiste artist relationship Dee had maintained since 1987 — just a more mature, refined expression of it, mirroring the confidence he'd developed with his Sonor SQ2 kit over the preceding two years.
 
 ## Key Facts
 
@@ -62,19 +62,19 @@ This was still recognizably the same Paiste artist relationship Dee had maintain
 - Expanded to a four rack tom configuration (10"/12"/13"/14") from the three-tom Kiss of Death setup
 - 22" x 18" bass drum unchanged from Dee's earliest Motörhead configuration
 - Recorded at Studio 606, Dave Grohl's Foo Fighters facility, known for its natural, spacious room sound
-- Second full album on the Pearl Reference Series — a noticeably more settled, confident performance than Kiss of Death
-- Estimated kit value: $3,200–4,800 (2008 professional Pearl Reference configuration)
+- Continued the Sonor SQ2 relationship — a noticeably more settled, confident performance than Kiss of Death
+- Estimated kit value: $3,200–4,800 (2008 professional Sonor SQ2 configuration)
 - Estimated snare value: $350–550 (2008)
 
 ## Frequently Asked Questions
 
 **Q: What drums did Mikkey Dee use on Motörizer?**
 
-A: On *Motörizer* (2008), Mikkey Dee played the same Pearl Reference Series kit he'd introduced on [*Kiss of Death*](/articles/kiss-of-death-drum-setup) two years earlier, now expanded to a four rack tom configuration (10", 12", 13", 14") alongside the same 22" x 18" bass drum and 16" floor tom. The kit was recorded at Studio 606, Dave Grohl's Foo Fighters facility in Northridge, California, which gave the drums a more natural, spacious room sound than earlier Cameron Webb-produced Motörhead albums. See the [Mikkey Dee drummer profile](/drummer/mikkey-dee) for his complete gear history.
+A: On *Motörizer* (2008), Mikkey Dee played the same Sonor SQ2 kit he'd played on [*Kiss of Death*](/articles/kiss-of-death-drum-setup) two years earlier, now expanded to a four rack tom configuration (10", 12", 13", 14") alongside the same 22" x 18" bass drum and 16" floor tom. The kit was recorded at Studio 606, Dave Grohl's Foo Fighters facility in Northridge, California, which gave the drums a more natural, spacious room sound than earlier Cameron Webb-produced Motörhead albums. See the [Mikkey Dee drummer profile](/drummer/mikkey-dee) for his complete gear history.
 
 **Q: Why was Motörizer recorded at Dave Grohl's studio?**
 
-A: *Motörizer*'s drum tracks were recorded at Studio 606, the Northridge, California facility built by Foo Fighters frontman and former Nirvana drummer Dave Grohl. The studio was designed with an emphasis on capturing natural, powerful drum sounds, which producer Cameron Webb used to give Mikkey Dee's Pearl Reference kit a more open, live-feeling character than the tighter production of [*Inferno*](/articles/inferno-drum-setup) and [*Kiss of Death*](/articles/kiss-of-death-drum-setup). Mixing was completed separately at Sage and Sound in Los Angeles.
+A: *Motörizer*'s drum tracks were recorded at Studio 606, the Northridge, California facility built by Foo Fighters frontman and former Nirvana drummer Dave Grohl. The studio was designed with an emphasis on capturing natural, powerful drum sounds, which producer Cameron Webb used to give Mikkey Dee's Sonor SQ2 kit a more open, live-feeling character than the tighter production of [*Inferno*](/articles/inferno-drum-setup) and [*Kiss of Death*](/articles/kiss-of-death-drum-setup). Mixing was completed separately at Sage and Sound in Los Angeles.
 
 **Q: How did Motörizer perform on the charts?**
 
@@ -88,4 +88,4 @@ A: By *Motörizer*, Mikkey Dee's cymbal setup had shifted almost entirely to the
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-08-26 · Source: [MetalForge.io](https://metalforge.io)*

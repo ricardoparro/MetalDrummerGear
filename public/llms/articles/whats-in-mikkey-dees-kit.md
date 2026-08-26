@@ -1,6 +1,6 @@
 # What's In Mikkey Dee's Motörhead/Scorpions Arsenal: 23 Years Behind Rock's Loudest Band
 
-> Explore Mikkey Dee's legendary drum setup — from 23 years powering Motörhead with Lemmy to his current role with Scorpions. Complete gear breakdown of the Swedish powerhouse's Yamaha kit, Zildjian cymbals, and signature techniques.
+> Explore Mikkey Dee's legendary drum setup — from 23 years powering Motörhead with Lemmy to his current role with Scorpions. Complete gear breakdown of the Swedish powerhouse's Sonor kit, Paiste cymbals, and signature techniques.
 
 **Type:** Kit Breakdown
 **Drummer(s):** [Mikkey Dee](/llms/drummers/mikkey-dee.md)
@@ -23,44 +23,44 @@ This article breaks down the gear that's powered decades of thunderous rock drum
 
 ## Gear Breakdown
 
-- **Drums:** Yamaha Yamaha Recording Custom / Oak Custom (Custom finishes (often black or natural) finish)
-- **Snare:** Yamaha Yamaha Recording Custom Aluminum / Brass, 14" x 6.5"
-- **Cymbals:** Zildjian — Zildjian A Custom / K Custom
-- **Hardware / Pedals:** Yamaha FP9 / Flying Dragon; Yamaha HS1200; Roc-N-Soc Nitro; Vic Firth 2B or Custom
-- **Heads:** Remo Ambassador Coated / Emperor X
+- **Drums:** Sonor Sonor SQ2 (Custom finishes (often black hardware live) finish)
+- **Snare:** Sonor Sonor Mikkey Dee Signature, 14" x 7.25"
+- **Cymbals:** Paiste — Paiste Signature Series
+- **Hardware / Pedals:** DW 5000 Series Double Pedal; Sonor Hardware; Roc-N-Soc Nitro; Wincent Mikkey Dee Signature (W-MDS)
+- **Heads:** Remo Ambassador Coated / Evans G2
 - **Snare tuning:** Medium-high for maximum crack and cut
 
-### Yamaha Power: The Foundation of Thunder
+### Sonor Power: The Foundation of Thunder
 
-Mikkey Dee's Yamaha drums are built for one purpose: delivering crushing power night after night on world tours. His choice of Yamaha reflects his priorities — durability, consistency, and massive low-end punch.
+Mikkey Dee's Sonor drums are built for one purpose: delivering crushing power night after night on world tours. His choice of Sonor reflects his priorities — durability, consistency, and massive low-end punch — and dates back to an endorsement he picked up during his King Diamond days in the late 1980s, well before Motörhead.
 
 **The Bass Drum Philosophy:**
-Unlike many modern metal drummers who favor double bass drum setups with smaller kicks, Mikkey uses a single 24" bass drum. This massive drum delivers the chest-thumping low end that defined Motörhead's live sound. Even when using a double pedal, Mikkey often preferred one large kick to two smaller ones — the resonance and power are simply different.
+Mikkey's configuration emphasizes floor toms over rack toms — two floor toms (14" and 16") against just two or three smaller rack toms — reflecting a fill vocabulary built around low-frequency weight. A 22" bass drum (dual kick when double bass runs demand it) delivers the chest-thumping low end that defined Motörhead's live sound.
 
-**Recording Custom vs Oak Custom:**
-The Yamaha Recording Custom series (birch shells) has been Mikkey's primary choice for studio work, prized for its focused attack and clear tone. For live work and particularly punishing tours, he's also used the Oak Custom series, which offers even more volume and durability. Oak's density makes it virtually indestructible — essential for Mikkey's aggressive playing style.
+**Sonor SQ2 Custom-Build:**
+The Sonor SQ2 series (birch shells) has been Mikkey's kit of choice since the King Diamond era, prized for its punchy, focused attack and rock-solid hardware. The custom-build program let him dial in exactly the shell depths and hardware configuration his touring schedule demanded — essential for a drummer who has barely stopped touring since 1988.
 
 **The Motörhead Setup:**
-With Motörhead, Mikkey typically used a five-piece configuration: 24" kick, 10"/12"/13" rack toms, and dual floor toms (16" and 18"). This setup provided the tonal range to deliver both delicate passages (yes, Motörhead had them) and the devastating power the band was known for.
+With Motörhead, Mikkey typically used a configuration built around a 22" kick, multiple rack toms, and dual floor toms. This setup provided the tonal range to deliver both delicate passages (yes, Motörhead had them) and the devastating power the band was known for.
 
 **The Scorpions Configuration:**
-With Scorpions, Mikkey has adapted his setup slightly for the band's more melodic rock approach, but the foundation remains: massive bass drum, multiple toms for dynamic fills, and floor toms that shake venues. The Scorpions' arena rock requires projection, and Yamaha delivers.
+With Scorpions, Mikkey has adapted his setup slightly for the band's more melodic rock approach, but the foundation remains the same Sonor SQ2 platform that's defined his sound for nearly four decades. The Scorpions' arena rock requires projection, and Sonor delivers.
 
 **Shell Selection:**
-Mikkey prefers thicker shells for maximum volume and projection. His drums are built to cut through walls of Marshall amplifiers — a necessity when playing next to Lemmy's legendary stage volume or Scorpions' wall-of-sound production.
+Mikkey prefers Sonor's birch shells for maximum volume and projection. His drums are built to cut through walls of Marshall amplifiers — a necessity when playing next to Lemmy's legendary stage volume or Scorpions' wall-of-sound production.
 
 ### The Crack That Cuts Through Chaos
 
-Mikkey Dee's snare drum sound is unmistakable — a crisp, powerful crack that cuts through even the loudest stage mix. His preference for deep metal-shell snares delivers the attack and projection needed to compete with Motörhead's legendary volume.
+Mikkey Dee's snare drum sound is unmistakable — a deep, powerful crack that cuts through even the loudest stage mix. Sonor released his signature 14"x7.25" birch snare in 2012, and its extra-deep shell has defined his sound across Motörhead's final era and his ongoing run with Scorpions.
 
-**The Metal Shell Choice:**
-While many rock drummers favor wood snares for warmth, Mikkey gravitates toward metal shells — aluminum and brass being his primary choices. Metal shells offer brightness, cutting power, and sensitivity that work perfectly for his style. The 6.5" depth provides body without sacrificing the crack.
+**The Deep Shell Choice:**
+While many rock drummers favor shallower snares for a quicker attack, Mikkey's signature model runs 7.25" deep — well beyond the standard 5.5"-6.5" range. The extra depth adds substantial low-mid body to his backbeat, giving it weight alongside the crack.
 
-**Yamaha Recording Custom Aluminum:**
-This snare has been Mikkey's go-to for years. The seamless aluminum shell produces a bright, articulate sound with excellent sensitivity for ghost notes while delivering devastating rimshots. The Recording Custom hardware is robust enough for his aggressive playing.
+**Sonor Mikkey Dee Signature:**
+This snare has been Mikkey's go-to since its 2012 release. The birch shell produces a full, articulate sound with excellent sensitivity for ghost notes while delivering devastating rimshots. Sonor's hardware is robust enough for his aggressive playing.
 
-**Brass for Maximum Cut:**
-For situations requiring even more cut, Mikkey has used brass snares. Brass delivers more overtones and sustain than aluminum, projecting across large venues without becoming harsh.
+**Before the Signature Model:**
+Earlier in his career — through the King Diamond years and into Motörhead — Mikkey played a shallower birch Sonor snare. The 2012 signature model deepened the shell to add more low-mid weight without sacrificing the crack.
 
 **Tuning Philosophy:**
 Mikkey tunes his snare on the higher side of medium — tight enough for a clear crack on every stroke but not so high that it loses body. This tuning survives aggressive playing while maintaining musicality. With Lemmy's bass often occupying the low-mid frequencies, Mikkey's snare needed to live in its own sonic space.
@@ -68,24 +68,24 @@ Mikkey tunes his snare on the higher side of medium — tight enough for a clear
 **The Motörhead Challenge:**
 Playing snare drums next to Lemmy's bass rig was a unique challenge. The stage volume was legendary — often described as a physical assault. Mikkey's snare setup was specifically designed to cut through this sonic mayhem, and it succeeded night after night.
 
-### Zildjian Power
+### Paiste Power
 
-Mikkey Dee's Zildjian cymbal setup is built for one thing: cutting through the loudest rock bands in history. His selection emphasizes projection, durability, and the ability to be heard over walls of amplifiers.
+Mikkey Dee's Paiste cymbal setup is built for one thing: cutting through the loudest rock bands in history. He's been a Paiste artist since April 1987 — an endorsement that predates Motörhead and has followed him through King Diamond, Motörhead, and now Scorpions.
 
-**The 15" Hi-Hat Choice:**
-While most drummers use 14" hi-hats, Mikkey prefers 15" New Beats. The extra inch provides more body and volume — essential when playing next to Lemmy's bass stack. The heavier bottom cymbal keeps the hi-hats stable during aggressive playing while the top cymbal provides articulation.
+**The Sound Edge Hi-Hat Choice:**
+Mikkey's Sound Edge hi-hats provide a tight, driving character essential for locking in with a loud rock rhythm section. The serrated edge design keeps the hats articulate and stable during aggressive playing while giving the top cymbal extra bite.
 
-**A Custom Series:**
-Zildjian's A Custom line is Mikkey's primary choice. These cymbals offer brightness and projection with enough musicality for melodic passages. The series was designed for rock and metal applications — perfect for Motörhead's raw power and Scorpions' arena rock.
+**Signature Series:**
+Paiste's Signature line is Mikkey's primary choice. These cymbals offer brightness and projection with enough musicality for melodic passages. The series works equally well for Motörhead's raw power and Scorpions' arena rock.
 
-**Multiple Crash Sizes:**
-Mikkey uses various crash sizes (18", 19", 20") for dynamic range. Smaller crashes for quick accents, larger crashes for dramatic moments and song endings. This variety gives him options without overwhelming the mix with constant huge crashes.
+**Power Crashes:**
+Mikkey uses 19" and 20" Power Crashes for dynamic range across large stages — enough sustain and volume to register in the biggest rooms without overwhelming the mix with constant huge crashes.
 
-**The 22" Ride:**
+**The 22" Power Ride:**
 A large ride cymbal provides a clear bell and enough body for crash-riding — essential for rock drumming. Mikkey uses the bell extensively for accents, a technique that became part of Motörhead's signature sound.
 
 **Durability:**
-Playing at Motörhead volumes meant destroying cymbals faster than most drummers. Mikkey's choices reflect this — he needs cymbals that can survive aggressive playing night after night. Zildjian's professional series has the durability required.
+Playing at Motörhead volumes meant destroying cymbals faster than most drummers. Mikkey's choices reflect this — he needs cymbals that can survive aggressive playing night after night. Paiste's professional Signature series has the durability required.
 
 ## Key Facts
 
@@ -95,30 +95,30 @@ Playing at Motörhead volumes meant destroying cymbals faster than most drummers
 - Recorded 12 studio albums with Motörhead
 - Joined Scorpions in 2016 — still touring at 62
 - Previous work with King Diamond showcased technical range
-- 24" bass drum delivers chest-thumping power
-- Birch Recording Custom for studio work
-- Oak Custom for maximum durability on tour
+- 22" bass drum (dual kick for double bass runs) delivers chest-thumping power
+- Sonor SQ2 birch shells since his King Diamond days
+- Floor-tom-forward voicing for low-frequency fill weight
 - Thicker shells for projection through loud stage volumes
-- Single kick philosophy despite occasional double pedal use
-- Estimated kit value: $4,000-7,000 (professional Yamaha kits)
-- Estimated snare value: $500-800 (professional metal snares)
+- Same Sonor endorsement carried from King Diamond through Motörhead into Scorpions
+- Estimated kit value: $4,000-7,000 (professional Sonor SQ2 kits)
+- Estimated snare value: $500-800 (professional deep-shell birch snares)
 
 ## Frequently Asked Questions
 
 **Q: What drum kit does Mikkey Dee use with Motörhead and Scorpions?**
 
-A: Mikkey Dee plays Yamaha Recording Custom and Oak Custom kits. His setup features a large 24x18 inch bass drum, rack toms in 10, 12, and 13 inch sizes, and 16 and 18 inch floor toms. The Recording Custom uses birch shells for a tight, punchy sound, while the Oak Custom variant adds warmth and low-end depth. The large bass drum is central to his powerful, driving style suited to hard rock and heavy metal.
+A: Mikkey Dee plays a Sonor SQ2 custom-build kit — an endorsement dating back to his King Diamond days in the late 1980s. His setup features a 22 inch bass drum (dual kick for double bass runs), rack toms, and floor toms in 14 and 16 inch sizes. The SQ2's birch shells deliver a tight, punchy sound with the low-end depth central to his powerful, driving style suited to hard rock and heavy metal.
 
 **Q: What cymbals does Mikkey Dee use with Motörhead and Scorpions?**
 
-A: Mikkey Dee plays Zildjian A Custom and K Custom cymbals. His setup includes 15 inch A New Beat hi-hats, A Custom crashes in 18 and 20 inch sizes, a 22 inch A Custom Medium Ride, an 18 inch A Custom China, and a 10 inch A Custom splash. The A Custom series provides the bright, articulate response that cuts through the high-volume environments typical of Motörhead and Scorpions performances.
+A: Mikkey Dee plays Paiste Signature Series cymbals — he's been a Paiste artist since April 1987. His setup includes 14 inch Sound Edge hi-hats, Power Crashes in 19 and 20 inch sizes, a 22 inch Power Ride, and an 18 inch Heavy China. The Signature Series provides the bright, articulate response that cuts through the high-volume environments typical of Motörhead and Scorpions performances.
 
 **Q: How much does Mikkey Dee's drum kit cost?**
 
-A: A Yamaha Recording Custom shell pack in Mikkey Dee's configuration currently retails between $4,000 and $7,000 depending on finish and configuration. The Yamaha Recording Custom Aluminum or Brass snare adds $500 to $800. A matching Zildjian A Custom and K Custom cymbal package can bring the total investment to $10,000 to $14,000, making it a serious professional setup appropriate for touring and studio work.
+A: A Sonor SQ2 custom-build shell pack in Mikkey Dee's configuration currently retails between $4,000 and $7,000 depending on finish and configuration. His Sonor Mikkey Dee Signature snare adds $500 to $800. A matching Paiste Signature Series cymbal package can bring the total investment to $10,000 to $14,000, making it a serious professional setup appropriate for touring and studio work.
 
 **Source:** https://metalforge.io/articles/whats-in-mikkey-dees-kit
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-08-26 · Source: [MetalForge.io](https://metalforge.io)*

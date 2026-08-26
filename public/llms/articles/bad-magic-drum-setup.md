@@ -1,6 +1,6 @@
 # Bad Magic Drum Setup: Mikkey Dee's Gear on Motörhead's Final Album
 
-> Discover the exact drum kit, cymbals, and gear Mikkey Dee used on Motörhead's Bad Magic (2015) — the band's final studio album, released four months before Lemmy Kilmister's death. Complete breakdown of the Pearl Reference kit, Zildjian cymbals, and the closing chapter of a 23-year partnership.
+> Discover the exact drum kit, cymbals, and gear Mikkey Dee used on Motörhead's Bad Magic (2015) — the band's final studio album, released four months before Lemmy Kilmister's death. Complete breakdown of the Sonor SQ2 kit, Paiste Signature cymbals, and the closing chapter of a 23-year partnership.
 
 **Type:** Album Drum Setup
 **Drummer(s):** [Mikkey Dee](/llms/drummers/mikkey-dee.md)
@@ -15,40 +15,40 @@ Recorded at NRG Studios in North Hollywood with longtime producer Cameron Webb �
 
 The album carried real commercial weight for a band 40 years into its career, charting at UK #10 and debuting on the Billboard 200 in the US. "Thunder & Lightning" became closely associated with a Grammy Award for Best Metal Performance — recognition that arrived only weeks before Lemmy's passing and closed out the Dee/Motörhead partnership on its highest note.
 
-This article breaks down the Pearl Reference kit, Zildjian cymbals, and Vic Firth signature sticks that powered Dee's performance on Motörhead's swan song — the gear behind the final entry in one of metal's most storied drummer/band relationships.
+This article breaks down the Sonor SQ2 kit, Paiste Signature cymbals, and Vic Firth signature sticks that powered Dee's performance on Motörhead's swan song — the gear behind the final entry in one of metal's most storied drummer/band relationships.
 
 ## Gear Breakdown
 
-- **Drums:** Pearl Pearl Reference Series (Piano black lacquer finish)
-- **Snare:** Pearl Pearl Free-Floating Steel Snare, 14" x 6.5"
-- **Cymbals:** Zildjian — Zildjian A Custom / K Custom Dark
-- **Hardware / Pedals:** Pearl Demon Drive; Pearl Reference Hi-Hat Stand; Roc-N-Soc Nitro Throne; Vic Firth Mikkey Dee Signature
+- **Drums:** Sonor Sonor SQ2 (Piano black lacquer finish)
+- **Snare:** Sonor Sonor Mikkey Dee Signature Snare, 14" x 7.25"
+- **Cymbals:** Paiste — Paiste Signature Series
+- **Hardware / Pedals:** DW 5000 Series Double Pedal; Sonor SQ2 Hi-Hat Stand; Roc-N-Soc Nitro Throne; Vic Firth Mikkey Dee Signature
 - **Heads:** Evans G2 Coated (batter), Evans Snare Side 300 (resonant)
 - **Snare tuning:** Medium-high tension for maximum crack and cut
 
-### Pearl Reference at Its Most Refined: Dee's Final Motörhead Kit
+### Sonor SQ2 at Its Most Refined: Dee's Final Motörhead Kit
 
-By the time Motörhead entered NRG Studios to track *Bad Magic*, Mikkey Dee's Pearl Reference Series setup had been his primary kit for nearly a decade — refined across *Kiss of Death* (2006), *Motörizer* (2008), *The Wörld Is Yours* (2010), and *Aftershock* (2013). The maple/birch hybrid shells were chosen specifically for the fuller low-mid resonance that arena and festival stages demanded as Motörhead's shows grew larger in scale.
+By the time Motörhead entered NRG Studios to track *Bad Magic*, Mikkey Dee's Sonor SQ2 setup — an endorsement dating back to his King Diamond days — had long been his kit of choice, carried through *Kiss of Death* (2006), *Motörizer* (2008), *The Wörld Is Yours* (2010), and *Aftershock* (2013). The birch shells were chosen specifically for the fuller low-mid resonance that arena and festival stages demanded as Motörhead's shows grew larger in scale.
 
-The 22" x 18" bass drum remained the foundation, delivering the same focused low-end punch Dee had relied on since his Tama days on *Bastards* — proof that his fundamental drum voice never changed even as the hardware evolved. Paired with the Pearl Demon Drive direct-drive pedal, the kick response on *Bad Magic* is noticeably tighter and more immediate than the chain-drive era of the 1990s.
+The 22" x 18" bass drum remained the foundation, delivering the same focused low-end punch Dee had relied on for decades — proof that his fundamental drum voice never changed even as the touring rigs grew bigger. Paired with his longtime DW 5000 Series double pedal, the kick response on *Bad Magic* is tight and immediate.
 
 The expanded tom configuration — an added 8" rack tom alongside the familiar 10"/12"/14" set and a single 16" floor tom — gave Dee more melodic range for fills without cluttering the kit's visual footprint on Motörhead's increasingly elaborate stage productions.
 
-Listening to *Bad Magic* against *Bastards* is a study in continuity: the same aggressive placement philosophy, the same commitment to serving the song over displaying technique, now delivered through Pearl's most polished professional platform. It's the sound of a drummer who spent 23 years finding exactly what worked and never stopped refining it.
+Listening to *Bad Magic* against *Bastards* is a study in continuity: the same aggressive placement philosophy, the same commitment to serving the song over displaying technique, now delivered through Sonor's most polished professional platform. It's the sound of a drummer who spent 23 years finding exactly what worked and never stopped refining it.
 
-### Free-Floating Steel: The Snare That Closed Out an Era
+### Signature Snare: The Sound That Closed Out an Era
 
-The snare crack on *Bad Magic* carries the same DNA as Dee's steel-shell preference dating back to *Bastards* — bright, cutting, built to slice through Motörhead's wall-of-amplifiers stage volume. The Pearl Free-Floating design isolates the shell from the rim and lugs, allowing it to resonate freely without hardware choking the tone.
+The snare crack on *Bad Magic* carries the same DNA as Dee's steel-shell preference dating back to *Bastards* — bright, cutting, built to slice through Motörhead's wall-of-amplifiers stage volume. By this point in his career Dee was playing his own Sonor Mikkey Dee Signature snare, released in 2012, built on his longtime Sonor SQ2 endorsement.
 
-At 14" x 6.5", the dimensions match almost exactly what Dee used more than two decades earlier on his Motörhead debut — a reminder that his core sonic priorities never shifted even as the brand changed from Tama to Pearl. The free-floating steel shell delivers extra sensitivity for ghost notes alongside a sharper, more explosive backbeat than a lugged shell of the same dimensions.
+At 14" x 7.25", the deeper birch shell gives extra low-end body and punch compared to the steel snares of his earlier Motörhead years — a reminder that his core sonic priorities never shifted even as his signature gear evolved. The design delivers extra sensitivity for ghost notes alongside a sharper, more explosive backbeat.
 
 On *Bad Magic*, the snare sits high in the mix on tracks like "Victory or Die" and "Thunder & Lightning," cutting cleanly through Phil Campbell's guitar and Lemmy's mid-heavy Rickenbacker bass tone — the same frequency-carving challenge Dee solved on every Motörhead record he ever played.
 
-### Zildjian A Custom / K Custom Dark: Cutting Through the Final Sessions
+### Paiste Signature Series: Cutting Through the Final Sessions
 
-By *Bad Magic*, Dee had long since moved from the Paiste cymbals of his *Bastards* debut to a Zildjian setup blending the bright A Custom series with the darker K Custom Dark line — a combination that gave him both cutting projection and tonal complexity for Motörhead's final record.
+By *Bad Magic*, Dee's Paiste cymbal setup — an artist relationship dating back to April 1987, before he'd even joined Motörhead — had expanded within the Signature Series into a larger, more complex configuration than his *Bastards* debut: fuller crashes plus a wider 21" ride for extra tonal depth.
 
-The A Custom hi-hats and crashes provided the brightness needed to stay audible against Phil Campbell's guitar wall, while the 21" K Custom Dark ride added a darker, more textured wash for the album's slower, heavier tracks like "The Devil" and "Evil Eye." This blend — bright where the band needed cut, dark where it needed weight — reflects the same problem-solving instinct Dee had applied to his Paiste choices on *Bastards* more than two decades earlier.
+The Sound Edge hi-hats and crashes provided the brightness needed to stay audible against Phil Campbell's guitar wall, while the 21" ride added a fuller, more textured wash for the album's slower, heavier tracks like "The Devil" and "Evil Eye." This expanded Signature Series configuration reflects the same problem-solving instinct Dee had applied to his cymbal choices on *Bastards* more than two decades earlier — just scaled up for larger stages.
 
 The 19" China cymbal handled the same role it always had in Dee's setup: a sparingly-used trash accent reserved for genuine climactic moments rather than constant texture, closing out a cymbal philosophy that stayed remarkably consistent across his entire Motörhead tenure.
 
@@ -58,11 +58,11 @@ The 19" China cymbal handled the same role it always had in Dee's setup: a spari
 - Lemmy Kilmister died December 28, 2015 — four months after release
 - Closes Mikkey Dee's 23-year Motörhead tenure, which began on *Bastards* (1993)
 - "Thunder & Lightning" — closely tied to a Best Metal Performance Grammy recognition for the band
-- Pearl Reference Series was Dee's primary kit for the entire 2006–2015 late-Motörhead era
-- 22" x 18" bass drum kept the same focused punch as his 1993 Tama setup
+- Sonor SQ2 was Dee's kit throughout the 2006–2015 late-Motörhead era, an endorsement dating back to his King Diamond days
+- 22" x 18" bass drum kept the same focused punch he'd relied on for decades
 - Added 8" rack tom gave more fill options on the band's final record
-- Pearl Demon Drive direct-drive pedal replaced the chain-drive pedals of his early years
-- Estimated kit value: $3,500–5,500 (2015 professional Pearl Reference configuration)
+- DW 5000 Series double pedal delivered consistent, reliable kick response throughout his Motörhead tenure
+- Estimated kit value: $3,500–5,500 (2015 professional Sonor SQ2 configuration)
 - Estimated snare value: $350–550 (2015)
 
 ## Frequently Asked Questions
@@ -73,7 +73,7 @@ A: Yes. *Bad Magic*, released August 28, 2015, is Motörhead's twenty-second and
 
 **Q: What drums and cymbals did Mikkey Dee use on Bad Magic?**
 
-A: On *Bad Magic* (2015), Mikkey Dee used a Pearl Reference Series kit with a 22" x 18" bass drum, an 8"/10"/12"/14" rack tom configuration, and a 16" floor tom, paired with a Pearl Free-Floating steel snare (14" x 6.5"). His cymbal setup combined Zildjian A Custom (hi-hats and crashes) with a K Custom Dark ride for extra tonal depth, plus a 19" China for accents. He played Pearl's Demon Drive direct-drive pedal and used his own Vic Firth Mikkey Dee signature sticks. For his full gear evolution across four decades, see [What's In Mikkey Dee's Kit](/articles/whats-in-mikkey-dees-kit).
+A: On *Bad Magic* (2015), Mikkey Dee used a Sonor SQ2 kit with a 22" x 18" bass drum, an 8"/10"/12"/14" rack tom configuration, and a 16" floor tom, paired with his Sonor Mikkey Dee Signature snare (14" x 7.25"). His cymbal setup used the Paiste Signature Series (Sound Edge hi-hats and Full Crashes) with a 21" Full Ride for extra tonal depth, plus a 19" China for accents. He played a DW 5000 Series double pedal and used his own Vic Firth Mikkey Dee signature sticks. For his full gear evolution across four decades, see [What's In Mikkey Dee's Kit](/articles/whats-in-mikkey-dees-kit).
 
 **Q: Did Motörhead win a Grammy for Bad Magic?**
 
@@ -81,14 +81,14 @@ A: "Thunder & Lightning," from *Bad Magic*, is closely associated with a Grammy 
 
 **Q: How did Mikkey Dee's gear change between Bastards (1993) and Bad Magic (2015)?**
 
-A: Across 23 years, Dee moved from Tama Artstar II/Swingstar drums and Paiste Giant Beat/2002 cymbals on [*Bastards*](/articles/bastards-drum-setup) to a Pearl Reference Series kit with Zildjian A Custom/K Custom Dark cymbals by *Bad Magic*. The fundamentals stayed constant — a 22" bass drum, a 14" x 6.5" steel snare, and a bright-cymbal-plus-China setup — but the hardware became more refined and arena-ready as Motörhead's stages grew larger. See the [full evolution breakdown](/articles/whats-in-mikkey-dees-kit) for the complete gear timeline.
+A: Across 23 years, Dee moved from Tama Artstar II/Swingstar drums on [*Bastards*](/articles/bastards-drum-setup) to his longtime Sonor SQ2 kit — an endorsement dating back to his King Diamond days — by *Bad Magic*, while his Paiste cymbal endorsement — dating back to 1987 — continued throughout, expanding from the Giant Beat/2002 blend heard on *Bastards* to the fuller Signature Series configuration used here. The fundamentals stayed constant — a 22" bass drum and a bright-cymbal-plus-China setup — while a Sonor Mikkey Dee Signature snare, released in 2012, replaced his earlier steel snares. The hardware became more refined and arena-ready as Motörhead's stages grew larger. See the [full evolution breakdown](/articles/whats-in-mikkey-dees-kit) for the complete gear timeline.
 
 **Q: What is the complete Mikkey Dee / Motörhead album arc, from debut to Bad Magic?**
 
-A: Mikkey Dee's Motörhead studio discography runs, in order: [*Bastards*](/articles/bastards-drum-setup) (1993) → [*Sacrifice*](/articles/sacrifice-drum-setup) (1995) → [*Overnight Sensation*](/articles/overnight-sensation-drum-setup) (1996) → [*Inferno*](/articles/inferno-drum-setup) (2004) → [*Kiss of Death*](/articles/kiss-of-death-drum-setup) (2006) → [*Motörizer*](/articles/motorizer-drum-setup) (2008) → [*The Wörld Is Yours*](/articles/the-world-is-yours-drum-setup) (2010) → [*Aftershock*](/articles/aftershock-drum-setup) (2013) → *Bad Magic* (2015). *Bad Magic* closes the arc: the Tama/Paiste setup that opened it on *Bastards* gave way to the Pearl Reference/Zildjian configuration finalized on *Aftershock*, which then carried unchanged into this final record. See the [Mikkey Dee drummer profile](/drummer/mikkey-dee) for the complete career picture, including his later Scorpions years.
+A: Mikkey Dee's Motörhead studio discography runs, in order: [*Bastards*](/articles/bastards-drum-setup) (1993) → [*Sacrifice*](/articles/sacrifice-drum-setup) (1995) → [*Overnight Sensation*](/articles/overnight-sensation-drum-setup) (1996) → [*Inferno*](/articles/inferno-drum-setup) (2004) → [*Kiss of Death*](/articles/kiss-of-death-drum-setup) (2006) → [*Motörizer*](/articles/motorizer-drum-setup) (2008) → [*The Wörld Is Yours*](/articles/the-world-is-yours-drum-setup) (2010) → [*Aftershock*](/articles/aftershock-drum-setup) (2013) → *Bad Magic* (2015). *Bad Magic* closes the arc: Dee's Sonor SQ2 kit, refined into the configuration finalized on *Aftershock*, carried unchanged into this final record, while the Paiste cymbal endorsement ran continuously throughout. See the [Mikkey Dee drummer profile](/drummer/mikkey-dee) for the complete career picture, including his later Scorpions years.
 
 **Source:** https://metalforge.io/articles/bad-magic-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-08-26 · Source: [MetalForge.io](https://metalforge.io)*

@@ -26,7 +26,7 @@ Mikkey Dee's playing on *Inferno* still carried the Tama-era foundation establis
 - **Heads:** Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium-high tension for maximum crack and cut through a dense guitar mix
 
-### Tama Power, Late-Era: Dee's Kit Before the Pearl Switch
+### Tama Power, Late-Era: Dee's Kit Before the Sonor Switch
 
 On *Inferno*, Mikkey Dee was still playing Tama drums — the brand he'd relied on since joining Motörhead in 1992 — though by 2004 his kit had evolved from the Artstar II/Swingstar series of the *Bastards* era to the more refined Starclassic line. The core configuration stayed close to what had worked for over a decade: a focused 22" bass drum, three rack toms, and dual floor toms.
 
@@ -34,7 +34,7 @@ The Starclassic's maple/birch hybrid shell construction gave Dee's drums a punch
 
 Dee's kick technique on *Inferno* remained rooted in precision over raw speed. Tracks like "Killers" demand a driving, high-tempo pulse, and Dee delivers it with the same placement-first philosophy that defined his *Bastards* performance — every stroke landing exactly where the song needs it, never rushing ahead of Lemmy's bass.
 
-This would prove to be one of Dee's final studio albums on Tama before his transition to Pearl drums took hold around the *Kiss of Death* sessions two years later — making *Inferno* a quiet bridge between two distinct chapters of his Motörhead gear history.
+This would prove to be one of Dee's final studio albums on Tama before his transition to Sonor drums took hold around the *Kiss of Death* sessions two years later — making *Inferno* a quiet bridge between two distinct chapters of his Motörhead gear history.
 
 ### Steel and Speed: The Snare Behind Inferno's Attack
 
@@ -62,7 +62,7 @@ The 2002 series' reputation as a metal and hard rock workhorse — the same cymb
 - Tama Starclassic replaced the Artstar II/Swingstar kit Dee used on Bastards (1993)
 - 22" bass drum retained — the same focused, punchy low end Dee favored throughout his Tama years
 - Maple/birch hybrid shells suited Cameron Webb's more modern, defined production style
-- One of Dee's final Motörhead albums on Tama before the switch to Pearl around Kiss of Death (2006)
+- One of Dee's final Motörhead albums on Tama before the switch to Sonor around Kiss of Death (2006)
 - Estimated kit value: $2,000–3,500 (2004 professional Tama Starclassic configuration)
 - Estimated snare value: $300–500 (2004)
 
@@ -70,7 +70,7 @@ The 2002 series' reputation as a metal and hard rock workhorse — the same cymb
 
 **Q: What drums did Mikkey Dee use on Inferno?**
 
-A: On *Inferno* (2004), Mikkey Dee played a Tama Starclassic kit — an evolution of the Artstar II/Swingstar setup he used on [*Bastards*](/articles/bastards-drum-setup) over a decade earlier. The configuration centered on a 22" bass drum, three rack toms (10", 12", 13"), and dual floor toms (16", 18"), built with maple/birch hybrid shells for a punchier, more modern attack suited to producer Cameron Webb's production style. *Inferno* was one of Dee's final Motörhead albums on Tama before he transitioned to Pearl drums around the [*Kiss of Death*](/articles/kiss-of-death-drum-setup) sessions in 2006. See the [Mikkey Dee drummer profile](/drummer/mikkey-dee) for his complete gear evolution.
+A: On *Inferno* (2004), Mikkey Dee played a Tama Starclassic kit — an evolution of the Artstar II/Swingstar setup he used on [*Bastards*](/articles/bastards-drum-setup) over a decade earlier. The configuration centered on a 22" bass drum, three rack toms (10", 12", 13"), and dual floor toms (16", 18"), built with maple/birch hybrid shells for a punchier, more modern attack suited to producer Cameron Webb's production style. *Inferno* was one of Dee's final Motörhead albums on Tama before he transitioned to Sonor drums around the [*Kiss of Death*](/articles/kiss-of-death-drum-setup) sessions in 2006. See the [Mikkey Dee drummer profile](/drummer/mikkey-dee) for his complete gear evolution.
 
 **Q: Who produced Inferno and why does it matter for Motörhead's sound?**
 
@@ -88,4 +88,4 @@ A: Yes — *Inferno* (2004) features a guest lead guitar appearance from Steve V
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-08-26 · Source: [MetalForge.io](https://metalforge.io)*

@@ -205,7 +205,7 @@ export const articles = {
     "dateModified": "2026-06-27",
     "author": "MetalForge Editorial",
     "title": "Blake Richardson's Drum Setup on The Parallax II: Future Sequence (2012)",
-    "description": "Blake Richardson's drum kit and gear on BTBAM's The Parallax II: Future Sequence (2012): Tama Starclassic Bubinga drums, expanded Sabian cymbal setup, and the peak of his compositional approach. Prog Magazine's 'album of the decade.'",
+    "description": "Blake Richardson's drum kit and gear on BTBAM's The Parallax II: Future Sequence (2012): DW Collector's Series drums, expanded Meinl Byzance Extra Dry cymbal setup, and the peak of his compositional approach. Prog Magazine's 'album of the decade.'",
     "seoKeywords": [
       "the parallax ii drum setup",
       "between the buried and me parallax drums",
@@ -219,24 +219,24 @@ export const articles = {
     "ogImage": "/images/drummers/blake-richardson.webp",
     "intro": {
       "title": "The Parallax II: Richardson at the Peak of His Compositional Voice",
-      "content": "Released October 9, 2012 on Metal Blade Records, The Parallax II: Future Sequence is Between the Buried and Me at their most compositionally ambitious — a 74-minute concept album and sequel to The Parallax: Hypersleep Dialogues EP (2011), exploring a science fiction narrative across eight extended tracks that together form one of progressive metal's most celebrated recordings. Prog Magazine named it album of the decade. It was the most critically acclaimed BTBAM record to that point, and it remains the most analyzed drum performance of Blake Richardson's career.\n\nThe Parallax II exists at the intersection of everything Richardson had built since Alaska (2005) and Colors (2007). His odd-time integration is at its most natural — signatures shift without announcement, feel without calculation. His metric modulation approach is most developed here: entire sections of tracks like 'Telos' and 'Lay Your Ghosts to Rest' build and release through reinterpreted pulse values that carry the listener from one feel to another without a single moment of dislocation. His ghost note vocabulary, his jazz-influenced hi-hat independence, his compositional use of double-bass density — all of these techniques appear on The Parallax II in their most refined form.\n\nThe gear on The Parallax II reflects the evolution from Alaska (2005). Richardson was in a refined version of his Tama Starclassic Bubinga configuration — same shell design, more precisely dialed in after years of touring and recording. His Sabian setup had expanded to include both the Dark and Extra Dry sub-series, giving him a wider tonal palette: Dark voicings for the jazz-inflected passages, Extra Dry for the technically demanding rhythmic sections. The Tama Iron Cobra Power Glide double pedal continued as his kick foundation.\n\nJamie King's production at The Basement Studio on The Parallax II is widely considered one of the finest drum recordings in modern progressive metal. The kit has presence, room, and weight — each component audible across the album's dense arrangements without fighting for space. King's production gave Richardson's dynamics the full expression they deserved: blast beat passages hit with authority, jazz interludes breathe with appropriate space, and the transitions between them feel natural rather than jarring.\n\nThis article breaks down every element of the drum setup Blake Richardson used on The Parallax II: Future Sequence — the kit, cymbals, hardware, and playing approach that made this 2012 record the defining document of his career.",
+      "content": "Released October 9, 2012 on Metal Blade Records, The Parallax II: Future Sequence is Between the Buried and Me at their most compositionally ambitious — a 74-minute concept album and sequel to The Parallax: Hypersleep Dialogues EP (2011), exploring a science fiction narrative across eight extended tracks that together form one of progressive metal's most celebrated recordings. Prog Magazine named it album of the decade. It was the most critically acclaimed BTBAM record to that point, and it remains the most analyzed drum performance of Blake Richardson's career.\n\nThe Parallax II exists at the intersection of everything Richardson had built since Alaska (2005) and Colors (2007). His odd-time integration is at its most natural — signatures shift without announcement, feel without calculation. His metric modulation approach is most developed here: entire sections of tracks like 'Telos' and 'Lay Your Ghosts to Rest' build and release through reinterpreted pulse values that carry the listener from one feel to another without a single moment of dislocation. His ghost note vocabulary, his jazz-influenced hi-hat independence, his compositional use of double-bass density — all of these techniques appear on The Parallax II in their most refined form.\n\nThe gear on The Parallax II reflects the evolution from Alaska (2005). Richardson was in a refined version of his DW Collector's Series configuration — same all-maple shells, more precisely dialed in after years of touring and recording. His Meinl Byzance Extra Dry cymbal setup had expanded to a wider array of pieces, giving him a broader tonal palette across the album's dense, genre-spanning arrangements. The DW 9002 chain-drive double bass pedal continued as his kick foundation.\n\nJamie King's production at The Basement Studio on The Parallax II is widely considered one of the finest drum recordings in modern progressive metal. The kit has presence, room, and weight — each component audible across the album's dense arrangements without fighting for space. King's production gave Richardson's dynamics the full expression they deserved: blast beat passages hit with authority, jazz interludes breathe with appropriate space, and the transitions between them feel natural rather than jarring.\n\nThis article breaks down every element of the drum setup Blake Richardson used on The Parallax II: Future Sequence — the kit, cymbals, hardware, and playing approach that made this 2012 record the defining document of his career.",
       "keyPoints": [
         "74-minute concept album — Prog Magazine's album of the decade, BTBAM's most critically celebrated record",
-        "Refined Tama Starclassic Bubinga configuration — the Alaska/Colors foundation developed through seven years of touring",
-        "Expanded Sabian setup: Dark series added alongside Extra Dry for wider tonal vocabulary",
-        "Tama Iron Cobra Power Glide double pedal — compositional kick approach at its most developed in tracks like Telos",
+        "Refined DW Collector's Series configuration — the Alaska/Colors foundation developed through seven years of touring",
+        "Expanded Meinl Byzance Extra Dry setup — additional pieces for wider tonal vocabulary",
+        "DW 9002 chain-drive double bass pedal — compositional kick approach at its most developed in tracks like Telos",
         "'Telos' and 'Lay Your Ghosts to Rest' — most studied drum performances in BTBAM's catalog",
         "Jamie King production at The Basement Studio — finest drum recording of Richardson's career to this point"
       ]
     },
     "drumKit": {
-      "title": "Tama Starclassic Bubinga: Seven Years Refined",
-      "brand": "Tama",
-      "model": "Tama Starclassic Bubinga",
+      "title": "DW Collector's Series: Seven Years Refined",
+      "brand": "DW",
+      "model": "DW Collector's Series",
       "finish": "Custom lacquer finish, refined touring configuration",
       "config": {
         "bassdrums": [
-          "22\" x 18\" Bass Drum (double bass via Tama Iron Cobra pedal)"
+          "22\" x 18\" Bass Drum (double bass via DW 9002 pedal)"
         ],
         "toms": [
           "10\" x 8\" Rack Tom",
@@ -246,83 +246,83 @@ export const articles = {
         "floorToms": [
           "16\" x 14\" Floor Tom"
         ],
-        "shells": "African Bubinga — warm, resonant, refined through years of touring post-Alaska"
+        "shells": "All-maple — warm, resonant, refined through years of touring post-Alaska"
       },
-      "description": "By 2012, Blake Richardson's Tama Starclassic Bubinga kit was precisely dialed in — the same shell design he had used on Alaska (2005) and Colors (2007), refined through seven years of intensive touring and studio work into the most precisely calibrated version of his foundational setup. The Tama Starclassic Bubinga African Bubinga shells deliver the warm fundamental tone that suits The Parallax II's dynamic requirements: full enough to carry through the album's densest arrangements, resonant enough to sing during the jazz-inflected and ambient passages, controlled enough to support Richardson's ghost note vocabulary without unmanageable overtones.\n\nThe shell configuration on The Parallax II is the same as on Alaska — 22\"x18\" bass drum, three rack toms (10\", 12\", 13\"), 16\" floor tom — with refinements in head selection and tuning that reflected seven years of learning exactly what this kit needed for BTBAM's arrangements. The rack tom layout is particularly important on The Parallax II: the 74-minute concept album's extended track structures rely on tom fills that carry melodic pitch intervals between sections, marking structural boundaries and preparing genre transitions. The three-rack-tom spread gives Richardson the wide tonal range these melodic fills require.\n\nJamie King's production at The Basement Studio on The Parallax II captures the kit with more ambient room character than earlier BTBAM records — a production choice that gives the drums space to breathe during the album's more expansive passages. The natural decay of the Tama STARPHONIC brass shells is audible in the mix: not as a problem to muffle, but as a compositional element that adds warmth and continuity during the transitions between BTBAM's genre-shifting sections.\n\nThe Tama Starclassic Bubinga hardware — Pearl rack components augmenting the Tama kit — provides the stability Richardson's extended performance demands. At 74 minutes of continuous compositional complexity, hardware consistency is not optional: every mounting, every stand, every bracket needs to hold position across the full performance without requiring adjustment. Tama's professional hardware tolerances deliver exactly this kind of reliability.",
+      "description": "By 2012, Blake Richardson's DW Collector's Series kit was precisely dialed in — the same shell design he had used on Alaska (2005) and Colors (2007), refined through seven years of intensive touring and studio work into the most precisely calibrated version of his foundational setup. The DW Collector's Series all-maple shells deliver the warm fundamental tone that suits The Parallax II's dynamic requirements: full enough to carry through the album's densest arrangements, resonant enough to sing during the jazz-inflected and ambient passages, controlled enough to support Richardson's ghost note vocabulary without unmanageable overtones.\n\nThe shell configuration on The Parallax II is the same as on Alaska — 22\"x18\" bass drum, three rack toms (10\", 12\", 13\"), 16\" floor tom — with refinements in head selection and tuning that reflected seven years of learning exactly what this kit needed for BTBAM's arrangements. The rack tom layout is particularly important on The Parallax II: the 74-minute concept album's extended track structures rely on tom fills that carry melodic pitch intervals between sections, marking structural boundaries and preparing genre transitions. The three-rack-tom spread gives Richardson the wide tonal range these melodic fills require.\n\nJamie King's production at The Basement Studio on The Parallax II captures the kit with more ambient room character than earlier BTBAM records — a production choice that gives the drums space to breathe during the album's more expansive passages. The natural decay of the DW Collector's Series maple shells is audible in the mix: not as a problem to muffle, but as a compositional element that adds warmth and continuity during the transitions between BTBAM's genre-shifting sections.\n\nThe DW Collector's Series hardware — Pearl rack components augmenting the DW kit — provides the stability Richardson's extended performance demands. At 74 minutes of continuous compositional complexity, hardware consistency is not optional: every mounting, every stand, every bracket needs to hold position across the full performance without requiring adjustment. DW's professional hardware tolerances deliver exactly this kind of reliability.",
       "notes": [
-        "Tama Starclassic Bubinga refined over seven years from Alaska (2005) — same shells, more precisely calibrated",
+        "DW Collector's Series refined over seven years from Alaska (2005) — same all-maple shells, more precisely calibrated",
         "Three rack toms (10\", 12\", 13\") — melodic fill pitch range for BTBAM's structural section markers",
         "Jamie King's Basement Studio production captures kit ambient room character on Parallax II",
         "Hardware consistency critical for 74-minute concept album performance demands",
-        "Configuration continues through touring cycle post-Parallax II — the peak Tama era in Richardson's career"
+        "Configuration continues through touring cycle post-Parallax II — the DW/Meinl era in Richardson's career before the 2018 switch to Tama/Sabian"
       ],
-      "estimatedValue": "$3,500–6,000 (Tama Starclassic Bubinga shell pack, 2012 configuration)"
+      "estimatedValue": "$3,500–6,000 (DW Collector's Series shell pack, 2012 configuration)"
     },
     "snare": {
-      "title": "Tama STARPHONIC Brass: Articulation in BTBAM's Most Dense Production",
-      "brand": "Tama",
-      "model": "Tama STARPHONIC Brass Snare",
+      "title": "DW Collector's Series Maple: Articulation in BTBAM's Most Dense Production",
+      "brand": "DW",
+      "model": "DW Collector's Series Maple Snare",
       "size": "14\" x 6.5\"",
-      "shell": "Brass",
-      "description": "Richardson's Tama STARPHONIC brass snare on The Parallax II is the same model that had driven Colors (2007) — a 14\"x6.5\" brass shell that delivers a bright, cutting crack distinct from the warmth of maple or the brittleness of aluminum. By 2012, Richardson had this snare precisely tuned and understood for BTBAM's production requirements: medium tension giving body and sensitivity, Evans G2 Coated batter providing the two-ply control his dense ghost note work demands.\n\nThe Parallax II places extraordinary demands on Richardson's snare technique. Tracks like 'Telos' — the most studied performance on the album — require the snare to drive extreme metal blast beat sections at full velocity, carry jazz-influenced ghost note patterns at low dynamics, and execute cross-stick techniques during melodic interludes, all within the same nine-minute track. The Tama STARPHONIC brass handles each of these contexts without requiring head changes or retuning: its warm midrange carries ghost notes clearly, its 6.5\" depth provides body during backbeat passages, and its brass fundamental avoids the dull transients that would undermine the album's quieter sections.\n\nJamie King's snare capture on The Parallax II is particularly well-executed. Close-miked with natural room character from the overhead mics, the brass snare has a natural body and sustain that reads in the mix without artificial compression. Richardson's dynamic range — from whisper-quiet ghost strokes to full rimshot backbeats — is fully preserved in the recording, making The Parallax II one of the best documented examples of his technique's full velocity spectrum.",
+      "shell": "Maple",
+      "description": "Richardson's DW Collector's Series maple snare on The Parallax II is the same model that had driven Colors (2007) — a 14\"x6.5\" maple shell that delivers a warm, articulate crack distinct from the brightness of brass or the crack of steel. By 2012, Richardson had this snare precisely tuned and understood for BTBAM's production requirements: medium tension giving body and sensitivity, Evans G2 Coated batter providing the two-ply control his dense ghost note work demands.\n\nThe Parallax II places extraordinary demands on Richardson's snare technique. Tracks like 'Telos' — the most studied performance on the album — require the snare to drive extreme metal blast beat sections at full velocity, carry jazz-influenced ghost note patterns at low dynamics, and execute cross-stick techniques during melodic interludes, all within the same nine-minute track. The DW Collector's Series maple snare handles each of these contexts without requiring head changes or retuning: its warm midrange carries ghost notes clearly, its 6.5\" depth provides body during backbeat passages, and its maple fundamental avoids the dull transients that would undermine the album's quieter sections.\n\nJamie King's snare capture on The Parallax II is particularly well-executed. Close-miked with natural room character from the overhead mics, the maple snare has a natural body and sustain that reads in the mix without artificial compression. Richardson's dynamic range — from whisper-quiet ghost strokes to full rimshot backbeats — is fully preserved in the recording, making The Parallax II one of the best documented examples of his technique's full velocity spectrum.",
       "tuningSetting": "Medium tension — warm body for ghost note work and snare sensitivity, enough authority to drive blast beat and extreme metal passages",
       "heads": "Evans G2 Coated (batter), Evans Hazy 300 (resonant)",
-      "estimatedValue": "$400–700 (Tama STARPHONIC brass snare)"
+      "estimatedValue": "$400–700 (DW Collector's Series maple snare)"
     },
     "cymbals": {
-      "title": "Sabian Dark and Extra Dry: Expanded Palette for a 74-Minute Canvas",
-      "brand": "Sabian",
-      "series": "Sabian Series (HHX Evolution and AAX)",
+      "title": "Meinl Byzance Extra Dry: Expanded Palette for a 74-Minute Canvas",
+      "brand": "Meinl",
+      "series": "Meinl Byzance Extra Dry Series",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Sabian 14\" Dark Hi-Hats",
+          "model": "Meinl Byzance Extra Dry 14\" Hi-Hats",
           "position": "Left side",
-          "notes": "Dark, complex voice — nuanced response for jazz-inflected hi-hat vocabulary throughout The Parallax II"
+          "notes": "Dry, controlled voice — nuanced response for jazz-inflected hi-hat vocabulary throughout The Parallax II"
         },
         {
           "type": "Crash",
-          "model": "Sabian Extra Dry 17\" Thin Crash",
+          "model": "Meinl Byzance Extra Dry 17\" Thin Crash",
           "position": "Left crash",
           "notes": "Fast, focused accent crash — articulate response for BTBAM's dense technical passages"
         },
         {
           "type": "Crash",
-          "model": "Sabian 18\" Dark Crash",
+          "model": "Meinl Byzance Extra Dry 18\" Thin Crash",
           "position": "Right crash",
-          "notes": "Fuller, darker sustain for large structural accents at section peaks on The Parallax II"
+          "notes": "Fuller sustain for large structural accents at section peaks on The Parallax II"
         },
         {
           "type": "Ride",
-          "model": "Sabian Extra Dry 20\" Ride",
+          "model": "Meinl Byzance Extra Dry 20\" Ride",
           "position": "Far right",
           "notes": "Dry, controlled articulation — minimal wash for clean odd-time patterns in Telos and Lay Your Ghosts"
         },
         {
           "type": "Splash",
-          "model": "Sabian 10\" Dark Splash",
+          "model": "Meinl Byzance Extra Dry 10\" Splash",
           "position": "Effects position",
-          "notes": "Quick, dark accent for fast genre transition punctuation across BTBAM's most rapid shifts"
+          "notes": "Quick, controlled accent for fast genre transition punctuation across BTBAM's most rapid shifts"
         },
         {
           "type": "China",
-          "model": "Sabian 18\" China",
+          "model": "Meinl Byzance Extra Dry 18\" China",
           "position": "Over rack toms",
           "notes": "Aggressive upward-projecting accent for The Parallax II's death metal intensity peaks"
         }
       ],
-      "description": "By The Parallax II (2012), Richardson had expanded his Sabian setup from the primarily Extra Dry configuration of the Alaska era to a dual-series approach: Sabian Dark voicings for the jazz-inflected passages, Extra Dry voicings for the technically demanding rhythmic sections. This expanded palette reflects the greater tonal range demanded by a 74-minute concept album where the musical language shifts more dramatically and more frequently than on earlier BTBAM records.\n\nThe Sabian Dark series is characterized by warm, earthy tones with complex overtone content and a fast decay — ideal for the jazz-influenced passages throughout The Parallax II where overtone richness enriches the musical texture without creating wash that obscures melodic content. The 14\" Dark Hi-Hats are the rhythmic center of Richardson's most sophisticated hi-hat playing. His patterns on tracks like 'Lay Your Ghosts to Rest' demonstrate jazz-level independence between hi-hat foot and stick — the hi-hat functioning as an independent melodic voice rather than simply marking time — and the Dark voicing provides exactly the nuanced, responsive character this technique demands.\n\nThe Extra Dry series handles the technical rhythmic sections. The 17\" Extra Dry Thin Crash delivers fast, controlled accent punctuation in the album's most complex passages, where attack clarity matters more than sustain character. The Extra Dry Ride provides clean articulation through Richardson's most ambitious metric modulation sequences — on 'Telos' and 'Lay Your Ghosts to Rest,' where even small amounts of cymbal wash would blur the rhythmic detail.\n\nThe 18\" Dark Crash provides a third crash voice distinct from both the Extra Dry 17\" and the China: fuller sustain, warmer character, useful for large structural accents at section peaks where the album calls for emotional weight rather than technical precision. The 10\" Dark Splash allows Richardson rapid, dark accent punctuation for the quickest genre transition moments — a single splash stroke marking the boundary between feel-states without the sustain overhead of a full crash.\n\nTaken together, the dual-series Sabian approach on The Parallax II represents Richardson's most complete cymbal vocabulary to this point in his career: dark enough for jazz passages, controlled enough for extreme technical metal, and varied enough to color the tonal arc of a 74-minute concept album from first note to last.",
-      "estimatedValue": "$2,500–4,000 (Sabian HHX Evolution and AAX setup, 2012 configuration)"
+      "description": "By The Parallax II (2012), Richardson had expanded his Meinl Byzance Extra Dry setup from the core configuration of the Alaska era to a wider array of pieces, adding a splash and a second crash to reach a fuller tonal range. This expanded palette reflects the greater tonal range demanded by a 74-minute concept album where the musical language shifts more dramatically and more frequently than on earlier BTBAM records.\n\nThe Extra Dry series' defining characteristic — additional lathing and hammering that tightens decay and removes excess wash — continued to anchor every voice in the setup, from the jazz-influenced passages to the technically demanding rhythmic sections. The 14\" Extra Dry Hi-Hats are the rhythmic center of Richardson's most sophisticated hi-hat playing. His patterns on tracks like 'Lay Your Ghosts to Rest' demonstrate jazz-level independence between hi-hat foot and stick — the hi-hat functioning as an independent melodic voice rather than simply marking time — and the Extra Dry voicing provides exactly the controlled, responsive character this technique demands.\n\nThe dual-crash configuration handles the record's structural accents. The 17\" Extra Dry Thin Crash delivers fast, controlled accent punctuation in the album's most complex passages, where attack clarity matters more than sustain character. The Extra Dry Ride provides clean articulation through Richardson's most ambitious metric modulation sequences — on 'Telos' and 'Lay Your Ghosts to Rest,' where even small amounts of cymbal wash would blur the rhythmic detail.\n\nThe 18\" Extra Dry Thin Crash provides a fuller crash voice distinct from both the 17\" and the China: useful for large structural accents at section peaks where the album calls for emotional weight rather than technical precision. The 10\" Extra Dry Splash allows Richardson rapid, controlled accent punctuation for the quickest genre transition moments — a single splash stroke marking the boundary between feel-states without the sustain overhead of a full crash.\n\nTaken together, the expanded Meinl Byzance Extra Dry setup on The Parallax II represents Richardson's most complete cymbal vocabulary to this point in his career: controlled enough for jazz passages and extreme technical metal alike, and varied enough to color the tonal arc of a 74-minute concept album from first note to last.",
+      "estimatedValue": "$2,500–4,000 (Meinl Byzance Extra Dry setup, 2012 configuration)"
     },
     "hardware": {
-      "title": "Tama Iron Cobra and Rack System: Precision for a 74-Minute Concept",
+      "title": "DW 9002 and Rack System: Precision for a 74-Minute Concept",
       "items": [
         {
           "type": "Bass Drum Pedals",
-          "brand": "Tama",
-          "model": "Tama Iron Cobra Power Glide Double Pedal",
+          "brand": "DW",
+          "model": "DW 9002 Chain-Drive Double Bass Pedal",
           "notes": "Chain-drive double pedal — compositional kick control across The Parallax II's full 74-minute arc",
-          "description": "The Tama Iron Cobra is the kick foundation of Richardson's most ambitious recorded performance. The Parallax II's compositional use of double-bass — dense kick patterns during intense sections, sparser deployment during restraint, and rapid transitions between these states within single tracks — demands exactly the consistency and adjustability the Iron Cobra provides. 'Telos' is the most-studied example: Richardson varies kick density dramatically across the nine-minute track, and the Iron Cobra's adjustable cam gives him the control curve that makes this dynamic deployment musically natural rather than mechanical."
+          "description": "The DW 9002 is the kick foundation of Richardson's most ambitious recorded performance. The Parallax II's compositional use of double-bass — dense kick patterns during intense sections, sparser deployment during restraint, and rapid transitions between these states within single tracks — demands exactly the consistency and adjustability the 9002 provides. 'Telos' is the most-studied example: Richardson varies kick density dramatically across the nine-minute track, and the 9002's adjustable cam gives him the control curve that makes this dynamic deployment musically natural rather than mechanical."
         },
         {
           "type": "Sticks",
@@ -358,11 +358,11 @@ export const articles = {
     "faq": [
       {
         "question": "What drums did Blake Richardson use on The Parallax II: Future Sequence?",
-        "answer": "Blake Richardson used a refined Tama Starclassic Bubinga kit on The Parallax II: Future Sequence (2012) — the same shell design he had established on Alaska (2005) and Colors (2007), precisely dialed in after seven years of touring. The kit features African Bubinga shells: 22\"x18\" bass drum (driven by Tama Iron Cobra Power Glide double pedal), three rack toms (10\", 12\", 13\"), and a 16\" floor tom. Full drummer profile at [Blake Richardson at MetalForge](/drummer/blake-richardson)."
+        "answer": "Blake Richardson used a refined DW Collector's Series kit on The Parallax II: Future Sequence (2012) — the same shell design he had established on Alaska (2005) and Colors (2007), precisely dialed in after seven years of touring. The kit features all-maple shells: 22\"x18\" bass drum (driven by a DW 9002 chain-drive double bass pedal), three rack toms (10\", 12\", 13\"), and a 16\" floor tom. Full drummer profile at [Blake Richardson at MetalForge](/drummer/blake-richardson)."
       },
       {
         "question": "What is Blake Richardson's drum setup on 'Telos' from The Parallax II?",
-        "answer": "'Telos' is the most studied drum performance in Richardson's BTBAM catalog — a nine-minute track on The Parallax II (2012) demonstrating his metric modulation approach and compositional double-bass technique at full development. His setup for this and the rest of the album: Tama Starclassic Bubinga 22\"x18\" kick driven by a Tama Iron Cobra Power Glide double pedal, three rack toms, 16\" floor tom, Sabian 14\" Dark Hi-Hats, Extra Dry Thin Crashes, Extra Dry Ride, Dark Crash, and Sabian China. The Sabian Extra Dry Ride is particularly critical on 'Telos' — its controlled, minimal wash keeps Richardson's metric modulation sequences clearly articulated through the track's most complex rhythmic passages. See the [odd-time signatures technique guide](/technique/odd-time-signatures) for a breakdown of the metric modulation concepts deployed."
+        "answer": "'Telos' is the most studied drum performance in Richardson's BTBAM catalog — a nine-minute track on The Parallax II (2012) demonstrating his metric modulation approach and compositional double-bass technique at full development. His setup for this and the rest of the album: DW Collector's Series 22\"x18\" kick driven by a DW 9002 chain-drive double bass pedal, three rack toms, 16\" floor tom, Meinl Byzance Extra Dry 14\" Hi-Hats, Extra Dry Thin Crashes, Extra Dry Ride, Extra Dry Splash, and Meinl Byzance Extra Dry China. The Meinl Byzance Extra Dry Ride is particularly critical on 'Telos' — its controlled, minimal wash keeps Richardson's metric modulation sequences clearly articulated through the track's most complex rhythmic passages. See the [odd-time signatures technique guide](/technique/odd-time-signatures) for a breakdown of the metric modulation concepts deployed."
       },
       {
         "question": "Why is The Parallax II considered Blake Richardson's best drumming?",
@@ -370,7 +370,7 @@ export const articles = {
       },
       {
         "question": "What cymbals does Blake Richardson use on The Parallax II?",
-        "answer": "Blake Richardson played an expanded Sabian setup on The Parallax II (2012), combining Dark and Extra Dry sub-series for a wider tonal palette than his earlier primarily Extra Dry Alaska-era setup. Configuration: Sabian 14\" Dark Hi-Hats (jazz-inflected passages), Extra Dry 17\" Thin Crash (fast accent), Dark 18\" Crash (fuller sustain), Extra Dry 20\" Ride (controlled odd-time articulation), 10\" Dark Splash (rapid transition punctuation), and 18\" Sabian China (death metal accents). The dual Dark/Extra Dry approach reflects the 74-minute concept album's greater tonal range requirements."
+        "answer": "Blake Richardson played an expanded Meinl Byzance Extra Dry setup on The Parallax II (2012), a wider array of pieces than his earlier, more compact Alaska-era setup. Configuration: Meinl Byzance Extra Dry 14\" Hi-Hats, Extra Dry 17\" Thin Crash (fast accent), Extra Dry 18\" Thin Crash (fuller sustain), Extra Dry 20\" Ride (controlled odd-time articulation), 10\" Extra Dry Splash (rapid transition punctuation), and 18\" Extra Dry China (death metal accents). The expanded Extra Dry setup reflects the 74-minute concept album's greater tonal range requirements."
       }
     ],
     "relatedAlbums": [
@@ -604,7 +604,7 @@ export const articles = {
     "dateModified": "2026-06-28",
     "author": "MetalForge Editorial",
     "title": "Blake Richardson's Drum Setup on Between the Buried and Me's Colors (2007)",
-    "description": "Blake Richardson's drum kit and gear on BTBAM's landmark Colors (2007): Tama Starclassic Bubinga drums, Sabian Extra Dry cymbals, Tama Iron Cobra Power Glide double pedal, and the metric modulation performance that defined progressive metal's gold standard.",
+    "description": "Blake Richardson's drum kit and gear on BTBAM's landmark Colors (2007): DW Collector's Series drums, Meinl Byzance Extra Dry cymbals, DW 9002 chain-drive double bass pedal, and the metric modulation performance that defined progressive metal's gold standard.",
     "seoKeywords": [
       "colors drum setup",
       "between the buried and me colors drums",
@@ -618,24 +618,24 @@ export const articles = {
     "ogImage": "/images/drummers/blake-richardson.webp",
     "intro": {
       "title": "Colors: The Album That Defined Progressive Metal's Gold Standard",
-      "content": "Released in 2007 on Victory Records, *Colors* is the Between the Buried and Me album that redefined what progressive metal could be. Two years after *Alaska* announced the band's ambitions, *Colors* delivered on every promise — a single-disc record that functions as one continuous composition across eight tracks, each flowing into the next without pause, building a 65-minute arc of death metal, jazz, ambient passages, and progressive rock that remains one of the most cited albums in the genre's history. More than fifteen years after its release, *Colors* is still the first album critics and listeners name when asked to define progressive metal's highest achievement.\n\nBlake Richardson's performance on *Colors* is the recording that established him as a generational talent. Two years into his BTBAM tenure, the technical foundation visible on *Alaska* had fully matured. His odd-time integration — embedding 7/8, 5/4, and complex metric patterns so naturally they never sound mathematical — is at its most organic here. 'Prequel to the Sequel,' the album's compositional centerpiece, is a master class in 7/8 groove: Richardson locks the most challenging odd-time signature in metal into something that swings, breathes, and feels inevitable rather than calculated. It is the performance that drum teachers assign and that progressives study. It is the reason his name appears in the same sentence as Brann Dailor, Danny Carey, and Gavin Harrison when the conversation turns to progressive metal drumming.\n\nGear-wise, Richardson was operating in the Tama Starclassic Bubinga configuration he had established on *Alaska* — Bubinga shells, wide dynamic range, tight fundamental suited to BTBAM's full emotional spectrum. Sabian Extra Dry cymbals provided the dark, controlled voice that had anchored the *Alaska* sessions, with the Extra Dry series' minimal wash keeping Richardson's complex rhythmic patterns clearly articulated through *Colors*' densest arrangements. The Tama Iron Cobra Power Glide double pedal gave him the compositional kick foundation for the record's most intense passages.\n\nJamie King's production at The Basement Studio in Winston-Salem — the same producer and studio as *Alaska* — captured *Colors* with the clarity and dynamic range a 65-minute single-arc composition requires. King understood that *Colors* needed to breathe as much as it needed to hit: the drum sound is full and present in the intense sections, open and ambient in the quieter ones, serving the record's emotional arc rather than imposing a single compressed texture across its entire length.\n\nThis article breaks down the complete drum setup Blake Richardson used on *Colors* — the kit, cymbals, hardware, and playing approach that made this 2007 record the definitive document of his early career and one of progressive metal's permanent reference points.",
+      "content": "Released in 2007 on Victory Records, *Colors* is the Between the Buried and Me album that redefined what progressive metal could be. Two years after *Alaska* announced the band's ambitions, *Colors* delivered on every promise — a single-disc record that functions as one continuous composition across eight tracks, each flowing into the next without pause, building a 65-minute arc of death metal, jazz, ambient passages, and progressive rock that remains one of the most cited albums in the genre's history. More than fifteen years after its release, *Colors* is still the first album critics and listeners name when asked to define progressive metal's highest achievement.\n\nBlake Richardson's performance on *Colors* is the recording that established him as a generational talent. Two years into his BTBAM tenure, the technical foundation visible on *Alaska* had fully matured. His odd-time integration — embedding 7/8, 5/4, and complex metric patterns so naturally they never sound mathematical — is at its most organic here. 'Prequel to the Sequel,' the album's compositional centerpiece, is a master class in 7/8 groove: Richardson locks the most challenging odd-time signature in metal into something that swings, breathes, and feels inevitable rather than calculated. It is the performance that drum teachers assign and that progressives study. It is the reason his name appears in the same sentence as Brann Dailor, Danny Carey, and Gavin Harrison when the conversation turns to progressive metal drumming.\n\nGear-wise, Richardson was operating in the DW Collector's Series configuration he had established on *Alaska* — all-maple shells, wide dynamic range, warm fundamental suited to BTBAM's full emotional spectrum. Meinl Byzance Extra Dry cymbals provided the dark, hand-hammered voice that had anchored the *Alaska* sessions, with the Extra Dry series' minimal wash keeping Richardson's complex rhythmic patterns clearly articulated through *Colors*' densest arrangements. The DW 9002 chain-drive double bass pedal gave him the compositional kick foundation for the record's most intense passages.\n\nJamie King's production at The Basement Studio in Winston-Salem — the same producer and studio as *Alaska* — captured *Colors* with the clarity and dynamic range a 65-minute single-arc composition requires. King understood that *Colors* needed to breathe as much as it needed to hit: the drum sound is full and present in the intense sections, open and ambient in the quieter ones, serving the record's emotional arc rather than imposing a single compressed texture across its entire length.\n\nThis article breaks down the complete drum setup Blake Richardson used on *Colors* — the kit, cymbals, hardware, and playing approach that made this 2007 record the definitive document of his early career and one of progressive metal's permanent reference points.",
       "keyPoints": [
         "BTBAM's landmark album — 65-minute single-arc composition across eight tracks, prog metal's most cited record",
         "Blake Richardson's breakout performance — 'Prequel to the Sequel' (7/8) is the most-studied drum performance of the Colors era",
-        "Tama Starclassic Bubinga refined from Alaska — same Bubinga foundation, more precisely calibrated after two years of touring",
-        "Sabian Extra Dry — dark, controlled cymbal voice for clean articulation through Colors' densest arrangements",
-        "Tama Iron Cobra Power Glide double pedal — compositional kick deployment across BTBAM's most intense passages",
+        "DW Collector's Series refined from Alaska — same all-maple foundation, more precisely calibrated after two years of touring",
+        "Meinl Byzance Extra Dry — dark, hand-hammered cymbal voice for clean articulation through Colors' densest arrangements",
+        "DW 9002 chain-drive double bass pedal — compositional kick deployment across BTBAM's most intense passages",
         "Jamie King production at The Basement Studio — full, dynamic drum sound serving Colors' 65-minute emotional arc"
       ]
     },
     "drumKit": {
-      "title": "Tama Starclassic Bubinga: The Colors Era Foundation",
-      "brand": "Tama",
-      "model": "Tama Starclassic Bubinga",
+      "title": "DW Collector's Series: The Colors Era Foundation",
+      "brand": "DW",
+      "model": "DW Collector's Series",
       "finish": "Custom lacquer finish",
       "config": {
         "bassdrums": [
-          "22\" x 18\" Bass Drum (double bass configuration via Tama Iron Cobra pedal)"
+          "22\" x 18\" Bass Drum (double bass configuration via DW 9002 pedal)"
         ],
         "toms": [
           "10\" x 8\" Rack Tom",
@@ -645,77 +645,77 @@ export const articles = {
         "floorToms": [
           "16\" x 14\" Floor Tom"
         ],
-        "shells": "African Bubinga — warm, resonant tone across Colors' full dynamic range"
+        "shells": "All-maple — warm, resonant tone across Colors' full dynamic range"
       },
-      "description": "Blake Richardson's Tama Starclassic Bubinga kit on *Colors* was the refined evolution of the setup he had used on *Alaska* (2005) — two years of intensive touring had dialed in every head choice, tuning setting, and hardware configuration. The Tama Starclassic Bubinga uses African Bubinga shells: warm, resonant, with a midrange fundamental that carries equally well through BTBAM's most intense passages and its most restrained ambient interludes.\n\nThe single 22\"x18\" bass drum driven by the Tama Iron Cobra Power Glide double pedal is the kick foundation of *Colors*' most iconic passages. 'Prequel to the Sequel' demonstrates Richardson's compositional double-bass approach at its most developed: kick patterns that lock into the 7/8 groove rather than running against it, varying density to follow the arrangement's emotional arc. This compositional approach — double-bass as a dynamic tool rather than a constant underpinning — is what separates Richardson's kick playing from technicians who can execute fast patterns but cannot make them musical.\n\nThree rack toms (10\", 12\", 13\") and a 16\" floor tom give Richardson the wide pitch range his fill architecture requires. On *Colors*, tom fills function as compositional connective tissue: they prepare genre transitions, mark structural boundaries, and carry pitch intervals that echo the guitar arrangements. 'White Walls,' the album's 17-minute closing track, contains the most structurally significant fill sequences on the record — fills that navigate the transition from the album's most intense metal passages through progressive rock and ambient sections and back again. The Starclassic Bubinga provides the warm, resonant tone that makes these melodic fills musical rather than merely rhythmic.\n\nJamie King's recording approach at The Basement Studio on *Colors* balanced close-miked kit presence with natural room character — giving the drums a full, organic sound that serves the record's dynamic range.",
+      "description": "Blake Richardson's DW Collector's Series kit on *Colors* was the refined evolution of the setup he had established on *Alaska* (2005) — two years of intensive touring had dialed in every head choice, tuning setting, and hardware configuration. The DW Collector's Series uses all-maple shells: warm, resonant, with a midrange fundamental that carries equally well through BTBAM's most intense passages and its most restrained ambient interludes.\n\nThe single 22\"x18\" bass drum driven by the DW 9002 chain-drive double bass pedal is the kick foundation of *Colors*' most iconic passages. 'Prequel to the Sequel' demonstrates Richardson's compositional double-bass approach at its most developed: kick patterns that lock into the 7/8 groove rather than running against it, varying density to follow the arrangement's emotional arc. This compositional approach — double-bass as a dynamic tool rather than a constant underpinning — is what separates Richardson's kick playing from technicians who can execute fast patterns but cannot make them musical.\n\nThree rack toms (10\", 12\", 13\") and a 16\" floor tom give Richardson the wide pitch range his fill architecture requires. On *Colors*, tom fills function as compositional connective tissue: they prepare genre transitions, mark structural boundaries, and carry pitch intervals that echo the guitar arrangements. 'White Walls,' the album's 17-minute closing track, contains the most structurally significant fill sequences on the record — fills that navigate the transition from the album's most intense metal passages through progressive rock and ambient sections and back again. The DW Collector's Series' warm, resonant tone makes these melodic fills musical rather than merely rhythmic.\n\nJamie King's recording approach at The Basement Studio on *Colors* balanced close-miked kit presence with natural room character — giving the drums a full, organic sound that serves the record's dynamic range.",
       "notes": [
-        "Tama Starclassic Bubinga refined over two years of post-Alaska touring — same shells, more precisely calibrated",
-        "22\"x18\" kick via Tama Iron Cobra Power Glide double pedal — compositional double-bass in Colors' landmark 7/8 passages",
+        "DW Collector's Series refined over two years of post-Alaska touring — same all-maple shells, more precisely calibrated",
+        "22\"x18\" kick via DW 9002 chain-drive double bass pedal — compositional double-bass in Colors' landmark 7/8 passages",
         "Three rack toms (10\", 12\", 13\") for melodic fills marking Colors' genre transitions",
         "Jamie King Basement Studio production captures natural shell resonance as compositional element",
         "Foundation carried through The Great Misdirect (2009) and into the Parallax era"
       ],
-      "estimatedValue": "$3,500–6,000 (Tama Starclassic Bubinga shell pack, 2007 configuration)"
+      "estimatedValue": "$3,500–6,000 (DW Collector's Series shell pack, 2007 configuration)"
     },
     "snare": {
-      "title": "Tama STARPHONIC Brass: Versatility Across Colors' Full Spectrum",
-      "brand": "Tama",
-      "model": "Tama STARPHONIC Brass Snare",
+      "title": "DW Collector's Series Maple: Versatility Across Colors' Full Spectrum",
+      "brand": "DW",
+      "model": "DW Collector's Series Maple Snare",
       "size": "14\" x 6.5\"",
-      "shell": "Brass",
-      "description": "Richardson's primary snare on *Colors* was the Tama STARPHONIC brass at 14\"x6.5\" — the same model that had driven *Alaska* and would continue through the *Parallax* era. Tuned at medium tension, the brass shell delivers a bright, cutting crack that works across *Colors*' full dynamic range: present and cutting during the record's death metal passages, warm and sensitive for the ghost note-intensive jazz interludes that appear throughout the album.\n\n*Colors* demands extraordinary snare versatility within single tracks. 'Sun of Nothing' moves from ambient openings through full-intensity metal passages and back; 'Ants of the Sky' contains jazz-inflected sections where Richardson's ghost note work requires the snare to speak clearly at low velocities. The Tama STARPHONIC brass handles both contexts from the same tuning: its 6.5\" depth gives each stroke body at full velocity, while the brass shell's midrange allows ghost notes to read as rhythmic texture rather than noise.\n\nJamie King's snare capture on *Colors* emphasizes natural shell character — close-miked with overhead room contributing to the body. The result is a snare sound that has presence without hardness, serving *Colors*' full emotional arc from 'Foam Born' through 'White Walls.'",
+      "shell": "Maple",
+      "description": "Richardson's primary snare on *Colors* was the DW Collector's Series maple snare at 14\"x6.5\" — matched to his DW kit and the same model that had driven *Alaska* and would continue through the *Parallax* era. Tuned at medium tension, the maple shell delivers a warm, articulate crack that works across *Colors*' full dynamic range: present and cutting during the record's death metal passages, warm and sensitive for the ghost note-intensive jazz interludes that appear throughout the album.\n\n*Colors* demands extraordinary snare versatility within single tracks. 'Sun of Nothing' moves from ambient openings through full-intensity metal passages and back; 'Ants of the Sky' contains jazz-inflected sections where Richardson's ghost note work requires the snare to speak clearly at low velocities. The DW Collector's Series maple snare handles both contexts from the same tuning: its 6.5\" depth gives each stroke body at full velocity, while the maple shell's midrange allows ghost notes to read as rhythmic texture rather than noise.\n\nJamie King's snare capture on *Colors* emphasizes natural shell character — close-miked with overhead room contributing to the body. The result is a snare sound that has presence without hardness, serving *Colors*' full emotional arc from 'Foam Born' through 'White Walls.'",
       "tuningSetting": "Medium tension — full body for intense sections, sensitive response for ghost note work throughout Colors' dynamic spectrum",
       "heads": "Remo Ambassador Coated (batter), Remo Hazy Snare Side (resonant)",
-      "estimatedValue": "$400–700 (Tama STARPHONIC brass snare, 2007 configuration)"
+      "estimatedValue": "$400–700 (DW Collector's Series maple snare, 2007 configuration)"
     },
     "cymbals": {
-      "title": "Sabian Extra Dry: Dark Precision for Progressive Metal's Gold Standard",
-      "brand": "Sabian",
-      "series": "Sabian AAX Series",
+      "title": "Meinl Byzance Extra Dry: Dark Precision for Progressive Metal's Gold Standard",
+      "brand": "Meinl",
+      "series": "Meinl Byzance Extra Dry Series",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Sabian 14\" Extra Dry Hi-Hats",
+          "model": "Meinl Byzance Extra Dry 14\" Hi-Hats",
           "position": "Left side",
           "notes": "Dry, controlled hi-hat voice for jazz-inflected sixteenth-note patterns throughout Colors' complex arrangements"
         },
         {
           "type": "Crash",
-          "model": "Sabian Extra Dry 17\" Thin Crash",
+          "model": "Meinl Byzance Extra Dry 17\" Thin Crash",
           "position": "Left crash",
           "notes": "Fast, focused crash for accent punctuation — articulate response in Colors' most technically dense passages"
         },
         {
           "type": "Crash",
-          "model": "Sabian Extra Dry 18\" Thin Crash",
+          "model": "Meinl Byzance Extra Dry 18\" Thin Crash",
           "position": "Right crash",
           "notes": "Slightly fuller crash voice for larger section accents and explosive transitions in White Walls and Sun of Nothing"
         },
         {
           "type": "Ride",
-          "model": "Sabian Extra Dry 20\" Ride",
+          "model": "Meinl Byzance Extra Dry 20\" Ride",
           "position": "Far right",
           "notes": "Dry, minimal wash — clean articulation for Prequel to the Sequel's complex 7/8 odd-time patterns"
         },
         {
           "type": "China",
-          "model": "Sabian 18\" China",
+          "model": "Meinl Byzance Extra Dry 18\" China",
           "position": "Over rack toms",
           "notes": "Aggressive accent for Colors' most intense death metal passages — used selectively as structural punctuation"
         }
       ],
-      "description": "Blake Richardson's Sabian Extra Dry cymbal setup on *Colors* is the sonic backdrop for progressive metal's most cited drumming performance. The Sabian Extra Dry series — Sabian's hand-hammered Turkish-style cymbals with additional lathing and hammering that removes excess wash — produces cymbals that speak precisely under hard strokes and respond cleanly at ghost-note velocities without sustaining into the next note. For a 65-minute single-arc album moving through death metal, jazz, ambient, and progressive rock, this controlled decay is what keeps Richardson's complex metric modulation sequences clearly articulated through *Colors*' most dense arrangements.\n\nThe 14\" Extra Dry Hi-Hats are the rhythmic center of everything Richardson does on *Colors*. 'Prequel to the Sequel' makes this most explicit: his hi-hat work in that track's iconic 7/8 groove demonstrates jazz-level density and independence — dense sixteenth-note patterns, frequent foot-hat independence, and transitions between open and closed positions that create rhythmic texture beyond simple timekeeping. The Extra Dry character gives these demanding patterns clarity without harshness.\n\nThe dual-crash configuration (17\" and 18\" Extra Dry Thin Crashes) provides two distinct accent voices: the 17\" for fast, focused punctuation in technical passages, the 18\" for larger structural accents at section peaks in 'White Walls' and 'Sun of Nothing.' The Extra Dry Ride provides clean articulation through *Colors*' most rhythmically complex passages — particularly in 'Prequel to the Sequel,' where a washy ride would blur the 7/8 patterns. The Sabian China delivers the aggressive upward-projecting accent for *Colors*' most intense death metal moments — deployed selectively rather than continuously, functioning as punctuation rather than a constant voice.\n\nFor context on how this cymbal voice evolved into the Dark/Extra Dry dual setup of the Parallax era, see the [Blake Richardson drummer profile](/drummer/blake-richardson).",
-      "estimatedValue": "$2,000–3,500 (Sabian AAX setup, 2007 configuration)"
+      "description": "Blake Richardson's Meinl Byzance Extra Dry cymbal setup on *Colors* is the sonic backdrop for progressive metal's most cited drumming performance. The Byzance Extra Dry series — Meinl's hand-hammered Turkish-style cymbals with additional lathing and hammering that removes excess wash — produces cymbals that speak precisely under hard strokes and respond cleanly at ghost-note velocities without sustaining into the next note. For a 65-minute single-arc album moving through death metal, jazz, ambient, and progressive rock, this controlled decay is what keeps Richardson's complex metric modulation sequences clearly articulated through *Colors*' most dense arrangements.\n\nThe 14\" Extra Dry Hi-Hats are the rhythmic center of everything Richardson does on *Colors*. 'Prequel to the Sequel' makes this most explicit: his hi-hat work in that track's iconic 7/8 groove demonstrates jazz-level density and independence — dense sixteenth-note patterns, frequent foot-hat independence, and transitions between open and closed positions that create rhythmic texture beyond simple timekeeping. The Extra Dry character gives these demanding patterns clarity without harshness.\n\nThe dual-crash configuration (17\" and 18\" Extra Dry Thin Crashes) provides two distinct accent voices: the 17\" for fast, focused punctuation in technical passages, the 18\" for larger structural accents at section peaks in 'White Walls' and 'Sun of Nothing.' The Extra Dry Ride provides clean articulation through *Colors*' most rhythmically complex passages — particularly in 'Prequel to the Sequel,' where a washy ride would blur the 7/8 patterns. The Meinl Byzance Extra Dry China delivers the aggressive upward-projecting accent for *Colors*' most intense death metal moments — deployed selectively rather than continuously, functioning as punctuation rather than a constant voice.\n\nFor context on how this cymbal voice carried through the rest of the pre-Automata era, see the [Blake Richardson drummer profile](/drummer/blake-richardson).",
+      "estimatedValue": "$2,000–3,500 (Meinl Byzance Extra Dry setup, 2007 configuration)"
     },
     "hardware": {
-      "title": "Tama Iron Cobra and Vic Firth 5B: The Foundation of Colors' Landmark Performances",
+      "title": "DW 9002 and Vic Firth 5B: The Foundation of Colors' Landmark Performances",
       "items": [
         {
           "type": "Bass Drum Pedals",
-          "brand": "Tama",
-          "model": "Tama Iron Cobra Power Glide Double Pedal",
+          "brand": "DW",
+          "model": "DW 9002 Chain-Drive Double Bass Pedal",
           "notes": "Chain-drive double pedal driving a single 22\" bass drum — Richardson's compositional double-kick tool on Colors",
-          "description": "The Tama Iron Cobra is the kick foundation of *Colors*' most iconic passages. Its chain-drive mechanism and adjustable cam deliver the consistent feel Richardson's compositional double-bass approach requires: varying kick density from sparse single-strokes through dense double-bass runs within the same 7/8 groove on 'Prequel to the Sequel.' The Iron Cobra's adjustability allows Richardson to dial in the power curve and return speed for *Colors*' full dynamic range — heavier settings for the album's most intense death metal passages, lighter settings for the compositional kick work in the album's more restrained sections."
+          "description": "The DW 9002 is the kick foundation of *Colors*' most iconic passages. Its chain-drive mechanism and adjustable cam deliver the consistent feel Richardson's compositional double-bass approach requires: varying kick density from sparse single-strokes through dense double-bass runs within the same 7/8 groove on 'Prequel to the Sequel.' The 9002's adjustability allows Richardson to dial in the power curve and return speed for *Colors*' full dynamic range — heavier settings for the album's most intense death metal passages, lighter settings for the compositional kick work in the album's more restrained sections."
         },
         {
           "type": "Sticks",
@@ -746,7 +746,7 @@ export const articles = {
     "faq": [
       {
         "question": "What kit did Blake Richardson use on Colors?",
-        "answer": "Blake Richardson played a Tama Starclassic Bubinga kit on *Colors* (2007) — BTBAM's landmark progressive metal record. The Tama Starclassic Bubinga uses African Bubinga shells, delivering the warm, resonant tone that suited *Colors*' 65-minute single-arc composition spanning death metal, jazz, and ambient textures. Configuration: single 22\"x18\" bass drum driven by a Tama Iron Cobra Power Glide double pedal, three rack toms (10\", 12\", 13\"), and a 16\" floor tom. Sabian Extra Dry cymbals completed the setup. Full drummer profile at [Blake Richardson at MetalForge](/drummer/blake-richardson)."
+        "answer": "Blake Richardson played a DW Collector's Series kit on *Colors* (2007) — BTBAM's landmark progressive metal record. The DW Collector's Series uses all-maple shells, delivering the warm, resonant tone that suited *Colors*' 65-minute single-arc composition spanning death metal, jazz, and ambient textures. Configuration: single 22\"x18\" bass drum driven by a DW 9002 chain-drive double bass pedal, three rack toms (10\", 12\", 13\"), and a 16\" floor tom. Meinl Byzance Extra Dry cymbals completed the setup. Full drummer profile at [Blake Richardson at MetalForge](/drummer/blake-richardson)."
       },
       {
         "question": "What is BTBAM's Colors?",
@@ -754,7 +754,7 @@ export const articles = {
       },
       {
         "question": "What bass drum technique does Blake use on Selkies?",
-        "answer": "'Selkies: The Endless Obsession' is from BTBAM's *Alaska* (2005), not *Colors* — but it is one of the most-studied drum performances in Richardson's catalog, and the bass drum technique it showcases carries directly into the *Colors* era. Richardson's kick approach is compositional rather than constant: he varies double-bass density to follow the arrangement's emotional arc, deploying dense kick patterns during intense passages and pulling back to sparse or single-foot patterns during restrained sections. The Tama Iron Cobra Power Glide double pedal, used on both *Alaska* and *Colors*, provides the consistent feel this density-variable approach requires. On *Colors*, the same compositional double-bass philosophy drives 'Prequel to the Sequel' and 'White Walls' — the kick following the music's arc rather than running beneath it as a constant. Full technique breakdown at [Blake Richardson at MetalForge](/drummer/blake-richardson)."
+        "answer": "'Selkies: The Endless Obsession' is from BTBAM's *Alaska* (2005), not *Colors* — but it is one of the most-studied drum performances in Richardson's catalog, and the bass drum technique it showcases carries directly into the *Colors* era. Richardson's kick approach is compositional rather than constant: he varies double-bass density to follow the arrangement's emotional arc, deploying dense kick patterns during intense passages and pulling back to sparse or single-foot patterns during restrained sections. The DW 9002 chain-drive double bass pedal, used on both *Alaska* and *Colors*, provides the consistent feel this density-variable approach requires. On *Colors*, the same compositional double-bass philosophy drives 'Prequel to the Sequel' and 'White Walls' — the kick following the music's arc rather than running beneath it as a constant. Full technique breakdown at [Blake Richardson at MetalForge](/drummer/blake-richardson)."
       }
     ],
     "relatedAlbums": [
@@ -768,7 +768,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "Colors: The Album That Defined Blake Richardson's Legacy",
-      "content": "*Colors* (2007) is the record that made Blake Richardson's name in progressive metal. More than fifteen years after its release, it remains the album listeners and critics reach for first when defining what the genre can achieve: compositionally ambitious, technically demanding, and — crucially — musical rather than merely impressive.\n\nHis Tama Starclassic Bubinga setup, Sabian Extra Dry cymbals, and Tama Iron Cobra Power Glide double pedal are the tools behind one of progressive metal's landmark drum performances.\n\n- **Full drummer profile**: [Blake Richardson at MetalForge](/drummer/blake-richardson)\n- **Previous album**: [Alaska drum setup (2005)](/articles/alaska-drum-setup)\n- **Next album**: [The Great Misdirect drum setup (2009)](/articles/great-misdirect-drum-setup)\n- **Career peak**: [The Parallax II drum setup (2012)](/articles/the-parallax-ii-future-sequence-drum-setup)"
+      "content": "*Colors* (2007) is the record that made Blake Richardson's name in progressive metal. More than fifteen years after its release, it remains the album listeners and critics reach for first when defining what the genre can achieve: compositionally ambitious, technically demanding, and — crucially — musical rather than merely impressive.\n\nHis DW Collector's Series setup, Meinl Byzance Extra Dry cymbals, and DW 9002 chain-drive double bass pedal are the tools behind one of progressive metal's landmark drum performances.\n\n- **Full drummer profile**: [Blake Richardson at MetalForge](/drummer/blake-richardson)\n- **Previous album**: [Alaska drum setup (2005)](/articles/alaska-drum-setup)\n- **Next album**: [The Great Misdirect drum setup (2009)](/articles/great-misdirect-drum-setup)\n- **Career peak**: [The Parallax II drum setup (2012)](/articles/the-parallax-ii-future-sequence-drum-setup)"
     }
   },
   "great-misdirect-drum-setup": {
@@ -788,7 +788,7 @@ export const articles = {
     "dateModified": "2026-06-28",
     "author": "MetalForge Editorial",
     "title": "Blake Richardson's Drum Setup on Between the Buried and Me's The Great Misdirect (2009)",
-    "description": "Blake Richardson's drum kit and gear on BTBAM's The Great Misdirect (2009): Tama Starclassic Bubinga drums, Sabian Extra Dry cymbals, Tama Iron Cobra Power Glide double pedal, and the performance that closed the Colors era's pre-Parallax arc.",
+    "description": "Blake Richardson's drum kit and gear on BTBAM's The Great Misdirect (2009): DW Collector's Series drums, Meinl Byzance Extra Dry cymbals, DW 9002 chain-drive double bass pedal, and the performance that closed the Colors era's pre-Parallax arc.",
     "seoKeywords": [
       "great misdirect drum setup",
       "between the buried and me great misdirect drums",
@@ -802,24 +802,24 @@ export const articles = {
     "ogImage": "/images/drummers/blake-richardson.webp",
     "intro": {
       "title": "The Great Misdirect: Closing the Colors Arc",
-      "content": "Released October 6, 2009 on Metal Blade Records, *The Great Misdirect* is Between the Buried and Me's fifth studio album and the record that closed the pre-Parallax arc that *Colors* (2007) had opened. Where *Colors* was the statement — one continuous 65-minute composition that redefined progressive metal's ambitions — *The Great Misdirect* was the refinement: a more concentrated record that demonstrated BTBAM had fully absorbed the compositional lessons of *Colors* and could execute the same range of ideas with more focused intensity.\n\nBlake Richardson's drumming on *The Great Misdirect* is the performance of a drummer who had spent two years touring behind *Colors* and arrived at the studio with complete command of every technique the earlier record had showcased. The odd-time signatures are deployed with even greater naturalness; the metric modulations are more seamlessly integrated; the compositional double-bass approach — varying kick density to follow the arrangement's emotional arc — is more precisely controlled. *The Great Misdirect* is not *Colors*' equal in historical significance, but it is Richardson's most technically complete performance of the pre-Parallax period.\n\nThe album's standout drumming moments center on 'Desert of Song' and 'Swim to the Moon' — the record's two most extended tracks. 'Desert of Song' demonstrates Richardson's ability to sustain compositional coherence across radical feel changes without losing forward momentum: the track moves from ambient openings through prog rock textures, death metal intensity, and jazz-inflected passages within a single extended arc. 'Swim to the Moon,' the album's nearly 18-minute closing statement, is the most demanding performance on the record — an epic that calls on every technique Richardson had developed since joining BTBAM and sustains it at a scale that few drummers in the genre could approach.\n\nGear-wise, *The Great Misdirect* was the Tama Starclassic Bubinga and Sabian Extra Dry configuration Richardson had used on *Alaska* and *Colors* — the foundational setup of his career's most important period. The same Jamie King production at The Basement Studio in Winston-Salem gave the drums the full, organic sound the record's dynamic range requires. It was the last album in Richardson's foundational gear era before the setup began evolving toward the expanded Dark/Extra Dry Sabian configuration of the Parallax period.\n\nThis article covers the complete drum setup Blake Richardson used on *The Great Misdirect* — the kit, cymbals, hardware, and playing approach that made this 2009 record the final chapter in the most consequential period of his career.",
+      "content": "Released October 6, 2009 on Metal Blade Records, *The Great Misdirect* is Between the Buried and Me's fifth studio album and the record that closed the pre-Parallax arc that *Colors* (2007) had opened. Where *Colors* was the statement — one continuous 65-minute composition that redefined progressive metal's ambitions — *The Great Misdirect* was the refinement: a more concentrated record that demonstrated BTBAM had fully absorbed the compositional lessons of *Colors* and could execute the same range of ideas with more focused intensity.\n\nBlake Richardson's drumming on *The Great Misdirect* is the performance of a drummer who had spent two years touring behind *Colors* and arrived at the studio with complete command of every technique the earlier record had showcased. The odd-time signatures are deployed with even greater naturalness; the metric modulations are more seamlessly integrated; the compositional double-bass approach — varying kick density to follow the arrangement's emotional arc — is more precisely controlled. *The Great Misdirect* is not *Colors*' equal in historical significance, but it is Richardson's most technically complete performance of the pre-Parallax period.\n\nThe album's standout drumming moments center on 'Desert of Song' and 'Swim to the Moon' — the record's two most extended tracks. 'Desert of Song' demonstrates Richardson's ability to sustain compositional coherence across radical feel changes without losing forward momentum: the track moves from ambient openings through prog rock textures, death metal intensity, and jazz-inflected passages within a single extended arc. 'Swim to the Moon,' the album's nearly 18-minute closing statement, is the most demanding performance on the record — an epic that calls on every technique Richardson had developed since joining BTBAM and sustains it at a scale that few drummers in the genre could approach.\n\nGear-wise, *The Great Misdirect* was the DW Collector's Series and Meinl Byzance Extra Dry configuration Richardson had used on *Alaska* and *Colors* — the foundational setup of his career's most important period. The same Jamie King production at The Basement Studio in Winston-Salem gave the drums the full, organic sound the record's dynamic range requires. It was the last album before Richardson's setup switched to Tama and Sabian for the Automata era (2018).\n\nThis article covers the complete drum setup Blake Richardson used on *The Great Misdirect* — the kit, cymbals, hardware, and playing approach that made this 2009 record the final chapter in the most consequential period of his career.",
       "keyPoints": [
         "BTBAM's follow-up to Colors — closing the pre-Parallax arc and BTBAM's first Metal Blade Records release",
         "Blake Richardson's most technically complete pre-Parallax performance — two years of post-Colors touring behind it",
-        "Tama Starclassic Bubinga in its most refined Colors-era configuration — same Bubinga foundation, precisely calibrated",
-        "Sabian Extra Dry — final album before the Parallax-era Dark series expansion",
+        "DW Collector's Series in its most refined Colors-era configuration — same all-maple foundation, precisely calibrated",
+        "Meinl Byzance Extra Dry — the dark, hand-hammered cymbal voice carried through the entire Colors era",
         "'Desert of Song' and 'Swim to the Moon' (nearly 18 minutes) — most compositionally demanding pre-Parallax performances",
         "Jamie King production at The Basement Studio — consistent recording context across the entire Alaska/Colors/Misdirect era"
       ]
     },
     "drumKit": {
-      "title": "Tama Starclassic Bubinga: The Colors Era Configuration at Full Maturity",
-      "brand": "Tama",
-      "model": "Tama Starclassic Bubinga",
+      "title": "DW Collector's Series: The Colors Era Configuration at Full Maturity",
+      "brand": "DW",
+      "model": "DW Collector's Series",
       "finish": "Custom lacquer finish",
       "config": {
         "bassdrums": [
-          "22\" x 18\" Bass Drum (double bass configuration via Tama Iron Cobra pedal)"
+          "22\" x 18\" Bass Drum (double bass configuration via DW 9002 pedal)"
         ],
         "toms": [
           "10\" x 8\" Rack Tom",
@@ -829,77 +829,77 @@ export const articles = {
         "floorToms": [
           "16\" x 14\" Floor Tom"
         ],
-        "shells": "African Bubinga — warm, resonant tone serving The Great Misdirect's full dynamic range"
+        "shells": "All-maple — warm, resonant tone serving The Great Misdirect's full dynamic range"
       },
-      "description": "The Tama Starclassic Bubinga kit Richardson used on *The Great Misdirect* was the same foundation he had built on *Alaska* (2005) and *Colors* (2007) — two years of post-*Colors* touring had refined every aspect of the setup to its most precisely calibrated state. By 2009, head tensions, tuning pitches, hardware positions, and setup geometry were all optimized for the specific demands of extended progressive metal performance at professional level.\n\nThe African Bubinga shells provide the warm, resonant fundamental that suits *The Great Misdirect*'s dynamic requirements. The album is more concentrated than *Colors* — five tracks rather than eight — but the musical demands on the kit are no less broad. 'Swim to the Moon' alone requires the kit to serve death metal intensity, jazz-inflected passages, and ambient textures within its nearly 18-minute duration. The Tama Starclassic Bubinga handles all of these contexts from a single tuning, its warm fundamental carrying equally well through the track's loudest and most restrained moments.\n\nThe single 22\"x18\" kick via Tama Iron Cobra Power Glide double pedal continues the compositional double-bass approach that had defined the *Colors* era. On 'Desert of Song,' Richardson's kick deployment is particularly musical: sparse in the ambient sections, increasingly dense as the track builds toward its peak intensity passages, and pulling back again during the most exposed melodic moments. This arc-following kick approach is at its most developed on *The Great Misdirect*.\n\nJamie King's Basement Studio production on *The Great Misdirect* was consistent with the *Colors* era approach: natural drum sound with full dynamic range, close-miked presence balanced with ambient room character. The more compact format gave King slightly more production focus per track, and the drum sound reflects this — each performance captured with more intimate clarity, particularly on the album's quieter passages.",
+      "description": "The DW Collector's Series kit Richardson used on *The Great Misdirect* was the same foundation he had built on *Alaska* (2005) and *Colors* (2007) — two years of post-*Colors* touring had refined every aspect of the setup to its most precisely calibrated state. By 2009, head tensions, tuning pitches, hardware positions, and setup geometry were all optimized for the specific demands of extended progressive metal performance at professional level.\n\nThe all-maple shells provide the warm, resonant fundamental that suits *The Great Misdirect*'s dynamic requirements. The album is more concentrated than *Colors* — five tracks rather than eight — but the musical demands on the kit are no less broad. 'Swim to the Moon' alone requires the kit to serve death metal intensity, jazz-inflected passages, and ambient textures within its nearly 18-minute duration. The DW Collector's Series handles all of these contexts from a single tuning, its warm fundamental carrying equally well through the track's loudest and most restrained moments.\n\nThe single 22\"x18\" kick via DW 9002 chain-drive double bass pedal continues the compositional double-bass approach that had defined the *Colors* era. On 'Desert of Song,' Richardson's kick deployment is particularly musical: sparse in the ambient sections, increasingly dense as the track builds toward its peak intensity passages, and pulling back again during the most exposed melodic moments. This arc-following kick approach is at its most developed on *The Great Misdirect*.\n\nJamie King's Basement Studio production on *The Great Misdirect* was consistent with the *Colors* era approach: natural drum sound with full dynamic range, close-miked presence balanced with ambient room character. The more compact format gave King slightly more production focus per track, and the drum sound reflects this — each performance captured with more intimate clarity, particularly on the album's quieter passages.",
       "notes": [
-        "Tama Starclassic Bubinga at the peak of its Colors-era refinement — two years of post-Colors touring behind it",
-        "22\"x18\" kick via Tama Iron Cobra — compositional double-bass at its most precise on Desert of Song and Swim to the Moon",
+        "DW Collector's Series at the peak of its Colors-era refinement — two years of post-Colors touring behind it",
+        "22\"x18\" kick via DW 9002 chain-drive double bass pedal — compositional double-bass at its most precise on Desert of Song and Swim to the Moon",
         "Three rack toms (10\", 12\", 13\") — wide pitch range for melodic fills across The Great Misdirect's extended tracks",
         "Jamie King Basement Studio production captures natural kit dynamics across the album's full range",
-        "Final album in the foundational Tama era before the Parallax-era gear evolution began"
+        "Final album before Richardson's setup switched to Tama and Sabian for the Automata era (2018)"
       ],
-      "estimatedValue": "$3,500–6,000 (Tama Starclassic Bubinga shell pack, 2009 configuration)"
+      "estimatedValue": "$3,500–6,000 (DW Collector's Series shell pack, 2009 configuration)"
     },
     "snare": {
-      "title": "Tama STARPHONIC Brass: The Voice of the Colors Arc's Final Chapter",
-      "brand": "Tama",
-      "model": "Tama STARPHONIC Brass Snare",
+      "title": "DW Collector's Series Maple: The Voice of the Colors Arc's Final Chapter",
+      "brand": "DW",
+      "model": "DW Collector's Series Maple Snare",
       "size": "14\" x 6.5\"",
-      "shell": "Brass",
-      "description": "Richardson's Tama STARPHONIC brass snare on *The Great Misdirect* is the same model that drove *Colors* — a 14\"x6.5\" brass shell that had been Richardson's consistent snare voice across the entire foundational BTBAM period. By 2009, this snare was precisely understood: its tuning range, its ghost note definition, its projection in the dense mix of the record's most intense passages. Tuned at medium tension, the brass shell provides full body at high velocities and bright sensitivity at low ones — the range *The Great Misdirect*'s extended tracks demand.\n\n'Swim to the Moon' places the most demanding snare requirements on Richardson of any pre-Parallax BTBAM track. The nearly 18-minute track's multiple genre transitions require the snare to operate across death metal velocity, jazz-influenced ghost note density, and restrained ambient passages — all within a single performance, without head changes. The Tama STARPHONIC brass handles all of these contexts from the same tuning: the 6.5\" depth gives authority at full velocity, the brass fundamental provides cut for ghost note work.\n\nJamie King's snare capture on *The Great Misdirect* emphasizes natural shell body — the same close-mic-plus-overhead-room approach used on *Alaska* and *Colors*, now applied to a more concentrated five-track format. The result is a snare sound that is slightly more intimate than the *Colors* production, the natural brass fundamental more evident in the mix during the album's quieter passages.",
+      "shell": "Maple",
+      "description": "Richardson's DW Collector's Series maple snare on *The Great Misdirect* is the same model that drove *Colors* — a 14\"x6.5\" maple shell that had been Richardson's consistent snare voice across the entire foundational BTBAM period. By 2009, this snare was precisely understood: its tuning range, its ghost note definition, its projection in the dense mix of the record's most intense passages. Tuned at medium tension, the maple shell provides full body at high velocities and warm sensitivity at low ones — the range *The Great Misdirect*'s extended tracks demand.\n\n'Swim to the Moon' places the most demanding snare requirements on Richardson of any pre-Parallax BTBAM track. The nearly 18-minute track's multiple genre transitions require the snare to operate across death metal velocity, jazz-influenced ghost note density, and restrained ambient passages — all within a single performance, without head changes. The DW Collector's Series maple snare handles all of these contexts from the same tuning: the 6.5\" depth gives authority at full velocity, the maple fundamental provides warmth for ghost note work.\n\nJamie King's snare capture on *The Great Misdirect* emphasizes natural shell body — the same close-mic-plus-overhead-room approach used on *Alaska* and *Colors*, now applied to a more concentrated five-track format. The result is a snare sound that is slightly more intimate than the *Colors* production, the natural maple fundamental more evident in the mix during the album's quieter passages.",
       "tuningSetting": "Medium tension — same dialed-in configuration from the Colors era, full body and ghost-note sensitivity across The Great Misdirect's extended compositions",
       "heads": "Remo Ambassador Coated (batter), Remo Hazy Snare Side (resonant)",
-      "estimatedValue": "$400–700 (Tama STARPHONIC brass snare, 2009 configuration)"
+      "estimatedValue": "$400–700 (DW Collector's Series maple snare, 2009 configuration)"
     },
     "cymbals": {
-      "title": "Sabian Extra Dry: The Colors Arc's Final Statement",
-      "brand": "Sabian",
-      "series": "Sabian AAX Series",
+      "title": "Meinl Byzance Extra Dry: The Colors Arc's Final Statement",
+      "brand": "Meinl",
+      "series": "Meinl Byzance Extra Dry Series",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Sabian 14\" Extra Dry Hi-Hats",
+          "model": "Meinl Byzance Extra Dry 14\" Hi-Hats",
           "position": "Left side",
           "notes": "Dry, controlled hi-hat voice — articulate jazz-influenced patterns across Desert of Song and Swim to the Moon"
         },
         {
           "type": "Crash",
-          "model": "Sabian Extra Dry 17\" Thin Crash",
+          "model": "Meinl Byzance Extra Dry 17\" Thin Crash",
           "position": "Left crash",
           "notes": "Fast, focused crash for technical passage accent punctuation throughout The Great Misdirect"
         },
         {
           "type": "Crash",
-          "model": "Sabian Extra Dry 18\" Thin Crash",
+          "model": "Meinl Byzance Extra Dry 18\" Thin Crash",
           "position": "Right crash",
           "notes": "Fuller crash voice for larger structural accents in Swim to the Moon's peak intensity sections"
         },
         {
           "type": "Ride",
-          "model": "Sabian Extra Dry 20\" Ride",
+          "model": "Meinl Byzance Extra Dry 20\" Ride",
           "position": "Far right",
           "notes": "Dry, minimal wash — clean articulation for Richardson's metric modulation sequences in The Great Misdirect's extended tracks"
         },
         {
           "type": "China",
-          "model": "Sabian 18\" China",
+          "model": "Meinl Byzance Extra Dry 18\" China",
           "position": "Over rack toms",
           "notes": "Aggressive upward-projecting accent for The Great Misdirect's death metal passages — used selectively"
         }
       ],
-      "description": "Richardson's Sabian Extra Dry cymbal setup on *The Great Misdirect* was the final appearance of the purely Extra Dry configuration that had defined the *Alaska* and *Colors* era. By *The Parallax: Hypersleep Dialogues* (2011) and *The Parallax II* (2012), he would expand the setup to include Sabian Dark voicings for the jazz-inflected passages — but on *The Great Misdirect*, the Extra Dry series remained the primary cymbal voice for the entire performance.\n\nThe Extra Dry series' defining characteristic — additional lathing and hammering that tightens decay and removes excess wash — is precisely suited to *The Great Misdirect*'s extended compositional demands. 'Swim to the Moon' is the test case: a nearly 18-minute track whose rhythmically complex passages require every cymbal stroke to speak cleanly without sustaining into the next note. The Extra Dry voice keeps each stroke's timing clearly defined through the track's most complex sections.\n\nThe 14\" Extra Dry Hi-Hats anchor Richardson's hi-hat independence approach throughout the album. On 'Desert of Song,' his hi-hat foot operates as an independent melodic voice during the track's jazz-inflected passages — dense foot patterns providing rhythmic texture beneath the snare and tom patterns. Dual Extra Dry crashes (17\" and 18\" Thin Crashes) provide the two-voice accent palette Richardson deploys across the record's structural moments: fast, focused punctuation in technical passages (17\"), and fuller accent weight for peak intensity sections in 'Swim to the Moon' (18\"). The Extra Dry Ride provides clean articulation through the album's most rhythmically demanding passages.\n\nFor how this setup evolved into the Dark/Extra Dry dual configuration of the Parallax era, see the [Colors drum setup](/articles/colors-drum-setup) and [The Parallax II drum setup](/articles/the-parallax-ii-future-sequence-drum-setup).",
-      "estimatedValue": "$2,000–3,500 (Sabian AAX setup, 2009 configuration)"
+      "description": "Richardson's Meinl Byzance Extra Dry cymbal setup on *The Great Misdirect* continued the dark, hand-hammered configuration that had defined the *Alaska* and *Colors* era. The Extra Dry series remained the primary cymbal voice for the entire performance — the same setup that would carry through *The Parallax: Hypersleep Dialogues* (2011) and *The Parallax II* (2012) before Richardson's gear switched to Sabian for the Automata era (2018).\n\nThe Extra Dry series' defining characteristic — additional lathing and hammering that tightens decay and removes excess wash — is precisely suited to *The Great Misdirect*'s extended compositional demands. 'Swim to the Moon' is the test case: a nearly 18-minute track whose rhythmically complex passages require every cymbal stroke to speak cleanly without sustaining into the next note. The Extra Dry voice keeps each stroke's timing clearly defined through the track's most complex sections.\n\nThe 14\" Extra Dry Hi-Hats anchor Richardson's hi-hat independence approach throughout the album. On 'Desert of Song,' his hi-hat foot operates as an independent melodic voice during the track's jazz-inflected passages — dense foot patterns providing rhythmic texture beneath the snare and tom patterns. Dual Extra Dry crashes (17\" and 18\" Thin Crashes) provide the two-voice accent palette Richardson deploys across the record's structural moments: fast, focused punctuation in technical passages (17\"), and fuller accent weight for peak intensity sections in 'Swim to the Moon' (18\"). The Extra Dry Ride provides clean articulation through the album's most rhythmically demanding passages.\n\nFor how this setup carried through the rest of the pre-Automata era, see the [Colors drum setup](/articles/colors-drum-setup) and [The Parallax II drum setup](/articles/the-parallax-ii-future-sequence-drum-setup).",
+      "estimatedValue": "$2,000–3,500 (Meinl Byzance Extra Dry setup, 2009 configuration)"
     },
     "hardware": {
-      "title": "Tama Iron Cobra and Vic Firth 5B: Colors-Era Foundation for an Extended Epic",
+      "title": "DW 9002 and Vic Firth 5B: Colors-Era Foundation for an Extended Epic",
       "items": [
         {
           "type": "Bass Drum Pedals",
-          "brand": "Tama",
-          "model": "Tama Iron Cobra Power Glide Double Pedal",
+          "brand": "DW",
+          "model": "DW 9002 Chain-Drive Double Bass Pedal",
           "notes": "Chain-drive double pedal — compositional double-bass control across The Great Misdirect's extended tracks",
-          "description": "The Tama Iron Cobra continues as Richardson's kick foundation on *The Great Misdirect* — the same pedal configuration that had driven *Alaska* and *Colors*, now at peak refinement after the post-*Colors* touring cycle. On 'Swim to the Moon,' the Iron Cobra's adjustable cam allows Richardson to vary kick density continuously across the track's nearly 18-minute duration — from sparse ambient sections through the full double-bass intensity of the death metal passages, with precise control over the power curve and return speed throughout."
+          "description": "The DW 9002 continues as Richardson's kick foundation on *The Great Misdirect* — the same pedal configuration that had driven *Alaska* and *Colors*, now at peak refinement after the post-*Colors* touring cycle. On 'Swim to the Moon,' the 9002's adjustable cam allows Richardson to vary kick density continuously across the track's nearly 18-minute duration — from sparse ambient sections through the full double-bass intensity of the death metal passages, with precise control over the power curve and return speed throughout."
         },
         {
           "type": "Sticks",
@@ -933,7 +933,7 @@ export const articles = {
       },
       {
         "question": "What kit does Blake Richardson use on Great Misdirect?",
-        "answer": "Blake Richardson played a Tama Starclassic Bubinga kit on *The Great Misdirect* (2009) — the same African Bubinga configuration he had used on *Alaska* (2005) and *Colors* (2007), at its most refined state after two years of post-*Colors* touring. Configuration: single 22\"x18\" bass drum driven by a Tama Iron Cobra Power Glide double pedal, three rack toms (10\", 12\", 13\"), and a 16\" floor tom. Sabian Extra Dry cymbals completed the setup. Full drummer profile at [Blake Richardson at MetalForge](/drummer/blake-richardson)."
+        "answer": "Blake Richardson played a DW Collector's Series kit on *The Great Misdirect* (2009) — the same all-maple configuration he had used on *Alaska* (2005) and *Colors* (2007), at its most refined state after two years of post-*Colors* touring. Configuration: single 22\"x18\" bass drum driven by a DW 9002 chain-drive double bass pedal, three rack toms (10\", 12\", 13\"), and a 16\" floor tom. Meinl Byzance Extra Dry cymbals completed the setup. Full drummer profile at [Blake Richardson at MetalForge](/drummer/blake-richardson)."
       },
       {
         "question": "When did BTBAM release Great Misdirect?",
@@ -951,7 +951,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "The Great Misdirect: The Colors Arc's Final Statement",
-      "content": "*The Great Misdirect* (2009) closes the most important period in Blake Richardson's recorded career. Following *Alaska* (2005) and *Colors* (2007) — the two records that established BTBAM and Richardson as progressive metal's most important new voices of the decade — *The Great Misdirect* delivered the same range of ideas with more concentrated intensity and more precise technical execution.\n\nHis Tama Starclassic Bubinga setup, Sabian Extra Dry cymbals, and Tama Iron Cobra Power Glide double pedal — the gear configuration of the entire Colors arc — appear here in their most refined state. 'Swim to the Moon' is the final and most demanding document of this foundational period.\n\n- **Full drummer profile**: [Blake Richardson at MetalForge](/drummer/blake-richardson)\n- **Previous album**: [Colors drum setup (2007)](/articles/colors-drum-setup)\n- **Next album**: [The Parallax II drum setup (2012)](/articles/the-parallax-ii-future-sequence-drum-setup)\n- **Era overview**: [Alaska drum setup (2005)](/articles/alaska-drum-setup)"
+      "content": "*The Great Misdirect* (2009) closes the most important period in Blake Richardson's recorded career. Following *Alaska* (2005) and *Colors* (2007) — the two records that established BTBAM and Richardson as progressive metal's most important new voices of the decade — *The Great Misdirect* delivered the same range of ideas with more concentrated intensity and more precise technical execution.\n\nHis DW Collector's Series setup, Meinl Byzance Extra Dry cymbals, and DW 9002 chain-drive double bass pedal — the gear configuration of the entire Colors arc — appear here in their most refined state. 'Swim to the Moon' is the final and most demanding document of this foundational period.\n\n- **Full drummer profile**: [Blake Richardson at MetalForge](/drummer/blake-richardson)\n- **Previous album**: [Colors drum setup (2007)](/articles/colors-drum-setup)\n- **Next album**: [The Parallax II drum setup (2012)](/articles/the-parallax-ii-future-sequence-drum-setup)\n- **Era overview**: [Alaska drum setup (2005)](/articles/alaska-drum-setup)"
     }
   },
   "automata-i-drum-setup": {

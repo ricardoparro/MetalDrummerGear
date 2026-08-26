@@ -2671,12 +2671,12 @@ export const articles = {
         ],
         "description": "Rejoining Slayer, Grammy win, second departure.",
         "gear": {
-          "drums": "Tama Starclassic Maple",
-          "snare": "Tama Starclassic Steel 14x6.5\"",
-          "cymbals": "Paiste RUDE / 2002 / \"Reign\" signature",
-          "hardware": "Tama Iron Cobra 900"
+          "drums": "Tama Starclassic Maple (God Hates Us All), Pearl Masters MCX (Christ Illusion, 2006), Tama Starclassic Maple (World Painted Blood, 2009)",
+          "snare": "Tama Starclassic Steel 14x6.5\" (Tama-era), Pearl Free-Floating Brass 14x6.5\" (Christ Illusion)",
+          "cymbals": "Zildjian A Custom (Christ Illusion) → Zildjian K Custom Dark (World Painted Blood)",
+          "hardware": "Tama Iron Cobra 900 (Tama-era), Pearl Demon Drive (Christ Illusion)"
         },
-        "notes": "Grammy for \"Eyes of the Insane\" (2006). Second departure in 2013."
+        "notes": "Grammy for \"Eyes of the Insane\" (2006). Deviated to Pearl/Zildjian for Christ Illusion before returning to Tama for World Painted Blood. Second departure in 2013."
       },
       {
         "era": "Post-Slayer / Pantera",

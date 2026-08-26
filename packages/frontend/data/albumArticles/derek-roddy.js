@@ -21,12 +21,12 @@ export const articles = {
     "dateModified": "2026-03-27",
     "author": "MetalForge Editorial",
     "title": "What's In Derek Roddy's Kit: The Extreme Metal Educator's Speed Arsenal",
-    "description": "Discover Derek Roddy's complete drum setup — the DW drums, Axis pedals, and technique-focused gear that power death metal's most influential educator. Complete breakdown of the blast beat pioneer's equipment.",
+    "description": "Discover Derek Roddy's complete drum setup — the Tama Starclassic drums, Meinl cymbals, Axis pedals, and technique-focused gear that power death metal's most influential educator. Complete breakdown of the blast beat pioneer's equipment.",
     "seoKeywords": [
       "derek roddy drum kit",
       "derek roddy setup",
       "hate eternal drummer gear",
-      "derek roddy dw drums",
+      "derek roddy tama drums",
       "derek roddy axis pedals",
       "blast beat drums",
       "extreme metal drums",
@@ -45,9 +45,9 @@ export const articles = {
       ]
     },
     "drumKit": {
-      "title": "Derek's DW Collector's Setup",
-      "brand": "DW",
-      "model": "DW Collector's Series Maple",
+      "title": "Derek's Tama Starclassic Setup",
+      "brand": "Tama",
+      "model": "Tama Starclassic Bubinga",
       "finish": "Various custom finishes",
       "config": {
         "bassdrums": [
@@ -61,73 +61,73 @@ export const articles = {
           "14\" x 14\" Floor Tom",
           "16\" x 16\" Floor Tom"
         ],
-        "shells": "North American Hard Rock Maple with reinforcement rings"
+        "shells": "Bubinga/birch composite shells with reinforcement rings"
       },
-      "description": "Derek Roddy's drum setup reflects his philosophy: the kit should support technique, not compensate for it. His DW Collector's Series drums provide the attack, projection, and tuning stability needed for extreme metal's demands without being overly specialized.\n\nThe 22\" x 18\" bass drum is deeper than many metal drummers prefer. Where some favor 20\" or smaller kicks for speed, Derek's 22\" provides the low-end punch that cuts through Hate Eternal's wall of guitars. The depth (18\") adds body without sacrificing articulation — crucial for blast beats where every stroke must speak clearly.\n\nThe rack toms (10\" and 12\") and floor toms (14\" and 16\") are standard sizes that work across multiple musical contexts. Derek isn't interested in exotic configurations; he wants drums that respond predictably so technique can shine. DW's consistent shell construction and True Pitch tuning hardware deliver that reliability.\n\nMaple shells provide the attack and projection death metal demands. Unlike birch or other woods that emphasize specific frequencies, maple offers a balanced tone that lets Derek's playing determine the sound. The shells project without being harsh — essential for sustained blast sections.\n\nDW's MAG throw-off and True Pitch tuning system ensure the kit stays in tune through brutal performances. When you're playing 250+ BPM blast beats, the last thing you need is a lug drifting out of tune. This attention to stability reflects Derek's methodical approach.",
+      "description": "Derek Roddy's drum setup reflects his philosophy: the kit should support technique, not compensate for it. His Tama Starclassic Bubinga drums provide the attack, projection, and tuning stability needed for extreme metal's demands without being overly specialized.\n\nThe 22\" x 18\" bass drum is deeper than many metal drummers prefer. Where some favor 20\" or smaller kicks for speed, Derek's 22\" provides the low-end punch that cuts through Hate Eternal's wall of guitars. The depth (18\") adds body without sacrificing articulation — crucial for blast beats where every stroke must speak clearly.\n\nThe rack toms (10\" and 12\") and floor toms (14\" and 16\") are standard sizes that work across multiple musical contexts. Derek isn't interested in exotic configurations; he wants drums that respond predictably so technique can shine. Tama's Starclassic shell construction and hardware deliver that reliability.\n\nBubinga shells provide the attack and low-end punch death metal demands. Denser than maple, bubinga offers a focused tone with pronounced low-mid presence that lets Derek's playing determine the sound. The shells project without being harsh — essential for sustained blast sections.\n\nTama's die-cast hoops and tuning hardware ensure the kit stays in tune through brutal performances. When you're playing 250+ BPM blast beats, the last thing you need is a lug drifting out of tune. This attention to stability reflects Derek's methodical approach.",
       "notes": [
         "22\" bass drum — deeper than typical extreme metal for low-end punch",
         "Standard tom sizes for predictable response",
-        "Maple shells for balanced attack and projection",
-        "DW True Pitch tuning for stability during intense playing",
+        "Bubinga shells for focused attack and low-end punch",
+        "Tama Starclassic hardware for stability during intense playing",
         "Setup designed to support technique, not substitute for it"
       ],
-      "estimatedValue": "$4,000-6,000 (Collector's Series configuration)"
+      "estimatedValue": "$3,000-5,000 (Starclassic Bubinga configuration)"
     },
     "snare": {
       "title": "The Snare That Cuts Through Chaos",
-      "brand": "DW",
-      "model": "DW Collector's Series Maple or Brass",
-      "size": "14\" x 5.5\"",
-      "shell": "Maple or Brass depending on project",
-      "description": "Derek Roddy's snare drum choices prioritize cut and articulation. In the dense sonic landscape of technical death metal — where guitars are tuned low and blast beats are constant — the snare must slice through without reinforcement from triggers.\n\nHis primary snare is a DW Collector's Maple or Brass model at 14\" x 5.5\". The standard 14\" diameter provides familiar response for rudiments and blast patterns, while the 5.5\" depth balances crack with body. This depth is a sweet spot: deep enough for power, shallow enough for quick response.\n\nThe maple version offers warmth and a focused attack that blends with the kit. The brass version delivers more cutting highs and enhanced projection — useful for live situations or recordings where maximum snare presence is needed. Derek switches between them based on the musical context.\n\nTuning is crucial. Derek tunes his snare medium-high for maximum articulation during blast beats. Each stroke must be distinct; a muddy snare undermines the precision that defines his playing. The DW True Tone snare wires provide sensitivity without excessive ring.\n\nImportantly, Derek typically avoids triggers on his snare. While many extreme metal drummers rely on triggered snare samples, Derek's technique produces consistent volume and attack naturally. His philosophy: if you need a trigger to sound consistent, work on your technique instead.",
+      "brand": "Tama",
+      "model": "Tama SLP Black Brass",
+      "size": "14\" x 6.5\"",
+      "shell": "Black Brass",
+      "description": "Derek Roddy's snare drum choices prioritize cut and articulation. In the dense sonic landscape of technical death metal — where guitars are tuned low and blast beats are constant — the snare must slice through without reinforcement from triggers.\n\nHis primary snare is a Tama SLP Black Brass model at 14\" x 6.5\". The standard 14\" diameter provides familiar response for rudiments and blast patterns, while the 6.5\" depth balances crack with body and power.\n\nThe brass shell delivers cutting highs and enhanced projection — useful for live situations or recordings where maximum snare presence is needed against dense, down-tuned guitars.\n\nTuning is crucial. Derek tunes his snare medium-high for maximum articulation during blast beats. Each stroke must be distinct; a muddy snare undermines the precision that defines his playing.\n\nImportantly, Derek typically avoids triggers on his snare. While many extreme metal drummers rely on triggered snare samples, Derek's technique produces consistent volume and attack naturally. His philosophy: if you need a trigger to sound consistent, work on your technique instead.",
       "tuningSetting": "Medium-high tension for blast beat articulation",
       "heads": "Evans Genera HD Dry or Remo Emperor Coated (batter), Hazy 300 snare side (resonant)",
-      "estimatedValue": "$600-800"
+      "estimatedValue": "$300-600"
     },
     "cymbals": {
-      "title": "Sabian HHX & AAX: Power and Durability",
-      "brand": "Sabian",
-      "series": "Sabian HHX and AAX Series",
+      "title": "Meinl Byzance & Mb20: Power and Precision",
+      "brand": "Meinl",
+      "series": "Meinl Byzance and Mb20 Heavy Series",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Sabian HHX 14\" Stage Hi-Hats",
+          "model": "Meinl Byzance 14\" Hi-Hats",
           "position": "Left side",
           "notes": "Powerful, cutting hi-hats for speed playing"
         },
         {
           "type": "Crash",
-          "model": "Sabian AAX 18\" X-Plosion Crash",
+          "model": "Meinl Mb20 Heavy 16\" Crash",
           "position": "Left of hi-hats",
           "notes": "Fast attack, quick decay — essential for blast accents"
         },
         {
           "type": "Crash",
-          "model": "Sabian AAX 19\" X-Plosion Crash",
+          "model": "Meinl Mb20 Heavy 18\" Crash",
           "position": "Over rack toms",
           "notes": "Larger crash for bigger accents"
         },
         {
           "type": "Ride",
-          "model": "Sabian HHX 21\" Raw Bell Dry Ride",
+          "model": "Meinl Byzance 20\" Ride",
           "position": "Far right",
           "notes": "Articulate ride with controlled wash"
         },
         {
           "type": "China",
-          "model": "Sabian AAX 19\" Chinese",
+          "model": "Meinl Byzance 18\" China",
           "position": "Above floor tom",
           "notes": "Aggressive accents without excessive sustain"
         },
         {
           "type": "Splash",
-          "model": "Sabian AAX 10\" Splash",
+          "model": "Meinl Byzance 10\" Splash",
           "position": "Effect position",
           "notes": "Quick accents and fills"
         }
       ],
-      "description": "Derek Roddy's cymbal setup combines Sabian's HHX (hand-hammered, darker) and AAX (bright, cutting) lines for a versatile palette that works across extreme metal's demands.\n\nThe 14\" HHX Stage Hi-Hats are crucial to Derek's sound. At high speeds, hi-hats must cut without becoming washy. The Stage model's weight and profile provide stick definition even during sustained 16th-note patterns at extreme tempos. The \"chick\" sound is tight and defined — essential for the precision Derek demands.\n\nAAX X-Plosion crashes (18\" and 19\") deliver the fast attack and controlled sustain ideal for blast beat accents. Where traditional crashes might wash out during constant playing, the X-Plosion cuts through and decays quickly, ready for the next hit. This quick response prevents cymbal buildup that would muddy the mix.\n\nThe 21\" HHX Raw Bell Dry Ride provides articulation without excessive wash. The \"dry\" character means Derek can ride during intense sections without creating a wall of cymbal noise. The raw bell offers a cutting ping for accents.\n\nDerek's cymbal choices reflect his practical approach: they need to survive brutal playing while producing a controllable sound. He's not interested in exotic cymbals that record well but break easily. Durability matters when you're touring extreme metal.\n\nThe China cymbal adds aggression without overwhelming sustain. Positioned for quick access, it punctuates transitions and accents without lingering in the mix.",
-      "estimatedValue": "$2,000-2,500 total (HHX/AAX hybrid setup)"
+      "description": "Derek Roddy's cymbal setup combines Meinl's Byzance (hand-hammered, darker) and Mb20 Heavy Series (bright, cutting) lines for a versatile palette that works across extreme metal's demands.\n\nThe 14\" Byzance Hi-Hats are crucial to Derek's sound. At high speeds, hi-hats must cut without becoming washy. Their weight and profile provide stick definition even during sustained 16th-note patterns at extreme tempos. The \"chick\" sound is tight and defined — essential for the precision Derek demands.\n\nMb20 Heavy crashes (16\" and 18\") deliver the fast attack and controlled sustain ideal for blast beat accents. Where traditional crashes might wash out during constant playing, the Mb20 Heavy cuts through and decays quickly, ready for the next hit. This quick response prevents cymbal buildup that would muddy the mix.\n\nThe 20\" Byzance Ride provides articulation without excessive wash, letting Derek ride during intense sections without creating a wall of cymbal noise. The bell offers a cutting ping for accents.\n\nDerek's cymbal choices reflect his practical approach: they need to survive brutal playing while producing a controllable sound. He's not interested in exotic cymbals that record well but break easily. Durability matters when you're touring extreme metal.\n\nThe China cymbal adds aggression without overwhelming sustain. Positioned for quick access, it punctuates transitions and accents without lingering in the mix.",
+      "estimatedValue": "$1,400-2,200 total (Byzance/Mb20 Heavy hybrid setup)"
     },
     "hardware": {
       "title": "Axis Longboards: The Speed Platform",
@@ -141,14 +141,14 @@ export const articles = {
         },
         {
           "type": "Hi-Hat Stand",
-          "brand": "DW",
-          "model": "DW 9500 Hi-Hat Stand",
+          "brand": "Tama",
+          "model": "Tama Speed Cobra Hi-Hat Stand",
           "notes": "Heavy-duty stand for stability during fast footwork"
         },
         {
           "type": "Throne",
-          "brand": "DW",
-          "model": "DW 9100M Throne",
+          "brand": "Tama",
+          "model": "Tama Roadpro Throne",
           "notes": "Ergonomic support for extended playing sessions"
         },
         {
@@ -219,7 +219,7 @@ export const articles = {
         "gear": {
           "drums": "Various kits",
           "snare": "Various",
-          "cymbals": "Sabian",
+          "cymbals": "Meinl",
           "hardware": "Developing pedal preferences"
         },
         "notes": "Derek's formative years, developing the techniques that would define his career."
@@ -234,7 +234,7 @@ export const articles = {
         "gear": {
           "drums": "Tour kit",
           "snare": "Various",
-          "cymbals": "Sabian",
+          "cymbals": "Meinl",
           "hardware": "Axis double pedals"
         },
         "notes": "Touring with one of death metal's most demanding bands proved Derek's abilities."
@@ -249,9 +249,9 @@ export const articles = {
         ],
         "description": "Primary recording and touring period with Hate Eternal.",
         "gear": {
-          "drums": "DW Collector's Series",
-          "snare": "DW Collector's Maple/Brass",
-          "cymbals": "Sabian HHX/AAX",
+          "drums": "Tama Starclassic Bubinga",
+          "snare": "Tama SLP Black Brass",
+          "cymbals": "Meinl Byzance/Mb20 Heavy",
           "hardware": "Axis Longboard pedals, Vater sticks"
         },
         "notes": "This era produced Derek's most celebrated recordings and established his gear preferences."
@@ -265,9 +265,9 @@ export const articles = {
         ],
         "description": "Shifted focus to education and clinic work.",
         "gear": {
-          "drums": "DW Collector's or various clinic kits",
-          "snare": "DW",
-          "cymbals": "Sabian",
+          "drums": "Tama Starclassic or various clinic kits",
+          "snare": "Tama",
+          "cymbals": "Meinl",
           "hardware": "Axis Longboard pedals"
         },
         "notes": "\"The Evolution of Blast Beats\" cemented Derek's legacy as death metal's premier educator."
@@ -280,9 +280,9 @@ export const articles = {
         ],
         "description": "Continued education and selective performing.",
         "gear": {
-          "drums": "DW or various based on context",
-          "snare": "DW Collector's",
-          "cymbals": "Sabian HHX/AAX",
+          "drums": "Tama or various based on context",
+          "snare": "Tama SLP",
+          "cymbals": "Meinl Byzance/Mb20 Heavy",
           "hardware": "Axis Longboard pedals, Vater sticks"
         },
         "notes": "Derek continues influencing drummers worldwide through education and occasional performing."
@@ -315,10 +315,10 @@ export const articles = {
       "title": "Derek's Gear You Can Buy Today",
       "items": [
         {
-          "item": "DW Collector's Series Drums",
+          "item": "Tama Starclassic Bubinga Drums",
           "available": true,
-          "priceRange": "$4,000-7,000",
-          "notes": "Custom configurations available through DW dealers"
+          "priceRange": "$3,000-5,500",
+          "notes": "Custom configurations available through Tama dealers"
         },
         {
           "item": "Axis A Longboard Pedals",
@@ -327,10 +327,10 @@ export const articles = {
           "notes": "The specific pedal Derek relies on — direct drive, longboard"
         },
         {
-          "item": "Sabian HHX/AAX Cymbals",
+          "item": "Meinl Byzance/Mb20 Heavy Cymbals",
           "available": true,
           "priceRange": "$200-400 per cymbal",
-          "notes": "Full HHX and AAX lines available"
+          "notes": "Full Byzance and Mb20 Heavy lines available"
         },
         {
           "item": "Vater Drumsticks",
@@ -354,7 +354,7 @@ export const articles = {
           "tier": "Budget Build (~$2,500)",
           "items": [
             "PDP Concept Maple (22\" bass, 10/12/14/16 toms) — $1,200",
-            "Sabian XSR series cymbals — $600",
+            "Meinl HCS series cymbals — $600",
             "Axis A Single/Double Pedal (or Tama Speed Cobra) — $400",
             "Evans G2/EMAD heads — $150",
             "Vater 5B sticks — $15"
@@ -364,21 +364,21 @@ export const articles = {
         {
           "tier": "Mid-Range Build (~$5,000)",
           "items": [
-            "DW Performance Series — $2,500",
-            "Sabian AAX series cymbals — $1,200",
+            "Tama Superstar Series — $2,500",
+            "Meinl Mb20 Heavy series cymbals — $1,200",
             "Axis A Longboard Double Pedal — $700",
-            "DW 9000 series hardware — $400",
+            "Tama Speed Cobra hardware — $400",
             "Evans EC2/EMAD heads — $150"
           ],
-          "notes": "The Performance Series offers DW quality at a more accessible price. Axis Longboards are essential for heel-toe technique."
+          "notes": "The Superstar Series offers Tama quality at a more accessible price. Axis Longboards are essential for heel-toe technique."
         },
         {
           "tier": "Pro Build (~$8,000+)",
           "items": [
-            "DW Collector's Series Maple — $4,500",
-            "Sabian HHX/AAX hybrid setup — $2,000",
+            "Tama Starclassic Bubinga — $4,500",
+            "Meinl Byzance/Mb20 Heavy hybrid setup — $2,000",
             "Axis A Longboard Double Pedal — $700",
-            "DW 9000 series complete hardware pack — $800",
+            "Tama Starclassic complete hardware pack — $800",
             "Evans/Remo pro-level heads — $200"
           ],
           "notes": "This replicates Derek's actual setup. Remember: technique matters more than gear. Derek could blast on a budget kit."
@@ -435,12 +435,12 @@ export const articles = {
         "url": "/bands/hate-eternal"
       },
       {
-        "text": "DW Drums brand guide",
-        "url": "/brands/dw"
+        "text": "Tama Drums brand guide",
+        "url": "/brands/tama"
       },
       {
-        "text": "Sabian Cymbals brand guide",
-        "url": "/brands/sabian"
+        "text": "Meinl Cymbals brand guide",
+        "url": "/brands/meinl"
       },
       {
         "text": "George Kollias kit article",
@@ -454,20 +454,20 @@ export const articles = {
     "faq": [
       {
         "question": "What drum kit does Derek Roddy use?",
-        "answer": "Derek Roddy plays a DW Collector's Series Maple kit built with North American Hard Rock Maple shells. His configuration includes a 22x18 inch bass drum, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. The DW Collector's Series is DW's flagship professional line, known for its consistent shell quality and wide customization options, making it a go-to choice for extreme metal drummers who demand both speed response and tonal depth."
+        "answer": "Derek Roddy plays a Tama Starclassic Bubinga kit. His configuration includes a 22x18 inch bass drum, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. The Starclassic Bubinga is Tama's flagship professional line, known for its dense, focused low-end and wide customization options, making it a go-to choice for extreme metal drummers who demand both speed response and tonal depth."
       },
       {
         "question": "What cymbals does Derek Roddy use?",
-        "answer": "Derek Roddy uses Sabian HHX and AAX series cymbals. His setup includes Sabian HHX 14 inch Stage Hi-Hats, Sabian AAX 18 and 19 inch X-Plosion Crashes, a Sabian HHX 21 inch Raw Bell Dry Ride, a Sabian AAX 19 inch Chinese, and a Sabian AAX 10 inch Splash. The HHX series delivers a darker, more complex wash while the AAX pieces cut through dense metal mixes with focused projection."
+        "answer": "Derek Roddy uses Meinl Byzance and Mb20 Heavy Series cymbals. His setup includes Meinl Byzance 14 inch Hi-Hats, Meinl Mb20 Heavy 16 and 18 inch Crashes, a Meinl Byzance 20 inch Ride, a Meinl Byzance 18 inch China, and a Meinl Byzance 10 inch Splash. The Byzance series delivers a darker, more complex wash while the Mb20 Heavy pieces cut through dense metal mixes with focused projection."
       },
       {
         "question": "How much does Derek Roddy's drum kit cost?",
-        "answer": "Derek Roddy's DW Collector's Series Maple shell pack is estimated at $4,000 to $6,000 new. His DW Collector's Series snare in maple or brass adds approximately $600 to $800. The Sabian HHX and AAX cymbal setup runs roughly $1,500 to $2,500 complete. A full comparable setup including hardware and pedals can total between $8,000 and $12,000."
+        "answer": "Derek Roddy's Tama Starclassic Bubinga shell pack is estimated at $3,000 to $5,000 new. His Tama SLP Black Brass snare adds approximately $300 to $600. The Meinl Byzance and Mb20 Heavy cymbal setup runs roughly $1,400 to $2,200 complete. A full comparable setup including hardware and pedals can total between $6,000 and $10,000."
       }
     ],
     "conclusion": {
       "title": "The Educator's Legacy",
-      "content": "Derek Roddy changed extreme metal drumming not just through his performances, but through his teaching. Before \"The Evolution of Blast Beats,\" sustained high-speed drumming seemed reserved for a gifted few. After it, drummers worldwide had a roadmap.\n\nHis gear choices reflect his philosophy: quality equipment that supports good technique without compensating for bad technique. DW drums for reliability and response. Axis pedals for instant feedback. Sabian cymbals for controlled power. None of it is exotic — all of it is chosen for practical reasons.\n\n**What Makes Derek Special:**\nIt's not raw talent (though he has that). It's the analytical mind that deconstructs complex movements into learnable pieces. It's the willingness to share techniques that took years to develop. It's the philosophy that anyone can play extreme music with proper practice.\n\n**For Drummers Seeking This Sound:**\nStart with technique, not gear. Study \"The Evolution of Blast Beats.\" Work on efficiency before speed. Monitor for tension constantly. The gear matters less than you think; the practice matters more than you imagine.\n\n**The Legacy:**\nDerek Roddy proved that extreme metal drumming isn't magic — it's science. Speed comes from efficiency. Endurance comes from relaxation. Consistency comes from proper technique. These insights have influenced thousands of drummers and will continue to for generations.\n\nWhether you're building a Roddy-inspired setup or just seeking to understand extreme drumming, his message is clear: technique over gear, efficiency over force, education over mystique.\n\n🥁 *Derek Roddy — proving that the fastest drumming comes from the smartest technique.* 🥁"
+      "content": "Derek Roddy changed extreme metal drumming not just through his performances, but through his teaching. Before \"The Evolution of Blast Beats,\" sustained high-speed drumming seemed reserved for a gifted few. After it, drummers worldwide had a roadmap.\n\nHis gear choices reflect his philosophy: quality equipment that supports good technique without compensating for bad technique. Tama drums for reliability and response. Axis pedals for instant feedback. Meinl cymbals for controlled power. None of it is exotic — all of it is chosen for practical reasons.\n\n**What Makes Derek Special:**\nIt's not raw talent (though he has that). It's the analytical mind that deconstructs complex movements into learnable pieces. It's the willingness to share techniques that took years to develop. It's the philosophy that anyone can play extreme music with proper practice.\n\n**For Drummers Seeking This Sound:**\nStart with technique, not gear. Study \"The Evolution of Blast Beats.\" Work on efficiency before speed. Monitor for tension constantly. The gear matters less than you think; the practice matters more than you imagine.\n\n**The Legacy:**\nDerek Roddy proved that extreme metal drumming isn't magic — it's science. Speed comes from efficiency. Endurance comes from relaxation. Consistency comes from proper technique. These insights have influenced thousands of drummers and will continue to for generations.\n\nWhether you're building a Roddy-inspired setup or just seeking to understand extreme drumming, his message is clear: technique over gear, efficiency over force, education over mystique.\n\n🥁 *Derek Roddy — proving that the fastest drumming comes from the smartest technique.* 🥁"
     }
   },
   "king-of-all-kings-drum-setup": {
@@ -487,14 +487,14 @@ export const articles = {
     "dateModified": "2026-07-05",
     "author": "MetalForge Editorial",
     "title": "King of All Kings Drum Setup: Derek Roddy's Blast Beat Masterclass (2002)",
-    "description": "How Derek Roddy tracked Hate Eternal's King of All Kings (2002) — the DW Collector's kit, Axis Longboard pedals, and freehand blast beat endurance that made it a technical death metal landmark.",
+    "description": "How Derek Roddy tracked Hate Eternal's King of All Kings (2002) — the Tama Starclassic kit, Axis Longboard pedals, and freehand blast beat endurance that made it a technical death metal landmark.",
     "seoKeywords": [
       "derek roddy king of all kings drums",
       "hate eternal drum kit 2002",
       "derek roddy blast beat album",
       "king of all kings drum setup",
       "hate eternal king of all kings drummer",
-      "derek roddy dw collector's series",
+      "derek roddy tama starclassic",
       "freehand blast beat technique",
       "technical death metal drum kit 2002"
     ],
@@ -505,15 +505,15 @@ export const articles = {
       "keyPoints": [
         "King of All Kings (2002) is the Hate Eternal record most associated with Roddy's technical peak",
         "Freehand/gravity blast technique enabled sustained blast beats without tempo drift",
-        "DW Collector's Series kit and Axis Longboard pedals provided the response needed for the sessions",
+        "Tama Starclassic kit and Axis Longboard pedals provided the response needed for the sessions",
         "Erik Rutan's production favored captured performance over heavy triggering",
         "The record remains a reference point for technical death metal drumming endurance"
       ]
     },
     "drumKit": {
       "title": "The King of All Kings Session Kit",
-      "brand": "DW",
-      "model": "DW Collector's Series Maple",
+      "brand": "Tama",
+      "model": "Tama Starclassic Maple",
       "finish": "Custom studio finish",
       "config": {
         "bassdrums": [
@@ -527,60 +527,60 @@ export const articles = {
           "14\" x 14\" Floor Tom",
           "16\" x 16\" Floor Tom"
         ],
-        "shells": "North American Hard Rock Maple with reinforcement rings"
+        "shells": "100% maple shells — Tama Starclassic construction"
       },
-      "description": "For the King of All Kings sessions, Roddy tracked with the same DW Collector's Series Maple configuration that anchored his Hate Eternal era: a 22\" x 18\" kick, 10\" and 12\" rack toms, and 14\" and 16\" floor toms. The deeper-than-typical kick depth gave the album's low end the punch to sit under Rutan's down-tuned riffing without losing the articulation needed for the record's rapid single-kick and double-kick passages.\n\nMaple shells were the right call for a record built around sustained blast sections — the wood's balanced attack meant every stroke in a blast pattern spoke clearly instead of blurring into a wash, even during the longest sustained sections on the title track and \"Thorns of Acacia.\" DW's True Pitch tuning hardware kept the kit locked in through a full studio day of extreme-tempo takes, a practical necessity when a single tom drifting out of tune could force a re-take of an entire section.",
+      "description": "For the King of All Kings sessions, Roddy tracked with the same Tama Starclassic Maple configuration that anchored his Hate Eternal era: a 22\" x 18\" kick, 10\" and 12\" rack toms, and 14\" and 16\" floor toms. The deeper-than-typical kick depth gave the album's low end the punch to sit under Rutan's down-tuned riffing without losing the articulation needed for the record's rapid single-kick and double-kick passages.\n\nMaple shells were the right call for a record built around sustained blast sections — the wood's balanced attack meant every stroke in a blast pattern spoke clearly instead of blurring into a wash, even during the longest sustained sections on the title track and \"Thorns of Acacia.\" Tama's Starclassic hardware kept the kit locked in through a full studio day of extreme-tempo takes, a practical necessity when a single tom drifting out of tune could force a re-take of an entire section.",
       "notes": [
         "22\" x 18\" bass drum for low-end weight under down-tuned guitars",
         "Maple shells preserved stroke definition during sustained blast sections",
-        "DW True Pitch hardware held tuning through extreme-tempo studio takes",
+        "Tama Starclassic hardware held tuning through extreme-tempo studio takes",
         "Standard tom sizing kept fills predictable during high-pressure sessions"
       ],
-      "estimatedValue": "$4,000-6,000 (Collector's Series configuration)"
+      "estimatedValue": "$3,000-5,500 (Starclassic Maple configuration)"
     },
     "snare": {
       "title": "Cutting Through Rutan's Wall of Riffs",
-      "brand": "DW",
-      "model": "DW Collector's Series Maple",
-      "size": "14\" x 5.5\"",
+      "brand": "Tama",
+      "model": "Tama Starclassic Maple",
+      "size": "14\" x 6.5\"",
       "shell": "Maple",
-      "description": "King of All Kings needed a snare that could hold its own against Erik Rutan's dense, down-tuned guitar tone without relying on a triggered sample. Roddy's 14\" x 5.5\" DW Collector's Maple, tuned medium-high, delivered the crack needed to stay audible through the album's thickest riff passages while remaining responsive enough for blast-tempo backbeat work.\n\nThe session snare was left largely untriggered — Roddy's freehand technique produced consistent enough attack and volume on its own that Rutan's production could capture the acoustic performance directly, giving King of All Kings a rawer, more human-sounding blast section than many contemporaries that leaned on sample replacement.",
+      "description": "King of All Kings needed a snare that could hold its own against Erik Rutan's dense, down-tuned guitar tone without relying on a triggered sample. Roddy's 14\" x 6.5\" Tama Starclassic Maple, tuned medium-high, delivered the crack needed to stay audible through the album's thickest riff passages while remaining responsive enough for blast-tempo backbeat work.\n\nThe session snare was left largely untriggered — Roddy's freehand technique produced consistent enough attack and volume on its own that Rutan's production could capture the acoustic performance directly, giving King of All Kings a rawer, more human-sounding blast section than many contemporaries that leaned on sample replacement.",
       "tuningSetting": "Medium-high tension for blast beat articulation",
       "heads": "Evans Genera HD Dry (batter), Hazy 300 snare side (resonant)",
-      "estimatedValue": "$600-800"
+      "estimatedValue": "$300-600"
     },
     "cymbals": {
-      "title": "Sabian HHX/AAX: Built to Survive the Sessions",
-      "brand": "Sabian",
-      "series": "Sabian HHX and AAX Series",
+      "title": "Meinl Byzance/Mb20 Heavy: Built to Survive the Sessions",
+      "brand": "Meinl",
+      "series": "Meinl Byzance and Mb20 Heavy Series",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Sabian HHX 14\" Stage Hi-Hats",
+          "model": "Meinl Byzance 14\" Hi-Hats",
           "position": "Left side",
           "notes": "Tight, defined chick sound needed for sustained 16th-note blast patterns"
         },
         {
           "type": "Crash",
-          "model": "Sabian AAX 18\" X-Plosion Crash",
+          "model": "Meinl Mb20 Heavy 18\" Crash",
           "position": "Left of hi-hats",
           "notes": "Fast decay kept accents from bleeding into the next blast passage"
         },
         {
           "type": "Ride",
-          "model": "Sabian HHX 21\" Raw Bell Dry Ride",
+          "model": "Meinl Byzance 20\" Ride",
           "position": "Far right",
           "notes": "Dry, controlled wash for the album's rare non-blast sections"
         },
         {
           "type": "China",
-          "model": "Sabian AAX 19\" Chinese",
+          "model": "Meinl Byzance 18\" China",
           "position": "Above floor tom",
           "notes": "Aggressive punctuation for song transitions"
         }
       ],
-      "description": "Roddy's Sabian HHX/AAX setup on King of All Kings was chosen for durability and control as much as tone. The 14\" HHX Stage Hi-Hats kept their definition during the album's longest sustained blast passages, where a washier hi-hat would have blurred into an indistinct texture. The AAX X-Plosion crash's fast decay let accents punch through and clear out before the next blast section resumed, which mattered on a record where blast beats made up the majority of the runtime.\n\nThe HHX Raw Bell Dry Ride saw limited use given the album's blast-heavy structure, but provided a controlled, non-washy option for the handful of sections where Roddy dropped out of blast tempo. The AAX China added the aggressive punctuation Rutan's arrangements needed at song transitions.",
-      "estimatedValue": "$1,500-2,000 (session HHX/AAX configuration)"
+      "description": "Roddy's Meinl Byzance/Mb20 Heavy setup on King of All Kings was chosen for durability and control as much as tone. The 14\" Byzance Hi-Hats kept their definition during the album's longest sustained blast passages, where a washier hi-hat would have blurred into an indistinct texture. The Mb20 Heavy crash's fast decay let accents punch through and clear out before the next blast section resumed, which mattered on a record where blast beats made up the majority of the runtime.\n\nThe Byzance Ride saw limited use given the album's blast-heavy structure, but provided a controlled, non-washy option for the handful of sections where Roddy dropped out of blast tempo. The Byzance China added the aggressive punctuation Rutan's arrangements needed at song transitions.",
+      "estimatedValue": "$1,400-2,200 (session Byzance/Mb20 Heavy configuration)"
     },
     "hardware": {
       "title": "Axis Longboards: The Pedal Behind the Endurance",
@@ -618,7 +618,7 @@ export const articles = {
     "faq": [
       {
         "question": "What drum kit did Derek Roddy use on King of All Kings?",
-        "answer": "Derek Roddy tracked Hate Eternal's King of All Kings (2002) on a DW Collector's Series Maple kit — a 22\" x 18\" bass drum, 10\" and 12\" rack toms, and 14\" and 16\" floor toms, built from North American Hard Rock Maple shells. The kit's balanced attack and DW's True Pitch tuning hardware kept it stable through the album's extended blast beat sessions, which demanded consistent tuning across a full day of extreme-tempo takes."
+        "answer": "Derek Roddy tracked Hate Eternal's King of All Kings (2002) on a Tama Starclassic Maple kit — a 22\" x 18\" bass drum, 10\" and 12\" rack toms, and 14\" and 16\" floor toms, built from 100% maple shells. The kit's balanced attack and Tama's Starclassic hardware kept it stable through the album's extended blast beat sessions, which demanded consistent tuning across a full day of extreme-tempo takes."
       },
       {
         "question": "What technique did Derek Roddy use for the blast beats on King of All Kings?",
@@ -667,7 +667,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "A Blast Beat Benchmark",
-      "content": "King of All Kings didn't need to be the fastest death metal record of 2002 to become one of the most influential — it needed to prove that extreme tempo could be sustained, not just flashed. Derek Roddy's freehand technique, backed by a DW/Sabian/Axis setup chosen for reliability under pressure, delivered exactly that. The result is a record still studied by technical death metal drummers for how it balances speed, endurance, and clarity.\n\nFor the full arc of Roddy's gear across his career, see [What's In Derek Roddy's Kit](/articles/whats-in-derek-roddys-kit). For his complete profile and other roster drummers, visit [his drummer page](/drummer/44)."
+      "content": "King of All Kings didn't need to be the fastest death metal record of 2002 to become one of the most influential — it needed to prove that extreme tempo could be sustained, not just flashed. Derek Roddy's freehand technique, backed by a Tama/Meinl/Axis setup chosen for reliability under pressure, delivered exactly that. The result is a record still studied by technical death metal drummers for how it balances speed, endurance, and clarity.\n\nFor the full arc of Roddy's gear across his career, see [What's In Derek Roddy's Kit](/articles/whats-in-derek-roddys-kit). For his complete profile and other roster drummers, visit [his drummer page](/drummer/44)."
     }
   },
   "derek-roddy-hate-eternal-drum-setup": {

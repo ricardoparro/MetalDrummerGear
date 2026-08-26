@@ -6274,3 +6274,64 @@ Today (2026-08-26) is Wednesday — not Monday. Skipped per the "first run each 
 2. **9 slugs have research-agent-flagged mismatches not yet personally verified**: nick-augusto, nicko-mcbrain, richard-christy, tim-yeung, travis-orbin, ryan-van-poederooyen, inferno, morgan-agren, arin-ilejay. Verify each via direct grep (including diffing against any prior closed-issue fix's line range, per this run's lesson) before filing/rejecting — do not re-run a full sweep from scratch, this is a short carry-over list.
 3. Once the above 9 are resolved, consider whether the albumArticles.js-vs-fixed-source vein is exhausted or whether to sweep the remaining ~40 drummer slugs not yet checked in this vein.
 4. Drum-chair rotation: week 36 is group 0 (amon-amarth through cynic) — due Monday 2026-08-31.
+
+---
+
+## 2026-08-26 (5th run) — Resolved the 9-slug carry-over + fresh 23-slug batch: 8 verified albumArticles.js contradictions filed (#6249-6256)
+
+### Bank check
+Open `seo-proposal` at run start: 11 — 8 already promoted to `ai-fix` (#6227-6234, per 06:45 decisions-log entry) + 3 standing umbrellas (#3810/#3819/#2211). True untriaged bank: 0. `ai-fix` backlog: 28/45. Cleared to file up to 8 net-new.
+
+### Audit summary
+- Robots.txt (`api/robots.js`, live curl): all 8 AI crawlers explicitly allowed. ✅
+- `/public/llms/**/*.md`: 2,011 files live, unchanged from last audit. ✅
+- Content-gap queries (metrics.md, 02:18 UTC refresh): sole row `danny carey drum kit` (79 impr, 1.27% CTR) — already ruled a position ceiling by CEO (5 prior fixes, flat position). Not re-proposed.
+
+### Carry-over resolution (9 slugs from last run)
+Dispatched a research agent to verify the 9 carried-over candidates via grep + git-diff dedup (per the "diff the merge commit's line ranges, not just title-match" lesson). Result: **2 confirmed, 7 clean.**
+- **nicko-mcbrain** — CONFIRMED, large: `grep -ci yamaha` on the whole `albumArticles/nicko-mcbrain.js` = 0, despite `endorsementNews.js`'s verified timeline (personally re-verified, lines 1106-1157) showing Pearl(1984)→**Yamaha (1985-2010)**→Sonor(2010-2019)→British Drum Co.(2019+). 8 albums in the Yamaha window still say Ludwig/Premier/Pearl; Senjutsu (2021) still says Sonor instead of BDC. Split into 2 issues (different target brand, independently shippable): **#6249** (Yamaha-era, 8 albums) and **#6250** (Senjutsu/BDC).
+- **inferno** — CONFIRMED: 6 of 9 album articles (`the-satanist`, `i-loved-you-at-your-darkest`, `satanica`, `thelema-6`, `evangelion`, `zos-kia-cultus`) still fabricate Tama/Meinl; only the overview article was fixed by #5710. Filed **#6251**.
+- nick-augusto, richard-christy, tim-yeung, travis-orbin, ryan-van-poederooyen, morgan-agren, arin-ilejay — all clean (era-correct, already fixed by a prior closed issue, or correctly hedged per the verified-only rule). Not filed.
+
+### Fresh sweep (23 unchecked slugs)
+Dispatched a 2nd research agent (3 parallel sub-batches) across 23 slugs never checked in this vein: chris-adler, gavin-harrison, george-kollias, hannes-grossmann, isaac-lamb, jaska-raatikainen, jay-weinberg, jon-dette, matt-greiner, matt-halpern, navene-koperweis, paul-mazurkiewicz, ray-luzier, sean-reinert, the-rev, bill-ward, brann-dailor, daniel-erlandsson, eloy-casagrande, charlie-benante, gene-hoglan, nick-menza, aquiles-priester. Result: **8 confirmed** (well past what the 8-issue cap could absorb this run — 6 filed, 2 carried to next run), 14 clean, 1 flagged as a 3-file conflict needing reconciliation (not a simple fix).
+
+Personally spot-verified the 2 highest-stakes findings myself (not just trusting agent grep, per the repo's established lesson) before filing anything: re-read `endorsementNews.js` nicko-mcbrain block directly (confirmed exact timeline dates/notes) and matt-greiner block + diffed `56ae96f2`'s actual touched line range (`git show ... | grep "^@@"`, ends at line 310 — well before the flagged line 2405+ Phantom Anthem section).
+
+**Filed 6 of the 8 fresh-batch findings** (cap reached at 8 total for the run, prioritized largest/highest-confidence first):
+- **#6252** — Chris Adler: Sacrament (2006)/Wrath (2009) say DW/Pearl, verified continuous Mapex.
+- **#6253** — Matt Greiner: 4 post-2016 albums (Phantom Anthem/Beacon/Guardians/Death Below) still say Pearl, verified Mapex since 2016 — personally verified live.
+- **#6254** — Matt Halpern: self-contradicting — prose/keyPoints/sticks block still say Mapex/Vic Firth right next to a prior fix's already-correct Pearl brand field.
+- **#6255** — Brann Dailor: DW fabricated across 3 albums (Remission/Blood Mountain/Crack the Skye), verified continuous Tama.
+- **#6256** — Gene Hoglan: Zildjian/DW fabricated for 2 recent albums (Brotherhood of the Snake/Titans of Creation), verified Sabian/Pearl Demon Drive, self-contradicting the same file's own correct current-setup section.
+
+**Not filed, carried to next run**: nick-menza (Zildjian "throughout career" vs verified Zildjian→Paiste(1992)→Sabian(1997) timeline), charlie-benante (~20+ "Remo" head references vs verified Evans, #6039 fixed drums/cymbals but left heads untouched), eloy-casagrande (Meinl/Pearl/Mapex fabricated for Machine Messiah 2017 + Quadra 2020 vs verified Tama/Paiste) — all fully verified with line numbers by the research agent, just not personally re-checked by me this run; verify before filing next time.
+
+**Flagged, not filed**: jay-weinberg — `drummerEvolution.js` and `endorsementNews.js`/`extendedBios.js` disagree with each other on his 2014 gear (a genuine 3-file conflict, not simple drift). Needs a reconciliation decision on which source is authoritative before any album-article edit — a data-integrity question, not a straightforward SEO fix. Worth a CEO/founder note if it recurs.
+
+### Vein status
+Now ~34 drummer slugs checked across this vein (prior weeks' coverage + this run's 32). Still ~30-35 unchecked slugs remain in `packages/frontend/data/albumArticles/` (71 total files). Not yet exhausted — worth continuing next run.
+
+### Proposals filed this run (8)
+1. #6249 — Nicko McBrain (Yamaha era, 8 albums)
+2. #6250 — Nicko McBrain (Senjutsu/BDC)
+3. #6251 — Inferno (6 albums)
+4. #6252 — Chris Adler
+5. #6253 — Matt Greiner
+6. #6254 — Matt Halpern
+7. #6255 — Brann Dailor
+8. #6256 — Gene Hoglan
+
+### Open proposals waiting on CEO triage
+- #6249-#6256 (filed this run, 0d old)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers only.
+
+### Drum-chair watch
+Wednesday 2026-08-26 — not Monday, skipped per the "first run each Monday" gate. Last sweep 2026-08-24 (week 35, group 3/4, 0 candidates); next due 2026-08-31 (week 36, group 0, amon-amarth through cynic).
+
+### Next run
+1. Watch #6249-6256 ship via Roadie/PR Merger.
+2. File the 3 carried-over, already-verified-by-agent (not yet personally re-checked) candidates: nick-menza, charlie-benante, eloy-casagrande — grep-verify before filing per standing practice.
+3. Consider whether to continue sweeping the remaining ~30-35 unchecked albumArticles.js slugs, or pivot to a different surface if this vein's hit rate drops.
+4. jay-weinberg 3-file conflict (drummerEvolution.js vs endorsementNews.js/extendedBios.js) — not actioned, just flagged; revisit if it recurs elsewhere.
+5. Drum-chair rotation: week 36 is group 0 (amon-amarth through cynic) — due Monday 2026-08-31.

@@ -186,8 +186,8 @@ export const articles = {
         "gear": {
           "drums": "Pearl kit (Masters series — developing configuration)",
           "snare": "Bright, aggressive steel snare for brutal death metal cut",
-          "cymbals": "Zildjian A/A Custom series",
-          "pedals": "DW double bass pedal configuration"
+          "cymbals": "Sabian AAX series",
+          "pedals": "Pearl Eliminator double pedal configuration"
         },
         "notes": "Destroy the Opposition is the album most cited when discussing Talley's technical drumming — his kick patterns across tracks like \"Homicidal Retribution\" established the polyrhythmic death metal drumming style he became known for."
       },
@@ -202,8 +202,8 @@ export const articles = {
         "gear": {
           "drums": "Pearl Masters setup",
           "snare": "Steel snare, bright tuning",
-          "cymbals": "Zildjian series",
-          "pedals": "DW double bass pedal"
+          "cymbals": "Sabian AAX series",
+          "pedals": "Pearl Eliminator double pedal"
         },
         "notes": "Talley's Misery Index recordings demonstrate his technique in a grindcore-adjacent context — shorter songs, higher average tempos, and less harmonic space than Dying Fetus's brutal death metal arrangements. The same gear served both contexts."
       },
@@ -217,10 +217,10 @@ export const articles = {
         "gear": {
           "drums": "Pearl Masters Custom / Reference (full touring configuration)",
           "snare": "Pearl steel snare 14\" × 6.5\"",
-          "cymbals": "Full Zildjian A Custom setup",
-          "pedals": "DW double bass pedal (refined touring configuration)"
+          "cymbals": "Full Sabian AAX setup",
+          "pedals": "Pearl Eliminator double pedal (refined touring configuration)"
         },
-        "notes": "War of Attrition and its surrounding touring period represent Talley's most documented brutal death metal setup. The combination of Pearl drums, Zildjian cymbals, and DW pedals served his technical demands across extensive touring cycles."
+        "notes": "War of Attrition and its surrounding touring period represent Talley's most documented brutal death metal setup. The combination of Pearl drums, Sabian AAX cymbals, and Pearl Eliminator pedals served his technical demands across extensive touring cycles."
       },
       {
         "era": "Jungle Rot and continued work",

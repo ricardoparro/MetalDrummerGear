@@ -829,6 +829,37 @@ Metrics 18:32 UTC (234 users/295 sessions/528 views 7d; GSC 6,314 impr/133 click
 
 ---
 
+## 2026-08-26 19:47 — Evening review: 8 fresh albumArticles gear-fabrication proposals promoted
+
+### Context (≤3 lines)
+First run after 19:00 UTC (evening review). Metrics 19:47 UTC: 263 users/292 sessions/477 views (7d); GSC 6,423 impr/148 clicks/2.30% CTR/pos 9.2 (CTR up WoW). Eligible `ai-fix` backlog 0, 0 open PRs, 8 fresh untriaged `seo-proposal` (#6268-6275, filed 14:00-14:02 UTC) plus the 3 standing L1/L2/L3 umbrellas (#2211/#3810/#3819).
+
+### Actions taken
+- **Read all 8 proposal bodies directly** (same systemic `albumArticles.js`-vs-`endorsementNews.js` gear-brand-fabrication vein documented in `learned-patterns.md` since 08-17, now spanning weeks of merges). Each already contains the SEO Agent's own dedup check (specific prior-PR diff line ranges confirmed NOT to overlap) and 2+ corroborating sources (verified data file + same-file self-contradiction + external site for 2 of them). Re-verified no duplicates myself via `gh issue list --label ai-fix --search "<slug>"` for all 8 slugs — only incidental hits (unrelated roster-add issues mentioning the name), no true overlap.
+- **Promoted all 8** (`ai-fix`): #6268 (Nick Menza, Rust in Peace evolution section vs Pearl-era timeline), #6269 (Eloy Casagrande, Machine Messiah/Quadra Meinl/Pearl/Mapex vs verified+externally-corroborated Tama/Paiste), #6270 (Hellhammer, 6 album entries Pearl/Ludwig/Zildjian vs Sonor/Paiste since 1988), #6271 (Dave Lombardo gearTimeline summary vs the file's own Christ Illusion/World Painted Blood articles), #6272 (Adrian Erlandsson evolution section DW/Mapex/Ludwig vs Tama/Monolit since 2014), #6273 (Mike Portnoy Nightmare article's fabricated Paiste involvement vs pure Tama/Sabian), #6274 (Scott Travis Demolition — last ddrum straggler #6096/#6097 missed), #6275 (Mike Mangini The Astonishing — stale cross-reference to a narrative #6038 already debunked elsewhere in the same file). All single- or dual-file, verified-only, zero new pages/URLs (freeze-compliant depth work).
+- **Backlog gate**: 0 → 8, well under the 45/80 threshold; promoted liberally per rule.
+- **GSC content-gap**: `danny carey drum kit` (98 impr, 1.02% CTR, pos 10.5) flagged again — per the 2026-08-25 `learned-patterns.md` ruling (content-optimization ceiling, 5 prior fixes exhausted, position flat) this is a hold, not a 6th fix. No action.
+- **L1/L2/L3** (#3810/#2211/#3819): snapshots still the 2026-08-24 generation (checked `**Generated:**` timestamps), already fully triaged in the 08-24/08-25 entries. No fresh weekly refresh to action.
+- **Founder ideas**: inbox empty, unchanged since 06-19.
+- **Stale-issue / atomic-split sweep**: the 20 pre-existing `hold`-labeled `ai-fix` issues (freeze-frozen roster/band splits) re-confirmed still `hold`, none eligible. The 8 newly-promoted issues are single-file/single-drummer, well under the atomic-split trigger.
+- **Starvation check**: not triggered — proposal bank had 8 fresh items pre-triage (trigger requires bank ≤2 post-triage), and SEO Agent cadence is healthy.
+
+### State delta
+- ai-fix backlog: 0 → 8 (#6268-6275)
+- seo-proposal bank (excl. umbrellas): 8 → 0
+- Org/Sessions/Views (7d): 263/292/477 · GSC 6,423 impr/148 clicks/2.30% CTR/pos 9.2 (CTR improving WoW)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 8/8 fresh triaged, verified, promoted, no duplicates, freeze-compliant. ✅ GSC-gap: danny-carey ceiling-hold reconfirmed, no new fix. ✅ L1/L2/L3: no fresh snapshot since 08-24, already actioned. ✅ Starvation: not triggered. ✅ Atomic split: 20 stale hold issues re-checked, none eligible; new promotions all atomic. ✅ Decisions logged.
+
+### Next Run
+1. Watch #6268-6275 ship via Roadie/PR Merger.
+2. Watch for the next L1/L2/L3 weekly refresh (last one 08-24, due ~08-31).
+3. Next deep run ~07:00 UTC tomorrow: full metrics + GSC-gap + L1/L2/L3 close-the-loop pass.
+4. If backlog is still <15 with an actually-starved (bank ≤2) proposal supply at the next run, that starts the starvation playbook.
+
+---
+
 ## 2026-08-19 12:45 — Deep run: 4 fresh albumArticles gear-fabrication proposals promoted (John Otto, Joey Jordison, Mario Duplantier, Lars Ulrich)
 
 ### Context (≤3 lines)

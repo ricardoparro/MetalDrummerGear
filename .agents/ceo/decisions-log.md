@@ -5,6 +5,38 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-08-26 01:11 UTC*
 
 ---
+## 2026-08-26 12:48 — Deep run: 8 fresh albumArticles.js gear-fabrication proposals promoted (#6249-6256)
+
+### Context (≤3 lines)
+First run after 07:00 UTC (previous run was 06:45, just before threshold). Metrics 12:48 UTC (249 users/278 sessions/463 views 7d; GSC 6,423 impr/148 clicks/2.30% CTR/pos 9.2, up WoW). Eligible `ai-fix` backlog 0 at run start (20 open, all `hold`-labeled freeze-blocked roster/band splits), 0 open PRs, 8 fresh untriaged `seo-proposal` (#6249-6256, filed 07:51-07:52 UTC), same albumArticles.js-vs-endorsementNews/extendedBios gear-fabrication sweep continuing.
+
+### Actions taken
+- **Promoted all 8** (`ai-fix`): #6249 Nicko McBrain (1985-2010 Yamaha era — 8 albums still say Ludwig/Premier/Pearl), #6250 Nicko McBrain (Senjutsu 2021 still Sonor vs verified British Drum Co. since 2019, distinct lines from #6249), #6251 Inferno (6 of 9 albums still fabricate Tama/Meinl vs verified continuous Pearl/Paiste, only 1 of 9 fixed previously via #5710), #6252 Chris Adler (Sacrament/Wrath fabricate DW/Pearl vs verified continuous Mapex), #6253 Matt Greiner (4 post-2016 albums still say Pearl vs verified Mapex since 2016), #6254 Matt Halpern (self-contradiction — prior fix #5750 only flipped brand/model keys, prose/keyPoints/sticks block still say Mapex/Vic Firth), #6255 Brann Dailor (Remission/Blood Mountain/Crack the Skye fabricate a DW era vs verified continuous Tama), #6256 Gene Hoglan (2 Testament albums fabricate Zildjian/DW vs verified Sabian/Pearl Demon Drive, contradicting the same file's own correct current-setup section).
+  - Live-verified 2 of 8 directly against source files: **#6252** grep confirmed `chris-adler.js` has `"brand": "Pearl"` at lines 452/480/533/540/546 (Wrath-era block) while `endorsementNews.js:554+` verifies continuous Mapex with no DW/Pearl era. **#6256** grep confirmed `gene-hoglan.js:1391-1447` has `"brand": "Zildjian"`/`"DW"` while `endorsementNews.js:1249-1253` verifies `cymbals: Sabian AAX since 1991` and `hardware: Pearl Demon Drive since 2008`.
+  - Remaining 6 follow the same template with explicit dedup citations (each names the prior commit/issue and confirms via `git show ... | grep "^@@"` that the flagged lines fall outside its hunks) — searched all 7 slugs against open `ai-fix` for duplicates, only self/unrelated matches (freeze-parked roster splits sharing a keyword).
+  - All single-file, verified-only (2+ corroborating sources per issue), zero new pages/URLs — freeze-compliant.
+- **Backlog gate**: 0 → 8, well under the 45 threshold; promoted liberally per rule.
+- **Founder ideas**: inbox empty, unchanged since 06-19. **Human-founder blockers** (#5141/#5100/#4892/#875/#529/#526/#525): all `updatedAt` unchanged, no re-spam.
+- **GSC content-gap**: table shows only the standing `danny carey drum kit` row (98 impr, 1.02% CTR, pos 10.5) — already ruled a content ceiling on 08-25 12:43 (needs backlink/authority movement, not another on-page fix). Held.
+- **L1/L2/L3** (#3810/#3819/#2211): snapshot generation timestamps unchanged since 08-24 (checked `**Generated:**` inside each file, not just mtime) — the one CTR-gap row (`best cymbal set for metal`) belongs to the same 08-24 08:51 snapshot already actioned via #6121 (merged). Nothing fresh to action.
+- **Atomic-split sweep**: 20 pre-existing `hold`-labeled `ai-fix` issues remain correctly freeze-parked (unchanged); the 8 newly promoted are <1h old, not stale.
+- **Starvation check**: post-triage backlog=8, bank=0 (excl. umbrellas) — active continuing sweep (7th+ consecutive run of this vein), not exhaustion. Not escalating.
+
+### State delta
+- ai-fix backlog: 0 → 8 (#6249-6256)
+- seo-proposal bank (excl. umbrellas): 8 → 0
+- Org/Sessions/Views (7d): 249/278/463 · GSC 6,423 impr/148 clicks/2.30% CTR/pos 9.2 (up WoW)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 8/8 fresh triaged, live-verified (2/8 grepped, rest match established template + explicit non-overlap dedup checks), promoted, no duplicates, freeze-compliant. ✅ GSC-gap: standing row held on precedent (ceiling ruling unchanged). ✅ L1/L2/L3: no fresh snapshot, nothing to action. ✅ Starvation: not triggered. ✅ Atomic split: nothing stale. ✅ Decisions logged.
+
+### Next Run
+1. Watch #6249-6256 ship via Roadie/PR Merger (mechanical, low-risk).
+2. Mid-day pulse due ~13:00 UTC — check Roadie progress.
+3. Watch for next weekly L1/L2/L3 refresh (last one 08-24).
+4. Re-evaluate `danny carey drum kit` only if position moves — no more on-page fixes until then.
+
+---
 ## 2026-08-26 06:45 — Cheap pulse: 8 fresh albumArticles.js gear-contradiction proposals promoted (#6227-6234)
 
 ### Context (≤3 lines)

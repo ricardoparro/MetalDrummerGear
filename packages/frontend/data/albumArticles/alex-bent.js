@@ -42,9 +42,9 @@ export const articles = {
       ]
     },
     "drumKit": {
-      "title": "Alex's Trivium-Era Pearl Setup",
-      "brand": "Pearl",
-      "model": "Pearl Reference Series",
+      "title": "Alex's Trivium-Era Tama Setup",
+      "brand": "Tama",
+      "model": "Tama Starclassic Maple",
       "finish": "Custom Matte Black",
       "config": {
         "bassdrums": [
@@ -58,25 +58,25 @@ export const articles = {
           "14\" x 14\" Floor Tom",
           "16\" x 16\" Floor Tom"
         ],
-        "shells": "Reference Series (Maple/Birch hybrid)"
+        "shells": "Starclassic Maple (100% maple shells)"
       },
-      "description": "Alex Bent's kit setup for Trivium was built for one purpose: translating technical death metal precision to arena-scale power. His Pearl Reference Series configuration balanced the attack needed for intricate patterns with the projection required for festival stages and 10,000+ capacity venues.\n\nThe double bass drum setup—two 22\" x 18\" kick drums—provided the foundation for Alex's blistering footwork. Unlike drummers who trigger bass drums to the point of sounding mechanical, Bent used triggers primarily for consistency at extreme speeds while preserving the acoustic character. The deep 18\" shells delivered low-end punch that translated well through massive PA systems.\n\nThe rack tom configuration is notably minimalist for a drummer of Bent's technical abilities: just 10\" and 12\" mounted toms. This keeps the setup focused and efficient, allowing faster transitions between playing surfaces. Combined with 14\" and 16\" floor toms, the kit provides enough voice variety without becoming cumbersome.\n\nThe Reference Series shells—with their maple/birch hybrid construction—deliver the best of both worlds: maple's warmth and sustain combined with birch's attack and cut. This was essential for Trivium's sound, which ranges from intricate progressive passages to crushing groove sections.",
+      "description": "Alex Bent's kit setup for Trivium was built for one purpose: translating technical death metal precision to arena-scale power. His Tama Starclassic Maple configuration balanced the attack needed for intricate patterns with the projection required for festival stages and 10,000+ capacity venues.\n\nThe double bass drum setup—two 22\" x 18\" kick drums—provided the foundation for Alex's blistering footwork. Unlike drummers who trigger bass drums to the point of sounding mechanical, Bent used triggers primarily for consistency at extreme speeds while preserving the acoustic character. The deep 18\" shells delivered low-end punch that translated well through massive PA systems.\n\nThe rack tom configuration is notably minimalist for a drummer of Bent's technical abilities: just 10\" and 12\" mounted toms. This keeps the setup focused and efficient, allowing faster transitions between playing surfaces. Combined with 14\" and 16\" floor toms, the kit provides enough voice variety without becoming cumbersome.\n\nThe Starclassic Maple shells—built from 100% maple—deliver the warmth, sustain, and full-bodied tone maple shells are known for. This was essential for Trivium's sound, which ranges from intricate progressive passages to crushing groove sections.",
       "notes": [
         "Double bass drum setup for acoustic power + trigger consistency",
         "Minimalist tom configuration for efficient movement",
-        "Reference Series shells chosen for versatility across Trivium's dynamic range",
+        "Starclassic Maple shells chosen for warmth and sustain across Trivium's dynamic range",
         "Matte black finish maintained the band's visual aesthetic",
         "Deep shells provide the projection for arena/festival settings"
       ],
-      "estimatedValue": "$5,000-8,000 (Pearl Reference Series configuration)"
+      "estimatedValue": "$5,000-8,000 (Tama Starclassic Maple configuration)"
     },
     "snare": {
       "title": "The Cutting Edge",
-      "brand": "Pearl",
-      "model": "Pearl Reference Snare",
-      "size": "14\" x 6.5\"",
-      "shell": "Maple/Birch Hybrid",
-      "description": "Alex's snare drum choice reflects his approach to the instrument: versatility without compromise. The 14\" x 6.5\" Pearl Reference snare provides the crack and projection needed to cut through Trivium's dense guitar arrangements while offering enough body for groove-heavy passages.\n\nThe hybrid maple/birch shell construction is key. Maple provides warmth and sustain for slower, more dynamic sections—crucial for songs like \"Beyond Oblivion\" or \"The Sin and the Sentence.\" Birch contributes attack and cut for the faster, more aggressive passages where the snare needs to punch through walls of down-tuned guitars.\n\nBent typically tuned the snare on the higher side—not as extreme as some death metal drummers, but tight enough to ensure articulation at high tempos. This tuning, combined with tighter snare wire tension, gave him the response needed for ghost notes and intricate patterns inherited from his tech-death background.",
+      "brand": "Tama",
+      "model": "Tama Starclassic Maple Snare",
+      "size": "14\" x 5\"",
+      "shell": "Maple",
+      "description": "Alex's snare drum choice reflects his approach to the instrument: versatility without compromise. The 14\" x 5\" Tama Starclassic Maple snare provides the crack and projection needed to cut through Trivium's dense guitar arrangements while offering enough body for groove-heavy passages.\n\nThe all-maple shell construction is key, delivering warmth and sustain for slower, more dynamic sections—crucial for songs like \"Beyond Oblivion\" or \"The Sin and the Sentence\"—while still providing the attack and cut needed for the faster, more aggressive passages where the snare has to punch through walls of down-tuned guitars.\n\nBent typically tuned the snare on the higher side—not as extreme as some death metal drummers, but tight enough to ensure articulation at high tempos. This tuning, combined with tighter snare wire tension, gave him the response needed for ghost notes and intricate patterns inherited from his tech-death background.",
       "tuningSetting": "Medium-high tension for articulation at speed",
       "heads": "Evans EC Reverse Dot (batter), Evans Hazy 300 (resonant)",
       "estimatedValue": "$500-700"
@@ -194,10 +194,10 @@ export const articles = {
         ],
         "description": "Eight years elevating Trivium's rhythmic complexity.",
         "gear": {
-          "drums": "Pearl Reference Series (Matte Black)",
-          "snare": "Pearl Reference 14x6.5\"",
+          "drums": "Tama Starclassic Maple (Matte Black)",
+          "snare": "Tama Starclassic Maple 14x5\"",
           "cymbals": "Zildjian K Custom Hybrid Series",
-          "hardware": "Axis A21 Longboard, Pearl hardware"
+          "hardware": "Axis A21 Longboard, Pearl hi-hat stand/throne"
         },
         "notes": "Bent departed Trivium in October 2025 after four acclaimed albums."
       }
@@ -219,7 +219,7 @@ export const articles = {
       "title": "Alex's Gear You Can Buy Today",
       "items": [
         {
-          "item": "Pearl Reference Series Drums",
+          "item": "Tama Starclassic Maple Drums",
           "available": true,
           "priceRange": "$4,000-8,000",
           "notes": "Available in various configurations"
@@ -256,7 +256,7 @@ export const articles = {
     "faq": [
       {
         "question": "What drum kit does Alex Bent use with Trivium?",
-        "answer": "Alex Bent plays a Pearl Reference Series kit in a double bass configuration, featuring two 22x18 inch bass drums, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. The Reference Series shells use a maple and birch hybrid construction that delivers a punchy attack with controlled sustain. This setup gives Bent the tonal versatility to move between Trivium's melodic passages and aggressive thrash-influenced sections without sacrificing clarity or power."
+        "answer": "Alex Bent plays a Tama Starclassic Maple kit in a double bass configuration, featuring two 22x18 inch bass drums, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. The Starclassic Maple shells use a 100% maple construction that delivers warmth, sustain, and controlled attack. This setup gives Bent the tonal versatility to move between Trivium's melodic passages and aggressive thrash-influenced sections without sacrificing clarity or power."
       },
       {
         "question": "What cymbals does Alex Bent use with Trivium?",
@@ -264,12 +264,12 @@ export const articles = {
       },
       {
         "question": "How much does Alex Bent's Trivium drum kit cost?",
-        "answer": "Alex Bent's Pearl Reference Series shell pack in a double bass setup is estimated at $5,000 to $8,000 new. His Pearl Reference snare adds approximately $500 to $700. The full Zildjian K Custom Hybrid cymbal setup including all crashes, ride, hi-hats, china, and splash can run $2,000 to $3,500. With hardware, double bass pedal, and accessories, a complete comparable setup runs approximately $10,000 to $15,000."
+        "answer": "Alex Bent's Tama Starclassic Maple shell pack in a double bass setup is estimated at $5,000 to $8,000 new. His Tama Starclassic Maple snare adds approximately $500 to $700. The full Zildjian K Custom Hybrid cymbal setup including all crashes, ride, hi-hats, china, and splash can run $2,000 to $3,500. With hardware, double bass pedal, and accessories, a complete comparable setup runs approximately $10,000 to $15,000."
       }
     ],
     "conclusion": {
       "title": "Tech Death Precision, Arena-Ready Power",
-      "content": "Alex Bent's eight years with Trivium represented a perfect marriage of technical death metal precision and accessible modern metal. He proved that you could bring extreme chops to mainstream metal without sacrificing musicality—that speed and groove aren't mutually exclusive.\n\nHis setup was professional but not exotic: Pearl Reference drums, Zildjian K Custom Hybrid cymbals, Axis pedals. The real secret was in the application—gear serves the music, not the other way around.\n\nWith Bent's departure from Trivium in October 2025, a new chapter begins. His technical death metal roots remain, and whatever project comes next will benefit from eight years of arena-level experience.\n\n🥁 *From Oakland to arenas worldwide—tech death meets the masses.* 🥁"
+      "content": "Alex Bent's eight years with Trivium represented a perfect marriage of technical death metal precision and accessible modern metal. He proved that you could bring extreme chops to mainstream metal without sacrificing musicality—that speed and groove aren't mutually exclusive.\n\nHis setup was professional but not exotic: Tama Starclassic Maple drums, Zildjian K Custom Hybrid cymbals, Axis pedals. The real secret was in the application—gear serves the music, not the other way around.\n\nWith Bent's departure from Trivium in October 2025, a new chapter begins. His technical death metal roots remain, and whatever project comes next will benefit from eight years of arena-level experience.\n\n🥁 *From Oakland to arenas worldwide—tech death meets the masses.* 🥁"
     }
   },
   "trivium-sin-and-the-sentence-drum-setup": {
@@ -290,7 +290,7 @@ export const articles = {
     "dateModified": "2026-07-01",
     "author": "MetalForge Editorial",
     "title": "The Sin and the Sentence Drum Setup: Alex Bent's Trivium Debut (2017)",
-    "description": "Complete gear breakdown for Alex Bent's first album with Trivium, The Sin and the Sentence (2017). Pearl Reference kit, Zildjian K Custom Hybrid cymbals, Axis pedals, and the Grammy-nominated record that introduced a tech-death drummer to arena metal.",
+    "description": "Complete gear breakdown for Alex Bent's first album with Trivium, The Sin and the Sentence (2017). Tama Starclassic Maple kit, Zildjian K Custom Hybrid cymbals, Axis pedals, and the Grammy-nominated record that introduced a tech-death drummer to arena metal.",
     "seoKeywords": [
       "trivium sin and the sentence drum setup",
       "alex bent drum kit",
@@ -302,20 +302,20 @@ export const articles = {
     "ogImage": "/images/drummers/alex-bent.webp",
     "intro": {
       "title": "A Tech-Death Drummer Walks Into Roadrunner Records",
-      "content": "Trivium confirmed Alex Bent as their new full-time drummer in early 2017, closing out a lineup search that followed the departures of Nick Augusto and Mat Madiro. Bent arrived with a resume built almost entirely in the technical death metal underground — Brain Drill, Arkaik, Battlecross, and a run filling in for Gene Hoglan on Testament tour dates — a background that had little to do with Trivium's melodic metalcore roots on paper, but proved to be exactly what the band needed.\n\n\"The Sin and the Sentence,\" released October 20, 2017 on Roadrunner Records, is Trivium's eighth studio album and Bent's recording debut with the band. It was tracked at Hybrid Studios in Santa Ana, California with producer Josh Wilbur (Lamb of God, Gojira, Megadeth), who pushed the band back toward a heavier, more direct sound after the more melodic \"Silence in the Snow\" (2015).\n\nThe album's second single, \"Betrayer,\" earned Trivium their first Grammy nomination — Best Metal Performance at the 61st Annual Grammy Awards in 2019, ultimately losing to High on Fire's \"Electric Messiah.\" It was a watershed moment for a band that had spent over a decade grinding through lineup changes and genre shifts, and it happened on the first album featuring their new drummer.\n\nBent's playing across the record — from the galloping title track to the double-bass assault of \"Betrayer\" to the more melodic \"The Heart from Your Hate\" — announced a version of Trivium with noticeably sharper technical teeth. This article breaks down the Pearl Reference kit, Zildjian K Custom Hybrid cymbals, and Axis pedal setup Bent used to make that first impression count.",
+      "content": "Trivium confirmed Alex Bent as their new full-time drummer in early 2017, closing out a lineup search that followed the departures of Nick Augusto and Mat Madiro. Bent arrived with a resume built almost entirely in the technical death metal underground — Brain Drill, Arkaik, Battlecross, and a run filling in for Gene Hoglan on Testament tour dates — a background that had little to do with Trivium's melodic metalcore roots on paper, but proved to be exactly what the band needed.\n\n\"The Sin and the Sentence,\" released October 20, 2017 on Roadrunner Records, is Trivium's eighth studio album and Bent's recording debut with the band. It was tracked at Hybrid Studios in Santa Ana, California with producer Josh Wilbur (Lamb of God, Gojira, Megadeth), who pushed the band back toward a heavier, more direct sound after the more melodic \"Silence in the Snow\" (2015).\n\nThe album's second single, \"Betrayer,\" earned Trivium their first Grammy nomination — Best Metal Performance at the 61st Annual Grammy Awards in 2019, ultimately losing to High on Fire's \"Electric Messiah.\" It was a watershed moment for a band that had spent over a decade grinding through lineup changes and genre shifts, and it happened on the first album featuring their new drummer.\n\nBent's playing across the record — from the galloping title track to the double-bass assault of \"Betrayer\" to the more melodic \"The Heart from Your Hate\" — announced a version of Trivium with noticeably sharper technical teeth. This article breaks down the Tama Starclassic Maple kit, Zildjian K Custom Hybrid cymbals, and Axis pedal setup Bent used to make that first impression count.",
       "keyPoints": [
         "Alex Bent's studio debut with Trivium after being confirmed as full-time drummer in early 2017",
         "Trivium's eighth studio album, released October 20, 2017 on Roadrunner Records",
         "Recorded at Hybrid Studios, Santa Ana, CA with producer Josh Wilbur",
         "\"Betrayer\" earned Trivium's first Grammy nomination — Best Metal Performance, 61st Grammy Awards (2019)",
         "Bent's technical death metal background (Brain Drill, Arkaik, Battlecross) reshaped Trivium's rhythmic vocabulary",
-        "First appearance of the double-bass-driven, Pearl/Zildjian/Axis setup that carried through his Trivium tenure"
+        "First appearance of the double-bass-driven, Tama/Zildjian/Axis setup that carried through his Trivium tenure"
       ]
     },
     "drumKit": {
-      "title": "Introducing the Pearl Reference Series",
-      "brand": "Pearl",
-      "model": "Pearl Reference Series",
+      "title": "Introducing the Tama Starclassic Maple",
+      "brand": "Tama",
+      "model": "Tama Starclassic Maple",
       "finish": "Matte Black",
       "config": {
         "bassdrums": [
@@ -329,24 +329,24 @@ export const articles = {
           "14\" x 14\" Floor Tom",
           "16\" x 16\" Floor Tom"
         ],
-        "shells": "Reference Series maple/birch hybrid shells"
+        "shells": "Starclassic Maple 100% maple shells"
       },
-      "description": "For his first Trivium session, Alex Bent brought in a Pearl Reference Series kit in matte black — the setup that would remain essentially unchanged for the rest of his tenure with the band. The double 22\" x 18\" bass drum configuration reflects his tech-death background: rather than a single kick and a double pedal, Bent preferred two independent bass drums for maximum consistency at the extreme speeds his prior bands demanded.\n\nThe tom configuration is compact by design — just a 10\" and 12\" rack tom paired with 14\" and 16\" floor toms — favoring quick movement around the kit over a sprawling melodic array. That suited \"The Sin and the Sentence,\" a record built more on riff-tight double-bass patterns than extended tom melodies.\n\nThe maple/birch hybrid shells gave Josh Wilbur a drum tone with both warmth and cut, translating well against Matt Heafy and Corey Beaulieu's dense, downtuned guitar tracking. It was Bent's first time recording with Trivium's production team, and the Reference Series shells proved versatile enough to handle everything from the galloping title track to the more melodic \"The Heart from Your Hate.\"",
+      "description": "For his first Trivium session, Alex Bent brought in a Tama Starclassic Maple kit in matte black — the setup that would remain essentially unchanged for the rest of his tenure with the band. The double 22\" x 18\" bass drum configuration reflects his tech-death background: rather than a single kick and a double pedal, Bent preferred two independent bass drums for maximum consistency at the extreme speeds his prior bands demanded.\n\nThe tom configuration is compact by design — just a 10\" and 12\" rack tom paired with 14\" and 16\" floor toms — favoring quick movement around the kit over a sprawling melodic array. That suited \"The Sin and the Sentence,\" a record built more on riff-tight double-bass patterns than extended tom melodies.\n\nThe all-maple shells gave Josh Wilbur a drum tone with both warmth and cut, translating well against Matt Heafy and Corey Beaulieu's dense, downtuned guitar tracking. It was Bent's first time recording with Trivium's production team, and the Starclassic Maple shells proved versatile enough to handle everything from the galloping title track to the more melodic \"The Heart from Your Hate.\"",
       "notes": [
         "Double 22\" x 18\" bass drums carried over from Bent's tech-death background",
         "Compact 4-piece tom configuration for fast movement between technical passages",
-        "Maple/birch hybrid shells for a balance of warmth and attack",
+        "All-maple shells for warmth and sustain with controlled attack",
         "This exact configuration remained largely unchanged through the rest of Bent's Trivium tenure"
       ],
       "estimatedValue": "$5,000-8,000 (2017)"
     },
     "snare": {
-      "title": "The Reference Snare's First Trivium Outing",
-      "brand": "Pearl",
-      "model": "Pearl Reference Snare",
-      "size": "14\" x 6.5\"",
-      "shell": "Maple/Birch Hybrid",
-      "description": "Bent paired his kit with a 14\" x 6.5\" Pearl Reference snare, tuned on the higher side for articulation at speed — a tuning philosophy carried over directly from his technical death metal background. On \"Betrayer\" and the title track, the snare cuts cleanly through Wilbur's dense guitar mix without needing to be pushed hard in the console.\n\nThe hybrid maple/birch shell gave the drum enough body for the record's more melodic moments, like \"The Heart from Your Hate,\" while still delivering the crack needed for the album's faster, more aggressive sections. It's a snare built for versatility rather than a single specialized tone — appropriate for a drummer stepping into a band with a much broader stylistic range than his previous projects.",
+      "title": "The Starclassic Maple Snare's First Trivium Outing",
+      "brand": "Tama",
+      "model": "Tama Starclassic Maple Snare",
+      "size": "14\" x 5\"",
+      "shell": "Maple",
+      "description": "Bent paired his kit with a 14\" x 5\" Tama Starclassic Maple snare, tuned on the higher side for articulation at speed — a tuning philosophy carried over directly from his technical death metal background. On \"Betrayer\" and the title track, the snare cuts cleanly through Wilbur's dense guitar mix without needing to be pushed hard in the console.\n\nThe all-maple shell gave the drum enough body for the record's more melodic moments, like \"The Heart from Your Hate,\" while still delivering the crack needed for the album's faster, more aggressive sections. It's a snare built for versatility rather than a single specialized tone — appropriate for a drummer stepping into a band with a much broader stylistic range than his previous projects.",
       "tuningSetting": "Medium-high tension for articulation at speed",
       "heads": "Evans EC Reverse Dot (batter), Evans Hazy 300 (resonant)",
       "estimatedValue": "$500-700 (2017)"
@@ -428,7 +428,7 @@ export const articles = {
     "faq": [
       {
         "question": "What drum kit did Alex Bent use on The Sin and the Sentence?",
-        "answer": "Alex Bent recorded The Sin and the Sentence (2017) on a Pearl Reference Series kit in a matte black finish, featuring double 22\" x 18\" bass drums, 10\" and 12\" rack toms, and 14\" and 16\" floor toms. The maple/birch hybrid shells gave producer Josh Wilbur a drum tone with both warmth and cut, well suited to the album's dense guitar tracking. This exact configuration became the foundation for Bent's entire Trivium tenure. See the [Alex Bent drummer profile](/drummer/alex-bent) for his full gear history."
+        "answer": "Alex Bent recorded The Sin and the Sentence (2017) on a Tama Starclassic Maple kit in a matte black finish, featuring double 22\" x 18\" bass drums, 10\" and 12\" rack toms, and 14\" and 16\" floor toms. The all-maple shells gave producer Josh Wilbur a drum tone with both warmth and cut, well suited to the album's dense guitar tracking. This exact configuration became the foundation for Bent's entire Trivium tenure. See the [Alex Bent drummer profile](/drummer/alex-bent) for his full gear history."
       },
       {
         "question": "Who is Alex Bent and how did he join Trivium?",
@@ -464,7 +464,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "A Debut That Set the Template",
-      "content": "\"The Sin and the Sentence\" did double duty: it reintroduced Trivium as a heavier, more technically ambitious band, and it introduced Alex Bent as the drummer capable of delivering on that ambition. The Grammy nomination for \"Betrayer\" validated the gamble almost immediately.\n\nThe gear Bent brought to the session — Pearl Reference drums, Zildjian K Custom Hybrid cymbals, Axis A21 pedals — wasn't flashy or unusual. What mattered was how directly it translated his tech-death background into a mainstream metal context without losing any of the technicality that made him stand out in the first place.\n\nFor the arc of Trivium's drummers before Bent, see the [Shogun drum setup article](/articles/shogun-drum-setup) for Nick Augusto's earlier work with the band, and see the [What the Dead Men Say drum setup article](/articles/trivium-what-the-dead-men-say-drum-setup) for the record that followed three years later."
+      "content": "\"The Sin and the Sentence\" did double duty: it reintroduced Trivium as a heavier, more technically ambitious band, and it introduced Alex Bent as the drummer capable of delivering on that ambition. The Grammy nomination for \"Betrayer\" validated the gamble almost immediately.\n\nThe gear Bent brought to the session — Tama Starclassic Maple drums, Zildjian K Custom Hybrid cymbals, Axis A21 pedals — wasn't flashy or unusual. What mattered was how directly it translated his tech-death background into a mainstream metal context without losing any of the technicality that made him stand out in the first place.\n\nFor the arc of Trivium's drummers before Bent, see the [Shogun drum setup article](/articles/shogun-drum-setup) for Nick Augusto's earlier work with the band, and see the [What the Dead Men Say drum setup article](/articles/trivium-what-the-dead-men-say-drum-setup) for the record that followed three years later."
     }
   },
   "trivium-what-the-dead-men-say-drum-setup": {
@@ -485,18 +485,18 @@ export const articles = {
     "dateModified": "2026-07-01",
     "author": "MetalForge Editorial",
     "title": "What the Dead Men Say Drum Setup: Alex Bent's Pandemic-Era Trivium Album (2020)",
-    "description": "Complete gear breakdown for Alex Bent's drum setup on Trivium's What the Dead Men Say (2020). Pearl Reference kit, Zildjian K Custom Hybrid cymbals, and the Studio 606 drum sessions behind Trivium's ninth album, released as the COVID-19 pandemic shut down touring.",
+    "description": "Complete gear breakdown for Alex Bent's drum setup on Trivium's What the Dead Men Say (2020). Tama Starclassic Maple kit, Zildjian K Custom Hybrid cymbals, and the Studio 606 drum sessions behind Trivium's ninth album, released as the COVID-19 pandemic shut down touring.",
     "seoKeywords": [
       "trivium what the dead men say drum setup",
       "alex bent drum kit 2020",
       "what the dead men say drums",
       "trivium drummer gear",
-      "alex bent pearl reference"
+      "alex bent tama starclassic maple"
     ],
     "ogImage": "/images/drummers/alex-bent.webp",
     "intro": {
       "title": "A Studio 606 Session, Released Into Lockdown",
-      "content": "Trivium's ninth studio album, \"What the Dead Men Say,\" arrived on April 24, 2020 on Roadrunner Records — five weeks into the first wave of COVID-19 lockdowns in the United States. The band had no way of knowing when they recorded it in late 2019 that their album cycle would open with every venue on earth closed; the record ended up promoted almost entirely through livestreams and press rather than the touring cycle a new Trivium album would normally command.\n\nThe album was tracked at Full Sail University in Orlando with returning producer Josh Wilbur, but Alex Bent's drum tracks were recorded separately at Studio 606 in Los Angeles — the studio built by Dave Grohl best known as the home base for Foo Fighters and Nirvana's later sessions. It gave Bent's drum tracking a specific room character distinct from the rest of the album's Orlando sessions.\n\nMusically, \"What the Dead Men Say\" pushed further into progressive territory than its predecessor, opening with the instrumental \"IX\" before launching into the title track and songs like \"Catastrophist\" and \"The Defiant.\" Bent's playing reflects that shift — more dynamic range and compositional variety than the more direct, riff-driven \"The Sin and the Sentence,\" while keeping the same double-bass intensity in the album's heavier sections.\n\nThis article breaks down the gear Alex Bent used on his second Trivium album: the same core Pearl Reference and Zildjian K Custom Hybrid setup from his debut, refined for a more progressive, dynamically varied record.",
+      "content": "Trivium's ninth studio album, \"What the Dead Men Say,\" arrived on April 24, 2020 on Roadrunner Records — five weeks into the first wave of COVID-19 lockdowns in the United States. The band had no way of knowing when they recorded it in late 2019 that their album cycle would open with every venue on earth closed; the record ended up promoted almost entirely through livestreams and press rather than the touring cycle a new Trivium album would normally command.\n\nThe album was tracked at Full Sail University in Orlando with returning producer Josh Wilbur, but Alex Bent's drum tracks were recorded separately at Studio 606 in Los Angeles — the studio built by Dave Grohl best known as the home base for Foo Fighters and Nirvana's later sessions. It gave Bent's drum tracking a specific room character distinct from the rest of the album's Orlando sessions.\n\nMusically, \"What the Dead Men Say\" pushed further into progressive territory than its predecessor, opening with the instrumental \"IX\" before launching into the title track and songs like \"Catastrophist\" and \"The Defiant.\" Bent's playing reflects that shift — more dynamic range and compositional variety than the more direct, riff-driven \"The Sin and the Sentence,\" while keeping the same double-bass intensity in the album's heavier sections.\n\nThis article breaks down the gear Alex Bent used on his second Trivium album: the same core Tama Starclassic Maple and Zildjian K Custom Hybrid setup from his debut, refined for a more progressive, dynamically varied record.",
       "keyPoints": [
         "Trivium's ninth studio album, released April 24, 2020 on Roadrunner Records",
         "Released five weeks into COVID-19 lockdowns — promoted via livestreams instead of a touring cycle",
@@ -507,9 +507,9 @@ export const articles = {
       ]
     },
     "drumKit": {
-      "title": "The Reference Setup Holds Steady",
-      "brand": "Pearl",
-      "model": "Pearl Reference Series",
+      "title": "The Starclassic Maple Setup Holds Steady",
+      "brand": "Tama",
+      "model": "Tama Starclassic Maple",
       "finish": "Matte Black",
       "config": {
         "bassdrums": [
@@ -523,11 +523,11 @@ export const articles = {
           "14\" x 14\" Floor Tom",
           "16\" x 16\" Floor Tom"
         ],
-        "shells": "Reference Series maple/birch hybrid shells"
+        "shells": "Starclassic Maple 100% maple shells"
       },
-      "description": "Bent carried the same Pearl Reference Series kit from \"The Sin and the Sentence\" directly into \"What the Dead Men Say\" — matte black finish, double 22\" x 18\" bass drums, and the same compact 4-piece tom array. The consistency mattered: with drum tracking happening at Studio 606 rather than alongside the rest of the band's Orlando sessions, keeping the exact same kit removed one variable from an already unusual recording split.\n\nThe more progressive material on this record — extended tracks like \"Amongst the Shadows and the Stones\" and the atmospheric opener \"IX\" — asked more of the kit's dynamic range than the direct, riff-tight approach of the debut. The Reference Series shells handled both ends: full-intensity double-bass runs on \"Catastrophist\" and more restrained, texture-focused playing on the album's slower passages.",
+      "description": "Bent carried the same Tama Starclassic Maple kit from \"The Sin and the Sentence\" directly into \"What the Dead Men Say\" — matte black finish, double 22\" x 18\" bass drums, and the same compact 4-piece tom array. The consistency mattered: with drum tracking happening at Studio 606 rather than alongside the rest of the band's Orlando sessions, keeping the exact same kit removed one variable from an already unusual recording split.\n\nThe more progressive material on this record — extended tracks like \"Amongst the Shadows and the Stones\" and the atmospheric opener \"IX\" — asked more of the kit's dynamic range than the direct, riff-tight approach of the debut. The Starclassic Maple shells handled both ends: full-intensity double-bass runs on \"Catastrophist\" and more restrained, texture-focused playing on the album's slower passages.",
       "notes": [
-        "Identical kit to The Sin and the Sentence — matte black Pearl Reference, double 22\" x 18\" kicks",
+        "Identical kit to The Sin and the Sentence — matte black Tama Starclassic Maple, double 22\" x 18\" kicks",
         "Drums tracked separately at Studio 606, Los Angeles, apart from the rest of the album's Orlando sessions",
         "Wider dynamic range required by the album's more progressive song structures",
         "Consistency in gear helped anchor a recording process split across two studios"
@@ -536,11 +536,11 @@ export const articles = {
     },
     "snare": {
       "title": "Same Snare, More Restraint",
-      "brand": "Pearl",
-      "model": "Pearl Reference Snare",
-      "size": "14\" x 6.5\"",
-      "shell": "Maple/Birch Hybrid",
-      "description": "The 14\" x 6.5\" Pearl Reference snare returned unchanged from the debut, tuned medium-high for articulation. What differs on \"What the Dead Men Say\" is how Bent used it — the album's more progressive, dynamically varied writing calls for more ghost notes and restrained backbeats on tracks like \"The Defiant\" alongside the full-force hits of \"Catastrophist\" and the title track.\n\nRecording the drums at Studio 606 rather than Full Sail gave the snare a slightly different room character than the debut album, though the fundamental tuning and head selection stayed the same.",
+      "brand": "Tama",
+      "model": "Tama Starclassic Maple Snare",
+      "size": "14\" x 5\"",
+      "shell": "Maple",
+      "description": "The 14\" x 5\" Tama Starclassic Maple snare returned unchanged from the debut, tuned medium-high for articulation. What differs on \"What the Dead Men Say\" is how Bent used it — the album's more progressive, dynamically varied writing calls for more ghost notes and restrained backbeats on tracks like \"The Defiant\" alongside the full-force hits of \"Catastrophist\" and the title track.\n\nRecording the drums at Studio 606 rather than Full Sail gave the snare a slightly different room character than the debut album, though the fundamental tuning and head selection stayed the same.",
       "tuningSetting": "Medium-high tension for articulation across a wider dynamic range",
       "heads": "Evans EC Reverse Dot (batter), Evans Hazy 300 (resonant)",
       "estimatedValue": "$500-700 (2020)"
@@ -622,7 +622,7 @@ export const articles = {
     "faq": [
       {
         "question": "What drum kit did Alex Bent use on What the Dead Men Say?",
-        "answer": "Alex Bent used the same Pearl Reference Series kit from The Sin and the Sentence on What the Dead Men Say (2020) — a matte black finish with double 22\" x 18\" bass drums, 10\" and 12\" rack toms, and 14\" and 16\" floor toms. His drum tracks for the album were recorded at Studio 606 in Los Angeles, separate from the rest of the band's sessions at Full Sail University in Orlando. See the [Alex Bent drummer profile](/drummer/alex-bent) for his full gear history."
+        "answer": "Alex Bent used the same Tama Starclassic Maple kit from The Sin and the Sentence on What the Dead Men Say (2020) — a matte black finish with double 22\" x 18\" bass drums, 10\" and 12\" rack toms, and 14\" and 16\" floor toms. His drum tracks for the album were recorded at Studio 606 in Los Angeles, separate from the rest of the band's sessions at Full Sail University in Orlando. See the [Alex Bent drummer profile](/drummer/alex-bent) for his full gear history."
       },
       {
         "question": "Where were the drums recorded for What the Dead Men Say?",
@@ -634,7 +634,7 @@ export const articles = {
       },
       {
         "question": "How does What the Dead Men Say compare to The Sin and the Sentence?",
-        "answer": "What the Dead Men Say (2020) leans further into progressive song structures than The Sin and the Sentence (2017), opening with the instrumental \"IX\" and featuring more dynamically varied tracks like \"Amongst the Shadows and the Stones\" alongside direct, aggressive cuts like \"Catastrophist.\" Alex Bent's gear stayed essentially identical between the two albums — the same Pearl Reference kit and Zildjian K Custom Hybrid cymbals — but his playing on the second record shows more dynamic range and restraint alongside the same double-bass intensity. See the [The Sin and the Sentence drum setup article](/articles/trivium-sin-and-the-sentence-drum-setup) for the preceding chapter."
+        "answer": "What the Dead Men Say (2020) leans further into progressive song structures than The Sin and the Sentence (2017), opening with the instrumental \"IX\" and featuring more dynamically varied tracks like \"Amongst the Shadows and the Stones\" alongside direct, aggressive cuts like \"Catastrophist.\" Alex Bent's gear stayed essentially identical between the two albums — the same Tama Starclassic Maple kit and Zildjian K Custom Hybrid cymbals — but his playing on the second record shows more dynamic range and restraint alongside the same double-bass intensity. See the [The Sin and the Sentence drum setup article](/articles/trivium-sin-and-the-sentence-drum-setup) for the preceding chapter."
       }
     ],
     "relatedAlbums": [
@@ -653,7 +653,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "Consistency Through an Unprecedented Release",
-      "content": "What the Dead Men Say is a strange artifact in Trivium's catalog — a record built for touring that was released into a world with no touring at all. Through that disruption, Alex Bent's gear and playing stayed remarkably stable: the same Pearl Reference kit, the same Zildjian K Custom Hybrid cymbals, and the same Axis A21 pedal that carried his Trivium debut.\n\nWhat changed was the material itself. The band's push into more progressive songwriting asked more of Bent's dynamic range, and the Studio 606 sessions gave his drum tracks a distinct sonic identity within the album.\n\nFor the fuller arc, see the [The Sin and the Sentence drum setup article](/articles/trivium-sin-and-the-sentence-drum-setup) for Bent's Trivium debut, and see the [In the Court of the Dragon drum setup article](/articles/trivium-in-the-court-of-the-dragon-drum-setup) for the UK top-5 record that followed."
+      "content": "What the Dead Men Say is a strange artifact in Trivium's catalog — a record built for touring that was released into a world with no touring at all. Through that disruption, Alex Bent's gear and playing stayed remarkably stable: the same Tama Starclassic Maple kit, the same Zildjian K Custom Hybrid cymbals, and the same Axis A21 pedal that carried his Trivium debut.\n\nWhat changed was the material itself. The band's push into more progressive songwriting asked more of Bent's dynamic range, and the Studio 606 sessions gave his drum tracks a distinct sonic identity within the album.\n\nFor the fuller arc, see the [The Sin and the Sentence drum setup article](/articles/trivium-sin-and-the-sentence-drum-setup) for Bent's Trivium debut, and see the [In the Court of the Dragon drum setup article](/articles/trivium-in-the-court-of-the-dragon-drum-setup) for the UK top-5 record that followed."
     }
   },
   "trivium-in-the-court-of-the-dragon-drum-setup": {
@@ -674,7 +674,7 @@ export const articles = {
     "dateModified": "2026-07-01",
     "author": "MetalForge Editorial",
     "title": "In the Court of the Dragon Drum Setup: Alex Bent's UK Top-5 Trivium Album (2021)",
-    "description": "Complete gear breakdown for Alex Bent's drum setup on Trivium's In the Court of the Dragon (2021). Pearl Reference kit, Zildjian K Custom Hybrid cymbals, and the progressive songwriting behind the band's UK #4 studio album.",
+    "description": "Complete gear breakdown for Alex Bent's drum setup on Trivium's In the Court of the Dragon (2021). Tama Starclassic Maple kit, Zildjian K Custom Hybrid cymbals, and the progressive songwriting behind the band's UK #4 studio album.",
     "seoKeywords": [
       "trivium in the court of the dragon drum setup",
       "alex bent drum kit 2021",
@@ -685,7 +685,7 @@ export const articles = {
     "ogImage": "/images/drummers/alex-bent.webp",
     "intro": {
       "title": "Trivium's Most Progressive Statement Yet",
-      "content": "\"In the Court of the Dragon,\" released October 8, 2021 on Roadrunner Records, is Trivium's tenth studio album and Alex Bent's third full recording with the band. Produced once again by Josh Wilbur and recorded at Full Sail University in Orlando in the fall of 2020, the album pushed the progressive ambitions of \"What the Dead Men Say\" even further, built around longer, more structurally complex songs than anything the band had released since \"Shogun\" (2008).\n\nThe album opens with the instrumental \"X\" before launching into the nearly eight-minute title track, followed by songs like \"Feast of Fire,\" \"A Crisis of Revelation,\" and the multi-part closer \"The Phalanx.\" Commercially, it was one of Trivium's strongest chart performances in years, peaking at #4 on the UK Albums Chart — the band's best UK showing since \"Shogun\" in 2008.\n\nFor Bent, the album's structural ambition demanded the widest dynamic and technical range of his Trivium tenure to that point: extended instrumental builds, tempo shifts within songs, and the kind of compositional complexity that echoed the progressive death metal he'd come from before joining the band. His gear, by contrast, stayed almost entirely unchanged — the same Pearl Reference and Zildjian K Custom Hybrid setup he'd used since his 2017 debut, proof that a stable rig can still deliver a drummer's most demanding performance.\n\nThis article breaks down the drum setup behind Trivium's most progressive record in over a decade.",
+      "content": "\"In the Court of the Dragon,\" released October 8, 2021 on Roadrunner Records, is Trivium's tenth studio album and Alex Bent's third full recording with the band. Produced once again by Josh Wilbur and recorded at Full Sail University in Orlando in the fall of 2020, the album pushed the progressive ambitions of \"What the Dead Men Say\" even further, built around longer, more structurally complex songs than anything the band had released since \"Shogun\" (2008).\n\nThe album opens with the instrumental \"X\" before launching into the nearly eight-minute title track, followed by songs like \"Feast of Fire,\" \"A Crisis of Revelation,\" and the multi-part closer \"The Phalanx.\" Commercially, it was one of Trivium's strongest chart performances in years, peaking at #4 on the UK Albums Chart — the band's best UK showing since \"Shogun\" in 2008.\n\nFor Bent, the album's structural ambition demanded the widest dynamic and technical range of his Trivium tenure to that point: extended instrumental builds, tempo shifts within songs, and the kind of compositional complexity that echoed the progressive death metal he'd come from before joining the band. His gear, by contrast, stayed almost entirely unchanged — the same Tama Starclassic Maple and Zildjian K Custom Hybrid setup he'd used since his 2017 debut, proof that a stable rig can still deliver a drummer's most demanding performance.\n\nThis article breaks down the drum setup behind Trivium's most progressive record in over a decade.",
       "keyPoints": [
         "Trivium's tenth studio album, released October 8, 2021 on Roadrunner Records",
         "Alex Bent's third full studio album with the band",
@@ -696,9 +696,9 @@ export const articles = {
       ]
     },
     "drumKit": {
-      "title": "The Reference Kit, Three Albums Deep",
-      "brand": "Pearl",
-      "model": "Pearl Reference Series",
+      "title": "The Starclassic Maple Kit, Three Albums Deep",
+      "brand": "Tama",
+      "model": "Tama Starclassic Maple",
       "finish": "Matte Black",
       "config": {
         "bassdrums": [
@@ -712,11 +712,11 @@ export const articles = {
           "14\" x 14\" Floor Tom",
           "16\" x 16\" Floor Tom"
         ],
-        "shells": "Reference Series maple/birch hybrid shells"
+        "shells": "Starclassic Maple 100% maple shells"
       },
-      "description": "By his third Trivium album, Bent's matte black Pearl Reference Series kit was a known quantity — the same double 22\" x 18\" bass drums and compact 4-piece tom array from 2017 and 2020. What changed was the demand placed on it: \"In the Court of the Dragon\" is built around longer, multi-section songs like the title track and \"The Phalanx,\" requiring sustained double-bass stamina across extended instrumental builds rather than the shorter, riff-tight bursts of earlier records.\n\nThe compact tom configuration continued to serve Bent well even as the material grew more progressive — rather than expanding his kit for more melodic fill options, he leaned on precise, efficient movement between the same four toms, a hallmark of his technical death metal training applied to Trivium's most compositionally ambitious record in over a decade.",
+      "description": "By his third Trivium album, Bent's matte black Tama Starclassic Maple kit was a known quantity — the same double 22\" x 18\" bass drums and compact 4-piece tom array from 2017 and 2020. What changed was the demand placed on it: \"In the Court of the Dragon\" is built around longer, multi-section songs like the title track and \"The Phalanx,\" requiring sustained double-bass stamina across extended instrumental builds rather than the shorter, riff-tight bursts of earlier records.\n\nThe compact tom configuration continued to serve Bent well even as the material grew more progressive — rather than expanding his kit for more melodic fill options, he leaned on precise, efficient movement between the same four toms, a hallmark of his technical death metal training applied to Trivium's most compositionally ambitious record in over a decade.",
       "notes": [
-        "Third consecutive Trivium album on the same matte black Pearl Reference configuration",
+        "Third consecutive Trivium album on the same matte black Tama Starclassic Maple configuration",
         "Sustained double-bass stamina required for the album's longer, multi-section songs",
         "Compact tom array unchanged despite the album's more progressive songwriting",
         "Consistency across three albums underscores how settled Bent's rig had become"
@@ -725,11 +725,11 @@ export const articles = {
     },
     "snare": {
       "title": "Same Crack, Bigger Canvas",
-      "brand": "Pearl",
-      "model": "Pearl Reference Snare",
-      "size": "14\" x 6.5\"",
-      "shell": "Maple/Birch Hybrid",
-      "description": "The 14\" x 6.5\" Pearl Reference snare that debuted on \"The Sin and the Sentence\" returned for a third straight album, still tuned medium-high for articulation. On the nearly eight-minute title track, the snare has to hold up across multiple sections and tempo shifts — a different demand than the more compact song structures of the first two Bent-era records, but one the drum handled without any change in tuning philosophy.",
+      "brand": "Tama",
+      "model": "Tama Starclassic Maple Snare",
+      "size": "14\" x 5\"",
+      "shell": "Maple",
+      "description": "The 14\" x 5\" Tama Starclassic Maple snare that debuted on \"The Sin and the Sentence\" returned for a third straight album, still tuned medium-high for articulation. On the nearly eight-minute title track, the snare has to hold up across multiple sections and tempo shifts — a different demand than the more compact song structures of the first two Bent-era records, but one the drum handled without any change in tuning philosophy.",
       "tuningSetting": "Medium-high tension for articulation across extended song forms",
       "heads": "Evans EC Reverse Dot (batter), Evans Hazy 300 (resonant)",
       "estimatedValue": "$500-700 (2021)"
@@ -817,7 +817,7 @@ export const articles = {
     "faq": [
       {
         "question": "What drum kit did Alex Bent use on In the Court of the Dragon?",
-        "answer": "Alex Bent used the same matte black Pearl Reference Series kit on In the Court of the Dragon (2021) that he'd played since his 2017 Trivium debut — double 22\" x 18\" bass drums, 10\" and 12\" rack toms, and 14\" and 16\" floor toms with maple/birch hybrid shells. It was his third consecutive Trivium album on the identical configuration. See the [Alex Bent drummer profile](/drummer/alex-bent) for his full gear history."
+        "answer": "Alex Bent used the same matte black Tama Starclassic Maple kit on In the Court of the Dragon (2021) that he'd played since his 2017 Trivium debut — double 22\" x 18\" bass drums, 10\" and 12\" rack toms, and 14\" and 16\" floor toms with all-maple shells. It was his third consecutive Trivium album on the identical configuration. See the [Alex Bent drummer profile](/drummer/alex-bent) for his full gear history."
       },
       {
         "question": "How did In the Court of the Dragon perform commercially?",
@@ -853,7 +853,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "The Payoff of a Stable Rig",
-      "content": "In the Court of the Dragon closes out a remarkably consistent three-album run for Alex Bent's Trivium gear: the same Pearl Reference kit, the same Zildjian K Custom Hybrid cymbals, the same Axis A21 pedal from his 2017 debut through the band's strongest UK chart showing in over a decade.\n\nWhat changed was the ambition of the material. Trivium's push into longer, more structurally complex songwriting demanded more from Bent's stamina and dynamic control than either of his first two albums with the band — and the results, both critically and commercially, spoke for themselves.\n\nFor the fuller arc, see the [What the Dead Men Say drum setup article](/articles/trivium-what-the-dead-men-say-drum-setup) for the record that preceded this one, the [The Sin and the Sentence drum setup article](/articles/trivium-sin-and-the-sentence-drum-setup) for Bent's Trivium debut, and the [Shogun drum setup article](/articles/shogun-drum-setup) for Nick Augusto's earlier chapter in Trivium's drumming history."
+      "content": "In the Court of the Dragon closes out a remarkably consistent three-album run for Alex Bent's Trivium gear: the same Tama Starclassic Maple kit, the same Zildjian K Custom Hybrid cymbals, the same Axis A21 pedal from his 2017 debut through the band's strongest UK chart showing in over a decade.\n\nWhat changed was the ambition of the material. Trivium's push into longer, more structurally complex songwriting demanded more from Bent's stamina and dynamic control than either of his first two albums with the band — and the results, both critically and commercially, spoke for themselves.\n\nFor the fuller arc, see the [What the Dead Men Say drum setup article](/articles/trivium-what-the-dead-men-say-drum-setup) for the record that preceded this one, the [The Sin and the Sentence drum setup article](/articles/trivium-sin-and-the-sentence-drum-setup) for Bent's Trivium debut, and the [Shogun drum setup article](/articles/shogun-drum-setup) for Nick Augusto's earlier chapter in Trivium's drumming history."
     }
   }
 };

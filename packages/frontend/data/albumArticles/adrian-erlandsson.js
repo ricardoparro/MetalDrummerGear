@@ -210,17 +210,17 @@ export const articles = {
     ],
     "evolution": {
       "title": "From Slaughter of the Soul to the Reunion Era: Adrian Erlandsson's Journey",
-      "content": "Slaughter of the Soul was At the Gates' final album before the band's original disbanding in 1996. Adrian Erlandsson went on to join Cradle of Filth (1999–2007), recording several albums with the British extreme metal band and developing his setup significantly, before returning to At the Gates for the band's reunion activity from 2007 onward.\n\n**Post-Slaughter of the Soul:**\nThe years following the disbanding saw Erlandsson expand beyond the budget studio setup of the Gothenburg underground. With Cradle of Filth, recording in professional UK facilities with larger production budgets, he adopted more established professional kit configurations with improved documentation.\n\n**At the Gates Reunion Era:**\nWhen At the Gates returned to record At War With Reality (2014) — the first album of new material in 19 years — Adrian returned with a substantially upgraded setup. Modern studio facilities and professional endorsement relationships allowed for a more detailed documented gear profile.\n\n**Modern Setup (At the Gates, 2014–present):**\n- DW Collector's Series or Mapex Saturn drums\n- Sabian AAX and HHX cymbals\n- DW 9002 or equivalent double bass pedal\n- Professional DW or Ludwig snare\n\nThe contrast between the Slaughter of the Soul sessions and the modern reunion-era recordings encapsulates twenty years of gear development in the melodic death metal world — from mid-90s budget studio setups to fully professional configurations matching the genre's increased international profile.\n\n**The Erlandsson Family Connection:**\nFor the parallel story of Daniel Erlandsson — Adrian's brother and the Arch Enemy drummer who built a concurrent Gothenburg drumming career — see [Daniel Erlandsson drum setup at MetalForge](/articles/daniel-erlandsson-drum-setup). Daniel's modern Pearl Reference Pure setup and the Arch Enemy touring rig represent the same Gothenburg drumming tradition carried through three decades of professional development. The [Daniel Erlandsson drummer profile](/drummer/daniel-erlandsson) covers the full Arch Enemy career context.",
+      "content": "Slaughter of the Soul was At the Gates' final album before the band's original disbanding in 1996. Adrian Erlandsson went on to join Cradle of Filth (1999–2007), recording several albums with the British extreme metal band and developing his setup significantly, before returning to At the Gates for the band's reunion activity from 2007 onward.\n\n**Post-Slaughter of the Soul:**\nThe years following the disbanding saw Erlandsson expand beyond the budget studio setup of the Gothenburg underground. With Cradle of Filth, recording in professional UK facilities with larger production budgets, he adopted more established professional kit configurations with improved documentation.\n\n**At the Gates Reunion Era:**\nWhen At the Gates returned to record At War With Reality (2014) — the first album of new material in 19 years — Adrian returned with a substantially upgraded setup. Modern studio facilities and professional endorsement relationships allowed for a more detailed documented gear profile.\n\n**Modern Setup (At the Gates, 2014–present):**\n- Tama Starclassic Bubinga drums\n- Sabian AAX and HHX cymbals\n- Monolit Czarcie Kopyto double bass pedal\n- Tama Starclassic Bubinga snare\n\nThe contrast between the Slaughter of the Soul sessions and the modern reunion-era recordings encapsulates twenty years of gear development in the melodic death metal world — from mid-90s budget studio setups to fully professional configurations matching the genre's increased international profile.\n\n**The Erlandsson Family Connection:**\nFor the parallel story of Daniel Erlandsson — Adrian's brother and the Arch Enemy drummer who built a concurrent Gothenburg drumming career — see [Daniel Erlandsson drum setup at MetalForge](/articles/daniel-erlandsson-drum-setup). Daniel's modern Pearl Reference Pure setup and the Arch Enemy touring rig represent the same Gothenburg drumming tradition carried through three decades of professional development. The [Daniel Erlandsson drummer profile](/drummer/daniel-erlandsson) covers the full Arch Enemy career context.",
       "thenVsNow": [
         {
           "category": "Kit",
           "then": "Pearl Export / Studio House Kit (birch-poplar)",
-          "now": "DW Collector's Series or Mapex Saturn"
+          "now": "Tama Starclassic Bubinga"
         },
         {
           "category": "Snare",
           "then": "Steel/wood studio snare 14\" x 6\"",
-          "now": "Professional DW or Ludwig snare"
+          "now": "Tama Starclassic Bubinga Snare"
         },
         {
           "category": "Cymbals",
@@ -235,7 +235,7 @@ export const articles = {
         {
           "category": "Pedals",
           "then": "Standard double bass pedal setup",
-          "now": "DW 9002 or equivalent"
+          "now": "Monolit Czarcie Kopyto double pedal"
         }
       ]
     },

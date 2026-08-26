@@ -1660,29 +1660,29 @@ export const articles = {
       "opeth 2002 drum kit",
       "opeth deliverance kit",
       "martin lopez opeth heaviest",
-      "pearl masters premium opeth"
+      "sonor designer series opeth"
     ],
     "ogImage": "/images/albums/deliverance-drums.webp",
     "intro": {
       "title": "The Heaviest Album in Opeth's Catalog",
-      "content": "Released on November 11, 2002, \"Deliverance\" arrived as one half of a remarkable companion pair: while \"Damnation\" explored acoustic prog with barely a drum in sight, \"Deliverance\" went the opposite direction — the most brutal, death-metal-driven record Opeth ever made. It was Martin Lopez at his most extreme, a performance that demanded everything he had developed over years of jazz-influenced metal drumming and then pushed it harder.\n\nThe concept was Mikael Åkerfeldt's: record two simultaneous albums occupying opposite poles of Opeth's musical identity. Damnation would be the acoustic, dreamlike half. Deliverance would be the drums-only half in spirit — relentless, muscular, and uncompromising. For Lopez, this was both a creative challenge and an athletic one. Deliverance required sustaining blast-beat intensity and complex double-bass patterns across tracks that often exceeded ten minutes.\n\nRecording took place at Fredman Studio in Gothenburg — the same room where Blackwater Park had been captured a year earlier. Steven Wilson and Mikael Åkerfeldt co-produced both albums simultaneously. Wilson's production approach on Deliverance leaned harder than Blackwater Park: more attack on the kick, tighter snare, less ambient room — matching the album's uncompromising character.\n\nTracks like \"A Fair Judgement\" demonstrate Lopez's range even on the heaviest album. The opener \"Wreath\" is perhaps Opeth's most relentless death metal statement. \"For Absent Friends\" shows that even within Deliverance's brutal framework, Lopez never abandons musicality. His drumming on this album is \"architecture\" in the truest sense — it shapes the space around the riffs and holds the weight of arrangements that could easily collapse under lesser playing.\n\nThis article breaks down every piece of gear Martin Lopez used on Deliverance, explains how his setup differed from Blackwater Park, and analyzes how his \"drumming as architecture\" philosophy is most clearly expressed on Opeth's heaviest record.",
+      "content": "Released on November 11, 2002, \"Deliverance\" arrived as one half of a remarkable companion pair: while \"Damnation\" explored acoustic prog with barely a drum in sight, \"Deliverance\" went the opposite direction — the most brutal, death-metal-driven record Opeth ever made. It was Martin Lopez at his most extreme, a performance that demanded everything he had developed over years of jazz-influenced metal drumming and then pushed it harder.\n\nThe concept was Mikael Åkerfeldt's: record two simultaneous albums occupying opposite poles of Opeth's musical identity. Damnation would be the acoustic, dreamlike half. Deliverance would be the drums-only half in spirit — relentless, muscular, and uncompromising. For Lopez, this was both a creative challenge and an athletic one. Deliverance required sustaining blast-beat intensity and complex double-bass patterns across tracks that often exceeded ten minutes.\n\nRecording took place at Fredman Studio in Gothenburg — the same room where Blackwater Park had been captured a year earlier. Steven Wilson and Mikael Åkerfeldt co-produced both albums simultaneously. Wilson's production approach on Deliverance leaned harder than Blackwater Park: more attack on the kick, tighter snare, less ambient room — matching the album's uncompromising character.\n\nTracks like \"A Fair Judgement\" demonstrate Lopez's range even on the heaviest album. The opener \"Wreath\" is perhaps Opeth's most relentless death metal statement. \"For Absent Friends\" shows that even within Deliverance's brutal framework, Lopez never abandons musicality. His drumming on this album is \"architecture\" in the truest sense — it shapes the space around the riffs and holds the weight of arrangements that could easily collapse under lesser playing.\n\nThis article breaks down every piece of gear Martin Lopez used on Deliverance, explains how his setup carried over from Blackwater Park, and analyzes how his \"drumming as architecture\" philosophy is most clearly expressed on Opeth's heaviest record.",
       "keyPoints": [
         "Recorded at Fredman Studio, Gothenburg in 2002",
         "Produced by Steven Wilson & Mikael Åkerfeldt alongside companion album Damnation",
         "Lopez's most extreme recorded performance — faster, more death-metal influenced than Blackwater Park",
-        "Pearl Masters Premium kit with 20\" kick — slightly smaller, tighter configuration than BPW",
-        "Paiste 2002 cymbals throughout — brighter attack suited to the album's aggression",
+        "Same Sonor Designer Series kit as Blackwater Park, tuned tighter for a more aggressive attack",
+        "Sabian HH/AAX cymbals continued from Blackwater Park — dark, complex tone even at maximum intensity",
         "Released simultaneously with Damnation as a companion double-album pair"
       ]
     },
     "drumKit": {
-      "title": "Martin's Pearl Setup: Built for Brutality",
-      "brand": "Pearl",
-      "model": "Pearl Masters Premium",
+      "title": "Martin's Sonor Setup: Built for Brutality",
+      "brand": "Sonor",
+      "model": "Sonor Designer Series",
       "finish": "Natural Maple",
       "config": {
         "bassdrums": [
-          "20\" x 18\" Bass Drum"
+          "22\" x 18\" Bass Drum"
         ],
         "toms": [
           "10\" x 8\" Rack Tom",
@@ -1692,67 +1692,67 @@ export const articles = {
           "14\" x 14\" Floor Tom",
           "16\" x 16\" Floor Tom"
         ],
-        "shells": "Maple shells, 6-ply construction"
+        "shells": "Maple shells with HLD (High Lustre Finish) lacquer"
       },
-      "description": "For Deliverance, Martin Lopez switched from the Sonor Designer Series he had used on Blackwater Park to a Pearl Masters Premium kit — a change that reflected the album's harder character. The Pearl's 6-ply maple shells delivered more attack and faster transient response than the Sonor, qualities essential for Deliverance's relentless tempos.\n\nThe most significant configuration change from Blackwater Park was the kick drum: 20\" diameter versus the 22\" of the previous album. This smaller kick produced a punchier, more immediate attack without the low-frequency weight of the larger drum. On an album where the guitars are thick and distorted, a 20\" kick punches through the mix more cleanly — Lopez and Wilson understood this when shaping the drum sound for Deliverance's production.\n\nThe tom configuration remained similar — 10\" and 12\" rack toms, 14\" and 16\" floor toms — giving Lopez the same melodic voice range across his fills. Pearl's Masters Premium tuned to a slightly higher pitch than the Sonor, enhancing the articulation of fast tom runs, which Deliverance contains in abundance.\n\nThe Masters Premium series was among Pearl's finest professional offerings at the time, trusted by touring metal drummers for its consistency and projection. For Lopez's purposes, it needed to hold up under the most demanding drumming of his Opeth career — sustained blast beats, rapid double-bass patterns, and the kind of dynamic shifts that defined his playing even at maximum intensity.",
+      "description": "For Deliverance, Martin Lopez continued playing the same Sonor Designer Series kit he had used on Blackwater Park — trusted, dialed-in gear that he pushed harder to match the album's harder character. The Designer Series' maple shells delivered enough attack and transient response for Deliverance's relentless tempos without needing a change of equipment.\n\nThe configuration carried over directly from Blackwater Park: the same 22\" bass drum providing the low-end foundation, tuned tighter and struck harder for a punchier, more immediate attack than the previous album's more open sound. On an album where the guitars are thick and distorted, a tightened kick punches through the mix more cleanly — Lopez and Wilson understood this when shaping the drum sound for Deliverance's production.\n\nThe tom configuration remained identical — 10\" and 12\" rack toms, 14\" and 16\" floor toms — giving Lopez the same melodic voice range across his fills. The kit was tuned to a slightly higher pitch than on Blackwater Park, enhancing the articulation of fast tom runs, which Deliverance contains in abundance.\n\nThe Sonor Designer Series was among the finest professional offerings of its era, trusted by touring metal drummers for its consistency and projection. For Lopez's purposes, it needed to hold up under the most demanding drumming of his Opeth career — sustained blast beats, rapid double-bass patterns, and the kind of dynamic shifts that defined his playing even at maximum intensity.",
       "notes": [
-        "Pearl Masters Premium chosen for tighter, more aggressive attack than the Sonor",
-        "20\" kick produces punchier, more mid-forward tone suited to heavy production",
+        "Same Sonor Designer Series kit as Blackwater Park, tuned tighter for a more aggressive attack",
+        "22\" kick, tuned higher, produces a punchier tone suited to heavy production",
         "Maple shells deliver fast transient response for rapid passages",
-        "Smaller kick configuration allowed cleaner separation from dense guitar tunings",
+        "Tighter tuning allowed cleaner separation from dense guitar tunings",
         "Same tom voices as Blackwater Park kit — continuity within the Opeth sonic identity"
       ],
-      "estimatedValue": "$3,000-4,500 (2002) / $3,500-5,500 (comparable setup today)"
+      "estimatedValue": "$3,500-5,000 (2002) / $4,000-6,000 (comparable setup today)"
     },
     "snare": {
       "title": "The Snare That Cracks Like a Gunshot",
-      "brand": "Pearl",
-      "model": "Pearl Free-Floating Maple Snare",
-      "size": "14\" x 6.5\"",
+      "brand": "Sonor",
+      "model": "Sonor Designer Maple Snare",
+      "size": "14\" x 5.5\"",
       "shell": "Maple",
-      "description": "Deliverance demanded a snare with more authority than the relatively delicate Sonor snare from Blackwater Park. Lopez used a deeper Pearl Free-Floating Maple snare — at 6.5\" deep, it delivered the crack needed to cut through the album's dense guitar arrangements without sacrificing sensitivity for the occasional quieter passages.\n\nThe Free-Floating shell design was an important choice: by isolating the shell from the hardware, Pearl's design allowed the drum to resonate without interference from the tension of lug-to-shell contact. The result was fuller sustain and a more open, powerful crack — qualities that Wilson's production captured with particular clarity on tracks like \"Wreath\" and \"Master's Apprentices.\"\n\nAt 14\" x 6.5\", this snare sits between a standard metal depth and a deep-shell power snare. It offered enough attack for the most brutal passages while remaining musical on the album's progressive sections. Lopez tuned it toward the higher side of medium, keeping the response sharp without pushing into the thin, papery sound that over-tightened metal snares often produce.\n\nThe depth also provided a fuller rimshot — essential for Deliverance's accents, which need to register above the distortion and double-bass density. Every rimshot on \"A Fair Judgement\" lands with authority.",
+      "description": "Deliverance demanded a snare with more authority than the relatively delicate voice the same Sonor Designer maple snare had on Blackwater Park. Lopez used the identical drum — tuned tighter and higher — to deliver the crack needed to cut through the album's dense guitar arrangements without sacrificing sensitivity for the occasional quieter passages.\n\nThe Designer Series shell construction was well-suited to the change in approach: the maple shell's natural resonance allowed the drum to project a fuller, more open crack when tuned up, without needing a different drum. The result was the authority Wilson's production captured with particular clarity on tracks like \"Wreath\" and \"Master's Apprentices.\"\n\nAt 14\" x 5.5\", this snare sits in classic metal depth territory. It offered enough attack for the most brutal passages while remaining musical on the album's progressive sections. Lopez tuned it toward the higher side of medium, keeping the response sharp without pushing into the thin, papery sound that over-tightened snares often produce.\n\nThe tighter tuning also provided a fuller rimshot — essential for Deliverance's accents, which need to register above the distortion and double-bass density. Every rimshot on \"A Fair Judgement\" lands with authority.",
       "tuningSetting": "Medium-high for maximum cut and attack",
       "heads": "Remo Ambassador Coated (batter), Remo Diplomat Snare Side (resonant)",
-      "estimatedValue": "$450-650"
+      "estimatedValue": "$400-600"
     },
     "cymbals": {
-      "title": "The Paiste 2002 Arsenal",
-      "brand": "Paiste",
-      "series": "Paiste 2002 Series",
+      "title": "The Sabian Arsenal: Dark and Complex, Turned Up",
+      "brand": "Sabian",
+      "series": "Sabian HH (Hand Hammered) & AAX Series",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Paiste 2002 14\" Medium Hi-Hats",
+          "model": "Sabian HH 14\" Regular Hi-Hats",
           "position": "Left side",
-          "notes": "Bright, cutting hi-hats for aggressive passages and fast patterns"
+          "notes": "Dark, complex hi-hats for aggressive passages and fast patterns"
         },
         {
           "type": "Crash",
-          "model": "Paiste 2002 16\" Crash",
+          "model": "Sabian AAX 16\" Stage Crash",
           "position": "Left of hi-hats",
           "notes": "Fast, articulate crash for heavy accents"
         },
         {
           "type": "Crash",
-          "model": "Paiste 2002 18\" Crash",
+          "model": "Sabian HH 18\" Medium Crash",
           "position": "Right of rack toms",
           "notes": "Larger crash for sustained accents and section changes"
         },
         {
           "type": "Ride",
-          "model": "Paiste 2002 20\" Medium Ride",
+          "model": "Sabian HH 20\" Medium Ride",
           "position": "Far right",
           "notes": "Clear bell definition and controlled wash for progressive sections"
         },
         {
           "type": "China",
-          "model": "Paiste 2002 18\" China",
+          "model": "Sabian AAX 18\" Chinese",
           "position": "Effect position",
           "notes": "Aggressive, trashy accent cymbal for death metal transitions"
         }
       ],
-      "description": "The Paiste 2002 series was the defining professional cymbal of classic metal and hard rock, and Lopez's choice of 2002s for Deliverance was a departure from the darker Sabian HH/AAX palette he had used on Blackwater Park. The 2002's brighter, more cutting character perfectly matched Deliverance's aggressive production intent.\n\nWhere the Sabian HH cymbals on Blackwater Park prioritized darkness and warmth to blend with acoustic passages, the Paiste 2002s on Deliverance prioritize definition and cut. The 14\" Medium Hi-Hats articulate clearly even under blast-beat intensity — you can hear every 16th note, which matters when hi-hat patterns are the rhythmic anchor above dense guitar distortion.\n\nThe crash cymbals — 16\" and 18\" — speak quickly and decay at a pace suited to Deliverance's rapid section changes. Lopez uses crashes as structural markers on Deliverance more than on Blackwater Park, punctuating the riff transitions in \"Wreath\" and \"Master's Apprentices.\" The 2002's characteristic brightness means these accents register clearly in the mix without needing to be hit excessively hard.\n\nThe 20\" Medium Ride offered a balance of wash and bell definition that served both the album's grinding mid-tempo sections and its more melodic passages. The 2002 bell rings clearly without the dry click of darker rides — it sings even in loud playing environments, which was essential for the recording environment Wilson created.\n\nThe China cymbal provided the punctuation marks for Deliverance's most aggressive transitions — Lopez deployed it with the same precision he applied to everything, a controlled burst of aggression rather than constant thrashing.",
-      "estimatedValue": "$1,600-2,200 total"
+      "description": "Lopez carried the same Sabian HH (Hand Hammered) and AAX cymbals he used on Blackwater Park into the Deliverance sessions. Rather than reaching for a brighter, more cutting cymbal line to match the album's aggression, he kept the dark, complex palette that had defined his Opeth sound and simply played it harder.\n\nWhere the HH cymbals on Blackwater Park prioritized darkness and warmth to blend with acoustic passages, on Deliverance the same cymbals were pushed for definition and cut. The 14\" HH Regular Hi-Hats articulate clearly even under blast-beat intensity — you can hear every 16th note, which matters when hi-hat patterns are the rhythmic anchor above dense guitar distortion.\n\nThe crash cymbals — a 16\" AAX Stage Crash and an 18\" HH Medium Crash — speak quickly and decay at a pace suited to Deliverance's rapid section changes. Lopez uses crashes as structural markers on Deliverance more than on Blackwater Park, punctuating the riff transitions in \"Wreath\" and \"Master's Apprentices.\" Struck harder, these accents register clearly in the mix without needing a different cymbal line.\n\nThe 20\" HH Medium Ride offered a balance of wash and bell definition that served both the album's grinding mid-tempo sections and its more melodic passages. The HH bell rings clearly without losing the darker fundamental — it sings even in loud playing environments, which was essential for the recording environment Wilson created.\n\nThe AAX China cymbal provided the punctuation marks for Deliverance's most aggressive transitions — Lopez deployed it with the same precision he applied to everything, a controlled burst of aggression rather than constant thrashing.",
+      "estimatedValue": "$1,800-2,500 total"
     },
     "hardware": {
       "title": "Pedals and Hardware",
@@ -1815,9 +1815,9 @@ export const articles = {
           "Opeth's most uncompromisingly brutal opener",
           "Sustained blast beats and rapid double-bass patterns throughout",
           "Lopez's most extreme sustained intensity on any Opeth track",
-          "Demonstrates Pearl kit's ability to project at maximum tempos"
+          "Demonstrates the Sonor kit's ability to project at maximum tempos"
         ],
-        "gearNotes": "The Paiste 2002 hi-hats articulate every 16th note even at full velocity. The 20\" kick's punchier attack is most audible here — it sits above the guitar density rather than competing with it."
+        "gearNotes": "The Sabian HH hi-hats articulate every 16th note even at full velocity. The kick's tightened, punchier attack is most audible here — it sits above the guitar density rather than competing with it."
       },
       {
         "track": "Deliverance",
@@ -1841,7 +1841,7 @@ export const articles = {
           "Lopez's restraint provides maximum impact when the heavy sections arrive",
           "The acoustic passage halfway through showcases his brush sensitivity"
         ],
-        "gearNotes": "The Pearl kit's maple warmth shines during acoustic passages. When the heavy sections arrive, the same kit transforms — the 2002 crashes land with authority, the kick punches cleanly."
+        "gearNotes": "The Sonor kit's maple warmth shines during acoustic passages. When the heavy sections arrive, the same kit transforms — the Sabian crashes land with authority, the kick punches cleanly."
       },
       {
         "track": "Master's Apprentices",
@@ -1862,12 +1862,12 @@ export const articles = {
       "thenVsNow": [
         {
           "category": "Kit",
-          "then": "Pearl Masters Premium with 20\" kick (2002)",
-          "now": "Reference for compact, punchy metal configurations"
+          "then": "Sonor Designer Series, same kit as Blackwater Park (2002)",
+          "now": "Demonstrates gear consistency didn't limit versatility"
         },
         {
           "category": "Cymbals",
-          "then": "Paiste 2002 — bright, cutting, aggressive",
+          "then": "Sabian HH/AAX — same complement as Blackwater Park, played harder",
           "now": "Classic choice for extreme metal production"
         },
         {
@@ -1936,11 +1936,11 @@ export const articles = {
           "Deliverance",
           "Damnation"
         ],
-        "description": "Pearl Masters Premium with 20\" kick; Paiste 2002 for brighter attack. Heavier beaters for aggression.",
+        "description": "Same Sonor Designer Series kit as Blackwater Park; Sabian HH/AAX cymbals continued. Heavier beaters for aggression.",
         "gear": {
-          "drums": "Pearl Masters Premium (20\" kick)",
-          "snare": "Pearl Free-Floating 14\" x 6.5\"",
-          "cymbals": "Paiste 2002 14\" Hi-Hats, 16\"/18\" Crashes, 20\" Ride, 18\" China",
+          "drums": "Sonor Designer Series (22\" kick)",
+          "snare": "Sonor Designer 14\" x 5.5\"",
+          "cymbals": "Sabian HH Hi-Hats, HH/AAX Crashes, HH Ride, AAX China",
           "hardware": "DW 5000 Double Pedal, DW Hard Felt Beaters, Vic Firth 5B"
         },
         "notes": "Tighter, more aggressive configuration matching Deliverance's brutal production intent."
@@ -1953,9 +1953,9 @@ export const articles = {
         ],
         "description": "Return toward Blackwater Park dynamic range; last Opeth studio album before health departure.",
         "gear": {
-          "drums": "Sonor / Pearl (mixed reports)",
-          "snare": "Various",
-          "cymbals": "Paiste",
+          "drums": "Sonor Designer Series (22\" kick)",
+          "snare": "Sonor Designer 14\" x 5.5\"",
+          "cymbals": "Sabian HH/AAX",
           "hardware": "DW"
         },
         "notes": "His health struggles were emerging, but Ghost Reveries remains a complete performance."
@@ -1983,16 +1983,16 @@ export const articles = {
       "title": "Martin's Deliverance-Era Gear You Can Buy Today",
       "items": [
         {
-          "item": "Pearl Masters Premium / Masters Complete",
+          "item": "Sonor Designer Series (vintage) / Sonor SQ2 (modern equivalent)",
           "available": true,
           "priceRange": "$3,500-6,000",
-          "notes": "Pearl's flagship series continues; Masters Complete is the current equivalent"
+          "notes": "Designer Series shells are sought after on the vintage market; SQ2 is Sonor's current flagship equivalent"
         },
         {
-          "item": "Paiste 2002 Series Cymbals",
+          "item": "Sabian HH / AAX Series Cymbals",
           "available": true,
-          "priceRange": "$250-450 per cymbal",
-          "notes": "Paiste 2002 remains in continuous production — a timeless classic metal cymbal choice"
+          "priceRange": "$200-400 per cymbal",
+          "notes": "Sabian HH and AAX remain in continuous production — the same complement Lopez used from Blackwater Park through Ghost Reveries"
         },
         {
           "item": "DW 5000 Double Pedal",
@@ -2017,7 +2017,7 @@ export const articles = {
     "faq": [
       {
         "question": "What drums did Martin Lopez use on Deliverance?",
-        "answer": "On Opeth's Deliverance (2002), Martin Lopez played a Pearl Masters Premium kit configured with a 20\" bass drum, 10\" and 12\" rack toms, and 14\" and 16\" floor toms. This was a shift from the Sonor Designer Series he had used on Blackwater Park — the Pearl offered a punchier, more aggressive attack suited to Deliverance's brutal production. For a full comparison with his earlier Opeth work, see the [Blackwater Park drum setup article](/articles/blackwater-park-drum-setup)."
+        "answer": "On Opeth's Deliverance (2002), Martin Lopez played the same Sonor Designer Series kit he used on Blackwater Park — a 22\" bass drum, 10\" and 12\" rack toms, and 14\" and 16\" floor toms, tuned and struck harder for a punchier, more aggressive attack suited to Deliverance's brutal production. He continued using this kit through Ghost Reveries (2005), his final Opeth album. For a full comparison with his earlier Opeth work, see the [Blackwater Park drum setup article](/articles/blackwater-park-drum-setup)."
       },
       {
         "question": "Is Deliverance heavier than Blackwater Park?",
@@ -2029,7 +2029,7 @@ export const articles = {
       },
       {
         "question": "What cymbals did Martin Lopez use on Deliverance?",
-        "answer": "Martin Lopez used Paiste 2002 series cymbals throughout Deliverance — a brighter, more cutting choice than the Sabian HH/AAX palette he had used on Blackwater Park. His setup included Paiste 2002 14\" Medium Hi-Hats, 16\" and 18\" Crashes, a 20\" Medium Ride, and an 18\" China. The 2002's brighter character suited Deliverance's aggressive production: the hi-hats articulate clearly above the dense guitar distortion, and the crashes speak quickly enough to mark Deliverance's rapid section changes. See the [Martin Lopez drummer profile](/articles/martin-lopez-drum-setup) for a full career cymbal breakdown."
+        "answer": "Martin Lopez used the same Sabian HH (Hand Hammered) and AAX cymbals throughout Deliverance that he used on Blackwater Park, playing them harder rather than switching to a brighter line. His setup included Sabian HH 14\" Regular Hi-Hats, an AAX 16\" Stage Crash, an HH 18\" Medium Crash, an HH 20\" Medium Ride, and an AAX 18\" Chinese. The dark, complex HH tone still cut through Deliverance's aggressive production: the hi-hats articulate clearly above the dense guitar distortion, and the crashes speak quickly enough to mark Deliverance's rapid section changes. See the [Martin Lopez drummer profile](/articles/martin-lopez-drum-setup) for a full career cymbal breakdown."
       },
       {
         "question": "What is Lopez's 'drumming as architecture' philosophy?",
@@ -2065,7 +2065,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "The Architecture of Brutality",
-      "content": "Deliverance is the album where Martin Lopez pushed every element of his drumming to its maximum — and the result is a record that stands as both Opeth's heaviest statement and a masterclass in applying structural thinking to extreme music.\n\n**Why It Matters:**\nMost death metal drummers at this intensity level abandon musical thinking in favor of pure physical output. Lopez didn't. The fact that Deliverance contains 13-minute tracks that hold the listener's attention is almost entirely a testament to his architectural approach — the fills serve the composition, the patterns create momentum, the dynamics (even in their compressed state) tell a story. Drumming this extreme and this musical in the same performance is extraordinarily rare.\n\n**The Companion Concept:**\nDeliverance cannot be fully understood without Damnation. The fact that the same drummer who barely appears on the acoustic companion album is also playing the most brutal drumming of his career on Deliverance — recorded simultaneously — speaks to the range Lopez possessed. Not many musicians can occupy both poles of that spectrum at the same level.\n\n**The Gear Perspective:**\nPearl Masters Premium, Paiste 2002, DW pedals with heavy beaters — Lopez's Deliverance setup was professional and purposeful. Every choice served the album's aggressive intent: brighter cymbals that cut through the distortion, a punchier 20\" kick, heavier sticks for more authority. Gear doesn't make greatness, but the right gear removes obstacles to it.\n\n**Legacy:**\nEvery progressive death metal band that attempts long-form brutal compositions follows the template Lopez established on Deliverance. The idea that death metal can sustain architectural complexity across 13 minutes — that extreme music can have form and intention beyond intensity — owes enormous debt to this album and this performance.\n\n🥁 *The heaviest album Opeth ever made. The most extreme drumming Martin Lopez ever recorded. Architecture in extremity.* 🥁"
+      "content": "Deliverance is the album where Martin Lopez pushed every element of his drumming to its maximum — and the result is a record that stands as both Opeth's heaviest statement and a masterclass in applying structural thinking to extreme music.\n\n**Why It Matters:**\nMost death metal drummers at this intensity level abandon musical thinking in favor of pure physical output. Lopez didn't. The fact that Deliverance contains 13-minute tracks that hold the listener's attention is almost entirely a testament to his architectural approach — the fills serve the composition, the patterns create momentum, the dynamics (even in their compressed state) tell a story. Drumming this extreme and this musical in the same performance is extraordinarily rare.\n\n**The Companion Concept:**\nDeliverance cannot be fully understood without Damnation. The fact that the same drummer who barely appears on the acoustic companion album is also playing the most brutal drumming of his career on Deliverance — recorded simultaneously — speaks to the range Lopez possessed. Not many musicians can occupy both poles of that spectrum at the same level.\n\n**The Gear Perspective:**\nSonor Designer Series, Sabian HH/AAX, DW pedals with heavy beaters — Lopez's Deliverance setup was the same trusted rig from Blackwater Park, pushed harder. Every choice served the album's aggressive intent: dark, complex cymbals that still cut through the distortion, a tightened kick, heavier sticks for more authority. Gear doesn't make greatness, but the right gear removes obstacles to it.\n\n**Legacy:**\nEvery progressive death metal band that attempts long-form brutal compositions follows the template Lopez established on Deliverance. The idea that death metal can sustain architectural complexity across 13 minutes — that extreme music can have form and intention beyond intensity — owes enormous debt to this album and this performance.\n\n🥁 *The heaviest album Opeth ever made. The most extreme drumming Martin Lopez ever recorded. Architecture in extremity.* 🥁"
     }
   },
   "ghost-reveries-drum-setup": {
@@ -2092,26 +2092,26 @@ export const articles = {
       "opeth 2005 drums",
       "ghost reveries drum kit",
       "martin lopez last opeth album",
-      "pearl reference opeth"
+      "sonor designer series ghost reveries"
     ],
     "ogImage": "/images/albums/ghost-reveries-drums.webp",
     "intro": {
       "title": "The Last Opeth Album Before Martin Lopez's Departure",
-      "content": "Released on August 30, 2005, \"Ghost Reveries\" was Opeth's first album for Roadrunner Records and, though no one knew it at the time, Martin Lopez's farewell studio performance with the band. It stands as a landmark recording in its own right: a return to the full dynamic range that had defined Blackwater Park, combined with the expanded harmonic ambition of a band signed to a major international label for the first time.\n\nRecorded at Fascination Street Studios in Örebro, Sweden, and mixed by Jens Bogren, Ghost Reveries pushed Opeth's progressive death metal further than ever — Mellotron textures, extended song forms, and folk-tinged acoustic interludes sat alongside some of the most relentless death metal riffing the band had committed to tape. For Lopez, the album demanded the full range of his vocabulary: the jazz-informed sensitivity of Damnation, the brutal physicality of Deliverance, and a newfound rhythmic complexity that matched the band's increasingly progressive songwriting.\n\n\"Ghost of Perdition,\" the album's nine-minute opener, remains one of Opeth's most celebrated tracks and a showcase for everything Lopez could do — blast beats giving way to syncopated grooves, then dissolving into a hushed acoustic midsection before crashing back into the album's heaviest riffing. \"The Baying of the Hounds\" and \"The Grand Conjuration\" demonstrate the same range across the record, while \"Reverie/Harlequin Forest\" (added as a bonus track on later pressings) closes the era with one final burst of the dynamic interplay Lopez had spent eight years perfecting with this band.\n\nBy the time Ghost Reveries toured, Lopez's long-standing struggles with panic disorder had become unmanageable on the road. He left Opeth in 2006, and Martin Axenrot took over the drum stool for Watershed (2008) — closing the most celebrated chapter of Opeth's drumming history. This article breaks down every piece of gear Martin Lopez used on Ghost Reveries, traces how his setup evolved from the Deliverance era, and examines why this record stands as the definitive sign-off to his Opeth tenure.",
+      "content": "Released on August 30, 2005, \"Ghost Reveries\" was Opeth's first album for Roadrunner Records and, though no one knew it at the time, Martin Lopez's farewell studio performance with the band. It stands as a landmark recording in its own right: a return to the full dynamic range that had defined Blackwater Park, combined with the expanded harmonic ambition of a band signed to a major international label for the first time.\n\nRecorded at Fascination Street Studios in Örebro, Sweden, and mixed by Jens Bogren, Ghost Reveries pushed Opeth's progressive death metal further than ever — Mellotron textures, extended song forms, and folk-tinged acoustic interludes sat alongside some of the most relentless death metal riffing the band had committed to tape. For Lopez, the album demanded the full range of his vocabulary: the jazz-informed sensitivity of Damnation, the brutal physicality of Deliverance, and a newfound rhythmic complexity that matched the band's increasingly progressive songwriting.\n\n\"Ghost of Perdition,\" the album's nine-minute opener, remains one of Opeth's most celebrated tracks and a showcase for everything Lopez could do — blast beats giving way to syncopated grooves, then dissolving into a hushed acoustic midsection before crashing back into the album's heaviest riffing. \"The Baying of the Hounds\" and \"The Grand Conjuration\" demonstrate the same range across the record, while \"Reverie/Harlequin Forest\" (added as a bonus track on later pressings) closes the era with one final burst of the dynamic interplay Lopez had spent eight years perfecting with this band.\n\nBy the time Ghost Reveries toured, Lopez's long-standing struggles with panic disorder had become unmanageable on the road. He left Opeth in 2006, and Martin Axenrot took over the drum stool for Watershed (2008) — closing the most celebrated chapter of Opeth's drumming history. This article breaks down every piece of gear Martin Lopez used on Ghost Reveries, confirms his setup carried over from the Deliverance era, and examines why this record stands as the definitive sign-off to his Opeth tenure.",
       "keyPoints": [
         "Recorded at Fascination Street Studios, Örebro, mixed by Jens Bogren",
         "Opeth's first album for Roadrunner Records — a bigger budget and broader reach",
         "Martin Lopez's final studio album with Opeth before his 2006 departure",
-        "Pearl Reference kit and Paiste Signature cymbals — expanded dynamic range vs. Deliverance",
+        "Same Sonor Designer Series kit and Sabian HH/AAX cymbals he had used since Blackwater Park",
         "Returns to Blackwater Park's full dynamic contrast after Deliverance's sustained extremity",
         "\"Ghost of Perdition\" widely regarded as a career-defining Lopez performance"
       ]
     },
     "drumKit": {
-      "title": "Martin's Pearl Reference Setup: Built for Range",
-      "brand": "Pearl",
-      "model": "Pearl Reference",
-      "finish": "Piano Black Lacquer",
+      "title": "Martin's Sonor Setup: Built for Range",
+      "brand": "Sonor",
+      "model": "Sonor Designer Series",
+      "finish": "Natural Maple",
       "config": {
         "bassdrums": [
           "22\" x 18\" Bass Drum"
@@ -2124,83 +2124,83 @@ export const articles = {
           "14\" x 14\" Floor Tom",
           "16\" x 16\" Floor Tom"
         ],
-        "shells": "Mahogany/birch hybrid shells, 6-ply construction"
+        "shells": "Maple shells with HLD (High Lustre Finish) lacquer"
       },
-      "description": "For Ghost Reveries, Martin Lopez moved to Pearl's flagship Reference series — a step up from the Masters Premium kit he had used on Deliverance. The Reference series' mahogany/birch hybrid shells split the difference between warmth and attack, giving Lopez a kit that could deliver Deliverance-style punch on the heaviest passages while still breathing on the album's acoustic interludes.\n\nThe bass drum returned to 22\" — back up from Deliverance's tighter 20\" — restoring the low-end body that had characterized the Blackwater Park sessions. This wasn't a retreat; it was a recognition that Ghost Reveries needed the full dynamic spectrum, from \"Ghost of Perdition\"'s blast-beat sections to its hushed, Mellotron-soaked midsection.\n\nThe tom configuration stayed consistent with the rest of the Lopez/Opeth catalog — 10\" and 12\" rack toms, 14\" and 16\" floor toms — preserving the melodic voicing he had relied on since Blackwater Park. What changed was the shell composition: the Reference series' hybrid construction gave the toms a slightly faster decay than the all-maple Sonor, useful for the album's more rhythmically intricate sections.\n\nPearl's Reference series was, at the time, among the most expensive production kits available, reflecting Opeth's bigger budget on their first Roadrunner release. For Lopez, it represented the most refined instrument of his Opeth career — a kit capable of the full range Ghost Reveries demanded.",
+      "description": "For Ghost Reveries, Martin Lopez stuck with the same Sonor Designer Series kit he had played since Blackwater Park — the maple shells' natural warmth and range gave him a kit that could deliver Deliverance-style punch on the heaviest passages while still breathing on the album's acoustic interludes without changing equipment.\n\nThe bass drum sat back at its familiar tuning — more open than Deliverance's tightened setup — restoring the low-end body that had characterized the Blackwater Park sessions. This wasn't new gear; it was a recognition that Ghost Reveries needed the full dynamic spectrum, from \"Ghost of Perdition\"'s blast-beat sections to its hushed, Mellotron-soaked midsection, and the same Sonor kit could deliver both when tuned accordingly.\n\nThe tom configuration stayed consistent with the rest of the Lopez/Opeth catalog — 10\" and 12\" rack toms, 14\" and 16\" floor toms — preserving the melodic voicing he had relied on since Blackwater Park. The all-maple Sonor shells retained the same fast decay and articulation that had served him on the album's more rhythmically intricate sections throughout his tenure.\n\nBy Ghost Reveries, this Sonor Designer Series kit had carried Lopez through his three most acclaimed Opeth albums — Blackwater Park, Deliverance, and now Ghost Reveries. For Lopez, it represented the most trusted instrument of his Opeth career, dialed in to deliver the full range the album demanded.",
       "notes": [
-        "Pearl Reference chosen for hybrid attack and warmth across dynamic extremes",
-        "22\" kick restored for full low-end presence after Deliverance's tighter 20\"",
-        "Hybrid mahogany/birch shells split the difference between Sonor warmth and Pearl punch",
+        "Same Sonor Designer Series kit used since Blackwater Park — no change for Ghost Reveries",
+        "Bass drum returned to a more open tuning for full low-end presence after Deliverance's tightened setup",
+        "All-maple shells retained across three albums — warmth and articulation in one kit",
         "Same tom voicing as Blackwater Park and Deliverance for catalog continuity",
-        "Most expensive kit of Lopez's Opeth tenure, reflecting the Roadrunner-era budget"
+        "The kit that carried Lopez through his three most acclaimed Opeth albums"
       ],
-      "estimatedValue": "$4,500-6,500 (2005) / $5,000-7,500 (comparable setup today)"
+      "estimatedValue": "$3,500-5,000 (2005) / $4,000-6,000 (comparable setup today)"
     },
     "snare": {
       "title": "The Snare for Maximum Dynamic Range",
-      "brand": "Pearl",
-      "model": "Pearl Reference Maple/Birch Snare",
-      "size": "14\" x 6.5\"",
-      "shell": "Maple/Birch hybrid",
-      "description": "Ghost Reveries required a snare that could whisper through the acoustic midsection of \"Ghost of Perdition\" and still crack through the wall of riffing in \"The Baying of the Hounds.\" Lopez's Pearl Reference snare, built from a maple/birch hybrid shell, delivered exactly that range — more sensitive than the Deliverance-era Free-Floating snare, but with enough authority to avoid getting buried under Ghost Reveries' denser guitar production.\n\nAt 14\" x 6.5\", the depth matched the Deliverance snare, but the hybrid shell construction shifted the tone toward a rounder, less aggressive crack — better suited to an album that moves between Mellotron-laced ballad passages and blast-beat death metal within the same track. Jens Bogren's mix captured the snare with notable clarity, allowing both the ghost notes in the album's quieter sections and the full-force hits in its heaviest moments to register naturally.\n\nLopez tuned the snare toward the middle of his range — neither as bright as the Deliverance setup nor as dark as the Blackwater Park snare — a deliberate middle path that mirrored the album's own balancing act between two eras of his playing.",
+      "brand": "Sonor",
+      "model": "Sonor Designer Maple Snare",
+      "size": "14\" x 5.5\"",
+      "shell": "Maple",
+      "description": "Ghost Reveries required a snare that could whisper through the acoustic midsection of \"Ghost of Perdition\" and still crack through the wall of riffing in \"The Baying of the Hounds.\" Lopez used the same Sonor Designer maple snare he had played since Blackwater Park, tuned toward the middle of his range — it delivered exactly that range, sensitive enough for the album's quieter moments yet with enough authority to avoid getting buried under Ghost Reveries' denser guitar production.\n\nAt 14\" x 5.5\", the depth matched the Blackwater Park configuration, and the all-maple shell construction gave a rounder, less aggressive crack than the tighter, higher-tuned Deliverance setup — better suited to an album that moves between Mellotron-laced ballad passages and blast-beat death metal within the same track. Jens Bogren's mix captured the snare with notable clarity, allowing both the ghost notes in the album's quieter sections and the full-force hits in its heaviest moments to register naturally.\n\nLopez tuned the snare toward the middle of his range — neither as tight as the Deliverance setup nor as loose as some of his gentlest Damnation passages — a deliberate middle path that mirrored the album's own balancing act between two eras of his playing.",
       "tuningSetting": "Medium, balanced for both ghost notes and full-force hits",
       "heads": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)",
-      "estimatedValue": "$500-700"
+      "estimatedValue": "$400-600"
     },
     "cymbals": {
-      "title": "The Paiste Signature Arsenal",
-      "brand": "Paiste",
-      "series": "Paiste Signature Series",
+      "title": "The Sabian Arsenal, Full Circle",
+      "brand": "Sabian",
+      "series": "Sabian HH (Hand Hammered) & AAX Series",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Paiste Signature 14\" Dark Crisp Hi-Hats",
+          "model": "Sabian HH 14\" Regular Hi-Hats",
           "position": "Left side",
-          "notes": "Darker, more complex hi-hat voice than the Deliverance-era 2002s"
+          "notes": "Same dark, complex hi-hat voice Lopez used since Blackwater Park"
         },
         {
           "type": "Crash",
-          "model": "Paiste Signature 16\" Full Crash",
+          "model": "Sabian AAX 16\" Stage Crash",
           "position": "Left of hi-hats",
           "notes": "Warmer crash for the album's acoustic and progressive passages"
         },
         {
           "type": "Crash",
-          "model": "Paiste Signature 18\" Full Crash",
+          "model": "Sabian HH 18\" Medium Crash",
           "position": "Right of rack toms",
           "notes": "Larger crash with fuller decay for structural accents"
         },
         {
           "type": "Ride",
-          "model": "Paiste Signature 20\" Full Ride",
+          "model": "Sabian HH 20\" Medium Ride",
           "position": "Far right",
           "notes": "Complex wash and clear bell for both heavy and melodic sections"
         },
         {
           "type": "China",
-          "model": "Paiste Signature 18\" China",
+          "model": "Sabian AAX 18\" Chinese",
           "position": "Effect position",
           "notes": "Trashy accent cymbal for the album's death metal transitions"
         }
       ],
-      "description": "Lopez moved from the bright, cutting Paiste 2002 series he used on Deliverance to the more complex, musical Paiste Signature line for Ghost Reveries — a shift that mirrored the album's return to Blackwater Park's dynamic range. The Signature series offered more overtone complexity and a darker fundamental than the 2002s, qualities that suited Ghost Reveries' frequent moves into acoustic and Mellotron-laden territory.\n\nThe 14\" Dark Crisp Hi-Hats gave Lopez a voice that could sit quietly under the album's clean passages without disappearing, then open up with enough bite to drive the blast-beat sections of \"Ghost of Perdition\" and \"The Grand Conjuration.\" This dual capability mattered on Ghost Reveries more than on any previous Opeth record — the songs shift between extremes more frequently and more abruptly than Deliverance ever did.\n\nThe 16\" and 18\" crashes carried fuller decay than the quicker-speaking 2002 crashes, giving Lopez's accents more sustain during the album's progressive sections — useful for marking the long-form structural transitions that define tracks like \"Hours of Wealth\" and \"Isolation Years.\" The 20\" Full Ride balanced wash and bell clarity, letting Lopez move between driving the heavy riffs and coloring the quieter interludes without swapping cymbals.\n\nThe China cymbal remained a precision tool rather than a constant presence — deployed for the album's sharpest death metal transitions, consistent with Lopez's restrained approach to effect cymbals throughout his Opeth career.",
-      "estimatedValue": "$1,800-2,400 total"
+      "description": "For Ghost Reveries, Lopez returned to the same Sabian HH (Hand Hammered) and AAX cymbals he had used on Blackwater Park, easing off the tightened, harder-struck approach of Deliverance — a shift in playing rather than equipment that mirrored the album's return to Blackwater Park's dynamic range. The HH cymbals' overtone complexity and dark fundamental suited Ghost Reveries' frequent moves into acoustic and Mellotron-laden territory.\n\nThe 14\" HH Regular Hi-Hats gave Lopez a voice that could sit quietly under the album's clean passages without disappearing, then open up with enough bite to drive the blast-beat sections of \"Ghost of Perdition\" and \"The Grand Conjuration.\" This dual capability mattered on Ghost Reveries more than on any previous Opeth record — the songs shift between extremes more frequently and more abruptly than Deliverance ever did.\n\nThe 16\" AAX Stage Crash and 18\" HH Medium Crash carried fuller decay when played with a lighter touch than on Deliverance, giving Lopez's accents more sustain during the album's progressive sections — useful for marking the long-form structural transitions that define tracks like \"Hours of Wealth\" and \"Isolation Years.\" The 20\" HH Medium Ride balanced wash and bell clarity, letting Lopez move between driving the heavy riffs and coloring the quieter interludes without swapping cymbals.\n\nThe AAX China cymbal remained a precision tool rather than a constant presence — deployed for the album's sharpest death metal transitions, consistent with Lopez's restrained approach to effect cymbals throughout his Opeth career.",
+      "estimatedValue": "$1,800-2,500 total"
     },
     "hardware": {
       "title": "Pedals and Hardware",
       "items": [
         {
           "type": "Bass Drum Pedal",
-          "brand": "Pearl",
-          "model": "Pearl Eliminator Double Pedal",
-          "notes": "Lighter, faster action than the DW 5000 used on Blackwater Park and Deliverance",
-          "description": "Ghost Reveries marked Lopez's switch to Pearl's Eliminator double pedal, matching his move to the Pearl Reference kit. The Eliminator's lighter cam action and quicker rebound suited the album's mix of sustained blast-beat passages and the more syncopated, jazz-informed double-bass patterns that run through tracks like \"The Baying of the Hounds.\""
+          "brand": "DW",
+          "model": "DW 5000 Double Pedal",
+          "notes": "The same double pedal Lopez used on Blackwater Park and Deliverance",
+          "description": "Ghost Reveries continued Lopez's use of the DW 5000 double pedal that had carried him through Blackwater Park and Deliverance. Its chain-drive consistency suited the album's mix of sustained blast-beat passages and the more syncopated, jazz-informed double-bass patterns that run through tracks like \"The Baying of the Hounds.\""
         },
         {
           "type": "Hi-Hat Stand",
-          "brand": "Pearl",
-          "model": "Pearl Eliminator Hi-Hat Stand",
-          "notes": "Matched action to the Eliminator pedal setup"
+          "brand": "DW",
+          "model": "DW 5500 Hi-Hat Stand",
+          "notes": "Same stand used on Deliverance"
         },
         {
           "type": "Throne",
@@ -2216,8 +2216,8 @@ export const articles = {
         },
         {
           "type": "Beaters",
-          "brand": "Pearl",
-          "model": "Pearl Felt Beaters",
+          "brand": "DW",
+          "model": "DW Standard Felt Beaters",
           "notes": "Standard felt beaters, less aggressive than the hard felt used on Deliverance"
         }
       ],
@@ -2247,20 +2247,20 @@ export const articles = {
           "Nine-minute album opener and one of Opeth's most celebrated tracks",
           "Full dynamic spectrum from blast beats to hushed acoustic midsection",
           "Widely cited as a career-defining Lopez performance",
-          "Demonstrates the Pearl Reference kit's full dynamic range"
+          "Demonstrates the Sonor kit's full dynamic range"
         ],
-        "gearNotes": "The 22\" kick's restored low-end is most audible here, anchoring the heaviest riffs, while the Paiste Signature hi-hats articulate cleanly through the acoustic midsection."
+        "gearNotes": "The kick's restored, more open tuning is most audible here, anchoring the heaviest riffs, while the Sabian HH hi-hats articulate cleanly through the acoustic midsection."
       },
       {
         "track": "The Baying of the Hounds",
         "bpm": "120-150",
         "signature": "4/4 with syncopated sections",
         "highlights": [
-          "Syncopated double-bass patterns showcase the Eliminator pedal's quick rebound",
+          "Syncopated double-bass patterns showcase the DW 5000's quick rebound",
           "Jazz-informed groove beneath death metal aggression",
           "Lopez's most rhythmically complex performance on the album"
         ],
-        "gearNotes": "The Pearl Eliminator's lighter action lets Lopez articulate the syncopated kick patterns with more precision than the heavier DW setup from Deliverance would have allowed."
+        "gearNotes": "The same DW 5000 double pedal Lopez used throughout his Opeth tenure lets him articulate the syncopated kick patterns with the precision this track demands."
       },
       {
         "track": "Reverie/Harlequin Forest",
@@ -2271,7 +2271,7 @@ export const articles = {
           "Full range of dynamics packed into a single, tightly-structured track",
           "A fitting final statement before his 2006 departure"
         ],
-        "gearNotes": "The Paiste Signature crashes' fuller decay marks every structural shift, giving the track's frequent transitions a sense of weight and finality."
+        "gearNotes": "The Sabian crashes' fuller decay, played with a lighter touch than on Deliverance, marks every structural shift, giving the track's frequent transitions a sense of weight and finality."
       },
       {
         "track": "The Grand Conjuration",
@@ -2282,21 +2282,21 @@ export const articles = {
           "Tom fills create melodic phrases consistent with Lopez's Blackwater Park vocabulary",
           "Demonstrates the album's accessibility without sacrificing complexity"
         ],
-        "gearNotes": "The mahogany/birch hybrid toms project clearly through the dense guitar mix, a direct benefit of the move to the Pearl Reference shells."
+        "gearNotes": "The all-maple Sonor toms project clearly through the dense guitar mix, the same voicing that's carried Lopez's fills since Blackwater Park."
       }
     ],
     "evolution": {
       "title": "From Deliverance to Ghost Reveries: The Final Step",
-      "content": "Ghost Reveries represents the closing of an arc that began with Blackwater Park's dynamic breakthrough and pushed through Deliverance's extremity before settling into a final, more complete synthesis. Where Deliverance had been a deliberate exaggeration — the heaviest possible expression of Lopez's playing — Ghost Reveries pulled back toward balance, incorporating everything he had learned across both extremes.\n\n**The Roadrunner Era Begins:**\nSigning to Roadrunner Records gave Opeth a larger budget and international reach, reflected in the move to Fascination Street Studios and the more polished Jens Bogren mix. For Lopez, this meant recording with the best gear of his career — the Pearl Reference kit and Paiste Signature cymbals represented a step up from every previous Opeth setup.\n\n**Returning to Range:**\nAfter Deliverance's compressed intensity, Ghost Reveries deliberately restored the full dynamic range that had made Blackwater Park a landmark. The 22\" kick returned. The cymbal voice grew darker and more complex again. This wasn't a step backward — it was Lopez and the band recognizing that the next evolution of Opeth's sound needed the full toolkit, not just the loudest setting.\n\n**An Unplanned Farewell:**\nNo one involved in making Ghost Reveries knew it would be Lopez's last studio album with Opeth. His departure in 2006, driven by worsening panic disorder, came after the album's touring cycle had already begun. In retrospect, Ghost Reveries reads as a complete summation of everything Lopez had built across eight years — which makes its status as a farewell album all the more significant.\n\n**What Came After:**\nMartin Axenrot took over the drum chair for Watershed (2008), beginning a new chapter of Opeth's drumming history. Lopez himself returned to recording in 2010 with Soen, applying the same dynamic, jazz-informed sensibility to a new band.",
+      "content": "Ghost Reveries represents the closing of an arc that began with Blackwater Park's dynamic breakthrough and pushed through Deliverance's extremity before settling into a final, more complete synthesis. Where Deliverance had been a deliberate exaggeration — the heaviest possible expression of Lopez's playing — Ghost Reveries pulled back toward balance, incorporating everything he had learned across both extremes.\n\n**The Roadrunner Era Begins:**\nSigning to Roadrunner Records gave Opeth a larger budget and international reach, reflected in the move to Fascination Street Studios and the more polished Jens Bogren mix. For Lopez, the trusted Sonor Designer Series kit and Sabian HH/AAX cymbals he'd played since Blackwater Park needed no upgrade — the same gear he knew intimately.\n\n**Returning to Range:**\nAfter Deliverance's compressed intensity, Ghost Reveries deliberately restored the full dynamic range that had made Blackwater Park a landmark. The kick's tuning opened back up. The cymbal voice grew darker and more complex again. This wasn't a step backward — it was Lopez and the band recognizing that the next evolution of Opeth's sound needed the full toolkit, not just the loudest setting.\n\n**An Unplanned Farewell:**\nNo one involved in making Ghost Reveries knew it would be Lopez's last studio album with Opeth. His departure in 2006, driven by worsening panic disorder, came after the album's touring cycle had already begun. In retrospect, Ghost Reveries reads as a complete summation of everything Lopez had built across eight years — which makes its status as a farewell album all the more significant.\n\n**What Came After:**\nMartin Axenrot took over the drum chair for Watershed (2008), beginning a new chapter of Opeth's drumming history. Lopez himself returned to recording in 2010 with Soen, applying the same dynamic, jazz-informed sensibility to a new band.",
       "thenVsNow": [
         {
           "category": "Kit",
-          "then": "Pearl Reference with 22\" kick — full dynamic range restored (2005)",
+          "then": "Same Sonor Designer Series kit as Blackwater Park — full dynamic range restored (2005)",
           "now": "Reference point for balancing heaviness and dynamics in modern prog-death"
         },
         {
           "category": "Cymbals",
-          "then": "Paiste Signature — dark, complex, musical",
+          "then": "Sabian HH/AAX — dark, complex, musical",
           "now": "Influential choice for drummers seeking warmth without sacrificing cut"
         },
         {
@@ -2313,7 +2313,7 @@ export const articles = {
     },
     "playingStyle": {
       "title": "A Complete Synthesis: Lopez's Final Statement",
-      "content": "Ghost Reveries finds Martin Lopez drawing on every register of his playing developed across the preceding Opeth albums — the jazz-informed dynamics of Blackwater Park, the sustained physicality of Deliverance, and the acoustic sensitivity of Damnation — and combining them within single tracks rather than across separate albums.\n\n**Structural Continuity:**\n\"Ghost of Perdition\" alone moves through blast beats, syncopated grooves, and a hushed acoustic midsection without ever feeling disjointed. Lopez's transitions between these modes are the clearest evidence of how completely he had internalized the \"drumming as architecture\" philosophy by 2005.\n\n**Rhythmic Complexity:**\n\"The Baying of the Hounds\" showcases syncopated double-bass work more intricate than anything on Deliverance — the lighter Pearl Eliminator pedal gave him the precision to execute these patterns cleanly at speed.\n\n**Restraint as Strength:**\nEven on the album's heaviest tracks, Lopez never abandons the sense of space that defined his earlier work. His fills continue to function as structural markers rather than displays of technique, a consistency that runs through his entire Opeth catalog.\n\n**A Career Capstone:**\nListening to Ghost Reveries alongside Blackwater Park and Deliverance reveals a drummer who had fully matured — not abandoning any one approach in favor of another, but integrating all of them into a single, complete vocabulary.",
+      "content": "Ghost Reveries finds Martin Lopez drawing on every register of his playing developed across the preceding Opeth albums — the jazz-informed dynamics of Blackwater Park, the sustained physicality of Deliverance, and the acoustic sensitivity of Damnation — and combining them within single tracks rather than across separate albums.\n\n**Structural Continuity:**\n\"Ghost of Perdition\" alone moves through blast beats, syncopated grooves, and a hushed acoustic midsection without ever feeling disjointed. Lopez's transitions between these modes are the clearest evidence of how completely he had internalized the \"drumming as architecture\" philosophy by 2005.\n\n**Rhythmic Complexity:**\n\"The Baying of the Hounds\" showcases syncopated double-bass work more intricate than anything on Deliverance — the same DW 5000 double pedal he'd relied on since Blackwater Park gave him the precision to execute these patterns cleanly at speed.\n\n**Restraint as Strength:**\nEven on the album's heaviest tracks, Lopez never abandons the sense of space that defined his earlier work. His fills continue to function as structural markers rather than displays of technique, a consistency that runs through his entire Opeth catalog.\n\n**A Career Capstone:**\nListening to Ghost Reveries alongside Blackwater Park and Deliverance reveals a drummer who had fully matured — not abandoning any one approach in favor of another, but integrating all of them into a single, complete vocabulary.",
       "signatureSongs": [
         {
           "song": "Ghost of Perdition",
@@ -2360,11 +2360,11 @@ export const articles = {
           "Deliverance",
           "Damnation"
         ],
-        "description": "Pearl Masters Premium with 20\" kick; Paiste 2002 for brighter attack. Heavier beaters for aggression.",
+        "description": "Same Sonor Designer Series kit as Blackwater Park; Sabian HH/AAX cymbals continued. Heavier beaters for aggression.",
         "gear": {
-          "drums": "Pearl Masters Premium (20\" kick)",
-          "snare": "Pearl Free-Floating 14\" x 6.5\"",
-          "cymbals": "Paiste 2002 14\" Hi-Hats, 16\"/18\" Crashes, 20\" Ride, 18\" China",
+          "drums": "Sonor Designer Series (22\" kick)",
+          "snare": "Sonor Designer 14\" x 5.5\"",
+          "cymbals": "Sabian HH Hi-Hats, HH/AAX Crashes, HH Ride, AAX China",
           "hardware": "DW 5000 Double Pedal, DW Hard Felt Beaters, Vic Firth 5B"
         },
         "notes": "Tighter, more aggressive configuration matching Deliverance's brutal production intent."
@@ -2375,12 +2375,12 @@ export const articles = {
         "albums": [
           "Ghost Reveries"
         ],
-        "description": "Pearl Reference with 22\" kick restored; Paiste Signature for darker, more complex tone. Final Opeth studio album.",
+        "description": "Same Sonor Designer Series kit with kick tuning opened back up; Sabian HH/AAX for darker, more complex tone. Final Opeth studio album.",
         "gear": {
-          "drums": "Pearl Reference (22\" kick)",
-          "snare": "Pearl Reference Maple/Birch 14\" x 6.5\"",
-          "cymbals": "Paiste Signature 14\" Hi-Hats, 16\"/18\" Crashes, 20\" Ride, 18\" China",
-          "hardware": "Pearl Eliminator Double Pedal, Vic Firth 5A"
+          "drums": "Sonor Designer Series (22\" kick)",
+          "snare": "Sonor Designer 14\" x 5.5\"",
+          "cymbals": "Sabian HH Hi-Hats, HH/AAX Crashes, HH Ride, AAX China",
+          "hardware": "DW 5000 Double Pedal, Vic Firth 5A"
         },
         "notes": "Full dynamic range restored after Deliverance's extremity — Lopez's most complete Opeth performance before his 2006 departure."
       }
@@ -2402,22 +2402,22 @@ export const articles = {
       "title": "Martin's Ghost Reveries-Era Gear You Can Buy Today",
       "items": [
         {
-          "item": "Pearl Reference / Reference One",
+          "item": "Sonor Designer Series (vintage) / Sonor SQ2 (modern equivalent)",
           "available": true,
-          "priceRange": "$4,500-7,500",
-          "notes": "Pearl's flagship line continues under the Reference One name"
+          "priceRange": "$3,500-6,000",
+          "notes": "Designer Series shells are sought after on the vintage market; SQ2 is Sonor's current flagship equivalent"
         },
         {
-          "item": "Paiste Signature Series Cymbals",
+          "item": "Sabian HH / AAX Series Cymbals",
           "available": true,
-          "priceRange": "$280-480 per cymbal",
-          "notes": "Still in production — Paiste's flagship musical metal cymbal line"
+          "priceRange": "$200-400 per cymbal",
+          "notes": "Sabian HH and AAX remain in continuous production — the same complement Lopez used from Blackwater Park through Ghost Reveries"
         },
         {
-          "item": "Pearl Eliminator Double Pedal",
+          "item": "DW 5000 Double Pedal",
           "available": true,
-          "priceRange": "$300-450",
-          "notes": "Remains a popular mid-to-pro tier double pedal choice"
+          "priceRange": "$400-600",
+          "notes": "Industry standard double pedal, largely unchanged from the era Lopez used it"
         },
         {
           "item": "Remo Emperor Clear Heads",
@@ -2436,7 +2436,7 @@ export const articles = {
     "faq": [
       {
         "question": "What drums did Martin Lopez use on Ghost Reveries?",
-        "answer": "On Opeth's Ghost Reveries (2005), Martin Lopez played a Pearl Reference kit with a 22\" bass drum, 10\" and 12\" rack toms, and 14\" and 16\" floor toms, paired with a Pearl Reference maple/birch snare. This was a step up from the Pearl Masters Premium kit he used on [Deliverance](/articles/deliverance-drum-setup), and the restored 22\" kick brought back the full low-end presence of his earlier [Blackwater Park](/articles/blackwater-park-drum-setup) setup."
+        "answer": "On Opeth's Ghost Reveries (2005), Martin Lopez played the same Sonor Designer Series kit he used since Blackwater Park — a 22\" bass drum, 10\" and 12\" rack toms, and 14\" and 16\" floor toms, paired with a Sonor Designer maple snare. This was the same kit he used on [Deliverance](/articles/deliverance-drum-setup), with the kick tuning opened back up to bring back the full low-end presence of his earlier [Blackwater Park](/articles/blackwater-park-drum-setup) setup."
       },
       {
         "question": "Why did Martin Lopez leave Opeth after Ghost Reveries?",
@@ -2444,11 +2444,11 @@ export const articles = {
       },
       {
         "question": "How does the drumming on Ghost Reveries differ from Blackwater Park?",
-        "answer": "Ghost Reveries returns to the full dynamic range that defined [Blackwater Park](/articles/blackwater-park-drum-setup) after the more compressed extremity of [Deliverance](/articles/deliverance-drum-setup), but it integrates that range within single tracks rather than across an album's arc. Where Blackwater Park alternated between brutal and acoustic sections song by song, tracks like \"Ghost of Perdition\" move through blast beats, syncopated grooves, and hushed acoustic passages within one nine-minute piece. The gear reflects this synthesis too: a Pearl Reference kit and Paiste Signature cymbals that combine the punch Lopez developed on Deliverance with the tonal complexity of his earlier Sabian-and-Sonor Blackwater Park setup."
+        "answer": "Ghost Reveries returns to the full dynamic range that defined [Blackwater Park](/articles/blackwater-park-drum-setup) after the more compressed extremity of [Deliverance](/articles/deliverance-drum-setup), but it integrates that range within single tracks rather than across an album's arc. Where Blackwater Park alternated between brutal and acoustic sections song by song, tracks like \"Ghost of Perdition\" move through blast beats, syncopated grooves, and hushed acoustic passages within one nine-minute piece. The gear was unchanged: the same Sonor Designer Series kit and Sabian HH/AAX cymbals Lopez had played since Blackwater Park, combining the punch he developed on Deliverance with the tonal complexity of his earlier setup."
       },
       {
         "question": "What cymbals did Martin Lopez use on Ghost Reveries?",
-        "answer": "Martin Lopez used Paiste Signature series cymbals on Ghost Reveries, including 14\" Dark Crisp Hi-Hats, 16\" and 18\" Full Crashes, a 20\" Full Ride, and an 18\" China. This was a shift from the brighter Paiste 2002 series he used on Deliverance toward a darker, more harmonically complex voice suited to the album's frequent moves between death metal aggression and acoustic, Mellotron-laden passages."
+        "answer": "Martin Lopez used Sabian HH and AAX cymbals on Ghost Reveries — the same complement he'd used since Blackwater Park, including HH 14\" Regular Hi-Hats, an AAX 16\" Stage Crash, an HH 18\" Medium Crash, an HH 20\" Medium Ride, and an AAX 18\" Chinese. He eased off the tighter, harder-struck approach he'd used on Deliverance, letting the cymbals' dark, harmonically complex voice suit the album's frequent moves between death metal aggression and acoustic, Mellotron-laden passages."
       }
     ],
     "relatedDrummers": [
@@ -2474,7 +2474,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "A Complete Farewell",
-      "content": "Ghost Reveries stands as the synthesis point of Martin Lopez's Opeth career — the album where the dynamic breakthrough of Blackwater Park and the extreme physicality of Deliverance finally combined within the same songs rather than across separate records.\n\n**Why It Matters:**\nNo one involved in recording Ghost Reveries knew it would be Lopez's last studio album with Opeth, which makes its completeness all the more remarkable. Rather than a transitional or tentative record, it reads as a fully realized statement — every lesson from eight years of playing with this band distilled into one performance.\n\n**The Gear Perspective:**\nThe Pearl Reference kit and Paiste Signature cymbals represented the best equipment of Lopez's Opeth tenure, reflecting the band's bigger budget on their Roadrunner debut. More importantly, the gear served the music's expanded ambition — a kit and cymbal set capable of the full range \"Ghost of Perdition\" and the rest of the album demanded.\n\n**Legacy:**\nMartin Lopez's departure in 2006 closed the most celebrated chapter of Opeth's drumming history, but Ghost Reveries ensured that chapter ended on its highest note. For drummers studying the Lopez/Opeth catalog, this album is the place where every earlier lesson — dynamics, intensity, architecture — comes together at once.\n\n🥁 *The album where everything Martin Lopez built with Opeth finally became one performance.* 🥁"
+      "content": "Ghost Reveries stands as the synthesis point of Martin Lopez's Opeth career — the album where the dynamic breakthrough of Blackwater Park and the extreme physicality of Deliverance finally combined within the same songs rather than across separate records.\n\n**Why It Matters:**\nNo one involved in recording Ghost Reveries knew it would be Lopez's last studio album with Opeth, which makes its completeness all the more remarkable. Rather than a transitional or tentative record, it reads as a fully realized statement — every lesson from eight years of playing with this band distilled into one performance.\n\n**The Gear Perspective:**\nThe same Sonor Designer Series kit and Sabian HH/AAX cymbals Lopez had trusted since Blackwater Park needed no upgrade for Opeth's Roadrunner debut. What mattered was how he played them — a kit and cymbal set capable of the full range \"Ghost of Perdition\" and the rest of the album demanded, dialed in by years of familiarity.\n\n**Legacy:**\nMartin Lopez's departure in 2006 closed the most celebrated chapter of Opeth's drumming history, but Ghost Reveries ensured that chapter ended on its highest note. For drummers studying the Lopez/Opeth catalog, this album is the place where every earlier lesson — dynamics, intensity, architecture — comes together at once.\n\n🥁 *The album where everything Martin Lopez built with Opeth finally became one performance.* 🥁"
     }
   },
   "martin-lopez-drum-setup": {
@@ -2781,13 +2781,13 @@ export const articles = {
       ]
     },
     "drumKit": {
-      "title": "Martin's Studio Setup: Pearl Masters Premium in Acoustic Context",
-      "brand": "Pearl",
-      "model": "Pearl Masters Premium",
+      "title": "Martin's Studio Setup: Sonor Designer Series in Acoustic Context",
+      "brand": "Sonor",
+      "model": "Sonor Designer Series",
       "finish": "Natural Maple",
       "config": {
         "bassdrums": [
-          "20\" x 18\" Bass Drum"
+          "22\" x 18\" Bass Drum"
         ],
         "toms": [
           "10\" x 8\" Rack Tom",
@@ -2797,25 +2797,25 @@ export const articles = {
           "14\" x 14\" Floor Tom",
           "16\" x 16\" Floor Tom"
         ],
-        "shells": "Maple shells, 6-ply construction"
+        "shells": "Maple shells with HLD (High Lustre Finish) lacquer"
       },
-      "description": "Martin Lopez recorded \"Damnation\" with the same Pearl Masters Premium kit he used for the simultaneously tracked \"Deliverance\" — the two albums sharing both the studio room and the drum setup, but deployed in radically different musical contexts. Where \"Deliverance\" asked the Pearl kit to deliver attack and power for death metal, \"Damnation\" asked it to be warm, sensitive, and restrained.\n\nThe 20\" x 18\" bass drum, which on \"Deliverance\" delivered tight, punchy attack for blast-beat passages, became a subtler instrument on \"Damnation.\" Lopez used it sparingly — a firm but controlled kick anchoring the groove rather than driving the tempo aggressively. Steven Wilson's production placed the kick drum further back in the mix than on \"Deliverance,\" letting it support the arrangements from beneath rather than sitting at the front of the sonic picture.\n\nThe 10\" and 12\" rack toms and 14\" and 16\" floor toms provided the fill vocabulary for \"Damnation's\" progressive rock arrangements. Lopez's tom playing on this album is melodic in a way that metal contexts rarely allow — fills function like melodic statements, leading the ear from section to section rather than announcing intensity. The Pearl shells' maple warmth suited this approach: the toms sing rather than crack.\n\nWhat distinguishes Lopez's use of this kit on \"Damnation\" from its parallel deployment on \"Deliverance\" is the tuning. For the acoustic album, the drums were tuned slightly looser, with more resonance and sustain — allowing the natural decay of each stroke to contribute to the texture of the recording. Steven Wilson was attentive to these nuances, and the \"Damnation\" drum sound reflects his ear for acoustic space.",
+      "description": "Martin Lopez recorded \"Damnation\" with the same Sonor Designer Series kit he used for the simultaneously tracked \"Deliverance\" — the two albums sharing both the studio room and the drum setup, but deployed in radically different musical contexts. Where \"Deliverance\" asked the Sonor kit to deliver attack and power for death metal, \"Damnation\" asked it to be warm, sensitive, and restrained.\n\nThe 22\" x 18\" bass drum, which on \"Deliverance\" delivered tight, punchy attack for blast-beat passages when tuned up, became a subtler instrument on \"Damnation.\" Lopez used it sparingly — a firm but controlled kick anchoring the groove rather than driving the tempo aggressively. Steven Wilson's production placed the kick drum further back in the mix than on \"Deliverance,\" letting it support the arrangements from beneath rather than sitting at the front of the sonic picture.\n\nThe 10\" and 12\" rack toms and 14\" and 16\" floor toms provided the fill vocabulary for \"Damnation's\" progressive rock arrangements. Lopez's tom playing on this album is melodic in a way that metal contexts rarely allow — fills function like melodic statements, leading the ear from section to section rather than announcing intensity. The Sonor shells' maple warmth suited this approach: the toms sing rather than crack.\n\nWhat distinguishes Lopez's use of this kit on \"Damnation\" from its parallel deployment on \"Deliverance\" is the tuning. For the acoustic album, the drums were tuned slightly looser, with more resonance and sustain — allowing the natural decay of each stroke to contribute to the texture of the recording. Steven Wilson was attentive to these nuances, and the \"Damnation\" drum sound reflects his ear for acoustic space.",
       "notes": [
-        "Same Pearl Masters Premium kit as Deliverance — tuned looser for resonance and warmth",
-        "20\" kick deployed with restraint, supporting arrangements rather than driving them",
+        "Same Sonor Designer Series kit as Deliverance — tuned looser for resonance and warmth",
+        "22\" kick deployed with restraint, supporting arrangements rather than driving them",
         "Maple shells tuned for resonance and sustain rather than attack",
         "Brush and light-stick technique used extensively throughout the album",
         "Steven Wilson's production allowed natural room ambience around the kit"
       ],
-      "estimatedValue": "$3,000-4,500 (2002-2003)"
+      "estimatedValue": "$3,500-5,000 (2002-2003)"
     },
     "snare": {
       "title": "The Whisper Snare",
-      "brand": "Pearl",
-      "model": "Pearl Free-Floating Maple Snare",
+      "brand": "Sonor",
+      "model": "Sonor Designer Maple Snare",
       "size": "14\" x 5.5\"",
       "shell": "Maple",
-      "description": "For \"Damnation,\" Martin Lopez used a lighter snare configuration than the deeper 6.5\" model employed on \"Deliverance.\" The 5.5\" depth Pearl Free-Floating Maple snare provided the sensitivity and responsiveness that brush technique and ghost note playing require — a shallower shell resonates more readily at lower dynamic levels, making soft strokes speak where a deeper shell would muffle them.\n\nThe Free-Floating design, which isolates the shell from lug tension, was particularly valuable on \"Damnation\" where every unwanted resonance or overtone would be audible in the album's spacious acoustic production. The isolation ensured that the snare's natural voice rang cleanly — open, warm, and musical.\n\nSteven Wilson's recording approach for the \"Damnation\" snare emphasized the drum's full tonal range. Tuned at medium tension, the snare responded equally well to ghost note brushwork (on tracks like \"Death Whispered a Lullaby\") and to the fuller, rim-shot-adjacent strokes that appear in \"Windowpane\" and \"In My Time of Need.\" The snare never overwhelms the arrangement — on \"Damnation,\" it functions as one melodic voice among many, not a percussive focal point.\n\nThe snare wires were tensioned for maximum sensitivity — a looser wire setting than Lopez typically used on heavier material, allowing response at the lightest brush passes.",
+      "description": "For \"Damnation,\" Martin Lopez used the same Sonor Designer Maple snare he played throughout his Opeth tenure, tuned looser than the tighter, higher setting he used on \"Deliverance.\" At 14\" x 5.5\", the shell provided the sensitivity and responsiveness that brush technique and ghost note playing require — a looser tuning resonates more readily at lower dynamic levels, making soft strokes speak where a tighter tuning would choke them.\n\nThe Designer Series shell construction, with its balanced maple resonance, was particularly valuable on \"Damnation\" where every unwanted resonance or overtone would be audible in the album's spacious acoustic production. The consistency of a snare Lopez already knew intimately ensured its natural voice rang cleanly — open, warm, and musical.\n\nSteven Wilson's recording approach for the \"Damnation\" snare emphasized the drum's full tonal range. Tuned at medium tension, the snare responded equally well to ghost note brushwork (on tracks like \"Death Whispered a Lullaby\") and to the fuller, rim-shot-adjacent strokes that appear in \"Windowpane\" and \"In My Time of Need.\" The snare never overwhelms the arrangement — on \"Damnation,\" it functions as one melodic voice among many, not a percussive focal point.\n\nThe snare wires were tensioned for maximum sensitivity — a looser wire setting than Lopez typically used on heavier material, allowing response at the lightest brush passes.",
       "tuningSetting": "Medium — sensitive response across brush and light stick dynamics",
       "heads": "Remo Ambassador Coated (batter), Remo Diplomat Snare Side (resonant)",
       "estimatedValue": "$400-600"
@@ -2856,7 +2856,7 @@ export const articles = {
           "notes": "Quick, musical accent for transitions"
         }
       ],
-      "description": "For \"Damnation,\" Martin Lopez returned to the Sabian HH (Hand Hammered) palette he had used on \"Blackwater Park\" — abandoning the brighter Paiste 2002s of \"Deliverance\" in favor of the darker, warmer character that Sabian's hand-hammered cymbals provide. The choice was not arbitrary: \"Damnation's\" acoustic, progressive rock context demanded cymbals that blend rather than cut.\n\nThe Sabian HH 14\" Regular Hi-Hats were the heart of Lopez's \"Damnation\" cymbal setup. Unlike the bright, cutting Paiste 2002 hi-hats of \"Deliverance,\" the HH series produces a darker, more complex tone — part crash, part sizzle, with a character that responds differently at every dynamic level. For the jazz-influenced patterns Lopez navigated on \"Damnation,\" this tonal complexity was essential. The hi-hats breathe, shaping phrases rather than simply timekeeping.\n\nThe ride cymbal — a Sabian HH 20\" Medium — served Lopez's most sustained playing on the album. On tracks like \"In My Time of Need\" and \"Windowpane,\" he rides the bow of this cymbal for extended passages, letting the complex, dark tone of the hand-hammered brass create texture beneath the melodic instruments. The cymbal's natural wash blends with the room ambience Steven Wilson captured, becoming part of the production's atmospheric quality.\n\nThe crash cymbals were deployed with unusual restraint for a drummer of Lopez's technical capability. \"Damnation\" rarely needs explosive crash accents — when Lopez does reach for a crash, it arrives as a musical statement rather than a reflexive accent. The HH 16\" crash's warm, dark tone suits this measured approach perfectly.",
+      "description": "For \"Damnation,\" Martin Lopez used the same Sabian HH (Hand Hammered) palette he had used on \"Blackwater Park\" and \"Deliverance\" — easing off the tighter, harder-struck approach of \"Deliverance\" in favor of the darker, warmer character Sabian's hand-hammered cymbals naturally provide when played softly. The choice was not arbitrary: \"Damnation's\" acoustic, progressive rock context demanded cymbals that blend rather than cut.\n\nThe Sabian HH 14\" Regular Hi-Hats were the heart of Lopez's \"Damnation\" cymbal setup. Played with a much lighter touch than on \"Deliverance,\" the HH series produces a darker, more complex tone — part crash, part sizzle, with a character that responds differently at every dynamic level. For the jazz-influenced patterns Lopez navigated on \"Damnation,\" this tonal complexity was essential. The hi-hats breathe, shaping phrases rather than simply timekeeping.\n\nThe ride cymbal — a Sabian HH 20\" Medium — served Lopez's most sustained playing on the album. On tracks like \"In My Time of Need\" and \"Windowpane,\" he rides the bow of this cymbal for extended passages, letting the complex, dark tone of the hand-hammered brass create texture beneath the melodic instruments. The cymbal's natural wash blends with the room ambience Steven Wilson captured, becoming part of the production's atmospheric quality.\n\nThe crash cymbals were deployed with unusual restraint for a drummer of Lopez's technical capability. \"Damnation\" rarely needs explosive crash accents — when Lopez does reach for a crash, it arrives as a musical statement rather than a reflexive accent. The HH 16\" crash's warm, dark tone suits this measured approach perfectly.",
       "estimatedValue": "$1,200-1,800 total (2002-2003)"
     },
     "hardware": {
@@ -2929,7 +2929,7 @@ export const articles = {
           "Hi-hat pattern demonstrates the jazz vocabulary he brings to the prog rock context",
           "Dynamic peak of the track arrives with Lopez leading the dynamic climb, not just following it"
         ],
-        "gearNotes": "Sabian HH 14\" hi-hats as groove foundation. Rim clicks on the Pearl Free-Floating snare for the most delicate passages."
+        "gearNotes": "Sabian HH 14\" hi-hats as groove foundation. Rim clicks on the Sonor Designer snare for the most delicate passages."
       },
       {
         "track": "Death Whispered a Lullaby",
@@ -2941,12 +2941,12 @@ export const articles = {
           "The dynamic restraint here is among the most impressive moments of his Opeth career",
           "Tom fills function as melodic phrases rather than rhythmic punctuation"
         ],
-        "gearNotes": "Wire brushes on coated Ambassador head for the signature brush groove. Pearl Free-Floating snare responds at whisper dynamics."
+        "gearNotes": "Wire brushes on coated Ambassador head for the signature brush groove. Sonor Designer snare responds at whisper dynamics."
       }
     ],
     "evolution": {
       "title": "From Deliverance to Damnation: The Same Drummer, Two Worlds",
-      "content": "\"Damnation\" and \"Deliverance\" were recorded simultaneously, yet they demonstrate the full range of Martin Lopez's musical identity with unusual clarity. Understanding this contrast is essential to understanding why Lopez was exceptional.\n\n**The Same Kit, Different Music:**\nLopez used the same Pearl Masters Premium kit for both albums — the same shells, same heads, similar cymbal positions. What changed was everything about how he played it: tuning, stick choice, dynamic approach, cymbal selection. \"Damnation\" proves that gear is a fraction of the drummer's sound. Technique, sensitivity, and musical intelligence are the other 90%.\n\n**Brush Technique as a Primary Voice:**\nMost metal drummers never develop genuine brush technique — it's simply not required. Lopez's ability to sustain sophisticated brush patterns across an entire album reveals the depth of his musical background. The jazz vocabulary he brought to Blackwater Park was already present in \"Damnation's\" most delicate passages, but here it operates without a metal framework to support it.\n\n**The Opeth Arc:**\n\"Damnation\" represents the most progressive pole of the Martin Lopez Opeth discography. The arc runs: Still Life (1999) → Blackwater Park (2001) → Damnation + Deliverance (2002/2003). By the time of \"Damnation,\" Lopez had the full vocabulary of a world-class musician — and the confidence to deploy it in any direction the music required.",
+      "content": "\"Damnation\" and \"Deliverance\" were recorded simultaneously, yet they demonstrate the full range of Martin Lopez's musical identity with unusual clarity. Understanding this contrast is essential to understanding why Lopez was exceptional.\n\n**The Same Kit, Different Music:**\nLopez used the same Sonor Designer Series kit for both albums — the same shells, same heads, similar cymbal positions. What changed was everything about how he played it: tuning, stick choice, dynamic approach, touch on the cymbals. \"Damnation\" proves that gear is a fraction of the drummer's sound. Technique, sensitivity, and musical intelligence are the other 90%.\n\n**Brush Technique as a Primary Voice:**\nMost metal drummers never develop genuine brush technique — it's simply not required. Lopez's ability to sustain sophisticated brush patterns across an entire album reveals the depth of his musical background. The jazz vocabulary he brought to Blackwater Park was already present in \"Damnation's\" most delicate passages, but here it operates without a metal framework to support it.\n\n**The Opeth Arc:**\n\"Damnation\" represents the most progressive pole of the Martin Lopez Opeth discography. The arc runs: Still Life (1999) → Blackwater Park (2001) → Damnation + Deliverance (2002/2003). By the time of \"Damnation,\" Lopez had the full vocabulary of a world-class musician — and the confidence to deploy it in any direction the music required.",
       "thenVsNow": [
         {
           "category": "Blackwater Park (2001)",
@@ -2979,15 +2979,15 @@ export const articles = {
     "faq": [
       {
         "question": "What drum kit did Martin Lopez use on Opeth's Damnation (2003)?",
-        "answer": "Martin Lopez recorded Opeth's Damnation (2003) using a Pearl Masters Premium kit — the same kit he used simultaneously for the companion album Deliverance. His configuration included a 20\" x 18\" bass drum, 10\" and 12\" rack toms, and 14\" and 16\" floor toms. For Damnation's acoustic, progressive rock context, the kit was tuned with more resonance and looser heads than the tight, attack-focused configuration used on Deliverance. Lopez used Sabian HH Hand Hammered cymbals throughout, returning to the darker, warmer palette from Blackwater Park rather than the brighter Paiste 2002s of Deliverance."
+        "answer": "Martin Lopez recorded Opeth's Damnation (2003) using a Sonor Designer Series kit — the same kit he used simultaneously for the companion album Deliverance, and the same kit he'd played since Blackwater Park. His configuration included a 22\" x 18\" bass drum, 10\" and 12\" rack toms, and 14\" and 16\" floor toms. For Damnation's acoustic, progressive rock context, the kit was tuned with more resonance and looser heads than the tight, attack-focused configuration used on Deliverance. Lopez used the same Sabian HH Hand Hammered cymbals throughout, played with a much lighter touch than on Deliverance to bring out their darker, warmer character."
       },
       {
         "question": "What cymbals did Martin Lopez use on Opeth's Damnation?",
-        "answer": "Martin Lopez used Sabian HH (Hand Hammered) cymbals on Opeth's Damnation — a return to the darker, more complex Sabian palette from Blackwater Park (2001), moving away from the brighter Paiste 2002s he used on Deliverance. His Damnation setup included Sabian HH 14\" Regular Hi-Hats, a 16\" HH Medium Crash, an 18\" AAX Stage Crash, a 20\" HH Medium Ride, and a 10\" HH Splash. The HH series' hand-hammered character produced a warm, complex tone that blended with Damnation's acoustic instruments rather than cutting above them."
+        "answer": "Martin Lopez used Sabian HH (Hand Hammered) cymbals on Opeth's Damnation — the same complement he used from Blackwater Park (2001) through Deliverance, played with a much lighter touch to bring out their darker, more complex character. His Damnation setup included Sabian HH 14\" Regular Hi-Hats, a 16\" HH Medium Crash, an 18\" AAX Stage Crash, a 20\" HH Medium Ride, and a 10\" HH Splash. The HH series' hand-hammered character produced a warm, complex tone that blended with Damnation's acoustic instruments rather than cutting above them."
       },
       {
         "question": "Did Martin Lopez use brushes on Opeth's Damnation?",
-        "answer": "Yes — Martin Lopez used drum brushes extensively on Damnation, marking the first time brush technique appeared as a primary voice in an Opeth recording. On tracks like \"Death Whispered a Lullaby\" and portions of \"Windowpane,\" Lopez sustained full groove patterns using only wire brushes on his Pearl Free-Floating snare head, creating textural percussion that suited the album's intimate acoustic production. This brush technique capability revealed the depth of Lopez's jazz training and distinguished him from metal drummers who had no need to develop softer playing vocabulary."
+        "answer": "Yes — Martin Lopez used drum brushes extensively on Damnation, marking the first time brush technique appeared as a primary voice in an Opeth recording. On tracks like \"Death Whispered a Lullaby\" and portions of \"Windowpane,\" Lopez sustained full groove patterns using only wire brushes on his Sonor Designer snare head, creating textural percussion that suited the album's intimate acoustic production. This brush technique capability revealed the depth of Lopez's jazz training and distinguished him from metal drummers who had no need to develop softer playing vocabulary."
       },
       {
         "question": "Who produced Opeth's Damnation and how does the drum sound differ from Deliverance?",

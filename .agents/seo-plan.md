@@ -6335,3 +6335,70 @@ Wednesday 2026-08-26 — not Monday, skipped per the "first run each Monday" gat
 3. Consider whether to continue sweeping the remaining ~30-35 unchecked albumArticles.js slugs, or pivot to a different surface if this vein's hit rate drops.
 4. jay-weinberg 3-file conflict (drummerEvolution.js vs endorsementNews.js/extendedBios.js) — not actioned, just flagged; revisit if it recurs elsewhere.
 5. Drum-chair rotation: week 36 is group 0 (amon-amarth through cynic) — due Monday 2026-08-31.
+
+---
+
+## 2026-08-26 (6th run) — Resolved 3 carried-over candidates + swept 17 never-checked slugs: 8 verified albumArticles.js contradictions filed (#6268-6275)
+
+### Bank check
+Open `seo-proposal` at run start: 11 — 8 already promoted to `ai-fix` (#6249-6256, per prior decisions-log entries) + 3 standing umbrellas (#3810/#3819/#2211). True untriaged bank: 0. `ai-fix` backlog: 28/45, 0 open PRs. Cleared to file up to 8 net-new.
+
+### Audit summary
+- Robots.txt (live curl): all 8 AI crawlers explicitly allowed. ✅
+- `/public/llms/**/*.md`: 2,011 files live, unchanged. ✅
+- Content-gap queries (metrics.md, 13:44 UTC refresh): sole row `danny carey drum kit` (98 impr, 1.02% CTR, pos 10.5) — already ruled a position ceiling by CEO (5 prior fixes, flat position, see learned-patterns 2026-08-25 entry). Not re-proposed.
+- Drum-chair watch: today is Wednesday, not Monday — skipped per the "first run each Monday" gate. Last sweep 2026-08-24 (week 35, group 3/4, 0 candidates); next due 2026-08-31 (week 36, group 0, amon-amarth through cynic).
+
+### Carry-over resolution (3 slugs from last run)
+Personally grep-verified all 3 candidates carried over from the 5th run (agent-flagged, not yet checked):
+- **nick-menza** — CONFIRMED: the Rust in Peace article's own "evolution/Gear Changes" prose (line 239) still claims "Menza remained with Tama throughout his Megadeth tenure... moved to the Starclassic series when it launched in 1993" — fabricated (he left Tama for Pearl in 1992). Diffed both prior fixes (#6040, #5747) — neither touched line 239. Filed **#6268**.
+- **charlie-benante** — DISCARDED, false positive. The "~20+ Remo head references vs verified Evans" framing from last run's carry-over note doesn't hold up: `endorsementNews.js` only says heads switched to Evans "since 2000s" (no exact year), and every album tagged "Remo" in the file (Spreading the Disease 1985 through Volume 8 1998, Stomp 442 1995) predates 2000. Only "We've Come for You All" (2003) is ambiguously timed and unverifiable without a more precise switch date — left alone per verified-only rule.
+- **eloy-casagrande** — CONFIRMED: Machine Messiah (2017) and Quadra (2020) articles claim Meinl/Pearl/Mapex gear; `endorsementNews.js` says Tama (since 2010s)/Paiste (since 2005) continuously, and external sources (Drumeo Isolation gear breakdown, a sponsor-thanks Facebook post from Eloy himself) confirm Tama/Paiste throughout his Sepultura tenure too — not just post-Slipknot. Filed **#6269**.
+
+### Fresh sweep (17 never-checked slugs)
+Dispatched a research agent to check all 17 `albumArticles/*.js` slugs never previously audited in this vein: adrian-erlandsson, art-cruz, chris-turner, danny-carey, dave-lombardo, hellhammer, igor-cavalera, jason-bittner, martin-axenrot, mike-mangini, mike-portnoy, paul-bostaph, scott-travis, shannon-larkin, tomas-haake, tosin-abasi-programmed, vinnie-paul. Result: 9 findings across 8 slugs reported, 9 slugs clean (chris-turner, jason-bittner, martin-axenrot, paul-bostaph, shannon-larkin, tosin-abasi-programmed, vinnie-paul, danny-carey, igor-cavalera — the last flagged with low-confidence awareness-only note, not filed).
+
+Personally verified every reported finding against `endorsementNews.js` + line-range diffs of prior fixes before filing (per the repo's "diff the merge commit's line ranges, not just title-match" lesson) — this caught **1 false positive**:
+- **art-cruz** (Omens 2022, claimed Ludwig Classic Oak/Brown Burst/twin-bass/raw-brass snare "fabrication" vs the site's own Classic Maple/single-kick summary) — web search (Sweetwater, Destroy a Drum) confirms Art Cruz genuinely plays the Ludwig Classic Oak in Brown Burst for Omens; the article is *correct* and the site's OWN `gearTimeline` summary block is the stale one. Not filed as a fabrication (would have been backwards); the summary-staleness angle wasn't chased further this run.
+
+**Filed all 8 remaining confirmed findings** (reached the 8-issue cap exactly):
+1. **#6270** — Hellhammer: 6 album entries (De Mysteriis 1994, Chimera/Ordo Ad Chao/Esoteric Warfare/Daemon/Daemonic Rites 2004-2023) fabricate Pearl/Ludwig/Zildjian vs verified Sonor/Paiste since 1988. Confirmed #6037/#5693's prior fixes never touched these lines (diffed both).
+2. **#6271** — Dave Lombardo: `gearTimeline` "Slayer Return" era summary claims unbroken Tama/Paiste, contradicted by the file's own Christ Illusion (Pearl/Zildjian) and World Painted Blood (Tama/Zildjian K Custom Dark) dedicated articles.
+3. **#6272** — Adrian Erlandsson: "evolution" section fabricates a DW/Mapex/Ludwig modern rig; verified + self-contradicted by the same file's own 2 later album articles (Tama/Monolit since 2014).
+4. **#6273** — Mike Portnoy: Nightmare (2010, A7X tribute session) claims a Paiste/Sabian hybrid rig; externally verified pure Tama/Sabian throughout his career, no Paiste ever. Confirmed #6027's prior fix (different field, pedal) didn't touch these lines.
+5. **#6274** — Scott Travis: Demolition (2001) still claims ddrum/Paiste "since Painkiller" — a straggler left behind when #6096/#6097 reverted the rest of the file's #5744 mass-conversion back to the correct dated Tama(1990)→Pearl(2005)→ddrum(2018) timeline. Diffed both #6096 and #6097's line ranges to confirm neither touched Demolition's lines (624-887).
+6. **#6275** — Mike Mangini: The Astonishing (2016) article still references a "2013 Ludwig detour" that #6038 already debunked at the source (the 2013 self-titled article itself) — a stale cross-reference, not a fresh fabrication. Scoped narrowly to the drums/Ludwig claim; left the file's separate unresolved 3-way Sabian/Meinl cymbal-brand conflict (mike-mangini.js internal disagreement across album entries) out of scope, flagged below.
+7. **#6268** — Nick Menza (carry-over, see above).
+8. **#6269** — Eloy Casagrande (carry-over, see above).
+
+### New pattern noted
+Two of this run's findings (#6270 hellhammer, #6274 scott-travis) are **stragglers from prior scoped/partial fixes**, not fresh discoveries — a fix closes some album entries in a file but misses others (hellhammer: #5693 only touched the master overview, not 6 album entries; scott-travis: #6096/#6097 fixed 5 of 8 album entries after a mass-conversion, left Demolition/Firepower unchecked, though Firepower turned out to already be correct). **Rule: when investigating a file with a prior closed fix, always diff that fix's exact line range (`git show <sha> -- <file> | grep "^@@"`) against every album entry in the file, not just the ones named in the fix's title — a "fixed" file can still have untouched siblings.**
+
+### Not filed, flagged for future runs
+- **mike-mangini.js cymbal 3-way conflict**: the 2013 self-titled article states Sabian, but The Astonishing (2016) and A Dramatic Turn of Events (2011) both state Meinl Byzance Traditional, and The Astonishing's own text explicitly claims consistency with the 2013 record's cymbals — a genuine 3-way internal disagreement. `endorsementNews.js` supports Sabian continuously since 2011, never mentions Meinl. Needs a dedicated investigation (possibly an external check) before filing — not a simple one-line fix.
+- **tomas-haake.js**: agent flagged a fabricated "early Sonor relationship" claim for Contradictions Collapse (1991) vs. the file's own Chaosphere (1998) section explicitly titled "The Pre-Sonor Era," but couldn't pin exact line numbers. Needs a follow-up grep before filing.
+- **drummerEvolution.js** (different file family, out of scope for albumArticles vein): agent flagged a fabricated "Yamaha Era" for Mike Portnoy and a fabricated Tama/Sabian/DW-9002 history + wrong Overkill join year for Jason Bittner. Both contradict `endorsementNews.js` and (for Portnoy) his own albumArticles.js catalog. Worth a dedicated look next time this file family comes up.
+- **igor-cavalera.js**: possible Pearl-vs-Tama discrepancy for Chaos A.D. (1993), but 3 other site sources corroborate the album article's Pearl claim over `endorsementNews.js` — awareness-only, not filed (needs its own resolution, similar to the aquiles-priester precedent of checking sibling files before assuming one source wins).
+
+### Vein status
+albumArticles.js vs verified-source-of-truth contradictions: now ~44 slugs checked across this vein (prior weeks' ~34 + this run's remaining 17, minus overlaps already counted). All 71 non-meta slugs in `packages/frontend/data/albumArticles/` are now believed checked at least once — vein may be approaching exhaustion for first-pass sweeps, though this run's "stragglers from partial fixes" pattern (see above) suggests re-diffing files with prior *scoped* fixes (not full-file fixes) remains productive. Next run: prioritize the 3 flagged-not-filed items above over a fresh full-roster resweep.
+
+### Proposals filed this run (8)
+1. #6268 — Nick Menza
+2. #6269 — Eloy Casagrande
+3. #6270 — Hellhammer (6 albums)
+4. #6271 — Dave Lombardo
+5. #6272 — Adrian Erlandsson
+6. #6273 — Mike Portnoy
+7. #6274 — Scott Travis
+8. #6275 — Mike Mangini
+
+### Open proposals waiting on CEO triage
+- #6268-#6275 (filed this run, 0d old)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers only.
+
+### Next run
+1. Watch #6268-6275 ship via Roadie/PR Merger.
+2. Investigate and file (if warranted) the 3 flagged-not-filed items: mike-mangini.js 3-way cymbal conflict, tomas-haake.js Contradictions Collapse Sonor claim (pin line numbers first), igor-cavalera.js Chaos A.D. Pearl-vs-Tama.
+3. Consider whether to check `drummerEvolution.js`/`drummerComparisons.js` for the same bug class (out of scope this run, 2 candidates already flagged: mike-portnoy Yamaha Era, jason-bittner Tama/Sabian/DW-9002 history).
+4. Drum-chair rotation: week 36 is group 0 (amon-amarth through cynic) — due Monday 2026-08-31.

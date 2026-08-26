@@ -17,12 +17,12 @@ export const articles = {
     "dateModified": "2026-03-27",
     "author": "MetalForge Editorial",
     "title": "What's In Matt Garstka's Kit: The Jazz-Fusion Meets Progressive Metal Arsenal",
-    "description": "Discover Matt Garstka's complete drum setup — the Pearl Masterworks kit, Meinl Byzance cymbals, and signature gear that power Animals as Leaders. Complete breakdown of the modern prog pioneer's equipment.",
+    "description": "Discover Matt Garstka's complete drum setup — his DW Collector's Series kit (switched from Pearl in September 2021), Meinl Byzance cymbals, and signature gear that power Animals as Leaders. Complete breakdown of the modern prog pioneer's equipment.",
     "seoKeywords": [
       "matt garstka drum kit",
       "matt garstka setup",
       "animals as leaders drummer gear",
-      "matt garstka pearl drums",
+      "matt garstka dw drums",
       "matt garstka meinl cymbals",
       "matt garstka signature",
       "djent drums",
@@ -31,53 +31,43 @@ export const articles = {
     "ogImage": "/images/drummers/matt-garstka.webp",
     "intro": {
       "title": "The Academic Approach to Progressive Metal",
-      "content": "Matt Garstka represents a new paradigm in heavy music drumming. Where previous generations relied on raw aggression and speed, Garstka brings Berklee-educated jazz sophistication to the world of djent and progressive metal. The result is drumming that's simultaneously technical and deeply musical.\n\nBorn April 27, 1989, in Westfield, Massachusetts, Garstka began drumming at age 5 and was performing professionally by his teens. After studying at Berklee College of Music, he joined Animals as Leaders in 2012, replacing Navene Koperweis. His first album with the band, \"The Joy of Motion\" (2014), immediately established him as one of the most important drummers of his generation.\n\nWhat sets Garstka apart isn't just his technical ability — it's his approach. He uses traditional grip in a genre dominated by matched grip players. He prioritizes dynamics and ghost notes in music that often favors wall-to-wall intensity. He makes 7/8 feel as natural as 4/4.\n\nHis educational presence has made him one of the most studied drummers of the modern era. Through Drumeo, YouTube, and international clinics, Garstka has shared his approach with millions, influencing how a generation thinks about progressive drumming.\n\nThis article breaks down every piece of gear Matt uses to achieve his distinctive sound — from his Pearl Masterworks kit to his extensive Meinl Byzance cymbal setup.",
+      "content": "Matt Garstka represents a new paradigm in heavy music drumming. Where previous generations relied on raw aggression and speed, Garstka brings Berklee-educated jazz sophistication to the world of djent and progressive metal. The result is drumming that's simultaneously technical and deeply musical.\n\nBorn April 27, 1989, in Westfield, Massachusetts, Garstka began drumming at age 5 and was performing professionally by his teens. After studying at Berklee College of Music, he joined Animals as Leaders in 2012, replacing Navene Koperweis. His first album with the band, \"The Joy of Motion\" (2014), immediately established him as one of the most important drummers of his generation.\n\nWhat sets Garstka apart isn't just his technical ability — it's his approach. He uses traditional grip in a genre dominated by matched grip players. He prioritizes dynamics and ghost notes in music that often favors wall-to-wall intensity. He makes 7/8 feel as natural as 4/4.\n\nHis educational presence has made him one of the most studied drummers of the modern era. Through Drumeo, YouTube, and international clinics, Garstka has shared his approach with millions, influencing how a generation thinks about progressive drumming.\n\nThis article breaks down every piece of gear Matt uses to achieve his distinctive sound — from his DW Collector's Series kit (he played Pearl from The Joy of Motion through The Madness of Many before switching to DW in September 2021) to his extensive Meinl Byzance cymbal setup.",
       "keyPoints": [
         "Berklee College of Music graduate with jazz fusion background",
         "Joined Animals as Leaders in 2012, transforming their sound",
         "Uses traditional grip — unusual in progressive metal",
-        "Pearl Drums and Meinl Cymbals endorsee with signature products",
+        "DW Drums and Meinl Cymbals endorsee with signature products (switched from Pearl to DW in September 2021)",
         "One of the most influential drum educators of his generation"
       ]
     },
     "drumKit": {
-      "title": "Matt's Pearl Masterworks Setup",
-      "brand": "Pearl",
-      "model": "Pearl Masterworks Maple",
-      "finish": "Custom Natural Maple / Black (various configurations)",
+      "title": "Matt's DW Collector's Series Setup",
+      "brand": "DW",
+      "model": "DW Collector's Series (custom shop)",
+      "finish": "Custom per DW custom shop order",
       "config": {
-        "bassdrums": [
-          "20\" x 16\" Bass Drum"
-        ],
-        "toms": [
-          "10\" x 7\" Rack Tom",
-          "12\" x 8\" Rack Tom"
-        ],
-        "floorToms": [
-          "14\" x 14\" Floor Tom"
-        ],
-        "shells": "Maple shells with MasterCast hoops"
+        "shells": "Mixed Collector's Series wood species and shell configurations, per DW custom shop"
       },
-      "description": "Matt Garstka's drum setup reflects his jazz-influenced approach: smaller, more responsive drums that prioritize articulation over raw power. Unlike many metal drummers who favor massive kits, Garstka uses a relatively compact four-piece configuration that forces musical creativity.\n\nThe 20\" bass drum is notably smaller than typical metal setups. This size provides quick attack and clear articulation — essential for the intricate kick patterns in Animals as Leaders' music. Where larger bass drums might produce muddy low end at fast tempos, Matt's 20\" speaks clearly at any speed.\n\nThe rack toms (10\" and 12\") and floor tom (14\") are sized for responsiveness rather than volume. Masterworks maple shells deliver warmth and projection, while the smaller dimensions mean faster decay and tighter overall sound.\n\nPearl's MasterCast hoops provide additional focus and attack, crucial for the precise tom work in songs like \"Physical Education\" and \"Tooth and Claw.\" Every drum in Matt's setup serves a specific musical purpose — there's no redundancy.\n\nThis minimalist philosophy extends to his entire approach. Rather than adding drums, Matt adds complexity through technique: ghost notes, dynamic variations, polyrhythmic layering. The kit is a vehicle for musical ideas, not a display of excess.",
+      "description": "Matt Garstka played a compact Pearl Masterworks Maple kit — a 20\" bass drum, 10\" and 12\" rack toms, and a 14\" floor tom — from his 2012 arrival in Animals as Leaders through The Madness of Many (2016), prioritizing articulation over raw power. In September 2021, ahead of \"Parrhesia,\" he switched drum brands for the first time in his tenure with the band, moving to a DW custom shop build. DW's official signing announcement described the kit as mixing Collector's Series wood species and shell configurations, continuing his preference for a compact, responsive setup rather than a larger, louder rig.\n\nSpecific shell sizes for the DW build have not been independently verified; this article will be updated with exact configuration details as sourcing allows. What's confirmed is the brand switch itself and its September 2021 timing, well ahead of \"Parrhesia\"'s 2022 release.\n\nThis minimalist philosophy extends to Matt's entire approach, on both kits: rather than adding drums, he adds complexity through technique — ghost notes, dynamic variations, polyrhythmic layering. The kit is a vehicle for musical ideas, not a display of excess.",
       "notes": [
-        "20\" bass drum — smaller than typical metal for articulation",
-        "Four-piece configuration prioritizing creativity over size",
-        "Masterworks maple shells for warmth and projection",
-        "MasterCast hoops for focused attack",
+        "Switched from Pearl to a DW custom shop kit in September 2021",
+        "DW's signing announcement describes a mix of Collector's Series wood species and shell configurations",
+        "Exact shell sizes for the DW build are not yet independently verified",
+        "First drum brand change of Garstka's Animals as Leaders tenure",
         "Setup designed for dynamics and responsiveness, not raw power"
       ],
-      "estimatedValue": "$4,000-6,000 (Masterworks Maple configuration)"
+      "estimatedValue": "Not verified (DW Collector's Series custom shop pricing varies by configuration)"
     },
     "snare": {
       "title": "The Signature Snare",
-      "brand": "Pearl",
-      "model": "Pearl Matt Garstka Signature Snare",
-      "size": "14\" x 5\"",
-      "shell": "Maple with unique bearing edge",
-      "description": "Matt Garstka's signature Pearl snare drum embodies his musical philosophy: sensitivity and expressiveness over brute force. The 14\" x 5\" maple shell is shallower than many metal snares, designed for quick response and a wide dynamic range.\n\nThe snare's unique bearing edge — developed specifically for this model — allows exceptional sensitivity for ghost notes while maintaining crack for backbeats. This dual nature is essential for Garstka's playing style, where whisper-quiet ghost note patterns transition instantly to powerful accents.\n\nMaple construction provides warmth and body, avoiding the harsh brightness that can make detailed ghost note work muddy. The shell speaks clearly at any dynamic level, from the softest grace notes to full-force rimshots.\n\nThe 5\" depth keeps the fundamental pitch higher and the response faster than deeper snares. This suits the articulate, jazz-influenced patterns that characterize Matt's playing. Every stroke is distinct; nothing blurs together even at extreme speeds.\n\nFor heads, Matt typically uses Remo Ambassador or Evans G1 batters — medium-weight heads that balance sensitivity with durability. The resonant side usually gets a thin head to maximize snare wire response.\n\nThis signature snare has become popular among drummers seeking to capture Matt's detailed, dynamic approach. It proves that metal drumming doesn't require massive, thunderous snares — precision can cut through just as effectively.",
-      "tuningSetting": "Medium tension for balance of sensitivity and crack",
-      "heads": "Remo Ambassador Coated or Evans G1 Coated (batter), Remo Ambassador Snare Side (resonant)",
-      "estimatedValue": "$400-500 (signature model)"
+      "brand": "DW",
+      "model": "DW Collector's Series Purpleheart",
+      "size": "Not verified",
+      "shell": "Purpleheart, per DW's Matt Garstka signature drum line",
+      "description": "Garstka's Pearl Matt Garstka Signature Snare — a 14\" x 5\" maple shell with a unique bearing edge designed for sensitivity on ghost notes while retaining crack for backbeats — was retired along with the rest of his Pearl kit when he switched to DW in September 2021. His current primary snare, per DW's Collector's Series signature line, is a Purpleheart-shell model, though DW's custom shop also built him several boutique signature snares (Craviotto, Highwood, Noble & Cooley) that may see use on specific tracks or tours.\n\nExact snare specs and tuning for the current DW model have not been independently verified beyond the brand and model switch; this article will be updated as more detailed sourcing becomes available.",
+      "tuningSetting": "Not verified",
+      "heads": "Not verified for this era",
+      "estimatedValue": "Not verified"
     },
     "cymbals": {
       "title": "Meinl Byzance: Dark Complexity",
@@ -131,26 +121,26 @@ export const articles = {
       "estimatedValue": "$3,500-4,500 total (Byzance series setup)"
     },
     "hardware": {
-      "title": "Pearl Hardware & Vic Firth Sticks",
+      "title": "Hardware & Vic Firth Signature Sticks",
       "items": [
         {
           "type": "Bass Drum Pedal",
           "brand": "Pearl",
           "model": "Pearl Demon Drive Double Pedal",
-          "notes": "Direct drive for precision and speed",
-          "description": "Matt uses the Pearl Demon Drive double pedal, favoring the direct drive mechanism for its instant response. The lack of chain lag is crucial for his intricate kick patterns, where even milliseconds of delay would disrupt the complex polyrhythms he plays."
+          "notes": "Last-verified pedal; brand unconfirmed after the September 2021 DW drum/snare switch",
+          "description": "No source covering Garstka's September 2021 DW switch specifies a hardware or pedal brand change, so the Pearl Demon Drive is retained here as his last-verified pedal rather than assumed to have carried over unchanged or switched to DW."
         },
         {
           "type": "Hi-Hat Stand",
           "brand": "Pearl",
           "model": "Pearl Demon Drive Hi-Hat Stand",
-          "notes": "Matching direct drive feel"
+          "notes": "Last-verified hardware; brand unconfirmed after the September 2021 DW drum/snare switch"
         },
         {
           "type": "Throne",
           "brand": "Pearl",
           "model": "Pearl Roadster D-3500 Throne",
-          "notes": "Height adjustable for traditional grip ergonomics"
+          "notes": "Last-verified hardware; brand unconfirmed after the September 2021 DW drum/snare switch"
         },
         {
           "type": "Sticks",
@@ -268,10 +258,10 @@ export const articles = {
         ],
         "description": "Continued touring, education, and evolution.",
         "gear": {
-          "drums": "Pearl Masterworks Maple",
-          "snare": "Pearl Matt Garstka Signature",
+          "drums": "DW Collector's Series (custom shop, since September 2021)",
+          "snare": "DW Collector's Series Purpleheart",
           "cymbals": "Meinl Byzance (various configurations per tour)",
-          "hardware": "Pearl Demon Drive, Vic Firth Signature Sticks"
+          "hardware": "Pearl Demon Drive (last-verified, brand unconfirmed since the DW switch), Vic Firth Signature Sticks"
         },
         "notes": "Matt continues to refine his approach while maintaining the core philosophy of dynamics and musicality."
       }
@@ -307,7 +297,7 @@ export const articles = {
           "item": "Pearl Matt Garstka Signature Snare",
           "available": true,
           "priceRange": "$400-500",
-          "notes": "Available at most Pearl dealers"
+          "notes": "Available at most Pearl dealers — reflects Matt's pre-September-2021 setup; his current snare is a DW Collector's Series Purpleheart"
         },
         {
           "item": "Vic Firth Matt Garstka Signature Sticks",
@@ -325,13 +315,13 @@ export const articles = {
           "item": "Pearl Demon Drive Pedals",
           "available": true,
           "priceRange": "$400-700",
-          "notes": "Current model matches what Matt uses"
+          "notes": "Last-verified pedal choice; brand unconfirmed since Matt's September 2021 drum/snare switch to DW"
         },
         {
           "item": "Pearl Masterworks Drums",
           "available": true,
           "priceRange": "$4,000-7,000",
-          "notes": "Custom configurations available through Pearl dealers"
+          "notes": "Custom configurations available through Pearl dealers — reflects Matt's pre-September-2021 kit; he now plays a DW Collector's Series custom shop build"
         }
       ]
     },
@@ -370,7 +360,7 @@ export const articles = {
             "Pearl Matt Garstka Signature Snare — $450",
             "Vic Firth Matt Garstka Signature Sticks — $15"
           ],
-          "notes": "This replicates Matt's actual setup. Remember: the gear is just the start — his sound comes from years of disciplined practice."
+          "notes": "This replicates the Pearl-based setup Matt played through 2021; he has since switched to a DW Collector's Series custom shop kit and DW Collector's Series Purpleheart snare. Remember: the gear is just the start — his sound comes from years of disciplined practice."
         }
       ]
     },
@@ -445,7 +435,7 @@ export const articles = {
     "faq": [
       {
         "question": "What drum kit does Matt Garstka use?",
-        "answer": "Matt Garstka plays a Pearl Masterworks Maple kit configured with a 20x16 inch bass drum, 10x7 and 12x8 inch rack toms, and a 14x14 inch floor tom. The shells feature maple construction with Pearl's MasterCast hoops, which provide enhanced resonance and tuning stability. This is a professional-grade custom shell pack that Pearl builds to order, reflecting Garstka's demand for precise tonal control across his technically complex Animals as Leaders performances."
+        "answer": "Matt Garstka's drum kit is a DW Collector's Series custom shop build, mixing Collector's Series wood species and shell configurations, which he switched to in September 2021 after playing a compact Pearl Masterworks Maple kit — a 20x16 inch bass drum, 10x7 and 12x8 inch rack toms, and a 14x14 inch floor tom — for his first two Animals as Leaders albums, The Joy of Motion (2014) and The Madness of Many (2016). Exact shell sizes for the current DW build have not been independently verified."
       },
       {
         "question": "What cymbals does Matt Garstka use?",
@@ -453,7 +443,7 @@ export const articles = {
       },
       {
         "question": "How much does Matt Garstka's drum kit cost?",
-        "answer": "Matt Garstka's Pearl Masterworks Maple shell pack runs approximately $4,000 to $6,000 new, depending on finish and configuration. His Pearl Matt Garstka Signature Snare adds around $400 to $500. His Meinl Byzance cymbal setup can easily exceed $2,500 to $4,000 when factoring in multiple specialty pieces. Total kit cost with hardware and accessories lands in the range of $10,000 to $14,000 for a comparable full setup."
+        "answer": "Pricing for Matt Garstka's current DW Collector's Series custom shop kit and DW Collector's Series Purpleheart snare has not been independently verified — custom shop builds are quoted per configuration. His earlier Pearl Masterworks Maple shell pack (played through 2021) ran approximately $4,000 to $6,000 new, with his Pearl Matt Garstka Signature Snare adding around $400 to $500. His Meinl Byzance cymbal setup, unchanged through the DW switch, can easily exceed $2,500 to $4,000 when factoring in multiple specialty pieces."
       }
     ],
     "conclusion": {

@@ -1388,64 +1388,64 @@ export const articles = {
       "estimatedValue": "$400-600 (2016)"
     },
     "cymbals": {
-      "title": "Zildjian A Custom: Modern Clarity for The Atomic Clock",
-      "brand": "Zildjian",
-      "series": "Zildjian A Custom Series",
+      "title": "Sabian AAX: Modern Clarity for The Atomic Clock",
+      "brand": "Sabian",
+      "series": "Sabian AAX Series",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Zildjian A Custom 14\" Hi-Hats",
+          "model": "Sabian AAX 14\" X-Celerator Hi-Hats",
           "position": "Left side",
           "notes": "Brilliant finish with quick, cutting articulation for high-tempo thrash patterns"
         },
         {
           "type": "Crash",
-          "model": "Zildjian A Custom 16\" Crash",
+          "model": "Sabian AAX 16\" X-Plosion Crash",
           "position": "Left of hi-hats",
           "notes": "Fast decay for syncopated accents between riff sections"
         },
         {
           "type": "Crash",
-          "model": "Zildjian A Custom 18\" Crash",
+          "model": "Sabian AAX 18\" X-Plosion Crash",
           "position": "Over rack toms",
           "notes": "Primary crash for main section boundaries"
         },
         {
           "type": "Crash",
-          "model": "Zildjian A Custom 19\" Crash",
+          "model": "Sabian AAX 19\" X-Plosion Crash",
           "position": "Right side",
           "notes": "Heavier crash for climactic section endings"
         },
         {
           "type": "Ride",
-          "model": "Zildjian A Custom 20\" Ride",
+          "model": "Sabian AAX 20\" Medium Ride",
           "position": "Far right",
           "notes": "Bright bell and clear bow attack for intricate ride work"
         },
         {
           "type": "China",
-          "model": "Zildjian A Custom 18\" China",
+          "model": "Sabian AAX 18\" Chinese",
           "position": "Above floor tom",
           "notes": "Cutting accent for heavy riff passages"
         }
       ],
-      "description": "Where Hoglan's 1990s Death recordings featured Zildjian's traditional A series — warm, hand-hammered, complex — his \"Brotherhood of the Snake\" sessions were built around Zildjian's A Custom series. The A Custom line uses computer-assisted hammering to achieve a more uniform, brighter, and immediately cutting sound. For a thrash metal context and modern recording environment, this was the right tool.\n\nThe Zildjian A Custom 14\" hi-hats provided the quick, punchy articulation that Hoglan's high-tempo patterns demanded. Testament tracks regularly hit 160-200 BPM in their fastest passages, and at those tempos, every hi-hat note must speak clearly. The A Custom's brilliant finish and tighter hammering pattern produces a cleaner, more defined sound than traditional A series at comparable speeds.\n\nThe three-crash configuration — 16\", 18\", 19\" — offered Hoglan graduated options across the dynamic range. The 16\" for tight syncopated accents; the 18\" for the album's main crash moments; the 19\" for the climactic section endings that Testament tracks build toward. This graduation means every cymbal hit is a choice, not just an explosion.\n\nThe 20\" A Custom Ride combined with an 18\" China gave Hoglan complementary textures: the ride for sustained groove sections and intricate bell work, the China for the cutting, raw accents that define the album's most aggressive passages.",
+      "description": "Gene Hoglan's \"Brotherhood of the Snake\" sessions continued the Sabian AAX series he's played since signing with Sabian in 1991 — bright, computer-hammered cymbals designed for cutting power and articulation. For a thrash metal context and modern recording environment, AAX remained the right tool.\n\nThe Sabian AAX 14\" X-Celerator hi-hats provided the quick, punchy articulation that Hoglan's high-tempo patterns demanded. Testament tracks regularly hit 160-200 BPM in their fastest passages, and at those tempos, every hi-hat note must speak clearly. The X-Celerator's heavier bottom cymbal and brilliant finish produce a cleaner, more defined sound at comparable speeds.\n\nThe three-crash configuration — 16\", 18\", 19\" X-Plosion — offered Hoglan graduated options across the dynamic range. The 16\" for tight syncopated accents; the 18\" for the album's main crash moments; the 19\" for the climactic section endings that Testament tracks build toward. This graduation means every cymbal hit is a choice, not just an explosion.\n\nThe 20\" AAX Medium Ride combined with an 18\" AAX Chinese gave Hoglan complementary textures: the ride for sustained groove sections and intricate bell work, the china for the cutting, raw accents that define the album's most aggressive passages.",
       "estimatedValue": "$1,500-2,200 total (2016)"
     },
     "hardware": {
-      "title": "DW 9000: The High-Performance Engine",
+      "title": "Pearl Demon Drive: The High-Performance Engine",
       "items": [
         {
           "type": "Bass Drum Pedals",
-          "brand": "DW",
-          "model": "DW 9000 Single Pedals (x2)",
-          "notes": "Individual pedals for each bass drum — independence over double pedal",
-          "description": "Hoglan's choice of DW 9000 single pedals — one per bass drum — reflects both his philosophy and his stature as one of metal's elite drummers. The DW 9000 is DW's most refined single pedal: cam-driven with a fully adjustable throw angle, board weight, spring tension, and beater angle. Its smoothness at extreme speeds and consistent response make it the natural choice for a drummer who cannot rely on electronic assistance to hide mechanical inconsistency. At the speeds Hoglan executes throughout 'Brotherhood of the Snake,' the 9000's precision is essential."
+          "brand": "Pearl",
+          "model": "Pearl Demon Drive Double Pedal",
+          "notes": "Direct drive for speed and precision — Pearl endorser consistency",
+          "description": "Hoglan's choice of the Pearl Demon Drive double pedal — his standard since signing with Pearl in 2008 — reflects both his philosophy and his stature as one of metal's elite drummers. The Demon Drive's direct drive system eliminates the lag of chain drives, with NiNjA bearings and fully adjustable throw angle, board weight, spring tension, and beater angle. Its smoothness at extreme speeds and consistent response make it the natural choice for a drummer who cannot rely on electronic assistance to hide mechanical inconsistency. At the speeds Hoglan executes throughout 'Brotherhood of the Snake,' the Demon Drive's precision is essential."
         },
         {
           "type": "Hi-Hat Stand",
-          "brand": "DW",
-          "model": "DW 9500 Hi-Hat Stand",
+          "brand": "Pearl",
+          "model": "Pearl Demon Drive Hi-Hat Stand",
           "notes": "Heavy-duty platform for demanding hi-hat patterns"
         },
         {
@@ -2537,48 +2537,48 @@ export const articles = {
       "estimatedValue": "$500-700 (2020)"
     },
     "cymbals": {
-      "title": "Zildjian A Custom: Continuing Refinement",
-      "brand": "Zildjian",
-      "series": "Zildjian A Custom Series",
+      "title": "Sabian AAX: Continuing Refinement",
+      "brand": "Sabian",
+      "series": "Sabian AAX Series",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Zildjian A Custom 14\" Hi-Hats",
+          "model": "Sabian AAX 14\" X-Celerator Hi-Hats",
           "position": "Left side",
           "notes": "Brilliant finish with quick, cutting articulation essential at thrash tempos"
         },
         {
           "type": "Crash",
-          "model": "Zildjian A Custom 16\" Crash",
+          "model": "Sabian AAX 16\" X-Plosion Crash",
           "position": "Left of hi-hats",
           "notes": "Fast decay for syncopated accents between riff sections"
         },
         {
           "type": "Crash",
-          "model": "Zildjian A Custom 18\" Crash",
+          "model": "Sabian AAX 18\" X-Plosion Crash",
           "position": "Over rack toms",
           "notes": "Primary crash for main section boundaries"
         },
         {
           "type": "Crash",
-          "model": "Zildjian A Custom 19\" Crash",
+          "model": "Sabian AAX 19\" X-Plosion Crash",
           "position": "Right side",
           "notes": "Heavier crash for climactic section endings and swell passages"
         },
         {
           "type": "Ride",
-          "model": "Zildjian A Custom 20\" Ride",
+          "model": "Sabian AAX 20\" Medium Ride",
           "position": "Far right",
           "notes": "Bright bell and clear bow attack for intricate ride work and groove sections"
         },
         {
           "type": "China",
-          "model": "Zildjian A Custom 18\" China",
+          "model": "Sabian AAX 18\" Chinese",
           "position": "Above floor tom",
           "notes": "Cutting accent for the album's most aggressive riff passages"
         }
       ],
-      "description": "Hoglan maintained his Zildjian A Custom series configuration from the 2016 Brotherhood sessions into the 2020 *Titans of Creation* recordings — a choice that confirmed his commitment to this cymbal platform as his modern performance voice. The A Custom's computer-assisted hammering and brilliant finish deliver a brighter, more uniform sound than the traditional A series, with faster cymbal response and more immediate articulation at high tempos.\n\nFor *Titans of Creation*, the A Custom 14\" hi-hats continued to provide the quick, punchy footwork articulation that Hoglan's double-kick patterns demand. Where Testament tracks can push 160-200 BPM in their fastest sections, every hi-hat note must register clearly — the A Custom's consistent, uniform surface ensures that articulation holds even at the album's most demanding speeds.\n\nThe three-crash configuration (16\", 18\", 19\") gave Hoglan graduated dynamic options calibrated to the album's compositional architecture. *Titans of Creation* is a structurally sophisticated record that builds and releases tension within individual tracks, and the graduated crash spectrum allows Hoglan to distinguish between accent types rather than reaching for the same explosive response to every climax.\n\nThe 20\" A Custom Ride's bright bell and clear bow provided textural contrast on tracks with extended groove sections, while the 18\" China delivered the cutting, raw aggression that defines the album's most confrontational passages. Together, the cymbal setup served an album that the band had months of lockdown isolation to refine — the extra compositional care is audible in how specifically each cymbal role fits its context.",
+      "description": "Hoglan maintained his Sabian AAX series configuration from the 2016 Brotherhood sessions into the 2020 *Titans of Creation* recordings — a continuation of the AAX platform he's played since 1991 as his modern performance voice. AAX's computer-assisted hammering and brilliant finish deliver a bright, uniform sound with fast cymbal response and immediate articulation at high tempos.\n\nFor *Titans of Creation*, the AAX 14\" X-Celerator hi-hats continued to provide the quick, punchy footwork articulation that Hoglan's double-kick patterns demand. Where Testament tracks can push 160-200 BPM in their fastest sections, every hi-hat note must register clearly — the X-Celerator's consistent, uniform surface ensures that articulation holds even at the album's most demanding speeds.\n\nThe three-crash configuration (16\", 18\", 19\" X-Plosion) gave Hoglan graduated dynamic options calibrated to the album's compositional architecture. *Titans of Creation* is a structurally sophisticated record that builds and releases tension within individual tracks, and the graduated crash spectrum allows Hoglan to distinguish between accent types rather than reaching for the same explosive response to every climax.\n\nThe 20\" AAX Medium Ride's bright bell and clear bow provided textural contrast on tracks with extended groove sections, while the 18\" AAX Chinese delivered the cutting, raw aggression that defines the album's most confrontational passages. Together, the cymbal setup served an album that the band had months of lockdown isolation to refine — the extra compositional care is audible in how specifically each cymbal role fits its context.",
       "estimatedValue": "$1,600-2,400 total (2020)"
     },
     "hardware": {

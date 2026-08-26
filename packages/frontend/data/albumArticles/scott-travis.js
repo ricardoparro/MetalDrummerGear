@@ -650,54 +650,55 @@ export const articles = {
     "ogImage": "/images/albums/demolition-drums.webp",
     "intro": {
       "title": "The Last Owens Album, and Travis's Only Songwriting Credit",
-      "content": "Released July 16, 2001 in Europe (SPV/Steamhammer) and July 31, 2001 in North America (Atlantic Records), Demolition is Judas Priest's fourteenth studio album and the second and final record to feature Tim \"Ripper\" Owens on vocals. Where Jugulator (1997) pivoted toward thrash and groove metal, Demolition pushes further into nu-metal and industrial territory — programmed textures, heavier riff syncopation, and a darker, more modern production. It's also the only Judas Priest studio album to carry a Parental Advisory sticker, thanks to the profanity in \"Machine Man,\" \"Hell Is Home,\" and \"Metal Messiah.\"\n\nCommercially, Demolition continued the decade's downward chart trend: it peaked at #165 on the Billboard 200 in the US, down from Jugulator's #82, though it still reached #16 in Germany and #22 in Japan. Produced once again in-house by Glenn Tipton with engineer Sean Lynch, and recorded across Silvermere Sound and Riverside Studios in England between 1999 and 2001, Demolition would be the last new Priest music before Rob Halford's return to the band began taking shape — he officially rejoined in 2003, two years after this album's release.\n\nFor Scott Travis, Demolition holds a unique distinction beyond the drum kit: he co-wrote the track \"Cyberface\" alongside Glenn Tipton, marking his only songwriting contribution in Judas Priest's entire history. Only one other Priest drummer, Les Binks, has ever earned a co-writing credit. It's a small but telling detail about how deeply Travis was embedded in the band's creative process by this point, no longer just the guy who replaced Dave Holland, but a full collaborator.\n\nGear-wise, Demolition continues the same ddrum Dominion Series and Paiste RUDE/2002 setup Travis has used throughout his Priest career, with the addition of Yamaha hardware components, evidence of a drummer fine-tuning a working setup rather than overhauling it. The result is a rig built to serve Demolition's darker, more mechanical sound while keeping the low-end weight and groove-locked control Travis had developed four years earlier.",
+      "content": "Released July 16, 2001 in Europe (SPV/Steamhammer) and July 31, 2001 in North America (Atlantic Records), Demolition is Judas Priest's fourteenth studio album and the second and final record to feature Tim \"Ripper\" Owens on vocals. Where Jugulator (1997) pivoted toward thrash and groove metal, Demolition pushes further into nu-metal and industrial territory — programmed textures, heavier riff syncopation, and a darker, more modern production. It's also the only Judas Priest studio album to carry a Parental Advisory sticker, thanks to the profanity in \"Machine Man,\" \"Hell Is Home,\" and \"Metal Messiah.\"\n\nCommercially, Demolition continued the decade's downward chart trend: it peaked at #165 on the Billboard 200 in the US, down from Jugulator's #82, though it still reached #16 in Germany and #22 in Japan. Produced once again in-house by Glenn Tipton with engineer Sean Lynch, and recorded across Silvermere Sound and Riverside Studios in England between 1999 and 2001, Demolition would be the last new Priest music before Rob Halford's return to the band began taking shape — he officially rejoined in 2003, two years after this album's release.\n\nFor Scott Travis, Demolition holds a unique distinction beyond the drum kit: he co-wrote the track \"Cyberface\" alongside Glenn Tipton, marking his only songwriting contribution in Judas Priest's entire history. Only one other Priest drummer, Les Binks, has ever earned a co-writing credit. It's a small but telling detail about how deeply Travis was embedded in the band's creative process by this point, no longer just the guy who replaced Dave Holland, but a full collaborator.\n\nGear-wise, Demolition continues the same Tama Artstar II and Paiste RUDE/2002 setup Travis has used since Painkiller (1990), with the addition of Yamaha hardware components, evidence of a drummer fine-tuning a working setup rather than overhauling it. The result is a rig built to serve Demolition's darker, more mechanical sound while keeping the low-end weight and groove-locked control Travis had developed four years earlier.",
       "keyPoints": [
         "Second and final Tim \"Ripper\" Owens album — released July 2001, two years before Rob Halford's 2003 return",
         "Only Judas Priest studio album to carry a Parental Advisory sticker",
         "Scott Travis co-wrote \"Cyberface\" with Glenn Tipton — his only songwriting credit in band history",
         "Charted at #165 on the Billboard 200 (US), down from Jugulator's #82, but reached #16 in Germany",
-        "Continues the same long-standing ddrum / Paiste RUDE/2002 setup, with new Yamaha hardware added alongside it"
+        "Continues the same long-standing Tama / Paiste RUDE/2002 setup, with new Yamaha hardware added alongside it"
       ]
     },
     "drumKit": {
-      "title": "The ddrum Dominion Series, Refined",
-      "brand": "ddrum",
-      "model": "ddrum Dominion Series",
+      "title": "The Tama Artstar II, Refined",
+      "brand": "Tama",
+      "model": "Tama Artstar II",
       "finish": "Piano Black",
       "config": {
         "bassdrums": [
-          "22\" x 18\" Bass Drum (x2)"
+          "22\" x 16\" Bass Drum (x2)"
         ],
         "toms": [
-          "10\" x 8\" Rack Tom",
-          "12\" x 9\" Rack Tom"
+          "10\" x 10\" Rack Tom",
+          "12\" x 11\" Rack Tom",
+          "13\" x 12\" Rack Tom"
         ],
         "floorToms": [
           "14\" x 14\" Floor Tom",
           "16\" x 16\" Floor Tom"
         ],
-        "shells": "ddrum Dominion Series shell pack"
+        "shells": "Tama Artstar II birch shell pack with die-cast hoops"
       },
-      "description": "Travis carried his Jugulator-era ddrum Dominion Series kit forward for Demolition, unchanged in its core configuration: dual 22\" x 18\" bass drums, 10\"/12\" rack toms, and 14\"/16\" floor toms. Recorded across two studios, Silvermere Sound and Riverside Studios, over a two-year period (1999-2001), the sessions gave Travis time to dial the same kit in for Demolition's darker, more industrial-leaning material.\n\nWhere Jugulator's production emphasized a tight, dry attack to cut through downtuned thrash riffing, Demolition's nu-metal and industrial textures called for a slightly more processed, mechanical-sounding kit voice, achieved through mixing and triggering choices rather than a physical gear change. The Dominion Series shell pack provided a full, controllable foundation for that treatment: full-bodied enough to sit under programmed-sounding textures on tracks like \"Machine Man\" and \"Cyberface\" without losing the organic low end that separates real drums from a drum machine.\n\nThe consistency between Jugulator and Demolition's core kit specs, same brand, same shell pack, same bass drum depth, reflects a drummer who had found a setup that worked and saw no reason to change it for a sequel session with largely the same creative team.",
+      "description": "Travis carried his Jugulator-era Tama Artstar II kit forward for Demolition, unchanged in its core configuration: dual 22\" x 16\" bass drums, 10\"/12\"/13\" rack toms, and 14\"/16\" floor toms. Recorded across two studios, Silvermere Sound and Riverside Studios, over a two-year period (1999-2001), the sessions gave Travis time to dial the same kit in for Demolition's darker, more industrial-leaning material.\n\nWhere Jugulator's production emphasized a tight, dry attack to cut through downtuned thrash riffing, Demolition's nu-metal and industrial textures called for a slightly more processed, mechanical-sounding kit voice, achieved through mixing and triggering choices rather than a physical gear change. The Artstar II birch shell pack provided a full, controllable foundation for that treatment: full-bodied enough to sit under programmed-sounding textures on tracks like \"Machine Man\" and \"Cyberface\" without losing the organic low end that separates real drums from a drum machine.\n\nThe consistency between Jugulator and Demolition's core kit specs, same brand, same shell pack, same bass drum depth, reflects a drummer who had found a setup that worked and saw no reason to change it for a sequel session with largely the same creative team.",
       "notes": [
-        "Same ddrum Dominion Series configuration carried forward from Jugulator (1997) unchanged",
-        "22\"x18\" bass drums remain the standard Travis would keep for the rest of his Priest career",
+        "Same Tama Artstar II configuration carried forward from Jugulator (1997) unchanged",
+        "22\"x16\" bass drums remain the standard Travis would keep through the rest of the Tama era",
         "Recorded across two studios (Silvermere Sound, Riverside) over a two-year session (1999-2001)",
-        "The Dominion Series shell pack provides organic low end under the album's more processed, industrial-leaning mix",
+        "The Artstar II birch shell pack provides organic low end under the album's more processed, industrial-leaning mix",
         "Consistency with Jugulator reflects a settled, working setup rather than an overhaul"
       ],
-      "estimatedValue": "$3,800-5,200 (2001)"
+      "estimatedValue": "$2,000-2,600 (2001)"
     },
     "snare": {
       "title": "The Same Crack, a Darker Mix",
-      "brand": "ddrum",
-      "model": "ddrum Scott Travis Signature",
+      "brand": "Tama",
+      "model": "Tama Artstar II Steel",
       "size": "14\" x 6.5\"",
-      "shell": "Signature shell with die-cast hoops",
-      "description": "The same 14\" x 6.5\" ddrum Scott Travis Signature snare from Jugulator returns on Demolition, tuned in the same medium-high range for attack and cut. What changes is the production context: Demolition's industrial and nu-metal-leaning tracks, particularly \"Machine Man\" and \"Cyberface,\" sit the snare inside a darker, more processed mix than Jugulator's drier, more straightforward thrash-groove production.\n\nOn \"Cyberface,\" the track Travis co-wrote with Glenn Tipton, the snare pattern is more rhythmically angular than the album's more conventional cuts, a reasonable byproduct of a drummer having direct input into the song's structure rather than simply interpreting a finished riff. The die-cast hoops continue to deliver the rim-shot definition Travis relies on for accents throughout the record, including the profanity-laced choruses of \"Hell Is Home\" and \"Metal Messiah\" that earned the album its Parental Advisory sticker.",
+      "shell": "Steel shell with die-cast hoops",
+      "description": "The same 14\" x 6.5\" Tama Artstar II Steel snare from Jugulator returns on Demolition, tuned in the same medium-high range for attack and cut. What changes is the production context: Demolition's industrial and nu-metal-leaning tracks, particularly \"Machine Man\" and \"Cyberface,\" sit the snare inside a darker, more processed mix than Jugulator's drier, more straightforward thrash-groove production.\n\nOn \"Cyberface,\" the track Travis co-wrote with Glenn Tipton, the snare pattern is more rhythmically angular than the album's more conventional cuts, a reasonable byproduct of a drummer having direct input into the song's structure rather than simply interpreting a finished riff. The die-cast hoops continue to deliver the rim-shot definition Travis relies on for accents throughout the record, including the profanity-laced choruses of \"Hell Is Home\" and \"Metal Messiah\" that earned the album its Parental Advisory sticker.",
       "tuningSetting": "Medium-high tension, moderate snare wire tension — same setting as Jugulator",
       "heads": "Remo Pinstripe (batter), Remo Ambassador Snare Side",
-      "estimatedValue": "$450-600 (2001)"
+      "estimatedValue": "$280-380 (2001)"
     },
     "cymbals": {
       "title": "Paiste RUDE and 2002, Unchanged",
@@ -807,7 +808,7 @@ export const articles = {
           "Stop-start, mechanical rhythmic phrasing",
           "One of the tracks that earned the album its Parental Advisory sticker"
         ],
-        "gearNotes": "Tight gating and compression give the ddrum Dominion Series kit a mechanically precise feel that suits the song's title and theme."
+        "gearNotes": "Tight gating and compression give the Tama Artstar II kit a mechanically precise feel that suits the song's title and theme."
       },
       {
         "track": "Cyberface",
@@ -818,7 +819,7 @@ export const articles = {
           "More angular, structurally unusual rhythmic phrasing than the album's other tracks",
           "6:45 runtime — one of the album's longer, more developed arrangements"
         ],
-        "gearNotes": "The ddrum Scott Travis Signature snare's rhythmic phrasing here reflects direct drummer input into the song's composition, not just its performance."
+        "gearNotes": "The Tama Artstar II Steel snare's rhythmic phrasing here reflects direct drummer input into the song's composition, not just its performance."
       },
       {
         "track": "Hell Is Home",
@@ -854,7 +855,7 @@ export const articles = {
       },
       {
         "question": "What drum kit did Scott Travis use on Demolition?",
-        "answer": "On Demolition (2001), Scott Travis played the same ddrum Dominion Series kit he used on Jugulator (1997) and Painkiller (1990), dual 22\" x 18\" bass drums, 10\"/12\" rack toms, and 14\"/16\" floor toms. His cymbal setup was also unchanged: Paiste RUDE/2002 cymbals. The one addition was Yamaha hardware, a Yamaha HS-1200 hi-hat stand and Yamaha System 3 boom stands supplementing his existing DW/Gibraltar rig. It's a case of refinement rather than reinvention: Travis had found a setup that worked on Jugulator and carried it forward largely intact."
+        "answer": "On Demolition (2001), Scott Travis played the same Tama Artstar II kit he used on Jugulator (1997) and Painkiller (1990), dual 22\" x 16\" bass drums, 10\"/12\"/13\" rack toms, and 14\"/16\" floor toms. His cymbal setup was also unchanged: Paiste RUDE/2002 cymbals. The one addition was Yamaha hardware, a Yamaha HS-1200 hi-hat stand and Yamaha System 3 boom stands supplementing his existing DW/Gibraltar rig. It's a case of refinement rather than reinvention: Travis had found a setup that worked on Jugulator and carried it forward largely intact."
       },
       {
         "question": "Why does Demolition have a Parental Advisory sticker?",
@@ -862,12 +863,12 @@ export const articles = {
       },
       {
         "question": "How does Demolition compare to Jugulator and Painkiller in Scott Travis's gear?",
-        "answer": "Demolition (2001) continues the same ddrum Dominion Series / Paiste RUDE/2002 setup Travis has used since Painkiller (1990), with Yamaha hardware added alongside his existing DW/Gibraltar rig, a refinement rather than an overhaul. Travis has been a long-time endorser of ddrum, Paiste Cymbals, DW Pedals, and Vic Firth Drumsticks across his entire Priest career — the stylistic evolution from Painkiller's speed-metal blitz through Jugulator and Demolition's groove-and-industrial-leaning material happened within one consistent rig, not across gear changes."
+        "answer": "Demolition (2001) continues the same Tama Artstar II / Paiste RUDE/2002 setup Travis has used since Painkiller (1990), with Yamaha hardware added alongside his existing DW/Gibraltar rig, a refinement rather than an overhaul. Travis was a Tama endorser from Painkiller through the mid-2000s, before later switching to Pearl and then ddrum — the stylistic evolution from Painkiller's speed-metal blitz through Jugulator and Demolition's groove-and-industrial-leaning material happened within one consistent Tama-era rig, not across gear changes."
       }
     ],
     "conclusion": {
       "title": "Closing the Owens Chapter",
-      "content": "Demolition closed the book on Judas Priest's seven-year, two-album experiment without Rob Halford. It's a harder, darker, more contemporary-sounding record than Jugulator, pushing the band's downtuned pivot further into nu-metal and industrial territory, and it gave Scott Travis his only songwriting credit in the band's history, a small but meaningful mark of how central he'd become to Priest's creative process by 2001.\n\nGear-wise, Demolition is a story of refinement rather than reinvention: the same ddrum Dominion Series kit, the same Paiste RUDE/2002 cymbal voice, with Yamaha hardware layered in alongside the established DW/Gibraltar rig. It's the sound of a drummer who had already found his post-Painkiller identity on Jugulator and simply kept building on it.\n\nTwo years after Demolition's release, Rob Halford rejoined Judas Priest, and Travis carried the same long-standing ddrum/Paiste/DW rig into Angel of Retribution (2005). For drummers tracing the full arc of Scott Travis's career, Painkiller's speed-metal blitz, the Owens-era pivot toward groove and industrial textures on Jugulator and Demolition, and the mature, song-serving drummer of the Halford-reunion years, Demolition is the essential missing link."
+      "content": "Demolition closed the book on Judas Priest's seven-year, two-album experiment without Rob Halford. It's a harder, darker, more contemporary-sounding record than Jugulator, pushing the band's downtuned pivot further into nu-metal and industrial territory, and it gave Scott Travis his only songwriting credit in the band's history, a small but meaningful mark of how central he'd become to Priest's creative process by 2001.\n\nGear-wise, Demolition is a story of refinement rather than reinvention: the same Tama Artstar II kit, the same Paiste RUDE/2002 cymbal voice, with Yamaha hardware layered in alongside the established DW/Gibraltar rig. It's the sound of a drummer who had already found his post-Painkiller identity on Jugulator and simply kept building on it.\n\nTwo years after Demolition's release, Rob Halford rejoined Judas Priest, and Travis's gradual migration off this Tama rig toward Pearl was already underway by Angel of Retribution (2005). For drummers tracing the full arc of Scott Travis's career, Painkiller's speed-metal blitz, the Owens-era pivot toward groove and industrial textures on Jugulator and Demolition, and the mature, song-serving drummer of the Halford-reunion years, Demolition is the essential missing link."
     },
     "relatedAlbums": [
       "painkiller-drum-setup",

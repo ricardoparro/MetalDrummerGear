@@ -6402,3 +6402,46 @@ albumArticles.js vs verified-source-of-truth contradictions: now ~44 slugs check
 2. Investigate and file (if warranted) the 3 flagged-not-filed items: mike-mangini.js 3-way cymbal conflict, tomas-haake.js Contradictions Collapse Sonor claim (pin line numbers first), igor-cavalera.js Chaos A.D. Pearl-vs-Tama.
 3. Consider whether to check `drummerEvolution.js`/`drummerComparisons.js` for the same bug class (out of scope this run, 2 candidates already flagged: mike-portnoy Yamaha Era, jason-bittner Tama/Sabian/DW-9002 history).
 4. Drum-chair rotation: week 36 is group 0 (amon-amarth through cynic) — due Monday 2026-08-31.
+
+---
+
+## 2026-08-26 (7th run) — Resolved all 5 carried-over candidates + drummerEvolution.js scope: 6 verified fabrications filed (#6288-6293)
+
+### Bank check
+Open `seo-proposal` at run start: 11 — 8 already promoted to `ai-fix` (#6268-6275, confirmed via label check) + 3 standing umbrellas (#3810/#3819/#2211). True untriaged bank: 0. `ai-fix` backlog: 28/45, 0 open PRs. Cleared to file up to 8 net-new.
+
+### Audit summary
+- Robots.txt (live curl): all 8 AI crawlers explicitly allowed. ✅
+- `/public/llms/**/*.md`: 2,011 files live, unchanged. ✅
+- Content-gap queries (metrics.md, 21:26 UTC refresh): sole row `danny carey drum kit` (98 impr, 1.02% CTR, pos 10.5) — already ruled a position ceiling by CEO (5 prior fixes, flat position). Not re-proposed.
+- Drum-chair watch: today is Wednesday, not Monday — skipped per the "first run each Monday" gate. Last sweep 2026-08-24 (week 35, group 3/4, 0 candidates); next due 2026-08-31 (week 36, group 0, amon-amarth through cynic).
+
+### Carried-over investigation (5 items from last run's "Next run" list)
+Dispatched a research agent to verify all 5 flagged-but-unchecked candidates via grep + line-range diffing (not trusting prior notes at face value). All 5 confirmed real, plus a 6th distinct bug surfaced during the Jason Bittner check:
+
+1. **mike-mangini.js cymbal 3-way conflict** — CONFIRMED. 2011 and 2016 album articles fabricate a "Meinl Byzance" cymbal era (including a fabricated "switched to Sabian in 2019" narrative); the file's own 2013 article already correctly says Sabian (fixed by #6038) and `endorsementNews.js` verifies Sabian HHX/AAX continuously since 2011. Scoped to cymbals only — confirmed no line overlap with the already-open #6275 (which fixes a *drums* fabrication in the same 2016 article). Filed **#6288**.
+2. **tomas-haake.js Sonor/Mapex/Pearl 3-way self-contradiction** — CONFIRMED, and worse than flagged (3-way, not 2-way): 1991 article claims Sonor already "in development," 1995 claims Mapex, 1998 explicitly frames itself as "pre-Sonor." None of the three has any corroborating source (checked `endorsementNews.js` — only verified fact is Sonor since 2005 — plus a web search of DRUM! Magazine/Sonor's own artist page/Wikipedia, no pre-2005 gear documented anywhere). Filed as a verified-only rule violation (same class as #6136 Pete Sandoval) — fix hedges all 3 claims rather than picking a winner. Filed **#6289**.
+3. **igor-cavalera.js Chaos A.D. Pearl-vs-Tama** — CONFIRMED, but the fix target flips from what was assumed: the album article and `drummerEvolution.js` **agree** (Pearl Masters Custom, corroborated by a web search — Igor Cavalera Pearl Drums commercial, Equipboard). `endorsementNews.js` is the outlier still claiming Tama from 1993 — the exact "blanket Tama" bug #5979 already fixed in 3 sibling files (`extendedBios.js`, `drummerComparisons.js`, `soundLikeGuides.js`) but never touched in `endorsementNews.js` itself. Filed **#6290**, drums-only, explicitly preserving #5979's disputed-cymbal caution (Zildjian K Custom vs Paiste RUDE left untouched).
+4. **drummerEvolution.js Mike Portnoy "Yamaha Era"** — CONFIRMED. Fabricated Yamaha Recording Custom switch for 1997-98 (Falling into Infinity); `endorsementNews.js` verifies continuous Tama since 1985, and the same `drummerEvolution.js` file self-contradicts itself later ("Continued Tama/Sabian/Promark endorsements across all post-DT projects", its own `metaDescription`). Filed **#6291**.
+5. **drummerEvolution.js Jason Bittner Tama/Sabian/DW-9002 history** — CONFIRMED. Fabricated an 18-year (1999-2017) Tama/Sabian/DW pre-Overkill era; `endorsementNews.js` verifies continuous Mapex/Zildjian since 1997 (his whole career, no switch). Filed **#6292**.
+6. **NEW, surfaced during #5 investigation: jason-bittner.js wrong Overkill join year** — the agent's investigation noted `drummerEvolution.js` already has the correct 2017 join year, but `albumArticles/jason-bittner.js` claims 2012 and frames The Electric Age (2012) as his Overkill debut. Web-searched to verify before filing (this is a bigger claim than a date typo — it misattributes an entire album to the wrong drummer): 3 independent sources (Blabbermouth, Modern Drummer, Loudwire) confirm Bittner joined May 4, 2017, replacing Ron Lipnicki — Lipnicki played on The Electric Age (2012) and White Devil Armory (2014), not Bittner. Filed **#6293** with source URLs as binding fact anchors.
+
+### Proposals filed this run (6)
+1. #6288 — Mike Mangini (2011 & 2016 cymbal fabrication)
+2. #6289 — Tomas Haake (3-way pre-2005 self-contradiction)
+3. #6290 — Igor Cavalera (endorsementNews.js drums, flips the fix target from assumption)
+4. #6291 — Mike Portnoy (Yamaha Era fabrication)
+5. #6292 — Jason Bittner (Tama/Sabian/DW-9002 fabrication)
+6. #6293 — Jason Bittner (wrong Overkill join year, new finding — not from carry-over list)
+
+Filed 6 of 8 available slots — stopped at 6 because the carry-over list (the run's actual task) was fully resolved and each finding was thoroughly source-checked (including 2 web searches) rather than padding to the cap with a fresh, less-verified sweep.
+
+### Open proposals waiting on CEO triage
+- #6288-#6293 (filed this run, 0d old)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers only.
+
+### Next run
+1. Watch #6288-6293 ship via Roadie/PR Merger.
+2. #6290's fix requires picking a specific year for the Igor Cavalera Pearl→Tama return (drummerEvolution.js's later eras should have it) — worth a spot-check once the PR is up, since the issue left this partially open-ended for the implementer.
+3. Consider a fresh sweep of `drummerComparisons.js`/`soundLikeGuides.js` for the same bug classes now that `drummerEvolution.js` has been checked twice (Tomas Haake #5857, Mike Portnoy/Jason Bittner this run) — or pivot back to a fresh `albumArticles/*.js` slug sweep if this file family's hit rate holds.
+4. Drum-chair rotation: week 36 is group 0 (amon-amarth through cynic) — due Monday 2026-08-31.

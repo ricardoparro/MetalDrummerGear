@@ -593,7 +593,7 @@ export const articles = {
     "dateModified": "2026-06-24",
     "author": "MetalForge Editorial",
     "title": "Somewhere in Time Drum Setup: Nicko McBrain's Electronics-Augmented Kit on Iron Maiden's 1986 Synth-Era Masterpiece",
-    "description": "The complete gear breakdown for Iron Maiden's Somewhere in Time (1986). Discover the Premier Resonator kit, Roland electronic drum pads, and dry snare tuning that defined Nicko McBrain's performance on Iron Maiden's most electronically ambitious album.",
+    "description": "The complete gear breakdown for Iron Maiden's Somewhere in Time (1986). Discover the Yamaha Recording Custom kit, Roland electronic drum pads, and dry snare tuning that defined Nicko McBrain's performance on Iron Maiden's most electronically ambitious album.",
     "seoKeywords": [
       "nicko mcbrain somewhere in time drums",
       "iron maiden 1986 drum kit",
@@ -605,10 +605,10 @@ export const articles = {
     "ogImage": "/images/drummers/nicko-mcbrain.webp",
     "intro": {
       "title": "Iron Maiden Goes Synthetic: The Album Where Nicko Added Electronics",
-      "content": "Released on September 29, 1986, Somewhere in Time marked a bold departure for Iron Maiden — and a unique chapter in Nicko McBrain's gear history. The album arrived two years after Powerslave, following the mammoth World Slavery Tour, and it brought something unprecedented to the band's sound: synthesizers, guitar synthesizers, and — for the first time in Nicko's career — electronic drum pads integrated into his setup.\n\nProduced once again by Martin Birch at Wisseloord Studios in Hilversum, Netherlands, Somewhere in Time saw Steve Harris, Dave Murray, and Adrian Smith embracing Roland guitar synthesizers, giving the album a futuristic texture unlike any prior Maiden record. To complement this electronic dimension, Nicko added Roland electronic drum pads alongside his Premier Resonator kit — using them primarily for kick drum sample reinforcement and percussion accents.\n\nThe drum sound on Somewhere in Time is distinctly different from Powerslave. Where Powerslave's drums had natural warmth from Compass Point's live room, Somewhere in Time's drums are tighter, drier, more controlled — shaped to sit alongside synthesized guitar textures without competing with them. Nicko tuned his snare notably flat and dry, producing a short, punchy crack that cut through the dense electronic production.\n\nThis is the one Iron Maiden album where electronics are genuinely audible in the drum mix — the one where Nicko's setup tells a different gear story from every other era. Between Powerslave's analog power and Seventh Son's progressive scope, Somewhere in Time occupies its own technological moment: Iron Maiden at the electronic frontier.",
+      "content": "Released on September 29, 1986, Somewhere in Time marked a bold departure for Iron Maiden — and a unique chapter in Nicko McBrain's gear history. The album arrived two years after Powerslave, following the mammoth World Slavery Tour, and it brought something unprecedented to the band's sound: synthesizers, guitar synthesizers, and — for the first time in Nicko's career — electronic drum pads integrated into his setup.\n\nProduced once again by Martin Birch at Wisseloord Studios in Hilversum, Netherlands, Somewhere in Time saw Steve Harris, Dave Murray, and Adrian Smith embracing Roland guitar synthesizers, giving the album a futuristic texture unlike any prior Maiden record. To complement this electronic dimension, Nicko added Roland electronic drum pads alongside his Yamaha Recording Custom kit — using them primarily for kick drum sample reinforcement and percussion accents.\n\nThe drum sound on Somewhere in Time is distinctly different from Powerslave. Where Powerslave's drums had natural warmth from Compass Point's live room, Somewhere in Time's drums are tighter, drier, more controlled — shaped to sit alongside synthesized guitar textures without competing with them. Nicko tuned his snare notably flat and dry, producing a short, punchy crack that cut through the dense electronic production.\n\nThis is the one Iron Maiden album where electronics are genuinely audible in the drum mix — the one where Nicko's setup tells a different gear story from every other era. Between Powerslave's analog power and Seventh Son's progressive scope, Somewhere in Time occupies its own technological moment: Iron Maiden at the electronic frontier.",
       "keyPoints": [
         "First Iron Maiden album with electronic drum pads integrated into Nicko's setup",
-        "Premier Resonator kit — same professional British foundation as prior Maiden eras",
+        "Yamaha Recording Custom kit — same professional British foundation as prior Maiden eras",
         "Roland electronic pads for kick reinforcement and percussion accents — new to Nicko's workflow",
         "Dry, flat snare tuning to complement the synth-heavy Martin Birch production",
         "Paiste 2002 cymbals in a configuration suited to the more measured tempos",
@@ -616,9 +616,9 @@ export const articles = {
       ]
     },
     "drumKit": {
-      "title": "Nicko McBrain's Premier Resonator + Roland Setup",
-      "brand": "Premier",
-      "model": "Premier Resonator",
+      "title": "Nicko McBrain's Yamaha Recording Custom + Roland Setup",
+      "brand": "Yamaha",
+      "model": "Yamaha Recording Custom",
       "finish": "Black Lacquer",
       "config": {
         "bassdrums": [
@@ -637,9 +637,9 @@ export const articles = {
           "Roland electronic drum pads (kick reinforcement and accent triggers)"
         ]
       },
-      "description": "Nicko McBrain recorded Somewhere in Time on a Premier Resonator kit — the professional British drumset that was his primary setup through the mid-1980s. Premier's birch shells delivered a punchy, focused attack well suited to the tighter, more controlled production Martin Birch was building around the album's synthesized textures.\n\nThe configuration remained compact: two rack toms, two floor toms, and a single bass drum. What changed was the addition of Roland electronic drum pads integrated into the setup. These were positioned alongside the acoustic kit and triggered sampled kick sounds for reinforcement — a technique increasingly common in mid-1980s professional studios. Somewhere in Time was the first Iron Maiden album where Nicko's setup included an electronic component visible in the production.\n\nThe Premier shells' natural character differed meaningfully from the warm resonance more typical of maple kits. Premier's birch delivered a drier, quicker decay — exactly what Birch needed to seat the drums inside a dense arrangement of guitar synthesizers without muddiness.\n\nThe two floor toms retained their role in Nicko's cascading fill vocabulary, heard clearly on \"Caught Somewhere in Time\" and \"Alexander the Great.\" The setup was compact but complete — nothing superfluous, everything purposeful.",
+      "description": "Nicko McBrain recorded Somewhere in Time on a Yamaha Recording Custom kit — the professional Japanese drumset that was his primary setup through the mid-1980s. Yamaha's birch shells delivered a punchy, focused attack well suited to the tighter, more controlled production Martin Birch was building around the album's synthesized textures.\n\nThe configuration remained compact: two rack toms, two floor toms, and a single bass drum. What changed was the addition of Roland electronic drum pads integrated into the setup. These were positioned alongside the acoustic kit and triggered sampled kick sounds for reinforcement — a technique increasingly common in mid-1980s professional studios. Somewhere in Time was the first Iron Maiden album where Nicko's setup included an electronic component visible in the production.\n\nThe Yamaha shells' natural character differed meaningfully from the warm resonance more typical of maple kits. Yamaha's birch delivered a drier, quicker decay — exactly what Birch needed to seat the drums inside a dense arrangement of guitar synthesizers without muddiness.\n\nThe two floor toms retained their role in Nicko's cascading fill vocabulary, heard clearly on \"Caught Somewhere in Time\" and \"Alexander the Great.\" The setup was compact but complete — nothing superfluous, everything purposeful.",
       "notes": [
-        "Premier Resonator birch shells — punchy, dry, controlled tone",
+        "Yamaha Recording Custom birch shells — punchy, dry, controlled tone",
         "Roland electronic pads integrated for the first time in Nicko's Iron Maiden career",
         "Single bass drum — Nicko's philosophical commitment maintained across all eras",
         "Same compact two-rack-tom, two-floor-tom layout as prior Maiden albums"
@@ -648,8 +648,8 @@ export const articles = {
     },
     "snare": {
       "title": "The Flat Crack: Snare Tuning for a Synth-Heavy Production",
-      "brand": "Premier",
-      "model": "Premier 2000 Snare",
+      "brand": "Yamaha",
+      "model": "Yamaha Recording Custom Snare",
       "size": "14\" x 6.5\"",
       "shell": "Steel shell",
       "description": "The snare sound on Somewhere in Time is one of its most distinctive drum production choices — and it reflects both Nicko's deliberate tuning adjustment and Martin Birch's approach to placing drums inside an electronics-heavy mix.\n\nWhere the snare on prior Maiden albums rang with bright, medium-high tension, the Somewhere in Time snare is tuned notably lower and drier. The result is a flat, punchy hit with minimal sustain — a short crack that cuts through synthesized guitars without adding ring or resonance that would muddy the already dense arrangement.\n\nThe choice of a steel-shell snare contributed to this character. Steel shells produce a cutting, midrange-heavy sound with less of the warm harmonic spread of aluminum or brass. In a production where synths occupied much of the harmonic space, this directness was essential.\n\nNicko has noted that adapting his snare approach to suit each album's production is a priority — the snare must serve the song and the production environment, not impose its own character. On Somewhere in Time, that philosophy produced one of the most distinctive snare sounds in Iron Maiden's catalog: dry, flat, and unmistakable.",
@@ -701,10 +701,10 @@ export const articles = {
       "items": [
         {
           "type": "Bass Drum Pedal",
-          "brand": "Premier",
-          "model": "Premier 252 Bass Drum Pedal",
+          "brand": "Yamaha",
+          "model": "Yamaha Bass Drum Pedal",
           "notes": "Single pedal — Nicko's unwavering single-bass commitment continues on Somewhere in Time",
-          "description": "The Premier pedal continued Nicko's single-bass-drum philosophy: maximum feel and musicality from one pedal rather than mechanical speed from two. The galloping rhythm that defined Maiden's identity remained fully achievable and fully expressive with single-pedal technique."
+          "description": "The Yamaha pedal continued Nicko's single-bass-drum philosophy: maximum feel and musicality from one pedal rather than mechanical speed from two. The galloping rhythm that defined Maiden's identity remained fully achievable and fully expressive with single-pedal technique."
         },
         {
           "type": "Electronic Drum Pads",
@@ -715,14 +715,14 @@ export const articles = {
         },
         {
           "type": "Hi-Hat Stand",
-          "brand": "Premier",
-          "model": "Premier Heavy-Duty Hi-Hat Stand",
+          "brand": "Yamaha",
+          "model": "Yamaha Heavy-Duty Hi-Hat Stand",
           "notes": "Solid foundation for fast hi-hat work"
         },
         {
           "type": "Throne",
-          "brand": "Premier",
-          "model": "Premier Percussion Throne",
+          "brand": "Yamaha",
+          "model": "Yamaha Percussion Throne",
           "notes": "Stable and functional for studio and live demands"
         },
         {
@@ -759,7 +759,7 @@ export const articles = {
           "16th-note hi-hat patterns drive the verse sections",
           "Cascading tom fills between the guitar synthesizer runs"
         ],
-        "gearNotes": "The Roland kick reinforcement is most audible on the album opener. Premier shells deliver the punchy attack needed at full speed."
+        "gearNotes": "The Roland kick reinforcement is most audible on the album opener. Yamaha shells deliver the punchy attack needed at full speed."
       },
       {
         "track": "Wasted Years",
@@ -801,11 +801,11 @@ export const articles = {
     "faq": [
       {
         "question": "What drum kit did Nicko McBrain use on Somewhere in Time?",
-        "answer": "Nicko McBrain recorded Somewhere in Time (1986) on a Premier Resonator kit — the professional British drumset that was his primary setup through the mid-1980s. The configuration featured a single 22\"x18\" bass drum, two rack toms (12\" and 13\"), and two floor toms (16\" and 18\"). For the first time in his Iron Maiden career, he also integrated Roland electronic drum pads alongside the acoustic kit, using them for kick drum sample reinforcement and percussion accents. See the [Nicko McBrain drummer profile](/drummer/nicko-mcbrain) for his complete career-spanning gear history."
+        "answer": "Nicko McBrain recorded Somewhere in Time (1986) on a Yamaha Recording Custom kit — the professional Japanese drumset that was his primary setup through the mid-1980s. The configuration featured a single 22\"x18\" bass drum, two rack toms (12\" and 13\"), and two floor toms (16\" and 18\"). For the first time in his Iron Maiden career, he also integrated Roland electronic drum pads alongside the acoustic kit, using them for kick drum sample reinforcement and percussion accents. See the [Nicko McBrain drummer profile](/drummer/nicko-mcbrain) for his complete career-spanning gear history."
       },
       {
         "question": "Did Nicko McBrain use electronic drums on Somewhere in Time?",
-        "answer": "Yes — Somewhere in Time (1986) is the first Iron Maiden album where Nicko McBrain integrated electronic drum pads into his setup. He added Roland electronic drum pads alongside his Premier Resonator acoustic kit, primarily using them for kick drum sample reinforcement to add punch and definition in the album's synth-heavy production environment. This was a deliberate response to the album's unusually dense electronic arrangement — guitar synthesizers occupied much of the harmonic space, requiring the drums to define themselves with tighter, more controlled sounds. No prior Iron Maiden album used electronic drum augmentation in this way. The [Powerslave drum setup article](/articles/powerslave-drum-setup) covers the preceding purely acoustic era for direct comparison."
+        "answer": "Yes — Somewhere in Time (1986) is the first Iron Maiden album where Nicko McBrain integrated electronic drum pads into his setup. He added Roland electronic drum pads alongside his Yamaha Recording Custom acoustic kit, primarily using them for kick drum sample reinforcement to add punch and definition in the album's synth-heavy production environment. This was a deliberate response to the album's unusually dense electronic arrangement — guitar synthesizers occupied much of the harmonic space, requiring the drums to define themselves with tighter, more controlled sounds. No prior Iron Maiden album used electronic drum augmentation in this way. The [Powerslave drum setup article](/articles/powerslave-drum-setup) covers the preceding purely acoustic era for direct comparison."
       },
       {
         "question": "How does the drum sound on Somewhere in Time differ from Powerslave?",
@@ -818,11 +818,11 @@ export const articles = {
     ],
     "evolution": {
       "title": "The Electronics Experiment: Somewhere in Time in Nicko's Career Arc",
-      "content": "Somewhere in Time sits at a distinctive crossroads in Nicko McBrain's gear history: it's the moment where his setup became more than just acoustic instruments. The Roland electronic pads were a direct response to a specific production challenge — and their addition marks a fork in the road that many drummers of the era were navigating.\n\n**What made this moment unique:**\nThe mid-1980s were the height of the electronic drum revolution. Bands from pop to metal were experimenting with triggered sounds, electronic kits, and hybrid setups. Iron Maiden's response was characteristically measured: keep the acoustic kit at the core, add electronics only where they serve a specific production need, and never let the technology overwhelm the performance.\n\n**The career arc around this album:**\n- **Powerslave (1984):** Pure acoustic — Ludwig/Premier drums, natural room, maximum live energy\n- **Somewhere in Time (1986):** Hybrid — Premier acoustic kit + Roland electronic pads; dry tuning for synth production\n- **Seventh Son of a Seventh Son (1988):** Refined approach — electronics integrated more fully; drumming adapted to progressive concept album demands\n\n**What stayed constant:** The single bass drum pedal. Through every era, every studio innovation, every production trend — Nicko maintained his single-pedal philosophy. The electronics came and went in various configurations, but the commitment to a single kick drum never wavered.\n\n**The lasting lesson:** Somewhere in Time showed that electronic augmentation could serve acoustic drummers without replacing their identity. The Roland pads enhanced the kick; they didn't define it. Nicko remained an acoustic drummer who happened to use electronics — not the other way around.",
+      "content": "Somewhere in Time sits at a distinctive crossroads in Nicko McBrain's gear history: it's the moment where his setup became more than just acoustic instruments. The Roland electronic pads were a direct response to a specific production challenge — and their addition marks a fork in the road that many drummers of the era were navigating.\n\n**What made this moment unique:**\nThe mid-1980s were the height of the electronic drum revolution. Bands from pop to metal were experimenting with triggered sounds, electronic kits, and hybrid setups. Iron Maiden's response was characteristically measured: keep the acoustic kit at the core, add electronics only where they serve a specific production need, and never let the technology overwhelm the performance.\n\n**The career arc around this album:**\n- **Powerslave (1984):** Pure acoustic — Ludwig drums, natural room, maximum live energy\n- **Somewhere in Time (1986):** Hybrid — Yamaha acoustic kit + Roland electronic pads; dry tuning for synth production\n- **Seventh Son of a Seventh Son (1988):** Refined approach — electronics integrated more fully; drumming adapted to progressive concept album demands\n\n**What stayed constant:** The single bass drum pedal. Through every era, every studio innovation, every production trend — Nicko maintained his single-pedal philosophy. The electronics came and went in various configurations, but the commitment to a single kick drum never wavered.\n\n**The lasting lesson:** Somewhere in Time showed that electronic augmentation could serve acoustic drummers without replacing their identity. The Roland pads enhanced the kick; they didn't define it. Nicko remained an acoustic drummer who happened to use electronics — not the other way around.",
       "thenVsNow": [
         {
           "category": "Kit",
-          "then": "Premier Resonator",
+          "then": "Yamaha Recording Custom",
           "now": "Sonor SQ1"
         },
         {
@@ -832,7 +832,7 @@ export const articles = {
         },
         {
           "category": "Snare",
-          "then": "Premier 2000 — flat, dry tuning",
+          "then": "Yamaha Recording Custom Snare — flat, dry tuning",
           "now": "Sonor Nicko McBrain Signature 14x6.5\""
         },
         {
@@ -847,7 +847,7 @@ export const articles = {
         },
         {
           "category": "Pedal",
-          "then": "Premier single pedal",
+          "then": "Yamaha single pedal",
           "now": "Sonor single pedal (still single!)"
         }
       ]
@@ -1182,7 +1182,7 @@ export const articles = {
     "dateModified": "2026-06-24",
     "author": "MetalForge Editorial",
     "title": "Seventh Son of a Seventh Son Drum Setup: Nicko McBrain's Most Dynamic Pre-90s Performance (1988)",
-    "description": "The complete gear breakdown for Iron Maiden's Seventh Son of a Seventh Son (1988). Discover how Nicko McBrain adapted his Ludwig drums and Paiste 2002 cymbals to Iron Maiden's most ambitious concept album — featuring 'Infinite Dreams,' 'The Evil That Men Do,' and the nine-minute title epic.",
+    "description": "The complete gear breakdown for Iron Maiden's Seventh Son of a Seventh Son (1988). Discover how Nicko McBrain adapted his Yamaha Recording Custom drums and Paiste 2002 cymbals to Iron Maiden's most ambitious concept album — featuring 'Infinite Dreams,' 'The Evil That Men Do,' and the nine-minute title epic.",
     "seoKeywords": [
       "nicko mcbrain 1988 kit",
       "iron maiden seventh son drums",
@@ -1194,19 +1194,19 @@ export const articles = {
     "ogImage": "/images/drummers/nicko-mcbrain.webp",
     "intro": {
       "title": "Iron Maiden's Most Ambitious Album — and Their Drummer's Most Dynamic Performance",
-      "content": "Released on April 11, 1988, Seventh Son of a Seventh Son is Iron Maiden's most progressive and ambitious album — a fully realized concept record built around a supernatural narrative. It is also the moment where Nicko McBrain's drumming reached its greatest pre-90s dynamic range.\n\nWhere Powerslave (1984) demanded speed and endurance and Piece of Mind (1983) announced his arrival, Seventh Son asked something different: restraint. The album's synthesizer-driven production — unprecedented in Iron Maiden's catalog — required Nicko to leave space for keyboard textures while simultaneously driving complex, often extended song structures. The result is drumming that balances power with sensitivity in ways his earlier recordings rarely demanded.\n\nRecorded at Musicland Studios in Munich, Germany — a facility that had hosted landmark albums from Supertramp, Led Zeppelin, and Deep Purple — the album featured producer Martin Birch capturing Iron Maiden at their most melodic and compositionally adventurous. Seven of the eight tracks clock in at five minutes or longer; the title track runs nearly ten.\n\nThe drumming on Seventh Son ranges from the concise, hook-driven patterns of \"Can I Play with Madness\" to the intricate dynamic navigation of \"Infinite Dreams\" and \"Seventh Son of a Seventh Son.\" Nicko's ability to shift gears across a single album — from punchy pop-metal grooves to progressive arrangement work — is what makes this record a landmark in his career.\n\nThis article examines the Ludwig Classic Maple drum kit, Paiste 2002 cymbals, and single-pedal philosophy behind Nicko McBrain's most nuanced Iron Maiden performance.",
+      "content": "Released on April 11, 1988, Seventh Son of a Seventh Son is Iron Maiden's most progressive and ambitious album — a fully realized concept record built around a supernatural narrative. It is also the moment where Nicko McBrain's drumming reached its greatest pre-90s dynamic range.\n\nWhere Powerslave (1984) demanded speed and endurance and Piece of Mind (1983) announced his arrival, Seventh Son asked something different: restraint. The album's synthesizer-driven production — unprecedented in Iron Maiden's catalog — required Nicko to leave space for keyboard textures while simultaneously driving complex, often extended song structures. The result is drumming that balances power with sensitivity in ways his earlier recordings rarely demanded.\n\nRecorded at Musicland Studios in Munich, Germany — a facility that had hosted landmark albums from Supertramp, Led Zeppelin, and Deep Purple — the album featured producer Martin Birch capturing Iron Maiden at their most melodic and compositionally adventurous. Seven of the eight tracks clock in at five minutes or longer; the title track runs nearly ten.\n\nThe drumming on Seventh Son ranges from the concise, hook-driven patterns of \"Can I Play with Madness\" to the intricate dynamic navigation of \"Infinite Dreams\" and \"Seventh Son of a Seventh Son.\" Nicko's ability to shift gears across a single album — from punchy pop-metal grooves to progressive arrangement work — is what makes this record a landmark in his career.\n\nThis article examines the Yamaha Recording Custom drum kit, Paiste 2002 cymbals, and single-pedal philosophy behind Nicko McBrain's most nuanced Iron Maiden performance.",
       "keyPoints": [
         "Iron Maiden's first concept album — complex arrangements demanded new dynamics from Nicko",
         "Recorded at Musicland Studios, Munich, Germany with producer Martin Birch",
-        "Ludwig Classic Maple drums and Paiste 2002 cymbals — the same NWOBHM foundation, applied to progressive structures",
+        "Yamaha Recording Custom drums and Paiste 2002 cymbals — the same setup introduced on Somewhere in Time two years earlier, now applied to progressive structures",
         "Single bass drum throughout — no double pedal on any Iron Maiden album",
         "\"Infinite Dreams\" and the nine-minute title track showcase Nicko's most dynamic pre-90s playing"
       ]
     },
     "drumKit": {
-      "title": "Nicko McBrain's Ludwig Classic Maple Setup",
-      "brand": "Ludwig",
-      "model": "Ludwig Classic Maple",
+      "title": "Nicko McBrain's Yamaha Recording Custom Setup",
+      "brand": "Yamaha",
+      "model": "Yamaha Recording Custom",
       "finish": "Natural Maple",
       "config": {
         "bassdrums": [
@@ -1220,12 +1220,12 @@ export const articles = {
           "16\" x 16\" Floor Tom",
           "18\" x 16\" Floor Tom"
         ],
-        "shells": "Maple shells — warm tone with natural projection"
+        "shells": "Birch shells — warm tone with natural projection"
       },
-      "description": "By 1988, Nicko McBrain had been playing Ludwig Classic Maple kits throughout his Iron Maiden tenure — from Piece of Mind (1983) through Powerslave (1984) and Somewhere in Time (1986). Seventh Son of a Seventh Son continued that relationship, with the maple shells providing the warm, responsive character that Martin Birch had shaped across multiple Iron Maiden records.\n\nThe Ludwig Classic Maple's warmth was an asset on Seventh Son's more melodic, keyboard-layered productions. Where the Paiste cymbals and loud guitar work of earlier albums pushed the drums into a bright, cutting role, the synthesizer textures of Seventh Son allowed the maple drums to breathe. Floor tom passages in \"Infinite Dreams\" and \"Seventh Son of a Seventh Son\" sound dimensional and musical rather than just aggressive.\n\nThe single 22\" bass drum remained the foundation of everything. Concept album or not, Iron Maiden runs on the gallop — and the gallop runs on Nicko's right foot alone. The two floor toms (16\" and 18\") provided the melodic roll range needed for extended progressive passages, while the two rack toms handled the tighter, driving patterns in faster tracks.\n\nThe configuration had not grown since the early 1980s. Nicko's discipline in keeping the kit compact forced musical choices over technical flash — a philosophy that served Iron Maiden's song-first approach perfectly, and never more so than on an album where synthesizers already filled the upper frequency spectrum.",
+      "description": "By 1988, Nicko McBrain had been playing the same Yamaha Recording Custom kit he'd switched to in 1985, first heard on Somewhere in Time (1986). Seventh Son of a Seventh Son continued that relationship, with the birch shells providing the warm, responsive character that Martin Birch had shaped across multiple Iron Maiden records.\n\nThe Yamaha Recording Custom's warmth was an asset on Seventh Son's more melodic, keyboard-layered productions. Where the Paiste cymbals and loud guitar work of earlier albums pushed the drums into a bright, cutting role, the synthesizer textures of Seventh Son allowed the drums to breathe. Floor tom passages in \"Infinite Dreams\" and \"Seventh Son of a Seventh Son\" sound dimensional and musical rather than just aggressive.\n\nThe single 22\" bass drum remained the foundation of everything. Concept album or not, Iron Maiden runs on the gallop — and the gallop runs on Nicko's right foot alone. The two floor toms (16\" and 18\") provided the melodic roll range needed for extended progressive passages, while the two rack toms handled the tighter, driving patterns in faster tracks.\n\nThe configuration had not grown since Somewhere in Time. Nicko's discipline in keeping the kit compact forced musical choices over technical flash — a philosophy that served Iron Maiden's song-first approach perfectly, and never more so than on an album where synthesizers already filled the upper frequency spectrum.",
       "notes": [
-        "Same Ludwig Classic Maple foundation used since Piece of Mind (1983)",
-        "Warm maple tone complemented the album's synthesizer-layered production",
+        "Same Yamaha Recording Custom kit introduced on Somewhere in Time (1986)",
+        "Warm tone complemented the album's synthesizer-layered production",
         "Single 22\" bass drum — the gallop remains single-pedal across every era",
         "Two floor toms essential for extended progressive passages in longer tracks"
       ],
@@ -1233,11 +1233,11 @@ export const articles = {
     },
     "snare": {
       "title": "The Crack Behind 'The Evil That Men Do'",
-      "brand": "Ludwig",
-      "model": "Ludwig Supraphonic LM400",
+      "brand": "Yamaha",
+      "model": "Yamaha Recording Custom Snare",
       "size": "14\" x 5\"",
-      "shell": "Seamless aluminum \"Ludalloy\"",
-      "description": "The Ludwig Supraphonic LM400 was Nicko McBrain's snare throughout his 1980s Iron Maiden recordings, and Seventh Son of a Seventh Son was no exception. The aluminum shell's bright, cutting crack was essential for driving complex arrangements where synthesizers occupied significant sonic real estate.\n\nOn a concept album with dense layers of keyboards, guitars, and bass, the snare drum must project clearly without harshness. The Supraphonic's combination of sensitivity and authority allowed Nicko to play ghost notes and soft fills in the album's more atmospheric passages while still delivering the full-force backbeats that \"The Evil That Men Do\" and \"Can I Play with Madness\" demand.\n\nMartin Birch's snare sound on Seventh Son is notably different from his Powerslave work — slightly more present in the mid-range, designed to cut through synth pads rather than triple guitar stacks. The Supraphonic's tuning flexibility allowed Birch to find the right balance at Musicland Studios, where the room acoustics differed from the Caribbean warmth of Compass Point.\n\nThe 5\" depth kept the sound focused and articulate. Longer tracks like \"Infinite Dreams\" (6:06) and the title epic (9:52) demanded a snare that could sustain dynamic variation across many minutes without ever sounding inconsistent.",
+      "shell": "Steel shell",
+      "description": "Nicko McBrain's Yamaha Recording Custom snare, introduced alongside the rest of his kit on Somewhere in Time two years earlier, carried over for Seventh Son of a Seventh Son. The steel shell's bright, cutting crack was essential for driving complex arrangements where synthesizers occupied significant sonic real estate.\n\nOn a concept album with dense layers of keyboards, guitars, and bass, the snare drum must project clearly without harshness. The snare's combination of sensitivity and authority allowed Nicko to play ghost notes and soft fills in the album's more atmospheric passages while still delivering the full-force backbeats that \"The Evil That Men Do\" and \"Can I Play with Madness\" demand.\n\nMartin Birch's snare sound on Seventh Son is notably different from his Powerslave work — slightly more present in the mid-range, designed to cut through synth pads rather than triple guitar stacks. The snare's tuning flexibility allowed Birch to find the right balance at Musicland Studios, where the room acoustics differed from the Caribbean warmth of Compass Point.\n\nThe 5\" depth kept the sound focused and articulate. Longer tracks like \"Infinite Dreams\" (6:06) and the title epic (9:52) demanded a snare that could sustain dynamic variation across many minutes without ever sounding inconsistent.",
       "tuningSetting": "Medium-high tension for projection through synthesizer layers",
       "heads": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side",
       "estimatedValue": "$300-450 (1988)"
@@ -1286,21 +1286,21 @@ export const articles = {
       "items": [
         {
           "type": "Bass Drum Pedal",
-          "brand": "Ludwig",
-          "model": "Ludwig Speed King",
+          "brand": "Yamaha",
+          "model": "Yamaha Bass Drum Pedal",
           "notes": "Single pedal — the unbreakable rule of Nicko McBrain's career",
-          "description": "The Speed King's direct, responsive feel gave Nicko the control needed for the varied tempos and feels of Seventh Son's concept album material. From the steady mid-tempo gallop of \"The Evil That Men Do\" to the dynamic shifts of the title track, the single pedal handled every demand."
+          "description": "The pedal's direct, responsive feel gave Nicko the control needed for the varied tempos and feels of Seventh Son's concept album material. From the steady mid-tempo gallop of \"The Evil That Men Do\" to the dynamic shifts of the title track, the single pedal handled every demand."
         },
         {
           "type": "Hi-Hat Stand",
-          "brand": "Ludwig",
-          "model": "Ludwig Atlas",
+          "brand": "Yamaha",
+          "model": "Yamaha Hi-Hat Stand",
           "notes": "Heavy-duty stand for consistent footwork across demanding progressive arrangements"
         },
         {
           "type": "Throne",
-          "brand": "Ludwig",
-          "model": "Ludwig Standard",
+          "brand": "Yamaha",
+          "model": "Yamaha Drum Throne",
           "notes": "Stable seating for the posture control required in longer tracks"
         },
         {
@@ -1337,7 +1337,7 @@ export const articles = {
           "Nicko drives the chorus with authoritative snare backbeats",
           "Among the tightest, most focused performances on the album"
         ],
-        "gearNotes": "The Supraphonic snare crack is central to the track's momentum. Paiste 2002 crashes mark section changes."
+        "gearNotes": "The Yamaha snare crack is central to the track's momentum. Paiste 2002 crashes mark section changes."
       },
       {
         "track": "The Evil That Men Do",
@@ -1349,7 +1349,7 @@ export const articles = {
           "Hi-hat precision at mid-high tempo throughout",
           "Memorable tom fill into the final chorus"
         ],
-        "gearNotes": "Single Ludwig Speed King pedal delivers the gallop. Paiste hi-hats articulate clearly at pace."
+        "gearNotes": "Single Yamaha bass drum pedal delivers the gallop. Paiste hi-hats articulate clearly at pace."
       },
       {
         "track": "Infinite Dreams",
@@ -1379,7 +1379,7 @@ export const articles = {
     "faq": [
       {
         "question": "What kit did Nicko McBrain use on Seventh Son of a Seventh Son?",
-        "answer": "Nicko McBrain recorded Seventh Son of a Seventh Son (1988) on a Ludwig Classic Maple kit — the same setup he had used across the preceding Iron Maiden albums including Piece of Mind (1983) and Powerslave (1984). The configuration featured a single 22\"x14\" bass drum, two rack toms (12\" and 13\"), and two floor toms (16\" and 18\"). The maple shells' warm, resonant character complemented the album's synthesizer-driven production at Musicland Studios in Munich. For a complete profile of Nicko's setup across his career, see the [Nicko McBrain drummer profile](/drummer/nicko-mcbrain)."
+        "answer": "Nicko McBrain recorded Seventh Son of a Seventh Son (1988) on a Yamaha Recording Custom kit — the same setup he'd switched to in 1985 and first used on Somewhere in Time (1986). The configuration featured a single 22\"x14\" bass drum, two rack toms (12\" and 13\"), and two floor toms (16\" and 18\"). The birch shells' warm, resonant character complemented the album's synthesizer-driven production at Musicland Studios in Munich. For a complete profile of Nicko's setup across his career, see the [Nicko McBrain drummer profile](/drummer/nicko-mcbrain)."
       },
       {
         "question": "How did Nicko McBrain adapt his drumming for concept album structures on Seventh Son?",
@@ -1400,16 +1400,16 @@ export const articles = {
     ],
     "evolution": {
       "title": "Seventh Son in Nicko McBrain's Gear Progression",
-      "content": "Seventh Son of a Seventh Son (1988) closes the first major chapter of Nicko McBrain's Iron Maiden career. It is the last album in the founding Ludwig/Paiste 2002 era that began with Piece of Mind in 1983 — five albums, five years, and an extraordinary run of studio and live performances that established Nicko as one of heavy metal's essential drummers.\n\n**The founding era (1983–1988):** Piece of Mind → Powerslave → Somewhere in Time → Seventh Son of a Seventh Son. Ludwig drums (Vistalite on debut, Classic Maple for the rest), Paiste 2002 cymbals, Pro-Mark sticks, Ludwig Speed King single pedal.\n\n**Post-Seventh Son:** Iron Maiden's sound evolved significantly in the 1990s and 2000s, and Nicko's gear adapted with it. His setup eventually moved to Sonor drums and Paiste Signature cymbals — a warmer, darker character that suited the band's more expansive later material.\n\n**The constant:** One bass drum. One pedal. Seventh Son through to the present, it has never changed.\n\n**What Seventh Son proved:** That Nicko's technique was not limited to the NWOBHM gallop. The concept album era showed he could adapt to progressive structures, synthesizer production, and demanding long-form arrangements — skills that would serve Iron Maiden through decades of increasingly ambitious material.",
+      "content": "Seventh Son of a Seventh Son (1988) is the second album of the Yamaha era in Nicko McBrain's Iron Maiden career — a run that began in 1985, when he switched from Pearl to a Yamaha Recording Custom kit, and continued unbroken through 2010 across nine studio albums.\n\n**The founding era (1982–1984):** Number of the Beast → Piece of Mind → Powerslave. Ludwig drums (Vistalite on debut, Classic Maple for the rest), Paiste 2002 cymbals, Pro-Mark sticks.\n\n**The Yamaha era begins (1985–1988):** Somewhere in Time → Seventh Son of a Seventh Son. Yamaha Recording Custom kit, Paiste 2002 cymbals, Pro-Mark sticks, single pedal — the same foundation that would carry Nicko all the way through The Final Frontier in 2010.\n\n**The constant:** One bass drum. One pedal. From Piece of Mind through to the present, it has never changed.\n\n**What Seventh Son proved:** That Nicko's technique was not limited to the NWOBHM gallop. The concept album era showed he could adapt to progressive structures, synthesizer production, and demanding long-form arrangements — skills that would serve Iron Maiden through decades of increasingly ambitious material.",
       "thenVsNow": [
         {
           "category": "Kit",
-          "then": "Ludwig Classic Maple",
+          "then": "Yamaha Recording Custom",
           "now": "Sonor SQ1"
         },
         {
           "category": "Snare",
-          "then": "Ludwig Supraphonic 14x5\"",
+          "then": "Yamaha Recording Custom Snare 14x5\"",
           "now": "Sonor Nicko McBrain Signature 14x6.5\""
         },
         {
@@ -1424,7 +1424,7 @@ export const articles = {
         },
         {
           "category": "Pedal",
-          "then": "Ludwig Speed King single",
+          "then": "Yamaha single pedal",
           "now": "Sonor single pedal (still single!)"
         }
       ]
@@ -1455,7 +1455,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "The End of an Era — and the Proof of a Range",
-      "content": "Seventh Son of a Seventh Son is not the album most people think of first when they think of Nicko McBrain. That distinction belongs to \"The Number of the Beast\" era, or to Powerslave's relentless forward momentum. But among those who study his playing carefully, the 1988 concept record holds a special place: it is where Nicko proved he could do more than gallop.\n\nThe Ludwig Classic Maple kit that had powered five years of Iron Maiden records found new applications on Seventh Son. Melodic floor tom lines. Dynamic navigation across nine minutes of progressive arrangement. Restrained support for synthesizer passages. Musical ride cymbal work across complex structures. None of this appears in \"Aces High\" or \"Where Eagles Dare\" — and that's the point.\n\nThe album closed the founding Ludwig/Paiste 2002 chapter of Nicko's career and opened the door to whatever came next. It showed that the tools were always secondary to the player: the same kit that drove 170 BPM gallops on Powerslave could adapt to Iron Maiden's most progressive and demanding material without modification.\n\nFor drummers studying Nicko McBrain's career today, Seventh Son offers the most nuanced chapter of his 1980s output. It is the album that answered a question most hadn't thought to ask: what happens when you put a world-class metal drummer inside a concept album? The answer is on record — and it is one of the most underappreciated drum performances in classic heavy metal history."
+      "content": "Seventh Son of a Seventh Son is not the album most people think of first when they think of Nicko McBrain. That distinction belongs to \"The Number of the Beast\" era, or to Powerslave's relentless forward momentum. But among those who study his playing carefully, the 1988 concept record holds a special place: it is where Nicko proved he could do more than gallop.\n\nThe Yamaha Recording Custom kit Nicko had switched to just two years earlier found new applications on Seventh Son. Melodic floor tom lines. Dynamic navigation across nine minutes of progressive arrangement. Restrained support for synthesizer passages. Musical ride cymbal work across complex structures. None of this appears in \"Aces High\" or \"Where Eagles Dare\" — and that's the point.\n\nThe album cemented the Yamaha Recording Custom/Paiste 2002 foundation Nicko had adopted in 1985 — a foundation that would carry him through every Iron Maiden studio album for the next twenty-two years. It showed that the tools were always secondary to the player: the same kit that had powered Somewhere in Time's electronics experiment could adapt just as readily to Iron Maiden's most progressive and demanding material.\n\nFor drummers studying Nicko McBrain's career today, Seventh Son offers the most nuanced chapter of his 1980s output. It is the album that answered a question most hadn't thought to ask: what happens when you put a world-class metal drummer inside a concept album? The answer is on record — and it is one of the most underappreciated drum performances in classic heavy metal history."
     }
   },
   "no-prayer-for-the-dying-drum-setup": {
@@ -1476,13 +1476,13 @@ export const articles = {
     "dateModified": "2026-07-01",
     "author": "MetalForge Editorial",
     "title": "No Prayer for the Dying Drum Setup: Nicko McBrain's Gear on Iron Maiden's Only UK #1 Single (1990)",
-    "description": "The complete gear breakdown for Iron Maiden's No Prayer for the Dying (1990). Discover Nicko McBrain's Pearl Free-Floating snare and Zildjian A cymbals behind 'Bring Your Daughter to the Slaughter' — the band's only UK number one single.",
+    "description": "The complete gear breakdown for Iron Maiden's No Prayer for the Dying (1990). Discover Nicko McBrain's tightly tuned Yamaha Recording Custom kit and Zildjian A cymbals behind 'Bring Your Daughter to the Slaughter' — the band's only UK number one single.",
     "seoKeywords": [
       "nicko mcbrain 1990 kit",
       "iron maiden no prayer for the dying drums",
       "bring your daughter to the slaughter drums",
       "no prayer for the dying drum setup",
-      "nicko mcbrain pearl snare",
+      "nicko mcbrain yamaha snare",
       "iron maiden barnyard studios"
     ],
     "ogImage": "/images/drummers/nicko-mcbrain.webp",
@@ -1500,9 +1500,9 @@ export const articles = {
       ]
     },
     "drumKit": {
-      "title": "Nicko McBrain's Pearl Setup for the Barnyard Sessions",
-      "brand": "Pearl",
-      "model": "Pearl Export Series",
+      "title": "Nicko McBrain's Yamaha Setup for the Barnyard Sessions",
+      "brand": "Yamaha",
+      "model": "Yamaha Recording Custom",
       "finish": "Black finish",
       "config": {
         "bassdrums": [
@@ -1516,24 +1516,24 @@ export const articles = {
           "16\" x 16\" Floor Tom",
           "18\" x 16\" Floor Tom"
         ],
-        "shells": "Mahogany/basswood shells — punchy, controlled attack"
+        "shells": "Birch shells, tuned tighter than usual — punchy, controlled attack"
       },
-      "description": "For No Prayer for the Dying, Nicko McBrain moved away from the Ludwig Classic Maple kit that had carried him through Piece of Mind, Powerslave, Somewhere in Time, and Seventh Son of a Seventh Son, tracking the album on a Pearl Export kit. The shift suited the session's stripped-down philosophy: Pearl's mahogany/basswood shells produced a tighter, punchier attack than the warm, singing Ludwig maple, matching the rawer character Martin Birch and the band wanted for the barn sessions.\n\nRecording inside an actual barn with the Rolling Stones Mobile Studio changed the acoustic equation entirely. There was no purpose-built control room or isolation booth — just a live room with natural, occasionally boomy ambience. The Pearl kit's more focused low end helped keep the bass drum and tom sound from washing out in a space that was never designed for tracking drums.\n\nThe configuration itself stayed close to Nicko's established layout: single 22\" bass drum, two rack toms, two floor toms. \"Bring Your Daughter... to the Slaughter\" leans on driving tom fills between its start-stop verse riffs, while \"Holy Smoke\" and \"Public Enema Number One\" keep the pattern tight and direct — drumming built for a leaner, more aggressive version of the band.\n\nThe single-pedal bass drum remained non-negotiable. Whatever changed about the studio, the shells, or the production philosophy, Nicko's one-foot gallop technique carried through unchanged.",
+      "description": "For No Prayer for the Dying, Nicko McBrain stayed on the same Yamaha Recording Custom kit that had carried him through Somewhere in Time and Seventh Son of a Seventh Son, but tuned it noticeably tighter for the session's stripped-down philosophy. The tighter heads produced a punchier, drier attack than the more open tuning of the previous two albums, matching the rawer character Martin Birch and the band wanted for the barn sessions.\n\nRecording inside an actual barn with the Rolling Stones Mobile Studio changed the acoustic equation entirely. There was no purpose-built control room or isolation booth — just a live room with natural, occasionally boomy ambience. The tighter tuning helped keep the bass drum and tom sound from washing out in a space that was never designed for tracking drums.\n\nThe configuration itself stayed close to Nicko's established layout: single 22\" bass drum, two rack toms, two floor toms. \"Bring Your Daughter... to the Slaughter\" leans on driving tom fills between its start-stop verse riffs, while \"Holy Smoke\" and \"Public Enema Number One\" keep the pattern tight and direct — drumming built for a leaner, more aggressive version of the band.\n\nThe single-pedal bass drum remained non-negotiable. Whatever changed about the studio or the tuning philosophy, Nicko's one-foot gallop technique carried through unchanged.",
       "notes": [
-        "Pearl Export kit — a one-album departure from the Ludwig Classic Maple used 1983-1988",
-        "Mahogany/basswood shells for a tighter, punchier attack suited to the barn's live-room sound",
+        "Same Yamaha Recording Custom kit used since 1985 — tuned tighter for the barn's live-room sound",
+        "Birch shells for a tighter, punchier attack suited to the session's rawer aesthetic",
         "Recorded with the Rolling Stones Mobile Studio inside Steve Harris's barn — no conventional control room",
-        "Single 22\" bass drum maintained across the stylistic shift"
+        "Single 22\" bass drum maintained across every stylistic shift"
       ],
       "estimatedValue": "$1,800-2,400 (1990)"
     },
     "snare": {
-      "title": "The Pearl Free-Floating Snare",
-      "brand": "Pearl",
-      "model": "Pearl Free-Floating Snare",
+      "title": "The Snare Behind the Barn Sessions",
+      "brand": "Yamaha",
+      "model": "Yamaha Recording Custom Snare",
       "size": "14\" x 6.5\"",
-      "shell": "Steel shell, isolated from the rim via Pearl's Free-Floating mounting system",
-      "description": "The signature gear story of No Prayer for the Dying is Nicko McBrain's switch to a Pearl Free-Floating snare — a design where the shell is suspended independently of the rim and lugs, reducing unwanted overtones from rim contact and allowing the shell to resonate more freely. It replaced the Ludwig Supraphonic that had defined his snare sound on every Maiden studio album since Number of the Beast.\n\nThe Free-Floating design gave Birch a snare that cracked hard without the ringy overtones that can muddy a raw, live-room recording. In a barn with minimal acoustic treatment, a snare that resonated cleanly and decayed quickly was a practical necessity, not just a tonal preference. On \"Bring Your Daughter... to the Slaughter,\" the snare sits forward and dry — a noticeably different character from the airier Supraphonic crack of the late-80s records.\n\nTuned tighter than his 1980s setup, the snare delivered the punchy, almost aggressive backbeat that suits the album's leaner arrangements. Remo heads kept the attack consistent take after take, an important factor given the mobile studio's more limited overdub flexibility compared to a full residential facility.",
+      "shell": "Steel shell",
+      "description": "The signature gear story of No Prayer for the Dying is Nicko McBrain's tuning shift, not a change of snare: the same Yamaha Recording Custom snare he'd played since Somewhere in Time was tuned tighter and drier for the barn sessions, reducing overtones and giving the shell a shorter, more controlled decay.\n\nThe tighter tuning gave Birch a snare that cracked hard without the ringy overtones that can muddy a raw, live-room recording. In a barn with minimal acoustic treatment, a snare that resonated cleanly and decayed quickly was a practical necessity, not just a tonal preference. On \"Bring Your Daughter... to the Slaughter,\" the snare sits forward and dry — a noticeably different character from the more open crack of the late-80s records.\n\nTuned tighter than his 1980s setup, the snare delivered the punchy, almost aggressive backbeat that suits the album's leaner arrangements. Remo heads kept the attack consistent take after take, an important factor given the mobile studio's more limited overdub flexibility compared to a full residential facility.",
       "tuningSetting": "Tight, high tension for a dry, punchy crack",
       "heads": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side",
       "estimatedValue": "$350-450 (1990)"
@@ -1574,29 +1574,29 @@ export const articles = {
           "notes": "Aggressive accent for song transitions"
         }
       ],
-      "description": "Alongside the Pearl kit and snare, Nicko McBrain tracked No Prayer for the Dying on Zildjian A series cymbals rather than the Paiste 2002s that had defined his sound since the early 1980s. The Zildjian A's darker, drier character fit the album's rawer production values — less shimmer, more directness.\n\nThe 14\" New Beat hi-hats delivered a tighter, more controlled chick than the brighter Paiste 2002s, which mattered in the live-room barn setting where cymbal wash could easily bleed into other mics. \"Public Enema Number One\" and \"Tailgunner\" lean on fast, controlled hi-hat work that benefits from that tighter response.\n\nThe crash pairing (16\" and 18\") and 20\" ride followed Nicko's usual structure, but the Zildjian A's drier decay meant accents cut through the mix quickly without lingering — a better match for the more direct, less reverberant Barnyard Studios sound than the longer-sustaining Paiste cymbals would have offered.\n\nThe cymbal switch, like the Pearl kit and snare, proved to be a one-album experiment. By the time Iron Maiden reconvened for Fear of the Dark, Nicko's setup had already begun evolving again — but the Zildjian A sound on No Prayer for the Dying remains a distinct chapter in his gear history.",
+      "description": "Alongside his familiar Yamaha kit and snare, Nicko McBrain tracked No Prayer for the Dying on Zildjian A series cymbals rather than the Paiste 2002s that had defined his sound since the early 1980s. The Zildjian A's darker, drier character fit the album's rawer production values — less shimmer, more directness.\n\nThe 14\" New Beat hi-hats delivered a tighter, more controlled chick than the brighter Paiste 2002s, which mattered in the live-room barn setting where cymbal wash could easily bleed into other mics. \"Public Enema Number One\" and \"Tailgunner\" lean on fast, controlled hi-hat work that benefits from that tighter response.\n\nThe crash pairing (16\" and 18\") and 20\" ride followed Nicko's usual structure, but the Zildjian A's drier decay meant accents cut through the mix quickly without lingering — a better match for the more direct, less reverberant Barnyard Studios sound than the longer-sustaining Paiste cymbals would have offered.\n\nThe cymbal switch proved to be a one-album experiment; Nicko's Yamaha kit and snare, on the other hand, carried on unchanged. By the time Iron Maiden reconvened for Fear of the Dark, Nicko had gone back to Paiste — but the Zildjian A sound on No Prayer for the Dying remains a distinct chapter in his gear history.",
       "estimatedValue": "$1,300-1,600 total (1990)"
     },
     "hardware": {
-      "title": "Pearl Hardware for the Barnyard Sessions",
+      "title": "Yamaha Hardware for the Barnyard Sessions",
       "items": [
         {
           "type": "Bass Drum Pedal",
-          "brand": "Pearl",
-          "model": "Pearl P-201",
+          "brand": "Yamaha",
+          "model": "Yamaha Bass Drum Pedal",
           "notes": "Single pedal — the gear changed around him, but the one-foot gallop never did",
-          "description": "The Pearl P-201's direct chain-drive action gave Nicko a firm, responsive feel for the album's leaner, more aggressive tempos, from the galloping verses of \"Holy Smoke\" to the tightly wound stops of \"Bring Your Daughter... to the Slaughter.\""
+          "description": "The pedal's direct chain-drive action gave Nicko a firm, responsive feel for the album's leaner, more aggressive tempos, from the galloping verses of \"Holy Smoke\" to the tightly wound stops of \"Bring Your Daughter... to the Slaughter.\""
         },
         {
           "type": "Hi-Hat Stand",
-          "brand": "Pearl",
-          "model": "Pearl H-900",
-          "notes": "Matched the rest of the Export hardware package for the sessions"
+          "brand": "Yamaha",
+          "model": "Yamaha Hi-Hat Stand",
+          "notes": "Matched the rest of the hardware package for the sessions"
         },
         {
           "type": "Throne",
-          "brand": "Pearl",
-          "model": "Pearl D-1000",
+          "brand": "Yamaha",
+          "model": "Yamaha Drum Throne",
           "notes": "Standard drum throne for the barn sessions"
         },
         {
@@ -1614,11 +1614,11 @@ export const articles = {
     },
     "recordingTechniques": {
       "title": "Martin Birch and the Rolling Stones Mobile Studio, Inside a Barn",
-      "content": "No Prayer for the Dying was recorded in June 1990 at Barnyard Studios — not a conventional studio at all, but a barn on Steve Harris's Essex property, wired for recording using the Rolling Stones Mobile Studio, the same portable rig that had captured Led Zeppelin and Deep Purple sessions in the 1970s. Producer Martin Birch, who had worked with Iron Maiden since 1981's Killers, aimed for a rawer, more immediate sound than the layered production of Seventh Son of a Seventh Son.\n\n**Microphone Setup:**\n- Kick drum: AKG D12 inside, close-miked for the punchier Pearl shells\n- Snare: Shure SM57 top and bottom, capturing the dry crack of the Free-Floating design\n- Toms: Sennheiser MD421 on each tom\n- Hi-hat and overheads: AKG C451 pair, positioned to control bleed in the untreated barn space\n- Room mics: Minimal — the barn's natural ambience was used sparingly rather than as a featured element\n\n**A Deliberately Rougher Sound:**\nBirch and the band wanted No Prayer for the Dying to sound less polished than its predecessor — closer to a band playing live in a room than a meticulously constructed studio record. The barn setting, the mobile rig, and Nicko's gear switch to Pearl and Zildjian all served that goal. Where Seventh Son used the acoustic character of Musicland Studios to let synthesizer textures breathe, No Prayer used a rough, boxy room sound to emphasize directness and aggression.\n\n**Working Around a Non-Studio Space:**\nTracking drums in a barn rather than a purpose-built studio meant compromises — less predictable acoustics, more bleed between mics, fewer options for isolation. Nicko's tighter-tuned Pearl kit and dry Free-Floating snare were, in part, practical responses to those constraints as much as a deliberate tonal choice.",
+      "content": "No Prayer for the Dying was recorded in June 1990 at Barnyard Studios — not a conventional studio at all, but a barn on Steve Harris's Essex property, wired for recording using the Rolling Stones Mobile Studio, the same portable rig that had captured Led Zeppelin and Deep Purple sessions in the 1970s. Producer Martin Birch, who had worked with Iron Maiden since 1981's Killers, aimed for a rawer, more immediate sound than the layered production of Seventh Son of a Seventh Son.\n\n**Microphone Setup:**\n- Kick drum: AKG D12 inside, close-miked for the punchier, tighter-tuned Yamaha shells\n- Snare: Shure SM57 top and bottom, capturing the dry crack of the tightened tuning\n- Toms: Sennheiser MD421 on each tom\n- Hi-hat and overheads: AKG C451 pair, positioned to control bleed in the untreated barn space\n- Room mics: Minimal — the barn's natural ambience was used sparingly rather than as a featured element\n\n**A Deliberately Rougher Sound:**\nBirch and the band wanted No Prayer for the Dying to sound less polished than its predecessor — closer to a band playing live in a room than a meticulously constructed studio record. The barn setting, the mobile rig, and Nicko's tighter tuning and switch to Zildjian cymbals all served that goal. Where Seventh Son used the acoustic character of Musicland Studios to let synthesizer textures breathe, No Prayer used a rough, boxy room sound to emphasize directness and aggression.\n\n**Working Around a Non-Studio Space:**\nTracking drums in a barn rather than a purpose-built studio meant compromises — less predictable acoustics, more bleed between mics, fewer options for isolation. Nicko's tighter-tuned Yamaha kit and dry snare tuning were, in part, practical responses to those constraints as much as a deliberate tonal choice.",
       "keyTechniques": [
         "Recorded with the Rolling Stones Mobile Studio inside a barn on Steve Harris's Essex property",
         "Producer Martin Birch pursued a rawer, more live-sounding record than Seventh Son of a Seventh Son",
-        "Pearl Export kit and Free-Floating snare chosen partly to control resonance in an untreated room",
+        "Tighter Yamaha kit tuning and a drier snare setting chosen partly to control resonance in an untreated room",
         "Zildjian A cymbals' drier decay suited the barn's boxier acoustics better than Paiste 2002"
       ]
     },
@@ -1631,7 +1631,7 @@ export const articles = {
           "Lead single and the first Maiden track to feature Janick Gers",
           "Driving, uptempo gallop with tight hi-hat sixteenths",
           "Reached #3 on the UK Singles Chart",
-          "Punchy Pearl snare crack drives the verses"
+          "Punchy, tightly tuned Yamaha snare crack drives the verses"
         ],
         "gearNotes": "Zildjian A 14\" New Beat hi-hats deliver the tight chick needed for the fast verse pattern."
       },
@@ -1645,7 +1645,7 @@ export const articles = {
           "Aggressive, dry snare crack anchors the chorus",
           "One of Nicko's most recognizable performances of the era"
         ],
-        "gearNotes": "The Pearl Free-Floating snare's dry, controlled decay is central to the track's punchy verse dynamics."
+        "gearNotes": "The tightly tuned Yamaha snare's dry, controlled decay is central to the track's punchy verse dynamics."
       },
       {
         "track": "Public Enema Number One",
@@ -1664,16 +1664,16 @@ export const articles = {
         "signature": "4/4",
         "highlights": [
           "High-energy album track with rapid-fire verse patterns",
-          "Showcases the punchier low end of the Pearl kit's mahogany/basswood shells",
+          "Showcases the punchier low end of the tighter-tuned Yamaha shells",
           "Fast crash accents mark every chorus entry"
         ],
-        "gearNotes": "Pearl Export toms cut cleanly through the barn's live acoustics without excessive ring."
+        "gearNotes": "Yamaha toms cut cleanly through the barn's live acoustics without excessive ring."
       }
     ],
     "faq": [
       {
         "question": "What drum kit did Nicko McBrain use on No Prayer for the Dying?",
-        "answer": "Nicko McBrain recorded No Prayer for the Dying (1990) on a Pearl Export kit — a one-album departure from the Ludwig Classic Maple he had used from Piece of Mind (1983) through Seventh Son of a Seventh Son (1988). He paired it with a Pearl Free-Floating snare and switched from his longtime Paiste 2002 cymbals to Zildjian A series. The setup suited the rawer, more live-sounding production the band pursued at Barnyard Studios. For his full gear history, see the [Nicko McBrain drummer profile](/drummer/nicko-mcbrain)."
+        "answer": "Nicko McBrain recorded No Prayer for the Dying (1990) on the same Yamaha Recording Custom kit he'd played since Somewhere in Time (1986), tuned tighter and drier for the session. What did change was the cymbals: he switched from his longtime Paiste 2002 series to Zildjian A for this one album. The tighter tuning and cymbal swap suited the rawer, more live-sounding production the band pursued at Barnyard Studios. For his full gear history, see the [Nicko McBrain drummer profile](/drummer/nicko-mcbrain)."
       },
       {
         "question": "When did Iron Maiden release No Prayer for the Dying?",
@@ -1684,26 +1684,26 @@ export const articles = {
         "answer": "\"Bring Your Daughter... to the Slaughter,\" from No Prayer for the Dying, is Iron Maiden's only UK number one single. Originally written for the 1989 film A Nightmare on Elm Street 5: The Dream Child and re-recorded for the album, it was released as a single in December 1990 and entered the UK Singles Chart at number one, where it stayed for two weeks. It remains the sole chart-topping single of the band's career, despite decades of top-ten hits."
       },
       {
-        "question": "Why did Nicko McBrain switch from Ludwig and Paiste for this album?",
-        "answer": "No Prayer for the Dying was recorded in a barn using the Rolling Stones Mobile Studio rather than a conventional studio, and the band deliberately pursued a rawer, more stripped-down sound than Seventh Son of a Seventh Son. Nicko McBrain's switch to a Pearl Export kit, Pearl Free-Floating snare, and Zildjian A cymbals gave producer Martin Birch a punchier, drier tone that suited the untreated live-room acoustics better than his usual Ludwig/Paiste combination. It proved to be a one-album experiment — his setup continued evolving on subsequent albums."
+        "question": "Why does No Prayer for the Dying sound different from Nicko McBrain's other Iron Maiden albums?",
+        "answer": "No Prayer for the Dying was recorded in a barn using the Rolling Stones Mobile Studio rather than a conventional studio, and the band deliberately pursued a rawer, more stripped-down sound than Seventh Son of a Seventh Son. Nicko McBrain kept his usual Yamaha Recording Custom kit but tuned it noticeably tighter and drier, and swapped his longtime Paiste 2002 cymbals for Zildjian A — together giving producer Martin Birch a punchier, drier tone suited to the untreated live-room acoustics. The Zildjian cymbals proved to be a one-album experiment; he was back on Paiste by Fear of the Dark."
       },
       {
         "question": "How does No Prayer for the Dying compare to Seventh Son of a Seventh Son?",
-        "answer": "The two albums represent opposite production philosophies. Seventh Son of a Seventh Son (1988) was a polished, synthesizer-layered concept album recorded at Musicland Studios in Munich. No Prayer for the Dying (1990) was a deliberate reaction against that — a leaner, rawer record tracked in a barn with a mobile studio rig, following Adrian Smith's departure and Janick Gers's arrival. Nicko McBrain's drumming and gear shifted accordingly: from the dynamic, restrained playing and warm Ludwig maple tone of Seventh Son to the punchier, more aggressive Pearl and Zildjian setup on No Prayer. See the [Seventh Son of a Seventh Son drum setup article](/articles/seventh-son-drum-setup) for the preceding chapter."
+        "answer": "The two albums represent opposite production philosophies. Seventh Son of a Seventh Son (1988) was a polished, synthesizer-layered concept album recorded at Musicland Studios in Munich. No Prayer for the Dying (1990) was a deliberate reaction against that — a leaner, rawer record tracked in a barn with a mobile studio rig, following Adrian Smith's departure and Janick Gers's arrival. Nicko McBrain's drumming and gear shifted accordingly: from the dynamic, restrained playing and warm, open-tuned Yamaha tone of Seventh Son to the punchier, tighter-tuned Yamaha setup paired with Zildjian A cymbals on No Prayer. See the [Seventh Son of a Seventh Son drum setup article](/articles/seventh-son-drum-setup) for the preceding chapter."
       }
     ],
     "evolution": {
       "title": "No Prayer for the Dying in Nicko McBrain's Gear Progression",
-      "content": "No Prayer for the Dying (1990) stands apart in Nicko McBrain's gear history as a one-album experiment. It followed five years of Ludwig Classic Maple and Paiste 2002 consistency (Piece of Mind through Seventh Son of a Seventh Son) and preceded the Premier and Sonor eras that would define his 1990s and 2000s sound.\n\n**The founding era (1983-1988):** Ludwig Classic Maple, Paiste 2002, Ludwig Supraphonic snare, Ludwig Speed King pedal.\n\n**The Barnyard experiment (1990):** Pearl Export kit, Pearl Free-Floating snare, Zildjian A cymbals, Pearl P-201 pedal — a rawer setup for a rawer record, chosen to suit a barn session rather than a conventional studio.\n\n**What came next:** By the time of Fear of the Dark (1992) and beyond, Nicko's gear had continued to change again, eventually settling into the Premier Artist kit heard on Brave New World (2000) and later Sonor endorsements.\n\n**The constant:** One bass drum. One pedal — Pearl P-201 in 1990, just as it was Ludwig Speed King in 1988. Whatever else changed around the sessions, the single-pedal gallop never did.",
+      "content": "No Prayer for the Dying (1990) sits in the middle of Nicko McBrain's longest-running gear era. Signed to Pearl in 1984, he switched to Yamaha in 1985 and stayed on a Yamaha Recording Custom kit through 2010 — a 25-year run broken only by stylistic choices like the tighter tuning and one-album Zildjian A cymbal swap heard on this record.\n\n**The founding era (1982-1984):** Ludwig drums (Vistalite on debut, Classic Maple for the rest), Paiste 2002 cymbals, Pro-Mark sticks.\n\n**The Yamaha era (1985-2010):** Yamaha Recording Custom drums and Paiste cymbals defined Nicko's sound across Seventh Son of a Seventh Son, No Prayer for the Dying, Fear of the Dark, and every album through The Final Frontier — with No Prayer's Barnyard sessions standing out mainly for tighter tuning and a temporary switch to Zildjian A cymbals.\n\n**The Barnyard adjustment (1990):** Same Yamaha Recording Custom kit, tuned tighter and drier; Zildjian A cymbals in place of the usual Paiste 2002 — a rawer sound for a rawer, barn-recorded album.\n\n**What came next:** Fear of the Dark (1992) returned to Paiste cymbals while keeping the same Yamaha kit, and Nicko stayed on Yamaha through The Final Frontier (2010) before switching to Sonor.\n\n**The constant:** One bass drum. One pedal. Whatever else changed around the sessions, the single-pedal gallop never did.",
       "thenVsNow": [
         {
           "category": "Kit",
-          "then": "Pearl Export",
+          "then": "Yamaha Recording Custom",
           "now": "Sonor SQ1"
         },
         {
           "category": "Snare",
-          "then": "Pearl Free-Floating 14x6.5\"",
+          "then": "Yamaha Recording Custom Snare 14x6.5\"",
           "now": "Sonor Nicko McBrain Signature 14x6.5\""
         },
         {
@@ -1718,7 +1718,7 @@ export const articles = {
         },
         {
           "category": "Pedal",
-          "then": "Pearl P-201 single",
+          "then": "Yamaha single pedal",
           "now": "Sonor single pedal (still single!)"
         }
       ]
@@ -1749,7 +1749,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "The Album That Divided Fans — and Gave Iron Maiden Its Only Number One",
-      "content": "No Prayer for the Dying rarely tops fan rankings of Iron Maiden's catalog. Its rawer, barn-recorded sound and departure from the progressive ambitions of Seventh Son of a Seventh Son made it a divisive record from release. But in commercial terms, it delivered something no other Iron Maiden album has matched: a UK number one single.\n\nFor Nicko McBrain, the album represents a genuine one-off in his gear history. The Pearl Export kit, Pearl Free-Floating snare, and Zildjian A cymbals never returned after this session — a deliberate response to a specific recording environment and production philosophy that the band and Martin Birch chose not to repeat. It's a reminder that even the most consistent gear setups in metal history have their exceptions, and that those exceptions often tell the most interesting stories.\n\nRecorded in a barn with a mobile rig, marking Janick Gers's debut and Adrian Smith's exit, and delivering \"Bring Your Daughter... to the Slaughter\" to the top of the UK Singles Chart, No Prayer for the Dying occupies a strange, singular place in Iron Maiden's history — and Nicko's drumming, adapted to a punchier, drier gear setup, is very much part of that story.\n\nFor the fuller arc of Nicko's gear evolution across this period, see the [Seventh Son of a Seventh Son drum setup article](/articles/seventh-son-drum-setup) for what came before, and see the [Fear of the Dark drum setup article](/articles/fear-of-the-dark-drum-setup) for the chapter that followed."
+      "content": "No Prayer for the Dying rarely tops fan rankings of Iron Maiden's catalog. Its rawer, barn-recorded sound and departure from the progressive ambitions of Seventh Son of a Seventh Son made it a divisive record from release. But in commercial terms, it delivered something no other Iron Maiden album has matched: a UK number one single.\n\nFor Nicko McBrain, the album represents a distinct tuning chapter rather than a gear change: the same Yamaha Recording Custom kit he'd played since 1985, tightened up for the room, paired for one album with Zildjian A cymbals instead of his usual Paiste. Neither the tighter tuning nor the Zildjian cymbals carried over to the next session — a deliberate response to a specific recording environment and production philosophy that the band and Martin Birch chose not to repeat. It's a reminder that even the most consistent gear setups in metal history have their exceptions, and that those exceptions often tell the most interesting stories.\n\nRecorded in a barn with a mobile rig, marking Janick Gers's debut and Adrian Smith's exit, and delivering \"Bring Your Daughter... to the Slaughter\" to the top of the UK Singles Chart, No Prayer for the Dying occupies a strange, singular place in Iron Maiden's history — and Nicko's drumming, adapted to a punchier, drier gear setup, is very much part of that story.\n\nFor the fuller arc of Nicko's gear evolution across this period, see the [Seventh Son of a Seventh Son drum setup article](/articles/seventh-son-drum-setup) for what came before, and see the [Fear of the Dark drum setup article](/articles/fear-of-the-dark-drum-setup) for the chapter that followed."
     }
   },
   "fear-of-the-dark-drum-setup": {
@@ -1770,12 +1770,12 @@ export const articles = {
     "dateModified": "2026-07-01",
     "author": "MetalForge Editorial",
     "title": "Fear of the Dark Drum Setup: Nicko McBrain's Gear on Iron Maiden's UK #1 Album (1992)",
-    "description": "The complete gear breakdown for Iron Maiden's Fear of the Dark (1992). Discover Nicko McBrain's Pearl Reference kit and Paiste Signature cymbals behind the title track — one of the band's most iconic live staples — on Martin Birch's final Iron Maiden production.",
+    "description": "The complete gear breakdown for Iron Maiden's Fear of the Dark (1992). Discover Nicko McBrain's Yamaha Recording Custom kit and Paiste Signature cymbals behind the title track — one of the band's most iconic live staples — on Martin Birch's final Iron Maiden production.",
     "seoKeywords": [
       "nicko mcbrain 1992 kit",
       "iron maiden fear of the dark drums",
       "fear of the dark drum setup",
-      "nicko mcbrain pearl reference",
+      "nicko mcbrain yamaha recording custom",
       "iron maiden fear of the dark era drum setup",
       "what drums did nicko mcbrain play on fear of the dark"
     ],
@@ -1783,7 +1783,7 @@ export const articles = {
     "peakChart": "#1 UK Albums Chart",
     "intro": {
       "title": "Iron Maiden's Last Album with Bruce Dickinson Before His First Departure — and a Title Track for the Ages",
-      "content": "Released on May 11, 1992, Fear of the Dark gave Iron Maiden their fourth UK number one album and closed out an era. It was the last Iron Maiden studio record before Bruce Dickinson's departure in 1993, and the final album produced by Martin Birch, who had shaped the band's sound since 1981's Killers and would retire from production after this session.\n\nThe album arrived two years after No Prayer for the Dying, continuing with Janick Gers now fully embedded as the band's guitarist following his debut on that record. Where No Prayer had been tracked with a deliberately raw, stripped-down approach inside a barn using the Rolling Stones Mobile Studio, Fear of the Dark returned to Barnyard Studios with a fuller, more produced sound — closer in ambition to the mid-80s catalog than its immediate predecessor.\n\nCommercially, Fear of the Dark was a phenomenon: it debuted at number one in the UK, was certified two-times platinum, and gave the band one of the most recognizable songs of their career. The title track, with its singalong chorus and driving rhythm, became an instant live staple — to this day, it closes out nearly every Iron Maiden concert, with tens of thousands of fans singing the melody back at the band.\n\nFor Nicko McBrain, Fear of the Dark meant balancing Bruce Dickinson's increasingly operatic vocal melodies with the driving verse rhythms that had always anchored Iron Maiden's sound. \"Be Quick or Be Dead\" opens the album with one of Nicko's most urgent intro fills, while the nearly eight-minute title track demands the kind of dynamic control and pacing that only a decade of touring experience could deliver.\n\nThis article examines the Pearl Reference drum kit, Paiste Signature cymbals, and single-pedal technique behind Nicko McBrain's performance on what remains one of Iron Maiden's most commercially successful and enduring albums.",
+      "content": "Released on May 11, 1992, Fear of the Dark gave Iron Maiden their fourth UK number one album and closed out an era. It was the last Iron Maiden studio record before Bruce Dickinson's departure in 1993, and the final album produced by Martin Birch, who had shaped the band's sound since 1981's Killers and would retire from production after this session.\n\nThe album arrived two years after No Prayer for the Dying, continuing with Janick Gers now fully embedded as the band's guitarist following his debut on that record. Where No Prayer had been tracked with a deliberately raw, stripped-down approach inside a barn using the Rolling Stones Mobile Studio, Fear of the Dark returned to Barnyard Studios with a fuller, more produced sound — closer in ambition to the mid-80s catalog than its immediate predecessor.\n\nCommercially, Fear of the Dark was a phenomenon: it debuted at number one in the UK, was certified two-times platinum, and gave the band one of the most recognizable songs of their career. The title track, with its singalong chorus and driving rhythm, became an instant live staple — to this day, it closes out nearly every Iron Maiden concert, with tens of thousands of fans singing the melody back at the band.\n\nFor Nicko McBrain, Fear of the Dark meant balancing Bruce Dickinson's increasingly operatic vocal melodies with the driving verse rhythms that had always anchored Iron Maiden's sound. \"Be Quick or Be Dead\" opens the album with one of Nicko's most urgent intro fills, while the nearly eight-minute title track demands the kind of dynamic control and pacing that only a decade of touring experience could deliver.\n\nThis article examines the Yamaha Recording Custom drum kit, Paiste Signature cymbals, and single-pedal technique behind Nicko McBrain's performance on what remains one of Iron Maiden's most commercially successful and enduring albums.",
       "keyPoints": [
         "Debuted at #1 on the UK Albums Chart — certified 2× Platinum in the UK",
         "Martin Birch's final production credit before retiring from the studio",
@@ -1795,9 +1795,9 @@ export const articles = {
       ]
     },
     "drumKit": {
-      "title": "Nicko McBrain's Pearl Reference Setup",
-      "brand": "Pearl",
-      "model": "Pearl Reference Series",
+      "title": "Nicko McBrain's Yamaha Recording Custom Setup",
+      "brand": "Yamaha",
+      "model": "Yamaha Recording Custom",
       "finish": "Custom candy-red lacquer finish",
       "config": {
         "bassdrums": [
@@ -1811,12 +1811,12 @@ export const articles = {
           "16\" x 16\" Floor Tom",
           "18\" x 16\" Floor Tom"
         ],
-        "shells": "Birch/mahogany shells — focused low end with articulate attack"
+        "shells": "Birch shells, back to a more open tuning — focused low end with articulate attack"
       },
-      "description": "For Fear of the Dark, Nicko McBrain moved on from the one-album Pearl Export experiment of No Prayer for the Dying to a Pearl Reference Series kit, finished in a custom candy-red lacquer. The Reference Series' birch/mahogany shell composition gave Martin Birch a fuller, more controlled low end than the Export kit's punchier, drier character — better suited to a production that was, once again, aiming for scale rather than rawness.\n\nBack at Barnyard Studios but without the barn-session austerity of 1990, the Reference kit's shells provided a rounder, more resonant tone that filled out the mix behind Bruce Dickinson's increasingly expansive vocal arrangements. On the title track, the toms carry real weight during the extended instrumental midsection, while \"Afraid to Shoot Strangers\" leans on the kit's low-end warmth for its slower, more atmospheric verses.\n\nThe configuration held to Nicko's established layout: single 22\" bass drum, two rack toms, two floor toms. \"Be Quick or Be Dead\" opens the album with a rapid-fire intro fill across the full kit — one of the most urgent drum entrances in Nicko's catalog — before settling into the track's driving, uptempo gallop.\n\nAs on every Iron Maiden record before or since, the single-pedal bass drum was never in question. Whatever kit came and went — Ludwig, Pearl Export, now Pearl Reference — Nicko's one-foot gallop technique remained the constant.",
+      "description": "For Fear of the Dark, Nicko McBrain stayed on the same Yamaha Recording Custom kit he'd played since 1985, now finished in a custom candy-red lacquer and tuned back toward the fuller, more open sound of his mid-80s records after No Prayer for the Dying's tighter, drier barn tuning. The kit's birch shells gave Martin Birch a fuller, more controlled low end than the tighter No Prayer tuning — better suited to a production that was, once again, aiming for scale rather than rawness.\n\nBack at Barnyard Studios but without the barn-session austerity of 1990, the kit's shells provided a rounder, more resonant tone that filled out the mix behind Bruce Dickinson's increasingly expansive vocal arrangements. On the title track, the toms carry real weight during the extended instrumental midsection, while \"Afraid to Shoot Strangers\" leans on the kit's low-end warmth for its slower, more atmospheric verses.\n\nThe configuration held to Nicko's established layout: single 22\" bass drum, two rack toms, two floor toms. \"Be Quick or Be Dead\" opens the album with a rapid-fire intro fill across the full kit — one of the most urgent drum entrances in Nicko's catalog — before settling into the track's driving, uptempo gallop.\n\nAs on every Iron Maiden record before or since, the single-pedal bass drum was never in question. Whatever the tuning or finish, Nicko's one-foot gallop technique remained the constant.",
       "notes": [
-        "Pearl Reference Series in a custom candy-red lacquer finish — a step up from the plainer Pearl Export used on No Prayer for the Dying",
-        "Birch/mahogany shells for a fuller, more resonant low end than the Export kit",
+        "Same Yamaha Recording Custom kit used since 1985, now in a custom candy-red lacquer finish",
+        "Tuning opened back up after No Prayer for the Dying's tighter barn sound, for a fuller, more resonant low end",
         "Single 22\" bass drum maintained across every gear change of Nicko's career",
         "Two floor toms essential for the extended instrumental passages on the title track"
       ],
@@ -1824,11 +1824,11 @@ export const articles = {
     },
     "snare": {
       "title": "The Snare Behind the Title Track",
-      "brand": "Pearl",
-      "model": "Pearl Reference Series Snare",
+      "brand": "Yamaha",
+      "model": "Yamaha Recording Custom Snare",
       "size": "14\" x 6.5\"",
-      "shell": "Birch/mahogany shell",
-      "description": "Nicko McBrain paired the Reference Series kit with a matching Pearl Reference snare on Fear of the Dark, moving on from the Free-Floating design used on No Prayer for the Dying. The birch/mahogany shell delivered a fuller, warmer crack with more body than the drier, more clinical Free-Floating snare — a better match for the album's fuller production values.\n\nOn the title track, the snare sits confidently in the mix through both the verses and the massive singalong chorus, cutting cleanly above layered backing vocals without sounding harsh. \"Afraid to Shoot Strangers\" showcases the snare's dynamic range, moving from restrained ghost notes in the slower verses to full-force backbeats in the song's more urgent sections.\n\nTuned to a medium tension, the snare balanced crack and sustain — enough attack to drive \"Be Quick or Be Dead\" at tempo, enough body to avoid sounding thin on the album's more melodic passages.",
+      "shell": "Steel shell",
+      "description": "Nicko McBrain's Yamaha Recording Custom snare on Fear of the Dark was tuned back toward a fuller, more open voice after the tighter, drier setting used on No Prayer for the Dying. The more open tuning delivered a fuller, warmer crack with more body than the tighter, more clinical No Prayer sound — a better match for the album's fuller production values.\n\nOn the title track, the snare sits confidently in the mix through both the verses and the massive singalong chorus, cutting cleanly above layered backing vocals without sounding harsh. \"Afraid to Shoot Strangers\" showcases the snare's dynamic range, moving from restrained ghost notes in the slower verses to full-force backbeats in the song's more urgent sections.\n\nTuned to a medium tension, the snare balanced crack and sustain — enough attack to drive \"Be Quick or Be Dead\" at tempo, enough body to avoid sounding thin on the album's more melodic passages.",
       "tuningSetting": "Medium tension for a fuller, more resonant crack",
       "heads": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side",
       "estimatedValue": "$380-480 (1992)"
@@ -1873,25 +1873,25 @@ export const articles = {
       "estimatedValue": "$1,600-2,000 total (1992)"
     },
     "hardware": {
-      "title": "Pearl P-900 Hardware for the Barnyard Sessions",
+      "title": "Yamaha Hardware for the Barnyard Sessions",
       "items": [
         {
           "type": "Bass Drum Pedal",
-          "brand": "Pearl",
-          "model": "Pearl P-900 Series",
+          "brand": "Yamaha",
+          "model": "Yamaha Bass Drum Pedal",
           "notes": "Single pedal — the constant across every gear change in Nicko's career",
-          "description": "The Pearl P-900's direct-drive action gave Nicko a firm, responsive feel for the rapid-fire intro fill on \"Be Quick or Be Dead\" and the sustained galloping patterns that carry the title track."
+          "description": "The pedal's direct-drive action gave Nicko a firm, responsive feel for the rapid-fire intro fill on \"Be Quick or Be Dead\" and the sustained galloping patterns that carry the title track."
         },
         {
           "type": "Hi-Hat Stand",
-          "brand": "Pearl",
-          "model": "Pearl H-900",
-          "notes": "Matched hardware from the same Pearl 900 series lineup"
+          "brand": "Yamaha",
+          "model": "Yamaha Hi-Hat Stand",
+          "notes": "Matched hardware from the same Yamaha lineup"
         },
         {
           "type": "Throne",
-          "brand": "Pearl",
-          "model": "Pearl D-1000",
+          "brand": "Yamaha",
+          "model": "Yamaha Drum Throne",
           "notes": "Standard drum throne carried over from the No Prayer for the Dying sessions"
         },
         {
@@ -1909,7 +1909,7 @@ export const articles = {
     },
     "recordingTechniques": {
       "title": "Martin Birch's Final Session at Barnyard Studios",
-      "content": "Fear of the Dark was recorded in early 1992 at Barnyard Studios in Essex, with Martin Birch producing his last Iron Maiden album before retiring from studio work. After the deliberately rough, barn-session sound of No Prayer for the Dying, Birch aimed for a fuller, more layered production for what would prove to be a landmark commercial release.\n\n**Microphone Setup:**\n- Kick drum: AKG D12 inside, capturing the fuller low end of the Pearl Reference shells\n- Snare: Shure SM57 top and bottom, picking up the warmer crack of the Reference snare\n- Toms: Sennheiser MD421 on each tom\n- Hi-hat and overheads: AKG C451 pair\n- Room mics: Used more generously than on No Prayer for the Dying, restoring some of the ambient depth of the pre-1990 Iron Maiden records\n\n**A Fuller Sound for a Bigger Record:**\nBirch and the band moved away from the stripped-down austerity of the barn sessions, returning to a more produced, layered approach that suited Fear of the Dark's more melodic, arena-ready material. The title track in particular benefits from a drum sound with more natural room ambience than its immediate predecessor.\n\n**The End of an Era Behind the Board:**\nBirch's departure from production duties after this album closed out more than a decade of collaboration with Iron Maiden, stretching back to Killers (1981). His work on Fear of the Dark stands as a fitting closing chapter — a commercially massive record that gave the band one of its most enduring songs.",
+      "content": "Fear of the Dark was recorded in early 1992 at Barnyard Studios in Essex, with Martin Birch producing his last Iron Maiden album before retiring from studio work. After the deliberately rough, barn-session sound of No Prayer for the Dying, Birch aimed for a fuller, more layered production for what would prove to be a landmark commercial release.\n\n**Microphone Setup:**\n- Kick drum: AKG D12 inside, capturing the fuller low end of the Yamaha shells' more open tuning\n- Snare: Shure SM57 top and bottom, picking up the warmer crack of the reopened snare tuning\n- Toms: Sennheiser MD421 on each tom\n- Hi-hat and overheads: AKG C451 pair\n- Room mics: Used more generously than on No Prayer for the Dying, restoring some of the ambient depth of the pre-1990 Iron Maiden records\n\n**A Fuller Sound for a Bigger Record:**\nBirch and the band moved away from the stripped-down austerity of the barn sessions, returning to a more produced, layered approach that suited Fear of the Dark's more melodic, arena-ready material. The title track in particular benefits from a drum sound with more natural room ambience than its immediate predecessor.\n\n**The End of an Era Behind the Board:**\nBirch's departure from production duties after this album closed out more than a decade of collaboration with Iron Maiden, stretching back to Killers (1981). His work on Fear of the Dark stands as a fitting closing chapter — a commercially massive record that gave the band one of its most enduring songs.",
       "keyTechniques": [
         "Recorded at Barnyard Studios, Essex, early 1992",
         "Martin Birch's final production credit for Iron Maiden after over a decade of collaboration",
@@ -1939,7 +1939,7 @@ export const articles = {
           "Massive singalong chorus with crash accents timed to the melody",
           "A permanent fixture closing out Iron Maiden concerts for decades"
         ],
-        "gearNotes": "The Pearl Reference kit's fuller low end and the Paiste Signature Power Ride's bell anchor the long instrumental build before the final choruses."
+        "gearNotes": "The Yamaha kit's fuller, more open-tuned low end and the Paiste Signature Power Ride's bell anchor the long instrumental build before the final choruses."
       },
       {
         "track": "Afraid to Shoot Strangers",
@@ -1950,7 +1950,7 @@ export const articles = {
           "Restrained verses building to a heavier, double-time outro",
           "Showcases Nicko's dynamic range across a single song"
         ],
-        "gearNotes": "The Pearl Reference snare's warm crack handles both the restrained verse ghost notes and the full-force outro backbeats."
+        "gearNotes": "The Yamaha snare's warm, open-tuned crack handles both the restrained verse ghost notes and the full-force outro backbeats."
       },
       {
         "track": "Wasting Love",
@@ -1961,13 +1961,13 @@ export const articles = {
           "Sparse, brushed-feel verse drumming building to a full-band chorus",
           "Demonstrates restraint as a core part of Nicko's musical vocabulary"
         ],
-        "gearNotes": "Lightly played Reference toms and a controlled hi-hat pattern keep the verses spacious ahead of the chorus lift."
+        "gearNotes": "Lightly played Yamaha toms and a controlled hi-hat pattern keep the verses spacious ahead of the chorus lift."
       }
     ],
     "faq": [
       {
         "question": "What drum kit did Nicko McBrain use on Fear of the Dark?",
-        "answer": "Nicko McBrain recorded Fear of the Dark (1992) on a Pearl Reference Series kit finished in a custom candy-red lacquer, paired with a matching Pearl Reference snare. It replaced the Pearl Export kit used on No Prayer for the Dying (1990), offering a fuller, more resonant birch/mahogany shell tone suited to the album's bigger production. The configuration held to his usual layout: a single 22\" bass drum, two rack toms, and two floor toms. See the [Nicko McBrain drummer profile](/drummer/nicko-mcbrain) for his full gear history."
+        "answer": "Nicko McBrain recorded Fear of the Dark (1992) on the same Yamaha Recording Custom kit he'd played since 1985, finished in a custom candy-red lacquer and tuned back to a fuller, more open voice after the tighter barn tuning used on No Prayer for the Dying (1990). The birch shells delivered a fuller, more resonant tone suited to the album's bigger production. The configuration held to his usual layout: a single 22\" bass drum, two rack toms, and two floor toms. See the [Nicko McBrain drummer profile](/drummer/nicko-mcbrain) for his full gear history."
       },
       {
         "question": "What cymbals does Nicko McBrain play?",
@@ -1983,21 +1983,21 @@ export const articles = {
       },
       {
         "question": "How does Fear of the Dark compare to No Prayer for the Dying?",
-        "answer": "The two albums sit close together chronologically but differ sharply in approach. No Prayer for the Dying (1990) was recorded with deliberate rawness in a barn using the Rolling Stones Mobile Studio, with Nicko McBrain switching to a punchier Pearl Export kit and drier Zildjian A cymbals. Fear of the Dark (1992) returned to a fuller, more produced sound at Barnyard Studios, with Nicko moving to a Pearl Reference kit and Paiste Signature cymbals that better suited the album's bigger, more melodic arrangements. Commercially, Fear of the Dark was the clear winner — a number-one, 2x-platinum album against No Prayer's number-two showing. See the [No Prayer for the Dying drum setup article](/articles/no-prayer-for-the-dying-drum-setup) for that preceding chapter."
+        "answer": "The two albums sit close together chronologically but differ sharply in approach. No Prayer for the Dying (1990) was recorded with deliberate rawness in a barn using the Rolling Stones Mobile Studio, with Nicko McBrain tuning his Yamaha kit punchier and tighter and switching to drier Zildjian A cymbals. Fear of the Dark (1992) returned to a fuller, more produced sound at Barnyard Studios, with Nicko opening the tuning back up on the same Yamaha kit and returning to Paiste Signature cymbals that better suited the album's bigger, more melodic arrangements. Commercially, Fear of the Dark was the clear winner — a number-one, 2x-platinum album against No Prayer's number-two showing. See the [No Prayer for the Dying drum setup article](/articles/no-prayer-for-the-dying-drum-setup) for that preceding chapter."
       }
     ],
     "evolution": {
       "title": "Fear of the Dark in Nicko McBrain's Gear Progression",
-      "content": "Fear of the Dark (1992) fills a crucial gap in Nicko McBrain's gear history, sitting between the one-album Barnyard experiment of No Prayer for the Dying (1990) and the Premier Artist era that would define Brave New World (2000) and the reunion years.\n\n**The founding era (1983-1988):** Ludwig Classic Maple, Paiste 2002, Ludwig Supraphonic snare, Ludwig Speed King pedal.\n\n**The Barnyard experiment (1990):** Pearl Export kit, Pearl Free-Floating snare, Zildjian A cymbals, Pearl P-201 pedal.\n\n**The Fear of the Dark era (1992):** Pearl Reference Series kit, Pearl Reference snare, Paiste Signature cymbals, Pearl P-900 pedal — a return to Paiste and a fuller, more resonant drum tone for Iron Maiden's biggest commercial peak of the decade.\n\n**What came next:** By Brave New World (2000), Nicko's kit had shifted to Premier Artist, though the Paiste cymbal relationship begun on Fear of the Dark continued through the reunion era and beyond.\n\n**The constant:** One bass drum, one pedal. Pearl P-900 in 1992, just as it was Pearl P-201 in 1990 and Ludwig Speed King in 1988 — the single-pedal gallop never changed, no matter what else did.",
+      "content": "Fear of the Dark (1992) fills a crucial gap in Nicko McBrain's gear history, sitting between the tighter-tuned Barnyard chapter of No Prayer for the Dying (1990) and the reunion years that followed. Through all of it, the drum kit itself never changed: the same Yamaha Recording Custom he'd played since 1985 stayed with him through 2010.\n\n**The founding era (1982-1984):** Ludwig drums, Paiste 2002, Pro-Mark sticks.\n\n**The Barnyard adjustment (1990):** Same Yamaha Recording Custom kit, tuned tighter and drier, Zildjian A cymbals.\n\n**The Fear of the Dark era (1992):** Same Yamaha Recording Custom kit, tuning opened back up, Paiste Signature cymbals — a return to Paiste and a fuller, more resonant drum tone for Iron Maiden's biggest commercial peak of the decade.\n\n**What came next:** Nicko stayed on the same Yamaha Recording Custom kit all the way through Brave New World (2000), Dance of Death (2003), A Matter of Life and Death (2006), and The Final Frontier (2010), with the Paiste cymbal relationship begun again here continuing through the reunion era and beyond.\n\n**The constant:** One bass drum, one pedal. The single-pedal gallop never changed, no matter what else did.",
       "thenVsNow": [
         {
           "category": "Kit",
-          "then": "Pearl Reference Series",
+          "then": "Yamaha Recording Custom",
           "now": "Sonor SQ1"
         },
         {
           "category": "Snare",
-          "then": "Pearl Reference 14x6.5\"",
+          "then": "Yamaha Recording Custom 14x6.5\"",
           "now": "Sonor Nicko McBrain Signature 14x6.5\""
         },
         {
@@ -2012,7 +2012,7 @@ export const articles = {
         },
         {
           "category": "Pedal",
-          "then": "Pearl P-900 single",
+          "then": "Yamaha single pedal",
           "now": "Sonor single pedal (still single!)"
         }
       ]
@@ -2041,7 +2041,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "The Commercial Peak That Fills a Four-Year Gap",
-      "content": "Fear of the Dark closed out an era for Iron Maiden — Martin Birch's last production, Bruce Dickinson's last album before his first departure, and the band's biggest commercial success of the 1990s. Its title track has outlived every chart position and sales certification to become one of metal's most enduring live anthems, sung back to the band at nearly every show since.\n\nFor Nicko McBrain, the album marks a return to form after the one-off Barnyard experiment of No Prayer for the Dying: a fuller Pearl Reference kit and a return to Paiste, now in Signature form, gave him the tonal foundation for the biggest chorus of his recording career. It's the missing chapter between the progressive ambition of Seventh Son of a Seventh Son (1988) and the reunion-era triumph of Brave New World (2000) — the record that shows Nicko's gear, and his playing, adapting to Iron Maiden at its most commercially dominant.\n\nDebuting at number one in the UK, certified 2× Platinum, and still closing out Iron Maiden's setlists three decades later, Fear of the Dark stands as one of Nicko McBrain's most significant recorded performances — and a fitting bridge in his four-decade gear evolution.\n\nFor the fuller arc, see the [Seventh Son of a Seventh Son drum setup article](/articles/seventh-son-drum-setup) for what came before this era, and the [No Prayer for the Dying drum setup article](/articles/no-prayer-for-the-dying-drum-setup) for the transitional chapter that preceded it."
+      "content": "Fear of the Dark closed out an era for Iron Maiden — Martin Birch's last production, Bruce Dickinson's last album before his first departure, and the band's biggest commercial success of the 1990s. Its title track has outlived every chart position and sales certification to become one of metal's most enduring live anthems, sung back to the band at nearly every show since.\n\nFor Nicko McBrain, the album marks a return to a fuller, more open sound after the deliberately tight, dry tuning of No Prayer for the Dying: the same Yamaha Recording Custom kit, opened back up, and a return to Paiste, now in Signature form, gave him the tonal foundation for the biggest chorus of his recording career. It's the missing chapter between the progressive ambition of Seventh Son of a Seventh Son (1988) and the reunion-era triumph of Brave New World (2000) — the record that shows Nicko's playing, and his tuning choices, adapting to Iron Maiden at its most commercially dominant even as the kit underneath stayed the same.\n\nDebuting at number one in the UK, certified 2× Platinum, and still closing out Iron Maiden's setlists three decades later, Fear of the Dark stands as one of Nicko McBrain's most significant recorded performances — and a fitting bridge in his four-decade gear evolution.\n\nFor the fuller arc, see the [Seventh Son of a Seventh Son drum setup article](/articles/seventh-son-drum-setup) for what came before this era, and the [No Prayer for the Dying drum setup article](/articles/no-prayer-for-the-dying-drum-setup) for the transitional chapter that preceded it."
     }
   },
   "whats-in-nicko-mcbrains-kit": {
@@ -2352,7 +2352,7 @@ export const articles = {
     "dateModified": "2026-06-27",
     "author": "MetalForge Editorial",
     "title": "Brave New World Drum Setup: Nicko McBrain's Gear on Iron Maiden's 2000 Reunion Masterpiece",
-    "description": "The complete gear breakdown for Iron Maiden's Brave New World (2000). Discover the Premier Artist kit, Paiste cymbals, and single bass drum technique behind 'The Wicker Man' and Nicko McBrain's reunion-era drumming.",
+    "description": "The complete gear breakdown for Iron Maiden's Brave New World (2000). Discover the Yamaha Recording Custom kit, Paiste cymbals, and single bass drum technique behind 'The Wicker Man' and Nicko McBrain's reunion-era drumming.",
     "seoKeywords": [
       "nicko mcbrain brave new world drums",
       "iron maiden 2000 drum kit",
@@ -2365,10 +2365,10 @@ export const articles = {
     "peakChart": "#1 UK, #1 Germany, #39 US Billboard 200",
     "intro": {
       "title": "The Album That Brought Bruce Dickinson Back — and Cemented Nicko's Legacy",
-      "content": "Released on May 29, 2000, Brave New World is one of the most significant albums in Iron Maiden's history: it marked the return of vocalist Bruce Dickinson and guitarist Adrian Smith after years apart. Debuting at number one in the UK charts and Germany, it announced that Iron Maiden had not only survived the 1990s but returned stronger than ever.\n\nFor Nicko McBrain, Brave New World represented a creative renaissance. The reunion of the classic Iron Maiden lineup — Bruce, Adrian, Dave Murray, Janick Gers, Steve Harris, and Nicko — brought renewed energy and ambition to the recording sessions at Barnyard Studios in Essex, England. Produced by Kevin Shirley and Steve Harris, the album blended Iron Maiden's classic NWOBHM gallop with ambitious progressive structures.\n\nThe opening track, 'The Wicker Man,' became an instant classic — and its intro gallop is one of Nicko McBrain's most recognizable drum moments in the 21st century. The combination of single-bass kick gallop, driving hi-hat patterns, and explosive fills demonstrated that Nicko's technique had lost none of its power across the 1990s.\n\nBrave New World reached number one in the UK and Germany, and number 39 on the US Billboard 200. It launched the Brave New World World Tour spanning 2000–2002, taking Iron Maiden back to arenas worldwide. The album is the most-searched Iron Maiden reunion record in online queries and represents the essential bridge between the classic 1980s catalog and the band's 21st-century resurgence.\n\nThis article examines the Premier Artist drum kit, Paiste cymbals, and single-pedal technique that powered Nicko McBrain's reunion-era performance on one of heavy metal's greatest comeback albums.",
+      "content": "Released on May 29, 2000, Brave New World is one of the most significant albums in Iron Maiden's history: it marked the return of vocalist Bruce Dickinson and guitarist Adrian Smith after years apart. Debuting at number one in the UK charts and Germany, it announced that Iron Maiden had not only survived the 1990s but returned stronger than ever.\n\nFor Nicko McBrain, Brave New World represented a creative renaissance. The reunion of the classic Iron Maiden lineup — Bruce, Adrian, Dave Murray, Janick Gers, Steve Harris, and Nicko — brought renewed energy and ambition to the recording sessions at Barnyard Studios in Essex, England. Produced by Kevin Shirley and Steve Harris, the album blended Iron Maiden's classic NWOBHM gallop with ambitious progressive structures.\n\nThe opening track, 'The Wicker Man,' became an instant classic — and its intro gallop is one of Nicko McBrain's most recognizable drum moments in the 21st century. The combination of single-bass kick gallop, driving hi-hat patterns, and explosive fills demonstrated that Nicko's technique had lost none of its power across the 1990s.\n\nBrave New World reached number one in the UK and Germany, and number 39 on the US Billboard 200. It launched the Brave New World World Tour spanning 2000–2002, taking Iron Maiden back to arenas worldwide. The album is the most-searched Iron Maiden reunion record in online queries and represents the essential bridge between the classic 1980s catalog and the band's 21st-century resurgence.\n\nThis article examines the Yamaha Recording Custom drum kit, Paiste cymbals, and single-pedal technique that powered Nicko McBrain's reunion-era performance on one of heavy metal's greatest comeback albums.",
       "keyPoints": [
         "Reunion album with Bruce Dickinson and Adrian Smith returning — UK #1, Germany #1",
-        "Premier Artist kit — Nicko's professional setup during the reunion era",
+        "Yamaha Recording Custom kit — Nicko's professional setup during the reunion era",
         "Paiste cymbals — longtime endorsement through reunion and beyond",
         "'The Wicker Man' intro gallop is one of Nicko's most iconic 21st-century drum moments",
         "Single bass drum maintained — the hallmark single-pedal technique throughout",
@@ -2376,9 +2376,9 @@ export const articles = {
       ]
     },
     "drumKit": {
-      "title": "Nicko McBrain's Premier Artist Setup",
-      "brand": "Premier",
-      "model": "Premier Artist",
+      "title": "Nicko McBrain's Yamaha Recording Custom Setup",
+      "brand": "Yamaha",
+      "model": "Yamaha Recording Custom",
       "finish": "Lacquer finish",
       "config": {
         "bassdrums": [
@@ -2395,9 +2395,9 @@ export const articles = {
         ],
         "shells": "Birch/basswood shells — punchy attack with focused sustain"
       },
-      "description": "Nicko McBrain recorded Brave New World on a Premier Artist kit — his professional setup during the reunion era. Premier's shells delivered the punchy, focused attack that sits well in Kevin Shirley's powerful, forward-driving production style. Shirley, who would go on to produce multiple Iron Maiden albums, favoured a powerful live drum sound with minimal electronic processing, and the Premier Artist's natural character served that approach perfectly.\n\nThe configuration expanded slightly compared to the 1980s albums: three rack toms gave Nicko more fill options for the album's progressive song structures, while the two floor toms retained their role in cascading patterns. The additional rack tom opened new melodic pathways in fills on longer tracks like 'Blood Brothers' and 'Dream of Mirrors.'\n\nThe single 22-inch bass drum remained inviolable. Despite the pressures of modern metal production to adopt double bass, Nicko maintained his lifelong single-pedal commitment. On 'The Wicker Man,' the galloping bass drum pattern at the intro — one of his most recognizable moments — demonstrates what single-pedal technique can achieve at professional tempos.\n\nKevin Shirley's production at Barnyard Studios captured the drums with a powerful, present quality distinct from the ambient warmth of the Martin Birch era. The Premier shells' birch/basswood construction provided tighter, more focused transients that suited Shirley's direct, punchy recording approach.",
+      "description": "Nicko McBrain recorded Brave New World on a Yamaha Recording Custom kit — his professional setup during the reunion era. Yamaha's shells delivered the punchy, focused attack that sits well in Kevin Shirley's powerful, forward-driving production style. Shirley, who would go on to produce multiple Iron Maiden albums, favoured a powerful live drum sound with minimal electronic processing, and the Yamaha Recording Custom's natural character served that approach perfectly.\n\nThe configuration expanded slightly compared to the 1980s albums: three rack toms gave Nicko more fill options for the album's progressive song structures, while the two floor toms retained their role in cascading patterns. The additional rack tom opened new melodic pathways in fills on longer tracks like 'Blood Brothers' and 'Dream of Mirrors.'\n\nThe single 22-inch bass drum remained inviolable. Despite the pressures of modern metal production to adopt double bass, Nicko maintained his lifelong single-pedal commitment. On 'The Wicker Man,' the galloping bass drum pattern at the intro — one of his most recognizable moments — demonstrates what single-pedal technique can achieve at professional tempos.\n\nKevin Shirley's production at Barnyard Studios captured the drums with a powerful, present quality distinct from the ambient warmth of the Martin Birch era. The Yamaha shells' birch/basswood construction provided tighter, more focused transients that suited Shirley's direct, punchy recording approach.",
       "notes": [
-        "Premier Artist birch/basswood shells — punchy, controlled tone for Shirley's direct production",
+        "Yamaha Recording Custom birch/basswood shells — punchy, controlled tone for Shirley's direct production",
         "Three rack toms for extended fill vocabulary on progressive track structures",
         "Single 22-inch bass drum — unwavering single-pedal commitment into the 21st century",
         "Two floor toms for cascading melodic fills across the album"
@@ -2406,11 +2406,11 @@ export const articles = {
     },
     "snare": {
       "title": "The Crack of the Reunion",
-      "brand": "Premier",
-      "model": "Premier Signia Snare",
+      "brand": "Yamaha",
+      "model": "Yamaha Recording Custom Snare",
       "size": "14\" x 6.5\"",
       "shell": "Maple shell",
-      "description": "Nicko McBrain's snare on Brave New World was a Premier Signia — a maple-shell snare that delivered warm, projecting backbeats suited to Kevin Shirley's powerful production. The 6.5-inch depth produced a fuller, rounder crack compared to the shallower 5-inch Ludwig Supraphonic of the 1980s albums, reflecting the evolution in Nicko's snare preferences as drum production standards shifted into the 21st century.\n\nThe maple shell added warmth and sustain to the snare sound, complementing the album's more expansive, melodic production compared to the punchy directness of the classic Birch-produced albums. On tracks like 'The Wicker Man' and 'Brave New World' (title track), the snare sits forward in Shirley's mix with clear, powerful authority.\n\nTuned to medium tension for Brave New World, the snare delivered both crisp rimshots on heavy accents and clear ghost notes in the verses. This dynamic range — from whisper to crack — was essential for the album's progressive structures, where Nicko needed to support atmospheric passages as much as full-throttle metal.",
+      "description": "Nicko McBrain's snare on Brave New World was a Yamaha Recording Custom — a maple-shell snare that delivered warm, projecting backbeats suited to Kevin Shirley's powerful production. The 6.5-inch depth produced a fuller, rounder crack compared to the shallower 5-inch steel snare of his 1980s recordings, reflecting the evolution in Nicko's snare preferences as drum production standards shifted into the 21st century.\n\nThe maple shell added warmth and sustain to the snare sound, complementing the album's more expansive, melodic production compared to the punchy directness of the classic Birch-produced albums. On tracks like 'The Wicker Man' and 'Brave New World' (title track), the snare sits forward in Shirley's mix with clear, powerful authority.\n\nTuned to medium tension for Brave New World, the snare delivered both crisp rimshots on heavy accents and clear ghost notes in the verses. This dynamic range — from whisper to crack — was essential for the album's progressive structures, where Nicko needed to support atmospheric passages as much as full-throttle metal.",
       "tuningSetting": "Medium tension for warmth and projection",
       "heads": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side",
       "estimatedValue": "$400-600 (2000)"
@@ -2465,21 +2465,21 @@ export const articles = {
       "items": [
         {
           "type": "Bass Drum Pedal",
-          "brand": "Premier",
-          "model": "Premier single bass drum pedal",
+          "brand": "Yamaha",
+          "model": "Yamaha single bass drum pedal",
           "notes": "Single pedal — Nicko's unwavering single-bass commitment through the reunion era and beyond",
-          "description": "Into the 21st century, Nicko maintained the single-bass philosophy that had defined his playing since joining Iron Maiden in 1982. The Premier pedal on Brave New World powered the gallop on 'The Wicker Man' and every track on the album — proof that single-pedal technique remained fully capable in modern metal contexts."
+          "description": "Into the 21st century, Nicko maintained the single-bass philosophy that had defined his playing since joining Iron Maiden in 1982. The Yamaha pedal on Brave New World powered the gallop on 'The Wicker Man' and every track on the album — proof that single-pedal technique remained fully capable in modern metal contexts."
         },
         {
           "type": "Hi-Hat Stand",
-          "brand": "Premier",
-          "model": "Premier Heavy-Duty Hi-Hat Stand",
+          "brand": "Yamaha",
+          "model": "Yamaha Heavy-Duty Hi-Hat Stand",
           "notes": "Solid footing for fast hi-hat work at tempo"
         },
         {
           "type": "Throne",
-          "brand": "Premier",
-          "model": "Premier Percussion Throne",
+          "brand": "Yamaha",
+          "model": "Yamaha Percussion Throne",
           "notes": "Stable and ergonomic for long studio and tour sessions"
         },
         {
@@ -2497,7 +2497,7 @@ export const articles = {
     },
     "recordingTechniques": {
       "title": "Kevin Shirley at Barnyard Studios: The Reunion Sound",
-      "content": "Kevin Shirley brought a distinctly different production philosophy to Brave New World compared to the Martin Birch era. Where Birch favoured natural room ambience and measured balance, Shirley's approach was more immediate and powerful — drums forward, guitars massive, a sound built for arenas from the first bar.\n\nBarnyard Studios in Essex provided a comfortable creative environment close to the band's home base. The facility's live room captured the Premier kit with focus and power, and Shirley's microphone choices emphasised attack and clarity over ambient warmth.\n\n**Microphone Setup:**\n- Kick drum: AKG D112 inside, Shure Beta 52 outside — punchy low-end definition\n- Snare: Shure SM57 top, AKG C414 bottom\n- Toms: Sennheiser MD421 on each tom\n- Hi-hat: AKG C451\n- Overheads: Neumann U87s in spaced pair\n- Room mics: Selected room mics for controlled ambience\n\n**Shirley's Philosophy:**\nUnlike the natural, live-room approach of the Birch era, Shirley shaped the drum sound more assertively in the mix — ensuring the drums hit with immediate impact on first listen. The result on Brave New World is a drum sound that is simultaneously powerful and clear: the kick drives, the snare cracks, the cymbals shimmer without overwhelming.\n\n**Performance Approach:**\nNicko McBrain recorded Brave New World in complete takes, maintaining the organic feel that had characterised Iron Maiden's studio work across four decades. The reunion atmosphere — performing alongside Bruce Dickinson and Adrian Smith for the first time in years — brought particular energy to the sessions.",
+      "content": "Kevin Shirley brought a distinctly different production philosophy to Brave New World compared to the Martin Birch era. Where Birch favoured natural room ambience and measured balance, Shirley's approach was more immediate and powerful — drums forward, guitars massive, a sound built for arenas from the first bar.\n\nBarnyard Studios in Essex provided a comfortable creative environment close to the band's home base. The facility's live room captured the Yamaha kit with focus and power, and Shirley's microphone choices emphasised attack and clarity over ambient warmth.\n\n**Microphone Setup:**\n- Kick drum: AKG D112 inside, Shure Beta 52 outside — punchy low-end definition\n- Snare: Shure SM57 top, AKG C414 bottom\n- Toms: Sennheiser MD421 on each tom\n- Hi-hat: AKG C451\n- Overheads: Neumann U87s in spaced pair\n- Room mics: Selected room mics for controlled ambience\n\n**Shirley's Philosophy:**\nUnlike the natural, live-room approach of the Birch era, Shirley shaped the drum sound more assertively in the mix — ensuring the drums hit with immediate impact on first listen. The result on Brave New World is a drum sound that is simultaneously powerful and clear: the kick drives, the snare cracks, the cymbals shimmer without overwhelming.\n\n**Performance Approach:**\nNicko McBrain recorded Brave New World in complete takes, maintaining the organic feel that had characterised Iron Maiden's studio work across four decades. The reunion atmosphere — performing alongside Bruce Dickinson and Adrian Smith for the first time in years — brought particular energy to the sessions.",
       "keyTechniques": [
         "Shirley's forward, powerful drum placement in the mix — different from Birch's balanced approach",
         "AKG D112 kick mic for punchy, defined low end in modern metal production",
@@ -2516,7 +2516,7 @@ export const articles = {
           "Driving 16th-note hi-hat underpins the relentless forward momentum",
           "Explosive fills into each chorus mark the song's emotional peaks"
         ],
-        "gearNotes": "The Premier bass drum and Paiste Signature hi-hats are the engine of this track. The snare crack on the backbeat is immediately present in Shirley's mix."
+        "gearNotes": "The Yamaha bass drum and Paiste Signature hi-hats are the engine of this track. The snare crack on the backbeat is immediately present in Shirley's mix."
       },
       {
         "track": "Ghost of the Navigator",
@@ -2558,7 +2558,7 @@ export const articles = {
     "faq": [
       {
         "question": "What drums does Nicko McBrain use on Brave New World?",
-        "answer": "Nicko McBrain recorded Brave New World (2000) on a Premier Artist kit — his professional setup during the Iron Maiden reunion era. The configuration featured a single 22-inch bass drum, three rack toms (10, 12, and 13 inch), and two floor toms (16 and 18 inch). The birch/basswood shells delivered a punchy, focused tone suited to Kevin Shirley's powerful production approach at Barnyard Studios. For Nicko's complete gear history across his Iron Maiden career, see the [Nicko McBrain drummer profile](/drummer/nicko-mcbrain)."
+        "answer": "Nicko McBrain recorded Brave New World (2000) on a Yamaha Recording Custom kit — his professional setup during the Iron Maiden reunion era. The configuration featured a single 22-inch bass drum, three rack toms (10, 12, and 13 inch), and two floor toms (16 and 18 inch). The birch/basswood shells delivered a punchy, focused tone suited to Kevin Shirley's powerful production approach at Barnyard Studios. For Nicko's complete gear history across his Iron Maiden career, see the [Nicko McBrain drummer profile](/drummer/nicko-mcbrain)."
       },
       {
         "question": "What is Nicko McBrain's technique on The Wicker Man?",
@@ -2570,16 +2570,16 @@ export const articles = {
       },
       {
         "question": "How much did Nicko McBrain's Brave New World kit cost?",
-        "answer": "Nicko McBrain's Premier Artist kit in the Brave New World era would have cost approximately $2,500 to $3,500 new in 2000. The Premier Signia snare added $400 to $600, and a full Paiste Signature cymbal setup ranged from $2,000 to $3,000 depending on the exact cymbals selected. Vic Firth Nicko McBrain Signature sticks retailed at approximately $15 to $20 per pair. Total estimated cost for a comparable setup: $5,000 to $7,000."
+        "answer": "Nicko McBrain's Yamaha Recording Custom kit in the Brave New World era would have cost approximately $2,500 to $3,500 new in 2000. The Yamaha Recording Custom snare added $400 to $600, and a full Paiste Signature cymbal setup ranged from $2,000 to $3,000 depending on the exact cymbals selected. Vic Firth Nicko McBrain Signature sticks retailed at approximately $15 to $20 per pair. Total estimated cost for a comparable setup: $5,000 to $7,000."
       }
     ],
     "evolution": {
       "title": "From Seventh Son to Brave New World: The Reunion Gear Chapter",
-      "content": "Brave New World marks the opening of Nicko McBrain's 21st-century gear chapter. After the 1990s albums Virtual XI and The X Factor (recorded without Bruce Dickinson), the reunion brought renewed energy to the band's creative direction — and a refreshed approach to Nicko's setup.\n\n**The arc around Brave New World:**\n- **Seventh Son of a Seventh Son (1988):** Premier kit with electronics, progressive concept album\n- **No Prayer for the Dying (1990) / Fear of the Dark (1992):** Return to raw, stripped-down production\n- **The X Factor (1995) / Virtual XI (1998):** Albums without Bruce Dickinson\n- **Brave New World (2000):** Reunion, Premier Artist, Paiste Signature cymbals, Kevin Shirley production\n- **Dance of Death (2003) / A Matter of Life and Death (2006):** Evolution continues\n\n**What stayed constant:** The single bass drum pedal. From Piece of Mind in 1983 through Brave New World in 2000 and beyond, Nicko's single-pedal commitment never wavered. Every gallop, every driving verse groove, every album — one pedal.\n\n**The Paiste Signature transition:** By Brave New World, Nicko had moved from the Paiste 2002 series of the 1980s to the Paiste Signature series — a darker, richer, more complex cymbal voice that suited the band's more expansive 21st-century sound.",
+      "content": "Brave New World marks the opening of Nicko McBrain's 21st-century gear chapter. After the 1990s albums Virtual XI and The X Factor (recorded without Bruce Dickinson), the reunion brought renewed energy to the band's creative direction — and a refreshed approach to Nicko's setup.\n\n**The arc around Brave New World:**\n- **Seventh Son of a Seventh Son (1988):** Yamaha kit with electronics, progressive concept album\n- **No Prayer for the Dying (1990) / Fear of the Dark (1992):** Return to raw, stripped-down production\n- **The X Factor (1995) / Virtual XI (1998):** Albums without Bruce Dickinson\n- **Brave New World (2000):** Reunion, Yamaha Recording Custom, Paiste Signature cymbals, Kevin Shirley production\n- **Dance of Death (2003) / A Matter of Life and Death (2006):** Evolution continues\n\n**What stayed constant:** The single bass drum pedal. From Piece of Mind in 1983 through Brave New World in 2000 and beyond, Nicko's single-pedal commitment never wavered. Every gallop, every driving verse groove, every album — one pedal.\n\n**The Paiste Signature transition:** By Brave New World, Nicko had moved from the Paiste 2002 series of the 1980s to the Paiste Signature series — a darker, richer, more complex cymbal voice that suited the band's more expansive 21st-century sound.",
       "thenVsNow": [
         {
           "category": "Kit",
-          "then": "Premier Artist (2000)",
+          "then": "Yamaha Recording Custom (2000)",
           "now": "Sonor SQ1"
         },
         {
@@ -2589,7 +2589,7 @@ export const articles = {
         },
         {
           "category": "Snare",
-          "then": "Premier Signia 14x6.5\"",
+          "then": "Yamaha Recording Custom 14x6.5\"",
           "now": "Sonor Nicko McBrain Signature 14x6.5\""
         },
         {
@@ -2599,7 +2599,7 @@ export const articles = {
         },
         {
           "category": "Pedal",
-          "then": "Premier single pedal",
+          "then": "Yamaha single pedal",
           "now": "Sonor single pedal (still single!)"
         }
       ]
@@ -2627,7 +2627,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "The Reunion That Proved Iron Maiden Were Forever",
-      "content": "Brave New World is one of the great comeback albums in heavy metal history — and Nicko McBrain's drumming is central to why it worked. The reunion of the classic lineup could have felt like nostalgia, a band going through the motions. Instead, it sounded like a band with something to prove.\n\nOn 'The Wicker Man,' Nicko's galloping intro announced that the reunion wasn't a step back — it was a step forward. The Premier kit, Paiste Signature cymbals, and Vic Firth signature sticks represented a mature evolution of the setup that had powered Iron Maiden's greatest 1980s albums. The playing was confident, powerful, and full of the jazz-influenced swing that had always distinguished Nicko from other metal drummers.\n\nFor drummers studying Brave New World, the lessons are consistent with every other Nicko McBrain album: serve the song, master the single pedal, and trust that technique beats gear every time. The album debuted at number one in the UK and Germany — and the drums were a central reason why.\n\nBrave New World fills the essential gap between Seventh Son of a Seventh Son and the 21st-century Iron Maiden catalog. It is the bridge album, the proof of concept, the record that showed the world the band had not merely survived — they had returned."
+      "content": "Brave New World is one of the great comeback albums in heavy metal history — and Nicko McBrain's drumming is central to why it worked. The reunion of the classic lineup could have felt like nostalgia, a band going through the motions. Instead, it sounded like a band with something to prove.\n\nOn 'The Wicker Man,' Nicko's galloping intro announced that the reunion wasn't a step back — it was a step forward. The Yamaha kit, Paiste Signature cymbals, and Vic Firth signature sticks represented a mature evolution of the setup that had powered Iron Maiden's greatest 1980s albums. The playing was confident, powerful, and full of the jazz-influenced swing that had always distinguished Nicko from other metal drummers.\n\nFor drummers studying Brave New World, the lessons are consistent with every other Nicko McBrain album: serve the song, master the single pedal, and trust that technique beats gear every time. The album debuted at number one in the UK and Germany — and the drums were a central reason why.\n\nBrave New World fills the essential gap between Seventh Son of a Seventh Son and the 21st-century Iron Maiden catalog. It is the bridge album, the proof of concept, the record that showed the world the band had not merely survived — they had returned."
     }
   },
   "final-frontier-drum-setup": {
@@ -3260,7 +3260,7 @@ export const articles = {
     "dateModified": "2026-06-27",
     "author": "MetalForge Editorial",
     "title": "Virtual XI Drum Setup: Nicko McBrain's Gear on Iron Maiden's Blaze Bailey-Era Final Album (1998)",
-    "description": "The complete gear breakdown for Iron Maiden's Virtual XI (1998) — the second and final album of the Blaze Bailey era. Discover the Premier drums, Paiste Signature cymbals, and single bass drum technique behind Nicko McBrain's performance on 'The Clansman' and 'Futureal.'",
+    "description": "The complete gear breakdown for Iron Maiden's Virtual XI (1998) — the second and final album of the Blaze Bailey era. Discover the Yamaha Recording Custom drums, Paiste Signature cymbals, and single bass drum technique behind Nicko McBrain's performance on 'The Clansman' and 'Futureal.'",
     "seoKeywords": [
       "nicko mcbrain virtual xi drums",
       "iron maiden 1998 drum kit",
@@ -3277,16 +3277,16 @@ export const articles = {
       "keyPoints": [
         "Second and final Iron Maiden album with vocalist Blaze Bailey — Bruce Dickinson had left after 1992",
         "Recorded at Barnyard Studios, Essex, UK — Steve Harris's own studio",
-        "Premier drums and Paiste Signature cymbals — Nicko's mid-to-late 1990s professional setup",
+        "Yamaha Recording Custom drums and Paiste Signature cymbals — Nicko's mid-to-late 1990s professional setup",
         "Single bass drum maintained through every Iron Maiden era, including the Blaze period",
         "'The Clansman' and 'The Angel and the Gambler' demonstrate Nicko's progressive-era stamina",
         "Nicko McBrain was the constant: the only member who played every Iron Maiden album from Piece of Mind onward"
       ]
     },
     "drumKit": {
-      "title": "Nicko McBrain's Premier Setup",
-      "brand": "Premier",
-      "model": "Premier Artist",
+      "title": "Nicko McBrain's Yamaha Recording Custom Setup",
+      "brand": "Yamaha",
+      "model": "Yamaha Recording Custom",
       "finish": "Lacquer finish",
       "config": {
         "bassdrums": [
@@ -3301,11 +3301,11 @@ export const articles = {
           "16\" x 16\" Floor Tom",
           "18\" x 16\" Floor Tom"
         ],
-        "shells": "Birch/maple hybrid shells — punchy attack with musical resonance"
+        "shells": "Birch shells — punchy attack with musical resonance"
       },
-      "description": "By 1998, Nicko McBrain had transitioned from the Ludwig and early Premier setups of the 1980s into his Premier Artist era — a professional British drum kit that suited both his endorsement relationship with Premier and the recording environment at Barnyard Studios.\n\nThe Premier Artist's shell configuration was notably more expansive than Nicko's founding-era setup: three rack toms rather than two, providing a wider melodic range for the complex fills on Virtual XI's extended tracks. The larger 22\"x18\" bass drum delivered the weight and authority needed for Steve Harris's dense, bass-driven arrangements without requiring a second pedal.\n\nBarnyard Studios — Steve Harris's residential complex in Essex — offered a controlled, familiar environment that suited Premier's character. Where early albums captured natural room ambience at Compass Point or Musicland, the Barnyard sessions used a tighter, more defined approach that let each element of Premier's birch-influenced shell character speak clearly.\n\nThe three-rack-tom configuration gave Nicko more options on the extended tracks that define Virtual XI. 'The Angel and the Gambler' and 'The Clansman' both clock past nine minutes and feature shifting dynamic sections requiring Nicko to navigate different textures fluidly. The expanded kit provided the tonal palette those arrangements demanded.\n\nAs always: single bass drum. No double pedal. One foot delivered the galloping rhythms on 'Futureal' and the driving patterns on 'Lightning Strikes Twice.' Nicko's single-pedal philosophy was and remains non-negotiable.",
+      "description": "By 1998, Nicko McBrain had been on the same Yamaha Recording Custom kit for thirteen years — the setup he'd switched to in 1985, expanded since its Somewhere in Time debut with an extra rack tom for a wider fill vocabulary suited to Barnyard Studios and Virtual XI's more progressive arrangements.\n\nThe kit's shell configuration was notably more expansive than Nicko's 1980s setup: three rack toms rather than two, providing a wider melodic range for the complex fills on Virtual XI's extended tracks. The larger 22\"x18\" bass drum delivered the weight and authority needed for Steve Harris's dense, bass-driven arrangements without requiring a second pedal.\n\nBarnyard Studios — Steve Harris's residential complex in Essex — offered a controlled, familiar environment that suited the kit's character. Where early albums captured natural room ambience at Compass Point or Musicland, the Barnyard sessions used a tighter, more defined approach that let each element of the birch shells' character speak clearly.\n\nThe three-rack-tom configuration gave Nicko more options on the extended tracks that define Virtual XI. 'The Angel and the Gambler' and 'The Clansman' both clock past nine minutes and feature shifting dynamic sections requiring Nicko to navigate different textures fluidly. The expanded kit provided the tonal palette those arrangements demanded.\n\nAs always: single bass drum. No double pedal. One foot delivered the galloping rhythms on 'Futureal' and the driving patterns on 'Lightning Strikes Twice.' Nicko's single-pedal philosophy was and remains non-negotiable.",
       "notes": [
-        "Premier Artist — professional British drumset aligned with Nicko's 1990s-era endorsement",
+        "Yamaha Recording Custom — the same kit Nicko had played since 1985, expanded to three rack toms for the 1990s",
         "Three rack toms (10\", 12\", 13\") for extended progressive arrangements",
         "22\"x18\" bass drum for authoritative low-end on the Barnyard Studios recordings",
         "Single bass drum — maintained unchanged through every Iron Maiden chapter"
@@ -3314,11 +3314,11 @@ export const articles = {
     },
     "snare": {
       "title": "The Crack Behind 'Futureal'",
-      "brand": "Premier",
-      "model": "Premier Nicko McBrain Signature Snare",
+      "brand": "Yamaha",
+      "model": "Yamaha Recording Custom Signature Snare",
       "size": "14\" x 6.5\"",
-      "shell": "Aluminum / metal shell",
-      "description": "By the Virtual XI era, Nicko McBrain had transitioned to a Premier signature snare — reflecting both his endorsement relationship and his evolved preference for a deeper, more authoritative snare sound compared to the 14\"x5\" Ludwig Supraphonics of his 1980s recordings.\n\nThe deeper 6.5\" shell gave more body and power to the backbeat — essential in Steve Harris's bass-forward production context at Barnyard Studios. Where the 5\" Supraphonic's tight crack had cut through the bright, live-room Compass Point recordings, the deeper Premier delivered a fuller, rounder hit suited to the thicker, more studio-controlled environment of Barnyard.\n\nThe signature designation meant the snare was tuned and voiced specifically to Nicko's preferences: medium-high tension for articulation, with a crack that projected through the dense arrangements of 'The Clansman' and 'Don't Look to the Eyes of a Stranger' without overwhelming the vocal-forward production.\n\n'Futureal' — the album's most direct, NWOBHM-styled track and its opening salvo — demonstrated the snare at its most driving. The fast, driving backbeat at 160+ BPM required the same combination of precision and projection that had defined Nicko's snare work from the beginning.",
+      "shell": "Steel shell",
+      "description": "By the Virtual XI era, Nicko McBrain had moved to a deeper 6.5\" Yamaha snare — reflecting his evolved preference for a deeper, more authoritative snare sound compared to the 14\"x5\" steel snare of his 1980s recordings.\n\nThe deeper 6.5\" shell gave more body and power to the backbeat — essential in Steve Harris's bass-forward production context at Barnyard Studios. Where the shallower 5\" snare's tight crack had cut through the bright, live-room Compass Point recordings, the deeper shell delivered a fuller, rounder hit suited to the thicker, more studio-controlled environment of Barnyard.\n\nThe snare was tuned and voiced specifically to Nicko's preferences: medium-high tension for articulation, with a crack that projected through the dense arrangements of 'The Clansman' and 'Don't Look to the Eyes of a Stranger' without overwhelming the vocal-forward production.\n\n'Futureal' — the album's most direct, NWOBHM-styled track and its opening salvo — demonstrated the snare at its most driving. The fast, driving backbeat at 160+ BPM required the same combination of precision and projection that had defined Nicko's snare work from the beginning.",
       "tuningSetting": "Medium-high tension for articulation and body",
       "heads": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side",
       "estimatedValue": "$350-500 (1998)"
@@ -3367,21 +3367,21 @@ export const articles = {
       "items": [
         {
           "type": "Bass Drum Pedal",
-          "brand": "Premier",
-          "model": "Premier Bass Drum Pedal",
+          "brand": "Yamaha",
+          "model": "Yamaha Bass Drum Pedal",
           "notes": "Single pedal — Nicko's unwavering single-bass commitment through the Blaze era",
           "description": "Through personnel changes, vocalist departures, and genre experiments, one thing never changed in Nicko McBrain's setup: one bass drum, one pedal. The Blaze Bailey era produced two albums of demanding Iron Maiden material delivered entirely with single-pedal technique. The gallop on 'Futureal,' the driving patterns on 'Lightning Strikes Twice,' and the progressive footwork on 'The Clansman' all came from one foot."
         },
         {
           "type": "Hi-Hat Stand",
-          "brand": "Premier",
-          "model": "Premier Heavy-Duty Hi-Hat Stand",
+          "brand": "Yamaha",
+          "model": "Yamaha Heavy-Duty Hi-Hat Stand",
           "notes": "Solid construction for consistent hi-hat performance"
         },
         {
           "type": "Throne",
-          "brand": "Premier",
-          "model": "Premier Percussion Throne",
+          "brand": "Yamaha",
+          "model": "Yamaha Percussion Throne",
           "notes": "Set high — Nicko's distinctive elevated sitting position for single-bass leverage"
         },
         {
@@ -3399,10 +3399,10 @@ export const articles = {
     },
     "recordingTechniques": {
       "title": "Barnyard Studios: The Blaze Era Production",
-      "content": "Barnyard Studios is Steve Harris's own residential recording complex in Essex, UK — a facility that gave Iron Maiden complete creative control over the recording and production process without external studio time constraints. Virtual XI was produced by Steve Harris and Nigel Green using the facility for full album recording.\n\n**The Barnyard Environment:**\nUnlike the spacious live rooms of Compass Point (Nassau) or Musicland (Munich), Barnyard offered a more intimate, controlled environment. The drum sound on Virtual XI reflects this: tighter, more defined, with less natural room ambience than the 1980s albums. Steve Harris's production approach prioritized clarity and punch over warmth and air.\n\n**Microphone Setup (estimated period-standard approach):**\n- Kick drum: AKG D112 inside for punch and click\n- Snare: Shure SM57 top, AKG C414 bottom\n- Toms: Sennheiser MD421 on each tom\n- Hi-hat: AKG C451\n- Overheads: Neumann U87s for stereo image\n\n**Production Character:**\nThe Virtual XI production sits between the raw-energy Blaze debut (The X Factor, 1995) and the polished reunion sound of Brave New World (2000). Steve Harris's bass-driven production approach placed the low end prominently, requiring Nicko's kick drum to be aggressive and defined rather than ambient. The Premier kick's punchy attack worked well in this context.\n\n**Long-Form Demands:**\nTracks exceeding nine minutes at Barnyard required Nicko to record complete takes maintaining both energy and precision across complex arrangements. The studio's controlled environment, with familiar gear and no external schedule pressure, suited this approach.",
+      "content": "Barnyard Studios is Steve Harris's own residential recording complex in Essex, UK — a facility that gave Iron Maiden complete creative control over the recording and production process without external studio time constraints. Virtual XI was produced by Steve Harris and Nigel Green using the facility for full album recording.\n\n**The Barnyard Environment:**\nUnlike the spacious live rooms of Compass Point (Nassau) or Musicland (Munich), Barnyard offered a more intimate, controlled environment. The drum sound on Virtual XI reflects this: tighter, more defined, with less natural room ambience than the 1980s albums. Steve Harris's production approach prioritized clarity and punch over warmth and air.\n\n**Microphone Setup (estimated period-standard approach):**\n- Kick drum: AKG D112 inside for punch and click\n- Snare: Shure SM57 top, AKG C414 bottom\n- Toms: Sennheiser MD421 on each tom\n- Hi-hat: AKG C451\n- Overheads: Neumann U87s for stereo image\n\n**Production Character:**\nThe Virtual XI production sits between the raw-energy Blaze debut (The X Factor, 1995) and the polished reunion sound of Brave New World (2000). Steve Harris's bass-driven production approach placed the low end prominently, requiring Nicko's kick drum to be aggressive and defined rather than ambient. The Yamaha kick's punchy attack worked well in this context.\n\n**Long-Form Demands:**\nTracks exceeding nine minutes at Barnyard required Nicko to record complete takes maintaining both energy and precision across complex arrangements. The studio's controlled environment, with familiar gear and no external schedule pressure, suited this approach.",
       "keyTechniques": [
         "Barnyard Studios' controlled environment produced a tighter, more defined drum sound than the 1980s live-room recordings",
-        "Steve Harris's bass-forward production required punchy, defined kick drum attack from the Premier kit",
+        "Steve Harris's bass-forward production required punchy, defined kick drum attack from the Yamaha kit",
         "Single-take approach maintained on long-form tracks exceeding nine minutes",
         "Paiste Signature cymbals' warmer character suited the post-2002 production palette"
       ]
@@ -3418,7 +3418,7 @@ export const articles = {
           "Driving hi-hat patterns and snare backbeats define the verse groove",
           "Short (3:44) and punchy — shows Nicko can still sprint when required"
         ],
-        "gearNotes": "The Premier kit's punchy attack and Paiste Signature hi-hats deliver a clear, defined gallop. Single bass drum pedal drives the entire track at full speed."
+        "gearNotes": "The Yamaha kit's punchy attack and Paiste Signature hi-hats deliver a clear, defined gallop. Single bass drum pedal drives the entire track at full speed."
       },
       {
         "track": "The Angel and the Gambler",
@@ -3430,7 +3430,7 @@ export const articles = {
           "Ride cymbal carries extended instrumental passages",
           "The infamous repeated chorus that divided reviewers — Nicko drives it steadily throughout"
         ],
-        "gearNotes": "The 20\" Paiste Signature ride is essential for the extended middle passages. The Premier floor toms drive the climactic sections."
+        "gearNotes": "The 20\" Paiste Signature ride is essential for the extended middle passages. The Yamaha floor toms drive the climactic sections."
       },
       {
         "track": "The Clansman",
@@ -3454,13 +3454,13 @@ export const articles = {
           "Demonstrates Nicko's single-pedal technique remained fully capable in 1998",
           "Punchy production lets the kick and snare cut through clearly"
         ],
-        "gearNotes": "The Premier single pedal drives the gallop at 148 BPM. Paiste Signature crashes punctuate the chorus with authority."
+        "gearNotes": "The Yamaha single pedal drives the gallop at 148 BPM. Paiste Signature crashes punctuate the chorus with authority."
       }
     ],
     "faq": [
       {
         "question": "What kit did Nicko McBrain use on Virtual XI?",
-        "answer": "Nicko McBrain recorded Virtual XI (1998) on a Premier Artist drum kit — his professional setup during the mid-to-late 1990s. The configuration included a single 22\"x18\" bass drum (no double bass), three rack toms (10\", 12\", 13\"), and two floor toms (16\" and 18\"). His snare was a Premier Nicko McBrain Signature, 14\"x6.5\" — deeper than the Ludwig Supraphonics of his 1980s recordings, providing more body and authority. The Premier Artist's punchy character suited Barnyard Studios' controlled recording environment. See the [Nicko McBrain drummer profile](/drummer/nicko-mcbrain) for his complete career gear history."
+        "answer": "Nicko McBrain recorded Virtual XI (1998) on a Yamaha Recording Custom drum kit — the same kit he'd played since switching from Pearl in 1985, expanded here to three rack toms. The configuration included a single 22\"x18\" bass drum (no double bass), three rack toms (10\", 12\", 13\"), and two floor toms (16\" and 18\"). His snare was a deeper 14\"x6.5\" Yamaha model — deeper than the 14\"x5\" steel snare of his 1980s recordings, providing more body and authority. The kit's punchy character suited Barnyard Studios' controlled recording environment. See the [Nicko McBrain drummer profile](/drummer/nicko-mcbrain) for his complete career gear history."
       },
       {
         "question": "Who played drums on Virtual XI?",
@@ -3477,16 +3477,16 @@ export const articles = {
     ],
     "evolution": {
       "title": "The Blaze Era in Nicko McBrain's Career Arc",
-      "content": "Virtual XI sits at a distinctive crossroads in Nicko McBrain's career — between the founding Ludwig/Premier era of the 1980s and the Sonor/Paiste Signature era of the 2000s and beyond. It is also the moment where Iron Maiden's personnel instability was most pronounced, and Nicko's consistency was most visible.\n\n**The surrounding arc:**\n- **Seventh Son of a Seventh Son (1988):** Last album of the founding era — Ludwig Classic Maple, Paiste 2002, Pro-Mark 5B\n- **The X Factor (1995):** First Blaze album — Premier kit, Paiste Signature begins\n- **Virtual XI (1998):** Second Blaze album — Premier Artist, Paiste Signature, Vic Firth signature sticks\n- **Brave New World (2000):** Bruce returns — Premier Artist, Paiste Signature fully established\n- **Senjutsu (2021):** Fully into the Sonor/Paiste Signature era\n\n**What changed:** The drum kit moved from Ludwig to Premier during the 1990s. The cymbals evolved from the 2002's bright clarity to the Signature's warmer complexity. The sticks became Vic Firth Nicko McBrain Signature.\n\n**What never changed:** One bass drum, one pedal. Through Bruce's departure, Blaze's two albums, and the return — the single-bass philosophy was the one constant in Nicko McBrain's Iron Maiden story.",
+      "content": "Virtual XI sits in the middle of Nicko McBrain's longest-running gear era: the Yamaha Recording Custom kit he'd played continuously since 1985. It is also the moment where Iron Maiden's personnel instability was most pronounced, and Nicko's consistency — of both lineup presence and gear — was most visible.\n\n**The surrounding arc:**\n- **Seventh Son of a Seventh Son (1988):** Second album of the Yamaha era — Yamaha Recording Custom, Paiste 2002, Pro-Mark 5B\n- **The X Factor (1995):** First Blaze album — same Yamaha Recording Custom kit, Paiste Signature cymbals begin\n- **Virtual XI (1998):** Second Blaze album — Yamaha Recording Custom expanded to three rack toms, Paiste Signature, Vic Firth signature sticks\n- **Brave New World (2000):** Bruce returns — same Yamaha Recording Custom kit, Paiste Signature fully established\n- **Senjutsu (2021):** Fully into the Sonor/Paiste Signature era, following the 2010 switch to Sonor\n\n**What changed:** The cymbals evolved from the 2002's bright clarity to the Signature's warmer complexity in the mid-1990s. The sticks became Vic Firth Nicko McBrain Signature. The drum kit itself gained a third rack tom for more fill options, but stayed the same Yamaha Recording Custom he'd played since 1985.\n\n**What never changed:** One bass drum, one pedal. Through Bruce's departure, Blaze's two albums, and the return — the single-bass philosophy was the one constant in Nicko McBrain's Iron Maiden story.",
       "thenVsNow": [
         {
           "category": "Kit",
-          "then": "Premier Artist",
+          "then": "Yamaha Recording Custom",
           "now": "Sonor SQ1"
         },
         {
           "category": "Snare",
-          "then": "Premier Nicko McBrain Signature 14x6.5\"",
+          "then": "Yamaha Recording Custom Signature 14x6.5\"",
           "now": "Sonor Nicko McBrain Signature 14x6.5\""
         },
         {
@@ -3501,7 +3501,7 @@ export const articles = {
         },
         {
           "category": "Pedal",
-          "then": "Premier single pedal",
+          "then": "Yamaha single pedal",
           "now": "Sonor single pedal (still single!)"
         }
       ]
@@ -3531,7 +3531,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "The Constant Through Iron Maiden's Most Turbulent Chapter",
-      "content": "Virtual XI is the album that completionists must understand to fully appreciate Nicko McBrain's Iron Maiden legacy. While the Blaze Bailey era received mixed reactions and the albums charted lower than the 1980s peak, the drumming remained exceptional throughout — and Nicko McBrain remained the constant when everything else was changing.\n\nThe Premier Artist kit, Paiste Signature cymbals, and single bass drum pedal delivered the same musical intelligence and technical authority on 'The Clansman' and 'Futureal' that had powered 'Aces High' and 'Where Eagles Dare' over a decade earlier. Different vocalist, different chart positions, different critical reception — but the same drummer, the same philosophy, the same commitment.\n\nFor drummers, Virtual XI offers a study in professional continuity. Nicko didn't mail it in when Bruce left. The X Factor and Virtual XI both contain demanding, long-form performances that required the same stamina and musicality as any Iron Maiden album before or after.\n\n'The Clansman' survived into the Bruce Dickinson reunion setlist because it was genuinely excellent — and Nicko's drumming was central to that excellence. Nine minutes of dynamic navigation from acoustic restraint to full-volume metal, performed with the single-pedal technique that has defined Iron Maiden's rhythmic identity since 1983.\n\nVirtual XI is not Powerslave or Seventh Son. But it is Nicko McBrain at his professional best — and that is always worth examining."
+      "content": "Virtual XI is the album that completionists must understand to fully appreciate Nicko McBrain's Iron Maiden legacy. While the Blaze Bailey era received mixed reactions and the albums charted lower than the 1980s peak, the drumming remained exceptional throughout — and Nicko McBrain remained the constant when everything else was changing.\n\nThe Yamaha Recording Custom kit, Paiste Signature cymbals, and single bass drum pedal delivered the same musical intelligence and technical authority on 'The Clansman' and 'Futureal' that had powered 'Aces High' and 'Where Eagles Dare' over a decade earlier. Different vocalist, different chart positions, different critical reception — but the same drummer, the same philosophy, the same commitment.\n\nFor drummers, Virtual XI offers a study in professional continuity. Nicko didn't mail it in when Bruce left. The X Factor and Virtual XI both contain demanding, long-form performances that required the same stamina and musicality as any Iron Maiden album before or after.\n\n'The Clansman' survived into the Bruce Dickinson reunion setlist because it was genuinely excellent — and Nicko's drumming was central to that excellence. Nine minutes of dynamic navigation from acoustic restraint to full-volume metal, performed with the single-pedal technique that has defined Iron Maiden's rhythmic identity since 1983.\n\nVirtual XI is not Powerslave or Seventh Son. But it is Nicko McBrain at his professional best — and that is always worth examining."
     }
   },
   "senjutsu-drum-setup": {
@@ -3857,7 +3857,7 @@ export const articles = {
     "dateModified": "2026-06-30",
     "author": "MetalForge Editorial",
     "title": "Dance of Death Drum Setup: Nicko McBrain's Gear on Iron Maiden's 2003 Gothic Epic",
-    "description": "The complete gear breakdown for Iron Maiden's Dance of Death (2003). Discover the Premier Artist kit, Paiste Signature cymbals, and single bass drum technique behind 'Paschendale,' 'Rainmaker,' and Nicko McBrain's performance on the UK #2 album.",
+    "description": "The complete gear breakdown for Iron Maiden's Dance of Death (2003). Discover the Yamaha Recording Custom kit, Paiste Signature cymbals, and single bass drum technique behind 'Paschendale,' 'Rainmaker,' and Nicko McBrain's performance on the UK #2 album.",
     "seoKeywords": [
       "nicko mcbrain dance of death drums",
       "iron maiden 2003 drum kit",
@@ -3870,10 +3870,10 @@ export const articles = {
     "peakChart": "#2 UK, #19 US Billboard 200",
     "intro": {
       "title": "The Album That Bridged the Reunion and the Concept-Album Era",
-      "content": "Released on September 8, 2003, Dance of Death is Iron Maiden's ninth studio album and the second to feature the reunited classic lineup of Bruce Dickinson, Adrian Smith, Dave Murray, Janick Gers, Steve Harris, and Nicko McBrain following Brave New World (2000). It debuted at number two on the UK Albums Chart and reached number 19 on the US Billboard 200, confirming that the reunion's momentum was no one-off.\n\nFor Nicko McBrain, Dance of Death continued the creative renaissance that had begun with the reunion. Produced by Kevin Shirley and Steve Harris, the album leaned further into darker, more gothic subject matter than Brave New World — reflected in the cover art's macabre tarot-card imagery and in tracks like the title cut, which depicts a fireside seance.\n\nThe album's centerpiece is 'Paschendale,' an eight-minute epic chronicling the World War I Battle of Passchendaele. It demanded some of Nicko's most dynamically varied drumming of the era — shifting between funereal, atmospheric passages and full-throttle double-time gallops within a single track. Lead single 'Wildest Dreams' and the driving 'Rainmaker,' which reached the UK Top 20, gave the album its commercial backbone, while closer 'Journeyman' — a rare acoustic-leaning Iron Maiden track — showcased Nicko's restraint and brushwork-adjacent sensitivity on the kit.\n\nDance of Death fills the essential gap between Brave New World (2000) and A Matter of Life and Death (2006) in Nicko McBrain's 21st-century discography — the album where the reunion-era band fully committed to longer, more ambitious song structures.\n\nThis article examines the Premier Artist drum kit, Paiste Signature cymbals, and single-pedal technique that powered Nicko McBrain's performance on one of Iron Maiden's most thematically ambitious albums.",
+      "content": "Released on September 8, 2003, Dance of Death is Iron Maiden's ninth studio album and the second to feature the reunited classic lineup of Bruce Dickinson, Adrian Smith, Dave Murray, Janick Gers, Steve Harris, and Nicko McBrain following Brave New World (2000). It debuted at number two on the UK Albums Chart and reached number 19 on the US Billboard 200, confirming that the reunion's momentum was no one-off.\n\nFor Nicko McBrain, Dance of Death continued the creative renaissance that had begun with the reunion. Produced by Kevin Shirley and Steve Harris, the album leaned further into darker, more gothic subject matter than Brave New World — reflected in the cover art's macabre tarot-card imagery and in tracks like the title cut, which depicts a fireside seance.\n\nThe album's centerpiece is 'Paschendale,' an eight-minute epic chronicling the World War I Battle of Passchendaele. It demanded some of Nicko's most dynamically varied drumming of the era — shifting between funereal, atmospheric passages and full-throttle double-time gallops within a single track. Lead single 'Wildest Dreams' and the driving 'Rainmaker,' which reached the UK Top 20, gave the album its commercial backbone, while closer 'Journeyman' — a rare acoustic-leaning Iron Maiden track — showcased Nicko's restraint and brushwork-adjacent sensitivity on the kit.\n\nDance of Death fills the essential gap between Brave New World (2000) and A Matter of Life and Death (2006) in Nicko McBrain's 21st-century discography — the album where the reunion-era band fully committed to longer, more ambitious song structures.\n\nThis article examines the Yamaha Recording Custom drum kit, Paiste Signature cymbals, and single-pedal technique that powered Nicko McBrain's performance on one of Iron Maiden's most thematically ambitious albums.",
       "keyPoints": [
         "UK #2, US #19 Billboard 200 — confirmed the reunion's staying power after Brave New World",
-        "Premier Artist kit and Paiste Signature cymbals — consistent reunion-era setup",
+        "Yamaha Recording Custom kit and Paiste Signature cymbals — consistent reunion-era setup",
         "'Paschendale' — an eight-minute WWI epic demanding extreme dynamic range",
         "'Rainmaker' reached the UK Top 20 as one of the album's key singles",
         "'Journeyman' — a rare acoustic-leaning closer showcasing Nicko's restraint",
@@ -3881,9 +3881,9 @@ export const articles = {
       ]
     },
     "drumKit": {
-      "title": "Nicko McBrain's Premier Artist Setup",
-      "brand": "Premier",
-      "model": "Premier Artist",
+      "title": "Nicko McBrain's Yamaha Recording Custom Setup",
+      "brand": "Yamaha",
+      "model": "Yamaha Recording Custom",
       "finish": "Lacquer finish",
       "config": {
         "bassdrums": [
@@ -3900,9 +3900,9 @@ export const articles = {
         ],
         "shells": "Birch/basswood shells — punchy attack with focused sustain"
       },
-      "description": "Nicko McBrain recorded Dance of Death on the same Premier Artist kit that had served him on Brave New World — birch/basswood shells, three rack toms, two floor toms, and the unwavering single 22-inch bass drum. Kevin Shirley's production again favored a forward, powerful drum sound, and the Premier shells' punchy, controlled attack suited Sarm West Studios' live room.\n\nThe expanded three-rack-tom configuration proved essential on 'Paschendale,' where Nicko's fills had to traverse the track's many distinct sections — from a hushed, marching intro to a crushing, double-time climax. The two floor toms carried the cascading patterns that mark the song's most dramatic transitions.\n\nThe single bass drum remained Nicko's defining commitment. On 'Rainmaker' and 'Wildest Dreams,' the galloping bass drum pattern — driven entirely by one pedal — anchors the songs' forward momentum, while on the gentler 'Journeyman,' the kit's role shrinks to subtle accents that demonstrate as much musical intelligence as the album's heavier material.",
+      "description": "Nicko McBrain recorded Dance of Death on the same Yamaha Recording Custom kit that had served him on Brave New World — birch/basswood shells, three rack toms, two floor toms, and the unwavering single 22-inch bass drum. Kevin Shirley's production again favored a forward, powerful drum sound, and the Yamaha shells' punchy, controlled attack suited Sarm West Studios' live room.\n\nThe expanded three-rack-tom configuration proved essential on 'Paschendale,' where Nicko's fills had to traverse the track's many distinct sections — from a hushed, marching intro to a crushing, double-time climax. The two floor toms carried the cascading patterns that mark the song's most dramatic transitions.\n\nThe single bass drum remained Nicko's defining commitment. On 'Rainmaker' and 'Wildest Dreams,' the galloping bass drum pattern — driven entirely by one pedal — anchors the songs' forward momentum, while on the gentler 'Journeyman,' the kit's role shrinks to subtle accents that demonstrate as much musical intelligence as the album's heavier material.",
       "notes": [
-        "Premier Artist birch/basswood shells — consistent reunion-era tone",
+        "Yamaha Recording Custom birch/basswood shells — consistent reunion-era tone",
         "Three rack toms for the extended fill vocabulary 'Paschendale' demands",
         "Single 22-inch bass drum — unwavering single-pedal commitment",
         "Two floor toms for cascading fills across dynamic shifts"
@@ -3911,11 +3911,11 @@ export const articles = {
     },
     "snare": {
       "title": "The Crack Behind the Gothic Theme",
-      "brand": "Premier",
-      "model": "Premier Signia Snare",
+      "brand": "Yamaha",
+      "model": "Yamaha Recording Custom Snare",
       "size": "14\" x 6.5\"",
       "shell": "Maple shell",
-      "description": "Nicko McBrain's snare on Dance of Death was the same Premier Signia maple-shell model he used on Brave New World — a warm, projecting drum suited to Kevin Shirley's powerful production. The 6.5-inch depth delivered a full, rounded crack with enough body to sit forward in the mix on uptempo tracks like 'Rainmaker' and 'Wildest Dreams.'\n\nOn 'Paschendale,' the snare's dynamic range was put to the test: hushed ghost-note passages in the song's quieter sections give way to full-force backbeats in the climactic double-time runs. Medium tension tuning gave Nicko the headroom to move between these extremes within a single take.\n\nThe maple shell's warmth also served 'Journeyman,' where the snare's role shifts almost entirely to texture and restraint — a contrast to the album's heavier moments that underlines Nicko's range as a musician, not just a power drummer.",
+      "description": "Nicko McBrain's snare on Dance of Death was the same Yamaha Recording Custom maple-shell model he used on Brave New World — a warm, projecting drum suited to Kevin Shirley's powerful production. The 6.5-inch depth delivered a full, rounded crack with enough body to sit forward in the mix on uptempo tracks like 'Rainmaker' and 'Wildest Dreams.'\n\nOn 'Paschendale,' the snare's dynamic range was put to the test: hushed ghost-note passages in the song's quieter sections give way to full-force backbeats in the climactic double-time runs. Medium tension tuning gave Nicko the headroom to move between these extremes within a single take.\n\nThe maple shell's warmth also served 'Journeyman,' where the snare's role shifts almost entirely to texture and restraint — a contrast to the album's heavier moments that underlines Nicko's range as a musician, not just a power drummer.",
       "tuningSetting": "Medium tension for warmth and dynamic range",
       "heads": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side",
       "estimatedValue": "$400-600 (2003)"
@@ -3970,21 +3970,21 @@ export const articles = {
       "items": [
         {
           "type": "Bass Drum Pedal",
-          "brand": "Premier",
-          "model": "Premier single bass drum pedal",
+          "brand": "Yamaha",
+          "model": "Yamaha single bass drum pedal",
           "notes": "Single pedal — Nicko's unwavering single-bass commitment continued on Dance of Death",
-          "description": "Dance of Death's gallops and double-time passages on 'Paschendale' were powered entirely by Nicko's single Premier bass drum pedal — further proof that his single-pedal technique was fully capable of the genre's most demanding modern material."
+          "description": "Dance of Death's gallops and double-time passages on 'Paschendale' were powered entirely by Nicko's single Yamaha bass drum pedal — further proof that his single-pedal technique was fully capable of the genre's most demanding modern material."
         },
         {
           "type": "Hi-Hat Stand",
-          "brand": "Premier",
-          "model": "Premier Heavy-Duty Hi-Hat Stand",
+          "brand": "Yamaha",
+          "model": "Yamaha Heavy-Duty Hi-Hat Stand",
           "notes": "Solid footing for fast hi-hat work at tempo"
         },
         {
           "type": "Throne",
-          "brand": "Premier",
-          "model": "Premier Percussion Throne",
+          "brand": "Yamaha",
+          "model": "Yamaha Percussion Throne",
           "notes": "Stable and ergonomic for long studio sessions"
         },
         {
@@ -4007,7 +4007,7 @@ export const articles = {
         "Shirley's forward, powerful drum placement carried over from Brave New World",
         "AKG D112 kick mic for punchy, defined low end",
         "Complete takes across 'Paschendale's' shifting dynamic sections",
-        "Sarm West Studios' live room captured the Premier kit with focus and power"
+        "Sarm West Studios' live room captured the Yamaha kit with focus and power"
       ]
     },
     "trackAnalysis": [
@@ -4031,7 +4031,7 @@ export const articles = {
           "UK Top 20 single — one of the album's commercial highlights",
           "Driving gallop pattern at tempo",
           "Tight, energetic chorus drumming",
-          "Showcases the Premier kit's punchy attack at speed"
+          "Showcases the Yamaha kit's punchy attack at speed"
         ],
         "gearNotes": "Classic single-pedal gallop powers the verses; Paiste Signature crashes mark the chorus accents."
       },
@@ -4045,7 +4045,7 @@ export const articles = {
           "Confident, propulsive drumming throughout",
           "Reintroduced the band on radio and MTV ahead of the album's release"
         ],
-        "gearNotes": "Straightforward gallop-and-backbeat pattern; the Premier Signia snare cracks cleanly through Shirley's mix."
+        "gearNotes": "Straightforward gallop-and-backbeat pattern; the Yamaha Recording Custom snare cracks cleanly through Shirley's mix."
       },
       {
         "track": "Journeyman",
@@ -4063,7 +4063,7 @@ export const articles = {
     "faq": [
       {
         "question": "What drums does Nicko McBrain use on Dance of Death?",
-        "answer": "Nicko McBrain recorded Dance of Death (2003) on a Premier Artist kit — the same professional setup he used on Brave New World. The configuration featured a single 22-inch bass drum, three rack toms (10, 12, and 13 inch), and two floor toms (16 and 18 inch), with birch/basswood shells delivering a punchy, focused tone suited to Kevin Shirley's powerful production at Sarm West Studios. For Nicko's complete gear history across his Iron Maiden career, see the [Nicko McBrain drummer profile](/drummer/nicko-mcbrain)."
+        "answer": "Nicko McBrain recorded Dance of Death (2003) on a Yamaha Recording Custom kit — the same professional setup he used on Brave New World. The configuration featured a single 22-inch bass drum, three rack toms (10, 12, and 13 inch), and two floor toms (16 and 18 inch), with birch/basswood shells delivering a punchy, focused tone suited to Kevin Shirley's powerful production at Sarm West Studios. For Nicko's complete gear history across his Iron Maiden career, see the [Nicko McBrain drummer profile](/drummer/nicko-mcbrain)."
       },
       {
         "question": "Where did Dance of Death chart?",
@@ -4080,11 +4080,11 @@ export const articles = {
     ],
     "evolution": {
       "title": "From Brave New World to Dance of Death: Deepening the Reunion Sound",
-      "content": "Dance of Death represents the reunion era settling into its identity. After Brave New World proved the comeback could succeed commercially, Dance of Death pushed the band's songwriting into darker, more ambitious territory — a direction that would reach its fullest expression on A Matter of Life and Death three years later.\n\n**The arc around Dance of Death:**\n- **Brave New World (2000):** Reunion album, Premier Artist, Paiste Signature, UK #1\n- **Dance of Death (2003):** Darker themes, longer tracks, UK #2\n- **A Matter of Life and Death (2006):** Full concept album, UK #2\n- **The Final Frontier (2010):** Peak progressive ambition, UK #1 and US #1\n\n**What stayed constant:** The single bass drum pedal and the Premier Artist kit carried over directly from Brave New World, giving Nicko a consistent platform as the band's songwriting grew more ambitious around him.",
+      "content": "Dance of Death represents the reunion era settling into its identity. After Brave New World proved the comeback could succeed commercially, Dance of Death pushed the band's songwriting into darker, more ambitious territory — a direction that would reach its fullest expression on A Matter of Life and Death three years later.\n\n**The arc around Dance of Death:**\n- **Brave New World (2000):** Reunion album, Yamaha Recording Custom, Paiste Signature, UK #1\n- **Dance of Death (2003):** Darker themes, longer tracks, UK #2\n- **A Matter of Life and Death (2006):** Full concept album, UK #2\n- **The Final Frontier (2010):** Peak progressive ambition, UK #1 and US #1\n\n**What stayed constant:** The single bass drum pedal and the Yamaha Recording Custom kit carried over directly from Brave New World, giving Nicko a consistent platform as the band's songwriting grew more ambitious around him.",
       "thenVsNow": [
         {
           "category": "Kit",
-          "then": "Premier Artist (2003)",
+          "then": "Yamaha Recording Custom (2003)",
           "now": "Sonor SQ1"
         },
         {
@@ -4094,7 +4094,7 @@ export const articles = {
         },
         {
           "category": "Snare",
-          "then": "Premier Signia 14x6.5\"",
+          "then": "Yamaha Recording Custom 14x6.5\"",
           "now": "Sonor Nicko McBrain Signature 14x6.5\""
         },
         {
@@ -4104,7 +4104,7 @@ export const articles = {
         },
         {
           "category": "Pedal",
-          "then": "Premier single pedal",
+          "then": "Yamaha single pedal",
           "now": "Sonor single pedal (still single!)"
         }
       ]
@@ -4152,7 +4152,7 @@ export const articles = {
     "dateModified": "2026-06-30",
     "author": "MetalForge Editorial",
     "title": "A Matter of Life and Death Drum Setup: Nicko McBrain's Gear on Iron Maiden's 2006 Concept Album",
-    "description": "The complete gear breakdown for Iron Maiden's A Matter of Life and Death (2006). Discover the Premier Artist kit, Paiste Signature cymbals, and progressive drumming technique behind 'The Reincarnation of Benjamin Breeg' and Nicko McBrain's performance on Maiden's most ambitious concept album.",
+    "description": "The complete gear breakdown for Iron Maiden's A Matter of Life and Death (2006). Discover the Yamaha Recording Custom kit, Paiste Signature cymbals, and progressive drumming technique behind 'The Reincarnation of Benjamin Breeg' and Nicko McBrain's performance on Maiden's most ambitious concept album.",
     "seoKeywords": [
       "nicko mcbrain a matter of life and death drums",
       "iron maiden 2006 drum kit",
@@ -4165,10 +4165,10 @@ export const articles = {
     "peakChart": "#2 UK, #9 US Billboard 200",
     "intro": {
       "title": "Iron Maiden's Most Ambitious Concept Album",
-      "content": "Released on August 28, 2006, A Matter of Life and Death is widely regarded as Iron Maiden's most ambitious and cohesive concept album — a song cycle exploring war, religion, and mortality across ten tracks with no filler. It debuted at number two on the UK Albums Chart and reached number nine on the US Billboard 200, the band's highest US chart placement in nearly two decades.\n\nFor Nicko McBrain, A Matter of Life and Death represented a new level of ambition following Dance of Death (2003). Produced again by Kevin Shirley and Steve Harris at Sarm West Studios in London, the album leaned fully into longer, more progressive song structures — several tracks exceed seven minutes — and the band made the unusual decision to perform the entire album in sequence during the supporting tour, a rare move for any band releasing new material.\n\nThe album's most iconic track, 'The Reincarnation of Benjamin Breeg,' became a landmark moment in Iron Maiden's promotional history: ahead of release, the band built a mysterious viral website around the fictional character Benjamin Breeg, generating fan speculation before the song itself was even heard. Musically, the track is one of Nicko's most dynamically demanding performances of the era, alternating between brooding verses and explosive double-time choruses.\n\nLead single 'These Colours Don't Run' and the eight-minute war epic 'The Longest Day' (about the D-Day landings) further demonstrated the album's thematic seriousness, while 'Different World' opened the record with a direct, driving energy that recalled the band's classic gallop.\n\nA Matter of Life and Death fills the essential gap between Dance of Death (2003) and The Final Frontier (2010) in Nicko McBrain's 21st-century discography — the album where Iron Maiden's progressive ambitions reached full maturity.\n\nThis article examines the Premier Artist drum kit, Paiste Signature cymbals, and progressive drumming technique that powered Nicko McBrain's performance on Iron Maiden's most ambitious concept album.",
+      "content": "Released on August 28, 2006, A Matter of Life and Death is widely regarded as Iron Maiden's most ambitious and cohesive concept album — a song cycle exploring war, religion, and mortality across ten tracks with no filler. It debuted at number two on the UK Albums Chart and reached number nine on the US Billboard 200, the band's highest US chart placement in nearly two decades.\n\nFor Nicko McBrain, A Matter of Life and Death represented a new level of ambition following Dance of Death (2003). Produced again by Kevin Shirley and Steve Harris at Sarm West Studios in London, the album leaned fully into longer, more progressive song structures — several tracks exceed seven minutes — and the band made the unusual decision to perform the entire album in sequence during the supporting tour, a rare move for any band releasing new material.\n\nThe album's most iconic track, 'The Reincarnation of Benjamin Breeg,' became a landmark moment in Iron Maiden's promotional history: ahead of release, the band built a mysterious viral website around the fictional character Benjamin Breeg, generating fan speculation before the song itself was even heard. Musically, the track is one of Nicko's most dynamically demanding performances of the era, alternating between brooding verses and explosive double-time choruses.\n\nLead single 'These Colours Don't Run' and the eight-minute war epic 'The Longest Day' (about the D-Day landings) further demonstrated the album's thematic seriousness, while 'Different World' opened the record with a direct, driving energy that recalled the band's classic gallop.\n\nA Matter of Life and Death fills the essential gap between Dance of Death (2003) and The Final Frontier (2010) in Nicko McBrain's 21st-century discography — the album where Iron Maiden's progressive ambitions reached full maturity.\n\nThis article examines the Yamaha Recording Custom drum kit, Paiste Signature cymbals, and progressive drumming technique that powered Nicko McBrain's performance on Iron Maiden's most ambitious concept album.",
       "keyPoints": [
         "UK #2, US #9 Billboard 200 — Iron Maiden's highest US chart placement in nearly two decades",
-        "Premier Artist kit and Paiste Signature cymbals — consistent reunion-era setup",
+        "Yamaha Recording Custom kit and Paiste Signature cymbals — consistent reunion-era setup",
         "'The Reincarnation of Benjamin Breeg' — a landmark track with a viral pre-release marketing campaign",
         "'The Longest Day' — an eight-minute D-Day epic with extended dynamic range",
         "Performed in full sequence on tour — a rare move for a newly released album",
@@ -4176,9 +4176,9 @@ export const articles = {
       ]
     },
     "drumKit": {
-      "title": "Nicko McBrain's Premier Artist Setup",
-      "brand": "Premier",
-      "model": "Premier Artist",
+      "title": "Nicko McBrain's Yamaha Recording Custom Setup",
+      "brand": "Yamaha",
+      "model": "Yamaha Recording Custom",
       "finish": "Lacquer finish",
       "config": {
         "bassdrums": [
@@ -4195,9 +4195,9 @@ export const articles = {
         ],
         "shells": "Birch/basswood shells — punchy attack with focused sustain"
       },
-      "description": "Nicko McBrain recorded A Matter of Life and Death on the same Premier Artist kit configuration carried over from Brave New World and Dance of Death — birch/basswood shells, three rack toms, two floor toms, and the single 22-inch bass drum that defines his career. Kevin Shirley's production again placed the drums forward and powerful in the mix, suited to the album's weighty, serious subject matter.\n\nThe three-rack-tom setup proved essential on 'The Reincarnation of Benjamin Breeg' and 'The Longest Day,' where Nicko's fills had to navigate extended, multi-section arrangements with significant dynamic contrast. The two floor toms carried the cascading patterns that mark the album's most dramatic builds, particularly on the seven-minute-plus tracks that dominate the back half of the record.\n\nThe single bass drum remained the constant through this most ambitious of reunion-era albums. On 'Different World' and 'These Colours Don't Run,' the galloping single-pedal pattern anchors the songs' driving energy, while the extended double-time sections of 'Benjamin Breeg' demonstrate the stamina and precision that single-pedal technique demands at this level of ambition.",
+      "description": "Nicko McBrain recorded A Matter of Life and Death on the same Yamaha Recording Custom kit configuration carried over from Brave New World and Dance of Death — birch/basswood shells, three rack toms, two floor toms, and the single 22-inch bass drum that defines his career. Kevin Shirley's production again placed the drums forward and powerful in the mix, suited to the album's weighty, serious subject matter.\n\nThe three-rack-tom setup proved essential on 'The Reincarnation of Benjamin Breeg' and 'The Longest Day,' where Nicko's fills had to navigate extended, multi-section arrangements with significant dynamic contrast. The two floor toms carried the cascading patterns that mark the album's most dramatic builds, particularly on the seven-minute-plus tracks that dominate the back half of the record.\n\nThe single bass drum remained the constant through this most ambitious of reunion-era albums. On 'Different World' and 'These Colours Don't Run,' the galloping single-pedal pattern anchors the songs' driving energy, while the extended double-time sections of 'Benjamin Breeg' demonstrate the stamina and precision that single-pedal technique demands at this level of ambition.",
       "notes": [
-        "Premier Artist birch/basswood shells — carried over from Dance of Death",
+        "Yamaha Recording Custom birch/basswood shells — carried over from Dance of Death",
         "Three rack toms for the extended fill vocabulary the concept album's longer tracks demand",
         "Single 22-inch bass drum — unwavering commitment through Maiden's most ambitious album",
         "Two floor toms for cascading fills across the album's dramatic builds"
@@ -4206,11 +4206,11 @@ export const articles = {
     },
     "snare": {
       "title": "The Backbone of a Concept Album",
-      "brand": "Premier",
-      "model": "Premier Signia Snare",
+      "brand": "Yamaha",
+      "model": "Yamaha Recording Custom Snare",
       "size": "14\" x 6.5\"",
       "shell": "Maple shell",
-      "description": "Nicko McBrain's snare on A Matter of Life and Death was the Premier Signia maple-shell model carried over from the prior two reunion-era albums — a warm, projecting drum suited to Kevin Shirley's powerful production. The 6.5-inch depth delivered a full, rounded crack with the body needed to anchor the album's longer, more serious-toned tracks.\n\nOn 'The Reincarnation of Benjamin Breeg,' the snare's dynamic range carries the song from brooding, restrained verses into explosive double-time choruses. Medium tension tuning gave Nicko the headroom to move between these extremes within complete takes, a demand repeated across several of the album's seven-minute-plus tracks.\n\nThe maple shell's warmth also suited the album's more reflective passages, including sections of 'The Pilgrim' and 'Lord of Light,' where the snare's role shifts toward texture and dynamic control rather than raw power.",
+      "description": "Nicko McBrain's snare on A Matter of Life and Death was the Yamaha Recording Custom maple-shell model carried over from the prior two reunion-era albums — a warm, projecting drum suited to Kevin Shirley's powerful production. The 6.5-inch depth delivered a full, rounded crack with the body needed to anchor the album's longer, more serious-toned tracks.\n\nOn 'The Reincarnation of Benjamin Breeg,' the snare's dynamic range carries the song from brooding, restrained verses into explosive double-time choruses. Medium tension tuning gave Nicko the headroom to move between these extremes within complete takes, a demand repeated across several of the album's seven-minute-plus tracks.\n\nThe maple shell's warmth also suited the album's more reflective passages, including sections of 'The Pilgrim' and 'Lord of Light,' where the snare's role shifts toward texture and dynamic control rather than raw power.",
       "tuningSetting": "Medium tension for warmth and dynamic range",
       "heads": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side",
       "estimatedValue": "$400-600 (2006)"
@@ -4265,21 +4265,21 @@ export const articles = {
       "items": [
         {
           "type": "Bass Drum Pedal",
-          "brand": "Premier",
-          "model": "Premier single bass drum pedal",
+          "brand": "Yamaha",
+          "model": "Yamaha single bass drum pedal",
           "notes": "Single pedal — Nicko's unwavering single-bass commitment continued through the concept album era",
-          "description": "A Matter of Life and Death's extended double-time passages, particularly on 'The Reincarnation of Benjamin Breeg,' were powered entirely by Nicko's single Premier bass drum pedal — further proof of single-pedal technique's capability at the genre's most demanding modern level."
+          "description": "A Matter of Life and Death's extended double-time passages, particularly on 'The Reincarnation of Benjamin Breeg,' were powered entirely by Nicko's single Yamaha bass drum pedal — further proof of single-pedal technique's capability at the genre's most demanding modern level."
         },
         {
           "type": "Hi-Hat Stand",
-          "brand": "Premier",
-          "model": "Premier Heavy-Duty Hi-Hat Stand",
+          "brand": "Yamaha",
+          "model": "Yamaha Heavy-Duty Hi-Hat Stand",
           "notes": "Solid footing for fast hi-hat work at tempo"
         },
         {
           "type": "Throne",
-          "brand": "Premier",
-          "model": "Premier Percussion Throne",
+          "brand": "Yamaha",
+          "model": "Yamaha Percussion Throne",
           "notes": "Stable and ergonomic for long studio sessions"
         },
         {
@@ -4302,7 +4302,7 @@ export const articles = {
         "Shirley's forward, powerful drum placement carried over from Dance of Death",
         "AKG D112 kick mic for punchy, defined low end",
         "Complete takes built to translate directly to performing the album live in full",
-        "Sarm West Studios' live room captured the Premier kit with focus and power"
+        "Sarm West Studios' live room captured the Yamaha kit with focus and power"
       ]
     },
     "trackAnalysis": [
@@ -4358,7 +4358,7 @@ export const articles = {
     "faq": [
       {
         "question": "What drums does Nicko McBrain use on A Matter of Life and Death?",
-        "answer": "Nicko McBrain recorded A Matter of Life and Death (2006) on a Premier Artist kit — the same configuration carried over from Dance of Death and Brave New World. The setup featured a single 22-inch bass drum, three rack toms (10, 12, and 13 inch), and two floor toms (16 and 18 inch), with birch/basswood shells delivering a punchy, focused tone suited to Kevin Shirley's powerful production at Sarm West Studios. For Nicko's complete gear history across his Iron Maiden career, see the [Nicko McBrain drummer profile](/drummer/nicko-mcbrain)."
+        "answer": "Nicko McBrain recorded A Matter of Life and Death (2006) on a Yamaha Recording Custom kit — the same configuration carried over from Dance of Death and Brave New World. The setup featured a single 22-inch bass drum, three rack toms (10, 12, and 13 inch), and two floor toms (16 and 18 inch), with birch/basswood shells delivering a punchy, focused tone suited to Kevin Shirley's powerful production at Sarm West Studios. For Nicko's complete gear history across his Iron Maiden career, see the [Nicko McBrain drummer profile](/drummer/nicko-mcbrain)."
       },
       {
         "question": "Where did A Matter of Life and Death chart?",
@@ -4375,11 +4375,11 @@ export const articles = {
     ],
     "evolution": {
       "title": "From Dance of Death to A Matter of Life and Death: Concept Album Ambition",
-      "content": "A Matter of Life and Death represents the full maturity of Iron Maiden's reunion-era songwriting ambition. Where Dance of Death pushed into darker themes and longer tracks, A Matter of Life and Death committed fully to a unified concept — war, religion, mortality — executed with a consistency rare for a ten-track album.\n\n**The arc around A Matter of Life and Death:**\n- **Dance of Death (2003):** Darker themes, longer tracks, UK #2\n- **A Matter of Life and Death (2006):** Full concept album, performed live in sequence, UK #2, US #9\n- **The Final Frontier (2010):** Peak progressive ambition, Grammy nomination, UK #1 and US #1\n- **The Book of Souls (2015):** Double album extension of the progressive era\n\n**What stayed constant:** The single bass drum pedal and the Premier Artist kit carried over unchanged from Dance of Death, giving Nicko a stable platform as the band's songwriting reached its most ambitious form yet.",
+      "content": "A Matter of Life and Death represents the full maturity of Iron Maiden's reunion-era songwriting ambition. Where Dance of Death pushed into darker themes and longer tracks, A Matter of Life and Death committed fully to a unified concept — war, religion, mortality — executed with a consistency rare for a ten-track album.\n\n**The arc around A Matter of Life and Death:**\n- **Dance of Death (2003):** Darker themes, longer tracks, UK #2\n- **A Matter of Life and Death (2006):** Full concept album, performed live in sequence, UK #2, US #9\n- **The Final Frontier (2010):** Peak progressive ambition, Grammy nomination, UK #1 and US #1\n- **The Book of Souls (2015):** Double album extension of the progressive era\n\n**What stayed constant:** The single bass drum pedal and the Yamaha Recording Custom kit carried over unchanged from Dance of Death, giving Nicko a stable platform as the band's songwriting reached its most ambitious form yet.",
       "thenVsNow": [
         {
           "category": "Kit",
-          "then": "Premier Artist (2006)",
+          "then": "Yamaha Recording Custom (2006)",
           "now": "Sonor SQ1"
         },
         {
@@ -4389,7 +4389,7 @@ export const articles = {
         },
         {
           "category": "Snare",
-          "then": "Premier Signia 14x6.5\"",
+          "then": "Yamaha Recording Custom 14x6.5\"",
           "now": "Sonor Nicko McBrain Signature 14x6.5\""
         },
         {
@@ -4399,7 +4399,7 @@ export const articles = {
         },
         {
           "category": "Pedal",
-          "then": "Premier single pedal",
+          "then": "Yamaha single pedal",
           "now": "Sonor single pedal (still single!)"
         }
       ]

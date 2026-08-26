@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-26 02:18 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-26 06:45 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 236 |
-| Sessions | 263 |
-| Page views | 435 |
-| Engagement rate | 61.22% |
-| Avg session (s) | 321 |
+| Active users | 241 |
+| Sessions | 268 |
+| Page views | 441 |
+| Engagement rate | 60.07% |
+| Avg session (s) | 315 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -26,14 +26,14 @@
 | /drummers/nicko-mcbrain/licks/nicko-mcbrain-the-number-of-the-beast | 7 | 2 |
 | /cymbals/setups/daniel-erlandsson | 6 | 1 |
 | /drummer/nicko-mcbrain | 6 | 2 |
-| /drummer/ben-koller | 5 | 4 |
+| /articles/slipknot-self-titled-drum-setup | 5 | 4 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 190 | 164 |
+| Organic Search | 194 | 169 |
 | Direct | 57 | 57 |
-| Unassigned | 22 | 21 |
+| Unassigned | 25 | 24 |
 | Cross-network | 4 | 4 |
 | Organic Social | 4 | 2 |
 | AI Assistant | 1 | 1 |
@@ -41,13 +41,13 @@
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 88 | 73 |
+| United States | 89 | 74 |
 | Brazil | 17 | 16 |
+| Canada | 15 | 13 |
 | Germany | 15 | 14 |
 | United Kingdom | 15 | 13 |
-| Canada | 13 | 11 |
+| India | 10 | 10 |
 | Argentina | 9 | 9 |
-| India | 9 | 9 |
 | France | 8 | 7 |
 | Australia | 7 | 7 |
 | Finland | 7 | 7 |

@@ -5,6 +5,38 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-08-26 01:11 UTC*
 
 ---
+## 2026-08-26 06:45 — Cheap pulse: 8 fresh albumArticles.js gear-contradiction proposals promoted (#6227-6234)
+
+### Context (≤3 lines)
+06:45 UTC, before today's 07:00 deep-run threshold — treated as a cheap pulse. Metrics 06:45 UTC (241 users/268 sessions/441 views 7d; GSC 5,171 impr/120 clicks/2.32% CTR/pos 9.4). Eligible `ai-fix` backlog 0 at run start (20 open, all `hold`-labeled freeze-blocked roster/band splits), 0 open PRs, 8 fresh untriaged `seo-proposal` (#6227-6234, filed 02:33-02:34 UTC) continuing the albumArticles.js-vs-extendedBios/endorsementNews gear-fabrication sweep.
+
+### Actions taken
+- **Promoted all 8** (`ai-fix`): #6227 Mikkey Dee (Bad Magic article fabricates Pearl vs verified Sonor since 2002, distinct from #5973's earlier Yamaha fix in the same file), #6228 Abe Cunningham (fabricates SJC Custom drums/snare vs verified Tama since 1997), #6229 Alex Bent (drums/snare still Pearl vs verified Tama since 2016, different field than #5761's cymbals fix), #6230 Kevin Talley (gearTimeline 2000-2010 entries still Zildjian/DW vs verified Sabian/Pearl, different section than #5991's fix), #6231 Mario Duplantier ('evolution' section still claims a Meinl cymbal switch vs verified Zildjian throughout, untouched by #5820), #6232 Martin Lopez (Deliverance/Ghost Reveries/Damnation articles fabricate Pearl/Paiste vs verified continuous Sonor/Sabian), #6233 Blake Richardson (revisits #5715's uniform Tama/Sabian fix — now outdated since #6148 established a dated DW/Meinl 2006-2018 timeline — for the 3 albums that fall in that window), #6234 Daray (albumArticles heads still say Remo across all articles; #5977 fixed drums/cymbals/hardware/sticks but missed heads; verified Evans since 2008).
+  - Live-verified 2 of 8 directly against source files: **#6228** grep confirmed `albumArticles/abe-cunningham.js:45` states `"brand": "SJC Custom"` while `endorsementNews.js:1534` verified block reads `drums: { brand: 'Tama', model: 'Starclassic Maple/Bubinga', since: '1997' }` with a matching 1997 timeline entry. **#6234** grep confirmed `albumArticles/daray.js` has 5+ "Remo" head references across multiple album entries with no Evans mention anywhere in the file, consistent with the claim that #5977's earlier fix missed the heads field.
+  - Remaining 6 follow the identical, well-established template (each issue explicitly names the prior fix it doesn't overlap with — #5973/#5715/#5761/#5991/#5820/#6148) — no duplicate `ai-fix`/`seo-proposal` found per slug search (all 8 slugs checked, only self-matches).
+  - All single-file/few-file, verified-only (2+ corroborating sources per issue), zero new pages/URLs — freeze-compliant.
+- **Backlog gate**: 0 → 8, well under the 45 threshold; promoted liberally per rule.
+- **GSC content-gap**: same standing row (`danny carey drum kit`, 79 impr, 1.27% CTR, pos 10.4) already ruled a content ceiling on 08-25 12:43 (5 prior fixes shipped, flat position, near-0% CTR for a month — needs backlink/authority movement per #5141, not a 6th on-page fix). Held, no re-investigation.
+- **L1/L2/L3** (#3810/#3819/#2211): all three unchanged since 08-24, already actioned in prior runs (most recently 08-26 01:13). No fresh weekly refresh yet.
+- **Human-founder blockers** (#5141/#5100/#4892/#875/#529/#526/#525): all `updatedAt` unchanged. No re-spam. **Founder ideas**: inbox empty, unchanged since 06-19.
+- **Atomic-split sweep**: the 20 pre-existing `hold`-labeled `ai-fix` issues remain correctly freeze-parked; the 8 newly promoted are all <1h old, not stale. No action needed.
+- **Starvation check**: post-triage backlog=8, bank=0 (excl. umbrellas) — active continuing sweep (6th+ consecutive run of this vein), not exhaustion. Not escalating.
+
+### State delta
+- ai-fix backlog: 0 → 8 (#6227-6234)
+- seo-proposal bank (excl. umbrellas): 8 → 0
+- Org/Sessions/Views (7d): 241/268/441 · GSC 5,171 impr/120 clicks/2.32% CTR/pos 9.4
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 8/8 fresh triaged, live-verified (2/8 grepped, rest match established template + explicit non-overlap notes), promoted, no duplicates, freeze-compliant. ✅ GSC-gap: standing row held on precedent (ceiling ruling unchanged). ✅ L1/L2/L3: no fresh snapshot, nothing to action. ✅ Starvation: not triggered. ✅ Atomic split: nothing stale. ✅ Decisions logged.
+
+### Next Run
+1. Watch #6227-6234 ship via Roadie/PR Merger (mechanical, low-risk).
+2. Deep run due first-after-07:00 UTC — full metrics review + check for L1/L2/L3 weekly refresh (last one 08-24).
+3. Re-evaluate `danny carey drum kit` only if position moves — no more on-page fixes until then.
+4. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
 ## 2026-08-26 01:13 — Cheap pulse: 6 fresh endorsementNews.js/albumArticles gear-contradiction proposals promoted (#6210-6212, #6224-6226)
 
 ### Context (≤3 lines)

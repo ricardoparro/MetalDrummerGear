@@ -1401,7 +1401,7 @@ export const ENDORSEMENT_TIMELINE = {
     currentEndorsements: {
       drums: { brand: 'Tama', model: 'Starclassic Maple', since: '2016', signature: 'Signature Series Snare' },
       cymbals: { brand: 'Meinl', model: 'Byzance Brilliant Heavy Hammered / Classics Custom Dark', since: '2022' },
-      sticks: { brand: 'Vater', model: '5B / Power 5B', since: '2002', signature: false },
+      sticks: { brand: 'Tama', model: 'O-DVM2', since: '2016', signature: true },
       heads: { brand: 'Evans', model: 'G2 / EMAD2', since: '2016' },
       hardware: { brand: 'Tama', model: 'Speed Cobra 910 Double Pedal', since: '2016' },
     },
@@ -1437,6 +1437,14 @@ export const ENDORSEMENT_TIMELINE = {
         from: 'Remo Ambassador',
         to: 'Evans G2 / EMAD2',
         notes: 'Moved to Evans heads for the Megadeth era, pairing EMAD2 kick heads with Tama\'s Speed Cobra pedals for consistent attack',
+      },
+      {
+        year: 2016,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SWITCHED,
+        category: ENDORSEMENT_CATEGORIES.STICKS,
+        from: 'Vater 5B / Power 5B',
+        to: 'Tama O-DVM2',
+        notes: 'Switched to his own Tama O-DVM2 signature stick model for the Megadeth era, moving off Vater\'s Power 5B',
       },
       {
         year: 2022,

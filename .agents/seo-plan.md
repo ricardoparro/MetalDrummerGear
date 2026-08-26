@@ -6196,3 +6196,81 @@ Today (2026-08-25) is Tuesday — already logged as skipped twice today. No re-c
 2. File the final 2 carried-over, already-verified contradictions: **Dirk Verbeuren** (sticks: Vater vs verified Tama O-DVM2 signature; drums shell material: Maple vs verified Walnut/Birch) and **Ben Koller** (heads: Evans vs verified Remo; drums shell material: Performer B/B vs verified Maple). Both fully grep-verified already — no re-investigation needed, just file.
 3. Once those 2 ship, the endorsementNews.js-vs-extendedBios.js vein is genuinely exhausted (71/71 slugs checked, every flagged/carried candidate resolved) — don't start a 3rd full sweep without a specific new lead; candidates for the next vein: re-check `signatureGear.js`'s remaining entries beyond the already-fixed lars-ulrich one, or wait for the next weekly L1/L2/L3 signal.
 4. Drum-chair rotation: week 36 is group 0 (amon-amarth through cynic) — due next Monday 2026-08-31.
+
+
+---
+
+## 2026-08-25 (4th run, backfilled retroactively — this run's log entry was never written) — Filed the 2 carried-over verified contradictions + 4 fresh albumArticles.js follow-ups (#6210-6212, #6224-6226)
+
+*Note: this entry reconstructs a run that executed (issues #6210-6226 exist, filed 19:24-19:40 UTC 2026-08-25) but whose log write evidently didn't land — discovered and backfilled by the 2026-08-26 run below via `gh issue list` cross-check against this file's last logged state. Exact per-run audit/metrics detail from that run is not recoverable; only the proposal outcomes are known from GitHub.*
+
+### Proposals filed (6, later found to be filed; content reconstructed from issue bodies)
+1. #6210 — Dirk Verbeuren: endorsementNews.js sticks (Vater vs verified Tama O-DVM2 signature) — the carry-over from the 3rd run.
+2. #6211 — Ben Koller: endorsementNews.js heads (Evans vs verified Remo) — the other carry-over from the 3rd run.
+3. #6212 — Derek Roddy: albumArticles.js still says DW/Sabian in 2 of 3 articles, contradicting already-fixed Tama/Meinl.
+4. #6224 — Jocke Wallgren: albumArticles.js heads still say Remo across all 3 articles vs verified Evans since 2013.
+5. #6225 — Raymond Herrera: albumArticles.js snare + hardware pedal still say Pearl vs verified Tama/DW (follow-up to #5711's scoped fix).
+6. #6226 — Matt Garstka: albumArticles.js general kit entry still says Pearl, revisiting #5806's deferral with new evidence.
+
+This run appears to have started a **new vein**: `albumArticles.js` entries left stale even after the corresponding `endorsementNews.js` fix ships for that same drummer — a large multi-entry file gets fixed in scoped batches, and stragglers (different fields, different album-specific sub-articles) survive. #6210/#6211 close out the endorsementNews.js vein exactly as planned; #6212/#6224/#6225/#6226 open the next one.
+
+### Drum-chair watch
+Tuesday 2026-08-25 — not Monday, already logged skipped twice earlier today.
+
+---
+
+## 2026-08-26 — Continued the albumArticles.js-vs-fixed-source staleness vein: 8 more contradictions filed (#6227-6234), 2 personally-verified false leads discarded
+
+### Bank check
+Open `seo-proposal` at run start: 9 — 6 real (#6210-6212, #6224-6226, all still untriaged/open per `gh issue list`) + 3 standing umbrellas (#3810/#3819/#2211). True untriaged bank: 6. Well under the 45 cap → cleared to file up to 8 net-new.
+
+### Audit summary
+- Robots.txt (served via `api/robots.js`): all 8 AI crawlers explicitly allowed (GPTBot, ChatGPT-User, ClaudeBot, Claude-Web, anthropic-ai, PerplexityBot, Applebot-Extended, cohere-ai). ✅
+- `/public/llms/**/*.md`: 2,011 files live. ✅ (unchanged)
+- `ai-fix` backlog: 26 open, well under the 45 cap.
+- Metrics (2026-08-26 02:18 UTC refresh): 236 users/263 sessions/435 views (7d); GSC 5,171 impr/120 clicks/2.32% CTR/pos 9.4. Sole content-gap row `danny carey drum kit` (79 impr, 1.27% CTR) — already ruled a position-ceiling row and held repeatedly per decisions-log precedent (5 prior fix attempts). Not re-filed.
+
+### Vein continuation: albumArticles.js staleness for drummers whose endorsementNews.js is already fixed
+Dispatched a research agent to check the ~28 drummer slugs with (a) an already-fixed `endorsementNews.js` entry and (b) an `albumArticles/<slug>.js` file, for the same still-stale-brand-claim bug class the 2026-08-25 4th run found in derek-roddy/jocke-wallgren/raymond-herrera/matt-garstka. It reported 15 candidates. Personally grep-verified every one against `endorsementNews.js`/`extendedBios.js` before filing (per the repo's hard-won "spot-checking a sample is not verification" lesson) — this caught **one false positive**: the agent flagged Scott Travis's Angel of Retribution (2005)/Nostradamus (2008)/Redeemer of Souls (2014) articles as wrong for saying Pearl/Sabian, but `endorsementNews.js`'s own timeline confirms a genuine Tama→Pearl switch in 2005 (matching the article's own explicit "gear story in three chapters" narrative) — not a contradiction, correctly discarded.
+
+Also discarded (not personally verified this run, no time): nick-augusto, nicko-mcbrain, richard-christy, tim-yeung, travis-orbin, ryan-van-poederooyen, inferno, morgan-agren, arin-ilejay — flagged by the research agent with moderate confidence but not grep-verified before the file-8 cap was reached. Carried to next run (see below), do not treat as confirmed.
+
+**Filed 8, all personally grep-verified + dedup-checked against prior closed issues' diff scope (not just title-matched) before filing** — every one of these 8 slugs already had a prior CLOSED issue touching the same file, so a naive title/name search would have looked like a duplicate; verification required diffing the merged fix's actual line range against my found lines to confirm no overlap:
+
+1. **#6227** — Mikkey Dee: Bad Magic (2015) article fabricates Pearl kit (lines 2914-2945) — different fabrication than #5973 (Yamaha, fixed 08-21, different lines). Verified Sonor since 2002 continuous.
+2. **#6228** — Abe Cunningham: drums/snare say SJC Custom (lines 44-76) — different field than #6043 (cymbals, fixed 08-25, diff starts line 820). Verified Tama since 1997.
+3. **#6229** — Alex Bent: drums/snare say Pearl (lines 44-76) — different field than #5761 (cymbals, fixed 08-18, diff starts line 82). Verified Tama since 2016.
+4. **#6230** — Kevin Talley: gearTimeline entries (lines 189-221) say Zildjian/DW — different section than #5991 (general overview, fixed 08-24, diff has a gap at 143-232 that never touched these lines). Verified Sabian/Pearl since 2000.
+5. **#6231** — Mario Duplantier: evolution/thenVsNow section (lines 829-850) claims a Meinl switch — sits before #5820's diff range (starts line 1292, fixed 08-19). Verified continuous Zildjian.
+6. **#6232** — Martin Lopez: Deliverance/Ghost Reveries/Damnation articles (lines 1670-2814) say Pearl/Paiste — different era than #5993 (current/Soen-era article, lines 2496-2739, fixed 08-25). Verified continuous Sonor/Sabian through the Opeth era (1997-2010).
+7. **#6233** — Blake Richardson: Colors/Great Misdirect/Parallax II articles say Tama/Sabian — #5715's fix (08-18) applied Tama/Sabian *uniformly* across all 8 entries before a dated timeline existed; #6148 (08-25, after #5715) established the real dated timeline (DW/Meinl 2006-2018). Framed explicitly as a revisit-with-newer-evidence, not a fresh bug.
+8. **#6234** — Daray: heads still say Remo throughout — #5977 (fixed 08-24) corrected drums/cymbals/hardware/sticks but left heads untouched. Verified Evans since 2008.
+
+All 8 are single- or scoped-section edits to existing live `/articles/<slug>` routes, zero new pages/URLs, freeze-compliant (Rule 2: depth on existing pages fixing broken/rot data).
+
+### Lesson reinforced
+Extending the "spot-checked a sample is not verification" lesson: on a file with a **prior closed fix**, checking the issue title/name for dedup is not enough — the fix may have been scoped to one field/section/era while other fields/sections/eras in the same file remain wrong. The reliable check is diffing the merge commit's actual touched line ranges (`git show <sha> -- <file> | grep "^@@"`) against the newly-found lines, not just searching by drummer name. Also: a "fix applied uniformly because no dated evidence existed yet" (blake-richardson/#5715) can itself become wrong once a later issue establishes the missing dates — worth re-checking older uniform fixes once a drummer's `endorsementNews.js` timeline gets filled in.
+
+### Drum-chair watch
+Today (2026-08-26) is Wednesday — not Monday. Skipped per the "first run each Monday" gate; last sweep was 2026-08-24 (week 35, group 3/4, 0 candidates); next due 2026-08-31 (week 36, group 0, amon-amarth through cynic).
+
+### Proposals filed this run (8)
+1. #6227 — Mikkey Dee
+2. #6228 — Abe Cunningham
+3. #6229 — Alex Bent
+4. #6230 — Kevin Talley
+5. #6231 — Mario Duplantier
+6. #6232 — Martin Lopez
+7. #6233 — Blake Richardson
+8. #6234 — Daray
+
+### Open proposals waiting on CEO triage
+- #6227-#6234 (filed this run, 0d old)
+- #6210-#6212, #6224-#6226 (filed 08-25, ~7-19h old, untriaged as of this run's start)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers only.
+
+### Next run
+1. Watch #6227-6234 and #6210-6212/#6224-6226 ship via Roadie/PR Merger.
+2. **9 slugs have research-agent-flagged mismatches not yet personally verified**: nick-augusto, nicko-mcbrain, richard-christy, tim-yeung, travis-orbin, ryan-van-poederooyen, inferno, morgan-agren, arin-ilejay. Verify each via direct grep (including diffing against any prior closed-issue fix's line range, per this run's lesson) before filing/rejecting — do not re-run a full sweep from scratch, this is a short carry-over list.
+3. Once the above 9 are resolved, consider whether the albumArticles.js-vs-fixed-source vein is exhausted or whether to sweep the remaining ~40 drummer slugs not yet checked in this vein.
+4. Drum-chair rotation: week 36 is group 0 (amon-amarth through cynic) — due Monday 2026-08-31.

@@ -820,7 +820,7 @@ export const ENDORSEMENT_TIMELINE = {
       drums: { brand: 'Tama', model: 'Starclassic Performer B/B', since: '2017' },
       cymbals: { brand: 'Zildjian', model: 'K Custom & A Custom Series', since: '2004' },
       sticks: { brand: 'Vic Firth', model: 'American Classic 5B', since: '1999' },
-      heads: { brand: 'Evans', model: 'G1/G2 Coated', since: '1999' },
+      heads: { brand: 'Remo', model: 'Coated', since: '1999' },
       hardware: { brand: 'Tama', model: 'Iron Cobra Double Pedal', since: '2004' },
     },
     timeline: [

@@ -1349,8 +1349,16 @@ export const ENDORSEMENT_TIMELINE = {
         changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
         category: ENDORSEMENT_CATEGORIES.DRUMS,
         from: null,
+        to: 'Pearl',
+        notes: 'Signed with Pearl for a Pearl Masters Custom maple-shell kit through Sepultura\'s genre-defining "Chaos A.D." (1993) and "Roots" (1996), fusing tribal Brazilian percussion with thrash metal',
+      },
+      {
+        year: 1996,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SWITCHED,
+        category: ENDORSEMENT_CATEGORIES.DRUMS,
+        from: 'Pearl',
         to: 'Tama',
-        notes: 'Played a Tama Starclassic Maple kit through Sepultura\'s genre-defining "Chaos A.D." (1993), fusing tribal Brazilian percussion with thrash metal',
+        notes: 'Returned to Tama after the Chaos A.D./Roots-era Pearl deal ended, playing Tama through the rest of his Sepultura tenure until leaving the band in 2006',
       },
       {
         year: 1993,

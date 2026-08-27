@@ -15438,7 +15438,7 @@ export const DRUMMER_EVOLUTION = {
     band: 'Overkill / Shadows Fall',
     totalYearsActive: '1999-Present',
     profileImage: '/images/drummers/jason-bittner.webp',
-    summary: 'A Connecticut-born, Berklee-trained drummer whose career spans four major metal bands across three decades — from Shadows Fall\'s NWOAHM breakthrough, through a Flotsam and Jetsam interlude and session work (including Sanctuary\'s 2014 comeback), to becoming Overkill\'s full-time thrash engine. Jason Bittner\'s gear evolution runs from an early Tama/Sabian setup built for Shadows Fall\'s Grammy-nominated The War Within to the Mapex/Zildjian rig that has powered his Overkill tenure since 2017.',
+    summary: 'A Connecticut-born, Berklee-trained drummer whose career spans four major metal bands across three decades — from Shadows Fall\'s NWOAHM breakthrough, through a Flotsam and Jetsam interlude and session work (including Sanctuary\'s 2014 comeback), to becoming Overkill\'s full-time thrash engine. Jason Bittner has played a consistent Mapex/Zildjian rig since signing with both brands in 1997, carrying the same setup from Shadows Fall\'s Grammy-nominated The War Within through his ongoing Overkill tenure.',
 
     eras: [
       {
@@ -15447,34 +15447,34 @@ export const DRUMMER_EVOLUTION = {
         years: '1999–2004',
         startYear: 1999,
         endYear: 2004,
-        description: 'Jason Bittner joined New England metalcore band Shadows Fall in 1999, helping develop the New Wave of American Heavy Metal (NWOAHM) sound — a fusion of metalcore groove and thrash-tempo double bass. His early gear was a developing Tama setup with a growing Sabian cymbal endorsement, built out fully by the time of The Art of Balance (2002), the album that announced Shadows Fall as NWOAHM\'s technical benchmark.',
+        description: 'Jason Bittner joined New England metalcore band Shadows Fall in 1999, helping develop the New Wave of American Heavy Metal (NWOAHM) sound — a fusion of metalcore groove and thrash-tempo double bass. He had signed with Mapex and Zildjian in 1997, and that early setup was still developing by the time of The Art of Balance (2002), the album that announced Shadows Fall as NWOAHM\'s technical benchmark.',
         albums: ['Somber Eyes to the Sky (1997, session work)', 'The Art of Balance (2002)'],
         tours: ['New England Metal Fest appearances', 'The Art of Balance touring cycle'],
         image: null,
 
         gear: {
           drums: {
-            item: 'Tama kit (developing setup)',
-            details: 'Early Tama endorsement, configuration still evolving',
-            notes: 'Tama partnership formed early in Bittner\'s career, well before the Starclassic Performer B/B became his signature kit.',
+            item: 'Mapex kit (developing setup)',
+            details: 'Early Mapex endorsement, configuration still evolving',
+            notes: 'Mapex partnership formed in 1997, at the very start of Bittner\'s career, well before the Saturn V became his signature kit.',
             change: null,
           },
           snare: {
-            item: 'Tama steel 14"x6.5"',
+            item: 'Mapex steel 14"x6.5"',
             details: 'Standard steel shell',
             notes: 'Sharp attack suited to cutting through Shadows Fall\'s dense metalcore guitar arrangements.',
             change: null,
           },
           cymbals: {
-            item: 'Sabian (early endorsement)',
-            details: 'Developing Sabian setup',
-            notes: 'Early-career Sabian endorsement that would grow into the full HHX/HH setup of the band\'s peak years.',
+            item: 'Zildjian (early endorsement)',
+            details: 'Developing Zildjian setup',
+            notes: 'Early-career Zildjian endorsement, signed in 1997, that would grow into the full K & A Custom setup of the band\'s peak years.',
             change: null,
           },
           hardware: {
-            item: 'Double bass pedal (pre-DW 9002)',
+            item: 'Double bass pedal (pre-Mapex Falcon)',
             details: 'Early double-kick configuration',
-            notes: 'Pre-dates the DW 9002 that would later formalize his double-bass sound.',
+            notes: 'Pre-dates the Mapex Falcon double pedal that would formalize his double-bass sound in 2002.',
             change: null,
           },
           sticks: {
@@ -15499,7 +15499,7 @@ export const DRUMMER_EVOLUTION = {
 
         keyChanges: [
           'Joined Shadows Fall in 1999, helping pioneer the NWOAHM sound',
-          'Tama endorsement established early in his career',
+          'Mapex and Zildjian endorsements established in 1997, at the start of his career',
           'The Art of Balance (2002) became NWOAHM\'s definitive technical benchmark',
         ],
 
@@ -15517,35 +15517,35 @@ export const DRUMMER_EVOLUTION = {
         years: '2004–2012',
         startYear: 2004,
         endYear: 2012,
-        description: 'Bittner\'s career peak with Shadows Fall. The Tama Starclassic Performer B/B — birch/bubinga hybrid shells that balanced attack with warmth — became his defining kit across The War Within (2004), a Grammy-nominated breakthrough, through Threads of Life (2007) and Fire from the Sky (2012), the band\'s final studio album before their extended hiatus.',
+        description: 'Bittner\'s career peak with Shadows Fall. The Mapex Saturn V — an all-maple shell pack that balanced attack with warmth — became his defining kit across The War Within (2004), a Grammy-nominated breakthrough, through Threads of Life (2007) and Fire from the Sky (2012), the band\'s final studio album before their extended hiatus.',
         albums: ['The War Within (2004)', 'Threads of Life (2007)', 'Fire from the Sky (2012)'],
         tours: ['Ozzfest 2005 (headlining)', 'Threads of Life World Tour'],
         image: null,
 
         gear: {
           drums: {
-            item: 'Tama Starclassic Performer B/B',
-            details: 'Birch/bubinga hybrid: double 22"x18" bass drums, 10"/12" rack toms, 14"/16" floor toms',
-            notes: 'The birch/bubinga shell combination delivers focused attack with added tonal warmth — the kit that defines the entire Shadows Fall peak era.',
+            item: 'Mapex Saturn V',
+            details: 'All-maple shell pack: double 22" bass drums, 10"/12" rack toms, 14"/16" floor toms',
+            notes: 'The all-maple shell construction delivers focused attack with added tonal warmth — the kit that defines the entire Shadows Fall peak era.',
             change: CHANGE_TYPES.UPGRADE,
           },
           snare: {
-            item: 'Tama Starphonic Steel 14"x6.5"',
-            details: 'Steel shell, sharp attack',
+            item: 'Mapex Black Panther Sledgehammer 14"x6.5" Brass',
+            details: 'Brass shell, sharp attack',
             notes: 'Cuts through Shadows Fall\'s layered NWOAHM guitar arrangements with immediate upper-frequency projection.',
             change: CHANGE_TYPES.UPGRADE,
           },
           cymbals: {
-            item: 'Sabian HHX / HH Series',
-            details: '14" hi-hats, 16"/18" crashes, 20" ride, HHX China',
-            notes: 'Full Sabian HHX/HH setup established — hand-hammered B20 bronze for brightness that projects above dense guitar mixes.',
+            item: 'Zildjian K & A Custom Series',
+            details: '14" K hi-hats, 18"/19" A Custom crashes, 21" K Custom ride, 18" K China',
+            notes: 'Full Zildjian K & A Custom setup established — the K Custom ride\'s dark, defined bell projects above dense guitar mixes.',
             change: CHANGE_TYPES.UPGRADE,
           },
           hardware: {
-            item: 'DW 9002 Double Bass Pedal',
-            details: 'Dual-chain drive',
-            notes: 'The pedal that formalized Bittner\'s double-bass sound — matched action across both pedal sides for metronomic precision.',
-            change: CHANGE_TYPES.SWITCH,
+            item: 'Mapex Falcon Double Pedal',
+            details: 'Cam-driven double pedal',
+            notes: 'The pedal that formalized Bittner\'s double-bass sound, adopted in 2002 for The Art of Balance sessions — matched action across both pedal sides for metronomic precision.',
+            change: CHANGE_TYPES.NEW,
           },
           sticks: {
             item: 'Vic Firth 5B',
@@ -15568,10 +15568,10 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
-          'Upgraded to the Tama Starclassic Performer B/B — his signature kit for over a decade',
+          'The Mapex Saturn V became his signature kit for over a decade',
           'The War Within (2004) earned a Grammy nomination',
-          'Full Sabian HHX/HH cymbal setup established',
-          'Switched to the DW 9002 double bass pedal',
+          'Full Zildjian K & A Custom cymbal setup established',
+          'Adopted the Mapex Falcon double bass pedal in 2002',
           'Headlined Ozzfest with Shadows Fall in 2005',
         ],
 
@@ -15589,33 +15589,33 @@ export const DRUMMER_EVOLUTION = {
         years: '2013–2017',
         startYear: 2013,
         endYear: 2017,
-        description: 'With Shadows Fall on hiatus, Bittner joined thrash veterans Flotsam and Jetsam in 2013 and took on session work across the thrash scene — including drumming on Sanctuary\'s 2014 comeback album The Year the Sun Died, recorded after original drummer Dave Budbill\'s passing. This transitional stretch kept his Tama/Sabian/DW setup intact while a new Mapex relationship began taking shape.',
+        description: 'With Shadows Fall on hiatus, Bittner joined thrash veterans Flotsam and Jetsam in 2013 and took on session work across the thrash scene — including drumming on Sanctuary\'s 2014 comeback album The Year the Sun Died, recorded after original drummer Dave Budbill\'s passing. This transitional stretch kept his Mapex/Zildjian setup intact through the session years.',
         albums: ['Flotsam and Jetsam - Flotsam and Jetsam (2016)', 'Sanctuary - The Year the Sun Died (2014, session)'],
         tours: ['Flotsam and Jetsam touring lineup', 'Sanctuary reunion touring support'],
         image: null,
 
         gear: {
           drums: {
-            item: 'Tama Starclassic Performer B/B',
+            item: 'Mapex Saturn V',
             details: 'Unchanged from the Shadows Fall peak years',
             notes: 'Carried the same kit into Flotsam and Jetsam and his Sanctuary session work.',
             change: null,
           },
           snare: {
-            item: 'Tama Starphonic Steel 14"x6.5"',
-            details: 'Unchanged steel shell',
+            item: 'Mapex Black Panther Sledgehammer 14"x6.5" Brass',
+            details: 'Unchanged brass shell',
             notes: 'Same snare across Shadows Fall, Flotsam and Jetsam, and session dates.',
             change: null,
           },
           cymbals: {
-            item: 'Sabian HHX / HH Series',
+            item: 'Zildjian K & A Custom Series',
             details: 'Unchanged setup',
-            notes: 'Sabian endorsement carried through the transitional years.',
+            notes: 'Zildjian endorsement carried through the transitional years.',
             change: null,
           },
           hardware: {
-            item: 'DW 9002 Double Bass Pedal',
-            details: 'Unchanged dual-chain drive',
+            item: 'Mapex Falcon Double Pedal',
+            details: 'Unchanged cam-driven double pedal',
             notes: 'Reliable pedal choice for session work across multiple thrash acts.',
             change: null,
           },
@@ -15642,7 +15642,7 @@ export const DRUMMER_EVOLUTION = {
         keyChanges: [
           'Joined Flotsam and Jetsam in 2013 during Shadows Fall\'s hiatus',
           'Session work on Sanctuary\'s The Year the Sun Died (2014)',
-          'Maintained Tama/Sabian/DW setup through a period of high touring turnover',
+          'Maintained Mapex/Zildjian setup through a period of high touring turnover',
           'Built the thrash-scene relationships that led to the Overkill opportunity',
         ],
 
@@ -15660,7 +15660,7 @@ export const DRUMMER_EVOLUTION = {
         years: '2017–Present',
         startYear: 2017,
         endYear: 2026,
-        description: 'Bittner joined thrash institution Overkill in 2017, replacing Ron Lipnicki, and switched his entire setup to Mapex and Zildjian — a clean break from the Tama/Sabian rig that had defined his first two decades. The Wings of War (2019) and Scorched (2023), the first Overkill album fully written with Bittner behind the kit, cemented him as one of thrash\'s most reliable modern engines.',
+        description: 'Bittner joined thrash institution Overkill in 2017, replacing Ron Lipnicki, carrying forward the same Mapex and Zildjian setup he\'d played since 1997. The Wings of War (2019) and Scorched (2023), the first Overkill album fully written with Bittner behind the kit, cemented him as one of thrash\'s most reliable modern engines.',
         albums: ['The Wings of War (2019)', 'Scorched (2023)'],
         tours: ['Overkill World Tours 2017–Present'],
         image: null,
@@ -15669,26 +15669,26 @@ export const DRUMMER_EVOLUTION = {
           drums: {
             item: 'Mapex Saturn V',
             details: 'All-maple shell pack: double 22" bass drums, 10"/12" rack toms, 14"/16" floor toms',
-            notes: 'A clean brand switch from Tama for the new Overkill chair — all-maple construction for a warmer, more resonant thrash tone.',
-            change: CHANGE_TYPES.SWITCH,
+            notes: 'The same Saturn V that defined his Shadows Fall years, carried into the new Overkill chair — all-maple construction for a warmer, more resonant thrash tone.',
+            change: null,
           },
           snare: {
             item: 'Mapex Black Panther Sledgehammer 14"x6.5" Brass',
             details: 'Brass shell',
-            notes: 'Steel-edged crack that cuts through Overkill\'s dense thrash riffing — a sharper, more explosive replacement for the Tama Starphonic.',
-            change: CHANGE_TYPES.SWITCH,
+            notes: 'Steel-edged crack that cuts through Overkill\'s dense thrash riffing — the same snare he\'s played since the Shadows Fall peak years.',
+            change: null,
           },
           cymbals: {
             item: 'Zildjian K & A Custom Series',
             details: '14" K hi-hats, 18"/19" A Custom crashes, 21" K Custom ride, 18" K China',
-            notes: 'Switched from Sabian to Zildjian — the K Custom ride\'s dark, defined bell suits classic thrash riding patterns.',
-            change: CHANGE_TYPES.SWITCH,
+            notes: 'The same Zildjian K & A Custom setup carried over from Shadows Fall — the K Custom ride\'s dark, defined bell suits classic thrash riding patterns.',
+            change: null,
           },
           hardware: {
             item: 'Mapex Falcon Double Pedal',
             details: 'Cam-driven double pedal',
-            notes: 'Replaced the DW 9002 as part of the full Mapex hardware switch when he joined Overkill.',
-            change: CHANGE_TYPES.SWITCH,
+            notes: 'The same Falcon double pedal he\'s used since 2002, carried into the Overkill era.',
+            change: null,
           },
           sticks: {
             item: 'Promark Jason Bittner Signature 5BX',
@@ -15712,13 +15712,13 @@ export const DRUMMER_EVOLUTION = {
 
         keyChanges: [
           'Joined Overkill in 2017, replacing Ron Lipnicki',
-          'Complete gear switch: Tama to Mapex, Sabian to Zildjian, DW to Mapex Falcon',
+          'Carried the same Mapex Saturn V, Zildjian K & A Custom, and Mapex Falcon setup from the Shadows Fall years — no gear change with the move',
           'First signature stick model, the Promark Jason Bittner 5BX',
           'Scorched (2023) — the first Overkill album fully written with Bittner in the band',
         ],
 
         quote: {
-          text: "Joining Overkill meant a clean slate on gear too — new drums, new cymbals, new pedal. It let me build a sound that was mine from day one in this band.",
+          text: "Walking into Overkill with the same Mapex kit and Zildjian cymbals I'd played my whole career made the transition easy — the gear was already dialed in, so I could focus on learning the songs.",
           source: 'Interview, 2023',
         },
 
@@ -15737,11 +15737,11 @@ export const DRUMMER_EVOLUTION = {
       },
       {
         q: 'What gear does Jason Bittner use now?',
-        a: 'With Overkill, Jason Bittner plays a Mapex Saturn V all-maple kit centered on his Mapex Black Panther Sledgehammer 14"x6.5" brass snare, a Zildjian K & A Custom cymbal setup, a Mapex Falcon double pedal, and his own Promark Jason Bittner Signature 5BX sticks — a complete brand switch from the Tama/Sabian/DW rig he used throughout his Shadows Fall years.',
+        a: 'With Overkill, Jason Bittner plays a Mapex Saturn V all-maple kit centered on his Mapex Black Panther Sledgehammer 14"x6.5" brass snare, a Zildjian K & A Custom cymbal setup, a Mapex Falcon double pedal, and his own Promark Jason Bittner Signature 5BX sticks — the same Mapex/Zildjian rig he\'s played since signing with both brands in 1997, in Shadows Fall\'s formative years.',
       },
       {
         q: 'How did Jason Bittner\'s playing evolve across his career?',
-        a: 'Bittner developed his technical foundation in Shadows Fall, fusing metalcore groove with thrash-tempo double bass to help define NWOAHM. That precision transferred directly to Overkill\'s thrash context in 2017, proving — as his gear switch from Tama to Mapex and Sabian to Zildjian symbolized — that the underlying discipline mattered more than any single genre or brand.',
+        a: 'Bittner developed his technical foundation in Shadows Fall, fusing metalcore groove with thrash-tempo double bass to help define NWOAHM. That precision transferred directly to Overkill\'s thrash context in 2017 — playing the same Mapex and Zildjian setup he\'d used since 1997 — proving that the underlying discipline mattered more than any change of band or genre.',
       },
       {
         q: 'Did Jason Bittner play on any Sanctuary albums?',
@@ -15750,7 +15750,7 @@ export const DRUMMER_EVOLUTION = {
     ],
 
     metaTitle: 'Jason Bittner Gear Evolution Timeline | Shadows Fall to Overkill Drum Kit History',
-    metaDescription: 'Explore Jason Bittner\'s complete drum gear evolution: Tama Starclassic Performer B/B and Sabian HHX on Shadows Fall\'s Grammy-nominated The War Within (2004) → Flotsam and Jetsam and Sanctuary session years → the full Mapex/Zildjian switch after joining Overkill in 2017, replacing Ron Lipnicki. Nearly three decades, era by era.',
+    metaDescription: 'Explore Jason Bittner\'s complete drum gear evolution: the Mapex Saturn V kit and Zildjian K & A Custom cymbals he\'s played since signing with both brands in 1997, through Shadows Fall\'s Grammy-nominated The War Within (2004), Flotsam and Jetsam and Sanctuary session years, and his ongoing Overkill tenure since 2017, replacing Ron Lipnicki. Nearly three decades, one consistent rig.',
   },
 
   // ==========================================

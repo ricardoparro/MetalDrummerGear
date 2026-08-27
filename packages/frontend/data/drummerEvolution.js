@@ -873,39 +873,39 @@ export const DRUMMER_EVOLUTION = {
 
       {
         id: 'portnoy-1997-falling-infinity',
-        era: 'Yamaha Era',
+        era: 'Falling into Infinity Era',
         years: '1997–1998',
         startYear: 1997,
         endYear: 1998,
-        description: 'Portnoy switched to Yamaha during a turbulent creative period. The Yamaha Recording Custom gave him a warmer, more studio-focused tone.',
+        description: 'A turbulent, label-pressured creative period for Dream Theater, but Portnoy\'s rig stayed put — the same Tama setup carried through recording and the tour.',
         albums: ['Falling into Infinity (1997)'],
         tours: ['Falling into Infinity Tour'],
         image: null,
 
         gear: {
           drums: {
-            item: 'Yamaha Recording Custom',
-            details: 'Birch/Beech shells: 22"/24" kicks, 8"/10"/12"/13"/14"/16"/18" toms',
-            notes: 'Switched to Yamaha for warmer recording tone; large kit maintained.',
-            change: CHANGE_TYPES.SWITCH,
+            item: 'Tama Artstar II (expanded)',
+            details: 'Birch shells: 22"/24" kicks, 8"/10"/12"/13"/14"/16"/18" toms',
+            notes: 'No brand change — continued on the same expanded Tama Artstar II kit from the Awake era.',
+            change: null,
           },
           snare: {
-            item: 'Yamaha Recording Custom 14"×6.5"',
-            details: 'Birch shell',
-            notes: 'Warm, musical snare tone for the more melodic album.',
-            change: CHANGE_TYPES.SWITCH,
+            item: 'Tama Bell Brass 14"×6.5"',
+            details: 'Seamless bell brass shell',
+            notes: 'Continued using the Bell Brass snare for crack and projection.',
+            change: null,
           },
           cymbals: {
             item: 'Zildjian A Custom',
             details: '14" hi-hats, 17"/18"/19" crashes, 22" ride, China cymbals',
-            notes: 'Continued Zildjian relationship through brand switch.',
+            notes: 'No change to cymbal setup.',
             change: null,
           },
           hardware: {
-            item: 'Yamaha HH / DW 5000 Pedals',
-            details: 'Mix of Yamaha stands and DW double pedal',
-            notes: 'Yamaha hardware for stands, DW for pedals.',
-            change: CHANGE_TYPES.SWITCH,
+            item: 'Tama Iron Cobra HP900 Double Pedal',
+            details: 'Twin kick configuration',
+            notes: 'Continued on Tama hardware.',
+            change: null,
           },
           sticks: {
             item: 'Pro-Mark Mike Portnoy Signature',
@@ -914,10 +914,10 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           heads: {
-            item: 'Remo Pinstripe',
-            details: 'Controlled, focused tone',
-            notes: 'Pinstripe for the studio sessions.',
-            change: CHANGE_TYPES.SWITCH,
+            item: 'Remo Emperor',
+            details: 'Double-ply for heavier playing',
+            notes: 'No change from the Awake-era head setup.',
+            change: null,
           },
         },
 
@@ -928,15 +928,9 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
-          'Brand switch to Yamaha Recording Custom',
-          'More melodic, studio-oriented sound',
-          'DW double pedal introduced',
+          'No gear changes — same Tama rig as the Awake era',
+          'More melodic, studio-oriented songwriting despite unchanged gear',
         ],
-
-        quote: {
-          text: "Yamaha gave me a warmth I hadn't found with Tama. For the studio, it was exactly what Falling into Infinity needed.",
-          source: 'Yamaha Artist Profile, 1997',
-        },
 
         videos: [],
       },
@@ -956,8 +950,8 @@ export const DRUMMER_EVOLUTION = {
           drums: {
             item: 'Tama Starclassic Maple',
             details: 'Maple shells: 22"/24" kicks, 8"/10"/12"/13"/14"/16"/18" toms',
-            notes: 'Return to Tama with the Starclassic Maple — warmer and more resonant than the Artstar.',
-            change: CHANGE_TYPES.SWITCH,
+            notes: 'Upgraded within Tama to the Starclassic Maple — warmer and more resonant than the Artstar.',
+            change: CHANGE_TYPES.UPGRADE,
           },
           snare: {
             item: 'Tama Starclassic Maple 14"×6.5"',
@@ -974,8 +968,8 @@ export const DRUMMER_EVOLUTION = {
           hardware: {
             item: 'Tama Iron Cobra HP900 Double Pedal',
             details: 'Speed Cobra setup',
-            notes: 'Back to Tama hardware with return to Tama drums.',
-            change: CHANGE_TYPES.SWITCH,
+            notes: 'Continued on the same Tama Iron Cobra hardware.',
+            change: null,
           },
           sticks: {
             item: 'Pro-Mark Mike Portnoy Signature',
@@ -1004,7 +998,7 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
-          'Return to Tama with Starclassic Maple',
+          'Upgraded within Tama to the Starclassic Maple',
           'Roland Octapad added for live samples',
           'Largest kit configuration to date',
           'Metropolis 2000 tour featured elaborate drum riser',

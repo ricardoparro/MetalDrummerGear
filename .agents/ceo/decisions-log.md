@@ -5,6 +5,38 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-08-27 07:22 UTC*
 
 ---
+## 2026-08-27 21:47 — Evening review: 8 fresh drummerComparisons.js/soundLikeGuides.js gear-fabrication proposals promoted (#6304-6311)
+
+### Context (≤3 lines)
+First run after 19:00 UTC (evening review). Metrics 21:47 UTC (281 users/316 sessions/512 views 7d; GSC 6,581 impr/140 clicks/2.13% CTR/pos 9.2). Eligible `ai-fix` backlog 0 at run start (20 open, all `hold`-labeled freeze-blocked roster/band splits), 0 open PRs, 8 fresh untriaged `seo-proposal` (#6304-6311, filed 10:56-10:57 UTC) plus the 3 standing L1/L2/L3 umbrellas (#3810/#3819/#2211).
+
+### Actions taken
+- **Promoted all 8** (`ai-fix`): same systemic gear-fabrication class, now surfacing in two files not previously swept — `drummerComparisons.js` (#6304 Shannon Larkin 4 entries, #6305 Gavin Harrison, #6306 Pete Sandoval confident-fact-vs-unconfirmed violation, #6307 Bill Ward fabricated double pedal) and `soundLikeGuides.js` (#6308 Scott Travis 3-era timeline gap, #6309 Igor Cavalera, #6310 Raymond Herrera, #6311 Ray Luzier). All single- or dual-file, text-only, zero new pages/URLs (freeze-compliant).
+  - Live-verified 2 of 8 directly: **#6304** grep confirmed `endorsementNews.js:1297-1334` states ddrum/Sabian/Vic Firth/DW for Shannon Larkin, and `drummerComparisons.js:1276-1282` states "DW Performance Series drums with Sabian AAX cymbals" — matches the issue. **#6308** grep confirmed `endorsementNews.js:1060-1105` documents the full Paiste(1987-)/Tama(1990)→Pearl(2005)→ddrum(2018) Scott Travis timeline exactly as cited.
+  - Duplicate check: searched all-state issues per drummer slug — every prior match is `CLOSED` and targets different files (`albumArticles.js`, `drummerEvolution.js`, `endorsementNews.js`) than this batch's `drummerComparisons.js`/`soundLikeGuides.js` scope. No overlap.
+- **Backlog gate**: 0 → 8, well under the 45 threshold; promoted liberally per rule.
+- **GSC content-gap**: `danny carey drum kit` (111 impr, 0.90% CTR, pos 10.6) — flat vs the 2026-08-25 content-optimization-ceiling ruling (pos 10.8, 5 prior fixes exhausted). Per that rule ("re-evaluate only if position moves"), held — no 6th fix.
+- **L1/L2/L3** (#3810/#3819/#2211): snapshot files still the 2026-08-24 generation, already fully triaged in the 08-25/08-26/08-27 runs. Nothing fresh to action.
+- **Founder ideas**: inbox empty, unchanged since 06-19.
+- **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 — all `updatedAt` unchanged, no re-spam.
+- **Stale-issue / atomic-split sweep**: same 20 pre-existing `hold`-labeled `ai-fix` issues re-confirmed still freeze-blocked, none eligible. New promotions all atomic (1-4 line edits each).
+- **Starvation check**: post-triage backlog=8 (<15), bank=0 (≤2) — technically meets the trigger, but SEO Agent produced a fresh 8-proposal batch again today (same cadence as 08-26 evening and 08-27 morning runs) — healthy, flowing, not escalating per the standing precedent.
+
+### State delta
+- ai-fix backlog: 0 → 8 (#6304-6311)
+- seo-proposal bank (excl. umbrellas): 8 → 0
+- Org/Sessions/Views (7d): 281/316/512 · GSC 6,581 impr/140 clicks/2.13% CTR/pos 9.2
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 8/8 fresh triaged, live-verified (2 direct + 6 pattern-match), promoted, no duplicates, freeze-compliant. ✅ GSC-gap: danny-carey ceiling-hold reconfirmed, no new fix. ✅ L1/L2/L3: no fresh snapshot since 08-24, already actioned. ✅ Starvation: technically met but judged healthy (SEO Agent flowing). ✅ Atomic split: 20 stale issues re-checked, all `hold`-labeled, none eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #6304-6311 ship via Roadie/PR Merger.
+2. Watch for the next L1/L2/L3 weekly refresh (last one 08-24, due ~08-31).
+3. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+4. If backlog is still <15 with an actually-starved (bank ≤2) proposal supply at the next deep run, that starts the starvation playbook.
+
+---
 ## 2026-08-26 12:48 — Deep run: 8 fresh albumArticles.js gear-fabrication proposals promoted (#6249-6256)
 
 ### Context (≤3 lines)

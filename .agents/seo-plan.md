@@ -6496,3 +6496,53 @@ New vein (`drummerComparisons.js`/`soundLikeGuides.js` vs `endorsementNews.js`),
 1. Watch #6304-6311 ship via Roadie/PR Merger.
 2. File the 8 carried-over, agent-verified-but-not-personally-checked candidates: Chris Adler, Mikkey Dee, Frost+Hellhammer, Charlie Benante, Sean Reinert (all `drummerComparisons.js`), Travis Orbin, Nick Menza (2 fields), Vinnie Paul (all `soundLikeGuides.js`) — grep-verify before filing per standing practice.
 3. Drum-chair rotation: week 36 is group 0 (amon-amarth through cynic) — due Monday 2026-08-31.
+
+---
+
+## 2026-08-27 (2nd run) — Resolved all 7 remaining carried-over candidates (Mikkey Dee cleared as a false positive): 7 verified fabrications filed (#6325-6331)
+
+### Bank check
+Open `seo-proposal` at run start: 11 — 8 already promoted to `ai-fix` (#6304-6311, confirmed via label check) + 3 standing umbrellas (#3810/#3819/#2211). True untriaged bank: 0. Cleared to file up to 8 net-new.
+
+### Audit summary
+- Robots.txt (live curl): all 8 AI crawlers explicitly allowed. ✅
+- `/public/llms/**/*.md`: 2,011 files live, unchanged. ✅
+- Content-gap queries (metrics.md, 22:41 UTC refresh): sole row `danny carey drum kit` (111 impr, 0.90% CTR, pos 10.6) — same standing position-ceiling ruling (5 prior fixes, flat position). Not re-proposed.
+- Drum-chair watch: today is Thursday, not Monday — skipped per the "first run each Monday" gate. Next due 2026-08-31 (week 36, group 0, amon-amarth through cynic).
+
+### Carried-over investigation (8 items from last run's "Next run" list)
+Personally grep-verified all 8 against `endorsementNews.js`/`extendedBios.js` (not trusting the prior run's agent reports at face value) — 7 confirmed, 1 cleared as already-correct:
+
+1. **Chris Adler** — CONFIRMED. `drummerComparisons.js:1209` (`chris-adler-vs-ray-luzier`) fabricates a "DW drums earlier career... before transitioning to Mapex" era; no DW mention anywhere in `endorsementNews.js:554-563` or `extendedBios.js:5817-5830` (both document Mapex Black Panther Design Lab as career-long, sourced to Mapex's own site). Filed **#6325**.
+2. **Mikkey Dee — CLEARED, not filed.** Checked all 5 `drummerComparisons.js` entries mentioning him (`nicko-mcbrain-vs-mikkey-dee`, `mikkey-dee-vs-vinnie-paul`, `mikkey-dee-vs-lars-ulrich`, `mikkey-dee-vs-scott-travis`, `mikkey-dee-vs-charlie-benante`, `hellhammer-vs-mikkey-dee`) — all 6 already correctly state Sonor SQ2/Paiste Signature Series/DW 5000 pedal, matching `endorsementNews.js:905-915` exactly. The prior run's flagged "Zildjian cymbals" fabrication does not exist in the current file state (likely already fixed by an earlier, untracked pass, or the agent's original report was a false positive). No issue filed — a "not filed" outcome from careful re-verification, not a skip.
+3. **Charlie Benante** — CONFIRMED. `drummerComparisons.js:1391` (`charlie-benante-vs-scott-travis`, 4 fields: drums/cymbals/sticks/hardware) and `:106` (`gene-hoglan-vs-charlie-benante`, drums) fabricate Pearl/Sabian/Vater/Pearl-Eliminator-Demon vs verified Tama/Paiste/Vic Firth/Tama Speed Cobra (`endorsementNews.js:650-659`) — contradicted by 2 correct sibling entries in the same file (`mikkey-dee-vs-charlie-benante`, `bill-ward-vs-charlie-benante`). Filed **#6326**.
+4. **Frost + Hellhammer** — CONFIRMED, both drummers in one entry. `drummerComparisons.js:1094` (`frost-vs-hellhammer`) fabricates Pearl for both: verified Frost is Tama Starclassic Bubinga/Zildjian A Series since 2013 (`endorsementNews.js:1475-1484`, Pearl was only his pre-2013 era), verified Hellhammer is Sonor SQ2 Heavy Beech/Paiste RUDE Series (`endorsementNews.js:979-988`). Filed **#6327**.
+5. **Sean Reinert** — CONFIRMED, worse than flagged: found **5** `drummerComparisons.js` entries (not 1) stating **3 different** fabricated combos — "Pearl Reference/Zildjian A/Tama Iron Cobra" (×3: `sean-reinert-vs-hannes-grossmann`, `brann-dailor-vs-sean-reinert`, `sean-reinert-vs-flo-mounier`), "Tama drums/Zildjian cymbals" (`sean-reinert-vs-martin-lopez`), and a near-correct-but-still-off "DW Collector's/Zildjian A-switching-to-K/DW 5000" (`adrian-erlandsson-vs-sean-reinert`) — verified is DW Collector's Series/Zildjian K Custom/Vic Firth 5A/DW 9000 (`endorsementNews.js:2815-2824`). Filed **#6328** covering all 5.
+6. **Travis Orbin** — CONFIRMED. `soundLikeGuides.js` (`how-to-sound-like-travis-orbin`, lines 3146-3168) fabricates DW Collector's Series drums + Meinl Byzance cymbals vs verified SJC Custom/Zildjian K Custom Dark-A Custom hybrid (`endorsementNews.js:1591-1600`) — noted the pedal field (DW 9000, line 3180) is genuinely correct and must stay untouched. Filed **#6331**.
+7. **Nick Menza** — CONFIRMED, 2 fields as flagged. `soundLikeGuides.js` (`how-to-sound-like-nick-menza`) fabricates a "Sonor Performer" kit for the entire "Rust in Peace/Countdown to Extinction era" (1990-1995); verified timeline (`endorsementNews.js:2885-2934`) shows Tama Artstar II (1990, Rust in Peace) → Pearl Masters (1992, Countdown to Extinction) — no Sonor ever. Second field: cymbals claimed uniformly "Zildjian A Series" across both albums, but verified shows a mid-1992 switch to Paiste for Countdown to Extinction. Filed **#6329**.
+8. **Vinnie Paul** — CONFIRMED. `soundLikeGuides.js:10493` (`how-to-sound-like-vinnie-paul`, cymbals block) fabricates Zildjian Z Custom/A Series vs verified Sabian AA/AAX Series (`endorsementNews.js:1160-1169`) — contradicted by ~8 sibling `drummerComparisons.js` entries that already correctly state Sabian. Drums field (ddrum) in the same guide is correct and untouched. Filed **#6330**.
+
+All 7 filed issues are single/dual-file, verified-only (source line-ranges cited), zero new pages/URLs — freeze-compliant. Dedup: searched all-state issues per drummer-slug + filename combo before filing — all matches were either the original page-creation issues or unrelated prior fixes in different files/fields (e.g. #5694 already fixed a *different* Charlie Benante fabrication in `soundLikeGuides.js`, no overlap with this run's `drummerComparisons.js` finding).
+
+### Vein status
+`drummerComparisons.js`/`soundLikeGuides.js` vs `endorsementNews.js` vein: 2nd sweep, all carried-over candidates from the 1st sweep (2026-08-27 1st run) now resolved. Combined with the 22-findings-from-1-pass hit rate on 2026-08-27's first run, this vein remains highly productive — likely warrants a fresh full-file resweep next time it comes up (neither file has had a *second* independent pass yet, only the original sweep + this carry-over cleanup).
+
+### Proposals filed this run (7)
+1. #6325 — Chris Adler (drummerComparisons.js, DW-era fabrication)
+2. #6326 — Charlie Benante (drummerComparisons.js, 2 entries)
+3. #6327 — Frost + Hellhammer (drummerComparisons.js, 1 entry, both drummers)
+4. #6328 — Sean Reinert (drummerComparisons.js, 5 entries, 3-way contradiction)
+5. #6329 — Nick Menza (soundLikeGuides.js, 2 fields)
+6. #6330 — Vinnie Paul (soundLikeGuides.js, cymbals only)
+7. #6331 — Travis Orbin (soundLikeGuides.js, drums + cymbals)
+
+Filed 7 of 8 available slots — Mikkey Dee cleared as a false positive on re-verification, not padded with a fresh less-verified finding.
+
+### Open proposals waiting on CEO triage
+- #6325-#6331 (filed this run, 0d old)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers only.
+
+### Next run
+1. Watch #6325-6331 ship via Roadie/PR Merger.
+2. Consider a fresh, independent full-file resweep of `drummerComparisons.js`/`soundLikeGuides.js` (2nd pass) now that all known carry-over candidates are cleared — the first pass found 22 issues from 2 files in 1 read, likely more remain unfound.
+3. Drum-chair rotation: week 36 is group 0 (amon-amarth through cynic) — due Monday 2026-08-31.

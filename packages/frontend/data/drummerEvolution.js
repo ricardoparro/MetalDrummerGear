@@ -873,39 +873,39 @@ export const DRUMMER_EVOLUTION = {
 
       {
         id: 'portnoy-1997-falling-infinity',
-        era: 'Yamaha Era',
+        era: 'Falling into Infinity Era',
         years: '1997–1998',
         startYear: 1997,
         endYear: 1998,
-        description: 'Portnoy switched to Yamaha during a turbulent creative period. The Yamaha Recording Custom gave him a warmer, more studio-focused tone.',
+        description: 'Dream Theater\'s highest-charting Portnoy-era album, recorded at BearTracks Studios under heavy Elektra Records pressure for a more commercial sound, with Kevin Moore\'s departure and Derek Sherinian\'s arrival reshaping the band. Portnoy\'s gear stayed within Tama throughout — he moved from the Artstar II birch shells to the new Tama Starclassic Maple 10-ply kit for a warmer, more resonant tone.',
         albums: ['Falling into Infinity (1997)'],
         tours: ['Falling into Infinity Tour'],
         image: null,
 
         gear: {
           drums: {
-            item: 'Yamaha Recording Custom',
-            details: 'Birch/Beech shells: 22"/24" kicks, 8"/10"/12"/13"/14"/16"/18" toms',
-            notes: 'Switched to Yamaha for warmer recording tone; large kit maintained.',
+            item: 'Tama Starclassic Maple (10-ply)',
+            details: 'Maple shells: 22"×18" kicks (x2), 8"/10"/12"/13" rack toms, 14"/16" floor toms',
+            notes: 'Switched from the Artstar II birch shells to the new Tama Starclassic Maple series — denser construction with more sustain, better suited to the album\'s more melodic material.',
             change: CHANGE_TYPES.SWITCH,
           },
           snare: {
-            item: 'Yamaha Recording Custom 14"×6.5"',
-            details: 'Birch shell',
-            notes: 'Warm, musical snare tone for the more melodic album.',
+            item: 'Tama Starclassic Maple 14"×6.5"',
+            details: 'Maple shell',
+            notes: 'Warmer crack than the Bell Brass snare, matching the new maple-shelled kit.',
             change: CHANGE_TYPES.SWITCH,
           },
           cymbals: {
             item: 'Zildjian A Custom',
             details: '14" hi-hats, 17"/18"/19" crashes, 22" ride, China cymbals',
-            notes: 'Continued Zildjian relationship through brand switch.',
+            notes: 'Continued Zildjian relationship.',
             change: null,
           },
           hardware: {
-            item: 'Yamaha HH / DW 5000 Pedals',
-            details: 'Mix of Yamaha stands and DW double pedal',
-            notes: 'Yamaha hardware for stands, DW for pedals.',
-            change: CHANGE_TYPES.SWITCH,
+            item: 'Tama Iron Cobra HP900 Double Pedal',
+            details: 'Twin kick configuration',
+            notes: 'Continued Tama hardware.',
+            change: null,
           },
           sticks: {
             item: 'Pro-Mark Mike Portnoy Signature',
@@ -914,29 +914,26 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           heads: {
-            item: 'Remo Pinstripe',
-            details: 'Controlled, focused tone',
-            notes: 'Pinstripe for the studio sessions.',
+            item: 'Remo Ambassador Coated',
+            details: 'Coated batter/clear resonant on toms and snare; Powerstroke 3 Clear batter on kicks',
+            notes: 'Documented head setup for the Falling into Infinity sessions.',
             change: CHANGE_TYPES.SWITCH,
           },
         },
 
         estimatedCost: {
-          original: 14000,
-          inflationAdjusted: 27000,
+          original: 12000,
+          inflationAdjusted: 24000,
           currency: 'USD',
         },
 
         keyChanges: [
-          'Brand switch to Yamaha Recording Custom',
-          'More melodic, studio-oriented sound',
-          'DW double pedal introduced',
+          'Switched from Tama Artstar II to Tama Starclassic Maple (10-ply) — first appearance of the kit that would carry into the Metropolis Pt. 2 era',
+          'Derek Sherinian joins on keyboards, replacing Kevin Moore',
+          'Recorded under heavy Elektra Records commercial pressure at BearTracks Studios',
         ],
 
-        quote: {
-          text: "Yamaha gave me a warmth I hadn't found with Tama. For the studio, it was exactly what Falling into Infinity needed.",
-          source: 'Yamaha Artist Profile, 1997',
-        },
+        quote: null,
 
         videos: [],
       },
@@ -956,14 +953,14 @@ export const DRUMMER_EVOLUTION = {
           drums: {
             item: 'Tama Starclassic Maple',
             details: 'Maple shells: 22"/24" kicks, 8"/10"/12"/13"/14"/16"/18" toms',
-            notes: 'Return to Tama with the Starclassic Maple — warmer and more resonant than the Artstar.',
-            change: CHANGE_TYPES.SWITCH,
+            notes: 'Continued the Starclassic Maple kit introduced during Falling into Infinity, expanded for the concept album\'s scope.',
+            change: CHANGE_TYPES.UPGRADE,
           },
           snare: {
             item: 'Tama Starclassic Maple 14"×6.5"',
             details: 'Maple shell',
-            notes: 'Warm, rich snare sound for the concept album.',
-            change: CHANGE_TYPES.SWITCH,
+            notes: 'Continued Starclassic Maple snare; warm, rich sound for the concept album.',
+            change: null,
           },
           cymbals: {
             item: 'Zildjian A Custom',
@@ -974,8 +971,8 @@ export const DRUMMER_EVOLUTION = {
           hardware: {
             item: 'Tama Iron Cobra HP900 Double Pedal',
             details: 'Speed Cobra setup',
-            notes: 'Back to Tama hardware with return to Tama drums.',
-            change: CHANGE_TYPES.SWITCH,
+            notes: 'Continued Tama hardware.',
+            change: null,
           },
           sticks: {
             item: 'Pro-Mark Mike Portnoy Signature',
@@ -1004,9 +1001,8 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
-          'Return to Tama with Starclassic Maple',
+          'Starclassic Maple kit expanded to its largest configuration to date',
           'Roland Octapad added for live samples',
-          'Largest kit configuration to date',
           'Metropolis 2000 tour featured elaborate drum riser',
         ],
 

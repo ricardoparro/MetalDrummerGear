@@ -1349,8 +1349,16 @@ export const ENDORSEMENT_TIMELINE = {
         changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
         category: ENDORSEMENT_CATEGORIES.DRUMS,
         from: null,
+        to: 'Pearl',
+        notes: 'Pearl Masters Custom maple shells for the Chaos A.D./Roots era',
+      },
+      {
+        year: 1996,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SWITCHED,
+        category: ENDORSEMENT_CATEGORIES.DRUMS,
+        from: 'Pearl',
         to: 'Tama',
-        notes: 'Played a Tama Starclassic Maple kit through Sepultura\'s genre-defining "Chaos A.D." (1993), fusing tribal Brazilian percussion with thrash metal',
+        notes: 'Returned to a Tama Starclassic Maple kit after the Pearl Masters Custom sub-era of "Chaos A.D."/"Roots" (1993-1996) ended, ahead of the 2006 move to ddrum',
       },
       {
         year: 1993,

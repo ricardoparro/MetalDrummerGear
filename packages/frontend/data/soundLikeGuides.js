@@ -14329,7 +14329,7 @@ This guide breaks down the technique, gear, and practice approach behind Dette's
     genre: 'Industrial Metal / Groove Metal',
     priority: 55,
     title: "How to Sound Like Raymond Herrera: Complete Gear & Technique Guide",
-    description: "Master Raymond Herrera's triggered hybrid drumming. Learn the Fear Factory co-founder's ddrum/Roland trigger integration, Pearl Eliminator double-kick technique, Pearl Reference kit, and Zildjian Z Custom cymbal setup behind Demanufacture and Obsolete.",
+    description: "Master Raymond Herrera's triggered hybrid drumming. Learn the Fear Factory co-founder's ddrum/Roland trigger integration, DW 5000 Series double-kick technique, Tama Starclassic kit, and Zildjian Z Custom cymbal setup behind Demanufacture and Obsolete.",
     seoKeywords: ['raymond herrera drums', 'how to sound like raymond herrera', 'fear factory drummer', 'raymond herrera drum triggers', 'industrial metal drumming technique', 'raymond herrera gear'],
     ogImage: '/images/guides/raymond-herrera-guide.webp',
     datePublished: '2026-07-02',
@@ -14347,7 +14347,7 @@ This guide breaks down the technique, gear, and practice approach behind Herrera
       keyPoints: [
         "Fear Factory co-founder and drummer from 1990 through Digimortal (2001) — the original industrial metal hybrid kit architect",
         "Full-kit ddrum/Roland trigger integration across kick, snare, and toms — the defining feature of the Fear Factory drum sound",
-        "Machine-gun double-kick patterns via Pearl Eliminator Double Pedal, most audible on \"Replica\" and \"Demanufacture\"",
+        "Machine-gun double-kick patterns via DW 5000 Series Double Pedal, most audible on \"Replica\" and \"Demanufacture\"",
         "Triggers amplify performance precision rather than replace it — acoustic power plus electronic consistency"
       ]
     },
@@ -14366,7 +14366,7 @@ This guide breaks down the technique, gear, and practice approach behind Herrera
       signaturePatterns: [
         {
           name: "Machine-Gun Double-Kick",
-          description: "Herrera's signature double-kick pattern drives entire songs as a rhythmic foundation rather than just a speed fill, powered by the Pearl Eliminator's cam-adjustable action and reinforced by dedicated ddrum triggers on each kick drum for absolute timing consistency between both feet.",
+          description: "Herrera's signature double-kick pattern drives entire songs as a rhythmic foundation rather than just a speed fill, powered by the DW 5000 Series' cam-adjustable action and reinforced by dedicated ddrum triggers on each kick drum for absolute timing consistency between both feet.",
           tempo: "160-190 BPM",
           difficulty: "Advanced",
           practiceHint: "Play a steady sixteenth-note double-bass pattern at a moderate tempo and record it. Listen specifically for any volume or timing difference between your two feet before increasing speed."
@@ -14396,26 +14396,26 @@ This guide breaks down the technique, gear, and practice approach behind Herrera
     gear: {
       title: "Herrera's Gear Setup",
       drumKit: {
-        brand: 'Pearl',
-        model: 'Pearl Reference Series',
+        brand: 'Tama',
+        model: 'Tama Starclassic',
         shells: 'Maple',
         finish: 'Various touring finishes',
         config: {
           kick: '22" Bass Drums (x2 — double kick, each fitted with a ddrum trigger)',
-          snare: '14" x 6.5" Pearl Custom (triggered)',
+          snare: '14" x 6.5" Tama Brass (triggered)',
           toms: ['10" Rack Tom (triggered)', '12" Rack Tom (triggered)'],
           floorToms: ['16" Floor Tom (triggered)', '18" Floor Tom (triggered)']
         },
-        description: "Pearl's Reference Series maple shells give Herrera's hybrid kit the consistent acoustic resonance a trigger system depends on — inconsistent shell behavior would introduce timing artifacts into the module's triggered output. Every drum in the kit is triggered, layering an electronically processed sample over each acoustic stroke to create Fear Factory's signature mechanical drum sound.",
-        affiliateNote: "Pearl Export or Pearl Decade Maple provide a similarly consistent trigger-response shell at a lower price point."
+        description: "Tama's Starclassic maple shells give Herrera's hybrid kit the consistent acoustic resonance a trigger system depends on — inconsistent shell behavior would introduce timing artifacts into the module's triggered output. Every drum in the kit is triggered, layering an electronically processed sample over each acoustic stroke to create Fear Factory's signature mechanical drum sound.",
+        affiliateNote: "Tama Imperialstar or Tama Superstar provide a similarly consistent trigger-response shell at a lower price point."
       },
       snare: {
-        brand: 'Pearl',
-        model: 'Pearl Custom 14" x 6.5"',
+        brand: 'Tama',
+        model: 'Tama 14" x 6.5" Brass',
         size: '14" x 6.5"',
-        shell: 'Steel',
-        description: "A steel shell with a fitted trigger gives Herrera's snare the fast, defined crack needed to cut through Fear Factory's dense, down-tuned industrial guitar wall, while the trigger layers an electronically processed accent over the acoustic hit for the band's signature mechanical snap.",
-        alternative: "Any steel-shell snare tuned medium-high with minimal muffling will approximate the acoustic half of the tone."
+        shell: 'Brass',
+        description: "A brass shell with a fitted trigger gives Herrera's snare the fast, defined crack needed to cut through Fear Factory's dense, down-tuned industrial guitar wall, while the trigger layers an electronically processed accent over the acoustic hit for the band's signature mechanical snap.",
+        alternative: "Any brass-shell snare tuned medium-high with minimal muffling will approximate the acoustic half of the tone."
       },
       cymbals: {
         brand: 'Zildjian',
@@ -14430,10 +14430,10 @@ This guide breaks down the technique, gear, and practice approach behind Herrera
         description: "The Z Custom series' machine-hammered brightness projects above Fear Factory's dense, processed guitar frequencies, while its thick B20 bronze construction withstands the sustained high-impact playing that extended touring demands."
       },
       pedals: {
-        brand: 'Pearl',
-        model: 'Pearl Eliminator Double Pedal',
-        description: "The Eliminator's interchangeable cam system lets Herrera adjust the power stroke curve between fast machine-gun passages and driving groove tempos within the same song — and its consistent action between both pedal sides keeps triggered kick timing metronomically even.",
-        alternative: "Pearl P2000C or DW 5000 Double for similarly adjustable, consistent chain-drive action at a lower cost."
+        brand: 'DW',
+        model: 'DW 5000 Series Double Pedal',
+        description: "The 5000 Series' interchangeable cam system lets Herrera adjust the power stroke curve between fast machine-gun passages and driving groove tempos within the same song — and its consistent action between both pedal sides keeps triggered kick timing metronomically even.",
+        alternative: "Tama Speed Cobra or Pearl Eliminator for similarly adjustable, consistent chain-drive action at a lower cost."
       },
       sticks: {
         brand: 'Vater',
@@ -14527,9 +14527,9 @@ This guide breaks down the technique, gear, and practice approach behind Herrera
       pro: {
         price: "$6,500+",
         label: "Professional Setup",
-        kit: "Pearl Reference Series ($3,500+)",
+        kit: "Tama Starclassic ($3,500+)",
         cymbals: "Full Zildjian Z Custom selection ($1,800+)",
-        pedals: "Pearl Eliminator Double Pedal ($500)",
+        pedals: "DW 5000 Series Double Pedal ($500)",
         heads: "Full Remo setup ($400)",
         trigger: "ddrum/Roland full-kit trigger system with dedicated module ($700+)",
         notes: "Touring-ready hybrid setup matching Herrera's Demanufacture through Digimortal-era rig."
@@ -14542,7 +14542,7 @@ This guide breaks down the technique, gear, and practice approach behind Herrera
       },
       {
         question: "What drum kit did Raymond Herrera use in Fear Factory?",
-        answer: "Herrera played a Pearl Reference Series kit with a double 22\" bass drum configuration, a Pearl Custom 14\" x 6.5\" snare, and two rack toms plus two floor toms — every drum fitted with a ddrum trigger feeding a Roland module. His cymbals are Zildjian Z Custom, his double pedal is the Pearl Eliminator, and he plays Vater Power 5B sticks."
+        answer: "Herrera played a Tama Starclassic kit with a double 22\" bass drum configuration, a Tama 14\" x 6.5\" Brass snare, and two rack toms plus two floor toms — every drum fitted with a ddrum trigger feeding a Roland module. His cymbals are Zildjian Z Custom, his double pedal is the DW 5000 Series, and he plays Vater Power 5B sticks."
       },
       {
         question: "How do I achieve the Fear Factory drum trigger sound?",
@@ -14561,7 +14561,7 @@ This guide breaks down the technique, gear, and practice approach behind Herrera
       drummerProfile: '/drummer/raymond-herrera',
       similarDrummers: ['Tomas Haake', 'Joey Jordison', 'Chris Adler'],
       relatedGuides: ['how-to-sound-like-tomas-haake', 'how-to-sound-like-joey-jordison'],
-      gearPages: ['/gear/drums', '/brands/pearl', '/brands/zildjian']
+      gearPages: ['/gear/drums', '/brands/tama', '/brands/zildjian']
     },
     licksUrl: '/drummers/raymond-herrera/licks',
     relatedArticles: [

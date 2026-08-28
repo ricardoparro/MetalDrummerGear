@@ -15650,16 +15650,16 @@ This guide breaks down exactly how to capture Luzier's sound: his pocket-first g
         description: "Sabian's AAX series gives Luzier the fast attack and controlled decay he needs in Korn's dense, layered mix — cymbals that speak clearly and get out of the way rather than washing into the next hit."
       },
       pedals: {
-        brand: 'Pearl',
-        model: 'Pearl Demon Drive Double Pedal',
+        brand: 'DW',
+        model: 'DW 9000 Series Double Pedal',
         description: "A direct-drive design gives Luzier immediate, 1:1 footboard-to-beater response — ideal for the feel-driven, groove-oriented double-kick patterns that anchor Korn's live show night after night.",
         alternative: "Pearl Eliminator or Tama Speed Cobra for similar direct-response feel."
       },
       sticks: {
-        brand: 'Promark',
-        model: 'Promark Ray Luzier Signature TX420X',
+        brand: 'Vic Firth',
+        model: 'Vic Firth Ray Luzier Signature',
         specs: 'Nylon tip, balanced taper',
-        description: "Luzier's signature Promark sticks carry enough mass to drive consistent backbeats at arena volume while keeping the control needed for his nuanced groove work.",
+        description: "Luzier's signature Vic Firth sticks carry enough mass to drive consistent backbeats at arena volume while keeping the control needed for his nuanced groove work.",
         alternative: "Vic Firth 5B or Promark American Classic 5B for a similar weight and feel."
       },
       heads: {
@@ -15745,16 +15745,16 @@ This guide breaks down exactly how to capture Luzier's sound: his pocket-first g
         label: "Intermediate Setup",
         kit: "Pearl Session Studio Select ($1,900)",
         cymbals: "Sabian AAX Stage Hi-Hats + X-Plosion Crashes ($1,100)",
-        pedals: "Pearl Demon Drive ($350)",
-        sticks: "Promark Ray Luzier Signature TX420X ($12)",
-        notes: "The Demon Drive is the key upgrade here — direct drive changes double-bass feel significantly."
+        pedals: "DW 9000 Series Double Pedal ($350)",
+        sticks: "Vic Firth Ray Luzier Signature ($12)",
+        notes: "The DW 9000 is the key upgrade here — direct drive changes double-bass feel significantly."
       },
       pro: {
         price: "$5,500+",
         label: "Professional Setup",
         kit: "Pearl Masters Maple Complete ($3,000+)",
         cymbals: "Full Sabian AAX selection ($2,000+)",
-        pedals: "Pearl Demon Drive ($350)",
+        pedals: "DW 9000 Series Double Pedal ($350)",
         heads: "Full Evans/Remo setup ($150)",
         notes: "Touring-ready setup matching Luzier's actual Korn rig."
       }
@@ -15770,7 +15770,7 @@ This guide breaks down exactly how to capture Luzier's sound: his pocket-first g
       },
       {
         question: "What pedal and sticks does Ray Luzier use?",
-        answer: "Luzier uses the Pearl Demon Drive direct-drive double pedal and his own signature Promark Ray Luzier TX420X sticks, which feature a nylon tip for consistent cymbal articulation."
+        answer: "Luzier uses the DW 9000 Series direct-drive double pedal and his own signature Vic Firth Ray Luzier sticks, which feature a nylon tip for consistent cymbal articulation."
       },
       {
         question: "What songs best showcase Ray Luzier's technique?",

@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-28 09:37 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-28 12:22 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,18 +8,18 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 274 |
-| Sessions | 305 |
-| Page views | 496 |
-| Engagement rate | 51.48% |
-| Avg session (s) | 466 |
+| Active users | 275 |
+| Sessions | 307 |
+| Page views | 499 |
+| Engagement rate | 51.14% |
+| Avg session (s) | 463 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
 | / | 23 | 16 |
 | /drummers | 21 | 4 |
-| /drummer/danny-carey | 14 | 8 |
+| /drummer/danny-carey | 15 | 8 |
 | /drummer/joey-jordison | 10 | 6 |
 | /drummer/mario-duplantier | 10 | 9 |
 | /drummer/eloy-casagrande | 8 | 7 |
@@ -31,9 +31,9 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 229 | 201 |
+| Organic Search | 231 | 203 |
 | Direct | 59 | 59 |
-| Unassigned | 52 | 49 |
+| Unassigned | 54 | 50 |
 | Organic Social | 4 | 2 |
 | Referral | 2 | 2 |
 
@@ -41,7 +41,7 @@
 | Country | Sessions | Users |
 | --- | --- | --- |
 | United States | 104 | 89 |
-| Brazil | 18 | 17 |
+| Brazil | 19 | 18 |
 | Germany | 14 | 13 |
 | India | 13 | 11 |
 | Canada | 12 | 11 |

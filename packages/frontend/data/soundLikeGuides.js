@@ -3143,38 +3143,38 @@ Orbin left Periphery in February 2009, replaced by Matt Halpern, who has recorde
     gear: {
       title: "Travis's Technical Setup",
       drumKit: {
-        brand: 'DW',
-        model: 'DW Collector\'s Series',
+        brand: 'SJC',
+        model: 'SJC Custom Drums',
         shells: 'Maple',
         finish: 'Various configurations across his career',
         config: {
           kick: '22" x 18" Bass Drums (x2)',
-          snare: '14" x 6.5" DW Collector\'s Snare',
+          snare: '14" x 6.5" SJC Custom Steel',
           toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom'],
           floorToms: ['16" x 16" Floor Tom']
         },
-        description: "Travis has used DW Collector's Series drums for much of his career. The maple shells provide the warm attack with upper-mid projection that djent arrangements require — audible without being harsh.",
-        affiliateNote: "DW Performance or Design Series share similar maple shell characteristics at lower prices."
+        description: "Travis has used SJC Custom Drums for much of his career. The maple shells provide the warm attack with upper-mid projection that djent arrangements require — audible without being harsh.",
+        affiliateNote: "SJC Custom kits in various maple configurations offer similar tone character."
       },
       snare: {
-        brand: 'DW',
-        model: 'DW Collector\'s Series Steel Snare',
+        brand: 'SJC',
+        model: 'SJC Custom Steel Snare',
         size: '14" x 6.5"',
         shell: 'Steel',
         description: "Travis's snare cuts through dense djent arrangements with bright, projecting attack. Steel shells provide the brightness needed when competing with 7-string and 8-string guitars tuned to drop A.",
         alternative: "Pearl Free-Floating Steel or Ludwig Supraphonic"
       },
       cymbals: {
-        brand: 'Meinl',
-        series: 'Meinl Byzance / Classics Custom',
+        brand: 'Zildjian',
+        series: 'Zildjian K Custom Dark / A Custom Hybrid',
         setup: [
-          { type: 'Hi-Hats', model: 'Meinl 14" Byzance Traditional Hi-Hats', notes: 'Open and responsive for djent hi-hat work' },
-          { type: 'Crash', model: 'Meinl 17" Classics Custom Dark Crash', notes: 'Quick attack and controlled decay' },
-          { type: 'Crash', model: 'Meinl 19" Byzance Vintage Crash', notes: 'Complex overtones for musical crash work' },
-          { type: 'Ride', model: 'Meinl 21" Byzance Extra Dry Ride', notes: 'Dry, defined stick attack for polyrhythmic ride patterns' },
-          { type: 'China', model: 'Meinl 18" Classics Custom China', notes: 'Aggressive punctuation' }
+          { type: 'Hi-Hats', model: 'Zildjian 14" K Custom Dark Hi-Hats', notes: 'Open and responsive for djent hi-hat work' },
+          { type: 'Crash', model: 'Zildjian 17" K Custom Dark Crash', notes: 'Quick attack and controlled decay' },
+          { type: 'Crash', model: 'Zildjian 19" A Custom Crash', notes: 'Complex overtones for musical crash work' },
+          { type: 'Ride', model: 'Zildjian 21" K Custom Dark Ride', notes: 'Dry, defined stick attack for polyrhythmic ride patterns' },
+          { type: 'China', model: 'Zildjian 18" A Custom Chinese', notes: 'Aggressive punctuation' }
         ],
-        description: "Travis's Meinl cymbal selection provides clarity and complexity — essential when cymbal patterns must be heard distinctly through djent's layered, distorted guitar tones."
+        description: "Travis's Zildjian K Custom Dark / A Custom hybrid cymbal selection provides clarity and complexity — essential when cymbal patterns must be heard distinctly through djent's layered, distorted guitar tones."
       },
       pedals: {
         brand: 'DW',
@@ -3267,7 +3267,7 @@ Orbin left Periphery in February 2009, replaced by Matt Halpern, who has recorde
         price: "$1,000",
         label: "Starter Setup",
         kit: "PDP Concept Maple ($700)",
-        cymbals: "Meinl HCS Pack ($200)",
+        cymbals: "Zildjian ZBT Pack ($200)",
         pedals: "DW 3000 Double Pedal ($200)",
         sticks: "Vic Firth 5A ($10)",
         notes: "Focus entirely on the four-way independence exercises. Gear is secondary at this stage."
@@ -3275,17 +3275,17 @@ Orbin left Periphery in February 2009, replaced by Matt Halpern, who has recorde
       mid: {
         price: "$2,800",
         label: "Intermediate Setup",
-        kit: "DW Performance Series ($1,600)",
-        cymbals: "Meinl Classics Custom Dark Set ($750)",
+        kit: "Pearl Masters Maple ($1,600)",
+        cymbals: "Zildjian K Custom Dark Set ($750)",
         pedals: "DW 5000 Double Pedal ($350)",
         sticks: "Vic Firth 5A ($10)",
-        notes: "Approaching Orbin's DW tone with the Performance series."
+        notes: "Approaching Orbin's Zildjian K Custom Dark tone with an intermediate maple kit."
       },
       pro: {
         price: "$6,000+",
         label: "Professional Setup",
-        kit: "DW Collector's Series ($3,500+)",
-        cymbals: "Meinl Byzance Custom ($1,500+)",
+        kit: "SJC Custom Drums ($3,500+)",
+        cymbals: "Zildjian K Custom Dark / A Custom Hybrid ($1,500+)",
         pedals: "DW 9000 Double ($700)",
         heads: "Full Remo setup ($180)",
         notes: "Studio-quality djent setup matching Orbin's recorded tone."
@@ -3317,7 +3317,7 @@ Orbin left Periphery in February 2009, replaced by Matt Halpern, who has recorde
       drummerProfile: '/drummer/travis-orbin',
       similarDrummers: ['Matt Halpern', 'Tomas Haake', 'Matt Greiner'],
       relatedGuides: ['how-to-sound-like-tomas-haake', 'how-to-sound-like-matt-halpern'],
-      gearPages: ['/gear/drums', '/brands/dw', '/brands/meinl']
+      gearPages: ['/gear/drums', '/brands/sjc', '/brands/zildjian']
     },
     licksUrl: '/drummers/travis-orbin/licks',
     relatedArticles: [

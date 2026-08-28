@@ -4989,13 +4989,13 @@ This guide covers Igor's core technique across both the thrash period (Beneath t
       drumKit: {
         brand: 'Yamaha',
         model: 'Yamaha Absolute Hybrid Maple',
-        shells: 'Maple (current, since 2018) / Tama Starclassic Maple (2007-2018) / Pearl Masters Custom (Roots era, 1993-96)',
+        shells: 'Maple (current, since 2018) / ddrum Hybrid Kit (2006-2018) / Pearl Masters Custom (Roots era, 1993-96)',
         finish: 'Pink Champagne Sparkle',
         config: {
           kick: '20" Bass Drums (x2)',
           snare: '14" Yamaha Absolute Hybrid Maple'
         },
-        description: "Igor announced a new drum endorsement with Yamaha in August 2018, moving off Tama — his current stage kit is the Yamaha Absolute Hybrid Maple. From 2007-2018 he played Tama Starclassic Maple, and during the Roots era he played Pearl Masters Custom maple shells, a change that delivered the warm, resonant tone that suited both the tribal and thrash elements of the album. Each era's maple shells deliver the focused attack and warm sustain his groove-oriented style requires.",
+        description: "Igor announced a new drum endorsement with Yamaha in August 2018, moving off ddrum — his current stage kit is the Yamaha Absolute Hybrid Maple. From 2006-2018 he played a ddrum Hybrid Kit (Cavalera Conspiracy era), and during the Roots era he played Pearl Masters Custom maple shells, a change that delivered the warm, resonant tone that suited both the tribal and thrash elements of the album. Each era's maple shells deliver the focused attack and warm sustain his groove-oriented style requires.",
         affiliateNote: "Yamaha Stage Custom or Tour Custom are accessible alternatives with similar maple character."
       },
       snare: {

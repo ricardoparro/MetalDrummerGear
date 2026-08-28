@@ -10490,16 +10490,16 @@ This guide breaks down the technique, gear, and feel behind Vinnie Paul's grove-
         alternative: "Ludwig Acrophonic or Pearl Sensitone Brass for similar weight and crack"
       },
       cymbals: {
-        brand: 'Zildjian',
-        series: 'Zildjian Z Custom / A Series',
+        brand: 'Sabian',
+        series: 'Sabian AA / AAX Series',
         setup: [
-          { type: 'Hi-Hats', model: 'Zildjian 14" Z Custom Hi-Hats', notes: 'Loud, cutting hi-hats for live volumes' },
-          { type: 'Crash', model: 'Zildjian 18" Z Custom Crash', notes: 'Massive crash for heavy accents' },
-          { type: 'Crash', model: 'Zildjian 20" Z Custom Crash', notes: 'Huge, powerful crashes' },
-          { type: 'Ride', model: 'Zildjian 22" Z Custom Ride', notes: 'Heavy ride for driving rhythm' },
-          { type: 'China', model: 'Zildjian 18" Z Custom China', notes: 'Aggressive, trashy China for accent work' }
+          { type: 'Hi-Hats', model: 'Sabian 14" AAX Stage Hi-Hats', notes: 'Loud, cutting hi-hats for live volumes' },
+          { type: 'Crash', model: 'Sabian 18" AAX X-Plosion Crash', notes: 'Massive crash for heavy accents' },
+          { type: 'Crash', model: 'Sabian 20" AA Metal Crash', notes: 'Huge, powerful crashes' },
+          { type: 'Ride', model: 'Sabian 22" AA Metal Ride', notes: 'Heavy ride for driving rhythm' },
+          { type: 'China', model: 'Sabian 18" AAX China', notes: 'Aggressive, trashy China for accent work' }
         ],
-        description: "Vinnie Paul uses loud, powerful Zildjian Z Custom cymbals that project over Pantera's massive stage volume. Large, heavy crashes match the scale of his fills."
+        description: "Vinnie Paul uses loud, powerful Sabian AA & AAX cymbals that project over Pantera's massive stage volume. Large, heavy crashes match the scale of his fills."
       },
       pedals: {
         brand: 'DW',
@@ -10580,7 +10580,7 @@ This guide breaks down the technique, gear, and feel behind Vinnie Paul's grove-
         price: "$1,100",
         label: "Starter Setup",
         kit: "Tama Imperialstar with 22\" kick ($600)",
-        cymbals: "Zildjian A Pack ($300)",
+        cymbals: "Sabian AA Pack ($300)",
         pedals: "DW 5000 Double Pedal ($150)",
         sticks: "Vic Firth 5B ($10)",
         notes: "Get the biggest kicks you can afford. The low-tuned punch is essential to the Pantera feel."
@@ -10589,16 +10589,16 @@ This guide breaks down the technique, gear, and feel behind Vinnie Paul's grove-
         price: "$3,200",
         label: "Intermediate Setup",
         kit: "Tama Starclassic with 24\" kicks ($1,800)",
-        cymbals: "Zildjian A Custom Set ($900)",
+        cymbals: "Sabian AAX Set ($900)",
         pedals: "DW 9000 Double ($350)",
         sticks: "Vic Firth 2B ($10)",
-        notes: "24\" kicks get you into Vinnie Paul's actual configuration. The Zildjian A Custom delivers his cutting crash tone."
+        notes: "24\" kicks get you into Vinnie Paul's actual configuration. The Sabian AAX delivers his cutting crash tone."
       },
       pro: {
         price: "$6,000+",
         label: "Professional Setup",
         kit: "Ddrum Custom or DW Collector's with 24\" kicks ($3,500+)",
-        cymbals: "Zildjian Z Custom selection ($2,000+)",
+        cymbals: "Sabian AA / AAX selection ($2,000+)",
         pedals: "DW 9002 or Tama Speed Cobra ($400)",
         heads: "Full Remo setup ($150)",
         notes: "Recording and touring-ready setup matching Pantera's crushing groove metal sound."
@@ -10630,7 +10630,7 @@ This guide breaks down the technique, gear, and feel behind Vinnie Paul's grove-
       drummerProfile: '/drummer/vinnie-paul',
       similarDrummers: ['Chris Adler', 'Shannon Larkin', 'Mike Mangini'],
       relatedGuides: ['how-to-sound-like-chris-adler', 'how-to-sound-like-shannon-larkin'],
-      gearPages: ['/gear/drums', '/brands/ddrum', '/brands/zildjian']
+      gearPages: ['/gear/drums', '/brands/ddrum', '/brands/sabian']
     },
     licksUrl: '/drummers/vinnie-paul/licks',
     relatedArticles: [

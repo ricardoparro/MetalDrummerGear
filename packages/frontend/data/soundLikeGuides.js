@@ -8376,7 +8376,7 @@ This guide covers Larkin's groove-focused technique, his physical approach to ha
     genre: 'Heavy Metal / Speed Metal',
     priority: 31,
     title: "How to Sound Like Scott Travis: Complete Gear & Technique Guide",
-    description: "Master Scott Travis's Judas Priest drum sound. Learn his precision speed metal technique, controlled double-bass, groove-oriented NWOBHM approach, and the Tama / Sabian / Iron Cobra setup behind Painkiller, Firepower, and Invincible Shield.",
+    description: "Master Scott Travis's Judas Priest drum sound. Learn his precision speed metal technique, controlled double-bass, groove-oriented NWOBHM approach, and the Paiste / ddrum / DW setup behind Painkiller, Firepower, and Invincible Shield.",
     seoKeywords: ['scott travis drumming', 'how to sound like scott travis', 'judas priest drums', 'scott travis gear', 'scott travis technique', 'scott travis drum kit', 'painkiller drumming', 'judas priest drum sound'],
     ogImage: '/images/guides/scott-travis-guide.webp',
     datePublished: '2026-06-25',
@@ -8392,12 +8392,12 @@ Painkiller transformed Judas Priest. After the commercial experimentation of Ram
 
 What separates Travis from pure speed metal drummers is his compositional intelligence. After Painkiller, his work on Jugulator (1997), Demolition (2001), Angel of Retribution (2005), Redeemer of Souls (2014), Firepower (2018), and Invincible Shield (2024) demonstrates increasing stylistic range: more dynamic variation, greater groove sophistication, and the ability to serve extremely different Priest production styles while maintaining the foundational precision and power that define his playing.
 
-This guide covers Travis's technique across both the extreme Painkiller era and his more developed later style, along with his Tama / Sabian / Iron Cobra setup.`,
+This guide covers Travis's technique across both the extreme Painkiller era and his more developed later style, along with his Paiste cymbals (unchanged since 1987) and his drum brand's move from Tama through Pearl to his current ddrum and DW setup.`,
       keyPoints: [
         "Joined Judas Priest in 1989 from Racer X; debut album Painkiller (1990) is considered one of heavy metal's greatest recordings",
         "Precision speed metal technique: 200+ BPM double-bass with machine-like consistency while maintaining heavy metal groove",
         "His playing evolved across seven Priest albums — from extreme speed metal to more dynamic, groove-oriented approach",
-        "Tama drums, Sabian cymbals, and Tama Iron Cobra double pedals form the core of his touring and recording setup"
+        "Paiste cymbals since 1987 (never switched); drums moved Tama (1990) → Pearl Reference Series (2005) → ddrum Dominion Series (current, 2018); DW 9000 Series Double Pedal (current, since 2018)"
       ]
     },
     technique: {
@@ -8451,20 +8451,20 @@ This guide covers Travis's technique across both the extreme Painkiller era and 
       ]
     },
     gear: {
-      title: "Scott's Tama / Sabian / Iron Cobra Setup",
+      title: "Scott's Paiste / ddrum / DW Setup",
       drumKit: {
-        brand: 'Tama',
-        model: 'Tama Starclassic Walnut/Birch (current) / Tama Artstar II (Painkiller era)',
-        shells: 'Birch (Artstar II) / Walnut-Birch hybrid (Starclassic current)',
+        brand: 'ddrum',
+        model: 'ddrum Dominion Series (current, since 2018) / Pearl Reference Series (2005-2018) / Tama Artstar II (Painkiller era, 1990-2005)',
+        shells: 'Birch (Artstar II) / Pearl Reference Series shells (2005-2018) / ddrum Dominion Series shells (current)',
         finish: 'Various professional configurations',
         config: {
           kick: '22" x 16" Bass Drums (x2)',
-          snare: '14" x 6.5" Tama Starclassic Steel or Maple',
+          snare: '14" x 6.5" Snare',
           toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom'],
           floorToms: ['14" x 14" Floor Tom', '16" x 16" Floor Tom']
         },
-        description: "Travis has been a Tama endorser throughout his Judas Priest career. The Tama Artstar II birch kit he used on Painkiller delivered the high-attack, focused sound that defined that album's sonic identity — birch shells provide more high-frequency attack than maple, essential for the speed metal clarity Travis required. His current Tama Starclassic Walnut/Birch delivers a warmer, more balanced tone suited to Priest's later more dynamic material.",
-        affiliateNote: "Tama Imperialstar or Tama Superstar Classic deliver comparable Tama character at accessible prices."
+        description: "Travis's drum brand has moved through three eras across his Judas Priest career. He debuted on a Tama Artstar II birch kit for Painkiller (1990), delivering the high-attack, focused sound that defined that album's sonic identity — birch shells provide more high-frequency attack than maple, essential for the speed metal clarity Travis required. He gradually migrated to Pearl's Reference Series through the 2000s (from 2005), then switched to a ddrum Dominion Series shell pack for Firepower (2018), which remains his current kit through 2024's Invincible Shield.",
+        affiliateNote: "Tama Imperialstar or Tama Superstar Classic deliver comparable early-era Tama character at accessible prices."
       },
       snare: {
         brand: 'Tama',
@@ -8475,22 +8475,22 @@ This guide covers Travis's technique across both the extreme Painkiller era and 
         alternative: "Tama S.L.P. Big Black Steel 14\" x 6.5\" or Pearl Sensitone for comparable depth and cut"
       },
       cymbals: {
-        brand: 'Sabian',
-        series: 'Sabian AAX / HHX Series',
+        brand: 'Paiste',
+        series: 'Paiste RUDE / 2002 Series',
         setup: [
-          { type: 'Hi-Hats', model: 'Sabian 14" AAX X-Celerator Hi-Hats', notes: 'Bright, cutting hi-hat for fast metal patterns' },
-          { type: 'Crash', model: 'Sabian 18" AAX Crash', notes: 'Fast, explosive crash for accent moments' },
-          { type: 'Crash', model: 'Sabian 19" AAX Stage Crash', notes: 'Heavier crash for section climaxes' },
-          { type: 'Ride', model: 'Sabian 21" AAX Raw Bell Dry Ride', notes: 'Defined bell and controlled wash for ride-driven sections' },
-          { type: 'China', model: 'Sabian 18" AAX Judo China', notes: 'Trashy China for aggressive accent punctuation' }
+          { type: 'Hi-Hats', model: 'Paiste 14" 2002 Sound Edge Hi-Hats', notes: 'Bright, cutting hi-hat for fast metal patterns' },
+          { type: 'Crash', model: 'Paiste 18" RUDE Crash/Ride', notes: 'Fast, explosive crash for accent moments' },
+          { type: 'Crash', model: 'Paiste 19" 2002 Crash', notes: 'Heavier crash for section climaxes' },
+          { type: 'Ride', model: 'Paiste 21" 2002 Ride', notes: 'Defined bell and controlled wash for ride-driven sections' },
+          { type: 'China', model: 'Paiste 18" RUDE China', notes: 'Trashy China for aggressive accent punctuation' }
         ],
-        description: "Travis uses Sabian cymbals — primarily the AAX and HHX series. Sabian's bright, cutting character suits speed metal's aggressive frequency range, with fast-responding crashes for rapid accent changes and a defined ride bell for groove sections. The AAX series' bright tone projects clearly through Priest's dense guitar arrangements."
+        description: "Travis has endorsed Paiste since 1987 — established during his Racer X years, before he even joined Judas Priest — and it's the one brand relationship that has never changed across his career. His setup draws from the RUDE and 2002 series, whose bright, cutting character suits speed metal's aggressive frequency range, with fast-responding crashes for rapid accent changes and a defined ride bell for groove sections. Paiste's bright tone projects clearly through Priest's dense guitar arrangements."
       },
       pedals: {
-        brand: 'Tama',
-        model: 'Tama Iron Cobra 900 Double Pedal',
-        description: "Travis was an early Tama Iron Cobra adopter and has used Iron Cobra pedals throughout his Judas Priest career. The Iron Cobra 900's Power Glide cam provides smooth acceleration for sustained high-speed patterns, with consistent response across the full foot stroke. For 200+ BPM double-bass, the Iron Cobra's reliability and consistent feel across long performances are essential.",
-        alternative: "DW 9000 or Pearl Demon Drive for comparable professional-level double pedal performance"
+        brand: 'DW',
+        model: 'DW 9000 Series Double Pedal',
+        description: "Travis paired his 2018 switch to ddrum with a move to the DW 9000 Series Double Pedal, his current pedal since Firepower. Before that, he was a long-time Tama Iron Cobra user, whose Power Glide cam provided smooth acceleration for sustained high-speed patterns. The DW 9000's consistent response across the full foot stroke suits his precision approach to sustained high-speed double-bass patterns, with the reliability to maintain consistent feel through long Judas Priest concerts.",
+        alternative: "Tama Iron Cobra 900 or Pearl Demon Drive for comparable professional-level double pedal performance"
       },
       sticks: {
         brand: 'Vic Firth',
@@ -8572,41 +8572,41 @@ This guide covers Travis's technique across both the extreme Painkiller era and 
       budget: {
         price: "$900",
         label: "Starter Speed Metal Setup",
-        kit: "Tama Imperialstar ($500) — Tama family feel at entry price",
-        cymbals: "Sabian SBR or B8X series ($250)",
-        pedals: "Tama Iron Cobra 200 Double ($150) — Iron Cobra family at accessible price",
+        kit: "Tama Imperialstar ($500) — Tama family feel like Travis's early Painkiller-era kit",
+        cymbals: "Paiste PST 5 or PST 8 series ($250)",
+        pedals: "Tama Iron Cobra 200 Double ($150) — Iron Cobra family like Travis's pre-2018 pedal",
         sticks: "Vic Firth 5B ($10)",
-        notes: "Tama Imperialstar and Iron Cobra 200 keep you in the Tama ecosystem that Travis endorses. Sabian SBR introduces the Sabian brand character at entry level."
+        notes: "Tama Imperialstar and Iron Cobra 200 evoke Travis's earlier Tama/Iron Cobra era. Paiste PST introduces the Paiste brand character he's endorsed since 1987 at entry level."
       },
       mid: {
         price: "$3,200",
         label: "Intermediate Setup",
-        kit: "Tama Superstar Classic ($1,500) — professional maple option",
-        cymbals: "Sabian AAX selection ($1,200)",
-        pedals: "Tama Iron Cobra 900 Double ($400) — Travis's actual pedal",
+        kit: "Pearl Export or Pearl Reference Pure ($1,500) — evokes his 2005-2018 Pearl era",
+        cymbals: "Paiste 2002 selection ($1,200)",
+        pedals: "DW 5000 Series Double ($400) — DW family like Travis's current pedal",
         sticks: "Vic Firth 5B ($10)",
         heads: "Remo Powerstroke P3 / Emperor set ($150)",
-        notes: "Tama Iron Cobra 900 is Travis's actual pedal choice. Sabian AAX matches his cymbal character for speed metal production."
+        notes: "Paiste 2002 matches Travis's cymbal character, which has never changed since 1987. DW 5000 evokes the DW 9000 he's used since 2018."
       },
       pro: {
         price: "$6,000+",
         label: "Professional Setup",
-        kit: "Tama Starclassic Walnut/Birch ($3,000+) — Travis's current touring kit",
-        cymbals: "Full Sabian AAX/HHX selection ($2,000+)",
-        pedals: "Tama Iron Cobra 900 Double ($400)",
+        kit: "ddrum Dominion Series ($3,000+) — Travis's current touring kit",
+        cymbals: "Full Paiste RUDE/2002 selection ($2,000+)",
+        pedals: "DW 9000 Series Double ($500) — Travis's actual pedal",
         snare: "Tama S.L.P. 14\" x 6.5\" ($300)",
         heads: "Full Remo Powerstroke / Emperor set ($200)",
-        notes: "Tama Starclassic Walnut/Birch is Travis's current configuration. Full Sabian AAX selection recreates his touring and studio cymbal setup."
+        notes: "ddrum Dominion Series is Travis's current configuration, adopted in 2018. Full Paiste RUDE/2002 selection recreates the cymbal setup he's played since 1987, and the DW 9000 matches his current pedal."
       }
     },
     faq: [
       {
         question: "What drum kit does Scott Travis use?",
-        answer: "Scott Travis has been a Tama endorser throughout his Judas Priest career. He used a Tama Artstar II (birch shells) on Painkiller (1990), which gave that album its aggressive, attack-forward drum sound. Currently he plays Tama Starclassic Walnut/Birch — a warmer, more versatile hybrid shell that suits Priest's more dynamic modern recordings. His configuration typically features double 22\" bass drums, two rack toms (10\", 12\"), and two floor toms (14\", 16\")."
+        answer: "Scott Travis's drum brand has moved through three eras. He used a Tama Artstar II (birch shells) on Painkiller (1990), which gave that album its aggressive, attack-forward drum sound. He gradually migrated to Pearl's Reference Series through the 2000s (from 2005), then switched to a ddrum Dominion Series shell pack in 2018 for Firepower — his current kit through 2024's Invincible Shield. His configuration typically features double 22\" bass drums, two rack toms (10\", 12\"), and two floor toms (14\", 16\")."
       },
       {
         question: "What pedals does Scott Travis use?",
-        answer: "Scott Travis has been a long-time Tama Iron Cobra advocate, using the Iron Cobra 900 double pedal as his primary touring and recording pedal. He was an early Iron Cobra adopter and the pedal's Power Glide cam — which provides smooth, consistent acceleration across the full foot stroke — suits his precision approach to sustained high-speed double-bass patterns. The Iron Cobra 900 has the reliability to maintain consistent feel through long Judas Priest concerts."
+        answer: "Scott Travis currently plays the DW 9000 Series Double Pedal, adopted in 2018 alongside his switch to ddrum. Before that, he was a long-time Tama Iron Cobra user, whose Power Glide cam provided smooth, consistent acceleration across the full foot stroke. The DW 9000's reliability and consistent feel across long performances suit his precision approach to sustained high-speed double-bass patterns through long Judas Priest concerts."
       },
       {
         question: "How do I develop Scott Travis's Painkiller double-bass technique?",
@@ -8614,7 +8614,7 @@ This guide covers Travis's technique across both the extreme Painkiller era and 
       },
       {
         question: "What cymbals does Scott Travis use?",
-        answer: "Scott Travis uses Sabian cymbals, primarily from the AAX and HHX series. His setup typically includes 14\" AAX hi-hats for fast, cutting hi-hat patterns; 18\" and 19\" AAX crashes for explosive accent work; a 21\" AAX ride for groove-driven sections; and an 18\" China for aggressive accent moments. Sabian's bright, articulate character suits speed metal's demanding frequency requirements."
+        answer: "Scott Travis has played Paiste cymbals since 1987 — the one gear relationship that has never changed across his entire career, spanning his Racer X years through his current Judas Priest lineup. His setup draws from the RUDE and 2002 series, typically including 14\" hi-hats for fast, cutting hi-hat patterns; 18\" and 19\" crashes for explosive accent work; a 21\" ride for groove-driven sections; and an 18\" China for aggressive accent moments. Paiste's bright, articulate character suits speed metal's demanding frequency requirements."
       },
       {
         question: "What Judas Priest songs should I learn to play like Scott Travis?",

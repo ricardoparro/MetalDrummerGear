@@ -4384,7 +4384,7 @@ His dynamic contrast ranges from near-inaudible snare brush textures to enormous
     genre: 'Thrash Metal / Big Four',
     priority: 18,
     title: "How to Sound Like Nick Menza: Complete Gear & Technique Guide",
-    description: "Master Nick Menza's explosive Megadeth thrash drumming. Learn his double-bass precision at 180-200 BPM, tight snare crack, polyrhythmic fills, and the Sonor gear setup behind Rust in Peace and Countdown to Extinction.",
+    description: "Master Nick Menza's explosive Megadeth thrash drumming. Learn his double-bass precision at 180-200 BPM, tight snare crack, polyrhythmic fills, and the Tama-to-Pearl gear setup behind Rust in Peace and Countdown to Extinction.",
     seoKeywords: ['nick menza drumming', 'how to sound like nick menza', 'megadeth drums', 'nick menza gear', 'nick menza technique', 'nick menza drum kit', 'thrash metal drumming', 'rust in peace drums'],
     ogImage: '/images/guides/nick-menza-guide.webp',
     datePublished: '2026-06-24',
@@ -4398,7 +4398,7 @@ His dynamic contrast ranges from near-inaudible snare brush textures to enormous
 
 What set Menza apart in the thrash landscape was his combination of speed and control. At 180-200 BPM double bass, his kick patterns remained clean and articulate while his snare delivered a sharp, rimshot-heavy crack that cut through Dave Mustaine and Marty Friedman's layered guitar attack. His polyrhythmic fills on songs like "Tornado of Souls" demonstrated a musicality that went beyond technical showmanship.
 
-This guide covers the core techniques, Sonor gear setup, and practice approach that will help you capture the Megadeth thrash sound from 1990-1995 — the definitive Nick Menza period.`,
+This guide covers the core techniques, Tama-to-Pearl gear setup, and practice approach that will help you capture the Megadeth thrash sound from 1990-1995 — the definitive Nick Menza period.`,
       keyPoints: [
         "Menza played on Megadeth's commercial and critical peak: Rust in Peace and Countdown to Extinction",
         "Double-bass precision at 180-200 BPM without sacrificing articulation was his defining quality",
@@ -4457,40 +4457,41 @@ This guide covers the core techniques, Sonor gear setup, and practice approach t
       ]
     },
     gear: {
-      title: "Nick's Sonor Performer Setup",
+      title: "Nick's Tama Artstar II & Pearl Masters Setup",
       drumKit: {
-        brand: 'Sonor',
-        model: 'Sonor Performer',
-        shells: 'Beech',
-        finish: 'Custom Megadeth configurations',
+        brand: 'Tama / Pearl',
+        model: 'Tama Artstar II (1990) → Pearl Masters (1992)',
+        shells: 'Birch (Tama Artstar II) / Maple (Pearl Masters)',
+        finish: 'Tama Artstar II in Midnight Blue',
         config: {
           kick: '22" x 18" Bass Drums (x2)',
-          snare: '14" x 6.5" Sonor Snare',
+          snare: '14" x 6.5" Snare',
           toms: ['10" x 9" Rack Tom', '12" x 10" Rack Tom'],
           floorToms: ['16" x 14" Floor Tom', '18" x 16" Floor Tom']
         },
-        description: "Nick Menza played Sonor Performer kits through the Rust in Peace and Countdown to Extinction era — Sonor's professional beech-shell line that offered punch and articulation suited to thrash metal. The beech shells provided a focused midrange attack that sat cleanly in Megadeth's dense guitar mix.",
-        affiliateNote: "Sonor AQ2 or Sonor SQ1 are strong modern alternatives with similar beech-shell character."
+        description: "Nick Menza debuted on \"Rust in Peace\" (1990) with a Tama Artstar II kit in Midnight Blue finish — birch shells chosen for the focused attack needed to cut through Dave Mustaine and Marty Friedman's dense guitar arrangements. He switched to Pearl Masters for \"Countdown to Extinction\" (1992), seeking a more resonant, powerful sound than the Rust in Peace-era Tama kit.",
+        affiliateNote: "Tama Starclassic is the modern equivalent of the Artstar II's birch-shell attack; Pearl Masters Maple Complete carries forward the Countdown to Extinction-era Pearl Masters sound."
       },
       snare: {
-        brand: 'Sonor',
-        model: 'Sonor Phonic Plus',
+        brand: 'Tama / Pearl',
+        model: '14" x 6.5" Snare',
         size: '14" x 6.5"',
         shell: 'Steel',
         description: "Nick's steel snare delivered the sharp, high-pitched crack central to Megadeth's thrash sound. Tuned tight with rimshot technique, it cut through Dave Mustaine's heavily-amplified guitar wall with authority.",
         alternative: "Ludwig Supraphonic or Pearl Sensitone Steel for similar steel snare crack"
       },
       cymbals: {
-        brand: 'Zildjian',
-        series: 'Zildjian A Series',
+        brand: 'Zildjian / Paiste',
+        series: 'Zildjian A Series (1990) → Paiste 2002 / Signature (1992)',
         setup: [
-          { type: 'Hi-Hats', model: 'Zildjian 14" A New Beat Hi-Hats', notes: 'Classic, defined chick with fast response for thrash tempos' },
-          { type: 'Crash', model: 'Zildjian 18" A Medium Crash', notes: 'Fast response, explosive attack for song transitions' },
-          { type: 'Crash', model: 'Zildjian 16" A Medium Crash', notes: 'Smaller crash for fills and accent punctuation' },
-          { type: 'Ride', model: 'Zildjian 20" A Ride', notes: 'Defined bell for high-tempo ride patterns' },
-          { type: 'China', model: 'Zildjian 18" A China', notes: 'Aggressive accent for thrash energy bursts' }
+          { type: 'Hi-Hats', model: 'Zildjian 14" A New Beat Hi-Hats', notes: 'Rust in Peace (1990) — classic, defined chick with fast response for thrash tempos' },
+          { type: 'Crash', model: 'Zildjian 18" A Medium Crash', notes: 'Rust in Peace (1990) — fast response, explosive attack for song transitions' },
+          { type: 'Crash', model: 'Zildjian 16" A Medium Crash', notes: 'Rust in Peace (1990) — smaller crash for fills and accent punctuation' },
+          { type: 'Ride', model: 'Zildjian 20" A Ride', notes: 'Rust in Peace (1990) — defined bell for high-tempo ride patterns' },
+          { type: 'China', model: 'Zildjian 18" A China Boy High', notes: 'Rust in Peace (1990) — aggressive accent for thrash energy bursts' },
+          { type: 'Crash/Ride', model: 'Paiste 2002 / Signature series', notes: 'Countdown to Extinction (1992) — melodic, arena-rock-oriented production without losing thrash-level cut' }
         ],
-        description: "Nick worked with Zildjian A Series cymbals — the industry-standard for defined, articulate response. The A Series provides clean stick definition at high thrash tempos without the washy overtones that blur fast patterns."
+        description: "Nick ran a Zildjian A / A Custom setup on \"Rust in Peace\" (1990) — the bright, cutting tone that became a signature of the album's thrash attack. For \"Countdown to Extinction\" (1992) he switched to Paiste 2002 and Signature cymbals, matching the album's more melodic, arena-rock-oriented production."
       },
       pedals: {
         brand: 'DW',
@@ -4578,37 +4579,37 @@ This guide covers the core techniques, Sonor gear setup, and practice approach t
       budget: {
         price: "$1,200",
         label: "Starter Thrash Setup",
-        kit: "Sonor AQ2 Series ($700) or Pearl Export ($600)",
+        kit: "Tama Imperialstar ($700) or Pearl Export ($600)",
         cymbals: "Zildjian A Customs Pack ($400-500)",
         pedals: "DW 5000 Double Pedal ($300)",
         sticks: "Vic Firth 5A ($10)",
-        notes: "Sonor's AQ2 shares beech-shell DNA with the Performer. Pair with Zildjian A cymbals for immediate thrash articulation."
+        notes: "Tama's Imperialstar shares birch-shell DNA with the Artstar II. Pair with Zildjian A cymbals for immediate Rust in Peace-era thrash articulation."
       },
       mid: {
         price: "$3,500",
         label: "Intermediate Setup",
-        kit: "Sonor SQ1 Series ($1,500)",
-        cymbals: "Zildjian A Custom Selection ($800)",
+        kit: "Pearl Masters Maple Complete ($1,500)",
+        cymbals: "Paiste 2002 Selection ($800)",
         pedals: "DW 5000 Double Pedal ($300)",
         sticks: "Vic Firth 5A ($10)",
         heads: "Evans G2 Coated set ($150)",
-        notes: "Sonor SQ1 brings you into the sound territory of Nick's Performer kit. Upgrade heads to Evans G2 for the era-accurate tone."
+        notes: "Pearl Masters Maple Complete brings you into the sound territory of Nick's Countdown to Extinction-era kit. Upgrade heads to Evans G2 for the era-accurate tone."
       },
       pro: {
         price: "$6,000+",
         label: "Professional Setup",
-        kit: "Sonor SQ2 Custom ($3,500+)",
-        cymbals: "Zildjian A Series Custom Selection ($1,500+)",
+        kit: "Tama Starclassic Walnut/Birch ($3,500+) or Pearl Masters Custom ($3,500+)",
+        cymbals: "Paiste 2002 / Signature Custom Selection ($1,500+)",
         pedals: "DW 9000 Double Pedal ($700)",
-        snare: "Sonor Phonic Plus or Ludwig Supraphonic ($200-400)",
+        snare: "Ludwig Supraphonic or Pearl Sensitone Steel ($200-400)",
         heads: "Full Evans setup ($200)",
-        notes: "Period-accurate Sonor beech shells. The SQ2 is fully custom — the closest you can get to Menza's Performer configuration in a modern production kit."
+        notes: "Period-accurate birch/maple shells matching either the Rust in Peace-era Tama Artstar II or the Countdown to Extinction-era Pearl Masters, depending on which sound you're chasing."
       }
     },
     faq: [
       {
         question: "What drum kit did Nick Menza use on Rust in Peace?",
-        answer: "Nick Menza used Sonor Performer kits during the Rust in Peace (1990) and Countdown to Extinction (1992) recording and touring periods. The Sonor Performer featured beech shells that provided focused midrange punch suited to Megadeth's dense thrash arrangements. Modern alternatives with similar beech-shell character include the Sonor AQ2 and SQ1 series."
+        answer: "Nick Menza used a Tama Artstar II kit in Midnight Blue finish on \"Rust in Peace\" (1990) — birch shells chosen for the focused attack needed to cut through Megadeth's dense guitar arrangements. He switched to a Pearl Masters kit for \"Countdown to Extinction\" (1992), seeking a more resonant, powerful sound. Modern alternatives include the Tama Starclassic for the Artstar II-era attack and the Pearl Masters Maple Complete for the Countdown-era tone."
       },
       {
         question: "How do I get Nick Menza's snare crack?",
@@ -4620,7 +4621,7 @@ This guide covers the core techniques, Sonor gear setup, and practice approach t
       },
       {
         question: "What cymbals did Nick Menza use?",
-        answer: "Nick Menza was a Zildjian endorser and primarily used the Zildjian A Series — 14\" A New Beat hi-hats, A Medium crashes (16\" and 18\"), a 20\" A ride, and an 18\" A China. The A Series provides excellent definition and attack at thrash tempos, which is why it remains the standard for the genre."
+        answer: "Nick Menza ran a Zildjian A / A Custom setup on \"Rust in Peace\" (1990) — 14\" A New Beat hi-hats, A Medium crashes (16\" and 18\"), a 20\" A ride, and an 18\" A China Boy High. He switched to Paiste 2002 and Signature cymbals for \"Countdown to Extinction\" (1992), matching that album's more melodic, arena-rock-oriented production without losing thrash-level cut."
       },
       {
         question: "Can a beginner learn Nick Menza's style?",
@@ -4631,7 +4632,7 @@ This guide covers the core techniques, Sonor gear setup, and practice approach t
       drummerProfile: '/drummer/nick-menza',
       similarDrummers: ['Dave Lombardo', 'Lars Ulrich', 'Igor Cavalera'],
       relatedGuides: ['how-to-sound-like-dave-lombardo', 'how-to-sound-like-lars-ulrich', 'how-to-sound-like-jimmy-degrasso'],
-      gearPages: ['/gear/pedals', '/brands/sonor', '/brands/zildjian']
+      gearPages: ['/gear/pedals', '/brands/tama', '/brands/pearl']
     },
     licksUrl: '/drummers/nick-menza/licks',
     relatedArticles: [

@@ -961,3 +961,34 @@ First run after 07:00 UTC. Metrics 09:37 UTC (274 users/305 sessions/496 views 7
 
 ---
 
+
+## 2026-08-28 21:43 — Evening review: 8 fresh gear-fabrication proposals promoted (#6350-6357)
+
+### Context (≤3 lines)
+First run after 19:00 UTC (evening review). Metrics 21:43 UTC (286 users/318 sessions/519 views 7d; GSC 6,939 impr/156 clicks/2.25% CTR/pos 9.1, unchanged vs the 09:37 run's snapshot). Eligible `ai-fix` backlog 0 at run start (all 20 open `ai-fix` remain `hold`-labeled freeze-blocked roster/band splits), 0 open PRs, 8 fresh untriaged `seo-proposal` (#6350-6357, filed 12:33-12:34 UTC) plus the 3 standing L1/L2/L3 umbrellas (#3810/#3819/#2211).
+
+### Actions taken
+- **Promoted all 8** (`ai-fix`): same systemic gear-brand-fabrication class (`drummerComparisons.js`/`soundLikeGuides.js` fields contradicting verified `endorsementNews.js`). #6350 (Eloy Casagrande, lone Meinl outlier vs 7+ correct Paiste sibling entries), #6351 (Jay Weinberg, 3 of 4 fields fabricated: Pearl drums/Promark sticks/Pearl pedal vs verified SJC/Vater/DW), #6352 (Paul Bostaph, DW/Paiste "final Slayer setup" vs verified Pearl/Sabian/Pearl since 2015 — correctly scoped to the 2015-2019 era, not his earlier DW stint), #6353 (Daniel Erlandsson, Zildjian vs verified Sabian AAX/HHX), #6354 (George Kollias, Meinl vs verified continuous Zildjian A Custom), #6355 (Brann Dailor, 4 of 5 fields fabricated as DW/Vic-Firth vs verified Tama/Meinl-Mb/Vater/Tama-hardware), #6356 (Matt Garstka drum brand fabricated Tama across 7 comparison entries vs verified DW since 2021), #6357 (Mangini/Garstka entry with swapped cymbal brands + wrong Garstka drum brand). Live-verified 3 directly: **#6353** — grep confirmed `drummerComparisons.js:1368` still says "Zildjian cymbals" for Daniel Erlandsson against `endorsementNews.js`'s verified Sabian AAX/HHX. **#6357** — grep confirmed `drummerComparisons.js:937/943` still has Mangini/Zildjian + Garstka/Pearl-Reference/Sabian, contradicting verified Mangini→Sabian, Garstka→DW/Meinl. **#6350** — grep confirmed line 208 is the sole "Meinl cymbals" outlier for Eloy Casagrande. Searched all-state issues per slug for all 8 (drummer/entity names) — no true duplicates; closed hits are different files/fields already fixed (e.g. #6356/#6357 correctly split from each other — different source strings, "Tama Starclassic" vs "Pearl Reference"). All single- or dual-file, verified-only, zero new pages/URLs (freeze-compliant depth work).
+- **Backlog gate**: 0 → 8, well under the 45/80 threshold; promoted liberally per rule.
+- **GSC content-gap**: same 3 rows as the 09:37 run (`metalforge` 553 impr/0.54% CTR, `danny carey drum kit` 115 impr/0.87% CTR, `joey jordison drum kit` 61 impr/1.64% CTR) — metrics unchanged since this morning's snapshot (same 7-day window), all already investigated/held today. No new action.
+- **L1/L2/L3** (#3810/#3819/#2211): snapshot files still the 2026-08-24 generation (checked `**Generated:**` timestamps) — no fresh weekly refresh yet (due ~08-31). Already fully triaged in prior runs.
+- **Founder ideas**: inbox empty, unchanged since 06-19.
+- **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 — all `updatedAt` unchanged, no re-spam.
+- **Stale-issue / atomic-split sweep**: same 20 pre-existing `ai-fix` issues re-confirmed `hold`-labeled, freeze-blocked, none eligible. New promotions are single/dual-file, well under the atomic-split trigger.
+- **Starvation check**: post-triage backlog=8, bank=0 (excl. umbrellas) — technically under 15/≤2, but this is the 3rd fresh 8-issue batch from the SEO Agent today across two runs (#6325-6331/#6338 this morning, #6350-6357 this run) — healthy, flowing cadence, not escalating.
+
+### State delta
+- ai-fix backlog: 0 → 8 (#6350-6357)
+- seo-proposal bank (excl. umbrellas): 8 → 0
+- Org/Sessions/Views (7d): 286/318/519 · GSC 6,939 impr/156 clicks/2.25% CTR/pos 9.1 (flat vs this morning's snapshot)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 8/8 fresh triaged, live-verified (3 direct + 5 pattern-match), promoted, no duplicates, freeze-compliant. ✅ GSC-gap: 3 rows re-confirmed held per this morning's rulings, no new fix. ✅ L1/L2/L3: no fresh snapshot since 08-24, already actioned. ✅ Starvation: technically met but judged healthy (SEO Agent flowing, 3rd batch today). ✅ Atomic split: 20 stale issues re-checked, all `hold`-labeled, none eligible; new promotions all atomic. ✅ Decisions logged.
+
+### Next Run
+1. Watch #6350-6357 ship via Roadie/PR Merger.
+2. Watch for the next L1/L2/L3 weekly refresh (last one 08-24, due ~08-31).
+3. Next deep run ~07:00 UTC tomorrow: full metrics + GSC-gap + L1/L2/L3 close-the-loop pass.
+4. If backlog is still <15 with an actually-starved (bank ≤2) proposal supply at the next run, that starts the starvation playbook.
+
+---

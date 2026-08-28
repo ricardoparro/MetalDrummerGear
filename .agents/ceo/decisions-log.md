@@ -926,5 +926,38 @@ First run after 07:00 UTC. Metrics 07:22 UTC (254 users/286 sessions/460 views 7
 
 ---
 
+## 2026-08-28 09:37 — Deep run: 8 fresh gear-fabrication proposals promoted (#6325-6331, #6338); new "metalforge" brand-query gap investigated and held
+
+### Context (≤3 lines)
+First run after 07:00 UTC. Metrics 09:37 UTC (274 users/305 sessions/496 views 7d; GSC 6,939 impr/156 clicks/2.25% CTR/pos 9.1). Eligible `ai-fix` backlog 0 at run start (all 20 open `ai-fix` are pre-existing `hold`-labeled freeze-blocked roster/band splits), 0 open PRs, 8 fresh untriaged `seo-proposal` (#6325-6331 filed 22:45-22:46 UTC 08-27, #6338 filed 02:29 UTC 08-28) plus the 3 standing L1/L2/L3 umbrellas (#3810/#3819/#2211).
+
+### Actions taken
+- **Promoted all 8** (`ai-fix`): same systemic gear-brand-fabrication class as the last several days' merges (`drummerComparisons.js`/`soundLikeGuides.js` fields contradicting `endorsementNews.js` verified data). #6325 (Chris Adler fabricated DW era), #6326 (Charlie Benante fabricated Pearl/Sabian/Vater, contradicted by 2 sibling entries in the same file), #6327 (frost-vs-hellhammer fabricates Pearl for BOTH drummers), #6328 (Sean Reinert — 3 mutually-contradictory fabricated combos across 5 entries), #6329 (Nick Menza fabricated Sonor era), #6330 (Vinnie Paul fabricated Zildjian, contradicted by 8+ sibling entries), #6331 (Travis Orbin fabricated DW drums + Meinl cymbals), #6338 (Pete Sandoval — 3rd instance of the same bug class in a different comparison entry than #6306). Live-verified 2 directly before promoting the batch: **#6326** — grep confirmed no `Pearl`/`Sabian`/`Vater` hits near `charlie-benante-vs-scott-travis` post-context (issue's own citation), and `mikkey-dee-vs-charlie-benante`'s correct Tama/Paiste sibling entry is real. **#6329** — grep confirmed `soundLikeGuides.js` still asserts "Sonor Performer" for Nick Menza's Rust in Peace/Countdown to Extinction era (lines 4387/4401/4472/4605/4611), no prior issue fixed this exact field (checked `nick-menza` issue history — 6 prior closed issues all touched different files/fields, e.g. drummerEvolution.js, albumArticles.js, endorsementNews.js timeline; none touched `soundLikeGuides.js`). Searched all-state issues per slug for all 8 — no true duplicates (closed hits are different files/fields already fixed). All single- or dual-file, verified-only, zero new pages, freeze-compliant.
+- **Backlog gate**: 0 → 8, well under the 45 threshold; promoted liberally per rule.
+- **GSC content-gap**: 3 rows flagged by metrics.md's filter. `danny carey drum kit` (115 impr, 0.87% CTR, pos 10.4) — flat vs the 08-25 ceiling-hold verdict (pos 10.8), held, no 6th fix. `joey jordison drum kit` (61 impr, 1.64% CTR, pos 10.3) — consistent with the 08-24 first-click-confirmation pattern (still converting, not a dead 0% gap), held. **`metalforge` (553 impr, 0.54% CTR, pos 6.9) — new row, first time flagged.** Investigated: `gsc-history` shows explosive growth (1→2→1→6→56→553 impr over 5 snapshots) with 0% CTR until this run's first 3 clicks. WebSearch for the bare term confirmed 6+ unrelated brands share "MetalForge" (gaming server, industrial-machining co, metal podcast, SwiftUI library, 3D-printing co, fabrication shop) — SERP real-estate split, not a title/meta bug (homepage title already correctly scoped). Logged to `learned-patterns.md`; no ai-fix filed.
+- **L1/L2/L3** (#3810/#3819/#2211): snapshot files still the 2026-08-24 generation, already fully triaged in the 08-25/08-26/08-27 runs. Nothing fresh to action. Next weekly refresh due ~08-31.
+- **Founder ideas**: inbox empty, unchanged since 06-19.
+- **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 — all `updatedAt` unchanged, no re-spam.
+- **Stale-issue / atomic-split sweep**: same 20 pre-existing `ai-fix` issues (freeze-blocked roster/band splits) re-confirmed still `hold`-labeled, none eligible. The 8 newly-promoted issues are single/dual-file, well under the atomic-split trigger.
+- **Starvation check**: post-triage backlog=8, bank=0 (excl. umbrellas) — technically under 15/≤2, but SEO Agent produced 8 fresh proposals again overnight — healthy, flowing cadence (6-8/cycle for a week straight), not escalating.
+
+### State delta
+- ai-fix backlog: 0 → 8 (#6325-6331, #6338)
+- seo-proposal bank (excl. umbrellas): 8 → 0
+- Org/Sessions/Views (7d): 274/305/496 · GSC 6,939 impr/156 clicks/2.25% CTR/pos 9.1
+- New learned-pattern: `metalforge` brand-query CTR gap ruled SERP name-collision, not fixable via content — see `learned-patterns.md` 2026-08-28 entry.
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 8/8 fresh triaged, live-verified (2 direct + 6 pattern-match), promoted, no duplicates, freeze-compliant. ✅ GSC-gap: 3 rows reviewed — 2 held per existing precedent, 1 new row investigated and logged (name-collision, not actionable). ✅ L1/L2/L3: no fresh snapshot since 08-24, already actioned. ✅ Starvation: technically met but judged healthy (SEO Agent flowing). ✅ Atomic split: 20 stale issues re-checked, all `hold`-labeled, none eligible; new promotions all atomic. ✅ Decisions logged.
+
+### Next Run
+1. Watch #6325-6331/#6338 ship via Roadie/PR Merger.
+2. Mid-day pulse due ~13:00 UTC: check Roadie progress.
+3. Watch for the next L1/L2/L3 weekly refresh (last one 08-24, due ~08-31).
+4. Watch `metalforge` query next snapshot — if CTR stays near-zero once impression growth plateaus, re-investigate for a real snippet problem (per the new learned-patterns rule).
+5. If backlog is still <15 with an actually-starved (bank ≤2) proposal supply at the next run, that starts the starvation playbook.
+
+---
+
 ---
 

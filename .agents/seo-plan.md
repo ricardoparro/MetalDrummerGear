@@ -6594,3 +6594,55 @@ Filed 8 of 8 available slots — 2 additional agent-reported candidates (Jaska R
 2. Grep-verify and file (if confirmed) the 2 carried-over candidates: Jaska Raatikainen (`soundLikeGuides.js` era-scoping — Pearl claimed "throughout" career but 1999-2004 albums predate the 2004 Pearl switch, verified prior era is Tama Starclassic) and Matt Halpern (`soundLikeGuides.js`/`drummerComparisons.js` multiple entries say "Meinl Byzance" vs verified "Meinl Artist Concept" signature line).
 3. Consider whether `drummerComparisons.js`/`soundLikeGuides.js` is nearing exhaustion after 3 sweeps (11→8→7→8 findings/run, still productive) — if the next sweep's hit rate drops sharply, pivot to a fresh file family (e.g. `gearHighlights.js` or `top10Lists.js` cross-check).
 4. Drum-chair rotation: week 36 is group 0 (amon-amarth through cynic) — due Monday 2026-08-31.
+
+---
+
+## 2026-08-28 (2nd run, 22:47 UTC) — Resolved 2 carried-over candidates + 4th-pass sweep found 6 more whole-guide fabrications: 8 verified findings filed (#6376-6383)
+
+### Bank check
+Open `seo-proposal` at run start: 11 — 8 already `ai-fix`-labeled (#6350-6357) + 3 standing umbrellas (#3810/#3819/#2211). True untriaged bank: 0. Cleared to file up to 8 net-new.
+
+### Audit summary
+- Robots.txt (live curl, GPTBot UA): all 8 AI crawlers explicitly `Allow: /`. ✅
+- `/public/llms/**/*.md`: 2,011 files live, unchanged. ✅
+- Content-gap queries (metrics.md, refreshed 22:47 UTC): 3 rows — `metalforge` (553 impr, 0.54% CTR) already ruled a SERP name-collision today (logged in `learned-patterns.md`, not a content bug, no fix); `danny carey drum kit` (115 impr, 0.87% CTR) standing position-ceiling ruling (5 prior fixes); `joey jordison drum kit` (61 impr, 1.64% CTR) — pulled full `gsc-history` window (13→20→23→61→57 impr, clicks 1/0/0/0/1) — oscillating noise per the established noise-threshold rule (≥1 click in the trailing 4-5 snapshots), not a dead zone, and this exact query already absorbed 10+ dedicated fixes historically. None re-proposed.
+- Drum-chair watch: today is Friday, not Monday — skipped. Next due 2026-08-31 (week 36, group 0, amon-amarth through cynic).
+
+### Carried-over candidates (from prior run's "Next run" item 2)
+Personally grep-verified both against `endorsementNews.js` before filing:
+1. **Jaska Raatikainen** — CONFIRMED. `soundLikeGuides.js`'s guide claims "Pearl endorser throughout Children of Bodom's career" (5 occurrences) while its own bio names "Follow the Reaper"/"Hate Crew Deathroll" as landmarks — both fall in the verified 1999-2004 **Tama** era per `endorsementNews.js:679-728`. Filed **#6376**.
+2. **Matt Halpern** — CONFIRMED, but the fix direction was more nuanced than flagged: `endorsementNews.js` says "Meinl Artist Concept... Double Down Stack" (correct but incomplete — only documents his signature product) and `drummerComparisons.js`/`extendedBios.js` say "Meinl Byzance" (directionally correct — his full setup IS mostly Byzance) but state fabricated specific model names ("Dark" hi-hats, "Extra Dry Medium" crashes, "Transition" ride) that don't match his real documented setup. Web-verified via Meinl's own artist page + Sweetwater + drum-tec before filing (real setup: Byzance Traditional Medium hi-hats, Traditional Extra Thin Hammered crashes, Sand Crash-Ride, plus the Artist Concept Double Down Stack signature). Filed **#6377** with the corrected model list.
+
+### 4th-pass sweep (per prior run's "Next run" item 3)
+Dispatched a research agent to sweep `drummerComparisons.js`/`soundLikeGuides.js` vs `endorsementNews.js` again, excluding all ~27 drummers already covered by the first 3 sweeps + today's 2 carry-overs. It found **15 candidates** (well above the 8-slot cap) — the vein shows no sign of exhaustion (11→8→7→8→15 raw candidates across 4 sweeps). Personally verified the 6 highest-severity (whole-guide/multi-field) candidates directly against source before filing, confirming exact line numbers:
+
+3. **Mike Portnoy** — `soundLikeGuides.js` whole-guide fabrication (drums/cymbals/pedal/sticks) says Pearl/Meinl Byzance/Axis/Vater; verified Tama/Sabian/[no pedal documented]/Promark since the 1980s (`endorsementNews.js:441-465`, "one of the longest-running Tama endorsements in metal"). One of the highest-profile drummers on the site — severity beyond the usual single-drummer fix. Filed **#6378**.
+4. **Matt Greiner** — ~10 `drummerComparisons.js` entries say Pearl Reference Pure/Meinl Byzance/Pearl Demon Drive; verified Mapex Black Panther Design Lab/Paiste Formula 602/DW 9000 since 2016 (`endorsementNews.js:852-901`). Also caught a second fabrication within the same sweep: 2 entries invent an unverified "Greiner & Kilmer Custom kit" drum-company name found nowhere in source-of-truth data — folded into the same issue as a removal, not a brand-swap. Filed **#6379**.
+5. **Gene Hoglan** — `soundLikeGuides.js` whole-guide fabrication (drums/cymbals/sticks, pedal already correct) says Tama/Zildjian A Custom/Vater; verified Pearl Reference Pure/Sabian AAX/ProMark since 2018/1991/2018 (`endorsementNews.js:1244-1254`). Filed **#6380**.
+6. **Derek Roddy** — `soundLikeGuides.js` whole-guide fabrication (shell wood + cymbal brand) says Tama Starclassic **Maple**/Paiste; verified Tama Starclassic **Bubinga**/Meinl Byzance-Mb20 since 2001/1994 (`endorsementNews.js:1946-1956`) — Tama brand itself was already correct, only wood+cymbal wrong. Filed **#6381**.
+7. **Jason Bittner** — 2 of 3 `drummerComparisons.js` entries say Tama Starclassic Performer B/B/Sabian HHX/DW 9002; verified Mapex Saturn V/Zildjian K&A Custom/Mapex Falcon since 1997 (`endorsementNews.js:2053-2063`) — the 3rd entry in the same file already agrees with the verified rig, confirming internal self-contradiction. Filed **#6382**.
+8. **Dave Lombardo** — `soundLikeGuides.js` fabricates a nonexistent "Zildjian Dave Lombardo Signature" stick (verified-only rule violation, same class as the Pete Sandoval precedent) plus an unsourced DW pedal claim; verified sticks are Promark Dave Lombardo Signature 2Bx, no pedal brand documented at all (`endorsementNews.js:323-332`). Filed **#6383**.
+
+All 8 personally grep-verified with exact line citations; all 8 checked via `gh issue list --state all --search "<name>"` for duplicates — no exact-file/field overlap found (closest matches were fixes to `albumArticles.js`, `drummerEvolution.js`, `endorsementNews.js` itself, or unrelated schema/JSON-LD issues). Single/dual-file, text-only, zero new pages/URLs — freeze-compliant.
+
+Not filed, carried to next sweep (agent-reported, not personally re-verified): Nicko McBrain (stale Sonor SQ2 in 2 spots), Dave Lombardo era-mismatch on a 3rd file (drummerComparisons.js line 2802, separate from the filed finding), Inferno (Pearl/Axis vs verified Monolit Czarcie Kopyto hardware), Joey Jordison (sticks era-misapplied in soundLikeGuides.js — note: this drummer already has an extremely deep fix history, worth extra scrutiny before filing), Tim Yeung, Lars Ulrich (pedal), Mario Duplantier (cymbal), Richard Christy, Jocke Wallgren, John Otto — all have line citations from the sweep agent, verify before filing next time.
+
+### Proposals filed this run (8)
+1. #6376 — Jaska Raatikainen (soundLikeGuides.js, era self-contradiction)
+2. #6377 — Matt Halpern (drummerComparisons.js + extendedBios.js, cymbal model names)
+3. #6378 — Mike Portnoy (soundLikeGuides.js, whole-guide, 4 fields)
+4. #6379 — Matt Greiner (drummerComparisons.js, ~10 entries + fabricated drum-company name)
+5. #6380 — Gene Hoglan (soundLikeGuides.js, whole-guide, 3 fields)
+6. #6381 — Derek Roddy (soundLikeGuides.js, whole-guide, wood+cymbal)
+7. #6382 — Jason Bittner (drummerComparisons.js, 2 of 3 entries)
+8. #6383 — Dave Lombardo (soundLikeGuides.js, fabricated signature product)
+
+### Open proposals waiting on CEO triage
+- #6376-6383 (filed this run, 0d old)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers only.
+
+### Next run
+1. Watch #6376-6383 ship via Roadie/PR Merger.
+2. Vein remains highly productive (15 raw candidates from the 4th sweep alone) — grep-verify and file the 10 carried-over candidates listed above before running a 5th fresh sweep.
+3. Flag for the CEO/founder: `drummerComparisons.js`/`soundLikeGuides.js` vs `endorsementNews.js` has now yielded ~55 verified gear-fabrication fixes across 4 sweeps — worth asking whether a systematic regeneration pass (script-driven cross-check of all ~150 drummers against `endorsementNews.js` in one go) would be more efficient than continued manual sweeps, once the current backlog drains.
+4. Drum-chair rotation: week 36 is group 0 (amon-amarth through cynic) — due Monday 2026-08-31.

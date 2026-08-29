@@ -909,15 +909,9 @@ What makes Dave exceptional isn't just speed—it's musicality. His playing brea
         ],
         description: "Dave's RUDE cymbals match his aggressive approach. These are designed to be heard over extreme metal."
       },
-      pedals: {
-        brand: 'DW',
-        model: 'DW 9000 Series Double Pedal',
-        description: "Dave uses DW's flagship pedals for their speed and response. The adjustable cam allows fine-tuning for his technique.",
-        alternative: "DW 5000 or Tama Speed Cobra"
-      },
       sticks: {
-        brand: 'Zildjian',
-        model: 'Zildjian Dave Lombardo Signature',
+        brand: 'Promark',
+        model: 'Promark Dave Lombardo Signature 2Bx',
         specs: 'Slightly longer with acorn tip',
         description: "Dave's signature stick is designed for power and speed with a tip optimized for cymbal response.",
         alternative: "Vic Firth 5A or 5B"
@@ -1011,7 +1005,7 @@ What makes Dave exceptional isn't just speed—it's musicality. His playing brea
         kit: "Tama Superstar ($1,400)",
         cymbals: "Paiste RUDE Set ($900)",
         pedals: "DW 5000 Double ($400)",
-        sticks: "Zildjian Dave Lombardo ($15)",
+        sticks: "Promark Dave Lombardo 2Bx ($15)",
         notes: "Getting the aggressive RUDE sound that Dave pioneered."
       },
       pro: {

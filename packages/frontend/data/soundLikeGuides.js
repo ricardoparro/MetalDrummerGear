@@ -11858,7 +11858,7 @@ This guide breaks down the technique, gear, and practice approach behind Ågren'
     genre: 'Death Metal / Technical Death Metal',
     priority: 45,
     title: "How to Sound Like Tim Yeung: Complete Gear & Technique Guide",
-    description: "Master Tim Yeung's blast beats at 280+ BPM. Learn the Morbid Angel drummer's relaxed, rebound-efficient technique, Pearl Reference Masters kit, Sabian cymbal setup, and DW 9002 double bass pedal approach.",
+    description: "Master Tim Yeung's blast beats at 280+ BPM. Learn the Morbid Angel drummer's relaxed, rebound-efficient technique, Pearl Reference Masters kit, Sabian cymbal setup, and Tama Speed Cobra 910 double bass pedal approach.",
     seoKeywords: ['tim yeung drums', 'how to play like tim yeung', 'tim yeung blast beat', 'morbid angel drummer', 'tim yeung technique', 'tim yeung gear'],
     ogImage: '/images/guides/tim-yeung-guide.webp',
     datePublished: '2026-07-01',
@@ -11959,10 +11959,10 @@ This guide breaks down the technique, gear, and practice approach behind Yeung's
         description: "Sabian's AAX series delivers focused, bright voices with fast attack and controlled decay — essential at Yeung's tempos, where hi-hats must open and close 250 times per minute and still articulate each stroke distinctly before the next arrives."
       },
       pedals: {
-        brand: 'DW',
-        model: 'DW 9002 Double Bass Pedal',
-        description: "The 9002's smooth, direct-drive cam system provides a controlled, predictable acceleration curve that rewards relaxed foot movement rather than tension-based striking — the mechanical foundation for Yeung's rebound-driven double bass technique.",
-        alternative: "DW 5000 Double or Tama Speed Cobra for similarly smooth, consistent action at a lower cost."
+        brand: 'Tama',
+        model: 'Speed Cobra 910 Double Pedal',
+        description: "The Speed Cobra's lightweight aluminum construction and smooth cam action provide a controlled, predictable acceleration curve that rewards relaxed foot movement rather than tension-based striking — the mechanical foundation for Yeung's rebound-driven double bass technique.",
+        alternative: "DW 5000 Double or Pearl Eliminator for similarly smooth, consistent action at a lower cost."
       },
       sticks: {
         brand: 'Vic Firth',
@@ -12056,7 +12056,7 @@ This guide breaks down the technique, gear, and practice approach behind Yeung's
         label: "Professional Setup",
         kit: "Pearl Reference Masters ($3,500+)",
         cymbals: "Full Sabian AAX/HHX selection ($1,800+)",
-        pedals: "DW 9002 Double Bass Pedal ($700)",
+        pedals: "Tama Speed Cobra 910 Double Pedal ($600)",
         heads: "Full Remo setup ($400)",
         notes: "Touring-ready setup matching Yeung's Morbid Angel rig for sustained 200-280 BPM performance."
       }
@@ -12072,7 +12072,7 @@ This guide breaks down the technique, gear, and practice approach behind Yeung's
       },
       {
         question: "What kit and cymbals does Tim Yeung use?",
-        answer: "Yeung plays a Pearl Reference Masters kit with maple/mahogany hybrid shells, built around a double 22\" x 18\" bass drum configuration. His cymbals are Sabian AAX and HHX series, including 14\" AAX hi-hats, 16\" and 18\" AAX crashes, a 20\" HHX ride, and an 18\" AAX china. He uses a DW 9002 double bass pedal and Vic Firth 5B sticks."
+        answer: "Yeung plays a Pearl Reference Masters kit with maple/mahogany hybrid shells, built around a double 22\" x 18\" bass drum configuration. His cymbals are Sabian AAX and HHX series, including 14\" AAX hi-hats, 16\" and 18\" AAX crashes, a 20\" HHX ride, and an 18\" AAX china. He uses a Tama Speed Cobra 910 double bass pedal and Vic Firth 5B sticks."
       },
       {
         question: "How to play blast beats at 280+ BPM like Tim Yeung?",

@@ -4643,7 +4643,7 @@ This guide covers the core techniques, Tama-to-Pearl gear setup, and practice ap
     genre: 'Heavy Metal / NWOBHM',
     priority: 19,
     title: "How to Sound Like Nicko McBrain: Complete Gear & Technique Guide",
-    description: "Master Nicko McBrain's iconic Iron Maiden gallop style. Learn his single bass drum gallop pattern, 'Where Eagles Dare' tom intro, triplet fills, and the Sonor gear setup behind over four decades of heavy metal thunder.",
+    description: "Master Nicko McBrain's iconic Iron Maiden gallop style. Learn his single bass drum gallop pattern, 'Where Eagles Dare' tom intro, triplet fills, and the British Drum Co. gear setup behind over four decades of heavy metal thunder.",
     seoKeywords: ['nicko mcbrain drumming', 'how to sound like nicko mcbrain', 'iron maiden drums', 'nicko mcbrain gear', 'nicko mcbrain technique', 'nicko mcbrain drum kit', 'iron maiden gallop', 'nwobhm drumming'],
     ogImage: '/images/guides/nicko-mcbrain-guide.webp',
     datePublished: '2026-06-24',
@@ -4657,7 +4657,7 @@ This guide covers the core techniques, Tama-to-Pearl gear setup, and practice ap
 
 What makes Nicko's story remarkable is that everything he achieves — including tempos that would demand double bass from most players — is done on a single bass drum pedal. This commitment to single-pedal technique has shaped his entire approach: he developed extraordinary single-foot speed and independence to compensate, creating a style that is immediately recognizable regardless of the song or era.
 
-This guide covers Nicko's core gallop technique, his Sonor SQ2 current setup, and the practice methods that will help you capture Iron Maiden's rhythmic heartbeat.`,
+This guide covers Nicko's core gallop technique, his British Drum Co. current setup (since 2019, after a decade with Sonor SQ2), and the practice methods that will help you capture Iron Maiden's rhythmic heartbeat.`,
       keyPoints: [
         "Nicko McBrain has played with Iron Maiden since 1982 — over four decades of continuous service",
         "His iconic gallop pattern is achieved entirely on a single bass drum pedal",
@@ -4716,10 +4716,10 @@ This guide covers Nicko's core gallop technique, his Sonor SQ2 current setup, an
       ]
     },
     gear: {
-      title: "Nicko's Sonor SQ2 Setup",
+      title: "Nicko's British Drum Co. Setup",
       drumKit: {
-        brand: 'Sonor',
-        model: 'Sonor SQ2',
+        brand: 'British Drum Co.',
+        model: 'British Drum Co. kit (current, since 2019) / Sonor SQ2 (2010-2019)',
         shells: 'Maple (current) / Ludwig Vistalite (1982-1983)',
         finish: 'Custom Iron Maiden configurations',
         config: {
@@ -4728,15 +4728,15 @@ This guide covers Nicko's core gallop technique, his Sonor SQ2 current setup, an
           toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom'],
           floorToms: ['16" x 14" Floor Tom', '18" x 16" Floor Tom']
         },
-        description: "Nicko currently plays Sonor SQ2 kits — Sonor's fully custom hand-built series — with a single bass drum configuration. Sonor has been his primary brand for decades. Historically, he played Ludwig Vistalite (Piece of Mind era) and Premier Signia before moving to Sonor.",
-        affiliateNote: "Sonor SQ1 or Sonor AQ2 are strong alternatives. Note: single bass drum configuration only — no double pedal in Nicko's setup."
+        description: "Nicko has been a British Drum Co. artist since 2019, playing a single bass drum configuration built around his kit. He still uses his Sonor Nicko McBrain Signature snare within the current BDC setup. Before British Drum Co., he spent 2010-2019 on Sonor SQ2 kits, and earlier played Ludwig Vistalite (Piece of Mind era) and Premier Signia.",
+        affiliateNote: "No consumer-level British Drum Co. equivalent is confirmed yet; Sonor SQ1 or Sonor AQ2 remain the closest match to his 2010-2019 tone. Note: single bass drum configuration only — no double pedal in Nicko's setup."
       },
       snare: {
         brand: 'Sonor',
         model: 'Sonor Nicko McBrain Signature',
         size: '14" x 6.5"',
         shell: 'Steel',
-        description: "Nicko's signature Sonor snare is tuned to medium-high tension for a full crack without the thinness of extreme tuning. It provides the warm power that suits Iron Maiden's classic recording aesthetic.",
+        description: "Nicko's signature Sonor snare is tuned to medium-high tension for a full crack without the thinness of extreme tuning, and it remains part of his current British Drum Co. kit even after his 2019 brand switch. It provides the warm power that suits Iron Maiden's classic recording aesthetic.",
         alternative: "Sonor Kompressor or Pearl Free-Floating Steel for similar attack profile"
       },
       cymbals: {
@@ -4752,8 +4752,8 @@ This guide covers Nicko's core gallop technique, his Sonor SQ2 current setup, an
         description: "Nicko has used Paiste 2002 cymbals throughout his Iron Maiden career — one of the longest brand loyalties in professional drumming. The 2002 series provides bright, penetrating attack that projects over Iron Maiden's powerful guitar and bass assault."
       },
       pedals: {
-        brand: 'Sonor',
-        model: 'Sonor 600 Series Single Pedal',
+        brand: 'unconfirmed',
+        model: 'Single Pedal (not double bass)',
         description: "Nicko uses a single bass drum pedal — an intentional creative choice rather than a limitation. His single-pedal technique is a study in maximizing speed and endurance from one foot.",
         alternative: "Any quality single pedal works — DW 5000 or Pearl P930 for smooth, consistent feel"
       },
@@ -4848,19 +4848,19 @@ This guide covers Nicko's core gallop technique, his Sonor SQ2 current setup, an
         label: "Intermediate Setup",
         kit: "Sonor SQ1 Series ($1,500)",
         cymbals: "Paiste 2002 Selection ($1,000)",
-        pedals: "Sonor 600 Series Single Pedal ($150)",
+        pedals: "Any quality single pedal ($150)",
         sticks: "Vic Firth Nicko McBrain Signature ($15)",
-        notes: "Sonor SQ1 and Paiste 2002 gets you directly into Nicko's tonal territory. Single pedal only."
+        notes: "Sonor SQ1 and Paiste 2002 gets you into Nicko's classic 2010-2019 tonal territory — no consumer-level British Drum Co. equivalent is confirmed yet. Single pedal only."
       },
       pro: {
         price: "$7,000+",
         label: "Professional Setup",
         kit: "Sonor SQ2 Custom ($4,000+)",
         cymbals: "Paiste 2002 Full Selection ($2,000+)",
-        pedals: "Sonor Heavy Single Pedal ($200)",
+        pedals: "Any quality heavy single pedal ($200)",
         snare: "Sonor Nicko McBrain Signature ($400)",
         heads: "Full Remo setup ($150)",
-        notes: "The Sonor SQ2 is fully hand-built — the closest you can get to Nicko's actual configuration. Pair with a full Paiste 2002 setup for the complete Iron Maiden tone."
+        notes: "The Sonor SQ2 is fully hand-built — the closest consumer-available match to Nicko's 2010-2019 rig; his current British Drum Co. kit (since 2019) has no confirmed off-the-shelf equivalent. His Sonor Nicko McBrain Signature snare, however, remains part of his setup today. Pair with a full Paiste 2002 setup for the complete Iron Maiden tone."
       }
     },
     faq: [
@@ -4870,7 +4870,7 @@ This guide covers Nicko's core gallop technique, his Sonor SQ2 current setup, an
       },
       {
         question: "What drum kit does Nicko McBrain use currently?",
-        answer: "Nicko McBrain currently plays Sonor SQ2 kits — Sonor's fully custom, hand-built top-of-the-line series. He has been a Sonor endorser for decades. Earlier in his career he used Ludwig Vistalite (Piece of Mind era, 1983) and Premier Signia kits before settling with Sonor."
+        answer: "Nicko McBrain currently plays British Drum Co., an endorsement he took up in 2019. He still uses his Sonor Nicko McBrain Signature snare within that kit. Before British Drum Co., he played Sonor SQ2 kits from 2010-2019, and earlier in his career used Ludwig Vistalite (Piece of Mind era, 1983) and Premier Signia kits."
       },
       {
         question: "What cymbals does Nicko McBrain use?",

@@ -1877,51 +1877,51 @@ This guide explores how to develop Brann's flowing style while maintaining the g
     gear: {
       title: "Brann's Creative Arsenal",
       drumKit: {
-        brand: 'DW',
-        model: 'DW Collector\'s Series',
-        shells: 'Maple',
+        brand: 'Tama',
+        model: 'Tama Starclassic Performer B/B',
+        shells: 'Birch/Bubinga',
         finish: 'Custom finishes',
         config: {
           kick: '22" x 18" Bass Drum',
-          snare: '14" x 6.5" DW Snare',
+          snare: '14" x 6.5" Tama Snare',
           toms: ['10" x 8" Tom', '12" x 9" Tom', '13" x 10" Tom'],
           floorToms: ['16" x 16" Floor Tom']
         },
-        description: "Brann's DW kit provides the warmth and projection needed for his melodic approach. The extra rack tom gives him more melodic options.",
-        affiliateNote: "DW Performance series or Collector's series."
+        description: "Brann's Tama Starclassic kit provides the warmth and projection needed for his melodic approach. The extra rack tom gives him more melodic options.",
+        affiliateNote: "Tama Starclassic Performer B/B series."
       },
       snare: {
-        brand: 'DW',
-        model: 'DW Collector\'s Metal',
+        brand: 'Tama',
+        model: 'Tama Starclassic',
         size: '14" x 6.5"',
-        shell: 'Aluminum',
+        shell: 'Birch/Bubinga',
         description: "Brann's snare has crack and body, cutting through while maintaining warmth for quieter passages.",
-        alternative: "DW Design Series or Ludwig Acrolite"
+        alternative: "Tama Starclassic or Ludwig Acrolite"
       },
       cymbals: {
         brand: 'Meinl',
-        series: 'Meinl Byzance',
+        series: 'Meinl Mb20 & Mb8 Series',
         setup: [
-          { type: 'Hi-Hats', model: 'Meinl 14" Byzance Traditional Hi-Hats', notes: 'Complex, musical tone' },
-          { type: 'Crash', model: 'Meinl 18" Byzance Brilliant Thin Crash', notes: 'Quick, musical response' },
-          { type: 'Crash', model: 'Meinl 20" Byzance Traditional Medium Crash', notes: 'Full, complex sound' },
-          { type: 'Ride', model: 'Meinl 22" Byzance Traditional Medium Ride', notes: 'Versatile with great wash' },
-          { type: 'China', model: 'Meinl 18" Byzance Brilliant China', notes: 'Musical trash' }
+          { type: 'Hi-Hats', model: 'Meinl 14" Mb20 Hi-Hats', notes: 'Complex, musical tone' },
+          { type: 'Crash', model: 'Meinl 18" Mb8 Thin Crash', notes: 'Quick, musical response' },
+          { type: 'Crash', model: 'Meinl 20" Mb20 Medium Crash', notes: 'Full, complex sound' },
+          { type: 'Ride', model: 'Meinl 22" Mb20 Medium Ride', notes: 'Versatile with great wash' },
+          { type: 'China', model: 'Meinl 18" Mb8 China', notes: 'Musical trash' }
         ],
-        description: "Brann's Meinl cymbals have complex overtones that suit his musical approach. They respond well to his dynamic playing."
+        description: "Brann's Meinl Mb20 & Mb8 cymbals have complex overtones that suit his musical approach. They respond well to his dynamic playing."
       },
       pedals: {
-        brand: 'DW',
-        model: 'DW 9000 Single Pedal',
-        description: "Brann primarily uses a single pedal, relying on his creative patterns rather than double bass. When he does use double, it's the DW 9000 series.",
-        alternative: "DW 5000 or similar quality pedal"
+        brand: 'Tama',
+        model: 'Tama Speed Cobra',
+        description: "Brann primarily uses a single pedal, relying on his creative patterns rather than double bass. He uses the Tama Speed Cobra.",
+        alternative: "Tama Speed Cobra or similar quality pedal"
       },
       sticks: {
-        brand: 'Vic Firth',
-        model: 'Vic Firth 5A',
-        specs: 'Standard 5A',
+        brand: 'Vater',
+        model: 'Vater 5B',
+        specs: 'Standard 5B',
         description: "Brann uses standard sticks—his creativity comes from technique, not special equipment.",
-        alternative: "Any quality 5A"
+        alternative: "Any quality 5B"
       },
       heads: {
         kick: 'Remo Powerstroke P4 Coated',
@@ -2002,25 +2002,25 @@ This guide explores how to develop Brann's flowing style while maintaining the g
         label: "Starter Setup",
         kit: "PDP Concept Maple ($800)",
         cymbals: "Meinl HCS or Classics Custom ($250)",
-        pedals: "DW 3000 Single ($100)",
-        sticks: "Vic Firth 5A ($10)",
+        pedals: "Tama Speed Cobra ($100)",
+        sticks: "Vater 5B ($10)",
         notes: "Focus on melodic tuning and flow development."
       },
       mid: {
         price: "$3,500",
         label: "Intermediate Setup",
-        kit: "DW Performance Series ($2,000)",
-        cymbals: "Meinl Byzance Traditional Set ($1,000)",
-        pedals: "DW 5000 Single ($200)",
-        sticks: "Vic Firth 5A ($10)",
-        notes: "Quality DW shells with musical Meinl cymbals."
+        kit: "Tama Starclassic Series ($2,000)",
+        cymbals: "Meinl Mb20 & Mb8 Set ($1,000)",
+        pedals: "Tama Speed Cobra ($200)",
+        sticks: "Vater 5B ($10)",
+        notes: "Quality Tama shells with musical Meinl cymbals."
       },
       pro: {
         price: "$7,000+",
         label: "Professional Setup",
-        kit: "DW Collector's Series ($3,500+)",
-        cymbals: "Meinl Byzance Custom Selection ($2,000+)",
-        pedals: "DW 9000 Single ($300)",
+        kit: "Tama Starclassic Performer B/B ($3,500+)",
+        cymbals: "Meinl Mb20 & Mb8 Custom Selection ($2,000+)",
+        pedals: "Tama Speed Cobra ($300)",
         heads: "Full Remo setup ($150)",
         notes: "Brann's professional sound."
       }

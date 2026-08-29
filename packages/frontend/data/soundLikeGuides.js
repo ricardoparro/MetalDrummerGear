@@ -2890,7 +2890,7 @@ This guide breaks down Kollias's technique, the endurance training behind his st
       title: "George's Pearl Signature Arsenal",
       drumKit: {
         brand: 'Pearl',
-        model: 'Pearl Reference Pure',
+        model: 'Pearl Masterworks Series',
         shells: 'Maple',
         finish: 'Custom Nile configurations',
         config: {
@@ -2899,7 +2899,7 @@ This guide breaks down Kollias's technique, the endurance training behind his st
           toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom'],
           floorToms: ['16" x 16" Floor Tom']
         },
-        description: "George's Pearl Reference Pure kit provides exceptional attack and resonance projection. The maple shells cut through Nile's dense arrangements while sustaining note definition at extreme tempos.",
+        description: "George's Pearl Masterworks Series kit provides exceptional attack and resonance projection. The maple shells cut through Nile's dense arrangements while sustaining note definition at extreme tempos.",
         affiliateNote: "Pearl Masters Maple or Export series offer Pearl quality at various price points."
       },
       snare: {
@@ -2911,20 +2911,20 @@ This guide breaks down Kollias's technique, the endurance training behind his st
         alternative: "Pearl Free-Floating Steel or Ludwig Supraphonic for similar articulation"
       },
       cymbals: {
-        brand: 'Meinl',
-        series: 'Meinl Classics Custom Dark / Byzance',
+        brand: 'Zildjian',
+        series: 'Zildjian A Custom',
         setup: [
-          { type: 'Hi-Hats', model: 'Meinl 14" Classics Custom Dark Hi-Hats', notes: 'Cutting response for rapid blast hi-hat work' },
-          { type: 'Crash', model: 'Meinl 17" Classics Custom Dark Crash', notes: 'Fast attack and decay' },
-          { type: 'Crash', model: 'Meinl 19" Classics Custom Dark Crash', notes: 'Full-bodied power crash' },
-          { type: 'Ride', model: 'Meinl 21" Byzance Extra Dry Ride', notes: 'Dry stick definition for precise ride work' },
-          { type: 'China', model: 'Meinl 18" Classics Custom China', notes: 'Aggressive accent cymbal' }
+          { type: 'Hi-Hats', model: 'Zildjian 14" A Custom Mastersound Hi-Hats', notes: 'Cutting response for rapid blast hi-hat work' },
+          { type: 'Crash', model: 'Zildjian 17" A Custom Crash', notes: 'Fast attack and decay' },
+          { type: 'Crash', model: 'Zildjian 19" A Custom Crash', notes: 'Full-bodied power crash' },
+          { type: 'Ride', model: 'Zildjian 21" A Custom Ride', notes: 'Bright stick definition for precise ride work' },
+          { type: 'China', model: 'Zildjian 18" A Custom China', notes: 'Aggressive accent cymbal' }
         ],
-        description: "George's Meinl cymbals prioritize clarity and attack speed — essential when blast beats require cymbal hits to speak distinctly at 200+ BPM."
+        description: "George's Zildjian A Custom cymbals prioritize clarity and attack speed — essential when blast beats require cymbal hits to speak distinctly at 200+ BPM."
       },
       pedals: {
         brand: 'Pearl',
-        model: 'Pearl Demon Drive Double Pedal',
+        model: 'Pearl Demon XR Pedals',
         description: "Kollias uses Pearl's flagship direct-drive pedal. The direct connection between the footboard and cam eliminates the slack inherent in chain or belt drives, giving him the precision feedback needed at extreme speeds.",
         alternative: "Axis Longboard or DW 9000 series for similar direct-drive feel"
       },
@@ -3013,7 +3013,7 @@ This guide breaks down Kollias's technique, the endurance training behind his st
         price: "$1,100",
         label: "Starter Setup",
         kit: "Pearl Export Series ($700)",
-        cymbals: "Meinl HCS or Classics Custom Set ($250)",
+        cymbals: "Zildjian ZBT Set ($250)",
         pedals: "Pearl P930 Double Pedal ($150)",
         sticks: "Vic Firth 5B ($10)",
         notes: "Technique is everything at this level. Focus on Kollias's ankle isolation method before worrying about gear upgrades."
@@ -3022,7 +3022,7 @@ This guide breaks down Kollias's technique, the endurance training behind his st
         price: "$3,200",
         label: "Intermediate Setup",
         kit: "Pearl Masters Maple ($1,800)",
-        cymbals: "Meinl Classics Custom Dark Set ($900)",
+        cymbals: "Zildjian A Custom Set ($900)",
         pedals: "Pearl Eliminator Redline ($350)",
         sticks: "Vic Firth George Kollias ($15)",
         notes: "Getting close to Kollias's tone with Masters Maple shells."
@@ -3030,9 +3030,9 @@ This guide breaks down Kollias's technique, the endurance training behind his st
       pro: {
         price: "$6,000+",
         label: "Professional Setup",
-        kit: "Pearl Reference Pure ($3,000+)",
-        cymbals: "Meinl Byzance Custom ($1,800+)",
-        pedals: "Pearl Demon Drive ($600)",
+        kit: "Pearl Masterworks Series ($3,000+)",
+        cymbals: "Zildjian A Custom Selection ($1,800+)",
+        pedals: "Pearl Demon XR Pedals ($600)",
         snare: "Pearl George Kollias Signature ($350)",
         heads: "Full Remo setup ($180)",
         notes: "Recording and touring-ready Kollias sound."
@@ -3049,7 +3049,7 @@ This guide breaks down Kollias's technique, the endurance training behind his st
       },
       {
         question: "What pedal does George Kollias use?",
-        answer: "George Kollias uses the Pearl Demon Drive double pedal. The direct-drive mechanism gives him the precise feedback and minimal lag he needs at extreme tempos."
+        answer: "George Kollias uses Pearl's Demon XR double pedal. The direct-drive mechanism gives him the precise feedback and minimal lag he needs at extreme tempos."
       },
       {
         question: "Is George Kollias self-taught?",
@@ -3064,7 +3064,7 @@ This guide breaks down Kollias's technique, the endurance training behind his st
       drummerProfile: '/drummer/george-kollias',
       similarDrummers: ['Flo Mounier', 'Pete Sandoval', 'Derek Roddy'],
       relatedGuides: ['how-to-sound-like-flo-mounier', 'how-to-sound-like-dave-lombardo', 'how-to-sound-like-alex-rudinger', 'how-to-sound-like-john-longstreth'],
-      gearPages: ['/gear/pedals', '/brands/pearl', '/brands/meinl']
+      gearPages: ['/gear/pedals', '/brands/pearl', '/brands/zildjian']
     },
     licksUrl: '/drummers/george-kollias/licks',
     relatedArticles: [

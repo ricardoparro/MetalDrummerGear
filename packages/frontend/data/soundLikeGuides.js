@@ -1143,16 +1143,16 @@ Mario's approach to dynamics—from whisper-quiet tribal sections to crushing de
         alternative: "Tama SLP Steel or Ludwig Supraphonic"
       },
       cymbals: {
-        brand: 'Meinl',
-        series: 'Meinl Byzance Vintage / Extra Dry',
+        brand: 'Zildjian',
+        series: 'K Custom / A Custom / Z Custom',
         setup: [
-          { type: 'Hi-Hats', model: 'Meinl 15" Byzance Extra Dry Hi-Hats', notes: 'Dark, trashy response' },
-          { type: 'Crash', model: 'Meinl 18" Byzance Vintage Crash', notes: 'Complex overtones' },
-          { type: 'Crash', model: 'Meinl 20" Byzance Vintage Crash', notes: 'Full-bodied with character' },
-          { type: 'Ride', model: 'Meinl 22" Byzance Big Apple Ride', notes: 'Jazzy complexity, dark wash' },
-          { type: 'China', model: 'Meinl 18" Byzance China', notes: 'Controlled trash' }
+          { type: 'Hi-Hats', model: 'Zildjian 14" A Custom Hi-Hats', notes: 'Bright, cutting response' },
+          { type: 'Crash', model: 'Zildjian 18" K Custom Dark Crash', notes: 'Warm, controlled crash' },
+          { type: 'Crash', model: 'Zildjian 19" K Custom Dark Crash', notes: 'Fuller crash for heavier hits' },
+          { type: 'Ride', model: 'Zildjian 21" Z Custom Mega Bell Ride', notes: 'Cutting bell for accents' },
+          { type: 'China', model: 'Zildjian 18" A Custom China', notes: 'Controlled trash' }
         ],
-        description: "Mario's Meinl cymbals provide the dark, complex tones that suit Gojira's atmospheric heaviness. The Extra Dry series gives him trashy responses without being harsh."
+        description: "Mario's Zildjian cymbals provide the bright, cutting tones that suit Gojira's atmospheric heaviness."
       },
       pedals: {
         brand: 'Tama',

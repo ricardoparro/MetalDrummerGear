@@ -6749,3 +6749,56 @@ Snapshots (#3810/#3819/#2211) unchanged since last read — no fresh weekly refr
 1. Watch #6432-6439 ship via Roadie/PR Merger.
 2. Vein shows no sign of exhaustion across 6 sweeps now (11→8→7→8→15→7→8 raw/confirmed candidates) — next run should do a 7th pass, likely widening scope to `albumArticles.js`/`genreGearGuides.js` cross-checks if drummerComparisons.js/soundLikeGuides.js starts thinning out.
 3. Drum-chair rotation: week 36 group 0 (amon-amarth through cynic) due Monday 2026-08-31.
+
+---
+
+## 2026-08-29 (10th run) — 7th-pass sweep vs new drummers: 8 verified gear-fabrication findings filed (#6440-6445, #6447-6448)
+
+### Bank check
+Open `seo-proposal` at run start: 11 — 8 (#6432-6439) already `ai-fix`-labeled (promoted at the 20:26 evening review) + 3 standing umbrellas (#3810/#3819/#2211). True untriaged bank: 0. Cleared to file up to 8 net-new.
+
+### Audit summary
+- Robots.txt (live curl, GPTBot UA): AI crawler allows present. ✅
+- `/public/llms/**/*.md`: 2,011 files live, unchanged. ✅
+- GSC content-gap: same 3 standing rows (`metalforge`, `danny carey drum kit`, `joey jordison drum kit`) — all already investigated/held per prior rulings, no material change. No new fix.
+- L1/L2/L3 (#3810/#3819/#2211): snapshots unchanged since 08-24, already actioned. No fresh weekly refresh yet (due ~08-31).
+- Drum-chair watch: today is Saturday, not Monday — skipped. Next due 2026-08-31 (week 36, group 0, amon-amarth through cynic).
+
+### This run's sweep
+Dispatched a research agent to find drummerComparisons.js/soundLikeGuides.js-vs-endorsementNews.js/extendedBios.js mismatches for drummers not covered by 7 prior sweep rounds (~78 verified fixes so far). It returned 15 raw candidates. Personally re-verified every candidate via direct grep of both the fabricating file and the source-of-truth file before filing (not trusting agent output alone) — this caught 2 agent errors:
+- **Daniel Erlandsson**: agent claimed 3 different wrong cymbal brands across 4 lines; direct verification showed 2 of those 4 lines (1368, 4257) already match the established Sabian ruling from #6353 — only 2 lines (3315, 3337) are actually still wrong. Scoped the filed issue to just those 2.
+- **Daniel Erlandsson** (same candidate): agent flagged sticks/pedal as wrong at line 4257; verification showed both already match `endorsementNews.js` (ProMark 5B, Pearl Eliminator) — not filed.
+
+Also skipped 3 candidates with underlying **source-file conflicts** (endorsementNews.js vs extendedBios.js disagree with each other, not just target-file vs source): Mike Mangini, Flo Mounier, Nick Menza. These need a founder/CEO call on which source file wins before a target-file fix makes sense — flagging below rather than filing a fix that might pick the wrong side. Also skipped 3 lower-confidence leads (Jimmy DeGrasso, Nick Augusto, Art Cruz) for a future pass.
+
+**Filed (8):**
+1. **Isaac Lamb** — `drummerComparisons.js` (5 lines) + `soundLikeGuides.js` (whole guide) fabricate specific gear models (SJC/DW 9000/Meinl Classics Custom Dark with exact sizes) despite his bio explicitly saying gear is "not publicly documented" — same violation class as #5911 but in 2 files that prior cleanup didn't touch. Filed **#6440**.
+2. **Jay Weinberg** — `drummerComparisons.js`, 6 more entries beyond the one fixed in #6351: 3 wholesale-wrong (Tama/Meinl Byzance/Tama Iron Cobra) + 3 partial (correct SJC/Zildjian/DW but wrong "Tama S.L.P." snare model). Filed **#6441**.
+3. **Matt Garstka** — `soundLikeGuides.js` whole-guide fabrication (drums/snare Tama, pedal model number "310") — different file than #6356 which only fixed `drummerComparisons.js`. Verified DW Collector's Series / Speed Cobra 910. Filed **#6442**.
+4. **Hannes Grossmann** — `drummerComparisons.js` `hannes-grossmann-vs-tim-yeung` entry fabricates Tama kit/snare/pedal, contradicted by the correct DW Collectors entry for the same drummer in the same file (`sean-reinert-vs-hannes-grossmann`). Filed **#6443**.
+5. **Paul Mazurkiewicz** — `soundLikeGuides.js` whole-guide fabrication (drums/snare/pedal/heads Tama/Remo vs verified Pearl Masters Maple Complete/Demon Drive/Evans) — different file than #5803 (albumArticles.js cymbals-only). Cymbals/sticks in this guide already correct. Filed **#6444**.
+6. **Charlie Benante** — `soundLikeGuides.js` sticks fabricated as "Ahead" (with an invented aluminum-core construction detail) vs verified Vic Firth Charlie Benante Signature — different file/field than #6326. Filed **#6445**.
+7. **Daniel Erlandsson** — `drummerComparisons.js` lines 3315/3337 still say Zildjian cymbals, not yet updated to the Sabian ruling #6353 already established for a sibling entry. Filed **#6447**.
+8. **Dirk Verbeuren** — `drummerComparisons.js` lines 592/3068 fabricate a nonexistent "Tama Iron Cobra 910" (cross-contaminating two real product lines) vs verified "Tama Speed Cobra 910" (correct in 8+ other instances in the same file). Filed **#6448**.
+
+All 8 personally grep-verified with exact line citations; all 8 checked via `gh issue list --state all --search "<name>"` for duplicates before filing — no exact-file/field overlap with any prior open or closed issue. Single/dual-file, text-only, zero new pages/URLs — freeze-compliant.
+
+### Proposals filed this run (8)
+1. #6440 — Isaac Lamb (drummerComparisons.js + soundLikeGuides.js, fabrication over "not publicly documented" hedge)
+2. #6441 — Jay Weinberg (drummerComparisons.js, 6 entries, 2 fabrication variants)
+3. #6442 — Matt Garstka (soundLikeGuides.js whole guide, drums/snare/pedal)
+4. #6443 — Hannes Grossmann (drummerComparisons.js, 1 entry, Tama vs sibling-entry DW)
+5. #6444 — Paul Mazurkiewicz (soundLikeGuides.js whole guide, drums/snare/pedal/heads)
+6. #6445 — Charlie Benante (soundLikeGuides.js sticks, Ahead fabrication)
+7. #6447 — Daniel Erlandsson (drummerComparisons.js, 2 remaining Zildjian lines)
+8. #6448 — Dirk Verbeuren (drummerComparisons.js, 2 lines, nonexistent pedal product name)
+
+### Open proposals waiting on CEO triage
+- #6440-6445, #6447-6448 (filed this run, 0d old)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers only.
+
+### Next run
+1. Watch #6440-6445/#6447-6448 ship via Roadie/PR Merger.
+2. Vein remains productive (7 sweeps: 11→8→7→8→15→7→8→8 raw/confirmed) but is thinning — this round needed to skip 3 source-file-conflict candidates and 3 low-confidence leads. Next sweep should widen scope to `albumArticles.js`/`genreGearGuides.js` if drummerComparisons.js/soundLikeGuides.js yields fewer clean candidates.
+3. **Flag for CEO/founder**: 3 candidates surfaced a genuine conflict BETWEEN `endorsementNews.js` and `extendedBios.js` themselves (not just target-file fabrication) — Mike Mangini (Pearl Masters MCX vs Masterworks/Eliminator vs Reference/Demon Drive, 3-way), Flo Mounier (Tama vs Pearl kit brand, 2-way), Nick Menza (Tama Artstar II vs Tama Swingstar). These need a source-of-truth ruling before target-file fixes are safe — same class as the Daniel Erlandsson cymbal conflict #6353 already resolved (sided with endorsementNews.js). Worth a dedicated pass once the backlog drains.
+4. Drum-chair rotation: week 36 group 0 (amon-amarth through cynic) — due Monday 2026-08-31.

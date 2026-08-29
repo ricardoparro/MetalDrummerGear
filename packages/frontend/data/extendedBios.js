@@ -5939,12 +5939,12 @@ A graduate of Berklee College of Music, Halpern brings academic rigor to his dru
       },
       gearHighlights: {
         title: 'Gear Highlights',
-        content: `Matt Halpern is a Meinl Cymbals and Pearl Drums endorser. He co-developed the Meinl Byzance Foundry Reserve series of cymbals and uses a hybrid acoustic/electronic setup.
+        content: `Matt Halpern is a Meinl Cymbals and Pearl Drums endorser. He co-developed the Meinl Artist Concept Model "Double Down Stack" signature cymbal stack and uses a hybrid acoustic/electronic setup.
 
 **Current Setup:**
 - **Drums**: Pearl Reference Series
 - **Snare**: Pearl Reference 14"x6.5" Brass
-- **Cymbals**: Meinl Byzance series (15" Byzance Extra Dry Hi-Hats, Foundry Reserve crashes, 21" Transition Ride)
+- **Cymbals**: Meinl Byzance series (14" Byzance Traditional Medium Hi-Hats, 18" & 20" Byzance Traditional Extra Thin Hammered Crashes, 22" Byzance Sand Crash-Ride, plus his signature Meinl Artist Concept Double Down Stack)
 - **Hardware**: Pearl Demon Drive Double Pedal, Pearl D-2000 Throne
 - **Electronics**: Roland SPD-SX, various triggers
 - **Sticks**: ProMark TXMHW signature model (2B weight, plays like 5B)
@@ -5952,7 +5952,7 @@ A graduate of Berklee College of Music, Halpern brings academic rigor to his dru
 
 **Unique Setup Elements:**
 - Hybrid setup integrating electronic samples
-- Meinl Foundry Reserve cymbals (hand-selected, unique characteristics)
+- Meinl Artist Concept Model "Double Down Stack" signature cymbal stack (reversible 17" crash / 18" china)
 - Extensive use of triggering for modern production`
       },
       trivia: {
@@ -5961,7 +5961,7 @@ A graduate of Berklee College of Music, Halpern brings academic rigor to his dru
           'Graduated from Berklee College of Music with a degree in Professional Music',
           'One of the most prominent educators in modern metal drumming',
           'His Drumeo lessons have millions of views',
-          'Co-designed the Meinl Foundry Reserve cymbal line',
+          'Co-developed the Meinl Artist Concept Model "Double Down Stack" signature cymbal',
           'Known for his warm, approachable teaching style',
           'Periphery\'s self-titled debut is considered a djent movement cornerstone',
           'Uses a hybrid acoustic/electronic setup for studio and live work',
@@ -5974,7 +5974,7 @@ A graduate of Berklee College of Music, Halpern brings academic rigor to his dru
         items: [
           { q: 'What drum kit does Matt Halpern use?', a: 'Matt Halpern plays a Pearl Reference Series drum kit — a versatile, open-sounding setup chosen for its dynamic range across Periphery\'s complex polyrhythmic arrangements. His Pearl Reference 14"x6.5" Brass snare delivers cutting, focused crack that sits precisely within Periphery\'s dense, downtuned guitar layers on albums like Periphery II, Juggernaut, and Hail Stan.' },
           { q: 'What drum set does Matt Halpern use?', a: 'Matt Halpern\'s drum set pairs Pearl Reference Series shells and his Brass snare with a Pearl Demon Drive double pedal and Pearl D-2000 throne, driving the precise double bass lines beneath djent\'s syncopated rhythms.' },
-          { q: 'What cymbals does Matt Halpern play?', a: 'Matt Halpern plays Meinl Byzance Series cymbals: 15" Dark Hi-Hats, 18" and 20" Extra Dry Medium Crashes, a 22" Transition Ride, and an 18" Extra Dry China.' },
+          { q: 'What cymbals does Matt Halpern play?', a: 'Matt Halpern plays Meinl Byzance cymbals: 14" Byzance Traditional Medium Hi-Hats, 18" and 20" Byzance Traditional Extra Thin Hammered Crashes, a 22" Byzance Sand Crash-Ride, and his signature Meinl Artist Concept Model "Double Down Stack."' },
           { q: 'What snare does Matt Halpern use?', a: 'Matt Halpern\'s snare is a Pearl Reference 14"x6.5" Brass, giving him cutting, focused crack that sits within Periphery\'s dense, downtuned guitar mix.' },
           { q: 'What sticks does Matt Halpern use?', a: 'Matt Halpern uses Promark Matt Halpern Signature drumsticks.' },
           { q: 'What bass drum pedal does Matt Halpern use?', a: 'Matt Halpern uses a Pearl Demon Drive double pedal.' },

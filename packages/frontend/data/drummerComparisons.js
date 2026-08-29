@@ -205,7 +205,7 @@ export const drummerComparisons = {
     comparison: {
       style: 'Igor pioneered groove-based thrash with tribal influences. Eloy brings modern technical precision to Sepultura\'s legacy.',
       technique: 'Igor invented the tribal-metal fusion with signature grooves. Eloy combines death metal speed with groove mastery.',
-      gear: 'Igor played various brands throughout his career. Eloy endorses Tama drums with Meinl cymbals.',
+      gear: 'Igor played various brands throughout his career. Eloy endorses Tama drums with Paiste cymbals.',
       influence: 'Igor defined Brazilian metal and groove metal. Eloy carries the torch while adding modern technical elements.',
     },
     verdict: 'Igor Cavalera created Sepultura\'s iconic sound. Eloy Casagrande honors it while pushing technical boundaries. Both represent Brazilian metal excellence.',

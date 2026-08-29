@@ -12599,7 +12599,7 @@ This guide breaks down the technique, gear, and practice approach behind Lopez's
     genre: 'Technical Death Metal',
     priority: 48,
     title: "How to Sound Like Derek Roddy: Complete Gear & Technique Guide",
-    description: "Master Derek Roddy's gravity blast technique. Learn the Hate Eternal drummer's rebound-driven wrist mechanics, heel-toe double bass speed, Tama Starclassic kit, and Paiste cymbal setup behind death metal's most technically studied blast beats.",
+    description: "Master Derek Roddy's gravity blast technique. Learn the Hate Eternal drummer's rebound-driven wrist mechanics, heel-toe double bass speed, Tama Starclassic Bubinga kit, and Meinl Byzance cymbal setup behind death metal's most technically studied blast beats.",
     seoKeywords: ['derek roddy blast beat technique', 'how to sound like derek roddy', 'derek roddy drumming style', 'hate eternal drummer', 'derek roddy technique', 'derek roddy drum gear', 'gravity blast tutorial'],
     ogImage: '/images/guides/derek-roddy-guide.webp',
     datePublished: '2026-07-01',
@@ -12613,7 +12613,7 @@ This guide breaks down the technique, gear, and practice approach behind Lopez's
 
 Roddy's approach treats extreme speed as a mechanical and educational problem rather than a talent ceiling. His instructional DVD "The Evolution of Blast Beats" (2007) broke the technique down into learnable components, democratizing a skill that had seemed reserved for the genetically gifted. The same relaxed, economical philosophy drives his double bass work: heel-up ankle technique for sustained endurance, and heel-toe technique when a passage demands an extra burst of speed.
 
-This guide breaks down the technique, gear, and practice approach behind Roddy's sound — from his Tama Starclassic kit and Paiste cymbals to the gravity blast mechanics that still define modern extreme metal drumming education.`,
+This guide breaks down the technique, gear, and practice approach behind Roddy's sound — from his Tama Starclassic Bubinga kit and Meinl Byzance cymbals to the gravity blast mechanics that still define modern extreme metal drumming education.`,
       keyPoints: [
         "Hate Eternal drummer (2001-2008) — \"King of All Kings\" (2002) and \"I, Monarch\" (2005) are genre benchmarks",
         "Inventor and foremost practitioner of the gravity blast — a one-handed, rebound-driven blast beat technique",
@@ -12667,37 +12667,37 @@ This guide breaks down the technique, gear, and practice approach behind Roddy's
       title: "Roddy's Gear Setup",
       drumKit: {
         brand: 'Tama',
-        model: 'Tama Starclassic Maple',
-        shells: '100% Maple',
+        model: 'Tama Starclassic Bubinga',
+        shells: '100% Bubinga',
         finish: 'Various finishes across career periods',
         config: {
           kick: '22" x 18" Bass Drums (x2, double bass configuration)',
-          snare: '14" x 6.5" Tama Starclassic Maple Snare',
+          snare: '14" x 6.5" Tama Starclassic Bubinga Snare',
           toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom'],
           floorToms: ['16" x 14" Floor Tom', '18" x 16" Floor Tom']
         },
-        description: "The Starclassic Maple's 100% maple shell construction delivers fast, immediate resonance and controlled decay — critical at gravity blast tempos, where a slow-decaying shell would blur individual strokes into an undifferentiated tone mass.",
-        affiliateNote: "Pearl Export or Tama Imperialstar offer similar attack-focused maple shells at a lower price point."
+        description: "The Starclassic Bubinga's dense hardwood shell construction delivers fast, immediate resonance and controlled decay — critical at gravity blast tempos, where a slow-decaying shell would blur individual strokes into an undifferentiated tone mass.",
+        affiliateNote: "Pearl Export or Tama Imperialstar offer similar attack-focused shells at a lower price point."
       },
       snare: {
         brand: 'Tama',
-        model: 'Tama Starclassic Maple Snare',
+        model: 'Tama Starclassic Bubinga Snare',
         size: '14" x 6.5"',
-        shell: 'Maple',
-        description: "A maple snare tuned bright ensures immediate attack and a focused crack that separates cleanly from Hate Eternal's dense, down-tuned guitar wall — essential when individual strokes arrive at millisecond intervals during gravity blast passages.",
-        alternative: "Any maple-shell snare tuned medium-bright with minimal muffling will approximate the cut."
+        shell: 'Bubinga',
+        description: "A bubinga snare tuned bright ensures immediate attack and a focused crack that separates cleanly from Hate Eternal's dense, down-tuned guitar wall — essential when individual strokes arrive at millisecond intervals during gravity blast passages.",
+        alternative: "Any dense-hardwood-shell snare tuned medium-bright with minimal muffling will approximate the cut."
       },
       cymbals: {
-        brand: 'Paiste',
-        series: 'Paiste 2002 / Rude Series',
+        brand: 'Meinl',
+        series: 'Meinl Byzance / Mb20 Heavy Series',
         setup: [
-          { type: 'Hi-Hats', model: 'Paiste 14" Hi-Hats', notes: 'Fast attack and controlled decay for gravity blast articulation at 250+ BPM' },
-          { type: 'Crash', model: 'Paiste 16" Crash', notes: 'Quick, explosive accent for riff changes and fill endings' },
-          { type: 'Crash', model: 'Paiste 18" Crash', notes: 'Fuller crash for section-ending explosions' },
-          { type: 'Ride', model: 'Paiste 20" Ride', notes: 'Clear bell articulation used selectively between blast sections' },
-          { type: 'China', model: 'Paiste 18" China', notes: 'Aggressive, trashy accent for the most intense passages' }
+          { type: 'Hi-Hats', model: 'Meinl Byzance 14" Hi-Hats', notes: 'Fast attack and controlled decay for gravity blast articulation at 250+ BPM' },
+          { type: 'Crash', model: 'Meinl Mb20 Heavy 16" Crash', notes: 'Quick, explosive accent for riff changes and fill endings' },
+          { type: 'Crash', model: 'Meinl Mb20 Heavy 18" Crash', notes: 'Fuller crash for section-ending explosions' },
+          { type: 'Ride', model: 'Meinl Byzance 20" Ride', notes: 'Clear bell articulation used selectively between blast sections' },
+          { type: 'China', model: 'Meinl Byzance 18" China', notes: 'Aggressive, trashy accent for the most intense passages' }
         ],
-        description: "Paiste's fast-attack, controlled-decay cymbal construction preserves stroke articulation at gravity blast tempos — the hi-hats in particular must define the rhythmic pulse cleanly while the kick and snare execute the blast pattern underneath."
+        description: "Meinl's Byzance and Mb20 Heavy cymbal construction preserves stroke articulation at gravity blast tempos — the hi-hats in particular must define the rhythmic pulse cleanly while the kick and snare execute the blast pattern underneath."
       },
       pedals: {
         brand: 'Tama',
@@ -12778,16 +12778,16 @@ This guide breaks down the technique, gear, and practice approach behind Roddy's
         price: "$1,100",
         label: "Starter Setup",
         kit: "Pearl Export ($750)",
-        cymbals: "Paiste 101 hi-hats + crash ($200)",
+        cymbals: "Meinl HCS hi-hats + crash ($200)",
         pedals: "DW 3000 Double Pedal ($150)",
         sticks: "Vic Firth 5B ($10)",
-        notes: "Pearl's entry-level maple shells share the attack-focused character of the Starclassic Maple kit."
+        notes: "Pearl's entry-level maple shells share the attack-focused character of the Starclassic Bubinga kit."
       },
       mid: {
         price: "$3,400",
         label: "Intermediate Setup",
         kit: "Tama Imperialstar ($1,900)",
-        cymbals: "Paiste 2002 partial setup ($1,100)",
+        cymbals: "Meinl Mb20 Heavy partial setup ($1,100)",
         pedals: "Tama Speed Cobra Double Pedal ($350)",
         sticks: "Vic Firth 5B ($10)",
         notes: "The Speed Cobra pedal is the key upgrade — the mechanical consistency Roddy's rebound-driven double bass technique depends on."
@@ -12795,8 +12795,8 @@ This guide breaks down the technique, gear, and practice approach behind Roddy's
       pro: {
         price: "$6,200+",
         label: "Professional Setup",
-        kit: "Tama Starclassic Maple ($3,500+)",
-        cymbals: "Full Paiste 2002/Rude selection ($2,000+)",
+        kit: "Tama Starclassic Bubinga ($3,500+)",
+        cymbals: "Full Meinl Byzance/Mb20 Heavy selection ($2,000+)",
         pedals: "Tama Speed Cobra Double Bass Pedal ($700)",
         heads: "Full Remo setup ($400)",
         notes: "Touring-ready setup matching Roddy's Hate Eternal-era rig for sustained 220-280 BPM performance."
@@ -12809,7 +12809,7 @@ This guide breaks down the technique, gear, and practice approach behind Roddy's
       },
       {
         question: "What gear should I use to sound like Derek Roddy?",
-        answer: "Roddy plays a Tama Starclassic Maple kit with a double 22\" x 18\" bass drum configuration, a 14\" x 6.5\" Tama Starclassic Maple snare, Paiste 2002/Rude series cymbals, a Tama Speed Cobra double bass pedal, and Vater sticks with a custom weighted specification. A budget setup can approximate this with any maple-shell kit, a bright-tuned snare, and fast-decaying crash and hi-hat cymbals."
+        answer: "Roddy plays a Tama Starclassic Bubinga kit with a double 22\" x 18\" bass drum configuration, a 14\" x 6.5\" Tama Starclassic Bubinga snare, Meinl Byzance/Mb20 Heavy series cymbals, a Tama Speed Cobra double bass pedal, and Vater sticks with a custom weighted specification. A budget setup can approximate this with any dense-hardwood-shell kit, a bright-tuned snare, and fast-decaying crash and hi-hat cymbals."
       },
       {
         question: "What tempo should I practice at to sound like Derek Roddy?",

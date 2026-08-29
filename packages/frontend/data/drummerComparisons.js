@@ -52,7 +52,7 @@ export const drummerComparisons = {
     comparison: {
       style: 'George combines Greek precision with Egyptian-themed technicality. Pete brought Florida death metal intensity with relentless aggression.',
       technique: 'George uses heel-toe technique for sustained blast beats at extreme tempos. Pete pioneered gravity blasts with raw power.',
-      gear: 'George plays Pearl drums with Pearl Demon Drive pedals for speed. Pete used Tama drums with Iron Cobra pedals.',
+      gear: 'George plays Pearl drums with Pearl Demon XR pedals for speed. Pete used Tama drums with Iron Cobra pedals.',
       influence: 'George raised the bar for technical death metal drumming. Pete helped define the Florida death metal sound and blast beat vocabulary.',
     },
     verdict: 'Pete Sandoval laid the foundation for extreme death metal drumming. George Kollias elevated it to new technical heights. Both are essential figures in death metal history.',
@@ -314,7 +314,7 @@ export const drummerComparisons = {
     comparison: {
       style: 'Gene brings scientific precision to progressive death and thrash metal with inhuman timing. George delivers Egyptian-themed technical brutality with sustained extreme tempos.',
       technique: 'Gene pioneered the gravity blast and is known for impossibly tight double bass and timing. George uses heel-toe technique for sustained blast beats at 280+ BPM.',
-      gear: 'Gene endorses Pearl drums for power and projection with signature sticks. George plays Pearl drums with Pearl Demon Drive pedals for ultimate speed.',
+      gear: 'Gene endorses Pearl drums for power and projection with signature sticks. George plays Pearl drums with Pearl Demon XR pedals for ultimate speed.',
       influence: 'Gene influenced three decades of extreme metal through Death, Dark Angel, Testament, and more. George raised the bar for technical death metal and extreme speed drumming.',
     },
     verdict: 'Gene Hoglan earned "The Atomic Clock" nickname through legendary precision across 40+ years. George Kollias represents the modern evolution of extreme drumming speed and technique. Together they span death metal\'s entire history.',

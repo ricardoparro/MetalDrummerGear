@@ -1625,9 +1625,9 @@ At 6'3" and over 250 pounds, Gene's physical presence translates to a massive dr
     gear: {
       title: "Gene's Professional Arsenal",
       drumKit: {
-        brand: 'Tama',
-        model: 'Tama Starclassic',
-        shells: 'Maple',
+        brand: 'Pearl',
+        model: 'Pearl Reference Pure',
+        shells: 'Maple/Birch Hybrid',
         finish: 'Various custom',
         config: {
           kick: '24" x 16" Bass Drums (x2)',
@@ -1636,27 +1636,27 @@ At 6'3" and over 250 pounds, Gene's physical presence translates to a massive dr
           floorToms: ['16" x 14" Floor Tom', '18" x 16" Floor Tom']
         },
         description: "Gene uses larger drums that match his physical presence. The 24\" kicks provide the low-end power his playing demands.",
-        affiliateNote: "Tama Starclassic or Superstar with larger sizes."
+        affiliateNote: "Pearl Reference Pure with larger sizes."
       },
       snare: {
-        brand: 'Tama',
-        model: 'Tama Warlord Spartan',
+        brand: 'Pearl',
+        model: 'Pearl Reference Pure Snare',
         size: '14" x 6.5"',
-        shell: 'Bell Brass',
-        description: "Gene's snare has massive projection and crack. The bell brass shell cuts through any mix.",
-        alternative: "Tama SLP Brass or Ludwig Black Beauty"
+        shell: 'Maple/Birch Hybrid',
+        description: "Gene's snare has massive projection and crack, matching the rest of his Reference Pure kit.",
+        alternative: "Pearl Reference or Ludwig Black Beauty"
       },
       cymbals: {
-        brand: 'Zildjian',
-        series: 'Zildjian A Custom',
+        brand: 'Sabian',
+        series: 'Sabian AAX Series',
         setup: [
-          { type: 'Hi-Hats', model: 'Zildjian 14" A Custom Hi-Hats', notes: 'Bright and cutting' },
-          { type: 'Crash', model: 'Zildjian 18" A Custom Crash', notes: 'Fast, explosive' },
-          { type: 'Crash', model: 'Zildjian 19" A Custom Crash', notes: 'Powerful projection' },
-          { type: 'Ride', model: 'Zildjian 21" A Custom Ride', notes: 'Clear bell, defined stick' },
-          { type: 'China', model: 'Zildjian 18" Oriental China', notes: 'Aggressive accents' }
+          { type: 'Hi-Hats', model: 'Sabian 14" AAX Hi-Hats', notes: 'Bright and cutting' },
+          { type: 'Crash', model: 'Sabian 18" AAX Crash', notes: 'Fast, explosive' },
+          { type: 'Crash', model: 'Sabian 19" AAX Crash', notes: 'Powerful projection' },
+          { type: 'Ride', model: 'Sabian 21" AAX Ride', notes: 'Clear bell, defined stick' },
+          { type: 'China', model: 'Sabian 18" AAX China', notes: 'Aggressive accents' }
         ],
-        description: "Gene uses bright, cutting cymbals that project in any mix. The A Custom series gives him the aggression he needs."
+        description: "Gene uses bright, cutting cymbals that project in any mix. The AAX series gives him the aggression he needs."
       },
       pedals: {
         brand: 'Pearl',
@@ -1665,11 +1665,11 @@ At 6'3" and over 250 pounds, Gene's physical presence translates to a massive dr
         alternative: "Pearl Eliminator or DW 9000"
       },
       sticks: {
-        brand: 'Vater',
-        model: 'Vater Gene Hoglan Signature',
+        brand: 'ProMark',
+        model: 'ProMark Classic Forward 2B',
         specs: 'Large diameter with round tip',
-        description: "Gene's signature stick is hefty, matching his powerful playing style. The large diameter provides extra power.",
-        alternative: "Vater Power 5B or equivalent"
+        description: "Gene's stick of choice is hefty, matching his powerful playing style. The large diameter provides extra power.",
+        alternative: "ProMark Classic Forward 5B or equivalent"
       },
       heads: {
         kick: 'Remo Powerstroke P3 Clear',
@@ -1690,8 +1690,8 @@ At 6'3" and over 250 pounds, Gene's physical presence translates to a massive dr
       snare: {
         tension: "High",
         muffling: "Minimal",
-        description: "Massive crack and projection. The bell brass shell adds body even at high tuning.",
-        tip: "Tune high for maximum cut. Let the brass shell do the work."
+        description: "Massive crack and projection. The maple/birch hybrid shell adds body even at high tuning.",
+        tip: "Tune high for maximum cut. Let the shell do the work."
       },
       toms: {
         tension: "Medium",
@@ -1748,26 +1748,26 @@ At 6'3" and over 250 pounds, Gene's physical presence translates to a massive dr
       budget: {
         price: "$1,000",
         label: "Starter Setup",
-        kit: "Tama Imperialstar ($600)",
-        cymbals: "Zildjian S Series ($300)",
+        kit: "Pearl Export ($600)",
+        cymbals: "Sabian SBR Series ($300)",
         pedals: "Pearl P932 Double Pedal ($150)",
-        sticks: "Vater Power 5B ($10)",
+        sticks: "ProMark Classic Forward 5B ($10)",
         notes: "Focus on precision and click track work."
       },
       mid: {
         price: "$3,000",
         label: "Intermediate Setup",
-        kit: "Tama Superstar Hyper-Drive ($1,500)",
-        cymbals: "Zildjian A Custom Pack ($1,000)",
+        kit: "Pearl Decade Maple ($1,500)",
+        cymbals: "Sabian AAX Pack ($1,000)",
         pedals: "Pearl Eliminator Redline Double ($350)",
-        sticks: "Vater Gene Hoglan ($15)",
+        sticks: "ProMark Classic Forward 2B ($15)",
         notes: "Getting into professional territory."
       },
       pro: {
         price: "$6,000+",
         label: "Professional Setup",
-        kit: "Tama Starclassic Maple ($3,000+)",
-        cymbals: "Zildjian A Custom Custom ($1,500+)",
+        kit: "Pearl Reference Pure ($3,000+)",
+        cymbals: "Sabian AAX Series ($1,500+)",
         pedals: "Pearl Demon Drive ($600)",
         heads: "Full Remo setup ($200)",
         notes: "Tour-ready Gene Hoglan setup."
@@ -1791,7 +1791,7 @@ At 6'3" and over 250 pounds, Gene's physical presence translates to a massive dr
       drummerProfile: '/drummer/gene-hoglan',
       similarDrummers: ['Dave Lombardo', 'Pete Sandoval', 'Derek Roddy'],
       relatedGuides: ['how-to-sound-like-dave-lombardo', 'how-to-sound-like-joey-jordison', 'how-to-sound-like-jimmy-degrasso'],
-      gearPages: ['/gear/drums', '/brands/tama', '/brands/zildjian']
+      gearPages: ['/gear/drums', '/brands/pearl', '/brands/sabian']
     },
     licksUrl: '/drummers/gene-hoglan/licks',
     relatedArticles: [

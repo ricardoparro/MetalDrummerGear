@@ -8627,7 +8627,7 @@ This guide covers Travis's technique across both the extreme Painkiller era and 
     genre: 'Black Metal / Blackened Death Metal',
     priority: 32,
     title: "How to Sound Like Inferno: Complete Gear & Technique Guide",
-    description: "Master Inferno's extreme black metal drumming style. Learn his 240+ BPM blast beat techniques, dark mic placement, Paiste Black Alpha cymbal setup, and Axis pedal approach for Behemoth's crushing sound.",
+    description: "Master Inferno's extreme black metal drumming style. Learn his 240+ BPM blast beat techniques, dark mic placement, Paiste RUDE Series cymbal setup, and Monolit Czarcie Kopyto pedal approach for Behemoth's crushing sound.",
     seoKeywords: ['inferno behemoth drums', 'how to sound like inferno', 'inferno drum technique', 'behemoth drummer', 'black metal blast beats', 'inferno drum kit'],
     ogImage: '/images/guides/inferno-guide.webp',
     datePublished: '2026-06-26',
@@ -8641,11 +8641,11 @@ This guide covers Travis's technique across both the extreme Painkiller era and 
 
 What separates Inferno from other extreme metal drummers is not just his ability to sustain blast beats at 240+ BPM — it's the musical precision and clarity he maintains at those tempos. Every note in an Inferno blast beat is defined and intentional. There is no blurring, no rushing, no accommodation. On albums like "O Father O Satan O Sun!" you hear blast beats that move like clockwork machinery — inhuman in speed, but never in feel.
 
-This guide breaks down exactly how Inferno achieves his signature sound: his Pearl Masters Premium kit, the distinctive dark character of his Paiste Black Alpha cymbals, his Axis A Longboard pedals, and the technique system that drives one of metal's most demanding drum parts.`,
+This guide breaks down exactly how Inferno achieves his signature sound: his Pearl Masters Premium kit, the powerful, cutting character of his Paiste RUDE Series cymbals, his Monolit Czarcie Kopyto pedals, and the technique system that drives one of metal's most demanding drum parts.`,
       keyPoints: [
         "Inferno sustains blast beats at 240+ BPM with clockwork precision",
-        "Paiste Black Alpha cymbals give his sound a uniquely dark, controlled character",
-        "Axis Longboard pedals provide the direct-drive response essential for black metal speed",
+        "Paiste RUDE Series cymbals give his sound a uniquely loud, cutting character",
+        "Monolit Czarcie Kopyto pedals provide the direct-drive response essential for black metal speed",
         "His technique emphasizes clarity and power equally — never sacrificing one for the other"
       ]
     },
@@ -8693,7 +8693,7 @@ This guide breaks down exactly how Inferno achieves his signature sound: his Pea
       ]
     },
     gear: {
-      title: "Inferno's Pearl Masters / Paiste Black Alpha Setup",
+      title: "Inferno's Pearl Masters / Paiste RUDE Setup",
       drumKit: {
         brand: 'Pearl',
         model: 'Pearl Masters Premium',
@@ -8718,20 +8718,20 @@ This guide breaks down exactly how Inferno achieves his signature sound: his Pea
       },
       cymbals: {
         brand: 'Paiste',
-        series: 'Paiste Black Alpha Series',
+        series: 'Paiste RUDE Series',
         setup: [
-          { type: 'Hi-Hats', model: 'Paiste 14" Black Alpha Heavy Hi-Hats', notes: 'Dark, controlled — lower brightness than standard cymbals' },
-          { type: 'Crash', model: 'Paiste 18" Black Alpha Power Crash', notes: 'Fast decay, dark character — blends with blast beats without overwhelming' },
-          { type: 'Crash', model: 'Paiste 19" Black Alpha Power Crash', notes: 'Heavier crash for climactic accents' },
-          { type: 'Ride', model: 'Paiste 20" Black Alpha Ride', notes: 'Dark bell and controlled wash for atmospheric ride sections' },
-          { type: 'China', model: 'Paiste 18" Black Alpha China', notes: 'Trashy and dark — essential for black metal accent work' }
+          { type: 'Hi-Hats', model: 'Paiste 14" RUDE Sound Edge Hi-Hats', notes: 'Loud, cutting — built to project over blast beats without disappearing' },
+          { type: 'Crash', model: 'Paiste 18" RUDE Crash', notes: 'Fast decay, aggressive attack — blends with blast beats without overwhelming' },
+          { type: 'Crash', model: 'Paiste 19" RUDE Crash', notes: 'Heavier crash for climactic accents' },
+          { type: 'Ride', model: 'Paiste 24" RUDE Mega Power Ride', notes: 'Massive, controlled wash for atmospheric ride sections' },
+          { type: 'China', model: 'Paiste 18" RUDE China', notes: 'Trashy and raw — essential for black metal accent work' }
         ],
-        description: "Paiste Black Alpha cymbals are the defining element of Inferno's sound. The Black Alpha series features a special finish that reduces the overtones common in standard bronze cymbals — the result is a darker, more controlled sound character that complements black metal's aesthetic. Where standard cymbals project bright and cutting, Black Alpha project dark and intentional."
+        description: "Paiste RUDE cymbals are the defining element of Inferno's sound. The RUDE series is built thicker and louder than standard bronze cymbals — the result is a raw, powerful sound character that cuts through Behemoth's dense, orchestral mix. Where standard cymbals project bright and delicate, RUDE cymbals project loud and unrelenting."
       },
       pedals: {
-        brand: 'Axis',
-        model: 'Axis A Longboard Double Pedal',
-        description: "Inferno uses Axis A Longboard pedals — the choice of many technical extreme metal drummers for their direct-drive precision and longboard footplate. The longboard platform allows more of the foot to contact the pedal, enabling ankle-driven technique at high speeds. The direct-drive linkage removes the cam-and-chain lag present in traditional pedals, giving Inferno immediate feedback at 240+ BPM.",
+        brand: 'Monolit',
+        model: 'Monolit Czarcie Kopyto Double Pedal',
+        description: "Inferno uses Monolit Czarcie Kopyto (Devil's Hoof) pedals — Polish-engineered direct-drive pedals with a longboard footplate favored by technical extreme metal drummers. The longboard platform allows more of the foot to contact the pedal, enabling ankle-driven technique at high speeds. The direct-drive linkage removes the cam-and-chain lag present in traditional pedals, giving Inferno immediate feedback at 240+ BPM.",
         alternative: "Tama Speed Cobra or DW 9000 Direct Drive for comparable direct-feel response"
       },
       sticks: {
@@ -8781,7 +8781,7 @@ This guide breaks down exactly how Inferno achieves his signature sound: his Pea
           goal: "Clean, even blast beats at 220+ BPM for 2+ minute intervals"
         },
         {
-          name: "Axis Longboard Ankle Technique",
+          name: "Czarcie Kopyto Longboard Ankle Technique",
           description: "Develop the ankle-driven foot technique that sustains Inferno's double bass at extreme tempos",
           instructions: "Isolate one foot. Play continuous 16th notes at 200 BPM using only ankle motion — no calf engagement. If the calf muscle burns, you're using the wrong muscle. Hold for 90 seconds per foot. Rest 60 seconds. Repeat 4 times. Add 10 seconds to the work interval weekly.",
           duration: "20 minutes daily, 4x/week",
@@ -8818,26 +8818,26 @@ This guide breaks down exactly how Inferno achieves his signature sound: his Pea
         cymbals: "Paiste PST 7 set ($300) — Paiste character at entry price",
         pedals: "Pearl P930 Double Pedal ($150)",
         sticks: "Vic Firth 5B ($10)",
-        notes: "Pearl Export gives you the Pearl maple feel at an accessible price. PST 7 introduces Paiste's sonic character before committing to Black Alpha."
+        notes: "Pearl Export gives you the Pearl maple feel at an accessible price. PST 7 introduces Paiste's sonic character before committing to RUDE."
       },
       mid: {
         price: "$3,500",
         label: "Intermediate Setup",
         kit: "Pearl Masters Maple Complete ($2,000)",
-        cymbals: "Paiste Black Alpha starter set ($900) — Inferno's actual cymbal line",
-        pedals: "Axis A Longboard Double ($600) — Inferno's actual pedal",
+        cymbals: "Paiste RUDE starter set ($900) — Inferno's actual cymbal line",
+        pedals: "Monolit Czarcie Kopyto Double ($600) — Inferno's actual pedal",
         sticks: "Vic Firth 5B ($10)",
-        notes: "Axis A Longboard is Inferno's actual pedal choice — the direct-drive response is noticeably different from chain-drive pedals at extreme tempos."
+        notes: "Monolit Czarcie Kopyto is Inferno's actual pedal choice — the direct-drive response is noticeably different from chain-drive pedals at extreme tempos."
       },
       pro: {
         price: "$7,000+",
         label: "Professional Setup",
         kit: "Pearl Masters Premium ($3,500+) — Inferno's touring configuration",
-        cymbals: "Full Paiste Black Alpha selection ($2,000+)",
-        pedals: "Axis A Longboard Double ($600)",
+        cymbals: "Full Paiste RUDE selection ($2,000+)",
+        pedals: "Monolit Czarcie Kopyto Double ($600)",
         snare: "Pearl Free-Floating 14\" x 6.5\" ($400)",
         heads: "Full Remo Powerstroke / Emperor set ($200)",
-        notes: "Pearl Masters Premium with full Paiste Black Alpha selection recreates Inferno's complete tonal palette."
+        notes: "Pearl Masters Premium with full Paiste RUDE selection recreates Inferno's complete tonal palette."
       }
     },
     faq: [
@@ -8847,19 +8847,19 @@ This guide breaks down exactly how Inferno achieves his signature sound: his Pea
       },
       {
         question: "What cymbals does Inferno use?",
-        answer: "Inferno uses Paiste Black Alpha cymbals — a series characterized by a special finish that reduces overtones for a darker, more controlled sound than standard cymbals. His setup includes 14\" Black Alpha hi-hats, 18\" and 19\" Black Alpha Power Crashes, a 20\" Black Alpha Ride, and an 18\" Black Alpha China. The Black Alpha series is central to Behemoth's dark, controlled sonic character."
+        answer: "Inferno uses Paiste RUDE Series cymbals — a series built thicker and louder than standard cymbals for maximum projection. His setup includes 14\" RUDE Sound Edge hi-hats, 18\" and 19\" RUDE Crashes, a 24\" RUDE Mega Power Ride, and an 18\" RUDE China. The RUDE series is central to Behemoth's loud, cutting sonic character."
       },
       {
         question: "What pedals does Inferno use?",
-        answer: "Inferno uses Axis A Longboard double pedals. The Axis Longboard's direct-drive mechanism and extended footplate allow ankle-driven technique at 240+ BPM with maximum feedback precision. Unlike chain-drive pedals, the direct connection between foot and beater eliminates mechanical lag — essential for Behemoth's tempos."
+        answer: "Inferno uses Monolit Czarcie Kopyto double pedals. The Czarcie Kopyto's direct-drive mechanism and longboard footplate allow ankle-driven technique at 240+ BPM with maximum feedback precision. Unlike chain-drive pedals, the direct connection between foot and beater eliminates mechanical lag — essential for Behemoth's tempos."
       },
       {
         question: "How fast does Inferno play blast beats?",
         answer: "Inferno sustains blast beats at 230-250 BPM in live performance. In studio recordings on albums like Demigod and The Satanist, blast beat sections maintain these tempos with mechanical precision. His technique emphasizes definition at extreme speeds — every note in a blast is intentional, not a blur."
       },
       {
-        question: "What makes Paiste Black Alpha cymbals different from standard cymbals?",
-        answer: "Paiste Black Alpha cymbals feature a special surface treatment that suppresses the bright overtones present in standard B20 bronze cymbals. The result is a darker, more focused sound with faster decay — the cymbal speaks and stops rather than ringing out. This dark character is central to Behemoth's controlled, sinister sonic aesthetic and distinguishes Inferno's sound from drummers using brighter cymbal lines."
+        question: "What makes Paiste RUDE cymbals different from standard cymbals?",
+        answer: "Paiste RUDE cymbals are built thicker and heavier than standard B20 bronze cymbals, producing a louder, more aggressive sound designed to cut through extremely dense, high-volume mixes. The result is a raw, powerful attack rather than a bright, delicate shimmer. This loud, cutting character is central to Behemoth's controlled, sinister sonic aesthetic and distinguishes Inferno's sound from drummers using brighter cymbal lines."
       }
     ],
     related: {

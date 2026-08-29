@@ -124,10 +124,10 @@ This guide will break down exactly how to capture Joey's sound—from his aggres
         alternative: "Pearl Eliminator or Tama Speed Cobra for similar feel"
       },
       sticks: {
-        brand: 'Ahead',
-        model: 'Ahead Joey Jordison Signature',
-        specs: 'Aluminum core with replaceable polyurethane covers',
-        description: "Joey's signature Ahead sticks offered durability for his aggressive style. The weighted tips provided extra attack on cymbals.",
+        brand: 'Promark',
+        model: 'Promark TX515W Joey Jordison Signature (current, since 2008) / Ahead Joey Jordison Signature (1999-2008)',
+        specs: 'Hickory, .551" x 16", round wood tip',
+        description: "Joey moved from Ahead's aluminum-core sticks to his Promark TX515W signature model in 2008, sticking with Promark for the rest of his career. Earlier in his career (1999-2008), he used Ahead's aluminum sticks with replaceable polyurethane covers for durability.",
         alternative: "Vic Firth 5A or 5B for traditional wood stick feel"
       },
       heads: {
@@ -235,7 +235,7 @@ This guide will break down exactly how to capture Joey's sound—from his aggres
         kit: "Pearl Masters Maple/Gum ($1,800)",
         cymbals: "Paiste RUDE Set ($800)",
         pedals: "Pearl Eliminator Redline ($350)",
-        sticks: "Ahead Joey Jordison Signature ($45)",
+        sticks: "Promark TX515W Joey Jordison Signature ($45)",
         notes: "Closer to Joey's actual tone. RUDE cymbals give you that aggressive Slipknot sound."
       },
       pro: {
@@ -244,7 +244,7 @@ This guide will break down exactly how to capture Joey's sound—from his aggres
         kit: "Pearl Reference Pure or Masters Maple Complete ($2,500+)",
         cymbals: "Paiste Signature/RUDE Custom Selection ($1,500+)",
         pedals: "Pearl Demon Drive ($600)",
-        sticks: "Ahead Joey Jordison ($45)",
+        sticks: "Promark TX515W Joey Jordison Signature ($45)",
         heads: "Full Remo setup ($150)",
         notes: "Recording and touring-ready setup matching Joey's studio sound."
       }
@@ -253,7 +253,7 @@ This guide will break down exactly how to capture Joey's sound—from his aggres
     faq: [
       {
         question: "What size sticks did Joey Jordison use?",
-        answer: "Joey used Ahead Joey Jordison signature sticks, which are roughly equivalent to a 5B in size but with aluminum cores and replaceable polyurethane covers for durability."
+        answer: "Joey used Promark TX515W Joey Jordison signature sticks (hickory, .551\" x 16\", round wood tip, roughly a 5A-class stick) since 2008. Earlier in his career (1999-2008), he used Ahead's aluminum-core signature sticks with replaceable polyurethane covers for durability."
       },
       {
         question: "How did Joey play so fast with a double pedal?",

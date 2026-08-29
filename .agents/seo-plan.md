@@ -6697,3 +6697,55 @@ All 7 filed issues personally verified via direct grep against current file stat
 3. Low-confidence Jocke Wallgren line (drummerComparisons.js:4257) — worth a closer look next time before dismissing entirely.
 4. Still worth flagging for the CEO/founder: this sweep has now yielded ~62 verified gear-fabrication fixes across 5 rounds — a systematic regeneration/script-driven cross-check might be more efficient once the backlog drains.
 5. Drum-chair rotation: week 36 is group 0 (amon-amarth through cynic) — due Monday 2026-08-31.
+
+---
+
+## 2026-08-29 (9th run) — 5th-pass resweep of drummerComparisons.js/soundLikeGuides.js: 8 verified gear-fabrication findings filed (#6432-6439)
+
+### Bank check
+Open `seo-proposal` at run start: 3 (all standing umbrellas #3810/#3819/#2211; the 7 filed last run, #6399-6405, were already promoted to `ai-fix` and no longer carry the label). True untriaged bank: 0. Cleared to file up to 8 net-new.
+
+### Audit summary
+- Robots.txt (live curl, GPTBot UA): AI crawler allows present. ✅
+- `/public/llms/**/*.md`: 2,011 files live, unchanged. ✅
+- Drum-chair watch: today is Saturday — skipped per the "first run each Monday" gate (last swept 2026-08-24, next due 2026-08-31, week 36 group 0).
+
+### This run's sweep
+Dispatched a research agent to find fresh drummerComparisons.js/soundLikeGuides.js-vs-endorsementNews.js/extendedBios.js mismatches for drummers not yet covered by 5 prior sweep rounds (~70 verified fixes so far). Also personally resolved the one carried-over low-confidence lead from last run (Jocke Wallgren drummerComparisons.js:4257). Personally re-verified all 8 final candidates via direct grep/read of both the fabricating file and the source-of-truth file before filing (not trusting agent output alone) — every candidate below has an explicit duplicate check against prior closed issues for the same drummer, confirming a different file/field each time.
+
+**Filed (8):**
+1. **Jocke Wallgren** (carried over) — `drummerComparisons.js` `jocke-wallgren-vs-daniel-erlandsson` entry fabricates Tama/Meinl/DW gear + 2013 join year (verified Pearl/Zildjian/Pearl Demon Drive, joined 2016) — contradicted by 2 sibling entries in the same file with correct gear. Filed **#6432**.
+2. **George Kollias** — `drummerComparisons.js:317` pedal cross-contaminated as "Pearl Demon Drive" (verified: Pearl Demon XR, a distinct co-designed signature model). Filed **#6433**.
+3. **Jon Dette** — 2 `drummerComparisons.js` entries (vs Lombardo, vs Hoglan) omit verified Ludwig Classic Maple drums, substituting Pearl/Tama/DW. #5404 fixed this exact bug class in `extendedBios.js`'s gearHighlights but never touched `drummerComparisons.js`. Filed **#6434**.
+4. **Danny Carey** — `soundLikeGuides.js` pedal fabricated as DW 9000 (verified Sonor Giant Step) + `drumKit.model` says "Designer Series" contradicting its own sibling `snare.model` field ("SQ2 Heavy Beech", matches verified). Filed **#6435**.
+5. **Martin Lopez** — `drummerComparisons.js:1253` fabricates Pearl drums, never verified for any era (Sonor 1997-2006, Noble & Cooley since 2010). #6328 fixed Sean Reinert's clause in nearby entries but not this sentence. Filed **#6436**.
+6. **Scott Travis** — `soundLikeGuides.js` snare frozen on "Tama... throughout his career" (verified ddrum Scott Travis Signature since 2018). #6308's own title scopes its fix to drums/cymbals/pedal only — snare was a genuine gap. Filed **#6437**.
+7. **Vinnie Paul** — `soundLikeGuides.js` states an unverified DW 5000 pedal as confident fact (source explicitly hedges pedal as unconfirmed — same rule-violation class as Pete Sandoval/#6306) + snare wrong size/model (14x6.5 generic vs verified ddrum Signature 14x8). Filed **#6438**.
+8. **Sean Reinert** — `soundLikeGuides.js` says "Pearl Reference" drums on Death's Human (1991); verified timeline shows he switched TO Tama Artstar II specifically for that album. #6328/#5364 fixed this bug class in 2 other files, soundLikeGuides.js was untouched. Filed **#6439**.
+
+All 8 single/dual-line, text-only, zero new pages/URLs — freeze-compliant.
+
+### GSC content-gap
+Same 3 standing rows (`metalforge` 549 impr/0.55% CTR, `danny carey drum kit` 102 impr/0.98% CTR, `joey jordison drum kit` 51 impr/1.96% CTR) — all previously investigated and held (danny-carey/joey-jordison are logged content ceilings per learned-patterns.md; `metalforge` is the branded query, low actionability). No new fix this run.
+
+### L1/L2/L3
+Snapshots (#3810/#3819/#2211) unchanged since last read — no fresh weekly refresh this run.
+
+### Proposals filed this run (8)
+1. #6432 — Jocke Wallgren (drummerComparisons.js, Tama/Meinl/DW + wrong join year)
+2. #6433 — George Kollias (drummerComparisons.js:317, pedal model cross-contamination)
+3. #6434 — Jon Dette (drummerComparisons.js, 2 entries, omits Ludwig)
+4. #6435 — Danny Carey (soundLikeGuides.js, pedal + drumKit model)
+5. #6436 — Martin Lopez (drummerComparisons.js:1253, fabricated Pearl)
+6. #6437 — Scott Travis (soundLikeGuides.js, snare frozen on Tama)
+7. #6438 — Vinnie Paul (soundLikeGuides.js, unverified pedal fact + wrong snare)
+8. #6439 — Sean Reinert (soundLikeGuides.js, Pearl Reference on Human)
+
+### Open proposals waiting on CEO triage
+- #6432-6439 (filed this run, 0d old)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers only.
+
+### Next run
+1. Watch #6432-6439 ship via Roadie/PR Merger.
+2. Vein shows no sign of exhaustion across 6 sweeps now (11→8→7→8→15→7→8 raw/confirmed candidates) — next run should do a 7th pass, likely widening scope to `albumArticles.js`/`genreGearGuides.js` cross-checks if drummerComparisons.js/soundLikeGuides.js starts thinning out.
+3. Drum-chair rotation: week 36 group 0 (amon-amarth through cynic) due Monday 2026-08-31.

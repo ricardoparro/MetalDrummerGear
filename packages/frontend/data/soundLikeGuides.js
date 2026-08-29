@@ -10459,7 +10459,7 @@ This guide breaks down the technique, gear, and feel behind Vinnie Paul's grove-
         finish: 'Custom Pantera finish',
         config: {
           kick: '24" x 18" Bass Drums (x2)',
-          snare: '14" x 6.5" Steel or Brass Snare',
+          snare: '14" x 8" Vinnie Paul Signature Snare',
           toms: ['10" x 9" Rack Tom', '12" x 10" Rack Tom'],
           floorToms: ['16" x 16" Floor Tom', '18" x 16" Floor Tom']
         },
@@ -10468,10 +10468,10 @@ This guide breaks down the technique, gear, and feel behind Vinnie Paul's grove-
       },
       snare: {
         brand: 'Ddrum',
-        model: 'Ddrum Steel or Brass Snare',
-        size: '14" x 6.5"',
-        shell: 'Steel or Brass',
-        description: "A deep metal snare tuned for a massive, powerful crack. Vinnie Paul's snare is one of the most recognizable in metal — thick, heavy, and authoritative. The depth adds body to his heavy backbeats.",
+        model: 'ddrum Vinnie Paul Signature 14" x 8"',
+        size: '14" x 8"',
+        shell: '8-ply maple, die-cast hoops',
+        description: "Vinnie Paul's signature snare — an 8-ply maple shell with 10 lugs and die-cast hoops, engineered for a massive, powerful crack. It's one of the most recognizable snare sounds in metal, adding thick, authoritative body to his heavy backbeats.",
         alternative: "Ludwig Acrophonic or Pearl Sensitone Brass for similar weight and crack"
       },
       cymbals: {
@@ -10487,9 +10487,9 @@ This guide breaks down the technique, gear, and feel behind Vinnie Paul's grove-
         description: "Vinnie Paul uses loud, powerful Sabian AA & AAX cymbals that project over Pantera's massive stage volume. Large, heavy crashes match the scale of his fills."
       },
       pedals: {
-        brand: 'DW',
-        model: 'DW 5000 Double Pedal',
-        description: "Vinnie Paul favored DW double pedals for their reliable, powerful action. His double bass style emphasizes weight and punch over speed, so a solid, powerful feel suits him perfectly.",
+        brand: 'ddrum',
+        model: 'ddrum hardware (specific pedal model undocumented)',
+        description: "Vinnie Paul used ddrum hardware (brand relationship confirmed via a 2009 Sick Drummer Magazine interview), though no source names a specific pedal model. His double bass style emphasizes weight and punch over speed, so a solid, powerful feel suits him perfectly.",
         alternative: "Tama Iron Cobra or Pearl Eliminator for similar power and feel"
       },
       sticks: {

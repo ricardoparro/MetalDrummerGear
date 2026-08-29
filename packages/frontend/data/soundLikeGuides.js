@@ -365,7 +365,7 @@ But don't let the complexity fool you—Danny's playing always serves the music.
       title: "Danny's Legendary Gear Setup",
       drumKit: {
         brand: 'Sonor',
-        model: 'Sonor Designer Series',
+        model: 'Sonor SQ2 Heavy Beech',
         shells: 'Beech',
         finish: 'Custom Danny Carey configuration',
         config: {
@@ -398,9 +398,9 @@ But don't let the complexity fool you—Danny's playing always serves the music.
         description: "Danny was instrumental in developing Paiste's Dark Energy line. These cymbals have complex overtones and a musical quality that suits Tool's textured sound."
       },
       pedals: {
-        brand: 'DW',
-        model: 'DW 9000 Series Double Pedal',
-        description: "Danny uses DW's flagship pedal for its precision and feel. The adjustable cam allows him to fine-tune the response for his technique.",
+        brand: 'Sonor',
+        model: 'Sonor Giant Step Twin Effect Double Pedal',
+        description: "Danny uses Sonor's Giant Step double pedal for its precision and feel. The adjustable cam allows him to fine-tune the response for his technique.",
         alternative: "DW 5000 series for similar feel at lower price"
       },
       sticks: {

@@ -2890,7 +2890,7 @@ This guide breaks down Kollias's technique, the endurance training behind his st
       title: "George's Pearl Signature Arsenal",
       drumKit: {
         brand: 'Pearl',
-        model: 'Pearl Reference Pure',
+        model: 'Pearl Masterworks Series',
         shells: 'Maple',
         finish: 'Custom Nile configurations',
         config: {
@@ -2899,7 +2899,7 @@ This guide breaks down Kollias's technique, the endurance training behind his st
           toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom'],
           floorToms: ['16" x 16" Floor Tom']
         },
-        description: "George's Pearl Reference Pure kit provides exceptional attack and resonance projection. The maple shells cut through Nile's dense arrangements while sustaining note definition at extreme tempos.",
+        description: "George's Pearl Masterworks kit provides exceptional attack and resonance projection. The maple shells cut through Nile's dense arrangements while sustaining note definition at extreme tempos.",
         affiliateNote: "Pearl Masters Maple or Export series offer Pearl quality at various price points."
       },
       snare: {
@@ -2911,20 +2911,20 @@ This guide breaks down Kollias's technique, the endurance training behind his st
         alternative: "Pearl Free-Floating Steel or Ludwig Supraphonic for similar articulation"
       },
       cymbals: {
-        brand: 'Meinl',
-        series: 'Meinl Classics Custom Dark / Byzance',
+        brand: 'Zildjian',
+        series: 'Zildjian A Custom Series',
         setup: [
-          { type: 'Hi-Hats', model: 'Meinl 14" Classics Custom Dark Hi-Hats', notes: 'Cutting response for rapid blast hi-hat work' },
-          { type: 'Crash', model: 'Meinl 17" Classics Custom Dark Crash', notes: 'Fast attack and decay' },
-          { type: 'Crash', model: 'Meinl 19" Classics Custom Dark Crash', notes: 'Full-bodied power crash' },
-          { type: 'Ride', model: 'Meinl 21" Byzance Extra Dry Ride', notes: 'Dry stick definition for precise ride work' },
-          { type: 'China', model: 'Meinl 18" Classics Custom China', notes: 'Aggressive accent cymbal' }
+          { type: 'Hi-Hats', model: 'Zildjian 14" A Custom Hi-Hats', notes: 'Cutting response for rapid blast hi-hat work' },
+          { type: 'Crash', model: 'Zildjian 17" A Custom Crash', notes: 'Fast attack and decay' },
+          { type: 'Crash', model: 'Zildjian 19" A Custom Crash', notes: 'Full-bodied power crash' },
+          { type: 'Ride', model: 'Zildjian 21" A Custom Ride', notes: 'Dry stick definition for precise ride work' },
+          { type: 'China', model: 'Zildjian 18" A Custom China', notes: 'Aggressive accent cymbal' }
         ],
-        description: "George's Meinl cymbals prioritize clarity and attack speed — essential when blast beats require cymbal hits to speak distinctly at 200+ BPM."
+        description: "George's Zildjian A Custom cymbals prioritize clarity and attack speed — essential when blast beats require cymbal hits to speak distinctly at 200+ BPM."
       },
       pedals: {
         brand: 'Pearl',
-        model: 'Pearl Demon Drive Double Pedal',
+        model: 'Pearl Demon XR Pedals',
         description: "Kollias uses Pearl's flagship direct-drive pedal. The direct connection between the footboard and cam eliminates the slack inherent in chain or belt drives, giving him the precision feedback needed at extreme speeds.",
         alternative: "Axis Longboard or DW 9000 series for similar direct-drive feel"
       },

@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-29 16:55 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-29 20:26 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,18 +8,18 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 278 |
-| Sessions | 310 |
-| Page views | 509 |
-| Engagement rate | 63.55% |
-| Avg session (s) | 452 |
+| Active users | 287 |
+| Sessions | 321 |
+| Page views | 518 |
+| Engagement rate | 61.37% |
+| Avg session (s) | 437 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 26 | 19 |
+| / | 27 | 20 |
 | /drummers | 21 | 4 |
-| /drummer/danny-carey | 14 | 8 |
+| /drummer/danny-carey | 15 | 9 |
 | /drummer/eloy-casagrande | 9 | 7 |
 | /drummer/mario-duplantier | 9 | 8 |
 | /drummer/joey-jordison | 8 | 5 |
@@ -31,68 +31,68 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 234 | 204 |
-| Direct | 62 | 62 |
-| Unassigned | 17 | 15 |
+| Organic Search | 242 | 209 |
+| Direct | 63 | 63 |
+| Unassigned | 28 | 25 |
 | Referral | 3 | 3 |
 | Organic Social | 2 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 103 | 86 |
+| United States | 107 | 89 |
 | Brazil | 19 | 19 |
-| United Kingdom | 17 | 13 |
+| United Kingdom | 19 | 14 |
+| Canada | 13 | 13 |
 | China | 13 | 13 |
 | India | 13 | 11 |
-| Canada | 12 | 12 |
 | Germany | 12 | 11 |
 | France | 10 | 10 |
+| Australia | 9 | 9 |
 | Argentina | 8 | 8 |
-| Australia | 8 | 8 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 5,897 |
-| Clicks | 127 |
-| CTR | 2.15% |
+| Impressions | 7,247 |
+| Clicks | 160 |
+| CTR | 2.21% |
 | Avg position | 9.1 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| metalforge | 549 | 3 | 0.55% | 6.9 |
+| metalforge | 613 | 3 | 0.49% | 6.9 |
 | matt greiner cymbals | 4 | 2 | 50.00% | 8.0 |
 | any others? | 1 | 1 | 100.00% | 6.0 |
 | best black metal drummers | 2 | 1 | 50.00% | 15.0 |
-| best metal drummers of all time | 19 | 1 | 5.26% | 9.5 |
-| danny carey drum kit | 102 | 1 | 0.98% | 10.4 |
-| danny carey drumkit | 10 | 1 | 10.00% | 7.3 |
+| best metal drummers of all time | 23 | 1 | 4.35% | 9.6 |
+| danny carey drum kit | 120 | 1 | 0.83% | 10.4 |
+| danny carey drum kit setup | 3 | 1 | 33.33% | 9.7 |
+| danny carey drumkit | 12 | 1 | 8.33% | 6.9 |
 | death metal drummers | 2 | 1 | 50.00% | 5.5 |
-| eloy casagrande drum kit | 19 | 1 | 5.26% | 10.4 |
-| extreme.drumming | 1 | 1 | 100.00% | 9.0 |
+| eloy casagrande drum kit | 31 | 1 | 3.23% | 10.0 |
 
 ### Top countries (impressions, last 7d)
 | Country | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| usa | 2,100 | 41 | 1.95% | 8.9 |
-| can | 267 | 10 | 3.75% | 7.7 |
-| fra | 138 | 6 | 4.35% | 8.2 |
-| gbr | 303 | 6 | 1.98% | 10.5 |
-| fin | 66 | 5 | 7.58% | 6.9 |
-| aus | 259 | 4 | 1.54% | 7.4 |
-| bra | 143 | 4 | 2.80% | 6.7 |
-| deu | 182 | 4 | 2.20% | 6.7 |
-| jpn | 77 | 4 | 5.19% | 7.2 |
-| nld | 97 | 4 | 4.12% | 7.5 |
+| usa | 2,599 | 54 | 2.08% | 8.9 |
+| can | 314 | 11 | 3.50% | 7.9 |
+| fra | 171 | 9 | 5.26% | 7.7 |
+| bra | 184 | 6 | 3.26% | 6.9 |
+| fin | 89 | 6 | 6.74% | 6.7 |
+| gbr | 379 | 6 | 1.58% | 10.1 |
+| aus | 319 | 5 | 1.57% | 7.5 |
+| deu | 223 | 5 | 2.24% | 6.9 |
+| esp | 88 | 4 | 4.55% | 7.4 |
+| jpn | 87 | 4 | 4.60% | 7.2 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 | Query | Impr | CTR | Pos | Action |
 | --- | --- | --- | --- | --- |
-| metalforge | 549 | 0.55% | 6.9 | open issue to answer better |
-| danny carey drum kit | 102 | 0.98% | 10.4 | open issue to answer better |
-| joey jordison drum kit | 51 | 1.96% | 9.8 | open issue to answer better |
+| metalforge | 613 | 0.49% | 6.9 | open issue to answer better |
+| danny carey drum kit | 120 | 0.83% | 10.4 | open issue to answer better |
+| joey jordison drum kit | 69 | 1.45% | 10.1 | open issue to answer better |
 
 ---
 *Re-run manually: `node .agents/scripts/fetch-metrics.cjs`*

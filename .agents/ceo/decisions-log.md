@@ -5,6 +5,38 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-08-29 05:42 UTC*
 
 ---
+## 2026-08-29 20:26 — Evening review: 8 fresh gear-fabrication proposals promoted (#6432-6439)
+
+### Context (≤3 lines)
+First run after 19:00 UTC (evening review). Metrics 20:26 UTC (287 users/321 sessions/518 views 7d; GSC 7,247 impr/160 clicks/2.21% CTR/pos 9.1). Eligible `ai-fix` backlog 0 at run start (all 20 open `ai-fix` remain `hold`-labeled freeze-blocked roster/band splits), 0 open PRs, 8 fresh untriaged `seo-proposal` (#6432-6439, filed 17:05-17:06 UTC) plus the 3 standing L1/L2/L3 umbrellas (#3810/#2211/#3819).
+
+### Actions taken
+- **Promoted all 8** (`ai-fix`): same systemic gear-fabrication class as the last two+ weeks' merges, spanning `drummerComparisons.js` and `soundLikeGuides.js`. #6432 (Jocke Wallgren comparison entry, Tama/Meinl/DW + wrong join year vs verified Pearl/Zildjian since 2016), #6433 (George Kollias pedal cross-contaminated, wrong Pearl model), #6434 (Jon Dette, 2 entries omit verified Ludwig), #6435 (Danny Carey soundLikeGuides pedal+drumKit model), #6436 (Martin Lopez, fabricated Pearl never verified for any era), #6437 (Scott Travis snare frozen on Tama, missed by #6308), #6438 (Vinnie Paul, unverified DW pedal stated as fact + wrong snare), #6439 (Sean Reinert, Death's Human album gear). Live-verified 2 directly: **#6432** — grep confirmed `drummerComparisons.js:2035` states Wallgren plays "Pearl Reference Pure... Zildjian A Custom & K Custom... Pearl Demon Drive" against `endorsementNews.js:2105+`'s verified rig — fabrication claim checks out. **#6435** — grep confirmed `soundLikeGuides.js:368` (`drumKit.model: 'Sonor Designer Series'`) and lines 400-404 (`pedals: DW / DW 9000 Series`) contradict `extendedBios.js:78,81`'s verified "Sonor SQ2 Heavy Beech" / "Sonor Giant Step Twin Effect Double Pedal" — and contradict the same entry's own `snare.model` field (already correctly "SQ2 Heavy Beech"), confirming the internal-inconsistency signature this whole issue class shares. Searched all-state issues per slug for all 8 — no true duplicates (closed hits are different files/fields already fixed, e.g. Scott Travis has 6 prior closed issues across drummerEvolution/albumArticles/endorsementNews, none touching soundLikeGuides' snare field until #6437). All single- or dual-file, verified-only, zero new pages/URLs (freeze-compliant depth work).
+- **Backlog gate**: 0 → 8, well under the 45/80 threshold; promoted liberally per rule.
+- **GSC content-gap**: same 3 rows as prior runs, positions essentially flat — `metalforge` (613 impr, 0.49% CTR, pos 6.9 — unchanged name-collision ruling from 08-28), `danny carey drum kit` (120 impr, 0.83% CTR, pos 10.4 — modest improvement vs the 08-25 pos-10.8 ceiling-hold, not a regression, held), `joey jordison drum kit` (69 impr, 1.45% CTR, pos 10.1 — consistent with the converting-not-dead pattern, held). No new fix.
+- **L1/L2/L3** (#3810/#2211/#3819): snapshot files still the 2026-08-24 generation (checked `**Generated:**` timestamps: gsc-watch 08:51:42Z, indexation 10:08:13Z) — no fresh weekly refresh yet (due ~08-31). Already fully triaged in prior runs.
+- **Founder ideas**: inbox empty, unchanged since 06-19.
+- **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 — all `updatedAt` unchanged, no re-spam.
+- **Stale-issue / atomic-split sweep**: same 20 pre-existing `ai-fix` issues re-confirmed `hold`-labeled, freeze-blocked, none eligible. New promotions all single/dual-file, well under the atomic-split trigger.
+- **Starvation check**: post-triage backlog=8, bank=0 (excl. umbrellas) — technically under 15/≤2, but this is the 4th consecutive fresh batch from the SEO Agent in ~3 days — healthy, flowing cadence, not escalating.
+
+### State delta
+- ai-fix backlog: 0 → 8 (#6432-6439)
+- seo-proposal bank (excl. umbrellas): 8 → 0
+- Org/Sessions/Views (7d): 287/321/518 · GSC 7,247 impr/160 clicks/2.21% CTR/pos 9.1 (up vs this morning's 5,897/127/2.15%/9.1)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 8/8 fresh triaged, live-verified (2 direct + 6 pattern-match), promoted, no duplicates, freeze-compliant. ✅ GSC-gap: 3 rows re-confirmed held, no new fix. ✅ L1/L2/L3: no fresh snapshot since 08-24, already actioned. ✅ Starvation: technically met but judged healthy (4th batch in ~3 days). ✅ Atomic split: 20 stale issues re-checked, all `hold`-labeled, none eligible; new promotions all atomic. ✅ Decisions logged.
+
+### Next Run
+1. Watch #6432-6439 ship via Roadie/PR Merger.
+2. Watch for the next L1/L2/L3 weekly refresh (last one 08-24, due ~08-31).
+3. Next deep run ~07:00 UTC tomorrow: full metrics + GSC-gap + L1/L2/L3 close-the-loop pass.
+4. If backlog is still <15 with an actually-starved (bank ≤2) proposal supply at the next run, that starts the starvation playbook.
+
+---
+
+---
 ## 2026-08-29 12:19 — Cheap pulse: 7 fresh gear-fabrication proposals promoted (#6399-6405)
 
 ### Context (≤3 lines)

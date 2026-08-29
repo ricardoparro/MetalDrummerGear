@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-29 07:31 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-29 12:19 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,45 +8,45 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 270 |
-| Sessions | 298 |
-| Page views | 489 |
-| Engagement rate | 57.38% |
-| Avg session (s) | 468 |
+| Active users | 276 |
+| Sessions | 306 |
+| Page views | 505 |
+| Engagement rate | 64.38% |
+| Avg session (s) | 453 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 24 | 17 |
+| / | 26 | 19 |
 | /drummers | 21 | 4 |
 | /drummer/danny-carey | 14 | 8 |
+| /drummer/eloy-casagrande | 9 | 7 |
 | /drummer/mario-duplantier | 9 | 8 |
-| /drummer/eloy-casagrande | 8 | 7 |
 | /drummer/joey-jordison | 8 | 5 |
 | /drummer/nicko-mcbrain | 8 | 3 |
+| /drummer/john-otto | 7 | 7 |
+| /drummers/joey-jordison/evolution | 7 | 3 |
 | /drummers/nicko-mcbrain/licks/nicko-mcbrain-the-number-of-the-beast | 7 | 2 |
-| /drummer/john-otto | 6 | 6 |
-| /drummers/abe-cunningham/evolution | 6 | 2 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 222 | 195 |
-| Direct | 61 | 61 |
-| Unassigned | 41 | 38 |
+| Organic Search | 231 | 202 |
+| Direct | 62 | 62 |
+| Unassigned | 15 | 14 |
+| Referral | 3 | 3 |
 | Organic Social | 2 | 1 |
-| Referral | 2 | 2 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
 | United States | 101 | 85 |
 | Brazil | 19 | 19 |
-| United Kingdom | 14 | 13 |
+| United Kingdom | 16 | 13 |
+| China | 13 | 13 |
 | India | 13 | 11 |
+| Canada | 12 | 12 |
 | Germany | 12 | 11 |
-| Canada | 11 | 11 |
-| China | 11 | 11 |
 | France | 10 | 10 |
 | Australia | 8 | 8 |
 | Argentina | 7 | 7 |

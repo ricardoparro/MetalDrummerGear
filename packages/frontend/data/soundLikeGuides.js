@@ -7848,7 +7848,7 @@ This guide covers Grossmann's technique in depth — classical influences, open-
     genre: 'Progressive Metal',
     priority: 29,
     title: "How to Sound Like Mike Portnoy: Complete Gear & Technique Guide",
-    description: "Master Mike Portnoy's Dream Theater drum sound. Learn his odd-time mastery, orchestral dynamics, complex fills, and the Pearl / Meinl Byzance / Axis setup behind Images and Words, Scenes From a Memory, and Train of Thought.",
+    description: "Master Mike Portnoy's Dream Theater drum sound. Learn his odd-time mastery, orchestral dynamics, complex fills, and the Tama / Sabian / Promark setup behind Images and Words, Scenes From a Memory, and Train of Thought.",
     seoKeywords: ['mike portnoy drumming', 'how to sound like mike portnoy', 'dream theater drums', 'mike portnoy gear', 'mike portnoy technique', 'mike portnoy drum kit', 'progressive metal drumming', 'dream theater drum sound'],
     ogImage: '/images/guides/mike-portnoy-guide.webp',
     datePublished: '2026-06-25',
@@ -7864,12 +7864,12 @@ What separates Portnoy from other technical metal drummers is his compositional 
 
 Portnoy's technical foundation is enormous: he studied jazz and classical percussion, and his command of ghost notes, polyrhythm, and brush technique alongside blast beats and double-bass patterns reflects a drum education well beyond metal. This breadth is audible on every Dream Theater recording — the quiet passages are as sophisticated as the loud ones.
 
-This guide covers Portnoy's core technique — odd-time navigation, orchestral dynamic range, fill vocabulary — and his Pearl / Meinl Byzance / Axis pedal setup from the peak Dream Theater era.`,
+This guide covers Portnoy's core technique — odd-time navigation, orchestral dynamic range, fill vocabulary — and his Tama / Sabian / Promark setup from the peak Dream Theater era.`,
       keyPoints: [
         "Co-founded Dream Theater in 1985; primary creative force behind 11 studio albums before leaving in 2010 (rejoined 2023)",
         "Defined progressive metal drumming: drum parts built as compositional architecture, not just time-keeping support",
         "Odd-time mastery — 7/8, 11/8, 12/8, mixed meters — played with musical naturalism, never academic stiffness",
-        "Pearl drums, Meinl Byzance cymbals, and Axis double pedals form the core of his signature sound"
+        "Tama drums, Sabian cymbals, and Promark sticks form the core of his signature sound"
       ]
     },
     technique: {
@@ -7923,54 +7923,48 @@ This guide covers Portnoy's core technique — odd-time navigation, orchestral d
       ]
     },
     gear: {
-      title: "Mike's Pearl / Meinl Byzance / Axis Setup",
+      title: "Mike's Tama / Sabian / Promark Setup",
       drumKit: {
-        brand: 'Pearl',
-        model: 'Pearl Reference Pure',
-        shells: 'All-maple',
+        brand: 'Tama',
+        model: 'Tama Starclassic',
+        shells: 'Maple / Bubinga',
         finish: 'Custom configurations (varied per era)',
         config: {
           kick: '22" x 18" Bass Drums (x2)',
-          snare: '14" x 6.5" Pearl Free-Floating',
+          snare: '14" x 5.5" Tama Signature Melody Master',
           toms: ['8" x 7" Rack Tom', '10" x 8" Rack Tom', '12" x 9" Rack Tom'],
           floorToms: ['14" x 14" Floor Tom', '16" x 16" Floor Tom', '18" x 16" Floor Tom']
         },
-        description: "Portnoy used Pearl drums for most of his Dream Theater career, primarily the Pearl Reference series. His large multi-tom setup reflects compositional thinking: each drum serves a specific role in the arrangement's register, from the high 8\" rack tom for upper-range accents to the deep 18\" floor tom for bass-register punctuation. The all-maple Reference Pure delivers warm attack with excellent projection across the full dynamic range.",
-        affiliateNote: "Pearl Export Select or Pearl Session Studio Select are accessible alternatives with comparable maple character and multi-tom expansion options."
+        description: "Portnoy has been a Tama endorser since the 1980s — one of the longest-running Tama endorsements in metal, renewed in 2023 when he rejoined Dream Theater. His large multi-tom setup reflects compositional thinking: each drum serves a specific role in the arrangement's register, from the high 8\" rack tom for upper-range accents to the deep 18\" floor tom for bass-register punctuation. The Starclassic series delivers warm attack with excellent projection across the full dynamic range.",
+        affiliateNote: "Tama Superstar or Tama Imperialstar are accessible alternatives with comparable multi-tom expansion options."
       },
       snare: {
-        brand: 'Pearl',
-        model: 'Pearl Free-Floating 14" x 6.5"',
-        size: '14" x 6.5"',
-        shell: 'Maple or Steel (context-dependent)',
-        description: "Portnoy has used various Pearl snares including the Free-Floating series. The 6.5\" depth provides more volume and body than a shallow snare — essential for Dream Theater's wide dynamic range, where the snare must be heard at both whisper-quiet and maximum-volume sections. The Free-Floating mounting system isolates the shell for more resonance and a livelier tone.",
-        alternative: "Pearl Sensitone Heritage Alloy 14\" x 6.5\" or Ludwig Supraphonic for comparable articulation"
+        brand: 'Tama',
+        model: 'Tama Mike Portnoy Signature Melody Master',
+        size: '14" x 5.5"',
+        shell: 'Maple',
+        description: "Portnoy plays his signature Tama Mike Portnoy Melody Master snare. It's built to be heard across Dream Theater's wide dynamic range, where the snare must cut through both whisper-quiet and maximum-volume sections.",
+        alternative: "Tama Starclassic Maple 14\" x 5.5\" or Ludwig Supraphonic for comparable articulation"
       },
       cymbals: {
-        brand: 'Meinl',
-        series: 'Meinl Byzance Traditional Series',
+        brand: 'Sabian',
+        series: 'Sabian HHX MAX / AAX MAXX Series',
         setup: [
-          { type: 'Hi-Hats', model: 'Meinl 14" Byzance Traditional Medium Hi-Hats', notes: 'Musical, full sound for complex hi-hat patterns' },
-          { type: 'Crash', model: 'Meinl 18" Byzance Traditional Medium Crash', notes: 'Warm explosive crash for section transitions' },
-          { type: 'Crash', model: 'Meinl 20" Byzance Traditional Medium Crash', notes: 'Larger crash for climactic moments' },
-          { type: 'Ride', model: 'Meinl 22" Byzance Traditional Medium Ride', notes: 'Full, musical ride for groove sections' },
-          { type: 'China', model: 'Meinl 18" Byzance China', notes: 'Trashy accent for aggressive sections' },
-          { type: 'Splash', model: 'Meinl 10" Byzance Splash', notes: 'Quick-decay accent for compositional color' }
+          { type: 'Hi-Hats', model: 'Sabian HHX Hi-Hats', notes: 'Musical, full sound for complex hi-hat patterns' },
+          { type: 'Crash', model: 'Sabian AAX X-Plosion Crash', notes: 'Warm explosive crash for section transitions' },
+          { type: 'Crash', model: 'Sabian HHX X-Plosion Crash', notes: 'Larger crash for climactic moments' },
+          { type: 'Ride', model: 'Sabian 22" HHX MAX Ride', notes: 'Full, musical ride for groove sections' },
+          { type: 'China', model: 'Sabian HHX China', notes: 'Trashy accent for aggressive sections' },
+          { type: 'Splash', model: 'Sabian AAX MAXX Splash', notes: 'Quick-decay accent for compositional color' }
         ],
-        description: "Portnoy has been associated with Meinl Byzance cymbals, which suit his prog metal approach ideally. The Byzance Traditional series offers warm, musical character with complex overtones — unlike bright, cutting cymbals designed for dense mixes, Byzance provides coloristic nuance that serves prog metal's wide dynamic range from intimate to thunderous."
-      },
-      pedals: {
-        brand: 'Axis',
-        model: 'Axis A21 Double Pedal',
-        description: "Portnoy has been a long-time Axis pedal advocate. The Axis A21's direct-drive mechanism delivers exceptional speed and response with virtually zero lag — ideal for technically demanding double-bass passages in prog metal. The linear drive gives very consistent feel at all speeds, critical for maintaining groove pocket during fast 16th-note double-bass runs.",
-        alternative: "DW 9000 or Tama Iron Cobra 900 for comparable direct-drive feel"
+        description: "Portnoy has been a long-term Sabian artist since the 1980s, with his own signature cymbals in the line. His HHX MAX / AAX MAXX setup suits his prog metal approach ideally — warm, musical character with complex overtones that serves prog metal's wide dynamic range from intimate to thunderous."
       },
       sticks: {
-        brand: 'Vater',
-        model: 'Vater Mike Portnoy Signature',
-        specs: 'Slightly heavier than 5A, oval tip for ride definition',
-        description: "Portnoy has used Vater sticks including a signature model. The slightly heavier weight than standard 5A provides the additional impact needed for powerful section transitions without sacrificing the control needed for ghost notes and quiet passages.",
-        alternative: "Vic Firth 5B or Vater 5A+ for similar weight and feel"
+        brand: 'Promark',
+        model: 'Promark TXMP420XW-AG (Mike Portnoy ActiveGrip 420X)',
+        specs: 'Oversized 5A, oval tip, heat-activated ActiveGrip coating',
+        description: "Portnoy plays his signature Promark ActiveGrip 420X sticks. The oversized-5A weight provides the additional impact needed for powerful section transitions without sacrificing the control needed for ghost notes and quiet passages.",
+        alternative: "Vic Firth 5B or Promark TX5AW for similar weight and feel"
       },
       heads: {
         kick: 'Evans EQ4 Batter',
@@ -8045,45 +8039,41 @@ This guide covers Portnoy's core technique — odd-time navigation, orchestral d
       budget: {
         price: "$1,200",
         label: "Starter Prog Metal Setup",
-        kit: "Pearl Export Select ($700) or Tama Imperialstar with extra tom ($550)",
-        cymbals: "Meinl Byzance Foundry Reserve selection ($400)",
-        pedals: "Tama Iron Cobra 200 Double ($150) or Pearl P932 ($150)",
-        sticks: "Vater 5A or Vic Firth 5A ($10)",
-        notes: "Pearl Export Select supports a multi-tom layout. Meinl Byzance Foundry Reserve delivers the warm, musical character of Byzance Traditional at an accessible price."
+        kit: "Tama Imperialstar with extra tom ($550)",
+        cymbals: "Sabian SBR selection ($400)",
+        pedals: "Tama Iron Cobra 200 Double ($150)",
+        sticks: "Promark TX5AW or Vic Firth 5A ($10)",
+        notes: "Tama Imperialstar supports a multi-tom layout at an accessible price. Sabian SBR delivers approachable versions of the HHX/AAX character Portnoy plays."
       },
       mid: {
         price: "$3,500",
         label: "Intermediate Prog Setup",
-        kit: "Pearl Session Studio Select ($1,800) — maple/walnut hybrid with large tom config",
-        cymbals: "Meinl Byzance Traditional selection ($1,200)",
-        pedals: "Axis A21 Double Pedal ($500) — Portnoy's actual choice",
-        sticks: "Vater Mike Portnoy Signature ($12)",
+        kit: "Tama Starclassic Performer ($1,800) — birch/maple hybrid with large tom config",
+        cymbals: "Sabian AAX selection ($1,200)",
+        pedals: "Tama Iron Cobra 900 Double ($500)",
+        sticks: "Promark TXMP420XW-AG (Mike Portnoy Signature) ($12)",
         heads: "Evans G2 full set ($200)",
-        notes: "The Axis A21 is Portnoy's actual pedal. Pearl Session Studio Select provides the multi-tom layout essential for prog metal fill vocabulary."
+        notes: "Tama Starclassic Performer provides the multi-tom layout essential for prog metal fill vocabulary; the Promark signature stick is Portnoy's actual model."
       },
       pro: {
         price: "$7,000+",
         label: "Professional Setup",
-        kit: "Pearl Reference Pure ($4,000+) — all-maple, large custom config",
-        cymbals: "Full Meinl Byzance Traditional selection ($2,000+)",
-        pedals: "Axis A21 Double Pedal ($500)",
-        snare: "Pearl Free-Floating 14\" x 6.5\" ($400)",
+        kit: "Tama Starclassic Maple/Bubinga ($4,000+) — large dual-kit custom config",
+        cymbals: "Full Sabian HHX / AAX selection ($2,000+)",
+        pedals: "Tama Iron Cobra Power Glide Twin Pedal ($600)",
+        snare: "Tama Mike Portnoy Signature Melody Master 14\" x 5.5\" ($400)",
         heads: "Full Evans EQ4 / G2 set ($300)",
-        notes: "Pearl Reference Pure is Portnoy's actual endorsement kit. Full Byzance Traditional selection provides the coloristic range prog metal arrangements require."
+        notes: "Tama Starclassic and the Melody Master snare are Portnoy's actual endorsement gear. Full Sabian HHX/AAX selection provides the coloristic range prog metal arrangements require."
       }
     },
     faq: [
       {
         question: "What drum kit does Mike Portnoy use?",
-        answer: "Mike Portnoy has primarily played Pearl drums throughout his Dream Theater career, including the Pearl Reference Pure — Pearl's flagship all-maple professional line. His setup features a large multi-tom configuration: typically three rack toms (8\", 10\", 12\") and three floor toms (14\", 16\", 18\"), plus double 22\" bass drums. He has been a Pearl endorser for most of his career and continues that relationship after rejoining Dream Theater in 2023."
+        answer: "Mike Portnoy has played Tama drums throughout his Dream Theater career — one of the longest-running Tama endorsements in metal, dating back to the 1980s. His setup features a large multi-tom configuration built around the Starclassic series, typically three rack toms (8\", 10\", 12\") and three floor toms (14\", 16\", 18\"), plus double 22\" bass drums. He renewed his Tama endorsement after rejoining Dream Theater in 2023."
       },
       {
         question: "What cymbals does Mike Portnoy play?",
-        answer: "Mike Portnoy has been associated with Meinl Byzance cymbals, which suit progressive metal's wide dynamic range ideally. His setup typically includes 14\" Byzance Traditional Medium hi-hats, 18\" and 20\" crashes, a 22\" ride, an 18\" China, and various splash cymbals for compositional color. The Byzance Traditional series provides warm, complex overtones that give prog metal arrangements the orchestral quality Portnoy seeks."
-      },
-      {
-        question: "What pedals does Mike Portnoy use?",
-        answer: "Mike Portnoy has been a long-time Axis pedal advocate, using the Axis A21 double pedal. The A21's direct-drive mechanism provides exceptional speed and response with virtually no lag — critical for technically demanding double-bass passages in Dream Theater's progressive metal arrangements. The consistent feel at all tempos helps maintain groove pocket during fast 16th-note double-bass runs."
+        answer: "Mike Portnoy has been a long-term Sabian artist since the 1980s, with his own signature cymbals in the line. His setup draws from Sabian's HHX MAX and AAX MAXX series, providing warm, complex overtones that give prog metal arrangements the orchestral quality Portnoy seeks."
       },
       {
         question: "How do I start learning progressive metal drumming like Mike Portnoy?",
@@ -8098,7 +8088,7 @@ This guide covers Portnoy's core technique — odd-time navigation, orchestral d
       drummerProfile: '/drummer/mike-portnoy',
       similarDrummers: ['Danny Carey', 'Gavin Harrison', 'Matt Garstka'],
       relatedGuides: ['how-to-sound-like-danny-carey', 'how-to-sound-like-gavin-harrison', 'how-to-sound-like-matt-garstka'],
-      gearPages: ['/gear/pedals', '/brands/pearl', '/brands/meinl']
+      gearPages: ['/gear/pedals', '/brands/tama', '/brands/sabian']
     },
     licksUrl: '/drummers/mike-portnoy/licks',
     relatedArticles: [

@@ -9235,7 +9235,7 @@ Raatikainen's signature approach involves power stroke hi-hat work, guitar-synch
           toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom'],
           floorToms: ['14" x 14" Floor Tom', '16" x 16" Floor Tom']
         },
-        description: "Jaska Raatikainen was a Pearl endorser throughout Children of Bodom's career, playing Pearl Masters Custom drums. The Masters Custom maple or maple-birch shells provided the warm fundamental tone that complemented Children of Bodom's melodic keyboard lines — warmer than pure birch, with enough attack for the aggressive drumming the music required. The setup follows a classic European melodic death metal configuration with double 22\" kicks and two rack toms.",
+        description: "Jaska Raatikainen played Pearl drums for most of Children of Bodom's career, settling into Pearl Masters Custom in 2004 after an earlier Tama Starclassic era (1999-2004, covering 'Hatebreeder' through 'Hate Crew Deathroll'). The Masters Custom maple or maple-birch shells provided the warm fundamental tone that complemented Children of Bodom's melodic keyboard lines — warmer than pure birch, with enough attack for the aggressive drumming the music required. The setup follows a classic European melodic death metal configuration with double 22\" kicks and two rack toms.",
         affiliateNote: "Pearl Masters Maple Complete or Masters Custom are the closest alternatives; Pearl Reference for professional-level replication."
       },
       snare: {
@@ -9353,11 +9353,11 @@ Raatikainen's signature approach involves power stroke hi-hat work, guitar-synch
       mid: {
         price: "$3,400",
         label: "Intermediate Setup",
-        kit: "Pearl Masters Custom ($1,800) — Jaska's actual kit line",
+        kit: "Pearl Masters Custom ($1,800) — Jaska's kit line since 2004",
         cymbals: "Zildjian A series selection ($1,200)",
         pedals: "Pearl Demon Drive Double ($350) — Pearl's direct-drive option",
         sticks: "Vic Firth 5B ($10)",
-        notes: "Pearl Masters Custom is Jaska's actual kit line. Zildjian A series gives you the bright, cutting character of the Children of Bodom recording catalog."
+        notes: "Pearl Masters Custom is Jaska's kit line since 2004. Zildjian A series gives you the bright, cutting character of the Children of Bodom recording catalog."
       },
       pro: {
         price: "$6,500+",
@@ -9373,7 +9373,7 @@ Raatikainen's signature approach involves power stroke hi-hat work, guitar-synch
     faq: [
       {
         question: "What drum kit did Jaska Raatikainen use?",
-        answer: "Jaska Raatikainen was a Pearl endorser throughout Children of Bodom's career, playing Pearl Masters Custom drums with maple or maple-birch shells. His setup typically featured double 22\" bass drums, two rack toms (10\" and 12\"), and two floor toms (14\" and 16\"). The Pearl Masters Custom maple shells provided the warm attack that suited Children of Bodom's melodic context."
+        answer: "Jaska Raatikainen has played Pearl Masters Custom drums with maple or maple-birch shells since 2004, after an earlier Tama Starclassic era from 1999-2004 that covered 'Hatebreeder' through 'Hate Crew Deathroll.' His setup typically featured double 22\" bass drums, two rack toms (10\" and 12\"), and two floor toms (14\" and 16\"). The Pearl Masters Custom maple shells provided the warm attack that suited Children of Bodom's melodic context."
       },
       {
         question: "What cymbals did Jaska Raatikainen use?",

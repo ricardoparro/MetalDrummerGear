@@ -8452,12 +8452,12 @@ This guide covers Travis's technique across both the extreme Painkiller era and 
         affiliateNote: "ddrum Dominion Series or Pearl Reference for comparable current-era tone; Tama Imperialstar or Superstar Classic for the Painkiller-era Tama character."
       },
       snare: {
-        brand: 'Tama',
-        model: 'Tama Starclassic 14" x 6.5" Maple or Steel',
+        brand: 'ddrum',
+        model: 'ddrum Scott Travis Signature 14" x 6.5"',
         size: '14" x 6.5"',
-        shell: 'Maple or Steel (varies by era/application)',
-        description: "Travis uses Tama snares throughout his career. The 6.5\" depth provides the volume and body needed to project over Priest's loud guitar arrangements. For Painkiller, a steel snare's bright, cutting attack worked ideally for the album's extreme production; for later recordings, a maple snare's warmer crack suits the more dynamic approach.",
-        alternative: "Tama S.L.P. Big Black Steel 14\" x 6.5\" or Pearl Sensitone for comparable depth and cut"
+        shell: 'ddrum signature shell, built to Travis\'s own specifications',
+        description: "Travis's current-era snare is his own ddrum Scott Travis Signature, a 14\" x 6.5\" shell built to his specifications for maximum cut through Priest's dual-guitar attack. The 6.5\" depth provides the volume and body needed to project over Priest's loud guitar arrangements.",
+        alternative: "ddrum Dominion Series snare or Pearl Sensitone for comparable depth and cut"
       },
       cymbals: {
         brand: 'Paiste',

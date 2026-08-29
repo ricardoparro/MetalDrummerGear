@@ -6517,7 +6517,7 @@ Understanding his style means abandoning the impulse toward complexity. Dee's dr
     genre: 'Technical Death Metal / Progressive Metal',
     priority: 25,
     title: "How to Sound Like Sean Reinert: Complete Gear & Technique Guide",
-    description: "Master Sean Reinert's jazz-fusion death metal drumming. Learn his polymetric phrasing, dynamic extremes, Pearl Reference setup, and the techniques behind Death's Human and Cynic's Focus.",
+    description: "Master Sean Reinert's jazz-fusion death metal drumming. Learn his polymetric phrasing, dynamic extremes, Tama Artstar II setup, and the techniques behind Death's Human and Cynic's Focus.",
     seoKeywords: ['sean reinert drumming', 'how to sound like sean reinert', 'death drummer technique', 'sean reinert gear', 'sean reinert technique', 'sean reinert drum kit', 'how to play cynic drumming', 'death human drums', 'cynic focus drums'],
     ogImage: '/images/guides/sean-reinert-guide.webp',
     datePublished: '2026-06-24',
@@ -6536,7 +6536,7 @@ Focus (1993), with Cynic, pushed even further into jazz-fusion territory. Reiner
         "Sean Reinert played on Death's Human (1991) and Cynic's Focus (1993) — two of technical death metal's most influential albums",
         "His technique combined jazz-fusion drumming concepts with death metal intensity and tempo",
         "He brought genuine dynamic range and polymetric phrasing to extreme metal — not just technical speed",
-        "He played Pearl Reference drums with Zildjian A cymbals and Tama Iron Cobra pedals on Human"
+        "He played Tama Artstar II drums with Zildjian A cymbals and Tama Iron Cobra pedals on Human"
       ]
     },
     technique: {
@@ -6590,11 +6590,11 @@ Focus (1993), with Cynic, pushed even further into jazz-fusion territory. Reiner
       ]
     },
     gear: {
-      title: "Sean's Pearl & Zildjian Setup",
+      title: "Sean's Tama & Zildjian Setup",
       drumKit: {
-        brand: 'Pearl',
-        model: 'Pearl Reference',
-        shells: 'All-maple',
+        brand: 'Tama',
+        model: 'Tama Artstar II',
+        shells: 'All-birch',
         finish: 'Various — natural wood and black configurations during Human/Focus era',
         config: {
           kick: '22" x 18" Bass Drum (single) or 22" x 18" x2',
@@ -6602,8 +6602,8 @@ Focus (1993), with Cynic, pushed even further into jazz-fusion territory. Reiner
           toms: ['8" x 8"', '10" x 9"', '12" x 10"'],
           floorToms: ['14" x 14" Floor Tom', '16" x 16" Floor Tom']
         },
-        description: "Reinert played Pearl Reference maple drums during the Human and Focus recording periods — a professional all-maple kit that provided the tonal clarity and warmth suited to both death metal attack and jazz-influenced delicacy. The Pearl Reference's full, resonant maple tone is audible on both records, contributing to the warmth that distinguishes Human's drum sound from the drier, more clinical production of some contemporary death metal. His setup was relatively conventional in configuration — the complexity came from his technique, not from an unconventional setup.",
-        affiliateNote: "Pearl Masters Maple Complete or Pearl Reference Pure are direct descendant alternatives. Pearl Export captures the Pearl maple character at an accessible price point."
+        description: "Reinert played a Tama Artstar II birch shell kit during the Human and Focus recording periods — a professional kit that provided the warm, open resonance suited to both death metal attack and jazz-influenced delicacy. The Artstar II's birch shells deliver a focused, present tone that's audible on both records, contributing to the openness that distinguishes Human's drum sound from the drier, more clinical production of some contemporary death metal. His setup was relatively conventional in configuration — the complexity came from his technique, not from an unconventional setup.",
+        affiliateNote: "Tama Starclassic Performer B/B (birch/bubinga shells) is the closest current equivalent. Tama Imperialstar captures a similar birch-shell character at an accessible price point."
       },
       snare: {
         brand: 'Pearl',
@@ -6710,37 +6710,37 @@ Focus (1993), with Cynic, pushed even further into jazz-fusion territory. Reiner
       budget: {
         price: "$1,100",
         label: "Starter Reinert-Inspired Setup",
-        kit: "Pearl Export ($550) or Mapex Armory ($600)",
+        kit: "Tama Imperialstar ($500) or Mapex Armory ($600)",
         cymbals: "Zildjian A Custom or A Pack ($300) — A Series character is important for his jazz-informed approach",
         pedals: "Tama Iron Cobra 200 Double Pedal ($200)",
         sticks: "Vic Firth 5A ($10)",
-        notes: "Pearl Export shares the Pearl maple character that defines Human's drum sound. Zildjian A cymbals are particularly important at this level — the A Series jazz heritage suits Reinert's approach better than B8-level alternatives."
+        notes: "Tama Imperialstar shares the birch-shell character that defines Human's drum sound. Zildjian A cymbals are particularly important at this level — the A Series jazz heritage suits Reinert's approach better than B8-level alternatives."
       },
       mid: {
         price: "$3,200",
         label: "Intermediate Setup",
-        kit: "Pearl Masters Maple Complete ($1,500)",
+        kit: "Tama Superstar Classic ($1,500)",
         cymbals: "Zildjian 14\" A New Beat Hi-Hats + 16\" and 18\" A Medium Thin Crashes + 20\" A Medium Ride ($1,000)",
         pedals: "Tama Iron Cobra Power Glide Double Pedal ($350)",
         sticks: "Vic Firth 5A ($10)",
         heads: "Remo Emperor Clear Tom Set + Powerstroke P3 Kick ($150)",
-        notes: "Pearl Masters Maple Complete is a direct descendant of Reinert's Pearl Reference — similar maple construction at a more accessible price. The Zildjian A New Beat hi-hats and A Medium Ride are the highest-impact cymbal choices for capturing his sound character."
+        notes: "Tama Superstar Classic shares the birch-shell construction of Reinert's Tama Artstar II — similar tonal character at a more accessible price. The Zildjian A New Beat hi-hats and A Medium Ride are the highest-impact cymbal choices for capturing his sound character."
       },
       pro: {
         price: "$7,000+",
         label: "Professional Setup",
-        kit: "Pearl Reference ($4,000+)",
+        kit: "Tama Starclassic Performer B/B ($4,000+)",
         cymbals: "Full Zildjian A Series setup ($2,500+)",
         pedals: "Tama Iron Cobra Power Glide Double Pedal ($350)",
         snare: "Pearl Sensitone Steel or Free-Floating 14\" x 5.5\" ($350)",
         heads: "Full Remo Emperor/Ambassador set ($180)",
-        notes: "Pearl Reference is the closest modern equivalent to Reinert's Human-era setup. Zildjian A cymbals throughout for the jazz-heritage character that defined his cymbal sound on Human and Focus."
+        notes: "Tama Starclassic Performer B/B (birch/bubinga shells) is the closest modern equivalent to Reinert's Human-era Artstar II setup. Zildjian A cymbals throughout for the jazz-heritage character that defined his cymbal sound on Human."
       }
     },
     faq: [
       {
         question: "What drum kit did Sean Reinert use on Death's Human?",
-        answer: "Sean Reinert played Pearl Reference drums during the Human (1991) recording period — an all-maple professional kit. The Pearl Reference's full, warm maple tone is audible on Human's production, contributing to the organic warmth that distinguishes the album from drier contemporary death metal recordings. He ran a relatively conventional configuration — the musical complexity came from his technique and composition, not from an unusual setup."
+        answer: "Sean Reinert played a Tama Artstar II birch shell kit during the Human (1991) recording period, having switched from his earlier Pearl Export series kit. The Artstar II's warm, open birch tone is audible on Human's production, contributing to the organic warmth that distinguishes the album from drier contemporary death metal recordings. He ran a relatively conventional configuration — the musical complexity came from his technique and composition, not from an unusual setup."
       },
       {
         question: "What cymbals did Sean Reinert use on Human?",
@@ -6763,7 +6763,7 @@ Focus (1993), with Cynic, pushed even further into jazz-fusion territory. Reiner
       drummerProfile: '/drummer/sean-reinert',
       similarDrummers: ['Brann Dailor', 'Matt Garstka', 'Mike Mangini'],
       relatedGuides: ['how-to-sound-like-brann-dailor', 'how-to-sound-like-matt-garstka', 'how-to-sound-like-mike-mangini'],
-      gearPages: ['/gear/pedals', '/brands/pearl', '/brands/zildjian']
+      gearPages: ['/gear/pedals', '/brands/tama', '/brands/zildjian']
     },
     licksUrl: '/drummers/sean-reinert/licks',
     relatedArticles: [

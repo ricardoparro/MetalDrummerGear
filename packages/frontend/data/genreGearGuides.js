@@ -5971,7 +5971,7 @@ The LU1465 became the new standard for modern thrash tone. Its steel constructio
           
           description: `The Pearl Sensitone Elite Brass is the secret weapon of many thrash drummers who want cut without harshness. Brass shells provide the projection of metal with a warmer, more musical fundamental that sits perfectly in a mix.
 
-This 14"x5" configuration excels at fast playing—the shallower depth provides snappier response for rapid-fire 16th notes. Charlie Benante of Anthrax has used Pearl brass snares extensively, proving that brass belongs in thrash as much as steel.`,
+This 14"x5" configuration excels at fast playing—the shallower depth provides snappier response for rapid-fire 16th notes. Vinnie Paul of Pantera favored Pearl brass snares, proving that brass belongs in thrash and groove metal as much as steel.`,
           
           pros: [
             "Brass warmth with metal projection",
@@ -5993,7 +5993,6 @@ This 14"x5" configuration excels at fast playing—the shallower depth provides 
             throwOff: "SR-1000 strainer"
           },
           usedBy: [
-            { name: "Charlie Benante", band: "Anthrax", note: "Long-time Pearl endorser" },
             { name: "Vinnie Paul", band: "Pantera/Hellyeah", note: "Groove metal legend" }
           ],
           bestFor: "Fast thrash, crossover, drummers wanting warmth with cut"

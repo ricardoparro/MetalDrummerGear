@@ -137,7 +137,7 @@ export const drummerComparisons = {
     comparison: {
       style: 'Hellhammer defines Norwegian black metal with cold, precise aggression. Inferno brings Polish death/black metal intensity with technical flair.',
       technique: 'Hellhammer pioneered black metal blast beats with signature one-foot technique. Inferno combines blast beats with death metal complexity.',
-      gear: 'Hellhammer plays Pearl drums with focus on power. Inferno uses Pearl with emphasis on speed and projection.',
+      gear: 'Hellhammer plays Sonor drums with focus on power. Inferno uses Pearl with emphasis on speed and projection.',
       influence: 'Hellhammer defined the second wave black metal sound. Inferno pushed black metal drumming into more technical territory.',
     },
     verdict: 'Hellhammer is the blueprint for black metal drumming. Inferno evolved it with death metal technicality. Both are essential to extreme metal.',

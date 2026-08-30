@@ -9642,7 +9642,7 @@ This guide breaks down the technique, gear, and practice approach behind Hellham
     genre: 'Death Metal',
     priority: 36,
     title: "How to Sound Like Paul Mazurkiewicz: Complete Gear & Technique Guide",
-    description: "Master Paul Mazurkiewicz's brutal death metal drumming. Learn his traditional-grip blast technique, Cannibal Corpse groove approach, Tama setup, and the practice system behind decades of brutal precision.",
+    description: "Master Paul Mazurkiewicz's brutal death metal drumming. Learn his traditional-grip blast technique, Cannibal Corpse groove approach, Pearl setup, and the practice system behind decades of brutal precision.",
     seoKeywords: ['paul mazurkiewicz drums', 'how to sound like paul mazurkiewicz', 'cannibal corpse drummer', 'paul mazurkiewicz technique', 'death metal drumming', 'paul mazurkiewicz gear'],
     ogImage: '/images/guides/paul-mazurkiewicz-guide.webp',
     datePublished: '2026-06-26',
@@ -9710,26 +9710,26 @@ This guide breaks down the technique, gear, and practice approach behind Mazurki
     gear: {
       title: "Mazurkiewicz's Gear Setup",
       drumKit: {
-        brand: 'Tama',
-        model: 'Tama Starclassic',
-        shells: 'Birch/Maple',
-        finish: 'Custom dark finish',
+        brand: 'Pearl',
+        model: 'Pearl Masters Maple Complete',
+        shells: 'Maple',
+        finish: 'Maple Complete finish',
         config: {
           kick: '22" x 18" Bass Drums (x2)',
-          snare: '14" x 6.5" Steel Snare',
+          snare: '14" x 6.5" Maple Snare',
           toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom', '13" x 10" Rack Tom'],
           floorToms: ['16" x 16" Floor Tom', '18" x 16" Floor Tom']
         },
-        description: "Mazurkiewicz favors punchy, articulate Tama kits that deliver attack and projection for brutal death metal. The setup is built for clarity at speed and heaviness in the groove sections.",
-        affiliateNote: "Tama Superstar Classic or Imperialstar provide similar attack at lower cost."
+        description: "Mazurkiewicz favors his punchy, articulate Pearl Masters Maple Complete kit that delivers attack and projection for brutal death metal. The setup is built for clarity at speed and heaviness in the groove sections.",
+        affiliateNote: "Pearl Export or Decade Maple provide similar attack at lower cost."
       },
       snare: {
-        brand: 'Tama',
-        model: 'Steel Snare',
+        brand: 'Pearl',
+        model: 'Pearl Masters 14"x6.5" Maple',
         size: '14" x 6.5"',
-        shell: 'Steel',
-        description: "A deep steel snare tuned for a powerful, cutting crack that drives Cannibal Corpse's relentless patterns. The depth adds body to the brutal mid-tempo grooves while staying sharp at speed.",
-        alternative: "Tama SLP Steel or Pearl Sensitone Steel for similar cut"
+        shell: 'Maple',
+        description: "A Pearl Masters maple snare tuned bright and tight for a powerful, cutting crack that drives Cannibal Corpse's relentless patterns and cuts through down-tuned guitars.",
+        alternative: "Pearl Sensitone Maple for similar cut"
       },
       cymbals: {
         brand: 'Sabian',
@@ -9744,10 +9744,10 @@ This guide breaks down the technique, gear, and practice approach behind Mazurki
         description: "Mazurkiewicz uses bright, cutting cymbals that punch through Cannibal Corpse's dense, downtuned guitars. Fast, explosive crashes suit the relentless accents of brutal death metal."
       },
       pedals: {
-        brand: 'Tama',
-        model: 'Tama Iron Cobra Double Pedal',
-        description: "Mazurkiewicz uses Tama Iron Cobra pedals for their power and reliability. Because his style leans on hand-led blasts and skank beats rather than constant double bass, he favors a solid, powerful feel over an ultra-light action.",
-        alternative: "Tama Speed Cobra or Pearl Eliminator for similar feel"
+        brand: 'Pearl',
+        model: 'Pearl Demon Drive Double Pedal',
+        description: "Mazurkiewicz drives his locomotive double bass technique with a Pearl Demon Drive double pedal, chosen for its power and reliability. Because his style leans on hand-led blasts and skank beats rather than constant double bass, he favors a solid, powerful feel over an ultra-light action.",
+        alternative: "Pearl Eliminator for similar feel"
       },
       sticks: {
         brand: 'Vic Firth',
@@ -9757,10 +9757,10 @@ This guide breaks down the technique, gear, and practice approach behind Mazurki
         alternative: "Promark 5B or Vater Power 5B"
       },
       heads: {
-        kick: 'Remo Powerstroke P3 Clear',
-        snare: 'Remo Ambassador X Coated',
-        toms: 'Remo Emperor Clear',
-        resonant: 'Remo Ambassador Clear'
+        kick: 'Evans',
+        snare: 'Evans',
+        toms: 'Evans',
+        resonant: 'Evans'
       }
     },
     tuning: {
@@ -9775,7 +9775,7 @@ This guide breaks down the technique, gear, and practice approach behind Mazurki
       snare: {
         tension: "Medium-high",
         muffling: "Minimal",
-        description: "The deep steel snare is tuned for a powerful crack with enough body to drive the brutal mid-tempo grooves. Not as cranked as a pure black metal snare — Mazurkiewicz wants weight as well as cut.",
+        description: "The maple snare is tuned bright and tight for a powerful crack with enough body to drive the brutal mid-tempo grooves. Not as cranked as a pure black metal snare — Mazurkiewicz wants weight as well as cut.",
         tip: "Tune the batter a few turns above finger-tight. Keep wires medium-tight for a crisp, fast response."
       },
       toms: {
@@ -9821,28 +9821,28 @@ This guide breaks down the technique, gear, and practice approach behind Mazurki
       budget: {
         price: "$1,000",
         label: "Starter Setup",
-        kit: "Tama Imperialstar ($600)",
+        kit: "Pearl Export ($600)",
         cymbals: "Sabian B8X Pack ($250)",
-        pedals: "Tama Iron Cobra 200 Double ($150)",
+        pedals: "Pearl Powershifter Single ($80)",
         sticks: "Vic Firth 5B ($10)",
-        notes: "Tama's entry-level kit delivers the punchy attack brutal death metal needs."
+        notes: "Pearl's entry-level kit delivers the punchy attack brutal death metal needs."
       },
       mid: {
         price: "$3,000",
         label: "Intermediate Setup",
-        kit: "Tama Superstar Classic ($1,500)",
+        kit: "Pearl Decade Maple ($1,500)",
         cymbals: "Sabian AAX Set ($900)",
-        pedals: "Tama Iron Cobra 600 Double ($300)",
+        pedals: "Pearl Eliminator Double ($300)",
         sticks: "Vic Firth 5B ($10)",
         notes: "Getting close to Mazurkiewicz's tone. AAX cymbals cut cleanly through downtuned guitars."
       },
       pro: {
         price: "$5,500+",
         label: "Professional Setup",
-        kit: "Tama Starclassic ($3,000+)",
+        kit: "Pearl Masters Maple Complete ($3,000+)",
         cymbals: "Full Sabian AAX selection ($1,800+)",
-        pedals: "Tama Speed Cobra or Iron Cobra Power Glide ($350)",
-        heads: "Full Remo setup ($150)",
+        pedals: "Pearl Demon Drive Double ($350)",
+        heads: "Full Evans setup ($150)",
         notes: "Recording and touring-ready setup matching Cannibal Corpse's brutal sound."
       }
     },
@@ -9857,11 +9857,11 @@ This guide breaks down the technique, gear, and practice approach behind Mazurki
       },
       {
         question: "What drums and cymbals does Mazurkiewicz use?",
-        answer: "Mazurkiewicz has long played Tama drums with a punchy, articulate setup built for attack and projection, paired with bright Sabian cymbals that cut through downtuned guitars. He favors heavier sticks for power and a solid pedal feel suited to his hand-led approach."
+        answer: "Mazurkiewicz has long played Pearl drums — a Pearl Masters Maple Complete kit with a matching Pearl Masters maple snare — built for attack and projection, paired with bright Sabian cymbals that cut through downtuned guitars. He favors heavier sticks for power and a solid pedal feel suited to his hand-led approach."
       },
       {
         question: "How do I get the Cannibal Corpse drum sound?",
-        answer: "Tune the kick for a clicky attack with heavy muffling, use a deep steel snare tuned for a powerful crack with body, and keep toms punchy. Most importantly, lock every pattern tightly to the guitar riff — the brutal heaviness comes from the drum/guitar unison, not just the tone."
+        answer: "Tune the kick for a clicky attack with heavy muffling, use a maple snare tuned bright and tight for a powerful crack with body, and keep toms punchy. Most importantly, lock every pattern tightly to the guitar riff — the brutal heaviness comes from the drum/guitar unison, not just the tone."
       },
       {
         question: "Which Cannibal Corpse songs should I study first?",

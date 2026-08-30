@@ -110829,13 +110829,13 @@ Whatever you choose, prioritize structural load capacity and precise memory lock
       title: "Why Metalcore Hardware Has to Survive Real Touring Abuse",
       content: `Metalcore drumming swings between two extremes within a single song — fast, technical verse patterns and blast beats, followed by a sudden drop into a slow, maximum-impact breakdown where every hit lands with full force. That dynamic range, combined with metalcore's famously relentless touring schedules, means hardware has to survive both the physical shock of breakdown-heavy playing and the real-world wear of constant load-ins, van tours, and daily setup/teardown.
 
-Matt Greiner of August Burns Red anchors his kit with a Pearl Demon Drive double pedal, built to hold up through ABR's technically dense, Grammy-nominated catalog and its accompanying touring schedule. Alex Bent, who brought technical death metal precision to Trivium, relies on Axis Percussion hardware chosen for its reliability across genuinely demanding, high-impact material. Jay Weinberg, who stepped into Slipknot's famously punishing live show before joining Suicidal Tendencies, depends on a Pearl Demon Drive double pedal and Pearl D-2000 throne engineered to survive one of metal's most physically aggressive touring environments night after night.
+Matt Greiner of August Burns Red anchors his kit with a DW 9000 Series double pedal, built to hold up through ABR's technically dense, Grammy-nominated catalog and its accompanying touring schedule. Alex Bent, who brought technical death metal precision to Trivium, relies on Axis Percussion hardware chosen for its reliability across genuinely demanding, high-impact material. Jay Weinberg, who stepped into Slipknot's famously punishing live show before joining Suicidal Tendencies, depends on DW hardware engineered to survive one of metal's most physically aggressive touring environments night after night.
 
 This guide breaks down what actually separates hardware that survives real metalcore touring abuse from stands that merely look tough, which specific hardware the genre's most demanding players actually rely on, and where to spend versus where to save.`,
       keyPoints: [
         "Metalcore's breakdown-to-blast-beat dynamic range demands hardware that survives both maximum-impact hits and constant touring wear",
-        "Matt Greiner's Pearl hardware has held up through August Burns Red's Grammy-nominated catalog and touring schedule",
-        "Jay Weinberg's Pearl hardware is proven across one of metal's most physically aggressive live shows",
+        "Matt Greiner's DW hardware has held up through August Burns Red's Grammy-nominated catalog and touring schedule",
+        "Jay Weinberg's DW hardware is proven across one of metal's most physically aggressive live shows",
         "Alex Bent's Axis Percussion hardware reflects a technical death metal-informed demand for absolute reliability"
       ]
     },
@@ -110853,7 +110853,7 @@ This guide breaks down what actually separates hardware that survives real metal
         {
           name: "Real Touring Durability",
           icon: "🛡️",
-          description: "Metalcore bands tour relentlessly, and hardware has to survive real road conditions — load-ins, rough stages, and daily setup/teardown — not just studio use. Jay Weinberg's Pearl hardware and Matt Greiner's Pearl-anchored rig have both been proven across genuinely demanding touring schedules.",
+          description: "Metalcore bands tour relentlessly, and hardware has to survive real road conditions — load-ins, rough stages, and daily setup/teardown — not just studio use. Jay Weinberg's DW hardware and Matt Greiner's DW-anchored rig have both been proven across genuinely demanding touring schedules.",
           recommendation: "Choose hardware with a proven touring track record over specs alone if you're gigging regularly"
         },
         {
@@ -110929,9 +110929,9 @@ For a band playing four club dates a week, the 5000 Series breaks down quickly a
           tier: "mid",
           material: "Double-braced round base",
 
-          description: `Jay Weinberg's Pearl D-2000 throne has been proven across one of metal's most physically demanding live shows — Slipknot's relentlessly aggressive, high-impact performances. A wide, double-braced base and locking height collar keep the throne planted through metalcore's hardest breakdown hits.
+          description: `The Pearl D-2000 has earned its reputation on some of metal's most physically demanding live shows, where breakdown-heavy playing puts single, maximum-force hits through the throne night after night. A wide, double-braced base and locking height collar keep the throne planted through metalcore's hardest breakdown hits.
 
-Matt Greiner's Pearl-anchored kit shares the same brand philosophy, prioritizing hardware that survives ABR's demanding technical and touring schedule without complaint.`,
+It's a proven choice for any touring metalcore drummer who needs a throne that survives ABR-level technical and touring demands without complaint.`,
 
           pros: [
             "Proven across one of metal's most physically demanding live shows",
@@ -110951,7 +110951,7 @@ Matt Greiner's Pearl-anchored kit shares the same brand philosophy, prioritizing
             weight: "Medium"
           },
           usedBy: [
-            { name: "Jay Weinberg", band: "Slipknot / Suicidal Tendencies", note: "Pearl throne proven across one of metal's most physically demanding shows" }
+            { name: "Touring metalcore drummers", band: "Various", note: "Proven across some of metal's most physically demanding live shows" }
           ],
           verdict: "The throne choice proven under metalcore and nu-metal's most physically aggressive touring shows.",
           rating: 4.6,
@@ -111147,7 +111147,7 @@ For a metalcore drummer building a first serious touring rig, the Armory pack de
         {
           category: "Best Throne",
           pedal: "Pearl D-2000 Throne",
-          reason: "Proven under Jay Weinberg's one of metal's most physically demanding live shows."
+          reason: "Proven under some of metal's most physically demanding live shows."
         },
         {
           category: "Best for Wider Cymbal Spreads",
@@ -111170,23 +111170,23 @@ For a metalcore drummer building a first serious touring rig, the Armory pack de
       'best-drum-triggers-for-metalcore'
     ],
     relatedDrummers: [
-      { slug: 'matt-greiner', name: 'Matt Greiner', reason: 'Pearl hardware proven across August Burns Red\'s demanding tour schedule' },
+      { slug: 'matt-greiner', name: 'Matt Greiner', reason: 'DW hardware proven across August Burns Red\'s demanding tour schedule' },
       { slug: 'alex-bent', name: 'Alex Bent', reason: 'Axis Percussion hardware for technical, high-impact reliability' },
-      { slug: 'jay-weinberg', name: 'Jay Weinberg', reason: 'Pearl hardware proven under one of metal\'s most physically demanding shows' }
+      { slug: 'jay-weinberg', name: 'Jay Weinberg', reason: 'DW hardware proven under one of metal\'s most physically demanding shows' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
-      { slug: 'matt-greiner', name: 'Matt Greiner', reason: 'Pearl hardware built to survive ABR\'s touring schedule' },
+      { slug: 'matt-greiner', name: 'Matt Greiner', reason: 'DW hardware built to survive ABR\'s touring schedule' },
       { slug: 'alex-bent', name: 'Alex Bent', reason: 'Axis Percussion hardware for high-impact reliability' },
-      { slug: 'jay-weinberg', name: 'Jay Weinberg', reason: 'Pearl hardware surviving one of metal\'s toughest live shows' }
+      { slug: 'jay-weinberg', name: 'Jay Weinberg', reason: 'DW hardware surviving one of metal\'s toughest live shows' }
     ],
 
     // FAQ section for SEO
     faq: [
       {
         question: "What hardware do metalcore drummers use?",
-        answer: "Touring metalcore drummers favor durable, breakdown-rated hardware — Matt Greiner and Jay Weinberg both anchor their kits with Pearl Demon Drive double pedals, Jay Weinberg pairs his with a Pearl D-2000 throne, and Alex Bent relies on Axis Percussion hardware for high-impact reliability."
+        answer: "Touring metalcore drummers favor durable, breakdown-rated hardware — Matt Greiner and Jay Weinberg both anchor their kits with DW double pedals, and Alex Bent relies on Axis Percussion hardware for high-impact reliability."
       },
       {
         question: "Do I need touring-grade hardware for metalcore?",
@@ -111197,8 +111197,8 @@ For a metalcore drummer building a first serious touring rig, the Armory pack de
         answer: "Most don't — a standard 4-5 piece metalcore kit is well served by a compact standalone pack that breaks down quickly for daily touring. A rack system like Gibraltar's Road Series only becomes worthwhile once your cymbal spread grows wider than a typical metalcore setup."
       },
       {
-        question: "What throne does Jay Weinberg use?",
-        answer: "Jay Weinberg plays a Pearl D-2000 Roadster throne, proven across Slipknot's famously physically demanding live show — a wide, double-braced base and locking height collar that stays planted through the hardest, most aggressive playing."
+        question: "What hardware does Jay Weinberg use?",
+        answer: "Jay Weinberg uses DW hardware, proven across Slipknot's famously physically demanding live show and now his touring schedule with Suicidal Tendencies."
       },
       {
         question: "Is budget hardware reliable enough for metalcore touring?",

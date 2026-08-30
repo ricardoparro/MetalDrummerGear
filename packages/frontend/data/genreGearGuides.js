@@ -112770,7 +112770,7 @@ The 400 Series' double-braced legs and secure locks hold a growing symphonic met
           tier: "pro",
           material: "Double-braced heavy-gauge steel",
 
-          description: `Jaska Raatikainen's keyboard-orchestrated Children of Bodom arrangements demand hardware precise enough to keep an elaborate, multi-cymbal setup exactly positioned through technically demanding passages, and DW's 9000 Series delivers that with oversized tripod bases and reinforced tension bolts.
+          description: `Elaborate, multi-cymbal symphonic metal setups demand hardware precise enough to stay exactly positioned through technically demanding passages, and DW's 9000 Series delivers that with oversized tripod bases and reinforced tension bolts.
 
 The memory-lock system lets a drummer rebuild an identical, precise setup at every stop of a tour — critical when symphonic metal's orchestrated arrangements depend on exact cymbal and auxiliary percussion placement.`,
 
@@ -112794,7 +112794,7 @@ The memory-lock system lets a drummer rebuild an identical, precise setup at eve
             weight: "Heavy"
           },
           usedBy: [
-            { name: "Jaska Raatikainen", band: "Children of Bodom", note: "Precise placement for keyboard-orchestrated, multi-cymbal arrangements" }
+            { name: "Touring symphonic metal drummers", band: "Various", note: "Touring-grade precision for elaborate, multi-cymbal setups" }
           ],
           verdict: "Precision hardware for symphonic metal's most elaborate, orchestrated cymbal layouts.",
           rating: 4.7,
@@ -112940,7 +112940,7 @@ For a symphonic metal drummer building their first setup with room to grow, the 
       { slug: 'daray', name: 'Daray', reason: 'Gibraltar rack carrying Dimmu Borgir\'s orchestral-scale cymbal array' },
       { slug: 'hellhammer', name: 'Hellhammer', reason: 'Pearl hardware bridging blast-beat extremity and symphonic grandeur' },
       { slug: 'frost', name: 'Frost', reason: 'Expandable Sonor hardware for dynamic blast beat and orchestral sections' },
-      { slug: 'jaska-raatikainen', name: 'Jaska Raatikainen', reason: 'DW precision for keyboard-orchestrated, multi-cymbal arrangements' }
+      { slug: 'jaska-raatikainen', name: 'Jaska Raatikainen', reason: 'Precise hardware for keyboard-orchestrated, multi-cymbal arrangements' }
     ],
 
     // Featured drummers (issue template)
@@ -112948,14 +112948,14 @@ For a symphonic metal drummer building their first setup with room to grow, the 
       { slug: 'daray', name: 'Daray', reason: 'Expandable rack for orchestral-scale cymbal array' },
       { slug: 'hellhammer', name: 'Hellhammer', reason: 'Hardware bridging blast beats and orchestration' },
       { slug: 'frost', name: 'Frost', reason: 'Expandable Sonor line for dynamic setups' },
-      { slug: 'jaska-raatikainen', name: 'Jaska Raatikainen', reason: 'DW precision for multi-cymbal arrangements' }
+      { slug: 'jaska-raatikainen', name: 'Jaska Raatikainen', reason: 'Precise hardware for multi-cymbal arrangements' }
     ],
 
     // FAQ section for SEO
     faq: [
       {
         question: "What hardware do symphonic metal drummers use?",
-        answer: "Symphonic metal drummers often need more hardware than a standard extreme metal kit. Daray runs an expandable Gibraltar Road Series rack to carry Dimmu Borgir's orchestral-scale cymbal array, Hellhammer relies on durable Pearl hardware that bridges Mayhem's raw extremity and Dimmu Borgir's grander productions, Frost uses expandable Sonor hardware with Satyricon, and Jaska Raatikainen depends on precise DW hardware for Children of Bodom's multi-cymbal arrangements."
+        answer: "Symphonic metal drummers often need more hardware than a standard extreme metal kit. Daray runs an expandable Gibraltar Road Series rack to carry Dimmu Borgir's orchestral-scale cymbal array, Hellhammer relies on durable Pearl hardware that bridges Mayhem's raw extremity and Dimmu Borgir's grander productions, Frost uses expandable Sonor hardware with Satyricon, and Jaska Raatikainen depends on precise hardware to keep Children of Bodom's multi-cymbal arrangements exactly positioned."
       },
       {
         question: "Do I need a rack system for symphonic metal?",

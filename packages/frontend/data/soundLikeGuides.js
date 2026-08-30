@@ -1407,11 +1407,10 @@ Mastering Tomas's style requires understanding polyrhythms at a deep level and d
         alternative: "Tama Speed Cobra or Iron Cobra single pedals"
       },
       sticks: {
-        brand: 'Vic Firth',
-        model: 'Vic Firth Tomas Haake Signature',
+        brand: 'Wincent',
+        model: 'Wincent Tomas Haake Signature',
         specs: 'Extended length with barrel tip',
         description: "Tomas's signature stick is slightly longer for reach and has a barrel tip for consistent cymbal response.",
-        alternative: "Vic Firth 5B or American Classic"
       },
       heads: {
         kick: 'Remo Powerstroke P3 Clear',
@@ -1502,7 +1501,7 @@ Mastering Tomas's style requires understanding polyrhythms at a deep level and d
         kit: "Sonor AQ2 ($2,000)",
         cymbals: "Sabian AAX Set ($1,200)",
         pedals: "Two Tama Speed Cobra single pedals ($500)",
-        sticks: "Vic Firth Tomas Haake ($15)",
+        sticks: "Wincent Tomas Haake Signature ($15)",
         notes: "Getting into professional Sonor territory."
       },
       pro: {

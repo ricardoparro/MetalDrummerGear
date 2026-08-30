@@ -69,7 +69,7 @@ export const drummerComparisons = {
     comparison: {
       style: 'Joey brought extreme metal intensity to nu-metal with blast beats and speed. John focused on groove, hip-hop influenced rhythms and pocket.',
       technique: 'Joey combined death metal speed with theatrical showmanship. John mastered syncopated grooves and dynamic control.',
-      gear: 'Joey played Pearl drums with custom kits. John endorses Pearl with emphasis on tight, punchy tones.',
+      gear: 'Joey played Pearl drums with custom kits. John plays an OCDP (Orange County Drum & Percussion) custom kit with emphasis on tight, punchy tones.',
       influence: 'Joey proved nu-metal could be technically extreme. John showed nu-metal\'s rhythmic connection to hip-hop and funk.',
     },
     verdict: 'Joey Jordison redefined nu-metal\'s technical ceiling. John Otto exemplified groove-based nu-metal drumming. Together they represent the genre\'s full spectrum.',
@@ -498,7 +498,7 @@ export const drummerComparisons = {
     comparison: {
       style: 'John Otto blends jazz sophistication, hip-hop groove, and metal power into Limp Bizkit\'s rap-rock foundation. Ray Luzier brings session-musician precision and modern technique to Korn\'s heavy alternative metal.',
       technique: 'John studied jazz at the Douglas Anderson School of the Arts, using syncopated patterns and funky ghost notes to create Limp Bizkit\'s signature groove. Ray excels at tight, controlled patterns with double bass fluency and dynamic range.',
-      gear: 'John Otto plays Pearl drums with a hip-hop-inspired setup focused on groove and pocket. Ray endorses Pearl Reference drums with Sabian AAX cymbals for a bright, punchy attack.',
+      gear: 'John Otto plays an OCDP custom kit with a hip-hop-inspired setup focused on groove and pocket. Ray endorses Pearl Reference drums with Sabian AAX cymbals for a bright, punchy attack.',
       influence: 'John Otto defined the rhythmic DNA of one of the best-selling bands of the late 1990s, bringing jazz vocabulary to mainstream metal. Ray Luzier maintains Korn\'s heavyweight nu-metal legacy while adding modern technical flair.',
     },
     verdict: 'John Otto\'s jazz-meets-hip-hop grooves made Limp Bizkit\'s sound instantly recognizable and commercially unstoppable. Ray Luzier\'s technical precision has sustained Korn\'s intensity for over a decade. Both represent nu-metal drumming at its finest.',

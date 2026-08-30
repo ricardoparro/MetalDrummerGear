@@ -6895,3 +6895,53 @@ All 8 personally grep/sed-verified with exact line citations against both files;
 3. Research agent also flagged un-verified leads worth a dedicated follow-up pass: Jay Weinberg (Pearl throne in genreGearGuides.js), Brann Dailor (Remo heads remnant post-#6355), Ben Koller/Matt Greiner (whole soundLikeGuides.js guides apparently un-migrated), Frost/Morgan Ågren/Ray Luzier/Raymond Herrera/Richard Christy/Tim Yeung/Daray/Kevin Talley/Martin Axenrot/Matt Garstka (drummerComparisons.js + genreGearGuides.js substitutions), plus several album-era mismatches in `albumArticles/*.js` for Nicko McBrain/Vinnie Paul/Dave Lombardo/Mike Portnoy. None independently re-verified to the promote bar yet — a good seed list for the next sweep instead of starting cold.
 4. Standing flag (unchanged): Mike Mangini, Flo Mounier, Nick Menza have `endorsementNews.js`-vs-`extendedBios.js` source conflicts needing a founder/CEO ruling before target-file fixes are safe.
 5. Drum-chair rotation: week 36 group 0 (amon-amarth through cynic) — due Monday 2026-08-31.
+
+---
+
+## 2026-08-30 (13th run) — Follow-up on seed list from 12th run: 8 verified gear-fabrication proposals filed (#6502-6509)
+
+### Bank check
+Open `seo-proposal` at run start: 11 (#6484-6491 filed 12th run, not yet CEO-triaged, + 3 standing umbrellas #3810/#3819/#2211). Well under 45 — cleared to file up to 8 net-new.
+
+### Audit summary
+- Robots.txt (live curl, GPTBot UA): all 8 AI crawlers explicitly allowed. ✅
+- `/public/llms/**/*.md`: 2,011 files live, unchanged. ✅
+- GSC content-gap (metrics.md, 17:03 UTC): same 3 standing rows (`metalforge` 660 impr/0.45% CTR, `danny carey drum kit` 105 impr/0.95% CTR, `joey jordison drum kit` 71 impr/1.41% CTR) — all previously investigated/held (content-ceiling / name-collision / first-click-confirmation rulings, see `learned-patterns.md`). No new action.
+- Drum-chair watch: today is Sunday — skipped per the "first run each Monday" gate. Next due 2026-08-31 (week 36, group 0, amon-amarth through cynic).
+
+### This run's sweep
+Dispatched a research agent to verify the 12th run's seed list (15 leads: Jay Weinberg, Brann Dailor, Ben Koller, Matt Greiner, Frost, Morgan Ågren, Ray Luzier, Raymond Herrera, Richard Christy, Tim Yeung, Daray, Kevin Talley, Martin Axenrot, Matt Garstka, plus album-era mismatches for Nicko McBrain/Vinnie Paul/Dave Lombardo/Mike Portnoy). It confirmed 12 of 15 with exact line citations, cleared 3 as already-correct/already-fixed (Daray, Kevin Talley, Matt Garstka), and flagged Vinnie Paul as a genuine `endorsementNews.js`-vs-`extendedBios.js` source conflict (same class as the standing Mike Mangini/Flo Mounier/Nick Menza flag — added to that list, not filed as a routine fix).
+
+Personally re-verified 8 of the 12 confirmed leads via direct `sed`/grep against both the fabricating file and `endorsementNews.js` before filing (prioritized for breadth across drummers/files over the remaining 4, which carry to next run):
+
+1. **Jay Weinberg + Matt Greiner** — `genreGearGuides.js` `best-drum-hardware-for-metalcore` guide fabricates Pearl Demon Drive/D-2000 hardware for both (lines 110831, 110923, 110931, 111148, 111188, 111200); both verified DW. Bundled as one issue since it's the same guide/fabrication-class. Filed **#6502**.
+2. **Brann Dailor** — `genreGearGuides.js` post-metal (7 lines) + sludge-metal (7 lines) guides fabricate Remo heads; verified Evans G2 Clear. Notably the doom-metal guide in the same file already correctly says Evans — proving this is a leftover. Filed **#6503**.
+3. **Ben Koller** — entire `soundLikeGuides.js` guide (lines 10184-10238) never migrated off DW/Zildjian A Custom; verified Tama Starclassic Maple/Tama S.L.P./Zildjian K Dark/Tama Iron Cobra 900. Filed **#6504**.
+4. **Matt Greiner** — entire `soundLikeGuides.js` guide (lines 2622-2802) never migrated off Pearl/Sabian, including a fabricated "Pearl Matt Greiner Signature Snare" that doesn't exist; verified Mapex Black Panther/Paiste Formula 602/DW 9000/Vic Firth Signature. Filed **#6505**.
+5. **Frost** — 3 of 4 `drummerComparisons.js` entries (frost-vs-inferno, frost-vs-jaska-raatikainen, frost-vs-daray; the 4th, frost-vs-hellhammer, was already fixed by #6327/#6465) fabricate a Sonor SQ2 kit + Sonor pedal; verified Tama Starclassic Bubinga + Tama Iron Cobra Power Glide. Filed **#6506**.
+6. **Morgan Ågren** — `aquiles-priester-vs-morgan-agren` entry fabricates Meinl Byzance cymbals + DW pedal (sibling entry `morgan-agren-vs-mike-mangini` already correct, proving this is a leftover); verified Paiste Signature/2002 + Sonor Giant Step. Filed **#6507**.
+7. **Ray Luzier** — `ray-luzier-vs-art-cruz` entry fabricates a nonexistent "Promark Ray Luzier Signature TX420X" (he has a real Vic Firth signature model) + Pearl Demon Drive pedal + imprecise drum model; verified Vic Firth Signature + DW 9000 + Pearl Reference Maple. Filed **#6508**.
+8. **Raymond Herrera** — `raymond-herrera-vs-chris-turner` entry fabricates Pearl drums + Pearl Eliminator pedal (cymbals/sticks in the same entry are already correct); verified Tama Starclassic (triggered) + DW 5000. Filed **#6509**.
+
+All 8 personally grep/sed-verified with exact line citations against both files; all 8 checked via `gh issue list --state all --search "<name> <keyword>"` for duplicates — every closest match targets a different file/field/entry (documented per-issue, following the established multi-file pattern). Single/dual-file, text-only, zero new pages/URLs — freeze-compliant.
+
+### Proposals filed this run (8)
+1. #6502 — Jay Weinberg + Matt Greiner hardware (genreGearGuides.js, Pearl→DW)
+2. #6503 — Brann Dailor heads (genreGearGuides.js, 2 guides, Remo→Evans)
+3. #6504 — Ben Koller (soundLikeGuides.js whole guide, DW/Zildjian A Custom→Tama/Zildjian K Dark)
+4. #6505 — Matt Greiner (soundLikeGuides.js whole guide, Pearl/Sabian→Mapex/Paiste/DW/Vic Firth Sig)
+5. #6506 — Frost (drummerComparisons.js, 3 entries, Sonor→Tama)
+6. #6507 — Morgan Ågren (drummerComparisons.js, Meinl/DW→Paiste/Sonor)
+7. #6508 — Ray Luzier (drummerComparisons.js, Promark/Pearl→Vic Firth/DW)
+8. #6509 — Raymond Herrera (drummerComparisons.js, Pearl→Tama/DW)
+
+### Open proposals waiting on CEO triage
+- #6462-6467 (11th run), #6484-6491 (12th run), #6502-6509 (this run) — all pending CEO triage.
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers only.
+
+### Next run
+1. Watch #6462-6467/#6484-6491/#6502-6509 ship via Roadie/PR Merger.
+2. Carry over 4 leads not yet filed from the 12th-run seed list (confirmed by the research agent, not yet personally re-verified/filed): **Richard Christy** (drummerComparisons.js `ben-koller-vs-richard-christy` entry, pedal fabricated as Tama Iron Cobra 900, verified Axis A Longboard — narrow, 2 lines), **Tim Yeung** (drummerComparisons.js, 2 entries — `hannes-grossmann-vs-tim-yeung` line 2825 and `paul-mazurkiewicz-vs-tim-yeung` lines 1414/1421 — hedged "Pearl or Tama" fabrication vs verified Tama Starclassic Bubinga/Speed Cobra 910), **Martin Axenrot** (genreGearGuides.js, 7 lines across hardware + bass-drum guides — Sonor SQ2 fabrication that #6029 correctly ruled "leave unchanged" on 2026-08-23 but which went stale 2 days later when #6132 corrected `endorsementNews.js` itself to DW; genreGearGuides.js was never revisited), and 3 confirmed album-era mismatches in `albumArticles/*.js` for **Nicko McBrain** (Final Frontier/Book of Souls/Senjutsu/No Prayer for the Dying, several distinct fabrications beyond #6249/#6250's scope), **Dave Lombardo** (Show No Mercy/Hell Awaits/Reign in Blood eras state Ludwig/Tama vs verified Pearl through 1986), and **Mike Portnoy** (Images and Words + evergreen kit article state Zildjian vs verified continuous Sabian since 1985).
+3. Standing flag (unchanged, now 4 drummers): Mike Mangini, Flo Mounier, Nick Menza, and (newly added this run) **Vinnie Paul** all have `endorsementNews.js`-vs-`extendedBios.js` source conflicts (Vinnie Paul: `extendedBios.js` asserts an unverified "Remo era 1992-1996" not present in `endorsementNews.js`'s Tama→Pearl→ddrum timeline, and 2 prior fixes #5746/#6041 propagated the Remo claim into album articles instead of reconciling it) — needs a founder/CEO ruling on source-of-truth before target-file fixes are safe. Worth a dedicated pass once the backlog drains.
+4. `genreGearGuides.js` continues to be the highest-yield surface (Jay Weinberg + Matt Greiner + Brann Dailor all found there this run) — keep prioritizing it.
+5. Drum-chair rotation: week 36 group 0 (amon-amarth through cynic) — due Monday 2026-08-31.

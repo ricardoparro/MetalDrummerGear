@@ -2928,10 +2928,7 @@ This guide breaks down Kollias's technique, the endurance training behind his st
         alternative: "Vic Firth 5B or American Classic for similar weight"
       },
       heads: {
-        kick: 'Remo Powerstroke P4 Clear',
-        snare: 'Remo Ambassador X Coated',
-        toms: 'Remo Emperor Clear',
-        resonant: 'Remo Ambassador Clear'
+        brand: 'Evans'
       }
     },
     tuning: {
@@ -3026,7 +3023,7 @@ This guide breaks down Kollias's technique, the endurance training behind his st
         cymbals: "Meinl Byzance Custom ($1,800+)",
         pedals: "Pearl Demon Drive ($600)",
         snare: "Pearl George Kollias Signature ($350)",
-        heads: "Full Remo setup ($180)",
+        heads: "Full Evans setup ($180)",
         notes: "Recording and touring-ready Kollias sound."
       }
     },

@@ -5,6 +5,41 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-08-30 03:43 UTC*
 
 ---
+## 2026-08-30 20:35 — Evening review: 8 fresh gear-fabrication proposals promoted (#6502-6509)
+
+### Context (≤3 lines)
+First run after 19:00 UTC (evening review). Metrics 20:35 UTC (303 users/336 sessions/525 views 7d; GSC 7,608 impr/172 clicks/2.26% CTR/pos 9.1, same window as the 16:04 run). Prior batch (#6484-6491) confirmed fully shipped: 0 open PRs, eligible `ai-fix` backlog 0 at run start. 8 fresh untriaged `seo-proposal` (#6502-6509, filed 17:16-17:17 UTC) plus the 3 standing L1/L2/L3 umbrellas (#3810/#3819/#2211).
+
+### Actions taken
+- **Promoted all 8** (`ai-fix`): same systemic gear-brand-fabrication class as every batch this week (`drummerComparisons.js`/`soundLikeGuides.js`/`genreGearGuides.js` fields contradicting verified `endorsementNews.js`). #6502 (Jay Weinberg + Matt Greiner hardware fabricated Pearl Demon Drive/D-2000 in a `genreGearGuides.js` metalcore-hardware guide vs verified DW for both), #6503 (Brann Dailor heads fabricated Remo across 2 `genreGearGuides.js` guides vs verified Evans G2 Clear), #6504 (Ben Koller `soundLikeGuides.js` whole guide un-migrated — DW/Zildjian A Custom vs verified Tama/Zildjian K Dark), #6505 (Matt Greiner `soundLikeGuides.js` whole guide un-migrated — Pearl/Sabian vs verified Mapex/Paiste/DW/Vic Firth signature), #6506 (Frost gear fabricated Sonor SQ2 kit + Sonor pedal across 3 `drummerComparisons.js` entries vs verified Tama Starclassic Bubinga/Tama Iron Cobra — 4th Frost pair already fixed by #6327/#6465), #6507 (Morgan Ågren cymbals/pedal fabricated Meinl Byzance/DW vs verified Paiste Signature/Sonor Giant Step), #6508 (Ray Luzier sticks/pedal fabricated Promark/Pearl Demon Drive vs verified Vic Firth signature/DW 9000), #6509 (Raymond Herrera drums/pedal fabricated Pearl vs verified Tama Starclassic/DW 5000). Live-verified 2 directly via grep: **#6506** — confirmed `drummerComparisons.js:2375/2381/2397/2403/2419/2425` (frost-vs-inferno, frost-vs-jaska-raatikainen, frost-vs-daray) all still say "Sonor SQ2 Series kit ... Sonor Perfect Balance single pedal" for Frost, against `endorsementNews.js:1480/1484`'s verified Tama Starclassic Bubinga/Iron Cobra Power Glide (the already-fixed frost-vs-hellhammer entry at line 1094/1100 correctly shows Tama, confirming the other 3 are the real gap). **#6502** — confirmed `genreGearGuides.js` still has multiple "Pearl Demon Drive"/"Pearl D-2000" hits in metalcore-hardware context, against `endorsementNews.js` verified DW for both Jay Weinberg (~line 410) and Matt Greiner (line 861). Searched `state:all` per drummer name for all 8 — no true duplicates (closed hits are different files/fields already fixed, e.g. #6506 explicitly scoped to exclude the already-fixed frost-vs-hellhammer pair). All single- or dual-file, verified-only, zero new pages/URLs (freeze-compliant depth work).
+- **Backlog gate**: 0 → 8, well under the 45/80 threshold; promoted liberally per rule.
+- **GSC content-gap**: same 3 rows as the 16:04 run, same 7-day window (`metalforge` 660 impr/0.45% CTR/pos 7.0, `danny carey drum kit` 105 impr/0.95% CTR/pos 10.5, `joey jordison drum kit` 71 impr/1.41% CTR/pos 10.5) — all already investigated/held per `learned-patterns.md` (name-collision / ceiling-hold / converting-not-dead). No new action.
+- **L1/L2/L3** (#3810/#3819/#2211): snapshots still 2026-08-24 generation (unchanged since the 16:04 run) — weekly refresh overdue (due ~08-31, tomorrow). Watching for it explicitly, not re-triaging stale data.
+- **Founder ideas**: inbox empty, unchanged since 06-19.
+- **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 — all `updatedAt` unchanged (checked directly this run), no re-spam.
+- **Stale-issue / atomic-split sweep**: re-confirmed all 20 pre-existing `ai-fix` issues (freeze-blocked roster/band splits) still `hold`-labeled, none eligible. New promotions all single/dual-file, well under the trigger.
+- **Starvation check**: post-triage backlog=8, bank=0 (excl. umbrellas) — numerically meets the trigger shape, but the SEO Agent has delivered a fresh 6-8 issue batch every cycle for over a week straight — healthy, flowing cadence, not escalating.
+
+### State delta
+- ai-fix backlog: 0 → 8 (#6502-6509)
+- seo-proposal bank (excl. umbrellas): 8 → 0
+- Prior batch (#6484-6491) confirmed fully shipped: all closed since the 16:04 entry
+- Org/Sessions/Views (7d): 303/336/525 · GSC 7,608 impr/172 clicks/2.26% CTR/pos 9.1 (same window as 16:04, GA4 ticked up slightly)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 8/8 fresh triaged, live-verified (2 direct + 6 pattern-match), promoted, no duplicates, freeze-compliant. ✅ GSC-gap: 3 rows re-confirmed held, no new fix. ✅ L1/L2/L3: no fresh snapshot since 08-24, refresh overdue for tomorrow — flagged, not re-actioned. ✅ Starvation: technically met but judged healthy (SEO Agent flowing, consistent weekly cadence). ✅ Atomic split: 20 stale issues re-checked, all `hold`-labeled, none eligible; new promotions all atomic. ✅ Decisions logged.
+
+### Next Run
+1. Watch #6502-6509 ship via Roadie/PR Merger.
+2. First run after 07:00 UTC tomorrow is the deep run: full metrics + GSC-gap + L1/L2/L3 close-the-loop pass.
+3. **L1/L2/L3 weekly refresh due ~08-31 (tomorrow)** — if still 08-24-generation at next run, note overdue explicitly.
+4. If backlog is still <15 with an actually-starved (bank ≤2) proposal supply at the next run, that starts the starvation playbook.
+
+---
+
+---
+
+---
 ## 2026-08-30 16:04 — Mid-day pulse: 8 fresh gear-fabrication proposals promoted (#6484-6491)
 
 ### Context (≤3 lines)

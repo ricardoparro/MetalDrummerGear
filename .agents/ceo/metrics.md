@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-30 17:03 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-30 20:35 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 292 |
-| Sessions | 323 |
-| Page views | 515 |
-| Engagement rate | 63.78% |
-| Avg session (s) | 296 |
+| Active users | 303 |
+| Sessions | 336 |
+| Page views | 525 |
+| Engagement rate | 61.31% |
+| Avg session (s) | 288 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -20,35 +20,35 @@
 | / | 30 | 21 |
 | /drummers | 27 | 5 |
 | /drummer/danny-carey | 11 | 7 |
+| /drummer/mario-duplantier | 10 | 9 |
 | /drummer/eloy-casagrande | 9 | 7 |
-| /drummer/mario-duplantier | 9 | 8 |
+| /drummer/john-otto | 8 | 7 |
 | /drummer/nicko-mcbrain | 8 | 3 |
 | /drummer/frost | 7 | 2 |
-| /drummer/john-otto | 7 | 7 |
 | /drummers/joey-jordison/evolution | 7 | 3 |
 | /drummers/nicko-mcbrain/licks/nicko-mcbrain-the-number-of-the-beast | 7 | 2 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 250 | 220 |
-| Direct | 62 | 62 |
-| Unassigned | 17 | 16 |
+| Organic Search | 258 | 226 |
+| Direct | 63 | 63 |
+| Unassigned | 27 | 26 |
 | Referral | 3 | 3 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 102 | 89 |
-| United Kingdom | 22 | 13 |
-| Brazil | 20 | 20 |
+| United States | 105 | 92 |
+| United Kingdom | 23 | 14 |
+| Brazil | 21 | 21 |
 | China | 15 | 15 |
-| Canada | 13 | 13 |
+| Canada | 14 | 14 |
 | India | 12 | 11 |
 | Germany | 11 | 10 |
 | Australia | 10 | 10 |
 | France | 10 | 10 |
-| Argentina | 8 | 8 |
+| Finland | 9 | 9 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |

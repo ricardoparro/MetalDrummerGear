@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-30 13:41 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-30 16:04 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 289 |
-| Sessions | 320 |
-| Page views | 503 |
-| Engagement rate | 64.38% |
-| Avg session (s) | 296 |
+| Active users | 292 |
+| Sessions | 323 |
+| Page views | 512 |
+| Engagement rate | 63.78% |
+| Avg session (s) | 294 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -31,15 +31,15 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 247 | 217 |
+| Organic Search | 249 | 219 |
 | Direct | 61 | 61 |
-| Unassigned | 15 | 14 |
+| Unassigned | 17 | 16 |
 | Referral | 3 | 3 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 100 | 87 |
+| United States | 102 | 89 |
 | United Kingdom | 22 | 13 |
 | Brazil | 20 | 20 |
 | China | 15 | 15 |
@@ -53,45 +53,45 @@
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 6,305 |
-| Clicks | 147 |
-| CTR | 2.33% |
-| Avg position | 9.0 |
+| Impressions | 7,608 |
+| Clicks | 172 |
+| CTR | 2.26% |
+| Avg position | 9.1 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| metalforge | 612 | 3 | 0.49% | 6.9 |
+| metalforge | 660 | 3 | 0.45% | 7.0 |
 | any others? | 1 | 1 | 100.00% | 6.0 |
 | best black metal drummers | 2 | 1 | 50.00% | 15.0 |
-| best metal drummers of all time | 19 | 1 | 5.26% | 9.6 |
-| danny carey drum kit | 100 | 1 | 1.00% | 10.4 |
+| best metal drummers of all time | 22 | 1 | 4.55% | 9.3 |
+| danny carey drum kit | 105 | 1 | 0.95% | 10.5 |
 | danny carey drum kit setup | 2 | 1 | 50.00% | 9.5 |
-| danny carey drumkit | 11 | 1 | 9.09% | 6.8 |
-| death metal drummers | 2 | 1 | 50.00% | 5.5 |
-| eloy casagrande drum kit | 27 | 1 | 3.70% | 9.9 |
+| danny carey drumkit | 13 | 1 | 7.69% | 7.5 |
+| death metal drummers | 4 | 1 | 25.00% | 5.3 |
+| eloy casagrande drum kit | 29 | 1 | 3.45% | 9.7 |
 | extreme.drumming | 2 | 1 | 50.00% | 9.5 |
 
 ### Top countries (impressions, last 7d)
 | Country | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| usa | 2,248 | 46 | 2.05% | 8.9 |
-| can | 270 | 10 | 3.70% | 8.0 |
-| fra | 161 | 9 | 5.59% | 7.8 |
-| bra | 153 | 6 | 3.92% | 7.3 |
-| fin | 72 | 6 | 8.33% | 6.6 |
-| aus | 292 | 5 | 1.71% | 7.6 |
-| deu | 188 | 5 | 2.66% | 7.0 |
-| gbr | 319 | 5 | 1.57% | 10.1 |
-| esp | 76 | 4 | 5.26% | 7.8 |
-| jpn | 78 | 4 | 5.13% | 7.4 |
+| usa | 2,706 | 55 | 2.03% | 8.9 |
+| can | 329 | 11 | 3.34% | 8.0 |
+| fra | 189 | 10 | 5.29% | 7.5 |
+| gbr | 416 | 8 | 1.92% | 9.6 |
+| bra | 183 | 7 | 3.83% | 6.9 |
+| fin | 97 | 7 | 7.22% | 7.0 |
+| deu | 243 | 6 | 2.47% | 6.9 |
+| nld | 127 | 6 | 4.72% | 7.6 |
+| aus | 345 | 5 | 1.45% | 7.5 |
+| esp | 91 | 5 | 5.49% | 7.6 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 | Query | Impr | CTR | Pos | Action |
 | --- | --- | --- | --- | --- |
-| metalforge | 612 | 0.49% | 6.9 | open issue to answer better |
-| danny carey drum kit | 100 | 1.00% | 10.4 | open issue to answer better |
-| joey jordison drum kit | 59 | 1.69% | 10.5 | open issue to answer better |
+| metalforge | 660 | 0.45% | 7.0 | open issue to answer better |
+| danny carey drum kit | 105 | 0.95% | 10.5 | open issue to answer better |
+| joey jordison drum kit | 71 | 1.41% | 10.5 | open issue to answer better |
 
 ---
 *Re-run manually: `node .agents/scripts/fetch-metrics.cjs`*

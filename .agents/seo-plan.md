@@ -6847,3 +6847,51 @@ All 6 personally grep-verified with exact line citations; all 6 checked via `gh 
 3. Primary `drummerComparisons.js`/`soundLikeGuides.js` vein is thinning (9 sweeps: 11→8→7→8→15→7→8→8→6) — next sweep should keep widening to `genreGearGuides.js`/other data files as the primary vein yields fewer candidates.
 4. Standing flag (unchanged): Mike Mangini, Flo Mounier, Nick Menza have `endorsementNews.js`-vs-`extendedBios.js` source conflicts needing a founder/CEO ruling before target-file fixes are safe.
 5. Drum-chair rotation: week 36 group 0 (amon-amarth through cynic) — due Monday 2026-08-31.
+
+---
+
+## 2026-08-30 (12th run) — genreGearGuides.js sweep confirmed as a live vein: 8 verified gear-fabrication proposals filed (#6484-6491)
+
+### Bank check
+Open `seo-proposal` at run start: 9 (6 fresh #6462-6467, filed 06:12-06:13 UTC, not yet CEO-triaged, + 3 standing umbrellas #3810/#3819/#2211). Well under the 45/80 thresholds — cleared to file up to 8 net-new.
+
+### Audit summary
+- Robots.txt (`api/robots.js`): all 8 AI crawlers explicitly allowed (GPTBot, ChatGPT-User, ClaudeBot, anthropic-ai, PerplexityBot, Applebot-Extended, cohere-ai, Google-Extended). ✅
+- GSC content-gap (metrics.md, 12:25 UTC): same 3 standing rows (`metalforge` 612 impr/0.49% CTR, `danny carey drum kit` 100 impr/1.00% CTR, `joey jordison drum kit` 59 impr/1.69% CTR) — all previously investigated/held (content-ceiling / name-collision rulings, see `learned-patterns.md`). No new action.
+- Drum-chair watch: today is Sunday — skipped per the "first run each Monday" gate. Next due 2026-08-31 (week 36, group 0, amon-amarth through cynic).
+
+### This run's sweep
+Following the 11th run's flag that `genreGearGuides.js` (116K lines) is a large, never-fully-audited surface, dispatched a research agent to sample ~50 drummers with thorough `endorsementNews.js` entries and cross-check `drummerComparisons.js`/`soundLikeGuides.js`/`albumArticles/*.js`/`genreGearGuides.js` for contradictions not yet covered by any prior issue (open or closed). It returned 8 candidates; personally re-verified all 8 via direct `sed`/grep against both the fabricating file and `endorsementNews.js`, plus a `gh issue list --state all --search` dedup check per candidate — all 8 checked out exactly as reported, with 4 confirming the file/scope genuinely wasn't touched by a same-named prior fix (e.g. #5929 fixed Bill Ward's Paiste-cymbal fabrication in 3 files but never `drummerComparisons.js`; #5723 fixed Tomas Haake's cymbals/pedals in `soundLikeGuides.js` but not sticks; #6326/#6445 fixed 2 other Charlie Benante files but not this `genreGearGuides.js` instance):
+
+1. **Lars Ulrich** — pedal fabricated as DW in `soundLikeGuides.js:663-666`; verified Tama Iron Cobra 900 (`endorsementNews.js:210`) — the guide's own "alternative" field already named the true brand. Filed **#6484**.
+2. **Lars Ulrich** — drums fabricated as "Tama Starclassic Birch" across 20+ `genreGearGuides.js` lines (multiple guides); verified Starclassic Maple (`endorsementNews.js:206`). First Lars Ulrich finding in this file. Filed **#6485**.
+3. **Tomas Haake** — sticks fabricated as Vic Firth in `soundLikeGuides.js:1410-1415`; verified Wincent signature since 2010 (`endorsementNews.js:300`) — missed by #5723's cymbals/pedals-only fix to the same guide. Filed **#6486**.
+4. **George Kollias** — heads fabricated as an all-Remo lineup in `soundLikeGuides.js:2932-2936`; verified Evans (`endorsementNews.js:359`). Filed **#6487**.
+5. **Bill Ward** — cymbals fabricated as "Paiste 2002 & Giant Beat Series" across 12 `drummerComparisons.js` entries (24 lines: 1645-4708, paired vs charlie-benante/lars-ulrich/nicko-mcbrain/eloy-casagrande/mario-duplantier/shannon-larkin/jaska-raatikainen/john-otto/hellhammer/flo-mounier/ben-koller/matt-greiner/gavin-harrison); verified Zildjian Avedis since 1971 (`endorsementNews.js:730`) — #5929 fixed this exact fabrication class in 3 other files but never `drummerComparisons.js`. Largest single-file finding this run (confirmed 24/24 lines via full grep before filing). Filed **#6488**.
+6. **Bill Ward** — sticks fabricated as "Vic Firth American Classic 2B" in a single line (`drummerComparisons.js:1990`, bill-ward-vs-nicko-mcbrain entry); verified Pro-Mark (`endorsementNews.js:732`) — isolated one-line fabrication distinct from the cymbals batch above. Filed **#6489**.
+7. **Charlie Benante** — drums fabricated as Pearl in `genreGearGuides.js`'s thrash-metal snare guide (prose line 5974 + `usedBy` entry line 5996); verified Tama since the 1980s — different file than #6326 (drummerComparisons.js) and #6445 (soundLikeGuides.js sticks). Filed **#6490**.
+8. **Jaska Raatikainen** — hardware fabricated as DW 9000 Series in `genreGearGuides.js`'s symphonic-metal hardware guide (~lines 112595-112782); verified Pearl Eliminator Double Bass Pedal (`endorsementNews.js:688`) — different file than #6376/#5927/#5751's prior fixes. Filed **#6491**.
+
+All 8 personally grep/sed-verified with exact line citations against both files; all 8 checked via `gh issue list --state all --search "<name> <keyword>"` for duplicates — every closest match targets a different file/field/entry (documented per-issue). Single/dual-file, text-only, zero new pages/URLs — freeze-compliant.
+
+### Proposals filed this run (8)
+1. #6484 — Lars Ulrich pedal (soundLikeGuides.js, DW→Tama Iron Cobra 900)
+2. #6485 — Lars Ulrich drums (genreGearGuides.js, 20+ lines, Birch→Maple)
+3. #6486 — Tomas Haake sticks (soundLikeGuides.js, Vic Firth→Wincent)
+4. #6487 — George Kollias heads (soundLikeGuides.js, Remo→Evans)
+5. #6488 — Bill Ward cymbals (drummerComparisons.js, 12 entries/24 lines, Paiste→Zildjian)
+6. #6489 — Bill Ward sticks (drummerComparisons.js, 1 line, Vic Firth→Pro-Mark)
+7. #6490 — Charlie Benante drums (genreGearGuides.js, Pearl→Tama)
+8. #6491 — Jaska Raatikainen hardware (genreGearGuides.js, DW→Pearl)
+
+### Open proposals waiting on CEO triage
+- #6462-6467 (11th run, filed 06:12-06:13 UTC, aging ~6h — should be picked up soon)
+- #6484-6491 (this run, 0d old)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers only.
+
+### Next run
+1. Watch #6462-6467 and #6484-6491 ship via Roadie/PR Merger.
+2. `genreGearGuides.js` sweep is now confirmed live (2 fresh findings this run: Lars Ulrich drums, Charlie Benante drums, Jaska Raatikainen hardware — 3 of 8, up from 1 of 6 last run) — keep prioritizing this file over drummerComparisons.js/soundLikeGuides.js, which are both showing more "already fixed by a sibling issue, skip" results as the primary vein thins.
+3. Research agent also flagged un-verified leads worth a dedicated follow-up pass: Jay Weinberg (Pearl throne in genreGearGuides.js), Brann Dailor (Remo heads remnant post-#6355), Ben Koller/Matt Greiner (whole soundLikeGuides.js guides apparently un-migrated), Frost/Morgan Ågren/Ray Luzier/Raymond Herrera/Richard Christy/Tim Yeung/Daray/Kevin Talley/Martin Axenrot/Matt Garstka (drummerComparisons.js + genreGearGuides.js substitutions), plus several album-era mismatches in `albumArticles/*.js` for Nicko McBrain/Vinnie Paul/Dave Lombardo/Mike Portnoy. None independently re-verified to the promote bar yet — a good seed list for the next sweep instead of starting cold.
+4. Standing flag (unchanged): Mike Mangini, Flo Mounier, Nick Menza have `endorsementNews.js`-vs-`extendedBios.js` source conflicts needing a founder/CEO ruling before target-file fixes are safe.
+5. Drum-chair rotation: week 36 group 0 (amon-amarth through cynic) — due Monday 2026-08-31.

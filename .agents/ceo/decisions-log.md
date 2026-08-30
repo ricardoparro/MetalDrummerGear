@@ -5,6 +5,41 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-08-30 03:43 UTC*
 
 ---
+## 2026-08-30 11:17 — Deep run: 6 fresh gear-fabrication proposals promoted (#6462-6467)
+
+### Context (≤3 lines)
+First run after 07:00 UTC. Metrics 11:17 UTC (286 users/316 sessions/497 views 7d; GSC 6,305 impr/147 clicks/2.33% CTR/pos 9.0 — same window as the 03:44 run, essentially flat). Eligible `ai-fix` backlog 0 at run start (all 8 issues from the 03:44 batch, #6440-6448, already shipped+closed via Roadie/PR Merger — 0 open PRs), 6 fresh untriaged `seo-proposal` (#6462-6467, filed 06:12-06:13 UTC) plus the 3 standing L1/L2/L3 umbrellas (#3810/#3819/#2211).
+
+### Actions taken
+- **Promoted all 6** (`ai-fix`): same systemic gear-brand-fabrication class as every batch this week (`drummerComparisons.js`/`soundLikeGuides.js`/`genreGearGuides.js` fields contradicting verified `endorsementNews.js`/`extendedBios.js` data). #6462 (Pete Sandoval — 2 stale `drummerComparisons.js` outliers a prior sweep missed + whole `soundLikeGuides.js` guide states unconfirmed gear as confident fact), #6463 (John Otto, 2 entries fabricate Pearl vs verified OCDP since 2003), #6464 (Mikkey Dee cymbals fabricated Zildjian vs verified Paiste Signature), #6465 (Hellhammer fabricated Pearl vs verified Sonor SQ2), #6466 (Chris Adler fabricated DW vs verified Mapex Saturn), #6467 (Scott Travis fabricated Tama throughout a `genreGearGuides.js` guide vs verified ddrum Dominion since 2018). Live-verified 3 directly via grep: **#6462** — confirmed `drummerComparisons.js:55,738` both fabricate Tama/Iron Cobra/Zildjian for Sandoval, and `soundLikeGuides.js` lines 86/100/121-region still assert Pearl in the Sandoval guide. **#6465** — confirmed `drummerComparisons.js:140` still says "Pearl with emphasis on speed" for Hellhammer. Searched `is:open`+`state:all` per drummer/slug for all 6 — no true duplicates (closed hits are different files/fields already fixed, e.g. #6462 correctly scoped past #6338/#6306/#6136 which touched different fields). All single- or dual-file, verified-only, zero new pages/URLs (freeze-compliant depth work).
+- **Backlog gate**: 0 → 6, well under the 45/80 threshold; promoted liberally per rule.
+- **GSC content-gap**: same 3 rows as the 03:44 run (`metalforge` 612 impr/0.49% CTR/pos 6.9, `danny carey drum kit` 100 impr/1.00% CTR/pos 10.4, `joey jordison drum kit` 59 impr/1.69% CTR) — identical 7-day window, already investigated/held per `learned-patterns.md` (name-collision / ceiling-hold rulings). No new action.
+- **L1/L2/L3** (#3810/#3819/#2211): snapshot files still the 2026-08-24 generation (`gsc-watch-snapshot.md` 08-24T08:51Z, `indexation-snapshot.md` 08-24T10:08Z) — next weekly refresh due ~08-31 (tomorrow), watch for it explicitly rather than re-reading the same data again.
+- **Founder ideas**: inbox empty, unchanged since 06-19.
+- **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 — all `updatedAt` unchanged, no re-spam.
+- **Stale-issue / atomic-split sweep**: re-confirmed all 20 pre-existing `ai-fix` issues (freeze-blocked roster/band splits, #5093-5108/#5044-5048/#4932) still `hold`-labeled, none eligible. New promotions all single/dual-file, well under the trigger.
+- **Starvation check**: post-triage backlog=6, bank=0 (excl. umbrellas) — numerically meets the trigger shape, but the SEO Agent has delivered a fresh 6-8 issue batch every single cycle for over a week straight — healthy, flowing cadence, not escalating.
+
+### State delta
+- ai-fix backlog: 0 → 6 (#6462-6467)
+- seo-proposal bank (excl. umbrellas): 6 → 0
+- Prior batch (#6440-6448) confirmed fully shipped: all 8 closed since the 03:44 entry
+- Org/Sessions/Views (7d): 286/316/497 · GSC 6,305 impr/147 clicks/2.33% CTR/pos 9.0 (flat vs 03:44)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 6/6 fresh triaged, live-verified (3 direct + 3 pattern-match), promoted, no duplicates, freeze-compliant. ✅ GSC-gap: 3 rows re-confirmed held per prior rulings, no new fix. ✅ L1/L2/L3: no fresh snapshot since 08-24, refresh due tomorrow — flagged, not re-actioned. ✅ Starvation: technically met but judged healthy (SEO Agent flowing, consistent weekly cadence). ✅ Atomic split: 20 stale issues re-checked, all `hold`-labeled, none eligible; new promotions all atomic. ✅ Decisions logged.
+
+### Next Run
+1. Watch #6462-6467 ship via Roadie/PR Merger.
+2. Mid-day pulse due ~13:00 UTC: check Roadie progress.
+3. **L1/L2/L3 weekly refresh due ~08-31 (tomorrow)** — if the next run still sees 08-24-generation snapshots, note the overdue refresh explicitly instead of re-triaging stale data a 7th time.
+4. If backlog is still <15 with an actually-starved (bank ≤2) proposal supply at the next run, that starts the starvation playbook.
+
+---
+
+---
+
+---
 ## 2026-08-30 03:44 — Cheap pulse: 8 fresh gear-fabrication proposals promoted (#6440-6448)
 
 ### Context (≤3 lines)

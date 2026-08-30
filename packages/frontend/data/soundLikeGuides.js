@@ -16604,7 +16604,7 @@ This guide breaks down the groove architecture and breakdown timing behind Lamb'
       overview: `Lamb's technique is built on compositional patience: locking kick and snare to the riff during verses and choruses, deliberately leaving space, and then delivering breakdowns with full physical commitment from the very first hit. His blast beats stay in the same metric pocket as his grooves rather than pushing ahead of the beat for excitement.`,
       stickGrip: {
         type: 'Matched Grip (power-focused)',
-        description: "Lamb plays a firm matched grip built for maximum impact on breakdown strokes, favoring Vic Firth's heavier 2B stick profile over lighter options to add mass to every hit without sacrificing control on faster groove and blast passages.",
+        description: "Lamb plays a firm matched grip built for maximum impact on breakdown strokes. His Vic Firth endorsement is credited on the band's roster, but the specific stick model isn't publicly documented, so this guide suggests a heavier stick profile as a genre-appropriate starting point rather than a confirmed spec.",
         tips: [
           "Commit fully to breakdown strokes — hesitation is audible as reduced impact",
           "Keep groove-section dynamics restrained so the breakdown has somewhere to go",
@@ -16644,56 +16644,38 @@ This guide breaks down the groove architecture and breakdown timing behind Lamb'
       title: "Lamb's Gear Setup",
       drumKit: {
         brand: 'SJC',
-        model: 'SJC Custom Drums',
-        shells: 'American Maple',
-        finish: 'Custom, various touring configurations',
+        model: 'SJC Custom Drums (specific series not publicly documented)',
+        shells: 'Not publicly documented',
+        finish: 'Not publicly documented',
         config: {
-          kick: '22" Bass Drum (double pedal configuration)',
-          snare: '14" x 6.5" SJC Custom Snare',
-          toms: ['10" Rack Tom', '12" Rack Tom'],
-          floorToms: ['14" Floor Tom', '16" Floor Tom']
+          kick: 'Configuration not publicly documented',
+          snare: 'Configuration not publicly documented',
+          toms: ['Configuration not publicly documented'],
+          floorToms: ['Configuration not publicly documented']
         },
-        description: "SJC's hand-built American maple shells give Lamb articulate attack and midrange warmth with enough low-end body for breakdowns to register as physical events — boutique-quality construction built to Lamb's own specification.",
-        affiliateNote: "Any American maple shell pack with tight bearing edges approximates SJC's focused attack and quick decay."
-      },
-      snare: {
-        brand: 'SJC',
-        model: 'SJC Custom Snare',
-        size: '14" x 6.5"',
-        shell: 'American Maple',
-        description: "The 6.5\" depth — half an inch deeper than a standard 5.5\" snare — adds body and volume for breakdown accents without excessive sustain that would muddy the groove-tempo backbeat.",
-        alternative: "Any 14\" x 6.5\" maple snare tuned medium-high will approximate the power and projection"
+        description: "Kublai Khan TX credits Lamb with an SJC Custom Drums endorsement, but no official artist page or gear-focused interview naming specific shells, sizes, or configuration has been found — this guide omits guessed specifics rather than inventing them.",
+        affiliateNote: "Any well-built maple shell pack with tight bearing edges is a reasonable starting point until specifics surface."
       },
       cymbals: {
         brand: 'Meinl',
-        series: 'Meinl Classics Custom Dark Series',
+        series: 'Meinl Cymbals (specific model lineup not publicly documented)',
         setup: [
-          { type: 'Hi-Hats', model: 'Meinl Classics Custom Dark 14" Hi-Hats', notes: 'Dark, controlled tone for groove patterns in high-gain context' },
-          { type: 'Crash', model: 'Meinl Classics Custom Dark 18" Crash', notes: 'Fast attack, controlled decay for breakdown entries' },
-          { type: 'Crash', model: 'Meinl Classics Custom Dark 20" Crash', notes: 'Fuller crash for section-ending accents' },
-          { type: 'Ride', model: 'Meinl Classics Custom Dark 21" Ride', notes: 'Dark wash with a defined bell for riding passages' },
-          { type: 'China', model: 'Meinl Classics Custom Dark 18" China', notes: 'Immediate, fast-decaying accent for breakdown punctuation' }
+          { type: 'General Setup', model: 'Meinl Cymbals (exact models not publicly documented)', notes: "Lamb is credited with a Meinl endorsement, but no gear feature or interview itemizing his exact cymbal setup has been found." }
         ],
-        description: "The Classics Custom Dark series' darker fundamental sits naturally within high-gain guitar frequencies rather than washing over them, with controlled decay that stays out of the way before the next rhythmic event."
-      },
-      pedals: {
-        brand: 'DW',
-        model: 'DW 9000 Series Double Pedal',
-        description: "The 9000's chain-drive, floating-rotor design translates Lamb's foot technique faithfully across groove, blast, and breakdown passages — direct-drive precision at every tempo Kublai Khan TX's material demands.",
-        alternative: "DW 5000 or Pearl Demon Drive for similarly direct, consistent action"
+        description: "Lamb's Meinl endorsement is credited by the band, but a piece-by-piece cymbal breakdown isn't publicly documented."
       },
       sticks: {
         brand: 'Vic Firth',
-        model: 'Vic Firth American Classic 2B',
-        specs: 'Heavier, thicker profile than standard 5A',
-        description: "The 2B's extra mass adds impact to every breakdown stroke while its hickory construction holds up under sustained heavy playing — the power player's standard choice across beatdown hardcore.",
-        alternative: "Vic Firth American Classic 5B for a lighter option with less breakdown weight"
+        model: 'Vic Firth Sticks (specific model not publicly documented)',
+        specs: 'Not publicly documented',
+        description: "Lamb's Vic Firth endorsement is credited by the band, though the exact stick model isn't publicly documented.",
+        alternative: "A medium-to-heavy hickory stick is a reasonable genre-appropriate starting point."
       },
       heads: {
-        kick: 'Evans Hydraulic (batter)',
-        snare: 'Evans Hydraulic (batter)',
-        toms: 'Evans Hydraulic (batter)',
-        resonant: 'Evans clear resonant'
+        kick: 'Not publicly documented',
+        snare: 'Not publicly documented',
+        toms: 'Not publicly documented',
+        resonant: 'Not publicly documented'
       }
     },
     tuning: {
@@ -16703,7 +16685,7 @@ This guide breaks down the groove architecture and breakdown timing behind Lamb'
         tension: "Medium",
         muffling: "Heavy",
         description: "Heavy muffling and a controlled batter tension produce a dead, punchy kick attack that reads as impact rather than tone — critical for breakdowns to feel physically heavy.",
-        tip: "Evans Hydraulic heads do much of this work on their own; keep additional muffling light to avoid over-deadening the tone."
+        tip: "A hydraulic (oil-filled) batter head does much of this work on its own; keep additional muffling light to avoid over-deadening the tone."
       },
       snare: {
         tension: "Medium-high",
@@ -16714,7 +16696,7 @@ This guide breaks down the groove architecture and breakdown timing behind Lamb'
       toms: {
         tension: "Medium",
         muffling: "Moderate",
-        description: "Evans Hydraulic heads combined with moderate additional muffling keep tom hits focused and punchy for breakdown accents.",
+        description: "Hydraulic (oil-filled) heads combined with moderate additional muffling keep tom hits focused and punchy for breakdown accents.",
         tip: "Prioritize a dead, controlled tone over natural resonance — beatdown production rewards impact over sustain."
       }
     },
@@ -16788,20 +16770,20 @@ This guide breaks down the groove architecture and breakdown timing behind Lamb'
         price: "$2,600",
         label: "Intermediate Setup",
         kit: "DW Design Series or SJC Tour Series ($1,600)",
-        cymbals: "Meinl Classics Custom Dark partial setup ($800)",
+        cymbals: "Meinl dark-toned cymbal pack ($800)",
         pedals: "DW 5000 Double Pedal ($250)",
         sticks: "Vic Firth American Classic 2B ($10)",
-        notes: "Meinl's Dark series cymbals capture the controlled, high-gain-friendly tone central to Lamb's setup."
+        notes: "A well-regarded Meinl cymbal pack captures a controlled, high-gain-friendly tone that suits Lamb's endorsement and genre."
       },
       pro: {
         price: "$5,500+",
         label: "Professional Setup",
         kit: "SJC Custom Drums ($3,500+)",
-        cymbals: "Full Meinl Classics Custom Dark Selection ($1,600+)",
+        cymbals: "Full Meinl cymbal selection ($1,600+)",
         pedals: "DW 9000 Series Double Pedal ($500)",
         sticks: "Vic Firth American Classic 2B ($10)",
-        heads: "Full Evans Hydraulic setup ($200)",
-        notes: "Matches Lamb's touring rig for maximum breakdown impact and consistent live reliability."
+        heads: "Full hydraulic (oil-filled) head setup ($200)",
+        notes: "Built around Lamb's confirmed SJC and Meinl endorsements, with recommended pedal, stick, and head choices for maximum breakdown impact and consistent live reliability."
       }
     },
     faq: [
@@ -16811,15 +16793,15 @@ This guide breaks down the groove architecture and breakdown timing behind Lamb'
       },
       {
         question: "What gear does Isaac Lamb use?",
-        answer: "Lamb plays a SJC Custom Drums kit with American maple shells, a 14\" x 6.5\" SJC Custom snare, Meinl Classics Custom Dark cymbals, a DW 9000 Series double pedal, and Vic Firth American Classic 2B sticks — a setup built for dead, focused attack and maximum breakdown impact."
+        answer: "Lamb is credited with endorsements from SJC Custom Drums, Meinl Cymbals, and Vic Firth Sticks, but the specific kit shells, cymbal models, and stick model aren't publicly documented — no official artist page or gear-focused interview naming his exact equipment has been found."
       },
       {
         question: "How do I make my breakdowns hit as hard as Isaac Lamb's?",
         answer: "End the preceding section on a clean, decisive final stroke, then commit fully to the breakdown's first note at full force with no ramp-up. The preparation in the verse and chorus — deliberate restraint — is what makes the breakdown land; the entry itself needs full physical commitment from the very first hit."
       },
       {
-        question: "Why does Isaac Lamb use thicker 2B sticks?",
-        answer: "The 2B's extra mass and diameter add impact to every breakdown stroke compared to a standard 5A, which matters when every hit in a beatdown hardcore breakdown needs to register as a physical event. The tradeoff is slightly less finesse, which fits Lamb's power-first approach."
+        question: "What stick model does Isaac Lamb play?",
+        answer: "Lamb is credited with a Vic Firth endorsement, but the specific stick model isn't publicly documented. A heavier stick adds mass and diameter for impact on every breakdown stroke, which matters when every hit in a beatdown hardcore breakdown needs to register as a physical event — the tradeoff being slightly less finesse than a lighter 5A."
       },
       {
         question: "Can I get Isaac Lamb's sound on a budget kit?",

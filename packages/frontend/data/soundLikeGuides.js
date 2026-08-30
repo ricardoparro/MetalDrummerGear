@@ -5834,11 +5834,11 @@ His signature open hi-hat thrash pattern — where the hi-hat opens on the eight
         alternative: "Tama Iron Cobra Power Glide or DW 5002 for comparable direct-drive performance and adjustability"
       },
       sticks: {
-        brand: 'Ahead',
-        model: 'Ahead Charlie Benante Signature',
-        specs: '5B equivalent weight, aluminum core with polymer wrap',
-        description: "Benante endorses Ahead sticks — aluminum-core drumsticks with a polymer sleeve that reduce vibration and extend durability. His signature model is 5B-equivalent weight, providing the authority needed for thrash drumming without the wrist fatigue of constantly breaking wooden sticks at high tempos.",
-        alternative: "Vic Firth 5B or Promark 5B in hickory for comparable weight in traditional wood sticks"
+        brand: 'Vic Firth',
+        model: 'Vic Firth Charlie Benante Signature',
+        specs: '5B equivalent weight, hickory',
+        description: "Benante plays his own Vic Firth Charlie Benante Signature drumsticks, a hickory 5B-equivalent weight model, providing the authority needed for thrash drumming while retaining the feel of a traditional wood stick.",
+        alternative: "Vic Firth 5B or Promark 5B in hickory for comparable weight"
       },
       heads: {
         kick: 'Remo Powerstroke P3 Clear',
@@ -5925,7 +5925,7 @@ His signature open hi-hat thrash pattern — where the hi-hat opens on the eight
         kit: "Tama Superstar ($1,200)",
         cymbals: "Paiste 14\" RUDE Hi-Hats + RUDE Crashes ($900)",
         pedals: "Tama Speed Cobra Double Pedal ($350)",
-        sticks: "Ahead 5B or Vic Firth 5B ($15)",
+        sticks: "Vic Firth 5B ($15)",
         heads: "Remo Emperor Clear set ($120)",
         notes: "Tama Superstar delivers the maple warmth and projection needed for thrash at a fraction of the Starclassic price. The RUDE hi-hats are the most important single upgrade — they define Benante's open hi-hat character."
       },

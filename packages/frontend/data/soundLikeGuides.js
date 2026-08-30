@@ -8882,7 +8882,7 @@ This guide breaks down exactly how Inferno achieves his signature sound: his Pea
     genre: 'Death Metal',
     priority: 33,
     title: "How to Sound Like Pete Sandoval: Complete Gear & Technique Guide",
-    description: "Master Pete Sandoval's death metal blast beat technique. Learn his alternating double bass approach, Morbid Angel hyper-precision style, Pearl Reference setup, and the practice system behind 300+ BPM capability.",
+    description: "Master Pete Sandoval's death metal blast beat technique. Learn his alternating double bass approach, Morbid Angel hyper-precision style, ddrum endorsement, and the practice system behind 300+ BPM capability.",
     seoKeywords: ['pete sandoval drums', 'how to sound like pete sandoval', 'morbid angel drummer', 'pete sandoval technique', 'death metal blast beats', 'pete sandoval gear'],
     ogImage: '/images/guides/pete-sandoval-guide.webp',
     datePublished: '2026-06-26',
@@ -8948,46 +8948,33 @@ This guide breaks down the technique, gear, and practice approach that built one
       ]
     },
     gear: {
-      title: "Pete Sandoval's Pearl Reference Setup",
+      title: "Pete Sandoval's ddrum Setup",
       drumKit: {
-        brand: 'Pearl',
-        model: 'Pearl Reference / Pearl Masters (era-dependent)',
-        shells: 'Maple (primarily)',
-        finish: 'Various professional configurations',
-        config: {
-          kick: '22" x 16" Bass Drums (x2)',
-          snare: '14" x 6.5" Pearl Steel or Maple Snare',
-          toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom'],
-          floorToms: ['14" x 14" Floor Tom', '16" x 16" Floor Tom']
-        },
-        description: "Pete Sandoval was a Pearl endorser throughout his Morbid Angel career. His setup evolved from the early Pearl Export-class configurations of the Altars of Madness era through Pearl Reference and Masters-level equipment for later recordings. Pearl's maple construction gave Sandoval the attack and projection needed for death metal's sonic requirements — punch, volume, and clarity at extreme tempos.",
-        affiliateNote: "Pearl Export or Pearl Session Studio Classic for affordable Pearl-family feel; Pearl Reference for professional-level replication."
+        brand: 'ddrum',
+        model: 'Unconfirmed — exact model never publicly documented',
+        shells: 'Not publicly documented',
+        finish: 'Not publicly documented',
+        description: "Pete Sandoval was a ddrum endorser since 1989, spanning his entire Morbid Angel career including the genre-defining Altars of Madness. Unlike many of his peers, the specific kit model, shell material, and configuration were never publicly documented in interviews or press materials.",
+        affiliateNote: "ddrum Dominion Series offers a modern ddrum-family feel for players wanting to match his documented brand relationship, though Sandoval's actual vintage model is unconfirmed."
       },
       snare: {
-        brand: 'Pearl',
-        model: 'Pearl Sensitone Steel 14" x 5"',
-        size: '14" x 5"',
-        shell: 'Steel',
-        description: "Sandoval favored a brighter, cutting snare sound — a steel shell provides the high-frequency crack that cuts through death metal's dense low-end distortion. The 14\" x 5\" configuration gives a focused, punchy sound that registers distinctly on each hit in a 260 BPM blast sequence.",
-        alternative: "Ludwig Supraphonic or Pearl Free-Floating Steel for comparable bright, cutting steel snare character"
+        brand: 'ddrum',
+        model: 'Unconfirmed',
+        size: 'Not publicly documented',
+        shell: 'Not publicly documented',
+        description: "Sandoval's snare was part of his ddrum kit since 1989; no source documents the specific snare model, size, or shell material he used.",
+        alternative: "ddrum Dominion Series snare for matching his documented brand relationship"
       },
       cymbals: {
-        brand: 'Zildjian',
-        series: 'Zildjian A Series',
-        setup: [
-          { type: 'Hi-Hats', model: 'Zildjian 14" A New Beat Hi-Hats', notes: 'Bright and cutting — the standard death metal hi-hat reference' },
-          { type: 'Crash', model: 'Zildjian 18" A Thin Crash', notes: 'Fast, responsive crash for rapid blast beat accent changes' },
-          { type: 'Crash', model: 'Zildjian 19" A Medium Crash', notes: 'Heavier crash for section accents' },
-          { type: 'Ride', model: 'Zildjian 20" A Medium Ride', notes: 'Defined, cutting ride bell for slower groove sections' },
-          { type: 'China', model: 'Zildjian 18" A China', notes: 'Aggressive trashy China for explosive accent moments' }
-        ],
-        description: "Sandoval's Zildjian A series setup provides the bright, cutting character that defines early death metal's cymbal sound. The A series' clear, articulate response allows individual cymbal hits to register distinctly within blast beat sequences — essential when the tempo is too fast for a dark, washy cymbal to speak cleanly."
+        brand: 'Not publicly documented',
+        series: '',
+        description: "Sandoval's cymbal brand was never publicly documented — no interview or endorsement record confirms his cymbal setup during his Morbid Angel career. Players seeking a comparable early death metal tone often reach for a bright, cutting A-style cymbal (e.g. Zildjian A Series or Sabian AAX), though this is a stylistic suggestion, not a confirmed match to Sandoval's own gear."
       },
       pedals: {
-        brand: 'Tama',
-        model: 'Tama Speed Cobra HP910LW',
-        description: "Sandoval used Tama Speed Cobra pedals during key recording periods. The Speed Cobra's unique 'Cobra Coil' spring system and rolling glide footboard provide the fast response and light action suited to extreme tempos. The pedal's lightweight aluminum footboard reduces fatigue during extended blast beat passages.",
-        alternative: "Pearl Eliminator or Axis A Longboard for comparable direct-feel response at extreme tempos"
+        brand: 'ddrum',
+        model: 'Unconfirmed',
+        description: "Sandoval's hardware, including pedals, came through his ddrum endorsement since 1989. The specific pedal model was never publicly documented.",
+        alternative: "ddrum hardware for matching his documented brand relationship"
       },
       sticks: {
         brand: 'Vic Firth',
@@ -9080,19 +9067,19 @@ This guide breaks down the technique, gear, and practice approach that built one
         label: "Intermediate Setup",
         kit: "Pearl Session Studio Classic ($1,400) — professional maple mid-level",
         cymbals: "Zildjian A series selection ($1,200)",
-        pedals: "Tama Speed Cobra HP910LW ($250) — Sandoval's pedal choice",
+        pedals: "Tama Speed Cobra HP910LW ($250)",
         sticks: "Vic Firth 5A ($9)",
-        notes: "Tama Speed Cobra is Sandoval's actual pedal. Zildjian A series gives you the bright, cutting character of the Morbid Angel recording era."
+        notes: "Sandoval's actual cymbal brand and pedal model were never publicly documented — this setup targets the bright, cutting character of the Morbid Angel recording era rather than a confirmed replica."
       },
       pro: {
         price: "$6,500+",
         label: "Professional Setup",
-        kit: "Pearl Reference ($3,000+) — Sandoval's professional configuration",
+        kit: "ddrum Dominion Series ($3,000+) — matches Sandoval's documented ddrum brand endorsement",
         cymbals: "Full Zildjian A selection ($2,000+)",
         pedals: "Tama Speed Cobra HP910LW ($250)",
         snare: "Pearl Sensitone Steel 14\" x 5\" ($200)",
         heads: "Full Remo Powerstroke / Ambassador set ($200)",
-        notes: "Pearl Reference with full Zildjian A selection and Pearl Sensitone Steel snare recreates Sandoval's complete studio configuration."
+        notes: "ddrum matches Sandoval's confirmed brand endorsement since 1989; his exact model, cymbal brand, and pedal choice were never publicly documented, so the rest of this setup targets his death metal tone rather than a confirmed replica."
       }
     },
     faq: [
@@ -9106,7 +9093,7 @@ This guide breaks down the technique, gear, and practice approach that built one
       },
       {
         question: "What pedals does Pete Sandoval use?",
-        answer: "Pete Sandoval used Tama Speed Cobra pedals during key recording and touring periods. The Speed Cobra's rolling glide footboard and lightweight aluminum construction suit his technique — the pedal's fast response and light action reduce fatigue during extended blast beat passages at 240-270 BPM."
+        answer: "Pete Sandoval's pedals came through his ddrum hardware endorsement, in place since 1989 — but the specific pedal model was never publicly documented. Whatever he used had to deliver the fast response and light action needed to sustain blast beat passages at 240-270 BPM."
       },
       {
         question: "What makes Pete Sandoval's blast beat different from other death metal blast beats?",
@@ -9121,7 +9108,7 @@ This guide breaks down the technique, gear, and practice approach that built one
       drummerProfile: '/drummer/pete-sandoval',
       similarDrummers: ['George Kollias', 'Inferno', 'Flo Mounier'],
       relatedGuides: ['how-to-sound-like-george-kollias', 'how-to-sound-like-inferno', 'how-to-sound-like-flo-mounier', 'how-to-sound-like-john-longstreth'],
-      gearPages: ['/gear/pedals', '/brands/pearl', '/brands/zildjian']
+      gearPages: ['/gear/pedals', '/brands/ddrum']
     },
     licksUrl: '/drummers/pete-sandoval/licks',
     relatedArticles: [

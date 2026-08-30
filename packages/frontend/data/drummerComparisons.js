@@ -52,7 +52,7 @@ export const drummerComparisons = {
     comparison: {
       style: 'George combines Greek precision with Egyptian-themed technicality. Pete brought Florida death metal intensity with relentless aggression.',
       technique: 'George uses heel-toe technique for sustained blast beats at extreme tempos. Pete pioneered gravity blasts with raw power.',
-      gear: 'George plays Pearl drums with Pearl Demon XR pedals for speed. Pete used Tama drums with Iron Cobra pedals.',
+      gear: 'George plays Pearl drums with Pearl Demon XR pedals for speed. Pete played a ddrum kit (exact model undocumented) with hardware to match; his cymbal brand was never publicly confirmed.',
       influence: 'George raised the bar for technical death metal drumming. Pete helped define the Florida death metal sound and blast beat vocabulary.',
     },
     verdict: 'Pete Sandoval laid the foundation for extreme death metal drumming. George Kollias elevated it to new technical heights. Both are essential figures in death metal history.',
@@ -735,7 +735,7 @@ export const drummerComparisons = {
     comparison: {
       style: 'Dave Lombardo pioneered thrash metal drumming with Slayer — groove-oriented double kick, punishing snare cracks, and relentless forward drive that defined the genre. Pete Sandoval defined Florida death metal with Morbid Angel — single-footed hyperblasts and gravity blasts that pushed extreme speed beyond what was thought humanly possible.',
       technique: 'Lombardo\'s double bass approach is groove-based: he locks in with the guitar riffs and drives the band with powerful alternating kicks and authoritative snare work. Sandoval invented the gravity blast — using gravity and rebound to generate blast beat speeds physically impossible with conventional technique.',
-      gear: 'Lombardo plays Tama Starclassic Maple drums with Paiste RUDE cymbals and Tama Iron Cobra double pedals. Sandoval used Tama Artstar II drums with Zildjian A Series cymbals and Tama Iron Cobra pedals during his classic Morbid Angel years.',
+      gear: 'Lombardo plays Tama Starclassic Maple drums with Paiste RUDE cymbals and Tama Iron Cobra double pedals. Sandoval played a ddrum kit (exact model undocumented) with hardware to match during his classic Morbid Angel years; his cymbal brand was never publicly confirmed.',
       influence: 'Lombardo defined the Slayer sound that influenced virtually every extreme metal band that followed and helped invent thrash metal drumming. Sandoval\'s gravity blast invention spread through all of death and black metal — it is the foundational technique of extreme speed drumming.',
     },
     verdict: 'Dave Lombardo is the godfather of thrash metal drumming — his groove-powered double kick defined Slayer\'s sonic identity and inspired every extreme metal band that followed. Pete Sandoval invented a technique that changed what was physically possible in extreme drumming. Two different approaches to extreme speed — groove vs pure velocity — both irreplaceable.',

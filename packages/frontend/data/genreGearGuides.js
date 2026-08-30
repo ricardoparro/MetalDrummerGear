@@ -112763,23 +112763,23 @@ The 400 Series' double-braced legs and secure locks hold a growing symphonic met
         },
         {
           rank: 4,
-          name: "DW 9000 Series Hardware Pack",
-          brand: "DW",
-          model: "9000 Series Hardware Pack",
+          name: "Pearl Uni-Lock Hardware Pack",
+          brand: "Pearl",
+          model: "Uni-Lock Hardware Pack",
           image: "https://upload.wikimedia.org/wikipedia/commons/6/6c/Acoustic_Drums_Kit_%2829965183378%29.jpg",
-          priceRange: "€900-1100",
+          priceRange: "€750-950",
           tier: "pro",
           material: "Double-braced heavy-gauge steel",
 
-          description: `Jaska Raatikainen's keyboard-orchestrated Children of Bodom arrangements demand hardware precise enough to keep an elaborate, multi-cymbal setup exactly positioned through technically demanding passages, and DW's 9000 Series delivers that with oversized tripod bases and reinforced tension bolts.
+          description: `Jaska Raatikainen's keyboard-orchestrated Children of Bodom arrangements demand hardware precise enough to keep an elaborate, multi-cymbal setup exactly positioned through technically demanding passages, and Pearl's flagship hardware — the same brand behind his kit and Eliminator pedal — delivers that with heavy-duty tripod bases and Pearl's Uni-Lock tilter system.
 
-The memory-lock system lets a drummer rebuild an identical, precise setup at every stop of a tour — critical when symphonic metal's orchestrated arrangements depend on exact cymbal and auxiliary percussion placement.`,
+Uni-Lock's single-point adjustment lets a drummer rebuild an identical, precise setup at every stop of a tour — critical when symphonic metal's orchestrated arrangements depend on exact cymbal and auxiliary percussion placement.`,
 
           pros: [
             "Touring-grade standard for precise, elaborate multi-cymbal setups",
-            "Oversized tripod bases resist tip-over under a large kit's reach",
-            "Reinforced tension bolts hold cymbal angle through technical passages",
-            "Precise memory-lock system for fast, repeatable setups",
+            "Heavy-duty tripod bases resist tip-over under a large kit's reach",
+            "Uni-Lock tilters hold cymbal angle through technical passages",
+            "Same brand as Jaska Raatikainen's own Pearl kit and pedal setup",
             "Built to survive years of festival and club touring"
           ],
           cons: [
@@ -112789,8 +112789,8 @@ The memory-lock system lets a drummer rebuild an identical, precise setup at eve
           ],
           specs: {
             bracing: "Double-braced",
-            baseType: "Oversized tripod",
-            locking: "DW memory locks",
+            baseType: "Tripod",
+            locking: "Pearl Uni-Lock",
             includes: "Cymbal stands, hi-hat stand, snare stand",
             weight: "Heavy"
           },
@@ -112799,7 +112799,7 @@ The memory-lock system lets a drummer rebuild an identical, precise setup at eve
           ],
           verdict: "Precision hardware for symphonic metal's most elaborate, orchestrated cymbal layouts.",
           rating: 4.7,
-          affiliateLink: "https://www.thomann.de/intl/dw_9000_series_hardware_pack.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/pearl_uni_lock_hardware_pack.htm?partner_id=metalforge"
         },
         {
           rank: 5,
@@ -112941,7 +112941,7 @@ For a symphonic metal drummer building their first setup with room to grow, the 
       { slug: 'daray', name: 'Daray', reason: 'Gibraltar rack carrying Dimmu Borgir\'s orchestral-scale cymbal array' },
       { slug: 'hellhammer', name: 'Hellhammer', reason: 'Pearl hardware bridging blast-beat extremity and symphonic grandeur' },
       { slug: 'frost', name: 'Frost', reason: 'Expandable Sonor hardware for dynamic blast beat and orchestral sections' },
-      { slug: 'jaska-raatikainen', name: 'Jaska Raatikainen', reason: 'DW precision for keyboard-orchestrated, multi-cymbal arrangements' }
+      { slug: 'jaska-raatikainen', name: 'Jaska Raatikainen', reason: 'Pearl precision for keyboard-orchestrated, multi-cymbal arrangements' }
     ],
 
     // Featured drummers (issue template)
@@ -112949,14 +112949,14 @@ For a symphonic metal drummer building their first setup with room to grow, the 
       { slug: 'daray', name: 'Daray', reason: 'Expandable rack for orchestral-scale cymbal array' },
       { slug: 'hellhammer', name: 'Hellhammer', reason: 'Hardware bridging blast beats and orchestration' },
       { slug: 'frost', name: 'Frost', reason: 'Expandable Sonor line for dynamic setups' },
-      { slug: 'jaska-raatikainen', name: 'Jaska Raatikainen', reason: 'DW precision for multi-cymbal arrangements' }
+      { slug: 'jaska-raatikainen', name: 'Jaska Raatikainen', reason: 'Pearl precision for multi-cymbal arrangements' }
     ],
 
     // FAQ section for SEO
     faq: [
       {
         question: "What hardware do symphonic metal drummers use?",
-        answer: "Symphonic metal drummers often need more hardware than a standard extreme metal kit. Daray runs an expandable Gibraltar Road Series rack to carry Dimmu Borgir's orchestral-scale cymbal array, Hellhammer relies on durable Pearl hardware that bridges Mayhem's raw extremity and Dimmu Borgir's grander productions, Frost uses expandable Sonor hardware with Satyricon, and Jaska Raatikainen depends on precise DW hardware for Children of Bodom's multi-cymbal arrangements."
+        answer: "Symphonic metal drummers often need more hardware than a standard extreme metal kit. Daray runs an expandable Gibraltar Road Series rack to carry Dimmu Borgir's orchestral-scale cymbal array, Hellhammer relies on durable Pearl hardware that bridges Mayhem's raw extremity and Dimmu Borgir's grander productions, Frost uses expandable Sonor hardware with Satyricon, and Jaska Raatikainen depends on precise Pearl hardware for Children of Bodom's multi-cymbal arrangements."
       },
       {
         question: "Do I need a rack system for symphonic metal?",

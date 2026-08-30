@@ -2928,10 +2928,10 @@ This guide breaks down Kollias's technique, the endurance training behind his st
         alternative: "Vic Firth 5B or American Classic for similar weight"
       },
       heads: {
-        kick: 'Remo Powerstroke P4 Clear',
-        snare: 'Remo Ambassador X Coated',
-        toms: 'Remo Emperor Clear',
-        resonant: 'Remo Ambassador Clear'
+        kick: 'Evans',
+        snare: 'Evans',
+        toms: 'Evans',
+        resonant: 'Evans'
       }
     },
     tuning: {

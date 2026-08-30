@@ -481,7 +481,7 @@ export const drummerComparisons = {
     comparison: {
       style: 'Nicko delivers galloping rhythms and complex patterns that underpin Iron Maiden\'s progressive metal epics. Mikkey brings explosive raw power and relentless drive to Motörhead\'s high-speed rock and roll.',
       technique: 'Nicko is a single-bass master known for intricate galloping patterns and dynamic control across long songs. Mikkey employs double bass for thunderous speed, hard-hitting snare, and a no-frills aggressive attack.',
-      gear: 'Nicko plays a British Drum Co. kit with Paiste 2002 cymbals for a bright, cutting tone. Mikkey endorses Sonor drums with Zildjian A Custom and K Series cymbals for aggressive projection.',
+      gear: 'Nicko plays a British Drum Co. kit with Paiste 2002 cymbals for a bright, cutting tone. Mikkey endorses Sonor drums with Paiste Signature Series cymbals for aggressive projection.',
       influence: 'Nicko shaped British heavy metal drumming through four decades and hundreds of millions of Iron Maiden records sold. Mikkey anchored Motörhead\'s final and most celebrated live era, earning legendary status in hard rock and metal.',
     },
     verdict: 'Nicko McBrain is the technical architect of Iron Maiden\'s galloping sound — complex, melodic, and precise. Mikkey Dee is the raw force that made Motörhead\'s final years their most powerful. Both are irreplaceable NWOBHM legends who defined their respective bands\' sound.',

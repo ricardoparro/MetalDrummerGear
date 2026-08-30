@@ -25354,7 +25354,7 @@ Find the pocket. Own the groove.`
     // SEO metadata
     title: "Best Bass Drums for Power Metal: 2026 Ultimate Guide",
     metaTitle: "Best Bass Drums for Power Metal in 2026 | MetalForge Expert Guide",
-    description: "Best bass drums for power metal's balanced, punchy low end. What Scott Travis (Tama Starclassic Maple), Aquiles Priester (Trick Drums Custom Maple), Nicko McBrain (Sonor SQ1/SQ2), and Mikkey Dee (Pearl Reference Series) actually play — from budget to pro.",
+    description: "Best bass drums for power metal's balanced, punchy low end. What Scott Travis (ddrum Dominion Series), Aquiles Priester (Trick Drums Custom Maple), Nicko McBrain (Sonor SQ1/SQ2), and Mikkey Dee (Pearl Reference Series) actually play — from budget to pro.",
     seoKeywords: [
       'best bass drums for power metal',
       'power metal bass drum setup',
@@ -25364,7 +25364,7 @@ Find the pocket. Own the groove.`
       'mikkey dee bass drum',
       'galloping bass drum metal',
       'bass drum for melodic metal',
-      'tama starclassic bass drum power metal',
+      'ddrum dominion series bass drum power metal',
       'single pedal bass drum gallop'
     ],
     ogImage: '/api/og/guide?type=genre-gear&gear=bass-drum&genre=power-metal',
@@ -25391,12 +25391,12 @@ Find the pocket. Own the groove.`
       title: "What Bass Drum Setup Do Power Metal Drummers Actually Use?",
       content: `Power metal's bass drum has a different job than the low-end-first approach of death or doom metal: it needs to deliver a balanced, punchy thud that drives galloping, triplet-based rhythms forward without ever burying the soaring clean vocals and keyboard-orchestrated arrangements riding above it. The kick has to be felt as much as heard — present in the mix, but never dominant.
 
-Scott Travis returned to Tama for Judas Priest's "Firepower" (2018), and his Tama Starclassic Maple bass drums are driven by two independent Speed Cobra pedals rather than a double pedal, preserving the foot independence that carries "Painkiller" (1990)'s galloping blueprint into the present. Aquiles Priester runs a fully custom Trick Drums maple bass drum for Angra, chosen for the projection and tuning consistency his sustained 180-220+ BPM neoclassical double-bass technique demands. Nicko McBrain's single 22"x17" Sonor bass drum, driven by one pedal for every Iron Maiden gallop, proves the genre's most influential rhythmic vocabulary doesn't require twin kicks or even a double pedal. Mikkey Dee's Pearl Reference Series bass drum has carried him from Motörhead's all-out attack into Scorpions' wider dynamic range, built for the touring stamina power metal's festival-circuit bands depend on.
+Scott Travis switched to ddrum for Judas Priest's "Firepower" (2018), and his twin 22"x18" ddrum Dominion Series bass drums are driven by a DW 9000 Series double pedal, carrying "Painkiller" (1990)'s galloping blueprint into the present. Aquiles Priester runs a fully custom Trick Drums maple bass drum for Angra, chosen for the projection and tuning consistency his sustained 180-220+ BPM neoclassical double-bass technique demands. Nicko McBrain's single 22"x17" Sonor bass drum, driven by one pedal for every Iron Maiden gallop, proves the genre's most influential rhythmic vocabulary doesn't require twin kicks or even a double pedal. Mikkey Dee's Pearl Reference Series bass drum has carried him from Motörhead's all-out attack into Scorpions' wider dynamic range, built for the touring stamina power metal's festival-circuit bands depend on.
 
 This guide breaks down exactly what makes a bass drum work for power metal — shell tuning, sizing, and pedal configuration — and which specific shells these four influential drummers actually play.`,
       keyPoints: [
         "Power metal wants a balanced, punchy low end that supports the mix rather than overpowering melodic, keyboard-orchestrated arrangements",
-        "Scott Travis's Tama Starclassic Maple runs on two independent Speed Cobra pedals, not a double pedal, preserving foot independence",
+        "Scott Travis's twin ddrum Dominion Series bass drums are driven by a DW 9000 Series double pedal",
         "Nicko McBrain's single 22\"x17\" Sonor bass drum proves galloping rhythms don't require twin kicks or double bass",
         "Aquiles Priester's custom Trick Drums maple shell is tuned for sustained neoclassical double-bass consistency at 180-220+ BPM"
       ]
@@ -25409,7 +25409,7 @@ This guide breaks down exactly what makes a bass drum work for power metal — s
         {
           name: "Balanced, Punchy Low End",
           icon: "⚖️",
-          description: "Power metal's soaring clean vocals and layered keyboard orchestration need a kick that supports rather than overwhelms. Scott Travis's Tama Starclassic Maple and Mikkey Dee's Pearl Reference Series both prioritize a punchy, controlled thud over the cavernous sub-bass weight doom or death metal favors.",
+          description: "Power metal's soaring clean vocals and layered keyboard orchestration need a kick that supports rather than overwhelms. Scott Travis's ddrum Dominion Series and Mikkey Dee's Pearl Reference Series both prioritize a punchy, controlled thud over the cavernous sub-bass weight doom or death metal favors.",
           recommendation: "A punchy, well-controlled maple shell tuned for balance rather than maximum low-end weight"
         },
         {
@@ -25427,7 +25427,7 @@ This guide breaks down exactly what makes a bass drum work for power metal — s
         {
           name: "Shell Material",
           icon: "🪵",
-          description: "Maple (Scott Travis's Tama Starclassic, Aquiles Priester's Trick Drums custom build) delivers the bright, articulate tone power metal needs to cut through theatrical, layered arrangements — warmer and more controlled than the birch/bubinga hybrids favored by heavier subgenres.",
+          description: "Maple (Aquiles Priester's Trick Drums custom build) delivers the bright, articulate tone power metal needs to cut through theatrical, layered arrangements — warmer and more controlled than the birch/bubinga hybrids favored by heavier subgenres. Scott Travis's ddrum Dominion Series brings its own distinct tonal character to the same balanced, cutting power metal sound.",
           recommendation: "Maple for bright, articulate cut-through against dense, melodic arrangements"
         },
         {
@@ -25439,8 +25439,8 @@ This guide breaks down exactly what makes a bass drum work for power metal — s
         {
           name: "Pedal Configuration",
           icon: "🦵",
-          description: "Twin 22\"x18\" kicks (Priester) suit sustained neoclassical double bass, while a single 22\"x17\" kick (McBrain, Travis) keeps the gallop tradition's foot independence intact — Travis drives his single shell with two independent Speed Cobra pedals rather than a double pedal.",
-          recommendation: "Match your kick configuration to your rhythmic tradition — twin kicks or independent pedals for double-bass speed, a single pedal for classic gallop foot independence"
+          description: "Twin 22\"x18\" kicks (Priester, Travis) suit sustained double-bass speed, while a single 22\"x17\" kick (McBrain) keeps the classic gallop tradition's foot independence intact — Travis drives his twin shells with a DW 9000 Series double pedal.",
+          recommendation: "Match your kick configuration to your rhythmic tradition — twin kicks and a double pedal for double-bass speed, a single pedal for classic gallop foot independence"
         }
       ]
     },
@@ -25451,43 +25451,43 @@ This guide breaks down exactly what makes a bass drum work for power metal — s
       pedals: [
         {
           rank: 1,
-          name: "Tama Starclassic Maple Bass Drum",
-          brand: "Tama",
-          model: "Starclassic Maple 22\"x18\"",
+          name: "ddrum Dominion Series Bass Drum",
+          brand: "ddrum",
+          model: "Dominion Series 22\"x18\"",
           image: "https://upload.wikimedia.org/wikipedia/commons/6/6c/Acoustic_Drums_Kit_%2829965183378%29.jpg",
           priceRange: "€700-950",
           tier: "pro",
-          material: "Maple, 22\"x18\"",
+          material: "Piano Black finish, 22\"x18\"",
 
-          description: `Scott Travis returned to Tama for Judas Priest's "Firepower" (2018) after roughly a decade and a half on Pearl, and his Starclassic Maple bass drum carries "Painkiller" (1990)'s foundational speed-and-precision blueprint into the present. Rather than run a double pedal, Travis drives twin shells with two independent Tama Speed Cobra pedals — preserving the foot independence he's played with since the 1980s.
+          description: `Scott Travis switched to ddrum for Judas Priest's "Firepower" (2018) after roughly a decade and a half on Pearl, and his twin 22"x18" Dominion Series bass drums carry "Painkiller" (1990)'s foundational speed-and-precision blueprint into the present. Rather than run two separate pedal units, Travis drives both shells with a single DW 9000 Series double pedal.
 
-The maple shell's bright, articulate projection cuts cleanly through Judas Priest's layered, melodic arrangements, delivering the punchy but controlled low end power metal's galloping riffs demand without ever overpowering the vocals riding above it.`,
+The Dominion Series shell pack's projection cuts cleanly through Judas Priest's layered, melodic arrangements, delivering the punchy but controlled low end power metal's galloping riffs demand without ever overpowering the vocals riding above it.`,
 
           pros: [
             "Scott Travis's exact Judas Priest bass drum — power metal's foundational blueprint",
-            "Bright, articulate maple shell for controlled projection",
-            "Driven by two independent Speed Cobra pedals, preserving foot independence",
+            "Twin 22\"x18\" shells for a punchy, controlled projection",
+            "Driven by a DW 9000 Series double pedal for reliable, synced attack",
             "Excellent balance between punch and melodic cut-through",
             "Proven touring durability across decades of arena shows"
           ],
           cons: [
             "Premium pricing",
-            "Maple's brightness is less aggressive than a birch/bubinga hybrid",
-            "Twin-pedal setup requires more practice than a standard double pedal"
+            "Twin-shell setup adds transport and setup complexity",
+            "Requires a compatible double pedal to drive both kicks"
           ],
           specs: {
             diameter: "22\"",
             depth: "18\"",
-            shell: "Maple",
+            shell: "Piano Black finish",
             headRecommendation: "Remo Powerstroke 3",
-            configuration: "Twin, independent-pedal driven"
+            configuration: "Twin, double-pedal driven"
           },
           usedBy: [
-            { name: "Scott Travis", band: "Judas Priest", note: "Tama Starclassic Maple driven by two independent Speed Cobra pedals" }
+            { name: "Scott Travis", band: "Judas Priest", note: "ddrum Dominion Series twin bass drums driven by a DW 9000 Series double pedal" }
           ],
           verdict: "The power metal foundational standard — Scott Travis's blueprint for galloping speed and precision.",
           rating: 4.9,
-          affiliateLink: "https://www.thomann.de/intl/tama_starclassic_maple_bass_drum_power_metal.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/ddrum_dominion_series_bass_drum.htm?partner_id=metalforge"
         },
         {
           rank: 2,
@@ -25574,7 +25574,7 @@ The slightly shallower 17" depth keeps the attack quick and articulate, matching
     // Budget options section
     budgetOptions: {
       title: "Best Budget Bass Drums for Power Metal",
-      description: "You don't need a custom Trick Drums or Tama Starclassic shell to build a real power metal low end. These bass drums deliver genuine punch and balance at an accessible price.",
+      description: "You don't need a custom Trick Drums or ddrum Dominion Series shell to build a real power metal low end. These bass drums deliver genuine punch and balance at an accessible price.",
       pedals: [
         {
           name: "Tama Imperialstar Bass Drum",
@@ -25583,7 +25583,7 @@ The slightly shallower 17" depth keeps the attack quick and articulate, matching
           priceRange: "€230-300",
           tier: "budget",
           material: "Poplar shell, 22\"x18\"",
-          description: "Same Tama family DNA as Scott Travis's professional Starclassic setup, at a fraction of the price — a genuinely accessible foundation for a balanced, punchy power metal low end.",
+          description: "A reliable, affordable shell pack at power metal's standard 22\"x18\" sizing — a genuinely accessible foundation for a balanced, punchy low end without the premium price tag of a pro-tier kit.",
           pros: ["Standard 22\"x18\" power metal sizing", "Tama hardware quality at a budget price", "Good value step up from entry-level shells"],
           cons: ["Poplar shell lacks the bright projection of maple", "Stock heads benefit from an upgrade for gallop articulation"],
           verdict: "Best budget pick for building a real power metal low end.",
@@ -25612,17 +25612,17 @@ The slightly shallower 17" depth keeps the attack quick and articulate, matching
       title: "Single Pedal vs Double Bass Bass Drums for Power Metal",
       content: `Power metal drummers split their bass drum approach across two proven philosophies:
 
-**Single Pedal (Nicko McBrain, Scott Travis's independent-pedal approach):**
+**Single Pedal (Nicko McBrain):**
 - Quick, articulate gallop attack built on foot independence
 - Simpler shell configuration and easier touring logistics
 - Slightly less raw low-end volume than a twin-kick setup
 
-**Double Bass (Aquiles Priester):**
-- Sustained neoclassical speed and consistent tuning across twin shells
+**Double Bass (Aquiles Priester, Scott Travis's DW 9000 Series double pedal):**
+- Sustained speed and consistent tuning across twin shells
 - More low-end presence for dense, orchestrated arrangements
 - Requires more setup, transport, and tuning maintenance
 
-**Verdict:** Start with a single 22"x17"-18" maple shell and a quality pedal — it's the proven foundation behind Iron Maiden's entire rhythmic catalog. Move to twin shells or independent pedals only if your material demands sustained, technical double-bass speed.`,
+**Verdict:** Start with a single 22"x17"-18" maple shell and a quality pedal — it's the proven foundation behind Iron Maiden's entire rhythmic catalog. Move to twin shells and a double pedal only if your material demands sustained, technical double-bass speed.`,
       comparisonTable: [
         { feature: "Gallop Articulation", birch: "⭐⭐⭐⭐⭐", maple: "⭐⭐⭐⭐" },
         { feature: "Sustained Speed", birch: "⭐⭐⭐", maple: "⭐⭐⭐⭐⭐" },
@@ -25638,8 +25638,8 @@ The slightly shallower 17" depth keeps the attack quick and articulate, matching
       picks: [
         {
           category: "Best Overall",
-          pedal: "Tama Starclassic Maple Bass Drum",
-          reason: "Scott Travis's Judas Priest blueprint — bright, punchy, and driven by independent pedals for total foot control."
+          pedal: "ddrum Dominion Series Bass Drum",
+          reason: "Scott Travis's Judas Priest blueprint — punchy twin 22\"x18\" shells driven by a DW 9000 Series double pedal."
         },
         {
           category: "Best for Neoclassical Speed",
@@ -25654,7 +25654,7 @@ The slightly shallower 17" depth keeps the attack quick and articulate, matching
         {
           category: "Best Budget",
           pedal: "Tama Imperialstar Bass Drum",
-          reason: "Same Tama family DNA as Scott Travis's professional setup, at a fraction of the price."
+          reason: "Reliable 22\"x18\" power metal sizing at a fraction of the price of a pro-tier kit."
         }
       ]
     },
@@ -25667,7 +25667,7 @@ The slightly shallower 17" depth keeps the attack quick and articulate, matching
       'best-drum-pedals-for-power-metal'
     ],
     relatedDrummers: [
-      { slug: 'scott-travis', name: 'Scott Travis', reason: 'Tama Starclassic Maple — Judas Priest power metal blueprint' },
+      { slug: 'scott-travis', name: 'Scott Travis', reason: 'ddrum Dominion Series — Judas Priest power metal blueprint' },
       { slug: 'aquiles-priester', name: 'Aquiles Priester', reason: 'Trick Drums Custom Maple — Angra neoclassical double-bass precision' },
       { slug: 'nicko-mcbrain', name: 'Nicko McBrain', reason: 'Sonor SQ1 — Iron Maiden galloping foundation on a single pedal' },
       { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'Pearl Reference Series — Motörhead/Scorpions touring stamina' }
@@ -25675,7 +25675,7 @@ The slightly shallower 17" depth keeps the attack quick and articulate, matching
 
     // Featured drummers (issue template)
     featuredDrummers: [
-      { slug: 'scott-travis', name: 'Scott Travis', reason: 'Tama Starclassic Maple — Judas Priest power metal blueprint' },
+      { slug: 'scott-travis', name: 'Scott Travis', reason: 'ddrum Dominion Series — Judas Priest power metal blueprint' },
       { slug: 'aquiles-priester', name: 'Aquiles Priester', reason: 'Trick Drums Custom Maple — Angra neoclassical double-bass precision' },
       { slug: 'nicko-mcbrain', name: 'Nicko McBrain', reason: 'Sonor SQ1 — Iron Maiden galloping foundation on a single pedal' }
     ],
@@ -25684,7 +25684,7 @@ The slightly shallower 17" depth keeps the attack quick and articulate, matching
     faq: [
       {
         question: "What bass drums do power metal drummers use?",
-        answer: "Scott Travis of Judas Priest plays a Tama Starclassic Maple bass drum driven by two independent Speed Cobra pedals, Aquiles Priester of Angra runs a fully custom Trick Drums maple twin-shell setup, and Nicko McBrain of Iron Maiden plays a single 22\"x17\" Sonor bass drum on a single pedal — never a double pedal."
+        answer: "Scott Travis of Judas Priest plays twin ddrum Dominion Series bass drums driven by a DW 9000 Series double pedal, Aquiles Priester of Angra runs a fully custom Trick Drums maple twin-shell setup, and Nicko McBrain of Iron Maiden plays a single 22\"x17\" Sonor bass drum on a single pedal — never a double pedal."
       },
       {
         question: "What size bass drum is best for power metal?",
@@ -25700,14 +25700,14 @@ The slightly shallower 17" depth keeps the attack quick and articulate, matching
       },
       {
         question: "Maple or birch/bubinga bass drum for power metal?",
-        answer: "Maple is the power metal standard — both Scott Travis's Tama Starclassic and Aquiles Priester's Trick Drums custom shell are maple, chosen for bright, articulate projection that cuts through melodic, layered arrangements without the heavier, more aggressive punch a birch/bubinga hybrid produces."
+        answer: "Maple is the power metal standard for many pro kits — Aquiles Priester's Trick Drums custom shell is maple, chosen for bright, articulate projection that cuts through melodic, layered arrangements without the heavier, more aggressive punch a birch/bubinga hybrid produces. Scott Travis's ddrum Dominion Series brings its own distinct tonal character to the same balanced, cutting sound."
       }
     ],
 
     // Conclusion
     conclusion: {
       title: "Build the Balanced, Punchy Low End Power Metal Demands",
-      content: `Power metal's bass drum requirements come down to balance: a shell that punches through galloping rhythms and theatrical arrangements without ever overpowering the soaring vocals and keyboards riding above it. Scott Travis proves a bright maple shell driven by independent pedals can carry an entire genre's foundational blueprint, while Nicko McBrain shows the same galloping vocabulary can be built on nothing more than a single 22"x17" shell and one pedal.
+      content: `Power metal's bass drum requirements come down to balance: a shell that punches through galloping rhythms and theatrical arrangements without ever overpowering the soaring vocals and keyboards riding above it. Scott Travis proves a punchy twin-shell ddrum setup driven by a double pedal can carry an entire genre's foundational blueprint, while Nicko McBrain shows the same galloping vocabulary can be built on nothing more than a single 22"x17" shell and one pedal.
 
 If your material demands sustained neoclassical double-bass speed, follow Aquiles Priester's example with a fully custom twin-shell maple setup tuned for consistency at extreme tempo.
 

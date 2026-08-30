@@ -389,7 +389,7 @@ export const drummerComparisons = {
     comparison: {
       style: 'Chris defined modern groove metal with Lamb of God\'s aggressive yet technical approach. Joey brought extreme metal intensity to mainstream nu-metal with Slipknot.',
       technique: 'Chris mastered precision groove drumming with signature triplet patterns. Joey combined death metal speed with theatrical showmanship.',
-      gear: 'Chris played DW drums with Meinl cymbals for dark attack. Joey endorsed Pearl drums with Paiste cymbals for aggressive tone.',
+      gear: 'Chris played Mapex drums with Meinl cymbals for dark attack. Joey endorsed Pearl drums with Paiste cymbals for aggressive tone.',
       influence: 'Chris shaped the new wave of American heavy metal drumming. Joey proved extreme techniques could work in mainstream metal.',
     },
     verdict: 'Two drummers who defined 2000s heavy metal. Chris Adler brought technical precision to groove metal. Joey Jordison brought extreme metal to the masses. Both changed what was possible.',

@@ -6802,3 +6802,48 @@ All 8 personally grep-verified with exact line citations; all 8 checked via `gh 
 2. Vein remains productive (7 sweeps: 11→8→7→8→15→7→8→8 raw/confirmed) but is thinning — this round needed to skip 3 source-file-conflict candidates and 3 low-confidence leads. Next sweep should widen scope to `albumArticles.js`/`genreGearGuides.js` if drummerComparisons.js/soundLikeGuides.js yields fewer clean candidates.
 3. **Flag for CEO/founder**: 3 candidates surfaced a genuine conflict BETWEEN `endorsementNews.js` and `extendedBios.js` themselves (not just target-file fabrication) — Mike Mangini (Pearl Masters MCX vs Masterworks/Eliminator vs Reference/Demon Drive, 3-way), Flo Mounier (Tama vs Pearl kit brand, 2-way), Nick Menza (Tama Artstar II vs Tama Swingstar). These need a source-of-truth ruling before target-file fixes are safe — same class as the Daniel Erlandsson cymbal conflict #6353 already resolved (sided with endorsementNews.js). Worth a dedicated pass once the backlog drains.
 4. Drum-chair rotation: week 36 group 0 (amon-amarth through cynic) — due Monday 2026-08-31.
+
+---
+
+## 2026-08-30 (11th run) — 9th-pass sweep + first genreGearGuides.js finding: 6 verified gear-fabrication proposals filed (#6462-6467)
+
+### Bank check
+Open `seo-proposal` at run start: 11 — 8 (#6440-6445, #6447-6448) already `ai-fix`-labeled + 3 standing umbrellas (#3810/#3819/#2211). True untriaged bank: 0. Cleared to file up to 8 net-new.
+
+### Audit summary
+- Robots.txt (live curl, GPTBot UA): all 8 AI crawlers explicitly allowed. ✅
+- `/public/llms/**/*.md`: 2,011 files live, unchanged. ✅
+- L1/L3 snapshots (`.agents/seo/gsc-watch-snapshot.md`, `.agents/seo/indexation-snapshot.md`): both still generated 2026-08-24 — no fresh weekly refresh yet (due ~08-31), already actioned in prior runs.
+- GSC content-gap (metrics.md, 06:03 UTC): same 3 standing rows (`metalforge` 612 impr/0.49% CTR, `danny carey drum kit` 100 impr/1.00% CTR, `joey jordison drum kit` 59 impr/1.69% CTR) — all previously investigated/held (content-ceiling / name-collision / noise-threshold rulings). No new action.
+- Drum-chair watch: today is Sunday, not Monday — skipped per the "first run each Monday" gate. Next due 2026-08-31 (week 36, group 0, amon-amarth through cynic).
+
+### This run's sweep
+Dispatched a research agent to find fresh `drummerComparisons.js`/`soundLikeGuides.js`-vs-`endorsementNews.js` mismatches for drummers not covered by 8 prior sweep rounds (~86 verified fixes so far), with instructions to widen to `albumArticles.js`/`genreGearGuides.js` if the primary vein thinned. It returned 6 candidates (agent also spot-checked `albumArticles.js` — reported clean, no fabrications found there). Personally re-verified all 6 via direct `sed`/grep of both the fabricating file and `endorsementNews.js` before filing — all checked out exactly as reported:
+
+1. **Pete Sandoval** — `drummerComparisons.js:55,738` (2 entries, drums/cymbals/pedal fabricated as Tama/Zildjian) + entire `soundLikeGuides.js` `how-to-sound-like-pete-sandoval` guide (lines 8953-9006, drums/snare/cymbals/pedal all stated as confident Pearl/Zildjian/Tama fact vs verified largely-unconfirmed gear per `endorsementNews.js:2378-2399` — ddrum drums since 1989, cymbals/hardware model explicitly unconfirmed). Same rule-violation class as #6306/#6136 but 2 untouched files/scopes. Filed **#6462**.
+2. **John Otto** — `drummerComparisons.js:72,501` (2 entries) fabricate Pearl drums; verified OCDP Custom Kit since 2003 (`endorsementNews.js:775`). A correct sibling entry already exists at line 1279, proving these two were simply missed. Filed **#6463**.
+3. **Mikkey Dee** — `drummerComparisons.js:484` fabricates Zildjian A Custom/K Series cymbals; verified Paiste Signature Series (`endorsementNews.js:911`). Prior fix #5657 covered 6 other entries but not this one. Filed **#6464**.
+4. **Hellhammer** — `drummerComparisons.js:140` (`hellhammer-vs-inferno` entry) fabricates Pearl drums; verified Sonor SQ2 Heavy Beech (`endorsementNews.js:984`). #6327 fixed the same bug in the different `frost-vs-hellhammer` entry, not this one. Filed **#6465**.
+5. **Chris Adler** — `drummerComparisons.js:392` (`chris-adler-vs-joey-jordison` entry) fabricates DW drums; verified Mapex Saturn (`endorsementNews.js:559`). #6325 fixed the same class in other entries, not this one. Filed **#6466**.
+6. **Scott Travis** — first-ever finding in `packages/frontend/data/genreGearGuides.js` (116K lines, never swept before): the `best-bass-drums-for-power-metal` guide fabricates Tama Starclassic Maple + twin independent Speed Cobra pedals throughout (~16 lines); verified ddrum Dominion Series + DW 9000 Series double pedal since 2018 (`endorsementNews.js:1065,1069`). Filed **#6467**, scoped to this one guide page only. Flagged in the issue body that this file has hundreds of Hellhammer/Mikkey Dee mentions across many other guide pages, never audited — a candidate for a dedicated future sweep.
+
+All 6 personally grep-verified with exact line citations; all 6 checked via `gh issue list --state all --search "<name>"` for duplicates — every closest match targets a different file, field, or entry (documented per-issue). Single/dual-file, text-only, zero new pages/URLs — freeze-compliant.
+
+### Proposals filed this run (6)
+1. #6462 — Pete Sandoval (drummerComparisons.js 2 entries + soundLikeGuides.js whole guide)
+2. #6463 — John Otto (drummerComparisons.js, 2 entries, Pearl vs OCDP)
+3. #6464 — Mikkey Dee (drummerComparisons.js:484, cymbal brand)
+4. #6465 — Hellhammer (drummerComparisons.js:140, drum brand)
+5. #6466 — Chris Adler (drummerComparisons.js:392, drum brand)
+6. #6467 — Scott Travis (genreGearGuides.js, first finding in this file — flagged for future dedicated sweep)
+
+### Open proposals waiting on CEO triage
+- #6462-6467 (filed this run, 0d old)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers only.
+
+### Next run
+1. Watch #6462-6467 ship via Roadie/PR Merger.
+2. `genreGearGuides.js` (116K lines) is a large, never-audited surface with hundreds of Hellhammer (533)/Mikkey Dee (217)/other-drummer mentions across many guide pages beyond the one scoped in #6467 — worth a dedicated multi-pass sweep of this file specifically once the current backlog drains, same pattern as the drummerComparisons.js/soundLikeGuides.js vein.
+3. Primary `drummerComparisons.js`/`soundLikeGuides.js` vein is thinning (9 sweeps: 11→8→7→8→15→7→8→8→6) — next sweep should keep widening to `genreGearGuides.js`/other data files as the primary vein yields fewer candidates.
+4. Standing flag (unchanged): Mike Mangini, Flo Mounier, Nick Menza have `endorsementNews.js`-vs-`extendedBios.js` source conflicts needing a founder/CEO ruling before target-file fixes are safe.
+5. Drum-chair rotation: week 36 group 0 (amon-amarth through cynic) — due Monday 2026-08-31.

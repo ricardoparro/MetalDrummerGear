@@ -10111,7 +10111,7 @@ This guide breaks down the technique, gear, and practice approach behind Christy
     genre: 'Metalcore / Hardcore',
     priority: 38,
     title: "How to Sound Like Ben Koller: Complete Gear & Technique Guide",
-    description: "Master Ben Koller's explosive metalcore drumming. Learn his chaotic blast beats, Converge groove approach, DW setup, and the practice system behind one of hardcore's most influential drummers.",
+    description: "Master Ben Koller's explosive metalcore drumming. Learn his chaotic blast beats, Converge groove approach, Tama setup, and the practice system behind one of hardcore's most influential drummers.",
     seoKeywords: ['ben koller drums', 'how to sound like ben koller', 'converge drummer', 'ben koller technique', 'metalcore drumming', 'ben koller gear'],
     ogImage: '/images/guides/ben-koller-guide.webp',
     datePublished: '2026-06-28',
@@ -10179,44 +10179,44 @@ This guide breaks down the technique, gear, and practice system behind Koller's 
     gear: {
       title: "Koller's Gear Setup",
       drumKit: {
-        brand: 'DW',
-        model: 'DW Collector\'s Series',
+        brand: 'Tama',
+        model: 'Tama Starclassic Maple',
         shells: 'Maple',
         finish: 'Custom finish',
         config: {
           kick: '22" x 18" Bass Drums (x2)',
-          snare: '14" x 5.5" DW Collector\'s Snare',
+          snare: '14" x 6" Tama S.L.P. Brass Snare',
           toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom'],
           floorToms: ['16" x 16" Floor Tom']
         },
-        description: "Koller favors DW Collector's Series maple drums for their powerful attack and resonance. The setup is compact enough for Converge's intense live performance demands while delivering full, projecting tone.",
-        affiliateNote: "DW Design Series or PDP Concept Maple provide similar maple attack at lower cost."
+        description: "Koller favors Tama Starclassic Maple drums for their powerful attack and resonance. The setup is compact enough for Converge's intense live performance demands while delivering full, projecting tone.",
+        affiliateNote: "Tama Imperialstar or Pearl Export provide similar maple attack at lower cost."
       },
       snare: {
-        brand: 'DW',
-        model: 'DW Collector\'s Steel Snare',
-        size: '14" x 5.5"',
-        shell: 'Steel',
-        description: "A steel snare tuned for a sharp, cutting crack that drives Converge's metalcore attack. The shallow depth keeps the response fast for blast beat sections while still delivering body on heavy backbeats.",
-        alternative: "DW Performance Steel or Pearl Sensitone Steel for similar crack"
+        brand: 'Tama',
+        model: 'Tama S.L.P. Brass Snare',
+        size: '14" x 6"',
+        shell: 'Brass',
+        description: "A brass snare tuned for a sharp, cutting crack that drives Converge's metalcore attack. The shallow depth keeps the response fast for blast beat sections while still delivering body on heavy backbeats.",
+        alternative: "Tama Superstar Steel or Pearl Sensitone Brass for similar crack"
       },
       cymbals: {
         brand: 'Zildjian',
-        series: 'Zildjian A Custom / A Series',
+        series: 'Zildjian K Dark Series',
         setup: [
-          { type: 'Hi-Hats', model: 'Zildjian 14" A Custom Hi-Hats', notes: 'Bright and responsive for fast patterns' },
-          { type: 'Crash', model: 'Zildjian 18" A Custom Crash', notes: 'Fast decay for quick accent work' },
-          { type: 'Crash', model: 'Zildjian 19" A Custom Crash', notes: 'Heavier accent crashes' },
-          { type: 'Ride', model: 'Zildjian 20" A Custom Ride', notes: 'Clean bell for riding through dense sections' },
-          { type: 'China', model: 'Zildjian 18" A China', notes: 'Trashy, aggressive accent' }
+          { type: 'Hi-Hats', model: 'Zildjian 14" K Dark Thin Hi-Hats', notes: 'Dark, trashy response for fast patterns' },
+          { type: 'Crash', model: 'Zildjian 18" K Dark Medium Thin Crash', notes: 'Fast decay for quick accent work' },
+          { type: 'Crash', model: 'Zildjian 19" K Dark Medium Thin Crash', notes: 'Heavier accent crashes' },
+          { type: 'Ride', model: 'Zildjian 21" K Custom Ride', notes: 'Clean bell for riding through dense sections' },
+          { type: 'China', model: 'Zildjian 18" K China', notes: 'Trashy, aggressive accent' }
         ],
-        description: "Koller uses bright, fast cymbals that respond quickly to his explosive attack and don't wash out during Converge's dense, downtuned guitar sections."
+        description: "Koller uses dark, trashy cymbals that respond quickly to his explosive attack and cut through Converge's dense, downtuned guitar sections."
       },
       pedals: {
-        brand: 'DW',
-        model: 'DW 9000 Double Pedal',
-        description: "The DW 9000 provides the power and reliability Koller needs for sustained double bass blasting through long, intense sets. The direct-drive feel suits his physical, heavy-foot approach.",
-        alternative: "DW 5000 or Tama Iron Cobra for similar power and reliability"
+        brand: 'Tama',
+        model: 'Tama Iron Cobra 900 Double Pedal',
+        description: "The Tama Iron Cobra 900 provides the power and reliability Koller needs for sustained double bass blasting through long, intense sets. The direct-drive feel suits his physical, heavy-foot approach.",
+        alternative: "Tama Iron Cobra 200 or DW 5000 for similar power and reliability"
       },
       sticks: {
         brand: 'Vic Firth',
@@ -10244,7 +10244,7 @@ This guide breaks down the technique, gear, and practice system behind Koller's 
       snare: {
         tension: "Medium-high",
         muffling: "Light or none",
-        description: "The steel snare is tuned for a sharp crack with enough body to cut through mix. Koller's snare needs to be heard above chaotic guitar and bass — tune for crack and projection.",
+        description: "The brass snare is tuned for a sharp crack with enough body to cut through mix. Koller's snare needs to be heard above chaotic guitar and bass — tune for crack and projection.",
         tip: "Tune the batter a few turns above finger-tight. Let the snare ring a little — the crack needs to penetrate the mix."
       },
       toms: {
@@ -10290,27 +10290,27 @@ This guide breaks down the technique, gear, and practice system behind Koller's 
       budget: {
         price: "$1,000",
         label: "Starter Setup",
-        kit: "DW Design Series ($700)",
-        cymbals: "Zildjian A Pack ($250)",
-        pedals: "DW 5000 Double Pedal ($150)",
+        kit: "Tama Imperialstar ($700)",
+        cymbals: "Zildjian Planet Z Pack ($250)",
+        pedals: "Tama Speed Cobra 250 ($150)",
         sticks: "Vic Firth 5B ($10)",
-        notes: "DW's entry-level maple kit delivers the attack and punch metalcore needs."
+        notes: "Tama's entry-level maple kit delivers the attack and punch metalcore needs."
       },
       mid: {
         price: "$3,000",
         label: "Intermediate Setup",
-        kit: "DW Performance Series ($1,500)",
-        cymbals: "Zildjian A Custom Set ($900)",
-        pedals: "DW 9000 Double ($350)",
+        kit: "Tama Superstar Classic ($1,500)",
+        cymbals: "Zildjian K Dark Set ($900)",
+        pedals: "Tama Iron Cobra 200 Double ($350)",
         sticks: "Vic Firth 5B ($10)",
-        notes: "Approaching Koller's tone. DW's direct-drive feel suits his physical double bass approach."
+        notes: "Approaching Koller's tone. Tama's direct-drive feel suits his physical double bass approach."
       },
       pro: {
         price: "$5,500+",
         label: "Professional Setup",
-        kit: "DW Collector's Series ($3,000+)",
-        cymbals: "Full Zildjian A Custom selection ($1,800+)",
-        pedals: "DW 9000 Double or 9002 ($400)",
+        kit: "Tama Starclassic Maple ($3,000+)",
+        cymbals: "Full Zildjian K Dark selection ($1,800+)",
+        pedals: "Tama Iron Cobra 900 Double ($400)",
         heads: "Full Remo setup ($150)",
         notes: "Recording and touring-ready setup matching Koller's Converge sound."
       }
@@ -10322,11 +10322,11 @@ This guide breaks down the technique, gear, and practice system behind Koller's 
       },
       {
         question: "What drums and cymbals does Ben Koller use?",
-        answer: "Koller plays DW Collector's Series maple drums with a compact setup suited to Converge's intense performances. He uses steel snare drums for sharp, cutting crack and bright Zildjian cymbals that respond quickly to his explosive attack. He favors heavier sticks for maximum impact."
+        answer: "Koller plays Tama Starclassic Maple drums with a compact setup suited to Converge's intense performances. He uses a brass snare for sharp, cutting crack and dark, trashy Zildjian K Dark cymbals that respond quickly to his explosive attack. He favors heavier sticks for maximum impact."
       },
       {
         question: "How do I get the Converge drum sound?",
-        answer: "Tune the kick for a clicky, defined attack with heavy muffling, use a steel snare tuned for a sharp crack, and keep cymbals bright and fast-decaying. Most importantly, lock every pattern to the guitar riff and build the dynamic contrast between brutal blasting and near-silence — that contrast is the Converge sound."
+        answer: "Tune the kick for a clicky, defined attack with heavy muffling, use a brass snare tuned for a sharp crack, and keep cymbals dark and fast-decaying. Most importantly, lock every pattern to the guitar riff and build the dynamic contrast between brutal blasting and near-silence — that contrast is the Converge sound."
       },
       {
         question: "What Converge albums should I study for drumming?",
@@ -10341,7 +10341,7 @@ This guide breaks down the technique, gear, and practice system behind Koller's 
       drummerProfile: '/drummer/ben-koller',
       similarDrummers: ['Blake Richardson', 'Matt Halpern', 'Matt Greiner'],
       relatedGuides: ['how-to-sound-like-matt-halpern', 'how-to-sound-like-blake-richardson'],
-      gearPages: ['/gear/drums', '/brands/dw', '/brands/zildjian']
+      gearPages: ['/gear/drums', '/brands/tama', '/brands/zildjian']
     },
     licksUrl: '/drummers/ben-koller/licks',
     relatedArticles: [

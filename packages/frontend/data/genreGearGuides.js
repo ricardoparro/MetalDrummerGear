@@ -7218,12 +7218,12 @@ Technique matters more than gear in black metal. The genre's most influential re
       title: "The Thrash Drum Kit: Power, Projection, and Precision",
       content: `Thrash metal drumming demands a kit that combines projection, durability, and tonal clarity. Unlike jazz or even classic rock, thrash places specific demands: the kick drum must cut through dense, downtuned guitar at 180+ BPM, the snare must crack with authority at any volume, and toms must project clearly during complex fill sequences played at high speed.
 
-Lars Ulrich's Tama Starclassic kit has been his primary setup through Metallica's peak years — the birch shells providing the punchy, focused attack that drives "Master of Puppets" and "...And Justice for All." Dave Lombardo's various Yamaha and DW setups gave Slayer the aggressive, precise kick drum attack that made "Reign in Blood" a benchmark. Gene Hoglan — nicknamed "The Atomic Clock" — trusts DW Collector's Series drums for the precision that makes his playing as reliable as a metronome.
+Lars Ulrich's Tama Starclassic Maple kit has been his primary setup through Metallica's peak years — the maple shells, tuned tight with the right heads, providing the punchy attack that drives "Master of Puppets" and "...And Justice for All." Dave Lombardo's various Yamaha and DW setups gave Slayer the aggressive, precise kick drum attack that made "Reign in Blood" a benchmark. Gene Hoglan — nicknamed "The Atomic Clock" — trusts DW Collector's Series drums for the precision that makes his playing as reliable as a metronome.
 
 This guide covers what actually makes a drum kit work for thrash metal, which specific models the legends use, and how to build your own thrash setup across any budget.`,
       keyPoints: [
-        "Birch shells provide the punchy, focused attack thrash metal demands",
-        "Lars Ulrich's Tama Starclassic Birch is the most iconic thrash kit",
+        "Maple shells, tuned tight, deliver the warm-but-cutting attack thrash metal demands",
+        "Lars Ulrich's Tama Starclassic Maple is the most iconic thrash kit",
         "DW Collector's Series is Gene Hoglan's choice for precision thrash",
         "Standard sizes: 22\" kick, 12\"/13\" rack toms, 16\" floor tom"
       ]
@@ -7278,43 +7278,43 @@ This guide covers what actually makes a drum kit work for thrash metal, which sp
       pedals: [
         {
           rank: 1,
-          name: "Tama Starclassic Birch",
+          name: "Tama Starclassic Maple",
           brand: "Tama",
-          model: "Starclassic Birch Series",
+          model: "Starclassic Maple Series",
           image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Drums_01.jpg",
           priceRange: "€2000-3500 (shell pack)",
           tier: "pro",
-          material: "100% Birch",
+          material: "100% Maple",
 
-          description: `The Tama Starclassic Birch is the most iconic thrash metal drum kit, used by Lars Ulrich as his primary Metallica setup during the band's most influential recordings and tours. The 100% birch shell construction delivers the punchy, focused attack that defined thrash drumming — that cutting crack that slices through downtuned guitar walls and stays audible at maximum volume.
+          description: `The Tama Starclassic Maple is the most iconic thrash metal drum kit, used by Lars Ulrich as his primary Metallica setup during the band's most influential recordings and tours. The 100% maple shell construction delivers a warm, full-bodied tone with real low-mid resonance — tuned tight with the right heads, it still cuts through downtuned guitar walls and stays audible at maximum volume.
 
-Lars's Tama endorsement and his use of the Starclassic have made these drums synonymous with professional thrash drumming. The Starclassic's proprietary ZH80 birch plies are precision-dried and treated to maintain consistent tone regardless of temperature and humidity — essential for touring equipment that must perform reliably in any environment.`,
+Lars's Tama endorsement and his use of the Starclassic — including his signature LU1465 snare — have made these drums synonymous with professional thrash drumming. Maple's natural resonance and sustain give the kit a fuller voice in the mix than a pure-attack shell, which is exactly why it's held up as a recording-friendly standard for decades.`,
 
           pros: [
             "The thrash metal kit — Lars Ulrich's primary choice",
-            "ZH80 birch plies for focused, cutting attack",
+            "Maple shells for warm, resonant tone with real body",
             "Star-Cast mounting system minimizes shell dampening",
             "Wide range of configurations available",
             "Excellent hardware quality included"
           ],
           cons: [
             "Premium pricing — significant investment",
-            "Birch character less versatile for non-metal styles",
+            "Needs tight tuning and the right heads to cut like a birch kit",
             "Heavy for transport"
           ],
           specs: {
-            shell: "100% Birch (ZH80 plies)",
+            shell: "100% Maple",
             mount: "Star-Cast Mounting System",
             finish: "Multiple lacquer options",
             kickSize: "22\" x 18\" standard",
             tomSizes: "10\", 12\" (rack) / 16\" (floor)"
           },
           usedBy: [
-            { name: "Lars Ulrich", band: "Metallica", note: "Primary Tama Starclassic user — defining thrash kit sound" }
+            { name: "Lars Ulrich", band: "Metallica", note: "Primary Tama Starclassic Maple user — defining thrash kit sound" }
           ],
           verdict: "The thrash metal standard. If you want the Lars Ulrich sound, this is the kit.",
           rating: 4.9,
-          affiliateLink: "https://www.thomann.de/intl/tama_starclassic_birch_series.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/tama_starclassic_maple_series.htm?partner_id=metalforge"
         },
         {
           rank: 2,
@@ -7522,26 +7522,26 @@ More importantly, the Export's robust construction handles aggressive thrash pla
       title: "Birch vs Maple for Thrash Metal",
       content: `The choice between birch and maple shells is the most important decision in building a thrash metal kit:
 
-**Birch (Tama Starclassic Birch, Lars Ulrich's choice):**
-- Punchy, focused, extended high-frequency response
-- Cuts through guitar walls with precise attack
-- Less warm than maple but more defined
-- The traditional thrash metal choice
-- Better for loud, aggressive contexts
-
-**Maple (DW Collector's, Gene Hoglan's choice):**
-- Warmer, fuller tone with more body
+**Maple (Tama Starclassic Maple — Lars Ulrich's choice; DW Collector's — Gene Hoglan's choice):**
+- Warmer, fuller tone with more body and natural resonance
 - More versatile across dynamics and tempos
+- Still cuts through dense guitar walls when tuned tight with the right heads
+- The choice of thrash metal's two most influential drummers
 - Better sensitivity for ghost notes and complex fills
-- Can still be made aggressive through tuning and heads
-- The premium standard for recorded thrash
+
+**Birch (Tama Starclassic Birch):**
+- Punchy, focused, extended high-frequency response
+- Cuts through guitar walls with precise attack out of the box
+- Less warm than maple but more immediately defined
+- A traditional, budget-friendlier thrash choice
+- Better for players who want cutting attack without extensive tuning work
 
 **Maple-Walnut Hybrid (Tama Superstar Classic option):**
 - Combines maple attack with walnut warmth
 - More complex tone than pure maple
 - Growing popularity in modern metal
 
-**Thrash Recommendation:** Start with birch if you specifically play thrash. Upgrade to maple when you want more versatility and are willing to pay for it. DW Collector's maple can be made to cut as hard as Starclassic birch with proper heads and tuning.`,
+**Thrash Recommendation:** Start with maple, tuned tight, if you want the sound Lars Ulrich and Gene Hoglan built their careers on. Birch is a solid, more budget-accessible option if you want cutting attack without as much tuning work.`,
       comparisonTable: [
         { feature: "Attack Focus", birch: "⭐⭐⭐⭐⭐", maple: "⭐⭐⭐⭐" },
         { feature: "Warmth", birch: "⭐⭐⭐", maple: "⭐⭐⭐⭐⭐" },
@@ -7557,8 +7557,8 @@ More importantly, the Export's robust construction handles aggressive thrash pla
       picks: [
         {
           category: "Best Overall",
-          pedal: "Tama Starclassic Birch",
-          reason: "Lars Ulrich's kit — the most iconic thrash drum sound in history. Birch attack and Tama reliability."
+          pedal: "Tama Starclassic Maple",
+          reason: "Lars Ulrich's kit — the most iconic thrash drum sound in history. Warm maple tone and Tama reliability."
         },
         {
           category: "Best Premium",
@@ -7586,14 +7586,14 @@ More importantly, the Export's robust construction handles aggressive thrash pla
       'best-drum-hardware-for-thrash-metal'
     ],
     relatedDrummers: [
-      { slug: 'lars-ulrich', name: 'Lars Ulrich', reason: 'Tama Starclassic Birch — defining thrash metal kit sound' },
+      { slug: 'lars-ulrich', name: 'Lars Ulrich', reason: 'Tama Starclassic Maple — defining thrash metal kit sound' },
       { slug: 'dave-lombardo', name: 'Dave Lombardo', reason: 'Tama/Pearl — relentless thrash precision' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'DW Collector\'s — The Atomic Clock\'s precision machine' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
-      { slug: 'lars-ulrich', name: 'Lars Ulrich', reason: 'Tama Starclassic Birch — the definitive thrash metal kit' },
+      { slug: 'lars-ulrich', name: 'Lars Ulrich', reason: 'Tama Starclassic Maple — the definitive thrash metal kit' },
       { slug: 'dave-lombardo', name: 'Dave Lombardo', reason: 'Tama/Pearl — driving Slayer\'s thrash precision' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'DW Collector\'s Series — The Atomic Clock\'s drum machine' },
     ],
@@ -7602,7 +7602,7 @@ More importantly, the Export's robust construction handles aggressive thrash pla
     faq: [
       {
         question: "What drum kit does Lars Ulrich use?",
-        answer: "Lars Ulrich uses Tama Starclassic Birch drums as his primary setup through Metallica's career. The 100% birch shell construction delivers the punchy, focused attack that cuts through Metallica's dense guitar arrangements. Lars's Tama endorsement made the Starclassic synonymous with professional thrash metal drumming."
+        answer: "Lars Ulrich uses Tama Starclassic Maple drums as his primary setup through Metallica's career, along with his signature LU1465 snare. The 100% maple shell construction delivers a warm, full-bodied tone that, tuned tight with the right heads, still cuts through Metallica's dense guitar arrangements. Lars's Tama endorsement made the Starclassic synonymous with professional thrash metal drumming."
       },
       {
         question: "What drum kit does Gene Hoglan use?",
@@ -7610,7 +7610,7 @@ More importantly, the Export's robust construction handles aggressive thrash pla
       },
       {
         question: "Are birch or maple drums better for thrash metal?",
-        answer: "Birch drums are the traditional thrash metal choice — the focused, punchy attack cuts through dense guitar arrangements more effectively than maple's warmer, fuller tone. Lars Ulrich's Tama Starclassic Birch exemplifies this. Maple (Gene Hoglan's DW choice) is warmer and more versatile but can still be made aggressive through tuning and head selection. Either works; birch is more historically appropriate for classic thrash."
+        answer: "Maple is the choice of thrash metal's two most influential drummers — Lars Ulrich's Tama Starclassic Maple and Gene Hoglan's DW Collector's Series — delivering a warmer, fuller tone that still cuts through dense guitar arrangements when tuned tight with the right heads. Birch produces a more immediately focused, punchy attack out of the box and remains a solid, more budget-accessible traditional choice. Either works; maple is what the genre's most recorded kits actually use."
       },
       {
         question: "What size drum kit for thrash metal?",
@@ -7629,7 +7629,7 @@ More importantly, the Export's robust construction handles aggressive thrash pla
     // Conclusion
     conclusion: {
       title: "Build Your Thrash Metal War Machine",
-      content: `Building a thrash metal kit comes down to a clear hierarchy: shell material, then configuration, then hardware, then heads. Get the shells right first — birch for classic thrash attack (Tama Starclassic path) or maple for premium versatility (DW Collector's path). Everything else is adjustable.
+      content: `Building a thrash metal kit comes down to a clear hierarchy: shell material, then configuration, then hardware, then heads. Get the shells right first — maple tuned tight for the sound Lars Ulrich and Gene Hoglan actually play (Tama Starclassic or DW Collector's path), or birch if you want cutting attack with less tuning work (budget path). Everything else is adjustable.
 
 Lars Ulrich didn't always have the best gear — he had the right gear for his needs and practiced until it became an extension of his body. Gene Hoglan didn't use DW from day one. Both built their sounds through years of playing, upgrading as their skills and needs developed.
 
@@ -8155,12 +8155,12 @@ Start with a durable budget kit like the Pearl Export while you build your blast
       title: "The Fundamentals Every Metal Drum Kit Needs",
       content: `Whether you play thrash, death, doom, or progressive metal, every metal drum kit has to solve the same core problem: projecting clearly and durably through loud, dense, downtuned guitar arrangements without falling apart under aggressive, high-volume playing. The specific tempo and technique demands shift subgenre to subgenre, but the underlying kit fundamentals — shell material, sizing, hardware quality, and tuning range — stay consistent across the entire genre.
 
-Lars Ulrich's Tama Starclassic Birch has been Metallica's primary kit through the band's most influential recordings, its punchy, focused attack becoming the reference point for what a "metal kit" should sound like. Gene Hoglan, "The Atomic Clock," built his four-decade career across Death, Testament, and Dethklok on DW Collector's Series drums, prized for precision and consistency. George Kollias drives Nile's extreme-tempo death metal on a Pearl Masterworks kit engineered for touring-level durability, while Tomas Haake's Sonor SQ2 Heavy Beech — built around dual 24"x18" bass drums — gives Meshuggah's polyrhythmic riffing its uniquely deep, resonant foundation.
+Lars Ulrich's Tama Starclassic Maple has been Metallica's primary kit through the band's most influential recordings, its warm, resonant tone — tuned tight — becoming the reference point for what a "metal kit" should sound like. Gene Hoglan, "The Atomic Clock," built his four-decade career across Death, Testament, and Dethklok on DW Collector's Series drums, prized for precision and consistency. George Kollias drives Nile's extreme-tempo death metal on a Pearl Masterworks kit engineered for touring-level durability, while Tomas Haake's Sonor SQ2 Heavy Beech — built around dual 24"x18" bass drums — gives Meshuggah's polyrhythmic riffing its uniquely deep, resonant foundation.
 
 This guide covers the cross-genre fundamentals that make a drum kit work for metal generally: what shell material to choose, how to size your kit, what hardware actually matters, and which specific models the genre's most influential drummers rely on — from budget-friendly starter kits to the professional rigs used on metal's biggest stages.`,
       keyPoints: [
         "Every metal subgenre demands the same fundamentals: durable shells, focused projection, reinforced hardware",
-        "Lars Ulrich's Tama Starclassic Birch remains metal's most iconic, widely referenced kit",
+        "Lars Ulrich's Tama Starclassic Maple remains metal's most iconic, widely referenced kit",
         "Shell material — birch, maple, or heavy maple/beech — is the single biggest tone decision you'll make",
         "Standard sizing (22\" kick, 10\"-16\" toms) works across nearly every metal subgenre before you specialize"
       ]
@@ -8173,8 +8173,8 @@ This guide covers the cross-genre fundamentals that make a drum kit work for met
         {
           name: "Shell Material",
           icon: "🪵",
-          description: "Birch (Lars Ulrich's Starclassic) delivers a punchy, focused attack that's become the genre's default reference tone. Maple (Gene Hoglan's DW Collector's, George Kollias's Pearl Masterworks) is warmer and more versatile across subgenres, from technical death metal to doom. Heavy maple/beech (Tomas Haake's Sonor SQ2) adds mass for maximum low-end weight.",
-          recommendation: "Birch for classic, cutting metal attack; maple for versatility across subgenres; heavy maple/beech for maximum low end"
+          description: "Birch delivers a punchy, focused attack that's a classic metal reference tone. Maple (Lars Ulrich's Tama Starclassic, Gene Hoglan's DW Collector's, George Kollias's Pearl Masterworks) is warmer and more versatile across subgenres, from technical death metal to doom, and is what most of metal's most influential drummers actually play. Heavy maple/beech (Tomas Haake's Sonor SQ2) adds mass for maximum low-end weight.",
+          recommendation: "Maple for the sound metal's most influential drummers actually use; birch for classic cutting attack out of the box; heavy maple/beech for maximum low end"
         },
         {
           name: "Shell Construction",
@@ -8215,43 +8215,43 @@ This guide covers the cross-genre fundamentals that make a drum kit work for met
       pedals: [
         {
           rank: 1,
-          name: "Tama Starclassic Birch",
+          name: "Tama Starclassic Maple",
           brand: "Tama",
-          model: "Starclassic Birch Series",
+          model: "Starclassic Maple Series",
           image: "https://upload.wikimedia.org/wikipedia/commons/6/6c/Acoustic_Drums_Kit_%2829965183378%29.jpg",
           priceRange: "€2000-3500 (shell pack)",
           tier: "pro",
-          material: "100% Birch",
+          material: "100% Maple",
 
-          description: `The Tama Starclassic Birch is metal's single most iconic drum kit, used by Lars Ulrich as his primary Metallica setup through the band's most influential recordings and tours. The 100% birch shell construction delivers the punchy, focused attack that's become the reference point for what a metal kit is supposed to sound like — cutting through dense guitar walls while staying audible at maximum volume.
+          description: `The Tama Starclassic Maple is metal's single most iconic drum kit, used by Lars Ulrich as his primary Metallica setup through the band's most influential recordings and tours. The 100% maple shell construction delivers a warm, full-bodied tone that, tuned tight with the right heads, becomes the reference point for what a metal kit is supposed to sound like — cutting through dense guitar walls while staying audible at maximum volume.
 
-Because birch's cutting attack works across nearly every metal subgenre, the Starclassic Birch is the safest, most broadly applicable first serious kit purchase a metal drummer can make.`,
+Because maple's tone and resonance work across nearly every metal subgenre, the Starclassic Maple is the safest, most broadly applicable first serious kit purchase a metal drummer can make.`,
 
           pros: [
             "Metal's single most referenced kit — Lars Ulrich's primary Metallica choice",
-            "Cutting, focused attack that works across nearly every metal subgenre",
+            "Warm, resonant tone that works across nearly every metal subgenre",
             "Star-Cast mounting system minimizes shell dampening",
             "Wide range of configurations available",
             "Excellent hardware quality included"
           ],
           cons: [
             "Premium pricing — significant investment",
-            "Birch character less versatile for non-metal styles",
+            "Needs tight tuning and the right heads to cut like a birch kit",
             "Heavy for transport"
           ],
           specs: {
-            shell: "100% Birch (Starclassic)",
+            shell: "100% Maple (Starclassic)",
             mount: "Star-Cast Mounting System",
             finish: "Multiple lacquer options",
             kickSize: "22\" x 18\" standard",
             tomSizes: "10\", 12\" (rack) / 16\" (floor)"
           },
           usedBy: [
-            { name: "Lars Ulrich", band: "Metallica", note: "Primary Tama Starclassic user — metal's most referenced kit sound" }
+            { name: "Lars Ulrich", band: "Metallica", note: "Primary Tama Starclassic Maple user — metal's most referenced kit sound" }
           ],
           verdict: "The cross-genre metal standard. If you want one kit that works everywhere in metal, this is it.",
           rating: 4.9,
-          affiliateLink: "https://www.thomann.de/intl/tama_starclassic_birch_series.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/tama_starclassic_maple_series.htm?partner_id=metalforge"
         },
         {
           rank: 2,
@@ -8461,24 +8461,24 @@ It won't sound like Lars's Starclassic or Gene Hoglan's DW Collector's, but it w
       title: "Birch vs Maple vs Heavy Beech Across Metal Subgenres",
       content: `Shell material is the biggest cross-genre decision in metal drum kit selection:
 
-**Birch (Tama Starclassic, Lars Ulrich's choice):**
-- Punchy, focused, extended high-frequency response
-- Cuts through guitar walls with precise attack
-- The most broadly applicable choice across metal subgenres
-- Better for loud, aggressive, high-tempo contexts
-
-**Maple (DW Collector's, Pearl Masterworks — Hoglan and Kollias's choice):**
+**Maple (Tama Starclassic — Lars Ulrich's choice; DW Collector's, Pearl Masterworks — Hoglan and Kollias's choice):**
 - Warmer, fuller tone with more body
 - More versatile across dynamics, tempos, and subgenres
-- Better sensitivity for technical playing and ghost notes
-- The premium standard for recorded metal across genres
+- Still cuts through dense guitar walls when tuned tight with the right heads
+- The premium standard for recorded metal across genres — what most of the genre's most influential drummers actually play
+
+**Birch (Tama Starclassic Birch):**
+- Punchy, focused, extended high-frequency response
+- Cuts through guitar walls with precise attack out of the box
+- A broadly applicable, budget-friendlier choice across metal subgenres
+- Better for players who want loud, aggressive attack without extensive tuning work
 
 **Heavy Beech/Maple (Sonor SQ2, Tomas Haake's choice):**
 - Added mass for maximum low-end weight
 - Best for unconventional, oversized configurations
 - Growing popularity in progressive and polyrhythmic metal
 
-**Cross-Genre Recommendation:** Start with birch or standard maple — both work across nearly every metal subgenre. Specialize toward heavy shells or custom configurations only once your specific subgenre's demands (deep low end, extreme durability, oversized kicks) become clear.`,
+**Cross-Genre Recommendation:** Start with maple, tuned tight, or birch if you want cutting attack with less tuning work — both work across nearly every metal subgenre. Specialize toward heavy shells or custom configurations only once your specific subgenre's demands (deep low end, extreme durability, oversized kicks) become clear.`,
       comparisonTable: [
         { feature: "Cross-Genre Versatility", birch: "⭐⭐⭐⭐⭐", maple: "⭐⭐⭐⭐⭐" },
         { feature: "Attack Focus", birch: "⭐⭐⭐⭐⭐", maple: "⭐⭐⭐⭐" },
@@ -8494,7 +8494,7 @@ It won't sound like Lars's Starclassic or Gene Hoglan's DW Collector's, but it w
       picks: [
         {
           category: "Best Overall",
-          pedal: "Tama Starclassic Birch",
+          pedal: "Tama Starclassic Maple",
           reason: "Lars Ulrich's kit — metal's most iconic, cross-genre-applicable drum sound in history."
         },
         {
@@ -8523,7 +8523,7 @@ It won't sound like Lars's Starclassic or Gene Hoglan's DW Collector's, but it w
       'best-snare-drums-for-metal'
     ],
     relatedDrummers: [
-      { slug: 'lars-ulrich', name: 'Lars Ulrich', reason: 'Tama Starclassic Birch — metal\'s most referenced kit sound' },
+      { slug: 'lars-ulrich', name: 'Lars Ulrich', reason: 'Tama Starclassic Maple — metal\'s most referenced kit sound' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'DW Collector\'s Series — precision across four decades of metal' },
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Masterworks — custom-tuned for extreme-tempo technical metal' },
       { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Sonor SQ2 Heavy Beech — dual 24" kicks for polyrhythmic low end' }
@@ -8531,7 +8531,7 @@ It won't sound like Lars's Starclassic or Gene Hoglan's DW Collector's, but it w
 
     // Featured drummers (issue template)
     featuredDrummers: [
-      { slug: 'lars-ulrich', name: 'Lars Ulrich', reason: 'Tama Starclassic Birch — the definitive cross-genre metal kit' },
+      { slug: 'lars-ulrich', name: 'Lars Ulrich', reason: 'Tama Starclassic Maple — the definitive cross-genre metal kit' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'DW Collector\'s Series — precision across Death, Testament, and Dethklok' },
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Masterworks — Nile\'s extreme-tempo touring precision' },
     ],
@@ -8540,11 +8540,11 @@ It won't sound like Lars's Starclassic or Gene Hoglan's DW Collector's, but it w
     faq: [
       {
         question: "What is the best all-around drum kit for metal?",
-        answer: "The Tama Starclassic Birch is the most broadly applicable choice — Lars Ulrich's primary Metallica kit delivers the punchy, focused attack that works across nearly every metal subgenre, from thrash to death metal to groove metal. It's the safest first serious kit purchase before you specialize."
+        answer: "The Tama Starclassic Maple is the most broadly applicable choice — Lars Ulrich's primary Metallica kit delivers a warm, resonant tone that, tuned tight, works across nearly every metal subgenre, from thrash to death metal to groove metal. It's the safest first serious kit purchase before you specialize."
       },
       {
         question: "Birch or maple — which is better for metal drumming generally?",
-        answer: "Birch (Lars Ulrich's Tama Starclassic) is more broadly cutting and punchy, the classic metal reference tone. Maple (Gene Hoglan's DW Collector's, George Kollias's Pearl Masterworks) is warmer and more versatile across dynamics and subgenres. Both work across metal generally; birch is the more common default, maple the more versatile premium choice."
+        answer: "Maple (Lars Ulrich's Tama Starclassic, Gene Hoglan's DW Collector's, George Kollias's Pearl Masterworks) is warmer and more versatile across dynamics and subgenres — what most of metal's most influential drummers actually play. Birch is more immediately cutting and punchy out of the box, a classic reference tone in its own right. Both work across metal generally; maple is the more common choice among top-tier touring pros, birch the more budget-accessible traditional option."
       },
       {
         question: "What size drum kit is standard for metal?",
@@ -8565,7 +8565,7 @@ It won't sound like Lars's Starclassic or Gene Hoglan's DW Collector's, but it w
       title: "Build the Kit That Works Across Metal",
       content: `Every metal drum kit decision comes down to the same hierarchy regardless of subgenre: shell material first, then sizing, then hardware, then heads. Get the fundamentals right and the kit will serve you whether you end up playing thrash, death, doom, or anything in between.
 
-Lars Ulrich's Tama Starclassic Birch remains the genre's most broadly referenced kit for good reason — it's punchy, durable, and works almost everywhere in metal. Gene Hoglan's DW Collector's Series and George Kollias's Pearl Masterworks show what's possible once you're ready to specialize toward precision or extreme-tempo durability.
+Lars Ulrich's Tama Starclassic Maple remains the genre's most broadly referenced kit for good reason — it's warm, durable, and works almost everywhere in metal once tuned tight. Gene Hoglan's DW Collector's Series and George Kollias's Pearl Masterworks show what's possible once you're ready to specialize toward precision or extreme-tempo durability.
 
 Start with a budget kit that teaches real cross-genre fundamentals, and don't rush the upgrade — Tomas Haake's custom Sonor SQ2 setup took years of touring and songwriting to justify. Let your specific subgenre and technique tell you when it's time to specialize.
 
@@ -24237,7 +24237,7 @@ Start with a 22"x18" maple shell tuned for control rather than raw brightness �
     // SEO metadata
     title: "Best Bass Drums for Metal: 2026 Ultimate Guide",
     metaTitle: "Best Bass Drums for Metal in 2026 | MetalForge Expert Guide",
-    description: "Best bass drums for metal's cross-genre demands - attack, low-end punch, and shell material tradeoffs. What Lars Ulrich (Tama Starclassic Birch), Gene Hoglan (DW Collector's), George Kollias (Pearl Masterworks), and Tomas Haake (Sonor SQ2) actually play.",
+    description: "Best bass drums for metal's cross-genre demands - attack, low-end punch, and shell material tradeoffs. What Lars Ulrich (Tama Starclassic Maple), Gene Hoglan (DW Collector's), George Kollias (Pearl Masterworks), and Tomas Haake (Sonor SQ2) actually play.",
     seoKeywords: [
       'best bass drums for metal',
       'metal bass drum setup',
@@ -24274,12 +24274,12 @@ Start with a 22"x18" maple shell tuned for control rather than raw brightness �
       title: "What Bass Drum Setup Works Across Every Metal Subgenre?",
       content: `Whatever subgenre you play, a metal bass drum has one non-negotiable job: deliver focused attack and real low-end weight that stays audible under loud, downtuned guitars, without turning boomy or indistinct. The tempo and tuning demands shift from thrash to doom to death metal, but the shell fundamentals - diameter, depth, material, and head selection - stay consistent across nearly the entire genre.
 
-Lars Ulrich's Tama Starclassic Birch bass drum has anchored Metallica's sound through the band's most influential records, its punchy, focused low end becoming the reference point most metal drummers measure their own kick tone against. Gene Hoglan - "The Atomic Clock" - built four decades of precision-first low end across Death, Testament, and Dethklok on DW Collector's Series shells. George Kollias drives Nile's extreme-tempo technical death metal on a touring-durable Pearl Masterworks bass drum, while Tomas Haake's Sonor SQ2 Heavy Beech setup - built around dual 24"x18" bass drums - gives Meshuggah's polyrhythmic riffing its uniquely deep, resonant foundation.
+Lars Ulrich's Tama Starclassic Maple bass drum has anchored Metallica's sound through the band's most influential records, its warm, focused low end becoming the reference point most metal drummers measure their own kick tone against. Gene Hoglan - "The Atomic Clock" - built four decades of precision-first low end across Death, Testament, and Dethklok on DW Collector's Series shells. George Kollias drives Nile's extreme-tempo technical death metal on a touring-durable Pearl Masterworks bass drum, while Tomas Haake's Sonor SQ2 Heavy Beech setup - built around dual 24"x18" bass drums - gives Meshuggah's polyrhythmic riffing its uniquely deep, resonant foundation.
 
 This guide breaks down the bass drum fundamentals that apply broadly across metal - shell size, material, and head selection - and which specific shells the genre's most influential drummers actually play, from budget starters to professional touring rigs.`,
       keyPoints: [
         "22\"x18\" is the standard cross-genre sizing, though some drummers (Tomas Haake) run dual 24\" shells for maximum low end",
-        "Birch (Lars Ulrich) delivers a punchy, focused attack; maple (Gene Hoglan, George Kollias) delivers warmer projection",
+        "Maple (Lars Ulrich, Gene Hoglan, George Kollias) delivers warmer projection; birch delivers a punchier, more focused attack out of the box",
         "Shell material is the single biggest tone decision - pick based on whether you need cutting attack or controlled warmth",
         "Reinforced heads (Evans EMAD, Remo Powerstroke 3) are standard across every metal subgenre's bass drum setup"
       ]
@@ -24298,8 +24298,8 @@ This guide breaks down the bass drum fundamentals that apply broadly across meta
         {
           name: "Shell Material and Attack",
           icon: "🪵",
-          description: "Birch (Lars Ulrich's Tama Starclassic) produces a punchy, focused attack that cuts through a mix without excess overtones - the reference tone for classic metal production. Maple (Gene Hoglan's DW Collector's, George Kollias's Pearl Masterworks) delivers warmer, fuller projection with more natural resonance.",
-          recommendation: "Birch for cutting, focused attack; maple for warmer, more resonant low end"
+          description: "Maple (Lars Ulrich's Tama Starclassic, Gene Hoglan's DW Collector's, George Kollias's Pearl Masterworks) delivers warmer, fuller projection with more natural resonance - the reference tone for classic metal production. Birch produces a punchier, more immediately focused attack that cuts through a mix with fewer overtones.",
+          recommendation: "Maple for the warmer, fuller low end metal's most influential drummers actually play; birch for cutting, focused attack out of the box"
         },
         {
           name: "Low-End Punch vs Boom",
@@ -24334,43 +24334,43 @@ This guide breaks down the bass drum fundamentals that apply broadly across meta
       pedals: [
         {
           rank: 1,
-          name: "Tama Starclassic Birch Bass Drum",
+          name: "Tama Starclassic Maple Bass Drum",
           brand: "Tama",
-          model: "Starclassic Birch 22\"x18\"",
+          model: "Starclassic Maple 22\"x18\"",
           image: "https://upload.wikimedia.org/wikipedia/commons/6/6c/Acoustic_Drums_Kit_%2829965183378%29.jpg",
           priceRange: "€600-800",
           tier: "pro",
-          material: "Birch, 22\"x18\"",
+          material: "Maple, 22\"x18\"",
 
-          description: `The Tama Starclassic Birch bass drum has been Lars Ulrich's foundation through Metallica's most influential recordings, its punchy, focused low end setting the reference standard many metal drummers still measure their own kick tone against. Birch's naturally scooped midrange lets the attack and low end sit forward in a mix without fighting for space with guitars.
+          description: `The Tama Starclassic Maple bass drum has been Lars Ulrich's foundation through Metallica's most influential recordings, its warm, full-bodied low end setting the reference standard many metal drummers still measure their own kick tone against. Maple's natural resonance lets the low end sit forward in a mix without turning boomy, especially when tuned tight against dense guitars.
 
-That focused punch is exactly why birch remains one of metal's most enduring shell choices decades after Metallica's biggest records - it works whether you're playing thrash, groove, or straightforward heavy metal.`,
+That warm, resonant low end is exactly why maple remains one of metal's most enduring shell choices decades after Metallica's biggest records - it works whether you're playing thrash, groove, or straightforward heavy metal.`,
 
           pros: [
             "Lars Ulrich's exact Metallica bass drum shell material",
-            "Punchy, focused attack that cuts through dense guitar mixes",
-            "Naturally scooped midrange keeps low end from competing with guitars",
+            "Warm, resonant low end that still cuts through dense guitar mixes when tuned tight",
+            "Natural sustain gives the low end real body without turning boomy",
             "Proven across four decades of metal's biggest recordings",
             "Reliable Tama hardware and build quality"
           ],
           cons: [
-            "Less warmth than a pure maple shell",
+            "Less immediate cutting attack than a pure birch shell",
             "Premium pricing",
-            "Focused tone less suited to genres wanting maximum low-end boom"
+            "Needs careful tuning and head choice to stay focused rather than boomy"
           ],
           specs: {
             diameter: "22\"",
             depth: "18\"",
-            shell: "Birch",
+            shell: "Maple",
             headRecommendation: "Evans EMAD",
             configuration: "Single, double-pedal driven"
           },
           usedBy: [
-            { name: "Lars Ulrich", band: "Metallica", note: "Tama Starclassic Birch - metal's reference punch and focus" }
+            { name: "Lars Ulrich", band: "Metallica", note: "Tama Starclassic Maple - metal's reference warm, resonant low end" }
           ],
-          verdict: "The genre's reference standard for punchy, focused metal bass drum tone.",
+          verdict: "The genre's reference standard for warm, resonant metal bass drum tone.",
           rating: 4.8,
-          affiliateLink: "https://www.thomann.de/intl/tama_starclassic_birch_bass_drum.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/tama_starclassic_maple_bass_drum.htm?partner_id=metalforge"
         },
         {
           rank: 2,
@@ -24496,17 +24496,18 @@ The result is a bass drum built specifically to survive extreme-tempo, high-volu
       title: "Birch vs Maple Bass Drums for Metal",
       content: `Metal drummers split their bass drum choice across two proven shell philosophies:
 
-**Birch (Lars Ulrich):**
-- Punchy, focused attack with naturally scooped midrange
+**Maple (Lars Ulrich, Gene Hoglan, George Kollias):**
+- Warmer, fuller projection with more natural resonance
+- Ideal when you want low end that fills out the mix rather than cutting through it
+- Still cuts through dense guitars when tuned tight with the right head
+- The choice of metal's most influential drummers
+
+**Birch:**
+- Punchy, focused attack with naturally scooped midrange out of the box
 - Cuts through a mix without fighting for space with guitars
 - Slightly less warmth than maple
 
-**Maple (Gene Hoglan, George Kollias):**
-- Warmer, fuller projection with more natural resonance
-- Ideal when you want low end that fills out the mix rather than cutting through it
-- Slightly less focused attack than birch at high tempo
-
-**Verdict:** Start with a 22"x18" birch or maple shell and a reinforced head like the Evans EMAD or Remo Powerstroke 3 - both are proven foundations across metal's most influential drummers. Choose birch for cutting, focused attack; choose maple for warmer, fuller low end.`,
+**Verdict:** Start with a 22"x18" maple or birch shell and a reinforced head like the Evans EMAD or Remo Powerstroke 3 - both are proven foundations. Choose maple for the warmer, fuller low end metal's most influential drummers actually play; choose birch for cutting, focused attack out of the box.`,
       comparisonTable: [
         { feature: "Attack Focus", birch: "⭐⭐⭐⭐⭐", maple: "⭐⭐⭐⭐" },
         { feature: "Low-End Warmth", birch: "⭐⭐⭐", maple: "⭐⭐⭐⭐⭐" },
@@ -24522,8 +24523,8 @@ The result is a bass drum built specifically to survive extreme-tempo, high-volu
       picks: [
         {
           category: "Best Overall",
-          pedal: "Tama Starclassic Birch Bass Drum",
-          reason: "Lars Ulrich's proven foundation - the punchy, focused attack standard across metal."
+          pedal: "Tama Starclassic Maple Bass Drum",
+          reason: "Lars Ulrich's proven foundation - the warm, resonant low end standard across metal."
         },
         {
           category: "Best for Warmth and Precision",
@@ -24551,7 +24552,7 @@ The result is a bass drum built specifically to survive extreme-tempo, high-volu
       'best-drum-heads-for-metal'
     ],
     relatedDrummers: [
-      { slug: 'lars-ulrich', name: 'Lars Ulrich', reason: 'Tama Starclassic Birch - metal\'s reference punchy, focused attack' },
+      { slug: 'lars-ulrich', name: 'Lars Ulrich', reason: 'Tama Starclassic Maple - metal\'s reference warm, resonant low end' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'DW Collector\'s Series - precision across four decades of metal' },
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Custom Pearl Masterworks for extreme-tempo touring durability' },
       { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Sonor SQ2 Heavy Beech dual 24\"x18\" - Meshuggah\'s resonant low end' }
@@ -24559,7 +24560,7 @@ The result is a bass drum built specifically to survive extreme-tempo, high-volu
 
     // Featured drummers (issue template)
     featuredDrummers: [
-      { slug: 'lars-ulrich', name: 'Lars Ulrich', reason: 'Tama Starclassic Birch - the genre\'s reference punch and focus' },
+      { slug: 'lars-ulrich', name: 'Lars Ulrich', reason: 'Tama Starclassic Maple - the genre\'s reference warm, resonant tone' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'DW Collector\'s Series - warm, precise low end' },
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Custom Pearl Masterworks - extreme-tempo durability' }
     ],
@@ -24568,7 +24569,7 @@ The result is a bass drum built specifically to survive extreme-tempo, high-volu
     faq: [
       {
         question: "What bass drums do metal drummers use across different subgenres?",
-        answer: "Lars Ulrich of Metallica plays a Tama Starclassic Birch, Gene Hoglan (Death, Testament, Dethklok) plays a DW Collector's Series, George Kollias of Nile plays a custom Pearl Masterworks, and Tomas Haake of Meshuggah runs dual Sonor SQ2 Heavy Beech shells. Most run a single 22\"x18\" bass drum with a double pedal."
+        answer: "Lars Ulrich of Metallica plays a Tama Starclassic Maple, Gene Hoglan (Death, Testament, Dethklok) plays a DW Collector's Series, George Kollias of Nile plays a custom Pearl Masterworks, and Tomas Haake of Meshuggah runs dual Sonor SQ2 Heavy Beech shells. Most run a single 22\"x18\" bass drum with a double pedal."
       },
       {
         question: "What size bass drum is best for metal generally?",
@@ -24576,7 +24577,7 @@ The result is a bass drum built specifically to survive extreme-tempo, high-volu
       },
       {
         question: "Birch or maple bass drum for metal?",
-        answer: "Birch (Lars Ulrich's Tama Starclassic) gives a punchy, focused attack that cuts through dense guitar mixes. Maple (Gene Hoglan's DW Collector's, George Kollias's Pearl Masterworks) delivers warmer, fuller low-end projection. Choose based on whether cutting attack or warm fullness matters more for your material."
+        answer: "Maple (Lars Ulrich's Tama Starclassic, Gene Hoglan's DW Collector's, George Kollias's Pearl Masterworks) delivers warmer, fuller low-end projection - what metal's most influential drummers actually play. Birch gives a punchier, more immediately focused attack out of the box. Choose based on whether cutting attack or warm fullness matters more for your material."
       },
       {
         question: "Do I need dual bass drums for metal, or is a double pedal enough?",
@@ -24591,11 +24592,11 @@ The result is a bass drum built specifically to survive extreme-tempo, high-volu
     // Conclusion
     conclusion: {
       title: "Build the Punchy, Durable Low End Metal Demands",
-      content: `Across nearly every metal subgenre, the bass drum fundamentals stay the same: focused attack, real low-end weight, and hardware that survives aggressive touring. Lars Ulrich's Tama Starclassic Birch proves that a punchy, focused shell is the reference standard most metal drummers still measure their own tone against.
+      content: `Across nearly every metal subgenre, the bass drum fundamentals stay the same: focused attack, real low-end weight, and hardware that survives aggressive touring. Lars Ulrich's Tama Starclassic Maple proves that a warm, resonant shell - tuned tight - is the reference standard most metal drummers still measure their own tone against.
 
-If you want warmer, fuller projection, follow Gene Hoglan and George Kollias's example with a maple shell like the DW Collector's Series or a custom Pearl Masterworks - both deliver precision and durability across the most demanding touring schedules.
+Gene Hoglan and George Kollias follow the same maple path with the DW Collector's Series and a custom Pearl Masterworks - both deliver precision and durability across the most demanding touring schedules. If you want a punchier, more immediately focused attack out of the box, birch remains a solid alternative.
 
-Start with a 22"x18" birch or maple shell and a reinforced head like the Evans EMAD or Remo Powerstroke 3 - it's the proven foundation across metal's most influential drummers, whatever subgenre you play.
+Start with a 22"x18" maple or birch shell and a reinforced head like the Evans EMAD or Remo Powerstroke 3 - it's the proven foundation across metal's most influential drummers, whatever subgenre you play.
 
 Build the punch. Hold the low end.`
     }
@@ -26100,7 +26101,7 @@ Start with a 22"x18" maple/birch hybrid shell tuned for dynamic range rather tha
     // SEO metadata
     title: "Best Bass Drums for Thrash Metal: 2026 Ultimate Guide",
     metaTitle: "Best Bass Drums for Thrash Metal in 2026 | MetalForge Expert Guide",
-    description: "Best bass drums for thrash metal's tight, fast-decaying low end. What Lars Ulrich (Tama Starclassic Birch), Dave Lombardo (Yamaha/DW), and Gene Hoglan (DW Collector's Series) actually play — built for rapid double bass at high tempo, from budget to pro.",
+    description: "Best bass drums for thrash metal's tight, fast-decaying low end. What Lars Ulrich (Tama Starclassic Maple), Dave Lombardo (Yamaha/DW), and Gene Hoglan (DW Collector's Series) actually play — built for rapid double bass at high tempo, from budget to pro.",
     seoKeywords: [
       'best bass drums for thrash metal',
       'thrash metal bass drum setup',
@@ -26137,11 +26138,11 @@ Start with a 22"x18" maple/birch hybrid shell tuned for dynamic range rather tha
       title: "What Bass Drum Setup Do Thrash Metal Drummers Actually Use?",
       content: `Thrash metal's bass drum has one defining job: deliver a tight, fast-decaying low end that stays punchy and articulate under rapid double-bass patterns at 180+ BPM, locking precisely with palm-muted, downpicked riffs. Unlike death metal's pursuit of maximum sub-bass weight, thrash needs a kick that decays quickly enough to keep every stroke distinct even at the fastest gallop and blast-adjacent tempos.
 
-Lars Ulrich's Tama Starclassic Birch kit has been his primary setup through Metallica's peak years — birch's naturally focused, fast-decaying attack drives "Master of Puppets" and "...And Justice for All" without ever turning boomy. Dave Lombardo pioneered the double bass drumming style that defined the genre, running various Yamaha and DW setups that gave Slayer the aggressive, precise kick attack behind "Reign in Blood." Gene Hoglan — "The Atomic Clock" — trusts DW Collector's Series drums for the metronomic precision that makes his playing as reliable as a machine across Testament and Dark Angel.
+Lars Ulrich's Tama Starclassic Maple kit has been his primary setup through Metallica's peak years — maple's warm, resonant tone, tuned tight, drives "Master of Puppets" and "...And Justice for All" without ever turning boomy. Dave Lombardo pioneered the double bass drumming style that defined the genre, running various Yamaha and DW setups that gave Slayer the aggressive, precise kick attack behind "Reign in Blood." Gene Hoglan — "The Atomic Clock" — trusts DW Collector's Series drums for the metronomic precision that makes his playing as reliable as a machine across Testament and Dark Angel.
 
 This guide breaks down exactly what makes a bass drum work for thrash metal — shell material, tuning, and head selection — and which specific shells these genre-defining drummers actually play.`,
       keyPoints: [
-        "Birch shells (Lars Ulrich's Tama Starclassic) provide the tight, fast-decaying, punchy attack thrash metal demands",
+        "Maple shells (Lars Ulrich's, Gene Hoglan's Tama/DW kits), tuned tight, deliver the fast-decaying, punchy attack thrash metal demands",
         "22\"x16\"-18\" is the thrash standard — shallower than death metal's deeper shells, for a quicker, more controlled decay",
         "Dave Lombardo pioneered thrash's double-bass drumming style on Yamaha and DW setups built for precise, aggressive attack",
         "Gene Hoglan's DW Collector's Series delivers the metronomic consistency that defines his playing across decades"
@@ -26155,8 +26156,8 @@ This guide breaks down exactly what makes a bass drum work for thrash metal — 
         {
           name: "Tight, Fast-Decaying Attack",
           icon: "⏱️",
-          description: "Thrash metal's rapid double-bass patterns at 180+ BPM need every stroke to decay quickly and stay distinct — a boomy, slow-decaying low end blurs together at speed and loses the tight lock with palm-muted riffing. Lars Ulrich's birch shells are built specifically for that fast, controlled decay.",
-          recommendation: "A birch or birch-forward shell tuned for a quick, controlled decay rather than sustained low-end weight"
+          description: "Thrash metal's rapid double-bass patterns at 180+ BPM need every stroke to decay quickly and stay distinct — a boomy, slow-decaying low end blurs together at speed and loses the tight lock with palm-muted riffing. Lars Ulrich's maple shells, tuned tight, are built to deliver that fast, controlled decay without sacrificing warmth.",
+          recommendation: "A maple shell tuned tight, or a birch shell for an even quicker decay out of the box, rather than a shell built for sustained low-end weight"
         },
         {
           name: "Shell Diameter and Depth",
@@ -26167,8 +26168,8 @@ This guide breaks down exactly what makes a bass drum work for thrash metal — 
         {
           name: "Shell Material",
           icon: "🪵",
-          description: "Birch (Lars Ulrich's Tama Starclassic) delivers the focused, punchy attack that's become synonymous with classic thrash. Maple (Gene Hoglan's DW Collector's Series) offers a warmer, more controlled tone with excellent tuning precision for technical thrash playing.",
-          recommendation: "Birch for maximum punch and fast decay; maple for controlled precision and tuning consistency"
+          description: "Maple (Lars Ulrich's Tama Starclassic, Gene Hoglan's DW Collector's Series) delivers a warmer, more controlled tone with excellent tuning precision, and — tuned tight — the focused, punchy attack that's become synonymous with classic thrash. Birch offers an even quicker, punchier decay straight out of the box.",
+          recommendation: "Maple, tuned tight, for the tone thrash's most iconic drummers actually play; birch for maximum punch and fast decay with less tuning work"
         },
         {
           name: "Gallop-Rhythm Lock",
@@ -26185,7 +26186,7 @@ This guide breaks down exactly what makes a bass drum work for thrash metal — 
         {
           name: "Reliability Across Decades of Touring",
           icon: "🛡️",
-          description: "Lars Ulrich's Tama Starclassic Birch and Gene Hoglan's DW Collector's Series have both proven their reliability across decades of nightly touring — build quality and hardware stability matter as much as tone when a rig has to survive that kind of wear.",
+          description: "Lars Ulrich's Tama Starclassic Maple and Gene Hoglan's DW Collector's Series have both proven their reliability across decades of nightly touring — build quality and hardware stability matter as much as tone when a rig has to survive that kind of wear.",
           recommendation: "Reinforced hardware and heavy-duty hoops rated for sustained, high-tempo touring abuse"
         }
       ]
@@ -26197,43 +26198,43 @@ This guide breaks down exactly what makes a bass drum work for thrash metal — 
       pedals: [
         {
           rank: 1,
-          name: "Tama Starclassic Birch Bass Drum",
+          name: "Tama Starclassic Maple Bass Drum",
           brand: "Tama",
-          model: "Starclassic Birch 22\"x18\"",
+          model: "Starclassic Maple 22\"x18\"",
           image: "https://upload.wikimedia.org/wikipedia/commons/6/6c/Acoustic_Drums_Kit_%2829965183378%29.jpg",
           priceRange: "€650-900",
           tier: "pro",
-          material: "Birch, 22\"x18\"",
+          material: "Maple, 22\"x18\"",
 
-          description: `Lars Ulrich's Tama Starclassic Birch bass drum has been his primary setup through Metallica's peak years — the most iconic thrash bass drum sound in history. Birch shells naturally produce a focused, punchy attack with a fast decay, exactly what "Master of Puppets" and "...And Justice for All"'s rapid double-bass patterns needed to stay tight and articulate.
+          description: `Lars Ulrich's Tama Starclassic Maple bass drum has been his primary setup through Metallica's peak years — the most iconic thrash bass drum sound in history. Maple shells, tuned tight, produce a warm, controlled attack with a quick decay, exactly what "Master of Puppets" and "...And Justice for All"'s rapid double-bass patterns needed to stay tight and articulate.
 
-That fast-decaying punch keeps every stroke distinct even at thrash's fastest tempos, locking precisely with the genre's signature downpicked, palm-muted riffing without ever turning boomy or indistinct.`,
+That controlled, resonant punch keeps every stroke distinct even at thrash's fastest tempos, locking precisely with the genre's signature downpicked, palm-muted riffing without ever turning boomy or indistinct.`,
 
           pros: [
             "Lars Ulrich's exact Metallica bass drum — the most iconic thrash sound in history",
-            "Birch shell for a tight, focused, fast-decaying attack",
+            "Maple shell, tuned tight, for a warm, controlled, fast-decaying attack",
             "Handles rapid double-bass patterns without losing definition",
             "Proven reliability across decades of Metallica's touring history",
             "Tama build quality and hardware stability"
           ],
           cons: [
             "Premium pricing",
-            "Birch's focused punch is less warm than a maple shell",
-            "Requires careful tuning to avoid sounding too tight and thin"
+            "Needs tighter tuning than birch to avoid a slower decay",
+            "Less immediately punchy out of the box than a birch shell"
           ],
           specs: {
             diameter: "22\"",
             depth: "18\"",
-            shell: "Birch",
+            shell: "Maple",
             headRecommendation: "Remo Powerstroke 3",
             configuration: "Single, double-pedal driven"
           },
           usedBy: [
-            { name: "Lars Ulrich", band: "Metallica", note: "Tama Starclassic Birch — the definitive thrash metal bass drum sound" }
+            { name: "Lars Ulrich", band: "Metallica", note: "Tama Starclassic Maple — the definitive thrash metal bass drum sound" }
           ],
           verdict: "The definitive thrash metal bass drum. If you play classic thrash, this is the benchmark.",
           rating: 4.9,
-          affiliateLink: "https://www.thomann.de/intl/tama_starclassic_birch_bass_drum_thrash_metal.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/tama_starclassic_maple_bass_drum_thrash_metal.htm?partner_id=metalforge"
         },
         {
           rank: 2,
@@ -26358,17 +26359,18 @@ That shallower depth speeds up response time without sacrificing the punch neede
       title: "Birch vs Maple Bass Drums for Thrash Metal",
       content: `Thrash metal drummers split their bass drum choice across two proven shell philosophies:
 
-**Birch (Lars Ulrich, Dave Lombardo):**
-- Tight, focused attack with a fast, controlled decay
-- Ideal for rapid double-bass patterns that need every stroke distinct
+**Maple (Lars Ulrich, Gene Hoglan):**
+- Warmer tone with excellent tuning precision and consistency
+- Tight and controlled when tuned and muffled correctly, without losing body
+- The choice behind the genre's most iconic recordings
+- Slightly less punchy attack out of the box than pure birch at the fastest tempos
+
+**Birch (Dave Lombardo):**
+- Tight, focused attack with a fast, controlled decay right out of the box
+- Ideal for rapid double-bass patterns that need every stroke distinct with less tuning work
 - Slightly less warm and sustained than a maple shell
 
-**Maple (Gene Hoglan):**
-- Warmer tone with excellent tuning precision and consistency
-- Still tight and controlled when tuned and muffled correctly
-- Slightly less punchy attack than pure birch at the fastest tempos
-
-**Verdict:** Start with a 22"x18" birch shell and a reinforced head like the Remo Powerstroke 3 — it's the proven foundation behind the most iconic thrash metal recordings. Move to a maple shell like Gene Hoglan's DW Collector's Series if tuning precision and consistency matter more than maximum punch.`,
+**Verdict:** Start with a 22"x18" maple shell, tuned tight, and a reinforced head like the Remo Powerstroke 3 — it's the proven foundation behind the most iconic thrash metal recordings. Move to a birch shell like Dave Lombardo's Yamaha setup if maximum out-of-the-box punch matters more than tuning precision and consistency.`,
       comparisonTable: [
         { feature: "Attack Speed", birch: "⭐⭐⭐⭐⭐", maple: "⭐⭐⭐⭐" },
         { feature: "Decay Control", birch: "⭐⭐⭐⭐⭐", maple: "⭐⭐⭐⭐" },
@@ -26384,8 +26386,8 @@ That shallower depth speeds up response time without sacrificing the punch neede
       picks: [
         {
           category: "Best Overall",
-          pedal: "Tama Starclassic Birch Bass Drum",
-          reason: "Lars Ulrich's kit — the most iconic thrash drum sound in history. Tight, fast, and punchy."
+          pedal: "Tama Starclassic Maple Bass Drum",
+          reason: "Lars Ulrich's kit — the most iconic thrash drum sound in history. Warm, tight, and punchy when tuned right."
         },
         {
           category: "Best for Precision",
@@ -26413,14 +26415,14 @@ That shallower depth speeds up response time without sacrificing the punch neede
       'best-bass-drum-pedals-for-thrash-metal'
     ],
     relatedDrummers: [
-      { slug: 'lars-ulrich', name: 'Lars Ulrich', reason: 'Tama Starclassic Birch — defining thrash metal bass drum sound' },
+      { slug: 'lars-ulrich', name: 'Lars Ulrich', reason: 'Tama Starclassic Maple — defining thrash metal bass drum sound' },
       { slug: 'dave-lombardo', name: 'Dave Lombardo', reason: 'Yamaha/DW — relentless double-bass thrash precision' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'DW Collector\'s Series — The Atomic Clock\'s precision machine' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
-      { slug: 'lars-ulrich', name: 'Lars Ulrich', reason: 'Tama Starclassic Birch — the definitive thrash metal bass drum' },
+      { slug: 'lars-ulrich', name: 'Lars Ulrich', reason: 'Tama Starclassic Maple — the definitive thrash metal bass drum' },
       { slug: 'dave-lombardo', name: 'Dave Lombardo', reason: 'Yamaha birch — driving Slayer\'s relentless double-bass speed' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'DW Collector\'s Series — The Atomic Clock\'s metronomic precision' }
     ],
@@ -26429,7 +26431,7 @@ That shallower depth speeds up response time without sacrificing the punch neede
     faq: [
       {
         question: "What bass drums do thrash metal drummers use?",
-        answer: "Lars Ulrich of Metallica plays a Tama Starclassic Birch bass drum, Dave Lombardo of Slayer has used various Yamaha and DW setups, and Gene Hoglan of Testament and Dark Angel trusts DW's Collector's Series. All three prioritize a tight, fast-decaying attack over maximum low-end weight."
+        answer: "Lars Ulrich of Metallica plays a Tama Starclassic Maple bass drum, Dave Lombardo of Slayer has used various Yamaha and DW setups, and Gene Hoglan of Testament and Dark Angel trusts DW's Collector's Series. All three prioritize a tight, fast-decaying attack over maximum low-end weight."
       },
       {
         question: "What size bass drum is best for thrash metal?",
@@ -26437,7 +26439,7 @@ That shallower depth speeds up response time without sacrificing the punch neede
       },
       {
         question: "Birch or maple bass drum for thrash metal?",
-        answer: "Birch (Lars Ulrich's Tama Starclassic, Dave Lombardo's Yamaha) gives a tighter, more focused attack with a faster decay, ideal for rapid double-bass patterns. Maple (Gene Hoglan's DW Collector's Series) offers a warmer tone with excellent tuning precision and consistency."
+        answer: "Maple (Lars Ulrich's Tama Starclassic, Gene Hoglan's DW Collector's Series), tuned tight, offers a warmer tone with excellent tuning precision and consistency without losing the fast decay thrash needs. Birch (Dave Lombardo's Yamaha) gives a tighter, more focused attack right out of the box with less tuning work."
       },
       {
         question: "Why does thrash metal need a faster-decaying bass drum than death metal?",
@@ -26452,9 +26454,9 @@ That shallower depth speeds up response time without sacrificing the punch neede
     // Conclusion
     conclusion: {
       title: "Build the Tight, Fast-Decaying Low End Thrash Metal Demands",
-      content: `Thrash metal's bass drum requirements come down to one thing: a tight, fast-decaying attack that stays punchy and distinct under rapid double-bass patterns at 180+ BPM. Lars Ulrich's Tama Starclassic Birch proves birch's naturally focused decay is the genre's defining tone, while Dave Lombardo's shallower Yamaha setup shows how depth can be tuned even quicker for the most relentless double-bass speed.
+      content: `Thrash metal's bass drum requirements come down to one thing: a tight, fast-decaying attack that stays punchy and distinct under rapid double-bass patterns at 180+ BPM. Lars Ulrich's Tama Starclassic Maple, tuned tight, proves maple's warm resonance is the genre's defining recorded tone, while Dave Lombardo's shallower Yamaha birch setup shows how a lighter shell can deliver that same speed and punch with less tuning work.
 
-If tuning precision and machine-like consistency matter more than raw punch, follow Gene Hoglan's example with a maple DW Collector's Series — proof The Atomic Clock's reputation rests on gear built to hold tuning through decades of touring.
+If tuning precision and machine-like consistency matter more than raw out-of-the-box punch, follow Gene Hoglan's example with a maple DW Collector's Series — proof The Atomic Clock's reputation rests on gear built to hold tuning through decades of touring.
 
 Start with a 22"x16"-18" birch or maple shell and a reinforced head like the Remo Powerstroke 3 or Evans EMAD — it's the proven foundation across thrash metal's fastest and most influential drummers.
 

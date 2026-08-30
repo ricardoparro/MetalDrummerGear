@@ -5985,7 +5985,7 @@ His signature open hi-hat thrash pattern — where the hi-hat opens on the eight
     genre: 'Progressive Metal / Djent',
     priority: 23,
     title: "How to Sound Like Matt Garstka: Complete Gear & Technique Guide",
-    description: "Master Matt Garstka's polyrhythmic drumming style. Learn his limb-independence techniques, Tama Starclassic setup, Meinl Byzance cymbals, and practice methods to capture Animals as Leaders' complex rhythms.",
+    description: "Master Matt Garstka's polyrhythmic drumming style. Learn his limb-independence techniques, DW Collector's Series setup, Meinl Byzance cymbals, and practice methods to capture Animals as Leaders' complex rhythms.",
     seoKeywords: ['matt garstka drumming', 'how to sound like matt garstka', 'animals as leaders drums', 'matt garstka gear', 'matt garstka technique', 'matt garstka drum kit', 'animals as leaders drumming technique', 'djent drumming technique'],
     ogImage: '/images/guides/matt-garstka-guide.webp',
     datePublished: '2026-06-24',
@@ -6004,7 +6004,7 @@ His signature approach involves treating each limb as an independent rhythmic vo
         "Matt Garstka plays for Animals as Leaders and has a jazz-foundation background from Berklee College of Music",
         "His technique centers on four-way limb independence — each limb runs a separate rhythmic voice",
         "The Joy of Motion (2014) and The Madness of Many (2016) are the essential study records",
-        "He plays Tama Starclassic Performer with Meinl Byzance cymbals and Tama Speed Cobra pedals"
+        "He plays a DW Collector's Series kit with Meinl Byzance cymbals and Tama Speed Cobra pedals"
       ]
     },
     technique: {
@@ -6058,28 +6058,24 @@ His signature approach involves treating each limb as an independent rhythmic vo
       ]
     },
     gear: {
-      title: "Matt's Tama & Meinl Setup",
+      title: "Matt's DW & Meinl Setup",
       drumKit: {
-        brand: 'Tama',
-        model: 'Tama Starclassic Performer',
-        shells: 'Birch/Bubinga hybrid',
-        finish: 'Various — often Dark Coffee Fade live',
+        brand: 'DW',
+        model: "DW Collector's Series (custom shop)",
+        finish: 'Various — custom shop finishes',
         config: {
           kick: '22" x 18" Bass Drum',
-          snare: '14" x 6.5" Tama Starphonic Steel or similar',
           toms: ['8" x 7"', '10" x 8"', '12" x 9"'],
           floorToms: ['14" x 14" Floor Tom', '16" x 16" Floor Tom']
         },
-        description: "Garstka plays the Tama Starclassic Performer — a birch/bubinga hybrid shell that combines birch's bright attack with bubinga's warm sustain. The result is a kit with excellent projection and tonal depth that holds up in both the dense low-end djent context and the dynamic delicacy of Animals as Leaders' quieter passages. His configuration runs a moderately sized tom spread — not the massive setups common in tech-metal — because the complexity comes from rhythmic programming, not from having more surfaces to hit.",
-        affiliateNote: "Tama Starclassic Walnut/Birch or Superstar Classic are strong alternatives with similar Tama character at accessible price points."
+        description: "Garstka plays a DW Collector's Series custom shop kit (since 2021), known for its focused attack and broad tonal range across DW's shell options. The result is a kit with excellent projection and tonal depth that holds up in both the dense low-end djent context and the dynamic delicacy of Animals as Leaders' quieter passages. His configuration runs a moderately sized tom spread — not the massive setups common in tech-metal — because the complexity comes from rhythmic programming, not from having more surfaces to hit.",
+        affiliateNote: "DW Design Series or Performance Series are strong alternatives with similar DW character at accessible price points."
       },
       snare: {
-        brand: 'Tama',
-        model: 'Tama Starphonic Steel',
-        size: '14" x 6.5"',
-        shell: 'Steel',
-        description: "Garstka's snare delivers a focused, cutting crack that pierces the dense djent guitar sound of Animals as Leaders. The deeper 6.5\" depth gives the shell more body than a standard 5.5\" steel snare, providing crack with low-mid punch rather than a purely thin ping. The Starphonic's design isolates the shell from standard mounting stress, giving consistent tone at both ghost-note sensitivity and full-force backbeat levels.",
-        alternative: "Pearl Free-Floating Steel or Ludwig Supraphonic in 6.5\" depth for comparable cutting crack with body"
+        brand: 'DW',
+        model: "DW Collector's Series",
+        description: "Garstka's snare delivers a focused, cutting crack that pierces the dense djent guitar sound of Animals as Leaders, consistent with his DW Collector's Series kit.",
+        alternative: "Pearl Free-Floating Steel or Ludwig Supraphonic for comparable cutting crack with body"
       },
       cymbals: {
         brand: 'Meinl',
@@ -6095,7 +6091,7 @@ His signature approach involves treating each limb as an independent rhythmic vo
       },
       pedals: {
         brand: 'Tama',
-        model: 'Tama Speed Cobra 310 Double Pedal',
+        model: 'Tama Speed Cobra 910 Double Pedal',
         description: "Garstka uses Tama Speed Cobra pedals — Tama's flagship spring-loaded pedal system. The Speed Cobra's 'Rolling Glide' design positions the footboard hinge at the rear rather than the center, reducing the distance between the heel's pivot and the footboard's contact point for a more natural, ergonomic feel. For Garstka's polyrhythmic foot patterns, the responsive feel of the Speed Cobra allows precise placement of individual kick notes within complex polyrhythmic frameworks.",
         alternative: "Tama Iron Cobra Power Glide Double Pedal or Pearl Eliminator for comparable spring-loaded precision"
       },
@@ -6125,8 +6121,8 @@ His signature approach involves treating each limb as an independent rhythmic vo
       snare: {
         tension: "Medium-high — focused crack with sensitivity for ghost notes",
         muffling: "Thin tape strip or single Moongel at edge for recording; clean for live",
-        description: "The Starphonic Steel rewards medium-high tension with a focused crack that cuts through the mix. Unlike a wood snare, steel responds well to higher tension — the crack tightens and projects rather than thinning out. Ghost note sensitivity is preserved at medium-high tension with the Starphonic's free-floating design.",
-        tip: "Tune higher than feels natural for a metal snare. Steel snares project better at higher tension than you might expect from a wood snare. Test in context with guitars — the crack should feel like it's cutting through, not sitting under the mix."
+        description: "Garstka's DW Collector's Series snare rewards medium-high tension with a focused crack that cuts through the mix, while retaining sensitivity for ghost notes in his polyrhythmic patterns.",
+        tip: "Tune higher than feels natural for a metal snare. A crisper, higher-tensioned crack projects better against dense djent guitars. Test in context with guitars — the crack should feel like it's cutting through, not sitting under the mix."
       },
       toms: {
         tension: "Medium — musical sustain for pitched tom figures",
@@ -6183,33 +6179,33 @@ His signature approach involves treating each limb as an independent rhythmic vo
         cymbals: "Meinl HCS Bronze or Byzance Value Pack ($250)",
         pedals: "Tama Iron Cobra 200 Double Pedal ($200)",
         sticks: "Vic Firth 5A ($10)",
-        notes: "Any birch-shell kit captures some Starclassic Performer character. Meinl B8 or HCS Bronze cymbals share the Meinl dark tonal character at accessible prices."
+        notes: "Any mid-tier kit captures some of the DW attack character. Meinl B8 or HCS Bronze cymbals share the Meinl dark tonal character at accessible prices."
       },
       mid: {
         price: "$3,500",
         label: "Intermediate Setup",
-        kit: "Tama Starclassic Walnut/Birch ($1,500)",
+        kit: "DW Design Series ($1,800)",
         cymbals: "Meinl Byzance Traditional 14\" Hi-Hats + 18\" Crash ($1,000)",
-        pedals: "Tama Speed Cobra 310 Double Pedal ($350)",
+        pedals: "Tama Speed Cobra 910 Double Pedal ($350)",
         sticks: "Vic Firth 5A ($10)",
         heads: "Evans EC2S Tom Pack + EMAD2 Kick ($130)",
-        notes: "The Starclassic Walnut/Birch shares the Performer's shell construction philosophy at a lower price. Byzance Traditional hi-hats are the highest-impact single cymbal upgrade for Garstka's style."
+        notes: "The DW Design Series shares DW's shell construction philosophy at a lower price than the Collector's Series. Byzance Traditional hi-hats are the highest-impact single cymbal upgrade for Garstka's style."
       },
       pro: {
         price: "$7,500+",
         label: "Professional Setup",
-        kit: "Tama Starclassic Performer Birch/Bubinga ($4,000+)",
+        kit: "DW Collector's Series ($4,000+)",
         cymbals: "Full Meinl Byzance Traditional setup ($3,000+)",
-        pedals: "Tama Speed Cobra 310 Double Pedal ($350)",
-        snare: "Tama Starphonic Steel 14\" x 6.5\" ($350)",
+        pedals: "Tama Speed Cobra 910 Double Pedal ($350)",
+        snare: "DW Collector's Series ($350)",
         heads: "Full Evans EC2S / EMAD2 set ($200)",
-        notes: "Tama Starclassic Performer is Garstka's current main kit. Pair with Byzance Traditional cymbals throughout for the complex, dark character that complements Animals as Leaders' sound."
+        notes: "DW Collector's Series is Garstka's current main kit (since 2021). Pair with Byzance Traditional cymbals throughout for the complex, dark character that complements Animals as Leaders' sound."
       }
     },
     faq: [
       {
         question: "What drum kit does Matt Garstka use?",
-        answer: "Matt Garstka plays Tama Starclassic Performer drums — a birch/bubinga hybrid shell kit. The Starclassic Performer combines birch's bright attack with bubinga's warm, resonant sustain, giving Garstka a kit with excellent projection and tonal depth. He typically runs a 22\" kick, three rack toms (8\", 10\", 12\"), and two floor toms (14\", 16\") — a moderately sized configuration for a technically complex style."
+        answer: "Matt Garstka plays a DW Collector's Series (custom shop) kit, his setup since 2021. The kit gives Garstka excellent projection and tonal depth. He typically runs a 22\" kick, three rack toms (8\", 10\", 12\"), and two floor toms (14\", 16\") — a moderately sized configuration for a technically complex style."
       },
       {
         question: "What cymbals does Matt Garstka use?",

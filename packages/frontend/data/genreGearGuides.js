@@ -1500,7 +1500,7 @@ Budget shouldn't stop you — Remo Ambassador X and Evans G1 Coated both offer a
       title: "Why Post-Metal Needs Heads That Breathe and Crush",
       content: `Post-metal lives on contrast. A song can spend four minutes building a hushed, cymbal-washed crescendo before detonating into a wall of down-tuned, distorted weight — and the drum heads underneath have to serve both halves of that arc without compromise. A head that's tuned purely for crushing low end goes dead and unresponsive during the quiet build; a head chasing maximum sensitivity can't carry the tectonic low-tuned tom hits that define the genre's climaxes.
 
-Brann Dailor of Mastodon built his sound on exactly this tension — warm, open Remo heads that respond to brushed, jazz-informed dynamics one moment and slam into crushing sludge weight the next. Danny Carey's massive Tool kit uses the same open, resonant philosophy for the band's more atmospheric, post-metal-adjacent material, while Mario Duplantier of Gojira pairs thicker Remo Emperor and EMAD-family heads for a heavier, more controlled version of the same idea across his dual-kick setup. Abe Cunningham of Deftones rounds out the picture with a bespoke SJC kit voiced specifically to serve both ambient restraint and explosive heaviness from one build.
+Brann Dailor of Mastodon built his sound on exactly this tension — warm, focused Evans G2 Clear heads that respond to brushed, jazz-informed dynamics one moment and slam into crushing sludge weight the next. Danny Carey's massive Tool kit uses the same open, resonant philosophy for the band's more atmospheric, post-metal-adjacent material, while Mario Duplantier of Gojira pairs thicker Remo Emperor and EMAD-family heads for a heavier, more controlled version of the same idea across his dual-kick setup. Abe Cunningham of Deftones rounds out the picture with a bespoke SJC kit voiced specifically to serve both ambient restraint and explosive heaviness from one build.
 
 This guide breaks down the drum heads that deliver post-metal's full dynamic range — why moderate-ply, resonant constructions beat both fully open and heavily muffled extremes here, and which specific models let a kit whisper and crush within the same song.`,
       keyPoints: [
@@ -1568,7 +1568,7 @@ This guide breaks down the drum heads that deliver post-metal's full dynamic ran
           tier: "pro",
           material: "1-Ply Coated (10mil)",
 
-          description: `Brann Dailor's Mastodon sound runs on the Remo Coated Ambassador — a warm, single-ply head that translates his jazz-informed dynamic range honestly, from the lightest brushed passages to full-weight sludge hits. It's the closest thing post-metal has to a default tom and snare head, because it never fights the drummer's touch.
+          description: `Danny Carey's massive Tool kit carries the same open, resonant philosophy through the Remo Coated Ambassador — a warm, single-ply head that translates dynamic playing honestly, from the lightest brushed passages to full-weight sludge hits. It's the closest thing post-metal has to a default tom and snare head, because it never fights the drummer's touch.
 
 For a genre defined by contrast, the Ambassador's open, natural sustain gives quiet builds real presence while still carrying enough low end to anchor a heavier climax when the song finally opens up.`,
 
@@ -1577,7 +1577,7 @@ For a genre defined by contrast, the Ambassador's open, natural sustain gives qu
             "Warm, natural sustain suited to atmospheric and crushing passages alike",
             "Single-ply sensitivity captures ghost notes and brushed dynamics",
             "Excellent value and universally available",
-            "Proven at the professional level via Brann Dailor's Mastodon tone"
+            "Proven at the professional level via Danny Carey's Tool tone"
           ],
           cons: [
             "Less durable than double-ply under the heaviest, most sludge-influenced hitting",
@@ -1592,7 +1592,6 @@ For a genre defined by contrast, the Ambassador's open, natural sustain gives qu
             sizes: "6\" to 28\""
           },
           usedBy: [
-            { name: "Brann Dailor", band: "Mastodon", note: "Remo endorser — dynamic range from ambient builds to sludge weight" },
             { name: "Danny Carey", band: "Tool", note: "Remo drumheads for atmospheric, post-metal-adjacent material" }
           ],
           verdict: "The definitive post-metal head. Start here if your kit needs to whisper and crush in the same song.",
@@ -1830,14 +1829,15 @@ For drummers whose post-metal leans toward the heaviest, most crushing end of th
       content: `Post-metal's need for both dynamic sensitivity and crushing weight plays to different strengths across the three major brands.
 
 **Remo:**
-- The genre's foundational choice, direct from Brann Dailor's Mastodon tone
+- The genre's foundational choice, direct from Danny Carey's Tool tone
 - Ambassador (single-ply) and Emperor (double-ply) cover the full range from ambient to crushing
-- Preferred by: Brann Dailor, Mario Duplantier, Danny Carey
+- Preferred by: Danny Carey, Mario Duplantier
 
 **Evans:**
 - EMAD2 kick heads give the adjustable muffling dual-kick, dynamically extreme setups need
 - G1 Clear is an excellent open, sustain-maximizing resonant head
-- Preferred by: Abe Cunningham (as part of a bespoke, dynamically flexible kit)
+- G2 Clear is Brann Dailor's batter head choice for Mastodon's dynamic range
+- Preferred by: Brann Dailor, Abe Cunningham (as part of a bespoke, dynamically flexible kit)
 
 **Aquarian:**
 - Studio-X's unusual ply combination handles the most extreme low tunings
@@ -1861,7 +1861,7 @@ For drummers whose post-metal leans toward the heaviest, most crushing end of th
         {
           category: "Best Overall",
           pedal: "Remo Coated Ambassador",
-          reason: "Brann Dailor's Mastodon tone — warm and dynamically honest across ambient builds and crushing climaxes."
+          reason: "Danny Carey's Tool tone — warm and dynamically honest across ambient builds and crushing climaxes."
         },
         {
           category: "Best for Heavier Post-Metal",
@@ -1889,14 +1889,14 @@ For drummers whose post-metal leans toward the heaviest, most crushing end of th
       'best-drum-heads-for-doom-metal'
     ],
     relatedDrummers: [
-      { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Remo Coated Ambassador — Mastodon\'s warm, dynamically honest tone' },
+      { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Evans G2 Clear — Mastodon\'s warm, dynamically honest tone' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Remo drumheads — Tool\'s atmospheric, post-metal-adjacent range' },
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Remo Emperor + EMAD-family heads — Gojira\'s crushing dual-kick weight' },
       { slug: 'abe-cunningham', name: 'Abe Cunningham', reason: 'Evans-family heads — Deftones\' ambient-to-crushing range' }
     ],
 
     featuredDrummers: [
-      { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Remo Coated Ambassador — the genre\'s foundational dynamic tone' },
+      { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Evans G2 Clear — dynamic range from ambient builds to sludge weight' },
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Remo Emperor + EMAD-family heads — crushing, low-tuned climax weight' },
       { slug: 'abe-cunningham', name: 'Abe Cunningham', reason: 'Evans-family heads — a kit voiced for both restraint and heaviness' }
     ],
@@ -1905,7 +1905,7 @@ For drummers whose post-metal leans toward the heaviest, most crushing end of th
     faq: [
       {
         question: "What drum heads do post-metal drummers use?",
-        answer: "Post-metal drummers overwhelmingly favor warm, dynamically responsive heads. Brann Dailor and Danny Carey use Remo, particularly the Coated Ambassador, while Mario Duplantier steps up to the thicker Remo Emperor and EMAD-family heads for Gojira's heavier, more crushing material. Abe Cunningham's bespoke Deftones kit uses Evans-family heads voiced to serve both restraint and heaviness."
+        answer: "Post-metal drummers overwhelmingly favor warm, dynamically responsive heads. Danny Carey uses Remo, particularly the Coated Ambassador, while Brann Dailor is an Evans endorser running the G2 Clear, and Mario Duplantier steps up to the thicker Remo Emperor and EMAD-family heads for Gojira's heavier, more crushing material. Abe Cunningham's bespoke Deftones kit uses Evans-family heads voiced to serve both restraint and heaviness."
       },
       {
         question: "Why do post-metal drummers need heads that work at both extremes?",
@@ -1928,7 +1928,7 @@ For drummers whose post-metal leans toward the heaviest, most crushing end of th
     // Conclusion
     conclusion: {
       title: "Build Your Post-Metal Head Setup",
-      content: `Post-metal asks more of a drum head than almost any other metal subgenre — it needs to whisper during a quiet build and crush during the payoff, often within the same song. Remo Coated Ambassador is the single best starting point, giving you the dynamic honesty Brann Dailor built Mastodon's sound around.
+      content: `Post-metal asks more of a drum head than almost any other metal subgenre — it needs to whisper during a quiet build and crush during the payoff, often within the same song. Remo Coated Ambassador is the single best starting point, giving you the dynamic honesty Danny Carey relies on for Tool's atmospheric range.
 
 For heavier, more crushing material, Remo Coated Emperor adds the durability and low-end weight Mario Duplantier relies on across Gojira's dual-kick setup. Pair it with an Evans EMAD2 on the kick for the adjustable control that lets a song move between ambient restraint and full-weight climax.
 
@@ -2449,7 +2449,7 @@ Budget shouldn't stop you — Evans G1 Coated and Remo Coated Diplomat both offe
       title: "Why Sludge Metal Needs Heads That Carry Real Weight",
       content: `Sludge metal fuses doom's glacial tempo and low tuning with hardcore's aggression, and that combination puts unique demands on a drum head. It needs the thick, dampened low end to carry a down-tuned riff's crushing weight, but also the durability to survive genuinely hard, hardcore-influenced hitting — a lighter, more open doom-style head simply won't hold up.
 
-Mario Duplantier of Gojira runs a dual-kick setup with thicker Remo Emperor and EMAD-family heads specifically engineered for tectonic, sludge-adjacent low end. Brann Dailor of Mastodon carries a warmer, more resonant version of the same philosophy, while Igor Cavalera's tribal, down-tuned Sepultura and Cavalera Conspiracy work proved that thinner shells and heads could still deliver real sludge weight through resonance rather than mass alone. Shannon Larkin of Godsmack rounds out the picture with a ddrum setup built for sludge-influenced low end inside a platinum-selling hard rock context.
+Mario Duplantier of Gojira runs a dual-kick setup with thicker Remo Emperor and EMAD-family heads specifically engineered for tectonic, sludge-adjacent low end. Brann Dailor of Mastodon carries a warmer, more resonant version of the same philosophy on Evans G2 Clear heads, while Igor Cavalera's tribal, down-tuned Sepultura and Cavalera Conspiracy work proved that thinner shells and heads could still deliver real sludge weight through resonance rather than mass alone. Shannon Larkin of Godsmack rounds out the picture with a ddrum setup built for sludge-influenced low end inside a platinum-selling hard rock context.
 
 This guide covers the drum heads that deliver sludge metal's thick, crushing, low-tuned character — why heavier double-ply and dampened constructions matter more here than in doom's more open cousin, and which specific models hold up under the genre's punishing combination of low tuning and hard hitting.`,
       keyPoints: [
@@ -2549,43 +2549,43 @@ Where doom's Ambassador chases maximum openness, the Emperor's extra ply gives s
         },
         {
           rank: 2,
-          name: "Remo Coated Ambassador",
-          brand: "Remo",
-          model: "Coated Ambassador Batter Head",
+          name: "Evans G2 Clear",
+          brand: "Evans",
+          model: "G2 Clear Batter Head",
           image: "https://upload.wikimedia.org/wikipedia/commons/e/ee/Pearl_MCX_snare_drum.JPG",
-          priceRange: "€20-35 per head",
+          priceRange: "€25-45 per head",
           tier: "pro",
-          material: "1-Ply Coated (10mil)",
+          material: "2-Ply Clear (7mil + 7mil)",
 
-          description: `Brann Dailor of Mastodon carries doom's warm, open Ambassador philosophy into sludge, giving his toms a natural, musical sustain that still reads as heavy and crushing at Mastodon's down-tuned pitches. It's a slightly more resonant, less durable alternative to the Emperor for drummers who prioritize tone over maximum hardness.
+          description: `Brann Dailor of Mastodon runs Evans G2 Clear, giving his toms a natural, musical sustain that still reads as heavy and crushing at Mastodon's down-tuned pitches. It's a more resonant alternative to the Emperor for drummers who prioritize tone over maximum hardness.
 
-For sludge that leans more melodic or progressive, like Mastodon's, the Ambassador's honest dynamic response and open low end capture the genre's weight without sacrificing musicality.`,
+For sludge that leans more melodic or progressive, like Mastodon's, the G2 Clear's honest dynamic response and open low end capture the genre's weight without sacrificing musicality.`,
 
           pros: [
-            "Warm, natural sustain ideal for low-tuned, crushing toms",
-            "Single-ply sensitivity captures dynamics and ghost notes",
-            "Excellent value and universally available",
+            "Natural, musical sustain ideal for low-tuned, crushing toms",
+            "Double-ply construction balances sensitivity with durability",
+            "Level 360 collar for wide, precise tuning range",
             "Proven at the professional level via Brann Dailor's Mastodon tone",
             "More musical than heavily dampened alternatives"
           ],
           cons: [
-            "Less durable than double-ply under sludge's hardest hitting",
+            "Less controlled than the fully coated Emperor under sludge's hardest hitting",
             "May need dampening for the heaviest, most distortion-forward material",
             "Too open for drummers wanting maximum controlled weight"
           ],
           specs: {
-            construction: "1-ply coated",
-            filmWeight: "10mil",
-            collar: "Standard Remo collar",
-            coating: "White coated",
+            construction: "2-ply clear",
+            filmWeight: "7mil + 7mil",
+            collar: "Level 360",
+            coating: "Clear",
             sizes: "6\" to 28\""
           },
           usedBy: [
-            { name: "Brann Dailor", band: "Mastodon", note: "Remo Coated Ambassador — warm, crushing low end with real musicality" }
+            { name: "Brann Dailor", band: "Mastodon", note: "Evans G2 Clear — warm, crushing low end with real musicality" }
           ],
           verdict: "The best choice for melodic, progressive-leaning sludge that still needs crushing low-end weight.",
           rating: 4.6,
-          affiliateLink: "https://www.thomann.de/intl/remo_coated_ambassador.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/evans_g2_coated.htm?partner_id=metalforge"
         },
         {
           rank: 3,
@@ -2778,21 +2778,22 @@ The Level 360 collar also makes it easy to hunt down the exact low pitch a down-
       content: `Sludge's need for thick, crushing, durable tone plays to different strengths across the three major brands.
 
 **Remo:**
-- The genre's foundational choice — Emperor (double-ply) and Ambassador (single-ply) cover heavier and more melodic sludge
+- The genre's foundational choice — Emperor (double-ply) covers the heaviest, most crushing sludge
 - Powerstroke 3 is the standard for sludge's deep, controlled kick tone
-- Preferred by: Mario Duplantier, Brann Dailor
+- Preferred by: Mario Duplantier
 
 **Evans:**
 - G1 Clear is an excellent open, sustain-maximizing resonant head
+- G2 Clear is Brann Dailor's batter head choice for Mastodon's melodic, crushing sludge tone
 - Level 360 collar makes precise low tuning easier
-- Preferred by: Shannon Larkin (as a resonant-side and general kit choice)
+- Preferred by: Brann Dailor, Shannon Larkin (as a resonant-side and general kit choice)
 
 **Aquarian:**
 - Studio-X's unusual ply combination handles the most extreme low tunings and hardest hitting
 - Best choice for the heaviest, most crushing sludge sub-styles
 - Less common endorsement data but a legitimate specialist option
 
-**Our Take:** Remo Coated Emperor is sludge's true reference tone — thick, controlled, and durable enough for the genre's hardcore-influenced hitting. Remo Ambassador is the pick for more melodic, Mastodon-leaning sludge, and Aquarian Studio-X takes over at the heaviest, most extreme low tunings.`,
+**Our Take:** Remo Coated Emperor is sludge's true reference tone — thick, controlled, and durable enough for the genre's hardcore-influenced hitting. Evans G2 Clear is the pick for more melodic, Mastodon-leaning sludge, and Aquarian Studio-X takes over at the heaviest, most extreme low tunings.`,
       comparisonTable: [
         { feature: "Crushing Low-End Weight", evans: "⭐⭐⭐", remo: "⭐⭐⭐⭐⭐", aquarian: "⭐⭐⭐⭐⭐" },
         { feature: "Durability", evans: "⭐⭐⭐⭐", remo: "⭐⭐⭐⭐", aquarian: "⭐⭐⭐⭐⭐" },
@@ -2813,7 +2814,7 @@ The Level 360 collar also makes it easy to hunt down the exact low pitch a down-
         },
         {
           category: "Best for Melodic Sludge",
-          pedal: "Remo Coated Ambassador",
+          pedal: "Evans G2 Clear",
           reason: "Brann Dailor's warm, musical alternative — crushing low end without sacrificing tone."
         },
         {
@@ -2838,14 +2839,14 @@ The Level 360 collar also makes it easy to hunt down the exact low pitch a down-
     ],
     relatedDrummers: [
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Remo Emperor + Powerstroke 3 — Gojira\'s tectonic, crushing low end' },
-      { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Remo Coated Ambassador — Mastodon\'s warm, crushing sludge tone' },
+      { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Evans G2 Clear — Mastodon\'s warm, crushing sludge tone' },
       { slug: 'igor-cavalera', name: 'Igor Cavalera', reason: 'Remo-family heads — Sepultura tribal, down-tuned resonance' },
       { slug: 'shannon-larkin', name: 'Shannon Larkin', reason: 'Evans-family resonant heads — Godsmack sludge-influenced weight' }
     ],
 
     featuredDrummers: [
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Remo Emperor + Powerstroke 3 — maximum crushing low-end weight' },
-      { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Remo Coated Ambassador — Mastodon\'s most direct sludge analogue' },
+      { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Evans G2 Clear — Mastodon\'s most direct sludge analogue' },
       { slug: 'igor-cavalera', name: 'Igor Cavalera', reason: 'Remo-family heads — proof resonance can carry sludge weight' }
     ],
 
@@ -2853,7 +2854,7 @@ The Level 360 collar also makes it easy to hunt down the exact low pitch a down-
     faq: [
       {
         question: "What drum heads do sludge metal drummers use?",
-        answer: "Sludge metal drummers overwhelmingly favor thick, dampened Remo heads. Mario Duplantier runs Remo Emperor on toms and Powerstroke 3 on kicks for Gojira's crushing weight, Brann Dailor uses the warmer, more open Remo Ambassador for Mastodon, and Shannon Larkin pairs Evans-family resonant heads with a ddrum kit for Godsmack."
+        answer: "Sludge metal drummers overwhelmingly favor thick, dampened heads. Mario Duplantier runs Remo Emperor on toms and Powerstroke 3 on kicks for Gojira's crushing weight, Brann Dailor uses the warmer, more open Evans G2 Clear for Mastodon, and Shannon Larkin pairs Evans-family resonant heads with a ddrum kit for Godsmack."
       },
       {
         question: "Why do sludge metal drummers need thicker heads than doom metal drummers?",
@@ -2878,7 +2879,7 @@ The Level 360 collar also makes it easy to hunt down the exact low pitch a down-
       title: "Build Your Sludge Metal Head Setup",
       content: `Sludge metal demands a drum head that can do what doom's classic open tone can't quite manage — carry crushing, low-tuned weight while surviving hardcore-derived, genuinely hard hitting. Remo Coated Emperor is the single best starting point, giving you Mario Duplantier's thick, durable, low-end-forward foundation.
 
-For more melodic, Mastodon-leaning sludge, Remo Coated Ambassador delivers the same crushing weight with a warmer, more open character. Pair either with a Remo Powerstroke 3 on the kick for the deep, felt low end sludge's riffing demands.
+For more melodic, Mastodon-leaning sludge, Evans G2 Clear delivers the same crushing weight with a warmer, more open character. Pair either with a Remo Powerstroke 3 on the kick for the deep, felt low end sludge's riffing demands.
 
 Budget shouldn't stop you — Remo Coated Pinstripe and Evans G1 Coated both offer a real path to crushing, low-tuned sludge tone at a fraction of the price.
 

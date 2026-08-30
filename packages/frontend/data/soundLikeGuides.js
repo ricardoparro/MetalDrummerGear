@@ -2552,7 +2552,7 @@ This guide explores how to capture Chris's powerful groove metal style.`,
     genre: 'Metalcore / Progressive Metalcore',
     priority: 11,
     title: "How to Sound Like Matt Greiner: Complete Gear & Technique Guide",
-    description: "Master Matt Greiner's dynamic metalcore drumming. Learn his jazz-influenced technique, Pearl signature setup, and the progressive approach behind August Burns Red's Grammy-nominated sound.",
+    description: "Master Matt Greiner's dynamic metalcore drumming. Learn his jazz-influenced technique, Mapex-centered setup, and the progressive approach behind August Burns Red's Grammy-nominated sound.",
     seoKeywords: ['matt greiner drumming', 'how to sound like matt greiner', 'august burns red drums', 'matt greiner gear', 'matt greiner technique', 'matt greiner drum setup'],
     ogImage: '/images/guides/matt-greiner-guide.webp',
     datePublished: '2026-06-20',
@@ -2566,10 +2566,10 @@ This guide explores how to capture Chris's powerful groove metal style.`,
 
 What separates Greiner from the metalcore pack is restraint. He knows when to lock into a brutal groove and when to let the music breathe. His playing on albums like "Constellations," "Leveler," and "Rescue & Restore" demonstrates a drummer who serves the composition first, layering complexity where it supports rather than overwhelms.
 
-His 2017 Pearl Signature Snare cemented his status among the gear community, but it's the technique that earns his reputation. This guide breaks down Greiner's pocket blast, jazz-influenced dynamics, and the gear choices that give August Burns Red its distinctive metalcore sound.`,
+His 2017 Vic Firth signature sticks cemented his status among the gear community, but it's the technique that earns his reputation. This guide breaks down Greiner's pocket blast, jazz-influenced dynamics, and the gear choices that give August Burns Red its distinctive metalcore sound.`,
       keyPoints: [
         "Greiner blends jazz-influenced dynamics with metalcore aggression",
-        "His signature Pearl snare became a landmark piece in metalcore gear",
+        "His signature Vic Firth sticks became a landmark piece in metalcore gear",
         "Grammy nominations reflect ABR's compositional depth — Matt's drumming drives it",
         "Complex kick patterns and cymbal voicing set him apart from peers"
       ]
@@ -2618,53 +2618,53 @@ His 2017 Pearl Signature Snare cemented his status among the gear community, but
       ]
     },
     gear: {
-      title: "Matt's Pearl-Centered Setup",
+      title: "Matt's Mapex-Centered Setup",
       drumKit: {
-        brand: 'Pearl',
-        model: 'Pearl Masters Maple Reserve',
-        shells: 'Maple',
+        brand: 'Mapex',
+        model: 'Mapex Black Panther Design Lab',
+        shells: 'Maple/walnut hybrid',
         finish: 'Custom ABR configurations',
         config: {
           kick: '22" x 18" Bass Drums (x2)',
-          snare: '14" x 6.5" Pearl Matt Greiner Signature Snare',
-          toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom'],
-          floorToms: ['16" x 16" Floor Tom']
+          snare: '14" x 5.5" Mapex Black Panther Maple',
+          toms: ['10" x 7" Rack Tom', '12" x 8" Rack Tom'],
+          floorToms: ['14" x 14" Floor Tom', '16" x 14" Floor Tom']
         },
-        description: "Matt's Pearl Masters kit provides the warm attack and resonance that define ABR's drum sound. Maple shells give warmth for clean passages while retaining punch for heavy sections.",
-        affiliateNote: "Pearl Reference or Masters Maple Complete offer similar tone at various price points."
+        description: "Matt's Mapex Black Panther Design Lab kit provides the warm attack and resonance that define ABR's drum sound. The maple/walnut hybrid shells give warmth for clean passages while retaining punch for heavy sections.",
+        affiliateNote: "Mapex Armory or Mars shell packs offer similar tone at various price points."
       },
       snare: {
-        brand: 'Pearl',
-        model: 'Pearl Matt Greiner Signature Snare',
-        size: '14" x 6.5"',
-        shell: 'Brass',
-        description: "The signature Greiner snare balances warmth and crack — bright enough to cut through metalcore mixes, with enough body for sensitive ghost-note passages. The brass shell adds depth without harshness.",
-        alternative: "Pearl Free-Floating Brass or Ludwig Supraphonic for similar balance"
+        brand: 'Mapex',
+        model: 'Mapex Black Panther 14" x 5.5" Maple',
+        size: '14" x 5.5"',
+        shell: 'Maple',
+        description: "The Black Panther maple snare balances warmth and crack — bright enough to cut through metalcore mixes, with enough body for sensitive ghost-note passages. The maple shell adds warmth without harshness.",
+        alternative: "Tama Starclassic Maple or Ludwig Supraphonic for similar balance"
       },
       cymbals: {
-        brand: 'Sabian',
-        series: 'Sabian AAX / HHX Series',
+        brand: 'Paiste',
+        series: 'Paiste Formula 602 Series',
         setup: [
-          { type: 'Hi-Hats', model: 'Sabian 14" AAX X-Plosion Hi-Hats', notes: 'Bright and cutting for fast metalcore patterns' },
-          { type: 'Crash', model: 'Sabian 17" AAX Thin Crash', notes: 'Quick response for accented crashes' },
-          { type: 'Crash', model: 'Sabian 19" HHX Evolution Crash', notes: 'Full-bodied with complex overtones' },
-          { type: 'Ride', model: 'Sabian 21" AAX Ride', notes: 'Clear bell for textural ride work' },
-          { type: 'China', model: 'Sabian 18" HHX Evolution China', notes: 'Aggressive accent for blast sections' }
+          { type: 'Hi-Hats', model: 'Paiste Formula 602 14" Hi-Hats', notes: 'Tight, controlled response for fast metalcore patterns' },
+          { type: 'Crash', model: 'Paiste Formula 602 16" Crash', notes: 'Quick response for accented crashes' },
+          { type: 'Crash', model: 'Paiste Formula 602 18" Crash', notes: 'Full-bodied crash for bigger accents' },
+          { type: 'Ride', model: 'Paiste Formula 602 22" Ride', notes: 'Clear bell for textural ride work' },
+          { type: 'China', model: 'Paiste Formula 602 18" China', notes: 'Aggressive accent for blast sections' }
         ],
-        description: "Matt's Sabian setup prioritizes versatility — bright enough for metalcore aggression, complex enough for jazz-influenced passages. The HHX Evolution line suits his dynamic range."
+        description: "Matt's Paiste Formula 602 setup prioritizes versatility — bright enough for metalcore aggression, complex enough for jazz-influenced passages. The balanced, musical voice suits his dynamic range."
       },
       pedals: {
-        brand: 'Pearl',
-        model: 'Pearl Demon Drive Double Pedal',
-        description: "The Demon Drive's direct-drive system gives Matt the responsive, consistent feel needed for his intricate kick patterns. Speed and sensitivity in equal measure.",
-        alternative: "Pearl Eliminator Redline or Tama Speed Cobra for similar direct feel"
+        brand: 'DW',
+        model: 'DW 9000 Series Double Pedal',
+        description: "The DW 9000's responsive, adjustable drive gives Matt the consistent feel needed for his intricate kick patterns. Speed and sensitivity in equal measure.",
+        alternative: "DW 5000 Series or Tama Speed Cobra for similar direct feel"
       },
       sticks: {
         brand: 'Vic Firth',
-        model: 'Vic Firth 5A',
-        specs: '16" length, .565" diameter, acorn tip',
-        description: "Matt favors standard 5A sticks, proving technique matters more than exotic gear. The acorn tip gives clear cymbal definition for his textural playing.",
-        alternative: "Vic Firth American Classic 5A or Pro-Mark TX5AW"
+        model: 'Vic Firth Matt Greiner Signature',
+        specs: 'Custom taper and bead for power with nuance',
+        description: "Matt's signature Vic Firth sticks reflect his playing philosophy: power without sacrificing control. The custom dimensions balance durability for explosive metalcore playing with the sensitivity needed for his textural, ghost-note work.",
+        alternative: "Vic Firth American Classic 5A for similar dimensions"
       },
       heads: {
         kick: 'Evans EMAD2 Clear',
@@ -2685,8 +2685,8 @@ His 2017 Pearl Signature Snare cemented his status among the gear community, but
       snare: {
         tension: "Medium-high",
         muffling: "Minimal — one Moongel for recording",
-        description: "The signature brass snare has natural warmth that rewards moderate tension. High enough for crack and projection, not so high the ghost notes disappear.",
-        tip: "Tune batter and resonant heads in equal intervals. Brass shells need less tension than steel to achieve similar pitch."
+        description: "The maple Black Panther snare has natural warmth that rewards moderate tension. High enough for crack and projection, not so high the ghost notes disappear.",
+        tip: "Tune batter and resonant heads in equal intervals. Maple shells need less tension than steel to achieve similar pitch."
       },
       toms: {
         tension: "Medium",
@@ -2743,28 +2743,28 @@ His 2017 Pearl Signature Snare cemented his status among the gear community, but
       budget: {
         price: "$1,000",
         label: "Starter Setup",
-        kit: "Pearl Export Series ($700)",
-        cymbals: "Sabian B8X Pack ($200)",
-        pedals: "Pearl P930 Double Pedal ($150)",
-        sticks: "Vic Firth 5A ($10)",
-        notes: "Pearl Export shares DNA with Matt's higher-end kit. Focus on dynamics and ghost notes at this level."
+        kit: "Mapex Tornado Series ($700)",
+        cymbals: "Paiste PST 3 Pack ($200)",
+        pedals: "Mapex P400 Single Pedal ($150)",
+        sticks: "Vic Firth American Classic 5A ($10)",
+        notes: "Mapex Tornado shares DNA with Matt's higher-end kit. Focus on dynamics and ghost notes at this level."
       },
       mid: {
         price: "$3,000",
         label: "Intermediate Setup",
-        kit: "Pearl Masters Maple ($1,800)",
-        cymbals: "Sabian AAX Set ($800)",
-        pedals: "Pearl Eliminator Redline ($350)",
-        sticks: "Vic Firth 5A ($10)",
-        notes: "Getting close to Greiner's actual tone with the Masters Maple shell pack."
+        kit: "Mapex Armory Series ($1,800)",
+        cymbals: "Paiste PST 8 Set ($800)",
+        pedals: "DW 5000 Series Double Pedal ($350)",
+        sticks: "Vic Firth American Classic 5A ($10)",
+        notes: "Getting close to Greiner's actual tone with the Armory shell pack."
       },
       pro: {
         price: "$5,500+",
         label: "Professional Setup",
-        kit: "Pearl Masters Maple Reserve ($2,800+)",
-        cymbals: "Sabian HHX Evolution Custom ($1,500+)",
-        pedals: "Pearl Demon Drive ($600)",
-        snare: "Pearl Matt Greiner Signature ($400)",
+        kit: "Mapex Black Panther Design Lab ($2,800+)",
+        cymbals: "Paiste Formula 602 Full Setup ($1,500+)",
+        pedals: "DW 9000 Series Double Pedal ($600)",
+        snare: "Mapex Black Panther Maple ($400)",
         heads: "Full Evans EMAD setup ($180)",
         notes: "Studio and touring-ready Greiner sound."
       }
@@ -2772,11 +2772,11 @@ His 2017 Pearl Signature Snare cemented his status among the gear community, but
     faq: [
       {
         question: "What snare does Matt Greiner use?",
-        answer: "Matt Greiner uses the Pearl Matt Greiner Signature Snare — a 14\" x 6.5\" brass shell snare released in 2017. The brass shell delivers warmth and crack suited to both metalcore aggression and ghost-note sensitivity."
+        answer: "Matt Greiner uses the Mapex Black Panther 14\" x 5.5\" Maple snare. The maple shell delivers warmth and crack suited to both metalcore aggression and ghost-note sensitivity."
       },
       {
         question: "Does Matt Greiner use double bass?",
-        answer: "Yes. Matt uses a Pearl Demon Drive double pedal for the intricate kick patterns throughout August Burns Red's catalog. His kick patterns often lock with guitar riffs rather than running continuous 16ths."
+        answer: "Yes. Matt uses a DW 9000 Series double pedal for the intricate kick patterns throughout August Burns Red's catalog. His kick patterns often lock with guitar riffs rather than running continuous 16ths."
       },
       {
         question: "How does Matt Greiner incorporate jazz into metalcore?",
@@ -2784,7 +2784,7 @@ His 2017 Pearl Signature Snare cemented his status among the gear community, but
       },
       {
         question: "What cymbals does Matt Greiner use?",
-        answer: "Matt Greiner plays Sabian cymbals, primarily from the AAX and HHX Evolution series. These provide the brightness needed to cut through heavy guitar while offering the overtone complexity his dynamic playing demands."
+        answer: "Matt Greiner plays Paiste cymbals, primarily from the Formula 602 series. These provide the balanced, musical voice needed to cut through heavy guitar while offering the overtone complexity his dynamic playing demands."
       },
       {
         question: "Is Matt Greiner self-taught?",
@@ -2795,7 +2795,7 @@ His 2017 Pearl Signature Snare cemented his status among the gear community, but
       drummerProfile: '/drummer/matt-greiner',
       similarDrummers: ['Matt Halpern', 'Travis Orbin', 'Chris Adler'],
       relatedGuides: ['how-to-sound-like-matt-halpern', 'how-to-sound-like-travis-orbin'],
-      gearPages: ['/gear/drums', '/brands/pearl', '/brands/sabian']
+      gearPages: ['/gear/drums', '/brands/mapex', '/brands/paiste']
     },
     licksUrl: '/drummers/matt-greiner/licks',
     relatedArticles: [

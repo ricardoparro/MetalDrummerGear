@@ -660,10 +660,9 @@ This guide focuses on capturing Lars's classic sound—the aggressive attack, th
         description: "Lars uses bright, cutting cymbals that can be heard over Metallica's huge guitar sound. The A Custom series provides the projection he needs."
       },
       pedals: {
-        brand: 'DW',
-        model: 'DW 5000 Series Double Pedal',
-        description: "Lars has used DW pedals for their reliability and feel. The 5000 series provides solid response for his double bass work.",
-        alternative: "Tama Iron Cobra or Pearl Eliminator"
+        brand: 'Tama',
+        model: 'Iron Cobra 900',
+        description: "Lars has used Tama Iron Cobra pedals since the 1990s, matching his long-standing Tama drum endorsement. The Power Glide cam design provides solid response for his double bass work.",
       },
       sticks: {
         brand: 'Ahead',

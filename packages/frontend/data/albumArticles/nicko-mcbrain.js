@@ -1476,7 +1476,7 @@ export const articles = {
     "dateModified": "2026-07-01",
     "author": "MetalForge Editorial",
     "title": "No Prayer for the Dying Drum Setup: Nicko McBrain's Gear on Iron Maiden's Only UK #1 Single (1990)",
-    "description": "The complete gear breakdown for Iron Maiden's No Prayer for the Dying (1990). Discover Nicko McBrain's tightly tuned Yamaha Recording Custom kit and Zildjian A cymbals behind 'Bring Your Daughter to the Slaughter' — the band's only UK number one single.",
+    "description": "The complete gear breakdown for Iron Maiden's No Prayer for the Dying (1990). Discover Nicko McBrain's tightly tuned Yamaha Recording Custom kit and Paiste 2002 cymbals behind 'Bring Your Daughter to the Slaughter' — the band's only UK number one single.",
     "seoKeywords": [
       "nicko mcbrain 1990 kit",
       "iron maiden no prayer for the dying drums",
@@ -1539,42 +1539,42 @@ export const articles = {
       "estimatedValue": "$350-450 (1990)"
     },
     "cymbals": {
-      "title": "A One-Album Switch to Zildjian A",
-      "brand": "Zildjian",
-      "series": "Zildjian A",
+      "title": "Paiste 2002 Cymbals for the Barnyard Sessions",
+      "brand": "Paiste",
+      "series": "Paiste 2002",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Zildjian A 14\" New Beat Hi-Hats",
+          "model": "Paiste 2002 14\" Sound Edge Hi-Hats",
           "position": "Left side",
-          "notes": "Crisp, controlled chick and a tighter stick sound than the Paiste 2002s"
+          "notes": "Crisp, controlled chick well-suited to the barn's live-room acoustics"
         },
         {
           "type": "Crash",
-          "model": "Zildjian A 16\" Medium Crash",
+          "model": "Paiste 2002 16\" Medium Crash",
           "position": "Left of hi-hats",
           "notes": "Quick decay suited to the barn's live acoustics"
         },
         {
           "type": "Crash",
-          "model": "Zildjian A 18\" Medium Crash",
+          "model": "Paiste 2002 18\" Medium Crash",
           "position": "Right of toms",
           "notes": "Primary accent cymbal for chorus hits"
         },
         {
           "type": "Ride",
-          "model": "Zildjian A 20\" Medium Ride",
+          "model": "Paiste 2002 20\" Medium Ride",
           "position": "Far right",
-          "notes": "Darker, drier ping than the Paiste 2002 ride it replaced"
+          "notes": "Bright, cutting ping consistent with Nicko's established Paiste sound"
         },
         {
           "type": "China",
-          "model": "Zildjian A 18\" China Boy High",
+          "model": "Paiste 2002 18\" China Type",
           "position": "Above floor tom",
           "notes": "Aggressive accent for song transitions"
         }
       ],
-      "description": "Alongside his familiar Yamaha kit and snare, Nicko McBrain tracked No Prayer for the Dying on Zildjian A series cymbals rather than the Paiste 2002s that had defined his sound since the early 1980s. The Zildjian A's darker, drier character fit the album's rawer production values — less shimmer, more directness.\n\nThe 14\" New Beat hi-hats delivered a tighter, more controlled chick than the brighter Paiste 2002s, which mattered in the live-room barn setting where cymbal wash could easily bleed into other mics. \"Public Enema Number One\" and \"Tailgunner\" lean on fast, controlled hi-hat work that benefits from that tighter response.\n\nThe crash pairing (16\" and 18\") and 20\" ride followed Nicko's usual structure, but the Zildjian A's drier decay meant accents cut through the mix quickly without lingering — a better match for the more direct, less reverberant Barnyard Studios sound than the longer-sustaining Paiste cymbals would have offered.\n\nThe cymbal switch proved to be a one-album experiment; Nicko's Yamaha kit and snare, on the other hand, carried on unchanged. By the time Iron Maiden reconvened for Fear of the Dark, Nicko had gone back to Paiste — but the Zildjian A sound on No Prayer for the Dying remains a distinct chapter in his gear history.",
+      "description": "Alongside his familiar Yamaha kit and snare, Nicko McBrain tracked No Prayer for the Dying on the same Paiste 2002 series cymbals that had defined his sound since the early 1980s. The bright, cutting character of the 2002 line cut cleanly through the barn's live-room acoustics without needing to change setups.\n\nThe 14\" Sound Edge hi-hats delivered a controlled chick that held up in the live-room barn setting, where cymbal wash could easily bleed into other mics. \"Public Enema Number One\" and \"Tailgunner\" lean on fast, controlled hi-hat work built around that response.\n\nThe crash pairing (16\" and 18\") and 20\" ride followed Nicko's usual structure, with the 2002 line's bright, cutting decay letting accents ring out clearly in the barn's untreated space.\n\nNicko's Yamaha kit, snare, and Paiste 2002 cymbals all carried on unchanged from the previous two albums — the tighter tuning, not a change of gear, was what set the Barnyard sessions apart. He would stay on Paiste through the rest of the decade, moving up to the Signature series for Fear of the Dark.",
       "estimatedValue": "$1,300-1,600 total (1990)"
     },
     "hardware": {
@@ -1614,12 +1614,12 @@ export const articles = {
     },
     "recordingTechniques": {
       "title": "Martin Birch and the Rolling Stones Mobile Studio, Inside a Barn",
-      "content": "No Prayer for the Dying was recorded in June 1990 at Barnyard Studios — not a conventional studio at all, but a barn on Steve Harris's Essex property, wired for recording using the Rolling Stones Mobile Studio, the same portable rig that had captured Led Zeppelin and Deep Purple sessions in the 1970s. Producer Martin Birch, who had worked with Iron Maiden since 1981's Killers, aimed for a rawer, more immediate sound than the layered production of Seventh Son of a Seventh Son.\n\n**Microphone Setup:**\n- Kick drum: AKG D12 inside, close-miked for the punchier, tighter-tuned Yamaha shells\n- Snare: Shure SM57 top and bottom, capturing the dry crack of the tightened tuning\n- Toms: Sennheiser MD421 on each tom\n- Hi-hat and overheads: AKG C451 pair, positioned to control bleed in the untreated barn space\n- Room mics: Minimal — the barn's natural ambience was used sparingly rather than as a featured element\n\n**A Deliberately Rougher Sound:**\nBirch and the band wanted No Prayer for the Dying to sound less polished than its predecessor — closer to a band playing live in a room than a meticulously constructed studio record. The barn setting, the mobile rig, and Nicko's tighter tuning and switch to Zildjian cymbals all served that goal. Where Seventh Son used the acoustic character of Musicland Studios to let synthesizer textures breathe, No Prayer used a rough, boxy room sound to emphasize directness and aggression.\n\n**Working Around a Non-Studio Space:**\nTracking drums in a barn rather than a purpose-built studio meant compromises — less predictable acoustics, more bleed between mics, fewer options for isolation. Nicko's tighter-tuned Yamaha kit and dry snare tuning were, in part, practical responses to those constraints as much as a deliberate tonal choice.",
+      "content": "No Prayer for the Dying was recorded in June 1990 at Barnyard Studios — not a conventional studio at all, but a barn on Steve Harris's Essex property, wired for recording using the Rolling Stones Mobile Studio, the same portable rig that had captured Led Zeppelin and Deep Purple sessions in the 1970s. Producer Martin Birch, who had worked with Iron Maiden since 1981's Killers, aimed for a rawer, more immediate sound than the layered production of Seventh Son of a Seventh Son.\n\n**Microphone Setup:**\n- Kick drum: AKG D12 inside, close-miked for the punchier, tighter-tuned Yamaha shells\n- Snare: Shure SM57 top and bottom, capturing the dry crack of the tightened tuning\n- Toms: Sennheiser MD421 on each tom\n- Hi-hat and overheads: AKG C451 pair, positioned to control bleed in the untreated barn space\n- Room mics: Minimal — the barn's natural ambience was used sparingly rather than as a featured element\n\n**A Deliberately Rougher Sound:**\nBirch and the band wanted No Prayer for the Dying to sound less polished than its predecessor — closer to a band playing live in a room than a meticulously constructed studio record. The barn setting, the mobile rig, and Nicko's tighter drum tuning all served that goal. Where Seventh Son used the acoustic character of Musicland Studios to let synthesizer textures breathe, No Prayer used a rough, boxy room sound to emphasize directness and aggression.\n\n**Working Around a Non-Studio Space:**\nTracking drums in a barn rather than a purpose-built studio meant compromises — less predictable acoustics, more bleed between mics, fewer options for isolation. Nicko's tighter-tuned Yamaha kit and dry snare tuning were, in part, practical responses to those constraints as much as a deliberate tonal choice.",
       "keyTechniques": [
         "Recorded with the Rolling Stones Mobile Studio inside a barn on Steve Harris's Essex property",
         "Producer Martin Birch pursued a rawer, more live-sounding record than Seventh Son of a Seventh Son",
         "Tighter Yamaha kit tuning and a drier snare setting chosen partly to control resonance in an untreated room",
-        "Zildjian A cymbals' drier decay suited the barn's boxier acoustics better than Paiste 2002"
+        "Paiste 2002 cymbals unchanged from the previous two albums, their bright, cutting decay suited the barn's boxier acoustics"
       ]
     },
     "trackAnalysis": [
@@ -1633,7 +1633,7 @@ export const articles = {
           "Reached #3 on the UK Singles Chart",
           "Punchy, tightly tuned Yamaha snare crack drives the verses"
         ],
-        "gearNotes": "Zildjian A 14\" New Beat hi-hats deliver the tight chick needed for the fast verse pattern."
+        "gearNotes": "Paiste 2002 14\" Sound Edge hi-hats deliver the tight chick needed for the fast verse pattern."
       },
       {
         "track": "Bring Your Daughter... to the Slaughter",
@@ -1656,7 +1656,7 @@ export const articles = {
           "Relentless single-pedal gallop throughout",
           "Tight hi-hat work under a driving verse riff"
         ],
-        "gearNotes": "Zildjian A ride and hi-hats provide the tighter, drier articulation the faster tempo demands."
+        "gearNotes": "Paiste 2002 ride and hi-hats provide the bright, cutting articulation the faster tempo demands."
       },
       {
         "track": "Tailgunner",
@@ -1673,7 +1673,7 @@ export const articles = {
     "faq": [
       {
         "question": "What drum kit did Nicko McBrain use on No Prayer for the Dying?",
-        "answer": "Nicko McBrain recorded No Prayer for the Dying (1990) on the same Yamaha Recording Custom kit he'd played since Somewhere in Time (1986), tuned tighter and drier for the session. What did change was the cymbals: he switched from his longtime Paiste 2002 series to Zildjian A for this one album. The tighter tuning and cymbal swap suited the rawer, more live-sounding production the band pursued at Barnyard Studios. For his full gear history, see the [Nicko McBrain drummer profile](/drummer/nicko-mcbrain)."
+        "answer": "Nicko McBrain recorded No Prayer for the Dying (1990) on the same Yamaha Recording Custom kit he'd played since Somewhere in Time (1986), tuned tighter and drier for the session, and his usual Paiste 2002 cymbals. The tighter tuning suited the rawer, more live-sounding production the band pursued at Barnyard Studios; the gear itself stayed consistent with his previous two albums. For his full gear history, see the [Nicko McBrain drummer profile](/drummer/nicko-mcbrain)."
       },
       {
         "question": "When did Iron Maiden release No Prayer for the Dying?",
@@ -1685,16 +1685,16 @@ export const articles = {
       },
       {
         "question": "Why does No Prayer for the Dying sound different from Nicko McBrain's other Iron Maiden albums?",
-        "answer": "No Prayer for the Dying was recorded in a barn using the Rolling Stones Mobile Studio rather than a conventional studio, and the band deliberately pursued a rawer, more stripped-down sound than Seventh Son of a Seventh Son. Nicko McBrain kept his usual Yamaha Recording Custom kit but tuned it noticeably tighter and drier, and swapped his longtime Paiste 2002 cymbals for Zildjian A — together giving producer Martin Birch a punchier, drier tone suited to the untreated live-room acoustics. The Zildjian cymbals proved to be a one-album experiment; he was back on Paiste by Fear of the Dark."
+        "answer": "No Prayer for the Dying was recorded in a barn using the Rolling Stones Mobile Studio rather than a conventional studio, and the band deliberately pursued a rawer, more stripped-down sound than Seventh Son of a Seventh Son. Nicko McBrain kept his usual Yamaha Recording Custom kit and Paiste 2002 cymbals but tuned the kit noticeably tighter and drier — giving producer Martin Birch a punchier, drier tone suited to the untreated live-room acoustics without any change of gear."
       },
       {
         "question": "How does No Prayer for the Dying compare to Seventh Son of a Seventh Son?",
-        "answer": "The two albums represent opposite production philosophies. Seventh Son of a Seventh Son (1988) was a polished, synthesizer-layered concept album recorded at Musicland Studios in Munich. No Prayer for the Dying (1990) was a deliberate reaction against that — a leaner, rawer record tracked in a barn with a mobile studio rig, following Adrian Smith's departure and Janick Gers's arrival. Nicko McBrain's drumming and gear shifted accordingly: from the dynamic, restrained playing and warm, open-tuned Yamaha tone of Seventh Son to the punchier, tighter-tuned Yamaha setup paired with Zildjian A cymbals on No Prayer. See the [Seventh Son of a Seventh Son drum setup article](/articles/seventh-son-drum-setup) for the preceding chapter."
+        "answer": "The two albums represent opposite production philosophies. Seventh Son of a Seventh Son (1988) was a polished, synthesizer-layered concept album recorded at Musicland Studios in Munich. No Prayer for the Dying (1990) was a deliberate reaction against that — a leaner, rawer record tracked in a barn with a mobile studio rig, following Adrian Smith's departure and Janick Gers's arrival. Nicko McBrain's drumming shifted accordingly: from the dynamic, restrained playing and warm, open-tuned Yamaha tone of Seventh Son to the punchier, tighter-tuned Yamaha setup on No Prayer, with the same Paiste 2002 cymbals throughout. See the [Seventh Son of a Seventh Son drum setup article](/articles/seventh-son-drum-setup) for the preceding chapter."
       }
     ],
     "evolution": {
       "title": "No Prayer for the Dying in Nicko McBrain's Gear Progression",
-      "content": "No Prayer for the Dying (1990) sits in the middle of Nicko McBrain's longest-running gear era. Signed to Pearl in 1984, he switched to Yamaha in 1985 and stayed on a Yamaha Recording Custom kit through 2010 — a 25-year run broken only by stylistic choices like the tighter tuning and one-album Zildjian A cymbal swap heard on this record.\n\n**The founding era (1982-1984):** Ludwig drums (Vistalite on debut, Classic Maple for the rest), Paiste 2002 cymbals, Pro-Mark sticks.\n\n**The Yamaha era (1985-2010):** Yamaha Recording Custom drums and Paiste cymbals defined Nicko's sound across Seventh Son of a Seventh Son, No Prayer for the Dying, Fear of the Dark, and every album through The Final Frontier — with No Prayer's Barnyard sessions standing out mainly for tighter tuning and a temporary switch to Zildjian A cymbals.\n\n**The Barnyard adjustment (1990):** Same Yamaha Recording Custom kit, tuned tighter and drier; Zildjian A cymbals in place of the usual Paiste 2002 — a rawer sound for a rawer, barn-recorded album.\n\n**What came next:** Fear of the Dark (1992) returned to Paiste cymbals while keeping the same Yamaha kit, and Nicko stayed on Yamaha through The Final Frontier (2010) before switching to Sonor.\n\n**The constant:** One bass drum. One pedal. Whatever else changed around the sessions, the single-pedal gallop never did.",
+      "content": "No Prayer for the Dying (1990) sits in the middle of Nicko McBrain's longest-running gear era. Signed to Pearl in 1984, he switched to Yamaha in 1985 and stayed on a Yamaha Recording Custom kit through 2010 — a 25-year run broken only by stylistic choices like the tighter tuning heard on this record.\n\n**The founding era (1982-1984):** Ludwig drums (Vistalite on debut, Classic Maple for the rest), Paiste 2002 cymbals, Pro-Mark sticks.\n\n**The Yamaha era (1985-2010):** Yamaha Recording Custom drums and Paiste cymbals defined Nicko's sound across Seventh Son of a Seventh Son, No Prayer for the Dying, Fear of the Dark, and every album through The Final Frontier — with No Prayer's Barnyard sessions standing out mainly for tighter drum tuning, not a change of gear.\n\n**The Barnyard adjustment (1990):** Same Yamaha Recording Custom kit, tuned tighter and drier; same Paiste 2002 cymbals as always — a rawer sound for a rawer, barn-recorded album, achieved through tuning rather than gear changes.\n\n**What came next:** Fear of the Dark (1992) stepped up to Paiste's Signature series while keeping the same Yamaha kit, and Nicko stayed on Yamaha through The Final Frontier (2010) before switching to Sonor.\n\n**The constant:** One bass drum. One pedal. Whatever else changed around the sessions, the single-pedal gallop never did.",
       "thenVsNow": [
         {
           "category": "Kit",
@@ -1708,7 +1708,7 @@ export const articles = {
         },
         {
           "category": "Cymbals",
-          "then": "Zildjian A",
+          "then": "Paiste 2002",
           "now": "Paiste Signature"
         },
         {
@@ -1749,7 +1749,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "The Album That Divided Fans — and Gave Iron Maiden Its Only Number One",
-      "content": "No Prayer for the Dying rarely tops fan rankings of Iron Maiden's catalog. Its rawer, barn-recorded sound and departure from the progressive ambitions of Seventh Son of a Seventh Son made it a divisive record from release. But in commercial terms, it delivered something no other Iron Maiden album has matched: a UK number one single.\n\nFor Nicko McBrain, the album represents a distinct tuning chapter rather than a gear change: the same Yamaha Recording Custom kit he'd played since 1985, tightened up for the room, paired for one album with Zildjian A cymbals instead of his usual Paiste. Neither the tighter tuning nor the Zildjian cymbals carried over to the next session — a deliberate response to a specific recording environment and production philosophy that the band and Martin Birch chose not to repeat. It's a reminder that even the most consistent gear setups in metal history have their exceptions, and that those exceptions often tell the most interesting stories.\n\nRecorded in a barn with a mobile rig, marking Janick Gers's debut and Adrian Smith's exit, and delivering \"Bring Your Daughter... to the Slaughter\" to the top of the UK Singles Chart, No Prayer for the Dying occupies a strange, singular place in Iron Maiden's history — and Nicko's drumming, adapted to a punchier, drier gear setup, is very much part of that story.\n\nFor the fuller arc of Nicko's gear evolution across this period, see the [Seventh Son of a Seventh Son drum setup article](/articles/seventh-son-drum-setup) for what came before, and see the [Fear of the Dark drum setup article](/articles/fear-of-the-dark-drum-setup) for the chapter that followed."
+      "content": "No Prayer for the Dying rarely tops fan rankings of Iron Maiden's catalog. Its rawer, barn-recorded sound and departure from the progressive ambitions of Seventh Son of a Seventh Son made it a divisive record from release. But in commercial terms, it delivered something no other Iron Maiden album has matched: a UK number one single.\n\nFor Nicko McBrain, the album represents a distinct tuning chapter rather than a gear change: the same Yamaha Recording Custom kit he'd played since 1985 and the same Paiste 2002 cymbals he'd used since the early 1980s, simply tightened up for the room. The tighter tuning didn't carry over to the next session — a deliberate response to a specific recording environment and production philosophy that the band and Martin Birch chose not to repeat. It's a reminder that even the most consistent gear setups in metal history reflect deliberate choices, not just habit.\n\nRecorded in a barn with a mobile rig, marking Janick Gers's debut and Adrian Smith's exit, and delivering \"Bring Your Daughter... to the Slaughter\" to the top of the UK Singles Chart, No Prayer for the Dying occupies a strange, singular place in Iron Maiden's history — and Nicko's drumming, adapted to a punchier, drier gear setup, is very much part of that story.\n\nFor the fuller arc of Nicko's gear evolution across this period, see the [Seventh Son of a Seventh Son drum setup article](/articles/seventh-son-drum-setup) for what came before, and see the [Fear of the Dark drum setup article](/articles/fear-of-the-dark-drum-setup) for the chapter that followed."
     }
   },
   "fear-of-the-dark-drum-setup": {
@@ -1834,7 +1834,7 @@ export const articles = {
       "estimatedValue": "$380-480 (1992)"
     },
     "cymbals": {
-      "title": "A Return to Paiste — Now the Signature Series",
+      "title": "Stepping Up to the Paiste Signature Series",
       "brand": "Paiste",
       "series": "Paiste Signature",
       "setup": [
@@ -1842,7 +1842,7 @@ export const articles = {
           "type": "Hi-Hats",
           "model": "Paiste Signature 14\" Sound Edge Hi-Hats",
           "position": "Left side",
-          "notes": "Crisp, cutting chick with a brighter stick sound than the Zildjian A hats used on No Prayer for the Dying"
+          "notes": "Crisp, cutting chick with a brighter stick sound than the Paiste 2002 hats used on No Prayer for the Dying"
         },
         {
           "type": "Crash",
@@ -1869,7 +1869,7 @@ export const articles = {
           "notes": "Aggressive accent for song transitions and outros"
         }
       ],
-      "description": "After the one-album Zildjian A detour on No Prayer for the Dying, Nicko McBrain returned to Paiste for Fear of the Dark — but stepped up from the Paiste 2002s of the 1980s to the newer Paiste Signature series. The Signature line offered a brighter, more refined shimmer than the 2002s, with a cleaner stick response suited to the album's fuller production.\n\nThe 14\" Sound Edge hi-hats gave Nicko a crisper, more cutting chick for the driving verse patterns of \"Be Quick or Be Dead\" and \"Fear Is the Key,\" while the paired 16\" and 18\" Full Crashes handled the album's frequent dynamic swells — nowhere more prominent than the title track's massive chorus, where the crashes ring out over the crowd-ready melody.\n\nThe 20\" Power Ride's bell cuts clearly through the mix on the title track's extended instrumental section, giving the long build a rhythmic anchor as the arrangement thins out before the final choruses. The 18\" China handled the sharper accents and transitions that punctuate \"Afraid to Shoot Strangers\" and the album's more aggressive tracks.\n\nThe switch to Paiste Signature marked the beginning of a cymbal relationship that would carry Nicko McBrain through the rest of the 1990s and into the Brave New World reunion era.",
+      "description": "For Fear of the Dark, Nicko McBrain stepped up from the Paiste 2002s he'd played since the early 1980s — including on No Prayer for the Dying — to the newer Paiste Signature series. The Signature line offered a brighter, more refined shimmer than the 2002s, with a cleaner stick response suited to the album's fuller production.\n\nThe 14\" Sound Edge hi-hats gave Nicko a crisper, more cutting chick for the driving verse patterns of \"Be Quick or Be Dead\" and \"Fear Is the Key,\" while the paired 16\" and 18\" Full Crashes handled the album's frequent dynamic swells — nowhere more prominent than the title track's massive chorus, where the crashes ring out over the crowd-ready melody.\n\nThe 20\" Power Ride's bell cuts clearly through the mix on the title track's extended instrumental section, giving the long build a rhythmic anchor as the arrangement thins out before the final choruses. The 18\" China handled the sharper accents and transitions that punctuate \"Afraid to Shoot Strangers\" and the album's more aggressive tracks.\n\nThe switch to Paiste Signature marked the beginning of a cymbal relationship that would carry Nicko McBrain through the rest of the 1990s and into the Brave New World reunion era.",
       "estimatedValue": "$1,600-2,000 total (1992)"
     },
     "hardware": {
@@ -1971,7 +1971,7 @@ export const articles = {
       },
       {
         "question": "What cymbals does Nicko McBrain play?",
-        "answer": "On Fear of the Dark, Nicko McBrain played Paiste Signature series cymbals — 14\" Sound Edge hi-hats, 16\" and 18\" Full Crashes, a 20\" Power Ride, and an 18\" China — marking his return to Paiste after the one-album Zildjian A switch on No Prayer for the Dying. Across his career, Nicko has used Paiste 2002 (1980s), Zildjian A (1990 only), and Paiste Signature (1990s onward), reflecting a long-running Paiste endorsement interrupted only by that single barn-session experiment."
+        "answer": "On Fear of the Dark, Nicko McBrain played Paiste Signature series cymbals — 14\" Sound Edge hi-hats, 16\" and 18\" Full Crashes, a 20\" Power Ride, and an 18\" China — stepping up from the Paiste 2002 series he'd played on No Prayer for the Dying and every album before it. Across his career, Nicko has used Paiste 2002 (1980s) and Paiste Signature (1990s onward), reflecting a single continuous Paiste endorsement dating back to the early 1980s."
       },
       {
         "question": "Is Fear of the Dark Iron Maiden's best album of the 90s?",
@@ -1983,12 +1983,12 @@ export const articles = {
       },
       {
         "question": "How does Fear of the Dark compare to No Prayer for the Dying?",
-        "answer": "The two albums sit close together chronologically but differ sharply in approach. No Prayer for the Dying (1990) was recorded with deliberate rawness in a barn using the Rolling Stones Mobile Studio, with Nicko McBrain tuning his Yamaha kit punchier and tighter and switching to drier Zildjian A cymbals. Fear of the Dark (1992) returned to a fuller, more produced sound at Barnyard Studios, with Nicko opening the tuning back up on the same Yamaha kit and returning to Paiste Signature cymbals that better suited the album's bigger, more melodic arrangements. Commercially, Fear of the Dark was the clear winner — a number-one, 2x-platinum album against No Prayer's number-two showing. See the [No Prayer for the Dying drum setup article](/articles/no-prayer-for-the-dying-drum-setup) for that preceding chapter."
+        "answer": "The two albums sit close together chronologically but differ sharply in approach. No Prayer for the Dying (1990) was recorded with deliberate rawness in a barn using the Rolling Stones Mobile Studio, with Nicko McBrain tuning his Yamaha kit punchier and tighter while keeping his usual Paiste 2002 cymbals. Fear of the Dark (1992) returned to a fuller, more produced sound at Barnyard Studios, with Nicko opening the tuning back up on the same Yamaha kit and stepping up to Paiste Signature cymbals that better suited the album's bigger, more melodic arrangements. Commercially, Fear of the Dark was the clear winner — a number-one, 2x-platinum album against No Prayer's number-two showing. See the [No Prayer for the Dying drum setup article](/articles/no-prayer-for-the-dying-drum-setup) for that preceding chapter."
       }
     ],
     "evolution": {
       "title": "Fear of the Dark in Nicko McBrain's Gear Progression",
-      "content": "Fear of the Dark (1992) fills a crucial gap in Nicko McBrain's gear history, sitting between the tighter-tuned Barnyard chapter of No Prayer for the Dying (1990) and the reunion years that followed. Through all of it, the drum kit itself never changed: the same Yamaha Recording Custom he'd played since 1985 stayed with him through 2010.\n\n**The founding era (1982-1984):** Ludwig drums, Paiste 2002, Pro-Mark sticks.\n\n**The Barnyard adjustment (1990):** Same Yamaha Recording Custom kit, tuned tighter and drier, Zildjian A cymbals.\n\n**The Fear of the Dark era (1992):** Same Yamaha Recording Custom kit, tuning opened back up, Paiste Signature cymbals — a return to Paiste and a fuller, more resonant drum tone for Iron Maiden's biggest commercial peak of the decade.\n\n**What came next:** Nicko stayed on the same Yamaha Recording Custom kit all the way through Brave New World (2000), Dance of Death (2003), A Matter of Life and Death (2006), and The Final Frontier (2010), with the Paiste cymbal relationship begun again here continuing through the reunion era and beyond.\n\n**The constant:** One bass drum, one pedal. The single-pedal gallop never changed, no matter what else did.",
+      "content": "Fear of the Dark (1992) fills a crucial gap in Nicko McBrain's gear history, sitting between the tighter-tuned Barnyard chapter of No Prayer for the Dying (1990) and the reunion years that followed. Through all of it, the drum kit itself never changed: the same Yamaha Recording Custom he'd played since 1985 stayed with him through 2010.\n\n**The founding era (1982-1984):** Ludwig drums, Paiste 2002, Pro-Mark sticks.\n\n**The Barnyard adjustment (1990):** Same Yamaha Recording Custom kit, tuned tighter and drier, same Paiste 2002 cymbals.\n\n**The Fear of the Dark era (1992):** Same Yamaha Recording Custom kit, tuning opened back up, a step up to Paiste Signature cymbals — a fuller, more resonant drum tone for Iron Maiden's biggest commercial peak of the decade.\n\n**What came next:** Nicko stayed on the same Yamaha Recording Custom kit all the way through Brave New World (2000), Dance of Death (2003), A Matter of Life and Death (2006), and The Final Frontier (2010), with the Paiste Signature cymbals adopted here continuing through the reunion era and beyond.\n\n**The constant:** One bass drum, one pedal. The single-pedal gallop never changed, no matter what else did.",
       "thenVsNow": [
         {
           "category": "Kit",
@@ -2041,7 +2041,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "The Commercial Peak That Fills a Four-Year Gap",
-      "content": "Fear of the Dark closed out an era for Iron Maiden — Martin Birch's last production, Bruce Dickinson's last album before his first departure, and the band's biggest commercial success of the 1990s. Its title track has outlived every chart position and sales certification to become one of metal's most enduring live anthems, sung back to the band at nearly every show since.\n\nFor Nicko McBrain, the album marks a return to a fuller, more open sound after the deliberately tight, dry tuning of No Prayer for the Dying: the same Yamaha Recording Custom kit, opened back up, and a return to Paiste, now in Signature form, gave him the tonal foundation for the biggest chorus of his recording career. It's the missing chapter between the progressive ambition of Seventh Son of a Seventh Son (1988) and the reunion-era triumph of Brave New World (2000) — the record that shows Nicko's playing, and his tuning choices, adapting to Iron Maiden at its most commercially dominant even as the kit underneath stayed the same.\n\nDebuting at number one in the UK, certified 2× Platinum, and still closing out Iron Maiden's setlists three decades later, Fear of the Dark stands as one of Nicko McBrain's most significant recorded performances — and a fitting bridge in his four-decade gear evolution.\n\nFor the fuller arc, see the [Seventh Son of a Seventh Son drum setup article](/articles/seventh-son-drum-setup) for what came before this era, and the [No Prayer for the Dying drum setup article](/articles/no-prayer-for-the-dying-drum-setup) for the transitional chapter that preceded it."
+      "content": "Fear of the Dark closed out an era for Iron Maiden — Martin Birch's last production, Bruce Dickinson's last album before his first departure, and the band's biggest commercial success of the 1990s. Its title track has outlived every chart position and sales certification to become one of metal's most enduring live anthems, sung back to the band at nearly every show since.\n\nFor Nicko McBrain, the album marks a return to a fuller, more open sound after the deliberately tight, dry tuning of No Prayer for the Dying: the same Yamaha Recording Custom kit, opened back up, and a step up to Paiste's Signature series gave him the tonal foundation for the biggest chorus of his recording career. It's the missing chapter between the progressive ambition of Seventh Son of a Seventh Son (1988) and the reunion-era triumph of Brave New World (2000) — the record that shows Nicko's playing, and his tuning choices, adapting to Iron Maiden at its most commercially dominant even as the kit underneath stayed the same.\n\nDebuting at number one in the UK, certified 2× Platinum, and still closing out Iron Maiden's setlists three decades later, Fear of the Dark stands as one of Nicko McBrain's most significant recorded performances — and a fitting bridge in his four-decade gear evolution.\n\nFor the fuller arc, see the [Seventh Son of a Seventh Son drum setup article](/articles/seventh-son-drum-setup) for what came before this era, and the [No Prayer for the Dying drum setup article](/articles/no-prayer-for-the-dying-drum-setup) for the transitional chapter that preceded it."
     }
   },
   "whats-in-nicko-mcbrains-kit": {

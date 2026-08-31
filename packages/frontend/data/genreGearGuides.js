@@ -25353,7 +25353,7 @@ Find the pocket. Own the groove.`
     // SEO metadata
     title: "Best Bass Drums for Power Metal: 2026 Ultimate Guide",
     metaTitle: "Best Bass Drums for Power Metal in 2026 | MetalForge Expert Guide",
-    description: "Best bass drums for power metal's balanced, punchy low end. What Scott Travis (ddrum Dominion Series), Aquiles Priester (Trick Drums Custom Maple), Nicko McBrain (British Drum Co.), and Mikkey Dee (Sonor SQ2) actually play — from budget to pro.",
+    description: "Best bass drums for power metal's balanced, punchy low end. What Scott Travis (ddrum Dominion Series), Aquiles Priester (Mapex Saturn Evolution All Maple), Nicko McBrain (British Drum Co.), and Mikkey Dee (Sonor SQ2) actually play — from budget to pro.",
     seoKeywords: [
       'best bass drums for power metal',
       'power metal bass drum setup',
@@ -25390,14 +25390,14 @@ Find the pocket. Own the groove.`
       title: "What Bass Drum Setup Do Power Metal Drummers Actually Use?",
       content: `Power metal's bass drum has a different job than the low-end-first approach of death or doom metal: it needs to deliver a balanced, punchy thud that drives galloping, triplet-based rhythms forward without ever burying the soaring clean vocals and keyboard-orchestrated arrangements riding above it. The kick has to be felt as much as heard — present in the mix, but never dominant.
 
-Scott Travis switched to ddrum for Judas Priest's "Firepower" (2018), and his twin 22"x18" ddrum Dominion Series bass drums are driven by a DW 9000 Series double pedal, carrying "Painkiller" (1990)'s galloping blueprint into the present. Aquiles Priester runs a fully custom Trick Drums maple bass drum for Angra, chosen for the projection and tuning consistency his sustained 180-220+ BPM neoclassical double-bass technique demands. Nicko McBrain's single 22"x17" British Drum Co. bass drum, driven by one pedal for every Iron Maiden gallop, proves the genre's most influential rhythmic vocabulary doesn't require twin kicks or even a double pedal. Mikkey Dee's Sonor SQ2 bass drum has carried him from Motörhead's all-out attack into Scorpions' wider dynamic range, built for the touring stamina power metal's festival-circuit bands depend on.
+Scott Travis switched to ddrum for Judas Priest's "Firepower" (2018), and his twin 22"x18" ddrum Dominion Series bass drums are driven by a DW 9000 Series double pedal, carrying "Painkiller" (1990)'s galloping blueprint into the present. Aquiles Priester runs his own twin 22" Mapex Saturn Evolution All Maple bass drums for Angra, chosen for the projection and tuning consistency his sustained 180-220+ BPM neoclassical double-bass technique demands. Nicko McBrain's single 22"x17" British Drum Co. bass drum, driven by one pedal for every Iron Maiden gallop, proves the genre's most influential rhythmic vocabulary doesn't require twin kicks or even a double pedal. Mikkey Dee's Sonor SQ2 bass drum has carried him from Motörhead's all-out attack into Scorpions' wider dynamic range, built for the touring stamina power metal's festival-circuit bands depend on.
 
 This guide breaks down exactly what makes a bass drum work for power metal — shell tuning, sizing, and pedal configuration — and which specific shells these four influential drummers actually play.`,
       keyPoints: [
         "Power metal wants a balanced, punchy low end that supports the mix rather than overpowering melodic, keyboard-orchestrated arrangements",
         "Scott Travis's twin ddrum Dominion Series bass drums are driven by a DW 9000 Series double pedal",
         "Nicko McBrain's single 22\"x17\" British Drum Co. bass drum proves galloping rhythms don't require twin kicks or double bass",
-        "Aquiles Priester's custom Trick Drums maple shell is tuned for sustained neoclassical double-bass consistency at 180-220+ BPM"
+        "Aquiles Priester's Mapex Saturn Evolution All Maple shells are tuned for sustained neoclassical double-bass consistency at 180-220+ BPM"
       ]
     },
 
@@ -25426,7 +25426,7 @@ This guide breaks down exactly what makes a bass drum work for power metal — s
         {
           name: "Shell Material",
           icon: "🪵",
-          description: "Maple (Aquiles Priester's Trick Drums custom build) delivers the bright, articulate tone power metal needs to cut through theatrical, layered arrangements — warmer and more controlled than the birch/bubinga hybrids favored by heavier subgenres. Scott Travis's ddrum Dominion Series brings its own distinct tonal character to the same balanced, cutting power metal sound.",
+          description: "Maple (Aquiles Priester's Mapex Saturn Evolution All Maple build) delivers the bright, articulate tone power metal needs to cut through theatrical, layered arrangements — warmer and more controlled than the birch/bubinga hybrids favored by heavier subgenres. Scott Travis's ddrum Dominion Series brings its own distinct tonal character to the same balanced, cutting power metal sound.",
           recommendation: "Maple for bright, articulate cut-through against dense, melodic arrangements"
         },
         {
@@ -25490,43 +25490,43 @@ The Dominion Series shell pack's projection cuts cleanly through Judas Priest's 
         },
         {
           rank: 2,
-          name: "Trick Drums Custom Maple Bass Drum",
-          brand: "Trick Drums",
-          model: "Custom Maple 22\"x18\"",
+          name: "Mapex Saturn Evolution All Maple Bass Drum",
+          brand: "Mapex",
+          model: "Saturn Evolution All Maple 22\"x18\"",
           image: "https://upload.wikimedia.org/wikipedia/commons/6/6c/Acoustic_Drums_Kit_%2829965183378%29.jpg",
           priceRange: "€900-1300",
           tier: "premium",
-          material: "Maple (Custom), 22\"x18\"",
+          material: "All Maple, 22\"x18\"",
 
-          description: `Aquiles Priester switched to a fully custom Trick Drums maple bass drum for his 2023 Angra return, chosen for the projection and consistency his relaxation-based, sustained 180-220+ BPM neoclassical double-bass technique demands. Twin shells give him the reliable, tuning-consistent low end his technically demanding patterns require night after night.
+          description: `Aquiles Priester switched to his own Mapex Saturn Evolution All Maple signature kit for his 2023 Angra return, chosen for the projection and consistency his relaxation-based, sustained 180-220+ BPM neoclassical double-bass technique demands. Twin 22" shells give him the reliable, tuning-consistent low end his technically demanding patterns require night after night.
 
-The custom-built maple shell projects cleanly at extreme tempo without losing definition — critical when Priester's double-bass patterns need to stay articulate beneath Angra's dense, orchestrated neoclassical arrangements.`,
+The all-maple shell pack projects cleanly at extreme tempo without losing definition — critical when Priester's double-bass patterns need to stay articulate beneath Angra's dense, orchestrated neoclassical arrangements.`,
 
           pros: [
             "Aquiles Priester's exact Angra bass drum — sustained neoclassical speed",
-            "Fully custom build tuned for projection and consistency",
+            "Signature-spec build tuned for projection and consistency",
             "Handles sustained 180-220+ BPM double bass without losing definition",
             "Twin-shell configuration built for technical reliability",
             "Excellent tuning consistency night after night"
           ],
           cons: [
             "Very high price point",
-            "Custom, made-to-order build with longer lead times",
+            "Signature-spec build with longer lead times",
             "Twin-shell setup adds transport and setup complexity"
           ],
           specs: {
             diameter: "22\"",
             depth: "18\"",
-            shell: "Maple (Custom)",
+            shell: "All Maple",
             headRecommendation: "Evans EMAD",
             configuration: "Twin, double-bass driven"
           },
           usedBy: [
-            { name: "Aquiles Priester", band: "Angra", note: "Custom Trick Drums maple twin bass drums for sustained neoclassical double bass" }
+            { name: "Aquiles Priester", band: "Angra", note: "Mapex Saturn Evolution All Maple twin bass drums for sustained neoclassical double bass" }
           ],
           verdict: "The premium neoclassical speed pick — Aquiles Priester's choice for sustained technical consistency.",
           rating: 4.8,
-          affiliateLink: "https://www.thomann.de/intl/trick_drums_custom_maple_bass_drum.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/mapex_saturn_evolution_all_maple_bass_drum.htm?partner_id=metalforge"
         },
         {
           rank: 3,
@@ -25573,7 +25573,7 @@ The slightly shallower 17" depth keeps the attack quick and articulate, matching
     // Budget options section
     budgetOptions: {
       title: "Best Budget Bass Drums for Power Metal",
-      description: "You don't need a custom Trick Drums or ddrum Dominion Series shell to build a real power metal low end. These bass drums deliver genuine punch and balance at an accessible price.",
+      description: "You don't need a Mapex Saturn Evolution or ddrum Dominion Series shell to build a real power metal low end. These bass drums deliver genuine punch and balance at an accessible price.",
       pedals: [
         {
           name: "Tama Imperialstar Bass Drum",
@@ -25642,7 +25642,7 @@ The slightly shallower 17" depth keeps the attack quick and articulate, matching
         },
         {
           category: "Best for Neoclassical Speed",
-          pedal: "Trick Drums Custom Maple Bass Drum",
+          pedal: "Mapex Saturn Evolution All Maple Bass Drum",
           reason: "Aquiles Priester's Angra pick — fully custom projection for sustained extreme double-bass tempos."
         },
         {
@@ -25667,7 +25667,7 @@ The slightly shallower 17" depth keeps the attack quick and articulate, matching
     ],
     relatedDrummers: [
       { slug: 'scott-travis', name: 'Scott Travis', reason: 'ddrum Dominion Series — Judas Priest power metal blueprint' },
-      { slug: 'aquiles-priester', name: 'Aquiles Priester', reason: 'Trick Drums Custom Maple — Angra neoclassical double-bass precision' },
+      { slug: 'aquiles-priester', name: 'Aquiles Priester', reason: 'Mapex Saturn Evolution All Maple — Angra neoclassical double-bass precision' },
       { slug: 'nicko-mcbrain', name: 'Nicko McBrain', reason: 'British Drum Co. — Iron Maiden galloping foundation on a single pedal' },
       { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'Sonor SQ2 — Motörhead/Scorpions touring stamina' }
     ],
@@ -25675,7 +25675,7 @@ The slightly shallower 17" depth keeps the attack quick and articulate, matching
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'scott-travis', name: 'Scott Travis', reason: 'ddrum Dominion Series — Judas Priest power metal blueprint' },
-      { slug: 'aquiles-priester', name: 'Aquiles Priester', reason: 'Trick Drums Custom Maple — Angra neoclassical double-bass precision' },
+      { slug: 'aquiles-priester', name: 'Aquiles Priester', reason: 'Mapex Saturn Evolution All Maple — Angra neoclassical double-bass precision' },
       { slug: 'nicko-mcbrain', name: 'Nicko McBrain', reason: 'British Drum Co. — Iron Maiden galloping foundation on a single pedal' }
     ],
 
@@ -25683,7 +25683,7 @@ The slightly shallower 17" depth keeps the attack quick and articulate, matching
     faq: [
       {
         question: "What bass drums do power metal drummers use?",
-        answer: "Scott Travis of Judas Priest plays twin ddrum Dominion Series bass drums driven by a DW 9000 Series double pedal, Aquiles Priester of Angra runs a fully custom Trick Drums maple twin-shell setup, and Nicko McBrain of Iron Maiden plays a single 22\"x17\" British Drum Co. bass drum on a single pedal — never a double pedal."
+        answer: "Scott Travis of Judas Priest plays twin ddrum Dominion Series bass drums driven by a DW 9000 Series double pedal, Aquiles Priester of Angra runs his own twin 22\" Mapex Saturn Evolution All Maple bass drums, and Nicko McBrain of Iron Maiden plays a single 22\"x17\" British Drum Co. bass drum on a single pedal — never a double pedal."
       },
       {
         question: "What size bass drum is best for power metal?",
@@ -25699,7 +25699,7 @@ The slightly shallower 17" depth keeps the attack quick and articulate, matching
       },
       {
         question: "Maple or birch/bubinga bass drum for power metal?",
-        answer: "Maple is the power metal standard for many pro kits — Aquiles Priester's Trick Drums custom shell is maple, chosen for bright, articulate projection that cuts through melodic, layered arrangements without the heavier, more aggressive punch a birch/bubinga hybrid produces. Scott Travis's ddrum Dominion Series brings its own distinct tonal character to the same balanced, cutting sound."
+        answer: "Maple is the power metal standard for many pro kits — Aquiles Priester's Mapex Saturn Evolution All Maple shells are maple, chosen for bright, articulate projection that cuts through melodic, layered arrangements without the heavier, more aggressive punch a birch/bubinga hybrid produces. Scott Travis's ddrum Dominion Series brings its own distinct tonal character to the same balanced, cutting sound."
       }
     ],
 
@@ -29089,7 +29089,7 @@ Start with a durable 20" in whatever alloy fits your budget, mount it inverted f
       title: "Why Power Metal Needs a China That Cuts Through the Orchestra",
       content: `Power metal's fantasy-and-mythology songwriting stacks galloping double bass, soaring clean vocals, and full keyboard orchestration into a dense, theatrical wall of sound — and a china cymbal voiced for darker, murkier subgenres simply disappears in that mix. Power metal's china needs to be bright enough to punctuate a song's biggest climactic moments without getting lost under choirs and synth strings.
 
-Scott Travis pairs his current Sabian HHX Judas Priest setup with an HHX China for the same bright, cutting attack that's defined his crash choice since "Painkiller" (1990) — the record that became a direct blueprint for the European power metal scene. Aquiles Priester runs a china alongside his full Ufip Class setup with Angra, chosen for consistency at the sustained 180-220+ BPM double-bass tempos his neoclassical style demands. Nicko McBrain layers a Paiste Signature China into his Iron Maiden rig for the same galloping, triplet-based rhythmic vocabulary that power metal's entire European scene built upon, while Mikkey Dee's Paiste 2002 China brings European hard rock brightness and touring endurance across Motörhead and Scorpions.
+Scott Travis pairs his current Sabian HHX Judas Priest setup with an HHX China for the same bright, cutting attack that's defined his crash choice since "Painkiller" (1990) — the record that became a direct blueprint for the European power metal scene. Aquiles Priester runs a china cymbal as part of his custom red-coated Paiste set with Angra, chosen for consistency at the sustained 180-220+ BPM double-bass tempos his neoclassical style demands. Nicko McBrain layers a Paiste Signature China into his Iron Maiden rig for the same galloping, triplet-based rhythmic vocabulary that power metal's entire European scene built upon, while Mikkey Dee's Paiste 2002 China brings European hard rock brightness and touring endurance across Motörhead and Scorpions.
 
 This guide covers what actually makes a china work for power metal: brightness, theatrical punch, and touring durability, along with specific model recommendations across every budget for galloping, orchestration-heavy power metal.`,
       keyPoints: [
@@ -29113,13 +29113,13 @@ This guide covers what actually makes a china work for power metal: brightness, 
         {
           name: "Size",
           icon: "📏",
-          description: "18\" chinas respond fast enough for galloping double-bass accents, while 20\" chinas add more low-end weight for a song's biggest climactic hits. Aquiles Priester's full Ufip setup favors the larger end for consistency at extreme tempos.",
+          description: "18\" chinas respond fast enough for galloping double-bass accents, while 20\" chinas add more low-end weight for a song's biggest climactic hits. Aquiles Priester's custom red-coated Paiste setup favors the larger end for consistency at extreme tempos.",
           recommendation: "18\" for galloping-rhythm accents, 20\" for full theatrical climaxes"
         },
         {
           name: "Sustained Double-Bass Consistency",
           icon: "🎯",
-          description: "Priester's Ufip china is chosen specifically for consistency at the sustained 180-220+ BPM double-bass patterns his neoclassical style demands — a china needs to hold up to relentless, high-tempo playing without losing character.",
+          description: "Priester's Paiste china is chosen specifically for consistency at the sustained 180-220+ BPM double-bass patterns his neoclassical style demands — a china needs to hold up to relentless, high-tempo playing without losing character.",
           recommendation: "Durable B20 bronze chinas rated for sustained high-tempo double-bass performance"
         },
         {
@@ -29137,7 +29137,7 @@ This guide covers what actually makes a china work for power metal: brightness, 
         {
           name: "Alloy",
           icon: "⚙️",
-          description: "B20 bronze (Sabian HHX, Ufip) delivers a warmer, more complex brightness, while CuSn8 bronze (Paiste Signature, 2002) delivers a simpler, more direct cutting attack. Budget lines are simpler but a genuinely usable starting point.",
+          description: "B20 bronze (Sabian HHX) delivers a warmer, more complex brightness, while CuSn8 bronze (Paiste Signature, 2002, and Priester's custom red-coated set) delivers a simpler, more direct cutting attack. Budget lines are simpler but a genuinely usable starting point.",
           recommendation: "B20 bronze for complex brightness, CuSn8 bronze for direct cut, budget brass for a real starting point"
         }
       ]
@@ -29186,40 +29186,39 @@ HammerFall, Blind Guardian, and countless power metal bands cite "Painkiller" as
         },
         {
           rank: 2,
-          name: "Ufip Class China",
-          brand: "Ufip",
-          model: "18\" & 20\" Class Series China",
+          name: "Paiste China (Custom Red-Coated)",
+          brand: "Paiste",
+          model: "18\" & 20\" China, Custom Red-Coated",
           image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg",
           priceRange: "€220-290",
           tier: "pro",
-          driveType: "B20 Bronze",
-          description: `Aquiles Priester returned to Angra in 2023 in one of power metal's most anticipated reunions, and his current setup runs a Ufip Class Series China alongside his crash lineup, chosen for maximum consistency at the sustained 180-220+ BPM double-bass patterns that define his neoclassical style.
+          driveType: "CuSn8 Bronze",
+          description: `Aquiles Priester returned to Angra in 2023 in one of power metal's most anticipated reunions, and his current setup runs a Paiste china cymbal as part of his custom red-coated set, chosen for maximum consistency at the sustained 180-220+ BPM double-bass patterns that define his neoclassical style.
 
-The Italian-made Ufip china gives Priester a warmer, more complex voicing than the brighter Sabian or Paiste alternatives — a distinctive choice within power metal's largely Sabian/Paiste-dominated landscape.`,
+Priester's Paiste china delivers the same bright, direct CuSn8 cutting attack that defines Nicko McBrain's and Mikkey Dee's Paiste setups — the custom red-coated finish is what makes his rig visually and sonically distinctive within power metal's Sabian/Paiste-dominated landscape.`,
           pros: [
             "Aquiles Priester's current Angra return-era setup — Brazilian power metal's most celebrated drummer",
-            "Warmer, more complex B20 bronze voicing than brighter Sabian/Paiste alternatives",
+            "Bright, direct CuSn8 bronze attack shared with McBrain's and Dee's Paiste setups",
             "Built for sustained consistency at extreme neoclassical double-bass tempos",
-            "Distinctive tonal character within power metal's largely Sabian/Paiste landscape"
+            "Distinctive custom red-coated finish within power metal's largely Sabian/Paiste landscape"
           ],
           cons: [
-            "Less widely stocked than Sabian or Paiste outside Europe",
-            "Warmer voicing may feel less cutting than brighter alternatives for some styles",
+            "Custom red-coated finish is a special-order option, not a stock line",
             "Premium pricing for the full setup"
           ],
           specs: {
             size: "18\" & 20\"",
-            alloy: "B20 Bronze",
-            finish: "Traditional/Class",
+            alloy: "CuSn8 Bronze",
+            finish: "Custom Red-Coated",
             weight: "Medium",
             mounting: "Standard or Inverted"
           },
           usedBy: [
-            { name: "Aquiles Priester", band: "Angra", note: "18\" & 20\" Ufip Class China — current Angra return cycle" }
+            { name: "Aquiles Priester", band: "Angra", note: "18\" & 20\" Paiste China, custom red-coated set — current Angra return cycle" }
           ],
-          verdict: "Best for neoclassical double-bass power metal. Priester's setup proves warmth and consistency can match brighter alternatives at speed.",
+          verdict: "Best for neoclassical double-bass power metal. Priester's custom red-coated Paiste setup proves bright, cutting consistency at extreme speed.",
           rating: 4.6,
-          affiliateLink: "https://www.thomann.de/intl/ufip_class_china_20_priester.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/paiste_china_20_custom_priester.htm?partner_id=metalforge"
         },
         {
           rank: 3,
@@ -29242,7 +29241,7 @@ The genre's galloping tempo feel traces its lineage straight back to McBrain's N
           cons: [
             "CuSn8 bronze offers a brighter, simpler harmonic profile than B20 alternatives",
             "Premium Paiste Signature pricing",
-            "Less complex overtone structure than Ufip or Sabian HHX"
+            "Less complex overtone structure than Sabian HHX"
           ],
           specs: {
             size: "18\"",
@@ -29371,26 +29370,22 @@ For power metal drummers whose touring schedule rivals the genre's biggest festi
 
     // Comparison
     comparison: {
-      title: "Sabian HHX vs Ufip vs Paiste Signature/2002 for Power Metal",
-      content: `Bright, cutting attack stays the through-line across power metal's china choices, but tonal character splits the genre's most influential drummers into distinct camps:
+      title: "Sabian HHX vs Paiste Signature/2002 for Power Metal",
+      content: `Bright, cutting attack stays the through-line across power metal's china choices, but tonal character splits the genre's most influential drummers into two camps:
 
 **Sabian HHX (Scott Travis):**
 - Bright, focused attack with direct lineage to "Painkiller"
 - The genre's foundational speed-and-precision blueprint
 - Best for: Speed-and-precision power metal in the Judas Priest tradition
 
-**Ufip (Aquiles Priester):**
-- Warmer, more complex B20 bronze voicing
-- Built for sustained consistency at extreme neoclassical tempos
-- Best for: Neoclassical, technically demanding power metal
-
-**Paiste Signature/2002 (Nicko McBrain, Mikkey Dee):**
+**Paiste Signature/2002/Custom (Nicko McBrain, Mikkey Dee, Aquiles Priester):**
 - Bright, articulate CuSn8 bronze attack
 - McBrain's setup carries the genre's galloping rhythmic DNA
 - Dee's setup proves proven touring durability across decades
-- Best for: Galloping, triplet-based European power metal
+- Priester's custom red-coated set proves the same bright Paiste attack holds up at sustained, extreme neoclassical tempos
+- Best for: Galloping, triplet-based European power metal and sustained neoclassical technicality alike
 
-**Our Recommendation:** Start with a Sabian SBR or Paiste PST 5 china if you're building power metal technique on a budget. Choose Sabian HHX for the classic speed-and-precision blueprint, Ufip if your material demands sustained neoclassical consistency, or Paiste Signature/2002 for the genre's galloping rhythmic tradition.`,
+**Our Recommendation:** Start with a Sabian SBR or Paiste PST 5 china if you're building power metal technique on a budget. Choose Sabian HHX for the classic speed-and-precision blueprint, or Paiste Signature/2002 for the genre's galloping rhythmic tradition and sustained neoclassical consistency.`,
       comparisonTable: [
         { feature: "Brightness/Cut", directDrive: "⭐⭐⭐⭐⭐", chainDrive: "⭐⭐⭐⭐" },
         { feature: "Sustained Tempo Consistency", directDrive: "⭐⭐⭐⭐", chainDrive: "⭐⭐⭐⭐⭐" },
@@ -29410,8 +29405,8 @@ For power metal drummers whose touring schedule rivals the genre's biggest festi
         },
         {
           category: "Best for Neoclassical Power Metal",
-          pedal: "Ufip Class China",
-          reason: "Aquiles Priester's Angra setup — warm consistency at sustained, extreme double-bass tempos."
+          pedal: "Paiste China (Custom Red-Coated)",
+          reason: "Aquiles Priester's Angra setup — bright, cutting consistency at sustained, extreme double-bass tempos."
         },
         {
           category: "Best for Galloping Rhythms",
@@ -29434,7 +29429,7 @@ For power metal drummers whose touring schedule rivals the genre's biggest festi
     ],
     relatedDrummers: [
       { slug: 'scott-travis', name: 'Scott Travis', reason: 'Sabian HHX China — Judas Priest power metal blueprint' },
-      { slug: 'aquiles-priester', name: 'Aquiles Priester', reason: 'Ufip Class China — Angra neoclassical double-bass precision' },
+      { slug: 'aquiles-priester', name: 'Aquiles Priester', reason: 'Paiste China (Custom Red-Coated) — Angra neoclassical double-bass precision' },
       { slug: 'nicko-mcbrain', name: 'Nicko McBrain', reason: 'Paiste Signature China — Iron Maiden galloping foundation' },
       { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'Paiste 2002 China — Motörhead/Scorpions touring stamina' }
     ],
@@ -29448,7 +29443,7 @@ For power metal drummers whose touring schedule rivals the genre's biggest festi
       },
       {
         question: "What china cymbal does Aquiles Priester use?",
-        answer: "Aquiles Priester of Angra runs an 18\"-20\" Ufip Class Series China as part of his current Angra return-era setup, chosen for maximum consistency at sustained 180-220+ BPM neoclassical double-bass patterns."
+        answer: "Aquiles Priester of Angra runs an 18\"-20\" Paiste china as part of his custom red-coated cymbal set, chosen for maximum consistency at sustained 180-220+ BPM neoclassical double-bass patterns."
       },
       {
         question: "What china cymbal does Nicko McBrain use?",
@@ -29460,16 +29455,16 @@ For power metal drummers whose touring schedule rivals the genre's biggest festi
       },
       {
         question: "What size china cymbal is best for power metal?",
-        answer: "18\"-20\" is the power metal china standard. 18\" chinas respond fast enough for galloping double-bass accents, while 20\" adds low-end weight for a song's biggest theatrical climaxes — the size Aquiles Priester favors for consistency at extreme tempos."
+        answer: "18\"-20\" is the power metal china standard. 18\" chinas respond fast enough for galloping double-bass accents, while 20\" adds low-end weight for a song's biggest theatrical climaxes — the size Aquiles Priester's custom red-coated Paiste favors for consistency at extreme tempos."
       }
     ],
 
     // Conclusion
     conclusion: {
       title: "Build Your Power Metal China Sound Around Brightness and Theater",
-      content: `Power metal's china philosophy comes down to one core idea: stay bright and cutting, never dark and washed out. Whether you build around Scott Travis's foundational Sabian HHX brightness, Nicko McBrain's galloping Paiste Signature voice, or Aquiles Priester's warmer, sustained Ufip consistency, the right power metal china should punch clearly through a dense, theatrical arrangement without losing its shine.
+      content: `Power metal's china philosophy comes down to one core idea: stay bright and cutting, never dark and washed out. Whether you build around Scott Travis's foundational Sabian HHX brightness, Nicko McBrain's galloping Paiste Signature voice, or Aquiles Priester's custom red-coated Paiste consistency, the right power metal china should punch clearly through a dense, theatrical arrangement without losing its shine.
 
-Start with one bright china in the 18"-20" range, and layer a second voicing — whether that's Ufip's warmth for neoclassical technicality or Paiste 2002's touring-proven durability — once you know where your power metal leans on the speed-to-theatrics spectrum.
+Start with one bright china in the 18"-20" range, and layer a second voicing — whether that's Priester's custom red-coated Paiste for sustained neoclassical technicality or Paiste 2002's touring-proven durability — once you know where your power metal leans on the speed-to-theatrics spectrum.
 
 🤘 **Stay bright, stay galloping.**`
     }
@@ -39733,12 +39728,12 @@ Budget shouldn't stop you either. A Zildjian ZBT or Paiste PST 8 ride will teach
       title: "Why Power Metal Rides Need to Cut, Not Wash",
       content: `Power metal's galloping, triplet-based rhythmic vocabulary and theatrical, keyboard-orchestrated arrangements demand a ride that stays bright and clearly articulate rather than blurring into sustain. A ride that washes out under a galloping pattern buries the very rhythmic feel power metal's European scene was built on.
 
-Scott Travis currently rides a 21" Sabian HHX Groove Ride with Judas Priest, a bright, articulate cymbal that carries directly from his galvanizing "Painkiller" (1990) performance — the album that became a direct blueprint for the entire European power metal movement. Aquiles Priester rides a 22" Ufip Class Ride on his current Angra return cycle, chosen for the warmer, more complex consistency his sustained 180-220+ BPM neoclassical double-bass patterns demand. Nicko McBrain's 22" Paiste Signature Precision Ride has powered Iron Maiden's galloping, triplet-based rhythmic vocabulary that power metal's entire European scene directly built upon, while Mikkey Dee's 22" Paiste 2002 Ride brings European hard rock cutting power and touring endurance across Motörhead and Scorpions.
+Scott Travis currently rides a 21" Sabian HHX Groove Ride with Judas Priest, a bright, articulate cymbal that carries directly from his galvanizing "Painkiller" (1990) performance — the album that became a direct blueprint for the entire European power metal movement. Aquiles Priester rides his 18" Paiste 2002 Psychoctopus Giga Bell Ride on his current Angra return cycle, part of his custom red-coated Paiste set chosen for the bright, cutting consistency his sustained 180-220+ BPM neoclassical double-bass patterns demand. Nicko McBrain's 22" Paiste Signature Precision Ride has powered Iron Maiden's galloping, triplet-based rhythmic vocabulary that power metal's entire European scene directly built upon, while Mikkey Dee's 22" Paiste 2002 Ride brings European hard rock cutting power and touring endurance across Motörhead and Scorpions.
 
-This guide compares Sabian HHX, Ufip, and Paiste Signature/2002 rides for power metal — breaking down what each of these four influential drummers plays and why, with recommendations across every budget.`,
+This guide compares Sabian HHX and Paiste Signature/2002 rides for power metal — breaking down what each of these four influential drummers plays and why, with recommendations across every budget.`,
       keyPoints: [
         "Sabian HHX Groove Ride gives Scott Travis the bright, articulate cut that defined power metal's speed-and-precision blueprint on \"Painkiller\"",
-        "Aquiles Priester's Ufip Class Ride supports sustained neoclassical double-bass patterns with a warmer, more complex voice",
+        "Aquiles Priester's 18\" Paiste 2002 Psychoctopus Giga Bell Ride supports sustained neoclassical double-bass patterns with a bright, cutting voice as part of his custom red-coated Paiste set",
         "Nicko McBrain's Paiste Signature Precision Ride and Mikkey Dee's Paiste 2002 Ride both deliver the galloping-rhythm brightness power metal's European scene depends on",
         "21\"-22\" bright, cutting rides dominate power metal, prioritizing theatrical presence over dry, controlled sustain"
       ]
@@ -39763,7 +39758,7 @@ This guide compares Sabian HHX, Ufip, and Paiste Signature/2002 rides for power 
         {
           name: "Sustained Double-Bass Consistency",
           icon: "🎯",
-          description: "Aquiles Priester's Ufip Class Ride is chosen specifically for consistency at the sustained 180-220+ BPM double-bass patterns his neoclassical style demands — a ride needs to hold up to relentless, high-tempo playing without losing character.",
+          description: "Aquiles Priester's Paiste 2002 Psychoctopus Giga Bell Ride is chosen specifically for consistency at the sustained 180-220+ BPM double-bass patterns his neoclassical style demands — a ride needs to hold up to relentless, high-tempo playing without losing character.",
           recommendation: "Durable B20 bronze rides rated for sustained high-tempo double-bass performance"
         },
         {
@@ -39779,10 +39774,10 @@ This guide compares Sabian HHX, Ufip, and Paiste Signature/2002 rides for power 
           recommendation: "A ride with a wide dynamic range from quiet patterns to loud accents"
         },
         {
-          name: "Warmth vs Brightness",
+          name: "Bell Character",
           icon: "⚖️",
-          description: "Aquiles Priester's Italian-made Ufip Class Ride gives a warmer, more complex voicing than the brighter Sabian HHX or Paiste alternatives — proof power metal's cymbal requirements have room for a different tonal character at the highest level.",
-          recommendation: "Ufip-style warmth for a distinctive voice; Sabian/Paiste brightness for the classic gallop sound"
+          description: "Aquiles Priester's 18\" Paiste 2002 Psychoctopus Giga Bell Ride pairs the same bright, cutting CuSn8 attack that defines McBrain's and Dee's Paiste rides with an oversized bell for extra cut on accents — proof power metal's brightest cymbal family covers both galloping and sustained neoclassical demands.",
+          recommendation: "A prominent bell for cutting accents; Sabian/Paiste brightness across the board for the classic gallop sound"
         }
       ]
     },
@@ -39811,7 +39806,7 @@ HammerFall, Blind Guardian, and countless power metal bands cite "Painkiller" as
           ],
           cons: [
             "Premium Sabian pricing",
-            "Brighter voicing may feel less warm than Ufip or Paiste's classic power metal character",
+            "Voicing character differs from Paiste's classic power metal brightness",
             "Requires careful tuning to avoid excess wash at extreme tempos"
           ],
           specs: {
@@ -39830,40 +39825,41 @@ HammerFall, Blind Guardian, and countless power metal bands cite "Painkiller" as
         },
         {
           rank: 2,
-          name: "Ufip Class Ride",
-          brand: "Ufip",
-          model: "22\" Class Ride",
+          name: "Paiste 2002 Psychoctopus Giga Bell Ride",
+          brand: "Paiste",
+          model: "18\" 2002 Psychoctopus Giga Bell Ride",
           image: "https://upload.wikimedia.org/wikipedia/commons/3/31/Cymbal_Hammering.JPG",
           priceRange: "€230-290",
           tier: "pro",
-          driveType: "B20 Bronze, Traditional",
-          description: `Aquiles Priester returned to Angra in 2023 in one of power metal's most anticipated reunions, riding a 22" Ufip Class Ride as part of a rig chosen for maximum consistency at the sustained 180-220+ BPM double-bass patterns that define his neoclassical style.
+          driveType: "CuSn8 Bronze, Bright",
+          description: `Aquiles Priester returned to Angra in 2023 in one of power metal's most anticipated reunions, riding an 18" Paiste 2002 Psychoctopus Giga Bell Ride as part of his custom red-coated cymbal set, chosen for maximum consistency at the sustained 180-220+ BPM double-bass patterns that define his neoclassical style.
 
-The Italian-made Ufip Class Ride gives Priester a warmer, more complex voicing than the brighter Sabian or Paiste alternatives, still driven by relaxation-based technique rather than raw force — a distinctive choice within power metal's largely Sabian/Paiste-dominated landscape.`,
+The Giga Bell Ride's oversized bell gives Priester the same bright, direct CuSn8 cutting attack that defines Nicko McBrain's and Mikkey Dee's Paiste setups, still driven by relaxation-based technique rather than raw force — the custom red-coated finish is what makes his rig visually and sonically distinctive within power metal's Sabian/Paiste-dominated landscape.`,
           pros: [
             "Aquiles Priester's current Angra return-era setup — Brazilian power metal's most celebrated drummer",
-            "Warmer, more complex B20 bronze voicing than brighter Sabian/Paiste alternatives",
+            "Bright, direct CuSn8 bronze attack shared with McBrain's and Dee's Paiste rides",
+            "Oversized Giga Bell adds extra cut for accents at extreme tempo",
             "Built for sustained consistency at extreme neoclassical double-bass tempos",
-            "Distinctive tonal character within power metal's largely Sabian/Paiste landscape"
+            "Distinctive custom red-coated finish within power metal's largely Sabian/Paiste landscape"
           ],
           cons: [
-            "Less widely stocked than Sabian or Paiste outside Europe",
-            "Warmer voicing may feel less cutting than brighter alternatives for some styles",
+            "Custom red-coated finish is a special-order option, not a stock line",
+            "Smaller 18\" size trades some low-end body for a faster, more articulate response",
             "Premium pricing"
           ],
           specs: {
-            size: "22\"",
-            alloy: "B20 Bronze",
-            finish: "Traditional/Class",
-            bell: "Standard",
+            size: "18\"",
+            alloy: "CuSn8 Bronze",
+            finish: "Custom Red-Coated",
+            bell: "Giga Bell, oversized",
             weight: "Medium-Heavy"
           },
           usedBy: [
-            { name: "Aquiles Priester", band: "Angra", note: "22\" Ufip Class Ride — current Angra return cycle" }
+            { name: "Aquiles Priester", band: "Angra", note: "18\" Paiste 2002 Psychoctopus Giga Bell Ride — current Angra return cycle" }
           ],
-          verdict: "Best for neoclassical double-bass power metal. Priester's ride proves warmth and consistency can match brighter alternatives at speed.",
+          verdict: "Best for neoclassical double-bass power metal. Priester's custom red-coated Paiste ride proves bright, cutting consistency at extreme speed.",
           rating: 4.6,
-          affiliateLink: "https://www.thomann.de/intl/ufip_class_ride_22_priester.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/paiste_2002_psychoctopus_giga_bell_ride_18_priester.htm?partner_id=metalforge"
         },
         {
           rank: 3,
@@ -39886,7 +39882,7 @@ The genre's galloping tempo feel traces its lineage straight back to McBrain's N
           cons: [
             "CuSn8 bronze offers a brighter, simpler harmonic profile than B20 alternatives",
             "Premium Paiste Signature pricing",
-            "Less complex overtone structure than Ufip or Sabian HHX"
+            "Less complex overtone structure than Sabian HHX"
           ],
           specs: {
             size: "22\"",
@@ -39984,7 +39980,7 @@ While Dee's catalog sits closer to hard rock than power metal's fantasy-themed w
           driveType: "B20 Bronze",
           description: "Brings B20 bronze — normally reserved for pro-tier rides like the HHX Groove — down to a mid-range price, with a genuinely useful bell for cutting through theatrical arrangements.",
           pros: ["B20 bronze at a mid-range price", "Usable bell projection for power metal accents", "Excellent value-to-quality ratio"],
-          cons: ["Not as warm as the Ufip Class Ride", "Fewer size options than flagship lines"],
+          cons: ["Not as refined as the flagship Signature or 2002 lines", "Fewer size options than flagship lines"],
           verdict: "Best value pick — real B20 bronze tone without the pro-tier price.",
           rating: 4.4,
           affiliateLink: "https://www.thomann.de/intl/sabian_xsr_monarch_ride_21_powermetal.htm?partner_id=metalforge"
@@ -39992,34 +39988,30 @@ While Dee's catalog sits closer to hard rock than power metal's fantasy-themed w
       ]
     },
 
-    // Sabian vs Paiste vs Ufip comparison
+    // Sabian vs Paiste comparison
     comparison: {
-      title: "Sabian HHX vs Paiste vs Ufip Ride for Power Metal",
-      content: `Ride choice splits power metal drummers into three distinct camps. Here's how each compares:
+      title: "Sabian HHX vs Paiste Ride for Power Metal",
+      content: `Ride choice splits power metal drummers into two distinct camps. Here's how each compares:
 
 **Sabian HHX Groove Ride (Scott Travis):**
 - Bright, focused B20 bronze attack
 - Direct lineage to power metal's foundational "Painkiller" blueprint
 - Best for: Speed-and-precision power metal in the classic European tradition
 
-**Paiste Signature Precision & 2002 Ride (Nicko McBrain, Mikkey Dee):**
+**Paiste Signature Precision, 2002 & Custom (Nicko McBrain, Mikkey Dee, Aquiles Priester):**
 - Bright CuSn8 bronze with strong theatrical presence
 - The rhythmic DNA behind power metal's galloping foundation
-- Best for: Galloping, triplet-based rhythms and high-stamina touring
+- Priester's custom red-coated 18" 2002 Psychoctopus Giga Bell Ride proves the same bright attack holds up at sustained, extreme neoclassical tempos
+- Best for: Galloping, triplet-based rhythms, high-stamina touring, and sustained neoclassical technicality alike
 
-**Ufip Class Ride (Aquiles Priester):**
-- Warmer, more complex B20 bronze voicing
-- Built for sustained neoclassical double-bass consistency
-- Best for: Technical, neoclassical power metal at extreme tempos
+**The Truth:** Both approaches have driven some of power metal's most influential recordings. Scott Travis's Sabian HHX Groove Ride carries "Painkiller"'s foundational blueprint forward. Nicko McBrain, Mikkey Dee, and Aquiles Priester's Paiste rides provide the genre's galloping rhythmic DNA, touring stamina, and sustained neoclassical consistency alike.
 
-**The Truth:** All three approaches have driven some of power metal's most influential recordings. Scott Travis's Sabian HHX Groove Ride carries "Painkiller"'s foundational blueprint forward. Nicko McBrain and Mikkey Dee's Paiste rides provide the genre's galloping rhythmic DNA and touring stamina. Aquiles Priester's Ufip Class Ride proves a warmer, more complex voice can match brighter alternatives at extreme neoclassical tempos.
-
-**Our Recommendation:** Start with Sabian HHX if you want the bright, classic power metal ride sound. Choose Paiste if your material leans toward galloping, triplet-based rhythms. Choose Ufip if you want a warmer voice for sustained, technical double-bass playing.`,
+**Our Recommendation:** Start with Sabian HHX if you want the bright, classic power metal ride sound. Choose Paiste if your material leans toward galloping, triplet-based rhythms or sustained, technical double-bass playing.`,
       comparisonTable: [
-        { feature: "Brightness/Cut", sabian: "⭐⭐⭐⭐⭐", paiste: "⭐⭐⭐⭐⭐", ufip: "⭐⭐⭐" },
-        { feature: "Warmth/Complexity", sabian: "⭐⭐⭐", paiste: "⭐⭐⭐", ufip: "⭐⭐⭐⭐⭐" },
-        { feature: "Galloping Rhythm Tradition", sabian: "⭐⭐⭐⭐", paiste: "⭐⭐⭐⭐⭐", ufip: "⭐⭐⭐" },
-        { feature: "Price (entry)", sabian: "€260+", paiste: "€170+", ufip: "€230+" }
+        { feature: "Brightness/Cut", sabian: "⭐⭐⭐⭐⭐", paiste: "⭐⭐⭐⭐⭐" },
+        { feature: "Sustained Tempo Consistency", sabian: "⭐⭐⭐⭐", paiste: "⭐⭐⭐⭐⭐" },
+        { feature: "Galloping Rhythm Tradition", sabian: "⭐⭐⭐⭐", paiste: "⭐⭐⭐⭐⭐" },
+        { feature: "Price (entry)", sabian: "€260+", paiste: "€170+" }
       ]
     },
 
@@ -40034,8 +40026,8 @@ While Dee's catalog sits closer to hard rock than power metal's fantasy-themed w
         },
         {
           category: "Best for Neoclassical Power Metal",
-          pedal: "Ufip Class Ride",
-          reason: "Aquiles Priester's current Angra setup — warm consistency at sustained extreme double-bass tempos."
+          pedal: "Paiste 2002 Psychoctopus Giga Bell Ride",
+          reason: "Aquiles Priester's current Angra setup — bright, cutting consistency at sustained extreme double-bass tempos."
         },
         {
           category: "Best for Galloping Rhythms",
@@ -40059,7 +40051,7 @@ While Dee's catalog sits closer to hard rock than power metal's fantasy-themed w
     ],
     relatedDrummers: [
       { slug: 'scott-travis', name: 'Scott Travis', reason: '21" Sabian HHX Groove Ride — Judas Priest power metal blueprint' },
-      { slug: 'aquiles-priester', name: 'Aquiles Priester', reason: '22" Ufip Class Ride — Angra neoclassical consistency' },
+      { slug: 'aquiles-priester', name: 'Aquiles Priester', reason: '18" Paiste 2002 Psychoctopus Giga Bell Ride — Angra neoclassical consistency' },
       { slug: 'nicko-mcbrain', name: 'Nicko McBrain', reason: '22" Paiste Signature Precision Ride — Iron Maiden galloping DNA' },
       { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: '22" Paiste 2002 Ride — Motörhead/Scorpions touring stamina' }
     ],
@@ -40067,7 +40059,7 @@ While Dee's catalog sits closer to hard rock than power metal's fantasy-themed w
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'scott-travis', name: 'Scott Travis', reason: 'Sabian HHX Groove Ride for Judas Priest' },
-      { slug: 'aquiles-priester', name: 'Aquiles Priester', reason: 'Ufip Class Ride for Angra' },
+      { slug: 'aquiles-priester', name: 'Aquiles Priester', reason: 'Paiste 2002 Psychoctopus Giga Bell Ride for Angra' },
       { slug: 'nicko-mcbrain', name: 'Nicko McBrain', reason: 'Paiste Signature Precision Ride for Iron Maiden' }
     ],
     relatedComparisons: [],
@@ -40080,15 +40072,15 @@ While Dee's catalog sits closer to hard rock than power metal's fantasy-themed w
       },
       {
         question: "What ride cymbal does Aquiles Priester use?",
-        answer: "Aquiles Priester of Angra rides a 22\" Ufip Class Ride, chosen for its warmer, more complex consistency at the sustained 180-220+ BPM double-bass patterns his neoclassical style demands."
+        answer: "Aquiles Priester of Angra rides an 18\" Paiste 2002 Psychoctopus Giga Bell Ride, part of his custom red-coated set, chosen for its bright, cutting consistency at the sustained 180-220+ BPM double-bass patterns his neoclassical style demands."
       },
       {
         question: "What size ride cymbal is best for power metal?",
         answer: "21\"-22\" is the power metal standard. Scott Travis rides 21\" for a slightly quicker response, while Aquiles Priester, Nicko McBrain, and Mikkey Dee all favor 22\" for a bit more low-end body under theatrical arrangements."
       },
       {
-        question: "Sabian HHX vs Ufip — which is better for power metal?",
-        answer: "Both work at the highest level. Scott Travis's Sabian HHX Groove Ride is bright and direct, tracing back to \"Painkiller\"'s foundational blueprint. Aquiles Priester's Ufip Class Ride is warmer and more complex, built for sustained neoclassical double-bass consistency. Choose based on whether you want brightness or warmth."
+        question: "Sabian HHX vs Paiste — which is better for power metal?",
+        answer: "Both work at the highest level. Scott Travis's Sabian HHX Groove Ride is bright and direct, tracing back to \"Painkiller\"'s foundational blueprint. Aquiles Priester's Paiste 2002 Psychoctopus Giga Bell Ride is built for sustained neoclassical double-bass consistency, matching the same bright CuSn8 attack Nicko McBrain and Mikkey Dee rely on. Choose based on whether you want Sabian's B20 focus or Paiste's CuSn8 cut."
       },
       {
         question: "What's the best budget ride cymbal for power metal?",
@@ -40099,9 +40091,9 @@ While Dee's catalog sits closer to hard rock than power metal's fantasy-themed w
     // Conclusion
     conclusion: {
       title: "Find the Ride That Cuts Through Your Galloping Rhythms",
-      content: `Power metal ride choice comes down to one core idea: bright cutting precision versus warm, complex consistency. Whether you build around Scott Travis's foundational Sabian HHX Groove Ride, Nicko McBrain's galloping-rhythm Paiste Signature Precision Ride, or Aquiles Priester's warmer Ufip Class Ride, the right ride has to stay articulate through theatrical, keyboard-orchestrated arrangements rather than washing into sustain.
+      content: `Power metal ride choice comes down to one core idea: stay bright and cutting, whether your material is galloping or sustained neoclassical technicality. Whether you build around Scott Travis's foundational Sabian HHX Groove Ride, Nicko McBrain's galloping-rhythm Paiste Signature Precision Ride, or Aquiles Priester's custom red-coated Paiste 2002 Psychoctopus Giga Bell Ride, the right ride has to stay articulate through theatrical, keyboard-orchestrated arrangements rather than washing into sustain.
 
-Start with a 21"-22" bright, cutting pro ride, and consider Ufip's warmer alternative once you know exactly what your neoclassical or galloping material demands.
+Start with a 21"-22" bright, cutting pro ride, and consider a custom-finished Paiste like Priester's once you know exactly what your neoclassical or galloping material demands.
 
 🤘 **Keep the gallop alive.**`
     }
@@ -47743,7 +47735,7 @@ Start with a budget crash from the family that matches your target sound, and up
       title: "Why Power Metal Crashes Need to Cut Through Keyboards and Choirs",
       content: `Power metal's theatrical, fantasy-themed songwriting layers galloping double bass, soaring clean vocals, and keyboard orchestration into a dense, larger-than-life arrangement — and a crash that washes out or disappears into that mix does the genre no favors. Power metal crashes need to be bright and articulate enough to punch through a full orchestral arrangement without abandoning the theatrical dynamic range the genre depends on.
 
-Scott Travis currently plays Sabian HHX crashes with Judas Priest, a bright, focused voice that traces directly back to "Painkiller" (1990) — the record that became a direct blueprint for the European power metal movement. Aquiles Priester runs a full Ufip crash setup on his current Angra return cycle, chosen for consistency at sustained 180-220+ BPM double-bass tempos. Nicko McBrain's Paiste Signature crashes have powered Iron Maiden's galloping, triplet-based rhythmic vocabulary that power metal's entire European scene directly built upon, while Mikkey Dee's Paiste 2002 crashes bring European hard rock brightness and touring endurance across Motörhead and Scorpions.
+Scott Travis currently plays Sabian HHX crashes with Judas Priest, a bright, focused voice that traces directly back to "Painkiller" (1990) — the record that became a direct blueprint for the European power metal movement. Aquiles Priester runs a full custom red-coated Paiste crash setup on his current Angra return cycle, chosen for consistency at sustained 180-220+ BPM double-bass tempos. Nicko McBrain's Paiste Signature crashes have powered Iron Maiden's galloping, triplet-based rhythmic vocabulary that power metal's entire European scene directly built upon, while Mikkey Dee's Paiste 2002 crashes bring European hard rock brightness and touring endurance across Motörhead and Scorpions.
 
 This guide breaks down what actually makes a crash work for power metal — brightness, cutting power, and theatrical dynamic range — and recommends specific models across every budget, from a first bright crash to the exact cymbals power metal's most influential drummers play.`,
       keyPoints: [
@@ -47767,7 +47759,7 @@ This guide breaks down what actually makes a crash work for power metal — brig
         {
           name: "Sustained Double-Bass Consistency",
           icon: "🎯",
-          description: "Aquiles Priester's full Ufip setup is chosen specifically for consistency at the sustained 180-220+ BPM double-bass patterns his neoclassical style demands — a crash needs to hold up to relentless, high-tempo playing without losing character.",
+          description: "Aquiles Priester's custom red-coated Paiste setup is chosen specifically for consistency at the sustained 180-220+ BPM double-bass patterns his neoclassical style demands — a crash needs to hold up to relentless, high-tempo playing without losing character.",
           recommendation: "Durable B20 bronze crashes rated for sustained high-tempo double-bass performance"
         },
         {
@@ -47791,7 +47783,7 @@ This guide breaks down what actually makes a crash work for power metal — brig
         {
           name: "Alloy",
           icon: "⚙️",
-          description: "B20 bronze (Sabian HHX, Ufip) delivers a warmer, more complex brightness, while CuSn8 bronze (Paiste Signature, 2002) delivers a simpler, more direct cutting attack. Budget lines are simpler but a genuinely usable starting point.",
+          description: "B20 bronze (Sabian HHX) delivers a warmer, more complex brightness, while CuSn8 bronze (Paiste Signature, 2002, and Priester's custom red-coated set) delivers a simpler, more direct cutting attack. Budget lines are simpler but a genuinely usable starting point.",
           recommendation: "B20 bronze for complex brightness, CuSn8 bronze for direct cut, budget brass for a real starting point"
         }
       ]
@@ -47840,40 +47832,39 @@ HammerFall, Blind Guardian, and countless power metal bands cite "Painkiller" as
         },
         {
           rank: 2,
-          name: "Ufip Class Crash",
-          brand: "Ufip",
-          model: "17\" & 18\" Class Series Crash",
+          name: "Paiste Crash (Custom Red-Coated)",
+          brand: "Paiste",
+          model: "17\" & 18\" Crash, Custom Red-Coated",
           image: "https://upload.wikimedia.org/wikipedia/commons/8/8f/Avedis_Zildjian_Cymbal.jpg",
           priceRange: "€210-290",
           tier: "pro",
-          driveType: "B20 Bronze",
-          description: `Aquiles Priester returned to Angra in 2023 in one of power metal's most anticipated reunions, and his current setup runs a full Ufip Class Series crash lineup chosen for maximum consistency at the sustained 180-220+ BPM double-bass patterns that define his neoclassical style.
+          driveType: "CuSn8 Bronze",
+          description: `Aquiles Priester returned to Angra in 2023 in one of power metal's most anticipated reunions, and his current setup runs a full custom red-coated Paiste crash lineup chosen for maximum consistency at the sustained 180-220+ BPM double-bass patterns that define his neoclassical style.
 
-The Italian-made Ufip crash gives Priester a warmer, more complex voicing than the brighter Sabian or Paiste alternatives — a distinctive choice within power metal's largely Sabian/Paiste-dominated landscape, proving the genre's crash requirements have room for a different tonal character at the highest level.`,
+Priester's Paiste crashes deliver the same bright, direct CuSn8 cutting attack that defines Nicko McBrain's and Mikkey Dee's Paiste setups — the custom red-coated finish is what makes his rig visually and sonically distinctive within power metal's Sabian/Paiste-dominated landscape.`,
           pros: [
             "Aquiles Priester's current Angra return-era setup — Brazilian power metal's most celebrated drummer",
-            "Warmer, more complex B20 bronze voicing than brighter Sabian/Paiste alternatives",
+            "Bright, direct CuSn8 bronze attack shared with McBrain's and Dee's Paiste setups",
             "Built for sustained consistency at extreme neoclassical double-bass tempos",
-            "Distinctive tonal character within power metal's largely Sabian/Paiste landscape"
+            "Distinctive custom red-coated finish within power metal's largely Sabian/Paiste landscape"
           ],
           cons: [
-            "Less widely stocked than Sabian or Paiste outside Europe",
-            "Warmer voicing may feel less cutting than brighter alternatives for some styles",
+            "Custom red-coated finish is a special-order option, not a stock line",
             "Premium pricing for the full setup"
           ],
           specs: {
             size: "17\" & 18\"",
-            alloy: "B20 Bronze",
-            finish: "Traditional/Class",
+            alloy: "CuSn8 Bronze",
+            finish: "Custom Red-Coated",
             weight: "Medium",
-            decay: "Warm, sustained"
+            decay: "Bright, direct"
           },
           usedBy: [
-            { name: "Aquiles Priester", band: "Angra", note: "17\" & 18\" Ufip Class Crashes — current Angra return cycle" }
+            { name: "Aquiles Priester", band: "Angra", note: "17\" & 18\" Paiste Crashes, custom red-coated set — current Angra return cycle" }
           ],
-          verdict: "Best for neoclassical double-bass power metal. Priester's setup proves warmth and consistency can match brighter alternatives at speed.",
+          verdict: "Best for neoclassical double-bass power metal. Priester's custom red-coated Paiste setup proves bright, cutting consistency at extreme speed.",
           rating: 4.6,
-          affiliateLink: "https://www.thomann.de/intl/ufip_class_crash_18_priester.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/paiste_crash_18_custom_priester.htm?partner_id=metalforge"
         },
         {
           rank: 3,
@@ -47896,7 +47887,7 @@ The genre's galloping tempo feel traces its lineage straight back to McBrain's N
           cons: [
             "CuSn8 bronze offers a brighter, simpler harmonic profile than B20 alternatives",
             "Premium Paiste Signature pricing",
-            "Less complex overtone structure than Ufip or Sabian HHX"
+            "Less complex overtone structure than Sabian HHX"
           ],
           specs: {
             size: "16\" & 18\"",
@@ -48004,26 +47995,22 @@ For power metal drummers whose touring schedule rivals the genre's biggest festi
 
     // Comparison
     comparison: {
-      title: "Sabian HHX vs Ufip vs Paiste Signature/2002 for Power Metal",
-      content: `Bright, cutting attack stays the through-line across power metal's crash choices, but tonal character splits the genre's most influential drummers into distinct camps:
+      title: "Sabian HHX vs Paiste Signature/2002 for Power Metal",
+      content: `Bright, cutting attack stays the through-line across power metal's crash choices, but tonal character splits the genre's most influential drummers into two camps:
 
 **Sabian HHX (Scott Travis):**
 - Bright, focused attack with direct lineage to "Painkiller"
 - The genre's foundational speed-and-precision blueprint
 - Best for: Speed-and-precision power metal in the Judas Priest tradition
 
-**Ufip (Aquiles Priester):**
-- Warmer, more complex B20 bronze voicing
-- Built for sustained consistency at extreme neoclassical tempos
-- Best for: Neoclassical, technically demanding power metal
-
-**Paiste Signature/2002 (Nicko McBrain, Mikkey Dee):**
+**Paiste Signature/2002/Custom (Nicko McBrain, Mikkey Dee, Aquiles Priester):**
 - Bright, articulate CuSn8 bronze attack
 - McBrain's setup carries the genre's galloping rhythmic DNA
 - Dee's setup proves proven touring durability across decades
-- Best for: Galloping, triplet-based European power metal
+- Priester's custom red-coated set proves the same bright Paiste attack holds up at sustained, extreme neoclassical tempos
+- Best for: Galloping, triplet-based European power metal and sustained neoclassical technicality alike
 
-**Our Recommendation:** Start with a Sabian SBR or Paiste PST 5 crash if you're building power metal technique on a budget. Choose Sabian HHX for the classic speed-and-precision blueprint, Ufip if your material demands sustained neoclassical consistency, or Paiste Signature/2002 for the genre's galloping rhythmic tradition.`,
+**Our Recommendation:** Start with a Sabian SBR or Paiste PST 5 crash if you're building power metal technique on a budget. Choose Sabian HHX for the classic speed-and-precision blueprint, or Paiste Signature/2002 for the genre's galloping rhythmic tradition and sustained neoclassical consistency.`,
       comparisonTable: [
         { feature: "Brightness/Cut", directDrive: "⭐⭐⭐⭐⭐", chainDrive: "⭐⭐⭐⭐" },
         { feature: "Sustained Tempo Consistency", directDrive: "⭐⭐⭐⭐", chainDrive: "⭐⭐⭐⭐⭐" },
@@ -48043,8 +48030,8 @@ For power metal drummers whose touring schedule rivals the genre's biggest festi
         },
         {
           category: "Best for Neoclassical Power Metal",
-          pedal: "Ufip Class Crash",
-          reason: "Aquiles Priester's Angra setup — warm consistency at sustained, extreme double-bass tempos."
+          pedal: "Paiste Crash (Custom Red-Coated)",
+          reason: "Aquiles Priester's Angra setup — bright, cutting consistency at sustained, extreme double-bass tempos."
         },
         {
           category: "Best for Galloping Rhythms",
@@ -48069,7 +48056,7 @@ For power metal drummers whose touring schedule rivals the genre's biggest festi
     ],
     relatedDrummers: [
       { slug: 'scott-travis', name: 'Scott Travis', reason: 'Sabian HHX Crash — Judas Priest power metal blueprint' },
-      { slug: 'aquiles-priester', name: 'Aquiles Priester', reason: 'Ufip Class Crash — Angra neoclassical double-bass precision' },
+      { slug: 'aquiles-priester', name: 'Aquiles Priester', reason: 'Paiste Crash (Custom Red-Coated) — Angra neoclassical double-bass precision' },
       { slug: 'nicko-mcbrain', name: 'Nicko McBrain', reason: 'Paiste Signature Crash — Iron Maiden galloping foundation' },
       { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'Paiste 2002 Crash — Motörhead/Scorpions touring stamina' }
     ],
@@ -48077,7 +48064,7 @@ For power metal drummers whose touring schedule rivals the genre's biggest festi
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'scott-travis', name: 'Scott Travis', reason: 'Sabian HHX Crash — Judas Priest power metal blueprint' },
-      { slug: 'aquiles-priester', name: 'Aquiles Priester', reason: 'Ufip Class Crash — Angra neoclassical double-bass precision' },
+      { slug: 'aquiles-priester', name: 'Aquiles Priester', reason: 'Paiste Crash (Custom Red-Coated) — Angra neoclassical double-bass precision' },
       { slug: 'nicko-mcbrain', name: 'Nicko McBrain', reason: 'Paiste Signature Crash — Iron Maiden galloping foundation' }
     ],
     relatedComparisons: [],
@@ -48090,7 +48077,7 @@ For power metal drummers whose touring schedule rivals the genre's biggest festi
       },
       {
         question: "What crash cymbal does Aquiles Priester use?",
-        answer: "Aquiles Priester of Angra runs 17\" and 18\" Ufip Class Series Crashes as part of his current Angra return-era setup, chosen for maximum consistency at sustained 180-220+ BPM neoclassical double-bass patterns."
+        answer: "Aquiles Priester of Angra runs 17\" and 18\" Paiste crashes as part of his custom red-coated cymbal set, chosen for maximum consistency at sustained 180-220+ BPM neoclassical double-bass patterns."
       },
       {
         question: "What crash cymbal does Nicko McBrain use?",
@@ -48109,9 +48096,9 @@ For power metal drummers whose touring schedule rivals the genre's biggest festi
     // Conclusion
     conclusion: {
       title: "Build Your Power Metal Crash Sound Around Brightness and Cut",
-      content: `Power metal's crash philosophy comes down to one core idea: stay bright and cutting, never dark and washed out. Whether you build around Scott Travis's foundational Sabian HHX brightness, Nicko McBrain's galloping Paiste Signature voice, or Aquiles Priester's warmer, sustained Ufip consistency, the right power metal crash should punch clearly through a dense, theatrical arrangement without losing its shine.
+      content: `Power metal's crash philosophy comes down to one core idea: stay bright and cutting, never dark and washed out. Whether you build around Scott Travis's foundational Sabian HHX brightness, Nicko McBrain's galloping Paiste Signature voice, or Aquiles Priester's custom red-coated Paiste consistency, the right power metal crash should punch clearly through a dense, theatrical arrangement without losing its shine.
 
-Start with one bright crash in the 16"-18" range, and layer a second voicing — whether that's Ufip's warmth for neoclassical technicality or Paiste 2002's touring-proven durability — once you know where your power metal leans on the speed-to-theatrics spectrum.
+Start with one bright crash in the 16"-18" range, and layer a second voicing — whether that's Priester's custom red-coated Paiste for sustained neoclassical technicality or Paiste 2002's touring-proven durability — once you know where your power metal leans on the speed-to-theatrics spectrum.
 
 🤘 **Stay bright, stay galloping.**`
     }
@@ -61850,7 +61837,7 @@ Start where your budget allows — even a Pearl Export or Tama Imperialstar will
     // SEO metadata
     title: "Best Cymbals for Power Metal: 2026 Expert Guide",
     metaTitle: "Best Cymbals for Power Metal 2026 | MetalForge Expert Guide",
-    description: "Best cymbal picks for power metal drumming: what Scott Travis (Sabian HHX), Aquiles Priester (Ufip), Nicko McBrain (Paiste Signature), and Mikkey Dee (Paiste 2002) actually play. Sabian HHX vs Ufip vs Paiste — ranked budget to pro.",
+    description: "Best cymbal picks for power metal drumming: what Scott Travis (Sabian HHX), Aquiles Priester (Paiste custom red-coated), Nicko McBrain (Paiste Signature), and Mikkey Dee (Paiste 2002) actually play. Sabian HHX vs Paiste — ranked budget to pro.",
     seoKeywords: [
       'best cymbals for power metal',
       'power metal cymbals',
@@ -61860,7 +61847,7 @@ Start where your budget allows — even a Pearl Export or Tama Imperialstar will
       'mikkey dee cymbals scorpions',
       'sabian hhx power metal',
       'paiste signature power metal',
-      'ufip cymbals metal',
+      'paiste custom cymbals metal',
       'best cymbals for galloping rhythms'
     ],
     ogImage: '/api/og/guide?type=genre-gear&gear=cymbals&genre=power-metal',
@@ -61887,12 +61874,12 @@ Start where your budget allows — even a Pearl Export or Tama Imperialstar will
       title: "Why Power Metal Cymbals Need Brightness and Stamina in Equal Measure",
       content: `Power metal drumming demands sustained, precise double bass at speed-metal tempos combined with the theatrical, larger-than-life dynamic range the genre's keyboard-orchestrated, fantasy-themed songwriting requires. That combination pushes cymbal choice toward bright, cutting voicing that can punch through galloping rhythms and soaring clean vocals without disappearing into a wash of sustain during 160-200+ BPM sections.
 
-Scott Travis currently plays Sabian HHX cymbals with Judas Priest, a bright, articulate line that carries directly from his galvanizing "Painkiller" (1990) performance — the album that became a direct blueprint for the entire European power metal movement. Aquiles Priester runs a full Ufip cymbal setup on his current Angra return cycle, chosen for maximum consistency at the sustained 180-220+ BPM double-bass patterns that define his neoclassical style. Nicko McBrain's Paiste Signature cymbals have powered Iron Maiden's galloping, triplet-based rhythmic vocabulary that power metal's entire European scene directly built upon. Mikkey Dee's Paiste 2002 cymbals bring European hard rock power and touring endurance across Motörhead and Scorpions.
+Scott Travis currently plays Sabian HHX cymbals with Judas Priest, a bright, articulate line that carries directly from his galvanizing "Painkiller" (1990) performance — the album that became a direct blueprint for the entire European power metal movement. Aquiles Priester runs a full custom red-coated Paiste cymbal setup on his current Angra return cycle, chosen for maximum consistency at the sustained 180-220+ BPM double-bass patterns that define his neoclassical style. Nicko McBrain's Paiste Signature cymbals have powered Iron Maiden's galloping, triplet-based rhythmic vocabulary that power metal's entire European scene directly built upon. Mikkey Dee's Paiste 2002 cymbals bring European hard rock power and touring endurance across Motörhead and Scorpions.
 
-This guide compares Sabian HHX, Ufip, and Paiste Signature/2002 for power metal — breaking down what each of these four influential drummers plays and why, with recommendations across every budget.`,
+This guide compares Sabian HHX and Paiste Signature/2002 for power metal — breaking down what each of these four influential drummers plays and why, with recommendations across every budget.`,
       keyPoints: [
         "Sabian HHX gives Scott Travis the bright, articulate cut that defined power metal's speed-and-precision blueprint on \"Painkiller\"",
-        "Ufip's full cymbal range supports Aquiles Priester's sustained neoclassical double-bass patterns on Angra's current era",
+        "Aquiles Priester's custom red-coated Paiste cymbal set supports his sustained neoclassical double-bass patterns on Angra's current era",
         "Paiste Signature (McBrain) and Paiste 2002 (Dee) both deliver the galloping-rhythm brightness power metal's European scene depends on",
         "Bright, cutting voicing dominates power metal, prioritizing theatrical presence over dry, controlled sustain"
       ]
@@ -61911,7 +61898,7 @@ This guide compares Sabian HHX, Ufip, and Paiste Signature/2002 for power metal 
         {
           name: "Sustained Double-Bass Consistency",
           icon: "🎯",
-          description: "Aquiles Priester's full Ufip setup is chosen specifically for consistency at the sustained 180-220+ BPM double-bass patterns his neoclassical style demands — cymbals need to hold up to relentless, high-tempo playing without losing character.",
+          description: "Aquiles Priester's full custom red-coated Paiste setup is chosen specifically for consistency at the sustained 180-220+ BPM double-bass patterns his neoclassical style demands — cymbals need to hold up to relentless, high-tempo playing without losing character.",
           recommendation: "Durable B20 bronze cymbals rated for sustained high-tempo double-bass performance"
         },
         {
@@ -61986,42 +61973,41 @@ HammerFall, Blind Guardian, and countless power metal bands cite "Painkiller" as
         },
         {
           rank: 2,
-          name: "Ufip Full Cymbal Setup",
-          brand: "Ufip",
-          model: "Class/Extatic Series",
+          name: "Paiste Custom Red-Coated Cymbal Set",
+          brand: "Paiste",
+          model: "Custom Red-Coated Series",
           image: "https://upload.wikimedia.org/wikipedia/commons/4/43/Zildjian_Quick_Beat_Hi_Hat_15.jpg",
           priceRange: "€200-420 per cymbal",
           tier: "pro",
-          material: "B20 Bronze",
+          material: "CuSn8 Bronze",
 
-          description: `Aquiles Priester returned to Angra in 2023 in one of power metal's most anticipated reunions, and his current setup is built around a Trick Drums custom maple kit with a full Ufip cymbal setup and a DW 9000 Series double pedal — a rig chosen for maximum consistency at the sustained 180-220+ BPM double-bass patterns that define his neoclassical style.
+          description: `Aquiles Priester returned to Angra in 2023 in one of power metal's most anticipated reunions, and his current setup is built around his own Mapex Saturn Evolution All Maple signature kit with a full custom red-coated Paiste cymbal setup — including his 18" 2002 Psychoctopus Giga Bell Ride — and a DW 9000 Series double pedal, a rig chosen for maximum consistency at the sustained 180-220+ BPM double-bass patterns that define his neoclassical style.
 
-The Italian-made Ufip line gives Priester a warmer, more complex voicing than the brighter Sabian or Paiste alternatives, still driven by relaxation-based technique rather than raw force. It's a distinctive choice within power metal's largely Sabian/Paiste-dominated landscape, proving the genre's cymbal requirements have room for a different tonal character at the highest level.`,
+Priester's Paiste setup delivers the same bright, direct CuSn8 cutting attack that defines Nicko McBrain's and Mikkey Dee's Paiste rigs — the custom red-coated finish is what makes his setup visually and sonically distinctive within power metal's Sabian/Paiste-dominated landscape.`,
 
           pros: [
             "Aquiles Priester's current Angra return-era setup — Brazilian power metal's most celebrated drummer",
-            "Warmer, more complex B20 bronze voicing than brighter Sabian/Paiste alternatives",
+            "Bright, direct CuSn8 bronze attack shared with McBrain's and Dee's Paiste setups",
             "Built for sustained consistency at extreme neoclassical double-bass tempos",
-            "Distinctive tonal character within power metal's largely Sabian/Paiste landscape",
+            "Distinctive custom red-coated finish within power metal's largely Sabian/Paiste landscape",
             "Proven across Angra's most celebrated creative eras, old and new"
           ],
           cons: [
-            "Less widely stocked than Sabian or Paiste outside Europe",
-            "Warmer voicing may feel less cutting than brighter alternatives for some styles",
+            "Custom red-coated finish is a special-order option, not a stock line",
             "Premium pricing for the full setup"
           ],
           specs: {
-            alloy: "B20 Bronze",
-            finish: "Traditional/Class",
+            alloy: "CuSn8 Bronze",
+            finish: "Custom Red-Coated",
             priceRange: "€200–€420 per cymbal",
             bestFor: "Neoclassical, sustained double-bass power metal"
           },
           usedBy: [
-            { name: "Aquiles Priester", band: "Angra", note: "Full Ufip setup — current Angra return cycle, paired with Trick Drums and DW 9000 double pedal" }
+            { name: "Aquiles Priester", band: "Angra", note: "Full custom red-coated Paiste setup — current Angra return cycle, paired with his Mapex Saturn Evolution kit and DW 9000 double pedal" }
           ],
-          verdict: "Best for neoclassical double-bass power metal. Priester's setup proves warmth and consistency can match brighter alternatives at speed.",
+          verdict: "Best for neoclassical double-bass power metal. Priester's custom red-coated Paiste setup proves bright, cutting consistency at extreme speed.",
           rating: 4.6,
-          affiliateLink: "https://www.thomann.de/intl/ufip_class_extatic_series.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/paiste_custom_red_coated_series_priester.htm?partner_id=metalforge"
         },
         {
           rank: 3,
@@ -62047,7 +62033,7 @@ The genre's galloping tempo feel traces its lineage straight back to McBrain's N
           cons: [
             "CuSn8 bronze offers a brighter, simpler harmonic profile than B20 alternatives",
             "Premium Paiste Signature pricing",
-            "Less complex overtone structure than Ufip or Sabian HHX"
+            "Less complex overtone structure than Sabian HHX"
           ],
           specs: {
             alloy: "CuSn8 Bronze",
@@ -62140,34 +62126,30 @@ While Dee's catalog sits closer to hard rock than power metal's fantasy-themed w
       ]
     },
 
-    // Sabian vs Paiste vs Ufip comparison
+    // Sabian vs Paiste comparison
     comparison: {
-      title: "Sabian HHX vs Paiste vs Ufip for Power Metal",
-      content: `Cymbal choice splits power metal drummers into three distinct camps. Here's how each compares:
+      title: "Sabian HHX vs Paiste for Power Metal",
+      content: `Cymbal choice splits power metal drummers into two distinct camps. Here's how each compares:
 
 **Sabian HHX (Scott Travis):**
 - Bright, focused B20 bronze attack
 - Direct lineage to power metal's foundational "Painkiller" blueprint
 - Best for: Speed-and-precision power metal in the classic European tradition
 
-**Paiste Signature & 2002 (Nicko McBrain, Mikkey Dee):**
+**Paiste Signature, 2002 & Custom (Nicko McBrain, Mikkey Dee, Aquiles Priester):**
 - Bright CuSn8 bronze with strong theatrical presence
 - The rhythmic DNA behind power metal's galloping foundation
-- Best for: Galloping, triplet-based rhythms and high-stamina touring
+- Priester's custom red-coated set proves the same bright Paiste attack holds up at sustained, extreme neoclassical tempos
+- Best for: Galloping, triplet-based rhythms, high-stamina touring, and sustained neoclassical technicality alike
 
-**Ufip (Aquiles Priester):**
-- Warmer, more complex B20 bronze voicing
-- Built for sustained neoclassical double-bass consistency
-- Best for: Technical, neoclassical power metal at extreme tempos
+**The Truth:** Both approaches have driven some of power metal's most influential recordings. Scott Travis's Sabian HHX carries "Painkiller"'s foundational blueprint forward. Nicko McBrain, Mikkey Dee, and Aquiles Priester's Paiste setups provide the genre's galloping rhythmic DNA, touring stamina, and sustained neoclassical consistency alike.
 
-**The Truth:** All three approaches have driven some of power metal's most influential recordings. Scott Travis's Sabian HHX carries "Painkiller"'s foundational blueprint forward. Nicko McBrain and Mikkey Dee's Paiste setups provide the genre's galloping rhythmic DNA and touring stamina. Aquiles Priester's Ufip setup proves a warmer, more complex voice can match brighter alternatives at extreme neoclassical tempos.
-
-**Our Recommendation:** Start with Sabian HHX if you want the bright, classic power metal cymbal sound. Choose Paiste if your material leans toward galloping, triplet-based rhythms. Choose Ufip if you want a warmer voice for sustained, technical double-bass playing.`,
+**Our Recommendation:** Start with Sabian HHX if you want the bright, classic power metal cymbal sound. Choose Paiste if your material leans toward galloping, triplet-based rhythms or sustained, technical double-bass playing.`,
       comparisonTable: [
-        { feature: "Brightness/Cut", sabian: "⭐⭐⭐⭐⭐", paiste: "⭐⭐⭐⭐⭐", ufip: "⭐⭐⭐" },
-        { feature: "Warmth/Complexity", sabian: "⭐⭐⭐", paiste: "⭐⭐⭐", ufip: "⭐⭐⭐⭐⭐" },
-        { feature: "Galloping Rhythm Tradition", sabian: "⭐⭐⭐⭐", paiste: "⭐⭐⭐⭐⭐", ufip: "⭐⭐⭐" },
-        { feature: "Price (entry)", sabian: "€220+", paiste: "€160+", ufip: "€200+" }
+        { feature: "Brightness/Cut", sabian: "⭐⭐⭐⭐⭐", paiste: "⭐⭐⭐⭐⭐" },
+        { feature: "Sustained Tempo Consistency", sabian: "⭐⭐⭐⭐", paiste: "⭐⭐⭐⭐⭐" },
+        { feature: "Galloping Rhythm Tradition", sabian: "⭐⭐⭐⭐", paiste: "⭐⭐⭐⭐⭐" },
+        { feature: "Price (entry)", sabian: "€220+", paiste: "€160+" }
       ]
     },
 
@@ -62182,8 +62164,8 @@ While Dee's catalog sits closer to hard rock than power metal's fantasy-themed w
         },
         {
           category: "Best for Neoclassical Power Metal",
-          pedal: "Ufip Full Cymbal Setup",
-          reason: "Aquiles Priester's current Angra setup — warm consistency at sustained extreme double-bass tempos."
+          pedal: "Paiste Custom Red-Coated Cymbal Set",
+          reason: "Aquiles Priester's current Angra setup — bright, cutting consistency at sustained extreme double-bass tempos."
         },
         {
           category: "Best for Galloping Rhythms",
@@ -62206,7 +62188,7 @@ While Dee's catalog sits closer to hard rock than power metal's fantasy-themed w
     ],
     relatedDrummers: [
       { slug: 'scott-travis', name: 'Scott Travis', reason: 'Sabian HHX Series — Judas Priest power metal blueprint' },
-      { slug: 'aquiles-priester', name: 'Aquiles Priester', reason: 'Ufip Full Setup — Angra neoclassical double-bass precision' },
+      { slug: 'aquiles-priester', name: 'Aquiles Priester', reason: 'Paiste Custom Red-Coated Cymbal Set — Angra neoclassical double-bass precision' },
       { slug: 'nicko-mcbrain', name: 'Nicko McBrain', reason: 'Paiste Signature Series — Iron Maiden galloping foundation' },
       { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'Paiste 2002 Series — Motörhead/Scorpions touring stamina' }
     ],
@@ -62214,7 +62196,7 @@ While Dee's catalog sits closer to hard rock than power metal's fantasy-themed w
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'scott-travis', name: 'Scott Travis', reason: 'Sabian HHX Series — Judas Priest power metal blueprint' },
-      { slug: 'aquiles-priester', name: 'Aquiles Priester', reason: 'Ufip Full Setup — Angra neoclassical double-bass precision' },
+      { slug: 'aquiles-priester', name: 'Aquiles Priester', reason: 'Paiste Custom Red-Coated Cymbal Set — Angra neoclassical double-bass precision' },
       { slug: 'nicko-mcbrain', name: 'Nicko McBrain', reason: 'Paiste Signature Series — Iron Maiden galloping foundation' },
       { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'Paiste 2002 Series — Motörhead/Scorpions touring stamina' }
     ],
@@ -62227,7 +62209,7 @@ While Dee's catalog sits closer to hard rock than power metal's fantasy-themed w
       },
       {
         question: "What cymbals does Aquiles Priester use?",
-        answer: "Aquiles Priester currently plays a full Ufip cymbal setup on his 2023 Angra return cycle, paired with a Trick Drums custom maple kit and a DW 9000 Series double pedal — a rig chosen for maximum consistency at the sustained 180-220+ BPM double-bass patterns his neoclassical style demands."
+        answer: "Aquiles Priester currently plays a full custom red-coated Paiste cymbal setup on his 2023 Angra return cycle, paired with his own Mapex Saturn Evolution All Maple signature kit and a DW 9000 Series double pedal — a rig chosen for maximum consistency at the sustained 180-220+ BPM double-bass patterns his neoclassical style demands."
       },
       {
         question: "Sabian HHX vs Paiste — which is better for power metal?",
@@ -62246,7 +62228,7 @@ While Dee's catalog sits closer to hard rock than power metal's fantasy-themed w
     // Conclusion
     conclusion: {
       title: "Find Your Power Metal Cymbal Voice",
-      content: `Power metal cymbal choice comes down to a fundamental question: do you want the focused, classic brightness of Sabian HHX, the galloping theatrical presence of Paiste, or the warmer sustained consistency of Ufip? Scott Travis found his answer in Sabian HHX, carrying "Painkiller"'s foundational blueprint into the present day. Nicko McBrain and Mikkey Dee both found theirs in Paiste's bright, theatrical family, while Aquiles Priester found a warmer middle ground in Ufip for Angra's sustained neoclassical double-bass demands.
+      content: `Power metal cymbal choice comes down to a fundamental question: do you want the focused, classic brightness of Sabian HHX, or the bright, theatrical presence of Paiste? Scott Travis found his answer in Sabian HHX, carrying "Painkiller"'s foundational blueprint into the present day. Nicko McBrain and Mikkey Dee both found theirs in Paiste's bright, theatrical family, and Aquiles Priester joined them with his own custom red-coated Paiste set for Angra's sustained neoclassical double-bass demands.
 
 None of these approaches is more "authentic" to the genre — all four have driven some of power metal's most influential recordings. Start with whichever family matches your band's balance of classic speed-and-precision versus galloping theatrics versus sustained technical consistency.
 
@@ -62265,7 +62247,7 @@ Budget shouldn't stop you either. A Sabian SBr or Paiste PST 5 setup will teach 
     // SEO metadata
     title: "Best Drum Kits for Power Metal: 2026 Ultimate Guide",
     metaTitle: "Best Drum Kits for Power Metal 2026 | MetalForge Expert Guide",
-    description: "Best drum kits for power metal drumming. What Scott Travis (Tama Starclassic Maple), Aquiles Priester (Trick Drums Custom Maple), Nicko McBrain (British Drum Co.), and Mikkey Dee (Sonor SQ2) actually play — bright, articulate shells built for galloping speed and theatrical range, from budget to pro.",
+    description: "Best drum kits for power metal drumming. What Scott Travis (Tama Starclassic Maple), Aquiles Priester (Mapex Saturn Evolution All Maple), Nicko McBrain (British Drum Co.), and Mikkey Dee (Sonor SQ2) actually play — bright, articulate shells built for galloping speed and theatrical range, from budget to pro.",
     seoKeywords: [
       'best drum kits for power metal',
       'power metal drum kit',
@@ -62274,7 +62256,7 @@ Budget shouldn't stop you either. A Sabian SBr or Paiste PST 5 setup will teach 
       'nicko mcbrain drum kit iron maiden',
       'mikkey dee drum kit scorpions',
       'tama starclassic maple power metal',
-      'trick drums custom power metal',
+      'mapex saturn evolution power metal',
       'sonor sq2 power metal',
       'best drum kit for galloping rhythms'
     ],
@@ -62302,12 +62284,12 @@ Budget shouldn't stop you either. A Sabian SBr or Paiste PST 5 setup will teach 
       title: "What Drum Kit Should I Use for Power Metal?",
       content: `Power metal drumming lives at the opposite end of the tonal spectrum from doom or black metal. Instead of cavernous, down-tuned low end, the genre's galloping rhythms, soaring clean vocals, and fantasy-themed theatrics demand a kit voiced for brightness, articulation, and stamina at sustained 160-220+ BPM tempos — a kit that stays crisp and present rather than washing out under keyboard-orchestrated arrangements.
 
-Scott Travis returned to Tama for Judas Priest's "Firepower" (2018) after roughly a decade and a half on Pearl, and his current Tama Starclassic Maple kit — driven by two independent Speed Cobra pedals rather than a double pedal, preserving the foot independence he's played with since the 1980s — carries "Painkiller" (1990)'s foundational speed-and-precision blueprint into the present. Aquiles Priester switched to a fully custom Trick Drums maple kit for his 2023 Angra return, chosen for the projection and consistency his relaxation-based, sustained 180-220+ BPM neoclassical double-bass technique demands. Nicko McBrain's British Drum Co. kit — still driven by a single bass drum pedal for every Iron Maiden gallop, never a double — proves the genre's most influential rhythmic vocabulary doesn't require twin kicks at all. Mikkey Dee's Sonor SQ2 kit has carried him from Motörhead's all-out attack into Scorpions' wider dynamic range, built for the touring stamina power metal's biggest festival-circuit bands depend on.
+Scott Travis returned to Tama for Judas Priest's "Firepower" (2018) after roughly a decade and a half on Pearl, and his current Tama Starclassic Maple kit — driven by two independent Speed Cobra pedals rather than a double pedal, preserving the foot independence he's played with since the 1980s — carries "Painkiller" (1990)'s foundational speed-and-precision blueprint into the present. Aquiles Priester plays his own Mapex Saturn Evolution All Maple signature kit for his 2023 Angra return, chosen for the projection and consistency his relaxation-based, sustained 180-220+ BPM neoclassical double-bass technique demands. Nicko McBrain's British Drum Co. kit — still driven by a single bass drum pedal for every Iron Maiden gallop, never a double — proves the genre's most influential rhythmic vocabulary doesn't require twin kicks at all. Mikkey Dee's Sonor SQ2 kit has carried him from Motörhead's all-out attack into Scorpions' wider dynamic range, built for the touring stamina power metal's biggest festival-circuit bands depend on.
 
 This guide breaks down what actually makes a kit work for power metal — brightness, articulation, and reliability at sustained high tempo — and which specific kits these four influential drummers rely on, from budget-friendly starters to the professional rigs behind the genre's most theatrical, speed-driven records.`,
       keyPoints: [
         "Scott Travis's Tama Starclassic Maple carries \"Painkiller\"'s foundational speed-and-precision blueprint forward on two independent pedals, no double pedal",
-        "Aquiles Priester's fully custom Trick Drums kit is built for sustained neoclassical double-bass consistency at 180-220+ BPM",
+        "Aquiles Priester's own Mapex Saturn Evolution All Maple signature kit is built for sustained neoclassical double-bass consistency at 180-220+ BPM",
         "Nicko McBrain's British Drum Co. kit proves power metal's galloping rhythmic foundation can be built on a single bass drum pedal",
         "Bright, articulate maple and custom shells dominate power metal, prioritizing cut-through and stamina over low-end weight"
       ]
@@ -62404,43 +62386,43 @@ Paired with a Tama Starphonic Brass 14"x6" snare and Sabian HHX cymbals, the set
         },
         {
           rank: 2,
-          name: "Trick Drums Custom Maple",
-          brand: "Trick Drums",
-          model: "Custom Maple",
+          name: "Mapex Saturn Evolution All Maple",
+          brand: "Mapex",
+          model: "Saturn Evolution All Maple",
           image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Drums_01.jpg",
-          priceRange: "€4000-6500 (custom shell pack)",
+          priceRange: "€4000-6500 (shell pack)",
           tier: "premium",
-          material: "Custom Maple",
+          material: "All Maple",
 
-          description: `Aquiles Priester switched from Pearl Reference to a fully custom Trick Drums maple kit for his celebrated 2023 return to Angra, pairing twin 22" bass drums with a three rack tom / two floor tom spread built specifically around his relaxation-based, sustained double-bass technique. The American boutique brand's per-shell custom specification lets Priester dial in exact projection and articulation for neoclassical patterns sustained at 180-220+ BPM.
+          description: `Aquiles Priester plays his own Mapex Saturn Evolution All Maple signature kit for his celebrated 2023 return to Angra, pairing twin 22" bass drums with a three rack tom (10", 12", 13") / two floor tom (16", 18") spread built specifically around his relaxation-based, sustained double-bass technique. The all-maple shell construction lets Priester dial in exact projection and articulation for neoclassical patterns sustained at 180-220+ BPM.
 
-Driven by a DW 9000 Series double pedal and a full Ufip cymbal setup, the rig is a genuinely distinctive choice within power metal's largely Tama/Sonor/Pearl landscape — proof that a boutique custom builder can match the genre's biggest names at the highest level.`,
+Driven by a DW 9000 Series double pedal and a full custom red-coated Paiste cymbal setup, the rig is a genuinely distinctive choice within power metal's largely Tama/Sonor/Pearl landscape — proof that a signature all-maple build can match the genre's biggest names at the highest level.`,
 
           pros: [
             "Aquiles Priester's current Angra return-era setup — Brazilian power metal's most celebrated drummer",
-            "Fully custom per-shell specification for exact tonal and projection control",
+            "His own signature specification for exact tonal and projection control",
             "Built for sustained consistency at extreme neoclassical double-bass tempos",
-            "Distinctive boutique choice within power metal's largely mass-production landscape",
+            "Distinctive all-maple build within power metal's largely mixed-shell landscape",
             "Proven across Angra's most celebrated creative eras, old and new"
           ],
           cons: [
-            "Custom Trick Drums builds carry premium pricing and long lead times",
+            "Signature-spec builds carry premium pricing and longer lead times",
             "Less widely stocked than Tama, Sonor, or Pearl outside specialist retailers",
-            "Overkill for drummers not chasing a fully custom tonal specification"
+            "Overkill for drummers not chasing a fully matched all-maple specification"
           ],
           specs: {
-            shell: "Custom Maple",
-            mount: "Trick Drums direct mount",
-            finish: "Custom finish options",
+            shell: "All Maple",
+            mount: "Mapex tom mount",
+            finish: "Signature finish options",
             kickSize: "22\" x 18\" (dual)",
             tomSizes: "10\", 12\", 13\" rack / 16\", 18\" floor"
           },
           usedBy: [
-            { name: "Aquiles Priester", band: "Angra", note: "Trick Drums Custom Maple — current Angra return-era rig" }
+            { name: "Aquiles Priester", band: "Angra", note: "Mapex Saturn Evolution All Maple — current Angra return-era rig" }
           ],
-          verdict: "Best for neoclassical double-bass power metal. Priester's setup proves boutique custom builds can match the biggest names.",
+          verdict: "Best for neoclassical double-bass power metal. Priester's signature setup proves an all-maple build can match the biggest names.",
           rating: 4.6,
-          affiliateLink: "https://www.thomann.de/intl/trick_drums_custom_maple.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/mapex_saturn_evolution_all_maple.htm?partner_id=metalforge"
         },
         {
           rank: 3,
@@ -62528,7 +62510,7 @@ Paired with a Sonor Mikkey Dee Signature snare and a DW 5000 Series double pedal
     // Budget options section
     budgetOptions: {
       title: "Best Budget Drum Kits for Power Metal",
-      description: "You don't need a custom Trick Drums or Sonor SQ build to start playing power metal. These kits deliver real brightness and durability for developing players.",
+      description: "You don't need a Mapex Saturn Evolution or Sonor SQ build to start playing power metal. These kits deliver real brightness and durability for developing players.",
       pedals: [
         {
           name: "Tama Imperialstar",
@@ -62561,31 +62543,31 @@ Paired with a Sonor Mikkey Dee Signature snare and a DW 5000 Series double pedal
       ]
     },
 
-    // Flagship vs boutique comparison
+    // Flagship production vs signature specification comparison
     comparison: {
-      title: "Flagship Production vs Custom Boutique for Power Metal",
+      title: "Flagship Production vs Signature Specification for Power Metal",
       content: `Kit choice splits power metal's leading drummers into two clear camps. Here's how each compares:
 
-**Flagship Production (Scott Travis - Tama, Nicko McBrain - British Drum Co., Mikkey Dee - Sonor):**
-- Three of this guide's four featured drummers build around major-brand flagship or custom-program shells
+**Standard Flagship Production (Scott Travis - Tama, Nicko McBrain - British Drum Co., Mikkey Dee - Sonor):**
+- Three of this guide's four featured drummers build around major-brand standard flagship or custom-program shells
 - Backed by decades of artist relations support, parts availability, and global service networks
 - The dominant choice across power metal's biggest, longest-running bands
 - Best for: Drummers who want proven reliability and worldwide support
 
-**Custom Boutique (Aquiles Priester - Trick Drums):**
-- Fully custom, per-shell specification built around one drummer's exact technique
-- Distinctive tonal character outside the mass-production landscape
+**Signature All-Maple Specification (Aquiles Priester - Mapex Saturn Evolution):**
+- His own signature all-maple specification, built around his exact relaxation-based technique
+- Distinctive all-maple tonal character within power metal's largely mixed-shell landscape
 - Proven at the highest level on Angra's most celebrated modern-era recordings
 - Best for: Drummers chasing an exact, personalized tonal specification
 
-**The Truth:** Both approaches sit at the top of power metal's gear hierarchy. Flagship production kits from Tama, British Drum Co., and Pearl dominate the genre's biggest, longest-running bands, while Aquiles Priester's Trick Drums setup proves a boutique custom build can match them at the highest level.
+**The Truth:** Both approaches sit at the top of power metal's gear hierarchy. Flagship production kits from Tama, British Drum Co., and Pearl dominate the genre's biggest, longest-running bands, while Aquiles Priester's Mapex Saturn Evolution signature setup proves a fully matched all-maple build can match them at the highest level.
 
-**Our Recommendation:** Choose a flagship production kit if you want proven reliability and worldwide support. Choose a custom boutique build once your technique and budget are ready for a fully personalized specification.`,
+**Our Recommendation:** Choose a standard flagship production kit if you want proven reliability and worldwide support. Choose a signature all-maple specification once your technique and budget are ready for a fully personalized tonal profile.`,
       comparisonTable: [
-        { feature: "Brightness/Cut", flagship: "⭐⭐⭐⭐⭐", boutique: "⭐⭐⭐⭐⭐" },
-        { feature: "Customization", flagship: "⭐⭐⭐", boutique: "⭐⭐⭐⭐⭐" },
-        { feature: "Worldwide Support", flagship: "⭐⭐⭐⭐⭐", boutique: "⭐⭐⭐" },
-        { feature: "Price (entry)", flagship: "€2800+", boutique: "€4000+" }
+        { feature: "Brightness/Cut", flagship: "⭐⭐⭐⭐⭐", signature: "⭐⭐⭐⭐⭐" },
+        { feature: "Customization", flagship: "⭐⭐⭐", signature: "⭐⭐⭐⭐⭐" },
+        { feature: "Worldwide Support", flagship: "⭐⭐⭐⭐⭐", signature: "⭐⭐⭐⭐" },
+        { feature: "Price (entry)", flagship: "€2800+", signature: "€4000+" }
       ]
     },
 
@@ -62600,8 +62582,8 @@ Paired with a Sonor Mikkey Dee Signature snare and a DW 5000 Series double pedal
         },
         {
           category: "Best for Neoclassical Speed",
-          pedal: "Trick Drums Custom Maple",
-          reason: "Aquiles Priester's current Angra setup — fully custom projection for sustained extreme double-bass tempos."
+          pedal: "Mapex Saturn Evolution All Maple",
+          reason: "Aquiles Priester's current Angra setup — signature all-maple projection for sustained extreme double-bass tempos."
         },
         {
           category: "Best for Galloping Rhythms",
@@ -62624,7 +62606,7 @@ Paired with a Sonor Mikkey Dee Signature snare and a DW 5000 Series double pedal
     ],
     relatedDrummers: [
       { slug: 'scott-travis', name: 'Scott Travis', reason: 'Tama Starclassic Maple — Judas Priest power metal blueprint' },
-      { slug: 'aquiles-priester', name: 'Aquiles Priester', reason: 'Trick Drums Custom Maple — Angra neoclassical double-bass precision' },
+      { slug: 'aquiles-priester', name: 'Aquiles Priester', reason: 'Mapex Saturn Evolution All Maple — Angra neoclassical double-bass precision' },
       { slug: 'nicko-mcbrain', name: 'Nicko McBrain', reason: 'British Drum Co. — Iron Maiden galloping foundation' },
       { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'Sonor SQ2 — Motörhead/Scorpions touring stamina' }
     ],
@@ -62632,7 +62614,7 @@ Paired with a Sonor Mikkey Dee Signature snare and a DW 5000 Series double pedal
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'scott-travis', name: 'Scott Travis', reason: 'Tama Starclassic Maple — Judas Priest power metal blueprint' },
-      { slug: 'aquiles-priester', name: 'Aquiles Priester', reason: 'Trick Drums Custom Maple — Angra neoclassical double-bass precision' },
+      { slug: 'aquiles-priester', name: 'Aquiles Priester', reason: 'Mapex Saturn Evolution All Maple — Angra neoclassical double-bass precision' },
       { slug: 'nicko-mcbrain', name: 'Nicko McBrain', reason: 'British Drum Co. — Iron Maiden galloping foundation' },
       { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'Sonor SQ2 — Motörhead/Scorpions touring stamina' }
     ],
@@ -62645,7 +62627,7 @@ Paired with a Sonor Mikkey Dee Signature snare and a DW 5000 Series double pedal
       },
       {
         question: "What drum kit does Aquiles Priester use?",
-        answer: "Aquiles Priester currently plays a fully custom Trick Drums maple kit on his 2023 Angra return cycle, paired with a Trick Drums Custom 14\"x6.5\" snare, a full Ufip cymbal setup, and a DW 9000 Series double pedal — a rig built for sustained consistency at his 180-220+ BPM neoclassical double-bass tempos."
+        answer: "Aquiles Priester currently plays his own Mapex Saturn Evolution All Maple signature kit on his 2023 Angra return cycle, paired with a Mapex Saturn Evolution Snare (14\"x6.5\"), a full custom red-coated Paiste cymbal setup, and a DW 9000 Series double pedal — a rig built for sustained consistency at his 180-220+ BPM neoclassical double-bass tempos."
       },
       {
         question: "Does Nicko McBrain use a double pedal?",
@@ -62657,16 +62639,16 @@ Paired with a Sonor Mikkey Dee Signature snare and a DW 5000 Series double pedal
       },
       {
         question: "Do I need an expensive custom kit to play power metal?",
-        answer: "No — a Tama Imperialstar or Sonor AQ2 shell pack will teach real power metal technique at a fraction of the price of Scott Travis's Starclassic or Aquiles Priester's Trick Drums custom build. Upgrade once your technique and budget allow for a professional-tier kit."
+        answer: "No — a Tama Imperialstar or Sonor AQ2 shell pack will teach real power metal technique at a fraction of the price of Scott Travis's Starclassic or Aquiles Priester's Mapex Saturn Evolution signature build. Upgrade once your technique and budget allow for a professional-tier kit."
       }
     ],
 
     // Conclusion
     conclusion: {
       title: "Build Your Power Metal Arsenal",
-      content: `Power metal drum kits have one job above all others: stay bright and articulate at sustained, theatrical high tempo without ever washing out. Scott Travis's Tama Starclassic Maple, Aquiles Priester's Trick Drums custom build, Nicko McBrain's British Drum Co. kit, and Mikkey Dee's Sonor SQ2 each solve that challenge with a different balance of brightness, customization, and touring durability.
+      content: `Power metal drum kits have one job above all others: stay bright and articulate at sustained, theatrical high tempo without ever washing out. Scott Travis's Tama Starclassic Maple, Aquiles Priester's Mapex Saturn Evolution All Maple signature kit, Nicko McBrain's British Drum Co. kit, and Mikkey Dee's Sonor SQ2 each solve that challenge with a different balance of brightness, customization, and touring durability.
 
-Whether you choose a flagship production kit for proven reliability or a custom boutique build for exact tonal control, remember that power metal's most influential drummers built their sound around foot technique and articulation — not gear alone. Nicko McBrain never touched a double pedal.
+Whether you choose a standard flagship production kit for proven reliability or a signature all-maple specification for exact tonal control, remember that power metal's most influential drummers built their sound around foot technique and articulation — not gear alone. Nicko McBrain never touched a double pedal.
 
 Start where your budget allows — even a Tama Imperialstar or Sonor AQ2 will get you playing real power metal. Prioritize technique and tuning before you chase a custom shell program.
 
@@ -62830,7 +62812,7 @@ Running two full single pedals instead of one double pedal costs more and demand
 
           description: `Aquiles Priester's 2023 Angra return-era rig runs on a DW 9000 Series double pedal, chosen for the sustained consistency his relaxation-based, 180-220+ BPM neoclassical double-bass technique demands. The free-floating rotor design and infinitely adjustable spring tension let Priester dial in exactly the response his technique requires without the tension buildup that creates a speed ceiling for less refined pedals.
 
-Paired with a Trick Drums custom maple kit and a full Ufip cymbal setup, the DW 9000 gives Priester the reliability to sustain extreme tempos across an entire set rather than just short bursts.`,
+Paired with his own Mapex Saturn Evolution All Maple signature kit and a full custom red-coated Paiste cymbal setup, the DW 9000 gives Priester the reliability to sustain extreme tempos across an entire set rather than just short bursts.`,
 
           pros: [
             "Aquiles Priester's current Angra return-era setup — Brazilian power metal's most celebrated drummer",
@@ -74137,14 +74119,14 @@ Start with a single 10" splash voiced to match your existing crash setup, and mo
       title: "A Splash for Power Metal's Most Theatrical Moments",
       content: `Power metal's theatrical, fantasy-themed songwriting swings between galloping double bass, soaring clean vocals, and delicate keyboard-led passages, and a splash cymbal gives a drummer a distinct tonal option for those quieter, more dynamic moments a full-size crash would overpower. At 8" to 12", a splash decays almost instantly, punctuating a single accent hit — a dramatic pause, a syncopated stab before a chorus, a moment of restraint before the next theatrical climax — without washing over the orchestration built up around it.
 
-Scott Travis currently plays Sabian HHX crashes with Judas Priest, a bright, focused voice that traces directly back to "Painkiller" (1990), and a matching HHX splash extends that same cutting brightness down to accent scale for power metal's galloping rhythms. Aquiles Priester runs a full Ufip setup for Angra, and a Ufip splash gives his sustained 180-220+ BPM neoclassical double-bass technique the same tuning consistency at accent size. Nicko McBrain's Paiste Signature crashes have powered Iron Maiden's galloping, triplet-based rhythmic vocabulary the entire European power metal scene built upon, and a matching Signature splash carries that same warm, controlled voicing into a single theatrical accent hit. Mikkey Dee's Paiste 2002 crashes bring European hard rock brightness and touring endurance across Motörhead and Scorpions, extending naturally down to a 2002 splash for the same bright, cutting character.
+Scott Travis currently plays Sabian HHX crashes with Judas Priest, a bright, focused voice that traces directly back to "Painkiller" (1990), and a matching HHX splash extends that same cutting brightness down to accent scale for power metal's galloping rhythms. Aquiles Priester runs a full custom red-coated Paiste setup for Angra, and a Paiste splash gives his sustained 180-220+ BPM neoclassical double-bass technique the same bright, cutting consistency at accent size. Nicko McBrain's Paiste Signature crashes have powered Iron Maiden's galloping, triplet-based rhythmic vocabulary the entire European power metal scene built upon, and a matching Signature splash carries that same warm, controlled voicing into a single theatrical accent hit. Mikkey Dee's Paiste 2002 crashes bring European hard rock brightness and touring endurance across Motörhead and Scorpions, extending naturally down to a 2002 splash for the same bright, cutting character.
 
 This guide breaks down what actually makes a splash work for power metal — brightness, orchestral clarity, and theatrical dynamic range — and recommends specific models across every budget, from a first bright accent cymbal to the exact splashes power metal's most influential drummers play.`,
       keyPoints: [
         "Power metal splashes need to cut through dense keyboard orchestration while handling delicate, dynamically restrained passages",
         "Scott Travis's Sabian HHX-family splash carries a direct lineage back to \"Painkiller,\" power metal's foundational blueprint",
         "Nicko McBrain's Paiste Signature splash and Mikkey Dee's Paiste 2002 splash both deliver the galloping-rhythm brightness the genre's European scene depends on",
-        "Aquiles Priester's Ufip splash is chosen for the same tuning consistency his sustained 180-220+ BPM neoclassical technique demands"
+        "Aquiles Priester's custom red-coated Paiste splash is chosen for the same bright, cutting consistency his sustained 180-220+ BPM neoclassical technique demands"
       ]
     },
 
@@ -74173,7 +74155,7 @@ This guide breaks down what actually makes a splash work for power metal — bri
         {
           name: "Sustained Double-Bass Consistency",
           icon: "🎯",
-          description: "Aquiles Priester's full Ufip setup is chosen specifically for consistency at the sustained 180-220+ BPM double-bass patterns his neoclassical style demands — a splash needs to hold up to relentless, high-tempo playing without losing character.",
+          description: "Aquiles Priester's full custom red-coated Paiste setup is chosen specifically for consistency at the sustained 180-220+ BPM double-bass patterns his neoclassical style demands — a splash needs to hold up to relentless, high-tempo playing without losing character.",
           recommendation: "Durable bronze splashes rated for sustained high-tempo double-bass performance"
         },
         {
@@ -74185,7 +74167,7 @@ This guide breaks down what actually makes a splash work for power metal — bri
         {
           name: "Alloy",
           icon: "⚙️",
-          description: "B20 bronze (Sabian HHX, Ufip) delivers a warmer, more complex brightness, while CuSn8 bronze (Paiste Signature, 2002) delivers a simpler, more direct cutting attack. Budget lines are simpler but a genuinely usable starting point.",
+          description: "B20 bronze (Sabian HHX) delivers a warmer, more complex brightness, while CuSn8 bronze (Paiste Signature, 2002, and Priester's custom red-coated set) delivers a simpler, more direct cutting attack. Budget lines are simpler but a genuinely usable starting point.",
           recommendation: "B20 bronze for complex brightness, CuSn8 bronze for direct cut, budget brass for a real starting point"
         }
       ]
@@ -74305,39 +74287,39 @@ A durable, direct-cutting accent option for power metal drummers whose bands liv
         },
         {
           rank: 4,
-          name: "Ufip Class Splash",
-          brand: "Ufip",
-          model: "Class Series Splash 10\"",
+          name: "Paiste Splash (Custom Red-Coated)",
+          brand: "Paiste",
+          model: "Splash 10\", Custom Red-Coated",
           image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg",
           priceRange: "€120-150",
           tier: "pro",
-          driveType: "B20 Bronze, Natural Finish",
-          description: `Ufip's natural, hand-hammered B20 bronze delivers a warm, complex splash voice with the same tuning consistency behind Aquiles Priester's full Ufip crash setup for Angra.
+          driveType: "CuSn8 Bronze, Custom Red-Coated Finish",
+          description: `Paiste's bright, direct CuSn8 bronze delivers the same cutting splash voice behind Aquiles Priester's full custom red-coated Paiste crash setup for Angra.
 
 That consistency matters most at the sustained 180-220+ BPM double-bass tempos Priester's neoclassical technique demands — a splash needs to hold its character reliably at that pace, not just sound good at a slower tempo.`,
           pros: [
-            "Warm, complex B20 bronze voicing consistent with Aquiles Priester's Ufip crash setup",
-            "Hand-hammered construction with genuine tonal character",
+            "Bright, direct CuSn8 bronze voicing consistent with Aquiles Priester's custom red-coated Paiste crash setup",
+            "Same cutting attack shared with McBrain's and Dee's Paiste setups",
             "Proven at sustained, high-tempo neoclassical double-bass technique",
-            "A distinctive alternative to the more common Sabian/Paiste/Zildjian families"
+            "Distinctive custom red-coated finish within power metal's Sabian/Paiste-dominated landscape"
           ],
           cons: [
-            "Less widely available than Zildjian, Sabian, or Paiste splashes",
+            "Custom red-coated finish is a special-order option, not a stock line",
             "Premium price point",
             "10\" size limited to accent use, not a crash substitute"
           ],
           specs: {
             diameter: "10\"",
-            alloy: "B20 Bronze",
-            finish: "Natural",
+            alloy: "CuSn8 Bronze",
+            finish: "Custom Red-Coated",
             weight: "Medium-Thin"
           },
           usedBy: [
-            { name: "Aquiles Priester", band: "Angra", note: "Class-family splash alongside his full Ufip crash rig" }
+            { name: "Aquiles Priester", band: "Angra", note: "Custom red-coated Paiste splash alongside his full Paiste crash rig" }
           ],
-          verdict: "The most distinctive splash here, matching Aquiles Priester's sustained, high-tempo Ufip setup.",
+          verdict: "The most visually distinctive splash here, matching Aquiles Priester's sustained, high-tempo custom red-coated Paiste setup.",
           rating: 4.4,
-          affiliateLink: "https://www.thomann.de/intl/ufip_class_splash_10.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/paiste_splash_10_custom_priester.htm?partner_id=metalforge"
         }
       ]
     },
@@ -74418,19 +74400,19 @@ That consistency matters most at the sustained 180-220+ BPM double-bass tempos P
       title: "Bright/Cutting vs Warm/Controlled Splash Voicing",
       content: `Splash cymbals for power metal generally split into two tonal camps:
 
-**Bright/Cutting Splashes (Sabian HHX, Paiste 2002):**
+**Bright/Cutting Splashes (Sabian HHX, Paiste 2002, Priester's custom red-coated Paiste):**
 - Sharp, direct attack that punches through dense keyboard orchestration and soaring vocals
-- Favored by drummers like Scott Travis and Mikkey Dee for maximum cut in a live festival mix
+- Favored by drummers like Scott Travis, Mikkey Dee, and Aquiles Priester for maximum cut in a live or sustained high-tempo mix
 - Best when you need the splash to stand out distinctly from a busy, layered arrangement
 
-**Warm/Controlled Splashes (Paiste Signature, Ufip):**
+**Warm/Controlled Splashes (Paiste Signature):**
 - A more restrained, musical voicing that blends into a theatrical arrangement rather than dominating it
-- Favored by drummers like Nicko McBrain and Aquiles Priester for genuinely compositional, dynamically varied use
+- Favored by drummers like Nicko McBrain for genuinely compositional, dynamically varied use
 - Best when your setup already runs bright and needs a touch of warmth for contrast
 
-**The Truth:** Neither voicing is objectively better — it depends on how bright your existing crash and keyboard-heavy mix already runs. Drummers touring festival stages with a dense live mix often prefer a brighter splash for cut, while drummers prioritizing theatrical, compositional dynamics lean toward a warmer, more controlled voice.
+**The Truth:** Neither voicing is objectively better — it depends on how bright your existing crash and keyboard-heavy mix already runs. Drummers touring festival stages with a dense live mix or playing sustained high-tempo technical material often prefer a brighter splash for cut, while drummers prioritizing theatrical, compositional dynamics lean toward a warmer, more controlled voice.
 
-**Our Recommendation:** If your live mix already runs bright and dense, add a Paiste Signature or Ufip splash for contrast. If your setup runs warmer overall, a Sabian HHX or Paiste 2002 splash will make sure your accents still cut.`,
+**Our Recommendation:** If your live mix already runs bright and dense, add a Paiste Signature splash for contrast. If your setup runs warmer overall or you need consistency at extreme tempo, a Sabian HHX, Paiste 2002, or custom red-coated Paiste splash will make sure your accents still cut.`,
       comparisonTable: [
         { feature: "Cut Through Dense Mix", directDrive: "⭐⭐⭐⭐⭐", chainDrive: "⭐⭐⭐" },
         { feature: "Theatrical, Compositional Blend", directDrive: "⭐⭐⭐", chainDrive: "⭐⭐⭐⭐⭐" },
@@ -74492,7 +74474,7 @@ That consistency matters most at the sustained 180-220+ BPM double-bass tempos P
       },
       {
         question: "Should a power metal splash be bright or warm?",
-        answer: "It depends on your existing mix. A bright splash (Sabian HHX, Paiste 2002) cuts through a dense, festival-scale live mix like Scott Travis's and Mikkey Dee's, while a warmer splash (Paiste Signature, Ufip) blends into theatrical, compositional arrangements like Nicko McBrain's and Aquiles Priester's."
+        answer: "It depends on your existing mix. A bright splash (Sabian HHX, Paiste 2002, or Aquiles Priester's custom red-coated Paiste) cuts through a dense, festival-scale live mix or sustained high-tempo material like Scott Travis's, Mikkey Dee's, and Priester's, while a warmer splash (Paiste Signature) blends into theatrical, compositional arrangements like Nicko McBrain's."
       },
       {
         question: "What's the difference between a splash and a crash cymbal?",
@@ -80652,7 +80634,7 @@ Budget shouldn't stop you either. A Pearl Demonator or Tama Iron Cobra 600 will 
     // SEO metadata
     title: "Best Snare Drums for Power Metal: 2026 Ultimate Guide",
     metaTitle: "Best Snare Drums for Power Metal 2026 | MetalForge Expert Guide",
-    description: "Best snare drums for power metal drumming: what Scott Travis (Tama Starphonic Brass), Aquiles Priester (Trick Drums Custom), Nicko McBrain (Sonor Signature), and Mikkey Dee (Pearl Free-Floating) actually play. Bright, cutting projection for power metal's soaring, high-tempo anthems — ranked budget to pro.",
+    description: "Best snare drums for power metal drumming: what Scott Travis (Tama Starphonic Brass), Aquiles Priester (Mapex Saturn Evolution Snare), Nicko McBrain (Sonor Signature), and Mikkey Dee (Pearl Free-Floating) actually play. Bright, cutting projection for power metal's soaring, high-tempo anthems — ranked budget to pro.",
     seoKeywords: [
       'best snare drums for power metal',
       'power metal snare drum',
@@ -80689,12 +80671,12 @@ Budget shouldn't stop you either. A Pearl Demonator or Tama Iron Cobra 600 will 
       title: "Why Power Metal Needs a Bright, Cutting Snare",
       content: `Power metal's soaring vocal melodies, galloping riffs, and sustained double-bass patterns need a snare that cuts through a dense, often orchestral or keyboard-heavy mix without ever sounding harsh. That means power metal drummers generally favor brighter, more cutting tones than doom or sludge metal's deep, resonant approach — a snare voice built to punctuate anthemic choruses and stay articulate at high tempos.
 
-Scott Travis has run a Tama Starphonic Brass 14"x6" snare since returning to Tama for Judas Priest's "Firepower" (2018), carrying through to "Invincible Shield" (2024). Aquiles Priester's Trick Drums Custom 14"x6.5" snare gives Angra's neoclassical, high-tempo material its cutting attack. Nicko McBrain's Sonor Nicko McBrain Signature 14"x6.5" snare has anchored Iron Maiden's galloping anthems from "Virtual XI" (1998) through "Senjutsu" (2021). Mikkey Dee's Pearl Free-Floating 14"x6.5" snare, alternating steel and maple shells, carried 23 years with Motörhead and now Scorpions.
+Scott Travis has run a Tama Starphonic Brass 14"x6" snare since returning to Tama for Judas Priest's "Firepower" (2018), carrying through to "Invincible Shield" (2024). Aquiles Priester's Mapex Saturn Evolution Snare, 14"x6.5", gives Angra's neoclassical, high-tempo material its cutting attack. Nicko McBrain's Sonor Nicko McBrain Signature 14"x6.5" snare has anchored Iron Maiden's galloping anthems from "Virtual XI" (1998) through "Senjutsu" (2021). Mikkey Dee's Pearl Free-Floating 14"x6.5" snare, alternating steel and maple shells, carried 23 years with Motörhead and now Scorpions.
 
 This guide breaks down shell material, brightness, and projection for power metal snares — comparing four drummers whose setups define the genre's cutting, anthemic sound, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
         "Scott Travis's Tama Starphonic Brass snare has anchored Judas Priest since \"Firepower\" (2018)",
-        "Aquiles Priester's Trick Drums Custom snare cuts through Angra's neoclassical, high-tempo material",
+        "Aquiles Priester's Mapex Saturn Evolution Snare cuts through Angra's neoclassical, high-tempo material",
         "Nicko McBrain's Sonor Signature snare has powered Iron Maiden's galloping anthems since 1998",
         "Bright, cutting brass and steel shells dominate power metal, prioritizing projection over deep resonance"
       ]
@@ -80713,7 +80695,7 @@ This guide breaks down shell material, brightness, and projection for power meta
         {
           name: "Consistent Projection at High Tempos",
           icon: "🚀",
-          description: "Aquiles Priester's Trick Drums Custom snare needs to stay articulate through Angra's sustained 180-220+ BPM double-bass passages — a snare that loses definition at speed will get buried under galloping, high-tempo riffing.",
+          description: "Aquiles Priester's Mapex Saturn Evolution Snare needs to stay articulate through Angra's sustained 180-220+ BPM double-bass passages — a snare that loses definition at speed will get buried under galloping, high-tempo riffing.",
           recommendation: "A snare with consistent response at sustained high tempos, not just single accented hits"
         },
         {
@@ -80869,43 +80851,42 @@ Dee's alternating-shell approach shows how a versatile free-floating platform ca
         },
         {
           rank: 4,
-          name: "Trick Drums Custom",
-          brand: "Trick Drums",
-          model: "Custom 14\"x6.5\"",
+          name: "Mapex Saturn Evolution Snare",
+          brand: "Mapex",
+          model: "Saturn Evolution 14\"x6.5\"",
           image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Drums_01.jpg",
           priceRange: "€500-650",
           tier: "premium",
-          material: "Aluminum/Steel Custom (14x6.5\")",
+          material: "All Maple (14x6.5\")",
 
-          description: `Aquiles Priester's Trick Drums Custom 14"x6.5" snare gives Angra's neoclassical, high-tempo material its cutting attack, staying articulate through the band's sustained 180-220+ BPM double-bass passages. Priester paired this custom snare with his Trick Drums kit and Ufip cymbals since his 2023 return to Angra, giving the band's most technically demanding material consistent, high-speed projection.
+          description: `Aquiles Priester's Mapex Saturn Evolution Snare, 14"x6.5", gives Angra's neoclassical, high-tempo material its cutting attack, staying articulate through the band's sustained 180-220+ BPM double-bass passages. Priester paired this snare with his own Mapex Saturn Evolution All Maple kit and custom red-coated Paiste cymbals since his 2023 return to Angra, giving the band's most technically demanding material consistent, high-speed projection.
 
-The custom aluminum/steel construction is built specifically for drummers who need a snare that won't lose definition even at power metal's most extreme sustained tempos.`,
+The all-maple construction is built specifically for drummers who need a snare that won't lose definition even at power metal's most extreme sustained tempos.`,
 
           pros: [
             "Aquiles Priester's current Angra setup — cutting attack for neoclassical, high-tempo material",
-            "Custom aluminum/steel construction built for sustained high-speed consistency",
+            "All-maple construction built for sustained high-speed consistency",
             "6.5\" depth adds body without sacrificing articulation at speed",
             "Proven across Angra's most technically demanding recordings",
-            "Trick Drums known for exceptional hardware precision"
+            "Matches Priester's full Mapex Saturn Evolution kit for a consistent tonal voice"
           ],
           cons: [
-            "Custom builds carry premium pricing and longer lead times",
-            "Less widely stocked than mass-production alternatives",
-            "Niche brand can mean harder-to-find replacement parts"
+            "Signature-spec builds carry premium pricing and longer lead times",
+            "Less widely stocked than mass-production alternatives"
           ],
           specs: {
-            shell: "Aluminum/Steel Custom",
+            shell: "All Maple",
             diameter: "14\"",
             depth: "6.5\"",
-            throwOff: "Trick Custom",
+            throwOff: "Mapex Standard",
             wires: "20-strand"
           },
           usedBy: [
-            { name: "Aquiles Priester", band: "Angra", note: "14x6.5\" Trick Drums Custom — cutting attack at sustained high tempos" }
+            { name: "Aquiles Priester", band: "Angra", note: "14x6.5\" Mapex Saturn Evolution Snare — cutting attack at sustained high tempos" }
           ],
           verdict: "Best for neoclassical, high-tempo power metal. Stays articulate through sustained double-bass passages.",
           rating: 4.5,
-          affiliateLink: "https://www.thomann.de/intl/trick_drums_custom_snare.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/mapex_saturn_evolution_snare.htm?partner_id=metalforge"
         }
       ]
     },
@@ -81010,7 +80991,7 @@ The custom aluminum/steel construction is built specifically for drummers who ne
     ],
     relatedDrummers: [
       { slug: 'scott-travis', name: 'Scott Travis', reason: 'Tama Starphonic Brass — Judas Priest bright, cutting projection' },
-      { slug: 'aquiles-priester', name: 'Aquiles Priester', reason: 'Trick Drums Custom — Angra neoclassical high-tempo attack' },
+      { slug: 'aquiles-priester', name: 'Aquiles Priester', reason: 'Mapex Saturn Evolution Snare — Angra neoclassical high-tempo attack' },
       { slug: 'nicko-mcbrain', name: 'Nicko McBrain', reason: 'Sonor Signature — Iron Maiden galloping anthem projection' },
       { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'Pearl Free-Floating — Motörhead/Scorpions versatile touring pedigree' }
     ],
@@ -81018,7 +80999,7 @@ The custom aluminum/steel construction is built specifically for drummers who ne
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'scott-travis', name: 'Scott Travis', reason: 'Tama Starphonic Brass — Judas Priest bright, cutting projection' },
-      { slug: 'aquiles-priester', name: 'Aquiles Priester', reason: 'Trick Drums Custom — Angra neoclassical high-tempo attack' },
+      { slug: 'aquiles-priester', name: 'Aquiles Priester', reason: 'Mapex Saturn Evolution Snare — Angra neoclassical high-tempo attack' },
       { slug: 'nicko-mcbrain', name: 'Nicko McBrain', reason: 'Sonor Signature — Iron Maiden galloping anthem projection' },
       { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'Pearl Free-Floating — Motörhead/Scorpions versatile touring pedigree' }
     ],
@@ -81027,7 +81008,7 @@ The custom aluminum/steel construction is built specifically for drummers who ne
     faq: [
       {
         question: "Who are the best power metal drummers and what snares do they use?",
-        answer: "Scott Travis of Judas Priest plays a Tama Starphonic Brass 14x6\" snare, Aquiles Priester of Angra plays a Trick Drums Custom 14x6.5\" snare, Nicko McBrain of Iron Maiden plays a Sonor Signature 14x6.5\" snare, and Mikkey Dee of Motörhead/Scorpions plays a Pearl Free-Floating 14x6.5\" snare alternating steel and maple shells."
+        answer: "Scott Travis of Judas Priest plays a Tama Starphonic Brass 14x6\" snare, Aquiles Priester of Angra plays a Mapex Saturn Evolution Snare 14x6.5\", Nicko McBrain of Iron Maiden plays a Sonor Signature 14x6.5\" snare, and Mikkey Dee of Motörhead/Scorpions plays a Pearl Free-Floating 14x6.5\" snare alternating steel and maple shells."
       },
       {
         question: "What snare drum does Scott Travis use?",
@@ -81050,7 +81031,7 @@ The custom aluminum/steel construction is built specifically for drummers who ne
     // Conclusion
     conclusion: {
       title: "Find Your Power Metal Snare Voice",
-      content: `Power metal snare choice comes down to how bright and cutting you need your projection to be against dense, anthemic arrangements. Scott Travis's brass-shell Tama Starphonic has defined Judas Priest's modern touring era with maximum cut. Nicko McBrain's Sonor Signature snare has powered Iron Maiden's galloping anthems for decades, while Mikkey Dee's alternating steel/maple Pearl Free-Floating shows the tonal flexibility that carried him through 23 years with Motörhead and into Scorpions. Aquiles Priester's custom Trick Drums snare rounds things out, staying articulate through Angra's most extreme sustained tempos.
+      content: `Power metal snare choice comes down to how bright and cutting you need your projection to be against dense, anthemic arrangements. Scott Travis's brass-shell Tama Starphonic has defined Judas Priest's modern touring era with maximum cut. Nicko McBrain's Sonor Signature snare has powered Iron Maiden's galloping anthems for decades, while Mikkey Dee's alternating steel/maple Pearl Free-Floating shows the tonal flexibility that carried him through 23 years with Motörhead and into Scorpions. Aquiles Priester's Mapex Saturn Evolution Snare rounds things out, staying articulate through Angra's most extreme sustained tempos.
 
 None of these approaches is more "correct" — all four represent power metal's foundational commitment to bright, cutting projection that carves through dense, layered arrangements. Start with whichever shell material matches your material's density, and don't be afraid to tune brighter and tighter than doom or sludge metal convention would suggest.
 
@@ -87115,7 +87096,7 @@ Whatever you choose, prioritize consistent chick response and dynamic range over
     // SEO metadata
     title: "Best Hi-Hats for Power Metal: 2026 Ultimate Guide",
     metaTitle: "Best Hi-Hats for Power Metal 2026 | MetalForge Expert Guide",
-    description: "What hi-hats are used in power metal? Discover what Scott Travis, Aquiles Priester, Nicko McBrain, and Mikkey Dee actually play — Sabian HHX Groove, Ufip Class, and Paiste Signature & 2002 — from budget to pro, built for galloping precision.",
+    description: "What hi-hats are used in power metal? Discover what Scott Travis, Aquiles Priester, Nicko McBrain, and Mikkey Dee actually play — Sabian HHX Groove, Paiste custom red-coated, and Paiste Signature & 2002 — from budget to pro, built for galloping precision.",
     seoKeywords: [
       'best hi-hats for power metal',
       'power metal hi-hats',
@@ -87124,7 +87105,7 @@ Whatever you choose, prioritize consistent chick response and dynamic range over
       'nicko mcbrain hi-hats iron maiden',
       'mikkey dee hi-hats motorhead scorpions',
       'sabian hhx groove hi-hats power metal',
-      'ufip class hi-hats power metal',
+      'paiste custom red-coated hi-hats power metal',
       'hi-hats for galloping rhythms',
       'power metal drummer hi-hat setup'
     ],
@@ -87152,12 +87133,12 @@ Whatever you choose, prioritize consistent chick response and dynamic range over
       title: "What Hi-Hats Are Used in Power Metal?",
       content: `Power metal's galloping, triplet-based rhythmic vocabulary and theatrical, keyboard-orchestrated arrangements demand a hi-hat that stays bright and clearly articulate rather than blurring into wash. A hi-hat that washes out under a galloping pattern buries the very rhythmic feel power metal's European scene was built on.
 
-Scott Travis currently plays Sabian HHX Groove Hi-Hats with Judas Priest, a bright, articulate pair that carries directly from his galvanizing "Painkiller" (1990) performance — the album that became a direct blueprint for the entire European power metal movement. Aquiles Priester runs Ufip Class Hi-Hats on his current Angra return cycle, chosen for the warmer, more complex consistency his sustained 180-220+ BPM neoclassical double-bass patterns demand. Nicko McBrain's Paiste Signature Hi-Hats have powered Iron Maiden's galloping, triplet-based rhythmic vocabulary that power metal's entire European scene directly built upon, while Mikkey Dee's Paiste 2002 Hi-Hats bring European hard rock cutting power and touring endurance across Motörhead and Scorpions.
+Scott Travis currently plays Sabian HHX Groove Hi-Hats with Judas Priest, a bright, articulate pair that carries directly from his galvanizing "Painkiller" (1990) performance — the album that became a direct blueprint for the entire European power metal movement. Aquiles Priester runs hi-hats from his custom red-coated Paiste set on his current Angra return cycle, chosen for the bright, cutting consistency his sustained 180-220+ BPM neoclassical double-bass patterns demand. Nicko McBrain's Paiste Signature Hi-Hats have powered Iron Maiden's galloping, triplet-based rhythmic vocabulary that power metal's entire European scene directly built upon, while Mikkey Dee's Paiste 2002 Hi-Hats bring European hard rock cutting power and touring endurance across Motörhead and Scorpions.
 
-This guide compares Sabian HHX, Ufip, and Paiste Signature/2002 hi-hats for power metal — breaking down what each of these four influential drummers plays and why, with recommendations across every budget.`,
+This guide compares Sabian HHX and Paiste Signature/2002/custom hi-hats for power metal — breaking down what each of these four influential drummers plays and why, with recommendations across every budget.`,
       keyPoints: [
         "Sabian HHX Groove Hi-Hats give Scott Travis the bright, articulate cut that defined power metal's speed-and-precision blueprint on \"Painkiller\"",
-        "Aquiles Priester's Ufip Class Hi-Hats support sustained neoclassical double-bass patterns with a warmer, more complex voice",
+        "Aquiles Priester's custom red-coated Paiste hi-hats support sustained neoclassical double-bass patterns with a bright, cutting voice",
         "Nicko McBrain's Paiste Signature Hi-Hats and Mikkey Dee's Paiste 2002 Hi-Hats both deliver the galloping-rhythm brightness power metal's European scene depends on",
         "14\" bright, cutting hi-hats dominate power metal, prioritizing theatrical presence over dry, controlled sustain"
       ]
@@ -87182,8 +87163,8 @@ This guide compares Sabian HHX, Ufip, and Paiste Signature/2002 hi-hats for powe
         {
           name: "Sustained Double-Bass Consistency",
           icon: "🎯",
-          description: "Aquiles Priester's Ufip Class Hi-Hats are chosen specifically for consistency at the sustained 180-220+ BPM double-bass patterns his neoclassical style demands — a hi-hat needs to hold up to relentless, high-tempo foot work without losing character.",
-          recommendation: "Durable B20 bronze hi-hats rated for sustained high-tempo double-bass performance"
+          description: "Aquiles Priester's custom red-coated Paiste Hi-Hats are chosen specifically for consistency at the sustained 180-220+ BPM double-bass patterns his neoclassical style demands — a hi-hat needs to hold up to relentless, high-tempo foot work without losing character.",
+          recommendation: "Durable CuSn8 bronze hi-hats rated for sustained high-tempo double-bass performance"
         },
         {
           name: "Touring Endurance",
@@ -87198,10 +87179,10 @@ This guide compares Sabian HHX, Ufip, and Paiste Signature/2002 hi-hats for powe
           recommendation: "A hi-hat with a wide dynamic range from quiet patterns to loud accents"
         },
         {
-          name: "Warmth vs Brightness",
+          name: "Finish and Visual Identity",
           icon: "⚖️",
-          description: "Aquiles Priester's Italian-made Ufip Class Hi-Hats give a warmer, more complex voicing than the brighter Sabian HHX or Paiste alternatives — proof power metal's cymbal requirements have room for a different tonal character at the highest level.",
-          recommendation: "Ufip-style warmth for a distinctive voice; Sabian/Paiste brightness for the classic gallop sound"
+          description: "Aquiles Priester's custom red-coated Paiste Hi-Hats give the same bright CuSn8 cutting attack as Sabian HHX or standard Paiste alternatives, with a distinctive finish that sets his rig apart visually — proof power metal's cymbal requirements can be personalized without sacrificing the genre's brightness standard.",
+          recommendation: "Bright CuSn8 or B20 hi-hats across the board; a custom finish like Priester's for visual distinction"
         }
       ]
     },
@@ -87231,7 +87212,7 @@ HammerFall, Blind Guardian, and countless power metal bands cite "Painkiller" as
             "Proven across Judas Priest's most influential and recent recordings"
           ],
           cons: [
-            "Brighter voicing less warm than Ufip's Italian character",
+            "B20 voicing character differs from Paiste's CuSn8 alternatives",
             "Premium Sabian HHX pricing",
             "Less raw aggression than a heavier, darker alternative"
           ],
@@ -87251,42 +87232,41 @@ HammerFall, Blind Guardian, and countless power metal bands cite "Painkiller" as
         },
         {
           rank: 2,
-          name: "Ufip Class Hi-Hats",
-          brand: "Ufip",
-          model: "Class Hi-Hats 14\"",
+          name: "Paiste Hi-Hats (Custom Red-Coated)",
+          brand: "Paiste",
+          model: "Hi-Hats 14\", Custom Red-Coated",
           image: "https://upload.wikimedia.org/wikipedia/commons/a/a3/Toms%2C_hi-hat%2C_snare.jpg",
           priceRange: "€220-290 per pair",
           tier: "pro",
-          material: "B20 Bronze, Italian",
+          material: "CuSn8 Bronze, Custom Red-Coated",
 
-          description: `Aquiles Priester runs Ufip Class Hi-Hats on his current Angra return cycle, chosen for the warmer, more complex consistency his sustained 180-220+ BPM neoclassical double-bass patterns demand. The Italian-made B20 construction gives a distinctive voice compared to the brighter Sabian or Paiste alternatives more common across the genre.
+          description: `Aquiles Priester runs hi-hats from his custom red-coated Paiste set on his current Angra return cycle, chosen for the bright, cutting consistency his sustained 180-220+ BPM neoclassical double-bass patterns demand. The bright CuSn8 construction delivers the same cutting attack that defines Nicko McBrain's and Mikkey Dee's Paiste setups, with a distinctive red-coated finish that sets Priester's rig apart visually.
 
-Priester's choice proves power metal's hi-hat requirements have room for a warmer, more complex tonal character alongside the genre's more common bright, cutting standard.`,
+Priester's choice proves power metal's brightest cymbal family can be personalized with a custom finish without sacrificing the genre's cutting standard.`,
 
           pros: [
-            "Aquiles Priester's current Angra setup — a distinctive, warmer alternative to the genre's brighter standard",
+            "Aquiles Priester's current Angra setup — a visually distinctive custom finish on the genre's brightest cymbal family",
             "Consistent response at sustained 180-220+ BPM double-bass tempos",
-            "Warmer, more complex Italian B20 character",
+            "Bright, direct CuSn8 attack shared with McBrain's and Dee's Paiste setups",
             "Proven across Angra's technically demanding neoclassical catalog"
           ],
           cons: [
-            "Less widely available than Sabian or Paiste in some markets",
-            "Warmer voicing less cutting than Sabian HHX for pure gallop articulation",
-            "Premium Italian craftsmanship pricing"
+            "Custom red-coated finish is a special-order option, not a stock line",
+            "Premium pricing for the custom finish"
           ],
           specs: {
-            material: "B20 Bronze",
-            finish: "Natural",
+            material: "CuSn8 Bronze",
+            finish: "Custom Red-Coated",
             weight: "Medium",
             diameter: "14\"",
-            series: "Class"
+            series: "Custom"
           },
           usedBy: [
-            { name: "Aquiles Priester", band: "Angra", note: "14\" Class Hi-Hats — sustained neoclassical double-bass consistency" }
+            { name: "Aquiles Priester", band: "Angra", note: "14\" Paiste Hi-Hats, custom red-coated — sustained neoclassical double-bass consistency" }
           ],
-          verdict: "Best for a warmer, more complex power metal hi-hat voice. Priester's setup proves the genre has room beyond bright and cutting.",
+          verdict: "Best for a visually distinctive power metal hi-hat voice. Priester's custom red-coated Paiste setup proves personalization doesn't cost brightness.",
           rating: 4.6,
-          affiliateLink: "https://www.thomann.de/intl/ufip_class_hi_hats_priester.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/paiste_hi_hats_14_custom_priester.htm?partner_id=metalforge"
         },
         {
           rank: 3,
@@ -87310,7 +87290,6 @@ McBrain's setup is arguably the single most influential hi-hat sound in power me
           ],
           cons: [
             "Premium Paiste Signature pricing",
-            "Less warm/complex than Ufip's Italian character",
             "CuSn8 alloy feels different from B20 alternatives, requiring adjustment"
           ],
           specs: {
@@ -87349,7 +87328,6 @@ Dee's setup shows power metal's hi-hat requirements scale down to a more accessi
           ],
           cons: [
             "Less directly power metal-specific than Travis's or McBrain's setups",
-            "Warmer complexity of Ufip Class not present here",
             "Mid-tier pricing sits between budget and ultra-premium options"
           ],
           specs: {
@@ -87407,25 +87385,25 @@ Dee's setup shows power metal's hi-hat requirements scale down to a more accessi
 
     // Comparison
     comparison: {
-      title: "Bright vs Warm Hi-Hats for Power Metal",
+      title: "Sabian HHX vs Paiste Hi-Hats for Power Metal",
       content: `Power metal's hi-hat choices split into two camps, defined by the genre's most influential drummers:
 
-**Bright & Cutting (Sabian HHX Groove — Scott Travis; Paiste Signature — Nicko McBrain; Paiste 2002 — Mikkey Dee):**
-- Sharp, articulate attack that cuts through theatrical, keyboard-orchestrated arrangements
+**Sabian HHX Groove (Scott Travis):**
+- Sharp, articulate B20 bronze attack that cuts through theatrical, keyboard-orchestrated arrangements
+- Direct lineage to power metal's foundational "Painkiller" blueprint
 - Excellent clarity for galloping triplet patterns
+
+**Paiste Signature, 2002 & Custom (Nicko McBrain, Mikkey Dee, Aquiles Priester):**
+- Bright, articulate CuSn8 bronze attack
 - The genre's dominant, most widely heard tonal standard
+- Priester's custom red-coated finish proves the same bright Paiste attack holds up at sustained, extreme neoclassical tempos while standing apart visually
 
-**Warm & Complex (Ufip Class — Aquiles Priester's choice):**
-- Warmer, more complex Italian B20 character
-- Consistent under sustained, high-tempo neoclassical double-bass patterns
-- A distinctive alternative for drummers wanting to stand apart tonally
-
-**Power Metal Verdict:** Choose bright and cutting (Sabian HHX Groove, Paiste Signature, or Paiste 2002) if you want the genre's dominant galloping-rhythm standard. Choose warm and complex (Ufip Class) if you want Aquiles Priester's distinctive, neoclassical-informed alternative.`,
+**Power Metal Verdict:** Choose Sabian HHX Groove for the classic, foundational "Painkiller" blueprint. Choose Paiste — Signature, 2002, or a custom finish like Priester's — for the genre's dominant galloping-rhythm standard and sustained neoclassical consistency alike.`,
       comparisonTable: [
-        { feature: "Gallop Articulation", birch: "⭐⭐⭐⭐⭐", maple: "⭐⭐⭐⭐" },
-        { feature: "Tonal Warmth", birch: "⭐⭐⭐", maple: "⭐⭐⭐⭐⭐" },
-        { feature: "Power Metal Tradition", birch: "⭐⭐⭐⭐⭐", maple: "⭐⭐⭐⭐" },
-        { feature: "Price (entry)", birch: "€180+", maple: "€220+" }
+        { feature: "Gallop Articulation", sabian: "⭐⭐⭐⭐⭐", paiste: "⭐⭐⭐⭐⭐" },
+        { feature: "Sustained Tempo Consistency", sabian: "⭐⭐⭐⭐", paiste: "⭐⭐⭐⭐⭐" },
+        { feature: "Power Metal Tradition", sabian: "⭐⭐⭐⭐⭐", paiste: "⭐⭐⭐⭐⭐" },
+        { feature: "Price (entry)", sabian: "€180+", paiste: "€180+" }
       ]
     },
 
@@ -87444,9 +87422,9 @@ Dee's setup shows power metal's hi-hat requirements scale down to a more accessi
           reason: "Nicko McBrain's Iron Maiden setup — the rhythmic root power metal's European scene built upon."
         },
         {
-          category: "Best for Warmth & Complexity",
-          pedal: "Ufip Class Hi-Hats",
-          reason: "Aquiles Priester's Angra setup — a distinctive, neoclassical-informed alternative."
+          category: "Best for Visual Distinction & Neoclassical Consistency",
+          pedal: "Paiste Hi-Hats (Custom Red-Coated)",
+          reason: "Aquiles Priester's Angra setup — bright, cutting consistency in a distinctive custom finish."
         },
         {
           category: "Best Budget",
@@ -87465,7 +87443,7 @@ Dee's setup shows power metal's hi-hat requirements scale down to a more accessi
     ],
     relatedDrummers: [
       { slug: 'scott-travis', name: 'Scott Travis', reason: 'Sabian HHX Groove Hi-Hats — Judas Priest\'s \"Painkiller\" lineage' },
-      { slug: 'aquiles-priester', name: 'Aquiles Priester', reason: 'Ufip Class Hi-Hats — Angra\'s neoclassical double-bass consistency' },
+      { slug: 'aquiles-priester', name: 'Aquiles Priester', reason: 'Paiste Hi-Hats (Custom Red-Coated) — Angra\'s neoclassical double-bass consistency' },
       { slug: 'nicko-mcbrain', name: 'Nicko McBrain', reason: 'Paiste Signature Hi-Hats — Iron Maiden\'s galloping triplet foundation' },
       { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'Paiste 2002 Hi-Hats — Motörhead/Scorpions touring endurance' }
     ],
@@ -87473,7 +87451,7 @@ Dee's setup shows power metal's hi-hat requirements scale down to a more accessi
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'scott-travis', name: 'Scott Travis', reason: 'Sabian HHX Groove Hi-Hats — Judas Priest\'s \"Painkiller\" lineage' },
-      { slug: 'aquiles-priester', name: 'Aquiles Priester', reason: 'Ufip Class Hi-Hats — Angra\'s neoclassical double-bass consistency' },
+      { slug: 'aquiles-priester', name: 'Aquiles Priester', reason: 'Paiste Hi-Hats (Custom Red-Coated) — Angra\'s neoclassical double-bass consistency' },
       { slug: 'nicko-mcbrain', name: 'Nicko McBrain', reason: 'Paiste Signature Hi-Hats — Iron Maiden\'s galloping triplet foundation' }
     ],
     relatedComparisons: [],
@@ -87482,7 +87460,7 @@ Dee's setup shows power metal's hi-hat requirements scale down to a more accessi
     faq: [
       {
         question: "What hi-hats are used in power metal?",
-        answer: "Scott Travis of Judas Priest plays Sabian HHX Groove Hi-Hats. Aquiles Priester of Angra plays Ufip Class Hi-Hats for a warmer, more complex voice. Nicko McBrain of Iron Maiden plays Paiste Signature Hi-Hats, and Mikkey Dee of Motörhead/Scorpions plays Paiste 2002 Hi-Hats."
+        answer: "Scott Travis of Judas Priest plays Sabian HHX Groove Hi-Hats. Aquiles Priester of Angra plays hi-hats from his custom red-coated Paiste set. Nicko McBrain of Iron Maiden plays Paiste Signature Hi-Hats, and Mikkey Dee of Motörhead/Scorpions plays Paiste 2002 Hi-Hats."
       },
       {
         question: "What hi-hats does Nicko McBrain use?",
@@ -87497,17 +87475,17 @@ Dee's setup shows power metal's hi-hat requirements scale down to a more accessi
         answer: "14\" is the standard power metal hi-hat size, used by Scott Travis, Aquiles Priester, Nicko McBrain, and Mikkey Dee alike. It balances bright, cutting projection with the articulate response galloping triplet patterns demand."
       },
       {
-        question: "Bright or warm hi-hats for power metal?",
-        answer: "Both work at the highest level. Bright hi-hats (Sabian HHX Groove, Travis's choice; Paiste Signature, McBrain's choice; Paiste 2002, Dee's choice) suit the genre's dominant galloping-rhythm standard. Warm hi-hats (Ufip Class, Priester's choice) offer a distinctive, neoclassical-informed alternative for drummers wanting a different tonal character."
+        question: "Sabian HHX or Paiste hi-hats for power metal?",
+        answer: "Both work at the highest level. Sabian HHX Groove (Travis's choice) offers a B20 bronze attack with direct lineage to power metal's foundational \"Painkiller\" blueprint. Paiste (Signature for McBrain, 2002 for Dee, and a custom red-coated finish for Priester) delivers the genre's dominant bright CuSn8 galloping-rhythm standard, with Priester's custom finish proving it holds up at sustained neoclassical tempos too."
       }
     ],
 
     // Conclusion
     conclusion: {
       title: "Find Your Power Metal Hi-Hat Voice",
-      content: `Power metal hi-hats come down to a proven, bright and cutting standard — the sound Scott Travis, Nicko McBrain, and Mikkey Dee all build their setups around — with Aquiles Priester's warmer Ufip Class Hi-Hats offering a distinctive alternative for drummers chasing neoclassical complexity.
+      content: `Power metal hi-hats come down to a proven, bright and cutting standard — the sound Scott Travis, Nicko McBrain, Mikkey Dee, and Aquiles Priester all build their setups around, with Priester's custom red-coated Paiste finish offering a visually distinctive take on that same bright standard.
 
-If you play galloping, triplet-heavy power metal, start with a Sabian HHX Groove pair or the budget AAX Stage — both stay bright and articulate through fast, theatrical arrangements. If you want a warmer, more complex voice, Ufip Class Hi-Hats prove the genre has room beyond its brightest standard.
+If you play galloping, triplet-heavy power metal, start with a Sabian HHX Groove pair or the budget AAX Stage — both stay bright and articulate through fast, theatrical arrangements. If you want to stand out visually while keeping that same bright, cutting attack, a custom-finished Paiste pair like Priester's proves the genre has room for personalization without sacrificing brightness.
 
 Whatever you choose, prioritize clean articulation and dynamic range over flashy features — the hi-hat has to stay defined through power metal's fastest gallops and its most delicate, keyboard-led passages alike.
 
@@ -95154,7 +95132,7 @@ Travis's choice shows power metal's demanding standard doesn't strictly require 
           tier: "pro",
           material: "American Hickory",
 
-          description: `Aquiles Priester of Angra plays a Vater Fusion 5A, matched to the neoclassical double-bass precision his playing requires across Angra's genre-defining catalog. The stick's balanced diameter and consistent rebound keep Priester's rapid, technically demanding patterns tight and controlled alongside his Trick Drums Custom Maple kit.
+          description: `Aquiles Priester of Angra plays a Vater Fusion 5A, matched to the neoclassical double-bass precision his playing requires across Angra's genre-defining catalog. The stick's balanced diameter and consistent rebound keep Priester's rapid, technically demanding patterns tight and controlled alongside his Mapex Saturn Evolution All Maple kit.
 
 Priester's choice reflects power metal's neoclassical lineage — a stick built for precision and consistency across marathon double-bass workouts.`,
 

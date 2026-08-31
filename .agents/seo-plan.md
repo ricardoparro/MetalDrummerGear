@@ -6945,3 +6945,45 @@ All 8 personally grep/sed-verified with exact line citations against both files;
 3. Standing flag (unchanged, now 4 drummers): Mike Mangini, Flo Mounier, Nick Menza, and (newly added this run) **Vinnie Paul** all have `endorsementNews.js`-vs-`extendedBios.js` source conflicts (Vinnie Paul: `extendedBios.js` asserts an unverified "Remo era 1992-1996" not present in `endorsementNews.js`'s Tama→Pearl→ddrum timeline, and 2 prior fixes #5746/#6041 propagated the Remo claim into album articles instead of reconciling it) — needs a founder/CEO ruling on source-of-truth before target-file fixes are safe. Worth a dedicated pass once the backlog drains.
 4. `genreGearGuides.js` continues to be the highest-yield surface (Jay Weinberg + Matt Greiner + Brann Dailor all found there this run) — keep prioritizing it.
 5. Drum-chair rotation: week 36 group 0 (amon-amarth through cynic) — due Monday 2026-08-31.
+
+---
+
+## 2026-08-31 — 14th sweep round: 6 verified gear-fabrication proposals filed (#6547-6552), Monday drum-chair watch clean
+
+### Bank check
+Open `seo-proposal` at run start: 11 (#6528-6535 already CEO-promoted to `ai-fix` per the "cheap pulse" run, + 3 standing umbrellas #3810/#3819/#2211). True untriaged bank: 0. Cleared to file up to 8 net-new.
+
+### Audit summary
+- Robots.txt (live curl, GPTBot UA): all 8 AI crawlers explicitly allowed. ✅
+- `/public/llms/**/*.md`: 2,011 files live, unchanged. ✅
+- Drum-chair watch (first Monday run): bands.js currently has 28 bands (not the ~40 implied by an older note — roster is smaller than assumed). Corrected the rotation to 4 groups of 7; week 36 % 4 = group 0 = angra, anthrax, behemoth, cynic, damageplan, death, deftones. damageplan/death are defunct (fixed historical lineups, skipped). Dispatched a research agent to check the 5 active bands (angra, anthrax, behemoth, cynic, deftones) for drummer-change news in the last 14 days — **zero verified changes, zero fresh candidates**. (Prior note's "amon-amarth through cynic" group boundary doesn't match the current roster — amon-amarth isn't a band in this file; treating the current 28-band alphabetical split as authoritative going forward.)
+
+### This run's sweep
+Dispatched a research agent to follow up the 13th run's 3 carried-over leads (Nicko McBrain/Dave Lombardo/Mike Portnoy album-era mismatches) and widen further. Nicko/Lombardo came back clean (already fully covered by #6249/#6250/#6531/#6532 and the Lombardo fix chain) but Portnoy surfaced one genuinely new bug. Personally re-verified all 6 final candidates via direct `grep`/`sed` against both the fabricating file and `endorsementNews.js`, plus a fresh `gh issue list --state all --search` dedup check each — all 6 checked out:
+
+1. **Hellhammer** — the largest single finding of the whole 14-round sweep so far: **13 `drummerComparisons.js` entries (23 lines)** fabricate Pearl Reference drums + Zildjian A Custom cymbals + Pearl Demon Drive pedal, including 3 lines that get even the *historical* 1994 "De Mysteriis Dom Sathanas" era wrong (verified: developing Sonor endorsement since 1988, not Pearl). Only 2 sibling entries (`hellhammer-vs-inferno`, `frost-vs-hellhammer`) were already fixed by #6465/#6327; these 13 were missed. Filed **#6547**.
+2. **Mike Portnoy** — while investigating the carried-over DW-pedal lead, found the pedal fabrication was the tip of a much bigger bug: `albumArticles/mike-portnoy.js` invents an entire fictitious "Zildjian A Custom (1992) → Sabian HH (1997) → Sabian Artisan (1999)" cymbal-brand evolution narrative across ~15 locations in the file, when `endorsementNews.js` shows continuous Sabian since 1985 (7 years before Images and Words even released) — there was never a Zildjian era. Split into 2 issues by gear field per the established pattern: cymbals (**#6548**, the large one) and the originally-flagged pedal/DW-5000 fabrication (**#6549**, narrower — 4 locations).
+3. **Abe Cunningham** — `drummerComparisons.js` (`abe-cunningham-vs-john-otto`, 2 lines) + `genreGearGuides.js` (~13 lines across post-metal bass-drum guides) fabricate SJC Custom drums + DW 9000 pedal; verified Tama Starclassic/Iron Cobra 900 since 1997. Prior fixes #6228/#5884/#5322/#6173 covered `albumArticles.js`/`drummerEvolution.js`/`extendedBios.js`/etc. but never these 2 files. Filed **#6550**.
+4. **Lars Ulrich** — `genreGearGuides.js`'s dedicated "best drum heads for metal" guide fabricates an "Evans endorser" claim in ~5 locations; verified Remo since 1986. First heads-field finding for this drummer (prior #6485 fixed shell wood, a different field, in a different file). Filed **#6551**.
+5. **Joey Jordison** — 2 `usedBy` entries in `genreGearGuides.js` (cymbal + stick guides) claim "Zildjian endorser"; verified Paiste RUDE & 2002 Series cymbals since 2000 / Promark TX515W signature stick since 2008. Same fabrication class as closed #5819 (albumArticles.js) and #5995 (various.js) but a fresh, un-fixed occurrence. Filed **#6552**.
+
+All 6 personally grep/sed-verified with exact line citations against both files; all 6 checked via `gh issue list --state all --search "<name> <keyword>"` for duplicates — every closest match targets a different file/field/entry (documented per-issue). All single- or dual-file, text-only, zero new pages/URLs — freeze-compliant. Filed 6 of the available 8 slots (quality-over-quantity — stopped once the verified queue ran dry rather than padding with lower-confidence leads).
+
+### Proposals filed this run (6)
+1. #6547 — Hellhammer batch (drummerComparisons.js, 13 entries/23 lines, Pearl/Zildjian→Sonor/Paiste/Axis)
+2. #6548 — Mike Portnoy cymbals (albumArticles/mike-portnoy.js, ~15 locations, fictitious Zildjian→Sabian narrative)
+3. #6549 — Mike Portnoy pedal (albumArticles/mike-portnoy.js, 4 locations, DW 5000→Tama Iron Cobra)
+4. #6550 — Abe Cunningham drums/pedal (drummerComparisons.js + genreGearGuides.js, SJC/DW→Tama)
+5. #6551 — Lars Ulrich heads (genreGearGuides.js, Evans→Remo)
+6. #6552 — Joey Jordison cymbals/sticks (genreGearGuides.js, Zildjian→Paiste/Promark)
+
+### Open proposals waiting on CEO triage
+- #6547-6552 (this run, 0d old)
+- #6528-6535 (prior run — already promoted to `ai-fix`, in the implementation pipeline, not awaiting triage)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers only.
+
+### Next run
+1. Watch #6547-6552 ship via Roadie/PR Merger.
+2. Standing flag (unchanged, 4 drummers): Mike Mangini, Flo Mounier, Nick Menza, Vinnie Paul have `endorsementNews.js`-vs-`extendedBios.js` source conflicts needing a founder/CEO ruling before target-file fixes are safe.
+3. Drum-chair watch: zero changes this week (week 36, group 0 — angra/anthrax/behemoth/cynic/deftones checked, damageplan/death skipped as defunct). Next due Monday 2026-09-07, week 37, group 1 = death, deftones, entheos, godsmack, gojira, hellyeah, korn (re-verify the corrected 4-groups-of-7 split against bands.js at that time in case the roster has changed again).
+4. `genreGearGuides.js` continues to be a high-yield surface (3 of 6 findings this run touched it) — keep prioritizing it alongside `drummerComparisons.js`/`soundLikeGuides.js`/`albumArticles/*.js`.

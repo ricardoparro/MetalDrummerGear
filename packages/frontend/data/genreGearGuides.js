@@ -25354,7 +25354,7 @@ Find the pocket. Own the groove.`
     // SEO metadata
     title: "Best Bass Drums for Power Metal: 2026 Ultimate Guide",
     metaTitle: "Best Bass Drums for Power Metal in 2026 | MetalForge Expert Guide",
-    description: "Best bass drums for power metal's balanced, punchy low end. What Scott Travis (ddrum Dominion Series), Aquiles Priester (Trick Drums Custom Maple), Nicko McBrain (British Drum Co.), and Mikkey Dee (Pearl Reference Series) actually play — from budget to pro.",
+    description: "Best bass drums for power metal's balanced, punchy low end. What Scott Travis (ddrum Dominion Series), Aquiles Priester (Trick Drums Custom Maple), Nicko McBrain (British Drum Co.), and Mikkey Dee (Sonor SQ2) actually play — from budget to pro.",
     seoKeywords: [
       'best bass drums for power metal',
       'power metal bass drum setup',
@@ -25391,7 +25391,7 @@ Find the pocket. Own the groove.`
       title: "What Bass Drum Setup Do Power Metal Drummers Actually Use?",
       content: `Power metal's bass drum has a different job than the low-end-first approach of death or doom metal: it needs to deliver a balanced, punchy thud that drives galloping, triplet-based rhythms forward without ever burying the soaring clean vocals and keyboard-orchestrated arrangements riding above it. The kick has to be felt as much as heard — present in the mix, but never dominant.
 
-Scott Travis switched to ddrum for Judas Priest's "Firepower" (2018), and his twin 22"x18" ddrum Dominion Series bass drums are driven by a DW 9000 Series double pedal, carrying "Painkiller" (1990)'s galloping blueprint into the present. Aquiles Priester runs a fully custom Trick Drums maple bass drum for Angra, chosen for the projection and tuning consistency his sustained 180-220+ BPM neoclassical double-bass technique demands. Nicko McBrain's single 22"x17" British Drum Co. bass drum, driven by one pedal for every Iron Maiden gallop, proves the genre's most influential rhythmic vocabulary doesn't require twin kicks or even a double pedal. Mikkey Dee's Pearl Reference Series bass drum has carried him from Motörhead's all-out attack into Scorpions' wider dynamic range, built for the touring stamina power metal's festival-circuit bands depend on.
+Scott Travis switched to ddrum for Judas Priest's "Firepower" (2018), and his twin 22"x18" ddrum Dominion Series bass drums are driven by a DW 9000 Series double pedal, carrying "Painkiller" (1990)'s galloping blueprint into the present. Aquiles Priester runs a fully custom Trick Drums maple bass drum for Angra, chosen for the projection and tuning consistency his sustained 180-220+ BPM neoclassical double-bass technique demands. Nicko McBrain's single 22"x17" British Drum Co. bass drum, driven by one pedal for every Iron Maiden gallop, proves the genre's most influential rhythmic vocabulary doesn't require twin kicks or even a double pedal. Mikkey Dee's Sonor SQ2 bass drum has carried him from Motörhead's all-out attack into Scorpions' wider dynamic range, built for the touring stamina power metal's festival-circuit bands depend on.
 
 This guide breaks down exactly what makes a bass drum work for power metal — shell tuning, sizing, and pedal configuration — and which specific shells these four influential drummers actually play.`,
       keyPoints: [
@@ -25409,7 +25409,7 @@ This guide breaks down exactly what makes a bass drum work for power metal — s
         {
           name: "Balanced, Punchy Low End",
           icon: "⚖️",
-          description: "Power metal's soaring clean vocals and layered keyboard orchestration need a kick that supports rather than overwhelms. Scott Travis's ddrum Dominion Series and Mikkey Dee's Pearl Reference Series both prioritize a punchy, controlled thud over the cavernous sub-bass weight doom or death metal favors.",
+          description: "Power metal's soaring clean vocals and layered keyboard orchestration need a kick that supports rather than overwhelms. Scott Travis's ddrum Dominion Series and Mikkey Dee's Sonor SQ2 both prioritize a punchy, controlled thud over the cavernous sub-bass weight doom or death metal favors.",
           recommendation: "A punchy, well-controlled maple shell tuned for balance rather than maximum low-end weight"
         },
         {
@@ -25670,7 +25670,7 @@ The slightly shallower 17" depth keeps the attack quick and articulate, matching
       { slug: 'scott-travis', name: 'Scott Travis', reason: 'ddrum Dominion Series — Judas Priest power metal blueprint' },
       { slug: 'aquiles-priester', name: 'Aquiles Priester', reason: 'Trick Drums Custom Maple — Angra neoclassical double-bass precision' },
       { slug: 'nicko-mcbrain', name: 'Nicko McBrain', reason: 'British Drum Co. — Iron Maiden galloping foundation on a single pedal' },
-      { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'Pearl Reference Series — Motörhead/Scorpions touring stamina' }
+      { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'Sonor SQ2 — Motörhead/Scorpions touring stamina' }
     ],
 
     // Featured drummers (issue template)
@@ -62214,7 +62214,7 @@ Budget shouldn't stop you either. A Sabian SBr or Paiste PST 5 setup will teach 
     // SEO metadata
     title: "Best Drum Kits for Power Metal: 2026 Ultimate Guide",
     metaTitle: "Best Drum Kits for Power Metal 2026 | MetalForge Expert Guide",
-    description: "Best drum kits for power metal drumming. What Scott Travis (Tama Starclassic Maple), Aquiles Priester (Trick Drums Custom Maple), Nicko McBrain (British Drum Co.), and Mikkey Dee (Pearl Reference Series) actually play — bright, articulate shells built for galloping speed and theatrical range, from budget to pro.",
+    description: "Best drum kits for power metal drumming. What Scott Travis (Tama Starclassic Maple), Aquiles Priester (Trick Drums Custom Maple), Nicko McBrain (British Drum Co.), and Mikkey Dee (Sonor SQ2) actually play — bright, articulate shells built for galloping speed and theatrical range, from budget to pro.",
     seoKeywords: [
       'best drum kits for power metal',
       'power metal drum kit',
@@ -62251,7 +62251,7 @@ Budget shouldn't stop you either. A Sabian SBr or Paiste PST 5 setup will teach 
       title: "What Drum Kit Should I Use for Power Metal?",
       content: `Power metal drumming lives at the opposite end of the tonal spectrum from doom or black metal. Instead of cavernous, down-tuned low end, the genre's galloping rhythms, soaring clean vocals, and fantasy-themed theatrics demand a kit voiced for brightness, articulation, and stamina at sustained 160-220+ BPM tempos — a kit that stays crisp and present rather than washing out under keyboard-orchestrated arrangements.
 
-Scott Travis returned to Tama for Judas Priest's "Firepower" (2018) after roughly a decade and a half on Pearl, and his current Tama Starclassic Maple kit — driven by two independent Speed Cobra pedals rather than a double pedal, preserving the foot independence he's played with since the 1980s — carries "Painkiller" (1990)'s foundational speed-and-precision blueprint into the present. Aquiles Priester switched to a fully custom Trick Drums maple kit for his 2023 Angra return, chosen for the projection and consistency his relaxation-based, sustained 180-220+ BPM neoclassical double-bass technique demands. Nicko McBrain's British Drum Co. kit — still driven by a single bass drum pedal for every Iron Maiden gallop, never a double — proves the genre's most influential rhythmic vocabulary doesn't require twin kicks at all. Mikkey Dee's Pearl Reference Series kit has carried him from Motörhead's all-out attack into Scorpions' wider dynamic range, built for the touring stamina power metal's biggest festival-circuit bands depend on.
+Scott Travis returned to Tama for Judas Priest's "Firepower" (2018) after roughly a decade and a half on Pearl, and his current Tama Starclassic Maple kit — driven by two independent Speed Cobra pedals rather than a double pedal, preserving the foot independence he's played with since the 1980s — carries "Painkiller" (1990)'s foundational speed-and-precision blueprint into the present. Aquiles Priester switched to a fully custom Trick Drums maple kit for his 2023 Angra return, chosen for the projection and consistency his relaxation-based, sustained 180-220+ BPM neoclassical double-bass technique demands. Nicko McBrain's British Drum Co. kit — still driven by a single bass drum pedal for every Iron Maiden gallop, never a double — proves the genre's most influential rhythmic vocabulary doesn't require twin kicks at all. Mikkey Dee's Sonor SQ2 kit has carried him from Motörhead's all-out attack into Scorpions' wider dynamic range, built for the touring stamina power metal's biggest festival-circuit bands depend on.
 
 This guide breaks down what actually makes a kit work for power metal — brightness, articulation, and reliability at sustained high tempo — and which specific kits these four influential drummers rely on, from budget-friendly starters to the professional rigs behind the genre's most theatrical, speed-driven records.`,
       keyPoints: [
@@ -62269,7 +62269,7 @@ This guide breaks down what actually makes a kit work for power metal — bright
         {
           name: "Bright, Articulate Shell Tone",
           icon: "✨",
-          description: "Power metal's galloping rhythms and soaring, keyboard-orchestrated arrangements need a kit that cuts rather than wallows. Scott Travis's Tama Starclassic Maple and Mikkey Dee's Pearl Reference Series both prioritize brightness and articulate attack over the cavernous low end doom or death metal favors.",
+          description: "Power metal's galloping rhythms and soaring, keyboard-orchestrated arrangements need a kit that cuts rather than wallows. Scott Travis's Tama Starclassic Maple and Mikkey Dee's Sonor SQ2 both prioritize brightness and articulate attack over the cavernous low end doom or death metal favors.",
           recommendation: "Bright maple or custom hybrid shells voiced for articulate cut-through against dense, theatrical arrangements"
         },
         {
@@ -62300,8 +62300,8 @@ This guide breaks down what actually makes a kit work for power metal — bright
         {
           name: "Touring and Studio Durability",
           icon: "🛡️",
-          details: "Mikkey Dee's Pearl Reference Series has carried him through 23+ years of Motörhead's relentless touring and into Scorpions' arena schedule without a platform change — proof that durability matters as much as tone at the professional level.",
-          description: "Mikkey Dee's Pearl Reference Series has carried him through 23+ years of Motörhead's relentless touring and into Scorpions' arena schedule without a platform change — proof that durability matters as much as tone at the professional level.",
+          details: "Mikkey Dee's Sonor SQ2 has carried him through 23+ years of Motörhead's relentless touring and into Scorpions' arena schedule without a platform change — proof that durability matters as much as tone at the professional level.",
+          description: "Mikkey Dee's Sonor SQ2 has carried him through 23+ years of Motörhead's relentless touring and into Scorpions' arena schedule without a platform change — proof that durability matters as much as tone at the professional level.",
           recommendation: "Reinforced hardware and quality bearing edges that hold tuning through a demanding festival-circuit touring schedule"
         }
       ]
@@ -62433,43 +62433,43 @@ That single-pedal approach is the whole story: McBrain's galloping, triplet-base
         },
         {
           rank: 4,
-          name: "Pearl Reference Series",
-          brand: "Pearl",
-          model: "Reference Series (refined)",
+          name: "Sonor SQ2",
+          brand: "Sonor",
+          model: "SQ2 Custom",
           image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Drums_01.jpg",
-          priceRange: "€3000-4600 (shell pack)",
+          priceRange: "€3200-5000 (custom shell pack)",
           tier: "pro",
-          material: "Maple/Birch Hybrid",
+          material: "North American Maple",
 
-          description: `Mikkey Dee's Pearl Reference Series kit carried him through the final chapter of his 23-year Motörhead tenure and remains his platform with Scorpions, refined for the wider dynamic range Scorpions' catalog spans compared to Motörhead's all-out attack. The maple/birch hybrid shells give a durable, focused tone that has survived over a decade of relentless arena and festival touring without a platform change.
+          description: `Mikkey Dee's longtime Sonor SQ2 kit, anchored by the Sonor Mikkey Dee Signature snare he received in 2012, carried him through the final chapter of his 23-year Motörhead tenure and remains his platform with Scorpions, refined for the wider dynamic range Scorpions' catalog spans compared to Motörhead's all-out attack.
 
-Paired with alternating steel and maple Pearl Free-Floating 14"x6.5" snares and a Pearl Demon Drive double pedal, Dee's setup represents the touring stamina power metal's biggest festival-headlining bands need night after night — even coming from a catalog that sits closer to hard rock than the genre's fantasy-themed wing.`,
+Paired with a DW 5000 Series double pedal, Dee's setup represents the touring stamina power metal's biggest festival-headlining bands need night after night — even coming from a catalog that sits closer to hard rock than the genre's fantasy-themed wing.`,
 
           pros: [
-            "Mikkey Dee's setup — proven across the Motörhead-to-Scorpions transition and 10+ years unchanged",
-            "Maple/birch hybrid shells built for durability under relentless touring",
-            "Free-Floating dual-snare approach adds tonal flexibility across a broader dynamic range",
-            "Pearl Demon Drive double pedal built for consistent, reliable extreme-tempo response",
-            "A more affordable pro-tier entry than fully custom alternatives"
+            "Mikkey Dee's setup — proven across the Motörhead-to-Scorpions transition since 2016",
+            "North American maple shells built for durability under relentless touring",
+            "Signature snare adds a tonal identity matched to his own playing",
+            "DW 5000 Series double pedal built for consistent, reliable extreme-tempo response",
+            "Custom SQ program allows shell configuration to match a touring drummer's exact needs"
           ],
           cons: [
             "Less directly tied to power metal's fantasy-themed lyrical tradition",
-            "Maple/birch hybrid offers less exotic tonal character than premium all-maple kits",
+            "Custom SQ program carries premium pricing and long lead times",
             "Voicing leans harder rock than power metal's most theatrical brightness"
           ],
           specs: {
-            shell: "Maple/Birch Hybrid",
-            mount: "Pearl OptiMount",
-            finish: "Multiple lacquer options",
+            shell: "North American Maple (SQ custom)",
+            mount: "Sonor TuneSafe",
+            finish: "Custom finish options",
             kickSize: "22\" x 18\" (single)",
             tomSizes: "8\", 10\", 12\" rack / 14\", 16\" floor"
           },
           usedBy: [
-            { name: "Mikkey Dee", band: "Motörhead / Scorpions", note: "Pearl Reference Series — touring stamina across two legendary bands" }
+            { name: "Mikkey Dee", band: "Motörhead / Scorpions", note: "Sonor SQ2 — touring stamina across two legendary bands" }
           ],
           verdict: "Best for touring stamina. Dee's setup brings arena-level durability and dynamic range to power metal's biggest stages.",
           rating: 4.4,
-          affiliateLink: "https://www.thomann.de/intl/pearl_reference_series.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/sonor_sq1_sq2_custom.htm?partner_id=metalforge"
         }
       ]
     },
@@ -62515,7 +62515,7 @@ Paired with alternating steel and maple Pearl Free-Floating 14"x6.5" snares and 
       title: "Flagship Production vs Custom Boutique for Power Metal",
       content: `Kit choice splits power metal's leading drummers into two clear camps. Here's how each compares:
 
-**Flagship Production (Scott Travis - Tama, Nicko McBrain - British Drum Co., Mikkey Dee - Pearl):**
+**Flagship Production (Scott Travis - Tama, Nicko McBrain - British Drum Co., Mikkey Dee - Sonor):**
 - Three of this guide's four featured drummers build around major-brand flagship or custom-program shells
 - Backed by decades of artist relations support, parts availability, and global service networks
 - The dominant choice across power metal's biggest, longest-running bands
@@ -62575,7 +62575,7 @@ Paired with alternating steel and maple Pearl Free-Floating 14"x6.5" snares and 
       { slug: 'scott-travis', name: 'Scott Travis', reason: 'Tama Starclassic Maple — Judas Priest power metal blueprint' },
       { slug: 'aquiles-priester', name: 'Aquiles Priester', reason: 'Trick Drums Custom Maple — Angra neoclassical double-bass precision' },
       { slug: 'nicko-mcbrain', name: 'Nicko McBrain', reason: 'British Drum Co. — Iron Maiden galloping foundation' },
-      { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'Pearl Reference Series — Motörhead/Scorpions touring stamina' }
+      { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'Sonor SQ2 — Motörhead/Scorpions touring stamina' }
     ],
 
     // Featured drummers (issue template)
@@ -62583,7 +62583,7 @@ Paired with alternating steel and maple Pearl Free-Floating 14"x6.5" snares and 
       { slug: 'scott-travis', name: 'Scott Travis', reason: 'Tama Starclassic Maple — Judas Priest power metal blueprint' },
       { slug: 'aquiles-priester', name: 'Aquiles Priester', reason: 'Trick Drums Custom Maple — Angra neoclassical double-bass precision' },
       { slug: 'nicko-mcbrain', name: 'Nicko McBrain', reason: 'British Drum Co. — Iron Maiden galloping foundation' },
-      { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'Pearl Reference Series — Motörhead/Scorpions touring stamina' }
+      { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'Sonor SQ2 — Motörhead/Scorpions touring stamina' }
     ],
 
     // FAQ section for SEO
@@ -62613,7 +62613,7 @@ Paired with alternating steel and maple Pearl Free-Floating 14"x6.5" snares and 
     // Conclusion
     conclusion: {
       title: "Build Your Power Metal Arsenal",
-      content: `Power metal drum kits have one job above all others: stay bright and articulate at sustained, theatrical high tempo without ever washing out. Scott Travis's Tama Starclassic Maple, Aquiles Priester's Trick Drums custom build, Nicko McBrain's British Drum Co. kit, and Mikkey Dee's Pearl Reference Series each solve that challenge with a different balance of brightness, customization, and touring durability.
+      content: `Power metal drum kits have one job above all others: stay bright and articulate at sustained, theatrical high tempo without ever washing out. Scott Travis's Tama Starclassic Maple, Aquiles Priester's Trick Drums custom build, Nicko McBrain's British Drum Co. kit, and Mikkey Dee's Sonor SQ2 each solve that challenge with a different balance of brightness, customization, and touring durability.
 
 Whether you choose a flagship production kit for proven reliability or a custom boutique build for exact tonal control, remember that power metal's most influential drummers built their sound around foot technique and articulation — not gear alone. Nicko McBrain never touched a double pedal.
 
@@ -62632,7 +62632,7 @@ Start where your budget allows — even a Tama Imperialstar or Sonor AQ2 will ge
     // SEO metadata
     title: "Best Drum Pedals for Power Metal: 2026 Ultimate Guide",
     metaTitle: "Best Drum Pedals for Power Metal 2026 | MetalForge Expert Guide",
-    description: "Best drum pedals for power metal drumming: what Scott Travis (twin Tama Speed Cobra singles), Aquiles Priester (DW 9000 double pedal), Nicko McBrain (single Sonor pedal, no double ever), and Mikkey Dee (Pearl Demon Drive double pedal) actually play. Reliable, sustained speed for galloping rhythms — ranked budget to pro.",
+    description: "Best drum pedals for power metal drumming: what Scott Travis (twin Tama Speed Cobra singles), Aquiles Priester (DW 9000 double pedal), Nicko McBrain (single Sonor pedal, no double ever), and Mikkey Dee (DW 5000 Series double pedal) actually play. Reliable, sustained speed for galloping rhythms — ranked budget to pro.",
     seoKeywords: [
       'best drum pedals for power metal',
       'power metal drum pedal',
@@ -62669,14 +62669,14 @@ Start where your budget allows — even a Tama Imperialstar or Sonor AQ2 will ge
       title: "Why Power Metal Pedal Choice Splits Between Speed and Foot Independence",
       content: `Power metal's galloping, triplet-based rhythms and sustained neoclassical double-bass runs put very different demands on a pedal depending on which tradition a drummer follows. Some of the genre's most influential names never touch a double pedal at all, relying on foot independence and a precise single pedal, while others need a fast, reliable double pedal to sustain 180-220+ BPM 16th-note patterns across an entire set.
 
-Scott Travis currently drives Judas Priest's twin 22"x18" bass drums with two independent Tama Speed Cobra pedals rather than a double pedal — the same foot-independence approach he's used since his 1980s Racer X days, preserving the separation that carries "Painkiller" (1990)'s foundational blueprint forward. Aquiles Priester relies on a DW 9000 Series double pedal to sustain his relaxation-based, 180-220+ BPM neoclassical double-bass technique on Angra's current return-era rig. Nicko McBrain has never used a double pedal with Iron Maiden — his entire galloping, triplet-based rhythmic vocabulary runs through a single Sonor pedal, proof that raw double-bass speed isn't required to anchor a genre-defining sound. Mikkey Dee's Pearl Demon Drive double pedal has carried him through 23+ years of Motörhead's relentless touring and into Scorpions' festival-circuit schedule.
+Scott Travis currently drives Judas Priest's twin 22"x18" bass drums with two independent Tama Speed Cobra pedals rather than a double pedal — the same foot-independence approach he's used since his 1980s Racer X days, preserving the separation that carries "Painkiller" (1990)'s foundational blueprint forward. Aquiles Priester relies on a DW 9000 Series double pedal to sustain his relaxation-based, 180-220+ BPM neoclassical double-bass technique on Angra's current return-era rig. Nicko McBrain has never used a double pedal with Iron Maiden — his entire galloping, triplet-based rhythmic vocabulary runs through a single Sonor pedal, proof that raw double-bass speed isn't required to anchor a genre-defining sound. Mikkey Dee's DW 5000 Series double pedal has carried him through 23+ years of Motörhead's relentless touring and into Scorpions' festival-circuit schedule.
 
 This guide breaks down single-pedal foot independence versus double-pedal sustained speed for power metal — comparing what these four influential drummers actually play and why, with recommendations across every budget.`,
       keyPoints: [
         "Scott Travis drives Judas Priest's twin kicks with two independent Tama Speed Cobra single pedals, not a double pedal",
         "Aquiles Priester's DW 9000 Series double pedal sustains his 180-220+ BPM neoclassical double-bass technique on Angra's current rig",
         "Nicko McBrain has never used a double pedal — Iron Maiden's entire galloping foundation runs through one precise Sonor single pedal",
-        "Mikkey Dee's Pearl Demon Drive double pedal has proven reliable across 23+ years of Motörhead and Scorpions touring"
+        "Mikkey Dee's DW 5000 Series double pedal has proven reliable across 23+ years of Motörhead and Scorpions touring"
       ]
     },
 
@@ -62705,7 +62705,7 @@ This guide breaks down single-pedal foot independence versus double-pedal sustai
         {
           name: "Touring Durability",
           icon: "🛡️",
-          description: "Mikkey Dee's Pearl Demon Drive has held up across 23+ years of Motörhead's relentless touring and into Scorpions' arena and festival schedule without a platform change — proof that reliability matters as much as top-end speed at the professional level.",
+          description: "Mikkey Dee's DW 5000 Series has held up across 23+ years of Motörhead's relentless touring and into Scorpions' arena and festival schedule without a platform change — proof that reliability matters as much as top-end speed at the professional level.",
           recommendation: "Reinforced construction and quality bearings that hold up to a demanding festival-circuit touring schedule"
         },
         {
@@ -62809,43 +62809,43 @@ Paired with a Trick Drums custom maple kit and a full Ufip cymbal setup, the DW 
         },
         {
           rank: 3,
-          name: "Pearl Demon Drive",
-          brand: "Pearl",
-          model: "P3002D Demon Drive",
+          name: "DW 5000 Series",
+          brand: "DW",
+          model: "DW 5000 Delta III Double Pedal",
           image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg",
-          priceRange: "€500-600",
+          priceRange: "€300-420",
           tier: "pro",
-          driveType: "Direct Drive",
+          driveType: "Chain Drive",
 
-          description: `Mikkey Dee's Pearl Demon Drive double pedal has carried him through the final chapter of his 23-year Motörhead tenure and remains his platform with Scorpions, proving reliable across arena and festival stages without a platform change. The NiNjA bearing system delivers virtually frictionless action, while the Click-Lock spring tension keeps adjustments precise across a demanding festival-circuit touring schedule.
+          description: `Mikkey Dee's DW 5000 Series double pedal has carried him through the final chapter of his 23-year Motörhead tenure and remains his platform with Scorpions, proving reliable across arena and festival stages without a platform change. The Delta III linkage system delivers a solid, consistent connection, while cast aluminum construction handles a demanding festival-circuit touring schedule.
 
-While Dee's catalog sits closer to hard rock than power metal's fantasy-themed wing, his Demon Drive's touring stamina represents exactly the reliability power metal's biggest festival-headlining bands need night after night.`,
+While Dee's catalog sits closer to hard rock than power metal's fantasy-themed wing, his DW 5000's touring stamina represents exactly the reliability power metal's biggest festival-headlining bands need night after night.`,
 
           pros: [
             "Mikkey Dee's setup — proven across 23+ years of relentless Motörhead and Scorpions touring",
-            "NiNjA bearing system for ultimate smoothness",
-            "Click-Lock spring tension adjustment stays precise across demanding tours",
-            "Direct drive delivers instant, linear response for sustained double-bass runs",
+            "Delta III linkage for a solid, consistent double pedal connection",
+            "Cast aluminum construction built for touring durability",
+            "DW build quality at a more accessible price than the 9000 series",
             "Built for extreme touring durability"
           ],
           cons: [
             "Less directly tied to power metal's fantasy-themed lyrical tradition",
-            "Direct drive takes adjustment if coming from chain drive",
-            "Premium price point"
+            "Not as refined as DW's 9000 series at extreme speeds",
+            "Chain drive feel differs from direct-drive pedals"
           ],
           specs: {
-            drive: "Direct Drive (interchangeable cams)",
-            bearings: "NiNjA Bearings",
-            footboard: "PowerShifter Longboard",
-            beater: "Demon Beater (reversible)",
-            weight: "4.5 kg (pair)"
+            drive: "Chain Drive (Delta III linkage)",
+            bearings: "Standard Bearings",
+            footboard: "Standard Length",
+            beater: "DW Standard Beater (reversible)",
+            weight: "4.8 kg (pair)"
           },
           usedBy: [
-            { name: "Mikkey Dee", band: "Motörhead / Scorpions", note: "Pearl Demon Drive — touring stamina across two legendary bands" }
+            { name: "Mikkey Dee", band: "Motörhead / Scorpions", note: "DW 5000 Series — touring stamina across two legendary bands" }
           ],
           verdict: "Best for touring stamina. Dee's setup brings arena-level reliability to power metal's biggest stages.",
           rating: 4.5,
-          affiliateLink: "https://www.thomann.de/intl/pearl_p3002d_demon_drive_double.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/dw_5000_double_pedal.htm?partner_id=metalforge"
         },
         {
           rank: 4,
@@ -62916,10 +62916,10 @@ For power metal drummers whose material leans on gallop-first, triplet-based rhy
           priceRange: "€350-400",
           tier: "mid",
           driveType: "Chain with Interchangeable Cams",
-          description: "The Eliminator Redline brings many features from Mikkey Dee's Demon Drive at a more accessible price. The interchangeable cam system lets you experiment with different feels, and the NiNjA bearings are the same as the flagship model.",
-          pros: ["Interchangeable cams included", "NiNjA bearing system shared with the Demon Drive", "Solid build quality for developing players"],
-          cons: ["Chain drive limits ultimate speed versus direct drive", "Not as refined as the Demon Drive"],
-          verdict: "Best mid-range path toward Mikkey Dee's Pearl sound.",
+          description: "The Eliminator Redline brings a direct-drive feel and interchangeable cam system at a more accessible price than Pearl's flagship pedals. The interchangeable cam system lets you experiment with different feels, and the NiNjA bearings are the same as the flagship model.",
+          pros: ["Interchangeable cams included", "NiNjA bearing system shared with Pearl's flagship model", "Solid build quality for developing players"],
+          cons: ["Chain drive limits ultimate speed versus direct drive", "Not as refined as Pearl's flagship direct-drive pedals"],
+          verdict: "Best mid-range direct-drive option for developing power metal technique.",
           rating: 4.3,
           affiliateLink: "https://www.thomann.de/intl/pearl_p2052c_eliminator_redline.htm?partner_id=metalforge"
         }
@@ -62938,7 +62938,7 @@ For power metal drummers whose material leans on gallop-first, triplet-based rhy
 
 **Double Pedal (Aquiles Priester, Mikkey Dee):**
 - Sustains fast, consistent 16th-note double-bass patterns at extreme tempo
-- Priester's DW 9000 and Dee's Pearl Demon Drive both built for sustained reliability
+- Priester's DW 9000 and Dee's DW 5000 Series both built for sustained reliability
 - Best for: Neoclassical double-bass speed and extended high-tempo touring
 
 **The Truth:** Both approaches have driven some of power metal's most influential recordings. Nicko McBrain proved a genre-defining rhythmic foundation doesn't need double-bass horsepower at all. Aquiles Priester and Mikkey Dee prove a well-built double pedal can sustain extreme tempo across a full touring schedule.
@@ -62989,7 +62989,7 @@ For power metal drummers whose material leans on gallop-first, triplet-based rhy
       { slug: 'scott-travis', name: 'Scott Travis', reason: 'Twin Tama Speed Cobra singles — Judas Priest foot independence' },
       { slug: 'aquiles-priester', name: 'Aquiles Priester', reason: 'DW 9000 Series Double Pedal — Angra neoclassical double-bass precision' },
       { slug: 'nicko-mcbrain', name: 'Nicko McBrain', reason: 'Single Sonor pedal — Iron Maiden galloping foundation' },
-      { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'Pearl Demon Drive — Motörhead/Scorpions touring stamina' }
+      { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'DW 5000 Series — Motörhead/Scorpions touring stamina' }
     ],
 
     // Featured drummers (issue template)
@@ -62997,7 +62997,7 @@ For power metal drummers whose material leans on gallop-first, triplet-based rhy
       { slug: 'scott-travis', name: 'Scott Travis', reason: 'Twin Tama Speed Cobra singles — Judas Priest foot independence' },
       { slug: 'aquiles-priester', name: 'Aquiles Priester', reason: 'DW 9000 Series Double Pedal — Angra neoclassical double-bass precision' },
       { slug: 'nicko-mcbrain', name: 'Nicko McBrain', reason: 'Single Sonor pedal — Iron Maiden galloping foundation' },
-      { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'Pearl Demon Drive — Motörhead/Scorpions touring stamina' }
+      { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'DW 5000 Series — Motörhead/Scorpions touring stamina' }
     ],
 
     // FAQ section for SEO
@@ -63020,14 +63020,14 @@ For power metal drummers whose material leans on gallop-first, triplet-based rhy
       },
       {
         question: "Do I need an expensive double pedal to play power metal?",
-        answer: "No — a Tama Iron Cobra 600 or Pearl Eliminator Redline will teach real double-bass technique at a fraction of the price of Aquiles Priester's DW 9000 or Mikkey Dee's Demon Drive. If your material is gallop-first rather than double-bass-heavy, a Sonor-style single pedal is even more affordable."
+        answer: "No — a Tama Iron Cobra 600 or Pearl Eliminator Redline will teach real double-bass technique at a fraction of the price of Aquiles Priester's DW 9000 or Mikkey Dee's DW 5000 Series. If your material is gallop-first rather than double-bass-heavy, a Sonor-style single pedal is even more affordable."
       }
     ],
 
     // Conclusion
     conclusion: {
       title: "Choose Your Foot Foundation",
-      content: `Power metal pedal choice comes down to a fundamental question: does your material need sustained double-bass speed, or does it live and die on gallop-first foot independence? Scott Travis found his answer in two independent Tama Speed Cobra singles, preserving total separation between feet. Nicko McBrain never touched a double pedal at all, proving Iron Maiden's entire rhythmic foundation could run on one precise Sonor pedal. Aquiles Priester and Mikkey Dee both depend on fast, reliable double pedals — the DW 9000 and Pearl Demon Drive — to sustain extreme tempo across a full set.
+      content: `Power metal pedal choice comes down to a fundamental question: does your material need sustained double-bass speed, or does it live and die on gallop-first foot independence? Scott Travis found his answer in two independent Tama Speed Cobra singles, preserving total separation between feet. Nicko McBrain never touched a double pedal at all, proving Iron Maiden's entire rhythmic foundation could run on one precise Sonor pedal. Aquiles Priester and Mikkey Dee both depend on fast, reliable double pedals — the DW 9000 and DW 5000 Series — to sustain extreme tempo across a full set.
 
 None of these approaches is more "authentic" to the genre — all four have driven some of power metal's most influential recordings. Start with whichever setup matches your material's balance of gallop-first triplets versus sustained neoclassical double bass.
 
@@ -80597,7 +80597,7 @@ Budget shouldn't stop you either. A Pearl Demonator or Tama Iron Cobra 600 will 
     // SEO metadata
     title: "Best Snare Drums for Power Metal: 2026 Ultimate Guide",
     metaTitle: "Best Snare Drums for Power Metal 2026 | MetalForge Expert Guide",
-    description: "Best snare drums for power metal drumming: what Scott Travis (Tama Starphonic Brass), Aquiles Priester (Trick Drums Custom), Nicko McBrain (Sonor Signature), and Mikkey Dee (Pearl Free-Floating) actually play. Bright, cutting projection for power metal's soaring, high-tempo anthems — ranked budget to pro.",
+    description: "Best snare drums for power metal drumming: what Scott Travis (Tama Starphonic Brass), Aquiles Priester (Trick Drums Custom), Nicko McBrain (Sonor Signature), and Mikkey Dee (Sonor Signature) actually play. Bright, cutting projection for power metal's soaring, high-tempo anthems — ranked budget to pro.",
     seoKeywords: [
       'best snare drums for power metal',
       'power metal snare drum',
@@ -80634,7 +80634,7 @@ Budget shouldn't stop you either. A Pearl Demonator or Tama Iron Cobra 600 will 
       title: "Why Power Metal Needs a Bright, Cutting Snare",
       content: `Power metal's soaring vocal melodies, galloping riffs, and sustained double-bass patterns need a snare that cuts through a dense, often orchestral or keyboard-heavy mix without ever sounding harsh. That means power metal drummers generally favor brighter, more cutting tones than doom or sludge metal's deep, resonant approach — a snare voice built to punctuate anthemic choruses and stay articulate at high tempos.
 
-Scott Travis has run a Tama Starphonic Brass 14"x6" snare since returning to Tama for Judas Priest's "Firepower" (2018), carrying through to "Invincible Shield" (2024). Aquiles Priester's Trick Drums Custom 14"x6.5" snare gives Angra's neoclassical, high-tempo material its cutting attack. Nicko McBrain's Sonor Nicko McBrain Signature 14"x6.5" snare has anchored Iron Maiden's galloping anthems from "Virtual XI" (1998) through "Senjutsu" (2021). Mikkey Dee's Pearl Free-Floating 14"x6.5" snare, alternating steel and maple shells, carried 23 years with Motörhead and now Scorpions.
+Scott Travis has run a Tama Starphonic Brass 14"x6" snare since returning to Tama for Judas Priest's "Firepower" (2018), carrying through to "Invincible Shield" (2024). Aquiles Priester's Trick Drums Custom 14"x6.5" snare gives Angra's neoclassical, high-tempo material its cutting attack. Nicko McBrain's Sonor Nicko McBrain Signature 14"x6.5" snare has anchored Iron Maiden's galloping anthems from "Virtual XI" (1998) through "Senjutsu" (2021). Mikkey Dee's Sonor Mikkey Dee Signature 14"x7.25" birch snare carried 23 years with Motörhead and now Scorpions.
 
 This guide breaks down shell material, brightness, and projection for power metal snares — comparing four drummers whose setups define the genre's cutting, anthemic sound, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
@@ -80652,7 +80652,7 @@ This guide breaks down shell material, brightness, and projection for power meta
         {
           name: "Bright, Cutting Shell Material",
           icon: "🔆",
-          description: "Scott Travis's brass-shell Tama Starphonic and Mikkey Dee's steel/maple alternating Pearl Free-Floating both prioritize a bright, cutting tone that projects clearly against power metal's often orchestral or keyboard-heavy arrangements.",
+          description: "Scott Travis's brass-shell Tama Starphonic prioritizes a bright, cutting tone that projects clearly against power metal's often orchestral or keyboard-heavy arrangements.",
           recommendation: "Brass or steel shells for maximum brightness and cut through dense, layered mixes"
         },
         {
@@ -80676,7 +80676,7 @@ This guide breaks down shell material, brightness, and projection for power meta
         {
           name: "Touring Durability",
           icon: "🛡️",
-          description: "Power metal bands tour relentlessly across festival circuits worldwide. Mikkey Dee's Pearl Free-Floating snare has held up across 23 years with Motörhead and now Scorpions — proof that a well-built shell can last decades on the road.",
+          description: "Power metal bands tour relentlessly across festival circuits worldwide. Mikkey Dee's Sonor Signature snare has held up across 23 years with Motörhead and now Scorpions — proof that a well-built shell can last decades on the road.",
           recommendation: "Reinforced hoops and quality throw-offs that hold tuning through relentless touring"
         },
         {
@@ -80774,43 +80774,43 @@ McBrain's decades-long partnership with this signature spec proves a steel shell
         },
         {
           rank: 3,
-          name: "Pearl Free-Floating",
-          brand: "Pearl",
-          model: "Free-Floating 14\"x6.5\" (Steel/Maple)",
+          name: "Sonor Mikkey Dee Signature",
+          brand: "Sonor",
+          model: "Mikkey Dee Signature 14\"x7.25\" (Birch)",
           image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Drums_01.jpg",
           priceRange: "€350-500",
           tier: "pro",
-          material: "Steel/Maple (Free-Floating, alternating)",
+          material: "Birch",
 
-          description: `Mikkey Dee's Pearl Free-Floating 14"x6.5" snare, alternating between steel and maple shells depending on the material, carried him through 23 years with Motörhead — including the band's Grammy-winning "Bad Magic" (2015) — and now continues with Scorpions. The free-floating design isolates the shell from the rim and hardware, maximizing resonance and sensitivity.
+          description: `Mikkey Dee's Sonor Mikkey Dee Signature 14"x7.25" birch snare, built on his longtime Sonor SQ2 endorsement dating back to his King Diamond days, carried him through 23 years with Motörhead — including the band's Grammy-winning "Bad Magic" (2015) — and now continues with Scorpions.
 
-Dee's alternating-shell approach shows how a versatile free-floating platform can flex between steel's bright cut and maple's warmer body depending on a track's specific needs.`,
+Dee's deeper 7.25" birch shell gives a fuller, punchier body than the genre's typical 6"-6.5" snares, suited to Motörhead and Scorpions' heavier, hard-rock-leaning attack.`,
 
           pros: [
             "Mikkey Dee's Motörhead/Scorpions setup — 23 years of proven touring pedigree",
-            "Free-floating design maximizes resonance and sensitivity",
-            "Alternating steel/maple shells offer tonal flexibility",
+            "Birch shell delivers a fuller, punchier body than shallower alternatives",
+            "Extra 7.25\" depth adds low-end weight for hard-rock-leaning material",
             "Proven across Motörhead's Grammy-winning \"Bad Magic\" (2015)",
-            "Isolation mounting reduces unwanted overtone bleed from hardware"
+            "Sonor build quality built for decades of touring"
           ],
           cons: [
-            "Premium pricing for the free-floating hardware system",
-            "Free-floating design requires more careful tuning maintenance",
-            "Owning both shell options adds to overall cost"
+            "Signature pricing above generic steel alternatives",
+            "Deeper shell adds weight versus shallower snares",
+            "Limited availability outside signature production runs"
           ],
           specs: {
-            shell: "Steel/Maple Free-Floating",
+            shell: "Birch (Signature)",
             diameter: "14\"",
-            depth: "6.5\"",
-            throwOff: "Pearl UltraCast",
+            depth: "7.25\"",
+            throwOff: "Sonor TuneSafe",
             wires: "20-strand"
           },
           usedBy: [
-            { name: "Mikkey Dee", band: "Motörhead / Scorpions", note: "14x6.5\" Pearl Free-Floating — alternating steel/maple versatility" }
+            { name: "Mikkey Dee", band: "Motörhead / Scorpions", note: "14x7.25\" Sonor Signature — birch shell since 2012" }
           ],
-          verdict: "Best for versatile tonal flexibility. Dee's alternating shells prove one platform can cover multiple voicings.",
+          verdict: "Best for a fuller, punchier snare voice. Dee's deeper birch shell adds body power metal's brighter, shallower snares don't.",
           rating: 4.6,
-          affiliateLink: "https://www.thomann.de/intl/pearl_free_floating_snare.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/sonor_mikkey_dee_signature_snare.htm?partner_id=metalforge"
         },
         {
           rank: 4,
@@ -80881,8 +80881,8 @@ The custom aluminum/steel construction is built specifically for drummers who ne
           priceRange: "€90-130",
           tier: "budget",
           material: "Steel",
-          description: "The Pearl Export steel snare carries the same bright, cutting DNA as Mikkey Dee's professional Pearl Free-Floating snare at a fraction of the price. Tune it bright and tight to get closer to power metal's cutting, anthemic sound.",
-          pros: ["Same Pearl family DNA as Mikkey Dee's professional setup", "Affordable, widely available entry point", "Responsive enough to develop bright tuning technique"],
+          description: "The Pearl Export steel snare offers a bright, cutting entry point at a fraction of pro-tier pricing. Tune it bright and tight to get closer to power metal's cutting, anthemic sound.",
+          pros: ["Widely available, well-regarded entry-level steel shell", "Affordable, widely available entry point", "Responsive enough to develop bright tuning technique"],
           cons: ["Less refined projection than Free-Floating shells", "Basic hardware compared to signature models"],
           verdict: "Best budget entry into power metal's bright, cutting Pearl sound.",
           rating: 3.9,
@@ -80906,12 +80906,12 @@ The custom aluminum/steel construction is built specifically for drummers who ne
 - Tuned specifically for galloping, anthemic rhythms
 - Best for classic, gallop-driven power metal
 
-**Free-Floating Steel/Maple (Mikkey Dee):**
-- Tonal flexibility between bright cut and warmer body
-- Maximum resonance and sensitivity from shell isolation
-- Best for drummers who need to flex across varied material
+**Deep Birch (Mikkey Dee):**
+- Fuller, punchier body than the genre's typical shallow, bright shells
+- Extra 7.25" depth adds low-end weight for hard-rock-leaning material
+- Best for drummers who want more body without losing projection
 
-**Our Recommendation:** Start with a bright steel shell (Tama Imperialstar or Pearl Export) if your priority is affordable, cutting projection. Choose a brass shell (Tama Starphonic) for maximum cut through the densest, most orchestral power metal arrangements. Consider a free-floating design (Pearl Free-Floating) if you want tonal flexibility across a varied setlist.`,
+**Our Recommendation:** Start with a bright steel shell (Tama Imperialstar or Pearl Export) if your priority is affordable, cutting projection. Choose a brass shell (Tama Starphonic) for maximum cut through the densest, most orchestral power metal arrangements. Consider a deeper birch shell (Sonor Mikkey Dee Signature) if you want more body without sacrificing cut.`,
       comparisonTable: [
         { feature: "Brightness/Cut", maple: "⭐⭐⭐", hybrid: "⭐⭐⭐⭐⭐", dual: "⭐⭐⭐⭐" },
         { feature: "Tonal Flexibility", maple: "⭐⭐⭐", hybrid: "⭐⭐⭐", dual: "⭐⭐⭐⭐⭐" },
@@ -80935,9 +80935,9 @@ The custom aluminum/steel construction is built specifically for drummers who ne
           reason: "Decades-proven cut through Iron Maiden's dual/triple-guitar galloping anthems."
         },
         {
-          category: "Best for Tonal Flexibility",
-          pedal: "Pearl Free-Floating",
-          reason: "Mikkey Dee's alternating steel/maple setup — 23 years of proven touring versatility."
+          category: "Best for Fuller Body",
+          pedal: "Sonor Mikkey Dee Signature",
+          reason: "Mikkey Dee's deeper birch setup — 23 years of proven touring durability."
         },
         {
           category: "Best Budget",
@@ -80957,7 +80957,7 @@ The custom aluminum/steel construction is built specifically for drummers who ne
       { slug: 'scott-travis', name: 'Scott Travis', reason: 'Tama Starphonic Brass — Judas Priest bright, cutting projection' },
       { slug: 'aquiles-priester', name: 'Aquiles Priester', reason: 'Trick Drums Custom — Angra neoclassical high-tempo attack' },
       { slug: 'nicko-mcbrain', name: 'Nicko McBrain', reason: 'Sonor Signature — Iron Maiden galloping anthem projection' },
-      { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'Pearl Free-Floating — Motörhead/Scorpions versatile touring pedigree' }
+      { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'Sonor Signature — Motörhead/Scorpions touring pedigree' }
     ],
 
     // Featured drummers (issue template)
@@ -80965,14 +80965,14 @@ The custom aluminum/steel construction is built specifically for drummers who ne
       { slug: 'scott-travis', name: 'Scott Travis', reason: 'Tama Starphonic Brass — Judas Priest bright, cutting projection' },
       { slug: 'aquiles-priester', name: 'Aquiles Priester', reason: 'Trick Drums Custom — Angra neoclassical high-tempo attack' },
       { slug: 'nicko-mcbrain', name: 'Nicko McBrain', reason: 'Sonor Signature — Iron Maiden galloping anthem projection' },
-      { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'Pearl Free-Floating — Motörhead/Scorpions versatile touring pedigree' }
+      { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'Sonor Signature — Motörhead/Scorpions touring pedigree' }
     ],
 
     // FAQ section for SEO
     faq: [
       {
         question: "Who are the best power metal drummers and what snares do they use?",
-        answer: "Scott Travis of Judas Priest plays a Tama Starphonic Brass 14x6\" snare, Aquiles Priester of Angra plays a Trick Drums Custom 14x6.5\" snare, Nicko McBrain of Iron Maiden plays a Sonor Signature 14x6.5\" snare, and Mikkey Dee of Motörhead/Scorpions plays a Pearl Free-Floating 14x6.5\" snare alternating steel and maple shells."
+        answer: "Scott Travis of Judas Priest plays a Tama Starphonic Brass 14x6\" snare, Aquiles Priester of Angra plays a Trick Drums Custom 14x6.5\" snare, Nicko McBrain of Iron Maiden plays a Sonor Signature 14x6.5\" snare, and Mikkey Dee of Motörhead/Scorpions plays a Sonor Mikkey Dee Signature 14x7.25\" birch snare."
       },
       {
         question: "What snare drum does Scott Travis use?",
@@ -80984,18 +80984,18 @@ The custom aluminum/steel construction is built specifically for drummers who ne
       },
       {
         question: "Why does power metal need a brighter snare than doom or sludge metal?",
-        answer: "Power metal's dense, often orchestral or keyboard-heavy arrangements need a snare that cuts through without getting buried, unlike doom and sludge's slower, riff-driven approach that favors deep, resonant tone. Scott Travis's brass-shell Tama Starphonic and Mikkey Dee's steel-shell Pearl Free-Floating both prioritize brightness and projection over low-end weight."
+        answer: "Power metal's dense, often orchestral or keyboard-heavy arrangements need a snare that cuts through without getting buried, unlike doom and sludge's slower, riff-driven approach that favors deep, resonant tone. Scott Travis's brass-shell Tama Starphonic prioritizes exactly that kind of brightness and projection, while Nicko McBrain and Mikkey Dee's Sonor Signature snares show a deeper, fuller-bodied approach can still cut through the mix."
       },
       {
         question: "Do I need a pro-level snare to play power metal?",
-        answer: "No — a Tama Imperialstar or Pearl Export steel snare, tuned bright and tight, will teach real power metal technique at a fraction of the price of the genre's professional Starphonic, Sonor Signature, and Free-Floating models. Upgrade once your technique and budget allow."
+        answer: "No — a Tama Imperialstar or Pearl Export steel snare, tuned bright and tight, will teach real power metal technique at a fraction of the price of the genre's professional Starphonic and Sonor Signature models. Upgrade once your technique and budget allow."
       }
     ],
 
     // Conclusion
     conclusion: {
       title: "Find Your Power Metal Snare Voice",
-      content: `Power metal snare choice comes down to how bright and cutting you need your projection to be against dense, anthemic arrangements. Scott Travis's brass-shell Tama Starphonic has defined Judas Priest's modern touring era with maximum cut. Nicko McBrain's Sonor Signature snare has powered Iron Maiden's galloping anthems for decades, while Mikkey Dee's alternating steel/maple Pearl Free-Floating shows the tonal flexibility that carried him through 23 years with Motörhead and into Scorpions. Aquiles Priester's custom Trick Drums snare rounds things out, staying articulate through Angra's most extreme sustained tempos.
+      content: `Power metal snare choice comes down to how bright and cutting you need your projection to be against dense, anthemic arrangements. Scott Travis's brass-shell Tama Starphonic has defined Judas Priest's modern touring era with maximum cut. Nicko McBrain's Sonor Signature snare has powered Iron Maiden's galloping anthems for decades, while Mikkey Dee's own deeper Sonor Signature birch snare shows the fuller-bodied tone that carried him through 23 years with Motörhead and into Scorpions. Aquiles Priester's custom Trick Drums snare rounds things out, staying articulate through Angra's most extreme sustained tempos.
 
 None of these approaches is more "correct" — all four represent power metal's foundational commitment to bright, cutting projection that carves through dense, layered arrangements. Start with whichever shell material matches your material's density, and don't be afraid to tune brighter and tighter than doom or sludge metal convention would suggest.
 
@@ -105845,14 +105845,14 @@ Start with whichever approach matches your material's demands — groove and dur
       title: "Why Power Metal Rewards Stamina and Consistency Over Peak Speed",
       content: `Power metal's galloping, triplet-based rhythms don't test a pedal's absolute top-end speed the way a blast beat does — they test whether that pedal can deliver the exact same response, hit after hit, for an entire 90-minute festival set of sustained mid-tempo double-kick patterns. A pedal that feels fast for the first three songs and then fatigues your ankle or loses consistency by song forty is worse than one that's simply reliable from start to finish.
 
-Scott Travis drives Judas Priest's twin bass drums with two independent Tama Speed Cobra pedals rather than a double pedal, preserving the foot independence that's carried "Painkiller" (1990)'s foundational blueprint forward for decades. Aquiles Priester relies on a DW 9000 Series double pedal to sustain his relaxation-based, 180-220+ BPM neoclassical double-bass technique on Angra's current rig. Nicko McBrain has never used a double pedal at all — Iron Maiden's entire galloping, triplet-based rhythmic vocabulary runs through one precise Sonor single pedal. Mikkey Dee's Pearl Demon Drive double pedal has carried him through 23+ years of Motörhead's relentless touring and into Scorpions' festival-circuit schedule without a platform change.
+Scott Travis drives Judas Priest's twin bass drums with two independent Tama Speed Cobra pedals rather than a double pedal, preserving the foot independence that's carried "Painkiller" (1990)'s foundational blueprint forward for decades. Aquiles Priester relies on a DW 9000 Series double pedal to sustain his relaxation-based, 180-220+ BPM neoclassical double-bass technique on Angra's current rig. Nicko McBrain has never used a double pedal at all — Iron Maiden's entire galloping, triplet-based rhythmic vocabulary runs through one precise Sonor single pedal. Mikkey Dee's DW 5000 Series double pedal has carried him through 23+ years of Motörhead's relentless touring and into Scorpions' festival-circuit schedule without a platform change.
 
 This guide breaks down what actually matters for power metal's sustained, mid-tempo double-kick demands — comparing what these four influential drummers play and why, with recommendations across every budget.`,
       keyPoints: [
         "Power metal tests sustained consistency across long, gallop-heavy sets more than peak double-bass speed",
         "Scott Travis drives Judas Priest's twin kicks with two independent Tama Speed Cobra single pedals, not a linked double",
         "Nicko McBrain has never used a double pedal — Iron Maiden's entire galloping foundation runs through one precise Sonor pedal",
-        "Mikkey Dee's Pearl Demon Drive has proven reliable across 23+ years of Motörhead and Scorpions touring without a platform change"
+        "Mikkey Dee's DW 5000 Series has proven reliable across 23+ years of Motörhead and Scorpions touring without a platform change"
       ]
     },
 
@@ -105881,7 +105881,7 @@ This guide breaks down what actually matters for power metal's sustained, mid-te
         {
           name: "Touring Durability",
           icon: "🛡️",
-          description: "Mikkey Dee's Pearl Demon Drive has held up across 23+ years of Motörhead's relentless touring and into Scorpions' arena and festival schedule without a platform change — proof reliability matters as much as top-end speed at the professional level.",
+          description: "Mikkey Dee's DW 5000 Series has held up across 23+ years of Motörhead's relentless touring and into Scorpions' arena and festival schedule without a platform change — proof reliability matters as much as top-end speed at the professional level.",
           recommendation: "Reinforced construction and quality bearings that hold up to a demanding festival-circuit touring schedule"
         },
         {
@@ -106010,40 +106010,40 @@ For power metal drummers whose material leans on gallop-first, triplet-based rhy
         },
         {
           rank: 4,
-          name: "Pearl Demon Drive",
-          brand: "Pearl",
-          model: "P3002D Demon Drive",
+          name: "DW 5000 Series",
+          brand: "DW",
+          model: "DW 5000 Delta III Double Pedal",
           image: "https://upload.wikimedia.org/wikipedia/commons/b/b1/Tama_Iron_Cobra_double_bass_drum_pedal.jpg",
-          priceRange: "€500-600",
+          priceRange: "€300-420",
           tier: "pro",
-          driveType: "Direct Drive",
-          description: `Mikkey Dee's Pearl Demon Drive double pedal has carried him through the final chapter of his 23-year Motörhead tenure and remains his platform with Scorpions, proving reliable across arena and festival stages without a platform change. The NiNjA bearing system delivers virtually frictionless action, while Click-Lock spring tension keeps adjustments precise across a demanding festival-circuit touring schedule.
+          driveType: "Chain Drive",
+          description: `Mikkey Dee's DW 5000 Series double pedal has carried him through the final chapter of his 23-year Motörhead tenure and remains his platform with Scorpions, proving reliable across arena and festival stages without a platform change. The Delta III linkage system delivers a solid, consistent connection, while cast aluminum construction keeps adjustments precise across a demanding festival-circuit touring schedule.
 
 For power metal's biggest festival-headlining bands, that kind of set-to-set, tour-to-tour reliability matters as much as raw top-end speed.`,
           pros: [
             "Mikkey Dee's setup — proven across 23+ years of relentless Motörhead and Scorpions touring",
-            "NiNjA bearing system for ultimate smoothness",
-            "Click-Lock spring tension adjustment stays precise across demanding tours",
-            "Direct drive delivers instant, linear response for sustained double-bass runs"
+            "Delta III linkage for a solid, consistent double pedal connection",
+            "Cast aluminum construction built for touring durability",
+            "DW build quality at a more accessible price than the 9000 series"
           ],
           cons: [
             "Less directly tied to power metal's fantasy-themed lyrical tradition",
-            "Direct drive takes adjustment if coming from chain drive",
-            "Premium price point"
+            "Not as refined as DW's 9000 series at extreme speeds",
+            "Chain drive feel differs from direct-drive pedals"
           ],
           specs: {
-            drive: "Direct Drive (interchangeable cams)",
-            cam: "Eccentric cam",
-            frame: "Aircraft-grade aluminum",
-            beater: "Demon Beater (reversible)",
-            footboard: "PowerShifter longboard"
+            drive: "Chain Drive (Delta III linkage)",
+            cam: "Standard cam",
+            frame: "Cast aluminum",
+            beater: "DW Standard Beater (reversible)",
+            footboard: "Standard length"
           },
           usedBy: [
-            { name: "Mikkey Dee", band: "Motörhead / Scorpions", note: "Pearl Demon Drive — touring stamina across two legendary bands" }
+            { name: "Mikkey Dee", band: "Motörhead / Scorpions", note: "DW 5000 Series — touring stamina across two legendary bands" }
           ],
           verdict: "Best for touring stamina. Dee's setup brings arena-level reliability to power metal's biggest stages.",
           rating: 4.5,
-          affiliateLink: "https://www.thomann.de/intl/pearl_p3002d_demon_drive_double.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/dw_5000_double_pedal.htm?partner_id=metalforge"
         }
       ]
     },
@@ -106074,10 +106074,10 @@ For power metal's biggest festival-headlining bands, that kind of set-to-set, to
           priceRange: "€350-400",
           tier: "mid",
           material: "Cast aluminum",
-          description: "The Eliminator Redline brings many features from Mikkey Dee's Demon Drive at a more accessible price. The interchangeable cam system lets you experiment with different feels, and the NiNjA bearings are the same as the flagship model.",
-          pros: ["Interchangeable cams included", "NiNjA bearing system shared with the Demon Drive", "Solid build quality for developing players"],
-          cons: ["Chain drive limits ultimate speed versus direct drive", "Not as refined as the Demon Drive"],
-          verdict: "Best mid-range path toward Mikkey Dee's Pearl sound.",
+          description: "The Eliminator Redline brings a direct-drive feel and interchangeable cam system at a more accessible price than Pearl's flagship pedals. The interchangeable cam system lets you experiment with different feels, and the NiNjA bearings are the same as the flagship model.",
+          pros: ["Interchangeable cams included", "NiNjA bearing system shared with Pearl's flagship model", "Solid build quality for developing players"],
+          cons: ["Chain drive limits ultimate speed versus direct drive", "Not as refined as Pearl's flagship direct-drive pedals"],
+          verdict: "Best mid-range direct-drive option for developing power metal technique.",
           rating: 4.3,
           affiliateLink: "https://www.thomann.de/intl/pearl_p2052c_eliminator_redline.htm?partner_id=metalforge"
         },
@@ -106131,12 +106131,12 @@ For power metal's biggest festival-headlining bands, that kind of set-to-set, to
       { slug: 'scott-travis', name: 'Scott Travis', reason: 'Twin Tama Speed Cobra singles — Judas Priest foot independence' },
       { slug: 'aquiles-priester', name: 'Aquiles Priester', reason: 'DW 9000 Series Double Pedal — Angra neoclassical double-bass precision' },
       { slug: 'nicko-mcbrain', name: 'Nicko McBrain', reason: 'Single Sonor pedal — Iron Maiden galloping foundation' },
-      { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'Pearl Demon Drive — Motörhead/Scorpions touring stamina' }
+      { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'DW 5000 Series — Motörhead/Scorpions touring stamina' }
     ],
 
     featuredDrummers: [
       { slug: 'nicko-mcbrain', name: 'Nicko McBrain', reason: 'Single Sonor pedal anchoring Iron Maiden\'s galloping foundation for four-plus decades' },
-      { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'Pearl Demon Drive — 23+ years of touring stamina across Motörhead and Scorpions' }
+      { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'DW 5000 Series — 23+ years of touring stamina across Motörhead and Scorpions' }
     ],
 
     // FAQ section for SEO
@@ -106159,14 +106159,14 @@ For power metal's biggest festival-headlining bands, that kind of set-to-set, to
       },
       {
         question: "Do I need an expensive double pedal to play power metal?",
-        answer: "No — a Tama Iron Cobra 600 or Pearl Eliminator Redline will teach real double-bass stamina at a fraction of the price of Aquiles Priester's DW 9000 or Mikkey Dee's Demon Drive. If your material is gallop-first rather than double-bass-heavy, a Sonor-style single pedal is even more affordable."
+        answer: "No — a Tama Iron Cobra 600 or Pearl Eliminator Redline will teach real double-bass stamina at a fraction of the price of Aquiles Priester's DW 9000 or Mikkey Dee's DW 5000 Series. If your material is gallop-first rather than double-bass-heavy, a Sonor-style single pedal is even more affordable."
       }
     ],
 
     // Conclusion
     conclusion: {
       title: "Choose Your Foot Foundation",
-      content: `Power metal pedal choice comes down to a fundamental question: does your material need sustained double-bass stamina across a full set, or does it live and die on gallop-first foot independence? Scott Travis found his answer in two independent Tama Speed Cobra singles, preserving total separation between feet. Nicko McBrain never touched a double pedal at all, proving Iron Maiden's entire rhythmic foundation could run on one precise Sonor pedal for four-plus decades of touring. Aquiles Priester and Mikkey Dee both depend on fast, reliable double pedals — the DW 9000 and Pearl Demon Drive — to sustain extreme tempo across an entire set.
+      content: `Power metal pedal choice comes down to a fundamental question: does your material need sustained double-bass stamina across a full set, or does it live and die on gallop-first foot independence? Scott Travis found his answer in two independent Tama Speed Cobra singles, preserving total separation between feet. Nicko McBrain never touched a double pedal at all, proving Iron Maiden's entire rhythmic foundation could run on one precise Sonor pedal for four-plus decades of touring. Aquiles Priester and Mikkey Dee both depend on fast, reliable double pedals — the DW 9000 and DW 5000 Series — to sustain extreme tempo across an entire set.
 
 Start with whichever setup matches your material's balance of gallop-first triplets versus sustained neoclassical double bass, and prioritize consistency over raw top-end numbers.
 
@@ -111704,7 +111704,7 @@ Whatever you choose, prioritize double-braced construction and precise memory lo
       title: "Why Power Metal Hardware Prizes Consistency Over Everything Else",
       content: `Power metal drumming lives at mid-to-fast, sustained tempos built around galloping, triplet-based rhythms rather than the extreme blast-beat abuse of death or black metal. That doesn't mean the hardware demands are light — it means the priority shifts. A power metal drummer needs stands and a throne that deliver the exact same feel on the last song of a two-hour festival set as they did on the first, night after night across a touring cycle, without the extreme weight-saving compromises some genres accept for portability.
 
-Scott Travis has anchored Judas Priest's twin-kick attack on the same heavy-duty Tama hardware line for decades, relying on rock-solid stands to keep two independently-pedaled bass drums perfectly synced through "Painkiller" (1990)'s galloping blueprint and beyond. Aquiles Priester built his reputation on Angra's sustained, 180-220+ BPM neoclassical double-bass runs, which demand a rig that won't drift out of position mid-run. Nicko McBrain has held Iron Maiden's entire galloping, triplet-based rhythmic vocabulary together on dependable Sonor hardware for over four decades of arena and festival touring — proof that unglamorous reliability outlasts flashy specs. Mikkey Dee carried the same road-tested discipline from Motörhead's relentless touring schedule into Scorpions, where Pearl hardware keeps his kit locked in across wildly different stage setups night after night.
+Scott Travis has anchored Judas Priest's twin-kick attack on the same heavy-duty Tama hardware line for decades, relying on rock-solid stands to keep two independently-pedaled bass drums perfectly synced through "Painkiller" (1990)'s galloping blueprint and beyond. Aquiles Priester built his reputation on Angra's sustained, 180-220+ BPM neoclassical double-bass runs, which demand a rig that won't drift out of position mid-run. Nicko McBrain has held Iron Maiden's entire galloping, triplet-based rhythmic vocabulary together on dependable Sonor hardware for over four decades of arena and festival touring — proof that unglamorous reliability outlasts flashy specs. Mikkey Dee carried the same road-tested discipline from Motörhead's relentless touring schedule into Scorpions, where DW hardware keeps his kit locked in across wildly different stage setups night after night.
 
 This guide breaks down what actually separates dependable power metal hardware from stands that merely look tough, which specific hardware the genre's most enduring drummers rely on, and where to spend versus where to save.`,
       keyPoints: [
@@ -111882,41 +111882,41 @@ The 400 Series delivers exactly that kind of steady, no-surprises performance, w
         },
         {
           rank: 4,
-          name: "Pearl D-3000 Roadster Throne",
-          brand: "Pearl",
-          model: "D-3000 Roadster Throne",
+          name: "DW 5000 Series Hardware Pack",
+          brand: "DW",
+          model: "5000 Series Hardware Pack",
           image: "https://upload.wikimedia.org/wikipedia/commons/6/6c/Acoustic_Drums_Kit_%2829965183378%29.jpg",
-          priceRange: "€150-250",
-          tier: "mid",
-          material: "Double-braced round base",
+          priceRange: "€400-550",
+          tier: "pro",
+          material: "Double-braced steel",
 
-          description: `Mikkey Dee's move from Motörhead's all-out attack into Scorpions' wider dynamic range depends on a throne that never shifts underneath him, and Pearl's D-3000 Roadster delivers exactly that — a wide, double-braced round base and locking height collar built for touring stamina.
+          description: `Mikkey Dee's move from Motörhead's all-out attack into Scorpions' wider dynamic range depends on hardware that never shifts underneath him, and DW's 5000 Series delivers exactly that — double-braced stability and reinforced tension bolts built for touring stamina, the same DW line his 5000 Series double pedal comes from.
 
-For power metal drummers playing long festival sets across wildly different stages, a stable throne matters as much as any stand — losing seat stability mid-song costs precision at every tempo.`,
+For power metal drummers playing long festival sets across wildly different stages, stable hardware matters as much as any stand — losing stability mid-song costs precision at every tempo.`,
 
           pros: [
-            "Wide double-braced base resists tip and wobble across long sets",
-            "Locking height collar holds position through a full touring cycle",
-            "Comfortable round-top seating for extended festival sets",
-            "Proven across Mikkey Dee's decades of touring stamina"
+            "Double-braced legs resist tip and wobble across long sets",
+            "DW memory locks hold position through a full touring cycle",
+            "Matches the DW 5000 Series family Mikkey Dee's own double pedal comes from",
+            "Proven touring durability across decades of DW hardware"
           ],
           cons: [
-            "Not as plush as premium leather thrones",
-            "Round-top design less common than saddle seats for some players"
+            "Less feature-rich than the flagship 9000 Series",
+            "Still a meaningful investment for a beginner setup"
           ],
           specs: {
-            bracing: "Double-braced round base",
-            baseType: "Round tripod",
-            locking: "Locking height collar",
-            includes: "Throne only",
-            weight: "Medium"
+            bracing: "Double-braced",
+            baseType: "Tripod",
+            locking: "DW memory locks",
+            includes: "Cymbal stands, hi-hat stand, snare stand",
+            weight: "Medium-heavy"
           },
           usedBy: [
-            { name: "Mikkey Dee", band: "Scorpions", note: "Pearl D-3000 throne for touring stamina across long festival sets" }
+            { name: "Mikkey Dee", band: "Scorpions", note: "DW 5000 Series hardware for touring stamina across long festival sets" }
           ],
-          verdict: "A stable, comfortable throne built for power metal's long, sustained festival sets.",
+          verdict: "A stable, road-ready hardware pack built for power metal's long, sustained festival sets.",
           rating: 4.6,
-          affiliateLink: "https://www.thomann.de/intl/pearl_d_series_throne.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/dw_5000_series_hardware_pack.htm?partner_id=metalforge"
         },
         {
           rank: 5,
@@ -112057,7 +112057,7 @@ For a power metal drummer building their first serious touring rig, the Armory p
       { slug: 'scott-travis', name: 'Scott Travis', reason: 'Tama Titan Series hardware anchoring twin-kick synchronization' },
       { slug: 'aquiles-priester', name: 'Aquiles Priester', reason: 'DW 9000 Series stability for sustained neoclassical double-bass runs' },
       { slug: 'nicko-mcbrain', name: 'Nicko McBrain', reason: 'Four decades of dependable Sonor hardware reliability' },
-      { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'Pearl D-3000 throne built for long festival-set touring stamina' }
+      { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'DW 5000 Series hardware built for long festival-set touring stamina' }
     ],
 
     // Featured drummers (issue template)
@@ -112065,14 +112065,14 @@ For a power metal drummer building their first serious touring rig, the Armory p
       { slug: 'scott-travis', name: 'Scott Travis', reason: 'Tama hardware syncing twin-kick Painkiller blueprint' },
       { slug: 'aquiles-priester', name: 'Aquiles Priester', reason: 'DW-grade stability for sustained neoclassical runs' },
       { slug: 'nicko-mcbrain', name: 'Nicko McBrain', reason: 'Four decades of dependable Sonor hardware' },
-      { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'Pearl throne for long festival-set stamina' }
+      { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'DW hardware for long festival-set stamina' }
     ],
 
     // FAQ section for SEO
     faq: [
       {
         question: "What hardware do power metal drummers use?",
-        answer: "Power metal drummers favor reliable, double-braced hardware built for touring consistency over extreme weight-saving. Scott Travis relies on Tama's Titan Series for his twin-kick Judas Priest rig, Aquiles Priester uses DW's 9000 Series for sustained neoclassical double-bass runs, Nicko McBrain has run dependable Sonor hardware with Iron Maiden for four decades, and Mikkey Dee uses a Pearl D-3000 throne for touring stamina."
+        answer: "Power metal drummers favor reliable, double-braced hardware built for touring consistency over extreme weight-saving. Scott Travis relies on Tama's Titan Series for his twin-kick Judas Priest rig, Aquiles Priester uses DW's 9000 Series for sustained neoclassical double-bass runs, Nicko McBrain has run dependable Sonor hardware with Iron Maiden for four decades, and Mikkey Dee uses DW's 5000 Series hardware for touring stamina."
       },
       {
         question: "Do I need twin-kick hardware for power metal?",
@@ -112084,7 +112084,7 @@ For a power metal drummer building their first serious touring rig, the Armory p
       },
       {
         question: "How important is throne stability for power metal drumming?",
-        answer: "Very important for sustained sets. Mikkey Dee's Pearl D-3000 Roadster throne and its wide, double-braced base keep him stable across long festival sets, while Aquiles Priester's sustained double-bass runs depend on a throne that won't shift or wobble mid-passage."
+        answer: "Very important for sustained sets. Mikkey Dee's double-braced DW hardware keeps his kit stable across long festival sets, while Aquiles Priester's sustained double-bass runs depend on a throne that won't shift or wobble mid-passage."
       },
       {
         question: "Is budget hardware reliable enough for power metal touring?",

@@ -29953,14 +29953,14 @@ Start with whichever character matches your playing style, and don't overlook th
       title: "Why Nu-Metal Chinas Need Both Control and Chaos",
       content: `Nu-metal china choice splits along the same fault line as the genre's whole rhythmic identity: tight, syncopated, hip-hop-influenced groove on one side, and raw, trashy breakdown aggression on the other. A china voiced for one extreme rarely satisfies the other, which is why nu-metal's two most influential drummers built entirely different china setups to solve the same problem.
 
-John Otto of Limp Bizkit runs a Zildjian A Custom China, chosen for its quick decay and controlled brightness — accents that punch through syncopated verses without smothering the groove pocket underneath. Joey Jordison of Slipknot went the opposite direction during the Iowa era, building his setup around a 20" Paiste RUDE Wild China, unlathed and raw enough to detonate through breakdown-heavy, maximum-aggression material. Ray Luzier of Korn splits the difference with a Paiste 2002 China, bright enough to cut through down-tuned, processed guitar layers without RUDE's total rawness.
+John Otto of Limp Bizkit runs a Zildjian A Custom China, chosen for its quick decay and controlled brightness — accents that punch through syncopated verses without smothering the groove pocket underneath. Joey Jordison of Slipknot went the opposite direction during the Iowa era, building his setup around a 20" Paiste RUDE Wild China, unlathed and raw enough to detonate through breakdown-heavy, maximum-aggression material. Ray Luzier of Korn splits the difference with a Sabian AAX Series China, bright enough to cut through down-tuned, processed guitar layers without RUDE's total rawness.
 
 This guide breaks down what actually makes a china work for nu-metal — quick decay for groove accents, raw explosiveness for breakdown chaos, or a bright middle ground — and recommends specific models across every budget, from a first china to the exact cymbals nu-metal's biggest drummers play.`,
       keyPoints: [
         "Nu-metal chinas need to serve two masters: syncopated groove control and breakdown-punctuating chaos",
         "John Otto's Zildjian A Custom China delivers quick-decaying, controlled accents for Limp Bizkit's groove-first verses",
         "Joey Jordison's raw, unlathed Paiste RUDE Wild China defines nu-metal's most aggressive, breakdown-heavy china voice",
-        "Ray Luzier's Paiste 2002 China shows a bright middle ground between Otto's control and Jordison's rawness"
+        "Ray Luzier's Sabian AAX Series China shows a bright middle ground between Otto's control and Jordison's rawness"
       ]
     },
 
@@ -29983,7 +29983,7 @@ This guide breaks down what actually makes a china work for nu-metal — quick d
         {
           name: "Bright, Cutting Voicing",
           icon: "✨",
-          description: "Ray Luzier's Paiste 2002 China brings a bright, cutting attack that carries through Korn's dense, down-tuned, processed guitar mixes without disappearing into the wall of sound.",
+          description: "Ray Luzier's Sabian AAX Series China brings a bright, cutting attack that carries through Korn's dense, down-tuned, processed guitar mixes without disappearing into the wall of sound.",
           recommendation: "Bright-voiced chinas that cut through heavily processed, down-tuned guitar layers"
         },
         {
@@ -29995,7 +29995,7 @@ This guide breaks down what actually makes a china work for nu-metal — quick d
         {
           name: "Alloy",
           icon: "⚙️",
-          description: "B20 bronze (Zildjian A Custom) delivers Otto's controlled brightness, while CuSn8 bronze (Paiste RUDE, 2002) delivers Jordison's and Luzier's rawer, more explosive character. Budget B8 lines are simpler but a genuinely usable starting point.",
+          description: "B20 bronze (Zildjian A Custom, Sabian AAX) delivers Otto's and Luzier's controlled brightness, while CuSn8 bronze (Paiste RUDE) delivers Jordison's rawer, more explosive character. Budget B8 lines are simpler but a genuinely usable starting point.",
           recommendation: "B20 bronze for controlled groove tone, CuSn8 bronze for raw explosiveness, B8 for a real budget entry"
         },
         {
@@ -30087,21 +30087,21 @@ Where Otto's Zildjian setup prioritizes control, Jordison's RUDE china was built
         },
         {
           rank: 3,
-          name: "Paiste 2002 China",
-          brand: "Paiste",
-          model: "18\" 2002 China",
+          name: "Sabian AAX Series China",
+          brand: "Sabian",
+          model: "18\" AAX Series China",
           image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg",
           priceRange: "€170-220",
           tier: "pro",
-          driveType: "CuSn8 Bronze, Brilliant",
-          description: `Ray Luzier has paired a Paiste 2002 China with his Korn kit setups, using the bright CuSn8 bronze tone to cut through Korn's dense, down-tuned, processed guitar layers. The 2002 line sits between John Otto's controlled Zildjian voice and Joey Jordison's raw Paiste RUDE setup — bright and explosive, but lathed and more polished than RUDE's unlathed chaos.
+          driveType: "B20 Bronze, Brilliant",
+          description: `Ray Luzier has paired a Sabian AAX Series China with his Korn kit setups, using its bright B20 bronze tone to cut through Korn's dense, down-tuned, processed guitar layers. The AAX Series sits between John Otto's controlled Zildjian voice and Joey Jordison's raw Paiste RUDE setup — bright and explosive, but more polished than RUDE's unlathed chaos.
 
-For nu-metal drummers who want a brighter, more explosive attack than Zildjian A Custom without going as raw as RUDE, the 2002 China offers a proven middle ground used across Korn's biggest, most syncopated records.`,
+For nu-metal drummers who want a brighter, more explosive attack than Zildjian A Custom without going as raw as RUDE, the AAX Series China offers a proven middle ground used across Korn's biggest, most syncopated records.`,
           pros: [
             "Ray Luzier's Korn setup — a bright, cutting middle ground for nu-metal",
-            "Bright CuSn8 bronze cuts through dense, down-tuned guitar mixes",
+            "Bright B20 bronze cuts through dense, down-tuned guitar mixes",
             "More polished than Paiste RUDE while staying more explosive than Zildjian A Custom",
-            "Reliable Paiste build quality for heavy touring use"
+            "Reliable Sabian build quality for heavy touring use"
           ],
           cons: [
             "Less raw/aggressive than Paiste RUDE for pure breakdown chaos",
@@ -30110,17 +30110,17 @@ For nu-metal drummers who want a brighter, more explosive attack than Zildjian A
           ],
           specs: {
             size: "18\"",
-            alloy: "CuSn8 Bronze",
+            alloy: "B20 Bronze",
             finish: "Brilliant",
             weight: "Medium",
             mounting: "Standard or Inverted"
           },
           usedBy: [
-            { name: "Ray Luzier", band: "Korn", note: "18\" 2002 China — bright cut through dense, processed guitar mixes" }
+            { name: "Ray Luzier", band: "Korn", note: "18\" AAX Series China — bright cut through dense, processed guitar mixes" }
           ],
           verdict: "The bright middle ground. Best if you want more explosiveness than Zildjian A Custom without RUDE's total rawness.",
           rating: 4.5,
-          affiliateLink: "https://www.thomann.de/intl/paiste_2002_china_18_luzier.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/sabian_aax_china_18_luzier.htm?partner_id=metalforge"
         },
         {
           rank: 4,
@@ -30195,14 +30195,14 @@ While not tied to one of nu-metal's featured signature setups, the AAXtreme appe
           priceRange: "€90-110",
           tier: "budget",
           driveType: "CuSn8 Bronze",
-          description: "Brings Paiste's signature trashy character to an accessible price point, using the same bronze alloy family as RUDE and 2002 just in a more affordable construction — a real taste of Jordison's and Luzier's tonal lineage.",
+          description: "Brings Paiste's signature trashy character to an accessible price point, using the same bronze alloy family as RUDE just in a more affordable construction — a real taste of Jordison's tonal lineage.",
           pros: [
-            "Real CuSn8 bronze alloy, same family as RUDE and 2002",
+            "Real CuSn8 bronze alloy, same family as RUDE",
             "Distinctive Paiste trashy character",
             "Solid durability for the price"
           ],
           cons: [
-            "Less refined tone than RUDE or 2002 series",
+            "Less refined tone than the RUDE series",
             "18\" only in this price tier"
           ],
           verdict: "Best budget entry into the Paiste trash sound behind nu-metal's rawest setups.",
@@ -30235,7 +30235,7 @@ While not tied to one of nu-metal's featured signature setups, the AAXtreme appe
 
     // Comparison
     comparison: {
-      title: "Zildjian A Custom vs Paiste RUDE vs Paiste 2002 for Nu-Metal",
+      title: "Zildjian A Custom vs Paiste RUDE vs Sabian AAX Series for Nu-Metal",
       content: `China choice splits nu-metal drummers into distinct camps, but each solves the genre's groove-versus-chaos tension differently:
 
 **Zildjian A Custom (John Otto):**
@@ -30248,12 +30248,12 @@ While not tied to one of nu-metal's featured signature setups, the AAXtreme appe
 - Better for theatrical, breakdown-heavy, high-aggression nu-metal
 - Best for: Aggressive, high-energy live performance
 
-**Paiste 2002 (Ray Luzier):**
+**Sabian AAX Series (Ray Luzier):**
 - Bright, explosive middle ground between control and rawness
 - Cuts through dense, down-tuned, processed guitar layers
 - Best for: Nu-metal that needs brightness without RUDE's total chaos
 
-**Our Recommendation:** Start with a Zildjian ZBT or Meinl HCS china if you're building nu-metal technique on a budget. Choose Zildjian A Custom for controlled, syncopated groove tone, Paiste RUDE Wild if your material is aggressive and breakdown-heavy, or Paiste 2002 for a bright middle ground.`,
+**Our Recommendation:** Start with a Zildjian ZBT or Meinl HCS china if you're building nu-metal technique on a budget. Choose Zildjian A Custom for controlled, syncopated groove tone, Paiste RUDE Wild if your material is aggressive and breakdown-heavy, or Sabian AAX Series for a bright middle ground.`,
       comparisonTable: [
         { feature: "Groove/Syncopation Control", directDrive: "⭐⭐⭐⭐⭐", chainDrive: "⭐⭐" },
         { feature: "Raw Aggression/Chaos", directDrive: "⭐⭐", chainDrive: "⭐⭐⭐⭐⭐" },
@@ -30278,7 +30278,7 @@ While not tied to one of nu-metal's featured signature setups, the AAXtreme appe
         },
         {
           category: "Best Bright Middle Ground",
-          pedal: "Paiste 2002 China",
+          pedal: "Sabian AAX Series China",
           reason: "Ray Luzier's Korn setup — bright enough to cut through down-tuned guitars without RUDE's total rawness."
         },
         {
@@ -30298,7 +30298,7 @@ While not tied to one of nu-metal's featured signature setups, the AAXtreme appe
     relatedDrummers: [
       { slug: 'john-otto', name: 'John Otto', reason: 'Zildjian A Custom China — Limp Bizkit groove-focused nu-metal' },
       { slug: 'joey-jordison', name: 'Joey Jordison', reason: 'Paiste RUDE Wild China — Slipknot aggressive nu-metal chaos' },
-      { slug: 'ray-luzier', name: 'Ray Luzier', reason: 'Paiste 2002 China — Korn bright cutting attack' }
+      { slug: 'ray-luzier', name: 'Ray Luzier', reason: 'Sabian AAX Series China — Korn bright cutting attack' }
     ],
     relatedComparisons: [],
 
@@ -30314,7 +30314,7 @@ While not tied to one of nu-metal's featured signature setups, the AAXtreme appe
       },
       {
         question: "What china cymbal does Ray Luzier use?",
-        answer: "Ray Luzier of Korn pairs an 18\" Paiste 2002 China with his kit, using its bright CuSn8 bronze tone to cut through Korn's dense, down-tuned, processed guitar layers."
+        answer: "Ray Luzier of Korn pairs an 18\" Sabian AAX Series China with his kit, using its bright B20 bronze tone to cut through Korn's dense, down-tuned, processed guitar layers."
       },
       {
         question: "Zildjian A Custom vs Paiste RUDE — which is better for nu-metal?",
@@ -30329,7 +30329,7 @@ While not tied to one of nu-metal's featured signature setups, the AAXtreme appe
     // Conclusion
     conclusion: {
       title: "Find Your Nu-Metal China Voice",
-      content: `Nu-metal china choice comes down to a fundamental question: do you want controlled groove or explosive chaos? John Otto found his answer in Zildjian A Custom's syncopated, quick-decaying voice, ideal for the hip-hop-influenced groove that anchors Limp Bizkit's biggest records. Joey Jordison found his in Paiste RUDE Wild's raw, unlathed aggression, built for Slipknot's most theatrical, breakdown-heavy performances. Ray Luzier's brighter Paiste 2002 setup shows a third path between the two extremes.
+      content: `Nu-metal china choice comes down to a fundamental question: do you want controlled groove or explosive chaos? John Otto found his answer in Zildjian A Custom's syncopated, quick-decaying voice, ideal for the hip-hop-influenced groove that anchors Limp Bizkit's biggest records. Joey Jordison found his in Paiste RUDE Wild's raw, unlathed aggression, built for Slipknot's most theatrical, breakdown-heavy performances. Ray Luzier's brighter Sabian AAX Series setup shows a third path between the two extremes.
 
 Start with a budget china from the family that matches your target sound, and upgrade once your technique and material demand it.
 
@@ -39297,7 +39297,7 @@ Start with a 21"-22" pro ride, and specialize toward a Mega Bell or Raw Bell Dry
       title: "Why Nu-Metal Rides Need Both Groove and Chaos",
       content: `Nu-metal's ride demands split the same way its cymbal setups do: a tight, articulate ping to anchor hip-hop-influenced, syncopated verse grooves, and a rawer, trashier voice ready to explode the instant a breakdown hits. A ride voiced for one extreme alone leaves the other half of the genre underserved.
 
-John Otto built his entire Limp Bizkit cymbal platform around a Zildjian A Custom Ping Ride, prized for the quick, articulate ping that lets his jazz-trained, syncopated groove sensibility cut cleanly through hip-hop-influenced verses on records like "Significant Other." Joey Jordison took the opposite path in Slipknot, riding a 20" Paiste RUDE Ride alongside his RUDE crashes and Wild China during the Iowa era — a raw, unlathed voice built for controlled destruction rather than clean definition. Ray Luzier's 20" Paiste 2002 Ride splits the difference for Korn, delivering a bright, cutting ping that stays articulate through dense, down-tuned, processed guitar layers without going as raw as Jordison's RUDE.
+John Otto built his entire Limp Bizkit cymbal platform around a Zildjian A Custom Ping Ride, prized for the quick, articulate ping that lets his jazz-trained, syncopated groove sensibility cut cleanly through hip-hop-influenced verses on records like "Significant Other." Joey Jordison took the opposite path in Slipknot, riding a 20" Paiste RUDE Ride alongside his RUDE crashes and Wild China during the Iowa era — a raw, unlathed voice built for controlled destruction rather than clean definition. Ray Luzier's 20" Sabian AAX Series Ride splits the difference for Korn, delivering a bright, cutting ping that stays articulate through dense, down-tuned, processed guitar layers without going as raw as Jordison's RUDE.
 
 This guide breaks down what actually makes a ride work for nu-metal — groove articulation, breakdown-ready wash, and durability across decades of arena touring — and recommends specific models across every budget, from a first upgrade off a stock cymbal pack to the exact rides these three influential drummers play night after night.`,
       keyPoints: [
@@ -39327,8 +39327,8 @@ This guide breaks down what actually makes a ride work for nu-metal — groove a
         {
           name: "Bright vs Raw Voicing",
           icon: "⚖️",
-          description: "Zildjian A Custom trades some aggression for polish and control, ideal for groove-and-melody-focused nu-metal. Paiste RUDE is unlathed and hammered for a rawer, trashier attack better suited to theatrical, high-aggression nu-metal — Ray Luzier's Paiste 2002 Ride sits in between.",
-          recommendation: "A Custom for controlled groove tone; RUDE for raw aggression; 2002 for a bright middle ground"
+          description: "Zildjian A Custom trades some aggression for polish and control, ideal for groove-and-melody-focused nu-metal. Paiste RUDE is unlathed and hammered for a rawer, trashier attack better suited to theatrical, high-aggression nu-metal — Ray Luzier's Sabian AAX Series Ride sits in between.",
+          recommendation: "A Custom for controlled groove tone; RUDE for raw aggression; AAX for a bright middle ground"
         },
         {
           name: "Size for Quick Response",
@@ -39431,21 +39431,21 @@ Where John Otto's Zildjian ride prioritizes control, Jordison's RUDE Ride is bui
         },
         {
           rank: 3,
-          name: "Paiste 2002 Ride",
-          brand: "Paiste",
-          model: "20\" 2002 Ride",
+          name: "Sabian AAX Series Ride",
+          brand: "Sabian",
+          model: "20\" AAX Series Ride",
           image: "https://upload.wikimedia.org/wikipedia/commons/8/8f/Avedis_Zildjian_Cymbal.jpg",
           priceRange: "€190-250",
           tier: "pro",
-          driveType: "CuSn8 Bronze, Brilliant",
-          description: `Ray Luzier has paired a 20" Paiste 2002 Ride with his Korn kit setups, using its bright CuSn8 bronze tone to cut through Korn's dense, down-tuned, processed guitar layers. It sits between John Otto's controlled Zildjian voice and Joey Jordison's raw Paiste RUDE Ride — bright and cutting, but lathed and more polished than RUDE's unlathed chaos.
+          driveType: "B20 Bronze, Brilliant",
+          description: `Ray Luzier has paired a 20" Sabian AAX Series Ride with his Korn kit setups, using its bright B20 bronze tone to cut through Korn's dense, down-tuned, processed guitar layers. It sits between John Otto's controlled Zildjian voice and Joey Jordison's raw Paiste RUDE Ride — bright and cutting, but more polished than RUDE's unlathed chaos.
 
-For nu-metal drummers who want a brighter, more explosive attack than a Zildjian A Custom without going as raw as RUDE, the 2002 Ride offers a proven middle ground across Korn's biggest, most syncopated records.`,
+For nu-metal drummers who want a brighter, more explosive attack than a Zildjian A Custom without going as raw as RUDE, the AAX Series Ride offers a proven middle ground across Korn's biggest, most syncopated records.`,
           pros: [
             "Ray Luzier's Korn setup — a bright, cutting middle ground for nu-metal",
-            "Bright CuSn8 bronze cuts through dense, down-tuned guitar mixes",
+            "Bright B20 bronze cuts through dense, down-tuned guitar mixes",
             "More polished than Paiste RUDE while staying more explosive than Zildjian A Custom",
-            "Reliable Paiste build quality for heavy touring use"
+            "Reliable Sabian build quality for heavy touring use"
           ],
           cons: [
             "Less raw/aggressive than Paiste RUDE for pure breakdown chaos",
@@ -39454,17 +39454,17 @@ For nu-metal drummers who want a brighter, more explosive attack than a Zildjian
           ],
           specs: {
             size: "20\"",
-            alloy: "CuSn8 Bronze",
+            alloy: "B20 Bronze",
             finish: "Brilliant",
             bell: "Standard",
             weight: "Medium-Heavy"
           },
           usedBy: [
-            { name: "Ray Luzier", band: "Korn", note: "20\" 2002 Ride — bright cut through Korn's dense, processed guitar mixes" }
+            { name: "Ray Luzier", band: "Korn", note: "20\" AAX Series Ride — bright cut through Korn's dense, processed guitar mixes" }
           ],
           verdict: "The bright middle ground. Best if you want more explosiveness than a Zildjian A Custom without RUDE's total rawness.",
           rating: 4.5,
-          affiliateLink: "https://www.thomann.de/intl/paiste_2002_ride_20_luzier.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/sabian_aax_ride_20_luzier.htm?partner_id=metalforge"
         },
         {
           rank: 4,
@@ -39539,9 +39539,9 @@ While not tied to one of nu-metal's featured signature setups, it appears widely
           priceRange: "€100-130",
           tier: "budget",
           driveType: "CuSn8 Bronze",
-          description: "Brings Paiste's signature bright, cutting character to an accessible price point, using the same bronze alloy family as Joey Jordison's and Ray Luzier's professional RUDE and 2002 rides.",
+          description: "Brings Paiste's signature bright, cutting character to an accessible price point, using the same bronze alloy family as Joey Jordison's professional RUDE ride.",
           pros: [
-            "Real CuSn8 bronze alloy, same family as the pro RUDE and 2002 lines",
+            "Real CuSn8 bronze alloy, same family as the pro RUDE line",
             "Bright, cutting Paiste character",
             "Solid durability for the price"
           ],
@@ -39594,7 +39594,7 @@ While not tied to one of nu-metal's featured signature setups, it appears widely
 
 **The Truth:** John Otto and Joey Jordison represent nu-metal's two defining ride philosophies at the highest level. Otto's Zildjian A Custom Ping Ride proves controlled, syncopated groove can anchor three decades of commercial success. Jordison's Paiste RUDE Ride proves raw aggression can be just as foundational. Neither is "more correct" — it depends on whether your nu-metal leans groove-first or aggression-first.
 
-**Our Recommendation:** Start with the Zildjian A Custom Ping Ride if your material is groove-driven and syncopated. Choose the Paiste RUDE Ride if your material is aggressive, breakdown-heavy, and theatrical. Try Ray Luzier's Paiste 2002 Ride if you want a bright middle ground between the two.`,
+**Our Recommendation:** Start with the Zildjian A Custom Ping Ride if your material is groove-driven and syncopated. Choose the Paiste RUDE Ride if your material is aggressive, breakdown-heavy, and theatrical. Try Ray Luzier's Sabian AAX Series Ride if you want a bright middle ground between the two.`,
       comparisonTable: [
         { feature: "Groove/Syncopation Control", directDrive: "⭐⭐⭐⭐⭐", chainDrive: "⭐⭐" },
         { feature: "Raw Aggression/Chaos", directDrive: "⭐⭐", chainDrive: "⭐⭐⭐⭐⭐" },
@@ -39619,7 +39619,7 @@ While not tied to one of nu-metal's featured signature setups, it appears widely
         },
         {
           category: "Best Bright Middle Ground",
-          pedal: "Paiste 2002 Ride",
+          pedal: "Sabian AAX Series Ride",
           reason: "Ray Luzier's Korn setup. Bright enough to cut through down-tuned guitars without RUDE's total rawness."
         },
         {
@@ -39640,14 +39640,14 @@ While not tied to one of nu-metal's featured signature setups, it appears widely
     relatedDrummers: [
       { slug: 'john-otto', name: 'John Otto', reason: '20" Zildjian A Custom Ping Ride — Limp Bizkit groove-focused nu-metal' },
       { slug: 'joey-jordison', name: 'Joey Jordison', reason: '20" Paiste RUDE Ride — Slipknot aggressive nu-metal chaos' },
-      { slug: 'ray-luzier', name: 'Ray Luzier', reason: '20" Paiste 2002 Ride — Korn bright cutting attack' }
+      { slug: 'ray-luzier', name: 'Ray Luzier', reason: '20" Sabian AAX Series Ride — Korn bright cutting attack' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'john-otto', name: 'John Otto', reason: 'Zildjian A Custom Ping Ride for Limp Bizkit' },
       { slug: 'joey-jordison', name: 'Joey Jordison', reason: 'Paiste RUDE Ride for Slipknot' },
-      { slug: 'ray-luzier', name: 'Ray Luzier', reason: 'Paiste 2002 Ride for Korn' }
+      { slug: 'ray-luzier', name: 'Ray Luzier', reason: 'Sabian AAX Series Ride for Korn' }
     ],
     relatedComparisons: [],
 
@@ -39678,7 +39678,7 @@ While not tied to one of nu-metal's featured signature setups, it appears widely
     // Conclusion
     conclusion: {
       title: "Find Your Nu-Metal Ride Voice",
-      content: `Nu-metal ride choice comes down to a fundamental question: do you want controlled groove or explosive chaos? John Otto found his answer in the Zildjian A Custom Ping Ride's articulate, quick-responding voice, ideal for the hip-hop-influenced groove that anchors Limp Bizkit's biggest records. Joey Jordison found his in the Paiste RUDE Ride's raw, unlathed aggression, built for Slipknot's most theatrical, breakdown-heavy performances. Ray Luzier's brighter Paiste 2002 Ride shows a third path between the two extremes.
+      content: `Nu-metal ride choice comes down to a fundamental question: do you want controlled groove or explosive chaos? John Otto found his answer in the Zildjian A Custom Ping Ride's articulate, quick-responding voice, ideal for the hip-hop-influenced groove that anchors Limp Bizkit's biggest records. Joey Jordison found his in the Paiste RUDE Ride's raw, unlathed aggression, built for Slipknot's most theatrical, breakdown-heavy performances. Ray Luzier's brighter Sabian AAX Series Ride shows a third path between the two extremes.
 
 Neither approach is more "authentic" to the genre — both have driven some of nu-metal's most commercially significant and influential recordings. Start with whichever family matches your band's balance of groove versus aggression.
 
@@ -47326,14 +47326,14 @@ Don't overlook the budget tier either — Zildjian A Series and Meinl HCS both p
       title: "Why Nu-Metal Crashes Need Both Control and Chaos",
       content: `Nu-metal crash choice splits along the same fault line as the genre's whole rhythmic identity: tight, syncopated, hip-hop-influenced groove on one side, and raw, trashy breakdown aggression on the other. A crash voiced for one extreme rarely satisfies the other, which is why nu-metal's two most influential drummers built entirely different crash setups to solve the same problem.
 
-John Otto of Limp Bizkit runs Zildjian A Custom Crashes across his kit, chosen for their quick decay and controlled brightness — accents that punch through syncopated verses without smothering the groove pocket underneath. Joey Jordison of Slipknot went the opposite direction during the Iowa era, building his setup around 16"-19" Paiste RUDE Crashes, unlathed and raw enough to detonate through breakdown-heavy, maximum-aggression material. Ray Luzier of Korn splits the difference with Paiste 2002 Power Crashes, bright enough to cut through down-tuned, processed guitar layers without RUDE's total rawness.
+John Otto of Limp Bizkit runs Zildjian A Custom Crashes across his kit, chosen for their quick decay and controlled brightness — accents that punch through syncopated verses without smothering the groove pocket underneath. Joey Jordison of Slipknot went the opposite direction during the Iowa era, building his setup around 16"-19" Paiste RUDE Crashes, unlathed and raw enough to detonate through breakdown-heavy, maximum-aggression material. Ray Luzier of Korn splits the difference with Sabian AAX Series Crashes, bright enough to cut through down-tuned, processed guitar layers without RUDE's total rawness.
 
 This guide breaks down what actually makes a crash work for nu-metal — quick decay for groove accents, raw explosiveness for breakdown chaos, or a bright middle ground — and recommends specific models across every budget, from a first crash to the exact cymbals nu-metal's biggest drummers play.`,
       keyPoints: [
         "Nu-metal crashes need to serve two masters: syncopated groove control and breakdown-punctuating chaos",
         "John Otto's Zildjian A Custom Crashes deliver quick-decaying, controlled accents for Limp Bizkit's groove-first verses",
         "Joey Jordison's raw, unlathed Paiste RUDE Crashes define nu-metal's most aggressive, breakdown-heavy crash voice",
-        "Ray Luzier's Paiste 2002 Power Crashes show a bright middle ground between Otto's control and Jordison's rawness"
+        "Ray Luzier's Sabian AAX Series Crashes show a bright middle ground between Otto's control and Jordison's rawness"
       ]
     },
 
@@ -47356,7 +47356,7 @@ This guide breaks down what actually makes a crash work for nu-metal — quick d
         {
           name: "Bright, Cutting Voicing",
           icon: "✨",
-          description: "Ray Luzier's Paiste 2002 Power Crashes bring a bright, cutting attack that carries through Korn's dense, down-tuned, processed guitar mixes without disappearing into the wall of sound.",
+          description: "Ray Luzier's Sabian AAX Series Crashes bring a bright, cutting attack that carries through Korn's dense, down-tuned, processed guitar mixes without disappearing into the wall of sound.",
           recommendation: "Bright-voiced crashes that cut through heavily processed, down-tuned guitar layers"
         },
         {
@@ -47368,7 +47368,7 @@ This guide breaks down what actually makes a crash work for nu-metal — quick d
         {
           name: "Alloy",
           icon: "⚙️",
-          description: "B20 bronze (Zildjian A Custom) delivers Otto's controlled brightness, while CuSn8 bronze (Paiste RUDE, 2002) delivers Jordison's and Luzier's rawer, more explosive character. Budget B8 lines are simpler but a genuinely usable starting point.",
+          description: "B20 bronze (Zildjian A Custom, Sabian AAX) delivers Otto's and Luzier's controlled brightness, while CuSn8 bronze (Paiste RUDE) delivers Jordison's rawer, more explosive character. Budget B8 lines are simpler but a genuinely usable starting point.",
           recommendation: "B20 bronze for controlled groove tone, CuSn8 bronze for raw explosiveness, B8 for a real budget entry"
         },
         {
@@ -47460,21 +47460,21 @@ Where Otto's Zildjian setup prioritizes control, Jordison's RUDE crashes were bu
         },
         {
           rank: 3,
-          name: "Paiste 2002 Power Crash",
-          brand: "Paiste",
-          model: "16\" & 18\" 2002 Power Crash",
+          name: "Sabian AAX Series Crash",
+          brand: "Sabian",
+          model: "16\" & 18\" AAX Series Crash",
           image: "https://upload.wikimedia.org/wikipedia/commons/3/31/Cymbal_Hammering.JPG",
           priceRange: "€170-240",
           tier: "pro",
-          driveType: "CuSn8 Bronze, Brilliant",
-          description: `Ray Luzier has paired Paiste 2002 Power Crashes with his Korn kit setups, using the bright CuSn8 bronze tone to cut through Korn's dense, down-tuned, processed guitar layers. The 2002 line sits between John Otto's controlled Zildjian voice and Joey Jordison's raw Paiste RUDE setup — bright and explosive, but lathed and more polished than RUDE's unlathed chaos.
+          driveType: "B20 Bronze, Brilliant",
+          description: `Ray Luzier has paired Sabian AAX Series Crashes with his Korn kit setups, using their bright B20 bronze tone to cut through Korn's dense, down-tuned, processed guitar layers. The AAX Series sits between John Otto's controlled Zildjian voice and Joey Jordison's raw Paiste RUDE setup — bright and explosive, but more polished than RUDE's unlathed chaos.
 
-For nu-metal drummers who want a brighter, more explosive attack than Zildjian A Custom without going as raw as RUDE, the 2002 Power Crash offers a proven middle ground used across Korn's biggest, most syncopated records.`,
+For nu-metal drummers who want a brighter, more explosive attack than Zildjian A Custom without going as raw as RUDE, the AAX Series Crash offers a proven middle ground used across Korn's biggest, most syncopated records.`,
           pros: [
             "Ray Luzier's Korn setup — a bright, cutting middle ground for nu-metal",
-            "Bright CuSn8 bronze cuts through dense, down-tuned guitar mixes",
+            "Bright B20 bronze cuts through dense, down-tuned guitar mixes",
             "More polished than Paiste RUDE while staying more explosive than Zildjian A Custom",
-            "Reliable Paiste build quality for heavy touring use"
+            "Reliable Sabian build quality for heavy touring use"
           ],
           cons: [
             "Less raw/aggressive than Paiste RUDE for pure breakdown chaos",
@@ -47483,17 +47483,17 @@ For nu-metal drummers who want a brighter, more explosive attack than Zildjian A
           ],
           specs: {
             size: "16\" & 18\"",
-            alloy: "CuSn8 Bronze",
+            alloy: "B20 Bronze",
             finish: "Brilliant",
             weight: "Medium",
             decay: "Bright, explosive"
           },
           usedBy: [
-            { name: "Ray Luzier", band: "Korn", note: "16\" & 18\" 2002 Power Crashes — bright cut through dense, processed guitar mixes" }
+            { name: "Ray Luzier", band: "Korn", note: "16\" & 18\" AAX Series Crashes — bright cut through dense, processed guitar mixes" }
           ],
           verdict: "The bright middle ground. Best if you want more explosiveness than Zildjian A Custom without RUDE's total rawness.",
           rating: 4.5,
-          affiliateLink: "https://www.thomann.de/intl/paiste_2002_power_crash_18_luzier.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/sabian_aax_crash_18_luzier.htm?partner_id=metalforge"
         },
         {
           rank: 4,
@@ -47587,7 +47587,7 @@ While not tied to one of nu-metal's featured signature setups, the X-Plosion app
 
     // Comparison
     comparison: {
-      title: "Zildjian A Custom vs Paiste RUDE vs Paiste 2002 for Nu-Metal",
+      title: "Zildjian A Custom vs Paiste RUDE vs Sabian AAX Series for Nu-Metal",
       content: `Crash choice splits nu-metal drummers into distinct camps, but each solves the genre's groove-versus-chaos tension differently:
 
 **Zildjian A Custom (John Otto):**
@@ -47600,12 +47600,12 @@ While not tied to one of nu-metal's featured signature setups, the X-Plosion app
 - Better for theatrical, breakdown-heavy, high-aggression nu-metal
 - Best for: Aggressive, high-energy live performance
 
-**Paiste 2002 (Ray Luzier):**
+**Sabian AAX Series (Ray Luzier):**
 - Bright, explosive middle ground between control and rawness
 - Cuts through dense, down-tuned, processed guitar layers
 - Best for: Nu-metal that needs brightness without RUDE's total chaos
 
-**Our Recommendation:** Start with a Zildjian ZBT or Meinl HCS crash if you're building nu-metal technique on a budget. Choose Zildjian A Custom for controlled, syncopated groove tone, Paiste RUDE if your material is aggressive and breakdown-heavy, or Paiste 2002 for a bright middle ground.`,
+**Our Recommendation:** Start with a Zildjian ZBT or Meinl HCS crash if you're building nu-metal technique on a budget. Choose Zildjian A Custom for controlled, syncopated groove tone, Paiste RUDE if your material is aggressive and breakdown-heavy, or Sabian AAX Series for a bright middle ground.`,
       comparisonTable: [
         { feature: "Groove/Syncopation Control", directDrive: "⭐⭐⭐⭐⭐", chainDrive: "⭐⭐" },
         { feature: "Raw Aggression/Chaos", directDrive: "⭐⭐", chainDrive: "⭐⭐⭐⭐⭐" },
@@ -47630,7 +47630,7 @@ While not tied to one of nu-metal's featured signature setups, the X-Plosion app
         },
         {
           category: "Best Bright Middle Ground",
-          pedal: "Paiste 2002 Power Crash",
+          pedal: "Sabian AAX Series Crash",
           reason: "Ray Luzier's Korn setup — bright enough to cut through down-tuned guitars without RUDE's total rawness."
         },
         {
@@ -47652,14 +47652,14 @@ While not tied to one of nu-metal's featured signature setups, the X-Plosion app
     relatedDrummers: [
       { slug: 'john-otto', name: 'John Otto', reason: 'Zildjian A Custom Crash — Limp Bizkit groove-focused nu-metal' },
       { slug: 'joey-jordison', name: 'Joey Jordison', reason: 'Paiste RUDE Crash — Slipknot aggressive nu-metal chaos' },
-      { slug: 'ray-luzier', name: 'Ray Luzier', reason: 'Paiste 2002 Power Crash — Korn bright cutting attack' }
+      { slug: 'ray-luzier', name: 'Ray Luzier', reason: 'Sabian AAX Series Crash — Korn bright cutting attack' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'john-otto', name: 'John Otto', reason: 'Zildjian A Custom Crash — Limp Bizkit groove-focused nu-metal' },
       { slug: 'joey-jordison', name: 'Joey Jordison', reason: 'Paiste RUDE Crash — Slipknot aggressive nu-metal chaos' },
-      { slug: 'ray-luzier', name: 'Ray Luzier', reason: 'Paiste 2002 Power Crash — Korn bright cutting attack' }
+      { slug: 'ray-luzier', name: 'Ray Luzier', reason: 'Sabian AAX Series Crash — Korn bright cutting attack' }
     ],
     relatedComparisons: [],
 
@@ -47675,7 +47675,7 @@ While not tied to one of nu-metal's featured signature setups, the X-Plosion app
       },
       {
         question: "What crash cymbal does Ray Luzier use?",
-        answer: "Ray Luzier of Korn pairs 16\" and 18\" Paiste 2002 Power Crashes with his kit, using their bright CuSn8 bronze tone to cut through Korn's dense, down-tuned, processed guitar layers."
+        answer: "Ray Luzier of Korn pairs 16\" and 18\" Sabian AAX Series Crashes with his kit, using their bright B20 bronze tone to cut through Korn's dense, down-tuned, processed guitar layers."
       },
       {
         question: "Zildjian A Custom vs Paiste RUDE — which is better for nu-metal?",
@@ -47690,7 +47690,7 @@ While not tied to one of nu-metal's featured signature setups, the X-Plosion app
     // Conclusion
     conclusion: {
       title: "Find Your Nu-Metal Crash Voice",
-      content: `Nu-metal crash choice comes down to a fundamental question: do you want controlled groove or explosive chaos? John Otto found his answer in Zildjian A Custom's syncopated, quick-decaying voice, ideal for the hip-hop-influenced groove that anchors Limp Bizkit's biggest records. Joey Jordison found his in Paiste RUDE's raw, unlathed aggression, built for Slipknot's most theatrical, breakdown-heavy performances. Ray Luzier's brighter Paiste 2002 setup shows a third path between the two extremes.
+      content: `Nu-metal crash choice comes down to a fundamental question: do you want controlled groove or explosive chaos? John Otto found his answer in Zildjian A Custom's syncopated, quick-decaying voice, ideal for the hip-hop-influenced groove that anchors Limp Bizkit's biggest records. Joey Jordison found his in Paiste RUDE's raw, unlathed aggression, built for Slipknot's most theatrical, breakdown-heavy performances. Ray Luzier's brighter Sabian AAX Series setup shows a third path between the two extremes.
 
 Start with a budget crash from the family that matches your target sound, and upgrade once your technique and material demand it.
 
@@ -76164,14 +76164,14 @@ If you decide a splash belongs in your setup, start with a dark, 10"-12" voicing
       title: "Why Nu-Metal Splits Its Splash Needs Down the Middle",
       content: `Nu-metal's rhythmic identity splits along the same line its crash choices do: tight, syncopated, hip-hop-influenced groove on one side, raw breakdown aggression on the other. A splash cymbal — a bright, near-instant-decay accent typically 8" to 12" in diameter — fits naturally into the first camp and far less naturally into the second, which is exactly why it shows up as an occasional color rather than a defining voice across the genre.
 
-None of nu-metal's core drummers have a widely documented signature splash setup, so this guide draws its recommendations from what's already well established about their crash voicing instead. John Otto of Limp Bizkit runs Zildjian A Custom Crashes for their quick decay and controlled brightness — a voicing philosophy that translates directly into what to look for in a splash for the same syncopated, groove-first verses. Joey Jordison of Slipknot built his Iowa-era setup around raw, unlathed 16"-19" Paiste RUDE Crashes for maximum breakdown detonation, a rig whose whole design goal — chaos over control — leaves a lot less room for a quick-decaying splash accent. Ray Luzier of Korn splits the difference with bright Paiste 2002 Power Crashes, a middle ground that a splash can extend rather than compete with.
+None of nu-metal's core drummers have a widely documented signature splash setup, so this guide draws its recommendations from what's already well established about their crash voicing instead. John Otto of Limp Bizkit runs Zildjian A Custom Crashes for their quick decay and controlled brightness — a voicing philosophy that translates directly into what to look for in a splash for the same syncopated, groove-first verses. Joey Jordison of Slipknot built his Iowa-era setup around raw, unlathed 16"-19" Paiste RUDE Crashes for maximum breakdown detonation, a rig whose whole design goal — chaos over control — leaves a lot less room for a quick-decaying splash accent. Ray Luzier of Korn splits the difference with bright Sabian AAX Series Crashes, a middle ground that a splash can extend rather than compete with.
 
 This guide covers what actually matters when adding a splash to a nu-metal setup — matching it to whichever side of the groove/chaos divide your playing leans toward — with specific recommendations across every budget.`,
       keyPoints: [
         "No nu-metal drummer has a widely documented signature splash rig — this guide extends what's known about their crash voicing instead",
         "John Otto's quick-decaying, controlled Zildjian A Custom Crash philosophy translates naturally into a bright, fast splash for groove-first verses",
         "Joey Jordison's raw, unlathed Paiste RUDE Crash setup leaves far less room for a splash — breakdown chaos favors a crash or china instead",
-        "Ray Luzier's bright Paiste 2002 Power Crash sits in the middle ground a splash can extend without clashing"
+        "Ray Luzier's bright Sabian AAX Series Crash sits in the middle ground a splash can extend without clashing"
       ]
     },
 
@@ -76200,8 +76200,8 @@ This guide covers what actually matters when adding a splash to a nu-metal setup
         {
           name: "Metal Alloy",
           icon: "🔥",
-          description: "B20 bronze (Zildjian A Custom, Paiste 2002) delivers a more complex, musical overtone structure consistent with nu-metal's pro-tier crash setups. B8 bronze is brighter and more one-dimensional but far more affordable.",
-          recommendation: "B20 to match a pro-tier A Custom or 2002 crash setup; B8 is a genuinely usable budget alternative"
+          description: "B20 bronze (Zildjian A Custom, Sabian AAX) delivers a more complex, musical overtone structure consistent with nu-metal's pro-tier crash setups. B8 bronze is brighter and more one-dimensional but far more affordable.",
+          recommendation: "B20 to match a pro-tier A Custom or AAX crash setup; B8 is a genuinely usable budget alternative"
         },
         {
           name: "Mounting Position",
@@ -76292,21 +76292,21 @@ Its role stays limited compared to the crash itself, but it's the one splash voi
         },
         {
           rank: 3,
-          name: "Paiste 2002 Classic Splash",
-          brand: "Paiste",
-          model: "2002 Classic Splash 10\"",
+          name: "Sabian AAX Series Splash",
+          brand: "Sabian",
+          model: "AAX Series Splash 10\"",
           image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg",
           priceRange: "€110-140",
           tier: "pro",
-          driveType: "CuSn8 Bronze, Brilliant Finish",
-          description: `The 2002 Classic Splash carries the same bright, cutting attack as Ray Luzier's 2002 Power Crash setup for Korn, giving a splash accent that projects through down-tuned, processed guitar layers without the total rawness of a RUDE splash.
+          driveType: "B20 Bronze, Brilliant Finish",
+          description: `The AAX Series Splash carries the same bright, cutting attack as Ray Luzier's AAX Series crash setup for Korn, giving a splash accent that projects through down-tuned, processed guitar layers without the total rawness of a RUDE splash.
 
 It's the natural middle-ground pick for drummers who, like Luzier, want brightness without going as far as an unlathed, trashy voicing.`,
           pros: [
-            "Matches the bright 2002 voicing behind Ray Luzier's Korn crash setup",
+            "Matches the bright AAX voicing behind Ray Luzier's Korn crash setup",
             "Cuts through down-tuned, heavily processed guitar mixes",
             "A genuine middle ground between clean A Custom and raw RUDE splashes",
-            "Reliable Paiste build quality"
+            "Reliable Sabian build quality"
           ],
           cons: [
             "Premium price point",
@@ -76315,14 +76315,14 @@ It's the natural middle-ground pick for drummers who, like Luzier, want brightne
           ],
           specs: {
             diameter: "10\"",
-            alloy: "CuSn8 Bronze",
+            alloy: "B20 Bronze",
             finish: "Brilliant",
             weight: "Medium-Thin"
           },
           usedBy: [],
           verdict: "The best bright, cutting middle ground between clean and raw nu-metal splash voicings.",
           rating: 4.4,
-          affiliateLink: "https://www.thomann.de/intl/paiste_2002_classic_splash_10.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/sabian_aax_classic_splash_10.htm?partner_id=metalforge"
         },
         {
           rank: 4,
@@ -76333,7 +76333,7 @@ It's the natural middle-ground pick for drummers who, like Luzier, want brightne
           priceRange: "€100-130",
           tier: "pro",
           driveType: "B20 Bronze, Brilliant Finish",
-          description: `AAX's bright, explosive voicing gives this splash a versatile, general-purpose accent option for nu-metal drummers who don't already run a strong A Custom, RUDE, or 2002 crash allegiance.`,
+          description: `AAX's bright, explosive voicing gives this splash a versatile, general-purpose accent option for nu-metal drummers who don't already run a strong A Custom or RUDE crash allegiance.`,
           pros: [
             "Bright, explosive attack cuts clearly through a dense mix",
             "Versatile pick without requiring a specific existing crash family",
@@ -76435,7 +76435,7 @@ It's the natural middle-ground pick for drummers who, like Luzier, want brightne
       title: "Bright/Clean vs Raw/Trash Splash Voicing",
       content: `Splash cymbals for nu-metal generally split into two tonal camps, mirroring the genre's own groove-versus-chaos divide:
 
-**Bright/Clean Splashes (Zildjian A Custom, Paiste 2002 Classic, Sabian AAX):**
+**Bright/Clean Splashes (Zildjian A Custom, Sabian AAX):**
 - Quick, controlled decay that punctuates syncopated, hip-hop-influenced groove accents
 - The natural extension of John Otto's and Ray Luzier's crash philosophy
 - Best when your playing leans toward groove-first, verse-driven material
@@ -76447,7 +76447,7 @@ It's the natural middle-ground pick for drummers who, like Luzier, want brightne
 
 **The Truth:** Nu-metal doesn't have a single "correct" splash voicing because the genre itself splits between groove-first and chaos-first drumming. Match your splash to whichever side of that divide your existing crash setup already represents, rather than treating it as an independent choice.
 
-**Our Recommendation:** If your crash setup already leans bright and controlled (A Custom, 2002), add a matching bright splash. If it leans raw and unlathed (RUDE), a raw splash is the more consistent — if still secondary — choice.`,
+**Our Recommendation:** If your crash setup already leans bright and controlled (A Custom, AAX), add a matching bright splash. If it leans raw and unlathed (RUDE), a raw splash is the more consistent — if still secondary — choice.`,
       comparisonTable: [
         { feature: "Fits Groove-First Verses", directDrive: "⭐⭐⭐⭐⭐", chainDrive: "⭐⭐" },
         { feature: "Fits Breakdown Chaos", directDrive: "⭐⭐", chainDrive: "⭐⭐⭐⭐" },
@@ -76478,8 +76478,8 @@ It's the natural middle-ground pick for drummers who, like Luzier, want brightne
         },
         {
           category: "Best Bright Cutting Middle Ground",
-          pedal: "Paiste 2002 Classic Splash",
-          reason: "Matches Ray Luzier's bright 2002 crash voicing without a RUDE splash's full rawness."
+          pedal: "Sabian AAX Series Splash",
+          reason: "Matches Ray Luzier's bright AAX crash voicing without a RUDE splash's full rawness."
         }
       ]
     },
@@ -76493,7 +76493,7 @@ It's the natural middle-ground pick for drummers who, like Luzier, want brightne
     relatedDrummers: [
       { slug: 'john-otto', name: 'John Otto', reason: 'Zildjian A Custom Crash — Limp Bizkit\'s groove-focused nu-metal, the quick-decay philosophy behind this guide\'s top splash pick' },
       { slug: 'joey-jordison', name: 'Joey Jordison', reason: 'Paiste RUDE Crash — Slipknot\'s aggressive nu-metal chaos, the rig a raw splash extends' },
-      { slug: 'ray-luzier', name: 'Ray Luzier', reason: 'Paiste 2002 Power Crash — Korn\'s bright, cutting attack and this guide\'s middle-ground splash pick' }
+      { slug: 'ray-luzier', name: 'Ray Luzier', reason: 'Sabian AAX Series Crash — Korn\'s bright, cutting attack and this guide\'s middle-ground splash pick' }
     ],
     relatedComparisons: [],
 
@@ -76501,7 +76501,7 @@ It's the natural middle-ground pick for drummers who, like Luzier, want brightne
     faq: [
       {
         question: "Do nu-metal drummers actually use splash cymbals?",
-        answer: "As an occasional color rather than a defining voice. No core nu-metal drummer has a widely documented signature splash rig — but a bright splash naturally extends the same quick-decaying, controlled accent philosophy behind John Otto's Zildjian A Custom Crash and Ray Luzier's Paiste 2002 Power Crash setups during groove-first, syncopated verses."
+        answer: "As an occasional color rather than a defining voice. No core nu-metal drummer has a widely documented signature splash rig — but a bright splash naturally extends the same quick-decaying, controlled accent philosophy behind John Otto's Zildjian A Custom Crash and Ray Luzier's Sabian AAX Series Crash setups during groove-first, syncopated verses."
       },
       {
         question: "What size splash cymbal is best for nu-metal?",
@@ -76509,7 +76509,7 @@ It's the natural middle-ground pick for drummers who, like Luzier, want brightne
       },
       {
         question: "Bright or raw splash cymbal — which is better for nu-metal?",
-        answer: "It depends which side of nu-metal's groove-versus-chaos divide your crash setup already sits on. A bright, clean splash (Zildjian A Custom, Paiste 2002 Classic) fits groove-first playing in the style of John Otto and Ray Luzier, while a raw, unlathed splash (Paiste Rude) fits a fully chaos-first rig in the style of Joey Jordison's RUDE-based Slipknot setup."
+        answer: "It depends which side of nu-metal's groove-versus-chaos divide your crash setup already sits on. A bright, clean splash (Zildjian A Custom, Sabian AAX) fits groove-first playing in the style of John Otto and Ray Luzier, while a raw, unlathed splash (Paiste Rude) fits a fully chaos-first rig in the style of Joey Jordison's RUDE-based Slipknot setup."
       },
       {
         question: "Why isn't splash a bigger part of nu-metal cymbal setups?",
@@ -81457,7 +81457,7 @@ Budget shouldn't stop you either. A Pearl Export or Tama Imperialstar snare will
       subtitle: "What John Otto and Joey Jordison Actually Play",
       badge: "GEAR GUIDE 2026",
       stats: [
-        { value: '4', label: 'Cymbal Lines Reviewed' },
+        { value: '3', label: 'Cymbal Lines Reviewed' },
         { value: '7 min', label: 'Read Time' },
         { value: '2026', label: 'Updated' }
       ]
@@ -81475,7 +81475,7 @@ This guide compares Zildjian A/A Custom and Paiste RUDE for nu-metal — breakin
         "Zildjian A/A Custom (John Otto) delivers controlled, syncopated groove tone for hip-hop-influenced nu-metal",
         "Paiste RUDE (Joey Jordison) delivers raw, unlathed chaos for aggressive, breakdown-heavy nu-metal",
         "An 18\"-20\" china is nu-metal's essential breakdown-punctuation cymbal, present in both featured setups",
-        "Ray Luzier's Paiste 2002 Series shows a brighter middle ground between Otto's polish and Jordison's rawness"
+        "Ray Luzier's Sabian AAX Series shows a brighter middle ground between Otto's polish and Jordison's rawness"
       ]
     },
 
@@ -81600,23 +81600,23 @@ Where John Otto's Zildjian setup prioritizes control, Jordison's RUDE setup is b
         },
         {
           rank: 3,
-          name: "Paiste 2002 Series",
-          brand: "Paiste",
-          model: "2002 Series",
+          name: "Sabian AAX Series",
+          brand: "Sabian",
+          model: "AAX Series",
           image: "https://upload.wikimedia.org/wikipedia/commons/4/43/Zildjian_Quick_Beat_Hi_Hat_15.jpg",
-          priceRange: "€170-260 per cymbal",
+          priceRange: "€150-330 per cymbal",
           tier: "pro",
-          material: "CuSn8 Bronze, Brilliant",
+          material: "B20 Bronze",
 
-          description: `Ray Luzier has paired Paiste 2002 Series cymbals with his Korn kit setups, using the bright CuSn8 bronze tone to cut through Korn's dense, down-tuned, processed guitar layers. The 2002 line sits between John Otto's controlled Zildjian voice and Joey Jordison's raw Paiste RUDE setup — bright and cutting, but lathed and more polished than RUDE's unlathed chaos.
+          description: `Ray Luzier has paired Sabian AAX Series cymbals with his Korn kit setups, using their bright B20 bronze tone to cut through Korn's dense, down-tuned, processed guitar layers. The AAX line sits between John Otto's controlled Zildjian voice and Joey Jordison's raw Paiste RUDE setup — bright and cutting, but more polished than RUDE's unlathed chaos.
 
-For nu-metal drummers who want a brighter, more explosive attack than Zildjian A Series without going as raw as RUDE, the 2002 line offers a proven middle ground used across Korn's biggest, most syncopated records.`,
+For nu-metal drummers who want a brighter, more explosive attack than Zildjian A Series without going as raw as RUDE, the AAX Series offers a proven middle ground used across Korn's biggest, most syncopated records — and it's a widely used alternative across the touring and session circuit more broadly, for its reliability and consistent worldwide availability.`,
 
           pros: [
             "Ray Luzier's Korn setup — a bright, cutting middle ground for nu-metal",
-            "Bright CuSn8 bronze cuts through dense, down-tuned guitar mixes",
+            "Bright B20 bronze cuts through dense, down-tuned guitar mixes",
             "More polished than Paiste RUDE while staying more explosive than Zildjian A Series",
-            "Reliable Paiste build quality for heavy touring use"
+            "Reliable Sabian build quality and wide availability for heavy touring use"
           ],
           cons: [
             "Less raw/aggressive than Paiste RUDE for pure breakdown chaos",
@@ -81624,54 +81624,16 @@ For nu-metal drummers who want a brighter, more explosive attack than Zildjian A
             "Mid-tier pricing sits between budget and ultra-premium options"
           ],
           specs: {
-            alloy: "CuSn8 Bronze",
-            finish: "Brilliant",
-            priceRange: "€170–€260 per cymbal",
-            bestFor: "Bright, cutting nu-metal that sits between groove and aggression"
-          },
-          usedBy: [
-            { name: "Ray Luzier", band: "Korn", note: "Paiste 2002 Series — bright cut through Korn's dense, processed guitar mixes" }
-          ],
-          verdict: "The bright middle ground. Best if you want more explosiveness than Zildjian A Series without RUDE's total rawness.",
-          rating: 4.5,
-          affiliateLink: "https://www.thomann.de/intl/paiste_2002_series.htm?partner_id=metalforge"
-        },
-        {
-          rank: 4,
-          name: "Sabian AAX Series",
-          brand: "Sabian",
-          model: "AAX Series",
-          image: "https://upload.wikimedia.org/wikipedia/commons/4/43/Zildjian_Quick_Beat_Hi_Hat_15.jpg",
-          priceRange: "€150-330 per cymbal",
-          tier: "mid",
-          material: "B20 Bronze",
-
-          description: `Sabian's AAX Series is a widely used alternative for nu-metal drummers who want a bright, cutting voice without committing to Zildjian or Paiste's specific signature lineages. The B20 bronze construction and brilliant finish deliver a fast, present attack that works well for both syncopated groove work and breakdown punctuation.
-
-While not tied to one of nu-metal's featured signature setups, AAX cymbals appear widely across the touring and session circuit for their reliability, bright cut, and consistent worldwide availability.`,
-
-          pros: [
-            "Bright, present B20 tone comparable to the genre's brighter setups",
-            "More accessible pricing than Zildjian or Paiste signature lines",
-            "Reliable and widely available worldwide",
-            "Works for both groove-focused and aggressive nu-metal styles"
-          ],
-          cons: [
-            "Not tied to a specific nu-metal legend's setup",
-            "Less distinctive character than Zildjian A Custom or Paiste RUDE",
-            "Less established reputation specifically within nu-metal circles"
-          ],
-          specs: {
             alloy: "B20 Bronze",
             finish: "Brilliant",
             priceRange: "€150–€330 per cymbal",
-            bestFor: "Nu-metal drummers seeking a Zildjian/Paiste alternative"
+            bestFor: "Bright, cutting nu-metal that sits between groove and aggression"
           },
           usedBy: [
-            { name: "Nu-metal drummers worldwide", band: "Various", note: "Widely used alternative across touring and session nu-metal setups" }
+            { name: "Ray Luzier", band: "Korn", note: "Sabian AAX Series — bright cut through Korn's dense, processed guitar mixes" }
           ],
-          verdict: "Strong alternative to Zildjian and Paiste for nu-metal. Bright, present, and more widely accessible.",
-          rating: 4.2,
+          verdict: "The bright middle ground. Best if you want more explosiveness than Zildjian A Series without RUDE's total rawness.",
+          rating: 4.5,
           affiliateLink: "https://www.thomann.de/intl/sabian_aax_series.htm?partner_id=metalforge"
         }
       ]
@@ -81758,7 +81720,7 @@ While not tied to one of nu-metal's featured signature setups, AAX cymbals appea
         },
         {
           category: "Best Bright Middle Ground",
-          pedal: "Paiste 2002 Series",
+          pedal: "Sabian AAX Series",
           reason: "Ray Luzier's Korn setup. Bright enough to cut through down-tuned guitars without RUDE's total rawness."
         },
         {
@@ -81778,14 +81740,14 @@ While not tied to one of nu-metal's featured signature setups, AAX cymbals appea
     relatedDrummers: [
       { slug: 'john-otto', name: 'John Otto', reason: 'Zildjian A & A Custom Series — Limp Bizkit groove-focused nu-metal' },
       { slug: 'joey-jordison', name: 'Joey Jordison', reason: 'Paiste RUDE Series — Slipknot aggressive nu-metal chaos' },
-      { slug: 'ray-luzier', name: 'Ray Luzier', reason: 'Paiste 2002 Series — Korn bright cutting attack' }
+      { slug: 'ray-luzier', name: 'Ray Luzier', reason: 'Sabian AAX Series — Korn bright cutting attack' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'john-otto', name: 'John Otto', reason: 'Zildjian A & A Custom Series — Limp Bizkit groove-focused nu-metal' },
       { slug: 'joey-jordison', name: 'Joey Jordison', reason: 'Paiste RUDE Series — Slipknot aggressive nu-metal chaos' },
-      { slug: 'ray-luzier', name: 'Ray Luzier', reason: 'Paiste 2002 Series — Korn bright cutting attack' },
+      { slug: 'ray-luzier', name: 'Ray Luzier', reason: 'Sabian AAX Series — Korn bright cutting attack' },
     ],
 
     // FAQ section for SEO
@@ -81815,7 +81777,7 @@ While not tied to one of nu-metal's featured signature setups, AAX cymbals appea
     // Conclusion
     conclusion: {
       title: "Find Your Nu-Metal Cymbal Voice",
-      content: `Nu-metal cymbal choice comes down to a fundamental question: do you want controlled groove or explosive chaos? John Otto found his answer in Zildjian A/A Custom's syncopated, quick-decaying voice, ideal for the hip-hop-influenced groove that anchors Limp Bizkit's biggest records. Joey Jordison found his in Paiste RUDE's raw, unlathed aggression, built for Slipknot's most theatrical, breakdown-heavy performances. Ray Luzier's brighter Paiste 2002 setup shows a third path between the two extremes.
+      content: `Nu-metal cymbal choice comes down to a fundamental question: do you want controlled groove or explosive chaos? John Otto found his answer in Zildjian A/A Custom's syncopated, quick-decaying voice, ideal for the hip-hop-influenced groove that anchors Limp Bizkit's biggest records. Joey Jordison found his in Paiste RUDE's raw, unlathed aggression, built for Slipknot's most theatrical, breakdown-heavy performances. Ray Luzier's brighter Sabian AAX Series setup shows a third path between the two extremes.
 
 Neither approach is more "authentic" to the genre — both have driven some of nu-metal's most commercially significant and influential recordings. Start with whichever family matches your band's balance of groove versus aggression, and see our nu-metal drum kit guide and the full top 10 nu-metal drummers list for more on the players behind these setups.
 
@@ -86690,7 +86652,7 @@ Start with whichever character matches your playing style, and don't overlook th
     // SEO metadata
     title: "Best Hi-Hats for Nu-Metal: 2026 Ultimate Guide",
     metaTitle: "Best Hi-Hats for Nu-Metal 2026 | MetalForge Expert Guide",
-    description: "What hi-hats are used in nu-metal? Discover what John Otto, Joey Jordison, and Ray Luzier actually play — Zildjian A Custom, Paiste RUDE Wild Hi-Hats, and Paiste 2002 — from budget to pro, built for syncopated groove and breakdown chaos alike.",
+    description: "What hi-hats are used in nu-metal? Discover what John Otto, Joey Jordison, and Ray Luzier actually play — Zildjian A Custom, Paiste RUDE Wild Hi-Hats, and Sabian AAX Series — from budget to pro, built for syncopated groove and breakdown chaos alike.",
     seoKeywords: [
       'best hi-hats for nu metal',
       'nu metal hi-hats',
@@ -86700,7 +86662,7 @@ Start with whichever character matches your playing style, and don't overlook th
       'zildjian a custom hi-hats nu metal',
       'paiste rude wild hi-hats',
       'hi-hats for syncopated groove',
-      'paiste 2002 hi-hats nu metal',
+      'sabian aax hi-hats nu metal',
       'nu metal drummer hi-hat setup'
     ],
     ogImage: '/api/og/guide?type=genre-gear&gear=cymbals&genre=nu-metal',
@@ -86727,7 +86689,7 @@ Start with whichever character matches your playing style, and don't overlook th
       title: "What Hi-Hats Are Used in Nu-Metal?",
       content: `Nu-metal's hi-hat demands split the same way its cymbal setups do: a tight, articulate chick to anchor hip-hop-influenced, syncopated verse grooves, and a rawer, trashier voice ready to explode the instant a breakdown hits. A hi-hat voiced for one extreme alone leaves the other half of the genre underserved.
 
-John Otto built his entire Limp Bizkit cymbal platform around a Zildjian A Custom Hi-Hats setup, prized for the quick, articulate chick that lets his jazz-trained, syncopated groove sensibility cut cleanly through hip-hop-influenced verses on records like "Significant Other." Joey Jordison took the opposite path in Slipknot, running Paiste RUDE Wild Hi-Hats alongside his RUDE crashes, ride, and Wild China during the Iowa era — a raw, unlathed voice built for controlled destruction rather than clean definition. Ray Luzier's Paiste 2002 Hi-Hats split the difference for Korn, delivering a bright, cutting chick that stays articulate through dense, down-tuned, processed guitar layers without going as raw as Jordison's RUDE.
+John Otto built his entire Limp Bizkit cymbal platform around a Zildjian A Custom Hi-Hats setup, prized for the quick, articulate chick that lets his jazz-trained, syncopated groove sensibility cut cleanly through hip-hop-influenced verses on records like "Significant Other." Joey Jordison took the opposite path in Slipknot, running Paiste RUDE Wild Hi-Hats alongside his RUDE crashes, ride, and Wild China during the Iowa era — a raw, unlathed voice built for controlled destruction rather than clean definition. Ray Luzier's Sabian AAX Series Hi-Hats split the difference for Korn, delivering a bright, cutting chick that stays articulate through dense, down-tuned, processed guitar layers without going as raw as Jordison's RUDE.
 
 This guide breaks down what actually makes a hi-hat work for nu-metal — groove articulation, breakdown-ready wash, and durability across decades of arena touring — and recommends specific models across every budget, from a first upgrade off a stock cymbal pack to the exact hi-hats these three influential drummers play night after night.`,
       keyPoints: [
@@ -86757,8 +86719,8 @@ This guide breaks down what actually makes a hi-hat work for nu-metal — groove
         {
           name: "Bright vs Raw Voicing",
           icon: "⚖️",
-          description: "Zildjian A Custom trades some aggression for polish and control, ideal for groove-and-melody-focused nu-metal. Paiste RUDE is unlathed and hammered for a rawer, trashier attack better suited to theatrical, high-aggression nu-metal — Ray Luzier's Paiste 2002 Hi-Hats sit in between.",
-          recommendation: "A Custom for controlled groove tone; RUDE for raw aggression; 2002 for a bright middle ground"
+          description: "Zildjian A Custom trades some aggression for polish and control, ideal for groove-and-melody-focused nu-metal. Paiste RUDE is unlathed and hammered for a rawer, trashier attack better suited to theatrical, high-aggression nu-metal — Ray Luzier's Sabian AAX Series Hi-Hats sit in between.",
+          recommendation: "A Custom for controlled groove tone; RUDE for raw aggression; AAX for a bright middle ground"
         },
         {
           name: "Diameter for Quick Response",
@@ -86865,23 +86827,23 @@ Where John Otto's Zildjian hi-hats prioritize control, Jordison's RUDE Wild Hi-H
         },
         {
           rank: 3,
-          name: "Paiste 2002 Hi-Hats",
-          brand: "Paiste",
-          model: "2002 Hi-Hats 14\"",
+          name: "Sabian AAX Series Hi-Hats",
+          brand: "Sabian",
+          model: "AAX Series Hi-Hats 14\"",
           image: "https://upload.wikimedia.org/wikipedia/commons/8/8f/Avedis_Zildjian_Cymbal.jpg",
           priceRange: "€180-250 per pair",
           tier: "pro",
-          material: "CuSn8 Bronze, Brilliant",
+          material: "B20 Bronze, Brilliant",
 
-          description: `Ray Luzier has paired Paiste 2002 Hi-Hats with his Korn kit setups, using their bright CuSn8 bronze tone to cut through Korn's dense, down-tuned, processed guitar layers. It sits between John Otto's controlled Zildjian voice and Joey Jordison's raw Paiste RUDE Wild Hi-Hats — bright and cutting, but lathed and more polished than RUDE's unlathed chaos.
+          description: `Ray Luzier has paired Sabian AAX Series Hi-Hats with his Korn kit setups, using their bright B20 bronze tone to cut through Korn's dense, down-tuned, processed guitar layers. It sits between John Otto's controlled Zildjian voice and Joey Jordison's raw Paiste RUDE Wild Hi-Hats — bright and cutting, but more polished than RUDE's unlathed chaos.
 
-For nu-metal drummers who want a brighter, more explosive attack than a Zildjian A Custom without going as raw as RUDE, the 2002 Hi-Hats offer a proven middle ground across Korn's biggest, most syncopated records.`,
+For nu-metal drummers who want a brighter, more explosive attack than a Zildjian A Custom without going as raw as RUDE, the AAX Series Hi-Hats offer a proven middle ground across Korn's biggest, most syncopated records.`,
 
           pros: [
             "Ray Luzier's Korn setup — a bright, cutting middle ground for nu-metal",
-            "Bright CuSn8 bronze cuts through dense, down-tuned guitar mixes",
+            "Bright B20 bronze cuts through dense, down-tuned guitar mixes",
             "More polished than Paiste RUDE while staying more explosive than Zildjian A Custom",
-            "Reliable Paiste build quality for heavy touring use"
+            "Reliable Sabian build quality for heavy touring use"
           ],
           cons: [
             "Less raw/aggressive than Paiste RUDE for pure breakdown chaos",
@@ -86889,18 +86851,18 @@ For nu-metal drummers who want a brighter, more explosive attack than a Zildjian
             "Mid-tier pricing sits between budget and ultra-premium options"
           ],
           specs: {
-            material: "CuSn8 Bronze",
+            material: "B20 Bronze",
             finish: "Brilliant",
             weight: "Medium-Heavy",
             diameter: "14\"",
-            series: "2002"
+            series: "AAX Series"
           },
           usedBy: [
-            { name: "Ray Luzier", band: "Korn", note: "14\" 2002 Hi-Hats — bright cut through Korn's dense, processed guitar mixes" }
+            { name: "Ray Luzier", band: "Korn", note: "14\" AAX Series Hi-Hats — bright cut through Korn's dense, processed guitar mixes" }
           ],
           verdict: "The bright middle ground. Best if you want more explosiveness than a Zildjian A Custom without RUDE's total rawness.",
           rating: 4.5,
-          affiliateLink: "https://www.thomann.de/intl/paiste_2002_hi_hats_luzier.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/sabian_aax_hi_hats_14_luzier.htm?partner_id=metalforge"
         },
         {
           rank: 4,
@@ -86918,7 +86880,7 @@ While not tied to one of nu-metal's specific signature setups, AAX Stage hi-hats
 
           pros: [
             "Bright, cutting B20 tone comparable to the brighter nu-metal setups",
-            "More accessible pricing than Zildjian A Custom or Paiste RUDE/2002",
+            "More accessible pricing than Zildjian A Custom or Paiste RUDE",
             "Reliable and widely available worldwide",
             "Good stepping stone toward flagship pro pairs"
           ],
@@ -86990,12 +86952,12 @@ While not tied to one of nu-metal's specific signature setups, AAX Stage hi-hats
 - Standard 14\" diameter
 - The genre's commercial, three-decade-proven standard
 
-**Chaos-First (Paiste RUDE Wild — Joey Jordison's choice; Paiste 2002 — Ray Luzier's choice):**
+**Chaos-First (Paiste RUDE Wild — Joey Jordison's choice; Sabian AAX Series — Ray Luzier's choice):**
 - Raw, trashy, or bright explosive attack
 - Suits theatrical, breakdown-heavy aggression or dense, down-tuned riffing
 - The contemporary alternative for genre-crossing, high-aggression bands
 
-**Nu-Metal Verdict:** Choose groove-first (Zildjian A Custom) if you play syncopated, hip-hop-influenced nu-metal in the Limp Bizkit tradition. Choose chaos-first (Paiste RUDE Wild or Paiste 2002) if you play theatrical or dense, down-tuned nu-metal in the Slipknot or Korn tradition.`,
+**Nu-Metal Verdict:** Choose groove-first (Zildjian A Custom) if you play syncopated, hip-hop-influenced nu-metal in the Limp Bizkit tradition. Choose chaos-first (Paiste RUDE Wild or Sabian AAX Series) if you play theatrical or dense, down-tuned nu-metal in the Slipknot or Korn tradition.`,
       comparisonTable: [
         { feature: "Groove Articulation", birch: "⭐⭐⭐⭐⭐", maple: "⭐⭐⭐" },
         { feature: "Breakdown Aggression", birch: "⭐⭐⭐", maple: "⭐⭐⭐⭐⭐" },
@@ -87020,7 +86982,7 @@ While not tied to one of nu-metal's specific signature setups, AAX Stage hi-hats
         },
         {
           category: "Best Bright Middle Ground",
-          pedal: "Paiste 2002 Hi-Hats",
+          pedal: "Sabian AAX Series Hi-Hats",
           reason: "Ray Luzier's Korn setup. Cuts through dense, down-tuned guitar mixes."
         },
         {
@@ -87041,14 +87003,14 @@ While not tied to one of nu-metal's specific signature setups, AAX Stage hi-hats
     relatedDrummers: [
       { slug: 'john-otto', name: 'John Otto', reason: 'Zildjian A Custom Hi-Hats — Limp Bizkit syncopated groove precision' },
       { slug: 'joey-jordison', name: 'Joey Jordison', reason: 'Paiste RUDE Wild Hi-Hats — Slipknot Iowa-era breakdown chaos' },
-      { slug: 'ray-luzier', name: 'Ray Luzier', reason: 'Paiste 2002 Hi-Hats — Korn\'s dense, down-tuned cut-through' }
+      { slug: 'ray-luzier', name: 'Ray Luzier', reason: 'Sabian AAX Series Hi-Hats — Korn\'s dense, down-tuned cut-through' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'john-otto', name: 'John Otto', reason: 'Zildjian A Custom Hi-Hats — Limp Bizkit syncopated groove precision' },
       { slug: 'joey-jordison', name: 'Joey Jordison', reason: 'Paiste RUDE Wild Hi-Hats — Slipknot Iowa-era breakdown chaos' },
-      { slug: 'ray-luzier', name: 'Ray Luzier', reason: 'Paiste 2002 Hi-Hats — Korn\'s dense, down-tuned cut-through' }
+      { slug: 'ray-luzier', name: 'Ray Luzier', reason: 'Sabian AAX Series Hi-Hats — Korn\'s dense, down-tuned cut-through' }
     ],
     relatedComparisons: [],
 
@@ -87056,7 +87018,7 @@ While not tied to one of nu-metal's specific signature setups, AAX Stage hi-hats
     faq: [
       {
         question: "What hi-hats are used in nu-metal?",
-        answer: "John Otto of Limp Bizkit plays Zildjian A Custom Hi-Hats for controlled, articulate syncopated grooves. Joey Jordison of Slipknot played Paiste RUDE Wild Hi-Hats for a raw, trashy breakdown voice. Ray Luzier of Korn plays Paiste 2002 Hi-Hats for a bright middle ground that cuts through dense, down-tuned guitars."
+        answer: "John Otto of Limp Bizkit plays Zildjian A Custom Hi-Hats for controlled, articulate syncopated grooves. Joey Jordison of Slipknot played Paiste RUDE Wild Hi-Hats for a raw, trashy breakdown voice. Ray Luzier of Korn plays Sabian AAX Series Hi-Hats for a bright middle ground that cuts through dense, down-tuned guitars."
       },
       {
         question: "What hi-hats does John Otto use?",
@@ -87072,7 +87034,7 @@ While not tied to one of nu-metal's specific signature setups, AAX Stage hi-hats
       },
       {
         question: "Zildjian or Paiste hi-hats for nu-metal?",
-        answer: "Both are proven at the highest level. Zildjian A Custom (John Otto) offers controlled, articulate groove definition. Paiste RUDE Wild (Joey Jordison) delivers raw, explosive aggression. Paiste 2002 (Ray Luzier) sits in between, bright and cutting but more polished than RUDE. Choose based on whether your material leans groove-first or aggression-first."
+        answer: "Both are proven at the highest level. Zildjian A Custom (John Otto) offers controlled, articulate groove definition. Paiste RUDE Wild (Joey Jordison) delivers raw, explosive aggression. Sabian AAX Series (Ray Luzier) sits in between, bright and cutting but more polished than RUDE. Choose based on whether your material leans groove-first or aggression-first."
       }
     ],
 
@@ -87081,7 +87043,7 @@ While not tied to one of nu-metal's specific signature setups, AAX Stage hi-hats
       title: "Find Your Nu-Metal Hi-Hat Voice",
       content: `Nu-metal hi-hats split into two proven traditions: the controlled, articulate character that John Otto has built his Limp Bizkit sound around for three decades, and the rawer, more explosive sound that Joey Jordison and Ray Luzier favor for theatrical or dense, down-tuned material.
 
-If you play syncopated, groove-first nu-metal, start with a Zildjian A Custom pair or the budget A Series — both stay controlled and articulate under tight, off-beat patterns. If you play theatrical or aggressive nu-metal, Paiste RUDE Wild or Paiste 2002 will give you the raw wash or bright cut your playing demands.
+If you play syncopated, groove-first nu-metal, start with a Zildjian A Custom pair or the budget A Series — both stay controlled and articulate under tight, off-beat patterns. If you play theatrical or aggressive nu-metal, Paiste RUDE Wild or Sabian AAX Series will give you the raw wash or bright cut your playing demands.
 
 Whatever you choose, prioritize consistent chick response and dynamic range over flashy features — the hi-hat is the most-used cymbal in nu-metal drumming, and it needs to lock in every groove and breakdown with total precision.
 

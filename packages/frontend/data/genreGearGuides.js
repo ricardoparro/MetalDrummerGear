@@ -25354,7 +25354,7 @@ Find the pocket. Own the groove.`
     // SEO metadata
     title: "Best Bass Drums for Power Metal: 2026 Ultimate Guide",
     metaTitle: "Best Bass Drums for Power Metal in 2026 | MetalForge Expert Guide",
-    description: "Best bass drums for power metal's balanced, punchy low end. What Scott Travis (ddrum Dominion Series), Aquiles Priester (Trick Drums Custom Maple), Nicko McBrain (Sonor SQ1/SQ2), and Mikkey Dee (Pearl Reference Series) actually play — from budget to pro.",
+    description: "Best bass drums for power metal's balanced, punchy low end. What Scott Travis (ddrum Dominion Series), Aquiles Priester (Trick Drums Custom Maple), Nicko McBrain (British Drum Co.), and Mikkey Dee (Pearl Reference Series) actually play — from budget to pro.",
     seoKeywords: [
       'best bass drums for power metal',
       'power metal bass drum setup',
@@ -25391,13 +25391,13 @@ Find the pocket. Own the groove.`
       title: "What Bass Drum Setup Do Power Metal Drummers Actually Use?",
       content: `Power metal's bass drum has a different job than the low-end-first approach of death or doom metal: it needs to deliver a balanced, punchy thud that drives galloping, triplet-based rhythms forward without ever burying the soaring clean vocals and keyboard-orchestrated arrangements riding above it. The kick has to be felt as much as heard — present in the mix, but never dominant.
 
-Scott Travis switched to ddrum for Judas Priest's "Firepower" (2018), and his twin 22"x18" ddrum Dominion Series bass drums are driven by a DW 9000 Series double pedal, carrying "Painkiller" (1990)'s galloping blueprint into the present. Aquiles Priester runs a fully custom Trick Drums maple bass drum for Angra, chosen for the projection and tuning consistency his sustained 180-220+ BPM neoclassical double-bass technique demands. Nicko McBrain's single 22"x17" Sonor bass drum, driven by one pedal for every Iron Maiden gallop, proves the genre's most influential rhythmic vocabulary doesn't require twin kicks or even a double pedal. Mikkey Dee's Pearl Reference Series bass drum has carried him from Motörhead's all-out attack into Scorpions' wider dynamic range, built for the touring stamina power metal's festival-circuit bands depend on.
+Scott Travis switched to ddrum for Judas Priest's "Firepower" (2018), and his twin 22"x18" ddrum Dominion Series bass drums are driven by a DW 9000 Series double pedal, carrying "Painkiller" (1990)'s galloping blueprint into the present. Aquiles Priester runs a fully custom Trick Drums maple bass drum for Angra, chosen for the projection and tuning consistency his sustained 180-220+ BPM neoclassical double-bass technique demands. Nicko McBrain's single 22"x14" British Drum Co. bass drum, driven by one pedal for every Iron Maiden gallop, proves the genre's most influential rhythmic vocabulary doesn't require twin kicks or even a double pedal. Mikkey Dee's Pearl Reference Series bass drum has carried him from Motörhead's all-out attack into Scorpions' wider dynamic range, built for the touring stamina power metal's festival-circuit bands depend on.
 
 This guide breaks down exactly what makes a bass drum work for power metal — shell tuning, sizing, and pedal configuration — and which specific shells these four influential drummers actually play.`,
       keyPoints: [
         "Power metal wants a balanced, punchy low end that supports the mix rather than overpowering melodic, keyboard-orchestrated arrangements",
         "Scott Travis's twin ddrum Dominion Series bass drums are driven by a DW 9000 Series double pedal",
-        "Nicko McBrain's single 22\"x17\" Sonor bass drum proves galloping rhythms don't require twin kicks or double bass",
+        "Nicko McBrain's single 22\"x14\" British Drum Co. bass drum proves galloping rhythms don't require twin kicks or double bass",
         "Aquiles Priester's custom Trick Drums maple shell is tuned for sustained neoclassical double-bass consistency at 180-220+ BPM"
       ]
     },
@@ -25415,7 +25415,7 @@ This guide breaks down exactly what makes a bass drum work for power metal — s
         {
           name: "Shell Diameter and Depth",
           icon: "⭕",
-          description: "22\"x17\"-18\" is the power metal standard — Nicko McBrain's single kick runs 17\" depth for a slightly quicker, more articulate response that keeps pace with the genre's galloping tempo without losing punch.",
+          description: "22\"x17\"-18\" is the power metal standard — Nicko McBrain's current British Drum Co. single kick runs an even shallower 14\" depth for a quicker, more articulate response that keeps pace with the genre's galloping tempo without losing punch.",
           recommendation: "22\"x17\"-18\" for a fast, articulate response that stays punchy at gallop tempo"
         },
         {
@@ -25439,7 +25439,7 @@ This guide breaks down exactly what makes a bass drum work for power metal — s
         {
           name: "Pedal Configuration",
           icon: "🦵",
-          description: "Twin 22\"x18\" kicks (Priester, Travis) suit sustained double-bass speed, while a single 22\"x17\" kick (McBrain) keeps the classic gallop tradition's foot independence intact — Travis drives his twin shells with a DW 9000 Series double pedal.",
+          description: "Twin 22\"x18\" kicks (Priester, Travis) suit sustained double-bass speed, while a single 22\"x14\" kick (McBrain) keeps the classic gallop tradition's foot independence intact — Travis drives his twin shells with a DW 9000 Series double pedal.",
           recommendation: "Match your kick configuration to your rhythmic tradition — twin kicks and a double pedal for double-bass speed, a single pedal for classic gallop foot independence"
         }
       ]
@@ -25539,12 +25539,12 @@ The custom-built maple shell projects cleanly at extreme tempo without losing de
           tier: "pro",
           material: "Maple, 22\"x17\"",
 
-          description: `Nicko McBrain has never used a double bass pedal with Iron Maiden — his entire galloping, triplet-based rhythmic vocabulary is built on a single 22"x17" Sonor bass drum and a single pedal, proving foot independence rather than raw double-bass speed can anchor a genre-defining sound.
+          description: `Nicko McBrain has never used a double bass pedal with Iron Maiden — his entire galloping, triplet-based rhythmic vocabulary was built on a single pedal and a single 22"x17" Sonor bass drum during his 2010-2019 Sonor SQ2 era (he's played British Drum Co., with a 22"x14" single bass drum, since 2019). This Sonor SQ1 is the closest consumer-available match to that classic Sonor-era tone.
 
-The slightly shallower 17" depth keeps the attack quick and articulate, matching the fast single-pedal footwork McBrain uses to drive Iron Maiden's most iconic gallops without ever needing a second kick.`,
+The slightly shallower 17" depth keeps the attack quick and articulate, matching the fast single-pedal footwork McBrain used to drive Iron Maiden's most iconic gallops without ever needing a second kick.`,
 
           pros: [
-            "Nicko McBrain's exact Iron Maiden bass drum sizing and philosophy",
+            "Closest consumer match to Nicko McBrain's classic 2010-2019 Iron Maiden bass drum sizing and single-pedal philosophy",
             "Proves a single pedal can anchor an entire genre's rhythmic foundation",
             "Slightly shallower 17\" depth for a quick, articulate gallop attack",
             "Sonor build quality and tuning stability",
@@ -25552,7 +25552,8 @@ The slightly shallower 17" depth keeps the attack quick and articulate, matching
           ],
           cons: [
             "Less low-end weight than an 18\"-deep shell",
-            "Not suited to sustained double-bass technical patterns"
+            "Not suited to sustained double-bass technical patterns",
+            "Not Nicko McBrain's current bass drum — he's played British Drum Co. since 2019, which has no confirmed consumer equivalent"
           ],
           specs: {
             diameter: "22\"",
@@ -25562,9 +25563,9 @@ The slightly shallower 17" depth keeps the attack quick and articulate, matching
             configuration: "Single, single-pedal driven"
           },
           usedBy: [
-            { name: "Nicko McBrain", band: "Iron Maiden", note: "22\"x17\" single bass drum, single pedal, never a double pedal" }
+            { name: "Nicko McBrain", band: "Iron Maiden", note: "Closest match to his 2010-2019 Sonor-era single bass drum, single pedal, never a double pedal" }
           ],
-          verdict: "Best for drummers who want to build genre-defining gallop rhythms on a single pedal.",
+          verdict: "Best for drummers who want to build genre-defining gallop rhythms on a single pedal, in the tonal territory of Nicko McBrain's classic Sonor-era tone.",
           rating: 4.7,
           affiliateLink: "https://www.thomann.de/intl/sonor_sq1_bass_drum_power_metal.htm?partner_id=metalforge"
         }
@@ -25597,10 +25598,10 @@ The slightly shallower 17" depth keeps the attack quick and articulate, matching
           priceRange: "€240-320",
           tier: "budget",
           material: "Poplar/Beech shell, 22\"x17\"",
-          description: "Sonor's entry-level AQ2 line echoes Nicko McBrain's 22\"x17\" sizing philosophy at an accessible price — a solid, articulate budget bass drum for gallop-focused power metal drumming.",
-          pros: ["Matches Nicko McBrain's 22\"x17\" sizing", "Quick, articulate response for the price", "Reliable entry point into a serious kit"],
+          description: "Sonor's entry-level AQ2 line echoes the 22\"x17\" sizing Nicko McBrain played during his 2010-2019 Sonor SQ2 era at an accessible price — a solid, articulate budget bass drum for gallop-focused power metal drumming.",
+          pros: ["Matches Nicko McBrain's classic 2010-2019 Sonor-era 22\"x17\" sizing", "Quick, articulate response for the price", "Reliable entry point into a serious kit"],
           cons: ["Poplar/beech shell lacks the full projection of pure maple"],
-          verdict: "Best budget pick for drummers chasing McBrain's gallop-focused sizing.",
+          verdict: "Best budget pick for drummers chasing McBrain's classic gallop-focused sizing.",
           rating: 4.2,
           affiliateLink: "https://www.thomann.de/intl/sonor_aq2_bass_drum_power_metal.htm?partner_id=metalforge"
         }
@@ -25649,7 +25650,7 @@ The slightly shallower 17" depth keeps the attack quick and articulate, matching
         {
           category: "Best for Galloping Rhythms",
           pedal: "Sonor SQ1 Bass Drum",
-          reason: "Nicko McBrain's setup — proof a single pedal can anchor an entire genre's rhythmic foundation."
+          reason: "Closest match to Nicko McBrain's classic Sonor-era setup — proof a single pedal can anchor an entire genre's rhythmic foundation."
         },
         {
           category: "Best Budget",
@@ -25669,7 +25670,7 @@ The slightly shallower 17" depth keeps the attack quick and articulate, matching
     relatedDrummers: [
       { slug: 'scott-travis', name: 'Scott Travis', reason: 'ddrum Dominion Series — Judas Priest power metal blueprint' },
       { slug: 'aquiles-priester', name: 'Aquiles Priester', reason: 'Trick Drums Custom Maple — Angra neoclassical double-bass precision' },
-      { slug: 'nicko-mcbrain', name: 'Nicko McBrain', reason: 'Sonor SQ1 — Iron Maiden galloping foundation on a single pedal' },
+      { slug: 'nicko-mcbrain', name: 'Nicko McBrain', reason: 'British Drum Co. — Iron Maiden galloping foundation on a single pedal' },
       { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'Pearl Reference Series — Motörhead/Scorpions touring stamina' }
     ],
 
@@ -25677,22 +25678,22 @@ The slightly shallower 17" depth keeps the attack quick and articulate, matching
     featuredDrummers: [
       { slug: 'scott-travis', name: 'Scott Travis', reason: 'ddrum Dominion Series — Judas Priest power metal blueprint' },
       { slug: 'aquiles-priester', name: 'Aquiles Priester', reason: 'Trick Drums Custom Maple — Angra neoclassical double-bass precision' },
-      { slug: 'nicko-mcbrain', name: 'Nicko McBrain', reason: 'Sonor SQ1 — Iron Maiden galloping foundation on a single pedal' }
+      { slug: 'nicko-mcbrain', name: 'Nicko McBrain', reason: 'British Drum Co. — Iron Maiden galloping foundation on a single pedal' }
     ],
 
     // FAQ section for SEO
     faq: [
       {
         question: "What bass drums do power metal drummers use?",
-        answer: "Scott Travis of Judas Priest plays twin ddrum Dominion Series bass drums driven by a DW 9000 Series double pedal, Aquiles Priester of Angra runs a fully custom Trick Drums maple twin-shell setup, and Nicko McBrain of Iron Maiden plays a single 22\"x17\" Sonor bass drum on a single pedal — never a double pedal."
+        answer: "Scott Travis of Judas Priest plays twin ddrum Dominion Series bass drums driven by a DW 9000 Series double pedal, Aquiles Priester of Angra runs a fully custom Trick Drums maple twin-shell setup, and Nicko McBrain of Iron Maiden plays a single 22\"x14\" British Drum Co. bass drum on a single pedal — never a double pedal."
       },
       {
         question: "What size bass drum is best for power metal?",
-        answer: "22\"x17\"-18\" is the power metal standard. Nicko McBrain runs the shallower 17\" depth for a quick, articulate gallop attack, while Scott Travis and Aquiles Priester use 18\" for slightly more low-end weight and projection."
+        answer: "22\"x14\"-18\" is the power metal range. Nicko McBrain runs the shallowest 14\" depth on his current British Drum Co. kit for a quick, articulate gallop attack, while Scott Travis and Aquiles Priester use 18\" for slightly more low-end weight and projection."
       },
       {
         question: "Do power metal drummers need a double bass pedal?",
-        answer: "No — Nicko McBrain has never used a double bass pedal with Iron Maiden, building the genre's entire galloping rhythmic vocabulary on a single 22\"x17\" bass drum and a single pedal. Double bass matters more for sustained neoclassical technique, like Aquiles Priester's playing in Angra."
+        answer: "No — Nicko McBrain has never used a double bass pedal with Iron Maiden, building the genre's entire galloping rhythmic vocabulary on a single 22\"x14\" bass drum and a single pedal. Double bass matters more for sustained neoclassical technique, like Aquiles Priester's playing in Angra."
       },
       {
         question: "Why do power metal drummers need a different bass drum than blast-beat genres?",
@@ -29231,7 +29232,7 @@ The Italian-made Ufip china gives Priester a warmer, more complex voicing than t
           priceRange: "€200-260",
           tier: "pro",
           driveType: "CuSn8 Bronze",
-          description: `Nicko McBrain currently plays a Paiste Signature China with Iron Maiden, part of the Sonor SQ1/SQ2 rig that has carried "Senjutsu" (2021) and his current touring setup. His single-bass-drum gallop technique established the triplet-based rhythmic vocabulary that power metal's entire European scene — Helloween, Blind Guardian, HammerFall — directly built upon.
+          description: `Nicko McBrain currently plays a Paiste Signature China with Iron Maiden, part of his British Drum Co. kit — his setup since 2019, after a decade on Sonor SQ1/SQ2 that carried "Senjutsu" (2021). His single-bass-drum gallop technique established the triplet-based rhythmic vocabulary that power metal's entire European scene — Helloween, Blind Guardian, HammerFall — directly built upon.
 
 The genre's galloping tempo feel traces its lineage straight back to McBrain's NWOBHM foundation, making the Paiste Signature china's brightness and consistency a direct ancestor of power metal's own accent requirements.`,
           pros: [
@@ -29453,7 +29454,7 @@ For power metal drummers whose touring schedule rivals the genre's biggest festi
       },
       {
         question: "What china cymbal does Nicko McBrain use?",
-        answer: "Nicko McBrain of Iron Maiden plays an 18\" Paiste Signature China, part of his Sonor SQ1/SQ2 rig, delivering the bright, articulate voicing behind Iron Maiden's galloping, triplet-based rhythmic vocabulary."
+        answer: "Nicko McBrain of Iron Maiden plays an 18\" Paiste Signature China, part of his current British Drum Co. kit, delivering the bright, articulate voicing behind Iron Maiden's galloping, triplet-based rhythmic vocabulary."
       },
       {
         question: "Why do power metal drummers favor bright, cutting china cymbals?",
@@ -39875,7 +39876,7 @@ The Italian-made Ufip Class Ride gives Priester a warmer, more complex voicing t
           priceRange: "€220-280",
           tier: "pro",
           driveType: "CuSn8 Bronze, Bright/Brilliant",
-          description: `Nicko McBrain currently rides a 22" Paiste Signature Precision Ride with Iron Maiden, part of the Sonor SQ1/SQ2 rig that has carried Senjutsu (2021) and his current touring setup. His single-bass-drum gallop technique established the triplet-based rhythmic vocabulary that power metal's entire European scene — Helloween, Blind Guardian, HammerFall — directly built upon.
+          description: `Nicko McBrain currently rides a 22" Paiste Signature Precision Ride with Iron Maiden, part of his British Drum Co. kit — his setup since 2019, after a decade on Sonor SQ1/SQ2 that carried Senjutsu (2021). His single-bass-drum gallop technique established the triplet-based rhythmic vocabulary that power metal's entire European scene — Helloween, Blind Guardian, HammerFall — directly built upon.
 
 The genre's galloping tempo feel traces its lineage straight back to McBrain's NWOBHM foundation, making the Paiste Signature Precision Ride's brightness and consistency a direct ancestor of power metal's own ride requirements.`,
           pros: [
@@ -47885,7 +47886,7 @@ The Italian-made Ufip crash gives Priester a warmer, more complex voicing than t
           priceRange: "€190-260",
           tier: "pro",
           driveType: "CuSn8 Bronze",
-          description: `Nicko McBrain currently plays Paiste Signature crashes with Iron Maiden, part of the Sonor SQ1/SQ2 rig that has carried "Senjutsu" (2021) and his current touring setup. His single-bass-drum gallop technique established the triplet-based rhythmic vocabulary that power metal's entire European scene — Helloween, Blind Guardian, HammerFall — directly built upon.
+          description: `Nicko McBrain currently plays Paiste Signature crashes with Iron Maiden, part of his British Drum Co. kit — his setup since 2019, after a decade on Sonor SQ1/SQ2 that carried "Senjutsu" (2021). His single-bass-drum gallop technique established the triplet-based rhythmic vocabulary that power metal's entire European scene — Helloween, Blind Guardian, HammerFall — directly built upon.
 
 The genre's galloping tempo feel traces its lineage straight back to McBrain's NWOBHM foundation, making the Paiste Signature crash's brightness and consistency a direct ancestor of power metal's own crash requirements.`,
           pros: [
@@ -48095,7 +48096,7 @@ For power metal drummers whose touring schedule rivals the genre's biggest festi
       },
       {
         question: "What crash cymbal does Nicko McBrain use?",
-        answer: "Nicko McBrain of Iron Maiden plays 16\" and 18\" Paiste Signature Full Crashes, part of his Sonor SQ1/SQ2 rig, delivering the bright, articulate voicing behind Iron Maiden's galloping, triplet-based rhythmic vocabulary."
+        answer: "Nicko McBrain of Iron Maiden plays 16\" and 18\" Paiste Signature Full Crashes, part of his current British Drum Co. kit, delivering the bright, articulate voicing behind Iron Maiden's galloping, triplet-based rhythmic vocabulary."
       },
       {
         question: "Why do power metal drummers favor bright, cutting crashes?",
@@ -61982,7 +61983,7 @@ The Italian-made Ufip line gives Priester a warmer, more complex voicing than th
           tier: "pro",
           material: "CuSn8 Bronze",
 
-          description: `Nicko McBrain currently plays Paiste Signature cymbals with Iron Maiden, part of the Sonor SQ1/SQ2 rig that has carried Senjutsu (2021) and his current touring setup. His single-bass-drum gallop technique established the triplet-based rhythmic vocabulary that power metal's entire European scene — Helloween, Blind Guardian, HammerFall — directly built upon, and the Paiste Signature line's bright, articulate voicing has defined that gallop's cymbal character since he adopted it for "Virtual XI" (1998).
+          description: `Nicko McBrain currently plays Paiste Signature cymbals with Iron Maiden, part of his British Drum Co. kit — his setup since 2019, after a decade on Sonor SQ1/SQ2 that carried Senjutsu (2021). His single-bass-drum gallop technique established the triplet-based rhythmic vocabulary that power metal's entire European scene — Helloween, Blind Guardian, HammerFall — directly built upon, and the Paiste Signature line's bright, articulate voicing has defined that gallop's cymbal character since he adopted it for "Virtual XI" (1998).
 
 The genre's galloping tempo feel traces its lineage straight back to McBrain's NWOBHM foundation, making the Paiste Signature line's brightness and consistency a direct ancestor of power metal's own cymbal requirements.`,
 
@@ -62005,7 +62006,7 @@ The genre's galloping tempo feel traces its lineage straight back to McBrain's N
             bestFor: "Galloping, triplet-based power metal rhythms"
           },
           usedBy: [
-            { name: "Nicko McBrain", band: "Iron Maiden", note: "Paiste Signature Series — current setup, paired with Sonor SQ1/SQ2 and Sonor Nicko McBrain Signature snare" }
+            { name: "Nicko McBrain", band: "Iron Maiden", note: "Paiste Signature Series — current setup, paired with his British Drum Co. kit and Sonor Nicko McBrain Signature snare" }
           ],
           verdict: "Best for galloping rhythmic foundations. McBrain's setup is the direct ancestor of power metal's rhythmic vocabulary.",
           rating: 4.6,
@@ -62184,7 +62185,7 @@ While Dee's catalog sits closer to hard rock than power metal's fantasy-themed w
       },
       {
         question: "What cymbals does Nicko McBrain use?",
-        answer: "Nicko McBrain of Iron Maiden currently plays Paiste Signature cymbals, part of a Sonor SQ1/SQ2 kit with North American maple shells and a Sonor Nicko McBrain Signature 14\"x6.5\" snare — a setup that followed a long run on Premier drums and an earlier Ludwig era."
+        answer: "Nicko McBrain of Iron Maiden currently plays Paiste Signature cymbals, part of his British Drum Co. kit (since 2019, after a decade on Sonor SQ1/SQ2), with a Sonor Nicko McBrain Signature 14\"x6.5\" snare still in the mix."
       },
       {
         question: "Do I need expensive cymbals to play power metal?",
@@ -62214,7 +62215,7 @@ Budget shouldn't stop you either. A Sabian SBr or Paiste PST 5 setup will teach 
     // SEO metadata
     title: "Best Drum Kits for Power Metal: 2026 Ultimate Guide",
     metaTitle: "Best Drum Kits for Power Metal 2026 | MetalForge Expert Guide",
-    description: "Best drum kits for power metal drumming. What Scott Travis (Tama Starclassic Maple), Aquiles Priester (Trick Drums Custom Maple), Nicko McBrain (Sonor SQ1/SQ2), and Mikkey Dee (Pearl Reference Series) actually play — bright, articulate shells built for galloping speed and theatrical range, from budget to pro.",
+    description: "Best drum kits for power metal drumming. What Scott Travis (Tama Starclassic Maple), Aquiles Priester (Trick Drums Custom Maple), Nicko McBrain (British Drum Co.), and Mikkey Dee (Pearl Reference Series) actually play — bright, articulate shells built for galloping speed and theatrical range, from budget to pro.",
     seoKeywords: [
       'best drum kits for power metal',
       'power metal drum kit',
@@ -62251,13 +62252,13 @@ Budget shouldn't stop you either. A Sabian SBr or Paiste PST 5 setup will teach 
       title: "What Drum Kit Should I Use for Power Metal?",
       content: `Power metal drumming lives at the opposite end of the tonal spectrum from doom or black metal. Instead of cavernous, down-tuned low end, the genre's galloping rhythms, soaring clean vocals, and fantasy-themed theatrics demand a kit voiced for brightness, articulation, and stamina at sustained 160-220+ BPM tempos — a kit that stays crisp and present rather than washing out under keyboard-orchestrated arrangements.
 
-Scott Travis returned to Tama for Judas Priest's "Firepower" (2018) after roughly a decade and a half on Pearl, and his current Tama Starclassic Maple kit — driven by two independent Speed Cobra pedals rather than a double pedal, preserving the foot independence he's played with since the 1980s — carries "Painkiller" (1990)'s foundational speed-and-precision blueprint into the present. Aquiles Priester switched to a fully custom Trick Drums maple kit for his 2023 Angra return, chosen for the projection and consistency his relaxation-based, sustained 180-220+ BPM neoclassical double-bass technique demands. Nicko McBrain's Sonor SQ1/SQ2 rig — still driven by a single bass drum pedal for every Iron Maiden gallop, never a double — proves the genre's most influential rhythmic vocabulary doesn't require twin kicks at all. Mikkey Dee's Pearl Reference Series kit has carried him from Motörhead's all-out attack into Scorpions' wider dynamic range, built for the touring stamina power metal's biggest festival-circuit bands depend on.
+Scott Travis returned to Tama for Judas Priest's "Firepower" (2018) after roughly a decade and a half on Pearl, and his current Tama Starclassic Maple kit — driven by two independent Speed Cobra pedals rather than a double pedal, preserving the foot independence he's played with since the 1980s — carries "Painkiller" (1990)'s foundational speed-and-precision blueprint into the present. Aquiles Priester switched to a fully custom Trick Drums maple kit for his 2023 Angra return, chosen for the projection and consistency his relaxation-based, sustained 180-220+ BPM neoclassical double-bass technique demands. Nicko McBrain's British Drum Co. kit — still driven by a single bass drum pedal for every Iron Maiden gallop, never a double — proves the genre's most influential rhythmic vocabulary doesn't require twin kicks at all. Mikkey Dee's Pearl Reference Series kit has carried him from Motörhead's all-out attack into Scorpions' wider dynamic range, built for the touring stamina power metal's biggest festival-circuit bands depend on.
 
 This guide breaks down what actually makes a kit work for power metal — brightness, articulation, and reliability at sustained high tempo — and which specific kits these four influential drummers rely on, from budget-friendly starters to the professional rigs behind the genre's most theatrical, speed-driven records.`,
       keyPoints: [
         "Scott Travis's Tama Starclassic Maple carries \"Painkiller\"'s foundational speed-and-precision blueprint forward on two independent pedals, no double pedal",
         "Aquiles Priester's fully custom Trick Drums kit is built for sustained neoclassical double-bass consistency at 180-220+ BPM",
-        "Nicko McBrain's Sonor SQ1/SQ2 rig proves power metal's galloping rhythmic foundation can be built on a single bass drum pedal",
+        "Nicko McBrain's British Drum Co. rig proves power metal's galloping rhythmic foundation can be built on a single bass drum pedal",
         "Bright, articulate maple and custom shells dominate power metal, prioritizing cut-through and stamina over low-end weight"
       ]
     },
@@ -62401,21 +62402,22 @@ Driven by a DW 9000 Series double pedal and a full Ufip cymbal setup, the rig is
           tier: "premium",
           material: "North American Maple",
 
-          description: `Nicko McBrain moved to Sonor's custom SQ program for Iron Maiden's "Senjutsu" (2021), chasing the warmer, fuller sound producer Kevin Shirley's natural recording approach could capture without heavy processing. The three-rack-tom, two-floor-tom spread he adopted in the 1990s gives the melodic range Iron Maiden's 11-to-12-minute epics demand, all built around a single 22"x17" bass drum — no double pedal, ever.
+          description: `Nicko McBrain played Sonor's custom SQ program from 2010 through the "Senjutsu" (2021) recording sessions, chasing the warmer, fuller sound producer Kevin Shirley's natural recording approach could capture without heavy processing. He's since moved his drums to British Drum Co. (his current brand, since 2019), though no consumer-level BDC equivalent is confirmed yet — this SQ1/SQ2 spec remains the closest match to his Senjutsu-era tone. The three-rack-tom, two-floor-tom spread he adopted in the 1990s gave the melodic range Iron Maiden's 11-to-12-minute epics demand, all built around a single 22"x17" bass drum — no double pedal, ever.
 
-That single-pedal approach is the whole story: McBrain's galloping, triplet-based rhythmic vocabulary, the direct rhythmic ancestor of power metal's entire European scene, has never depended on twin kicks. Paired with a Sonor Nicko McBrain Signature 14"x6.5" snare and Paiste Signature cymbals, the rig proves foot independence and musicality can out-perform raw double-bass horsepower.`,
+That single-pedal approach is the whole story: McBrain's galloping, triplet-based rhythmic vocabulary, the direct rhythmic ancestor of power metal's entire European scene, has never depended on twin kicks. Paired with his Sonor Nicko McBrain Signature 14"x6.5" snare (still part of his current British Drum Co. kit) and Paiste cymbals, the setup proves foot independence and musicality can out-perform raw double-bass horsepower.`,
 
           pros: [
-            "Nicko McBrain's current Iron Maiden setup — the rhythmic DNA power metal's gallop depends on",
+            "Closest consumer match to Nicko McBrain's Senjutsu-era (2010-2019) Iron Maiden setup — the rhythmic DNA power metal's gallop depends on",
             "Warm North American maple shells captured naturally in Kevin Shirley's Senjutsu production",
             "Three rack tom / two floor tom spread built for melodic, fill-heavy material",
-            "Proven across four-plus decades of Iron Maiden's arena and stadium touring",
+            "Proven across a decade of Iron Maiden's arena and stadium touring",
             "Proof that a single bass drum pedal can anchor an entire genre's rhythmic foundation"
           ],
           cons: [
             "Single-pedal approach won't suit drummers chasing sustained double-bass speed",
             "Custom SQ program carries premium pricing and long lead times",
-            "Large tom spread demands more stage and studio real estate"
+            "Large tom spread demands more stage and studio real estate",
+            "Not Nicko McBrain's current kit — he's played British Drum Co. since 2019, which has no confirmed consumer equivalent"
           ],
           specs: {
             shell: "North American Maple (SQ custom)",
@@ -62425,9 +62427,9 @@ That single-pedal approach is the whole story: McBrain's galloping, triplet-base
             tomSizes: "10\"x8\", 12\"x9\", 13\"x10\" rack / 16\"x15\", 18\"x16\" floor"
           },
           usedBy: [
-            { name: "Nicko McBrain", band: "Iron Maiden", note: "Sonor SQ1/SQ2 — current setup since \"Senjutsu\" (2021)" }
+            { name: "Nicko McBrain", band: "Iron Maiden", note: "Sonor SQ1/SQ2 — closest match to his 2010-2019 Sonor era, which recorded \"Senjutsu\" (2021); current kit is British Drum Co." }
           ],
-          verdict: "Best for galloping rhythmic foundations. McBrain's single-pedal setup is the direct ancestor of power metal's rhythmic vocabulary.",
+          verdict: "Best for galloping rhythmic foundations. McBrain's classic Sonor-era single-pedal setup is the direct ancestor of power metal's rhythmic vocabulary.",
           rating: 4.6,
           affiliateLink: "https://www.thomann.de/intl/sonor_sq1_sq2_custom.htm?partner_id=metalforge"
         },
@@ -62500,10 +62502,10 @@ Paired with alternating steel and maple Pearl Free-Floating 14"x6.5" snares and 
           priceRange: "€900-1300 (shell pack)",
           tier: "budget",
           material: "Maple/Birch Hybrid",
-          description: "The Sonor AQ2 offers a budget entry point into the Sonor family sound that defines Nicko McBrain's signature SQ setup. It won't have the SQ program's custom specification, but it's a genuinely capable production kit for developing power metal drummers.",
+          description: "The Sonor AQ2 offers a budget entry point into the Sonor family sound Nicko McBrain played during his 2010-2019 Sonor SQ era. It won't have the SQ program's custom specification, but it's a genuinely capable production kit for developing power metal drummers.",
           pros: ["Budget entry into Sonor's maple/birch hybrid family", "Good projection for developing gallop-based technique", "TuneSafe hardware shared with premium Sonor lines"],
           cons: ["Less tonal refinement than the custom SQ program", "Standard configurations only, no custom specification"],
-          verdict: "Best budget path toward McBrain's Sonor sound.",
+          verdict: "Best budget path toward McBrain's classic 2010-2019 Sonor-era sound.",
           rating: 4.0,
           affiliateLink: "https://www.thomann.de/intl/sonor_aq2_series.htm?partner_id=metalforge"
         }
@@ -62515,7 +62517,7 @@ Paired with alternating steel and maple Pearl Free-Floating 14"x6.5" snares and 
       title: "Flagship Production vs Custom Boutique for Power Metal",
       content: `Kit choice splits power metal's leading drummers into two clear camps. Here's how each compares:
 
-**Flagship Production (Scott Travis - Tama, Nicko McBrain - Sonor, Mikkey Dee - Pearl):**
+**Flagship Production (Scott Travis - Tama, Nicko McBrain - British Drum Co., Mikkey Dee - Pearl):**
 - Three of this guide's four featured drummers build around major-brand flagship or custom-program shells
 - Backed by decades of artist relations support, parts availability, and global service networks
 - The dominant choice across power metal's biggest, longest-running bands
@@ -62555,7 +62557,7 @@ Paired with alternating steel and maple Pearl Free-Floating 14"x6.5" snares and 
         {
           category: "Best for Galloping Rhythms",
           pedal: "Sonor SQ1 / SQ2",
-          reason: "Nicko McBrain's setup — proof a single bass drum pedal can anchor an entire genre's rhythmic foundation."
+          reason: "Closest match to Nicko McBrain's classic Sonor-era setup — proof a single bass drum pedal can anchor an entire genre's rhythmic foundation."
         },
         {
           category: "Best Budget",
@@ -62574,7 +62576,7 @@ Paired with alternating steel and maple Pearl Free-Floating 14"x6.5" snares and 
     relatedDrummers: [
       { slug: 'scott-travis', name: 'Scott Travis', reason: 'Tama Starclassic Maple — Judas Priest power metal blueprint' },
       { slug: 'aquiles-priester', name: 'Aquiles Priester', reason: 'Trick Drums Custom Maple — Angra neoclassical double-bass precision' },
-      { slug: 'nicko-mcbrain', name: 'Nicko McBrain', reason: 'Sonor SQ1/SQ2 — Iron Maiden galloping foundation' },
+      { slug: 'nicko-mcbrain', name: 'Nicko McBrain', reason: 'British Drum Co. — Iron Maiden galloping foundation' },
       { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'Pearl Reference Series — Motörhead/Scorpions touring stamina' }
     ],
 
@@ -62582,7 +62584,7 @@ Paired with alternating steel and maple Pearl Free-Floating 14"x6.5" snares and 
     featuredDrummers: [
       { slug: 'scott-travis', name: 'Scott Travis', reason: 'Tama Starclassic Maple — Judas Priest power metal blueprint' },
       { slug: 'aquiles-priester', name: 'Aquiles Priester', reason: 'Trick Drums Custom Maple — Angra neoclassical double-bass precision' },
-      { slug: 'nicko-mcbrain', name: 'Nicko McBrain', reason: 'Sonor SQ1/SQ2 — Iron Maiden galloping foundation' },
+      { slug: 'nicko-mcbrain', name: 'Nicko McBrain', reason: 'British Drum Co. — Iron Maiden galloping foundation' },
       { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'Pearl Reference Series — Motörhead/Scorpions touring stamina' }
     ],
 
@@ -62598,7 +62600,7 @@ Paired with alternating steel and maple Pearl Free-Floating 14"x6.5" snares and 
       },
       {
         question: "Does Nicko McBrain use a double pedal?",
-        answer: "No — Nicko McBrain has never used a double bass pedal with Iron Maiden. His entire galloping, triplet-based rhythmic vocabulary is built on a single 22\"x17\" bass drum and a single Sonor pedal, proving foot independence rather than raw double-bass speed can anchor a genre-defining sound."
+        answer: "No — Nicko McBrain has never used a double bass pedal with Iron Maiden. His entire galloping, triplet-based rhythmic vocabulary is built on a single 22\"x14\" bass drum and a single pedal, proving foot independence rather than raw double-bass speed can anchor a genre-defining sound."
       },
       {
         question: "Why do power metal drummers need a different kit than blast-beat genres?",
@@ -62613,7 +62615,7 @@ Paired with alternating steel and maple Pearl Free-Floating 14"x6.5" snares and 
     // Conclusion
     conclusion: {
       title: "Build Your Power Metal Arsenal",
-      content: `Power metal drum kits have one job above all others: stay bright and articulate at sustained, theatrical high tempo without ever washing out. Scott Travis's Tama Starclassic Maple, Aquiles Priester's Trick Drums custom build, Nicko McBrain's Sonor SQ1/SQ2, and Mikkey Dee's Pearl Reference Series each solve that challenge with a different balance of brightness, customization, and touring durability.
+      content: `Power metal drum kits have one job above all others: stay bright and articulate at sustained, theatrical high tempo without ever washing out. Scott Travis's Tama Starclassic Maple, Aquiles Priester's Trick Drums custom build, Nicko McBrain's British Drum Co. kit, and Mikkey Dee's Pearl Reference Series each solve that challenge with a different balance of brightness, customization, and touring durability.
 
 Whether you choose a flagship production kit for proven reliability or a custom boutique build for exact tonal control, remember that power metal's most influential drummers built their sound around foot technique and articulation — not gear alone. Nicko McBrain never touched a double pedal.
 

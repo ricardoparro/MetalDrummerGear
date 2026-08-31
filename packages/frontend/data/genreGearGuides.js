@@ -25353,7 +25353,7 @@ Find the pocket. Own the groove.`
     // SEO metadata
     title: "Best Bass Drums for Power Metal: 2026 Ultimate Guide",
     metaTitle: "Best Bass Drums for Power Metal in 2026 | MetalForge Expert Guide",
-    description: "Best bass drums for power metal's balanced, punchy low end. What Scott Travis (ddrum Dominion Series), Aquiles Priester (Trick Drums Custom Maple), Nicko McBrain (British Drum Co.), and Mikkey Dee (Sonor SQ2) actually play — from budget to pro.",
+    description: "Best bass drums for power metal's balanced, punchy low end. What Scott Travis (ddrum Dominion Series), Aquiles Priester (Mapex Saturn Evolution), Nicko McBrain (British Drum Co.), and Mikkey Dee (Sonor SQ2) actually play — from budget to pro.",
     seoKeywords: [
       'best bass drums for power metal',
       'power metal bass drum setup',
@@ -25390,14 +25390,14 @@ Find the pocket. Own the groove.`
       title: "What Bass Drum Setup Do Power Metal Drummers Actually Use?",
       content: `Power metal's bass drum has a different job than the low-end-first approach of death or doom metal: it needs to deliver a balanced, punchy thud that drives galloping, triplet-based rhythms forward without ever burying the soaring clean vocals and keyboard-orchestrated arrangements riding above it. The kick has to be felt as much as heard — present in the mix, but never dominant.
 
-Scott Travis switched to ddrum for Judas Priest's "Firepower" (2018), and his twin 22"x18" ddrum Dominion Series bass drums are driven by a DW 9000 Series double pedal, carrying "Painkiller" (1990)'s galloping blueprint into the present. Aquiles Priester runs a fully custom Trick Drums maple bass drum for Angra, chosen for the projection and tuning consistency his sustained 180-220+ BPM neoclassical double-bass technique demands. Nicko McBrain's single 22"x17" British Drum Co. bass drum, driven by one pedal for every Iron Maiden gallop, proves the genre's most influential rhythmic vocabulary doesn't require twin kicks or even a double pedal. Mikkey Dee's Sonor SQ2 bass drum has carried him from Motörhead's all-out attack into Scorpions' wider dynamic range, built for the touring stamina power metal's festival-circuit bands depend on.
+Scott Travis switched to ddrum for Judas Priest's "Firepower" (2018), and his twin 22"x18" ddrum Dominion Series bass drums are driven by a DW 9000 Series double pedal, carrying "Painkiller" (1990)'s galloping blueprint into the present. Aquiles Priester runs the twin 22" bass drums from his Mapex Saturn Evolution All Maple signature kit for Angra, chosen for the projection and tuning consistency his sustained 180-220+ BPM neoclassical double-bass technique demands. Nicko McBrain's single 22"x17" British Drum Co. bass drum, driven by one pedal for every Iron Maiden gallop, proves the genre's most influential rhythmic vocabulary doesn't require twin kicks or even a double pedal. Mikkey Dee's Sonor SQ2 bass drum has carried him from Motörhead's all-out attack into Scorpions' wider dynamic range, built for the touring stamina power metal's festival-circuit bands depend on.
 
 This guide breaks down exactly what makes a bass drum work for power metal — shell tuning, sizing, and pedal configuration — and which specific shells these four influential drummers actually play.`,
       keyPoints: [
         "Power metal wants a balanced, punchy low end that supports the mix rather than overpowering melodic, keyboard-orchestrated arrangements",
         "Scott Travis's twin ddrum Dominion Series bass drums are driven by a DW 9000 Series double pedal",
         "Nicko McBrain's single 22\"x17\" British Drum Co. bass drum proves galloping rhythms don't require twin kicks or double bass",
-        "Aquiles Priester's custom Trick Drums maple shell is tuned for sustained neoclassical double-bass consistency at 180-220+ BPM"
+        "Aquiles Priester's Mapex Saturn Evolution All Maple shell is tuned for sustained neoclassical double-bass consistency at 180-220+ BPM"
       ]
     },
 
@@ -25426,7 +25426,7 @@ This guide breaks down exactly what makes a bass drum work for power metal — s
         {
           name: "Shell Material",
           icon: "🪵",
-          description: "Maple (Aquiles Priester's Trick Drums custom build) delivers the bright, articulate tone power metal needs to cut through theatrical, layered arrangements — warmer and more controlled than the birch/bubinga hybrids favored by heavier subgenres. Scott Travis's ddrum Dominion Series brings its own distinct tonal character to the same balanced, cutting power metal sound.",
+          description: "Maple (Aquiles Priester's Mapex Saturn Evolution All Maple kit) delivers the bright, articulate tone power metal needs to cut through theatrical, layered arrangements — warmer and more controlled than the birch/bubinga hybrids favored by heavier subgenres. Scott Travis's ddrum Dominion Series brings its own distinct tonal character to the same balanced, cutting power metal sound.",
           recommendation: "Maple for bright, articulate cut-through against dense, melodic arrangements"
         },
         {
@@ -25490,43 +25490,43 @@ The Dominion Series shell pack's projection cuts cleanly through Judas Priest's 
         },
         {
           rank: 2,
-          name: "Trick Drums Custom Maple Bass Drum",
-          brand: "Trick Drums",
-          model: "Custom Maple 22\"x18\"",
+          name: "Mapex Saturn Evolution All Maple Bass Drum",
+          brand: "Mapex",
+          model: "Saturn Evolution All Maple 22\"x18\"",
           image: "https://upload.wikimedia.org/wikipedia/commons/6/6c/Acoustic_Drums_Kit_%2829965183378%29.jpg",
           priceRange: "€900-1300",
           tier: "premium",
-          material: "Maple (Custom), 22\"x18\"",
+          material: "All Maple, 22\"x18\"",
 
-          description: `Aquiles Priester switched to a fully custom Trick Drums maple bass drum for his 2023 Angra return, chosen for the projection and consistency his relaxation-based, sustained 180-220+ BPM neoclassical double-bass technique demands. Twin shells give him the reliable, tuning-consistent low end his technically demanding patterns require night after night.
+          description: `Aquiles Priester plays the twin 22" bass drums from his Mapex Saturn Evolution All Maple signature kit — the first Brazilian-drummer signature kit released by a global drum brand — on his 2023 Angra return, chosen for the projection and consistency his relaxation-based, sustained 180-220+ BPM neoclassical double-bass technique demands. Twin shells give him the reliable, tuning-consistent low end his technically demanding patterns require night after night.
 
-The custom-built maple shell projects cleanly at extreme tempo without losing definition — critical when Priester's double-bass patterns need to stay articulate beneath Angra's dense, orchestrated neoclassical arrangements.`,
+The all-maple shell construction projects cleanly at extreme tempo without losing definition — critical when Priester's double-bass patterns need to stay articulate beneath Angra's dense, orchestrated neoclassical arrangements.`,
 
           pros: [
-            "Aquiles Priester's exact Angra bass drum — sustained neoclassical speed",
-            "Fully custom build tuned for projection and consistency",
+            "Aquiles Priester's exact Angra signature-kit bass drums — sustained neoclassical speed",
+            "All-maple construction tuned for projection and consistency",
             "Handles sustained 180-220+ BPM double bass without losing definition",
             "Twin-shell configuration built for technical reliability",
             "Excellent tuning consistency night after night"
           ],
           cons: [
-            "Very high price point",
-            "Custom, made-to-order build with longer lead times",
+            "High price point",
+            "Signature-kit build availability varies by region",
             "Twin-shell setup adds transport and setup complexity"
           ],
           specs: {
             diameter: "22\"",
             depth: "18\"",
-            shell: "Maple (Custom)",
+            shell: "All Maple",
             headRecommendation: "Evans EMAD",
             configuration: "Twin, double-bass driven"
           },
           usedBy: [
-            { name: "Aquiles Priester", band: "Angra", note: "Custom Trick Drums maple twin bass drums for sustained neoclassical double bass" }
+            { name: "Aquiles Priester", band: "Angra", note: "Mapex Saturn Evolution All Maple twin bass drums for sustained neoclassical double bass" }
           ],
           verdict: "The premium neoclassical speed pick — Aquiles Priester's choice for sustained technical consistency.",
           rating: 4.8,
-          affiliateLink: "https://www.thomann.de/intl/trick_drums_custom_maple_bass_drum.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/mapex_saturn_evolution_bass_drum.htm?partner_id=metalforge"
         },
         {
           rank: 3,
@@ -25573,7 +25573,7 @@ The slightly shallower 17" depth keeps the attack quick and articulate, matching
     // Budget options section
     budgetOptions: {
       title: "Best Budget Bass Drums for Power Metal",
-      description: "You don't need a custom Trick Drums or ddrum Dominion Series shell to build a real power metal low end. These bass drums deliver genuine punch and balance at an accessible price.",
+      description: "You don't need a Mapex Saturn Evolution or ddrum Dominion Series shell to build a real power metal low end. These bass drums deliver genuine punch and balance at an accessible price.",
       pedals: [
         {
           name: "Tama Imperialstar Bass Drum",
@@ -25642,8 +25642,8 @@ The slightly shallower 17" depth keeps the attack quick and articulate, matching
         },
         {
           category: "Best for Neoclassical Speed",
-          pedal: "Trick Drums Custom Maple Bass Drum",
-          reason: "Aquiles Priester's Angra pick — fully custom projection for sustained extreme double-bass tempos."
+          pedal: "Mapex Saturn Evolution All Maple Bass Drum",
+          reason: "Aquiles Priester's Angra signature-kit pick — all-maple projection for sustained extreme double-bass tempos."
         },
         {
           category: "Best for Galloping Rhythms",
@@ -25667,7 +25667,7 @@ The slightly shallower 17" depth keeps the attack quick and articulate, matching
     ],
     relatedDrummers: [
       { slug: 'scott-travis', name: 'Scott Travis', reason: 'ddrum Dominion Series — Judas Priest power metal blueprint' },
-      { slug: 'aquiles-priester', name: 'Aquiles Priester', reason: 'Trick Drums Custom Maple — Angra neoclassical double-bass precision' },
+      { slug: 'aquiles-priester', name: 'Aquiles Priester', reason: 'Mapex Saturn Evolution All Maple — Angra neoclassical double-bass precision' },
       { slug: 'nicko-mcbrain', name: 'Nicko McBrain', reason: 'British Drum Co. — Iron Maiden galloping foundation on a single pedal' },
       { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'Sonor SQ2 — Motörhead/Scorpions touring stamina' }
     ],
@@ -25675,7 +25675,7 @@ The slightly shallower 17" depth keeps the attack quick and articulate, matching
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'scott-travis', name: 'Scott Travis', reason: 'ddrum Dominion Series — Judas Priest power metal blueprint' },
-      { slug: 'aquiles-priester', name: 'Aquiles Priester', reason: 'Trick Drums Custom Maple — Angra neoclassical double-bass precision' },
+      { slug: 'aquiles-priester', name: 'Aquiles Priester', reason: 'Mapex Saturn Evolution All Maple — Angra neoclassical double-bass precision' },
       { slug: 'nicko-mcbrain', name: 'Nicko McBrain', reason: 'British Drum Co. — Iron Maiden galloping foundation on a single pedal' }
     ],
 
@@ -25683,7 +25683,7 @@ The slightly shallower 17" depth keeps the attack quick and articulate, matching
     faq: [
       {
         question: "What bass drums do power metal drummers use?",
-        answer: "Scott Travis of Judas Priest plays twin ddrum Dominion Series bass drums driven by a DW 9000 Series double pedal, Aquiles Priester of Angra runs a fully custom Trick Drums maple twin-shell setup, and Nicko McBrain of Iron Maiden plays a single 22\"x17\" British Drum Co. bass drum on a single pedal — never a double pedal."
+        answer: "Scott Travis of Judas Priest plays twin ddrum Dominion Series bass drums driven by a DW 9000 Series double pedal, Aquiles Priester of Angra runs the twin bass drums from his Mapex Saturn Evolution All Maple signature kit, and Nicko McBrain of Iron Maiden plays a single 22\"x17\" British Drum Co. bass drum on a single pedal — never a double pedal."
       },
       {
         question: "What size bass drum is best for power metal?",
@@ -25699,7 +25699,7 @@ The slightly shallower 17" depth keeps the attack quick and articulate, matching
       },
       {
         question: "Maple or birch/bubinga bass drum for power metal?",
-        answer: "Maple is the power metal standard for many pro kits — Aquiles Priester's Trick Drums custom shell is maple, chosen for bright, articulate projection that cuts through melodic, layered arrangements without the heavier, more aggressive punch a birch/bubinga hybrid produces. Scott Travis's ddrum Dominion Series brings its own distinct tonal character to the same balanced, cutting sound."
+        answer: "Maple is the power metal standard for many pro kits — Aquiles Priester's Mapex Saturn Evolution All Maple shell is, unsurprisingly, all maple, chosen for bright, articulate projection that cuts through melodic, layered arrangements without the heavier, more aggressive punch a birch/bubinga hybrid produces. Scott Travis's ddrum Dominion Series brings its own distinct tonal character to the same balanced, cutting sound."
       }
     ],
 
@@ -25708,7 +25708,7 @@ The slightly shallower 17" depth keeps the attack quick and articulate, matching
       title: "Build the Balanced, Punchy Low End Power Metal Demands",
       content: `Power metal's bass drum requirements come down to balance: a shell that punches through galloping rhythms and theatrical arrangements without ever overpowering the soaring vocals and keyboards riding above it. Scott Travis proves a punchy twin-shell ddrum setup driven by a double pedal can carry an entire genre's foundational blueprint, while Nicko McBrain shows the same galloping vocabulary can be built on nothing more than a single 22"x17" shell and one pedal.
 
-If your material demands sustained neoclassical double-bass speed, follow Aquiles Priester's example with a fully custom twin-shell maple setup tuned for consistency at extreme tempo.
+If your material demands sustained neoclassical double-bass speed, follow Aquiles Priester's example with a twin-shell all-maple signature-kit setup tuned for consistency at extreme tempo.
 
 Start with a 22"x17"-18" maple shell and a quality single or double pedal — it's the proven foundation across power metal's most influential, galloping-rhythm-driven drummers.
 
@@ -29089,7 +29089,7 @@ Start with a durable 20" in whatever alloy fits your budget, mount it inverted f
       title: "Why Power Metal Needs a China That Cuts Through the Orchestra",
       content: `Power metal's fantasy-and-mythology songwriting stacks galloping double bass, soaring clean vocals, and full keyboard orchestration into a dense, theatrical wall of sound — and a china cymbal voiced for darker, murkier subgenres simply disappears in that mix. Power metal's china needs to be bright enough to punctuate a song's biggest climactic moments without getting lost under choirs and synth strings.
 
-Scott Travis pairs his Paiste cymbal setup — signed in 1987, three years before he even recorded "Painkiller" (1990) — with a Paiste RUDE China for the same bright, cutting attack that's carried through every Judas Priest record since, from the record that became a direct blueprint for the European power metal scene onward. Aquiles Priester runs a china alongside his full Ufip Class setup with Angra, chosen for consistency at the sustained 180-220+ BPM double-bass tempos his neoclassical style demands. Nicko McBrain layers a Paiste Signature China into his Iron Maiden rig for the same galloping, triplet-based rhythmic vocabulary that power metal's entire European scene built upon, while Mikkey Dee's Paiste 2002 China brings European hard rock brightness and touring endurance across Motörhead and Scorpions.
+Scott Travis pairs his Paiste cymbal setup — signed in 1987, three years before he even recorded "Painkiller" (1990) — with a Paiste RUDE China for the same bright, cutting attack that's carried through every Judas Priest record since, from the record that became a direct blueprint for the European power metal scene onward. Aquiles Priester runs a china from his custom red-coated Paiste setup with Angra, chosen for consistency at the sustained 180-220+ BPM double-bass tempos his neoclassical style demands. Nicko McBrain layers a Paiste Signature China into his Iron Maiden rig for the same galloping, triplet-based rhythmic vocabulary that power metal's entire European scene built upon, while Mikkey Dee's Paiste 2002 China brings European hard rock brightness and touring endurance across Motörhead and Scorpions.
 
 This guide covers what actually makes a china work for power metal: brightness, theatrical punch, and touring durability, along with specific model recommendations across every budget for galloping, orchestration-heavy power metal.`,
       keyPoints: [
@@ -29113,13 +29113,13 @@ This guide covers what actually makes a china work for power metal: brightness, 
         {
           name: "Size",
           icon: "📏",
-          description: "18\" chinas respond fast enough for galloping double-bass accents, while 20\" chinas add more low-end weight for a song's biggest climactic hits. Aquiles Priester's full Ufip setup favors the larger end for consistency at extreme tempos.",
+          description: "18\" chinas respond fast enough for galloping double-bass accents, while 20\" chinas add more low-end weight for a song's biggest climactic hits. Aquiles Priester's custom red-coated Paiste setup favors the larger end for consistency at extreme tempos.",
           recommendation: "18\" for galloping-rhythm accents, 20\" for full theatrical climaxes"
         },
         {
           name: "Sustained Double-Bass Consistency",
           icon: "🎯",
-          description: "Priester's Ufip china is chosen specifically for consistency at the sustained 180-220+ BPM double-bass patterns his neoclassical style demands — a china needs to hold up to relentless, high-tempo playing without losing character.",
+          description: "Priester's custom red-coated Paiste china is chosen specifically for consistency at the sustained 180-220+ BPM double-bass patterns his neoclassical style demands — a china needs to hold up to relentless, high-tempo playing without losing character.",
           recommendation: "Durable B20 bronze chinas rated for sustained high-tempo double-bass performance"
         },
         {
@@ -29137,8 +29137,8 @@ This guide covers what actually makes a china work for power metal: brightness, 
         {
           name: "Alloy",
           icon: "⚙️",
-          description: "B20 bronze (Ufip) delivers a warmer, more complex brightness, while CuSn8 bronze (Paiste RUDE, Signature, 2002) delivers a simpler, more direct cutting attack. Budget lines are simpler but a genuinely usable starting point.",
-          recommendation: "B20 bronze for complex brightness, CuSn8 bronze for direct cut, budget brass for a real starting point"
+          description: "All four drummers currently play CuSn8 bronze Paiste cymbals — RUDE, Signature, and 2002 lines, plus Priester's custom red-coated set — for a direct, cutting attack rather than the warmer, more complex overtones of B20 bronze. Budget lines are simpler but a genuinely usable starting point.",
+          recommendation: "CuSn8 bronze for a direct, cutting attack, budget brass for a real starting point"
         }
       ]
     },
@@ -29186,40 +29186,40 @@ HammerFall, Blind Guardian, and countless power metal bands cite "Painkiller" as
         },
         {
           rank: 2,
-          name: "Ufip Class China",
-          brand: "Ufip",
-          model: "18\" & 20\" Class Series China",
+          name: "Paiste China (Custom Red-Coated)",
+          brand: "Paiste",
+          model: "Custom Red-Coated China",
           image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg",
           priceRange: "€220-290",
           tier: "pro",
-          driveType: "B20 Bronze",
-          description: `Aquiles Priester returned to Angra in 2023 in one of power metal's most anticipated reunions, and his current setup runs a Ufip Class Series China alongside his crash lineup, chosen for maximum consistency at the sustained 180-220+ BPM double-bass patterns that define his neoclassical style.
+          driveType: "CuSn8 Bronze",
+          description: `Aquiles Priester returned to Angra in 2023 in one of power metal's most anticipated reunions, and his current setup runs a china from his custom red-coated Paiste cymbal set alongside his crash lineup, chosen for maximum consistency at the sustained 180-220+ BPM double-bass patterns that define his neoclassical style.
 
-The Italian-made Ufip china gives Priester a warmer, more complex voicing than the brighter Sabian or Paiste alternatives — a distinctive choice within power metal's largely Sabian/Paiste-dominated landscape.`,
+The distinctive red-coated finish gives Priester's setup a signature visual and sonic identity, delivering the bright, direct attack South American festival stages demand while standing apart from the genre's standard-finish Sabian and Paiste lineups.`,
           pros: [
             "Aquiles Priester's current Angra return-era setup — Brazilian power metal's most celebrated drummer",
-            "Warmer, more complex B20 bronze voicing than brighter Sabian/Paiste alternatives",
+            "Bright, direct CuSn8 bronze voicing suited to sustained high-tempo playing",
             "Built for sustained consistency at extreme neoclassical double-bass tempos",
-            "Distinctive tonal character within power metal's largely Sabian/Paiste landscape"
+            "Distinctive red-coated finish gives Priester's setup a signature visual identity"
           ],
           cons: [
-            "Less widely stocked than Sabian or Paiste outside Europe",
-            "Warmer voicing may feel less cutting than brighter alternatives for some styles",
-            "Premium pricing for the full setup"
+            "Custom-finish set availability varies by region",
+            "Signature-set pricing runs at a premium",
+            "Fewer standard-catalog size options than off-the-shelf Paiste lines"
           ],
           specs: {
             size: "18\" & 20\"",
-            alloy: "B20 Bronze",
-            finish: "Traditional/Class",
+            alloy: "CuSn8 Bronze",
+            finish: "Custom Red-Coated",
             weight: "Medium",
             mounting: "Standard or Inverted"
           },
           usedBy: [
-            { name: "Aquiles Priester", band: "Angra", note: "18\" & 20\" Ufip Class China — current Angra return cycle" }
+            { name: "Aquiles Priester", band: "Angra", note: "Custom red-coated Paiste China — current Angra return cycle" }
           ],
-          verdict: "Best for neoclassical double-bass power metal. Priester's setup proves warmth and consistency can match brighter alternatives at speed.",
+          verdict: "Best for neoclassical double-bass power metal. Priester's setup proves a distinctive custom finish can match the genre's brightest standards at speed.",
           rating: 4.6,
-          affiliateLink: "https://www.thomann.de/intl/ufip_class_china_20_priester.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/paiste_custom_china_priester.htm?partner_id=metalforge"
         },
         {
           rank: 3,
@@ -29371,16 +29371,16 @@ For power metal drummers whose touring schedule rivals the genre's biggest festi
 
     // Comparison
     comparison: {
-      title: "Paiste RUDE vs Ufip vs Paiste Signature/2002 for Power Metal",
-      content: `Bright, cutting attack stays the through-line across power metal's china choices, but tonal character splits the genre's most influential drummers into distinct camps:
+      title: "Paiste RUDE vs Custom Red-Coated vs Paiste Signature/2002 for Power Metal",
+      content: `All four of power metal's most influential drummers currently play Paiste, but distinct lines split them into recognizable camps:
 
 **Paiste RUDE (Scott Travis):**
 - Bright, raw, cutting attack from a Paiste endorsement dating back to 1987, three years before "Painkiller"
 - The genre's foundational speed-and-precision blueprint
 - Best for: Speed-and-precision power metal in the Judas Priest tradition
 
-**Ufip (Aquiles Priester):**
-- Warmer, more complex B20 bronze voicing
+**Custom Red-Coated (Aquiles Priester):**
+- Bright, direct CuSn8 bronze voicing with a distinctive signature finish
 - Built for sustained consistency at extreme neoclassical tempos
 - Best for: Neoclassical, technically demanding power metal
 
@@ -29390,7 +29390,7 @@ For power metal drummers whose touring schedule rivals the genre's biggest festi
 - Dee's setup proves proven touring durability across decades
 - Best for: Galloping, triplet-based European power metal
 
-**Our Recommendation:** Start with a Sabian SBR or Paiste PST 5 china if you're building power metal technique on a budget. Choose Paiste RUDE for the classic speed-and-precision blueprint, Ufip if your material demands sustained neoclassical consistency, or Paiste Signature/2002 for the genre's galloping rhythmic tradition.`,
+**Our Recommendation:** Start with a Sabian SBR or Paiste PST 5 china if you're building power metal technique on a budget. Choose Paiste RUDE for the classic speed-and-precision blueprint, a custom-finish set if your material demands sustained neoclassical consistency, or Paiste Signature/2002 for the genre's galloping rhythmic tradition.`,
       comparisonTable: [
         { feature: "Brightness/Cut", directDrive: "⭐⭐⭐⭐⭐", chainDrive: "⭐⭐⭐⭐" },
         { feature: "Sustained Tempo Consistency", directDrive: "⭐⭐⭐⭐", chainDrive: "⭐⭐⭐⭐⭐" },
@@ -29410,8 +29410,8 @@ For power metal drummers whose touring schedule rivals the genre's biggest festi
         },
         {
           category: "Best for Neoclassical Power Metal",
-          pedal: "Ufip Class China",
-          reason: "Aquiles Priester's Angra setup — warm consistency at sustained, extreme double-bass tempos."
+          pedal: "Paiste China (Custom Red-Coated)",
+          reason: "Aquiles Priester's Angra setup — bright, direct consistency at sustained, extreme double-bass tempos."
         },
         {
           category: "Best for Galloping Rhythms",
@@ -29434,7 +29434,7 @@ For power metal drummers whose touring schedule rivals the genre's biggest festi
     ],
     relatedDrummers: [
       { slug: 'scott-travis', name: 'Scott Travis', reason: 'Paiste RUDE China — Judas Priest power metal blueprint' },
-      { slug: 'aquiles-priester', name: 'Aquiles Priester', reason: 'Ufip Class China — Angra neoclassical double-bass precision' },
+      { slug: 'aquiles-priester', name: 'Aquiles Priester', reason: 'Custom red-coated Paiste China — Angra neoclassical double-bass precision' },
       { slug: 'nicko-mcbrain', name: 'Nicko McBrain', reason: 'Paiste Signature China — Iron Maiden galloping foundation' },
       { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'Paiste 2002 China — Motörhead/Scorpions touring stamina' }
     ],
@@ -29448,7 +29448,7 @@ For power metal drummers whose touring schedule rivals the genre's biggest festi
       },
       {
         question: "What china cymbal does Aquiles Priester use?",
-        answer: "Aquiles Priester of Angra runs an 18\"-20\" Ufip Class Series China as part of his current Angra return-era setup, chosen for maximum consistency at sustained 180-220+ BPM neoclassical double-bass patterns."
+        answer: "Aquiles Priester of Angra runs an 18\"-20\" china from his custom red-coated Paiste cymbal set as part of his current Angra return-era setup, chosen for maximum consistency at sustained 180-220+ BPM neoclassical double-bass patterns."
       },
       {
         question: "What china cymbal does Nicko McBrain use?",
@@ -29460,16 +29460,16 @@ For power metal drummers whose touring schedule rivals the genre's biggest festi
       },
       {
         question: "What size china cymbal is best for power metal?",
-        answer: "18\"-20\" is the power metal china standard. 18\" chinas respond fast enough for galloping double-bass accents, while 20\" adds low-end weight for a song's biggest theatrical climaxes — the size Aquiles Priester favors for consistency at extreme tempos."
+        answer: "18\"-20\" is the power metal china standard. 18\" chinas respond fast enough for galloping double-bass accents, while 20\" adds low-end weight for a song's biggest theatrical climaxes — the size Aquiles Priester's custom red-coated Paiste setup favors for consistency at extreme tempos."
       }
     ],
 
     // Conclusion
     conclusion: {
       title: "Build Your Power Metal China Sound Around Brightness and Theater",
-      content: `Power metal's china philosophy comes down to one core idea: stay bright and cutting, never dark and washed out. Whether you build around Scott Travis's foundational Paiste RUDE brightness, Nicko McBrain's galloping Paiste Signature voice, or Aquiles Priester's warmer, sustained Ufip consistency, the right power metal china should punch clearly through a dense, theatrical arrangement without losing its shine.
+      content: `Power metal's china philosophy comes down to one core idea: stay bright and cutting, never dark and washed out. Whether you build around Scott Travis's foundational Paiste RUDE brightness, Nicko McBrain's galloping Paiste Signature voice, or Aquiles Priester's sustained, custom red-coated Paiste consistency, the right power metal china should punch clearly through a dense, theatrical arrangement without losing its shine.
 
-Start with one bright china in the 18"-20" range, and layer a second voicing — whether that's Ufip's warmth for neoclassical technicality or Paiste 2002's touring-proven durability — once you know where your power metal leans on the speed-to-theatrics spectrum.
+Start with one bright china in the 18"-20" range, and layer a second voicing — whether that's a custom-finish Paiste set for neoclassical technicality or Paiste 2002's touring-proven durability — once you know where your power metal leans on the speed-to-theatrics spectrum.
 
 🤘 **Stay bright, stay galloping.**`
     }

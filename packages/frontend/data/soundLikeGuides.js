@@ -12076,7 +12076,7 @@ This guide breaks down the technique, gear, and practice approach behind Yeung's
     genre: 'Doom Metal / Heavy Metal',
     priority: 46,
     title: "How to Sound Like Bill Ward: Complete Gear & Technique Guide",
-    description: "Master Bill Ward's jazz-swung doom groove. Learn the Black Sabbath co-founder's behind-the-beat feel, single-pedal foot technique, Ludwig kit, and Paiste cymbal setup behind heavy metal's founding rhythmic vocabulary.",
+    description: "Master Bill Ward's jazz-swung doom groove. Learn the Black Sabbath co-founder's behind-the-beat feel, single-pedal foot technique, Ludwig kit, and Zildjian cymbal setup behind heavy metal's founding rhythmic vocabulary.",
     seoKeywords: ['bill ward drums', 'how to sound like bill ward', 'bill ward drumming style', 'black sabbath drummer', 'bill ward technique', 'bill ward drum gear', 'how to sound like black sabbath drums'],
     ogImage: '/images/guides/bill-ward-guide.webp',
     datePublished: '2026-07-01',
@@ -12090,7 +12090,7 @@ This guide breaks down the technique, gear, and practice approach behind Yeung's
 
 What makes Ward's drumming so distinct is that he never abandoned the jazz vocabulary he grew up on. Raised on Gene Krupa and Buddy Rich, Ward brought swing, dynamics, and a loose, behind-the-beat feel to Iommi's down-tuned riffs — the opposite instinct of a metronomic power drummer. He plays a single bass drum pedal throughout Sabbath's classic era, building groove entirely from foot placement and a swung hi-hat rather than double-kick stamina, and leans on triplet-based fills borrowed straight from big-band vocabulary.
 
-This guide breaks down the technique, gear, and practice approach behind Ward's doom groove — from his Ludwig kit and Paiste cymbals to the behind-the-beat pocket that still defines what "heavy" sounds like more than fifty years later.`,
+This guide breaks down the technique, gear, and practice approach behind Ward's doom groove — from his Ludwig kit and Zildjian cymbals to the behind-the-beat pocket that still defines what "heavy" sounds like more than fifty years later.`,
       keyPoints: [
         "Black Sabbath co-founder (1968) — helped invent heavy metal's drumming vocabulary from scratch",
         "Jazz-influenced swing feel (Gene Krupa, Buddy Rich) applied to Iommi's down-tuned doom riffs",
@@ -12165,16 +12165,16 @@ This guide breaks down the technique, gear, and practice approach behind Ward's 
         alternative: "Any aluminum-shell snare tuned loose and low will approximate the vintage Supraphonic crack."
       },
       cymbals: {
-        brand: 'Paiste',
-        series: 'Paiste 2002 & Giant Beat Series',
+        brand: 'Zildjian',
+        series: 'Zildjian Avedis Series',
         setup: [
-          { type: 'Hi-Hats', model: 'Paiste 15" Giant Beat Hi-Hats', notes: 'Large, dark, and trashy — built for swing feel rather than tight articulation' },
-          { type: 'Crash', model: 'Paiste 18" 2002 Crash', notes: 'Explosive accent for riff changes and section breaks' },
-          { type: 'Crash', model: 'Paiste 20" 2002 Crash', notes: 'Fuller crash for the heaviest structural moments' },
-          { type: 'Ride', model: 'Paiste 24" 2002 Ride', notes: 'Massive, wash-heavy ride for slow, doom-paced grooves' },
-          { type: 'China', model: 'Paiste 18" 2002 China', notes: 'Trashy accent for dramatic, dark passages' }
+          { type: 'Hi-Hats', model: 'Zildjian 14" Avedis Hi-Hats', notes: 'Warm, dark hi-hats built for swing feel rather than tight articulation' },
+          { type: 'Crash', model: 'Zildjian 16" Avedis Crash', notes: 'Explosive accent for riff changes and section breaks' },
+          { type: 'Crash', model: 'Zildjian 18" Avedis Crash', notes: 'Fuller crash for the heaviest structural moments' },
+          { type: 'Ride', model: 'Zildjian 20" Avedis Ride', notes: 'Warm, wash-heavy ride for slow, doom-paced grooves' },
+          { type: 'China', model: 'Zildjian 18" Avedis China', notes: 'Trashy accent for dramatic, dark passages' }
         ],
-        description: "Paiste's 2002 and Giant Beat lines gave Ward a dark, trashy, dynamically expressive cymbal voice — instruments built for feel and wash rather than clinical articulation, matching the loose, swung character of his playing."
+        description: "Zildjian's Avedis line, played by Ward since 1971, gave him a warm, dark, dynamically expressive cymbal voice — instruments built for feel and wash rather than clinical articulation, matching the loose, swung character of his playing."
       },
       pedals: {
         brand: 'Ludwig',
@@ -12255,7 +12255,7 @@ This guide breaks down the technique, gear, and practice approach behind Ward's 
         price: "$900",
         label: "Starter Setup",
         kit: "Pearl Roadshow ($550)",
-        cymbals: "Paiste 101 Hi-Hats + Crash ($200)",
+        cymbals: "Zildjian ZBT Hi-Hats + Crash ($200)",
         pedals: "Ludwig Speed King reissue or basic single pedal ($100)",
         sticks: "Vic Firth American Classic 5A ($10)",
         notes: "A basic maple-shell kit with a single pedal captures the essential single-kick, loose-tuned character."
@@ -12264,7 +12264,7 @@ This guide breaks down the technique, gear, and practice approach behind Ward's 
         price: "$2,800",
         label: "Intermediate Setup",
         kit: "Ludwig Classic Maple ($1,800)",
-        cymbals: "Paiste 2002 partial setup ($800)",
+        cymbals: "Zildjian Avedis partial setup ($800)",
         pedals: "Ludwig Speed King ($150)",
         sticks: "Vic Firth American Classic 5A ($10)",
         notes: "The Ludwig Classic Maple shell and a genuine Speed King pedal are the two biggest steps toward Ward's actual vintage feel."
@@ -12273,7 +12273,7 @@ This guide breaks down the technique, gear, and practice approach behind Ward's 
         price: "$5,500+",
         label: "Professional Setup",
         kit: "Ludwig Super Classic vintage or reissue ($3,000+)",
-        cymbals: "Full Paiste 2002 & Giant Beat setup ($1,800+)",
+        cymbals: "Full Zildjian Avedis Series setup ($1,800+)",
         pedals: "Ludwig Speed King ($150)",
         heads: "Full Ludwig Weather King setup ($300)",
         notes: "A genuine vintage-spec Ludwig kit with Weather King heads throughout matches Ward's classic-era Sabbath rig."
@@ -12286,7 +12286,7 @@ This guide breaks down the technique, gear, and practice approach behind Ward's 
       },
       {
         question: "What gear should I use to sound like Bill Ward?",
-        answer: "Ward played a Ludwig Super Classic (later Ludwig Classic Maple) kit with a Ludwig Supraphonic 14\" x 6.5\" LM402 snare and Paiste 2002 & Giant Beat Series cymbals, driven by a single Ludwig Speed King pedal — no double bass. A budget setup can approximate this with any maple-shell kit, an aluminum-shell snare tuned loose and low, and dark, trashy crash cymbals."
+        answer: "Ward played a Ludwig Super Classic (later Ludwig Classic Maple) kit with a Ludwig Supraphonic 14\" x 6.5\" LM402 snare and Zildjian Avedis Series cymbals, driven by a single Ludwig Speed King pedal — no double bass. A budget setup can approximate this with any maple-shell kit, an aluminum-shell snare tuned loose and low, and warm, dark crash cymbals."
       },
       {
         question: "What tempo should I practice at to sound like Bill Ward?",
@@ -12305,7 +12305,7 @@ This guide breaks down the technique, gear, and practice approach behind Ward's 
       drummerProfile: '/drummer/bill-ward',
       similarDrummers: ['Charlie Benante', 'Vinnie Paul', 'Scott Travis'],
       relatedGuides: ['how-to-sound-like-charlie-benante', 'how-to-sound-like-vinnie-paul'],
-      gearPages: ['/gear/drums', '/brands/ludwig', '/brands/paiste']
+      gearPages: ['/gear/drums', '/brands/ludwig', '/brands/zildjian']
     },
     licksUrl: '/drummers/bill-ward/licks',
     relatedArticles: [

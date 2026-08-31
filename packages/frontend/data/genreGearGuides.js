@@ -29060,7 +29060,7 @@ Start with a durable 20" in whatever alloy fits your budget, mount it inverted f
       'scott travis china cymbal',
       'aquiles priester china cymbal',
       'nicko mcbrain china cymbal',
-      'sabian hhx china power metal',
+      'paiste rude china power metal',
       'bright china cymbal orchestral metal',
       'power metal drummer china setup',
       'mikkey dee china cymbal'
@@ -29089,12 +29089,12 @@ Start with a durable 20" in whatever alloy fits your budget, mount it inverted f
       title: "Why Power Metal Needs a China That Cuts Through the Orchestra",
       content: `Power metal's fantasy-and-mythology songwriting stacks galloping double bass, soaring clean vocals, and full keyboard orchestration into a dense, theatrical wall of sound — and a china cymbal voiced for darker, murkier subgenres simply disappears in that mix. Power metal's china needs to be bright enough to punctuate a song's biggest climactic moments without getting lost under choirs and synth strings.
 
-Scott Travis pairs his current Sabian HHX Judas Priest setup with an HHX China for the same bright, cutting attack that's defined his crash choice since "Painkiller" (1990) — the record that became a direct blueprint for the European power metal scene. Aquiles Priester runs a china alongside his full Ufip Class setup with Angra, chosen for consistency at the sustained 180-220+ BPM double-bass tempos his neoclassical style demands. Nicko McBrain layers a Paiste Signature China into his Iron Maiden rig for the same galloping, triplet-based rhythmic vocabulary that power metal's entire European scene built upon, while Mikkey Dee's Paiste 2002 China brings European hard rock brightness and touring endurance across Motörhead and Scorpions.
+Scott Travis has played Paiste cymbals since signing with the brand in 1987 during his Racer X years — a partnership that has carried through his entire Judas Priest tenure, including "Painkiller" (1990), the record that became a direct blueprint for the European power metal scene. His current setup pairs Paiste's RUDE/2002 Series crashes with a matching china for the same bright, cutting attack. Aquiles Priester runs a china alongside his full Ufip Class setup with Angra, chosen for consistency at the sustained 180-220+ BPM double-bass tempos his neoclassical style demands. Nicko McBrain layers a Paiste Signature China into his Iron Maiden rig for the same galloping, triplet-based rhythmic vocabulary that power metal's entire European scene built upon, while Mikkey Dee's Paiste 2002 China brings European hard rock brightness and touring endurance across Motörhead and Scorpions.
 
 This guide covers what actually makes a china work for power metal: brightness, theatrical punch, and touring durability, along with specific model recommendations across every budget for galloping, orchestration-heavy power metal.`,
       keyPoints: [
         "Power metal chinas need to cut through dense keyboard orchestration and soaring clean vocals without washing out",
-        "Scott Travis's Sabian HHX China carries a direct lineage back to \"Painkiller,\" power metal's foundational blueprint",
+        "Scott Travis's Paiste RUDE/2002 China has anchored his crash setup since 1987, carrying through \"Painkiller,\" power metal's foundational blueprint",
         "Nicko McBrain's Paiste Signature China and Mikkey Dee's Paiste 2002 China both deliver the galloping-rhythm brightness the genre's European scene depends on",
         "18\"-20\" is the power metal china sweet spot, favoring bright theatrical presence over dark, murky trash"
       ]
@@ -29107,7 +29107,7 @@ This guide covers what actually makes a china work for power metal: brightness, 
         {
           name: "Bright, Cutting Voicing",
           icon: "✨",
-          description: "Power metal's galloping rhythms and soaring clean vocals need a china that cuts rather than washes into the background. Sabian HHX (Scott Travis) and Paiste Signature (Nicko McBrain) are both voiced for brightness that stays present against keyboard-orchestrated arrangements.",
+          description: "Power metal's galloping rhythms and soaring clean vocals need a china that cuts rather than washes into the background. Paiste RUDE/2002 (Scott Travis) and Paiste Signature (Nicko McBrain) are both voiced for brightness that stays present against keyboard-orchestrated arrangements.",
           recommendation: "Bright, cutting chinas that stay articulate against dense, theatrical arrangements"
         },
         {
@@ -29137,7 +29137,7 @@ This guide covers what actually makes a china work for power metal: brightness, 
         {
           name: "Alloy",
           icon: "⚙️",
-          description: "B20 bronze (Sabian HHX, Ufip) delivers a warmer, more complex brightness, while CuSn8 bronze (Paiste Signature, 2002) delivers a simpler, more direct cutting attack. Budget lines are simpler but a genuinely usable starting point.",
+          description: "B20 bronze (Ufip) delivers a warmer, more complex brightness, while CuSn8 bronze (Paiste RUDE/2002, Signature) delivers a simpler, more direct cutting attack. Budget lines are simpler but a genuinely usable starting point.",
           recommendation: "B20 bronze for complex brightness, CuSn8 bronze for direct cut, budget brass for a real starting point"
         }
       ]
@@ -29149,40 +29149,40 @@ This guide covers what actually makes a china work for power metal: brightness, 
       pedals: [
         {
           rank: 1,
-          name: "Sabian HHX China",
-          brand: "Sabian",
-          model: "18\" & 20\" HHX Evolution China",
+          name: "Paiste RUDE China",
+          brand: "Paiste",
+          model: "18\" & 20\" RUDE/2002 Series China",
           image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg",
-          priceRange: "€230-300",
+          priceRange: "€190-260",
           tier: "pro",
-          driveType: "B20 Bronze, Bright",
-          description: `Scott Travis currently plays a Sabian HHX China alongside his HHX crash setup with Judas Priest, carrying the same "Invincible Shield" (2024)-era brightness into his accent voice. The line's bright, focused attack traces its lineage directly back to "Painkiller" (1990), the title track that became a direct blueprint for the European power metal movement that followed.
+          driveType: "CuSn8 Bronze, Bright",
+          description: `Scott Travis has played Paiste cymbals since 1987, signing with the brand during his Racer X years before joining Judas Priest — a partnership that has carried through every album since, including "Painkiller" (1990), the title track that became a direct blueprint for the European power metal movement that followed. His current setup pairs Paiste's RUDE/2002 Series crashes with a matching china for the same bright, cutting attack.
 
-HammerFall, Blind Guardian, and countless power metal bands cite "Painkiller" as a foundational influence, making Travis's china choice a genuine through-line for the genre's speed-and-theatrics template.`,
+HammerFall, Blind Guardian, and countless power metal bands cite "Painkiller" as a foundational influence, making Travis's decades-long Paiste china choice a genuine through-line for the genre's speed-and-theatrics template.`,
           pros: [
-            "Scott Travis's current Judas Priest setup — direct lineage to power metal's foundational \"Painkiller\" blueprint",
-            "Bright, focused B20 bronze attack cuts through galloping double-bass passages",
+            "Scott Travis's Judas Priest setup since 1987 — direct lineage to power metal's foundational \"Painkiller\" blueprint",
+            "Bright, focused CuSn8 bronze attack cuts through galloping double-bass passages",
             "Consistent quality across a full range of china sizes",
             "Proven across four-plus decades of speed-and-precision metal drumming"
           ],
           cons: [
-            "Premium Sabian pricing",
-            "Brighter voicing may feel less warm than Paiste's classic power metal character",
+            "Premium Paiste pricing",
+            "RUDE's raw, unlathed finish trades some overtone complexity for aggressive cut",
             "20\" size can be heavy for smaller cymbal stands"
           ],
           specs: {
             size: "18\" & 20\"",
-            alloy: "B20 Bronze",
-            finish: "Bright/Brilliant",
-            weight: "Medium",
+            alloy: "CuSn8 Bronze",
+            finish: "Raw/Unlathed (RUDE)",
+            weight: "Medium-Heavy",
             mounting: "Standard or Inverted"
           },
           usedBy: [
-            { name: "Scott Travis", band: "Judas Priest", note: "18\" & 20\" HHX Evolution China — current setup carrying \"Painkiller\"'s lineage forward" }
+            { name: "Scott Travis", band: "Judas Priest", note: "18\" & 20\" Paiste RUDE/2002 Series China — endorsed since 1987, carrying \"Painkiller\"'s lineage forward" }
           ],
-          verdict: "The power metal china standard. Scott Travis's setup carries the genre's foundational speed-and-precision blueprint forward.",
+          verdict: "The power metal china standard. Scott Travis's decades-long Paiste setup carries the genre's foundational speed-and-precision blueprint forward.",
           rating: 4.8,
-          affiliateLink: "https://www.thomann.de/intl/sabian_hhx_china_20_travis.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/paiste_rude_china_20_travis.htm?partner_id=metalforge"
         },
         {
           rank: 2,
@@ -29310,7 +29310,7 @@ For power metal drummers whose touring schedule rivals the genre's biggest festi
           priceRange: "€55-80",
           tier: "budget",
           driveType: "Brass Alloy",
-          description: "Carries the same bright, cutting DNA as Scott Travis's HHX setup at a fraction of the price, giving developing power metal drummers a real starting point for building bright china technique.",
+          description: "Carries a similarly bright, cutting DNA to Sabian's HHX line at a fraction of the price, giving developing power metal drummers a real starting point for building bright china technique.",
           pros: [
             "Bright voicing similar to pro power metal setups",
             "Affordable, widely available entry point",
@@ -29371,11 +29371,11 @@ For power metal drummers whose touring schedule rivals the genre's biggest festi
 
     // Comparison
     comparison: {
-      title: "Sabian HHX vs Ufip vs Paiste Signature/2002 for Power Metal",
+      title: "Paiste RUDE/2002 vs Ufip vs Paiste Signature for Power Metal",
       content: `Bright, cutting attack stays the through-line across power metal's china choices, but tonal character splits the genre's most influential drummers into distinct camps:
 
-**Sabian HHX (Scott Travis):**
-- Bright, focused attack with direct lineage to "Painkiller"
+**Paiste RUDE/2002 (Scott Travis):**
+- Bright, focused CuSn8 bronze attack with direct lineage to "Painkiller" and Travis's 1987 Paiste signing
 - The genre's foundational speed-and-precision blueprint
 - Best for: Speed-and-precision power metal in the Judas Priest tradition
 
@@ -29390,7 +29390,7 @@ For power metal drummers whose touring schedule rivals the genre's biggest festi
 - Dee's setup proves proven touring durability across decades
 - Best for: Galloping, triplet-based European power metal
 
-**Our Recommendation:** Start with a Sabian SBR or Paiste PST 5 china if you're building power metal technique on a budget. Choose Sabian HHX for the classic speed-and-precision blueprint, Ufip if your material demands sustained neoclassical consistency, or Paiste Signature/2002 for the genre's galloping rhythmic tradition.`,
+**Our Recommendation:** Start with a Sabian SBR or Paiste PST 5 china if you're building power metal technique on a budget. Choose Paiste RUDE/2002 for the classic speed-and-precision blueprint Travis has carried since 1987, Ufip if your material demands sustained neoclassical consistency, or Paiste Signature for the genre's galloping rhythmic tradition.`,
       comparisonTable: [
         { feature: "Brightness/Cut", directDrive: "⭐⭐⭐⭐⭐", chainDrive: "⭐⭐⭐⭐" },
         { feature: "Sustained Tempo Consistency", directDrive: "⭐⭐⭐⭐", chainDrive: "⭐⭐⭐⭐⭐" },
@@ -29405,8 +29405,8 @@ For power metal drummers whose touring schedule rivals the genre's biggest festi
       picks: [
         {
           category: "Best Overall",
-          pedal: "Sabian HHX China",
-          reason: "Scott Travis's Judas Priest setup — direct lineage to power metal's foundational \"Painkiller\" blueprint."
+          pedal: "Paiste RUDE China",
+          reason: "Scott Travis's Judas Priest setup since 1987 — direct lineage to power metal's foundational \"Painkiller\" blueprint."
         },
         {
           category: "Best for Neoclassical Power Metal",
@@ -29433,7 +29433,7 @@ For power metal drummers whose touring schedule rivals the genre's biggest festi
       'best-drum-kits-for-power-metal'
     ],
     relatedDrummers: [
-      { slug: 'scott-travis', name: 'Scott Travis', reason: 'Sabian HHX China — Judas Priest power metal blueprint' },
+      { slug: 'scott-travis', name: 'Scott Travis', reason: 'Paiste RUDE/2002 China — Judas Priest power metal blueprint' },
       { slug: 'aquiles-priester', name: 'Aquiles Priester', reason: 'Ufip Class China — Angra neoclassical double-bass precision' },
       { slug: 'nicko-mcbrain', name: 'Nicko McBrain', reason: 'Paiste Signature China — Iron Maiden galloping foundation' },
       { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'Paiste 2002 China — Motörhead/Scorpions touring stamina' }
@@ -29444,7 +29444,7 @@ For power metal drummers whose touring schedule rivals the genre's biggest festi
     faq: [
       {
         question: "What china cymbal does Scott Travis use?",
-        answer: "Scott Travis of Judas Priest currently plays an 18\"-20\" Sabian HHX China, part of a setup with a direct lineage back to \"Painkiller\" (1990), the record that became power metal's foundational speed-and-precision blueprint."
+        answer: "Scott Travis of Judas Priest has played Paiste cymbals since 1987, currently running an 18\"-20\" Paiste RUDE/2002 Series China as part of a setup with a direct lineage back to \"Painkiller\" (1990), the record that became power metal's foundational speed-and-precision blueprint."
       },
       {
         question: "What china cymbal does Aquiles Priester use?",
@@ -29456,7 +29456,7 @@ For power metal drummers whose touring schedule rivals the genre's biggest festi
       },
       {
         question: "Why do power metal drummers favor bright, cutting china cymbals?",
-        answer: "Power metal's theatrical, keyboard-orchestrated arrangements and soaring clean vocals need a china that cuts through the mix rather than washing over it. Bright, cutting chinas like Scott Travis's Sabian HHX and Nicko McBrain's Paiste Signature stay present against dense, layered arrangements — a dark, murky china would disappear in that context."
+        answer: "Power metal's theatrical, keyboard-orchestrated arrangements and soaring clean vocals need a china that cuts through the mix rather than washing over it. Bright, cutting chinas like Scott Travis's Paiste RUDE/2002 and Nicko McBrain's Paiste Signature stay present against dense, layered arrangements — a dark, murky china would disappear in that context."
       },
       {
         question: "What size china cymbal is best for power metal?",
@@ -29467,7 +29467,7 @@ For power metal drummers whose touring schedule rivals the genre's biggest festi
     // Conclusion
     conclusion: {
       title: "Build Your Power Metal China Sound Around Brightness and Theater",
-      content: `Power metal's china philosophy comes down to one core idea: stay bright and cutting, never dark and washed out. Whether you build around Scott Travis's foundational Sabian HHX brightness, Nicko McBrain's galloping Paiste Signature voice, or Aquiles Priester's warmer, sustained Ufip consistency, the right power metal china should punch clearly through a dense, theatrical arrangement without losing its shine.
+      content: `Power metal's china philosophy comes down to one core idea: stay bright and cutting, never dark and washed out. Whether you build around Scott Travis's foundational Paiste RUDE/2002 brightness, Nicko McBrain's galloping Paiste Signature voice, or Aquiles Priester's warmer, sustained Ufip consistency, the right power metal china should punch clearly through a dense, theatrical arrangement without losing its shine.
 
 Start with one bright china in the 18"-20" range, and layer a second voicing — whether that's Ufip's warmth for neoclassical technicality or Paiste 2002's touring-proven durability — once you know where your power metal leans on the speed-to-theatrics spectrum.
 

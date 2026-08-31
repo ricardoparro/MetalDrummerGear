@@ -78,7 +78,7 @@ import { drummerBirthdays } from '../../packages/frontend/data/birthdays.js';
 // live news pages themselves render, previously never wired into the
 // bot-facing SSR shell (CollectionPage schema with zero outbound links).
 import { GEAR_NEWS } from '../../packages/frontend/data/gearNews.js';
-import { ENDORSEMENT_NEWS } from '../../packages/frontend/data/endorsementNews.js';
+import { ENDORSEMENT_NEWS, hasEndorsementTimeline } from '../../packages/frontend/data/endorsementNews.js';
 // Issue #4268: /guides/beginner-metal-drummer-setup + /guides/budget-metal-drum-setup-{500,1000,2000}
 // were rendering title/description-only stubs (or falling through to the generic
 // /guides/<slug> fallback) with zero HowTo/FAQPage JSON-LD in bot-facing SSR.
@@ -6186,6 +6186,14 @@ export function getMetaForPath(pathname) {
             href: `/drummer/${slug}/${cat}`,
             label: `${drummer.name} ${cat.charAt(0).toUpperCase() + cat.slice(1)}`,
           })),
+          // Issue #6594: the sitemap's 71 /drummers/<slug>/endorsements pages had
+          // zero crawlable inbound link — the profile shell linked to every other
+          // gear sub-page but never to endorsements (#5017 fixed the reverse
+          // direction: links FROM endorsements back to the profile).
+          ...(hasEndorsementTimeline(slug) ? [{
+            href: `/drummers/${slug}/endorsements`,
+            label: `${drummer.name} Endorsements`,
+          }] : []),
           ...(relatedArticles.length > 0 ? relatedArticles.map(a => ({
             href: `/articles/${a.slug}`,
             label: a.title,

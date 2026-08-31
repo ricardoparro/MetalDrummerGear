@@ -15021,7 +15021,7 @@ This guide breaks down Daray's technique, gear, and practice approach — essent
     genre: 'NWOAHM / Thrash Metal',
     priority: 58,
     title: "How to Sound Like Jason Bittner: Complete Gear & Technique Guide",
-    description: "Master Jason Bittner's hybrid NWOAHM/thrash drumming. Learn the Shadows Fall and Overkill drummer's polyrhythmic double-bass grooves, Tama Starclassic setup, and the practice system behind two decades of dual-band precision.",
+    description: "Master Jason Bittner's hybrid NWOAHM/thrash drumming. Learn the Shadows Fall and Overkill drummer's polyrhythmic double-bass grooves, Mapex Saturn V setup, and the practice system behind two decades of dual-band precision.",
     seoKeywords: ['jason bittner drumming', 'how to sound like jason bittner', 'shadows fall drummer', 'overkill drummer', 'jason bittner technique', 'nwoahm drumming', 'jason bittner gear', 'jason bittner drum kit'],
     ogImage: '/images/guides/jason-bittner-guide.webp',
     datePublished: '2026-07-02',
@@ -15040,7 +15040,7 @@ This guide breaks down Bittner's technique, gear, and practice approach — esse
         "Shadows Fall drummer since 1997 — co-architect of the New Wave of American Heavy Metal (NWOAHM) sound",
         "Overkill's full-time drummer since 2012, one of thrash metal's most demanding drum chairs",
         "Signature performance on \"The Light That Blinds\" (The War Within, 2004) blends groove control with double-bass density",
-        "Tama Starclassic Performer B/B and Sabian HHX/HH gear built to cut through dense, guitar-heavy mixes in both bands"
+        "Mapex Saturn V and Zildjian K and A Custom Series gear built to cut through dense, guitar-heavy mixes in both bands"
       ]
     },
     technique: {
@@ -15087,57 +15087,57 @@ This guide breaks down Bittner's technique, gear, and practice approach — esse
     gear: {
       title: "Bittner's Gear Setup",
       drumKit: {
-        brand: 'Tama',
-        model: 'Tama Starclassic Performer B/B',
-        shells: 'Birch/Bubinga hybrid',
+        brand: 'Mapex',
+        model: 'Mapex Saturn V',
+        shells: 'Maple/Walnut hybrid',
         finish: 'Various touring finishes across Shadows Fall and Overkill eras',
         config: {
           kick: '22" x 18" Bass Drums (x2)',
-          snare: '14" x 6.5" Tama Starphonic Steel',
+          snare: '14" x 6.5" Mapex Saturn V Steel',
           toms: ['10" Rack Tom', '12" Rack Tom'],
           floorToms: ['14" Floor Tom', '16" Floor Tom']
         },
-        description: "Bittner's Tama Starclassic Performer B/B kit uses birch/bubinga hybrid shells: birch plies deliver focused attack while the bubinga ply adds warmth and body, preventing the kit from sounding brittle against dense, distorted guitars in both Shadows Fall's NWOAHM arrangements and Overkill's thrash context.",
-        affiliateNote: "Tama Superstar or Tama Imperialstar offer a similar attack-forward character for players building toward this setup."
+        description: "Bittner's Mapex Saturn V kit, played since 1997, uses maple/walnut hybrid shells: maple plies deliver focused attack while the walnut ply adds warmth and body, preventing the kit from sounding brittle against dense, distorted guitars in both Shadows Fall's NWOAHM arrangements and Overkill's thrash context.",
+        affiliateNote: "Mapex Armory or Mapex Mars offer a similar attack-forward character for players building toward this setup."
       },
       snare: {
-        brand: 'Tama',
-        model: 'Tama Starphonic Steel 14" x 6.5"',
+        brand: 'Mapex',
+        model: 'Mapex Saturn V Steel 14" x 6.5"',
         size: '14" x 6.5"',
         shell: 'Steel',
         description: "The steel shell's focused, high-frequency crack cuts cleanly above heavily distorted guitars in both bands' dense mid-range, with enough body at 6.5\" depth to stay articulate through extended double-bass passages.",
         alternative: "Pearl Sensitone Steel or Ludwig Supraphonic for a similar bright, steel-shell crack"
       },
       cymbals: {
-        brand: 'Sabian',
-        series: 'Sabian HHX / HH Series',
+        brand: 'Zildjian',
+        series: 'Zildjian K and A Custom Series',
         setup: [
-          { type: 'Hi-Hats', model: 'Sabian HHX 14" Hi-Hats', notes: 'Bright, cutting response for driving 16th-note patterns at thrash and NWOAHM tempos' },
-          { type: 'Crash', model: 'Sabian HHX 16" Crash', notes: 'Fast attack, quick decay for rapid accent work' },
-          { type: 'Crash', model: 'Sabian HHX 18" Crash', notes: 'Fuller crash for section boundaries and major accents' },
-          { type: 'Ride', model: 'Sabian HH 20" Ride', notes: 'Defined bell for thrash ride patterns, open wash for NWOAHM passages' },
-          { type: 'China', model: 'Sabian HHX China', notes: 'Aggressive trash accent for breakdowns and maximum-intensity moments' }
+          { type: 'Hi-Hats', model: 'Zildjian A Custom 14" Hi-Hats', notes: 'Bright, cutting response for driving 16th-note patterns at thrash and NWOAHM tempos' },
+          { type: 'Crash', model: 'Zildjian A Custom 16" Crash', notes: 'Fast attack, quick decay for rapid accent work' },
+          { type: 'Crash', model: 'Zildjian A Custom 18" Crash', notes: 'Fuller crash for section boundaries and major accents' },
+          { type: 'Ride', model: 'Zildjian K Custom 20" Ride', notes: 'Defined bell for thrash ride patterns, open wash for NWOAHM passages' },
+          { type: 'China', model: 'Zildjian K Custom China', notes: 'Aggressive trash accent for breakdowns and maximum-intensity moments' }
         ],
-        description: "Sabian's hand-hammered B20 HHX and HH cymbals project upper harmonics above both bands' guitar density, keeping the hi-hat pulse and ride bell audible even at maximum riff intensity."
+        description: "Zildjian's K and A Custom Series cymbals, played since 1997, project upper harmonics above both bands' guitar density, keeping the hi-hat pulse and ride bell audible even at maximum riff intensity."
       },
       pedals: {
-        brand: 'DW',
-        model: 'DW 9002 Double Bass Pedal',
-        description: "The 9002's dual-chain drive gives Bittner matched, consistent action between the lead and slave pedal — essential for the sustained, even double-bass patterns both NWOAHM and thrash tempos demand.",
-        alternative: "Tama Iron Cobra or Pearl Demon Drive for a similarly consistent chain-drive alternative"
+        brand: 'Mapex',
+        model: 'Mapex Falcon Double Pedal',
+        description: "The Falcon's direct-drive action gives Bittner matched, consistent response between the lead and slave pedal — essential for the sustained, even double-bass patterns both NWOAHM and thrash tempos demand.",
+        alternative: "Pearl Demon Drive or DW 9000 for a similarly consistent direct-drive alternative"
       },
       sticks: {
-        brand: 'Vic Firth',
-        model: 'Vic Firth 5B',
-        specs: 'Hickory, standard taper and weight',
-        description: "The 5B's larger diameter provides the mass needed to drive Sabian HHX cymbals and Starclassic shells at full metal volume, while the standard taper keeps wrist balance for ghost notes and cross-stick work.",
-        alternative: "Promark 5B for a very similar weight and feel"
+        brand: 'ProMark',
+        model: 'ProMark Jason Bittner Signature 5BX',
+        specs: 'Hickory, oversized 5B diameter with signature taper',
+        description: "Bittner's signature 5BX, played since 1997, provides the mass needed to drive Zildjian K and A Custom cymbals and Saturn V shells at full metal volume, while the signature taper keeps wrist balance for ghost notes and cross-stick work.",
+        alternative: "ProMark 5B for a very similar weight and feel"
       },
       heads: {
-        kick: 'Remo Powerstroke 3 (batter), Remo Powerstroke 3 ported (resonant)',
-        snare: 'Remo Ambassador Coated (batter), Remo Diplomat Snare Side (resonant)',
-        toms: 'Remo Ambassador Coated',
-        resonant: 'Remo Ambassador Clear'
+        kick: 'Evans EMAD (batter), Evans G2 Coated (resonant)',
+        snare: 'Evans G2 Coated (batter), Evans Snare Side (resonant)',
+        toms: 'Evans G2 Coated',
+        resonant: 'Evans G1 Clear'
       }
     },
     tuning: {
@@ -15198,35 +15198,35 @@ This guide breaks down Bittner's technique, gear, and practice approach — esse
       budget: {
         price: "$900",
         label: "Starter Setup",
-        kit: "Tama Imperialstar ($600)",
-        cymbals: "Sabian SBR or B8 Pack ($200)",
-        pedals: "Tama Speed Cobra Double (entry) ($150)",
-        sticks: "Vic Firth 5B ($10)",
-        notes: "The Imperialstar shares Tama's shell-building lineage, making it a solid budget entry toward this setup."
+        kit: "Mapex Tornado ($600)",
+        cymbals: "Zildjian ZBT Pack ($200)",
+        pedals: "Mapex P400 Double (entry) ($150)",
+        sticks: "ProMark 5B ($10)",
+        notes: "The Tornado shares Mapex's shell-building lineage, making it a solid budget entry toward this setup."
       },
       mid: {
         price: "$2,900",
         label: "Intermediate Setup",
-        kit: "Tama Superstar ($1,700)",
-        cymbals: "Sabian HH partial set ($800)",
-        pedals: "Tama Iron Cobra Double ($350)",
-        sticks: "Vic Firth 5B ($10)",
-        notes: "A partial HH set — hi-hats plus one crash — captures Bittner's bright, cutting cymbal voice."
+        kit: "Mapex Armory ($1,700)",
+        cymbals: "Zildjian A Custom partial set ($800)",
+        pedals: "Mapex Falcon Double (entry) ($350)",
+        sticks: "ProMark 5B ($10)",
+        notes: "A partial A Custom set — hi-hats plus one crash — captures Bittner's bright, cutting cymbal voice."
       },
       pro: {
         price: "$5,200+",
         label: "Professional Setup",
-        kit: "Tama Starclassic Performer B/B ($2,500-4,500)",
-        cymbals: "Full Sabian HHX/HH selection ($1,200-2,000)",
-        pedals: "DW 9002 Double Bass Pedal ($600)",
-        heads: "Full Remo setup ($150)",
+        kit: "Mapex Saturn V ($2,500-4,500)",
+        cymbals: "Full Zildjian K and A Custom selection ($1,200-2,000)",
+        pedals: "Mapex Falcon Double Pedal ($600)",
+        heads: "Full Evans setup ($150)",
         notes: "Touring-ready setup matching Bittner's current Shadows Fall and Overkill rig."
       }
     },
     faq: [
       {
         question: "What drum kit does Jason Bittner play?",
-        answer: "Jason Bittner plays a Tama Starclassic Performer B/B kit with birch/bubinga hybrid shells, a double 22\" x 18\" bass drum configuration, and a 14\" x 6.5\" Tama Starphonic Steel snare. His cymbals are Sabian HHX and HH series, and he uses a DW 9002 double bass pedal."
+        answer: "Jason Bittner plays a Mapex Saturn V kit with maple/walnut hybrid shells, a double 22\" x 18\" bass drum configuration, and a 14\" x 6.5\" Mapex Saturn V Steel snare. His cymbals are Zildjian K and A Custom series, and he uses a Mapex Falcon Double Pedal."
       },
       {
         question: "How does Jason Bittner combine NWOAHM groove with thrash drumming?",
@@ -15245,7 +15245,7 @@ This guide breaks down Bittner's technique, gear, and practice approach — esse
       drummerProfile: '/drummer/jason-bittner',
       similarDrummers: ['Charlie Benante', 'Vinnie Paul', 'Alex Bent'],
       relatedGuides: ['how-to-sound-like-charlie-benante', 'how-to-sound-like-vinnie-paul', 'how-to-sound-like-alex-bent'],
-      gearPages: ['/gear/pedals', '/brands/tama', '/brands/sabian']
+      gearPages: ['/gear/pedals', '/brands/mapex', '/brands/zildjian']
     },
     licksUrl: '/drummers/jason-bittner/licks',
     relatedArticles: [

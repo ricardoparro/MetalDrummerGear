@@ -2409,11 +2409,11 @@ This guide explores how to capture Chris's powerful groove metal style.`,
         alternative: "Pearl Demon Drive or DW 9000"
       },
       sticks: {
-        brand: 'Vic Firth',
-        model: 'Vic Firth Chris Adler Signature',
+        brand: 'Promark',
+        model: 'Promark TX5AXW Chris Adler Signature',
         specs: 'Medium taper with barrel tip',
         description: "Chris's signature stick provides power and speed with a barrel tip for cymbal definition.",
-        alternative: "Vic Firth 5B or Rock"
+        alternative: "Promark 5A or Rock"
       },
       heads: {
         kick: 'Evans EMAD Clear',

@@ -2011,6 +2011,16 @@ export function getMetaForPath(pathname) {
         .map(slug => ({ slug, drummer: getDrummerBySlug(slug) }))
         .filter(({ drummer }) => drummer)
         .map(({ slug, drummer }) => ({ name: drummer.name, url: `${BASE_URL}/drummer/${slug}`, band: drummer.band })),
+      // Issue #6593: the hub's bot-facing shell linked to nothing but itself,
+      // orphaning all 233 sitemap-listed /tools/compare/<d1>-vs-<d2> pairs
+      // (4 sampled pairs came back discovered-not-indexed in the L3 snapshot).
+      // Grouped by category, mirroring the /vs hub's flat ssrLinks (#4889)
+      // but categorized since this hub covers the same 226 curated pairs.
+      ssrLinks: ['thrash', 'progressive', 'extreme', 'other'].flatMap(category =>
+        Object.values(DRUMMER_COMPARISONS)
+          .filter(c => c.category === category)
+          .map(c => ({ href: `/tools/compare/${c.slug}`, label: c.title }))
+      ),
       // Issue #4863: SpeakableSpecification — sweep gap on hub/utility pages.
       speakableSchema: true,
       speakableCssSelector: ['h1', 'h2', 'p'],

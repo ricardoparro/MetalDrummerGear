@@ -1500,7 +1500,7 @@ Budget shouldn't stop you — Remo Ambassador X and Evans G1 Coated both offer a
       title: "Why Post-Metal Needs Heads That Breathe and Crush",
       content: `Post-metal lives on contrast. A song can spend four minutes building a hushed, cymbal-washed crescendo before detonating into a wall of down-tuned, distorted weight — and the drum heads underneath have to serve both halves of that arc without compromise. A head that's tuned purely for crushing low end goes dead and unresponsive during the quiet build; a head chasing maximum sensitivity can't carry the tectonic low-tuned tom hits that define the genre's climaxes.
 
-Brann Dailor of Mastodon built his sound on exactly this tension — warm, focused Evans G2 Clear heads that respond to brushed, jazz-informed dynamics one moment and slam into crushing sludge weight the next. Danny Carey's massive Tool kit uses the same open, resonant philosophy for the band's more atmospheric, post-metal-adjacent material, while Mario Duplantier of Gojira pairs thicker Remo Emperor and EMAD-family heads for a heavier, more controlled version of the same idea across his dual-kick setup. Abe Cunningham of Deftones rounds out the picture with a bespoke SJC kit voiced specifically to serve both ambient restraint and explosive heaviness from one build.
+Brann Dailor of Mastodon built his sound on exactly this tension — warm, focused Evans G2 Clear heads that respond to brushed, jazz-informed dynamics one moment and slam into crushing sludge weight the next. Danny Carey's massive Tool kit uses the same open, resonant philosophy for the band's more atmospheric, post-metal-adjacent material, while Mario Duplantier of Gojira pairs thicker Remo Emperor and EMAD-family heads for a heavier, more controlled version of the same idea across his dual-kick setup. Abe Cunningham of Deftones rounds out the picture with a Tama Starclassic Maple/Bubinga kit voiced to serve both ambient restraint and explosive heaviness from one build.
 
 This guide breaks down the drum heads that deliver post-metal's full dynamic range — why moderate-ply, resonant constructions beat both fully open and heavily muffled extremes here, and which specific models let a kit whisper and crush within the same song.`,
       keyPoints: [
@@ -1688,7 +1688,7 @@ For post-metal's extreme dynamic swings, this level of control is a genuine nece
           tier: "mid-pro",
           material: "1-Ply Clear (10mil)",
 
-          description: `Abe Cunningham's bespoke SJC kit with Deftones is voiced to serve both heaviness and atmosphere from one build, and the Evans G1 Clear is the resonant-side head that makes that possible. Single-ply and unmuffled, it maximizes natural resonance, letting a coated Ambassador or Emperor batter's low end bloom fully during a climax while still singing during quiet, ambient passages.
+          description: `Abe Cunningham's Tama Starclassic Maple/Bubinga kit with Deftones is voiced to serve both heaviness and atmosphere from one build, and the Evans G1 Clear is the resonant-side head that makes that possible. Single-ply and unmuffled, it maximizes natural resonance, letting a coated Ambassador or Emperor batter's low end bloom fully during a climax while still singing during quiet, ambient passages.
 
 The Level 360 collar also makes precise tuning easy — useful when hunting for the specific low pitch a post-metal build's key center demands.`,
 
@@ -15404,7 +15404,7 @@ This guide breaks down exactly what separates real touring-grade metal hardware 
           tier: "pro",
           material: "Double-braced heavy-gauge steel",
 
-          description: `The DW 9000 Series is the hardware pack touring metal drummers reach for when stands simply cannot be allowed to fail. Abe Cunningham (Deftones) runs DW 9000 hardware alongside his DW 9000 double pedal, and Ray Luzier (Korn) has built his entire rig around DW's heaviest stands for the same reason: nothing in the pack flexes, creeps, or loosens across a full arena tour.
+          description: `The DW 9000 Series is the hardware pack touring metal drummers reach for when stands simply cannot be allowed to fail. Abe Cunningham (Deftones) runs DW 9000 hardware alongside his Tama Iron Cobra 900 Rolling Glide double pedal, and Ray Luzier (Korn) has built his entire rig around DW's heaviest stands for the same reason: nothing in the pack flexes, creeps, or loosens across a full arena tour.
 
 The 9000 Series' oversized tripod bases and reinforced tension bolts hold cymbal angles dead-steady through the hardest crashes and chinas, while the memory-lock system lets a touring drummer rebuild an identical setup at every soundcheck in minutes.`,
 
@@ -23415,7 +23415,7 @@ Start with heavy internal muffling on a dense, well-built shell — it's the pro
     // SEO metadata
     title: "Best Bass Drums for Post-Metal: 2026 Ultimate Guide",
     metaTitle: "Best Bass Drums for Post-Metal in 2026 | MetalForge Expert Guide",
-    description: "Best bass drums for post-metal's quiet/loud crescendo dynamics. What Brann Dailor (Tama Starclassic Performer B/B), Danny Carey (Sonor SQ2 Heavy Beech), Mario Duplantier (Tama Starclassic Bubinga), and Abe Cunningham (SJC Custom) actually play.",
+    description: "Best bass drums for post-metal's quiet/loud crescendo dynamics. What Brann Dailor (Tama Starclassic Performer B/B), Danny Carey (Sonor SQ2 Heavy Beech), Mario Duplantier (Tama Starclassic Bubinga), and Abe Cunningham (Tama Starclassic Maple/Bubinga) actually play.",
     seoKeywords: [
       'best bass drums for post-metal',
       'post-metal bass drum setup',
@@ -23452,7 +23452,7 @@ Start with heavy internal muffling on a dense, well-built shell — it's the pro
       title: "What Bass Drum Setup Do Post-Metal Drummers Actually Use?",
       content: `Post-metal's bass drum has to cover more dynamic ground than almost any other subgenre's kick. A single song might open on a barely-audible mallet roll and build, over ten minutes, into a crushing wall of down-tuned distortion — and the bass drum needs to sound intentional at every point along that arc, from a whispered pulse to a bone-rattling low end. That's a different brief than genres built around one consistent intensity: post-metal rewards a shell that can be played softly with real tone, not just loudly with real weight.
 
-Isis and Neurosis, the genre's foundational bands, don't currently have dedicated MetalForge gear profiles, so this guide draws on the closest working analogues from progressive and atmospheric-leaning metal lineages. Brann Dailor's Tama Starclassic Performer B/B delivers a warm, focused tone suited to jazz-influenced, dynamically expansive playing. Danny Carey's Sonor SQ2 Heavy Beech shell covers cinematic, ambient-to-crushing range with room for extended percussion. Mario Duplantier's dual-kick Tama Starclassic Bubinga setup builds atmospheric, environmentally-themed dynamic swells. Abe Cunningham's SJC Custom kit is bespoke-voiced for both crushing heaviness and ambient restraint in Deftones' genre-adjacent material.
+Isis and Neurosis, the genre's foundational bands, don't currently have dedicated MetalForge gear profiles, so this guide draws on the closest working analogues from progressive and atmospheric-leaning metal lineages. Brann Dailor's Tama Starclassic Performer B/B delivers a warm, focused tone suited to jazz-influenced, dynamically expansive playing. Danny Carey's Sonor SQ2 Heavy Beech shell covers cinematic, ambient-to-crushing range with room for extended percussion. Mario Duplantier's dual-kick Tama Starclassic Bubinga setup builds atmospheric, environmentally-themed dynamic swells. Abe Cunningham's Tama Starclassic Maple/Bubinga kit is voiced for both crushing heaviness and ambient restraint in Deftones' genre-adjacent material.
 
 This guide breaks down what makes a bass drum work for post-metal — dynamic range, shell tone, and low-end character — and which specific shells the genre's closest analogues actually play, from budget to professional touring rigs.`,
       keyPoints: [
@@ -23494,7 +23494,7 @@ This guide breaks down what makes a bass drum work for post-metal — dynamic ra
         {
           name: "Atmospheric/Ambient Compatibility",
           icon: "🌫️",
-          description: "Abe Cunningham's bespoke SJC Custom kit is explicitly voiced for both crushing heaviness and ambient restraint — proof that a single, well-designed shell can genuinely serve both ends of post-metal's dynamic spectrum.",
+          description: "Abe Cunningham's Tama Starclassic Maple/Bubinga kit is voiced for both crushing heaviness and ambient restraint — proof that a single, well-designed shell can genuinely serve both ends of post-metal's dynamic spectrum.",
           recommendation: "A custom or well-matched shell voiced deliberately for both extremes rather than one compromise tone"
         },
         {
@@ -23637,7 +23637,7 @@ Bubinga's dense hardwood construction keeps quiet passages controlled rather tha
           tier: "premium",
           material: "Custom Maple/Hybrid, 22\"x18\"",
 
-          description: `Abe Cunningham's SJC Custom bass drum is bespoke-voiced for both crushing heaviness and ambient restraint, reflecting Deftones' own genre-adjacent balance between shoegaze-influenced texture and full-volume aggression. SJC's fully custom build process lets Cunningham specify exactly the tonal compromise-free balance his dynamically expansive material needs.
+          description: `Abe Cunningham's Tama Starclassic Maple/Bubinga bass drum is voiced for both crushing heaviness and ambient restraint, reflecting Deftones' own genre-adjacent balance between shoegaze-influenced texture and full-volume aggression. The Starclassic Maple/Bubinga hybrid shell gives Cunningham the tonal compromise-free balance his dynamically expansive material needs.
 
 That dual-purpose voicing makes this one of the most explicitly post-metal-minded shells on the market, even though Deftones themselves sit adjacent to rather than inside the genre.`,
 
@@ -23769,7 +23769,7 @@ That dual-purpose voicing makes this one of the most explicitly post-metal-minde
       { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Tama Starclassic Performer B/B — warm, dynamically expansive tone' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Sonor SQ2 Heavy Beech — cinematic, ambient-to-crushing range' },
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Dual-kick Tama Starclassic Bubinga — atmospheric dynamic build' },
-      { slug: 'abe-cunningham', name: 'Abe Cunningham', reason: 'SJC Custom — explicitly voiced for crushing and ambient extremes' }
+      { slug: 'abe-cunningham', name: 'Abe Cunningham', reason: 'Tama Starclassic Maple/Bubinga — voiced for crushing and ambient extremes' }
     ],
 
     // Featured drummers (issue template)
@@ -23783,7 +23783,7 @@ That dual-purpose voicing makes this one of the most explicitly post-metal-minde
     faq: [
       {
         question: "What bass drums do post-metal drummers use?",
-        answer: "Genre founders Isis and Neurosis don't have dedicated MetalForge gear profiles, so this guide draws on the closest working analogues. Brann Dailor of Mastodon plays a Tama Starclassic Performer B/B, Danny Carey of Tool plays a Sonor SQ2 Heavy Beech, Mario Duplantier of Gojira runs a dual-kick Tama Starclassic Bubinga setup, and Abe Cunningham of Deftones plays a bespoke SJC Custom kit."
+        answer: "Genre founders Isis and Neurosis don't have dedicated MetalForge gear profiles, so this guide draws on the closest working analogues. Brann Dailor of Mastodon plays a Tama Starclassic Performer B/B, Danny Carey of Tool plays a Sonor SQ2 Heavy Beech, Mario Duplantier of Gojira runs a dual-kick Tama Starclassic Bubinga setup, and Abe Cunningham of Deftones plays a Tama Starclassic Maple/Bubinga kit."
       },
       {
         question: "What makes a bass drum good for post-metal specifically, versus other metal genres?",
@@ -23799,7 +23799,7 @@ That dual-purpose voicing makes this one of the most explicitly post-metal-minde
       },
       {
         question: "How should I tune a post-metal bass drum for both quiet and loud passages?",
-        answer: "Aim for moderate, resonant tuning rather than either extreme — too dry and quiet passages sound lifeless, too open and crushing passages turn boomy. Danny Carey's Sonor SQ2 Heavy Beech and Abe Cunningham's SJC Custom are both deliberately voiced to avoid compromising toward either end."
+        answer: "Aim for moderate, resonant tuning rather than either extreme — too dry and quiet passages sound lifeless, too open and crushing passages turn boomy. Danny Carey's Sonor SQ2 Heavy Beech and Abe Cunningham's Tama Starclassic Maple/Bubinga are both deliberately voiced to avoid compromising toward either end."
       }
     ],
 
@@ -69379,13 +69379,13 @@ Budget shouldn't stop you either. A Pearl Export or DW Performance Series snare 
       title: "Why Post-Metal Needs a Snare That Serves Both Silence and Crescendo",
       content: `Post-metal builds songs around dynamic extremity — long stretches of atmospheric restraint that erupt into crushing, cathartic crescendos. That range puts unusual demands on a snare drum: it has to sit back and breathe during a slow build, contributing texture rather than dominating, then deliver real weight and cut the instant the material peaks.
 
-No roster drummer currently records under a literal "post-metal" tag — the genre is defined more by atmosphere and songwriting structure (Cult of Luna, Neurosis, Isis) than a single signature drumming style. But four artists represent the genre's closest working analogues, each playing a snare built for exactly this dynamic range. Brann Dailor of Mastodon plays a DW Collector's Series 14"x6.5" brass snare, delivering cutting attack and warm overtones across Mastodon's dense, progressive-sludge arrangements. Danny Carey of Tool plays a Sonor Danny Carey Signature 14"x8" bronze snare, a deep shell chosen for powerful, focused attack that anchors Tool's shifts between delicate restraint and crushing weight. Mario Duplantier of Gojira plays a Tama S.L.P. 14"x6" G-Maple snare, its warm, resonant crack cutting through Gojira's layered, atmosphere-driven guitar work. Abe Cunningham of Deftones anchors the band's self-described blend of "heavy and ambient music" on a bespoke SJC Custom snare, built specifically to shift cleanly between crushing heaviness and delicate atmosphere without changing gear.
+No roster drummer currently records under a literal "post-metal" tag — the genre is defined more by atmosphere and songwriting structure (Cult of Luna, Neurosis, Isis) than a single signature drumming style. But four artists represent the genre's closest working analogues, each playing a snare built for exactly this dynamic range. Brann Dailor of Mastodon plays a DW Collector's Series 14"x6.5" brass snare, delivering cutting attack and warm overtones across Mastodon's dense, progressive-sludge arrangements. Danny Carey of Tool plays a Sonor Danny Carey Signature 14"x8" bronze snare, a deep shell chosen for powerful, focused attack that anchors Tool's shifts between delicate restraint and crushing weight. Mario Duplantier of Gojira plays a Tama S.L.P. 14"x6" G-Maple snare, its warm, resonant crack cutting through Gojira's layered, atmosphere-driven guitar work. Abe Cunningham of Deftones anchors the band's self-described blend of "heavy and ambient music" on a Tama Starclassic matching snare, built to shift cleanly between crushing heaviness and delicate atmosphere without changing gear.
 
 This guide breaks down what actually makes a snare serve post-metal's widest dynamic range — restraint, resonance, and controlled power — and recommends specific models across every budget, from a first dynamically capable snare to the exact drums the genre's closest working analogues play.`,
       keyPoints: [
         "Post-metal demands a snare that adds texture during quiet build-up and still delivers real weight at the crescendo — dynamic range matters more than raw power",
         "Danny Carey's deep 14x8\" bronze signature snare and Mario Duplantier's warm 14x6\" maple snare show two different approaches to that same dynamic range",
-        "Abe Cunningham's bespoke SJC Custom snare was built specifically to serve Deftones' explicitly 'heavy and ambient' sonic identity",
+        "Abe Cunningham's Tama Starclassic matching snare serves Deftones' explicitly 'heavy and ambient' sonic identity",
         "14x6\"-6.5\" is the common depth across most of these drummers, balancing crack and body for both restraint and catharsis"
       ]
     },
@@ -69397,7 +69397,7 @@ This guide breaks down what actually makes a snare serve post-metal's widest dyn
         {
           name: "Dynamic Range From Whisper to Crescendo",
           icon: "🌊",
-          description: "Danny Carey's deep bronze signature snare and Abe Cunningham's bespoke SJC Custom snare both prioritize a shell that responds honestly at low volume during atmospheric passages, then still delivers real crack once the material erupts.",
+          description: "Danny Carey's deep bronze signature snare and Abe Cunningham's Tama Starclassic matching snare both prioritize a shell that responds honestly at low volume during atmospheric passages, then still delivers real crack once the material erupts.",
           recommendation: "A shell with genuine dynamic range rather than one voiced only for maximum volume"
         },
         {
@@ -69415,7 +69415,7 @@ This guide breaks down what actually makes a snare serve post-metal's widest dyn
         {
           name: "Bespoke or Custom-Spec Options",
           icon: "🔧",
-          description: "Abe Cunningham's SJC Custom snare is built to his own specification, letting him dial in exactly the tonal shift between crushing heaviness and delicate ambience that Deftones' sound depends on.",
+          description: "Abe Cunningham's Tama Starclassic matching snare lets him dial in exactly the tonal shift between crushing heaviness and delicate ambience that Deftones' sound depends on.",
           recommendation: "Consider a custom-spec build if stock configurations can't match your specific dynamic needs"
         },
         {
@@ -69567,7 +69567,7 @@ Across albums like "From Mars to Sirius" and "Magma," this snare has anchored Go
           tier: "premium",
           material: "Custom (Maple/Hybrid options)",
 
-          description: `Abe Cunningham anchors Deftones' sound — described by the band itself as a blend of "heavy and ambient music" — on a bespoke SJC Custom snare. The custom-spec build lets Cunningham dial in the exact tonal shift between crushing heaviness and delicate, atmospheric restraint that has powered the band's peak commercial era across "White Pony," "Diamond Eyes," and "Koi No Yokan."
+          description: `Abe Cunningham anchors Deftones' sound — described by the band itself as a blend of "heavy and ambient music" — on a Tama Starclassic matching snare. The maple/bubinga shell lets Cunningham dial in the exact tonal shift between crushing heaviness and delicate, atmospheric restraint that has powered the band's peak commercial era across "White Pony," "Diamond Eyes," and "Koi No Yokan."
 
 Cunningham's ability to shift between those two extremes without changing gear is exactly the quality that makes his setup a genuine post-metal-adjacent reference point for drummers chasing that same dynamic range.`,
 
@@ -69591,7 +69591,7 @@ Cunningham's ability to shift between those two extremes without changing gear i
             bestFor: "A single snare voiced for both crushing heaviness and delicate ambience"
           },
           usedBy: [
-            { name: "Abe Cunningham", band: "Deftones", note: "Bespoke SJC Custom snare voiced for both crushing heaviness and ambient restraint" }
+            { name: "Abe Cunningham", band: "Deftones", note: "Tama Starclassic matching snare voiced for both crushing heaviness and ambient restraint" }
           ],
           verdict: "Best for a single snare that spans the genre's full dynamic range. Cunningham's bespoke build proves one shell can serve both extremes.",
           rating: 4.4,
@@ -69708,7 +69708,7 @@ Cunningham's ability to shift between those two extremes without changing gear i
       { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'DW Collector\'s Series 14x6.5\" Brass — Mastodon\'s progressive-sludge dynamic range' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Sonor Signature 14x8\" Bronze — Tool\'s cinematic atmosphere-to-crescendo range' },
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Tama S.L.P. 14x6\" G-Maple — Gojira\'s atmosphere-driven progressive death metal' },
-      { slug: 'abe-cunningham', name: 'Abe Cunningham', reason: 'Bespoke SJC Custom — Deftones\' explicitly "heavy and ambient" sonic identity' }
+      { slug: 'abe-cunningham', name: 'Abe Cunningham', reason: 'Tama Starclassic matching snare — Deftones\' explicitly "heavy and ambient" sonic identity' }
     ],
 
     // Featured drummers (issue template)
@@ -69716,7 +69716,7 @@ Cunningham's ability to shift between those two extremes without changing gear i
       { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'DW Collector\'s Series 14x6.5\" Brass — Mastodon\'s progressive-sludge dynamic range' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Sonor Signature 14x8\" Bronze — Tool\'s cinematic atmosphere-to-crescendo range' },
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Tama S.L.P. 14x6\" G-Maple — Gojira\'s atmosphere-driven progressive death metal' },
-      { slug: 'abe-cunningham', name: 'Abe Cunningham', reason: 'Bespoke SJC Custom — Deftones\' explicitly "heavy and ambient" sonic identity' }
+      { slug: 'abe-cunningham', name: 'Abe Cunningham', reason: 'Tama Starclassic matching snare — Deftones\' explicitly "heavy and ambient" sonic identity' }
     ],
 
     // FAQ section for SEO
@@ -69739,14 +69739,14 @@ Cunningham's ability to shift between those two extremes without changing gear i
       },
       {
         question: "Do I need a custom or signature snare to play post-metal?",
-        answer: "No — a Pearl Export maple snare or Tama Superstar brass snare will teach real dynamic control at a fraction of the price of a signature model or Abe Cunningham's bespoke SJC Custom build. Upgrade once your technique and songwriting demands justify a professional-tier or custom-spec snare."
+        answer: "No — a Pearl Export maple snare or Tama Superstar brass snare will teach real dynamic control at a fraction of the price of a signature model or Abe Cunningham's Tama Starclassic matching snare. Upgrade once your technique and songwriting demands justify a professional-tier or custom-spec snare."
       }
     ],
 
     // Conclusion
     conclusion: {
       title: "Find Your Post-Metal Snare Voice",
-      content: `Post-metal snare choice comes down to how well a shell serves both ends of the genre's dynamic range — quiet, textural restraint and crushing, cathartic crescendo. Brann Dailor's brass DW Collector's snare proved that cutting attack and warm musicality can coexist in one shell. Danny Carey's deep bronze signature snare shows how extra depth can deliver powerful, controlled attack exactly when a slow build finally erupts, while Mario Duplantier's warm maple S.L.P. snare demonstrates that atmosphere-driven material doesn't have to sacrifice cut. Abe Cunningham's bespoke SJC Custom snare takes that dynamic range furthest, purpose-built to shift between crushing heaviness and delicate ambience without changing gear.
+      content: `Post-metal snare choice comes down to how well a shell serves both ends of the genre's dynamic range — quiet, textural restraint and crushing, cathartic crescendo. Brann Dailor's brass DW Collector's snare proved that cutting attack and warm musicality can coexist in one shell. Danny Carey's deep bronze signature snare shows how extra depth can deliver powerful, controlled attack exactly when a slow build finally erupts, while Mario Duplantier's warm maple S.L.P. snare demonstrates that atmosphere-driven material doesn't have to sacrifice cut. Abe Cunningham's Tama Starclassic matching snare takes that dynamic range furthest, well-suited to shift between crushing heaviness and delicate ambience without changing gear.
 
 None of these approaches is more "correct" — all four represent post-metal's closest working analogues' shared commitment to snares that serve atmosphere and catharsis equally. Start with whichever voicing matches your material's balance of restraint and crescendo.
 
@@ -99718,7 +99718,7 @@ Start with a proven budget option like the Tama Iron Cobra 600 to build techniqu
     // SEO metadata
     title: "Best Drum Kits for Post-Metal: 2026 Ultimate Guide",
     metaTitle: "Best Drum Kits for Post-Metal 2026 | MetalForge Guide",
-    description: "Best drum kits for post-metal drumming: what Brann Dailor (Tama Starclassic Performer B/B), Danny Carey (Sonor SQ2 Heavy Beech), Mario Duplantier (Tama Starclassic Bubinga), and Abe Cunningham (SJC Custom) actually play. Dynamic, atmosphere-driven shells for long-form crescendo — ranked budget to pro.",
+    description: "Best drum kits for post-metal drumming: what Brann Dailor (Tama Starclassic Performer B/B), Danny Carey (Sonor SQ2 Heavy Beech), Mario Duplantier (Tama Starclassic Bubinga), and Abe Cunningham (Tama Starclassic Maple/Bubinga) actually play. Dynamic, atmosphere-driven shells for long-form crescendo — ranked budget to pro.",
     seoKeywords: [
       'best drum kits for post-metal',
       'post-metal drum kit',
@@ -99755,14 +99755,14 @@ Start with a proven budget option like the Tama Iron Cobra 600 to build techniqu
       title: "What Drum Kit Should I Use for Post-Metal?",
       content: `Post-metal is built on long-form dynamics — slow-building crescendos that shift from near-silent, textural passages into crushing, cathartic walls of sound, often within a single ten-minute song. That range makes shell choice unusually demanding: a post-metal kit has to sound musical and controlled at a whisper, then hold together and project without falling apart at full volume.
 
-No drummer in our roster currently records under a literal "post-metal" tag — it's a genre defined more by atmosphere and structure (Cult of Luna, Neurosis, Isis) than a single signature drumming style. But four artists at MetalForge represent the genre's closest working analogues: drummers whose bands share post-metal's DNA of dynamic extremity, textural build, and genre-blurring scope. Brann Dailor of progressive/sludge outfit Mastodon plays a Tama Starclassic Performer B/B kit built around jazz-influenced dynamics. Danny Carey of Tool builds his sound on a fully customized Sonor SQ2 Heavy Beech platform designed for cinematic, ambient-to-crushing range. Mario Duplantier of Gojira drives his atmospheric, environmentally-themed progressive death metal on a Tama Starclassic Bubinga kit. Abe Cunningham of Deftones anchors a sound the band itself describes as blending "heavy and ambient music" on an SJC Custom kit.
+No drummer in our roster currently records under a literal "post-metal" tag — it's a genre defined more by atmosphere and structure (Cult of Luna, Neurosis, Isis) than a single signature drumming style. But four artists at MetalForge represent the genre's closest working analogues: drummers whose bands share post-metal's DNA of dynamic extremity, textural build, and genre-blurring scope. Brann Dailor of progressive/sludge outfit Mastodon plays a Tama Starclassic Performer B/B kit built around jazz-influenced dynamics. Danny Carey of Tool builds his sound on a fully customized Sonor SQ2 Heavy Beech platform designed for cinematic, ambient-to-crushing range. Mario Duplantier of Gojira drives his atmospheric, environmentally-themed progressive death metal on a Tama Starclassic Bubinga kit. Abe Cunningham of Deftones anchors a sound the band itself describes as blending "heavy and ambient music" on a Tama Starclassic Maple/Bubinga kit.
 
 This guide breaks down what actually makes a kit work for post-metal's dynamic extremes — shell material, mounting design, and tonal range — and which specific kits these four drummers rely on, from accessible starter kits to the professional setups behind some of modern metal's most atmospheric records.`,
       keyPoints: [
         "No roster drummer records under a literal 'post-metal' tag — this guide features the genre's closest working analogues by shared dynamic and atmospheric DNA",
         "Brann Dailor's Tama Starclassic Performer B/B brings jazz-influenced dynamic range to Mastodon's progressive/sludge sound",
         "Danny Carey's fully customized Sonor SQ2 Heavy Beech spans Tool's shift from ambient restraint to crushing weight",
-        "Abe Cunningham's SJC Custom anchors Deftones' explicitly 'heavy and ambient' sonic identity"
+        "Abe Cunningham's Tama Starclassic Maple/Bubinga kit anchors Deftones' explicitly 'heavy and ambient' sonic identity"
       ]
     },
 
@@ -99797,7 +99797,7 @@ This guide breaks down what actually makes a kit work for post-metal's dynamic e
         {
           name: "Atmospheric/Ambient Compatibility",
           icon: "🌫️",
-          description: "Abe Cunningham's SJC Custom kit anchors Deftones' sound specifically because it shifts cleanly between crushing heaviness and delicate, ambient dynamics without needing a second setup.",
+          description: "Abe Cunningham's Tama Starclassic Maple/Bubinga kit anchors Deftones' sound specifically because it shifts cleanly between crushing heaviness and delicate, ambient dynamics without needing a second setup.",
           recommendation: "A kit voiced to serve both delicate and crushing passages equally well"
         },
         {
@@ -99943,7 +99943,7 @@ Duplantier's approach — dynamics, groove, and an almost tribal quality — par
           tier: "premium",
           material: "Custom (Maple/Hybrid options)",
 
-          description: `Abe Cunningham anchors Deftones' sound — described by the band itself as a blend of "heavy and ambient music" — on a bespoke SJC Custom kit. The configuration has powered the band's peak commercial era across "White Pony," "Diamond Eyes," and "Koi No Yokan," proving a single kit can serve both crushing heaviness and delicate, atmospheric dynamics.
+          description: `Abe Cunningham anchors Deftones' sound — described by the band itself as a blend of "heavy and ambient music" — on a Tama Starclassic Maple/Bubinga kit. The configuration has powered the band's peak commercial era across "White Pony," "Diamond Eyes," and "Koi No Yokan," proving a single kit can serve both crushing heaviness and delicate, atmospheric dynamics.
 
 Cunningham's ability to shift between the two extremes without changing gear is exactly the quality that makes his setup a genuine post-metal-adjacent reference point for drummers chasing that same dynamic range.`,
 
@@ -100014,10 +100014,10 @@ Cunningham's ability to shift between the two extremes without changing gear is 
 
     // Shell platform comparison
     comparison: {
-      title: "Tama vs Sonor vs SJC for Post-Metal",
+      title: "Tama vs Sonor for Post-Metal",
       content: `Shell platform choice shapes how a post-metal kit handles the genre's demand for extreme dynamic range. Here's how the main options compare:
 
-**Tama Starclassic (Dailor's Performer B/B, Duplantier's Bubinga):**
+**Tama Starclassic (Dailor's Performer B/B, Duplantier's Bubinga, Cunningham's Maple/Bubinga):**
 - Warm, focused tone with a proven track record in dynamically ambitious, riff-driven metal
 - Best for: Balanced warmth across atmospheric and heavy passages
 
@@ -100025,13 +100025,9 @@ Cunningham's ability to shift between the two extremes without changing gear is 
 - Fully customizable — can be voiced toward maximum ambient-to-crushing range
 - Best for: Drummers with a precise tonal vision and extended percussion needs
 
-**SJC Custom (Abe Cunningham):**
-- Bespoke, boutique-level builds tuned specifically for the crushing/ambient shift
-- Best for: A single kit that genuinely serves both extremes without compromise
+**The Truth:** Dailor, Duplantier, and Cunningham all prove Tama's Starclassic platform handles post-metal-adjacent dynamics at a (relatively) accessible price, across everything from balanced riff-driven weight to Cunningham's crushing/ambient shift. Carey's SQ2 shows how far full customization and extended percussion can push atmospheric range.
 
-**The Truth:** Dailor and Duplantier both prove Tama's Starclassic platform handles post-metal-adjacent dynamics at a (relatively) accessible price. Carey's SQ2 shows how far full customization and extended percussion can push atmospheric range. Cunningham's SJC Custom proves a boutique build can serve both crushing and ambient extremes from a single kit.
-
-**Our Recommendation:** Start with a Tama Starclassic-style hybrid shell for balanced dynamic range, then move toward a custom SQ2 or SJC build once you have a precise tonal vision worth the investment.`,
+**Our Recommendation:** Start with a Tama Starclassic-style hybrid shell for balanced dynamic range, then move toward a custom SQ2 build once you have a precise tonal vision worth the investment.`,
       comparisonTable: [
         { feature: "Dynamic Range", tama: "⭐⭐⭐⭐", pearl: "⭐⭐⭐⭐⭐", sonor: "⭐⭐⭐⭐⭐" },
         { feature: "Warmth", tama: "⭐⭐⭐⭐⭐", pearl: "⭐⭐⭐⭐", sonor: "⭐⭐⭐⭐" },
@@ -100078,13 +100074,13 @@ Cunningham's ability to shift between the two extremes without changing gear is 
       { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Tama Starclassic Performer B/B — warm, jazz-influenced dynamic range' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Sonor SQ2 Heavy Beech — cinematic ambient-to-crushing range' },
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Tama Starclassic Bubinga — atmospheric, environmentally-themed weight' },
-      { slug: 'abe-cunningham', name: 'Abe Cunningham', reason: 'SJC Custom — Deftones\' explicitly "heavy and ambient" sound' }
+      { slug: 'abe-cunningham', name: 'Abe Cunningham', reason: 'Tama Starclassic Maple/Bubinga — Deftones\' explicitly "heavy and ambient" sound' }
     ],
     featuredDrummers: [
       { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Tama Starclassic Performer B/B — warm, jazz-influenced dynamic range' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Sonor SQ2 Heavy Beech — cinematic ambient-to-crushing range' },
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Tama Starclassic Bubinga — atmospheric, environmentally-themed weight' },
-      { slug: 'abe-cunningham', name: 'Abe Cunningham', reason: 'SJC Custom — Deftones\' explicitly "heavy and ambient" sound' }
+      { slug: 'abe-cunningham', name: 'Abe Cunningham', reason: 'Tama Starclassic Maple/Bubinga — Deftones\' explicitly "heavy and ambient" sound' }
     ],
     relatedComparisons: [],
 
@@ -100115,7 +100111,7 @@ Cunningham's ability to shift between the two extremes without changing gear is 
     // Conclusion
     conclusion: {
       title: "Build a Kit That Can Whisper and Crush",
-      content: `Post-metal drumming lives in the space between restraint and catharsis, and the kit has to serve both ends without compromise. Brann Dailor's Tama Starclassic Performer B/B, Danny Carey's fully customized Sonor SQ2, Mario Duplantier's dual-kick Tama Starclassic Bubinga, and Abe Cunningham's bespoke SJC Custom all prove that dynamic range — not raw power — is the defining requirement.
+      content: `Post-metal drumming lives in the space between restraint and catharsis, and the kit has to serve both ends without compromise. Brann Dailor's Tama Starclassic Performer B/B, Danny Carey's fully customized Sonor SQ2, Mario Duplantier's dual-kick Tama Starclassic Bubinga, and Abe Cunningham's Tama Starclassic Maple/Bubinga all prove that dynamic range — not raw power — is the defining requirement.
 
 Start with an accessible, warm-toned kit like the Pearl Export to build your sense of dynamics, and invest in a fully customized platform once your material demands the extra textural and tonal range.
 
@@ -100547,7 +100543,7 @@ Start with a budget HCS Dark or Planet Z set to build your sense of dynamics, an
     // SEO metadata
     title: "Best Drum Pedals for Post-Metal: 2026 Ultimate Guide",
     metaTitle: "Best Drum Pedals for Post-Metal 2026 | MetalForge Guide",
-    description: "Discover the best bass drum pedals for post-metal drumming. What Brann Dailor (Tama Speed Cobra), Danny Carey (Sonor Giant Step), Mario Duplantier (Tama Iron Cobra 900), and Abe Cunningham (DW 9000) actually play — from budget to pro, built for dynamic control across atmosphere-to-crescendo build.",
+    description: "Discover the best bass drum pedals for post-metal drumming. What Brann Dailor (Tama Speed Cobra), Danny Carey (Sonor Giant Step), Mario Duplantier (Tama Iron Cobra 900), and Abe Cunningham (Tama Iron Cobra 900 Rolling Glide) actually play — from budget to pro, built for dynamic control across atmosphere-to-crescendo build.",
     seoKeywords: [
       'best drum pedals for post-metal',
       'post-metal drum pedals',
@@ -100584,7 +100580,7 @@ Start with a budget HCS Dark or Planet Z set to build your sense of dynamics, an
       title: "Why Pedal Control Matters More Than Speed in Post-Metal",
       content: `Post-metal doesn't reward pure pedal speed the way death or black metal does — it rewards control. A song can spend five minutes on a single, near-silent kick pulse before erupting into a crushing, cathartic peak, and the pedal has to deliver both ends convincingly: a soft, controlled touch during the build, and real power once the crescendo lands.
 
-Brann Dailor drives Mastodon's fluid double bass patterns beneath its polyrhythmic guitar layers on a Tama Speed Cobra double pedal. Danny Carey powers Tool's shifts between delicate restraint and crushing weight on a Sonor Giant Step Twin Effect double pedal. Mario Duplantier — who forgoes a double pedal entirely for dual bass drums — drives Gojira's tectonic low end with twin Tama Iron Cobra 900 Power Glide single pedals. Abe Cunningham anchors Deftones' shift between crushing heaviness and ambient restraint on a DW 9000 Series double pedal.
+Brann Dailor drives Mastodon's fluid double bass patterns beneath its polyrhythmic guitar layers on a Tama Speed Cobra double pedal. Danny Carey powers Tool's shifts between delicate restraint and crushing weight on a Sonor Giant Step Twin Effect double pedal. Mario Duplantier — who forgoes a double pedal entirely for dual bass drums — drives Gojira's tectonic low end with twin Tama Iron Cobra 900 Power Glide single pedals. Abe Cunningham anchors Deftones' shift between crushing heaviness and ambient restraint on a Tama Iron Cobra 900 Rolling Glide double pedal.
 
 This guide breaks down what actually makes a pedal work for post-metal — control at low volume, power at the peak, and consistency across a long, dynamically shifting set — along with these four drummers' specific pedal choices, from budget-friendly options through the professional rigs behind some of modern metal's most dynamically ambitious records.`,
       keyPoints: [
@@ -100620,7 +100616,7 @@ This guide breaks down what actually makes a pedal work for post-metal — contr
         {
           name: "Drive System",
           icon: "⚙️",
-          description: "Abe Cunningham's DW 9000 dual chain system provides power and stability for Deftones' shift between crushing and delicate, while direct drive options like Dailor's Speed Cobra offer more linear response for fluid double bass patterns.",
+          description: "Abe Cunningham's Tama Iron Cobra 900 Rolling Glide provides power and stability for Deftones' shift between crushing and delicate, while direct drive options like Dailor's Speed Cobra offer more linear response for fluid double bass patterns.",
           recommendation: "Chain drive for power and adjustability; direct-feel chain (Speedo-Ring) for fluid, linear response"
         },
         {
@@ -100772,7 +100768,7 @@ The approach carried Duplantier's playing from "From Mars to Sirius" through Goj
           tier: "pro",
           driveType: "Dual Chain Drive",
 
-          description: `Abe Cunningham anchors Deftones' shift between crushing heaviness and ambient restraint on a DW 9000 Series double pedal. The dual chain system provides power and stability while remaining infinitely adjustable, letting Cunningham dial in exactly the response his atmospheric-to-heavy playing needs.
+          description: `Abe Cunningham anchors Deftones' shift between crushing heaviness and ambient restraint on a Tama Iron Cobra 900 Rolling Glide double pedal. The Rolling Glide cam system provides power and stability while remaining adjustable, letting Cunningham dial in exactly the response his atmospheric-to-heavy playing needs.
 
 The pedal has powered Deftones' peak commercial era across "White Pony," "Diamond Eyes," and "Koi No Yokan" — records built on the same crushing/ambient dynamic shift that defines post-metal songwriting.`,
 
@@ -100846,7 +100842,7 @@ The pedal has powered Deftones' peak commercial era across "White Pony," "Diamon
       title: "Single Kick vs Double Pedal for Post-Metal",
       content: `Post-metal's dynamic extremes make the single-kick-with-double-pedal-versus-dual-kick decision matter more than in most other metal subgenres. Here's the breakdown:
 
-**Double Pedal (Dailor's Speed Cobra, Carey's Giant Step, Cunningham's DW 9000):**
+**Double Pedal (Dailor's Speed Cobra, Carey's Giant Step, Cunningham's Iron Cobra 900 Rolling Glide):**
 - One kick drum driven by two beaters — more common, easier to transport
 - Consistent tone between both feet since they strike the same head
 - Preferred by: Brann Dailor, Danny Carey, Abe Cunningham
@@ -100905,13 +100901,13 @@ The pedal has powered Deftones' peak commercial era across "White Pony," "Diamon
       { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Tama Speed Cobra — fluid double bass beneath polyrhythmic guitar layers' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Sonor Giant Step Twin Effect — consistency across dynamic extremes' },
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Twin Tama Iron Cobra 900 — organic, tectonic dual-kick weight' },
-      { slug: 'abe-cunningham', name: 'Abe Cunningham', reason: 'DW 9000 Series — adjustable response for the crushing/ambient shift' }
+      { slug: 'abe-cunningham', name: 'Abe Cunningham', reason: 'Tama Iron Cobra 900 Rolling Glide — adjustable response for the crushing/ambient shift' }
     ],
     featuredDrummers: [
       { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Tama Speed Cobra — fluid double bass beneath polyrhythmic guitar layers' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Sonor Giant Step Twin Effect — consistency across dynamic extremes' },
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Twin Tama Iron Cobra 900 — organic, tectonic dual-kick weight' },
-      { slug: 'abe-cunningham', name: 'Abe Cunningham', reason: 'DW 9000 Series — adjustable response for the crushing/ambient shift' }
+      { slug: 'abe-cunningham', name: 'Abe Cunningham', reason: 'Tama Iron Cobra 900 Rolling Glide — adjustable response for the crushing/ambient shift' }
     ],
     relatedComparisons: [],
 
@@ -100942,7 +100938,7 @@ The pedal has powered Deftones' peak commercial era across "White Pony," "Diamon
     // Conclusion
     conclusion: {
       title: "Choose a Pedal Built for Restraint and Release",
-      content: `Post-metal pedal choice comes down to control, not just speed. Brann Dailor's fluid Tama Speed Cobra, Danny Carey's dynamically consistent Sonor Giant Step, Mario Duplantier's organic dual-kick Iron Cobra 900 setup, and Abe Cunningham's infinitely adjustable DW 9000 all solve the same underlying problem — serving both a whisper-quiet build and a crushing peak — from different angles.
+      content: `Post-metal pedal choice comes down to control, not just speed. Brann Dailor's fluid Tama Speed Cobra, Danny Carey's dynamically consistent Sonor Giant Step, Mario Duplantier's organic dual-kick Iron Cobra 900 setup, and Abe Cunningham's Iron Cobra 900 Rolling Glide all solve the same underlying problem — serving both a whisper-quiet build and a crushing peak — from different angles.
 
 Start with a proven, affordable option like the Tama Iron Cobra 600 to build your sense of dynamic control, and upgrade to a premium pedal once your material demands the extra range.
 
@@ -107322,7 +107318,7 @@ Whatever you choose: build heel-toe technique gradually, invest in a longboard f
       title: "Why Post-Metal Needs Control Over Raw Double Bass Speed",
       content: `Post-metal's double bass demands look nothing like death or black metal's endurance test. A song can spend five minutes on a near-silent, barely-there kick pulse before erupting into a crushing, cathartic peak, and the bass drum pedal has to serve both ends of that arc convincingly — a soft, controlled touch through the build, then real, weighted power once the crescendo finally lands.
 
-Brann Dailor drives Mastodon's fluid double bass patterns beneath its polyrhythmic guitar layers on a Tama Speed Cobra double pedal, prizing its smooth, direct-drive-like feel for passages that shift from delicate to dense within a single song. Danny Carey powers Tool's swings between whisper-quiet restraint and crushing weight on a Sonor Giant Step Twin Effect double pedal — part of the same architecturally deep SQ2 platform behind the rest of his kit. Mario Duplantier skips a double pedal entirely, driving Gojira's tectonic low end with twin independent Tama Iron Cobra 900 Power Glide single pedals for full, organic control over each kick. Abe Cunningham anchors Deftones' shift between ambient restraint and crushing heaviness on a DW 9000 Series double pedal built for exactly that kind of dynamic range.
+Brann Dailor drives Mastodon's fluid double bass patterns beneath its polyrhythmic guitar layers on a Tama Speed Cobra double pedal, prizing its smooth, direct-drive-like feel for passages that shift from delicate to dense within a single song. Danny Carey powers Tool's swings between whisper-quiet restraint and crushing weight on a Sonor Giant Step Twin Effect double pedal — part of the same architecturally deep SQ2 platform behind the rest of his kit. Mario Duplantier skips a double pedal entirely, driving Gojira's tectonic low end with twin independent Tama Iron Cobra 900 Power Glide single pedals for full, organic control over each kick. Abe Cunningham anchors Deftones' shift between ambient restraint and crushing heaviness on a Tama Iron Cobra 900 Rolling Glide double pedal built for exactly that kind of dynamic range.
 
 This guide breaks down what actually matters in a bass drum pedal for post-metal's slow-build, dynamic-swell songwriting — smooth low-volume control, weighted power at the peak, and consistency across an unusually long set — with specific pedal recommendations from budget-friendly starters through the professional rigs behind some of modern metal's most patient, dynamically ambitious records.`,
       keyPoints: [
@@ -107358,7 +107354,7 @@ This guide breaks down what actually matters in a bass drum pedal for post-metal
         {
           name: "Drive System Feel",
           icon: "⚙️",
-          description: "Abe Cunningham's DW 9000 dual-chain system delivers power and stability for Deftones' shift between crushing and delicate, while Speedo-Ring-equipped pedals like Dailor's Speed Cobra offer a smoother, more linear feel for fluid, musical double bass patterns.",
+          description: "Abe Cunningham's Tama Iron Cobra 900 Rolling Glide delivers power and stability for Deftones' shift between crushing and delicate, while Speedo-Ring-equipped pedals like Dailor's Speed Cobra offer a smoother, more linear feel for fluid, musical double bass patterns.",
           recommendation: "Chain drive with a smooth sprocket system for musical, linear response across dynamic extremes"
         },
         {
@@ -107494,7 +107490,7 @@ For post-metal drummers running dual kicks rather than a single kick with a doub
           priceRange: "€600-800 per double set",
           tier: "premium",
           driveType: "Dual Chain Drive",
-          description: `Abe Cunningham anchors Deftones' shift between crushing heaviness and ambient restraint on a DW 9000 Series double pedal, whose dual-chain system delivers extra power and stability without sacrificing the smooth, controlled feel a quieter passage needs.
+          description: `Abe Cunningham anchors Deftones' shift between crushing heaviness and ambient restraint on a Tama Iron Cobra 900 Rolling Glide double pedal, whose Rolling Glide cam system delivers extra power and stability without sacrificing the smooth, controlled feel a quieter passage needs.
 
 The 9000's adjustable everything — cam, spring tension, footboard angle — lets a post-metal drummer dial in exactly the balance of control and power their material demands.`,
           pros: [
@@ -107602,7 +107598,7 @@ The 9000's adjustable everything — cam, spring tension, footboard angle — le
       { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Tama Speed Cobra — fluid double bass patterns beneath Mastodon\'s polyrhythmic layers' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Sonor Giant Step Twin Effect — consistent response across Tool\'s dynamic extremes' },
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Dual independent Tama Iron Cobra 900 pedals for Gojira\'s tectonic low end' },
-      { slug: 'abe-cunningham', name: 'Abe Cunningham', reason: 'DW 9000 dual-chain power and stability for Deftones' }
+      { slug: 'abe-cunningham', name: 'Abe Cunningham', reason: 'Tama Iron Cobra 900 Rolling Glide power and stability for Deftones' }
     ],
 
     featuredDrummers: [

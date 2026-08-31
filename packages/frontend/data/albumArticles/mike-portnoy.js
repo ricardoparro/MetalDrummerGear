@@ -1169,7 +1169,7 @@ export const articles = {
     "dateModified": "2026-06-20",
     "author": "MetalForge Editorial",
     "title": "Metropolis Pt. 2: Scenes from a Memory Drum Setup — Mike Portnoy's Magnum Opus",
-    "description": "Complete breakdown of Mike Portnoy's drum gear on Dream Theater's Metropolis Pt. 2: Scenes from a Memory (1999). Discover the Tama Starclassic Maple kit, Sabian Artisan cymbals, DW 5000 pedals, and the recording techniques behind prog metal's definitive concept album.",
+    "description": "Complete breakdown of Mike Portnoy's drum gear on Dream Theater's Metropolis Pt. 2: Scenes from a Memory (1999). Discover the Tama Starclassic Maple kit, Sabian Artisan cymbals, Tama Iron Cobra pedals, and the recording techniques behind prog metal's definitive concept album.",
     "seoKeywords": [
       "mike portnoy scenes from a memory drum setup",
       "dream theater 1999 drum kit",
@@ -1296,15 +1296,15 @@ export const articles = {
       "items": [
         {
           "type": "Bass Drum Pedal",
-          "brand": "DW",
-          "model": "DW 5000 Double Pedal",
-          "notes": "DW 5000 double pedal — the workhorse pedal of the SFaM era",
-          "description": "For Scenes from a Memory, Mike Portnoy played DW 5000 double pedals rather than the Tama Iron Cobra he had favored on Images and Words. The DW 5000 offered a different mechanical feel — chain-drive, with a longer footboard and more progressive spring tension. The result was a pedal that rewarded a heel-up playing style and provided the smooth, consistent action that Portnoy's complex two-foot patterns required across a 77-minute concept album recording."
+          "brand": "Tama",
+          "model": "Tama Iron Cobra Double Pedal",
+          "notes": "Tama Iron Cobra double pedal — the workhorse pedal of the SFaM era",
+          "description": "For Scenes from a Memory, Mike Portnoy continued playing the Tama Iron Cobra double pedal he had favored since the mid-1990s, consistent with his long-running Tama hardware endorsement. The rolling-glide cam offered a smooth, long-throw action with consistent spring return. The result was a pedal that provided the smooth, consistent action that Portnoy's complex two-foot patterns required across a 77-minute concept album recording."
         },
         {
           "type": "Hi-Hat Stand",
-          "brand": "DW",
-          "model": "DW 5000 Hi-Hat Stand",
+          "brand": "Tama",
+          "model": "Tama Iron Cobra Hi-Hat Stand",
           "notes": "Matched to the bass drum pedal series for consistent feel"
         },
         {
@@ -1340,7 +1340,7 @@ export const articles = {
         "Tabla overdubs on \"Beyond This Life\" — Portnoy studied the instrument for the session",
         "Complete performance takes preserved narrative momentum",
         "Every drum decision filtered through the concept album's story arc",
-        "DW 5000 pedals selected for their specific feel with complex two-foot patterns"
+        "Tama Iron Cobra pedals selected for their specific feel with complex two-foot patterns"
       ]
     },
     "trackAnalysis": [
@@ -1378,7 +1378,7 @@ export const articles = {
           "Features the first appearance of the \"Metropolis\" theme quotation",
           "The album's most technically demanding track for Portnoy"
         ],
-        "gearNotes": "DW 5000 pedals deliver the consistent double-bass attack needed for sustained 7/8 patterns. China cymbal accents the signature theme quotation."
+        "gearNotes": "Tama Iron Cobra pedals deliver the consistent double-bass attack needed for sustained 7/8 patterns. China cymbal accents the signature theme quotation."
       },
       {
         "track": "Beyond This Life",
@@ -1443,11 +1443,11 @@ export const articles = {
       },
       {
         "question": "What pedals did Mike Portnoy use on Metropolis Pt. 2?",
-        "answer": "For Scenes from a Memory, Mike Portnoy used DW 5000 double pedals — a change from the Tama Iron Cobra double pedal he had used on Images and Words. The DW 5000 is a chain-drive pedal with a longer footboard and progressive spring tension, and it was the workhorse professional double pedal of the late 1990s. The change in pedal feel is one reason the double bass work on SFaM has a slightly different character than on earlier Dream Theater recordings."
+        "answer": "For Scenes from a Memory, Mike Portnoy used the same Tama Iron Cobra double pedal he had used on Images and Words, consistent with his continuous Tama endorsement dating back to 1985. The Iron Cobra's rolling-glide cam and smooth, long-throw action provided the consistent feel that Portnoy's complex two-foot patterns required across the sessions."
       },
       {
         "question": "How does the SFaM drum setup differ from the Images and Words setup?",
-        "answer": "The two setups represent distinct eras separated by seven years of development. Key differences: (1) Kit — SFaM uses Tama Starclassic Maple (cherry finish) vs. Images and Words's Tama Artstar II birch. Maple is warmer and more resonant; birch is punchier with more attack. (2) Cymbals — SFaM uses Sabian Artisan (dark, warm) vs. Zildjian A Custom (bright, cutting). (3) Pedals — SFaM uses DW 5000 vs. Tama Iron Cobra on Images and Words. (4) Bass drum depth — SFaM's 22\"x18\" vs. 22\"x16\" provides more low-end mass. See the [Images and Words drum setup article](/articles/images-and-words-drum-setup) for the full comparison."
+        "answer": "The two setups represent distinct eras separated by seven years of development. Key differences: (1) Kit — SFaM uses Tama Starclassic Maple (cherry finish) vs. Images and Words's Tama Artstar II birch. Maple is warmer and more resonant; birch is punchier with more attack. (2) Cymbals — SFaM uses Sabian Artisan (dark, warm) vs. Zildjian A Custom (bright, cutting). (3) Pedals — Tama Iron Cobra was used on both albums, consistent with Portnoy's continuous Tama endorsement. (4) Bass drum depth — SFaM's 22\"x18\" vs. 22\"x16\" provides more low-end mass. See the [Images and Words drum setup article](/articles/images-and-words-drum-setup) for the full comparison."
       }
     ],
     "quotes": [
@@ -1469,7 +1469,7 @@ export const articles = {
     ],
     "evolution": {
       "title": "From SFaM to What Came Next: Portnoy's Gear Progression",
-      "content": "The Scenes from a Memory sessions marked the end of Mike Portnoy's Tama Starclassic Maple / Sabian Artisan era. After SFaM, his setup would evolve again as Dream Theater entered the 2000s with albums like *Six Degrees of Inner Turbulence* (2002) and *Train of Thought* (2003).\n\n**After SFaM:**\nThe Sabian Artisan endorsement continued into the early 2000s, but Portnoy's kit configuration expanded as his playing style developed. The Starclassic Maple remained his platform of choice for several years post-SFaM, though finish choices and tom configurations shifted.\n\n**The DW Pedal Connection:**\nThe DW 5000 pedals from the SFaM sessions reflected a broader turn in Portnoy's hardware choices. DW hardware — stands, pedals, and accessories — became more prominent in his setup through the early 2000s before another transition.\n\n**Looking Back at Images and Words:**\nThe contrast between the Artstar II birch / Zildjian A Custom setup of *Images and Words* and the Starclassic Maple / Sabian Artisan setup of SFaM illustrates how deliberately Portnoy evolved his sound with each major project. These weren't accidental changes — they reflect a drummer who thought carefully about how his gear choices served the music. See the [Images and Words drum setup article](/articles/images-and-words-drum-setup) for the full 1992 breakdown.\n\n**Mike Mangini and the Next Chapter:**\nMike Portnoy left Dream Theater in September 2010. Mike Mangini joined in April 2011, bringing a completely different sonic philosophy to the drum chair. A Dramatic Turn of Events (2011) introduced Pearl Masterworks shells and Meinl Byzance cymbals — a radical departure from anything in the Portnoy era. See the [A Dramatic Turn of Events drum setup article](/articles/a-dramatic-turn-of-events-drum-setup) for the Mangini era breakdown.",
+      "content": "The Scenes from a Memory sessions marked the end of Mike Portnoy's Tama Starclassic Maple / Sabian Artisan era. After SFaM, his setup would evolve again as Dream Theater entered the 2000s with albums like *Six Degrees of Inner Turbulence* (2002) and *Train of Thought* (2003).\n\n**After SFaM:**\nThe Sabian Artisan endorsement continued into the early 2000s, but Portnoy's kit configuration expanded as his playing style developed. The Starclassic Maple remained his platform of choice for several years post-SFaM, though finish choices and tom configurations shifted. Throughout this period, the Tama Iron Cobra remained his pedal of choice, consistent with his Tama hardware endorsement since 1985.\n\n**Looking Back at Images and Words:**\nThe contrast between the Artstar II birch / Zildjian A Custom setup of *Images and Words* and the Starclassic Maple / Sabian Artisan setup of SFaM illustrates how deliberately Portnoy evolved his sound with each major project. These weren't accidental changes — they reflect a drummer who thought carefully about how his gear choices served the music. See the [Images and Words drum setup article](/articles/images-and-words-drum-setup) for the full 1992 breakdown.\n\n**Mike Mangini and the Next Chapter:**\nMike Portnoy left Dream Theater in September 2010. Mike Mangini joined in April 2011, bringing a completely different sonic philosophy to the drum chair. A Dramatic Turn of Events (2011) introduced Pearl Masterworks shells and Meinl Byzance cymbals — a radical departure from anything in the Portnoy era. See the [A Dramatic Turn of Events drum setup article](/articles/a-dramatic-turn-of-events-drum-setup) for the Mangini era breakdown.",
       "thenVsNow": [
         {
           "category": "Kit",
@@ -1488,7 +1488,7 @@ export const articles = {
         },
         {
           "category": "Pedals",
-          "then": "DW 5000 Double Pedal",
+          "then": "Tama Iron Cobra Double Pedal",
           "now": "Tama Iron Cobra Power Glide Twin Pedal"
         },
         {
@@ -1522,7 +1522,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "The Magnum Opus: A Legacy That Endures",
-      "content": "\"Metropolis Pt. 2: Scenes from a Memory\" isn't just a great album — it's the crystallization of everything Mike Portnoy had built toward across a decade of Dream Theater. The concept, the compositions, the drumming, and the gear all aligned in a single recording that the progressive metal community has never stopped discussing.\n\nThe Tama Starclassic Maple kit, the Sabian Artisan cymbals, the DW 5000 pedals, and the Remo heads documented here represent a specific, unrepeatable moment in Portnoy's gear history. Unlike his later setups with expanded signature endorsements, the SFaM configuration was a working drummer's professional toolkit, chosen for how it served this specific music.\n\n**For drummers studying this album:**\n- The tabla on \"Beyond This Life\" teaches that serving the music sometimes means reaching beyond your primary instrument\n- The restraint in quiet passages is as important as the power in loud ones\n- 108 time signature changes in \"The Dance of Eternity\" can be internalized if you approach them compositionally rather than academically\n- The double bass work here is surgical, not reflexive — deployed for dramatic effect, not background texture\n- Dynamic architecture across 77 minutes requires thinking like a film composer, not just a drummer\n\nTwenty-five years after its release, \"Scenes from a Memory\" retains every quality that made it extraordinary. It is Portnoy's magnum opus, Dream Theater's defining achievement, and one of the few albums in progressive metal that fully justifies the ambition behind it.\n\nFor the earlier chapter of Portnoy's Dream Theater story, see the [Images and Words drum setup article](/articles/images-and-words-drum-setup). For his complete current gear profile, visit the [Mike Portnoy drummer profile](/drummer/mike-portnoy)."
+      "content": "\"Metropolis Pt. 2: Scenes from a Memory\" isn't just a great album — it's the crystallization of everything Mike Portnoy had built toward across a decade of Dream Theater. The concept, the compositions, the drumming, and the gear all aligned in a single recording that the progressive metal community has never stopped discussing.\n\nThe Tama Starclassic Maple kit, the Sabian Artisan cymbals, the Tama Iron Cobra pedals, and the Remo heads documented here represent a specific, unrepeatable moment in Portnoy's gear history. Unlike his later setups with expanded signature endorsements, the SFaM configuration was a working drummer's professional toolkit, chosen for how it served this specific music.\n\n**For drummers studying this album:**\n- The tabla on \"Beyond This Life\" teaches that serving the music sometimes means reaching beyond your primary instrument\n- The restraint in quiet passages is as important as the power in loud ones\n- 108 time signature changes in \"The Dance of Eternity\" can be internalized if you approach them compositionally rather than academically\n- The double bass work here is surgical, not reflexive — deployed for dramatic effect, not background texture\n- Dynamic architecture across 77 minutes requires thinking like a film composer, not just a drummer\n\nTwenty-five years after its release, \"Scenes from a Memory\" retains every quality that made it extraordinary. It is Portnoy's magnum opus, Dream Theater's defining achievement, and one of the few albums in progressive metal that fully justifies the ambition behind it.\n\nFor the earlier chapter of Portnoy's Dream Theater story, see the [Images and Words drum setup article](/articles/images-and-words-drum-setup). For his complete current gear profile, visit the [Mike Portnoy drummer profile](/drummer/mike-portnoy)."
     }
   },
   "train-of-thought-drum-setup": {
@@ -1674,8 +1674,8 @@ export const articles = {
           "type": "Bass Drum Pedal",
           "brand": "Pearl",
           "model": "Pearl Eliminator Double Pedal",
-          "notes": "Pearl Eliminator — primary endorsement this era, replacing the DW 5000",
-          "description": "For *Train of Thought*, Mike Portnoy had transitioned from DW 5000 double pedals to the Pearl Eliminator — one of the most technically advanced double pedal systems available in the early 2000s. The Eliminator's multi-cam system (interchangeable cams for different response curves) gave Portnoy the ability to fine-tune his pedal feel to match the album's demanding double-bass requirements. The heavier, more aggressive playing style on *Train of Thought* demanded a pedal that could keep pace with relentless machine-gun patterns — and the Eliminator's power-to-weight ratio and adjustable tension made it ideal for this purpose."
+          "notes": "Pearl Eliminator — primary endorsement this era, replacing the Tama Iron Cobra",
+          "description": "For *Train of Thought*, Mike Portnoy had transitioned from Tama Iron Cobra double pedals to the Pearl Eliminator — one of the most technically advanced double pedal systems available in the early 2000s. The Eliminator's multi-cam system (interchangeable cams for different response curves) gave Portnoy the ability to fine-tune his pedal feel to match the album's demanding double-bass requirements. The heavier, more aggressive playing style on *Train of Thought* demanded a pedal that could keep pace with relentless machine-gun patterns — and the Eliminator's power-to-weight ratio and adjustable tension made it ideal for this purpose."
         },
         {
           "type": "Hi-Hat Stand",
@@ -1807,11 +1807,11 @@ export const articles = {
       },
       {
         "question": "What pedals did Mike Portnoy use on Train of Thought?",
-        "answer": "For Train of Thought, Mike Portnoy used Pearl Eliminator double pedals — his primary endorsement during this era, replacing the DW 5000 pedals he had used on Scenes from a Memory. The Pearl Eliminator features an interchangeable multi-cam system that allows drummers to adjust the response curve and power-to-stroke ratio. This tunability was critical for sustaining the album's high-velocity double-bass patterns across tracks like 'This Dying Soul' and 'In the Name of God' (which runs over 24 minutes). The Eliminator's power and adjustability made it well-suited to the heaviest double-bass demands of Portnoy's Dream Theater career."
+        "answer": "For Train of Thought, Mike Portnoy used Pearl Eliminator double pedals — his primary endorsement during this era, replacing the Tama Iron Cobra pedals he had used on Scenes from a Memory. The Pearl Eliminator features an interchangeable multi-cam system that allows drummers to adjust the response curve and power-to-stroke ratio. This tunability was critical for sustaining the album's high-velocity double-bass patterns across tracks like 'This Dying Soul' and 'In the Name of God' (which runs over 24 minutes). The Eliminator's power and adjustability made it well-suited to the heaviest double-bass demands of Portnoy's Dream Theater career."
       },
       {
         "question": "How does the Train of Thought drum setup differ from Scenes from a Memory?",
-        "answer": "The two setups reflect fundamentally different albums. Key differences: (1) Kit size — Train of Thought expanded to ~13 drums vs. Scenes from a Memory's 8-drum configuration; (2) Cymbals — Sabian AAX (bright, aggressive) vs. Sabian Artisan (dark, hand-hammered, warm); (3) Pedals — Pearl Eliminator (multi-cam, power-focused) vs. DW 5000 (chain-drive, smooth); (4) Playing philosophy — Metallica/Pantera-influenced maximum heaviness vs. narrative-serving concept-album dynamics. The Starclassic Maple shell platform was shared between both eras, but everything built on top of it shifted dramatically. See the [Scenes from a Memory drum setup article](/articles/scenes-from-a-memory-drum-setup) for the full SFaM breakdown."
+        "answer": "The two setups reflect fundamentally different albums. Key differences: (1) Kit size — Train of Thought expanded to ~13 drums vs. Scenes from a Memory's 8-drum configuration; (2) Cymbals — Sabian AAX (bright, aggressive) vs. Sabian Artisan (dark, hand-hammered, warm); (3) Pedals — Pearl Eliminator (multi-cam, power-focused) vs. Tama Iron Cobra (rolling-glide cam, smooth); (4) Playing philosophy — Metallica/Pantera-influenced maximum heaviness vs. narrative-serving concept-album dynamics. The Starclassic Maple shell platform was shared between both eras, but everything built on top of it shifted dramatically. See the [Scenes from a Memory drum setup article](/articles/scenes-from-a-memory-drum-setup) for the full SFaM breakdown."
       }
     ],
     "quotes": [
@@ -1833,7 +1833,7 @@ export const articles = {
     ],
     "evolution": {
       "title": "From Train of Thought to What Came Next: Portnoy's Progression",
-      "content": "*Train of Thought* represents the apex of Mike Portnoy's maximal, heavy phase with Dream Theater. The Pearl Eliminator endorsement, expanded Starclassic Maple kit, and Sabian AAX configuration defined this specific moment in his gear history.\n\n**After Train of Thought:**\nDream Theater followed *Train of Thought* with *Octavarium* (2005) — a deliberate pendulum swing back toward melody and prog complexity, completing an arc from *Scenes from a Memory* through *Six Degrees* and *Train of Thought* to a more balanced statement. Portnoy's setup evolved again for that record, adjusting back toward the more nuanced dynamics that the prog context demanded.\n\n**The Pearl Eliminator Legacy:**\nThe Pearl Eliminator pedals introduced during the *Train of Thought* cycle represented a significant chapter in Portnoy's pedal history. Coming after the DW 5000 of the SFaM era, the Eliminator brought a different mechanical philosophy — more adjustable, more power-focused — that matched the album's needs precisely.\n\n**Looking Back at Scenes from a Memory:**\nThe contrast between the Sabian Artisan / DW 5000 / 8-drum configuration of *Scenes from a Memory* (1999) and the Sabian AAX / Pearl Eliminator / 13-drum setup of *Train of Thought* (2003) illustrates the full range of Mike Portnoy's gear vocabulary. Both setups were optimal for their albums — the changes were always driven by musical context. See the [Scenes from a Memory drum setup article](/articles/scenes-from-a-memory-drum-setup) for the 1999 breakdown.\n\n**Mike Mangini and the Next Chapter:**\nMike Portnoy left Dream Theater in September 2010. Mike Mangini joined in April 2011, bringing Pearl Masterworks shells and Meinl Byzance cymbals — a complete departure from everything in the Portnoy era. See the [A Dramatic Turn of Events drum setup article](/articles/a-dramatic-turn-of-events-drum-setup) for the Mangini era breakdown.",
+      "content": "*Train of Thought* represents the apex of Mike Portnoy's maximal, heavy phase with Dream Theater. The Pearl Eliminator endorsement, expanded Starclassic Maple kit, and Sabian AAX configuration defined this specific moment in his gear history.\n\n**After Train of Thought:**\nDream Theater followed *Train of Thought* with *Octavarium* (2005) — a deliberate pendulum swing back toward melody and prog complexity, completing an arc from *Scenes from a Memory* through *Six Degrees* and *Train of Thought* to a more balanced statement. Portnoy's setup evolved again for that record, adjusting back toward the more nuanced dynamics that the prog context demanded.\n\n**The Pearl Eliminator Legacy:**\nThe Pearl Eliminator pedals introduced during the *Train of Thought* cycle represented a significant chapter in Portnoy's pedal history. Coming after the Tama Iron Cobra of the SFaM era, the Eliminator brought a different mechanical philosophy — more adjustable, more power-focused — that matched the album's needs precisely.\n\n**Looking Back at Scenes from a Memory:**\nThe contrast between the Sabian Artisan / Tama Iron Cobra / 8-drum configuration of *Scenes from a Memory* (1999) and the Sabian AAX / Pearl Eliminator / 13-drum setup of *Train of Thought* (2003) illustrates the full range of Mike Portnoy's gear vocabulary. Both setups were optimal for their albums — the changes were always driven by musical context. See the [Scenes from a Memory drum setup article](/articles/scenes-from-a-memory-drum-setup) for the 1999 breakdown.\n\n**Mike Mangini and the Next Chapter:**\nMike Portnoy left Dream Theater in September 2010. Mike Mangini joined in April 2011, bringing Pearl Masterworks shells and Meinl Byzance cymbals — a complete departure from everything in the Portnoy era. See the [A Dramatic Turn of Events drum setup article](/articles/a-dramatic-turn-of-events-drum-setup) for the Mangini era breakdown.",
       "thenVsNow": [
         {
           "category": "Kit",
@@ -1905,7 +1905,7 @@ export const articles = {
     "dateModified": "2026-06-27",
     "author": "MetalForge Editorial",
     "title": "Six Degrees of Inner Turbulence Drum Setup — Mike Portnoy's Double Album Masterwork (2002)",
-    "description": "Complete breakdown of Mike Portnoy's drum gear on Dream Theater's Six Degrees of Inner Turbulence (2002). Discover the Tama Starclassic Maple kit, Sabian cymbals, DW pedals, and the polyrhythmic techniques behind the 42-minute title suite and 'The Glass Prison'.",
+    "description": "Complete breakdown of Mike Portnoy's drum gear on Dream Theater's Six Degrees of Inner Turbulence (2002). Discover the Tama Starclassic Maple kit, Sabian cymbals, Tama Iron Cobra pedals, and the polyrhythmic techniques behind the 42-minute title suite and 'The Glass Prison'.",
     "seoKeywords": [
       "six degrees of inner turbulence drum setup",
       "mike portnoy 2002 drum kit",
@@ -2033,15 +2033,15 @@ export const articles = {
       "items": [
         {
           "type": "Bass Drum Pedal",
-          "brand": "DW",
-          "model": "DW Double Pedal",
-          "notes": "DW double pedal — chain-drive, smooth action for complex two-foot patterns",
-          "description": "For the *Six Degrees* sessions, Mike Portnoy continued with DW double pedals, the same mechanical platform that had served the *Scenes from a Memory* recordings. The DW chain-drive system's smooth, progressive feel was well-suited to the double album's range of demands: extended, high-velocity double bass for 'The Glass Prison,' controlled, musical two-foot work for the title suite's more dynamic movements. The transition to Pearl Eliminator pedals would come with *Train of Thought* the following year."
+          "brand": "Tama",
+          "model": "Tama Iron Cobra Double Pedal",
+          "notes": "Tama Iron Cobra — rolling-glide cam, smooth action for complex two-foot patterns",
+          "description": "For the *Six Degrees* sessions, Mike Portnoy continued with the Tama Iron Cobra double pedal, the same mechanical platform that had served the *Scenes from a Memory* recordings. The Iron Cobra's smooth, progressive feel was well-suited to the double album's range of demands: extended, high-velocity double bass for 'The Glass Prison,' controlled, musical two-foot work for the title suite's more dynamic movements. The transition to Pearl Eliminator pedals would come with *Train of Thought* the following year."
         },
         {
           "type": "Hi-Hat Stand",
-          "brand": "DW",
-          "model": "DW 5000 Hi-Hat Stand",
+          "brand": "Tama",
+          "model": "Tama Iron Cobra Hi-Hat Stand",
           "notes": "Matched to the bass drum pedal series — consistent mechanical feel"
         },
         {
@@ -2091,7 +2091,7 @@ export const articles = {
           "Some of the most intense double-bass work of the Starclassic Maple era",
           "References \"The Mirror\" and \"Lie\" from Awake — narrative continuity across albums"
         ],
-        "gearNotes": "DW double pedals deliver the sustained double-bass intensity that drives the track's relentless middle section. The HH Chinese cymbal punctuates the most aggressive transitions."
+        "gearNotes": "Tama Iron Cobra double pedals deliver the sustained double-bass intensity that drives the track's relentless middle section. The HH Chinese cymbal punctuates the most aggressive transitions."
       },
       {
         "track": "Blind Faith",
@@ -2206,7 +2206,7 @@ export const articles = {
     ],
     "evolution": {
       "title": "From Six Degrees to Train of Thought: Portnoy's Heavy Pivot",
-      "content": "*Six Degrees of Inner Turbulence* occupies a pivotal position in Mike Portnoy's gear and playing history — the bridge between the narrative-driven prog of *Scenes from a Memory* and the maximum-heaviness approach of *Train of Thought*. After *Six Degrees*, the direction became clear.\n\n**The Transition to Train of Thought:**\nBy 2003, Portnoy had decided to take Dream Theater in the direction they'd been hinting at on Disc 1 of *Six Degrees* — fully committed, deliberately heavy, Metallica and Pantera-influenced. The Pearl Eliminator pedals that replaced the DW system, the Sabian AAX cymbals that replaced the Artisan series, and the expanded 13-drum kit configuration all arrived with *Train of Thought*. The heavier playing instinct that \"The Glass Prison\" had displayed became the default mode. See the [Train of Thought drum setup article](/articles/train-of-thought-drum-setup) for the full 2003 configuration.\n\n**The Artisan Cymbal Era's End:**\n*Six Degrees* was the last major Dream Theater album to feature the Sabian Artisan series as Portnoy's primary cymbal setup. The warm, dark, hand-hammered character that had defined his sound from *Scenes from a Memory* through *Six Degrees* gave way to the brighter, more aggressive AAX series for the heavy pivot. Both cymbal philosophies were right for their albums.\n\n**The AA Suite's Beginning:**\nThe most lasting legacy of *Six Degrees* for Portnoy personally was \"The Glass Prison\" — the opening chapter of what would become a multi-album autobiographical project tracking his AA journey. That suite would continue across subsequent Dream Theater albums, cementing a personal narrative thread through his creative work that transcended any single record.\n\n**Looking Back at Scenes from a Memory:**\nThe contrast between the full emotional depth and restrained dynamics of *Scenes from a Memory* and the transitional energy of *Six Degrees* illustrates how Portnoy was testing the limits of the Starclassic Maple platform across the 1999-2002 period. Both albums are products of the same gear philosophy but different creative imperatives. See the [Scenes from a Memory drum setup article](/articles/scenes-from-a-memory-drum-setup) for the full SFaM breakdown.",
+      "content": "*Six Degrees of Inner Turbulence* occupies a pivotal position in Mike Portnoy's gear and playing history — the bridge between the narrative-driven prog of *Scenes from a Memory* and the maximum-heaviness approach of *Train of Thought*. After *Six Degrees*, the direction became clear.\n\n**The Transition to Train of Thought:**\nBy 2003, Portnoy had decided to take Dream Theater in the direction they'd been hinting at on Disc 1 of *Six Degrees* — fully committed, deliberately heavy, Metallica and Pantera-influenced. The Pearl Eliminator pedals that replaced the Tama Iron Cobra, the Sabian AAX cymbals that replaced the Artisan series, and the expanded 13-drum kit configuration all arrived with *Train of Thought*. The heavier playing instinct that \"The Glass Prison\" had displayed became the default mode. See the [Train of Thought drum setup article](/articles/train-of-thought-drum-setup) for the full 2003 configuration.\n\n**The Artisan Cymbal Era's End:**\n*Six Degrees* was the last major Dream Theater album to feature the Sabian Artisan series as Portnoy's primary cymbal setup. The warm, dark, hand-hammered character that had defined his sound from *Scenes from a Memory* through *Six Degrees* gave way to the brighter, more aggressive AAX series for the heavy pivot. Both cymbal philosophies were right for their albums.\n\n**The AA Suite's Beginning:**\nThe most lasting legacy of *Six Degrees* for Portnoy personally was \"The Glass Prison\" — the opening chapter of what would become a multi-album autobiographical project tracking his AA journey. That suite would continue across subsequent Dream Theater albums, cementing a personal narrative thread through his creative work that transcended any single record.\n\n**Looking Back at Scenes from a Memory:**\nThe contrast between the full emotional depth and restrained dynamics of *Scenes from a Memory* and the transitional energy of *Six Degrees* illustrates how Portnoy was testing the limits of the Starclassic Maple platform across the 1999-2002 period. Both albums are products of the same gear philosophy but different creative imperatives. See the [Scenes from a Memory drum setup article](/articles/scenes-from-a-memory-drum-setup) for the full SFaM breakdown.",
       "thenVsNow": [
         {
           "category": "Kit",
@@ -2225,7 +2225,7 @@ export const articles = {
         },
         {
           "category": "Pedals",
-          "then": "DW Double Pedal",
+          "then": "Tama Iron Cobra Double Pedal",
           "now": "Tama Iron Cobra Power Glide Twin Pedal"
         },
         {
@@ -2253,7 +2253,7 @@ export const articles = {
     "relatedLicks": [],
     "conclusion": {
       "title": "The Double Album Legacy: Six Degrees in Portnoy's Arc",
-      "content": "*Six Degrees of Inner Turbulence* is the Dream Theater album that most clearly reveals Mike Portnoy as both musician and human being. The double album format forced him to operate at the full width of his capabilities — heavy and personal on Disc 1, compositionally vast and emotionally nuanced on Disc 2 — and the Tama Starclassic Maple kit, Sabian Artisan cymbals, and DW pedals documented here were the tools he used to pull it off.\n\nThe album fills a critical gap in the Dream Theater arc: it is the only studio record between *Scenes from a Memory* (1999) and *Train of Thought* (2003), and it explains why the shift from prog depth to maximum heaviness felt coherent rather than jarring. The seeds of the heavy pivot are visible on Disc 1 of *Six Degrees*; the prog sensitivity that would return in later albums is fully expressed on Disc 2. Understanding this album means understanding the full range of what Portnoy could do.\n\n**For drummers studying this album:**\n- The polyrhythmic passages in \"The Great Debate\" require four-limb independence developed gradually, not rushed\n- Hi-hat technique can be a narrative voice — vary it movement by movement in long-form composition\n- Autobiographical material demands emotional connection alongside technical execution\n- Suite stamina comes from structural thinking: knowing the architectural shape before playing the first note\n- The Sabian Artisan's complex, dark voice is the right cymbal for music that needs to breathe rather than cut\n\nFor the album that preceded this, see the [Scenes from a Memory drum setup article](/articles/scenes-from-a-memory-drum-setup). For the heavy pivot that followed, see the [Train of Thought drum setup article](/articles/train-of-thought-drum-setup). For Portnoy's early Dream Theater foundation, see the [Images and Words drum setup article](/articles/images-and-words-drum-setup). For his complete career profile, visit the [Mike Portnoy drummer profile](/drummer/mike-portnoy)."
+      "content": "*Six Degrees of Inner Turbulence* is the Dream Theater album that most clearly reveals Mike Portnoy as both musician and human being. The double album format forced him to operate at the full width of his capabilities — heavy and personal on Disc 1, compositionally vast and emotionally nuanced on Disc 2 — and the Tama Starclassic Maple kit, Sabian Artisan cymbals, and Tama Iron Cobra pedals documented here were the tools he used to pull it off.\n\nThe album fills a critical gap in the Dream Theater arc: it is the only studio record between *Scenes from a Memory* (1999) and *Train of Thought* (2003), and it explains why the shift from prog depth to maximum heaviness felt coherent rather than jarring. The seeds of the heavy pivot are visible on Disc 1 of *Six Degrees*; the prog sensitivity that would return in later albums is fully expressed on Disc 2. Understanding this album means understanding the full range of what Portnoy could do.\n\n**For drummers studying this album:**\n- The polyrhythmic passages in \"The Great Debate\" require four-limb independence developed gradually, not rushed\n- Hi-hat technique can be a narrative voice — vary it movement by movement in long-form composition\n- Autobiographical material demands emotional connection alongside technical execution\n- Suite stamina comes from structural thinking: knowing the architectural shape before playing the first note\n- The Sabian Artisan's complex, dark voice is the right cymbal for music that needs to breathe rather than cut\n\nFor the album that preceded this, see the [Scenes from a Memory drum setup article](/articles/scenes-from-a-memory-drum-setup). For the heavy pivot that followed, see the [Train of Thought drum setup article](/articles/train-of-thought-drum-setup). For Portnoy's early Dream Theater foundation, see the [Images and Words drum setup article](/articles/images-and-words-drum-setup). For his complete career profile, visit the [Mike Portnoy drummer profile](/drummer/mike-portnoy)."
     }
   },
   "octavarium-drum-setup": {
@@ -2868,7 +2868,7 @@ export const articles = {
       },
       {
         "question": "How does the Systematic Chaos kit differ from Scenes from a Memory?",
-        "answer": "The two setups reflect fundamentally different eras. Key differences: (1) Shell material — Tama Starclassic Bubinga (Systematic Chaos) vs. Tama Starclassic Maple (Scenes from a Memory); bubinga is denser and sharper-attacking, maple is warmer and more sustained. (2) Cymbals — Sabian HHX Evolution (dark, complex, hand-hammered) vs. Sabian Artisan (also dark, but more vintage-voiced). (3) Pedals — DW 9000 (smooth, roller-bearing cam) vs. DW 5000 (chain-drive). (4) Kit size — ~13 drums (Systematic Chaos) vs. 8 drums (Scenes from a Memory). The Scenes from a Memory setup was optimized for narrative concept-album dynamics; the Systematic Chaos setup was optimized for maximum prog-metal versatility. See the [Scenes from a Memory drum setup article](/articles/scenes-from-a-memory-drum-setup) for the full SFaM breakdown."
+        "answer": "The two setups reflect fundamentally different eras. Key differences: (1) Shell material — Tama Starclassic Bubinga (Systematic Chaos) vs. Tama Starclassic Maple (Scenes from a Memory); bubinga is denser and sharper-attacking, maple is warmer and more sustained. (2) Cymbals — Sabian HHX Evolution (dark, complex, hand-hammered) vs. Sabian Artisan (also dark, but more vintage-voiced). (3) Pedals — DW 9000 (smooth, roller-bearing cam) vs. Tama Iron Cobra (rolling-glide cam, smooth). (4) Kit size — ~13 drums (Systematic Chaos) vs. 8 drums (Scenes from a Memory). The Scenes from a Memory setup was optimized for narrative concept-album dynamics; the Systematic Chaos setup was optimized for maximum prog-metal versatility. See the [Scenes from a Memory drum setup article](/articles/scenes-from-a-memory-drum-setup) for the full SFaM breakdown."
       },
       {
         "question": "What makes In the Presence of Enemies hard to drum?",
@@ -3066,7 +3066,7 @@ export const articles = {
               "name": "How does the Systematic Chaos kit differ from Scenes from a Memory?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Key differences: (1) Shell material — Tama Starclassic Bubinga (Systematic Chaos) vs. Tama Starclassic Maple (Scenes from a Memory); bubinga is denser and sharper-attacking, maple is warmer and more sustained. (2) Cymbals — Sabian HHX Evolution (dark, complex, hand-hammered) vs. Sabian Artisan (also dark, but more vintage-voiced). (3) Pedals — DW 9000 (smooth, roller-bearing cam) vs. DW 5000 (chain-drive). (4) Kit size — ~13 drums (Systematic Chaos) vs. 8 drums (Scenes from a Memory)."
+                "text": "Key differences: (1) Shell material — Tama Starclassic Bubinga (Systematic Chaos) vs. Tama Starclassic Maple (Scenes from a Memory); bubinga is denser and sharper-attacking, maple is warmer and more sustained. (2) Cymbals — Sabian HHX Evolution (dark, complex, hand-hammered) vs. Sabian Artisan (also dark, but more vintage-voiced). (3) Pedals — DW 9000 (smooth, roller-bearing cam) vs. Tama Iron Cobra (rolling-glide cam, smooth). (4) Kit size — ~13 drums (Systematic Chaos) vs. 8 drums (Scenes from a Memory)."
               }
             },
             {
@@ -3879,7 +3879,7 @@ export const articles = {
       },
       {
         "question": "What pedals did Mike Portnoy use on Falling into Infinity?",
-        "answer": "Mike Portnoy used Tama Iron Cobra double pedals on Falling into Infinity — the rolling-glide cam model that he favored through the mid-to-late 1990s. The Iron Cobra's smooth, long-throw action was well-suited to the album's varied material: restrained enough for melodic tracks like \"Hollow Years\" and powerful enough for the double-bass runs on \"Trial of Tears\" and \"Lines in the Sand.\" He later switched to DW 5000 pedals for the Metropolis Pt. 2 sessions in 1999."
+        "answer": "Mike Portnoy used Tama Iron Cobra double pedals on Falling into Infinity — the rolling-glide cam model that he favored through the mid-to-late 1990s. The Iron Cobra's smooth, long-throw action was well-suited to the album's varied material: restrained enough for melodic tracks like \"Hollow Years\" and powerful enough for the double-bass runs on \"Trial of Tears\" and \"Lines in the Sand.\" He continued using the Iron Cobra for the Metropolis Pt. 2 sessions in 1999."
       }
     ],
     "quotes": [
@@ -3921,7 +3921,7 @@ export const articles = {
         {
           "category": "Pedals",
           "then": "Tama Iron Cobra Double Pedal",
-          "now": "DW 5000 — by Metropolis Pt. 2"
+          "now": "Tama Iron Cobra Double Pedal (same) — by Metropolis Pt. 2"
         },
         {
           "category": "Sticks",

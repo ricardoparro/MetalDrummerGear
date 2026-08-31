@@ -5,6 +5,36 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-08-31 03:44 UTC*
 
 ---
+## 2026-08-31 12:44 — Deep run: 6 fresh gear-fabrication proposals promoted (#6547-6552); L1/L2/L3 refresh overdue
+
+### Context (≤3 lines)
+First run after 07:00 UTC. Metrics 12:44 UTC (260 users/296 sessions/473 views 7d; GSC 7,902 impr/168 clicks/2.13% CTR/pos 9.3). Eligible `ai-fix` backlog 0 at run start (all 20 pre-existing open `ai-fix` remain `hold`-labeled freeze-blocked roster/band splits, prior batch #6528-6535 all shipped since the 03:45 entry), 0 open PRs, 6 fresh untriaged `seo-proposal` (#6547-6552, filed 06:44-06:46 UTC) plus the 3 standing L1/L2/L3 umbrellas (#3810/#3819/#2211).
+
+### Actions taken
+- **Promoted all 6** (`ai-fix`), same systemic gear-brand-fabrication class as every batch this week (`drummerComparisons.js`/`genreGearGuides.js`/`albumArticles/*.js` fields contradicting verified `endorsementNews.js`). #6547 (Hellhammer drums/cymbals/pedal fabricated Pearl/Zildjian/Pearl across 13 comparison entries, 23 lines, vs verified Sonor/Paiste/Axis — distinct from #6465/#6327/#6270/#6178, all different files/entries already fixed), #6548 (Mike Portnoy album article invents a fictitious Zildjian→Sabian cymbal "evolution" narrative vs verified continuous Sabian since 1985), #6549 (Portnoy pedal fabricated DW 5000 in the same article's "Scenes from a Memory" section vs verified continuous Tama Iron Cobra), #6550 (Abe Cunningham drums/snare/pedal fabricated SJC Custom/DW in one `drummerComparisons.js` entry vs verified Tama Starclassic/Iron Cobra since 1997 — cymbals correctly say Zildjian in both the fabricated and correct sibling entries, only drums/snare/pedal drift), #6551 (Lars Ulrich heads fabricated Evans in the `genreGearGuides.js` drum-heads guide vs verified Remo since 1986), #6552 (Joey Jordison cymbals/sticks fabricated Zildjian in 2 `genreGearGuides.js` usedBy entries vs verified Paiste RUDE/2002 and Promark). Live-verified all 6 directly via grep (small batch, cheap to fully check): **#6547** — `grep -c` confirmed 20 of the cited 23 lines still contain the exact fabricated "Pearl Reference Series kit with a Pearl Reference snare" string. **#6551** — confirmed lines 483/520/590/612/924 in `genreGearGuides.js` still pair Lars Ulrich with Evans. **#6548** — confirmed 31 Zildjian hits remain in `albumArticles/mike-portnoy.js`. **#6549** — confirmed line 1300-1302 still assert "DW 5000 Double Pedal" for the SFaM era. **#6550** — confirmed line 1622 still has Abe Cunningham on "SJC Custom" + "DW 9000", contradicted by the correct Tama/Iron Cobra sibling entries at 1898/2105 in the same file. **#6552** — confirmed line 5419/5443/5730/5737 still pair Joey Jordison with Zildjian against verified Paiste/Promark. Searched `state:all` per drummer name for all 6 — no true duplicates (closed hits are different files/fields/entries already fixed, e.g. Hellhammer has 4 prior closed issues each on a distinct file). All single-file (5 of 6) or dual-file (#6550), verified-only, zero new pages/URLs (freeze-compliant depth work).
+- **Backlog gate**: 0 → 6, well under the 45/80 threshold; promoted liberally per rule.
+- **GSC content-gap**: metrics.md flags 3 rows, all already ruled on precedent in `learned-patterns.md` — `metalforge` (699 impr, 0.43% CTR, pos 7.0, still climbing) is the 2026-08-28 SERP name-collision verdict; `danny carey drum kit` (97 impr, 1.03% CTR, pos 10.7) is the 2026-08-25 content-ceiling verdict (CTR actually up from the 0% baseline, position flat — no re-open per the "re-evaluate only if position moves" rule); `joey jordison drum kit` did not clear the ≥50-impr filter this run's underlying table but is tracked via #6552's unrelated fix. All held, no re-file.
+- **L1/L2/L3** (#3810/#3819/#2211): snapshot files still the 2026-08-24 generation (`Generated:` timestamps unchanged) — the weekly refresh was due ~08-31 (today) and has **not landed yet**. Noting explicitly per the decision-log rule rather than re-triaging stale data; watching for the refresh to land later today.
+- **Founder ideas**: inbox empty, unchanged since 06-19.
+- **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 — all `updatedAt` unchanged (checked directly), no re-spam.
+- **Stale-issue / atomic-split sweep**: re-confirmed all 20 pre-existing `ai-fix` issues (freeze-blocked roster/band splits) still `hold`-labeled, none eligible. New promotions all single/dual-file, well under the atomic-split trigger.
+- **Starvation check**: post-triage backlog=6, bank=0 (excl. umbrellas) — numerically meets the trigger shape but is fresh same-cycle supply (all 6 filed 06:44-06:46 UTC, triaged this run), consistent with the SEO Agent's healthy daily cadence (0→6-8→0 has been the steady pattern for two weeks). Not escalating.
+
+### State delta
+- ai-fix backlog: 0 → 6 (#6547-6552)
+- seo-proposal bank (excl. umbrellas): 6 → 0
+- Org/Sessions/Views (7d): 260/296/473 · GSC 7,902 impr/168 clicks/2.13% CTR/pos 9.3 (impressions up ~19% vs the 03:45 snapshot, CTR/position roughly flat)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 6/6 fresh triaged, live-verified (all 6 direct grep-checked), promoted, no duplicates, freeze-compliant. ✅ GSC-gap: 3 rows re-confirmed held on documented precedent, no new fix. ⚠️ L1/L2/L3: unchanged since 08-24, weekly refresh overdue (due today, not yet landed) — flagged, not re-actioned. ✅ Starvation: not triggered (fresh supply). ✅ Atomic split: 20 stale issues re-checked, all `hold`-labeled, none eligible; new promotions all atomic. ✅ Decisions logged.
+
+### Next Run
+1. Watch #6547-6552 ship via Roadie/PR Merger.
+2. **L1/L2/L3 weekly refresh overdue (was due 08-31)** — if still 08-24-generation at the next run, escalate explicitly rather than silently re-noting a third time.
+3. Mid-day pulse due ~13:00 UTC: check Roadie progress.
+4. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
 ## 2026-08-31 03:45 — Cheap pulse: 8 fresh gear-fabrication proposals promoted (#6528-6535)
 
 ### Context (≤3 lines)

@@ -15486,12 +15486,12 @@ Blake Richardson (Between the Buried and Me) relies on Tama hardware for the opp
           tier: "pro",
           material: "Double-braced steel",
 
-          description: `Gavin Harrison runs Sonor 600 Series hardware for the same reason he chooses Sonor drums and cymbal stands throughout his progressive metal career: German-engineered precision that holds complex cymbal arrays exactly in place. Martin Axenrot (Opeth) has anchored his twin-bass-drum Sonor SQ2 kit on the same 600 Series line since joining the band in 2006.
+          description: `Gavin Harrison runs Sonor 600 Series hardware for the same reason he chooses Sonor drums and cymbal stands throughout his progressive metal career: German-engineered precision that holds complex cymbal arrays exactly in place.
 
 The 600 Series balances weight and stability well — heavy enough to resist creep under blast beats, but not as cumbersome to transport as DW's flagship pack.`,
 
           pros: [
-            "Gavin Harrison and Martin Axenrot's proven progressive/extreme metal setup",
+            "Gavin Harrison's proven progressive metal setup",
             "German engineering with precise tension control",
             "Good balance of weight and portability",
             "Holds complex, wide cymbal arrays steady",
@@ -15509,8 +15509,7 @@ The 600 Series balances weight and stability well — heavy enough to resist cre
             weight: "Medium-heavy"
           },
           usedBy: [
-            { name: "Gavin Harrison", band: "Porcupine Tree / King Crimson", note: "Sonor 600 Series across a complex progressive metal cymbal setup" },
-            { name: "Martin Axenrot", band: "Opeth", note: "Anchors his twin-bass-drum Sonor SQ2 kit since 2006" }
+            { name: "Gavin Harrison", band: "Porcupine Tree / King Crimson", note: "Sonor 600 Series across a complex progressive metal cymbal setup" }
           ],
           verdict: "The precision choice for wide, complex progressive metal cymbal setups.",
           rating: 4.6,
@@ -15674,7 +15673,7 @@ Pearl's D-Series line uses a wide, double-braced round base and a locking height
         {
           category: "Best for Complex/Progressive Setups",
           pedal: "Sonor 600 Series Hardware",
-          reason: "Gavin Harrison and Martin Axenrot's choice for precision under a wide, complex cymbal array."
+          reason: "Gavin Harrison's choice for precision under a wide, complex cymbal array."
         },
         {
           category: "Best for Wide Double-Kick Kits",
@@ -15713,7 +15712,7 @@ Pearl's D-Series line uses a wide, double-braced round base and a locking height
     faq: [
       {
         question: "What hardware do metal drummers use?",
-        answer: "Touring metal drummers favor heavy, double-braced hardware from DW (9000 Series — Abe Cunningham, Ray Luzier), Tama (Titan Series — Lars Ulrich, Blake Richardson), and Sonor (600 Series — Gavin Harrison, Martin Axenrot). Rack systems like Gibraltar's Road Series (John Otto) are common for wide double-kick setups, and Pearl's D-Series thrones (George Kollias, Inferno) are popular for their stability at extreme tempos."
+        answer: "Touring metal drummers favor heavy, double-braced hardware from DW (9000 Series — Abe Cunningham, Ray Luzier), Tama (Titan Series — Lars Ulrich, Blake Richardson), and Sonor (600 Series — Gavin Harrison). Rack systems like Gibraltar's Road Series (John Otto) are common for wide double-kick setups, and Pearl's D-Series thrones (George Kollias, Inferno) are popular for their stability at extreme tempos."
       },
       {
         question: "Do I need a rack for metal?",
@@ -20575,7 +20574,7 @@ Whatever you choose, remember the module serves the kit — not the other way ar
       title: "What Bass Drum Setup Do Extreme Metal Drummers Actually Use?",
       content: `In extreme metal, the bass drum isn't just another shell in the kit — it's the engine driving blast beats, sustained double bass, and the low-end weight that separates a heavy mix from a thin one. Shell size, wood, head selection, and even whether you run one kick or two all change how a bass drum responds at 200+ BPM.
 
-Mario Duplantier (Gojira) runs dual 22"x18" Tama Starclassic Bubinga bass drums — forgoing a double pedal entirely for the more organic, powerful feel that dual kicks provide on Gojira's progressive death metal records. Tomas Haake (Meshuggah) goes the opposite direction with a single, massive 24"x18" Sonor SQ2 bass drum for maximum low-end weight beneath Meshuggah's polyrhythmic riffing. Martin Axenrot (Opeth) also runs twin 22"x18" Sonor SQ2 bass drums, while George Kollias (Nile) drives a 22" Pearl Masterworks shell with a co-designed Pearl Demon XR double pedal to sustain blast beats past 240 BPM.
+Mario Duplantier (Gojira) runs dual 22"x18" Tama Starclassic Bubinga bass drums — forgoing a double pedal entirely for the more organic, powerful feel that dual kicks provide on Gojira's progressive death metal records. Tomas Haake (Meshuggah) goes the opposite direction with a single, massive 24"x18" Sonor SQ2 bass drum for maximum low-end weight beneath Meshuggah's polyrhythmic riffing. Martin Axenrot (Opeth) also runs twin 22"x18" DW Custom bass drums, while George Kollias (Nile) drives a 22" Pearl Masterworks shell with a co-designed Pearl Demon XR double pedal to sustain blast beats past 240 BPM.
 
 This guide breaks down exactly what makes a bass drum work for extreme metal — size, shell material, head selection, and single vs. dual kick setups — and which specific shells the genre's most demanding drummers actually play.`,
       keyPoints: [
@@ -20605,7 +20604,7 @@ This guide breaks down exactly what makes a bass drum work for extreme metal —
         {
           name: "Shell Material",
           icon: "🪵",
-          description: "Bubinga (Mario Duplantier's Tama) delivers a dense, punchy low-end with strong projection. Maple/mahogany hybrids (Gene Hoglan's Pearl Reference Pure) offer clarity and tonal balance. Custom beech shells (Sonor SQ2 — Tomas Haake, Martin Axenrot) produce a tight, focused low-end that cuts through dense polyrhythmic mixes.",
+          description: "Bubinga (Mario Duplantier's Tama) delivers a dense, punchy low-end with strong projection. Maple/mahogany hybrids (Gene Hoglan's Pearl Reference Pure) offer clarity and tonal balance. Custom beech shells (Sonor SQ2 — Tomas Haake) produce a tight, focused low-end that cuts through dense polyrhythmic mixes.",
           recommendation: "Bubinga or beech for maximum punch and projection; maple/mahogany hybrid for tonal balance"
         },
         {

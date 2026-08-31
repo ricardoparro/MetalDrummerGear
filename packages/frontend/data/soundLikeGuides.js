@@ -11588,7 +11588,7 @@ This guide breaks down the technique, gear, and practice approach behind Frost's
     genre: 'Progressive Rock / Jazz Fusion / Progressive Metal',
     priority: 44,
     title: "How to Sound Like Morgan Ågren: Complete Gear & Technique Guide",
-    description: "Master Morgan Ågren's four-over-three polyrhythms and extreme dynamic range. Learn the technique behind Frank Zappa's touring drummer and Devin Townsend Project's rhythmic architect, plus his Sonor kit and Meinl Byzance cymbal setup.",
+    description: "Master Morgan Ågren's four-over-three polyrhythms and extreme dynamic range. Learn the technique behind Frank Zappa's touring drummer and Devin Townsend Project's rhythmic architect, plus his Sonor kit and Paiste Signature cymbal setup.",
     seoKeywords: ['morgan agren drumming style', 'how to sound like morgan agren', 'morgan agren technique', 'morgan agren gear', 'morgan agren polyrhythm', 'devin townsend drummer'],
     ogImage: '/images/guides/morgan-agren-guide.webp',
     datePublished: '2026-07-01',
@@ -11677,19 +11677,20 @@ This guide breaks down the technique, gear, and practice approach behind Ågren'
         alternative: "Pearl Reference or DW Performance Series in a similar depth for comparable sensitivity and body."
       },
       cymbals: {
-        brand: 'Meinl',
-        series: 'Meinl Byzance Series',
+        brand: 'Paiste',
+        series: 'Paiste Signature & 2002 Series',
         setup: [
-          { type: 'Hi-Hats', model: 'Meinl Byzance Sand Hi-Hats 14"', notes: 'Dry, dry-decay response for clear articulation in dense polyrhythmic passages' },
-          { type: 'Crash', model: 'Meinl Byzance Crash 16"-18"', notes: 'Complex, warm decay — musical rather than purely aggressive' },
-          { type: 'Crash', model: 'Meinl Byzance Crash 18"-20"', notes: 'Fuller body for structural accent points' },
-          { type: 'Ride', model: 'Meinl Byzance Traditional Ride 22"', notes: 'Warm, complex wash with a defined, usable bell' }
+          { type: 'Hi-Hats', model: 'Paiste Signature Heavy Hi-Hats 14"', notes: 'Dry, dry-decay response for clear articulation in dense polyrhythmic passages' },
+          { type: 'Crash', model: 'Paiste Signature Fast Crash 18"', notes: 'Complex, warm decay — musical rather than purely aggressive' },
+          { type: 'Crash', model: 'Paiste Signature Fast Crash 20"', notes: 'Fuller body for structural accent points' },
+          { type: 'Ride', model: 'Paiste Signature Dry Heavy Ride 22"', notes: 'Warm, complex wash with a defined, usable bell' },
+          { type: 'China', model: 'Paiste 2002 China 18"', notes: 'Cutting accent voice for structural transitions' }
         ],
-        description: "Ågren's Byzance cymbals are hand-hammered B20 bronze with layered, complex overtones — a musical resource rather than a problem to manage in jazz-metal and avant-garde contexts. The 14\" Sand Hi-Hats give dry, clearly articulated strokes essential when each hi-hat hit represents a distinct rhythmic layer within a four-over-three pattern."
+        description: "Ågren's Paiste cymbals — a relationship dating back to 1988 — pair Signature Series alloy with the 2002 Series China for layered, complex overtones, a musical resource rather than a problem to manage in jazz-metal and avant-garde contexts. The 14\" Signature Heavy Hi-Hats give dry, clearly articulated strokes essential when each hi-hat hit represents a distinct rhythmic layer within a four-over-three pattern."
       },
       pedals: {
-        brand: 'DW',
-        model: 'DW Double Bass Pedal',
+        brand: 'Sonor',
+        model: 'Sonor Giant Step Double Pedal',
         description: "A smooth, consistent double pedal supports the independence-heavy footwork Ågren's polyrhythmic patterns demand — predictable response regardless of where a given stroke falls within a displaced rhythmic cycle.",
         alternative: "Tama Speed Cobra or Pearl Eliminator for similarly consistent chain-drive response."
       },
@@ -11766,7 +11767,7 @@ This guide breaks down the technique, gear, and practice approach behind Ågren'
         price: "$1,000",
         label: "Starter Setup",
         kit: "Pearl Export or Mapex Mars ($700)",
-        cymbals: "Meinl HCS Pack ($200)",
+        cymbals: "Paiste PST 5 Pack ($200)",
         pedals: "DW 3000 Single Pedal ($100)",
         sticks: "Vic Firth 5A ($10)",
         notes: "Any balanced maple/birch hybrid kit will let you develop the technique before investing in Sonor's higher tier."
@@ -11775,17 +11776,17 @@ This guide breaks down the technique, gear, and practice approach behind Ågren'
         price: "$3,200",
         label: "Intermediate Setup",
         kit: "Sonor Select Force ($1,900)",
-        cymbals: "Meinl Byzance partial set ($1,000)",
+        cymbals: "Paiste Signature partial set ($1,000)",
         pedals: "DW 5000 Double Pedal ($300)",
         sticks: "Vic Firth 5A ($10)",
-        notes: "A partial Byzance set — hi-hats and ride first — captures most of the tonal character."
+        notes: "A partial Signature set — hi-hats and ride first — captures most of the tonal character."
       },
       pro: {
         price: "$6,500+",
         label: "Professional Setup",
         kit: "Sonor SQ2 Beech ($4,500+)",
-        cymbals: "Full Meinl Byzance selection ($1,800+)",
-        pedals: "DW Double Bass Pedal ($350)",
+        cymbals: "Full Paiste Signature & 2002 selection ($1,800+)",
+        pedals: "Sonor Giant Step Double Pedal ($350)",
         heads: "Full Remo setup ($150)",
         notes: "Fully custom-specified setup matching Ågren's touring and recording configuration."
       }
@@ -11801,7 +11802,7 @@ This guide breaks down the technique, gear, and practice approach behind Ågren'
       },
       {
         question: "What cymbals and gear does Morgan Ågren use?",
-        answer: "Ågren's cymbals are Meinl Byzance — 14\" Sand Hi-Hats for dry, clear articulation, various Byzance crashes, and a 22\" Byzance Traditional Ride as his centerpiece. He plays a DW double bass pedal and Vic Firth American Classic 5A sticks, a balance point between jazz-weight and metal-weight sticks."
+        answer: "Ågren's cymbals are Paiste Signature and 2002 Series — 14\" Signature Heavy Hi-Hats for dry, clear articulation, Signature Fast Crashes, an 18\" 2002 China, and a 22\" Signature Dry Heavy Ride as his centerpiece. He plays a Sonor Giant Step double pedal and Vic Firth American Classic 5A sticks, a balance point between jazz-weight and metal-weight sticks."
       },
       {
         question: "What should I practice first to sound like Morgan Ågren?",
@@ -11816,11 +11817,11 @@ This guide breaks down the technique, gear, and practice approach behind Ågren'
       drummerProfile: '/drummer/morgan-agren',
       similarDrummers: ['Mike Portnoy', 'Matt Garstka', 'Hannes Grossmann'],
       relatedGuides: ['how-to-sound-like-mike-portnoy', 'how-to-sound-like-matt-garstka'],
-      gearPages: ['/gear/drums', '/brands/sonor', '/brands/meinl']
+      gearPages: ['/gear/drums', '/brands/sonor', '/brands/paiste']
     },
     licksUrl: '/drummers/morgan-agren/licks',
     relatedArticles: [
-      { slug: 'morgan-agren-drum-setup', label: "Morgan Ågren's Drum Setup — Sonor SQ2 & Meinl Byzance" }
+      { slug: 'morgan-agren-drum-setup', label: "Morgan Ågren's Drum Setup — Sonor SQ2 & Paiste Signature" }
     ]
   },
   'how-to-sound-like-tim-yeung': {

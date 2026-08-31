@@ -5415,7 +5415,7 @@ This guide breaks down the best cymbal lines for metal across all price points, 
 
           description: `The Zildjian A Custom is the most common cymbal series on MetalForge's entire roster — and across professional metal drumming broadly. The brilliant finish and hand-hammered B20 bronze produces a bright, cutting shimmer that slices through guitar walls without being harsh. The fast attack and clean decay make crashes precise; the hi-hats cut through any mix.
 
-Lars Ulrich's iconic cymbal sound is built on Zildjian A Customs and the earlier A series. Joey Jordison of Slipknot used Zildjian extensively throughout Slipknot's career. Gene Hoglan's precise, surgical cymbal work relies on Zildjian quality. The A Custom Mastersound hi-hats are particularly popular in metal for their tight, cutting sound with minimal wash buildup.`,
+Lars Ulrich's iconic cymbal sound is built on Zildjian A Customs and the earlier A series. Gene Hoglan's precise, surgical cymbal work relies on Zildjian quality. The A Custom Mastersound hi-hats are particularly popular in metal for their tight, cutting sound with minimal wash buildup.`,
 
           pros: [
             "Brilliant finish cuts through any dense guitar mix",
@@ -5439,7 +5439,6 @@ Lars Ulrich's iconic cymbal sound is built on Zildjian A Customs and the earlier
           },
           usedBy: [
             { name: "Lars Ulrich", band: "Metallica", note: "A Custom and A series throughout career" },
-            { name: "Joey Jordison", band: "Slipknot", note: "Zildjian endorser" },
             { name: "Gene Hoglan", band: "Death / Testament", note: "Precision cymbal choice" },
             { name: "Dave Lombardo", band: "Slayer", note: "Classic thrash cymbal aggression" },
             { name: "Charlie Benante", band: "Anthrax", note: "Thrash cymbal standard" }
@@ -5484,6 +5483,7 @@ Mikkey Dee of Scorpions (and formerly Motörhead) has used Paiste throughout his
           },
           usedBy: [
             { name: "Mikkey Dee", band: "Scorpions / Motörhead", note: "Paiste endorser — classic heavy metal power" },
+            { name: "Joey Jordison", band: "Slipknot", note: "Paiste RUDE & 2002 Series endorser since 2000" },
             { name: "Neil Peart", band: "Rush", note: "Progressive metal/rock landmark recordings" },
             { name: "Stewart Copeland", band: "The Police", note: "Cross-genre versatility" }
           ],
@@ -94295,12 +94295,12 @@ This guide covers what actually makes a stick work for nu-metal's groove-first, 
           tier: "pro",
           material: "Hickory",
 
-          description: `Joey Jordison of Slipknot used Zildjian sticks throughout his most celebrated Slipknot recordings — the power and consistency matching his explosive, technically demanding playing. The Z5A is Zildjian's 5A-based metal-focused model, with hickory construction and a design optimized for the power demands of nu-metal's dense, groove-locked arrangements.
+          description: `The Zildjian Z5A is Zildjian's 5A-based metal-focused model, with hickory construction and a design optimized for the power demands of nu-metal's dense, groove-locked arrangements.
 
-Zildjian's stick manufacturing draws on the company's centuries of sound expertise, shaping how the Z5A's tip projects on cymbals across Slipknot's explosive, percussion-heavy catalog.`,
+Zildjian's stick manufacturing draws on the company's centuries of sound expertise, shaping how the Z5A's tip projects on cymbals across dense, percussion-heavy nu-metal mixes.`,
 
           pros: [
-            "Joey Jordison's Slipknot stick choice",
+            "Metal-focused 5A-based diameter with added power",
             "Hickory construction for durability under heavy nu-metal playing",
             "Tip shape optimized for cymbal projection in dense mixes",
             "Good balance of power and response",
@@ -94317,10 +94317,8 @@ Zildjian's stick manufacturing draws on the company's centuries of sound experti
             tip: "Acorn (wood)",
             grip: "Lacquered"
           },
-          usedBy: [
-            { name: "Joey Jordison", band: "Slipknot / Murderdolls", note: "Zildjian endorser — explosive nu-metal drumming" }
-          ],
-          verdict: "Joey Jordison's Slipknot weapon. Excellent all-round nu-metal stick with strong cymbal projection.",
+          usedBy: [],
+          verdict: "A metal-focused 5A-based stick with strong cymbal projection — a solid all-round nu-metal pick.",
           rating: 4.6,
           affiliateLink: "https://www.thomann.de/intl/zildjian_z5a.htm?partner_id=metalforge"
         },

@@ -1,0 +1,53 @@
+{
+  "generatedAt": "2026-08-31T15:33:56.590Z",
+  "windowDays": 90,
+  "totalDomains": 8,
+  "newDomainsThisRun": [
+    "doubao.com",
+    "searchhippo.com",
+    "zapmeta.com"
+  ],
+  "domains": [
+    {
+      "domain": "m.facebook.com",
+      "sessions": 12,
+      "users": 2
+    },
+    {
+      "domain": "uk.search.yahoo.com",
+      "sessions": 2,
+      "users": 2
+    },
+    {
+      "domain": "ca.search.yahoo.com",
+      "sessions": 1,
+      "users": 1
+    },
+    {
+      "domain": "doubao.com",
+      "sessions": 1,
+      "users": 1
+    },
+    {
+      "domain": "facebook.com",
+      "sessions": 1,
+      "users": 1
+    },
+    {
+      "domain": "mx.search.yahoo.com",
+      "sessions": 1,
+      "users": 1
+    },
+    {
+      "domain": "searchhippo.com",
+      "sessions": 1,
+      "users": 1
+    },
+    {
+      "domain": "zapmeta.com",
+      "sessions": 1,
+      "users": 1
+    }
+  ],
+  "prevSnapshotFile": "2026-08-24.json"
+}

@@ -517,7 +517,7 @@ Start with what you can afford, learn proper technique, and upgrade when your sk
       title: "Why Drum Heads Are Your Most Important Tuning Tool",
       content: `In metal drumming, no single piece of gear impacts your sound more than your drum heads. The best kit in the world sounds mediocre with worn-out heads, while a budget kit sounds professional with quality heads properly tuned. Yet drum heads are the most overlooked upgrade in a metal drummer's arsenal.
 
-Metal demands specific head characteristics: attack for cutting through dense guitar walls, durability for heavy hitting, and enough sustain control to keep your kit punchy rather than ringy. Lars Ulrich's iconic tones on "Master of Puppets" and "...And Justice for All" came from carefully chosen Evans heads. Gene Hoglan's thunderous precision on Death's "Human" relied on double-ply construction that could handle his power without deadening response. Tomas Haake's razor-sharp attack with Meshuggah starts at the drum head level before any processing.
+Metal demands specific head characteristics: attack for cutting through dense guitar walls, durability for heavy hitting, and enough sustain control to keep your kit punchy rather than ringy. Lars Ulrich's iconic tones on "Master of Puppets" and "...And Justice for All" came from carefully chosen Remo heads. Gene Hoglan's thunderous precision on Death's "Human" relied on double-ply construction that could handle his power without deadening response. Tomas Haake's razor-sharp attack with Meshuggah starts at the drum head level before any processing.
 
 This guide breaks down exactly which drum heads work best for metal, why ply count and coating matter, and which specific models the pros use — from affordable Remo Ambassadors to pro-level Evans heads. Whether you play thrash, death, black, or modern metal, the right head makes all the difference.`,
       keyPoints: [
@@ -587,7 +587,7 @@ This guide breaks down exactly which drum heads work best for metal, why ply cou
 
           description: `The Evans G2 Coated is the most common drum head on MetalForge's entire pro roster — and for good reason. The double-ply coated construction delivers everything metal requires: warm, focused attack that cuts through guitar walls, natural sustain control without deadening the drum, and enough durability to handle aggressive hitting night after night.
 
-Lars Ulrich has used Evans heads throughout Metallica's career, and the G2 Coated appears on countless classic recordings. Gene Hoglan of Death and Testament relies on Evans for the focused, powerful tone his precision technique demands. The Level 360 collar technology ensures these heads seat properly and tune evenly across the full range.`,
+Gene Hoglan of Death and Testament relies on Evans for the focused, powerful tone his precision technique demands, and the G2 Coated appears on countless classic recordings. The Level 360 collar technology ensures these heads seat properly and tune evenly across the full range.`,
 
           pros: [
             "Warm attack that sits perfectly in metal mixes",
@@ -609,7 +609,6 @@ Lars Ulrich has used Evans heads throughout Metallica's career, and the G2 Coate
             sizes: "6\" to 26\""
           },
           usedBy: [
-            { name: "Lars Ulrich", band: "Metallica", note: "Evans endorser across career" },
             { name: "Gene Hoglan", band: "Death / Testament", note: "The Atomic Clock's head of choice" },
             { name: "Tomas Haake", band: "Meshuggah", note: "Evans G2 for attack and control" },
             { name: "Matt Greiner", band: "August Burns Red", note: "Progressive metalcore tone" },
@@ -863,13 +862,13 @@ The black coating gives the Onyx a distinctive look that matches its personality
 - Level 360 collar technology seats perfectly on modern drums
 - G2 Coated is the industry standard for metal
 - Consistent quality, modern character
-- Preferred by: Lars Ulrich, Gene Hoglan, Tomas Haake, Chris Adler
+- Preferred by: Gene Hoglan, Tomas Haake, Chris Adler
 
 **Remo:**
 - Traditional construction with decades of recording history
 - Ambassador Coated offers warm, musical tone
 - Emperor is the heavy-duty double-ply option
-- Preferred by: Nicko McBrain, Bill Ward, Mike Mangini, Dave Lombardo
+- Preferred by: Lars Ulrich, Nicko McBrain, Bill Ward, Mike Mangini, Dave Lombardo
 
 **Aquarian:**
 - Unique ply combinations for different feels
@@ -921,7 +920,7 @@ The black coating gives the Onyx a distinctive look that matches its personality
       'best-cymbals-for-metal'
     ],
     relatedDrummers: [
-      { slug: 'lars-ulrich', name: 'Lars Ulrich', reason: 'Evans endorser, defining metal head tone' },
+      { slug: 'lars-ulrich', name: 'Lars Ulrich', reason: 'Remo endorser, defining metal head tone' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'The Atomic Clock — precision head control' },
       { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'EC2 user for ultra-controlled Meshuggah tone' },
       { slug: 'nicko-mcbrain', name: 'Nicko McBrain', reason: 'Remo endorser — classic heavy metal tone' },
@@ -929,7 +928,7 @@ The black coating gives the Onyx a distinctive look that matches its personality
     ],
 
     featuredDrummers: [
-      { slug: 'lars-ulrich', name: 'Lars Ulrich', reason: 'Evans endorser — defining metal drum head tone across Metallica\'s career' },
+      { slug: 'lars-ulrich', name: 'Lars Ulrich', reason: 'Remo endorser — defining metal drum head tone across Metallica\'s career' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'The Atomic Clock — Evans double-ply for precision control' },
       { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Evans EC2 — ultra-controlled polyrhythmic Meshuggah tone' }
     ],
@@ -938,7 +937,7 @@ The black coating gives the Onyx a distinctive look that matches its personality
     faq: [
       {
         question: "What drum heads do metal drummers use?",
-        answer: "Most professional metal drummers use double-ply coated heads, primarily Evans G2 Coated or Remo Emperor Coated for toms and snare. Lars Ulrich, Gene Hoglan, and Tomas Haake use Evans. Nicko McBrain and Mike Mangini use Remo. The double-ply construction provides the attack, durability, and natural sustain control that metal demands."
+        answer: "Most professional metal drummers use double-ply coated heads, primarily Evans G2 Coated or Remo Emperor Coated for toms and snare. Gene Hoglan and Tomas Haake use Evans. Lars Ulrich, Nicko McBrain, and Mike Mangini use Remo. The double-ply construction provides the attack, durability, and natural sustain control that metal demands."
       },
       {
         question: "Should I use coated or clear heads for metal?",
@@ -7618,7 +7617,7 @@ More importantly, the Export's robust construction handles aggressive thrash pla
       },
       {
         question: "What drum heads should I use on my thrash metal kit?",
-        answer: "Evans G2 Coated for batter heads on toms — the most common choice among pro metal drummers including Lars Ulrich. Evans EC2 for more controlled tone. Remo Coated Emperor is an excellent alternative. For kick, Evans EMAD2 or Remo Powerstroke 3 for focused attack. Snare: Evans G2 Coated or a dedicated snare head like Evans HD Dry. Replace heads every 3–6 months under regular thrash playing."
+        answer: "Evans G2 Coated for batter heads on toms — a common choice among pro metal drummers. Evans EC2 for more controlled tone. Remo Coated Emperor is an excellent alternative (Remo is the brand Lars Ulrich has used since 1986). For kick, Evans EMAD2 or Remo Powerstroke 3 for focused attack. Snare: Evans G2 Coated or a dedicated snare head like Evans HD Dry. Replace heads every 3–6 months under regular thrash playing."
       },
       {
         question: "Do I need a double bass pedal for thrash metal?",

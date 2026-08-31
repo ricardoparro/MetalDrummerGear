@@ -22590,7 +22590,7 @@ Start with a 22"x18" maple shell and a reinforced head like the Evans EMAD or Re
     // SEO metadata
     title: "Best Bass Drums for Doom Metal: 2026 Ultimate Guide",
     metaTitle: "Best Bass Drums for Doom Metal in 2026 | MetalForge Expert Guide",
-    description: "Best bass drums for doom metal's oversized, weight-first low end. What Danny Carey (DW Collector's Series), Brann Dailor (Gretsch Signature), Mario Duplantier (Tama Starclassic Bubinga), and Igor Cavalera (Pearl Reference) actually play — from budget to pro.",
+    description: "Best bass drums for doom metal's oversized, weight-first low end. What Danny Carey (Sonor Custom), Brann Dailor (Gretsch Signature), Mario Duplantier (Tama Starclassic Bubinga), and Igor Cavalera (Pearl Reference) actually play — from budget to pro.",
     seoKeywords: [
       'best bass drums for doom metal',
       'doom metal bass drum setup',
@@ -22627,12 +22627,12 @@ Start with a 22"x18" maple shell and a reinforced head like the Evans EMAD or Re
       title: "What Bass Drum Setup Do Doom Metal Drummers Actually Use?",
       content: `Doom metal's bass drum has to do the opposite of what most extreme metal subgenres ask for. Instead of surviving blast beats at 240+ BPM, a doom kick locks into riffs at half or a quarter the tempo, letting every single stroke ring out and carry maximum tonnage before the next one lands. That flips the gear brief: rather than a dry, tightly muffled shell built for rapid-fire endurance, doom rewards oversized 24"+ shells with deep bodies that can sustain real low-end weight through slow, riff-locked repetition.
 
-Bill Ward, who invented doom metal's tempo-and-tonnage template with Black Sabbath, doesn't currently have a dedicated MetalForge gear profile — so this guide draws on the closest working analogues from progressive sludge, technical death, and progressive rock lineages that share doom's foundational commitment to weight. Danny Carey's fully custom DW Collector's Series bass drum runs a dual 22"/24" kick configuration, one of the largest touring setups in rock, purpose-built for deliberate, patient low end. Brann Dailor's Gretsch Signature 24"x18" bass drum anchors Mastodon's progressive sludge-doom catalog with warm, musical sustain. Mario Duplantier's dual 22"x18" Tama Starclassic Bubinga bass drums give Gojira's crushing, down-tuned passages tectonic body through mass rather than a single oversized shell. Igor Cavalera's Pearl Reference bass drum carries the tribal, down-tuned heaviness that parallels doom's own tonnage-first philosophy.
+Bill Ward, who invented doom metal's tempo-and-tonnage template with Black Sabbath, doesn't currently have a dedicated MetalForge gear profile — so this guide draws on the closest working analogues from progressive sludge, technical death, and progressive rock lineages that share doom's foundational commitment to weight. Danny Carey's Sonor Custom bass drum runs a dual 22"/24" kick configuration, one of the largest touring setups in rock, purpose-built for deliberate, patient low end. Brann Dailor's Gretsch Signature 24"x18" bass drum anchors Mastodon's progressive sludge-doom catalog with warm, musical sustain. Mario Duplantier's dual 22"x18" Tama Starclassic Bubinga bass drums give Gojira's crushing, down-tuned passages tectonic body through mass rather than a single oversized shell. Igor Cavalera's Pearl Reference bass drum carries the tribal, down-tuned heaviness that parallels doom's own tonnage-first philosophy.
 
 This guide breaks down exactly what makes a bass drum work for doom metal — oversized shell diameter, depth, and tuning philosophy — and which specific shells the genre's closest analogues actually play, from budget to professional touring rigs.`,
       keyPoints: [
         "Doom metal rewards oversized 24\"+ shells that ring out and carry real low-end weight, the opposite of blast-beat genres' dry, choked kicks",
-        "Danny Carey's dual 22\"/24\" DW Collector's Series configuration shows how deliberate deceleration itself becomes doom's defining atmospheric device",
+        "Danny Carey's dual 22\"/24\" Sonor Custom configuration shows how deliberate deceleration itself becomes doom's defining atmospheric device",
         "Brann Dailor's Gretsch Signature proves deep, resonant shells suit doom's slow, riff-locked tempo, while Mario Duplantier's dual 22\"x18\" Tama Starclassic Bubinga kicks show mass can deliver the same tectonic weight",
         "Open, moderately-tuned heads let each deliberate hit build tension and sustain before the next lands"
       ]
@@ -22645,7 +22645,7 @@ This guide breaks down exactly what makes a bass drum work for doom metal — ov
         {
           name: "Oversized Shell Diameter",
           icon: "⭕",
-          description: "Where blast-beat genres standardize on 22\"x18\" for speed, doom rewards going bigger. Danny Carey's dual-kick DW Collector's Series runs 22\"/24\", and Igor Cavalera's Pearl Reference favors the extra headroom a 24\" shell gives for sub-bass weight over raw response.",
+          description: "Where blast-beat genres standardize on 22\"x18\" for speed, doom rewards going bigger. Danny Carey's dual-kick Sonor Custom runs 22\"/24\", and Igor Cavalera's Pearl Reference favors the extra headroom a 24\" shell gives for sub-bass weight over raw response.",
           recommendation: "24\" (or larger) diameter for maximum low-end weight when tempo isn't a constraint"
         },
         {
@@ -22687,23 +22687,23 @@ This guide breaks down exactly what makes a bass drum work for doom metal — ov
       pedals: [
         {
           rank: 1,
-          name: "DW Collector's Series Bass Drum (Dual Kick)",
-          brand: "DW",
-          model: "Collector's Series 22\"/24\"x18\"",
+          name: "Sonor Custom Bass Drum (Dual Kick)",
+          brand: "Sonor",
+          model: "Custom 22\"/24\"x18\"",
           image: "https://upload.wikimedia.org/wikipedia/commons/6/6c/Acoustic_Drums_Kit_%2829965183378%29.jpg",
           priceRange: "€1600-2200 (pair)",
           tier: "premium",
           material: "Maple, 22\"/24\"x18\"",
 
-          description: `Danny Carey's fully custom DW Collector's Series kit runs a dual 22"/24" bass drum configuration, one of the largest touring setups in rock. The oversized 24" shell gives Tool's slowly evolving, dynamically varied compositions the patient, atmospheric low end that doom-adjacent material demands — proof that deliberate deceleration itself can become the defining device.
+          description: `Danny Carey's Sonor Custom kit runs a dual 22"/24" bass drum configuration, one of the largest touring setups in rock. The oversized 24" shell gives Tool's slowly evolving, dynamically varied compositions the patient, atmospheric low end that doom-adjacent material demands — proof that deliberate deceleration itself can become the defining device.
 
-DW's True-Pitch tensioning ensures precise, repeatable tuning across two mismatched shell sizes under heavy touring use, letting the oversized 24" kick ring out with full sustain while the 22" stays tighter for contrast.`,
+Sonor's German-engineered hardware ensures precise, repeatable tuning across two mismatched shell sizes under heavy touring use, letting the oversized 24" kick ring out with full sustain while the 22" stays tighter for contrast.`,
 
           pros: [
             "Danny Carey's exact Tool touring configuration — proven oversized doom-adjacent low end",
             "Dual 22\"/24\" sizing gives tonal contrast between tight and oversized shells",
-            "True-Pitch tensioning for precise, repeatable tuning under heavy use",
-            "Exceptional DW hardware refinement and build quality",
+            "German-engineered hardware for precise, repeatable tuning under heavy use",
+            "Exceptional Sonor build quality and refinement",
             "24\" shell delivers real sub-bass weight most standard kicks can't match"
           ],
           cons: [
@@ -22714,16 +22714,16 @@ DW's True-Pitch tensioning ensures precise, repeatable tuning across two mismatc
           specs: {
             diameter: "22\"/24\"",
             depth: "18\"",
-            shell: "Maple (True-Pitch tensioning)",
+            shell: "Maple (Sonor custom spec)",
             headRecommendation: "Remo Powerstroke 3",
             configuration: "Dual, independently pedaled"
           },
           usedBy: [
-            { name: "Danny Carey", band: "Tool", note: "Dual 22\"/24\" DW Collector's Series — patient, atmospheric doom-adjacent weight" }
+            { name: "Danny Carey", band: "Tool", note: "Dual 22\"/24\" Sonor Custom — patient, atmospheric doom-adjacent weight" }
           ],
           verdict: "The definitive oversized doom-adjacent bass drum setup for drummers chasing maximum atmospheric weight.",
           rating: 4.9,
-          affiliateLink: "https://www.thomann.de/intl/dw_collectors_series_dual_bass_drum.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/sonor_custom_dual_bass_drum.htm?partner_id=metalforge"
         },
         {
           rank: 2,
@@ -22914,7 +22914,7 @@ Pearl's Reference program balances projection and warmth in a way that's transla
       picks: [
         {
           category: "Best Overall",
-          pedal: "DW Collector's Series Bass Drum (Dual Kick)",
+          pedal: "Sonor Custom Bass Drum (Dual Kick)",
           reason: "Danny Carey's oversized 22\"/24\" dual-kick standard — maximum atmospheric weight and tonal contrast."
         },
         {
@@ -22944,7 +22944,7 @@ Pearl's Reference program balances projection and warmth in a way that's transla
       'best-drum-heads-for-doom-metal'
     ],
     relatedDrummers: [
-      { slug: 'danny-carey', name: 'Danny Carey', reason: 'Dual 22\"/24\" DW Collector\'s Series — patient, atmospheric doom-adjacent weight' },
+      { slug: 'danny-carey', name: 'Danny Carey', reason: 'Dual 22\"/24\" Sonor Custom — patient, atmospheric doom-adjacent weight' },
       { slug: 'brann-dailor', name: 'Brann Dailor', reason: '24\"x18\" Gretsch Signature carrying progressive sludge-doom\'s warmest low end' },
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Dual 22\"x18\" Tama Starclassic Bubinga — crushing, tectonic weight' },
       { slug: 'igor-cavalera', name: 'Igor Cavalera', reason: '24\"x18\" Pearl Reference — tribal, down-tuned doom-adjacent weight' }
@@ -22952,7 +22952,7 @@ Pearl's Reference program balances projection and warmth in a way that's transla
 
     // Featured drummers (issue template)
     featuredDrummers: [
-      { slug: 'danny-carey', name: 'Danny Carey', reason: 'Dual-kick DW Collector\'s Series — the oversized doom-adjacent standard' },
+      { slug: 'danny-carey', name: 'Danny Carey', reason: 'Dual-kick Sonor Custom — the oversized doom-adjacent standard' },
       { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Gretsch Signature — closest analogue to doom\'s founding template' },
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Dual 22\"x18\" Tama Starclassic Bubinga — maximum low-end mass' }
     ],
@@ -22961,7 +22961,7 @@ Pearl's Reference program balances projection and warmth in a way that's transla
     faq: [
       {
         question: "What bass drums do doom metal drummers use?",
-        answer: "Bill Ward, who invented doom metal's template with Black Sabbath, doesn't have a dedicated MetalForge gear profile, so this guide draws on the genre's closest analogues. Danny Carey of Tool runs a dual 22\"/24\" DW Collector's Series, Brann Dailor of Mastodon plays a 24\"x18\" Gretsch Signature, Mario Duplantier of Gojira runs dual 22\"x18\" Tama Starclassic Bubinga kicks, and Igor Cavalera plays a 24\"x18\" Pearl Reference."
+        answer: "Bill Ward, who invented doom metal's template with Black Sabbath, doesn't have a dedicated MetalForge gear profile, so this guide draws on the genre's closest analogues. Danny Carey of Tool runs a dual 22\"/24\" Sonor Custom, Brann Dailor of Mastodon plays a 24\"x18\" Gretsch Signature, Mario Duplantier of Gojira runs dual 22\"x18\" Tama Starclassic Bubinga kicks, and Igor Cavalera plays a 24\"x18\" Pearl Reference."
       },
       {
         question: "What size bass drum is best for doom metal?",
@@ -22977,14 +22977,14 @@ Pearl's Reference program balances projection and warmth in a way that's transla
       },
       {
         question: "Single kick or dual kick for doom metal?",
-        answer: "Either works — Danny Carey's dual 22\"/24\" DW Collector's Series gives tonal contrast between a tighter and an oversized shell, and Mario Duplantier's dual 22\"x18\" Tama Starclassic Bubinga kicks deliver similar reserve mass, while Brann Dailor and Igor Cavalera get comparable weight from a single oversized 24\" kick paired with a double pedal."
+        answer: "Either works — Danny Carey's dual 22\"/24\" Sonor Custom gives tonal contrast between a tighter and an oversized shell, and Mario Duplantier's dual 22\"x18\" Tama Starclassic Bubinga kicks deliver similar reserve mass, while Brann Dailor and Igor Cavalera get comparable weight from a single oversized 24\" kick paired with a double pedal."
       }
     ],
 
     // Conclusion
     conclusion: {
       title: "Build the Oversized, Sustained Low End Doom Demands",
-      content: `Doom metal's bass drum requirements run opposite to almost everything else in extreme metal — instead of surviving blast beats, a doom kick needs to sustain real tonnage through slow, riff-locked repetition. Danny Carey's dual 22\"/24\" DW Collector's Series and Brann Dailor's 24\"x18\" Gretsch Signature both prove that oversized, resonant shells are the genre's proven foundation, while Mario Duplantier's dual 22\"x18\" Tama Starclassic Bubinga kicks show how standard-sized shells in pairs can extend low-end mass just as far.
+      content: `Doom metal's bass drum requirements run opposite to almost everything else in extreme metal — instead of surviving blast beats, a doom kick needs to sustain real tonnage through slow, riff-locked repetition. Danny Carey's dual 22\"/24\" Sonor Custom and Brann Dailor's 24\"x18\" Gretsch Signature both prove that oversized, resonant shells are the genre's proven foundation, while Mario Duplantier's dual 22\"x18\" Tama Starclassic Bubinga kicks show how standard-sized shells in pairs can extend low-end mass just as far.
 
 If you're building toward doom's tonnage-first low end, Igor Cavalera's 24\"x18\" Pearl Reference proves a more accessible shell can still deliver the tribal, down-tuned weight the genre demands.
 
@@ -63521,7 +63521,7 @@ Budget shouldn't stop you either. A Pearl Export or Tama Imperialstar snare will
     // SEO metadata
     title: "Best Drum Kits for Doom Metal: 2026 Ultimate Guide",
     metaTitle: "Best Drum Kits for Doom Metal 2026 | MetalForge Expert Guide",
-    description: "Best drum kits for doom metal drumming: what Brann Dailor (Gretsch Signature), Mario Duplantier (Tama Starclassic Bubinga), Danny Carey (DW Collector's Series), and Igor Cavalera (Pearl Reference) actually play. Deep, resonant shells built for doom's slow, crushing tempos — ranked budget to pro.",
+    description: "Best drum kits for doom metal drumming: what Brann Dailor (Gretsch Signature), Mario Duplantier (Tama Starclassic Bubinga), Danny Carey (Sonor Custom), and Igor Cavalera (Pearl Reference) actually play. Deep, resonant shells built for doom's slow, crushing tempos — ranked budget to pro.",
     seoKeywords: [
       'best drum kits for doom metal',
       'doom metal drum kit',
@@ -63558,13 +63558,13 @@ Budget shouldn't stop you either. A Pearl Export or Tama Imperialstar snare will
       title: "What Drum Kit Should I Use for Doom Metal?",
       content: `Doom metal asks a drum kit to do the opposite of almost everything extreme metal usually rewards. Instead of surviving blast beats and rapid double bass, doom locks into riffs at half or a quarter the tempo most metal subgenres demand, letting every hit ring out with maximum tonnage before the next one lands. That changes the gear brief entirely: rather than a dry, choked kit built for endurance at 200+ BPM, doom rewards deep, resonant shells and large-format toms that can carry real weight through slow, riff-locked repetition.
 
-Bill Ward, who invented doom metal's tempo-and-tonnage template with Black Sabbath, doesn't currently have a dedicated MetalForge gear profile — so this guide draws on the closest working analogues from progressive sludge, technical death, and progressive rock lineages that share doom's foundational commitment to weight and riff-driven power. Brann Dailor's Gretsch Brann Dailor Signature kit anchors Mastodon's progressive sludge-doom catalog with a warm, musical resonance across its deep tom spread. Mario Duplantier's Tama Starclassic Bubinga kit gives Gojira's crushing, down-tuned passages their tectonic body on dual 22"x18" kicks. Danny Carey's fully custom DW Collector's Series kit — one of the largest touring configurations in rock, with eight toms and dual kicks — shows how deliberate deceleration itself can become doom's defining atmospheric device. Igor Cavalera's Pearl Reference kit carries the tribal, down-tuned heaviness that parallels doom's own tonnage-first philosophy.
+Bill Ward, who invented doom metal's tempo-and-tonnage template with Black Sabbath, doesn't currently have a dedicated MetalForge gear profile — so this guide draws on the closest working analogues from progressive sludge, technical death, and progressive rock lineages that share doom's foundational commitment to weight and riff-driven power. Brann Dailor's Gretsch Brann Dailor Signature kit anchors Mastodon's progressive sludge-doom catalog with a warm, musical resonance across its deep tom spread. Mario Duplantier's Tama Starclassic Bubinga kit gives Gojira's crushing, down-tuned passages their tectonic body on dual 22"x18" kicks. Danny Carey's Sonor Custom kit — one of the largest touring configurations in rock, with eight toms and dual kicks — shows how deliberate deceleration itself can become doom's defining atmospheric device. Igor Cavalera's Pearl Reference kit carries the tribal, down-tuned heaviness that parallels doom's own tonnage-first philosophy.
 
 This guide breaks down maple, custom hybrid, and large-format kit configurations for doom metal — comparing shell depth, tom spread, and tuning approach across four drummers whose lineages run closest to doom's crushing rhythmic foundation, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
         "Brann Dailor's Gretsch Signature kit anchors Mastodon's progressive sludge-doom catalog with warm, musical resonance",
         "Mario Duplantier's Tama Starclassic Bubinga kit on dual 22\"x18\" kicks delivers the tectonic body Gojira's crushing riffs demand",
-        "Danny Carey's 8-tom, dual-kick DW Collector's Series kit shows how deliberate deceleration itself can become doom's defining atmospheric device",
+        "Danny Carey's 8-tom, dual-kick Sonor Custom kit shows how deliberate deceleration itself can become doom's defining atmospheric device",
         "Deep, large-format toms and reinforced hardware matter more than raw speed hardware in doom-adjacent kit configurations"
       ]
     },
@@ -63699,15 +63699,15 @@ Bubinga is roughly 53% harder than maple, and 100% bubinga shells push that low-
         },
         {
           rank: 3,
-          name: "DW Collector's Series Custom",
-          brand: "DW",
-          model: "Collector's Series Custom",
+          name: "Sonor Custom",
+          brand: "Sonor",
+          model: "Custom",
           image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Drums_01.jpg",
           priceRange: "€6000-9500 (custom shell pack)",
           tier: "premium",
           material: "Custom Maple",
 
-          description: `Danny Carey's Fear Inoculum-era rig is a fully custom DW Collector's Series kit — custom maple shells across dual 22"/24" kicks and eight toms (8"/10"/12"/13"/14"/16"/18"/20"), one of the largest touring configurations in rock. That scale lets him shift tonal color across Tool's long, slowly evolving compositions, where deceleration itself becomes the emotional device — the same patient philosophy that defines doom metal.
+          description: `Danny Carey's Fear Inoculum-era rig is a fully custom Sonor Custom kit — custom maple shells across dual 22"/24" kicks and eight toms (8"/10"/12"/13"/14"/16"/18"/20"), one of the largest touring configurations in rock. That scale lets him shift tonal color across Tool's long, slowly evolving compositions, where deceleration itself becomes the emotional device — the same patient philosophy that defines doom metal.
 
 The massive tom spread is driven by a custom hardware cage built to hold the configuration stable on tour, paired with a dual-snare setup and Tama Iron Cobra pedals for consistent response across such an enormous rig.`,
 
@@ -63725,17 +63725,17 @@ The massive tom spread is driven by a custom hardware cage built to hold the con
           ],
           specs: {
             shell: "Custom Maple",
-            mount: "DW STM",
+            mount: "Sonor TMS",
             finish: "Custom lacquer",
             kickSize: "22\" / 24\" (dual)",
             tomSizes: "8\", 10\", 12\", 13\", 14\", 16\", 18\", 20\""
           },
           usedBy: [
-            { name: "Danny Carey", band: "Tool", note: "DW Collector's Series Custom — patient, atmospheric doom-adjacent weight" }
+            { name: "Danny Carey", band: "Tool", note: "Sonor Custom — patient, atmospheric doom-adjacent weight" }
           ],
           verdict: "Best for atmospheric, slow-building doom-adjacent material. Carey's massive custom kit adds tonal contrast to patient compositions.",
           rating: 4.5,
-          affiliateLink: "https://www.thomann.de/intl/dw_collectors_series_custom_kit.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/sonor_custom_kit.htm?partner_id=metalforge"
         },
         {
           rank: 4,
@@ -63831,12 +63831,12 @@ For doom-adjacent drummers whose material blends traditional doom weight with mo
 - Dual 22"x18" kicks add low-end power for down-tuned passages without a double pedal
 - Best for technical, crushing doom-death hybrids
 
-**Large-Format Custom (Danny Carey - DW):**
+**Large-Format Custom (Danny Carey - Sonor):**
 - Eight-tom, dual-kick configuration for maximum tonal contrast
 - Suited to long, slowly evolving, dynamically varied compositions
 - Best for atmospheric, patient doom-adjacent progressive material
 
-**Our Recommendation:** Start with a signature-style 5-piece kit (Gretsch Signature or budget Pearl Export) if your material leans toward straightforward, crushing doom weight. Choose a custom dual-kick setup (Tama Starclassic Bubinga) if you need maximum low-end power for technical doom-death material. Consider a large-format custom rig (DW Collector's Series) only if your compositions demand tonal contrast across long, patient arrangements.`,
+**Our Recommendation:** Start with a signature-style 5-piece kit (Gretsch Signature or budget Pearl Export) if your material leans toward straightforward, crushing doom weight. Choose a custom dual-kick setup (Tama Starclassic Bubinga) if you need maximum low-end power for technical doom-death material. Consider a large-format custom rig (Sonor Custom) only if your compositions demand tonal contrast across long, patient arrangements.`,
       comparisonTable: [
         { feature: "Low-End Weight", signature: "⭐⭐⭐⭐", custom: "⭐⭐⭐⭐⭐", largeFormat: "⭐⭐⭐⭐⭐" },
         { feature: "Tonal Flexibility", signature: "⭐⭐⭐", custom: "⭐⭐⭐⭐", largeFormat: "⭐⭐⭐⭐⭐" },
@@ -63861,7 +63861,7 @@ For doom-adjacent drummers whose material blends traditional doom weight with mo
         },
         {
           category: "Best for Atmospheric Material",
-          pedal: "DW Collector's Series Custom",
+          pedal: "Sonor Custom",
           reason: "Danny Carey's massive Tool setup. Tonal contrast for long, patient, slowly-evolving compositions."
         },
         {
@@ -63881,7 +63881,7 @@ For doom-adjacent drummers whose material blends traditional doom weight with mo
     relatedDrummers: [
       { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Gretsch Signature kit — Mastodon progressive sludge-doom warmth' },
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Dual 22"x18" Tama Starclassic Bubinga — Gojira crushing, tectonic weight' },
-      { slug: 'danny-carey', name: 'Danny Carey', reason: 'DW Collector\'s Series Custom — Tool atmospheric patience' },
+      { slug: 'danny-carey', name: 'Danny Carey', reason: 'Sonor Custom — Tool atmospheric patience' },
       { slug: 'igor-cavalera', name: 'Igor Cavalera', reason: 'Pearl Reference — Sepultura tribal, down-tuned heaviness' }
     ],
 
@@ -63889,7 +63889,7 @@ For doom-adjacent drummers whose material blends traditional doom weight with mo
     featuredDrummers: [
       { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Gretsch Signature kit — Mastodon progressive sludge-doom warmth' },
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Dual 22"x18" Tama Starclassic Bubinga — Gojira crushing, tectonic weight' },
-      { slug: 'danny-carey', name: 'Danny Carey', reason: 'DW Collector\'s Series Custom — Tool atmospheric patience' },
+      { slug: 'danny-carey', name: 'Danny Carey', reason: 'Sonor Custom — Tool atmospheric patience' },
       { slug: 'igor-cavalera', name: 'Igor Cavalera', reason: 'Pearl Reference — Sepultura tribal, down-tuned heaviness' }
     ],
 
@@ -63905,7 +63905,7 @@ For doom-adjacent drummers whose material blends traditional doom weight with mo
       },
       {
         question: "Do doom metal drummers need a large tom spread?",
-        answer: "Not necessarily. Brann Dailor's 5-piece Gretsch Signature kit proves a compact configuration can carry doom's full weight. Danny Carey's 8-tom DW Collector's Series setup is the exception, built specifically for Tool's long, dynamically varied compositions rather than doom metal's more straightforward riff-locked structure."
+        answer: "Not necessarily. Brann Dailor's 5-piece Gretsch Signature kit proves a compact configuration can carry doom's full weight. Danny Carey's 8-tom Sonor Custom setup is the exception, built specifically for Tool's long, dynamically varied compositions rather than doom metal's more straightforward riff-locked structure."
       },
       {
         question: "Single or dual kick — which is better for doom metal?",
@@ -63920,7 +63920,7 @@ For doom-adjacent drummers whose material blends traditional doom weight with mo
     // Conclusion
     conclusion: {
       title: "Build Your Doom Metal Arsenal",
-      content: `Doom metal drum kit choice comes down to how much weight and resonance your riffs demand. Brann Dailor's warm Gretsch Signature kit defined the closest working analogue to doom's founding tonnage-first template. Mario Duplantier's dual-kick Tama Starclassic Bubinga kit proved that technical, down-tuned crushing weight can carry the same philosophy into progressive death metal. Danny Carey's massive DW Collector's Series rig shows how tonal contrast can serve doom-adjacent material's most patient, atmospheric compositions, while Igor Cavalera's Pearl Reference kit carries the same tonnage-first restraint into tribal groove metal.
+      content: `Doom metal drum kit choice comes down to how much weight and resonance your riffs demand. Brann Dailor's warm Gretsch Signature kit defined the closest working analogue to doom's founding tonnage-first template. Mario Duplantier's dual-kick Tama Starclassic Bubinga kit proved that technical, down-tuned crushing weight can carry the same philosophy into progressive death metal. Danny Carey's massive Sonor Custom rig shows how tonal contrast can serve doom-adjacent material's most patient, atmospheric compositions, while Igor Cavalera's Pearl Reference kit carries the same tonnage-first restraint into tribal groove metal.
 
 None of these approaches is more "correct" — all four represent doom metal's foundational commitment to weight and riff-driven power in the absence of dedicated doom metal drummer profiles in MetalForge's database. Start with whichever configuration matches your riff style, and don't be afraid to let your toms ring out longer than extreme metal convention would suggest.
 

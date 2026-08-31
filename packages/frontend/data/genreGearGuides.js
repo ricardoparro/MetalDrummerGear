@@ -9972,7 +9972,7 @@ Your cymbal setup should serve the music — and in prog metal, the music is end
     // SEO metadata
     title: "Best Drum Kits for Djent: 2026 Expert Guide",
     metaTitle: "Best Drum Kits for Djent 2026 | MetalForge Expert Guide",
-    description: "Best drum kits for djent: what Tomas Haake (Meshuggah), Matt Halpern (Periphery), and Blake Richardson use. TAMA vs Pearl vs Sonor — ranked recommendations from budget to pro.",
+    description: "Best drum kits for djent: what Tomas Haake (Meshuggah), Matt Halpern (Periphery), and Blake Richardson use. Sonor vs Pearl vs TAMA — ranked recommendations from budget to pro.",
     seoKeywords: [
       'best drum kits for djent',
       'djent drum kit',
@@ -9981,7 +9981,7 @@ Your cymbal setup should serve the music — and in prog metal, the music is end
       'blake richardson drum kit',
       'meshuggah drummer kit',
       'periphery drummer kit',
-      'tama starclassic djent',
+      'sonor sq2 djent',
       'pearl reference djent',
       'djent drums',
       'best drums for djent'
@@ -9999,7 +9999,7 @@ Your cymbal setup should serve the music — and in prog metal, the music is end
       subtitle: "What Haake, Halpern and Richardson Actually Play",
       badge: "GEAR GUIDE 2026",
       stats: [
-        { value: '5', label: 'Kits Reviewed' },
+        { value: '4', label: 'Kits Reviewed' },
         { value: '7 min', label: 'Read Time' },
         { value: '2026', label: 'Updated' }
       ]
@@ -10010,12 +10010,12 @@ Your cymbal setup should serve the music — and in prog metal, the music is end
       title: "Why Djent Makes Unique Demands on Your Drum Kit",
       content: `Djent is the most exacting genre for drum kit selection. The genre's signature sound — tight, controlled, percussive attack anchoring complex polyrhythmic patterns — demands kits with exceptional consistency, projection, and tonal clarity. Unlike thrash (pure aggression) or death metal (pure speed), djent requires precision engineering in both the drum kit and the player.
 
-Tomas Haake of Meshuggah is djent's founding drummer — his polyrhythmic mastery and relentless consistency have redefined what metal drumming can be. Haake has used TAMA kits throughout Meshuggah's career, with the TAMA Starclassic Walnut/Birch becoming his primary professional setup. Matt Halpern of Periphery brings jazz-school precision to djent-influenced prog, using Pearl kits selected for their sensitivity and response. Blake Richardson of BTBAM adds prog metal complexity to the djent conversation, with a kit configured for maximum expressive range.
+Tomas Haake of Meshuggah is djent's founding drummer — his polyrhythmic mastery and relentless consistency have redefined what metal drumming can be. Haake has played Sonor SQ2 Series drums since 2005, with a custom Heavy Beech configuration becoming his primary professional setup. Matt Halpern of Periphery brings jazz-school precision to djent-influenced prog, using Pearl kits selected for their sensitivity and response. Blake Richardson of BTBAM adds prog metal complexity to the djent conversation, with a kit configured for maximum expressive range.
 
 This guide breaks down which kits deliver the control, consistency, and tonal character that djent demands, ranked from budget to professional level.`,
       keyPoints: [
         "Djent demands extreme consistency — heads, tuning, and shell construction all matter more than in most metal",
-        "Tomas Haake's TAMA Starclassic is the genre's defining drum kit",
+        "Tomas Haake's Sonor SQ2 Series is the genre's defining drum kit",
         "Dampening and head selection is as important as the shell in djent tone",
         "Electronic hybrid setups are increasingly common in djent for triggers and samples"
       ]
@@ -10028,7 +10028,7 @@ This guide breaks down which kits deliver the control, consistency, and tonal ch
         {
           name: "Shell Material and Consistency",
           icon: "⚙️",
-          description: "Djent's polyrhythmic patterns require every hit to be consistent and predictable. Kits with high-quality shell construction maintain consistent tone session to session and stand up to the sustained, metronomic playing djent demands. Birch/walnut hybrids (like Haake's TAMA) provide a focused, controlled sound that works well under heavy processing.",
+          description: "Djent's polyrhythmic patterns require every hit to be consistent and predictable. Kits with high-quality shell construction maintain consistent tone session to session and stand up to the sustained, metronomic playing djent demands. Heavy beech shells (like Haake's Sonor SQ2) provide a focused, controlled sound that works well under heavy processing.",
           recommendation: "Birch, maple, or birch/walnut hybrid for controlled, consistent tone under recording and live processing"
         },
         {
@@ -10070,43 +10070,43 @@ This guide breaks down which kits deliver the control, consistency, and tonal ch
       pedals: [
         {
           rank: 1,
-          name: "TAMA Starclassic Walnut/Birch",
-          brand: "TAMA",
-          model: "Starclassic Walnut/Birch",
+          name: "Sonor SQ2 Heavy Beech",
+          brand: "Sonor",
+          model: "SQ2 Series",
           image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Drums_01.jpg",
-          priceRange: "€2,500-4,000 (shell pack)",
+          priceRange: "€3,000-6,000 (shell pack, custom)",
           tier: "pro",
-          material: "Walnut/Birch Hybrid",
+          material: "Heavy Beech (custom configuration)",
 
-          description: `The TAMA Starclassic Walnut/Birch is the definitive djent drum kit — it is the primary setup for Tomas Haake, Meshuggah's drummer and the acknowledged architect of modern djent drumming. The walnut/birch hybrid shell construction combines walnut's warm, complex low-end with birch's focused attack and projection, producing a controlled yet full-bodied tone that sits perfectly under djent's heavily processed guitar layers.
+          description: `The Sonor SQ2 Heavy Beech is the definitive djent drum kit — it is the primary setup for Tomas Haake, Meshuggah's drummer and the acknowledged architect of modern djent drumming, who has played Sonor SQ2 since 2005. The custom-configured heavy beech shells, built around dual 24"x18" bass drums, deliver a deep, resonant low end with the controlled, focused attack that sits perfectly under djent's heavily processed guitar layers.
 
-Haake's choice of the Starclassic over the standard birch-only variant reflects djent's need for both focused attack (birch) and tonal complexity (walnut). The Star-Cast mounting system minimizes shell dampening, and TAMA's hardware precision matches the genre's demands for consistency across thousands of repetitive polyrhythmic patterns. If you play djent and can afford one professional kit, this is the starting point.`,
+Haake's SQ2 is built to his own specification — the adjustable bearing edge system and individually-selected heavy beech shells give it a level of tonal precision unmatched by standard production kits. Sonor's build quality and hardware engineering match the genre's demands for consistency across thousands of repetitive polyrhythmic patterns. If you play djent and can afford one professional kit, this is the starting point.`,
 
           pros: [
-            "Tomas Haake's primary Meshuggah kit — djent's founding drummer",
-            "Walnut/birch hybrid: controlled attack with tonal complexity",
-            "Star-Cast mounting for maximum resonance and consistency",
-            "TAMA hardware precision matches djent's metronome demands",
+            "Tomas Haake's primary Meshuggah kit since 2005 — djent's founding drummer",
+            "Heavy beech shells: deep low end with controlled, focused attack",
+            "Fully configurable shell material and bearing edge for tonal customization",
+            "Sonor hardware precision matches djent's metronome demands",
             "Excellent for both live and recording applications"
           ],
           cons: [
             "Premium price — significant investment",
-            "Walnut adds weight over birch-only Starclassic",
-            "Custom configurations increase lead time"
+            "Long lead time for custom builds",
+            "Less brand recognition in djent community than TAMA or Pearl"
           ],
           specs: {
-            shell: "Walnut/Birch Hybrid",
-            mount: "Star-Cast Mounting System",
-            finish: "Multiple finishes available",
-            kickSize: "22\" x 16\" standard",
-            tomSizes: "10\", 12\", 16\" standard"
+            shell: "Heavy Beech (custom)",
+            mount: "RIMS-style free-floating",
+            finish: "Custom lacquer or wrap",
+            kickSize: "Dual 24\" x 18\" (Haake spec) or 22\" x 16\" standard",
+            tomSizes: "Custom to specification"
           },
           usedBy: [
-            { name: "Tomas Haake", band: "Meshuggah", note: "Primary djent kit — the founding drummer's instrument of choice" }
+            { name: "Tomas Haake", band: "Meshuggah", note: "Primary djent kit since 2005 — the founding drummer's instrument of choice" }
           ],
-          verdict: "The definitive djent drum kit. Tomas Haake's TAMA — if you play Meshuggah-style djent, this is the benchmark.",
+          verdict: "The definitive djent drum kit. Tomas Haake's Sonor SQ2 — if you play Meshuggah-style djent, this is the benchmark.",
           rating: 4.9,
-          affiliateLink: "https://www.thomann.de/intl/tama_starclassic_walnut_birch.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/sonor_sq2_series.htm?partner_id=metalforge"
         },
         {
           rank: 2,
@@ -10130,7 +10130,7 @@ Halpern's jazz-school background translates directly to how he uses the Referenc
             "Best djent kit for musical, expressive playing"
           ],
           cons: [
-            "Premium pricing comparable to TAMA Starclassic",
+            "Premium pricing comparable to Sonor SQ2 Heavy Beech",
             "Maple's warmer tone may need more processing for tight djent mix",
             "Sensitivity means any tuning imprecision is immediately audible"
           ],
@@ -10150,46 +10150,6 @@ Halpern's jazz-school background translates directly to how he uses the Referenc
         },
         {
           rank: 3,
-          name: "Sonor SQ2",
-          brand: "Sonor",
-          model: "SQ2 Series",
-          image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Drums_01.jpg",
-          priceRange: "€3,000-6,000 (shell pack, custom)",
-          tier: "premium",
-          material: "Custom wood selection (Maple, Beech, or Birch)",
-
-          description: `The Sonor SQ2 represents the premium custom-configured option for discerning djent drummers. Each SQ2 kit is built to specification with the buyer's choice of shell material, depth, and bearing edge — allowing precise configuration for djent's specific tonal requirements.
-
-The SQ2's adjustable bearing edge system (which can be reconfigured even after purchase) and individually-selected shells give it a level of tonal precision unmatched by standard production kits. For djent drummers who record seriously and need exact control over their kit's tonal character, the SQ2's customizability pays dividends. The build quality is exceptional, and the hardware engineering is second to none.`,
-
-          pros: [
-            "Fully configurable shell material and depth — build for djent specifically",
-            "Adjustable bearing edge for tonal customization",
-            "Exceptional build quality and hardware",
-            "Individual shell selection for consistent tone across the kit",
-            "Best recording kit in the djent price range"
-          ],
-          cons: [
-            "Significantly more expensive than TAMA or Pearl options",
-            "Long lead time for custom builds",
-            "Less brand recognition in djent community vs TAMA/Pearl"
-          ],
-          specs: {
-            shell: "Custom (Maple, Beech, or Birch)",
-            mount: "RIMS-style free-floating",
-            finish: "Custom lacquer or wrap",
-            kickSize: "Custom to specification",
-            tomSizes: "Custom to specification"
-          },
-          usedBy: [
-            { name: "Advanced djent drummers seeking precision configuration", band: "Various", note: "Premium custom kit option for serious recording applications" }
-          ],
-          verdict: "Premium custom choice. Build the perfect djent kit to your exact specification — uncompromising quality for serious players.",
-          rating: 4.7,
-          affiliateLink: "https://www.thomann.de/intl/sonor_sq2_series.htm?partner_id=metalforge"
-        },
-        {
-          rank: 4,
           name: "TAMA Superstar Classic",
           brand: "TAMA",
           model: "Superstar Classic Series",
@@ -10224,12 +10184,12 @@ For djent drummers who can't yet justify the Starclassic investment, the Superst
           usedBy: [
             { name: "Developing djent drummers", band: "Various", note: "TAMA quality at mid-range prices — the stepping stone to Starclassic" }
           ],
-          verdict: "Best mid-range djent kit. Real TAMA quality on the path toward Haake's Starclassic setup.",
+          verdict: "Best mid-range djent kit. Real TAMA quality for developing djent technique at accessible pricing.",
           rating: 4.5,
           affiliateLink: "https://www.thomann.de/intl/tama_superstar_classic.htm?partner_id=metalforge"
         },
         {
-          rank: 5,
+          rank: 4,
           name: "DW Design Series",
           brand: "DW",
           model: "Design Series",
@@ -10307,15 +10267,15 @@ For djent drummers who value DW's hardware precision and brand reputation but ca
       ]
     },
 
-    // TAMA vs Pearl comparison for djent
+    // Sonor vs Pearl comparison for djent
     comparison: {
-      title: "TAMA Starclassic vs Pearl Reference Pure for Djent",
-      content: `The central djent kit decision: TAMA Starclassic Walnut/Birch (Tomas Haake) or Pearl Reference Pure (Matt Halpern)? Both are outstanding — the choice comes down to your djent approach:
+      title: "Sonor SQ2 vs Pearl Reference Pure for Djent",
+      content: `The central djent kit decision: Sonor SQ2 Heavy Beech (Tomas Haake) or Pearl Reference Pure (Matt Halpern)? Both are outstanding — the choice comes down to your djent approach:
 
-**TAMA Starclassic Walnut/Birch (Haake's choice):**
-- Walnut/birch hybrid: focused attack with tonal complexity
+**Sonor SQ2 Heavy Beech (Haake's choice):**
+- Heavy beech shells: deep low end with controlled, focused attack
 - Tight, controlled sound — excellent under heavy production processing
-- TAMA's hardware precision for sustained polyrhythmic patterns
+- Sonor's custom bearing edge and hardware precision for sustained polyrhythmic patterns
 - Best for: Classic djent, Meshuggah-influenced playing, tight rhythmic precision
 
 **Pearl Reference Pure (Halpern's choice):**
@@ -10324,15 +10284,15 @@ For djent drummers who value DW's hardware precision and brand reputation but ca
 - More versatile across musical contexts — suits prog-adjacent djent
 - Best for: Djent/prog hybrid, musical djent with dynamic expression
 
-**The Truth:** Both are excellent at the highest level. TAMA is more appropriate for traditional Meshuggah-style djent. Pearl Reference Pure is better for the djent/prog crossover that Periphery represents. Neither is wrong.
+**The Truth:** Both are excellent at the highest level. Sonor SQ2 is more appropriate for traditional Meshuggah-style djent. Pearl Reference Pure is better for the djent/prog crossover that Periphery represents. Neither is wrong.
 
-**Our Recommendation:** Meshuggah-influenced djent → TAMA Starclassic Walnut/Birch. Periphery-influenced djent → Pearl Reference Pure.`,
+**Our Recommendation:** Meshuggah-influenced djent → Sonor SQ2 Heavy Beech. Periphery-influenced djent → Pearl Reference Pure.`,
       comparisonTable: [
-        { feature: "Tight Control", tama: "⭐⭐⭐⭐⭐", pearl: "⭐⭐⭐⭐" },
-        { feature: "Sensitivity/Dynamics", tama: "⭐⭐⭐⭐", pearl: "⭐⭐⭐⭐⭐" },
-        { feature: "Djent Tradition", tama: "⭐⭐⭐⭐⭐", pearl: "⭐⭐⭐⭐" },
-        { feature: "Prog Versatility", tama: "⭐⭐⭐⭐", pearl: "⭐⭐⭐⭐⭐" },
-        { feature: "Price (entry)", tama: "€2500+", pearl: "€2500+" }
+        { feature: "Tight Control", sonor: "⭐⭐⭐⭐⭐", pearl: "⭐⭐⭐⭐" },
+        { feature: "Sensitivity/Dynamics", sonor: "⭐⭐⭐⭐", pearl: "⭐⭐⭐⭐⭐" },
+        { feature: "Djent Tradition", sonor: "⭐⭐⭐⭐⭐", pearl: "⭐⭐⭐⭐" },
+        { feature: "Prog Versatility", sonor: "⭐⭐⭐⭐", pearl: "⭐⭐⭐⭐⭐" },
+        { feature: "Price (entry)", sonor: "€3000+", pearl: "€2500+" }
       ]
     },
 
@@ -10342,8 +10302,8 @@ For djent drummers who value DW's hardware precision and brand reputation but ca
       picks: [
         {
           category: "Best Overall",
-          pedal: "TAMA Starclassic Walnut/Birch",
-          reason: "Tomas Haake's Meshuggah kit. Walnut/birch hybrid tone and TAMA precision define djent drumming."
+          pedal: "Sonor SQ2 Heavy Beech",
+          reason: "Tomas Haake's Meshuggah kit since 2005. Heavy beech tone and Sonor precision define djent drumming."
         },
         {
           category: "Best for Djent/Prog",
@@ -10351,9 +10311,9 @@ For djent drummers who value DW's hardware precision and brand reputation but ca
           reason: "Matt Halpern's Periphery setup. Sensitivity and dynamic range for musical djent-influenced prog."
         },
         {
-          category: "Best Premium Custom",
-          pedal: "Sonor SQ2",
-          reason: "Fully configurable for djent's specific needs. Custom bearing edges and shell selection for precision."
+          category: "Best Mid-Range",
+          pedal: "TAMA Superstar Classic",
+          reason: "Genuine TAMA quality and maple-walnut character at accessible pricing for developing djent technique."
         },
         {
           category: "Best Budget",
@@ -10370,14 +10330,14 @@ For djent drummers who value DW's hardware precision and brand reputation but ca
       'best-snare-drums-for-metal'
     ],
     relatedDrummers: [
-      { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'TAMA Starclassic — the founding djent drummer\'s instrument' },
+      { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Sonor SQ2 Heavy Beech — the founding djent drummer\'s instrument since 2005' },
       { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Pearl Reference Pure — Periphery djent/prog precision' },
       { slug: 'blake-richardson', name: 'Blake Richardson', reason: 'BTBAM djent/prog — expressive kit for complex music' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
-      { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'TAMA Starclassic Walnut/Birch — djent\'s founding kit' },
+      { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Sonor SQ2 Heavy Beech — djent\'s founding kit since 2005' },
       { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Pearl Reference Pure — djent/prog musical precision' },
       { slug: 'blake-richardson', name: 'Blake Richardson', reason: 'BTBAM kit — prog metal djent expressiveness' }
     ],
@@ -10386,7 +10346,7 @@ For djent drummers who value DW's hardware precision and brand reputation but ca
     faq: [
       {
         question: "What drum kit does Tomas Haake use?",
-        answer: "Tomas Haake of Meshuggah uses TAMA Starclassic Walnut/Birch drums as his primary setup. The walnut/birch hybrid shell construction combines walnut's warm, complex low-end with birch's focused attack — delivering the controlled, precise tone that Meshuggah's polyrhythmic djent demands. Haake also uses TAMA hardware and Pearl Free-Floating snare drums."
+        answer: "Tomas Haake of Meshuggah has played Sonor SQ2 Series drums since 2005, in a custom Heavy Beech configuration as his primary setup. The heavy beech shells deliver a deep, resonant low end with the controlled, precise attack that Meshuggah's polyrhythmic djent demands. Haake also uses Sabian HHX & AAX cymbals."
       },
       {
         question: "What drum kit does Matt Halpern use?",
@@ -10394,7 +10354,7 @@ For djent drummers who value DW's hardware precision and brand reputation but ca
       },
       {
         question: "What is the best drum kit for djent?",
-        answer: "The TAMA Starclassic Walnut/Birch is the benchmark djent drum kit — Tomas Haake of Meshuggah uses it, and it defines the genre's drumming standard. The walnut/birch hybrid construction delivers controlled, focused attack that sits well under djent's heavily processed guitar layers. For djent/prog crossover styles, the Pearl Reference Pure (Matt Halpern's setup) provides superior dynamic sensitivity."
+        answer: "The Sonor SQ2 Heavy Beech is the benchmark djent drum kit — Tomas Haake of Meshuggah has played it since 2005, and it defines the genre's drumming standard. The heavy beech shell construction delivers a deep, controlled, focused attack that sits well under djent's heavily processed guitar layers. For djent/prog crossover styles, the Pearl Reference Pure (Matt Halpern's setup) provides superior dynamic sensitivity."
       },
       {
         question: "Do I need triggers for djent drumming?",
@@ -10413,9 +10373,9 @@ For djent drummers who value DW's hardware precision and brand reputation but ca
     // Conclusion
     conclusion: {
       title: "Build Your Djent Machine",
-      content: `Djent rewards drum kit investment more than almost any other metal subgenre because the genre's precision and production standards make every tonal and consistency detail audible. Tomas Haake didn't choose the TAMA Starclassic Walnut/Birch by accident — the kit's tonal character is integral to how Meshuggah sounds.
+      content: `Djent rewards drum kit investment more than almost any other metal subgenre because the genre's precision and production standards make every tonal and consistency detail audible. Tomas Haake didn't choose the Sonor SQ2 Heavy Beech by accident — the kit's tonal character is integral to how Meshuggah sounds.
 
-That said, your technique matters more than your kit. Haake's polyrhythmic mastery started on far more modest equipment. Build your technique on whatever kit you can afford — TAMA Imperialstar, Pearl Export, or anything in between. Upgrade toward the Starclassic or Reference Pure when your playing genuinely demands more from your instrument.
+That said, your technique matters more than your kit. Haake's polyrhythmic mastery started on far more modest equipment. Build your technique on whatever kit you can afford — TAMA Imperialstar, Pearl Export, or anything in between. Upgrade toward the Sonor SQ2 or Reference Pure when your playing genuinely demands more from your instrument.
 
 One critical investment regardless of kit level: head selection and tuning. Evans EC2 heads and careful tuning will transform any budget kit into something that records and sounds professional. Spend on heads before spending on a new kit.
 

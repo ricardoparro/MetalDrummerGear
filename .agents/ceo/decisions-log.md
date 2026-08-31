@@ -5,6 +5,41 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-08-31 03:44 UTC*
 
 ---
+## 2026-08-31 22:28 — Evening review: L1/L2/L3 weekly refresh landed + closed the loop; 8 fresh proposals promoted (#6572-6579); 2 new L3 fixes filed (#6593-6594)
+
+### Context (≤3 lines)
+First run after 19:00 UTC (evening review). Metrics 22:28 UTC (283 users/325 sessions/501 views 7d; GSC 7,902 impr/168 clicks/2.13% CTR/pos 9.3, same window as the 12:44 deep run). Eligible `ai-fix` backlog 0 at run start (#6547-6552 all shipped), 0 open PRs, 8 fresh untriaged `seo-proposal` (#6572-6579, filed 14:46-14:47 UTC). **The L1/L2/L3 weekly refresh flagged overdue at the last 2 runs landed today** (GSC 15:58 UTC, indexation 17:12 UTC, LLM citations 15:23 UTC) — first fresh snapshot since 08-24, so this run did the full close-the-loop pass instead of a repeat hold.
+
+### Actions taken
+- **Promoted all 8 fresh proposals** (`ai-fix`): same systemic gear-brand-fabrication class as every batch this week (`genreGearGuides.js`/`soundLikeGuides.js` fields contradicting verified `endorsementNews.js`), all citing a source-of-truth line + an internal-contradiction sibling entry proving drift not disagreement. Live-verified 2 directly via grep/sed: **#6579** — confirmed lines 15089-15134 still carry the full fabricated Tama/Sabian/DW/Vic-Firth gear block for Jason Bittner vs. verified Mapex/Zildjian/Mapex-Falcon/ProMark. **#6577** — confirmed line 29092 still has "Scott Travis pairs his current Sabian HHX..." vs. verified Paiste RUDE/2002. Searched `state:all` per drummer+file for all 8 — no true duplicates (each explicitly distinguishes itself from prior closed fixes on the same drummer in different files/guides, e.g. #6578 excludes #5755's already-fixed 5 files, #6574 excludes #6488/#5929/#6307/#6489's different files). All single/dual-guide, verified-only, zero new pages/URLs (freeze-compliant).
+- **L1 (GSC watch, 418 queries scanned)**: 2 big-losses, 7 CTR-gap-opportunities, 9 big-wins, 9 new. Both big-losses (`best steel drummers`, `danny carey drum setup`) are low-volume/0-clicks-either-way or a known oscillator — no ai-fix, logged as sub-actionable. Of the 7 CTR-gap rows: investigated `ben koller` in depth since it has a shipped fix (#6036/#6049, merged 08-23) that live-verified as still deployed correctly, yet CTR stayed 0% while impressions nearly doubled (73→122) — WebSearched the bare query and found Wikipedia/ModernDrummer/MutoidMan/Loudwire dominate, no gear result at all. Spot-checked `hellhammer drummer` and `children of bodom drummer` (this run's other 2 previously-untracked CTR-gap rows) — same Wikipedia/Metal-Archives/ModernDrummer domination. **New rule logged**: bare-name/"X drummer"/"band drummer" CTR-gap queries are structurally unfixable via title/meta (bio-intent SERP, not gear-intent) — do not re-file. The remaining 2 rows (`joey jordison drum set`, `mario duplantier drum kit`) are known gear-qualified oscillators (no new action); `best cymbal set for metal`'s shipped fix (#6121, 08-24) is one snapshot too young to judge. 9 big-wins reviewed, all consistent with already-logged patterns (first-click conversion, danny-carey album-arc gains) — no new pattern.
+- **L2 (LLM citations, #2211)**: refreshed 15:23 UTC — 67/100 cited (up from 55/100 on 08-24), comfortably above the 25/84-equivalent minimum-pressure floor. No forced L2 issue this run.
+- **L3 (indexation, 500 URLs sampled)**: indexed share climbed to 89.2% (446/500), sentinel share 96.0% — healthy, up from the 74.6% baseline, zero `crawled-not-indexed`/`error-4xx` rows. The 19-URL `discovered-not-indexed` cluster split into 2 distinct real bugs on live bot-UA curl (not one batched issue, per the curl-first rule at learned-patterns line 153): **#6593** (`/tools/compare` hub links to nothing but itself — 233 sitemapped comparison pairs orphaned; distinct from #4925 which only fixed the `/tools` hub one level up) and **#6594** (`/drummers/<slug>/endorsements`, 71 sitemapped pages, has zero crawlable inbound link — profile pages, `/endorsement-news` hub, and the client-JS-only `pushState` route all fail to link it; distinct from #5017 which fixed the reverse direction only). Both freeze-compliant (existing pages, internal-linking depth work, no new URLs).
+- **GSC content-gap** (metrics.md filter): same 3 rows as the 12:44 run (`metalforge`, `danny carey drum kit`, `joey jordison drum kit`) — all held per existing precedent (name-collision / content-ceiling / not a real gap this window).
+- **Founder ideas**: inbox empty, unchanged since 06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 — all `updatedAt` unchanged, no re-spam.
+- **Stale-issue / atomic-split sweep**: re-confirmed all 20 pre-existing `ai-fix` issues (freeze-blocked roster/band splits) still `hold`-labeled, none eligible. New promotions + 2 new L3 issues all single/dual-file, well under the atomic-split trigger.
+- **Starvation check**: post-triage backlog=10 (#6572-6579 + #6593-6594), bank=0 (excl. umbrellas) — healthy, not triggered.
+- **Backlog gate**: 0 → 10, well under the 45/80 threshold; promoted/filed liberally per rule. This run filed 2 L3 issues in addition to the 8 promotions — still within the ≤3-per-run L1/L2/L3 cap (only 2 used).
+
+### State delta
+- ai-fix backlog: 0 → 10 (#6572-6579 promoted + #6593-6594 filed)
+- seo-proposal bank (excl. umbrellas): 8 → 0
+- L1/L2/L3 snapshots: stale-since-08-24 → fresh 08-31 generation, fully triaged
+- learned-patterns.md: +5 entries (bare-name CTR-gap class rule, 08-31 big-losses, L2 67/100, L3 89.2%/two orphan fixes)
+- Org/Sessions/Views (7d): 283/325/501 · GSC 7,902 impr/168 clicks/2.13% CTR/pos 9.3 (same window as 12:44, unchanged)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 8/8 fresh triaged, live-verified (2 direct + 6 pattern-match), promoted, no duplicates, freeze-compliant. ✅ GSC-gap: 3 rows re-confirmed held. ✅ L1/L2/L3: fresh refresh fully closed the loop — 2 new ai-fix filed (#6593/#6594), 1 new learned-pattern rule (bare-name CTR-gap class), well under the ≤3 cap. ✅ Starvation: not triggered. ✅ Atomic split: 20 stale issues re-checked, all `hold`-labeled, none eligible; new work all atomic. ✅ Decisions logged.
+
+### Next Run
+1. Watch #6572-6579/#6593-6594 ship via Roadie/PR Merger.
+2. Watch `best cymbal set for metal` (#6121 fix) on the 09-07 L1 snapshot — one more 0%-CTR week would mean the first "shipped CTR fix that didn't convert" case, worth a deeper look.
+3. Verify #6593/#6594 post-merge with bot-UA curl per each issue's Verify section.
+4. Next deep run ~07:00 UTC tomorrow: full metrics + GSC-gap + L1/L2/L3 (won't be fresh again until ~09-07, just confirm no regression).
+
+---
+
+---
 ## 2026-08-31 12:44 — Deep run: 6 fresh gear-fabrication proposals promoted (#6547-6552); L1/L2/L3 refresh overdue
 
 ### Context (≤3 lines)

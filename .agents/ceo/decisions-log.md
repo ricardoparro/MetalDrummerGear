@@ -5,6 +5,38 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-09-01 03:39 UTC*
 
 ---
+## 2026-09-01 20:35 — Evening review: 8 fresh proposals promoted (#6656-6663); 1 stale proposal closed (#6621, already-fixed)
+
+### Context (≤3 lines)
+First run after 19:00 UTC (evening review). Metrics 20:35 UTC (288 users/333 sessions/509 views 7d; GSC 7,975 impr/171 clicks/2.14% CTR/pos 9.5 — impressions/clicks up vs 16:05 but same shape, no regression). Eligible `ai-fix` backlog 1 at run start (#6620 lingering from this morning's batch — #6632-6639 all shipped since), 0 open PRs, 9 untriaged `seo-proposal` (#6621 from 06:07 + fresh #6656-6663 filed 17:22-17:24 UTC) plus the 3 standing L1/L2/L3 umbrellas.
+
+### Actions taken
+- **Closed #6621 as stale/already-fixed**: live-verified `soundLikeGuides.js:11411-11424` (`how-to-sound-like-frost`) already states Tama Starclassic Bubinga Series, matching `endorsementNews.js:1480` — no Pearl fabrication present despite the proposal's claim. File was corrected between the proposal's filing (06:07 UTC) and now, likely a side-effect of an unrelated PR. First stale-proposal catch this cycle — worth a `learned-patterns.md` note if this recurs (live-verify before promoting, not just before dedup-checking).
+- **Promoted all 8 remaining** (`ai-fix`), same systemic gear-fabrication class across `genreGearGuides.js`/`drummerComparisons.js`/`albumArticles/`: #6656 (Danny Carey snare fabricated DW Collector's in a 3rd doom-metal guide, #6573 only fixed 2 sibling guides), #6657 (Igor Cavalera drums/cymbals fabricated Tama/Paiste in 2 Cavalera Conspiracy album articles — pre-2006 Sepultura-era gear wrongly applied to 2008/2011 ddrum/Zildjian-era albums), #6658 (Chris Turner sticks fabricated Vater vs verified Vic Firth in a deathcore-sticks guide), #6659 (Chris Turner snare wood fabricated Walnut/Birch vs verified Maple/Birch, same drummer/adjacent guide to #6658, distinct field), #6660 (Art Cruz pedal fabricated DW 5000 vs verified Trick Pro 1-V across 2 metalcore guides), #6661 (John Otto cymbals/pedal/sticks fabricated Zildjian K Custom/DW 9000/Promark vs verified Zildjian A/Gibraltar in a 3rd comparison entry, #6463 only fixed drums in 2 others), #6662 (Gene Hoglan — whole-file prose sweep of `albumArticles/gene-hoglan.js`, 116 Zildjian + 29 "DW 9000" prose mentions vs verified Sabian/Pearl; prior #5969/#6256 only fixed narrow JSON gear-spec fields, never the surrounding narrative — labelled `programmatic` but single-file, zero new pages, freeze-compliant), #6663 (Alex Bent snare depth fabricated 14x6.5" vs verified 14x5" in 2 comparison entries, #6441 fixed a sibling drummer's clause in the same lines but left Bent's untouched). Live-verified 3 directly via grep/sed: **#6656** — line 65983 confirmed still "Danny Carey (DW Collector's Series)". **#6661** — line 2914 confirmed still "Zildjian K Custom... DW 9000 Series... Promark 747" for John Otto. **#6662** — `grep -c` confirmed 116 Zildjian / 29 "DW 9000" hits still present. Searched `state:all` per drummer/file for all 8 — no true duplicates, each cites and distinguishes itself from prior closed fixes in different files/fields. All single- or dual-file, verified-only, zero new pages — freeze-compliant.
+- **Backlog gate**: 1 → 8 (net, after closing #6621 and promoting 8), well under the 45/80 threshold; promoted liberally per rule.
+- **GSC content-gap**: same 3 rows as prior runs (`metalforge` 634 impr/0.47% CTR, `danny carey drum kit` 86 impr/1.16% CTR, `joey jordison drum kit` 73 impr/1.37% CTR) — all already held on documented precedent (name-collision / ceiling-hold / converting-not-dead). No new action.
+- **L1/L2/L3** (#3810/#3819/#2211): snapshot files still the 2026-08-31 generation (confirmed via file mtime + issue `updatedAt`, unchanged since this morning). Next weekly refresh due ~09-07.
+- **Founder ideas**: inbox empty, unchanged since 06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 — all `updatedAt` unchanged, no re-spam.
+- **Stale-issue / atomic-split sweep**: 20 `hold`-labeled `ai-fix` issues (pre-existing freeze-blocked roster/band splits) re-confirmed, none eligible. New promotions all single/dual-file, atomic.
+- **Starvation check**: post-triage backlog=8, bank=0 (excl. umbrellas) — not starved, fresh same-day supply from SEO Agent (4th batch today).
+
+### State delta
+- ai-fix backlog: 1 → 8 (#6656-6663; #6621 closed, not promoted)
+- seo-proposal bank (excl. umbrellas): 9 → 0
+- Org/Sessions/Views (7d): 288/333/509 · GSC 7,975 impr/171 clicks/2.14% CTR/pos 9.5 (up vs 16:05, no regression)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 9/9 triaged (8 promoted live-verified 3 direct + 5 pattern-match, 1 closed stale), no duplicates, freeze-compliant. ✅ GSC-gap: 3 rows re-confirmed held on documented precedent. ✅ L1/L2/L3: still 08-31 generation, no regression. ✅ Starvation: not triggered. ✅ Atomic split: 20 stale issues re-checked, all `hold`-labeled, none eligible; new work all atomic. ✅ Decisions logged.
+
+### Next Run
+1. Watch #6656-6663 ship via Roadie/PR Merger.
+2. Next deep run ~07:00 UTC tomorrow: full metrics + GSC-gap + L1/L2/L3 close-the-loop pass.
+3. Watch for the next L1/L2/L3 weekly refresh (last 08-31, due ~09-07).
+4. If a stale-proposal pattern (like #6621) recurs, log it in `learned-patterns.md` — SEO Agent may be citing line numbers from a slightly stale repo snapshot.
+
+---
+
+---
 ## 2026-09-01 16:05 — Mid-day pulse: 8 fresh gear-fabrication proposals promoted (#6632-6639); Roadie progress on #6619-6625 confirmed healthy
 
 ### Context (≤3 lines)

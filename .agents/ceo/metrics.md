@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-01 17:03 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-01 20:35 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,18 +8,18 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 278 |
-| Sessions | 321 |
-| Page views | 497 |
-| Engagement rate | 61.68% |
-| Avg session (s) | 312 |
+| Active users | 288 |
+| Sessions | 333 |
+| Page views | 509 |
+| Engagement rate | 59.46% |
+| Avg session (s) | 304 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 31 | 22 |
+| / | 33 | 25 |
 | /drummers | 29 | 5 |
-| /drummer/frost | 12 | 2 |
+| /drummer/frost | 13 | 2 |
 | /drummer/john-otto | 11 | 10 |
 | /drummer/mario-duplantier | 9 | 7 |
 | /drummer/nicko-mcbrain | 9 | 4 |
@@ -31,21 +31,21 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 277 | 239 |
+| Organic Search | 283 | 244 |
+| Unassigned | 39 | 38 |
 | Direct | 33 | 29 |
-| Unassigned | 28 | 28 |
-| Referral | 3 | 3 |
+| Referral | 4 | 4 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 110 | 94 |
-| United Kingdom | 31 | 16 |
+| United States | 117 | 100 |
+| United Kingdom | 32 | 16 |
 | Canada | 15 | 14 |
 | China | 13 | 13 |
 | Brazil | 12 | 12 |
 | Australia | 11 | 11 |
-| France | 9 | 9 |
+| France | 10 | 10 |
 | Germany | 9 | 9 |
 | Finland | 8 | 8 |
 | Sweden | 8 | 8 |
@@ -53,45 +53,45 @@
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 6,650 |
-| Clicks | 140 |
-| CTR | 2.11% |
+| Impressions | 7,975 |
+| Clicks | 171 |
+| CTR | 2.14% |
 | Avg position | 9.5 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| metalforge | 574 | 3 | 0.52% | 7.0 |
-| best metal drummers of all time | 18 | 1 | 5.56% | 9.3 |
-| danny carey drum kit | 78 | 1 | 1.28% | 10.7 |
-| danny carey drum kit setup | 4 | 1 | 25.00% | 9.3 |
-| death metal drummers | 4 | 1 | 25.00% | 5.3 |
-| eloy casagrande drum kit | 29 | 1 | 3.45% | 9.7 |
+| metalforge | 634 | 3 | 0.47% | 6.9 |
+| best metal drummers of all time | 22 | 1 | 4.55% | 9.3 |
+| danny carey drum kit | 86 | 1 | 1.16% | 10.8 |
+| danny carey drum kit setup | 5 | 1 | 20.00% | 10.4 |
+| death metal drummers | 5 | 1 | 20.00% | 7.4 |
+| eloy casagrande drum kit | 37 | 1 | 2.70% | 9.5 |
 | hellhammer drum kit | 9 | 1 | 11.11% | 3.6 |
-| iggor cavalera drum kit | 7 | 1 | 14.29% | 4.6 |
-| igor cavalera drum kit | 5 | 1 | 20.00% | 3.2 |
-| jaska raatikainen drum set | 4 | 1 | 25.00% | 6.3 |
+| iggor cavalera drum kit | 8 | 1 | 12.50% | 4.5 |
+| igor cavalera drum kit | 6 | 1 | 16.67% | 3.8 |
+| igor cavalera drum setup | 8 | 1 | 12.50% | 8.8 |
 
 ### Top countries (impressions, last 7d)
 | Country | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| usa | 2,281 | 42 | 1.84% | 8.9 |
-| can | 278 | 10 | 3.60% | 7.7 |
-| bra | 179 | 7 | 3.91% | 7.1 |
-| fra | 162 | 7 | 4.32% | 7.0 |
-| deu | 245 | 6 | 2.45% | 7.9 |
-| aus | 280 | 5 | 1.79% | 7.8 |
-| fin | 92 | 5 | 5.43% | 7.1 |
-| esp | 86 | 4 | 4.65% | 8.0 |
-| gbr | 360 | 4 | 1.11% | 8.6 |
-| ita | 111 | 4 | 3.60% | 6.6 |
+| usa | 2,739 | 54 | 1.97% | 9.0 |
+| can | 344 | 11 | 3.20% | 7.6 |
+| bra | 216 | 9 | 4.17% | 6.9 |
+| deu | 285 | 8 | 2.81% | 7.8 |
+| fra | 194 | 7 | 3.61% | 7.7 |
+| fin | 109 | 6 | 5.50% | 6.8 |
+| gbr | 438 | 6 | 1.37% | 8.6 |
+| swe | 144 | 6 | 4.17% | 6.9 |
+| aus | 315 | 5 | 1.59% | 7.8 |
+| esp | 115 | 5 | 4.35% | 7.9 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 | Query | Impr | CTR | Pos | Action |
 | --- | --- | --- | --- | --- |
-| metalforge | 574 | 0.52% | 7.0 | open issue to answer better |
-| danny carey drum kit | 78 | 1.28% | 10.7 | open issue to answer better |
-| joey jordison drum kit | 68 | 1.47% | 10.4 | open issue to answer better |
+| metalforge | 634 | 0.47% | 6.9 | open issue to answer better |
+| danny carey drum kit | 86 | 1.16% | 10.8 | open issue to answer better |
+| joey jordison drum kit | 73 | 1.37% | 10.4 | open issue to answer better |
 
 ---
 *Re-run manually: `node .agents/scripts/fetch-metrics.cjs`*

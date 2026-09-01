@@ -13798,7 +13798,7 @@ This guide breaks down the technique, gear, and practice system behind Bent's so
     genre: 'Thrash Metal / Metalcore',
     priority: 53,
     title: "How to Sound Like Nick Augusto: Complete Gear & Technique Guide",
-    description: "Master Nick Augusto's aggressive thrash-metalcore attack behind Trivium's In Waves and Vengeance Falls era. Learn his double bass approach, Tama Starclassic setup, Meinl cymbals, and the practice system behind Trivium's heaviest chapter.",
+    description: "Master Nick Augusto's aggressive thrash-metalcore attack behind Trivium's In Waves and Vengeance Falls era. Learn his double bass approach, Pearl Reference Pure setup, Sabian AAX cymbals, and the practice system behind Trivium's heaviest chapter.",
     seoKeywords: ['nick augusto drumming', 'how to sound like nick augusto', 'trivium drums', 'nick augusto gear', 'nick augusto technique', 'nick augusto drum kit', 'in waves drums'],
     ogImage: '/images/guides/nick-augusto-guide.webp',
     datePublished: '2026-07-01',
@@ -13812,12 +13812,12 @@ This guide breaks down the technique, gear, and practice system behind Bent's so
 
 "In Waves," recorded at Audiohammer Studios with producers Jason Suecof and Mark Lewis, marked a deliberate pivot back toward the band's heavier roots. The album debuted at #13 on the Billboard 200, powered by Augusto's relentless double-bass work and tight, punching snare attacks. "Vengeance Falls" (2013), produced by David Draiman of Disturbed, pushed toward a more polished sound while Augusto's drumming remained the rhythmic anchor, reaching #15 on the Billboard 200.
 
-This guide breaks down the technique, gear, and practice approach behind Augusto's sound — from his Tama Starclassic kit and Meinl cymbals to the aggressive double-bass attack that powered Trivium's most commercially successful early-2010s run.`,
+This guide breaks down the technique, gear, and practice approach behind Augusto's sound — from his Pearl Reference Pure kit and Sabian AAX cymbals to the aggressive double-bass attack that powered Trivium's most commercially successful early-2010s run.`,
       keyPoints: [
         "Trivium drummer from 2010 to 2014, recording \"In Waves\" and \"Vengeance Falls\"",
         "Brought thrash metal aggression to Trivium's evolving metalcore sound",
         "\"In Waves\" (2011) debuted #13 Billboard 200; \"Vengeance Falls\" (2013) reached #15",
-        "Endorsed Tama Drums, Meinl Cymbals, and Promark Sticks"
+        "Endorsed Pearl Drums, Sabian Cymbals, and Vic Firth Sticks"
       ]
     },
     technique: {
@@ -13865,57 +13865,48 @@ This guide breaks down the technique, gear, and practice approach behind Augusto
     gear: {
       title: "Augusto's Gear Setup",
       drumKit: {
-        brand: 'Tama',
-        model: 'Tama Starclassic Performer B/B',
-        shells: 'Birch/Bubinga',
-        finish: 'Custom finish',
-        config: {
-          kick: '22" x 18" Bass Drums (x2)',
-          snare: 'Tama S.L.P. 14" x 6.5" or Starclassic Snare',
-          toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom'],
-          floorToms: ['16" x 16" Floor Tom']
-        },
-        description: "The Starclassic Performer B/B's birch/bubinga shells deliver a punchy, focused low end with plenty of attack — well suited to Augusto's driving, thrash-rooted double bass approach.",
-        affiliateNote: "Tama Imperialstar or Tama Superstar offer a similar punchy attack at a lower price point."
+        brand: 'Pearl',
+        model: 'Pearl Reference Pure',
+        description: "Augusto's Pearl Reference Pure setup, paired with a Pearl Demon Drive double pedal and Pearl D-2000 throne, delivers the punchy, attack-focused tone that anchors his driving, thrash-rooted double bass approach with Trivium.",
+        affiliateNote: "Pearl Export or Pearl Decade Maple offer a similar Pearl attack at a lower price point."
       },
       snare: {
-        brand: 'Tama',
-        model: 'Tama S.L.P. 14" x 6.5"',
+        brand: 'Pearl',
+        model: 'Pearl Reference 14" x 6.5" Brass',
         size: '14" x 6.5"',
-        shell: 'Steel or Bell Brass',
-        description: "A tight, punching snare tuned for the hard backbeat attack that anchors Trivium's heavier riffs. The S.L.P. line's metal shells provide plenty of crack and projection.",
+        shell: 'Brass',
+        description: "A tight, punching brass snare tuned for the hard backbeat attack that anchors Trivium's heavier riffs, delivering the sharp crack needed to cut through dense guitar work.",
         alternative: "Pearl Sensitone Steel or Ludwig Supraphonic for similar crack and cut"
       },
       cymbals: {
-        brand: 'Meinl',
-        series: 'Meinl MB20 and Classics Custom Series',
+        brand: 'Sabian',
+        series: 'Sabian AAX Series',
         setup: [
-          { type: 'Hi-Hats', model: '14" Meinl Classics Custom Dark Hi-Hats', notes: 'Focused, cutting response' },
-          { type: 'Crash', model: '16" Meinl MB20 Heavy Crash', notes: 'Fast, powerful accent' },
-          { type: 'Crash', model: '18" Meinl MB20 Heavy Crash', notes: 'Full-bodied riff accent' },
-          { type: 'Ride', model: '21" Meinl MB20 Heavy Ride', notes: 'Clear bell for driving grooves' },
-          { type: 'China', model: '18" Meinl Classics Custom China', notes: 'Trashy accent for breakdowns' }
+          { type: 'Hi-Hats', model: '14" Sabian AAX Stage Hi-Hats', notes: 'Focused, cutting response' },
+          { type: 'Crash', model: '18" Sabian AAX X-Plosion Crash', notes: 'Fast, powerful accent' },
+          { type: 'Crash', model: '19" Sabian AAX X-Plosion Crash', notes: 'Full-bodied riff accent' },
+          { type: 'Ride', model: '21" Sabian AAX Stage Ride', notes: 'Clear bell for driving grooves' },
+          { type: 'China', model: '18" Sabian AAXtreme China', notes: 'Trashy accent for breakdowns' }
         ],
-        description: "Meinl's MB20 and Classics Custom lines give Augusto a heavy, cutting cymbal voice that projects clearly through Trivium's thrash-metalcore guitar tone."
+        description: "Sabian's AAX Series gives Augusto a heavy, cutting cymbal voice that projects clearly through Trivium's thrash-metalcore guitar tone."
       },
       pedals: {
-        brand: 'Tama',
-        model: 'Tama Iron Cobra Double Pedal',
-        description: "The Iron Cobra's reliable, powerful drive suits Augusto's aggressive double bass approach, delivering the consistent power needed for long, high-energy sets.",
-        alternative: "Tama Speed Cobra or DW 5000 for a similarly powerful feel"
+        brand: 'Pearl',
+        model: 'Pearl Demon Drive Double Bass Pedal',
+        description: "The Demon Drive's reliable, powerful drive suits Augusto's aggressive double bass approach, delivering the consistent power needed for long, high-energy sets.",
+        alternative: "Pearl Eliminator or DW 5000 for a similarly powerful feel"
       },
       sticks: {
-        brand: 'Promark',
-        model: 'Promark 5B',
+        brand: 'Vic Firth',
+        model: 'Vic Firth American Classic 5B',
         specs: 'Hickory, wood tip',
         description: "A heavier 5B weight matched to Augusto's powerful, high-energy attack, providing durability across Trivium's demanding touring schedule.",
-        alternative: "Vic Firth 5B or Vater Power 5B for a similar heavier feel"
+        alternative: "Vater Power 5B or Regal Tip 5B for a similar heavier feel"
       },
       heads: {
-        kick: 'Evans EQ3 Clear',
-        snare: 'Evans Coated',
-        toms: 'Evans G2 Coated',
-        resonant: 'Evans Clear'
+        brand: 'Evans',
+        model: 'Evans Genera Dry / 300 Snare Side',
+        description: "Evans Genera Dry batter heads paired with Evans 300 Snare Side heads round out Augusto's punchy, attack-focused tuning."
       }
     },
     tuning: {
@@ -13936,7 +13927,7 @@ This guide breaks down the technique, gear, and practice approach behind Augusto
       toms: {
         tension: "Medium",
         muffling: "One Moongel per tom",
-        description: "Evans G2 Coated heads keep toms durable and punchy for fills that transition between thrash riffing and metalcore breakdowns.",
+        description: "Evans Genera Dry heads keep toms durable and punchy for fills that transition between thrash riffing and metalcore breakdowns.",
         tip: "Tune toms roughly a third apart, keeping resonant heads slightly lower than batter for a focused decay."
       }
     },
@@ -13976,27 +13967,27 @@ This guide breaks down the technique, gear, and practice approach behind Augusto
       budget: {
         price: "$950",
         label: "Starter Setup",
-        kit: "Tama Imperialstar ($650)",
-        cymbals: "Meinl HCS Pack ($200)",
-        pedals: "Tama Speed Cobra Single ($100)",
-        sticks: "Promark 5B ($10)",
-        notes: "Tama's entry-level shells share the same brand DNA as Augusto's Starclassic setup."
+        kit: "Pearl Export ($650)",
+        cymbals: "Sabian SBR Pack ($200)",
+        pedals: "Pearl P-530 Single ($100)",
+        sticks: "Vic Firth American Classic 5B ($10)",
+        notes: "Pearl's entry-level shells share the same brand DNA as Augusto's Reference Pure setup."
       },
       mid: {
         price: "$2,900",
         label: "Intermediate Setup",
-        kit: "Tama Superstar ($1,700)",
-        cymbals: "Meinl Classics Custom partial set ($850)",
-        pedals: "Tama Iron Cobra Double ($350)",
-        sticks: "Promark 5B ($10)",
-        notes: "The Iron Cobra double pedal is the key upgrade — the same model Augusto used with Trivium."
+        kit: "Pearl Decade Maple ($1,700)",
+        cymbals: "Sabian AAX partial set ($850)",
+        pedals: "Pearl Demon Drive Double ($350)",
+        sticks: "Vic Firth American Classic 5B ($10)",
+        notes: "The Demon Drive double pedal is the key upgrade — the same model Augusto used with Trivium."
       },
       pro: {
         price: "$5,000+",
         label: "Professional Setup",
-        kit: "Tama Starclassic Performer B/B ($2,800+)",
-        cymbals: "Full Meinl MB20 selection ($1,700+)",
-        pedals: "Tama Iron Cobra Double ($400)",
+        kit: "Pearl Reference Pure ($2,800+)",
+        cymbals: "Full Sabian AAX selection ($1,700+)",
+        pedals: "Pearl Demon Drive Double ($400)",
         heads: "Full Evans setup ($150)",
         notes: "Touring-ready setup matching Augusto's In Waves/Vengeance Falls era rig."
       }
@@ -14008,7 +13999,7 @@ This guide breaks down the technique, gear, and practice approach behind Augusto
       },
       {
         question: "What gear did Nick Augusto use with Trivium?",
-        answer: "Augusto played a Tama Starclassic Performer B/B kit with a Tama S.L.P. 14\" x 6.5\" snare, Meinl MB20 and Classics Custom cymbals, a Tama Iron Cobra double pedal, and Promark 5B sticks."
+        answer: "Augusto played a Pearl Reference Pure kit with a Pearl Reference 14\" x 6.5\" Brass snare, Sabian AAX Series cymbals, a Pearl Demon Drive double pedal, and Vic Firth American Classic 5B sticks."
       },
       {
         question: "Why did Nick Augusto leave Trivium?",
@@ -14027,7 +14018,7 @@ This guide breaks down the technique, gear, and practice approach behind Augusto
       drummerProfile: '/drummer/nick-augusto',
       similarDrummers: ['Alex Bent', 'Chris Adler', 'Joey Jordison'],
       relatedGuides: ['how-to-sound-like-alex-bent', 'how-to-sound-like-chris-adler'],
-      gearPages: ['/gear/drums', '/brands/tama', '/brands/meinl']
+      gearPages: ['/gear/drums', '/brands/pearl', '/brands/sabian']
     },
     licksUrl: '/drummers/nick-augusto/licks',
     relatedArticles: [

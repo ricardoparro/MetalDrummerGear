@@ -10673,57 +10673,57 @@ This guide breaks down the technique, gear, and practice approach behind Richard
     gear: {
       title: "Richardson's Gear Setup",
       drumKit: {
-        brand: 'DW',
-        model: 'DW Collector\'s Series',
-        shells: 'Maple',
+        brand: 'Tama',
+        model: 'Starclassic Bubinga',
+        shells: 'Bubinga',
         finish: 'Custom finish',
         config: {
           kick: '22" x 18" Bass Drums (x2)',
-          snare: '14" x 6.5" DW Collector\'s Snare',
+          snare: '14" x 6.5" Starclassic Bubinga Snare',
           toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom', '13" x 10" Rack Tom'],
           floorToms: ['16" x 16" Floor Tom', '18" x 16" Floor Tom']
         },
-        description: "Richardson plays DW Collector's Series maple drums — three rack toms provide the melodic range his progressive orchestrations demand, and the maple shells deliver warmth suited to BTBAM's wide sonic palette from brutal to delicate.",
-        affiliateNote: "DW Performance or PDP Concept Maple with an added rack tom provide similar range at lower cost."
+        description: "Richardson plays a Tama Starclassic Bubinga kit (since 2018) — three rack toms provide the melodic range his progressive orchestrations demand, and the bubinga shells deliver the resonance suited to BTBAM's Sumerian Records-era production, from brutal to delicate.",
+        affiliateNote: "Tama Starclassic Performer or Superstar Hyper-Drive with an added rack tom provide similar range at lower cost."
       },
       snare: {
-        brand: 'DW',
-        model: 'DW Collector\'s Maple Snare',
+        brand: 'Tama',
+        model: 'Starclassic Bubinga Snare',
         size: '14" x 6.5"',
-        shell: 'Maple',
-        description: "A maple snare provides warmth and body that suits both the brutal blast sections and the melodic prog passages of BTBAM's music. Richardson needs a snare that sounds natural and musical across extreme dynamic contexts.",
-        alternative: "DW Performance Maple or Ludwig Classic Maple for similar warmth"
+        shell: 'Bubinga',
+        description: "A bubinga snare provides warmth and body that suits both the brutal blast sections and the melodic prog passages of BTBAM's music. Richardson needs a snare that sounds natural and musical across extreme dynamic contexts.",
+        alternative: "Tama Starclassic Performer or Ludwig Classic Maple for similar warmth"
       },
       cymbals: {
-        brand: 'Meinl',
-        series: 'Meinl Byzance Series',
+        brand: 'Sabian',
+        series: 'Sabian HHX Evolution / AAX / HH',
         setup: [
-          { type: 'Hi-Hats', model: 'Meinl 14" Byzance Traditional Hi-Hats', notes: 'Complex, musical response for odd-time work' },
-          { type: 'Crash', model: 'Meinl 18" Byzance Traditional Crash', notes: 'Warm, musical crash that works in quiet and loud contexts' },
-          { type: 'Crash', model: 'Meinl 20" Byzance Traditional Crash', notes: 'Larger crash for heavier accents' },
-          { type: 'Ride', model: 'Meinl 22" Byzance Traditional Ride', notes: 'Complex overtones for melodic riding' },
-          { type: 'China', model: 'Meinl 18" Byzance China', notes: 'Trashy, organic China for intense passages' }
+          { type: 'Hi-Hats', model: 'Sabian 14" HHX Evolution Hi-Hats', notes: 'Complex, musical response for odd-time work' },
+          { type: 'Crash', model: 'Sabian 18" HHX Evolution Crash', notes: 'Warm, musical crash that works in quiet and loud contexts' },
+          { type: 'Crash', model: 'Sabian 20" HHX Evolution Crash', notes: 'Larger crash for heavier accents' },
+          { type: 'Ride', model: 'Sabian HH Raw Bell Dry Ride', notes: 'Complex overtones for melodic riding' },
+          { type: 'China', model: 'Sabian AAX Holy China', notes: 'Trashy, organic China for intense passages' }
         ],
-        description: "Richardson uses Meinl Byzance cymbals for their complex, musical overtones. The Byzance series responds well to both the delicate playing of BTBAM's melodic passages and the intense blasting of the extreme sections."
+        description: "Richardson uses Sabian cymbals — HHX Evolution, AAX, and HH — for their complex, musical overtones (switched from Meinl in 2018). The mix responds well to both the delicate playing of BTBAM's melodic passages and the intense blasting of the extreme sections."
       },
       pedals: {
-        brand: 'DW',
-        model: 'DW 9000 Double Pedal',
-        description: "The DW 9000's direct-drive feel and smooth action support both Richardson's fast blast beat double bass and the controlled, precise figures in BTBAM's odd-time sections. Reliability across long, complex live sets is essential.",
-        alternative: "DW 5000 Accelerator or Tama Iron Cobra for similar smooth feel"
+        brand: 'Tama',
+        model: 'Twin Iron Cobra Power Glide',
+        description: "Richardson runs twin Tama Iron Cobra Power Glide single pedals rather than a linked double, giving him independent control for BTBAM's fast blast beat double bass and the controlled, precise figures in BTBAM's odd-time sections. Reliability across long, complex live sets is essential.",
+        alternative: "Pearl Eliminator or DW 5000 Accelerator for similar smooth feel"
       },
       sticks: {
         brand: 'Vic Firth',
-        model: 'Vic Firth 5A',
+        model: 'Vic Firth American Classic 3A',
         specs: 'Hickory, standard weight',
-        description: "Standard 5A sticks give Richardson the control he needs for intricate odd-time playing and melodic passages while still delivering enough weight for the blast sections. Versatility is key for BTBAM's extreme dynamic range.",
+        description: "American Classic 3A sticks give Richardson the control he needs for intricate odd-time playing and melodic passages while still delivering enough weight for the blast sections. Versatility is key for BTBAM's extreme dynamic range.",
         alternative: "Promark 5A or Vater 5A for similar feel"
       },
       heads: {
-        kick: 'Remo Powerstroke P3 Clear',
-        snare: 'Remo Ambassador Coated',
-        toms: 'Remo Emperor Clear',
-        resonant: 'Remo Ambassador Clear'
+        kick: 'Evans G2 Coated',
+        snare: 'Evans G2 Coated',
+        toms: 'Evans G2 Coated',
+        resonant: 'Evans Hazy 300'
       }
     },
     tuning: {

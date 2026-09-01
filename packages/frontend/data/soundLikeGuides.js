@@ -8172,21 +8172,21 @@ This guide covers Larkin's groove-focused technique, his physical approach to ha
       title: "Shannon's Ddrum / Sabian / DW Setup",
       drumKit: {
         brand: 'Ddrum',
-        model: 'Ddrum Reflex Series',
+        model: 'Ddrum Dios Series',
         shells: 'Basswood/Poplar',
         finish: 'Various professional finishes',
         config: {
           kick: '22" x 18" Bass Drums (x2)',
-          snare: '14" x 6.5" Ddrum Reflex Steel or Maple',
+          snare: '14" x 6.5" Ddrum Dios Steel or Maple',
           toms: ['10" x 8" Rack Tom', '12" x 10" Rack Tom'],
           floorToms: ['14" x 14" Floor Tom', '16" x 16" Floor Tom']
         },
-        description: "Larkin plays Ddrum Reflex Series — Ddrum's road-proven professional line. The Reflex's basswood/poplar shells produce a punchy, dry attack well suited to hard rock arena environments. The focused, quick-decaying tone cuts through Godsmack's dense guitar textures without creating excessive sustain that muddies the mid-frequency range Larkin's groove lives in.",
+        description: "Larkin plays Ddrum Dios Series — Ddrum's professional line. The Dios's basswood/poplar shells produce a punchy, dry attack well suited to hard rock arena environments. The focused, quick-decaying tone cuts through Godsmack's dense guitar textures without creating excessive sustain that muddies the mid-frequency range Larkin's groove lives in.",
         affiliateNote: "Pearl Export or Tama Imperialstar deliver comparable punch and road-readiness at accessible price points."
       },
       snare: {
         brand: 'Ddrum',
-        model: 'Ddrum Reflex Steel 14" x 6.5"',
+        model: 'Ddrum Dios Steel 14" x 6.5"',
         size: '14" x 6.5"',
         shell: 'Steel',
         description: "Larkin's steel snare provides the bright, cutting crack that cuts through Godsmack's loud guitar arrangements at live volumes. The steel shell's natural brightness and the 6.5\" depth combine for a snare with both attack and body — essential for hard rock backbeats that need to project in large arenas without triggers.",
@@ -8194,15 +8194,15 @@ This guide covers Larkin's groove-focused technique, his physical approach to ha
       },
       cymbals: {
         brand: 'Sabian',
-        series: 'Sabian HHX Series',
+        series: 'Sabian AAX Series',
         setup: [
-          { type: 'Hi-Hats', model: 'Sabian 14" HHX Evolution Hi-Hats', notes: 'Bright, cutting hi-hat for driving rock grooves' },
-          { type: 'Crash', model: 'Sabian 18" HHX Crash', notes: 'Explosive crash for section transitions and power accents' },
-          { type: 'Crash', model: 'Sabian 19" HHX Crash', notes: 'Larger crash for climactic hits' },
-          { type: 'Ride', model: 'Sabian 21" HHX Groove Ride', notes: 'Musical ride with clear bell for groove sections' },
-          { type: 'China', model: 'Sabian 18" HHX China', notes: 'Trashy China accent for aggressive moments' }
+          { type: 'Hi-Hats', model: 'Sabian 14" AAX Hi-Hats', notes: 'Bright, cutting hi-hat for driving rock grooves' },
+          { type: 'Crash', model: 'Sabian 18" AAX Crash', notes: 'Explosive crash for section transitions and power accents' },
+          { type: 'Crash', model: 'Sabian 19" AAX Crash', notes: 'Larger crash for climactic hits' },
+          { type: 'Ride', model: 'Sabian 21" AAX Ride', notes: 'Musical ride with clear bell for groove sections' },
+          { type: 'China', model: 'Sabian 18" AAX China', notes: 'Trashy China accent for aggressive moments' }
         ],
-        description: "Larkin uses Sabian HHX cymbals — a series designed for loud, aggressive playing environments. The HHX's bright, cutting character projects through dense guitar arrangements at live volumes, giving his crashes and hi-hat work presence and clarity. The Sabian HHX Evolution hi-hats provide the consistent chick and opening sound essential for driving rock grooves."
+        description: "Larkin uses Sabian AAX cymbals — a series designed for loud, aggressive playing environments. The AAX's bright, cutting character projects through dense guitar arrangements at live volumes, giving his crashes and hi-hat work presence and clarity. The Sabian AAX hi-hats provide the consistent chick and opening sound essential for driving rock grooves."
       },
       pedals: {
         brand: 'DW',
@@ -8211,17 +8211,17 @@ This guide covers Larkin's groove-focused technique, his physical approach to ha
         alternative: "DW 5002 or Pearl Demon Drive for comparable chain-drive or direct-drive professional options"
       },
       sticks: {
-        brand: 'Vater',
-        model: 'Vater 5B or Shannon Larkin Signature',
+        brand: 'Vic Firth',
+        model: 'Vic Firth American Classic 5B',
         specs: '5B diameter, wood tip',
-        description: "Larkin uses Vater sticks at 5B weight — the heavier diameter provides the additional impact mass needed for his powerful, arm-involved playing technique. The 5B's weight complements his physical approach and generates the heavy attack needed for arena-volume Godsmack performances.",
-        alternative: "Promark 5B Firegrain or Vic Firth 5B for comparable weight and feel"
+        description: "Larkin uses Vic Firth American Classic 5B sticks — the heavier diameter provides the additional impact mass needed for his powerful, arm-involved playing technique. The 5B's weight complements his physical approach and generates the heavy attack needed for arena-volume Godsmack performances.",
+        alternative: "Promark 5B Firegrain or Zildjian 5B Wood Tip for comparable weight and feel"
       },
       heads: {
-        kick: 'Remo Powerstroke P3 Clear',
-        snare: 'Remo Ambassador X Coated',
-        toms: 'Remo Emperor Clear',
-        resonant: 'Remo Ambassador Clear'
+        kick: 'Evans EQ3 Clear',
+        snare: 'Evans Genera HD Dry',
+        toms: 'Evans G2 Clear',
+        resonant: 'Evans G1 Clear'
       }
     },
     tuning: {
@@ -8286,38 +8286,38 @@ This guide covers Larkin's groove-focused technique, his physical approach to ha
         kit: "Pearl Export ($500) or Tama Imperialstar ($500)",
         cymbals: "Sabian SBR or B8X series ($250)",
         pedals: "DW 5002 Double Pedal ($200) or Pearl P932 ($150)",
-        sticks: "Vater 5B ($10)",
+        sticks: "Vic Firth 5B ($10)",
         notes: "Pearl Export and Imperialstar both deliver the focused, punchy attack suited to hard rock. Sabian SBR provides the brand character at an accessible entry price."
       },
       mid: {
         price: "$3,000",
         label: "Intermediate Hard Rock Setup",
-        kit: "Ddrum Reflex Series ($1,200) — Larkin's actual endorsement",
-        cymbals: "Sabian HHX selection ($1,200)",
+        kit: "Ddrum Dios Series ($1,200) — Larkin's actual endorsement",
+        cymbals: "Sabian AAX selection ($1,200)",
         pedals: "DW 9000 Double Pedal ($600) — Larkin's actual pedal",
-        sticks: "Vater 5B ($10)",
-        heads: "Remo Powerstroke P3 and Emperor set ($150)",
-        notes: "Ddrum Reflex is Larkin's actual endorsement kit. Sabian HHX matches his cymbal character exactly. DW 9000 is his actual pedal choice."
+        sticks: "Vic Firth American Classic 5B ($10)",
+        heads: "Evans EQ3 and G2 set ($150)",
+        notes: "Ddrum Dios is Larkin's actual endorsement kit. Sabian AAX matches his cymbal character exactly. DW 9000 is his actual pedal choice."
       },
       pro: {
         price: "$5,500+",
         label: "Professional Setup",
-        kit: "Ddrum Reflex Custom or Ddrum Diablo ($2,500+)",
-        cymbals: "Full Sabian HHX selection ($2,000+)",
+        kit: "Ddrum Dios Custom or Ddrum Diablo ($2,500+)",
+        cymbals: "Full Sabian AAX selection ($2,000+)",
         pedals: "DW 9000 or DW Machined Direct Drive ($600)",
         snare: "Ddrum Steel Snare 14\" x 6.5\" ($300)",
-        heads: "Full Remo Powerstroke / Emperor set ($200)",
-        notes: "Full Ddrum and Sabian HHX setup replicates Larkin's exact touring and studio configuration."
+        heads: "Full Evans EQ3 / G2 set ($200)",
+        notes: "Full Ddrum and Sabian AAX setup replicates Larkin's exact touring and studio configuration."
       }
     },
     faq: [
       {
         question: "What drum kit does Shannon Larkin play?",
-        answer: "Shannon Larkin plays Ddrum Reflex Series drums as his primary kit with Godsmack. Ddrum's Reflex line features basswood/poplar shells with a punchy, dry attack suited to hard rock arena environments. His configuration runs double 22\" bass drums and four toms (10\", 12\", 14\", 16\"). Larkin has been a Ddrum endorser for much of his tenure with Godsmack since 2002."
+        answer: "Shannon Larkin plays Ddrum Dios Series drums as his primary kit with Godsmack. Ddrum's Dios line features basswood/poplar shells with a punchy, dry attack suited to hard rock arena environments. His configuration runs double 22\" bass drums and four toms (10\", 12\", 14\", 16\"). Larkin has been a Ddrum endorser for his entire tenure with Godsmack since 2002."
       },
       {
         question: "What cymbals does Shannon Larkin use?",
-        answer: "Shannon Larkin uses Sabian HHX Series cymbals. His setup typically includes 14\" HHX Evolution hi-hats for consistent, cutting hi-hat patterns; 18\" and 19\" HHX crashes for section accents; a 21\" HHX Groove Ride; and an 18\" HHX China for aggressive accent moments. The HHX series' bright, cutting character projects through dense guitar arrangements at live volumes."
+        answer: "Shannon Larkin uses Sabian AAX Series cymbals. His setup typically includes 14\" AAX hi-hats for consistent, cutting hi-hat patterns; 18\" and 19\" AAX crashes for section accents; a 21\" AAX Ride; and an 18\" AAX China for aggressive accent moments. The AAX series' bright, cutting character projects through dense guitar arrangements at live volumes."
       },
       {
         question: "What makes Shannon Larkin's drumming style unique?",

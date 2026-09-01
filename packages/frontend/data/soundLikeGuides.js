@@ -11343,7 +11343,7 @@ This guide breaks down the technique, gear, and practice approach behind Turner'
     genre: 'Black Metal',
     priority: 43,
     title: "How to Sound Like Frost: Complete Gear & Technique Guide",
-    description: "Master Frost's architectural black metal blast beats. Learn the Satyricon drummer's Pearl kit, Zildjian cymbal setup, tremolo-rhythm technique, and the practice approach behind thirty years of Norwegian black metal drumming.",
+    description: "Master Frost's architectural black metal blast beats. Learn the Satyricon drummer's Tama Starclassic Bubinga kit, Zildjian cymbal setup, tremolo-rhythm technique, and the practice approach behind thirty years of Norwegian black metal drumming.",
     seoKeywords: ['frost drums', 'how to sound like frost', 'satyricon drummer', 'frost satyricon technique', 'black metal blast beats', 'frost drum gear'],
     ogImage: '/images/guides/frost-guide.webp',
     datePublished: '2026-07-01',
@@ -11357,7 +11357,7 @@ This guide breaks down the technique, gear, and practice approach behind Turner'
 
 What separates Frost from most extreme metal drummers isn't raw speed, though he has plenty of it. It's that he treats the blast beat as a shapeable musical event rather than a wall of uniform velocity. His blasts carry internal dynamic swells, deliberate hi-hat-versus-ride voicing shifts, and micro-variations in foot pattern that make even the most punishing sections feel like they're moving somewhere rather than just enduring.
 
-This guide breaks down the technique, gear, and practice approach behind Frost's sound — from his Pearl kit and Zildjian cymbal choices to the tremolo-rhythm patterns that mirror Satyricon's guitar work.`,
+This guide breaks down the technique, gear, and practice approach behind Frost's sound — from his Tama Starclassic Bubinga kit and Zildjian cymbal choices to the tremolo-rhythm patterns that mirror Satyricon's guitar work.`,
       keyPoints: [
         "Satyricon's drummer since 1993 — one of black metal's longest-running drummer-band partnerships",
         "Shapes blast beats with internal dynamic swells rather than uniform-velocity walls of sound",
@@ -11411,26 +11411,25 @@ This guide breaks down the technique, gear, and practice approach behind Frost's
     gear: {
       title: "Frost's Gear Setup",
       drumKit: {
-        brand: 'Pearl',
-        model: 'Pearl Custom / Pearl Reference',
-        shells: 'Maple',
-        finish: 'Black',
+        brand: 'Tama',
+        model: 'Starclassic Bubinga Series',
+        shells: 'Bubinga',
         config: {
           kick: '22" x 18" Bass Drums (x2)',
-          snare: '14" x 6.5" Pearl Free-Floating / Reference Snare',
+          snare: '14" x 6.5" Tama Starclassic Bubinga Snare',
           toms: ['10" x 7" Rack Tom', '12" x 8" Rack Tom', '13" x 9" Rack Tom'],
           floorToms: ['16" x 14" Floor Tom', '18" x 16" Floor Tom']
         },
-        description: "Frost has played Pearl drums throughout his Satyricon career. The maple shell construction gives immediate stick response and focused mid-range attack — drums that cut through densely saturated guitar tones and speak instantly even at 200+ BPM blast tempos.",
-        affiliateNote: "Pearl Export or Mapex Mars are maple-shell alternatives with similar articulate attack at a fraction of the cost."
+        description: "Frost has played a Tama Starclassic Bubinga kit since 2013, when Satyricon's self-titled album pushed toward a more refined, modern production sound. The bubinga shell construction gives immediate stick response and focused mid-range attack — drums that cut through densely saturated guitar tones and speak instantly even at 200+ BPM blast tempos.",
+        affiliateNote: "Tama Superstar Classic or Mapex Mars are more affordable alternatives with similar articulate attack."
       },
       snare: {
-        brand: 'Pearl',
-        model: 'Pearl Free-Floating / Reference Snare',
+        brand: 'Tama',
+        model: 'Starclassic Bubinga Snare',
         size: '14" x 6.5"',
-        shell: 'Steel / Brass',
-        description: "The deeper 6.5\" shell adds low-end body to the crack, and the Free-Floating design decouples the shell from the lugs for maximum resonance — a snare built to defend a defined frequency window against a wall of guitar saturation.",
-        alternative: "Any coated-head steel snare tuned medium-bright will approximate the cut."
+        shell: 'Bubinga',
+        description: "The 6.5\" bubinga shell adds low-end body to the crack, matching the tonal character of the rest of Frost's Starclassic kit — a snare built to defend a defined frequency window against a wall of guitar saturation.",
+        alternative: "Any coated-head steel or bubinga-shell snare tuned medium-bright will approximate the cut."
       },
       cymbals: {
         brand: 'Zildjian',
@@ -11445,10 +11444,10 @@ This guide breaks down the technique, gear, and practice approach behind Frost's
         description: "Frost's Zildjian A setup is built for clarity and speed — cymbals that speak immediately, decay fast, and don't accumulate wash at extreme tempos. The New Beat hi-hats in particular give the tight, defined response his blast patterns demand."
       },
       pedals: {
-        brand: 'Pearl / DW',
-        model: 'Pearl Eliminator / DW 9000 Double Bass Pedal',
-        description: "High-performance flagship double pedals with the mechanical precision that sustained blast beat technique requires — consistent rebound and return timing across hundreds of consecutive strokes.",
-        alternative: "Pearl P-2000C or DW 5000 Double for similar smooth action at a lower price."
+        brand: 'Tama',
+        model: 'Iron Cobra Power Glide Double Bass Pedal',
+        description: "Frost has used a Tama Iron Cobra Power Glide double pedal since 2013, paired with a matching Iron Cobra Lever Glide hi-hat stand. The cam design gives the mechanical precision that sustained blast beat technique requires — consistent rebound and return timing across hundreds of consecutive strokes.",
+        alternative: "DW 5000 Double for similar smooth action at a lower price."
       },
       sticks: {
         brand: 'Vic Firth / Ahead',
@@ -11522,16 +11521,16 @@ This guide breaks down the technique, gear, and practice approach behind Frost's
       budget: {
         price: "$1,000",
         label: "Starter Setup",
-        kit: "Pearl Export ($700)",
+        kit: "Tama Imperialstar ($600)",
         cymbals: "Zildjian A hi-hats + crash ($200)",
         pedals: "DW 3000 Double Pedal ($100)",
         sticks: "Vic Firth 5B ($10)",
-        notes: "Pearl's entry-level maple/poplar shells share the articulate attack character of Frost's Reference kit."
+        notes: "Tama's entry-level shells share the articulate attack character of Frost's Starclassic kit."
       },
       mid: {
         price: "$3,000",
         label: "Intermediate Setup",
-        kit: "Pearl Session Studio Select ($1,800)",
+        kit: "Tama Superstar Classic ($1,400)",
         cymbals: "Zildjian A full setup ($900)",
         pedals: "DW 5000/7000 Double ($300)",
         sticks: "Vic Firth 5B ($10)",
@@ -11540,9 +11539,9 @@ This guide breaks down the technique, gear, and practice approach behind Frost's
       pro: {
         price: "$6,000+",
         label: "Professional Setup",
-        kit: "Pearl Reference/Custom ($3,500+)",
+        kit: "Tama Starclassic Bubinga ($3,500+)",
         cymbals: "Zildjian A / A Custom full set ($1,800+)",
-        pedals: "Pearl Eliminator or DW 9000 ($700)",
+        pedals: "Tama Iron Cobra Power Glide ($700)",
         heads: "Full Remo setup + Roland RT kick triggers ($400)",
         notes: "Touring-ready setup matching Frost's live Satyricon rig, including electronic bass drum triggers for consistency."
       }
@@ -11554,11 +11553,11 @@ This guide breaks down the technique, gear, and practice approach behind Frost's
       },
       {
         question: "What kit does Frost from Satyricon use?",
-        answer: "Frost plays a Pearl kit — Pearl Custom and Pearl Reference shells across different eras — with maple construction for immediate attack and focused mid-range projection. His setup centers on a double 22\" x 18\" bass drum configuration, a 14\" x 6.5\" Pearl Free-Floating or Reference snare, and Zildjian A series cymbals including 14\" New Beat hi-hats and an 18\" China Boy."
+        answer: "Frost plays a Tama Starclassic Bubinga kit, a setup he's used since 2013, with bubinga shell construction for immediate attack and focused mid-range projection. His setup centers on a double 22\" x 18\" bass drum configuration, a 14\" x 6.5\" Tama Starclassic Bubinga snare, and Zildjian A series cymbals including 14\" New Beat hi-hats and an 18\" China Boy."
       },
       {
         question: "How do I get Frost's black metal drum sound?",
-        answer: "Start with maple shells tuned for articulate attack rather than warmth, a medium-bright snare with minimal muffling, and Zildjian A series cymbals for fast decay and cutting clarity. Keep the kick firm with light internal dampening so double-kick strokes stay distinct at extreme tempos, and if playing live, consider acoustic bass drum triggers for consistency across venues."
+        answer: "Start with bubinga or maple shells tuned for articulate attack rather than warmth, a medium-bright snare with minimal muffling, and Zildjian A series cymbals for fast decay and cutting clarity. Keep the kick firm with light internal dampening so double-kick strokes stay distinct at extreme tempos, and if playing live, consider acoustic bass drum triggers for consistency across venues."
       },
       {
         question: "What should I practice first to sound like Frost?",
@@ -11573,7 +11572,7 @@ This guide breaks down the technique, gear, and practice approach behind Frost's
       drummerProfile: '/drummer/frost',
       similarDrummers: ['Hellhammer', 'Inferno', 'Pete Sandoval'],
       relatedGuides: ['how-to-sound-like-hellhammer', 'how-to-sound-like-inferno', 'how-to-sound-like-nick-barker'],
-      gearPages: ['/gear/drums', '/brands/pearl', '/brands/zildjian']
+      gearPages: ['/gear/drums', '/brands/tama', '/brands/zildjian']
     },
     licksUrl: '/drummers/frost/licks',
     relatedArticles: [

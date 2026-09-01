@@ -1160,11 +1160,11 @@ Mario's approach to dynamics—from whisper-quiet tribal sections to crushing de
         alternative: "Tama Speed Cobra or Iron Cobra 600"
       },
       sticks: {
-        brand: 'Vic Firth',
-        model: 'Vic Firth 5A',
-        specs: 'Standard 5A with nylon tip',
-        description: "Mario uses standard 5A sticks—nothing fancy, proving technique matters more than special gear.",
-        alternative: "Any quality 5A"
+        brand: 'Tama',
+        model: 'Mario Duplantier Signature',
+        specs: 'Signature model developed for his playing style',
+        description: "Mario's signature stick is built for the power and control needed to drive Gojira's dense, technical arrangements.",
+        alternative: "Any quality 5A or 5B"
       },
       heads: {
         kick: 'Remo Powerstroke P4 Clear',

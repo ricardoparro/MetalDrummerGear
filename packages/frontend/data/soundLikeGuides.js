@@ -9707,16 +9707,16 @@ This guide breaks down the technique, gear, and practice approach behind Mazurki
         alternative: "Pearl Sensitone or Tama Metalworks Steel for similar cut"
       },
       cymbals: {
-        brand: 'Sabian',
-        series: 'Sabian AAX / B8 Pro',
+        brand: 'Meinl',
+        series: 'Meinl Classics Custom / Byzance Series',
         setup: [
-          { type: 'Hi-Hats', model: 'Sabian 14" AAX Stage Hi-Hats', notes: 'Bright and cutting' },
-          { type: 'Crash', model: 'Sabian 18" AAX X-Plosion Crash', notes: 'Fast, explosive attack' },
-          { type: 'Crash', model: 'Sabian 19" AAX X-Plosion Crash', notes: 'Aggressive accents' },
-          { type: 'Ride', model: 'Sabian 20" AAX Stage Ride', notes: 'Defined bell for riding patterns' },
-          { type: 'China', model: 'Sabian 18" AAX X-Treme China', notes: 'Trashy accent for transitions' }
+          { type: 'Hi-Hats', model: 'Meinl 14" Classics Custom Hi-Hats', notes: 'Bright and cutting' },
+          { type: 'Crash', model: 'Meinl 18" Classics Custom Extreme Metal Crash', notes: 'Fast, explosive attack' },
+          { type: 'Crash', model: 'Meinl 19" Classics Custom Extreme Metal Crash', notes: 'Aggressive accents' },
+          { type: 'Ride', model: 'Meinl 20" Byzance Ride', notes: 'Defined bell for riding patterns' },
+          { type: 'China', model: 'Meinl 18" Classics Custom China', notes: 'Trashy accent for transitions' }
         ],
-        description: "Mazurkiewicz uses bright, cutting cymbals that punch through Cannibal Corpse's dense, downtuned guitars. Fast, explosive crashes suit the relentless accents of brutal death metal."
+        description: "Mazurkiewicz uses bright, cutting Meinl cymbals that punch through Cannibal Corpse's dense, downtuned guitars. Fast, explosive crashes suit the relentless accents of brutal death metal."
       },
       pedals: {
         brand: 'Pearl',
@@ -9726,16 +9726,16 @@ This guide breaks down the technique, gear, and practice approach behind Mazurki
       },
       sticks: {
         brand: 'Vic Firth',
-        model: 'Vic Firth 5B / Extreme 5B',
-        specs: 'Hickory, longer length for reach',
-        description: "Heavier sticks suit Mazurkiewicz's powerful, brutal attack. The extra weight delivers the heaviness his style demands while the longer length aids reach across the kit.",
+        model: 'Vic Firth Paul Mazurkiewicz Signature',
+        specs: 'Hickory, signature turning for his powerful, brutal attack',
+        description: "Mazurkiewicz's signature Vic Firth model is built for his powerful, brutal attack, delivering the heaviness his style demands while keeping control across the kit.",
         alternative: "Promark 5B or Vater Power 5B"
       },
       heads: {
-        kick: 'Evans',
-        snare: 'Evans',
-        toms: 'Evans',
-        resonant: 'Evans'
+        kick: 'Remo Powerstroke 3',
+        snare: 'Remo Emperor Coated',
+        toms: 'Remo Emperor Coated',
+        resonant: 'Remo'
       }
     },
     tuning: {

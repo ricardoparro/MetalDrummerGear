@@ -3173,10 +3173,10 @@ Orbin left Periphery in February 2009, replaced by Matt Halpern, who has recorde
       },
       sticks: {
         brand: 'Vic Firth',
-        model: 'Vic Firth 5A',
-        specs: '16" standard 5A',
-        description: "Travis uses standard 5A sticks, emphasizing that technique creates the sound rather than exotic equipment. The standard weight and tip give him consistent response across all surfaces.",
-        alternative: "Pro-Mark TX5AW or Zildjian 5A"
+        model: 'Vic Firth American Classic 5B',
+        specs: '5B length, .595" diameter, wood tip',
+        description: "Travis uses American Classic 5B sticks, emphasizing that technique creates the sound rather than exotic equipment. The heavier weight and tip give him consistent response across all surfaces.",
+        alternative: "Pro-Mark TX5BW or Zildjian 5B"
       },
       heads: {
         kick: 'Remo Powerstroke P3 Clear',

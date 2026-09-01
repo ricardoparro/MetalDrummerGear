@@ -2159,11 +2159,11 @@ This guide explores Matt's groove-first approach to modern progressive metal.`,
         alternative: "Pearl Eliminator Redline"
       },
       sticks: {
-        brand: 'Vic Firth',
-        model: 'Vic Firth Matt Halpern Signature',
-        specs: 'Slightly longer with teardrop tip',
-        description: "Matt's signature stick is designed for dynamic control with a tip that provides consistent cymbal response.",
-        alternative: "Vic Firth 5A or similar"
+        brand: 'Promark',
+        model: 'Promark TXMHW Matt Halpern Signature',
+        specs: '2B weight that plays like a 5B, hickory, wood tip',
+        description: "Matt's signature stick is a 2B-weight model built to play like a 5B, reflecting his philosophy that technique and mechanics generate power rather than heavy sticks.",
+        alternative: "Promark FBH5AW Forward 5A or similar"
       },
       heads: {
         kick: 'Evans EMAD Onyx',

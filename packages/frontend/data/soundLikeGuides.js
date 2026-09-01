@@ -9965,10 +9965,10 @@ This guide breaks down the technique, gear, and practice approach behind Christy
         description: "Christy uses bright, articulate cymbals that cut through dense arrangements while offering enough musical warmth for power metal's bigger production. The defined ride bell suits his technical riding patterns."
       },
       pedals: {
-        brand: 'Pearl',
-        model: 'Pearl Eliminator Double Pedal',
-        description: "Christy uses Pearl Eliminator pedals for their smooth, adjustable feel. The interchangeable cams let him fine-tune the response to support his famously even double bass technique.",
-        alternative: "Pearl Demon Drive or Tama Speed Cobra for similar smoothness"
+        brand: 'Axis',
+        model: 'A Longboard Double Pedal',
+        description: "Christy uses Axis A Longboard pedals for their direct-drive feel and immediate response. The longboard design supports his famously even double bass technique with minimal lost motion.",
+        alternative: "Axis A Shortboard or DW 9000 direct drive for similar response"
       },
       sticks: {
         brand: 'Vic Firth',

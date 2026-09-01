@@ -7954,10 +7954,10 @@ This guide covers Portnoy's core technique — odd-time navigation, orchestral d
         alternative: "Vic Firth 5B or Promark TX5AW for similar weight and feel"
       },
       heads: {
-        kick: 'Evans EQ4 Batter',
-        snare: 'Evans G2 Coated',
-        toms: 'Evans G2 Clear',
-        resonant: 'Evans G1 Clear'
+        kick: 'Remo Powerstroke P3 Clear',
+        snare: 'Remo Ambassador Coated',
+        toms: 'Remo Ambassador Coated',
+        resonant: 'Remo Ambassador Clear'
       }
     },
     tuning: {
@@ -8039,7 +8039,7 @@ This guide covers Portnoy's core technique — odd-time navigation, orchestral d
         cymbals: "Sabian AAX selection ($1,200)",
         pedals: "Tama Iron Cobra 900 Double ($500)",
         sticks: "Promark TXMP420XW-AG (Mike Portnoy Signature) ($12)",
-        heads: "Evans G2 full set ($200)",
+        heads: "Full Remo setup ($200)",
         notes: "Tama Starclassic Performer provides the multi-tom layout essential for prog metal fill vocabulary; the Promark signature stick is Portnoy's actual model."
       },
       pro: {
@@ -8049,7 +8049,7 @@ This guide covers Portnoy's core technique — odd-time navigation, orchestral d
         cymbals: "Full Sabian HHX / AAX selection ($2,000+)",
         pedals: "Tama Iron Cobra Power Glide Twin Pedal ($600)",
         snare: "Tama Mike Portnoy Signature Melody Master 14\" x 5.5\" ($400)",
-        heads: "Full Evans EQ4 / G2 set ($300)",
+        heads: "Full Remo setup ($300)",
         notes: "Tama Starclassic and the Melody Master snare are Portnoy's actual endorsement gear. Full Sabian HHX/AAX selection provides the coloristic range prog metal arrangements require."
       }
     },

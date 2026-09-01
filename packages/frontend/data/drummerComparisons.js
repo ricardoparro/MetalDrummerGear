@@ -239,7 +239,7 @@ export const drummerComparisons = {
     comparison: {
       style: 'Ray brings session musician precision to Korn\'s heavy grooves. Abe delivers atmospheric, dynamic playing with emotional depth.',
       technique: 'Ray excels at tight, syncopated patterns with David Silveria\'s legacy. Abe masters dynamics and textural playing.',
-      gear: 'Ray endorses Pearl drums with Zildjian cymbals. Abe plays DW drums with Zildjian for warm tones.',
+      gear: 'Ray endorses Pearl drums with Sabian cymbals. Abe plays DW drums with Zildjian for warm tones.',
       influence: 'Ray maintains Korn\'s classic sound while adding technical flair. Abe helped define the Deftones\' atmospheric metal approach.',
     },
     verdict: 'Ray Luzier honors and evolves Korn\'s signature sound. Abe Cunningham pioneered atmospheric metal drumming. Both define alternative metal\'s evolution.',

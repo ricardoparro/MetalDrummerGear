@@ -7035,3 +7035,48 @@ All 8 verified directly (not just agent-reported): read the exact `endorsementNe
 2. **`soundLikeGuides.js` dedicated-guide gear blocks are a promising under-swept front** (6/8 findings this run) — next sweep should prioritize checking remaining un-audited `how-to-sound-like-*` entries against `endorsementNews.js` before going back to `drummerComparisons.js`/`genreGearGuides.js`.
 3. Standing flag (unchanged, 4 drummers): Mike Mangini, Flo Mounier, Nick Menza, Vinnie Paul have `endorsementNews.js`-vs-`extendedBios.js` source conflicts needing a founder/CEO ruling before target-file fixes are safe.
 4. Drum-chair watch: next due Monday 2026-09-07 (week 37, group 1 = death, deftones, entheos, godsmack, gojira, hellyeah, korn).
+
+---
+
+## 2026-09-01 (16th sweep round) — 7 fresh gear-fabrication proposals filed (#6619-6625), corrected an agent line-attribution error before filing
+
+### Bank check
+Open `seo-proposal` at run start: 7 total — 4 fresh untriaged (#6600, #6604-6606, filed prior evening, already promoted to `ai-fix` per decisions-log 03:39 UTC cheap pulse) + 3 standing umbrellas (#3810/#3819/#2211). True untriaged bank: 0. Well under the 45 cap → cleared to file up to 8 net-new.
+
+### Audit summary
+- Robots.txt (live curl, GPTBot UA): all 8 AI crawlers explicitly allowed (GPTBot, ChatGPT-User, ClaudeBot, anthropic-ai, PerplexityBot, Applebot-Extended, cohere-ai, Google-Extended). ✅
+- `/public/llms/*.md`: directory confirmed live at `public/llms`. ✅
+- Metrics (2026-09-01 05:51 UTC): 259 users/300 sessions/471 views (7d); GSC 6,650 impr/140 clicks/2.11% CTR/pos 9.5. 3 content-gap rows (`metalforge`, `danny carey drum kit`, `joey jordison drum kit`) — same rows as every recent run, all already held per `learned-patterns.md` precedent (name-collision / content-ceiling). No new fix.
+- Drum-chair watch: today is Tuesday (2026-09-01); the week's Monday sweep already ran 2026-08-31 per the prior entry — not repeated this run per the "first run each Monday" gate.
+
+### This run's sweep
+Dispatched a research agent to prioritize the `soundLikeGuides.js` under-swept front flagged by the 15th round, then fall back to `drummerComparisons.js`. **Caught and corrected a real error in the agent's report before filing**: its first candidate (Dirk Verbeuren drums, cited at soundLikeGuides.js:875) actually pointed at a block inside the *Dave Lombardo* guide (correct content, not a bug) — the agent pattern-matched on the shared string "Tama Starclassic Walnut/Birch" across multiple unrelated guide entries without checking which drummer-key block each line fell inside. Re-derived Dirk Verbeuren's real gear block (starts line 13052) directly via `grep -n` + key-boundary checks, and personally re-verified all 7 final candidates (exact line numbers, exact quoted text, key boundaries, `endorsementNews.js` cross-reference, and a fresh `gh issue list --state all --search` dedup pass) before filing — none were taken on the agent's line citations alone.
+
+1. **#6619** — Dirk Verbeuren drums fabricated as Tama Starclassic Walnut/Birch (3 locations: model field + budget-alt note + FAQ answer) in his `soundLikeGuides.js` dedicated guide, verified Starclassic Maple since 2016. Root-caused as likely cross-contamination from the Dave Lombardo guide, which correctly uses the Walnut/Birch text for its own (correct) drummer.
+2. **#6620** — Dirk Verbeuren sticks fabricated as Promark Shira Kashi Oak 5B in the same guide, verified Tama O-DVM2 signature since 2016.
+3. **#6621** — Frost drums fabricated as Pearl Custom/Reference in his `soundLikeGuides.js` dedicated guide, verified Tama Starclassic Bubinga since 2013 — 3 prior fixes (#6327/#6465/#6547/#6534/#6149) never touched this file.
+4. **#6622** — Mike Portnoy heads fabricated as a full Evans setup (4 fields) in his `soundLikeGuides.js` dedicated guide, verified Remo since 1980s — same fabrication class as #6548/#6549 (cymbals/pedal in `albumArticles/mike-portnoy.js`) but a fresh field in a different file.
+5. **#6623** — Tomas Haake cymbals fabricated as "Sabian Vault and HH Series" in `drummerComparisons.js` (`brann-dailor-vs-tomas-haake`), verified Sabian HHX & AAX Series — drums half of the same entry (Sonor SQ2) is already correct.
+6. **#6624** — Derek Roddy sticks fabricated as a nonexistent "Vic Firth Derek Roddy Signature" model in `drummerComparisons.js` (`derek-roddy-vs-tim-yeung`), verified Vater 5B since 2001 — drums/cymbals/pedal in the same entry are already correct, isolating this to a wholly-invented product name, not just a wrong brand.
+7. **#6625** — Dave Lombardo drums/snare/pedal/sticks fabricated as Pearl/Vic Firth in `drummerComparisons.js` (`paul-bostaph-vs-dave-lombardo`), verified Tama Starclassic Walnut/Birch/Promark Signature 2Bx — cymbals (Paiste RUDE) already correct; bundled the 3 wrong fields into one issue since they're all in the same gear paragraph + FAQ answer.
+
+### Proposals filed this run (7)
+1. #6619 — Dirk Verbeuren drums (soundLikeGuides.js)
+2. #6620 — Dirk Verbeuren sticks (soundLikeGuides.js)
+3. #6621 — Frost drums (soundLikeGuides.js)
+4. #6622 — Mike Portnoy heads (soundLikeGuides.js)
+5. #6623 — Tomas Haake cymbals (drummerComparisons.js)
+6. #6624 — Derek Roddy sticks (drummerComparisons.js)
+7. #6625 — Dave Lombardo drums/snare/pedal/sticks (drummerComparisons.js)
+
+### Open proposals waiting on CEO triage
+- #6619-6625 (filed this run, 0d old)
+- #6600, #6604-6606 (filed prior evening, already promoted to `ai-fix` per decisions-log 03:39 UTC)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers only.
+
+### Next run
+1. Watch #6619-6625 ship via Roadie/PR Merger.
+2. **Research-agent line citations are not self-verifying** — when a fabricated brand/model string is shared across multiple guides for different (legitimately-matching) drummers, always re-derive the exact drummer-key block boundaries (`grep -n "^  '"` before/after the claimed line) before filing, not just trust the agent's line number.
+3. `soundLikeGuides.js` dedicated guides continue to be a high-yield surface (4 of 7 findings this run) — several `how-to-sound-like-*` entries still unaudited; keep prioritizing before moving to `genreGearGuides.js`.
+4. Standing flag (unchanged, 4 drummers): Mike Mangini, Flo Mounier, Nick Menza, Vinnie Paul have `endorsementNews.js`-vs-`extendedBios.js` source conflicts needing a founder/CEO ruling before target-file fixes are safe.
+5. Drum-chair watch: next due Monday 2026-09-07 (week 37, group 1 = death, deftones, entheos, godsmack, gojira, hellyeah, korn).

@@ -12190,10 +12190,10 @@ This guide breaks down the technique, gear, and practice approach behind Ward's 
         alternative: "Vic Firth American Classic 5A or 5B depending on desired weight and rebound."
       },
       heads: {
-        kick: 'Ludwig Weather King (batter and resonant)',
-        snare: 'Ludwig Weather King Coated (batter), Ludwig Weather King Clear (snare side)',
-        toms: 'Ludwig Weather King Coated',
-        resonant: 'Ludwig Weather King Clear'
+        kick: 'Remo Ambassador Coated',
+        snare: 'Remo Ambassador Coated (batter), Remo Ambassador Clear (snare side)',
+        toms: 'Remo Ambassador Coated',
+        resonant: 'Remo Ambassador Clear'
       }
     },
     tuning: {

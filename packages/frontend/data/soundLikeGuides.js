@@ -7954,10 +7954,10 @@ This guide covers Portnoy's core technique — odd-time navigation, orchestral d
         alternative: "Vic Firth 5B or Promark TX5AW for similar weight and feel"
       },
       heads: {
-        kick: 'Evans EQ4 Batter',
-        snare: 'Evans G2 Coated',
-        toms: 'Evans G2 Clear',
-        resonant: 'Evans G1 Clear'
+        kick: 'Remo Powerstroke 3 Clear',
+        snare: 'Remo Ambassador Coated',
+        toms: 'Remo Ambassador Clear',
+        resonant: 'Remo Ambassador Clear'
       }
     },
     tuning: {

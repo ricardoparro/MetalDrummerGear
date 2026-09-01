@@ -7080,3 +7080,51 @@ Dispatched a research agent to prioritize the `soundLikeGuides.js` under-swept f
 3. `soundLikeGuides.js` dedicated guides continue to be a high-yield surface (4 of 7 findings this run) — several `how-to-sound-like-*` entries still unaudited; keep prioritizing before moving to `genreGearGuides.js`.
 4. Standing flag (unchanged, 4 drummers): Mike Mangini, Flo Mounier, Nick Menza, Vinnie Paul have `endorsementNews.js`-vs-`extendedBios.js` source conflicts needing a founder/CEO ruling before target-file fixes are safe.
 5. Drum-chair watch: next due Monday 2026-09-07 (week 37, group 1 = death, deftones, entheos, godsmack, gojira, hellyeah, korn).
+
+---
+
+## 2026-09-01 (17th sweep round) — 8 fresh gear-fabrication proposals filed (#6632-6639), soundLikeGuides.js surface continued
+
+### Bank check
+Open `seo-proposal` at run start: 10 total — 7 from this morning's deep run (#6619-6625, already promoted to `ai-fix` per decisions-log 11:08 UTC) + 3 standing umbrellas (#3810/#3819/#2211). True untriaged bank: 0. Well under the 45 cap → cleared to file up to 8 net-new.
+
+### Audit summary
+- Robots.txt (live curl, GPTBot UA): all 8 AI crawlers explicitly allowed. ✅
+- `/public/llms/*.md`: 57 files live.
+- Metrics (2026-09-01 12:13 UTC): 271 users/314 sessions/489 views (7d); GSC 6,650 impr/140 clicks/2.11% CTR/pos 9.5. Same 3 content-gap rows (`metalforge`, `danny carey drum kit`, `joey jordison drum kit`) — all held per existing precedent, no new fix.
+- Drum-chair watch: already ran this week (Monday 2026-08-31 per prior entry) — not repeated.
+
+### This run's sweep
+Dispatched a research agent to continue auditing `soundLikeGuides.js` `how-to-sound-like-*` entries not yet fully checked (every field, since prior fixes have often been partial — one field fixed, siblings left stale). Personally re-verified all 8 final candidates via direct `grep`/`sed` reads on both `soundLikeGuides.js` and `endorsementNews.js` before filing, and ran a `gh issue list --state all --search "<name>"` dedup pass per drummer to confirm no existing issue already covers the specific file+field.
+
+1. **#6632** — Matt Halpern sticks fabricated as generic Vic Firth signature, verified Promark since 2015.
+2. **#6633** — Mario Duplantier sticks fabricated as generic Vic Firth 5A, verified Tama signature since 2010s — distinct from #6404's already-fixed cymbals field in the same guide.
+3. **#6634** — Shannon Larkin drums/cymbals/sticks/heads (4 fields, one entry) fabricated vs. verified ddrum Dios/Sabian AAX/Vic Firth 5B/Evans since 2002 — pedals field already correct, left untouched.
+4. **#6635** — Mikkey Dee sticks fabricated as generic Vic Firth, verified Wincent signature — distinct from #5694's already-fixed top-level description text in the same guide (different sub-field).
+5. **#6636** — Blake Richardson entire gear section (drums/cymbals/pedal/heads/sticks-model, 5 fields) frozen at the pre-2018 setup vs. verified 2018 across-the-board brand switch (Tama/Sabian/Tama-hardware/Evans, documented in endorsementNews.js's own dated timeline) — first fix ever targeting this specific guide/file for this drummer (all 10+ prior Blake Richardson issues touched other files).
+6. **#6637** — Richard Christy pedal fabricated as Pearl Eliminator, verified Axis A Longboard since 1998 — distinct file from #6528/#6405's already-fixed drummerComparisons.js pedal fabrications.
+7. **#6638** — Bill Ward heads fabricated as Ludwig Weather King, verified Remo Ambassador Coated since 1970 — rest of this guide entry (drums/cymbals/sticks/pedal) already correct, isolating this as a one-field fabrication.
+8. **#6639** — Paul Mazurkiewicz cymbals/heads/sticks-model (3 fields) fabricated as Sabian/Evans/generic-Vic-Firth, verified Meinl/Remo/signature-Vic-Firth — deliberately left `drumKit.model` out of scope (recently touched by #6444, a `Reference` vs `Masters Maple Complete` nuance not confidently resolvable without an external source, avoided filing a possibly-conflicting fix).
+
+### Proposals filed this run (8)
+1. #6632 — Matt Halpern sticks (soundLikeGuides.js)
+2. #6633 — Mario Duplantier sticks (soundLikeGuides.js)
+3. #6634 — Shannon Larkin drums/cymbals/sticks/heads (soundLikeGuides.js)
+4. #6635 — Mikkey Dee sticks (soundLikeGuides.js)
+5. #6636 — Blake Richardson drums/cymbals/pedal/heads/sticks-model (soundLikeGuides.js)
+6. #6637 — Richard Christy pedal (soundLikeGuides.js)
+7. #6638 — Bill Ward heads (soundLikeGuides.js)
+8. #6639 — Paul Mazurkiewicz cymbals/heads/sticks-model (soundLikeGuides.js)
+
+### Open proposals waiting on CEO triage
+- #6632-6639 (filed this run, 0d old)
+- #6619-6625 (filed this morning, already promoted to `ai-fix` per decisions-log 11:08 UTC)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers only.
+
+### Next run
+1. Watch #6632-6639 ship via Roadie/PR Merger.
+2. Two more `soundLikeGuides.js` candidates already personally verified this run but held back to respect the 8-per-run cap — ready to file next run without re-verification: **Abe Cunningham** sticks (Zildjian vs verified Pro-Mark, `soundLikeGuides.js:15361-15366`) + heads (Evans vs verified Remo, `soundLikeGuides.js:15368-15373`); **Daniel Erlandsson** sticks (Vic Firth vs verified ProMark, `soundLikeGuides.js:6894-6899`) + cymbals (Paiste RUDE vs verified Sabian AAX/HHX since 2014, `soundLikeGuides.js:6879-6884`).
+3. Paul Mazurkiewicz `drumKit.model` ('Pearl Masters Maple Complete' vs endorsementNews.js's 'Reference') flagged but NOT filed — #6444 recently touched this exact field; the discrepancy may be a legitimate product-line nuance (Pearl's Reference line sits under the Masters umbrella) rather than a fresh error. Needs an external source check (official Pearl artist page) before treating as fabrication, not a plain grep-diff.
+4. `soundLikeGuides.js` dedicated guides remain the highest-yield surface — continue prioritizing before moving to `genreGearGuides.js`/`albumArticles/*.js`.
+5. Standing flag (unchanged, 4 drummers): Mike Mangini, Flo Mounier, Nick Menza, Vinnie Paul have `endorsementNews.js`-vs-`extendedBios.js` source conflicts needing a founder/CEO ruling before target-file fixes are safe.
+6. Drum-chair watch: next due Monday 2026-09-07 (week 37, group 1 = death, deftones, entheos, godsmack, gojira, hellyeah, korn).

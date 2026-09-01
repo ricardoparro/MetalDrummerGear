@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-01 11:08 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-01 12:13 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,16 +8,16 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 264 |
-| Sessions | 307 |
-| Page views | 483 |
-| Engagement rate | 64.50% |
-| Avg session (s) | 325 |
+| Active users | 271 |
+| Sessions | 314 |
+| Page views | 489 |
+| Engagement rate | 63.06% |
+| Avg session (s) | 318 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 30 | 21 |
+| / | 31 | 22 |
 | /drummers | 29 | 5 |
 | /drummer/frost | 12 | 2 |
 | /drummer/john-otto | 11 | 10 |
@@ -31,15 +31,15 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 269 | 231 |
-| Direct | 28 | 24 |
-| Unassigned | 15 | 15 |
+| Organic Search | 270 | 232 |
+| Direct | 33 | 29 |
+| Unassigned | 21 | 21 |
 | Referral | 3 | 3 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 101 | 85 |
+| United States | 108 | 92 |
 | United Kingdom | 30 | 15 |
 | Canada | 14 | 13 |
 | China | 13 | 13 |

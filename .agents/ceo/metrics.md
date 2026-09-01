@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-08-31 23:09 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-01 03:39 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,90 +8,90 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 285 |
-| Sessions | 327 |
-| Page views | 502 |
-| Engagement rate | 56.88% |
-| Avg session (s) | 300 |
+| Active users | 257 |
+| Sessions | 298 |
+| Page views | 469 |
+| Engagement rate | 55.70% |
+| Avg session (s) | 327 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
 | / | 30 | 21 |
 | /drummers | 29 | 5 |
+| /drummer/frost | 11 | 2 |
 | /drummer/john-otto | 11 | 10 |
-| /drummer/mario-duplantier | 11 | 9 |
-| /drummer/frost | 10 | 2 |
+| /drummer/mario-duplantier | 9 | 7 |
 | /drummer/nicko-mcbrain | 9 | 4 |
 | /drummer/eloy-casagrande | 8 | 6 |
 | /drummer/danny-carey | 7 | 4 |
-| /drummer/igor-cavalera | 7 | 6 |
 | /drummer/jaska-raatikainen | 7 | 5 |
+| /drummers/joey-jordison/evolution | 7 | 3 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 278 | 241 |
-| Unassigned | 41 | 35 |
-| Direct | 31 | 28 |
+| Organic Search | 254 | 219 |
+| Unassigned | 48 | 42 |
+| Direct | 26 | 23 |
 | Referral | 3 | 3 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 104 | 87 |
-| United Kingdom | 31 | 17 |
-| Canada | 16 | 15 |
-| China | 16 | 16 |
-| Brazil | 12 | 12 |
-| Germany | 12 | 12 |
-| Australia | 10 | 10 |
-| Finland | 10 | 10 |
-| France | 10 | 10 |
-| Sweden | 8 | 8 |
+| United States | 99 | 83 |
+| United Kingdom | 28 | 14 |
+| Canada | 14 | 13 |
+| China | 13 | 13 |
+| Brazil | 11 | 11 |
+| Australia | 9 | 9 |
+| France | 9 | 9 |
+| Germany | 9 | 9 |
+| Finland | 8 | 8 |
+| India | 7 | 5 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 7,902 |
-| Clicks | 168 |
-| CTR | 2.13% |
-| Avg position | 9.3 |
+| Impressions | 6,650 |
+| Clicks | 140 |
+| CTR | 2.11% |
+| Avg position | 9.5 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| metalforge | 699 | 3 | 0.43% | 7.0 |
-| any others? | 1 | 1 | 100.00% | 6.0 |
-| best metal drummers of all time | 21 | 1 | 4.76% | 9.2 |
-| danny carey drum kit | 97 | 1 | 1.03% | 10.7 |
+| metalforge | 574 | 3 | 0.52% | 7.0 |
+| best metal drummers of all time | 18 | 1 | 5.56% | 9.3 |
+| danny carey drum kit | 78 | 1 | 1.28% | 10.7 |
 | danny carey drum kit setup | 4 | 1 | 25.00% | 9.3 |
 | death metal drummers | 4 | 1 | 25.00% | 5.3 |
 | eloy casagrande drum kit | 29 | 1 | 3.45% | 9.7 |
-| extreme.drumming | 2 | 1 | 50.00% | 9.5 |
-| hellhammer drum kit | 11 | 1 | 9.09% | 3.7 |
+| hellhammer drum kit | 9 | 1 | 11.11% | 3.6 |
 | iggor cavalera drum kit | 7 | 1 | 14.29% | 4.6 |
+| igor cavalera drum kit | 5 | 1 | 20.00% | 3.2 |
+| jaska raatikainen drum set | 4 | 1 | 25.00% | 6.3 |
 
 ### Top countries (impressions, last 7d)
 | Country | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| usa | 2,727 | 51 | 1.87% | 8.9 |
-| can | 339 | 11 | 3.24% | 7.7 |
-| fra | 207 | 10 | 4.83% | 7.0 |
-| gbr | 414 | 8 | 1.93% | 8.5 |
-| bra | 198 | 7 | 3.54% | 7.0 |
-| deu | 272 | 7 | 2.57% | 7.7 |
-| fin | 101 | 7 | 6.93% | 7.1 |
-| aus | 358 | 6 | 1.68% | 7.9 |
-| nld | 141 | 5 | 3.55% | 7.1 |
-| esp | 103 | 4 | 3.88% | 7.7 |
+| usa | 2,281 | 42 | 1.84% | 8.9 |
+| can | 278 | 10 | 3.60% | 7.7 |
+| bra | 179 | 7 | 3.91% | 7.1 |
+| fra | 162 | 7 | 4.32% | 7.0 |
+| deu | 245 | 6 | 2.45% | 7.9 |
+| aus | 280 | 5 | 1.79% | 7.8 |
+| fin | 92 | 5 | 5.43% | 7.1 |
+| esp | 86 | 4 | 4.65% | 8.0 |
+| gbr | 360 | 4 | 1.11% | 8.6 |
+| ita | 111 | 4 | 3.60% | 6.6 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 | Query | Impr | CTR | Pos | Action |
 | --- | --- | --- | --- | --- |
-| metalforge | 699 | 0.43% | 7.0 | open issue to answer better |
-| danny carey drum kit | 97 | 1.03% | 10.7 | open issue to answer better |
-| joey jordison drum kit | 72 | 1.39% | 10.5 | open issue to answer better |
+| metalforge | 574 | 0.52% | 7.0 | open issue to answer better |
+| danny carey drum kit | 78 | 1.28% | 10.7 | open issue to answer better |
+| joey jordison drum kit | 68 | 1.47% | 10.4 | open issue to answer better |
 
 ---
 *Re-run manually: `node .agents/scripts/fetch-metrics.cjs`*

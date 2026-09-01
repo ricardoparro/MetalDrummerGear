@@ -6359,10 +6359,10 @@ Understanding his style means abandoning the impulse toward complexity. Dee's dr
         alternative: "DW 3000 Series or Tama Speed Cobra direct drive for comparable performance"
       },
       sticks: {
-        brand: 'Vic Firth',
-        model: 'Vic Firth 5B or 2B',
-        specs: '5B or 2B weight, hickory',
-        description: "Dee uses heavier sticks — 5B or 2B weight in hickory — that match the physical demands of his arm-powered playing style. Lighter sticks would flex under his full-arm strokes and not provide the consistent impact his groove demands. Hickory's natural flex and moderate weight make 5B and 2B sticks appropriate for extended high-energy performance.",
+        brand: 'Wincent',
+        model: 'Mikkey Dee Signature',
+        specs: 'Signature model, hickory',
+        description: "Dee plays his own Wincent Mikkey Dee Signature stick, built to match the physical demands of his arm-powered playing style. A heavier, durable hickory stick provides the consistent impact his groove demands without flexing under his full-arm strokes.",
         alternative: "Promark 5B or 2B in hickory, or Vater 5B Manhattan for comparable weight and durability"
       },
       heads: {

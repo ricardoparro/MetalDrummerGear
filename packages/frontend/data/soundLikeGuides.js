@@ -13166,10 +13166,10 @@ This guide breaks down the technique, gear, and practice approach behind Verbeur
         alternative: "DW 5000 Double or Pearl Eliminator for a similarly responsive double bass feel."
       },
       sticks: {
-        brand: 'Promark',
-        model: 'Promark Shira Kashi Oak 5B',
-        specs: 'Oak, 5B weight',
-        description: "A denser, heavier oak stick that holds up to sustained extreme-tempo playing while still offering the control needed for precise groove work.",
+        brand: 'Tama',
+        model: 'Tama O-DVM2 Signature',
+        specs: '5B-equivalent weight, signature model',
+        description: "A denser, 5B-equivalent signature stick that holds up to sustained extreme-tempo playing while still offering the control needed for precise groove work.",
         alternative: "Vic Firth 5B or Ahead 5B for similar weighted durability."
       },
       heads: {
@@ -13249,7 +13249,7 @@ This guide breaks down the technique, gear, and practice approach behind Verbeur
         kit: "Tama Imperialstar ($1,900)",
         cymbals: "Meinl Classics Custom Dark partial set ($1,050)",
         pedals: "Tama Speed Cobra Double Pedal ($350)",
-        sticks: "Promark Shira Kashi Oak 5B ($10)",
+        sticks: "Vic Firth American Classic 5B ($10)",
         notes: "The Speed Cobra pedal upgrade is key — it's the exact model behind Verbeuren's double bass precision."
       },
       pro: {
@@ -13269,7 +13269,7 @@ This guide breaks down the technique, gear, and practice approach behind Verbeur
       },
       {
         question: "What gear should I use to sound like Dirk Verbeuren?",
-        answer: "Verbeuren plays a Tama Starclassic Walnut/Birch kit with a double 22\" x 18\" bass drum configuration, a 14\" x 6.5\" Tama S.L.P. Big Black Steel snare, Meinl Byzance Brilliant & Classics Custom Dark cymbals, a Tama Speed Cobra 910 double pedal, and Promark Shira Kashi Oak 5B sticks. A Pearl Export kit with Meinl HCS cymbals approximates the attack-focused character on a budget."
+        answer: "Verbeuren plays a Tama Starclassic Walnut/Birch kit with a double 22\" x 18\" bass drum configuration, a 14\" x 6.5\" Tama S.L.P. Big Black Steel snare, Meinl Byzance Brilliant & Classics Custom Dark cymbals, a Tama Speed Cobra 910 double pedal, and Tama O-DVM2 signature sticks. A Pearl Export kit with Meinl HCS cymbals approximates the attack-focused character on a budget."
       },
       {
         question: "What tempo should I practice at to sound like Dirk Verbeuren?",

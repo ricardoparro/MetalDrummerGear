@@ -7128,3 +7128,39 @@ Dispatched a research agent to continue auditing `soundLikeGuides.js` `how-to-so
 4. `soundLikeGuides.js` dedicated guides remain the highest-yield surface — continue prioritizing before moving to `genreGearGuides.js`/`albumArticles/*.js`.
 5. Standing flag (unchanged, 4 drummers): Mike Mangini, Flo Mounier, Nick Menza, Vinnie Paul have `endorsementNews.js`-vs-`extendedBios.js` source conflicts needing a founder/CEO ruling before target-file fixes are safe.
 6. Drum-chair watch: next due Monday 2026-09-07 (week 37, group 1 = death, deftones, entheos, godsmack, gojira, hellyeah, korn).
+
+---
+
+## 2026-09-01 (evening run) — gear-fabrication sweep widened into genreGearGuides.js/albumArticles: 8 verified findings filed (#6656-6663), including a large Gene Hoglan whole-file prose sweep
+
+### Bank check
+Open `seo-proposal` at run start: 13 — 10 already `ai-fix`-labeled/promoted earlier today (#6620/#6621 + #6632-6639) + 3 standing umbrellas (#3810/#3819/#2211). True untriaged bank: 0. Cleared to file up to 8 net-new.
+
+### Audit summary
+- Robots.txt: all 8 AI crawlers (GPTBot, ClaudeBot, PerplexityBot, anthropic-ai, Google-Extended, Applebot-Extended, cohere-ai, ChatGPT-User) explicitly allowed. ✅
+- `/public/llms/**/*.md`: 2,011 files live, unchanged.
+- GSC content-gap (3 rows, same 7d window as this morning's runs): `metalforge` (574 impr/0.52% CTR), `danny carey drum kit` (78 impr/1.28% CTR), `joey jordison drum kit` (68 impr/1.47% CTR) — all already held per documented `learned-patterns.md` precedent (SERP name-collision / content-ceiling / first-click-conversion). No new action.
+- L1/L2/L3: no fresh snapshot since 08-31 generation; next weekly refresh due ~09-07.
+
+### This run's widening
+`soundLikeGuides.js`/`drummerComparisons.js` (this week's dominant veins) are thinning per the note logged after the 12:22 UTC batch. Widened into `genreGearGuides.js` and `albumArticles/*.js` this run per that plan. Delegated the initial cross-reference sweep to a research pass, then personally re-verified every candidate via direct grep/sed/gh before filing (caught and corrected one candidate's scope — see #6662 below — and confirmed the other 7 exactly as researched).
+
+### Proposals filed this run (8)
+1. #6656 — Danny Carey snare (genreGearGuides.js, 3rd doom-metal guide untouched by #6573)
+2. #6657 — Igor Cavalera drums+cymbals (albumArticles/igor-cavalera.js, Inflikted/Blunt Force Trauma — Tama/Paiste vs verified ddrum/Zildjian since 2006)
+3. #6658 — Chris Turner sticks (genreGearGuides.js deathcore-sticks guide)
+4. #6659 — Chris Turner drum kit wood (genreGearGuides.js deathcore-drum-kits guide, Walnut vs verified Maple)
+5. #6660 — Art Cruz pedal (genreGearGuides.js, 2 metalcore-pedal guides, DW vs verified Trick Pro 1-V)
+6. #6661 — John Otto cymbals/pedal/sticks (drummerComparisons.js, eloy-casagrande-vs-john-otto entry — 3 fields)
+7. #6662 — Gene Hoglan albumArticles.js whole-file prose sweep (~140 Zildjian/DW 9000 mentions across 4 sub-articles; prior #5969/#6256 only fixed narrow JSON gear-spec blocks, never the surrounding prose)
+8. #6663 — Alex Bent snare depth (drummerComparisons.js, 2 entries, 6.5" vs verified 5")
+
+### Open proposals waiting on CEO triage
+- #6656-6663 (filed this run, 0d old)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers only.
+
+### Next run
+1. Watch #6656-6663 ship via Roadie/PR Merger.
+2. #6662 (Gene Hoglan) is unusually large in line-count (~140 replacements across 1 file) — worth checking it actually ships cleanly rather than getting stuck; flag to CEO if it stalls.
+3. `genreGearGuides.js` (116K lines) and `albumArticles/*.js` (71 files) confirmed as fresh, high-yield ground this run — continue widening here before returning to `soundLikeGuides.js`/`drummerComparisons.js`.
+4. Drum-chair watch: already logged this week (due next Monday 2026-09-07, week 37 group 1) — not due this run (Tuesday).

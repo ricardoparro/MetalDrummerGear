@@ -5,6 +5,38 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-09-01 03:39 UTC*
 
 ---
+## 2026-09-01 16:05 — Mid-day pulse: 8 fresh gear-fabrication proposals promoted (#6632-6639); Roadie progress on #6619-6625 confirmed healthy
+
+### Context (≤3 lines)
+First run after 13:00 UTC (mid-day pulse). Metrics 16:05 UTC (278 users/321 sessions/497 views 7d; GSC 6,650 impr/140 clicks/2.11% CTR/pos 9.5, same window as 11:08). Eligible `ai-fix` backlog 2 at run start (#6620/#6621, the only unshipped issues from this morning's #6619-6625 batch — 5/7 already merged/closed), 0 open PRs, 8 fresh untriaged `seo-proposal` (#6632-6639, filed 12:22-12:23 UTC) plus the 3 standing L1/L2/L3 umbrellas (#3810/#3819/#2211).
+
+### Actions taken
+- **Roadie progress check**: 5 of the morning's 7 (#6619, #6622-6625) shipped and closed since 11:08; #6620 (Halpern-file... Dirk Verbeuren sticks) and #6621 (Frost drums) still open, no PR yet, no comments — not stale (only ~10h old, `roadie.yml` last ran 12:33 UTC, 3-wide daytime cadence), no intervention needed.
+- **Promoted all 8** (`ai-fix`), same systemic gear-brand-fabrication class (`soundLikeGuides.js` dedicated-guide fields contradicting verified `endorsementNews.js`). #6632 (Matt Halpern sticks fabricated Vic Firth signature vs verified Promark since 2015), #6633 (Mario Duplantier sticks fabricated generic Vic Firth 5A + false "nothing fancy" narrative vs verified Tama signature — cymbals field already fixed by #6404, sticks untouched), #6634 (Shannon Larkin 4-of-5 fields fabricated vs verified ddrum/Sabian/Vic Firth/Evans since 2002), #6635 (Mikkey Dee sticks fabricated generic Vic Firth vs verified Wincent signature — distinct field from #5694/#5973's already-fixed description/albumArticles fixes), #6636 (Blake Richardson whole-guide frozen pre-2018 vs verified 2018 brand-wide switch), #6637 (Richard Christy pedal fabricated Pearl Eliminator vs verified Axis A Longboard — distinct file from #6528/#6405's drummerComparisons.js fixes), #6638 (Bill Ward heads fabricated nonexistent "Ludwig Weather King" vs verified Remo Ambassador Coated — distinct field from #6574's cymbals fix in the same guide), #6639 (Paul Mazurkiewicz cymbals/heads/sticks-model fabricated vs verified Meinl/Remo/signature-VicFirth — drums field intentionally out of scope, recently touched by #6444). Live-verified 2 directly via grep/sed: **#6632** — confirmed `soundLikeGuides.js:2161-2166` still has `brand: 'Vic Firth', model: 'Vic Firth Matt Halpern Signature'` against `endorsementNews.js:598`'s verified `sticks: { brand: 'Promark', since: '2015', signature: true }`. **#6639** — confirmed `soundLikeGuides.js:9709-9710` still has `'Sabian', 'Sabian AAX / B8 Pro'` against `endorsementNews.js:2336`'s verified `cymbals: { brand: 'Meinl', model: 'Classics Custom / Byzance Series' }`. Searched `state:all` per drummer name for all 8 — no true duplicates; each cites and distinguishes itself from prior closed fixes in different files/fields. All single- or multi-field fixes on existing URLs, zero new pages — freeze-compliant.
+- **Backlog gate**: 2 → 10, well under the 45/80 threshold; promoted liberally per rule.
+- **GSC content-gap**: same 3 rows as the 11:08 run (`metalforge` 574 impr/0.52% CTR, `danny carey drum kit` 78 impr/1.28% CTR, `joey jordison drum kit` 68 impr/1.47% CTR), unchanged metrics (same 7-day window) — all already held per documented `learned-patterns.md` precedent. No new action.
+- **L1/L2/L3** (#3810/#3819/#2211): snapshot files still the 2026-08-31 generation, already fully closed out this morning. Next weekly refresh due ~09-07.
+- **Founder ideas**: inbox empty, unchanged since 06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 — all `updatedAt` unchanged, no re-spam.
+- **Stale-issue / atomic-split sweep**: 22 `hold`-labeled `ai-fix` issues (pre-existing freeze-blocked roster/band splits) re-confirmed, none eligible. New promotions all single/dual-file, atomic.
+- **Starvation check**: post-triage backlog=10, bank=0 (excl. umbrellas) — not starved, fresh same-cycle supply.
+
+### State delta
+- ai-fix backlog: 2 → 10 (#6632-6639)
+- seo-proposal bank (excl. umbrellas): 8 → 0
+- Org/Sessions/Views (7d): 278/321/497 · GSC 6,650 impr/140 clicks/2.11% CTR/pos 9.5 (flat vs 11:08)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 8/8 fresh triaged, live-verified (2 direct + 6 pattern-match), promoted, no duplicates, freeze-compliant. ✅ GSC-gap: 3 rows re-confirmed held on documented precedent. ✅ L1/L2/L3: still 08-31 generation, no regression. ✅ Starvation: not triggered. ✅ Atomic split: 22 stale issues re-checked, all `hold`-labeled, none eligible; new work all atomic. ✅ Decisions logged.
+
+### Next Run
+1. Watch #6620/#6621 (last of this morning's batch) and #6632-6639 ship via Roadie/PR Merger.
+2. Evening review due ~19:00 UTC.
+3. Watch for the next L1/L2/L3 weekly refresh (last 08-31, due ~09-07).
+4. If backlog is still <15 with an actually-starved (bank ≤2) proposal supply at the next run, that starts the starvation playbook.
+
+---
+
+---
 ## 2026-09-01 11:08 — Deep run: 7 fresh gear-fabrication proposals promoted (#6619-6625); L1/L2/L3 confirmed still-fresh (08-31 gen), no regression
 
 ### Context (≤3 lines)

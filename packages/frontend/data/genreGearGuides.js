@@ -82682,7 +82682,7 @@ Budget shouldn't stop you either. A Pearl Export or Tama Imperialstar snare will
     // SEO metadata
     title: "Best Drum Kits for Deathcore: 2026 Ultimate Guide",
     metaTitle: "Best Drum Kits for Deathcore 2026 | MetalForge Expert Guide",
-    description: "Best drum kits for deathcore's blast-into-breakdown structure: what Chris Turner (Tama Starclassic Walnut/Birch), George Kollias (Pearl Masterworks Stadium Exotic), and Ben Koller (Tama Starclassic Performer B/B) actually play — ranked budget to pro.",
+    description: "Best drum kits for deathcore's blast-into-breakdown structure: what Chris Turner (Tama Starclassic Maple/Birch), George Kollias (Pearl Masterworks Stadium Exotic), and Ben Koller (Tama Starclassic Performer B/B) actually play — ranked budget to pro.",
     seoKeywords: [
       'best drum kits for deathcore',
       'deathcore drum kit',
@@ -82718,11 +82718,11 @@ Budget shouldn't stop you either. A Pearl Export or Tama Imperialstar snare will
       title: "What Drum Kit Handles Deathcore's Blast-Into-Breakdown Structure?",
       content: `Deathcore fuses death metal's blast beats and technical brutality with metalcore and hardcore's chugging, half-time breakdown pocket, and that split identity puts unusual demands on a drum kit. A single song can alternate between extreme-speed blast beat verses, where shells need to stay tight and consistent hit after hit at 240+ BPM, and slower, syncopated breakdown sections built for moshing, where the kick and toms need to deliver maximum low-end weight rather than fast decay.
 
-Chris Turner of Oceans Ate Alaska anchors his progressive metalcore precision on a Tama Starclassic Walnut/Birch kit in a custom finish, the same walnut/birch hybrid construction that defines djent's tightest, most controlled tone, adapted here for deathcore-adjacent blast-beat fills documented across Oceans Ate Alaska's catalog. George Kollias of Nile — whose 240+ BPM blast beats set the extreme-speed benchmark deathcore's fastest sections measure themselves against — plays a Pearl Masterworks Stadium Exotic kit finished in piano black with gold hardware, built for sustained endurance at the outer edge of human tempo. Ben Koller of Converge and Mutoid Man rounds out the lineup on a Tama Starclassic Performer B/B kit, bringing two decades of hardcore punk and mathcore intensity to deathcore's breakdown vocabulary.
+Chris Turner of Oceans Ate Alaska anchors his progressive metalcore precision on a Tama Starclassic Maple/Birch kit in a custom finish, the same maple/birch hybrid construction that defines djent's tightest, most controlled tone, adapted here for deathcore-adjacent blast-beat fills documented across Oceans Ate Alaska's catalog. George Kollias of Nile — whose 240+ BPM blast beats set the extreme-speed benchmark deathcore's fastest sections measure themselves against — plays a Pearl Masterworks Stadium Exotic kit finished in piano black with gold hardware, built for sustained endurance at the outer edge of human tempo. Ben Koller of Converge and Mutoid Man rounds out the lineup on a Tama Starclassic Performer B/B kit, bringing two decades of hardcore punk and mathcore intensity to deathcore's breakdown vocabulary.
 
 This guide breaks down shell construction, kick sizing, and mounting hardware for deathcore drum kits — comparing three drummers whose metalcore, hardcore, and technical death metal lineages fed directly into the genre, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
-        "Chris Turner's Tama Starclassic Walnut/Birch brings djent-tight shell consistency to deathcore-adjacent blast-beat fills",
+        "Chris Turner's Tama Starclassic Maple/Birch brings djent-tight shell consistency to deathcore-adjacent blast-beat fills",
         "George Kollias's Pearl Masterworks Stadium Exotic is built for sustained endurance at 240+ BPM, the extreme-speed benchmark deathcore measures itself against",
         "Ben Koller's Tama Starclassic Performer B/B carries two decades of hardcore/mathcore intensity into deathcore's breakdown vocabulary"
       ]
@@ -82735,7 +82735,7 @@ This guide breaks down shell construction, kick sizing, and mounting hardware fo
         {
           name: "Shell Consistency at Blast-Beat Tempo",
           icon: "⚙️",
-          description: "Deathcore's blast-beat verses demand shells that respond identically on the first hit and the five-hundredth. Chris Turner's Tama Starclassic Walnut/Birch and George Kollias's Pearl Masterworks both use premium shell construction specifically to hold that consistency under sustained extreme-speed playing.",
+          description: "Deathcore's blast-beat verses demand shells that respond identically on the first hit and the five-hundredth. Chris Turner's Tama Starclassic Maple/Birch and George Kollias's Pearl Masterworks both use premium shell construction specifically to hold that consistency under sustained extreme-speed playing.",
           recommendation: "Premium hybrid or exotic shell construction for consistent response at extreme, sustained tempos"
         },
         {
@@ -82777,43 +82777,43 @@ This guide breaks down shell construction, kick sizing, and mounting hardware fo
       pedals: [
         {
           rank: 1,
-          name: "Tama Starclassic Walnut/Birch",
+          name: "Tama Starclassic Maple/Birch",
           brand: "Tama",
-          model: "Starclassic Walnut/Birch (Custom Finish)",
+          model: "Starclassic Maple/Birch (Custom Finish)",
           image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Drums_01.jpg",
           priceRange: "€2,500-4,000 (shell pack)",
           tier: "pro",
-          material: "Walnut/Birch Hybrid",
+          material: "Maple/Birch Hybrid",
 
-          description: `Chris Turner of Oceans Ate Alaska plays a Tama Starclassic Walnut/Birch kit in a custom finish, the same walnut/birch hybrid shell construction that gives djent its tight, controlled low-end, repurposed here for deathcore-adjacent territory. Walnut's warm, complex low-end and birch's focused attack combine into a tone that stays articulate through Oceans Ate Alaska's technical, blast-beat-driven fills without losing the weight a breakdown needs.
+          description: `Chris Turner of Oceans Ate Alaska plays a Tama Starclassic Maple/Birch kit in a custom finish, the same maple/birch hybrid shell construction that gives djent its tight, controlled low-end, repurposed here for deathcore-adjacent territory. Maple's warm, resonant low-end and birch's focused attack combine into a tone that stays articulate through Oceans Ate Alaska's technical, blast-beat-driven fills without losing the weight a breakdown needs.
 
 The Star-Cast mounting system minimizes shell dampening and unwanted vibration transfer, letting Turner's kit stay clean under the kind of studio triggering and heavy processing deathcore productions typically demand.`,
 
           pros: [
             "Chris Turner's Oceans Ate Alaska setup — djent-tight consistency applied to deathcore-adjacent blast fills",
-            "Walnut/birch hybrid balances focused attack with tonal complexity",
+            "Maple/birch hybrid balances focused attack with tonal warmth",
             "Star-Cast mounting minimizes dampening for clean studio triggering",
             "Proven across Oceans Ate Alaska's most technically demanding recordings",
             "Handles both extreme-speed blast sections and breakdown weight"
           ],
           cons: [
             "Premium price — a significant investment for a full shell pack",
-            "Walnut adds weight over a birch-only Starclassic",
+            "Maple adds weight over a birch-only Starclassic",
             "Custom finishes increase lead time"
           ],
           specs: {
-            shell: "Walnut/Birch Hybrid",
+            shell: "Maple/Birch Hybrid",
             mount: "Star-Cast Mounting System",
             finish: "Custom finish (multiple options)",
             kickSize: "22\" x 16\" standard",
             tomSizes: "10\", 12\", 16\" standard"
           },
           usedBy: [
-            { name: "Chris Turner", band: "Oceans Ate Alaska", note: "Tama Starclassic Walnut/Birch, custom finish — technical, blast-beat-driven precision" }
+            { name: "Chris Turner", band: "Oceans Ate Alaska", note: "Tama Starclassic Maple/Birch, custom finish — technical, blast-beat-driven precision" }
           ],
           verdict: "Best overall for technical, blast-beat-driven deathcore. Turner's setup balances speed and breakdown weight.",
           rating: 4.8,
-          affiliateLink: "https://www.thomann.de/intl/tama_starclassic_walnut_birch_deathcore.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/tama_starclassic_maple_birch_deathcore.htm?partner_id=metalforge"
         },
         {
           rank: 2,
@@ -82964,7 +82964,7 @@ This kit's approach prioritizes organic dynamics over trigger-augmented precisio
       picks: [
         {
           category: "Best Overall",
-          pedal: "Tama Starclassic Walnut/Birch",
+          pedal: "Tama Starclassic Maple/Birch",
           reason: "Chris Turner's Oceans Ate Alaska setup — balances blast-beat consistency and breakdown weight."
         },
         {
@@ -82987,14 +82987,14 @@ This kit's approach prioritizes organic dynamics over trigger-augmented precisio
       'best-bass-drums-for-deathcore'
     ],
     relatedDrummers: [
-      { slug: 'chris-turner', name: 'Chris Turner', reason: 'Tama Starclassic Walnut/Birch — Oceans Ate Alaska\'s blast-beat-driven precision' },
+      { slug: 'chris-turner', name: 'Chris Turner', reason: 'Tama Starclassic Maple/Birch — Oceans Ate Alaska\'s blast-beat-driven precision' },
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Masterworks Stadium Exotic — Nile\'s 240+ BPM blast-beat benchmark' },
       { slug: 'ben-koller', name: 'Ben Koller', reason: 'Tama Starclassic Performer B/B — Converge\'s hardcore/mathcore intensity' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
-      { slug: 'chris-turner', name: 'Chris Turner', reason: 'Tama Starclassic Walnut/Birch — Oceans Ate Alaska\'s blast-beat-driven precision' },
+      { slug: 'chris-turner', name: 'Chris Turner', reason: 'Tama Starclassic Maple/Birch — Oceans Ate Alaska\'s blast-beat-driven precision' },
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Masterworks Stadium Exotic — Nile\'s 240+ BPM blast-beat benchmark' },
       { slug: 'ben-koller', name: 'Ben Koller', reason: 'Tama Starclassic Performer B/B — Converge\'s hardcore/mathcore intensity' }
     ],
@@ -83003,7 +83003,7 @@ This kit's approach prioritizes organic dynamics over trigger-augmented precisio
     faq: [
       {
         question: "What drum kit does Chris Turner use?",
-        answer: "Chris Turner of Oceans Ate Alaska plays a Tama Starclassic Walnut/Birch kit in a custom finish. The walnut/birch hybrid shell construction gives him the tight, controlled attack needed for his technical, blast-beat-driven fills, paired with the Star-Cast mounting system for minimal shell dampening."
+        answer: "Chris Turner of Oceans Ate Alaska plays a Tama Starclassic Maple/Birch kit in a custom finish. The maple/birch hybrid shell construction gives him the tight, controlled attack needed for his technical, blast-beat-driven fills, paired with the Star-Cast mounting system for minimal shell dampening."
       },
       {
         question: "What drum kit does George Kollias use?",
@@ -83022,7 +83022,7 @@ This kit's approach prioritizes organic dynamics over trigger-augmented precisio
     // Conclusion
     conclusion: {
       title: "Find Your Deathcore Drum Kit",
-      content: `Deathcore drum kit choice comes down to how well your setup handles the jump between blast-beat verses and breakdown-driven choruses. Chris Turner's Tama Starclassic Walnut/Birch shows how djent-tight shell consistency translates directly into deathcore-adjacent territory. George Kollias's Pearl Masterworks Stadium Exotic defined the extreme-speed benchmark the genre's fastest sections measure themselves against, while Ben Koller's Tama Starclassic Performer B/B demonstrates two decades of hardcore/mathcore intensity feeding directly into deathcore's breakdown vocabulary.
+      content: `Deathcore drum kit choice comes down to how well your setup handles the jump between blast-beat verses and breakdown-driven choruses. Chris Turner's Tama Starclassic Maple/Birch shows how djent-tight shell consistency translates directly into deathcore-adjacent territory. George Kollias's Pearl Masterworks Stadium Exotic defined the extreme-speed benchmark the genre's fastest sections measure themselves against, while Ben Koller's Tama Starclassic Performer B/B demonstrates two decades of hardcore/mathcore intensity feeding directly into deathcore's breakdown vocabulary.
 
 None of these approaches is more "correct" — all three represent deathcore's founding commitment to combining extreme speed with breakdown-driven weight. Start with whichever shell construction matches your material's balance of blast beats versus breakdowns, and don't be afraid to prioritize low-end punch over exotic tonal complexity.
 

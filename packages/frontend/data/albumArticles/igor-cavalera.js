@@ -2080,7 +2080,7 @@ export const articles = {
     "dateModified": "2026-06-29",
     "author": "MetalForge Editorial",
     "title": "Inflikted Drum Setup: Igor Cavalera's Return to Thrash Aggression (2008)",
-    "description": "Complete drum gear breakdown for Cavalera Conspiracy's debut album Inflikted. Discover Igor Cavalera's 2008 kit — the Tama Starclassic that powered the Cavalera brothers' reunion album after twelve years apart, plus Paiste RUDE cymbals and Tama Speed Cobra pedals.",
+    "description": "Complete drum gear breakdown for Cavalera Conspiracy's debut album Inflikted. Discover Igor Cavalera's 2008 kit — the ddrum Hybrid Kit that powered the Cavalera brothers' reunion album after twelve years apart, plus Zildjian A Custom Series cymbals and Tama Speed Cobra pedals.",
     "seoKeywords": [
       "inflikted drums",
       "igor cavalera 2008 drum setup",
@@ -2089,12 +2089,12 @@ export const articles = {
       "cavalera brothers reunion band",
       "max igor cavalera band",
       "igor cavalera drum kit 2008",
-      "tama starclassic thrash metal"
+      "ddrum hybrid kit thrash metal"
     ],
     "ogImage": "/images/albums/inflikted-drums.webp",
     "intro": {
       "title": "The Return of the Cavalera Brothers",
-      "content": "Released in April 2008 through Roadrunner Records, \"Inflikted\" is one of the most emotionally loaded debut albums in metal history — because it was not really a debut at all. It was a homecoming. When Max Cavalera left Sepultura in early 1997 after a decade as its frontman, the split fractured one of metal's most beloved brother partnerships. For ten years, fans wondered if Max and Igor Cavalera would ever make music together again. \"Inflikted\" answered that question with a detonation of thrash and death metal aggression that debuted at number 37 on the US Billboard 200.\n\nFor Igor Cavalera, the reunion with Max was personal before it was musical. After Max's departure, Igor remained in Sepultura for another decade, recording four more studio albums. He finally left in 2006, closing the chapter on a band he had co-founded at age fourteen. Two years later, Cavalera Conspiracy was born — not as a nostalgia act or cash-in on the brothers' name, but as a genuine creative partnership reinvigorated by years apart.\n\nThe music on \"Inflikted\" sounds exactly like what it is: two brothers who grew up playing metal together, stripped of the institutional compromises that inevitably accumulate in a long-running band. There are no tribal experiments here, no industrial tangents, no attempts to evolve into a different kind of band. Cavalera Conspiracy on \"Inflikted\" plays aggressive, forward-driving thrash and death metal with the confidence of people who invented a version of this genre. Igor's drumming matches that confidence — hard-hitting, groove-anchored, technically precise without being clinical.\n\nThis article breaks down the drum gear Igor Cavalera used to record \"Inflikted,\" the Tama Starclassic kit that powered the brothers' return, and what the recording reveals about Igor's playing at this point in his career.",
+      "content": "Released in April 2008 through Roadrunner Records, \"Inflikted\" is one of the most emotionally loaded debut albums in metal history — because it was not really a debut at all. It was a homecoming. When Max Cavalera left Sepultura in early 1997 after a decade as its frontman, the split fractured one of metal's most beloved brother partnerships. For ten years, fans wondered if Max and Igor Cavalera would ever make music together again. \"Inflikted\" answered that question with a detonation of thrash and death metal aggression that debuted at number 37 on the US Billboard 200.\n\nFor Igor Cavalera, the reunion with Max was personal before it was musical. After Max's departure, Igor remained in Sepultura for another decade, recording four more studio albums. He finally left in 2006, closing the chapter on a band he had co-founded at age fourteen. Two years later, Cavalera Conspiracy was born — not as a nostalgia act or cash-in on the brothers' name, but as a genuine creative partnership reinvigorated by years apart.\n\nThe music on \"Inflikted\" sounds exactly like what it is: two brothers who grew up playing metal together, stripped of the institutional compromises that inevitably accumulate in a long-running band. There are no tribal experiments here, no industrial tangents, no attempts to evolve into a different kind of band. Cavalera Conspiracy on \"Inflikted\" plays aggressive, forward-driving thrash and death metal with the confidence of people who invented a version of this genre. Igor's drumming matches that confidence — hard-hitting, groove-anchored, technically precise without being clinical.\n\nThis article breaks down the drum gear Igor Cavalera used to record \"Inflikted,\" the ddrum Hybrid Kit that powered the brothers' return, and what the recording reveals about Igor's playing at this point in his career.",
       "keyPoints": [
         "Cavalera Conspiracy formed by Max and Igor Cavalera — the Sepultura founding brothers — after both had left the band",
         "Max left Sepultura in 1997; Igor left in 2006 — over a decade apart before this reunion",
@@ -2104,9 +2104,9 @@ export const articles = {
       ]
     },
     "drumKit": {
-      "title": "Igor's 2008 Tama Starclassic: Power Rebuilt",
-      "brand": "Tama",
-      "model": "Tama Starclassic Maple",
+      "title": "Igor's 2008 ddrum Hybrid Kit: Power Rebuilt",
+      "brand": "ddrum",
+      "model": "ddrum Hybrid Kit",
       "finish": "Dark stain / black wrap",
       "config": {
         "bassdrums": [
@@ -2120,17 +2120,16 @@ export const articles = {
           "14\" x 12\" Floor Tom",
           "16\" x 14\" Floor Tom"
         ],
-        "shells": "Maple shells — Tama Starclassic construction"
+        "shells": "Hybrid shell construction — ddrum Hybrid Kit"
       },
-      "description": "For Cavalera Conspiracy's debut album, Igor Cavalera moved to a Tama Starclassic Maple kit — the flagship of Tama's acoustic drum line and one of the most respected professional kits in heavy music. The Starclassic's maple shells provide a full-bodied warmth combined with punchy attack, making it equally suitable for mid-paced groove sections and flat-out thrash.\n\nThe choice of Tama after years on Pearl equipment represented a natural evolution for Igor. The Starclassic's Star-Cast mounting system allows drums to resonate freely without the shell dampening caused by traditional lug placement. On \"Inflikted,\" the toms sound open and responsive — they cut through the dense guitar mix without sounding choked or compressed.\n\nThe single 22\" bass drum was a deliberate choice consistent with Igor's groove-first philosophy. Double bass setups dominate contemporary thrash and death metal, but Igor's signature has always been exceptional single-pedal technique with strategic double-bass deployment. His kick patterns on \"Inflikted\" are powerful precisely because they leave space — every hit counts.\n\nWith two rack toms and two floor toms, Igor had the fill vocabulary needed for the album's dynamic range. The \"Inflikted\" title track and \"Hunt You Down\" showcase his tom work — not flashy cascades, but purposeful accents that serve the riff and drive the song forward.\n\nThe Tama Starclassic is still in production today, making this an accessible reference point for drummers looking to replicate Igor's Cavalera Conspiracy-era sound. The maple construction remains the defining character of the kit.",
+      "description": "For Cavalera Conspiracy's debut album, Igor Cavalera played the ddrum Hybrid Kit — the setup he had adopted in 2006 after leaving Sepultura and reuniting with his brother Max. The Hybrid line's blended shell construction provides a full-bodied warmth combined with punchy attack, making it equally suitable for mid-paced groove sections and flat-out thrash.\n\nThe move to ddrum after years on Tama equipment came alongside Igor's departure from Sepultura and the formation of Cavalera Conspiracy — a fresh setup for a fresh chapter. On \"Inflikted,\" the toms sound open and responsive — they cut through the dense guitar mix without sounding choked or compressed.\n\nThe single 22\" bass drum was a deliberate choice consistent with Igor's groove-first philosophy. Double bass setups dominate contemporary thrash and death metal, but Igor's signature has always been exceptional single-pedal technique with strategic double-bass deployment. His kick patterns on \"Inflikted\" are powerful precisely because they leave space — every hit counts.\n\nWith two rack toms and two floor toms, Igor had the fill vocabulary needed for the album's dynamic range. The \"Inflikted\" title track and \"Hunt You Down\" showcase his tom work — not flashy cascades, but purposeful accents that serve the riff and drive the song forward.\n\nThe ddrum Hybrid Kit remained Igor's setup throughout the Cavalera Conspiracy era, making this the defining sound of his 2006-2018 output. The blended shell construction remains the defining character of the kit.",
       "notes": [
-        "Moved to Tama Starclassic from Pearl Masters after returning to active recording",
+        "Switched to ddrum from Tama in 2006 after leaving Sepultura and reuniting with Max in Cavalera Conspiracy",
         "Single bass drum configuration — signature Igor approach emphasizing groove over speed",
-        "Star-Cast mounting allows free shell resonance for open, punchy tone",
-        "Maple shells blend warmth and attack, suitable for thrash and death metal",
+        "Hybrid shell construction blends warmth and attack, suitable for thrash and death metal",
         "Four-tom configuration provides fill options without overcomplicating the setup"
       ],
-      "estimatedValue": "$2,800-4,200 (2008) / $3,000-5,000 (new today)"
+      "estimatedValue": "Unconfirmed"
     },
     "snare": {
       "title": "Tama Steel: The Crack of the Conspiracy",
@@ -2144,49 +2143,49 @@ export const articles = {
       "estimatedValue": "$280-400 (2008)"
     },
     "cymbals": {
-      "title": "Paiste RUDE: Uncompromising Volume and Character",
-      "brand": "Paiste",
-      "series": "Paiste RUDE Series",
+      "title": "Zildjian A Custom Series: Uncompromising Volume and Character",
+      "brand": "Zildjian",
+      "series": "Zildjian A Custom Series",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Paiste RUDE 14\" Hi-Hats",
+          "model": "Zildjian A Custom 14\" Hi-Hats",
           "position": "Left side",
           "notes": "Powerful, cutting hi-hats for driving thrash patterns"
         },
         {
           "type": "Crash",
-          "model": "Paiste RUDE 16\" Crash",
+          "model": "Zildjian A Custom 16\" Crash",
           "position": "Left of hi-hats",
           "notes": "Quick, aggressive crash for rapid accent hits"
         },
         {
           "type": "Crash",
-          "model": "Paiste RUDE 18\" Crash/Ride",
+          "model": "Zildjian A Custom 18\" Crash",
           "position": "Over rack toms",
-          "notes": "Primary crash position — versatile crash/ride hybrid"
+          "notes": "Primary crash position"
         },
         {
           "type": "Crash",
-          "model": "Paiste RUDE 19\" Crash",
+          "model": "Zildjian A Custom 19\" Crash",
           "position": "Right of toms",
           "notes": "Heavier crash for bigger moments and riff transitions"
         },
         {
           "type": "Ride",
-          "model": "Paiste RUDE 20\" Ride",
+          "model": "Zildjian A Custom 20\" Ride",
           "position": "Far right",
           "notes": "Heavy ride with defined bell for articulate ride patterns"
         },
         {
           "type": "China",
-          "model": "Paiste RUDE 18\" China",
+          "model": "Zildjian A Custom 18\" China",
           "position": "Above floor tom",
           "notes": "Trashy, aggressive china for riff punctuation"
         }
       ],
-      "description": "Igor Cavalera has been a Paiste artist for the bulk of his career, and the Paiste RUDE series has been his primary cymbal choice since the Roots era of the mid-1990s. For \"Inflikted,\" he returned to the full RUDE setup — a range known for its aggressive character, raw surface texture, and ability to project at extreme volumes without becoming shrill.\n\nThe RUDE series was designed for heavy playing, and it shows. Unlike thinner, more delicate cymbal lines that reward a lighter touch, the RUDE cymbals are built to be punished. Igor's hard-hitting style, developed over two decades of metal drumming, works naturally with their mass and construction. The cymbals project without forcing the drummer to baby them.\n\nFor \"Inflikted,\" the 14\" RUDE hi-hats provide the cutting definition required for Igor's groove patterns. The heavier weight of these hi-hats gives each chick and open note a physical presence in the mix. The multiple crash options — 16\", 18\", and 19\" — give Igor choices for different sections, from quick accent crashes to full explosive washes.\n\nThe China cymbal is a Cavalera Conspiracy signature sound. The trashy, cutting explosions of a RUDE China punctuate the album's heaviest riff transitions, adding aggression that a standard crash cannot deliver.\n\nReturning to these cymbals after years of recording was part of Igor's deliberate reset with Cavalera Conspiracy — familiar tools in service of a familiar-but-reinvented direction.",
-      "estimatedValue": "$1,400-1,900 total (2008)"
+      "description": "Igor Cavalera switched to Zildjian in 2006 — leaving the Paiste RUDE setup he had used since the Roots era of the mid-1990s — when he left Sepultura and reunited with his brother in Cavalera Conspiracy. For \"Inflikted,\" he set up a full Zildjian A Custom rig — a series known for its bright, articulate character and ability to project at extreme volumes without becoming shrill.\n\nThe A Custom series was designed for heavy, modern playing, and it shows. Igor's hard-hitting style, developed over two decades of metal drumming, works naturally with the series' clear attack and fast decay. The cymbals cut through a dense mix without requiring the drummer to overplay them.\n\nFor \"Inflikted,\" the 14\" A Custom hi-hats provide the cutting definition required for Igor's groove patterns. The multiple crash options — 16\", 18\", and 19\" — give Igor choices for different sections, from quick accent crashes to full explosive washes.\n\nThe China cymbal is a Cavalera Conspiracy signature sound. The trashy, cutting explosions of the A Custom China punctuate the album's heaviest riff transitions, adding aggression that a standard crash cannot deliver.\n\nThe switch to Zildjian was part of Igor's broader gear reset alongside the 2006 move to ddrum — new tools in service of a familiar-but-reinvented direction with Cavalera Conspiracy.",
+      "estimatedValue": "$1,800-2,600 total (2008)"
     },
     "hardware": {
       "title": "Tama Speed Cobra: Pedal Power for the Reunion",
@@ -2226,7 +2225,7 @@ export const articles = {
     },
     "recordingTechniques": {
       "title": "Logan Mader's Aggressive Modern Production",
-      "content": "Logan Mader — the former Machine Head guitarist who transitioned into one of metal's most in-demand producers — brought a no-frills, aggression-first approach to \"Inflikted\" that suited Cavalera Conspiracy perfectly. Having worked with Soulfly, DevilDriver, and Five Finger Death Punch, Mader understood how to capture heavy drum sounds that feel physical and immediate without resorting to over-triggering or excessive sample replacement.\n\n**The Philosophy:**\nMader's production on \"Inflikted\" prioritizes the performance over perfection. Igor's drums sound live and powerful rather than clinically corrected. This was intentional — Cavalera Conspiracy was positioning itself against the sterile, triggered-to-death drum sound that dominated modern metal production. The album sounds like a band playing in a room, hard and fast.\n\n**Drum Recording Approach:**\n- Close-miked kit with emphasis on attack and punch in the kick and snare\n- Room microphones captured to give the drums dimension without washing out the attack\n- Minimal sample augmentation — the Tama Starclassic's natural tone is present throughout\n- Overhead miking captured the RUDE cymbal wash without overwhelming the kit\n\n**Mix Placement:**\nThe drums sit forward in the mix on \"Inflikted\" — a decision that reflects the album's stripped-down, drums-and-riffs philosophy. Igor's kick and snare compete with the guitars as equal elements rather than providing a foundation that gets buried. This placement rewards the quality of his performance and makes the album feel more physically aggressive than contemporaries with similar tempos.\n\n**The Reunion Context:**\nMader has described working with both Cavalera brothers as an energizing experience — the chemistry between Max and Igor in the studio was palpable. For drummers, this matters because chemistry affects performance. Igor was not just executing parts — he was playing with his brother, responding to Max's riffing in real time, recapturing something that had been dormant for over a decade. The spontaneity in his playing reflects that context."
+      "content": "Logan Mader — the former Machine Head guitarist who transitioned into one of metal's most in-demand producers — brought a no-frills, aggression-first approach to \"Inflikted\" that suited Cavalera Conspiracy perfectly. Having worked with Soulfly, DevilDriver, and Five Finger Death Punch, Mader understood how to capture heavy drum sounds that feel physical and immediate without resorting to over-triggering or excessive sample replacement.\n\n**The Philosophy:**\nMader's production on \"Inflikted\" prioritizes the performance over perfection. Igor's drums sound live and powerful rather than clinically corrected. This was intentional — Cavalera Conspiracy was positioning itself against the sterile, triggered-to-death drum sound that dominated modern metal production. The album sounds like a band playing in a room, hard and fast.\n\n**Drum Recording Approach:**\n- Close-miked kit with emphasis on attack and punch in the kick and snare\n- Room microphones captured to give the drums dimension without washing out the attack\n- Minimal sample augmentation — the ddrum Hybrid Kit's natural tone is present throughout\n- Overhead miking captured the Zildjian A Custom cymbal wash without overwhelming the kit\n\n**Mix Placement:**\nThe drums sit forward in the mix on \"Inflikted\" — a decision that reflects the album's stripped-down, drums-and-riffs philosophy. Igor's kick and snare compete with the guitars as equal elements rather than providing a foundation that gets buried. This placement rewards the quality of his performance and makes the album feel more physically aggressive than contemporaries with similar tempos.\n\n**The Reunion Context:**\nMader has described working with both Cavalera brothers as an energizing experience — the chemistry between Max and Igor in the studio was palpable. For drummers, this matters because chemistry affects performance. Igor was not just executing parts — he was playing with his brother, responding to Max's riffing in real time, recapturing something that had been dormant for over a decade. The spontaneity in his playing reflects that context."
     },
     "trackBreakdowns": {
       "title": "Key Tracks: Igor's Playing Analyzed",
@@ -2285,11 +2284,11 @@ export const articles = {
       },
       {
         "question": "What drum kit did Igor Cavalera use on Inflikted?",
-        "answer": "On Cavalera Conspiracy's Inflikted recorded in 2007 and 2008, Igor Cavalera played a Tama Starclassic Maple kit. The setup featured a single 22x18 inch bass drum, rack toms in 10 and 12 inches, and floor toms in 14 and 16 inches. The Tama Starclassic's maple shells provided the full-bodied warmth and punchy attack suited to the album's aggressive thrash and death metal direction, and the Star-Cast mounting system allowed free shell resonance throughout the recording."
+        "answer": "On Cavalera Conspiracy's Inflikted recorded in 2007 and 2008, Igor Cavalera played a ddrum Hybrid Kit — the setup he had switched to in 2006 after leaving Sepultura and reuniting with his brother Max. The setup featured a single 22x18 inch bass drum, rack toms in 10 and 12 inches, and floor toms in 14 and 16 inches. The ddrum Hybrid Kit's blended shell construction provided the full-bodied warmth and punchy attack suited to the album's aggressive thrash and death metal direction."
       },
       {
         "question": "What cymbals did Igor Cavalera use on Inflikted?",
-        "answer": "On Inflikted in 2008, Igor Cavalera used the Paiste RUDE series — the same cymbal line he had used throughout much of the Sepultura era, particularly from Roots onward. His Cavalera Conspiracy setup included Paiste RUDE 14 inch hi-hats, RUDE 16 and 18 inch crashes, a RUDE 19 inch crash, a RUDE 20 inch ride, and a RUDE 18 inch China. The RUDE series is designed for high-volume, aggressive playing, matching Igor's hard-hitting approach on the album."
+        "answer": "On Inflikted in 2008, Igor Cavalera used the Zildjian A Custom series — the cymbal line he had switched to in 2006 for the Cavalera Conspiracy era, moving on from the Paiste RUDE cymbals he had used throughout the Sepultura era. His Cavalera Conspiracy setup included Zildjian A Custom 14 inch hi-hats, 16 and 18 inch crashes, a 19 inch crash, a 20 inch ride, and an 18 inch China. The A Custom series is designed for bright, articulate projection, matching Igor's hard-hitting approach on the album."
       },
       {
         "question": "How does Igor's drumming on Inflikted compare to his Sepultura work?",
@@ -2302,7 +2301,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "When the Brothers Came Home",
-      "content": "\"Inflikted\" matters beyond its technical merits as a metal record. It matters because of what it represented: proof that one of heavy music's most significant creative partnerships could survive a decade of estrangement and return with its power intact.\n\nFor Igor Cavalera specifically, the album marked a reinvigoration. After ten years of continuing Sepultura without Max, after experiments with electronic music through Mixhell, after processing the complicated legacy of the band he co-founded as a teenager, he sat behind the drums with his brother and played metal. The drumming on \"Inflikted\" has a directness and energy that reflects that emotional context.\n\nThe gear choices — Tama Starclassic, Paiste RUDE, Tama Speed Cobra pedals — were about reliability and familiarity. This was not an album for experimentation. This was an album for execution. Igor knew exactly what he wanted to sound like, selected tools that would deliver it without complication, and played.\n\n**What Inflikted Established:**\n- Cavalera Conspiracy as a genuine creative partnership, not a nostalgia act\n- Igor's thrash and death metal vocabulary remained completely sharp after a decade of Sepultura's more experimental direction\n- The brothers' musical chemistry was immediate and undeniable\n- Roadrunner Records was right to believe in the reunion — #37 on the US Billboard 200 proved the commercial case\n\n**For Drummers:**\nIgor's playing on \"Inflikted\" is a masterclass in serving the song within an aggressive context. He is not the most technically elaborate metal drummer of his generation — Pete Sandoval, Dave Lombardo, and Gene Hoglan all operate in different registers of complexity. But Igor's groove, his power, and his ability to make a riff feel heavier through drum placement rather than drum density is unique. Study \"Inflikted\" to understand how restraint amplifies aggression.\n\nThe brothers came home. The metal world was better for it."
+      "content": "\"Inflikted\" matters beyond its technical merits as a metal record. It matters because of what it represented: proof that one of heavy music's most significant creative partnerships could survive a decade of estrangement and return with its power intact.\n\nFor Igor Cavalera specifically, the album marked a reinvigoration. After ten years of continuing Sepultura without Max, after experiments with electronic music through Mixhell, after processing the complicated legacy of the band he co-founded as a teenager, he sat behind the drums with his brother and played metal. The drumming on \"Inflikted\" has a directness and energy that reflects that emotional context.\n\nThe gear choices — ddrum Hybrid Kit, Zildjian A Custom Series, Tama Speed Cobra pedals — were about reliability and familiarity. This was not an album for experimentation. This was an album for execution. Igor knew exactly what he wanted to sound like, selected tools that would deliver it without complication, and played.\n\n**What Inflikted Established:**\n- Cavalera Conspiracy as a genuine creative partnership, not a nostalgia act\n- Igor's thrash and death metal vocabulary remained completely sharp after a decade of Sepultura's more experimental direction\n- The brothers' musical chemistry was immediate and undeniable\n- Roadrunner Records was right to believe in the reunion — #37 on the US Billboard 200 proved the commercial case\n\n**For Drummers:**\nIgor's playing on \"Inflikted\" is a masterclass in serving the song within an aggressive context. He is not the most technically elaborate metal drummer of his generation — Pete Sandoval, Dave Lombardo, and Gene Hoglan all operate in different registers of complexity. But Igor's groove, his power, and his ability to make a riff feel heavier through drum placement rather than drum density is unique. Study \"Inflikted\" to understand how restraint amplifies aggression.\n\nThe brothers came home. The metal world was better for it."
     }
   },
   "blunt-force-trauma-drum-setup": {
@@ -2322,7 +2321,7 @@ export const articles = {
     "dateModified": "2026-06-29",
     "author": "MetalForge Editorial",
     "title": "Blunt Force Trauma Drum Setup: Igor Cavalera's Cavalera Conspiracy Second Strike (2011)",
-    "description": "Complete drum gear breakdown for Cavalera Conspiracy's Blunt Force Trauma (2011). Igor Cavalera's Tama Starclassic kit, Paiste RUDE cymbals, and the heavier, tighter follow-up to Inflikted — the brothers-reunited arc continues.",
+    "description": "Complete drum gear breakdown for Cavalera Conspiracy's Blunt Force Trauma (2011). Igor Cavalera's ddrum Hybrid Kit, Zildjian A Custom Series cymbals, and the heavier, tighter follow-up to Inflikted — the brothers-reunited arc continues.",
     "seoKeywords": [
       "blunt force trauma drums",
       "igor cavalera 2011 drum setup",
@@ -2330,7 +2329,7 @@ export const articles = {
       "cavalera conspiracy drummer",
       "max igor cavalera second album",
       "igor cavalera drum kit 2011",
-      "tama starclassic death metal"
+      "ddrum hybrid kit death metal"
     ],
     "ogImage": "/images/albums/blunt-force-trauma-drums.webp",
     "intro": {
@@ -2341,13 +2340,13 @@ export const articles = {
         "Logan Mader returned to produce — continuing sonic continuity from Inflikted",
         "Three years of touring behind Inflikted sharpened Igor's live chops before recording",
         "Heavier and more focused than the debut — the reunion band finding its full voice",
-        "Igor maintained the Tama Starclassic / Paiste RUDE setup established on Inflikted"
+        "Igor maintained the ddrum Hybrid Kit / Zildjian A Custom Series setup established on Inflikted"
       ]
     },
     "drumKit": {
-      "title": "Igor's Tama Starclassic: Refined and Battle-Tested",
-      "brand": "Tama",
-      "model": "Tama Starclassic Maple",
+      "title": "Igor's ddrum Hybrid Kit: Refined and Battle-Tested",
+      "brand": "ddrum",
+      "model": "ddrum Hybrid Kit",
       "finish": "Dark stain",
       "config": {
         "bassdrums": [
@@ -2361,17 +2360,17 @@ export const articles = {
           "14\" x 12\" Floor Tom",
           "16\" x 14\" Floor Tom"
         ],
-        "shells": "Maple shells — Tama Starclassic Maple construction"
+        "shells": "Hybrid shell construction — ddrum Hybrid Kit"
       },
-      "description": "Igor Cavalera continued with his Tama Starclassic Maple kit for \"Blunt Force Trauma,\" the same platform he had used on \"Inflikted\" and refined through years of touring. By the time the band entered the studio for the second album, the relationship between Igor and this kit was fully established — he knew exactly how to tune it, how it responded in different rooms, and how to get the sounds he wanted without extended setup time.\n\nThe configuration remained consistent with the Inflikted sessions: single 22\" x 18\" bass drum, two rack toms, and two floor toms. This minimal-but-complete setup reflects Igor's philosophy. Metal drumming does not require eight toms and four bass drums. It requires the right number of well-tuned drums placed where they are genuinely used.\n\nFor \"Blunt Force Trauma,\" the Tama Starclassic's maple shells were tuned slightly differently than on the debut. Listening to the records, the toms on \"Blunt Force Trauma\" sound slightly tighter and more punchy — tuned higher in the shell for more attack with less sustain. This was a deliberate choice that suits the album's more compressed, direct sonic character.\n\nThe Starclassic's Star-Cast mounting system continued to deliver the open, resonant shell quality that keeps the drums from sounding choked or dampened under the compression of professional metal recording. The toms ring cleanly before being gated and processed, giving Logan Mader options in the mix that inferior hardware would not provide.\n\nThree years of touring had also given Igor the chance to experiment extensively with head choices and tuning configurations in live environments. The drumming on \"Blunt Force Trauma\" benefits from that experimentation — the decisions made in the studio were informed by thousands of performances on the same kit.",
+      "description": "Igor Cavalera continued with his ddrum Hybrid Kit for \"Blunt Force Trauma,\" the same platform he had used on \"Inflikted\" and refined through years of touring. By the time the band entered the studio for the second album, the relationship between Igor and this kit was fully established — he knew exactly how to tune it, how it responded in different rooms, and how to get the sounds he wanted without extended setup time.\n\nThe configuration remained consistent with the Inflikted sessions: single 22\" x 18\" bass drum, two rack toms, and two floor toms. This minimal-but-complete setup reflects Igor's philosophy. Metal drumming does not require eight toms and four bass drums. It requires the right number of well-tuned drums placed where they are genuinely used.\n\nFor \"Blunt Force Trauma,\" the ddrum Hybrid Kit's shells were tuned slightly differently than on the debut. Listening to the records, the toms on \"Blunt Force Trauma\" sound slightly tighter and more punchy — tuned higher in the shell for more attack with less sustain. This was a deliberate choice that suits the album's more compressed, direct sonic character.\n\nThe Hybrid Kit's blended shell construction continued to deliver the open, resonant shell quality that keeps the drums from sounding choked or dampened under the compression of professional metal recording. The toms ring cleanly before being gated and processed, giving Logan Mader options in the mix that inferior hardware would not provide.\n\nThree years of touring had also given Igor the chance to experiment extensively with head choices and tuning configurations in live environments. The drumming on \"Blunt Force Trauma\" benefits from that experimentation — the decisions made in the studio were informed by thousands of performances on the same kit.",
       "notes": [
-        "Same Tama Starclassic Maple kit as Inflikted, refined through three years of touring",
+        "Same ddrum Hybrid Kit as Inflikted, refined through three years of touring",
         "Consistent configuration — single kick, two rack toms, two floor toms",
         "Slightly tighter tuning than Inflikted for more punchy, attack-forward sound",
-        "Star-Cast mounting maintained for open shell resonance throughout tracking",
+        "Hybrid shell construction maintained for open shell resonance throughout tracking",
         "Tour experience informed tuning and head selection choices for studio sessions"
       ],
-      "estimatedValue": "$3,000-4,500 (2011) / $3,000-5,000 (new today)"
+      "estimatedValue": "Unconfirmed"
     },
     "snare": {
       "title": "Tama Steel: Authority Maintained",
@@ -2385,49 +2384,49 @@ export const articles = {
       "estimatedValue": "$280-400 (2011)"
     },
     "cymbals": {
-      "title": "Paiste RUDE: The Conspiracy's Sonic Identity",
-      "brand": "Paiste",
-      "series": "Paiste RUDE Series",
+      "title": "Zildjian A Custom Series: The Conspiracy's Sonic Identity",
+      "brand": "Zildjian",
+      "series": "Zildjian A Custom Series",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Paiste RUDE 14\" Hi-Hats",
+          "model": "Zildjian A Custom 14\" Hi-Hats",
           "position": "Left side",
           "notes": "Heavy, cutting hi-hats — consistent with Inflikted setup"
         },
         {
           "type": "Crash",
-          "model": "Paiste RUDE 16\" Crash",
+          "model": "Zildjian A Custom 16\" Crash",
           "position": "Left of hi-hats",
           "notes": "Fast, aggressive accent crashes"
         },
         {
           "type": "Crash",
-          "model": "Paiste RUDE 18\" Crash/Ride",
+          "model": "Zildjian A Custom 18\" Crash",
           "position": "Over rack toms",
-          "notes": "Primary crash — versatile crash/ride hybrid"
+          "notes": "Primary crash"
         },
         {
           "type": "Crash",
-          "model": "Paiste RUDE 19\" Crash",
+          "model": "Zildjian A Custom 19\" Crash",
           "position": "Right of toms",
           "notes": "Heavier crash for full-band washes"
         },
         {
           "type": "Ride",
-          "model": "Paiste RUDE 20\" Ride",
+          "model": "Zildjian A Custom 20\" Ride",
           "position": "Far right",
           "notes": "Heavy ride with clear bell articulation"
         },
         {
           "type": "China",
-          "model": "Paiste RUDE 18\" China",
+          "model": "Zildjian A Custom 18\" China",
           "position": "Above floor tom",
           "notes": "Trashy, aggressive China — signature Cavalera Conspiracy accent"
         }
       ],
-      "description": "The Paiste RUDE cymbal setup remained Igor's choice for \"Blunt Force Trauma\" — the same configuration he had used on \"Inflikted\" and throughout much of the classic Sepultura era. By 2011, the Paiste RUDE series was essentially part of Igor's sonic identity, as closely associated with his playing as his Tama Starclassic kit.\n\nFor a band that was explicitly not trying to reinvent its sound on the second album, cymbal continuity made sense. The RUDE series' aggressive character, raw surface texture, and high-volume projection are defining elements of Cavalera Conspiracy's sonic profile. Switching to a different cymbal line would have altered the band's character without obvious musical justification.\n\nThe 14\" RUDE hi-hats drive the album's thrash and death metal sections with consistent power. The multiple crash options give Igor the ability to match crash size to musical intensity — smaller crashes for rapid accent hits, larger crashes for full-band climaxes. The 20\" ride provides weight and articulation for sections where a crash sound would be excessive.\n\nListening across both Cavalera Conspiracy albums, the RUDE cymbals create a sonic thread that connects the two records. Fans who attended Cavalera Conspiracy shows in 2008 and 2009 recognized the same cymbal character on \"Blunt Force Trauma\" — intentional continuity that reinforces the band's identity.\n\nPaiste's RUDE series remains available today, making it accessible for drummers looking to capture Igor's Cavalera Conspiracy era sound. The series has not significantly changed since Igor began using it in the mid-1990s.",
-      "estimatedValue": "$1,400-1,900 total (2011)"
+      "description": "The Zildjian A Custom cymbal setup remained Igor's choice for \"Blunt Force Trauma\" — the same configuration he had used on \"Inflikted\" since switching from Paiste in 2006. By 2011, the Zildjian A Custom series was already part of Igor's Cavalera Conspiracy-era sonic identity, as closely associated with his playing as his ddrum Hybrid Kit.\n\nFor a band that was explicitly not trying to reinvent its sound on the second album, cymbal continuity made sense. The A Custom series' bright, articulate character and high-volume projection are defining elements of Cavalera Conspiracy's sonic profile. Switching to a different cymbal line would have altered the band's character without obvious musical justification.\n\nThe 14\" A Custom hi-hats drive the album's thrash and death metal sections with consistent power. The multiple crash options give Igor the ability to match crash size to musical intensity — smaller crashes for rapid accent hits, larger crashes for full-band climaxes. The 20\" ride provides weight and articulation for sections where a crash sound would be excessive.\n\nListening across both Cavalera Conspiracy albums, the A Custom cymbals create a sonic thread that connects the two records. Fans who attended Cavalera Conspiracy shows in 2008 and 2009 recognized the same cymbal character on \"Blunt Force Trauma\" — intentional continuity that reinforces the band's identity.\n\nZildjian's A Custom series remains available today, making it accessible for drummers looking to capture Igor's Cavalera Conspiracy era sound.",
+      "estimatedValue": "$1,800-2,600 total (2011)"
     },
     "hardware": {
       "title": "Tama Speed Cobra: Three Years Wiser",
@@ -2466,7 +2465,7 @@ export const articles = {
     },
     "recordingTechniques": {
       "title": "Logan Mader's Second Pass: Clarity and Weight",
-      "content": "Logan Mader produced \"Blunt Force Trauma\" after delivering a well-received debut album with Cavalera Conspiracy, and the familiarity between producer and band paid dividends in the recording sessions. Mader understood the brothers' creative dynamic, knew how Igor's kit sounded in the room versus on tape, and could make production decisions quickly rather than spending extended setup time calibrating to an unfamiliar act.\n\n**Production Evolution from Inflikted:**\nListening to both albums, the drums on \"Blunt Force Trauma\" benefit from incremental production improvements. The kick drum is more present and defined — a tighter low-end weight that sits in the pocket without blurring into the bass guitar. The snare retains the cutting authority of the debut while feeling slightly more natural, less processed. The overall drum sound is more cohesive as a complete picture of a kit playing together rather than individual close-miked elements.\n\n**Drum Recording Approach:**\n- Close miking maintained from Inflikted — attack-forward philosophy\n- More room microphone contribution, giving drums slightly more dimension\n- Careful low-end management on the kick to avoid muddiness in the guitar-dense mix\n- Overhead placement optimized to capture the RUDE cymbal character without wash overwhelming the kit\n\n**The Three-Year Advantage:**\nMader and Igor arrived at the \"Blunt Force Trauma\" sessions with three years of combined experience performing this music live. The drum sounds were not being invented from scratch — they were being recalled and captured from a performance approach that had been refined nightly in venues across multiple continents. This reduced the recording time needed to establish sounds and allowed more attention to performance quality.\n\n**Mixing Philosophy:**\nThe drum mix on \"Blunt Force Trauma\" gives Igor's playing slightly more dynamic range than \"Inflikted.\" The quieter moments breathe before the heavy sections explode. This dynamic contrast was possible because the band was more confident in the studio, less inclined to play everything at maximum intensity and more willing to let the arrangement do the work."
+      "content": "Logan Mader produced \"Blunt Force Trauma\" after delivering a well-received debut album with Cavalera Conspiracy, and the familiarity between producer and band paid dividends in the recording sessions. Mader understood the brothers' creative dynamic, knew how Igor's kit sounded in the room versus on tape, and could make production decisions quickly rather than spending extended setup time calibrating to an unfamiliar act.\n\n**Production Evolution from Inflikted:**\nListening to both albums, the drums on \"Blunt Force Trauma\" benefit from incremental production improvements. The kick drum is more present and defined — a tighter low-end weight that sits in the pocket without blurring into the bass guitar. The snare retains the cutting authority of the debut while feeling slightly more natural, less processed. The overall drum sound is more cohesive as a complete picture of a kit playing together rather than individual close-miked elements.\n\n**Drum Recording Approach:**\n- Close miking maintained from Inflikted — attack-forward philosophy\n- More room microphone contribution, giving drums slightly more dimension\n- Careful low-end management on the kick to avoid muddiness in the guitar-dense mix\n- Overhead placement optimized to capture the Zildjian A Custom cymbal character without wash overwhelming the kit\n\n**The Three-Year Advantage:**\nMader and Igor arrived at the \"Blunt Force Trauma\" sessions with three years of combined experience performing this music live. The drum sounds were not being invented from scratch — they were being recalled and captured from a performance approach that had been refined nightly in venues across multiple continents. This reduced the recording time needed to establish sounds and allowed more attention to performance quality.\n\n**Mixing Philosophy:**\nThe drum mix on \"Blunt Force Trauma\" gives Igor's playing slightly more dynamic range than \"Inflikted.\" The quieter moments breathe before the heavy sections explode. This dynamic contrast was possible because the band was more confident in the studio, less inclined to play everything at maximum intensity and more willing to let the arrangement do the work."
     },
     "trackBreakdowns": {
       "title": "Key Tracks: Blunt Force Precision",
@@ -2525,7 +2524,7 @@ export const articles = {
       },
       {
         "question": "What drum kit did Igor Cavalera use on Blunt Force Trauma?",
-        "answer": "On Cavalera Conspiracy's Blunt Force Trauma recorded in 2010 and released in 2011, Igor Cavalera played a Tama Starclassic Maple kit — the same platform he had used on Inflikted and refined through three years of touring. The setup included a single 22x18 inch bass drum, rack toms in 10 and 12 inches, and floor toms in 14 and 16 inches. The maple shells were tuned slightly tighter than on the debut, producing a punchier, more attack-forward sound that matched the album's more focused production."
+        "answer": "On Cavalera Conspiracy's Blunt Force Trauma recorded in 2010 and released in 2011, Igor Cavalera played a ddrum Hybrid Kit — the same platform he had used on Inflikted since switching from Tama in 2006, refined through three years of touring. The setup included a single 22x18 inch bass drum, rack toms in 10 and 12 inches, and floor toms in 14 and 16 inches. The shells were tuned slightly tighter than on the debut, producing a punchier, more attack-forward sound that matched the album's more focused production."
       },
       {
         "question": "How does Blunt Force Trauma compare to Inflikted?",
@@ -2533,7 +2532,7 @@ export const articles = {
       },
       {
         "question": "What cymbals did Igor Cavalera use on Blunt Force Trauma?",
-        "answer": "On Blunt Force Trauma in 2011, Igor Cavalera continued with the Paiste RUDE series that had been his primary cymbal choice since the Sepultura Roots era. His setup included Paiste RUDE 14 inch hi-hats, RUDE 16, 18, and 19 inch crashes, a RUDE 20 inch ride, and a RUDE 18 inch China. The RUDE series remained consistent across both Cavalera Conspiracy albums, reinforcing the sonic identity between Inflikted and Blunt Force Trauma."
+        "answer": "On Blunt Force Trauma in 2011, Igor Cavalera continued with the Zildjian A Custom series that had been his cymbal choice since switching from Paiste in 2006 for the Cavalera Conspiracy era. His setup included Zildjian A Custom 14 inch hi-hats, 16, 18, and 19 inch crashes, a 20 inch ride, and an 18 inch China. The A Custom series remained consistent across both Cavalera Conspiracy albums, reinforcing the sonic identity between Inflikted and Blunt Force Trauma."
       },
       {
         "question": "Why did Max and Igor Cavalera start Cavalera Conspiracy instead of returning to Sepultura?",
@@ -2542,7 +2541,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "Blunt Force: A Brotherhood Fully Restored",
-      "content": "\"Blunt Force Trauma\" is the album that proved Cavalera Conspiracy was not a one-album experiment. The debut could have been explained as nostalgia, brothers cashing in on a famous name, or a temporary creative detour. The second album removed all of those explanations. This was a working band with a defined identity and a clear artistic purpose.\n\nFor Igor Cavalera, \"Blunt Force Trauma\" represents his drumming at one of its most confident points. He was not trying to prove anything — not that he could match his Sepultura legacy, not that he belonged in metal after his electronic music explorations with Mixhell, not that the brothers' reunion had commercial viability. All of that had already been established. \"Blunt Force Trauma\" is the sound of someone playing from a position of creative security.\n\nThe gear choices reflect that security. The same Tama Starclassic. The same Paiste RUDE cymbals. The same Tama Speed Cobra pedal, refined through thousands of hours of touring. No significant changes, because none were needed. The tools worked. The partnership worked. The music worked.\n\n**What Blunt Force Trauma Established:**\n- Cavalera Conspiracy as a sustained creative partnership rather than a reunion tour\n- Igor's Tama Starclassic / Paiste RUDE setup as the definitive Cavalera Conspiracy drum sound\n- Logan Mader as the band's consistent production partner\n- The brothers' creative chemistry deepening rather than fading with continued collaboration\n\n**For Drummers Studying This Album:**\nPay attention to what Igor does not play on \"Blunt Force Trauma.\" The fills are sparse. The tom cascades that would be tempting in an album-length thrash context are mostly absent. The kicks and snare carry the songs. Every additional element — a China crash, a floor tom roll, an open hi-hat pattern — earns its place by adding something that the core beat cannot provide alone. That editorial discipline is as instructive as any specific technique.\n\nThe Cavalera brothers made metal with maximum impact and minimum excess. That has always been the best metal."
+      "content": "\"Blunt Force Trauma\" is the album that proved Cavalera Conspiracy was not a one-album experiment. The debut could have been explained as nostalgia, brothers cashing in on a famous name, or a temporary creative detour. The second album removed all of those explanations. This was a working band with a defined identity and a clear artistic purpose.\n\nFor Igor Cavalera, \"Blunt Force Trauma\" represents his drumming at one of its most confident points. He was not trying to prove anything — not that he could match his Sepultura legacy, not that he belonged in metal after his electronic music explorations with Mixhell, not that the brothers' reunion had commercial viability. All of that had already been established. \"Blunt Force Trauma\" is the sound of someone playing from a position of creative security.\n\nThe gear choices reflect that security. The same ddrum Hybrid Kit. The same Zildjian A Custom cymbals. The same Tama Speed Cobra pedal, refined through thousands of hours of touring. No significant changes, because none were needed. The tools worked. The partnership worked. The music worked.\n\n**What Blunt Force Trauma Established:**\n- Cavalera Conspiracy as a sustained creative partnership rather than a reunion tour\n- Igor's ddrum Hybrid Kit / Zildjian A Custom Series setup as the definitive Cavalera Conspiracy drum sound\n- Logan Mader as the band's consistent production partner\n- The brothers' creative chemistry deepening rather than fading with continued collaboration\n\n**For Drummers Studying This Album:**\nPay attention to what Igor does not play on \"Blunt Force Trauma.\" The fills are sparse. The tom cascades that would be tempting in an album-length thrash context are mostly absent. The kicks and snare carry the songs. Every additional element — a China crash, a floor tom roll, an open hi-hat pattern — earns its place by adding something that the core beat cannot provide alone. That editorial discipline is as instructive as any specific technique.\n\nThe Cavalera brothers made metal with maximum impact and minimum excess. That has always been the best metal."
     }
   }
 };

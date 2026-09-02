@@ -5725,15 +5725,14 @@ Vinnie Paul of Pantera used Sabian cymbals throughout the band's most influentia
       { slug: 'lars-ulrich', name: 'Lars Ulrich', reason: 'Zildjian A Custom — the pro metal standard' },
       { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'Paiste 2002 — classic heavy metal power' },
       { slug: 'mike-mangini', name: 'Mike Mangini', reason: 'Meinl Byzance — progressive metal depth' },
-      { slug: 'vinnie-paul', name: 'Vinnie Paul', reason: 'Sabian AAX — Pantera groove metal power' },
-      { slug: 'joey-jordison', name: 'Joey Jordison', reason: 'Zildjian — explosive nu/extreme metal' }
+      { slug: 'vinnie-paul', name: 'Vinnie Paul', reason: 'Sabian AAX — Pantera groove metal power' }
     ],
 
     // FAQ section for SEO
     faq: [
       {
         question: "What cymbals do metal drummers use?",
-        answer: "Most professional metal drummers use Zildjian A Custom (Lars Ulrich, Joey Jordison), Paiste 2002 (Mikkey Dee), Meinl Byzance (Mike Mangini, Dirk Verbeuren), or Sabian AAX (Vinnie Paul, Paul Bostaph). Zildjian A Custom is the single most common choice on MetalForge's roster. All are B20 bronze or equivalent high-quality alloy for complex, musical tone."
+        answer: "Most professional metal drummers use Zildjian A Custom (Lars Ulrich), Paiste 2002 (Mikkey Dee), Meinl Byzance (Mike Mangini, Dirk Verbeuren), or Sabian AAX (Vinnie Paul, Paul Bostaph). Zildjian A Custom is the single most common choice on MetalForge's roster. All are B20 bronze or equivalent high-quality alloy for complex, musical tone."
       },
       {
         question: "Are Zildjian or Paiste better for metal?",
@@ -10557,8 +10556,7 @@ Lars Ulrich of Metallica has used Zildjian A Custom cymbals extensively througho
           usedBy: [
             { name: "Lars Ulrich", band: "Metallica", note: "Zildjian A Custom across Metallica's career" },
             { name: "Matt Greiner", band: "August Burns Red", note: "Progressive metalcore hi-hat precision" },
-            { name: "Charlie Benante", band: "Anthrax", note: "Thrash metal hi-hat authority" },
-            { name: "Joey Jordison", band: "Slipknot", note: "Zildjian hi-hats for furious nu/extreme metal" }
+            { name: "Charlie Benante", band: "Anthrax", note: "Thrash metal hi-hat authority" }
           ],
           verdict: "The benchmark hi-hat for metal. Cutting, versatile, and used by legends. Start here if you're unsure.",
           rating: 4.9,
@@ -10701,7 +10699,7 @@ The AAX series is built for modern playing styles — tight, responsive, and wit
 
           description: `The Zildjian K Hi-Hats are the darker, warmer sibling to the A Custom — traditional finish B20 bronze with a hand-hammered, irregular surface that creates complex, warm overtones. Where the A Custom cuts brightly, the K series breathes and speaks with depth and character. For metal styles where darkness and complexity are assets — progressive, doom, atmospheric black metal — the K Hi-Hats are the premier choice.
 
-Joey Jordison of Slipknot used Zildjian cymbals throughout his tenure, preferring models that provided both aggression and musical complexity for Slipknot's dynamic range from full-throttle blast to atmospheric passages. The K's ability to transition from aggressive closed chicks to rich, complex open sounds makes it ideal for metal drummers who play across a wide dynamic range.`,
+The K's ability to transition from aggressive closed chicks to rich, complex open sounds makes it ideal for metal drummers who play across a wide dynamic range.`,
 
           pros: [
             "Dark, warm, complex character with rich overtones",
@@ -10723,7 +10721,6 @@ Joey Jordison of Slipknot used Zildjian cymbals throughout his tenure, preferrin
             series: "K Zildjian"
           },
           usedBy: [
-            { name: "Joey Jordison", band: "Slipknot", note: "Zildjian — nu/extreme metal dynamic range" },
             { name: "Brann Dailor", band: "Mastodon", note: "Zildjian K Dark — progressive sludge complexity" },
             { name: "Mike Mangini", band: "Dream Theater", note: "Complex hi-hat dynamics in prog metal" }
           ],
@@ -10869,7 +10866,6 @@ Joey Jordison of Slipknot used Zildjian cymbals throughout his tenure, preferrin
     ],
     relatedDrummers: [
       { slug: 'lars-ulrich', name: 'Lars Ulrich', reason: 'Zildjian A Custom — the definitive metal hi-hat sound' },
-      { slug: 'joey-jordison', name: 'Joey Jordison', reason: 'Zildjian — explosive nu/extreme metal hi-hat attack' },
       { slug: 'mike-mangini', name: 'Mike Mangini', reason: 'Meinl endorser — progressive metal hi-hat complexity' },
       { slug: 'matt-greiner', name: 'Matt Greiner', reason: 'Zildjian hi-hats for progressive metalcore precision' },
       { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'Paiste 2002 — classic heavy metal hi-hat power' }

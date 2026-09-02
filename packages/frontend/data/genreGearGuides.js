@@ -7180,13 +7180,13 @@ Technique matters more than gear in black metal. The genre's most influential re
     // SEO metadata
     title: "Best Drum Kits for Thrash Metal: 2026 Ultimate Guide",
     metaTitle: "Best Drum Kits for Thrash Metal 2026 | MetalForge Expert Guide",
-    description: "Best drum kits for thrash metal drumming. What Lars Ulrich (Tama Starclassic), Dave Lombardo, and Gene Hoglan (DW) actually use — from budget to pro, covering birch, maple, and maple/walnut kits.",
+    description: "Best drum kits for thrash metal drumming. What Lars Ulrich (Tama Starclassic), Dave Lombardo, and Sean Reinert (DW) actually use — from budget to pro, covering birch, maple, and maple/walnut kits.",
     seoKeywords: [
       'best drum kits for thrash metal',
       'thrash metal drum kit',
       'lars ulrich drum kit',
       'dave lombardo drum kit',
-      'gene hoglan drum kit',
+      'sean reinert drum kit',
       'tama starclassic thrash metal',
       'dw drums thrash metal',
       'best beginner drum kit thrash metal',
@@ -7217,13 +7217,13 @@ Technique matters more than gear in black metal. The genre's most influential re
       title: "The Thrash Drum Kit: Power, Projection, and Precision",
       content: `Thrash metal drumming demands a kit that combines projection, durability, and tonal clarity. Unlike jazz or even classic rock, thrash places specific demands: the kick drum must cut through dense, downtuned guitar at 180+ BPM, the snare must crack with authority at any volume, and toms must project clearly during complex fill sequences played at high speed.
 
-Lars Ulrich's Tama Starclassic Maple kit has been his primary setup through Metallica's peak years — the maple shells, tuned tight with the right heads, providing the punchy attack that drives "Master of Puppets" and "...And Justice for All." Dave Lombardo's various Yamaha and DW setups gave Slayer the aggressive, precise kick drum attack that made "Reign in Blood" a benchmark. Gene Hoglan — nicknamed "The Atomic Clock" — trusts DW Collector's Series drums for the precision that makes his playing as reliable as a metronome.
+Lars Ulrich's Tama Starclassic Maple kit has been his primary setup through Metallica's peak years — the maple shells, tuned tight with the right heads, providing the punchy attack that drives "Master of Puppets" and "...And Justice for All." Dave Lombardo's various Yamaha and DW setups gave Slayer the aggressive, precise kick drum attack that made "Reign in Blood" a benchmark. Sean Reinert (Death / Cynic) switched to a DW Collector's Series kit for Cynic's 2008 reunion onward, prized for the precision that made his technical, classically-informed playing as reliable as a metronome.
 
 This guide covers what actually makes a drum kit work for thrash metal, which specific models the legends use, and how to build your own thrash setup across any budget.`,
       keyPoints: [
         "Maple shells, tuned tight, deliver the warm-but-cutting attack thrash metal demands",
         "Lars Ulrich's Tama Starclassic Maple is the most iconic thrash kit",
-        "DW Collector's Series is Gene Hoglan's choice for precision thrash",
+        "DW Collector's Series is Sean Reinert's choice for precision thrash",
         "Standard sizes: 22\" kick, 12\"/13\" rack toms, 16\" floor tom"
       ]
     },
@@ -7325,12 +7325,12 @@ Lars's Tama endorsement and his use of the Starclassic — including his signatu
           tier: "premium",
           material: "Maple (or Maple/Mahogany hybrid)",
 
-          description: `The DW Collector's Series represents the pinnacle of American drum manufacturing — hand-crafted in Oxnard, California with individually selected maple shells. Gene Hoglan, nicknamed "The Atomic Clock" for his legendary precision, uses DW drums for the exacting tone and consistency his playing demands. If Lars's Tama is the accessible thrash standard, DW Collector's represents thrash at its most refined.
+          description: `The DW Collector's Series represents the pinnacle of American drum manufacturing — hand-crafted in Oxnard, California with individually selected maple shells. Sean Reinert (Death / Cynic) switched to a DW Collector's Series kit for Cynic's 2008 reunion onward, drawn to the exacting tone and consistency the shells deliver. If Lars's Tama is the accessible thrash standard, DW Collector's represents thrash at its most refined.
 
 DW's True-Pitch tensioning and precision bearing edges ensure these drums tune accurately and stay in tune under heavy use — critical when your entire reputation is built on metronomic precision. The warmth of maple is tuned upward to deliver thrash attack; the superior resonance characteristics mean you can get more tonal variation from this kit than from birch.`,
 
           pros: [
-            "Gene Hoglan's kit of choice — The Atomic Clock's precision demands",
+            "Sean Reinert's kit of choice — DW Collector's Series since 2008",
             "Hand-crafted in USA with individually selected maple shells",
             "True-Pitch tensioning for accurate, consistent tuning",
             "Extremely versatile — works for any metal subgenre",
@@ -7349,9 +7349,9 @@ DW's True-Pitch tensioning and precision bearing edges ensure these drums tune a
             tomSizes: "Custom configurations available"
           },
           usedBy: [
-            { name: "Gene Hoglan", band: "Death / Testament / Dark Angel", note: "DW Collector's Series — The Atomic Clock's precision machine" }
+            { name: "Sean Reinert", band: "Death / Cynic", note: "DW Collector's Series since 2008" }
           ],
-          verdict: "The premium thrash kit. Gene Hoglan's choice for a reason — the absolute best for players who demand perfection.",
+          verdict: "The premium thrash kit. Sean Reinert's choice for exacting technical precision — the absolute best for players who demand perfection.",
           rating: 4.8,
           affiliateLink: "https://www.thomann.de/intl/dw_drums_collectors_series.htm?partner_id=metalforge"
         },
@@ -7521,7 +7521,7 @@ More importantly, the Export's robust construction handles aggressive thrash pla
       title: "Birch vs Maple for Thrash Metal",
       content: `The choice between birch and maple shells is the most important decision in building a thrash metal kit:
 
-**Maple (Tama Starclassic Maple — Lars Ulrich's choice; DW Collector's — Gene Hoglan's choice):**
+**Maple (Tama Starclassic Maple — Lars Ulrich's choice; DW Collector's — Sean Reinert's choice):**
 - Warmer, fuller tone with more body and natural resonance
 - More versatile across dynamics and tempos
 - Still cuts through dense guitar walls when tuned tight with the right heads
@@ -7540,7 +7540,7 @@ More importantly, the Export's robust construction handles aggressive thrash pla
 - More complex tone than pure maple
 - Growing popularity in modern metal
 
-**Thrash Recommendation:** Start with maple, tuned tight, if you want the sound Lars Ulrich and Gene Hoglan built their careers on. Birch is a solid, more budget-accessible option if you want cutting attack without as much tuning work.`,
+**Thrash Recommendation:** Start with maple, tuned tight, if you want the sound Lars Ulrich and Sean Reinert built their careers on. Birch is a solid, more budget-accessible option if you want cutting attack without as much tuning work.`,
       comparisonTable: [
         { feature: "Attack Focus", birch: "⭐⭐⭐⭐⭐", maple: "⭐⭐⭐⭐" },
         { feature: "Warmth", birch: "⭐⭐⭐", maple: "⭐⭐⭐⭐⭐" },
@@ -7562,7 +7562,7 @@ More importantly, the Export's robust construction handles aggressive thrash pla
         {
           category: "Best Premium",
           pedal: "DW Collector's Series",
-          reason: "Gene Hoglan's choice. Hand-crafted in USA, maple perfection for The Atomic Clock's precision."
+          reason: "Sean Reinert's choice. Hand-crafted in USA, maple perfection for exacting technical precision."
         },
         {
           category: "Best Mid-Range",
@@ -7587,14 +7587,14 @@ More importantly, the Export's robust construction handles aggressive thrash pla
     relatedDrummers: [
       { slug: 'lars-ulrich', name: 'Lars Ulrich', reason: 'Tama Starclassic Maple — defining thrash metal kit sound' },
       { slug: 'dave-lombardo', name: 'Dave Lombardo', reason: 'Tama/Pearl — relentless thrash precision' },
-      { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'DW Collector\'s — The Atomic Clock\'s precision machine' }
+      { slug: 'sean-reinert', name: 'Sean Reinert', reason: 'DW Collector\'s Series — precision behind Cynic\'s Traced in Air' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'lars-ulrich', name: 'Lars Ulrich', reason: 'Tama Starclassic Maple — the definitive thrash metal kit' },
       { slug: 'dave-lombardo', name: 'Dave Lombardo', reason: 'Tama/Pearl — driving Slayer\'s thrash precision' },
-      { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'DW Collector\'s Series — The Atomic Clock\'s drum machine' },
+      { slug: 'sean-reinert', name: 'Sean Reinert', reason: 'DW Collector\'s Series — precision behind Cynic\'s Traced in Air' },
     ],
 
     // FAQ section for SEO
@@ -7604,12 +7604,12 @@ More importantly, the Export's robust construction handles aggressive thrash pla
         answer: "Lars Ulrich uses Tama Starclassic Maple drums as his primary setup through Metallica's career, along with his signature LU1465 snare. The 100% maple shell construction delivers a warm, full-bodied tone that, tuned tight with the right heads, still cuts through Metallica's dense guitar arrangements. Lars's Tama endorsement made the Starclassic synonymous with professional thrash metal drumming."
       },
       {
-        question: "What drum kit does Gene Hoglan use?",
-        answer: "Gene Hoglan, nicknamed 'The Atomic Clock,' uses DW Collector's Series maple drums. The hand-crafted DW shells provide the precision and consistency that Hoglan's metronomic playing demands. His work with Death, Dark Angel, Testament, and many other bands has been performed on DW equipment."
+        question: "What drum kit does Sean Reinert use?",
+        answer: "Sean Reinert (Death, Cynic) played a DW Collector's Series maple kit from 2008 onward, starting with Cynic's reunion album \"Traced in Air.\" The hand-crafted DW shells provided the precision and consistency his technical, classically-informed playing demanded. Earlier in his career, on Death's \"Human\" (1991) and Cynic's original \"Focus\" (1993), he played a Tama Artstar II."
       },
       {
         question: "Are birch or maple drums better for thrash metal?",
-        answer: "Maple is the choice of thrash metal's two most influential drummers — Lars Ulrich's Tama Starclassic Maple and Gene Hoglan's DW Collector's Series — delivering a warmer, fuller tone that still cuts through dense guitar arrangements when tuned tight with the right heads. Birch produces a more immediately focused, punchy attack out of the box and remains a solid, more budget-accessible traditional choice. Either works; maple is what the genre's most recorded kits actually use."
+        answer: "Maple is a strong choice among influential thrash and technical metal drummers — Lars Ulrich's Tama Starclassic Maple and Sean Reinert's DW Collector's Series — delivering a warmer, fuller tone that still cuts through dense guitar arrangements when tuned tight with the right heads. Birch produces a more immediately focused, punchy attack out of the box and remains a solid, more budget-accessible traditional choice. Either works; maple is what many of the genre's most recorded kits actually use."
       },
       {
         question: "What size drum kit for thrash metal?",
@@ -7628,9 +7628,9 @@ More importantly, the Export's robust construction handles aggressive thrash pla
     // Conclusion
     conclusion: {
       title: "Build Your Thrash Metal War Machine",
-      content: `Building a thrash metal kit comes down to a clear hierarchy: shell material, then configuration, then hardware, then heads. Get the shells right first — maple tuned tight for the sound Lars Ulrich and Gene Hoglan actually play (Tama Starclassic or DW Collector's path), or birch if you want cutting attack with less tuning work (budget path). Everything else is adjustable.
+      content: `Building a thrash metal kit comes down to a clear hierarchy: shell material, then configuration, then hardware, then heads. Get the shells right first — maple tuned tight for the sound Lars Ulrich and Sean Reinert actually played (Tama Starclassic or DW Collector's path), or birch if you want cutting attack with less tuning work (budget path). Everything else is adjustable.
 
-Lars Ulrich didn't always have the best gear — he had the right gear for his needs and practiced until it became an extension of his body. Gene Hoglan didn't use DW from day one. Both built their sounds through years of playing, upgrading as their skills and needs developed.
+Lars Ulrich didn't always have the best gear — he had the right gear for his needs and practiced until it became an extension of his body. Sean Reinert didn't use DW from day one either — he played a Tama Artstar II on Death's "Human" before upgrading to DW's Collector's Series in 2008. Both built their sounds through years of playing, upgrading as their skills and needs developed.
 
 Start where your budget allows. Upgrade the heads immediately on any kit you buy — factory heads are rarely optimal. Add quality hardware as budget allows. And practice your double bass technique daily — no drum kit compensates for underdeveloped foot speed.
 

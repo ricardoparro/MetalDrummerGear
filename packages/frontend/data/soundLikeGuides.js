@@ -12275,8 +12275,8 @@ This guide breaks down the technique, gear, and practice approach behind Ward's 
         kit: "Ludwig Super Classic vintage or reissue ($3,000+)",
         cymbals: "Full Zildjian Avedis Series setup ($1,800+)",
         pedals: "Ludwig Speed King ($150)",
-        heads: "Full Ludwig Weather King setup ($300)",
-        notes: "A genuine vintage-spec Ludwig kit with Weather King heads throughout matches Ward's classic-era Sabbath rig."
+        heads: "Full Remo Ambassador Coated setup ($300)",
+        notes: "A genuine vintage-spec Ludwig kit with Remo Ambassador Coated heads throughout matches Ward's classic-era Sabbath rig."
       }
     },
     faq: [

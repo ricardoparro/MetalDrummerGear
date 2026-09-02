@@ -121,7 +121,7 @@ This guide breaks down exactly what you need from a pedal for death metal, recom
           
           description: `The Pearl Demon Drive has become the gold standard for extreme metal. Its NiNjA bearing system provides virtually frictionless action, while the interchangeable cams let you dial in exactly the feel you want. The Click-Lock spring tension makes adjustments precise and reliable.
 
-George Kollias (Nile), Dave Lombardo, and countless death metal drummers trust the Demon Drive for their most demanding performances. The direct drive action delivers instant, linear response—essential when you're playing 260 BPM 16th notes.`,
+Dave Lombardo and countless death metal drummers trust the Demon Drive for their most demanding performances. The direct drive action delivers instant, linear response—essential when you're playing 260 BPM 16th notes.`,
           
           pros: [
             "NiNjA bearing system for ultimate smoothness",
@@ -438,7 +438,7 @@ While not as common in pure death metal, the 9000 series is favored by drummers 
     faq: [
       {
         question: "What pedal does George Kollias use?",
-        answer: "George Kollias uses Pearl Demon Drive double pedals with direct drive cams. He's known for achieving speeds over 280 BPM with these pedals."
+        answer: "George Kollias uses his co-designed Pearl Demon XR double pedals with direct drive cams. He's known for achieving speeds over 280 BPM with these pedals."
       },
       {
         question: "Is direct drive better than chain drive for death metal?",
@@ -10931,7 +10931,7 @@ Your hi-hats are your rhythmic pulse. Choose ones that lock in with your music a
     // SEO metadata
     title: "Best Bass Drum Pedals for Metal: 2026 Ultimate Guide",
     metaTitle: "Best Bass Drum Pedals for Metal in 2026 | MetalForge Expert Guide",
-    description: "Discover the best bass drum pedals for metal drumming. Expert recommendations covering Tama Iron Cobra, Pearl Demon Drive, DW 9000, and Trick Bigfoot — the exact pedals used by Tomas Haake, George Kollias, Gene Hoglan, and Joey Jordison.",
+    description: "Discover the best bass drum pedals for metal drumming. Expert recommendations covering Tama Iron Cobra, Pearl Demon XR, DW 9000, and Trick Bigfoot — the exact pedals used by Tomas Haake, George Kollias, Gene Hoglan, and Joey Jordison.",
     seoKeywords: [
       'best bass drum pedals for metal',
       'best double bass pedal metal',
@@ -10968,7 +10968,7 @@ Your hi-hats are your rhythmic pulse. Choose ones that lock in with your music a
       title: "Why Your Bass Drum Pedal Defines Your Metal Sound",
       content: `In metal drumming, no single piece of hardware has more impact on your playing than your bass drum pedal. Speed, power, feel, and consistency — every aspect of your kick technique starts and ends with the pedal under your foot. Choose the wrong one and you'll fight it forever. Choose the right one and it becomes an extension of your body.
 
-Metal places extreme demands on bass drum pedals: blast beat speeds require smooth, frictionless action with fast rebound; groove-oriented metal needs powerful, authoritative impact; recording sessions demand consistency and silence from the mechanism. Tomas Haake of Meshuggah built his legendary polyrhythmic kick precision around the Tama Iron Cobra — arguably the most popular double bass pedal in metal history. George Kollias of Nile pushes the Pearl Demon Drive to sustain 280 BPM single-stroke patterns for minutes at a time. Gene Hoglan — "The Atomic Clock" — has used DW hardware to deliver his signature technical precision across bands including Death, Dark Angel, and Testament.
+Metal places extreme demands on bass drum pedals: blast beat speeds require smooth, frictionless action with fast rebound; groove-oriented metal needs powerful, authoritative impact; recording sessions demand consistency and silence from the mechanism. Tomas Haake of Meshuggah built his legendary polyrhythmic kick precision around the Tama Iron Cobra — arguably the most popular double bass pedal in metal history. George Kollias of Nile pushes his co-designed Pearl Demon XR to sustain 280 BPM single-stroke patterns for minutes at a time. Gene Hoglan — "The Atomic Clock" — has used DW hardware to deliver his signature technical precision across bands including Death, Dark Angel, and Testament.
 
 This guide breaks down exactly which bass drum pedals work best for metal, why drive type and footboard profile matter, and which specific models the pros use — from the versatile Iron Cobra to the specialized Trick Bigfoot. Whether you're chasing blast beat speed, thunderous power, or technical precision, the right pedal is the foundation of everything.`,
       keyPoints: [
@@ -11081,7 +11081,7 @@ Tomas Haake of Meshuggah has built his legendary polyrhythmic kick technique aro
 
           description: `The Pearl Demon Drive uses a direct drive mechanism — no chain, no belt, no slack between your foot and the beater. The solid aluminum drive rod transmits foot force instantly to the beater shaft, creating the most immediate, direct response possible. For extreme speed metal drummers who need maximum control over every micro-movement, the Demon Drive's direct action is unmatched.
 
-George Kollias of Nile — one of the fastest and most technically precise drummers in extreme metal — has used Pearl pedals to sustain 270-280 BPM single-stroke kick patterns for extended periods. The Demon Drive's direct mechanism allows Kollias to maintain perfect note consistency at speeds that would cause chain-drive pedals to introduce unwanted variations in feel and timing. For death metal, grindcore, and any extreme metal context where raw speed and technical precision are the primary demands, the Demon Drive is the premier choice.`,
+George Kollias of Nile — one of the fastest and most technically precise drummers in extreme metal — has used his co-designed Pearl Demon XR pedals to sustain 270-280 BPM single-stroke kick patterns for extended periods. The Demon XR's direct mechanism allows Kollias to maintain perfect note consistency at speeds that would cause chain-drive pedals to introduce unwanted variations in feel and timing. For death metal, grindcore, and any extreme metal context where raw speed and technical precision are the primary demands, the Demon Drive is the premier choice.`,
 
           pros: [
             "Direct drive — zero slack, maximum speed and control",
@@ -11103,7 +11103,7 @@ George Kollias of Nile — one of the fastest and most technically precise drumm
             spring: "Adjustable coil spring"
           },
           usedBy: [
-            { name: "George Kollias", band: "Nile", note: "Pearl Demon Drive — fastest feet in death metal" },
+            { name: "George Kollias", band: "Nile", note: "Pearl Demon XR — fastest feet in death metal" },
             { name: "Shannon Larkin", band: "Godsmack", note: "Pearl hardware for heavy groove" },
             { name: "Anton Johansson", band: "Various", note: "Extreme speed precision" }
           ],
@@ -11350,8 +11350,8 @@ For metal drummers whose technique relies heavily on the heel-toe method or who 
         },
         {
           category: "Best for Extreme Speed",
-          pedal: "Pearl Demon Drive",
-          reason: "Direct drive eliminates chain slack for maximum speed and precision. George Kollias' pedal of choice for 280 BPM death metal."
+          pedal: "Pearl Demon XR",
+          reason: "Direct drive eliminates chain slack for maximum speed and precision. George Kollias co-designed this as his own signature pedal for 280 BPM death metal."
         },
         {
           category: "Best for Technical Precision",
@@ -11374,7 +11374,7 @@ For metal drummers whose technique relies heavily on the heel-toe method or who 
     ],
     relatedDrummers: [
       { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Iron Cobra — the world\'s most precise kick technique' },
-      { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Demon Drive — 280 BPM death metal extremity' },
+      { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Demon XR — 280 BPM death metal extremity' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'DW 9000 — The Atomic Clock\'s precision platform' },
       { slug: 'joey-jordison', name: 'Joey Jordison', reason: 'DW hardware for explosive nu/extreme metal kick' },
       { slug: 'chris-adler', name: 'Chris Adler', reason: 'Iron Cobra for Lamb of God groove metal authority' }
@@ -11382,7 +11382,7 @@ For metal drummers whose technique relies heavily on the heel-toe method or who 
 
     featuredDrummers: [
       { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Tama Iron Cobra — the world\'s most precise polyrhythmic kick technique with Meshuggah' },
-      { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Demon Drive — sustaining 280 BPM death metal extremity with Nile' },
+      { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Demon XR — sustaining 280 BPM death metal extremity with Nile' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'DW 9000 — The Atomic Clock\'s precision platform across Death and Testament' }
     ],
 
@@ -11390,7 +11390,7 @@ For metal drummers whose technique relies heavily on the heel-toe method or who 
     faq: [
       {
         question: "What bass drum pedal do metal drummers use?",
-        answer: "The Tama Iron Cobra is the most common bass drum pedal among professional metal drummers. Tomas Haake of Meshuggah, Chris Adler of Lamb of God, and George Kollias of Nile have all used Iron Cobra pedals. Pearl Demon Drive is popular with extreme metal drummers for its direct drive speed (George Kollias). Gene Hoglan uses DW 9000 hardware. The Iron Cobra is the safe default choice for any metal style."
+        answer: "The Tama Iron Cobra is the most common bass drum pedal among professional metal drummers. Tomas Haake of Meshuggah, Chris Adler of Lamb of God, and George Kollias of Nile have all used Iron Cobra pedals. Pearl Demon XR is popular with extreme metal drummers for its direct drive speed (George Kollias, who co-designed it). Gene Hoglan uses DW 9000 hardware. The Iron Cobra is the safe default choice for any metal style."
       },
       {
         question: "What is the difference between chain drive and direct drive bass drum pedals?",
@@ -11406,14 +11406,14 @@ For metal drummers whose technique relies heavily on the heel-toe method or who 
       },
       {
         question: "Tama Iron Cobra vs Pearl Demon Drive — which is better for metal?",
-        answer: "Both are excellent. The Iron Cobra's chain drive and Rolling Glide cam provides explosive power and a natural feel — most metal drummers prefer it for its versatility across speed and groove contexts. The Demon Drive's direct drive is faster and more precise at extreme speeds, making it the choice of death metal specialists like George Kollias who push pedals to absolute limits. If you play diverse metal styles, choose Iron Cobra. If you're focused on death metal speed above everything else, consider Demon Drive."
+        answer: "Both are excellent. The Iron Cobra's chain drive and Rolling Glide cam provides explosive power and a natural feel — most metal drummers prefer it for its versatility across speed and groove contexts. Direct drive is faster and more precise at extreme speeds — George Kollias co-designed his own Pearl Demon XR to push pedals to absolute limits. If you play diverse metal styles, choose Iron Cobra. If you're focused on death metal speed above everything else, consider Demon Drive."
       }
     ],
 
     // Conclusion
     conclusion: {
       title: "Find Your Metal Kick Foundation",
-      content: `Your bass drum pedal is the foundation of your entire kick technique. Tomas Haake didn't build the most precise kick machine in metal by accident — the Iron Cobra's adjustability and consistent action gave him a stable platform to develop his polyrhythmic approach over decades. George Kollias didn't reach 280 BPM by just practicing harder — the Demon Drive's direct mechanism translated his extreme speed practice into consistent, reliable performance.
+      content: `Your bass drum pedal is the foundation of your entire kick technique. Tomas Haake didn't build the most precise kick machine in metal by accident — the Iron Cobra's adjustability and consistent action gave him a stable platform to develop his polyrhythmic approach over decades. George Kollias didn't reach 280 BPM by just practicing harder — his co-designed Demon XR's direct mechanism translated his extreme speed practice into consistent, reliable performance.
 
 For most metal drummers, the Tama Iron Cobra 900 is the answer. It's versatile, adjustable, indestructible, and used by more professional metal drummers than any competitor. If you're a death metal specialist pushing extreme speeds, consider the Pearl Demon Drive. If you want American build quality and Gene Hoglan's precision platform, the DW 9000 delivers.
 
@@ -114341,7 +114341,7 @@ This guide covers what genuinely separates a durable, blast-ready extreme metal 
           priceRange: "€500-600",
           tier: "pro",
           driveType: "Direct Drive",
-          description: `George Kollias of Nile — one of the fastest and most technically precise drummers in extreme metal — has used Pearl pedals to sustain 270-280 BPM single-stroke kick patterns for extended periods. The Demon Drive's direct mechanism allows Kollias to maintain perfect note consistency at speeds that would introduce unwanted variation in a chain-drive pedal.
+          description: `George Kollias of Nile — one of the fastest and most technically precise drummers in extreme metal — has used his co-designed Pearl Demon XR pedals to sustain 270-280 BPM single-stroke kick patterns for extended periods. The Demon XR's direct mechanism allows Kollias to maintain perfect note consistency at speeds that would introduce unwanted variation in a chain-drive pedal.
 
 For death metal, black metal, grindcore, and any extreme metal context where raw speed and technical precision are the primary demands, the Demon Drive is the premier choice.`,
           pros: [
@@ -114364,7 +114364,7 @@ For death metal, black metal, grindcore, and any extreme metal context where raw
             weight: "4.5 kg (pair)"
           },
           usedBy: [
-            { name: "George Kollias", band: "Nile", note: "Sustains 270-280 BPM single-stroke patterns — the extreme metal technical benchmark" }
+            { name: "George Kollias", band: "Nile", note: "Sustains 270-280 BPM single-stroke patterns on his co-designed Demon XR — the extreme metal technical benchmark" }
           ],
           verdict: "The technical benchmark across extreme metal. If raw speed and consistency are your priority, this is the pedal to beat.",
           rating: 4.9,
@@ -114552,8 +114552,8 @@ For drummers still building the endurance and consistency extreme metal's sustai
       picks: [
         {
           category: "Best Overall",
-          pedal: "Pearl Demon Drive",
-          reason: "George Kollias sustains 270-280 BPM single-stroke patterns on this pedal — the technical benchmark for the entire extreme metal scene."
+          pedal: "Pearl Demon XR",
+          reason: "George Kollias co-designed this pedal and sustains 270-280 BPM single-stroke patterns on it — the technical benchmark for the entire extreme metal scene."
         },
         {
           category: "Best for Pure Speed",
@@ -114581,7 +114581,7 @@ For drummers still building the endurance and consistency extreme metal's sustai
       'best-bass-drums-for-extreme-metal'
     ],
     relatedDrummers: [
-      { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Demon Drive — sustaining 270-280 BPM single-stroke patterns' },
+      { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Demon XR — sustaining 270-280 BPM single-stroke patterns' },
       { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Axis A Longboard — helped develop the purest direct-drive feel available' },
       { slug: 'pete-sandoval', name: 'Pete Sandoval', reason: 'Tama hardware — pioneered the gravity blast technique' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'DW 9000 — The Atomic Clock\'s precision instrument' }
@@ -114589,7 +114589,7 @@ For drummers still building the endurance and consistency extreme metal's sustai
 
     // Featured drummers (issue template)
     featuredDrummers: [
-      { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Demon Drive — 270-280 BPM single-stroke benchmark' },
+      { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Demon XR — 270-280 BPM single-stroke benchmark' },
       { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Axis A Longboard — purest direct-drive feel available' },
       { slug: 'pete-sandoval', name: 'Pete Sandoval', reason: 'Tama hardware — pioneered the gravity blast technique' }
     ],
@@ -114598,7 +114598,7 @@ For drummers still building the endurance and consistency extreme metal's sustai
     faq: [
       {
         question: "What drum pedal does George Kollias use?",
-        answer: "George Kollias of Nile uses Pearl pedals — including the Demon Drive — to sustain 270-280 BPM single-stroke kick patterns for extended periods. The direct-drive mechanism gives him perfect note consistency at speeds that would introduce variation in a chain-drive pedal, setting the technical benchmark for extreme metal drumming."
+        answer: "George Kollias of Nile uses his co-designed Pearl Demon XR pedals to sustain 270-280 BPM single-stroke kick patterns for extended periods. The direct-drive mechanism gives him perfect note consistency at speeds that would introduce variation in a chain-drive pedal, setting the technical benchmark for extreme metal drumming."
       },
       {
         question: "What pedal does Derek Roddy play?",
@@ -114623,7 +114623,7 @@ For drummers still building the endurance and consistency extreme metal's sustai
       title: "Build Your Extreme Metal Pedal Setup",
       content: `Across death metal, black metal, grindcore, and every hybrid in between, extreme metal's pedal demands converge on the same core requirements: sustained blast-beat speed, split-second consistency, and hardware that survives night after night of relentless use.
 
-George Kollias's Pearl Demon Drive and Derek Roddy's Axis A Longboard both represent the technical speed ceiling of the genre. Pete Sandoval's Tama lineage and Gene Hoglan's DW hardware prove that durability and a natural feel win out over a full touring career. Whichever subgenre you play, these four setups cover the full range of what extreme metal demands from a pedal.
+George Kollias's co-designed Pearl Demon XR and Derek Roddy's Axis A Longboard both represent the technical speed ceiling of the genre. Pete Sandoval's Tama lineage and Gene Hoglan's DW hardware prove that durability and a natural feel win out over a full touring career. Whichever subgenre you play, these four setups cover the full range of what extreme metal demands from a pedal.
 
 Start with the Tama Iron Cobra 600 if you're building technique on a budget, and upgrade toward direct drive once you've outgrown what chain drive can offer.
 
@@ -114677,13 +114677,13 @@ Start with the Tama Iron Cobra 600 if you're building technique on a budget, and
       title: "The Pedal Fundamentals Every Metal Drummer Needs",
       content: `Before you specialize in death metal blast beats, black metal endurance, or djent's syncopated kick patterns, every metal drummer needs the same foundation: a pedal with a drive system, bearing quality, and footboard feel that actually suits how you play. Get these fundamentals right and every subgenre-specific pedal decision later becomes easier.
 
-Tomas Haake of Meshuggah built his legendary polyrhythmic kick technique around the Tama Iron Cobra — the single most common pedal among MetalForge's pro roster, prized for its smooth, predictable action and fine-tunable cam angle. George Kollias of Nile uses Pearl's Demon Drive to sustain 270-280 BPM single-stroke patterns, showing what direct drive offers once you need maximum speed. Gene Hoglan, "The Atomic Clock," has trusted DW hardware across Death, Testament, and Dark Angel for its consistent, dependable feel at every dynamic level. Joey Jordison of Slipknot also relied on DW hardware, driving the band's explosive combination of groove and extreme metal.
+Tomas Haake of Meshuggah built his legendary polyrhythmic kick technique around the Tama Iron Cobra — the single most common pedal among MetalForge's pro roster, prized for its smooth, predictable action and fine-tunable cam angle. George Kollias of Nile uses his co-designed Pearl Demon XR to sustain 270-280 BPM single-stroke patterns, showing what direct drive offers once you need maximum speed. Gene Hoglan, "The Atomic Clock," has trusted DW hardware across Death, Testament, and Dark Angel for its consistent, dependable feel at every dynamic level. Joey Jordison of Slipknot also relied on DW hardware, driving the band's explosive combination of groove and extreme metal.
 
 This guide breaks down the fundamentals — drive systems, bearings, and footboard feel — that apply across every metal subgenre, plus which specific pedals the pros actually use, from first-pedal budgets to professional touring rigs.`,
       keyPoints: [
         "Drive system, bearing quality, and footboard feel are the three fundamentals that apply across every metal subgenre",
         "Tama Iron Cobra is the most common pedal among MetalForge's pro roster — the safe default for any metal style",
-        "George Kollias's Pearl Demon Drive shows what direct drive offers once you need maximum sustained speed",
+        "George Kollias's co-designed Pearl Demon XR shows what direct drive offers once you need maximum sustained speed",
         "You don't need to specialize by subgenre before choosing your first serious pedal — get the fundamentals right first"
       ]
     },
@@ -114782,7 +114782,7 @@ The Iron Cobra's combination of smooth action, adjustability, and bulletproof du
           priceRange: "€500-600",
           tier: "pro",
           driveType: "Direct Drive",
-          description: `George Kollias of Nile — one of the fastest and most technically precise drummers in metal — has used Pearl pedals to sustain 270-280 BPM single-stroke kick patterns for extended periods. The Demon Drive's direct mechanism gives Kollias perfect note consistency at speeds that would introduce unwanted variation in a chain-drive pedal.
+          description: `George Kollias of Nile — one of the fastest and most technically precise drummers in metal — has used his co-designed Pearl Demon XR pedals to sustain 270-280 BPM single-stroke kick patterns for extended periods. The Demon XR's direct mechanism gives Kollias perfect note consistency at speeds that would introduce unwanted variation in a chain-drive pedal.
 
 Once your technique has outgrown what chain drive can offer, the Demon Drive is the natural upgrade for any metal drummer chasing raw speed and precision.`,
           pros: [
@@ -114805,7 +114805,7 @@ Once your technique has outgrown what chain drive can offer, the Demon Drive is 
             weight: "4.5 kg (pair)"
           },
           usedBy: [
-            { name: "George Kollias", band: "Nile", note: "Sustains 270-280 BPM single-stroke patterns" }
+            { name: "George Kollias", band: "Nile", note: "Sustains 270-280 BPM single-stroke patterns on his co-designed Demon XR" }
           ],
           verdict: "The speed upgrade. Once you know you need maximum sustained speed, this delivers it.",
           rating: 4.8,
@@ -114939,7 +114939,7 @@ For a first serious pedal, before you've decided which metal subgenre you'll spe
 - Natural, slightly cushioned feel that most drummers find comfortable from day one
 - Lower cost of entry and wider availability
 
-**Direct Drive (Pearl Demon Drive):**
+**Direct Drive (Pearl Demon XR):**
 - George Kollias's choice for sustaining 270-280 BPM technical precision
 - Zero slack for instant, linear response at extreme speeds
 - Higher price point and a real adjustment period coming from chain drive
@@ -114964,8 +114964,8 @@ For a first serious pedal, before you've decided which metal subgenre you'll spe
         },
         {
           category: "Best for Maximum Speed",
-          pedal: "Pearl Demon Drive",
-          reason: "George Kollias sustains 270-280 BPM single-stroke patterns on this pedal — the upgrade once chain drive isn't fast enough."
+          pedal: "Pearl Demon XR",
+          reason: "George Kollias co-designed this pedal and sustains 270-280 BPM single-stroke patterns on it — the upgrade once chain drive isn't fast enough."
         },
         {
           category: "Best for Technical Precision",
@@ -114989,7 +114989,7 @@ For a first serious pedal, before you've decided which metal subgenre you'll spe
     ],
     relatedDrummers: [
       { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Tama Iron Cobra — the world\'s most precise polyrhythmic kick technique with Meshuggah' },
-      { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Demon Drive — sustaining 270-280 BPM single-stroke patterns with Nile' },
+      { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Demon XR — sustaining 270-280 BPM single-stroke patterns with Nile' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'DW 9000 — The Atomic Clock\'s precision platform across Death and Testament' },
       { slug: 'joey-jordison', name: 'Joey Jordison', reason: 'DW hardware for Slipknot\'s explosive groove/extreme metal kick' }
     ],
@@ -114997,7 +114997,7 @@ For a first serious pedal, before you've decided which metal subgenre you'll spe
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Tama Iron Cobra — the world\'s most precise polyrhythmic kick technique' },
-      { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Demon Drive — sustaining 270-280 BPM single-stroke patterns' },
+      { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Demon XR — sustaining 270-280 BPM single-stroke patterns' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'DW 9000 — The Atomic Clock\'s precision platform' }
     ],
 
@@ -115009,7 +115009,7 @@ For a first serious pedal, before you've decided which metal subgenre you'll spe
       },
       {
         question: "Should I choose chain drive or direct drive for metal?",
-        answer: "Chain drive pedals (Tama Iron Cobra, DW 9000) use a chain to connect the footboard to the beater shaft, providing a natural, slightly cushioned feel most drummers find comfortable from day one. Direct drive pedals (Pearl Demon Drive) use a rigid rod for zero slack and instant response, favored by speed specialists like George Kollias. Most metal drummers start with chain drive and move to direct drive once their technique demands it."
+        answer: "Chain drive pedals (Tama Iron Cobra, DW 9000) use a chain to connect the footboard to the beater shaft, providing a natural, slightly cushioned feel most drummers find comfortable from day one. Direct drive pedals (Pearl Demon Drive) use a rigid rod for zero slack and instant response — George Kollias's co-designed Pearl Demon XR is the signature example of this speed-focused direct-drive category. Most metal drummers start with chain drive and move to direct drive once their technique demands it."
       },
       {
         question: "Do I need a double bass pedal to start playing metal?",
@@ -115030,7 +115030,7 @@ For a first serious pedal, before you've decided which metal subgenre you'll spe
       title: "Master the Fundamentals Before You Specialize",
       content: `Every metal drummer's pedal journey starts in the same place: drive system, bearing quality, and footboard feel. Tomas Haake built a legendary, decades-long career on the Tama Iron Cobra's smooth, adjustable action — proof that you don't need to specialize by subgenre before choosing a genuinely great pedal.
 
-George Kollias's Pearl Demon Drive and Gene Hoglan's DW 9000 both show what's available once your technique and your specific subgenre demands push you toward direct drive or maximum adjustability. But there's no rush — start with a proven chain-drive pedal, build your fundamentals, and upgrade once you know exactly what your playing needs.
+George Kollias's co-designed Pearl Demon XR and Gene Hoglan's DW 9000 both show what's available once your technique and your specific subgenre demands push you toward direct drive or maximum adjustability. But there's no rush — start with a proven chain-drive pedal, build your fundamentals, and upgrade once you know exactly what your playing needs.
 
 The Tama Iron Cobra 600 remains the smartest first serious pedal for any metal drummer, whatever subgenre you end up calling home.
 

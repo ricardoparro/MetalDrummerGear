@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-02 20:31 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-02 21:38 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -10,7 +10,7 @@
 | --- | --- |
 | Active users | 302 |
 | Sessions | 348 |
-| Page views | 477 |
+| Page views | 479 |
 | Engagement rate | 62.64% |
 | Avg session (s) | 292 |
 
@@ -19,10 +19,10 @@
 | --- | --- | --- |
 | / | 33 | 25 |
 | /drummer/frost | 13 | 2 |
+| /drummer/jaska-raatikainen | 11 | 6 |
 | /drummer/john-otto | 11 | 10 |
 | /drummers | 11 | 4 |
 | /drummer/mario-duplantier | 10 | 8 |
-| /drummer/jaska-raatikainen | 9 | 6 |
 | /drummer/eloy-casagrande | 8 | 6 |
 | /drummer/igor-cavalera | 7 | 6 |
 | /drummer/matt-greiner | 7 | 6 |
@@ -31,7 +31,7 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 289 | 249 |
+| Organic Search | 290 | 250 |
 | Direct | 39 | 35 |
 | Unassigned | 28 | 25 |
 | Referral | 5 | 5 |

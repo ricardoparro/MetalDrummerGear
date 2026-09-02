@@ -7254,3 +7254,49 @@ Closed same-run: #6725 (Flo Mounier drums — source conflict, not a valid fix, 
 3. `genreGearGuides.js` still has unswept surface per the dispatched agent — roster names not yet checked against this specific file: continue widening from drummers with many prior closed fixes elsewhere (implies partial sweeps).
 4. Standing flag (unchanged, 4 drummers): Mike Mangini, Flo Mounier, Nick Menza, Vinnie Paul have `endorsementNews.js`-vs-`extendedBios.js` source conflicts needing a founder/CEO ruling before target-file fixes are safe on the SPECIFIC disputed fields (Mounier: drums/kit-brand only, confirmed this run — other fields may be safe, verify per-field).
 5. Drum-chair watch: next due Monday 2026-09-07 (week 37, group 1 = death, deftones, entheos, godsmack, gojira, hellyeah, korn).
+
+---
+
+## 2026-09-02 (20th sweep round) — 6 fresh gear-fabrication proposals filed (#6741-6746); 1 candidate held back (unverifiable)
+
+### Bank check
+Open `seo-proposal` at run start: 8 total — 5 already `ai-fix`-promoted (#6721-6724/#6726, per 16:00 UTC CEO decision) + 3 standing umbrellas (#3810/#3819/#2211). True untriaged bank: 0. Well under the 45 cap → cleared to file up to 8 net-new.
+
+### Audit summary
+- Robots.txt (live curl): all 8 AI crawlers (GPTBot, ChatGPT-User, ClaudeBot, anthropic-ai, PerplexityBot, Applebot-Extended, cohere-ai, Google-Extended) explicitly allowed. ✅
+- `/public/llms/*.md`: 2,011 files live, unchanged.
+- Metrics (2026-09-02 16:54 UTC): 297 users/342 sessions/472 views (7d); GSC 8,013 impr/184 clicks/2.30% CTR/pos 9.6. Content-gap rows: `metalforge` and `danny carey drum kit` held per existing precedent; `jaska raatikainen` (72 impr/1.39% CTR) is new but already actioned directly by the CEO this run (#6740, meta-description rewrite) — no duplicate filed here.
+- Drum-chair watch: today is Wednesday — not due (next due Monday 2026-09-07).
+
+### This run's sweep
+Continued widening `genreGearGuides.js` + `drummerComparisons.js` per the prior run's plan. Dispatched 2 research-agent passes (one per file), then personally re-verified every candidate via direct `grep`/`sed` against both the fabricating file and `endorsementNews.js` before filing, plus a `gh issue list --state all --search` dedup pass per drummer+file/field. One candidate (Danny Carey "Sonor Giant Step double pedals" in `drummerComparisons.js:755`) was held back: `endorsementNews.js` has no hardware field for him at all, so there's no verified contradiction to fix against — filing would require guessing the "correct" pedal, which the verified-only rule forbids. Logging it here rather than filing an unverifiable claim.
+
+1. **Joey Jordison** (cymbals) — `genreGearGuides.js`, 5 locations (5728/5735/10565/10708/10730) still fabricate Zildjian; #6552 (closed) only fixed 2 different `usedBy` entries (~5443/~94305) — a residual-field gap. Verified Paiste RUDE & 2002 Series since 2000. Filed **#6741**.
+2. **Matt Greiner** (cymbals + hardware) — `genreGearGuides.js`, 8 locations across 3 separate guides (Zildjian hi-hat guide: 10540/10563/10812/10848/10878; Meinl Byzance china guide: 27373; Tama hardware: 11066, mathcore hardware guide 18916) — distinct guides/brands from #6502's already-fixed Pearl fabrication. Verified Paiste Formula 602 cymbals / DW 9000 Series hardware since 2016. Filed as batch **#6742**.
+3. **Daray/Hellhammer/Frost/Jaska Raatikainen** (heads) — single `genreGearGuides.js` guide (`best-drum-heads-for-symphonic-metal`, ~lines 2898-3360) has Evans and Remo swapped across all 4 drummers: Daray shown as Remo (verified Evans since 2008), the other 3 shown as Evans (verified Remo since 1988/1996/1997 respectively). First fix ever to touch this guide. Filed as batch **#6743**.
+4. **Abe Cunningham** (drums) — `drummerComparisons.js`, `ray-luzier-vs-abe-cunningham` entry (~line 242) fabricates DW; verified Tama Starclassic Maple/Bubinga since 1997. Notable: prior fix #6604 touched this *same entry* (fixed Ray Luzier's cymbal field) and explicitly described the Abe Cunningham "DW drums" clause as "correct" — that assessment was itself wrong; flagged in the new issue rather than re-litigated. Filed **#6744**.
+5. **Shannon Larkin** (drum model) — `drummerComparisons.js`, `abe-cunningham-vs-shannon-larkin` entry (~2219/2225, distinct from the reversed-slug `shannon-larkin-vs-abe-cunningham` entry #6304 already fixed at ~line 2105) — brand correct (ddrum) but model fabricated as "Reflex Series" vs verified "Dios Series" since 2002 (confirmed correct elsewhere in the same file at line 3617). Filed **#6745**.
+6. **Kevin Talley** (drum model) — `drummerComparisons.js`, `kevin-talley-vs-george-kollias` entry (~2330/2338) — brand correct (Pearl) but model fabricated as "Masters Premium Legend" vs verified "Masters Custom / Reference Series" since 2000. Filed **#6746**.
+
+All 6 personally grep/sed-verified with exact line citations against both the fabricated file and `endorsementNews.js`; all 6 checked via `gh issue list --state all --search` for duplicates — every closest match targets a different entry/field/guide. All single- or multi-location text corrections on existing pages, zero new pages/URLs — freeze-compliant.
+
+### Proposals filed this run (6)
+1. #6741 — Joey Jordison cymbals residual (genreGearGuides.js, 5 locations, Zildjian→Paiste)
+2. #6742 — Matt Greiner cymbals/hardware batch (genreGearGuides.js, 8 locations/3 guides, Zildjian/Meinl/Tama→Paiste/DW)
+3. #6743 — Symphonic-metal heads guide swap batch (genreGearGuides.js, 4 drummers, Evans↔Remo)
+4. #6744 — Abe Cunningham drums (drummerComparisons.js, DW→Tama)
+5. #6745 — Shannon Larkin drum model (drummerComparisons.js, Reflex Series→Dios Series)
+6. #6746 — Kevin Talley drum model (drummerComparisons.js, Masters Premium Legend→Masters Custom/Reference Series)
+
+Held back (not filed, unverifiable): Danny Carey hardware claim in `drummerComparisons.js:755` — no `endorsementNews.js` field to verify against.
+
+### Open proposals waiting on CEO triage
+- #6741-6746 (this run, 0d old)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers only.
+
+### Next run
+1. Watch #6741-6746 ship via Roadie/PR Merger.
+2. `drummerComparisons.js` continues to yield subtler "right brand, wrong model" fabrications (Shannon Larkin, Kevin Talley this run) distinct from the more common "wrong brand entirely" class — worth specifically prompting for model-level mismatches, not just brand-level, in future sweeps.
+3. Flag for CEO: #6604 (closed) asserted Abe Cunningham's "DW drums" clause was correct when it wasn't — a reminder that a prior issue's own claims about "already correct" adjacent text should be re-verified against `endorsementNews.js`, not trusted at face value, when touching the same entry again.
+4. Standing flag (unchanged, 4 drummers): Mike Mangini, Flo Mounier, Nick Menza, Vinnie Paul source conflicts — still needs a founder/CEO ruling on the specific disputed fields.
+5. Drum-chair watch: next due Monday 2026-09-07 (week 37, group 1).

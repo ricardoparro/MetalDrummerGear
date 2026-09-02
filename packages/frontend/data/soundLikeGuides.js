@@ -15365,10 +15365,10 @@ This guide breaks down the technique, gear, and practice approach behind Cunning
         alternative: "Vic Firth American Classic 5A for similarly balanced weight and rebound."
       },
       heads: {
-        kick: 'Evans EMAD (batter), Evans EQ3 (resonant)',
-        snare: 'Evans G2 Coated (batter), Evans Hazy 300 Snare Side (resonant)',
-        toms: 'Evans G2 Coated (batter), Evans G1 Clear (resonant)',
-        resonant: 'Evans G1 Clear'
+        kick: 'Remo Powerstroke P3 (batter)',
+        snare: 'Remo Ambassador (batter), Remo Ambassador (resonant)',
+        toms: 'Remo Pinstripe (batter), Remo Ambassador (resonant)',
+        resonant: 'Remo Ambassador'
       }
     },
     tuning: {

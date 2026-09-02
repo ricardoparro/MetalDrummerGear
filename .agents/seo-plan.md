@@ -7164,3 +7164,49 @@ Open `seo-proposal` at run start: 13 — 10 already `ai-fix`-labeled/promoted ea
 2. #6662 (Gene Hoglan) is unusually large in line-count (~140 replacements across 1 file) — worth checking it actually ships cleanly rather than getting stuck; flag to CEO if it stalls.
 3. `genreGearGuides.js` (116K lines) and `albumArticles/*.js` (71 files) confirmed as fresh, high-yield ground this run — continue widening here before returning to `soundLikeGuides.js`/`drummerComparisons.js`.
 4. Drum-chair watch: already logged this week (due next Monday 2026-09-07, week 37 group 1) — not due this run (Tuesday).
+
+---
+
+## 2026-09-02 (18th sweep round) — 7 fresh gear-fabrication proposals filed (#6698-6704), continued genreGearGuides.js widening
+
+### Bank check
+Open `seo-proposal` at run start: 11 total — 8 already `ai-fix`-promoted per CEO decisions-log 02:57 UTC (#6676-6684, gap at #6678) + 3 standing umbrellas (#3810/#3819/#2211). True untriaged bank: 0. Well under the 45 cap → cleared to file up to 8 net-new.
+
+### Audit summary
+- Robots.txt (live curl, GPTBot UA): all 8 AI crawlers explicitly allowed. ✅
+- `/public/llms/*.md`: 2,011 files live, unchanged.
+- Metrics (2026-09-02 05:14 UTC): 281 users/326 sessions/437 views (7d); GSC 6,625 impr/153 clicks/2.31% CTR/pos 9.6. Same 2 content-gap rows (`metalforge` 434 impr/0.69% CTR, `danny carey drum kit` 57 impr/1.75% CTR) — both already held per `learned-patterns.md` precedent. No new action.
+- Drum-chair watch: today is Wednesday (2026-09-02) — this week's Monday sweep already ran 2026-08-31 (or next due 2026-09-07 per prior entries); not repeated this run.
+
+### This run's sweep
+Continued widening into `genreGearGuides.js`/`drummerComparisons.js` per the prior run's plan. Dispatched a research agent to cross-reference drummers with many prior closed gear-fabrication fixes (implying partial sweeps) against `endorsementNews.js`, then personally re-verified every candidate via direct `grep`/`sed` reads (both the fabricated file and `endorsementNews.js`'s verified block/timeline) before filing, and ran a `gh issue list --state all --search` dedup pass per drummer+file.
+
+1. **Igor Cavalera** (drums) — 2 `genreGearGuides.js` sludge-metal guides (drum-kits + bass-drums) fabricate a "Pearl Reference Pure (2006-2016)" era across 16 lines — verified `endorsementNews.js` timeline shows 2006-2018 was actually **ddrum Hybrid Kit** (his real, brief Pearl era was 1993-96 "Pearl Masters Custom," a different model/dates entirely). None of #6003/#6290/#6309/#6657/#6680/#5979/#5858 touched this file. Filed **#6698**.
+2. **Igor Cavalera** (cymbals) — `genreGearGuides.js` L5551 (Sabian AAX guide) claims he used Sabian cymbals; verified continuous Paiste (1993-2006) → Zildjian A Custom (2006-present) — Sabian never appears in his history. Distinct field/file from #6698. Filed **#6699**.
+3. **Nick Menza** — `drummerComparisons.js` (2 entries, 3 locations: L592, L2129, L2135) claims a static "Pearl Masters/Zildjian A Series/Pearl double pedal throughout his tenure" — verified timeline shows 3 drum eras (Tama→Pearl Masters→Pearl Masterworks→Pearl Reference Custom) and 3 cymbal eras (Zildjian→Paiste→Sabian) across his 1989-98 tenure, plus a nonexistent "Pearl double pedal" (verified Tama Iron Cobra since 1997). First fix ever to touch this file for this drummer. Filed **#6700**.
+4. **Gene Hoglan** (cymbals) — `genreGearGuides.js`, 3 locations (L5418/5442/5736) in the Zildjian A Custom guide misattribute him as a Zildjian endorser — verified continuous Sabian AAX since 1991. Distinct from #6662/#6256/#5969 (albumArticles.js prose) and #6380 (soundLikeGuides.js), neither touched this file. Filed **#6701**.
+5. **Gene Hoglan** (drums) — `genreGearGuides.js` L7328 (DW Collector's Series guide) claims DW drums; verified Pearl Reference Pure since 2018. Distinct field from #6701. Filed **#6702**.
+6. **Flo Mounier** (cymbals) — `genreGearGuides.js`, ~35 lines across **4 separate death-metal cymbal guides** (general/crash/splash/hi-hat) fabricate "Paiste 2002" as his signature cymbal — verified continuous Sabian AAX/HHX since 2012, Paiste never appears in his history. Largest single finding this run; filed as a batch. Filed **#6703**.
+7. **Brann Dailor** — `drummerComparisons.js`, 3 entries (L157, L467, L575) fabricate "DW drums with Sabian cymbals" for his own gear (not the drummer he's compared against) — verified Tama Starclassic Performer B/B + Meinl Mb20 & Mb8 Series. #6623 (closed) already fixed the Tomas Haake half of the L575 entry but left Brann's own clause in the same string untouched — a clean sibling-field gap. The identical phrase at L157/L467 (2 different entries) confirms copy-paste drift, not a one-off. Filed **#6704**.
+
+All 7 personally grep/sed-verified with exact line citations against both the fabricated file and `endorsementNews.js`; all 7 checked via `gh issue list --state all --search "<name> <file/keyword>"` for duplicates — every closest match targets a different file/field. All single- or dual-file, text-only, zero new pages/URLs — freeze-compliant. Filed 7 of the available 8 slots (stopped once the personally-verified queue ran dry rather than padding with a lower-confidence 8th — a couple of agent-reported leads on Aquiles Priester/Mikkey Dee were held back as not cleanly verified against era-context).
+
+### Proposals filed this run (7)
+1. #6698 — Igor Cavalera drums (genreGearGuides.js, 2 sludge-metal guides, 16 lines, Pearl→ddrum)
+2. #6699 — Igor Cavalera cymbals (genreGearGuides.js, Sabian guide, Sabian→Paiste/Zildjian)
+3. #6700 — Nick Menza gear (drummerComparisons.js, 2 entries/3 locations, static-era fabrication)
+4. #6701 — Gene Hoglan cymbals (genreGearGuides.js, 3 locations, Zildjian→Sabian)
+5. #6702 — Gene Hoglan drums (genreGearGuides.js, DW→Pearl Reference Pure)
+6. #6703 — Flo Mounier cymbals batch (genreGearGuides.js, 4 guides/~35 lines, Paiste→Sabian AAX/HHX)
+7. #6704 — Brann Dailor gear (drummerComparisons.js, 3 entries, DW/Sabian→Tama/Meinl)
+
+### Open proposals waiting on CEO triage
+- #6698-6704 (this run, 0d old)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers only.
+
+### Next run
+1. Watch #6698-6704 ship via Roadie/PR Merger.
+2. Two lower-confidence leads held back this run (Aquiles Priester "Ufip Class Ride", Mikkey Dee snare/pedal/heads in genreGearGuides.js) — need era-context/source verification before filing, not a plain grep-diff.
+3. `genreGearGuides.js` continues to be the highest-yield surface — drummers with many prior closed fixes (implying partial sweeps across other files) are a good next-search heuristic; several other multi-fix drummers not yet checked against this specific file.
+4. Standing flag (unchanged, 4 drummers): Mike Mangini, Flo Mounier, Nick Menza, Vinnie Paul have `endorsementNews.js`-vs-`extendedBios.js` source conflicts needing a founder/CEO ruling before target-file fixes are safe. (Note: this run's Flo Mounier finding was cymbals-only and didn't touch the flagged conflict area.)
+5. Drum-chair watch: next due Monday 2026-09-07 (week 37, group 1 = death, deftones, entheos, godsmack, gojira, hellyeah, korn).

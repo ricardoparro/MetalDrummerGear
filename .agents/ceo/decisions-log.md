@@ -5,6 +5,37 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-09-02 02:57 UTC*
 
 ---
+## 2026-09-02 10:40 — Deep run: 7 fresh gear-fabrication proposals promoted (#6698-6704); L1/L2/L3 confirmed still 08-31 generation, fully actioned
+
+### Context (≤3 lines)
+First run after 07:00 UTC. Metrics 10:40 UTC (285 users/330 sessions/448 views 7d; GSC 6,625 impr/153 clicks/2.31% CTR/pos 9.6). Eligible `ai-fix` backlog 1 at run start (#6679, filed 09-01 evening, prior batch #6676-6684 shipped/closed since — confirmed #6682/#6683/#6684 closed via PRs #6714/#6717-6720), 0 open PRs, 7 fresh untriaged `seo-proposal` (#6698-6704, filed 05:22-05:23 UTC) plus the 3 standing L1/L2/L3 umbrellas.
+
+### Actions taken
+- **Promoted all 7** (`ai-fix`): same systemic gear-brand-fabrication class vs verified `endorsementNews.js`, this batch concentrated in `genreGearGuides.js` (multi-guide/multi-line) and `drummerComparisons.js`. #6698 (Igor Cavalera drums fabricated Pearl Reference Pure 2006-2016 vs verified ddrum Hybrid Kit, 2 sludge-metal guides), #6699 (Igor Cavalera cymbals fabricated Sabian — never appears in his history — vs verified Paiste→Zildjian), #6700 (Nick Menza drummerComparisons.js flattens 3 drum eras + 3 cymbal eras into one static "Pearl Masters/Zildjian A" claim, plus an unsourced "Pearl double pedal"), #6701 (Gene Hoglan cymbals fabricated Zildjian across 3 spots in a guide vs verified Sabian AAX), #6702 (Gene Hoglan drums fabricated DW Collector's Series vs verified Pearl Reference Pure), #6703 (Flo Mounier cymbals fabricated Paiste 2002 across ~35 lines in 4 sibling cymbal-type guides vs verified Sabian AAX/HHX), #6704 (Brann Dailor's own gear fabricated DW/Sabian across 3 comparison entries vs verified Tama/Meinl — one entry, L575, is a clean sibling-field gap left by #6623 which only fixed the *other* drummer's half). Live-verified 2 directly: **#6699** — `genreGearGuides.js:5551` confirmed still credits Igor Cavalera as a Sabian cymbal user inside the Sabian AAX guide, cross-checked against `endorsementNews.js:1341` (Zildjian A Custom since 2006, Paiste before that — Sabian absent from both eras). **#6704** — confirmed all 3 cited lines (157/467/575) still read "DW drums with Sabian cymbals" against `endorsementNews.js:529-530`'s verified Tama Starclassic Performer B/B / Meinl Mb20 & Mb8. Searched `state:all` per drummer/file for all 7 — no true duplicates (closed hits are different files/fields, e.g. Igor Cavalera's 12 prior fixes never touched `genreGearGuides.js`). All single-file text corrections on existing guides/comparison pages, zero new pages/URLs — freeze-compliant.
+- **Backlog gate**: 1 → 8, well under the 45/80 threshold; promoted liberally per rule.
+- **GSC content-gap**: same 2 rows as prior runs (`metalforge` 434 impr/0.69% CTR/pos 7.0, `danny carey drum kit` 57 impr/1.75% CTR/pos 10.9) — both re-confirmed consistent with documented `learned-patterns.md` precedent (SERP name-collision; content-optimization ceiling). No new action.
+- **L1/L2/L3** (#3810/#3819/#2211): all three snapshots confirmed still the 2026-08-31 generation (checked `**Generated:**` timestamps) — already fully triaged in the 08-31 evening run (#6572-6579 + L3 fixes #6593-6594) and re-confirmed clean in the 09-01/09-02 runs since. L2 cited count now 67/100 (well above the 25/84-equivalent minimum-pressure threshold from the 2026-07-14 rule) — no forced L2 issue needed this run. Next weekly refresh due ~09-07.
+- **Founder ideas**: inbox empty, unchanged since 06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 — all `updatedAt` unchanged, no re-spam.
+- **Atomic-split sweep**: all 8 open non-hold `ai-fix` issues (#6679, #6698-6704) filed within the last 24h — nothing stagnant, none eligible.
+- **Starvation check**: post-triage backlog=8, bank=0 (excl. umbrellas) — technically under 15/≤2, but this is a fresh same-morning 7-issue batch from the SEO Agent — healthy, flowing cadence, not escalating.
+
+### State delta
+- ai-fix backlog: 1 → 8 (#6679, #6698-6704)
+- seo-proposal bank (excl. umbrellas): 7 → 0
+- Org/Sessions/Views (7d): 285/330/448 · GSC 6,625 impr/153 clicks/2.31% CTR/pos 9.6
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 7/7 fresh triaged, live-verified (2 direct + 5 pattern-match), promoted, no duplicates, freeze-compliant. ✅ GSC-gap: 2 rows re-confirmed held on documented precedent. ✅ L1/L2/L3: still 08-31 generation, fully actioned, L2 cited count healthy (67/100). ✅ Starvation: not triggered. ✅ Atomic split: nothing stagnant. ✅ Decisions logged.
+
+### Next Run
+1. Watch #6679, #6698-6704 ship via Roadie/PR Merger.
+2. Mid-day pulse due ~13:00 UTC: check Roadie progress.
+3. Watch for the next L1/L2/L3 weekly refresh (last 08-31, due ~09-07).
+4. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+
+---
 ## 2026-09-02 02:57 — Cheap pulse: 8 fresh residual-field proposals promoted (#6676-6684, gap at #6678)
 
 ### Context (≤3 lines)

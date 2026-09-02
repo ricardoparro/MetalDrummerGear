@@ -9070,7 +9070,7 @@ Whichever path you choose, tune lower than other metal subgenres would suggest, 
       title: "Why the Snare Is the Most Critical Metal Drum",
       content: `The snare drum is the backbone of every metal performance. It cuts through the mix on the backbeat, drives the energy of your fills, and — in metal — must crack with enough authority to slice through dense guitar walls and high-gain amplification. A weak snare sounds buried; a great metal snare sounds like a gunshot.
 
-Metal's most recognizable snare sounds are inseparable from the drummers who created them. Lars Ulrich's cracking Ludwig snare on "Master of Puppets" defined thrash metal's punch. Joey Jordison's Pearl Free-Floating snare was central to Slipknot's aggressive nu-metal attack. Gene Hoglan's precisely tuned Pearl delivered The Atomic Clock's metronomic precision. Tomas Haake uses a Pearl Free-Floating snare to anchor Meshuggah's polyrhythmic djent patterns with uncompromising clarity.
+Metal's most recognizable snare sounds are inseparable from the drummers who created them. Lars Ulrich's cracking Ludwig snare on "Master of Puppets" defined thrash metal's punch. Joey Jordison's Pearl Free-Floating snare was central to Slipknot's aggressive nu-metal attack. Gene Hoglan's precisely tuned Pearl delivered The Atomic Clock's metronomic precision. Tomas Haake anchors Meshuggah's polyrhythmic djent patterns with his Sonor Tomas Haake Signature 14x6.5" snare.
 
 The right metal snare depends on your subgenre, tuning preference, and whether you need cutting brightness or thunderous depth. This guide breaks down the key choices across all price ranges, citing the exact snares used by the genre's top players.`,
       keyPoints: [
@@ -9181,13 +9181,12 @@ The Black Beauty's seamless brass shell construction allows the entire drum to v
 
           description: `The Pearl Free-Floating snare design revolutionized metal snare performance. By suspending the shell from its own flanges rather than attaching lugs, Pearl eliminated the shell dampening that traditional lug-mounted snares suffer. The result: more sustain, better sensitivity, and dramatically improved ghost note response.
 
-Joey Jordison used Pearl Free-Floating snares as the foundation of Slipknot's aggressive snare sound — the pure steel shell delivering cutting brightness at high tunings that sliced through the band's wall-of-sound production. Tomas Haake of Meshuggah relies on the Free-Floating design for the precise, consistent snare response his polyrhythmic patterns demand. The steel shell's bright, cutting character makes it ideal when you need the snare to dominate the mix.`,
+Joey Jordison used Pearl Free-Floating snares as the foundation of Slipknot's aggressive snare sound — the pure steel shell delivering cutting brightness at high tunings that sliced through the band's wall-of-sound production. The steel shell's bright, cutting character makes it ideal when you need the snare to dominate the mix.`,
 
           pros: [
             "Free-floating design maximizes resonance and sensitivity",
             "Pure steel shell — bright, cutting, and aggressive",
             "Joey Jordison's choice — Slipknot's defining snare attack",
-            "Tomas Haake approved for djent precision",
             "Better ghost note sensitivity than lug-mounted alternatives"
           ],
           cons: [
@@ -9204,10 +9203,9 @@ Joey Jordison used Pearl Free-Floating snares as the foundation of Slipknot's ag
           },
           usedBy: [
             { name: "Joey Jordison", band: "Slipknot", note: "Pearl snare endorser; defining nu/extreme metal snare crack" },
-            { name: "Tomas Haake", band: "Meshuggah", note: "Free-Floating precision for djent polyrhythms" },
             { name: "George Kollias", band: "Nile", note: "Pearl endorser; fastest feet use Pearl snares too" }
           ],
-          verdict: "Best steel snare for extreme metal. Free-floating design gives maximum resonance — Jordison and Haake approved.",
+          verdict: "Best steel snare for extreme metal. Free-floating design gives maximum resonance — Jordison approved.",
           rating: 4.8,
           affiliateLink: "https://www.thomann.de/intl/pearl_free_floating_steel.htm?partner_id=metalforge"
         },
@@ -9377,7 +9375,7 @@ This is the snare for metal drummers who need one drum to work across multiple s
 **Steel (Pearl Free-Floating, DW Collector's Steel):**
 - Bright, cutting, aggressive attack
 - Less warmth than brass but more projection
-- Preferred by: Tomas Haake, Joey Jordison
+- Preferred by: Joey Jordison
 - Best for: Technical metal, djent, nu-metal, extreme metal
 
 **Brass (Ludwig Black Beauty):**
@@ -9392,7 +9390,7 @@ This is the snare for metal drummers who need one drum to work across multiple s
 - Preferred by: Studio specialists and versatile players
 - Best for: Recording, mixed genres, technical applications
 
-**The Truth:** Material preference is personal. Lars Ulrich gets his defining Metallica snare tone from brass. Tomas Haake anchors Meshuggah's djent grid with steel. Both choices are proven at the highest level. Steel is more common in extreme metal; brass is the thrash/classic metal tradition.
+**The Truth:** Material preference is personal. Lars Ulrich gets his defining Metallica snare tone from brass. Joey Jordison anchors Slipknot's aggressive attack with steel. Both choices are proven at the highest level. Steel is more common in extreme metal; brass is the thrash/classic metal tradition.
 
 **Our Recommendation:** Start with steel (Pearl Sensitone or Ludwig Black Beauty) for maximum versatility in metal. Add a brass option when your budget and needs expand.`,
       comparisonTable: [
@@ -9416,7 +9414,7 @@ This is the snare for metal drummers who need one drum to work across multiple s
         {
           category: "Best for Extreme Metal",
           pedal: "Pearl Free-Floating Steel",
-          reason: "Joey Jordison and Tomas Haake's choice. Free-floating design maximizes steel brightness and ghost note sensitivity."
+          reason: "Joey Jordison's choice. Free-floating design maximizes steel brightness and ghost note sensitivity."
         },
         {
           category: "Best for Technical Precision",
@@ -9448,7 +9446,7 @@ This is the snare for metal drummers who need one drum to work across multiple s
       { slug: 'lars-ulrich', name: 'Lars Ulrich', reason: 'Ludwig Black Beauty snare — the definitive metal crack' },
       { slug: 'joey-jordison', name: 'Joey Jordison', reason: 'Pearl Free-Floating Steel — Slipknot nu/extreme metal snare' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'DW Collector\'s Steel — The Atomic Clock\'s precision instrument' },
-      { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Pearl Free-Floating — Meshuggah djent snare precision' },
+      { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Sonor Tomas Haake Signature 14x6.5" — Meshuggah djent snare precision' },
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl endorser — death metal snare at extreme speeds' }
     ],
 
@@ -9460,11 +9458,11 @@ This is the snare for metal drummers who need one drum to work across multiple s
       },
       {
         question: "What snare drum does Tomas Haake use?",
-        answer: "Tomas Haake of Meshuggah uses Pearl Free-Floating snare drums. The free-floating design suspends the shell from its own flanges, eliminating lug dampening and maximizing resonance and sensitivity — critical for the precise, consistent snare response that Haake's complex polyrhythmic djent patterns demand."
+        answer: "Tomas Haake of Meshuggah uses a Sonor Tomas Haake Signature 14x6.5\" snare drum. Sonor's signature design is engineered for quick, dry response — critical for the precise, consistent snare response that Haake's complex polyrhythmic djent patterns demand."
       },
       {
         question: "Is steel or brass better for metal snare drums?",
-        answer: "Both work at the highest levels of metal — Lars Ulrich (brass Ludwig Black Beauty) and Tomas Haake (steel Pearl Free-Floating) prove this. Steel gives brighter, more cutting attack — preferred in technical metal, djent, and extreme metal. Brass delivers warmer, more complex crack — the classic thrash metal tradition. Steel is more common in modern extreme metal; brass is historically dominant in thrash and classic metal."
+        answer: "Both work at the highest levels of metal — Lars Ulrich (brass Ludwig Black Beauty) and Joey Jordison (steel Pearl Free-Floating) prove this. Steel gives brighter, more cutting attack — preferred in technical metal, djent, and extreme metal. Brass delivers warmer, more complex crack — the classic thrash metal tradition. Steel is more common in modern extreme metal; brass is historically dominant in thrash and classic metal."
       },
       {
         question: "What is a free-floating snare drum?",
@@ -9483,7 +9481,7 @@ This is the snare for metal drummers who need one drum to work across multiple s
     // Conclusion
     conclusion: {
       title: "Find Your Metal Snare Voice",
-      content: `Every great metal drummer has found their snare voice — the specific crack that audiences recognize and that defines their sound in the mix. Lars Ulrich found it in the Ludwig Black Beauty. Joey Jordison found it in Pearl's Free-Floating steel. Tomas Haake found it in Pearl's engineering precision.
+      content: `Every great metal drummer has found their snare voice — the specific crack that audiences recognize and that defines their sound in the mix. Lars Ulrich found it in the Ludwig Black Beauty. Joey Jordison found it in Pearl's Free-Floating steel. Tomas Haake found it in Sonor's signature engineering precision.
 
 Your snare voice is out there. Start with steel for versatility and budget efficiency — the Pearl Sensitone or Ludwig Acrolite give you genuine professional response without flagship pricing. Upgrade to the Black Beauty when you're chasing that brass thunder, or to the Pearl Free-Floating when you need the ultimate in steel precision.
 
@@ -65189,7 +65187,7 @@ Budget shouldn't stop you either. A Sabian SBR or Meinl HCS set will teach real 
     // SEO metadata
     title: "Best Snare Drums for Djent: 2026 Ultimate Guide",
     metaTitle: "Best Snare Drums for Djent 2026 | MetalForge Expert Guide",
-    description: "Best snare drums for djent drumming: what Tomas Haake (Pearl Free-Floating), Matt Halpern (Pearl Reference Pure), Matt Garstka (Pearl), and Blake Richardson (BTBAM kit snare) actually play. Crisp, cutting articulation for djent's palm-muted, polyrhythmic riffing — ranked budget to pro.",
+    description: "Best snare drums for djent drumming: what Tomas Haake (Sonor Tomas Haake Signature), Matt Halpern (Pearl Reference Pure), Matt Garstka (Pearl), and Blake Richardson (BTBAM kit snare) actually play. Crisp, cutting articulation for djent's palm-muted, polyrhythmic riffing — ranked budget to pro.",
     seoKeywords: [
       'best snare drums for djent',
       'djent snare drum',
@@ -65200,7 +65198,7 @@ Budget shouldn't stop you either. A Sabian SBR or Meinl HCS set will teach real 
       'crisp snare for palm muted riffs',
       'best snare for polyrhythmic metal',
       'djent drum setup',
-      'pearl free floating snare djent'
+      'sonor tomas haake signature snare'
     ],
     ogImage: '/api/og/guide?type=genre-gear&gear=snares&genre=djent',
     datePublished: '2026-07-05',
@@ -65226,11 +65224,11 @@ Budget shouldn't stop you either. A Sabian SBR or Meinl HCS set will teach real 
       title: "Why Djent Needs a Snare That Cuts Through Palm-Muted, Polyrhythmic Riffing",
       content: `Djent's signature palm-muted, chugging guitar tone — the genre's namesake onomatopoeia — creates a dense, mid-heavy wall of sound that swallows anything that isn't voiced to cut through it. Combined with the genre's love of odd-time polyrhythms and precisely placed accents, that means djent drummers need a snare built for crisp, immediate articulation rather than the deep, sustained tone other metal subgenres favor.
 
-Tomas Haake of Meshuggah, the founding drummer of djent's polyrhythmic template, plays a Pearl Free-Floating snare whose dry, cutting crack anchors the band's precision-locked, mathematically complex riffing on albums like "Nothing" and "obZen." Matt Halpern of Periphery plays a Pearl Reference Pure 14x5" snare, delivering the crisp, high-pitched articulation that slices through the band's dense, palm-muted prog-djent arrangements. Matt Garstka of Animals as Leaders brings that same cutting precision to instrumental djent, where the snare has to substitute for a vocalist's rhythmic emphasis. Blake Richardson of Between the Buried and Me rounds out the lineup with an expressive, articulate snare voice built for prog-djent's constantly shifting time signatures and dynamics.
+Tomas Haake of Meshuggah, the founding drummer of djent's polyrhythmic template, plays a Sonor Tomas Haake Signature 14x6.5" snare whose dry, cutting crack anchors the band's precision-locked, mathematically complex riffing on albums like "Nothing" and "obZen." Matt Halpern of Periphery plays a Pearl Reference Pure 14x5" snare, delivering the crisp, high-pitched articulation that slices through the band's dense, palm-muted prog-djent arrangements. Matt Garstka of Animals as Leaders brings that same cutting precision to instrumental djent, where the snare has to substitute for a vocalist's rhythmic emphasis. Blake Richardson of Between the Buried and Me rounds out the lineup with an expressive, articulate snare voice built for prog-djent's constantly shifting time signatures and dynamics.
 
 This guide breaks down shell depth, material, and tuning for djent snares — comparing crisp, cutting tone across four drummers whose lineages define the genre's polyrhythmic, palm-muted foundation, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
-        "Tomas Haake's Pearl Free-Floating snare defines djent's founding, dry, cutting articulation with Meshuggah",
+        "Tomas Haake's Sonor Tomas Haake Signature 14x6.5\" snare defines djent's founding, dry, cutting articulation with Meshuggah",
         "Matt Halpern's Pearl Reference Pure 14x5\" snare slices through Periphery's dense, palm-muted arrangements",
         "Shallower shell depths (5\"-5.5\") dominate djent, favoring crisp attack over deep body",
         "Crisp, high-pitched articulation is essential for cutting through djent's palm-muted, mid-heavy guitar tone"
@@ -65250,7 +65248,7 @@ This guide breaks down shell depth, material, and tuning for djent snares — co
         {
           name: "Dry, Cutting Articulation",
           icon: "🔪",
-          description: "Tomas Haake's Pearl Free-Floating snare is voiced dry and immediate — the opposite of doom metal's resonant, ringing approach — so every hit registers as a sharp, precise accent against Meshuggah's dense, palm-muted wall of guitar.",
+          description: "Tomas Haake's Sonor Tomas Haake Signature snare is voiced dry and immediate — the opposite of doom metal's resonant, ringing approach — so every hit registers as a sharp, precise accent against Meshuggah's dense, palm-muted wall of guitar.",
           recommendation: "Dry, controlled tuning for immediate articulation rather than sustained ring"
         },
         {
@@ -65266,10 +65264,10 @@ This guide breaks down shell depth, material, and tuning for djent snares — co
           recommendation: "A snare with consistent response across ghost notes, accents, and odd-time placements"
         },
         {
-          name: "Free-Floating or Isolated Shell Design",
+          name: "Signature Engineering for Quick Response",
           icon: "🔓",
-          description: "Tomas Haake's Pearl Free-Floating design isolates the shell from the rim and hardware, maximizing resonance and sensitivity — letting even lighter, more nuanced hits register clearly within djent's dense mix.",
-          recommendation: "Free-floating or isolation-mounted shells for maximum sensitivity and resonance"
+          description: "Tomas Haake's Sonor Tomas Haake Signature snare is engineered for quick, dry response, letting even lighter, more nuanced hits register clearly within djent's dense mix.",
+          recommendation: "Signature-tuned or isolation-mounted shells for maximum sensitivity and quick response"
         },
         {
           name: "Snare Wire Sensitivity for Ghost Notes",
@@ -65286,43 +65284,40 @@ This guide breaks down shell depth, material, and tuning for djent snares — co
       pedals: [
         {
           rank: 1,
-          name: "Pearl Free-Floating",
-          brand: "Pearl",
-          model: "Free-Floating 14\"x5.5\"",
+          name: "Sonor Tomas Haake Signature",
+          brand: "Sonor",
+          model: "Tomas Haake Signature 14\"x6.5\"",
           image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Drums_01.jpg",
-          priceRange: "€350-500",
+          priceRange: "Not publicly documented",
           tier: "pro",
-          material: "Maple/Steel (Free-Floating, 14x5.5\")",
+          material: "Not publicly documented",
 
-          description: `Tomas Haake's Pearl Free-Floating snare defines djent's founding sound, anchoring Meshuggah's mathematically complex, polyrhythmic riffing on albums like "Nothing" (2002) and "obZen" (2008). The free-floating design isolates the shell from the rim and hardware, maximizing resonance and sensitivity for dry, immediate articulation.
+          description: `Tomas Haake's Sonor Tomas Haake Signature snare defines djent's founding sound, anchoring Meshuggah's mathematically complex, polyrhythmic riffing on albums like "Nothing" (2002) and "obZen" (2008). Sonor markets the signature model on quick, dry response — exactly the immediate articulation Haake's polyrhythmic patterns demand.
 
-The 14x5.5" dimensions give Haake enough crispness to cut through Meshuggah's down-tuned, palm-muted wall of guitar while retaining the sensitivity needed for the ghost notes and odd-time accents that define the band's rhythmic identity.`,
+The 14x6.5" dimensions give Haake enough crispness to cut through Meshuggah's down-tuned, palm-muted wall of guitar while retaining the sensitivity needed for the ghost notes and odd-time accents that define the band's rhythmic identity.`,
 
           pros: [
             "Tomas Haake's current Meshuggah setup — djent's founding, dry, cutting articulation",
-            "Free-floating design maximizes resonance and sensitivity",
-            "5.5\" depth balances crisp attack with enough body to project",
-            "Proven across Meshuggah's most influential polyrhythmic recordings",
-            "Isolation mounting reduces unwanted overtone bleed from hardware"
+            "Sonor signature engineering tuned for quick, dry response",
+            "6.5\" depth balances crisp attack with enough body to project",
+            "Proven across Meshuggah's most influential polyrhythmic recordings"
           ],
           cons: [
-            "Premium pricing for the free-floating hardware system",
-            "Free-floating design requires more careful tuning maintenance",
+            "Full spec sheet and pricing not publicly documented",
             "Limited availability outside specialty drum retailers"
           ],
           specs: {
-            shell: "Maple/Steel Free-Floating",
+            shell: "Not publicly documented",
             diameter: "14\"",
-            depth: "5.5\"",
-            throwOff: "Pearl UltraCast",
-            wires: "20-strand"
+            depth: "6.5\"",
+            throwOff: "Not publicly documented",
+            wires: "Not publicly documented"
           },
           usedBy: [
-            { name: "Tomas Haake", band: "Meshuggah", note: "14x5.5\" Pearl Free-Floating — djent's founding dry, cutting crack" }
+            { name: "Tomas Haake", band: "Meshuggah", note: "14x6.5\" Sonor Tomas Haake Signature — djent's founding dry, cutting crack" }
           ],
-          verdict: "The djent founding standard. Haake's dry, free-floating snare defines the genre's polyrhythmic articulation.",
-          rating: 4.8,
-          affiliateLink: "https://www.thomann.de/intl/pearl_free_floating_snare.htm?partner_id=metalforge"
+          verdict: "The djent founding standard. Haake's dry, Sonor signature snare defines the genre's polyrhythmic articulation.",
+          rating: 4.8
         },
         {
           rank: 2,
@@ -65485,11 +65480,11 @@ For djent-adjacent drummers whose material blends technical death metal, progres
 
     // Comparison
     comparison: {
-      title: "Free-Floating vs Reference Pure vs Standard Maple for Djent",
+      title: "Sonor Signature vs Reference Pure vs Standard Maple for Djent",
       content: `Shell design and depth split djent's founding and modern drummers into distinct camps. Here's how they compare:
 
-**Free-Floating Design (Tomas Haake):**
-- Maximum resonance and sensitivity from shell isolation
+**Sonor Signature Engineering (Tomas Haake):**
+- Quick, dry response tuned for polyrhythmic precision
 - Dry, immediate articulation ideal for polyrhythmic precision
 - Best for genre-defining, mathematically complex djent
 
@@ -65503,7 +65498,7 @@ For djent-adjacent drummers whose material blends technical death metal, progres
 - Versatile across instrumental djent and genre-blending prog material
 - Best for drummers who need dynamic flexibility alongside djent's crisp cut
 
-**Our Recommendation:** Start with a standard shallow maple shell (Pearl Export or Reference) if your material blends dynamics beyond pure djent. Choose an ultra-shallow Reference Pure if your priority is maximum crisp cut through dense, palm-muted arrangements. Consider a free-floating design (Pearl Free-Floating) if you want the genre's founding dry, polyrhythmic articulation.`,
+**Our Recommendation:** Start with a standard shallow maple shell (Pearl Export or Reference) if your material blends dynamics beyond pure djent. Choose an ultra-shallow Reference Pure if your priority is maximum crisp cut through dense, palm-muted arrangements. Consider the Sonor Tomas Haake Signature engineering if you want the genre's founding dry, polyrhythmic articulation.`,
       comparisonTable: [
         { feature: "Crisp Attack", maple: "⭐⭐⭐⭐⭐", hybrid: "⭐⭐⭐⭐⭐", dual: "⭐⭐⭐⭐" },
         { feature: "Dynamic Range", maple: "⭐⭐⭐", hybrid: "⭐⭐⭐", dual: "⭐⭐⭐⭐⭐" },
@@ -65518,7 +65513,7 @@ For djent-adjacent drummers whose material blends technical death metal, progres
       picks: [
         {
           category: "Best Overall",
-          pedal: "Pearl Free-Floating",
+          pedal: "Sonor Tomas Haake Signature",
           reason: "Tomas Haake's Meshuggah setup — djent's founding, dry, cutting polyrhythmic articulation."
         },
         {
@@ -65546,7 +65541,7 @@ For djent-adjacent drummers whose material blends technical death metal, progres
       'best-snare-drums-for-metal'
     ],
     relatedDrummers: [
-      { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Pearl Free-Floating — Meshuggah djent founding polyrhythmic crack' },
+      { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Sonor Tomas Haake Signature 14x6.5" — Meshuggah djent founding polyrhythmic crack' },
       { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Pearl Reference Pure — Periphery prog-djent crisp precision' },
       { slug: 'matt-garstka', name: 'Matt Garstka', reason: 'Pearl Reference — Animals as Leaders instrumental djent clarity' },
       { slug: 'blake-richardson', name: 'Blake Richardson', reason: 'BTBAM kit snare — prog-djent dynamic range and crisp cut' }
@@ -65554,7 +65549,7 @@ For djent-adjacent drummers whose material blends technical death metal, progres
 
     // Featured drummers (issue template)
     featuredDrummers: [
-      { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Pearl Free-Floating — Meshuggah djent founding polyrhythmic crack' },
+      { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Sonor Tomas Haake Signature 14x6.5" — Meshuggah djent founding polyrhythmic crack' },
       { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Pearl Reference Pure — Periphery prog-djent crisp precision' },
       { slug: 'matt-garstka', name: 'Matt Garstka', reason: 'Pearl Reference — Animals as Leaders instrumental djent clarity' },
       { slug: 'blake-richardson', name: 'Blake Richardson', reason: 'BTBAM kit snare — prog-djent dynamic range and crisp cut' }
@@ -65564,15 +65559,15 @@ For djent-adjacent drummers whose material blends technical death metal, progres
     faq: [
       {
         question: "Who are the best djent drummers and what snares do they use?",
-        answer: "Tomas Haake of Meshuggah, the founding drummer of djent's polyrhythmic template, plays a Pearl Free-Floating 14x5.5\" snare. Matt Halpern of Periphery plays a Pearl Reference Pure 14x5\" snare, and Matt Garstka of Animals as Leaders plays a Pearl Reference 14x5.5\" snare."
+        answer: "Tomas Haake of Meshuggah, the founding drummer of djent's polyrhythmic template, plays a Sonor Tomas Haake Signature 14x6.5\" snare. Matt Halpern of Periphery plays a Pearl Reference Pure 14x5\" snare, and Matt Garstka of Animals as Leaders plays a Pearl Reference 14x5.5\" snare."
       },
       {
         question: "What snare drum does Tomas Haake use?",
-        answer: "Tomas Haake of Meshuggah plays a Pearl Free-Floating 14x5.5\" snare — a dry, isolation-mounted shell that delivers the crisp, cutting articulation heard across Meshuggah's mathematically complex catalog, including \"Nothing\" (2002) and \"obZen\" (2008)."
+        answer: "Tomas Haake of Meshuggah plays a Sonor Tomas Haake Signature 14x6.5\" snare — engineered for the quick, dry response that delivers the crisp, cutting articulation heard across Meshuggah's mathematically complex catalog, including \"Nothing\" (2002) and \"obZen\" (2008)."
       },
       {
         question: "What snare depth is best for djent?",
-        answer: "5\"-5.5\" shallow shells are the djent standard — Matt Halpern's Pearl Reference Pure sits at 14x5\" for maximum crisp attack, while Tomas Haake, Matt Garstka, and Blake Richardson all use 14x5.5\" for a touch more body alongside the genre's essential cutting articulation."
+        answer: "5\"-5.5\" shallow shells are the djent standard — Matt Halpern's Pearl Reference Pure sits at 14x5\" for maximum crisp attack, while Matt Garstka and Blake Richardson use 14x5.5\" for a touch more body alongside the genre's essential cutting articulation. Tomas Haake's Sonor Tomas Haake Signature runs slightly deeper at 14x6.5\", proving depth alone doesn't dictate djent's crisp cut."
       },
       {
         question: "Why does djent need a crisper snare than other metal genres?",
@@ -65580,18 +65575,18 @@ For djent-adjacent drummers whose material blends technical death metal, progres
       },
       {
         question: "Do I need a pro-level snare to play djent?",
-        answer: "No — a Pearl Export or Tama Imperialstar steel snare, tuned high and tight, will teach real djent technique at a fraction of the price of the genre's professional Pearl Reference and Free-Floating models. Upgrade once your technique and budget allow."
+        answer: "No — a Pearl Export or Tama Imperialstar steel snare, tuned high and tight, will teach real djent technique at a fraction of the price of the genre's professional Pearl Reference and Sonor Signature models. Upgrade once your technique and budget allow."
       }
     ],
 
     // Conclusion
     conclusion: {
       title: "Find Your Djent Snare Voice",
-      content: `Djent snare choice comes down to how crisp and immediate you need your articulation to cut through palm-muted riffing. Tomas Haake's dry, free-floating Pearl snare defined the genre's founding polyrhythmic template with Meshuggah. Matt Halpern's ultra-shallow Pearl Reference Pure proved that maximum crisp cut can carry Periphery's densest prog-djent arrangements. Matt Garstka's Pearl Reference shows how a djent snare can carry an entire band's rhythmic phrasing without a vocalist, while Blake Richardson's setup demonstrates the dynamic flexibility needed for prog-djent's genre-blending ambition.
+      content: `Djent snare choice comes down to how crisp and immediate you need your articulation to cut through palm-muted riffing. Tomas Haake's dry, Sonor signature snare defined the genre's founding polyrhythmic template with Meshuggah. Matt Halpern's ultra-shallow Pearl Reference Pure proved that maximum crisp cut can carry Periphery's densest prog-djent arrangements. Matt Garstka's Pearl Reference shows how a djent snare can carry an entire band's rhythmic phrasing without a vocalist, while Blake Richardson's setup demonstrates the dynamic flexibility needed for prog-djent's genre-blending ambition.
 
 None of these approaches is more "correct" — all four represent djent's foundational commitment to crisp, cutting articulation that carves through palm-muted, mid-heavy guitar tone. Start with whichever depth and material matches your material's density, and don't be afraid to tune tighter and higher than other metal subgenres would suggest.
 
-Budget shouldn't stop you either. A Pearl Export or Tama Imperialstar snare will teach real technique and survive demanding practice while you save toward the Reference-series and Free-Floating models that defined this lineage's greatest records.
+Budget shouldn't stop you either. A Pearl Export or Tama Imperialstar snare will teach real technique and survive demanding practice while you save toward the Reference-series and Sonor Signature models that defined this lineage's greatest records.
 
 🤘 **Now go cut through that riff.**`
     }

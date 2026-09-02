@@ -9832,7 +9832,7 @@ This guide breaks down the technique, gear, and practice approach behind Mazurki
       },
       {
         question: "What drums and cymbals does Mazurkiewicz use?",
-        answer: "Mazurkiewicz has long played Pearl drums with a punchy, articulate setup built for attack and projection, paired with bright Sabian cymbals that cut through downtuned guitars. He favors heavier sticks for power and a solid pedal feel suited to his hand-led approach."
+        answer: "Mazurkiewicz has long played Pearl drums with a punchy, articulate setup built for attack and projection, paired with bright, cutting Meinl cymbals that punch through downtuned guitars. He favors heavier sticks for power and a solid pedal feel suited to his hand-led approach."
       },
       {
         question: "How do I get the Cannibal Corpse drum sound?",

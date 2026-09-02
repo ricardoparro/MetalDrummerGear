@@ -5415,7 +5415,7 @@ This guide breaks down the best cymbal lines for metal across all price points, 
 
           description: `The Zildjian A Custom is the most common cymbal series on MetalForge's entire roster — and across professional metal drumming broadly. The brilliant finish and hand-hammered B20 bronze produces a bright, cutting shimmer that slices through guitar walls without being harsh. The fast attack and clean decay make crashes precise; the hi-hats cut through any mix.
 
-Lars Ulrich's iconic cymbal sound is built on Zildjian A Customs and the earlier A series. Gene Hoglan's precise, surgical cymbal work relies on Zildjian quality. The A Custom Mastersound hi-hats are particularly popular in metal for their tight, cutting sound with minimal wash buildup.`,
+Lars Ulrich's iconic cymbal sound is built on Zildjian A Customs and the earlier A series. The A Custom Mastersound hi-hats are particularly popular in metal for their tight, cutting sound with minimal wash buildup.`,
 
           pros: [
             "Brilliant finish cuts through any dense guitar mix",
@@ -5439,7 +5439,6 @@ Lars Ulrich's iconic cymbal sound is built on Zildjian A Customs and the earlier
           },
           usedBy: [
             { name: "Lars Ulrich", band: "Metallica", note: "A Custom and A series throughout career" },
-            { name: "Gene Hoglan", band: "Death / Testament", note: "Precision cymbal choice" },
             { name: "Dave Lombardo", band: "Slayer", note: "Classic thrash cymbal aggression" },
             { name: "Charlie Benante", band: "Anthrax", note: "Thrash cymbal standard" }
           ],
@@ -5653,7 +5652,7 @@ Vinnie Paul of Pantera used Sabian cymbals throughout the band's most influentia
 - Bright, cutting shimmer with fast attack
 - Brilliant finish adds visual and sonic presence
 - The most common choice across all metal subgenres
-- Preferred by: Lars Ulrich, Joey Jordison, Gene Hoglan, Dave Lombardo
+- Preferred by: Lars Ulrich, Joey Jordison, Dave Lombardo
 
 **Paiste 2002:**
 - Full-bodied, powerful, slightly dark character
@@ -5733,7 +5732,7 @@ Vinnie Paul of Pantera used Sabian cymbals throughout the band's most influentia
     faq: [
       {
         question: "What cymbals do metal drummers use?",
-        answer: "Most professional metal drummers use Zildjian A Custom (Lars Ulrich, Joey Jordison, Gene Hoglan), Paiste 2002 (Mikkey Dee), Meinl Byzance (Mike Mangini, Dirk Verbeuren), or Sabian AAX (Vinnie Paul, Paul Bostaph). Zildjian A Custom is the single most common choice on MetalForge's roster. All are B20 bronze or equivalent high-quality alloy for complex, musical tone."
+        answer: "Most professional metal drummers use Zildjian A Custom (Lars Ulrich, Joey Jordison), Paiste 2002 (Mikkey Dee), Meinl Byzance (Mike Mangini, Dirk Verbeuren), or Sabian AAX (Vinnie Paul, Paul Bostaph). Zildjian A Custom is the single most common choice on MetalForge's roster. All are B20 bronze or equivalent high-quality alloy for complex, musical tone."
       },
       {
         question: "Are Zildjian or Paiste better for metal?",

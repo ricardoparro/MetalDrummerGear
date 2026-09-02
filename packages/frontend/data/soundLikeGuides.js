@@ -2254,7 +2254,7 @@ This guide explores Matt's groove-first approach to modern progressive metal.`,
         kit: "Pearl Masters Maple/Gum ($1,800)",
         cymbals: "Meinl Byzance Traditional ($800)",
         pedals: "Pearl Eliminator Redline ($350)",
-        sticks: "Vic Firth Matt Halpern ($15)",
+        sticks: "Promark TXMHW Matt Halpern Signature ($15)",
         notes: "Quality Pearl kit with versatile Meinl cymbals."
       },
       pro: {

@@ -5548,7 +5548,7 @@ Mike Mangini of Dream Theater uses Meinl cymbals extensively, building setups th
 
           description: `The Sabian AAX series occupies the space between Zildjian's bright shimmer and Meinl's dark complexity — a versatile, aggressive B20 option that excels in heavy music. The machine-lathed surface provides bright, cutting attack similar to A Custom, while the alloy has a slightly different character that some metal drummers prefer.
 
-Igor Cavalera of Sepultura used Sabian cymbals during a formative period in the band's career, contributing to the tribal, aggressive cymbal tones on early Sepultura albums. The AAX Stage Crash is particularly loved in metal for its fast, trashy response that cuts through without sustaining too long. Sabian has built a solid metal roster and the AAX provides genuinely pro quality at a slightly more accessible price.`,
+Vinnie Paul of Pantera used Sabian cymbals throughout the band's most influential era, contributing to the aggressive, cutting cymbal tones that defined their groove metal sound. The AAX Stage Crash is particularly loved in metal for its fast, trashy response that cuts through without sustaining too long. Sabian has built a solid metal roster and the AAX provides genuinely pro quality at a slightly more accessible price.`,
 
           pros: [
             "B20 quality at slightly more accessible pricing",
@@ -5571,8 +5571,8 @@ Igor Cavalera of Sepultura used Sabian cymbals during a formative period in the 
             rideRange: "20\" - 22\""
           },
           usedBy: [
-            { name: "Igor Cavalera", band: "Sepultura / Cavalera Conspiracy", note: "Sabian user during formative Sepultura era" },
             { name: "Vinnie Paul", band: "Pantera", note: "Groove metal power cymbal tones" },
+            { name: "Paul Bostaph", band: "Slayer / Testament / Exodus", note: "Sabian AAX — thrash metal precision" },
             { name: "Matt Greiner", band: "August Burns Red", note: "Metalcore / heavy use" }
           ],
           verdict: "Excellent all-around metal cymbal. Best value in B20 for drummers who want quality without paying Zildjian prices.",
@@ -5671,7 +5671,7 @@ Igor Cavalera of Sepultura used Sabian cymbals during a formative period in the 
 - Versatile mid-ground between bright and musical
 - B20 quality at slightly more accessible prices
 - Excellent AAX Stage Crash for aggressive metal
-- Preferred by: Igor Cavalera, Vinnie Paul, transitional-era metal
+- Preferred by: Vinnie Paul, Paul Bostaph, transitional-era metal
 
 **Our Verdict:** Zildjian A Custom for most metal. Paiste 2002 for classic heavy metal. Meinl Byzance for modern/progressive. Sabian AAX for value seekers.`,
       comparisonTable: [
@@ -5725,7 +5725,7 @@ Igor Cavalera of Sepultura used Sabian cymbals during a formative period in the 
       { slug: 'lars-ulrich', name: 'Lars Ulrich', reason: 'Zildjian A Custom — the pro metal standard' },
       { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'Paiste 2002 — classic heavy metal power' },
       { slug: 'mike-mangini', name: 'Mike Mangini', reason: 'Meinl Byzance — progressive metal depth' },
-      { slug: 'igor-cavalera', name: 'Igor Cavalera', reason: 'Sabian AAX — formative Sepultura era' },
+      { slug: 'vinnie-paul', name: 'Vinnie Paul', reason: 'Sabian AAX — Pantera groove metal power' },
       { slug: 'joey-jordison', name: 'Joey Jordison', reason: 'Zildjian — explosive nu/extreme metal' }
     ],
 
@@ -5733,7 +5733,7 @@ Igor Cavalera of Sepultura used Sabian cymbals during a formative period in the 
     faq: [
       {
         question: "What cymbals do metal drummers use?",
-        answer: "Most professional metal drummers use Zildjian A Custom (Lars Ulrich, Joey Jordison, Gene Hoglan), Paiste 2002 (Mikkey Dee), Meinl Byzance (Mike Mangini, Dirk Verbeuren), or Sabian AAX (Igor Cavalera, Vinnie Paul). Zildjian A Custom is the single most common choice on MetalForge's roster. All are B20 bronze or equivalent high-quality alloy for complex, musical tone."
+        answer: "Most professional metal drummers use Zildjian A Custom (Lars Ulrich, Joey Jordison, Gene Hoglan), Paiste 2002 (Mikkey Dee), Meinl Byzance (Mike Mangini, Dirk Verbeuren), or Sabian AAX (Vinnie Paul, Paul Bostaph). Zildjian A Custom is the single most common choice on MetalForge's roster. All are B20 bronze or equivalent high-quality alloy for complex, musical tone."
       },
       {
         question: "Are Zildjian or Paiste better for metal?",
@@ -10690,7 +10690,7 @@ The AAX series is built for modern playing styles — tight, responsive, and wit
             series: "AAX"
           },
           usedBy: [
-            { name: "Igor Cavalera", band: "Sepultura", note: "Sabian AAX — formative Sepultura era" },
+            { name: "Shannon Larkin", band: "Godsmack", note: "Sabian AAX Stage Hi-Hats — radio-ready groove punch" },
             { name: "Modern metalcore drummers", band: "Various", note: "Mid-price pro-level choice" }
           ],
           verdict: "Best value pro hi-hat for modern metal. Great projection and attack at a lower price point.",

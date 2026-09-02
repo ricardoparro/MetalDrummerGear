@@ -4993,7 +4993,7 @@ This guide covers Igor's core technique across both the thrash period (Beneath t
         model: 'Yamaha Absolute Hybrid Maple 14"',
         size: '14"',
         shell: 'Maple',
-        description: "Igor's current maple snare, part of his Yamaha Absolute Hybrid Maple kit since 2018, provides warm crack with body — not the thin, bright crack of steel snares. From 2007-2018 he played a Tama S.L.P. 14\"x6.5\" G-Maple snare. A maple snare suits tribal groove playing because it has resonance that supports the heavy, deliberate feel rather than cutting through like a metal snare.",
+        description: "Igor's current maple snare, part of his Yamaha Absolute Hybrid Maple kit since 2018, provides warm crack with body — not the thin, bright crack of steel snares. From 2006-2018 he played his ddrum Hybrid Kit snare during the Cavalera Conspiracy years. A maple snare suits tribal groove playing because it has resonance that supports the heavy, deliberate feel rather than cutting through like a metal snare.",
         alternative: "Pearl Maple Sensitone or Ludwig Maple Classic for similar warm crack"
       },
       cymbals: {
@@ -5007,7 +5007,7 @@ This guide covers Igor's core technique across both the thrash period (Beneath t
           { type: 'Ride', model: 'Zildjian 20" Ride', notes: 'Powerful ride with defined bell' },
           { type: 'Effect', model: 'Zildjian Zbell', notes: 'Accent bell for tribal punctuation' }
         ],
-        description: "Igor is a current Zildjian artist, having moved off his prior Paiste RUDE & 2002 Series setup (2007-2018). Before that, during the Roots era, his cymbal brand is disputed between sources and left unconfirmed pending a corroborating source."
+        description: "Igor is a current Zildjian artist, playing Zildjian A Custom Series cymbals since 2006 when he left Sepultura's Paiste-endorsed setup to form Cavalera Conspiracy. Before that, during the Roots era, his cymbal brand is disputed between sources and left unconfirmed pending a corroborating source."
       },
       pedals: {
         brand: 'Tama',
@@ -5117,15 +5117,15 @@ This guide covers Igor's core technique across both the thrash period (Beneath t
         kit: "Tama Starclassic Maple ($3,000+)",
         cymbals: "Paiste RUDE Full Selection ($2,000+)",
         pedals: "Tama Iron Cobra Power Glide Double Pedal ($500)",
-        snare: "Tama S.L.P. G-Maple ($300)",
+        snare: "Tama Starclassic Maple Snare ($300)",
         heads: "Full Evans setup ($200)",
-        notes: "Tama Starclassic Maple was Igor's stage kit from 2007-2018; he now plays a Yamaha Absolute Hybrid Maple kit with Zildjian cymbals. Pair Tama Starclassic with a full RUDE cymbal setup to recreate the classic Cavalera Conspiracy-era sound."
+        notes: "Tama Starclassic Maple was Igor's stage kit from 1996-2006 during his Sepultura years; he then played a ddrum Hybrid Kit through 2018 for Cavalera Conspiracy, and now plays a Yamaha Absolute Hybrid Maple kit with Zildjian cymbals. Pair Tama Starclassic with a full RUDE cymbal setup to recreate that mid-career Sepultura sound."
       }
     },
     faq: [
       {
         question: "What drum kit did Igor Cavalera use on Roots?",
-        answer: "Igor Cavalera used Pearl Masters Custom maple-shell kits during the Roots (1996) recording and touring period, a switch from the Tama gear of his earlier Sepultura years, providing warm, resonant tone suited to both the tribal elements and the heavy metal intensity of the album. From 2007-2018 he played Tama Starclassic Maple; he currently plays a Yamaha Absolute Hybrid Maple kit, a new endorsement announced in August 2018."
+        answer: "Igor Cavalera used Pearl Masters Custom maple-shell kits during the Roots (1996) recording and touring period, a switch from the Tama gear of his earlier Sepultura years, providing warm, resonant tone suited to both the tribal elements and the heavy metal intensity of the album. From 2006-2018 he played a ddrum Hybrid Kit during his Cavalera Conspiracy years; he currently plays a Yamaha Absolute Hybrid Maple kit, a new endorsement announced in August 2018."
       },
       {
         question: "How did Igor Cavalera create the tribal drum sound on Roots?",
@@ -5133,7 +5133,7 @@ This guide covers Igor's core technique across both the thrash period (Beneath t
       },
       {
         question: "What cymbals does Igor Cavalera use?",
-        answer: "Igor Cavalera is a current Zildjian artist, playing 14\" Zildjian hi-hats, 18\" and 19\" Zildjian crashes, an 18\" Zildjian China, a 20\" Zildjian ride, and a Zildjian zbell. From 2007-2018 he used Paiste RUDE series cymbals — Paiste's loudest and most aggressive line — including 14\" RUDE hi-hats, 18\" and 19\" RUDE Crash Rides, a 22\" RUDE Power Ride, and a Paiste 2002 China for accents."
+        answer: "Igor Cavalera is a current Zildjian artist, playing 14\" Zildjian hi-hats, 18\" and 19\" Zildjian crashes, an 18\" Zildjian China, a 20\" Zildjian ride, and a Zildjian zbell — a setup he's played since 2006. Before that, during his Sepultura years, he used Paiste RUDE series cymbals — Paiste's loudest and most aggressive line — including 14\" RUDE hi-hats, 18\" and 19\" RUDE Crash Rides, a 22\" RUDE Power Ride, and a Paiste 2002 China for accents."
       },
       {
         question: "Does Igor Cavalera use double bass?",

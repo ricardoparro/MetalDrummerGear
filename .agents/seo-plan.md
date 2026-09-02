@@ -7210,3 +7210,47 @@ All 7 personally grep/sed-verified with exact line citations against both the fa
 3. `genreGearGuides.js` continues to be the highest-yield surface — drummers with many prior closed fixes (implying partial sweeps across other files) are a good next-search heuristic; several other multi-fix drummers not yet checked against this specific file.
 4. Standing flag (unchanged, 4 drummers): Mike Mangini, Flo Mounier, Nick Menza, Vinnie Paul have `endorsementNews.js`-vs-`extendedBios.js` source conflicts needing a founder/CEO ruling before target-file fixes are safe. (Note: this run's Flo Mounier finding was cymbals-only and didn't touch the flagged conflict area.)
 5. Drum-chair watch: next due Monday 2026-09-07 (week 37, group 1 = death, deftones, entheos, godsmack, gojira, hellyeah, korn).
+
+---
+
+## 2026-09-02 (19th sweep round) — 5 fresh gear-fabrication proposals filed (#6721-6724, #6726); 1 self-caught and closed (#6725, source conflict)
+
+### Bank check
+Open `seo-proposal` at run start: 11 total — 8 already `ai-fix`-promoted (#6679, #6698-6704, per 10:40 UTC CEO decision) + 3 standing umbrellas (#3810/#3819/#2211). True untriaged bank: 0. Well under the 45 cap → cleared to file up to 8 net-new.
+
+### Audit summary
+- Robots.txt (`api/robots.js`): all 8 AI crawlers (GPTBot, ChatGPT-User, ClaudeBot, anthropic-ai, PerplexityBot, Applebot-Extended, cohere-ai, Google-Extended) explicitly allowed. ✅
+- `/public/llms/drummers/*.md`: 72 files live.
+- Metrics (2026-09-02 11:50 UTC): 289 users/334 sessions/464 views (7d); GSC 6,625 impr/153 clicks/2.31% CTR/pos 9.6. Same 2 content-gap rows (`metalforge` 434 impr/0.69% CTR, `danny carey drum kit` 57 impr/1.75% CTR) — both already held per `learned-patterns.md` precedent (SERP name-collision, content-optimization ceiling). No new action.
+- Drum-chair watch: today is Wednesday — not due (next due Monday 2026-09-07).
+
+### This run's sweep
+`genreGearGuides.js` (116,748 lines) continues to be the highest-yield unswept surface, confirmed again this run. Dispatched a research agent (2 passes) to cross-reference drummer gear mentions in this file against verified `endorsementNews.js`, then personally re-verified every candidate via direct `grep`/`sed` before filing, plus a `gh issue list --state all --search` dedup pass per drummer+file/field.
+
+1. **George Kollias** (pedal) — `genreGearGuides.js` L441/L11088 (2 pedal guides) credit the generic Pearl Demon Drive; verified `endorsementNews.js:359-360` is his own co-designed **Demon XR** (2015 signature model) — a real-but-wrong Pearl model, not a different brand. Filed **#6721**.
+2. **Pete Sandoval** (drums/hardware) — `genreGearGuides.js` (≥4 locations: L7689/13415/21437/114281) credits Tama; verified `endorsementNews.js:2382-2387` is ddrum since 1989 (Tama never appears in his record). Note: Gene Hoglan's correct Tama credit sits in the same lines/groupings — fix must not touch his half. Filed **#6722**.
+3. **Derek Roddy** (kit/pedal/hardware) — `genreGearGuides.js` is internally self-contradictory: L22218/98509/99342 correctly say Tama Starclassic Bubinga/Speed Cobra 910, but ≥5 other spots (L7689/66598/104870/111276/114281) fabricate DW/Axis. Verified `endorsementNews.js:1951,1955`. Filed as batch **#6723**.
+4. **Flo Mounier** (heads) — `genreGearGuides.js` L3806/3813/3821 (technical-death-metal heads guide) credit Remo Ambassador; verified `endorsementNews.js:1023` is Evans EC Reverse Dot since 2012 — **cross-checked `extendedBios.js:6368`, which also says "Evans drumheads"**, so both source files agree, no conflict risk. Filed **#6724**.
+5. **Tomas Haake** (snare) — `genreGearGuides.js` L9469-9470 + L65327 (2 snare guides) credit Pearl Free-Floating; `endorsementNews.js` has no snare-specific field for Haake, so cross-verified against `extendedBios.js:637,676` — Sonor Tomas Haake Signature 14"x6.5" (both files' drums/hardware fields agree it's a Sonor-centric kit, no conflict). Filed as batch **#6726**.
+
+**Self-caught error, closed before triage:** a 6th candidate — **Flo Mounier (drums)**, `genreGearGuides.js` L13100/21400, DW Collector's Series vs a proposed "verified Tama Starclassic Maple since 2012" (`endorsementNews.js:1020`) — was filed as **#6725**, then caught and closed same-run. Flo Mounier is one of the **4 drummers with a standing, still-unresolved `endorsementNews.js`-vs-`extendedBios.js` source conflict** (see recurring flag in this log, line ~6803 onward: Mike Mangini, Flo Mounier, Nick Menza, Vinnie Paul). Checked `extendedBios.js:6328,6361-6362` after filing #6725 and found it asserts a **Pearl Masters Maple Complete** kit (drums+snare+pedal) throughout its bio/FAQ block — directly contradicting the Tama claim #6725 was about to ship. Closed #6725 with an explanation rather than let it reach CEO triage. **Rule reinforced: for any of the 4 flagged drummers, check `extendedBios.js` for the SPECIFIC field being fixed (not just "has this drummer been flagged") before filing — kit-brand/drums fields are the actual disputed area for Mounier; other fields (heads, in this run) can still be safe if both sources agree.** This should have been checked before filing #6725, not after — the standing flag was sitting in this same file's history and was missed until a final grep-through during write-up.
+
+### Proposals filed this run (5, net of 1 self-closed)
+1. #6721 — George Kollias pedal (genreGearGuides.js, 2 guides, Demon Drive→Demon XR)
+2. #6722 — Pete Sandoval drums/hardware (genreGearGuides.js, 4+ locations, Tama→ddrum)
+3. #6723 — Derek Roddy kit/pedal/hardware batch (genreGearGuides.js, 5+ locations, DW/Axis→Tama)
+4. #6724 — Flo Mounier heads (genreGearGuides.js, 1 guide/3 lines, Remo→Evans — cross-checked safe)
+5. #6726 — Tomas Haake snare batch (genreGearGuides.js, 2 guides, Pearl→Sonor — cross-checked safe)
+
+Closed same-run: #6725 (Flo Mounier drums — source conflict, not a valid fix, see above).
+
+### Open proposals waiting on CEO triage
+- #6721-6724, #6726 (this run, 0d old)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers only.
+
+### Next run
+1. Watch #6721-6724/#6726 ship via Roadie/PR Merger.
+2. **New candidate for the standing-flag list**: no new conflict drummer found this run beyond re-confirming Mounier's existing flag on the drums/kit-brand field specifically (not heads).
+3. `genreGearGuides.js` still has unswept surface per the dispatched agent — roster names not yet checked against this specific file: continue widening from drummers with many prior closed fixes elsewhere (implies partial sweeps).
+4. Standing flag (unchanged, 4 drummers): Mike Mangini, Flo Mounier, Nick Menza, Vinnie Paul have `endorsementNews.js`-vs-`extendedBios.js` source conflicts needing a founder/CEO ruling before target-file fixes are safe on the SPECIFIC disputed fields (Mounier: drums/kit-brand only, confirmed this run — other fields may be safe, verify per-field).
+5. Drum-chair watch: next due Monday 2026-09-07 (week 37, group 1 = death, deftones, entheos, godsmack, gojira, hellyeah, korn).

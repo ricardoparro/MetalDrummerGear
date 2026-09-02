@@ -6775,7 +6775,7 @@ Focus (1993), with Cynic, pushed even further into jazz-fusion territory. Reiner
     genre: 'Melodic Death Metal',
     priority: 26,
     title: "How to Sound Like Daniel Erlandsson: Complete Gear & Technique Guide",
-    description: "Master Daniel Erlandsson's Arch Enemy drum sound. Learn his Gothenburg melodic death metal technique — controlled blast beats, melodic fills, groove dynamics — and his Pearl Reference Pure / Paiste RUDE gear setup.",
+    description: "Master Daniel Erlandsson's Arch Enemy drum sound. Learn his Gothenburg melodic death metal technique — controlled blast beats, melodic fills, groove dynamics — and his Pearl Reference Pure / Sabian AAX/HHX gear setup.",
     seoKeywords: ['daniel erlandsson drumming', 'how to sound like daniel erlandsson', 'arch enemy drums', 'daniel erlandsson gear', 'daniel erlandsson technique', 'daniel erlandsson drum kit', 'gothenburg melodic death metal drums', 'arch enemy drum sound'],
     ogImage: '/images/guides/daniel-erlandsson-guide.webp',
     datePublished: '2026-06-25',
@@ -6796,7 +6796,7 @@ This guide covers Daniel's technique across Arch Enemy's melodic death metal cat
         "Co-founded Arch Enemy in 1995 with Michael Amott; has played on every studio album",
         "His brother Adrian Erlandsson plays with At The Gates — both defined Gothenburg's extreme metal sound",
         "Known for controlled blast beats that serve melody rather than overwhelming it",
-        "Uses Pearl Reference Pure with Paiste RUDE cymbals and Pearl Eliminator pedals"
+        "Uses Pearl Reference Pure with Sabian AAX/HHX cymbals and Pearl Eliminator pedals"
       ]
     },
     technique: {
@@ -6874,16 +6874,16 @@ This guide covers Daniel's technique across Arch Enemy's melodic death metal cat
         alternative: "Pearl Free-Floating Steel 14\" x 5\" or Pearl Sensitone Maple for similar bright crack"
       },
       cymbals: {
-        brand: 'Paiste',
-        series: 'Paiste RUDE Series',
+        brand: 'Sabian',
+        series: 'Sabian AAX / HHX Series',
         setup: [
-          { type: 'Hi-Hats', model: 'Paiste 14" RUDE Hi-Hats', notes: 'Aggressive, loud response for blast beat sections' },
-          { type: 'Crash', model: 'Paiste 18" RUDE Crash Ride', notes: 'Explosive attack for accent moments' },
-          { type: 'Crash', model: 'Paiste 19" RUDE Crash Ride', notes: 'Heavier crash for climactic builds' },
-          { type: 'Ride', model: 'Paiste 22" RUDE Power Ride', notes: 'Defined bell for ride patterns in mid-tempo sections' },
-          { type: 'China', model: 'Paiste 18" 2002 China', notes: 'China for section transitions and accent punctuation' }
+          { type: 'Hi-Hats', model: 'Sabian AAX Stage Hi-Hats 14"', notes: 'Bright, cutting response for blast beat sections' },
+          { type: 'Crash', model: 'Sabian AAX X-Plosion Crash 18"', notes: 'Fast, explosive attack for accent moments' },
+          { type: 'Crash', model: 'Sabian AAX X-Plosion Crash 19"', notes: 'Heavier crash for climactic builds' },
+          { type: 'Ride', model: 'Sabian HHX Evolution Ride 21"', notes: 'Dark, defined bell for ride patterns in mid-tempo sections' },
+          { type: 'China', model: 'Sabian HHX China Kang 18"', notes: 'China for section transitions and accent punctuation' }
         ],
-        description: "Erlandsson uses Paiste RUDE cymbals — Paiste's most aggressive, loudest series. The RUDE line's volume and projection ensures his cymbals cut through Arch Enemy's dense twin-guitar arrangements. The raw, aggressive Paiste sound is a core component of the Gothenburg melodic death metal aesthetic."
+        description: "Erlandsson has played Sabian since his pre-Arch Enemy days with Eucharist in 1989, refining his setup in 2014 to the brighter AAX crashes and darker HHX ride heard from the War Eternal era onward. The AAX line's bright, cutting projection ensures his cymbals cut through Arch Enemy's dense twin-guitar arrangements while the HHX ride adds tonal contrast."
       },
       pedals: {
         brand: 'Pearl',
@@ -6972,30 +6972,30 @@ This guide covers Daniel's technique across Arch Enemy's melodic death metal cat
         price: "$1,200",
         label: "Starter Melodic Death Metal Setup",
         kit: "Pearl Export ($550) or Tama Imperialstar ($500)",
-        cymbals: "Paiste PST 8 or 900 Series ($300)",
+        cymbals: "Sabian SBR or B8 Series ($300)",
         pedals: "Pearl P932 Double Pedal ($150)",
         sticks: "Vic Firth 5B ($10)",
-        notes: "Pearl Export shares the brand DNA with Reference Pure. Paiste cymbals at any tier deliver the aggressive projection Arch Enemy requires."
+        notes: "Pearl Export shares the brand DNA with Reference Pure. Sabian cymbals at any tier deliver the bright, cutting projection Arch Enemy requires."
       },
       mid: {
         price: "$3,500",
         label: "Intermediate Setup",
         kit: "Pearl Session Studio Classic ($1,800)",
-        cymbals: "Paiste RUDE Selection ($1,200)",
+        cymbals: "Sabian AA/HH Selection ($1,200)",
         pedals: "Pearl Demon Drive P3002 ($400)",
         sticks: "Vic Firth 5B ($10)",
         heads: "Remo Emperor set ($150)",
-        notes: "Pearl Session Studio Classic brings you directly into the Reference Pure's sonic territory. RUDE cymbals are the right call for Erlandsson's aggressive projection requirements."
+        notes: "Pearl Session Studio Classic brings you directly into the Reference Pure's sonic territory. Sabian AA/HH cymbals are the right call for Erlandsson's bright, cutting projection requirements."
       },
       pro: {
         price: "$6,500+",
         label: "Professional Setup",
         kit: "Pearl Reference Pure ($3,000+)",
-        cymbals: "Paiste RUDE Full Selection ($2,000+)",
+        cymbals: "Sabian AAX/HHX Full Selection ($2,000+)",
         pedals: "Pearl Demon Drive P3002D ($550)",
         snare: "Pearl Daniel Erlandsson Signature ($300)",
         heads: "Full Remo setup ($200)",
-        notes: "Pearl Reference Pure is Erlandsson's current touring and recording kit. Pair with RUDE cymbals and Demon Drive pedals for the complete setup."
+        notes: "Pearl Reference Pure is Erlandsson's current touring and recording kit. Pair with Sabian AAX/HHX cymbals and Demon Drive pedals for the complete setup."
       }
     },
     faq: [
@@ -7005,7 +7005,7 @@ This guide covers Daniel's technique across Arch Enemy's melodic death metal cat
       },
       {
         question: "What cymbals does Daniel Erlandsson use?",
-        answer: "Daniel Erlandsson uses Paiste RUDE cymbals — Paiste's loudest, most aggressive series. His setup includes 14\" RUDE hi-hats, 18\" and 19\" RUDE Crash Rides, a 22\" RUDE Power Ride, and a Paiste 2002 China for accent work. The RUDE series' extreme projection ensures his cymbals cut through Arch Enemy's twin-guitar arrangements."
+        answer: "Daniel Erlandsson uses Sabian AAX and HHX cymbals — Sabian since his pre-Arch Enemy days in 1989, refined to the AAX/HHX configuration in 2014. His setup includes 14\" AAX Stage hi-hats, 18\" and 19\" AAX X-Plosion crashes, a 21\" HHX Evolution Ride, and an 18\" HHX China Kang for accent work. The brighter AAX crashes and darker HHX ride ensure his cymbals cut through Arch Enemy's twin-guitar arrangements."
       },
       {
         question: "How does Daniel Erlandsson keep his blast beats so controlled?",
@@ -7024,7 +7024,7 @@ This guide covers Daniel's technique across Arch Enemy's melodic death metal cat
       drummerProfile: '/drummer/daniel-erlandsson',
       similarDrummers: ['Chris Adler', 'Eloy Casagrande', 'Jaska Raatikainen'],
       relatedGuides: ['how-to-sound-like-chris-adler', 'how-to-sound-like-eloy-casagrande', 'how-to-sound-like-waltteri-vayrynen'],
-      gearPages: ['/gear/pedals', '/brands/pearl', '/brands/paiste']
+      gearPages: ['/gear/pedals', '/brands/pearl', '/brands/sabian']
     },
     licksUrl: '/drummers/daniel-erlandsson/licks',
     relatedArticles: [

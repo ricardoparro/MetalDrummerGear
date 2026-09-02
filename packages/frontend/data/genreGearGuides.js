@@ -6315,7 +6315,7 @@ Start with what you can afford, learn to tune it properly, and practice until yo
     // SEO metadata
     title: "Best Cymbals for Death Metal: 2026 Ultimate Guide",
     metaTitle: "Best Cymbals for Death Metal 2026 | MetalForge Expert Guide",
-    description: "Top cymbal picks for death metal: what George Kollias, Flo Mounier, and Pete Sandoval actually use, from budget to pro. Zildjian K vs Paiste 2002 vs Meinl Classics for extreme metal.",
+    description: "Top cymbal picks for death metal: what George Kollias, Flo Mounier, and Pete Sandoval actually use, from budget to pro. Zildjian K vs Sabian AAX/HHX vs Meinl Classics for extreme metal.",
     seoKeywords: [
       'best cymbals for death metal',
       'death metal cymbals',
@@ -6323,7 +6323,7 @@ Start with what you can afford, learn to tune it properly, and practice until yo
       'flo mounier cymbals',
       'pete sandoval cymbals',
       'zildjian k death metal',
-      'paiste 2002 death metal',
+      'sabian aax hhx death metal',
       'cymbals for blast beats',
       'extreme metal cymbals',
       'best crash cymbals death metal'
@@ -6352,13 +6352,13 @@ Start with what you can afford, learn to tune it properly, and practice until yo
       title: "Why Death Metal Has Its Own Cymbal Demands",
       content: `Death metal places extreme demands on cymbals that most other genres simply don't. At 220–280 BPM blast beats, cymbals must respond instantly and cut through a dense, down-tuned guitar wall without washing out into a shapeless roar. They must withstand relentless physical punishment—death metal drummers hit hard and fast, often for hours of daily practice.
 
-George Kollias (Nile) has made his Zildjian K Custom Dark cymbals as recognizable as his inhuman blast beat speed—the dark, controlled wash sits perfectly under technical death metal complexity. Flo Mounier (Cryptopsy) uses Paiste 2002 cymbals that deliver controlled chaos even at his insane 270 BPM tempos. Pete Sandoval (Morbid Angel) built his hyper-blast sound around Zildjian's articulate response.
+George Kollias (Nile) has made his Zildjian K Custom Dark cymbals as recognizable as his inhuman blast beat speed—the dark, controlled wash sits perfectly under technical death metal complexity. Flo Mounier (Cryptopsy) uses Sabian AAX/HHX Series cymbals that deliver controlled chaos even at his insane 270 BPM tempos. Pete Sandoval (Morbid Angel) built his hyper-blast sound around Zildjian's articulate response.
 
 The wrong cymbals for death metal don't just sound bad—they actively fight your playing. This guide breaks down what actually works, why, and which specific models give you the most extreme metal performance across all budgets.`,
       keyPoints: [
         "Dark, controlled wash beats bright shimmer at death metal speeds",
         "Zildjian K Custom Dark is the most common death metal cymbal line",
-        "Paiste 2002 crashes offer precise attack even at 270+ BPM",
+        "Sabian AAX/HHX crashes offer precise attack even at 270+ BPM",
         "Heavy hi-hats control wash at extreme blast beat tempos"
       ]
     },
@@ -6377,7 +6377,7 @@ The wrong cymbals for death metal don't just sound bad—they actively fight you
           name: "Darkness vs. Brightness",
           icon: "🌑",
           description: "Bright cymbals can sound harsh and fatiguing at extreme volumes and speeds. Darker cymbals blend better with the guitar's distorted texture while still cutting. Most death metal pros choose darker lines over brilliant-finish options.",
-          recommendation: "K Custom Dark, Paiste 2002, or Meinl Classics Custom Dark for the right balance"
+          recommendation: "K Custom Dark, Sabian AAX/HHX, or Meinl Classics Custom Dark for the right balance"
         },
         {
           name: "Hi-Hat Weight",
@@ -6454,22 +6454,22 @@ George Kollias built his reputation for the fastest feet in death metal while us
         },
         {
           rank: 2,
-          name: "Paiste 2002",
-          brand: "Paiste",
-          model: "2002 Series",
+          name: "Sabian AAX / HHX Series",
+          brand: "Sabian",
+          model: "AAX / HHX Series",
           image: "https://upload.wikimedia.org/wikipedia/commons/c/c3/SABIAN_Paragon_Ride_Limited_Edition_Steampunk.jpg",
           priceRange: "€200-500 per cymbal",
           tier: "pro",
-          material: "CuSn8 Bronze (Paiste Proprietary)",
+          material: "B20 Bronze",
 
-          description: `Flo Mounier of Cryptopsy has used Paiste 2002 cymbals throughout the band's career — a setup that must handle one of the most technically demanding death metal playing styles ever recorded. At 270+ BPM, his Paiste 2002 crashes deliver the controlled chaos that defines Cryptopsy's sound: aggressive, precise, and never muddy despite the extreme speeds.
+          description: `Flo Mounier of Cryptopsy has used Sabian AAX/HHX Series cymbals since 2012 — a setup that must handle one of the most technically demanding death metal playing styles ever recorded. At 270+ BPM, his Sabian crashes deliver the controlled chaos that defines Cryptopsy's sound: aggressive, precise, and never muddy despite the extreme speeds.
 
-The 2002's CuSn8 alloy gives crashes more body and projection than B20 alternatives at comparable weights. In death metal, this translates to cymbal accents that speak with authority even when the kit is being pushed to its limits. The 2002's character is more powerful and full-bodied than the K Custom Dark — a different tool for a different approach to extreme metal.`,
+The AAX/HHX B20 alloy gives crashes body and projection that hold up under repeated extreme-tempo abuse. In death metal, this translates to cymbal accents that speak with authority even when the kit is being pushed to its limits. The line's character is more powerful and full-bodied than the K Custom Dark — a different tool for a different approach to extreme metal.`,
 
           pros: [
             "Full-bodied, powerful crash character at extreme speeds",
-            "Paiste CuSn8 alloy — proven in the most intense death metal contexts",
-            "Flo Mounier endorsement — 270 BPM proof of concept",
+            "Sabian B20 alloy — proven in the most intense death metal contexts",
+            "Flo Mounier endorsement since 2012 — 270 BPM proof of concept",
             "More projection than K Custom Dark — cuts louder",
             "Iconic sound that engineers recognize and respect"
           ],
@@ -6479,19 +6479,19 @@ The 2002's CuSn8 alloy gives crashes more body and projection than B20 alternati
             "Premium pricing"
           ],
           specs: {
-            alloy: "CuSn8 Bronze (Paiste 2002 alloy)",
-            finish: "Natural/Traditional",
+            alloy: "B20 Bronze",
+            finish: "Brilliant/Natural (model dependent)",
             treatment: "Machine-lathed",
             hiHatRange: "13\" - 15\"",
             crashRange: "16\" - 22\"",
             rideRange: "20\" - 22\""
           },
           usedBy: [
-            { name: "Flo Mounier", band: "Cryptopsy", reason: "Controlled chaos at 270 BPM — Paiste 2002 throughout Cryptopsy's career" }
+            { name: "Flo Mounier", band: "Cryptopsy", reason: "Controlled chaos at 270 BPM — Sabian AAX/HHX since 2012" }
           ],
-          verdict: "The power option for death metal. If you want big, full crashes that speak with authority, Paiste 2002 delivers.",
+          verdict: "The power option for death metal. If you want big, full crashes that speak with authority, Sabian AAX/HHX delivers.",
           rating: 4.7,
-          affiliateLink: "https://www.thomann.de/intl/paiste_2002_series.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/sabian_aax_series.htm?partner_id=metalforge"
         },
         {
           rank: 3,
@@ -6542,7 +6542,7 @@ For death metal specifically, the dark finish and complex overtones of the Class
           tier: "pro",
           material: "B20 Bronze",
 
-          description: `The Sabian HHX Evolution takes a different approach to extreme metal — bright, cutting, and aggressive rather than dark and controlled. For death metal drummers who want their crashes to slice through rather than blend, the Evolution's bright B20 character provides a distinctive alternative to the K Custom Dark/Paiste 2002 approach.
+          description: `The Sabian HHX Evolution takes a different approach to extreme metal — bright, cutting, and aggressive rather than dark and controlled. For death metal drummers who want their crashes to slice through rather than blend, the Evolution's bright B20 character provides a distinctive alternative to the darker K Custom Dark/AAX-HHX approach.
 
 Several modern death metal drummers have incorporated HHX cymbals for their cutting attack and distinctive character. The Evolution crashes are particularly noted for their fast, defined response — useful for the precise accent work required in technical death metal.`,
 
@@ -6598,29 +6598,29 @@ Several modern death metal drummers have incorporated HHX cymbals for their cutt
           affiliateLink: "https://www.thomann.de/intl/zildjian_k_series.htm?partner_id=metalforge"
         },
         {
-          name: "Paiste PST 7 Dark",
-          brand: "Paiste",
-          model: "PST 7 Dark Series",
-          priceRange: "€70-180 per cymbal",
+          name: "Sabian B8X",
+          brand: "Sabian",
+          model: "B8X Series",
+          priceRange: "€80-200 per cymbal",
           tier: "budget",
-          material: "CuSn7 Bronze",
-          description: "Paiste's budget line includes a 'Dark' option that delivers the Paiste 2002 character at an entry price. For death metal drummers who love Flo Mounier's Paiste sound but can't yet afford the 2002 line, this is the starting point.",
+          material: "B8 Bronze",
+          description: "Sabian's B8X line delivers a bright, full-bodied entry point into the AAX/HHX voicing at a budget price. For death metal drummers who love Flo Mounier's Sabian sound but can't yet afford the AAX/HHX line, this is the starting point.",
           pros: [
-            "Paiste dark character at budget price",
+            "Sabian character at budget price",
             "Full, body-forward crashes",
-            "Good upgrade path to 2002"
+            "Good upgrade path to AAX/HHX"
           ],
-          cons: ["Lighter CuSn7 alloy vs 2002's CuSn8"],
-          verdict: "Best budget Paiste for death metal. Step up from brass without breaking the bank.",
+          cons: ["Lighter B8 alloy vs AAX/HHX's B20"],
+          verdict: "Best budget Sabian for death metal. Step up from brass without breaking the bank.",
           rating: 4.0,
-          affiliateLink: "https://www.thomann.de/intl/paiste_pst_7_series.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/sabian_b8x_series.htm?partner_id=metalforge"
         }
       ]
     },
 
     // Comparison
     comparison: {
-      title: "Zildjian K Custom Dark vs Paiste 2002 for Death Metal",
+      title: "Zildjian K Custom Dark vs Sabian AAX/HHX for Death Metal",
       content: `The two dominant cymbal lines in death metal represent fundamentally different approaches:
 
 **Zildjian K Custom Dark:**
@@ -6630,20 +6630,20 @@ Several modern death metal drummers have incorporated HHX cymbals for their cutt
 - Preferred by: George Kollias, Pete Sandoval
 - Best for: Technical death metal, blast beat-heavy styles
 
-**Paiste 2002:**
+**Sabian AAX/HHX Series:**
 - More powerful, body-forward crashes
 - Longer sustain — more dramatic impact
 - Full-bodied character that commands attention
 - Preferred by: Flo Mounier (Cryptopsy)
 - Best for: Brutal/old-school death metal, studio recordings
 
-**The Verdict:** Both work excellently for death metal. Choose K Custom Dark if you play highly technical patterns where you need cymbal clarity within dense arrangements. Choose Paiste 2002 if you want powerful, dramatic crashes that define each accent in the music.`,
+**The Verdict:** Both work excellently for death metal. Choose K Custom Dark if you play highly technical patterns where you need cymbal clarity within dense arrangements. Choose Sabian AAX/HHX if you want powerful, dramatic crashes that define each accent in the music.`,
       comparisonTable: [
-        { feature: "Darkness", zildjianK: "⭐⭐⭐⭐⭐", paiste2002: "⭐⭐⭐⭐" },
-        { feature: "Crash Power", zildjianK: "⭐⭐⭐⭐", paiste2002: "⭐⭐⭐⭐⭐" },
-        { feature: "Decay Speed", zildjianK: "⭐⭐⭐⭐⭐", paiste2002: "⭐⭐⭐" },
-        { feature: "Technical Clarity", zildjianK: "⭐⭐⭐⭐⭐", paiste2002: "⭐⭐⭐⭐" },
-        { feature: "Price Range", zildjianK: "€200-500", paiste2002: "€200-500" }
+        { feature: "Darkness", zildjianK: "⭐⭐⭐⭐⭐", sabianAaxHhx: "⭐⭐⭐⭐" },
+        { feature: "Crash Power", zildjianK: "⭐⭐⭐⭐", sabianAaxHhx: "⭐⭐⭐⭐⭐" },
+        { feature: "Decay Speed", zildjianK: "⭐⭐⭐⭐⭐", sabianAaxHhx: "⭐⭐⭐" },
+        { feature: "Technical Clarity", zildjianK: "⭐⭐⭐⭐⭐", sabianAaxHhx: "⭐⭐⭐⭐" },
+        { feature: "Price Range", zildjianK: "€200-500", sabianAaxHhx: "€200-500" }
       ]
     },
 
@@ -6658,7 +6658,7 @@ Several modern death metal drummers have incorporated HHX cymbals for their cutt
         },
         {
           category: "Best for Power/Brutality",
-          pedal: "Paiste 2002",
+          pedal: "Sabian AAX/HHX Series",
           reason: "Flo Mounier's choice — full-bodied crashes with authority, proven at 270 BPM."
         },
         {
@@ -6682,14 +6682,14 @@ Several modern death metal drummers have incorporated HHX cymbals for their cutt
     ],
     relatedDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian K Custom Dark — fastest feet in death metal' },
-      { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Paiste 2002 — controlled chaos at 270 BPM' },
+      { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Sabian AAX/HHX — controlled chaos at 270 BPM' },
       { slug: 'pete-sandoval', name: 'Pete Sandoval', reason: 'Zildjian — hyper-blast articulation pioneer' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian K Custom Dark for extreme cutting power at 280 BPM' },
-      { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Paiste 2002 — controlled chaos at 270 BPM' },
+      { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Sabian AAX/HHX — controlled chaos at 270 BPM' },
       { slug: 'pete-sandoval', name: 'Pete Sandoval', reason: 'Zildjian for hyper-blast articulation' },
     ],
 
@@ -6701,11 +6701,11 @@ Several modern death metal drummers have incorporated HHX cymbals for their cutt
       },
       {
         question: "What cymbals does Flo Mounier use?",
-        answer: "Flo Mounier of Cryptopsy uses Paiste 2002 cymbals. The 2002's full-bodied, powerful crash character delivers controlled chaos even at Mounier's extreme 270 BPM tempos, providing the dramatic accent impact that defines Cryptopsy's brutal technical death metal sound."
+        answer: "Flo Mounier of Cryptopsy uses Sabian AAX/HHX Series cymbals (since 2012). Their full-bodied, powerful crash character delivers controlled chaos even at Mounier's extreme 270 BPM tempos, providing the dramatic accent impact that defines Cryptopsy's brutal technical death metal sound."
       },
       {
         question: "Are dark cymbals better for death metal?",
-        answer: "Generally yes. Dark cymbals with controlled wash (like Zildjian K Custom Dark or Paiste 2002) sit better under down-tuned guitars and complex rhythmic patterns at extreme speeds. Bright, brilliant-finish cymbals can sound harsh and washy in dense death metal mixes. Darker cymbals let technical patterns speak clearly."
+        answer: "Generally yes. Dark cymbals with controlled wash (like Zildjian K Custom Dark or Sabian AAX/HHX) sit better under down-tuned guitars and complex rhythmic patterns at extreme speeds. Bright, brilliant-finish cymbals can sound harsh and washy in dense death metal mixes. Darker cymbals let technical patterns speak clearly."
       },
       {
         question: "What size crashes are best for death metal?",
@@ -6724,7 +6724,7 @@ Several modern death metal drummers have incorporated HHX cymbals for their cutt
     // Conclusion
     conclusion: {
       title: "Choose Your Death Metal Weapon",
-      content: `Death metal cymbal selection comes down to one question: do you want darkness and control (Zildjian K Custom Dark) or power and drama (Paiste 2002)? Both approaches are proven at the highest levels of the genre — George Kollias and Flo Mounier represent different but equally valid philosophies.
+      content: `Death metal cymbal selection comes down to one question: do you want darkness and control (Zildjian K Custom Dark) or power and drama (Sabian AAX/HHX)? Both approaches are proven at the highest levels of the genre — George Kollias and Flo Mounier represent different but equally valid philosophies.
 
 Either way, invest in B20 bronze. The difference between B20 and budget alloys is dramatic under the extreme conditions of death metal playing. A quality set of K Custom Dark crashes and hi-hats will outlast and outperform three generations of cheap cymbals while sounding dramatically better in every context.
 
@@ -44741,7 +44741,7 @@ Start with one raw, trashy crash in the 17"-19" range, and layer a second voicin
       'flo mounier crash cymbal',
       'pete sandoval crash cymbal',
       'zildjian k custom dark crash death metal',
-      'paiste 2002 crash death metal',
+      'sabian aax hhx crash death metal',
       'dark crash cymbal for blast beats',
       'death metal drummer crash setup',
       'best crash cymbal for extreme metal'
@@ -44770,12 +44770,12 @@ Start with one raw, trashy crash in the 17"-19" range, and layer a second voicin
       title: "Why Death Metal Crashes Need Weight, Darkness, and Speed",
       content: `Death metal places extreme demands on a crash cymbal that few other genres match. At 220-280 BPM blast beats, a crash has to respond instantly, carry enough dark, heavy tone to cut through down-tuned, distorted guitar walls, and decay fast enough to stay out of the way of the next accent — all while surviving hours of daily punishing practice.
 
-George Kollias of Nile has made his 17" and 18" Zildjian K Custom Dark crashes as recognizable as his inhuman blast beat speed — dark, controlled wash that sits perfectly under Nile's technical death metal complexity while cutting cleanly through dense, layered arrangements. Flo Mounier of Cryptopsy uses Paiste 2002 crashes that deliver full-bodied, controlled chaos even at his insane 270 BPM tempos. Pete Sandoval of Morbid Angel built his hyper-blast sound around Zildjian's articulate, dark-voiced response.
+George Kollias of Nile has made his 17" and 18" Zildjian K Custom Dark crashes as recognizable as his inhuman blast beat speed — dark, controlled wash that sits perfectly under Nile's technical death metal complexity while cutting cleanly through dense, layered arrangements. Flo Mounier of Cryptopsy uses Sabian AAX/HHX crashes that deliver full-bodied, controlled chaos even at his insane 270 BPM tempos. Pete Sandoval of Morbid Angel built his hyper-blast sound around Zildjian's articulate, dark-voiced response.
 
 This guide breaks down what actually makes a crash work for death metal — darkness, weight, and speed — and recommends specific models across every budget, from a first dark-toned crash to the exact cymbals death metal's most demanding drummers play.`,
       keyPoints: [
         "Death metal crashes need dark, heavy tone to cut through down-tuned guitar walls without sounding harsh",
-        "George Kollias's Zildjian K Custom Dark and Flo Mounier's Paiste 2002 crashes span the genre's dark-crash spectrum",
+        "George Kollias's Zildjian K Custom Dark and Flo Mounier's Sabian AAX/HHX crashes span the genre's dark-crash spectrum",
         "16\"-18\" is the death metal crash sweet spot, prioritizing fast decay over maximum projection",
         "Crashes must survive hours of daily blast-beat practice without losing their dark, controlled voicing"
       ]
@@ -44789,7 +44789,7 @@ This guide breaks down what actually makes a crash work for death metal — dark
           name: "Dark, Controlled Wash",
           icon: "🌑",
           description: "Death metal's down-tuned, distorted guitar walls swallow bright, harsh crashes. George Kollias's Zildjian K Custom Dark crashes are voiced with a dark, complex tone that sits under the mix rather than fighting it.",
-          recommendation: "Dark-voiced crashes (K Custom Dark, Paiste 2002) over bright, brilliant-finish alternatives"
+          recommendation: "Dark-voiced crashes (K Custom Dark, Sabian AAX/HHX) over bright, brilliant-finish alternatives"
         },
         {
           name: "Fast Decay at Extreme Speed",
@@ -44800,8 +44800,8 @@ This guide breaks down what actually makes a crash work for death metal — dark
         {
           name: "Power and Projection",
           icon: "💥",
-          description: "Flo Mounier's Paiste 2002 crashes deliver full-bodied power and projection at 270+ BPM — proof that a heavier, more full-bodied crash can still stay controlled at death metal's most extreme tempos.",
-          recommendation: "CuSn8 or B20 bronze crashes for full-bodied power that projects at extreme volume"
+          description: "Flo Mounier's Sabian AAX/HHX crashes deliver full-bodied power and projection at 270+ BPM — proof that a heavier, more full-bodied crash can still stay controlled at death metal's most extreme tempos.",
+          recommendation: "B20 bronze crashes for full-bodied power that projects at extreme volume"
         },
         {
           name: "Crash Size and Response",
@@ -44812,8 +44812,8 @@ This guide breaks down what actually makes a crash work for death metal — dark
         {
           name: "Alloy and Durability",
           icon: "⚙️",
-          description: "Death metal practice and touring is physically brutal on cymbals. Thick B20 bronze (Zildjian K Custom Dark) or CuSn8 bronze (Paiste 2002) handles repeated heavy hits without stress fractures, unlike thinner budget alloys.",
-          recommendation: "B20 or CuSn8 bronze minimum for sustained death metal use"
+          description: "Death metal practice and touring is physically brutal on cymbals. Thick B20 bronze (Zildjian K Custom Dark, Sabian AAX/HHX) handles repeated heavy hits without stress fractures, unlike thinner budget alloys.",
+          recommendation: "B20 bronze minimum for sustained death metal use"
         },
         {
           name: "Touring Durability",
@@ -44867,40 +44867,40 @@ George Kollias built his reputation for the fastest feet in death metal while re
         },
         {
           rank: 2,
-          name: "Paiste 2002 Crash",
-          brand: "Paiste",
-          model: "16\" & 18\" 2002 Crash",
+          name: "Sabian AAX/HHX Crash",
+          brand: "Sabian",
+          model: "16\" & 18\" AAX/HHX Crash",
           image: "https://upload.wikimedia.org/wikipedia/commons/c/c3/SABIAN_Paragon_Ride_Limited_Edition_Steampunk.jpg",
           priceRange: "€200-250",
           tier: "pro",
-          driveType: "CuSn8 Bronze",
-          description: `Flo Mounier of Cryptopsy has used 16" and 18" Paiste 2002 crashes throughout the band's career — a setup that must handle one of the most technically demanding death metal playing styles ever recorded. At 270+ BPM, his Paiste 2002 crashes deliver the controlled chaos that defines Cryptopsy's sound: aggressive, precise, and never muddy despite the extreme speeds.
+          driveType: "B20 Bronze",
+          description: `Flo Mounier of Cryptopsy has used 16" and 18" Sabian AAX/HHX crashes since 2012 — a setup that must handle one of the most technically demanding death metal playing styles ever recorded. At 270+ BPM, his Sabian crashes deliver the controlled chaos that defines Cryptopsy's sound: aggressive, precise, and never muddy despite the extreme speeds.
 
-The 2002's CuSn8 alloy gives crashes more body and projection than B20 alternatives at comparable weights. In death metal, this translates to cymbal accents that speak with authority even when the kit is being pushed to its limits.`,
+The AAX/HHX B20 alloy gives crashes body and projection that hold up under repeated extreme-tempo abuse. In death metal, this translates to cymbal accents that speak with authority even when the kit is being pushed to its limits.`,
           pros: [
-            "Flo Mounier's proven Cryptopsy setup — 270 BPM proof of concept",
+            "Flo Mounier's proven Cryptopsy setup since 2012 — 270 BPM proof of concept",
             "Full-bodied, powerful crash character at extreme speeds",
             "More projection than K Custom Dark — cuts louder in dense mixes",
-            "CuSn8 bronze built for the most intense death metal contexts"
+            "B20 bronze built for the most intense death metal contexts"
           ],
           cons: [
             "Heavier feel than K Custom Dark — more physical effort at extreme tempos",
             "Character is specific — less versatile than the Zildjian K line",
-            "Premium Paiste pricing"
+            "Premium Sabian pricing"
           ],
           specs: {
             size: "16\" & 18\"",
-            alloy: "CuSn8 Bronze",
-            finish: "Natural/Traditional",
+            alloy: "B20 Bronze",
+            finish: "Brilliant/Natural (model dependent)",
             weight: "Medium",
             decay: "Controlled, powerful"
           },
           usedBy: [
-            { name: "Flo Mounier", band: "Cryptopsy", note: "16\" & 18\" 2002 Crashes — controlled chaos at 270 BPM" }
+            { name: "Flo Mounier", band: "Cryptopsy", note: "16\" & 18\" AAX/HHX Crashes — controlled chaos at 270 BPM" }
           ],
           verdict: "The power option for death metal. Big, full crashes that speak with authority at extreme tempos.",
           rating: 4.7,
-          affiliateLink: "https://www.thomann.de/intl/paiste_2002_crash_18_mounier.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/sabian_aax_hhx_crash_18_mounier.htm?partner_id=metalforge"
         },
         {
           rank: 3,
@@ -44911,7 +44911,7 @@ The 2002's CuSn8 alloy gives crashes more body and projection than B20 alternati
           priceRange: "€190-240",
           tier: "pro",
           driveType: "B20 Bronze, Brilliant",
-          description: `Pete Sandoval of Morbid Angel built his hyper-blast sound around Zildjian's articulate crash response, running 17" and 18" A Custom Crashes for a brighter, more cutting attack than the K Custom Dark/Paiste 2002 approach favors. The brilliant finish gives fast, defined response essential for the precise accent work required in Morbid Angel's technical death metal.
+          description: `Pete Sandoval of Morbid Angel built his hyper-blast sound around Zildjian's articulate crash response, running 17" and 18" A Custom Crashes for a brighter, more cutting attack than the darker K Custom Dark/Sabian AAX-HHX approach favors. The brilliant finish gives fast, defined response essential for the precise accent work required in Morbid Angel's technical death metal.
 
 Sandoval's crash choice proves that death metal's dark-crash tradition isn't the only viable path — a brighter, more articulate voice cuts through just as effectively when speed and precision matter more than pure darkness.`,
           pros: [
@@ -44948,7 +44948,7 @@ Sandoval's crash choice proves that death metal's dark-crash tradition isn't the
           priceRange: "€130-170",
           tier: "mid",
           driveType: "B8/B20 Bronze, Dark",
-          description: `The Meinl Classics Custom Dark Crash bridges the gap between the high-end Byzance-style dark crashes and budget options, delivering genuine dark, complex tone suitable for death metal at a more accessible price point. It's become popular among death metal drummers who want dark character without paying flagship K Custom or 2002 prices.
+          description: `The Meinl Classics Custom Dark Crash bridges the gap between the high-end Byzance-style dark crashes and budget options, delivering genuine dark, complex tone suitable for death metal at a more accessible price point. It's become popular among death metal drummers who want dark character without paying flagship K Custom or Sabian AAX/HHX prices.
 
 For death metal specifically, the dark finish and complex overtones sit well under distorted guitar walls without adding harshness, and the aggressive factory lathing gives fast response appropriate for blast beat accent work.`,
           pros: [
@@ -44958,7 +44958,7 @@ For death metal specifically, the dark finish and complex overtones sit well und
             "Wide range of sizes and models"
           ],
           cons: [
-            "Not as refined as the flagship K Custom Dark or Paiste 2002 lines",
+            "Not as refined as the flagship K Custom Dark or Sabian AAX/HHX lines",
             "Not tied to a specific death metal legend's setup"
           ],
           specs: {
@@ -45011,15 +45011,15 @@ For death metal specifically, the dark finish and complex overtones sit well und
           priceRange: "€70-100",
           tier: "budget",
           driveType: "CuSn7 Bronze",
-          description: "Paiste's budget line includes a 'Dark' option that delivers Paiste 2002 character at an entry price. For death metal drummers who love Flo Mounier's Paiste sound but can't yet afford the 2002 line, this is the starting point.",
+          description: "Paiste's budget line includes a 'Dark' option that delivers full-bodied 2002-family character at an entry price, giving death metal drummers a starting point before stepping up to a premium pro-tier crash.",
           pros: [
             "Paiste dark character at budget price",
             "Full, body-forward crash tone",
-            "Good upgrade path to 2002"
+            "Good upgrade path to the pro-tier Paiste range"
           ],
           cons: [
-            "Lighter CuSn7 alloy vs 2002's CuSn8",
-            "Less projection than the professional 2002 line"
+            "Lighter CuSn7 alloy vs the flagship 2002 line's CuSn8",
+            "Less projection than the professional pro-tier lines"
           ],
           verdict: "Best budget Paiste for death metal. Step up from brass without breaking the bank.",
           rating: 4.0,
@@ -45049,9 +45049,9 @@ For death metal specifically, the dark finish and complex overtones sit well und
       ]
     },
 
-    // Zildjian vs Paiste comparison
+    // Zildjian vs Sabian comparison
     comparison: {
-      title: "Zildjian K Custom Dark vs Paiste 2002 vs Zildjian A Custom for Death Metal",
+      title: "Zildjian K Custom Dark vs Sabian AAX/HHX vs Zildjian A Custom for Death Metal",
       content: `The dominant crash choices in death metal represent fundamentally different approaches:
 
 **Zildjian K Custom Dark (George Kollias):**
@@ -45060,7 +45060,7 @@ For death metal specifically, the dark finish and complex overtones sit well und
 - Complex, musical overtones under technical patterns
 - Best for: Technical death metal, blast beat-heavy styles
 
-**Paiste 2002 (Flo Mounier):**
+**Sabian AAX/HHX (Flo Mounier):**
 - More powerful, body-forward crashes
 - Longer sustain — more dramatic impact
 - Full-bodied character that commands attention
@@ -45071,13 +45071,13 @@ For death metal specifically, the dark finish and complex overtones sit well und
 - Fast, defined response for precision accent work
 - Best for: Drummers prioritizing articulation over darkness
 
-**The Verdict:** All three work excellently for death metal. Choose K Custom Dark if you play highly technical patterns needing cymbal clarity within dense arrangements. Choose Paiste 2002 if you want powerful, dramatic crashes that define each accent. Choose A Custom if brightness and articulation matter more to you than darkness.`,
+**The Verdict:** All three work excellently for death metal. Choose K Custom Dark if you play highly technical patterns needing cymbal clarity within dense arrangements. Choose Sabian AAX/HHX if you want powerful, dramatic crashes that define each accent. Choose A Custom if brightness and articulation matter more to you than darkness.`,
       comparisonTable: [
-        { feature: "Darkness", zildjianK: "⭐⭐⭐⭐⭐", paiste2002: "⭐⭐⭐⭐" },
-        { feature: "Crash Power", zildjianK: "⭐⭐⭐⭐", paiste2002: "⭐⭐⭐⭐⭐" },
-        { feature: "Decay Speed", zildjianK: "⭐⭐⭐⭐⭐", paiste2002: "⭐⭐⭐" },
-        { feature: "Technical Clarity", zildjianK: "⭐⭐⭐⭐⭐", paiste2002: "⭐⭐⭐⭐" },
-        { feature: "Price Range", zildjianK: "€120-250", paiste2002: "€70-250" }
+        { feature: "Darkness", zildjianK: "⭐⭐⭐⭐⭐", sabianAaxHhx: "⭐⭐⭐⭐" },
+        { feature: "Crash Power", zildjianK: "⭐⭐⭐⭐", sabianAaxHhx: "⭐⭐⭐⭐⭐" },
+        { feature: "Decay Speed", zildjianK: "⭐⭐⭐⭐⭐", sabianAaxHhx: "⭐⭐⭐" },
+        { feature: "Technical Clarity", zildjianK: "⭐⭐⭐⭐⭐", sabianAaxHhx: "⭐⭐⭐⭐" },
+        { feature: "Price Range", zildjianK: "€120-250", sabianAaxHhx: "€200-250" }
       ]
     },
 
@@ -45092,7 +45092,7 @@ For death metal specifically, the dark finish and complex overtones sit well und
         },
         {
           category: "Best for Power/Brutality",
-          pedal: "Paiste 2002 Crash",
+          pedal: "Sabian AAX/HHX Crash",
           reason: "Flo Mounier's choice — full-bodied crashes with authority, proven at 270 BPM."
         },
         {
@@ -45117,14 +45117,14 @@ For death metal specifically, the dark finish and complex overtones sit well und
     ],
     relatedDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian K Custom Dark Crash — fastest feet in death metal' },
-      { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Paiste 2002 Crash — controlled chaos at 270 BPM' },
+      { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Sabian AAX/HHX Crash — controlled chaos at 270 BPM' },
       { slug: 'pete-sandoval', name: 'Pete Sandoval', reason: 'Zildjian A Custom Crash — hyper-blast articulation pioneer' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian K Custom Dark Crash for extreme cutting power at 280 BPM' },
-      { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Paiste 2002 Crash — controlled chaos at 270 BPM' },
+      { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Sabian AAX/HHX Crash — controlled chaos at 270 BPM' },
       { slug: 'pete-sandoval', name: 'Pete Sandoval', reason: 'Zildjian A Custom Crash for hyper-blast articulation' }
     ],
     relatedComparisons: [],
@@ -45137,7 +45137,7 @@ For death metal specifically, the dark finish and complex overtones sit well und
       },
       {
         question: "What crash cymbal does Flo Mounier use?",
-        answer: "Flo Mounier of Cryptopsy uses 16\" and 18\" Paiste 2002 Crashes. The full-bodied, powerful crash character delivers controlled chaos even at Mounier's extreme 270 BPM tempos, providing the dramatic accent impact that defines Cryptopsy's brutal technical death metal sound."
+        answer: "Flo Mounier of Cryptopsy uses 16\" and 18\" Sabian AAX/HHX Crashes (since 2012). The full-bodied, powerful crash character delivers controlled chaos even at Mounier's extreme 270 BPM tempos, providing the dramatic accent impact that defines Cryptopsy's brutal technical death metal sound."
       },
       {
         question: "What crash cymbal does Pete Sandoval use?",
@@ -45145,7 +45145,7 @@ For death metal specifically, the dark finish and complex overtones sit well und
       },
       {
         question: "Are dark crash cymbals better for death metal?",
-        answer: "Generally yes. Dark crashes with controlled wash — like George Kollias's Zildjian K Custom Dark or Flo Mounier's Paiste 2002 — sit better under down-tuned guitars and complex rhythmic patterns at extreme speeds. Bright, brilliant-finish crashes like Pete Sandoval's Zildjian A Custom work too, but require prioritizing articulation over pure darkness."
+        answer: "Generally yes. Dark crashes with controlled wash — like George Kollias's Zildjian K Custom Dark or Flo Mounier's Sabian AAX/HHX — sit better under down-tuned guitars and complex rhythmic patterns at extreme speeds. Bright, brilliant-finish crashes like Pete Sandoval's Zildjian A Custom work too, but require prioritizing articulation over pure darkness."
       },
       {
         question: "What size crash is best for death metal?",
@@ -45156,7 +45156,7 @@ For death metal specifically, the dark finish and complex overtones sit well und
     // Conclusion
     conclusion: {
       title: "Choose Your Death Metal Crash Weapon",
-      content: `Death metal crash selection comes down to one question: do you want darkness and control (Zildjian K Custom Dark), power and drama (Paiste 2002), or brightness and articulation (Zildjian A Custom)? All three approaches are proven at the highest levels of the genre — George Kollias, Flo Mounier, and Pete Sandoval represent different but equally valid philosophies.
+      content: `Death metal crash selection comes down to one question: do you want darkness and control (Zildjian K Custom Dark), power and drama (Sabian AAX/HHX), or brightness and articulation (Zildjian A Custom)? All three approaches are proven at the highest levels of the genre — George Kollias, Flo Mounier, and Pete Sandoval represent different but equally valid philosophies.
 
 Either way, invest in B20 or CuSn8 bronze. The difference between pro-grade bronze and budget alloys is dramatic under the extreme conditions of death metal playing. A quality dark crash will outlast and outperform generations of cheap cymbals while sounding dramatically better in every context.
 
@@ -72840,7 +72840,7 @@ Start with a single 10" splash mounted close to your snare, and consider a secon
       'flo mounier splash cymbal',
       'pete sandoval splash cymbal',
       'zildjian k custom dark splash',
-      'paiste 2002 splash death metal',
+      'sabian aax hhx splash death metal',
       'splash cymbal for blast beats',
       'best splash cymbal 2026',
       'small splash cymbal for extreme metal'
@@ -72869,13 +72869,13 @@ Start with a single 10" splash mounted close to your snare, and consider a secon
       title: "A Small Cymbal for Death Metal's Biggest Moments of Contrast",
       content: `Death metal's cymbal setups are built around survival first — thick, dark-toned crashes and rides that can take thousands of blast-beat strikes a set without keyholing. A splash cymbal solves a different problem entirely: at 8" to 12", it decays almost instantly rather than sustaining, giving a drummer a sharp, isolated accent for the rare moment a blast-beat-driven arrangement drops into a tempo change, a breakdown, or a single punctuated stab that a full-size crash would simply wash over.
 
-George Kollias of Nile pairs his 17" and 18" Zildjian K Custom Dark crashes with a matching splash within the same K Custom family, giving Nile's technical, blast-beat-dense arrangements a controlled, dark-toned accent for the rare open space in his otherwise relentless playing. Flo Mounier of Cryptopsy runs a Paiste 2002 splash alongside his full-bodied 2002 crash setup, using the same bright, cutting CuSn8 bronze voicing at accent scale that lets his 270 BPM material punch through. Pete Sandoval of Morbid Angel favors the same Sabian AAX family that defines Gene Hoglan's and his own hyper-blast crash sound, extending it down to a splash for the same explosive, articulate character in miniature.
+George Kollias of Nile pairs his 17" and 18" Zildjian K Custom Dark crashes with a matching splash within the same K Custom family, giving Nile's technical, blast-beat-dense arrangements a controlled, dark-toned accent for the rare open space in his otherwise relentless playing. Flo Mounier of Cryptopsy runs a Sabian AAX/HHX splash alongside his full-bodied AAX/HHX crash setup, using the same bright, cutting B20 bronze voicing at accent scale that lets his 270 BPM material punch through. Pete Sandoval of Morbid Angel favors the same Sabian AAX family that defines Gene Hoglan's and his own hyper-blast crash sound, extending it down to a splash for the same explosive, articulate character in miniature.
 
 Splash cymbals remain rare in death metal precisely because the genre's relentless tempo leaves little room for a cymbal whose entire purpose is a single isolated hit — most developing death metal drummers build out a crash, ride, and china setup long before considering a splash. But for the tempo breaks, groove sections, and technical fills that do open up space, a splash gives a death metal drummer a tonal option nothing else in a standard setup provides. This guide covers what actually matters when choosing a splash cymbal for death metal — darkness, size, and durability under extreme technique — with specific recommendations across every budget.`,
       keyPoints: [
         "A splash's near-instant decay gives death metal drummers a controlled accent for the rare tempo break or open passage a blast-beat arrangement allows",
         "George Kollias runs a Zildjian K Custom Dark-family splash alongside his 17\"/18\" K Custom Dark crashes for Nile's technical material",
-        "Flo Mounier's Paiste 2002 splash extends the same bright, cutting voicing behind his crash setup down to accent scale",
+        "Flo Mounier's Sabian AAX/HHX splash extends the same bright, cutting voicing behind his crash setup down to accent scale",
         "Pete Sandoval's Sabian AAX-family splash carries the same explosive, articulate character behind Morbid Angel's hyper-blast crash sound"
       ]
     },
@@ -72972,14 +72972,13 @@ Nile's technical, blast-beat-dense arrangements leave little room for a splash, 
           priceRange: "€110-140",
           tier: "pro",
           driveType: "CuSn8 Bronze, Brilliant Finish",
-          description: `Paiste 2002's bright, full-bodied CuSn8 bronze voicing delivers an accent that punches through even at extreme tempos, the same character that defines Flo Mounier's crash setup for Cryptopsy.
+          description: `Paiste 2002's bright, full-bodied CuSn8 bronze voicing delivers an accent that punches through even at extreme tempos, a natural companion to any death metal drummer already running 2002-family crashes.
 
-Flo Mounier's 2002 splash extends the same explosive, cutting attack behind his crash and ride down to accent scale, giving his 270 BPM material a matching punctuation cymbal rather than a tonally mismatched alternative.`,
+The 2002 splash extends the same explosive, cutting attack behind a 2002 crash and ride down to accent scale, giving hyper-blast material a matching punctuation cymbal rather than a tonally mismatched alternative.`,
           pros: [
             "Bright, explosive CuSn8 bronze consistent with Paiste 2002 crashes",
             "Proven to cut through extreme tempo material without disappearing",
-            "Thick, durable construction built for sustained aggressive playing",
-            "Same accent-cymbal family Flo Mounier runs for Cryptopsy"
+            "Thick, durable construction built for sustained aggressive playing"
           ],
           cons: [
             "Brighter voicing than a dark-family splash, a specific tonal choice",
@@ -72992,28 +72991,26 @@ Flo Mounier's 2002 splash extends the same explosive, cutting attack behind his 
             finish: "Brilliant",
             weight: "Medium"
           },
-          usedBy: [
-            { name: "Flo Mounier", band: "Cryptopsy", note: "Splash alongside full Paiste 2002 crash setup" }
-          ],
+          usedBy: [],
           verdict: "The most explosive, cutting splash here for extreme-tempo material.",
           rating: 4.6,
           affiliateLink: "https://www.thomann.de/intl/paiste_2002_splash_10.htm?partner_id=metalforge"
         },
         {
           rank: 3,
-          name: "Sabian AAX Splash",
+          name: "Sabian AAX/HHX Splash",
           brand: "Sabian",
-          model: "AAX Splash 10\"",
+          model: "AAX/HHX Splash 10\"",
           image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg",
           priceRange: "€100-130",
           tier: "pro",
           driveType: "B20 Bronze, Brilliant Finish",
-          description: `AAX's explosive, immediate attack gives a splash the same articulate punch behind Pete Sandoval's and Gene Hoglan's shared Sabian AAX crash sound, scaled down for isolated accent work.
+          description: `AAX/HHX's explosive, immediate attack gives a splash the same articulate punch behind Flo Mounier's and Pete Sandoval's shared Sabian crash sound, scaled down for isolated accent work.
 
-That explosive character makes it a natural match for death metal drummers already running AAX crashes and hi-hats who want a tonally consistent splash rather than an outlier voice in the setup.`,
+That explosive character makes it a natural match for death metal drummers already running AAX/HHX crashes and hi-hats who want a tonally consistent splash rather than an outlier voice in the setup.`,
           pros: [
-            "Explosive, immediate attack consistent with Sabian AAX crashes",
-            "Proven family behind Pete Sandoval's and Gene Hoglan's hyper-blast setups",
+            "Explosive, immediate attack consistent with Sabian AAX/HHX crashes",
+            "Proven family behind Flo Mounier's and Pete Sandoval's hyper-blast setups",
             "Reliable, professional B20 build quality",
             "Bright enough to cut through a dense, distorted mix"
           ],
@@ -73029,11 +73026,12 @@ That explosive character makes it a natural match for death metal drummers alrea
             weight: "Thin"
           },
           usedBy: [
+            { name: "Flo Mounier", band: "Cryptopsy", note: "AAX/HHX-family splash alongside his full Sabian AAX/HHX crash setup, since 2012" },
             { name: "Pete Sandoval", band: "Morbid Angel", note: "AAX-family splash within his hyper-blast Sabian AAX rig" }
           ],
           verdict: "The most explosive, immediate splash here for hyper-blast material.",
           rating: 4.5,
-          affiliateLink: "https://www.thomann.de/intl/sabian_aax_splash_10.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/sabian_aax_hhx_splash_10.htm?partner_id=metalforge"
         },
         {
           rank: 4,
@@ -73153,14 +73151,14 @@ A strong option for death metal drummers who want an even darker, drier accent t
 - Favored by drummers like George Kollias for technical, densely layered arrangements
 - Best when your existing cymbals already run dark and you want a matching accent
 
-**Bright/Explosive Splashes (Paiste 2002, Sabian AAX):**
+**Bright/Explosive Splashes (Sabian AAX/HHX, Paiste 2002):**
 - Sharp, immediate attack that punches through even at extreme tempos
 - Favored by drummers like Flo Mounier and Pete Sandoval for maximum cut at hyper-blast speed
 - Best when you need the splash to stand out sharply from a dark, down-tuned mix
 
-**The Truth:** Neither voicing is objectively better — it depends on how dark your existing crash and ride setup already runs and how much cut you need from a single accent hit. Drummers running dark K Custom or Byzance Dark crashes often add a matching dark splash for tonal consistency, while drummers prioritizing raw cut at extreme tempo lean toward 2002 or AAX.
+**The Truth:** Neither voicing is objectively better — it depends on how dark your existing crash and ride setup already runs and how much cut you need from a single accent hit. Drummers running dark K Custom or Byzance Dark crashes often add a matching dark splash for tonal consistency, while drummers prioritizing raw cut at extreme tempo lean toward AAX/HHX or 2002.
 
-**Our Recommendation:** If your setup already runs dark and technical, add a Zildjian K Custom Hybrid or Meinl Byzance Dark Splash for consistency. If you need maximum cut at hyper-blast tempo, a Paiste 2002 or Sabian AAX Splash will punch through more sharply.`,
+**Our Recommendation:** If your setup already runs dark and technical, add a Zildjian K Custom Hybrid or Meinl Byzance Dark Splash for consistency. If you need maximum cut at hyper-blast tempo, a Sabian AAX/HHX Splash or Paiste 2002 Splash will punch through more sharply.`,
       comparisonTable: [
         { feature: "Cut Through Dense Mix", directDrive: "⭐⭐⭐", chainDrive: "⭐⭐⭐⭐⭐" },
         { feature: "Tonal Consistency With Dark Crashes", directDrive: "⭐⭐⭐⭐⭐", chainDrive: "⭐⭐⭐" },
@@ -73181,8 +73179,8 @@ A strong option for death metal drummers who want an even darker, drier accent t
         },
         {
           category: "Most Explosive",
-          pedal: "Paiste 2002 Splash",
-          reason: "The same bright, cutting CuSn8 bronze voicing behind Flo Mounier's 270 BPM crash setup, scaled to accent size."
+          pedal: "Sabian AAX/HHX Splash",
+          reason: "The same bright, cutting B20 bronze voicing behind Flo Mounier's 270 BPM crash setup, scaled to accent size."
         },
         {
           category: "Best Budget",
@@ -73191,8 +73189,8 @@ A strong option for death metal drummers who want an even darker, drier accent t
         },
         {
           category: "Best for Hyper-Blast Tempo",
-          pedal: "Sabian AAX Splash",
-          reason: "The explosive, immediate attack behind Pete Sandoval's and Gene Hoglan's shared AAX crash sound."
+          pedal: "Sabian AAX/HHX Splash",
+          reason: "The explosive, immediate attack behind Pete Sandoval's hyper-blast AAX crash sound."
         }
       ]
     },
@@ -73205,7 +73203,7 @@ A strong option for death metal drummers who want an even darker, drier accent t
     ],
     relatedDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'K Custom Dark-family splash alongside 17"/18" K Custom Dark crashes — Nile\'s technical blast-beat arrangements' },
-      { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Paiste 2002 splash — Cryptopsy\'s explosive 270 BPM material' },
+      { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Sabian AAX/HHX splash — Cryptopsy\'s explosive 270 BPM material' },
       { slug: 'pete-sandoval', name: 'Pete Sandoval', reason: 'Sabian AAX-family splash — Morbid Angel\'s hyper-blast crash sound in miniature' }
     ],
     relatedComparisons: [],
@@ -73222,7 +73220,7 @@ A strong option for death metal drummers who want an even darker, drier accent t
       },
       {
         question: "Should a death metal splash be dark or bright?",
-        answer: "It depends on your existing crash and ride setup. A dark splash (Zildjian K Custom Hybrid, Meinl Byzance Dark) matches a dark-voiced setup like George Kollias's, while a bright splash (Paiste 2002, Sabian AAX) cuts more sharply at extreme tempo, matching Flo Mounier's and Pete Sandoval's crash sound."
+        answer: "It depends on your existing crash and ride setup. A dark splash (Zildjian K Custom Hybrid, Meinl Byzance Dark) matches a dark-voiced setup like George Kollias's, while a bright splash (Sabian AAX/HHX) cuts more sharply at extreme tempo, matching Flo Mounier's and Pete Sandoval's crash sound."
       },
       {
         question: "What's the difference between a splash and a crash cymbal?",
@@ -73237,7 +73235,7 @@ A strong option for death metal drummers who want an even darker, drier accent t
     // Conclusion
     conclusion: {
       title: "A Small Cymbal for the Rare Open Moment",
-      content: `Death metal's relentless tempo leaves little room for a cymbal whose entire job is a single isolated hit, but for the tempo breaks and technical fills that do open up space, a splash gives a drummer real tonal contrast nothing else in a standard setup provides. George Kollias's dark K Custom-family splash and Flo Mounier's explosive Paiste 2002 splash both prove the same small cymbal can serve very different tonal roles depending on the rest of the setup around it.
+      content: `Death metal's relentless tempo leaves little room for a cymbal whose entire job is a single isolated hit, but for the tempo breaks and technical fills that do open up space, a splash gives a drummer real tonal contrast nothing else in a standard setup provides. George Kollias's dark K Custom-family splash and Flo Mounier's explosive Sabian AAX/HHX splash both prove the same small cymbal can serve very different tonal roles depending on the rest of the setup around it.
 
 Start with a single 10" splash voiced to match your existing crash and ride setup, and mount it close to your snare for split-second access mid-blast. It's a small cymbal, but it closes a real gap most death metal cymbal setups leave open.
 
@@ -87520,7 +87518,7 @@ Whatever you choose, prioritize clean articulation and dynamic range over flashy
     // SEO metadata
     title: "Best Hi-Hats for Death Metal: 2026 Ultimate Guide",
     metaTitle: "Best Hi-Hats for Death Metal 2026 | MetalForge Expert Guide",
-    description: "What hi-hats are used in death metal? Discover what George Kollias, Flo Mounier, and Pete Sandoval actually play — Zildjian K Custom Dark vs Paiste 2002 — from budget to pro, built for 280 BPM blast beat control.",
+    description: "What hi-hats are used in death metal? Discover what George Kollias, Flo Mounier, and Pete Sandoval actually play — Zildjian K Custom Dark vs Sabian AAX/HHX — from budget to pro, built for 280 BPM blast beat control.",
     seoKeywords: [
       'best hi-hats for death metal',
       'death metal hi-hats',
@@ -87528,7 +87526,7 @@ Whatever you choose, prioritize clean articulation and dynamic range over flashy
       'flo mounier hi-hats cryptopsy',
       'pete sandoval hi-hats morbid angel',
       'zildjian k custom dark hi-hats death metal',
-      'paiste 2002 hi-hats death metal',
+      'sabian aax hhx hi-hats death metal',
       'hi-hats for blast beats',
       'extreme metal hi-hats',
       'best hi-hats for technical death metal'
@@ -87557,12 +87555,12 @@ Whatever you choose, prioritize clean articulation and dynamic range over flashy
       title: "Why Death Metal Hi-Hats Need to Control Chaos at 280 BPM",
       content: `Death metal places extreme demands on hi-hats that most other genres simply don't. At 220–280 BPM blast beats, a hi-hat must respond instantly and stay tight and controlled without opening uncontrollably — a light top on a 14" hi-hat will wash out completely under sustained extreme metal blast beat work.
 
-George Kollias of Nile has made his Zildjian K Custom Dark hi-hats as recognizable as his inhuman blast beat speed — the dark, controlled wash sits perfectly under technical death metal complexity across a 13"-15" range. Flo Mounier of Cryptopsy uses Paiste 2002 hi-hats that deliver controlled chaos even at his insane 270 BPM tempos. Pete Sandoval of Morbid Angel built his hyper-blast sound around Zildjian's articulate response, proving the brand's reliability at the most extreme tempos in metal.
+George Kollias of Nile has made his Zildjian K Custom Dark hi-hats as recognizable as his inhuman blast beat speed — the dark, controlled wash sits perfectly under technical death metal complexity across a 13"-15" range. Flo Mounier of Cryptopsy uses Sabian AAX/HHX hi-hats that deliver controlled chaos even at his insane 270 BPM tempos. Pete Sandoval of Morbid Angel built his hyper-blast sound around Zildjian's articulate response, proving the brand's reliability at the most extreme tempos in metal.
 
 The wrong hi-hats for death metal don't just sound bad — they actively fight your playing. This guide breaks down what actually works, why, and which specific models give you the most extreme metal hi-hat performance across all budgets.`,
       keyPoints: [
         "Zildjian K Custom Dark is George Kollias's primary death metal hi-hat sound — dark, controlled wash at 280 BPM",
-        "Paiste 2002 gives Flo Mounier controlled chaos at 270+ BPM tempos",
+        "Sabian AAX/HHX gives Flo Mounier controlled chaos at 270+ BPM tempos",
         "Pete Sandoval's Zildjian setup proved hyper-blast hi-hat articulation decades ago",
         "Medium-heavy tops dominate death metal hi-hats — enough weight to control wash at extreme blast beat speeds"
       ]
@@ -87581,8 +87579,8 @@ The wrong hi-hats for death metal don't just sound bad — they actively fight y
         {
           name: "Darkness vs. Brightness",
           icon: "🌑",
-          description: "Bright hi-hats can sound harsh and fatiguing at extreme volumes and speeds. Darker hi-hats blend better with the guitar's distorted texture while still cutting. George Kollias's K Custom Dark and Flo Mounier's Paiste 2002 both choose darker lines over brilliant-finish options.",
-          recommendation: "K Custom Dark or Paiste 2002 for the right dark, controlled balance"
+          description: "Bright hi-hats can sound harsh and fatiguing at extreme volumes and speeds. Darker hi-hats blend better with the guitar's distorted texture while still cutting. George Kollias's K Custom Dark and Flo Mounier's Sabian AAX/HHX both choose darker lines over brilliant-finish options.",
+          recommendation: "K Custom Dark or Sabian AAX/HHX for the right dark, controlled balance"
         },
         {
           name: "Blast Beat Endurance",
@@ -87599,8 +87597,8 @@ The wrong hi-hats for death metal don't just sound bad — they actively fight y
         {
           name: "Durability Under Extreme Use",
           icon: "🛡️",
-          description: "Death metal practice and touring is physically brutal on hi-hats. Thick alloys like B20 bronze and Paiste's CuSn8 handle repeated heavy hits without stress fractures. Budget B8 cymbals will crack quickly under daily extreme metal use.",
-          recommendation: "B20 or CuSn8 bronze minimum for sustained death metal use"
+          description: "Death metal practice and touring is physically brutal on hi-hats. Thick B20 bronze alloys handle repeated heavy hits without stress fractures. Budget B8 cymbals will crack quickly under daily extreme metal use.",
+          recommendation: "B20 bronze minimum for sustained death metal use"
         }
       ]
     },
@@ -87633,7 +87631,7 @@ George Kollias built his reputation for the fastest feet in death metal while us
           cons: [
             "Darker character may lack brightness for some classic metal styles",
             "Premium pricing",
-            "Less raw aggression than Paiste 2002"
+            "Less raw aggression than Sabian AAX/HHX"
           ],
           specs: {
             material: "B20 bronze",
@@ -87651,22 +87649,22 @@ George Kollias built his reputation for the fastest feet in death metal while us
         },
         {
           rank: 2,
-          name: "Paiste 2002 Hi-Hats",
-          brand: "Paiste",
-          model: "2002 Hi-Hats 14\"",
+          name: "Sabian AAX/HHX Hi-Hats",
+          brand: "Sabian",
+          model: "AAX/HHX Hi-Hats 14\"",
           image: "https://upload.wikimedia.org/wikipedia/commons/c/c3/SABIAN_Paragon_Ride_Limited_Edition_Steampunk.jpg",
           priceRange: "€220-380 per pair",
           tier: "pro",
-          material: "CuSn8 Bronze",
+          material: "B20 Bronze",
 
-          description: `Flo Mounier of Cryptopsy has used Paiste 2002 hi-hats throughout the band's career — a setup that must handle one of the most technically demanding death metal playing styles ever recorded. At 270+ BPM, his Paiste 2002 hi-hats deliver the controlled chaos that defines Cryptopsy's sound: aggressive, precise, and never muddy despite the extreme speeds.
+          description: `Flo Mounier of Cryptopsy has used Sabian AAX/HHX hi-hats since 2012 — a setup that must handle one of the most technically demanding death metal playing styles ever recorded. At 270+ BPM, his Sabian hi-hats deliver the controlled chaos that defines Cryptopsy's sound: aggressive, precise, and never muddy despite the extreme speeds.
 
-The 2002's CuSn8 alloy gives more body and projection than B20 alternatives at comparable weights. In death metal, this translates to a hi-hat chick that speaks with authority even when the kit is being pushed to its limits — a different tool for a different approach to extreme metal than Kollias's darker K Custom.`,
+The AAX/HHX B20 alloy gives body and projection that hold up under repeated extreme-tempo abuse. In death metal, this translates to a hi-hat chick that speaks with authority even when the kit is being pushed to its limits — a different tool for a different approach to extreme metal than Kollias's darker K Custom.`,
 
           pros: [
             "Full-bodied, powerful hi-hat character at extreme speeds",
-            "Paiste CuSn8 alloy — proven in the most intense death metal contexts",
-            "Flo Mounier endorsement — 270 BPM proof of concept",
+            "Sabian B20 alloy — proven in the most intense death metal contexts",
+            "Flo Mounier endorsement since 2012 — 270 BPM proof of concept",
             "More projection than K Custom Dark — cuts louder"
           ],
           cons: [
@@ -87675,18 +87673,18 @@ The 2002's CuSn8 alloy gives more body and projection than B20 alternatives at c
             "Premium pricing"
           ],
           specs: {
-            material: "CuSn8 bronze",
-            finish: "Natural/Traditional",
+            material: "B20 bronze",
+            finish: "Brilliant/Natural (model dependent)",
             weight: "Medium-heavy",
             diameter: "14\"",
-            series: "2002"
+            series: "AAX/HHX"
           },
           usedBy: [
-            { name: "Flo Mounier", band: "Cryptopsy", note: "Controlled chaos at 270 BPM — Paiste 2002 throughout Cryptopsy's career" }
+            { name: "Flo Mounier", band: "Cryptopsy", note: "Controlled chaos at 270 BPM — Sabian AAX/HHX since 2012" }
           ],
-          verdict: "The power option for death metal. If you want big, full hi-hats that speak with authority, Paiste 2002 delivers.",
+          verdict: "The power option for death metal. If you want big, full hi-hats that speak with authority, Sabian AAX/HHX delivers.",
           rating: 4.7,
-          affiliateLink: "https://www.thomann.de/intl/paiste_2002_hi_hats.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/sabian_aax_hhx_hi_hats.htm?partner_id=metalforge"
         },
         {
           rank: 3,
@@ -87700,7 +87698,7 @@ The 2002's CuSn8 alloy gives more body and projection than B20 alternatives at c
 
           description: `Pete Sandoval of Morbid Angel built his hyper-blast reputation around Zildjian cymbals, proving that the brand's articulate response could handle death metal's most extreme tempos long before the genre's modern technical wing existed. His Zildjian hi-hat setup delivered the instant response and cutting articulation his pioneering blast beat work demanded.
 
-For death metal drummers who want a brighter, more cutting alternative to the darker K Custom and Paiste 2002 approach, Zildjian's A Custom line follows the same articulate philosophy Sandoval relied on.`,
+For death metal drummers who want a brighter, more cutting alternative to the darker K Custom and Sabian AAX/HHX approach, Zildjian's A Custom line follows the same articulate philosophy Sandoval relied on.`,
 
           pros: [
             "Pete Sandoval's endorsement — hyper-blast articulation pioneer",
@@ -87710,7 +87708,7 @@ For death metal drummers who want a brighter, more cutting alternative to the da
           ],
           cons: [
             "Brighter than most modern death metal drummers prefer",
-            "Less dark/controlled character than K Custom Dark or Paiste 2002",
+            "Less dark/controlled character than K Custom Dark or Sabian AAX/HHX",
             "Premium pricing"
           ],
           specs: {
@@ -87806,7 +87804,7 @@ The dark finish and complex overtones sit well under dense, down-tuned guitar wa
 
     // Comparison
     comparison: {
-      title: "Zildjian K Custom Dark vs Paiste 2002 Hi-Hats for Death Metal",
+      title: "Zildjian K Custom Dark vs Sabian AAX/HHX Hi-Hats for Death Metal",
       content: `The two dominant hi-hat choices in death metal represent fundamentally different approaches, defined by the genre's most influential drummers:
 
 **Zildjian K Custom Dark (George Kollias's choice):**
@@ -87815,18 +87813,18 @@ The dark finish and complex overtones sit well under dense, down-tuned guitar wa
 - Complex, musical overtones under technical patterns
 - Best for: Technical death metal, blast beat-heavy styles
 
-**Paiste 2002 (Flo Mounier's choice):**
+**Sabian AAX/HHX (Flo Mounier's choice):**
 - More powerful, body-forward chick
 - Full-bodied character that commands attention
 - Best for: Brutal/old-school death metal, studio recordings
 
-**The Verdict:** Both work excellently for death metal. Choose K Custom Dark if you play highly technical patterns where you need hi-hat clarity within dense arrangements. Choose Paiste 2002 if you want a powerful, dramatic chick that defines each accent in the music. Pete Sandoval's Zildjian setup shows a brighter third path for drummers who prioritize raw articulation over darkness.`,
+**The Verdict:** Both work excellently for death metal. Choose K Custom Dark if you play highly technical patterns where you need hi-hat clarity within dense arrangements. Choose Sabian AAX/HHX if you want a powerful, dramatic chick that defines each accent in the music. Pete Sandoval's Zildjian setup shows a brighter third path for drummers who prioritize raw articulation over darkness.`,
       comparisonTable: [
-        { feature: "Darkness", zildjianK: "⭐⭐⭐⭐⭐", paiste2002: "⭐⭐⭐⭐" },
-        { feature: "Chick Power", zildjianK: "⭐⭐⭐⭐", paiste2002: "⭐⭐⭐⭐⭐" },
-        { feature: "Blast Beat Recovery", zildjianK: "⭐⭐⭐⭐⭐", paiste2002: "⭐⭐⭐" },
-        { feature: "Technical Clarity", zildjianK: "⭐⭐⭐⭐⭐", paiste2002: "⭐⭐⭐⭐" },
-        { feature: "Price Range", zildjianK: "€260-420", paiste2002: "€220-380" }
+        { feature: "Darkness", zildjianK: "⭐⭐⭐⭐⭐", sabianAaxHhx: "⭐⭐⭐⭐" },
+        { feature: "Chick Power", zildjianK: "⭐⭐⭐⭐", sabianAaxHhx: "⭐⭐⭐⭐⭐" },
+        { feature: "Blast Beat Recovery", zildjianK: "⭐⭐⭐⭐⭐", sabianAaxHhx: "⭐⭐⭐" },
+        { feature: "Technical Clarity", zildjianK: "⭐⭐⭐⭐⭐", sabianAaxHhx: "⭐⭐⭐⭐" },
+        { feature: "Price Range", zildjianK: "€260-420", sabianAaxHhx: "€220-380" }
       ]
     },
 
@@ -87841,7 +87839,7 @@ The dark finish and complex overtones sit well under dense, down-tuned guitar wa
         },
         {
           category: "Best for Power/Brutality",
-          pedal: "Paiste 2002 Hi-Hats",
+          pedal: "Sabian AAX/HHX Hi-Hats",
           reason: "Flo Mounier's choice — full-bodied chick with authority, proven at 270 BPM."
         },
         {
@@ -87852,7 +87850,7 @@ The dark finish and complex overtones sit well under dense, down-tuned guitar wa
         {
           category: "Best Budget",
           pedal: "Meinl Classics Custom Dark Hi-Hats",
-          reason: "Dark, controlled character without K Custom or 2002 pricing."
+          reason: "Dark, controlled character without K Custom or Sabian AAX/HHX pricing."
         }
       ]
     },
@@ -87865,14 +87863,14 @@ The dark finish and complex overtones sit well under dense, down-tuned guitar wa
     ],
     relatedDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian K Custom Dark — fastest feet in death metal' },
-      { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Paiste 2002 — controlled chaos at 270 BPM' },
+      { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Sabian AAX/HHX — controlled chaos at 270 BPM' },
       { slug: 'pete-sandoval', name: 'Pete Sandoval', reason: 'Zildjian — hyper-blast articulation pioneer' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian K Custom Dark for extreme cutting power at 280 BPM' },
-      { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Paiste 2002 — controlled chaos at 270 BPM' },
+      { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Sabian AAX/HHX — controlled chaos at 270 BPM' },
       { slug: 'pete-sandoval', name: 'Pete Sandoval', reason: 'Zildjian for hyper-blast articulation' },
     ],
 
@@ -87880,7 +87878,7 @@ The dark finish and complex overtones sit well under dense, down-tuned guitar wa
     faq: [
       {
         question: "What hi-hats are used in death metal?",
-        answer: "George Kollias of Nile uses Zildjian K Custom Dark Hi-Hats (13\"-15\" range) for a dark, controlled character. Flo Mounier of Cryptopsy uses Paiste 2002 Hi-Hats for powerful, full-bodied chick response. Pete Sandoval of Morbid Angel built his hyper-blast sound around Zildjian's brighter, more articulate hi-hats."
+        answer: "George Kollias of Nile uses Zildjian K Custom Dark Hi-Hats (13\"-15\" range) for a dark, controlled character. Flo Mounier of Cryptopsy uses Sabian AAX/HHX Hi-Hats for powerful, full-bodied chick response. Pete Sandoval of Morbid Angel built his hyper-blast sound around Zildjian's brighter, more articulate hi-hats."
       },
       {
         question: "What hi-hats does George Kollias use?",
@@ -87888,7 +87886,7 @@ The dark finish and complex overtones sit well under dense, down-tuned guitar wa
       },
       {
         question: "Best hi-hats for blast beats?",
-        answer: "Medium-heavy weight hi-hats with consistent, fast recovery handle sustained blast beat endurance best. Zildjian K Custom Dark and Paiste 2002 both perform well at extreme tempos — choose based on whether you want dark, controlled wash (Zildjian) or powerful, body-forward chick (Paiste)."
+        answer: "Medium-heavy weight hi-hats with consistent, fast recovery handle sustained blast beat endurance best. Zildjian K Custom Dark and Sabian AAX/HHX both perform well at extreme tempos — choose based on whether you want dark, controlled wash (Zildjian) or powerful, body-forward chick (Sabian)."
       },
       {
         question: "What size hi-hats for death metal?",
@@ -87896,7 +87894,7 @@ The dark finish and complex overtones sit well under dense, down-tuned guitar wa
       },
       {
         question: "Dark or bright hi-hats for death metal?",
-        answer: "Both work at the highest level. Dark hi-hats (Zildjian K Custom Dark, George Kollias's choice; Paiste 2002, Flo Mounier's choice) suit technical and brutal death metal alike. Bright hi-hats (Zildjian A Custom, Pete Sandoval's pioneering choice) suit drummers who prioritize raw articulation over darkness. Choose based on which subgenre and production style you're chasing."
+        answer: "Both work at the highest level. Dark hi-hats (Zildjian K Custom Dark, George Kollias's choice; Sabian AAX/HHX, Flo Mounier's choice) suit technical and brutal death metal alike. Bright hi-hats (Zildjian A Custom, Pete Sandoval's pioneering choice) suit drummers who prioritize raw articulation over darkness. Choose based on which subgenre and production style you're chasing."
       }
     ],
 
@@ -87905,7 +87903,7 @@ The dark finish and complex overtones sit well under dense, down-tuned guitar wa
       title: "Find Your Death Metal Hi-Hat Voice",
       content: `Death metal hi-hats split into two proven traditions: the dark, controlled character that George Kollias has made synonymous with technical blast beat precision, and the powerful, body-forward chick that Flo Mounier favors for brutal, dramatic impact.
 
-If you play technical, blast-beat-heavy death metal, start with a Zildjian K Custom Dark pair or the budget Classics Custom Dark — both stay controlled at extreme tempos. If you play brutal, old-school death metal, Paiste 2002 will give you the full-bodied power your playing demands. If raw articulation over darkness is your priority, Pete Sandoval's brighter Zildjian A Custom approach remains a proven third path.
+If you play technical, blast-beat-heavy death metal, start with a Zildjian K Custom Dark pair or the budget Classics Custom Dark — both stay controlled at extreme tempos. If you play brutal, old-school death metal, Sabian AAX/HHX will give you the full-bodied power your playing demands. If raw articulation over darkness is your priority, Pete Sandoval's brighter Zildjian A Custom approach remains a proven third path.
 
 Whatever you choose, prioritize consistency under sustained blast beat use over flashy features — the hi-hat is the most-used cymbal in death metal drumming, and it needs to perform reliably through entire songs of relentless rhythmic work.
 

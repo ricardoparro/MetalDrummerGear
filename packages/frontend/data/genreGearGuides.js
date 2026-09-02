@@ -2937,7 +2937,7 @@ Daray's work with Dimmu Borgir set the modern standard, running a Pearl Masterwo
 This guide covers the drum heads that deliver symphonic metal's bright, cutting, blast-beat-durable character — why clear and lightly coated constructions with real projection matter more here than the warm, dampened heads favored elsewhere in metal, and which specific models the genre's defining drummers actually use.`,
       keyPoints: [
         "Symphonic metal needs bright, cutting heads that project against dense orchestral arrangements",
-        "Remo and Evans dominate the genre's roster — Daray, Hellhammer, Frost, and Jaska Raatikainen all use one or the other",
+        "Remo and Evans dominate the genre's roster — Remo for Hellhammer, Frost, and Jaska Raatikainen, Evans for Daray",
         "Blast beat endurance matters as much as projection — many symphonic metal drummers move between extreme speed and orchestral restraint",
         "Clear or lightly coated heads generally cut through a mix better than heavily muffled constructions"
       ]
@@ -2992,23 +2992,23 @@ This guide covers the drum heads that deliver symphonic metal's bright, cutting,
       pedals: [
         {
           rank: 1,
-          name: "Remo Coated Emperor",
-          brand: "Remo",
-          model: "Emperor Coated Batter Head",
+          name: "Evans Emperor Coated",
+          brand: "Evans",
+          model: "Emperor / Ambassador Coated Batter Head",
           image: "https://upload.wikimedia.org/wikipedia/commons/4/46/2006-07-06_snare_14.jpg",
           priceRange: "€20-35 per head",
           tier: "pro",
           material: "2-Ply Coated (10mil + 10mil)",
 
-          description: `Daray's Pearl Masterworks kit with Dimmu Borgir runs double-ply Remo-family heads chosen for maximum projection against the band's dense, full-orchestra arrangements. The Emperor's brighter attack and durable construction cut through mixed-in strings, choirs, and keyboards far better than a warmer, more dampened alternative.
+          description: `Daray's Pearl Masterworks kit with Dimmu Borgir runs Evans Emperor and Ambassador heads chosen for maximum projection against the band's dense, full-orchestra arrangements. The Emperor's brighter attack and Level 360 tuning stability cut through mixed-in strings, choirs, and keyboards far better than a warmer, more dampened alternative.
 
-For symphonic metal that leans toward the maximalist, orchestral-black-metal end of the spectrum, the Emperor gives the durability and cutting projection the genre's densest arrangements demand.`,
+For symphonic metal that leans toward the maximalist, orchestral-black-metal end of the spectrum, the Emperor/Ambassador combination gives the durability and cutting projection the genre's densest arrangements demand.`,
 
           pros: [
             "Bright, cutting attack that projects through dense orchestral mixes",
             "Durable double-ply construction for demanding, technical material",
             "Handles blast beat tempos without losing definition",
-            "Level 360-equivalent tuning stability across a wide range",
+            "Level 360 tuning stability across a wide range",
             "Proven at the professional level via Dimmu Borgir's touring and recording"
           ],
           cons: [
@@ -3019,87 +3019,87 @@ For symphonic metal that leans toward the maximalist, orchestral-black-metal end
           specs: {
             construction: "2-ply coated",
             filmWeight: "10mil + 10mil",
-            collar: "Standard Remo collar",
+            collar: "Level 360",
             coating: "White coated",
             sizes: "6\" to 26\""
           },
           usedBy: [
-            { name: "Daray", band: "Dimmu Borgir", note: "Remo-family heads for maximum projection against full-orchestra arrangements" }
+            { name: "Daray", band: "Dimmu Borgir", note: "Evans Emperor / Ambassador heads for maximum projection against full-orchestra arrangements" }
           ],
           verdict: "The definitive symphonic metal head. Start here if your kit needs to cut through a dense orchestral mix.",
           rating: 4.8,
-          affiliateLink: "https://www.thomann.de/intl/remo_coated_emperor.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/evans_emperor_coated.htm?partner_id=metalforge"
         },
         {
           rank: 2,
-          name: "Evans G2 Coated",
-          brand: "Evans",
-          model: "G2 Coated Batter Head",
+          name: "Remo Coated Ambassador",
+          brand: "Remo",
+          model: "Coated Ambassador Batter Head",
           image: "https://upload.wikimedia.org/wikipedia/commons/e/ee/Pearl_MCX_snare_drum.JPG",
-          priceRange: "€25-45 per head",
+          priceRange: "€20-35 per head",
           tier: "pro",
-          material: "2-Ply Coated (7mil + 7mil)",
+          material: "1-Ply Coated (10mil)",
 
-          description: `Hellhammer's dual-band work across Mayhem and Dimmu Borgir requires a head that holds up equally well to raw, primal black metal and full symphonic grandeur. The Evans G2's warm-but-focused attack and Level 360 tuning stability let it move between those two extremes without ever sounding out of place in either context.
+          description: `Hellhammer's dual-band work across Mayhem and Dimmu Borgir requires a head that holds up equally well to raw, primal black metal and full symphonic grandeur. The Remo Coated Ambassador's warm, open single-ply attack lets it move between those two extremes without ever sounding out of place in either context.
 
-Its durability at extreme speed also matters — Hellhammer's blast beat endurance across genuinely long, technically demanding sets puts real strain on a head, and the G2 handles it without losing its cutting projection.`,
+Its proven reliability at extreme speed also matters — Hellhammer's blast beat endurance across genuinely long, technically demanding sets puts real strain on a head, and the Coated Ambassador handles it while staying articulate and cutting.`,
 
           pros: [
             "Versatile enough to cover both raw black metal and symphonic grandeur",
-            "Durable double-ply construction for extended blast beat playing",
-            "Level 360 collar for wide, accurate tuning",
-            "Focused attack that still projects against orchestral density",
+            "Proven single-ply reliability across decades of touring since 1988",
+            "Standard collar for straightforward, dependable tuning",
+            "Warm, open attack that still projects against orchestral density",
             "Proven across one of extreme metal's most demanding touring schedules"
           ],
           cons: [
             "Less inherently bright than a purpose-built cutting head",
             "May need EQ support in the most maximalist symphonic mixes",
-            "Not the most distinctive choice on its own"
+            "Single-ply — less durable under sustained blast beat playing than a double-ply head"
           ],
           specs: {
-            construction: "2-ply coated",
-            filmWeight: "7mil + 7mil",
-            collar: "Level 360",
+            construction: "1-ply coated",
+            filmWeight: "10mil",
+            collar: "Standard Remo collar",
             coating: "White coated",
             sizes: "6\" to 26\""
           },
           usedBy: [
-            { name: "Hellhammer", band: "Mayhem / Dimmu Borgir", note: "Evans-family heads for extreme speed and symphonic versatility" }
+            { name: "Hellhammer", band: "Mayhem / Dimmu Borgir", note: "Remo-family heads for extreme speed and symphonic versatility" }
           ],
           verdict: "The best choice for drummers moving between raw extremity and symphonic grandeur.",
           rating: 4.6,
-          affiliateLink: "https://www.thomann.de/intl/evans_g2_coated.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/remo_coated_ambassador.htm?partner_id=metalforge"
         },
         {
           rank: 3,
-          name: "Evans EC2 SST Coated",
-          brand: "Evans",
-          model: "EC2 SST Coated Batter Head",
+          name: "Remo Controlled Sound Coated",
+          brand: "Remo",
+          model: "Ambassador / Controlled Sound Coated Batter Head",
           image: "https://upload.wikimedia.org/wikipedia/commons/4/46/2006-07-06_snare_14.jpg",
-          priceRange: "€30-50 per head",
+          priceRange: "€25-40 per head",
           tier: "pro",
-          material: "2-Ply Coated with Sound Shaping Technology Edge Ring",
+          material: "2-Ply Coated with Bonded Dampening Ring",
 
-          description: `Frost's signature platform for Satyricon needs to move fluidly between blast beats and orchestral restraint within the same song, and the Evans EC2 SST's controlled, near-instant decay keeps every tom hit reading as a distinct, defined event rather than a wash that blurs into the orchestration.
+          description: `Frost's signature platform for Satyricon needs to move fluidly between blast beats and orchestral restraint within the same song, and the Remo Controlled Sound Coated's built-in dampening ring keeps every tom hit reading as a distinct, defined event rather than a wash that blurs into the orchestration.
 
-The SST edge ring reduces overtones without deadening the fundamental pitch, giving Frost's dynamic shifts between raw speed and symphonic dynamics real definition against a dense, mixed-in orchestral arrangement.`,
+The bonded ring reduces overtones without deadening the fundamental pitch, giving Frost's dynamic shifts between raw speed and symphonic dynamics real definition against a dense, mixed-in orchestral arrangement.`,
 
           pros: [
-            "SST ring gives near-instant decay without killing tone",
+            "Built-in dampening ring gives near-instant decay without killing tone",
             "Extremely consistent from drum to drum — ideal for pitch-matched tom runs",
             "Cuts cleanly through orchestral density without smearing",
             "Standard double-ply durability",
-            "Level 360 collar for wide, accurate tuning"
+            "Reliable, familiar Remo tuning behavior"
           ],
           cons: [
             "More clinical, less 'musical' than an open head",
             "Overkill for symphonic metal that stays closer to traditional or power metal territory",
-            "Higher price than a standard G2"
+            "Higher price than a standard Ambassador"
           ],
           specs: {
-            construction: "2-ply coated + SST edge ring",
+            construction: "2-ply coated + dampening ring",
             filmWeight: "7mil + 7mil",
-            collar: "Level 360",
+            collar: "Standard Remo collar",
             coating: "White coated",
             sizes: "8\" to 18\""
           },
@@ -3108,47 +3108,47 @@ The SST edge ring reduces overtones without deadening the fundamental pitch, giv
           ],
           verdict: "The best pick for drummers who move constantly between extreme speed and orchestral dynamics.",
           rating: 4.5,
-          affiliateLink: "https://www.thomann.de/intl/evans_ec2_coated.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/remo_controlled_sound_coated.htm?partner_id=metalforge"
         },
         {
           rank: 4,
-          name: "Evans G1 Clear",
-          brand: "Evans",
-          model: "G1 Clear Batter/Resonant Head",
+          name: "Remo Emperor Coated",
+          brand: "Remo",
+          model: "Emperor Coated / Powerstroke 3",
           image: "https://upload.wikimedia.org/wikipedia/commons/e/ee/Pearl_MCX_snare_drum.JPG",
-          priceRange: "€18-30 per head",
+          priceRange: "€20-35 per head",
           tier: "mid-pro",
-          material: "1-Ply Clear (10mil)",
+          material: "2-Ply Coated (10mil + 10mil)",
 
-          description: `Jaska Raatikainen's melodic, keyboard-orchestrated precision with Children of Bodom calls for a bright, open head that locks in with the band's synth-forward arrangements rather than fighting them. The single-ply, clear Evans G1 maximizes natural resonance and brightness, giving toms a singing quality that sits cleanly alongside keyboard melodies.
+          description: `Jaska Raatikainen's melodic, keyboard-orchestrated precision with Children of Bodom calls for a bright, cutting head that locks in with the band's synth-forward arrangements rather than fighting them. The double-ply, coated Remo Emperor maximizes brightness and durability, giving toms a cutting quality that sits cleanly alongside keyboard melodies, while the matching Powerstroke 3 kick head keeps low end defined against dense mixes.
 
-Its Level 360 collar also makes precise tuning easy — useful for matching tom pitches to a song's keyboard-driven key center, a recurring need in melodic symphonic and power-metal-adjacent material.`,
+Its standard collar also makes precise tuning straightforward — useful for matching tom pitches to a song's keyboard-driven key center, a recurring need in melodic symphonic and power-metal-adjacent material.`,
 
           pros: [
-            "Bright, open tone that locks in with keyboard-orchestrated arrangements",
-            "Level 360 collar for precise, reliable tuning",
-            "Maximizes natural resonance and projection",
+            "Bright, cutting tone that locks in with keyboard-orchestrated arrangements",
+            "Durable double-ply construction for demanding, technical material",
+            "Powerstroke 3 kick head keeps low end defined and controlled",
             "Affordable and widely available",
-            "Proven at the professional level via Children of Bodom's melodic material"
+            "Proven at the professional level via Children of Bodom's melodic material since 1997"
           ],
           cons: [
-            "Single-ply — less durable than a double-ply batter under direct hits",
-            "Less blast-beat-durable than Emperor or G2 constructions",
-            "Too open for drummers wanting more controlled sustain"
+            "Less airy and open than a clear single-ply batter",
+            "Double-ply adds a touch more weight than a lighter single-ply head",
+            "Overkill for drummers wanting a more open, resonant tone"
           ],
           specs: {
-            construction: "1-ply clear",
-            filmWeight: "10mil",
-            collar: "Level 360",
-            coating: "Clear",
+            construction: "2-ply coated",
+            filmWeight: "10mil + 10mil",
+            collar: "Standard Remo collar",
+            coating: "White coated",
             sizes: "6\" to 26\""
           },
           usedBy: [
-            { name: "Jaska Raatikainen", band: "Children of Bodom", note: "Evans G1 Clear for keyboard-orchestrated melodic precision" }
+            { name: "Jaska Raatikainen", band: "Children of Bodom", note: "Remo Emperor Coated / Powerstroke 3 for keyboard-orchestrated melodic precision" }
           ],
           verdict: "The best choice for melodic symphonic metal that needs to lock in with keyboard arrangements.",
           rating: 4.4,
-          affiliateLink: "https://www.thomann.de/intl/evans_g1_coated.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/remo_emperor_coated.htm?partner_id=metalforge"
         },
         {
           rank: 5,
@@ -3261,23 +3261,22 @@ For drummers who want a distinctive visual look alongside genuine cut-through to
       content: `Both major head brands can deliver symphonic metal's bright, cutting tone, but they get there differently.
 
 **Remo:**
-- Emperor's bright, durable double-ply construction is the genre's standard for maximum orchestral cut-through
-- Ambassador gives a more affordable, still-bright single-ply alternative
-- Preferred by: Daray
-
-**Evans:**
-- G2 Coated balances warmth and focus for drummers moving between raw extremity and symphonic grandeur
-- EC2 SST gives controlled, near-instant decay for drummers alternating blast beats and orchestral restraint
-- G1 Clear locks in with keyboard-orchestrated, melodic material
+- Coated Ambassador's warm, open single-ply character handles Hellhammer's dual-band extremes between raw black metal and symphonic grandeur
+- Ambassador / Controlled Sound Coated gives Frost's controlled, near-instant decay for drummers alternating blast beats and orchestral restraint
+- Emperor Coated / Powerstroke 3 locks in with Jaska Raatikainen's keyboard-orchestrated, melodic material
 - Preferred by: Hellhammer, Frost, Jaska Raatikainen
 
-**Our Take:** Remo Coated Emperor is the default choice for maximum brightness and projection against the densest orchestral arrangements. Evans G2 Coated is the pick if your material moves between raw black metal extremity and full symphonic grandeur within the same set.`,
+**Evans:**
+- Emperor / Ambassador's bright attack and Level 360 tuning stability is the genre's standard for maximum orchestral cut-through
+- Preferred by: Daray
+
+**Our Take:** Remo Coated Ambassador is the default choice if your material moves between raw black metal extremity and full symphonic grandeur within the same set. Evans Emperor Coated is the pick for maximum brightness and projection against the densest orchestral arrangements.`,
       comparisonTable: [
-        { feature: "Projection/Cut-Through", evans: "⭐⭐⭐⭐", remo: "⭐⭐⭐⭐⭐", aquarian: "⭐⭐⭐" },
-        { feature: "Blast Beat Durability", evans: "⭐⭐⭐⭐⭐", remo: "⭐⭐⭐⭐", aquarian: "⭐⭐⭐⭐" },
-        { feature: "Versatility", evans: "⭐⭐⭐⭐⭐", remo: "⭐⭐⭐⭐", aquarian: "⭐⭐⭐" },
-        { feature: "Brightness", evans: "⭐⭐⭐⭐", remo: "⭐⭐⭐⭐⭐", aquarian: "⭐⭐⭐" },
-        { feature: "Price", evans: "€18-50", remo: "€20-35", aquarian: "€22-38" }
+        { feature: "Projection/Cut-Through", evans: "⭐⭐⭐⭐⭐", remo: "⭐⭐⭐⭐", aquarian: "⭐⭐⭐" },
+        { feature: "Blast Beat Durability", evans: "⭐⭐⭐⭐", remo: "⭐⭐⭐⭐⭐", aquarian: "⭐⭐⭐⭐" },
+        { feature: "Versatility", evans: "⭐⭐⭐⭐", remo: "⭐⭐⭐⭐⭐", aquarian: "⭐⭐⭐" },
+        { feature: "Brightness", evans: "⭐⭐⭐⭐⭐", remo: "⭐⭐⭐⭐", aquarian: "⭐⭐⭐" },
+        { feature: "Price", evans: "€20-35", remo: "€18-40", aquarian: "€22-38" }
       ]
     },
 
@@ -3287,23 +3286,23 @@ For drummers who want a distinctive visual look alongside genuine cut-through to
       picks: [
         {
           category: "Best Overall",
-          pedal: "Remo Coated Emperor",
+          pedal: "Evans Emperor Coated",
           reason: "Daray's Dimmu Borgir setup — maximum brightness and projection against the genre's densest orchestral arrangements."
         },
         {
           category: "Best for Dual-Band Versatility",
-          pedal: "Evans G2 Coated",
+          pedal: "Remo Coated Ambassador",
           reason: "Hellhammer's proven choice for moving between raw black metal and full symphonic grandeur."
         },
         {
           category: "Best for Blast Beat/Orchestral Shifts",
-          pedal: "Evans EC2 SST Coated",
+          pedal: "Remo Controlled Sound Coated",
           reason: "Frost's signature platform — controlled decay keeps hits defined against dense orchestration."
         },
         {
           category: "Best for Melodic/Keyboard-Driven Material",
-          pedal: "Evans G1 Clear",
-          reason: "Jaska Raatikainen's pick — bright, open tone that locks into keyboard-orchestrated melody."
+          pedal: "Remo Emperor Coated",
+          reason: "Jaska Raatikainen's pick — bright, cutting tone that locks into keyboard-orchestrated melody."
         }
       ]
     },
@@ -3316,48 +3315,48 @@ For drummers who want a distinctive visual look alongside genuine cut-through to
       'best-drum-heads-for-black-metal'
     ],
     relatedDrummers: [
-      { slug: 'daray', name: 'Daray', reason: 'Remo Emperor — Dimmu Borgir full-orchestra symphonic black metal projection' },
-      { slug: 'hellhammer', name: 'Hellhammer', reason: 'Evans G2 Coated — Mayhem and Dimmu Borgir symphonic versatility' },
-      { slug: 'frost', name: 'Frost', reason: 'Evans EC2 SST — Satyricon dynamic control between blast beats and orchestration' },
-      { slug: 'jaska-raatikainen', name: 'Jaska Raatikainen', reason: 'Evans G1 Clear — Children of Bodom keyboard-orchestrated precision' }
+      { slug: 'daray', name: 'Daray', reason: 'Evans Emperor / Ambassador — Dimmu Borgir full-orchestra symphonic black metal projection' },
+      { slug: 'hellhammer', name: 'Hellhammer', reason: 'Remo Coated Ambassador — Mayhem and Dimmu Borgir symphonic versatility' },
+      { slug: 'frost', name: 'Frost', reason: 'Remo Ambassador / Controlled Sound Coated — Satyricon dynamic control between blast beats and orchestration' },
+      { slug: 'jaska-raatikainen', name: 'Jaska Raatikainen', reason: 'Remo Emperor Coated / Powerstroke 3 — Children of Bodom keyboard-orchestrated precision' }
     ],
 
     featuredDrummers: [
-      { slug: 'daray', name: 'Daray', reason: 'Remo Emperor — defined symphonic metal\'s bright, cutting tom projection' },
-      { slug: 'hellhammer', name: 'Hellhammer', reason: 'Evans G2 Coated — dual-band durability across two extreme metal legacies' },
-      { slug: 'frost', name: 'Frost', reason: 'Evans EC2 SST — Satyricon\'s signature blast-beat-to-orchestral platform' }
+      { slug: 'daray', name: 'Daray', reason: 'Evans Emperor / Ambassador — defined symphonic metal\'s bright, cutting tom projection' },
+      { slug: 'hellhammer', name: 'Hellhammer', reason: 'Remo Coated Ambassador — dual-band durability across two extreme metal legacies' },
+      { slug: 'frost', name: 'Frost', reason: 'Remo Ambassador / Controlled Sound Coated — Satyricon\'s signature blast-beat-to-orchestral platform' }
     ],
 
     // FAQ section for SEO
     faq: [
       {
         question: "What drum heads do symphonic metal drummers use?",
-        answer: "Symphonic metal drummers favor bright, cutting heads across both Remo and Evans. Daray's Dimmu Borgir setup runs Remo Emperor for maximum orchestral projection, Hellhammer and Frost use Evans G2 and EC2 SST across Mayhem, Dimmu Borgir, and Satyricon, and Jaska Raatikainen pairs Evans G1 Clear with Children of Bodom's keyboard-orchestrated material."
+        answer: "Symphonic metal drummers favor bright, cutting heads across both Remo and Evans. Daray's Dimmu Borgir setup runs Evans Emperor and Ambassador for maximum orchestral projection, Hellhammer and Frost use Remo Coated Ambassador and Ambassador/Controlled Sound Coated across Mayhem, Dimmu Borgir, and Satyricon, and Jaska Raatikainen pairs Remo Emperor Coated with Children of Bodom's keyboard-orchestrated material."
       },
       {
         question: "Why do symphonic metal drum heads need to be brighter than in other metal genres?",
-        answer: "Symphonic metal buries a drum kit under strings, choirs, keyboards, and full orchestral programming, all competing for the same frequency space. Warm, heavily dampened heads that work well in doom or death metal tend to disappear once that orchestral wall is mixed in, which is why brighter, more resonant Remo Emperor and Evans G2/clear constructions are the genre standard."
+        answer: "Symphonic metal buries a drum kit under strings, choirs, keyboards, and full orchestral programming, all competing for the same frequency space. Warm, heavily dampened heads that work well in doom or death metal tend to disappear once that orchestral wall is mixed in, which is why brighter, more resonant Evans Emperor/Ambassador and Remo Coated Ambassador constructions are the genre standard."
       },
       {
         question: "Do symphonic metal drummers need blast-beat-durable heads?",
-        answer: "Often, yes. Many symphonic metal drummers, particularly those with roots in symphonic black metal like Hellhammer and Frost, move between blast beats and orchestral restraint within the same song. Durable double-ply heads like Evans G2 or Remo Emperor hold tone and structural integrity at that speed better than lighter single-ply constructions."
+        answer: "Often, yes. Many symphonic metal drummers, particularly those with roots in symphonic black metal like Hellhammer and Frost, move between blast beats and orchestral restraint within the same song. Durable heads like Remo Coated Ambassador or Evans Emperor/Ambassador hold tone and structural integrity at that speed better than lighter, less reinforced constructions."
       },
       {
         question: "What's the best snare head for cutting through a symphonic metal mix?",
-        answer: "A crisp, bright coated batter with strong rimshot definition is essential. Evans Onyx Coated and Remo Coated Emperor both deliver the focused attack needed to stay audible against choirs, strings, and full orchestral arrangements without adding excess ring that would blur into the mix."
+        answer: "A crisp, bright coated batter with strong rimshot definition is essential. Evans Onyx Coated and Evans Emperor Coated both deliver the focused attack needed to stay audible against choirs, strings, and full orchestral arrangements without adding excess ring that would blur into the mix."
       },
       {
         question: "Should symphonic metal toms be tuned bright and high, or low like other extreme metal?",
-        answer: "It varies by band, but many symphonic metal drummers tune brighter and higher than their death or doom metal counterparts specifically to project against the orchestration. Clear or lightly coated heads with Level 360-style collars, like Evans G1 Clear, make it easier to find and hold that higher, more cutting pitch precisely."
+        answer: "It varies by band, but many symphonic metal drummers tune brighter and higher than their death or doom metal counterparts specifically to project against the orchestration. Bright, coated heads like Remo Emperor Coated make it easier to find and hold that higher, more cutting pitch precisely."
       }
     ],
 
     // Conclusion
     conclusion: {
       title: "Build Your Symphonic Metal Head Setup",
-      content: `Symphonic metal asks a drum head to do something most of metal doesn't — cut cleanly through a full orchestra rather than simply carrying weight on its own. Remo Coated Emperor is the single best starting point, giving you Daray's bright, durable, projection-forward foundation.
+      content: `Symphonic metal asks a drum head to do something most of metal doesn't — cut cleanly through a full orchestra rather than simply carrying weight on its own. Evans Emperor Coated is the single best starting point, giving you Daray's bright, durable, projection-forward foundation.
 
-If your material moves between raw extremity and full orchestral grandeur, Evans G2 Coated gives you Hellhammer's proven dual-band versatility, and Evans EC2 SST delivers Frost's controlled decay for those same rapid shifts. For melodic, keyboard-driven symphonic metal, Evans G1 Clear locks in with Jaska Raatikainen's keyboard-orchestrated precision.
+If your material moves between raw extremity and full orchestral grandeur, Remo Coated Ambassador gives you Hellhammer's proven dual-band versatility, and Remo Controlled Sound Coated delivers Frost's controlled decay for those same rapid shifts. For melodic, keyboard-driven symphonic metal, Remo Emperor Coated locks in with Jaska Raatikainen's keyboard-orchestrated precision.
 
 Budget shouldn't stop you — Remo Coated Ambassador and Evans G1 Coated both offer a real path to bright, cutting symphonic metal tone at a fraction of the price.
 

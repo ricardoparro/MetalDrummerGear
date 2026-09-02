@@ -154,7 +154,7 @@ export const drummerComparisons = {
     comparison: {
       style: 'Brann brings jazzy, proggy fills to sludge metal. Mario combines tribal rhythms with technical death metal.',
       technique: 'Brann uses constant motion with signature flowing fills. Mario delivers raw power with explosive accents.',
-      gear: 'Brann plays DW drums with Sabian cymbals. Mario uses Tama drums with Meinl cymbals for dark tones.',
+      gear: 'Brann plays Tama Starclassic Performer B/B drums with Meinl Mb20 & Mb8 Series cymbals. Mario uses Tama drums with Meinl cymbals for dark tones.',
       influence: 'Brann helped define the progressive sludge sound. Mario influenced environmental metal and modern prog death.',
     },
     verdict: 'Brann Dailor and Mario Duplantier represent two paths of modern progressive metal drumming. Both push boundaries while maintaining musical identity.',
@@ -464,7 +464,7 @@ export const drummerComparisons = {
     comparison: {
       style: 'Danny creates hypnotic, spiritual progressive rock with occult undertones. Brann brings jazzy, proggy fills to sludge metal with constant motion.',
       technique: 'Danny masters polyrhythmic patterns with electronic integration and Fibonacci-based compositions. Brann uses constant flowing fills with signature tom work.',
-      gear: 'Danny plays Sonor drums with Paiste cymbals and custom Mandala pads. Brann uses DW drums with Sabian cymbals.',
+      gear: 'Danny plays Sonor drums with Paiste cymbals and custom Mandala pads. Brann uses Tama Starclassic Performer B/B drums with Meinl Mb20 & Mb8 Series cymbals.',
       influence: 'Danny defined Tool\'s unique sound and influenced a generation of prog drummers. Brann helped define the progressive sludge sound.',
     },
     verdict: 'Two artists who transcend drumming. Danny Carey is the philosopher-mathematician behind the kit. Brann Dailor is perpetual motion incarnate. Both have created unique voices in progressive metal.',
@@ -572,7 +572,7 @@ export const drummerComparisons = {
     comparison: {
       style: 'Brann brings jazz-informed free-flowing chaos to Mastodon\'s progressive sludge — fills that overflow every bar, melodic tom runs that sing over the riffs, and a constant motion that makes his drumming feel alive and unpredictable. Tomas constructs polyrhythmic machinery with Meshuggah — interlocking kick, snare, and cymbal patterns across extended time signatures that feel like a computer running at human-hostile precision.',
       technique: 'Brann treats the entire kit as a melodic instrument, using his snare and toms to carry melody lines and signature fills that are as recognizable as guitar riffs. Tomas dissects rhythm into pure mathematics — his kick and snare patterns cycle across groupings that create hypnotic polyrhythms independent of the guitar riff, inventing the djent rhythmic vocabulary.',
-      gear: 'Brann plays DW Collector\'s Series drums with Sabian HHX cymbals for a warm, musical tone that suits his melodic approach. Tomas uses Sonor SQ2 drums with Sabian HHX & AAX Series cymbals, chosen for focused attack and projection that cut through Meshuggah\'s dense tuning.',
+      gear: 'Brann plays Tama Starclassic Performer B/B drums with Meinl Mb20 & Mb8 Series cymbals for a warm, musical tone that suits his melodic approach. Tomas uses Sonor SQ2 drums with Sabian HHX & AAX Series cymbals, chosen for focused attack and projection that cut through Meshuggah\'s dense tuning.',
       influence: 'Brann co-defined the progressive sludge metal drumming approach with Mastodon from "Remission" (2002) through "Emperor of Sand," influencing a generation of rock and metal drummers to treat fills as compositional elements rather than transitions. Tomas invented djent drumming with Meshuggah from "Destroy Erase Improve" (1995) onward — every djent drummer from Periphery to Animals as Leaders traces their rhythmic DNA back to Haake.',
     },
     verdict: 'Brann Dailor is jazz chaos incarnate — a drummer who makes fills feel like melodies and turns progressive metal into an improvised conversation. Tomas Haake is the polyrhythmic machine — a drummer whose mathematical precision created an entirely new genre. Both are among the most innovative drummers in metal history, representing two opposite philosophical poles: organic freedom vs mathematical structure.',

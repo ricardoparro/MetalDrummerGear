@@ -9460,7 +9460,7 @@ This is the snare for metal drummers who need one drum to work across multiple s
       },
       {
         question: "What snare drum does Tomas Haake use?",
-        answer: "Tomas Haake of Meshuggah uses Pearl Free-Floating snare drums. The free-floating design suspends the shell from its own flanges, eliminating lug dampening and maximizing resonance and sensitivity — critical for the precise, consistent snare response that Haake's complex polyrhythmic djent patterns demand."
+        answer: "Tomas Haake of Meshuggah plays a Sonor Tomas Haake Signature 14x6.5\" snare drum, along with a Sonor Artist Series Bronze snare for tonal variety. The signature model is voiced for quick, dry response and consistent crack — critical for the precise, consistent snare response that Haake's complex polyrhythmic djent patterns demand."
       },
       {
         question: "Is steel or brass better for metal snare drums?",
@@ -65318,7 +65318,7 @@ The 14x5.5" dimensions give Haake enough crispness to cut through Meshuggah's do
             wires: "20-strand"
           },
           usedBy: [
-            { name: "Tomas Haake", band: "Meshuggah", note: "14x5.5\" Pearl Free-Floating — djent's founding dry, cutting crack" }
+            { name: "Tomas Haake", band: "Meshuggah", note: "14x6.5\" Sonor Tomas Haake Signature — djent's founding dry, cutting crack" }
           ],
           verdict: "The djent founding standard. Haake's dry, free-floating snare defines the genre's polyrhythmic articulation.",
           rating: 4.8,

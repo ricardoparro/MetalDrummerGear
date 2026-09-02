@@ -5,6 +5,37 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-09-02 02:57 UTC*
 
 ---
+## 2026-09-02 16:00 — Mid-day pulse: 5 fresh gear-fabrication proposals promoted (#6721-6724, #6726); new GSC-gap fix filed (#6740, jaska-raatikainen bare-name CTR)
+
+### Context (≤3 lines)
+First run after 13:00 UTC (mid-day pulse). Metrics 15:59 UTC (296 users/341 sessions/471 views 7d; GSC 8,013 impr/184 clicks/2.30% CTR/pos 9.6). Eligible `ai-fix` backlog 0 at run start (prior batch #6679/#6698-6704 all shipped/closed since the 10:40 run), 0 open PRs, 5 fresh untriaged `seo-proposal` (#6721-6724, #6726, filed 12:03-12:04 UTC; #6725 already self-closed at 12:05 by an untracked intervening pulse — genuine Tama-vs-Pearl `extendedBios.js`-vs-`endorsementNews.js` source conflict on Flo Mounier's drum-kit brand, correctly not re-filed, folded into the standing 4-drummer conflict flag in `.agents/seo-plan.md`) plus the 3 standing L1/L2/L3 umbrellas.
+
+### Actions taken
+- **Promoted all 5** (`ai-fix`): same systemic gear-brand-fabrication class vs verified `endorsementNews.js`, this batch entirely in `genreGearGuides.js`. #6721 (George Kollias pedal fabricated Pearl Demon Drive vs verified Demon XR, co-designed signature since 2015), #6722 (Pete Sandoval drums/hardware fabricated Tama across 4+ guides vs verified ddrum since 1989 — Gene Hoglan's correct Tama credit in the same lines untouched), #6723 (Derek Roddy kit/pedal/hardware fabricated DW/Axis across 5+ guides vs verified Tama Starclassic Bubinga/Speed Cobra 910, file already has correct Tama entries elsewhere — internally self-contradictory), #6724 (Flo Mounier heads fabricated Remo Ambassador vs verified Evans EC Reverse Dot — explicitly scoped away from the drums-brand conflict affecting #6725, both endorsementNews.js and extendedBios.js agree on Evans for heads, no conflict), #6726 (Tomas Haake snare fabricated Pearl Free-Floating across 2 guides vs verified Sonor Tomas Haake Signature 14x6.5, sourced from extendedBios.js since endorsementNews.js has no dedicated snare field for him). Live-verified all 5 directly via grep against both the fabricating file and source-of-truth (`endorsementNews.js`/`extendedBios.js`) — every cited line confirmed still present. Searched `state:all` per drummer/file — no true duplicates (closed hits are `drummerComparisons.js`/`soundLikeGuides.js`/`drummerEvolution.js` fixes, distinct file from `genreGearGuides.js` target here). All single-file text corrections on existing guide pages, zero new pages/URLs — freeze-compliant.
+- **Backlog gate**: 0 → 6 (5 promotions + #6740 filed below), well under the 45/80 threshold; promoted liberally per rule.
+- **GSC content-gap**: 3 rows flagged. `metalforge` (507 impr/0.59% CTR/pos 6.9) and `danny carey drum kit` (68 impr/1.47% CTR/pos 11.1) — both re-confirmed consistent with documented `learned-patterns.md` precedent (SERP name-collision; ceiling-hold), no new action. **`jaska raatikainen` (72 impr/1.39% CTR/pos 8.2) — new row, first appearance.** Investigated: no watched-query history exists for it (not in `gsc-history/*.json`), but the pattern is legible without a time series — `jaska raatikainen drum set` (a narrower gear-intent variant) converts at 20% CTR/pos 5.2, so the bare-name query is splitting between bio-seekers and gear-seekers and our snippet isn't winning the gear-seekers. Checked live: `extendedBios.js:2927-2928` has a strong keyword title ("Drum Kit & Gear Setup") but a biography-led `metaDescription`, not the question-led/gear-answer framing already proven for Joey Jordison/Eloy Casagrande/Danny Carey/Mike Portnoy (`api/meta/[...path].js:325-370`, Issue #1163 pattern) — he has no `DRUMMER_META_OVERRIDES` entry so this hand-authored copy is what's live. Filed **#6740** applying the same proven pattern: rewrite the description only, verified-gear-first framing, freeze-compliant (existing URL, no title change).
+- **L1/L2/L3** (#3810/#3819/#2211): all three snapshot files confirmed still the 2026-08-31 generation (checked `**Generated:**` timestamps directly). Already fully triaged in the 08-31 evening run and re-confirmed clean since. Next weekly refresh due ~09-07.
+- **Founder ideas**: inbox empty, unchanged since 06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 — all `updatedAt` unchanged, no re-spam.
+- **Atomic-split sweep**: all 6 open non-hold `ai-fix` issues (#6721-6724, #6726, #6740) filed within the last few hours — nothing stagnant, none eligible.
+- **Starvation check**: post-triage backlog=6, bank=0 (excl. umbrellas) — technically under 15/≤2, but this is a fresh same-morning batch on top of the 10:40 run's 8-issue batch (5 of which already shipped) — healthy, flowing cadence, not escalating.
+
+### State delta
+- ai-fix backlog: 0 → 6 (#6721-6724, #6726, #6740)
+- seo-proposal bank (excl. umbrellas): 5 → 0
+- Org/Sessions/Views (7d): 296/341/471 · GSC 8,013 impr/184 clicks/2.30% CTR/pos 9.6
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 5/5 fresh triaged, live-verified (5/5 direct grep), promoted, no duplicates, freeze-compliant. ✅ GSC-gap: 3 rows reviewed — 2 held per existing precedent, 1 new row investigated and a fix filed (#6740). ✅ L1/L2/L3: no fresh snapshot since 08-31, already actioned. ✅ Starvation: not triggered. ✅ Atomic split: nothing stagnant. ✅ Decisions logged.
+
+### Next Run
+1. Watch #6721-6724/#6726/#6740 ship via Roadie/PR Merger.
+2. Evening review due ~19:00 UTC.
+3. Watch for the next L1/L2/L3 weekly refresh (last 08-31, due ~09-07).
+4. Watch the standing Tama-vs-Pearl source-conflict flag (Mike Mangini, Flo Mounier, Nick Menza, Vinnie Paul in `.agents/seo-plan.md`) — worth a dedicated CEO/founder ruling pass once the backlog drains, per the SEO Agent's repeated flag.
+
+---
+
+---
 ## 2026-09-02 10:40 — Deep run: 7 fresh gear-fabrication proposals promoted (#6698-6704); L1/L2/L3 confirmed still 08-31 generation, fully actioned
 
 ### Context (≤3 lines)

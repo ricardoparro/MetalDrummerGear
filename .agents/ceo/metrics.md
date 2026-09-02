@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-02 16:54 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-02 20:31 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,23 +8,23 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 297 |
-| Sessions | 342 |
-| Page views | 472 |
-| Engagement rate | 63.74% |
-| Avg session (s) | 290 |
+| Active users | 302 |
+| Sessions | 348 |
+| Page views | 477 |
+| Engagement rate | 62.64% |
+| Avg session (s) | 292 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
 | / | 33 | 25 |
 | /drummer/frost | 13 | 2 |
+| /drummer/john-otto | 11 | 10 |
 | /drummers | 11 | 4 |
-| /drummer/john-otto | 10 | 9 |
 | /drummer/mario-duplantier | 10 | 8 |
+| /drummer/jaska-raatikainen | 9 | 6 |
 | /drummer/eloy-casagrande | 8 | 6 |
 | /drummer/igor-cavalera | 7 | 6 |
-| /drummer/jaska-raatikainen | 7 | 5 |
 | /drummer/matt-greiner | 7 | 6 |
 | /lists/best-death-metal-drummers | 7 | 6 |
 
@@ -33,22 +33,23 @@
 | --- | --- | --- |
 | Organic Search | 289 | 249 |
 | Direct | 39 | 35 |
-| Unassigned | 23 | 21 |
+| Unassigned | 28 | 25 |
 | Referral | 5 | 5 |
+| Cross-network | 3 | 3 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 125 | 108 |
+| United States | 128 | 110 |
 | United Kingdom | 34 | 18 |
 | Canada | 15 | 14 |
 | Brazil | 14 | 13 |
 | China | 13 | 13 |
+| France | 12 | 12 |
 | Australia | 11 | 11 |
-| France | 11 | 11 |
 | Germany | 10 | 10 |
-| Finland | 8 | 8 |
-| India | 8 | 6 |
+| Finland | 9 | 9 |
+| Sweden | 9 | 9 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |

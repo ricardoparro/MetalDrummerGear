@@ -5,6 +5,37 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-09-02 02:57 UTC*
 
 ---
+## 2026-09-02 20:31 — Evening review: 6 fresh gear-fabrication proposals promoted (#6741-6746)
+
+### Context (≤3 lines)
+First run after 19:00 UTC (evening review). Metrics 20:31 UTC (302 users/348 sessions/477 views 7d; GSC 8,013 impr/184 clicks/2.30% CTR/pos 9.6, same as the 16:00 snapshot). Eligible `ai-fix` backlog 0 at run start (the 16:00 batch #6721-6724/#6726/#6740 all shipped/closed since), 0 open PRs, 6 fresh untriaged `seo-proposal` (#6741-6746, filed 17:00-17:03 UTC) plus the 3 standing L1/L2/L3 umbrellas.
+
+### Actions taken
+- **Promoted all 6** (`ai-fix`): same systemic gear-brand-fabrication class vs verified `endorsementNews.js`, split across `genreGearGuides.js` (3) and `drummerComparisons.js` (3). #6741 (Joey Jordison, 5 residual Zildjian-cymbal mentions across relatedDrummers/FAQ/usedBy/prose in `genreGearGuides.js` — prior fix #6552 only touched 2 `usedBy` entries, verified Paiste RUDE & 2002 since 2000), #6742 (Matt Greiner, cymbals/hardware fabricated as Zildjian/Meinl/Tama across 7 `genreGearGuides.js` guide locations vs verified Paiste Formula 602/DW 9000 since 2016, distinct field from prior #6502/#6379/#6377/#5708 fixes), #6743 (symphonic-metal drum-heads guide swaps Evans↔Remo across all 4 featured drummers — Daray should be Evans, Hellhammer/Frost/Jaska Raatikainen should be Remo), #6744 (Abe Cunningham drums fabricated as DW in the `ray-luzier-vs-abe-cunningham` entry vs verified Tama since 1997 — prior fix #6604 explicitly left this clause untouched, incorrectly calling it correct), #6745 (Shannon Larkin kit model fabricated as "Ddrum Reflex Series" in the `abe-cunningham-vs-shannon-larkin` entry vs verified ddrum Dios Series, confirmed correct at a sibling line 3617), #6746 (Kevin Talley kit model fabricated as "Pearl Masters Premium Legend" in the `kevin-talley-vs-george-kollias` entry vs verified Pearl Masters Custom/Reference Series). Live-verified all 6 directly via grep against both the fabricating file and source-of-truth (`endorsementNews.js`) — every cited line confirmed still present as described (#6741: 6 Zildjian hits incl. lines 5729/5736/10561/10726/10872 still live; #6742: Zildjian/Meinl/Tama hits at 10536/10874/11062/27369/27438/27710/27725/27744 vs verified Paiste/DW at endorsementNews.js:852-861; #6743: Daray/Hellhammer/Frost/Jaska Raatikainen sections confirmed swapped at lines ~3003/3043/3083/3123; #6744: line 242 "DW drums" confirmed; #6745: line 2219 "Ddrum Reflex Series" confirmed, Abe Cunningham's own clause correctly Tama; #6746: line 2330 "Pearl Masters Premium Legend" confirmed). Searched `state:all` per drummer/file for all 6 — no true duplicates (closed hits are different files/fields already fixed). All single- or dual-file text corrections on existing pages, zero new pages/URLs — freeze-compliant.
+- **Backlog gate**: 0 → 6, well under the 45/80 threshold; promoted liberally per rule.
+- **GSC content-gap**: same 3 rows as the 16:00 run (`metalforge` 507 impr/0.59% CTR/pos 6.9 — SERP name-collision precedent, held; `danny carey drum kit` 68 impr/1.47% CTR/pos 11.1 — ceiling-hold precedent, held; `jaska raatikainen` 72 impr/1.39% CTR/pos 8.2 — fix already filed and shipped this morning as #6740, GSC 7-day window hasn't rolled over yet to reflect it). No new action.
+- **L1/L2/L3** (#3810/#3819/#2211): all three snapshot files confirmed still the 2026-08-31 generation, already fully triaged. Next weekly refresh due ~09-07.
+- **Founder ideas**: inbox empty, unchanged since 06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 — all `updatedAt` unchanged, no re-spam.
+- **Atomic-split sweep**: the 6 newly-promoted issues were filed within the last few hours — nothing stagnant, none eligible. The 20 pre-existing `hold`-labeled `ai-fix` issues remain freeze-blocked roster/band splits.
+- **Starvation check**: post-triage backlog=6, bank=0 (excl. umbrellas) — technically under 15/≤2, but this is the 3rd fresh batch today (10:40/16:00/20:31 runs) — healthy, flowing cadence, not escalating.
+
+### State delta
+- ai-fix backlog: 0 → 6 (#6741-6746)
+- seo-proposal bank (excl. umbrellas): 6 → 0
+- Org/Sessions/Views (7d): 302/348/477 · GSC 8,013 impr/184 clicks/2.30% CTR/pos 9.6 (flat vs 16:00)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 6/6 fresh triaged, live-verified (6/6 direct grep), promoted, no duplicates, freeze-compliant. ✅ GSC-gap: 3 rows re-confirmed held/already-actioned per today's prior rulings, no new fix. ✅ L1/L2/L3: no fresh snapshot since 08-31, already actioned. ✅ Starvation: not triggered (healthy cadence). ✅ Atomic split: nothing stagnant. ✅ Decisions logged.
+
+### Next Run
+1. Watch #6741-6746 ship via Roadie/PR Merger.
+2. Next deep run ~07:00 UTC tomorrow: full metrics + GSC-gap + L1/L2/L3 close-the-loop pass.
+3. Watch for the next L1/L2/L3 weekly refresh (last 08-31, due ~09-07).
+4. Watch the standing Tama-vs-Pearl source-conflict flag (Mike Mangini, Flo Mounier, Nick Menza, Vinnie Paul in `.agents/seo-plan.md`) — still worth a dedicated ruling pass once the backlog drains.
+
+---
+
+---
 ## 2026-09-02 16:00 — Mid-day pulse: 5 fresh gear-fabrication proposals promoted (#6721-6724, #6726); new GSC-gap fix filed (#6740, jaska-raatikainen bare-name CTR)
 
 ### Context (≤3 lines)

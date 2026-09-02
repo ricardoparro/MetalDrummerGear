@@ -10078,7 +10078,7 @@ This guide breaks down the technique, gear, and practice approach behind Christy
       },
       {
         question: "What drums and pedals does Richard Christy use?",
-        answer: "Christy has played Pearl maple kits with bright Sabian cymbals, paired with Pearl Eliminator pedals. The adjustable cams on the Eliminator let him fine-tune response to support his even double bass, and the maple shells provide the versatility to cover both technical death metal and power metal."
+        answer: "Christy has played Pearl maple kits with bright Sabian cymbals, paired with Axis A Longboard pedals. Their direct-drive feel and immediate response support his famously even double bass, and the maple shells provide the versatility to cover both technical death metal and power metal."
       },
       {
         question: "How did Christy adapt from Death to Iced Earth?",

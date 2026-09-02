@@ -188,7 +188,8 @@ Tomas Haake (Meshuggah), Eloy Casagrande (Slipknot), and many modern metal drumm
           usedBy: [
             { name: "Tomas Haake", band: "Meshuggah", note: "Polyrhythmic precision" },
             { name: "Eloy Casagrande", band: "Slipknot", note: "Current Slipknot drummer" },
-            { name: "Matt Garstka", band: "Animals as Leaders", note: "Progressive metal virtuoso" }
+            { name: "Matt Garstka", band: "Animals as Leaders", note: "Progressive metal virtuoso" },
+            { name: "Derek Roddy", band: "Nile/Hate Eternal", note: "Speed legend" }
           ],
           verdict: "Best chain-drive option for death metal. Ideal for drummers who want speed but prefer chain feel.",
           rating: 4.7,
@@ -206,7 +207,7 @@ Tomas Haake (Meshuggah), Eloy Casagrande (Slipknot), and many modern metal drumm
           
           description: `The Axis A-Series is the original direct drive speed pedal and remains the choice of purists who demand the ultimate in response. The Laser trigger system (on A21 models) adds electronic capability for triggering samples. The microtune system allows incredibly precise adjustments.
 
-Derek Roddy, one of the fastest drummers ever recorded, helped develop and endorse Axis pedals. If you want the most linear, responsive feel possible and don't mind the premium price, Axis delivers.`,
+If you want the most linear, responsive feel possible and don't mind the premium price, Axis delivers.`,
           
           pros: [
             "Purest direct drive feel available",
@@ -229,7 +230,6 @@ Derek Roddy, one of the fastest drummers ever recorded, helped develop and endor
             weight: "4.0 kg (pair)"
           },
           usedBy: [
-            { name: "Derek Roddy", band: "Nile/Hate Eternal", note: "Speed legend" },
             { name: "Tim Yeung", band: "Morbid Angel", note: "Death metal veteran" },
             { name: "Kevin Talley", band: "Dying Fetus", note: "Brutal death metal" }
           ],
@@ -372,13 +372,13 @@ While not as common in pure death metal, the 9000 series is favored by drummers 
 - Linear, consistent response from start to finish
 - Faster return for sustained high-speed patterns  
 - Less "swing" in the action
-- Preferred by: George Kollias, Derek Roddy, Tim Yeung
+- Preferred by: George Kollias, Tim Yeung
 
 **Chain Drive:**
 - Slight "whip" effect at the end of the stroke
 - More traditional feel many drummers prefer
 - Can still achieve extreme speeds with proper technique
-- Preferred by: Tomas Haake, Chris Adler, many thrash drummers
+- Preferred by: Tomas Haake, Chris Adler, Derek Roddy, many thrash drummers
 
 **The Truth:** Both can work for death metal. George Kollias plays 280 BPM on direct drive. Tomas Haake plays equally insane polyrhythms on chain drive. Your technique matters more than the drive system.
 
@@ -7645,7 +7645,7 @@ The thrash community judges you by your precision and power, not your price tag.
     // SEO metadata
     title: "Best Drum Kits for Extreme Metal: 2026 Ultimate Guide",
     metaTitle: "Best Drum Kits for Extreme Metal 2026 | MetalForge Expert Guide",
-    description: "Best drum kits for extreme metal drumming: what George Kollias (Pearl Masterworks), Pete Sandoval (Tama Starclassic), Derek Roddy (DW Collector's Series), and Gene Hoglan (Sonor SQ2) actually play. Durable, deep-shelled kits built to survive sustained blast-beat abuse — ranked budget to pro.",
+    description: "Best drum kits for extreme metal drumming: what George Kollias (Pearl Masterworks), Pete Sandoval (Tama Starclassic), Derek Roddy (Tama Starclassic Bubinga), and Gene Hoglan (Sonor SQ2) actually play. Durable, deep-shelled kits built to survive sustained blast-beat abuse — ranked budget to pro.",
     seoKeywords: [
       'best drum kits for extreme metal',
       'extreme metal drum kit',
@@ -7682,13 +7682,13 @@ The thrash community judges you by your precision and power, not your price tag.
       title: "Why Extreme Metal Demolishes Ordinary Drum Kits",
       content: `Extreme metal — the blast-beat-driven end of death and black metal — puts more sustained physical stress on a drum kit than almost any other style of drumming. A single song can demand several unbroken minutes of 220-280 BPM single-stroke or gravity-blast patterns, hammering the same shells, lugs, and mounting hardware over and over without rest. A kit built for thrash or groove metal's stop-start dynamics will loosen, detune, and eventually fail under that kind of relentless, repetitive abuse. Extreme metal needs a kit engineered first for durability and sustained projection, with tone as a secondary concern.
 
-George Kollias — widely regarded as one of the fastest drummers ever recorded — drives Nile's dense, 280 BPM death metal assault on a Pearl Masterworks kit, chosen for shells that hold their tuning and projection night after night of touring-level blast abuse. Pete Sandoval built Morbid Angel's hyper-blast foundation on Tama hardware, whose deep Starclassic shells survive the "gravity blast" technique he pioneered. Derek Roddy earned the nickname "One Take" recording Hate Eternal's "King of All Kings" on a DW Collector's Series kit that stayed in tune through take after take of extreme-speed blast beats. Gene Hoglan, "The Atomic Clock," spent years of Testament and Dethklok touring on a Sonor SQ2 Heavy Maple kit built for the deep, resonant low end his metronomic technique demands.
+George Kollias — widely regarded as one of the fastest drummers ever recorded — drives Nile's dense, 280 BPM death metal assault on a Pearl Masterworks kit, chosen for shells that hold their tuning and projection night after night of touring-level blast abuse. Pete Sandoval built Morbid Angel's hyper-blast foundation on Tama hardware, whose deep Starclassic shells survive the "gravity blast" technique he pioneered. Derek Roddy earned the nickname "One Take" recording Hate Eternal's "King of All Kings" on a dense Tama Starclassic Bubinga kit that held up through take after take of extreme-speed blast beats. Gene Hoglan, "The Atomic Clock," spent years of Testament and Dethklok touring on a Sonor SQ2 Heavy Maple kit built for the deep, resonant low end his metronomic technique demands.
 
 This guide breaks down what actually makes a drum kit survive extreme metal's punishing demands — shell depth, ply count, hardware reinforcement, and tuning stability — with specific models from the drummers who've proven it on record, from budget-friendly starter kits to the professional rigs built for nightly blast-beat abuse.`,
       keyPoints: [
         "Deep, thick-ply shells outlast thinner, more sensitive shells under sustained blast-beat abuse",
         "George Kollias's Pearl Masterworks survives nightly 280 BPM touring demands",
-        "Derek Roddy recorded Hate Eternal's most extreme material in single takes on a DW Collector's kit that held its tuning throughout",
+        "Derek Roddy recorded Hate Eternal's most extreme material in single takes on a dense Tama Starclassic Bubinga kit that held up throughout",
         "Reinforced hardware and heavy-duty lugs matter as much as shell material for extreme metal durability"
       ]
     },
@@ -7718,7 +7718,7 @@ This guide breaks down what actually makes a drum kit survive extreme metal's pu
         {
           name: "Tuning Stability at Extreme Tempo",
           icon: "🎯",
-          description: "A kit that drifts sharp or dead after a few minutes of blast beats is unusable on stage or in the studio. Precision bearing edges and quality hoops — the foundation of Pearl Masterworks and DW Collector's shells — keep tuning locked through sustained extreme-tempo abuse.",
+          description: "A kit that drifts sharp or dead after a few minutes of blast beats is unusable on stage or in the studio. Precision bearing edges and quality hoops — the foundation of Pearl Masterworks and Tama Starclassic shells — keep tuning locked through sustained extreme-tempo abuse.",
           recommendation: "Precision bearing edges and quality hoops for tuning that holds through an entire blast-heavy set"
         },
         {
@@ -7822,43 +7822,43 @@ Birch's punchy, cutting attack projects clearly at extreme tempo without needing
         },
         {
           rank: 3,
-          name: "DW Collector's Series",
-          brand: "DW",
-          model: "Collector's Series Maple",
+          name: "Tama Starclassic Bubinga",
+          brand: "Tama",
+          model: "Starclassic Bubinga",
           image: "https://upload.wikimedia.org/wikipedia/commons/6/6c/Acoustic_Drums_Kit_%2829965183378%29.jpg",
-          priceRange: "€3000-6000 (shell pack)",
+          priceRange: "€2500-4500 (shell pack)",
           tier: "premium",
-          material: "Maple",
+          material: "Bubinga",
 
-          description: `Derek Roddy earned his nickname "One Take" recording Hate Eternal's "King of All Kings" on a DW Collector's Series kit — cutting entire extreme-speed drum tracks in single passes because the kit held its tuning through take after take of blast-beat abuse. His one-footed blast technique concentrates repeated force on a small area of the kick, and DW's True-Pitch tensioning and precision bearing edges kept it locked in tune throughout.
+          description: `Derek Roddy earned his nickname "One Take" recording Hate Eternal's "King of All Kings" on a dense Tama Starclassic Bubinga kit — cutting entire extreme-speed drum tracks in single passes on shells built to survive his one-footed blast technique take after take of blast-beat abuse.
 
-Hand-crafted in Oxnard, California, the Collector's Series pairs deep, resonant maple shells with reinforced hardware built to survive exactly the kind of sustained, repetitive abuse extreme metal recording sessions demand.`,
+Bubinga's dense hardwood construction pairs a punchy, focused low end with real projection, and Tama's reinforced hardware is built to survive exactly the kind of sustained, repetitive abuse extreme metal recording sessions demand.`,
 
           pros: [
-            "Derek Roddy's \"One Take\" kit — proven tuning stability across extreme-speed takes",
-            "True-Pitch tensioning keeps the kit locked in tune under sustained abuse",
-            "Hand-crafted maple shells with precision bearing edges",
+            "Derek Roddy's \"One Take\" kit — proven across extreme-speed takes",
+            "Bubinga's dense hardwood delivers a punchy, focused low end",
+            "Precision bearing edges for consistent response",
             "Reinforced hardware built for repeated, concentrated impact",
             "Exceptional build quality and long-term durability"
           ],
           cons: [
             "Very high price point",
-            "Made-to-order lead times",
-            "Warmer maple voicing needs tuning to cut at extreme tempo"
+            "Bubinga's density adds weight over lighter maple or birch shells",
+            "Made-to-order lead times for custom configurations"
           ],
           specs: {
-            shell: "Maple (True-Pitch tensioning)",
-            mount: "DW STM Suspension Mounts",
+            shell: "Bubinga",
+            mount: "Tama STAR-Cast Mounting System",
             finish: "Custom options available",
             kickSize: "22\" x 18\" standard",
             tomSizes: "Custom configurations available"
           },
           usedBy: [
-            { name: "Derek Roddy", band: "Hate Eternal", note: "DW Collector's Series — the \"One Take\" kit for extreme-speed recording" }
+            { name: "Derek Roddy", band: "Hate Eternal", note: "Tama Starclassic Bubinga — the \"One Take\" kit for extreme-speed recording" }
           ],
-          verdict: "The recording-session standard. If your kit needs to hold tune across take after take of blast beats, this is it.",
+          verdict: "The recording-session standard. If your kit needs to survive take after take of blast beats, this is it.",
           rating: 4.8,
-          affiliateLink: "https://www.thomann.de/intl/dw_drums_collectors_series.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/tama_starclassic_bubinga_series.htm?partner_id=metalforge"
         },
         {
           rank: 4,
@@ -7910,7 +7910,7 @@ Sonor's German engineering and reinforced hardware held up across years of deman
           tier: "budget",
           material: "Poplar/Birch Hybrid",
 
-          description: `The Pearl Export is the world's most popular starter kit, and its poplar/birch hybrid shells give developing extreme metal drummers a durable, budget-friendly foundation before investing in Masterworks or Collector's-tier hardware. It won't survive George Kollias's touring schedule indefinitely, but it will teach blast-beat technique reliably.
+          description: `The Pearl Export is the world's most popular starter kit, and its poplar/birch hybrid shells give developing extreme metal drummers a durable, budget-friendly foundation before investing in Masterworks or Starclassic-tier hardware. It won't survive George Kollias's touring schedule indefinitely, but it will teach blast-beat technique reliably.
 
 The Export's robust construction handles the daily practice abuse extreme metal technique-building demands better than most equivalently priced competitors, and its hardware, while basic, holds up reasonably well to committed development-stage playing.`,
 
@@ -7936,7 +7936,7 @@ The Export's robust construction handles the daily practice abuse extreme metal 
           usedBy: [
             { name: "Extreme metal drummers on a budget", band: "Various", note: "The industry-standard beginner kit" }
           ],
-          verdict: "Best budget extreme metal kit. Reinforce the heads, build your technique, and save for a Masterworks or Collector's kit.",
+          verdict: "Best budget extreme metal kit. Reinforce the heads, build your technique, and save for a Masterworks or Starclassic kit.",
           rating: 4.1,
           affiliateLink: "https://www.thomann.de/intl/pearl_export_series.htm?partner_id=metalforge"
         }
@@ -7985,7 +7985,7 @@ The Export's robust construction handles the daily practice abuse extreme metal 
 
     // Shell material comparison
     comparison: {
-      title: "Birch vs Maple vs Heavy Maple for Extreme Metal",
+      title: "Birch vs Maple vs Heavy Maple vs Bubinga for Extreme Metal",
       content: `Shell material affects both durability and tone under sustained blast-beat abuse:
 
 **Birch (Tama Starclassic, Pete Sandoval's choice):**
@@ -7994,11 +7994,16 @@ The Export's robust construction handles the daily practice abuse extreme metal 
 - Slightly lighter than heavy maple for touring transport
 - Proven across generations of hyper-blast drumming
 
-**Maple (Pearl Masterworks, DW Collector's — Kollias and Roddy's choice):**
+**Maple (Pearl Masterworks — Kollias's choice):**
 - Warmer, fuller tone with excellent tuning stability under stress
-- True-Pitch and custom-spec tensioning hold tune across extended takes
+- Custom-spec tensioning holds tune across extended takes
 - More versatile across extreme metal's technical and blast-driven passages
 - The premium standard for touring and recording durability
+
+**Bubinga (Tama Starclassic, Derek Roddy's choice):**
+- Dense hardwood delivers a punchy, focused low end with real projection
+- Proven across "One Take" extreme-speed recording sessions
+- Heavier than birch or standard maple, trading transport convenience for low-end weight
 
 **Heavy Maple (Sonor SQ2, Gene Hoglan's choice):**
 - Added shell mass for deeper low end and sustain
@@ -8026,8 +8031,8 @@ The Export's robust construction handles the daily practice abuse extreme metal 
         },
         {
           category: "Best for Studio Recording",
-          pedal: "DW Collector's Series",
-          reason: "Derek Roddy's \"One Take\" kit — hand-crafted maple that holds tune across extreme-speed takes."
+          pedal: "Tama Starclassic Bubinga",
+          reason: "Derek Roddy's \"One Take\" kit — dense bubinga proven across extreme-speed takes."
         },
         {
           category: "Best Heavy-Shell Option",
@@ -8052,14 +8057,14 @@ The Export's robust construction handles the daily practice abuse extreme metal 
     relatedDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Masterworks — surviving 280 BPM touring-level blast abuse' },
       { slug: 'pete-sandoval', name: 'Pete Sandoval', reason: 'Tama hardware — pioneer of the gravity blast technique' },
-      { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'DW Collector\'s Series — the "One Take" extreme-speed kit' },
+      { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Tama Starclassic Bubinga — the "One Take" extreme-speed kit' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'Sonor SQ2 Heavy Maple — The Atomic Clock\'s touring precision' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Masterworks — the extreme metal blast-beat durability benchmark' },
-      { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'DW Collector\'s Series — the "One Take" kit for extreme-speed recording' },
+      { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Tama Starclassic Bubinga — the "One Take" kit for extreme-speed recording' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'Sonor SQ2 Heavy Maple — The Atomic Clock\'s deep, durable low end' },
     ],
 
@@ -8071,7 +8076,7 @@ The Export's robust construction handles the daily practice abuse extreme metal 
       },
       {
         question: "What drum kit does Derek Roddy use?",
-        answer: "Derek Roddy of Hate Eternal plays a DW Collector's Series maple kit. He earned the nickname \"One Take\" recording extreme-speed material because DW's True-Pitch tensioning and precision bearing edges kept the kit in tune across take after take of blast-beat abuse."
+        answer: "Derek Roddy of Hate Eternal plays a dense Tama Starclassic Bubinga kit. He earned the nickname \"One Take\" recording extreme-speed material like Hate Eternal's \"King of All Kings\" in single passes, take after take of blast-beat abuse."
       },
       {
         question: "Why do extreme metal drummers need deeper shells?",
@@ -8087,14 +8092,14 @@ The Export's robust construction handles the daily practice abuse extreme metal 
       },
       {
         question: "Do I need a pro-level kit to play extreme metal?",
-        answer: "No — a Pearl Export or Tama Imperialstar will teach real blast-beat technique and survive daily practice at a fraction of the cost of a Masterworks or Collector's Series kit. Build your technique first, then upgrade to touring-grade durability once your playing and budget justify it."
+        answer: "No — a Pearl Export or Tama Imperialstar will teach real blast-beat technique and survive daily practice at a fraction of the cost of a Masterworks or Starclassic Bubinga kit. Build your technique first, then upgrade to touring-grade durability once your playing and budget justify it."
       }
     ],
 
     // Conclusion
     conclusion: {
       title: "Build a Kit That Survives the Blast Beat",
-      content: `Extreme metal drum kit choice comes down to one question above all others: will it survive sustained, repetitive blast-beat abuse without losing its tuning or projection? George Kollias's Pearl Masterworks and Derek Roddy's DW Collector's Series both answer that question with custom-specified, deep shells and precision hardware proven at the genre's most extreme tempos.
+      content: `Extreme metal drum kit choice comes down to one question above all others: will it survive sustained, repetitive blast-beat abuse without losing its tuning or projection? George Kollias's Pearl Masterworks and Derek Roddy's Tama Starclassic Bubinga both answer that question with deep, dense shells and precision hardware proven at the genre's most extreme tempos.
 
 Gene Hoglan's Sonor SQ2 Heavy Maple shows that added shell mass pays off across years of touring, while Pete Sandoval's Tama pedigree proves that a well-built Starclassic kit can survive the technique that defined hyper-blast drumming in the first place.
 
@@ -66407,7 +66412,7 @@ Budget shouldn't stop you either. A Pearl Export, Ludwig Acrolite, or Mapex Stor
     // SEO metadata
     title: "Best Bass Drums for Deathcore: 2026 Ultimate Guide",
     metaTitle: "Best Bass Drums for Deathcore in 2026 | MetalForge Expert Guide",
-    description: "Best bass drum setups for deathcore's blast-into-breakdown structure: what George Kollias (Pearl Masterworks), Flo Mounier (Tama Speed Cobra), Derek Roddy (DW/Axis), and Tim Yeung actually play. Rapid, high-headroom double bass — ranked budget to pro.",
+    description: "Best bass drum setups for deathcore's blast-into-breakdown structure: what George Kollias (Pearl Masterworks), Flo Mounier (Tama Speed Cobra), Derek Roddy (Tama Starclassic Bubinga), and Tim Yeung actually play. Rapid, high-headroom double bass — ranked budget to pro.",
     seoKeywords: [
       'best bass drums for deathcore',
       'deathcore bass drum setup',
@@ -66444,13 +66449,13 @@ Budget shouldn't stop you either. A Pearl Export, Ludwig Acrolite, or Mapex Stor
       title: "What Bass Drum Setup Handles Deathcore's Blast-Into-Breakdown Structure?",
       content: `Deathcore fuses death metal's blast beats and technical brutality with metalcore and hardcore's chugging, half-time breakdown pocket — and that split identity puts unusual demands on a bass drum setup. A single song can alternate between extreme-speed blast beat verses and slower, syncopated breakdown sections built for moshing, meaning the kick has to deliver both rapid, high-headroom double bass response and punchy, controlled low-end thump within the same track.
 
-George Kollias of Nile — whose documented 240+ BPM blast beats and instructional materials set the extreme-speed benchmark deathcore's blast sections measure themselves against — plays a Pearl Masterworks 22"x18" bass drum paired with his co-designed Pearl Demon XR double pedal for sustained, linear-action speed. Flo Mounier of Cryptopsy, whose technical death metal vocabulary fed directly into deathcore's development (Cryptopsy's own 2008 album "The Unspoken King" took an explicitly deathcore-leaning direction), runs a Tama Starclassic Maple bass drum with a Tama Speed Cobra double pedal built for rapid, precise response. Derek Roddy, whose swivel technique pushed blast beat speed past 260 BPM, pairs a DW Collector's Series bass drum with a DW 9000 double pedal and Axis longboards for maximum speed with minimal fatigue. Tim Yeung, who brought technical death metal speed directly into deathcore-leaning act Divine Heresy, runs a Pearl or Tama bass drum with a Pearl Demon Drive double pedal for trigger-assisted clarity at extreme tempos.
+George Kollias of Nile — whose documented 240+ BPM blast beats and instructional materials set the extreme-speed benchmark deathcore's blast sections measure themselves against — plays a Pearl Masterworks 22"x18" bass drum paired with his co-designed Pearl Demon XR double pedal for sustained, linear-action speed. Flo Mounier of Cryptopsy, whose technical death metal vocabulary fed directly into deathcore's development (Cryptopsy's own 2008 album "The Unspoken King" took an explicitly deathcore-leaning direction), runs a Tama Starclassic Maple bass drum with a Tama Speed Cobra double pedal built for rapid, precise response. Derek Roddy, whose swivel technique pushed blast beat speed past 260 BPM, pairs a dense Tama Starclassic Bubinga bass drum with a Tama Speed Cobra 910 double pedal for maximum speed with minimal fatigue. Tim Yeung, who brought technical death metal speed directly into deathcore-leaning act Divine Heresy, runs a Pearl or Tama bass drum with a Pearl Demon Drive double pedal for trigger-assisted clarity at extreme tempos.
 
 This guide breaks down shell size, head selection, and pedal choice for deathcore bass drums — comparing rapid, high-headroom setups across four drummers whose technical death metal and hardcore-adjacent lineages fed directly into the genre, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
         "George Kollias's Pearl Masterworks and Demon XR double pedal sustain 240+ BPM blast beats that deathcore's fastest sections demand",
         "22\" is the deathcore standard shell diameter — fast response with enough projection for breakdown-section punch",
-        "A rapid, lightweight double pedal (Pearl Demon XR, Tama Speed Cobra, DW 9000/Axis) is essential for the blast-to-breakdown transition",
+        "A rapid, lightweight double pedal (Pearl Demon XR, Tama Speed Cobra, Tama Speed Cobra 910) is essential for the blast-to-breakdown transition — Speed Cobra 910 is Roddy's tour-proven choice",
         "Reinforced, high-headroom batter heads handle both blast beat abuse and breakdown-section muffling without losing consistency"
       ]
     },
@@ -66583,43 +66588,43 @@ Mounier's setup emphasizes speed and response over raw power, an approach that t
         },
         {
           rank: 3,
-          name: "DW Collector's Series + DW 9000/Axis Longboard",
-          brand: "DW",
-          model: "Collector's Series 22\"x18\" + DW 9000/Axis Longboard",
+          name: "Tama Starclassic Bubinga + Speed Cobra 910",
+          brand: "Tama",
+          model: "Starclassic Bubinga 22\"x18\" + Speed Cobra 910",
           image: "https://upload.wikimedia.org/wikipedia/commons/6/6c/Acoustic_Drums_Kit_%2829965183378%29.jpg",
           priceRange: "€900-1300",
           tier: "pro",
-          material: "Maple, 22\"x18\" + longboard double pedal",
+          material: "Bubinga, 22\"x18\" + rapid-response double pedal",
 
-          description: `Derek Roddy's DW Collector's Series bass drum, run with a DW 9000 double pedal and Axis longboards, is built around the swivel technique that pushed blast beat speed past 260 BPM — a benchmark deathcore's most extreme blast sections still measure themselves against.
+          description: `Derek Roddy's dense Tama Starclassic Bubinga bass drum, run with a Tama Speed Cobra 910 double pedal, is built around the swivel technique that pushed blast beat speed past 260 BPM — a benchmark deathcore's most extreme blast sections still measure themselves against.
 
-Roddy has emphasized pedal setup and technique over gear choice throughout his career, and his longboard preference reflects a broader deathcore-relevant principle: efficient, low-fatigue footwork matters as much as raw shell size when a song demands both blast-beat endurance and breakdown-section power in the same four minutes.`,
+Roddy has emphasized pedal setup and technique over gear choice throughout his career, and the Speed Cobra 910's extended footboard reflects a broader deathcore-relevant principle: efficient, low-fatigue footwork matters as much as raw shell size when a song demands both blast-beat endurance and breakdown-section power in the same four minutes.`,
 
           pros: [
             "Derek Roddy's swivel-technique platform for 260+ BPM blast beats",
-            "Axis longboards support advanced, low-fatigue footwork techniques",
-            "22\"x18\" Collector's Series shell balances speed and projection",
-            "DW 9000 pedal delivers reliable, tourable durability",
+            "Speed Cobra 910's extended footboard supports advanced, low-fatigue footwork techniques",
+            "22\"x18\" dense bubinga shell balances speed and low-end projection",
+            "Speed Cobra 910 pedal delivers reliable, tourable durability",
             "Proven educational pedigree via Roddy's blast beat instructional materials"
           ],
           cons: [
-            "Premium Collector's Series and Axis longboard pricing",
-            "Longboard feel requires an adjustment period for drummers used to standard footboards",
-            "Custom Collector's configurations carry longer lead times"
+            "Premium Starclassic Bubinga pricing",
+            "Bubinga's dense weight adds to transport load",
+            "Custom Starclassic configurations carry longer lead times"
           ],
           specs: {
             diameter: "22\"",
             depth: "18\"",
-            shell: "Maple (Collector's Series)",
-            pedal: "DW 9000 double pedal with Axis longboards",
+            shell: "Bubinga (Starclassic)",
+            pedal: "Tama Speed Cobra 910 double pedal",
             headRecommendation: "Evans EMAD"
           },
           usedBy: [
-            { name: "Derek Roddy", band: "Hate Eternal", note: "22\"x18\" DW Collector's + DW 9000/Axis Longboard — swivel-technique 260+ BPM platform" }
+            { name: "Derek Roddy", band: "Hate Eternal", note: "22\"x18\" Starclassic Bubinga + Speed Cobra 910 — swivel-technique 260+ BPM platform" }
           ],
-          verdict: "Best for advanced footwork techniques. Roddy's longboard setup supports deathcore's most extreme blast sections.",
+          verdict: "Best for advanced footwork techniques. Roddy's Speed Cobra 910 setup supports deathcore's most extreme blast sections.",
           rating: 4.5,
-          affiliateLink: "https://www.thomann.de/intl/dw_collectors_axis_longboard.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/tama_starclassic_bubinga_speed_cobra.htm?partner_id=metalforge"
         },
         {
           rank: 4,
@@ -66702,7 +66707,7 @@ Yeung's versatility across Hate Eternal, Vital Remains, Morbid Angel, and Divine
 
     // Comparison
     comparison: {
-      title: "Pearl Demon XR vs Tama Speed Cobra vs DW 9000/Axis for Deathcore",
+      title: "Pearl Demon XR vs Tama Speed Cobra vs Tama Speed Cobra 910 for Deathcore",
       content: `Shell size stays consistent at 22\"x18\" across deathcore's closest technical death metal lineage, but pedal choice splits these drummers into distinct camps. Here's how they compare:
 
 **Pearl Demon XR (George Kollias):**
@@ -66715,7 +66720,7 @@ Yeung's versatility across Hate Eternal, Vital Remains, Morbid Angel, and Divine
 - Proven across Cryptopsy's own deathcore-leaning "The Unspoken King"
 - Best for drummers who want response over raw power
 
-**DW 9000 + Axis Longboard (Derek Roddy):**
+**Tama Speed Cobra 910 (Derek Roddy):**
 - Supports advanced swivel and heel-toe footwork techniques
 - Built around the technique that pushed blast beats past 260 BPM
 - Best for drummers developing advanced, low-fatigue footwork
@@ -66745,7 +66750,7 @@ Yeung's versatility across Hate Eternal, Vital Remains, Morbid Angel, and Divine
         },
         {
           category: "Best for Advanced Footwork",
-          pedal: "DW Collector's Series + DW 9000/Axis Longboard",
+          pedal: "Tama Starclassic Bubinga + Speed Cobra 910",
           reason: "Derek Roddy's swivel-technique platform for 260+ BPM blast beats and low-fatigue footwork."
         },
         {
@@ -66765,7 +66770,7 @@ Yeung's versatility across Hate Eternal, Vital Remains, Morbid Angel, and Divine
     relatedDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Masterworks + Demon XR — Nile\'s 240+ BPM blast-to-breakdown standard' },
       { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Tama Starclassic + Speed Cobra — Cryptopsy\'s direct deathcore lineage' },
-      { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'DW Collector\'s + Axis Longboard — swivel-technique 260+ BPM platform' },
+      { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Tama Starclassic Bubinga + Speed Cobra 910 — swivel-technique 260+ BPM platform' },
       { slug: 'tim-yeung', name: 'Tim Yeung', reason: 'Pearl/Tama + Demon Drive — Divine Heresy\'s deathcore-leaning speed' }
     ],
 
@@ -66773,7 +66778,7 @@ Yeung's versatility across Hate Eternal, Vital Remains, Morbid Angel, and Divine
     featuredDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Masterworks + Demon XR — Nile\'s 240+ BPM blast-to-breakdown standard' },
       { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Tama Starclassic + Speed Cobra — Cryptopsy\'s direct deathcore lineage' },
-      { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'DW Collector\'s + Axis Longboard — swivel-technique 260+ BPM platform' },
+      { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Tama Starclassic Bubinga + Speed Cobra 910 — swivel-technique 260+ BPM platform' },
       { slug: 'tim-yeung', name: 'Tim Yeung', reason: 'Pearl/Tama + Demon Drive — Divine Heresy\'s deathcore-leaning speed' }
     ],
 
@@ -66785,7 +66790,7 @@ Yeung's versatility across Hate Eternal, Vital Remains, Morbid Angel, and Divine
       },
       {
         question: "What bass drum pedal handles deathcore's blast-into-breakdown structure best?",
-        answer: "George Kollias's co-designed Pearl Demon XR is built for linear, direct action at sustained 240+ BPM, making it the benchmark for deathcore's fastest blast sections. Flo Mounier's Tama Speed Cobra and Derek Roddy's DW 9000/Axis Longboard setup are both strong alternatives, each optimized for slightly different footwork techniques."
+        answer: "George Kollias's co-designed Pearl Demon XR is built for linear, direct action at sustained 240+ BPM, making it the benchmark for deathcore's fastest blast sections. Flo Mounier's Tama Speed Cobra and Derek Roddy's Tama Speed Cobra 910 setup are both strong alternatives, each optimized for slightly different footwork techniques."
       },
       {
         question: "What bass drum size is best for deathcore?",
@@ -66804,11 +66809,11 @@ Yeung's versatility across Hate Eternal, Vital Remains, Morbid Angel, and Divine
     // Conclusion
     conclusion: {
       title: "Find Your Deathcore Bass Drum Setup",
-      content: `Deathcore bass drum choice comes down to how well your setup handles the jump between blast-beat verses and breakdown-driven choruses. George Kollias's Pearl Masterworks and Demon XR double pedal defined the extreme-speed benchmark the genre's fastest sections measure themselves against. Flo Mounier's Tama Speed Cobra setup shows the direct line from technical death metal into deathcore, proven on Cryptopsy's own deathcore-leaning "The Unspoken King." Derek Roddy's DW 9000/Axis Longboard rig demonstrates how advanced footwork technique can push blast beat speed even further, while Tim Yeung's trigger-assisted Pearl/Tama setup proves a reliable mid-pro rig can still deliver deathcore-caliber consistency.
+      content: `Deathcore bass drum choice comes down to how well your setup handles the jump between blast-beat verses and breakdown-driven choruses. George Kollias's Pearl Masterworks and Demon XR double pedal defined the extreme-speed benchmark the genre's fastest sections measure themselves against. Flo Mounier's Tama Speed Cobra setup shows the direct line from technical death metal into deathcore, proven on Cryptopsy's own deathcore-leaning "The Unspoken King." Derek Roddy's Tama Starclassic Bubinga + Speed Cobra 910 rig demonstrates how advanced footwork technique can push blast beat speed even further, while Tim Yeung's trigger-assisted Pearl/Tama setup proves a reliable mid-pro rig can still deliver deathcore-caliber consistency.
 
 None of these approaches is more "correct" — all four represent deathcore's founding commitment to combining extreme speed with breakdown-driven weight. Start with whichever pedal action matches your footwork technique, and don't be afraid to add triggers if live clarity becomes an issue.
 
-Budget shouldn't stop you either. A Pearl Export bass drum with a Tama Iron Cobra 900 double pedal will teach real blast-to-breakdown technique and survive demanding practice while you save toward the Demon XR, Speed Cobra, or Axis Longboard setups that defined this lineage's most extreme recordings.
+Budget shouldn't stop you either. A Pearl Export bass drum with a Tama Iron Cobra 900 double pedal will teach real blast-to-breakdown technique and survive demanding practice while you save toward the Demon XR, Speed Cobra, or Speed Cobra 910 setups that defined this lineage's most extreme recordings.
 
 🤘 **Now go blast into that breakdown.**`
     }
@@ -68528,12 +68533,12 @@ Budget shouldn't stop you either. A Tama Metalworks or Pearl Modern Utility snar
       title: "Why Extreme Metal Snares Have to Survive Before They Have to Sound Good",
       content: `Extreme metal — death metal, technical death metal, and the grindcore-adjacent brutality that surrounds them — places durability and speed demands on a snare drum that few other genres match. At 200-280 BPM sustained blast beats, a snare gets struck thousands of times a set, night after touring night, and has to keep firing instantly on every stroke long after ordinary snares would lose sensitivity or crack under the repeated impact.
 
-George Kollias of Nile plays a Pearl George Kollias Signature 14"x6.5" brass snare, relying on its cutting articulation to slice through Nile's densely layered technical death metal even while sustaining blast beats past 240 BPM. Pete Sandoval of Morbid Angel built his gravity-blast sound around a ddrum Dios 14"x6.5" maple snare, chosen for the warm, controlled response that survives his uniquely punishing technique. Derek Roddy of Hate Eternal and Nile plays a DW Collector's 14"x6.5" bronze snare, prized for the crack and durability that hold up across his "One Take" recording sessions and relentless touring schedule. Gene Hoglan of Death and Testament plays a Tama Gene Hoglan Signature 14"x8" steel snare, an exceptionally deep shell built for the thunderous power and cutting attack his metronomic "Atomic Clock" precision demands.
+George Kollias of Nile plays a Pearl George Kollias Signature 14"x6.5" brass snare, relying on its cutting articulation to slice through Nile's densely layered technical death metal even while sustaining blast beats past 240 BPM. Pete Sandoval of Morbid Angel built his gravity-blast sound around a ddrum Dios 14"x6.5" maple snare, chosen for the warm, controlled response that survives his uniquely punishing technique. Derek Roddy of Hate Eternal and Nile plays a Tama S.L.P. Black Brass 14"x6.5" snare, prized for the crack and durability that hold up across his "One Take" recording sessions and relentless touring schedule. Gene Hoglan of Death and Testament plays a Tama Gene Hoglan Signature 14"x8" steel snare, an exceptionally deep shell built for the thunderous power and cutting attack his metronomic "Atomic Clock" precision demands.
 
 This guide breaks down what actually makes a snare survive extreme metal's demands — durability, fast response, and consistent crack under sustained abuse — and recommends specific models across every budget, from a first touring-durable snare to the exact drums extreme metal's most demanding drummers play.`,
       keyPoints: [
         "Extreme metal's sustained blast beats destroy snares that work fine in slower metal styles — durability is not optional",
-        "George Kollias's Pearl Signature brass snare and Derek Roddy's DW Collector's bronze snare both prioritize cutting crack under repeated impact",
+        "George Kollias's Pearl Signature brass snare and Derek Roddy's Tama S.L.P. Black Brass snare both prioritize cutting crack under repeated impact",
         "Gene Hoglan's unusually deep 14x8\" steel snare shows how depth can add thunderous power without sacrificing attack",
         "14x6.5\" is the most common depth across extreme metal's fastest drummers, balancing crack, body, and fast response"
       ]
@@ -68546,8 +68551,8 @@ This guide breaks down what actually makes a snare survive extreme metal's deman
         {
           name: "Instant, Cutting Attack",
           icon: "⚡",
-          description: "George Kollias's brass snare and Derek Roddy's bronze snare are both voiced to speak instantly at 240+ BPM, so every stroke registers clearly instead of blurring into the wall of blast beats around it.",
-          recommendation: "Brass or bronze shells for cutting attack that projects through dense, downtuned mixes"
+          description: "George Kollias's brass snare and Derek Roddy's brass snare are both voiced to speak instantly at 240+ BPM, so every stroke registers clearly instead of blurring into the wall of blast beats around it.",
+          recommendation: "Brass shells for cutting attack that projects through dense, downtuned mixes"
         },
         {
           name: "Durability Under Sustained Abuse",
@@ -68628,43 +68633,43 @@ The brass shell adds warmth to the crack, keeping the snare musical and legible 
         },
         {
           rank: 2,
-          name: "DW Collector's Bronze",
-          brand: "DW",
-          model: "Collector's 14\"x6.5\" Bronze",
+          name: "Tama S.L.P. Black Brass",
+          brand: "Tama",
+          model: "S.L.P. Black Brass 14\"x6.5\"",
           image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Drums_01.jpg",
-          priceRange: "€500-650",
+          priceRange: "€450-600",
           tier: "premium",
-          material: "Bronze",
+          material: "Brass",
 
-          description: `Derek Roddy's DW Collector's 14"x6.5" bronze snare has carried "One Take" Roddy through decades of Hate Eternal and Nile sessions where he records entire drum tracks in a single pass. The bronze shell delivers a dark, cutting crack with enough durability to survive relentless touring alongside his one-footed blast technique.
+          description: `Derek Roddy's Tama S.L.P. Black Brass 14"x6.5" snare has carried "One Take" Roddy through decades of Hate Eternal and Nile sessions where he records entire drum tracks in a single pass. The brass shell delivers a bright, cutting crack with enough durability to survive relentless touring alongside his one-footed blast technique.
 
-Paired with Meinl Byzance cymbals and an Axis double pedal, the Collector's snare's reliability under pressure is exactly why Roddy has stuck with it across some of technical death metal's most demanding recording sessions.`,
+Paired with Meinl Byzance cymbals and a Tama Speed Cobra 910 double pedal, the S.L.P. snare's reliability under pressure is exactly why Roddy has stuck with it across some of technical death metal's most demanding recording sessions.`,
 
           pros: [
             "Derek Roddy's proven Hate Eternal/Nile setup — built for one-take recording pressure",
-            "Bronze shell delivers dark, cutting crack with real durability",
+            "Brass shell delivers bright, cutting crack with real durability",
             "Holds tuning across relentless touring and one-footed blast technique",
             "14x6.5\" depth versatile across blast beats and heavier passages",
-            "DW Collector's Series build quality and consistency"
+            "Tama S.L.P. build quality and consistency"
           ],
           cons: [
-            "Premium Collector's Series pricing",
-            "Darker bronze tone cuts less aggressively than brighter brass or steel",
-            "Heavier than shallower speed-focused snares"
+            "Premium S.L.P. Series pricing",
+            "Brighter brass tone cuts more aggressively than darker bronze or steel",
+            "Black nickel hardware finish shows wear over heavy touring use"
           ],
           specs: {
-            shell: "Bronze",
+            shell: "Brass",
             size: "14\" x 6.5\"",
             hoops: "Die-cast",
-            lugs: "DW Collector's tube lugs",
-            bestFor: "Dark, durable crack for touring and one-take recording pressure"
+            lugs: "Tama S.L.P. tube lugs",
+            bestFor: "Bright, cutting crack for touring and one-take recording pressure"
           },
           usedBy: [
-            { name: "Derek Roddy", band: "Hate Eternal / Nile", note: "DW Collector's 14\"x6.5\" Bronze — current setup" }
+            { name: "Derek Roddy", band: "Hate Eternal / Nile", note: "Tama S.L.P. Black Brass 14\"x6.5\" — current setup" }
           ],
-          verdict: "Best for touring durability and recording pressure. Roddy's bronze Collector's snare survives extreme metal's most demanding sessions.",
+          verdict: "Best for touring durability and recording pressure. Roddy's brass S.L.P. snare survives extreme metal's most demanding sessions.",
           rating: 4.6,
-          affiliateLink: "https://www.thomann.de/intl/dw_collectors_snare_bronze.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/tama_slp_black_brass_snare.htm?partner_id=metalforge"
         },
         {
           rank: 3,
@@ -68787,18 +68792,13 @@ The maple shell's warmth sits well against Morbid Angel's dense, downtuned guita
 
     // Brass vs bronze vs steel vs maple comparison
     comparison: {
-      title: "Brass vs Bronze vs Steel vs Maple for Extreme Metal Snares",
+      title: "Brass vs Steel vs Maple for Extreme Metal Snares",
       content: `Shell material splits extreme metal's fastest drummers into distinct camps. Here's how each compares:
 
-**Brass (George Kollias):**
+**Brass (George Kollias, Derek Roddy):**
 - Cutting, musical crack that stays legible at 240+ BPM
 - Standard 14x6.5\" depth balances speed and body
-- Best for: Technical death metal demanding instant, warm-edged attack
-
-**Bronze (Derek Roddy):**
-- Dark, durable crack built to survive touring and one-take recording pressure
-- 14x6.5\" depth versatile across blast beats and heavier sections
-- Best for: Drummers prioritizing durability and consistency under pressure
+- Best for: Technical death metal demanding instant, warm-edged attack and one-take recording durability
 
 **Steel (Gene Hoglan):**
 - Thunderous power from an unusually deep 14x8\" shell
@@ -68810,12 +68810,12 @@ The maple shell's warmth sits well against Morbid Angel's dense, downtuned guita
 - 14x6.5\" depth for balanced crack and body
 - Best for: Drummers wanting warmth and control under demanding technique
 
-**Our Recommendation:** Choose brass if you need instant, cutting crack at extreme tempos. Choose bronze if durability under sustained touring and recording pressure matters most. Choose steel if your playing leans on power and groove. Choose maple if you want warmth and control without sacrificing projection.`,
+**Our Recommendation:** Choose brass if you need instant, cutting crack at extreme tempos and durability under sustained touring and recording pressure. Choose steel if your playing leans on power and groove. Choose maple if you want warmth and control without sacrificing projection.`,
       comparisonTable: [
-        { feature: "Attack Speed", brass: "⭐⭐⭐⭐⭐", bronze: "⭐⭐⭐⭐", steel: "⭐⭐⭐⭐", maple: "⭐⭐⭐" },
-        { feature: "Durability", brass: "⭐⭐⭐⭐", bronze: "⭐⭐⭐⭐⭐", steel: "⭐⭐⭐⭐", maple: "⭐⭐⭐" },
-        { feature: "Low-End Power", brass: "⭐⭐⭐", bronze: "⭐⭐⭐⭐", steel: "⭐⭐⭐⭐⭐", maple: "⭐⭐⭐" },
-        { feature: "Price (entry)", brass: "€400+", bronze: "€500+", steel: "€400+", maple: "€300+" }
+        { feature: "Attack Speed", brass: "⭐⭐⭐⭐⭐", steel: "⭐⭐⭐⭐", maple: "⭐⭐⭐" },
+        { feature: "Durability", brass: "⭐⭐⭐⭐⭐", steel: "⭐⭐⭐⭐", maple: "⭐⭐⭐" },
+        { feature: "Low-End Power", brass: "⭐⭐⭐", steel: "⭐⭐⭐⭐⭐", maple: "⭐⭐⭐" },
+        { feature: "Price (entry)", brass: "€400+", steel: "€400+", maple: "€300+" }
       ]
     },
 
@@ -68830,7 +68830,7 @@ The maple shell's warmth sits well against Morbid Angel's dense, downtuned guita
         },
         {
           category: "Best for Touring Durability",
-          pedal: "DW Collector's Bronze",
+          pedal: "Tama S.L.P. Black Brass",
           reason: "Derek Roddy's proven setup — built to survive one-take recording pressure and relentless touring."
         },
         {
@@ -68856,7 +68856,7 @@ The maple shell's warmth sits well against Morbid Angel's dense, downtuned guita
     relatedDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl George Kollias Signature 14x6.5\" Brass — Nile\'s 240+ BPM blast beat endurance' },
       { slug: 'pete-sandoval', name: 'Pete Sandoval', reason: 'ddrum Dios 14x6.5\" Maple — pioneer of the gravity blast technique' },
-      { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'DW Collector\'s 14x6.5\" Bronze — one-take recording durability' },
+      { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Tama S.L.P. Black Brass 14x6.5\" — one-take recording durability' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'Tama Gene Hoglan Signature 14x8\" Steel — The Atomic Clock\'s thunderous power' }
     ],
 
@@ -68864,7 +68864,7 @@ The maple shell's warmth sits well against Morbid Angel's dense, downtuned guita
     featuredDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl George Kollias Signature 14x6.5\" Brass — Nile\'s 240+ BPM blast beat endurance' },
       { slug: 'pete-sandoval', name: 'Pete Sandoval', reason: 'ddrum Dios 14x6.5\" Maple — pioneer of the gravity blast technique' },
-      { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'DW Collector\'s 14x6.5\" Bronze — one-take recording durability' },
+      { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Tama S.L.P. Black Brass 14x6.5\" — one-take recording durability' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'Tama Gene Hoglan Signature 14x8\" Steel — The Atomic Clock\'s thunderous power' }
     ],
 
@@ -68879,8 +68879,8 @@ The maple shell's warmth sits well against Morbid Angel's dense, downtuned guita
         answer: "Pete Sandoval of Morbid Angel plays a ddrum Dios 14\"x6.5\" maple snare, chosen for the warm, controlled response that survives his gravity-blast technique — the single-footed approach he pioneered in extreme metal."
       },
       {
-        question: "Steel, brass, bronze, or maple snare for extreme metal?",
-        answer: "All four work at the highest level. George Kollias's brass snare delivers cutting, musical attack; Derek Roddy's bronze snare offers dark, durable crack; Gene Hoglan's deep steel snare provides thunderous power; and Pete Sandoval's maple snare gives warm, controlled response. Match the material to whether you prioritize speed, durability, power, or warmth."
+        question: "Steel, brass, or maple snare for extreme metal?",
+        answer: "All three work at the highest level. George Kollias's and Derek Roddy's brass snares deliver cutting, musical attack with real durability; Gene Hoglan's deep steel snare provides thunderous power; and Pete Sandoval's maple snare gives warm, controlled response. Match the material to whether you prioritize speed, durability, power, or warmth."
       },
       {
         question: "What size snare is best for extreme metal?",
@@ -68895,11 +68895,11 @@ The maple shell's warmth sits well against Morbid Angel's dense, downtuned guita
     // Conclusion
     conclusion: {
       title: "Find Your Extreme Metal Snare Voice",
-      content: `Extreme metal snare choice comes down to how much instant, cutting crack your blast beats demand versus how much durability, power, or warmth you need to survive touring and recording. George Kollias's Pearl signature brass snare defined the cutting, musical standard for technical death metal speed. Derek Roddy's DW bronze Collector's snare proved durability under one-take recording pressure and relentless touring. Gene Hoglan's unusually deep steel signature snare shows how thunderous power can anchor groove-heavy extreme metal, while Pete Sandoval's maple ddrum Dios snare demonstrates that warmth and control can still cut through the genre's harshest sonic environment.
+      content: `Extreme metal snare choice comes down to how much instant, cutting crack your blast beats demand versus how much durability, power, or warmth you need to survive touring and recording. George Kollias's Pearl signature brass snare defined the cutting, musical standard for technical death metal speed. Derek Roddy's Tama S.L.P. Black Brass snare proved durability under one-take recording pressure and relentless touring. Gene Hoglan's unusually deep steel signature snare shows how thunderous power can anchor groove-heavy extreme metal, while Pete Sandoval's maple ddrum Dios snare demonstrates that warmth and control can still cut through the genre's harshest sonic environment.
 
 None of these approaches is more "correct" — all four represent extreme metal's founding commitment to snares that survive sustained blast beat abuse without sacrificing crack. Start with whichever voicing matches your material's balance of speed, power, and durability.
 
-Budget shouldn't stop you either. A Tama Metalworks or Pearl Sensitone snare will teach real technique and survive demanding daily practice while you save toward the signature and Collector's Series snares that defined this lineage's most influential records.
+Budget shouldn't stop you either. A Tama Metalworks or Pearl Sensitone snare will teach real technique and survive demanding daily practice while you save toward the signature and S.L.P. snares that defined this lineage's most influential records.
 
 🤘 **Now go blast.**`
     }
@@ -68951,13 +68951,13 @@ Budget shouldn't stop you either. A Tama Metalworks or Pearl Sensitone snare wil
       title: "Why Technical Death Metal Needs a Snare That Never Loses the Thread",
       content: `Technical death metal layers blast beats, odd-meter shifts, and dense ghost-note fills on top of each other, often within the same bar. A snare that can't respond instantly and consistently at every dynamic level doesn't just sound flat — it makes the genre's calculated rhythmic complexity unreadable, burying intricate patterns under an undifferentiated wall of noise.
 
-George Kollias of Nile plays a Pearl George Kollias Signature 14"x6.5" brass snare, its cutting articulation keeping every accent legible whether he's locked into a straight blast beat or threading a technical fill through Nile's densely layered arrangements. Hannes Grossmann of Obscura plays a DW Collectors 14"x5.5" maple snare, a shallower shell chosen for the fast, precise response his classically-influenced odd-meter compositions demand. Flo Mounier of Cryptopsy plays a Pearl Reference 14"x5" steel snare, its tight, cutting attack built to slice through Cryptopsy's dense, churning technical arrangements. Derek Roddy of Hate Eternal plays a DW Collector's 14"x6.5" bronze snare, the same reliable setup that let him record entire drum tracks in a single take and earn the nickname "One Take."
+George Kollias of Nile plays a Pearl George Kollias Signature 14"x6.5" brass snare, its cutting articulation keeping every accent legible whether he's locked into a straight blast beat or threading a technical fill through Nile's densely layered arrangements. Hannes Grossmann of Obscura plays a DW Collectors 14"x5.5" maple snare, a shallower shell chosen for the fast, precise response his classically-influenced odd-meter compositions demand. Flo Mounier of Cryptopsy plays a Pearl Reference 14"x5" steel snare, its tight, cutting attack built to slice through Cryptopsy's dense, churning technical arrangements. Derek Roddy of Hate Eternal plays a Tama S.L.P. Black Brass 14"x6.5" snare, the same reliable setup that let him record entire drum tracks in a single take and earn the nickname "One Take."
 
 This guide breaks down what actually makes a snare work for technical death metal's precision demands — instant response, ghost-note sensitivity, and consistency across odd-meter complexity — and recommends specific models across every budget, from a first precision-capable snare to the exact drums the genre's most demanding drummers play.`,
       keyPoints: [
         "Technical death metal demands instant, legible response for both blast beats and dense, ghost-note-heavy fills within the same bar",
         "Hannes Grossmann's shallower 14x5.5\" maple snare and Flo Mounier's 14x5\" steel snare both trade depth for faster, more precise response",
-        "George Kollias's brass snare and Derek Roddy's bronze snare show that deeper, warmer shells can still deliver technical precision",
+        "George Kollias's and Derek Roddy's brass snares show that deeper shells can still deliver technical precision",
         "13\"-14\" diameters with 5\"-6.5\" depths dominate technical death metal, favoring speed and articulation over maximum body"
       ]
     },
@@ -68987,7 +68987,7 @@ This guide breaks down what actually makes a snare work for technical death meta
         {
           name: "Deeper Shells for Recording Consistency",
           icon: "🎙️",
-          description: "Derek Roddy's 14x6.5\" bronze DW Collector's snare provides the consistency and body that made his one-take recording sessions possible — a slightly deeper shell that still keeps up with technical demands.",
+          description: "Derek Roddy's 14x6.5\" Tama S.L.P. Black Brass snare provides the consistency and body that made his one-take recording sessions possible — a slightly deeper shell that still keeps up with technical demands.",
           recommendation: "A 14x6.5\" depth if you need a balance of body and precision for studio-quality consistency"
         },
         {
@@ -69131,43 +69131,43 @@ Mounier's playing on landmark albums like "None So Vile" and "Whisper Supremacy"
         },
         {
           rank: 4,
-          name: "DW Collector's Bronze",
-          brand: "DW",
-          model: "Collector's 14\"x6.5\" Bronze",
+          name: "Tama S.L.P. Black Brass",
+          brand: "Tama",
+          model: "S.L.P. Black Brass 14\"x6.5\"",
           image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Drums_01.jpg",
-          priceRange: "€500-650",
+          priceRange: "€450-600",
           tier: "premium",
-          material: "Bronze",
+          material: "Brass",
 
-          description: `Derek Roddy's DW Collector's 14"x6.5" bronze snare is the same reliable setup that let "One Take" Roddy record entire drum tracks for Hate Eternal's "King of All Kings" and "I, Monarch" in a single pass. Consistency under recording pressure is exactly what technical death metal's dense, unforgiving arrangements demand.
+          description: `Derek Roddy's Tama S.L.P. Black Brass 14"x6.5" snare is the same reliable setup that let "One Take" Roddy record entire drum tracks for Hate Eternal's "King of All Kings" and "I, Monarch" in a single pass. Consistency under recording pressure is exactly what technical death metal's dense, unforgiving arrangements demand.
 
-The bronze shell's dark, cutting crack holds up whether Roddy is locked into a straight blast beat or navigating one of Hate Eternal's dense technical passages, proving reliability and technicality aren't mutually exclusive.`,
+The brass shell's bright, cutting crack holds up whether Roddy is locked into a straight blast beat or navigating one of Hate Eternal's dense technical passages, proving reliability and technicality aren't mutually exclusive.`,
 
           pros: [
             "Derek Roddy's proven Hate Eternal setup — built for one-take recording consistency",
-            "Bronze shell delivers dark, cutting crack with real durability",
+            "Brass shell delivers bright, cutting crack with real durability",
             "Deeper 14x6.5\" shell balances precision with body",
             "Holds tuning across demanding technical passages and full-force accents",
-            "DW Collector's Series build quality and reliability"
+            "Tama S.L.P. build quality and reliability"
           ],
           cons: [
-            "Premium Collector's Series pricing",
-            "Darker bronze tone cuts less aggressively than brighter brass or steel",
+            "Premium S.L.P. Series pricing",
+            "Brighter brass tone cuts more aggressively than darker bronze or steel",
             "Deeper shell trades some response speed for body versus shallower alternatives"
           ],
           specs: {
-            shell: "Bronze",
+            shell: "Brass",
             size: "14\" x 6.5\"",
             hoops: "Die-cast",
-            lugs: "DW Collector's tube lugs",
-            bestFor: "Consistent, dark crack for one-take recording and dense technical passages"
+            lugs: "Tama S.L.P. tube lugs",
+            bestFor: "Consistent, bright crack for one-take recording and dense technical passages"
           },
           usedBy: [
-            { name: "Derek Roddy", band: "Hate Eternal", note: "DW Collector's 14\"x6.5\" Bronze — current setup" }
+            { name: "Derek Roddy", band: "Hate Eternal", note: "Tama S.L.P. Black Brass 14\"x6.5\" — current setup" }
           ],
-          verdict: "Best for recording consistency under pressure. Roddy's bronze Collector's snare has proven itself across one-take sessions.",
+          verdict: "Best for recording consistency under pressure. Roddy's brass S.L.P. snare has proven itself across one-take sessions.",
           rating: 4.5,
-          affiliateLink: "https://www.thomann.de/intl/dw_collectors_snare_bronze.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/tama_slp_black_brass_snare.htm?partner_id=metalforge"
         }
       ]
     },
@@ -69210,13 +69210,13 @@ The bronze shell's dark, cutting crack holds up whether Roddy is locked into a s
 
     // Brass vs maple vs steel vs bronze comparison
     comparison: {
-      title: "Brass vs Maple vs Steel vs Bronze for Technical Death Metal Snares",
+      title: "Brass vs Maple vs Steel for Technical Death Metal Snares",
       content: `Shell material and depth split technical death metal's leading drummers into distinct camps. Here's how each compares:
 
-**Brass (George Kollias):**
+**Brass (George Kollias, Derek Roddy):**
 - Cutting, musical crack that stays legible on both blast beats and technical fills
-- Standard 14x6.5\" depth balances speed and body
-- Best for: Drummers needing one snare that serves both raw speed and refined articulation
+- Standard 14x6.5\" depth balances speed, body, and one-take recording consistency
+- Best for: Drummers needing one snare that serves both raw speed, refined articulation, and studio consistency
 
 **Maple (Hannes Grossmann):**
 - Fast, precise response from a shallower 14x5.5\" shell
@@ -69228,17 +69228,12 @@ The bronze shell's dark, cutting crack holds up whether Roddy is locked into a s
 - Tight, cutting attack through dense mixes
 - Best for: Machine-gun blast beats and the most inhuman-speed technical patterns
 
-**Bronze (Derek Roddy):**
-- Dark, durable crack proven across one-take recording sessions
-- Deeper 14x6.5\" shell balances precision with body
-- Best for: Studio consistency and dense technical passages under recording pressure
-
-**Our Recommendation:** Choose brass if you need one snare that handles both speed and technicality. Choose maple or steel with a shallower depth if ghost-note precision and instant response matter most. Choose bronze if recording consistency and durability are the priority.`,
+**Our Recommendation:** Choose brass if you need one snare that handles speed, technicality, and recording consistency. Choose maple or steel with a shallower depth if ghost-note precision and instant response matter most.`,
       comparisonTable: [
-        { feature: "Response Speed", brass: "⭐⭐⭐⭐", maple: "⭐⭐⭐⭐⭐", steel: "⭐⭐⭐⭐⭐", bronze: "⭐⭐⭐" },
-        { feature: "Ghost Note Sensitivity", brass: "⭐⭐⭐⭐", maple: "⭐⭐⭐⭐⭐", steel: "⭐⭐⭐⭐", bronze: "⭐⭐⭐" },
-        { feature: "Recording Consistency", brass: "⭐⭐⭐⭐", maple: "⭐⭐⭐⭐", steel: "⭐⭐⭐", bronze: "⭐⭐⭐⭐⭐" },
-        { feature: "Price (entry)", brass: "€400+", maple: "€450+", steel: "€350+", bronze: "€500+" }
+        { feature: "Response Speed", brass: "⭐⭐⭐⭐", maple: "⭐⭐⭐⭐⭐", steel: "⭐⭐⭐⭐⭐" },
+        { feature: "Ghost Note Sensitivity", brass: "⭐⭐⭐⭐", maple: "⭐⭐⭐⭐⭐", steel: "⭐⭐⭐⭐" },
+        { feature: "Recording Consistency", brass: "⭐⭐⭐⭐⭐", maple: "⭐⭐⭐⭐", steel: "⭐⭐⭐" },
+        { feature: "Price (entry)", brass: "€400+", maple: "€450+", steel: "€350+" }
       ]
     },
 
@@ -69280,7 +69275,7 @@ The bronze shell's dark, cutting crack holds up whether Roddy is locked into a s
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl George Kollias Signature 14x6.5\" Brass — Nile\'s technical speed-and-precision standard' },
       { slug: 'hannes-grossmann', name: 'Hannes Grossmann', reason: 'DW Collectors 14x5.5\" Maple — Obscura\'s classically-influenced odd-meter precision' },
       { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Pearl Reference 14x5\" Steel — Cryptopsy\'s machine-gun blast beat speed' },
-      { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'DW Collector\'s 14x6.5\" Bronze — one-take recording consistency' }
+      { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Tama S.L.P. Black Brass 14x6.5\" — one-take recording consistency' }
     ],
 
     // Featured drummers (issue template)
@@ -69288,7 +69283,7 @@ The bronze shell's dark, cutting crack holds up whether Roddy is locked into a s
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl George Kollias Signature 14x6.5\" Brass — Nile\'s technical speed-and-precision standard' },
       { slug: 'hannes-grossmann', name: 'Hannes Grossmann', reason: 'DW Collectors 14x5.5\" Maple — Obscura\'s classically-influenced odd-meter precision' },
       { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Pearl Reference 14x5\" Steel — Cryptopsy\'s machine-gun blast beat speed' },
-      { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'DW Collector\'s 14x6.5\" Bronze — one-take recording consistency' }
+      { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Tama S.L.P. Black Brass 14x6.5\" — one-take recording consistency' }
     ],
 
     // FAQ section for SEO
@@ -69318,7 +69313,7 @@ The bronze shell's dark, cutting crack holds up whether Roddy is locked into a s
     // Conclusion
     conclusion: {
       title: "Find Your Technical Death Metal Snare Voice",
-      content: `Technical death metal snare choice comes down to how much instant, ghost-note-sensitive precision your fills demand versus how much body and durability you need for touring and recording. George Kollias's Pearl signature brass snare proved that one shell can serve both raw blast-beat speed and refined technical articulation. Hannes Grossmann's shallower maple Collectors snare and Flo Mounier's even shallower steel Reference snare both show how trading depth for speed sharpens ghost-note response on the genre's densest fills. Derek Roddy's bronze DW Collector's snare demonstrates that consistency under one-take recording pressure doesn't have to come at the expense of technicality.
+      content: `Technical death metal snare choice comes down to how much instant, ghost-note-sensitive precision your fills demand versus how much body and durability you need for touring and recording. George Kollias's Pearl signature brass snare proved that one shell can serve both raw blast-beat speed and refined technical articulation. Hannes Grossmann's shallower maple Collectors snare and Flo Mounier's even shallower steel Reference snare both show how trading depth for speed sharpens ghost-note response on the genre's densest fills. Derek Roddy's Tama S.L.P. Black Brass snare demonstrates that consistency under one-take recording pressure doesn't have to come at the expense of technicality.
 
 None of these approaches is more "correct" — all four represent technical death metal's founding commitment to snares that never lose the thread, no matter how dense the arrangement gets. Start with whichever voicing matches your material's balance of speed, precision, and body.
 
@@ -104734,7 +104729,7 @@ This guide covers exactly what makes a bass drum pedal work across extreme metal
       keyPoints: [
         "Extreme metal spans death, thrash, and black metal, but all three converge on sustained, blast-beat-capable pedal speed",
         "George Kollias and Gene Hoglan both prioritize predictable, repeatable action at extreme, sustained tempo",
-        "Derek Roddy's Axis pedals gave him the linear response behind his \"One Take\" recording reputation",
+        "Derek Roddy's Tama Speed Cobra 910 gave him the rapid, precise response behind his \"One Take\" recording reputation",
         "Dave Lombardo's Pearl Demon Drive carried the speed and precision behind \"Reign in Blood,\" thrash's gateway into extreme metal"
       ]
     },
@@ -104752,7 +104747,7 @@ This guide covers exactly what makes a bass drum pedal work across extreme metal
         {
           name: "Direct Drive vs Chain Drive",
           icon: "⚙️",
-          description: "Direct drive pedals like the Axis A Longboard give Derek Roddy's one-footed blast technique a completely linear, zero-slack response. Chain drive pedals like George Kollias's Iron Cobra give a small amount of natural give that many drummers find easier to control at extreme tempo.",
+          description: "Chain drive pedals like Derek Roddy's Tama Speed Cobra 910 and George Kollias's Iron Cobra give a small amount of natural give that many drummers find easier to control at extreme tempo. Direct drive pedals offer a completely linear, zero-slack response instead.",
           recommendation: "Direct drive for maximum linear response; chain drive for a more forgiving, controllable feel"
         },
         {
@@ -104856,40 +104851,40 @@ DW's signature smooth, predictable action makes this pedal a genre-agnostic choi
         },
         {
           rank: 3,
-          name: "Axis A Longboard",
-          brand: "Axis",
-          model: "A21-2 Laser Double Pedal",
+          name: "Tama Speed Cobra 910",
+          brand: "Tama",
+          model: "HP910LWN Speed Cobra 910",
           image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg",
-          priceRange: "€750-900",
-          tier: "premium",
-          driveType: "Direct Drive",
-          description: `Derek Roddy — one of the fastest drummers ever recorded and the drummer behind Hate Eternal's "King of All Kings" — helped develop and endorse Axis pedals, earning the nickname "One Take" for cutting entire extreme-speed tracks in single passes because the pedal's zero-slack direct drive delivered identical response stroke after stroke.
+          priceRange: "€450-550",
+          tier: "pro",
+          driveType: "Chain Drive (Speedo-Ring)",
+          description: `Derek Roddy — one of the fastest drummers ever recorded and the drummer behind Hate Eternal's "King of All Kings" — drives his signature speed on a Tama Speed Cobra 910, earning the nickname "One Take" for cutting entire extreme-speed tracks in single passes because the pedal's Speedo-Ring sprocket delivered identical response stroke after stroke.
 
-The microtune system allows incredibly precise spring and beater adjustments, and the Longboard footboard extends the platform for drummers using heel-toe technique to extract even more speed.`,
+The extended Cobra footboard allows precise spring and beater adjustments, and its extra-long design gives drummers using heel-toe technique room to extract even more speed.`,
           pros: [
-            "Derek Roddy's endorsement — the 'One Take' consistency behind Hate Eternal's most extreme recordings",
-            "Purest direct drive feel available, zero mechanical slack",
-            "Microtune system for precise adjustments",
-            "Made in USA, exceptional build quality"
+            "Derek Roddy's setup — the 'One Take' consistency behind Hate Eternal's most extreme recordings",
+            "Speedo-Ring sprocket blends chain-drive feel with direct-drive smoothness",
+            "LiteSprocket design reduces weight",
+            "Excellent value for pro-level performance"
           ],
           cons: [
-            "Premium price — significantly more than chain drive competitors",
-            "Steeper learning curve coming from chain drive",
-            "Not as widely stocked as Tama or DW"
+            "Not as linear as true direct drive",
+            "Takes time to adjust to the Speedo-Ring feel",
+            "Some find the footboard too long"
           ],
           specs: {
-            drive: "Direct drive",
-            cam: "Eccentric cam",
-            frame: "Aircraft-grade aluminum",
-            beater: "Axis Sonic Hammer",
-            footboard: "Variable length longboard"
+            drive: "Chain drive (Speedo-Ring)",
+            cam: "Speedo-Ring sprocket",
+            frame: "Aluminum",
+            beater: "Cobra Beater (dual surface)",
+            footboard: "Extra-Long Cobra Design"
           },
           usedBy: [
-            { name: "Derek Roddy", band: "Hate Eternal / Nile", note: "Axis pedals — the 'One Take' zero-slack consistency" }
+            { name: "Derek Roddy", band: "Hate Eternal / Nile", note: "Tama Speed Cobra 910 — the 'One Take' consistency" }
           ],
-          verdict: "Best for drummers chasing the most linear, consistent response possible at extreme tempo.",
+          verdict: "Best for drummers chasing rapid, precise response with a hint of natural chain-drive feel.",
           rating: 4.7,
-          affiliateLink: "https://www.thomann.de/intl/axis_a_longboard_double_pedal.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/tama_hp910lwn_speed_cobra_double.htm?partner_id=metalforge"
         },
         {
           rank: 4,
@@ -104997,8 +104992,8 @@ Nearly four decades later, the Demon Drive remains an industry standard precisel
         },
         {
           category: "Best for Maximum Consistency",
-          pedal: "Axis A Longboard",
-          reason: "Derek Roddy's 'One Take' zero-slack direct drive, proven in the studio and on tour."
+          pedal: "Tama Speed Cobra 910",
+          reason: "Derek Roddy's 'One Take' consistency, proven in the studio and on tour."
         }
       ]
     },
@@ -105013,7 +105008,7 @@ Nearly four decades later, the Demon Drive remains an industry standard precisel
     relatedDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Tama Iron Cobra 900 — sustaining 240+ BPM blast beats with Nile' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'DW hardware — The Atomic Clock\'s consistency across death and thrash' },
-      { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Axis pedals — the \'One Take\' zero-slack consistency behind Hate Eternal' },
+      { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Tama Speed Cobra 910 — the \'One Take\' consistency behind Hate Eternal' },
       { slug: 'dave-lombardo', name: 'Dave Lombardo', reason: 'Pearl Demon Drive — the speed and precision behind "Reign in Blood"' }
     ],
 
@@ -105034,11 +105029,11 @@ Nearly four decades later, the Demon Drive remains an industry standard precisel
       },
       {
         question: "Direct drive or chain drive for extreme metal?",
-        answer: "Both work at the highest level. Derek Roddy's Axis A Longboard and Dave Lombardo's Pearl Demon Drive use direct drive for zero-slack, maximally linear response. George Kollias's Tama Iron Cobra and Gene Hoglan's DW 5000 Turbo use chain drive for a more forgiving, controllable feel at the same extreme tempos."
+        answer: "Both work at the highest level. Dave Lombardo's Pearl Demon Drive uses direct drive for zero-slack, maximally linear response. George Kollias's Tama Iron Cobra, Gene Hoglan's DW 5000 Turbo, and Derek Roddy's Tama Speed Cobra 910 use chain drive for a more forgiving, controllable feel at the same extreme tempos."
       },
       {
         question: "What pedal does Derek Roddy use?",
-        answer: "Derek Roddy helped develop and endorses Axis pedals, whose zero-slack direct drive gave him the identical, repeatable response behind his \"One Take\" reputation — recording Hate Eternal's most extreme material in single passes."
+        answer: "Derek Roddy drives his signature speed on a Tama Speed Cobra 910, whose Speedo-Ring sprocket gave him the identical, repeatable response behind his \"One Take\" reputation — recording Hate Eternal's most extreme material in single passes."
       },
       {
         question: "What's a good budget bass drum pedal for extreme metal?",
@@ -105051,7 +105046,7 @@ Nearly four decades later, the Demon Drive remains an industry standard precisel
       title: "Build Your Cross-Genre Speed Foundation",
       content: `Extreme metal's low end lives or dies on sustained, blast-beat-capable pedal speed, whatever subgenre you're playing. George Kollias didn't reach 240+ BPM by accident — the Iron Cobra's wide, lockable tension range gave him a platform to develop strokes that stay consistent across an entire album cycle. Gene Hoglan's decades of technically precise drumming across death metal and thrash prove the same principle applies genre-wide: dependable, predictable hardware is what lets extreme speed become second nature.
 
-Derek Roddy's Axis pedals and Dave Lombardo's Pearl Demon Drive show the direct drive alternative — zero-slack response that's carried some of extreme metal's most influential recordings, from "Reign in Blood" through Hate Eternal's most punishing material. Whichever drive system you choose, prioritize consistency over raw top-end numbers — a pedal that's fast for eight bars and then fatigues is worse than useless on stage.
+Derek Roddy's Tama Speed Cobra 910 and Dave Lombardo's Pearl Demon Drive show two different paths to the same result — consistent response that's carried some of extreme metal's most influential recordings, from "Reign in Blood" through Hate Eternal's most punishing material. Whichever drive system you choose, prioritize consistency over raw top-end numbers — a pedal that's fast for eight bars and then fatigues is worse than useless on stage.
 
 🤘 **Blast it. Own the tempo. Repeat.**`
     }
@@ -111269,14 +111264,14 @@ Whatever you choose, prioritize reinforced tension bolts and oversized, tip-resi
       title: "Why Technical Death Metal Hardware Can't Tolerate Even a Millimeter of Drift",
       content: `Technical death metal pushes both tempo and precision further than almost any other style of metal. Blast beats sustained well past 240 BPM, dense multi-part arrangements with exact cymbal and tom placement, and rapid, constantly shifting subdivisions all combine to put sustained, high-frequency vibration through hardware in a way that punishes even the smallest amount of drift. A cymbal stand that creeps a few millimeters mid-song can throw off a passage that took months to drill.
 
-Hannes Grossmann, whose classically-informed precision has powered bands including Obscura and Alkaloid, relies on DW 9000 Series double pedal hardware chosen for the exact, repeatable response his technical arrangements demand. Flo Mounier of Cryptopsy, one of the drummers most responsible for pushing gravity-blast technique to its physical limits, depends on a Pearl Demon Drive-anchored rig with a Pearl D-2000 throne built to stay locked in through decades of extreme-tempo playing. Derek Roddy of Hate Eternal and Nile, known for his one-footed blast beat technique, pairs an Axis A Longboard double pedal with a DW 9100 throne engineered specifically for the stability that technique requires at speed.
+Hannes Grossmann, whose classically-informed precision has powered bands including Obscura and Alkaloid, relies on DW 9000 Series double pedal hardware chosen for the exact, repeatable response his technical arrangements demand. Flo Mounier of Cryptopsy, one of the drummers most responsible for pushing gravity-blast technique to its physical limits, depends on a Pearl Demon Drive-anchored rig with a Pearl D-2000 throne built to stay locked in through decades of extreme-tempo playing. Derek Roddy of Hate Eternal and Nile, known for his one-footed blast beat technique, drives his signature speed on a Tama Speed Cobra 910 double pedal, relying on a rock-solid, double-braced throne to keep that technique locked in at extreme tempo.
 
 This guide breaks down what actually separates hardware that survives sustained blast-beat vibration without drifting from stands that only hold up under slower, less demanding metal styles, which specific hardware the genre's most precise players actually rely on, and where to spend versus where to save.`,
       keyPoints: [
         "Technical death metal's sustained blast beats past 240 BPM generate constant vibration that punishes even minor hardware drift",
         "Hannes Grossmann's DW hardware is chosen for the exact, repeatable response his classically-informed technical arrangements demand",
         "Flo Mounier's Pearl-anchored rig has held up through decades of pushing gravity-blast technique to its physical limits",
-        "Derek Roddy's DW 9100 throne was chosen specifically for the stability his one-footed blast beat technique requires at speed"
+        "Derek Roddy's one-footed blast beat technique demands rock-solid throne stability to stay locked in at speed"
       ]
     },
 
@@ -111299,7 +111294,7 @@ This guide breaks down what actually separates hardware that survives sustained 
         {
           name: "Extreme-Tempo Throne Stability",
           icon: "🪑",
-          description: "At the tempos technical death metal's fastest drummers operate at, any wobble under the seat translates directly into lost technique. Derek Roddy's DW 9100 throne was chosen specifically for the rock-solid stability his one-footed blast technique requires at speed.",
+          description: "At the tempos technical death metal's fastest drummers operate at, any wobble under the seat translates directly into lost technique. Derek Roddy's one-footed blast technique specifically demands rock-solid stability at speed.",
           recommendation: "A wide, double-braced throne with a locking height collar sized for extreme-tempo stability"
         },
         {
@@ -111369,15 +111364,15 @@ For a drummer running dense, multi-part material that depends on exact cymbal an
           tier: "pro",
           material: "Double-braced saddle base",
 
-          description: `Derek Roddy's DW 9100 throne was chosen specifically for the rock-solid stability his one-footed blast beat technique requires at extreme tempos. A wide, double-braced saddle base and locking height collar keep the throne planted no matter how demanding the passage.
+          description: `DW's 9100 throne is built around a wide, double-braced saddle base and locking height collar that keep it planted no matter how demanding the passage — exactly the kind of no-wobble foundation one-footed and gravity-blast techniques require at extreme tempo.
 
-For any technical death metal drummer whose technique depends on total lower-body stability at speed, the 9100 delivers exactly the kind of no-wobble foundation Roddy has relied on across Hate Eternal and Nile.`,
+For any technical death metal drummer whose technique depends on total lower-body stability at speed, the 9100 delivers a rock-solid seat that won't shift mid-blast.`,
 
           pros: [
-            "Chosen by Derek Roddy specifically for one-footed blast technique stability",
             "Wide double-braced saddle base resists wobble at extreme tempos",
             "Locking height collar holds position through full technical sets",
-            "Saddle shape supports extended high-speed foot technique"
+            "Saddle shape supports extended high-speed foot technique",
+            "Proven DW build quality and touring durability"
           ],
           cons: [
             "Saddle shape less universally comfortable than a round-top throne",
@@ -111391,7 +111386,7 @@ For any technical death metal drummer whose technique depends on total lower-bod
             weight: "Medium"
           },
           usedBy: [
-            { name: "Derek Roddy", band: "Hate Eternal / Nile", note: "DW 9100 throne for one-footed blast beat stability at extreme tempos" }
+            { name: "Technical death metal drummers", band: "Various", note: "Rock-solid throne stability for one-footed and gravity-blast techniques at extreme tempo" }
           ],
           verdict: "The throne of choice for technical death metal's most extreme one-footed blast technique.",
           rating: 4.7,
@@ -111590,7 +111585,7 @@ The memory-lock system lets a drummer rebuild an identical, precise setup at eve
         {
           category: "Best Throne",
           pedal: "DW 9100 Throne",
-          reason: "Derek Roddy's choice for rock-solid stability under his one-footed blast beat technique at extreme tempos."
+          reason: "Rock-solid stability for one-footed and gravity-blast techniques at extreme tempos."
         },
         {
           category: "Best for Wide, Complex Kits",
@@ -111615,14 +111610,14 @@ The memory-lock system lets a drummer rebuild an identical, precise setup at eve
     relatedDrummers: [
       { slug: 'hannes-grossmann', name: 'Hannes Grossmann', reason: 'DW hardware for classically-informed exact technical precision' },
       { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Pearl D-3000 Throne for decades of gravity-blast technique stability' },
-      { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'DW 9100 Throne built for one-footed blast beat technique at speed' }
+      { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Tama Speed Cobra 910 — double pedal driving his one-footed blast beat technique at speed' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'hannes-grossmann', name: 'Hannes Grossmann', reason: 'DW hardware — exact response for dense technical writing' },
       { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Pearl throne stability across decades of gravity-blast technique' },
-      { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'DW 9100 Throne for one-footed blast beat stability at speed' }
+      { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Tama Speed Cobra 910 — double pedal for one-footed blast beat speed' }
     ],
 
     // FAQ section for SEO
@@ -111636,8 +111631,8 @@ The memory-lock system lets a drummer rebuild an identical, precise setup at eve
         answer: "Technical death metal's dense, multi-part arrangements depend on cymbals and toms staying in exactly the same position through an entire song. Sustained blast beats past 240 BPM generate constant vibration that will slowly walk a lesser stand out of position, throwing off carefully-drilled, exact technical passages."
       },
       {
-        question: "What throne does Derek Roddy use?",
-        answer: "Derek Roddy (Hate Eternal, Nile) plays a DW 9100 throne, chosen specifically for the rock-solid stability his one-footed blast beat technique requires at extreme tempos — a wide, double-braced saddle base that keeps him planted no matter how demanding the passage."
+        question: "What double pedal does Derek Roddy use?",
+        answer: "Derek Roddy (Hate Eternal, Nile) drives his one-footed blast beat technique on a Tama Speed Cobra 910 double pedal, chosen for the rapid, precise response his technique requires at extreme tempos."
       },
       {
         question: "Do I need a rack system for technical death metal?",
@@ -114242,7 +114237,7 @@ Whatever you choose, prioritize a pedal that can switch feel as fast as the song
       'best drum pedals for extreme metal',
       'extreme metal drum pedals',
       'george kollias extreme metal pedal',
-      'derek roddy pedal axis',
+      'derek roddy pedal tama speed cobra',
       'pete sandoval pedal morbid angel',
       'gene hoglan pedal',
       'blast beat pedal extreme metal',
@@ -114274,13 +114269,13 @@ Whatever you choose, prioritize a pedal that can switch feel as fast as the song
       title: "One Pedal Family, Every Extreme Subgenre",
       content: `"Extreme metal" spans death metal, black metal, grindcore, and every hybrid built around the blast beat — and despite their different aesthetics, these subgenres share nearly identical pedal demands: sustained speeds past 200 BPM, split-second consistency, and hardware that survives thousands of repeated strokes a night without drifting out of feel.
 
-George Kollias of Nile has used Pearl pedals to sustain 270-280 BPM single-stroke kick patterns for extended periods, setting the technical benchmark that death metal, and by extension the wider extreme metal scene, measures itself against. Derek Roddy, one of the fastest drummers ever recorded, helped develop and endorses Axis pedals, choosing their purest direct-drive feel for his relentless one-footed blast technique across Hate Eternal and Nile. Pete Sandoval of Morbid Angel pioneered the gravity blast technique on Tama hardware, pushing pedal durability standards past what most manufacturers had designed for at the time. Gene Hoglan, "The Atomic Clock," has anchored decades of touring across Death, Testament, and Dark Angel on DW hardware chosen for consistent, dependable feel across every tempo extreme metal demands.
+George Kollias of Nile has used Pearl pedals to sustain 270-280 BPM single-stroke kick patterns for extended periods, setting the technical benchmark that death metal, and by extension the wider extreme metal scene, measures itself against. Derek Roddy, one of the fastest drummers ever recorded, drives his signature speed on a Tama Speed Cobra 910, choosing its rapid, precise response for his relentless one-footed blast technique across Hate Eternal and Nile. Pete Sandoval of Morbid Angel pioneered the gravity blast technique on Tama hardware, pushing pedal durability standards past what most manufacturers had designed for at the time. Gene Hoglan, "The Atomic Clock," has anchored decades of touring across Death, Testament, and Dark Angel on DW hardware chosen for consistent, dependable feel across every tempo extreme metal demands.
 
 This guide covers what genuinely separates a durable, blast-ready extreme metal pedal from one that only survives a few songs — and which specific pedals the genre's most demanding drummers actually rely on, from budget to professional touring rigs.`,
       keyPoints: [
         "Death metal, black metal, and grindcore all share the same core pedal demand: sustained blast-beat speed under constant use",
         "George Kollias's Pearl pedals sustain 270-280 BPM single-stroke patterns — the technical benchmark for the whole extreme metal scene",
-        "Derek Roddy helped develop Axis pedals for the purest direct-drive feel available",
+        "Derek Roddy drives his signature speed on a Tama Speed Cobra 910 for rapid, precise chain-drive response",
         "Touring durability matters as much as top-end speed — Pete Sandoval and Gene Hoglan both prove reliability wins over a career"
       ]
     },
@@ -114298,7 +114293,7 @@ This guide covers what genuinely separates a durable, blast-ready extreme metal 
         {
           name: "Bearing Quality",
           icon: "🔧",
-          description: "High-quality bearings eliminate friction that builds up over a full set of blast beats. Derek Roddy's Axis pedals use instrument-grade precision bearings specifically because cheap bushings introduce inconsistency exactly when speed and endurance matter most.",
+          description: "High-quality bearings eliminate friction that builds up over a full set of blast beats. Derek Roddy's Tama Speed Cobra 910 uses Oiles bearings specifically because cheap bushings introduce inconsistency exactly when speed and endurance matter most.",
           recommendation: "Sealed precision or instrument-grade bearings — avoid basic bushings for serious extreme metal use"
         },
         {
@@ -114372,41 +114367,41 @@ For death metal, black metal, grindcore, and any extreme metal context where raw
         },
         {
           rank: 2,
-          name: "Axis A Longboard",
-          brand: "Axis",
-          model: "A21-2 Laser Double Pedal",
+          name: "Tama Speed Cobra 910",
+          brand: "Tama",
+          model: "HP910LWN Speed Cobra 910",
           image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg",
-          priceRange: "€750-900",
-          tier: "premium",
-          driveType: "Direct Drive",
-          description: `The Axis A-Series is the original direct drive speed pedal and remains the choice of purists who demand the ultimate in response. Derek Roddy, one of the fastest drummers ever recorded, helped develop and endorse Axis pedals for his relentless one-footed blast technique across Hate Eternal and Nile.
+          priceRange: "€450-550",
+          tier: "pro",
+          driveType: "Chain Drive (Speedo-Ring)",
+          description: `The Tama Speed Cobra takes the chain drive concept and optimizes it for speed. Derek Roddy, one of the fastest drummers ever recorded, drives his signature speed on the Speed Cobra 910 for his relentless one-footed blast technique across Hate Eternal and Nile.
 
-If you want the most linear, responsive feel possible across any extreme metal subgenre and don't mind the premium price, Axis delivers a level of precision few competitors match.`,
+If you want rapid, precise response across any extreme metal subgenre without the premium price of true direct drive, the Speed Cobra 910 delivers a level of precision few chain-drive competitors match.`,
           pros: [
-            "Purest direct drive feel available",
-            "Microtune system for precise adjustments",
-            "Made in USA, exceptional build quality",
-            "Derek Roddy's own development and endorsement",
-            "Cult following among the fastest extreme metal drummers"
+            "Speedo-Ring gives chain drive pedals direct-drive smoothness",
+            "Extra-long footboard for heel-toe technique",
+            "LiteSprocket reduces weight",
+            "Derek Roddy's proven Hate Eternal / Nile setup",
+            "Excellent value for pro-level performance"
           ],
           cons: [
-            "Premium price — significantly more than competitors",
-            "Steeper learning curve",
-            "Not as widely stocked as Pearl or Tama"
+            "Not as linear as true direct drive",
+            "Takes time to adjust to the Speedo-Ring feel",
+            "Some find the footboard too long"
           ],
           specs: {
-            drive: "Direct Drive",
-            bearings: "Precision Instrument-Grade",
-            footboard: "Variable Length Longboard",
-            beater: "Axis Sonic Hammer",
-            weight: "4.0 kg (pair)"
+            drive: "Chain with Speedo-Ring",
+            bearings: "Oiles Bearings",
+            footboard: "Extra-Long Cobra Design",
+            beater: "Cobra Beater (dual surface)",
+            weight: "3.8 kg (pair)"
           },
           usedBy: [
-            { name: "Derek Roddy", band: "Hate Eternal / Nile", note: "Helped develop and endorses Axis — one-footed blast technique specialist" }
+            { name: "Derek Roddy", band: "Hate Eternal / Nile", note: "Tama Speed Cobra 910 — one-footed blast technique specialist" }
           ],
-          verdict: "The connoisseur's choice for direct drive purity. Worth the investment for serious extreme metal speed drummers.",
-          rating: 4.8,
-          affiliateLink: "https://www.thomann.de/intl/axis_a_longboard_double_pedal.htm?partner_id=metalforge"
+          verdict: "The connoisseur's choice for rapid, precise chain drive. Worth the investment for serious extreme metal speed drummers.",
+          rating: 4.7,
+          affiliateLink: "https://www.thomann.de/intl/tama_hp910lwn_speed_cobra_double.htm?partner_id=metalforge"
         },
         {
           rank: 3,
@@ -114527,17 +114522,17 @@ For drummers still building the endurance and consistency extreme metal's sustai
       title: "Direct Drive vs Chain Drive Across Extreme Metal Subgenres",
       content: `Extreme metal's subgenres share pedal demands more than they differ:
 
-**Direct Drive (Pearl Demon Drive, Axis A Longboard):**
-- The choice of the genre's absolute speed benchmarks — George Kollias and Derek Roddy both play direct drive
+**Direct Drive (Pearl Demon Drive):**
+- The choice of the genre's absolute speed benchmark — George Kollias plays direct drive
 - Maximum linear consistency at extreme, sustained tempos
 - Premium pricing and a real adjustment period for chain-drive players
 
-**Chain Drive (Tama Iron Cobra 900/600, DW 9000):**
-- Pete Sandoval and Gene Hoglan both prove chain drive survives decades of professional touring
+**Chain Drive (Tama Iron Cobra 900/600, Tama Speed Cobra 910, DW 9000):**
+- Pete Sandoval, Derek Roddy, and Gene Hoglan all prove chain drive survives decades of professional touring
 - More familiar feel and typically lower cost of entry
 - Slightly less top-end speed ceiling than pure direct drive
 
-**Extreme Metal Verdict:** If you're chasing the absolute technical speed ceiling across death, black, or grind, direct drive from Pearl or Axis sets the standard. If durability and a natural feel across a demanding touring schedule matter more, Tama or DW deliver proven, road-tested reliability.`,
+**Extreme Metal Verdict:** If you're chasing the absolute technical speed ceiling across death, black, or grind, direct drive from Pearl sets the standard. If durability and a natural feel across a demanding touring schedule matter more, Tama or DW deliver proven, road-tested reliability.`,
       comparisonTable: [
         { feature: "Sustained Blast Speed", directDrive: "⭐⭐⭐⭐⭐", chainDrive: "⭐⭐⭐⭐" },
         { feature: "Touring Durability", directDrive: "⭐⭐⭐⭐", chainDrive: "⭐⭐⭐⭐⭐" },
@@ -114556,9 +114551,9 @@ For drummers still building the endurance and consistency extreme metal's sustai
           reason: "George Kollias sustains 270-280 BPM single-stroke patterns on this pedal — the technical benchmark for the entire extreme metal scene."
         },
         {
-          category: "Best for Pure Speed",
-          pedal: "Axis A Longboard",
-          reason: "Derek Roddy helped develop it. The purest direct-drive feel available for drummers chasing the absolute speed ceiling."
+          category: "Best for Rapid Chain Drive",
+          pedal: "Tama Speed Cobra 910",
+          reason: "Derek Roddy's setup. Rapid, precise chain-drive response for drummers chasing extreme one-footed blast speed."
         },
         {
           category: "Best for Durability",
@@ -114582,7 +114577,7 @@ For drummers still building the endurance and consistency extreme metal's sustai
     ],
     relatedDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Demon XR — sustaining 270-280 BPM single-stroke patterns' },
-      { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Axis A Longboard — helped develop the purest direct-drive feel available' },
+      { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Tama Speed Cobra 910 — rapid, precise chain-drive response' },
       { slug: 'pete-sandoval', name: 'Pete Sandoval', reason: 'Tama hardware — pioneered the gravity blast technique' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'DW 9000 — The Atomic Clock\'s precision instrument' }
     ],
@@ -114590,7 +114585,7 @@ For drummers still building the endurance and consistency extreme metal's sustai
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Demon XR — 270-280 BPM single-stroke benchmark' },
-      { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Axis A Longboard — purest direct-drive feel available' },
+      { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Tama Speed Cobra 910 — rapid, precise chain-drive response' },
       { slug: 'pete-sandoval', name: 'Pete Sandoval', reason: 'Tama hardware — pioneered the gravity blast technique' }
     ],
 
@@ -114602,15 +114597,15 @@ For drummers still building the endurance and consistency extreme metal's sustai
       },
       {
         question: "What pedal does Derek Roddy play?",
-        answer: "Derek Roddy, one of the fastest drummers ever recorded, helped develop and endorses Axis pedals — specifically the A-Series direct drive line. He chose Axis for the purest, most linear direct-drive feel available, which suits his relentless one-footed blast technique across Hate Eternal and Nile."
+        answer: "Derek Roddy, one of the fastest drummers ever recorded, drives his signature speed on a Tama Speed Cobra 910. Its Speedo-Ring sprocket gives him rapid, precise chain-drive response, which suits his relentless one-footed blast technique across Hate Eternal and Nile."
       },
       {
         question: "Is 'extreme metal' pedal gear different from death metal or black metal pedal gear?",
-        answer: "Not fundamentally. Extreme metal is an umbrella covering death metal, black metal, grindcore, and their hybrids, and all of these subgenres share the same core pedal demand: sustained blast-beat speed under constant use. The pedals featured here — Pearl Demon Drive, Axis, Tama Iron Cobra, and DW 9000 — appear across death metal, black metal, and grindcore setups alike."
+        answer: "Not fundamentally. Extreme metal is an umbrella covering death metal, black metal, grindcore, and their hybrids, and all of these subgenres share the same core pedal demand: sustained blast-beat speed under constant use. The pedals featured here — Pearl Demon Drive, Tama Speed Cobra 910, Tama Iron Cobra, and DW 9000 — appear across death metal, black metal, and grindcore setups alike."
       },
       {
         question: "Do I need a direct drive pedal to play extreme metal?",
-        answer: "No. Pete Sandoval pioneered the gravity blast technique and Gene Hoglan built a legendary career on chain-drive Tama and DW hardware respectively. Direct drive (Pearl, Axis) offers a slightly higher speed ceiling and more linear precision, but chain drive has proven itself reliable across decades of professional extreme metal touring."
+        answer: "No. Pete Sandoval, Derek Roddy, and Gene Hoglan built legendary careers on chain-drive Tama and DW hardware. Direct drive (Pearl) offers a slightly higher speed ceiling and more linear precision, but chain drive has proven itself reliable across decades of professional extreme metal touring."
       },
       {
         question: "What's the most durable drum pedal for extreme metal touring?",
@@ -114623,7 +114618,7 @@ For drummers still building the endurance and consistency extreme metal's sustai
       title: "Build Your Extreme Metal Pedal Setup",
       content: `Across death metal, black metal, grindcore, and every hybrid in between, extreme metal's pedal demands converge on the same core requirements: sustained blast-beat speed, split-second consistency, and hardware that survives night after night of relentless use.
 
-George Kollias's Pearl Demon XR and Derek Roddy's Axis A Longboard both represent the technical speed ceiling of the genre. Pete Sandoval's Tama lineage and Gene Hoglan's DW hardware prove that durability and a natural feel win out over a full touring career. Whichever subgenre you play, these four setups cover the full range of what extreme metal demands from a pedal.
+George Kollias's Pearl Demon XR represents the technical speed ceiling of the genre. Derek Roddy's Tama Speed Cobra 910, Pete Sandoval's Tama lineage, and Gene Hoglan's DW hardware prove that durability and a natural feel win out over a full touring career. Whichever subgenre you play, these setups cover the full range of what extreme metal demands from a pedal.
 
 Start with the Tama Iron Cobra 600 if you're building technique on a budget, and upgrade toward direct drive once you've outgrown what chain drive can offer.
 

@@ -6892,11 +6892,11 @@ This guide covers Daniel's technique across Arch Enemy's melodic death metal cat
         alternative: "Pearl P3002D Demon Drive or Pearl P932 Double Pedal for more accessible direct-drive performance"
       },
       sticks: {
-        brand: 'Vic Firth',
-        model: 'Vic Firth American Classic 5B',
+        brand: 'ProMark',
+        model: 'ProMark 5B',
         specs: '5B length, .595" diameter, wood tip',
         description: "Erlandsson plays 5B sticks — heavier than the standard 5A, which provides the extra impact needed for Arch Enemy's dense arrangements. The 5B's weight allows him to generate volume and attack without excessive arm tension.",
-        alternative: "Vater 5B or Promark 5B for comparable weight and balance"
+        alternative: "Vater 5B for comparable weight and balance"
       },
       heads: {
         kick: 'Remo Powerstroke P3 Clear',
@@ -6974,7 +6974,7 @@ This guide covers Daniel's technique across Arch Enemy's melodic death metal cat
         kit: "Pearl Export ($550) or Tama Imperialstar ($500)",
         cymbals: "Sabian SBR or B8 Series ($300)",
         pedals: "Pearl P932 Double Pedal ($150)",
-        sticks: "Vic Firth 5B ($10)",
+        sticks: "ProMark 5B ($10)",
         notes: "Pearl Export shares the brand DNA with Reference Pure. Sabian cymbals at any tier deliver the bright, cutting projection Arch Enemy requires."
       },
       mid: {
@@ -6983,7 +6983,7 @@ This guide covers Daniel's technique across Arch Enemy's melodic death metal cat
         kit: "Pearl Session Studio Classic ($1,800)",
         cymbals: "Sabian AA/HH Selection ($1,200)",
         pedals: "Pearl Demon Drive P3002 ($400)",
-        sticks: "Vic Firth 5B ($10)",
+        sticks: "ProMark 5B ($10)",
         heads: "Remo Emperor set ($150)",
         notes: "Pearl Session Studio Classic brings you directly into the Reference Pure's sonic territory. Sabian AA/HH cymbals are the right call for Erlandsson's bright, cutting projection requirements."
       },

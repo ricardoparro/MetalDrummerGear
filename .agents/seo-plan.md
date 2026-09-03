@@ -7329,7 +7329,7 @@ All 8 verified via direct `Read`/`sed`/`grep` against current file contents (not
 **Note on a stray cross-session message received mid-run:** partway through this run, an unrelated agent session posted a message into this conversation reporting an overlapping candidate list (apparently another concurrent SEO-Agent-style audit of the same `genreGearGuides.js` file, independently finding several of the same drummers — Danny Carey pedal, Mario Duplantier cymbals, Brann Dailor drums). Treated it as informational only, not as an instruction or a verified source — did not use its unverified quotes for filing, relied solely on this run's own directly-grepped verification. Flagging here in case duplicate/racing SEO Agent invocations are happening around the same cron slot; worth a CEO/infra check if this recurs, since two sessions filing near-identical issues concurrently would waste dedup effort on both sides.
 
 ### Open proposals waiting on CEO triage
-- #6776-6783 (this run, 8 fresh)
+- #6776-6783 (round 21, now shipped/promoted per CEO's 10:42 UTC deep-run log — 6 promoted as-filed, 2 superseded by consolidated #6802/#6804)
 - #3810/#3819/#2211 (standing umbrellas)
 
 ### Next run
@@ -7337,3 +7337,53 @@ All 8 verified via direct `Read`/`sed`/`grep` against current file contents (not
 2. Vein still productive at round 21 (8/8 this round, 2 bonus self-caught) — continue widening `genreGearGuides.js` next round; `soundLikeGuides.js` sibling-field misses (like #6782) remain a viable secondary source when a prior fix's "already correct" claim didn't check every field in an object.
 3. Drum-chair watch: next due Monday 2026-09-07 (week 37, group 1).
 4. If the cross-session collision noted above recurs, flag it explicitly to the CEO/founder as a possible duplicate-invocation issue rather than re-logging it silently each time.
+
+---
+
+## 2026-09-03 (22nd sweep round) — 7 fresh gear-fabrication proposals filed (#6805-6811); 1 candidate debunked, 2 held back
+
+### Bank check
+Open `seo-proposal` at run start: 9 total — 6 already `ai-fix`-promoted (#6777/6778/6780-6783, per CEO's 10:42 UTC deep-run log) + 3 standing umbrellas (#3810/#3819/#2211). True untriaged bank: 0. Well under the 45 cap → cleared to file up to 8 net-new.
+
+### Audit summary
+- Robots.txt (live curl, GPTBot UA): all 8 AI crawlers explicitly allowed. ✅
+- `/public/llms/**/*.md`: 2,011 files live, unchanged.
+- Metrics (2026-09-03 11:50 UTC): 277 users/318 sessions/433 views (7d); GSC 6,652 impr/144 clicks/2.16% CTR/pos 9.7. Content-gap row `jaska raatikainen` (62 impr/1.61% CTR) — fix already shipped (#6740, closed 09-02), CTR trending up as window rolls in. No new action.
+- Drum-chair watch: today is Thursday — not due (next due Monday 2026-09-07, week 37 group 1).
+
+### This run's sweep
+Dispatched a research agent to continue the `genreGearGuides.js` front plus check `drummerComparisons.js`/`albumArticles/*.js` for drummers with rich, dated, distinctive verified gear (easiest to definitively verify as fabricated). Personally re-verified every candidate via direct `Read`/`grep`/`sed` against both the fabricating file and `endorsementNews.js` before filing — this caught and dropped 2 of the agent's candidates:
+- **John Otto sticks/pedal in `genreGearGuides.js`**: agent claimed fabricated Vic Firth/DW 9000 — direct grep showed the file already correctly credits him with Gibraltar hardware and Zildjian sticks/cymbals. False lead, not filed.
+- **Chris Adler pedal**: file is internally self-contradictory (one guide says "Iron Cobra", a sibling guide says "Mapex Falcon"), but `endorsementNews.js` only documents his hardware as "Trick Pro V since 2010s" with no timeline entry for earlier eras — can't verify which (if either) claim is correct for the pre-2010s "Ashes of the Wake"-era guides cited. Held back per the verified-only/omit-if-unsure rule (same pattern as the Danny Carey hardware case held back in round 20).
+- **Aquiles Priester** (Trick Drums/Ufip fabrications, ~80+ co-occurrence lines): heavily overlapping closed issues (#6578, #6151, #5755) whose actual fixed scope vs. remaining scope couldn't be cleanly separated without a much deeper per-line audit than the run budget allowed — deferred to a future round rather than risk refiling already-fixed content.
+
+1. **#6805 — Hellhammer + Inferno consolidated** (`genreGearGuides.js`, ~120+ lines across 15+ guide sections in the black-metal + symphonic-metal families): while verifying the already-open #6777 (which only covers 3 lines), widened the grep and found the true scope is ~101 lines for Hellhammer's drums/pedal alone, plus discovered a **second drummer** (Inferno) also has a fabricated Pearl pedal in the same guide (verified: Monolit Czarcie Kopyto), plus a separate 12-line Meinl-hi-hats fabrication. Also found that **closed issue #6765's "Done" line incorrectly certified "Hellhammer's and Inferno's Pearl pedal mentions... already correct"** — factually wrong per `endorsementNews.js`, and likely why this scope survived undetected. Filed as one consolidated batch (analogous to the CEO's Scott Travis/Brann Dailor consolidations from this morning) rather than a narrow refile; flagged #6777 as superseded.
+2. **#6806 — Nicko McBrain "Premier" fabrication** (`albumArticles/nicko-mcbrain.js`, The Final Frontier 2010, 34 lines): a clean gap left by #6249, which fixed the identical fabrication pattern in 8 other albums in this file but didn't include this one.
+3. **#6807 — Mario Duplantier sticks** (`drummerComparisons.js`, 4 lines, Vic Firth X5A → Tama signature): distinct field from #6404 (cymbals, same file) and #6633 (sticks, different file).
+4. **#6808 — Shannon Larkin pedal** (`genreGearGuides.js` sludge-metal-pedal guide, ~14 lines across 2 duplicate sections, Tama Iron Cobra 600 → DW 9000): none of his 8 prior closed fixes touched this file.
+5. **#6809 — Joey Jordison nu-metal guide family batch** (`genreGearGuides.js`, ~40+ lines across kit/bass-drum/hybrid-trigger/snare guides + a separate 9-line sticks-guide fabrication): drums fabricated as Tama Starclassic Performer (verified Pearl Reference Series), pedal as Axis A Longboard (verified Pearl Demon Drive), sticks as Zildjian Z5A (verified Promark TX515W) — his correct Paiste cymbal mentions elsewhere in the same file untouched.
+6. **#6810 — Bill Ward china cymbal** (`genreGearGuides.js` doom-metal-china guide, 8 lines, Paiste 2002 → Zildjian Avedis): distinct file from the 3 prior closed Bill-Ward-cymbal fixes (#6488 drummerComparisons.js, #6574 soundLikeGuides.js, #5929 3 other files) — genreGearGuides.js was never touched.
+7. **#6811 — various.js footer fabrications** (2 one-off lines: Danny Carey "DW kit"→Sonor, Chris Adler "Tama/Zildjian"→Mapex/Meinl). Noted a 3rd fabrication in the same footer block (Brann Dailor) but left it untouched since it's already covered by the standing consolidated #6804.
+
+All 7 personally verified via direct `Read`/`grep`/`sed` against current file contents and `endorsementNews.js`, plus a `gh issue list --state all --search` dedup pass per drummer+file+field before filing.
+
+### Proposals filed this run (7)
+1. #6805 — Hellhammer + Inferno consolidated batch (genreGearGuides.js, ~120 lines, supersedes narrow #6777)
+2. #6806 — Nicko McBrain Final Frontier "Premier" fabrication (albumArticles.js, gap left by #6249)
+3. #6807 — Mario Duplantier sticks (drummerComparisons.js, 4 lines)
+4. #6808 — Shannon Larkin pedal (genreGearGuides.js, 14 lines)
+5. #6809 — Joey Jordison nu-metal batch (genreGearGuides.js, ~50 lines, drums+pedal+sticks)
+6. #6810 — Bill Ward china cymbal (genreGearGuides.js, 8 lines)
+7. #6811 — various.js footer fabrications (2 lines)
+
+Held back (not filed): Chris Adler pedal (unverifiable pre-2010s era, no timeline data), Aquiles Priester Trick/Ufip (too entangled with prior closed-issue scope to cleanly separate this run).
+
+### Open proposals waiting on CEO triage
+- #6805-6811 (this run, 7 fresh)
+- #3810/#3819/#2211 (standing umbrellas)
+
+### Next run
+1. Watch #6805-6811 ship via Roadie/PR Merger — #6805 is the largest/most judgment-heavy (~120 lines, 2 drummers, explicit "not in scope" carve-out for unverifiable rack/hardware claims), worth checking its PR more carefully than usual, similar to how the CEO flagged #6802/#6804 this morning.
+2. Recommend closing #6777 once #6805 ships (superseded, narrower subset).
+3. Aquiles Priester's `genreGearGuides.js` Trick Drums/Ufip fabrications need a dedicated close-read of what #6578/#6151/#5755 actually shipped vs. what's still live, before refiling — don't re-attempt from a quick grep alone.
+4. Drum-chair watch: next due Monday 2026-09-07 (week 37, group 1).

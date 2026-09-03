@@ -79686,7 +79686,7 @@ Budget shouldn't stop you either. A Tama Iron Cobra 600 or DW 3000 Series pedal 
     // SEO metadata
     title: "Best Drum Pedals for Sludge Metal: 2026 Ultimate Guide",
     metaTitle: "Best Drum Pedals for Sludge Metal 2026 | MetalForge Expert Guide",
-    description: "Best drum pedals for sludge metal drumming: what Igor Cavalera (Pearl Eliminator), Mario Duplantier (dual Tama Iron Cobra 900 Power Glide), Brann Dailor (Tama Speed Cobra), and Shannon Larkin (Tama Iron Cobra 600) actually play. Thick, weighted response for sludge's crushing, riff-driven grooves — ranked budget to pro.",
+    description: "Best drum pedals for sludge metal drumming: what Igor Cavalera (Pearl Eliminator), Mario Duplantier (dual Tama Iron Cobra 900 Power Glide), Brann Dailor (Tama Speed Cobra), and Shannon Larkin (DW 9000 Series Double Pedal) actually play. Thick, weighted response for sludge's crushing, riff-driven grooves — ranked budget to pro.",
     seoKeywords: [
       'best drum pedals for sludge metal',
       'sludge metal bass drum pedal',
@@ -79723,14 +79723,14 @@ Budget shouldn't stop you either. A Tama Iron Cobra 600 or DW 3000 Series pedal 
       title: "Why Sludge Metal Needs a Thick, Weighted Pedal Over Raw Speed",
       content: `Sludge metal shares doom's commitment to slow, riff-driven weight, but layers in a grittier, more aggressive edge borrowed from hardcore and Southern groove. That combination asks a bass drum pedal to deliver a thick, heavy hit that locks in with a crushing, down-tuned riff — with just enough reserve power for the occasional faster, more aggressive passage that separates sludge from pure doom.
 
-Igor Cavalera's Pearl Eliminator double pedal anchors Sepultura's tribal, down-tuned heaviness with reliable, controlled response. Mario Duplantier skips a double pedal entirely, driving Gojira's dual 22"x18" kicks with two independent Tama Iron Cobra 900 Power Glide pedals for crushing, tectonic weight. Brann Dailor pairs his warm Tama Starclassic Performer B/B kit with a Tama Speed Cobra pedal on Mastodon's crushing early catalog, and Shannon Larkin's Tama Iron Cobra 600 gives Godsmack's platinum-selling, groove-heavy sludge influence its weighted, dependable low end.
+Igor Cavalera's Pearl Eliminator double pedal anchors Sepultura's tribal, down-tuned heaviness with reliable, controlled response. Mario Duplantier skips a double pedal entirely, driving Gojira's dual 22"x18" kicks with two independent Tama Iron Cobra 900 Power Glide pedals for crushing, tectonic weight. Brann Dailor pairs his warm Tama Starclassic Performer B/B kit with a Tama Speed Cobra pedal on Mastodon's crushing early catalog, and Shannon Larkin's DW 9000 Series Double Pedal gives Godsmack's platinum-selling, groove-heavy sludge influence its weighted, dependable low end.
 
 This guide breaks down drive systems, spring tension, and beater mass for sludge-metal pedals — comparing single, double, and dual independent setups across four drummers whose lineages define the genre's crushing, riff-driven foundation, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
         "Igor Cavalera's Pearl Eliminator double pedal delivers reliable, controlled tonnage for Sepultura's down-tuned tribal heaviness",
         "Mario Duplantier drives Gojira's dual kicks with two independent Tama Iron Cobra 900 Power Glide pedals rather than a shared double pedal",
         "Brann Dailor's single Tama Speed Cobra pedal proves sludge's crushing weight doesn't require a double pedal",
-        "Shannon Larkin's Tama Iron Cobra 600 brought sludge-influenced groove weight into Godsmack's platinum-selling hard rock catalog"
+        "Shannon Larkin's DW 9000 Series Double Pedal brought sludge-influenced groove weight into Godsmack's platinum-selling hard rock catalog"
       ]
     },
 
@@ -79759,7 +79759,7 @@ This guide breaks down drive systems, spring tension, and beater mass for sludge
         {
           name: "Groove Consistency",
           icon: "🎸",
-          description: "Shannon Larkin's Tama Iron Cobra 600 shows how sludge's patient, weight-over-speed philosophy translates into radio-friendly, groove-driven hard rock — the pedal needs to lock into a repeating groove with total consistency, hit after hit.",
+          description: "Shannon Larkin's DW 9000 Series Double Pedal shows how sludge's patient, weight-over-speed philosophy translates into radio-friendly, groove-driven hard rock — the pedal needs to lock into a repeating groove with total consistency, hit after hit.",
           recommendation: "A pedal that returns consistently at moderate tempos without drifting off the beat"
         },
         {
@@ -79903,43 +79903,43 @@ For sludge drummers whose material rarely calls for rapid double bass, a well-bu
         },
         {
           rank: 4,
-          name: "Tama Iron Cobra 600",
-          brand: "Tama",
-          model: "HP600D Iron Cobra 600",
+          name: "DW 9000 Series Double Pedal",
+          brand: "DW",
+          model: "DW 9000 Series Double Bass Drum Pedal",
           image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg",
-          priceRange: "€250-300",
-          tier: "mid",
-          driveType: "Chain (Power Glide)",
+          priceRange: "€500-700",
+          tier: "pro",
+          driveType: "Chain Drive",
 
-          description: `Shannon Larkin's Tama Iron Cobra 600 carries the weighted, dependable low end that brought sludge-influenced groove into Godsmack's platinum-selling hard rock catalog — including "Faceless," "IV," and "When Legends Rise." The Power Glide cam gives a smoother, more powerful stroke suited to sludge's weight-over-speed philosophy.
+          description: `Shannon Larkin's DW 9000 Series Double Pedal carries the weighted, dependable low end that brought sludge-influenced groove into Godsmack's platinum-selling hard rock catalog — including "Faceless," "IV," and "When Legends Rise." DW's magnetic controlled-friction spring system gives a smoother, more consistent stroke suited to sludge's weight-over-speed philosophy.
 
 Larkin's setup proves that sludge's patient, riff-driven grooves scale just as well into arena-filling hard rock as they do into underground extreme metal, without needing an exotic double-pedal specification.`,
 
           pros: [
             "Shannon Larkin's Godsmack setup — sludge-influenced weight in platinum-selling hard rock",
-            "Power Glide cam for a smoother, weightier stroke",
-            "Proven Tama durability across decades of heavy touring",
-            "Genuinely capable double pedal at a mid-tier price",
-            "Great entry into the same Iron Cobra family Danny Carey and Mario Duplantier rely on"
+            "Magnetic controlled-friction spring for a smoother, weightier stroke",
+            "Premium American-made DW durability across decades of heavy touring",
+            "XF Extended Footboard adds extra leverage for weighted response",
+            "Flagship-level double pedal built for touring reliability"
           ],
           cons: [
-            "Fewer adjustment options than the 900 series",
-            "Basic bearings compared to flagship models",
-            "Chain drive limits ultimate top-end speed"
+            "Highest price point in this guide",
+            "Heavier feel takes adjustment if coming from a lighter pedal",
+            "Chain drive limits ultimate top-end speed versus direct drive"
           ],
           specs: {
-            drive: "Chain (Power Glide)",
-            bearings: "Standard Rocker",
-            footboard: "Standard Iron Cobra",
-            beater: "Iron Cobra Beater (reversible)",
-            weight: "3.6 kg (pair)"
+            drive: "Chain drive",
+            cam: "Round cam",
+            frame: "Cast aluminum",
+            footboard: "XF Extended",
+            spring: "Magnetic controlled-friction"
           },
           usedBy: [
-            { name: "Shannon Larkin", band: "Godsmack", note: "Tama Iron Cobra 600 — sludge-influenced groove in platinum-selling hard rock" }
+            { name: "Shannon Larkin", band: "Godsmack", note: "DW 9000 Series Double Pedal — sludge-influenced groove in platinum-selling hard rock" }
           ],
-          verdict: "Best mid-tier double pedal for sludge-influenced groove metal and hard rock crossover.",
-          rating: 4.2,
-          affiliateLink: "https://www.thomann.de/intl/tama_hp600dtw_iron_cobra_600_double.htm?partner_id=metalforge"
+          verdict: "Best pro-tier double pedal for sludge-influenced groove metal and hard rock crossover.",
+          rating: 4.6,
+          affiliateLink: "https://www.thomann.de/intl/dw_9000_double_pedal.htm?partner_id=metalforge"
         }
       ]
     },
@@ -79990,7 +79990,7 @@ Larkin's setup proves that sludge's patient, riff-driven grooves scale just as w
 - Simplest setup, easiest to maintain and transport
 - Best for traditional, doom-leaning sludge
 
-**Double Pedal (Igor Cavalera - Pearl, Shannon Larkin - Tama):**
+**Double Pedal (Igor Cavalera - Pearl, Shannon Larkin - DW):**
 - Adds reserve power for sludge's grittier, hardcore-influenced bursts
 - Reliable, controlled response matters more than top-end speed
 - Best for sludge that blends crushing weight with faster, riffier passages
@@ -80000,7 +80000,7 @@ Larkin's setup proves that sludge's patient, riff-driven grooves scale just as w
 - Maximizes independent tonal and timing control per kick
 - Best for technical, crushing sludge-death hybrids chasing tectonic weight
 
-**Our Recommendation:** Start with a single pedal (Tama Speed Cobra or budget DW 3000) if your material is straightforward, crushing sludge. Add a double pedal (Pearl Eliminator or Tama Iron Cobra 600) if you need reserve speed for grittier, hardcore-influenced sections. Only move to dual independent pedals if you're also running dual kick drums for maximum tectonic weight.`,
+**Our Recommendation:** Start with a single pedal (Tama Speed Cobra or budget DW 3000) if your material is straightforward, crushing sludge. Add a double pedal (Pearl Eliminator or DW 9000 Series Double Pedal) if you need reserve speed for grittier, hardcore-influenced sections. Only move to dual independent pedals if you're also running dual kick drums for maximum tectonic weight.`,
       comparisonTable: [
         { feature: "Weighted Impact", directDrive: "⭐⭐⭐⭐⭐", chainDrive: "⭐⭐⭐⭐" },
         { feature: "Setup Simplicity", directDrive: "⭐⭐⭐⭐⭐", chainDrive: "⭐⭐⭐" },
@@ -80046,7 +80046,7 @@ Larkin's setup proves that sludge's patient, riff-driven grooves scale just as w
       { slug: 'igor-cavalera', name: 'Igor Cavalera', reason: 'Pearl Eliminator double pedal — Sepultura tribal, down-tuned heaviness' },
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Dual Tama Iron Cobra 900 Power Glide — Gojira crushing, tectonic control' },
       { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Tama Speed Cobra — Mastodon crushing early-catalog weight' },
-      { slug: 'shannon-larkin', name: 'Shannon Larkin', reason: 'Tama Iron Cobra 600 — Godsmack sludge-influenced groove weight' }
+      { slug: 'shannon-larkin', name: 'Shannon Larkin', reason: 'DW 9000 Series Double Pedal — Godsmack sludge-influenced groove weight' }
     ],
 
     // Featured drummers (issue template)
@@ -80054,14 +80054,14 @@ Larkin's setup proves that sludge's patient, riff-driven grooves scale just as w
       { slug: 'igor-cavalera', name: 'Igor Cavalera', reason: 'Pearl Eliminator double pedal — Sepultura tribal, down-tuned heaviness' },
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Dual Tama Iron Cobra 900 Power Glide — Gojira crushing, tectonic control' },
       { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Tama Speed Cobra — Mastodon crushing early-catalog weight' },
-      { slug: 'shannon-larkin', name: 'Shannon Larkin', reason: 'Tama Iron Cobra 600 — Godsmack sludge-influenced groove weight' }
+      { slug: 'shannon-larkin', name: 'Shannon Larkin', reason: 'DW 9000 Series Double Pedal — Godsmack sludge-influenced groove weight' }
     ],
 
     // FAQ section for SEO
     faq: [
       {
         question: "Who are the best sludge metal drummers and what pedals do they use?",
-        answer: "Igor Cavalera of Sepultura plays a Pearl Eliminator double pedal, Mario Duplantier of Gojira drives dual kicks with two independent Tama Iron Cobra 900 Power Glide pedals, Brann Dailor of Mastodon plays a single Tama Speed Cobra pedal, and Shannon Larkin of Godsmack plays a Tama Iron Cobra 600 double pedal."
+        answer: "Igor Cavalera of Sepultura plays a Pearl Eliminator double pedal, Mario Duplantier of Gojira drives dual kicks with two independent Tama Iron Cobra 900 Power Glide pedals, Brann Dailor of Mastodon plays a single Tama Speed Cobra pedal, and Shannon Larkin of Godsmack plays a DW 9000 Series Double Pedal."
       },
       {
         question: "What pedal does Igor Cavalera use?",
@@ -80084,7 +80084,7 @@ Larkin's setup proves that sludge's patient, riff-driven grooves scale just as w
     // Conclusion
     conclusion: {
       title: "Build Your Sludge Metal Pedal Arsenal",
-      content: `Sludge metal pedal choice comes down to how much thick, weighted impact your riffs demand — with just enough reserve power for the genre's grittier, hardcore-influenced bursts. Igor Cavalera's Pearl Eliminator double pedal defined the genre's most direct working analogue currently profiled at MetalForge, anchoring Sepultura's crushing early catalog. Mario Duplantier's dual independent Tama Iron Cobra 900 Power Glide pedals proved that technical precision can layer onto sludge's tonnage-first foundation without sacrificing organic feel. Brann Dailor's single Tama Speed Cobra pedal shows how a straightforward setup can still carry crushing weight, while Shannon Larkin's Tama Iron Cobra 600 demonstrates how sludge's patient, weight-over-speed philosophy scaled into platinum-selling hard rock.
+      content: `Sludge metal pedal choice comes down to how much thick, weighted impact your riffs demand — with just enough reserve power for the genre's grittier, hardcore-influenced bursts. Igor Cavalera's Pearl Eliminator double pedal defined the genre's most direct working analogue currently profiled at MetalForge, anchoring Sepultura's crushing early catalog. Mario Duplantier's dual independent Tama Iron Cobra 900 Power Glide pedals proved that technical precision can layer onto sludge's tonnage-first foundation without sacrificing organic feel. Brann Dailor's single Tama Speed Cobra pedal shows how a straightforward setup can still carry crushing weight, while Shannon Larkin's DW 9000 Series Double Pedal demonstrates how sludge's patient, weight-over-speed philosophy scaled into platinum-selling hard rock.
 
 None of these approaches is more "correct" — all four represent sludge metal's founding commitment to thick, weighted tone over bright, cutting speed. Start with whichever setup matches your kick configuration, and don't be afraid to lean heavier on spring tension and beater mass than other metal subgenres would suggest.
 
@@ -107791,7 +107791,7 @@ Whichever you choose, remember that progressive metal rewards precision and adju
       title: "Why Sludge Metal Needs Heavier Spring Tension and Real Durability",
       content: `Sludge metal shares doom's commitment to slow, riff-driven weight, but layers in a grittier, more aggressive edge borrowed from hardcore and Southern groove. That combination asks a bass drum pedal to deliver a thick, heavy hit that locks in with a crushing, down-tuned riff — with heavier spring tension and a durable build that can survive both the constant weighted strokes and the occasional faster, riffier passage that separates sludge from pure doom.
 
-Igor Cavalera's Pearl Eliminator double pedal anchors Sepultura's tribal, down-tuned heaviness with reliable, controlled response. Mario Duplantier skips a double pedal entirely, driving Gojira's dual bass drums with two independent Tama Iron Cobra 900 Power Glide pedals for crushing, tectonic weight. Brann Dailor pairs his kit with a DW 5000 Series pedal on Mastodon's crushing early catalog, and Shannon Larkin's Tama Iron Cobra 600 gives Godsmack's platinum-selling, groove-heavy sludge influence its weighted, dependable low end.
+Igor Cavalera's Pearl Eliminator double pedal anchors Sepultura's tribal, down-tuned heaviness with reliable, controlled response. Mario Duplantier skips a double pedal entirely, driving Gojira's dual bass drums with two independent Tama Iron Cobra 900 Power Glide pedals for crushing, tectonic weight. Brann Dailor pairs his kit with a DW 5000 Series pedal on Mastodon's crushing early catalog, and Shannon Larkin's DW 9000 Series Double Pedal gives Godsmack's platinum-selling, groove-heavy sludge influence its weighted, dependable low end.
 
 This guide breaks down drive systems, spring tension, and beater mass for sludge-metal bass drum pedals — comparing single and dual independent setups across four drummers whose lineages define the genre's crushing, riff-driven foundation, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
@@ -107956,39 +107956,39 @@ DW's signature smooth, dependable action gives sludge's heavy, down-tuned groove
         },
         {
           rank: 4,
-          name: "Tama Iron Cobra 600",
-          brand: "Tama",
-          model: "HP600DTW Iron Cobra 600",
-          image: "https://upload.wikimedia.org/wikipedia/commons/b/b1/Tama_Iron_Cobra_double_bass_drum_pedal.jpg",
-          priceRange: "€200-300 per double set",
-          tier: "budget",
-          driveType: "Chain (Power Glide)",
-          description: `Shannon Larkin's Tama Iron Cobra 600 gives Godsmack's platinum-selling, groove-heavy sludge influence its weighted, dependable low end — proof that a steel-frame, budget-tier pedal can deliver genuine sludge-appropriate weight without flagship pricing.
+          name: "DW 9000 Series Double Pedal",
+          brand: "DW",
+          model: "DW 9000 Series Double Bass Drum Pedal",
+          image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg",
+          priceRange: "€500-700 per double set",
+          tier: "pro",
+          driveType: "Chain Drive",
+          description: `Shannon Larkin's DW 9000 Series Double Pedal gives Godsmack's platinum-selling, groove-heavy sludge influence its weighted, dependable low end — a flagship pedal built for touring reliability rather than a budget compromise.
 
-Its wide tension range makes it easy to dial in the heavier spring setting sludge's down-tuned grooves reward, while the Power Glide cam keeps things consistent hit after hit.`,
+Its magnetic controlled-friction spring system makes it easy to dial in the heavier spring setting sludge's down-tuned grooves reward, while the round cam keeps things consistent hit after hit.`,
           pros: [
             "Shannon Larkin's proven Godsmack setup",
-            "Wide spring tension range for heavier, weighted grooves",
-            "Steel frame durability at an accessible price",
-            "Clear upgrade path to the 900 series"
+            "Magnetic controlled-friction spring for heavier, weighted grooves",
+            "Premium American-made durability across decades of heavy touring",
+            "XF Extended Footboard adds extra leverage for weighted response"
           ],
           cons: [
-            "Steel frame is heavier and less refined than aluminum",
-            "Fewer adjustment options than the 900 series"
+            "Highest price point in this guide",
+            "Heavier feel takes adjustment coming from a lighter pedal"
           ],
           specs: {
-            drive: "Chain Drive (Power Glide)",
-            cam: "Power Glide cam",
-            frame: "Steel",
+            drive: "Chain drive",
+            cam: "Round cam",
+            frame: "Cast aluminum",
             beater: "Hard felt (stock)",
-            footboard: "Standard"
+            footboard: "XF Extended"
           },
           usedBy: [
             { name: "Shannon Larkin", band: "Godsmack", note: "Weighted, dependable low end for platinum-selling groove-heavy material" }
           ],
-          verdict: "Best budget entry point into sludge metal's weighted, groove-driven low end.",
-          rating: 4.2,
-          affiliateLink: "https://www.thomann.de/intl/tama_hp600dtw_iron_cobra_600_double.htm?partner_id=metalforge"
+          verdict: "Best pro-tier double pedal for sludge metal's weighted, groove-driven low end.",
+          rating: 4.6,
+          affiliateLink: "https://www.thomann.de/intl/dw_9000_double_pedal.htm?partner_id=metalforge"
         }
       ]
     },
@@ -107998,20 +107998,6 @@ Its wide tension range makes it easy to dial in the heavier spring setting sludg
       title: "Best Budget Bass Drum Pedals for Sludge Metal",
       description: "You don't need an Eliminator or dual Iron Cobra setup to start locking into sludge's crushing grooves. These options deliver real weighted thump at an accessible price.",
       pedals: [
-        {
-          name: "Tama Iron Cobra 600",
-          brand: "Tama",
-          model: "HP600DTW Iron Cobra 600",
-          priceRange: "€200-300 per double set",
-          tier: "budget",
-          material: "Steel frame",
-          description: "Shannon Larkin's entry point into weighted, groove-driven sludge tone — a wide tension range at a steel-frame price.",
-          pros: ["Shannon Larkin's proven setup", "Wide spring tension range for heavier grooves", "Steel frame durability"],
-          cons: ["Heavier and less refined than aluminum options"],
-          verdict: "The budget choice for sludge metal's weighted, groove-driven low end.",
-          rating: 4.2,
-          affiliateLink: "https://www.thomann.de/intl/tama_hp600dtw_iron_cobra_600_double.htm?partner_id=metalforge"
-        },
         {
           name: "DW 5000 Delta III",
           brand: "DW",
@@ -108045,8 +108031,8 @@ Its wide tension range makes it easy to dial in the heavier spring setting sludg
         },
         {
           category: "Best Budget",
-          pedal: "Tama Iron Cobra 600",
-          reason: "Shannon Larkin's proven entry point — genuine weighted, groove-driven tone without flagship pricing."
+          pedal: "DW 5000 Delta III",
+          reason: "DW build quality at an accessible price — a solid Delta III linkage handles sludge's heavy, deliberate strokes reliably."
         }
       ]
     },
@@ -108062,7 +108048,7 @@ Its wide tension range makes it easy to dial in the heavier spring setting sludg
       { slug: 'igor-cavalera', name: 'Igor Cavalera', reason: 'Pearl Eliminator — reliable, controlled tonnage for tribal, down-tuned heaviness' },
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Dual independent Tama Iron Cobra 900 pedals for Gojira\'s tectonic low end' },
       { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'DW 5000 Series pedal for Mastodon\'s crushing early catalog' },
-      { slug: 'shannon-larkin', name: 'Shannon Larkin', reason: 'Tama Iron Cobra 600 for Godsmack\'s groove-heavy sludge influence' }
+      { slug: 'shannon-larkin', name: 'Shannon Larkin', reason: 'DW 9000 Series Double Pedal for Godsmack\'s groove-heavy sludge influence' }
     ],
 
     featuredDrummers: [
@@ -108090,7 +108076,7 @@ Its wide tension range makes it easy to dial in the heavier spring setting sludg
       },
       {
         question: "What's a good budget bass drum pedal for sludge metal?",
-        answer: "The Tama Iron Cobra 600 (around €200-300) — the same pedal Shannon Larkin uses with Godsmack — gives you a wide spring tension range for dialing in heavier, groove-appropriate weight without flagship pricing."
+        answer: "The DW 5000 Delta III (around €300-420) delivers DW build quality and a solid Delta III linkage for dialing in heavier, groove-appropriate weight below flagship pricing."
       }
     ],
 
@@ -108099,7 +108085,7 @@ Its wide tension range makes it easy to dial in the heavier spring setting sludg
       title: "Build Your Down-Tuned, Crushing Foundation",
       content: `Sludge metal's low end lives or dies on heavier spring tension, beater mass, and a pedal durable enough to survive constant, weighted strokes. Igor Cavalera's Pearl Eliminator proves the value of an interchangeable cam system that balances that thump with reserve speed for grittier passages. Mario Duplantier's dual independent Tama Iron Cobra 900 pedals show there's more than one path to crushing, tectonic weight.
 
-For most sludge metal drummers, the Pearl Eliminator remains the most balanced choice. Running dual kicks instead of a double pedal? Mario Duplantier's independent Iron Cobra 900 setup is worth serious consideration. And Shannon Larkin's budget-tier Iron Cobra 600 proves you don't need flagship pricing to lock into sludge's weighted groove.
+For most sludge metal drummers, the Pearl Eliminator remains the most balanced choice. Running dual kicks instead of a double pedal? Mario Duplantier's independent Iron Cobra 900 setup is worth serious consideration. And Shannon Larkin's flagship DW 9000 Series Double Pedal shows how much weighted, dependable low end a pro-tier build can deliver.
 
 Whatever you choose: dial in heavier tension for the down-tuned groove first, then build reserve speed on top of it.
 

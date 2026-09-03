@@ -2647,7 +2647,7 @@ export const articles = {
     "dateModified": "2026-06-27",
     "author": "MetalForge Editorial",
     "title": "The Final Frontier Drum Setup: Nicko McBrain's Gear on Iron Maiden's Grammy-Nominated 2010 Epic",
-    "description": "The complete gear breakdown for Iron Maiden's The Final Frontier (2010). Discover the Premier Artist kit, Paiste Signature cymbals, and progressive drumming technique behind the Grammy-nominated 'El Dorado' and Nicko McBrain's most ambitious album.",
+    "description": "The complete gear breakdown for Iron Maiden's The Final Frontier (2010). Discover the Yamaha Recording Custom kit, Paiste Signature cymbals, and progressive drumming technique behind the Grammy-nominated 'El Dorado' and Nicko McBrain's most ambitious album.",
     "seoKeywords": [
       "nicko mcbrain final frontier drums",
       "iron maiden 2010 drum kit",
@@ -2661,7 +2661,7 @@ export const articles = {
     "grammyNominated": true,
     "intro": {
       "title": "Iron Maiden's Most Ambitious Album — and a Grammy Nomination",
-      "content": "Released on August 16, 2010, The Final Frontier represents Iron Maiden at their most progressive and ambitious. Debuting at number one in the UK and the US Billboard 200 simultaneously, it became their highest-charting American album in over two decades. More significantly, the track 'El Dorado' earned a Grammy Award nomination for Best Metal Performance at the 53rd Grammy Awards in 2011 — Iron Maiden's most prominent Grammy recognition.\n\nFor Nicko McBrain, The Final Frontier presented the most demanding drumming challenge of his 21st-century career. The album's average song length exceeds nine minutes, with several tracks surpassing ten and thirteen minutes. The extended progressive structures required Nicko to sustain concentration and energy across vast dynamic ranges — from atmospheric, near-ambient passages to full-throttle metal at high tempos — within a single track.\n\nRecorded at Compass Point Studios in Nassau, Bahamas (the same facility that had hosted Powerslave in 1984), and completed at Sarm West Studios in London, The Final Frontier was produced by Kevin Shirley and Steve Harris. The production is expansive and powerful — Nicko's drums are recorded with a force and presence that suits the album's epic scope.\n\nThe Final Frontier fills the critical arc between A Matter of Life and Death (2006) and The Book of Souls (2015). It represents the mature peak of Nicko McBrain's progressive drumming capabilities — the album where single-pedal technique, jazz-influenced fills, and sustained concentration across extended song forms came together most completely.\n\nThis article examines the Premier Artist drum kit, Paiste Signature cymbals, and progressive drumming technique that powered what may be Nicko McBrain's most technically demanding studio performance.",
+      "content": "Released on August 16, 2010, The Final Frontier represents Iron Maiden at their most progressive and ambitious. Debuting at number one in the UK and the US Billboard 200 simultaneously, it became their highest-charting American album in over two decades. More significantly, the track 'El Dorado' earned a Grammy Award nomination for Best Metal Performance at the 53rd Grammy Awards in 2011 — Iron Maiden's most prominent Grammy recognition.\n\nFor Nicko McBrain, The Final Frontier presented the most demanding drumming challenge of his 21st-century career. The album's average song length exceeds nine minutes, with several tracks surpassing ten and thirteen minutes. The extended progressive structures required Nicko to sustain concentration and energy across vast dynamic ranges — from atmospheric, near-ambient passages to full-throttle metal at high tempos — within a single track.\n\nRecorded at Compass Point Studios in Nassau, Bahamas (the same facility that had hosted Powerslave in 1984), and completed at Sarm West Studios in London, The Final Frontier was produced by Kevin Shirley and Steve Harris. The production is expansive and powerful — Nicko's drums are recorded with a force and presence that suits the album's epic scope.\n\nThe Final Frontier fills the critical arc between A Matter of Life and Death (2006) and The Book of Souls (2015). It represents the mature peak of Nicko McBrain's progressive drumming capabilities — the album where single-pedal technique, jazz-influenced fills, and sustained concentration across extended song forms came together most completely.\n\nThis article examines the Yamaha Recording Custom drum kit, Paiste Signature cymbals, and progressive drumming technique that powered what may be Nicko McBrain's most technically demanding studio performance.",
       "keyPoints": [
         "UK #1 and US #1 simultaneously — highest-charting US album in over two decades",
         "Grammy-nominated: 'El Dorado' — Best Metal Performance, 53rd Grammy Awards (2011)",
@@ -2672,9 +2672,9 @@ export const articles = {
       ]
     },
     "drumKit": {
-      "title": "Nicko McBrain's Premier Artist Setup",
-      "brand": "Premier",
-      "model": "Premier Artist",
+      "title": "Nicko McBrain's Yamaha Recording Custom Setup",
+      "brand": "Yamaha",
+      "model": "Yamaha Recording Custom",
       "finish": "Lacquer finish",
       "config": {
         "bassdrums": [
@@ -2691,9 +2691,9 @@ export const articles = {
         ],
         "shells": "Birch/basswood shells — punchy attack with focused sustain"
       },
-      "description": "Nicko McBrain recorded The Final Frontier on a Premier Artist kit — his professional setup through the 2000s and early 2010s Iron Maiden era. The configuration on this album was identical in architecture to Brave New World: three rack toms, two floor toms, and a single 22-inch bass drum. The expanded rack tom configuration from the classic two-tom 1980s layout reflects the progressive demands of Iron Maiden's 21st-century albums, where longer tracks with more complex arrangements benefit from a wider melodic fill vocabulary.\n\nThe Premier Artist's birch/basswood shells provided the punchy, defined attack that Kevin Shirley's production required. Shirley's approach on The Final Frontier was similar to his prior Iron Maiden productions but with greater dynamic range: the drums needed to sound powerful on full-speed metal sections while remaining musical and controlled on the extended atmospheric passages that punctuate tracks like 'Starblind' and 'Isle of Avalon.'\n\nThe single bass drum remained Nicko's unwavering choice — a philosophical and technical constant across over three decades with Iron Maiden. On The Final Frontier's extended tracks, where other drummers might use double bass to power through long progressive sections, Nicko demonstrated that single-pedal technique offers as much musical expression with greater rhythmic feel and swing.\n\nThe two floor toms were particularly important on this album. Tracks like 'The Talisman' and 'When the Wild Wind Blows' featured extended tom-driven sequences where Nicko's cascading fill patterns built dramatic momentum across multiple minutes of music.",
+      "description": "Nicko McBrain recorded The Final Frontier on a Yamaha Recording Custom kit — his professional setup through the 2000s and into 2010, before switching to Sonor later that year. The configuration on this album was identical in architecture to Brave New World: three rack toms, two floor toms, and a single 22-inch bass drum. The expanded rack tom configuration from the classic two-tom 1980s layout reflects the progressive demands of Iron Maiden's 21st-century albums, where longer tracks with more complex arrangements benefit from a wider melodic fill vocabulary.\n\nThe Yamaha Recording Custom's birch/basswood shells provided the punchy, defined attack that Kevin Shirley's production required. Shirley's approach on The Final Frontier was similar to his prior Iron Maiden productions but with greater dynamic range: the drums needed to sound powerful on full-speed metal sections while remaining musical and controlled on the extended atmospheric passages that punctuate tracks like 'Starblind' and 'Isle of Avalon.'\n\nThe single bass drum remained Nicko's unwavering choice — a philosophical and technical constant across over three decades with Iron Maiden. On The Final Frontier's extended tracks, where other drummers might use double bass to power through long progressive sections, Nicko demonstrated that single-pedal technique offers as much musical expression with greater rhythmic feel and swing.\n\nThe two floor toms were particularly important on this album. Tracks like 'The Talisman' and 'When the Wild Wind Blows' featured extended tom-driven sequences where Nicko's cascading fill patterns built dramatic momentum across multiple minutes of music.",
       "notes": [
-        "Premier Artist birch/basswood shells — consistent professional setup through the 2010 era",
+        "Yamaha Recording Custom birch/basswood shells — consistent professional setup through the 2010 era",
         "Three rack toms for the extended fill vocabulary required by progressive song structures",
         "Single 22-inch bass drum — the lifelong single-pedal commitment, tested by 9-13 minute tracks",
         "Two floor toms for cascading melodic fills in extended progressive passages"
@@ -2702,11 +2702,11 @@ export const articles = {
     },
     "snare": {
       "title": "Progressive Snare for Progressive Tracks",
-      "brand": "Premier",
-      "model": "Premier Nicko McBrain Signature Snare",
+      "brand": "Yamaha",
+      "model": "Yamaha Recording Custom Snare",
       "size": "14\" x 6.5\"",
       "shell": "Maple shell",
-      "description": "By the time of The Final Frontier, Nicko McBrain was playing a Premier signature snare drum — a 14 by 6.5-inch maple shell instrument built to his specifications. The maple shell delivered the warm, projecting quality that suited both Kevin Shirley's powerful production style and the album's wide dynamic range.\n\nThe 6.5-inch depth provided a full, resonant crack that sat prominently in the mix without harshness. On a progressive album with tracks exceeding ten minutes, the snare needed to work across many different dynamic contexts: driving verse patterns, climactic chorus power, and the restrained, textured passages that distinguished The Final Frontier's progressive sections.\n\nThe Premier signature snare reflected Nicko's long collaboration with the British drum company — a relationship that produced both his Artist kit and this purpose-built signature model. Tuned to medium tension for balance between projection and musical warmth, it delivered consistently powerful backbeats across the demanding extended sessions required to record nine-minute-plus tracks.",
+      "description": "By the time of The Final Frontier, Nicko McBrain was playing a Yamaha Recording Custom snare drum — a 14 by 6.5-inch maple shell instrument. The maple shell delivered the warm, projecting quality that suited both Kevin Shirley's powerful production style and the album's wide dynamic range.\n\nThe 6.5-inch depth provided a full, resonant crack that sat prominently in the mix without harshness. On a progressive album with tracks exceeding ten minutes, the snare needed to work across many different dynamic contexts: driving verse patterns, climactic chorus power, and the restrained, textured passages that distinguished The Final Frontier's progressive sections.\n\nThe Yamaha Recording Custom snare reflected the same maple-shell construction Nicko had relied on since 1985, carrying his long-established Yamaha-era sound into the most demanding studio sessions of his Iron Maiden career. Tuned to medium tension for balance between projection and musical warmth, it delivered consistently powerful backbeats across the demanding extended sessions required to record nine-minute-plus tracks.",
       "tuningSetting": "Medium tension for warmth and power",
       "heads": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side",
       "estimatedValue": "$500-700 (2010)"
@@ -2767,21 +2767,21 @@ export const articles = {
       "items": [
         {
           "type": "Bass Drum Pedal",
-          "brand": "Premier",
-          "model": "Premier single bass drum pedal",
+          "brand": "Yamaha",
+          "model": "Yamaha single bass drum pedal",
           "notes": "Single pedal — unchanged commitment to single-bass technique through the most demanding album of Nicko's career",
           "description": "On The Final Frontier, Nicko McBrain's single-bass-drum commitment was tested by the most demanding musical material of his Iron Maiden career. Tracks running nine to thirteen minutes required sustained single-pedal endurance at professional tempos — a remarkable demonstration of what proper technique can achieve."
         },
         {
           "type": "Hi-Hat Stand",
-          "brand": "Premier",
-          "model": "Premier Heavy-Duty Hi-Hat Stand",
+          "brand": "Yamaha",
+          "model": "Yamaha Heavy-Duty Hi-Hat Stand",
           "notes": "Heavy-duty stand for extended session demands"
         },
         {
           "type": "Throne",
-          "brand": "Premier",
-          "model": "Premier Percussion Throne",
+          "brand": "Yamaha",
+          "model": "Yamaha Percussion Throne",
           "notes": "Ergonomic and stable for long progressive-track recording sessions"
         },
         {
@@ -2864,7 +2864,7 @@ export const articles = {
       },
       {
         "question": "What drums does Nicko McBrain use on The Final Frontier?",
-        "answer": "Nicko McBrain recorded The Final Frontier (2010) on a Premier Artist kit with birch/basswood shells. The configuration featured a single 22-inch bass drum, three rack toms (10, 12, and 13 inch), and two floor toms (16 and 18 inch). His snare was a Premier Nicko McBrain Signature model at 14 by 6.5 inches with a maple shell. The album's progressive demands — tracks averaging over nine minutes — required sustained single-pedal endurance and a wide fill vocabulary across extended dynamic ranges. See the [Nicko McBrain drummer profile](/drummer/nicko-mcbrain) for his complete career gear history."
+        "answer": "Nicko McBrain recorded The Final Frontier (2010) on a Yamaha Recording Custom kit with birch/basswood shells. The configuration featured a single 22-inch bass drum, three rack toms (10, 12, and 13 inch), and two floor toms (16 and 18 inch). His snare was a Yamaha Recording Custom model at 14 by 6.5 inches with a maple shell. The album's progressive demands — tracks averaging over nine minutes — required sustained single-pedal endurance and a wide fill vocabulary across extended dynamic ranges. See the [Nicko McBrain drummer profile](/drummer/nicko-mcbrain) for his complete career gear history."
       },
       {
         "question": "How progressive is the drumming on The Final Frontier?",
@@ -2877,11 +2877,11 @@ export const articles = {
     ],
     "evolution": {
       "title": "From Brave New World to The Final Frontier: Progressive Ambition",
-      "content": "The Final Frontier represents the culmination of Nicko McBrain's 21st-century progressive drumming arc. Beginning with Brave New World's reunion energy in 2000, Iron Maiden's albums had become progressively more ambitious in scope — longer tracks, more complex arrangements, wider dynamic ranges. By 2010, The Final Frontier pushed these tendencies to their maximum.\n\n**The arc through this period:**\n- **Brave New World (2000):** Reunion energy, Premier Artist, 4-6 minute tracks, UK #1\n- **Dance of Death (2003):** Progressive expansion, longer tracks, darker themes\n- **A Matter of Life and Death (2006):** Concept album ambition, extended progressive structures\n- **The Final Frontier (2010):** Peak progressive — 9-13 minute tracks, Grammy nomination, UK #1 and US #1\n- **The Book of Souls (2015):** Double album extension, 18-minute title track\n\n**The single-pedal constant:** Through every progressive expansion, every longer track, every more demanding arrangement — one pedal. The Final Frontier's thirteen-minute 'When the Wild Wind Blows' is perhaps the greatest testament to what single-pedal technique can achieve in a progressive metal context.\n\n**Paiste Signature evolution:** The cymbal setup on The Final Frontier was Nicko's most comprehensive: three crashes (16, 18, and 19 inch), 22-inch Power Ride, 15-inch hi-hats, China, and Splash. Each addition served a specific musical purpose in the album's extended progressive structures.",
+      "content": "The Final Frontier represents the culmination of Nicko McBrain's 21st-century progressive drumming arc. Beginning with Brave New World's reunion energy in 2000, Iron Maiden's albums had become progressively more ambitious in scope — longer tracks, more complex arrangements, wider dynamic ranges. By 2010, The Final Frontier pushed these tendencies to their maximum.\n\n**The arc through this period:**\n- **Brave New World (2000):** Reunion energy, Yamaha Recording Custom, 4-6 minute tracks, UK #1\n- **Dance of Death (2003):** Progressive expansion, longer tracks, darker themes\n- **A Matter of Life and Death (2006):** Concept album ambition, extended progressive structures\n- **The Final Frontier (2010):** Peak progressive — 9-13 minute tracks, Grammy nomination, UK #1 and US #1\n- **The Book of Souls (2015):** Double album extension, 18-minute title track\n\n**The single-pedal constant:** Through every progressive expansion, every longer track, every more demanding arrangement — one pedal. The Final Frontier's thirteen-minute 'When the Wild Wind Blows' is perhaps the greatest testament to what single-pedal technique can achieve in a progressive metal context.\n\n**Paiste Signature evolution:** The cymbal setup on The Final Frontier was Nicko's most comprehensive: three crashes (16, 18, and 19 inch), 22-inch Power Ride, 15-inch hi-hats, China, and Splash. Each addition served a specific musical purpose in the album's extended progressive structures.",
       "thenVsNow": [
         {
           "category": "Kit",
-          "then": "Premier Artist (2010)",
+          "then": "Yamaha Recording Custom (2010)",
           "now": "Sonor SQ1"
         },
         {
@@ -2891,7 +2891,7 @@ export const articles = {
         },
         {
           "category": "Snare",
-          "then": "Premier Nicko McBrain Signature 14x6.5\"",
+          "then": "Yamaha Recording Custom 14x6.5\"",
           "now": "Sonor Nicko McBrain Signature 14x6.5\""
         },
         {
@@ -2901,7 +2901,7 @@ export const articles = {
         },
         {
           "category": "Pedal",
-          "then": "Premier single pedal",
+          "then": "Yamaha single pedal",
           "now": "Sonor single pedal (still single!)"
         }
       ]
@@ -2929,7 +2929,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "The Album That Took Iron Maiden to Number One in America",
-      "content": "The Final Frontier is the album that proved Iron Maiden's 21st-century resurgence was not a nostalgia act. Debuting at number one in the UK and the United States simultaneously, earning a Grammy nomination for 'El Dorado,' and certified Double Platinum in multiple territories — the album was a commercial and critical triumph that rivalled anything from the band's celebrated 1980s peak.\n\nFor Nicko McBrain, The Final Frontier was the most demanding studio performance of his career. Nine-to-thirteen-minute tracks required him to sustain complete single-take performances across enormous dynamic ranges — from near-silence to full-speed metal — with the technical precision and musical intelligence that had defined his playing since joining Iron Maiden in 1982.\n\nThe Premier Artist kit, Paiste Signature cymbals, and Vic Firth signature sticks were the tools. The single bass drum pedal was the philosophy made hardware. And the performances across The Final Frontier's nine tracks were the proof that, in the right hands, one pedal is enough for any progressive metal challenge.\n\nThe Final Frontier fills the essential arc between A Matter of Life and Death and The Book of Souls. It is the album where Nicko McBrain's progressive drumming reached its fullest expression — and the Grammy nomination for 'El Dorado' is the external validation that the drumming world had noticed."
+      "content": "The Final Frontier is the album that proved Iron Maiden's 21st-century resurgence was not a nostalgia act. Debuting at number one in the UK and the United States simultaneously, earning a Grammy nomination for 'El Dorado,' and certified Double Platinum in multiple territories — the album was a commercial and critical triumph that rivalled anything from the band's celebrated 1980s peak.\n\nFor Nicko McBrain, The Final Frontier was the most demanding studio performance of his career. Nine-to-thirteen-minute tracks required him to sustain complete single-take performances across enormous dynamic ranges — from near-silence to full-speed metal — with the technical precision and musical intelligence that had defined his playing since joining Iron Maiden in 1982.\n\nThe Yamaha Recording Custom kit, Paiste Signature cymbals, and Vic Firth signature sticks were the tools. The single bass drum pedal was the philosophy made hardware. And the performances across The Final Frontier's nine tracks were the proof that, in the right hands, one pedal is enough for any progressive metal challenge.\n\nThe Final Frontier fills the essential arc between A Matter of Life and Death and The Book of Souls. It is the album where Nicko McBrain's progressive drumming reached its fullest expression — and the Grammy nomination for 'El Dorado' is the external validation that the drumming world had noticed."
     }
   },
   "book-of-souls-drum-setup": {

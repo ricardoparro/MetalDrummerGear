@@ -6779,7 +6779,7 @@ Start with a 16\" crash, 18\" crash, and 14\" hi-hats. Add a China cymbal when b
       title: "Black Metal's Unique Pedal Requirements",
       content: `Black metal drumming presents a unique challenge: sustained blast beats at 180–240 BPM across lengthy compositions, often in DIY recording environments where gear must be both reliable and affordable. Unlike death metal where technical precision dominates, black metal's raw, relentless energy demands pedals that can maintain consistent speed over extended periods without fatigue or mechanical failure.
 
-Inferno of Gorgoroth has long used Pearl Eliminator pedals, relying on their durability and consistent action to drive the relentless blast beats on albums like "Twilight of the Idols." Hellhammer of Mayhem, arguably black metal's most influential drummer, used Pearl P-2052C pedals during formative recordings that established the blueprint for the entire genre. Frost of Satyricon brings a technical precision to black metal that demands pedals with exceptional response and reliability.
+Inferno of Gorgoroth has long used Pearl Eliminator pedals, relying on their durability and consistent action to drive the relentless blast beats on albums like "Twilight of the Idols." Hellhammer of Mayhem, arguably black metal's most influential drummer, used Pearl P-2052C pedals during formative recordings that established the blueprint for the entire genre. Frost of Satyricon has played a Tama Iron Cobra Power Glide pedal since 2013, its chain drive rewarding the dynamic control his technical playing demands.
 
 This guide covers the specific pedal needs of black metal drumming — sustained speeds, endurance-focused design, and equipment that can handle the raw, physical demands of the genre.`,
       keyPoints: [
@@ -6890,7 +6890,7 @@ The Eliminator's chain drive with interchangeable cams gives black metal drummer
 
           description: `The Pearl Demon Drive represents the premium evolution of the Eliminator's lineage. For modern black metal drummers who want maximum speed and precision — particularly those playing technical black metal where drum patterns are as complex as death metal — the Demon Drive's direct drive action provides unmatched response.
 
-Frost of Satyricon, who brings a technical precision unusual in black metal, uses high-quality Pearl hardware. The Demon Drive's NiNjA bearing system delivers frictionless action that allows sustained blast beats without the mechanical fatigue that cheaper pedals develop. For black metal compositions with long sustained passages, the Demon Drive's precision means less energy wasted fighting your equipment.`,
+The Demon Drive's NiNjA bearing system delivers frictionless action that allows sustained blast beats without the mechanical fatigue that cheaper pedals develop. For black metal compositions with long sustained passages, the Demon Drive's precision means less energy wasted fighting your equipment.`,
 
           pros: [
             "NiNjA bearing system for ultimate sustained endurance",
@@ -6912,7 +6912,7 @@ Frost of Satyricon, who brings a technical precision unusual in black metal, use
             weight: "4.5 kg (pair)"
           },
           usedBy: [
-            { name: "Frost", band: "Satyricon", note: "High-precision technique requiring reliable, fast action" }
+            { name: "Modern technical black metal drummers", band: "Various", note: "Premium direct drive for maximum speed and precision" }
           ],
           verdict: "The premium choice for technical black metal. If your compositions demand precision at extreme speeds, this is the upgrade.",
           rating: 4.8,
@@ -6930,7 +6930,9 @@ Frost of Satyricon, who brings a technical precision unusual in black metal, use
 
           description: `The Tama Iron Cobra 900 is a beloved workhorse in extreme metal drumming. Its dual cam options — Power Glide (linear) and Rolling Glide (offset/accelerating) — let drummers choose between consistent response and progressive acceleration, giving flexibility that suits different black metal approaches.
 
-The Iron Cobra's chain drive character is well-suited to black metal's raw energy. The Power Glide cam provides consistent, linear response for sustained blast beats, while the Rolling Glide adds power for slower, doomier passages. Many black metal drummers choose the Iron Cobra as a reliable, affordable alternative to Pearl with genuine pro performance.`,
+The Iron Cobra's chain drive character is well-suited to black metal's raw energy. The Power Glide cam provides consistent, linear response for sustained blast beats, while the Rolling Glide adds power for slower, doomier passages. Many black metal drummers choose the Iron Cobra as a reliable, affordable alternative to Pearl with genuine pro performance.
+
+Frost of Satyricon has played a Tama Iron Cobra Power Glide pedal since 2013, its chain drive rewarding the dynamic control his technical black metal playing demands.`,
 
           pros: [
             "Dual cam system (Power Glide / Rolling Glide) for versatility",
@@ -6951,6 +6953,7 @@ The Iron Cobra's chain drive character is well-suited to black metal's raw energ
             weight: "3.5 kg (pair)"
           },
           usedBy: [
+            { name: "Frost", band: "Satyricon", note: "Tama Iron Cobra Power Glide — dynamic control for technical black metal since 2013" },
             { name: "Various black metal drummers", band: "Various", note: "Popular reliable choice across the genre" }
           ],
           verdict: "Excellent alternative to Pearl for black metal. Proven reliability with dual cam flexibility at a reasonable price.",
@@ -7065,17 +7068,17 @@ For developing black metal drummers learning blast beats, the Iron Cobra 600 pro
 
 **Chain Drive (Pearl Eliminator, Iron Cobra, DW 5000):**
 - Traditional feel preferred by foundational black metal drummers
-- Hellhammer and Inferno both played chain drive
+- Hellhammer, Inferno, and Frost all played chain drive
 - The swing in chain drive suits black metal's raw character
 - Lower entry price point — fits black metal's DIY ethos
 
 **Direct Drive (Pearl Demon Drive):**
-- Preferred by modern technical black metal players
+- Preferred by some modern technical black metal players
 - More precise, clinical feel
 - Maximum speed potential for demanding compositions
 - Higher price point
 
-**Black Metal Verdict:** Chain drive has historical precedent and cultural resonance in black metal. Hellhammer's foundational recordings were made on chain drive Pearl pedals. Direct drive is appropriate for technical black metal players like Frost who demand precision. Start with chain drive (Eliminator or Iron Cobra) unless you specifically play technical black metal.`,
+**Black Metal Verdict:** Chain drive has historical precedent and cultural resonance in black metal. Hellhammer's foundational recordings were made on chain drive Pearl pedals, and Frost's Tama Iron Cobra Power Glide proves chain drive handles technical precision too. Direct drive suits players who want maximum speed above all else. Start with chain drive (Eliminator or Iron Cobra) unless you specifically prioritize direct-drive speed.`,
       comparisonTable: [
         { feature: "Historical Black Metal Use", chainDrive: "⭐⭐⭐⭐⭐", directDrive: "⭐⭐⭐" },
         { feature: "Raw Character", chainDrive: "⭐⭐⭐⭐⭐", directDrive: "⭐⭐⭐" },
@@ -7122,14 +7125,14 @@ For developing black metal drummers learning blast beats, the Iron Cobra 600 pro
     relatedDrummers: [
       { slug: 'hellhammer', name: 'Hellhammer', reason: 'Pearl P-2052C — foundational black metal drumming' },
       { slug: 'inferno', name: 'Inferno', reason: 'Pearl Eliminator — Gorgoroth blast beat relentlessness' },
-      { slug: 'frost', name: 'Frost', reason: 'Technical precision in black metal — high-quality Pearl hardware' }
+      { slug: 'frost', name: 'Frost', reason: 'Tama Iron Cobra Power Glide — technical precision in black metal' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'inferno', name: 'Inferno', reason: 'Pearl Eliminator for relentless Gorgoroth blast beats' },
       { slug: 'hellhammer', name: 'Hellhammer', reason: 'Pearl P-2052C — defined black metal drumming' },
-      { slug: 'frost', name: 'Frost', reason: 'Technical black metal precision with high-quality Pearl hardware' },
+      { slug: 'frost', name: 'Frost', reason: 'Tama Iron Cobra Power Glide for technical black metal precision' },
     ],
 
     // FAQ section for SEO

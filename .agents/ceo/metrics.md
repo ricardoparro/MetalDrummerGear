@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-03 11:50 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-03 12:42 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 277 |
-| Sessions | 318 |
-| Page views | 433 |
-| Engagement rate | 64.47% |
-| Avg session (s) | 139 |
+| Active users | 280 |
+| Sessions | 321 |
+| Page views | 434 |
+| Engagement rate | 63.86% |
+| Avg session (s) | 137 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -32,8 +32,8 @@
 | Channel | Sessions | Users |
 | --- | --- | --- |
 | Organic Search | 267 | 231 |
-| Direct | 41 | 36 |
-| Unassigned | 11 | 10 |
+| Direct | 42 | 37 |
+| Unassigned | 14 | 13 |
 | Referral | 5 | 5 |
 | Cross-network | 1 | 1 |
 
@@ -43,8 +43,8 @@
 | United States | 123 | 107 |
 | United Kingdom | 33 | 17 |
 | Brazil | 14 | 13 |
+| Australia | 13 | 13 |
 | Canada | 13 | 12 |
-| Australia | 11 | 11 |
 | China | 11 | 11 |
 | France | 10 | 10 |
 | Sweden | 9 | 9 |
@@ -54,43 +54,44 @@
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 6,652 |
-| Clicks | 144 |
-| CTR | 2.16% |
-| Avg position | 9.7 |
+| Impressions | 8,107 |
+| Clicks | 174 |
+| CTR | 2.15% |
+| Avg position | 9.4 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| danny carey drum kit | 49 | 1 | 2.04% | 11.5 |
-| danny carey drum kit setup | 5 | 1 | 20.00% | 10.4 |
-| eloy casagrande vs joey jordison | 3 | 1 | 33.33% | 5.0 |
+| igor cavalera drum kit | 6 | 2 | 33.33% | 3.8 |
+| arin ilejay drum set | 6 | 1 | 16.67% | 2.0 |
+| danny carey drum kit | 64 | 1 | 1.56% | 11.8 |
+| danny carey drum kit setup | 6 | 1 | 16.67% | 10.0 |
+| eloy casagrande vs joey jordison | 4 | 1 | 25.00% | 5.8 |
 | iggor cavalera drum kit | 4 | 1 | 25.00% | 4.0 |
-| igor cavalera drum kit | 5 | 1 | 20.00% | 3.8 |
 | igor cavalera drum setup | 10 | 1 | 10.00% | 8.9 |
-| jaska raatikainen | 62 | 1 | 1.61% | 7.9 |
-| jaska raatikainen drum set | 5 | 1 | 20.00% | 5.2 |
-| john otto drum setup | 8 | 1 | 12.50% | 6.8 |
-| john otto drumset | 2 | 1 | 50.00% | 1.0 |
+| jaska raatikainen | 71 | 1 | 1.41% | 7.9 |
+| jaska raatikainen drum set | 6 | 1 | 16.67% | 4.5 |
+| john otto drum setup | 10 | 1 | 10.00% | 6.2 |
 
 ### Top countries (impressions, last 7d)
 | Country | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| usa | 2,279 | 44 | 1.93% | 9.2 |
-| bra | 183 | 8 | 4.37% | 6.6 |
-| deu | 239 | 8 | 3.35% | 8.5 |
-| gbr | 385 | 7 | 1.82% | 8.1 |
-| can | 291 | 6 | 2.06% | 8.7 |
-| swe | 123 | 6 | 4.88% | 7.1 |
-| esp | 105 | 5 | 4.76% | 6.5 |
-| fra | 171 | 5 | 2.92% | 7.4 |
-| ita | 98 | 5 | 5.10% | 7.4 |
-| aus | 266 | 4 | 1.50% | 7.8 |
+| usa | 2,804 | 59 | 2.10% | 9.2 |
+| bra | 233 | 11 | 4.72% | 6.8 |
+| deu | 295 | 10 | 3.39% | 8.6 |
+| gbr | 469 | 8 | 1.71% | 8.1 |
+| can | 383 | 7 | 1.83% | 8.7 |
+| aus | 336 | 6 | 1.79% | 7.8 |
+| fra | 212 | 6 | 2.83% | 7.2 |
+| swe | 148 | 6 | 4.05% | 7.1 |
+| esp | 113 | 5 | 4.42% | 6.5 |
+| ita | 131 | 5 | 3.82% | 6.9 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 | Query | Impr | CTR | Pos | Action |
 | --- | --- | --- | --- | --- |
-| jaska raatikainen | 62 | 1.61% | 7.9 | open issue to answer better |
+| danny carey drum kit | 64 | 1.56% | 11.8 | open issue to answer better |
+| jaska raatikainen | 71 | 1.41% | 7.9 | open issue to answer better |
 
 ---
 *Re-run manually: `node .agents/scripts/fetch-metrics.cjs`*

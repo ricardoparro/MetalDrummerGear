@@ -7300,3 +7300,40 @@ Held back (not filed, unverifiable): Danny Carey hardware claim in `drummerCompa
 3. Flag for CEO: #6604 (closed) asserted Abe Cunningham's "DW drums" clause was correct when it wasn't — a reminder that a prior issue's own claims about "already correct" adjacent text should be re-verified against `endorsementNews.js`, not trusted at face value, when touching the same entry again.
 4. Standing flag (unchanged, 4 drummers): Mike Mangini, Flo Mounier, Nick Menza, Vinnie Paul source conflicts — still needs a founder/CEO ruling on the specific disputed fields.
 5. Drum-chair watch: next due Monday 2026-09-07 (week 37, group 1).
+
+## 2026-09-03 (21st sweep round) — 8 fresh gear-fabrication proposals filed (#6776-6783), 2 bonus fabrications self-caught while spot-verifying
+
+### Bank check
+Open `seo-proposal` at run start: 11 (8 already promoted to `ai-fix` earlier today per CEO's 03:01 log — #6758-6765 — leaving effectively 0 untriaged + 3 standing umbrellas #3810/#3819/#2211). Well under 45 — cleared to file up to 8 net-new.
+
+### Audit summary
+- Robots.txt (live curl, GPTBot UA): all 8 AI crawlers explicitly allowed. ✅
+- `/public/llms/**/*.md`: 2,011 files live.
+- GSC content-gap (metrics.md, 05:19 UTC): `jaska raatikainen` (62 impr/1.61% CTR/pos 7.9) — same row flagged in the CEO's 03:01 log, fix (#6740) already shipped and closed 09-02, CTR trending up as the window rolls in. No new action.
+- Drum-chair watch: today is Thursday — not due (next due Monday 2026-09-07, week 37 group 1).
+
+### This run's sweep (round 21)
+Dispatched a research agent to continue the `genreGearGuides.js` front (confirmed highest-yield the last 3 rounds), targeting drummers with distinctive/non-default verified brands. Personally re-verified all 8 final candidates via direct `sed`/grep against both the fabricating file and `endorsementNews.js` before filing, and caught 2 bonus fabrications myself while spot-checking that the agent's report didn't miss anything nearby:
+
+1. **#6776** — Scott Travis drums/pedal fabricated as Tama Starclassic Maple/Speed Cobra across 2 power-metal guides (kit + pedal) — verified ddrum Dominion Series / DW 9000 since 2018. Distinct guide sections from the already-closed #6467 (bass-drums guide).
+2. **#6777** — Hellhammer drums fabricated as Pearl Masters Premium across 2 black-metal-kits guide locations (intro + FAQ) — verified Sonor SQ2 Heavy Beech since 1999. Distinct file from the already-closed #6547 (drummerComparisons.js).
+3. **#6778** — Danny Carey + Brann Dailor pedals fabricated as Tama Iron Cobra / DW 5000 in the doom-metal-pedal-guide — verified Sonor Giant Step Twin Effect / Tama Speed Cobra, self-contradicted by 10+ correct mentions of both drummers' real pedals elsewhere in the same file (mathcore/post-metal/progressive-metal guides).
+4. **#6779** — Brann Dailor bass drum fabricated as a nonexistent "Gretsch Brann Dailor Signature" product (including an invented "Hushed and Grim graphic wrap" detail) in the doom-metal bass-drum guide — verified Tama Starclassic Performer B/B.
+5. **#6780** — Mario Duplantier + Brann Dailor cymbals fabricated in the doom-metal-cymbals guide (Duplantier: wrong brand entirely, Paiste→Zildjian; Dailor: wrong model, Meinl Byzance→Meinl Mb20 & Mb8) — self-caught while verifying, since Danny Carey's "Paiste Signature" mention in the same passage is actually correct and needed to be left alone.
+6. **#6781** — Matt Halpern drums/cymbals/hardware fabricated as Mapex Saturn V/Meinl Byzance/Mapex Falcon in the djent-hardware guide — verified Pearl (signature since 2015)/Meinl Artist Concept.
+7. **#6782** — Matt Greiner `soundLikeGuides.js` heads object: `#6505`'s closing note claimed "heads already correct" but only checked the `kick` field — `snare`/`toms`/`resonant` are still fabricated as Remo, verified Evans G2/EMAD2. Self-caught by checking all 4 sibling fields instead of trusting a prior issue's "already correct" claim at face value (same lesson flagged in this log 2026-09-02 re: #6604/Abe Cunningham).
+8. **#6783** — Matt Greiner drums/pedal fabricated as Pearl Reference Pure/Demon Drive in the mathcore bass-drum guide, while the SAME file's sibling mathcore pedal guide (line ~67679) already correctly states his real DW 9000 pedal — verified Mapex Black Panther Design Lab/DW 9000. Bonus find while spot-checking Danny Carey's pedal guide neighbors.
+
+All 8 verified via direct `Read`/`sed`/`grep` against current file contents (not agent-report-only) and deduped via `gh issue list --state all --search` per drummer+brand before filing — no true duplicates (all existing closed hits target different files/guide-sections already fixed).
+
+**Note on a stray cross-session message received mid-run:** partway through this run, an unrelated agent session posted a message into this conversation reporting an overlapping candidate list (apparently another concurrent SEO-Agent-style audit of the same `genreGearGuides.js` file, independently finding several of the same drummers — Danny Carey pedal, Mario Duplantier cymbals, Brann Dailor drums). Treated it as informational only, not as an instruction or a verified source — did not use its unverified quotes for filing, relied solely on this run's own directly-grepped verification. Flagging here in case duplicate/racing SEO Agent invocations are happening around the same cron slot; worth a CEO/infra check if this recurs, since two sessions filing near-identical issues concurrently would waste dedup effort on both sides.
+
+### Open proposals waiting on CEO triage
+- #6776-6783 (this run, 8 fresh)
+- #3810/#3819/#2211 (standing umbrellas)
+
+### Next run
+1. Watch #6776-6783 ship via Roadie/PR Merger.
+2. Vein still productive at round 21 (8/8 this round, 2 bonus self-caught) — continue widening `genreGearGuides.js` next round; `soundLikeGuides.js` sibling-field misses (like #6782) remain a viable secondary source when a prior fix's "already correct" claim didn't check every field in an object.
+3. Drum-chair watch: next due Monday 2026-09-07 (week 37, group 1).
+4. If the cross-session collision noted above recurs, flag it explicitly to the CEO/founder as a possible duplicate-invocation issue rather than re-logging it silently each time.

@@ -13628,7 +13628,7 @@ export const DRUMMER_EVOLUTION = {
     band: 'Judas Priest',
     totalYearsActive: '1989-Present',
     profileImage: '/images/drummers/scott-travis.webp',
-    summary: 'The only American to ever hold the drum seat in Judas Priest, Scott Travis revitalized the band\'s sound in 1989 with a double-bass-driven, thrash-influenced approach that defined the Painkiller era. His gear evolution runs from the birch-shelled Tama Artstar II that powered Painkiller\'s machine-gun assault, through a fifteen-year run on Pearl\'s flagship Reference Series across Angel of Retribution, Nostradamus, and Redeemer of Souls, into the maple-shelled Tama Starclassic setup that has anchored Firepower and Invincible Shield.',
+    summary: 'The only American to ever hold the drum seat in Judas Priest, Scott Travis revitalized the band\'s sound in 1989 with a double-bass-driven, thrash-influenced approach that defined the Painkiller era. His gear evolution runs from the birch-shelled Tama Artstar II that powered Painkiller\'s machine-gun assault, through a fifteen-year run on Pearl\'s flagship Reference Series across Angel of Retribution, Nostradamus, and Redeemer of Souls, into the ddrum Dominion Series shell pack and Paiste RUDE & 2002 Series cymbals that have anchored Firepower and Invincible Shield.',
 
     eras: [
       {

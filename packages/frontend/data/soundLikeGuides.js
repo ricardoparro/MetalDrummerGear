@@ -10820,7 +10820,7 @@ This guide breaks down the technique, gear, and practice approach behind Richard
       },
       {
         question: "What drums and cymbals does Blake Richardson use?",
-        answer: "Richardson plays DW Collector's Series maple drums with three rack toms for melodic range, DW 9000 double pedals, and Meinl Byzance cymbals. The Byzance series is particularly important — its complex, musical overtones suit both BTBAM's brutal and delicate passages. He uses Vic Firth 5A sticks for the versatility to move between extremes."
+        answer: "Richardson plays Tama Starclassic Bubinga drums with three rack toms for melodic range, Tama Twin Iron Cobra Power Glide pedals, and Sabian HHX Evolution / AAX cymbals. The Sabian mix is particularly important — its complex, musical overtones suit both BTBAM's brutal and delicate passages. He uses Vic Firth American Classic 3A sticks for the versatility to move between extremes."
       },
       {
         question: "Which BTBAM albums should I study for drumming?",

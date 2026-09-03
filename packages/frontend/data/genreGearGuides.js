@@ -115827,7 +115827,7 @@ This guide covers the drum heads that deliver nu-metal's durable, groove-focused
           tier: "pro",
           material: "2-Ply Coated (7mil + 7mil)",
 
-          description: `Ray Luzier's Korn drumming demands a head that delivers dense, syncopated low end while staying durable through the band's punishing, downtuned material. The G2 Coated's reinforced double-ply construction handles exactly that, giving genuine weight to Korn's grooves without losing articulation on off-beat accents.
+          description: `Ray Luzier's Korn drumming demands a head that delivers dense, syncopated low end while staying durable through the band's punishing, downtuned material. The EC2 Coated's reinforced double-ply construction handles exactly that, giving genuine weight to Korn's grooves without losing articulation on off-beat accents.
 
 Its Level 360 collar keeps tuning consistent across both heavily produced studio sessions and Korn's demanding touring schedule.`,
 
@@ -116021,7 +116021,7 @@ Its tight, punchy character stays consistent whether the section is a sparse ver
       content: `Nu-metal's two dominant head brands both offer durable, groove-focused options, with a real split between modern precision and out-of-the-box warmth.
 
 **Evans:**
-- G2 Coated is the genre's most common choice — Ray Luzier's dense, syncopated Korn groove runs on it
+- EC2 Coated is the genre's most common choice — Ray Luzier's dense, syncopated Korn groove runs on it
 - Level 360 collar for reliable tuning across studio and touring use
 - EMAD 2's adjustable muffling handles Joey Jordison's swings between restraint and extreme intensity
 - Preferred by: Ray Luzier, Joey Jordison
@@ -116093,7 +116093,7 @@ Its tight, punchy character stays consistent whether the section is a sparse ver
     faq: [
       {
         question: "What drum heads do nu-metal drummers use?",
-        answer: "Nu-metal drummers generally favor durable, coated double-ply heads for a punchy, groove-focused attack. Ray Luzier of Korn plays Evans G2 Coated heads, David Silveria's foundational Korn tone favored a controlled, muffled Remo-style approach, and John Otto of Limp Bizkit prefers a warmer, single-ply Remo Ambassador for his groove-first feel."
+        answer: "Nu-metal drummers generally favor durable, coated double-ply heads for a punchy, groove-focused attack. Ray Luzier of Korn plays Evans EC2 Coated heads, David Silveria's foundational Korn tone favored a controlled, muffled Remo-style approach, and John Otto of Limp Bizkit prefers a warmer, single-ply Remo Ambassador for his groove-first feel."
       },
       {
         question: "Why does nu-metal need durable heads if it's groove-focused rather than fast?",
@@ -116105,7 +116105,7 @@ Its tight, punchy character stays consistent whether the section is a sparse ver
       },
       {
         question: "What drum heads does Ray Luzier use for Korn?",
-        answer: "Ray Luzier drives Korn's dense, syncopated, downtuned grooves on Evans double-ply heads, primarily the G2 Coated, which delivers the low-end weight and durability his heavy, processed drum sound requires across a demanding touring schedule."
+        answer: "Ray Luzier drives Korn's dense, syncopated, downtuned grooves on Evans double-ply heads, primarily the EC2 Coated / EMAD2, which delivers the low-end weight and durability his heavy, processed drum sound requires across a demanding touring schedule."
       },
       {
         question: "What's the best budget drum head for nu-metal?",
@@ -116116,7 +116116,7 @@ Its tight, punchy character stays consistent whether the section is a sparse ver
     // Conclusion
     conclusion: {
       title: "Find Your Nu-Metal Groove Tone",
-      content: `Nu-metal's drum head choice comes down to how much your material swings between restrained groove and explosive intensity. Ray Luzier's Evans G2 Coated proves that durable, punchy double-ply construction anchors Korn's dense, syncopated grooves through a demanding touring schedule, while David Silveria's muffled, controlled tone laid the genre's foundational template. John Otto shows that a warmer, single-ply Remo Ambassador can anchor decades of groove-first, feel-driven playing when your material doesn't demand extreme durability, and Joey Jordison's Evans EMAD 2 proves the genre can absorb genuine extreme-metal intensity when it needs to.
+      content: `Nu-metal's drum head choice comes down to how much your material swings between restrained groove and explosive intensity. Ray Luzier's Evans EC2 Coated proves that durable, punchy double-ply construction anchors Korn's dense, syncopated grooves through a demanding touring schedule, while David Silveria's muffled, controlled tone laid the genre's foundational template. John Otto shows that a warmer, single-ply Remo Ambassador can anchor decades of groove-first, feel-driven playing when your material doesn't demand extreme durability, and Joey Jordison's Evans EMAD 2 proves the genre can absorb genuine extreme-metal intensity when it needs to.
 
 Start with a coated double-ply head like the Evans G2 for most nu-metal material, and consider a warmer single-ply option if your playing, like John Otto's, prioritizes feel over raw dynamic range.
 

@@ -7387,3 +7387,55 @@ Held back (not filed): Chris Adler pedal (unverifiable pre-2010s era, no timelin
 2. Recommend closing #6777 once #6805 ships (superseded, narrower subset).
 3. Aquiles Priester's `genreGearGuides.js` Trick Drums/Ufip fabrications need a dedicated close-read of what #6578/#6151/#5755 actually shipped vs. what's still live, before refiling — don't re-attempt from a quick grep alone.
 4. Drum-chair watch: next due Monday 2026-09-07 (week 37, group 1).
+
+---
+
+## 2026-09-03 (23rd sweep round) — 7 fresh gear-fabrication proposals filed (#6830-6836); widened the roster to 28 previously-unswept drummers; 1 candidate held back (source conflict), 2 more flagged for CEO/founder ruling
+
+### Bank check
+Open `seo-proposal` at run start: 10 total — 7 already `ai-fix`-promoted (#6805-6811, per CEO's 15:50 UTC mid-day-pulse log) + 3 standing umbrellas (#3810/#3819/#2211). True untriaged bank: 0. Well under the 45 cap → cleared to file up to 8 net-new.
+
+### Audit summary
+- Robots.txt (live curl, GPTBot UA): all 8 AI crawlers explicitly allowed. ✅
+- `/llms.txt`: 200. ✅
+- Metrics (2026-09-03 16:45 UTC): 284 users/325 sessions/436 views (7d); GSC 8,107 impr/174 clicks/2.15% CTR/pos 9.4. Content-gap rows (`danny carey drum kit` 64 impr/1.56% CTR, `jaska raatikainen` 71 impr/1.41% CTR) — both already actioned per today's CEO log (ceiling-hold precedent / #6740 shipped, CTR lag). No new action.
+- Drum-chair watch: today is Thursday — not due (next due Monday 2026-09-07, week 37 group 1).
+
+### This run's sweep
+The prior 22 rounds concentrated on a repeating set of ~40 drummers. Dispatched a research agent to cross-check the 28 drummers from `endorsementNews.js`'s 71-drummer roster who hadn't appeared in any closed/open gear-fabrication issue title yet, against `genreGearGuides.js`, `drummerComparisons.js`, `soundLikeGuides.js`, `albumArticles/*.js`, and `licks/*.js`. Got back 10 candidates; personally re-verified each via direct `Read`/`grep`/`sed` against both the fabricating file and `endorsementNews.js` before filing (dropped 2 the agent flagged as high-confidence once independently checked — see below), plus a `gh issue list --state all --search` dedup pass per drummer.
+
+1. **#6830 — Alex Bent cymbals/snare** (`genreGearGuides.js`, ~85 lines across 5 metalcore guide sections: china/ride/crash/hi-hats/combined-overview + a separate snare guide) — Meinl Byzance Brilliant fabricated (verified Zildjian K Custom Hybrid), Pearl Reference Brass snare fabricated (verified Tama Starclassic Maple). Sticks/hardware in the same file already correct — left untouched. Distinct file from 6 prior closed Alex Bent fixes (drummerComparisons.js/albumArticles.js/endorsementNews.js/gearHighlights), none of which touched genreGearGuides.js.
+2. **#6831 — Daniel Erlandsson whole-file** (`albumArticles/daniel-erlandsson.js`, 2,305 lines) — live-counted 110 "Meinl" + 19 "Paiste" + 11 "Vic Firth" + 59 "Pearl Demon Drive" occurrences still present, vs. 45 correct "Sabian" mentions in the same file. **Notable: issue #5756 was already closed claiming this exact fix shipped — it did not**, per today's direct grep against current file content. Logged as a possible stale-closure (same class as the meta-shell-saga and Alex Bent/Frost precedents in `learned-patterns.md`), not re-litigated as a duplicate since the live file content is the evidence.
+3. **#6832 — Hannes Grossmann Cosmogenesis era** (`albumArticles/hannes-grossmann.js`) — **corrects a mis-scoped prior fix, not a fresh miss.** #5990 (closed) applied his POST-2014 DW branding to the 2009 Cosmogenesis (Obscura) album article; the `endorsementNews.js` timeline (added via #4169, which predates #5990) is explicit that pre-2014 was Tama Starclassic Maple/Tama Iron Cobra, switching to DW only in 2014 for the Alkaloid era. Same class of era-verification miss as the Eloy Casagrande/Kairos lesson (#4160, CLAUDE.md). Cymbals (Meinl, unchanged since 2001) are correctly already Meinl in the article — left untouched.
+4. **#6833 — Blake Richardson batch** (`drummerComparisons.js` + `soundLikeGuides.js` + `genreGearGuides.js`) — DW/Meinl/Vic Firth 5A fabricated across all 3 files vs. verified Tama Starclassic Bubinga/Sabian HHX Evolution-AAX/Vic Firth American Classic 3A. 7 prior closed fixes (#5715/#6148/#5880/#6233/#6636/#5327/#5465) covered albumArticles.js/endorsementNews.js/drummerEvolution.js/gearHighlights/sources.items — none touched these 3 files.
+5. **#6834 — Raymond Herrera** (`albumArticles.js` Digimortal FAQ, 2 answers + `drummerComparisons.js` vs-Garstka entry) — Pearl Reference Series fabricated for all 3 Fear Factory albums (verified Tama Starclassic); separately, a fabricated "Zildjian A Custom" addition alongside the correct Z Custom in the comparison entry. 7 prior closed fixes explicitly scoped around these two residual spots (#6225 named the FAQ block out of scope for its own narrower fix).
+6. **#6835 — Tim Yeung drum kit** (`soundLikeGuides.js`) — "Pearl Reference Masters" fabricated (verified Tama Starclassic Bubinga since 2005). Confirmed cymbals/pedal/sticks sub-blocks in the same guide are already correct (Sabian AAX/HHX, Tama Speed Cobra 910, Vic Firth 5B) — narrower single-field fix than the original candidate suggested.
+7. **#6836 — Jocke Wallgren licks** (`licks/jocke-wallgren.js`, 3 identical entries) — drum model wrong (Pearl Masters Series vs verified Pearl Reference Pure), cymbal brand wrong (Sabian vs verified Zildjian A Custom & K Custom), pedal hedged ("DW or Pearl") vs. a specific verified model (Pearl Demon Drive). First fix to touch the `licks/` directory for this drummer.
+
+**Held back (not filed) — Nick Augusto Shogun-era drums/cymbals**: `endorsementNews.js`'s own `nick-augusto` entry is internally self-contradictory — `currentEndorsements` states Pearl/Sabian "since 2011", but the `timeline` array's own 2011 entries say he switched to **Tama Starclassic Performer B/B** / **Meinl MB20 & Classics Custom** at that same date, "carried unchanged into Vengeance Falls (2013)". Multiple prior closed issues (#5802/#6176/#5375) already fixed downstream content to match `currentEndorsements` (Pearl/Sabian), i.e. this drummer's source-of-truth has a standing, unresolved internal conflict between its own two data structures for the 2011+ era. The pre-2011 Shogun-era facts (DW 2007, Meinl 2008) are NOT part of this conflict and looked safe in isolation, but given the same file's demonstrated unreliability for this drummer post-2011, held back rather than risk shipping a fix whose neighboring "verified" data may itself need a human ruling first.
+
+**New addition to the standing source-conflict watch list** (previously: Mike Mangini, Flo Mounier, Nick Menza, Vinnie Paul — all need a founder/CEO ruling before further target-file fixes): add **Nick Augusto** (`currentEndorsements` vs. `timeline` disagree on drums/cymbals for the 2011+ era, see above). Also flagging **Hannes Grossmann's sticks field** for awareness only (not a conflict needing a ruling, just an inconsistency): `currentEndorsements.sticks.since` says 2014, but the timeline's own Vic Firth entry says sticks were adopted in 2009 — brand is consistent (Vic Firth) so no downstream content is wrong, just the `since` date in the source file itself is imprecise.
+
+All 7 filed proposals personally verified via direct `Read`/`grep`/`sed` against current file contents and `endorsementNews.js`, plus a `gh issue list --state all --search` dedup pass per drummer before filing.
+
+### Proposals filed this run (7)
+1. #6830 — Alex Bent cymbals/snare batch (genreGearGuides.js, ~85 lines, 5 sections)
+2. #6831 — Daniel Erlandsson whole-file batch (albumArticles.js, 199 fabricated occurrences, corrects a stale #5756 closure)
+3. #6832 — Hannes Grossmann Cosmogenesis era-aware correction (albumArticles.js, corrects mis-scoped #5990)
+4. #6833 — Blake Richardson 3-file batch (drummerComparisons.js/soundLikeGuides.js/genreGearGuides.js)
+5. #6834 — Raymond Herrera Digimortal FAQ + comparison entry (albumArticles.js/drummerComparisons.js)
+6. #6835 — Tim Yeung drum kit (soundLikeGuides.js, single field)
+7. #6836 — Jocke Wallgren licks batch (licks/jocke-wallgren.js, 3 entries)
+
+Held back (not filed): Nick Augusto Shogun-era drums/cymbals — adjacent source-of-truth internal conflict for the same drummer, needs a ruling first (see above).
+
+### Open proposals waiting on CEO triage
+- #6830-6836 (this run, 7 fresh)
+- #3810/#3819/#2211 (standing umbrellas)
+
+### Next run
+1. Watch #6830-6836 ship via Roadie/PR Merger.
+2. Flag for CEO/founder: Nick Augusto added to the standing source-conflict watch list (now 5 drummers: Mike Mangini, Flo Mounier, Nick Menza, Vinnie Paul, Nick Augusto) — all need a ruling on which `endorsementNews.js` field wins before further content fixes on the disputed fields are safe.
+3. Flag for CEO: #5756 (Daniel Erlandsson) and #5990 (Hannes Grossmann) both illustrate that a closed SEO-proposal issue is not proof the fix shipped/was correctly scoped — worth a spot-check habit when an issue number is cited as "already fixed" during dedup passes, not just a title-match search.
+4. 22 more roster drummers remain unswept by this run's specific target list (the ones marked "clean" by this round's agent — Eloy Casagrande, Jay Weinberg, Ben Koller, Gavin Harrison, Paul Bostaph, Morgan Ågren, Ryan Van Poederooyen, Martin Lopez, Matt Garstka, Sean Reinert, Adrian Erlandsson, Jon Dette, Jimmy DeGrasso, Nick Barker, Alex Rüdinger, John Longstreth, Waltteri Väyrynen) — genuinely clean this round, don't re-check next round without a reason (e.g. a new content merge touching their pages).
+5. Drum-chair watch: next due Monday 2026-09-07 (week 37, group 1).

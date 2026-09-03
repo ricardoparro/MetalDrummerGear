@@ -80554,7 +80554,7 @@ Budget shouldn't stop you either. A Pearl Demonator or Tama Iron Cobra 600 will 
     // SEO metadata
     title: "Best Snare Drums for Power Metal: 2026 Ultimate Guide",
     metaTitle: "Best Snare Drums for Power Metal 2026 | MetalForge Expert Guide",
-    description: "Best snare drums for power metal drumming: what Scott Travis (Tama Starphonic Brass), Aquiles Priester (Trick Drums Custom), Nicko McBrain (Sonor Signature), and Mikkey Dee (Sonor SQ2 Signature) actually play. Bright, cutting projection for power metal's soaring, high-tempo anthems — ranked budget to pro.",
+    description: "Best snare drums for power metal drumming: what Scott Travis (ddrum Scott Travis Signature), Aquiles Priester (Trick Drums Custom), Nicko McBrain (Sonor Signature), and Mikkey Dee (Sonor SQ2 Signature) actually play. Bright, cutting projection for power metal's soaring, high-tempo anthems — ranked budget to pro.",
     seoKeywords: [
       'best snare drums for power metal',
       'power metal snare drum',
@@ -80565,7 +80565,7 @@ Budget shouldn't stop you either. A Pearl Demonator or Tama Iron Cobra 600 will 
       'bright cutting snare metal',
       'best snare for fast double bass metal',
       'power metal drum setup',
-      'tama starphonic brass snare'
+      'ddrum scott travis signature snare'
     ],
     ogImage: '/api/og/guide?type=genre-gear&gear=snares&genre=power-metal',
     datePublished: '2026-07-06',
@@ -80591,14 +80591,14 @@ Budget shouldn't stop you either. A Pearl Demonator or Tama Iron Cobra 600 will 
       title: "Why Power Metal Needs a Bright, Cutting Snare",
       content: `Power metal's soaring vocal melodies, galloping riffs, and sustained double-bass patterns need a snare that cuts through a dense, often orchestral or keyboard-heavy mix without ever sounding harsh. That means power metal drummers generally favor brighter, more cutting tones than doom or sludge metal's deep, resonant approach — a snare voice built to punctuate anthemic choruses and stay articulate at high tempos.
 
-Scott Travis has run a Tama Starphonic Brass 14"x6" snare since returning to Tama for Judas Priest's "Firepower" (2018), carrying through to "Invincible Shield" (2024). Aquiles Priester's Trick Drums Custom 14"x6.5" snare gives Angra's neoclassical, high-tempo material its cutting attack. Nicko McBrain's Sonor Nicko McBrain Signature 14"x6.5" snare has anchored Iron Maiden's galloping anthems from "Virtual XI" (1998) through "Senjutsu" (2021). Mikkey Dee's Sonor SQ2 Mikkey Dee Signature 14"x7.25" birch snare, built on his longtime Sonor SQ2 endorsement dating back to his King Diamond days, carried the final years of his 23-year Motörhead tenure and now continues with Scorpions.
+Scott Travis has run his own ddrum Scott Travis Signature 14"x6.5" snare, part of his ddrum Dominion Series shell pack, since switching to ddrum for Judas Priest's "Firepower" (2018), carrying through to "Invincible Shield" (2024). Aquiles Priester's Trick Drums Custom 14"x6.5" snare gives Angra's neoclassical, high-tempo material its cutting attack. Nicko McBrain's Sonor Nicko McBrain Signature 14"x6.5" snare has anchored Iron Maiden's galloping anthems from "Virtual XI" (1998) through "Senjutsu" (2021). Mikkey Dee's Sonor SQ2 Mikkey Dee Signature 14"x7.25" birch snare, built on his longtime Sonor SQ2 endorsement dating back to his King Diamond days, carried the final years of his 23-year Motörhead tenure and now continues with Scorpions.
 
 This guide breaks down shell material, brightness, and projection for power metal snares — comparing four drummers whose setups define the genre's cutting, anthemic sound, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
-        "Scott Travis's Tama Starphonic Brass snare has anchored Judas Priest since \"Firepower\" (2018)",
+        "Scott Travis's ddrum Scott Travis Signature snare has anchored Judas Priest since \"Firepower\" (2018)",
         "Aquiles Priester's Trick Drums Custom snare cuts through Angra's neoclassical, high-tempo material",
         "Nicko McBrain's Sonor Signature snare has powered Iron Maiden's galloping anthems since 1998",
-        "Bright, cutting brass and steel shells dominate power metal, prioritizing projection over deep resonance"
+        "Bright, cutting purpose-built and steel shells dominate power metal, prioritizing projection over deep resonance"
       ]
     },
 
@@ -80609,8 +80609,8 @@ This guide breaks down shell material, brightness, and projection for power meta
         {
           name: "Bright, Cutting Shell Material",
           icon: "🔆",
-          description: "Scott Travis's brass-shell Tama Starphonic and Mikkey Dee's birch-shell Sonor SQ2 Signature both prioritize a bright, cutting tone that projects clearly against power metal's often orchestral or keyboard-heavy arrangements.",
-          recommendation: "Brass or steel shells for maximum brightness and cut through dense, layered mixes"
+          description: "Scott Travis's purpose-built ddrum Scott Travis Signature and Mikkey Dee's birch-shell Sonor SQ2 Signature both prioritize a bright, cutting tone that projects clearly against power metal's often orchestral or keyboard-heavy arrangements.",
+          recommendation: "Bright, purpose-built or steel shells for maximum cut through dense, layered mixes"
         },
         {
           name: "Consistent Projection at High Tempos",
@@ -80639,7 +80639,7 @@ This guide breaks down shell material, brightness, and projection for power meta
         {
           name: "Tuning for Mix Separation",
           icon: "🎯",
-          description: "With power metal's dense arrangements often layering keyboards, orchestration, and soaring vocals, a snare tuned bright and controlled — like Scott Travis's Starphonic Brass — carves out its own frequency space rather than getting lost in the mix.",
+          description: "With power metal's dense arrangements often layering keyboards, orchestration, and soaring vocals, a snare tuned bright and controlled — like Scott Travis's ddrum Signature — carves out its own frequency space rather than getting lost in the mix.",
           recommendation: "Tighter, brighter tuning to separate the snare from dense, layered arrangements"
         }
       ]
@@ -80651,43 +80651,43 @@ This guide breaks down shell material, brightness, and projection for power meta
       pedals: [
         {
           rank: 1,
-          name: "Tama Starphonic Brass",
-          brand: "Tama",
-          model: "Starphonic Brass 14\"x6\"",
+          name: "ddrum Scott Travis Signature",
+          brand: "ddrum",
+          model: "Scott Travis Signature 14\"x6.5\"",
           image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Drums_01.jpg",
           priceRange: "€450-600",
           tier: "pro",
-          material: "Brass (14x6\")",
+          material: "ddrum Signature Shell (14x6.5\")",
 
-          description: `Scott Travis has run a Tama Starphonic Brass 14"x6" snare since returning to Tama for Judas Priest's "Firepower" (2018) after roughly 15 years on Pearl Reference Series, carrying the same setup through "Invincible Shield" (2024). The brass shell delivers a bright, cutting crack that traces back to the band's "Painkiller" (1990) era heaviness while staying articulate at Priest's driving, anthemic tempos.
+          description: `Scott Travis has run his own ddrum Scott Travis Signature 14"x6.5" snare, built to his own specifications, since switching to ddrum for Judas Priest's "Firepower" (2018) after roughly 15 years on Pearl Reference Series, carrying the same setup through "Invincible Shield" (2024). The purpose-built shell delivers a bright, cutting crack designed for maximum cut through Priest's dual-guitar attack while staying articulate at Priest's driving, anthemic tempos.
 
-Travis's return to Tama shows how a brass-shell snare can deliver both the projection and the bite that decades of Judas Priest's genre-defining catalog demand.`,
+Travis's signature shell shows how a snare built to a drummer's own specifications can deliver both the projection and the bite that decades of Judas Priest's genre-defining catalog demand.`,
 
           pros: [
-            "Scott Travis's current Judas Priest setup — bright, cutting brass projection",
+            "Scott Travis's current Judas Priest setup — purpose-built for maximum cut",
             "Proven across \"Firepower\" (2018) and \"Invincible Shield\" (2024)",
-            "Brass shell delivers exceptional cut through dense, anthemic mixes",
-            "6\" depth balances body with bright articulation",
-            "Starphonic series known for exceptional projection"
+            "Signature shell delivers exceptional cut through dense, anthemic mixes",
+            "6.5\" depth balances body with bright articulation",
+            "Built to Travis's own specifications for cutting through Priest's dual-guitar attack"
           ],
           cons: [
-            "Premium brass-shell pricing",
+            "Premium signature-model pricing",
             "Brighter voicing may need taming in already bright-sounding rooms",
             "Requires careful tuning to avoid excessive ring"
           ],
           specs: {
-            shell: "Brass (Starphonic)",
+            shell: "ddrum Signature",
             diameter: "14\"",
-            depth: "6\"",
-            throwOff: "Tama MTS-100",
+            depth: "6.5\"",
+            throwOff: "ddrum",
             wires: "20-strand"
           },
           usedBy: [
-            { name: "Scott Travis", band: "Judas Priest", note: "14x6\" Tama Starphonic Brass — bright, cutting projection since \"Firepower\"" }
+            { name: "Scott Travis", band: "Judas Priest", note: "14x6.5\" ddrum Scott Travis Signature — bright, cutting projection since \"Firepower\"" }
           ],
           verdict: "The power metal standard for bright, anthemic projection. Proven across Judas Priest's modern era.",
           rating: 4.8,
-          affiliateLink: "https://www.thomann.de/intl/tama_starphonic_brass_snare.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/ddrum_scott_travis_signature_snare.htm?partner_id=metalforge"
         },
         {
           rank: 2,
@@ -80824,9 +80824,9 @@ The custom aluminum/steel construction is built specifically for drummers who ne
           priceRange: "€90-140",
           tier: "budget",
           material: "Steel",
-          description: "A steel shell in the same Tama family as Scott Travis's professional Starphonic Brass snare, offering a brighter, more cutting entry point for developing power metal drummers.",
-          pros: ["Same Tama family DNA as pro power metal setups", "Bright, cutting steel tone", "Durable steel construction", "Budget-friendly pricing"],
-          cons: ["Less refined projection than Starphonic Brass", "Basic hardware and hoops"],
+          description: "A steel shell from the same Tama family Scott Travis played during Judas Priest's \"Painkiller\" (1990) era, offering a brighter, more cutting entry point for developing power metal drummers.",
+          pros: ["Same Tama family DNA as Travis's Painkiller-era setup", "Bright, cutting steel tone", "Durable steel construction", "Budget-friendly pricing"],
+          cons: ["Less refined projection than a signature-model snare", "Basic hardware and hoops"],
           verdict: "Best budget steel option for power metal's bright, cutting sound.",
           rating: 4.0,
           affiliateLink: "https://www.thomann.de/intl/tama_imperialstar_steel_snare.htm?partner_id=metalforge"
@@ -80850,11 +80850,11 @@ The custom aluminum/steel construction is built specifically for drummers who ne
 
     // Comparison
     comparison: {
-      title: "Brass vs Steel vs Signature Birch for Power Metal",
+      title: "ddrum Signature vs Steel vs Signature Birch for Power Metal",
       content: `Shell material and design split power metal's leading drummers into distinct camps. Here's how they compare:
 
-**Brass Shell (Scott Travis):**
-- Maximum brightness and cut for dense, anthemic arrangements
+**ddrum Signature Shell (Scott Travis):**
+- Purpose-built for maximum cut through dense, anthemic arrangements
 - Proven across Judas Priest's modern touring era
 - Best for technical, riff-heavy power metal
 
@@ -80868,7 +80868,7 @@ The custom aluminum/steel construction is built specifically for drummers who ne
 - Decades-proven across two legendary bands
 - Best for drummers who prioritize consistency night after night
 
-**Our Recommendation:** Start with a bright steel shell (Tama Imperialstar or Sonor Force 3007) if your priority is affordable, cutting projection. Choose a brass shell (Tama Starphonic) for maximum cut through the densest, most orchestral power metal arrangements. Consider a signature birch snare (Sonor SQ2 Signature) if you want proven touring reliability.`,
+**Our Recommendation:** Start with a bright steel shell (Tama Imperialstar or Sonor Force 3007) if your priority is affordable, cutting projection. Choose a purpose-built signature shell (ddrum Scott Travis Signature) for maximum cut through the densest, most orchestral power metal arrangements. Consider a signature birch snare (Sonor SQ2 Signature) if you want proven touring reliability.`,
       comparisonTable: [
         { feature: "Brightness/Cut", maple: "⭐⭐⭐", hybrid: "⭐⭐⭐⭐⭐", dual: "⭐⭐⭐⭐" },
         { feature: "Tonal Flexibility", maple: "⭐⭐⭐", hybrid: "⭐⭐⭐", dual: "⭐⭐⭐⭐⭐" },
@@ -80883,7 +80883,7 @@ The custom aluminum/steel construction is built specifically for drummers who ne
       picks: [
         {
           category: "Best Overall",
-          pedal: "Tama Starphonic Brass",
+          pedal: "ddrum Scott Travis Signature",
           reason: "Scott Travis's current Judas Priest setup — bright, cutting projection proven across the band's modern era."
         },
         {
@@ -80911,7 +80911,7 @@ The custom aluminum/steel construction is built specifically for drummers who ne
       'best-drum-kits-for-symphonic-metal'
     ],
     relatedDrummers: [
-      { slug: 'scott-travis', name: 'Scott Travis', reason: 'Tama Starphonic Brass — Judas Priest bright, cutting projection' },
+      { slug: 'scott-travis', name: 'Scott Travis', reason: 'ddrum Scott Travis Signature — Judas Priest bright, cutting projection' },
       { slug: 'aquiles-priester', name: 'Aquiles Priester', reason: 'Trick Drums Custom — Angra neoclassical high-tempo attack' },
       { slug: 'nicko-mcbrain', name: 'Nicko McBrain', reason: 'Sonor Signature — Iron Maiden galloping anthem projection' },
       { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'Sonor SQ2 Signature — Motörhead/Scorpions touring reliability' }
@@ -80919,7 +80919,7 @@ The custom aluminum/steel construction is built specifically for drummers who ne
 
     // Featured drummers (issue template)
     featuredDrummers: [
-      { slug: 'scott-travis', name: 'Scott Travis', reason: 'Tama Starphonic Brass — Judas Priest bright, cutting projection' },
+      { slug: 'scott-travis', name: 'Scott Travis', reason: 'ddrum Scott Travis Signature — Judas Priest bright, cutting projection' },
       { slug: 'aquiles-priester', name: 'Aquiles Priester', reason: 'Trick Drums Custom — Angra neoclassical high-tempo attack' },
       { slug: 'nicko-mcbrain', name: 'Nicko McBrain', reason: 'Sonor Signature — Iron Maiden galloping anthem projection' },
       { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'Sonor SQ2 Signature — Motörhead/Scorpions touring reliability' }
@@ -80929,30 +80929,30 @@ The custom aluminum/steel construction is built specifically for drummers who ne
     faq: [
       {
         question: "Who are the best power metal drummers and what snares do they use?",
-        answer: "Scott Travis of Judas Priest plays a Tama Starphonic Brass 14x6\" snare, Aquiles Priester of Angra plays a Trick Drums Custom 14x6.5\" snare, Nicko McBrain of Iron Maiden plays a Sonor Signature 14x6.5\" snare, and Mikkey Dee of Motörhead/Scorpions plays a Sonor SQ2 Mikkey Dee Signature 14x7.25\" birch snare."
+        answer: "Scott Travis of Judas Priest plays a ddrum Scott Travis Signature 14x6.5\" snare, Aquiles Priester of Angra plays a Trick Drums Custom 14x6.5\" snare, Nicko McBrain of Iron Maiden plays a Sonor Signature 14x6.5\" snare, and Mikkey Dee of Motörhead/Scorpions plays a Sonor SQ2 Mikkey Dee Signature 14x7.25\" birch snare."
       },
       {
         question: "What snare drum does Scott Travis use?",
-        answer: "Scott Travis of Judas Priest has played a Tama Starphonic Brass 14\"x6\" snare since returning to Tama for \"Firepower\" (2018) after roughly 15 years on Pearl Reference Series, carrying the same setup through \"Invincible Shield\" (2024)."
+        answer: "Scott Travis of Judas Priest has played his own ddrum Scott Travis Signature 14\"x6.5\" snare since switching to ddrum for \"Firepower\" (2018) after roughly 15 years on Pearl Reference Series, carrying the same setup through \"Invincible Shield\" (2024)."
       },
       {
         question: "What snare depth is best for power metal?",
-        answer: "14x6.5\" is the power metal standard — Nicko McBrain uses that depth for anthemic body with bright projection, while Scott Travis's Tama Starphonic Brass sits slightly shallower at 14x6\" for extra cut and Mikkey Dee's Sonor SQ2 Signature runs slightly deeper at 14x7.25\"."
+        answer: "14x6.5\" is the power metal standard — Nicko McBrain and Scott Travis's ddrum Scott Travis Signature both use that depth for anthemic body with bright projection, while Mikkey Dee's Sonor SQ2 Signature runs slightly deeper at 14x7.25\"."
       },
       {
         question: "Why does power metal need a brighter snare than doom or sludge metal?",
-        answer: "Power metal's dense, often orchestral or keyboard-heavy arrangements need a snare that cuts through without getting buried, unlike doom and sludge's slower, riff-driven approach that favors deep, resonant tone. Scott Travis's brass-shell Tama Starphonic and Mikkey Dee's birch-shell Sonor SQ2 Signature both prioritize brightness and projection over low-end weight."
+        answer: "Power metal's dense, often orchestral or keyboard-heavy arrangements need a snare that cuts through without getting buried, unlike doom and sludge's slower, riff-driven approach that favors deep, resonant tone. Scott Travis's purpose-built ddrum Scott Travis Signature and Mikkey Dee's birch-shell Sonor SQ2 Signature both prioritize brightness and projection over low-end weight."
       },
       {
         question: "Do I need a pro-level snare to play power metal?",
-        answer: "No — a Tama Imperialstar or Sonor Force 3007 steel snare, tuned bright and tight, will teach real power metal technique at a fraction of the price of the genre's professional Starphonic and Sonor Signature models. Upgrade once your technique and budget allow."
+        answer: "No — a Tama Imperialstar or Sonor Force 3007 steel snare, tuned bright and tight, will teach real power metal technique at a fraction of the price of the genre's professional ddrum Signature and Sonor Signature models. Upgrade once your technique and budget allow."
       }
     ],
 
     // Conclusion
     conclusion: {
       title: "Find Your Power Metal Snare Voice",
-      content: `Power metal snare choice comes down to how bright and cutting you need your projection to be against dense, anthemic arrangements. Scott Travis's brass-shell Tama Starphonic has defined Judas Priest's modern touring era with maximum cut. Nicko McBrain's Sonor Signature snare has powered Iron Maiden's galloping anthems for decades, while Mikkey Dee's Sonor SQ2 Signature snare shows the touring reliability that carried him through 23 years with Motörhead and into Scorpions. Aquiles Priester's custom Trick Drums snare rounds things out, staying articulate through Angra's most extreme sustained tempos.
+      content: `Power metal snare choice comes down to how bright and cutting you need your projection to be against dense, anthemic arrangements. Scott Travis's purpose-built ddrum Scott Travis Signature has defined Judas Priest's modern touring era with maximum cut. Nicko McBrain's Sonor Signature snare has powered Iron Maiden's galloping anthems for decades, while Mikkey Dee's Sonor SQ2 Signature snare shows the touring reliability that carried him through 23 years with Motörhead and into Scorpions. Aquiles Priester's custom Trick Drums snare rounds things out, staying articulate through Angra's most extreme sustained tempos.
 
 None of these approaches is more "correct" — all four represent power metal's foundational commitment to bright, cutting projection that carves through dense, layered arrangements. Start with whichever shell material matches your material's density, and don't be afraid to tune brighter and tighter than doom or sludge metal convention would suggest.
 

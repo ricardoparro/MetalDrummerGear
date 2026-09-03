@@ -5,6 +5,38 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-09-03 03:00 UTC*
 
 ---
+## 2026-09-03 10:42 — Deep run: found 2 systemic fabrication patterns hiding behind narrow proposals (Scott Travis 238x, Brann Dailor Gretsch 25x); 6 proposals promoted, 3 consolidated replacements filed
+
+### Context (≤3 lines)
+First run after 07:00 UTC (deep run). Metrics 10:42 UTC (277 users/318 sessions/433 views 7d; GSC 6,652 impr/144 clicks/2.16% CTR/pos 9.7). Eligible `ai-fix` backlog 0 at run start, 0 open PRs, 8 fresh untriaged `seo-proposal` (#6776-6783, filed 05:43-05:45 UTC) plus the 3 standing L1/L2/L3 umbrellas.
+
+### Actions taken
+- **Live-verified all 8 fresh proposals against source files** (not just spot-checks — grepped exact fabricated strings for each). 6 confirmed narrow/accurate as filed and promoted directly: #6777 (Hellhammer Pearl Masters Premium), #6778 (Danny Carey/Brann Dailor pedals), #6780 (Mario Duplantier/Brann Dailor cymbals — added a comment flagging a 2nd "Meinl Byzance" location at line 96991 the issue missed), #6781 (Matt Halpern), #6782 (Matt Greiner heads), #6783 (Matt Greiner bass drum/pedal).
+- **2 proposals uncovered much larger systemic problems while verifying context around the cited lines:**
+  - **#6776** (Scott Travis, cited 2 locations) — grepping wider showed genreGearGuides.js has 238 total Scott Travis mentions, ~68 of which wrongly state Tama Starclassic/Sabian HHX as his CURRENT gear (verified: ddrum Dominion Series/Paiste RUDE since Firepower 2018, corroborated by 5 other data files). Closed #6776, filed **#6802** (consolidated, era-aware fix — Sabian HHX is correctly scoped to his 2000s-2014 Pearl era, so this needs judgment, not blind replace) + **#6803** (tiny follow-up: `drummerEvolution.js`'s own summary line contradicts its own era data 150 lines below).
+  - **#6779** (Brann Dailor bass drum, cited 1 location) — "Gretsch Brann Dailor Signature" is a wholesale invented product (Gretsch isn't even his brand) appearing 25x across bass-drum/kit/snare/pedal guide sections. Closed #6779, filed **#6804** (consolidated fix to Tama Starclassic Performer B/B per endorsementNews.js, with per-field guidance for pedal/snare).
+- **Backlog gate**: 0 → 9 eligible (6 promoted + 3 new consolidated), well under 45/80 threshold.
+- **GSC content-gap**: `jaska raatikainen` (62 impr, 1.61% CTR) flagged by fetch-metrics — already fixed via #6740 (closed 2026-09-02, metaDescription rewrite); GSC data lag explains it still showing in this week's window. No new action.
+- **L1/L2/L3** (#3810/#3819/#2211): snapshots still 2026-08-31 generation, already fully triaged in prior runs. L2 cited count 67/100 — well above minimum-pressure threshold, no forced L2 issue needed. Next refresh due ~09-07.
+- **Founder ideas**: inbox empty.
+- **Human-founder blockers**: all 7 standing issues unchanged `updatedAt`, no re-spam.
+- **Atomic-split sweep**: the 20 pre-existing `hold`-labeled roster/band-split issues re-confirmed freeze-blocked, none eligible. New work all single-file, atomic.
+- **Starvation check**: not triggered (9 eligible, healthy).
+
+### State delta
+- ai-fix backlog: 0 → 9 (#6777/6778/6780/6781/6782/6783/6802/6803/6804)
+- seo-proposal bank (excl. umbrellas): 8 → 0
+- 2 new learned-pattern instances: large-scale copy-pasted fabrications can hide behind narrow SEO-agent proposals — worth a wider grep before promoting when a proposal's cited fabrication is a distinctive/unusual phrase (a nonexistent product name, a specific brand swap) that plausibly got copy-pasted across many guide sections in the same generation pass.
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 8/8 triaged (6 promoted as filed, 2 superseded by broader consolidated fixes after live verification exposed larger scope). ✅ GSC-gap: 1 row reviewed, already fixed, data lag. ✅ L1/L2/L3: no fresh snapshot since 08-31, already actioned; L2 healthy at 67/100. ✅ Starvation: not triggered. ✅ Atomic split: 20 stale issues re-checked, none eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #6777/6778/6780/6781/6782/6783/6802/6803/6804 ship via Roadie/PR Merger — #6802 and #6804 are larger/more judgment-heavy than typical, worth checking their PRs more carefully than usual.
+2. Watch for the next L1/L2/L3 weekly refresh (last 08-31, due ~09-07).
+3. Consider whether this run's pattern (narrow proposal hiding a wide fabrication) warrants a note to the SEO Agent to widen its own grep before filing — revisit if it recurs.
+
+---
 ## 2026-09-03 03:01 — Cheap pulse: 8 fresh gear-fabrication proposals promoted (#6758-6765)
 
 ### Context (≤3 lines)

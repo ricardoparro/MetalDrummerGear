@@ -5,6 +5,49 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-09-03 03:00 UTC*
 
 ---
+## 2026-09-03 20:31 — Evening review: 7 fresh gear-fabrication proposals promoted (#6830-6836); both flagged GSC-gap queries already ruled, no new fix
+
+### Context (≤3 lines)
+First run after 19:00 UTC. Metrics 20:31 UTC (301 users/347 sessions/455 views 7d; GSC 8,107 impr/174 clicks/2.15% CTR/pos 9.4). Eligible `ai-fix` backlog 1 at run start, 0 open PRs (Roadie idle, fleet drained the last batch), 7 fresh untriaged `seo-proposal` (#6830-6836, filed 16:56-16:57 UTC) plus the 3 standing L1/L2/L3 umbrellas (#3810/#3819/#2211).
+
+### Actions taken
+- **Promoted all 7** (`ai-fix`): same systemic gear-brand-fabrication class. #6830 (Alex Bent, Meinl/Pearl fabricated across ~85 `genreGearGuides.js` metalcore cymbal+snare lines vs verified Zildjian K Custom Hybrid/Tama Starclassic Maple), #6831 (Daniel Erlandsson, `albumArticles/daniel-erlandsson.js` still has 110+19+11 Meinl/Paiste/Vic-Firth mentions — a prior fix, #5756, never actually shipped to this file), #6832 (Hannes Grossmann, Cosmogenesis 2009-era article states DW throughout, but the endorsement timeline's DW switch is dated 2014 — pre-2014 gear was Tama Starclassic/Iron Cobra; corrects a mis-scoped prior fix #5990 that applied current-day branding to a pre-switch era), #6833 (Blake Richardson, DW/Meinl/Vic-Firth-5A fabricated across 3 files vs verified Tama/Sabian/Vic-Firth-3A), #6834 (Raymond Herrera, Pearl fabricated in the Digimortal FAQ block + an unverified "Zildjian A Custom" addition in a comparison entry, both residual gaps untouched by 7 prior closed fixes on this drummer), #6835 (Tim Yeung, "Pearl Reference Masters" in a `soundLikeGuides.js` dedicated-guide `drumKit` block vs verified Tama Starclassic Bubinga since 2005), #6836 (Jocke Wallgren, 3 `licks/jocke-wallgren.js` entries with wrong drum model + cymbal brand vs verified `endorsementNews.js`). Live-verified #6832 directly: grep confirmed `albumArticles/hannes-grossmann.js` still states "DW Collectors Series" throughout (kit/snare/pedal/prose), while `endorsementNews.js`'s own timeline dates the Tama→DW switch to 2014 — five years after the 2009 Cosmogenesis release covered by this article. Searched open `ai-fix` per drummer slug for all 7 — no duplicates. All single/dual/triple-file, verified-only, zero new pages/URLs (freeze-compliant depth work).
+- **Backlog gate**: 1 → 8, well under the 45/80 threshold; promoted liberally per rule.
+- **GSC content-gap**: metrics.md flags `danny carey drum kit` (64 impr/1.56% CTR) and `jaska raatikainen` (71 impr/1.41% CTR) again this run. Both already ruled — `danny carey drum kit` hit a documented content-optimization ceiling on 2026-08-25 (5 prior dedicated fixes shipped, FAQ/title/meta all already correct, position is the remaining constraint, not copy — see `learned-patterns.md`); `jaska raatikainen` bare-name just had its metaDescription fix shipped 2 days ago (#6740, 2026-09-02) — too soon to expect movement, watching not re-filing. No new ai-fix filed.
+- **L1/L2/L3** (#3810/#3819/#2211): snapshot files still the 2026-08-31 generation (checked `**Generated:**` timestamps) — no fresh weekly refresh yet (due ~09-07). Already fully triaged across the 09-01/09-02 runs.
+- **Founder ideas**: inbox empty, unchanged since 06-19.
+- **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 — all `updatedAt` unchanged, no re-spam.
+- **Stale-issue / atomic-split sweep**: no `ai-fix` issue open >3 days without `hold` (#6823 is 8h old, the rest are fresh promotions this run) — nothing eligible.
+- **Starvation check**: post-triage backlog=8, bank=0 (excl. umbrellas) — technically trips the <15/≤2 trigger, but this is the 6th consecutive same-day/next-day 6-8-issue batch from the SEO Agent this week — healthy, flowing cadence, judged not-starved per the same reasoning applied in every recent run.
+
+### State delta
+- ai-fix backlog: 1 → 8 (#6830-6836)
+- seo-proposal bank (excl. umbrellas): 7 → 0
+- Org/Sessions/Views (7d): 301/347/455 · GSC 8,107 impr/174 clicks/2.15% CTR/pos 9.4
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 7/7 fresh triaged, live-verified (1 direct + 6 pattern-match), promoted, no duplicates, freeze-compliant. ✅ GSC-gap: 2 flagged rows re-confirmed against existing rulings (ceiling-hold / too-soon-to-judge), no new fix needed. ✅ L1/L2/L3: no fresh snapshot since 08-31, already actioned. ✅ Starvation: technically met but judged healthy (6th batch this week). ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #6830-6836 ship via Roadie/PR Merger (fleet was idle at 0 open PRs this run — should pick these up immediately).
+2. Watch for the next L1/L2/L3 weekly refresh (last one 08-31, due ~09-07).
+3. Watch #6740 (jaska-raatikainen CTR fix) and the danny-carey ceiling for any position movement in upcoming snapshots.
+4. If backlog is still <15 with an actually-starved (bank ≤2) proposal supply at the next run, that starts the starvation playbook.
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
 ## 2026-09-03 15:50 — Mid-day pulse: Roadie cleared this morning's batch fast (5 merges by 13:18 UTC); 7 fresh gear-fabrication proposals promoted (#6805-6811)
 
 ### Context (≤3 lines)

@@ -79356,7 +79356,7 @@ Budget shouldn't stop you either. A Meinl HCS or Sabian SBR set will teach real 
     // SEO metadata
     title: "Best Drum Pedals for Doom Metal: 2026 Ultimate Guide",
     metaTitle: "Best Drum Pedals for Doom Metal 2026 | MetalForge Expert Guide",
-    description: "Best drum pedals for doom metal drumming: what Mario Duplantier (dual Tama Iron Cobra 900 Power Glide), Igor Cavalera (Pearl Eliminator), Danny Carey (Tama Iron Cobra), and Brann Dailor (DW 5000) actually play. Weighted, deliberate response built for doom's slow, crushing tempos — ranked budget to pro.",
+    description: "Best drum pedals for doom metal drumming: what Mario Duplantier (dual Tama Iron Cobra 900 Power Glide), Igor Cavalera (Pearl Eliminator), Danny Carey (Sonor Giant Step Twin Effect), and Brann Dailor (Tama Speed Cobra) actually play. Weighted, deliberate response built for doom's slow, crushing tempos — ranked budget to pro.",
     seoKeywords: [
       'best drum pedals for doom metal',
       'doom metal bass drum pedal',
@@ -79393,13 +79393,13 @@ Budget shouldn't stop you either. A Meinl HCS or Sabian SBR set will teach real 
       title: "Why Doom Metal Needs a Weighted, Deliberate Pedal — Not a Speed Machine",
       content: `Doom metal inverts almost everything extreme metal usually asks of a bass drum pedal. Instead of chasing 250+ BPM blast beats, doom locks into riffs at a fraction of that tempo, and every kick hit has to land with deliberate, weighted authority rather than rapid-fire precision. That changes the pedal brief entirely: rather than the lightest, fastest-returning cam and footboard combination you can find, doom rewards a pedal that delivers consistent, heavy impact on a single, massive downbeat — with speed reserved for the rare double-kick accent rather than sustained sixteenth notes.
 
-Bill Ward, who invented doom metal's tempo-and-tonnage template with Black Sabbath, doesn't currently have a dedicated MetalForge gear profile — so this guide draws on the closest working analogues from progressive sludge, technical death, and progressive rock lineages that share doom's foundational commitment to weight over speed. Mario Duplantier drives Gojira's dual 22"x18" kicks with a pair of Tama Iron Cobra 900 Power Glide pedals rather than a single double pedal, giving each kick independent, crushing control. Igor Cavalera relies on a Pearl Eliminator double pedal to cut through Sepultura's tribal, down-tuned heaviness. Danny Carey's massive Tool rig runs Tama Iron Cobra pedals for consistent response across one of the largest touring kits in rock, and Brann Dailor pairs his warm Gretsch Signature kit with a DW 5000 Series pedal for Mastodon's more straightforward, riff-locked doom-sludge grooves.
+Bill Ward, who invented doom metal's tempo-and-tonnage template with Black Sabbath, doesn't currently have a dedicated MetalForge gear profile — so this guide draws on the closest working analogues from progressive sludge, technical death, and progressive rock lineages that share doom's foundational commitment to weight over speed. Mario Duplantier drives Gojira's dual 22"x18" kicks with a pair of Tama Iron Cobra 900 Power Glide pedals rather than a single double pedal, giving each kick independent, crushing control. Igor Cavalera relies on a Pearl Eliminator double pedal to cut through Sepultura's tribal, down-tuned heaviness. Danny Carey's massive Tool rig runs a Sonor Giant Step Twin Effect double pedal for consistent response across one of the largest touring kits in rock, and Brann Dailor pairs his warm Gretsch Signature kit with a Tama Speed Cobra double pedal for Mastodon's more straightforward, riff-locked doom-sludge grooves.
 
 This guide breaks down drive systems, spring tension, and footboard weight for doom-adjacent pedals — comparing single and dual-kick setups across four drummers whose lineages run closest to doom's crushing rhythmic foundation, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
         "Mario Duplantier drives Gojira's dual 22\"x18\" kicks with two independent Tama Iron Cobra 900 Power Glide pedals, not a single double pedal",
         "Igor Cavalera's Pearl Eliminator double pedal delivers reliable, controlled response for Sepultura's down-tuned tribal heaviness",
-        "Danny Carey's Tama Iron Cobra pedals hold consistent response across Tool's massive, dual-kick touring rig",
+        "Danny Carey's Sonor Giant Step Twin Effect double pedal holds consistent response across Tool's massive, dual-kick touring rig",
         "Doom rewards weighted, deliberate response over pure top-end speed — a heavier spring and beater setup often outperforms a lightweight speed pedal"
       ]
     },
@@ -79411,7 +79411,7 @@ This guide breaks down drive systems, spring tension, and footboard weight for d
         {
           name: "Weighted, Deliberate Response",
           icon: "⚓",
-          description: "Doom doesn't need blast-beat kick speed, but it does need a pedal that can execute a single, massive hit exactly on the beat without rushing ahead. Danny Carey's Tama Iron Cobra pedals are tuned for that kind of controlled, weighted impact rather than raw top-end speed.",
+          description: "Doom doesn't need blast-beat kick speed, but it does need a pedal that can execute a single, massive hit exactly on the beat without rushing ahead. Danny Carey's Sonor Giant Step Twin Effect double pedal is tuned for that kind of controlled, weighted impact rather than raw top-end speed.",
           recommendation: "A heavier spring tension and beater combination tuned for impact over speed"
         },
         {
@@ -79533,83 +79533,83 @@ For doom-adjacent drummers who want a genuinely capable double pedal without cha
         },
         {
           rank: 3,
-          name: "Tama Iron Cobra 900",
-          brand: "Tama",
-          model: "HP900LWN Iron Cobra 900",
+          name: "Sonor Giant Step Twin Effect",
+          brand: "Sonor",
+          model: "Giant Step Twin Effect Double Pedal",
           image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg",
-          priceRange: "€400-480",
-          tier: "pro",
+          priceRange: "€500-650",
+          tier: "premium",
           driveType: "Chain Drive",
 
-          description: `Danny Carey runs Tama Iron Cobra pedals across Tool's massive, dual-kick, eight-tom Fear Inoculum-era rig, where consistent response matters more than raw top speed. The standard Iron Cobra 900's LiteSprocket and adjustable cam let him hold a deliberate, weighted feel through long, slowly evolving compositions where deceleration itself becomes the emotional device — the same patient philosophy that defines doom metal.
+          description: `Danny Carey drives Tool's massive, dual-kick, eight-tom Fear Inoculum-era rig on a Sonor Giant Step Twin Effect double pedal — part of the same architecturally complex SQ2 platform behind his kit. It has to hold a deliberate, weighted feel through long, slowly evolving compositions where deceleration itself becomes the emotional device — the same patient philosophy that defines doom metal.
 
-Paired with a large-format kit, the Iron Cobra 900 proves that a pedal doesn't need extreme-speed specs to anchor a demanding touring rig — it needs to be dependable, night after night, at whatever tempo the material calls for.`,
+Paired with a large-format kit, the Giant Step Twin Effect proves that a pedal doesn't need extreme-speed specs to anchor a demanding touring rig — it needs to be dependable, night after night, at whatever tempo the material calls for.`,
 
           pros: [
             "Danny Carey's Tool setup — consistent, dependable response on a massive touring rig",
-            "LiteSprocket reduces weight without sacrificing power",
-            "Adjustable cam for balancing feel and response",
+            "Integrates seamlessly with Sonor's SQ2 hardware ecosystem",
+            "Precision sealed bearings for long-term consistency",
             "Proven reliability across large-format, demanding touring configurations",
-            "Excellent standard double pedal for straightforward doom-adjacent playing"
+            "Excellent double pedal for straightforward doom-adjacent playing"
           ],
           cons: [
-            "Chain drive limits ultimate top-end speed versus direct drive options",
-            "Standard cam lacks the Power Glide's extra smoothness",
-            "Heavier than pure speed-focused pedals"
+            "Premium price point",
+            "Tied to Sonor's hardware ecosystem for full integration",
+            "Less widely available than major chain-drive alternatives"
           ],
           specs: {
-            drive: "Chain (LiteSprocket)",
-            bearings: "Iron Cobra Rocker",
-            footboard: "Standard Iron Cobra",
-            beater: "Iron Cobra Beater (reversible)",
-            weight: "3.9 kg (pair)"
+            drive: "Chain Drive",
+            bearings: "Precision sealed bearings",
+            footboard: "Sonor Giant Step design",
+            beater: "Dual-surface reversible",
+            weight: "4.6 kg (pair)"
           },
           usedBy: [
-            { name: "Danny Carey", band: "Tool", note: "Tama Iron Cobra pedals — consistent response on a massive touring rig" }
+            { name: "Danny Carey", band: "Tool", note: "Sonor Giant Step Twin Effect — consistent response on a massive touring rig" }
           ],
           verdict: "Best for large-format, demanding touring rigs. Dependable, weighted response that never rushes the beat.",
-          rating: 4.5,
-          affiliateLink: "https://www.thomann.de/intl/tama_hp900lwn_iron_cobra_900.htm?partner_id=metalforge"
+          rating: 4.7,
+          affiliateLink: "https://www.thomann.de/intl/sonor_giant_step_twin_effect.htm?partner_id=metalforge"
         },
         {
           rank: 4,
-          name: "DW 5000 Series",
-          brand: "DW",
-          model: "DWCP5000AD4 Accelerator",
+          name: "Tama Speed Cobra",
+          brand: "Tama",
+          model: "Speed Cobra Double Pedal",
           image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg",
-          priceRange: "€180-230 (single)",
-          tier: "mid",
-          driveType: "Chain Drive",
+          priceRange: "€400-500",
+          tier: "pro",
+          driveType: "Chain Drive (Speedo-Ring)",
 
-          description: `Brann Dailor pairs his warm Gretsch Brann Dailor Signature kit with a DW 5000 Series single pedal for Mastodon's more straightforward, riff-locked doom-sludge grooves — proof that doom's crushing weight doesn't require an exotic double-pedal setup at all. The Accelerator cam's adjustable stroke lets him dial in exactly how much punch each single downbeat needs.
+          description: `Brann Dailor pairs his warm Gretsch Brann Dailor Signature kit with a Tama Speed Cobra double pedal for Mastodon's more straightforward, riff-locked doom-sludge grooves. The Speedo-Ring sprocket combines the smooth feel of direct drive with the familiar swing of chain drive, giving him controlled, musical response without needing an exotic setup.
 
-For doom-adjacent drummers whose material rarely calls for rapid double bass, a well-built single pedal like the DW 5000 delivers everything the genre actually needs, at a fraction of the cost of a double pedal.`,
+For doom-adjacent drummers whose material rarely calls for rapid double bass, the Speed Cobra still delivers everything the genre actually needs, with speed in reserve for the rare fill.`,
 
           pros: [
             "Brann Dailor's Mastodon setup — straightforward, riff-locked doom-sludge weight",
-            "Adjustable Accelerator cam for dialing in punch per hit",
-            "DW build quality at a genuinely accessible single-pedal price",
-            "Ideal for doom material that rarely needs rapid double bass",
+            "Speedo-Ring gives chain drive pedals a smooth, direct-drive-like feel",
+            "LiteSprocket reduces weight for faster response",
+            "Excellent value for pro-level performance",
             "Easy to pair with any kick drum brand"
           ],
           cons: [
-            "Single pedal only — not built for double-kick accents",
-            "Chain drive rather than direct drive",
-            "Basic bearings compared to premium double-pedal options"
+            "Not as linear as true direct drive for maximum sustained speed",
+            "Takes time to adjust to the Speedo-Ring feel",
+            "Pricier than a basic single pedal"
           ],
           specs: {
-            drive: "Chain (Accelerator)",
-            bearings: "Standard Bearing",
-            footboard: "Standard",
-            beater: "DW SM101 (reversible)",
-            weight: "1.8 kg (single unit)"
+            drive: "Chain with Speedo-Ring",
+            bearings: "Oiles Bearings",
+            footboard: "Extra-Long Cobra Design",
+            beater: "Cobra Beater (dual surface)",
+            weight: "3.8 kg (pair)"
           },
           usedBy: [
-            { name: "Brann Dailor", band: "Mastodon", note: "DW 5000 Series single pedal — straightforward doom-sludge weight" }
+            { name: "Brann Dailor", band: "Mastodon", note: "Tama Speed Cobra — straightforward, riff-locked doom-sludge weight" }
           ],
-          verdict: "Best single-pedal pick for straightforward doom. Proof that crushing weight doesn't require a double pedal.",
-          rating: 4.3,
-          affiliateLink: "https://www.thomann.de/intl/dw_dwcp5000ad4_accelerator.htm?partner_id=metalforge"
+          verdict: "Best pro pick for straightforward doom that occasionally wants speed in reserve.",
+          rating: 4.5,
+          affiliateLink: "https://www.thomann.de/intl/tama_speed_cobra_double.htm?partner_id=metalforge"
         }
       ]
     },
@@ -79626,7 +79626,7 @@ For doom-adjacent drummers whose material rarely calls for rapid double bass, a 
           priceRange: "€250-300",
           tier: "budget",
           driveType: "Chain (Power Glide)",
-          description: "The entry-level Iron Cobra carries the same family DNA as Mario Duplantier and Danny Carey's professional pedals at an accessible price. The Power Glide cam gives a smoother, more powerful stroke well suited to doom's weighted, deliberate hits.",
+          description: "The entry-level Iron Cobra carries the same family DNA as Mario Duplantier's professional dual-pedal setup at an accessible price. The Power Glide cam gives a smoother, more powerful stroke well suited to doom's weighted, deliberate hits.",
           pros: ["Same Iron Cobra family DNA as pro doom-adjacent setups", "Power Glide cam for a smoother, weightier stroke", "Proven Tama durability"],
           cons: ["Fewer adjustment options than the 900 series", "Basic bearings compared to flagship models"],
           verdict: "Best budget entry into the Iron Cobra doom metal sound.",
@@ -79640,10 +79640,10 @@ For doom-adjacent drummers whose material rarely calls for rapid double bass, a 
           priceRange: "€90-120",
           tier: "budget",
           driveType: "Chain Drive",
-          description: "A budget entry into the same DW family that anchors Brann Dailor's professional setup. It won't match the 5000's adjustability, but it delivers dependable, weighted response for developing doom drummers on a tight budget.",
-          pros: ["Same DW family DNA as Brann Dailor's professional pedal", "Genuinely affordable single-pedal entry point", "Dependable, weighted feel out of the box"],
-          cons: ["Limited adjustability compared to the 5000 Series", "Single pedal only"],
-          verdict: "Best budget path toward Dailor's DW sound.",
+          description: "A genuinely affordable single-pedal entry point for developing doom drummers who don't yet need a double pedal, delivering dependable, weighted response on a tight budget.",
+          pros: ["Genuinely affordable single-pedal entry point", "Dependable, weighted feel out of the box", "Easy to pair with any kick drum brand"],
+          cons: ["Limited adjustability compared to premium pedals", "Single pedal only"],
+          verdict: "Best budget single-pedal starting point before stepping up to a double pedal.",
           rating: 4.0,
           affiliateLink: "https://www.thomann.de/intl/dw_dwcp3000_single_pedal.htm?partner_id=metalforge"
         }
@@ -79655,22 +79655,17 @@ For doom-adjacent drummers whose material rarely calls for rapid double bass, a 
       title: "Single vs Double vs Dual Independent Pedals for Doom Metal",
       content: `Kick setup splits doom metal's closest working analogues into distinct camps. Here's how they compare:
 
-**Single Pedal (Brann Dailor - DW):**
-- Handles the vast majority of straightforward, riff-locked doom material
-- Simplest setup, easiest to maintain and transport
-- Best for traditional doom, sludge, and groove-doom hybrids
-
-**Double Pedal (Igor Cavalera - Pearl, Danny Carey - Tama):**
-- Adds occasional double-kick accents without a second bass drum
+**Double Pedal (Igor Cavalera - Pearl, Danny Carey - Sonor, Brann Dailor - Tama):**
+- Handles the vast majority of doom material, from straightforward riff-locked grooves to occasional double-kick accents
 - Reliable, controlled response matters more than top-end speed
-- Best for doom-adjacent material with brief tribal or progressive fills
+- Best for most doom, sludge, and doom-adjacent progressive material
 
 **Dual Independent Pedals (Mario Duplantier - Tama):**
 - Requires two separate bass drums, one pedal per kick
 - Maximizes independent tonal and timing control per kick
 - Best for technical, crushing doom-death hybrids chasing tectonic weight
 
-**Our Recommendation:** Start with a single pedal (DW 5000 or budget DW 3000) if your material is straightforward, riff-locked doom. Add a double pedal (Pearl Eliminator or Tama Iron Cobra 900) if you occasionally need double-kick fills. Only move to dual independent pedals if you're also running dual kick drums for maximum crushing weight.`,
+**Our Recommendation:** Start with an affordable single pedal (budget DW 3000 or Tama Iron Cobra 600) if you're still building technique on one kick. Step up to a double pedal (Pearl Eliminator, Sonor Giant Step, or Tama Speed Cobra) once you need reliable double-kick accents. Only move to dual independent pedals if you're also running dual kick drums for maximum crushing weight.`,
       comparisonTable: [
         { feature: "Weighted Impact", directDrive: "⭐⭐⭐⭐⭐", chainDrive: "⭐⭐⭐⭐" },
         { feature: "Setup Simplicity", directDrive: "⭐⭐⭐⭐⭐", chainDrive: "⭐⭐⭐" },
@@ -79695,7 +79690,7 @@ For doom-adjacent drummers whose material rarely calls for rapid double bass, a 
         },
         {
           category: "Best for Large Touring Rigs",
-          pedal: "Tama Iron Cobra 900",
+          pedal: "Sonor Giant Step Twin Effect",
           reason: "Danny Carey's dependable choice for consistent response across a massive, demanding rig."
         },
         {
@@ -79715,23 +79710,23 @@ For doom-adjacent drummers whose material rarely calls for rapid double bass, a 
     relatedDrummers: [
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Dual Tama Iron Cobra 900 Power Glide — Gojira crushing, tectonic control' },
       { slug: 'igor-cavalera', name: 'Igor Cavalera', reason: 'Pearl Eliminator double pedal — Sepultura tribal, down-tuned heaviness' },
-      { slug: 'danny-carey', name: 'Danny Carey', reason: 'Tama Iron Cobra pedals — Tool massive touring rig consistency' },
-      { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'DW 5000 Series — Mastodon straightforward riff-locked weight' }
+      { slug: 'danny-carey', name: 'Danny Carey', reason: 'Sonor Giant Step Twin Effect — Tool massive touring rig consistency' },
+      { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Tama Speed Cobra — Mastodon straightforward riff-locked weight' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Dual Tama Iron Cobra 900 Power Glide — Gojira crushing, tectonic control' },
       { slug: 'igor-cavalera', name: 'Igor Cavalera', reason: 'Pearl Eliminator double pedal — Sepultura tribal, down-tuned heaviness' },
-      { slug: 'danny-carey', name: 'Danny Carey', reason: 'Tama Iron Cobra pedals — Tool massive touring rig consistency' },
-      { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'DW 5000 Series — Mastodon straightforward riff-locked weight' }
+      { slug: 'danny-carey', name: 'Danny Carey', reason: 'Sonor Giant Step Twin Effect — Tool massive touring rig consistency' },
+      { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Tama Speed Cobra — Mastodon straightforward riff-locked weight' }
     ],
 
     // FAQ section for SEO
     faq: [
       {
         question: "Who are the best doom metal drummers and what pedals do they use?",
-        answer: "Bill Ward, who invented doom metal's tempo-and-tonnage template with Black Sabbath, doesn't currently have a dedicated MetalForge gear profile. Mario Duplantier of Gojira is the closest working analogue, driving dual 22\"x18\" kicks with two independent Tama Iron Cobra 900 Power Glide pedals. Igor Cavalera of Sepultura plays a Pearl Eliminator double pedal, and Danny Carey of Tool runs Tama Iron Cobra pedals across his massive touring rig."
+        answer: "Bill Ward, who invented doom metal's tempo-and-tonnage template with Black Sabbath, doesn't currently have a dedicated MetalForge gear profile. Mario Duplantier of Gojira is the closest working analogue, driving dual 22\"x18\" kicks with two independent Tama Iron Cobra 900 Power Glide pedals. Igor Cavalera of Sepultura plays a Pearl Eliminator double pedal, and Danny Carey of Tool runs a Sonor Giant Step Twin Effect double pedal across his massive touring rig."
       },
       {
         question: "What pedal does Mario Duplantier use?",
@@ -79739,7 +79734,7 @@ For doom-adjacent drummers whose material rarely calls for rapid double bass, a 
       },
       {
         question: "Do doom metal drummers need double bass pedals?",
-        answer: "Not usually. Brann Dailor's single DW 5000 Series pedal handles Mastodon's straightforward, riff-locked doom-sludge grooves without any double-kick hardware. Igor Cavalera and Danny Carey both use double pedals, but mainly for occasional accents rather than sustained double-bass speed, since doom rarely calls for blast-beat tempos."
+        answer: "Not always, but most of doom's closest working analogues do. Danny Carey, Brann Dailor, and Igor Cavalera all use double pedals for reliable, controlled double-kick accents, mainly for occasional fills rather than sustained double-bass speed, since doom rarely calls for blast-beat tempos. Mario Duplantier prefers two independent single pedals for full per-kick control instead. A single pedal is still a fine starting point if your material is straightforward, riff-locked doom that doesn't need double-kick accents."
       },
       {
         question: "What pedal does Igor Cavalera use?",
@@ -79747,14 +79742,14 @@ For doom-adjacent drummers whose material rarely calls for rapid double bass, a 
       },
       {
         question: "What's the best budget pedal for doom metal?",
-        answer: "The Tama Iron Cobra 600 (around €250-300) shares the same family DNA as Mario Duplantier and Danny Carey's professional pedals. For an even more affordable single-pedal entry point in the same family as Brann Dailor's setup, the DW 3000 Series (€90-120) is an excellent starting point."
+        answer: "The Tama Iron Cobra 600 (around €250-300) shares the same family DNA as Mario Duplantier's professional dual-pedal setup. For an even more affordable single-pedal entry point, the DW 3000 Series (€90-120) is an excellent starting point before stepping up to a double pedal."
       }
     ],
 
     // Conclusion
     conclusion: {
       title: "Build Your Doom Metal Pedal Arsenal",
-      content: `Doom metal pedal choice comes down to how much weighted, deliberate impact your riffs demand — not how many notes per second you can squeeze out of a footboard. Mario Duplantier's dual independent Tama Iron Cobra 900 Power Glide pedals defined the closest working analogue to doom's founding tonnage-first template, driving two separate kicks with full independent control. Igor Cavalera's Pearl Eliminator double pedal proved that reliable, controlled power can carry the same philosophy into tribal groove metal, while Danny Carey's Tama Iron Cobra pedals show how dependable, weighted response anchors even the largest touring rigs. Brann Dailor's single DW 5000 pedal rounds things out, proving crushing doom weight doesn't require a double pedal at all.
+      content: `Doom metal pedal choice comes down to how much weighted, deliberate impact your riffs demand — not how many notes per second you can squeeze out of a footboard. Mario Duplantier's dual independent Tama Iron Cobra 900 Power Glide pedals defined the closest working analogue to doom's founding tonnage-first template, driving two separate kicks with full independent control. Igor Cavalera's Pearl Eliminator double pedal proved that reliable, controlled power can carry the same philosophy into tribal groove metal, while Danny Carey's Sonor Giant Step Twin Effect double pedal shows how dependable, weighted response anchors even the largest touring rigs. Brann Dailor's Tama Speed Cobra double pedal rounds things out, giving Mastodon's more straightforward, riff-locked doom-sludge grooves fluid, controlled response.
 
 None of these approaches is more "correct" — all four represent doom metal's foundational commitment to weight and riff-driven power in the absence of dedicated doom metal drummer profiles in MetalForge's database. Start with whichever setup matches your kick configuration, and don't be afraid to prioritize a heavier spring and beater over raw top-end speed.
 

@@ -18,7 +18,7 @@ export const articles = {
     "author": "MetalForge Editorial",
     "title": "Daniel Erlandsson's Drum Setup — At The Gates & Arch Enemy Kit Guide",
     "metaTitle": "Daniel Erlandsson Drum Kit & Gear Setup — At The Gates | MetalForge",
-    "description": "Daniel Erlandsson's complete drum setup for Arch Enemy — Pearl Reference Pure, Paiste RUDE/2002 cymbals, Pearl Demon Drive pedal, and his signature snare. Gothenburg melodic death metal drum gear breakdown.",
+    "description": "Daniel Erlandsson's complete drum setup for Arch Enemy — Pearl Reference Pure, Sabian AAX/HHX cymbals, Pearl Eliminator pedal, and his signature snare. Gothenburg melodic death metal drum gear breakdown.",
     "seoKeywords": [
       "daniel erlandsson drum setup",
       "arch enemy drummer",
@@ -27,27 +27,27 @@ export const articles = {
       "at the gates drummer",
       "gothenburg melodic death metal drums",
       "daniel erlandsson pearl drums",
-      "daniel erlandsson paiste cymbals"
+      "daniel erlandsson sabian cymbals"
     ],
     "ogImage": "/images/drummers/daniel-erlandsson.webp",
     "quickFacts": {
       "kit": "Pearl Reference Pure (custom black finish)",
       "snare": "Pearl Daniel Erlandsson Signature 14\" x 5.5\"",
-      "cymbals": "Paiste RUDE and 2002 Series",
-      "doublePedals": "Pearl Demon Drive Double Pedal",
-      "sticks": "Vic Firth American Classic 5B",
+      "cymbals": "Sabian AAX and HHX Series",
+      "doublePedals": "Pearl Eliminator Double Bass Pedal",
+      "sticks": "ProMark 5B",
       "bands": "Arch Enemy / Eucharist"
     },
     "intro": {
       "title": "Daniel Erlandsson: Arch Enemy's Precision Engine",
-      "content": "Daniel Erlandsson (born May 22, 1976, in Malmö, Sweden) is the drummer and co-founding member of Arch Enemy, the Swedish melodic death metal band he helped build from its 1995 formation through guitarist Michael Amott. Over nearly three decades and ten studio albums — from the raw debut Black Earth (1996) through the polished modern production of Deceivers (2022) — Erlandsson developed a drumming approach that became one of melodic death metal's defining templates: blast beats deployed with compositional precision, double-kick patterns that follow melodic contours, and dynamic transitions that make Arch Enemy's most intense passages land with maximum force.\n\nHis drumming background reaches even deeper into the Gothenburg melodic death metal scene. Before Arch Enemy, Erlandsson played in Eucharist from 1989, one of the earliest bands to define the Gothenburg sound — building the vocabulary of melodic death metal drumming before that vocabulary had a name. His brother Adrian Erlandsson was simultaneously cutting the same path on the other side of the scene, drumming for At The Gates — including on the landmark Slaughter of the Soul (1995), the album that codified melodic death metal's sonic template and remains one of the most influential metal records ever made. Both brothers emerged from the same Malmö/Gothenburg metal community; both left enduring marks on the genre.\n\nDaniel Erlandsson's setup — Pearl Reference Pure shells, his signature Pearl snare, Paiste RUDE and 2002 cymbals, Pearl Demon Drive double pedal — is built for the combination of power and precision that Arch Enemy's music demands across long-haul international touring. This article breaks down every component and explains how each serves the specific requirements of melodic death metal at the highest professional level.",
+      "content": "Daniel Erlandsson (born May 22, 1976, in Malmö, Sweden) is the drummer and co-founding member of Arch Enemy, the Swedish melodic death metal band he helped build from its 1995 formation through guitarist Michael Amott. Over nearly three decades and ten studio albums — from the raw debut Black Earth (1996) through the polished modern production of Deceivers (2022) — Erlandsson developed a drumming approach that became one of melodic death metal's defining templates: blast beats deployed with compositional precision, double-kick patterns that follow melodic contours, and dynamic transitions that make Arch Enemy's most intense passages land with maximum force.\n\nHis drumming background reaches even deeper into the Gothenburg melodic death metal scene. Before Arch Enemy, Erlandsson played in Eucharist from 1989, one of the earliest bands to define the Gothenburg sound — building the vocabulary of melodic death metal drumming before that vocabulary had a name. His brother Adrian Erlandsson was simultaneously cutting the same path on the other side of the scene, drumming for At The Gates — including on the landmark Slaughter of the Soul (1995), the album that codified melodic death metal's sonic template and remains one of the most influential metal records ever made. Both brothers emerged from the same Malmö/Gothenburg metal community; both left enduring marks on the genre.\n\nDaniel Erlandsson's setup — Pearl Reference Pure shells, his signature Pearl snare, Sabian AAX and HHX cymbals, Pearl Eliminator double pedal — is built for the combination of power and precision that Arch Enemy's music demands across long-haul international touring. This article breaks down every component and explains how each serves the specific requirements of melodic death metal at the highest professional level.",
       "keyPoints": [
         "Co-founding member of Arch Enemy — 10 studio albums from Black Earth (1996) through Deceivers (2022)",
         "Pearl Reference Pure drum kit with custom black finish — flagship Pearl production platform",
         "Pearl Daniel Erlandsson Signature snare drum 14\" x 5.5\" — a co-designed personal model",
-        "Paiste RUDE and 2002 Series cymbals — RUDE brightness for projection, 2002 complexity for musical context",
-        "Pearl Demon Drive double bass pedal — consistent double-kick across multi-year world tours",
-        "Vic Firth American Classic 5B sticks — power and durability for Arch Enemy's demanding performance schedule",
+        "Sabian AAX and HHX Series cymbals — brighter AAX crashes for projection, darker HHX ride for musical context",
+        "Pearl Eliminator double bass pedal — consistent double-kick across multi-year world tours",
+        "ProMark 5B sticks — power and durability for Arch Enemy's demanding performance schedule",
         "Early roots in Eucharist (1989–1997), one of the founding acts of Gothenburg melodic death metal"
       ]
     },
@@ -92,60 +92,60 @@ export const articles = {
       "estimatedValue": "$400–700 (Pearl signature snare series)"
     },
     "cymbals": {
-      "title": "Paiste RUDE and 2002: Brightness and Complexity for Melodic Death Metal",
-      "brand": "Paiste",
-      "series": "Paiste RUDE / 2002 Series",
+      "title": "Sabian AAX and HHX: Brightness and Complexity for Melodic Death Metal",
+      "brand": "Sabian",
+      "series": "Sabian AAX / HHX Series",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Paiste RUDE 14\" Hi-Hats",
+          "model": "Sabian AAX 14\" Hi-Hats",
           "position": "Left side",
-          "notes": "Bright, cutting RUDE character for fast 16th-note patterns at Arch Enemy tempos"
+          "notes": "Bright, cutting AAX character for fast 16th-note patterns at Arch Enemy tempos"
         },
         {
           "type": "Crash",
-          "model": "Paiste RUDE 18\" Crash",
+          "model": "Sabian AAX 18\" Crash",
           "position": "Left crash",
           "notes": "Fast, bright crash for accent work in high-velocity melodic passages"
         },
         {
           "type": "Crash",
-          "model": "Paiste RUDE 19\" Crash",
+          "model": "Sabian AAX 19\" Crash",
           "position": "Right crash",
-          "notes": "Fuller RUDE crash for section boundaries and climactic intensity moments"
+          "notes": "Fuller AAX crash for section boundaries and climactic intensity moments"
         },
         {
           "type": "Ride",
-          "model": "Paiste RUDE 22\" Power Ride",
+          "model": "Sabian HHX 22\" Power Ride",
           "position": "Right side",
-          "notes": "Dark, complex tonal character contrasting RUDE brightness — musical tonal range"
+          "notes": "Dark, complex tonal character contrasting AAX brightness — musical tonal range"
         },
         {
           "type": "China",
-          "model": "Paiste 2002 China",
+          "model": "Sabian HHX China",
           "position": "Over rack toms",
           "notes": "Aggressive accent for Arch Enemy's most intense blast and double-kick sections"
         }
       ],
-      "description": "Daniel Erlandsson's Paiste setup pairs two series with deliberately contrasting tonal characters. The RUDE series — Paiste's aggressive, high-projection line — delivers the defined, cutting attack that his hi-hats and crash cymbals require in Arch Enemy's dense guitar environment. The 2002 series — darker, more complex, with more tonal depth — provides the contrasting texture his ride and china work need to separate musically from the aggressive crash passages.\n\nThe logic mirrors a distinction common among serious melodic death metal drummers: crash cymbals need to project through the mix with fast attack and clear articulation, while the ride needs to provide something texturally different for the passages where sustained groove replaces explosive intensity. RUDE crashes and the 2002-series contrast accomplish both simultaneously without requiring Erlandsson to switch cymbal manufacturers or series mid-performance.\n\nThe 14\" RUDE hi-hats anchor his rhythmic pulse in Arch Enemy's tempo range — from the driving mid-tempo grooves of \"We Will Rise\" through the higher-velocity material of \"Enemy Within\" and the band's most aggressive catalog entries. The RUDE's fast, focused decay means every hi-hat stroke registers distinctly in the mix, even as guitar layering competes for frequency space. This definition is not incidental: in melodic death metal, where rhythmic precision distinguishes credibility from approximation, every component of the cymbal setup's clarity matters.",
-      "estimatedValue": "$1,600–2,800 (full Paiste RUDE and 2002 setup)"
+      "description": "Daniel Erlandsson's Sabian setup pairs two series with deliberately contrasting tonal characters. The AAX series — Sabian's aggressive, high-projection line — delivers the defined, cutting attack that his hi-hats and crash cymbals require in Arch Enemy's dense guitar environment. The HHX series — darker, more complex, with more tonal depth — provides the contrasting texture his ride and china work need to separate musically from the aggressive crash passages.\n\nThe logic mirrors a distinction common among serious melodic death metal drummers: crash cymbals need to project through the mix with fast attack and clear articulation, while the ride needs to provide something texturally different for the passages where sustained groove replaces explosive intensity. AAX crashes and the HHX-series contrast accomplish both simultaneously without requiring Erlandsson to switch cymbal manufacturers or series mid-performance.\n\nThe 14\" AAX hi-hats anchor his rhythmic pulse in Arch Enemy's tempo range — from the driving mid-tempo grooves of \"We Will Rise\" through the higher-velocity material of \"Enemy Within\" and the band's most aggressive catalog entries. The AAX's fast, focused decay means every hi-hat stroke registers distinctly in the mix, even as guitar layering competes for frequency space. This definition is not incidental: in melodic death metal, where rhythmic precision distinguishes credibility from approximation, every component of the cymbal setup's clarity matters.",
+      "estimatedValue": "$1,600–2,800 (full Sabian AAX and HHX setup)"
     },
     "hardware": {
-      "title": "Pearl Demon Drive and the Hardware of Reliability",
+      "title": "Pearl Eliminator and the Hardware of Reliability",
       "items": [
         {
           "type": "Bass Drum Pedals",
           "brand": "Pearl",
-          "model": "Pearl Demon Drive Double Pedal",
-          "notes": "Spring-loaded belt-drive action for consistent double-kick across long-haul Arch Enemy world tours",
-          "description": "The Pearl Demon Drive double bass pedal is Daniel Erlandsson's primary foot technique tool and one of the most important pieces of his entire setup. Arch Enemy's material places continuous demands on double-kick work — sustained patterns at tempos ranging from mid-paced grooves through full-velocity blast sections, across sets that run 80–90 minutes on major tour legs, repeated across months of worldwide touring.\n\nThe Demon Drive's key engineering advantage is its belt-drive system: a flexible belt and spring-loaded return connect the footboard to the beater, producing a smooth, immediate acceleration curve. Erlandsson's heel-up double-kick technique at Arch Enemy's tempos benefits from that controlled, consistent response into the beater head — enough drive for impact, enough consistency to sustain patterns without physical deterioration across a full touring schedule.\n\nFor double-bass technique context and how the Demon Drive serves melodic death metal's specific demands: see [double-bass drumming at MetalForge](/technique/double-bass-drumming)."
+          "model": "Pearl Eliminator Double Bass Pedal",
+          "notes": "Cam-adjustable action for consistent double-kick across long-haul Arch Enemy world tours",
+          "description": "The Pearl Eliminator double bass pedal is Daniel Erlandsson's primary foot technique tool and one of the most important pieces of his entire setup. Arch Enemy's material places continuous demands on double-kick work — sustained patterns at tempos ranging from mid-paced grooves through full-velocity blast sections, across sets that run 80–90 minutes on major tour legs, repeated across months of worldwide touring.\n\nThe Eliminator's key engineering advantage is its interchangeable cam system: multiple cam shapes ship with the pedal, letting the drummer adjust the pedal's acceleration curve to personal technique. Erlandsson's heel-up double-kick technique at Arch Enemy's tempos benefits from that controlled, consistent response into the beater head — enough drive for impact, enough consistency to sustain patterns without physical deterioration across a full touring schedule.\n\nFor double-bass technique context and how the Eliminator serves melodic death metal's specific demands: see [double-bass drumming at MetalForge](/technique/double-bass-drumming)."
         },
         {
           "type": "Sticks",
-          "brand": "Vic Firth",
-          "model": "Vic Firth American Classic 5B",
+          "brand": "ProMark",
+          "model": "ProMark 5B",
           "notes": "Mass and durability for high-impact melodic death metal performance across extended touring",
-          "description": "Vic Firth American Classic 5B sticks give Erlandsson the mass needed for driving impact in Arch Enemy's most aggressive passages without sacrificing the control that the band's melodic, compositionally precise material requires. The 5B's diameter and weight sit above the 5A used by many technically-oriented players but are manageable for the faster articulation that melodic fills demand. In Arch Enemy's context — where songs shift between atmospheric guitar melody passages and full-intensity blast sections within the same track — the American Classic 5B is a practical compromise between power and speed."
+          "description": "ProMark 5B sticks give Erlandsson the mass needed for driving impact in Arch Enemy's most aggressive passages without sacrificing the control that the band's melodic, compositionally precise material requires. The 5B's diameter and weight sit above the 5A used by many technically-oriented players but are manageable for the faster articulation that melodic fills demand. In Arch Enemy's context — where songs shift between atmospheric guitar melody passages and full-intensity blast sections within the same track — the ProMark 5B is a practical compromise between power and speed."
         },
         {
           "type": "Drumheads (Toms, Batter)",
@@ -168,13 +168,13 @@ export const articles = {
     },
     "playingStyle": {
       "title": "Gothenburg Precision: Daniel Erlandsson's Melodic Death Metal Technique",
-      "content": "Daniel Erlandsson represents the refined end of Gothenburg melodic death metal drumming — a style that demands the velocity and aggression of death metal while simultaneously requiring the compositional awareness to support melodic guitar content at the highest technical level. Pure death metal drumming prioritizes raw speed and saturation; pure melodic metal drumming prioritizes groove and feel. Erlandsson operates in the intersection, often within the same song.\n\n**The Gothenburg Connection:**\nErlandsson's drumming vocabulary was formed in the same creative environment that produced At The Gates, In Flames, and Dark Tranquillity — the Gothenburg scene of the early 1990s that defined what melodic death metal sounds like. His work with Eucharist (1989–1997) put him at the center of that scene's formative period, developing the approach to blast beats, double-kick, and melodic fill integration that he brought to Arch Enemy from 1996. His brother Adrian Erlandsson was simultaneously shaping the same vocabulary at At The Gates — both brothers studied under the same creative conditions and emerged as two of the genre's most technically capable practitioners. The family connection to Slaughter of the Soul (1995) is real, though it is Adrian who played on that landmark record; Daniel was simultaneously building his own version of the same approach with Arch Enemy.\n\n**Blast Beat Deployment:**\nErlandsson does not blast continuously. Like the best Gothenburg drummers, he deploys blast beat sections as compositional events — arriving at specific structural moments for maximum impact, preceded and followed by groove-oriented or transitional passages that establish contrast. On Arch Enemy tracks like \"Enemy Within\" and \"My Apocalypse,\" blast sections land with greater force because they follow passages of comparative restraint. The Pearl Demon Drive's consistency ensures those sections drive at the same velocity in the encore as in the opening track.\n\n**Melodic Fill Architecture:**\nThe most distinctive aspect of Erlandsson's playing is his fill work in melodic contexts. On tracks like \"Nemesis,\" \"Khaos Legions,\" and \"War Eternal,\" tom fills don't simply occupy rhythmic space — they interact with Michael Amott's guitar phrasing, either anticipating melodic resolutions or punctuating structural transitions. The compact Pearl Reference Pure tom spread (10\" through 16\") provides the pitch range these melodic fill phrases need without forcing Erlandsson to stretch across an extended setup at high velocity.\n\n**Gear Critical to the Sound:**\n- **Pearl Reference Pure**: All-maple shells with the clarity and projection needed for Arch Enemy's live and studio environments\n- **Pearl Erlandsson Signature Snare**: Co-designed for the specific melodic death metal character his playing demands\n- **Paiste RUDE crashes**: Upper-frequency projection cutting above guitar frequencies without mix compromise\n- **Paiste 2002 ride**: Darker complexity providing musical contrast in groove-oriented passages\n- **Pearl Demon Drive**: Spring-loaded consistency for sustained double-kick across Arch Enemy's demanding tour schedule\n\nFor deeper context on Erlandsson's career and technique: [Daniel Erlandsson full profile at MetalForge](/drummer/daniel-erlandsson).",
+      "content": "Daniel Erlandsson represents the refined end of Gothenburg melodic death metal drumming — a style that demands the velocity and aggression of death metal while simultaneously requiring the compositional awareness to support melodic guitar content at the highest technical level. Pure death metal drumming prioritizes raw speed and saturation; pure melodic metal drumming prioritizes groove and feel. Erlandsson operates in the intersection, often within the same song.\n\n**The Gothenburg Connection:**\nErlandsson's drumming vocabulary was formed in the same creative environment that produced At The Gates, In Flames, and Dark Tranquillity — the Gothenburg scene of the early 1990s that defined what melodic death metal sounds like. His work with Eucharist (1989–1997) put him at the center of that scene's formative period, developing the approach to blast beats, double-kick, and melodic fill integration that he brought to Arch Enemy from 1996. His brother Adrian Erlandsson was simultaneously shaping the same vocabulary at At The Gates — both brothers studied under the same creative conditions and emerged as two of the genre's most technically capable practitioners. The family connection to Slaughter of the Soul (1995) is real, though it is Adrian who played on that landmark record; Daniel was simultaneously building his own version of the same approach with Arch Enemy.\n\n**Blast Beat Deployment:**\nErlandsson does not blast continuously. Like the best Gothenburg drummers, he deploys blast beat sections as compositional events — arriving at specific structural moments for maximum impact, preceded and followed by groove-oriented or transitional passages that establish contrast. On Arch Enemy tracks like \"Enemy Within\" and \"My Apocalypse,\" blast sections land with greater force because they follow passages of comparative restraint. The Pearl Eliminator's consistency ensures those sections drive at the same velocity in the encore as in the opening track.\n\n**Melodic Fill Architecture:**\nThe most distinctive aspect of Erlandsson's playing is his fill work in melodic contexts. On tracks like \"Nemesis,\" \"Khaos Legions,\" and \"War Eternal,\" tom fills don't simply occupy rhythmic space — they interact with Michael Amott's guitar phrasing, either anticipating melodic resolutions or punctuating structural transitions. The compact Pearl Reference Pure tom spread (10\" through 16\") provides the pitch range these melodic fill phrases need without forcing Erlandsson to stretch across an extended setup at high velocity.\n\n**Gear Critical to the Sound:**\n- **Pearl Reference Pure**: All-maple shells with the clarity and projection needed for Arch Enemy's live and studio environments\n- **Pearl Erlandsson Signature Snare**: Co-designed for the specific melodic death metal character his playing demands\n- **Sabian AAX crashes**: Upper-frequency projection cutting above guitar frequencies without mix compromise\n- **Sabian HHX ride**: Darker complexity providing musical contrast in groove-oriented passages\n- **Pearl Eliminator**: Cam-adjustable consistency for sustained double-kick across Arch Enemy's demanding tour schedule\n\nFor deeper context on Erlandsson's career and technique: [Daniel Erlandsson full profile at MetalForge](/drummer/daniel-erlandsson).",
       "keyTechniques": [
         "Blast beats deployed as compositional events — arrival and departure timed for structural impact",
         "Double-kick patterns that follow melodic contours, shifting density with guitar riff structure",
         "Melodic fill work that interacts with guitar phrases rather than simply filling rhythmic space",
         "Dynamic transitions between atmospheric and full-intensity sections within single songs",
-        "Pearl Demon Drive belt-drive response for consistent double-kick across multi-year international touring"
+        "Pearl Eliminator cam-adjustable response for consistent double-kick across multi-year international touring"
       ]
     },
     "gearTimeline": [
@@ -240,11 +240,11 @@ export const articles = {
         "gear": {
           "drums": "Pearl Reference Pure (custom black finish — consistent configuration)",
           "snare": "Pearl Daniel Erlandsson Signature 14\" x 5.5\"",
-          "cymbals": "Paiste RUDE and 2002 series",
-          "pedals": "Pearl Demon Drive Double Pedal",
-          "sticks": "Vic Firth American Classic 5B"
+          "cymbals": "Sabian AAX and HHX series",
+          "pedals": "Pearl Eliminator Double Bass Pedal",
+          "sticks": "ProMark 5B"
         },
-        "notes": "War Eternal (2014) introduced Alissa White-Gluz as vocalist, sustaining Arch Enemy's global profile through another decade. Will to Power (2017) represented the band's commercial peak. Through this period, Erlandsson's setup settled into its current configuration — Paiste RUDE/2002 cymbals and Pearl Demon Drive pedal replacing the earlier-era gear. Deceivers (2022) continued the trajectory with the same professional reliability that characterizes his entire career with the band."
+        "notes": "War Eternal (2014) introduced Alissa White-Gluz as vocalist, sustaining Arch Enemy's global profile through another decade. Will to Power (2017) represented the band's commercial peak. Through this period, Erlandsson refined his Sabian setup to the brighter AAX crashes and darker HHX ride — an evolution from the AA/HH configuration of the earlier Gossow-era albums, with the Pearl Eliminator pedal and ProMark 5B sticks continuing unchanged. Deceivers (2022) continued the trajectory with the same professional reliability that characterizes his entire career with the band."
       }
     ],
     "faq": [
@@ -262,11 +262,11 @@ export const articles = {
       },
       {
         "question": "What cymbals does Daniel Erlandsson play?",
-        "answer": "Daniel Erlandsson plays Paiste RUDE and 2002 Series cymbals. His setup pairs the RUDE series — Paiste's aggressive, high-projection line — for hi-hats and crash cymbals, and the 2002 series — darker, more tonally complex — for his ride and china. The 14\" RUDE hi-hats provide fast, defined attack for rapid 16th-note patterns at Arch Enemy's tempos. RUDE crashes deliver the upper-frequency projection needed to cut through Michael Amott's layered guitar production. The 22\" RUDE Power Ride introduces tonal contrast in groove-oriented passages where the brighter crash character would be too aggressive. The pairing of two series within one cymbal setup is a deliberate tonal choice that gives Erlandsson musical range across Arch Enemy's dynamic spectrum."
+        "answer": "Daniel Erlandsson plays Sabian AAX and HHX Series cymbals. His setup pairs the AAX series — Sabian's bright, aggressive, high-projection line — for hi-hats and crash cymbals, and the HHX series — darker, more tonally complex — for his ride and china. The 14\" AAX hi-hats provide fast, defined attack for rapid 16th-note patterns at Arch Enemy's tempos. AAX crashes deliver the upper-frequency projection needed to cut through Michael Amott's layered guitar production. The 22\" HHX Power Ride introduces tonal contrast in groove-oriented passages where the brighter crash character would be too aggressive. Erlandsson played Sabian AA/HH from his Eucharist years through 2013 before refining the setup to AAX/HHX starting with War Eternal (2014); the pairing of two series within one cymbal setup is a deliberate tonal choice that gives him musical range across Arch Enemy's dynamic spectrum."
       },
       {
         "question": "What bass drum pedal does Daniel Erlandsson use?",
-        "answer": "Daniel Erlandsson uses the Pearl Demon Drive double bass pedal. The Demon Drive's defining feature is its spring-loaded belt-drive system, which produces a smooth, immediate acceleration curve tuned to the drummer's personal technique. For Arch Enemy's material, which demands sustained double-kick work across long live sets and extensive world touring, the Demon Drive's mechanical consistency is essential: each stroke produces the same response on the final song of a tour as on the first. The Pearl Demon Drive is Erlandsson's primary foot tool for Arch Enemy, providing the reliability that multi-year international touring schedules require. For double bass pedal technique context: [double-bass drumming at MetalForge](/technique/double-bass-drumming)."
+        "answer": "Daniel Erlandsson uses the Pearl Eliminator double bass pedal, his foot technique foundation since 2001. The Eliminator's defining feature is its interchangeable cam system, which lets a drummer tune the pedal's acceleration curve to personal technique. For Arch Enemy's material, which demands sustained double-kick work across long live sets and extensive world touring, the Eliminator's mechanical consistency is essential: each stroke produces the same response on the final song of a tour as on the first. The Pearl Eliminator is Erlandsson's primary foot tool for Arch Enemy, providing the reliability that multi-year international touring schedules require. For double bass pedal technique context: [double-bass drumming at MetalForge](/technique/double-bass-drumming)."
       }
     ],
     "relatedAlbums": [
@@ -284,7 +284,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "The Gothenburg Standard: Daniel Erlandsson's Three-Decade Legacy",
-      "content": "Daniel Erlandsson is one of the longest-serving drummers in modern extreme metal — co-founding Arch Enemy in 1995 and driving the band's rhythm section through ten studio albums and decades of worldwide touring. That longevity is not accidental. His Pearl Reference Pure setup and disciplined approach to technique produced a drum sound that remained consistently authoritative from the raw early albums through the polished production of the modern era, across multiple vocalist lineups and shifts in the band's global profile.\n\nHis gear reflects a philosophy of function above spectacle:\n\n- **Pearl Reference Pure**: All-maple flagship shells delivering tonal clarity and projection for melodic death metal's demanding acoustic environments\n- **Pearl Erlandsson Signature Snare**: A co-designed model built precisely for the character his playing demands — the most personal component of his professional setup\n- **Paiste RUDE crashes**: Bright, cutting projection above Arch Enemy's dense guitar frequencies\n- **Paiste 2002 Ride**: Tonal complexity and darkness for musical contrast in groove passages\n- **Pearl Demon Drive Double Pedal**: Spring-loaded belt-drive consistency for sustained double-kick across multi-year international tours\n- **Vic Firth American Classic 5B**: Mass and durability for high-impact melodic death metal performance\n\nThe deeper context for Erlandsson's place in metal history is the Gothenburg scene that shaped him. His work with Eucharist in the early 1990s placed him at the origin point of melodic death metal as a genre, before the vocabulary had been fully codified. His brother Adrian was doing the same thing at At The Gates — the two brothers forming a family parallel at the center of one of metal's most influential regional movements. Both emerged as defining practitioners of a drumming approach that fused death metal intensity with melodic compositional awareness.\n\nFor drummers studying Gothenburg melodic death metal drumming, Erlandsson's approach demonstrates the key principle: blast beats and double-kick are tools, not defaults. The power comes from knowing when not to use them — from the dynamic contrast that makes the intense passages land with force.\n\nStudy \"Nemesis\" for the melodic fill architecture. Study \"Enemy Within\" for blast beat integration within a melodic context. Study the full Arch Enemy discography from Black Earth through Deceivers to trace how a complete melodic death metal drummer evolves without losing the technical identity that defined his earliest work.\n\nFor deeper exploration:\n- **Full drummer profile**: [Daniel Erlandsson at MetalForge](/drummer/daniel-erlandsson)\n- **Swedish melodic death metal peer**: [Jaska Raatikainen — Children of Bodom drum setup](/articles/jaska-raatikainen-drum-setup)\n- **Gothenburg scene companion**: [Martin Lopez — Opeth drum setup](/articles/martin-lopez-drum-setup)\n- **Double bass technique**: [Double-bass drumming at MetalForge](/technique/double-bass-drumming)"
+      "content": "Daniel Erlandsson is one of the longest-serving drummers in modern extreme metal — co-founding Arch Enemy in 1995 and driving the band's rhythm section through ten studio albums and decades of worldwide touring. That longevity is not accidental. His Pearl Reference Pure setup and disciplined approach to technique produced a drum sound that remained consistently authoritative from the raw early albums through the polished production of the modern era, across multiple vocalist lineups and shifts in the band's global profile.\n\nHis gear reflects a philosophy of function above spectacle:\n\n- **Pearl Reference Pure**: All-maple flagship shells delivering tonal clarity and projection for melodic death metal's demanding acoustic environments\n- **Pearl Erlandsson Signature Snare**: A co-designed model built precisely for the character his playing demands — the most personal component of his professional setup\n- **Sabian AAX Crashes**: Bright, cutting projection above Arch Enemy's dense guitar frequencies\n- **Sabian HHX Ride**: Tonal complexity and darkness for musical contrast in groove passages\n- **Pearl Eliminator Double Bass Pedal**: Cam-adjustable consistency for sustained double-kick across multi-year international tours\n- **ProMark 5B**: Mass and durability for high-impact melodic death metal performance\n\nThe deeper context for Erlandsson's place in metal history is the Gothenburg scene that shaped him. His work with Eucharist in the early 1990s placed him at the origin point of melodic death metal as a genre, before the vocabulary had been fully codified. His brother Adrian was doing the same thing at At The Gates — the two brothers forming a family parallel at the center of one of metal's most influential regional movements. Both emerged as defining practitioners of a drumming approach that fused death metal intensity with melodic compositional awareness.\n\nFor drummers studying Gothenburg melodic death metal drumming, Erlandsson's approach demonstrates the key principle: blast beats and double-kick are tools, not defaults. The power comes from knowing when not to use them — from the dynamic contrast that makes the intense passages land with force.\n\nStudy \"Nemesis\" for the melodic fill architecture. Study \"Enemy Within\" for blast beat integration within a melodic context. Study the full Arch Enemy discography from Black Earth through Deceivers to trace how a complete melodic death metal drummer evolves without losing the technical identity that defined his earliest work.\n\nFor deeper exploration:\n- **Full drummer profile**: [Daniel Erlandsson at MetalForge](/drummer/daniel-erlandsson)\n- **Swedish melodic death metal peer**: [Jaska Raatikainen — Children of Bodom drum setup](/articles/jaska-raatikainen-drum-setup)\n- **Gothenburg scene companion**: [Martin Lopez — Opeth drum setup](/articles/martin-lopez-drum-setup)\n- **Double bass technique**: [Double-bass drumming at MetalForge](/technique/double-bass-drumming)"
     }
   },
   "wages-of-sin-drum-setup": {
@@ -322,7 +322,7 @@ export const articles = {
     "ogImage": "/images/albums/wages-of-sin-drums.webp",
     "intro": {
       "title": "Wages of Sin (2002): Daniel Erlandsson, Studio Fredman, and the Album That Broke Arch Enemy",
-      "content": "Released February 14, 2002 on Century Media Records, Arch Enemy's fourth studio album Wages of Sin is the record that turned the band from a respected European melodic death metal act into a global force. It is Angela Gossow's debut as Arch Enemy's vocalist — replacing original frontman Johan Liiva and instantly redefining the band's identity — and it is the arc-opening Gossow-era album that launched the trajectory carrying Arch Enemy across the next two decades of headlining tours and major festival slots. The \"Ravenous\" and \"Heart of Darkness\" singles broke through into rotation on MTV2's Headbangers Ball and across European metal radio, and the album marked Arch Enemy's commercial and critical breakthrough in North America — the first time the band's audience caught up with the technical quality of the music being made.\n\nBehind the kit on Wages of Sin is Daniel Erlandsson, Arch Enemy co-founding member and one of melodic death metal's most disciplined practitioners. By 2002, Erlandsson had already cut three Arch Enemy studio albums (Black Earth, Stigmata, Burning Bridges) and was operating at the high end of the Gothenburg melodic death metal drumming vocabulary: blast beats deployed with compositional precision, double-kick patterns that follow guitar melodies rather than fight them, and the dynamic control to push tracks like \"Enemy Within\" and \"Behind the Smile\" through their full range without losing the band's signature combination of aggression and musicality.\n\nWages of Sin was recorded at Studio Fredman in Gothenburg, Sweden — the same room that captured At the Gates' Slaughter of the Soul (1995), In Flames' early albums, and the broader Gothenburg melodic death metal canon. But the production team for Wages of Sin was distinctive: British producer Andy Sneap (Testament, Megadeth, Exodus) co-produced the record with Arch Enemy themselves, bringing a denser, more aggressive mix philosophy than Studio Fredman's earlier dry, gated Gothenburg template. The result is a hybrid: the Studio Fredman tracking room and house culture, processed through Sneap's modern metal production sensibility. The drum sound on Wages of Sin sits between the dry directness of mid-90s Gothenburg and the saturated polish of 2000s international metal production — punchy and articulate, but with more weight and modern low-end character than its Studio Fredman predecessors.\n\nErlandsson's gear on Wages of Sin reflects his early-2000s Pearl artist relationship: Pearl Masters / Reference-era shells in a double-kick configuration with two 22\"x18\" bass drums, 10\" and 12\" rack toms, 14\" and 16\" floor toms, and a Pearl Free-Floating Brass 14\"x6.5\" snare delivering the bright, cutting attack the album's dense production needed. His Sabian setup combined AA and HH series cymbals — the durable workhorse lines from Sabian's catalog, suited to the velocity and aggression Arch Enemy's material demanded. The Pearl Eliminator double bass pedal provided the consistency that the album's sustained double-kick patterns required, and Vic Firth or Vater 5B-class sticks gave him the mass and durability for tracking through long days at Studio Fredman.\n\nThis article breaks down Daniel Erlandsson's drum setup for Wages of Sin — the kit, snare, cymbals, hardware, production approach, and technique — and places the album within the broader context of Arch Enemy's Gossow-era expansion and the Gothenburg melodic death metal tradition that shaped both of the Erlandsson brothers' careers.",
+      "content": "Released February 14, 2002 on Century Media Records, Arch Enemy's fourth studio album Wages of Sin is the record that turned the band from a respected European melodic death metal act into a global force. It is Angela Gossow's debut as Arch Enemy's vocalist — replacing original frontman Johan Liiva and instantly redefining the band's identity — and it is the arc-opening Gossow-era album that launched the trajectory carrying Arch Enemy across the next two decades of headlining tours and major festival slots. The \"Ravenous\" and \"Heart of Darkness\" singles broke through into rotation on MTV2's Headbangers Ball and across European metal radio, and the album marked Arch Enemy's commercial and critical breakthrough in North America — the first time the band's audience caught up with the technical quality of the music being made.\n\nBehind the kit on Wages of Sin is Daniel Erlandsson, Arch Enemy co-founding member and one of melodic death metal's most disciplined practitioners. By 2002, Erlandsson had already cut three Arch Enemy studio albums (Black Earth, Stigmata, Burning Bridges) and was operating at the high end of the Gothenburg melodic death metal drumming vocabulary: blast beats deployed with compositional precision, double-kick patterns that follow guitar melodies rather than fight them, and the dynamic control to push tracks like \"Enemy Within\" and \"Behind the Smile\" through their full range without losing the band's signature combination of aggression and musicality.\n\nWages of Sin was recorded at Studio Fredman in Gothenburg, Sweden — the same room that captured At the Gates' Slaughter of the Soul (1995), In Flames' early albums, and the broader Gothenburg melodic death metal canon. But the production team for Wages of Sin was distinctive: British producer Andy Sneap (Testament, Megadeth, Exodus) co-produced the record with Arch Enemy themselves, bringing a denser, more aggressive mix philosophy than Studio Fredman's earlier dry, gated Gothenburg template. The result is a hybrid: the Studio Fredman tracking room and house culture, processed through Sneap's modern metal production sensibility. The drum sound on Wages of Sin sits between the dry directness of mid-90s Gothenburg and the saturated polish of 2000s international metal production — punchy and articulate, but with more weight and modern low-end character than its Studio Fredman predecessors.\n\nErlandsson's gear on Wages of Sin reflects his early-2000s Pearl artist relationship: Pearl Masters / Reference-era shells in a double-kick configuration with two 22\"x18\" bass drums, 10\" and 12\" rack toms, 14\" and 16\" floor toms, and a Pearl Free-Floating Brass 14\"x6.5\" snare delivering the bright, cutting attack the album's dense production needed. His Sabian setup combined AA and HH series cymbals — the durable workhorse lines from Sabian's catalog, suited to the velocity and aggression Arch Enemy's material demanded. The Pearl Eliminator double bass pedal provided the consistency that the album's sustained double-kick patterns required, and ProMark 5B sticks gave him the mass and durability for tracking through long days at Studio Fredman.\n\nThis article breaks down Daniel Erlandsson's drum setup for Wages of Sin — the kit, snare, cymbals, hardware, production approach, and technique — and places the album within the broader context of Arch Enemy's Gossow-era expansion and the Gothenburg melodic death metal tradition that shaped both of the Erlandsson brothers' careers.",
       "keyPoints": [
         "Angela Gossow's debut as Arch Enemy vocalist — the arc-opening album of the band's defining era",
         "Recorded at Studio Fredman, Gothenburg, Sweden — the home of the Gothenburg melodic death metal sound",
@@ -446,8 +446,8 @@ export const articles = {
         },
         {
           "type": "Sticks",
-          "brand": "Vic Firth / Vater",
-          "model": "5B-class hickory drumsticks",
+          "brand": "ProMark",
+          "model": "ProMark 5B",
           "notes": "Standard heavy 5B drumsticks — mass and durability for extended high-velocity playing in metal contexts"
         }
       ],
@@ -538,7 +538,7 @@ export const articles = {
       },
       {
         "question": "What drum kit did Daniel Erlandsson use on Wages of Sin?",
-        "answer": "Daniel Erlandsson used a Pearl Masters / Reference-era kit on Wages of Sin (2002), reflecting his long-standing Pearl artist relationship. The configuration followed his standard setup: two 22\" x 18\" bass drums in a true double-kick configuration (not double pedal on single kick), 10\" and 12\" rack toms, 14\" and 16\" floor toms, and a Pearl Free-Floating Brass 14\" x 6.5\" snare delivering the bright, cutting attack the album's dense Andy Sneap production demanded. His cymbal setup combined Sabian AA series (hi-hats, crashes, China, splash) for cutting brightness with a Sabian HH 20\" Heavy Ride for darker tonal contrast. Pearl Eliminator double bass pedal provided the foot technique foundation, and Vic Firth or Vater 5B-class hickory sticks gave him the mass for sustained high-velocity playing."
+        "answer": "Daniel Erlandsson used a Pearl Masters / Reference-era kit on Wages of Sin (2002), reflecting his long-standing Pearl artist relationship. The configuration followed his standard setup: two 22\" x 18\" bass drums in a true double-kick configuration (not double pedal on single kick), 10\" and 12\" rack toms, 14\" and 16\" floor toms, and a Pearl Free-Floating Brass 14\" x 6.5\" snare delivering the bright, cutting attack the album's dense Andy Sneap production demanded. His cymbal setup combined Sabian AA series (hi-hats, crashes, China, splash) for cutting brightness with a Sabian HH 20\" Heavy Ride for darker tonal contrast. Pearl Eliminator double bass pedal provided the foot technique foundation, and ProMark 5B hickory sticks gave him the mass for sustained high-velocity playing."
       },
       {
         "question": "Where was Wages of Sin recorded?",
@@ -566,7 +566,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "Wages of Sin: The Album That Built Arch Enemy's Global Era",
-      "content": "Wages of Sin (February 14, 2002) is the breakthrough record at the heart of Arch Enemy's history. It introduced Angela Gossow as the band's vocalist — the defining identity-shaping move that gave Arch Enemy the global profile they would carry across the next two decades. It launched the singles \"Ravenous\" and \"Heart of Darkness\" into MTV2 rotation and European metal radio, breaking the band into North American media in a way their first three albums had not. And it consolidated Daniel Erlandsson's reputation as one of melodic death metal's most disciplined drummers, with playing that integrated blast beats, double-kick patterns, and melodic fill content into a mature compositional statement.\n\nThe gear behind that performance — Pearl Masters / Reference-era maple shells, Pearl Free-Floating Brass 14\" x 6.5\" snare, Sabian AA and HH cymbal setup, Pearl Eliminator double bass pedal, Vic Firth or Vater 5B-class sticks — represents the early-2000s standard for professional melodic death metal drumming. Each component was chosen for function: the maple kit for tonal clarity within Studio Fredman's controlled tracking room, the brass snare for cutting projection through Andy Sneap's dense mix, the Sabian AA/HH pairing for tonal range across the album's compositional variety, the Eliminator pedal for the sustained double-kick consistency the material demanded.\n\n**Key takeaways for drummers studying this album:**\n- Blast beats deployed as structural intensification, not constant texture\n- Double-kick patterns lock to guitar riff contours for compositional cohesion\n- Bright snare cut is essential in dense modern metal mix contexts\n- Sabian AA/HH pairing provides full tonal range across one professional cymbal setup\n- Pearl Eliminator pedal delivers the foot technique consistency long studio sessions require\n\n**Explore related content at MetalForge:**\n- [Daniel Erlandsson drum setup](/articles/daniel-erlandsson-drum-setup) — the broader Erlandsson Arch Enemy gear profile\n- [Daniel Erlandsson drummer profile](/drummer/daniel-erlandsson) — full career context for Arch Enemy's drummer\n- [Slaughter of the Soul drum setup](/articles/slaughter-of-the-soul-drum-setup) — Adrian Erlandsson's parallel Gothenburg melodic death metal landmark"
+      "content": "Wages of Sin (February 14, 2002) is the breakthrough record at the heart of Arch Enemy's history. It introduced Angela Gossow as the band's vocalist — the defining identity-shaping move that gave Arch Enemy the global profile they would carry across the next two decades. It launched the singles \"Ravenous\" and \"Heart of Darkness\" into MTV2 rotation and European metal radio, breaking the band into North American media in a way their first three albums had not. And it consolidated Daniel Erlandsson's reputation as one of melodic death metal's most disciplined drummers, with playing that integrated blast beats, double-kick patterns, and melodic fill content into a mature compositional statement.\n\nThe gear behind that performance — Pearl Masters / Reference-era maple shells, Pearl Free-Floating Brass 14\" x 6.5\" snare, Sabian AA and HH cymbal setup, Pearl Eliminator double bass pedal, ProMark 5B sticks — represents the early-2000s standard for professional melodic death metal drumming. Each component was chosen for function: the maple kit for tonal clarity within Studio Fredman's controlled tracking room, the brass snare for cutting projection through Andy Sneap's dense mix, the Sabian AA/HH pairing for tonal range across the album's compositional variety, the Eliminator pedal for the sustained double-kick consistency the material demanded.\n\n**Key takeaways for drummers studying this album:**\n- Blast beats deployed as structural intensification, not constant texture\n- Double-kick patterns lock to guitar riff contours for compositional cohesion\n- Bright snare cut is essential in dense modern metal mix contexts\n- Sabian AA/HH pairing provides full tonal range across one professional cymbal setup\n- Pearl Eliminator pedal delivers the foot technique consistency long studio sessions require\n\n**Explore related content at MetalForge:**\n- [Daniel Erlandsson drum setup](/articles/daniel-erlandsson-drum-setup) — the broader Erlandsson Arch Enemy gear profile\n- [Daniel Erlandsson drummer profile](/drummer/daniel-erlandsson) — full career context for Arch Enemy's drummer\n- [Slaughter of the Soul drum setup](/articles/slaughter-of-the-soul-drum-setup) — Adrian Erlandsson's parallel Gothenburg melodic death metal landmark"
     }
   },
   "doomsday-machine-drum-setup": {
@@ -874,14 +874,14 @@ export const articles = {
     "author": "MetalForge Editorial",
     "title": "Daniel Erlandsson's Drum Setup on Arch Enemy's Anthems of Rebellion (2003)",
     "metaTitle": "Daniel Erlandsson's Drum Setup — Arch Enemy 'Anthems of Rebellion' (2003) | MetalForge",
-    "description": "Daniel Erlandsson's drum setup on Arch Enemy's Anthems of Rebellion (2003) — Angela Gossow's first full Arch Enemy album, Pearl Masters MMX shells, Meinl Byzance cymbals, Pearl Eliminator pedals, and the Swedish melodic death metal landmark that defined the Gossow era.",
+    "description": "Daniel Erlandsson's drum setup on Arch Enemy's Anthems of Rebellion (2003) — Angela Gossow's first full Arch Enemy album, Pearl Masters MMX shells, Sabian AA/HH cymbals, Pearl Eliminator pedals, and the Swedish melodic death metal landmark that defined the Gossow era.",
     "seoKeywords": [
       "anthems of rebellion drum setup",
       "daniel erlandsson 2003 kit",
       "arch enemy anthems of rebellion drums",
       "angela gossow first full album",
       "pearl masters mmx drum kit",
-      "meinl byzance arch enemy",
+      "sabian aa hh arch enemy",
       "exist to dominate drums",
       "we will rise arch enemy drum",
       "gothenburg melodic death metal 2003",
@@ -890,13 +890,13 @@ export const articles = {
     "ogImage": "/images/drummers/daniel-erlandsson.webp",
     "intro": {
       "title": "Anthems of Rebellion (2003): Angela Gossow's First Full Album and Erlandsson's MMX Era",
-      "content": "Released October 27, 2003 on Century Media Records, Arch Enemy's fifth studio album Anthems of Rebellion marks a defining moment in the band's history: Angela Gossow's first full album with Arch Enemy — the record where her presence shaped the songwriting and identity of the band from the ground up, rather than being grafted onto material already in progress. Where Wages of Sin (2002) was the breakthrough that introduced Gossow to the world, Anthems of Rebellion is the album where the Angela Gossow–era Arch Enemy established its fully developed creative identity. The results confirmed that the chemistry between Gossow's extreme vocal approach and the band's melodic death metal architecture was not a one-record phenomenon — it was the defining formula of Arch Enemy's most commercially successful and critically recognised era.\n\nBehind the kit, Daniel Erlandsson brought the same compositional precision that had characterised his playing on Wages of Sin, but now operating within arrangements that had been written from the outset with Gossow's vocal style in mind. The interplay between Erlandsson's double-kick patterns and the melodic guitar work of Michael Amott is sharper and more purposeful on Anthems than on its predecessor: the drums answer the vocal phrasing, frame the harmonic motion of the guitar leads, and drive the album's most anthemic moments — including the defining Gossow-era statement \"We Will Rise\" — with the locked-in precision that became Arch Enemy's trademark.\n\nErlandsson's setup for the Anthems sessions centred on his Pearl Masters MMX kit — Pearl's flagship mixed-shell configuration of the era, combining maple and mahogany shells for a warmer, fuller tonal character than pure-maple designs. His cymbals had evolved toward Meinl's Byzance series, bringing the hand-hammered B20 bronze complexity of that line to Arch Enemy's studio and live configuration. The Pearl Eliminator double bass pedal remained his foot technique foundation, providing the mechanical consistency that sustained double-kick passages demanded across full studio tracking days.\n\nThis article breaks down Daniel Erlandsson's drum setup for Anthems of Rebellion — the kit, cymbals, hardware, recording approach, and technique — and places the album within the arc of the Angela Gossow era and the Gothenburg melodic death metal tradition that shaped both Erlandsson brothers' careers.",
+      "content": "Released October 27, 2003 on Century Media Records, Arch Enemy's fifth studio album Anthems of Rebellion marks a defining moment in the band's history: Angela Gossow's first full album with Arch Enemy — the record where her presence shaped the songwriting and identity of the band from the ground up, rather than being grafted onto material already in progress. Where Wages of Sin (2002) was the breakthrough that introduced Gossow to the world, Anthems of Rebellion is the album where the Angela Gossow–era Arch Enemy established its fully developed creative identity. The results confirmed that the chemistry between Gossow's extreme vocal approach and the band's melodic death metal architecture was not a one-record phenomenon — it was the defining formula of Arch Enemy's most commercially successful and critically recognised era.\n\nBehind the kit, Daniel Erlandsson brought the same compositional precision that had characterised his playing on Wages of Sin, but now operating within arrangements that had been written from the outset with Gossow's vocal style in mind. The interplay between Erlandsson's double-kick patterns and the melodic guitar work of Michael Amott is sharper and more purposeful on Anthems than on its predecessor: the drums answer the vocal phrasing, frame the harmonic motion of the guitar leads, and drive the album's most anthemic moments — including the defining Gossow-era statement \"We Will Rise\" — with the locked-in precision that became Arch Enemy's trademark.\n\nErlandsson's setup for the Anthems sessions centred on his Pearl Masters MMX kit — Pearl's flagship mixed-shell configuration of the era, combining maple and mahogany shells for a warmer, fuller tonal character than pure-maple designs. His cymbals continued with the Sabian AA/HH configuration established during his Eucharist years, bringing that same bright, workhorse B20 bronze character to Arch Enemy's studio and live configuration. The Pearl Eliminator double bass pedal remained his foot technique foundation, providing the mechanical consistency that sustained double-kick passages demanded across full studio tracking days.\n\nThis article breaks down Daniel Erlandsson's drum setup for Anthems of Rebellion — the kit, cymbals, hardware, recording approach, and technique — and places the album within the arc of the Angela Gossow era and the Gothenburg melodic death metal tradition that shaped both Erlandsson brothers' careers.",
       "keyPoints": [
         "Angela Gossow's first full Arch Enemy album — songwriting built around her identity from the outset",
         "Released October 27, 2003 on Century Media Records — fifth Arch Enemy studio album",
         "\"We Will Rise\" became an Arch Enemy live anthem and defining Gossow-era statement",
         "Pearl Masters MMX kit — mixed maple/mahogany shells at the top of Pearl's 2003 lineup",
-        "Meinl Byzance cymbals — hand-hammered B20 bronze complexity for studio and touring work",
+        "Sabian AA/HH cymbals — bright, workhorse B20 bronze character carried over from Wages of Sin",
         "Pearl Eliminator double bass pedal — sustained double-kick consistency across the full album"
       ]
     },
@@ -940,49 +940,49 @@ export const articles = {
       "estimatedValue": "$400-600 (Pearl Free-Floating Brass series, 2003)"
     },
     "cymbals": {
-      "title": "Meinl Byzance: Daniel Erlandsson's 2003 Cymbal Evolution",
-      "brand": "Meinl",
-      "series": "Meinl Byzance Series",
+      "title": "Sabian AA/HH: Daniel Erlandsson's Established 2003 Cymbal Setup",
+      "brand": "Sabian",
+      "series": "Sabian AA / HH Series",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Meinl Byzance 14\" Traditional Hi-Hats",
+          "model": "Sabian AA 14\" Hi-Hats",
           "position": "Left side",
-          "notes": "Hand-hammered B20 bronze — warm, complex articulation for verse groove and blast accompaniment"
+          "notes": "Bright B20 bronze — cutting articulation for verse groove and blast accompaniment"
         },
         {
           "type": "Crash",
-          "model": "Meinl Byzance 16\" Medium Crash",
+          "model": "Sabian AA 16\" Medium Crash",
           "position": "Left crash",
-          "notes": "Fast attack with musical sustain — Byzance warmth without brightness sacrificed"
+          "notes": "Fast attack and decay — AA brightness for accent work"
         },
         {
           "type": "Crash",
-          "model": "Meinl Byzance 18\" Medium Crash",
+          "model": "Sabian AA 18\" Medium Crash",
           "position": "Right crash",
           "notes": "Larger crash body for structural section entries and chorus accents"
         },
         {
           "type": "Ride",
-          "model": "Meinl Byzance 20\" Medium Ride",
+          "model": "Sabian HH 20\" Medium Ride",
           "position": "Far right",
-          "notes": "Defined stick articulation with Byzance tonal complexity for groove passage ride work"
+          "notes": "Defined stick articulation with HH tonal complexity for groove passage ride work"
         },
         {
           "type": "China",
-          "model": "Meinl Byzance 18\" China",
+          "model": "Sabian AA 18\" China",
           "position": "Over rack toms",
           "notes": "Aggressive China character in Gothenburg style — riff transitions and dynamic punctuation"
         },
         {
           "type": "Splash",
-          "model": "Meinl Byzance 10\" Splash",
+          "model": "Sabian AA 10\" Splash",
           "position": "Above hi-hats",
           "notes": "Fast accent cymbal for syncopated fills and short dynamic punctuation"
         }
       ],
-      "description": "The Meinl Byzance series that Daniel Erlandsson deployed on Anthems of Rebellion represents a significant shift in the tonal philosophy of his cymbal work relative to the Sabian AA/HH setup of the Wages of Sin era. The Byzance line is hand-hammered B20 bronze — the same alloy as most premium cymbals, but processed with more surface variation than machine-hammered designs. The result is a cymbal character that is warmer, darker, and more musically complex than the bright-cutting Sabian AA approach: more overtones, longer sustain, and a tonal depth that rewards dynamic playing.\n\nFor Arch Enemy's Anthems of Rebellion sessions, the Byzance character suits the album's more melodic compositional direction. The hand-hammered surface produces a rich wash that blends with Amott's layered guitar harmonics rather than cutting aggressively above them. The hi-hats speak with warmth and definition, the crashes sustain with musical complexity rather than fast decay, and the ride provides a textured canvas for groove passages that feels compositionally integrated rather than purely functional.\n\nThe 14\" Byzance Traditional hi-hats drive the album's rhythmic foundation with the articulate clarity that Meinl's Byzance Traditional series is known for — every stroke registers distinctly even within the blast beat passages, where hi-hat definition separates competent drumming from exceptional drumming. The 16\" and 18\" crash configuration provides the accent range from fast-decay structural markers to longer, more musical sustain for the bigger section moments on \"We Will Rise.\"\n\nThe Byzance 18\" China maintains the Gothenburg melodic death metal china accent vocabulary that Erlandsson established on earlier albums — the aggressive, trashy character for riff transitions and dynamic punctuation — but with the additional tonal complexity of the hand-hammered Byzance surface. And the 20\" Byzance Medium Ride provides the low-frequency texture that the more spacious passages on Anthems require, offering a contrasting sonic character to the crashes that expands the album's tonal palette.",
-      "estimatedValue": "$1,600-2,400 total (Meinl Byzance full studio setup, 2003)"
+      "description": "The Sabian AA/HH setup that Daniel Erlandsson deployed on Anthems of Rebellion continues directly from the configuration he established on Wages of Sin (2002) — the same bright, workhorse B20 bronze pairing that has anchored his cymbal work since his Eucharist years. The AA series delivers a cutting, immediate attack; the HH series brings hand-hammered tonal complexity and darker sustain for ride and groove work. No brand or series change accompanies Anthems of Rebellion's more melodic compositional direction — the same Sabian AA/HH character carries over, doing double duty across both the album's aggressive and more melodic passages.\n\nFor Arch Enemy's Anthems of Rebellion sessions, that continuity serves the album's more melodic compositional direction well. The AA cymbals' bright attack cuts cleanly above Amott's layered guitar harmonics, while the HH ride's darker, hand-hammered complexity provides a musically distinct textural contrast for the album's more spacious passages. The hi-hats speak with cutting definition, the crashes deliver fast, clear accents, and the ride provides a textured canvas for groove passages that feels compositionally integrated rather than purely functional.\n\nThe 14\" AA hi-hats drive the album's rhythmic foundation with the articulate clarity that Sabian's AA series is known for — every stroke registers distinctly even within the blast beat passages, where hi-hat definition separates competent drumming from exceptional drumming. The 16\" and 18\" crash configuration provides the accent range from fast-decay structural markers to fuller crash body for the bigger section moments on \"We Will Rise.\"\n\nThe AA 18\" China maintains the Gothenburg melodic death metal china accent vocabulary that Erlandsson established on earlier albums — the aggressive, trashy character for riff transitions and dynamic punctuation. And the 20\" HH Medium Ride provides the low-frequency texture that the more spacious passages on Anthems require, offering a contrasting sonic character to the AA crashes that expands the album's tonal palette.",
+      "estimatedValue": "$1,500-2,200 total (Sabian AA/HH full studio setup, 2003)"
     },
     "hardware": {
       "title": "The Foundation: Pearl Eliminator and the Anthems Rig",
@@ -1041,10 +1041,10 @@ export const articles = {
     },
     "soundCharacter": {
       "title": "The Anthems of Rebellion Drum Sound: MMX Warmth in a Melodic Context",
-      "content": "The drum sound on Anthems of Rebellion is distinctly warmer than the Wages of Sin production — the Pearl Masters MMX mixed-shell character and the Meinl Byzance cymbal palette combine to produce a kit voice with more low-mid body and tonal depth than the brighter, more aggressive Sabian AA/HH approach of the previous album. This warmth is not softness: the Studio Fredman close-mic approach maintains the attack and articulation that melodic death metal demands, but the overall tonal character has more musical roundness that suits the album's more harmonically developed guitar arrangements.\n\nThe kick drum sound on Anthems carries more sub-bass body than Wages of Sin — the MMX shells' mahogany contribution in the low end gives the two 22\"x18\" bass drums a fuller, rounder fundamental that sits differently in the mix. The snare retains the brass-shell brightness and cut that allows it to speak above the guitar density. The Meinl Byzance cymbals wash with complex harmonic texture rather than the more focused, cutting brightness of the Sabian AA series — giving the album's cymbal work a more musically integrated character within the full arrangement.",
+      "content": "The drum sound on Anthems of Rebellion is somewhat warmer than the Wages of Sin production — the Pearl Masters MMX mixed-shell character adds more low-mid body and tonal depth than the pure-maple approach of the previous album, while the cymbal palette carries over the same bright, cutting Sabian AA/HH character unchanged. This warmth is not softness: the Studio Fredman close-mic approach maintains the attack and articulation that melodic death metal demands, but the overall tonal character has more musical roundness that suits the album's more harmonically developed guitar arrangements.\n\nThe kick drum sound on Anthems carries more sub-bass body than Wages of Sin — the MMX shells' mahogany contribution in the low end gives the two 22\"x18\" bass drums a fuller, rounder fundamental that sits differently in the mix. The snare retains the brass-shell brightness and cut that allows it to speak above the guitar density. The Sabian AA cymbals continue to deliver their focused, cutting brightness on top, with the HH ride's hand-hammered complexity providing the same tonal contrast point established on Wages of Sin — giving the album's cymbal work a consistent, musically integrated character within the full arrangement.",
       "keyAttributes": [
         "Pearl Masters MMX warmth — mahogany contribution adds low-mid body and tonal depth",
-        "Meinl Byzance complexity — hand-hammered B20 warmth vs the brighter Sabian AA character of Wages",
+        "Sabian AA/HH continuity — the same bright AA cut and darker HH ride complexity carried over from Wages of Sin",
         "Studio Fredman close-mic attack preserved within the warmer overall tonal character",
         "Fuller sub-bass kick character from the MMX shells in Studio Fredman's controlled tracking room"
       ]
@@ -1060,7 +1060,7 @@ export const articles = {
           "Dynamic contrast between verse restraint and full-intensity chorus drives the anthem quality",
           "Tom fills build structural momentum across section transitions using the full 10/12/14/16 spread"
         ],
-        "gearNotes": "Meinl Byzance crashes provide the musical wash for the chorus entries. MMX warmth suits the melodic verse groove. Pearl Eliminator double-kick consistency drives the verse-to-chorus momentum build."
+        "gearNotes": "Sabian AA crashes provide the bright cut for the chorus entries. MMX warmth suits the melodic verse groove. Pearl Eliminator double-kick consistency drives the verse-to-chorus momentum build."
       },
       {
         "track": "Exist to Dominate",
@@ -1070,7 +1070,7 @@ export const articles = {
           "Single from the album — highest-velocity track showcasing the MMX kit under full blast conditions",
           "Blast beat passages deployed as structural events rather than constant texture",
           "Double-kick patterns articulate the guitar riff rhythmic content throughout",
-          "China cymbal accents from Byzance 18\" mark riff transitions in classic Gothenburg style"
+          "China cymbal accents from the Sabian AA 18\" China mark riff transitions in classic Gothenburg style"
         ],
         "gearNotes": "Brass snare's cutting attack essential at blast velocity — each stroke must register individually. Pearl Eliminator consistency drives the sustained double-kick foundation."
       },
@@ -1080,11 +1080,11 @@ export const articles = {
         "signature": "4/4",
         "highlights": [
           "Mid-tempo groove track — demonstrates Erlandsson's dynamic range beyond the blast-beat showcase",
-          "HH ride on the Byzance 20\" Medium provides the textural contrast for groove-oriented sections",
+          "HH ride on the Sabian HH 20\" Medium provides the textural contrast for groove-oriented sections",
           "Fill content locks to guitar melodic contours — double-kick articulates riff shapes",
           "Structural transitions supported by full-kit fills from MMX tom spread"
         ],
-        "gearNotes": "Byzance ride warmth contrasts with crash brightness across the dynamic range. MMX shell body carries well in the more spacious arrangement of the mid-tempo sections."
+        "gearNotes": "Sabian HH ride warmth contrasts with AA crash brightness across the dynamic range. MMX shell body carries well in the more spacious arrangement of the mid-tempo sections."
       },
       {
         "track": "Burning Angel",
@@ -1094,15 +1094,15 @@ export const articles = {
           "High-energy track with varied dynamic architecture across verse and chorus sections",
           "Demonstrates the interlocking of vocal phrasing and drum accents in the fully-formed Gossow-era identity",
           "Double-kick transitions between patterns follow the melodic guitar line changes",
-          "Byzance china accents punctuate section boundaries with aggressive trashy character"
+          "Sabian AA china accents punctuate section boundaries with aggressive trashy character"
         ],
-        "gearNotes": "MMX toms provide the warmer-than-maple fill character that gives Burning Angel's transitions body. Byzance china delivers aggressive accent character in the Gothenburg style."
+        "gearNotes": "MMX toms provide the warmer-than-maple fill character that gives Burning Angel's transitions body. Sabian AA china delivers aggressive accent character in the Gothenburg style."
       }
     ],
     "faq": [
       {
         "question": "What drum kit did Daniel Erlandsson use on Arch Enemy's Anthems of Rebellion?",
-        "answer": "Daniel Erlandsson recorded Arch Enemy's Anthems of Rebellion (2003) on a Pearl Masters MMX kit — Pearl's flagship mixed-shell configuration of the era, combining maple and mahogany shells for a warmer, fuller tonal character than pure-maple designs. The configuration maintained his standard Arch Enemy setup: two 22\" x 18\" bass drums in a true double-kick configuration (not a double pedal on single kick), 10\" and 12\" rack toms, 14\" and 16\" floor toms, and a Pearl Free-Floating Brass 14\" x 6.5\" snare. His cymbal setup had evolved to the Meinl Byzance series — hand-hammered B20 bronze delivering warmer, more complex tonal character than the Sabian AA/HH configuration of the previous album. Pearl Eliminator double bass pedal remained his foot technique foundation. For the full Erlandsson career gear context: [Daniel Erlandsson drum setup at MetalForge](/articles/daniel-erlandsson-drum-setup)."
+        "answer": "Daniel Erlandsson recorded Arch Enemy's Anthems of Rebellion (2003) on a Pearl Masters MMX kit — Pearl's flagship mixed-shell configuration of the era, combining maple and mahogany shells for a warmer, fuller tonal character than pure-maple designs. The configuration maintained his standard Arch Enemy setup: two 22\" x 18\" bass drums in a true double-kick configuration (not a double pedal on single kick), 10\" and 12\" rack toms, 14\" and 16\" floor toms, and a Pearl Free-Floating Brass 14\" x 6.5\" snare. His cymbal setup continued with the same Sabian AA/HH configuration established on Wages of Sin (2002) — no brand or series change. Pearl Eliminator double bass pedal remained his foot technique foundation. For the full Erlandsson career gear context: [Daniel Erlandsson drum setup at MetalForge](/articles/daniel-erlandsson-drum-setup)."
       },
       {
         "question": "Why is Anthems of Rebellion considered Angela Gossow's first full Arch Enemy album?",
@@ -1110,7 +1110,7 @@ export const articles = {
       },
       {
         "question": "What cymbals did Daniel Erlandsson use on Anthems of Rebellion?",
-        "answer": "Daniel Erlandsson played Meinl Byzance cymbals on Anthems of Rebellion (2003), representing an evolution from the Sabian AA/HH setup he had used on Wages of Sin (2002). The Byzance series is hand-hammered B20 bronze — producing a warmer, more tonally complex character than machine-hammered alternatives. His configuration included 14\" Byzance Traditional hi-hats for verse groove articulation, 16\" and 18\" Byzance Medium Crash cymbals for section-entry accents, a 20\" Byzance Medium Ride for groove-oriented passage texture, an 18\" Byzance China for the trashy Gothenburg-style riff-transition accents, and a 10\" Byzance Splash for fast syncopated accents. The Byzance character suited the more melodically developed arrangements of Anthems of Rebellion, providing warmth and musical depth that integrated with Amott's layered guitar harmonics rather than cutting aggressively above them."
+        "answer": "Daniel Erlandsson played Sabian AA/HH cymbals on Anthems of Rebellion (2003), the same configuration he had used on Wages of Sin (2002) and had played since his Eucharist years — no brand or series change accompanied the album. His setup included 14\" Sabian AA hi-hats for verse groove articulation, 16\" and 18\" Sabian AA Medium Crash cymbals for section-entry accents, a 20\" Sabian HH Medium Ride for groove-oriented passage texture, an 18\" Sabian AA China for the trashy Gothenburg-style riff-transition accents, and a 10\" Sabian AA Splash for fast syncopated accents. The bright, cutting AA character and the darker, hand-hammered HH ride suited the more melodically developed arrangements of Anthems of Rebellion, providing the same tonal range and musical depth that had defined his cymbal work since Wages of Sin."
       },
       {
         "question": "How does Anthems of Rebellion fit in the Arch Enemy discography and Erlandsson's career?",
@@ -1135,7 +1135,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "Anthems of Rebellion: The Album That Defined the Angela Gossow Era",
-      "content": "Anthems of Rebellion (October 27, 2003) is the album where the Angela Gossow–era Arch Enemy established its identity as one of extreme metal's essential creative forces. Angela Gossow's first full album as an integrated creative member of the band, it confirmed that the chemistry of Wages of Sin was the beginning of something larger — a decade-long period of creative output and commercial growth that produced some of melodic death metal's defining studio records. \"We Will Rise\" became one of the genre's most recognisable anthems; \"Exist to Dominate\" established Arch Enemy's most intense blast-beat showcase; and the album's overall compositional ambition set a standard that Doomsday Machine (2005) would build directly upon.\n\nThe gear behind that performance — Pearl Masters MMX mixed-shell kit, Pearl Free-Floating Brass 14\"x6.5\" snare, Meinl Byzance cymbal setup, Pearl Eliminator double bass pedal — reflects Erlandsson's early-2000s evolution toward a warmer, more tonally complex setup philosophy. The MMX's maple/mahogany blend and the Byzance cymbals' hand-hammered character suit the album's more melodically developed arrangements, providing tonal depth that integrates with Amott's layered guitar harmonics.\n\n**Key takeaways for drummers studying this album:**\n- Double-kick patterns that articulate guitar riff rhythmic shapes rather than running as constant bedrock\n- Blast beats deployed as structural events — deliberate intensification rather than default texture\n- Pearl MMX warmth and Meinl Byzance complexity for melodically sophisticated melodic death metal\n- Dynamic contrast between verse restraint and full-intensity chorus is the source of the anthology quality\n\n**Explore related content at MetalForge:**\n- [Wages of Sin drum setup (2002)](/articles/wages-of-sin-drum-setup) — the breakthrough Gossow-era opening album\n- [Doomsday Machine drum setup (2005)](/articles/doomsday-machine-drum-setup) — the Billboard-charting follow-up\n- [Rise of the Tyrant drum setup (2007)](/articles/rise-of-the-tyrant-drum-setup) — peak commercial Gossow era\n- [Daniel Erlandsson drummer profile](/drummer/daniel-erlandsson) — full career context\n- [How to sound like Daniel Erlandsson](/guides/how-to-sound-like-daniel-erlandsson) — technique guide"
+      "content": "Anthems of Rebellion (October 27, 2003) is the album where the Angela Gossow–era Arch Enemy established its identity as one of extreme metal's essential creative forces. Angela Gossow's first full album as an integrated creative member of the band, it confirmed that the chemistry of Wages of Sin was the beginning of something larger — a decade-long period of creative output and commercial growth that produced some of melodic death metal's defining studio records. \"We Will Rise\" became one of the genre's most recognisable anthems; \"Exist to Dominate\" established Arch Enemy's most intense blast-beat showcase; and the album's overall compositional ambition set a standard that Doomsday Machine (2005) would build directly upon.\n\nThe gear behind that performance — Pearl Masters MMX mixed-shell kit, Pearl Free-Floating Brass 14\"x6.5\" snare, Sabian AA/HH cymbal setup, Pearl Eliminator double bass pedal — reflects Erlandsson's early-2000s setup at a settled, mature stage. The MMX's maple/mahogany blend adds warmth to the kit's tonal character, while the established Sabian AA/HH cymbal pairing — unchanged from Wages of Sin — continues to suit the album's more melodically developed arrangements, providing the bright cut and tonal contrast that integrates with Amott's layered guitar harmonics.\n\n**Key takeaways for drummers studying this album:**\n- Double-kick patterns that articulate guitar riff rhythmic shapes rather than running as constant bedrock\n- Blast beats deployed as structural events — deliberate intensification rather than default texture\n- Pearl MMX warmth and the established Sabian AA/HH pairing for melodically sophisticated melodic death metal\n- Dynamic contrast between verse restraint and full-intensity chorus is the source of the anthology quality\n\n**Explore related content at MetalForge:**\n- [Wages of Sin drum setup (2002)](/articles/wages-of-sin-drum-setup) — the breakthrough Gossow-era opening album\n- [Doomsday Machine drum setup (2005)](/articles/doomsday-machine-drum-setup) — the Billboard-charting follow-up\n- [Rise of the Tyrant drum setup (2007)](/articles/rise-of-the-tyrant-drum-setup) — peak commercial Gossow era\n- [Daniel Erlandsson drummer profile](/drummer/daniel-erlandsson) — full career context\n- [How to sound like Daniel Erlandsson](/guides/how-to-sound-like-daniel-erlandsson) — technique guide"
     }
   },
   "rise-of-the-tyrant-drum-setup": {
@@ -1156,14 +1156,14 @@ export const articles = {
     "author": "MetalForge Editorial",
     "title": "Daniel Erlandsson's Drum Setup on Arch Enemy's Rise of the Tyrant (2007)",
     "metaTitle": "Daniel Erlandsson's Drum Setup — Arch Enemy 'Rise of the Tyrant' (2007) | MetalForge",
-    "description": "Daniel Erlandsson's drum setup on Arch Enemy's Rise of the Tyrant (2007) — peak commercial Angela Gossow era, Pearl Masters Premium shells, Meinl Byzance Dark and Vintage cymbals, Pearl Eliminator pedals, and the album that landed on Guitar Hero: Smash Hits.",
+    "description": "Daniel Erlandsson's drum setup on Arch Enemy's Rise of the Tyrant (2007) — peak commercial Angela Gossow era, Pearl Masters Premium shells, Sabian AA/HH cymbals, Pearl Eliminator pedals, and the album that landed on Guitar Hero: Smash Hits.",
     "seoKeywords": [
       "rise of the tyrant drum setup",
       "daniel erlandsson 2007 kit",
       "arch enemy rise of the tyrant drums",
       "angela gossow peak commercial era",
       "pearl masters premium arch enemy",
-      "meinl byzance dark vintage",
+      "sabian aa hh arch enemy 2007",
       "revolution begins drum kit",
       "guitar hero smash hits arch enemy",
       "arch enemy andy sneap 2007",
@@ -1172,12 +1172,12 @@ export const articles = {
     "ogImage": "/images/drummers/daniel-erlandsson.webp",
     "intro": {
       "title": "Rise of the Tyrant (2007): Peak Commercial Gossow Era and Erlandsson's Premium Era Kit",
-      "content": "Released September 21, 2007 on Century Media Records, Arch Enemy's seventh studio album Rise of the Tyrant represents the commercial peak of the Angela Gossow era — the record that brought the band's audience to its largest point and cemented their position as one of extreme metal's most commercially successful acts. Following the Billboard 200–charting Doomsday Machine (2005), Rise of the Tyrant pushed further into the mainstream metal consciousness: the lead single \"Revolution Begins\" became one of Arch Enemy's most widely heard tracks and landed the band on Guitar Hero: Smash Hits, bringing their music to an audience well beyond the dedicated melodic death metal fanbase. The album's combination of melodic accessibility and extreme metal aggression — the formula Michael Amott and the Angela Gossow–era lineup had been developing since 2002 — here achieved its most commercially effective realisation.\n\nBehind the kit, Daniel Erlandsson had now spent nearly fifteen years refining his approach to Gothenburg melodic death metal drumming, and Rise of the Tyrant is one of the clearest documents of his mature playing at peak professional form. Working again with producer Andy Sneap — whose production philosophy had shaped the band's sound since Wages of Sin and been the consistent sonic signature across Doomsday Machine — Erlandsson delivered performances that combined technical precision with compositional intelligence, exactly the balance that the album's polished extreme metal identity required.\n\nErlandsson's setup for Rise of the Tyrant had evolved to the Pearl Masters Premium — Pearl's flagship all-maple professional shell series of the mid-2000s, positioned above the MMX configuration of the Anthems era and delivering the brighter, more defined maple tonal character that Sneap's modern metal production approach required. His cymbal work had deepened within the Meinl Byzance family, now incorporating the Byzance Dark and Vintage series alongside the Traditional line — expanding the tonal palette toward deeper, more complex warm characters that suited the album's melodic sophistication.\n\nThis article breaks down Daniel Erlandsson's complete drum setup for Rise of the Tyrant — the kit, cymbals, pedals, recording approach, and the technique that made one of melodic death metal's most commercially successful albums one of its most drum-credible as well.",
+      "content": "Released September 21, 2007 on Century Media Records, Arch Enemy's seventh studio album Rise of the Tyrant represents the commercial peak of the Angela Gossow era — the record that brought the band's audience to its largest point and cemented their position as one of extreme metal's most commercially successful acts. Following the Billboard 200–charting Doomsday Machine (2005), Rise of the Tyrant pushed further into the mainstream metal consciousness: the lead single \"Revolution Begins\" became one of Arch Enemy's most widely heard tracks and landed the band on Guitar Hero: Smash Hits, bringing their music to an audience well beyond the dedicated melodic death metal fanbase. The album's combination of melodic accessibility and extreme metal aggression — the formula Michael Amott and the Angela Gossow–era lineup had been developing since 2002 — here achieved its most commercially effective realisation.\n\nBehind the kit, Daniel Erlandsson had now spent nearly fifteen years refining his approach to Gothenburg melodic death metal drumming, and Rise of the Tyrant is one of the clearest documents of his mature playing at peak professional form. Working again with producer Andy Sneap — whose production philosophy had shaped the band's sound since Wages of Sin and been the consistent sonic signature across Doomsday Machine — Erlandsson delivered performances that combined technical precision with compositional intelligence, exactly the balance that the album's polished extreme metal identity required.\n\nErlandsson's setup for Rise of the Tyrant had evolved to the Pearl Masters Premium — Pearl's flagship all-maple professional shell series of the mid-2000s, positioned above the MMX configuration of the Anthems era and delivering the brighter, more defined maple tonal character that Sneap's modern metal production approach required. His cymbal work continued with the same established Sabian AA/HH configuration that had defined every Arch Enemy album since Wages of Sin — the bright AA attack and darker HH tonal complexity suiting the album's melodic sophistication without requiring any brand change.\n\nThis article breaks down Daniel Erlandsson's complete drum setup for Rise of the Tyrant — the kit, cymbals, pedals, recording approach, and the technique that made one of melodic death metal's most commercially successful albums one of its most drum-credible as well.",
       "keyPoints": [
         "Released September 21, 2007 on Century Media Records — commercial peak of the Angela Gossow era",
         "\"Revolution Begins\" single landed Arch Enemy on Guitar Hero: Smash Hits — major mainstream crossover",
         "Pearl Masters Premium kit — flagship all-maple professional shells for the mid-2000s",
-        "Meinl Byzance Dark and Vintage series added to the Traditional lineup — expanded tonal palette",
+        "Sabian AA/HH cymbals — the same established configuration carried over from earlier Gossow-era albums",
         "Pearl Eliminator double bass pedal — consistent foot technique foundation across the Arch Enemy decade",
         "Produced by Andy Sneap — the defining production voice of Arch Enemy's commercial peak era"
       ]
@@ -1222,49 +1222,49 @@ export const articles = {
       "estimatedValue": "$400-700 (Pearl Daniel Erlandsson Signature snare)"
     },
     "cymbals": {
-      "title": "Meinl Byzance Dark and Vintage: Erlandsson's Expanded 2007 Palette",
-      "brand": "Meinl",
-      "series": "Meinl Byzance Dark, Vintage, and Traditional Series",
+      "title": "Sabian AA/HH: Erlandsson's Established 2007 Cymbal Setup",
+      "brand": "Sabian",
+      "series": "Sabian AA / HH Series",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Meinl Byzance 14\" Dark Hi-Hats",
+          "model": "Sabian AA 14\" Hi-Hats",
           "position": "Left side",
-          "notes": "Byzance Dark — deeper, warmer hi-hat voice than Traditional for more complex groove texture"
+          "notes": "Bright, cutting AA character for fast, articulate groove texture"
         },
         {
           "type": "Crash",
-          "model": "Meinl Byzance Vintage 16\" Medium Crash",
+          "model": "Sabian AA 16\" Medium Crash",
           "position": "Left crash",
-          "notes": "Vintage series — aged tonal character with fast attack and musical sustain"
+          "notes": "Fast attack with musical sustain — AA brightness for accent work"
         },
         {
           "type": "Crash",
-          "model": "Meinl Byzance 18\" Medium Crash",
+          "model": "Sabian AA 18\" Medium Crash",
           "position": "Right crash",
-          "notes": "Traditional Byzance — warm B20 bronze for larger structural accent work"
+          "notes": "Warm B20 bronze for larger structural accent work"
         },
         {
           "type": "Ride",
-          "model": "Meinl Byzance Dark 20\" Ride",
+          "model": "Sabian HH 20\" Ride",
           "position": "Far right",
-          "notes": "Dark series — deeper, more complex ride voice for groove-oriented passage texture"
+          "notes": "HH series — deeper, more complex ride voice for groove-oriented passage texture"
         },
         {
           "type": "China",
-          "model": "Meinl Byzance 18\" China",
+          "model": "Sabian AA 18\" China",
           "position": "Over rack toms",
-          "notes": "Byzance china — aggressive trashy accent for riff-change punctuation in Gothenburg style"
+          "notes": "Aggressive trashy accent for riff-change punctuation in Gothenburg style"
         },
         {
           "type": "Splash",
-          "model": "Meinl Byzance 10\" Splash",
+          "model": "Sabian AA 10\" Splash",
           "position": "Above hi-hats",
           "notes": "Fast accent cymbal for syncopated fill punctuation"
         }
       ],
-      "description": "The Meinl Byzance Dark and Vintage series additions that characterise Erlandsson's Rise of the Tyrant cymbal setup represent a significant expansion of tonal palette relative to his earlier Byzance Traditional work on Anthems of Rebellion. Where the Traditional Byzance line delivers hand-hammered B20 warmth with relatively conventional attack and sustain characteristics, the Dark and Vintage series push further into complex tonal territory.\n\nThe Byzance Dark series is produced with a specific lathing and hammering process that creates a darker, more overtone-rich tonal character — warmer and more complex than the Traditional line, with a slower attack and longer wash that suits groove-oriented playing and texturally rich ride work. The 14\" Byzance Dark hi-hats and 20\" Byzance Dark Ride that anchor Erlandsson's 2007 setup give his groove playing a deeper, more enveloping texture than the brighter-attacking Traditional hi-hats of the Anthems era, complementing the melodic sophistication of Rise of the Tyrant's arrangements.\n\nThe Byzance Vintage series, meanwhile, is manufactured with a process intended to reproduce the tonal characteristics of aged B20 cymbals — the slight oxidation and micro-surface variation of well-played vintage alloy. The result is a crash cymbal with a distinctly musical, complex quality: more overtone complexity than new-alloy equivalents, a slightly drier attack, and the warm, rounded sustain of truly broken-in bronze. The 16\" Byzance Vintage Medium Crash gives Erlandsson's left-side crash work a musical warmth on Rise of the Tyrant that suits the album's more melodically developed crash-accent moments.\n\nTogether, the Dark, Vintage, and Traditional Byzance elements give Erlandsson the most tonally sophisticated cymbal setup of his Angela Gossow–era Arch Enemy work — a palette matched to the musical ambitions of the album and the larger production budgets and listener expectations that came with being one of extreme metal's commercially leading acts.",
-      "estimatedValue": "$1,800-2,800 total (Meinl Byzance Dark/Vintage/Traditional full setup, 2007)"
+      "description": "Daniel Erlandsson's cymbal setup on Rise of the Tyrant continues the same Sabian AA/HH configuration he established on Wages of Sin (2002) and carried through Anthems of Rebellion (2003) and Doomsday Machine (2005) — no brand or series change accompanies the album's peak-commercial production. The AA series delivers bright, cutting attack with relatively conventional decay characteristics; the HH series brings hand-hammered tonal complexity and darker sustain for ride work.\n\nThe 14\" AA hi-hats and 20\" HH Ride that anchor Erlandsson's 2007 setup give his groove playing the same articulate, cutting texture that has defined his cymbal work since the Gossow era began, complementing the melodic sophistication of Rise of the Tyrant's arrangements with a familiar, well-established tonal identity.\n\nThe 16\" and 18\" AA Medium Crash cymbals give Erlandsson's crash work a bright, fast-attacking character on Rise of the Tyrant that suits the album's more melodically developed crash-accent moments while staying consistent with the AA voicing heard on every previous Gossow-era album.\n\nTogether, the AA and HH Sabian elements give Erlandsson a cymbal setup matched to the musical ambitions of the album and the larger production budgets and listener expectations that came with being one of extreme metal's commercially leading acts — continuity, not reinvention, defines the approach.",
+      "estimatedValue": "$1,600-2,600 total (Sabian AA/HH full setup, 2007)"
     },
     "hardware": {
       "title": "Hardware: Pearl Eliminator at the Commercial Peak",
@@ -1319,15 +1319,15 @@ export const articles = {
     },
     "technique": {
       "title": "Daniel Erlandsson on Rise of the Tyrant: Commercial Metal Precision",
-      "content": "Rise of the Tyrant represents Daniel Erlandsson's drumming at the commercial peak of the Angela Gossow era — playing that had to serve both the technical demands of melodic death metal and the accessibility requirements of music now reaching mainstream metal audiences via Guitar Hero and major festival platforms. The result is some of Erlandsson's most focused and compositionally efficient studio work: every passage precisely executed, every dynamic shift purposeful, and the balance between aggression and musicality held across an album that needed to work for both dedicated extreme metal listeners and new crossover audiences.\n\n**\"Revolution Begins\" — Extreme Metal for Mainstream Accessibility:**\n\"Revolution Begins\" demonstrates Erlandsson's capacity to make technically demanding drumming feel effortlessly driving rather than aggressively technical. The track's double-kick foundation is relentless and precise, but the groove-forward delivery keeps the song propulsive rather than abrasive — a quality that made it accessible to the Guitar Hero audience without compromising its extreme metal credentials. The hi-hat articulation on the verse sections drives the track's momentum as much as the kick patterns, and the dynamic expansion into chorus sections shows Erlandsson managing intensity across a song designed for maximum impact.\n\n**Sustained Double-Kick Endurance:**\n\"The Last Enemy\" and \"Blood on Your Hands\" feature extended double-kick sections that test not just speed but sustained consistency — the ability to maintain pattern articulation and tempo precision over extended passages at professional recording standards. The Pearl Masters Premium's fast-responding all-maple shells mean every stroke registers with the same definition, and the Pearl Eliminator's mechanical consistency means every stroke produces the same result. The combination is audible in the recording: double-kick passages on Rise of the Tyrant are models of controlled endurance rather than impressive but ultimately blurring displays of speed.\n\n**Dynamic Intelligence in Mainstream Context:**\nRise of the Tyrant's commercial accessibility demands more explicit dynamic management than the more underground-oriented earlier albums. Erlandsson deploys his dynamic range with particular clarity here — verse restraint that makes chorus entries land with maximum force, fill architecture that marks structural transitions without overwhelming them, and the melodic ride-to-crash transitions that give the more spacious passages their tonal variation. The Meinl Byzance Dark ride's warm complexity provides the textural contrast for groove sections; the Byzance crashes deliver the structural accent vocabulary.\n\nFor broader Erlandsson technique context: [Daniel Erlandsson drum setup at MetalForge](/articles/daniel-erlandsson-drum-setup), [Daniel Erlandsson drummer profile](/drummer/daniel-erlandsson), and [how to sound like Daniel Erlandsson](/guides/how-to-sound-like-daniel-erlandsson)."
+      "content": "Rise of the Tyrant represents Daniel Erlandsson's drumming at the commercial peak of the Angela Gossow era — playing that had to serve both the technical demands of melodic death metal and the accessibility requirements of music now reaching mainstream metal audiences via Guitar Hero and major festival platforms. The result is some of Erlandsson's most focused and compositionally efficient studio work: every passage precisely executed, every dynamic shift purposeful, and the balance between aggression and musicality held across an album that needed to work for both dedicated extreme metal listeners and new crossover audiences.\n\n**\"Revolution Begins\" — Extreme Metal for Mainstream Accessibility:**\n\"Revolution Begins\" demonstrates Erlandsson's capacity to make technically demanding drumming feel effortlessly driving rather than aggressively technical. The track's double-kick foundation is relentless and precise, but the groove-forward delivery keeps the song propulsive rather than abrasive — a quality that made it accessible to the Guitar Hero audience without compromising its extreme metal credentials. The hi-hat articulation on the verse sections drives the track's momentum as much as the kick patterns, and the dynamic expansion into chorus sections shows Erlandsson managing intensity across a song designed for maximum impact.\n\n**Sustained Double-Kick Endurance:**\n\"The Last Enemy\" and \"Blood on Your Hands\" feature extended double-kick sections that test not just speed but sustained consistency — the ability to maintain pattern articulation and tempo precision over extended passages at professional recording standards. The Pearl Masters Premium's fast-responding all-maple shells mean every stroke registers with the same definition, and the Pearl Eliminator's mechanical consistency means every stroke produces the same result. The combination is audible in the recording: double-kick passages on Rise of the Tyrant are models of controlled endurance rather than impressive but ultimately blurring displays of speed.\n\n**Dynamic Intelligence in Mainstream Context:**\nRise of the Tyrant's commercial accessibility demands more explicit dynamic management than the more underground-oriented earlier albums. Erlandsson deploys his dynamic range with particular clarity here — verse restraint that makes chorus entries land with maximum force, fill architecture that marks structural transitions without overwhelming them, and the melodic ride-to-crash transitions that give the more spacious passages their tonal variation. The Sabian HH ride's darker complexity provides the textural contrast for groove sections; the Sabian AA crashes deliver the structural accent vocabulary.\n\nFor broader Erlandsson technique context: [Daniel Erlandsson drum setup at MetalForge](/articles/daniel-erlandsson-drum-setup), [Daniel Erlandsson drummer profile](/drummer/daniel-erlandsson), and [how to sound like Daniel Erlandsson](/guides/how-to-sound-like-daniel-erlandsson)."
     },
     "soundCharacter": {
       "title": "The Rise of the Tyrant Drum Sound: Sneap's Most Polished Arch Enemy Production",
-      "content": "The drum sound on Rise of the Tyrant is Andy Sneap's most refined Arch Enemy production to that point — the result of five years of refinement since Wages of Sin (2002), with the Pearl Masters Premium's all-maple clarity as the tonal foundation and sample augmentation providing the kick-and-snare weight that modern commercial metal required. The overall character is tighter and more polished than the earlier Anthems of Rebellion production: more separation between kit components, more weight-forward kick, and a snare with the defined, punching character that melodic death metal at commercial scale demands.\n\nThe Meinl Byzance Dark and Vintage elements give the cymbal work a tonal sophistication that distinguishes Rise of the Tyrant's production from the brighter, more uniformly aggressive cymbal character of Wages of Sin. The Dark hi-hats' deeper, more complex groove texture and the Vintage crash's aged-alloy warmth provide more musical tonal variety than a single-series cymbal approach, and in the context of Sneap's precise capture chain, those tonal distinctions translate fully into the mix.",
+      "content": "The drum sound on Rise of the Tyrant is Andy Sneap's most refined Arch Enemy production to that point — the result of five years of refinement since Wages of Sin (2002), with the Pearl Masters Premium's all-maple clarity as the tonal foundation and sample augmentation providing the kick-and-snare weight that modern commercial metal required. The overall character is tighter and more polished than the earlier Anthems of Rebellion production: more separation between kit components, more weight-forward kick, and a snare with the defined, punching character that melodic death metal at commercial scale demands.\n\nThe Sabian AA/HH cymbal setup — unchanged from earlier Gossow-era albums — continues to give the cymbal work its established tonal identity within Rise of the Tyrant's production. The AA hi-hats' bright, cutting groove texture and the HH ride's darker tonal complexity provide the same musical tonal variety heard on Wages of Sin and Anthems of Rebellion, and in the context of Sneap's precise capture chain, those tonal distinctions translate fully into the mix.",
       "keyAttributes": [
         "Pearl Masters Premium all-maple clarity — maximum tonal definition for Sneap's close-mic production",
         "Sample-augmented kick and snare — modern commercial metal production weight",
-        "Meinl Byzance Dark and Vintage complexity — tonally sophisticated cymbal character for mainstream melodic death metal",
+        "Sabian AA/HH continuity — the same established cymbal character carried through from earlier Gossow-era albums",
         "Tightest, most commercially polished Arch Enemy drum production across the Gossow era to 2007"
       ]
     },
@@ -1340,9 +1340,9 @@ export const articles = {
           "Lead single — landed on Guitar Hero: Smash Hits, largest mainstream crossover for the band to that point",
           "Double-kick foundation that drives the track without overwhelming its commercial accessibility",
           "Dynamic management across verse/chorus structure — restraint that amplifies impact at section entries",
-          "Hi-hat articulation on the Byzance Dark 14\" drives the groove-forward verse feel"
+          "Hi-hat articulation on the Sabian AA 14\" drives the groove-forward verse feel"
         ],
-        "gearNotes": "Byzance Dark hi-hats provide the warm, articulate groove texture that makes the verse sections driving without being aggressive. Sample-augmented kick delivers the impact at commercial level without losing the Pearl Masters Premium live character."
+        "gearNotes": "Sabian AA hi-hats provide the bright, articulate groove texture that makes the verse sections driving without being aggressive. Sample-augmented kick delivers the impact at commercial level without losing the Pearl Masters Premium live character."
       },
       {
         "track": "The Last Enemy",
@@ -1362,11 +1362,11 @@ export const articles = {
         "signature": "4/4",
         "highlights": [
           "High-velocity track showcasing the Masters Premium under sustained blast and double-kick conditions",
-          "Byzance Dark ride provides textural contrast in the track's more spacious mid-sections",
+          "Sabian HH ride provides textural contrast in the track's more spacious mid-sections",
           "Tom fills follow guitar melodic contours — double-kick articulates riff rhythmic shapes",
-          "Byzance china accents mark riff-transition moments with aggressive Gothenburg character"
+          "Sabian AA china accents mark riff-transition moments with aggressive Gothenburg character"
         ],
-        "gearNotes": "Masters Premium all-maple shells speak with maximum articulation under blast conditions. Byzance china provides the aggressive trash character essential to the Gothenburg riff-change accent vocabulary."
+        "gearNotes": "Masters Premium all-maple shells speak with maximum articulation under blast conditions. Sabian AA china provides the aggressive trash character essential to the Gothenburg riff-change accent vocabulary."
       },
       {
         "track": "In This Shallow Grave",
@@ -1374,17 +1374,17 @@ export const articles = {
         "signature": "4/4",
         "highlights": [
           "Mid-tempo track demonstrating Erlandsson's dynamic range beyond the blast showcase",
-          "Byzance Vintage crashes provide warm, musical accent character for more melodic sections",
+          "Sabian AA crashes provide bright, musical accent character for more melodic sections",
           "Groove-forward verse drumming that demonstrates the commercial instincts of the mid-2000s Arch Enemy approach",
           "Dynamic arc across the full track — restraint-to-intensity-back-to-restraint compositional management"
         ],
-        "gearNotes": "Byzance Vintage 16\" crash warmth is most audible in mid-tempo sections where the cymbal sustains without competing with blast-level density. Masters Premium toms carry with clarity in the melodic fill passages."
+        "gearNotes": "Sabian AA 16\" crash brightness is most audible in mid-tempo sections where the cymbal sustains without competing with blast-level density. Masters Premium toms carry with clarity in the melodic fill passages."
       }
     ],
     "faq": [
       {
         "question": "What drum kit did Daniel Erlandsson use on Arch Enemy's Rise of the Tyrant?",
-        "answer": "Daniel Erlandsson recorded Arch Enemy's Rise of the Tyrant (2007) on a Pearl Masters Premium kit — Pearl's flagship all-maple professional shell series of the mid-to-late 2000s, delivering the bright, defined attack and fast transient response that producer Andy Sneap's close-mic production approach required. The configuration maintained his standard Arch Enemy setup: two 22\" x 18\" bass drums in a true double-kick configuration, 10\" and 12\" rack toms, 14\" and 16\" floor toms, and the Pearl Daniel Erlandsson Signature snare 14\" x 5.5\" — his co-designed model. His cymbal setup incorporated Meinl Byzance Dark and Vintage series alongside the Traditional line, expanding the tonal palette toward deeper, more complex warm characters. The Pearl Eliminator double bass pedal provided the mechanical consistency for the album's sustained double-kick passages. For the full Erlandsson gear context: [Daniel Erlandsson drum setup at MetalForge](/articles/daniel-erlandsson-drum-setup)."
+        "answer": "Daniel Erlandsson recorded Arch Enemy's Rise of the Tyrant (2007) on a Pearl Masters Premium kit — Pearl's flagship all-maple professional shell series of the mid-to-late 2000s, delivering the bright, defined attack and fast transient response that producer Andy Sneap's close-mic production approach required. The configuration maintained his standard Arch Enemy setup: two 22\" x 18\" bass drums in a true double-kick configuration, 10\" and 12\" rack toms, 14\" and 16\" floor toms, and the Pearl Daniel Erlandsson Signature snare 14\" x 5.5\" — his co-designed model. His cymbal setup continued with the established Sabian AA/HH configuration carried over unchanged from Wages of Sin, Anthems of Rebellion, and Doomsday Machine. The Pearl Eliminator double bass pedal provided the mechanical consistency for the album's sustained double-kick passages. For the full Erlandsson gear context: [Daniel Erlandsson drum setup at MetalForge](/articles/daniel-erlandsson-drum-setup)."
       },
       {
         "question": "Which Arch Enemy song from Rise of the Tyrant appeared on Guitar Hero?",
@@ -1392,11 +1392,11 @@ export const articles = {
       },
       {
         "question": "What cymbals did Daniel Erlandsson use on Rise of the Tyrant?",
-        "answer": "Daniel Erlandsson played an expanded Meinl Byzance setup on Rise of the Tyrant (2007), incorporating the Byzance Dark and Vintage series alongside the Traditional line that had characterised his Anthems of Rebellion work. The configuration included 14\" Byzance Dark hi-hats (deeper, warmer character than Traditional for groove-oriented verse playing), a 16\" Byzance Vintage Medium Crash (aged-alloy tonal complexity for musical left-side accent work), an 18\" Byzance Traditional Medium Crash (standard Byzance warmth for larger structural accents), a 20\" Byzance Dark Ride (complex, warm texture for groove sections), an 18\" Byzance China (aggressive trashy Gothenburg-style riff accents), and a 10\" Byzance Splash. The multi-series Byzance palette gave Rise of the Tyrant's cymbal work more tonal variety than any previous Arch Enemy album's cymbal setup."
+        "answer": "Daniel Erlandsson played the same established Sabian AA/HH setup on Rise of the Tyrant (2007) that had characterised his Wages of Sin, Anthems of Rebellion, and Doomsday Machine work — no brand or series change accompanied the album. The configuration included 14\" Sabian AA hi-hats for bright, articulate groove-oriented verse playing, a 16\" Sabian AA Medium Crash and an 18\" Sabian AA Medium Crash for accent work and larger structural accents, a 20\" Sabian HH Ride for complex, darker texture in groove sections, an 18\" Sabian AA China for aggressive trashy Gothenburg-style riff accents, and a 10\" Sabian AA Splash. The AA/HH pairing gave Rise of the Tyrant's cymbal work the same bright-and-complex tonal range that had defined every previous Arch Enemy album's cymbal setup since Wages of Sin."
       },
       {
         "question": "How does Rise of the Tyrant compare to Doomsday Machine and Khaos Legions in Erlandsson's discography?",
-        "answer": "Rise of the Tyrant (2007) sits between Doomsday Machine (2005) and Khaos Legions (2011) as the commercial peak of the Angela Gossow era and the midpoint of Erlandsson's most documented decade as a professional drummer. Compared to Doomsday Machine, Rise of the Tyrant has a more commercially polished production and a more melodically accessible composition style — the Guitar Hero crossover confirms the album's mainstream reach. Compared to Khaos Legions (2011), Rise of the Tyrant is more energetically consistent, while Khaos Legions features the more varied compositional architecture and the Pearl Masterworks Custom / Pearl Demon Drive configuration that represents Erlandsson's most refined setup. Together the three albums document the full arc of the Gossow era's commercial expansion and Erlandsson's gear evolution through some of melodic death metal's most consequential records. For the follow-up: [Khaos Legions drum setup (2011)](/articles/khaos-legions-drum-setup)."
+        "answer": "Rise of the Tyrant (2007) sits between Doomsday Machine (2005) and Khaos Legions (2011) as the commercial peak of the Angela Gossow era and the midpoint of Erlandsson's most documented decade as a professional drummer. Compared to Doomsday Machine, Rise of the Tyrant has a more commercially polished production and a more melodically accessible composition style — the Guitar Hero crossover confirms the album's mainstream reach. Compared to Khaos Legions (2011), Rise of the Tyrant is more energetically consistent, while Khaos Legions features the more varied compositional architecture and the Pearl Masterworks Custom / Pearl Eliminator configuration that represents Erlandsson's most refined setup. Together the three albums document the full arc of the Gossow era's commercial expansion and Erlandsson's gear evolution through some of melodic death metal's most consequential records. For the follow-up: [Khaos Legions drum setup (2011)](/articles/khaos-legions-drum-setup)."
       },
       {
         "question": "Who produced Rise of the Tyrant and how did Andy Sneap's production shape the drum sound?",
@@ -1417,7 +1417,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "Rise of the Tyrant: The Commercial Peak of the Angela Gossow Era",
-      "content": "Rise of the Tyrant (September 21, 2007) is the album at which the Angela Gossow–era Arch Enemy achieved its largest commercial impact — the record that brought the band into mainstream metal consciousness via \"Revolution Begins\" and Guitar Hero: Smash Hits, and confirmed their position as one of extreme metal's most commercially successful acts. Daniel Erlandsson's drumming across the album demonstrates what peak-form professional melodic death metal drumming sounds like: technically demanding and compositionally intelligent, simultaneously serving the aggression that defines the genre and the accessibility that Arch Enemy's growing audience required.\n\nThe gear behind that performance — Pearl Masters Premium all-maple shells, Pearl Daniel Erlandsson Signature snare 14\"x5.5\", Meinl Byzance Dark/Vintage/Traditional cymbal palette, Pearl Eliminator double bass pedal — represents Erlandsson's mid-career setup at its most sophisticated pre-Masterworks-era form. The Masters Premium's tonal clarity and the expanded Byzance palette's tonal variety were perfectly matched to Andy Sneap's most polished Arch Enemy production.\n\n**Key takeaways for drummers studying this album:**\n- Double-kick precision under commercial accessibility demands — driving without overwhelming\n- Meinl Byzance Dark and Vintage cymbal complexity for melodically sophisticated melodic death metal\n- Pearl Masters Premium all-maple clarity as the foundation for Sneap's close-mic production\n- Dynamic management at commercial scale — restraint and intensity in their correct proportions\n\n**Explore related content at MetalForge:**\n- [Doomsday Machine drum setup (2005)](/articles/doomsday-machine-drum-setup) — the Billboard 200 breakthrough\n- [Anthems of Rebellion drum setup (2003)](/articles/anthems-of-rebellion-drum-setup) — the Gossow era foundation\n- [Khaos Legions drum setup (2011)](/articles/khaos-legions-drum-setup) — Angela Gossow's final album\n- [Daniel Erlandsson drummer profile](/drummer/daniel-erlandsson) — full career context\n- [How to sound like Daniel Erlandsson](/guides/how-to-sound-like-daniel-erlandsson) — technique guide"
+      "content": "Rise of the Tyrant (September 21, 2007) is the album at which the Angela Gossow–era Arch Enemy achieved its largest commercial impact — the record that brought the band into mainstream metal consciousness via \"Revolution Begins\" and Guitar Hero: Smash Hits, and confirmed their position as one of extreme metal's most commercially successful acts. Daniel Erlandsson's drumming across the album demonstrates what peak-form professional melodic death metal drumming sounds like: technically demanding and compositionally intelligent, simultaneously serving the aggression that defines the genre and the accessibility that Arch Enemy's growing audience required.\n\nThe gear behind that performance — Pearl Masters Premium all-maple shells, Pearl Daniel Erlandsson Signature snare 14\"x5.5\", Sabian AA/HH cymbal setup, Pearl Eliminator double bass pedal — represents Erlandsson's mid-career setup at its most sophisticated pre-Masterworks-era form. The Masters Premium's tonal clarity and the established Sabian AA/HH pairing's tonal range were perfectly matched to Andy Sneap's most polished Arch Enemy production.\n\n**Key takeaways for drummers studying this album:**\n- Double-kick precision under commercial accessibility demands — driving without overwhelming\n- Sabian AA/HH cymbal continuity for melodically sophisticated melodic death metal\n- Pearl Masters Premium all-maple clarity as the foundation for Sneap's close-mic production\n- Dynamic management at commercial scale — restraint and intensity in their correct proportions\n\n**Explore related content at MetalForge:**\n- [Doomsday Machine drum setup (2005)](/articles/doomsday-machine-drum-setup) — the Billboard 200 breakthrough\n- [Anthems of Rebellion drum setup (2003)](/articles/anthems-of-rebellion-drum-setup) — the Gossow era foundation\n- [Khaos Legions drum setup (2011)](/articles/khaos-legions-drum-setup) — Angela Gossow's final album\n- [Daniel Erlandsson drummer profile](/drummer/daniel-erlandsson) — full career context\n- [How to sound like Daniel Erlandsson](/guides/how-to-sound-like-daniel-erlandsson) — technique guide"
     }
   },
   "khaos-legions-drum-setup": {
@@ -1438,15 +1438,15 @@ export const articles = {
     "author": "MetalForge Editorial",
     "title": "Daniel Erlandsson's Drum Setup on Arch Enemy's Khaos Legions (2011)",
     "metaTitle": "Daniel Erlandsson's Drum Setup — Arch Enemy 'Khaos Legions' (2011) | MetalForge",
-    "description": "Daniel Erlandsson's drum setup on Arch Enemy's Khaos Legions (2011) — Angela Gossow's final album, highest-charting Arch Enemy record (Sweden #4), Pearl Masterworks Custom shells, Meinl cymbals, Pearl Demon Drive pedals, and the closing statement of the Gossow era.",
+    "description": "Daniel Erlandsson's drum setup on Arch Enemy's Khaos Legions (2011) — Angela Gossow's final album, highest-charting Arch Enemy record (Sweden #4), Pearl Masterworks Custom shells, Sabian AA/HH cymbals, Pearl Eliminator pedals, and the closing statement of the Gossow era.",
     "seoKeywords": [
       "khaos legions drum setup",
       "daniel erlandsson 2011 kit",
       "arch enemy khaos legions drums",
       "angela gossow final album",
       "pearl masterworks custom drum kit",
-      "meinl cymbal arch enemy 2011",
-      "pearl demon drive arch enemy",
+      "sabian aa hh arch enemy 2011",
+      "pearl eliminator arch enemy",
       "arch enemy highest charting album",
       "arch enemy sweden chart 2011",
       "arch enemy drummer 2011"
@@ -1454,13 +1454,13 @@ export const articles = {
     "ogImage": "/images/drummers/daniel-erlandsson.webp",
     "intro": {
       "title": "Khaos Legions (2011): Angela Gossow's Final Album and Erlandsson's Masterworks Era",
-      "content": "Released May 27, 2011 on Century Media Records, Arch Enemy's eighth studio album Khaos Legions is the highest-charting record in the band's history — entering the Swedish charts at number four, a commercial peak that reflected both the band's sustained popularity in their home market and the decade of work they had invested in the Angela Gossow era. It is also the final album featuring Angela Gossow as vocalist before her retirement from performing and the subsequent arrival of Alissa White-Gluz for 2014's War Eternal — making Khaos Legions the closing statement of the era that had defined Arch Enemy as a commercial force in extreme metal since Wages of Sin (2002).\n\nFor Daniel Erlandsson, Khaos Legions represents his most technically refined performance within the Gossow era: seventeen years inside the Gothenburg melodic death metal idiom, nine of them as the drummer behind Arch Enemy's most commercially productive period. Working again with Andy Sneap at Backstage Studio in Derbyshire, Erlandsson delivered performances that combined the sustained double-kick precision and compositional blast beat deployment of the earlier albums with a new level of musical sophistication — the drum work on Khaos Legions is his most varied and dynamically intelligent Gossow-era statement.\n\nErlandsson's setup for Khaos Legions had reached its apex within the Angela Gossow era: Pearl Masterworks Custom shells — Pearl's fully bespoke top-tier offering, built to individual specifications — combined with his continuing Meinl cymbal relationship and the newly adopted Pearl Demon Drive double bass pedal, which replaced the long-standing Eliminator and brought a different mechanical character to his foot technique. The Demon Drive's spring-loaded belt-drive system offered a different acceleration and rebound profile than the cam-based Eliminator, and Erlandsson's integration of the new pedal into his established technique produced the foot-technique performances that inform the Khaos Legions sessions.\n\nThis article breaks down Daniel Erlandsson's complete drum setup for Khaos Legions — the Masterworks Custom kit, Meinl cymbals, Pearl Demon Drive, recording environment, technique, and the place of the album within the complete arc of the Angela Gossow era.",
+      "content": "Released May 27, 2011 on Century Media Records, Arch Enemy's eighth studio album Khaos Legions is the highest-charting record in the band's history — entering the Swedish charts at number four, a commercial peak that reflected both the band's sustained popularity in their home market and the decade of work they had invested in the Angela Gossow era. It is also the final album featuring Angela Gossow as vocalist before her retirement from performing and the subsequent arrival of Alissa White-Gluz for 2014's War Eternal — making Khaos Legions the closing statement of the era that had defined Arch Enemy as a commercial force in extreme metal since Wages of Sin (2002).\n\nFor Daniel Erlandsson, Khaos Legions represents his most technically refined performance within the Gossow era: seventeen years inside the Gothenburg melodic death metal idiom, nine of them as the drummer behind Arch Enemy's most commercially productive period. Working again with Andy Sneap at Backstage Studio in Derbyshire, Erlandsson delivered performances that combined the sustained double-kick precision and compositional blast beat deployment of the earlier albums with a new level of musical sophistication — the drum work on Khaos Legions is his most varied and dynamically intelligent Gossow-era statement.\n\nErlandsson's setup for Khaos Legions had reached its apex within the Angela Gossow era: Pearl Masterworks Custom shells — Pearl's fully bespoke top-tier offering, built to individual specifications — combined with his continuing Sabian AA/HH cymbal relationship and the long-standing Pearl Eliminator double bass pedal that had served him since 2001. The Eliminator's cam-adjustable drive system continued to provide the mechanical consistency his foot technique required, and Erlandsson's mastery of the pedal after a decade of use produced the foot-technique performances that inform the Khaos Legions sessions.\n\nThis article breaks down Daniel Erlandsson's complete drum setup for Khaos Legions — the Masterworks Custom kit, Sabian AA/HH cymbals, Pearl Eliminator, recording environment, technique, and the place of the album within the complete arc of the Angela Gossow era.",
       "keyPoints": [
         "Released May 27, 2011 — highest-charting Arch Enemy album (Sweden #4), commercial peak of the band's history",
         "Angela Gossow's final album before her retirement — closing statement of a defining era",
         "Pearl Masterworks Custom shells — Pearl's fully bespoke top-tier offering, built to specification",
-        "Pearl Demon Drive double bass pedal — new foot technique foundation replacing the long-standing Eliminator",
-        "Meinl cymbal relationship continued — complex Byzance-influenced tonal palette at its 2011 form",
+        "Pearl Eliminator double bass pedal — the same foot technique foundation Erlandsson has used since 2001",
+        "Sabian AA/HH cymbal relationship continued — the same bright, workhorse tonal palette at its 2011 form",
         "Produced by Andy Sneap at Backstage Studio — the defining production voice of Arch Enemy's commercial era"
       ]
     },
@@ -1504,59 +1504,59 @@ export const articles = {
       "estimatedValue": "$400-700 (Pearl Daniel Erlandsson Signature snare)"
     },
     "cymbals": {
-      "title": "Meinl Cymbals: Erlandsson's 2011 Configuration",
-      "brand": "Meinl",
-      "series": "Meinl Byzance Series (2011 configuration)",
+      "title": "Sabian AA/HH: Erlandsson's 2011 Configuration",
+      "brand": "Sabian",
+      "series": "Sabian AA / HH Series (2011 configuration)",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Meinl Byzance 14\" Dark Hi-Hats",
+          "model": "Sabian AA 14\" Hi-Hats",
           "position": "Left side",
-          "notes": "Byzance Dark — warm, complex hi-hat texture for the full dynamic range of Khaos Legions"
+          "notes": "Bright, cutting AA texture for the full dynamic range of Khaos Legions"
         },
         {
           "type": "Crash",
-          "model": "Meinl Byzance 16\" Vintage Medium Crash",
+          "model": "Sabian AA 16\" Medium Crash",
           "position": "Left crash",
-          "notes": "Vintage warmth for musical, dynamically sensitive left-side accent work"
+          "notes": "Fast attack and musical sustain for dynamically sensitive left-side accent work"
         },
         {
           "type": "Crash",
-          "model": "Meinl Byzance 18\" Medium Crash",
+          "model": "Sabian AA 18\" Medium Crash",
           "position": "Right crash",
-          "notes": "Traditional Byzance for larger structural accent entry work"
+          "notes": "Warm B20 bronze for larger structural accent entry work"
         },
         {
           "type": "Ride",
-          "model": "Meinl Byzance Dark 20\" Ride",
+          "model": "Sabian HH 20\" Ride",
           "position": "Far right",
-          "notes": "Byzance Dark — deep, complex ride texture for groove passage tonal contrast"
+          "notes": "HH series — deep, complex ride texture for groove passage tonal contrast"
         },
         {
           "type": "China",
-          "model": "Meinl Byzance 18\" China",
+          "model": "Sabian AA 18\" China",
           "position": "Over rack toms",
-          "notes": "Aggressive Byzance china for Gothenburg-style riff-transition accents"
+          "notes": "Aggressive accent for Gothenburg-style riff-transition accents"
         },
         {
           "type": "Splash",
-          "model": "Meinl Byzance 10\" Splash",
+          "model": "Sabian AA 10\" Splash",
           "position": "Above hi-hats",
           "notes": "Fast accent cymbal for fill and syncopated dynamic punctuation"
         }
       ],
-      "description": "The Meinl cymbal setup that Daniel Erlandsson deployed on Khaos Legions represents the mature form of the Byzance relationship he had developed across the previous albums — a configuration where the Dark, Vintage, and Traditional series elements have been calibrated to deliver maximum tonal variety within a coherent overall palette. By 2011, Erlandsson's cymbal work with Meinl had moved beyond the discovery phase of the Anthems era to a state of settled, precise configuration: he knew exactly what each cymbal was contributing to the Arch Enemy sound, and the Khaos Legions setup reflects that knowledge.\n\nThe Byzance Dark hi-hats and ride provide the warm, complex low-mid texture for Khaos Legions' more dynamically nuanced passages — the album's compositional variety includes quieter, more melodic sections that demand cymbal work with musical depth rather than aggressive brightness, and the Dark series' slower attack and longer wash suit these moments. The Byzance Vintage crash contributes the aged-alloy warmth on the left side, giving the musical moment of crash accent work a rounded quality rather than the sharp, decisive attack of a new-alloy cymbal.\n\nThe Byzance Traditional elements — the 18\" Medium Crash and the 18\" China — provide the more decisive character that the album's intense sections demand: the Traditional crash speaks with direct impact for structural entry accents, and the China delivers the aggressive Gothenburg-style trashy character for riff transitions. Together the three-series Byzance configuration gives the Khaos Legions cymbal work its characteristic combination of musical depth and aggressive punctuation — the tonal variety that matches the album's compositional range.",
-      "estimatedValue": "$1,800-2,800 total (Meinl Byzance multi-series setup, 2011)"
+      "description": "The Sabian AA/HH cymbal setup that Daniel Erlandsson deployed on Khaos Legions represents the mature, settled form of the configuration he had developed across the previous albums since Wages of Sin — the same AA/HH pairing, calibrated by a decade of studio and touring experience to deliver maximum tonal variety within a coherent overall palette. By 2011, Erlandsson's cymbal work with Sabian had moved well past the early Gossow-era setup to a state of settled, precise configuration: he knew exactly what each cymbal was contributing to the Arch Enemy sound, and the Khaos Legions setup reflects that knowledge.\n\nThe AA hi-hats and crashes provide the bright, cutting texture for Khaos Legions' full dynamic range — the album's compositional variety includes quieter, more melodic sections alongside the band's most aggressive material, and the AA series' fast attack and focused decay suit both ends of that range. The HH ride contributes darker, hand-hammered tonal complexity on the right side, giving groove-oriented passages a musically distinct contrast point from the brighter crash work.\n\nThe AA elements — the 16\" and 18\" Medium Crash and the 18\" China — provide the decisive character that the album's intense sections demand: the crashes speak with direct impact for structural entry accents, and the China delivers the aggressive Gothenburg-style trashy character for riff transitions. Together the AA/HH configuration gives the Khaos Legions cymbal work its characteristic combination of cutting brightness and tonal contrast — the same tonal range that matches the album's compositional variety, unchanged from the setup established nearly a decade earlier.",
+      "estimatedValue": "$1,600-2,600 total (Sabian AA/HH multi-piece setup, 2011)"
     },
     "hardware": {
-      "title": "Hardware: Pearl Demon Drive — The New Foot Technique Foundation",
+      "title": "Hardware: Pearl Eliminator — A Decade of Foot Technique Consistency",
       "items": [
         {
           "type": "Bass Drum Pedals",
           "brand": "Pearl",
-          "model": "Pearl Demon Drive Double Bass Pedal",
-          "notes": "New foot technique foundation for Khaos Legions — spring-loaded belt-drive system replacing the long-standing Eliminator",
-          "description": "The Pearl Demon Drive represents the most significant hardware change in Daniel Erlandsson's Arch Enemy setup in many years. Where the Pearl Eliminator's cam-based drive system had been his foot technique foundation across the previous decade of studio albums and international touring, the Demon Drive's belt-drive system offers a different mechanical character: spring-loaded response, a smoother acceleration curve, and a rebound character that is more immediate and less variable than cam-based alternatives. For Khaos Legions' most demanding double-kick passages, the Demon Drive's consistent, spring-loaded response provides a different but equally reliable foot technique foundation. The transition from Eliminator to Demon Drive represents Erlandsson's ongoing engagement with Pearl's evolving hardware engineering — both pedals are designed for professional extreme metal performance, but the Demon Drive's belt-drive character suited the specific technique refinements Erlandsson was bringing to the Khaos Legions sessions."
+          "model": "Pearl Eliminator Double Bass Pedal",
+          "notes": "Continued foot technique foundation for Khaos Legions — cam-adjustable system with a full decade of service since 2001",
+          "description": "The Pearl Eliminator continued as Daniel Erlandsson's foot technique foundation on Khaos Legions, unchanged since its adoption in 2001. The Eliminator's cam-based drive system had by 2011 accumulated a full decade of studio albums and international touring in Erlandsson's hands, and that accumulated familiarity produced a foot technique performance of exceptional consistency. For Khaos Legions' most demanding double-kick passages, the Eliminator's interchangeable cam system let Erlandsson fine-tune the pedal's acceleration curve to his specific technique, delivering the same reliable mechanical response that had defined his foot technique across every previous Arch Enemy studio album."
         },
         {
           "type": "Hi-Hat Stand",
@@ -1591,26 +1591,26 @@ export const articles = {
     },
     "recordingTechniques": {
       "title": "Recording Khaos Legions: Andy Sneap at Backstage Studio, 2011",
-      "content": "Khaos Legions was recorded at Andy Sneap's Backstage Studio in Derbyshire, England — the production environment that had defined Arch Enemy's sound through Rise of the Tyrant (2007) and which Sneap had continued to develop as a purpose-built modern metal recording facility. By 2011, Sneap's production approach had been refined through a decade of work with the band and hundreds of additional sessions with other major metal artists, and the drum production on Khaos Legions reflects that accumulated expertise.\n\n**The Khaos Legions Drum Production:**\nSneap's approach on Khaos Legions maintains the close-mic discipline of the previous Arch Enemy albums — individual dynamics on each drum component, condenser overhead pair for cymbal capture, precision snare top-and-bottom capture — but the sample augmentation and mixing approach had evolved to match the album's more compositionally varied character. The Masterworks Custom shells' precisely built tonal identity provided Sneap with a more coherent source signal than the production-shell kits of the earlier albums, and the drum production reflects that coherence: each component has a distinctive voice that was designed into the shell rather than arrived at through post-capture processing.\n\n**Dynamic Production for a Varied Album:**\nKhaos Legions' compositional variety — more dynamic range than any previous Gossow-era Arch Enemy record — required Sneap to build a drum production that worked across the full dynamic spectrum: intimate, controlled passages where the drum work is delicate and melodically supportive, and full-intensity sections where the blast-driven double-kick foundation needs maximum weight and definition. The Masterworks Custom shells and the Meinl Byzance palette's tonal depth gave Sneap more tonal material to work with across both ends of the dynamic range, and the Khaos Legions drum production reflects the result.\n\n**Pearl Demon Drive in the Studio:**\nThe Pearl Demon Drive's debut in Erlandsson's recording setup on Khaos Legions produces subtly different double-kick characteristics than the long-standing Eliminator — the belt-drive's smoother acceleration and more immediate rebound creating a foot-technique character that is perceptible in the recording. The pedal change adds another chapter to the audible evolution of Erlandsson's double-kick playing across the Arch Enemy discography.",
+      "content": "Khaos Legions was recorded at Andy Sneap's Backstage Studio in Derbyshire, England — the production environment that had defined Arch Enemy's sound through Rise of the Tyrant (2007) and which Sneap had continued to develop as a purpose-built modern metal recording facility. By 2011, Sneap's production approach had been refined through a decade of work with the band and hundreds of additional sessions with other major metal artists, and the drum production on Khaos Legions reflects that accumulated expertise.\n\n**The Khaos Legions Drum Production:**\nSneap's approach on Khaos Legions maintains the close-mic discipline of the previous Arch Enemy albums — individual dynamics on each drum component, condenser overhead pair for cymbal capture, precision snare top-and-bottom capture — but the sample augmentation and mixing approach had evolved to match the album's more compositionally varied character. The Masterworks Custom shells' precisely built tonal identity provided Sneap with a more coherent source signal than the production-shell kits of the earlier albums, and the drum production reflects that coherence: each component has a distinctive voice that was designed into the shell rather than arrived at through post-capture processing.\n\n**Dynamic Production for a Varied Album:**\nKhaos Legions' compositional variety — more dynamic range than any previous Gossow-era Arch Enemy record — required Sneap to build a drum production that worked across the full dynamic spectrum: intimate, controlled passages where the drum work is delicate and melodically supportive, and full-intensity sections where the blast-driven double-kick foundation needs maximum weight and definition. The Masterworks Custom shells and the Sabian AA/HH cymbal palette's tonal range gave Sneap more tonal material to work with across both ends of the dynamic range, and the Khaos Legions drum production reflects the result.\n\n**Pearl Eliminator in the Studio:**\nBy Khaos Legions, the Pearl Eliminator had a full decade of Erlandsson's recording and touring use behind it, and that accumulated familiarity is audible in the recording — a foot-technique character built on total mechanical consistency across every tempo and dynamic level the album demands.",
       "keyTechniques": [
         "Backstage Studio close-mic discipline — Sneap's most mature Arch Enemy drum capture to date",
         "Dynamic production across full spectrum — delicate passages and full-intensity sections in one album",
         "Pearl Masterworks Custom tonal coherence as a more precise source signal for Sneap's capture chain",
-        "Pearl Demon Drive debut — belt-drive character audible in the double-kick performances"
+        "Pearl Eliminator — a decade of mechanical consistency audible in the double-kick performances"
       ]
     },
     "technique": {
       "title": "Daniel Erlandsson on Khaos Legions: The Full Dynamic Range of the Gossow Era",
-      "content": "Khaos Legions showcases Daniel Erlandsson's most dynamically varied drumming within the Angela Gossow era — the combined result of seventeen years of Gothenburg melodic death metal experience and the compositional ambition of an album designed to close one of extreme metal's most commercially and creatively successful periods. Where earlier Gossow-era albums prioritised sustained intensity and commercial impact, Khaos Legions expands the compositional scope: quieter passages, more textural variation, greater dynamic contrast across track structures, and the confidence of a band that had proved its commercial credentials and could now take compositional risks.\n\n**Dynamic Range as Structural Architecture:**\n\"Yesterday is Dead and Gone\" and \"No Gods, No Masters\" demonstrate Erlandsson's capacity for structural dynamic management at the highest professional level. On these tracks, the contrast between restrained, melodically supportive verse drumming and full-intensity chorus blast work is the primary structural mechanism — the dynamic gap creates the compositional impact. Erlandsson's control of that gap is precise and deliberate: the verse drumming is genuinely restrained rather than merely at lower volume, and the intensity shift at structural entry points arrives with maximum clarity.\n\n**Pearl Demon Drive Integration:**\nThe debut of the Pearl Demon Drive in Erlandsson's recording setup introduces a new mechanical character to his double-kick playing on Khaos Legions. The belt-drive's smoother acceleration and more immediate rebound produces a slightly different kick feel than the cam-based Eliminator — subtly more immediate and spring-responsive. On the album's most demanding double-kick passages, the Demon Drive's characteristics produce kick patterns with a slightly different texture than the Eliminator era, contributing to the audible evolution of Erlandsson's foot-technique character across the discography.\n\n**The Masterworks Custom at Full Velocity:**\nKhaos Legions' blast sections — \"Bloodstained Cross,\" \"City of the Dead,\" \"Vengeance Is Mine\" — test the Pearl Masterworks Custom shells under the most demanding conditions in Erlandsson's career. The fully custom construction means every component responds with precisely designed tonal character: the kick drums' fundamental, the toms' pitch definition, and the snare's attack are all exactly where Erlandsson specified them to be. The result is the most coherent-sounding Arch Enemy drum performance in the studio catalog — a fully integrated custom kit under full professional performance conditions.\n\nFor broader context: [Daniel Erlandsson drum setup at MetalForge](/articles/daniel-erlandsson-drum-setup), [Daniel Erlandsson drummer profile](/drummer/daniel-erlandsson), and [how to sound like Daniel Erlandsson](/guides/how-to-sound-like-daniel-erlandsson)."
+      "content": "Khaos Legions showcases Daniel Erlandsson's most dynamically varied drumming within the Angela Gossow era — the combined result of seventeen years of Gothenburg melodic death metal experience and the compositional ambition of an album designed to close one of extreme metal's most commercially and creatively successful periods. Where earlier Gossow-era albums prioritised sustained intensity and commercial impact, Khaos Legions expands the compositional scope: quieter passages, more textural variation, greater dynamic contrast across track structures, and the confidence of a band that had proved its commercial credentials and could now take compositional risks.\n\n**Dynamic Range as Structural Architecture:**\n\"Yesterday is Dead and Gone\" and \"No Gods, No Masters\" demonstrate Erlandsson's capacity for structural dynamic management at the highest professional level. On these tracks, the contrast between restrained, melodically supportive verse drumming and full-intensity chorus blast work is the primary structural mechanism — the dynamic gap creates the compositional impact. Erlandsson's control of that gap is precise and deliberate: the verse drumming is genuinely restrained rather than merely at lower volume, and the intensity shift at structural entry points arrives with maximum clarity.\n\n**Pearl Eliminator at a Decade of Mastery:**\nBy Khaos Legions, Erlandsson had been playing the Pearl Eliminator for a full decade, and that accumulated mastery is audible in his double-kick playing. The cam-adjustable drive system, tuned to his specific technique over ten years of studio albums and touring, produces the same reliable, consistent response that has defined his foot technique since Wages of Sin — the physical familiarity between drummer and pedal is at its peak on this album.\n\n**The Masterworks Custom at Full Velocity:**\nKhaos Legions' blast sections — \"Bloodstained Cross,\" \"City of the Dead,\" \"Vengeance Is Mine\" — test the Pearl Masterworks Custom shells under the most demanding conditions in Erlandsson's career. The fully custom construction means every component responds with precisely designed tonal character: the kick drums' fundamental, the toms' pitch definition, and the snare's attack are all exactly where Erlandsson specified them to be. The result is the most coherent-sounding Arch Enemy drum performance in the studio catalog — a fully integrated custom kit under full professional performance conditions.\n\nFor broader context: [Daniel Erlandsson drum setup at MetalForge](/articles/daniel-erlandsson-drum-setup), [Daniel Erlandsson drummer profile](/drummer/daniel-erlandsson), and [how to sound like Daniel Erlandsson](/guides/how-to-sound-like-daniel-erlandsson)."
     },
     "soundCharacter": {
       "title": "The Khaos Legions Drum Sound: Masterworks Custom Integration",
-      "content": "The drum sound on Khaos Legions is the most tonally integrated in the Arch Enemy Gossow-era discography — the result of Pearl Masterworks Custom shells whose tonal character was built to specification rather than selected from production, and Meinl's most fully developed Byzance multi-series configuration to that point. Andy Sneap's capture of this setup at Backstage Studio produces a drum mix with more musical depth and dynamic range than any previous Arch Enemy production: each component has a distinctive voice that reads clearly in both the album's quietest and most intense moments.\n\nThe kick drum sound on Khaos Legions carries the weight that Andy Sneap's sample augmentation approach provides, but the Masterworks Custom shells' precise construction means the live source already has the fundamental clarity and body that previous albums had required more post-capture processing to achieve. The signature snare's voice closes the Gossow era with its most fully realised character — 5.5\" depth, designed construction, the confidence of a model that had been refined through a decade of professional studio and touring use. The Meinl Byzance multi-series palette provides the widest tonal variety in the Gossow-era cymbal work, with Dark warmth, Vintage aged-alloy complexity, and Traditional direct impact available across the album's full dynamic range.",
+      "content": "The drum sound on Khaos Legions is the most tonally integrated in the Arch Enemy Gossow-era discography — the result of Pearl Masterworks Custom shells whose tonal character was built to specification rather than selected from production, paired with the same established Sabian AA/HH cymbal configuration Erlandsson had refined across nearly a decade of albums. Andy Sneap's capture of this setup at Backstage Studio produces a drum mix with more musical depth and dynamic range than any previous Arch Enemy production: each component has a distinctive voice that reads clearly in both the album's quietest and most intense moments.\n\nThe kick drum sound on Khaos Legions carries the weight that Andy Sneap's sample augmentation approach provides, but the Masterworks Custom shells' precise construction means the live source already has the fundamental clarity and body that previous albums had required more post-capture processing to achieve. The signature snare's voice closes the Gossow era with its most fully realised character — 5.5\" depth, designed construction, the confidence of a model that had been refined through a decade of professional studio and touring use. The Sabian AA/HH pairing provides the same bright-cut-and-dark-complexity tonal range heard on every Gossow-era album, available across the album's full dynamic range.",
       "keyAttributes": [
         "Pearl Masterworks Custom tonal integration — designed-to-specification character across all kit components",
-        "Meinl Byzance multi-series tonal variety — the widest cymbal palette of the Gossow era",
+        "Sabian AA/HH continuity — the same established cymbal palette carried through the entire Gossow era",
         "Andy Sneap's most mature Arch Enemy drum production — clearest articulation across the full dynamic range",
-        "Pearl Demon Drive character debut — belt-drive mechanics add new foot-technique texture"
+        "Pearl Eliminator at a decade of use — mechanical familiarity refined to its most consistent form"
       ]
     },
     "trackAnalysis": [
@@ -1622,9 +1622,9 @@ export const articles = {
           "Album opening track — establishes the expanded dynamic range that distinguishes Khaos Legions from previous Gossow-era records",
           "Restrained verse drumming that makes the full-intensity chorus entries land with maximum compositional impact",
           "Masterworks Custom toms speak with musical pitch definition in the melodic fill passages",
-          "Byzance Dark hi-hats provide the warm, articulate groove texture for the verse foundation"
+          "Sabian AA hi-hats provide the bright, articulate groove texture for the verse foundation"
         ],
-        "gearNotes": "Masterworks Custom shells' coherent tonal identity is most audible in the verse passages where individual kit components speak in the mix. Byzance Dark hi-hats' warm, complex texture suits the restrained verse character."
+        "gearNotes": "Masterworks Custom shells' coherent tonal identity is most audible in the verse passages where individual kit components speak in the mix. Sabian AA hi-hats' bright, cutting texture suits the restrained verse character."
       },
       {
         "track": "Bloodstained Cross",
@@ -1632,11 +1632,11 @@ export const articles = {
         "signature": "4/4",
         "highlights": [
           "High-velocity track — Pearl Masterworks Custom under sustained blast and double-kick conditions",
-          "Pearl Demon Drive debut characteristics audible in the sustained double-kick texture",
+          "A decade of Pearl Eliminator mastery audible in the sustained double-kick texture",
           "Blast beat architecture: deployed as structural intensification rather than constant texture",
-          "Byzance china accents mark riff-transition moments with aggressive Gothenburg character"
+          "Sabian AA china accents mark riff-transition moments with aggressive Gothenburg character"
         ],
-        "gearNotes": "Pearl Demon Drive's belt-drive response produces a slightly different kick texture than the Eliminator era. Masterworks Custom shells respond with precisely designed attack and body under full blast conditions."
+        "gearNotes": "Pearl Eliminator's cam-adjustable consistency, refined over a decade of use, drives the sustained double-kick texture. Masterworks Custom shells respond with precisely designed attack and body under full blast conditions."
       },
       {
         "track": "No Gods, No Masters",
@@ -1645,36 +1645,36 @@ export const articles = {
         "highlights": [
           "Title-track-equivalent compositional statement — structural variety demonstrates full Gossow-era Erlandsson range",
           "Dynamic management from mid-tempo verse to full-intensity chorus across the track structure",
-          "Byzance Vintage crash warmth in the melodic passage accent work",
+          "Sabian AA crash brightness in the melodic passage accent work",
           "Double-kick patterns follow guitar riff rhythmic contours in the tradition of Erlandsson's entire Arch Enemy career"
         ],
-        "gearNotes": "Byzance Vintage 16\" crash provides musical warmth for the melodic section entries. Masterworks Custom toms carry pitch definition through the melodic fill content."
+        "gearNotes": "Sabian AA 16\" crash provides bright accent character for the melodic section entries. Masterworks Custom toms carry pitch definition through the melodic fill content."
       },
       {
         "track": "City of the Dead",
         "bpm": "165-180",
         "signature": "4/4",
         "highlights": [
-          "Sustained blast and double-kick endurance showcase — Demon Drive under maximum performance demands",
+          "Sustained blast and double-kick endurance showcase — Pearl Eliminator under maximum performance demands",
           "Masterworks Custom shell coherence audible in the full-kit ensemble passages",
-          "Byzance Dark ride provides textural contrast in the track's groove-oriented mid-sections",
+          "Sabian HH ride provides textural contrast in the track's groove-oriented mid-sections",
           "Erlandsson's compositional blast-beat deployment: structural events with musical context before and after"
         ],
-        "gearNotes": "Pearl Demon Drive mechanical consistency across extended double-kick sections. Byzance Dark 20\" ride warmth in the groove sections contrasts with the Byzance crash brightness at full-intensity passages."
+        "gearNotes": "Pearl Eliminator mechanical consistency across extended double-kick sections. Sabian HH 20\" ride darker complexity in the groove sections contrasts with the Sabian AA crash brightness at full-intensity passages."
       }
     ],
     "faq": [
       {
         "question": "What drum kit did Daniel Erlandsson use on Arch Enemy's Khaos Legions?",
-        "answer": "Daniel Erlandsson recorded Arch Enemy's Khaos Legions (2011) on a Pearl Masterworks Custom kit — Pearl's fully bespoke program where shells are built to the individual artist's specification rather than from production templates. The configuration maintained his established Arch Enemy setup: two 22\" x 18\" bass drums in a true double-kick configuration, 10\" and 12\" rack toms, 14\" and 16\" floor toms, and the Pearl Daniel Erlandsson Signature snare 14\" x 5.5\". His cymbal setup continued with Meinl Byzance cymbals in the multi-series configuration developed across the previous albums. The most significant hardware change was the adoption of the Pearl Demon Drive double bass pedal, replacing the long-standing Pearl Eliminator as his foot technique foundation. The album was produced by Andy Sneap at Backstage Studio. For the full Erlandsson gear context: [Daniel Erlandsson drum setup at MetalForge](/articles/daniel-erlandsson-drum-setup)."
+        "answer": "Daniel Erlandsson recorded Arch Enemy's Khaos Legions (2011) on a Pearl Masterworks Custom kit — Pearl's fully bespoke program where shells are built to the individual artist's specification rather than from production templates. The configuration maintained his established Arch Enemy setup: two 22\" x 18\" bass drums in a true double-kick configuration, 10\" and 12\" rack toms, 14\" and 16\" floor toms, and the Pearl Daniel Erlandsson Signature snare 14\" x 5.5\". His cymbal setup continued with the same Sabian AA/HH configuration established since Wages of Sin. The Pearl Eliminator double bass pedal, his foot technique foundation since 2001, continued to drive the double-kick work. The album was produced by Andy Sneap at Backstage Studio. For the full Erlandsson gear context: [Daniel Erlandsson drum setup at MetalForge](/articles/daniel-erlandsson-drum-setup)."
       },
       {
         "question": "Why is Khaos Legions Angela Gossow's final Arch Enemy album?",
         "answer": "Khaos Legions (2011) is Angela Gossow's final album with Arch Enemy because she retired from performing after the subsequent world tour — citing the physical and psychological demands of sustained professional touring at the intensity level required for Arch Enemy's international schedule. Gossow announced her retirement in March 2014, simultaneously with the announcement that Canadian vocalist Alissa White-Gluz would be joining the band. War Eternal (2014) was the first Arch Enemy album with White-Gluz. For Daniel Erlandsson, the transition maintained continuity — he remained as drummer through the White-Gluz era, and his gear evolution continued with the Pearl Reference Pure setup that characterises his more recent work. Khaos Legions is therefore both the closing statement of the Gossow era and the final record in the specific creative arc that began with Wages of Sin (2002). For the full discography context: [Daniel Erlandsson at MetalForge](/drummer/daniel-erlandsson)."
       },
       {
-        "question": "What is the Pearl Demon Drive and how does it differ from the Pearl Eliminator?",
-        "answer": "The Pearl Demon Drive is a spring-loaded belt-drive double bass pedal — a fundamentally different mechanical design from the Pearl Eliminator's cam-based drive system. The Demon Drive's belt-drive connects the footboard to the beater through a flexible belt and spring-loaded return system, producing a smoother, more immediate acceleration curve and rebound character than the Eliminator's cam profile options. The Eliminator's cam system allows players to swap cam profiles for different acceleration characters; the Demon Drive instead provides a consistent, spring-controlled response that is more uniform across all playing conditions. For Daniel Erlandsson, the transition from Eliminator (his foot technique foundation through Wages of Sin, Anthems of Rebellion, Doomsday Machine, and Rise of the Tyrant) to Demon Drive on Khaos Legions represents a significant technique adjustment — the different mechanical character requires recalibration of foot-to-beater dynamics. The result on Khaos Legions is a double-kick texture with subtly different mechanical character than the Eliminator era recordings."
+        "question": "What is the Pearl Eliminator double bass pedal and why has Erlandsson used it his entire career?",
+        "answer": "The Pearl Eliminator is a cam-adjustable double bass pedal — its interchangeable cam system lets a drummer swap cam profiles to change the acceleration curve between foot pressure and beater velocity, tuning the pedal's mechanical feel to personal technique. Daniel Erlandsson has used the Pearl Eliminator continuously since 2001, across every Arch Enemy studio album from Wages of Sin through Khaos Legions and beyond — there has been no pedal change at any point in his career. By Khaos Legions (2011), a full decade of touring and studio use had given Erlandsson complete physical familiarity with the pedal's mechanical response, producing a foot-technique performance of exceptional consistency across the album's most demanding double-kick passages."
       },
       {
         "question": "Why is Khaos Legions the highest-charting Arch Enemy album?",
@@ -1682,7 +1682,7 @@ export const articles = {
       },
       {
         "question": "How does Khaos Legions complete the Angela Gossow era arc in Daniel Erlandsson's discography?",
-        "answer": "Khaos Legions (2011) closes the Angela Gossow era arc that began with Wages of Sin (2002) — a nine-year, five-album period that is the most commercially successful and critically recognised stretch of Arch Enemy's career. Across that arc, Daniel Erlandsson's setup evolved through Pearl Masters / Reference-era (Wages of Sin, 2002) → Pearl Masters MMX (Anthems of Rebellion, 2003) → Pearl Reference Pure (Doomsday Machine, 2005) → Pearl Masters Premium (Rise of the Tyrant, 2007) → Pearl Masterworks Custom (Khaos Legions, 2011), from Sabian AA/HH cymbals through Meinl Byzance Traditional to the full Dark/Vintage/Traditional multi-series palette, and from the Pearl Eliminator to the Pearl Demon Drive. Each album documents a chapter in Erlandsson's professional development as well as Arch Enemy's commercial arc. Khaos Legions' fully bespoke Masterworks Custom kit and multi-series Byzance setup represent the apex of that evolution within the Gossow era. For the full discography chain: [Wages of Sin (2002)](/articles/wages-of-sin-drum-setup) · [Anthems of Rebellion (2003)](/articles/anthems-of-rebellion-drum-setup) · [Doomsday Machine (2005)](/articles/doomsday-machine-drum-setup) · [Rise of the Tyrant (2007)](/articles/rise-of-the-tyrant-drum-setup)."
+        "answer": "Khaos Legions (2011) closes the Angela Gossow era arc that began with Wages of Sin (2002) — a nine-year, five-album period that is the most commercially successful and critically recognised stretch of Arch Enemy's career. Across that arc, Daniel Erlandsson's drum kit evolved through Pearl Masters / Reference-era (Wages of Sin, 2002) → Pearl Masters MMX (Anthems of Rebellion, 2003) → Pearl Reference Pure (Doomsday Machine, 2005) → Pearl Masters Premium (Rise of the Tyrant, 2007) → Pearl Masterworks Custom (Khaos Legions, 2011), while his Sabian AA/HH cymbals and Pearl Eliminator pedal remained constant throughout — the same setup he had played since his Eucharist years, unchanged until the 2014 switch to Sabian AAX/HHX. Each album documents a chapter in Erlandsson's professional development as well as Arch Enemy's commercial arc. Khaos Legions' fully bespoke Masterworks Custom kit represents the apex of the drum-kit evolution within the Gossow era. For the full discography chain: [Wages of Sin (2002)](/articles/wages-of-sin-drum-setup) · [Anthems of Rebellion (2003)](/articles/anthems-of-rebellion-drum-setup) · [Doomsday Machine (2005)](/articles/doomsday-machine-drum-setup) · [Rise of the Tyrant (2007)](/articles/rise-of-the-tyrant-drum-setup)."
       }
     ],
     "relatedAlbums": [
@@ -1699,7 +1699,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "Khaos Legions: The Closing Statement of the Angela Gossow Era",
-      "content": "Khaos Legions (May 27, 2011) is the album at which the Angela Gossow–era Arch Enemy reached its highest commercial watermark — Sweden #4, the peak of a band that had built from European underground melodic death metal act to international headliner over nine years and five studio albums. Angela Gossow's final album is also Daniel Erlandsson's most technically and tonally sophisticated Gossow-era performance: the Pearl Masterworks Custom shells' precise construction, the Meinl Byzance multi-series cymbal palette's tonal depth, and the Pearl Demon Drive's new mechanical character give the Khaos Legions drum performances a character that is distinctly more refined than any previous chapter in the Arch Enemy studio discography.\n\nThe album closes a era — not just commercially, but in terms of what Arch Enemy's creative core had built with Angela Gossow, Michael Amott, Daniel Erlandsson, and the Century Media / Andy Sneap production partnership. The gear that Erlandsson deployed on this final Gossow-era record represents the accumulated expertise of seventeen years of Gothenburg melodic death metal drumming: every setup decision is purposeful, every component has been selected for function within the specific demands of the Arch Enemy performance context.\n\n**Key takeaways for drummers studying this album:**\n- Pearl Masterworks Custom — the tonal coherence of fully specified custom construction\n- Pearl Demon Drive belt-drive mechanics — a different foot-technique character than cam-based alternatives\n- Meinl Byzance multi-series palette — the widest tonal variety in the Gossow-era cymbal work\n- Dynamic management as compositional architecture — the most varied Gossow-era album rewarded by the most varied drumming\n\n**Explore related content at MetalForge:**\n- [Rise of the Tyrant drum setup (2007)](/articles/rise-of-the-tyrant-drum-setup) — the commercial peak preceding this album\n- [Doomsday Machine drum setup (2005)](/articles/doomsday-machine-drum-setup) — the Billboard 200 breakthrough\n- [Anthems of Rebellion drum setup (2003)](/articles/anthems-of-rebellion-drum-setup) — the Gossow era foundation\n- [Wages of Sin drum setup (2002)](/articles/wages-of-sin-drum-setup) — the arc-opening Gossow debut\n- [Daniel Erlandsson drummer profile](/drummer/daniel-erlandsson) — full career context\n- [How to sound like Daniel Erlandsson](/guides/how-to-sound-like-daniel-erlandsson) — technique guide"
+      "content": "Khaos Legions (May 27, 2011) is the album at which the Angela Gossow–era Arch Enemy reached its highest commercial watermark — Sweden #4, the peak of a band that had built from European underground melodic death metal act to international headliner over nine years and five studio albums. Angela Gossow's final album is also Daniel Erlandsson's most technically and tonally sophisticated Gossow-era performance: the Pearl Masterworks Custom shells' precise construction, the established Sabian AA/HH cymbal palette's tonal range, and a decade of Pearl Eliminator mechanical mastery give the Khaos Legions drum performances a character that is distinctly more refined than any previous chapter in the Arch Enemy studio discography.\n\nThe album closes a era — not just commercially, but in terms of what Arch Enemy's creative core had built with Angela Gossow, Michael Amott, Daniel Erlandsson, and the Century Media / Andy Sneap production partnership. The gear that Erlandsson deployed on this final Gossow-era record represents the accumulated expertise of seventeen years of Gothenburg melodic death metal drumming: every setup decision is purposeful, every component has been selected for function within the specific demands of the Arch Enemy performance context.\n\n**Key takeaways for drummers studying this album:**\n- Pearl Masterworks Custom — the tonal coherence of fully specified custom construction\n- Pearl Eliminator at a decade of mastery — mechanical consistency built through years of touring familiarity\n- Sabian AA/HH continuity — the same established cymbal palette carried through the entire Gossow era\n- Dynamic management as compositional architecture — the most varied Gossow-era album rewarded by the most varied drumming\n\n**Explore related content at MetalForge:**\n- [Rise of the Tyrant drum setup (2007)](/articles/rise-of-the-tyrant-drum-setup) — the commercial peak preceding this album\n- [Doomsday Machine drum setup (2005)](/articles/doomsday-machine-drum-setup) — the Billboard 200 breakthrough\n- [Anthems of Rebellion drum setup (2003)](/articles/anthems-of-rebellion-drum-setup) — the Gossow era foundation\n- [Wages of Sin drum setup (2002)](/articles/wages-of-sin-drum-setup) — the arc-opening Gossow debut\n- [Daniel Erlandsson drummer profile](/drummer/daniel-erlandsson) — full career context\n- [How to sound like Daniel Erlandsson](/guides/how-to-sound-like-daniel-erlandsson) — technique guide"
     }
   }
   ,
@@ -1721,7 +1721,7 @@ export const articles = {
     "author": "MetalForge Editorial",
     "title": "Daniel Erlandsson's Drum Setup on Arch Enemy's War Eternal (2014)",
     "metaTitle": "Daniel Erlandsson's Drum Setup — Arch Enemy 'War Eternal' (2014) | MetalForge",
-    "description": "Daniel Erlandsson's drum setup on Arch Enemy's War Eternal (2014) — the first Arch Enemy album with Alissa White-Gluz, produced by Jens Bogren at Fascination Street Studio. Pearl Reference Pure, Meinl Byzance, Pearl Demon Drive, and the melodic death metal record that launched a new era.",
+    "description": "Daniel Erlandsson's drum setup on Arch Enemy's War Eternal (2014) — the first Arch Enemy album with Alissa White-Gluz, produced by Jens Bogren at Fascination Street Studio. Pearl Reference Pure, Sabian AAX/HHX, Pearl Eliminator, and the melodic death metal record that launched a new era.",
     "seoKeywords": [
       "war eternal drum setup",
       "daniel erlandsson 2014 kit",
@@ -1730,21 +1730,21 @@ export const articles = {
       "jens bogren arch enemy production",
       "fascination street studio drum sound",
       "pearl reference pure arch enemy",
-      "meinl byzance daniel erlandsson",
+      "sabian aax hhx daniel erlandsson",
       "arch enemy drummer 2014",
       "arch enemy new singer album"
     ],
     "ogImage": "/images/albums/war-eternal-drums.webp",
     "intro": {
       "title": "War Eternal (2014): Daniel Erlandsson, Alissa White-Gluz, and Arch Enemy's New Chapter",
-      "content": "Released June 9, 2014 on Century Media Records, Arch Enemy's ninth studio album War Eternal is the arc-opening record of the band's most recent era — the first Arch Enemy album with vocalist Alissa White-Gluz, who joined after Angela Gossow's retirement from performing following the Khaos Legions world tour. War Eternal is Arch Enemy's most-streamed album on Spotify, anchored by the title track 'War Eternal' — the band's most-played song on the platform and the track that introduced White-Gluz's voice to a global audience simultaneously discovering Arch Enemy for the first time and long-term fans absorbing the vocalist transition.\n\nBehind the kit, Daniel Erlandsson delivered a performance that maintained the precision and compositional intelligence that had defined his playing through the entire Gossow era, now within arrangements shaped for White-Gluz's different vocal approach and within a new production partnership. War Eternal was produced by Jens Bogren at Fascination Street Studio in Örebro, Sweden — a deliberate departure from the Andy Sneap / Studio Fredman production environment that had defined the Gossow-era albums. Bogren, whose credits include Opeth, Amon Amarth, and Paradise Lost, brought a warmer, more dynamic production palette: more room in the drum sound, richer low-end character on the kicks, and a more spacious snare voice than the close-cropped Sneap template.\n\nErlandsson's setup for War Eternal continued with the Pearl Reference Pure kit that had defined his playing since the mid-2000s, alongside Meinl Byzance cymbals and the Pearl Demon Drive double bass pedal introduced on Khaos Legions. The album's production context at Fascination Street Studio captured these components in a warmer, more ambient environment than the close-miked Studio Fredman tracking approach — the result is a drum sound with more space and tonal complexity than any previous Arch Enemy record.\n\nThe transition to White-Gluz was musically seamless. Songs like 'War Eternal,' 'You Will Know My Name,' and 'As the Pages Burn' maintain the core Arch Enemy formula — melodic guitar leads over aggressive double-kick and blast beat drumming — while the arrangements reflect the compositional choices made with White-Gluz's different range and melodic approach in mind. Erlandsson's drumming responds to those arrangements with the same compositional awareness that had characterised his work through the Gossow era: blast beats as structural events, double-kick patterns that articulate guitar riff shapes, and dynamic transitions that give the album's most intense passages maximum impact.",
+      "content": "Released June 9, 2014 on Century Media Records, Arch Enemy's ninth studio album War Eternal is the arc-opening record of the band's most recent era — the first Arch Enemy album with vocalist Alissa White-Gluz, who joined after Angela Gossow's retirement from performing following the Khaos Legions world tour. War Eternal is Arch Enemy's most-streamed album on Spotify, anchored by the title track 'War Eternal' — the band's most-played song on the platform and the track that introduced White-Gluz's voice to a global audience simultaneously discovering Arch Enemy for the first time and long-term fans absorbing the vocalist transition.\n\nBehind the kit, Daniel Erlandsson delivered a performance that maintained the precision and compositional intelligence that had defined his playing through the entire Gossow era, now within arrangements shaped for White-Gluz's different vocal approach and within a new production partnership. War Eternal was produced by Jens Bogren at Fascination Street Studio in Örebro, Sweden — a deliberate departure from the Andy Sneap / Studio Fredman production environment that had defined the Gossow-era albums. Bogren, whose credits include Opeth, Amon Amarth, and Paradise Lost, brought a warmer, more dynamic production palette: more room in the drum sound, richer low-end character on the kicks, and a more spacious snare voice than the close-cropped Sneap template.\n\nErlandsson's setup for War Eternal continued with the Pearl Reference Pure kit that had defined his playing since the mid-2000s, now paired with a refined Sabian AAX/HHX cymbal setup — the brighter AAX crashes and darker HHX ride marking his first cymbal evolution since adopting Sabian during his Eucharist years — and the Pearl Eliminator double bass pedal that has been his foot technique foundation since 2001. The album's production context at Fascination Street Studio captured these components in a warmer, more ambient environment than the close-miked Studio Fredman tracking approach — the result is a drum sound with more space and tonal complexity than any previous Arch Enemy record.\n\nThe transition to White-Gluz was musically seamless. Songs like 'War Eternal,' 'You Will Know My Name,' and 'As the Pages Burn' maintain the core Arch Enemy formula — melodic guitar leads over aggressive double-kick and blast beat drumming — while the arrangements reflect the compositional choices made with White-Gluz's different range and melodic approach in mind. Erlandsson's drumming responds to those arrangements with the same compositional awareness that had characterised his work through the Gossow era: blast beats as structural events, double-kick patterns that articulate guitar riff shapes, and dynamic transitions that give the album's most intense passages maximum impact.",
       "keyPoints": [
         "Released June 9, 2014 on Century Media Records — Arch Enemy's most-streamed album on Spotify",
         "First Arch Enemy album with vocalist Alissa White-Gluz — arc-opening record of the White-Gluz era",
         "Produced by Jens Bogren at Fascination Street Studio, Örebro, Sweden — first departure from Andy Sneap",
         "Pearl Reference Pure drum kit with double 22\" x 18\" bass drums — consistent Erlandsson configuration",
-        "Meinl Byzance multi-series cymbal palette — hand-hammered B20 bronze complexity",
-        "Pearl Demon Drive double bass pedal — belt-drive mechanics from Khaos Legions onward",
+        "Sabian AAX/HHX cymbal setup — refined from the AA/HH configuration of the earlier Gossow-era albums",
+        "Pearl Eliminator double bass pedal — cam-adjustable mechanics, unchanged since 2001",
         "'War Eternal' title track is Arch Enemy's most-played song on Spotify"
       ]
     },
@@ -1788,53 +1788,53 @@ export const articles = {
       "estimatedValue": "$400–700 (Pearl signature snare series)"
     },
     "cymbals": {
-      "title": "Meinl Byzance: Musical Complexity for the White-Gluz Era",
-      "brand": "Meinl",
-      "series": "Meinl Byzance Multi-Series",
+      "title": "Sabian AAX/HHX: The Refined Cymbal Setup for the White-Gluz Era",
+      "brand": "Sabian",
+      "series": "Sabian AAX / HHX Series",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Meinl Byzance 14\" Traditional Hi-Hats",
+          "model": "Sabian AAX 14\" Hi-Hats",
           "position": "Left side",
-          "notes": "Hand-hammered B20 bronze — warm, complex articulation for melodic passages and fast patterns"
+          "notes": "Bright, modern AAX character — articulate attack for melodic passages and fast patterns"
         },
         {
           "type": "Crash",
-          "model": "Meinl Byzance 16\" Vintage or Dark Crash",
+          "model": "Sabian AAX 16\" Crash",
           "position": "Left crash",
-          "notes": "Musical warmth with fast attack — section entry accents in melodic-oriented arrangements"
+          "notes": "Fast attack with bright projection — section entry accents in melodic-oriented arrangements"
         },
         {
           "type": "Crash",
-          "model": "Meinl Byzance 18\" Medium Crash",
+          "model": "Sabian AAX 18\" Crash",
           "position": "Right crash",
           "notes": "Fuller sustain for major structural transitions and chorus entries"
         },
         {
           "type": "Ride",
-          "model": "Meinl Byzance 20\" Dark or Vintage Ride",
+          "model": "Sabian HHX 20\" Ride",
           "position": "Right side",
-          "notes": "Dark complexity for groove-oriented passages — tonal contrast from the crash brightness"
+          "notes": "Dark, hand-hammered complexity for groove-oriented passages — tonal contrast from the crash brightness"
         },
         {
           "type": "China",
-          "model": "Meinl Byzance China 18\"",
+          "model": "Sabian HHX China 18\"",
           "position": "Over rack toms",
           "notes": "Aggressive trashy accent for riff transitions in the Gothenburg style"
         }
       ],
-      "description": "Erlandsson's Meinl Byzance cymbal setup on War Eternal continued the multi-series configuration established on the Khaos Legions sessions — hand-hammered B20 bronze from Meinl's flagship line delivering the tonal complexity and musical depth that Jens Bogren's production approach could capture. Byzance cymbals are a natural fit for Bogren's warmer, more ambient production palette: their overtone-rich character, longer sustain, and musical warmth integrate with Fascination Street Studio's room contribution rather than competing with it.\n\nThe Traditional hi-hats anchor Erlandsson's rhythmic work with warm, complex articulation — different from the bright-and-fast AA character of the earlier Gossow-era setup, more suited to the melodic richness of the White-Gluz-era arrangements. The Vintage or Dark crash cymbals provide section-entry accents with musical sustain that fits Bogren's mix philosophy: crashes that bloom into the arrangement rather than cutting across it. The Dark ride provides the textural contrast point, its warm darkness giving Erlandsson a musically distinct option for the album's more spacious groove passages.",
-      "estimatedValue": "$1,800–3,000 (full Meinl Byzance multi-series setup)"
+      "description": "Erlandsson's cymbal setup on War Eternal marks the first true cymbal evolution of his career — refining from the Sabian AA/HH configuration that had served him since his Eucharist years to the Sabian AAX/HHX Series. The AAX line delivers a brighter, more modern crash and hi-hat character than the AA series; the HHX line brings a darker, more hand-hammered ride and china voice than the HH series. The AAX/HHX pairing is a natural fit for Bogren's warmer, more ambient production palette: the AAX's projection and the HHX's overtone-rich sustain integrate with Fascination Street Studio's room contribution rather than competing with it.\n\nThe AAX hi-hats anchor Erlandsson's rhythmic work with bright, modern articulation — a refined evolution from the AA character of the earlier Gossow-era setup, suited to the melodic richness of the White-Gluz-era arrangements. The AAX crash cymbals provide section-entry accents with fast attack and full projection that fits Bogren's mix philosophy: crashes that bloom into the arrangement rather than cutting across it. The HHX ride provides the textural contrast point, its darker complexity giving Erlandsson a musically distinct option for the album's more spacious groove passages.",
+      "estimatedValue": "$1,700–2,900 (full Sabian AAX/HHX setup)"
     },
     "hardware": {
-      "title": "Pearl Demon Drive: Belt-Drive Consistency for the White-Gluz Era",
+      "title": "Pearl Eliminator: Cam-Adjustable Consistency for the White-Gluz Era",
       "items": [
         {
           "type": "Bass Drum Pedals",
           "brand": "Pearl",
-          "model": "Pearl Demon Drive Double Bass Pedal",
-          "notes": "Belt-drive spring-loaded mechanics — consistent double-kick across White-Gluz era touring",
-          "description": "The Pearl Demon Drive, introduced on Khaos Legions (2011), continued as Erlandsson's double bass pedal for War Eternal and the entire White-Gluz era. The Demon Drive's belt-drive mechanism — connecting the footboard to the beater through a flexible belt and spring-loaded return — provides a smooth, immediate acceleration curve and consistent rebound character. War Eternal's most intensive double-kick sections ('You Will Know My Name', 'Avalanche') rely on the Demon Drive's mechanical reliability across full performance demands."
+          "model": "Pearl Eliminator Double Bass Pedal",
+          "notes": "Cam-adjustable mechanics — consistent double-kick across White-Gluz era touring, unchanged since 2001",
+          "description": "The Pearl Eliminator, Erlandsson's foot technique foundation since 2001, continued unchanged as his double bass pedal for War Eternal and the entire White-Gluz era. The Eliminator's interchangeable cam system — connecting the footboard to the beater through a cam-driven mechanism — provides a smooth acceleration curve and consistent rebound character tuned to Erlandsson's technique. War Eternal's most intensive double-kick sections ('You Will Know My Name', 'Avalanche') rely on the Eliminator's mechanical reliability across full performance demands."
         },
         {
           "type": "Sticks",
@@ -1868,21 +1868,21 @@ export const articles = {
         "Jens Bogren production at Fascination Street Studio — warmer, more ambient than Sneap/Studio Fredman",
         "Room microphone contribution as part of drum character — more space than any previous Arch Enemy record",
         "Dynamic production approach suited to White-Gluz's melodic vocal range",
-        "Meinl Byzance cymbal complexity captures well in Bogren's ambient tracking context"
+        "Sabian AAX/HHX cymbal complexity captures well in Bogren's ambient tracking context"
       ]
     },
     "faq": [
       {
         "question": "Who played drums on Arch Enemy's War Eternal (2014)?",
-        "answer": "Daniel Erlandsson played drums on Arch Enemy's War Eternal (2014), as he has on every Arch Enemy studio album since co-founding the band in 1995. War Eternal was Erlandsson's ninth studio album with Arch Enemy and the first with vocalist Alissa White-Gluz, who joined after Angela Gossow's retirement from performing following the Khaos Legions world tour. Erlandsson's setup for the album — Pearl Reference Pure kit, Pearl Daniel Erlandsson Signature snare, Meinl Byzance cymbals, Pearl Demon Drive pedal — maintained the mature configuration established on Khaos Legions (2011). For Erlandsson's full career gear context: [Daniel Erlandsson drum setup at MetalForge](/articles/daniel-erlandsson-drum-setup) and [Daniel Erlandsson drummer profile](/drummer/daniel-erlandsson)."
+        "answer": "Daniel Erlandsson played drums on Arch Enemy's War Eternal (2014), as he has on every Arch Enemy studio album since co-founding the band in 1995. War Eternal was Erlandsson's ninth studio album with Arch Enemy and the first with vocalist Alissa White-Gluz, who joined after Angela Gossow's retirement from performing following the Khaos Legions world tour. Erlandsson's setup for the album — Pearl Reference Pure kit, Pearl Daniel Erlandsson Signature snare, Sabian AAX/HHX cymbals, Pearl Eliminator pedal — marked his refined switch from Sabian AA/HH to AAX/HHX, the first cymbal evolution of his career. For Erlandsson's full career gear context: [Daniel Erlandsson drum setup at MetalForge](/articles/daniel-erlandsson-drum-setup) and [Daniel Erlandsson drummer profile](/drummer/daniel-erlandsson)."
       },
       {
         "question": "What was the first Arch Enemy album with Alissa White-Gluz?",
-        "answer": "War Eternal (2014) was the first Arch Enemy album with vocalist Alissa White-Gluz. White-Gluz joined Arch Enemy in March 2014 following Angela Gossow's retirement from performing, and War Eternal was released on June 9, 2014 on Century Media Records. The album was produced by Jens Bogren at Fascination Street Studio in Örebro, Sweden — a deliberate departure from the Andy Sneap / Studio Fredman production environment that had defined the Gossow era. The title track 'War Eternal' became Arch Enemy's most-streamed song on Spotify and remains the most-played track in the band's catalog. Drummer Daniel Erlandsson maintained his Pearl Reference Pure / Meinl Byzance / Pearl Demon Drive configuration throughout the vocalist transition. For the broader White-Gluz era context: [Will to Power drum setup (2017)](/articles/will-to-power-drum-setup) and [Deceivers drum setup (2022)](/articles/deceivers-drum-setup)."
+        "answer": "War Eternal (2014) was the first Arch Enemy album with vocalist Alissa White-Gluz. White-Gluz joined Arch Enemy in March 2014 following Angela Gossow's retirement from performing, and War Eternal was released on June 9, 2014 on Century Media Records. The album was produced by Jens Bogren at Fascination Street Studio in Örebro, Sweden — a deliberate departure from the Andy Sneap / Studio Fredman production environment that had defined the Gossow era. The title track 'War Eternal' became Arch Enemy's most-streamed song on Spotify and remains the most-played track in the band's catalog. Drummer Daniel Erlandsson maintained his Pearl Reference Pure kit and Pearl Eliminator pedal through the vocalist transition, while refining his cymbal setup to Sabian AAX/HHX. For the broader White-Gluz era context: [Will to Power drum setup (2017)](/articles/will-to-power-drum-setup) and [Deceivers drum setup (2022)](/articles/deceivers-drum-setup)."
       },
       {
         "question": "What drum kit did Daniel Erlandsson use on War Eternal?",
-        "answer": "Daniel Erlandsson used his Pearl Reference Pure kit on War Eternal (2014) — the same all-maple flagship Pearl shell configuration that had defined his Arch Enemy setup since Doomsday Machine (2005). The drum configuration maintained his established standard: two 22\" x 18\" bass drums in a true double-kick setup, 10\" and 12\" rack toms, 14\" and 16\" floor toms. His signature Pearl Daniel Erlandsson Signature snare (14\" x 5.5\") continued as the snare, and Meinl Byzance multi-series cymbals provided the hand-hammered B20 bronze palette that Jens Bogren's Fascination Street Studio production captured with particular depth. The Pearl Demon Drive double bass pedal, introduced on Khaos Legions, remained his foot technique foundation. For the full Erlandsson gear timeline: [Daniel Erlandsson drum setup at MetalForge](/articles/daniel-erlandsson-drum-setup)."
+        "answer": "Daniel Erlandsson used his Pearl Reference Pure kit on War Eternal (2014) — the same all-maple flagship Pearl shell configuration that had defined his Arch Enemy setup since Doomsday Machine (2005). The drum configuration maintained his established standard: two 22\" x 18\" bass drums in a true double-kick setup, 10\" and 12\" rack toms, 14\" and 16\" floor toms. His signature Pearl Daniel Erlandsson Signature snare (14\" x 5.5\") continued as the snare, and a refined Sabian AAX/HHX cymbal setup — evolved from the AA/HH configuration of the earlier Gossow-era albums — provided the tonal palette that Jens Bogren's Fascination Street Studio production captured with particular depth. The Pearl Eliminator double bass pedal, his foot technique foundation since 2001, remained unchanged. For the full Erlandsson gear timeline: [Daniel Erlandsson drum setup at MetalForge](/articles/daniel-erlandsson-drum-setup)."
       },
       {
         "question": "Where was War Eternal recorded and who produced it?",
@@ -1906,7 +1906,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "War Eternal: The Album That Launched Arch Enemy's Modern Chapter",
-      "content": "War Eternal (June 9, 2014) is the record at which Arch Enemy began its most recent era — the White-Gluz chapter that now spans a decade of headlining tours, festival slots, and three studio albums. The album's success as both a creative statement and a commercial record confirmed that the band's core musical identity — Daniel Erlandsson's precision drumming, Michael Amott's melodic guitar architecture, the Gothenburg melodic death metal vocabulary applied at the highest professional level — was bigger than any single vocalist configuration.\n\nErlandsson's performance on War Eternal holds the album's rhythm section together through the transition. His Pearl Reference Pure / Meinl Byzance / Pearl Demon Drive setup, now captured in Jens Bogren's warmer Fascination Street Studio environment, delivered a drum sound that expanded on the Gossow-era formula without abandoning its foundation. The result is Arch Enemy's most tonally complex drum recording — more space, more room character, more tonal depth than any previous album — within a performance that maintained the precision and compositional intelligence that had defined Erlandsson's playing through all nine studio albums.\n\n**Explore related content at MetalForge:**\n- [Khaos Legions drum setup (2011)](/articles/khaos-legions-drum-setup) — the closing Gossow-era album\n- [Will to Power drum setup (2017)](/articles/will-to-power-drum-setup) — White-Gluz era continuation\n- [Deceivers drum setup (2022)](/articles/deceivers-drum-setup) — the most recent Arch Enemy studio album\n- [Daniel Erlandsson drum setup](/articles/daniel-erlandsson-drum-setup) — full career gear profile\n- [Daniel Erlandsson drummer profile](/drummer/daniel-erlandsson) — full career context"
+      "content": "War Eternal (June 9, 2014) is the record at which Arch Enemy began its most recent era — the White-Gluz chapter that now spans a decade of headlining tours, festival slots, and three studio albums. The album's success as both a creative statement and a commercial record confirmed that the band's core musical identity — Daniel Erlandsson's precision drumming, Michael Amott's melodic guitar architecture, the Gothenburg melodic death metal vocabulary applied at the highest professional level — was bigger than any single vocalist configuration.\n\nErlandsson's performance on War Eternal holds the album's rhythm section together through the transition. His Pearl Reference Pure kit, refined Sabian AAX/HHX cymbals, and Pearl Eliminator pedal, now captured in Jens Bogren's warmer Fascination Street Studio environment, delivered a drum sound that expanded on the Gossow-era formula without abandoning its foundation. The result is Arch Enemy's most tonally complex drum recording — more space, more room character, more tonal depth than any previous album — within a performance that maintained the precision and compositional intelligence that had defined Erlandsson's playing through all nine studio albums.\n\n**Explore related content at MetalForge:**\n- [Khaos Legions drum setup (2011)](/articles/khaos-legions-drum-setup) — the closing Gossow-era album\n- [Will to Power drum setup (2017)](/articles/will-to-power-drum-setup) — White-Gluz era continuation\n- [Deceivers drum setup (2022)](/articles/deceivers-drum-setup) — the most recent Arch Enemy studio album\n- [Daniel Erlandsson drum setup](/articles/daniel-erlandsson-drum-setup) — full career gear profile\n- [Daniel Erlandsson drummer profile](/drummer/daniel-erlandsson) — full career context"
     }
   },
   "will-to-power-drum-setup": {
@@ -1927,7 +1927,7 @@ export const articles = {
     "author": "MetalForge Editorial",
     "title": "Daniel Erlandsson's Drum Setup on Arch Enemy's Will to Power (2017)",
     "metaTitle": "Daniel Erlandsson's Drum Setup — Arch Enemy 'Will to Power' (2017) | MetalForge",
-    "description": "Daniel Erlandsson's drum setup on Arch Enemy's Will to Power (2017) — the chart-topping White-Gluz era album that reached the Top 5 in Germany, Sweden, and Austria. Pearl Reference Pure, Meinl Byzance, Pearl Demon Drive, and Jens Bogren's production at Fascination Street Studio.",
+    "description": "Daniel Erlandsson's drum setup on Arch Enemy's Will to Power (2017) — the chart-topping White-Gluz era album that reached the Top 5 in Germany, Sweden, and Austria. Pearl Reference Pure, Sabian AAX/HHX, Pearl Eliminator, and Jens Bogren's production at Fascination Street Studio.",
     "seoKeywords": [
       "will to power drum setup",
       "daniel erlandsson 2017 kit",
@@ -1943,13 +1943,13 @@ export const articles = {
     "ogImage": "/images/albums/will-to-power-drums.webp",
     "intro": {
       "title": "Will to Power (2017): Arch Enemy's Commercial Peak in the White-Gluz Era",
-      "content": "Released September 8, 2017 on Century Media Records, Arch Enemy's tenth studio album Will to Power is the band's commercial high-water mark of the Alissa White-Gluz era — reaching the Top 5 in Germany (#3), Sweden (#3), and Austria (#4), and placing on charts across more than twenty countries. It is one of the highest-charting melodic death metal albums of the 2010s, a record that demonstrated the full global reach that Arch Enemy had built across more than two decades of consistent international touring and recording.\n\nWill to Power was the second Arch Enemy album produced by Jens Bogren at Fascination Street Studio in Örebro, Sweden, following War Eternal (2014). By 2017, the collaboration between Bogren and Arch Enemy had deepened into a settled production partnership: Bogren understood the band's sonic identity and Arch Enemy understood his production philosophy. The result on Will to Power is Fascination Street's warmest, most polished Arch Enemy production — more refined and dynamically varied than War Eternal, with deeper tonal richness and more sophisticated mix balance across the album's compositional range.\n\nBehind the kit, Daniel Erlandsson delivered a performance that matched the album's compositional ambition. Will to Power includes some of Arch Enemy's most melodically complex material alongside the band's signature intensity peaks, and the drumming reflects that range: more varied dynamic shaping than the earlier Gossow-era albums, more musical sensitivity to the arrangements around the blast beats and double-kick sections, and the same foundational precision that had characterised his playing across two decades. The album features 'The World Is Yours' — a mid-tempo track with a distinctive melodic arc — and 'The Eagle Flies Alone,' the lead single that broke into European rock and metal radio.\n\nErlandsson's setup for Will to Power maintained the stable configuration established through the White-Gluz era: Pearl Reference Pure shells, Pearl Daniel Erlandsson Signature snare, Meinl Byzance multi-series cymbals, and the Pearl Demon Drive double bass pedal. Jens Bogren captured this setup at Fascination Street with the warmth and ambient depth that had characterised War Eternal, but with additional refinement in the mix balance and tonal clarity that came from the deepened production partnership.",
+      "content": "Released September 8, 2017 on Century Media Records, Arch Enemy's tenth studio album Will to Power is the band's commercial high-water mark of the Alissa White-Gluz era — reaching the Top 5 in Germany (#3), Sweden (#3), and Austria (#4), and placing on charts across more than twenty countries. It is one of the highest-charting melodic death metal albums of the 2010s, a record that demonstrated the full global reach that Arch Enemy had built across more than two decades of consistent international touring and recording.\n\nWill to Power was the second Arch Enemy album produced by Jens Bogren at Fascination Street Studio in Örebro, Sweden, following War Eternal (2014). By 2017, the collaboration between Bogren and Arch Enemy had deepened into a settled production partnership: Bogren understood the band's sonic identity and Arch Enemy understood his production philosophy. The result on Will to Power is Fascination Street's warmest, most polished Arch Enemy production — more refined and dynamically varied than War Eternal, with deeper tonal richness and more sophisticated mix balance across the album's compositional range.\n\nBehind the kit, Daniel Erlandsson delivered a performance that matched the album's compositional ambition. Will to Power includes some of Arch Enemy's most melodically complex material alongside the band's signature intensity peaks, and the drumming reflects that range: more varied dynamic shaping than the earlier Gossow-era albums, more musical sensitivity to the arrangements around the blast beats and double-kick sections, and the same foundational precision that had characterised his playing across two decades. The album features 'The World Is Yours' — a mid-tempo track with a distinctive melodic arc — and 'The Eagle Flies Alone,' the lead single that broke into European rock and metal radio.\n\nErlandsson's setup for Will to Power maintained the stable configuration established through the White-Gluz era: Pearl Reference Pure shells, Pearl Daniel Erlandsson Signature snare, Sabian AAX/HHX cymbals, and the Pearl Eliminator double bass pedal. Jens Bogren captured this setup at Fascination Street with the warmth and ambient depth that had characterised War Eternal, but with additional refinement in the mix balance and tonal clarity that came from the deepened production partnership.",
       "keyPoints": [
         "Released September 8, 2017 on Century Media Records — Top 5 in Germany (#3), Sweden (#3), and Austria (#4)",
         "Second Jens Bogren / Fascination Street production — the deepened production partnership at its most refined",
         "Arch Enemy's most commercially successful album in the White-Gluz era",
         "Pearl Reference Pure kit — consistent Erlandsson configuration, warmly captured at Fascination Street",
-        "Meinl Byzance multi-series cymbals — tonal complexity integrated with Bogren's ambient production",
+        "Sabian AAX/HHX cymbals — tonal complexity integrated with Bogren's ambient production",
         "Lead single 'The Eagle Flies Alone' broke into European rock and metal radio",
         "'The World Is Yours' demonstrates the album's melodic compositional ambition"
       ]
@@ -1973,7 +1973,7 @@ export const articles = {
         ],
         "shells": "Pure maple — Reference Pure flagship shell construction"
       },
-      "description": "By Will to Power (2017), Daniel Erlandsson's Pearl Reference Pure kit had been his consistent studio and touring configuration for over a decade — the same all-maple shell platform that had defined his sound from Doomsday Machine (2005) onward. The stability of this choice reflects the Reference Pure's functional excellence: pure maple construction for tonal clarity and projection, the physical endurance for multi-year international touring, and a sonic identity consistent enough to be instantly recognisable as the Arch Enemy drum sound across all the band's studio recordings of this period.\n\nJens Bogren's production at Fascination Street Studio in 2017 captured the Reference Pure with greater refinement than on War Eternal (2014). The deepened familiarity with the studio environment and with Arch Enemy's sonic identity gave Bogren more confidence to shape the drum sound: more precise tonal balance across the kit's range, warmer low-end weight on the kicks without muddiness, clearer tom definition in the mix. The result is Will to Power's drum sound — the most balanced and tonally refined Erlandsson Arch Enemy recording to that point.\n\nThe double 22\" x 18\" bass drum configuration drives Will to Power's most intense passages with the same physical authority that had defined the setup since its earliest Arch Enemy recordings. 'My Shadow and I' and 'First Day in Hell' feature sustained double-kick work where each beater stroke registers independently and clearly within Bogren's mix — the mechanical product of the Pearl Demon Drive's belt-drive consistency applied to the Reference Pure's physical mass.",
+      "description": "By Will to Power (2017), Daniel Erlandsson's Pearl Reference Pure kit had been his consistent studio and touring configuration for over a decade — the same all-maple shell platform that had defined his sound from Doomsday Machine (2005) onward. The stability of this choice reflects the Reference Pure's functional excellence: pure maple construction for tonal clarity and projection, the physical endurance for multi-year international touring, and a sonic identity consistent enough to be instantly recognisable as the Arch Enemy drum sound across all the band's studio recordings of this period.\n\nJens Bogren's production at Fascination Street Studio in 2017 captured the Reference Pure with greater refinement than on War Eternal (2014). The deepened familiarity with the studio environment and with Arch Enemy's sonic identity gave Bogren more confidence to shape the drum sound: more precise tonal balance across the kit's range, warmer low-end weight on the kicks without muddiness, clearer tom definition in the mix. The result is Will to Power's drum sound — the most balanced and tonally refined Erlandsson Arch Enemy recording to that point.\n\nThe double 22\" x 18\" bass drum configuration drives Will to Power's most intense passages with the same physical authority that had defined the setup since its earliest Arch Enemy recordings. 'My Shadow and I' and 'First Day in Hell' feature sustained double-kick work where each beater stroke registers independently and clearly within Bogren's mix — the mechanical product of the Pearl Eliminator's cam-adjustable consistency applied to the Reference Pure's physical mass.",
       "notes": [
         "Pearl Reference Pure — consistent Erlandsson configuration since Doomsday Machine, now in a settled mature form",
         "Jens Bogren's 2017 Fascination Street capture — more refined tonal balance than War Eternal",
@@ -1994,53 +1994,53 @@ export const articles = {
       "estimatedValue": "$400–700 (Pearl signature snare series)"
     },
     "cymbals": {
-      "title": "Meinl Byzance: Tonal Depth for Will to Power's Polished Production",
-      "brand": "Meinl",
-      "series": "Meinl Byzance Multi-Series",
+      "title": "Sabian AAX/HHX: Tonal Depth for Will to Power's Polished Production",
+      "brand": "Sabian",
+      "series": "Sabian AAX / HHX Series",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Meinl Byzance 14\" Traditional or Dark Hi-Hats",
+          "model": "Sabian AAX 14\" Hi-Hats",
           "position": "Left side",
-          "notes": "Hand-hammered B20 warm articulation — complex, musical rhythmic foundation"
+          "notes": "Bright, modern articulation — complex, musical rhythmic foundation"
         },
         {
           "type": "Crash",
-          "model": "Meinl Byzance 16\" Vintage or Dark Crash",
+          "model": "Sabian AAX 16\" Crash",
           "position": "Left crash",
-          "notes": "Musical warmth and sustain for melodically rich section entries"
+          "notes": "Fast attack and projection for melodically rich section entries"
         },
         {
           "type": "Crash",
-          "model": "Meinl Byzance 18\" Medium Crash",
+          "model": "Sabian AAX 18\" Crash",
           "position": "Right crash",
           "notes": "Fuller sustain for major structural transitions and chorus entries"
         },
         {
           "type": "Ride",
-          "model": "Meinl Byzance 20\" Dark or Vintage Ride",
+          "model": "Sabian HHX 20\" Ride",
           "position": "Right side",
-          "notes": "Warm, complex tonal depth for groove passages — musical contrast from the crash brightness"
+          "notes": "Dark, hand-hammered tonal depth for groove passages — musical contrast from the crash brightness"
         },
         {
           "type": "China",
-          "model": "Meinl Byzance China 18\"",
+          "model": "Sabian HHX China 18\"",
           "position": "Over rack toms",
           "notes": "Trashy aggressive accent for riff transitions — Gothenburg style maintained"
         }
       ],
-      "description": "The Meinl Byzance setup on Will to Power represents Erlandsson's most musically integrated cymbal work in the Arch Enemy studio discography. The hand-hammered B20 bronze complexity of the Byzance line is particularly well-served by Jens Bogren's polished Fascination Street production — the cymbals' overtone-rich character, musical sustain, and tonal warmth translate naturally into a mix environment that values dynamic complexity over maximum brightness.\n\nBy Will to Power, Erlandsson's Byzance palette had been his consistent cymbal configuration for over a decade, and the deep familiarity with how each component responds in a studio context gave his cymbal work on this album a particularly assured character. The Traditional or Dark hi-hats provide warm, articulate rhythmic foundation; the Vintage or Dark crashes give section entries the musical body that Bogren's production context rewards; the Dark ride delivers the textural contrast point that separates groove-oriented passages from the more aggressive crash-heavy sections.",
-      "estimatedValue": "$1,800–3,000 (full Meinl Byzance multi-series setup)"
+      "description": "The Sabian AAX/HHX setup on Will to Power represents Erlandsson's most musically integrated cymbal work in the Arch Enemy studio discography. The bright projection of the AAX line and the hand-hammered darkness of the HHX line are particularly well-served by Jens Bogren's polished Fascination Street production — the cymbals' tonal range and musical sustain translate naturally into a mix environment that values dynamic complexity.\n\nBy Will to Power, Erlandsson's Sabian relationship had spanned nearly three decades, and the AAX/HHX configuration adopted on War Eternal had settled into a familiar, assured character by this second album with the refined setup. The AAX hi-hats provide bright, articulate rhythmic foundation; the AAX crashes give section entries the projection that Bogren's production context rewards; the HHX ride delivers the textural contrast point that separates groove-oriented passages from the more aggressive crash-heavy sections.",
+      "estimatedValue": "$1,700–2,900 (full Sabian AAX/HHX setup)"
     },
     "hardware": {
-      "title": "Pearl Demon Drive: Continued Consistency Across the White-Gluz Era",
+      "title": "Pearl Eliminator: Continued Consistency Across the White-Gluz Era",
       "items": [
         {
           "type": "Bass Drum Pedals",
           "brand": "Pearl",
-          "model": "Pearl Demon Drive Double Bass Pedal",
-          "notes": "Belt-drive spring-loaded mechanics — consistent double-kick across years of White-Gluz era touring",
-          "description": "The Pearl Demon Drive continued as Erlandsson's primary foot technique tool on Will to Power. The belt-drive mechanism's consistent acceleration curve and spring-loaded return produced the reliable double-kick character that Will to Power's most intensive passages required — the same mechanical consistency that had served him through War Eternal and the subsequent tour cycle, now with years of touring familiarity adding additional physical certainty to the foot technique."
+          "model": "Pearl Eliminator Double Bass Pedal",
+          "notes": "Cam-adjustable mechanics — consistent double-kick across years of touring, unchanged since 2001",
+          "description": "The Pearl Eliminator continued as Erlandsson's primary foot technique tool on Will to Power. The cam-adjustable drive system's consistent acceleration curve produced the reliable double-kick character that Will to Power's most intensive passages required — the same mechanical consistency that had served him through War Eternal and the subsequent tour cycle, now with over fifteen years of touring familiarity adding additional physical certainty to the foot technique."
         },
         {
           "type": "Sticks",
@@ -2070,7 +2070,7 @@ export const articles = {
     "faq": [
       {
         "question": "Who played drums on Arch Enemy's Will to Power (2017)?",
-        "answer": "Daniel Erlandsson played drums on Arch Enemy's Will to Power (2017), as he has on every Arch Enemy studio album since co-founding the band in 1995. Will to Power was Erlandsson's tenth studio album with Arch Enemy — the band's commercial peak of the Alissa White-Gluz era, charting at #3 in Germany and Sweden, #4 in Austria, and placing on charts across more than twenty countries. Erlandsson's setup maintained the White-Gluz era configuration: Pearl Reference Pure kit, Pearl Daniel Erlandsson Signature snare, Meinl Byzance cymbals, Pearl Demon Drive pedal. For his full career gear context: [Daniel Erlandsson drum setup at MetalForge](/articles/daniel-erlandsson-drum-setup) and [Daniel Erlandsson drummer profile](/drummer/daniel-erlandsson)."
+        "answer": "Daniel Erlandsson played drums on Arch Enemy's Will to Power (2017), as he has on every Arch Enemy studio album since co-founding the band in 1995. Will to Power was Erlandsson's tenth studio album with Arch Enemy — the band's commercial peak of the Alissa White-Gluz era, charting at #3 in Germany and Sweden, #4 in Austria, and placing on charts across more than twenty countries. Erlandsson's setup maintained the White-Gluz era configuration: Pearl Reference Pure kit, Pearl Daniel Erlandsson Signature snare, Sabian AAX/HHX cymbals, Pearl Eliminator pedal. For his full career gear context: [Daniel Erlandsson drum setup at MetalForge](/articles/daniel-erlandsson-drum-setup) and [Daniel Erlandsson drummer profile](/drummer/daniel-erlandsson)."
       },
       {
         "question": "What are Arch Enemy's biggest albums since 2014?",
@@ -2078,7 +2078,7 @@ export const articles = {
       },
       {
         "question": "What drum kit did Daniel Erlandsson use on Will to Power?",
-        "answer": "Daniel Erlandsson used his Pearl Reference Pure kit on Will to Power (2017) — the same all-maple flagship Pearl shell platform that had defined his Arch Enemy setup since Doomsday Machine (2005). The configuration maintained his consistent standard: two 22\" x 18\" bass drums in a true double-kick setup, 10\" and 12\" rack toms, 14\" and 16\" floor toms, Pearl Daniel Erlandsson Signature snare (14\" x 5.5\"), and Meinl Byzance multi-series cymbals. Jens Bogren captured this setup at Fascination Street Studio with greater refinement than on War Eternal (2014) — the deepened production partnership produced the most tonally balanced Arch Enemy drum recording to that point. The Pearl Demon Drive double bass pedal drove the double-kick work. For the full gear evolution: [Daniel Erlandsson drum setup](/articles/daniel-erlandsson-drum-setup)."
+        "answer": "Daniel Erlandsson used his Pearl Reference Pure kit on Will to Power (2017) — the same all-maple flagship Pearl shell platform that had defined his Arch Enemy setup since Doomsday Machine (2005). The configuration maintained his consistent standard: two 22\" x 18\" bass drums in a true double-kick setup, 10\" and 12\" rack toms, 14\" and 16\" floor toms, Pearl Daniel Erlandsson Signature snare (14\" x 5.5\"), and Sabian AAX/HHX cymbals. Jens Bogren captured this setup at Fascination Street Studio with greater refinement than on War Eternal (2014) — the deepened production partnership produced the most tonally balanced Arch Enemy drum recording to that point. The Pearl Eliminator double bass pedal drove the double-kick work. For the full gear evolution: [Daniel Erlandsson drum setup](/articles/daniel-erlandsson-drum-setup)."
       },
       {
         "question": "Where was Will to Power recorded?",
@@ -2123,7 +2123,7 @@ export const articles = {
     "author": "MetalForge Editorial",
     "title": "Daniel Erlandsson's Drum Setup on Arch Enemy's Deceivers (2022)",
     "metaTitle": "Daniel Erlandsson's Drum Setup — Arch Enemy 'Deceivers' (2022) | MetalForge",
-    "description": "Daniel Erlandsson's drum setup on Arch Enemy's Deceivers (2022) — Arch Enemy's newest studio album, produced by Jens Bogren at Fascination Street Studio. Pearl Reference Pure, Meinl Byzance, Pearl Demon Drive, and the final chapter of the Alissa White-Gluz era arc.",
+    "description": "Daniel Erlandsson's drum setup on Arch Enemy's Deceivers (2022) — Arch Enemy's newest studio album, produced by Jens Bogren at Fascination Street Studio. Pearl Reference Pure, Sabian AAX/HHX, Pearl Eliminator, and the final chapter of the Alissa White-Gluz era arc.",
     "seoKeywords": [
       "deceivers drum setup",
       "daniel erlandsson 2022 kit",
@@ -2139,13 +2139,13 @@ export const articles = {
     "ogImage": "/images/albums/deceivers-drums.webp",
     "intro": {
       "title": "Deceivers (2022): Arch Enemy's Newest Studio Album — Erlandsson's Arc Closer",
-      "content": "Released August 12, 2022 on Century Media Records, Arch Enemy's eleventh studio album Deceivers is the band's most recent studio recording — the current endpoint of a discography that stretches from Black Earth (1996) to the present day. It is the third and most recent album of the Alissa White-Gluz era, following War Eternal (2014) and Will to Power (2017), and the third Arch Enemy album produced by Jens Bogren at Fascination Street Studio in Örebro, Sweden. The Bogren / Fascination Street partnership reached its most mature and assured form on Deceivers — a production that captures the full depth and tonal complexity of Arch Enemy's established White-Gluz era sound with confidence and precision.\n\nDeceivers arrived after a five-year gap following Will to Power — the extended recording period shaped in part by the COVID-19 pandemic's impact on the music industry — and the album reflects an Arch Enemy that had spent that time developing material without the pressure of immediate follow-through. The songwriting is dense and ambitious, featuring some of the band's most compositionally varied material: aggressive intensity peaks alongside melodic passages that push the White-Gluz era's melodic ambitions further than previous albums.\n\nBehind the kit, Daniel Erlandsson turned in what may be his most compositionally mature studio performance in the Arch Enemy catalog. By 2022, Erlandsson had been playing Arch Enemy material for over 27 years — the accumulated experience manifests in drumming that is simultaneously the most precise and the most compositionally aware in the discography. His ability to navigate the album's varied demands — from the full-intensity blast and double-kick passages of 'Handshake with Hell' and 'Sunset Over the Empire' through the more measured, dynamic passages of 'Poisoned Arrow' and 'One Last Time' — reflects the depth of a mature master of his instrument and idiom.\n\nErlandsson's setup for Deceivers maintained the White-Gluz era configuration: Pearl Reference Pure shells, Pearl Daniel Erlandsson Signature snare, Meinl Byzance multi-series cymbals, Pearl Demon Drive double bass pedal. Jens Bogren's Fascination Street production captured this setup in its most refined form — the production relationship's third iteration produced its most nuanced and tonally sophisticated result.",
+      "content": "Released August 12, 2022 on Century Media Records, Arch Enemy's eleventh studio album Deceivers is the band's most recent studio recording — the current endpoint of a discography that stretches from Black Earth (1996) to the present day. It is the third and most recent album of the Alissa White-Gluz era, following War Eternal (2014) and Will to Power (2017), and the third Arch Enemy album produced by Jens Bogren at Fascination Street Studio in Örebro, Sweden. The Bogren / Fascination Street partnership reached its most mature and assured form on Deceivers — a production that captures the full depth and tonal complexity of Arch Enemy's established White-Gluz era sound with confidence and precision.\n\nDeceivers arrived after a five-year gap following Will to Power — the extended recording period shaped in part by the COVID-19 pandemic's impact on the music industry — and the album reflects an Arch Enemy that had spent that time developing material without the pressure of immediate follow-through. The songwriting is dense and ambitious, featuring some of the band's most compositionally varied material: aggressive intensity peaks alongside melodic passages that push the White-Gluz era's melodic ambitions further than previous albums.\n\nBehind the kit, Daniel Erlandsson turned in what may be his most compositionally mature studio performance in the Arch Enemy catalog. By 2022, Erlandsson had been playing Arch Enemy material for over 27 years — the accumulated experience manifests in drumming that is simultaneously the most precise and the most compositionally aware in the discography. His ability to navigate the album's varied demands — from the full-intensity blast and double-kick passages of 'Handshake with Hell' and 'Sunset Over the Empire' through the more measured, dynamic passages of 'Poisoned Arrow' and 'One Last Time' — reflects the depth of a mature master of his instrument and idiom.\n\nErlandsson's setup for Deceivers maintained the White-Gluz era configuration: Pearl Reference Pure shells, Pearl Daniel Erlandsson Signature snare, Sabian AAX/HHX cymbals, Pearl Eliminator double bass pedal. Jens Bogren's Fascination Street production captured this setup in its most refined form — the production relationship's third iteration produced its most nuanced and tonally sophisticated result.",
       "keyPoints": [
         "Released August 12, 2022 on Century Media Records — Arch Enemy's most recent studio album",
         "Third and final chapter of the Alissa White-Gluz era arc (War Eternal 2014 → Will to Power 2017 → Deceivers 2022)",
         "Third Jens Bogren / Fascination Street production — the partnership at its most assured and mature",
         "Pearl Reference Pure kit — Daniel Erlandsson's 27-year-established Pearl configuration",
-        "Meinl Byzance multi-series — most nuanced cymbal capture of the Bogren partnership",
+        "Sabian AAX/HHX — most nuanced cymbal capture of the Bogren partnership",
         "Daniel Erlandsson's most compositionally mature studio performance in the Arch Enemy catalog",
         "Five-year recording gap from Will to Power (2017) — extended development time visible in compositional depth"
       ]
@@ -2169,7 +2169,7 @@ export const articles = {
         ],
         "shells": "Pure maple — Reference Pure flagship shell construction"
       },
-      "description": "On Deceivers (2022), Daniel Erlandsson's Pearl Reference Pure kit had been his consistent configuration for seventeen years — from Doomsday Machine (2005) through six consecutive Arch Enemy studio albums. The Reference Pure's longevity in his setup is a testament to the shell platform's excellence: pure maple construction for tonal clarity, the physical endurance for decades of international touring, and a sonic identity so fundamental to the Arch Enemy drum sound that changing it would alter the band's entire rhythmic identity.\n\nJens Bogren's third Fascination Street production captured the Reference Pure with the greatest tonal sophistication of the three-album partnership. The accumulated familiarity with both the studio's acoustic environment and the Pearl Reference Pure's sonic character gave Bogren the knowledge to shape the drum sound with precision: nuanced room/close-mic balance that preserved the shells' natural resonance, careful low-end shaping that gave the double kicks authority without mud, and tonal balance across the kit's full range that serves the album's compositionally varied material.\n\nDeceivers' most intense passages — 'Handshake with Hell,' 'Sunset Over the Empire,' 'Spreading Black Wings' — place extreme demands on the double 22\" x 18\" bass drum configuration. By 2022, Erlandsson's physical and technical command of the double-kick patterns in these tracks was at its most efficient: 27 years of playing Arch Enemy material had refined the execution to its most energy-effective form, and the Demon Drive's belt-drive mechanics maintained the consistent beater response that sustained high-velocity double-kick requires.",
+      "description": "On Deceivers (2022), Daniel Erlandsson's Pearl Reference Pure kit had been his consistent configuration for seventeen years — from Doomsday Machine (2005) through six consecutive Arch Enemy studio albums. The Reference Pure's longevity in his setup is a testament to the shell platform's excellence: pure maple construction for tonal clarity, the physical endurance for decades of international touring, and a sonic identity so fundamental to the Arch Enemy drum sound that changing it would alter the band's entire rhythmic identity.\n\nJens Bogren's third Fascination Street production captured the Reference Pure with the greatest tonal sophistication of the three-album partnership. The accumulated familiarity with both the studio's acoustic environment and the Pearl Reference Pure's sonic character gave Bogren the knowledge to shape the drum sound with precision: nuanced room/close-mic balance that preserved the shells' natural resonance, careful low-end shaping that gave the double kicks authority without mud, and tonal balance across the kit's full range that serves the album's compositionally varied material.\n\nDeceivers' most intense passages — 'Handshake with Hell,' 'Sunset Over the Empire,' 'Spreading Black Wings' — place extreme demands on the double 22\" x 18\" bass drum configuration. By 2022, Erlandsson's physical and technical command of the double-kick patterns in these tracks was at its most efficient: 27 years of playing Arch Enemy material had refined the execution to its most energy-effective form, and the Pearl Eliminator's cam-adjustable mechanics maintained the consistent beater response that sustained high-velocity double-kick requires.",
       "notes": [
         "Pearl Reference Pure — 17-year consistent configuration, from Doomsday Machine (2005) to Deceivers (2022)",
         "Third Jens Bogren Fascination Street production — the most nuanced and refined drum capture of the partnership",
@@ -2190,53 +2190,53 @@ export const articles = {
       "estimatedValue": "$400–700 (Pearl signature snare series)"
     },
     "cymbals": {
-      "title": "Meinl Byzance: The Most Nuanced Cymbal Capture of the Bogren Partnership",
-      "brand": "Meinl",
-      "series": "Meinl Byzance Multi-Series",
+      "title": "Sabian AAX/HHX: The Most Nuanced Cymbal Capture of the Bogren Partnership",
+      "brand": "Sabian",
+      "series": "Sabian AAX / HHX Series",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Meinl Byzance 14\" Traditional or Dark Hi-Hats",
+          "model": "Sabian AAX 14\" Hi-Hats",
           "position": "Left side",
-          "notes": "Hand-hammered B20 complex articulation — most nuanced hi-hat capture of the Arch Enemy discography"
+          "notes": "Bright, modern articulation — most nuanced hi-hat capture of the Arch Enemy discography"
         },
         {
           "type": "Crash",
-          "model": "Meinl Byzance 16\" Vintage or Dark Crash",
+          "model": "Sabian AAX 16\" Crash",
           "position": "Left crash",
-          "notes": "Musical warmth for the album's melodically rich section entries"
+          "notes": "Fast attack and projection for the album's melodically rich section entries"
         },
         {
           "type": "Crash",
-          "model": "Meinl Byzance 18\" Medium Crash",
+          "model": "Sabian AAX 18\" Crash",
           "position": "Right crash",
           "notes": "Fuller sustain for major structural transitions and chorus entries"
         },
         {
           "type": "Ride",
-          "model": "Meinl Byzance 20\" Dark or Vintage Ride",
+          "model": "Sabian HHX 20\" Ride",
           "position": "Right side",
-          "notes": "Warm tonal depth for groove-oriented passages — maintains Gothenburg contrast tradition"
+          "notes": "Dark tonal depth for groove-oriented passages — maintains Gothenburg contrast tradition"
         },
         {
           "type": "China",
-          "model": "Meinl Byzance China 18\"",
+          "model": "Sabian HHX China 18\"",
           "position": "Over rack toms",
           "notes": "Aggressive trashy riff-transition accent — sustained across three decades of Arch Enemy performance"
         }
       ],
-      "description": "Erlandsson's Meinl Byzance cymbal setup on Deceivers represents the most sophisticated capture of his cymbal palette in the entire Arch Enemy studio discography. By the third Fascination Street production (2022), Jens Bogren's deep familiarity with both Erlandsson's Byzance setup and Fascination Street's acoustic environment allowed for the most nuanced tonal shaping of any Arch Enemy album: the hi-hats' complex B20 character preserved with full warmth, the crash cymbals' musical sustain integrated into the mix with sophisticated balance, the dark ride's textural depth captured as a true tonal contrast point rather than a secondary accent choice.\n\nDeceivers' compositional variety places the cymbal setup's full range in play across a single album in a way that no previous Arch Enemy record had done to quite the same degree. The album's more melodic passages — 'Poisoned Arrow,' 'One Last Time,' 'In the Eye of the Storm' — ask the cymbals to function as musical elements rather than pure accent markers. The Byzance series' hand-hammered complexity serves those passages well: the overtone-rich character, musical sustain, and tonal warmth that Meinl's flagship line delivers integrate naturally into melodic arrangements in a way that brighter, faster-decaying cymbals could not.",
-      "estimatedValue": "$1,800–3,000 (full Meinl Byzance multi-series setup)"
+      "description": "Erlandsson's Sabian AAX/HHX cymbal setup on Deceivers represents the most sophisticated capture of his cymbal palette in the entire Arch Enemy studio discography. By the third Fascination Street production (2022), Jens Bogren's deep familiarity with both Erlandsson's AAX/HHX setup and Fascination Street's acoustic environment allowed for the most nuanced tonal shaping of any Arch Enemy album: the hi-hats' bright character preserved with full projection, the crash cymbals' sustain integrated into the mix with sophisticated balance, the dark HHX ride's textural depth captured as a true tonal contrast point rather than a secondary accent choice.\n\nDeceivers' compositional variety places the cymbal setup's full range in play across a single album in a way that no previous Arch Enemy record had done to quite the same degree. The album's more melodic passages — 'Poisoned Arrow,' 'One Last Time,' 'In the Eye of the Storm' — ask the cymbals to function as musical elements rather than pure accent markers. The AAX/HHX series serves those passages well: the bright AAX projection and the HHX's hand-hammered complexity, overtone-rich sustain, and tonal depth integrate naturally into melodic arrangements in a way that a single-series setup could not.",
+      "estimatedValue": "$1,700–2,900 (full Sabian AAX/HHX setup)"
     },
     "hardware": {
-      "title": "Pearl Demon Drive in 2022: Over a Decade of Belt-Drive Consistency",
+      "title": "Pearl Eliminator in 2022: Two Decades of Cam-Drive Consistency",
       "items": [
         {
           "type": "Bass Drum Pedals",
           "brand": "Pearl",
-          "model": "Pearl Demon Drive Double Bass Pedal",
-          "notes": "Belt-drive spring-loaded mechanics — over a decade of consistency from Khaos Legions (2011) to Deceivers (2022)",
-          "description": "The Pearl Demon Drive had served as Erlandsson's primary foot technique tool from Khaos Legions (2011) through the entire White-Gluz era. By Deceivers (2022), the belt-drive pedal had accumulated over a decade of touring and studio use — the physical familiarity between Erlandsson and the Demon Drive's mechanical response was at its peak. The pedal's consistent spring-loaded acceleration curve provided the reliable double-kick character that Deceivers' most intensive passages demanded, executing the band's sustained double-kick patterns with the same efficiency that had characterised Erlandsson's foot technique across all three White-Gluz era albums."
+          "model": "Pearl Eliminator Double Bass Pedal",
+          "notes": "Cam-adjustable mechanics — over two decades of consistency since 2001",
+          "description": "The Pearl Eliminator has served as Erlandsson's primary foot technique tool since 2001, through every Arch Enemy studio album including the entire White-Gluz era. By Deceivers (2022), the pedal had accumulated over two decades of touring and studio use — the physical familiarity between Erlandsson and the Eliminator's mechanical response was at its peak. The pedal's consistent, cam-adjustable acceleration curve provided the reliable double-kick character that Deceivers' most intensive passages demanded, executing the band's sustained double-kick patterns with the same efficiency that had characterised Erlandsson's foot technique across his entire Arch Enemy career."
         },
         {
           "type": "Sticks",
@@ -2266,15 +2266,15 @@ export const articles = {
     "faq": [
       {
         "question": "Who played drums on Arch Enemy's Deceivers (2022)?",
-        "answer": "Daniel Erlandsson played drums on Arch Enemy's Deceivers (2022), as he has on every Arch Enemy studio album since co-founding the band in 1995. Deceivers was Erlandsson's eleventh studio album with Arch Enemy — the current endpoint of a discography stretching from Black Earth (1996) to the present day. His setup maintained the White-Gluz era configuration that had defined the previous two albums: Pearl Reference Pure kit, Pearl Daniel Erlandsson Signature snare (14\" x 5.5\"), Meinl Byzance multi-series cymbals, Pearl Demon Drive double bass pedal. For Erlandsson's full career gear context: [Daniel Erlandsson drum setup at MetalForge](/articles/daniel-erlandsson-drum-setup) and [Daniel Erlandsson drummer profile](/drummer/daniel-erlandsson)."
+        "answer": "Daniel Erlandsson played drums on Arch Enemy's Deceivers (2022), as he has on every Arch Enemy studio album since co-founding the band in 1995. Deceivers was Erlandsson's eleventh studio album with Arch Enemy — the current endpoint of a discography stretching from Black Earth (1996) to the present day. His setup maintained the White-Gluz era configuration that had defined the previous two albums: Pearl Reference Pure kit, Pearl Daniel Erlandsson Signature snare (14\" x 5.5\"), Sabian AAX/HHX cymbals, Pearl Eliminator double bass pedal. For Erlandsson's full career gear context: [Daniel Erlandsson drum setup at MetalForge](/articles/daniel-erlandsson-drum-setup) and [Daniel Erlandsson drummer profile](/drummer/daniel-erlandsson)."
       },
       {
         "question": "What is Arch Enemy's newest album?",
-        "answer": "Arch Enemy's newest album is Deceivers, released August 12, 2022 on Century Media Records. It is the band's eleventh studio album and the third and most recent release of the Alissa White-Gluz era, following War Eternal (2014) and Will to Power (2017). Deceivers was produced by Jens Bogren at Fascination Street Studio in Örebro, Sweden — the third collaboration between Arch Enemy and Bogren, and the most mature result of that production partnership. Drummer Daniel Erlandsson recorded the album on his Pearl Reference Pure kit with Meinl Byzance cymbals and Pearl Demon Drive double bass pedal. For the album-by-album White-Gluz era breakdown: [War Eternal (2014)](/articles/war-eternal-drum-setup) · [Will to Power (2017)](/articles/will-to-power-drum-setup) · [Daniel Erlandsson drummer profile](/drummer/daniel-erlandsson)."
+        "answer": "Arch Enemy's newest album is Deceivers, released August 12, 2022 on Century Media Records. It is the band's eleventh studio album and the third and most recent release of the Alissa White-Gluz era, following War Eternal (2014) and Will to Power (2017). Deceivers was produced by Jens Bogren at Fascination Street Studio in Örebro, Sweden — the third collaboration between Arch Enemy and Bogren, and the most mature result of that production partnership. Drummer Daniel Erlandsson recorded the album on his Pearl Reference Pure kit with Sabian AAX/HHX cymbals and Pearl Eliminator double bass pedal. For the album-by-album White-Gluz era breakdown: [War Eternal (2014)](/articles/war-eternal-drum-setup) · [Will to Power (2017)](/articles/will-to-power-drum-setup) · [Daniel Erlandsson drummer profile](/drummer/daniel-erlandsson)."
       },
       {
         "question": "What drum kit did Daniel Erlandsson use on Deceivers?",
-        "answer": "Daniel Erlandsson used his Pearl Reference Pure kit on Deceivers (2022) — the same all-maple flagship Pearl configuration that had been his studio and touring setup since Doomsday Machine (2005), now in its seventeenth year as Erlandsson's primary Arch Enemy kit. The configuration maintained his consistent standard: two 22\" x 18\" bass drums, 10\" and 12\" rack toms, 14\" and 16\" floor toms, Pearl Daniel Erlandsson Signature snare (14\" x 5.5\"), and Meinl Byzance multi-series cymbals. Jens Bogren's third Fascination Street production captured this setup with the greatest tonal nuance of the three-album partnership. The Pearl Demon Drive double bass pedal, used since Khaos Legions (2011), drove the double-kick work. For the full setup history: [Daniel Erlandsson drum setup](/articles/daniel-erlandsson-drum-setup)."
+        "answer": "Daniel Erlandsson used his Pearl Reference Pure kit on Deceivers (2022) — the same all-maple flagship Pearl configuration that had been his studio and touring setup since Doomsday Machine (2005), now in its seventeenth year as Erlandsson's primary Arch Enemy kit. The configuration maintained his consistent standard: two 22\" x 18\" bass drums, 10\" and 12\" rack toms, 14\" and 16\" floor toms, Pearl Daniel Erlandsson Signature snare (14\" x 5.5\"), and Sabian AAX/HHX cymbals. Jens Bogren's third Fascination Street production captured this setup with the greatest tonal nuance of the three-album partnership. The Pearl Eliminator double bass pedal, used continuously since 2001, drove the double-kick work. For the full setup history: [Daniel Erlandsson drum setup](/articles/daniel-erlandsson-drum-setup)."
       },
       {
         "question": "How does Deceivers compare to Will to Power and War Eternal?",
@@ -2298,7 +2298,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "Deceivers: The Current Arc Closer of Arch Enemy's Studio Discography",
-      "content": "Deceivers (August 12, 2022) is where the Arch Enemy studio discography currently ends — the most recent chapter of a career that began in 1995 and has produced eleven studio albums of Gothenburg melodic death metal at consistently high professional level. Daniel Erlandsson's performance on the album is the product of 27 years playing Arch Enemy material: the physical efficiency, compositional intelligence, and technical precision accumulated across that entire span is present in every track, from the full-intensity blast passages of 'Handshake with Hell' through the more measured dynamics of 'One Last Time.'\n\nJens Bogren's third Fascination Street production captured Erlandsson's Pearl Reference Pure setup with the greatest nuance of the three-album partnership — a fitting technical achievement for the most mature creative result of the White-Gluz era. The album's compositional range, its tonal sophistication, and the quality of Erlandsson's performance make it the strongest single artistic statement of the White-Gluz era to date.\n\n**Key takeaways for drummers studying this album:**\n- Pearl Reference Pure's 17-year arc as Erlandsson's configuration — stability as a professional philosophy\n- Meinl Byzance complexity integrated into melodic arrangements, not just aggressive sections\n- Pearl Demon Drive 11-year touring familiarity — the benefits of consistent mechanical relationship\n- Compositional maturity as the defining drumming attribute — blast beats and double-kick as tools in a larger musical architecture\n\n**Explore the full Arch Enemy arc at MetalForge:**\n- [War Eternal drum setup (2014)](/articles/war-eternal-drum-setup) — arc-opening White-Gluz era album\n- [Will to Power drum setup (2017)](/articles/will-to-power-drum-setup) — chart-topping commercial peak\n- [Khaos Legions drum setup (2011)](/articles/khaos-legions-drum-setup) — the Gossow era closer preceding this arc\n- [Daniel Erlandsson drum setup](/articles/daniel-erlandsson-drum-setup) — full career gear profile\n- [Daniel Erlandsson drummer profile](/drummer/daniel-erlandsson) — three-decade Arch Enemy career context"
+      "content": "Deceivers (August 12, 2022) is where the Arch Enemy studio discography currently ends — the most recent chapter of a career that began in 1995 and has produced eleven studio albums of Gothenburg melodic death metal at consistently high professional level. Daniel Erlandsson's performance on the album is the product of 27 years playing Arch Enemy material: the physical efficiency, compositional intelligence, and technical precision accumulated across that entire span is present in every track, from the full-intensity blast passages of 'Handshake with Hell' through the more measured dynamics of 'One Last Time.'\n\nJens Bogren's third Fascination Street production captured Erlandsson's Pearl Reference Pure setup with the greatest nuance of the three-album partnership — a fitting technical achievement for the most mature creative result of the White-Gluz era. The album's compositional range, its tonal sophistication, and the quality of Erlandsson's performance make it the strongest single artistic statement of the White-Gluz era to date.\n\n**Key takeaways for drummers studying this album:**\n- Pearl Reference Pure's 17-year arc as Erlandsson's configuration — stability as a professional philosophy\n- Sabian AAX/HHX complexity integrated into melodic arrangements, not just aggressive sections\n- Pearl Eliminator's two-decade touring familiarity — the benefits of a consistent mechanical relationship\n- Compositional maturity as the defining drumming attribute — blast beats and double-kick as tools in a larger musical architecture\n\n**Explore the full Arch Enemy arc at MetalForge:**\n- [War Eternal drum setup (2014)](/articles/war-eternal-drum-setup) — arc-opening White-Gluz era album\n- [Will to Power drum setup (2017)](/articles/will-to-power-drum-setup) — chart-topping commercial peak\n- [Khaos Legions drum setup (2011)](/articles/khaos-legions-drum-setup) — the Gossow era closer preceding this arc\n- [Daniel Erlandsson drum setup](/articles/daniel-erlandsson-drum-setup) — full career gear profile\n- [Daniel Erlandsson drummer profile](/drummer/daniel-erlandsson) — three-decade Arch Enemy career context"
     }
   }
 };
